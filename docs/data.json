@@ -1,7 +1,171 @@
 {
-  "updated": "2026-08-21 07:27:06",
-  "count": 16056,
+  "updated": "2026-08-21 07:36:05",
+  "count": 16062,
   "items": [
+    {
+      "id": "te:markets:576987",
+      "time": "2026-08-21 07:35:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Set for Second Straight Weekly Rise — Crude oil traded above $86 per barrel on Friday and was on track to post a second consecutive weekly gain, rising nearly 6% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an \"economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets."
+    },
+    {
+      "id": "5050878",
+      "time": "2026-08-21 07:35:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：此次美債財政回購真正目的在穩定美股】據中信建投，財政回購是美國財政部一種常見管理方式，管理國債老券流動性以及國庫現金。回購制度本身並無新意，理論上應該掀不起市場水花。但這次財政回購有兩處操作細節，一是距離本季回購日程公佈只有兩週；二是美國債市的老券交易流動性正常。說明這次回購針對的就是美債利率波動。可以這樣下判斷，這不是一次常規的財政回購，而是針對性管理美債利率預期的操作，真正目的在穩定美股。對於美債，美債利率中樞上行的底層宏觀敘事沒有終結，回購加碼壓制美債利率治標不治本。對於美股，此次回購針對性穩定預期，有利於緩解短期美股恐慌情緒。針對黃金，美國財政貨幣操作已被繫結在科技之上，美元信用一再透支，利好黃金等去主權貨幣的資產敘事。"
+    },
+    {
+      "id": "mkt:01a02186-cecb-7aab-90c3-15c1975f264d",
+      "time": "2026-08-21 07:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology's Wang Xingxing unveils \"physical AI robot self-evolution\"】At the World Robot Conference on Aug. 20, 2026, Yushu Technology chairman, general manager and chief technology officer Wang Xingxing said the firm is concentrating its largest current capital and headcount investment on AI models and publicly outlined a \"physical AI robot self-evolution\" initiative. The program seeks to build a self-evolving physical-robot model system that leverages frontier large models to define rules, experience constraints and tool boundaries; the models will autonomously retrieve leading papers, high-quality research and open-source solutions and automatically generate robot control code. Wang noted AI is widely used in programming and development but remains underutilized in robotics, motivating the effort."
+    },
+    {
+      "id": "te:economy:576986",
+      "time": "2026-08-21 07:34:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "Japan Inflation Rate Hits 7-Month High — Japan's annual inflation rate accelerated to 2.0% in July 2026 from a marginally revised 1.6% in the prior month, marking the highest reading since December 2025. Core inflation, which excludes fresh food, rose to 1.8% from 1.6%, matching market consensus and reaching its highest since March. However, core inflation remained below the Bank of Japan's 2% target for a sixth straight month."
+    },
+    {
+      "id": "5050877",
+      "time": "2026-08-21 07:33:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Waymo官宣自研晶片上車 劍指Robotaxi效能與成本雙提升】Waymo週四（8月20日）在官網表示，這款ASIC（專用積體電路）晶片已經應用於Waymo最新一代Robotaxi。Waymo稱，將自研晶片與其他晶片以及公司自主設計的感測器結合使用，將提升Robotaxi在複雜城市環境中的反應能力和導航能力。Waymo稱，該ASIC的專用加速器可即時從原始鐳射雷達、雷達和攝像頭資料流中提取關鍵資訊，用於增強低光照感知能力的時域降噪。新聞稿表示，其自研晶片的算力超過1000 TOPS——按照這一指標衡量，Waymo的自研晶片已經達到與英偉達最新一代自動駕駛系統相當的水平。"
+    },
+    {
+      "id": "5050876",
+      "time": "2026-08-21 07:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI算力需求驅動 玻纖行業上半年業績普遍向好】玻纖行業龍頭中國巨石8月20日披露半年報，今年上半年實現營業收入111.59億元，同比增長22.5%；淨利潤29.33億元，同比大幅增長73.87%。與此同時，中材科技、國際復材、金安國紀等多家產業鏈公司同期業績呈現不同程度增長。在AI算力需求驅動下，玻纖及電子布行業景氣度持續攀升，龍頭企業正加速佈局產能，一場圍繞高階化、特種化的產能競賽已然展開。"
+    },
+    {
+      "id": "5050875",
+      "time": "2026-08-21 07:31:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博通版“算力融資池”據傳將加碼超600億美元】據媒體援引知情人士報道，博通（Broadcom）正與一批機構洽談，計劃透過債務融資籌集超過600億美元的資金，用於為人工智慧晶片專案提供資金支援。該交易將使Anthropic等其他公司受益。根據擬議方案，博通將為部分高階擔保債務提供擔保。這部分債務規模可能在600億至700億美元之間。此次債務將由一家特殊目的載體（SPV）發行。知情人士表示，這項融資方案目前仍在敲定之中，可能還會包括一筆規模約300億美元的次級債務。如果按照目前討論中的規模計算，整筆融資總額最高可能達到1000億美元。黑石集團和阿波羅全球管理據傳正在與博通展開洽談。三家公司今年6月已經達成“AI XPV平臺”合作關係，為Fluidstack負責建設和運營的資料中心部署1吉瓦博通定製晶片提供350億美元融資，該算力最終由Anthropic購買和使用。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608213848298825",
+      "time": "2026-08-21 07:30:43",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月核心CPI同比增長1.8%，預期1.80%，前值1.60%。"
+    },
+    {
+      "id": "5050874",
+      "time": "2026-08-21 07:30:16",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本7月CPI同比 1.9%，預期 1.9%，前值 1.6%。\n日本7月CPI(除生鮮食品)同比 1.8%，預期 1.8%，前值 1.6%。\n日本7月CPI(除生鮮食品及能源)同比 1.9%，預期 1.9%，前值 1.7%。"
+    },
+    {
+      "id": "mkt:01a02182-c58d-7aab-90c3-0d4315b7df6b",
+      "time": "2026-08-21 07:30:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan nationwide CPI rose 2.0% YoY in July, above the 1.9% consensus and up from 1.6% previously."
+    },
+    {
+      "id": "mkt:01a02182-bfc5-7aab-90c3-0032f083ad27",
+      "time": "2026-08-21 07:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan July core CPI YoY 1.8% (consensus 1.8%; prior 1.6%)."
+    },
+    {
+      "id": "5050873",
+      "time": "2026-08-21 07:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【洮南市綠氫耦合生物質綠色醇油一體化專案正式啟動】據上海電氣訊息，8月20日，洮南市綠氫耦合生物質綠色醇油一體化專案（簡稱“洮南二期專案”）正式啟動。洮南二期專案規劃年產20萬噸綠色甲醇及1萬噸可持續航空燃料（SAF）。專案採用上海電氣新一代綠色燃料系統解決方案，首創離網型綠色直連模式，依託“風+光+儲+生物質”多元綠電供應，搭載上海電氣先進電解水制氫、純氧加壓流化床生物質氣化3.0、富CO₂合成氣甲醇合成及費託合成制SAF等關鍵核心技術，構建起“綠色甲醇+可持續航空燃料”多元產品矩陣，持續推動綠色燃料在航空、航運等領域的規模化應用。"
+    },
+    {
+      "id": "mkt:01a02182-94c6-7aab-90c2-fd5157305c0c",
+      "time": "2026-08-21 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Jul) | actual 1.8% | consensus 1.80% | previous 1.60%"
+    },
+    {
+      "id": "mkt:01a02182-94c1-7aab-90c2-f1a765001736",
+      "time": "2026-08-21 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Jul) | actual 2% | consensus 1.90% | previous 1.60%"
+    },
+    {
+      "id": "5050872",
+      "time": "2026-08-21 07:27:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【磷酸鐵鋰正極材料行業迎全面復甦 龍頭公司業績增超8倍】磷酸鐵鋰正極材料行業迎來全面復甦。從已釋出或預告半年度業績的情況來看，多家磷酸鐵鋰上市公司盈利能力顯著修復。其中，龍頭廠商湖南裕能上半年淨利潤同比大增超8倍。當前，磷酸鐵鋰行業高階有效產能持續緊缺，疊加原材料價格上漲帶來的成本壓力，業內企業正在掀起新一輪漲價潮，並瞄準高階化賽道精準擴產，持續最佳化產能結構和市場佈局。"
+    },
+    {
+      "id": "5050871",
+      "time": "2026-08-21 07:27:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機器人“大腦”加速進化 模型與資料成為產業競爭新焦點】過去，機器人大會上的“明星”往往是能夠完成複雜動作的機器人本體。今年，產業關注點正在發生變化：從“機器人能做什麼”，轉向“機器人如何學會更多事情”。在2026世界機器人大會現場，記者觀察發現，越來越多企業展示的不再只是機器人行走、抓取、運動控制等單項能力，而是圍繞具身智慧模型、世界模型、資料採集、模擬訓練等底層能力展開佈局。機器人產業競爭正在從過去的硬體效能比拼，轉向“模型+資料”的綜合能力競爭。這一變化背後，是人工智慧技術向物理世界加速延伸。業內人士認為，機器人要真正進入生產生活場景，不僅需要具備執行任務的能力，也需要形成對現實世界的理解能力。隨著機器人“大腦”不斷進化，模型和資料正在成為產業發展的新焦點。（上海證券報）"
+    },
+    {
+      "id": "5050870",
+      "time": "2026-08-21 07:26:39",
+      "tags": [
+        "央行",
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【多國長期國債收益率攀升 全球金融市場格局迎來階段性重構】今年以來，全球債券市場深度調整，以美國國債為核心的全球無風險收益率持續上行，各大主要經濟體長端國債收益率普遍走高。8月中旬，美國10年期國債收益率站到4.5%上方，30年期美債收益率同步突破5%，法國、英國、日本等主流經濟體長期國債收益率同步攀升。為對沖收益率快速上行帶來的市場壓力，美國財政部於8月19日出臺“救市”舉措，宣佈將國債回購操作規模擴容至少一倍。業內受訪專家表示，本輪全球國債收益率上行是多重因素共振的結果，美國高企的政府債務風險、通脹反彈、主要央行延續緊縮貨幣政策、國債市場供需結構失衡等多重力量共同推動了行情的走高。作為全球資產定價基準，美債收益率持續上行，正重塑全球資本流動路徑、大類資產估值體系與各國貨幣政策節奏，股票、外匯、大宗商品及跨境投資的定價邏輯全面適配調整，全球金融市場格局迎來階段性重構。（證券時報）"
+    },
     {
       "id": "5050869",
       "time": "2026-08-21 07:26:12",
@@ -854,6 +1018,15 @@
         "其他"
       ],
       "text": "【新政啟用 需求釋放 熱點城市樓市迎結構性回暖】進入2026年下半年，隨著各地樓市政策發力，熱點城市房地產市場走出穩步修復行情。記者調研發現，當前熱點城市樓市已告別普漲式回暖，迎來真實居住需求主導下的結構性修復，購房者決策更趨審慎理性，賣舊買新的置換需求持續升溫。房地產行業已邁入供需關係持續最佳化、發展質量優先的新週期。 (上證報)"
+    },
+    {
+      "id": "em:qqyh_mlc:202608213848270313",
+      "time": "2026-08-21 06:12:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲9月維持利率不變的機率為63.8%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為63.8%，累計加息25個基點的機率為36.2%。美聯儲到10月維持利率不變的機率為51.8%，累計加息25個基點的機率為41.4%，累計加息50個基點的機率為6.8%。"
     },
     {
       "id": "mkt:01a02134-0dea-7aab-90c2-0a4768f203a2",
@@ -146819,122 +146992,6 @@
         "國際"
       ],
       "text": "【在指向不一的訊號下油價小幅走低】在指向不一的訊號下，油價在早盤交易中小幅走低。澳新銀行研究部的分析師在一份研究報告中表示，一方面，有跡象表明石油供應正在增加。這些分析師表示：“據說阿聯酋和沙烏地阿拉伯等波斯灣產油國正在盡其所能保持出口暢通，包括切換應答器，以便在不被發現的情況下透過[霍爾木茲]海峽運輸貨物。“這些分析師補充說，另一方面，“有報道稱，伊朗支援的胡塞武裝將目標對準了沙特阿美位於紅海沿岸吉讚的煉油廠。“近月西得州中質油期貨下跌0.1%，報每桶81.20美元。"
-    },
-    {
-      "id": "mkt:019ffd7b-016f-7aab-902f-96108339773a",
-      "time": "2026-08-14 07:35:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. is exerting maximum pressure on Iran's global bank accounts and that those measures have caused Iran's banking sector to collapse."
-    },
-    {
-      "id": "5040149",
-      "time": "2026-08-14 07:32:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普將於美國東部時間週五下午3點在紐約發表講話。"
-    },
-    {
-      "id": "5040148",
-      "time": "2026-08-14 07:31:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI影視爆火催生多個新工種 人才需求正大幅攀升】AIGC導演、AI音訊編劇、AI生圖師、AI抽卡師（AI影片生成師）……在頭部短劇企業嘉興九州文化傳媒有限公司（下稱“九州文化”），AI內容創作相關的崗位已佔全員的60%，其中有不少這樣充滿特色的AI相關崗位。AI技術在影視行業的應用逐漸深化，AI短劇、AI漫劇等AI影視內容產量大幅提升。AI影視內容的火爆帶動了相關人才需求的增長。傳統影視企業的主要崗位包括策劃、剪輯、導演等，而在以生產AI影視內容為主的影視企業，一批頗具特色的新崗位對AI影視人才的需求正大幅攀升。九州文化相關人士向證券時報記者介紹，公司近一年來員工總數從約3000人快速擴張至9000餘人，淨增6000人，新增崗位幾乎全部集中於AI內容生產鏈條。"
-    },
-    {
-      "id": "5040147",
-      "time": "2026-08-14 07:31:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【貝萊德全球固定收益首席投資官：日元的反彈有賴於日本央行鷹派訊號】貝萊德全球固定收益首席投資官Rick Rieder表示，要支撐日元，僅靠政府幹預還不夠，日本央行還需要釋放鷹派訊號。日元本週再度向1美元兌160日元靠近，再次逼近四十年來最低水平。 Rieder接受媒體採訪時表示，外匯干預並不是推動日元反彈“最持久”的途徑。“這麼多年來，我見過不少干預，要奏效，就必須動用大量火力並持續下去，”Rieder表示，“貨幣政策必須達到這樣一種狀態，讓人們相信你會加息，需要鷹派時就會採取鷹派立場。我認為日本需要展現出這一點。”"
-    },
-    {
-      "id": "5040146",
-      "time": "2026-08-14 07:30:53",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【國泰海通：美國通脹延續溫和 加息擔憂暫緩】國泰海通釋出研報稱，7月美國通脹資料符合預期，結構上呈現商品偏強服務仍穩的特點，部分緩解了市場對美聯儲9月加息的擔憂。當前美國通脹仍延續溫和，但仍需警惕油價以及需求端韌性對通脹回落帶來的擾動。若8月通脹資料仍未超預期走強且美國就業維持低就業增長的狀態，美聯儲觀望視窗或將進一步延長，9月仍有可能維持利率不變。"
-    },
-    {
-      "id": "5040145",
-      "time": "2026-08-14 07:30:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國鋁業公司與EQUUS公司簽署天然氣銷售協議。"
-    },
-    {
-      "id": "te:markets:575204",
-      "time": "2026-08-14 07:29:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Decline Amid Hormuz Stalemate — Brent traded near $87 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision."
-    },
-    {
-      "id": "5040144",
-      "time": "2026-08-14 07:29:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國內兩大晶片巨頭二季度業績超預期】8月13日晚間，國內兩大晶片巨頭中芯國際和華虹宏力釋出今年第二季度未經稽核業績，雙雙超預期。據披露，中芯國際第二季度銷售收入為30億美元，季度環比增長20%，同比增長36.1%；第二季度毛利率為25.3%，第一季度毛利率為20.1%，2025年第二季度毛利率為20.4%。對比來看，在今年一季報中，中芯國際對第二季度給出的收入預期為環比增長14%到16%，毛利率預期為20%—22%。實際公佈的業績超此前預期。當晚，華虹宏力公佈的財報顯示，公司第二季度毛利率16.5%，同比上升5.6個百分點，環比上升3.5個百分點；銷售收入達7.175億美元，同比增長26.8%，環比增長8.6%；母公司擁有人應占利潤3860萬美元，同比上升385.9%，環比上升84.6%。對比來看，在今年一季報中，華虹宏力對第二季度給出的銷售收入預期約在6.9億美元至7億美元之間，毛利率預期約為14%—16%。實際公佈的業績也超過了此前預期。"
-    },
-    {
-      "id": "5040143",
-      "time": "2026-08-14 07:28:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【庫克亮相蘋果休斯頓工廠】週三，蘋果CEO蒂姆・庫克與美國商務部長霍華德・盧特尼克等政府官員共同出席得克薩斯州休斯頓全新制造工廠的揭牌儀式。蘋果表示，今年晚些時候，這座工廠將投產Mac Mini臺式電腦；廠區部分割槽域已經在組裝蘋果自用的AI伺服器。本次公開亮相正值庫克CEO任期的最後幾周。9月1日，庫克將轉任董事會執行主席，蘋果資深硬體高管約翰・特努斯接任CEO一職。（第一財經）"
-    },
-    {
-      "id": "mkt:019ffd74-b001-7aab-902f-8b60af5fbdaf",
-      "time": "2026-08-14 07:28:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "Al Arabiya TV reported a drone was shot down over Erbil, the capital of Iraq's Kurdistan region."
-    },
-    {
-      "id": "te:markets:575203",
-      "time": "2026-08-14 07:28:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Decline Amid Hormuz Stalemate — Crude oil traded near $81 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision."
-    },
-    {
-      "id": "5040142",
-      "time": "2026-08-14 07:27:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞風險管理部門：哥倫比亞地震死亡人數升至281人。"
     }
   ]
 }

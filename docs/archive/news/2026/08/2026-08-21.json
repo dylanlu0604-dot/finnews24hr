@@ -1,7 +1,171 @@
 {
   "date": "2026-08-21",
-  "count": 496,
+  "count": 514,
   "items": [
+    {
+      "id": "te:markets:576987",
+      "time": "2026-08-21 07:35:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Set for Second Straight Weekly Rise — Crude oil traded above $86 per barrel on Friday and was on track to post a second consecutive weekly gain, rising nearly 6% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an \"economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets."
+    },
+    {
+      "id": "5050878",
+      "time": "2026-08-21 07:35:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：此次美債財政回購真正目的在穩定美股】據中信建投，財政回購是美國財政部一種常見管理方式，管理國債老券流動性以及國庫現金。回購制度本身並無新意，理論上應該掀不起市場水花。但這次財政回購有兩處操作細節，一是距離本季回購日程公佈只有兩週；二是美國債市的老券交易流動性正常。說明這次回購針對的就是美債利率波動。可以這樣下判斷，這不是一次常規的財政回購，而是針對性管理美債利率預期的操作，真正目的在穩定美股。對於美債，美債利率中樞上行的底層宏觀敘事沒有終結，回購加碼壓制美債利率治標不治本。對於美股，此次回購針對性穩定預期，有利於緩解短期美股恐慌情緒。針對黃金，美國財政貨幣操作已被繫結在科技之上，美元信用一再透支，利好黃金等去主權貨幣的資產敘事。"
+    },
+    {
+      "id": "mkt:01a02186-cecb-7aab-90c3-15c1975f264d",
+      "time": "2026-08-21 07:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology's Wang Xingxing unveils \"physical AI robot self-evolution\"】At the World Robot Conference on Aug. 20, 2026, Yushu Technology chairman, general manager and chief technology officer Wang Xingxing said the firm is concentrating its largest current capital and headcount investment on AI models and publicly outlined a \"physical AI robot self-evolution\" initiative. The program seeks to build a self-evolving physical-robot model system that leverages frontier large models to define rules, experience constraints and tool boundaries; the models will autonomously retrieve leading papers, high-quality research and open-source solutions and automatically generate robot control code. Wang noted AI is widely used in programming and development but remains underutilized in robotics, motivating the effort."
+    },
+    {
+      "id": "te:economy:576986",
+      "time": "2026-08-21 07:34:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "Japan Inflation Rate Hits 7-Month High — Japan's annual inflation rate accelerated to 2.0% in July 2026 from a marginally revised 1.6% in the prior month, marking the highest reading since December 2025. Core inflation, which excludes fresh food, rose to 1.8% from 1.6%, matching market consensus and reaching its highest since March. However, core inflation remained below the Bank of Japan's 2% target for a sixth straight month."
+    },
+    {
+      "id": "5050877",
+      "time": "2026-08-21 07:33:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Waymo官宣自研晶片上車 劍指Robotaxi效能與成本雙提升】Waymo週四（8月20日）在官網表示，這款ASIC（專用積體電路）晶片已經應用於Waymo最新一代Robotaxi。Waymo稱，將自研晶片與其他晶片以及公司自主設計的感測器結合使用，將提升Robotaxi在複雜城市環境中的反應能力和導航能力。Waymo稱，該ASIC的專用加速器可即時從原始鐳射雷達、雷達和攝像頭資料流中提取關鍵資訊，用於增強低光照感知能力的時域降噪。新聞稿表示，其自研晶片的算力超過1000 TOPS——按照這一指標衡量，Waymo的自研晶片已經達到與英偉達最新一代自動駕駛系統相當的水平。"
+    },
+    {
+      "id": "5050876",
+      "time": "2026-08-21 07:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI算力需求驅動 玻纖行業上半年業績普遍向好】玻纖行業龍頭中國巨石8月20日披露半年報，今年上半年實現營業收入111.59億元，同比增長22.5%；淨利潤29.33億元，同比大幅增長73.87%。與此同時，中材科技、國際復材、金安國紀等多家產業鏈公司同期業績呈現不同程度增長。在AI算力需求驅動下，玻纖及電子布行業景氣度持續攀升，龍頭企業正加速佈局產能，一場圍繞高階化、特種化的產能競賽已然展開。"
+    },
+    {
+      "id": "5050875",
+      "time": "2026-08-21 07:31:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博通版“算力融資池”據傳將加碼超600億美元】據媒體援引知情人士報道，博通（Broadcom）正與一批機構洽談，計劃透過債務融資籌集超過600億美元的資金，用於為人工智慧晶片專案提供資金支援。該交易將使Anthropic等其他公司受益。根據擬議方案，博通將為部分高階擔保債務提供擔保。這部分債務規模可能在600億至700億美元之間。此次債務將由一家特殊目的載體（SPV）發行。知情人士表示，這項融資方案目前仍在敲定之中，可能還會包括一筆規模約300億美元的次級債務。如果按照目前討論中的規模計算，整筆融資總額最高可能達到1000億美元。黑石集團和阿波羅全球管理據傳正在與博通展開洽談。三家公司今年6月已經達成“AI XPV平臺”合作關係，為Fluidstack負責建設和運營的資料中心部署1吉瓦博通定製晶片提供350億美元融資，該算力最終由Anthropic購買和使用。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608213848298825",
+      "time": "2026-08-21 07:30:43",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月核心CPI同比增長1.8%，預期1.80%，前值1.60%。"
+    },
+    {
+      "id": "5050874",
+      "time": "2026-08-21 07:30:16",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本7月CPI同比 1.9%，預期 1.9%，前值 1.6%。\n日本7月CPI(除生鮮食品)同比 1.8%，預期 1.8%，前值 1.6%。\n日本7月CPI(除生鮮食品及能源)同比 1.9%，預期 1.9%，前值 1.7%。"
+    },
+    {
+      "id": "mkt:01a02182-c58d-7aab-90c3-0d4315b7df6b",
+      "time": "2026-08-21 07:30:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan nationwide CPI rose 2.0% YoY in July, above the 1.9% consensus and up from 1.6% previously."
+    },
+    {
+      "id": "mkt:01a02182-bfc5-7aab-90c3-0032f083ad27",
+      "time": "2026-08-21 07:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan July core CPI YoY 1.8% (consensus 1.8%; prior 1.6%)."
+    },
+    {
+      "id": "5050873",
+      "time": "2026-08-21 07:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【洮南市綠氫耦合生物質綠色醇油一體化專案正式啟動】據上海電氣訊息，8月20日，洮南市綠氫耦合生物質綠色醇油一體化專案（簡稱“洮南二期專案”）正式啟動。洮南二期專案規劃年產20萬噸綠色甲醇及1萬噸可持續航空燃料（SAF）。專案採用上海電氣新一代綠色燃料系統解決方案，首創離網型綠色直連模式，依託“風+光+儲+生物質”多元綠電供應，搭載上海電氣先進電解水制氫、純氧加壓流化床生物質氣化3.0、富CO₂合成氣甲醇合成及費託合成制SAF等關鍵核心技術，構建起“綠色甲醇+可持續航空燃料”多元產品矩陣，持續推動綠色燃料在航空、航運等領域的規模化應用。"
+    },
+    {
+      "id": "mkt:01a02182-94c6-7aab-90c2-fd5157305c0c",
+      "time": "2026-08-21 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Jul) | actual 1.8% | consensus 1.80% | previous 1.60%"
+    },
+    {
+      "id": "mkt:01a02182-94c1-7aab-90c2-f1a765001736",
+      "time": "2026-08-21 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Jul) | actual 2% | consensus 1.90% | previous 1.60%"
+    },
+    {
+      "id": "5050872",
+      "time": "2026-08-21 07:27:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【磷酸鐵鋰正極材料行業迎全面復甦 龍頭公司業績增超8倍】磷酸鐵鋰正極材料行業迎來全面復甦。從已釋出或預告半年度業績的情況來看，多家磷酸鐵鋰上市公司盈利能力顯著修復。其中，龍頭廠商湖南裕能上半年淨利潤同比大增超8倍。當前，磷酸鐵鋰行業高階有效產能持續緊缺，疊加原材料價格上漲帶來的成本壓力，業內企業正在掀起新一輪漲價潮，並瞄準高階化賽道精準擴產，持續最佳化產能結構和市場佈局。"
+    },
+    {
+      "id": "5050871",
+      "time": "2026-08-21 07:27:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機器人“大腦”加速進化 模型與資料成為產業競爭新焦點】過去，機器人大會上的“明星”往往是能夠完成複雜動作的機器人本體。今年，產業關注點正在發生變化：從“機器人能做什麼”，轉向“機器人如何學會更多事情”。在2026世界機器人大會現場，記者觀察發現，越來越多企業展示的不再只是機器人行走、抓取、運動控制等單項能力，而是圍繞具身智慧模型、世界模型、資料採集、模擬訓練等底層能力展開佈局。機器人產業競爭正在從過去的硬體效能比拼，轉向“模型+資料”的綜合能力競爭。這一變化背後，是人工智慧技術向物理世界加速延伸。業內人士認為，機器人要真正進入生產生活場景，不僅需要具備執行任務的能力，也需要形成對現實世界的理解能力。隨著機器人“大腦”不斷進化，模型和資料正在成為產業發展的新焦點。（上海證券報）"
+    },
+    {
+      "id": "5050870",
+      "time": "2026-08-21 07:26:39",
+      "tags": [
+        "央行",
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【多國長期國債收益率攀升 全球金融市場格局迎來階段性重構】今年以來，全球債券市場深度調整，以美國國債為核心的全球無風險收益率持續上行，各大主要經濟體長端國債收益率普遍走高。8月中旬，美國10年期國債收益率站到4.5%上方，30年期美債收益率同步突破5%，法國、英國、日本等主流經濟體長期國債收益率同步攀升。為對沖收益率快速上行帶來的市場壓力，美國財政部於8月19日出臺“救市”舉措，宣佈將國債回購操作規模擴容至少一倍。業內受訪專家表示，本輪全球國債收益率上行是多重因素共振的結果，美國高企的政府債務風險、通脹反彈、主要央行延續緊縮貨幣政策、國債市場供需結構失衡等多重力量共同推動了行情的走高。作為全球資產定價基準，美債收益率持續上行，正重塑全球資本流動路徑、大類資產估值體系與各國貨幣政策節奏，股票、外匯、大宗商品及跨境投資的定價邏輯全面適配調整，全球金融市場格局迎來階段性重構。（證券時報）"
+    },
     {
       "id": "5050869",
       "time": "2026-08-21 07:26:12",
@@ -854,6 +1018,15 @@
         "其他"
       ],
       "text": "【新政啟用 需求釋放 熱點城市樓市迎結構性回暖】進入2026年下半年，隨著各地樓市政策發力，熱點城市房地產市場走出穩步修復行情。記者調研發現，當前熱點城市樓市已告別普漲式回暖，迎來真實居住需求主導下的結構性修復，購房者決策更趨審慎理性，賣舊買新的置換需求持續升溫。房地產行業已邁入供需關係持續最佳化、發展質量優先的新週期。 (上證報)"
+    },
+    {
+      "id": "em:qqyh_mlc:202608213848270313",
+      "time": "2026-08-21 06:12:30",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲9月維持利率不變的機率為63.8%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為63.8%，累計加息25個基點的機率為36.2%。美聯儲到10月維持利率不變的機率為51.8%，累計加息25個基點的機率為41.4%，累計加息50個基點的機率為6.8%。"
     },
     {
       "id": "mkt:01a02134-0dea-7aab-90c2-0a4768f203a2",
