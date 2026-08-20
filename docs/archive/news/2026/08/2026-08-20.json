@@ -1,7 +1,107 @@
 {
   "date": "2026-08-20",
-  "count": 3087,
+  "count": 3099,
   "items": [
+    {
+      "id": "mkt:01a01fae-a615-7aab-90ba-74aa1cb00d7c",
+      "time": "2026-08-20 22:58:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Transportation said it will invest $615 mln in airport construction across 42 states."
+    },
+    {
+      "id": "mkt:01a01fae-61a9-7aab-90ba-69e85ddf0546",
+      "time": "2026-08-20 22:58:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver gained 2% intraday to $68.34/oz, after earlier falling 2%. New York silver futures rose 2% intraday to $68.48/oz."
+    },
+    {
+      "id": "5050437",
+      "time": "2026-08-20 22:58:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部宣佈向42個州投入6.15億美元用於機場建設。"
+    },
+    {
+      "id": "5050436",
+      "time": "2026-08-20 22:58:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報68.32美元/盎司。"
+    },
+    {
+      "id": "5050435",
+      "time": "2026-08-20 22:58:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報69.23美元/盎司。"
+    },
+    {
+      "id": "5050434",
+      "time": "2026-08-20 22:57:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，美國新一輪制裁針對無辜的伊朗公民，構成了“經濟恐怖主義”。"
+    },
+    {
+      "id": "mkt:01a01fac-598d-7aab-90ba-62d0514255f0",
+      "time": "2026-08-20 22:56:23",
+      "tags": [
+        "MKT News",
+        "02096.HK",
+        "Impact bullish"
+      ],
+      "text": "Xiansheng Pharmaceutical (02096.HK) said its board authorised on‑market share repurchases of up to RMB1.0 billion in aggregate, to be carried out at appropriate times."
+    },
+    {
+      "id": "mkt:01a01fac-4f4f-7aab-90ba-59510a35b95d",
+      "time": "2026-08-20 22:56:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State broadcaster IRIB quoted Iran's foreign ministry as saying Iran will use all available tools and capabilities to defend the dignity of the Iranian people and protect national interests in response to U.S. sanctions."
+    },
+    {
+      "id": "5050433",
+      "time": "2026-08-20 22:55:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破69美元/盎司，日內漲3.66%。"
+    },
+    {
+      "id": "5050432",
+      "time": "2026-08-20 22:55:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【有怡科技釋出可變形本質人形機器人T01】8月20日，有怡科技在2026世界機器人大會上釋出首款可變形本質人形機器人T01。該機型放棄復刻人類外形，採用腿臂複用結構將傳統四肢精簡為兩肢，整機BOM成本下降近50%。（介面新聞）"
+    },
+    {
+      "id": "mkt:01a01fab-4fe6-7aab-90ba-569312d4d723",
+      "time": "2026-08-20 22:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: New tropical depression formed over the central Pacific."
+    },
+    {
+      "id": "5050431",
+      "time": "2026-08-20 22:55:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：颶風拉拉繼續向西北偏北方向移動，逼近帕帕哈瑙莫誇基亞國家海洋保護區。"
+    },
     {
       "id": "5050430",
       "time": "2026-08-20 22:54:42",

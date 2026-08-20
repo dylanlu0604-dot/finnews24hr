@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-20 22:55:25",
-  "count": 15889,
+  "updated": "2026-08-20 22:59:26",
+  "count": 15896,
   "items": [
+    {
+      "id": "mkt:01a01fae-a615-7aab-90ba-74aa1cb00d7c",
+      "time": "2026-08-20 22:58:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Transportation said it will invest $615 mln in airport construction across 42 states."
+    },
+    {
+      "id": "mkt:01a01fae-61a9-7aab-90ba-69e85ddf0546",
+      "time": "2026-08-20 22:58:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver gained 2% intraday to $68.34/oz, after earlier falling 2%. New York silver futures rose 2% intraday to $68.48/oz."
+    },
+    {
+      "id": "5050437",
+      "time": "2026-08-20 22:58:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部宣佈向42個州投入6.15億美元用於機場建設。"
+    },
+    {
+      "id": "5050436",
+      "time": "2026-08-20 22:58:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報68.32美元/盎司。"
+    },
+    {
+      "id": "5050435",
+      "time": "2026-08-20 22:58:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報69.23美元/盎司。"
+    },
+    {
+      "id": "5050434",
+      "time": "2026-08-20 22:57:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部表示，美國新一輪制裁針對無辜的伊朗公民，構成了“經濟恐怖主義”。"
+    },
+    {
+      "id": "mkt:01a01fac-598d-7aab-90ba-62d0514255f0",
+      "time": "2026-08-20 22:56:23",
+      "tags": [
+        "MKT News",
+        "02096.HK",
+        "Impact bullish"
+      ],
+      "text": "Xiansheng Pharmaceutical (02096.HK) said its board authorised on‑market share repurchases of up to RMB1.0 billion in aggregate, to be carried out at appropriate times."
+    },
+    {
+      "id": "mkt:01a01fac-4f4f-7aab-90ba-59510a35b95d",
+      "time": "2026-08-20 22:56:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State broadcaster IRIB quoted Iran's foreign ministry as saying Iran will use all available tools and capabilities to defend the dignity of the Iranian people and protect national interests in response to U.S. sanctions."
+    },
+    {
+      "id": "5050433",
+      "time": "2026-08-20 22:55:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破69美元/盎司，日內漲3.66%。"
+    },
+    {
+      "id": "5050432",
+      "time": "2026-08-20 22:55:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【有怡科技釋出可變形本質人形機器人T01】8月20日，有怡科技在2026世界機器人大會上釋出首款可變形本質人形機器人T01。該機型放棄復刻人類外形，採用腿臂複用結構將傳統四肢精簡為兩肢，整機BOM成本下降近50%。（介面新聞）"
+    },
+    {
+      "id": "mkt:01a01fab-4fe6-7aab-90ba-569312d4d723",
+      "time": "2026-08-20 22:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: New tropical depression formed over the central Pacific."
+    },
+    {
+      "id": "5050431",
+      "time": "2026-08-20 22:55:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：颶風拉拉繼續向西北偏北方向移動，逼近帕帕哈瑙莫誇基亞國家海洋保護區。"
+    },
     {
       "id": "5050430",
       "time": "2026-08-20 22:54:42",
@@ -145272,46 +145372,6 @@
         "國際"
       ],
       "text": "【中東多國興建石油輸送繞行通道】霍爾木茲海峽長期以來是波斯灣石油出口最重要、最便捷的通道。但受美伊戰事影響，霍爾木茲海峽的運力遭到重創。據美國《紐約時報》8月12日報道，波斯灣多國正斥資數十億美元建設繞開霍爾木茲海峽的輸油管道，以降低地緣風險。（CCTV國際時訊）"
-    },
-    {
-      "id": "5039798",
-      "time": "2026-08-13 22:59:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑瑞股份：上半年獲取新增訂單100.46億元 同比增長1.67%】傑瑞股份(002353.SZ)釋出投資者關係活動記錄表公告，訂單方面，公司上半年獲取新增訂單100.46億元，同比增長1.67%；截至報告期末存量訂單139.95億元，同比增長13.00%。7月，公司控股子公司J&FPowerSystemsLLC與某國際知名雲服務提供商簽署燃氣輪機發電機組供應合同，並接受客戶下達的採購訂單，訂單金額為14.65億美元。截止目前，公司已收到該訂單的首筆預付款。"
-    },
-    {
-      "id": "mkt:019ffba0-71bf-7aab-9028-fd5d8f34e6e9",
-      "time": "2026-08-13 22:57:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Dutch outlet BNR reports a Russian hacker group claims it breached Shell and Philips. Philips confirmed it experienced a cyberattack and said customers were not affected. A Shell spokesperson said the incident is under investigation."
-    },
-    {
-      "id": "5039797",
-      "time": "2026-08-13 22:56:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【淘寶閃購“等燈加時”將在北京、上海落地】淘寶閃購“等燈加時”服務將在北京、上海探索落地。據介紹，在該功能下，騎士所配送訂單增加累計等燈時間，確保等燈時間不被計入考核。此前，這一功能已在多地試點多時，並在蘇州等地落地。淘寶閃購方面還表示，將繼續升級行業首創的騎士AI助手，擴大騎士智慧AI裝置覆蓋，積極開展協商對話，進一步推動演算法向上向善、透明化，持續加強騎士保障。（新浪科技）"
-    },
-    {
-      "id": "5039796",
-      "time": "2026-08-13 22:55:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌發言人證實正在對該事件開展調查。"
-    },
-    {
-      "id": "5039795",
-      "time": "2026-08-13 22:55:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "飛利浦發現有網路攻擊企圖，未對客戶造成影響。"
     }
   ]
 }
