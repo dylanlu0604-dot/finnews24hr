@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-21 02:00:43",
-  "count": 16093,
+  "updated": "2026-08-21 02:04:42",
+  "count": 16098,
   "items": [
+    {
+      "id": "5050709",
+      "time": "2026-08-21 02:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "一份宣告顯示，自9月1日起，美國環保署的豁免許可將允許銷售E10汽油，即摻有10%乙醇的混合汽油。美國能源部稱相關措施將在2026年9月15日夏季排放管控季結束前一直維持實施。"
+    },
+    {
+      "id": "mkt:01a02057-7e20-7aab-90bf-97690552856b",
+      "time": "2026-08-21 02:03:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The EPA says it will coordinate with the U.S. Department of Energy to boost gasoline supply to lower pump prices."
+    },
+    {
+      "id": "5050708",
+      "time": "2026-08-21 02:02:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部接受48項符合條件的債務回購計劃中的3項。"
+    },
+    {
+      "id": "5050707",
+      "time": "2026-08-21 02:02:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部收到 101.59 億美元回購報價，接納其中 18.6 億美元。"
+    },
+    {
+      "id": "mkt:01a02056-54df-7aab-90bf-88bd44f4c413",
+      "time": "2026-08-21 02:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Anthropic's recent investor briefing was hosted by CFO Rao."
+    },
+    {
+      "id": "mkt:01a02056-07c1-7aab-90bf-848c2731a1a2",
+      "time": "2026-08-21 02:01:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic to let enterprise clients host data while retaining 30-day hold】Anthropic plans to give enterprise customers greater control over data used with its most capable AI models, a major shift from its prior data-retention policy. The company will continue to require a 30-day retention period but will let clients store data on their own cloud infrastructure instead of Anthropic’s. A source said Anthropic expects to roll out a new security system later this year; the system has been in development for months."
+    },
+    {
+      "id": "5050706",
+      "time": "2026-08-21 02:01:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署表示，在與能源部磋商後，其正擴大汽油供應以壓低加油站油價。"
+    },
+    {
+      "id": "5050705",
+      "time": "2026-08-21 02:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究揭示毛細血管對心臟修復的關鍵作用】中國科學院分子細胞科學卓越創新中心（生物化學與細胞生物學研究所）周斌研究團隊揭開了重新生成側支動脈的真正“建造者”並非已有動脈，而是遍佈心肌的毛細血管。相關成果8月21日在國際學術期刊《科學》發表。這項研究重新整理了人們對心臟自我修復能力的認識，為缺血性心臟病的治療提供了新思路。（央視新聞）"
+    },
     {
       "id": "mkt:01a02053-9d0a-7aab-90bf-7d01b3d4ff37",
       "time": "2026-08-21 01:59:05",
@@ -147237,30 +147310,6 @@
         "Brent"
       ],
       "text": "Venezuela's oil minister says Caracas has signed development agreements for the Loran gas field with BP, UAE-based XRG and Qatar-based UCC."
-    },
-    {
-      "id": "5039943",
-      "time": "2026-08-14 02:04:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國特使警告葉門面臨重新陷入大規模衝突風險】聯合國秘書長葉門問題特使漢斯·格倫德貝里當地時間13日向聯合國安理會通報葉門局勢。格倫德貝里警告說，與2022年聯合國斡旋促成停火以來相比，葉門當前面臨的重新陷入大規模衝突的風險“前所未有”。他指出，持續數年的相對平靜局面，可能在短短數週的升級中付諸東流。（央視新聞）"
-    },
-    {
-      "id": "5039942",
-      "time": "2026-08-14 02:04:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉石油部長稱，該國與BP、阿聯酋XRG及卡達UCC就委內瑞拉洛蘭氣田簽署協議。"
-    },
-    {
-      "id": "mkt:019ffc4a-df8e-7aab-902b-f01bd6832748",
-      "time": "2026-08-14 02:03:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran's foreign ministry again condemns U.S., Israel for violating international humanitarian law】On the 13th, marking the 77th anniversary of the Fourth Geneva Convention, Iran's foreign ministry issued a statement condemning the U.S. and Israel for violations of international humanitarian law and urging the international community to ensure compliance with the Geneva Conventions. The statement accused Israel of committing violations in Palestine, Lebanon and Syria in recent years and said U.S. support for Israel has further exacerbated those violations."
     }
   ]
 }
