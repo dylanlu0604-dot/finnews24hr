@@ -1,7 +1,182 @@
 {
-  "updated": "2026-08-20 10:15:49",
-  "count": 15676,
+  "updated": "2026-08-20 10:27:07",
+  "count": 15681,
   "items": [
+    {
+      "id": "mkt:01a01cfd-cb0c-7aab-90a7-29bd9675467e",
+      "time": "2026-08-20 10:26:29",
+      "tags": [
+        "MKT News",
+        "000625.SZ",
+        "Impact bearish",
+        "LI.O"
+      ],
+      "text": "【INDUSTRY ASSOCIATION: China's top 10 SUV makers sold 6.155 million vehicles Jan–Jul 2026】INDUSTRY ASSOCIATION data show China's top 10 SUV manufacturers sold 6.155 million vehicles in January–July 2026, accounting for 67.5% of SUV sales. Changan Automobile and Li Auto recorded year-on-year declines; the other eight companies posted year-on-year increases."
+    },
+    {
+      "id": "5048941",
+      "time": "2026-08-20 10:26:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊景區板塊震盪走強，南京商旅漲停】旅遊景區板塊震盪走強，南京商旅漲停，九華旅遊、陝西旅遊、西域旅遊、三峽旅遊、宋城演藝等跟漲。"
+    },
+    {
+      "id": "5048940",
+      "time": "2026-08-20 10:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協：1—7月銷量排名前十位的SUV生產企業共銷售615.5萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的SUV生產企業共銷售615.5萬輛，佔SUV銷售總量的67.5%。在上述十家企業中，與去年同期相比，長安汽車和理想汽車銷量呈不同程度下降，其他企業銷量呈不同程度增長。"
+    },
+    {
+      "id": "te:economy:576686",
+      "time": "2026-08-20 10:25:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japanese Yields Follow Treasury Yields Lower — Japan’s 10-year government bond yield fell to around 2.83% on Thursday after reaching a 30-year high of 2.95% earlier this week, tracking Treasury yields lower as the US government moved to rein in long-term borrowing costs through an expanded buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Meanwhile, traders are increasingly speculating that the Bank of Japan could raise interest rates as soon as September, with a growing number of policymakers calling for a stronger response to mounting inflationary pressures. On the data front, Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips."
+    },
+    {
+      "id": "5048939",
+      "time": "2026-08-20 10:23:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪恩汽電新設子公司，含積體電路銷售業務】企查查APP顯示，近日，深圳市豪恩匯科技有限公司成立，經營範圍包含：積體電路銷售；電子專用材料銷售；密封件銷售；橡膠製品銷售等。企查查股權穿透顯示，該公司由豪恩汽電全資持股。"
+    },
+    {
+      "id": "te:markets:576685",
+      "time": "2026-08-20 10:23:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Advances as Hormuz Remains Shut — European natural gas prices rose above €64 per MWh on Thursday as restrictions on shipping through the Strait of Hormuz continued to raise concerns over global LNG supplies. President Donald Trump vowed on Wednesday to impose “tremendous punishment” on countries that help or do business with Iran, ramping up economic pressure on Tehran to reopen the critical waterway. His threats came a day after he said there were no ongoing talks and that the naval blockade of Iran remained in force, while Tehran maintained that the waterway remained closed. The blockade has halted Qatari LNG deliveries, forcing European utilities to compete aggressively for available cargoes in an already tight global market. Reduced LNG inflows, combined with heatwave-driven cooling demand, have slowed Europe’s seasonal gas storage injections. This has amplified concerns that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices."
+    },
+    {
+      "id": "5048938",
+      "time": "2026-08-20 10:23:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【思特威與奧比中光深化戰略合作】8月20日，思特威與奧比中光簽署深化戰略合作協議。根據此次戰略合作協議，雙方將繼續深化在3D視覺感知領域的合作，並全面佈局具身智慧領域。"
+    },
+    {
+      "id": "mkt:01a01cfa-d2b0-7aab-90a7-2763ae2681bf",
+      "time": "2026-08-20 10:23:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share travel and hotel sector rallied intraday; Nanjing Business Travel hit the daily upper price limit, while Jiuhua Tourism, Shaanxi Tourism, Zhongxin Tourism and Xiyu Tourism also advanced."
+    },
+    {
+      "id": "5048937",
+      "time": "2026-08-20 10:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國防部長：將於明年推出義務兵役制改革後的志願役徵兵體系。"
+    },
+    {
+      "id": "mkt:01a01cfa-0cba-7aab-90a7-18d8285ccb2c",
+      "time": "2026-08-20 10:22:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's defense minister said a voluntary military enlistment system will be introduced next year."
+    },
+    {
+      "id": "5048936",
+      "time": "2026-08-20 10:22:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1463億元。"
+    },
+    {
+      "id": "te:economy:576684",
+      "time": "2026-08-20 10:21:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Morocco",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Morocco Consumer Prices Fall for 1st Time in 5 Months — Consumer prices in Morocco fell 0.6% from a year earlier in July 2026, reversing a 0.3% rise in June 2026 and marking the first decline since February. The decline came as food prices fell 3.7% year-on-year, deepening from a 2.5% drop in the previous month, while non-food inflation slowed to 1.9% from 2.3%. Among major components, prices decreased for communication (-0.2% vs -0.3% in June), while prices moderated for transport (4.1% vs 6.7%), clothing and footwear (0.7% vs 0.8%), and furnishings (0.9% vs 1.2%). Meanwhile, inflation remained unchanged for education (2.1%) and health (0.3%). By contrast, inflation accelerated for housing and utilities (1.5% vs 1.4%) and restaurants and hotels (2.4% vs 2.1%), while recreation and culture was unchanged after shrinking 0.2% in June. On a monthly basis, consumer prices dropped 1.0%, following a 0.4% decrease in June, marking the steepest decline since April 2011."
+    },
+    {
+      "id": "5048935",
+      "time": "2026-08-20 10:19:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利據悉挖角巴克萊大將 出任科技業投資銀行部門副董事長】據知情人士透露，摩根士丹利正在延攬巴克萊的科技業投資銀行家Tim Luke。知情人士透露，Luke將以科技投資銀行部門副董事長的身份加入，專注於半導體和硬體領域。"
+    },
+    {
+      "id": "5048934",
+      "time": "2026-08-20 10:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼股指漲幅達1.5%，報6486.855點。"
+    },
+    {
+      "id": "mkt:01a01cf5-f0b1-7aab-90a7-16d20aa17e6c",
+      "time": "2026-08-20 10:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Counterpoint Research: Global humanoid robot shipments up almost 300% YoY in 1H 2026】Counterpoint Research says global humanoid robot shipments exceeded 22,000 units in 1H 2026, up nearly 300% YoY. It forecasts full-year 2026 shipments above 50,000 units, +210% YoY. Over the next five years service and industrial deployments will follow entertainment/live-performance and education/data-collection use cases as the main demand drivers. Manufacturers’ competitive edge is shifting from model capability and capacity expansion to building closed-loop capabilities across advanced models, vertical scenario deployment, data systems and rapid model iteration."
+    },
+    {
+      "id": "5048933",
+      "time": "2026-08-20 10:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2026年上半年全球人形機器人出貨量同比增長近300%】Counterpoint Research的人形機器人研究表明，2026年上半年，全球人形機器人出貨量突破2.2萬臺，相比2025年同期增長接近300%，保持高速增長的良好勢頭。Counterpoint Research預計2026年全球人形機器人出貨量將突破5萬臺，同比增長210%。展望未來五年，服務業與工業場景將接續文娛商演、科教數採，成為驅動人形機器人需求增長的核心引擎。同時，人形機器人廠商的核心競爭力，將從單純角逐模型能力、產能擴張速度，轉向打造覆蓋先進模型、垂直場景落地、資料體系構建、模型快速迭代的閉環能力。"
+    },
+    {
+      "id": "5048932",
+      "time": "2026-08-20 10:17:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【碩貝德成立前沿工程技術公司，含AI及積體電路晶片業務】企查查APP顯示，近日，碩貝德前沿（上海）工程技術有限公司成立，經營範圍包含：衛星技術綜合應用系統整合；物聯網技術研發；積體電路晶片設計及服務；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由碩貝德全資持股。"
+    },
+    {
+      "id": "5048931",
+      "time": "2026-08-20 10:16:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "宇樹科技CEO王興興：資料與實景對齊是公司機器人發展的“最大瓶頸” 。"
+    },
+    {
+      "id": "te:markets:576681",
+      "time": "2026-08-20 10:15:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rise on Healthcare, Tech Gains — The Hang Seng Index rose 0.8%, or 188 points, to 25,685 on Thursday, as gains in healthcare and technology stocks lifted the market. Healthcare and biotechnology stocks were among the strongest performers. Everest was the standout after reporting a 157.3% year-on-year increase in first-half revenue to RMB1.15 billion and a swing to RMB97.2 million in non-IFRS net profit, driven largely by its NEFECON kidney-disease treatment. Technology stocks also advanced, with Tencent reporting a 176% year-on-year jump in second-quarter capex to RMB52.8 billion on AI investment, while revenue rose 11% and adjusted earnings gained 9%. Sentiment was further supported by China keeping its one-year and five-year LPRs unchanged at 3.00% and 3.50%. Global bond yields also eased after the US Treasury doubled its long-term debt buybacks, supporting risk appetite. Notable movers included Tencent (0.8%), Xiaomi (2.7%), GenScript Biotech (8.3%), SMIC (1.5%) and WuXi Biologics (4.6%)."
+    },
     {
       "id": "te:markets:576680",
       "time": "2026-08-20 10:15:06",
@@ -143644,135 +143819,6 @@
         "MKT News"
       ],
       "text": "【Australian housing market cools; mortgage applications down at least 12%】Mortgage applications at Commonwealth Bank, Westpac and ANZ have fallen at least 12% since the government’s May budget paved the way to remove investor tax breaks, reflecting a cooling Australian housing market. The weakness has pushed bank shares lower and highlighted pressure on profitability. Earlier rises in borrowing costs had already damped demand and prices in Sydney and Melbourne are retreating. Commonwealth Bank CEO Matt Comyn said the bank has not yet seen the weakness spill over into household spending or broader activity. With the Middle East conflict lifting inflation and some firms remaining cautious, housing credit growth is expected to slow further next year."
-    },
-    {
-      "id": "5038480",
-      "time": "2026-08-13 10:26:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【MLCC概念走高，火炬電子漲停】MLCC概念走高，火炬電子漲停，三環集團、雙星新材、博遷新材跟漲。"
-    },
-    {
-      "id": "5038479",
-      "time": "2026-08-13 10:26:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【“十五五”時期我國將構建更加精準、高效的現代化生態監管體系】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會，會上介紹，“十五五”時期，生態環境部將進一步加大生態監管力度，著力構建更加精準、高效的現代化生態監管體系。會上介紹，“十四五”期間，生態環境部努力加強生態監管，特別是加強了“衛片監管”，透過衛星遙感發現查處生態破壞問題，生態監管工作取得顯著成效。國家級自然保護區新增重點問題數量從2021年的131個下降至2025年的6個，面積從190.10公頃下降至8.22公頃。“十五五”時期，將重點在三方面發力：生態狀況評估工作“體系化”。系統開展全國、重點區域、自然保護地和生態保護紅線等多尺度生態狀況評估，全面掌握生態本底及變化趨勢，檢驗生態保護和修復工作的成效。生態破壞問題發現和處理“精準化”。持續最佳化“衛片監管”，提高發現生態破壞問題的準確度。開展“綠盾”行動，嚴厲查處各類生態破壞違法違規問題。健全生態破壞事件分級判定體系，明確判定的標準依據、工作流程和處置要求，實現全流程規範化管理。生態監測監管“數智化”。深化衛星遙感、AI影象解譯、環境DNA、聲紋識別、大模型及智慧體等新技術應用，推動國家生態保護與修復監管平臺迭代升級。持續最佳化生態質量綜合監測站和樣地佈局，提升生態質量和生物多樣性監測能力。以科技賦能生態監管，讓監管更精準、更高效、更智慧。"
-    },
-    {
-      "id": "te:markets:574881",
-      "time": "2026-08-13 10:24:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Ease but Remain Elevated — European natural gas prices fell below €60 per MWh on Thursday but remained more than 8% higher so far this week, as supply concerns persisted amid uncertainty over efforts to resolve the Middle East conflict and reopen the Strait of Hormuz. Talks between the US and Iran appear to have hit an impasse, with both sides taking a firmer stance and President Trump insisting that Washington has full control of the key waterway and intends to keep it that way. Shipping disruptions have sharply curtailed LNG flows from the Gulf, significantly delaying cargoes from major exporter Qatar and making it difficult for Europe to rebuild gas inventories ahead of winter. Analysts anticipate European gas prices will maintain a firm floor until storage levels show clearer signs of building before the heating season begins. At the same time, intense summer heatwaves across Southern and Central Europe have ramped up gas-fired power generation to meet cooling needs, diverting supplies from storage."
-    },
-    {
-      "id": "5038478",
-      "time": "2026-08-13 10:24:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國移動成立長三角智算科技公司】企查查APP顯示，近日，中移長三角（蕪湖）智算科技有限公司成立，法定代表人為李坤滋，註冊資本為1億元，經營範圍包含人工智慧應用軟體開發；行動通訊裝置銷售；物聯網裝置銷售；網際網路安全服務；大資料服務等。企查查股權穿透顯示，該公司由中國行動通訊有限公司間接全資持股。"
-    },
-    {
-      "id": "te:markets:574880",
-      "time": "2026-08-13 10:24:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Flat Despite Softer US Inflation — The Hang Seng Index was little changed on Thursday, hovering around 25,400, as investors remained cautious following the previous session’s decline despite softer US inflation data that reinforced expectations for a more accommodative Federal Reserve policy. Asian markets were generally firmer after US consumer price data eased inflation concerns and supported expectations for a more accommodative monetary-policy outlook. However, gains in Hong Kong were limited as investors continued to assess weakness in technology shares and geopolitical risks. Technology stocks remained a major focus as investors digested Tencent’s second-quarter results and continued to assess developments in China’s artificial-intelligence sector. Tech performance was mixed, with Z.AI Co. (2.0%), MiniMax (1.2%) and SMIC (2.0%) gaining, while Tencent (-2.6%) and AIA (-0.3%) declined. Investors also monitored upcoming corporate earnings and developments in China's technology sector."
-    },
-    {
-      "id": "5038477",
-      "time": "2026-08-13 10:23:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：支援民間資本擴大在文化、旅遊、體育等方面投資】上海市發展和改革委員會日前印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》提出，促進民間資本參與社會民生服務。鼓勵民間資本利用存量空間資源，提供養老、托幼、健康、文化、體育、社會福利等服務，拓展“家門口”服務體系，支援更多民營主體參與老年人居家適老化改造。支援民辦高校發展，依法依規對民辦高校實訓中心建設給予投資補助。推動公共文體場館運營體制創新，用好文化創意產業發展、旅遊發展、體育發展等專項資金，支援民間資本擴大在文化、旅遊、體育等方面投資。"
-    },
-    {
-      "id": "5038476",
-      "time": "2026-08-13 10:22:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【同比增長138% 全球16國將參加第二屆世界人形機器人運動會】第二屆世界人形機器人運動會將於8月22日在國家速滑館“冰絲帶”開幕，本屆運動會由北京市人民政府、中央廣播電視總檯等聯合主辦。本屆賽事共吸引了六大洲16個國家的666支隊伍、2056臺機器人同臺競技，隊伍總量同比增長138%，機器人數量翻了兩番。國際方面，美國、德國、日本等機器人賽隊悉數登場，巴西還集結了五支機器人足球世界盃冠軍隊伍，組建起一支國家聯隊參賽。國內方面，157家企業、641支隊伍、1975臺機器人齊聚賽場，第一梯隊企業基本全部到場，27所985高校參賽，國內隊伍覆蓋30個省、自治區、直轄市和特別行政區，實現“遍地開花”。賽項總數從首屆26個拓展至51個，構建起全維度的技術“練兵場”。"
-    },
-    {
-      "id": "5038475",
-      "time": "2026-08-13 10:22:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平陸運河衝刺全線通航 廣西已設立專項工作組推進工程收尾與運營籌備】平陸運河即將全線通航。平陸運河是西部陸海新通道的骨幹工程，是新中國成立以來建設的第一條通江達海的運河工程。記者獲悉，廣西壯族自治區始終把確保九月如期、安全、高質量建成通航作為核心任務，高位統籌、全力衝刺；設立專項工作組，對工程收尾、運營管理籌備等任務實行清單化、精細化、閉環式管理，實行周排程，確保各項工作壓茬推進、落地見效，併為實現“河中有水、水上有船、船裡有貨、貨通八方”的目標系統部署工作推進舉措。（人民財訊）"
-    },
-    {
-      "id": "mkt:019ff8ec-1350-7aab-9017-28be477cf297",
-      "time": "2026-08-13 10:20:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02600.HK",
-        "Impact bearish",
-        "01772.HK",
-        "01208.HK"
-      ],
-      "text": "Hong Kong non-ferrous metals sector slid; Chalco (02600.HK) fell more than 5%, Ganfeng Lithium (01772.HK) dropped over 3%, TTANQT LITHIUM (09696.HK) and Minmetals Resources (01208.HK) also declined."
-    },
-    {
-      "id": "5038474",
-      "time": "2026-08-13 10:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：鼓勵國有企業、民營企業合作，共同參與“城中村”改造、舊住房改造等專案投資建設】上海市發展和改革委員會日前印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》提出，積極推動參與城市更新。鼓勵國有企業、民營企業合作，透過合資共設、股權轉讓、增資擴股等方式，共同參與“城中村”改造、舊住房改造等專案投資建設。加強重點區域、專案和土地推介，吸引更多民營企業透過拿地開發、聯合體開發或品牌匯入、產品設計、運營管理等多種方式參與專案開發。對商品住房、商業辦公等經營性用地，在設定土地招拍掛條件時，不設定企業規模、資金規模等限制性條件，鼓勵更多民企參與。統籌推進存量樓宇更新改造、商務區整體更新，研究小體量商務樓宇功能調整配套政策，吸引民間資本參與開發改造。"
-    },
-    {
-      "id": "5038473",
-      "time": "2026-08-13 10:19:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【LME鋁主力合約跌超1%】LME鋁主力合約跌超1%，現報3279.0美元/噸。"
-    },
-    {
-      "id": "5038471",
-      "time": "2026-08-13 10:18:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "5038470",
-      "time": "2026-08-13 10:17:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念股走強 精智達漲超12%】儲存晶片概念股走強，精智達漲超12%，炬光科技、協創資料、晶升股份等跟漲。"
-    },
-    {
-      "id": "5038469",
-      "time": "2026-08-13 10:15:59",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "【上海：依法依規支援新產業新業態新技術領域突破關鍵核心技術“卡脖子”企業、優質未盈利科技型企業登陸多層次資本市場】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，深化支援小微企業融資協調工作機制，持續最佳化市融資信用服務平臺，落實好本市中小微企業信貸獎補政策，完善續貸和盡職免責等制度安排。充分發揮支農支小再貸款、科技創新和技術改造再貸款等央行政策工具引領作用，推動在滬銀行對民企加大貸款投放力度。出臺“滬科積分貸”業務指引，引導銀行業金融機構加強“滬科積分”評價結果運用。強化對科創民營企業規範培育服務，依法依規支援新產業新業態新技術領域突破關鍵核心技術“卡脖子”企業、優質未盈利科技型企業登陸多層次資本市場。發揮三大先導產業母基金、未來產業基金、長三角創業投資引導基金的帶動作用，鼓勵更多民間資本參與子基金遴選，鼓勵國有企業和民營企業共同設立企業風險投資基金（CVC基金）和併購基金，培育產業鏈上下游專精特新企業。加強對民間投資專案發行基礎設施領域不動產投資信託基金（REITs）協調服務，積極協助民間投資專案完善固定資產盤活條件，根據國家要求促進符合條件的民間投資專案發行REITs。"
     }
   ]
 }

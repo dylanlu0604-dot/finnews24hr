@@ -1,7 +1,182 @@
 {
   "date": "2026-08-20",
-  "count": 867,
+  "count": 886,
   "items": [
+    {
+      "id": "mkt:01a01cfd-cb0c-7aab-90a7-29bd9675467e",
+      "time": "2026-08-20 10:26:29",
+      "tags": [
+        "MKT News",
+        "000625.SZ",
+        "Impact bearish",
+        "LI.O"
+      ],
+      "text": "【INDUSTRY ASSOCIATION: China's top 10 SUV makers sold 6.155 million vehicles Jan–Jul 2026】INDUSTRY ASSOCIATION data show China's top 10 SUV manufacturers sold 6.155 million vehicles in January–July 2026, accounting for 67.5% of SUV sales. Changan Automobile and Li Auto recorded year-on-year declines; the other eight companies posted year-on-year increases."
+    },
+    {
+      "id": "5048941",
+      "time": "2026-08-20 10:26:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊景區板塊震盪走強，南京商旅漲停】旅遊景區板塊震盪走強，南京商旅漲停，九華旅遊、陝西旅遊、西域旅遊、三峽旅遊、宋城演藝等跟漲。"
+    },
+    {
+      "id": "5048940",
+      "time": "2026-08-20 10:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協：1—7月銷量排名前十位的SUV生產企業共銷售615.5萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的SUV生產企業共銷售615.5萬輛，佔SUV銷售總量的67.5%。在上述十家企業中，與去年同期相比，長安汽車和理想汽車銷量呈不同程度下降，其他企業銷量呈不同程度增長。"
+    },
+    {
+      "id": "te:economy:576686",
+      "time": "2026-08-20 10:25:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japanese Yields Follow Treasury Yields Lower — Japan’s 10-year government bond yield fell to around 2.83% on Thursday after reaching a 30-year high of 2.95% earlier this week, tracking Treasury yields lower as the US government moved to rein in long-term borrowing costs through an expanded buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Meanwhile, traders are increasingly speculating that the Bank of Japan could raise interest rates as soon as September, with a growing number of policymakers calling for a stronger response to mounting inflationary pressures. On the data front, Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips."
+    },
+    {
+      "id": "5048939",
+      "time": "2026-08-20 10:23:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪恩汽電新設子公司，含積體電路銷售業務】企查查APP顯示，近日，深圳市豪恩匯科技有限公司成立，經營範圍包含：積體電路銷售；電子專用材料銷售；密封件銷售；橡膠製品銷售等。企查查股權穿透顯示，該公司由豪恩汽電全資持股。"
+    },
+    {
+      "id": "te:markets:576685",
+      "time": "2026-08-20 10:23:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Advances as Hormuz Remains Shut — European natural gas prices rose above €64 per MWh on Thursday as restrictions on shipping through the Strait of Hormuz continued to raise concerns over global LNG supplies. President Donald Trump vowed on Wednesday to impose “tremendous punishment” on countries that help or do business with Iran, ramping up economic pressure on Tehran to reopen the critical waterway. His threats came a day after he said there were no ongoing talks and that the naval blockade of Iran remained in force, while Tehran maintained that the waterway remained closed. The blockade has halted Qatari LNG deliveries, forcing European utilities to compete aggressively for available cargoes in an already tight global market. Reduced LNG inflows, combined with heatwave-driven cooling demand, have slowed Europe’s seasonal gas storage injections. This has amplified concerns that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices."
+    },
+    {
+      "id": "5048938",
+      "time": "2026-08-20 10:23:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【思特威與奧比中光深化戰略合作】8月20日，思特威與奧比中光簽署深化戰略合作協議。根據此次戰略合作協議，雙方將繼續深化在3D視覺感知領域的合作，並全面佈局具身智慧領域。"
+    },
+    {
+      "id": "mkt:01a01cfa-d2b0-7aab-90a7-2763ae2681bf",
+      "time": "2026-08-20 10:23:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share travel and hotel sector rallied intraday; Nanjing Business Travel hit the daily upper price limit, while Jiuhua Tourism, Shaanxi Tourism, Zhongxin Tourism and Xiyu Tourism also advanced."
+    },
+    {
+      "id": "5048937",
+      "time": "2026-08-20 10:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國防部長：將於明年推出義務兵役制改革後的志願役徵兵體系。"
+    },
+    {
+      "id": "mkt:01a01cfa-0cba-7aab-90a7-18d8285ccb2c",
+      "time": "2026-08-20 10:22:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's defense minister said a voluntary military enlistment system will be introduced next year."
+    },
+    {
+      "id": "5048936",
+      "time": "2026-08-20 10:22:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1463億元。"
+    },
+    {
+      "id": "te:economy:576684",
+      "time": "2026-08-20 10:21:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Morocco",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Morocco Consumer Prices Fall for 1st Time in 5 Months — Consumer prices in Morocco fell 0.6% from a year earlier in July 2026, reversing a 0.3% rise in June 2026 and marking the first decline since February. The decline came as food prices fell 3.7% year-on-year, deepening from a 2.5% drop in the previous month, while non-food inflation slowed to 1.9% from 2.3%. Among major components, prices decreased for communication (-0.2% vs -0.3% in June), while prices moderated for transport (4.1% vs 6.7%), clothing and footwear (0.7% vs 0.8%), and furnishings (0.9% vs 1.2%). Meanwhile, inflation remained unchanged for education (2.1%) and health (0.3%). By contrast, inflation accelerated for housing and utilities (1.5% vs 1.4%) and restaurants and hotels (2.4% vs 2.1%), while recreation and culture was unchanged after shrinking 0.2% in June. On a monthly basis, consumer prices dropped 1.0%, following a 0.4% decrease in June, marking the steepest decline since April 2011."
+    },
+    {
+      "id": "5048935",
+      "time": "2026-08-20 10:19:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利據悉挖角巴克萊大將 出任科技業投資銀行部門副董事長】據知情人士透露，摩根士丹利正在延攬巴克萊的科技業投資銀行家Tim Luke。知情人士透露，Luke將以科技投資銀行部門副董事長的身份加入，專注於半導體和硬體領域。"
+    },
+    {
+      "id": "5048934",
+      "time": "2026-08-20 10:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼股指漲幅達1.5%，報6486.855點。"
+    },
+    {
+      "id": "mkt:01a01cf5-f0b1-7aab-90a7-16d20aa17e6c",
+      "time": "2026-08-20 10:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Counterpoint Research: Global humanoid robot shipments up almost 300% YoY in 1H 2026】Counterpoint Research says global humanoid robot shipments exceeded 22,000 units in 1H 2026, up nearly 300% YoY. It forecasts full-year 2026 shipments above 50,000 units, +210% YoY. Over the next five years service and industrial deployments will follow entertainment/live-performance and education/data-collection use cases as the main demand drivers. Manufacturers’ competitive edge is shifting from model capability and capacity expansion to building closed-loop capabilities across advanced models, vertical scenario deployment, data systems and rapid model iteration."
+    },
+    {
+      "id": "5048933",
+      "time": "2026-08-20 10:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2026年上半年全球人形機器人出貨量同比增長近300%】Counterpoint Research的人形機器人研究表明，2026年上半年，全球人形機器人出貨量突破2.2萬臺，相比2025年同期增長接近300%，保持高速增長的良好勢頭。Counterpoint Research預計2026年全球人形機器人出貨量將突破5萬臺，同比增長210%。展望未來五年，服務業與工業場景將接續文娛商演、科教數採，成為驅動人形機器人需求增長的核心引擎。同時，人形機器人廠商的核心競爭力，將從單純角逐模型能力、產能擴張速度，轉向打造覆蓋先進模型、垂直場景落地、資料體系構建、模型快速迭代的閉環能力。"
+    },
+    {
+      "id": "5048932",
+      "time": "2026-08-20 10:17:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【碩貝德成立前沿工程技術公司，含AI及積體電路晶片業務】企查查APP顯示，近日，碩貝德前沿（上海）工程技術有限公司成立，經營範圍包含：衛星技術綜合應用系統整合；物聯網技術研發；積體電路晶片設計及服務；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由碩貝德全資持股。"
+    },
+    {
+      "id": "5048931",
+      "time": "2026-08-20 10:16:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "宇樹科技CEO王興興：資料與實景對齊是公司機器人發展的“最大瓶頸” 。"
+    },
+    {
+      "id": "te:markets:576681",
+      "time": "2026-08-20 10:15:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rise on Healthcare, Tech Gains — The Hang Seng Index rose 0.8%, or 188 points, to 25,685 on Thursday, as gains in healthcare and technology stocks lifted the market. Healthcare and biotechnology stocks were among the strongest performers. Everest was the standout after reporting a 157.3% year-on-year increase in first-half revenue to RMB1.15 billion and a swing to RMB97.2 million in non-IFRS net profit, driven largely by its NEFECON kidney-disease treatment. Technology stocks also advanced, with Tencent reporting a 176% year-on-year jump in second-quarter capex to RMB52.8 billion on AI investment, while revenue rose 11% and adjusted earnings gained 9%. Sentiment was further supported by China keeping its one-year and five-year LPRs unchanged at 3.00% and 3.50%. Global bond yields also eased after the US Treasury doubled its long-term debt buybacks, supporting risk appetite. Notable movers included Tencent (0.8%), Xiaomi (2.7%), GenScript Biotech (8.3%), SMIC (1.5%) and WuXi Biologics (4.6%)."
+    },
     {
       "id": "te:markets:576680",
       "time": "2026-08-20 10:15:06",
