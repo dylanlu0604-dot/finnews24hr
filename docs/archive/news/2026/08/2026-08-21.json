@@ -1,7 +1,49 @@
 {
   "date": "2026-08-21",
-  "count": 296,
+  "count": 301,
   "items": [
+    {
+      "id": "5050771",
+      "time": "2026-08-21 03:41:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談伊朗：我們如今進入了一個新階段，對伊朗施加經濟壓力是我們手中最有效的手段。但這是一場微妙的博弈：當我們對其施加經濟壓力時，伊朗也會試圖反過來對我們施加經濟壓力。不過過去幾周的實際情況是，伊朗承受的壓力遠大於我們。我們會維持這一態勢，因為我們認為這是最優途徑。"
+    },
+    {
+      "id": "5050770",
+      "time": "2026-08-21 03:41:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國無人機製造商 POWERUS 獲得 2230 萬美元合同，保護中東石油基礎設施抵禦無人機威脅。"
+    },
+    {
+      "id": "mkt:01a020b0-eccc-7aab-90c0-966bbd805f1f",
+      "time": "2026-08-21 03:41:00",
+      "tags": [
+        "MKT News",
+        "DAL.N",
+        "Impact bullish"
+      ],
+      "text": "A US appeals court rejected the Department of Transportation's request to unwind the joint venture between Delta Air Lines (DAL.N) and Aeromexico."
+    },
+    {
+      "id": "5050769",
+      "time": "2026-08-21 03:40:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "裁決顯示：美國上訴法院駁回交通部試圖解除達美航空與墨西哥航空合資專案的訴求。"
+    },
+    {
+      "id": "mkt:01a020ae-f778-7aab-90c0-89cbc14d1be9",
+      "time": "2026-08-21 03:38:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi deputy foreign minister for political affairs met with Ukraine’s ambassador to Saudi Arabia to discuss matters of mutual concern."
+    },
     {
       "id": "te:economy:576955",
       "time": "2026-08-21 03:37:05",
