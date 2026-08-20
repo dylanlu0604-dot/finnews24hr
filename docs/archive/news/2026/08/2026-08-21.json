@@ -1,7 +1,28 @@
 {
   "date": "2026-08-21",
-  "count": 307,
+  "count": 309,
   "items": [
+    {
+      "id": "5050775",
+      "time": "2026-08-21 03:52:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達：有關該公司 LPU 的相關報道資訊有誤。"
+    },
+    {
+      "id": "mkt:01a020ba-de51-7aab-90c0-aa7d68103a68",
+      "time": "2026-08-21 03:51:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.06% to 98.894 on 20th】The dollar index, which measures the dollar against six major currencies, rose 0.06% to 98.894 at the New York close. EUR/USD 1.1676 (prev. 1.1674); GBP/USD 1.3628 (prev. 1.3607); USD/JPY 159.14 (prev. 158.32); USD/CHF 0.8007 (prev. 0.7979); USD/CAD 1.3790 (prev. 1.3810); USD/SEK 9.4908 (prev. 9.4386)."
+    },
     {
       "id": "5050774",
       "time": "2026-08-21 03:48:43",

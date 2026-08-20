@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-21 03:50:49",
-  "count": 16105,
+  "updated": "2026-08-21 03:54:40",
+  "count": 16104,
   "items": [
+    {
+      "id": "5050775",
+      "time": "2026-08-21 03:52:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達：有關該公司 LPU 的相關報道資訊有誤。"
+    },
+    {
+      "id": "mkt:01a020ba-de51-7aab-90c0-aa7d68103a68",
+      "time": "2026-08-21 03:51:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.06% to 98.894 on 20th】The dollar index, which measures the dollar against six major currencies, rose 0.06% to 98.894 at the New York close. EUR/USD 1.1676 (prev. 1.1674); GBP/USD 1.3628 (prev. 1.3607); USD/JPY 159.14 (prev. 158.32); USD/CHF 0.8007 (prev. 0.7979); USD/CAD 1.3790 (prev. 1.3810); USD/SEK 9.4908 (prev. 9.4386)."
+    },
     {
       "id": "5050774",
       "time": "2026-08-21 03:48:43",
@@ -147340,30 +147361,6 @@
         "Importance 1"
       ],
       "text": "Merck Stock Price Hits 54-year High — Merck shares increased to 135.11 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 11.72%, and in the last 12 months, it increased 63.04%."
-    },
-    {
-      "id": "5040004",
-      "time": "2026-08-14 03:52:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員重申霍爾木茲海峽處於關閉狀態】當地時間13日晚，伊朗伊斯蘭革命衛隊海軍司令阿里·阿茲馬伊表示，目前霍爾木茲海峽處於關閉狀態，伊方對海峽內相關動向保持“全面、堅決掌控”，任何活動都不會脫離伊朗伊斯蘭革命衛隊海軍的監控。（央視新聞）"
-    },
-    {
-      "id": "5040003",
-      "time": "2026-08-14 03:51:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "截至8月13日，已有30餘家北交所上市公司披露2026年半年報，企業成長成色初現。總體來看，已披露半年報的公司業績表現搶眼，約三分之一企業上半年歸母淨利潤同比增長超80%。算力服務、新能源、半導體等高景氣賽道成為拉動業績增長的核心引擎，凸顯北交所“專精特新”企業的成長活力。（經濟參考報）"
-    },
-    {
-      "id": "5040002",
-      "time": "2026-08-14 03:51:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：法院駁回針對特朗普 “戰時” 驅逐政策的訴訟請求。"
     }
   ]
 }
