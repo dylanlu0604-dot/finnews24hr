@@ -1,7 +1,84 @@
 {
   "date": "2026-08-20",
-  "count": 906,
+  "count": 914,
   "items": [
+    {
+      "id": "5048958",
+      "time": "2026-08-20 10:37:28",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【據悉銀行大幅下調SK海力士韓股槓桿投資成本】在SK海力士赴美上市以及AI相關股票經歷暴跌後，全球投資者對SK海力士韓股進行槓桿投資的融資成本在最近幾周內已減半。據知情人士透露，包括美國銀行、花旗集團、高盛集團和摩根大通在內的多家銀行，正向客戶報價在擔保隔夜融資利率（SOFR）基礎上加價約150至300個基點，以透過互換交易獲得SK海力士韓股的敞口。今年6月中旬，一些銀行針對希望新建SK海力士互換合約或續約的客戶，報價一度超過SOFR上浮1000個基點。自5月1日以來，SOFR一直在3.50%至3.69%之間波動。此前，銀行為在客戶之間分配有限的額度，以滿足新增SK海力士互換交易的需求，曾報出極高的融資利率，甚至在某些情況下直接拒絕客戶請求。當時，AI熱潮推動SK海力士韓股在截至6月22日的12個月內累計上漲11倍。隨著市場情緒變得極度看漲，銀行擔心自身投資組合過度集中於這類股票，進而推高其在回購市場的融資成本。知情人士稱，一些此前拒絕客戶請求的銀行如今已開始主動尋求新的業務。"
+    },
+    {
+      "id": "mkt:01a01d07-8b1e-7aab-90a7-6979d15cb8eb",
+      "time": "2026-08-20 10:37:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Banks sharply cut financing costs for leveraged SK Hynix Korea exposure, sources say】Global banks including BofA, Citigroup, Goldman and JP Morgan have halved financing costs for leveraged exposure to Korean-listed SK Hynix in recent weeks, sources say, after the stock’s US listing and a rout in AI-related names. Banks are now offering clients exposure via swaps at roughly SOFR +150–300bps. In mid‑June some banks had been quoting above SOFR +1,000bps for new or renewed SK Hynix swap positions. SOFR has traded between 3.50% and 3.69% since May 1. Earlier, as an AI-driven surge pushed SK Hynix about 11x in the 12 months to June 22, banks constrained capacity, priced repo financing extremely high or declined requests over concentration and repo-cost concerns; several that previously refused are now seeking new swap business."
+    },
+    {
+      "id": "5048957",
+      "time": "2026-08-20 10:36:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【盧偉冰稱記憶體漲價超出團隊預料】近日小米集團合夥人兼總裁盧偉冰在接受採訪時坦言，其實小米早在去年就已經預判到記憶體成本的上漲會是長週期趨勢，後續漲幅也會逐步拉大，但坦率來說，去年第四季度到今年第一、第二季度的這波猛漲，幅度之誇張還是完全超出了團隊之前的預料。 面對居高不下的記憶體採購成本，小米不會選擇簡單粗暴地把這部分額外壓力全部轉嫁給消費者，接下來團隊要做的核心動作，就是重新梳理全價位段的產品線架構，從底層重新定義每一款新品的配置組合，而從規劃、打磨到最終落地上市，整個流程註定會需要比較長的週期，不會倉促應對成本波動推出體驗縮水的產品。（快科技）"
+    },
+    {
+      "id": "mkt:01a01d06-72f9-7aab-90a7-622a04844d81",
+      "time": "2026-08-20 10:35:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China shipped over 40,000 humanoid robots in 1H2026; global share rises to 97%】A 2026 Humanoid Robot Industry Development Report released at the World Robot Conference on Aug 20 said China shipped more than 40,000 humanoid robots in 1H2026, pushing its share of global shipments to 97%."
+    },
+    {
+      "id": "5048956",
+      "time": "2026-08-20 10:35:22",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國擴大長期國債回購規模推動金價大漲】美國財政部8月19日宣佈將大幅增加長期國債回購規模後，美國長期國債收益率明顯回落，美元走弱，國際金價大幅上漲。當天，紐約商品交易所黃金期貨價格突破每盎司4500美元。每盎司4500美元。美國貴金屬分析師羅伯特·戈特利布說，美國財政部擴大長期國債回購規模“完全出乎市場預料”，長期美債收益率下降以及美元可能進一步走弱，對黃金構成明顯利好。（央視新聞）"
+    },
+    {
+      "id": "5048955",
+      "time": "2026-08-20 10:35:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大連萬達商管等被執行2.5億】天眼查法律訴訟資訊顯示，近日，大連萬達商業管理集團股份有限公司等新增一條被執行人資訊，執行標的2.5億餘元，執行法院為江蘇省南通市中級人民法院。該公司成立於2002年9月，法定代表人為陳洪濤，註冊資本約271.6億人民幣，經營範圍包括商業綜合體管理服務、非居住房地產租賃、物業管理等。"
+    },
+    {
+      "id": "mkt:01a01d05-2baf-7aab-90a7-59475c58e96a",
+      "time": "2026-08-20 10:34:33",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【Goldman: short- and long-term winners diverging; US equity leadership beginning to rotate】Goldman’s trading desk says the internal structure of the US equity momentum factor is shifting. Overlap between 12-month and 3-month winners has dropped to multi-year lows, while overlap of 12-month winners with 3-month losers is near multi-year highs, causing the 3-month momentum portfolio to diverge from the 12-month portfolio. Sector weights illustrate the shift: software is the biggest weight on the 3-month momentum long side and the biggest weight on the 12-month momentum short side. On the same trading day, semiconductors fell about 6.5% while software rose about 1%, underscoring a reassessment of short-term winners within tech."
+    },
+    {
+      "id": "5048954",
+      "time": "2026-08-20 10:34:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年中國人形機器人出貨量已超過4萬臺】8月20日，在2026世界機器人大會上，中國電子學會理事會黨委書記、中國人形機器人與具身智慧百人會理事長張峰釋出《2026年人形機器人產業發展報告》。《報告》中提到，2026年上半年，中國人形機器人出貨量已超過4萬臺，全球佔比進一步提升至97%。"
+    },
     {
       "id": "5048953",
       "time": "2026-08-20 10:34:08",
