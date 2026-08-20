@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-20 13:15:22",
-  "count": 15668,
+  "updated": "2026-08-20 13:19:21",
+  "count": 15666,
   "items": [
+    {
+      "id": "5049072",
+      "time": "2026-08-20 13:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【《2026年人形機器人產業發展報告》今天釋出】今天（20日），由中國人形機器人與具身智慧百人會組織編纂的《2026年人形機器人產業發展報告》在2026世界機器人大會上釋出。報告從產業概況、發展態勢、技術圖譜、產業鏈全景、應用場景五個維度展開深入分析與研判，主要介紹了人形機器人的內涵外延、戰略意義及趨勢展望，重點分析了中國、美國、德國、韓國、日本五個國家發展情況，系統梳理了人形機器人核心技術體系，詳細繪製了人形機器人產業鏈全景，全面剖析了七大典型應用場景。報告提出了四條核心發現。一是技術創新進入“叢集湧現”新階段。技術加速迭代，整機產品高階化、智慧化步伐提速。人形機器人的環境感知、規劃決策、運動控制等能力不斷增強，在複雜環境中的適應性和穩定性持續提升。二是產業鏈實現“質效與能級”雙跨越。已形成從關鍵晶片、部元件到整機的人形機器人全產業鏈製造能力。三是行業應用邁入“全面鋪開”深水區。人形機器人從小批次試用加快向常態化部署和規模化應用邁進。2026年上半年，中國人形機器人出貨量已超4萬臺，全球佔比進一步提升至97%。四是生態構建形成“共生共榮”新正規化。以標準研製為引領、以人才培育為基礎、以國際合作為拓展、以創新基礎設施建設為保障的“四位一體”產業生態體系加速構建。"
+    },
+    {
+      "id": "mkt:01a01d98-b773-7aab-90a9-2a9635f33cb1",
+      "time": "2026-08-20 13:15:42",
+      "tags": [
+        "MKT News",
+        "000660.KS"
+      ],
+      "text": "Sources said SK Hynix will pay employee bonuses 40% in cash and allocate the remaining 60% in company shares."
+    },
+    {
+      "id": "te:markets:576727",
+      "time": "2026-08-20 13:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Depreciates by 0.45% — Top currency losers are South Korean Won (-0.45%), Swiss Franc (-0.32%) and Japanese Yen (-0.26%). Gains are led by New Zealand Dollar (0.26%) and Dollar Index (0.08%). Meanwhile, Euro and British Pound were little changed."
+    },
     {
       "id": "5049071",
       "time": "2026-08-20 13:14:46",
@@ -143750,53 +143778,6 @@
         "國際"
       ],
       "text": "【印度謀求參與法國六代機研發專案】據《西班牙人報》網站8月10日報道，法國、德國、西班牙聯合研發未來空中作戰系統（FCAS）的三方合作宣告破裂後，只有法國率先明確推出後續方案。法國達索公司對外表態，如果德國與西班牙執意單獨推進自研路線，法國將獨立完成六代機研發工作。 與此同時，印度正全力爭取加入法國六代機專案。 印度國防部向印度議會國防常設委員會提交了專項進展報告。《新印度快報》援引報告內容稱，印方已“協同開展各項籌備工作，謀求加入”法國FCAS專案。（環球網）"
-    },
-    {
-      "id": "5038635",
-      "time": "2026-08-13 13:19:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "任天堂選擇Salim集團作為其在印度尼西亞的經銷商。"
-    },
-    {
-      "id": "5038634",
-      "time": "2026-08-13 13:18:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中集安瑞科旗下企業與上海聯風達成蒸發氣（BOG）提氦專案合作】中集安瑞科公眾號訊息，近期公司投資企業—山西天浩清潔能源有限公司（簡稱“山西天浩”），與上海聯風氣體股份有限公司（簡稱“上海聯風”）簽訂了相關合作協議。雙方將發揮各自優勢，建立戰略合作伙伴關係，投資建設蒸發氣（BOG）提氦專案，實現資源綜合利用與經濟效益最大化。未來山西天浩與上海聯風將共同拓展蒸發氣（BOG）提氦專案的資源綜合利用效率，實現經濟效益最大化。此次簽約專案投產後年產能預計為11萬m³99.999%（5N）高純氦氣。"
-    },
-    {
-      "id": "5038633",
-      "time": "2026-08-13 13:17:54",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "【韓國SK Shipping與H-Line置換船隻，將締造亞洲最大液化天然氣運營商】Hahn & Co.旗下的兩家韓國公司SK Shipping和H-Line Shipping正在進行船隻和合同置換，此項交易將締造亞洲最大的液化天然氣(LNG)運輸船運營商。總部位於首爾的私募股權投資公司Hahn & Co.週四表示，SK Shipping將從H-Line接收16艘液化天然氣運輸船及相關長期合同，作為交換，SK Shipping將向H-Line提供12艘油輪及其合同，外加約3億美元現金。該交易將使SK Shipping的液化天然氣船隊規模增長一倍，達到32艘運輸船，使其成為全球第三大、亞洲最大的液化天然氣運輸船運營商。"
-    },
-    {
-      "id": "mkt:019ff98c-e3be-7aab-9018-e34b84a100b6",
-      "time": "2026-08-13 13:16:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Vietnam central bank warns $77 billion funding gap could threaten financial stability】Vietnam’s central bank warned a funding shortfall that exceeds banks’ ability to raise funds could jeopardize financial stability, saying VND loan balances exceed deposits by roughly VND 20,000 billion (about $77 billion), a mismatch that poses risks to liquidity, interest rates and the safety of banking institutions. The government is pressing banks to ramp up lending to support a near-12% H2 growth target on the way to a double-digit 2026 growth goal; the prime minister met banking executives on Thursday."
-    },
-    {
-      "id": "5038632",
-      "time": "2026-08-13 13:15:58",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "【菲律賓First Gen或將以27億美元估值接受KKR的私有化要約】菲律賓First Gen公司週四表示，KKR提出的強制要約將使這家電力生產商的估值達到約1,654.4億比索(即27億美元)。First Gen週三披露稱，KKR提議從其母公司First Philippine Holdings 手中收購該公司8.43%的股份。這家電力生產商補充稱，此舉可能會觸發KKR對First Gen全部11.67%流通股（即36億股已發行普通股）發起強制要約收購。該要約收購將 支援 First Gen向菲律賓證券交易所 提交的 自願退市 申請。"
     }
   ]
 }
