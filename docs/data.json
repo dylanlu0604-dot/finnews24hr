@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-20 12:41:57",
-  "count": 15669,
+  "updated": "2026-08-20 12:45:51",
+  "count": 15666,
   "items": [
+    {
+      "id": "5049053",
+      "time": "2026-08-20 12:43:15",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【鐵路行業成為人工智慧落地應用的先行領域】8月20日，交通運輸部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。國家鐵路局科技與法制司副司長劉燕表示，鐵路行業已成為人工智慧落地應用的先行領域。（新華社）"
+    },
+    {
+      "id": "te:markets:576717",
+      "time": "2026-08-20 12:43:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Recovers After 4-Day Decline — India’s BSE Sensex rose about 0.7% to 77,449 on Thursday, rebounding from a fourth consecutive session of losses as global bond markets steadied after the US Treasury announced steps to bring down rising borrowing rates. The US Treasury said overnight it would double buyback sizes for long-duration debt, seeking to ease upward pressure on yields after the 30-year Treasury yield climbed to its highest level since 2007 earlier this week. The move helped push the dollar lower and supported risk assets globally. However, gains in Indian equities were capped by elevated crude oil prices and persistent tensions in the Middle East. On the corporate front, Lohia Corp reported a four-fold jump in profit for the June quarter, while revenue rose 59.5%. In the broader market, newly listed IT solutions firm Xtranet Technologies reported higher first-quarter revenue and profit. Notable gainers included Shiprocket (6.4%), Behari (7.4%), Netweb (4.9%), Eternal (2.3%), and HDFC Bank (1.0%)."
+    },
+    {
+      "id": "mkt:01a01d7a-5228-7aab-90a8-8c0399ae659f",
+      "time": "2026-08-20 12:42:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says a Russian airstrike killed 8 and injured 33 in Kyiv, Ukraine."
+    },
+    {
+      "id": "5049052",
+      "time": "2026-08-20 12:42:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔市長稱，俄羅斯空襲造成8人死亡，33人受傷。"
+    },
     {
       "id": "5049051",
       "time": "2026-08-20 12:41:22",
@@ -143722,70 +143763,6 @@
         "國際"
       ],
       "text": "據稱日本央行可能在9月或10月加息。"
-    },
-    {
-      "id": "5038607",
-      "time": "2026-08-13 12:45:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據訊息人士透露，日本央行正在考慮在10月份提高利率，政府也支援這一舉措，以維持其干預措施的有效性。"
-    },
-    {
-      "id": "5038606",
-      "time": "2026-08-13 12:45:26",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "據訊息人士透露，日本央行和政府都對日元貶值導致物價上漲表示擔憂。"
-    },
-    {
-      "id": "5038605",
-      "time": "2026-08-13 12:45:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【鋁價從七週高位繼續回落 供應擔憂緩解】鋁價連續第二天下跌，中東一家大型鋁冶煉廠宣佈計劃提前恢復生產，緩解了市場對鋁供應日益緊張的擔憂。阿聯酋環球鋁業計劃明年第一季度將產量提升至戰前水平，伊朗3月份發動的襲擊曾導致其主要冶煉廠停產。受訊息影響，鋁價週三大幅回落。此前，由於伊朗與美國似乎就重開霍爾木茲海峽達成協議漸行漸遠，鋁價連續七個交易日上漲。倫敦金屬交易所的鋁庫存目前處於1990年以來最低水平。此外，澳大利亞最大鋁冶煉廠Tomago的所有者週四獲得25億澳元（約合18億美元）政府紓困資金，使該廠得以繼續運營，進一步加大了供應端壓力。鋁價下跌0.9%，至每噸3282.50美元。其他基本金屬價格也普遍走低，其中銅價下跌0.4%，鋅價下跌0.8%。"
-    },
-    {
-      "id": "mkt:019ff970-210a-7aab-9018-7daf0269e44b",
-      "time": "2026-08-13 12:45:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "【Putin says Russia must secure all borders and territory】On the 13th Putin, aboard missile cruiser Varyag, met senior Pacific Fleet officers and said Russia must secure all borders and territory, adding that national security tasks are being carried out primarily via the special military operation in Ukraine. He observed Pacific Fleet exercises on the 12th. Russia’s defence ministry said the Pacific Fleet has held large-scale drills since the 4th in the Sea of Japan, the Sea of Okhotsk and the northwest Pacific."
-    },
-    {
-      "id": "5038604",
-      "time": "2026-08-13 12:43:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳市地鐵集團、深灣發展成立綠景投資開發公司】企查查APP顯示，近日，深圳深灣綠景投資開發有限公司成立，法定代表人為熊海明，註冊資本為8.4億元，經營範圍包含商業綜合體管理服務；工程管理服務；物業管理；城市公園管理；合同能源管理；房地產開發經營等。企查查股權穿透顯示，該公司由深圳灣區城市建設發展有限公司、深圳市地鐵集團有限公司共同持股。"
-    },
-    {
-      "id": "5038603",
-      "time": "2026-08-13 12:43:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【交易員：對沖基金正在買入澳元/紐元看漲期權價差】交易員表示，在紐西蘭第三季度兩年期通脹預期較前三個月有所下降後，對沖基金一直在買入澳元/紐元短期看漲期權價差。澳元/紐元上漲0.3%至1.2090。"
-    },
-    {
-      "id": "5038602",
-      "time": "2026-08-13 12:42:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將 愛彼迎  目標價從175美元上調至215美元。"
     }
   ]
 }
