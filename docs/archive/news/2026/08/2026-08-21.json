@@ -1,7 +1,41 @@
 {
   "date": "2026-08-21",
-  "count": 533,
+  "count": 536,
   "items": [
+    {
+      "id": "mkt:01a02199-5543-7aab-90c3-30728d11dd49",
+      "time": "2026-08-21 07:54:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Japan core inflation accelerates for second month, reinforces BOJ near-term rate-hike bets】Japan's key inflation gauges accelerated for a second month, boosting expectations the Bank of Japan may tighten policy soon. July core CPI rose 1.8% YoY, up from 1.6% in June and in line with economists' median. The BOJ's preferred core-core measure (ex fresh food and energy) rose 1.9% YoY; headline CPI also climbed 1.9%. Energy prices contributed to the pickup, with July energy up 0.6% YoY after a small decline in June. Governor UEDA has signaled policymakers could speed up normalization; with yen weakness adding upside inflation risk, markets have increased bets on BOJ action as soon as September despite a rare US-Japan coordinated FX intervention at end-July."
+    },
+    {
+      "id": "5050892",
+      "time": "2026-08-21 07:53:12",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【目前已有22家煤炭上市公司披露2026年半年度業績相關公告 報喜比例近七成】近期，焦炭期貨、現貨價格持續上漲。生意社資料顯示，截至8月20日，焦炭基準價達到1868.75元/噸，較5月20日上漲11.40%；期貨方面，焦炭2701主力合約8月以來持續上漲，累計漲幅已達到12.85%。焦煤近期亦有明顯漲幅。生意社資料顯示，煉焦煤8月18日價格為1923.75元/噸，較5月18日上漲23.42%；期貨方面，8月以來，焦煤2701主力合約累計上漲18.99%。需求方面，今年上半年，全國用電需求保持旺盛增長態勢，算力、充換電等行業高速發展，疊加持續高溫天氣，全社會用電量增速加快。據證券時報·資料寶統計，截至8月20日，已有22家煤炭上市公司披露2026年半年度業績相關公告。按半年報淨利潤、業績預告下限順序計算，3家公司扭虧為盈，6家同比減虧，6家實現淨利潤同比增長，報喜比例近七成。扭虧為盈的3家公司中，甘肅能化淨利潤最高，公司預計實現歸母淨利潤1.66億元，主要由於煤炭銷售均價同比上漲。從估值上來看，上述扭虧、減虧、預增的15只煤炭股中，4股最新市淨率不足1倍，處於“破淨”狀態，包括山西焦化、蘭花科創、甘肅能化、恆源煤電，最新市淨率分別為0.6倍、0.71倍、0.84倍、0.9倍。"
+    },
+    {
+      "id": "te:markets:576996",
+      "time": "2026-08-21 07:53:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Pressured by Rebounding Yields — US stock futures hovered near weekly lows on Friday after major averages faced heavy selling pressure in the previous session, as Treasury yields rebounded amid concerns that the government’s plan to lower borrowing costs may offer only a temporary solution. Rising oil prices, as the US and Iran remain deadlocked over the Strait of Hormuz, also stoked inflation concerns. In regular trading on Thursday, the Dow fell 1.32%, the S&P 500 declined 0.87% and the Nasdaq Composite dropped 1%. Nine of the 11 S&P sectors finished lower, with consumer staples, health care and consumer discretionary stocks leading the declines. Long-term Treasury yields reversed Wednesday’s drop following the Treasury Department’s announcement of larger debt buybacks. In corporate news, Ross Stores jumped more than 8% in extended trading after the retailer posted stronger-than-expected second-quarter results."
+    },
     {
       "id": "mkt:01a02196-0d16-7aab-90c3-2aa1ac9e7482",
       "time": "2026-08-21 07:51:16",
