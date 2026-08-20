@@ -1,7 +1,142 @@
 {
   "date": "2026-08-20",
-  "count": 1928,
+  "count": 1944,
   "items": [
+    {
+      "id": "mkt:01a01e82-ffab-7aab-90b0-1fb942a34d82",
+      "time": "2026-08-20 17:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jefferies: Moderna could have more than seven products by 2027-28】Jefferies analyst Andrew Tsai says a breakthrough in a skin‑cancer vaccine positions Moderna to have more than seven marketed products by 2027-28. He notes the company is diversifying into respiratory drugs, oncology and AI-designed therapeutics. Jefferies projects 2026 revenue could rise up to 10% from $1.9bn in 2025, which could allow Moderna to reach break-even in 2028. Successful trials of Moderna’s experimental mRNA cancer vaccine could drive sales growth beginning in 2027."
+    },
+    {
+      "id": "5049656",
+      "time": "2026-08-20 17:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴 第一季度調整後每ADS收益 8.52元人民幣。"
+    },
+    {
+      "id": "5049655",
+      "time": "2026-08-20 17:31:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿里巴巴 第一季度營收2,689.5億元人民幣，預估2,685.2億元人民幣。"
+    },
+    {
+      "id": "mkt:01a01e82-7dea-7aab-90b0-146875b8dd59",
+      "time": "2026-08-20 17:31:03",
+      "tags": [
+        "MKT News",
+        "9988.HK",
+        "Impact bullish",
+        "1024.HK",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Southbound Stock Connect net sold CNY 10.412 bln today. Via Shanghai Stock Connect, Tracker Fund of Hong Kong was net sold HK$2.759bn and another small position HK$126m; Kuaishou-W led net buys at HK$945m. Via Shenzhen Stock Connect, CSPC Pharmaceutical and Akeso were net sold HK$1.092bn and HK$631m; Alibaba-W led net buys at HK$2.004bn."
+    },
+    {
+      "id": "5049654",
+      "time": "2026-08-20 17:31:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST絕味：2026年上半年營業收入25.15億元】ST絕味公告，公司2026年1—6月營業收入為25.15億元，其中主營業務收入為24.7億元，佔營業收入98.24%；其他業務收入為4418.95萬元，佔營業收入1.76%。主營業務收入分產品中，鮮貨類產品收入18.19億元，佔比73.62%；供應鏈物流收入3.86億元，佔比15.61%。"
+    },
+    {
+      "id": "5049653",
+      "time": "2026-08-20 17:30:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST絕味：擬以1億元-2億元回購公司股份，價格不超15.72元/股】ST絕味公告，擬以集中競價交易方式回購公司股份，回購資金總額不低於1億元（含）且不超過2億元（含），回購價格不超過15.72元/股（含）。回購股份將用於員工持股計劃或股權激勵，資金來源為自有資金和/或自籌資金。回購期限為自股東會審議透過之日起12個月內。該方案尚需提交股東會審議。"
+    },
+    {
+      "id": "5049652",
+      "time": "2026-08-20 17:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：拜恩泰科在2026世界肺癌大會公佈晚期肺癌管線進展，披露Pumitamig聯合Elfetabart Drozuntecan全新雙新藥組合的首批全球臨床資料。"
+    },
+    {
+      "id": "5049651",
+      "time": "2026-08-20 17:30:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國信證券：獲准公開發行不超200億元永續次級債券】國信證券公告，公司近日收到中國證監會批覆，同意公司向專業投資者公開發行面值總額不超過200億元永續次級債券的註冊申請。該批覆自同意註冊之日起24個月內有效，公司可在註冊有效期內分期發行。"
+    },
+    {
+      "id": "5049650",
+      "time": "2026-08-20 17:30:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴比食品：2026年半年度營業收入8.52億元】巴比食品公告，公司2026年1-6月營業收入為8.52億元，其中主營業務收入為8.51億元，佔營業收入99.88%；其他業務收入為100.13萬元，佔營業收入0.12%。分產品看，食品類收入7.62億元，佔比89.53%；分渠道看，特許加盟銷售6.31億元，佔比74.14%；分地區看，華東區域收入6.92億元，佔比81.28%。期末加盟門店合計5869家。"
+    },
+    {
+      "id": "5049649",
+      "time": "2026-08-20 17:30:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三孚股份：2026年半年度淨利潤1.19億元，同比增長209.73%】三孚股份公告，2026年半年度營業收入13.12億元，同比增長30.17%。歸屬於上市公司股東的淨利潤1.19億元，同比增長209.73%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.15億元，同比增長245.07%。上年同期淨利潤3845.84萬元。本報告期不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5049648",
+      "time": "2026-08-20 17:29:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴比食品：2026年上半年淨利潤1.35億元，同比增長2.28%】巴比食品公告，2026年上半年營業收入8.52億元，同比增長2.03%。歸屬於上市公司股東的淨利潤1.35億元，同比增長2.28%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.06億元，同比增長4.50%。"
+    },
+    {
+      "id": "5049647",
+      "time": "2026-08-20 17:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華人置業：上半年淨虧損2億港元，同比收窄51.20%】8月20日，華人置業在港交所公告，上半年營收1.34億港元，同比減少0.20%；上半年淨虧損2億港元，同比收窄51.20%；基本每股虧損0.105港元。"
+    },
+    {
+      "id": "mkt:01a01e7f-beb9-7aab-90b0-09cb5818e5d5",
+      "time": "2026-08-20 17:28:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GF Nasdaq ETF will be suspended from market open on Aug 21, 2026 and will resume at 10:30 that day; redemptions will continue to be processed during the suspension."
+    },
+    {
+      "id": "mkt:01a01e7f-bd91-7aab-90b0-03e1a4bdd9fe",
+      "time": "2026-08-20 17:28:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 14, citing an official, said Israel will make separate decisions on each international force's entry into the Gaza Strip."
+    },
+    {
+      "id": "mkt:01a01e7f-573c-7aab-90af-fc7a4b8dbbfd",
+      "time": "2026-08-20 17:27:36",
+      "tags": [
+        "MKT News",
+        "QTEC"
+      ],
+      "text": "Invesco Nasdaq Technology ETF will be suspended from market open on Aug 21, 2026 and will resume trading at 10:30 that day; redemptions will be processed as normal during the suspension."
+    },
+    {
+      "id": "5049646",
+      "time": "2026-08-20 17:27:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鍇威特：披露重大資產重組內幕知情人買賣股票核查情況】鍇威特公告稱，華泰聯合證券作為公司發行股份及支付現金購買資產並募集配套資金暨關聯交易的獨立財務顧問，對本次交易相關內幕知情人買賣股票情況出具核查意見。本次自查期間為2025年9月16日至2026年8月5日。核查範圍內，肖智軼累計買入1000股、賣出1000股，結餘0股；曾浩累計買入1600股、賣出800股，結餘800股；公司回購專用證券賬戶累計買入24.55萬股，截至2026年8月5日結餘60.54萬股。上述主體買賣股票均不屬於利用本次交易內幕資訊的內幕交易行為，其餘核查物件自查期間無買賣公司股票情況。"
+    },
     {
       "id": "5049645",
       "time": "2026-08-20 17:27:02",
