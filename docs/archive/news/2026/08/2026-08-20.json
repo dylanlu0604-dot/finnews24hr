@@ -1,7 +1,144 @@
 {
   "date": "2026-08-20",
-  "count": 767,
+  "count": 781,
   "items": [
+    {
+      "id": "5048869",
+      "time": "2026-08-20 09:39:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化纖概念盤初走強，尤夫股份直線漲停】化纖概念盤初走強，尤夫股份直線漲停，恆逸石化、匯隆新材、蒙泰高新、東方盛虹、桐昆股份、榮盛石化等跟漲。"
+    },
+    {
+      "id": "te:markets:576669",
+      "time": "2026-08-20 09:39:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Languishes at 3-Month Low — The dollar index held around 98.8 on Thursday, hovering near its lowest level in three months as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. The move signaled that the US Treasury was prepared to take a more active role in the bond market to limit long-term yields, potentially improving dollar liquidity across the global financial system. Meanwhile, minutes from the Federal Reserve’s July meeting confirmed that some policymakers favored raising interest rates this year to prevent stronger inflationary pressures from emerging later. Elsewhere, heightened uncertainty in the Middle East, with the US and Iran remaining at a stalemate, kept inflation risks in focus."
+    },
+    {
+      "id": "5048868",
+      "time": "2026-08-20 09:39:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄羅斯經濟溫和增長】俄羅斯總統普京19日說，俄羅斯經濟呈現溫和增長，2026年國內生產總值（GDP）預計增長約1%。普京當天在戰略發展和國家專案委員會會議上表示，俄經濟增長受到工業設施、基礎設施遭襲等外部因素影響。儘管如此，俄貿易基礎設施依然高效穩健運轉。關於亟需恢復的俄物流和倉儲能力，俄政府應制定相應方案。（新華社）"
+    },
+    {
+      "id": "5048867",
+      "time": "2026-08-20 09:38:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻璃基板概念快速回落 紅星發展跌停】玻璃基板概念快速回落，紅星發展跌停，沃格光電、京東方A、彩虹股份、金瑞礦業、艾森股份跟跌。"
+    },
+    {
+      "id": "5048866",
+      "time": "2026-08-20 09:38:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊異動拉昇 風範股份14天8板】早盤電網裝置板塊異動拉昇，風範股份14天8板，正泰電器逼近漲停，三暉電氣、揚電科技、萬馬股份、泓淋電力等跟漲。"
+    },
+    {
+      "id": "5048865",
+      "time": "2026-08-20 09:38:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【航運概念震盪反彈，鳳凰航運漲停】航運概念震盪反彈，鳳凰航運漲停，中遠海能、海通發展、招商輪船、中谷物流、盛航股份、興通股份等跟漲。"
+    },
+    {
+      "id": "mkt:01a01cd1-79b0-7aab-90a6-730c8c9790f0",
+      "time": "2026-08-20 09:38:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the company has not deployed humanoid robots at scale because their overall efficiency and general-purpose capabilities remain insufficient."
+    },
+    {
+      "id": "te:economy:576667",
+      "time": "2026-08-20 09:37:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Australia Jobless Rate Above Forecasts — Australia’s seasonally adjusted unemployment edged up to 4.5% in July, surpassing both market expectations and June’s figure of 4.4%. It was the highest reading in three months, with the number of unemployed rising by 4,200 to 691,500 from 687,400 in June, while employment fell unexpectedly by 15,800 to 14.81 million, defying expectations for a 15,000 increase."
+    },
+    {
+      "id": "mkt:01a01cd1-1e06-7aab-90a6-6956cfc237ff",
+      "time": "2026-08-20 09:37:41",
+      "tags": [
+        "MKT News",
+        "SMH",
+        "Impact mixed",
+        "Nasdaq100"
+      ],
+      "text": "【JPMorgan: Tech sell-off appears driven by quant/liquidity flows, not structural de-risking】JPMorgan, reviewing the prior day’s tech retreat, said the move looked more like a low-volume, catalyst-free, post-earnings momentum reversal driven by quant/liquidity flows than a structural de-risking tied to higher long-end yields or AI funding stress. Traders rated intraday flow activity about 3/10; semiconductors showed localized de-risking but on limited scale. The firm’s composite positioning indicator sits near the 40th percentile (neutral), and the Philadelphia Semiconductor ETF remains roughly 18% above its July low despite the pullback. JPMorgan retains a technical bull-market view and notes buybacks, retail investors and systematic funds have room to rebuild positions or increase leverage."
+    },
+    {
+      "id": "mkt:01a01cd0-f132-7aab-90a6-60f1b542e0a4",
+      "time": "2026-08-20 09:37:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Multiple Chinese gold-stock ETFs rise more than 6%】Chinese gold-stock ETFs including Guotai, Huaxia and ICBC rose more than 6% as gold equities continued to strengthen."
+    },
+    {
+      "id": "5048864",
+      "time": "2026-08-20 09:37:25",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊開盤強勢，興業銀錫漲停】貴金屬板塊開盤強勢，興業銀錫漲停，中金黃金、赤峰黃金、山東黃金、曉程科技、山金國際等漲超6%。"
+    },
+    {
+      "id": "5048863",
+      "time": "2026-08-20 09:37:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多支黃金股ETF漲超6%】黃金股持續走強，黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲超6%,訊息面上，黃金突破4500美元大關。"
+    },
+    {
+      "id": "mkt:01a01cd0-76f4-7aab-90a6-5ecac5b22009",
+      "time": "2026-08-20 09:36:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya reports US ambassador to Israel Mike Hekabi said Trump could consider military action against Iran if Tehran refuses to abandon its nuclear and uranium-enrichment ambitions and to reopen the Strait of Hormuz."
+    },
+    {
+      "id": "5048862",
+      "time": "2026-08-20 09:36:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使表示，若伊朗拒絕放棄核與濃縮鈾野心並拒絕重新開放霍爾木茲海峽，特朗普可能會考慮對其採取軍事行動。"
+    },
     {
       "id": "mkt:01a01ccf-6a20-7aab-90a6-57d3bd184ccb",
       "time": "2026-08-20 09:35:50",
