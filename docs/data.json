@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-20 15:26:13",
-  "count": 15641,
+  "updated": "2026-08-20 15:30:14",
+  "count": 15646,
   "items": [
+    {
+      "id": "mkt:01a01e13-52cd-7aab-90ac-85f93961f7b6",
+      "time": "2026-08-20 15:29:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister said the country's exportable corn surplus for the 2026/27 season is expected to be at least 20 million tonnes."
+    },
+    {
+      "id": "mkt:01a01e13-4059-7aab-90ac-7d2c94358999",
+      "time": "2026-08-20 15:29:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CIMB: Bank Indonesia could hike 25 bps in Q4】CIMB economists say Bank Indonesia could raise policy rates by 25 bps in Q4 if external shocks and inflation once again pressure the rupiah. They note a narrowing current-account deficit may support the rupiah in H2, but the Fed rate path, a stronger dollar and oil remain key external drivers. Domestic inflation risks are skewed to the upside due to El Nifio-driven food risks and potential Middle East energy-price volatility. With growth expected to slow in H2, CIMB expects BI to remain patient while closely monitoring global rates and the currency."
+    },
+    {
+      "id": "mkt:01a01e13-2873-7aab-90ac-7179aa7969ef",
+      "time": "2026-08-20 15:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says US claims Iran 'on the brink' are cover for soliciting allies】TASNIM NEWS reports Iran's deputy foreign minister said Washington has labeled its next move \"economic action\" and publicly claims Iran is \"on the brink\", but is in fact soliciting aid from allies. He accused US miscalculation after unsuccessful military measures and said the planned \"economic war\" risks becoming another American failure."
+    },
+    {
+      "id": "5049274",
+      "time": "2026-08-20 15:29:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "廣期所品種倉單及變化如下：碳酸鋰期貨倉單39333手，環比上個交易日增加725手；多晶矽期貨倉單22830手，環比上個交易日增加250手；工業矽期貨倉單33535手，環比上個交易日增加24手。"
+    },
+    {
+      "id": "5049273",
+      "time": "2026-08-20 15:29:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【券商8月首次下調三星、SK海力士明年盈利預期】半導體高景氣預期迎來回撥8月，三星電子與SK海力士的下一年度盈利預期迎來首次下調。兩家企業股價已大幅下挫，市場正關注半導體板塊近期暴跌是否已經反映出未來盈利增速放緩的預期。據報道，金融資訊機構FnGuide統計超過三家券商的預測資料顯示，截至18日，三星電子2027年營業利潤預期為544.67萬億韓元。該預期在上月末曾衝高至549.913萬億韓元，本月出現首次回落。但進入8月市場風向發生轉變。三星電子與SK海力士此前一路走高的盈利預期戛然而止，部分機構開始下調預測數值。2028年盈利預期也出現相同走勢。三星電子2028年營業利潤預期7日為556萬億韓元，10天內回落12萬億韓元至544萬億韓元。同一時期，SK海力士預期從402萬億韓元下降3萬億韓元，至399萬億韓元。不過股市主流觀點認為，現階段還不能判定盈利正式進入下行週期。市場認為，只是此前急速抬升的盈利預期上漲節奏放緩，前期過度樂觀的預期出現部分修正。"
+    },
+    {
+      "id": "te:economy:576773",
+      "time": "2026-08-20 15:28:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Moldova Industrial Output Rises to 3-Month High — Industrial production in Moldova jumped 10.6% year-on-year in June 2026, accelerating from an upwardly revised 8.3% rise in the previous month. This marked the strongest gain since March, driven by higher output in the manufacturing industry (10.2% vs 7.7% in May), with notable increases in food products (18.4% vs 15.5%), textiles (40.1% vs 24.9%), leather and related products (41.7% vs 30.8%), wood and wood products (24.6% vs 11.0%), basic metals (30.6% vs -41.9%), computer, electronic, and optical products (36.2% vs -16.3%), electrical equipment (7.9% vs 6.7%), machinery and equipment (45.3% vs 26.1%), and furniture (59.5% vs -4.3%). Additionally, activity in the electricity, gas, steam, and air-conditioning supply sector increased at a faster pace (19.4% vs 11.0%). Meanwhile, mining production slowed (10.3% vs 22.4%). On a monthly basis, industrial output fell 0.9%, reversing a 1.9% rise in May. In the first half of the year, industrial production grew 7.9%."
+    },
+    {
+      "id": "5049272",
+      "time": "2026-08-20 15:27:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長表示，預計烏克蘭2026/27年度可出口玉米盈餘將不低於2000萬噸。"
+    },
+    {
+      "id": "5049271",
+      "time": "2026-08-20 15:27:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟買證券交易所股票回吐最高1.8%的漲幅。"
+    },
+    {
+      "id": "5049270",
+      "time": "2026-08-20 15:26:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產大模型掀漲價潮，“百模大戰”熄火？】8月17日0點起，DeepSeek-V4 API新定價正式生效。此輪調整實行分時定價，高峰時段輸出價格升至27元/百萬tokens，為此前價格的4.5倍；快取未命中價格升至9元/百萬tokens，為此前價格的3倍；快取命中價格則大幅上調至0.30元/百萬tokens，為此前價格的12倍。空閒時段價格則為高峰時段的一半。 漲價後，DeepSeek告別了曾經的“極致價效比”路線。有業內人士告訴記者，此前智譜的模型相對較貴，因為它能很好地解決coding問題；DeepSeek主打價效比，特別是很多24小時運作的智慧體，其消耗的token數量極其巨大，開發者往往會選擇DeepSeek模型。但DeepSeek漲價，並非孤例。過去數月，智譜、Kimi、MiniMax等國產大模型也相繼對部分API價格進行了上調。“這輪調價不是全行業統一漲價，而是獨立模型廠商領漲，自有算力的大廠按兵不動或變相調價。”致同諮詢交易支援服務合夥人梁偉告訴21世紀經濟報道記者，今年以來智譜、月之暗面、DeepSeek等獨立廠商相繼上調API定價，阿里、位元組、騰訊等大廠則按兵不動。（21財經）"
+    },
+    {
+      "id": "mkt:01a01e10-6ea6-7aab-90ac-6866259aa118",
+      "time": "2026-08-20 15:26:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bankers say the Turkish central bank has begun auctions to purchase domestic government securities."
+    },
+    {
+      "id": "5049269",
+      "time": "2026-08-20 15:26:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE SENSEX指數最新上漲0.8%。"
+    },
     {
       "id": "5049268",
       "time": "2026-08-20 15:25:25",
@@ -143339,66 +143433,6 @@
         "市場"
       ],
       "text": "【著手AI成本可預見性 Compute Exchange推出詞元遠期合約】海量資金即將湧入晶片與資料中心賽道，各家企業持續大手筆投入AI技術自研，幾乎所有相關參與方都在想方設法，提升自身投入與收益的可預測性。據報道，初創算力交易平臺Compute Exchange原本業務是撮合GPU持有方與短期租用者，現在拓展同類撮合業務，推出詞元遠期合約（Token forwards）。這屬於場外私下協商合約，允許企業最長鎖定未來六個月的詞元採購價格，對沖後續AI使用成本波動風險。 詞元遠期合約的定價模式和GPU合約存在區別：GPU合約一般鎖定執行AI模型所需算力的小時單價；詞元合約則在更長週期內鎖定統一價格，交易標的也是企業日常業務真正消耗的資源。 客戶可選擇六家簽約推理服務商提供的多款主流開源權重模型。遠期合約和CME籌備的標準化場內期貨並不完全等同，但標誌著金融市場套保機制，進一步延伸到更多型別AI成本專案。"
-    },
-    {
-      "id": "te:markets:574982",
-      "time": "2026-08-13 15:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.13% Higher — The CAC 40 Index is gaining 11 points or 0.13 percent on Thursday. Leading the gains are Societe Generale (1.03%), Eurofins Scientific SE (0.98%) and Accor (0.93%). Top losers are STMicroelectronics (-2.16%), Dassault Systemes (-1.68%) and TP (-0.61%)."
-    },
-    {
-      "id": "te:economy:574981",
-      "time": "2026-08-13 15:29:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Slovakia Inflation Eases to 19-Month Low — Slovakia's annual inflation rate eased to 3.3% in July 2026 from 3.5% in June, remaining above market expectations of 3%. It was the lowest reading since December 2024, largely due to a deeper decline in food and non-alcoholic beverage prices (-2.1% vs -0.5%). Inflation also slowed for alcoholic beverages, tobacco and narcotics (1.8% vs 3.1%), insurance and financial services (4.6% vs 4.9%), and miscellaneous goods and services (2.6% vs 3.2%). Meanwhile, price growth accelerated for housing and utilities (7.4% vs 7.3%), transport (7.0% vs 5.3%), clothing and footwear (0.8% vs 0.6%), health (5.1% vs 4.9%), information and communication (2.2% vs 2.0%), and recreation, sport and culture (5.2% vs 4.8%). On a monthly basis, consumer prices rose 0.1%, compared with market expectations and the previous month's 0.1% decline. Core inflation, which excludes regulated prices, edged down to 1.7% from 1.9% in June, marking its lowest level since March 2021."
-    },
-    {
-      "id": "te:economy:574980",
-      "time": "2026-08-13 15:29:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India 10Y Yield Holds Near 4-Week Low — The yields on India’s 10-year G-Sec weakened to around 6.76%, hovering near four-week lows as inflation data from India and the US reinforced expectations that neither central bank is likely to raise rates soon. Market participants assessed India’s July CPI, which rose to 4.45% from 4.38% in June, below the 4.50% forecast and comfortably within the RBI’s tolerance range. Meanwhile, US annual inflation slowed to 3.4% in July from 3.5% in June, marginally reducing expectations of a Federal Reserve rate hike next month and supporting US Treasuries. However, the decline in Indian yields remained limited as Brent crude held around $88 per barrel, keeping inflation risks in focus for the world’s third-largest oil importer. The US 10-year Treasury yield also remained elevated, while market participants shifted their attention to Friday’s INR 320 billion government bond auction, which is expected to provide the next major direction for yields."
-    },
-    {
-      "id": "5038811",
-      "time": "2026-08-13 15:29:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "蒂森克虜伯首席財務官：若水位進一步下降且內河航運停擺，我們不排除業績會受到影響。"
-    },
-    {
-      "id": "5038810",
-      "time": "2026-08-13 15:27:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：2026年上半年榮耀為全球增速最快的安卓中國廠商】榮耀最新分享階段經營成果，據IDC資料，今年上半年，榮耀是全球唯一實現出貨正增長的安卓中國廠商，並以9%的增速成為全球出貨增速最快的安卓中國廠商。"
-    },
-    {
-      "id": "5038809",
-      "time": "2026-08-13 15:26:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北銀理財換帥】記者從知情人士處獲悉，北銀理財近日在公司內部宣佈一項人事任命：北京銀行金融市場總監、同業票據管理部總經理劉素勤已出任北銀理財黨委書記，待履行完相關程式後，將正式擔任北銀理財董事長。（21財經）"
     }
   ]
 }

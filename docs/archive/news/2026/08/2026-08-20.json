@@ -1,7 +1,101 @@
 {
   "date": "2026-08-20",
-  "count": 1410,
+  "count": 1421,
   "items": [
+    {
+      "id": "mkt:01a01e13-52cd-7aab-90ac-85f93961f7b6",
+      "time": "2026-08-20 15:29:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister said the country's exportable corn surplus for the 2026/27 season is expected to be at least 20 million tonnes."
+    },
+    {
+      "id": "mkt:01a01e13-4059-7aab-90ac-7d2c94358999",
+      "time": "2026-08-20 15:29:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CIMB: Bank Indonesia could hike 25 bps in Q4】CIMB economists say Bank Indonesia could raise policy rates by 25 bps in Q4 if external shocks and inflation once again pressure the rupiah. They note a narrowing current-account deficit may support the rupiah in H2, but the Fed rate path, a stronger dollar and oil remain key external drivers. Domestic inflation risks are skewed to the upside due to El Nifio-driven food risks and potential Middle East energy-price volatility. With growth expected to slow in H2, CIMB expects BI to remain patient while closely monitoring global rates and the currency."
+    },
+    {
+      "id": "mkt:01a01e13-2873-7aab-90ac-7179aa7969ef",
+      "time": "2026-08-20 15:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says US claims Iran 'on the brink' are cover for soliciting allies】TASNIM NEWS reports Iran's deputy foreign minister said Washington has labeled its next move \"economic action\" and publicly claims Iran is \"on the brink\", but is in fact soliciting aid from allies. He accused US miscalculation after unsuccessful military measures and said the planned \"economic war\" risks becoming another American failure."
+    },
+    {
+      "id": "5049274",
+      "time": "2026-08-20 15:29:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "廣期所品種倉單及變化如下：碳酸鋰期貨倉單39333手，環比上個交易日增加725手；多晶矽期貨倉單22830手，環比上個交易日增加250手；工業矽期貨倉單33535手，環比上個交易日增加24手。"
+    },
+    {
+      "id": "5049273",
+      "time": "2026-08-20 15:29:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【券商8月首次下調三星、SK海力士明年盈利預期】半導體高景氣預期迎來回撥8月，三星電子與SK海力士的下一年度盈利預期迎來首次下調。兩家企業股價已大幅下挫，市場正關注半導體板塊近期暴跌是否已經反映出未來盈利增速放緩的預期。據報道，金融資訊機構FnGuide統計超過三家券商的預測資料顯示，截至18日，三星電子2027年營業利潤預期為544.67萬億韓元。該預期在上月末曾衝高至549.913萬億韓元，本月出現首次回落。但進入8月市場風向發生轉變。三星電子與SK海力士此前一路走高的盈利預期戛然而止，部分機構開始下調預測數值。2028年盈利預期也出現相同走勢。三星電子2028年營業利潤預期7日為556萬億韓元，10天內回落12萬億韓元至544萬億韓元。同一時期，SK海力士預期從402萬億韓元下降3萬億韓元，至399萬億韓元。不過股市主流觀點認為，現階段還不能判定盈利正式進入下行週期。市場認為，只是此前急速抬升的盈利預期上漲節奏放緩，前期過度樂觀的預期出現部分修正。"
+    },
+    {
+      "id": "te:economy:576773",
+      "time": "2026-08-20 15:28:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Moldova Industrial Output Rises to 3-Month High — Industrial production in Moldova jumped 10.6% year-on-year in June 2026, accelerating from an upwardly revised 8.3% rise in the previous month. This marked the strongest gain since March, driven by higher output in the manufacturing industry (10.2% vs 7.7% in May), with notable increases in food products (18.4% vs 15.5%), textiles (40.1% vs 24.9%), leather and related products (41.7% vs 30.8%), wood and wood products (24.6% vs 11.0%), basic metals (30.6% vs -41.9%), computer, electronic, and optical products (36.2% vs -16.3%), electrical equipment (7.9% vs 6.7%), machinery and equipment (45.3% vs 26.1%), and furniture (59.5% vs -4.3%). Additionally, activity in the electricity, gas, steam, and air-conditioning supply sector increased at a faster pace (19.4% vs 11.0%). Meanwhile, mining production slowed (10.3% vs 22.4%). On a monthly basis, industrial output fell 0.9%, reversing a 1.9% rise in May. In the first half of the year, industrial production grew 7.9%."
+    },
+    {
+      "id": "5049272",
+      "time": "2026-08-20 15:27:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長表示，預計烏克蘭2026/27年度可出口玉米盈餘將不低於2000萬噸。"
+    },
+    {
+      "id": "5049271",
+      "time": "2026-08-20 15:27:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟買證券交易所股票回吐最高1.8%的漲幅。"
+    },
+    {
+      "id": "5049270",
+      "time": "2026-08-20 15:26:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產大模型掀漲價潮，“百模大戰”熄火？】8月17日0點起，DeepSeek-V4 API新定價正式生效。此輪調整實行分時定價，高峰時段輸出價格升至27元/百萬tokens，為此前價格的4.5倍；快取未命中價格升至9元/百萬tokens，為此前價格的3倍；快取命中價格則大幅上調至0.30元/百萬tokens，為此前價格的12倍。空閒時段價格則為高峰時段的一半。 漲價後，DeepSeek告別了曾經的“極致價效比”路線。有業內人士告訴記者，此前智譜的模型相對較貴，因為它能很好地解決coding問題；DeepSeek主打價效比，特別是很多24小時運作的智慧體，其消耗的token數量極其巨大，開發者往往會選擇DeepSeek模型。但DeepSeek漲價，並非孤例。過去數月，智譜、Kimi、MiniMax等國產大模型也相繼對部分API價格進行了上調。“這輪調價不是全行業統一漲價，而是獨立模型廠商領漲，自有算力的大廠按兵不動或變相調價。”致同諮詢交易支援服務合夥人梁偉告訴21世紀經濟報道記者，今年以來智譜、月之暗面、DeepSeek等獨立廠商相繼上調API定價，阿里、位元組、騰訊等大廠則按兵不動。（21財經）"
+    },
+    {
+      "id": "mkt:01a01e10-6ea6-7aab-90ac-6866259aa118",
+      "time": "2026-08-20 15:26:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bankers say the Turkish central bank has begun auctions to purchase domestic government securities."
+    },
+    {
+      "id": "5049269",
+      "time": "2026-08-20 15:26:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE SENSEX指數最新上漲0.8%。"
+    },
     {
       "id": "5049268",
       "time": "2026-08-20 15:25:25",
