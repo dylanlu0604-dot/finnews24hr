@@ -1,7 +1,179 @@
 {
   "date": "2026-08-20",
-  "count": 2577,
+  "count": 2596,
   "items": [
+    {
+      "id": "mkt:01a01f10-e04a-7aab-90b5-8079156b6ad3",
+      "time": "2026-08-20 20:06:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CoreWeave (CRWV.O): Hudson River Trading will use CoreWeave's platform to conduct AI research on NVIDIA Vera Rubin NVL72 and HGX B200 accelerators."
+    },
+    {
+      "id": "5050125",
+      "time": "2026-08-20 20:06:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴集團：隨著自研晶片取代AI資料中心外購商用晶片，集團毛利率和盈利水平將大幅提升。"
+    },
+    {
+      "id": "5050124",
+      "time": "2026-08-20 20:06:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave：哈德遜河交易公司將依託 CoreWeave，使用英偉達 Vera Rubin NVL72 與 HGX B200 開展人工智慧研究。"
+    },
+    {
+      "id": "mkt:01a01f10-8752-7aab-90b5-7e0858c5e0fd",
+      "time": "2026-08-20 20:06:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Ministry said Foreign Minister Lavrov will meet the Vatican's special envoy on Aug. 25."
+    },
+    {
+      "id": "5050123",
+      "time": "2026-08-20 20:05:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4510美元/盎司，日內跌0.79%。"
+    },
+    {
+      "id": "mkt:01a01f0f-f54e-7aab-90b5-75a66f1fcb8f",
+      "time": "2026-08-20 20:05:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bangladesh's parliament elected ruling party candidate Alamgir as president."
+    },
+    {
+      "id": "mkt:01a01f0f-adf9-7aab-90b5-68374bf0e8c8",
+      "time": "2026-08-20 20:05:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Stoxx Europe 600 extends decline to 0.4%, hits intraday low."
+    },
+    {
+      "id": "mkt:01a01f0f-6d94-7aab-90b5-652ddbaedb01",
+      "time": "2026-08-20 20:04:59",
+      "tags": [
+        "MKT News",
+        "03978.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Zhuoyue Education Group (03978.HK) reported H1 2026 revenue of CNY 1.048 bln, up 14.3% YoY; profit attributable to owners was CNY 170 mln, up 12.4% YoY."
+    },
+    {
+      "id": "5050122",
+      "time": "2026-08-20 20:04:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數跌幅擴大至0.4%，創盤中新低。"
+    },
+    {
+      "id": "5050121",
+      "time": "2026-08-20 20:04:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "卓越教育集團(03978.HK)公佈2026年中期業績，收入約10.48億元，同比增長14.3%；公司擁有人應占溢利約1.7億元，同比增長12.39%。"
+    },
+    {
+      "id": "5050120",
+      "time": "2026-08-20 20:04:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海好望角型船指數上漲 1.34%，報每日 36667 美元。"
+    },
+    {
+      "id": "5050119",
+      "time": "2026-08-20 20:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖農發展：2026年上半年營收107.81億元 淨利同比降44.80%】聖農發展公告稱，2026年上半年實現營業收入107.81億元，同比增長21.73%；歸屬於上市公司股東的淨利潤5.02億元，同比下降44.80%；扣非淨利潤5.24億元，同比增長39.46%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。報告期末普通股股東總數為34847戶，控股股東未發生變更。"
+    },
+    {
+      "id": "5050118",
+      "time": "2026-08-20 20:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Optimism 資助團隊的決定性投票，將 4900 萬枚 OP 代幣從使用者方轉出。"
+    },
+    {
+      "id": "5050117",
+      "time": "2026-08-20 20:04:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "上交所就南模生物有關事項下發監管工作函。"
+    },
+    {
+      "id": "mkt:01a01f0e-815e-7aab-90b5-5b48aec6b4ce",
+      "time": "2026-08-20 20:03:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. long-term bonds extended losses; 30-year Treasury yield rose 6bps to 5.25%."
+    },
+    {
+      "id": "5050116",
+      "time": "2026-08-20 20:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【優克聯旗下樂寵它推出寵物AI智慧體】8月19日，第二十八屆亞洲寵物展上，優克聯旗下人寵智聯品牌樂寵它宣佈，推出首個寵物AI智慧體，完成旗下AI養寵生態的全線升級。PetPhone寵物AI手機、PetCam寵物AI攝像頭，以及樂寵它APP，共同構成一套完整的“硬體+軟體+服務”閉環。"
+    },
+    {
+      "id": "5050115",
+      "time": "2026-08-20 20:03:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國長期債券擴大跌幅；30年期國債收益率上漲6個基點至5.25%。"
+    },
+    {
+      "id": "5050114",
+      "time": "2026-08-20 20:03:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奕境將採購上萬正品labubu當禮品】今日，針對近期“奕境X9釋出會送假Labubu”相關爭議，奕境汽車品牌總經理曾清林公開發文作出回應。 曾清林坦言，南昌門店送出仿版Labubu一事發生後，一邊處理問題一邊覆盤，心情十分沉重。 他解釋，門店剛開業接待量較大，本意是為到店使用者準備驚喜禮品，卻忽視智慧財產權相關紅線，好心辦了錯事。 他強調，原創IP應當得到敬畏，自己也認可Labubu的創作價值。 曾清林表示，問題表面是門店執行失誤，但根源不能簡單歸咎一線，訂單和熱度集中爆發後，企業禮品管控、風險稽核的管理體系沒能跟上業務增長節奏，才造成這次失誤。中臺建設存在短板，作為負責人，自己對此負有不可推卸的責任。 對於後續整改方案，曾清林表示將亡羊補牢，計劃申請採購一萬件正版Labubu，作為全國門店到店、試駕權益禮品。同時完善流程，今後門店所有對外發放的禮品周邊，都增加正版授權前置核驗機制，杜絕同類問題再次發生。（觀察者網）"
+    },
+    {
+      "id": "mkt:01a01f0d-7fd5-7aab-90b5-54f51e6a0e05",
+      "time": "2026-08-20 20:02:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces says Hamas is using Gaza hospitals for interrogations and torture."
+    },
     {
       "id": "5050112",
       "time": "2026-08-20 20:02:27",
