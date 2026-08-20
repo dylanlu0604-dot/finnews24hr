@@ -1,7 +1,165 @@
 {
-  "updated": "2026-08-20 09:24:19",
-  "count": 15648,
+  "updated": "2026-08-20 09:28:29",
+  "count": 15655,
   "items": [
+    {
+      "id": "mkt:01a01cc8-1fcd-7aab-90a5-9b995d3ea4ef",
+      "time": "2026-08-20 09:27:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Aili Home shares opened and remained locked at the daily down-limit; turnover exceeded 200 million yuan."
+    },
+    {
+      "id": "mkt:01a01cc8-0dd3-7aab-90a5-94b59c57a761",
+      "time": "2026-08-20 09:27:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open on Aug 20 (Thu), China’s Shanghai Composite Index rose 12.78 pts (+0.33%) to 3,907.21; Shenzhen Composite Index up 142.81 pts (+1.03%) to 14,032.97; CSI 300 Index up 24.60 pts (+0.54%) to 4,613.30; ChiNext Index up 44.16 pts (+1.27%) to 3,517.65; SSE STAR 50 Index up 17.96 pts (+1.08%) to 1,685.48."
+    },
+    {
+      "id": "5048834",
+      "time": "2026-08-20 09:27:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥、疫苗板塊大幅高開 沃森生物等多股漲停】早盤創新藥、疫苗板塊大幅高開，萊美藥業、沃森生物、康希諾、鍵凱科技、悅康藥業、雙鷺藥業、百克生物等一字漲停，智飛生物、石藥創新、康泰生物等漲超10%。"
+    },
+    {
+      "id": "5048833",
+      "time": "2026-08-20 09:27:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞豐光電：公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節 技術方向存在差異】瑞豐光電(300241)8月20日在互動平臺表示，公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節，技術方向存在差異：彩虹股份主營液晶顯示用基板玻璃，屬於面板上游材料端；公司的玻璃基業務屬於Mini/Micro LED顯示封裝環節，核心是在基板上完成LED封裝與光學整合。"
+    },
+    {
+      "id": "5048832",
+      "time": "2026-08-20 09:27:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉稱盧比匯率仍由市場決定。"
+    },
+    {
+      "id": "mkt:01a01cc7-08ff-7aab-90a5-8f3255bcca50",
+      "time": "2026-08-20 09:26:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Newly listed Lvkong Transmission opened up 370.59% on its first trading day; issue price was 8.5 yuan per share."
+    },
+    {
+      "id": "te:markets:576664",
+      "time": "2026-08-20 09:26:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Consolidates Near April Highs — US heating oil futures held above $4.40 per gallon, consolidating near their highest level since early April, on fading hopes of the reopening of the Strait of Hormuz. President Donald Trump unveiled a new package of measures, describing it as an unprecedented campaign targeting Iran’s economy. This came after Trump said no talks with Iran were taking place or planned, while asserting that the US naval blockade remained active and that the strait was open. Iran, however, countered that the waterway would remain closed until the US fulfilled its prior conditions. The lack of resolution heightened expectations of prolonged supply disruptions from the region. Tanker flows remained subdued, with limited vessels still passing through the strategic route as shipowners stayed cautious. Meanwhile, EIA data showed that distillate stockpiles, which include diesel and heating oil, fell by 1.53 million barrels in the week ended August 14."
+    },
+    {
+      "id": "5048831",
+      "time": "2026-08-20 09:26:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "C宇樹開跌6.51%，股價報790元，昨日收漲460%。"
+    },
+    {
+      "id": "mkt:01a01cc6-922f-7aab-90a5-800df9298cea",
+      "time": "2026-08-20 09:26:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "C Yushu opened down 6.51% at 790 yuan; it had closed up 460% yesterday."
+    },
+    {
+      "id": "mkt:01a01cc6-4a22-7aab-90a5-7aef309d1152",
+      "time": "2026-08-20 09:25:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "AI Revolution",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Mizuho: Japan trade deficit may persist short term】Mizuho economist Yasuhisa Irie said persistently high energy prices are keeping import costs elevated and could sustain Japan’s trade deficit in the near term. He added that until shipping via the Strait of Hormuz fully normalizes, import prices will remain high, and even if Middle East tensions ease a rebound in import volumes could raise import values faster than export gains from strong AI-related investment. Japan ran a ¥634.5 billion trade deficit in July, government data showed Thursday."
+    },
+    {
+      "id": "5048830",
+      "time": "2026-08-20 09:25:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【綠控傳動上市首日開盤大漲超370%】綠控傳動上市首日開盤漲370.59%，現報40元，該股發行價為8.5元。按開盤價計算，投資者中一簽（500股）浮盈約1.57萬元。蘇州綠控傳動科技股份有限公司的主營業務是新能源商用車電驅動系統的研發、生產和銷售。"
+    },
+    {
+      "id": "5048829",
+      "time": "2026-08-20 09:25:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長馬爾霍特拉稱該行的美元淨空頭頭寸“可控”。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202608203847197949",
+      "time": "2026-08-20 09:25:32",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長警告：歐洲不應再錯過“人工智慧革命”】歐洲央行行長拉加德當地時間19日表示，歐洲不能在人工智慧領域繼續落後，不應重蹈錯過上一輪“數字革命”的覆轍。"
+    },
+    {
+      "id": "mkt:01a01cc5-ee57-7aab-90a5-72ba62386efa",
+      "time": "2026-08-20 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "XAUUSD"
+      ],
+      "text": "China A-shares opened higher: Shanghai Composite +0.33%, Shenzhen Composite Index +1.03%, ChiNext Index +1.27%; innovative drug and gold sectors led gains."
+    },
+    {
+      "id": "5048828",
+      "time": "2026-08-20 09:25:11",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.33％，深成指漲1.03％，創業板漲1.27％。"
+    },
+    {
+      "id": "5048827",
+      "time": "2026-08-20 09:24:33",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行行長警告：歐洲不應再錯過“人工智慧革命”】歐洲央行行長拉加德當地時間19日表示，歐洲不能在人工智慧領域繼續落後，不應重蹈錯過上一輪“數字革命”的覆轍。拉加德當天在世界經濟論壇的一場活動上指出，歐洲企業正在加大人工智慧投資，但美國和中國仍處於領先地位。她同時指出，歐盟市場存在“碎片化”問題，企業在融資、競爭以及擴大規模方面面臨困難，導致能夠成長為全球性企業的公司數量較少，新技術在經濟中的普及速度也較慢。拉加德還警告稱，隨著國際環境的變化，歐洲戰後經濟增長模式正面臨越來越大的挑戰。"
+    },
     {
       "id": "5048826",
       "time": "2026-08-20 09:23:40",
@@ -143444,89 +143602,6 @@
         "其他"
       ],
       "text": "【世衛組織：剛果（金）疫情已成有記錄以來第二大埃博拉疫情】世衛組織總幹事譚德塞12日表示，本輪剛果（金）埃博拉疫情已成為有記錄以來第二大的埃博拉疫情，其蔓延速度也超過了以往任何一次埃博拉疫情。據世衛組織通報資料，此次埃博拉疫情確診病例已達4449例，死亡2061例，疫情遍及五個省份和53個衛生區。世衛組織正與合作伙伴梳理整合資源，以加強社群監測，確保所有疑似病例都能得到治療，並達到95%的接觸者追蹤目標，從而阻斷病毒傳播。"
-    },
-    {
-      "id": "mkt:019ff8bb-b6d1-7aab-9016-02c3c95f154b",
-      "time": "2026-08-13 09:27:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources say ANTHROPIC will pay $6 bln to acquire AI startup DeCart."
-    },
-    {
-      "id": "mkt:019ff8bb-b070-7aab-9015-fa3559e41e23",
-      "time": "2026-08-13 09:27:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China A-share telecom equipment sector opened higher; Quectel Wireless Solutions hit the daily limit, Tongding Interconnect neared limit-up, and Fibocom, Star-Net Ruijie and Yongding opened sharply higher."
-    },
-    {
-      "id": "5038380",
-      "time": "2026-08-13 09:27:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【通訊裝置板塊高開，移遠通訊漲停】 通訊裝置板塊高開，移遠通訊漲停，通鼎互聯逼近漲停，廣和通、星網銳捷、永鼎股份紛紛高開。"
-    },
-    {
-      "id": "5038379",
-      "time": "2026-08-13 09:27:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念繼續活躍 城地香江3連板】早盤算力租賃概念繼續活躍，城地香江3連板，群興玩具一字漲停，中鼎股份、行雲科技、宏景科技、鴻博股份漲幅靠前。"
-    },
-    {
-      "id": "5038378",
-      "time": "2026-08-13 09:26:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic洽談以60億美元收購人工智慧初創公司Decart】\n 據知情人士透露，Anthropic正在洽談以約 60 億美元收購人工智慧初創公司 Decart AI。一些知情人士表示，該交易尚未最終敲定，談判可能會破裂。Decart與人工智慧開發者合作，幫助他們最大限度地發揮各種晶片的效能。該公司還專注於生成式影片，利用所謂的“世界模型”即時修改實時影片流。"
-    },
-    {
-      "id": "5038377",
-      "time": "2026-08-13 09:25:27",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.27％，深成指漲0.85％，創業板漲1.52％。"
-    },
-    {
-      "id": "mkt:019ff8b9-54fe-7aab-9015-f3bcc86af5b8",
-      "time": "2026-08-13 09:25:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "At the open, China's A-share market rose: Shanghai Composite +0.27%, Shenzhen Composite Index +0.85%, ChiNext Index +1.52%."
-    },
-    {
-      "id": "5038376",
-      "time": "2026-08-13 09:25:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropico據悉正在洽談以60億美元收購人工智慧初創公司DeCart。"
-    },
-    {
-      "id": "5038375",
-      "time": "2026-08-13 09:24:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "MSCI表示，將有55只證券被納入MSCI ACWI全球指數。"
     }
   ]
 }
