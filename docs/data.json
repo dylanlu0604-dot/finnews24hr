@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-20 12:45:51",
-  "count": 15666,
+  "updated": "2026-08-20 12:49:45",
+  "count": 15662,
   "items": [
+    {
+      "id": "mkt:01a01d80-4a6d-7aab-90a8-a2d3e59c1ef7",
+      "time": "2026-08-20 12:49:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai to implement 'trade-in' mortgage subsidy】Shanghai will launch a 'trade-in' home-purchase mortgage subsidy effective Aug. 21, 2026, through Mar. 31, 2027. Residents who buy a newly built commodity home located outside the city’s Outer Ring Road and complete contract online registration, and who sell a Shanghai second‑hand home within one year before or after that registration, may apply to the district real estate transaction center for the subsidy. The subsidy equals 1% of the new-purchase mortgage amount, capped at 50,000 yuan per unit. The program is funded at 200 mln yuan total and will operate until funds are exhausted."
+    },
+    {
+      "id": "te:economy:576718",
+      "time": "2026-08-20 12:48:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Dutch Jobless Rate Rises to 4% — The Netherlands’ seasonally adjusted unemployment rate rose to 4.0% in July 2026 from 3.8% in June, marking the highest level in four months. The number of unemployed people increased by 11 thousand from a month ago to 404 thousand, while 3.2 million people were outside the labor force, mainly consisting of retirees and individuals unable to work due to illness or disability. Unemployment increased primarily among men, rising from 3.8% to 4.0%, while the rate among women fell from 4.0% to 3.9%. Over the past three months, unemployment increased by an average of 2 thousand per month as the inflow into unemployment exceeded the outflow. At the end of July, the number of ongoing unemployment benefits stood at 200 thousand. Meanwhile, employment decreased by 10 thousand to 9.821 million, while the labor force remained unchanged at 10.225 million. The gross labor force participation rate held at 76.0%, while the net participation rate edged down to 73.0% from 73.1%."
+    },
+    {
+      "id": "5049056",
+      "time": "2026-08-20 12:48:24",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【上海：最佳化房地產政策措施】8月20日，上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。《通知》明確最佳化二套房貸首付款比例。對購買外環外（包括原實施差異化政策區域）住房的，二套住房商業性個人住房貸款最低首付款比例從“不低於20%”調整為“不低於15%”。"
+    },
+    {
+      "id": "mkt:01a01d7f-adb8-7aab-90a8-9a2b19be77b5",
+      "time": "2026-08-20 12:48:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai eases second‑home down‑payment to 15% outside Outer Ring Road】Six Shanghai agencies, including the municipal housing and urban‑rural development commission, municipal finance bureau, PBOC Shanghai branch, Shanghai financial regulator and the municipal housing provident fund center, issued a notice on Aug 20 effective Aug 21, 2026, to optimize local property measures. The notice lowers the minimum down payment for second‑home commercial individual housing loans for purchases outside the Outer Ring Road (including areas previously under differential policies) from not less than 20% to not less than 15%."
+    },
+    {
+      "id": "mkt:01a01d7f-4a52-7aab-90a8-91a381476b6d",
+      "time": "2026-08-20 12:47:56",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Polish military says it has ended military aviation operations and did not violate airspace."
+    },
+    {
+      "id": "5049055",
+      "time": "2026-08-20 12:47:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭武裝部隊在社交平臺X上表示：波軍已結束軍用航空飛行行動，並未發生領空侵犯事件。"
+    },
+    {
+      "id": "5049054",
+      "time": "2026-08-20 12:46:00",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通警告：全球糧食危機或明年爆發 化肥供應缺乏緩衝】摩根大通（JPMorgan Chase）最新警告，全球化肥供應中斷與超強厄爾尼諾的風險正在疊加，全球食品價格可能在2027年上半年上漲5%。能源領域尚有戰略石油儲備可以緩衝衝擊，化肥供應沒有類似的後備方案。一旦錯過施肥期，即使供應隨後恢復，農作物減產也難以挽回。摩根大通在題為《糧食安全就是國家安全：多重風險疊加》的報告中指出，美國目前的食品通脹率為3%，已經給家庭開支帶來不小壓力。美國並非糧食安全風險最高的國家，但是進口依賴仍會將漲價壓力傳導至國內。美國消費的咖啡、可可和糖等商品主要依賴進口，其主要供應國可能受到直接衝擊。"
+    },
     {
       "id": "5049053",
       "time": "2026-08-20 12:43:15",
@@ -143654,115 +143732,6 @@
         "市場"
       ],
       "text": "【機構：第二季度全球OLED顯示器出貨季增26.1%】根據TrendForce集邦諮詢最新調查，2026年第二季全球OLED顯示器市場展現強勁的成長韌性。在各大品牌廠商陸續推出新機種、帶動整體出貨量的同時，適逢“618”年度大型電商節慶促銷檔期的拉貨效益加持，加上市場主力27英寸QHD規格機種持續滲透與積極推廣，整體產業鏈動能全面升溫。這波多重利好的疊加，推升第二季OLED顯示器出貨量季增26.1%，與2025年同期相比，年增率更高達98%，幾乎實現翻倍成長，反映出OLED顯示技術在電競與高階顯示市場的滲透率正在快速擴大。（介面新聞）"
-    },
-    {
-      "id": "mkt:019ff973-c003-7aab-9018-9dec497b324f",
-      "time": "2026-08-13 12:49:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY fell nearly 30 pips intraday to 159.36 after reports the Bank of Japan may raise rates in September or October."
-    },
-    {
-      "id": "em:qqyh_rbyh:202608133840275751",
-      "time": "2026-08-13 12:48:19",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行據悉可能在9月或10月加息】8月13日，據報道，日本首相高市早苗的政府支援日本央行在近期內升息，下一步升息的時間可能在9月或10月。日本央行擔心日元疲軟會推高物價，政府則希望強化近期美日聯手干預匯市的影響，這使得雙方在近期升息的必要性上達成了一致。"
-    },
-    {
-      "id": "mkt:019ff973-053d-7aab-9018-94495a5f974c",
-      "time": "2026-08-13 12:48:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Market sources say the Bank of Japan may raise interest rates in September or October."
-    },
-    {
-      "id": "5038613",
-      "time": "2026-08-13 12:48:09",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日本政府據悉支援日本央行加快加息步伐】據知情人士透露，日本首相高市早苗領導的政府支援日本央行近期加息，下次加息行動大機率落在 9 月或 10 月。知情人士補充稱，央行擔憂日元走弱推高物價，而政府希望強化近期美日貨幣干預的效果，雙方就此達成共識，認為有必要在短期內加息。日本央行在貨幣政策上享有法定獨立權，但也需要就經濟政策目標與政府保持密切溝通。高市早苗內閣無法強迫日本央行設定具體利率，但可以釋放訊號，進而影響央行決策。首相辦公室在郵件宣告中表示，“我們認為，包括加息在內的具體貨幣政策措施，應交由日本央行決定”。宣告同時提到，央行應與政府緊密協作，以 “穩定方式” 實現 2% 的通脹目標。日本央行對此不予置評。"
-    },
-    {
-      "id": "mkt:019ff972-b6da-7aab-9018-8c494df7e506",
-      "time": "2026-08-13 12:47:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Market sources: Japanese Prime Minister TAKAICHI is reported to support faster rate hikes by the Bank of Japan."
-    },
-    {
-      "id": "5038612",
-      "time": "2026-08-13 12:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織說剛果（金）埃博拉疫情傳播之快前所未有】世界衛生組織總幹事譚德塞12日說，剛果（金）本輪埃博拉疫情傳播速度之快前所未有，可能成為全球有記錄以來規模最大的埃博拉疫情。 “這已是有記錄以來第二大埃博拉疫情，傳播速度超過以往任何一次。”譚德塞當天在日內瓦舉行的例行記者會上說，“按照目前的發展速度，其規模可能超過2014年至2016年的西非埃博拉疫情。” 譚德塞說，剛果（金）已累計報告埃博拉確診病例4449例，死亡2061例，防控工作一直處於被動追趕狀態。最令人擔憂的是，較高比例的死亡病例出現在社群，既不在治療中心內，也不在密切接觸者名單中，這表明存在尚未被發現的傳播鏈條。只有摸清並切斷所有傳播鏈，疫情才能得到遏制。 世衛組織官員阿卜迪拉赫曼·馬哈茂德說，眼下疫情仍未達到峰值，如果加強監測、完善護理、落實安全安葬等防控措施能夠在各傳播區同步推進，疫情形勢有望在3個月內出現轉折。 世衛組織網站資料顯示，2014年至2016年的西非埃博拉疫情是1976年埃博拉病毒被發現以來規模最大的一次，累計報告病例超過2.86萬例，約1.13萬人死亡。(新華社)"
-    },
-    {
-      "id": "mkt:019ff972-1dff-7aab-9018-83cec3433470",
-      "time": "2026-08-13 12:47:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax cited local officials as saying drones struck an industrial area in Russia's Republic of Bashkortostan."
-    },
-    {
-      "id": "5038611",
-      "time": "2026-08-13 12:46:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元短線快速拉昇。"
-    },
-    {
-      "id": "5038610",
-      "time": "2026-08-13 12:46:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄新社引述當地官員訊息：無人機襲擊俄羅斯巴什科爾託斯坦共和國一處工業區。"
-    },
-    {
-      "id": "5038609",
-      "time": "2026-08-13 12:46:08",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "高市政府據悉支援日本央行加快升息步伐。"
-    },
-    {
-      "id": "5038608",
-      "time": "2026-08-13 12:45:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據稱日本央行可能在9月或10月加息。"
     }
   ]
 }
