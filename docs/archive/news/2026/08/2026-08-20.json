@@ -1,7 +1,165 @@
 {
   "date": "2026-08-20",
-  "count": 2320,
+  "count": 2337,
   "items": [
+    {
+      "id": "mkt:01a01ed4-5114-7aab-90b3-3f259f1c5c71",
+      "time": "2026-08-20 19:00:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources: Meta Platforms (META.O) is investing several hundred million dollars in Microsoft's Azure AI services."
+    },
+    {
+      "id": "5049942",
+      "time": "2026-08-20 19:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta已悄然成為微軟最大的人工智慧客戶之一。"
+    },
+    {
+      "id": "5049941",
+      "time": "2026-08-20 19:00:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "譯捷豹路虎北美有限公司提交召回申請，涉及14輛美國車輛。"
+    },
+    {
+      "id": "5049940",
+      "time": "2026-08-20 18:59:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普路通：2026年半年度淨利潤1617.42萬元，同比減少51.46%】普路通公告，2026年半年度營業收入7367.46萬元，同比下降81.01%。歸屬於上市公司股東的淨利潤1617.42萬元，同比減少51.46%；扣非淨利潤1465.78萬元，同比減少52.54%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5049939",
+      "time": "2026-08-20 18:59:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國AI初創企業Callosum融資1億美元 與Cerebras建立合作以挑戰英偉達】英國AI初創公司Callosum週四宣佈完成1億美元種子輪融資，投資方包括今年4月成立的英國主權AI基金。公司致力於開發最佳化軟硬體協同的晶片系統，該產品透過將特定的AI任務精準分配給最適合的模型和晶片，從而降低AI算力成本。Callosum還宣佈與AI晶片企業Cerebras建立合作伙伴關係以挑戰英偉達。"
+    },
+    {
+      "id": "5049938",
+      "time": "2026-08-20 18:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車向美國國家公路交通安全管理局提交了召回6萬輛汽車的申請。"
+    },
+    {
+      "id": "mkt:01a01ed3-6775-7aab-90b3-320afebb324d",
+      "time": "2026-08-20 18:59:26",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "Ford Motor Co. (F.N) filed an application with the U.S. National Highway Traffic Safety Administration (NHTSA) to recall 60,000 vehicles."
+    },
+    {
+      "id": "mkt:01a01ed2-cec6-7aab-90b3-2a2bff9e9821",
+      "time": "2026-08-20 18:58:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "UBS raises Moderna (MRNA.O) target price to $150 from $50."
+    },
+    {
+      "id": "5049937",
+      "time": "2026-08-20 18:58:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑美特：多名股東及董監高擬合計減持不超1.0951%股份】傑美特公告稱，持股5%以上股東黃新、董事張玉輝、董事會秘書周波及達晨創泰、達晨創恆、達晨創瑞擬於減持計劃公告之日起15個交易日之後三個月內，以集中競價或大宗交易方式合計減持公司股份不超過138.8萬股，佔剔除回購專用賬戶股份後總股本的1.0951%。其中黃新擬減持125.9萬股，佔比0.9926%；張玉輝擬減持7萬股，佔比0.0556%；周波擬減持5.75萬股，佔比0.0457%；三家達晨系企業各擬減持500股。減持股份均為公司首次公開發行前取得的股份，減持原因為個人資金規劃、經營發展需要。"
+    },
+    {
+      "id": "5049936",
+      "time": "2026-08-20 18:58:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆平高科戰略控股晶華種業】據隆平高科訊息，8月19日，經隆平高科董事會審議透過，公司與新疆晶華種業有限公司（簡稱“晶華種業”）簽署的股權轉讓及增資協議正式生效。交易完成後，隆平高科將持有晶華種業51%股權。雙方棉花種業優勢高度互補，戰略控股晶華種業後，隆平高科棉種年推廣面積突破500萬畝，躋身國內棉花種業行業第一。"
+    },
+    {
+      "id": "mkt:01a01ed2-78a7-7aab-90b3-262395b4c780",
+      "time": "2026-08-20 18:58:24",
+      "tags": [
+        "MKT News",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "UBS raises MARVELL (MRVL.O) target price to $310 from $300."
+    },
+    {
+      "id": "5049935",
+      "time": "2026-08-20 18:57:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兆馳股份：首次回購公司股份366.25萬股，支付2976.62萬元】兆馳股份公告，公司此前審議透過回購公司股份用於維護公司價值及股東權益，回購資金總額不低於3億元且不超過5億元，回購價格上限為13.99元/股。2026年8月19日，公司首次透過回購專用證券賬戶以集中競價交易方式回購公司股份366.25萬股，佔公司總股本的0.08%，最高成交價8.17元/股，最低成交價8.09元/股，支付總金額2976.62萬元（不含交易費用）。"
+    },
+    {
+      "id": "5049934",
+      "time": "2026-08-20 18:57:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "煌上煌：上半年歸母淨利潤8625.93萬元，同比增長12.14%。"
+    },
+    {
+      "id": "te:markets:576842",
+      "time": "2026-08-20 18:57:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Swiss Franc Strengthens to Two-Month High — The Swiss franc strengthened to around $0.798, its highest level in two months, amid shifting foreign exchange dynamics. The US Treasury announced plans to increase its bond buyback operations to help contain borrowing costs, which had risen to multi-month highs, weighing on demand for the US dollar and supporting the franc. Meanwhile, a potential shift in short positions from the yen toward the Swiss franc could provide an offsetting pressure, as traders move short positions in the yen into other relatively weaker safe-haven currencies amid recent US-Japanese efforts to strengthen the yen. The SNB kept its policy rate at 0% and is expected to remain unchanged throughout 2027, while reiterating its preference for foreign exchange intervention to prevent excessive franc appreciation. Most economists expect the first rate hike in early 2028, while markets are pricing in one as early as March 2027, potentially making the currency more attractive as a funding currency for carry trades."
+    },
+    {
+      "id": "mkt:01a01ed1-d04a-7aab-90b3-181ed73d640b",
+      "time": "2026-08-20 18:57:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley: Gold may exceed $5,000/oz by 2027】Morgan Stanley says gold could top $5,000/oz in 2027 or sooner after breaking $4,450/oz. The bank cites improving macro conditions that are boosting gold ETF inflows as Fed rate‑hike expectations fade and the dollar weakens, plus strong central‑bank buying and firmer physical demand. Gold’s resilience despite elevated long‑term yields points to growing investor concern about fiscal risks, including high government debt and potential currency debasement. Morgan Stanley expects the Fed to keep policy rates unchanged through 2026 but warns upcoming US inflation prints and Fed officials’ remarks could heighten market volatility."
+    },
+    {
+      "id": "5049933",
+      "time": "2026-08-20 18:57:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘇寧易購出海戰略落子中亞】8月20日至22日，中亞進出口博覽會暨2026江蘇進出口商品展覽會在哈薩克阿拉木圖舉辦。展會首日，蘇寧易購與蘇豪控股集團正式簽署《中亞江蘇中心入駐合作協議》，達成深度戰略合作。雙方立足共建“一帶一路”經貿合作機遇，以中亞江蘇中心為平臺載體，聚焦家電及3C產業出海開展深度合作，共建中亞本地化經營體系，整合平臺與供應鏈資源，落地內外貿一體化合作方案，攜手深耕中亞市場、共享區域發展機遇。（新浪科技）"
+    },
+    {
+      "id": "te:markets:576841",
+      "time": "2026-08-20 18:56:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Approaches $94 — Brent crude climbed more than 2% to around $93.80 a barrel on Thursday, reaching its highest level since July 24, after President Donald Trump announced a sweeping package of economic measures targeting Iran. The proposed restrictions are aimed at cutting Tehran off from international financial and commercial channels, including activities involving banks, businesses, shipping registries, cash transfers and smuggling networks. Washington is seeking to intensify economic pressure on Iran and push it toward negotiations over the conflict, its nuclear programme and control of the Strait of Hormuz. The US is maintaining a blockade of Iranian ports, although crude from other Gulf producers continues to move through the strategic waterway despite heightened risks to shipping. Trump said significant volumes of oil were still passing through Hormuz. The measures came a day after the UAE suspended economic ties with Iran following accusations that Tehran had launched missiles at its territory."
+    },
     {
       "id": "5049932",
       "time": "2026-08-20 18:56:16",
