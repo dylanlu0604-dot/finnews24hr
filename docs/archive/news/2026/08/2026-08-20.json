@@ -1,7 +1,37 @@
 {
   "date": "2026-08-20",
-  "count": 2887,
+  "count": 2890,
   "items": [
+    {
+      "id": "5050307",
+      "time": "2026-08-20 21:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億緯鋰能：目前儲能訂單充足 在手訂單已超過現有產能】億緯鋰能近日在電話會議中表示，公司目前儲能訂單充足，在手訂單已超過現有產能，預計明年儲能出貨量將大幅增長，增速主要取決於產能釋放節奏。區域方面，今年海外佔比也會提升，主要受益於海外國際客戶放量。公司儲能板塊的增長主要集中在電力儲能、構網型儲能以及AIDC等新興領域。"
+    },
+    {
+      "id": "mkt:01a01f51-7806-7aab-90b8-69602558a57d",
+      "time": "2026-08-20 21:17:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "300014.SZ",
+        "Impact bullish"
+      ],
+      "text": "【EVE Energy: energy-storage backlog exceeds current capacity; shipments set to rise next year】EVE Energy said on a conference call its on‑hand energy-storage orders already exceed current production capacity. The company expects storage shipments to increase sharply next year, with the pace of growth contingent on capacity ramp‑up timing. The overseas share of sales will rise this year as international customers scale up. Growth is concentrated in power-storage, grid-networking storage and AIDC and other emerging segments."
+    },
+    {
+      "id": "mkt:01a01f51-36c2-7aab-90b8-65cd35f99e4d",
+      "time": "2026-08-20 21:16:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Morgan Stanley: AI job-displacement effect still limited but rising】Morgan Stanley economists say AI-driven job displacement in the US remains limited but is becoming more pronounced. As of June 2026, AI replacement could increase the US unemployment rate by up to about 15 bps, versus 10 bps in December 2025. Signs of replacement are strongest among younger workers."
+    },
     {
       "id": "5050306",
       "time": "2026-08-20 21:14:24",
