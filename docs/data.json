@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-20 19:55:30",
-  "count": 15908,
+  "updated": "2026-08-20 19:59:22",
+  "count": 15912,
   "items": [
+    {
+      "id": "mkt:01a01f09-edf0-7aab-90b5-0ebf114b4b07",
+      "time": "2026-08-20 19:58:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Ben-Gurion Airport will remain open and operate normally. He warned anyone who attempts to obstruct the arrangement will be sent packing."
+    },
+    {
+      "id": "mkt:01a01f09-b655-7aab-90b5-07ed18710456",
+      "time": "2026-08-20 19:58:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tel Aviv Ben‑Gurion Airport staff action triggers major operational disruption】On the 20th Tel Aviv’s Ben‑Gurion Airport reported severe operational disruption after some staff staged strike-like actions. Check‑in and baggage‑handling systems were halted; stands were near capacity though aircraft could still land. One inbound flight to Ben‑Gurion returned to France. Airport operators declared a “crisis event,” warned the airport could be forced to close if the situation is not reversed, ordered staff to stop the actions and said they would seek emergency intervention from the labour court if they continue. The day was expected to handle more than 610 flight movements and about 107,000 passengers. The transport workers’ union affiliated with the Israeli General Federation of Labor denied a sudden strike and said it had not ordered a work stoppage."
+    },
+    {
+      "id": "mkt:01a01f08-0588-7aab-90b4-fa82b3453fd6",
+      "time": "2026-08-20 19:56:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【AMAC: July new private fund filings 2,601; new capital 122.18 bln yuan — private securities 1,763 filings, 72.81 bln yuan】The Asset Management Association of China (AMAC) said July 2026 saw 2,601 newly filed private funds totaling 122.175 bln yuan. New filings comprised 1,763 private securities investment funds amounting to 72.809 bln yuan; 152 private equity funds amounting to 18.848 bln yuan; and 686 venture capital funds amounting to 30.519 bln yuan. At end-July 2026 there were 144,727 active private funds with aggregate assets of 25.73 tln yuan: 83,992 private securities funds with 9.10 tln yuan; 29,662 private equity funds with 11.93 tln yuan; and 30,423 venture capital funds with 4.45 tln yuan."
+    },
+    {
+      "id": "5050098",
+      "time": "2026-08-20 19:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【許繼電氣：在電力電子業務領域將重點拓展構網型儲能變流器、固態變壓器產品】許繼電氣8月20日在分析師會議上表示，公司在電力電子業務領域，還將重點拓展構網型儲能變流器、固態變壓器產品，其中構網儲能變流器產品2024年透過中國電工技術協會鑑定，已在國內多個專案中應用，覆蓋大規模儲能、離網制氫、微電網、新能源併網支撐等多個場景；固態變壓器產品研製面向市場主流電壓等級和容量，已完成固態變壓器總體方案設計、主迴路拓撲選型與設計、控制系統設計等基礎性研究工作，正在推進整機裝配與除錯工作。"
+    },
+    {
+      "id": "5050097",
+      "time": "2026-08-20 19:56:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黔源電力：擬開展新一代水電機組關鍵技術研究及示範工作】黔源電力(002039)8月20日公告，公司擬投資開展“基於新型電力系統的新一代水電機組關鍵技術研究及示範”專案，專案實施地點為北盤江、三岔河、芙蓉江。專案計劃總投資9505萬元，2026年計劃投資830萬元。該專案突破了傳統單站、單機、單一部件改造的侷限，開創性地構建了“流域級對標評估+數字化逆向診斷+系統性協同提升”的新一代水電機組新正規化。填補了國內在存量水電機組群“健康畫像”構建及全科診斷技術領域的空白，達到行業領先水平。"
+    },
+    {
+      "id": "5050096",
+      "time": "2026-08-20 19:56:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【每名美國人揹負約11.6萬美元政府債務】美國財政部公佈的最新資料顯示，美國聯邦政府債務已突破40萬億美元。美國媒體認為，對於財政基礎脆弱的美國而言，政府債務總額突破40萬億美元是一個“不祥的里程碑”。資料顯示，截至18日，美國聯邦政府未償還公共債務總額為40.05萬億美元。這一數字比去年同期增加了2.9萬億美元，增長了7.8%；比去年美國國內生產總值（GDP）還多出近10萬億美元，意味著每名美國人揹負約11.6萬美元債務。（央視財經）"
+    },
+    {
+      "id": "5050095",
+      "time": "2026-08-20 19:55:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【光伏技術助力烏蘭巴托蒙古包區改善生態與民生】作為蒙古國首都典型的蒙古包片區，青格爾泰區住戶居住分散、無集中供暖管網，長期依賴原煤露天燃燒取暖。為探索蒙古包區清潔能源轉型新模式，2024年聯合國開發計劃署駐蒙古國代表處開展了試點，為69戶烏蘭巴托市蒙古包區住戶提供配備電池儲能和熱儲存電加熱器的太陽能光伏系統，該系統還整合了人工智慧驅動模組，用於監測碳減排並轉化為碳信用。在此基礎上，2025年9月，由中國創設的全球發展和南南合作基金支援的“利用太陽能光伏系統改造烏蘭巴托蒙古包區”專案在烏蘭巴托青格爾泰區實施，計劃覆蓋500戶家庭以實現清潔能源轉型。（新華社）"
+    },
+    {
+      "id": "5050094",
+      "time": "2026-08-20 19:55:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【南華期貨：8月20日回購8萬股H股股份】南華期貨公告稱，公司於2026年8月20日透過香港聯交所回購8萬股H股股份，每股回購價區間為6.32港元至6.43港元，合計付出50.94萬港元，所回購股份擬持作庫存股份。本次回購後，公司已發行股份（不含庫存股）為15522.76萬股，庫存股份為87.8萬股，已發行股份總數為15610.56萬股。"
+    },
     {
       "id": "5050093",
       "time": "2026-08-20 19:53:31",
@@ -145643,38 +145711,6 @@
         "Importance 2"
       ],
       "text": "US Futures Trade in Tight Range — US equity futures were muted ahead of key price data, while major AI companies held their strong momentum from recent sessions. The S&P 500 inched up to a record, while the Nasdaq 100 and the Dow were close to the flatline. Chip stocks and companies with exposure to AI infrastructure held their strong gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and its recent purchase of Decart AI continued to underpin the outlook for compute expenditures. Micron, Nvidia, and Amazon were higher. Meanwhile, producer prices are expected to rebound after June's lower reading, although a soft increase could consolidate the case for a rate hold by the Fed next month after the release tame consumer inflation."
-    },
-    {
-      "id": "5039445",
-      "time": "2026-08-13 19:58:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "氣象預報員表示，夏季降水短缺給烏克蘭冬作物播種造成了不利條件。"
-    },
-    {
-      "id": "5039444",
-      "time": "2026-08-13 19:58:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔汽車乘用車部門高管：我們未參與燃油汙染資料採集工作，目前也沒有開展這項工作的動因。"
-    },
-    {
-      "id": "5039443",
-      "time": "2026-08-13 19:56:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利銅礦公司安託法加斯塔：預計下半年原材料價格環境將更加溫和。"
-    },
-    {
-      "id": "5039442",
-      "time": "2026-08-13 19:55:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄副外長：美方未向俄方轉達烏方終戰新提議】俄羅斯外交部副部長里亞布科夫13日說，俄方不清楚烏克蘭總統澤連斯基就結束俄烏衝突向美方提出的相關建議，美方沒有透過外交渠道向俄方轉達任何資訊。澤連斯基日前表示，烏方已就一份旨在結束俄烏衝突的方案向美方提交一些新提議。里亞布科夫13日被媒體記者問及美方是否向俄方轉達相關提議時，以“沒有”作答。此外，針對美國總統特朗普的特使威特科夫、女婿庫什納訪俄一事，里亞布科夫說，在俄方更清楚地瞭解他們的實際計劃後，將迅速安排有關訪問。據俄羅斯媒體此前披露，威特科夫和庫什納將於近日訪問俄羅斯和烏克蘭。里亞布科夫曾於7月6日表示，儘管美國越來越背離俄美在烏克蘭問題上達成的協議，但俄方不會中斷同美方在該問題上的接觸，威特科夫和庫什納訪俄計劃已提上日程。美國和以色列今年2月底對伊朗發起大規模軍事行動以來，俄烏談判基本陷入停滯。威特科夫最近一次訪問俄羅斯還是在今年1月。據烏克蘭《基輔郵報》報道，特朗普開始第二個任期以來，威特科夫作為總統特使訪俄至少8次，庫什納參與其中一次。兩人在美國邁阿密等地與烏方特使有過多次會談，也曾與澤連斯基見面，但未訪問過烏克蘭。（新華社）"
     }
   ]
 }
