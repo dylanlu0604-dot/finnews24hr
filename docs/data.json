@@ -1,7 +1,220 @@
 {
-  "updated": "2026-08-20 19:04:40",
-  "count": 15832,
+  "updated": "2026-08-20 19:08:30",
+  "count": 15850,
   "items": [
+    {
+      "id": "te:markets:576848",
+      "time": "2026-08-20 19:07:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Aluminum Eases from 8-Week High — Aluminum futures in the UK fell to $3,200 per tonne from the eight-week high of $3,360 on August 11th, as higher supply from China offset the disruption from the war in the Middle East. Exports of aluminum from China, the world's top producer, surged by 18.7% in the year to July. The country has stepped up exports as muted demand allowed producers to ship metal despite Beijing's output cap of 45 million tons, easing shortages from the Middle East due to the war in Iran. The Alunorte plant in Brazil, the world's largest alumina plant outside of China, was forced to cut operations to half capacity amid the lack of natural gas from its supplier. This added to detriment to its client Norsk Hydro, which already declared two force majeures on aluminum sales after its joint Qatari venture Qatalum plant was forced to shut off production on natural gas shortages. LNG supply from the Middle East, essential for aluminum refining, has been scarce due to tanker blockades from the US and Iran."
+    },
+    {
+      "id": "mkt:01a01eda-f2ca-7aab-90b3-97f7ef7d4d5a",
+      "time": "2026-08-20 19:07:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil futures rose 3.00% intraday to $86.94 per barrel."
+    },
+    {
+      "id": "5049970",
+      "time": "2026-08-20 19:07:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合石油資料庫JODI：沙烏地阿拉伯6月石油產品需求下降3.4萬桶/日，至263.3萬桶/日。6月原油產量環比增加56.2萬桶/日，至712.2萬桶/日。6月原油出口環比增加55.9萬桶/日，至399.3萬桶/日。6月國內煉廠原油加工量增加11.1萬桶/日，至249.7萬桶/日。"
+    },
+    {
+      "id": "mkt:01a01eda-a505-7aab-90b3-8bdc5951250d",
+      "time": "2026-08-20 19:07:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "JODI: Saudi Arabia June petroleum product demand fell 34k bpd MoM to 263.3k bpd; crude production rose 562k bpd MoM to 7.122 mln bpd; crude exports rose 559k bpd to 3.993 mln bpd; refinery crude runs increased 111k bpd to 2.497 mln bpd."
+    },
+    {
+      "id": "5049969",
+      "time": "2026-08-20 19:07:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Freedom Holding美股盤前跌超34%】Freedom Holding美股盤前跌超34%，現報103.602美元。"
+    },
+    {
+      "id": "5049968",
+      "time": "2026-08-20 19:06:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報86.93美元/桶。"
+    },
+    {
+      "id": "te:markets:576847",
+      "time": "2026-08-20 19:06:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Walmart earnings above expectations at 0.81 USD — Walmart (WMT) released earnings per share at 0.81 USD, compared to market expectations of 0.74 USD."
+    },
+    {
+      "id": "te:markets:576846",
+      "time": "2026-08-20 19:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Snaps 4-Day Losing Run — India’s BSE Sensex closed about 0.8% firmer at 77,537.7 on Thursday, ending a four-day losing streak, led by financials and IT stocks. Investors found some relief from easing pressure on global bond yields following US Treasury's surprise intervention, despite elevated oil prices and geopolitcal uncertainty. Meanwhile, foreign inflows increased for a second day on Wednesday. Most listed companies advanced, led by gains in Eternal, Kotak Bank, ITC, Bajaj Finance, Axis Bank, UltraTech Cement and Infosys. Tata Steel, IndiGo, HCL Tech and Titan bucked the trend as the only decliners."
+    },
+    {
+      "id": "5049967",
+      "time": "2026-08-20 19:06:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【沃爾瑪Q2業績超預期 電商高增疊加關稅退稅上調全年業績指引】沃爾瑪於週四公佈季度財報，季度銷售額超出華爾街預期，同時上調全年業績指引；公司電商業務再度實現強勁增長，關稅退稅也為業績帶來利好。 首席財務官約翰·戴維·雷尼在接受採訪時表示：“我們業務表現穩健，對於目前取得的進展，我們信心十足。” 這家零售企業披露，本財年第二季度營收同比上漲5.9%，全球電商銷售額大增23%。沃爾瑪美國同店銷售額增長2.6%；受部分藥品實施價格上限政策影響，健康保健業務產生0.8%的業績拖累，一定程度抵消了增長。市場原本預期該項增幅為3.5%。 沃爾瑪預計，第三季度淨銷售額增幅介於3%至3.75%之間，調整後每股收益為0.62–0.64美元。 全年來看，公司預期淨銷售額增長4%–5%，此前指引區間為3.5%–4.5%；調整後每股收益預期上調至2.80–2.87美元，此前為2.75–2.85美元。 雷尼透露，沃爾瑪可申領約29億美元關稅退稅，目前尚有不到1億美元未完成回款。公司計劃將這筆資金用於下調面向消費者的商品售價，相關降價效應將在第三季度體現。"
+    },
+    {
+      "id": "5049966",
+      "time": "2026-08-20 19:06:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "道指期貨和納指期貨在沃爾瑪季度業績公佈後小幅下跌。"
+    },
+    {
+      "id": "mkt:01a01ed9-84de-7aab-90b3-81f33ccc48ba",
+      "time": "2026-08-20 19:06:06",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "Dow futures and Nasdaq futures edged lower after Walmart (WMT.N) reported quarterly results."
+    },
+    {
+      "id": "5049965",
+      "time": "2026-08-20 19:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛鹿股份：2026年上半年淨利潤虧損2248.98萬元，虧損收窄41.83%】飛鹿股份公告，2026年上半年營業收入2.08億元，同比下降12.76%。歸屬於上市公司股東的淨利潤虧損2248.98萬元，上年同期虧損3866.29萬元，虧損收窄41.83%。扣非淨利潤虧損2493.87萬元，上年同期虧損4183.09萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5049964",
+      "time": "2026-08-20 19:05:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃爾瑪股價盤前下跌6.5%，塔吉特股價盤前下跌1.6%。"
+    },
+    {
+      "id": "5049963",
+      "time": "2026-08-20 19:05:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大獨立企業聯合會 (CFIB) 8 月商業景氣指數：57.8。 （前值 58.3；修正前值 58.6）"
+    },
+    {
+      "id": "5049962",
+      "time": "2026-08-20 19:04:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【沃爾瑪美股盤前跌超6%】沃爾瑪美股盤前跌超6%，現報107.15美元。"
+    },
+    {
+      "id": "mkt:01a01ed8-5ce7-7aab-90b3-79972a99775d",
+      "time": "2026-08-20 19:04:51",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "Walmart (WMT.N) said US comparable sales excluding fuel rose 2.6% in Q2, below the market consensus of +3.67%."
+    },
+    {
+      "id": "5049961",
+      "time": "2026-08-20 19:04:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃爾瑪第二季度山姆會員店美國業務剔除燃油後的可比銷售額增長4.4%，市場預期為增長4.04%。"
+    },
+    {
+      "id": "mkt:01a01ed8-3e17-7aab-90b3-7557f154752a",
+      "time": "2026-08-20 19:04:43",
+      "tags": [
+        "MKT News",
+        "WMT.O",
+        "Impact bullish"
+      ],
+      "text": "Walmart (WMT) Q2 Sam's Club U.S. comp sales excluding fuel rose 4.4% versus consensus 4.04%."
+    },
+    {
+      "id": "5049960",
+      "time": "2026-08-20 19:04:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【視涯科技：2026年上半年淨利潤虧損5372.2萬元】視涯科技公告，2026年上半年營業收入5.84億元，同比增長287.87%。歸屬於上市公司股東的淨利潤虧損5372.2萬元，上年同期虧損1.23億元。"
+    },
+    {
+      "id": "5049959",
+      "time": "2026-08-20 19:04:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中榮股份：2026年上半年淨利潤8018.16萬元，同比增4.36%】中榮股份公告，2026年上半年營業收入16.19億元，同比增長11.57%。歸屬於上市公司股東的淨利潤8018.16萬元，同比增長4.36%。歸屬於上市公司股東的扣除非經常性損益的淨利潤7576.33萬元，同比增長3.14%。公司擬向全體股東每10股派發現金紅利3.5元（含稅）。"
+    },
+    {
+      "id": "5049958",
+      "time": "2026-08-20 19:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中水漁業：2026年上半年淨利潤1.02億元，同比增18.60%】中水漁業公告，2026年上半年營業收入20.78億元，同比增長18.92%。歸屬於上市公司股東的淨利潤1.02億元，同比增長18.60%。扣非淨利潤1億元，同比增長16.16%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5049957",
+      "time": "2026-08-20 19:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通達創智：2026年上半年營收6.07億元 淨利同比增4.53%】通達創智公告稱，2026年上半年實現營業收入6.07億元，同比增長11.65%；歸屬於上市公司股東的淨利潤5770.50萬元，同比增長4.53%；扣非淨利潤5415.30萬元，同比增長8.00%。公司擬以11312.02萬股為基數，向全體股東每10股派發現金紅利4元（含稅），不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5049956",
+      "time": "2026-08-20 19:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣哈通訊：2026年上半年淨利潤1170.33萬元，同比下降52.11%】廣哈通訊公告，2026年上半年營業收入2.52億元，同比增長29.58%。歸屬於上市公司股東的淨利潤1170.33萬元，同比下降52.11%。歸屬於上市公司股東的扣除非經常性損益的淨利潤986.88萬元，同比增長69.05%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
     {
       "id": "5049955",
       "time": "2026-08-20 19:04:05",
@@ -144921,53 +145134,6 @@
         "國際"
       ],
       "text": "以色列國防部長：在真主黨解除武裝前，以色列軍隊不會撤出黎巴嫩南部。"
-    },
-    {
-      "id": "5039355",
-      "time": "2026-08-13 19:08:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行將開展隔夜逆回購操作】為更好匹配銀行體系短期流動性需求，中國人民銀行將在8月14日、8月17日至8月19日開展隔夜逆回購操作，採用固定利率、數量招標，每日操作量不超過6000億元。"
-    },
-    {
-      "id": "5039354",
-      "time": "2026-08-13 19:07:04",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【DeepSeek V4 Pro正式版突遭撤回】DeepSeek官網的DeepSeek-V4-Pro-0813釋出通知及開放平臺的公告已被撤回，距離8月12日晚靜默釋出不到24小時，官方API文件中DeepSeek-V4-Pro-0813目前仍顯示。（南方財經）"
-    },
-    {
-      "id": "5039353",
-      "time": "2026-08-13 19:06:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【“張雪機車”獲頒歐盟整車型式認證證書】近日，國際獨立第三方檢測、檢驗和認證機構德國萊茵TÜV大中華區（下稱“TÜV萊茵”）釋出訊息稱，“張雪機車”的500RR摩托車獲得由盧森堡交通部頒發的歐盟WVTA證書。此次是張雪機車獲得的首份歐盟WVTA證書，標誌該車型滿足歐盟市場準入要求，可合規進入歐盟成員國及其他認可WVTA認證的國家和地區。TÜV萊茵交通服務工程及型式認證全球高階副總裁表示，近年來，越來越多中國機車品牌進軍歐洲市場，這充分體現出中國企業研發、製造與產品創新能力的穩步提升。憑藉高效的迭代速度、多樣化的產品設計和持續進步的技術水平，中國機車品牌正在為歐洲市場帶來新動能。（央視新聞）"
-    },
-    {
-      "id": "5039352",
-      "time": "2026-08-13 19:05:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：火箭實驗室（Rocket Lab）表示，關於銥星通訊的交易取得進展。"
-    },
-    {
-      "id": "te:markets:575081",
-      "time": "2026-08-13 19:04:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Finishes Slightly Higher — India’s BSE Sensex managed to close about 0.2% up at 78,080 after a choppy session on Thursday, reversing a two-day decline, helped by falling oil prices and an upbeat earnings season. The market also drew support from easing expectations of near-term Fed rate hikes, while lingering uncertainty in the Middle East kept gains in check. Buying in select heavyweight stocks and broader market segments helped offset weakness in financial, metal and energy stocks. Among individual stocks, IndiGo was the top gainer, rising 2.9%, followed by NTPC (2%), BEL (2%) and L&T (2%). At the same time, Tata Group shares saw some stabilization after a heavy sellof on Wednesday following the surprise N.Chandrasekaran's decision to resign. On the losing side, ICICI Bank declined 1.3%, making it the biggest laggard.Titan shed 1.1%%, while Reliance Industries slipped 0.8%. UltraTech Cement fell 0.7% following a block transaction involving 2.51 million shares, representing 0.86% of its equity."
     }
   ]
 }
