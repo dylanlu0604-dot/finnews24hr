@@ -1,7 +1,52 @@
 {
   "date": "2026-08-20",
-  "count": 2960,
+  "count": 2965,
   "items": [
+    {
+      "id": "mkt:01a01f77-c0b2-7aab-90b8-f7d202df572c",
+      "time": "2026-08-20 21:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google's threat-intelligence team is tracking three separate suspected Russian cyber-espionage clusters."
+    },
+    {
+      "id": "5050353",
+      "time": "2026-08-20 21:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達雲遊戲平臺GeForce NOW正式支援Firefox瀏覽器。"
+    },
+    {
+      "id": "mkt:01a01f75-bab6-7aab-90b8-e8e88949c280",
+      "time": "2026-08-20 21:56:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SYY.O",
+        "Impact bullish"
+      ],
+      "text": "Sysco shares rose 2.4% after the company announced board changes to drive an AI-led transformation."
+    },
+    {
+      "id": "5050352",
+      "time": "2026-08-20 21:56:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦中央銀行外匯儲備增加2500萬美元，達到171億美元。"
+    },
+    {
+      "id": "5050351",
+      "time": "2026-08-20 21:56:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SYSCO股價上漲2.4%；公司宣佈調整董事會以推進人工智慧轉型。"
+    },
     {
       "id": "5050350",
       "time": "2026-08-20 21:53:35",

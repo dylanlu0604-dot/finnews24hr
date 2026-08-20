@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-20 21:55:33",
-  "count": 15924,
+  "updated": "2026-08-20 21:59:41",
+  "count": 15917,
   "items": [
+    {
+      "id": "mkt:01a01f77-c0b2-7aab-90b8-f7d202df572c",
+      "time": "2026-08-20 21:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google's threat-intelligence team is tracking three separate suspected Russian cyber-espionage clusters."
+    },
+    {
+      "id": "5050353",
+      "time": "2026-08-20 21:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達雲遊戲平臺GeForce NOW正式支援Firefox瀏覽器。"
+    },
+    {
+      "id": "mkt:01a01f75-bab6-7aab-90b8-e8e88949c280",
+      "time": "2026-08-20 21:56:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SYY.O",
+        "Impact bullish"
+      ],
+      "text": "Sysco shares rose 2.4% after the company announced board changes to drive an AI-led transformation."
+    },
+    {
+      "id": "5050352",
+      "time": "2026-08-20 21:56:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦中央銀行外匯儲備增加2500萬美元，達到171億美元。"
+    },
+    {
+      "id": "5050351",
+      "time": "2026-08-20 21:56:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SYSCO股價上漲2.4%；公司宣佈調整董事會以推進人工智慧轉型。"
+    },
     {
       "id": "5050350",
       "time": "2026-08-20 21:53:35",
@@ -145570,118 +145615,6 @@
         "市場"
       ],
       "text": "布倫特原油日內跌3%，現報86.26美元/桶。"
-    },
-    {
-      "id": "5039698",
-      "time": "2026-08-13 21:59:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【非洲豬瘟持續 芬蘭擬擴大疫情“核心區” 】芬蘭食品管理局12日說，因發現更多因感染非洲豬瘟病毒而死亡的野豬，將擴大此前劃定的疫情核心區，禁止在這一區域內進行狩獵等活動，以防止疫情進一步擴散。（新華社）"
-    },
-    {
-      "id": "5039697",
-      "time": "2026-08-13 21:59:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數首次突破7800點，日內漲幅擴大至0.66%。"
-    },
-    {
-      "id": "5039696",
-      "time": "2026-08-13 21:59:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前7個月海口海關累計簽發各類原產地證書15588份】據海口海關統計，2026年1—7月，海口海關累計簽發各類原產地證書15588份，簽證總貨值75.97億元，分別同比增長76.14%、47.89%。從簽證型別看，中國—東盟自貿協定證書在優惠類原產地證書中佔據主體地位，是海南企業開拓東南亞市場的重要抓手。（央視新聞）"
-    },
-    {
-      "id": "mkt:019ffb6b-6a31-7aab-9027-7cd3f9b5da95",
-      "time": "2026-08-13 21:59:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 breached 7,800 for the first time; intraday gain widened to 0.66%."
-    },
-    {
-      "id": "mkt:019ffb6a-1475-7aab-9027-719fd213b5d5",
-      "time": "2026-08-13 21:57:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "US 2-year Treasury yield extended its decline to the lowest since mid-July; last 4.136%, down 6.2bp."
-    },
-    {
-      "id": "5039695",
-      "time": "2026-08-13 21:57:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率延續跌勢，觸及7月中旬以來的低位；最新下跌6.2個基點，報4.136%。"
-    },
-    {
-      "id": "5039694",
-      "time": "2026-08-13 21:56:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷能源秘書處：該國瓦卡穆爾塔頁岩構造可開採石油儲量估值較此前上調89%。"
-    },
-    {
-      "id": "mkt:019ffb68-e5cb-7aab-9027-6bbd51bb49e1",
-      "time": "2026-08-13 21:56:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ENTSO-E said Germany's solar generation rose to a record 58.6 GW on Thursday."
-    },
-    {
-      "id": "5039693",
-      "time": "2026-08-13 21:56:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "國際商業機器公司（IBM）股價上漲1%，此前該公司宣佈與OpenAI達成合作。"
-    },
-    {
-      "id": "5039692",
-      "time": "2026-08-13 21:55:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國太陽能發電量週四創下58.6吉瓦的歷史新高。"
-    },
-    {
-      "id": "mkt:019ffb68-40d4-7aab-9027-66547940b5d2",
-      "time": "2026-08-13 21:55:41",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 hit an intraday record high, rising 0.6%."
-    },
-    {
-      "id": "5039691",
-      "time": "2026-08-13 21:55:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數日內創下歷史新高。"
     }
   ]
 }
