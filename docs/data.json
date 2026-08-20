@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-21 01:44:20",
-  "count": 16081,
+  "updated": "2026-08-21 01:48:17",
+  "count": 16080,
   "items": [
+    {
+      "id": "mkt:01a02049-08bc-7aab-90bf-4b0a401eeb8f",
+      "time": "2026-08-21 01:47:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【High mortgage rates squeeze buyers; U.S. housing affordability worsens for first time in nearly three years】NAHB and Wells Fargo data show Q2 median-priced U.S. home at $410,700, with monthly mortgage payments equal to 34% of a typical household's income, up from 32% in Q1 and reversing part of the improvement since early 2025. The groups said higher borrowing costs linked to the U.S.-Iran conflict lifted rates across the economy; the 30-year fixed mortgage rate climbed to about 6.8%, near a one-year high. NAHB also reported the median new-home price rose 2% in the quarter, adding to affordability pressure."
+    },
+    {
+      "id": "5050691",
+      "time": "2026-08-21 01:47:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "CIA：美國國家情報總監訪問中央情報局總部。"
+    },
+    {
+      "id": "5050690",
+      "time": "2026-08-21 01:46:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克轉帖了一張預測美國政府債務規模在2030年將達到50萬億美元的圖片，並配文道：精確無誤（附帶笑哭表情）。"
+    },
     {
       "id": "mkt:01a02045-a1bf-7aab-90bf-429a2f720cd3",
       "time": "2026-08-21 01:43:49",
@@ -147114,43 +147145,6 @@
         "國際"
       ],
       "text": "以色列軍方稱，週四在加沙擊斃一名哈馬斯指揮官。"
-    },
-    {
-      "id": "mkt:019ffc3c-4621-7aab-902b-d8bf4efc170b",
-      "time": "2026-08-14 01:47:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Turkey's foreign minister said Ankara expects the United States to exert necessary pressure on Israel; otherwise Turkey, Qatar and Egypt will have to take aggressive measures on the issue, which he described as their duty to their countries, peoples and the Palestinians."
-    },
-    {
-      "id": "5039935",
-      "time": "2026-08-14 01:46:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲8月13日常備回購操作中，收到的20億美元投標全部接納。"
-    },
-    {
-      "id": "5039934",
-      "time": "2026-08-14 01:45:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部長表示，土耳其位於地中海以北，埃及位於以南，這種聯盟“正劃出一條直線穿過中間”，有著明確的目的，而土耳其自己的聯盟並非針對任何國家，而是旨在建立合作框架並確立威懾力。"
-    },
-    {
-      "id": "5039933",
-      "time": "2026-08-14 01:45:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部長表示，當被問及是否在該地區針對土耳其正在形成其他聯盟時，他回答“是的，有”，並指出，在麥加聯盟簽署之前，以色列、希臘塞普勒斯當局和希臘已在東地中海建立了安全聯盟。"
     }
   ]
 }
