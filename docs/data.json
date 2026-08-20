@@ -1,7 +1,209 @@
 {
-  "updated": "2026-08-20 15:02:28",
-  "count": 15630,
+  "updated": "2026-08-20 15:06:26",
+  "count": 15635,
   "items": [
+    {
+      "id": "mkt:01a01dfc-6437-7aab-90ab-f7d6904234ac",
+      "time": "2026-08-20 15:04:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Zaporizhzhia nuclear plant loses external power, switches to backup diesel generators】On Aug. 20 the Zaporizhzhia nuclear plant said a 330 kV \"Ferrous-Alloy-1\" transmission line supplying auxiliary equipment was disconnected by automatic protection after line damage, resulting in loss of external power. The unit switched to backup diesel generators per procedure. Equipment is operating normally, safety systems did not fail, and on-site and perimeter radiation readings remain at natural background and within regulatory limits. Plant personnel are continuously monitoring parameters and have implemented all measures required to maintain unit safety."
+    },
+    {
+      "id": "5049229",
+      "time": "2026-08-20 15:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電A16工藝完成開發驗證，目標Q4量產】據報道，臺積電(TSM.N)已完成1.6nm級A16工藝開發與驗證，計劃今年第四季度量產。該工藝採用背面供電網路技術“超級電源軌（SPR）”，將電源與訊號線路分離，從晶圓背面供電，以減少佈線瓶頸、提升能效與效能，同時保持與現有設計的相容性。A16瞄準AI與高效能運算市場。相較增強版2nm工藝N2P，A16在同等功耗下效能提升8%-10%，同等效能下功耗降低15%-20%，晶片密度提升8%-10%。A16被視為向1.4nm級A14過渡的中間節點，後者目標2028年量產。與此同時，臺積電持續加碼先進工藝與封裝產能。11日，臺積電董事會批准了總額約294.425億美元（約合41萬億韓元）的資本支出，用於先進工藝和封裝等領域。"
+    },
+    {
+      "id": "5049228",
+      "time": "2026-08-20 15:04:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【扎波羅熱核電站失去外部供電 轉入備用供電】8月20日，扎波羅熱核電站官方通報，為該核電站輔助裝置供電的330千伏“鐵合金-1”高壓輸電線路因線路受損，被保護自動裝置切斷。失去外部供電後，核電站機組按規定切換至備用柴油發電機供電。裝置執行正常，安全系統未發生故障。通報稱，核電站人員密切監控裝置執行引數，為維持機組安全狀態所必需的全部措施均已全面實施。核電站廠區及觀測區內的輻射背景值處於天然本底水平，未超過規定標準。目前情況處於該核電站專家的持續監控之下。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01dfb-e3e0-7aab-90ab-ee2cfe4280d7",
+      "time": "2026-08-20 15:04:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【TSMC completes A16 (1.6nm) validation, targets Q4 volume production】TSMC has completed development validation of its 1.6nm A16 process and targets volume production in Q4. A16 uses backside power-delivery technology (Super Power Rail, SPR) to separate power and signal routing, feeding power from the wafer backside to reduce routing bottlenecks and improve energy efficiency and performance while remaining compatible with existing designs. Targeting AI and high-performance computing, A16 is cited as delivering roughly +8–10% performance at equal power versus enhanced 2nm N2P, −15–20% power at equal performance, and ~8–10% higher density. A16 is positioned as an intermediate step toward 1.4nm A14, which TSMC targets for 2028 production. On the 11th TSMC’s board approved roughly $29.44 billion in capital expenditure for advanced process and packaging capacity (about 41 trillion KRW)."
+    },
+    {
+      "id": "mkt:01a01dfb-7b94-7aab-90ab-e604fb47d51f",
+      "time": "2026-08-20 15:03:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "BIDU.O",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【Goldman Sachs: Open models accelerate substitution; US large telcos report 80–90% AI cost cuts】AT&T says open models now account for about 25% of its AI usage and could climb to 70–80%. In some applications switching from closed proprietary models to open models has cut costs by 80–90%. Goldman Sachs reports enterprises are adopting model tiering: lower-inference tasks shift to lower-cost open models while the most complex tasks remain on higher-capability proprietary models. As Chinese domestic open models increasingly substitute for U.S. models, Goldman-tracked AI-token costs have fallen 49% since May, making model calls cheaper and supporting broader enterprise AI adoption. Goldman warns cheaper calls will pressure base-model vendors’ per-unit pricing and margins; cost efficiency is rising as a competitive axis alongside model capability in the next phase of AI commercialization."
+    },
+    {
+      "id": "mkt:01a01dfa-c90d-7aab-90ab-d91337caa7ed",
+      "time": "2026-08-20 15:02:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Eurozone bond yields slip, tracking US Treasuries lower】Eurozone sovereign yields edged down, mirroring declines in US Treasuries after the US Treasury increased the size of long-term government bond buybacks. Deutsche Bank strategist Erik Liem said German Bunds continued to show signs of stabilization. On the supply front, France will hold two auctions: a sale of short- and medium-term nominal bonds and a separate auction of inflation-linked bonds."
+    },
+    {
+      "id": "mkt:01a01dfa-8e26-7aab-90ab-d28d12660f8d",
+      "time": "2026-08-20 15:02:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed up 9.30 points (+0.24%) at 3,903.72 on Thursday, Aug 20. Shenzhen Composite Index closed up 82.63 points (+0.59%) at 13,972.78. CSI 300 Index closed up 4.05 points (+0.09%) at 4,592.75. ChiNext Index closed up 22.09 points (+0.64%) at 3,495.59. STAR Market 50 Index closed down 14.55 points (-0.87%) at 1,652.97."
+    },
+    {
+      "id": "5049227",
+      "time": "2026-08-20 15:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國農業銀行吉林省分行原行長沙龍雲接受審查調查】據中央紀委國家監委駐中國農業銀行紀檢監察組、吉林省紀委監委訊息：中國農業銀行吉林省分行原黨委書記、行長沙龍雲涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國農業銀行紀檢監察組紀律審查和吉林省長春市監委監察調查。"
+    },
+    {
+      "id": "mkt:01a01dfa-5a65-7aab-90ab-cfc15256c4ad",
+      "time": "2026-08-20 15:02:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China A-share turnover CNY2.08tn on Aug 20; InnoLight top by value traded】Total turnover on the Shanghai and Shenzhen markets on Aug 20 was CNY2.08 trillion, down CNY431.7 billion from the prior trading day. Shanghai turnover was CNY1.02 trillion (previous CNY1.22 trillion) with volume 507 million lots (572 million); Shenzhen turnover was CNY1.06 trillion (previous CNY1.29 trillion) with volume 597 million lots (697 million). InnoLight (Zhongji Xuchuang) led single-stock turnover at CNY20.34 billion, followed by ChangXin Memory Technologies CNY16.97 billion, Cambricon CNY15.19 billion, GigaDevice CNY14.63 billion and WuXi AppTec CNY14.59 billion."
+    },
+    {
+      "id": "5049226",
+      "time": "2026-08-20 15:02:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯泰蘭蒂斯米蘭上市股價早盤上漲2%。"
+    },
+    {
+      "id": "mkt:01a01dfa-4386-7aab-90ab-c3ec6dc3724b",
+      "time": "2026-08-20 15:02:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "EURUSD"
+      ],
+      "text": "【Korean stocks rebound nearly 6%; foreigners net buy KRW1.7t】South Korean shares closed up nearly 6% on Thursday, reversing a prior sharp decline as chip stocks surged on shareholder-return moves and a drop in US Treasury yields. SK Hynix jumped 12.73% after announcing a buyback and cancellation of treasury stock; Samsung Electronics rose 9.49% amid media reports it will unveil a new shareholder-return policy at month-end. Other large caps: LG Energy Solution +0.14%, Hyundai Motor +0.85%, Kia -1.43%, POSCO Holdings +0.47%, Samsung Biologics +1.94%. Market breadth was positive with 521 advancers and 338 decliners. Foreign investors were net buyers of KRW1.7 trillion (about $1.22bn) of Korean equities."
+    },
+    {
+      "id": "mkt:01a01df9-b456-7aab-90ab-be849bdd94e2",
+      "time": "2026-08-20 15:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities opened mixed on Aug 20 (Thursday): FTSE 100 down 9.10 pts (-0.08%) at 10,734.25; CAC 40 up 1.63 pts (+0.02%) at 8,503.54; Euro STOXX 50 down 1.71 pts (-0.03%) at 6,442.75; IBEX 35 down 21.13 pts (-0.11%) at 19,826.37; FTSE MIB up 43.80 pts (+0.08%) at 52,662.00; DAX down 61.28 pts (-0.23%) at 26,068.50."
+    },
+    {
+      "id": "5049225",
+      "time": "2026-08-20 15:01:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【利基型儲存加速擴產 華邦電新晶圓廠兩期專案整合同步加速推進】利基型儲存器廠華邦電正加快新產能建設節奏以回應AI帶來的長期需求提升。該企業原計劃分為兩期進行的高雄路竹園區擴充套件專案已整合為Module B同步加速推進。這一專案將覆蓋標準DRAM、CUBE客製化記憶體解決方案、WoW鍵合、矽電容器等品類，並滿足未來14nm、12nm級記憶體工藝升級和EUV光刻機匯入需求。華邦高雄路竹Module B預計2027年啟動無塵室建設，最快2029年初啟動裝機，根據客戶需求預測與長期協議分階段匯入裝置。"
+    },
+    {
+      "id": "mkt:01a01df9-7301-7aab-90ab-b7d70c962d1e",
+      "time": "2026-08-20 15:01:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CSI500",
+        "CSI1000"
+      ],
+      "text": "【China stock index futures midday close】Most-active China index futures at midday: CSI 300 futures (IF) +0.24%, SSE 50 futures (IH) +0.15%, CSI 500 futures (IC) +0.73%, CSI 1000 futures (IM) +0.76%."
+    },
+    {
+      "id": "5049224",
+      "time": "2026-08-20 15:01:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：科創50指數震盪走低跌0.87%，創新藥、貴金屬板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.24%，深證成指漲0.59%，創業板指漲0.64%，北證50跌0.06%，科創50指數跌0.87%。全市場成交額20939億元，較上日縮量4361億元，全市場超4000只個股上漲。板塊題材上，生物製品、生物疫苗、貴金屬、創新藥、CRO概念漲幅居前；廚衛電器、國家大基金持股、電子化學品、小金屬、煤炭開採加工板塊跌幅居前。盤面上，創新藥板塊高開高走掀漲停潮，三元基因、石藥創新、沃森生物、智飛生物、昂立康、康泰生物等20餘股漲停，新開源、華蘭股份、聖湘生物、澤璟製藥等多股漲超10%。貴金屬板塊表現強勢，興業銀錫、赤峰黃金、山東黃金、曉程科技、招金黃金漲幅居前。房地產板塊午後活躍，京投發展、城投控股觸及漲停，福星股份、榮安地產、亞通股份、華麗家族漲幅居前。小金屬板塊震盪下行，長裕集團盤中觸及跌停，華陽新材、中鎢高新、北方稀土跌幅居前。"
+    },
+    {
+      "id": "5049223",
+      "time": "2026-08-20 15:01:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局公佈六起侵犯商業秘密典型案例】商業秘密是企業重要的智慧財產權，是企業的核心競爭力。加強商業秘密保護是強化反不正當競爭的重要任務，對於激發企業創新活力、最佳化營商環境、推動我國經濟高質量發展具有重要意義，保護商業秘密就是保護創新發展。為充分發揮典型案例警示教育作用，引導經營主體公平競爭，現公佈六起侵犯商業秘密典型案例。"
+    },
+    {
+      "id": "mkt:01a01df9-4dc9-7aab-90ab-aa1968d3d233",
+      "time": "2026-08-20 15:01:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "By the midday close onshore front‑month futures were mostly higher: Shanghai silver and platinum rose over 4%; bitumen gained about 3%; Shanghai gold, 20# rubber, palladium, polysilicon and rapeseed oil advanced more than 2%; palm oil was up nearly 2%. Laggers included low‑sulfur fuel oil (LU), monthly‑average plastics, iron ore and PTA, each down over 1%."
+    },
+    {
+      "id": "5049222",
+      "time": "2026-08-20 15:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家氣象局向紐約市釋出洪水預警。"
+    },
+    {
+      "id": "5049221",
+      "time": "2026-08-20 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.24%，深證成指漲0.59%，創業板指漲0.64%。"
+    },
     {
       "id": "5049220",
       "time": "2026-08-20 15:00:55",
@@ -143179,143 +143381,6 @@
         "國際"
       ],
       "text": "【依託本土企業盈利向好 韓國今年上半年稅收總收入同比增加33萬億韓元】韓國企劃財政部週四公佈資料，受稅收收入大幅增收帶動，今年1至6月韓國財政收支狀況較去年同期改善，財政赤字收窄至三年來最低水平。企劃財政部資料顯示，衡量財政穩健度的核心指標——統籌財政收支餘額（統計標準更為嚴苛），截至6月末赤字規模為84.4萬億韓元（摺合595億美元），相較2025年同期赤字縮減9.9萬億韓元。財政部相關官員表示：“該時段統籌財政收支赤字創下新低，上一次低點為2023年的83萬億韓元。”今年上半年韓國稅收總收入達223萬億韓元，同比增加33萬億韓元；依託本土企業盈利向好，企業所得稅入庫規模同比增收4.3萬億韓元。"
-    },
-    {
-      "id": "5038786",
-      "time": "2026-08-13 15:06:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數下跌1%至1775.17。"
-    },
-    {
-      "id": "5038785",
-      "time": "2026-08-13 15:06:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想CEO：本財年力爭實現1000億美元營收。"
-    },
-    {
-      "id": "5038784",
-      "time": "2026-08-13 15:05:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百度搭子上線以來日均提問次數增長60倍】據百度8月12日訊息，百度旗下專業辦公智慧體平臺百度搭子自上線以來，日均提問次數已增長60倍，近一個月又增長兩倍。"
-    },
-    {
-      "id": "te:markets:574964",
-      "time": "2026-08-13 15:05:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Spain",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Banco Santander Stock Price Hits 18-year High — Banco Santander shares increased to 13.04 EUR, the highest since June 2008. Over the past 4 weeks, Banco Santander gained 8.47%, and in the last 12 months, it increased 60.12%."
-    },
-    {
-      "id": "mkt:019ff9f0-1c86-7aab-901c-619394813437",
-      "time": "2026-08-13 15:04:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "At the close on Aug 13 (Thu), China's equity benchmarks fell: China's Shanghai Composite Index down 19.71 pts (-0.50%) to 3,926.96; Shenzhen Composite Index down 124.98 pts (-0.87%) to 14,289.44; CSI 300 Index down 26.97 pts (-0.57%) to 4,663.95; ChiNext Index down 16.04 pts (-0.45%) to 3,586.04; China STAR 50 Index down 19.24 pts (-1.11%) to 1,717.75."
-    },
-    {
-      "id": "5038783",
-      "time": "2026-08-13 15:04:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊下屬準軍事組織“巴斯基”：霍爾木茲海峽“處於伊朗的控制和管理之下”】伊朗革命衛隊下屬準軍事組織“巴斯基”負責人表示，霍爾木茲海峽“處於伊朗的控制和管理之下”，伊朗掌控著霍爾木茲海峽，並且挫敗了美國試圖在該海峽發起的挑釁。據法爾斯通訊社報道，塔布在訪問庫姆市時稱：“如今，大家可以看到霍爾木茲海峽處於伊斯蘭共和國的管轄與掌控之下。”塔布稱，美國已在霍爾木茲海峽挑起另一場戰爭，儘管華盛頓方面認為伊朗缺乏有效的海空力量，但美國最終遭遇失敗。"
-    },
-    {
-      "id": "5038782",
-      "time": "2026-08-13 15:04:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報道：三星、SK海力士積極引入AI】據報道，SK海力士已開始在其位於清州的半導體後端生產線上分階段部署AI系統。具體涉及的裝置尚未披露。該公司目前正在評估裝置的生產效能，以及AI系統在生產環境中的有效性和可靠性。評估工作預計將於年底完成。一位業內人士表示，SK海力士負責裝置驗證人員的關鍵績效指標（KPI）已與AI軟體的成功驗證和部署直接掛鉤。這意味著，工程師們透過採用AI提高生產良率所帶來的成果，如今已體現在他們的績效考核中。三星電子也在積極將AI引入半導體製造業務中，以提高生產效率。據業內人士透露，該公司要求裝置供應商將AI Agent作為新訂購裝置標配。一位訊息人士稱，三星此前出於安全性和可靠性方面的考慮，對AI採取了較為保守的態度，但最近已轉變策略，積極部署AI用於流程控制和更廣泛的製造運營。"
-    },
-    {
-      "id": "mkt:019ff9ee-fe48-7aab-901c-5e341fdefa7d",
-      "time": "2026-08-13 15:03:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars News reported the head of Iran’s paramilitary Basij said the Strait of Hormuz is “under Iran’s control and management”."
-    },
-    {
-      "id": "mkt:019ff9ee-fb0d-7aab-901c-53ad45cb1f82",
-      "time": "2026-08-13 15:03:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai-Shenzhen combined turnover CNY 2.551 tln; Zhongji Xuchuang led turnover】Aug 13 — Shanghai-Shenzhen combined turnover CNY 2.551 tln, up CNY 398.494 bln from the previous session. Shanghai turnover CNY 1.1642 tln (prior CNY 986.122 bln); volume 573 mln lots (prior 503 mln). Shenzhen turnover CNY 1.3867 tln (prior CNY 1.1663 tln); volume 738 mln lots (prior 625 mln). Top stocks by turnover: Zhongji Xuchuang CNY 27.745 bln, Changxin Technology CNY 25.386 bln, GigaDevice CNY 22.901 bln, Newiscom CNY 19.447 bln, Dongshan Precision CNY 17.278 bln."
-    },
-    {
-      "id": "5038781",
-      "time": "2026-08-13 15:03:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【券商稱三星海力士被深度低估 預計2027年合計營業利潤逼近1000萬億韓元】KB證券13日釋出報告分析稱，三星電子與SK海力士目前處於深度低估區間。KB證券分析師金東元表示：“預計三星電子、SK海力士合計營業利潤將由2025年91萬億韓元增至2026年641萬億韓元，2027年進一步升至964萬億韓元，逼近1000萬億韓元。” 市場預計兩家企業今年第三季度將延續史上最佳業績表現。KB證券預測三星電子三季度營業利潤112萬億韓元，SK海力士三季度營業利潤77萬億韓元，同比分別大增817%、579%。 支撐業績的邏輯在於長期供貨合約擴容以及儲存晶片價格上行。隨著與超大規模雲廠商（大型科技企業）長期供貨協議持續擴大，兩家企業超60%的儲存晶片產能已經鎖定訂單。疊加儲存晶片漲價預期升溫，企業有望持續交出亮眼財報。"
-    },
-    {
-      "id": "5038780",
-      "time": "2026-08-13 15:03:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國仁川機場上半年國際線旅客吞吐量全球居首】韓國仁川機場今年上半年國際航線旅客吞吐量居全球首位，自機場2001年啟用以來首次創下此項紀錄。仁川國際機場公社13日公佈的初步核實資料顯示，今年1—6月國際線旅客吞吐量同比增長6.3%，達3839萬人次。以國際機場協會（ACI）的統計資料為準，仁川機場位居全球1234家機場首位。英國倫敦希思羅機場（3779萬人次）、新加坡樟宜機場（3453萬人次）分列其後。"
-    },
-    {
-      "id": "5038779",
-      "time": "2026-08-13 15:03:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯想執行長楊元慶表示：2026年下半年個人電腦板塊需求將受到抑制，但由於高階定價策略，預計營收仍將實現增長。"
-    },
-    {
-      "id": "mkt:019ff9ee-478e-7aab-901c-4f72dd758b19",
-      "time": "2026-08-13 15:02:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "European indices opened on Aug 13 (Thu): Germany's DAX opened up 112.21 pts (+0.43 pct) at 26,458.50; UK FTSE 100 opened down 13.45 pts (-0.12 pct) at 10,819.70; France's CAC 40 opened up 23.85 pts (+0.27 pct) at 8,698.79; Stoxx Europe 50 opened up 29.56 pts (+0.45 pct) at 6,563.55; Italy's FTSE MIB opened up 207.34 pts (+0.39 pct) at 53,906.00; Spain's IBEX 35 opened up 70.62 pts (+0.35 pct) at 20,275.02."
-    },
-    {
-      "id": "5038778",
-      "time": "2026-08-13 15:02:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓政府公佈新增首都圈住房供應方案 含綠帶用地】韓國國土交通部13日在政府首爾辦公大樓釋出了“為穩定租房及房屋交易市場的住宅迅速供應方案”。此次方案是去年9月7日政府公佈的計劃在2030年前在首都圈供應135萬套住房的樓市新規跟進措施，旨在進一步確保住房供應的同時，縮短政策公佈與實際供應到位之間的時間差距。政府計劃透過此次方案在首都圈額外供應超過23萬套住房，包括在開發限制區（綠帶）內規劃的10萬套新建住宅用地。為加快公共用地實際投入供應的開發速度，被指定為新建住房用地後至開工的時期將從原先的68個月縮短至37個月。首都圈八成多住房供應依託民間專案，因此政府還計劃幫助民間改造專案加快速度，以加快住房供應程序。"
     }
   ]
 }
