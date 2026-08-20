@@ -1,7 +1,49 @@
 {
   "date": "2026-08-20",
-  "count": 1188,
+  "count": 1193,
   "items": [
+    {
+      "id": "mkt:01a01dc6-c1b2-7aab-90aa-5080832192da",
+      "time": "2026-08-20 14:05:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Norwegian Petroleum Directorate: Norway's preliminary July oil production 1.775 mln bpd; preliminary gas production 10.9 bcm."
+    },
+    {
+      "id": "5049129",
+      "time": "2026-08-20 14:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威石油管理局：挪威7月天然氣初步產量為109億立方米。"
+    },
+    {
+      "id": "5049128",
+      "time": "2026-08-20 14:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威石油管理局：挪威7月石油產量初步資料為每日177.5萬桶。"
+    },
+    {
+      "id": "mkt:01a01dc5-f26c-7aab-90aa-4d300e770a09",
+      "time": "2026-08-20 14:05:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says Trump's 'economic D‑Day' remark will only bring further failure to US】Refinitiv reports Iranian Foreign Minister Araghchi said Trump's reference to an economic \"D‑Day\" is a U.S. ploy to distract from domestic crises and will only bring further failure to the United States."
+    },
+    {
+      "id": "5049127",
+      "time": "2026-08-20 14:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年APEC海關與商界對話會在大連舉行】APEC海關與商界對話會今天（20日）到明天在大連舉行。各方就全球經貿新形勢下如何應對風險挑戰、維護亞太供應鏈安全穩定暢通的合作路徑進行探討。此次APEC第三次高官會，是今年APEC“中國年”三場高官會的收官會議。本次會議聚焦人工智慧與數字化如何賦能亞太跨境貿易，探討如何助力中小微企業融入亞太供應鏈，增強亞太地區供應鏈穩定性、韌性與可預期性。（央視新聞）"
+    },
     {
       "id": "5049125",
       "time": "2026-08-20 14:02:08",
