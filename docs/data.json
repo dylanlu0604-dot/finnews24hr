@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-20 12:57:34",
-  "count": 15666,
+  "updated": "2026-08-20 13:01:29",
+  "count": 15667,
   "items": [
+    {
+      "id": "mkt:01a01d8b-46c0-7aab-90a8-e42d0c1e224e",
+      "time": "2026-08-20 13:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said Russian forces struck a drone component production facility in Kyiv."
+    },
+    {
+      "id": "5049061",
+      "time": "2026-08-20 13:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.02%，現報14032.279點；上證指數漲0.29%，現報3905.755點；創業板指漲1.10%，現報3511.740點。"
+    },
+    {
+      "id": "5049060",
+      "time": "2026-08-20 13:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.08%，現報3510.875點；上證指數漲0.29%，現報3905.755點；深證成指漲1.00%，現報14028.614點。"
+    },
+    {
+      "id": "mkt:01a01d88-9b21-7aab-90a8-d90910bcba8d",
+      "time": "2026-08-20 12:58:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian Defence Ministry said Russian forces carried out overnight strikes on Kyiv and surrounding areas of Ukraine."
+    },
     {
       "id": "te:markets:576723",
       "time": "2026-08-20 12:53:26",
@@ -143753,34 +143791,6 @@
         "國際"
       ],
       "text": "【普京：俄日和平條約談判陷入僵局原因在日方】據日本《讀賣新聞》8月13日報道，根據俄羅斯總統府釋出的訊息，俄羅斯總統普京12日表示，包含“北方領土（俄稱‘南千島群島’）”問題在內的日俄和平條約談判之所以陷入停滯，原因在於日方因俄烏衝突而對俄羅斯實施制裁。這一表態是他在訪問俄羅斯遠東薩哈林州時，在與俄太平洋艦隊軍官的會議上作出的。 普京再次強調其立場，認為庫里爾群島（即千島群島）因第二次世界大戰的結果而成為俄羅斯領土。在此基礎上，圍繞和平條約談判，他主張：“俄羅斯曾與包括前首相安倍晉三在內的日本領導人建立了建設性關係，但現在日本方面的立場發生了變化。” 普京還指出，“北約正在向亞太地區滲透，新的軍政集團正在形成”。（參考訊息）"
-    },
-    {
-      "id": "mkt:019ff97e-8a72-7aab-9018-ba798e051952",
-      "time": "2026-08-13 13:00:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【First 10‑million‑ton‑class crude pipeline of China’s 15th Five‑Year Plan commissioned】State Pipeline Network Group said on Aug. 13 the Lianyungang–Yizheng pipeline’s Lianyungang–Huaian segment entered service in one phase. The line, the first 10‑million‑ton‑class crude pipeline to start operating in the 15th Five‑Year Plan period, links to existing trunk lines to deliver crude to the eastern hub at Yizheng. Peak daily throughput is 70,000 tonnes; the pipeline will supply Jiangsu and Yangtze‑river refineries, widen supply channels, and support unified allocation of imported crude and optimization of the national oil‑and‑gas “one network” across central‑eastern China and the Yangtze Delta."
-    },
-    {
-      "id": "5038618",
-      "time": "2026-08-13 13:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.61%，現報3660.252點；上證指數漲0.42%，現報3963.152點；深證成指漲0.76%，現報14524.172點。"
-    },
-    {
-      "id": "5038617",
-      "time": "2026-08-13 12:59:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【“十五五”首條千萬噸級原油管道投產】國家管網集團8月13日宣佈，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連雲港至淮安段投產一次成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。連儀管道連淮段投產後，與已投運的日儀管道聯通，將原油最終輸送至我國東部原油樞紐儀徵站，日輸量最高可達7萬噸，服務保障江蘇省及長江沿線煉化企業，有效提升長江沿線使用者用能多通道資源保障能力，對我國長三角區域油氣管網布局最佳化、進口原油資源統一調配等發揮重要作用。（新華社）"
     }
   ]
 }

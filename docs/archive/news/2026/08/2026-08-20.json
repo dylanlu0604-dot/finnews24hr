@@ -1,7 +1,45 @@
 {
   "date": "2026-08-20",
-  "count": 1073,
+  "count": 1077,
   "items": [
+    {
+      "id": "mkt:01a01d8b-46c0-7aab-90a8-e42d0c1e224e",
+      "time": "2026-08-20 13:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said Russian forces struck a drone component production facility in Kyiv."
+    },
+    {
+      "id": "5049061",
+      "time": "2026-08-20 13:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.02%，現報14032.279點；上證指數漲0.29%，現報3905.755點；創業板指漲1.10%，現報3511.740點。"
+    },
+    {
+      "id": "5049060",
+      "time": "2026-08-20 13:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.08%，現報3510.875點；上證指數漲0.29%，現報3905.755點；深證成指漲1.00%，現報14028.614點。"
+    },
+    {
+      "id": "mkt:01a01d88-9b21-7aab-90a8-d90910bcba8d",
+      "time": "2026-08-20 12:58:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian Defence Ministry said Russian forces carried out overnight strikes on Kyiv and surrounding areas of Ukraine."
+    },
     {
       "id": "te:markets:576723",
       "time": "2026-08-20 12:53:26",
