@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-21 01:32:29",
-  "count": 16072,
+  "updated": "2026-08-21 01:36:26",
+  "count": 16078,
   "items": [
+    {
+      "id": "5050685",
+      "time": "2026-08-21 01:35:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市延續跌勢，道瓊斯工業指數下跌1%。"
+    },
+    {
+      "id": "5050684",
+      "time": "2026-08-21 01:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：Prime Video本地原創內容數量到2030年將增長一倍以上，僅2027年就將推出超25部原創作品。"
+    },
+    {
+      "id": "mkt:01a0203d-8f47-7aab-90bf-2a25918812a7",
+      "time": "2026-08-21 01:35:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O) said Prime Video plans to invest $2 billion in Latin America between 2027 and 2030."
+    },
+    {
+      "id": "5050683",
+      "time": "2026-08-21 01:34:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：Prime Video計劃於2027年至2030年間在拉美地區投資20億美元。"
+    },
+    {
+      "id": "mkt:01a0203c-6376-7aab-90bf-2417315d928e",
+      "time": "2026-08-21 01:33:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O): Antigravity, its AI agent development platform, is now available to eligible Gemini Enterprise app subscribers, providing built-in administrative controls and spend-management features."
+    },
+    {
+      "id": "mkt:01a0203b-f252-7aab-90bf-18c7e81e2016",
+      "time": "2026-08-21 01:33:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【U.S.-backed consortium to invest about $500m in Tanzanian Kabanga nickel project】A U.S.-backed consortium is negotiating an investment of roughly $500–600m to develop the Kabanga nickel project in Tanzania as the Trump administration pushes to secure critical metal supplies. The group, formed in October and backed by the U.S. International Development Finance Corporation (DFC) and Abu Dhabi’s L'imad Holding, would have Orion CMC acquire a stake in Kabanga Nickel, the Lifezone Metals unit that holds the project; one source said the amount is closer to $500m."
+    },
+    {
+      "id": "5050682",
+      "time": "2026-08-21 01:33:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌： ANTIGRAVITY 現已作為符合條件的Gemini企業應用訂閱的一部分提供，包括開箱即用的管理與支出控制功能。"
+    },
     {
       "id": "mkt:01a02039-dd1c-7aab-90bf-10aa98ed1ba9",
       "time": "2026-08-21 01:30:58",
@@ -147049,18 +147119,6 @@
         "其他"
       ],
       "text": "德意志銀行將德賽西威評級上調至持有；目標價93元人民幣。"
-    },
-    {
-      "id": "te:markets:575175",
-      "time": "2026-08-14 01:32:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Chevron Stock Price Hits 12-week High — Chevron shares increased to 197.70 USD, the highest since May 2026. Over the past 4 weeks, Chevron gained 8.73%, and in the last 12 months, it increased 27.37%."
     }
   ]
 }
