@@ -1,7 +1,29 @@
 {
   "date": "2026-08-20",
-  "count": 1071,
+  "count": 1073,
   "items": [
+    {
+      "id": "te:markets:576723",
+      "time": "2026-08-20 12:53:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls on Weak Fundamentals — Iron ore futures fell toward CNY 700 per ton, approaching 14-month lows amid signs of persistently weak steel demand and abundant global supply. Chinese steelmakers continued to face deteriorating margins and a prolonged property sector downturn, weighing on demand for the key steelmaking ingredient. Industry data showed that China’s daily crude steel output fell 11% in July from the previous month to 2.48 million tons, while daily hot metal production declined 2.2% to 2.2 million tons. Meanwhile, Australian mining giant Fortescue reported higher annual profit, supported by increased iron ore shipments and stronger realized prices. The company posted a record annual shipment of 201.3 million metric tons of iron ore. Elsewhere, Singaporean authorities said they had received reports concerning Radiant World, one of the world’s largest iron ore traders, although no further details were provided."
+    },
+    {
+      "id": "5049059",
+      "time": "2026-08-20 12:53:20",
+      "tags": [
+        "宏觀",
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【上海：推行房票安置 加快推進收購二手住房用作保障性租賃住房】上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。《通知》明確進一步加大房票實施力度，在徵收拆遷補償安置中增加房票安置方式，重點聚焦城中村改造和舊城區改建專案等，統籌平衡現有徵收拆遷補償標準，多種方式滿足居民多元化安置需求。《通知》規定，以需求為導向，結合“十五五”時期保障性租賃住房發展要求，各中心城區（含浦東外環內區域）推進二手住房收購工作，並加快改造出租，切實增加中心城區保障性租賃住房供應。"
+    },
     {
       "id": "5049058",
       "time": "2026-08-20 12:52:08",

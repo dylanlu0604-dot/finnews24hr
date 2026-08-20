@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-20 12:53:40",
-  "count": 15665,
+  "updated": "2026-08-20 12:57:34",
+  "count": 15666,
   "items": [
+    {
+      "id": "te:markets:576723",
+      "time": "2026-08-20 12:53:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls on Weak Fundamentals — Iron ore futures fell toward CNY 700 per ton, approaching 14-month lows amid signs of persistently weak steel demand and abundant global supply. Chinese steelmakers continued to face deteriorating margins and a prolonged property sector downturn, weighing on demand for the key steelmaking ingredient. Industry data showed that China’s daily crude steel output fell 11% in July from the previous month to 2.48 million tons, while daily hot metal production declined 2.2% to 2.2 million tons. Meanwhile, Australian mining giant Fortescue reported higher annual profit, supported by increased iron ore shipments and stronger realized prices. The company posted a record annual shipment of 201.3 million metric tons of iron ore. Elsewhere, Singaporean authorities said they had received reports concerning Radiant World, one of the world’s largest iron ore traders, although no further details were provided."
+    },
+    {
+      "id": "5049059",
+      "time": "2026-08-20 12:53:20",
+      "tags": [
+        "宏觀",
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【上海：推行房票安置 加快推進收購二手住房用作保障性租賃住房】上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。《通知》明確進一步加大房票實施力度，在徵收拆遷補償安置中增加房票安置方式，重點聚焦城中村改造和舊城區改建專案等，統籌平衡現有徵收拆遷補償標準，多種方式滿足居民多元化安置需求。《通知》規定，以需求為導向，結合“十五五”時期保障性租賃住房發展要求，各中心城區（含浦東外環內區域）推進二手住房收購工作，並加快改造出租，切實增加中心城區保障性租賃住房供應。"
+    },
     {
       "id": "5049058",
       "time": "2026-08-20 12:52:08",
@@ -143759,16 +143781,6 @@
         "國際"
       ],
       "text": "【“十五五”首條千萬噸級原油管道投產】國家管網集團8月13日宣佈，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連雲港至淮安段投產一次成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。連儀管道連淮段投產後，與已投運的日儀管道聯通，將原油最終輸送至我國東部原油樞紐儀徵站，日輸量最高可達7萬噸，服務保障江蘇省及長江沿線煉化企業，有效提升長江沿線使用者用能多通道資源保障能力，對我國長三角區域油氣管網布局最佳化、進口原油資源統一調配等發揮重要作用。（新華社）"
-    },
-    {
-      "id": "5038616",
-      "time": "2026-08-13 12:54:53",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元走強 據稱日本政府將支援加快日本央行加息步伐】知情人士透露，首相高市早苗領導的政府支援日本央行近期加息，預計下一次加息可能在9月或10月，受此訊息影響，日元兌美元走強，日本國債下跌。日元兌美元匯率上漲0.1%，至159.19。日本國債期貨下跌9個基點至126.48。"
     }
   ]
 }
