@@ -1,7 +1,75 @@
 {
   "date": "2026-08-20",
-  "count": 669,
+  "count": 676,
   "items": [
+    {
+      "id": "5048814",
+      "time": "2026-08-20 09:11:42",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "SK海力士股價延續漲勢，最新報167.4萬韓元，漲幅12%。"
+    },
+    {
+      "id": "5048811",
+      "time": "2026-08-20 09:10:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海博思創等投資成立新能源科技新公司】企查查APP顯示，近日，濱州博創棣濱新能源科技有限公司成立，經營範圍包含：風力發電技術服務；工程和技術研究和試驗發展；太陽能發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由海博思創全資子公司博清智濱（無棣）新能源科技有限公司等共同持股。"
+    },
+    {
+      "id": "5048810",
+      "time": "2026-08-20 09:10:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率下跌2.5個基點，至2.095%。"
+    },
+    {
+      "id": "5048809",
+      "time": "2026-08-20 09:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中華全國總工會印發《中國工運事業和工會工作“十五五”規劃》】近日，中華全國總工會印發《中國工運事業和工會工作“十五五”規劃》（以下簡稱《規劃》）。《規劃》是“十五五”時期推動工會工作高質量發展的指導性檔案。《規劃》堅持正確方向、堅持服務大局、堅持守正創新、堅持求真務實，從牢牢把握工會工作正確政治方向、加強職工群眾思想政治引領、動員激勵廣大職工群眾建功立業創新創造、推動產業工人隊伍建設改革走深走實、提升工會維權服務工作質效、用心用情用力解決重點群體急難愁盼問題、加強工會工作法治化建設、堅決維護勞動領域政治安全、健全縱橫交織覆蓋廣泛的工會組織體系、加強工會外事和港澳臺工作、深化工會改革和建設等11個方面，分領域部署“十五五”時期工會重點工作任務，並明確了大國工匠人才培育、勞模工匠創新工作室、工會就業服務、建會入會等8個方面12項具體指標。"
+    },
+    {
+      "id": "mkt:01a01cb8-5463-7aab-90a5-2a9a7d0afce1",
+      "time": "2026-08-20 09:10:37",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan 5-year government bond yield fell 2.5 bps to 2.095%."
+    },
+    {
+      "id": "te:economy:576655",
+      "time": "2026-08-20 09:10:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Hold Decline on Increased Buybacks — Long-term Treasury yields held their sharp decline after the Treasury Department announced plans to double the size of buybacks for long-dated securities. The 10-year Treasury yield traded around 4.64% after reaching a 20-month high of 4.75% earlier this week, while the 30-year yield fell below 5.2% after hitting a 19-year high of 5.34%. The government said it would at least double the size of liquidity-support buyback operations covering securities with maturities ranging from 10 to 30 years. Scott Bessent previously described the buyback program as an important tool for addressing market dislocations and improving liquidity. Treasury bonds came under heavy pressure in August as surging AI-related debt issuance, rising deficit spending and concerns over persistent inflation pushed up estimates for term premia. Meanwhile, minutes from the Fed’s July meeting confirmed that some policymakers favored raising rates this year to prevent stronger inflationary pressures from emerging later."
+    },
+    {
+      "id": "5048808",
+      "time": "2026-08-20 09:09:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【範波在蘇州高新區開展因地制宜發展新質生產力和抓專案投資專題調研】8月19日，蘇州市委書記範波在蘇州高新區開展因地制宜發展新質生產力和抓專案投資專題調研，強調要深入學習貫徹習近平總書記對江蘇、蘇州工作重要講話重要指示精神，認真落實省委、省政府工作要求，堅定不移以科技創新引領新質生產力發展，持續招大引強、培優育強，加快推進太湖光谷建設，打造更具競爭力的一流高科技園區。（蘇州釋出）"
+    },
     {
       "id": "te:economy:576653",
       "time": "2026-08-20 09:07:44",
