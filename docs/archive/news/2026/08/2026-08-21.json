@@ -1,7 +1,67 @@
 {
   "date": "2026-08-21",
-  "count": 222,
+  "count": 228,
   "items": [
+    {
+      "id": "mkt:01a02065-d4b0-7aab-90bf-d74a2de40598",
+      "time": "2026-08-21 02:18:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's foreign ministry said it is arranging the return of nationals the US deported to Central America and has formally protested the practice to US authorities."
+    },
+    {
+      "id": "mkt:01a02065-cf28-7aab-90bf-cea329b36b75",
+      "time": "2026-08-21 02:18:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Qatar to coordinate with Egypt to press for US‑Iran ceasefire, urges open navigation in Hormuz and Bab al‑Mandeb】Qatari prime minister and foreign minister Al Thani, speaking at a joint news conference with Egypt’s foreign minister, said Qatar will continue coordinating with Egypt to press for a final, sustainable agreement on the Iran issue to end the war and military escalation. Qatar’s foreign ministry said diplomats agreed the region has been in a difficult situation since the outbreak of the US‑Iran war, with extremely serious negative effects across the region. Al Thani stressed the need to ensure freedom, safety and protection of navigation in the Strait of Hormuz and Bab al‑Mandeb, saying international shipping must not be held hostage or used as political blackmail and condemning actions that obstruct maritime traffic."
+    },
+    {
+      "id": "5050724",
+      "time": "2026-08-21 02:18:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦證交所集團-理柏（LSEG Lipper）：8月8日當週，美國高評級債券基金獲得18.8億美元資金流入，連續地19周流入。"
+    },
+    {
+      "id": "5050723",
+      "time": "2026-08-21 02:18:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥外交部表示，目前正在組織被美國驅逐至中美洲的本國公民安全返回，墨政府已就此做法向美國當局表達反對立場。"
+    },
+    {
+      "id": "5050722",
+      "time": "2026-08-21 02:17:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【塞內加爾對美國製裁塞籍國際刑事法院官員表示關切】塞內加爾外交部20日發表公報，對美國日前宣佈制裁塞內加爾籍國際刑事法院高階出庭律師阿卜杜拉耶·塞耶表示“深切關切”，並重申對國際刑事法院的支援。公報重申塞內加爾對多邊主義、國際法和國際司法獨立的支援，並表示將繼續同非洲及國際夥伴開展磋商，以維護國際刑事法院的完整性、獨立性和有效運作。美國國務卿魯比奧18日發表宣告稱，美國當天對國際刑事法院院長、日本籍的赤根智子和國際刑事法院高階出庭律師、塞內加爾籍的阿卜杜拉耶·塞耶實施制裁。魯比奧稱這兩人“直接參與了國際刑事法院針對那些未同意接受其管轄的國家的官員所進行的調查、逮捕、拘留或起訴行動”。近年來，美國以國際刑事法院調查美方人員以及對以色列總理和前防長髮出逮捕令為由，多次宣佈制裁國際刑事法院法官和檢察官。（新華社）"
+    },
+    {
+      "id": "mkt:01a02063-a056-7aab-90bf-c414829c0c75",
+      "time": "2026-08-21 02:16:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XOM.N",
+        "Impact mixed"
+      ],
+      "text": "Monitoring data show a floating production facility (FPSO) for an Exxon Mobil (XOM.N)-led consortium has arrived in Guyana waters."
+    },
     {
       "id": "5050721",
       "time": "2026-08-21 02:15:45",
