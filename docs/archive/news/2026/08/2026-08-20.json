@@ -1,7 +1,140 @@
 {
   "date": "2026-08-20",
-  "count": 2447,
+  "count": 2462,
   "items": [
+    {
+      "id": "5050028",
+      "time": "2026-08-20 19:31:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國5年期國債收益率上漲1個基點，2008年以來首次觸及3%。"
+    },
+    {
+      "id": "5050027",
+      "time": "2026-08-20 19:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "上週外資淨賣出價值 3.06 億美元的土耳其債券。"
+    },
+    {
+      "id": "5050026",
+      "time": "2026-08-20 19:31:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三生國健：2026年上半年淨利潤3.71億元，同比增長95.1%】三生國健公告，2026年上半年營業收入8.66億元，同比增長34.84%。歸屬於上市公司股東的淨利潤3.71億元，同比增長95.10%，上年同期淨利潤1.9億元。扣非淨利潤2.6億元，同比增長65.15%。公司擬向全體股東每10股派發現金紅利0.42元（含稅）。"
+    },
+    {
+      "id": "mkt:01a01ef0-67b4-7aab-90b4-66180e5b42ba",
+      "time": "2026-08-20 19:31:06",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Indian government data: infrastructure output rose 5.4% YoY in July; April–July infrastructure output up 4.3% YoY."
+    },
+    {
+      "id": "5050024",
+      "time": "2026-08-20 19:30:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行資料顯示，截至8月14日，土耳其居民持有的外匯規模為2281.6億美元，一週前該數值為2274.4億美元。"
+    },
+    {
+      "id": "5050023",
+      "time": "2026-08-20 19:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度 7 月核心工業產值同比增長 5.4%  。"
+    },
+    {
+      "id": "mkt:01a01ef0-0094-7aab-90b4-5f04401f461b",
+      "time": "2026-08-20 19:30:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's core industrial output rose 5.4% YoY in July."
+    },
+    {
+      "id": "mkt:01a01eef-f0fa-7aab-90b4-554f7c696725",
+      "time": "2026-08-20 19:30:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank said FX reserves were $75.17 billion as of Aug. 14, up from $71.02 billion a week earlier."
+    },
+    {
+      "id": "5050021",
+      "time": "2026-08-20 19:30:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百克生物：2026年上半年淨利潤虧損5210.01萬元，虧損同比收窄】百克生物公告，2026年上半年營業收入3.05億元，同比增長6.89%。歸屬於上市公司股東的淨利潤虧損5210.01萬元，上年同期虧損7357.34萬元。扣非淨利潤虧損5351.59萬元，上年同期虧損8223.24萬元。本報告期不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5050020",
+      "time": "2026-08-20 19:30:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【人工智慧+交通運輸：豐富場景供給，深化場景應用】當前，人工智慧正加快賦能千行百業。交通運輸部科技司司長徐文強在交通運輸部20日舉行的專題新聞釋出會上介紹，交通運輸部加快推進人工智慧與交通運輸深度融合，聚焦基礎設施、運載工具與裝備、運輸服務、行業治理4大方向，梳理形成覆蓋鐵、公、水、航、郵全領域860項率先突破場景，並加快構建“1+N+X”綜合交通運輸大模型體系。今年6月，交通運輸部會同國家鐵路局、中國民航局、國家郵政局和國家鐵路集團，印發《“人工智慧+交通運輸”典型應用場景創新行動方案》，全面啟動典型應用場景創新行動。（新華社）"
+    },
+    {
+      "id": "mkt:01a01eee-d570-7aab-90b4-490284e0c580",
+      "time": "2026-08-20 19:29:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose about 3% intraday to $86.77/barrel. Brent crude gained 2.7% intraday to $92.44/barrel."
+    },
+    {
+      "id": "5050019",
+      "time": "2026-08-20 19:29:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新易盛：擬推648.12萬股限制性股票激勵計劃】新易盛8月20日公告，公司釋出2026年限制性股票激勵計劃，擬向激勵物件授予限制性股票總量648.12萬股，佔公司股本總額的0.4648%，授予價格為212元/股。首次授予518.52萬股，激勵物件不超過961人；預留129.60萬股。業績考核目標為2026年營收不低於500億元，2026-2027年累計營收不低於1400億元，2026-2028年累計營收不低於2900億元。"
+    },
+    {
+      "id": "mkt:01a01eed-ccd4-7aab-90b4-42f7d12b321a",
+      "time": "2026-08-20 19:28:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBI deputy governor said expanding the market-maker base, increasing public sector banks' participation and encouraging electronic trading platforms should be advanced as priority tasks."
+    },
+    {
+      "id": "5050018",
+      "time": "2026-08-20 19:28:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首單清潔能源資產機構間REITs擴募成功發行】以碧澄能源為原始權益人、洛能資本擔任資產管理顧問和財務顧問的全國首單分散式清潔能源資產機構間REITs擴募——“興證基實-碧澄能發新能源持有型不動產資產支援專項計劃（碳中和）（2026年第一次擴募並新購入基礎設施專案）”順利完成。本專案是市場首單清潔能源資產機構間REITs擴募專案、深交所首單機構間REITs擴募專案。入池專案仍以上市企業、行業龍頭及大型民企為主，消納穩健、電價均衡，歷史發電量符合預期，現金流表現穩定。據悉，本次擴募獲得眾多保險、信託、資產管理機構及地方國資等多元化投資人的積極響應，首發投資人追加投資。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a01eed-c1cb-7aab-90b4-3ce22fc986db",
+      "time": "2026-08-20 19:28:13",
+      "tags": [
+        "MKT News",
+        "09992.HK",
+        "Impact mixed"
+      ],
+      "text": "【Pop Mart cites overseas mix and store expansion for slight H1 gross margin dip】Pop Mart (09992.HK) reported H1 2026 gross margin of 69.7% versus 70.3% a year earlier. Management said the decline reflects weaker overseas demand for LABUBU, which reduced overseas revenue and weakened mix/scale benefits, and expansion-related pre-opening costs as many new overseas stores are scheduled to open in H2 2026. The company plans to recover margins by optimising the supply chain and global logistics, tightening cost control and improving single-store operating efficiency."
+    },
     {
       "id": "5050017",
       "time": "2026-08-20 19:27:23",
