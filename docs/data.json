@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-20 20:51:03",
-  "count": 15982,
+  "updated": "2026-08-20 20:55:07",
+  "count": 15978,
   "items": [
+    {
+      "id": "5050264",
+      "time": "2026-08-20 20:53:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特交易所批准沙特國民銀行資本就沙特阿美物流股份開展做市業務。"
+    },
+    {
+      "id": "5050263",
+      "time": "2026-08-20 20:53:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "沙特交易所：批准沙特國家銀行資本在BAAN控股集團開展做市活動。"
+    },
+    {
+      "id": "mkt:01a01f3b-84c3-7aab-90b7-e97ac6bee5aa",
+      "time": "2026-08-20 20:53:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "ANB.SR",
+        "Impact bullish"
+      ],
+      "text": "Saudi Exchange (Tadawul) approved SNB Capital to provide market-making services for Arab National Bank shares."
+    },
+    {
+      "id": "5050261",
+      "time": "2026-08-20 20:53:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST利達：股票交易異常波動 提示多項風險】*ST利達公告稱，公司股票於2026年8月18日、8月19日、8月20日連續三個交易日收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動。公司目前生產經營正常，除公司及原董事長顧益明因涉嫌資訊披露違法違規被證監會立案外，不存在應披露未披露重大事項，異常波動期間控股股東、實控人及董監高無買賣公司股票行為。公司提示多項風險：股票已被實施退市風險警示，2026年半年度預計淨虧損3700萬元到5100萬元，控股股東及實控人股份質押比例較高，實控人擬變更事項現階段不具備股權過戶條件。"
+    },
+    {
+      "id": "5050260",
+      "time": "2026-08-20 20:52:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特交易所：批准沙特國家銀行資本在阿拉伯國民銀行開展做市活動。"
+    },
+    {
+      "id": "te:economy:576871",
+      "time": "2026-08-20 20:52:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Producer Price Inflation MoM",
+        "Importance 1"
+      ],
+      "text": "Canada Producer Prices Rebound in July — Canada’s Industrial Product Price Index rose 0.6% month-over-month in July 2026, rebounding from a 1.4% decline in June and exceeding forecasts for a 0.4% drop. The increase was driven by higher energy and petroleum product prices, which rose 6.4% as the resumption of the US-Iran conflict in July added to supply concerns. Refined petroleum energy products climbed 6.9%, led by diesel fuel (+10.4%) and finished motor gasoline (+4.7%). Crude oil shipments through the Strait of Hormuz briefly recovered in early July, pushing crude prices lower during the period. Offsetting some of the increase, primary non-ferrous metal prices fell 5.2%, driven by lower prices for unwrought gold, silver and platinum group metals (-6.9%) and unwrought aluminum and aluminum alloys (-7.0%). Prices for chemicals and chemical products declined 3.4%, mainly due to a 10.8% drop in fertilizers, pesticides and other chemical products."
+    },
+    {
+      "id": "mkt:01a01f3a-7a1a-7aab-90b7-e6605c5ce286",
+      "time": "2026-08-20 20:52:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Latvia says drone shot down Aug 14 originated in Ukraine】On Aug 20 Latvia’s armed forces said a drone that entered its airspace and was shot down on Aug 14 originated in Ukraine. NATO previously said the drone entered the airspace of NATO and EU member Latvia during a Ukrainian strike on a Russian port and was downed by an Italian fighter based in the Baltic region."
+    },
+    {
+      "id": "5050259",
+      "time": "2026-08-20 20:50:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉脫維亞稱此前進入其領空的無人機來自烏克蘭】當地時間20日，拉脫維亞武裝部隊表示，8月14日進入該國領空並被擊落的一架無人機來自烏克蘭。此前，北約方面稱該無人機在烏克蘭對俄羅斯港口發動襲擊期間進入北約和歐盟成員國拉脫維亞領空，隨後被駐紮在波羅的海地區的一架義大利戰鬥機擊落。（央視新聞）"
+    },
     {
       "id": "5050258",
       "time": "2026-08-20 20:50:20",
@@ -146082,128 +146155,6 @@
         "國際"
       ],
       "text": "美聯儲哈瑪克：大量槓桿被用於購買國債。國債是我關注金融穩定的一個領域。還需關注私人信貸，以及人工智慧是否存在泡沫。"
-    },
-    {
-      "id": "mkt:019ffb2f-eb76-7aab-9025-de1958fae1cc",
-      "time": "2026-08-13 20:54:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's HAMMACK said focus should remain on private credit and on whether AI is forming a bubble."
-    },
-    {
-      "id": "5039561",
-      "time": "2026-08-13 20:54:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歐萊新材：向特定物件發行A股股票申請獲上交所受理】歐萊新材公告，公司於2026年8月13日收到上海證券交易所出具的《關於受理廣東歐萊高新材料股份有限公司科創板上市公司發行證券申請的通知》，上交所認為申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。本次向特定物件發行A股股票事項尚需透過上交所稽核，並獲得中國證監會同意註冊後方可實施。"
-    },
-    {
-      "id": "5039560",
-      "time": "2026-08-13 20:53:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【德龍匯能：股價異動 澄清資產注入傳聞並提示風險】德龍匯能公告稱，8月12 - 13日公司股票收盤價格漲幅累計偏離20.87%，屬異常波動。近期有控股股東、實控人“擬注入半導體等資產”的不實傳聞，公司澄清截至公告披露日無資產注入計劃，且未來12個月無重大資產重組計劃。公司仍聚焦天然氣主業，無半導體業務。股東劉鑫於7月30日增持股份至1798.35萬股，佔總股本5.01%。目前公司基本面未變，但股價已嚴重偏離基本面，存在快速下跌風險，提醒投資者注意交易風險。"
-    },
-    {
-      "id": "mkt:019ffb2f-61f5-7aab-9025-d5dcd3987061",
-      "time": "2026-08-13 20:53:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "Fed's Hammack said U.S. Treasuries are an area he monitors for financial stability."
-    },
-    {
-      "id": "5039559",
-      "time": "2026-08-13 20:53:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐仕德首席財務官：日出風電專案營銷程序不太可能在2027年初之前啟動。"
-    },
-    {
-      "id": "mkt:019ffb2f-5917-7aab-9025-caa4ad05336d",
-      "time": "2026-08-13 20:53:31",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "Fed's Hammack said large amounts of leverage are being used to buy government bonds."
-    },
-    {
-      "id": "5039558",
-      "time": "2026-08-13 20:53:06",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲在9月維持利率在3.50%-3.75%區間的機率約為65%，高於PPI報告發布前的約60%。"
-    },
-    {
-      "id": "te:markets:575111",
-      "time": "2026-08-13 20:53:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Hold Slight Gains After PPI — US equity futures remained slightly higher amid soft producer price data, while AI companies mostly held their recent gains. The S&P 500 inched up to a record, while the Dow gained 0.3% and the Nasdaq 100 was flat. Chip stocks and companies with exposure to AI infrastructure held their strong gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and its recent purchase of Decart AI continued to underpin the outlook for compute expenditures. Micron, Nvidia, and Amazon were higher. Meanwhile, headline and core producer prices were lower than expected in July, aligned with the softer price pressures unveiled in yesterday's CPI report and consolidating market expectations that the latest data does note warrant a rate hike by the Federal Reserve next month."
-    },
-    {
-      "id": "mkt:019ffb2e-ba48-7aab-9025-c4282240017f",
-      "time": "2026-08-13 20:52:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【U.S. initial jobless claims tick up; labor-market stability needs more data】U.S. initial jobless claims rose 9,000 to 209,000 in the week ended Aug. 8, the U.S. Department of Labor said Thursday, vs a median estimate of 202,000. Claims remain near historic lows; the increase may reflect typical summer volatility from seasonal hiring patterns and holiday scheduling. Economists said they will wait for more weekly readings before reassessing the recent stability of the labor market."
-    },
-    {
-      "id": "mkt:019ffb2e-0893-7aab-9025-bd2ae2547c8d",
-      "time": "2026-08-13 20:52:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Market pricing shows increased odds the Fed will hold its policy rate at 3.50%-3.75% in September. The market-implied probability is about 65%, up from roughly 60% before the PPI release."
-    },
-    {
-      "id": "5039557",
-      "time": "2026-08-13 20:51:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：加息可能會帶來痛苦，但絕不能任由增長和投資增速過快導致經濟過熱。企業已適應關稅與石油衝擊，展現出韌性與投資活力。"
-    },
-    {
-      "id": "5039556",
-      "time": "2026-08-13 20:51:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國產胰島素製劑首登美國 湖北縣城胰島素賣到美國】胰島素專項集採實施的第五年，國產胰島素製劑首度叩開美國商業化大門。值得關注的是，該批行銷美國的產品，產自集採中的“老面孔”——湖北縣城宜都的集採藥品生產專線。 儘管此前尚未有國產胰島素成品製劑拿到FDA（美國食品藥品監督管理局）上市批件，但“國內集採與歐美市場雙向供貨、共線生產”的模式，已非孤例。 在業界看來，該筆海外訂單更大的行業意義在於中國藥企的生產質量管理體系透過“全球最嚴苛醫藥市場”的驗證，側面回應了公眾對集採藥品質量的隱憂。 隨著集採步入常態化執行階段，國內市場“以價換量”效應正在持續釋放；加之製劑國際化先行在新興國家市場進入兌現期，近日，國家醫保局組織的媒體調研中，第一財經瞭解到，多家集採中標企業已重回增長軌道。 （第一財經）"
     }
   ]
 }
