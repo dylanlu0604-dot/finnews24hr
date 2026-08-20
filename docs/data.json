@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-21 06:42:23",
-  "count": 16051,
+  "updated": "2026-08-21 06:46:19",
+  "count": 16062,
   "items": [
+    {
+      "id": "mkt:01a02159-a208-7aab-90c2-7cd819825969",
+      "time": "2026-08-21 06:45:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand July trade balance: deficit NZD 1.949 bln; June balance revised from a NZD 23 mln surplus to a NZD 237 mln deficit."
+    },
+    {
+      "id": "5050843",
+      "time": "2026-08-21 06:45:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭7月12個月貿易帳 -52.36億紐元，前值 -37.46億紐元。"
+    },
+    {
+      "id": "mkt:01a02159-8c92-7aab-90c2-735d4432d647",
+      "time": "2026-08-21 06:45:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "New Zealand 12-month trade balance for July: -NZD5.24bln; prior -NZD3.746bln revised to -NZD4.05bln."
+    },
+    {
+      "id": "mkt:01a02159-8688-7aab-90c2-681f0774ae6a",
+      "time": "2026-08-21 06:45:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "New Zealand July exports NZD 7.39 bln; previous value revised from NZD 8.09 bln to NZD 7.83 bln."
+    },
+    {
+      "id": "mkt:01a02159-8651-7aab-90c2-6066c90b1086",
+      "time": "2026-08-21 06:45:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand July imports NZ$9.34 bln, previous NZ$8.07 bln."
+    },
+    {
+      "id": "te:markets:576968",
+      "time": "2026-08-21 06:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Surges by 14.00% — Top crypto gainers are XRP (14%), Bitcoin (5.05%), Binance (4.59%) and Ether (2.87%)."
+    },
+    {
+      "id": "mkt:01a02159-622a-7aab-90c2-5c1bc91ec6d0",
+      "time": "2026-08-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Exports (Jul) | actual 7390000000.000001B | previous 8090000000.000001B"
+    },
+    {
+      "id": "mkt:01a02159-621c-7aab-90c2-4bea25014544",
+      "time": "2026-08-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Imports (Jul) | actual 9340000000B | previous 8070000000B"
+    },
+    {
+      "id": "mkt:01a02159-6217-7aab-90c2-44310ddcd52f",
+      "time": "2026-08-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | 12-Month Trade Balance (Jul) | actual -5240000000B | previous -3746000000B"
+    },
+    {
+      "id": "mkt:01a02159-6224-7aab-90c2-553f65307a77",
+      "time": "2026-08-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Trade Balance (Jul) | actual -1949000000B | previous 23000000B"
+    },
+    {
+      "id": "5050842",
+      "time": "2026-08-21 06:43:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4580美元/盎司，日內漲0.17%。"
+    },
     {
       "id": "mkt:01a02155-8d57-7aab-90c2-394e9930dfcd",
       "time": "2026-08-21 06:40:49",
