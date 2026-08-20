@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-20 22:43:41",
-  "count": 15901,
+  "updated": "2026-08-20 22:47:34",
+  "count": 15888,
   "items": [
+    {
+      "id": "mkt:01a01fa3-a090-7aab-90ba-2dba6eb3f8f3",
+      "time": "2026-08-20 22:46:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yonhap reported South Korea's President Lee met with the chairman of SK Group on Thursday."
+    },
+    {
+      "id": "5050421",
+      "time": "2026-08-20 22:45:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：韓國總統李在明週四會見SK集團會長。"
+    },
+    {
+      "id": "5050420",
+      "time": "2026-08-20 22:44:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱對沙特發動無人機襲擊】當地時間20日傍晚，葉門胡塞武裝表示，對沙特目標實施了兩次無人機襲擊行動，以回擊沙特侵犯葉門薩達省領空。第一次行動襲擊了納季蘭機場的一個“敏感目標”，第二次行動襲擊了納季蘭的沙特阿美石油公司。沙特方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5050419",
+      "time": "2026-08-20 22:44:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈沃斯集團與資料中心提供商就電力用地出售達成排他性協議。"
+    },
     {
       "id": "5050418",
       "time": "2026-08-20 22:42:09",
@@ -145274,181 +145307,6 @@
         "Impact bullish"
       ],
       "text": "Fed's Barkin said firms selling to corporate clients are confident in their pricing power, while consumer-facing firms are less certain they can pass rising costs on to consumers."
-    },
-    {
-      "id": "mkt:019ffb97-bb88-7aab-9028-dbdf40c86eaa",
-      "time": "2026-08-13 22:47:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Barkin said the Fed is not currently in a position to provide \"forward guidance\"."
-    },
-    {
-      "id": "mkt:019ffb97-7a77-7aab-9028-d0ed6f828265",
-      "time": "2026-08-13 22:47:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve's Barkin said he is concerned about how long consumer spending among low‑income households can be sustained."
-    },
-    {
-      "id": "mkt:019ffb97-5333-7aab-9028-ca95dcafc3a2",
-      "time": "2026-08-13 22:47:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Barkin said helping market participants understand the Fed's reaction function helps markets function, but overly cautious guidance will lead to constraints."
-    },
-    {
-      "id": "mkt:019ffb97-21dd-7aab-9028-c2e4c57aaf74",
-      "time": "2026-08-13 22:46:53",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Barkin said if overall inflation continues to slow it would help keep expectations stable."
-    },
-    {
-      "id": "mkt:019ffb97-1365-7aab-9028-b846b3990119",
-      "time": "2026-08-13 22:46:49",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Barkin said firms generally dislike layoffs and tend to avoid them, even if they remain cautious about hiring."
-    },
-    {
-      "id": "5039785",
-      "time": "2026-08-13 22:46:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泛歐交易所九月小麥期貨轉跌，此前漲幅悉數回吐，此前有報道稱烏克蘭就針對民用目標實施黑海休戰提出提議。"
-    },
-    {
-      "id": "5039784",
-      "time": "2026-08-13 22:46:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯想伺服器儲備訂單3600億元，楊元慶：AI需求剛開始，儲存供應緊張會延續至明年】8月13日，聯想集團（0992.HK）董事長、CEO楊元慶在聯想集團第一財季業績釋出會上表示，相信AI的需求是剛剛開始，還有很大增長空間，儲存的供應緊張今年和明年都會延續。聯想集團基礎設施業務集團（ISG）業務尤其亮眼，伺服器業務大爆發。截至2026年6月末，聯想ISG第一財季營收實現579億元人民幣，同比增長98%；運營利潤約53億元人民幣，同比增98%；運營利潤率為9.1%，同比提升11.1個百分點，環比提升5.5個百分點。同時，AI伺服器儲備訂單從上一財季的1400億元，大幅提高至3600億元。這意味著ISG已正式成長為聯想集團利潤與增長雙引擎。（澎湃）"
-    },
-    {
-      "id": "mkt:019ffb96-d64e-7aab-9028-b586d539ffee",
-      "time": "2026-08-13 22:46:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Barkin said he is torn between two views: on one hand, inf has exceeded the target for more than five years; on the other, inf surged in two distinct episodes and is now moderating."
-    },
-    {
-      "id": "mkt:019ffb96-5dec-7aab-9028-ae5be4348047",
-      "time": "2026-08-13 22:46:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed's Barkin said he does not believe the labor market is as strong as the data suggest."
-    },
-    {
-      "id": "mkt:019ffb96-4541-7aab-9028-a7a7becef810",
-      "time": "2026-08-13 22:45:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Barkin said markets' understanding of the Fed's thinking would aid policy implementation."
-    },
-    {
-      "id": "mkt:019ffb96-42b4-7aab-9028-9c88dec42592",
-      "time": "2026-08-13 22:45:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Barkin: Excessive forward guidance limits the Fed's flexibility."
-    },
-    {
-      "id": "mkt:019ffb96-2a9d-7aab-9028-979a701dd2ee",
-      "time": "2026-08-13 22:45:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Barkin said it is difficult to judge whether interest rates are at restrictive levels."
-    },
-    {
-      "id": "mkt:019ffb96-1385-7aab-9028-8a03f2ff26ee",
-      "time": "2026-08-13 22:45:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Barkin said the U.S. labor market remains broadly balanced but vulnerabilities persist."
-    },
-    {
-      "id": "5039782",
-      "time": "2026-08-13 22:45:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金： 勞動力市場實際強度不及資料表現。"
-    },
-    {
-      "id": "5039781",
-      "time": "2026-08-13 22:45:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "巴爾金：過度前瞻指引會束縛美聯儲。"
-    },
-    {
-      "id": "5039780",
-      "time": "2026-08-13 22:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲打死加沙市警察局長】巴勒斯坦加沙地帶內政部門13日發表宣告說，以色列軍方在加沙城西南沿海的拉希德公路空襲了加沙市警察局長阿布·卡米勒的車輛，致其身亡。 當地訊息人士和目擊者稱，以戰機向該車輛發射3枚導彈，阿布·卡米勒當場身亡，另有3人受傷，車輛被完全摧毀。(新華社)"
-    },
-    {
-      "id": "5039778",
-      "time": "2026-08-13 22:44:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【元立光電北交所IPO將於8月20日上會】8月13日，據北交所網站披露，北交所上市委員會定於8月20日上午9時召開2026年第77次審議會議，屆時將審議東莞市元立光電股份有限公司的首發事項。"
     }
   ]
 }
