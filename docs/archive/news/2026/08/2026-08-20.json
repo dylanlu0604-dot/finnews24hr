@@ -1,7 +1,195 @@
 {
   "date": "2026-08-20",
-  "count": 2766,
+  "count": 2787,
   "items": [
+    {
+      "id": "mkt:01a01f31-e379-7aab-90b7-8cf0ac455151",
+      "time": "2026-08-20 20:42:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Micron launches Micron Research Labs, plans $10 billion investment over next decade】Micron Technology said it will establish Micron Research Labs and invest $10 billion over the next ten years. The center, anchored at its Boise flagship campus in the US, will unite customers, academia, government and the semiconductor ecosystem to pursue breakthroughs beyond the current technology roadmap. Research priorities are key memory technologies, advanced memory-and-compute architectures, packaging and next-generation semiconductor manufacturing. The program will fund university collaborations, global satellite labs and deep ecosystem partnerships focused on next-generation technologies for the AI era."
+    },
+    {
+      "id": "5050239",
+      "time": "2026-08-20 20:42:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金剛光伏：延期披露2026年半年度報告至8月26日】金剛光伏(300093.SZ)公告稱，公司原定於2026年8月24日披露《2026年半年度報告》，因半年度報告工作量大、過程繁雜，為保證資訊披露的準確性和完整性，經向深圳證券交易所申請，將披露時間延期至2026年8月26日。公司董事會對本次調整定期報告披露時間給投資者帶來的不便深表歉意。"
+    },
+    {
+      "id": "mkt:01a01f31-3a61-7aab-90b7-86035ac7d6d4",
+      "time": "2026-08-20 20:41:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "DALY: Fed must indeed focus on achieving its inflation target."
+    },
+    {
+      "id": "5050238",
+      "time": "2026-08-20 20:41:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：美聯儲必須切實專注於實現通脹目標。"
+    },
+    {
+      "id": "mkt:01a01f31-0692-7aab-90b7-7965ac98ce89",
+      "time": "2026-08-20 20:41:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "DALY: The Federal Reserve will continue to carry out its responsibilities regardless of actions by the U.S. Treasury."
+    },
+    {
+      "id": "5050237",
+      "time": "2026-08-20 20:41:31",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：美聯儲將恪守自身職責，不受國債市場舉措影響。"
+    },
+    {
+      "id": "te:economy:576866",
+      "time": "2026-08-20 20:41:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Philadelphia Fed Manufacturing Index",
+        "Importance 2"
+      ],
+      "text": "Philadelphia Factory Growth Strongest since 2021 — The Philadelphia Fed Manufacturing Index rose to 47.4 in August 2026 from 41.4 in July, its highest level since April 2021 and well above expectations of 25. Nearly 57% of surveyed companies reported higher activity, while only 10% recorded declines. However, new orders eased to 30.1 and shipments fell to 27.7, although both remained at relatively strong levels. The employment index jumped to 27.9, its highest reading since April 2022, pointing to continued job creation in manufacturing. Price pressures also moderated, as the prices-paid index declined to 40.9 and the prices-received measure fell to 17.7, although both remained elevated. Looking ahead, manufacturers became considerably more optimistic. The future general activity index surged 39 points to 73.6, its strongest reading since August 1983."
+    },
+    {
+      "id": "5050236",
+      "time": "2026-08-20 20:41:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：業績預測基於燃油、關稅維持當前水平的假設。"
+    },
+    {
+      "id": "te:economy:576865",
+      "time": "2026-08-20 20:41:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "House Price Index MoM",
+        "Importance 1"
+      ],
+      "text": "Canada New Housing Prices Edge Down in July — Canada’s new housing prices fell 0.1% month-on-month in July 2026, matching the pace of decline in June and missing market expectations for a flat reading. The decline remained the smallest since prices last increased in February, as land prices (-0.2% vs -0.4%) and house-only prices (-0.1% vs -0.3%) declined, albeit at a slower pace than the previous month. On an annual basis, new housing prices fell 2.3%, unchanged from June."
+    },
+    {
+      "id": "5050235",
+      "time": "2026-08-20 20:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美光在美設立研究實驗室 未來十年將提供100億美元投資支援】美光科技8月20日宣佈在美國愛達荷州成立美光研究實驗室，將在未來十年提供100億美元投資支援。該實驗室旨在支援關鍵技術領域的前沿研究，涉及關鍵儲存技術、先進儲存和計算架構、封裝以及未來半導體制造等。"
+    },
+    {
+      "id": "mkt:01a01f2f-bc33-7aab-90b7-73e9a2765717",
+      "time": "2026-08-20 20:40:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【NDRC Director Zheng Zhaojie convenes private firms on stabilizing activity, boosting effective investment】Aug 20 — NDRC Director Zheng Zhaojie convened a roundtable with leaders of five private companies from electrical equipment, pharmaceutical-equipment, consumer services, smart terminals and textiles/metallurgical chemicals to solicit proposals on stabilizing economic activity and promoting effective investment. Zheng said the NDRC will implement guidance from the Central Politburo meeting and follow the State Council’s 12th plenary deployment, leverage existing policy measures and timely design practical incremental policies, coordinate major projects under the 15th Five-Year Plan and six-network planning, and advance construction and new-project initiatives. He said the commission will improve long-term mechanisms for private participation in major national projects, remove implicit barriers, broaden scenario openness, strengthen factor support and protect legal rights to mobilize private investment and support a shift to new, higher-quality growth."
+    },
+    {
+      "id": "mkt:01a01f2f-b80d-7aab-90b7-6a4b646d2d47",
+      "time": "2026-08-20 20:40:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields"
+      ],
+      "text": "DALY said it is premature to discuss U.S. Treasury issuance patterns; the Federal Reserve will find ways to achieve its policy objectives."
+    },
+    {
+      "id": "5050234",
+      "time": "2026-08-20 20:40:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【伊戈爾：2026年半年度淨利潤1.12億元同比增6.91%】伊戈爾公告，2026年半年度營業收入26.84億元，同比增長8.79%；歸屬於上市公司股東的淨利潤1.12億元，同比增長6.91%；歸屬於上市公司股東的扣除非經常性損益的淨利潤9871.33萬元，同比增長3.13%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050233",
+      "time": "2026-08-20 20:40:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【延華智慧：2026年上半年淨利潤虧損1137.19萬元，由盈轉虧】延華智慧公告，2026年上半年營業收入1.6億元，同比下降26.11%。歸屬於上市公司股東的淨利潤虧損1137.19萬元，上年同期淨利潤538.4萬元。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1534.45萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050232",
+      "time": "2026-08-20 20:40:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：美聯儲將找到實現其政策目標的方法。"
+    },
+    {
+      "id": "5050231",
+      "time": "2026-08-20 20:39:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：現在討論國債發行模式還為時尚早。"
+    },
+    {
+      "id": "5050230",
+      "time": "2026-08-20 20:39:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：爾瑪更新業績展望的假設前提是燃油價格維持當前水平，這將導致額外支出增加逾20億美元。"
+    },
+    {
+      "id": "mkt:01a01f2f-1a3f-7aab-90b7-647a5ea89ffb",
+      "time": "2026-08-20 20:39:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's Daly said rising bond yields do not signal a policy shift."
+    },
+    {
+      "id": "5050229",
+      "time": "2026-08-20 20:38:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【鄭柵潔主持召開民營企業座談會 圍繞穩定經濟執行促進有效投資聽取意見建議】為深入貫徹中央政治局會議精神，落實國務院第十二次全體會議部署，8月20日，國家發展改革委主任鄭柵潔主持召開座談會，圍繞穩定經濟執行、促進有效投資聽取民營企業意見建議。來自電氣裝置、製藥裝備、消費服務、智慧終端、紡織服裝及冶金化工領域的特銳德電氣、楚天科技、譽存科技、雷鳥創新、鄂爾多斯資源等5家企業負責人參加座談會。座談會上，企業負責人圍繞企業和所處行業發展現狀、投資前景、困難問題等先後發言。大家普遍認為，今年以來，我國經濟在外部多重衝擊挑戰、內部深刻結構轉型中頂壓前行，呈現動能向新、結構向優的發展態勢，市場空間和機遇廣闊，企業發展信心堅定，下一步將持續深耕主業、加大投資佈局、深化科技創新、促進就業增收，為推動高質量發展作出更大貢獻。同時，參會企業還圍繞最佳化投資服務、促進國企民企協同發展、規範市場競爭秩序、拓寬融資渠道、支援傳統產業改造升級等方面提出意見建議。鄭柵潔認真傾聽參會企業的發言，在交流互動中逐一回應企業關切和訴求。他表示，宏觀經濟與微觀主體密不可分，民營企業長期在市場一線、創新前沿，對宏觀政策的感知直接靈敏，我們堅持與民營企業常態化溝通交流，是為了更好了解企業真實訴求，不斷提升宏觀政策的精準性、有效性。當前，受內外部因素疊加影響，一些行業企業面臨困難增多，但我國經濟從來都是在戰勝挑戰中發展、在歷經考驗中壯大，希望廣大民營企業家堅定發展信心，在新舊動能轉換過程中把握市場機遇、深挖投資潛力，積極參與國家重大戰略和重大工程，投資佈局產業鏈新領域新賽道，在市場競爭中取得更好發展、實現更大作為。國家發展改革委將深入貫徹落實中央政治局會議精神，按照國務院第十二次全體會議部署，充分發揮存量政策效能，及時謀劃出臺務實管用的增量政策，協同推進“十五五”規劃《綱要》重大工程和“六張網”規劃建設，紮實推進“兩重”建設和“兩新”工作，完善民營企業參與國家重大專案建設長效機制，進一步破除隱性壁壘、擴大場景開放、強化要素支援、保護合法權益，充分激發民間投資活力，推動經濟持續向新向優向好發展。國家發展改革委副主任沈竹林，辦公廳、綜合司、民營局主要負責同志和投資司負責同志參會。"
+    },
     {
       "id": "mkt:01a01f2e-17e9-7aab-90b7-5931aaf99e92",
       "time": "2026-08-20 20:38:29",
@@ -294,6 +482,15 @@
       "text": "DALY: Short-term yields indicate markets understand the Fed's reaction function."
     },
     {
+      "id": "em:qqyh_mlc:202608203848028330",
+      "time": "2026-08-20 20:34:53",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲戴利表示，美債長期收益率的上升是一個全球性問題，削弱了對美聯儲的政策訊號作用。"
+    },
+    {
       "id": "5050213",
       "time": "2026-08-20 20:34:49",
       "tags": [
@@ -301,6 +498,15 @@
         "國際"
       ],
       "text": "美聯儲戴利：短期收益率顯示市場理解美聯儲的反應函式。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608203848030575",
+      "time": "2026-08-20 20:34:47",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲戴利表示，債券收益率上行並不構成政策調整訊號。"
     },
     {
       "id": "5050212",
