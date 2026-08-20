@@ -1,7 +1,115 @@
 {
   "date": "2026-08-20",
-  "count": 2827,
+  "count": 2841,
   "items": [
+    {
+      "id": "5050273",
+      "time": "2026-08-20 20:58:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士國家銀行資本獲許參與阿拉伯國民銀行的做市業務。"
+    },
+    {
+      "id": "mkt:01a01f3f-ae0b-7aab-90b8-0b953bf5a0d8",
+      "time": "2026-08-20 20:57:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Walmart (WMT.N) CEO says full-year inflation will be \"quite low\"."
+    },
+    {
+      "id": "5050272",
+      "time": "2026-08-20 20:57:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：全年通脹水平處於 “相當低” 的區間。"
+    },
+    {
+      "id": "5050271",
+      "time": "2026-08-20 20:57:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【頎中科技：披露回購股份前十大股東持股資訊】頎中科技公告稱，公司董事會已審議透過以集中競價交易方式回購股份的方案，現將董事會公告回購股份決議前一個交易日（2026年8月14日）登記在冊的前十大股東及前十大無限售條件股東持股資訊予以披露。前十大股東中，合肥頎中科技控股有限公司持股3.97億股，佔總股本33.38%；Chipmore Holding Company Limited持股3.02億股，佔總股本25.42%；合肥芯屏產業投資基金（有限合夥）持股1.24億股，佔總股本10.39%。"
+    },
+    {
+      "id": "mkt:01a01f3f-397a-7aab-90b8-010f3c533854",
+      "time": "2026-08-20 20:57:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Turkey, Saudi Arabia and Egypt urged attention to developments in Gaza, Syria and the Strait of Hormuz."
+    },
+    {
+      "id": "5050270",
+      "time": "2026-08-20 20:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其‑沙特‑埃及通話涉及加沙、敘利亞、霍爾木茲海峽議題。"
+    },
+    {
+      "id": "mkt:01a01f3e-bd41-7aab-90b7-ffc98ce5540d",
+      "time": "2026-08-20 20:56:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister Fidan held phone talks with the foreign ministers of Egypt and Saudi Arabia."
+    },
+    {
+      "id": "5050269",
+      "time": "2026-08-20 20:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：土耳其外長菲丹與埃及、沙特外長通電話。"
+    },
+    {
+      "id": "5050268",
+      "time": "2026-08-20 20:56:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周黑鴨：上半年營收14.61億元，同比增長19.50%】8月20日，周黑鴨在港交所公告，上半年營收14.61億元，同比增長19.50%；母公司擁有人應占期內溢利9149.6萬元，同比下降15.2%；調整後基本每股盈利0.05元。"
+    },
+    {
+      "id": "5050267",
+      "time": "2026-08-20 20:55:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "ROBINHOOD執行長：我們向美國兩黨均進行政治捐款。"
+    },
+    {
+      "id": "mkt:01a01f3d-97e7-7aab-90b7-f061b74b135c",
+      "time": "2026-08-20 20:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer and Canada’s lead negotiator will meet in Washington today at 12:15 p.m. ET (00:15 Beijing time tomorrow)."
+    },
+    {
+      "id": "5050266",
+      "time": "2026-08-20 20:54:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：加拿大談判代表將於美國東部時間 12 點 15 分在華盛頓舉行會晤。"
+    },
+    {
+      "id": "5050265",
+      "time": "2026-08-20 20:54:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特證券交易所：做市活動將於8月23日啟動。"
+    },
     {
       "id": "5050264",
       "time": "2026-08-20 20:53:42",
@@ -66,6 +174,15 @@
         "MKT News"
       ],
       "text": "【Latvia says drone shot down Aug 14 originated in Ukraine】On Aug 20 Latvia’s armed forces said a drone that entered its airspace and was shot down on Aug 14 originated in Ukraine. NATO previously said the drone entered the airspace of NATO and EU member Latvia during a Ukrainian strike on a Russian port and was downed by an Italian fighter based in the Baltic region."
+    },
+    {
+      "id": "em:qqyh_mlc:202608203848040060",
+      "time": "2026-08-20 20:50:59",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲戴利：人工智慧發展並未帶來廣泛的通脹溢位效應】據報道，美聯儲戴利表示，人工智慧發展並未帶來廣泛的通脹溢位效應。"
     },
     {
       "id": "5050259",
