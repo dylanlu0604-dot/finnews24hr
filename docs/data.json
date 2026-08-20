@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-20 23:43:50",
-  "count": 16025,
+  "updated": "2026-08-20 23:47:47",
+  "count": 16026,
   "items": [
+    {
+      "id": "5050570",
+      "time": "2026-08-20 23:46:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "迪爾公司股價漲幅進一步擴大，最新上漲9.3%，觸及盤中高點。"
+    },
+    {
+      "id": "5050569",
+      "time": "2026-08-20 23:45:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財長貝森特：我搞不明白油價是怎麼回事，即將宣佈的經濟措施或促使油價回落 】美國財政部長斯科特·貝森特（Scott Bessent）在接受記者採訪時，對近期原油市場的劇烈波動表達了困惑。他直言：“今天油價飆升，我實在不明白是怎麼回事。”針對當前的高油價及中東局勢，貝森特釋放了明確的政策訊號。他表示，美國政府即將宣佈的“經濟措施將意味著油價會更快下降”。據悉，貝森特計劃於下週一召開專門的新聞釋出會，就針對伊朗的相關計劃及應對舉措進行詳細討論。此前他曾多次暗示，美國正準備對伊朗實施“前所未見”的經濟孤立措施，試圖透過極限經濟施壓而非直接軍事行動來解決問題。"
+    },
+    {
+      "id": "5050568",
+      "time": "2026-08-20 23:45:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【沃爾瑪股價大跌 此前公佈美國同店銷售增速創逾六年新低】沃爾瑪的季度銷售不及預期，這一罕見的失利可能會引發市場擔憂，這家領先的大型零售商正在隨增長放緩的美國經濟一同減速。業績報告顯示，不含燃料的美國同店銷售在第二季度增長2.6%，這低於彭博彙總的分析師最低預期。主要受藥房業務定價壓力拖累，這一增速創下逾六年來的最低水平。週四紐約市場開盤後，沃爾瑪股價一度下跌8.7%，創2022年7月以來最大盤中跌幅。該股截至週三收盤年內累計上漲2.6%。"
+    },
+    {
+      "id": "te:economy:576921",
+      "time": "2026-08-20 23:45:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10-Year Bund Yield Holds at 15-year High — Germany’s 10-year Bund yield remained near 3.25%, close to its highest level since March 2011, as investors assessed rising inflation risks, increased public spending and higher energy costs. Oil prices were trading near three-week highs, while European natural gas prices climbed to their highest level since January 2023 amid supply disruptions linked to the Middle East, adding to concerns that inflationary pressures could persist. Eurozone inflation accelerated to 2.9% in July, well above the European Central Bank’s 2% target, strengthening expectations that policymakers may need to maintain a tighter monetary stance for longer. Higher energy costs could further complicate the ECB’s efforts to bring inflation back toward target, particularly if supply disruptions persist. German government bonds also followed the broader global fixed-income selloff, with US Treasury yields rising as the initial support from the Treasury’s expanded buyback programme faded."
+    },
+    {
+      "id": "te:markets:576920",
+      "time": "2026-08-20 23:44:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "General Electric Aerospace Stock Price Hits 4-week Low — General Electric Aerospace shares decreased to 347.37 USD, the lowest since July 2026. Over the past 4 weeks, General Electric Aerospace gained 2%, and in the last 12 months, it increased 29.33%."
+    },
+    {
+      "id": "te:markets:576919",
+      "time": "2026-08-20 23:44:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Extends Losing Streak to Eight Sessions — The CAC 40 shed 0.6% to close at 8,453 on Thursday, extending its losing streak to an eighth consecutive session and hitting its lowest level in three weeks. Oil prices remained elevated after US President Donald Trump unveiled what he described as a “crushing economic operation” against Iran following the collapse of negotiations between the two countries. Geopolitical risks raised risk aversion, weighing on luxury stocks, while inflation concerns pressured financials. LVMH lost 2.4%, Hermes shed 1.4% and Kering tumbled 3.5% as concerns mounted over weakening demand in China, where increased scrutiny of offshore wealth and tax avoidance has curbed spending among high-net-worth consumers. BNP Paribas lost 0.6%, AXA shed 0.9% and Societe Generale retreated 0.6%. Industrials also posted losses, with Airbus down 1.4%, Safran losing 1.6% and Thales retreating 1.3%. In contrast, TotalEnergies added 1% on higher oil prices."
+    },
+    {
+      "id": "5050567",
+      "time": "2026-08-20 23:44:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國 9 月天然氣期貨結算價報 161.23 便士 。"
+    },
+    {
+      "id": "mkt:01a01fd7-90f6-7aab-90bd-695fea498cfa",
+      "time": "2026-08-20 23:43:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY is up over 0.50% intraday, trading at 158.94."
+    },
     {
       "id": "mkt:01a01fd6-5a65-7aab-90bd-6723b318c5d0",
       "time": "2026-08-20 23:42:16",
@@ -146572,69 +146658,6 @@
         "Important"
       ],
       "text": "The Washington Post reports that about 25% of US \"Reaper\" drones were shot down during the Iran war."
-    },
-    {
-      "id": "te:markets:575157",
-      "time": "2026-08-13 23:47:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Chip Producers Return to Market Lead — US stocks remained mostly higher on Thursday after soft price data consolidated bets of a Federal Reserve rate hold next month. The S&P 500 rose 0.5% to a new record and the Nasdaq jumped 0.8%. Headline and core producer prices were lower than expected in July, aligned with the tame CPI report from yesterday and limiting recent concerns of hawkish signals by FOMC members. Chip stocks extended gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and is aiming to acquire Decart AI for $6 billion continued to underpin the outlook for compute expenditures. Micron, Intel, and Marvel rose more than 6%, while Sandisk surged 15%. In turn, Cisco slumped 8% after it projected a slowdown in sales tied to AI data centers for this fiscal year. Also, bank holdings and industrial companies pulled back with Bank of America and RTX each dropping 1.5%, pressuring the Dow to below the flatline."
-    },
-    {
-      "id": "5039858",
-      "time": "2026-08-13 23:47:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西國家統計局表示，部分客戶沒有可用的資料中心。"
-    },
-    {
-      "id": "5039857",
-      "time": "2026-08-13 23:46:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國在伊朗戰爭中損失了約25%的“死神”無人機。"
-    },
-    {
-      "id": "5039856",
-      "time": "2026-08-13 23:45:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "智利中央銀行以平均每份913.00智利比索的價格賣出7300萬美元外匯遠期合約。"
-    },
-    {
-      "id": "mkt:019ffbcc-4bfa-7aab-902a-5c1da3b33585",
-      "time": "2026-08-13 23:44:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Iran supreme leader adviser says Tehran may escalate conflict if demands unmet】On the 13th an adviser to Iran's supreme leader posted on social media that if Iran's conditions are not met the supreme leader has made a strategic decision to respond by escalating the conflict. He said recent events show the United States lacks the ability to protect its Persian Gulf allies and urged advancing the \"Hormuz Economic Security Mechanism\" as the most durable path to a new regional order and to reduce reliance on U.S. military guarantees."
-    },
-    {
-      "id": "5039855",
-      "time": "2026-08-13 23:44:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖顧問：若條件得不到滿足 或升級衝突】伊朗最高領袖顧問穆赫貝爾13日在社交媒體上發文說，如果伊朗提出的條件得不到滿足，最高領袖已明確作出戰略決策，將採取升級衝突的方式予以回應。穆赫貝爾說，當前局勢已證明美國缺乏保護其波斯灣盟友的能力。他還表示，建立地區新秩序最為持久的路徑，在於推動實施“霍爾木茲經濟安全機制”，以擺脫對美國軍事保障的依賴。（新華社）"
-    },
-    {
-      "id": "5039854",
-      "time": "2026-08-13 23:43:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億萬富豪阿克曼旗下Pershing將推出首支風險投資基金 押注IPO前企業】對沖基金億萬富豪比爾·阿克曼旗下投資公司正在籌備一項新的投資工具，讓投資者能夠投資首次公開募股（IPO）前的公司，成為又一家推出新基金、為投資者提供高增長初創企業投資敞口的公司。阿克曼和公司首席投資官Ryan Israel週三在致股東信中表示，Pershing Square Inc.已啟動Pershing Square Ventures Ltd.基金的籌備工作。這是一種常青型永久資本投資工具，在所投企業上市後仍可繼續持有其股份。"
     }
   ]
 }
