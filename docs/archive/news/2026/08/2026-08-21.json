@@ -1,7 +1,55 @@
 {
   "date": "2026-08-21",
-  "count": 147,
+  "count": 152,
   "items": [
+    {
+      "id": "mkt:01a02033-4a7b-7aab-90be-fcf381089991",
+      "time": "2026-08-21 01:23:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Citigroup trims dollar forecast, cites dovish Fed bets and Treasury repo pressure】Citigroup's FX strategists, led by Daniel Toban, turned short-term bearish on the US dollar, citing markets pricing a more dovish Fed, US midterm election risk and the US Treasury's expansion of repo operations in 10–30yr securities. The team cut its 3-month dollar-index forecast to 98.34 from 102.12. Citi noted Treasury Secretary Bessent's move to expand long‑term Treasury repo as a potential drag on the dollar; the dollar index hit its weakest level since May on Wednesday and traded around 98.9 on Thursday, and the team said downside risks to the dollar have increased after a recent neutral stance."
+    },
+    {
+      "id": "5050678",
+      "time": "2026-08-21 01:23:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特可再生能源基金：我們將為貧困和低收入家庭提供全額補貼，支援安裝5.5萬臺太陽能熱水器，並對中等收入群體給予扶持。"
+    },
+    {
+      "id": "5050677",
+      "time": "2026-08-21 01:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "南非國家電力公司（ESKOM）：相關供應商最長遭限制 10 年。"
+    },
+    {
+      "id": "5050676",
+      "time": "2026-08-21 01:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "南非國家電力公司（ESKOM）啟動供應商懲戒程式，限制 101 家供應商。"
+    },
+    {
+      "id": "mkt:01a02030-547f-7aab-90be-f03e8a77efbc",
+      "time": "2026-08-21 01:20:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "OpenAI has enabled the \"Computer History\" feature in its Mac desktop app for Pro, Business and Enterprise users in the European Economic Area, the UK and Switzerland."
+    },
     {
       "id": "5050675",
       "time": "2026-08-21 01:19:40",

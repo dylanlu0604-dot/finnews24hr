@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-21 01:20:36",
-  "count": 16068,
+  "updated": "2026-08-21 01:24:35",
+  "count": 16071,
   "items": [
+    {
+      "id": "mkt:01a02033-4a7b-7aab-90be-fcf381089991",
+      "time": "2026-08-21 01:23:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Citigroup trims dollar forecast, cites dovish Fed bets and Treasury repo pressure】Citigroup's FX strategists, led by Daniel Toban, turned short-term bearish on the US dollar, citing markets pricing a more dovish Fed, US midterm election risk and the US Treasury's expansion of repo operations in 10–30yr securities. The team cut its 3-month dollar-index forecast to 98.34 from 102.12. Citi noted Treasury Secretary Bessent's move to expand long‑term Treasury repo as a potential drag on the dollar; the dollar index hit its weakest level since May on Wednesday and traded around 98.9 on Thursday, and the team said downside risks to the dollar have increased after a recent neutral stance."
+    },
+    {
+      "id": "5050678",
+      "time": "2026-08-21 01:23:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特可再生能源基金：我們將為貧困和低收入家庭提供全額補貼，支援安裝5.5萬臺太陽能熱水器，並對中等收入群體給予扶持。"
+    },
+    {
+      "id": "5050677",
+      "time": "2026-08-21 01:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "南非國家電力公司（ESKOM）：相關供應商最長遭限制 10 年。"
+    },
+    {
+      "id": "5050676",
+      "time": "2026-08-21 01:22:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "南非國家電力公司（ESKOM）啟動供應商懲戒程式，限制 101 家供應商。"
+    },
+    {
+      "id": "mkt:01a02030-547f-7aab-90be-f03e8a77efbc",
+      "time": "2026-08-21 01:20:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "OpenAI has enabled the \"Computer History\" feature in its Mac desktop app for Pro, Business and Enterprise users in the European Economic Area, the UK and Switzerland."
+    },
     {
       "id": "5050675",
       "time": "2026-08-21 01:19:40",
@@ -147005,28 +147053,6 @@
         "市場"
       ],
       "text": "Rumo首席財務官表示，預計第三季度價格將同比保持穩定，第四季度將上漲。"
-    },
-    {
-      "id": "mkt:019ffc24-7e5d-7aab-902b-ca29ed29487f",
-      "time": "2026-08-14 01:21:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "【Google unveils Gemini 3.7 Flash; flagship Gemini 3.5 Pro still without timetable】Google released Gemini 3.7 Flash, presented as a code-generation and debugging upgrade the company says produces more production-ready code on first pass, reduces developer rework and lowers inference costs. The model will support the AI productivity assistant Gemini Spark and adds safety protections against malicious attacks and misuse in chemical, biological, radiological and nuclear (CBRN) domains. Google has not provided a firm launch timetable for flagship Gemini 3.5 Pro, which has been delayed repeatedly amid slower-than-expected R&D progress, keeping investor focus on the company’s AI roadmap execution. CEO Pichai said Google is accelerating model iteration and has allocated substantial compute to train next-generation Gemini 4."
-    },
-    {
-      "id": "5039924",
-      "time": "2026-08-14 01:21:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上期所基本金屬夜盤多數下跌，不鏽鋼跌0.94%】國際銅漲0.10%，滬銅跌0.03%，滬鋁跌0.62%，滬鋅跌0.12%，滬鉛跌0.81%，滬鎳跌0.88%，滬錫漲0.07%；氧化鋁跌0.07%，鋁合金跌0.79%。"
     }
   ]
 }
