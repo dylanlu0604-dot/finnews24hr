@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-20 16:26:23",
-  "count": 15675,
+  "updated": "2026-08-20 16:30:38",
+  "count": 15670,
   "items": [
+    {
+      "id": "5049464",
+      "time": "2026-08-20 16:29:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒙泰高新：2026年上半年淨利潤虧損1669.66萬元】蒙泰高新公告，2026年上半年營業收入2.57億元，同比增長5.42%。歸屬於上市公司股東的淨利潤虧損1669.66萬元，上年同期虧損3379.95萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5049463",
+      "time": "2026-08-20 16:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻蒙智行：智界RX正式開啟預訂，共光路艙內鐳射雷達預售價29.98萬元起，L3級⾃動駕駛架構預售價35.98萬元起。"
+    },
+    {
+      "id": "mkt:01a01e4a-38d7-7aab-90ae-4733590125a8",
+      "time": "2026-08-20 16:29:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose 2.0% intraday to $85.94/bbl."
+    },
+    {
+      "id": "5049462",
+      "time": "2026-08-20 16:29:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "越南繼續打擊欺詐行為，並與美國貿易代表團開展溝通。"
+    },
+    {
+      "id": "mkt:01a01e49-b0a4-7aab-90ae-3f055b81756f",
+      "time": "2026-08-20 16:29:00",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Wang Yi holds strategic talks with South Korea national security adviser in Seoul】Aug. 20, 2026 — Chinese Politburo member and Central Foreign Affairs Office director Wang Yi met South Korea national security adviser Wei Seong-ro in Seoul to exchange views on regional security. Wang restated China’s principled position on the peninsula, warned against Japanese right‑wing moves he said risk reviving militarism, and said resolving Korea‑peninsula tensions requires removing their root causes and pushing the United States to abandon its hostile policy toward North Korea. He urged steps to restart dialogue and rebuild mutual trust, and said China welcomes a move toward peaceful coexistence between the two Koreas and an eventual conversion of the armistice into a peace mechanism for long‑term stability."
+    },
+    {
+      "id": "5049461",
+      "time": "2026-08-20 16:28:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯頂科技：2026年上半年淨利潤2.52億元，同比下降41.59%】匯頂科技公告，2026年上半年營業收入20.63億元，同比下降8.37%。歸屬於上市公司股東的淨利潤2.52億元，上年同期4.31億元，同比下降41.59%。扣非淨利潤2.16億元，同比下降36.33%。本期未進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5049460",
+      "time": "2026-08-20 16:28:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馮驥稱《黑神話：鍾馗》成本上了個檔次】8月20日，在《黑神話：悟空》釋出兩週年的日子，遊戲科學官方放出了新作品《黑神話：鍾馗》15分鐘的實機操作影片，很快“黑神話新實機”等多個話題衝上熱搜，這一影片在B站播放量3小時就破了300萬。 在這一實機影片中，官方主要展示了主角戰鬥與部分劇情片段，以及超寫實的畫面精度。“電影感很足，很多鏡頭都分不清真假了。”在遊戲開始那一段，很多網友在彈幕中表示，畫面讓人分不清遊戲和現實了。 “只要是遊戲行業的從業者，都能看出這個實機演示的技術力有多恐怖，是國際超一線水平了”，“美術確實還是遊戲科學的獨有長處”。 在評論區，有網友評價“動作捕捉技術上了一個檔次”，馮驥回應稱，“成本也上了一個檔次”。這意味著，第二部作品《黑神話：鍾馗》質感提升了，同時開發成本也將有大幅提升，作為對比，業內此前預估《黑神話：悟空》的開發成本約為3-4億元。（第一財經）"
+    },
+    {
+      "id": "5049459",
+      "time": "2026-08-20 16:26:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報93.46美元/桶。"
+    },
+    {
+      "id": "5049458",
+      "time": "2026-08-20 16:26:41",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國散戶坐過山車後仍不肯“下桌”，舉債入市潮推升“其他貸款”增幅超房貸】當地時間19日，韓國央行釋出的一份初步核實資料顯示，截至今年第二季度末，韓國家庭債務餘額為2019.8萬億韓元（約合9.73萬億元人民幣），史上首次超過2000萬億韓元。同時，比上季度增加了25.9萬億韓元，創下自2021年第三季度（34.8萬億韓元）以來之最。目前，韓國居民部門債務已連續第九個季度保持增勢。所謂“家庭債務”，包括來自銀行、保險公司、貸款公司、金融機構的居民貸款，以及信用卡消費額等。細分這張債務賬單，在總計為1891.3萬億韓元的居民貸款餘額中，住房抵押貸款為1190.8萬億韓元，比上季度增加12.2萬億韓元；其他貸款為700.5萬億韓元，增加12.8萬億韓元。韓國央行表示，其他貸款的增加‌主要‌源於‌股票投資需求。“其他貸款”就構成而言，是指除住房按揭之外的家庭貸款，主體是無抵押信用貸款、透支賬戶，也就是韓國散戶用於舉債入市的主要資金渠道。這也是自2021年第二季度以來，其他貸款增加的金額首次超過住房抵押貸款增加的金額。隨著當前韓國股市企穩回升，韓國散戶又開始新一輪佈局了。8月20日，韓國綜合股價指數（KOSPI）盤中漲幅超5%，一度觸及6904點近期高位。（第一財經）"
+    },
+    {
+      "id": "5049457",
+      "time": "2026-08-20 16:26:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報86.09美元/桶。"
+    },
+    {
+      "id": "5049456",
+      "time": "2026-08-20 16:26:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華脈科技：2026年半年度淨利潤1854.33萬元，實現扭虧為盈】華脈科技公告，2026年上半年營業收入3.94億元，同比增長5.04%。歸屬於上市公司股東的淨利潤1854.33萬元，上年同期為-2180.04萬元，實現扭虧為盈。扣除非經常性損益的淨利潤1394.66萬元，上年同期為-2741.45萬元。"
+    },
+    {
+      "id": "mkt:01a01e46-e346-7aab-90ae-30840883019b",
+      "time": "2026-08-20 16:25:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O",
+        "Impact bearish"
+      ],
+      "text": "Moderna (MRNA.O) fell more than 13% in premarket trading."
+    },
+    {
+      "id": "5049455",
+      "time": "2026-08-20 16:25:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "莫德納盤前跌超13%。"
+    },
     {
       "id": "5049454",
       "time": "2026-08-20 16:25:14",
@@ -143448,172 +143568,6 @@
         "其他"
       ],
       "text": "京東健康 上半年淨利潤34.4億元人民幣；上半年毛利率26.1％，預估25.9％。"
-    },
-    {
-      "id": "5038960",
-      "time": "2026-08-13 16:30:22",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "中國移動上半年淨利潤789.3億元人民幣。中國移動(00941.HK)2026年中期營收5380億元，上年同期5437.6億元。"
-    },
-    {
-      "id": "5038959",
-      "time": "2026-08-13 16:30:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "羅馬尼亞央行行長伊薩雷斯庫：隨著通脹率降至利率以下，我們可以預期降息。"
-    },
-    {
-      "id": "5038958",
-      "time": "2026-08-13 16:30:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【影石創新：2025年度擬派發現金紅利9423.5萬元】影石創新公告稱，2025年度利潤分配方案已獲2026年6月29日的2025年年度股東會審議透過。本次以總股本401,000,000股為基數，每股派發現金紅利0.235元（含稅），共計派發現金紅利94,235,000元（含稅）。股權登記日為2026年8月20日，除權（息）日和現金紅利發放日為8月21日。"
-    },
-    {
-      "id": "5038957",
-      "time": "2026-08-13 16:29:24",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國30年期國債發行利率或創25年新高 高成本舉債恐成新常態】美國政府勢將以25年來最高的利率發行30年期國債。此前長期美債經歷歷史性拋售，引發市場猜測，美國可能進一步將舉債結構轉向較短期限。美國財政部週四晚些時候將進行250億美元30年期國債月度標售。在債券實際標售前進行交易的預發行市場上，這隻新債的預期收益率約為5.24%，若最終達到這一水平，將是2001年以來最高的融資成本。在11月中期選舉前，這對美國總統唐納德·特朗普和財政部長斯科特·貝森特而言都是一個棘手問題。經歷多年高通脹和政府支出高企後，政府融資成本居高不下，已經開始傳導至更廣泛的經濟領域。"
-    },
-    {
-      "id": "5038956",
-      "time": "2026-08-13 16:29:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：中期通脹風險已減弱。"
-    },
-    {
-      "id": "5038955",
-      "time": "2026-08-13 16:29:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度尼西亞對原產於中國的馬口鐵啟動反傾銷期中複審調查】印度尼西亞反傾銷委員會發布第AD.03/430/KADI/PENG/06/2026號公告，應印尼企業PT Pelat Timah Nusantara Tbk.或PT Latinusa, Tbk.申請，對原產於中國的馬口鐵啟動反傾銷期中複審調查，審查是否需要調整中國涉案產品的反傾銷稅。涉案產品的印尼稅號為7210.12.10和7210.12.90。"
-    },
-    {
-      "id": "5038954",
-      "time": "2026-08-13 16:28:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "戴爾科技股價上漲3.8%，惠普公司股價上漲1.1%。"
-    },
-    {
-      "id": "5038953",
-      "time": "2026-08-13 16:28:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中郵科技：2025年度權益分派，每股派現金紅利0.25元】中郵科技公告稱，2025年年度權益分派方案已獲2026年6月25日的2025年年度股東會透過。本次以總股本1.36億股為基數，每股派現金紅利0.25元（含稅），共派發現金紅利3400萬元。股權登記日為2026年8月20日，除權（息）日和現金紅利發放日為8月21日。不同股東型別扣稅情況有別。"
-    },
-    {
-      "id": "5038952",
-      "time": "2026-08-13 16:28:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【上海家化：境外全資子公司收到美國退回關稅及利息466.36萬美元】上海家化(600315)8月13日公告，截至目前，公司境外全資子公司Mayborn USA Inc.累計收到美國退回關稅及利息（扣除中介機構服務費用）466.36萬美元，摺合人民幣約3232.20萬元，佔公司最近一期經審計歸屬於上市公司股東的淨利潤的12.08%。"
-    },
-    {
-      "id": "5038951",
-      "time": "2026-08-13 16:28:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "羅馬尼亞央行行長伊薩雷斯庫：央行至少在一定程度上成功控制了通脹預期。"
-    },
-    {
-      "id": "te:economy:575025",
-      "time": "2026-08-13 16:27:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Czechia Current Account Deficit Largest Since 2022 — The Czech Republic’s current account deficit widened to CZK 80.5 billion in June 2026 from CZK 64.2 billion in the corresponding month a year earlier, far exceeding market expectations of CZK 46.8 billion. This marked the largest deficit since August 2022, as the primary income deficit widened to CZK 125.7 billion from CZK 113.2 billion, while the secondary income deficit rose sharply to CZK 1.7 billion from CZK 0.3 billion. Meanwhile, the goods surplus narrowed to CZK 34.8 billion from CZK 41.5 billion. Conversely, the services surplus increased to CZK 10.8 billion from CZK 9.3 billion."
-    },
-    {
-      "id": "mkt:019ffa3b-fd4d-7aab-901f-2fb0aa021bd9",
-      "time": "2026-08-13 16:27:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign minister warns US officials to beware false intelligence, miscalculation】Iran foreign minister Araghchi posted on social media warning US officials that longstanding US intelligence shortcomings have led to repeated miscalculations, citing past moves against Iran as an example. He said the US has now made a 'more serious' miscalculation over the Strait of Hormuz and added that false intelligence is worse than fake news, urging vigilance."
-    },
-    {
-      "id": "5038950",
-      "time": "2026-08-13 16:27:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "羅馬尼亞央行行長伊薩雷斯庫：維持利率不變的決定證明了責任感。"
-    },
-    {
-      "id": "5038949",
-      "time": "2026-08-13 16:27:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【均勝電子：汽車安全事業部引入戰略投資者增資15億元】均勝電子公告稱，2026年8月13日，興銀投資、中郵投資擬分別向公司控股子公司安徽均勝安全增資5億元、10億元，分別持有其約2.1459%、4.2918%股權，安徽均勝安全仍為公司控股子公司。本次交易已獲公司董事會批准，無需股東會審議。增資款用於償還股東借款和銀行貸款，有助於最佳化資本結構，實現資產負債率目標，提高經營韌性和盈利能力。"
-    },
-    {
-      "id": "5038948",
-      "time": "2026-08-13 16:27:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：我們認為通脹預期的惡化程度是有限的。"
-    },
-    {
-      "id": "mkt:019ffa3b-1af0-7aab-901f-275d61137583",
-      "time": "2026-08-13 16:26:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's central bank governor said the bank has decided to maintain its current policy stance because uncertainty persists, and that the worst phase of the war's impact has passed."
-    },
-    {
-      "id": "5038947",
-      "time": "2026-08-13 16:26:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：我們認為戰爭帶來的影響最壞階段已經過去。"
-    },
-    {
-      "id": "5038946",
-      "time": "2026-08-13 16:26:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：由於不確定性仍在持續，我們決定維持當前政策立場不變。"
     }
   ]
 }
