@@ -1,7 +1,333 @@
 {
-  "updated": "2026-08-20 15:30:14",
-  "count": 15646,
+  "updated": "2026-08-20 15:34:12",
+  "count": 15667,
   "items": [
+    {
+      "id": "mkt:01a01e17-1dde-7aab-90ac-db0787367cc1",
+      "time": "2026-08-20 15:33:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai issues 15th Five-Year Plan for urban renewal and housing development】The Shanghai municipal government office issued the 15th Five-Year Plan for urban renewal and housing development, setting targets through 2030 to: continuously improve the living environment; upgrade and boost efficiency of existing stock; provide higher-quality, more balanced public services; reinforce distinctive urban character; expand and optimize urban ecosystems; and strengthen baseline safety. The plan calls for firmer urban renewal and housing system structures, a more complete legal and policy framework, more diverse development models and pathways, and expanded financing channels."
+    },
+    {
+      "id": "5049295",
+      "time": "2026-08-20 15:33:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗與阿曼就霍爾木茲海峽船舶通行機制談判接近尾聲】當地時間20日，據伊朗方面訊息，伊朗與阿曼就建立霍爾木茲海峽船舶通行共同機制的談判已接近最後階段。眼下，伊朗和阿曼正在商討關於霍爾木茲海峽的諒解協議，制定通航新機制。有訊息稱，這令特朗普感到沮喪。他17日威脅稱，如果阿曼“阻礙”美國重新開放霍爾木茲海峽，美國就會轟炸這一海灣盟友。訊息稱，船隻持續遇襲以及遠低於戰前水平的石油流量表明，美國和伊朗都未能如其所稱“完全控制”霍爾木茲海峽。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01e16-97bd-7aab-90ac-d4eca588e9b3",
+      "time": "2026-08-20 15:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China 2026 box office tops 26.5 bln yuan; summer window sets new records for admissions, screenings】As of now, China’s 2026 total box office including presales has exceeded 26.5 bln yuan; cumulative admissions are over 670 mln and total screenings exceed 96 mln."
+    },
+    {
+      "id": "5049294",
+      "time": "2026-08-20 15:33:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【圓通速遞：首次回購股份113.98萬股，支付總金額1999.53萬元】圓通速遞公告，公司此前審議透過回購方案，擬以不低於3000萬元且不超過5000萬元回購公司股份，回購價格不超過25元/股，用於員工持股計劃或股權激勵。2026年8月20日，公司首次透過集中競價交易方式回購股份113.98萬股，佔總股本0.03%，成交最高價17.63元/股，最低價17.45元/股，支付總金額1999.53萬元（不含交易費用）。"
+    },
+    {
+      "id": "5049293",
+      "time": "2026-08-20 15:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國代表：團結合作是安理會最核心工作方法】中國常駐聯合國代表傅聰19日在安理會工作方法問題公開辯論會上發言，強調團結合作應始終作為安理會最核心的工作方法。傅聰說，作為全球集體安全機制的核心，安理會能否有效履職關乎聯合國權威和信譽，關乎國際和平與安全的前景。安理會工作方法從來不是簡單的技術問題，需要從維護國際和平與安全的大局出發，不斷改進和完善。團結合作是多邊機制的活力之源，應始終作為安理會最核心的工作方法。無論是實質性問題還是程式性事項，安理會成員都應相互尊重、充分協商，妥善管控分歧，全力尋求共識。（新華社）"
+    },
+    {
+      "id": "5049292",
+      "time": "2026-08-20 15:32:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行：在供應衝擊之後，基礎通脹率過高的風險依然存在。"
+    },
+    {
+      "id": "5049291",
+      "time": "2026-08-20 15:32:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行：經濟整體前景基本保持不變。"
+    },
+    {
+      "id": "5049290",
+      "time": "2026-08-20 15:32:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示，貝萊德及其關聯實體將其在柒和伊控股的持股比例從5.1%提升至6.21%。"
+    },
+    {
+      "id": "mkt:01a01e16-0391-7aab-90ac-c940b37f3ef1",
+      "time": "2026-08-20 15:32:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Riksbank: If unexpectedly high inflation this summer marks the start of a larger, more persistent upswing, the bank will move monetary policy toward a tighter stance."
+    },
+    {
+      "id": "5049289",
+      "time": "2026-08-20 15:32:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《上海市教育發展“十五五”規劃》印發】上海市人民政府印發《上海市教育發展“十五五”規劃》，到2030年，推動上海新時代立德樹人新格局構建形成，人才自主培養質量和適配度全面提高，教育服務國家戰略和城市發展更加強勁，優質教育資源供給更加豐富，人民群眾教育獲得感顯著增強，教育事業發展和人力資源開發主要指標接近全球城市先進水平，教育強市建設取得突破性進展，為到2035年辦出有力引領社會主義現代化建設、更好滿足人民群眾期待、充分彰顯上海國際大都市地位的高質量教育奠定堅實基礎。"
+    },
+    {
+      "id": "mkt:01a01e15-eb6e-7aab-90ac-c3694c570397",
+      "time": "2026-08-20 15:32:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【JPMorgan: Weaker yen could push BoJ into earlier hikes?】JPMorgan says the Bank of Japan faces an increasingly difficult policy loop: rising yen depreciation pressure could force earlier rate hikes, but a September move seen by markets as a direct response to the currency may encourage bets on faster follow-ups and raise policy-expectation uncertainty. After June’s tightening, a September hike would shorten the interval to three months, faster than the previously signalled gradual, data-dependent pace. JPMorgan cautions that if markets price a ‘weaker yen → BoJ hikes’ feedback, future tightening may become market-driven, increasing the sensitivity of the yen and JGBs to exchange-rate swings; it therefore expects policy adjustments in September and December, advancing BoJ normalization."
+    },
+    {
+      "id": "5049288",
+      "time": "2026-08-20 15:32:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達50億港元。"
+    },
+    {
+      "id": "5049287",
+      "time": "2026-08-20 15:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年度票房超265億！暑期檔觀影場次、人數再創新高】據網路平臺資料，截至目前2026年度電影總票房（含預售）突破265億元觀影人次超6.7億總場次超9600萬。"
+    },
+    {
+      "id": "5049286",
+      "time": "2026-08-20 15:32:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行：今年晚些時候加息的可能性依然存在。"
+    },
+    {
+      "id": "mkt:01a01e15-918c-7aab-90ac-bde486c45ad5",
+      "time": "2026-08-20 15:32:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【MOFCOM: China-Ecuador trade $9.83 bln in 1H, YoY >20%】MOFCOM said bilateral trade with Ecuador reached $9.83 bln in 1H, up more than 20% YoY. Since the China-Ecuador free trade agreement took effect over two years ago trade has expanded rapidly and China is now Ecuador’s second-largest trading partner; cooperation has deepened in infrastructure and energy/minerals. MOFCOM said Beijing will use joint economic-and-trade mechanisms to push for upgraded bilateral commercial ties during the Ecuadorian president’s visit."
+    },
+    {
+      "id": "te:markets:576777",
+      "time": "2026-08-20 15:32:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.29% Lower — The FTSE 100 Index is losing 31 points. Losses were led by JD Sports Fashion (-10.42%), Antofagasta (-2.05%) and Coca-Cola (-1.82%). Offsetting the fall, top gainers were Weir (1.36%), Babcock International (1.02%) and United Utilities (0.82%)."
+    },
+    {
+      "id": "5049285",
+      "time": "2026-08-20 15:31:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部：今年上半年中厄貿易額達98.3億美元，同比增速超20%】8月20日，商務部召開例行新聞釋出會。有記者提問，本週厄瓜多總統正在中國訪問。請介紹下中國和厄瓜多經貿合作情況，對本次訪問經貿領域成果有何期待？商務部新聞發言人何亞東表示，近年來，在兩國元首戰略引領下，中國與厄瓜多政治互信日益鞏固，務實合作成果豐碩。中厄自貿協定生效兩年多來，雙邊貿易額快速增長，今年上半年達98.3億美元，同比增速超過20%，中國已成為厄瓜多第二大貿易伙伴。雙方還在基礎設施、能礦領域開展了卓有成效的合作。中方願與厄方一道，共同落實好兩國元首重要共識，用好經貿混委會等機制，推動中厄經貿合作提質升級，推動中厄全面戰略伙伴關係不斷走深走實。"
+    },
+    {
+      "id": "5049284",
+      "time": "2026-08-20 15:31:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗說美國從戰爭一開始就敗了】伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪日前在接受採訪時表示，美國在戰爭初期所宣稱的主要目標——推翻伊朗政權並分裂伊朗，從一開始就失敗了。而且在這些目標失敗後，美國毫無戰略，宣佈了至少12個不同的目標。他指出，美國宣佈“我們要佔領哈爾克島”，並對其進行猛烈轟炸，但結果伊朗一個人都沒死。（CCTV國際時訊）"
+    },
+    {
+      "id": "5049283",
+      "time": "2026-08-20 15:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《上海市城市更新和住房發展“十五五”規劃》印發】上海市人民政府辦公廳印發《上海市城市更新和住房發展“十五五”規劃》。其中指出，到2030年，人居環境持續改善，存量資源提質增效，公共服務優質均衡，風貌特色魅力彰顯，生態系統拓展最佳化，本質安全全面加強。城市更新和住房發展體制機制更加健全，法規政策更加完善，模式路徑更加多樣，投融資方式更加豐富。"
+    },
+    {
+      "id": "mkt:01a01e14-ed6b-7aab-90ac-b16c5e08ccab",
+      "time": "2026-08-20 15:31:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank says considerable uncertainty surrounds the outlook and developments require vigilance. Beyond the Middle East conflict, several other risks could affect inflation and economic activity."
+    },
+    {
+      "id": "mkt:01a01e14-c8e9-7aab-90ac-aaf6c62e6dfd",
+      "time": "2026-08-20 15:31:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sweden's Riksbank said the possibility of raising interest rates later this year remains."
+    },
+    {
+      "id": "5049282",
+      "time": "2026-08-20 15:31:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行：若夏季通脹意外高企，是通脹更大幅度、更持久上升的開端，瑞典央行將貨幣政策調整至收緊方向。"
+    },
+    {
+      "id": "te:markets:576776",
+      "time": "2026-08-20 15:31:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.40% Lower — The DAX Index is falling 104 points. Losses were driven by Brenntag (-2.53%), Rheinmetall (-1.64%) and BASF (-1.53%). Biggest rises came from Continental (1.43%), Qiagen NV (1.36%) and BMW (1.23%)."
+    },
+    {
+      "id": "5049281",
+      "time": "2026-08-20 15:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭部長表示，受高溫天氣影響，烏克蘭玉米開收時間將早於往年。"
+    },
+    {
+      "id": "5049280",
+      "time": "2026-08-20 15:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭7月工業生產同比增長5.1%；預期增長5.0%。"
+    },
+    {
+      "id": "te:markets:576775",
+      "time": "2026-08-20 15:30:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Waver — European stocks were little changed on Thursday as investors assessed developments in global bond markets and continued to monitor rising oil prices amid persistent Middle East tensions. The US Treasury’s decision to at least double the size of its longer-dated bond buybacks pushed Treasury yields sharply lower. Meanwhile, uncertainty surrounding the US-Iran standoff continued to weigh on markets as oil prices remained elevated. Among major stocks, ASML and L’Oréal advanced, while automotive shares were among the strongest performers, with BMW gaining 1.4%, Volkswagen 1% and Mercedes-Benz 0.8%. In contrast, Rheinmetall fell 1.5%, while SAP, BASF and Nokia declined around 1.3%-1.4%. LVMH and Linde also traded lower. Investors are also assessing German producer-price data, which showed inflation reaching its highest level in more than three years. Attention now turns to the ECB’s latest meeting accounts for clues on future monetary policy."
+    },
+    {
+      "id": "mkt:01a01e14-3d45-7aab-90ac-a5e51a5c5ede",
+      "time": "2026-08-20 15:30:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Riksbank left its policy rate unchanged as expected."
+    },
+    {
+      "id": "5049279",
+      "time": "2026-08-20 15:30:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼交易所將取消50印尼盾的交易價格下限。"
+    },
+    {
+      "id": "5049278",
+      "time": "2026-08-20 15:30:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行維持基準利率在1.750%不變。"
+    },
+    {
+      "id": "mkt:01a01e14-042b-7aab-90ac-9ee8101b7d3e",
+      "time": "2026-08-20 15:30:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Riksbank policy rate as of Aug 20: 1.75% (expected 1.75%; prior 1.75%)."
+    },
+    {
+      "id": "mkt:01a01e13-f5d4-7aab-90ac-91cd73c11dc3",
+      "time": "2026-08-20 15:30:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China's Shanghai Gold Exchange gold T+D rose 2.54% to 967.9 yuan/gram on Aug 20; silver T+D gained 5.06% to 16,191.0 yuan/kg."
+    },
+    {
+      "id": "5049277",
+      "time": "2026-08-20 15:30:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破93美元/桶，日內漲1.61%。"
+    },
+    {
+      "id": "5049276",
+      "time": "2026-08-20 15:30:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞統計局公佈的7月外貿資料顯示，當月貿易順差錄得224.6億林吉特，7月出口同比增長38.0%。"
+    },
+    {
+      "id": "mkt:01a01e13-df84-7aab-90ac-8a5ae606d2ff",
+      "time": "2026-08-20 15:30:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Sweden | Riksbank's Benchmark Interest Rate (Aug.20) | actual 1.75% | consensus 1.75% | previous 1.75%"
+    },
+    {
+      "id": "5049275",
+      "time": "2026-08-20 15:30:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【招商證券：單耗增加疊加供給緊張 VC價格上漲有潛力】招商證券釋出研報稱，近期國內VC均價大幅上漲，在上半年階段性回撥後重回20萬/噸以上。需求端，鋰電出貨擴張疊加動力電池安全新國標下VC單耗提升，全球需求有望持續高增;供給端，VC名義產能快速擴張，但二代工藝難度較大，預計有效供給釋放有限。該行預計VC短缺格局有望延續，後續價格具備顯著彈性，建議持續關注。"
+    },
+    {
+      "id": "te:markets:576774",
+      "time": "2026-08-20 15:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.04% Lower — The CAC 40 Index is dropping 3 points. Leading the losses are Capgemini (-1.04%), LVMH (-0.91%) and Air Liquide (-0.73%). Top gainers were Michelin (1.92%), ArcelorMittal (1.83%) and Stellantis NV (1.40%)."
+    },
     {
       "id": "mkt:01a01e13-52cd-7aab-90ac-85f93961f7b6",
       "time": "2026-08-20 15:29:37",
@@ -143292,147 +143618,6 @@
         "觀點"
       ],
       "text": "【高盛：聯想集團首財季業績遠超預期，維持“買入”評級】高盛發表研報指，聯想集團2027財年首季業績遠超預期，收入同比增長43%至約270億美元，較該行及市場預期分別高出22%及20%。經調整純利同比增長176%至約11億美元，較該行及市場預測分別高出48%及68%。毛利率進一步擴張至16.5%，亦高於該行及市場預期。期內智慧裝置業務集團(IDG)收入同比增長27%至170億美元，佔總收入63%。基礎設施方案業務集團(ISG)收入同比增長98%至85億美元，佔總收入32%，AI伺服器訂單升至540億美元。高盛維持聯想的“買入”評級，目標價31港元，對應2027年預測市盈率約17.3倍。"
-    },
-    {
-      "id": "5038819",
-      "time": "2026-08-13 15:33:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克計劃發行熊貓債籌資不超過66億元，承銷商詢問投資者意向。"
-    },
-    {
-      "id": "mkt:019ffa09-dab2-7aab-901d-0ed79406bd12",
-      "time": "2026-08-13 15:32:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Turkey's central bank governor said the bank will deploy all available tools to combat inflation."
-    },
-    {
-      "id": "mkt:019ffa09-b507-7aab-901d-03646ed988ad",
-      "time": "2026-08-13 15:32:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's central bank governor says the bank will maintain a restrictive monetary policy stance."
-    },
-    {
-      "id": "5038818",
-      "time": "2026-08-13 15:32:43",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：將動用一切可用工具推進抗通脹程序。"
-    },
-    {
-      "id": "5038817",
-      "time": "2026-08-13 15:32:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【贛粵高速：2026年7月車輛通行服務收入3.27億元】贛粵高速公告稱，2026年7月公司車輛通行服務收入為326,668,893.70元，約3.27億元。其中，昌九高速收入98,567,085.27元，昌樟高速收入61,125,405.50元等。上述資料未經審計，通行服務收入含增值稅。"
-    },
-    {
-      "id": "mkt:019ffa09-86eb-7aab-901c-fb887d08b567",
-      "time": "2026-08-13 15:32:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey central bank governor said the bank is closely monitoring how geopolitical developments could affect the pace of inflation easing."
-    },
-    {
-      "id": "5038816",
-      "time": "2026-08-13 15:32:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長：將維持緊縮政策立場。"
-    },
-    {
-      "id": "mkt:019ffa09-0d94-7aab-901c-f70f52e03d18",
-      "time": "2026-08-13 15:32:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Former Iranian diplomat: US has 'fallen into Strait of Hormuz trap'】Former Iranian diplomat Abbas Khameyar said the United States has failed its \"economic and military tests\" against Iran and has \"fallen into the Strait of Hormuz trap.\" He said Iran will not yield to US conditions or ambitions, that control of the Strait has become a \"successful deterrent\" which has altered the course of aggression and reset rules of engagement, and that the US has broken its commitments; only serious, sincere negotiations can secure compliance."
-    },
-    {
-      "id": "te:markets:574984",
-      "time": "2026-08-13 15:32:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.47% Lower — The FTSE 100 Index is losing 51 points. Losses were led by Antofagasta (-5.05%), Rio Tinto (-4.56%) and Fresnillo (-3.78%). Offsetting the fall, top gainers were Scottish Mortgage (1.56%), Aviva (1.28%) and Spirax-Sarco Engineering (1.11%)."
-    },
-    {
-      "id": "5038815",
-      "time": "2026-08-13 15:32:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林省延長出租從業年限，長春女駕駛員年限高出其他地區7歲】據吉林省運輸管理局2026年8月12日訊息，日前，吉林省交通運輸廳“延長出租從業年限，拓寬群眾就業渠道”工作被選入10個省級“法治為民辦實事”專案，已透過省委依法治省辦面向社會公佈，出租汽車駕駛員年齡由女55週歲、男60週歲，延長至女58週歲（長春65週歲）、男63週歲（長春65週歲）。（澎湃新聞）"
-    },
-    {
-      "id": "5038814",
-      "time": "2026-08-13 15:31:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【摩洛哥對涉華木塊芯膠合板作出反傾銷初裁】摩洛哥工業和貿易部發布第DDC/11/2026號公告，對原產於中國和印度尼西亞的木塊芯膠合板作出反傾銷初裁，建議徵收臨時反傾銷稅，其中，中國生產商/出口商稅率為82%、印度尼西亞生產商/出口商稅率為55%。涉案產品的摩洛哥稅號為44.12.51.91.00、44.12.51.99.10、44.12.51.99.21、44.12.51.99.22、44.12.51.99.28等。"
-    },
-    {
-      "id": "5038813",
-      "time": "2026-08-13 15:31:36",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "土耳其央行行長：正監測地緣政治局勢發展對去通脹程序的影響。"
-    },
-    {
-      "id": "te:markets:574983",
-      "time": "2026-08-13 15:31:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.40% Higher — The DAX Index is up by 105 points or 0.40 percent on Thursday. Top gainers are Fresenius (1.77%), Qiagen NV (1.11%) and Commerzbank (1.04%). Biggest losses came from Brenntag (-1.60%), BASF (-1.03%) and Hannover Rueck (-0.80%)."
-    },
-    {
-      "id": "mkt:019ffa08-1d34-7aab-901c-eae48c403c47",
-      "time": "2026-08-13 15:31:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 0.48% at 949.2 yuan/gram on Aug 13 (Thursday); silver T+D closed down 1.32% at 15,741.0 yuan/kg."
-    },
-    {
-      "id": "5038812",
-      "time": "2026-08-13 15:30:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【著手AI成本可預見性 Compute Exchange推出詞元遠期合約】海量資金即將湧入晶片與資料中心賽道，各家企業持續大手筆投入AI技術自研，幾乎所有相關參與方都在想方設法，提升自身投入與收益的可預測性。據報道，初創算力交易平臺Compute Exchange原本業務是撮合GPU持有方與短期租用者，現在拓展同類撮合業務，推出詞元遠期合約（Token forwards）。這屬於場外私下協商合約，允許企業最長鎖定未來六個月的詞元採購價格，對沖後續AI使用成本波動風險。 詞元遠期合約的定價模式和GPU合約存在區別：GPU合約一般鎖定執行AI模型所需算力的小時單價；詞元合約則在更長週期內鎖定統一價格，交易標的也是企業日常業務真正消耗的資源。 客戶可選擇六家簽約推理服務商提供的多款主流開源權重模型。遠期合約和CME籌備的標準化場內期貨並不完全等同，但標誌著金融市場套保機制，進一步延伸到更多型別AI成本專案。"
     }
   ]
 }
