@@ -1,7 +1,139 @@
 {
   "date": "2026-08-20",
-  "count": 1872,
+  "count": 1886,
   "items": [
+    {
+      "id": "mkt:01a01e76-1cbd-7aab-90af-9b85a579d518",
+      "time": "2026-08-20 17:17:32",
+      "tags": [
+        "MKT News",
+        "DAO.N",
+        "Impact bullish"
+      ],
+      "text": "NetEase Youdao (DAO.N) shares were up 3.3% in U.S. pre-market trading."
+    },
+    {
+      "id": "te:economy:576830",
+      "time": "2026-08-20 17:16:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Labour Costs",
+        "Importance 1"
+      ],
+      "text": "Eurozone Labor Costs Growth Weakest Since 2021 — Hourly labor costs in the Euro Area increased by 3% year-on-year in Q2 2026, following a 3.2% rise in the previous period, preliminary estimates showed. This marked the slowest pace of growth since Q4 2021. Wages and salaries rose by 3.0%, down from 3.3% in Q1, while non-wage costs advanced by 3%, up from 2.8%."
+    },
+    {
+      "id": "5049613",
+      "time": "2026-08-20 17:16:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【涪陵電力：2026年上半年淨利潤2.07億元 同比增23.91%】涪陵電力公告，2026年上半年營業收入13.01億元，同比下降8.17%。歸屬於上市公司股東的淨利潤2.07億元，同比增長23.91%；扣非淨利潤2.04億元，同比增長27.00%。公司中期擬每10股派發現金紅利0.35元（含稅）。"
+    },
+    {
+      "id": "5049612",
+      "time": "2026-08-20 17:16:38",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【納指ETF匯添富：二級市場交易價格溢價風險提示】納指ETF匯添富公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值（IOPV），出現較大幅度溢價。2026年08月20日，本基金二級市場收盤價為2.370元，收盤時基金份額參考淨值（IOPV）為2.1747元。若2026年08月21日本基金二級市場交易價格溢價幅度未有效回落，本基金有權向深圳證券交易所申請盤中臨時停牌、延長停牌時間及連續停牌等措施。截至目前，本基金運作正常且無其他應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5049611",
+      "time": "2026-08-20 17:16:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF易方達：二級市場交易價格溢價風險提示】納指ETF易方達公告稱，基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月20日，基金二級市場收盤價為2.033元，收盤時基金份額參考淨值為1.8524元。若2026年8月21日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無其他應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "te:markets:576829",
+      "time": "2026-08-20 17:16:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 10-week High — AUDUSD increased to 0.71, the highest since June 2026. Over the past 4 weeks, Australian Dollar US Dollar gained 1.85%, and in the last 12 months, it increased 10.95%."
+    },
+    {
+      "id": "5049610",
+      "time": "2026-08-20 17:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【塔吉克：已向伊朗申請進口逾250萬噸石油和燃料】塔吉克交通部表示，該國已向伊朗申請進口逾250萬噸石油和石油產品，原因是其傳統供應國俄羅斯自身也面臨燃料短缺問題。該部本週在其網站上發表宣告稱，塔吉克已申請255萬噸燃料，其中包括200萬噸原油、15萬噸汽油、30萬噸柴油和10萬噸航空煤油。宣告中並未提及物資交付的時間。"
+    },
+    {
+      "id": "mkt:01a01e74-f987-7aab-90af-929b1f83e727",
+      "time": "2026-08-20 17:16:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【National Supercomputing Internet launches Zhipu GLM-5.3 API】China's National Supercomputing Internet has launched API access to Zhipu's next-generation foundation model GLM-5.3. Enterprises and developers can invoke the flagship model via one-click login to the platform without complex environment setup, significantly lowering the barrier to AI R&D."
+    },
+    {
+      "id": "mkt:01a01e74-e7ff-7aab-90af-8bd45e265ea6",
+      "time": "2026-08-20 17:16:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Tajikistan applies to import 2.55 mln tonnes of oil and fuel from Iran】Tajikistan has applied to import 2.55 mln tonnes of oil and petroleum products from Iran as traditional supplier Russia is also facing fuel shortages, the country’s transport ministry said on its website. The request covers 2.0 mln tonnes of crude, 150,000 tonnes of gasoline, 300,000 tonnes of diesel and 100,000 tonnes of jet fuel. The ministry did not specify delivery timing."
+    },
+    {
+      "id": "5049609",
+      "time": "2026-08-20 17:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：捷克農業今年面臨約200億克朗的收入損失，主要因收成減少。"
+    },
+    {
+      "id": "5049608",
+      "time": "2026-08-20 17:15:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【戴維醫療：2026年上半年淨利潤2408.8萬元，同比降52.75%】戴維醫療公告，2026年上半年營業收入2.52億元，同比增長0.26%。歸屬於上市公司股東的淨利潤2408.8萬元，同比下降52.75%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1629.16萬元，同比下降59.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5049607",
+      "time": "2026-08-20 17:15:16",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美債突破40萬億美元引發廣泛擔憂】美國財政部19日釋出資料顯示，美國聯邦政府債務總額已突破40萬億美元。美債總額創新高引發廣泛擔憂和批評，美國國債可持續性和政府如何應對成為各方關注焦點。美國彼得·彼得森基金會主席兼執行長邁克爾·彼得森19日對此發表宣告說，美國債務在10年內翻番令人震驚，其增長沒有放緩跡象，這種財政路徑顯然不顧後果。債務增長預計將隨著老齡化和醫療成本升高而加速增長。如果不改革預算，美債規模將在6年後達到50萬億美元。（央視新聞）"
+    },
+    {
+      "id": "5049606",
+      "time": "2026-08-20 17:14:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家超算網際網路上線GLM-5.3 API】國家超算網際網路上線智譜新一代基座模型GLM-5.3 API呼叫服務。企業和開發者無需繁瑣環境配置，登入超算網際網路即可一鍵呼叫該旗艦模型，大幅降低AI研發門檻。"
+    },
+    {
+      "id": "5049605",
+      "time": "2026-08-20 17:13:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【具身智慧模擬評測平臺RoboColiseum正式上線】8月20日，常態化具身智慧模擬評測平臺RoboColiseum正式釋出上線。該平臺基於高保真模擬環境，實測模擬評測與實機部署相關性達89.5%。平臺設指令跟隨、空間理解、擾動適應與通用操作4大維度共78個任務，支援模型本地部署接入，最快30分鐘輸出成績，並已提供π0、GR00T等主流模型基線供復現對比。（介面新聞）"
+    },
     {
       "id": "5049604",
       "time": "2026-08-20 17:13:37",
