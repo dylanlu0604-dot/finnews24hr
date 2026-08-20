@@ -1,7 +1,156 @@
 {
   "date": "2026-08-21",
-  "count": 175,
+  "count": 194,
   "items": [
+    {
+      "id": "5050703",
+      "time": "2026-08-21 01:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "據稱 Anthropic 最快將於 8 月底準備 IPO 申報檔案。"
+    },
+    {
+      "id": "5050702",
+      "time": "2026-08-21 01:55:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：Anthropic 近期投資者簡報會由首席財務官 Rao 主持。"
+    },
+    {
+      "id": "5050701",
+      "time": "2026-08-21 01:55:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "ANTHROPICO預計將與SPACEX創紀錄的IPO規模持平，或成為IT行業領頭羊。"
+    },
+    {
+      "id": "mkt:01a02050-0495-7aab-90bf-73bb94b5f9e8",
+      "time": "2026-08-21 01:55:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Sources say ANTHROPIC plans to revise its data-retention policy for advanced AI."
+    },
+    {
+      "id": "5050700",
+      "time": "2026-08-21 01:54:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報道：Anthropic計劃調整高階AI的資料保留政策】Anthropic PBC計劃允許企業客戶在使用其最強大的人工智慧模型時，對自身資料保持更大的控制權，這是對早期資料保留政策的重大轉變——該政策最初旨在防範潛在的網路攻擊。據知情人士透露，這家Claude聊天機器人開發商預計將於今年晚些時候推出一套新的安全系統，該系統仍將要求企業客戶保留資料30天，但允許客戶選擇將資料保留在自有的雲端計算基礎設施上，而非Anthropic的伺服器上。這套系統已籌備數月。"
+    },
+    {
+      "id": "mkt:01a0204e-770a-7aab-90bf-6ef996948cee",
+      "time": "2026-08-21 01:53:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Indo-Pacific Command said its current assessment is that the incident does not pose a direct threat to US personnel, US territory or regional allies. The US said it will continue to defend the homeland and regional allies."
+    },
+    {
+      "id": "mkt:01a0204e-23ca-7aab-90bf-63677f8ce439",
+      "time": "2026-08-21 01:53:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Indo-Pacific Command said it has noted recent missile launches and is in close communication with allies and partners."
+    },
+    {
+      "id": "5050699",
+      "time": "2026-08-21 01:52:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國太平洋司令部：我們注意到最近的導彈發射事件，並正在與我們的盟友和夥伴密切協商。根據目前的評估，這些事件不會對美國人員或領土、或我們的盟友構成直接威脅。美國繼續致力於保衛美國本土以及該地區盟友的防務。"
+    },
+    {
+      "id": "5050698",
+      "time": "2026-08-21 01:51:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國太平洋司令部：事態發展不會對美國及其盟國構成威脅。"
+    },
+    {
+      "id": "5050697",
+      "time": "2026-08-21 01:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國太平洋司令部：事態發展不會對美國構成威脅。"
+    },
+    {
+      "id": "5050696",
+      "time": "2026-08-21 01:50:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國太平洋司令部：已獲悉近期導彈發射事件。"
+    },
+    {
+      "id": "5050695",
+      "time": "2026-08-21 01:50:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司（PETROBRAS）公告：“亞歷山大·德·古馬奧”號浮式生產儲油卸油輪（FPSO）在梅羅鹽下油田實現產量峰值，日產18萬桶。"
+    },
+    {
+      "id": "5050694",
+      "time": "2026-08-21 01:50:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：商品期貨交易委員會主席塞利格表示，如果《加密貨幣清晰法案》未能透過，工作人員將制定正式的加密貨幣市場結構規則。"
+    },
+    {
+      "id": "mkt:01a0204a-be56-7aab-90bf-5f1995acabf3",
+      "time": "2026-08-21 01:49:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "7211.T"
+      ],
+      "text": "Mitsubishi Motors is shifting its strategic focus to the U.S. and Australia after sustained weakness in Southeast Asian markets eroded a longstanding source of sales support."
+    },
+    {
+      "id": "5050693",
+      "time": "2026-08-21 01:48:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲8月20日常備回購操作未收到任何投標，操作規模為零。"
+    },
+    {
+      "id": "mkt:01a02049-a717-7aab-90bf-57940f0da793",
+      "time": "2026-08-21 01:48:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "PBR.O"
+      ],
+      "text": "Petrobras said the FPSO Alexander de Gusmão at the Mero subsalt field reached peak production of 180,000 bpd of crude."
+    },
+    {
+      "id": "5050692",
+      "time": "2026-08-21 01:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：到2027年，無人機主導計劃計劃採購超過20萬架美國製造的無人機，以維持戰場優勢。"
+    },
     {
       "id": "mkt:01a02049-08bc-7aab-90bf-4b0a401eeb8f",
       "time": "2026-08-21 01:47:32",
@@ -201,6 +350,15 @@
         "MKT News"
       ],
       "text": "Kyiv mayor reports a fire in a non-residential area of Holosiivskyi district; firefighters are extinguishing the blaze. One person injured; medical teams are providing assistance."
+    },
+    {
+      "id": "em:qqyh_mlc:202608213848244619",
+      "time": "2026-08-21 01:27:09",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週四使用規模為2.25億美元（交易對手1家），上個交易日報1.55億美元。"
     },
     {
       "id": "5050680",
@@ -431,6 +589,17 @@
         "WTI"
       ],
       "text": "ZELENSKIY said Russian forces struck with large numbers of ballistic missiles, cruise missiles and drones, and that Ukraine urgently needs allies to provide Patriot air-defence systems to intercept ballistic missiles."
+    },
+    {
+      "id": "5050664",
+      "time": "2026-08-21 01:12:17",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特擴大回購被指“拿紙巾擋海嘯” 利好轉瞬美債收益率重返高位】特朗普政府意外決定擴大長期債券回購規模僅一天後，美國國債走低，顯示這一舉措幾乎未能緩解市場對政府債務激增的擔憂。相關憂慮已推動部分美債收益率升至19年來高位。30年期美債收益率週四一度上漲逾7個基點至5.27%，回到美國財政部週三宣佈擴大回購前的水平，隨後漲幅有所收窄，至5.25%。美國財政部長斯科特·貝森特在接受CNBC採訪時表示，擁有“一個龐大的工具箱”來支撐市場。近2萬億美元的預算赤字、高企的通脹，以及投資人工智慧的科技公司大量發債，都在推動美債收益率上升。貝森特一直試圖更多依靠短期借款來填補政府資金缺口，從而得以維持較長期債券發行規模穩定。週三，美國財政部表示，將把10年至30年期債券的回購規模“至少”提高一倍。這一措施短暫提振美債市場，市場還猜測財政部可能縮減這類債券的新發行規模。道明證券美國利率策略師Molly Brooks表示：“財政部需要更明確地傳達將削減長端國債標售規模，收益率的下行走勢才可能持續。鑑於財政部昨天已經表現出願意出手，這種可能性現在更高了。”週四早些時候，美債拋售最嚴重之際，油價上漲逾3%。Brooks表示，收益率上漲“大部分其實是由油價推動的”，再加上其他基本面因素，顯示回購操作的調整“更像是給美國國債的長端貼了一塊創可貼”。"
     },
     {
       "id": "te:markets:576946",
