@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-20 11:40:51",
-  "count": 15684,
+  "updated": "2026-08-20 11:50:41",
+  "count": 15677,
   "items": [
+    {
+      "id": "5049015",
+      "time": "2026-08-20 11:45:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗稱今年在亞太區已延攬10名高階銀行家，年底前將繼續招聘。"
+    },
+    {
+      "id": "5049014",
+      "time": "2026-08-20 11:45:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty IT指數<.NIFTYIT>盤前交易上漲1.37%。"
+    },
+    {
+      "id": "5049013",
+      "time": "2026-08-20 11:43:42",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【8月20日午間漲停分析】創業板指半日漲超1%，醫藥概念全線爆發，全市上漲個股超4300只。金健米業4連板，一圖看懂>>"
+    },
+    {
+      "id": "te:economy:576705",
+      "time": "2026-08-20 11:42:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Current Account",
+        "Importance 0"
+      ],
+      "text": "Serbia Current Account Deficit Largest in 6 Months — Serbia’s current account deficit widened sharply to $1,022 million in June 2026 from $231 million in the same month last year. This marked the largest deficit since December 2025, as the goods account deficit increased to $687 million from $326 million, while the services surplus narrowed to $225 million from $297 million. At the same time, the primary income deficit expanded to $1,118 million from $690 million. On the other hand, the secondary income surplus rose to $557 million from $488 million. Over the first half of the year, Serbia posted a current account deficit of $1,616 million, smaller than the $2,204 million recorded in the corresponding period of the previous year."
+    },
     {
       "id": "mkt:01a01d40-90ec-7aab-90a8-1d76cfab39f8",
       "time": "2026-08-20 11:39:25",
@@ -439,6 +477,15 @@
         "Impact bullish"
       ],
       "text": "JP Morgan raises Estée Lauder PT to $112 from $94."
+    },
+    {
+      "id": "em:qqyh_mlc:202608203847534921",
+      "time": "2026-08-20 11:01:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【“潘多拉魔盒”開啟？貝森特出手干預債市 恐迫使美聯儲更激進加息】美國財政部長斯科特·貝森特週三採取行動，試圖壓低長期國債收益率。然而，有分析認為，這一舉措令美聯儲主席凱文·沃什的工作變得更加複雜，甚至可能迫使他以更激進的方式加息。"
     },
     {
       "id": "mkt:01a01d1d-25dc-7aab-90a7-a82309ccbdff",
@@ -143782,111 +143829,6 @@
         "MKT News"
       ],
       "text": "【IDC: Q2 China tablet shipments 7.96 mln, -4.4% YoY】IDC Q2 tracker: China tablet shipments 7.96 mln units, down 4.4% YoY, a slight narrowing versus Q1. Commercial segment posted sharp growth driven by demand front-loading ahead of expected price increases; consumer shipments fell 9.8% YoY on rising costs and earlier-than-normal demand release. Headline moderation masks widening market stress as cost inflation accelerates transmission to demand."
-    },
-    {
-      "id": "mkt:019ff93d-e1c6-7aab-9018-08bea8776d31",
-      "time": "2026-08-13 11:50:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yangtze Optical Fibre and Cable (YOFC) wins 159 mln yuan hollow-core cable framework tender from China Telecom Guangdong】Yangtze Optical Fibre and Cable (YOFC) said it won 100% of the 2026 China Telecom Guangdong hollow-core optical cable and G.654.E cable framework procurement with a bid of 159 mln yuan (incl. tax). The purchase is the largest single domestic hollow‑core cable procurement to date and signals hollow‑core fiber moving from pilot validation to commercial‑scale deployment."
-    },
-    {
-      "id": "5038559",
-      "time": "2026-08-13 11:49:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機構：第二季度中國平板電腦市場出貨量796萬臺，同比下降4.4%】國際資料公司（IDC）釋出了2026年第二季度中國平板電腦市場季度跟蹤報告。資料顯示，2026年第二季度，中國平板電腦市場出貨量為796萬臺，同比下降4.4%，降幅較第一季度小幅收窄。但從市場表現來看，市場壓力並未緩解，反而進一步放大。商用市場的大幅增長主要來自漲價預期下的需求前置，而消費市場則在成本上漲、需求提前釋放等因素影響下同比下降9.8%。表面上市場跌幅收窄，實際上成本上漲正在加速向需求端傳導。"
-    },
-    {
-      "id": "te:markets:574893",
-      "time": "2026-08-13 11:49:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Slips as China Demand Slows — Copper futures fell below $6.55 per pound on Thursday, reaching an over one-week low as elevated prices weakened demand and discouraged buyers in top consumer China. The Yangshan premium, which reflects the premium paid above the benchmark LME copper price for refined copper imported into China, declined to $96 per ton after reaching $115 a ton last month. However, concerns over tightening supply continued to underpin prices amid expectations for constrained global mine output. Chilean state-owned miner Codelco reportedly expects lower copper production this year as it faces setbacks at its mines and development projects. The company has abandoned its previous target of producing 1.34 million metric tons this year, compared with last year’s revised output of 1.307 million tons. Traders also remained cautious about potential US import tariffs on copper, which have continued to divert metal away from international markets and into US warehouses."
-    },
-    {
-      "id": "5038558",
-      "time": "2026-08-13 11:48:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "塔塔汽車股價上漲3.9%，此前公佈季度利潤增長。"
-    },
-    {
-      "id": "5038557",
-      "time": "2026-08-13 11:48:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【8月13日午間漲停分析】創業板指半日漲1.61%，醫藥、算力概念股集體爆發。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>"
-    },
-    {
-      "id": "5038556",
-      "time": "2026-08-13 11:47:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長飛光纖中標中國電信廣東公司1.59億元空芯光纜集採】據長飛光纖訊息，近日，“2026年中國電信廣東公司空芯光纜、G.654.E光纜框架採購專案”中標結果正式公示，長飛光纖以1.59億元（含稅）報價中標100%份額。此次集採是目前國內最大單體空芯光纜採購專案，其定標結果標誌著空芯光纖技術已從試點驗證邁入規模化商用階段。"
-    },
-    {
-      "id": "5038555",
-      "time": "2026-08-13 11:46:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滄州明珠：具備生產5u超薄高強隔膜的能力 目前該類產品尚未形成批次供應、批次銷售】滄州明珠(002108)8月13日在互動平臺表示，公司具備生產5u超薄高強隔膜的能力。目前該類產品尚未形成批次供應、批次銷售，針對客戶尚處於小批次試用階段。"
-    },
-    {
-      "id": "5038554",
-      "time": "2026-08-13 11:46:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京首次登上俄日爭議島嶼】據俄羅斯克里姆林宮網站釋出訊息，俄羅斯總統普京今天（8月13日）抵達南千島群島（日本稱“北方四島”）地區視察工作。普京行程的第一站是視察伊圖魯普島上一家水產品加工廠。這是普京首次登上南千島群島。俄羅斯與日本至今尚未締結和平條約，主要障礙之一就在於南千島群島的歸屬問題。（CCTV國際時訊）"
-    },
-    {
-      "id": "5038553",
-      "time": "2026-08-13 11:45:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京3平臺騎手等紅燈將自動補時】記者從北京市市場監督管理局組織的平臺經濟“破卷向善”第二次協商對話會上瞭解到，美團、淘寶閃購、京東外賣三家平臺將率先集中在京落地“紅燈停表”。 記者從會上瞭解到，三家外賣平臺率先集中在北京落地“紅燈停表”（外賣騎手在等紅燈過程中，平臺將為騎手的配送時長“自動補時”，等紅燈多久，補時多久），目前已陸續啟動道路測試及試執行，近期將在朝陽、通州、經開區等部分割槽域上線執行。 （北京日報）"
-    },
-    {
-      "id": "5038552",
-      "time": "2026-08-13 11:42:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【川潤股份：向特定物件發行股票申請獲深交所受理】川潤股份公告，公司近日收到深交所出具的《關於受理四川川潤股份有限公司向特定物件發行股票申請檔案的通知》（深證上審〔2026〕244號），深交所認為申請檔案齊備，決定予以受理。本次發行事項尚需透過深交所稽核並獲得中國證監會同意註冊的批覆後方可實施，最終能否透過及時間尚存在不確定性。"
-    },
-    {
-      "id": "mkt:019ff936-2dfd-7aab-9018-037567561ed2",
-      "time": "2026-08-13 11:41:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meituan",
-        "03690.HK",
-        "Impact bullish"
-      ],
-      "text": "【Meituan begins Beijing road test of rider \"wait-at-lights\" stopwatch】Aug 13 — Meituan (03690.HK) released the first formal version of a rider \"wait-at-lights\" stopwatch and has begun road testing in Beijing. The delivery safety tech team ran internal tests on select Beijing roads in 1H and built a prototype; the pilot is now live on roads in Chaoyang, Tongzhou and the Beijing Economic-Technological Development Zone where traffic data is integrated. The feature will separately accumulate red-light waiting time and extend delivery ETAs accordingly. Meituan said more than 20 other cities are evaluating the feature; qualified cities will be rolled out progressively."
-    },
-    {
-      "id": "5038550",
-      "time": "2026-08-13 11:41:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美團在京上線“等燈停表”首個正式版本，騎手已在部分路段路測】從美團獲悉，美團今天上線外賣騎手“等燈停表”功能在京首個正式版本，試點區域已開始路測。從多位騎手處證實，首批路測已完成。據悉，今年上半年，美團配送安全技術團隊已在北京部分道路開展產品內測，並搭建產品雛形，為全國各地試點落地提供了範本，目前已在率先接入交通資料的北京朝陽區、通州區、經濟技術開發區的部分道路進行試點路測。北京外賣騎手等紅燈時間，將逐步實現單獨累加計算並在配送時間中順延。（新浪科技）"
     }
   ]
 }

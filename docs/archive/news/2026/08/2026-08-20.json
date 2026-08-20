@@ -1,7 +1,45 @@
 {
   "date": "2026-08-20",
-  "count": 994,
+  "count": 999,
   "items": [
+    {
+      "id": "5049015",
+      "time": "2026-08-20 11:45:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗稱今年在亞太區已延攬10名高階銀行家，年底前將繼續招聘。"
+    },
+    {
+      "id": "5049014",
+      "time": "2026-08-20 11:45:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty IT指數<.NIFTYIT>盤前交易上漲1.37%。"
+    },
+    {
+      "id": "5049013",
+      "time": "2026-08-20 11:43:42",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【8月20日午間漲停分析】創業板指半日漲超1%，醫藥概念全線爆發，全市上漲個股超4300只。金健米業4連板，一圖看懂>>"
+    },
+    {
+      "id": "te:economy:576705",
+      "time": "2026-08-20 11:42:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Current Account",
+        "Importance 0"
+      ],
+      "text": "Serbia Current Account Deficit Largest in 6 Months — Serbia’s current account deficit widened sharply to $1,022 million in June 2026 from $231 million in the same month last year. This marked the largest deficit since December 2025, as the goods account deficit increased to $687 million from $326 million, while the services surplus narrowed to $225 million from $297 million. At the same time, the primary income deficit expanded to $1,118 million from $690 million. On the other hand, the secondary income surplus rose to $557 million from $488 million. Over the first half of the year, Serbia posted a current account deficit of $1,616 million, smaller than the $2,204 million recorded in the corresponding period of the previous year."
+    },
     {
       "id": "mkt:01a01d40-90ec-7aab-90a8-1d76cfab39f8",
       "time": "2026-08-20 11:39:25",
@@ -439,6 +477,15 @@
         "Impact bullish"
       ],
       "text": "JP Morgan raises Estée Lauder PT to $112 from $94."
+    },
+    {
+      "id": "em:qqyh_mlc:202608203847534921",
+      "time": "2026-08-20 11:01:22",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【“潘多拉魔盒”開啟？貝森特出手干預債市 恐迫使美聯儲更激進加息】美國財政部長斯科特·貝森特週三採取行動，試圖壓低長期國債收益率。然而，有分析認為，這一舉措令美聯儲主席凱文·沃什的工作變得更加複雜，甚至可能迫使他以更激進的方式加息。"
     },
     {
       "id": "mkt:01a01d1d-25dc-7aab-90a7-a82309ccbdff",
