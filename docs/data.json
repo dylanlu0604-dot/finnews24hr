@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-20 09:56:08",
-  "count": 15681,
+  "updated": "2026-08-20 10:00:04",
+  "count": 15677,
   "items": [
+    {
+      "id": "mkt:01a01ce5-2599-7aab-90a6-e2eb35d7b5e4",
+      "time": "2026-08-20 09:59:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share vaccine/biotech sector extended gains, with Shiyao Innovation hitting the daily price limit. Earlier Seili Medical, Haipure, Zhifei Biological, Jindike and Wantai Biopharm also hit limit-up; Dongfulong and Kangtai Biotech advanced more than 15%."
+    },
+    {
+      "id": "5048898",
+      "time": "2026-08-20 09:59:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【醫藥生物板塊持續走高 石藥創新等近20股20cm漲停】醫藥生物板塊盤中持續走高，疫苗、細胞免疫、重組蛋白、基因編輯等方向均表現亮眼，石藥創新、博騰股份、和元生物、康希諾、鍵凱科技、華大智造等近20股錄得20cm漲停，森萱醫藥、東富龍、康泰生物、藥石科技等多股漲超10%。"
+    },
+    {
+      "id": "5048897",
+      "time": "2026-08-20 09:56:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念震盪走強 寶鼎科技漲停】PCB概念震盪走強，寶鼎科技漲停，中英科技漲超11%，勝宏科技、迅捷興、生益科技、南亞新材跟漲。"
+    },
+    {
+      "id": "5048896",
+      "time": "2026-08-20 09:56:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王興興：機器人兩三年內或迎關鍵突破】2026世界機器人大會論壇於8月19日-22日在北京舉辦，宇樹科技股份有限公司創始人、董事長王興興在演講中談到，對於通用機器人究竟何時能真正走進大眾生活、走進普通家庭的問題，他指出，目前全球範圍內，該領域最大的發展瓶頸是具身智慧的泛化能力不足。 “簡單來說，當前全球多數AI模型，在固定場景中經過充足的資料採集和專項訓練後，任務成功率基本可以接近100%。但只要更換操作物品、或是稍微改變環境，機器人的任務成功率就會出現大幅下降。”他說。 王興興表示，從發展週期來看，快則兩到三年，慢則五到十年，行業有望迎來關鍵突破。 他強調，未來的產業爆發臨界點十分明確：當我們可以將一臺機器人帶入任意陌生的家庭環境，它能夠依靠語音語言指令，自主完成80%左右的日常任務，這就意味著具身智慧實現了實質性突破，也是通用機器人產業迎來爆發的重要臨界點。"
+    },
+    {
+      "id": "5048895",
+      "time": "2026-08-20 09:55:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海家化退出絲芙蘭在中國的兩家聯營公司】上海家化公告，為進一步聚焦主營業務，擬以7000萬歐元（約合人民幣5.55億元）向Sephora Asia出售其持有的絲芙蘭上海19%股權和絲芙蘭北京19%股權。絲芙蘭上海和絲芙蘭北京分別在2004年和2006年成立，是上海家化和Sephora Asia的合資公司，負責運營絲芙蘭在中國的線上線下業務。兩家合資公司均由Sephora Asia持股81%，上海家化持股19%。Sephora Asia為LVMH集團的全資孫公司。2023年到2025年，上海家化對這兩家公司的投資損益連續三年虧損。截至公告日，上海家化對兩家公司的長期股權投資賬面價值已減記至零，即賬面上已無價值。此次交易完成後，上海家化不再持有其股權，預計將增加公司稅後投資收益約人民幣4.74億元。此次交易也產生了避免同業競爭的協議。上海家化及其子公司自交割日起兩年內，不得直接或間接參與或從事在中國境內開設或經營香化多品牌零售店，但可以透過單品牌化妝品零售店、百貨商店專櫃、公司自有且專門售賣自產產品的多品牌門店，分銷其自產的化妝品。（介面新聞記者 朱詠玲）"
+    },
     {
       "id": "5048894",
       "time": "2026-08-20 09:54:33",
@@ -143760,95 +143802,6 @@
         "AI Revolution"
       ],
       "text": "【Anthropic in talks to buy Decart AI for about $6bn to bolster AI infrastructure】Anthropic is in talks to acquire AI startup Decart AI for about $6bn, sources said. The deal is not final and negotiations could collapse. If completed it would be Anthropic’s largest-known acquisition and comes amid market anticipation of an Anthropic IPO. Decart’s software increases chip efficiency, lowering AI model training costs and potentially allowing Anthropic to scale existing infrastructure. Anthropic rarely pursues large acquisitions but has been investing heavily in compute to develop products and serve customers."
-    },
-    {
-      "id": "mkt:019ff8d9-0816-7aab-9016-c786021271d2",
-      "time": "2026-08-13 10:00:00",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share baijiu sector rallied; Kuaijishan hit the daily limit-up, Guyue Longshan and Shuijingfang rose over 2%, with Huangtai Jiuye and Kouzi Jiao also gaining."
-    },
-    {
-      "id": "5038445",
-      "time": "2026-08-13 09:59:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CRO概念板塊短線拉昇，博濟醫藥漲停】CRO概念板塊短線拉昇，博濟醫藥漲停，近岸蛋白、和元生物、普蕊斯、萬邦醫藥、成都先導等紛紛走高。"
-    },
-    {
-      "id": "5038444",
-      "time": "2026-08-13 09:57:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智飛生物控股子公司宸安生物CA111注射液Ib期臨床試驗完成首批受試者入組】8月13日，據智飛生物訊息，其控股子公司宸安生物自主研發的CA111注射液Ib期臨床試驗於8月12日完成第1劑量組受試者入組。本次Ib期臨床試驗旨在評估CA111注射液在肥胖/超重受試者中的安全性、耐藥性、藥代動力學及藥效特徵。"
-    },
-    {
-      "id": "te:markets:574875",
-      "time": "2026-08-13 09:57:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Track Asian Peers Higher — The Shanghai Composite rose 0.3% to 3,957 on Thursday, while the Shenzhen Component climbed 1% to 14,554, extending gains from the previous session and tracking strength across Asian markets amid a renewed global AI-driven rally. Investor appetite for technology stocks continued to recover after last month’s sharp selloff, as strong earnings from major tech companies reinforced confidence in sustained spending on AI infrastructure and growing evidence that AI adoption is expanding across a wider range of applications. In China, attention remained firmly on Semiconductor Manufacturing International Corp., which is set to report earnings later on Thursday, with net profit expected to more than double from a year earlier. Cambricon Technologies (1.4%), SMIC (2%), Zhongji Innolight (3.8%), Eoptolink Technology (3.1%), and NAURA Technology (1.9%) were among the sector's top gainers. In contrast, energy stocks lagged, with PetroChina (-3.6%) and CNOOC (-2.5%) among the worst performers."
-    },
-    {
-      "id": "5038443",
-      "time": "2026-08-13 09:57:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南國家銀行：越南盾存貸缺口達 762 億美元。"
-    },
-    {
-      "id": "5038442",
-      "time": "2026-08-13 09:56:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【其他酒類板塊短線拉昇，會稽山漲停】其他酒類板塊短線拉昇，會稽山漲停，金楓酒業、古越龍山、張裕A、威龍股份、百潤股份等紛紛走高。"
-    },
-    {
-      "id": "mkt:019ff8d5-d4cf-7aab-9016-bea9fab1b1c2",
-      "time": "2026-08-13 09:56:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share cultural and media sector extended gains; Duke Culture hit a 20% limit-up, Fengyuzhu, Yinli Media, Shengguang Group and Chuban Media reached daily limit-ups, while Yidian Tianxia, CITIC Publishing and Guomai Culture also rose."
-    },
-    {
-      "id": "5038441",
-      "time": "2026-08-13 09:56:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指盤中轉漲，恒生科技指數現漲0.46%。"
-    },
-    {
-      "id": "mkt:019ff8d5-bff4-7aab-9016-b532e50d723d",
-      "time": "2026-08-13 09:56:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng Tech Index"
-      ],
-      "text": "Hang Seng Index turned positive intraday; Hang Seng Tech Index up 0.46%."
     }
   ]
 }
