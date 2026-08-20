@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-20 11:05:52",
-  "count": 15685,
+  "updated": "2026-08-20 11:09:45",
+  "count": 15686,
   "items": [
+    {
+      "id": "mkt:01a01d24-32e8-7aab-90a7-c1bfced0707e",
+      "time": "2026-08-20 11:08:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Xiansheng Pharmaceutical secures exclusive Greater China rights to domestic mAb; NMPA CDE accepts NDA into priority review】Xiansheng Pharmaceutical on Aug. 20 said it has struck a strategic cooperation with Ruiyang (Shandong) Biopharmaceutical on the domestic Class-1 biologic new drug Kulaivebai mAb injection. Under the deal Xiansheng will hold exclusive commercialization rights in Greater China. The marketing authorisation application has been accepted by the National Medical Products Administration’s Center for Drug Evaluation (CDE) and placed in priority review. The company said the collaboration will strengthen its anti-infectives product portfolio."
+    },
+    {
+      "id": "5048983",
+      "time": "2026-08-20 11:07:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2799.00元。"
+    },
+    {
+      "id": "5048982",
+      "time": "2026-08-20 11:07:42",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【摩根大通稱SK海力士明年或向股東返還至少1300億美元】據摩根大通稱，SK海力士在完成新的鉅額股票回購計劃後，明年可能會向股東返還至少1300億美元。週三宣佈的40萬億韓元（290億美元）股票回購計劃的關鍵資訊是，這家韓國儲存晶片製造商決定提高股東回報率上限，目前承諾將 2025年至2027年累計自由現金流的一半以上用於股東回報，而此前的承諾是“至多50%”。摩根大通分析師 Jay Kwon 估計，這意味著到2027 年，除了已公佈的計劃外，股東還將獲得“至少180萬億韓元（約合1300億美元）的額外回報”。這相當於該股當前總市值的16%。分析師認為，這應該會在近期的拋售潮後對股價起到支撐作用。"
+    },
+    {
+      "id": "5048981",
+      "time": "2026-08-20 11:05:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先聲藥業與瑞陽生物達成戰略合作】先聲藥業8月20日宣佈，與瑞陽（山東）生物製藥有限公司（簡稱“瑞陽生物”）就國產1類生物新藥庫萊韋拜單抗注射液達成戰略合作。根據協議，先聲藥業將獲得庫萊韋拜單抗在大中華區的獨家商業化權益。目前，庫萊韋拜單抗上市許可申請已獲國家藥品監督管理局藥品審評中心（CDE）受理，並被納入優先審評審批程式。本次合作將進一步豐富和強化先聲藥業在抗感染領域的產品佈局。"
+    },
     {
       "id": "mkt:01a01d1f-1d44-7aab-90a7-be725d54e592",
       "time": "2026-08-20 11:02:53",
@@ -143844,33 +143882,6 @@
         "國際"
       ],
       "text": "印尼計劃於 8 月 13 日開展政府債券債務置換操作。"
-    },
-    {
-      "id": "mkt:019ff918-de93-7aab-9017-a4a0c082586c",
-      "time": "2026-08-13 11:09:44",
-      "tags": [
-        "MKT News",
-        "CSCO.O",
-        "Impact bullish"
-      ],
-      "text": "Melius Research raises Cisco (CSCO.O) PT to $160 from $145."
-    },
-    {
-      "id": "5038522",
-      "time": "2026-08-13 11:08:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【一年來我國已累計清理處置6000多萬噸固體廢物】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，自去年6月啟動全國非法傾倒處置固體廢物專項整治行動以來，我國已累計排查發現問題5.6萬多個，完成整改4.5萬多個，清理處置各類固體廢物6000多萬噸，一大批存量汙染問題得到有效整治。"
-    },
-    {
-      "id": "5038521",
-      "time": "2026-08-13 11:06:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達40億港元。"
     }
   ]
 }
