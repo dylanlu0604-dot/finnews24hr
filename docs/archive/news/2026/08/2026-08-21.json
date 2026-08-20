@@ -1,7 +1,29 @@
 {
   "date": "2026-08-21",
-  "count": 378,
+  "count": 380,
   "items": [
+    {
+      "id": "mkt:01a020ff-4fa8-7aab-90c1-b640856a5792",
+      "time": "2026-08-21 05:06:37",
+      "tags": [
+        "MKT News",
+        "CBRS.O",
+        "Impact bearish"
+      ],
+      "text": "SEC filings show Cerebras (CBRS.O) top executive Sean Lie plans to sell company shares valued at $153.19 million."
+    },
+    {
+      "id": "mkt:01a020fc-1751-7aab-90c1-ad000b16466f",
+      "time": "2026-08-21 05:03:06",
+      "tags": [
+        "MKT News",
+        "NOC.O",
+        "Impact bullish",
+        "LMT.O",
+        "RTX.O"
+      ],
+      "text": "White House says U.S. must increase space transportation capacity by 2030 to support more than 1,000 launches and reentries per year."
+    },
     {
       "id": "5050807",
       "time": "2026-08-21 05:02:29",
