@@ -1,7 +1,79 @@
 {
   "date": "2026-08-21",
-  "count": 22,
+  "count": 31,
   "items": [
+    {
+      "id": "mkt:01a01ff3-753c-7aab-90bd-c17c9b8009b8",
+      "time": "2026-08-21 00:14:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese film A Letter to Grandma premieres in Yangon】Chinese film A Letter to Grandma premiered in Yangon on the 20th; over 200 attendees from China and Myanmar were present."
+    },
+    {
+      "id": "5050598",
+      "time": "2026-08-21 00:13:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 英國金融業協會致函政府，警示相關風險。"
+    },
+    {
+      "id": "5050597",
+      "time": "2026-08-21 00:13:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總理：該國將簡化小企業稅收制度，並重新審視稅收豁免政策。"
+    },
+    {
+      "id": "5050596",
+      "time": "2026-08-21 00:13:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：：英國各大銀行巨頭警告反對進一步加稅。"
+    },
+    {
+      "id": "5050595",
+      "time": "2026-08-21 00:12:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一艘貨船在索馬利亞遭海盜劫持】一艘懸掛喀麥隆國旗的貨船“盧圖夫”號（LUTUF）在索馬利亞沿海遭海盜劫持。事發地點位於馬賴亞鎮（Mareerey）以南約6.5公里處。據悉，該船裝載有武器、通訊裝置及衛星裝置，原定目的地為索馬利亞首都摩加迪沙的一家土耳其軍事訓練中心。事發時，船上共有10名船員，其中包括6名印度公民、2名塞爾維亞公民，以及土耳其和喬治亞公民各1名。"
+    },
+    {
+      "id": "te:economy:576932",
+      "time": "2026-08-21 00:12:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Rises to 3-Week High — South Africa’s 10-year government bond yield climbed to near 8.75%, the highest since July 30, tracking a broader movement in global markets. The relief following the massive buyback announced by the US Treasury Department of long-term government bonds.was short-lived, as investors remain doubtful that the expanded purchases will provide a lasting reduction in borrowing costs. Rising debt and widening deficits added to concerns over the inflationary impact of a prolonged Middle East conflict. Domestically, South Africa’s annual inflation slowed to 4.3% in July from 5% in June, marking its first decline in five months and coming in below the 4.5% consensus. However, inflation remains above the central bank's 3% target and the easing could prove short-lived amid renewed increases in global oil prices. South Africa is particularly exposed because it imports crude oil and finished petroleum products."
+    },
+    {
+      "id": "te:markets:576931",
+      "time": "2026-08-21 00:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.09% Higher — The FTSE MIB Index went up by 48 points or 0.09 percent on Thursday to close at 52666 points. The rise was led by Eni (2.59%), Italgas (1.92%) and Diasorin (1.60%). On the downside, the weakerst performers were Stellantis N.V. (-3.84%), Unipol Gruppo (-3.07%) and Amplifon (-2.99%)."
+    },
+    {
+      "id": "5050594",
+      "time": "2026-08-21 00:11:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞預計丹格特煉油廠將於 9 月動工  。"
+    },
     {
       "id": "te:markets:576930",
       "time": "2026-08-21 00:11:06",
@@ -33,6 +105,15 @@
         "MKT News"
       ],
       "text": "CENTCOM said that as of Aug 20 it had forced 67 merchant vessels to divert course, disabled three ships and boarded and inspected two vessels to ensure compliance with applicable requirements."
+    },
+    {
+      "id": "5050593",
+      "time": "2026-08-21 00:08:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：截至8月20日，已迫使67艘商船改道，使3艘船隻失去行動能力，並登臨檢查2艘船隻，以確保其遵守相關要求。"
     },
     {
       "id": "5050592",
