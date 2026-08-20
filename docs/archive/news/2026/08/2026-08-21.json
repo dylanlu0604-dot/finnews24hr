@@ -1,7 +1,19 @@
 {
   "date": "2026-08-21",
-  "count": 356,
+  "count": 357,
   "items": [
+    {
+      "id": "te:markets:576961",
+      "time": "2026-08-21 04:35:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.26% Lower — The Dow Jones Index decreased 673 points or 1.26 percent on Thursday to close at 52790 points. The decline was led by Walmart (-9.03%), Boeing (-3.09%) and Home Depot (-2.86%)."
+    },
     {
       "id": "mkt:01a020df-97b0-7aab-90c1-5789f905989b",
       "time": "2026-08-21 04:31:59",

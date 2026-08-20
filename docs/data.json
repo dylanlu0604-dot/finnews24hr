@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-21 04:33:17",
-  "count": 16107,
+  "updated": "2026-08-21 04:37:11",
+  "count": 16104,
   "items": [
+    {
+      "id": "te:markets:576961",
+      "time": "2026-08-21 04:35:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.26% Lower — The Dow Jones Index decreased 673 points or 1.26 percent on Thursday to close at 52790 points. The decline was led by Walmart (-9.03%), Boeing (-3.09%) and Home Depot (-2.86%)."
+    },
     {
       "id": "mkt:01a020df-97b0-7aab-90c1-5789f905989b",
       "time": "2026-08-21 04:31:59",
@@ -147379,43 +147391,6 @@
         "USDJPY"
       ],
       "text": "Fitch says the U.S. rating benefits from a large economy, high per-capita income, an active business environment and exceptional financing flexibility."
-    },
-    {
-      "id": "5040029",
-      "time": "2026-08-14 04:36:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽確認美國主權評級為 AA+。"
-    },
-    {
-      "id": "5040028",
-      "time": "2026-08-14 04:35:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普下令海軍恢復航空母艦上的舊有技術裝置。"
-    },
-    {
-      "id": "mkt:019ffcd6-950f-7aab-902d-90ab5e98fd88",
-      "time": "2026-08-14 04:35:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fitch affirms U.S. sovereign credit rating at 'AA+'; outlook stable."
-    },
-    {
-      "id": "te:markets:575185",
-      "time": "2026-08-14 04:35:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index went up by 58 points or 0.11 percent on Thursday to close at 53828 points. The rise was led by Merck (2.00%), Nike (1.90%) and Visa (1.51%). On the downside, the weakerst performers were Cisco Systems (-8.77%), UnitedHealth (-1.57%) and McDonalds (-1.23%)."
     }
   ]
 }
