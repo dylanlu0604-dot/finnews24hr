@@ -1,7 +1,523 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 00:45:09_
-_本檔包含 3279 則快訊，約 638034 字_
+_更新時間：2026-08-21 01:40:24_
+_本檔包含 3313 則快訊，約 638957 字_
+
+---
+
+### 2026-08-21 01:38:40  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
+
+U.S. equities extended losses; Dow Jones Industrial Average fell more than 1%, S&P 500 down 0.58%, Nasdaq Composite down 0.95%.
+
+---
+
+### 2026-08-21 01:37:05  #市場
+
+【美股道瓊斯指數期貨跌超1%】美股道瓊斯指數期貨跌超1%，納斯達克100指數期貨跌0.78%，標普500指數期貨跌0.6%。
+
+---
+
+### 2026-08-21 01:36:59  #市場 #焦點
+
+道指跌1.01%，現報52925.648點；納指跌0.94%，現報26082.928點；標普500指數跌0.57%，現報7664.370點。
+
+---
+
+### 2026-08-21 01:36:42  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact mixed
+
+Amazon (AMZN.O) says Prime Video will more than double its local original programming by 2030; over 25 local originals are slated for 2027 alone.
+
+---
+
+### 2026-08-21 01:36:20  #國際
+
+【美國住房可負擔性指標自2023年以來首次惡化】美國住房可負擔性的一個關鍵指標近三年來首次出現惡化，原因是借貸成本上升，吞噬了新購房者更大比例的收入。根據全美住宅建築商協會（NAHB）和富國銀行週四公佈的資料，今年第二季度，購買一套中位價41.07萬美元住房的月供，佔典型家庭收入的34%。這一比例高於一季度的32%，逆轉了自2025年初以來錄得的部分改善。
+
+---
+
+### 2026-08-21 01:35:41  #市場 #國際
+
+美國股市延續跌勢，道瓊斯工業指數下跌1%。
+
+---
+
+### 2026-08-21 01:35:11  #公司
+
+亞馬遜：Prime Video本地原創內容數量到2030年將增長一倍以上，僅2027年就將推出超25部原創作品。
+
+---
+
+### 2026-08-21 01:35:00  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon (AMZN.O) said Prime Video plans to invest $2 billion in Latin America between 2027 and 2030.
+
+---
+
+### 2026-08-21 01:34:29  #公司
+
+亞馬遜：Prime Video計劃於2027年至2030年間在拉美地區投資20億美元。
+
+---
+
+### 2026-08-21 01:33:43  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
+
+Google (GOOG.O): Antigravity, its AI agent development platform, is now available to eligible Gemini Enterprise app subscribers, providing built-in administrative controls and spend-management features.
+
+---
+
+### 2026-08-21 01:33:14  #MKT News #Commodities #Industrial Metals
+
+【U.S.-backed consortium to invest about $500m in Tanzanian Kabanga nickel project】A U.S.-backed consortium is negotiating an investment of roughly $500–600m to develop the Kabanga nickel project in Tanzania as the Trump administration pushes to secure critical metal supplies. The group, formed in October and backed by the U.S. International Development Finance Corporation (DFC) and Abu Dhabi’s L'imad Holding, would have Orion CMC acquire a stake in Kabanga Nickel, the Lifezone Metals unit that holds the project; one source said the amount is closer to $500m.
+
+---
+
+### 2026-08-21 01:33:09  #公司
+
+谷歌： ANTIGRAVITY 現已作為符合條件的Gemini企業應用訂閱的一部分提供，包括開箱即用的管理與支出控制功能。
+
+---
+
+### 2026-08-21 01:30:58  #MKT News
+
+The U.S. Commodity Futures Trading Commission is seeking public comment on a proposal to eliminate the requirement that swap execution facilities (SEFs) provide an order book for permitted transactions.
+
+---
+
+### 2026-08-21 01:29:03  #MKT News
+
+Syrian foreign minister said his visit to Pakistan was successful and will further strengthen bilateral ties and broaden areas for cooperation.
+
+---
+
+### 2026-08-21 01:28:32  #公司
+
+卡斯凱茲公司將部分贖回 2028 年到期、票面利率 5.375% 的高階債券。
+
+---
+
+### 2026-08-21 01:27:29  #MKT News
+
+Kyiv mayor reports a fire in a non-residential area of Holosiivskyi district; firefighters are extinguishing the blaze. One person injured; medical teams are providing assistance.
+
+---
+
+### 2026-08-21 01:26:11  #國際
+
+俄羅斯國防部：俄防空力量當天在俄羅斯境內以及黑海和亞速海海域上空攔截並擊落了64架烏克蘭無人機。
+
+---
+
+### 2026-08-21 01:24:10  #公司
+
+南非國家電力公司（ESKOM）：該限制涉及 2015 年至 2026 年 3 月 31 日期間的相關案件。
+
+---
+
+### 2026-08-21 01:23:47  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Citigroup trims dollar forecast, cites dovish Fed bets and Treasury repo pressure】Citigroup's FX strategists, led by Daniel Toban, turned short-term bearish on the US dollar, citing markets pricing a more dovish Fed, US midterm election risk and the US Treasury's expansion of repo operations in 10–30yr securities. The team cut its 3-month dollar-index forecast to 98.34 from 102.12. Citi noted Treasury Secretary Bessent's move to expand long‑term Treasury repo as a potential drag on the dollar; the dollar index hit its weakest level since May on Wednesday and traded around 98.9 on Thursday, and the team said downside risks to the dollar have increased after a recent neutral stance.
+
+---
+
+### 2026-08-21 01:23:29  #其他
+
+沙特可再生能源基金：我們將為貧困和低收入家庭提供全額補貼，支援安裝5.5萬臺太陽能熱水器，並對中等收入群體給予扶持。
+
+---
+
+### 2026-08-21 01:22:59  #公司
+
+南非國家電力公司（ESKOM）：相關供應商最長遭限制 10 年。
+
+---
+
+### 2026-08-21 01:22:32  #公司
+
+南非國家電力公司（ESKOM）啟動供應商懲戒程式，限制 101 家供應商。
+
+---
+
+### 2026-08-21 01:20:33  #MKT News #Market Regions #Europe & UK
+
+OpenAI has enabled the "Computer History" feature in its Mac desktop app for Pro, Business and Enterprise users in the European Economic Area, the UK and Switzerland.
+
+---
+
+### 2026-08-21 01:19:40  #國際
+
+美國將數艘與厄瓜多有關聯的漁船列入制裁名單。
+
+---
+
+### 2026-08-21 01:19:28  #國際
+
+美國製裁古巴建設部。
+
+---
+
+### 2026-08-21 01:18:57  #MKT News #Macro & Rates #US Economy #WMT.N #Impact bearish #TGT.O #Impact bullish #HD.O
+
+【Retail results show US consumers still spending but shifting to value amid higher prices】Retail reports indicate US consumers continue to spend but are under pressure. Walmart (WMT.N) on Thursday posted its slowest sales-growth in more than six years, citing a drag from its pharmacy business; the company said overall spending remains relatively stable while shoppers prioritize higher-value items. Target and Home Depot also reported sales gains and described demand as resilient when price and product match. Walmart CFO John Rainey said customers are making trade-offs, buying fewer items per trip, and that rising fuel costs have increased pressure versus earlier in the year.
+
+---
+
+### 2026-08-21 01:18:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Ukrainian President Zelenskiy said Ukraine will respond to Russia's large-scale attack and that the response will employ long-range strikes.
+
+---
+
+### 2026-08-21 01:18:00  #其他
+
+OpenAI：計算機網頁現已在歐元區、英國和瑞士對 Mac 上的 ChatGPT Pro、Business 和 Enterprise 使用者開放。 ChatGPT 可以記住您在應用和網站上的活動，因此未來的對話會感覺更個性化，並且需要更少的上下文。
+
+---
+
+### 2026-08-21 01:17:17  #國際
+
+美國製裁與真主黨有關聯的土耳其個人。
+
+---
+
+### 2026-08-21 01:17:09  #國際
+
+美國將與厄瓜多和古巴有關聯的實體列入制裁名單。
+
+---
+
+### 2026-08-21 01:17:01  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $225 mln from one counterparty in a fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-08-21 01:16:21  #央行 #其他
+
+紐約聯儲8月20日接受逆回購工具提交的2.25億美元全部申請。
+
+---
+
+### 2026-08-21 01:16:10  #MKT News
+
+Wall Street Journal, citing people familiar with the matter, reports US bank EverBank is seeking a buyer.
+
+---
+
+### 2026-08-21 01:16:10  #宏觀 #國際
+
+美國財政部簽發涉俄通用許可。
+
+---
+
+### 2026-08-21 01:15:35  #公司 #市場 #國際
+
+【零售商警告：高油價下部分美國消費者被迫“在必需品間做抉擇” 】零售商本週公佈的財報描繪了一幅喜憂參半的圖景，不僅反映出美國消費者的現狀，也展現了大型零售商如何應對當前的消費環境。包括Target和Walmart在內的主流零售商（業務均涵蓋食品雜貨）均報告了銷售額增長，但也指出消費者依然保持謹慎，部分原因是油價上漲。Target表示，最近一個季度同店銷售額增長了3.8%，這是其在經歷了多年疲弱的季度業績後，連續第二個季度實現穩健增長。Walmart表示，最近一個季度銷售額增長了2.6%，這是六年多來最疲軟的表現。Walmart並未將增速放緩歸咎於消費者支出的大幅縮減，而是指出新的藥店定價規定侵蝕了該業務的收入。儘管如此，Walmart仍觀察到低收入消費者的支出趨於謹慎，高管們表示，公司正在透過降價來吸引這些更加謹慎的顧客。Walmart首席財務官John David Rainey表示：“由於油價處於高位，本季度消費者似乎不得不在各種必需品之間做出取捨。”家居建材零售商Home Depot表示，消費者目前只為小型家居專案買單，並且只在確實需要時才購買洗碗機等昂貴的一次性消費品。高管們指出，消費者推遲了大型房屋翻新計劃，且停滯的房地產市場也拖累了銷售。Home Depot首席財務官Richard McPhail表示：“我們繼續專注於我們能控制的因素。”與此同時，其競爭對手Lowe's的增長較為疲軟，同店銷售額僅微增0.2%，高管將消費者支出疲軟列為原因之一。執行長Marvin Ellison本週早些時候表示，總體而言，消費者狀況依然健康，但他們“只是在非必需消費上變得更加謹慎”。
+
+---
+
+### 2026-08-21 01:14:32  #其他
+
+市場訊息： Everbank 的私募股權股東擬出售該銀行。
+
+---
+
+### 2026-08-21 01:14:22  #其他
+
+市場訊息： Everbank 也可能選擇 IPO 上市。
+
+---
+
+### 2026-08-21 01:13:23  #MKT News
+
+U.S. Treasury issued a new general license authorizing negotiations over the sale of Russia’s Lukoil International GmbH, the signing of contingent contracts, and related maintenance activities.
+
+---
+
+### 2026-08-21 01:12:32  #MKT News
+
+【Iran's defense ministry says its weapons have deterred enemies】Al Jazeera reported Iran's defense ministry said external threats and attacks have driven advances in its defense industry, with those achievements "born of threat." The ministry said years of development have "thwarted and deterred most of the enemy's calculations and objectives." It added that the war shows any attempt to strike Iran's national will to self-defence will face a nation both resolute in defence and resistance and able to convert each threat into fresh impetus for construction, development and new strength.
+
+---
+
+### 2026-08-21 01:12:25  #公司 #國際
+
+美國發布新的一般許可證，授權為盧克石油國際有限公司的出售談判及簽訂或有合同以及相關維護活動進行交易。
+
+---
+
+### 2026-08-21 01:12:22  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+ZELENSKIY said Russian forces struck with large numbers of ballistic missiles, cruise missiles and drones, and that Ukraine urgently needs allies to provide Patriot air-defence systems to intercept ballistic missiles.
+
+---
+
+### 2026-08-21 01:11:46  #Trading Economics #Markets #Commodity #Importance 1
+
+Silver Rises to 2-Month High — Silver prices rose to $68.2 per ounce on Wednesday, the highest in two months, on strong industrial demand and support from a reignition in the debasement trade. The US Treasury announced it would double the buyback of long-term maturities, adding to other efforts that limit the surge in longer ends of the curve. Besides lowering borrowing costs, the signal that the federal government is actively attempting to supress yields lifted the outlook on dollar liquidity, raised risks on higher deficit spending, and turned investors to repivot toward hard assets that defend across a lower purchasing power. In turn, industrial demand for silver also supported bids. Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes, in line with an expanding production for solar panels and electricity grids to accommodate for the soaring electrification trend pushed by the central government.
+
+---
+
+### 2026-08-21 01:11:40  #宏觀 #國際
+
+美國財政部：美國發布新的伊朗相關制裁。
+
+---
+
+### 2026-08-21 01:11:31  #MKT News
+
+U.S. Treasury issues general licenses related to Cuba.
+
+---
+
+### 2026-08-21 01:11:30  #國際
+
+【澤連斯基： 澤連斯基要求加強國防協同——審計國際協議、強化防空並最佳化軍隊管理 】澤連斯基：“我期望國防部與我們的國防及安全部隊能夠協同作戰。對所有與國際夥伴達成的協議進行全面審計至關重要，必須明確哪些已經落實，哪些仍在等待執行。防空與反導能力是我們的首要任務，尤其是在冬季來臨之前。葉夫根尼·赫馬拉（Yevhenii Khmara）在我們國家安全域性（SSU）任職期間，在縱深打擊行動方面積累了豐富經驗。我期望未來能開展更多此類行動，並且我相信赫馬拉將繼續親自負責監督這一事務。
+
+---
+
+### 2026-08-21 01:11:20  #MKT News #WTI #Impact bullish #Brent #DXY
+
+U.S. Treasury announces new Iran-related sanctions.
+
+---
+
+### 2026-08-21 01:09:16  #國際
+
+德國、法國、義大利和英國領導人聯合宣告：我們要求以色列立即撤回E1專案，並停止在約旦河西岸的定居點擴張。
+
+---
+
+### 2026-08-21 01:08:46  #其他
+
+【12306汽車託運訂單爆了】自駕新疆玩一圈，幾千公里開回來太累？現在有個新玩法——你坐飛機回家，讓你的車坐火車。旅遊平臺資料顯示，自今年6月獨庫公路恢復通車後，相關關鍵詞搜尋量環比暴漲166%，伊犁環線遊、南疆深度遊等長線自駕客流顯著增長，鐵路部門直接開了11條託運線路，烏魯木齊到北京、成都、重慶、西安，專列直達。車內還能塞行李和新疆特產，人先走，車後到。 怎麼辦？全程操作超簡單！12306 App搜“汽車託運”，線上預約、線下驗車交接、到站簽收三步搞定。車輛全程密閉車廂運輸，專業固定防護，安全又穩妥。截至目前全國鐵路已經開通46條汽車託運線路，覆蓋北京、廣州、成都、烏魯木齊等熱門旅遊城市，今年暑期以來，全國汽車託運訂單超過1萬輛，同比增長70.5%，其中新疆、西藏是熱門地區，訂單量同比增長2.7倍。（央視財經）
+
+---
+
+### 2026-08-21 01:08:15  #其他
+
+市場訊息： 蒙特德伊帕斯基銀行準備對忠利銀行、Banco BPM 提交收購報價。
+
+---
+
+### 2026-08-21 01:07:17  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. Treasury yields were little changed after a 30-year TIPS auction; the 30-year TIPS yield rose 2.9 bps to 2.99%.
+
+---
+
+### 2026-08-21 01:06:48  #其他
+
+KRAKEN：自8月20日起，KRAKEN不再支援透過ARBITRUM NOVA網路進行存取款。
+
+---
+
+### 2026-08-21 01:06:23  #MKT News #Commodities #Energy
+
+EPA: U.S. generated 796 mln biodiesel (D4) RINs in July, down from 841 mln in June. U.S. generated 1.29 bln ethanol (D6) RINs in July, up from 1.28 bln in June.
+
+---
+
+### 2026-08-21 01:05:43  #市場 #國際
+
+30年期通脹保值國債拍賣後，美國國債收益率基本持平；30年期通脹保值國債收益率上漲2.9個基點，報2.99%。
+
+---
+
+### 2026-08-21 01:04:56  #國際
+
+美國環保署（EPA）資料顯示，7月美國生成了12.9億單位D6乙醇調合信用額，6月該數值為12.8億單位。
+
+---
+
+### 2026-08-21 01:04:50  #國際
+
+美國環保署（EPA）資料顯示，7月美國生成了7.96億加侖生物柴油（D4）調合額度，6月該數值為8.41億加侖。
+
+---
+
+### 2026-08-21 01:04:32  #其他
+
+市場訊息：交易金額未披露，據信規模達數十億日元（接上條）。
+
+---
+
+### 2026-08-21 01:04:16  #其他
+
+市場訊息：獲法國奢侈品巨頭路威酩軒（LVMH）支援的L Catterton將於10月前收購Financial Standard的多數股權。
+
+---
+
+### 2026-08-21 01:04:06  #國際
+
+美國出售90億美元通脹保值30年期公債，得標利率為2.973%，投標倍數2.37。
+
+---
+
+### 2026-08-21 01:03:45  #公司
+
+PERMA-PIPE INTERNATIONAL：在北美地區，公司位於俄亥俄州的新制造工廠繼續積累了充裕的訂單儲備。
+
+---
+
+### 2026-08-21 01:03:42  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish
+
+Google (GOOG.O): Gemma model downloads surpass 1 bln.
+
+---
+
+### 2026-08-21 01:02:49  #宏觀 #市場 #國際
+
+美國財政部拍賣80億美元30年期通脹保值國債（TIPS），得標利率2.973%，投標倍數2.82。
+
+---
+
+### 2026-08-21 01:02:46  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve: For the week ended in August 2019, U.S. foreign financial commercial paper outstanding (not seasonally adjusted) fell $1.4 bln; commercial paper outstanding (not seasonally adjusted) rose $3.0 bln; seasonally adjusted commercial paper outstanding rose $12.5 bln.
+
+---
+
+### 2026-08-21 01:01:51  #公司
+
+谷歌：Gemma 下載量突破 10 億次。
+
+---
+
+### 2026-08-21 01:00:52  #MKT News #Star Stocks #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) trades 0.15% higher after earlier sliding as much as 0.81%.
+
+---
+
+### 2026-08-21 01:00:33  #市場 #焦點
+
+英偉達股價短線拉昇轉漲，此前一度跌近1%。
+
+---
+
+### 2026-08-21 01:00:03  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.19%，滬銅收漲0.04%，滬鋁收跌0.47%，滬鋅收漲0.79%，滬鉛收漲1.10%，滬鎳收跌0.94%，滬錫收漲0.79%。氧化鋁夜盤收漲0.45%，鋁合金收跌0.33%。不鏽鋼夜盤收跌1.39%。
+
+---
+
+### 2026-08-21 00:59:09  #國際
+
+馬斯克：媒體從未提到，當弗洛伊德（美國著名社會案件弗洛伊德案當事人）抱怨呼吸困難時，警察立即叫了救護車。 對“兇手”來說，這可真是反常的行為。
+
+---
+
+### 2026-08-21 00:59:08  #市場 #焦點
+
+美國天然氣期貨跌超3.00%，現報2.740美元/百萬英熱。
+
+---
+
+### 2026-08-21 00:58:03  #MKT News #Commodities #Energy
+
+According to Russian Business Daily, President Putin said Russia plans to build new nuclear power plants, including small modular reactor (SMR) projects, targeting an additional 30 GW of generation capacity.
+
+---
+
+### 2026-08-21 00:57:17  #國際
+
+印度總理莫迪：很高興接待日本防衛大臣小泉進次郎。就深化印度與日本之間的防務和安全聯絡進行會談。我們特殊的戰略與全球夥伴關係是廣泛區域和平、穩定與繁榮的重要支柱。
+
+---
+
+### 2026-08-21 00:55:01  #其他
+
+據相關初步計劃顯示，安哥拉10月計劃裝運30船原油，低於9月計劃的34船。
+
+---
+
+### 2026-08-21 00:54:46  #國際
+
+【債券收益率是“房間裡的大象” 股票投資者卻對其視而不見】如果專業投資者擔心全球債券收益率上升會破壞股票牛市，那麼從他們的資金配置來看，你根本猜不到他們有這種擔憂。美國銀行最新的全球基金經理調查顯示，股票在這些基金經理投資組合中的佔比達到56%，為2021年11月份以來最高。在這份調查結果表明基金經理看漲股票的同時，同一份調查還顯示，“債券收益率無序上升”被視為股市面臨的第二大威脅，僅次於對AI泡沫的擔憂。在相關風險方面，25%的受訪者將第二波通脹列為最大風險。Sevens Report Technicals通訊的編輯Tyler Richey在接受電話採訪時表示，收益率飆升是“房間裡的大象”，在過去一年股市屢創新高，但一直難以維持在歷史高位附近之際，這可能會破壞股市行情。
+
+---
+
+### 2026-08-21 00:53:59  #MKT News #SPCX.O
+
+SpaceX (SPCX.O): Starship completed a single-engine static-fire test to validate deorbit burn capability for future orbital missions.
+
+---
+
+### 2026-08-21 00:53:45  #其他
+
+訊息人士透露，ActBlue聯合創始人馬特·德貝加利斯在國會關於外國捐款的調查中，援引第五修正案拒絕作證。
+
+---
+
+### 2026-08-21 00:53:19  #其他
+
+SpaceX：星艦完成單臺發動機靜態點火測試，用於驗證未來軌道任務中的離軌制動能力。
+
+---
+
+### 2026-08-21 00:52:58  #市場
+
+LME3個月鈷：收盤持平，價格為每噸56,290美元。
+LME3個月鋅：期貨收盤上漲52美元，報每噸3,760美元。
+LME3個月錫：收於每噸55,803美元，上漲2,253美元。
+LME3個月鎳：期貨收於每噸16,880美元，下跌233美元。
+LME3個月鉛：期貨收盤上漲14美元，報每噸1,902美元。
+LME3個月銅：收跌13美元，報每噸14,036美元。
+LME3個月鋁：收盤下跌22美元，報每噸3,205美元。
+
+---
+
+### 2026-08-21 00:51:22  #其他
+
+LME期銅收跌13美元，報14036美元/噸。LME期鋁收跌22美元，報3205美元/噸。LME期鋅收漲52美元，報3760美元/噸。
+
+---
+
+### 2026-08-21 00:51:17  #MKT News #WTI #Impact bullish #Brent
+
+Preliminary plans show Angola intends to load 30 crude oil cargoes in October, down from 34 planned in September.
+
+---
+
+### 2026-08-21 00:51:06  #宏觀 #公司 #市場 #觀點 #央行 #國際
+
+【花旗下調美元短期預期，警告美債回購及政治風險將施壓匯價】花旗集團貨幣策略師團隊近期對美元短期走勢轉為悲觀，將未來三個月的美元指數預測值從102.12大幅下調至98.34。策略師丹尼爾·託邦在週四釋出的研報中指出，美國財政部計劃在11月份將10至30年期國債回購規模擴大一倍，此舉將透過壓低長端收益率以及引發市場對“金融抑制”的擔憂，給美元帶來新的下行壓力。此前，美國財政部長貝森特為降低長期借貸成本而採取的最新舉措已引發市場關注，花旗警告稱，遏制收益率的努力可能會使美元承受壓力，美元指數也一度跌至5月以來的最低水平。不過，花旗並未改變其對美元的長期看法，認為美國經濟增長前景依然優於十國集團其他成員國。此外，美伊衝突（如霍爾木茲海峽石油流量減少）及人工智慧相關的大規模資本支出引發的通脹擔憂，仍是未來美元走勢的潛在風險點。在主要非美貨幣方面，花旗上調了歐元的短期預期。基於歐洲央行將在9月份加息25個基點的預期，以及市場對美聯儲加息預期的減弱，花旗將未來三個月歐元/美元的預測上調至1.1750。截至週四紐約時間中午，該貨幣對在1.17附近交投，走勢相對平穩。
+
+---
+
+### 2026-08-21 00:50:24  #其他
+
+OpenAI Developer：Codex已經支援ExaAILabs，透過新的ExaAILabs 外掛，可以為 ChatGPT 提供工作和 Codex 訪問 1000 億+ 網站、論文、文件等的許可權。
+
+---
+
+### 2026-08-21 00:48:16  #其他
+
+【深汕特別合作區釋出雷雨大風黃色預警訊號】深圳市氣象臺2026年08月21日00時46分在深汕特別合作區、深汕海域釋出雷雨大風黃色預警訊號，預計2-3小時內深汕區陣風將達8級左右，並伴有短時強降雨和雷電。請落實各項防風防雷電措施。（深圳天氣）
+
+---
+
+### 2026-08-21 00:46:19  #市場 #國際
+
+週四（8月20日）歐市尾盤，ICE英國天然氣期貨漲2.90%，TTF基準荷蘭天然氣期貨漲2.86%，ICE歐盟碳排放交易許可（期貨價格）漲0.74%。
+
+---
+
+### 2026-08-21 00:46:01  #MKT News #Commodities #Energy #Market Regions #EURUSD #Impact bearish #Brent #Impact bullish #DXY
+
+【Germany lowers winter gas storage expectation to 60–70%, says level should be sufficient】Germany's Economy Ministry said gas storage of 60–70% at the start of winter, together with additional import capacity, would typically suffice to meet average winter demand, implying limited buffer against supply disruptions for Europe's largest energy consumer. The ministry added the government is able and will act if energy security is threatened. Disruptions to gas flows from the Middle East this year and a reduced incentive for utilities and traders to stockpile have left Europe struggling to refill reserves. EU storage is just above 61% — the lowest for the season since records began in 2009 — while Germany's facilities are around 50% full.
+
+---
+
+### 2026-08-21 00:45:00  #其他
+
+【奈及利亞發生沉船事故 造成至少40人死亡】當地時間8月20日，奈及利亞西北部索科託州發生一起嚴重沉船事故。一艘載有70餘人的木船在渡河時傾覆，目前已造成至少40人遇難。奈及利亞國家內河航道管理局區域經理阿卜杜勒卡迪爾·優素福證實，事故發生在索科託州戈羅尼奧地方政府區的戈勞鎮。據瞭解，船上乘客主要是附近前往稻田幹活的農戶和受僱收割水稻的工人，事發時船隻處於嚴重超載狀態。目前，當地政府對失蹤乘客的搜尋工作仍在進行中，預計傷亡人數還可能上升。（央視新聞）
+
+---
+
+### 2026-08-21 00:44:44  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+Sources said air-raid sirens sounded in Kyiv, Ukraine as an air-defence alert was activated.
 
 ---
 
@@ -19491,311 +20007,5 @@ Gold Rises to Over 2-Month High — Gold prices rose to $4,480 per ounce on Wedn
 ### 2026-08-20 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
 
 Agricultural Commodities Updates: Cotton Gains by 3.63% — Top commodity gainers are Cotton (3.63%), Palm Oil (2.92%) and Wheat (2.26%). Biggest loser is Coffee (-1.29%).
-
----
-
-### 2026-08-20 02:24:32  #其他
-
-Waymo：Ojai自動駕駛計程車已正式在舊金山、鳳凰城、洛杉磯上路，向所有乘客開放。
-
----
-
-### 2026-08-20 02:24:09  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed minutes: officials discuss governor's push for operating reforms; many reiterate fed funds target as primary tool】Fed minutes show officials have begun discussing a governor’s broader agenda, including potential reforms to the Fed’s operating framework. Participants said the upcoming balance-sheet-management review is an opportunity for a comprehensive discussion, but many attendees reiterated that adjusting the federal funds target range should remain the primary means of changing policy stance rather than altering the Fed’s asset holdings. The governor asked the C.BANK to consider cutting annual policy meetings from eight to six to allow two full months of data between meetings; no decision has been taken and the 2026 meeting schedule will not change.
-
----
-
-### 2026-08-20 02:23:43  #其他
-
-哥倫比亞地震遇難人數升至312人。
-
----
-
-### 2026-08-20 02:23:23  #國際
-
-【俄副總理：俄羅斯已開始進口燃料】據俄羅斯新聞頻道網站19日報道，俄羅斯副總理諾瓦克表示，俄羅斯已經開始進口燃料，並透過必要法規允許生產部分低排放等級的燃料。（新華社）
-
----
-
-### 2026-08-20 02:23:00  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Fed minutes show officials' inflation concerns intensified at July meeting】Minutes published Wednesday show Fed officials' inflation concerns deepened at the July meeting. Several policymakers were prepared to raise rates, and many said raising borrowing costs would be necessary if inflation does not return to the Fed's 2% target. Officials favoring hikes said price pressures appeared broad-based and urged a more restrictive policy stance to secure price stability and maximum employment, warning that failure to act could require a later sequence of larger, costlier tightenings. A broad set of participants indicated policy would likely need to tighten further if inflation does not fall.
-
----
-
-### 2026-08-20 02:21:33  #市場 #國際
-
-【美國油價再創新高】美國加油站油價已創下新高，達到每加侖5.47美元。最新資料顯示，美國柴油與原油之間的價差也首次突破102.20美元，創歷史新高。美國柴油價格的上漲始於對伊朗的戰爭之後，並持續至今；去年平均價格為每加侖3.69美元，如今已上漲了49%。 美國八大農業與工業重鎮對交通運輸依賴極深，此次價格飆升推高了卡車司機與農民的運營成本，再度加劇通脹。
-
----
-
-### 2026-08-20 02:20:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
-
-【Fed minutes: inf risks dominated officials' discussion of economic outlook】The Fed left rates unchanged in July, but minutes show inf risks dominated officials' outlook. Many officials said further hikes could be needed if inf does not cool; the Fed's use of "many" denotes a sizable bloc short of a majority. At the July meeting July inf and payrolls data were not yet available. Subsequent July data showed inf cooled and the labor market softened, prompting traders to trim odds of a September rate hike. Markets will see additional inf and jobs prints before the next Fed meeting.
-
----
-
-### 2026-08-20 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Rises by 4.42% — Top commodity gainers are Platinum (4.42%), Silver (3.67%) and Gold (3.45%). Biggest loser is Lithium Carbonate (-1.21%).
-
----
-
-### 2026-08-20 02:19:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US Yields Hold Pullback — The yield on the 10-year US Treasury note fell to 4.65% on Wednesday from 20-month highs of 4.75% in the previous session after the Treasury announced it would double the size of buybacks on long-dated securities. The move only increased the limit on operations to $4 billion, but it consolidated the department's efforts on intervening against high yields to limit the market's exposure to duration. Other measures included a joint intervention with Japan to support the yen by selling euros, undercutting Tokyo's yen defense by selling Treasury notes and bonds. On top of that, Secretary Bessent called for the Fed to increase its FIMA facility past the threshold of $60 billion, which would allow Japan to access dollar liquidity without selling Treasuries. Treasury bonds plunged in August as soaring AI-debt issuance, higher deficit spending, and risks of elevated inflation raised estimates on term premia. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates.
-
----
-
-### 2026-08-20 02:17:12  #其他
-
-Stripe上半年淨營收同比增長41%，上半年自由現金流同比增長43%。
-
----
-
-### 2026-08-20 02:15:56  #國際
-
-優步、Verne及小馬智行計劃將自動駕駛出行服務擴充套件至更多歐洲城市。
-
----
-
-### 2026-08-20 02:15:43  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-【Fed minutes: Warsh proposed cutting annual FOMC meetings from eight to six】Federal Reserve minutes show Chair Kevin Warsh proposed reducing the Federal Open Market Committee's annual policy meetings from eight to six. Warsh said six meetings — roughly once every two months — would allow more information to accumulate between meetings and give policymakers and Fed staff more time for strategic research and consideration of monetary policy. He solicited committee views; the minutes state the meeting schedule will not change this year. The minutes note that fewer policy meetings would represent a significant change to how the Fed operates.
-
----
-
-### 2026-08-20 02:15:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Methanol Gains by 2.48% — Top commodity gainers are Methanol (2.48%), Crude Oil WTI (1.59%), Natural gas (1.53%) and Brent Crude Oil (1.01%). Biggest losers are Gasoline (-0.91%) and Germany Natural Gas THE (-0.52%).
-
----
-
-### 2026-08-20 02:14:51  #國際
-
-優步攜手Verne與小馬智行，在歐洲薩格勒布推出歐洲自動駕駛出行服務。
-
----
-
-### 2026-08-20 02:14:05  #國際
-
-歐盟能源專員約根森：電力供應狀況“穩定”，但預計在未來幾周內將“保持緊張”。
-
----
-
-### 2026-08-20 02:13:16  #央行 #焦點 #國際
-
-【美聯儲會議紀要：7月會議釋放鷹派訊號】美聯儲7月會議紀要顯示，多數美聯儲官員支援維持利率不變，但數位官員傾向加息25個基點。許多與會人員表示，如果通脹不能持續回落，可能需要進一步加息。部分官員稱立即加息有助於避免後續更大幅度的加息。部分美聯儲官員認為當前金融環境的緊縮力度不足以讓通脹回到2%的目標。數位委員指出，商品及服務的漲價已經呈現全面擴散態勢。通脹前景相較6月基本沒有變化，而經濟前景評估則略顯疲軟。幾乎所有委員支援堅守聯邦公開市場委員會“實現物價穩定”的承諾。美聯儲官員指出，強勁的經濟增長，疊加市場對美聯儲進一步收緊政策的預期，已經收緊了金融環境。美聯儲還探討過把年度政策會議縮減至6場，以便有更多時間積累經濟資料，但並未作出決議。
-
----
-
-### 2026-08-20 02:13:16  #MKT News #Commodities #Energy
-
-EU Energy Commissioner Jorgensen said power supply is currently stable but is expected to remain tight over the coming weeks.
-
----
-
-### 2026-08-20 02:11:56  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish #Brent #XAUUSD
-
-【Fed minutes: Iran conflict escalation casts shadow over inf outlook】Federal Reserve minutes said officials view the inf outlook as "highly uncertain" and that renewed escalation of the Iran war "casts a shadow" over that outlook. Officials judged the labor market stable, with labor demand and supply in balance. The post-meeting statement largely reused June wording and reaffirmed the Fed's commitment to price stability. Officials described growth as "solid" and noted strong capital investment and productivity gains. The July vote marked the Fed's fifth consecutive meeting holding rates unchanged following three cuts at end-2025.
-
----
-
-### 2026-08-20 02:10:12  #其他
-
-瑞穗將家得寶的目標股價從每股385美元上調至390美元，維持家得寶“跑贏大盤”評級。
-
----
-
-### 2026-08-20 02:09:42  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-【Fed minutes: Several officials signaled hikes may be needed if inflation does not fall】Fed minutes from the July meeting showed several officials leaned toward a rate hike and many said policy would need to tighten further if inflation fails to decline. Uncertainty remained high and participants emphasized that incoming data will be central to policy decisions. The FOMC voted 9-3 to hold the policy rate at 3.50%-3.75%; three dissents favored a 25bp increase, and two non-voting regional presidents said they would have supported a hike. Most participants expected inflation to ease this year as tariff and earlier energy-price effects fade, but many flagged a material risk that inflation stays elevated.
-
----
-
-### 2026-08-20 02:09:17  #公司 #國際
-
-美國航空航天局（NASA）與Katalyst Space公司取消了為雨燕空間望遠鏡提升軌道的計劃，原因是在軌救援飛行器出現技術問題。
-
----
-
-### 2026-08-20 02:08:49  #MKT News
-
-Iran's foreign minister held a phone call with Pakistan's army chief to discuss the regional situation and recent diplomatic developments and to push for political and diplomatic solutions. Both sides emphasized strengthening communication and cooperation.
-
----
-
-### 2026-08-20 02:08:23  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Mixed — US stocks were mixed on Wednesday as losses for AI infrastructure and banks offset gains in other sectors. The S&P 500 and the Dow were 0.3% higher, while tech losses drove the Nasdaq 100 to the red. The Treasury doubled the limit on buybacks of long-term securities for next quarter, adding to a series of other measures it took to control the recent surge in longer benchmark borrowing costs. Besides reducing rates, the outlook of higher dollar liquidity from the Treasury's intervention also supported equities. This was combined with minutes from the FOMC confirming some calls that rate hikes may be appropriate this year. Retail stocks were mostly higher after TJX, Target, and Lowe's reported their earnings results. Meanwhile, the pharmaceutical sector surged, with Merck advancing 12% and Moderna surging 150% after a trial on their joint vaccine cut recurrence in melanoma. On the other hand, tepid results by OpenAI pressured chip producers with AMD and Intel dropping 4%.
-
----
-
-### 2026-08-20 02:07:29  #國際
-
-伊朗與巴基斯坦兩國官員通電話，磋商近期局勢。
-
----
-
-### 2026-08-20 02:07:14  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-CENTCOM said as of Aug 19 it had forced 65 commercial vessels to divert course, rendered three vessels inoperative, and boarded two vessels for inspection to ensure compliance with relevant requirements.
-
----
-
-### 2026-08-20 02:06:59  #央行 #焦點 #國際
-
-【美聯儲會議紀要：多數支援維持利率不變，部分官員主張必要時加息】美聯儲會議紀要顯示，美聯儲7月28‑29日會議上，大多數與會者支援維持利率不變，但有數位與會者傾向加息；許多與會者評估，若通脹未能回落，則可能需要進一步加息，部分與會者表示，當前金融環境的緊縮力度或許不足以將通脹拉回2%目標。
-
----
-
-### 2026-08-20 02:06:16  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish
-
-Colombian peso rose 1.81% against the dollar to 3,039, its highest level since October 2018.
-
----
-
-### 2026-08-20 02:06:07  #MKT News #Macro & Rates #The Fed (FOMC) #Market Themes #AI Revolution #Nasdaq100 #Impact bearish
-
-Fed minutes: some officials noted a correction in AI-related equities could pose financial stability risks.
-
----
-
-### 2026-08-20 02:05:59  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed minutes: some participants said the Fed's ample-reserves framework helped maintain orderly market functioning during a brief payment-system outage between meetings.
-
----
-
-### 2026-08-20 02:05:31  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed minutes: several participants said price increases over the past year were broad-based, spanning many categories of goods and services.
-
----
-
-### 2026-08-20 02:05:30  #國際
-
-美國中央司令部：截至8月19日，美軍已勒令65艘商船改道，癱瘓3艘船隻，並登檢2艘，以確保各方遵守相關規定。
-
----
-
-### 2026-08-20 02:05:28  #Trading Economics #Economy #United States #Interest Rate #Importance 3
-
-Fed Minutes Show Inflation Risks and Rate Hike Concerns — The Federal Reserve’s July meeting minutes showed that policymakers remained concerned about persistent inflation and the possibility that further rate increases could be required if price pressures fail to ease. Several officials judged that financial conditions may not have been restrictive enough, while others noted that tighter market conditions were already contributing to the Fed’s efforts to slow demand. A small group of policymakers who supported raising rates at the July meeting believed an immediate hike could have reduced the need for larger increases later. Officials generally viewed inflation risks as tilted to the upside, although some said financial markets were already doing part of the tightening work. Importantly, the meeting took place before subsequent data showed cooler employment and inflation, meaning the discussion may overstate the degree of tightening currently expected by markets.
-
----
-
-### 2026-08-20 02:05:18  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #US10Y
-
-Fed minutes: Fed staff's economic outlook shows inf forecasts largely unchanged from projections prepared for the June meeting, but the economic outlook is described as "slightly weaker".
-
----
-
-### 2026-08-20 02:04:45  #央行 #國際
-
-美聯儲會議紀要：許多與會者表示曠日持久的中東戰爭可能推高通脹。
-
----
-
-### 2026-08-20 02:04:36  #央行 #國際
-
-美聯儲會議紀要：數位與會者表示關稅傳導（導致的通脹）目前已基本完成。
-
----
-
-### 2026-08-20 02:04:17  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Federal Reserve minutes: officials broadly saw upside risks to inf.
-
----
-
-### 2026-08-20 02:04:05  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve minutes: the meeting did not decide on the number of policy meetings. Fed Chair Kevin Warsh said the 2026 meeting schedule will not change.
-
----
-
-### 2026-08-20 02:03:45  #其他
-
-賴比瑞亞前副總統朱厄爾·霍華德-泰勒被指控，案件涉及跨國販毒網路調查。
-
----
-
-### 2026-08-20 02:03:30  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed minutes: nearly all FOMC participants judged it appropriate to retain the policy-statement language affirming the Committee "will achieve price stability".
-
----
-
-### 2026-08-20 02:03:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
-
-Fed minutes: several officials said financial markets are bearing part of the Fed's policy tightening.
-
----
-
-### 2026-08-20 02:03:26  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY
-
-Fed minutes: Federal Reserve Chair Kevin Warsh said the Fed will schedule six policy meetings a year, about once every two months, to allow more information to accrue between meetings.
-
----
-
-### 2026-08-20 02:03:23  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-Fed minutes: several participants who supported a rate hike at the meeting said a preemptive increase could help avoid the need for further rate hikes later.
-
----
-
-### 2026-08-20 02:03:23  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve minutes: some participants said financial conditions may not be sufficiently restrictive to achieve disinflation back to the Fed’s 2% target.
-
----
-
-### 2026-08-20 02:03:23  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed minutes: Several participants said financial conditions tightened between the two meetings, reflecting strong economic growth and market expectations that the Fed will soon adopt a more restrictive policy stance.
-
----
-
-### 2026-08-20 02:03:23  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Fed minutes: At the July 28-29 meeting, most participants supported keeping the policy rate unchanged, but several officials favored a rate hike.
-
----
-
-### 2026-08-20 02:03:23  #MKT News #Important #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish
-
-Spot gold was little changed after the Fed minutes; latest up 3.5% at $4,489.41/oz.
-
----
-
-### 2026-08-20 02:03:23  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-FOMC minutes showed most participants supported keeping policy rates unchanged, though several favored a rate hike.
-
----
-
-### 2026-08-20 02:03:22  #央行 #國際
-
-美聯儲會議紀要：主席沃什要求委員會就會議日程提供意見。
-
----
-
-### 2026-08-20 02:03:15  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed minutes: many participants said if inf does not continue to decline, it may be necessary to keep policy rates higher.
-
----
-
-### 2026-08-20 02:03:03  #市場 #央行 #國際
-
-現貨黃金在美聯儲會議紀要公佈後變動不大，最新上漲3.5%，報每盎司4489.41美元。
-
----
-
-### 2026-08-20 02:02:29  #國際
-
-法國外交部發言人宣告：法國譴責美國對國際刑事法院（ICC）實施制裁。
 
 ---

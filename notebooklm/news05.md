@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 00:45:09_
-_本檔包含 3345 則快訊，約 637888 字_
+_更新時間：2026-08-21 01:40:24_
+_本檔包含 3333 則快訊，約 638673 字_
+
+---
+
+### 2026-08-15 14:47:24  #市場
+
+【兩部門將針對江蘇的防汛四級應急響應提升至三級】受今年第13號颱風“白海豚”和近期強降雨共同影響，太湖發生流域性較大洪水，據預測，太湖水位後期仍將緩慢上漲。8月15至16日浙江東部和南部部分地區有暴雨，局地大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月15日12時，將針對江蘇的防汛四級應急響應提升至三級，針對浙江啟動防汛四級應急響應。（新華社）
+
+---
+
+### 2026-08-15 14:46:39  #MKT News
+
+【Interstellar Glory SQX-3 fairing static test successful】On Aug. 14, Interstellar Glory Aerospace Technology Group Co., Ltd. completed a static-load test of the SQX-3 launcher's fairing at a test site. Test metrics met design requirements, the fairing remained in good condition and passed evaluation. With separation and static verification now complete, the fairing is cleared for flight testing, advancing preparations for upcoming SQX-3 launch missions.
+
+---
+
+### 2026-08-15 14:45:48  #公司
+
+【星際榮耀SQX-3運載火箭整流罩靜力試驗取得成功】8月14日，星際榮耀航天科技集團股份有限公司在某試驗場組織開展了SQX-3運載火箭整流罩靜力試驗，產品各項指標滿足設計要求，試驗後產品狀態良好，成功透過考核。至此，整流罩完成了分離試驗及靜力試驗全剖面驗證，標誌著整流罩已具備飛行試驗條件，為後續SQX-3運載火箭飛行任務的圓滿成功奠定堅實基礎。
+
+---
+
+### 2026-08-15 14:45:46  #國際
+
+【伊朗外交部發言人：美國外交因謊言而喪失尊重】伊朗外交部發言人巴加埃在社交媒體發文稱，俄作家陀思妥耶夫斯基《卡拉馬佐夫兄弟》中的這段話，恰如其分地描繪出美國在對伊朗及中東治理體系與外交政策上，因極度依賴 “謊言” 而陷入的處境：“一個對自己說謊、還聽信自己謊言的人，終將落到這般地步：再也分辨不清自己內心和周遭的真相，進而徹底喪失對自己、對他人的全部尊重。”
+
+---
+
+### 2026-08-15 14:42:30  #其他
+
+【真健康醫療：中標器官常溫灌注系統專案】雲南省政府採購網訊息，雲南農業大學雲南省小型豬基因編輯與異種器官移植重點實驗室科研裝置採購專案2026-73號專案的器官常溫灌注系統由真健康醫療（02697.HK）中標，金額為280萬元。真健康醫療於今年6月在香港上市，主營業務涵蓋穿刺及消融手術機器人業務和高階器官保護與異種移植裝備業務。
+
+---
+
+### 2026-08-15 14:41:33  #國際
+
+據日本時事通訊社報道，日本首相高市早苗今天（8月15日）朝著靖國神社的方向遙拜。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 14:38:15  #MKT News #Commodities #Energy
+
+Hungary's prime minister magyar said authorities will sink two barges on Saturday to raise the Danube's water level and prevent a nuclear power plant shutdown after levels fell again.
+
+---
+
+### 2026-08-15 14:38:04  #其他
+
+匈牙利總理表示，由於多瑙河水位再次下降，當局將於週六沉下兩艘駁船抬高水位，以避免核電站停運。
+
+---
+
+### 2026-08-15 14:37:27  #MKT News
+
+【sheinbaum says US visa revocation of ex-president's son is interference】On Aug. 14 Mexico President sheinbaum said the US decision to revoke the U.S. visa of the son of former Mexican president Lopez was politically motivated and constituted interference in Mexico's internal affairs. Sheinbaum said Mexico must remain firm and that bilateral ties should be based on mutual respect. The remarks follow US revocations in 2026 of visas for at least six ruling-party officials and US requests to extradite alleged drug-trafficking collaborators — including four current governors, mayors and legislators and six former officials — to stand trial in the US; Mexico has rejected the extradition requests, citing insufficient evidence.
+
+---
+
+### 2026-08-15 14:32:16  #MKT News
+
+【Hainan Airlines flight HU753 diverts to Krasnoyarsk after mechanical fault; lands safely】Hainan Airlines flight HU753 (Beijing–Manchester) diverted to Krasnoyarsk International Airport, Russia, on Aug. 15, 2026 after a mechanical fault and landed safely at 07:28 Beijing time. The airline said it will swap aircraft to operate subsequent sectors and provide passenger assistance.
+
+---
+
+### 2026-08-15 14:30:52  #其他
+
+【克羅埃西亞山火已造成40人受傷】克羅埃西亞南部小城奧米什附近13日晚發生大規模山火，造成40人受傷。目前，這一地區的火勢已大幅減弱。（央視新聞）
+
+---
+
+### 2026-08-15 14:27:21  #其他
+
+【強化競爭力 我國科技期刊向世界舞臺邁進】主刊收到投稿400餘篇，已出版60篇，其中包括多個我國科研團隊的最新重要原創成果……在日前舉行的Vita期刊首期釋出暨生命科學開放聯盟一週年交流會上，Vita（《生命》）系列期刊正式亮相。業內專家表示，越來越多中國科技期刊積極探索創新，努力提升學術水準、增強國際影響力，逐步引導科研人員在創新性和治學嚴謹性上向一流成果看齊，為形成屬於中國的科技資料平臺和創新風向標積蓄力量。（新華社）
+
+---
+
+### 2026-08-15 14:22:01  #其他
+
+【北京舉辦消費節促“機器人買賣”】北京經濟技術開發區(下稱經開區)15日啟動“2026 E-Town機器人消費節”，以“買賣機器人，到北京亦莊”為主題，打通從技術到市場的“最後一公里”。今年消費節從資金投入、場景佈局、消費體驗三個維度進行升級。促消費專項資金從首屆的1500萬元(人民幣，下同)提升至1800萬元，重點向人工智慧、具身智慧產業傾斜。（中新網）
+
+---
+
+### 2026-08-15 14:13:36  #公司
+
+市場訊息：布魯可股東以每股67.50港元的價格出售股份，透過大宗交易籌集3200萬美元。
+
+---
+
+### 2026-08-15 14:12:49  #其他
+
+【澳大利亞出現萬事達卡支付遭拒情況】澳大利亞聯邦銀行稱，受萬事達卡全球性故障影響，澳大利亞使用者的萬事達卡支付出現交易被拒情況。 使用者可上報服務故障的網站Downdetector在週六下午3點收到超過1700條關於萬事達卡的故障反饋。 Downdetector上上報最多的故障集中在資金轉賬與手機銀行業務。 聯邦銀行在官網宣告中表示：“如客戶遇到交易被拒，請插入銀行卡，選擇儲蓄賬戶，透過澳洲電子支付系統eftpos完成付款。” “聯邦銀行其餘全部服務，包括自動櫃員機，均可正常使用。”
+
+---
+
+### 2026-08-15 14:11:13  #MKT News
+
+【Bulk carrier struck by unidentified flying object in Strait of Hormuz】Local time Aug 15, the UK Maritime Trade Operations (UKMTO) reported a maritime incident in the Strait of Hormuz. UKMTO said it received a verified report that a bulk carrier's hull was struck by an unidentified flying object. Crew are safe and no property damage has been reported.
+
+---
+
+### 2026-08-15 14:07:25  #其他
+
+【霍爾木茲海峽發生海事事故 一艘散貨船被不明飛行物擊中】當地時間8月15日，據英國海事貿易行動處（UKMTO）釋出的訊息，霍爾木茲海峽發生一起海事事故。該機構表示已收到一份經核實的報告，稱一艘散貨船被不明飛行物擊中船體。目前船員安全，尚未收到財產損失的報告。（央視新聞）
+
+---
+
+### 2026-08-15 14:06:17  #市場
+
+【二育熱度再起，本週豬價反彈】本週國內生豬價格呈現震盪上漲走勢。據中國養豬網的資料，8月14日，生豬（外三元）價格為10.87元/公斤，與上週五（8月7日）的10.36元/公斤相比，上漲4.9%。從一週均價來看，本週生豬均價為10.77元/公斤，與上週10.42元/公斤的均價相比，上漲3.4%。
+
+---
+
+### 2026-08-15 14:05:08  #市場
+
+【李錄大舉加倉拼多多，持倉僅剩8只】李錄掌管的喜馬拉雅基金，則大手筆清倉美國銀行、西方石油、穆迪、標普全球、MSCI、H&R Block等6只個股，同時大舉加倉拼多多和伯克希爾B股。其中，拼多多更是被翻倍增持。截至二季度末，喜馬拉雅基金總持倉市值由上季末的32億美元升至37億美元，持倉數量則進一步壓縮至8只。
+
+---
+
+### 2026-08-15 14:04:22  #其他
+
+市場訊息： 澳大利亞出現萬事達卡支付遭拒情況。
+
+---
+
+### 2026-08-15 14:03:54  #市場
+
+【段永平繼續加倉拼多多，大幅減持英偉達、谷歌】截至二季度末，由段永平管理的H&H International Investment基金總持倉市值約191億美元，約合人民幣1370億元，較去年四季度末的200億美元有所下降。二季度，段永平繼續增持拼多多，重新買入阿里巴巴，同時減持蘋果、英偉達、谷歌、微軟等，清倉臺積電、CrowdStrike等個股。
+
+---
+
+### 2026-08-15 13:58:02  #國際
+
+【墨西哥總統：美撤銷墨前總統之子美國簽證的行為干涉內政】當地時間8月14日，墨西哥總統辛鮑姆在晨間新聞釋出會上表示，針對美方撤銷前墨西哥總統洛佩斯之子的美國簽證的決定帶有政治目的，屬於干涉墨西哥內政。辛鮑姆強調，面對此類事件墨西哥要保持堅定，墨美兩國應當維持互相尊重的雙邊關係。（央視新聞）
+
+---
+
+### 2026-08-15 13:57:35  #市場
+
+【甘肅將5市乾旱防禦Ⅳ級應急響應調整為Ⅲ級】甘肅省水利廳於15日11時，對甘肅省酒泉市、張掖市、金昌市、武威市、白銀市的乾旱防禦Ⅳ級應急響應調整為乾旱防禦Ⅲ級應急響應，對嘉峪關市啟動乾旱防禦Ⅲ級應急響應。 受近期氣溫持續偏高、降水偏少、河流來水偏枯、水庫蓄水不足等影響，甘肅省酒泉市、嘉峪關市、張掖市、金昌市、武威市、白銀市等地旱情進一步發展，預計未來一段時間旱情仍將持續。（新華社）
+
+---
+
+### 2026-08-15 13:57:03  #MKT News
+
+UKMTO: no damage assessment reported; environmental impact unknown.
+
+---
+
+### 2026-08-15 13:57:00  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+UKMTO reports a projectile struck a vessel's hull; crew reported safe.
+
+---
+
+### 2026-08-15 13:56:55  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+UKMTO said it received reports that a bulk carrier in the Strait of Hormuz was struck by an unidentified object on Friday.
+
+---
+
+### 2026-08-15 13:54:54  #其他 #焦點 #國際
+
+英國海事貿易行動辦公室（UKMTO）稱，週五收到報告稱，一艘散貨船在霍爾木茲海峽被不明拋射物擊中，船員報告安全，目前尚無船舶受損報告，環境影響尚不明確。
+
+---
+
+### 2026-08-15 13:53:35  #國際
+
+受印尼地震影響，飛往東努沙登加拉省的多趟境內航班被取消。（新華社）
+
+---
+
+### 2026-08-15 13:51:57  #MKT News
+
+【Indonesian foreign ministry consular department: no foreign casualties reported after quake】On Aug 15 the Consular Affairs Department of the Indonesian Ministry of Foreign Affairs said no foreign casualties have been reported following a 7.7 magnitude earthquake at 04:58:24 local time off Nagekeo regency, East Nusa Tenggara (NTT). The epicenter was about 38 km northeast of Mbay at a depth of 15 km. The quake briefly carried a tsunami risk and prompted coastal evacuations. The Indonesian Meteorology, Climatology and Geophysics Agency (BMKG) said that as of 11:00 Central Indonesia Time (WITA) 111 aftershocks had been recorded, the latest magnitude 3.8, and seismic activity is continuing. The tsunami warning was lifted at 07:31. Remaining risks are aftershocks and damage to buildings.
+
+---
+
+### 2026-08-15 13:51:19  #國際
+
+【印尼外交部領事司：地震暫未導致外國公民傷亡】當地時間15日，印尼外交部領事司通報地震有關訊息，稱截至目前無外國公民傷亡。（央視新聞）
+
+---
+
+### 2026-08-15 13:38:06  #國際
+
+【印尼7.7級地震後已發生111次餘震】印尼氣象、氣候與地球物理局表示，截至印尼中部時間15日11時，東努沙登加拉省納格克縣7.7級地震發生後，已記錄到111次餘震，最近一次震級為3.8級。目前地震活動仍在持續。印尼氣象、氣候與地球物理局提醒弗洛勒斯島居民保持警惕，防範後續餘震。（央視新聞）
+
+---
+
+### 2026-08-15 13:36:03  #其他
+
+【香港特區政府房屋局和建築署榮登行政長官表揚榜】8月14日，香港特區政府房屋局和建築署整個簡約公屋團隊榮登行政長官表揚榜，房屋局局長何永賢在社交媒體上發文：“感謝對團隊的肯定，將繼續用心服務市民。” 何永賢說，團隊今日能有階段性的成果，當中最關鍵的，是大家真正地以人為本，每一位同事都清楚意識到，一些“劏房”的環境極度惡劣，令收入不多的基層市民更捉襟見肘，因此早一日完成工程、早一日入夥、有需要的家庭就早一日改善生活。 （大灣區之聲）
+
+---
+
+### 2026-08-15 13:32:03  #國際
+
+馬來西亞民航局證實蘇丹阿卜杜勒·阿齊茲·沙阿機場發生一起事件。
+
+---
+
+### 2026-08-15 13:31:15  #其他
+
+【河南周口市防汛抗旱指揮部：賈魯河周口段潰口目前可控】8月15日上午9時，周口市防汛抗旱指揮部發布《關於宣佈進入緊急防汛期的通告》，該《通告》發出後受到廣大群眾高度關注。周口市防汛抗旱指揮部相關負責人表示，8月13日晚11時左右，周口市川匯區新北環賈魯河大橋下堤防出現潰口，潰口目前可控。潰口現場，來自中國安能工程救援力量、省級骨幹救援力量攜帶挖掘機、裝載機、抽排水裝置等大型機械裝備，正在開展救援。“目前周口市防汛嚴峻，群眾關注度高，但同時網上也存在著部分關於防汛的不實言論，存在誤導群眾的可能性。希望廣大群眾一定要以官方釋出的資訊為準，不信謠、不傳謠、不造謠。”周口市防汛抗旱指揮部相關負責人說。（河南日報）
+
+---
+
+### 2026-08-15 13:30:50  #國際
+
+【李在明提出“包容穩定的對朝和平共處藍圖”】韓國總統李在明15日提出“包容穩定的對朝和平共處藍圖”，表示將推動朝鮮半島從當前的停戰體制向和平體制轉變。李在明當天在世宗文化會館舉行的光復節81週年慶祝儀式上致辭時闡述了這一對朝和平共處藍圖。李在明說，在去年光復節的慶祝儀式上，他曾表示尊重朝鮮現行體制，不追求以任何形式將其吸納統一，並明確表明無意進行任何敵對行為。時隔一年，他就此進一步提出“走向實踐的藍圖”。李在明就此提出三點建議。他建議韓朝實現彼此尊重的包容性和平共處，停止不必要對抗，從認知等層面逐步減少敵意。他希望南北雙方能夠坐下來，共同探討和平共處與共同發展的道路。（新華社）
+
+---
+
+### 2026-08-15 13:28:42  #公司
+
+【聯想集團劉軍：AI PC國內市場銷量佔比過半】聯想集團執行副總裁兼中國區總裁劉軍表示，“一體多端”戰略下，個人超級智慧體加持終端，聯想AI PC全球市場同比增86%，國內市場銷量佔膝上型電腦總銷量的比例已突破50%。他透露，在技術側，聯想正全面升級端側和邊緣側的算力，把Token生產更多留在本地，兼顧隱私與成本；在生態側則加速引入Skills，增強天禧AI的L3級任務執行能力。
+
+---
+
+### 2026-08-15 13:25:19  #國際
+
+黎巴嫩國家通訊社稱，以色列週六對黎巴嫩南部的空襲造成七人死亡。
+
+---
+
+### 2026-08-15 13:24:19  #公司 #國際
+
+據獨立檢驗與檢驗服務公司（ITS）資料，馬來西亞8月1日至15日棕櫚油出口量預計為68.1266萬噸。
+
+---
+
+### 2026-08-15 13:24:00  #公司 #國際
+
+【海關總署釋出關於進口泰國食用水生動物檢疫和衛生要求的公告】根據我國相關法律法規和中華人民共和國海關總署（以下稱中方）與泰王國農業與合作社部（以下稱泰方）關於泰國食用水生動物輸華檢驗檢疫和衛生要求的規定，即日起，允許符合要求的泰國食用水生動物進口。
+
+---
+
+### 2026-08-15 13:22:41  #國際
+
+【韓國首席貿易談判代表呂翰九被解職】韓國總統李在明於15日零時解除韓國產業通商部通商交涉本部長（首席貿易談判代表）呂翰九的職務。政府未公開此次人事任免的具體原因。呂翰九曾在文在寅政府擔任產業部通商政策局長和通商談判本部長。李在明政府上臺後，呂翰九再次出任該職，負責韓美關稅談判等重要貿易工作。在美國依據《貿易法》第301條啟動相關調查、電商酷澎（coupang）爭議持續發酵，以及美方要求韓國加快落實對美投資專案之際，韓方突然免去通商談判最高負責人職務，引發外界對免職背景的廣泛猜測。政府內部普遍認為，此次人事調整與韓美通商工作進展、呂翰九的工作表現無關，大機率涉及其個人相關問題。針對相關爭議質疑，呂翰九本人已予以否認。（第一財經）
+
+---
+
+### 2026-08-15 13:18:54  #MKT News
+
+【South Korea dismisses chief trade representative who led US negotiations】South Korea’s industry ministry said on Saturday it had dismissed its chief trade representative, without giving a reason. Yeo Han-koo, who had also served as trade minister, traveled to Washington several times this year to discuss tariffs, semiconductor-related measures and digital policy with US officials and lawmakers. The ministry said personnel decisions for political appointees are a presidential prerogative and that it will work to ensure current trade affairs are not affected. No successor has been named.
+
+---
+
+### 2026-08-15 13:18:01  #MKT News
+
+【7.7-magnitude quake off eastern Indonesia kills at least 20】Indonesia search-and-rescue officials said a 7.7-magnitude earthquake and several strong aftershocks struck on the morning of the 15th near Flores Island in eastern Indonesia, killing at least 20 people.
+
+---
+
+### 2026-08-15 13:17:13  #國際
+
+初步統計顯示，以色列對黎巴嫩南部安薩爾地區的空襲造成六人死亡。
+
+---
+
+### 2026-08-15 13:15:15  #其他
+
+【廣東7月報告新冠感染超7.1萬例、流感超43萬例】據“廣東釋出”，8月14日，廣東省衛生健康委員會網站顯示，廣東省疾病預防控制局公佈2026年7月全省法定傳染病疫情概況：2026年7月（7月1日0時至7月31日24時），全省共報告法定傳染病618365例，死亡113例。其中，2026年7月廣東省新型冠狀病毒感染報告發病71467例，死亡0例。報告顯示，2026年7月，全省甲類傳染病無發病、死亡報告。
+
+---
+
+### 2026-08-15 13:13:24  #國際
+
+【俄羅斯堪察加半島近海發生6.2級地震】俄羅斯科學院統一地球物理局堪察加分部透過社交平臺通報，協調世界時8月15日0時43分25秒（北京時間8時43分25秒），俄羅斯堪察加彼得羅巴甫洛夫斯克市南偏西方向約332公里的近海海域發生6.2級地震，震源深度63.8公里。（央視新聞）
+
+---
+
+### 2026-08-15 13:06:45  #其他
+
+【安徽緊急預撥1210萬元救災資金保障5市搶險救災】近日，受今年第13號颱風“白海豚”影響，安徽省多地出現強降雨天氣，部分地區引發洪澇災害。安徽省財政廳會同安徽省應急管理廳緊急預撥中央及省級自然災害救災資金1210萬元，支援六安、宣城、池州、安慶、黃山5市開展防汛防颱風應急搶險救災工作，重點用於受災群眾轉移安置基本生活保障、因災倒損住房修復等方面。今年入汛以來，安徽省財政已累計撥付防災減災救災資金1.16億元，重點支援自然災害救災、地質災害防治、水利防災救災、農業救災等領域。（央視新聞）
+
+---
+
+### 2026-08-15 13:05:40  #兩會
+
+【薩爾瓦多立法大會主席將訪華】應全國人大常委會委員長趙樂際邀請，薩爾瓦多立法大會主席卡斯特羅將於8月17日至22日率團訪華。（新華社）
+
+---
+
+### 2026-08-15 13:02:07  #公司
+
+【中廣核醫療與四川大學華西醫院簽署質子治療創新技術合作協議】據中廣核技訊息，8月14日，第32屆中國國際醫用儀器裝置展覽會暨技術交流會在北京國家會議中心開幕，中廣核技攜全線核醫療產品參展。展會現場，中廣核醫療科技（綿陽）有限公司與四川大學華西醫院簽署《質子弧形治療與自適應治療臨床聯合開發》合作協議，雙方將圍繞質子動態弧形治療和自適應治療技術的臨床轉化開展協同研發。
+
+---
+
+### 2026-08-15 12:59:11  #其他
+
+上海市氣象臺2026年08月15日12時52分發布中心城區雷電黃色預警訊號：預計未來12小時內，中心城區大部將發生雷電活動，可能會造成雷電災害事故，請注意防範。
+
+---
+
+### 2026-08-15 12:59:04  #其他
+
+【汛期催生家財險熱度，業內：建議以居住型別匹配相關產品】近期受颱風殘餘水汽北上影響，我國迎來大範圍持續性強降水天氣。華北、黃淮、華東等多地陸續開啟暴雨模式，北京多地接連發布暴雨橙色、紅色預警。記者注意到，在臺風、汛期的影響下，家財險的諮詢和銷售量也持續走高。有業內人士表示，家財險一般在投保成功後的第7天零時生效，部分附加險存在30天的等待期。考慮到等待期內發生的事故損失不予賠付，建議消費者提早規劃家財險，切勿等到颱風、汛期臨近才投保。（每經）
 
 ---
 
@@ -19826,377 +20126,5 @@ PLACER.AI資料：8月3日當週TACO BELL客流量下降8%，而7月中旬降幅
 ### 2026-08-14 01:40:54  #國際
 
 【第二艘超級油輪現身沙特主要石油出口碼頭 裝船活動或在回升】第二艘超級油輪似乎已停靠沙特位於波斯灣的主要石油出口碼頭，進一步顯示該樞紐的裝船活動可能正在回升。與此同時，沙特經紅海的替代運輸路線正面臨威脅。歐盟“哨兵2號”衛星週四拍攝的影象顯示，又一艘超大型原油運輸船停靠在朱艾邁的一處單點繫泊設施。此類油輪可裝載約200萬桶原油。朱艾邁碼頭是大型拉斯坦努拉石油出口設施的一部分。附近一處週二曾停靠另一艘油輪的繫泊設施目前已經空出。
-
----
-
-### 2026-08-14 01:39:20  #市場 #觀點 #央行 #國際
-
-【美國股債相關性創30年來新高，達到網際網路泡沫破裂前幾年的水平】美國國債與股票回報率的三個月相關性升至1997年以來最高水平，以120天衡量的相關性更突破50%，這是上世紀90年代末網際網路泡沫破裂前幾年才出現過的水平，反映通脹升溫再次打破傳統股債負相關關係。分析認為，通脹若持續高企並推動市場重新押注美聯儲加息，將同時壓低債券價格和股票估值，對“60/40”投資組合構成風險。不過，花旗研究指出，歷史資料顯示，高名義收益率本身並不會壓制標普500指數表現，真正值得警惕的是收益率快速上行。隨著就業和通脹資料走弱，以及美聯儲主席凱文·沃什政策基調偏鴿，利率急劇上行的風險有所下降，強勁企業盈利也為股市提供緩衝。
-
----
-
-### 2026-08-14 01:36:44  #其他
-
-德意志銀行將德賽西威評級上調至持有；目標價93元人民幣。
-
----
-
-### 2026-08-14 01:32:46  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Chevron Stock Price Hits 12-week High — Chevron shares increased to 197.70 USD, the highest since May 2026. Over the past 4 weeks, Chevron gained 8.73%, and in the last 12 months, it increased 27.37%.
-
----
-
-### 2026-08-14 01:31:40  #國際
-
-美國參議員沃倫要求小羅伯特·肯尼迪詳細說明聯邦對環孢子蟲疫情的應對措施。
-
----
-
-### 2026-08-14 01:30:32  #其他
-
-KNDS稱義大利工廠無人員受傷，事故原因正在調查。
-
----
-
-### 2026-08-14 01:28:55  #國際
-
-【美防長稱可無限期封鎖伊朗】美國國防部長赫格塞思8月13日表示，美軍擁有足夠資源對伊朗實施“無限期”的海上封鎖，並可根據需要輪換部署在該地區的艦船。赫格塞思對媒體稱：“美國海軍完全有能力維持此類封鎖，想封多久就封多久。我們將像此前那樣，持續輪換部署的艦船。”（CCTV國際時訊）
-
----
-
-### 2026-08-14 01:28:38  #MKT News
-
-【Anthropic holds pre-IPO investor meetings; $2tn valuation cited but not company target】Anthropic is holding preliminary investor meetings ahead of a potential record-sized IPO, with discussions reportedly remaining at a macro level and not yet covering detailed financials or formal valuation guidance. CFO Krishna Rao is leading meetings focused on the Claude model family, Claude Code, enterprise positioning, management and product roadmap. The company confidentially filed listing documents with the SEC in June but has not set an IPO timetable. Anthropic completed a financing in late May at an implied valuation of about $965bn and disclosed an annualized revenue run rate above $47bln. Some investors price a potential IPO as high as $2tn, though that figure is not an official company target. Rival OpenAI has also confidentially filed but has not begun investor roadshows.
-
----
-
-### 2026-08-14 01:26:35  #市場
-
-Rumo首席財務官表示，預計第三季度價格將同比保持穩定，第四季度將上漲。
-
----
-
-### 2026-08-14 01:21:17  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-【Google unveils Gemini 3.7 Flash; flagship Gemini 3.5 Pro still without timetable】Google released Gemini 3.7 Flash, presented as a code-generation and debugging upgrade the company says produces more production-ready code on first pass, reduces developer rework and lowers inference costs. The model will support the AI productivity assistant Gemini Spark and adds safety protections against malicious attacks and misuse in chemical, biological, radiological and nuclear (CBRN) domains. Google has not provided a firm launch timetable for flagship Gemini 3.5 Pro, which has been delayed repeatedly amid slower-than-expected R&D progress, keeping investor focus on the company’s AI roadmap execution. CEO Pichai said Google is accelerating model iteration and has allocated substantial compute to train next-generation Gemini 4.
-
----
-
-### 2026-08-14 01:21:02  #市場
-
-【上期所基本金屬夜盤多數下跌，不鏽鋼跌0.94%】國際銅漲0.10%，滬銅跌0.03%，滬鋁跌0.62%，滬鋅跌0.12%，滬鉛跌0.81%，滬鎳跌0.88%，滬錫漲0.07%；氧化鋁跌0.07%，鋁合金跌0.79%。
-
----
-
-### 2026-08-14 01:16:09  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $450 mln from one counterparty in its fixed-rate reverse repo operation.
-
----
-
-### 2026-08-14 01:16:00  #央行 #其他
-
-紐約聯儲8月13日接受逆回購工具提交的4.5億美元全額投標。
-
----
-
-### 2026-08-14 01:15:12  #公司
-
-Rumo首席財務官表示，由於公司專注於從現有資產中挖掘價值，2027年的投資規模將低於2026年。
-
----
-
-### 2026-08-14 01:15:07  #公司
-
-市場訊息：PSP投資公司披露持有10萬股SpaceX股份。
-
----
-
-### 2026-08-14 01:13:04  #MKT News
-
-Saudi shelling struck villages in Saada province in northern Yemen, Yemen's Saba news agency reported.
-
----
-
-### 2026-08-14 01:13:03  #國際
-
-【美軍著手組建中東多國無人機特遣隊】當地時間8月13日，美軍中央司令部宣佈著手組建史上首支“多域、多國攻擊無人機特遣隊”。該部隊名為“獵鷹打擊特遣隊”，將配備自殺式攻擊無人機，整合空中、海面以及水下無人作戰裝備，由美國及地區夥伴國的軍事保障人員操作。 此次“獵鷹打擊”的啟動，距離美軍中央司令部成立“蠍子打擊特遣隊”——美軍在中東地區首支專門的攻擊無人機中隊——已過去九個月。（CCTV國際時訊）
-
----
-
-### 2026-08-14 01:11:52  #MKT News
-
-CNBC, citing sources, reports ANTHROPIC's CFO is leading early investor outreach for an IPO; valuation has not yet been discussed.
-
----
-
-### 2026-08-14 01:11:01  #公司 #市場
-
-ZOETIS公司股價因其治療螺旋蠅藥物獲得緊急使用授權而上漲。
-
----
-
-### 2026-08-14 01:10:30  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-US 30-year Treasury yield slightly recovered after the 30-year auction; latest print down 2.9 bps at 5.217%.
-
----
-
-### 2026-08-14 01:10:13  #國際
-
-【美法官駁回特朗普政府針對哈佛大學的訴訟】當地時間8月13日，美國馬薩諸塞州地區法院法官理查德·斯特恩斯駁回特朗普政府針對哈佛大學提起的訴訟。該訴訟指控哈佛大學未能保護猶太和以色列學生免受騷擾。斯特恩斯在裁決中表示，特朗普政府今年3月提起的訴訟未能合理證明哈佛大學校園內目前仍存在違反聯邦民權法的行為。（央視新聞）
-
----
-
-### 2026-08-14 01:10:13  #MKT News #Market Themes #AI Revolution #GOOG.O #Impact bearish
-
-Google (GOOG.O) released updates to its Gemini Flash series, but rollout of its top-tier model upgrade has been delayed.
-
----
-
-### 2026-08-14 01:09:41  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact bullish
-
-Google (GOOG.O): GEMINI 3.7 Flash outperforms GEMINI 3.6 Flash on complex document processing.
-
----
-
-### 2026-08-14 01:08:42  #其他
-
-市場訊息：ANTHROPIC首席財務官克里希納·拉奧正牽頭與投資者進行早期IPO會議，尚未討論估值事宜。
-
----
-
-### 2026-08-14 01:07:23  #MKT News #Market Themes #AI Revolution #Star Stocks #GOOG.O
-
-Google (GOOG.O) says Gemini Spark will use Gemini 3.7 Flash effective today.
-
----
-
-### 2026-08-14 01:06:45  #國際
-
-市場訊息：美國食品藥品監督管理局授予藥物緊急使用授權，用於治療犬類新世界螺旋蠅感染。
-
----
-
-### 2026-08-14 01:06:14  #公司
-
-谷歌：GEMINI SPARK 從今天起將使用 GEMINI 3.7 Flash。
-
----
-
-### 2026-08-14 01:04:41  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
-
-US 30-year Treasury auction on Aug. 13 — stop-out yield 5.216%, previous 5.058%.
-
----
-
-### 2026-08-14 01:04:31  #MKT News #Economic Calendar
-
-United States | 30-Year Bond Auction High Yield Rate (Aug.13) | actual 5.216% | previous 5.058%
-
----
-
-### 2026-08-14 01:04:28  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-US 30-year Treasury auction as of Aug 13 — share of allotment at the stop-out (winning) yield 5.216%, prior 7.13%.
-
----
-
-### 2026-08-14 01:04:14  #MKT News #Economic Calendar
-
-United States | 30-Year Bond Auction Accepted at High (Aug.13) | actual 5.216% | previous 7.13%
-
----
-
-### 2026-08-14 01:04:10  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-U.S. 30-year Treasury auction on Aug. 13: bid-cover ratio 2.39, prior 2.44.
-
----
-
-### 2026-08-14 01:04:00  #MKT News #Economic Calendar
-
-United States | 30-Year Bid/Cover Ratio (Aug.13) | actual 2.39 | previous 2.44
-
----
-
-### 2026-08-14 01:03:27  #其他
-
-市場訊息：CEREBRAS因與OPENAI合作而減少損失。
-
----
-
-### 2026-08-14 01:03:25  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve: Seasonally adjusted outstanding U.S. commercial paper rose $1.6bn in the week to Aug 12; not seasonally adjusted balance fell $110m. Outstanding foreign financial commercial paper rose $10.9bn in the same week.
-
----
-
-### 2026-08-14 01:03:04  #市場 #焦點 #國際
-
-美國30年期國債拍賣收益率創2001年以來新高。
-
----
-
-### 2026-08-14 01:02:36  #市場 #國際
-
-美國30年期國債收益率下降5.216%，低於預售時的5.212%。
-
----
-
-### 2026-08-14 01:02:31  #其他
-
-市場訊息：Anthropic首席財務官的相關會議並未涉及估值談判。
-
----
-
-### 2026-08-14 01:01:51  #其他 #焦點
-
-OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客戶群體開放有限預覽。
-
----
-
-### 2026-08-14 01:01:31  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
-
-Google (GOOG.O) to offer GEMINI 3.7 Flash at limited-time promotional pricing through year-end: input $0.75 per 1M tokens; output $3.75 per 1M tokens.
-
----
-
-### 2026-08-14 01:01:03  #公司
-
-谷歌：3.7 Flash模型將以每百萬輸入token0.75美元、每百萬輸出token3.75美元的推介價格提供，直至年底。
-
----
-
-### 2026-08-14 01:00:54  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Google (GOOG.O) launches the Gemini 3.7 Flash model.
-
----
-
-### 2026-08-14 01:00:46  #公司
-
-谷歌：推出GEMINI 3.7 FLASH。
-
----
-
-### 2026-08-14 01:00:34  #國際
-
-美國聯邦儲備理事會(FED)資料顯示，8月12日當週，經非季節性調整的美國商業票據未償還金額減少11億美元。
-
----
-
-### 2026-08-14 01:00:28  #央行 #國際
-
-美國聯邦儲備理事會(美聯儲/FED)資料顯示，8月12日當週，經非季節性調整的美國外國金融商業票據未償還餘額增加109億美元。。
-
----
-
-### 2026-08-14 01:00:23  #國際
-
-美國聯邦儲備理事會(FED)資料顯示，8月12日當週經季節調整的美國商業票據未償還餘額增加16億美元。
-
----
-
-### 2026-08-14 01:00:16  #國際
-
-美國機器人吸塵器品牌MATIC新增全語音控制選項。
-
----
-
-### 2026-08-14 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收跌0.03%，滬鋁收跌0.62%，滬鋅收跌0.04%，滬鉛收跌0.81%，滬鎳收跌0.88%，滬錫收漲0.07%。氧化鋁夜盤收漲0.26%，鋁合金收跌0.90%。不鏽鋼夜盤收跌0.83%。
-
----
-
-### 2026-08-14 00:59:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【US forms first multinational UAS task force to bolster Middle East strike capability】CENTCOM announced on Aug. 13 it has formed a multi-domain, multinational unmanned systems strike task force, Falcon Strike, to integrate unmanned combat capability across the Middle East. Falcon Strike will field air, surface and subsurface one-way attack unmanned systems operated jointly by US and regional partner forces. The unit follows CENTCOM’s first dedicated UAS strike task force, Scorpion Strike, stood up nine months earlier; Scorpion achieved milestones including the first ship-launched aerial attack UAS in December and deployments in Operation Epic Anger and July strikes on Iranian port facilities. CENTCOM commander Brad Cooper said Falcon Strike will build on Scorpion Strike’s experience to integrate new US and partner capabilities into a unified multi-domain, multinational deterrent.
-
----
-
-### 2026-08-14 00:56:39  #其他
-
-義大利內政部長：只有在西班牙北非飛地休達面臨的大規模移民湧入風險徹底化解後，義大利才會取消對西班牙的申根邊境臨時管控。
-
----
-
-### 2026-08-14 00:55:04  #MKT News
-
-Italy's interior minister said Italy will only lift temporary Schengen border controls on Spain after the risk of a large-scale migrant influx into Ceuta, Spain's North African enclave, is fully resolved.
-
----
-
-### 2026-08-14 00:53:50  #國際
-
-【烏軍稱襲擊俄西南部一大型煉油廠】當地時間13日，烏克蘭武裝部隊總參謀部在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。（央視新聞）
-
----
-
-### 2026-08-14 00:53:32  #市場
-
-倫敦金屬交易所（LME）3個月期鎳期貨收盤下跌172美元，報每噸16,776美元。倫敦金屬交易所（LME）3個月期錫期貨收盤上漲36美元，報每噸55,854美元。
-
----
-
-### 2026-08-14 00:52:44  #市場
-
-倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。
-
----
-
-### 2026-08-14 00:50:59  #MKT News
-
-CENTCOM has initiated consultations with regional partners and has formally invited them to join the process.
-
----
-
-### 2026-08-14 00:50:47  #其他
-
-【哥倫比亞強震已致273人遇難】當地時間13日，哥倫比亞國家災害風險管理局公佈最新資料顯示，該國日前發生的強震已造成273人遇難、3824人受傷，另有377人失蹤。據中國地震臺網正式測定，北京時間10日晚上，哥倫比亞當地時間10日上午，哥倫比亞西北部發生里氏7.5級強震，震源深度80公里。哥倫比亞全國有32個城市嚴重受災。（央視新聞）
-
----
-
-### 2026-08-14 00:50:12  #公司
-
-【OpenAI營收部門二度換帥 加速營收增長為上市鋪路】OpenAI不到一年內任命第二位首席營收官，顯示該公司正努力加強銷售增長，為備受期待的華爾街上市做準備。OpenAI已聘請達利·拉季奇擔任新的首席營收官，拉季奇此前擔任Alphabet旗下網路安全公司Wiz總裁兼營運長，將接替去年12月加入OpenAI的丹尼斯·德雷瑟。德雷瑟將在完成過渡期後離開公司。這一任命也發生在OpenAI高管團隊持續調整之際，近期已有布拉德·萊特卡普、菲吉·西莫和凱文·韋爾等高管離開公司。OpenAI總裁格雷格·布洛克曼表示，公司下一階段需要持續證明客戶每投入一美元人工智慧成本，都能帶來“可衡量的商業價值”。他透露，OpenAI年度營收執行率7月環比增長超過20%，企業客戶業務增長達到32%。上月，OpenAI表示其每週活躍使用者已突破10億。
-
----
-
-### 2026-08-14 00:50:02  #MKT News
-
-CENTCOM announced the launch of its first multi-domain, multinational attack-drone task force.
-
----
-
-### 2026-08-14 00:49:48  #公司 #市場 #國際
-
-【倫敦股市13日下跌】英國倫敦股市《金融時報》100種股票平均價格指數13日報收於10772.67點，較前一交易日下跌60.48點，跌幅為0.56%。歐洲三大股指當天全線下跌。當天倫敦股市成分股中位於漲幅前五位的個股分別為：獅子金融集團有限公司股價上漲5.19%，英美菸草股價上漲2.75%，邦瑞地產股價上漲2.37%，資訊科技服務公司康普塔森特股價上漲2.28%，房地產商珀西蒙公司股價上漲2.22%。（新華社）
-
----
-
-### 2026-08-14 00:49:15  #國際
-
-美國：該部隊將使用美國及夥伴國的攻擊型無人機。
-
----
-
-### 2026-08-14 00:48:09  #MKT News #Market Regions #Wall Street (US) #Market Themes #AI Revolution
-
-【OpenAI replaces revenue chief again as it accelerates revenue ahead of anticipated IPO】OpenAI has appointed Dali Rajic as chief revenue officer, its second CRO in under a year, signalling a push to boost sales ahead of an anticipated Wall Street listing. Rajic joins from Alphabet-backed cybersecurity firm Wiz, where he was president and COO; he will replace the CRO who joined last December and will depart after a transition. The move comes amid wider senior executive turnover, including departures of Brad Lightcap, Fidji Simo and Kevin Weil. President Greg Brockman said the company must keep proving each dollar of AI spend delivers measurable commercial value; OpenAI said its annualized revenue run rate rose more than 20% MoM in July and enterprise customer revenue grew 32%. OpenAI also reported weekly active users topped 1 billion last month.
-
----
-
-### 2026-08-14 00:46:25  #國際
-
-美國：成立新無人機特遣隊。
-
----
-
-### 2026-08-14 00:46:20  #國際
-
-美國非競爭性投標以9540萬美元的價格競購30年期債券。
 
 ---
