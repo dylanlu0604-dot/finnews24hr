@@ -1,7 +1,488 @@
 {
-  "updated": "2026-08-20 22:59:26",
-  "count": 15896,
+  "updated": "2026-08-20 23:08:22",
+  "count": 15924,
   "items": [
+    {
+      "id": "mkt:01a01fb6-e627-7aab-90ba-f52f6a62aa56",
+      "time": "2026-08-20 23:07:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Vice President Vance's anti-fraud task force could save hundreds of billions of dollars."
+    },
+    {
+      "id": "mkt:01a01fb6-a3c4-7aab-90ba-e84b4c6cf531",
+      "time": "2026-08-20 23:07:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said markets are somewhat overly optimistic."
+    },
+    {
+      "id": "5050472",
+      "time": "2026-08-20 23:07:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：市場走勢有些過於超前了。"
+    },
+    {
+      "id": "mkt:01a01fb6-7e97-7aab-90ba-e0f4dedaa585",
+      "time": "2026-08-20 23:07:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the deficit has temporarily widened due to tariff refunds."
+    },
+    {
+      "id": "mkt:01a01fb6-474b-7aab-90ba-db7d21e49957",
+      "time": "2026-08-20 23:07:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he expects 2026 tariff receipts to be similar to 2025."
+    },
+    {
+      "id": "5050471",
+      "time": "2026-08-20 23:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "美貿易代表辦公室：對哥倫比亞互惠貿易談判抱有信心。"
+    },
+    {
+      "id": "mkt:01a01fb6-009f-7aab-90ba-d2e20df66598",
+      "time": "2026-08-20 23:06:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said it is \"very likely\" the fiscal deficit has already peaked."
+    },
+    {
+      "id": "5050470",
+      "time": "2026-08-20 23:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：萬斯的欺詐特別工作組或可節省數千億美元 。"
+    },
+    {
+      "id": "5050469",
+      "time": "2026-08-20 23:06:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "貝森特講話後，美國國債收窄了當日跌幅。"
+    },
+    {
+      "id": "5050468",
+      "time": "2026-08-20 23:06:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特接受採訪時表示：我們極有可能已經見過赤字峰值了。"
+    },
+    {
+      "id": "mkt:01a01fb5-5807-7aab-90ba-cfafd52c8d8c",
+      "time": "2026-08-20 23:06:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. can \"lift itself out of the debt burden\" through its own economic growth."
+    },
+    {
+      "id": "5050467",
+      "time": "2026-08-20 23:06:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及回購操作：此舉發出的訊號是，我們認為這是市場中交易清淡的區間。"
+    },
+    {
+      "id": "mkt:01a01fb5-2437-7aab-90ba-c40e707dea14",
+      "time": "2026-08-20 23:05:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "During U.S. Treasury Secretary Bessent's remarks, the STOXX Europe 600 recovered and was trading roughly flat, while the emerging markets currency index extended gains."
+    },
+    {
+      "id": "5050466",
+      "time": "2026-08-20 23:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：我們可以“透過自身發展”擺脫債務負擔。"
+    },
+    {
+      "id": "te:economy:576905",
+      "time": "2026-08-20 23:05:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Less Than Expected — US energy firms added 16 billion cubic feet of natural gas into storage in the week ending August 14, below market expectations of 19 bcf. It compares with an injection of 19 bcf during the same week a year ago and an average increase for that week of 29 bcf over the past five years (2021-2025). Stockpiles increased to 3.169 trillion cubic feet, 0.9% below the same week a year ago and about 6.2% above the five-year average for the week. In the prior week ended August 7, energy firms added 36 bcf of gas into storage."
+    },
+    {
+      "id": "5050465",
+      "time": "2026-08-20 23:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "受貝森特關於股票回購的評論提振，新興市場外匯指數延續漲勢。"
+    },
+    {
+      "id": "5050464",
+      "time": "2026-08-20 23:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：預計2026年關稅收入將與2025年相近。"
+    },
+    {
+      "id": "5050463",
+      "time": "2026-08-20 23:05:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：受關稅退稅影響，財政赤字出現階段性惡化。"
+    },
+    {
+      "id": "5050462",
+      "time": "2026-08-20 23:05:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：4萬億美元債務規模並無特殊玄機。"
+    },
+    {
+      "id": "te:economy:576904",
+      "time": "2026-08-20 23:05:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Egypt",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Egypt's Central Bank Maintains Key Policy Rates — The Central Bank of Egypt kept its key interest rate unchanged at 19% at its August 2026 meeting, in line with market expectations. This marked the fifth consecutive meeting with rates on hold, extending a pause in the almost year-long monetary easing cycle as the Middle East conflict increased pressure on the Egyptian pound and fuel import costs. Headline inflation accelerated to 14.9% in July, after easing through June. The central bank is expected to keep rates unchanged through the end of 2026 before resuming its easing cycle in Q1 2027. Policymakers expect inflation to return to the 7% ±2% target range in the second half of 2027."
+    },
+    {
+      "id": "mkt:01a01fb4-4282-7aab-90ba-bd656cf75729",
+      "time": "2026-08-20 23:05:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said markets are overlooking many potential factors."
+    },
+    {
+      "id": "mkt:01a01fb4-0b89-7aab-90ba-b236cf6a7ad9",
+      "time": "2026-08-20 23:04:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent to announce priorities to strengthen fiscal integration."
+    },
+    {
+      "id": "mkt:01a01fb3-db44-7aab-90ba-ab7cb36474d5",
+      "time": "2026-08-20 23:04:35",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said liquidity in the 30-year Treasury market is particularly poor."
+    },
+    {
+      "id": "5050461",
+      "time": "2026-08-20 23:04:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數抹去了跌幅，交易基本保持不變。"
+    },
+    {
+      "id": "5050460",
+      "time": "2026-08-20 23:04:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：我和預算主管將會對此進行評估。"
+    },
+    {
+      "id": "5050459",
+      "time": "2026-08-20 23:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：將公佈強化財政整固的政策重心。"
+    },
+    {
+      "id": "mkt:01a01fb3-3271-7aab-90ba-a42fa8d9106a",
+      "time": "2026-08-20 23:03:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said U.S. Treasury yields do not reflect fundamentals."
+    },
+    {
+      "id": "5050458",
+      "time": "2026-08-20 23:03:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：美國收益率並未反映基本面真實情況。"
+    },
+    {
+      "id": "5050457",
+      "time": "2026-08-20 23:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：針對美債市場，“我們擁有一整套強大工具”  。"
+    },
+    {
+      "id": "mkt:01a01fb2-9e02-7aab-90ba-9835ee16a8ec",
+      "time": "2026-08-20 23:03:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said buybacks target a thinly traded part of the market and the buyback size may exceed the $4 bln the Treasury announced."
+    },
+    {
+      "id": "5050456",
+      "time": "2026-08-20 23:02:54",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "貝森特：國債回購規模或將超出我們公佈的 40 億美元。"
+    },
+    {
+      "id": "5050455",
+      "time": "2026-08-20 23:02:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4591.37美元/盎司。"
+    },
+    {
+      "id": "5050454",
+      "time": "2026-08-20 23:02:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4590美元/盎司，日內漲0.98%。"
+    },
+    {
+      "id": "5050453",
+      "time": "2026-08-20 23:02:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4530美元/盎司，日內漲0.19%。"
+    },
+    {
+      "id": "5050452",
+      "time": "2026-08-20 23:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：市場忽視諸多底層影響因素 。"
+    },
+    {
+      "id": "5050451",
+      "time": "2026-08-20 23:02:21",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "貝森談及股票回購：該市場板塊交投清淡。回購規模可能超過我們此前宣佈的40億美元。"
+    },
+    {
+      "id": "mkt:01a01fb1-b498-7aab-90ba-95eaee049219",
+      "time": "2026-08-20 23:02:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury said if the 2-year Treasury note auction stops out with a yield between 4.375% and 4.499%, it may conduct an unscheduled add-on to the 5-year Treasury note."
+    },
+    {
+      "id": "5050450",
+      "time": "2026-08-20 23:02:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴黎聖日耳曼金融服務集團：股票將繼續在約翰內斯堡證券交易所和奈米比亞證券交易所上市交易。"
+    },
+    {
+      "id": "5050449",
+      "time": "2026-08-20 23:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "基因泰克將透過投資擴建一倍廠區規模，創造250個生產崗位與200個建築施工崗位。"
+    },
+    {
+      "id": "5050448",
+      "time": "2026-08-20 23:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅氏旗下基因泰克擬向俄勒岡州工廠投資約 7.5 億美元。"
+    },
+    {
+      "id": "5050447",
+      "time": "2026-08-20 23:01:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "理查森電子系統公司將提供7兆瓦時儲能容量，預計於2027年底完工。"
+    },
+    {
+      "id": "5050446",
+      "time": "2026-08-20 23:01:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4580美元/盎司，日內漲0.77%。"
+    },
+    {
+      "id": "5050445",
+      "time": "2026-08-20 23:01:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行（BANXICO）貨幣政策委員會判斷，將參考利率維持在當前水平是合適的。"
+    },
+    {
+      "id": "5050444",
+      "time": "2026-08-20 23:01:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍稱襲擊俄兩處能源設施】烏克蘭武裝部隊總參謀部20日在社交媒體發文稱，烏軍19日至20日凌晨襲擊了俄羅斯兩處重要能源設施。烏武裝部隊總參謀部稱，烏軍襲擊了位於俄羅斯韃靼斯坦共和國下卡姆斯克市的一座煉油廠和位於俄羅斯克拉斯諾達爾邊疆區沃爾納鎮的一處石油碼頭。烏方未說明襲擊的具體方式。(新華社)"
+    },
+    {
+      "id": "5050443",
+      "time": "2026-08-20 23:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "基因泰克擬向俄勒岡州希爾斯伯勒工廠投資約7.5億美元。"
+    },
+    {
+      "id": "mkt:01a01fb0-6bbc-7aab-90ba-8856939624d1",
+      "time": "2026-08-20 23:00:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "As of the 23:00 close, China’s main futures contracts were mixed. LPG rose about 2%; asphalt, fuel oil, pulp and 20# rubber gained over 1%; methanol and benzene up around 1%. On the downside, coking coal, rapeseed meal, glass and PVC fell more than 1%; rapeseed oil slipped about 1%."
+    },
+    {
+      "id": "5050442",
+      "time": "2026-08-20 23:00:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣700億美元五年期債券。"
+    },
+    {
+      "id": "5050441",
+      "time": "2026-08-20 23:00:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將拍賣920億美元三個月期國庫券。"
+    },
+    {
+      "id": "mkt:01a01faf-c4c4-7aab-90ba-83f99007aee3",
+      "time": "2026-08-20 23:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2028 FOMC voting member and St. Louis Fed President Musallam will be interviewed by CNBC in 10 minutes."
+    },
+    {
+      "id": "mkt:01a01faf-c1a5-7aab-90ba-78c3f5f0e572",
+      "time": "2026-08-20 23:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said U.S. economic sanctions violate Iranians' basic human rights and constitute \"economic terrorism\" and \"crimes against humanity\"."
+    },
+    {
+      "id": "te:markets:576903",
+      "time": "2026-08-20 23:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.48% — Top currency losers are Swedish Krona (-0.48%), South Korean Won (-0.35%) and Japanese Yen (-0.35%). Gains are led by British Pound (0.20%). Meanwhile, Euro and Dollar Index were little changed."
+    },
+    {
+      "id": "5050440",
+      "time": "2026-08-20 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】液化石油氣連續漲1.79%，瀝青連續漲1.74%，燃料油連續漲1.72%，紙漿連續漲1.65%，焦煤連續跌1.48%。"
+    },
+    {
+      "id": "5050439",
+      "time": "2026-08-20 22:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞議會透過波羅的海航空救助方案。"
+    },
     {
       "id": "mkt:01a01fae-a615-7aab-90ba-74aa1cb00d7c",
       "time": "2026-08-20 22:58:54",
@@ -9,6 +490,14 @@
         "MKT News"
       ],
       "text": "U.S. Department of Transportation said it will invest $615 mln in airport construction across 42 states."
+    },
+    {
+      "id": "5050438",
+      "time": "2026-08-20 22:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉國洪會見聯合國糧農組織總幹事屈冬玉】8月19日，自然資源部黨組書記劉國洪在京會見聯合國糧農組織總幹事屈冬玉一行。雙方就進一步加強自然資源保護與可持續利用等領域務實合作進行了交流。劉國洪就下一步深化合作表示，將推動雙方續簽合作諒解備忘錄；深化地理資訊科技賦能農業、林業、漁業可持續發展等務實專案合作，積極參與聯合國糧農組織“手拉手”倡議實施；分享中國在耕地保護、荒漠化綜合防治、“三北”工程建設、海洋生物多樣性保護等方面的生態保護修復經驗，以及綠色富民產業發展路徑；拓展國際紅樹林中心與糧農組織的合作空間，共同推動全球溼地生態系統的保護修復；協調推動中國城市加入“綠色城市”倡議網路。"
     },
     {
       "id": "mkt:01a01fae-61a9-7aab-90ba-69e85ddf0546",
@@ -145134,244 +145623,6 @@
         "其他"
       ],
       "text": "標普：網路安全提供商SOPHOS因再融資風險被列入負面信用觀察名單。"
-    },
-    {
-      "id": "5039813",
-      "time": "2026-08-13 23:08:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝稱，該組織用兩架無人機襲擊了沙烏地阿拉伯吉讚的阿美煉油廠。"
-    },
-    {
-      "id": "mkt:019ffbaa-c12c-7aab-9029-4ff4debf01f4",
-      "time": "2026-08-13 23:08:19",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk (SNDK.O) expects revenue growth of about 15-19% for FY2028-FY2030."
-    },
-    {
-      "id": "mkt:019ffba9-b620-7aab-9029-433b8e3a18e1",
-      "time": "2026-08-13 23:07:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Baltic Dry Index extends decline; Supramax edges up】Baltic Dry Index (BDI) fell for a fourth session, down 95 points (3.2%) to 2,844 after touching its highest level since June 3 last Friday. Capesize index (BCI) dropped 243 points (5.2%) to 4,469; capesize daily earnings fell $2,212 to $37,025 — capesizes typically carry about 150,000 tonnes of iron ore and coal. Panamax index (BPI) slipped 40 points (1.7%) to 2,262; panamax daily earnings declined $355 to $20,361, ending a 10-session rally. Supramax index (BSI) rose 10 points (0.6%) to 1,613. Handysize index (BHSI) eased 2 points to 865."
-    },
-    {
-      "id": "mkt:019ffba8-d63b-7aab-9029-3b95fbb7aa7a",
-      "time": "2026-08-13 23:06:13",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk (SNDK.O) shares up 6.3%."
-    },
-    {
-      "id": "5039811",
-      "time": "2026-08-13 23:05:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "閃迪股價漲幅進一步擴大，最新上漲6.3%。"
-    },
-    {
-      "id": "mkt:019ffba7-aefc-7aab-9029-340e5d38c1ad",
-      "time": "2026-08-13 23:04:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Canadian pension fund posted a six-month return of 5.1%, underperforming its internal benchmark."
-    },
-    {
-      "id": "mkt:019ffba7-56c6-7aab-9029-2a3dd4802861",
-      "time": "2026-08-13 23:04:35",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk (SNDK.O) said it will return excess cash after investing in its business."
-    },
-    {
-      "id": "mkt:019ffba7-1d14-7aab-9029-236d7af8f8f6",
-      "time": "2026-08-13 23:04:20",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk (SNDK.O) expects to return 100% of excess cash to shareholders."
-    },
-    {
-      "id": "mkt:019ffba6-f722-7aab-9029-1851e52d26f8",
-      "time": "2026-08-13 23:04:11",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk (SNDK.O) expects non-GAAP operating margin of about 75% for fiscal years 2028–2030."
-    },
-    {
-      "id": "5039810",
-      "time": "2026-08-13 23:04:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "閃迪：預計將把全部超額現金返還給股東。"
-    },
-    {
-      "id": "mkt:019ffba6-91be-7aab-9029-11a8d8e543d6",
-      "time": "2026-08-13 23:03:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SanDisk (SNDK.O) expects non-GAAP gross margin of about 80% in fiscal 2028–2030."
-    },
-    {
-      "id": "mkt:019ffba6-5c1d-7aab-9029-0e698d6023f7",
-      "time": "2026-08-13 23:03:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fitch says U.S. private credit default rate rose to a record high in July."
-    },
-    {
-      "id": "te:markets:575150",
-      "time": "2026-08-13 23:03:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Holds Near 2-Month High — Platinum futures held near $1,730 per ounce after reaching a two-month high, as traders assessed the outlook for demand. Rising hybrid vehicle production has provided near-term support for autocatalyst consumption, although markets remain cautious about the broader shift toward electric vehicles, which recorded a fifth consecutive monthly increase in July. Meanwhile, uncertainty over shipments through the Strait of Hormuz kept industrial buyers cautious. On the supply side, concerns over power disruptions and maintenance bottlenecks at South African mines continued to underpin prices, with the platinum market expected to remain in deficit. Additional support came from plans by the world’s largest jeweler to replace some sterling-silver jewelry with platinum-plated alternatives. Meanwhile, AI and data-center expansion are emerging as potential new sources of demand, with South Africa’s Valterra Platinum estimating AI-related demand could grow fivefold by 2030."
-    },
-    {
-      "id": "5039809",
-      "time": "2026-08-13 23:02:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "密歇根州衛生部門：截至8月13日，314例報告的環孢子蟲病病例顯示已住院治療。"
-    },
-    {
-      "id": "5039808",
-      "time": "2026-08-13 23:02:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行貨幣政策主管表示，央行認為目前無需加息，當前對通脹的影響是暫時性的。"
-    },
-    {
-      "id": "5039807",
-      "time": "2026-08-13 23:02:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "閃迪：28‑30財年非通用會計準則營業利潤率約75%。"
-    },
-    {
-      "id": "5039806",
-      "time": "2026-08-13 23:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "閃迪預計28財年至30財年非通用會計準則毛利率約為80%。"
-    },
-    {
-      "id": "5039805",
-      "time": "2026-08-13 23:01:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "閃迪首席財務官表示，公司預計將在合同期內從8家客戶處獲得總合同額939億美元。"
-    },
-    {
-      "id": "mkt:019ffba3-fb7b-7aab-9029-047899074e53",
-      "time": "2026-08-13 23:00:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "At the 23:00 close, China’s main futures contracts were mostly higher. Coking coal, pulp, Soybean No.1, glass and soda ash gained over 1%; coated paper rose nearly 1%. On the downside, 20# rubber and PTA slipped more than 1%; low-sulfur fuel oil (LU) and the broader rubber contract fell about 1%."
-    },
-    {
-      "id": "5039804",
-      "time": "2026-08-13 23:00:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "以色列散居猶太事務部長稱：對敘利亞開戰幾乎已成定局。 利庫德集團官員阿米哈伊·奇克利重申，他認為與敘利亞的軍事對抗不可避免，將這個鄰國形容為“加強版的加沙”。"
-    },
-    {
-      "id": "5039803",
-      "time": "2026-08-13 23:00:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "閃迪公司預計2028財年至2030財年調整後自由現金流利潤率將維持在50%。"
-    },
-    {
-      "id": "5039802",
-      "time": "2026-08-13 23:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "閃迪預計將把100%的過剩現金返還給股東。"
-    },
-    {
-      "id": "te:markets:575149",
-      "time": "2026-08-13 23:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Swedish Krona Appreciates by 0.37% — Top currency gainers are Swedish Krona (0.37%), Euro (0.16%), Japanese Yen (0.16%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.19%)."
-    },
-    {
-      "id": "5039801",
-      "time": "2026-08-13 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】焦煤連續漲1.77%，紙漿連續漲1.33%，豆一連續漲1.32%，玻璃連續漲1.15%，20號膠連續跌1.08%。"
-    },
-    {
-      "id": "5039800",
-      "time": "2026-08-13 22:59:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "法官批准慧與（HPE）就瞻博網路收購案與美國司法部達成的和解協議。"
-    },
-    {
-      "id": "5039799",
-      "time": "2026-08-13 22:59:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中東多國興建石油輸送繞行通道】霍爾木茲海峽長期以來是波斯灣石油出口最重要、最便捷的通道。但受美伊戰事影響，霍爾木茲海峽的運力遭到重創。據美國《紐約時報》8月12日報道，波斯灣多國正斥資數十億美元建設繞開霍爾木茲海峽的輸油管道，以降低地緣風險。（CCTV國際時訊）"
     }
   ]
 }
