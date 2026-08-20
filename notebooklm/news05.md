@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:39:10_
-_本檔包含 3290 則快訊，約 640482 字_
+_更新時間：2026-08-21 03:58:33_
+_本檔包含 3287 則快訊，約 640599 字_
+
+---
+
+### 2026-08-15 17:40:18  #焦點 #國際
+
+【國防部新聞發言人蔣斌就日本政要參拜靖國神社答記者問】記者：據報道，在日本戰敗投降日當天，日本首相高市早苗向靖國神社供奉祭祀費，日本防衛大臣小泉進次郎等前往參拜。請問對此有何評論？蔣斌：靖國神社是日本軍國主義發動對外侵略戰爭的精神工具和象徵，供奉有雙手沾滿亞太國家人民鮮血的戰犯。日本政客有關行徑公然褻瀆歷史正義，嚴重傷害亞太受害國人民感情，本質上是掩蓋否定侵略罪責，挑戰世界反法西斯戰爭勝利成果與戰後國際秩序。一邊嘴上標榜追求和平，一邊向戰爭罪魁禍首頂禮膜拜，這種虛偽的作派，充分暴露出日本右翼勢力嚴重扭曲的歷史觀和為軍國主義揚幡招魂的危險圖謀。（新華社）
+
+---
+
+### 2026-08-15 17:36:08  #市場 #國際
+
+【美退役上將：美軍中東後勤保障體系已失效】眼下，圍繞美國“林肯”號航母超期部署引發的船員身心危機與後勤保障失效‌的問題，依舊是美國媒體關注的焦點。美媒報道指出，此次航母事件暴露出的美國海軍後勤保障體系存在嚴重問題。美國海軍退役四星上將、前海軍作戰部長加里·拉夫黑德上將13日在接受美國公共廣播電視網（PBS）採訪時表示，近期美軍在中東地區部署艦船的後勤保障工作難度極大，因為美軍沿用數十年的中東艦船後勤保障體系已徹底失效。（央視新聞）
+
+---
+
+### 2026-08-15 17:34:25  #其他
+
+【皇崗口岸港方口岸區舉行第二次大型演練和反恐及重大事故演習】香港特區政府今日（15日）於皇崗口岸港方口岸區舉行第二次大型演練，並進行跨部門反恐及重大事故演習，進一步測試口岸聯檢大樓和公共運輸交匯處的人流和車流整體管理，以及加強各部門面對突發事故的應變能力。 此次演練動員超過5000名來自共約30個政策局和部門的公務員參與。他們按指示乘搭不同的公共交通工具抵達口岸，隨後前往聯檢大樓的離境大堂及入境大堂，再按指示乘搭公共交通工具離開口岸。參與人員乘坐由各公共交通營辦商派出的車輛進行超過250發車班次的迴圈測試，以模擬人流和車流進出口岸的情況。 保安局局長鄧炳強到場視察，並於演練後與各參與部門舉行會議，即時檢視流程和參與人士回饋的意見，以在後續演練中加以最佳化。（大灣區之聲）
+
+---
+
+### 2026-08-15 17:34:14  #宏觀
+
+【非滬籍居民及境外人士置換性購房政策微調？上海房地產交易中心熱線回應】針對市場傳出上海更新置換購房相關執行口徑，8月15日，記者致電上海房地產交易中心熱線“962269”進行諮詢。針對非本市戶籍居民置換性購房的問題，上海房地產交易中心熱線工作人員表示，並未出臺新政。據熱線工作人員介紹，非本市戶籍居民家庭，出售名下唯一房產，可在全市範圍內建換一套住房，前後產權人需保持一致，無需提供社保或個稅證明。該口徑已於2024年5月28日起執行。針對多套住房，非本市戶籍居民家庭或成年單身人士出售名下部分房產（即名下有兩套及以上的），再次購房時，購買住房的套數與位置要與售出房屋一致——賣掉外環外房屋只能外環外買；賣掉外環內房屋，只能外環內買，免於提交社保或個稅證明。該口徑已於2026年2月26日起執行。針對境外人士的購房置換，熱線工作人員表示，境外個人出售名下上海全部房產後，可在本市置換併購買一套住房，免於提交外國人居留許可證（工作類）、自購房之日前連續滿一年的本市勞動合同，以及購房之日前連續滿一年的社保、個稅繳納證明，但仍需簽署境外個人購房自住承諾書。該口徑於2026年7月29日起執行。 (澎湃新聞)
+
+---
+
+### 2026-08-15 17:30:02  #國際
+
+俄羅斯方面稱，夏季攻勢已攻佔烏克蘭東南部19個定居點。
+
+---
+
+### 2026-08-15 17:27:19  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+【Jensen Huang offers up to 25% residual-value support as NVIDIA, six Wall Street asset managers back AI compute as standalone asset class】Jensen Huang, joined by six Wall Street asset managers, endorsed treating AI compute as a standalone asset class. Investors raised concerns about circular financing and elevated debt risk; Huang said NVIDIA may provide up to 25% residual-value support for individual projects and will prudently assess each deal. The remarks eased market concern modestly.
 
 ---
 
@@ -19814,59 +19850,5 @@ WORKDAY股價收盤上漲18%，創2016年以來最佳單日表現。
 ### 2026-08-14 04:00:02  #市場 #焦點
 
 【納斯達克中國金龍指數收跌1.89%】京東跌7.40%，網易有道跌6.02%，中比能源跌6.14%，中進醫療跌6.02%，Tims中國跌5.88%。
-
----
-
-### 2026-08-14 03:55:21  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Merck Stock Price Hits 54-year High — Merck shares increased to 135.11 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 11.72%, and in the last 12 months, it increased 63.04%.
-
----
-
-### 2026-08-14 03:52:40  #國際
-
-【伊朗官員重申霍爾木茲海峽處於關閉狀態】當地時間13日晚，伊朗伊斯蘭革命衛隊海軍司令阿里·阿茲馬伊表示，目前霍爾木茲海峽處於關閉狀態，伊方對海峽內相關動向保持“全面、堅決掌控”，任何活動都不會脫離伊朗伊斯蘭革命衛隊海軍的監控。（央視新聞）
-
----
-
-### 2026-08-14 03:51:43  #公司
-
-截至8月13日，已有30餘家北交所上市公司披露2026年半年報，企業成長成色初現。總體來看，已披露半年報的公司業績表現搶眼，約三分之一企業上半年歸母淨利潤同比增長超80%。算力服務、新能源、半導體等高景氣賽道成為拉動業績增長的核心引擎，凸顯北交所“專精特新”企業的成長活力。（經濟參考報）
-
----
-
-### 2026-08-14 03:51:27  #國際
-
-市場訊息：法院駁回針對特朗普 “戰時” 驅逐政策的訴訟請求。
-
----
-
-### 2026-08-14 03:49:30  #MKT News
-
-New York appellate court says New York City's "second-home tax" may proceed for now.
-
----
-
-### 2026-08-14 03:48:54  #資料 #市場 #國際
-
-【美國PPI資料公佈日，美債收益率普遍下挫】週四（8月13日）紐約尾盤，美國10年期國債收益率下跌4.57個基點，美國PPI資料公佈後快速下行。兩年期美債收益率跌4.82個基點，亞太盤初以來橫盤小幅震盪，PPI資料公佈後同樣快速下行。30年期美債收益率跌4.28個基點，報5.214%。10年期通脹保值國債（TIPS）收益率跌4.16個基點，至2.378%；30年期TIPS收益率跌3.20個基點，至2.985%。
-
----
-
-### 2026-08-14 03:47:14  #國際
-
-【美媒：“華盛頓”號航母將前往中東接替“林肯”號】據美國《華爾街日報》13日報道，美國準備派遣“華盛頓”號航母前往中東，接替艦上生活條件、船員心理健康等遭質疑的“林肯”號航母。報道援引美國官員的話說，該輪換計劃在人們對“林肯”號航母生活條件提出擔憂之前就已制定。據美國海軍學會新聞網報道，以日本為基地的“華盛頓”號航母打擊群於5月離開日本橫須賀基地。該航母本月13日在一艘巡洋艦和一艘驅逐艦的伴隨下，透過新加坡海峽後進入了馬六甲海峽。（新華社）
-
----
-
-### 2026-08-14 03:46:55  #MKT News #WDAY.O #Impact bullish
-
-【Talks with Silver Lake send Workday shares up nearly 30%】Workday shares jumped as much as ~30% intraday on Thursday, triggering multiple temporary trading halts, after reports that Silver Lake is in acquisition talks; sources say discussions have been ongoing. The rally pushed Workday’s market value above $50.0 bln. The stock had been under longer-term pressure on worries that AI will reshape the software sector; a successful buyout would signal renewed private-capital interest in software assets. Jefferies analyst Til said CEO Aneel Bhusri’s close ties to Silver Lake make a deal plausible. Workday beat estimates in its May quarter, raised guidance, and said AI trends are producing tangible benefits.
-
----
-
-### 2026-08-14 03:46:21  #其他
-
-上訴法院裁定：紐約市豪宅閒置稅目前可繼續執行。
 
 ---

@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:39:10_
-_本檔包含 3320 則快訊，約 640921 字_
+_更新時間：2026-08-21 03:58:33_
+_本檔包含 3314 則快訊，約 641054 字_
+
+---
+
+### 2026-08-21 03:56:46  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Wells Fargo Stock Price Hits 7-week Low — Wells Fargo shares decreased to 83.70 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo lost 4.55%, and in the last 12 months, it increased 7.61%.
+
+---
+
+### 2026-08-21 03:52:49  #公司
+
+英偉達：有關該公司 LPU 的相關報道資訊有誤。
+
+---
+
+### 2026-08-21 03:51:52  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up 0.06% to 98.894 on 20th】The dollar index, which measures the dollar against six major currencies, rose 0.06% to 98.894 at the New York close. EUR/USD 1.1676 (prev. 1.1674); GBP/USD 1.3628 (prev. 1.3607); USD/JPY 159.14 (prev. 158.32); USD/CHF 0.8007 (prev. 0.7979); USD/CAD 1.3790 (prev. 1.3810); USD/SEK 9.4908 (prev. 9.4386).
+
+---
+
+### 2026-08-21 03:48:43  #市場
+
+【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.06%，在匯市尾市收於98.894。截至紐約匯市尾市，1歐元兌換1.1676美元，高於前一交易日的1.1674美元；1英鎊兌換1.3628美元，高於前一交易日的1.3607美元。1美元兌換159.14日元，高於前一交易日的158.32日元；1美元兌換0.8007瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3790加元，低於前一交易日的1.3810加元；1美元兌換9.4908瑞典克朗，高於前一交易日的9.4386瑞典克朗。
+
+---
+
+### 2026-08-21 03:48:31  #MKT News
+
+【Source says US carrier Abraham Lincoln begins return】An informed source said on Aug. 20 the nuclear-powered US carrier Abraham Lincoln has begun returning. The USS George Washington has already arrived in the Middle East to relieve Lincoln’s extended deployment. A US official said Lincoln remains in the US Navy Fifth Fleet operating area and has not yet left the CENTCOM area of responsibility. Lincoln was sent to the Middle East in January for operations against Iran and maritime interdiction and has been deployed for more than 250 days; recent reports cite crew living-condition and mental-health strains from the high operational tempo and prolonged deployment.
+
+---
+
+### 2026-08-21 03:48:02  #國際
+
+【知情人士稱美國“林肯”號航母開始返航】當地時間8月20日，據一名知情人士透露，美國海軍“亞伯拉罕·林肯”號核動力航空母艦已開始返航。此前，“喬治·華盛頓”號航母已抵達中東，以緩解“林肯”號長期部署帶來的壓力。不過，一名美國官員表示，“林肯”號目前仍處於美國海軍第五艦隊行動區，意味著其尚未離開美軍中央司令部責任區。“林肯”號航母於今年1月被調往中東，參加美軍對伊朗的軍事行動以及美軍對伊朗的海上封鎖，已部署超過250天。近期“林肯”號被曝出航母上的水兵由於高強度的作戰節奏和長期部署，存在生活條件和心理健康問題。（央視新聞）
+
+---
+
+### 2026-08-21 03:46:20  #Trading Economics #Economy #Argentina #Monthly GDP YoY #Importance 1
+
+Argentina Economic Activity Growth Accelerates in June — Argentina’s economic activity rose 2.7% year-over-year in June 2026, following an upwardly revised 0.4% increase in May. Twelve of the 15 sectors surveyed recorded annual growth, led by fishing (247.6%) and mining and quarrying (15.6%). Agriculture, livestock, hunting and forestry also increased 4.6%. In contrast, administration and defense and compulsory social security plans declined 1.5%, while utilities fell 0.4% and education decreased 0.1%. On a monthly basis, the Monthly Economic Activity Estimate rose 0.8%.
+
+---
+
+### 2026-08-21 03:44:21  #宏觀 #市場 #國際
+
+【中長期美債收益率漲約4個基點】週四（8月20日）紐約尾盤，美國10年期國債收益率漲4.35個基點，報4.6902%，北京時間10:41微跌至4.6308%重新整理日低，隨後持續走高、20:34達到4.7120%，美國財政部長貝森特“回購規模可能會超過40億美元”的論調帶來一波V形反轉行情，近期持穩於4.7%關口附近，50日均線已經上移至4.5774%。兩年期美債收益率漲1.88個基點，報4.1811%；30年期美債收益率漲3.97個基點，報5.2298%，20:34達到5.2656%，幾乎完全收復8月19日的失地、逼近8月18日頂部5.3361%。2/10年期美債收益率利差漲3.247個基點，報+50.876個基點。10年期通脹保值國債（TIPS）收益率漲0.44個基點，至2.3411%；兩年期TIPS收益率跌5.38個基點，至1.8685%；30年期TIPS收益率漲0.87個基點，至2.9660%。
+
+---
+
+### 2026-08-21 03:43:34  #MKT News #Commodities #Energy
+
+U.S. drone maker Powerus won a $22.3 mln contract to protect Middle East oil infrastructure from drone threats.
+
+---
+
+### 2026-08-21 03:41:57  #國際
+
+美國副總統萬斯談伊朗：我們如今進入了一個新階段，對伊朗施加經濟壓力是我們手中最有效的手段。但這是一場微妙的博弈：當我們對其施加經濟壓力時，伊朗也會試圖反過來對我們施加經濟壓力。不過過去幾周的實際情況是，伊朗承受的壓力遠大於我們。我們會維持這一態勢，因為我們認為這是最優途徑。
+
+---
+
+### 2026-08-21 03:41:16  #國際
+
+美國無人機製造商 POWERUS 獲得 2230 萬美元合同，保護中東石油基礎設施抵禦無人機威脅。
+
+---
+
+### 2026-08-21 03:41:00  #MKT News #DAL.N #Impact bullish
+
+A US appeals court rejected the Department of Transportation's request to unwind the joint venture between Delta Air Lines (DAL.N) and Aeromexico.
+
+---
+
+### 2026-08-21 03:40:56  #國際
+
+裁決顯示：美國上訴法院駁回交通部試圖解除達美航空與墨西哥航空合資專案的訴求。
+
+---
+
+### 2026-08-21 03:38:52  #MKT News
+
+Saudi deputy foreign minister for political affairs met with Ukraine’s ambassador to Saudi Arabia to discuss matters of mutual concern.
 
 ---
 
@@ -19929,125 +20013,5 @@ Merck (MRK.N) shares closed up 12.6%, their largest one-day gain since March 200
 ### 2026-08-20 04:08:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
 
 Argentina's economy minister said the government approved a $6.4 billion investment incentive package for Tecpetrol's Los Toldos II oil project in the Vaca Muerta shale basin.
-
----
-
-### 2026-08-20 04:07:33  #其他
-
-默克股價收漲13%，創2009年3月以來最大單日漲幅。
-
----
-
-### 2026-08-20 04:06:54  #MKT News #Market Regions #Wall Street (US) #MRNA.O #Impact bullish
-
-Moderna (MRNA.O) shares jumped a record 177%, adding $44 billion to market value.
-
----
-
-### 2026-08-20 04:05:01  #MKT News #Important #Market Regions #Wall Street (US) #Market Themes #Chip Wars #MRNA.O #Impact bullish #MRK.N #MRVL.O
-
-【US close: major indices higher; Moderna surges 176%】US stocks closed higher Wednesday. Dow Jones Industrial Average preliminary close +0.22%, S&P 500 +0.21%, Nasdaq +0.16%. Moderna (MRNA.O) surged 176%; Merck (MRK.N) +12.6%. Marvell Technology (MRVL.O) +9.8%. SK Hynix (SKHY.O) +0.35%. SanDisk (SNDK.O) -3.5%; Micron Technology (MU.O) -0.39%. Nasdaq Golden Dragon China Index +1.5%.
-
----
-
-### 2026-08-20 04:04:59  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-US stocks closed higher on Aug 19 (Wed): Dow Jones Industrial Average +119.71 pts (+0.22%) to 53,463.11; S&P 500 +16.50 pts (+0.21%) to 7,708.26; Nasdaq Composite +41.38 pts (+0.16%) to 26,331.09.
-
----
-
-### 2026-08-20 04:04:18  #其他
-
-MODERNA 股價飆升創紀錄 177%，市值增加 440 億美元。
-
----
-
-### 2026-08-20 04:03:40  #市場
-
-雅詩蘭黛股價收漲16%，創2011年以來最大漲幅。
-
----
-
-### 2026-08-20 04:02:11  #MKT News
-
-US outstanding public debt has doubled since 2017. Of the increase, $11.6 tln was added during Trump’s two presidential terms and $8.4 tln was added during former president Biden’s term.
-
----
-
-### 2026-08-20 04:00:53  #MKT News #Important #Macro & Rates #US Economy
-
-U.S. federal government debt surpasses $40 trillion, Xinhua reports.
-
----
-
-### 2026-08-20 04:00:51  #宏觀 #國際
-
-【美國聯邦政府債務突破40萬億美元】美國財政部19日釋出的資料顯示，美國聯邦政府債務總額已突破40萬億美元。（新華社）
-
----
-
-### 2026-08-20 04:00:49  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.22%，標普500指數漲0.22%，納指漲0.15%。Moderna漲176.97%，雅詩蘭黛漲16.39%，Strategy漲12.66%，默沙東漲12.62%，亞歷山大房地產漲10.30%，邁威爾科技漲9.91%。“七姐妹”方面：特斯拉漲4.23%，亞馬遜漲2.46%，蘋果漲2.12%，微軟漲0.55%，Meta Platforms漲0.46%，谷歌漲0.11%，英偉達跌1.08%。
-
----
-
-### 2026-08-20 04:00:31  #宏觀 #焦點 #國際
-
-美國財政部：美國未償還公共債務總額於週二首次突破 40 萬億美元。
-
----
-
-### 2026-08-20 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收漲1.48%】金山雲漲13.98%，嘉楠科技漲11.38%，新氧漲8.14%，阿特斯漲6.99%，華住酒店集團漲5.77%。
-
----
-
-### 2026-08-20 03:58:28  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Tesla Stock Price Hits 4-week High — Tesla shares increased to 351.27 USD, the highest since July 2026. Over the past 4 weeks, Tesla lost 5.05%, and in the last 12 months, it increased 8.34%.
-
----
-
-### 2026-08-20 03:56:30  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #DXY #Impact mixed
-
-【Trump says Treasury’s Bessent may unveil Iran sanctions this week】Trump said Treasury Secretary Bessent may unveil major sanctions on Iran this week and that Bessent “won’t play games.” He said the US has “very tough” sanctions options and is monitoring developments. Trump added the Strait of Hormuz is currently open with many vessels transiting, a fact he said is underreported, but that transit speeds could slow going forward.
-
----
-
-### 2026-08-20 03:55:52  #其他
-
-OpenAI：我們將繼續為前沿模型提供零資料留存服務。隨著人工智慧承擔更長、自主性更強的工作，併為企業創造更高價值，安全系統也需要識別各類關聯互動中存在的風險。為應對上述風險，我們推出私有安全處理預覽版，該技術旨在提升安全防護水平，同時不讓 OpenAI 工作人員接觸底層原始內容。
-
----
-
-### 2026-08-20 03:55:10  #公司
-
-哈德遜河貿易公司第二季度交易營收創下 114 億美元歷史新高。
-
----
-
-### 2026-08-20 03:51:46  #MKT News #XAUUSD #Impact bullish #DXY
-
-【Netanyahu warns Turkey against expanding military deployment in Syria】Israeli Prime Minister Netanyahu said in an interview on the 19th that Israel will not tolerate Turkey expanding military deployments in Syria, particularly any extension of Turkish forces into southern Syria that would "pose a threat" to Israel. He said Israel has issued a clear warning to Turkey and added, "The message has been conveyed, but apparently they did not listen, so we will make sure they understand it better."
-
----
-
-### 2026-08-20 03:50:15  #國際
-
-【內塔尼亞胡警告土耳其勿在敘利亞擴大軍事部署】以色列總理內塔尼亞胡19日在接受採訪時表示，以色列不會容忍土耳其在敘利亞擴大軍事部署，特別是相關軍事力量向敘南部延伸並對以色列“構成威脅”。內塔尼亞胡說，以方已就此向土耳其發出明確警告。他說：“這一資訊已經傳達，但顯然他們沒有聽進去，所以我們確保他們更好地理解這一點。”（新華社）
-
----
-
-### 2026-08-20 03:49:09  #市場 #焦點
-
-現貨黃金突破4510美元/盎司，日內漲4.07%。
-
----
-
-### 2026-08-20 03:48:59  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
-
-【Trump again urges Fed to cut rates】Trump again urged the Federal Reserve to cut rates promptly, saying US interest-rate costs are too high. He said each one percentage-point cut would reduce costs by about $600bn, called the current rate system "unfair", and said the Fed chair is performing well but is affected by the "politicization of the Federal Reserve Board".
 
 ---

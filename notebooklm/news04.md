@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:39:10_
-_本檔包含 2937 則快訊，約 640395 字_
+_更新時間：2026-08-21 03:58:33_
+_本檔包含 2959 則快訊，約 641044 字_
+
+---
+
+### 2026-08-17 20:31:22  #央行 #其他
+
+紐約聯儲隔夜回購操作未收到任何投標。
+
+---
+
+### 2026-08-17 20:31:04  #經濟數據 #加拿大
+
+加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。
+
+---
+
+### 2026-08-17 20:31:02  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #US10Y #S&P500
+
+US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously.
+
+---
+
+### 2026-08-17 20:30:50  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6
+
+---
+
+### 2026-08-17 20:30:46  #MKT News #Macro & Rates #US Economy
+
+US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4.
+
+---
+
+### 2026-08-17 20:30:38  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4
+
+---
+
+### 2026-08-17 20:30:36  #經濟數據 #美國
+
+美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。
+
+---
+
+### 2026-08-17 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2.
+
+---
+
+### 2026-08-17 20:30:25  #MKT News #Economic Calendar #Important
+
+United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2
+
+---
+
+### 2026-08-17 20:30:22  #央行 #國際
+
+美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。
+
+---
+
+### 2026-08-17 20:30:22  #MKT News
+
+Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln.
+
+---
+
+### 2026-08-17 20:30:19  #MKT News #DXY #Impact bearish
+
+Canada July core CPI YoY 2.3% vs prev 2.1%.
+
+---
+
+### 2026-08-17 20:30:16  #資料
+
+加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。
+
+---
+
+### 2026-08-17 20:30:15  #MKT News
+
+Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln.
+
+---
+
+### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish
+
+Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June.
+
+---
+
+### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish #Brent
+
+Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior.
+
+---
+
+### 2026-08-17 20:30:14  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%.
+
+---
+
+### 2026-08-17 20:30:13  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6.
+
+---
+
+### 2026-08-17 20:30:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade.
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6
+
+---
+
+### 2026-08-17 20:29:33  #公司
+
+【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）
+
+---
+
+### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
+
+A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
 
 ---
 
@@ -17673,41 +17841,5 @@ UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is usi
 ### 2026-08-15 17:41:27  #MKT News #CSI300 #Impact bullish #SSE Composite
 
 【Shanghai property trading hotline: no new policy on replacement home purchases for non-residents or foreigners】Shanghai Real Estate Trading Center hotline said no new policy has been issued and clarified existing replacement-purchase rules. For non-Shanghai household families: selling their only property allows replacement with one dwelling anywhere in the city; buyer and seller must be the same person and no social insurance or individual income tax proof is required. This rule has been in effect since 28 May 2024. For households or adult single buyers owning two or more properties who sell some units: replacement purchases must match the sold units in both number and location—units sold outside the Outer Ring Road may only be replaced with units outside the Outer Ring Road; units sold inside the Outer Ring Road may only be replaced with units inside the Outer Ring Road—also exempt from social insurance or individual tax proof. This took effect 26 Feb 2026. For foreign nationals: after selling all Shanghai properties, a foreign individual may replace and purchase one dwelling in the city without submitting a foreigner residence permit (work category), a one‑year local labor contract prior to purchase, or one year of local social insurance/individual tax payment proof; the buyer must sign a foreign individual owner‑occupancy commitment. This rule took effect 29 Jul 2026.
-
----
-
-### 2026-08-15 17:40:18  #焦點 #國際
-
-【國防部新聞發言人蔣斌就日本政要參拜靖國神社答記者問】記者：據報道，在日本戰敗投降日當天，日本首相高市早苗向靖國神社供奉祭祀費，日本防衛大臣小泉進次郎等前往參拜。請問對此有何評論？蔣斌：靖國神社是日本軍國主義發動對外侵略戰爭的精神工具和象徵，供奉有雙手沾滿亞太國家人民鮮血的戰犯。日本政客有關行徑公然褻瀆歷史正義，嚴重傷害亞太受害國人民感情，本質上是掩蓋否定侵略罪責，挑戰世界反法西斯戰爭勝利成果與戰後國際秩序。一邊嘴上標榜追求和平，一邊向戰爭罪魁禍首頂禮膜拜，這種虛偽的作派，充分暴露出日本右翼勢力嚴重扭曲的歷史觀和為軍國主義揚幡招魂的危險圖謀。（新華社）
-
----
-
-### 2026-08-15 17:36:08  #市場 #國際
-
-【美退役上將：美軍中東後勤保障體系已失效】眼下，圍繞美國“林肯”號航母超期部署引發的船員身心危機與後勤保障失效‌的問題，依舊是美國媒體關注的焦點。美媒報道指出，此次航母事件暴露出的美國海軍後勤保障體系存在嚴重問題。美國海軍退役四星上將、前海軍作戰部長加里·拉夫黑德上將13日在接受美國公共廣播電視網（PBS）採訪時表示，近期美軍在中東地區部署艦船的後勤保障工作難度極大，因為美軍沿用數十年的中東艦船後勤保障體系已徹底失效。（央視新聞）
-
----
-
-### 2026-08-15 17:34:25  #其他
-
-【皇崗口岸港方口岸區舉行第二次大型演練和反恐及重大事故演習】香港特區政府今日（15日）於皇崗口岸港方口岸區舉行第二次大型演練，並進行跨部門反恐及重大事故演習，進一步測試口岸聯檢大樓和公共運輸交匯處的人流和車流整體管理，以及加強各部門面對突發事故的應變能力。 此次演練動員超過5000名來自共約30個政策局和部門的公務員參與。他們按指示乘搭不同的公共交通工具抵達口岸，隨後前往聯檢大樓的離境大堂及入境大堂，再按指示乘搭公共交通工具離開口岸。參與人員乘坐由各公共交通營辦商派出的車輛進行超過250發車班次的迴圈測試，以模擬人流和車流進出口岸的情況。 保安局局長鄧炳強到場視察，並於演練後與各參與部門舉行會議，即時檢視流程和參與人士回饋的意見，以在後續演練中加以最佳化。（大灣區之聲）
-
----
-
-### 2026-08-15 17:34:14  #宏觀
-
-【非滬籍居民及境外人士置換性購房政策微調？上海房地產交易中心熱線回應】針對市場傳出上海更新置換購房相關執行口徑，8月15日，記者致電上海房地產交易中心熱線“962269”進行諮詢。針對非本市戶籍居民置換性購房的問題，上海房地產交易中心熱線工作人員表示，並未出臺新政。據熱線工作人員介紹，非本市戶籍居民家庭，出售名下唯一房產，可在全市範圍內建換一套住房，前後產權人需保持一致，無需提供社保或個稅證明。該口徑已於2024年5月28日起執行。針對多套住房，非本市戶籍居民家庭或成年單身人士出售名下部分房產（即名下有兩套及以上的），再次購房時，購買住房的套數與位置要與售出房屋一致——賣掉外環外房屋只能外環外買；賣掉外環內房屋，只能外環內買，免於提交社保或個稅證明。該口徑已於2026年2月26日起執行。針對境外人士的購房置換，熱線工作人員表示，境外個人出售名下上海全部房產後，可在本市置換併購買一套住房，免於提交外國人居留許可證（工作類）、自購房之日前連續滿一年的本市勞動合同，以及購房之日前連續滿一年的社保、個稅繳納證明，但仍需簽署境外個人購房自住承諾書。該口徑於2026年7月29日起執行。 (澎湃新聞)
-
----
-
-### 2026-08-15 17:30:02  #國際
-
-俄羅斯方面稱，夏季攻勢已攻佔烏克蘭東南部19個定居點。
-
----
-
-### 2026-08-15 17:27:19  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-【Jensen Huang offers up to 25% residual-value support as NVIDIA, six Wall Street asset managers back AI compute as standalone asset class】Jensen Huang, joined by six Wall Street asset managers, endorsed treating AI compute as a standalone asset class. Investors raised concerns about circular financing and elevated debt risk; Huang said NVIDIA may provide up to 25% residual-value support for individual projects and will prudently assess each deal. The remarks eased market concern modestly.
 
 ---

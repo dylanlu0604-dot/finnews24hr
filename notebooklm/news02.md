@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:39:10_
-_本檔包含 3256 則快訊，約 640375 字_
+_更新時間：2026-08-21 03:58:33_
+_本檔包含 3255 則快訊，約 641260 字_
+
+---
+
+### 2026-08-20 04:07:33  #其他
+
+默克股價收漲13%，創2009年3月以來最大單日漲幅。
+
+---
+
+### 2026-08-20 04:06:54  #MKT News #Market Regions #Wall Street (US) #MRNA.O #Impact bullish
+
+Moderna (MRNA.O) shares jumped a record 177%, adding $44 billion to market value.
+
+---
+
+### 2026-08-20 04:05:01  #MKT News #Important #Market Regions #Wall Street (US) #Market Themes #Chip Wars #MRNA.O #Impact bullish #MRK.N #MRVL.O
+
+【US close: major indices higher; Moderna surges 176%】US stocks closed higher Wednesday. Dow Jones Industrial Average preliminary close +0.22%, S&P 500 +0.21%, Nasdaq +0.16%. Moderna (MRNA.O) surged 176%; Merck (MRK.N) +12.6%. Marvell Technology (MRVL.O) +9.8%. SK Hynix (SKHY.O) +0.35%. SanDisk (SNDK.O) -3.5%; Micron Technology (MU.O) -0.39%. Nasdaq Golden Dragon China Index +1.5%.
+
+---
+
+### 2026-08-20 04:04:59  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+US stocks closed higher on Aug 19 (Wed): Dow Jones Industrial Average +119.71 pts (+0.22%) to 53,463.11; S&P 500 +16.50 pts (+0.21%) to 7,708.26; Nasdaq Composite +41.38 pts (+0.16%) to 26,331.09.
+
+---
+
+### 2026-08-20 04:04:18  #其他
+
+MODERNA 股價飆升創紀錄 177%，市值增加 440 億美元。
+
+---
+
+### 2026-08-20 04:03:40  #市場
+
+雅詩蘭黛股價收漲16%，創2011年以來最大漲幅。
+
+---
+
+### 2026-08-20 04:02:11  #MKT News
+
+US outstanding public debt has doubled since 2017. Of the increase, $11.6 tln was added during Trump’s two presidential terms and $8.4 tln was added during former president Biden’s term.
+
+---
+
+### 2026-08-20 04:00:53  #MKT News #Important #Macro & Rates #US Economy
+
+U.S. federal government debt surpasses $40 trillion, Xinhua reports.
+
+---
+
+### 2026-08-20 04:00:51  #宏觀 #國際
+
+【美國聯邦政府債務突破40萬億美元】美國財政部19日釋出的資料顯示，美國聯邦政府債務總額已突破40萬億美元。（新華社）
+
+---
+
+### 2026-08-20 04:00:49  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.22%，標普500指數漲0.22%，納指漲0.15%。Moderna漲176.97%，雅詩蘭黛漲16.39%，Strategy漲12.66%，默沙東漲12.62%，亞歷山大房地產漲10.30%，邁威爾科技漲9.91%。“七姐妹”方面：特斯拉漲4.23%，亞馬遜漲2.46%，蘋果漲2.12%，微軟漲0.55%，Meta Platforms漲0.46%，谷歌漲0.11%，英偉達跌1.08%。
+
+---
+
+### 2026-08-20 04:00:31  #宏觀 #焦點 #國際
+
+美國財政部：美國未償還公共債務總額於週二首次突破 40 萬億美元。
+
+---
+
+### 2026-08-20 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲1.48%】金山雲漲13.98%，嘉楠科技漲11.38%，新氧漲8.14%，阿特斯漲6.99%，華住酒店集團漲5.77%。
+
+---
+
+### 2026-08-20 03:58:28  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Tesla Stock Price Hits 4-week High — Tesla shares increased to 351.27 USD, the highest since July 2026. Over the past 4 weeks, Tesla lost 5.05%, and in the last 12 months, it increased 8.34%.
+
+---
+
+### 2026-08-20 03:56:30  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #DXY #Impact mixed
+
+【Trump says Treasury’s Bessent may unveil Iran sanctions this week】Trump said Treasury Secretary Bessent may unveil major sanctions on Iran this week and that Bessent “won’t play games.” He said the US has “very tough” sanctions options and is monitoring developments. Trump added the Strait of Hormuz is currently open with many vessels transiting, a fact he said is underreported, but that transit speeds could slow going forward.
+
+---
+
+### 2026-08-20 03:55:52  #其他
+
+OpenAI：我們將繼續為前沿模型提供零資料留存服務。隨著人工智慧承擔更長、自主性更強的工作，併為企業創造更高價值，安全系統也需要識別各類關聯互動中存在的風險。為應對上述風險，我們推出私有安全處理預覽版，該技術旨在提升安全防護水平，同時不讓 OpenAI 工作人員接觸底層原始內容。
+
+---
+
+### 2026-08-20 03:55:10  #公司
+
+哈德遜河貿易公司第二季度交易營收創下 114 億美元歷史新高。
+
+---
+
+### 2026-08-20 03:51:46  #MKT News #XAUUSD #Impact bullish #DXY
+
+【Netanyahu warns Turkey against expanding military deployment in Syria】Israeli Prime Minister Netanyahu said in an interview on the 19th that Israel will not tolerate Turkey expanding military deployments in Syria, particularly any extension of Turkish forces into southern Syria that would "pose a threat" to Israel. He said Israel has issued a clear warning to Turkey and added, "The message has been conveyed, but apparently they did not listen, so we will make sure they understand it better."
+
+---
+
+### 2026-08-20 03:50:15  #國際
+
+【內塔尼亞胡警告土耳其勿在敘利亞擴大軍事部署】以色列總理內塔尼亞胡19日在接受採訪時表示，以色列不會容忍土耳其在敘利亞擴大軍事部署，特別是相關軍事力量向敘南部延伸並對以色列“構成威脅”。內塔尼亞胡說，以方已就此向土耳其發出明確警告。他說：“這一資訊已經傳達，但顯然他們沒有聽進去，所以我們確保他們更好地理解這一點。”（新華社）
+
+---
+
+### 2026-08-20 03:49:09  #市場 #焦點
+
+現貨黃金突破4510美元/盎司，日內漲4.07%。
+
+---
+
+### 2026-08-20 03:48:59  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
+
+【Trump again urges Fed to cut rates】Trump again urged the Federal Reserve to cut rates promptly, saying US interest-rate costs are too high. He said each one percentage-point cut would reduce costs by about $600bn, called the current rate system "unfair", and said the Fed chair is performing well but is affected by the "politicization of the Federal Reserve Board".
 
 ---
 
@@ -19495,131 +19615,5 @@ Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased
 ### 2026-08-19 03:47:18  #MKT News
 
 【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions.
-
----
-
-### 2026-08-19 03:45:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,350/oz, down 1.51% on the day.
-
----
-
-### 2026-08-19 03:45:09  #市場 #焦點
-
-現貨黃金失守4350美元/盎司，日內跌1.53%。
-
----
-
-### 2026-08-19 03:44:56  #國際
-
-【英國47%民眾希望減少乃至拒絕以色列移民入境】YouGov一項最新民調顯示，僅有5%的英國民眾支援接納更多以色列移民進入英國；47%的民眾希望減少以色列移民數量或是完全不接收。隨著英國國內反對以色列在加沙開展軍事行動的情緒不斷高漲，以色列籍移民已成為英國民眾接納意願最低的移民群體之一。
-
----
-
-### 2026-08-19 03:43:42  #MKT News #Commodities #Energy
-
-A vice president at Venezuela's state oil company said the country faces a daily natural gas shortfall of about 500 million cubic feet.
-
----
-
-### 2026-08-19 03:42:35  #宏觀 #國際
-
-【美國財政部對兩名國際刑事法院人員實施制裁】當地時間8月18日，據美國財政部外國資產控制辦公室訊息，美國當天釋出國際刑事法院相關的新制裁，並更新“特別指定國民清單”（SDN清單）。美國將日本籍國際刑事法院院長赤根智子和塞內加爾籍國際刑事法院檢察官團隊成員阿卜杜拉耶·塞耶列入清單。（央視新聞）
-
----
-
-### 2026-08-19 03:41:58  #公司
-
-委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。
-
----
-
-### 2026-08-19 03:38:27  #國際
-
-伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。
-
----
-
-### 2026-08-19 03:37:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%).
-
----
-
-### 2026-08-19 03:37:21  #市場
-
-【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。
-
----
-
-### 2026-08-19 03:34:55  #MKT News #Commodities #Energy #WTI #Brent
-
-A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August.
-
----
-
-### 2026-08-19 03:34:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic.
-
----
-
-### 2026-08-19 03:33:51  #公司
-
-委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。
-
----
-
-### 2026-08-19 03:33:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond.
-
----
-
-### 2026-08-19 03:33:34  #國際
-
-阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。
-
----
-
-### 2026-08-19 03:33:04  #MKT News
-
-U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it.
-
----
-
-### 2026-08-19 03:32:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term.
-
----
-
-### 2026-08-19 03:31:46  #國際
-
-美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。
-
----
-
-### 2026-08-19 03:31:45  #國際
-
-美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。
-
----
-
-### 2026-08-19 03:30:43  #國際
-
-伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。
-
----
-
-### 2026-08-19 03:27:33  #國際
-
-阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。
-
----
-
-### 2026-08-19 03:27:08  #MKT News
-
-【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight.
 
 ---

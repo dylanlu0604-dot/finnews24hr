@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:39:10_
-_本檔包含 3296 則快訊，約 640872 字_
+_更新時間：2026-08-21 03:58:33_
+_本檔包含 3289 則快訊，約 640710 字_
+
+---
+
+### 2026-08-19 03:45:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,350/oz, down 1.51% on the day.
+
+---
+
+### 2026-08-19 03:45:09  #市場 #焦點
+
+現貨黃金失守4350美元/盎司，日內跌1.53%。
+
+---
+
+### 2026-08-19 03:44:56  #國際
+
+【英國47%民眾希望減少乃至拒絕以色列移民入境】YouGov一項最新民調顯示，僅有5%的英國民眾支援接納更多以色列移民進入英國；47%的民眾希望減少以色列移民數量或是完全不接收。隨著英國國內反對以色列在加沙開展軍事行動的情緒不斷高漲，以色列籍移民已成為英國民眾接納意願最低的移民群體之一。
+
+---
+
+### 2026-08-19 03:43:42  #MKT News #Commodities #Energy
+
+A vice president at Venezuela's state oil company said the country faces a daily natural gas shortfall of about 500 million cubic feet.
+
+---
+
+### 2026-08-19 03:42:35  #宏觀 #國際
+
+【美國財政部對兩名國際刑事法院人員實施制裁】當地時間8月18日，據美國財政部外國資產控制辦公室訊息，美國當天釋出國際刑事法院相關的新制裁，並更新“特別指定國民清單”（SDN清單）。美國將日本籍國際刑事法院院長赤根智子和塞內加爾籍國際刑事法院檢察官團隊成員阿卜杜拉耶·塞耶列入清單。（央視新聞）
+
+---
+
+### 2026-08-19 03:41:58  #公司
+
+委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。
+
+---
+
+### 2026-08-19 03:38:27  #國際
+
+伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。
+
+---
+
+### 2026-08-19 03:37:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%).
+
+---
+
+### 2026-08-19 03:37:21  #市場
+
+【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。
+
+---
+
+### 2026-08-19 03:34:55  #MKT News #Commodities #Energy #WTI #Brent
+
+A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August.
+
+---
+
+### 2026-08-19 03:34:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic.
+
+---
+
+### 2026-08-19 03:33:51  #公司
+
+委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。
+
+---
+
+### 2026-08-19 03:33:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond.
+
+---
+
+### 2026-08-19 03:33:34  #國際
+
+阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。
+
+---
+
+### 2026-08-19 03:33:04  #MKT News
+
+U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it.
+
+---
+
+### 2026-08-19 03:32:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term.
+
+---
+
+### 2026-08-19 03:31:46  #國際
+
+美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。
+
+---
+
+### 2026-08-19 03:31:45  #國際
+
+美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。
+
+---
+
+### 2026-08-19 03:30:43  #國際
+
+伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。
+
+---
+
+### 2026-08-19 03:27:33  #國際
+
+阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。
+
+---
+
+### 2026-08-19 03:27:08  #MKT News
+
+【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight.
 
 ---
 
@@ -19728,173 +19854,5 @@ NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio 
 ### 2026-08-17 20:32:15  #公司
 
 【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
-
----
-
-### 2026-08-17 20:31:22  #央行 #其他
-
-紐約聯儲隔夜回購操作未收到任何投標。
-
----
-
-### 2026-08-17 20:31:04  #經濟數據 #加拿大
-
-加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。
-
----
-
-### 2026-08-17 20:31:02  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #US10Y #S&P500
-
-US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously.
-
----
-
-### 2026-08-17 20:30:50  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6
-
----
-
-### 2026-08-17 20:30:46  #MKT News #Macro & Rates #US Economy
-
-US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4.
-
----
-
-### 2026-08-17 20:30:38  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4
-
----
-
-### 2026-08-17 20:30:36  #經濟數據 #美國
-
-美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
-
-New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2.
-
----
-
-### 2026-08-17 20:30:25  #MKT News #Economic Calendar #Important
-
-United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2
-
----
-
-### 2026-08-17 20:30:22  #央行 #國際
-
-美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:22  #MKT News
-
-Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln.
-
----
-
-### 2026-08-17 20:30:19  #MKT News #DXY #Impact bearish
-
-Canada July core CPI YoY 2.3% vs prev 2.1%.
-
----
-
-### 2026-08-17 20:30:16  #資料
-
-加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。
-
----
-
-### 2026-08-17 20:30:15  #MKT News
-
-Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish
-
-Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish #Brent
-
-Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior.
-
----
-
-### 2026-08-17 20:30:14  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%.
-
----
-
-### 2026-08-17 20:30:13  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6.
-
----
-
-### 2026-08-17 20:30:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade.
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6
-
----
-
-### 2026-08-17 20:29:33  #公司
-
-【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）
-
----
-
-### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
-
-A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
 
 ---
