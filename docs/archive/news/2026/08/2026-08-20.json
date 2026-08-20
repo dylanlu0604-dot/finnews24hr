@@ -1,7 +1,241 @@
 {
   "date": "2026-08-20",
-  "count": 1250,
+  "count": 1273,
   "items": [
+    {
+      "id": "mkt:01a01de3-3253-7aab-90ab-193f53ab8091",
+      "time": "2026-08-20 14:37:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "HarmonyOS Zhixing said cumulative deliveries across its full lineup exceeded 1.5 million vehicles after 53 months."
+    },
+    {
+      "id": "5049176",
+      "time": "2026-08-20 14:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星源材質：幹法隔膜產品已實現批次出貨】據星源材質訊息，近日，公司幹法隔膜產品已先後透過多家頭部儲能電池企業的嚴格驗證，實現批次出貨。這標誌著星源材質幹法隔膜在儲能賽道的商業化程序全面提速。"
+    },
+    {
+      "id": "5049175",
+      "time": "2026-08-20 14:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價收漲13%。"
+    },
+    {
+      "id": "5049174",
+      "time": "2026-08-20 14:36:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美提升“雨燕”天文臺軌道的航天器無法完成既定任務】美國航空航天局19日表示，用於抬升尼爾·格雷爾斯·斯威夫特（又稱“雨燕”）天文臺軌道的商業在軌服務航天器持續存在姿態控制問題，導致該航天器無法按計劃在軌對接並抬升“雨燕”天文臺軌道。如無新的干預措施，“雨燕”天文臺可能於今年晚些時候墜入地球大氣層。（新華社）"
+    },
+    {
+      "id": "te:markets:576748",
+      "time": "2026-08-20 14:36:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Steel Falls on Demand Concerns — Steel rebar futures fell toward CNY 3,010 per ton, retreating from three-week highs as signs of persistently weak demand in top consumer China weighed on the market. Chinese steelmakers continued to struggle with deteriorating margins and a prolonged property sector downturn, limiting demand for steel products. Industry data showed that China’s daily crude steel output fell 11% in July from the previous month to 2.48 million tons, while daily hot metal production declined 2.2% to 2.2 million tons. China’s property market has remained in a prolonged slump for five years, with real estate values continuing to decline, financially strained households being forced to sell properties, and heavily indebted developers facing mounting pressure after accumulating massive debt on speculative projects. Export opportunities for Chinese steel mills were also constrained by growing protectionist measures from foreign governments."
+    },
+    {
+      "id": "mkt:01a01de1-e32c-7aab-90ab-173b0046dee2",
+      "time": "2026-08-20 14:35:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said if another war erupts its weapons will differ from before, potentially in warhead type, strike precision, missile range or other capabilities."
+    },
+    {
+      "id": "mkt:01a01de1-c8e6-7aab-90ab-0b221f94cbb2",
+      "time": "2026-08-20 14:35:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps says it is continuing advances across weapons systems and is producing more precise, more destructive and more advanced arms."
+    },
+    {
+      "id": "mkt:01a01de1-a850-7aab-90ab-04312066aca8",
+      "time": "2026-08-20 14:35:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said Yemen's Houthi forces are increasingly capable and that, should a new war erupt, they would employ more destructive weapons."
+    },
+    {
+      "id": "mkt:01a01de1-8b8a-7aab-90aa-fdd0e500e2f7",
+      "time": "2026-08-20 14:35:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine's air force said Russia fired dozens of ballistic, cruise and hypersonic missiles and launched 168 drones in overnight attacks."
+    },
+    {
+      "id": "5049173",
+      "time": "2026-08-20 14:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "華為餘承東：截至8月16日，鴻蒙智行全繫累計交付已經突破150萬臺，用時53個月，位居新勢力品牌交付速度首位。"
+    },
+    {
+      "id": "5049172",
+      "time": "2026-08-20 14:34:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭空軍稱，俄羅斯在夜間襲擊中發射了數十枚彈道導彈、巡航導彈、高超音速導彈以及168架無人機。"
+    },
+    {
+      "id": "5049171",
+      "time": "2026-08-20 14:34:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱三星斥資6萬億韓元建設溫陽HBM新工廠，擬於下月破土動工】忠清南道政府於8月19日宣佈，已順利完成對三星電子溫陽園區半導體製造廠擴建專案的城市規劃委員會審議。相關部門加快推動初步磋商和行政審查，使得城市規劃委員會的審議時間較原計劃提前一個多月完成。三星電子計劃下個月開始建設新工廠，但竣工日期尚未公佈。"
+    },
+    {
+      "id": "mkt:01a01ddf-7085-7aab-90aa-f145722bdcab",
+      "time": "2026-08-20 14:32:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported authorities executed an individual linked to January protests."
+    },
+    {
+      "id": "mkt:01a01ddf-0bc9-7aab-90aa-eab259316a29",
+      "time": "2026-08-20 14:32:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Germany July energy prices +3.8% YoY; oil product prices jump 31.4%】Germany's Federal Statistical Office said July 2026 energy prices rose 3.8% YoY and 3.4% MoM. Oil product prices increased 31.4% YoY and 6.6% MoM, the agency said, affected by tensions involving Iran and conflict in the Middle East. Naphatha prices were up 34.6% YoY, light heating oil up 52.0% YoY and fuel oil up 29.4% YoY. Electricity prices fell 1.6% YoY and district heating declined 0.7% YoY."
+    },
+    {
+      "id": "mkt:01a01dde-9737-7aab-90aa-e76fd0b30da4",
+      "time": "2026-08-20 14:32:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Norway prepares for higher U.S. tariffs after trade talks】Norwegian State Secretary Andreas Kravik met Wednesday with USTR Deputy Trade Representative Jeff Goettman, who covers Europe and related regions, to discuss the additional 12.5% U.S. tariff on Norwegian exports imposed last month — a rate above that applied to EU goods — and the possibility of further increases. Goettman said after the meeting higher tariffs are \"very likely\" and that stakeholders \"should be clear-eyed about this.\""
+    },
+    {
+      "id": "mkt:01a01dde-7408-7aab-90aa-d8623aa19e47",
+      "time": "2026-08-20 14:31:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan, South Korea stocks close higher】Japan's Nikkei 225 closed up 890.37 points (+1.36%) at 66,216.79 on Aug 20 (Thursday). South Korea's KOSPI closed up 381.41 points (+5.89%) at 6,852.58."
+    },
+    {
+      "id": "5049169",
+      "time": "2026-08-20 14:31:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱電機將以14億美元收購PCI能源解決方案公司。"
+    },
+    {
+      "id": "5049168",
+      "time": "2026-08-20 14:31:10",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市高開高收】日經225指數8月20日（週四）收盤上漲890.37點，漲幅1.36%，報66216.79點。韓國KOSPI指數8月20日（週四）收盤上漲381.41點，漲幅5.89%，報6852.58點。"
+    },
+    {
+      "id": "5049167",
+      "time": "2026-08-20 14:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步在迪拜上線百度Apollo Go自動駕駛計程車。"
+    },
+    {
+      "id": "mkt:01a01ddd-63ca-7aab-90aa-d07cded9ef31",
+      "time": "2026-08-20 14:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "Cambricon shares fell more than 5%, slipping below the CNY1,000 level, with trading turnover exceeding CNY13.5 bln."
+    },
+    {
+      "id": "5049166",
+      "time": "2026-08-20 14:30:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "寒武紀跌超5%，股價跌破1000元關口，成交額超135億元。"
+    },
+    {
+      "id": "mkt:01a01ddd-448c-7aab-90aa-c8d9f6662a25",
+      "time": "2026-08-20 14:30:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "UBER.N",
+        "Impact bullish",
+        "BIDU.O"
+      ],
+      "text": "Uber (UBER.N) launched Baidu's fully driverless Apollo Go service in Dubai, creating the world's first multi-party collaborative autonomous-driving network."
+    },
+    {
+      "id": "te:markets:576743",
+      "time": "2026-08-20 14:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.21% Higher — The Nikkei 225 Index went up by 791 points or 1.21 percent on Thursday to close at 66118 points. The rise was led by Sumitomo Metal Mining (10.87%), Toho Zinc (10.71%) and Sumitomo Dainippon (8.29%)."
+    },
     {
       "id": "5049165",
       "time": "2026-08-20 14:29:44",
