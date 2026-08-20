@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-20 12:22:41",
-  "count": 15674,
+  "updated": "2026-08-20 12:26:33",
+  "count": 15675,
   "items": [
+    {
+      "id": "5049045",
+      "time": "2026-08-20 12:24:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南京銀行：2026年下半年存款付息率有望持續改善】南京銀行舉行2026年半年度業績說明會。會上，該行業務部門負責人表示，今年以來，面對低利率、低息差的市場環境，南京銀行堅持資產負債兩端協同發力，統籌最佳化資產配置、調優負債結構、強化定價管理，多措並舉穩息差、提質效，淨息差整體趨穩，淨利差較上年末上升0.02個百分點。展望下半年，南京銀行將繼續把握高成本存款到期重定價契機調優結構，同時透過“三年降成本行動”縱深推進及客戶倍增、代發工程、場景金融等專案，多渠道拓展低成本存款來源，預計全年存款付息率改善幅度將超過2025年。"
+    },
+    {
+      "id": "te:economy:576713",
+      "time": "2026-08-20 12:22:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Malaysia Trade Surplus Expands in June — Malaysia’s trade surplus amounted to MYR 22.5 billion in July 2026, widening from MYR 14.8 billion in the same month a year earlier and exceeding market expectations of MYR 17.5 billion, as exports rose more than imports. Exports jumped 38.0% year-on-year to MYR 193.6 billion, mainly driven by a 42.6% surge in manufactured goods, which accounted for 89.8% of total exports, particularly E&E products (51%). By destination, exports rose sharply to the US (79.8%), Singapore (16.7%), China (30.2%), Taiwan (96%), and the EU (37%). Imports increased 36.4% to MYR 171.1 billion, primarily due to a sharp increase in intermediate goods (40.8%) and capital goods (24%), while consumption goods (5.2%) also posted gains. China (60.1%) and Singapore (53.8%) remained Malaysia’s two major sources of imports. In January–July, the trade surplus widened sharply to MYR 170.5 billion, more than double the MYR 71.4 billion recorded last year, as export growth (29.2%) outpaced the rise in imports (19.8%)."
+    },
+    {
+      "id": "5049044",
+      "time": "2026-08-20 12:22:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【Yardeni：美國財長釋放“不惜一切”遏制美債收益率上行的訊號】Yardeni Research在報告中指出，美國財政部長貝森特是在暗示他將不惜一切代價遏制美國國債收益率上行。Ed Yardeni牽頭的策略師團隊在報告中指出，貝森特向“債券衛士”傳遞的資訊是：“債券市場並不是只有你們這些玩家”。美國財政部擁有多種工具，可以在一定程度上影響美債收益率曲線的形態和水平。“貝森特打算動用這些工具，對抗債券衛士任何試圖大幅推高收益率的行動”。"
+    },
     {
       "id": "5049043",
       "time": "2026-08-20 12:21:48",
@@ -143800,24 +143830,6 @@
         "宏觀"
       ],
       "text": "市場訊息：星鏈（Starlink）已開始在越南接受其高速、低延遲衛星網際網路服務的訂單，這是該國新出臺的近地軌道監管框架下的一個重要里程碑。"
-    },
-    {
-      "id": "mkt:019ff95e-bcb0-7aab-9018-6a3e0347541d",
-      "time": "2026-08-13 12:26:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Market sources say Starlink has begun accepting orders for satellite internet service in Vietnam."
-    },
-    {
-      "id": "5038588",
-      "time": "2026-08-13 12:25:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【運機集團與中科慧拓簽署戰略合作協議 打造一體化智慧礦山無人輸送方案】據運機集團訊息，8月12日，四川省自貢運輸機械集團股份有限公司（簡稱“運機集團”）與中科慧拓科技股份有限公司簽署全面戰略合作協議，雙方將依託各自產業與技術優勢，協同推進海內外礦山智慧運輸、綠色礦山建設，打造一體化無人輸送解決方案，助力礦業行業智慧化、無人化、綠色化轉型。"
     }
   ]
 }
