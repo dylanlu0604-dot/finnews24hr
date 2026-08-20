@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-20 23:47:47",
-  "count": 16026,
+  "updated": "2026-08-20 23:51:41",
+  "count": 16025,
   "items": [
+    {
+      "id": "5050573",
+      "time": "2026-08-20 23:48:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "堡湖資本完成2.613億美元住宅過渡貸款證券化定價，交易載體為堡湖住宅抵押貸款信託2026-RTL1。"
+    },
+    {
+      "id": "5050572",
+      "time": "2026-08-20 23:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總理宣佈建立高度戒備監獄，加強管控。"
+    },
+    {
+      "id": "te:markets:576922",
+      "time": "2026-08-20 23:47:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 52,666 on Thursday, as merger and takeover developments continued to shape sentiment around heavyweight financials. MPS fell 0.3% after its board approved plans to launch separate bids for Banco BPM (0.9%) and Generali-controlled (-0.1%) Banca Generali, in an effort to fend off a takeover bid from Intesa Sanpaolo (0.4%). BPER Banca (-0.3%) and Unipol (-3.0%) were also affected, while UniCredit (0.6%) has built a stake in Generali in recent months, which it has described as a financial investment. Meanwhile, Eni advanced 2.6%, tracking higher global oil prices after US President Donald Trump announced a sweeping package of economic measures targeting Iran. Utilities outperformed, led by Italgas (2.0%) and Snam (1.3%). On the downside, Stellantis fell 3.7%, erasing recent gains, while Amplifon declined 3.0% after GN Hearing reported disappointing quarterly results."
+    },
+    {
+      "id": "5050571",
+      "time": "2026-08-20 23:47:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "據法律資訊網站：YouTube 博主起訴 Snap，指控其為訓練 AI 實施資料爬取  。"
+    },
     {
       "id": "5050570",
       "time": "2026-08-20 23:46:41",
@@ -146613,51 +146649,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Falls as Geopolitical Uncertainty Weighs — The CAC 40 shed 0.3% to close at 8,651 on Thursday amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. Washington and Tehran traded accusations over a deal to reopen the strategically vital Strait of Hormuz, with the US saying Iran had failed to meet its obligations, while Iran countered that Washington had not delivered on ending a blockade of Iranian ports. High energy prices are expected to weigh more heavily on eurozone economies as large energy importers. The ECB is set to raise interest rates once more next month, as higher energy prices push inflation further from the bank’s 2% target, reaching 2.9% last month. Luxury stocks were mostly lower amid elevated risk aversion, with LVMH down 0.7% and Hermès losing 1.2%. Industrials also fell, with Safran down 1.9%, Vinci losing 1.2% and Thales shedding 1.1%. In contrast, Sanofi (+1.2%) and Michelin (+0.7%) gained as euro area industrial production came in slightly above forecasts."
-    },
-    {
-      "id": "5039860",
-      "time": "2026-08-13 23:50:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "CEREBRAS執行長：公司業務將以驚人的速度增長。資料中心對所有人來說都是一個挑戰。"
-    },
-    {
-      "id": "mkt:019ffbd1-308a-7aab-902a-771919b4d753",
-      "time": "2026-08-13 23:50:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "AI chipmaker Cerebras says its business will grow at an exceptional pace."
-    },
-    {
-      "id": "mkt:019ffbd1-1b14-7aab-902a-69847870f278",
-      "time": "2026-08-13 23:50:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "AI chipmaker Cerebras says data centers pose a challenge for everyone."
-    },
-    {
-      "id": "5039859",
-      "time": "2026-08-13 23:49:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【荷蘭警方確認鹿特丹港爆炸系工作事故】荷蘭鹿特丹警方13日初步確認，當天發生在鹿特丹港一家能源公司廠區的爆炸屬於工作事故。警方在宣告中說，目前來看爆炸是一起工作事故。荷蘭社會事務與就業部將對事故進行繼續調查，並負責處理後續事宜。（新華社）"
-    },
-    {
-      "id": "mkt:019ffbce-ee05-7aab-902a-657af2401795",
-      "time": "2026-08-13 23:47:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The Washington Post reports that about 25% of US \"Reaper\" drones were shot down during the Iran war."
     }
   ]
 }
