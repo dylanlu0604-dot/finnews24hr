@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-21 00:45:09",
-  "count": 16058,
+  "updated": "2026-08-21 00:49:08",
+  "count": 16060,
   "items": [
+    {
+      "id": "5050635",
+      "time": "2026-08-21 00:48:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深汕特別合作區釋出雷雨大風黃色預警訊號】深圳市氣象臺2026年08月21日00時46分在深汕特別合作區、深汕海域釋出雷雨大風黃色預警訊號，預計2-3小時內深汕區陣風將達8級左右，並伴有短時強降雨和雷電。請落實各項防風防雷電措施。（深圳天氣）"
+    },
+    {
+      "id": "5050634",
+      "time": "2026-08-21 00:46:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週四（8月20日）歐市尾盤，ICE英國天然氣期貨漲2.90%，TTF基準荷蘭天然氣期貨漲2.86%，ICE歐盟碳排放交易許可（期貨價格）漲0.74%。"
+    },
+    {
+      "id": "mkt:01a02010-b738-7aab-90be-6568ca6fe238",
+      "time": "2026-08-21 00:46:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "EURUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Germany lowers winter gas storage expectation to 60–70%, says level should be sufficient】Germany's Economy Ministry said gas storage of 60–70% at the start of winter, together with additional import capacity, would typically suffice to meet average winter demand, implying limited buffer against supply disruptions for Europe's largest energy consumer. The ministry added the government is able and will act if energy security is threatened. Disruptions to gas flows from the Middle East this year and a reduced incentive for utilities and traders to stockpile have left Europe struggling to refill reserves. EU storage is just above 61% — the lowest for the season since records began in 2009 — while Germany's facilities are around 50% full."
+    },
+    {
+      "id": "5050633",
+      "time": "2026-08-21 00:45:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞發生沉船事故 造成至少40人死亡】當地時間8月20日，奈及利亞西北部索科託州發生一起嚴重沉船事故。一艘載有70餘人的木船在渡河時傾覆，目前已造成至少40人遇難。奈及利亞國家內河航道管理局區域經理阿卜杜勒卡迪爾·優素福證實，事故發生在索科託州戈羅尼奧地方政府區的戈勞鎮。據瞭解，船上乘客主要是附近前往稻田幹活的農戶和受僱收割水稻的工人，事發時船隻處於嚴重超載狀態。目前，當地政府對失蹤乘客的搜尋工作仍在進行中，預計傷亡人數還可能上升。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0200f-8cae-7aab-90be-5e5690e341b1",
+      "time": "2026-08-21 00:44:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Sources said air-raid sirens sounded in Kyiv, Ukraine as an air-defence alert was activated."
+    },
     {
       "id": "5050632",
       "time": "2026-08-21 00:44:25",
@@ -146916,34 +146971,6 @@
         "國際"
       ],
       "text": "美國：該部隊將使用美國及夥伴國的攻擊型無人機。"
-    },
-    {
-      "id": "mkt:019ffc06-2652-7aab-902b-210696cca7a6",
-      "time": "2026-08-14 00:48:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI replaces revenue chief again as it accelerates revenue ahead of anticipated IPO】OpenAI has appointed Dali Rajic as chief revenue officer, its second CRO in under a year, signalling a push to boost sales ahead of an anticipated Wall Street listing. Rajic joins from Alphabet-backed cybersecurity firm Wiz, where he was president and COO; he will replace the CRO who joined last December and will depart after a transition. The move comes amid wider senior executive turnover, including departures of Brad Lightcap, Fidji Simo and Kevin Weil. President Greg Brockman said the company must keep proving each dollar of AI spend delivers measurable commercial value; OpenAI said its annualized revenue run rate rose more than 20% MoM in July and enterprise customer revenue grew 32%. OpenAI also reported weekly active users topped 1 billion last month."
-    },
-    {
-      "id": "5039894",
-      "time": "2026-08-14 00:46:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：成立新無人機特遣隊。"
-    },
-    {
-      "id": "5039893",
-      "time": "2026-08-14 00:46:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國非競爭性投標以9540萬美元的價格競購30年期債券。"
     }
   ]
 }
