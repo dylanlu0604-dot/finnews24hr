@@ -1,7 +1,17 @@
 {
   "date": "2026-08-21",
-  "count": 392,
+  "count": 393,
   "items": [
+    {
+      "id": "mkt:01a02110-cd99-7aab-90c1-d955c0f64a6f",
+      "time": "2026-08-21 05:25:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P Dow Jones Indices will reclassify Poland from emerging- to developed-market status and will retain Egypt in the emerging-market category."
+    },
     {
       "id": "5050814",
       "time": "2026-08-21 05:20:08",

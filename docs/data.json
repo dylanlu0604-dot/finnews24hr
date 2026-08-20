@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-21 05:22:44",
-  "count": 16083,
+  "updated": "2026-08-21 05:26:36",
+  "count": 16075,
   "items": [
+    {
+      "id": "mkt:01a02110-cd99-7aab-90c1-d955c0f64a6f",
+      "time": "2026-08-21 05:25:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P Dow Jones Indices will reclassify Poland from emerging- to developed-market status and will retain Egypt in the emerging-market category."
+    },
     {
       "id": "5050814",
       "time": "2026-08-21 05:20:08",
@@ -147064,88 +147074,6 @@
         "Impact bearish"
       ],
       "text": "White House announces President Trump will impose 100% ad valorem tariffs on drones of certain sizes or with sensitive capabilities."
-    },
-    {
-      "id": "5040063",
-      "time": "2026-08-14 05:26:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：對於非高度敏感的無人機零部件，關稅將於簽署後 180 天生效。"
-    },
-    {
-      "id": "5040062",
-      "time": "2026-08-14 05:26:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：對來自英國的無人機徵收 10% 從價關稅。"
-    },
-    {
-      "id": "mkt:019ffd04-8dee-7aab-902e-626e5c054add",
-      "time": "2026-08-14 05:26:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "White House: President Trump will impose a 25% ad valorem tariff on certain small unmanned aerial vehicles lacking specified capabilities, citing national security concerns."
-    },
-    {
-      "id": "5040061",
-      "time": "2026-08-14 05:25:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國白宮：特朗普釋出公告，對來自歐盟、日本、列支敦斯登、韓國、瑞士的無人機及其零部件徵收 15% 從價關稅。"
-    },
-    {
-      "id": "5040060",
-      "time": "2026-08-14 05:25:26",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國白宮：特朗普釋出公告，對特定尺寸、具備特定效能且涉及重大國家安全敏感屬性的無人機徵收 100% 從價關稅。對部分尺寸較小、不具備特定國家安全敏感效能的無人機徵收 25% 從價關稅。"
-    },
-    {
-      "id": "mkt:019ffd02-de4a-7aab-902e-5bd783663344",
-      "time": "2026-08-14 05:24:11",
-      "tags": [
-        "MKT News",
-        "RDDT.N",
-        "Impact bullish"
-      ],
-      "text": "Reddit (RDDT.N) will be added to the S&P 500 index."
-    },
-    {
-      "id": "5040059",
-      "time": "2026-08-14 05:24:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普對小型無人機徵收 25% 關稅。"
-    },
-    {
-      "id": "5040058",
-      "time": "2026-08-14 05:23:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國白宮：特朗普簽署公告，對無人機及其零部件加徵關稅。"
-    },
-    {
-      "id": "5040057",
-      "time": "2026-08-14 05:23:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：特朗普對特定規格無人機徵收 100% 關稅。"
     }
   ]
 }
