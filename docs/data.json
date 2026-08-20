@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-21 01:16:39",
-  "count": 16058,
+  "updated": "2026-08-21 01:20:36",
+  "count": 16068,
   "items": [
+    {
+      "id": "5050675",
+      "time": "2026-08-21 01:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將數艘與厄瓜多有關聯的漁船列入制裁名單。"
+    },
+    {
+      "id": "5050674",
+      "time": "2026-08-21 01:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國製裁古巴建設部。"
+    },
+    {
+      "id": "mkt:01a0202e-de48-7aab-90be-ea9f434b717e",
+      "time": "2026-08-21 01:18:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WMT.N",
+        "Impact bearish",
+        "TGT.O",
+        "Impact bullish",
+        "HD.O"
+      ],
+      "text": "【Retail results show US consumers still spending but shifting to value amid higher prices】Retail reports indicate US consumers continue to spend but are under pressure. Walmart (WMT.N) on Thursday posted its slowest sales-growth in more than six years, citing a drag from its pharmacy business; the company said overall spending remains relatively stable while shoppers prioritize higher-value items. Target and Home Depot also reported sales gains and described demand as resilient when price and product match. Walmart CFO John Rainey said customers are making trade-offs, buying fewer items per trip, and that rising fuel costs have increased pressure versus earlier in the year."
+    },
+    {
+      "id": "mkt:01a0202e-9cc4-7aab-90be-e343503dd1e1",
+      "time": "2026-08-21 01:18:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine will respond to Russia's large-scale attack and that the response will employ long-range strikes."
+    },
+    {
+      "id": "5050673",
+      "time": "2026-08-21 01:18:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：計算機網頁現已在歐元區、英國和瑞士對 Mac 上的 ChatGPT Pro、Business 和 Enterprise 使用者開放。 ChatGPT 可以記住您在應用和網站上的活動，因此未來的對話會感覺更個性化，並且需要更少的上下文。"
+    },
+    {
+      "id": "5050672",
+      "time": "2026-08-21 01:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國製裁與真主黨有關聯的土耳其個人。"
+    },
+    {
+      "id": "5050671",
+      "time": "2026-08-21 01:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將與厄瓜多和古巴有關聯的實體列入制裁名單。"
+    },
+    {
+      "id": "mkt:01a0202d-1ab1-7aab-90be-d9bfcd75d9b7",
+      "time": "2026-08-21 01:17:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $225 mln from one counterparty in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "5050670",
+      "time": "2026-08-21 01:16:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲8月20日接受逆回購工具提交的2.25億美元全部申請。"
+    },
     {
       "id": "mkt:01a0202c-5371-7aab-90be-d6a58dee00d8",
       "time": "2026-08-21 01:16:10",
@@ -9,6 +95,15 @@
         "MKT News"
       ],
       "text": "Wall Street Journal, citing people familiar with the matter, reports US bank EverBank is seeking a buyer."
+    },
+    {
+      "id": "5050669",
+      "time": "2026-08-21 01:16:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部簽發涉俄通用許可。"
     },
     {
       "id": "5050668",
