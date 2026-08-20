@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-20 21:47:22",
-  "count": 15933,
+  "updated": "2026-08-20 21:51:17",
+  "count": 15930,
   "items": [
+    {
+      "id": "5050347",
+      "time": "2026-08-20 21:50:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "VIRTU FINANCIAL 股價下跌至盤中低點，抹去了此前的漲幅。"
+    },
+    {
+      "id": "mkt:01a01f6f-a8a5-7aab-90b8-d670812e7ad9",
+      "time": "2026-08-20 21:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "U.S. Conference Board leading economic index (LEI) for July, month-on-month, due in 10 minutes."
+    },
+    {
+      "id": "5050346",
+      "time": "2026-08-20 21:48:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（8月19日）擔保隔夜融資利率（SOFR）報3.62%，之前一天報3.65%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "te:markets:576894",
+      "time": "2026-08-20 21:47:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips as High Oil Prices Fuel Inflation Fears — The S&P/TSX Composite Index edged lower to trade below 36,500 on Thursday as rising oil prices fueled inflation concerns. Oil prices climbed after US President Donald Trump announced a sweeping package of economic measures targeting Iran. Financials and the broader market came under pressure as bond yields rose amid renewed inflation worries, with RBC, TD Bank and BMO shedding about 0.5% each. Gold prices fell as investors took profits following a climb to a more than two-month high, although miners remained mostly higher. Agnico Eagle gained more than 0.5%, while Barrick added nearly 1%. Meanwhile, Canadian producer prices rose 12.4% year-on-year in July, highlighting the impact of higher energy costs on wholesale prices and reinforcing the elevated yield environment. On the trade front, the US and Canada were reportedly nearing a deal."
+    },
+    {
+      "id": "mkt:01a01f6d-3d7e-7aab-90b8-cb112f96fcbb",
+      "time": "2026-08-20 21:47:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Bulgaria's Energy Ministry said it will cut output at the Danube nuclear power plant by 120 MW on Aug. 21."
+    },
+    {
+      "id": "5050345",
+      "time": "2026-08-20 21:47:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "渣打銀行： 發行2億美元三年期浮動利率數字原生債券，已申請將債券在倫敦證券交易所國際證券市場掛牌交易。"
+    },
+    {
+      "id": "5050344",
+      "time": "2026-08-20 21:47:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：北達科他州6月份天然氣日產量為3,583,184千立方英尺。北達科他州6月份石油日產量為1,152,796桶。"
+    },
     {
       "id": "5050343",
       "time": "2026-08-20 21:46:32",
@@ -145672,91 +145742,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖顧問穆罕默德·穆赫貝爾表示：伊朗最高領袖的既定戰略是，若伊朗訴求得不到滿足就升級衝突，該戰略無疑將重塑全球力量格局。要證明美國無力保護其波斯灣盟友，構建地區新秩序最可行的途徑是落實霍爾木茲經濟安全機制，脫離華盛頓的軍事保障。"
-    },
-    {
-      "id": "5039682",
-      "time": "2026-08-13 21:50:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Vantage Data Centers 或將推進 IPO，估值約 1000 億美元。"
-    },
-    {
-      "id": "mkt:019ffb63-3dd3-7aab-9027-4467f5b86f6c",
-      "time": "2026-08-13 21:50:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's President Sheinbaum said Colombia has not approved a Mexican rescue team."
-    },
-    {
-      "id": "5039681",
-      "time": "2026-08-13 21:50:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "Vantage Data Centers 最早 2027 年考量 IPO 或出售選項。"
-    },
-    {
-      "id": "5039680",
-      "time": "2026-08-13 21:50:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "辛鮑姆：哥倫比亞要求墨西哥救援人員提供資質證明。"
-    },
-    {
-      "id": "5039679",
-      "time": "2026-08-13 21:49:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "閃迪漲幅擴大至4%。英特爾漲幅擴大至4%。戴爾股價一度首次突破500美元，最高至514美元。"
-    },
-    {
-      "id": "mkt:019ffb62-b09d-7aab-9027-3f0627e53d15",
-      "time": "2026-08-13 21:49:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "INTC.O",
-        "Impact bullish",
-        "DELL.N"
-      ],
-      "text": "Intel (INTC.O) shares extended gains to 4%. Dell (DELL.N) shares briefly surpassed $500 for the first time, peaking at $514."
-    },
-    {
-      "id": "5039678",
-      "time": "2026-08-13 21:48:55",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "閃迪執行長在投資者日表示，公司致力於實現15%左右的出貨量增長。"
-    },
-    {
-      "id": "5039677",
-      "time": "2026-08-13 21:48:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "辛鮑姆：墨西哥救援隊伍未獲得哥倫比亞方面批准。"
-    },
-    {
-      "id": "5039676",
-      "time": "2026-08-13 21:47:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數漲1%】費城半導體指數漲1%，報12543.52點。英偉達股價上漲0.71%，博通股價上漲1.86%，超威半導體股價上漲2.62%，阿斯麥股價上漲2.05%，英特爾股價上漲2.61%。"
-    },
-    {
-      "id": "5039675",
-      "time": "2026-08-13 21:47:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東海警局查獲特大跨區域非法捕撈案 涉案金額約4000萬元】今天（8月13日）記者從廣東海警局獲悉，廣東海警局聯合廣東省公安廳、廣東省海洋綜合執法總隊，成功查獲一起特大跨區域非法捕撈案。現場抓獲涉案人員55名，查扣涉案漁船6艘、運輸車輛9臺，查扣非法捕撈漁獲物約5噸、蟹籠3600餘個，初步查實涉案金額約4000萬元。（央視新聞）"
     }
   ]
 }

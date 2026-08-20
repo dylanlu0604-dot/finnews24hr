@@ -1,7 +1,77 @@
 {
   "date": "2026-08-20",
-  "count": 2947,
+  "count": 2954,
   "items": [
+    {
+      "id": "5050347",
+      "time": "2026-08-20 21:50:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "VIRTU FINANCIAL 股價下跌至盤中低點，抹去了此前的漲幅。"
+    },
+    {
+      "id": "mkt:01a01f6f-a8a5-7aab-90b8-d670812e7ad9",
+      "time": "2026-08-20 21:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "U.S. Conference Board leading economic index (LEI) for July, month-on-month, due in 10 minutes."
+    },
+    {
+      "id": "5050346",
+      "time": "2026-08-20 21:48:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（8月19日）擔保隔夜融資利率（SOFR）報3.62%，之前一天報3.65%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "te:markets:576894",
+      "time": "2026-08-20 21:47:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips as High Oil Prices Fuel Inflation Fears — The S&P/TSX Composite Index edged lower to trade below 36,500 on Thursday as rising oil prices fueled inflation concerns. Oil prices climbed after US President Donald Trump announced a sweeping package of economic measures targeting Iran. Financials and the broader market came under pressure as bond yields rose amid renewed inflation worries, with RBC, TD Bank and BMO shedding about 0.5% each. Gold prices fell as investors took profits following a climb to a more than two-month high, although miners remained mostly higher. Agnico Eagle gained more than 0.5%, while Barrick added nearly 1%. Meanwhile, Canadian producer prices rose 12.4% year-on-year in July, highlighting the impact of higher energy costs on wholesale prices and reinforcing the elevated yield environment. On the trade front, the US and Canada were reportedly nearing a deal."
+    },
+    {
+      "id": "mkt:01a01f6d-3d7e-7aab-90b8-cb112f96fcbb",
+      "time": "2026-08-20 21:47:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Bulgaria's Energy Ministry said it will cut output at the Danube nuclear power plant by 120 MW on Aug. 21."
+    },
+    {
+      "id": "5050345",
+      "time": "2026-08-20 21:47:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "渣打銀行： 發行2億美元三年期浮動利率數字原生債券，已申請將債券在倫敦證券交易所國際證券市場掛牌交易。"
+    },
+    {
+      "id": "5050344",
+      "time": "2026-08-20 21:47:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：北達科他州6月份天然氣日產量為3,583,184千立方英尺。北達科他州6月份石油日產量為1,152,796桶。"
+    },
     {
       "id": "5050343",
       "time": "2026-08-20 21:46:32",
