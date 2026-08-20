@@ -1,7 +1,39 @@
 {
   "date": "2026-08-21",
-  "count": 301,
+  "count": 304,
   "items": [
+    {
+      "id": "te:economy:576956",
+      "time": "2026-08-21 03:46:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Argentina Economic Activity Growth Accelerates in June — Argentina’s economic activity rose 2.7% year-over-year in June 2026, following an upwardly revised 0.4% increase in May. Twelve of the 15 sectors surveyed recorded annual growth, led by fishing (247.6%) and mining and quarrying (15.6%). Agriculture, livestock, hunting and forestry also increased 4.6%. In contrast, administration and defense and compulsory social security plans declined 1.5%, while utilities fell 0.4% and education decreased 0.1%. On a monthly basis, the Monthly Economic Activity Estimate rose 0.8%."
+    },
+    {
+      "id": "5050772",
+      "time": "2026-08-21 03:44:21",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【中長期美債收益率漲約4個基點】週四（8月20日）紐約尾盤，美國10年期國債收益率漲4.35個基點，報4.6902%，北京時間10:41微跌至4.6308%重新整理日低，隨後持續走高、20:34達到4.7120%，美國財政部長貝森特“回購規模可能會超過40億美元”的論調帶來一波V形反轉行情，近期持穩於4.7%關口附近，50日均線已經上移至4.5774%。兩年期美債收益率漲1.88個基點，報4.1811%；30年期美債收益率漲3.97個基點，報5.2298%，20:34達到5.2656%，幾乎完全收復8月19日的失地、逼近8月18日頂部5.3361%。2/10年期美債收益率利差漲3.247個基點，報+50.876個基點。10年期通脹保值國債（TIPS）收益率漲0.44個基點，至2.3411%；兩年期TIPS收益率跌5.38個基點，至1.8685%；30年期TIPS收益率漲0.87個基點，至2.9660%。"
+    },
+    {
+      "id": "mkt:01a020b3-44d5-7aab-90c0-989da533270d",
+      "time": "2026-08-21 03:43:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. drone maker Powerus won a $22.3 mln contract to protect Middle East oil infrastructure from drone threats."
+    },
     {
       "id": "5050771",
       "time": "2026-08-21 03:41:57",
