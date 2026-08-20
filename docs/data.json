@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-20 22:11:46",
-  "count": 15933,
+  "updated": "2026-08-20 22:15:43",
+  "count": 15924,
   "items": [
+    {
+      "id": "5050375",
+      "time": "2026-08-20 22:11:52",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【納斯達克100指數恐五連跌 油價、收益率攀升令美股承壓】美國股市早盤小幅下跌，美債漲勢消退，投資者押注美國財政部壓低借貸成本的計劃可能只是短期的補救措施，而油價再度攀升則進一步加劇了市場對通脹的擔憂。紐約時間9:45，標普500指數和納斯達克100指數跌0.2%，道指跌0.7%。納指恐連續第五日走低。沃爾瑪因銷售不及預期而下跌。美國30年期國債收益率回升至財政部宣佈擴大長期國債回購前的水平。布倫特原油徘徊在每桶94美元附近，美國總統唐納德·特朗普威脅伊朗經濟，使結束戰爭的前景更加黯淡。交易員接下來將關注美聯儲主席凱文·沃什下週在傑克遜霍爾經濟政策研討會上的講話，以尋找利率路徑的線索。"
+    },
     {
       "id": "5050374",
       "time": "2026-08-20 22:09:47",
@@ -145669,105 +145680,6 @@
         "美聯儲"
       ],
       "text": "【交易員已不再充分消化美聯儲今年加息的情景】交易員已不再充分消化美聯儲今年加息的情景。今日公佈的美國7月PPI增速放緩幅度超預期。"
-    },
-    {
-      "id": "mkt:019ffb7a-12b8-7aab-9027-b04dc3aeda0b",
-      "time": "2026-08-13 22:15:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Markets are no longer fully pricing Fed rate hikes this year."
-    },
-    {
-      "id": "5039721",
-      "time": "2026-08-13 22:14:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市漲幅擴大，納斯達克綜合指數上漲1.00%。"
-    },
-    {
-      "id": "5039720",
-      "time": "2026-08-13 22:13:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【衛龍美味上半年營收增長6.7% 派息比例達90%】衛龍美味（09985.HK）8月13日晚公佈2026年中期業績，上半年營收37.15億元，同比增長6.7%；期內淨利潤7.66億元，同比增長4.0%；每股盈利0.32元；毛利率提升至47.8%，淨利潤率為20.6%。公司董事會決議派發中期股息每股0.19元及特別股息每股0.09元，合計每股0.28元，派息比例達90%。"
-    },
-    {
-      "id": "5039719",
-      "time": "2026-08-13 22:13:45",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "交易員們已不再完全消化美聯儲今年加息的預期。"
-    },
-    {
-      "id": "te:markets:575134",
-      "time": "2026-08-13 22:13:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "South African Rand Hovers at 5-Month High — The South African rand traded around 16.1 per US dollar, holding close to its highest since early March, as softer US economic data strengthened expectations of a Fed pause and weakened the dollar. This encouraged demand for higher-yielding emerging-market assets, supporting the rand, while lower oil prices also eased inflation concerns. The curency has been recovering since hitting a three-month low against the dollar following the SARB’s surprise rate hold on July 23. Meanwhile, persistent Middle East tensions remained a source of market uncertainty."
-    },
-    {
-      "id": "5039718",
-      "time": "2026-08-13 22:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Databricks完成50億美元融資，估值達1900億美元。"
-    },
-    {
-      "id": "te:economy:575133",
-      "time": "2026-08-13 22:12:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Brazil Industrial Confidence Improves in August — Brazil’s Industrial Business Confidence Index rose 1.9 points to 46.3 in August 2026 from 44.4 in July, ending a two-month streak of consecutive declines. Despite the improvement, the index remained below the 50-point threshold, marking the 20th consecutive month of lack of confidence. The Current Conditions Index rose 1.1 points to 42.7 as negative assessments became less intense and widespread. The improvement reflected better assessments of Brazil’s current economic conditions, which rose 1.9 points to 36.6, and companies’ own conditions, which increased 0.6 point to 45.7. The Expectations Index rose 2.3 points to 48.1, recovering part of the 3.1-point decline recorded in July and indicating that expectations for the next six months remained negative, although pessimism eased. Expectations for the Brazilian economy rose 2.5 points to 39.7, while expectations for companies’ own businesses increased 2.2 points to 52.3, signaling a return to optimism."
-    },
-    {
-      "id": "mkt:019ffb77-fb07-7aab-9027-ab107ae2069f",
-      "time": "2026-08-13 22:12:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Databricks completed a $5 billion financing, valuing the company at $190 billion."
-    },
-    {
-      "id": "5039717",
-      "time": "2026-08-13 22:12:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貢沃爾集團稱鹿特丹港發生事故致一人死亡】當地有關部門訊息，週四，貢沃爾集團位於荷蘭鹿特丹港的一處作業場地發生爆炸，造成一人死亡。貢沃爾集團表示，事故發生於當地時間上午 11 時，另有六人受傷。該集團稱，現場已完成管控，調查工作已經啟動。港口管理部門與警方證實發生了爆炸。"
-    },
-    {
-      "id": "5039716",
-      "time": "2026-08-13 22:11:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "8月13日，全球基金淨賣出51.1億印度盧比的印度股票。"
     }
   ]
 }
