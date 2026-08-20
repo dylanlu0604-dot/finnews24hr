@@ -1,7 +1,120 @@
 {
-  "updated": "2026-08-20 19:31:57",
-  "count": 15886,
+  "updated": "2026-08-20 19:35:59",
+  "count": 15885,
   "items": [
+    {
+      "id": "5050039",
+      "time": "2026-08-20 19:35:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴集團：阿里雲正全面升級為智慧體雲。"
+    },
+    {
+      "id": "5050038",
+      "time": "2026-08-20 19:35:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬控智造：2026年上半年由盈轉虧，淨利潤虧損1873.51萬元】萬控智造公告，2026年上半年營業收入8.11億元，同比下降12.60%。歸屬於上市公司股東的淨利潤虧損1873.51萬元，上年同期淨利潤4433.25萬元。扣非淨利潤虧損2742.48萬元。"
+    },
+    {
+      "id": "5050037",
+      "time": "2026-08-20 19:34:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta每週在Azure上使用數萬億token 已成為微軟最大AI客戶之一】據一位知情人士透露，Meta Platforms(META.O)每年透過微軟Azure雲服務花費數億美元訪問人工智慧模型。Meta每週透過該平臺使用數萬億個token。兩家公司均拒絕置評。微軟AI戰略的一個重要支柱是透過名為Foundry的市場提供來自多家供應商的模型，截至7月該市場已有10萬客戶。來自製造業或運輸業等傳統行業的客戶經常出現在微軟的宣傳材料中。但據知情人士透露，目前其最大的AI客戶多數仍是其他科技公司。Adobe、Perplexity以及由AI初創公司Sierra也是微軟的主要客戶。知情人士透露，Meta正大舉投入AI以協助其軟體開發，根據可用性和成本透過多個平臺購買模型訪問許可權。Meta的開發者曾透過Foundry使用OpenAI技術幫助評估其自身模型的輸出。"
+    },
+    {
+      "id": "mkt:01a01ef3-8045-7aab-90b4-751e83aba291",
+      "time": "2026-08-20 19:34:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta uses trillions of tokens weekly on Azure, now among Microsoft’s largest AI customers】Meta Platforms spends several hundred million dollars a year on Microsoft Azure for AI model access and consumes trillions of tokens on the platform each week, making it one of Microsoft’s largest AI clients, a person familiar said. Microsoft and Meta declined to comment. Microsoft’s Foundry marketplace, a core part of its AI strategy offering multi-vendor models, had about 100,000 customers by July. While Microsoft often highlights industrial clients in its marketing, its biggest AI customers remain other tech firms, including ByteDance, Adobe, Perplexity and startup Sierra. Meta is buying model access across multiple platforms based on availability and cost to accelerate software development; its developers have used OpenAI technology via Foundry to help evaluate Meta’s own model outputs."
+    },
+    {
+      "id": "5050036",
+      "time": "2026-08-20 19:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直擊WRC丨北京人形釋出具身大腦模型Pelican-VL 2.0，已正式商用】2026世界機器人大會（WRC 2026）期間，北京人形機器人創新中心有限公司正式釋出新一代具身大一統模型，推動技術路線從“模組化”邁向“端到端”，並最新發布具身大腦模型Pelican-VL 2.0。（新浪科技）"
+    },
+    {
+      "id": "5050035",
+      "time": "2026-08-20 19:33:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格力電器：2025年年度每10股派現20元 8月27日除息】格力電器公告稱，公司實施2025年年度權益分派，以總股本剔除已回購股份49.56萬股後的56.01億股為基數，向全體股東每10股派發現金股利20.00元（含稅），不送紅股，不以資本公積金轉增股本，共計派發現金股利112.02億元。本次權益分派股權登記日為2026年8月26日，除權除息日為2026年8月27日。本次權益分派實施後，公司回購股份價格上限由56.55元/股調整為54.55元/股。"
+    },
+    {
+      "id": "5050034",
+      "time": "2026-08-20 19:33:28",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【格力電器：調整股份回購價格上限至54.55元/股】格力電器公告稱，因2025年年度權益分派實施，公司將回購股份價格上限由56.55元/股調整為54.55元/股，調整自2026年8月27日（權益分派除權除息日）起生效。本次回購資金總額不低於50億元且不超過100億元，回購期限自股東會審議透過回購方案之日起不超過12個月，不低於70%的回購股份將用於登出並減少註冊資本，剩餘不超過30%用於員工持股計劃或股權激勵。除上述調整外，回購股份其他事項均無變化。"
+    },
+    {
+      "id": "5050033",
+      "time": "2026-08-20 19:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "QUMULUSAI宣佈在亞特蘭大大都會區簽訂為期7年的託管服務協議，可獲得最高3.75兆瓦的資料中心容量。"
+    },
+    {
+      "id": "5050032",
+      "time": "2026-08-20 19:32:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率<IN069436G=CC>收於6.8709%，前收盤價為6.8170%。"
+    },
+    {
+      "id": "5050031",
+      "time": "2026-08-20 19:32:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "QUMULUSAI：簽約算力容量可支援至多2048塊英偉達布萊克韋爾B300圖形處理器。"
+    },
+    {
+      "id": "5050030",
+      "time": "2026-08-20 19:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三生國健：安弗利奇塔單抗注射液新藥上市申請獲批】三生國健公告稱，公司自主研發的1類生物製品創新藥安弗利奇塔單抗注射液（皮下注射，商品名益賽那®）上市申請獲國家藥品監督管理局批准，獲批適應症為治療對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該產品單次給藥可緩解急性期疼痛、降低復發風險，安全性良好。本次獲批將擴充公司自免產品矩陣，對未來業績提升有一定積極作用，當前不會對公司財務及經營成果產生重大影響，產品未來銷售存在不確定性。"
+    },
+    {
+      "id": "mkt:01a01ef0-ff0b-7aab-90b4-6b177d85e252",
+      "time": "2026-08-20 19:31:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's 5-year bond yield rose 1bp to 3.00%, reaching 3% for the first time since 2008."
+    },
     {
       "id": "5050028",
       "time": "2026-08-20 19:31:23",
@@ -145338,126 +145451,6 @@
         "其他"
       ],
       "text": "IREN 繼續致力於在2026年將AI雲容量（總容量）擴大至480兆瓦，並在2027年達到1.2吉瓦（總容量）。"
-    },
-    {
-      "id": "mkt:019ffae8-4fc9-7aab-9022-ff5984cf69f3",
-      "time": "2026-08-13 19:35:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UK analyst: Strait of Hormuz 'new reality' shifting; US says it has lost a round】Michael Stephens of the Royal United Services Institute says Iran, Oman and the GCC are holding behind‑the‑scenes talks on maritime traffic management in the Strait of Hormuz. It is unclear whether Iran and Oman have agreed transit fees. Stephens says Oman engaged Iran with GCC acquiescence, which suggests the GCC has accepted a 'new reality' for the strait. US Treasury Secretary Scott Bessent has argued a new pipeline would make the strait 'irrelevant', but Stephens warns pipeline construction will take time. He adds that, as talks enter a new phase, Iran is strengthening its bargaining position and the US should not treat the situation as a political or strategic victory."
-    },
-    {
-      "id": "5039406",
-      "time": "2026-08-13 19:35:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭鹿特丹警方稱，爆炸原因目前仍不清楚，正在調查中。"
-    },
-    {
-      "id": "5039405",
-      "time": "2026-08-13 19:35:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭鹿特丹警方表示，鹿特丹港發生爆炸，造成1人死亡、數人受傷。"
-    },
-    {
-      "id": "mkt:019ffae7-da68-7aab-9022-f719c3511301",
-      "time": "2026-08-13 19:35:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An explosion at the Port of Rotterdam in the Netherlands killed one person and injured several others."
-    },
-    {
-      "id": "te:markets:575085",
-      "time": "2026-08-13 19:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Barrick Gold earnings above expectations at 0.73 USD — Barrick Gold (ABX) released earnings per share at 0.73 USD, compared to market expectations of 0.34 USD."
-    },
-    {
-      "id": "5039404",
-      "time": "2026-08-13 19:34:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：IREN向微軟交付Horizon 1伺服器，並憑藉GB300 NVL72獲英偉達雲卓越範例資質。"
-    },
-    {
-      "id": "5039403",
-      "time": "2026-08-13 19:34:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏進行新一輪陣亡軍人遺體交換】當地時間13日，烏克蘭戰俘待遇協調總部發布訊息稱，根據最新安排，261具遺體已順利運回烏克蘭。俄方表示，此次遣返的遺體均為烏克蘭陣亡軍人遺體。據悉，烏克蘭執法機構調查人員將聯合相關專業鑑定機構工作人員，開展遺體身份核驗等系列後續工作，依規完成各項必要流程，逐一確認被遣返遺體的具體身份資訊。總檯記者當天自俄羅斯方面獲悉，俄烏雙方按照“261對24”的模式完成了陣亡軍事人員遺體交換。（央視新聞）"
-    },
-    {
-      "id": "5039402",
-      "time": "2026-08-13 19:33:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "蒙尼斯·克雷斯皮·哈特投行將賽富時目標股價從200美元上調至222美元。"
-    },
-    {
-      "id": "mkt:019ffae5-bc15-7aab-9022-e9808cb3f718",
-      "time": "2026-08-13 19:33:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Dollar pullback fails to support rupee as India’s oil dependence weighs】The Indian rupee traded under pressure versus the dollar on Thursday despite declines in both the dollar and oil. After US July CPI slowed, markets eased near-term Fed rate-hike fears and the dollar softened. Brown Brothers Harriman analysts said the US inflation print prompted a mild dovish shift in rate expectations, cutting fed funds futures’ September hike probability from about 50% to 35%. Currencies of oil-import-dependent economies such as India typically underperform when oil prices are elevated."
-    },
-    {
-      "id": "mkt:019ffae5-9ee1-7aab-9022-e53870498252",
-      "time": "2026-08-13 19:33:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Hong Kong side at Huanggang port runs first pre-opening large-scale drill】The Hong Kong government on the 13th conducted the first large-scale drill at the Hong Kong side of Huanggang port, testing pedestrian and vehicle flow management at the joint inspection building and the public transport interchange ahead of the crossing’s opening. Hong Kong said an early opening with Shenzhen is a shared goal and pledged close cooperation to accelerate preparations. Once both sides confirm safe, smooth operations, the Guangdong and Hong Kong governments will set and publicly announce an official opening date."
-    },
-    {
-      "id": "5039401",
-      "time": "2026-08-13 19:32:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：在薪資談判陷入僵局之際，SK海力士韓國員工成立統一工會。"
-    },
-    {
-      "id": "mkt:019ffae5-032e-7aab-9022-dfd31ae64d54",
-      "time": "2026-08-13 19:32:20",
-      "tags": [
-        "MKT News",
-        "000660.KS"
-      ],
-      "text": "Market sources: With wage talks stalled, SK Hynix's South Korean employees have formed a unified labor union."
-    },
-    {
-      "id": "5039400",
-      "time": "2026-08-13 19:32:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【皇崗口岸港方口岸區舉行開通前首次大型演練】香港特區政府13日在皇崗口岸港方口岸區舉行首次大型演練，測試口岸聯檢大樓和公共運輸交匯處的人流及車流整體管理情況，為日後口岸正式開通作好準備。多個政策局、部門及機構派遣人員參與此次演練，共動員約1000名來自超過20個部門的人員參與。參與人員模擬人流和車流進出口岸的情況，從而測試及評估聯檢大樓和公共運輸交匯處的人流和車流管理、通道容量、現場引導安排、交通管制，以及各項配套支援措施。香港特區政府表示，口岸早日開通是港深兩地政府的共同目標，香港方面會繼續與深方緊密合作，全速推進各項籌備工作。待雙方確認口岸具備安全、暢順運作的條件後，粵港兩地政府會敲定正式開通日期，並適時向公眾公佈。（央視新聞）"
     }
   ]
 }

@@ -1,7 +1,120 @@
 {
   "date": "2026-08-20",
-  "count": 2462,
+  "count": 2474,
   "items": [
+    {
+      "id": "5050039",
+      "time": "2026-08-20 19:35:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴集團：阿里雲正全面升級為智慧體雲。"
+    },
+    {
+      "id": "5050038",
+      "time": "2026-08-20 19:35:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬控智造：2026年上半年由盈轉虧，淨利潤虧損1873.51萬元】萬控智造公告，2026年上半年營業收入8.11億元，同比下降12.60%。歸屬於上市公司股東的淨利潤虧損1873.51萬元，上年同期淨利潤4433.25萬元。扣非淨利潤虧損2742.48萬元。"
+    },
+    {
+      "id": "5050037",
+      "time": "2026-08-20 19:34:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta每週在Azure上使用數萬億token 已成為微軟最大AI客戶之一】據一位知情人士透露，Meta Platforms(META.O)每年透過微軟Azure雲服務花費數億美元訪問人工智慧模型。Meta每週透過該平臺使用數萬億個token。兩家公司均拒絕置評。微軟AI戰略的一個重要支柱是透過名為Foundry的市場提供來自多家供應商的模型，截至7月該市場已有10萬客戶。來自製造業或運輸業等傳統行業的客戶經常出現在微軟的宣傳材料中。但據知情人士透露，目前其最大的AI客戶多數仍是其他科技公司。Adobe、Perplexity以及由AI初創公司Sierra也是微軟的主要客戶。知情人士透露，Meta正大舉投入AI以協助其軟體開發，根據可用性和成本透過多個平臺購買模型訪問許可權。Meta的開發者曾透過Foundry使用OpenAI技術幫助評估其自身模型的輸出。"
+    },
+    {
+      "id": "mkt:01a01ef3-8045-7aab-90b4-751e83aba291",
+      "time": "2026-08-20 19:34:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta uses trillions of tokens weekly on Azure, now among Microsoft’s largest AI customers】Meta Platforms spends several hundred million dollars a year on Microsoft Azure for AI model access and consumes trillions of tokens on the platform each week, making it one of Microsoft’s largest AI clients, a person familiar said. Microsoft and Meta declined to comment. Microsoft’s Foundry marketplace, a core part of its AI strategy offering multi-vendor models, had about 100,000 customers by July. While Microsoft often highlights industrial clients in its marketing, its biggest AI customers remain other tech firms, including ByteDance, Adobe, Perplexity and startup Sierra. Meta is buying model access across multiple platforms based on availability and cost to accelerate software development; its developers have used OpenAI technology via Foundry to help evaluate Meta’s own model outputs."
+    },
+    {
+      "id": "5050036",
+      "time": "2026-08-20 19:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直擊WRC丨北京人形釋出具身大腦模型Pelican-VL 2.0，已正式商用】2026世界機器人大會（WRC 2026）期間，北京人形機器人創新中心有限公司正式釋出新一代具身大一統模型，推動技術路線從“模組化”邁向“端到端”，並最新發布具身大腦模型Pelican-VL 2.0。（新浪科技）"
+    },
+    {
+      "id": "5050035",
+      "time": "2026-08-20 19:33:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格力電器：2025年年度每10股派現20元 8月27日除息】格力電器公告稱，公司實施2025年年度權益分派，以總股本剔除已回購股份49.56萬股後的56.01億股為基數，向全體股東每10股派發現金股利20.00元（含稅），不送紅股，不以資本公積金轉增股本，共計派發現金股利112.02億元。本次權益分派股權登記日為2026年8月26日，除權除息日為2026年8月27日。本次權益分派實施後，公司回購股份價格上限由56.55元/股調整為54.55元/股。"
+    },
+    {
+      "id": "5050034",
+      "time": "2026-08-20 19:33:28",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【格力電器：調整股份回購價格上限至54.55元/股】格力電器公告稱，因2025年年度權益分派實施，公司將回購股份價格上限由56.55元/股調整為54.55元/股，調整自2026年8月27日（權益分派除權除息日）起生效。本次回購資金總額不低於50億元且不超過100億元，回購期限自股東會審議透過回購方案之日起不超過12個月，不低於70%的回購股份將用於登出並減少註冊資本，剩餘不超過30%用於員工持股計劃或股權激勵。除上述調整外，回購股份其他事項均無變化。"
+    },
+    {
+      "id": "5050033",
+      "time": "2026-08-20 19:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "QUMULUSAI宣佈在亞特蘭大大都會區簽訂為期7年的託管服務協議，可獲得最高3.75兆瓦的資料中心容量。"
+    },
+    {
+      "id": "5050032",
+      "time": "2026-08-20 19:32:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率<IN069436G=CC>收於6.8709%，前收盤價為6.8170%。"
+    },
+    {
+      "id": "5050031",
+      "time": "2026-08-20 19:32:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "QUMULUSAI：簽約算力容量可支援至多2048塊英偉達布萊克韋爾B300圖形處理器。"
+    },
+    {
+      "id": "5050030",
+      "time": "2026-08-20 19:32:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三生國健：安弗利奇塔單抗注射液新藥上市申請獲批】三生國健公告稱，公司自主研發的1類生物製品創新藥安弗利奇塔單抗注射液（皮下注射，商品名益賽那®）上市申請獲國家藥品監督管理局批准，獲批適應症為治療對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該產品單次給藥可緩解急性期疼痛、降低復發風險，安全性良好。本次獲批將擴充公司自免產品矩陣，對未來業績提升有一定積極作用，當前不會對公司財務及經營成果產生重大影響，產品未來銷售存在不確定性。"
+    },
+    {
+      "id": "mkt:01a01ef0-ff0b-7aab-90b4-6b177d85e252",
+      "time": "2026-08-20 19:31:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's 5-year bond yield rose 1bp to 3.00%, reaching 3% for the first time since 2008."
+    },
     {
       "id": "5050028",
       "time": "2026-08-20 19:31:23",
