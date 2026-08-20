@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-20 21:27:34",
-  "count": 15946,
+  "updated": "2026-08-20 21:31:33",
+  "count": 15942,
   "items": [
+    {
+      "id": "5050321",
+      "time": "2026-08-20 21:30:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "科蒂股價一度暴跌17%，創下2月份以來最大單日跌幅。"
+    },
+    {
+      "id": "5050320",
+      "time": "2026-08-20 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.71%，標普500指數跌0.34%，納指跌0.50%。Moderna跌13.03%，沃爾瑪跌7.66%，汽車地帶跌5.33%，奧萊利跌4.15%。“七姐妹”方面：蘋果漲0.69%，英偉達漲0.03%，Meta Platforms跌0.02%，微軟跌0.16%，谷歌跌0.56%，亞馬遜跌1.09%，特斯拉跌1.93%。"
+    },
+    {
+      "id": "mkt:01a01f5d-fa18-7aab-90b8-93408ee22e23",
+      "time": "2026-08-20 21:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish",
+        "WMT.N",
+        "Impact bearish",
+        "SKHY.O"
+      ],
+      "text": "U.S. equities opened lower: Dow Jones Industrial Average down 0.6%, S&P 500 down 0.3%, Nasdaq down 0.5%. Micron Technology (MU.O) rose 0.4% after announcing a plan to invest $10 billion over 10 years in U.S. memory R&D. Walmart (WMT.N) fell 7% after Q2 same-store sales growth hit a six-year low and full-year profit guidance missed expectations. SK Hynix (SKHY.O) gained 4% after reaching a preliminary wage agreement with labor. Alibaba (BABA.N) slid 4.7% and NetEase (NTES.O) dropped 0.5% following quarterly results."
+    },
+    {
+      "id": "te:markets:576880",
+      "time": "2026-08-20 21:30:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank of Nova Scotia Stock Price Hits 6-week Low — Bank of Nova Scotia shares decreased to 119.80 CAD, the lowest since July 2026. Over the past 4 weeks, Bank of Nova Scotia lost 1.77%, and in the last 12 months, it increased 52.76%."
+    },
+    {
+      "id": "5050319",
+      "time": "2026-08-20 21:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，萬物新生跌11.76%，金山雲跌6.99%，網易跌4.38%，亞朵集團跌8.08%，嗶哩嗶哩跌4.62%。"
+    },
+    {
+      "id": "te:markets:576879",
+      "time": "2026-08-20 21:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walmart Stock Price Hits 38-week Low — Walmart shares decreased to 106.13 USD, the lowest since November 2025. Over the past 4 weeks, Walmart gained 1.87%, and in the last 12 months, it increased 11.44%."
+    },
+    {
+      "id": "5050318",
+      "time": "2026-08-20 21:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2886.00元。"
+    },
+    {
+      "id": "5050317",
+      "time": "2026-08-20 21:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "奇點未來科技有限公司宣佈，根據納斯達克規則，以市價定價完成500萬美元的註冊直接發行。"
+    },
     {
       "id": "mkt:01a01f59-e2c0-7aab-90b8-8ba1184f81dc",
       "time": "2026-08-20 21:26:19",
@@ -145736,118 +145817,6 @@
         "Importance 1"
       ],
       "text": "Gold Hovers at 10-Week High — Gold fluctuated around $4,400 an ounce, remaining close to a 10-week high as softer US inflation data reinforced expectations that the Federal Reserve will leave interest rates unchanged next month. US producer-price inflation eased more than expected in July, helped by lower energy and food costs, providing further evidence that price pressures are not broadly accelerating. However, renewed tensions in the Middle East remain a risk, as any disruption could push energy prices higher and revive inflationary pressures. Oil is heading for a weekly gain as traders continue to monitor efforts by the US and Iran to end the conflict and reopen the Strait of Hormuz. Gold has also benefited from stronger investor demand and continued central-bank purchases, with China adding around 20 tonnes to its reserves in July, marking the 21st consecutive month of accumulation. Globally, central banks purchased an estimated 289 tonnes of gold in the second quarter."
-    },
-    {
-      "id": "5039644",
-      "time": "2026-08-13 21:31:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "TAPESTRY股價一度下跌14%，創下11月6日以來最大盤中跌幅。"
-    },
-    {
-      "id": "5039643",
-      "time": "2026-08-13 21:31:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "思科股價一度下跌9%，創下2月12日以來最大單日跌幅。"
-    },
-    {
-      "id": "5039642",
-      "time": "2026-08-13 21:31:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Cytokinetics對百時美施貴寶提起專利侵權訴訟。"
-    },
-    {
-      "id": "mkt:019ffb51-7fe2-7aab-9026-d95c435c55ca",
-      "time": "2026-08-13 21:30:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "JD.com",
-        "S&P500",
-        "Impact bullish",
-        "CSCO.O",
-        "Impact bearish",
-        "HPQ.O"
-      ],
-      "text": "At the open, the Dow Jones Industrial Average rose 0.26%, the S&P 500 gained 0.29% and the Nasdaq climbed 0.12%. Computer-hardware names led gains: HP Inc. (HPQ) up 6.4%, Dell Technologies (DELL) up 3.4%. Cisco Systems (CSCO) fell 7.9% after quarterly results beat estimates but failed to satisfy Wall Street. The Nasdaq Golden Dragon China Index fell 0.65%; JD.com (JD) slipped 2.3%."
-    },
-    {
-      "id": "5039641",
-      "time": "2026-08-13 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.21%，標普500指數漲0.21%，納指漲0.13%。惠普漲6.22%，慧與漲5.42%，戴爾漲5.11%，嘉年華漲3.04%，奈飛漲2.68%，美國網存漲2.46%。“七姐妹”方面：Meta Platforms漲1.01%，蘋果漲0.51%，微軟漲0.49%，英偉達漲0.31%，谷歌漲0.11%，亞馬遜跌0.52%，特斯拉跌0.69%。"
-    },
-    {
-      "id": "5039640",
-      "time": "2026-08-13 21:30:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍與猶太定居者發生罕見衝突】8月12日，以色列軍方在約旦河西岸的古斯拉和賈盧德地區拆除猶太人定居者的前哨，雙方在一名美籍巴勒斯坦人的住所外一度罕見地發生衝突。但以軍隨後還是撤離當地，放任猶太人定居者繼續圍困巴勒斯坦人住所。據悉，這位名叫路易・裡迪的美籍巴勒斯坦人目前正身處美國，但他的親戚仍住在這所住宅內。路易・裡迪表示，猶太人定居者的騷擾和圍堵已經持續數月，近日事態急劇升級。以色列軍方在8月11日還曾發宣告，言辭嚴厲地批評猶太人定居者此次的圍堵佔地行為，稱其是“非法、應受譴責、不可接受的”，“傷害當地居民，擾亂人們日常生活”。 近來，約旦河西岸形勢危險升級，猶太人定居者針對當地巴勒斯坦人的暴力行為愈演愈烈。但通常來說，以軍對猶太人定居者較為“包容”。每當有定居者暴力事件發生，以軍不是到場“拉偏架”，就是“高高舉起輕輕放下”，最後不了了之，導致猶太人定居者有罪不罰。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5039639",
-      "time": "2026-08-13 21:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，中進醫療跌10.89%，金山雲跌2.72%，京東跌1.93%，嗶哩嗶哩跌2.78%，貝殼跌2.10%。"
-    },
-    {
-      "id": "te:markets:575122",
-      "time": "2026-08-13 21:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Starbucks Stock Price Hits 17-month High — Starbucks shares increased to 109.43 USD, the highest since March 2025. Over the past 4 weeks, Starbucks gained 1.79%, and in the last 12 months, it increased 16.01%."
-    },
-    {
-      "id": "5039638",
-      "time": "2026-08-13 21:28:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：北方海路在全球動盪局勢情況下正成為南方海路的替代方案】俄羅斯外交部歐洲事務司司長弗拉季斯拉夫·馬斯連尼科夫表示，在地緣政治動盪和中東危機的背景下，北方海路正成為南方海路的替代方案。"
-    },
-    {
-      "id": "mkt:019ffb4f-4758-7aab-9026-d43b22f8f8df",
-      "time": "2026-08-13 21:28:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Poland's Prime Minister Tusk said the government is still analysing a digital tax."
-    },
-    {
-      "id": "5039637",
-      "time": "2026-08-13 21:28:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭政府仍在分析數字稅相關事宜。"
-    },
-    {
-      "id": "mkt:019ffb4e-b54b-7aab-9026-cbbabb951bf8",
-      "time": "2026-08-13 21:27:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Odysight.ai signed an agreement with Boeing to demonstrate its AI-driven capabilities."
     }
   ]
 }
