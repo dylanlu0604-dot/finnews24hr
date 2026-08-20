@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:03:22_
-_本檔包含 3278 則快訊，約 640223 字_
+_更新時間：2026-08-21 05:38:12_
+_本檔包含 3269 則快訊，約 639366 字_
+
+---
+
+### 2026-08-19 05:06:43  #MKT News #Market Regions #Wall Street (US) #CSAN.N #Impact bearish
+
+According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS).
+
+---
+
+### 2026-08-19 05:03:14  #國際
+
+【阿官員稱阿聯酋已暫停與伊朗貿易往來】當地時間19日，阿聯酋外交部戰略溝通司司長阿芙拉·哈梅利稱，由於地區局勢升級，已暫停與伊朗的一切貿易、商業和金融交易，直至另行通知。哈梅利重申，阿聯酋仍然致力於“對話、合作和區域一體化，將其視為加強地區和平、穩定與繁榮的重要途徑”。（央視新聞）
+
+---
+
+### 2026-08-19 05:01:23  #其他
+
+【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。
+
+---
+
+### 2026-08-19 04:57:56  #國際
+
+【法國宣佈兩名伊朗駐法使館人員為“不受歡迎的人”】當地時間8月18日，法國外長巴羅宣佈兩名伊朗駐法國大使館工作人員為“不受歡迎的人”。法國外交部表示，此舉是對7月19日兩名法國駐伊朗使館工作人員遭伊朗安全部門“嚴重侵害”事件的回應。（央視新聞）
+
+---
+
+### 2026-08-19 04:53:32  #MKT News
+
+RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector.
+
+---
+
+### 2026-08-19 04:51:16  #MKT News #Market Regions #Europe & UK
+
+【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions "extremely serious and unacceptable" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention.
+
+---
+
+### 2026-08-19 04:49:08  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran.
+
+---
+
+### 2026-08-19 04:48:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,330/oz, down nearly 2% intraday.
+
+---
+
+### 2026-08-19 04:47:55  #市場
+
+紐約期金日內跌2%，現報4384.16美元/盎司。
+
+---
+
+### 2026-08-19 04:47:42  #焦點 #國際
+
+以色列戰鬥機飛越伊德利卜及敘利亞沙漠上空。
+
+---
+
+### 2026-08-19 04:47:17  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran foreign ministry spokesman BAGHAEI urged regional actors not to make baseless accusations against Iran and warned they should be wary of what he described as ongoing US and Israeli actions that undermine regional peace and a history of false-flag operations.
+
+---
+
+### 2026-08-19 04:46:44  #國際
+
+美國副總統萬斯將於週五訪問俄亥俄州並發表經濟演講。
+
+---
+
+### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
+
+Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
 
 ---
 
@@ -19647,146 +19725,5 @@ Traders say strong demand has pushed October-delivered Russian ESPO blend cargoe
 ### 2026-08-17 21:06:21  #公司
 
 【OpenAI總裁回應高管流失潮：並非十分反常】OpenAI總裁格雷格・布羅克曼於週一回應，淡化市場對這家人工智慧公司高管流失的擔憂，他認為這一輪離職潮“實際上並非十分反常”。 布羅克曼表示：“我其實覺得，OpenAI和其他機構的區別在於我們處在極高的聚光燈下，每一次人員離職都會受到格外審視，而普通企業的人員變動不會遭遇這樣的待遇。” 就在上週，OpenAI營收負責人丹尼斯・德雷瑟突然離職，其任職僅8個月。她此前的核心工作是擴張企業業務板塊，該業務利潤率較高，目標是直接對標主要競爭對手Anthropic。 德雷瑟離職的兩天前，另一位資深高管布拉德・萊特卡普宣佈結束在這家ChatGPT開發公司長達八年的任職，準備“開啟新事業”。今年4月，OpenAI宣布萊特卡普不再擔任營運長，轉崗負責“專項專案”，德雷瑟接手了他手中的大部分工作。
-
----
-
-### 2026-08-17 21:06:20  #MKT News
-
-UK Maritime Trade Operations said armed personnel have taken control of a vessel off the coast of Somalia.
-
----
-
-### 2026-08-17 21:06:13  #其他
-
-英國海事貿易行動辦公室：武裝人員在索馬利亞附近控制船隻。
-
----
-
-### 2026-08-17 21:05:55  #公司 #國際
-
-【印度航空又有兩名飛行員涉嫌“毒駕”】印度航空公司一架客機本月初發生空中驟降傷人事件後，該公司對其飛行員實施強制藥檢。當地時間8月17日，印度方面援引訊息人士的話稱，該公司又有兩名飛行員未能透過檢查，涉嫌“毒駕”。根據訊息人士的說法，印度航空公司13日起對該公司及旗下印度航空快運公司全體5000多名飛行員啟動藥檢，已有近400人完成檢查，其中兩人檢測結果為“非陰性”，將接受複檢。印度航空公司表示，出於安全考慮，這兩名飛行員已被停飛。印度民航總局規定，如果飛行員首次藥檢為陽性，將被要求接受戒毒和康復訓練，檢測結果轉為陰性後可再次上崗；如果第二次被檢出陽性，涉事飛行員將被吊銷執照三年；第三次藥檢呈陽性則將被撤銷飛行執照。（央視新聞）
-
----
-
-### 2026-08-17 21:05:32  #其他
-
-英國海事貿易行動辦公室：貨輪遭 8 名武裝非授權人員登船。
-
----
-
-### 2026-08-17 21:05:32  #MKT News
-
-UK Maritime Trade Operations said eight unauthorised armed individuals boarded a cargo ship.
-
----
-
-### 2026-08-17 21:05:20  #MKT News
-
-UK Maritime Trade Operations said it received a report of an incident 4 nm south of Mareyo, Somalia.
-
----
-
-### 2026-08-17 21:05:03  #Trading Economics #Economy #Sri Lanka #Services PMI #Importance 1
-
-Sri Lanka Services Growth Accelerates for Fourth Month — Sri Lanka’s Services PMI rose to 61.4 in July 2026, up from 58.4 in June, marking the highest reading since January and a fourth consecutive month of expansion, signaling a faster expansion in services activity. New business continued to grow, although at a slower pace (60.2 vs 62.5), led mainly by the transportation and professional services sub-sectors, with financial and other personal services also contributing to the expansion. Employment increased at a slower pace (52.9 vs 54), supported by new recruitment and fewer staff resignations. Meanwhile, backlogs of work moved further into expansionary territory, rising to 51.2 from a neutral reading in June. Business expectations for the coming quarter strengthened further, supported by anticipated economic improvements and strong tourist arrivals for the Kandy Esala Perahera. However, broader global economic uncertainties continued to pose downside risks to the outlook.
-
----
-
-### 2026-08-17 21:04:39  #其他
-
-英國海事貿易行動辦公室收到報告，索馬利亞馬雷約以南 4 海里處發生事件。
-
----
-
-### 2026-08-17 21:04:07  #其他
-
-GAP 與 Iconic Brands 將登陸北歐、波羅的海地區市場。
-
----
-
-### 2026-08-17 21:04:06  #公司 #市場 #觀點 #央行 #國際
-
-【美股盤前要聞速遞】
-①美股三大股指期貨漲跌不一：道指期貨跌0.16%，標普500指數期貨漲0.12%，納指期貨漲0.52%。
-②德國DAX指數漲0.10%，英國富時100指數漲0.21%，法國CAC40指數跌0.13%，歐洲斯托克50指數漲0.30%。
-③WTI原油漲0.48%，報81.64美元/桶。布倫特原油漲0.18%，報87.23美元/桶。
-④高盛：市場對美聯儲政策押注仍太鷹，9月加息“可能性非常小”。
-⑤大摩、小摩齊看標普8000點，半導體與韓國股市暴力反攻驗證“盈利主升浪”。
-⑥霍爾木茲海峽航運近乎停滯，伊朗稱正在起草與阿曼的海上航線計劃。
-⑦Snap美股盤前跌4.6%，此前一度跌超16%。
-⑧EyePoint股價盤前暴跌超69%，因公司眼疾藥物在後期試驗中未達主要目標。
-⑨Astera Labs股價盤前上漲近5%，此前Northland Capital將其評級上調至“跑贏大盤”。
-
----
-
-### 2026-08-17 21:03:58  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Ukraine's military said it struck a factory in Russia's Rostov Oblast linked to missile fuel production.
-
----
-
-### 2026-08-17 21:03:46  #國際
-
-烏克蘭軍方稱，其打擊了俄羅斯羅斯托夫州一處與導彈燃料生產相關的設施。
-
----
-
-### 2026-08-17 21:03:37  #市場 #國際
-
-美國 30 年期國債收益率觸及 5.29%，為 2007 年以來最高水平。
-
----
-
-### 2026-08-17 21:03:01  #其他
-
-GAP：將於八月在瑞典、丹麥、挪威、芬蘭的奢侈品時尚購物平臺Boozt上線發售。
-
----
-
-### 2026-08-17 21:02:40  #其他
-
-派拉蒙‑天空之舞：要約到期日延長至 8 月 28 日。
-
----
-
-### 2026-08-17 21:02:35  #MKT News #PSKY.O
-
-Paramount (PSKY.O) extended its tender offer deadline to Aug. 28.
-
----
-
-### 2026-08-17 21:02:20  #MKT News #Market Themes #AI Revolution
-
-US Department of Defense (DoD) awards $100 million contract to NODA AI to expand mission-command capabilities for autonomous joint-force systems.
-
----
-
-### 2026-08-17 21:02:05  #公司 #國際
-
-市場訊息：美國陸軍部授予Node.AI公司1億美元合同，為聯合部隊自主作戰力量擴編任務指揮能力。
-
----
-
-### 2026-08-17 21:01:15  #其他
-
-AUDIOCODES VOCA CIC現透過微軟TEAMS UNIFY整合認證，適用於語音代理。
-
----
-
-### 2026-08-17 21:00:45  #MKT News #PSKY.O
-
-Paramount (PSKY.O) said it has extended the deadline for its previously announced exchange offer and tender offer.
-
----
-
-### 2026-08-17 21:00:22  #Trading Economics #Economy #Canada #Foreign Stock Investment #Importance 1
-
-Foreign Investment in Canadian Securities Surges — Foreign investors added C$40.8 billion of Canadian securities to their holdings in June 2026, sharply higher than C$8.8 billion in May and well above market expectations of C$15 billion. The increase was led by strong foreign purchases of debt securities, which totaled C$39.9 billion. Federal government debt securities accounted for most of the increase, with non-resident investors acquiring C$25.4 billion. Non-resident investors also purchased C$16.2 billion of private corporate bonds, mainly instruments issued by Canadian chartered banks and denominated in US dollars and euros. Foreign investors acquired C$901 million of Canadian shares after divesting C$16.1 billion in May. By sector, investors mainly acquired shares in manufacturing, partly offset by divestments in the trade and transportation, and finance and insurance sectors. Foreign investors acquired a record C$100.6 billion of Canadian securities in the second quarter.
-
----
-
-### 2026-08-17 21:00:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Night session opened; China’s main futures were mostly higher. Ethylene glycol (EG) rose >3%. Benzene, PTA and Shanghai crude (SC) gained >2%. Asphalt up ~2%. Fuel oil, PET flakes, LPG, propylene, plastics and BR rubber rose >1%. Starch fell nearly 1%.
 
 ---

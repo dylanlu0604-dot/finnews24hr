@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:03:22_
-_本檔包含 3258 則快訊，約 640346 字_
+_更新時間：2026-08-21 05:38:12_
+_本檔包含 3248 則快訊，約 639991 字_
+
+---
+
+### 2026-08-15 21:16:31  #央行 #中國央行
+
+【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。
+
+---
+
+### 2026-08-15 21:16:31  #經濟數據 #中國
+
+【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。
+
+---
+
+### 2026-08-15 21:16:21  #國際
+
+以色列襲擊黎巴嫩南部後，真主黨呼籲黎巴嫩政府停止與以色列的談判。
+
+---
+
+### 2026-08-15 21:05:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Russian foreign ministry said potential U.S. and Turkish plans to supply weapons to Kyiv would weaken Moscow's relations with Washington and Ankara.
+
+---
+
+### 2026-08-15 21:04:44  #國際 #原創
+
+【美國海軍據悉考慮應特朗普要求重新設計航空母艦】據多位現任和前任美國官員透露，美國海軍正在考慮對其新型航空母艦進行重大重新設計，以更好地符合美國總統特朗普對軍艦外觀的偏好。這些官員表示，海軍正在評估將作為航母指揮中心的多層艦橋向前移動至艦體中部，使其外觀更接近老式艦艇的可行性。據這些官員稱，此舉是為了回應特朗普對新型福特級航母“外觀”的擔憂，因為該級航母的艦島位置靠近艦尾。搬遷這座被稱為“艦島”的指揮中心，將是特朗普推動的第二項重大設計變更。週四，這位總統釋出了一份國家安全備忘錄，指示海軍制定一項計劃，在未來的航母上恢復使用老式的蒸汽彈射器。這些系統用於將噴氣式飛機從航母的飛行甲板上彈射出去。現任和前任海軍官員表示，特朗普傾向於讓新型航空母艦的外觀更接近二戰時期服役的航母。
+
+---
+
+### 2026-08-15 21:03:58  #MKT News
+
+Russia's foreign ministry said its spokesman has asked the United States and Turkey to explain reported plans to supply weapons to Kyiv.
+
+---
+
+### 2026-08-15 21:00:47  #國際
+
+市場訊息：美國海軍考慮應特朗普要求重新設計航空母艦。
+
+---
+
+### 2026-08-15 20:59:49  #國際
+
+【美國弗吉尼亞州立大學槍擊事件致5人受傷】當地時間8月15日，美國弗吉尼亞州立大學發生槍擊事件，造成5人受傷，其中1人情況危急。據悉，槍擊事件發生在當天凌晨1時30分左右，地點位於該校一棟學生宿舍樓外。校方表示，事件涉及多名嫌疑人。警方趕到現場後發現5人遭槍擊，傷者隨後被送往附近醫院接受治療，其中1人情況危急，其餘4人傷勢沒有生命危險。事件發生後，校方一度對校園實施封鎖。目前警方仍在現場展開調查，校園內有大批執法人員部署。截至目前，尚不清楚是否已有嫌疑人被捕。（央視新聞）
+
+---
+
+### 2026-08-15 20:53:04  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+【Iran says it reached agreement with Oman on Strait of Hormuz transit plan】On Aug 15 local time, Iranian foreign ministry spokesperson BAGHAEI said talks with Oman continued despite US obstruction and the two sides have reached an agreement on a transit plan for the Strait of Hormuz shipping lane.
+
+---
+
+### 2026-08-15 20:52:00  #公司
+
+【華天科技：公司與智元進行業務專案合作】有投資者向華天科技(002185)提問：公司與智元機器人有合作？華天科技8月15日在互動平臺回覆，公司與智元進行業務專案合作。
+
+---
+
+### 2026-08-15 20:50:55  #國際
+
+【伊朗稱已與阿曼就霍爾木茲海峽通行方案達成協議】伊朗外交部發言人巴加埃表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。
+
+---
+
+### 2026-08-15 20:48:26  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+HEZBOLLAH said Israel's attacks in southern Lebanon will be met with a corresponding response.
+
+---
+
+### 2026-08-15 20:45:27  #MKT News
+
+Indonesia's West disaster management agency said deaths from an earthquake in eastern Indonesia have risen to 47.
+
+---
+
+### 2026-08-15 20:45:21  #國際
+
+印尼災害管理機構：印尼東部地震死亡人數已上升至47人。
+
+---
+
+### 2026-08-15 20:42:07  #國際
+
+【韓國西江大學18萬條個人資訊洩露 朴槿惠或在其中】韓國西江大學15日確認，該校約18萬條個人資訊洩露，涉及在校學生、畢業生、教職員和其他人員，據信包括韓國前總統朴槿惠的個人資訊。（新華社）
+
+---
+
+### 2026-08-15 20:41:00  #其他
+
+【聯合國追加資金應對埃博拉疫情】聯合國分管人道主義事務的副秘書長托馬斯·弗萊徹14日說，埃博拉病毒正在剛果（金）“佔據上風”。聯合國將追加3050萬美元撥款，增派工作人員，擴大應對疫情行動。弗萊徹14日主持了聯合國的機構間常設委員會緊急會議。他當天發表宣告說，本次埃博拉疫情是有記錄以來蔓延最快的一次，目前“每30分鐘就有一人在這次疫情中死亡”。（新華社）
+
+---
+
+### 2026-08-15 20:35:42  #MKT News #Important
+
+Yemen's military vows a strong response to a Houthi attack on the port city of Mocha, Al Arabiya reports.
+
+---
+
+### 2026-08-15 20:35:17  #MKT News #Commodities #Energy
+
+Oman News Agency (ONA) said oil contamination has reached about 12 km of shoreline near Ras Madrakah; Masirah Island has not been affected. Cleanup operations on the leaking oil tanker have progressed.
+
+---
+
+### 2026-08-15 20:34:04  #MKT News #Market Regions #Greater China
+
+【China's Henan seals 117m breach on Jialu River east‑bank levee in Zhoukou】Emergency teams working day and night sealed a 117‑meter breach on the east‑bank levee of the Jialu River in Chuanhui District, Zhoukou, Henan at 20:29 on Aug. 15.
+
+---
+
+### 2026-08-15 20:32:04  #國際
+
+美國地質調查局：印尼ENDE西北 78 公里處發生 5.2 級地震。
+
+---
+
+### 2026-08-15 20:30:34  #其他
+
+【河南周口川匯區賈魯河東岸堤防潰口成功合龍】記者瞭解到，經過多方應急搶險力量晝夜不停努力，8月15日晚上8時29分，河南省周口市川匯區賈魯河東岸堤防117米潰口成功合龍。（央視新聞）
+
+---
+
+### 2026-08-15 20:18:31  #公司
+
+【中國海誠中標雲南沃森生物能碳管理平臺專案】據中國海誠訊息，近日，中國海誠中標雲南沃森生物能碳管理平臺專案。此次中標是公司在生物醫藥能碳服務領域的重要突破，也進一步拓寬了公司在生物疫苗賽道的新業務佈局。
+
+---
+
+### 2026-08-15 20:16:45  #國際
+
+【美國弗吉尼亞州立大學發生槍擊事件，多人中槍】據美國媒體15日報道，美國弗吉尼亞州立大學發生槍擊事件，多人中槍，校園隨即進入封鎖狀態。（新華社）
+
+---
+
+### 2026-08-15 20:14:29  #國際
+
+以色列國防軍：我們對黎巴嫩的空襲是對真主黨違反停火協議的回應。
+
+---
+
+### 2026-08-15 20:13:33  #國際
+
+【印尼7.7級地震中三名中國遊客受輕傷】從中國駐登巴薩總領館獲悉，在印尼發生的7.7級地震中，有3名中國遊客受輕傷，目前均無大礙。據瞭解，其中一名中國遊客在地震發生後緊急避險過程中，因慌亂不慎頭部撞到牆壁。另外兩名遊客是腰部扭傷。目前，3名遊客傷勢均較輕。（央視新聞）
+
+---
+
+### 2026-08-15 20:11:16  #其他
+
+【2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇崑山舉辦】15日，2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇省崑山市開幕。此次活動由兩岸企業家峰會主辦，主題是“青創成就夢想 AI賦能未來”，約450名兩岸青年企業家代表、青年學生等嘉賓參加活動。（新華社）
+
+---
+
+### 2026-08-15 20:10:40  #其他
+
+【粵港澳大灣區首開至鎮江方向快速班列】8月15日，隨著一聲汽笛長鳴，一趟滿載著汽車零部件、日用百貨的棚車班列從廣州東部公鐵聯運樞紐(增城西站)緩緩啟動，預計將於8月17日上午直達江蘇鎮江上隍站。這標誌著粵港澳大灣區至江蘇鎮江方向的物流新通道正式打通。
+
+---
+
+### 2026-08-15 20:07:32  #MKT News
+
+State media reported Omani authorities said about 12 km of coastline in the Ras Madrakah area has been affected by oil pollution.
+
+---
+
+### 2026-08-15 20:06:12  #其他
+
+阿曼稱拉斯馬德拉卡地區約12公里海岸線受石油汙染影響。
+
+---
+
+### 2026-08-15 20:03:44  #國際
+
+【自然資源部海嘯預警中心：印尼6.8級地震不會引發海嘯】2026年08月15日18時54分（北京時間），印尼蘇門答臘島北部海域（2.95°N,99.05°E）發生6.8級地震，震源深度為170千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。
+
+---
+
+### 2026-08-15 20:02:11  #MKT News
+
+【Commemoration of Jiang Zemin’s 100th birth anniversary set for Aug. 17; Xi Jinping to attend and speak】A state ceremony marking the 100th anniversary of former leader Jiang Zemin’s birth will be held at 10:00 a.m. on August 17 at the Great Hall of the People in Beijing. Xi Jinping, General Secretary of the Communist Party, President and CMC chairman, will attend and deliver a major address. Chinese state broadcasters will provide live coverage.
+
+---
+
+### 2026-08-15 20:01:15  #其他
+
+【紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話】紀念江澤民同志誕辰100週年大會將於8月17日上午10時在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將出席大會並發表重要講話。屆時，中央廣播電視總檯、新華網將對大會進行現場直播，人民網、央視網、中國網等中央重點新聞網站和人民日報客戶端、新華社客戶端、央視新聞客戶端等新媒體平臺同步轉播。（央視新聞）
+
+---
+
+### 2026-08-15 20:00:54  #市場
+
+【多部門會商部署重點地區防汛搶險工作】8月15日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房和城鄉建設部、交通運輸部等部門以及黑龍江、江蘇、浙江、安徽、河南、廣東等重點省份聯合會商，研判近期強降雨影響，研究部署重點地區防汛搶險工作。國家防總針對太湖流域汛情提升針對江蘇的防汛應急響應至三級，啟動針對浙江的防汛四級應急響應，增派工作組趕赴江蘇協助指導抗洪搶險工作；繼續維持針對河南的防汛三級應急響應、針對安徽的防汛四級應急響應。國家防減救災委維持針對浙江、河南、陝西、黑龍江的國家四級救災應急響應。應急管理部維持針對浙江、安徽、河南、湖北的地質災害四級應急響應。會商指出，太湖流域發生流域性較大洪水，太湖水位上漲較快，周邊河網多個站點水位超警戒、超保證；淮河流域沙潁河和長江滁河等部分河段維持高水位執行，堤防防守壓力大；浙江、福建、廣東等地仍有強暴雨，局地發生山洪、地質災害的風險較高，防汛救災形勢嚴峻複雜。
 
 ---
 
@@ -19417,263 +19615,5 @@ Australia's prime minister Albanese spoke overnight with US President Trump.
 ### 2026-08-14 05:38:26  #MKT News #Important #Market Themes #AI Revolution
 
 Market sources say OpenAI's annualized revenue exceeded $40 bln ahead of its IPO.
-
----
-
-### 2026-08-14 05:37:58  #公司
-
-【OpenAI 上市前年化營收突破 400 億美元】據知情人士透露，按照當前業務表現，OpenAI 年化營收有望突破 400 億美元，較 2025 年末的年化營收大致翻倍，也為該公司登陸華爾街的計劃提供支撐。 OpenAI近幾月營收增長提速，部分來自 AI 編碼軟體業務的拉動，訂閱業務銷售與尚在起步的廣告業務同樣帶來增長動能，核心 C 端業務也持續擴張。
-
----
-
-### 2026-08-14 05:35:59  #其他
-
-市場訊息：OpenAI 上市前年化營收突破 400 億美元。
-
----
-
-### 2026-08-14 05:35:27  #MKT News
-
-Axios reports Kushner is expected to travel to Cairo next week to meet with Egyptian mediators.
-
----
-
-### 2026-08-14 05:34:01  #國際
-
-據知情人士透露， 庫什納預計下週還將前往開羅，與埃及調解方舉行會談。
-
----
-
-### 2026-08-14 05:33:24  #MKT News #Market Regions #Wall Street (US) #RDDT.N #Impact bullish
-
-Reddit (RDDT.N) U.S. shares rose more than 12% in after-hours trading.
-
----
-
-### 2026-08-14 05:31:43  #其他
-
-檔案顯示AMD的47.5億美元高階無擔保票據發行定價方案已確定，共分為四個批次。
-
----
-
-### 2026-08-14 05:30:00  #MKT News #HII.O
-
-White House said President Trump has directed the Secretary of Defense to replace the advanced electromagnetic aircraft launch system (EMALS) and advanced weapons elevators with conventional steam and hydraulic systems during construction of the CVN-81 aircraft carrier.
-
----
-
-### 2026-08-14 05:29:42  #MKT News #LMT.O #Impact bullish #NOC.O #HII.O
-
-White House said President Trump signed a memorandum directing the Pentagon to increase direct investment in the U.S. shipbuilding industrial base under a 'Finnish model'.
-
----
-
-### 2026-08-14 05:29:15  #MKT News #HII.O #Impact bullish #GD.O
-
-White House: President Trump has signed a national security presidential memorandum to address long-standing critical issues in U.S. Navy shipbuilding and maintenance programs.
-
----
-
-### 2026-08-14 05:28:53  #國際
-
-美國白宮：特朗普指示國防部長，在 CVN‑81 航母建造期間，用傳統蒸汽與液壓系統替換先進電磁飛機彈射系統以及先進武器升降機。
-
----
-
-### 2026-08-14 05:28:05  #國際
-
-美國白宮：特朗普釋出備忘錄，指示五角大樓參照 “芬蘭模式”，對美國造船工業基地開展更多直接投資。
-
----
-
-### 2026-08-14 05:27:36  #MKT News
-
-White House says President Trump will impose a 10% ad valorem tariff on drones imported from the UK into the US.
-
----
-
-### 2026-08-14 05:27:14  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #EURUSD
-
-White House: President Trump will impose a 15% ad valorem tariff on drones and drone parts imported into the U.S. from the EU, Japan, Liechtenstein, South Korea and Switzerland.
-
----
-
-### 2026-08-14 05:27:13  #國際
-
-美國白宮：無人機關稅將在簽署21天后生效。
-
----
-
-### 2026-08-14 05:26:37  #其他
-
-白宮釋出有關海軍造船工業基礎的命令。
-
----
-
-### 2026-08-14 05:26:36  #MKT News #Important #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-White House announces President Trump will impose 100% ad valorem tariffs on drones of certain sizes or with sensitive capabilities.
-
----
-
-### 2026-08-14 05:26:34  #國際
-
-美國白宮：對於非高度敏感的無人機零部件，關稅將於簽署後 180 天生效。
-
----
-
-### 2026-08-14 05:26:17  #國際
-
-美國白宮：對來自英國的無人機徵收 10% 從價關稅。
-
----
-
-### 2026-08-14 05:26:01  #MKT News #Important #Market Themes #The Trump Trade
-
-White House: President Trump will impose a 25% ad valorem tariff on certain small unmanned aerial vehicles lacking specified capabilities, citing national security concerns.
-
----
-
-### 2026-08-14 05:25:56  #公司 #國際
-
-美國白宮：特朗普釋出公告，對來自歐盟、日本、列支敦斯登、韓國、瑞士的無人機及其零部件徵收 15% 從價關稅。
-
----
-
-### 2026-08-14 05:25:26  #公司 #焦點 #國際
-
-美國白宮：特朗普釋出公告，對特定尺寸、具備特定效能且涉及重大國家安全敏感屬性的無人機徵收 100% 從價關稅。對部分尺寸較小、不具備特定國家安全敏感效能的無人機徵收 25% 從價關稅。
-
----
-
-### 2026-08-14 05:24:11  #MKT News #RDDT.N #Impact bullish
-
-Reddit (RDDT.N) will be added to the S&P 500 index.
-
----
-
-### 2026-08-14 05:24:08  #國際
-
-特朗普對小型無人機徵收 25% 關稅。
-
----
-
-### 2026-08-14 05:23:56  #公司 #國際
-
-美國白宮：特朗普簽署公告，對無人機及其零部件加徵關稅。
-
----
-
-### 2026-08-14 05:23:23  #焦點 #國際
-
-市場訊息：特朗普對特定規格無人機徵收 100% 關稅。
-
----
-
-### 2026-08-14 05:20:24  #市場
-
-AVALONBAY COMMUNITIES將從標普500指數中剔除。
-
----
-
-### 2026-08-14 05:19:47  #市場
-
-富時中國A50指數期貨夜盤收盤漲0.03%。
-
----
-
-### 2026-08-14 05:18:53  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XOM.N
-
-Guyana government data show Exxon Mobil (XOM.N) oil output was 895,000 bpd in May, falling to 869,000 bpd in June.
-
----
-
-### 2026-08-14 05:17:15  #其他
-
-埃克森美孚蓋亞那聯合體原油產量 5 月為 89.5 萬桶 / 日，6 月為 86.9 萬桶 / 日。
-
----
-
-### 2026-08-14 05:16:54  #其他
-
-Reddit 即將納入標普 500 指數  。
-
----
-
-### 2026-08-14 05:15:44  #其他
-
-蘋果就應用商店費率訴訟向法院提交檔案。
-
----
-
-### 2026-08-14 05:15:21  #其他
-
-蘋果：應對 App Store 外鏈跳轉交易收取 15% 分成。
-
----
-
-### 2026-08-14 05:14:17  #國際
-
-美國證券監管機構突然取消原定於週五舉行、旨在提出加密貨幣監管規則的會議。美國證券交易委員會稱，因出現無法預見的日程問題，會議將另行安排。
-
----
-
-### 2026-08-14 05:13:26  #Trading Economics #Economy #South Korea #Import Prices YoY #Importance 1
-
-South Korea Import Price Growth Eases in July — South Korea’s import prices rose 18.7% year-on-year in July 2026, easing from an upwardly revised 20.9% increase in June. Price gains were led by mining products, which climbed 24.9%, driven by higher costs for coal, crude petroleum and natural gas (23.8%), as well as metallic and non-metallic mineral products (32.3%). Prices for manufactured goods rose 16.7%, with coal and petroleum products up 35.5% and basic metal products increasing 28.0%. Meanwhile, prices for agricultural, forestry and marine products increased 15.2%, with marine foods rising 20.6% and agricultural foods up 18.3%.
-
----
-
-### 2026-08-14 05:13:18  #MKT News
-
-An Argentine LNG project has applied to join the RIGI incentive scheme, involving USD 51 bln of investment.
-
----
-
-### 2026-08-14 05:12:41  #MKT News
-
-【Russian foreign ministry rebuts Japan protest over Putin island visit】Russian Foreign Ministry spokeswoman Zakharova on the ministry website on the 13th rejected comments by Japanese Prime Minister Takaichi and Foreign Minister Motegi protesting President Putin’s landing on Iturup Island (Japan: Etorofu). She called their remarks politically meaningless, “insulting” and legally ineffective, citing WWII outcomes, allied agreements and the UN Charter to assert the Southern Kurils (Japan: Northern Territories/Northern Four Islands) belong to Russia and that Iturup is part of Russia’s “indivisible territory.” Zakharova described Takaichi’s and Motegi’s statements as “outrageous, completely unacceptable,” accused them of “revanchism,” and said they damage Japan’s neighbors and the wider Asia‑Pacific.
-
----
-
-### 2026-08-14 05:12:23  #其他
-
-阿根廷液化天然氣專案申請 510 億美元 RIGI 投資計劃。
-
----
-
-### 2026-08-14 05:10:19  #國際
-
-【俄外交部駁斥日方就普京登島提出的抗議】俄羅斯外交部發言人扎哈羅娃13日在俄外交部網站釋出宣告，駁斥日本首相高市早苗和日本外務大臣茂木敏充針對俄總統普京登上伊圖魯普島（日本稱擇捉島）發表的相關言論，稱這番言論在政治上毫無意義、帶有“侮辱”性質，在法理層面亦不具備效力。（新華社）
-
----
-
-### 2026-08-14 05:10:19  #MKT News #WTI #Impact bearish #Brent #DXY
-
-Saudi state news agency SPA said the Saudi crown prince and the CENTCOM commander held talks on deepening defense cooperation and measures to de‑escalate regional tensions.
-
----
-
-### 2026-08-14 05:08:53  #國際
-
-沙特通訊社：沙特王儲與美國中央司令部司令商討雙邊防務合作以及緩和地區緊張局勢的相關舉措。
-
----
-
-### 2026-08-14 05:08:23  #國際
-
-沙特通訊社：沙特王儲會見美國中央司令部司令。
-
----
-
-### 2026-08-14 05:08:03  #MKT News
-
-Saudi state news agency said the Saudi Crown Prince met the CENTCOM commander.
-
----
-
-### 2026-08-14 05:07:23  #Trading Economics #Economy #South Korea #Export Prices YoY #Importance 1
-
-South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%.
 
 ---

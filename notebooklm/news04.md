@@ -1,7 +1,148 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:03:22_
-_本檔包含 2990 則快訊，約 640992 字_
+_更新時間：2026-08-21 05:38:12_
+_本檔包含 2979 則快訊，約 640121 字_
+
+---
+
+### 2026-08-17 21:06:20  #MKT News
+
+UK Maritime Trade Operations said armed personnel have taken control of a vessel off the coast of Somalia.
+
+---
+
+### 2026-08-17 21:06:13  #其他
+
+英國海事貿易行動辦公室：武裝人員在索馬利亞附近控制船隻。
+
+---
+
+### 2026-08-17 21:05:55  #公司 #國際
+
+【印度航空又有兩名飛行員涉嫌“毒駕”】印度航空公司一架客機本月初發生空中驟降傷人事件後，該公司對其飛行員實施強制藥檢。當地時間8月17日，印度方面援引訊息人士的話稱，該公司又有兩名飛行員未能透過檢查，涉嫌“毒駕”。根據訊息人士的說法，印度航空公司13日起對該公司及旗下印度航空快運公司全體5000多名飛行員啟動藥檢，已有近400人完成檢查，其中兩人檢測結果為“非陰性”，將接受複檢。印度航空公司表示，出於安全考慮，這兩名飛行員已被停飛。印度民航總局規定，如果飛行員首次藥檢為陽性，將被要求接受戒毒和康復訓練，檢測結果轉為陰性後可再次上崗；如果第二次被檢出陽性，涉事飛行員將被吊銷執照三年；第三次藥檢呈陽性則將被撤銷飛行執照。（央視新聞）
+
+---
+
+### 2026-08-17 21:05:32  #其他
+
+英國海事貿易行動辦公室：貨輪遭 8 名武裝非授權人員登船。
+
+---
+
+### 2026-08-17 21:05:32  #MKT News
+
+UK Maritime Trade Operations said eight unauthorised armed individuals boarded a cargo ship.
+
+---
+
+### 2026-08-17 21:05:20  #MKT News
+
+UK Maritime Trade Operations said it received a report of an incident 4 nm south of Mareyo, Somalia.
+
+---
+
+### 2026-08-17 21:05:03  #Trading Economics #Economy #Sri Lanka #Services PMI #Importance 1
+
+Sri Lanka Services Growth Accelerates for Fourth Month — Sri Lanka’s Services PMI rose to 61.4 in July 2026, up from 58.4 in June, marking the highest reading since January and a fourth consecutive month of expansion, signaling a faster expansion in services activity. New business continued to grow, although at a slower pace (60.2 vs 62.5), led mainly by the transportation and professional services sub-sectors, with financial and other personal services also contributing to the expansion. Employment increased at a slower pace (52.9 vs 54), supported by new recruitment and fewer staff resignations. Meanwhile, backlogs of work moved further into expansionary territory, rising to 51.2 from a neutral reading in June. Business expectations for the coming quarter strengthened further, supported by anticipated economic improvements and strong tourist arrivals for the Kandy Esala Perahera. However, broader global economic uncertainties continued to pose downside risks to the outlook.
+
+---
+
+### 2026-08-17 21:04:39  #其他
+
+英國海事貿易行動辦公室收到報告，索馬利亞馬雷約以南 4 海里處發生事件。
+
+---
+
+### 2026-08-17 21:04:07  #其他
+
+GAP 與 Iconic Brands 將登陸北歐、波羅的海地區市場。
+
+---
+
+### 2026-08-17 21:04:06  #公司 #市場 #觀點 #央行 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨漲跌不一：道指期貨跌0.16%，標普500指數期貨漲0.12%，納指期貨漲0.52%。
+②德國DAX指數漲0.10%，英國富時100指數漲0.21%，法國CAC40指數跌0.13%，歐洲斯托克50指數漲0.30%。
+③WTI原油漲0.48%，報81.64美元/桶。布倫特原油漲0.18%，報87.23美元/桶。
+④高盛：市場對美聯儲政策押注仍太鷹，9月加息“可能性非常小”。
+⑤大摩、小摩齊看標普8000點，半導體與韓國股市暴力反攻驗證“盈利主升浪”。
+⑥霍爾木茲海峽航運近乎停滯，伊朗稱正在起草與阿曼的海上航線計劃。
+⑦Snap美股盤前跌4.6%，此前一度跌超16%。
+⑧EyePoint股價盤前暴跌超69%，因公司眼疾藥物在後期試驗中未達主要目標。
+⑨Astera Labs股價盤前上漲近5%，此前Northland Capital將其評級上調至“跑贏大盤”。
+
+---
+
+### 2026-08-17 21:03:58  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Ukraine's military said it struck a factory in Russia's Rostov Oblast linked to missile fuel production.
+
+---
+
+### 2026-08-17 21:03:46  #國際
+
+烏克蘭軍方稱，其打擊了俄羅斯羅斯托夫州一處與導彈燃料生產相關的設施。
+
+---
+
+### 2026-08-17 21:03:37  #市場 #國際
+
+美國 30 年期國債收益率觸及 5.29%，為 2007 年以來最高水平。
+
+---
+
+### 2026-08-17 21:03:01  #其他
+
+GAP：將於八月在瑞典、丹麥、挪威、芬蘭的奢侈品時尚購物平臺Boozt上線發售。
+
+---
+
+### 2026-08-17 21:02:40  #其他
+
+派拉蒙‑天空之舞：要約到期日延長至 8 月 28 日。
+
+---
+
+### 2026-08-17 21:02:35  #MKT News #PSKY.O
+
+Paramount (PSKY.O) extended its tender offer deadline to Aug. 28.
+
+---
+
+### 2026-08-17 21:02:20  #MKT News #Market Themes #AI Revolution
+
+US Department of Defense (DoD) awards $100 million contract to NODA AI to expand mission-command capabilities for autonomous joint-force systems.
+
+---
+
+### 2026-08-17 21:02:05  #公司 #國際
+
+市場訊息：美國陸軍部授予Node.AI公司1億美元合同，為聯合部隊自主作戰力量擴編任務指揮能力。
+
+---
+
+### 2026-08-17 21:01:15  #其他
+
+AUDIOCODES VOCA CIC現透過微軟TEAMS UNIFY整合認證，適用於語音代理。
+
+---
+
+### 2026-08-17 21:00:45  #MKT News #PSKY.O
+
+Paramount (PSKY.O) said it has extended the deadline for its previously announced exchange offer and tender offer.
+
+---
+
+### 2026-08-17 21:00:22  #Trading Economics #Economy #Canada #Foreign Stock Investment #Importance 1
+
+Foreign Investment in Canadian Securities Surges — Foreign investors added C$40.8 billion of Canadian securities to their holdings in June 2026, sharply higher than C$8.8 billion in May and well above market expectations of C$15 billion. The increase was led by strong foreign purchases of debt securities, which totaled C$39.9 billion. Federal government debt securities accounted for most of the increase, with non-resident investors acquiring C$25.4 billion. Non-resident investors also purchased C$16.2 billion of private corporate bonds, mainly instruments issued by Canadian chartered banks and denominated in US dollars and euros. Foreign investors acquired C$901 million of Canadian shares after divesting C$16.1 billion in May. By sector, investors mainly acquired shares in manufacturing, partly offset by divestments in the trade and transportation, and finance and insurance sectors. Foreign investors acquired a record C$100.6 billion of Canadian securities in the second quarter.
+
+---
+
+### 2026-08-17 21:00:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Night session opened; China’s main futures were mostly higher. Ethylene glycol (EG) rose >3%. Benzene, PTA and Shanghai crude (SC) gained >2%. Asphalt up ~2%. Fuel oil, PET flakes, LPG, propylene, plastics and BR rubber rose >1%. Starch fell nearly 1%.
 
 ---
 
@@ -17829,203 +17970,5 @@ Turkish President Erdogan said Europe appears unwilling to accept Turkey into th
 ### 2026-08-15 21:19:01  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
 
 【Iran, Oman appear to agree shipping routes through Strait of Hormuz】Foreign reports say Iran and Oman appear to have agreed on shipping routes through the Strait of Hormuz as part of talks on managing the chokepoint. Iran foreign ministry spokesman Baghaei said a finalized "shipping map" would form part of a broader arrangement and an independent bilateral pact to protect sovereignty and ensure safe passage. State media gave no details on transit fees or security measures and said further negotiations are planned. The move follows recent attacks in the strait; the United States was not involved and is unlikely to accept any deal that does not restore free navigation.
-
----
-
-### 2026-08-15 21:16:31  #央行 #中國央行
-
-【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。
-
----
-
-### 2026-08-15 21:16:31  #經濟數據 #中國
-
-【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。
-
----
-
-### 2026-08-15 21:16:21  #國際
-
-以色列襲擊黎巴嫩南部後，真主黨呼籲黎巴嫩政府停止與以色列的談判。
-
----
-
-### 2026-08-15 21:05:38  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Russian foreign ministry said potential U.S. and Turkish plans to supply weapons to Kyiv would weaken Moscow's relations with Washington and Ankara.
-
----
-
-### 2026-08-15 21:04:44  #國際 #原創
-
-【美國海軍據悉考慮應特朗普要求重新設計航空母艦】據多位現任和前任美國官員透露，美國海軍正在考慮對其新型航空母艦進行重大重新設計，以更好地符合美國總統特朗普對軍艦外觀的偏好。這些官員表示，海軍正在評估將作為航母指揮中心的多層艦橋向前移動至艦體中部，使其外觀更接近老式艦艇的可行性。據這些官員稱，此舉是為了回應特朗普對新型福特級航母“外觀”的擔憂，因為該級航母的艦島位置靠近艦尾。搬遷這座被稱為“艦島”的指揮中心，將是特朗普推動的第二項重大設計變更。週四，這位總統釋出了一份國家安全備忘錄，指示海軍制定一項計劃，在未來的航母上恢復使用老式的蒸汽彈射器。這些系統用於將噴氣式飛機從航母的飛行甲板上彈射出去。現任和前任海軍官員表示，特朗普傾向於讓新型航空母艦的外觀更接近二戰時期服役的航母。
-
----
-
-### 2026-08-15 21:03:58  #MKT News
-
-Russia's foreign ministry said its spokesman has asked the United States and Turkey to explain reported plans to supply weapons to Kyiv.
-
----
-
-### 2026-08-15 21:00:47  #國際
-
-市場訊息：美國海軍考慮應特朗普要求重新設計航空母艦。
-
----
-
-### 2026-08-15 20:59:49  #國際
-
-【美國弗吉尼亞州立大學槍擊事件致5人受傷】當地時間8月15日，美國弗吉尼亞州立大學發生槍擊事件，造成5人受傷，其中1人情況危急。據悉，槍擊事件發生在當天凌晨1時30分左右，地點位於該校一棟學生宿舍樓外。校方表示，事件涉及多名嫌疑人。警方趕到現場後發現5人遭槍擊，傷者隨後被送往附近醫院接受治療，其中1人情況危急，其餘4人傷勢沒有生命危險。事件發生後，校方一度對校園實施封鎖。目前警方仍在現場展開調查，校園內有大批執法人員部署。截至目前，尚不清楚是否已有嫌疑人被捕。（央視新聞）
-
----
-
-### 2026-08-15 20:53:04  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-【Iran says it reached agreement with Oman on Strait of Hormuz transit plan】On Aug 15 local time, Iranian foreign ministry spokesperson BAGHAEI said talks with Oman continued despite US obstruction and the two sides have reached an agreement on a transit plan for the Strait of Hormuz shipping lane.
-
----
-
-### 2026-08-15 20:52:00  #公司
-
-【華天科技：公司與智元進行業務專案合作】有投資者向華天科技(002185)提問：公司與智元機器人有合作？華天科技8月15日在互動平臺回覆，公司與智元進行業務專案合作。
-
----
-
-### 2026-08-15 20:50:55  #國際
-
-【伊朗稱已與阿曼就霍爾木茲海峽通行方案達成協議】伊朗外交部發言人巴加埃表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。
-
----
-
-### 2026-08-15 20:48:26  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-HEZBOLLAH said Israel's attacks in southern Lebanon will be met with a corresponding response.
-
----
-
-### 2026-08-15 20:45:27  #MKT News
-
-Indonesia's West disaster management agency said deaths from an earthquake in eastern Indonesia have risen to 47.
-
----
-
-### 2026-08-15 20:45:21  #國際
-
-印尼災害管理機構：印尼東部地震死亡人數已上升至47人。
-
----
-
-### 2026-08-15 20:42:07  #國際
-
-【韓國西江大學18萬條個人資訊洩露 朴槿惠或在其中】韓國西江大學15日確認，該校約18萬條個人資訊洩露，涉及在校學生、畢業生、教職員和其他人員，據信包括韓國前總統朴槿惠的個人資訊。（新華社）
-
----
-
-### 2026-08-15 20:41:00  #其他
-
-【聯合國追加資金應對埃博拉疫情】聯合國分管人道主義事務的副秘書長托馬斯·弗萊徹14日說，埃博拉病毒正在剛果（金）“佔據上風”。聯合國將追加3050萬美元撥款，增派工作人員，擴大應對疫情行動。弗萊徹14日主持了聯合國的機構間常設委員會緊急會議。他當天發表宣告說，本次埃博拉疫情是有記錄以來蔓延最快的一次，目前“每30分鐘就有一人在這次疫情中死亡”。（新華社）
-
----
-
-### 2026-08-15 20:35:42  #MKT News #Important
-
-Yemen's military vows a strong response to a Houthi attack on the port city of Mocha, Al Arabiya reports.
-
----
-
-### 2026-08-15 20:35:17  #MKT News #Commodities #Energy
-
-Oman News Agency (ONA) said oil contamination has reached about 12 km of shoreline near Ras Madrakah; Masirah Island has not been affected. Cleanup operations on the leaking oil tanker have progressed.
-
----
-
-### 2026-08-15 20:34:04  #MKT News #Market Regions #Greater China
-
-【China's Henan seals 117m breach on Jialu River east‑bank levee in Zhoukou】Emergency teams working day and night sealed a 117‑meter breach on the east‑bank levee of the Jialu River in Chuanhui District, Zhoukou, Henan at 20:29 on Aug. 15.
-
----
-
-### 2026-08-15 20:32:04  #國際
-
-美國地質調查局：印尼ENDE西北 78 公里處發生 5.2 級地震。
-
----
-
-### 2026-08-15 20:30:34  #其他
-
-【河南周口川匯區賈魯河東岸堤防潰口成功合龍】記者瞭解到，經過多方應急搶險力量晝夜不停努力，8月15日晚上8時29分，河南省周口市川匯區賈魯河東岸堤防117米潰口成功合龍。（央視新聞）
-
----
-
-### 2026-08-15 20:18:31  #公司
-
-【中國海誠中標雲南沃森生物能碳管理平臺專案】據中國海誠訊息，近日，中國海誠中標雲南沃森生物能碳管理平臺專案。此次中標是公司在生物醫藥能碳服務領域的重要突破，也進一步拓寬了公司在生物疫苗賽道的新業務佈局。
-
----
-
-### 2026-08-15 20:16:45  #國際
-
-【美國弗吉尼亞州立大學發生槍擊事件，多人中槍】據美國媒體15日報道，美國弗吉尼亞州立大學發生槍擊事件，多人中槍，校園隨即進入封鎖狀態。（新華社）
-
----
-
-### 2026-08-15 20:14:29  #國際
-
-以色列國防軍：我們對黎巴嫩的空襲是對真主黨違反停火協議的回應。
-
----
-
-### 2026-08-15 20:13:33  #國際
-
-【印尼7.7級地震中三名中國遊客受輕傷】從中國駐登巴薩總領館獲悉，在印尼發生的7.7級地震中，有3名中國遊客受輕傷，目前均無大礙。據瞭解，其中一名中國遊客在地震發生後緊急避險過程中，因慌亂不慎頭部撞到牆壁。另外兩名遊客是腰部扭傷。目前，3名遊客傷勢均較輕。（央視新聞）
-
----
-
-### 2026-08-15 20:11:16  #其他
-
-【2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇崑山舉辦】15日，2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇省崑山市開幕。此次活動由兩岸企業家峰會主辦，主題是“青創成就夢想 AI賦能未來”，約450名兩岸青年企業家代表、青年學生等嘉賓參加活動。（新華社）
-
----
-
-### 2026-08-15 20:10:40  #其他
-
-【粵港澳大灣區首開至鎮江方向快速班列】8月15日，隨著一聲汽笛長鳴，一趟滿載著汽車零部件、日用百貨的棚車班列從廣州東部公鐵聯運樞紐(增城西站)緩緩啟動，預計將於8月17日上午直達江蘇鎮江上隍站。這標誌著粵港澳大灣區至江蘇鎮江方向的物流新通道正式打通。
-
----
-
-### 2026-08-15 20:07:32  #MKT News
-
-State media reported Omani authorities said about 12 km of coastline in the Ras Madrakah area has been affected by oil pollution.
-
----
-
-### 2026-08-15 20:06:12  #其他
-
-阿曼稱拉斯馬德拉卡地區約12公里海岸線受石油汙染影響。
-
----
-
-### 2026-08-15 20:03:44  #國際
-
-【自然資源部海嘯預警中心：印尼6.8級地震不會引發海嘯】2026年08月15日18時54分（北京時間），印尼蘇門答臘島北部海域（2.95°N,99.05°E）發生6.8級地震，震源深度為170千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。
-
----
-
-### 2026-08-15 20:02:11  #MKT News
-
-【Commemoration of Jiang Zemin’s 100th birth anniversary set for Aug. 17; Xi Jinping to attend and speak】A state ceremony marking the 100th anniversary of former leader Jiang Zemin’s birth will be held at 10:00 a.m. on August 17 at the Great Hall of the People in Beijing. Xi Jinping, General Secretary of the Communist Party, President and CMC chairman, will attend and deliver a major address. Chinese state broadcasters will provide live coverage.
-
----
-
-### 2026-08-15 20:01:15  #其他
-
-【紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話】紀念江澤民同志誕辰100週年大會將於8月17日上午10時在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將出席大會並發表重要講話。屆時，中央廣播電視總檯、新華網將對大會進行現場直播，人民網、央視網、中國網等中央重點新聞網站和人民日報客戶端、新華社客戶端、央視新聞客戶端等新媒體平臺同步轉播。（央視新聞）
-
----
-
-### 2026-08-15 20:00:54  #市場
-
-【多部門會商部署重點地區防汛搶險工作】8月15日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房和城鄉建設部、交通運輸部等部門以及黑龍江、江蘇、浙江、安徽、河南、廣東等重點省份聯合會商，研判近期強降雨影響，研究部署重點地區防汛搶險工作。國家防總針對太湖流域汛情提升針對江蘇的防汛應急響應至三級，啟動針對浙江的防汛四級應急響應，增派工作組趕赴江蘇協助指導抗洪搶險工作；繼續維持針對河南的防汛三級應急響應、針對安徽的防汛四級應急響應。國家防減救災委維持針對浙江、河南、陝西、黑龍江的國家四級救災應急響應。應急管理部維持針對浙江、安徽、河南、湖北的地質災害四級應急響應。會商指出，太湖流域發生流域性較大洪水，太湖水位上漲較快，周邊河網多個站點水位超警戒、超保證；淮河流域沙潁河和長江滁河等部分河段維持高水位執行，堤防防守壓力大；浙江、福建、廣東等地仍有強暴雨，局地發生山洪、地質災害的風險較高，防汛救災形勢嚴峻複雜。
 
 ---

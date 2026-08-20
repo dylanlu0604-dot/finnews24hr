@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:03:22_
-_本檔包含 3238 則快訊，約 641037 字_
+_更新時間：2026-08-21 05:38:12_
+_本檔包含 3230 則快訊，約 640650 字_
+
+---
+
+### 2026-08-20 05:56:04  #MKT News #Macro & Rates #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
+
+【Bessent emerges as most interventionist US Treasury secretary in decades】US Treasury Secretary Bessent this year has taken an unusually interventionist stance to curb rising US borrowing costs, including a move this week to "at least double" planned buybacks of 10-yr and 30-yr Treasuries. Treasury had earlier signaled it might reduce long-term debt issuance; on July 31 Bessent led the US government’s first yen purchase in 30 years. Former Treasury official Mark Sobel called Bessent "absolutely an aggressive interventionist," saying his hedge-fund background is evident and senior officials are clearly worried about rising long-term yields. Rising 10-yr yields — driven by inflation, Fed policy and fiscal deficits — have pushed mortgage rates higher and weighed on growth; analysts say Bessent appears to be attempting yield-curve intervention to stabilize markets but warn it is unlikely to succeed long-term without addressing high debt and deficits.
+
+---
+
+### 2026-08-20 05:55:55  #其他
+
+哥倫比亞總統表示，地震已造成 314 人遇難，仍有 262 人失蹤。
+
+---
+
+### 2026-08-20 05:54:17  #Trading Economics #Economy #Jamaica #Interest Rate #Importance 1
+
+Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%.
+
+---
+
+### 2026-08-20 05:53:51  #MKT News #Macro & Rates #US Economy
+
+【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026.
+
+---
+
+### 2026-08-20 05:46:55  #Trading Economics #Markets #Commodity #commodity #Importance 0
+
+HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%.
 
 ---
 
@@ -19435,83 +19465,5 @@ Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowi
 ### 2026-08-19 05:12:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
 
 【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase.
-
----
-
-### 2026-08-19 05:06:43  #MKT News #Market Regions #Wall Street (US) #CSAN.N #Impact bearish
-
-According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS).
-
----
-
-### 2026-08-19 05:03:14  #國際
-
-【阿官員稱阿聯酋已暫停與伊朗貿易往來】當地時間19日，阿聯酋外交部戰略溝通司司長阿芙拉·哈梅利稱，由於地區局勢升級，已暫停與伊朗的一切貿易、商業和金融交易，直至另行通知。哈梅利重申，阿聯酋仍然致力於“對話、合作和區域一體化，將其視為加強地區和平、穩定與繁榮的重要途徑”。（央視新聞）
-
----
-
-### 2026-08-19 05:01:23  #其他
-
-【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。
-
----
-
-### 2026-08-19 04:57:56  #國際
-
-【法國宣佈兩名伊朗駐法使館人員為“不受歡迎的人”】當地時間8月18日，法國外長巴羅宣佈兩名伊朗駐法國大使館工作人員為“不受歡迎的人”。法國外交部表示，此舉是對7月19日兩名法國駐伊朗使館工作人員遭伊朗安全部門“嚴重侵害”事件的回應。（央視新聞）
-
----
-
-### 2026-08-19 04:53:32  #MKT News
-
-RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector.
-
----
-
-### 2026-08-19 04:51:16  #MKT News #Market Regions #Europe & UK
-
-【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions "extremely serious and unacceptable" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention.
-
----
-
-### 2026-08-19 04:49:08  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran.
-
----
-
-### 2026-08-19 04:48:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,330/oz, down nearly 2% intraday.
-
----
-
-### 2026-08-19 04:47:55  #市場
-
-紐約期金日內跌2%，現報4384.16美元/盎司。
-
----
-
-### 2026-08-19 04:47:42  #焦點 #國際
-
-以色列戰鬥機飛越伊德利卜及敘利亞沙漠上空。
-
----
-
-### 2026-08-19 04:47:17  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran foreign ministry spokesman BAGHAEI urged regional actors not to make baseless accusations against Iran and warned they should be wary of what he described as ongoing US and Israeli actions that undermine regional peace and a history of false-flag operations.
-
----
-
-### 2026-08-19 04:46:44  #國際
-
-美國副總統萬斯將於週五訪問俄亥俄州並發表經濟演講。
-
----
-
-### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
-
-Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
 
 ---

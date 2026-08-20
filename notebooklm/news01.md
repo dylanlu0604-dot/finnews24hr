@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:03:22_
-_本檔包含 3323 則快訊，約 640880 字_
+_更新時間：2026-08-21 05:38:12_
+_本檔包含 3339 則快訊，約 640657 字_
+
+---
+
+### 2026-08-21 05:36:25  #MKT News #DXY #Impact bullish
+
+Brazil's central bank said it will not hold an FX swap rollover auction on Aug 21.
+
+---
+
+### 2026-08-21 05:35:37  #國際
+
+美國國務卿魯比奧與加拿大外長阿南德就北極安全、古巴改革展開磋商。
+
+---
+
+### 2026-08-21 05:34:35  #央行 #其他
+
+巴西央行宣告表示，不會在 8 月 21 日舉行外匯互換展期拍賣。
+
+---
+
+### 2026-08-21 05:33:52  #國際
+
+美國國務卿魯比奧與加拿大外長阿南德重申半球共同優先事項。
+
+---
+
+### 2026-08-21 05:31:19  #MKT News #C.O #Impact bullish
+
+Market sources say ANTHROPIC plans to add CITIGROUP as a lead underwriter for a large IPO.
+
+---
+
+### 2026-08-21 05:29:50  #公司 #觀點 #國際
+
+市場訊息：Anthropic 擬將花旗集團納入其大型 IPO 的主要承銷銀行之列。
+
+---
+
+### 2026-08-21 05:25:44  #MKT News #Market Regions #Emerging Markets
+
+S&P Dow Jones Indices will reclassify Poland from emerging- to developed-market status and will retain Egypt in the emerging-market category.
+
+---
+
+### 2026-08-21 05:20:08  #公司 #國際
+
+標普道瓊斯指數公司：將波蘭從新興市場調整至發達市場。維持埃及的新興市場地位。
+
+---
+
+### 2026-08-21 05:16:39  #Trading Economics #Economy #South Korea #Producer Prices Change #Importance 1
+
+South Korea Producer Prices Growth Slows in July — South Korea’s producer prices rose 7.7% year-over-year in July 2026, easing from an 8.5% increase in June. Manufacturing producer prices climbed 12.2%, led by a 50.7% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 24.2%, while chemical products increased 17.5% and basic metal products advanced 16.1%. Meanwhile, prices of agricultural, forestry and marine products rose 0.7%, while service prices increased 4%. In contrast, prices of mining products edged 0.7% lower. On a monthly basis, the Producer Price Index decreased 0.4% after remaining flat in June.
+
+---
+
+### 2026-08-21 05:16:38  #國際
+
+據伊朗媒體Fars News：以色列戰鬥機進入黎巴嫩空域，以色列對黎巴嫩南部阿里塔赫爾高地發動了空襲。
+
+---
+
+### 2026-08-21 05:16:33  #市場
+
+富時A50期指連續夜盤收漲0.25%，報14695點。
+
+---
+
+### 2026-08-21 05:16:20  #其他
+
+加拿大總理卡尼與墨西哥總統辛鮑姆通了電話。卡尼對辛鮑姆表示感謝，感謝墨西哥今年夏季協助加拿大撲救野火，派出 400 餘名消防員及支援人員。雙方就影響北美貿易的最新局勢交換意見。雙方強調，應當儘快更新《美加墨協定》，為北美企業與勞動者帶來更強的政策確定性。兩國領導人探討了加墨跨境貿易取得的進展，強調緊密的雙邊合作對整個北美大陸的共同安全與繁榮至關重要。卡尼總理與辛鮑姆總統同意雙方將保持密切溝通。
+
+---
+
+### 2026-08-21 05:14:38  #MKT News
+
+U.S. Treasury Secretary Bessent said the G20 should return to its core mission: discuss what individual countries and economies can do and how to cooperate to deliver stronger global growth. He said the message to allies and trading partners is that stronger global growth is the way to address mounting debt burdens.
+
+---
+
+### 2026-08-21 05:13:09  #MKT News #Market Themes #AI Revolution
+
+Elon Musk said Optimus and Grok will someday provide extraordinary medical services to everyone on Earth.
+
+---
+
+### 2026-08-21 05:12:17  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran's Fars News reported Israeli warplanes entered Lebanese airspace and carried out an airstrike on the Aritahel heights in southern Lebanon.
+
+---
+
+### 2026-08-21 05:10:53  #其他
+
+馬斯克：終有一天，Optimus + Grok 將為地球上所有人提供令人難以置信的醫療服務。
+
+---
+
+### 2026-08-21 05:10:10  #公司 #國際
+
+美國財長貝森特：我們希望讓二十國集團迴歸核心使命。這一使命就是探討各國能夠採取哪些行動、各經濟體可以如何作為，以及我們怎樣攜手合作，實現更強勁的全球增長。我們向盟友與貿易伙伴傳遞的訊號是：實現全球增長是化解鉅額債務的出路。
+
+---
+
+### 2026-08-21 05:09:06  #MKT News #USDJPY
+
+USD/JPY slipped below 159, down 0.04% on the day.
+
+---
+
+### 2026-08-21 05:07:03  #市場
+
+週四（8月20日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7253元，較週三紐約尾盤漲60點（延續之前一天漲150點的表現），日內整體交投於6.7321-6.7201元區間，逼近2023年2月2日頂部6.7057元、當年1月16日頂部6.6975元。
+
+---
+
+### 2026-08-21 05:06:37  #MKT News #CBRS.O #Impact bearish
+
+SEC filings show Cerebras (CBRS.O) top executive Sean Lie plans to sell company shares valued at $153.19 million.
+
+---
+
+### 2026-08-21 05:03:06  #MKT News #NOC.O #Impact bullish #LMT.O #RTX.O
+
+White House says U.S. must increase space transportation capacity by 2030 to support more than 1,000 launches and reentries per year.
 
 ---
 
@@ -20039,35 +20165,5 @@ Colombian president says earthquake death toll has reached 314; 262 people remai
 ### 2026-08-20 05:56:27  #MKT News
 
 【Analysis: Rising U.S. debt becomes focus of midterm elections】Michael Peterson, CEO of the Peter G. Peterson Foundation, said rising U.S. debt has become a midterm-election focal point and framed the issue as a cost-of-living problem. He warned higher debt raises interest costs — interest outlays now exceed defense spending — and said each $1 trillion of additional debt pushes up interest rates and inflation, increasing mortgage, auto and credit-card payments. He added rising debt undermines economic growth and slows wage growth while living costs rise.
-
----
-
-### 2026-08-20 05:56:04  #MKT News #Macro & Rates #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
-
-【Bessent emerges as most interventionist US Treasury secretary in decades】US Treasury Secretary Bessent this year has taken an unusually interventionist stance to curb rising US borrowing costs, including a move this week to "at least double" planned buybacks of 10-yr and 30-yr Treasuries. Treasury had earlier signaled it might reduce long-term debt issuance; on July 31 Bessent led the US government’s first yen purchase in 30 years. Former Treasury official Mark Sobel called Bessent "absolutely an aggressive interventionist," saying his hedge-fund background is evident and senior officials are clearly worried about rising long-term yields. Rising 10-yr yields — driven by inflation, Fed policy and fiscal deficits — have pushed mortgage rates higher and weighed on growth; analysts say Bessent appears to be attempting yield-curve intervention to stabilize markets but warn it is unlikely to succeed long-term without addressing high debt and deficits.
-
----
-
-### 2026-08-20 05:55:55  #其他
-
-哥倫比亞總統表示，地震已造成 314 人遇難，仍有 262 人失蹤。
-
----
-
-### 2026-08-20 05:54:17  #Trading Economics #Economy #Jamaica #Interest Rate #Importance 1
-
-Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%.
-
----
-
-### 2026-08-20 05:53:51  #MKT News #Macro & Rates #US Economy
-
-【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026.
-
----
-
-### 2026-08-20 05:46:55  #Trading Economics #Markets #Commodity #commodity #Importance 0
-
-HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%.
 
 ---
