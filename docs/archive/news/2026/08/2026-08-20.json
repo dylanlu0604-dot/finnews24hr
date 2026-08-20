@@ -1,7 +1,27 @@
 {
   "date": "2026-08-20",
-  "count": 948,
+  "count": 950,
   "items": [
+    {
+      "id": "mkt:01a01d1f-1d44-7aab-90a7-be725d54e592",
+      "time": "2026-08-20 11:02:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CENC automatic determination: at 11:00 on Aug 20 an earthquake of about magnitude 3.8 occurred near Fan County, Puyang, Henan (35.79°N, 115.69°E). Final parameters subject to the official rapid report."
+    },
+    {
+      "id": "mkt:01a01d1e-1258-7aab-90a7-b74a17e9bd10",
+      "time": "2026-08-20 11:01:45",
+      "tags": [
+        "MKT News",
+        "EL.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises Estée Lauder PT to $112 from $94."
+    },
     {
       "id": "mkt:01a01d1d-25dc-7aab-90a7-a82309ccbdff",
       "time": "2026-08-20 11:00:44",
