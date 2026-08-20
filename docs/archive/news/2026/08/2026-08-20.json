@@ -1,7 +1,25 @@
 {
   "date": "2026-08-20",
-  "count": 992,
+  "count": 994,
   "items": [
+    {
+      "id": "mkt:01a01d40-90ec-7aab-90a8-1d76cfab39f8",
+      "time": "2026-08-20 11:39:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's Ministry of Transport to accelerate AI integration into transport sector】Aug 20 — China's Ministry of Transport held a briefing on \"AI + transport\" application scenarios. Xu Wenqiang, director-general of the ministry's Science and Technology Department, said transport is a major economic artery and a large-scale real-world testbed for AI, and that the ministry has stepped up efforts in recent years to deepen AI integration with the transport sector."
+    },
+    {
+      "id": "5049012",
+      "time": "2026-08-20 11:38:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：加快推進人工智慧與交通運輸深度融合】8月20日，交通運輸部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。交通運輸部科技司司長徐文強表示，交通是國民經濟的大動脈，也是人工智慧落地的超級實景試驗場和規模化應用主陣地。近年來，交通運輸部加快推進人工智慧與交通運輸深度融合。（新華社）"
+    },
     {
       "id": "5049011",
       "time": "2026-08-20 11:36:25",
