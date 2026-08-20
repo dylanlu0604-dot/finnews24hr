@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-20 10:38:46",
-  "count": 15691,
+  "updated": "2026-08-20 10:42:39",
+  "count": 15689,
   "items": [
+    {
+      "id": "te:markets:576693",
+      "time": "2026-08-20 10:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Rally After BI Rate Decision — Indonesian shares surged 69 points, or 1.1%, to 6,465 in early Thursday trade, rebounding from the prior session’s weakness with broad gains across major sectors. Sentiment was lifted after Bank Indonesia held its benchmark rate steady at 5.75% for a second month on Wednesday, in line with estimates, following cumulative hikes of 100bps since May. In main trading partner China, lending benchmarks were also left unchanged for a 15th straight month, with one- and five-year LPRs kept at record lows to support growth. However, caution lingered ahead of Q2 current account data due later this week, after Q1’s deficit widened to its largest since 2019 on weaker trade. Meanwhile, FTSE Russell said it will delay additions, upgrades, and weight increases for Indonesian stocks until at least its December review as it evaluates market reforms. Early standouts included Hartadinata Abadi (8.3%), Amman Mineral International (7.2%), Vale Indonesia (3.4%), and Aneka Tambang (3.3%)."
+    },
+    {
+      "id": "5048960",
+      "time": "2026-08-20 10:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：紫金礦業淨買入超18億】截至目前，今日主力資金淨流入82.85億；淨流入醫藥生物、生物醫藥、融資融券等板塊，其中醫藥生物板塊淨流入94.89億；淨流出東數西算、晶片概念、商業航天（航天航空）等板塊，其中東數西算板塊淨流出37.98億。\n  \n個股方面，紫金礦業淨買入18.89億元位居首位，通鼎互聯、藥明康德、赤峰黃金主力資金淨流入居前；中際旭創淨賣出8.83億元位居首位，C宇樹、金風科技、長鑫科技淨流出額居前。"
+    },
+    {
+      "id": "5048959",
+      "time": "2026-08-20 10:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【研究發現：南極冰蓋損失有所放緩】從中國科學院海洋研究所獲悉，中國、美國、匈牙利、日本等多國科學家透過合作觀測研究發現，南極冰蓋長期質量損失的趨勢有所放緩。自2021年7月至2023年4月，南極冰蓋質量增加約6950億噸，創下近20年重力衛星觀測時期的最大質量增幅。 研究還表明，造成這種情況的原因是熱帶海洋驅動大氣過程改變了水汽輸送通道，並增強南極的降雪。相關研究成果19日線上發表於國際學術期刊《自然》。"
+    },
     {
       "id": "5048958",
       "time": "2026-08-20 10:37:28",
@@ -143867,50 +143895,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格齊：像法國這樣的國家應該停止向世界說教“人權”和國際法。這種虛偽是顯而易見的，也令人尷尬。 你們對以色列在加沙的種族滅絕——以及對伊朗的侵略——的支援，已經摧毀了你們自以為擁有的任何道德制高點。"
-    },
-    {
-      "id": "mkt:019ff8fe-bfb0-7aab-9017-6988494315f4",
-      "time": "2026-08-13 10:41:12",
-      "tags": [
-        "MKT News",
-        "09688.HK",
-        "Impact bullish",
-        "02157.HK",
-        "01093.HK"
-      ],
-      "text": "Hong Kong innovative-drug stocks strengthened: 09688.HK rose more than 5%, 02157.HK climbed over 4%, and 09926.HK and CSPC PHARMA (01093.HK) also gained."
-    },
-    {
-      "id": "5038492",
-      "time": "2026-08-13 10:40:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：天孚通訊淨買入超14億】截至目前，今日主力資金淨流入14.65億；淨流入TMT、百元股、高價股等板塊，其中TMT板塊淨流入153.14億；淨流出小金屬、有色金屬概念、有色金屬等板塊，其中小金屬板塊淨流出84.79億。\n  \n個股方面，天孚通訊淨買入14.52億元位居首位，新易盛、中際旭創、利通電子主力資金淨流入居前；風華高科淨賣出7.78億元位居首位，紫金礦業、勝宏科技、永鼎股份淨流出額居前。"
-    },
-    {
-      "id": "5038491",
-      "time": "2026-08-13 10:39:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【“十五五”時期 應對氣候變化將聚焦“五個重點”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期是實現碳達峰的決勝期，也是落實2035年國家自主貢獻的關鍵期。生態環境部將聚焦“五個重點”，統籌推進應對氣候變化工作。一是持續推動重點領域綠色低碳轉型。二是加快推進全國碳市場建設。三是完善碳排放統計核算體系。四是全面提升氣候韌性。五是積極推動應對氣候變化國際合作。（央視新聞）"
-    },
-    {
-      "id": "5038490",
-      "time": "2026-08-13 10:39:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【索通發展在內蒙古成立碳素製品公司】企查查APP顯示，近日，內蒙古索通星途碳素製品有限公司成立，法定代表人為唐浩，經營範圍包含石墨及碳素製品製造；石墨及碳素製品銷售；熱力生產和供應；發電業務、輸電業務、供（配）電業務等。企查查股權穿透顯示，該公司由索通發展全資持股。"
-    },
-    {
-      "id": "5038489",
-      "time": "2026-08-13 10:38:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CRO概念持續走高 南模生物20cm漲停】CRO概念盤中持續走高，南模生物20cm漲停，此前博濟醫藥20cm漲停，萬邦醫藥漲18%，近岸蛋白、皓元醫藥、睿智醫藥、奧浦邁、百奧賽圖漲幅靠前。"
     }
   ]
 }
