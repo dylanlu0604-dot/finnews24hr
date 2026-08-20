@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-21 00:15:49",
+  "updated": "2026-08-21 00:19:46",
   "count": 16032,
   "items": [
+    {
+      "id": "mkt:01a01ff8-3964-7aab-90bd-e1152b3e1c22",
+      "time": "2026-08-21 00:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Deutsche Bank is reviving its energy trading business through a series of hires."
+    },
+    {
+      "id": "5050604",
+      "time": "2026-08-21 00:18:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【在退出大宗商品領域十多年後，德意志銀行正大力重建其能源交易業務】知情人士透露，德意志銀行已聘請前高盛集團交易員馬達夫·賈納基拉曼（Madhav Janakiraman）和貝努瓦·博斯克（Benoit Bosk），該計劃還包括至少兩名摩根士丹利高階商品銷售主管。這些新聘人員將向科·阿塔-門薩（Kojo Atta-Mensa）彙報工作，後者於今年早些時候加入德意志銀行，擔任摩根士丹利前大宗商品主管，負責領導該行在能源交易領域的重建工作。由於此事尚未公開，知情人士要求匿名。此次招聘熱潮扭轉了德意志銀行此前近乎完全停止招聘的局面。2013年，在經歷了一系列危機後，德意志銀行退出了大宗商品業務，裁減了數百名員工，並退出了專門的能源、農業、幹散貨和基本金屬貿易業務。這一更廣泛的行業回撥也影響了華爾街大宗商品市場，當時監管機構要求各銀行增加潛在交易損失的緩衝資金，以避免重蹈全球金融危機期間由納稅人資助救助的覆轍。德意志銀行發言人在電子郵件宣告中表示：“近年來，我們看到企業客戶對能源解決方案的需求強勁。鑑於此，以及能源的戰略重要性，我們正在進一步提升自身能力，以便更好地為全球企業客戶提供支援。”"
+    },
+    {
+      "id": "5050603",
+      "time": "2026-08-21 00:17:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德意志銀行正透過一系列人員招聘重建能源交易業務。"
+    },
+    {
+      "id": "5050602",
+      "time": "2026-08-21 00:17:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合公用事業公司提交 1.4 億英鎊汙水處理廠升級改造方案。"
+    },
+    {
+      "id": "5050601",
+      "time": "2026-08-21 00:17:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Moderna股價狂歡後迎回撥，投資者獲利了結】在Moderna股價創下歷史最大單日漲幅後，投資者開始消化利好訊息並調整倉位，該股週四有望錄得兩年多來最大百分比跌幅。分析師指出，週三Moderna股價因mRNA癌症疫苗的積極資料而大漲前，該股空頭倉位高達13.7%。所謂的“逼空”行情（即做空者買回股票以控制損失）很可能是推動股價週三飆升的重要因素，而週四的走勢則反映了市場情緒的降溫。Brookline Capital Markets分析師Leah Cann表示：“很多做空的投資者可能判斷失誤被迫平倉，這相當於給火焰澆上了油。而在隨後的幾天裡，隨著情緒緩和，股價也會趨於平穩。”瑞銀（UBS）資料顯示，其客戶在週三創紀錄地拋售了價值4400萬美元的Moderna股票，表明部分投資者在股價大漲後選擇套現離場。瑞銀分析師Michael Yee指出：“該股昨日成交量接近2億股，約佔其流通股本的一半，這表明單次交易中可能發生了大量的空頭平倉和短期資金的快速調倉。一旦這種買入需求耗盡，股價出現一定程度的回落是意料之中的。”"
+    },
+    {
+      "id": "mkt:01a01ff6-62ad-7aab-90bd-daab3194c45a",
+      "time": "2026-08-21 00:17:15",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Peru's prime minister said mining projects worth at least $33 billion are likely to be implemented over the next five years."
+    },
+    {
+      "id": "5050600",
+      "time": "2026-08-21 00:16:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總理：礦業投資到2031年或將超過330億美元。"
+    },
+    {
+      "id": "mkt:01a01ff5-ca78-7aab-90bd-d5e9f86f905f",
+      "time": "2026-08-21 00:16:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Peru's prime minister told Congress the government plans to approve 240 mining exploration and extraction projects this year."
+    },
+    {
+      "id": "5050599",
+      "time": "2026-08-21 00:16:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【英國金融業協會致函新財長，反對秋季預算案加稅 】在英國新任財政大臣約翰·希利（John Healey）籌備其10月首份秋季預算案之際，英國銀行業正密集向政府施壓，強烈反對進一步上調行業稅收。英國最具影響力的行業協會UK Finance於週四致信希利，明確指出在秋季預算中提高銀行業稅收將“損害英國的國際競爭力”。此前數日，摩根大通執行長傑米·戴蒙（Jamie Dimon）也曾在電話中向希利發出類似警告，稱針對銀行的額外徵稅將導致資本與金融就業崗位外流。UK Finance執行長大衛·波斯廷斯（David Postings）在信中予以堅決反對。他指出，英國銀行業目前的綜合稅率已高達46.6%，顯著高於阿姆斯特丹、都柏林、法蘭克福及紐約等國際金融中心。此外，英國在銀行利潤附加稅之上，還疊加了不可抵扣的資產負債表稅，這種“雙重徵稅”在國際上極缺乏競爭力。波斯廷斯強調，銀行業去年已繳納超過430億英鎊的稅款，佔全國總稅收的4.3%，且半數以上的高價值就業崗位分佈在倫敦以外的地區。他警告稱，在競爭對手（如德國）正致力於提升本國銀行業競爭力的背景下，英國若繼續提高特定行業稅負，不僅會破壞政府既定的經濟增長議程，還可能削弱其作為全球金融服務首選投資地的地位。他呼籲政府將稅收與監管政策同向發力，支援行業可持續發展。"
+    },
+    {
+      "id": "mkt:01a01ff4-c162-7aab-90bd-cc323de741dc",
+      "time": "2026-08-21 00:15:28",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Sky News reports major UK banks have warned against further tax increases."
+    },
     {
       "id": "mkt:01a01ff3-753c-7aab-90bd-c17c9b8009b8",
       "time": "2026-08-21 00:14:03",
@@ -146616,106 +146707,6 @@
         "國際"
       ],
       "text": "【以軍空襲打死加沙市警察局長】當地時間13日，巴勒斯坦加沙地帶內政部門發表宣告說，以色列軍方在加沙城西南沿海的拉希德公路空襲了加沙市警察局長阿布·卡米勒的車輛，致其身亡。當地訊息人士和目擊者稱，以戰機向該車輛發射3枚導彈，阿布·卡米勒當場身亡，另有3人受傷，車輛被完全摧毀。（央視新聞）"
-    },
-    {
-      "id": "5039881",
-      "time": "2026-08-14 00:18:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌4%，現報1318.54美元/盎司。"
-    },
-    {
-      "id": "5039880",
-      "time": "2026-08-14 00:17:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4410美元/盎司，日內跌1.33%。"
-    },
-    {
-      "id": "te:economy:575169",
-      "time": "2026-08-14 00:17:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Rates Break Five-Week Rising Streak — US 30-year fixed mortgage rates edged down to 6.67% as of August 13, 2026, from 6.69% the previous week, ending a streak of five consecutive weekly increases. Freddie Mac Chief Economist Sam Khater said mortgage rates remained relatively stable, while improved housing affordability and recent increases in purchase and refinance applications suggest borrowers continue to respond to modest rate changes. A year earlier, the 30-year fixed-rate mortgage averaged 6.58%. Meanwhile, the 15-year fixed mortgage rate fell to 5.96% from 6.01% a week earlier."
-    },
-    {
-      "id": "te:markets:575168",
-      "time": "2026-08-14 00:17:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Flat — The FTSE MIB closed little changed at 53,693 on Thursday, remaining in a narrow range after reaching record levels earlier in the week, as positive developments across sectors offset broader macroeconomic concerns. Saipem rose 3.6% after securing a $2 billion offshore contract in the Middle East. Nexi advanced 2.4% following reports that CDP is preparing to increase its stake to 29.9%, becoming the company’s largest shareholder without launching a takeover bid. UniCredit gained 0.8% amid reports that the ECB is leaning toward approving its takeover bid for Commerzbank, with the stock reaching its highest level in nearly 17 years. On the downside, uncertainty over Middle East peace talks kept energy markets volatile, with oil and natural gas prices remaining elevated. Unipol, Inwit and Moncler fell less than 1%. Eni slipped 0.9%, tracking lower global oil prices. In turn, utilities extended their recent decline."
-    },
-    {
-      "id": "te:markets:575167",
-      "time": "2026-08-14 00:17:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Falls for 2nd Day — The DAX 40 moved into the red to close marginally down at 26,292 on Thursday, the second day of losses, despite remaining close to recent record highs. Falling oil prices and reduced concerns over interest rates provided support, but uncertainty over the Iran conflict kept investors cautious. Meanwhile, attention remained focused on corporate earnings as the reporting season drew to a close. Among key movers, BASF (-2%), Mercedes-Benz Group (-1.5%) and Volkswagen (-1.3%) posted the biggest declines. On the upside, Continental emerged as the top performer, rising around 3%. RWE gained 2.5% after reporting better-than-expected first-half profit, helped by a Dutch compensation payment and stronger energy trading, while reaffirming its 2026 dividend and long-term profit targets."
-    },
-    {
-      "id": "mkt:019ffbe9-e774-7aab-902a-ef3a2765d25f",
-      "time": "2026-08-14 00:17:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Ukraine proposed a ceasefire to Russia in the Black Sea."
-    },
-    {
-      "id": "mkt:019ffbe9-6a46-7aab-902a-e30dc00fe44d",
-      "time": "2026-08-14 00:16:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Detroit automakers will tell the White House the revised North American trade agreement could impose costs of tens of billions of dollars on them."
-    },
-    {
-      "id": "5039879",
-      "time": "2026-08-14 00:16:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息，義大利部長烏爾索預計西西里島將迎來資料中心投資。"
-    },
-    {
-      "id": "te:markets:575166",
-      "time": "2026-08-14 00:16:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "STOXX 50 Closes at Record High — European stocks closed mostly higher on Thursday with support strong earnings results across multiple sectors. The Euro STOXX 50 gained 0.2% to 6,544 and the STOXX Europe 600 inched down to 659. ASML added 2.7%, closing sharply higher for a second session and tracking the AI infrastructure sector in the US and Asia on the sector's respite. On top of that, Adyen surged 16.4% after raising its revenue forecast for the current year. Danish shipping giant Maersk surged 9.4% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations."
-    },
-    {
-      "id": "5039878",
-      "time": "2026-08-14 00:16:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，底特律汽車製造商將向白宮表示，修訂後的北美貿易協定可能令它們損失數十億美元。"
     }
   ]
 }
