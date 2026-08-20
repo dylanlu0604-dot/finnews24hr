@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-21 07:07:58",
-  "count": 16058,
+  "updated": "2026-08-21 07:11:49",
+  "count": 16055,
   "items": [
+    {
+      "id": "5050850",
+      "time": "2026-08-21 07:10:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【訊息稱SpaceX、AST擬收購價值60億美元頻譜資產】SpaceX以及ASTSpacemobile公司等企業，均已表達有意收購GrainManagement有限責任公司所持有的大片頻譜資源。這批800兆赫茲頻段許可，是Grain與美國T‑Mobile完成頻譜置換後獲得。該頻譜被認為極具價值，能夠助力衛星運營商搭建語音業務的地面鏈路。Grain已要求意向方在9月第一週前提交初步報價，希望透過出售這批許可獲得約60億美元，不過該公司也考慮採取頻譜容量出租的方案。"
+    },
+    {
+      "id": "te:economy:576975",
+      "time": "2026-08-21 07:10:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "UK Consumer Confidence Hits 2-Year High — The UK GfK Consumer Confidence Index rose to -14 in August 2026 from -17 in the previous month, marking the highest level in two years despite lingering geopolitical and economic uncertainty. Consumers became more optimistic about the economy and their personal finances over the next 12 months, while more households viewed the current period as a good time to make major purchases. Confidence has rebounded over the past two months, supported by the appointment of new Prime Minister Andy Burnham and easing energy prices. However, rapidly rising inflation is threatening to weigh on sentiment, with consumer prices climbing sharply in July to 2.9%, the highest in four months, driven by higher household energy costs. GfK warned that continued uncertainty surrounding the Middle East and elsewhere, along with persistent cost-of-living pressures, could test consumer confidence in the months ahead."
+    },
+    {
+      "id": "5050849",
+      "time": "2026-08-21 07:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都遭空襲 死亡人數升至15人】烏克蘭首都基輔市市長克利奇科20日下午在社交媒體發文說，俄羅斯軍方19日深夜至20日凌晨對基輔市發動的大規模空襲致死人數已升至15人，另有39人受傷。（央視新聞）"
+    },
     {
       "id": "mkt:01a0216d-55e8-7aab-90c2-d94d5606396f",
       "time": "2026-08-21 07:06:48",
@@ -146882,60 +146911,6 @@
         "公司"
       ],
       "text": "【“科技成長+週期修復”驅動 龍頭公司半年報亮眼】Wind資料顯示，截至8月13日17時，已有358家A股上市公司披露2026年半年報，其中超七成公司實現營業收入和歸母淨利潤的同比增長。在這些公司中，半導體、化工、有色金屬等行業景氣度上行，AI算力產業鏈龍頭公司業績增幅顯著。市場人士認為，上述公司的業績增長整體呈“科技成長+週期修復”雙輪驅動態勢。隨著半年報進入密集披露期，市場邏輯正從估值驅動向盈利驗證切換，科技賽道的龍頭公司業績表現值得關注。（中國證券報）"
-    },
-    {
-      "id": "mkt:019ffd65-3685-7aab-902f-64ff0169bf33",
-      "time": "2026-08-14 07:11:36",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【UNIFIL continues to monitor Lebanese airspace incursions】On the 13th the UN said the UN Interim Force in Lebanon (UNIFIL) has continued to monitor incursions into Lebanese airspace and Israeli ground military activity in southern Lebanon. Between the 10th and 12th UNIFIL logged 100 airspace violations involving drones and fighter jets and recorded 427 flight tracks, all attributed to the Israeli Defense Forces (IDF). UNIFIL also observed large-scale IDF ground operations within its declared \"area of operations\", including heavy armor deployments, engineering works, logistics movements, tactical patrols, force concentrations, and instances of tanks and artillery firing."
-    },
-    {
-      "id": "5040124",
-      "time": "2026-08-14 07:11:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯黎部隊持續監測到黎巴嫩領空遭侵犯事件】當地時間13日，聯合國方面表示，根據聯合國駐黎巴嫩臨時部隊（聯黎部隊）的報告，本週以來，聯黎部隊持續監測到黎巴嫩領空遭侵犯，以及以色列軍方在黎南部的地面軍事活動。在10日至12日期間，維和人員共發現100起黎巴嫩領空遭侵犯事件，涉及無人機和戰鬥機。同一時期，聯黎部隊記錄到427條飛行軌跡，均被認定來自以色列國防軍。此外，本週聯黎部隊持續觀察到以軍在其所謂“任務區”內開展大規模地面軍事活動，包括大規模裝甲部隊部署、工程作業、後勤調動、戰術巡邏以及兵力集結。還觀察到以軍部隊坦克、火炮等在區域內開火。"
-    },
-    {
-      "id": "5040123",
-      "time": "2026-08-14 07:10:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、上半年生態環境質量持續向好、主要指標明顯改善 新一輪空氣質量持續改善行動方案正抓緊制定（權威釋出·開局起步“十五五”）\n2、江蘇立足製造業基礎開闢新賽道——“老家底”長出新產業（活力中國調研行）\n3、七月末民營企業再貸款餘額約八千億元 金融服務實體經濟質效不斷提升\n4、新能源汽車兩個“首次”突破，意味著什麼（子夜走筆）\n5、《安全應急裝備產業發展“十五五”規劃》印發 到2030年重點領域產業規模達1.4萬億元\n6、中國對所有非洲建交國全面實施零關稅，埃及鮮橙開啟更廣闊市場——一顆鮮橙“兩頭甜”\n7、第二屆世界人形機器人運動會將於8月22日開幕\n8、中泰警方聯合偵破一起跨國信用卡盜刷案\n9、北京三家外賣平臺試點騎手計時“紅燈停表”\n10、安徽強化打擊治理電信網路詐騙\n11、迭代種植技術 拉長產業鏈 實現規模發展 因地制宜，特色產業鋪就富民路（經濟聚焦·老區新產業）\n12、西康高鐵啟動試執行\n13、截至今年6月 我國建成在建可再生能源制氫產能超140萬噸/年\n14、安徽出臺措施加快數智供應鏈發展\n15、中國新能源企業在中東遇見“幸福的煩惱”（環球走筆）。"
-    },
-    {
-      "id": "5040122",
-      "time": "2026-08-14 07:10:09",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、“加強新時代廉潔文化建設”（總書記的人民情懷）\n2、寧波以科技創新塑造先進製造業新優勢（“十五五”開好局起好步）\n3、李強簽署國務院令 公佈《國務院關於修改和廢止部分行政法規的決定》\n4、伊春林區轉型記\n5、美麗中國建設成效考核怎樣體現群眾滿意程度（政策問答·回應關切）\n6、全國碳排放權交易市場累計成交量超九億噸。"
-    },
-    {
-      "id": "5040121",
-      "time": "2026-08-14 07:09:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國能源部長賴特：美軍護航貨物透過霍爾木茲海峽地區的能力正在增強】美國能源部長克里斯·賴特表示，美軍護航和運輸貨物透過霍爾木茲海峽地區的能力正在增強。賴特在接受媒體時發表了講話。賴特表示，“我們將繼續看到霍爾木茲海峽的石油流量增加”。賴特表示，石油市場面臨的“瓶頸”在於煉油環節，而非原油交付環節。"
-    },
-    {
-      "id": "5040120",
-      "time": "2026-08-14 07:08:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【導致讀者流失，存在錯誤風險，法國“綜合新聞聯盟”抗議谷歌“AI摘要”】據法國新聞網11日報道，代表近300家法國媒體的專業組織“綜合新聞聯盟”（APIG）抗議谷歌推出的“AI摘要”功能。該機構已投訴至法國競爭管理局，媒體普遍擔心谷歌這一新服務會分流媒體網站訪問量，進而影響廣告收入。事件起因是谷歌於7月22日在法國推出由人工智慧生成的“AI摘要”功能，該服務在使用者使用搜尋引擎時，透過AI對搜尋結果進行對話式概括。雖然這個功能方便使用者快速知曉搜尋結果，但在APIG看來，這反而會讓使用者放棄繼續點選搜尋頁的網站連結，這顯然會影響媒體網站的流量和廣告收入。APIG援引法國視聽和數字監管局（Arcom）的評估報告認為，一旦谷歌在歐洲市場推出“AI摘要”服務，可能造成33%至38%的流量流失。（環球網）"
     }
   ]
 }

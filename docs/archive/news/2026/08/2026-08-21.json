@@ -1,7 +1,36 @@
 {
   "date": "2026-08-21",
-  "count": 470,
+  "count": 473,
   "items": [
+    {
+      "id": "5050850",
+      "time": "2026-08-21 07:10:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【訊息稱SpaceX、AST擬收購價值60億美元頻譜資產】SpaceX以及ASTSpacemobile公司等企業，均已表達有意收購GrainManagement有限責任公司所持有的大片頻譜資源。這批800兆赫茲頻段許可，是Grain與美國T‑Mobile完成頻譜置換後獲得。該頻譜被認為極具價值，能夠助力衛星運營商搭建語音業務的地面鏈路。Grain已要求意向方在9月第一週前提交初步報價，希望透過出售這批許可獲得約60億美元，不過該公司也考慮採取頻譜容量出租的方案。"
+    },
+    {
+      "id": "te:economy:576975",
+      "time": "2026-08-21 07:10:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "UK Consumer Confidence Hits 2-Year High — The UK GfK Consumer Confidence Index rose to -14 in August 2026 from -17 in the previous month, marking the highest level in two years despite lingering geopolitical and economic uncertainty. Consumers became more optimistic about the economy and their personal finances over the next 12 months, while more households viewed the current period as a good time to make major purchases. Confidence has rebounded over the past two months, supported by the appointment of new Prime Minister Andy Burnham and easing energy prices. However, rapidly rising inflation is threatening to weigh on sentiment, with consumer prices climbing sharply in July to 2.9%, the highest in four months, driven by higher household energy costs. GfK warned that continued uncertainty surrounding the Middle East and elsewhere, along with persistent cost-of-living pressures, could test consumer confidence in the months ahead."
+    },
+    {
+      "id": "5050849",
+      "time": "2026-08-21 07:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都遭空襲 死亡人數升至15人】烏克蘭首都基輔市市長克利奇科20日下午在社交媒體發文說，俄羅斯軍方19日深夜至20日凌晨對基輔市發動的大規模空襲致死人數已升至15人，另有39人受傷。（央視新聞）"
+    },
     {
       "id": "mkt:01a0216d-55e8-7aab-90c2-d94d5606396f",
       "time": "2026-08-21 07:06:48",
