@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-20 08:38:54",
+  "updated": "2026-08-20 08:42:46",
   "count": 15633,
   "items": [
+    {
+      "id": "5048772",
+      "time": "2026-08-20 08:41:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星宣佈將於下週釋出Galaxy S26最新機型】韓國三星電子公司週四表示，將於下週釋出其Galaxy S26智慧手機系列的最新機型。 該公司表示，釋出會將於8月27日線上舉行。 三星未直接公佈該產品的名稱，但據傳即將釋出的裝置為Galaxy S26 FE。 有洩露資訊顯示，Galaxy S26 FE將配備一塊6.7英寸的Dynamic AMOLED 2X顯示屏。 這款智慧手機預計將搭載三星Exynos 2500移動應用處理器，單次充電續航時間最長可達50小時，比Galaxy S25 FE多出約7.5小時。 後置攝像頭系統預計包括一枚5000萬畫素主攝、一枚1200萬畫素超廣角鏡頭和一枚800萬畫素長焦鏡頭。"
+    },
+    {
+      "id": "mkt:01a01c9c-7e30-7aab-90a4-844d0f0f4c8a",
+      "time": "2026-08-20 08:40:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dier Laser expands TGV lineup to etch and AOI; integrated orders start to appear】Dier Laser told investors on Aug. 19 that its TGV (through‑glass via) strategy now covers etching and AOI inspection equipment alongside its laser‑modification machines. Laser‑modification units continue to win orders and generate revenue; bundled orders for laser modification plus etch have begun to appear and AOI systems are under active validation. The company said it will supply standalone or matched equipment suites based on customer process flow, via geometry, substrate size and capacity needs as it broadens its TGV product matrix."
+    },
+    {
+      "id": "5048771",
+      "time": "2026-08-20 08:39:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震已造成319人死亡】當地時間8月19日，哥倫比亞國家災害風險管理局（UNGRD）釋出截至當天18時30分的最新災情統計，目前地震已造成319人死亡，4469人受傷，260人失蹤，364人獲救。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a01c9b-745f-7aab-90a4-7d6e39676ddc",
+      "time": "2026-08-20 08:39:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Wuhan Optics Valley unveils six brain–computer interface R&D platforms】On Aug. 18 at a Tongji Hospital–Tianqin Bio signing event in Wuhan, six brain–machine interface (BCI) R&D platforms were inaugurated, including provincial BCI innovation and proof‑of‑concept centers, Tongji Hospital’s BCI institute and joint translational lab with Tianqin Bio, and two laboratory animal centers. A package of projects was launched, led by a National Data Bureau BCI high‑quality dataset project with total funding of 122 mln yuan and a 24‑month build window to create multimodal datasets across 10 disease categories (stroke rehabilitation, spinal‑cord injury, Parkinson’s, epilepsy, etc.). Hubei health authorities also greenlighted translational projects for closed‑loop neural modulation BCI key technologies and a Optics Valley BCI data and compute platform."
+    },
+    {
+      "id": "5048770",
+      "time": "2026-08-20 08:38:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝爾鐳射：在TGV方向除鐳射改質裝置外，也在佈局刻蝕、AOI檢測等配套裝置】帝爾鐳射8月19日在機構電話會議上表示，從產品體系看，公司在TGV方向除鐳射改質裝置外，也在佈局刻蝕、AOI檢測等配套裝置。其中，鐳射改質裝置持續取得訂單和收入，鐳射改質裝置與刻蝕裝置已開始出現成套訂單，AOI檢測裝置正在積極驗證。未來，公司將根據客戶工藝路線、孔型設計、基板尺寸、產能要求等因素，靈活提供單機或配套裝置方案，持續豐富TGV產品矩陣。"
+    },
     {
       "id": "5048769",
       "time": "2026-08-20 08:38:12",
@@ -143310,48 +143353,6 @@
         "Dow"
       ],
       "text": "RBA's Kent said valuations in some equity markets do appear very generous."
-    },
-    {
-      "id": "5038326",
-      "time": "2026-08-13 08:42:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：薩爾瓦多奇里拉瓜地區發生5.5級地震。"
-    },
-    {
-      "id": "5038325",
-      "time": "2026-08-13 08:42:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【智譜納入MSCI中國指數】當地時間8月12日，明晟公司（MSCI）公佈了MSCI股票指數2026年8月指數審議結果。在本次調整中，MSCI中國指數新納入智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材等33只股票，剔除萬科A、智飛生物等32只股票。調整將於8月31日收盤後生效實施。本次調整中，MSCI全球標準指數將有55只證券被納入、92只證券被剔除。按公司總市值計算，本次被納入的新增成分股中，市值居前三位的標的為：閃迪、卡朋特科技和ATI。被納入MSCI新興市場指數的市值居前三位的新增成分股為：智譜、南亞科、鼎泰高科。在中國公司方面，MSCI中國指數本次新增33只標的，包括：智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材、風華高科、雅克科技、芯源微、綠的諧波、南亞新材、中船特氣、國瓷材料、深科技、精測電子等。（中證報）"
-    },
-    {
-      "id": "5038324",
-      "time": "2026-08-13 08:40:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【蘋果聘請美國航空前高管出任政府事務負責人】8月13日，據報道，蘋果已聘請美國航空集團前政府事務負責人內特·加滕（Nate Gatten）擔任公司政府事務副總裁，8月31日正式履新。現任政府事務負責人尼克·阿曼（Nick Ammann）等將轉向向加滕彙報。"
-    },
-    {
-      "id": "5038323",
-      "time": "2026-08-13 08:39:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Discovery Loop正就10億美元融資進行談判，估值達100億美元。"
-    },
-    {
-      "id": "5038322",
-      "time": "2026-08-13 08:39:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：08月13日08時35分在新疆喀什地區塔什庫爾幹縣附近（北緯37.18度，東經75.00度）發生4.9級左右地震，最終結果以正式速報為準。"
     }
   ]
 }
