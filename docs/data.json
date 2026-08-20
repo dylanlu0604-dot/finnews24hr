@@ -1,7 +1,204 @@
 {
-  "updated": "2026-08-20 19:35:59",
-  "count": 15885,
+  "updated": "2026-08-20 19:39:54",
+  "count": 15899,
   "items": [
+    {
+      "id": "mkt:01a01ef7-c91b-7aab-90b4-a6e6e60be13e",
+      "time": "2026-08-20 19:39:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US said aircraft carrier USS George Washington arrived in CENTCOM's area of responsibility yesterday."
+    },
+    {
+      "id": "5050053",
+      "time": "2026-08-20 19:38:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東嶽矽材：2026年上半年淨利潤4.29億元，同比增長916.22%】東嶽矽材公告，2026年上半年營業收入26.65億元，同比增長14.50%。歸屬於上市公司股東的淨利潤4.29億元，同比增長916.22%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4.69億元，同比增長943.70%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050052",
+      "time": "2026-08-20 19:38:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江陰銀行：2026年上半年淨利潤8.66億元，同比增長2.34%】江陰銀行公告，2026年上半年營業總收入24.49億元，同比增長1.98%；歸屬於上市公司股東的淨利潤8.66億元，同比增長2.34%；歸屬於上市公司股東的扣除非經常性損益的淨利潤8.62億元，同比增長4.25%。2026年中期利潤分配方案為：向全體股東每10股派發現金紅利人民幣1元（含稅）。"
+    },
+    {
+      "id": "mkt:01a01ef7-878c-7aab-90b4-99166fee933e",
+      "time": "2026-08-20 19:38:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bullish"
+      ],
+      "text": "Alibaba (09988.HK): AI applications and model services ARR has exceeded RMB16 bln."
+    },
+    {
+      "id": "5050051",
+      "time": "2026-08-20 19:38:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新宙邦：2026年上半年淨利潤9.84億元，同比增103.33%】新宙邦公告，2026年上半年營業收入74.63億元，同比增長75.66%。歸屬於上市公司股東的淨利潤9.84億元，同比增長103.33%；扣非淨利潤9.69億元，同比增長107.93%。上年同期淨利潤4.84億元。公司擬向全體股東每10股派發現金紅利3元（含稅）。"
+    },
+    {
+      "id": "5050050",
+      "time": "2026-08-20 19:38:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列一機場員工罷工引發混亂】以色列第12頻道今天（8月20日）報道稱，位於特拉維夫的本-古裡安國際機場當天因部分員工罷工出現嚴重運營混亂。機場管理層警告說，如果局面無法扭轉，機場可能被迫完全關閉。機場運營管理部門已宣佈進入“危機事件”狀態。 隸屬於以色列總工會的交通工人工會否認此次混亂由所謂“突發罷工”造成，並表示工會並未下達停工指令。機場工會主席平哈斯·伊丹則表示，危機根源在於長期存在的人員短缺問題。伊丹此前曾警告，機場目前缺少約400名工作人員，現有人員配置恐難應對8月的暑運高峰。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a01ef7-400f-7aab-90b4-92db8548d7e8",
+      "time": "2026-08-20 19:38:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported the Israel Airports Authority said flight operations at Ben-Gurion Airport will begin a phased resumption from 1500 local time under a revised schedule."
+    },
+    {
+      "id": "5050049",
+      "time": "2026-08-20 19:38:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華強科技：2026年上半年淨利潤952.79萬元，同比增長130.52%】華強科技公告，2026年上半年營業收入2.19億元，同比增長23.21%。歸屬於上市公司股東的淨利潤952.79萬元，同比增長130.52%，上年同期淨利潤413.32萬元。扣非淨利潤虧損1591.17萬元。公司擬向全體股東每10股派發現金紅利0.125元（含稅）。"
+    },
+    {
+      "id": "te:markets:576855",
+      "time": "2026-08-20 19:38:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Decline — Futures tracking US equities inched down on Thursday, paring the shy increase from last session following the Treasury's move to supress longer-term yields. Contracts for the S&P 500, Dow, and Nasdaq 100 fell up to 0.5%. Treasury yields rose across the curve to reflect concerns that the Treasury's efforts to prop up notes and bonds can worsen an already inflationary backdrop with ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump stated the US entered \"economic war\" against Iran, prolonging blockades of tankers crossing the Persian Gulf. Banks held their losses as short-term Treasury securities fell further. On top of that, AI hyperscalers were mostly lower premarket following the tepid financial results from OpenAI, which failed to grow at the same pace of rival Anthropic. Meanwhile, Walmart sank over 6% after its second-quarter sales fell short of expectations."
+    },
+    {
+      "id": "mkt:01a01ef6-f23a-7aab-90b4-8e85b74c7a43",
+      "time": "2026-08-20 19:38:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President VON DER LEYEN said actions amounting to an escalation of threats are underway, unnerving EU citizens and seeking to split the union."
+    },
+    {
+      "id": "5050048",
+      "time": "2026-08-20 19:38:08",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美債回吐回購計劃宣佈後的部分漲幅 30年期收益率重回5.2%上方】美債漲勢消退，油價上漲推動美國國債收益率上升2至3個基點。美國財政部週三提出擴大國債回購後引發的反彈亦逐漸失去動能，30年期美債收益率在前一交易日下跌9個基點後重新升破5.2%。英國國債同樣承壓，歐洲債市表現不一，德國國債小幅走強。美債收益率曲線溫和趨陡，2’s/10’s和2s30s利差較週二收盤擴大不到1個基點。美國10年期國債收益率在4.6755%左右，日內上漲3個基點；同期德國國債表現優於美債約4個基點，英國同期限國債收益率上漲1個基點。"
+    },
+    {
+      "id": "mkt:01a01ef6-acc9-7aab-90b4-850b5bc511e0",
+      "time": "2026-08-20 19:37:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "09988.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Alibaba (09988.HK) said it expects productivity AI agents to become an additional engine for annual recurring revenue growth."
+    },
+    {
+      "id": "5050047",
+      "time": "2026-08-20 19:37:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟馮德萊恩在羅馬尼亞擊落無人機後表態：一場逐步升級的威脅行動正在展開，它擾亂民眾的不安，並試圖分裂我們的聯盟。"
+    },
+    {
+      "id": "5050046",
+      "time": "2026-08-20 19:37:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴集團：預計智慧生產力助手將成為年度經常性收入（ARR）增長的新引擎。"
+    },
+    {
+      "id": "5050045",
+      "time": "2026-08-20 19:37:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬控智造：2026年上半年由盈轉虧，淨利潤虧損1873.51萬元】萬控智造公告，2026年上半年營業收入8.11億元，同比下降12.60%。歸屬於上市公司股東的淨利潤虧損1873.51萬元，上年同期淨利潤4433.25萬元。扣非淨利潤虧損2742.48萬元。"
+    },
+    {
+      "id": "5050044",
+      "time": "2026-08-20 19:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "黑石私募信貸基金：截至2026年7月31日淨資產總規模約為430億美元。"
+    },
+    {
+      "id": "5050043",
+      "time": "2026-08-20 19:36:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華智數媒：電影《空槍》上映2天 票房收入對公司營收暫無影響】華智數媒公告，公司參與投資的電影《空槍》已於8月19日起在中國大陸地區公映。截至8月20日17時，該影片在中國大陸地區上映2天，累計票房收入（含服務費）約為7280.54萬元，超過公司最近一個會計年度經審計的合併財務報表營業收入的50%。截至8月19日，按照約定的分賬規則，該影片票房收入金額對公司營業收入暫無影響。"
+    },
+    {
+      "id": "5050042",
+      "time": "2026-08-20 19:36:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：“8 月 20 日，喬治・華盛頓號航空母艦（CVN‑73）航行於阿拉伯海，美國水兵正在該艦飛行甲板作業。喬治・華盛頓號航母打擊群昨日抵達中央司令部轄區，按計劃部署，目前正在中東執行任務。”"
+    },
+    {
+      "id": "mkt:01a01ef4-e3b7-7aab-90b4-7f128c36a03b",
+      "time": "2026-08-20 19:36:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "9988.HK",
+        "Impact bullish"
+      ],
+      "text": "Alibaba (09988.HK) said Alibaba Cloud is undergoing a comprehensive upgrade, shifting to an intelligent-agent cloud. The company said AI and cloud revenue growth should further accelerate over the next few quarters."
+    },
+    {
+      "id": "5050041",
+      "time": "2026-08-20 19:35:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬控智造：新增控股子公司日常關聯交易預計2650萬元】萬控智造公告稱，公司控股子公司浙江東爵自2026年8月起納入合併報表範圍，出於謹慎性原則，公司對浙江東爵與江西源華電器2026年8月1日至2027年5月28日期間的日常關聯交易進行預計，合計預計金額2650萬元（不含稅），涵蓋銷售商品、採購商品、委託加工三類，該事項已經公司董事會審議透過，無需提交股東會審議。交易定價公允，不會影響公司業務獨立性。"
+    },
+    {
+      "id": "5050040",
+      "time": "2026-08-20 19:35:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴集團：下一財季人工智慧與雲業務收入增長將進一步加快。"
+    },
     {
       "id": "5050039",
       "time": "2026-08-20 19:35:12",
@@ -101,6 +298,16 @@
       "text": "【三生國健：安弗利奇塔單抗注射液新藥上市申請獲批】三生國健公告稱，公司自主研發的1類生物製品創新藥安弗利奇塔單抗注射液（皮下注射，商品名益賽那®）上市申請獲國家藥品監督管理局批准，獲批適應症為治療對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該產品單次給藥可緩解急性期疼痛、降低復發風險，安全性良好。本次獲批將擴充公司自免產品矩陣，對未來業績提升有一定積極作用，當前不會對公司財務及經營成果產生重大影響，產品未來銷售存在不確定性。"
     },
     {
+      "id": "5050029",
+      "time": "2026-08-20 19:32:06",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普威脅對伊朗實施經濟行動 國際油價上漲超2%】美國總統特朗普威脅對伊朗實施“經濟戰”後，國際油價當天上漲超過2%。截至當天上午，全球基準布倫特原油期貨價格上漲2.4%，接近每桶94美元，創7月底以來最高水平；美國基準西得克薩斯中質原油（WTI）期貨價格上漲2.5%，至每桶86美元。特朗普19日警告稱，美國將對伊朗實施“毀滅性的經濟行動”，但沒有公佈具體措施。他還威脅懲罰與伊朗開展業務或向伊朗提供“任何形式生命線”的國家。特朗普19日在社交媒體“真實社交”（Truth Social）上寫道，伊朗的石油走私、互換額度、現金轉賬、兌換機構、船舶登記以及空殼公司等活動“現在都必須停止”。訊息稱，本週美伊局勢進一步升級。美國和伊朗就和平協議進行談判的最後期限於18日正式到期，此前雙方關係已經急劇惡化，且戰事重新爆發。訊息稱，儘管越來越多的石油透過其他途徑運出中東，但霍爾木茲海峽仍基本處於關閉狀態，能源價格維持高位，並推高全球通脹。英國和歐元區19日公佈的資料顯示，兩地7月消費者價格指數同比漲幅均為2.9%，能源價格上漲是推動因素之一。（央視新聞）"
+    },
+    {
       "id": "mkt:01a01ef0-ff0b-7aab-90b4-6b177d85e252",
       "time": "2026-08-20 19:31:45",
       "tags": [
@@ -183,6 +390,14 @@
         "MKT News"
       ],
       "text": "Turkey's central bank said FX reserves were $75.17 billion as of Aug. 14, up from $71.02 billion a week earlier."
+    },
+    {
+      "id": "5050022",
+      "time": "2026-08-20 19:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其中央銀行資料顯示，截至8月14日，土耳其中央銀行外匯儲備總額為751.7億美元，前一週為710.2億美元。"
     },
     {
       "id": "5050021",
@@ -145368,89 +145583,6 @@
         "其他"
       ],
       "text": "訊息人士稱，沙特阿美以臨時特別安排調整九月對亞洲的原油供應配額。"
-    },
-    {
-      "id": "mkt:019ffaea-eb35-7aab-9023-13c309ec551b",
-      "time": "2026-08-13 19:38:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Brown Brothers Harriman: GBP/USD directionless near 1.3500; July CPI key for BoE】Brown Brothers Harriman analyst Elias Haddad says GBP/USD is directionless around 1.3500 after UK Q2 and June GDP showed encouraging activity, but he expects those data are unlikely to change Bank of England rate expectations. Q2 growth was driven by gross fixed capital formation and household consumption, while government spending was the largest drag, reflecting declines in health and education. Haddad says inflation, not GDP, is the BoE's bigger concern and the July CPI report due next week will be more important for policy."
-    },
-    {
-      "id": "5039411",
-      "time": "2026-08-13 19:38:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿爾達格金屬包裝因潛在出售傳聞盤前上漲 8.9%。"
-    },
-    {
-      "id": "te:markets:575086",
-      "time": "2026-08-13 19:38:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Hou Hai Precision earnings above expectations at 4.27 TWD — Hou Hai Precision (2317) released earnings per share at 4.27 TWD, compared to market expectations of 4.10 TWD."
-    },
-    {
-      "id": "5039410",
-      "time": "2026-08-13 19:38:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【AI 智慧代理或將大幅推高 CPU 需求】美銀將 2030 年伺服器 CPU 市場規模預期從 1700 億美元上調至 2100 億美元以上，該數值接近 2025 年預估市場規模的 5 倍。AI 智慧代理正推動 CPU 從輔助角色轉向編排控制層，CPU 與 GPU 配比或將從 1:4 向 1:1 轉變。美銀預計，到 2030 年前該市場年複合增速可達 36%。AMD 仍是其首選 CPU 標的，英偉達為整個板塊的首選標的。"
-    },
-    {
-      "id": "5039409",
-      "time": "2026-08-13 19:37:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "直覺機器公司盤前股價下跌幅度擴大至10%。"
-    },
-    {
-      "id": "mkt:019ffae9-6ec8-7aab-9023-09500717d161",
-      "time": "2026-08-13 19:37:09",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "【Nomura: Riksbank likely to hold rates in August】Nomura strategists forecast the Riksbank will leave the policy rate at 1.75% in August and keep rates unchanged through 2026. Stronger domestic activity, Middle East-related energy risks and expected further ECB tightening (Nomura sees another ECB hike in September after one earlier this year) raise the probability of an earlier Riksbank hike; Nomura says these factors are unlikely to produce a pro‑hike vote in August but constitute a tail risk that a rate rise could occur sooner than its current December 2027 baseline."
-    },
-    {
-      "id": "5039408",
-      "time": "2026-08-13 19:36:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿爾達格集團為旗下阿爾達格金屬包裝業務的潛在出售做準備。"
-    },
-    {
-      "id": "mkt:019ffae9-0540-7aab-9023-008011f6f421",
-      "time": "2026-08-13 19:36:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shares of Intuition Machine extended losses to 10%."
-    },
-    {
-      "id": "5039407",
-      "time": "2026-08-13 19:36:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "IREN 繼續致力於在2026年將AI雲容量（總容量）擴大至480兆瓦，並在2027年達到1.2吉瓦（總容量）。"
     }
   ]
 }
