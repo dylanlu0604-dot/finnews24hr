@@ -1,7 +1,17 @@
 {
   "date": "2026-08-21",
-  "count": 394,
+  "count": 395,
   "items": [
+    {
+      "id": "mkt:01a02115-eb65-7aab-90c1-e7c42245c0a5",
+      "time": "2026-08-21 05:31:19",
+      "tags": [
+        "MKT News",
+        "C.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say ANTHROPIC plans to add CITIGROUP as a lead underwriter for a large IPO."
+    },
     {
       "id": "5050815",
       "time": "2026-08-21 05:29:50",

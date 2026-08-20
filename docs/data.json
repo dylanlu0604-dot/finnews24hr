@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-21 05:30:28",
-  "count": 16066,
+  "updated": "2026-08-21 05:34:22",
+  "count": 16064,
   "items": [
+    {
+      "id": "mkt:01a02115-eb65-7aab-90c1-e7c42245c0a5",
+      "time": "2026-08-21 05:31:19",
+      "tags": [
+        "MKT News",
+        "C.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say ANTHROPIC plans to add CITIGROUP as a lead underwriter for a large IPO."
+    },
     {
       "id": "5050815",
       "time": "2026-08-21 05:29:50",
@@ -146953,34 +146963,6 @@
         "MKT News"
       ],
       "text": "Axios reports Kushner is expected to travel to Cairo next week to meet with Egyptian mediators."
-    },
-    {
-      "id": "5040069",
-      "time": "2026-08-14 05:34:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "據知情人士透露， 庫什納預計下週還將前往開羅，與埃及調解方舉行會談。"
-    },
-    {
-      "id": "mkt:019ffd0b-4e0b-7aab-902e-995b33eb79f8",
-      "time": "2026-08-14 05:33:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "RDDT.N",
-        "Impact bullish"
-      ],
-      "text": "Reddit (RDDT.N) U.S. shares rose more than 12% in after-hours trading."
-    },
-    {
-      "id": "5040068",
-      "time": "2026-08-14 05:31:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "檔案顯示AMD的47.5億美元高階無擔保票據發行定價方案已確定，共分為四個批次。"
     }
   ]
 }
