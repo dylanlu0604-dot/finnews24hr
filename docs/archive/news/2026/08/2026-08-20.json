@@ -1,7 +1,79 @@
 {
   "date": "2026-08-20",
-  "count": 1137,
+  "count": 1145,
   "items": [
+    {
+      "id": "mkt:01a01db8-2f3f-7aab-90a9-a4e311dee5b2",
+      "time": "2026-08-20 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "USDCHF"
+      ],
+      "text": "Germany's July PPI MoM and Switzerland's July trade balance due in 10 minutes."
+    },
+    {
+      "id": "5049102",
+      "time": "2026-08-20 13:49:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想創投、牧原實業集團入股基因編輯豬研發商中科奧格】企查查APP顯示，近日，成都中科奧格生物科技有限公司發生工商變更，新增上海聯想未來創業投資合夥企業（有限合夥）、牧原實業集團有限公司等為股東，同時註冊資本增至1937.12萬元。企查查資訊顯示，該公司成立於2018年，經營範圍包含：自然科學研究和試驗發展；醫學研究和試驗發展；工程和技術研究和試驗發展等。公開資訊顯示，中科奧格專注基因編輯豬研發及異種器官移植全產業鏈突破。"
+    },
+    {
+      "id": "5049101",
+      "time": "2026-08-20 13:48:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直擊WRC丨英偉達創始人兼CEO黃仁勳之女黃敏珊到訪WRC越疆機器人展位】2026世界機器人大會（WRC 2026）期間，英偉達創始人兼CEO黃仁勳之女黃敏珊到訪WRC越疆機器人展位，並重點參觀“一腦多體”具身智慧平臺解決方案與乒乓球高速人機對抗兩大演示，現場呈現英偉達與越疆在物理AI領域的深度合作成果。此前，越疆機器人正式加入英偉達物理AI全球生態夥伴體系，加速具身智慧機器人的研發與落地程序。 雙方在全棧算力、基礎模型與模擬技術上開展深度合作，越疆的機械臂、機器狗以及人形機器人均應用了英偉達的產品與技術體系。（新浪科技）"
+    },
+    {
+      "id": "5049100",
+      "time": "2026-08-20 13:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中白“神鷹-2026”空降兵聯訓轉入綜合演練階段】近日，中國與白俄羅斯“神鷹-2026”空降兵聯合訓練在中國空軍某訓練中心有序推進。目前，兩軍參訓官兵已完成基礎強訓、協同精訓階段任務，自昨天起轉入綜合演練階段。前期訓練中，兩軍官兵採取混合編組、互學互鑑模式，圍繞既定課目開展專攻精練，規範協同流程、磨合戰術打法，穩步夯實聯合反恐作戰能力基礎。在綜合演練階段，雙方將緊扣實戰背景，開展全要素綜合演練，重點錘鍊兩軍聯合指揮、協同行動的實戰本領，持續深化兩軍務實合作，共同提升遂行聯合反恐任務能力。（央視新聞）"
+    },
+    {
+      "id": "5049099",
+      "time": "2026-08-20 13:48:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下降8個基點至3.695%。"
+    },
+    {
+      "id": "5049098",
+      "time": "2026-08-20 13:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：海外需求提振矽片電池片行情，9月中旬或迎價格考驗】矽片環節去庫成效顯著，當前庫存已下降至25GW左右。受海外政策變化影響，矽片出口明顯增加，疊加市場“買漲不買跌”的情緒，高價訂單迅速落地。不同尺寸矽片價格呈現分化態勢，183、210R與210實際成交價分別來到1.12元、1.15元和1.25元/片。其中183尺寸矽片因海外需求旺盛且前期開工率低，價格迎來強勁反彈；而210尺寸矽片需求仍以國內市場為主，整體表現相對平淡，價格漲幅明顯低於183尺寸。預計出口強勁態勢可延續至9月中旬，短期價格有望維持高位，但需警惕後續出口退潮與政策落地不及預期的回落風險。"
+    },
+    {
+      "id": "5049097",
+      "time": "2026-08-20 13:47:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部稱俄軍對基輔目標實施大規模打擊】當地時間8月20日，俄羅斯國防部通報稱，當日凌晨，俄聯邦武裝力量使用陸基、空基、海基高精度武器以及遠端無人機，對烏克蘭基輔市及基輔州的軍事工業企業、交通物流中心和倉庫實施了大規模打擊。"
+    },
+    {
+      "id": "te:markets:576728",
+      "time": "2026-08-20 13:46:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Erases Gains at Finish, Down 0.1% — New Zealand stocks edged down 10 points, or 0.1%, to close at 13,920 on Thursday, reversing gains in morning trade and ending gains from the previous two sessions, mainly weighed down by energy, consumer staples, and industrials. Traders took profit after the broader index hit its highest level since August 5 a day earlier, when the index reached a record high. However, gains in communication services, financials, and healthcare capped the fall. Gains in US stock futures also limited the decline amid a sharp drop in Treasury yields. Among the biggest laggards were ANZ Group (-3.3%), A2 Milk (-2.1%), Briscoe Group (-1.8%), Auckland International Airport (-1.5%), Chorus (-1.5%), and EBOS Group (-1.3%). By contrast, Spark New Zealand, New Zealand's largest telecommunications company, surged 6.4%, following a 91.9% jump in net profit for H2 2026. Skellerup Holdings rose 1.4% after posting a 24.2% jump in net profit."
+    },
     {
       "id": "5049096",
       "time": "2026-08-20 13:46:05",

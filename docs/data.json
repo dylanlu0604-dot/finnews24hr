@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-20 13:46:53",
+  "updated": "2026-08-20 13:50:53",
   "count": 15666,
   "items": [
+    {
+      "id": "mkt:01a01db8-2f3f-7aab-90a9-a4e311dee5b2",
+      "time": "2026-08-20 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "USDCHF"
+      ],
+      "text": "Germany's July PPI MoM and Switzerland's July trade balance due in 10 minutes."
+    },
+    {
+      "id": "5049102",
+      "time": "2026-08-20 13:49:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想創投、牧原實業集團入股基因編輯豬研發商中科奧格】企查查APP顯示，近日，成都中科奧格生物科技有限公司發生工商變更，新增上海聯想未來創業投資合夥企業（有限合夥）、牧原實業集團有限公司等為股東，同時註冊資本增至1937.12萬元。企查查資訊顯示，該公司成立於2018年，經營範圍包含：自然科學研究和試驗發展；醫學研究和試驗發展；工程和技術研究和試驗發展等。公開資訊顯示，中科奧格專注基因編輯豬研發及異種器官移植全產業鏈突破。"
+    },
+    {
+      "id": "5049101",
+      "time": "2026-08-20 13:48:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直擊WRC丨英偉達創始人兼CEO黃仁勳之女黃敏珊到訪WRC越疆機器人展位】2026世界機器人大會（WRC 2026）期間，英偉達創始人兼CEO黃仁勳之女黃敏珊到訪WRC越疆機器人展位，並重點參觀“一腦多體”具身智慧平臺解決方案與乒乓球高速人機對抗兩大演示，現場呈現英偉達與越疆在物理AI領域的深度合作成果。此前，越疆機器人正式加入英偉達物理AI全球生態夥伴體系，加速具身智慧機器人的研發與落地程序。 雙方在全棧算力、基礎模型與模擬技術上開展深度合作，越疆的機械臂、機器狗以及人形機器人均應用了英偉達的產品與技術體系。（新浪科技）"
+    },
+    {
+      "id": "5049100",
+      "time": "2026-08-20 13:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中白“神鷹-2026”空降兵聯訓轉入綜合演練階段】近日，中國與白俄羅斯“神鷹-2026”空降兵聯合訓練在中國空軍某訓練中心有序推進。目前，兩軍參訓官兵已完成基礎強訓、協同精訓階段任務，自昨天起轉入綜合演練階段。前期訓練中，兩軍官兵採取混合編組、互學互鑑模式，圍繞既定課目開展專攻精練，規範協同流程、磨合戰術打法，穩步夯實聯合反恐作戰能力基礎。在綜合演練階段，雙方將緊扣實戰背景，開展全要素綜合演練，重點錘鍊兩軍聯合指揮、協同行動的實戰本領，持續深化兩軍務實合作，共同提升遂行聯合反恐任務能力。（央視新聞）"
+    },
+    {
+      "id": "5049099",
+      "time": "2026-08-20 13:48:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下降8個基點至3.695%。"
+    },
+    {
+      "id": "5049098",
+      "time": "2026-08-20 13:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：海外需求提振矽片電池片行情，9月中旬或迎價格考驗】矽片環節去庫成效顯著，當前庫存已下降至25GW左右。受海外政策變化影響，矽片出口明顯增加，疊加市場“買漲不買跌”的情緒，高價訂單迅速落地。不同尺寸矽片價格呈現分化態勢，183、210R與210實際成交價分別來到1.12元、1.15元和1.25元/片。其中183尺寸矽片因海外需求旺盛且前期開工率低，價格迎來強勁反彈；而210尺寸矽片需求仍以國內市場為主，整體表現相對平淡，價格漲幅明顯低於183尺寸。預計出口強勁態勢可延續至9月中旬，短期價格有望維持高位，但需警惕後續出口退潮與政策落地不及預期的回落風險。"
+    },
+    {
+      "id": "5049097",
+      "time": "2026-08-20 13:47:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部稱俄軍對基輔目標實施大規模打擊】當地時間8月20日，俄羅斯國防部通報稱，當日凌晨，俄聯邦武裝力量使用陸基、空基、海基高精度武器以及遠端無人機，對烏克蘭基輔市及基輔州的軍事工業企業、交通物流中心和倉庫實施了大規模打擊。"
+    },
+    {
+      "id": "te:markets:576728",
+      "time": "2026-08-20 13:46:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Erases Gains at Finish, Down 0.1% — New Zealand stocks edged down 10 points, or 0.1%, to close at 13,920 on Thursday, reversing gains in morning trade and ending gains from the previous two sessions, mainly weighed down by energy, consumer staples, and industrials. Traders took profit after the broader index hit its highest level since August 5 a day earlier, when the index reached a record high. However, gains in communication services, financials, and healthcare capped the fall. Gains in US stock futures also limited the decline amid a sharp drop in Treasury yields. Among the biggest laggards were ANZ Group (-3.3%), A2 Milk (-2.1%), Briscoe Group (-1.8%), Auckland International Airport (-1.5%), Chorus (-1.5%), and EBOS Group (-1.3%). By contrast, Spark New Zealand, New Zealand's largest telecommunications company, surged 6.4%, following a 91.9% jump in net profit for H2 2026. Skellerup Holdings rose 1.4% after posting a 24.2% jump in net profit."
+    },
     {
       "id": "5049096",
       "time": "2026-08-20 13:46:05",
@@ -143720,82 +143792,6 @@
         "MKT News"
       ],
       "text": "Emails show an Indian auto-industry lobby group and automakers including Maruti, Tata and Mahindra discussed pollution concerns linked to E20 fuel before withdrawing a complaint to the government."
-    },
-    {
-      "id": "5038667",
-      "time": "2026-08-13 13:50:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "長鑫科技成交額超200億元，現漲0.43%。"
-    },
-    {
-      "id": "mkt:019ff9ab-bb97-7aab-9019-534bf74fa7c1",
-      "time": "2026-08-13 13:50:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "UK Q2 GDP preliminary (annualized), three‑month GDP MoM for June, June seasonally adjusted goods trade balance, and June industrial and manufacturing production MoM are due in ten minutes."
-    },
-    {
-      "id": "5038666",
-      "time": "2026-08-13 13:49:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聖泉集團在山東成立材料科技新公司】企查查APP顯示，近日，山東奈思材料科技有限公司成立，經營範圍包含新材料技術研發；新材料技術推廣服務；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由聖泉集團全資持股。"
-    },
-    {
-      "id": "mkt:019ff9aa-0feb-7aab-9019-4c9afd795ac8",
-      "time": "2026-08-13 13:48:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share power sector briefly rallied; Meiyan Jixiang hit the daily limit, while Li New Energy, Datang Power Generation, GCL Energy Technology and Jingneng Power also rose."
-    },
-    {
-      "id": "5038665",
-      "time": "2026-08-13 13:47:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026未來科學大獎獲獎者名單公佈】未來科學大獎評審委員會8月13日公佈2026年獲獎名單。中國科學院生物物理研究所研究員張宏因其在揭示多細胞生物特有的自噬機制及生理功能方面作出的開創性貢獻獲得“生命科學獎”；復旦大學教授趙東元因其對介孔材料的開創性貢獻獲得“物質科學獎”；北京大學北京國際數學研究中心教授袁新意因其在算術幾何領域作出的奠基性貢獻獲得“數學與電腦科學獎”。"
-    },
-    {
-      "id": "5038664",
-      "time": "2026-08-13 13:47:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【人民幣首超港元 登頂香港外匯交易最大貨幣對】香港財資市場公會（TMA）最新公佈的香港外匯市場半年度調查結果顯示，2026年4月，香港外匯交易日均成交額為9082億美元，其中美元兌人民幣交易量首次超越美元兌港元，躍居香港市場交投最活躍的貨幣對。具體來看，4月美元兌人民幣日均成交2740億美元，佔香港全部外匯交易的30.2%，超過美元兌港元的2402億美元（佔比26.4%）。其中，美元兌離岸人民幣交易額達2592億美元，成為主力。業內分析認為，香港以港元為本地貨幣，而美元兌人民幣卻成為其成交最活躍的貨幣對，這凸顯了香港長期以來的離岸人民幣業務樞紐定位。（上證報）"
-    },
-    {
-      "id": "mkt:019ff9a9-450b-7aab-9019-463927215cf4",
-      "time": "2026-08-13 13:47:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【RMB surpasses HKD to become Hong Kong's top FX pair】The Hong Kong Treasury Markets Association's semiannual FX survey shows average daily FX turnover in Hong Kong was $908.2 bln in April 2026. USD/CNH averaged $274.0 bln/day (30.2% of turnover), overtaking USD/HKD at $240.2 bln (26.4%). Offshore RMB accounted for $259.2 bln of USD/CNH volume and was the main driver. The shift highlights Hong Kong's continued role as an offshore RMB hub."
-    },
-    {
-      "id": "5038663",
-      "time": "2026-08-13 13:47:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國總統李在明：房地產泡沫已不容忽視】韓國總統李在明週四在與幕僚的一次會議上表示，房地產是韓國面臨的一個重要問題，深刻影響著社會的方方面面，而房地產泡沫已經達到不容忽視的程度。“社會資源長期以來過度集中於房地產領域，加劇了社會兩極分化和不平等現象，”李在明稱。他指出，如果這種情況持續下去，韓國可能會像其他國家一樣，面臨“失去的20年或30年”。李在明表示，韓國必須動用一切可用手段和能力來解決房地產問題，這個問題就像“定時炸彈，威脅著人民生活和國家未來”。韓國必須完善供給、稅收和金融政策以實現市場正常化，推動住房市場恢復穩定。"
     }
   ]
 }
