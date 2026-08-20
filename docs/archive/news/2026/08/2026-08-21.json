@@ -1,7 +1,56 @@
 {
   "date": "2026-08-21",
-  "count": 234,
+  "count": 239,
   "items": [
+    {
+      "id": "5050730",
+      "time": "2026-08-21 02:27:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特朗普政府允許提前銷售冬季汽油，從而抑制價格。"
+    },
+    {
+      "id": "mkt:01a0206c-9c8c-7aab-90bf-e8b2fd89f409",
+      "time": "2026-08-21 02:26:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. treasury secretary threatens 'unprecedented economic isolation' of Iran】On the 20th U.S. Treasury Secretary Bessent said the Trump administration will step up pressure on Iran and threatened measures amounting to \"unprecedented economic isolation.\" He called it \"the largest, most coordinated economic isolation in history\" and said a press briefing on the 24th will set out specific actions. Bessent urged U.S. allies to align with Washington—\"we want to overthrow this regime\"—and warned countries to stand with or against the U.S. He added the plan to cripple Iran's economy could make a large-scale military operation unnecessary."
+    },
+    {
+      "id": "5050729",
+      "time": "2026-08-21 02:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯發生6.7級地震 震源深度100千米】中國地震臺網正式測定：8月21日2時00分在秘魯（南緯14.70度，西經73.30度）發生6.7級地震，震源深度100千米。（央視新聞）"
+    },
+    {
+      "id": "5050728",
+      "time": "2026-08-21 02:25:15",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美財長威脅對伊朗實施“前所未有的經濟孤立”】美國財政部長貝森特20日表示，特朗普政府將加大對伊朗經濟施壓，並威脅對伊朗實施“前所未有的經濟孤立”措施。貝森特當天在接受美國全國廣播公司專訪時稱，“這將是歷史上規模最大、協調一致的經濟孤立”。他表示，將在24日召開新聞釋出會詳細說明具體行動內容。貝森特還向所有美國盟友“喊話”，“我們要推翻這個政權”，並警告說要麼與美國站在一起，要麼與美國為敵。貝森特稱，特朗普政府重創伊朗經濟的計劃可能使美國無需再對伊朗發動大規模軍事行動。（新華社）"
+    },
+    {
+      "id": "te:markets:576949",
+      "time": "2026-08-21 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 3.17% — Top commodity losers are Oat (-3.17%) and Rapeseed (-1.26%). Gains are led by Rubber (1.51%) and Palm Oil (1.39%)."
+    },
     {
       "id": "5050727",
       "time": "2026-08-21 02:23:26",
