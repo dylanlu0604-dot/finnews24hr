@@ -1,7 +1,53 @@
 {
   "date": "2026-08-20",
-  "count": 2890,
+  "count": 2895,
   "items": [
+    {
+      "id": "mkt:01a01f54-704b-7aab-90b8-7cc92f0273a5",
+      "time": "2026-08-20 21:20:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "An Indian government order permits duty-free imports of sugar."
+    },
+    {
+      "id": "mkt:01a01f54-0e84-7aab-90b8-737aca9576a2",
+      "time": "2026-08-20 21:19:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WMT.O",
+        "Impact bullish"
+      ],
+      "text": "【Walmart CEO says AI will improve nearly all operations】Walmart CEO John Furner said he expects AI to improve nearly all of the company's operations, enhancing the customer shopping experience and easing employee tasks. He cited the retailer's AI shopping assistant Sparky, noting Sparky users are up 70% YoY and Sparky users and members spend about 40% more per order than non-users. Furner gave a use case where Sparky generated a high‑protein weekly meal plan, produced recipes and meal-kit options within seconds, and could add all required ingredients to the cart with one click."
+    },
+    {
+      "id": "5050310",
+      "time": "2026-08-20 21:19:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度政府令：允許免稅進口食糖。"
+    },
+    {
+      "id": "5050309",
+      "time": "2026-08-20 21:19:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【龔正會見厄瓜多總統諾沃亞】上海市市長龔正今天（8月20日）會見了厄瓜多總統諾沃亞一行。龔正代表上海市人民政府，對諾沃亞總統到訪上海表示熱烈歡迎。龔正說，中國和厄瓜多友誼源遠流長，上海與厄瓜多友好往來十分密切，先後與瓜亞基爾市、基多市結好，雙方開展了廣泛務實合作。當前，我們正按照習近平主席和中央政府對上海的發展戰略定位，加快建成具有世界影響力的社會主義現代化國際大都市。我們將認真落實兩國元首達成的重要共識，發揮地方合作優勢，為兩國務實合作作出上海的積極貢獻。厄瓜多是中國在拉美重要的貿易伙伴，希望進一步加強與厄瓜多在經貿和產業投資等領域的交流合作，實現更高水平的互利共贏，為兩地人民創造更大福祉。熱忱歡迎更多的厄瓜多企業、更豐富的厄瓜多產品亮相進博會。期待雙方進一步加強青少年、文化、藝術等方面交流合作，推動更多民眾到對方旅遊，加深瞭解、增進友誼。（上海釋出）"
+    },
+    {
+      "id": "5050308",
+      "time": "2026-08-20 21:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼陽市第三人民醫院通報孕婦因醫生疏忽誤服液體事件處理情況】8月20日，遼陽市第三人民醫院釋出通報：8月7日，孕婦朱某某到我院產科門診進行糖耐量篩查產檢，由於接診醫生將新柏氏細胞儲存液與篩查所用的口服葡萄糖粉混放存放、現場核對不嚴、宣教指導流程落實不到位，院內製度執行不嚴格，導致朱某某誤服新柏氏細胞儲存液。朱某某發現誤服後，立即告知醫生，我院馬上組織專家團隊開展多學科會診和母胎監護，並收入院治療。經國內權威醫療機構檢測，朱某某誤服後24小時內血液甲醇濃度檢測結果為0，無中毒反應，孕婦和胎兒各項指標連日來持續監測均正常。後續，我院將持續做好母嬰安全監測保障。現已對涉事醫生進行暫停執業處理，同時我院積極配合市衛生健康委做好後續調查處理。對於本次事件，我們深表歉意。我院將全面開展醫療安全隱患排查，積極整改，強化管理，為群眾提供安全優質的醫療服務。（央視新聞）"
+    },
     {
       "id": "5050307",
       "time": "2026-08-20 21:17:10",

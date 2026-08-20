@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-20 21:19:36",
-  "count": 15949,
+  "updated": "2026-08-20 21:23:36",
+  "count": 15942,
   "items": [
+    {
+      "id": "mkt:01a01f54-704b-7aab-90b8-7cc92f0273a5",
+      "time": "2026-08-20 21:20:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "An Indian government order permits duty-free imports of sugar."
+    },
+    {
+      "id": "mkt:01a01f54-0e84-7aab-90b8-737aca9576a2",
+      "time": "2026-08-20 21:19:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "WMT.O",
+        "Impact bullish"
+      ],
+      "text": "【Walmart CEO says AI will improve nearly all operations】Walmart CEO John Furner said he expects AI to improve nearly all of the company's operations, enhancing the customer shopping experience and easing employee tasks. He cited the retailer's AI shopping assistant Sparky, noting Sparky users are up 70% YoY and Sparky users and members spend about 40% more per order than non-users. Furner gave a use case where Sparky generated a high‑protein weekly meal plan, produced recipes and meal-kit options within seconds, and could add all required ingredients to the cart with one click."
+    },
+    {
+      "id": "5050310",
+      "time": "2026-08-20 21:19:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度政府令：允許免稅進口食糖。"
+    },
+    {
+      "id": "5050309",
+      "time": "2026-08-20 21:19:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【龔正會見厄瓜多總統諾沃亞】上海市市長龔正今天（8月20日）會見了厄瓜多總統諾沃亞一行。龔正代表上海市人民政府，對諾沃亞總統到訪上海表示熱烈歡迎。龔正說，中國和厄瓜多友誼源遠流長，上海與厄瓜多友好往來十分密切，先後與瓜亞基爾市、基多市結好，雙方開展了廣泛務實合作。當前，我們正按照習近平主席和中央政府對上海的發展戰略定位，加快建成具有世界影響力的社會主義現代化國際大都市。我們將認真落實兩國元首達成的重要共識，發揮地方合作優勢，為兩國務實合作作出上海的積極貢獻。厄瓜多是中國在拉美重要的貿易伙伴，希望進一步加強與厄瓜多在經貿和產業投資等領域的交流合作，實現更高水平的互利共贏，為兩地人民創造更大福祉。熱忱歡迎更多的厄瓜多企業、更豐富的厄瓜多產品亮相進博會。期待雙方進一步加強青少年、文化、藝術等方面交流合作，推動更多民眾到對方旅遊，加深瞭解、增進友誼。（上海釋出）"
+    },
+    {
+      "id": "5050308",
+      "time": "2026-08-20 21:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼陽市第三人民醫院通報孕婦因醫生疏忽誤服液體事件處理情況】8月20日，遼陽市第三人民醫院釋出通報：8月7日，孕婦朱某某到我院產科門診進行糖耐量篩查產檢，由於接診醫生將新柏氏細胞儲存液與篩查所用的口服葡萄糖粉混放存放、現場核對不嚴、宣教指導流程落實不到位，院內製度執行不嚴格，導致朱某某誤服新柏氏細胞儲存液。朱某某發現誤服後，立即告知醫生，我院馬上組織專家團隊開展多學科會診和母胎監護，並收入院治療。經國內權威醫療機構檢測，朱某某誤服後24小時內血液甲醇濃度檢測結果為0，無中毒反應，孕婦和胎兒各項指標連日來持續監測均正常。後續，我院將持續做好母嬰安全監測保障。現已對涉事醫生進行暫停執業處理，同時我院積極配合市衛生健康委做好後續調查處理。對於本次事件，我們深表歉意。我院將全面開展醫療安全隱患排查，積極整改，強化管理，為群眾提供安全優質的醫療服務。（央視新聞）"
+    },
     {
       "id": "5050307",
       "time": "2026-08-20 21:17:10",
@@ -145762,113 +145808,6 @@
         "美聯儲"
       ],
       "text": "【交易員降低9月份美聯儲加息的壓注】美國7月PPI增速放緩幅度超預期，交易員降低9月份美聯儲加息的壓注，最新機率為32%，而PPI資料公佈前為38%。"
-    },
-    {
-      "id": "5039633",
-      "time": "2026-08-13 21:23:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亨通股份：擬定增募資不超過36億元用於高階銅箔產業園專案及補充流動資金】亨通股份公告，公司於2026年8月13日召開第十屆董事會第三次會議，審議透過2026年度向特定物件發行A股股票預案。本次發行擬募集資金總額不超過人民幣36億元，扣除發行費用後擬投入綠能與電子電路用高階銅箔產業園專案27億元、補充流動資金9億元。發行物件為不超過35名特定投資者，發行數量不超過發行前總股本的30%，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%。本次發行不會導致公司控制權發生變化。"
-    },
-    {
-      "id": "mkt:019ffb4a-65fb-7aab-9026-c51f4c187327",
-      "time": "2026-08-13 21:23:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "Market Themes",
-        "China Tech Giants",
-        "AI Revolution",
-        "BABA.N"
-      ],
-      "text": "【Alibaba deploys open-source MoE model Qwen3.8-2.4T-A95B on supercomputing network】Alibaba has made its open-source Mixture-of-Experts model Qwen3.8-2.4T-A95B available on its supercomputing network. The model is deployed on core nodes of a 10,000-card supercluster and is distributed as an image through Alibaba's AI community, built on Zhongzhi's FlagOS unified software stack and adapted for domestic heterogeneous accelerator cards to support rapid enterprise and developer deployment of business AI services."
-    },
-    {
-      "id": "5039632",
-      "time": "2026-08-13 21:22:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【靈猴機器人完成超億元C輪融資】近日，蘇州靈猴機器人有限公司正式官宣完成超億元C輪融資。本輪融資由寧德時代系產業投資平臺晨道資本領投，工業母機產業投資基金、豫信電科旗下信產基金、某知名規模數百億元的雙幣基金聯合跟投，蘇創投、古玉資本等原有老股東持續加碼追加投資。"
-    },
-    {
-      "id": "5039631",
-      "time": "2026-08-13 21:22:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "X-Energy執行長表示，自2021年以來，與陶氏化學在德克薩斯州合作的小型核專案獲得的公共資金總額將高達21.5億美元。"
-    },
-    {
-      "id": "5039630",
-      "time": "2026-08-13 21:22:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國軍用航空發動機面臨“交付難”】據美國《國家利益》雙月刊網站8月8日報道，美國政府問責局已經多次發現美國航空發動機製造存在問題。這些問題導致了飛機採購的整體延誤。美國空軍警告稱，美國軍用航空發動機工業基礎正面臨嚴峻挑戰，包括生產延誤、質量控制問題、製造工藝老舊落後以及供應鏈脆弱。美國空軍最新發布的資訊徵詢書顯示，空軍不僅希望改進航空發動機，還可能尋求新製造商，並徹底改革採購模式。這一舉措反映了五角大樓日益加劇的擔憂，即美國的工業缺陷會妨礙其獲得和維持空中優勢的能力。（參考訊息）"
-    },
-    {
-      "id": "5039629",
-      "time": "2026-08-13 21:21:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒稱沙特反對埃及加入“遜尼派北約”】據俄羅斯《生意人報》8月13日報道，阿拉伯媒體報道稱，因沙特王室反對，埃及未能加入由土耳其、巴基斯坦和沙烏地阿拉伯組成的共同防務聯盟。利雅得認為，埃及與沙特在該地區的競爭對手阿聯酋關係密切，所以無法充當戰略伙伴。作為埃及加入該聯盟的主要推動方，土耳其一直公開強調，“遜尼派北約”的大門應向一切有意加入者敞開。英國“中東之眼”新聞網援引沙特訊息人士的話報道稱，沙特明確反對埃及加入《麥加共同防務協議》。訊息人士稱，沙特王室已告知“遜尼派北約”中的夥伴，其對埃及作為戰略伙伴的可靠性存疑。原因之一便是埃及和阿聯酋走得太近，而後者是沙特在地區的主要競爭者。令沙特方面不滿的是，在整個伊朗衝突期間，開羅在外交和軍事領域都積極支援阿布扎比，卻並未如此對待利雅得。（參考訊息）"
-    },
-    {
-      "id": "5039628",
-      "time": "2026-08-13 21:20:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Qwen3.8-2.4T上線超算網際網路，映象與API服務同步開放】阿里最新開源超大規模 MoE 模型 Qwen3.8-2.4T-A95B上線超算網際網路。依託核心節點部署的萬卡超叢集，廣大企業與開發者可在AI社群直接使用基於眾智 FlagOS統一軟體棧和國產異構加速卡適配的Qwen3.8-2.4T-A95B 模型映象，快速部署面向業務場景的AI應用服務。"
-    },
-    {
-      "id": "5039627",
-      "time": "2026-08-13 21:20:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同有科技：向特定物件發行A股股票申請獲深交所受理】同有科技公告，公司於2026年8月13日收到深圳證券交易所出具的《關於受理北京同有飛驥科技股份有限公司向特定物件發行股票申請檔案的通知》，深交所認為申請檔案齊備，決定予以受理。本次向特定物件發行A股股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的批覆後方可實施。"
-    },
-    {
-      "id": "5039626",
-      "time": "2026-08-13 21:20:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西Suzano高管稱，該公司認為厄爾尼諾現象可能對亞洲紙漿木材供應構成風險。"
-    },
-    {
-      "id": "5039625",
-      "time": "2026-08-13 21:20:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "X-ENERGY 執行長表示，美國能源部已通知公司，其在得克薩斯州的小型核電站專案將再獲得高達10億美元的公共資金。"
-    },
-    {
-      "id": "mkt:019ffb47-a327-7aab-9026-bc7f4656b083",
-      "time": "2026-08-13 21:20:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HSBC raises CoreWeave PT to $39 from $36."
-    },
-    {
-      "id": "te:economy:575118",
-      "time": "2026-08-13 21:19:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield Edges Down — South Africa's 10-year government bond yield eased to around 8.58%, down from an over one-week high of 8.61% hit on August 12, as falling oil prices eased inflation concerns and reduced bets for monetary policy tightening. Meanwhile, expectations of a softer US rate path supported demand for emerging-market assets, including South African bonds. On the domestic economic front, South Africa’s inflation rate rose to 5.0% in June 2026 from 4.5% in May, remaining well above the South African Reserve Bank’s (SARB) 3% target. Despite the increase, the central bank unexpectedly kept the repo rate unchanged at 7.0%, saying the 25-basis-point hike in May was sufficient to keep inflation pressures contained."
     }
   ]
 }
