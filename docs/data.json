@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-20 23:59:27",
-  "count": 16027,
+  "updated": "2026-08-21 00:04:01",
+  "count": 16026,
   "items": [
+    {
+      "id": "mkt:01a01fe7-fdfc-7aab-90bd-89b3ef8dd0e2",
+      "time": "2026-08-21 00:01:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor said Russia launched its first strike in months on the city's critical infrastructure, warning some residents may face hot-water supply interruptions."
+    },
+    {
+      "id": "5050586",
+      "time": "2026-08-21 00:01:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃爾瑪股價觸及盤中低點，跌幅高達10%。"
+    },
+    {
+      "id": "5050585",
+      "time": "2026-08-21 00:00:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "申請美國大學的外國學生人數減少近 16000 人。"
+    },
+    {
+      "id": "mkt:01a01fe7-5ccb-7aab-90bd-8372c2d52305",
+      "time": "2026-08-21 00:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fannie Mae said the US 30-year fixed-rate mortgage averaged 6.65% in the week ending Aug. 20, down from 6.67% the prior week."
+    },
+    {
+      "id": "5050584",
+      "time": "2026-08-21 00:00:25",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【英外交大臣譴責以色列推進“E1區”定居點建設專案】英國外交大臣米利班德19日晚發表宣告說，以色列政府推進“E1區”定居點建設專案招標是“不可接受且具有破壞性的”行為。米利班德說，“E1區”定居點建設專案將橫穿巴勒斯坦地區核心地帶，把約旦河西岸與東耶路撒冷分隔開來，這將危及“兩國方案”的可行性。英方明確反對“E1區”定居點建設專案，堅定支援“兩國方案”，“兩國方案”是實現巴以人民長期安全與和平的唯一途徑。米利班德說，他已明確告知以色列外交部長薩爾，以方應立即停止“E1區”定居點建設專案、撤回招標，並停止擴張定居點。米利班德表示，英國不會任由“兩國方案”遭到破壞，並將在未來幾周制定一套全面措施，回應以方有關舉措。英方將對參與擴張非法定居點的人實施制裁。以色列政府18日釋出了“E1區”定居點建設專案1234套住房的招標公告。2025年8月，以色列財政部長斯莫特里赫發表宣告稱，他計劃批准在“E1區”建造3401套住房，旨在“葬送巴勒斯坦國構想”。隨後，以國防部下屬的民政管理局高階規劃委員會批准了這一住房建造計劃。以色列在1967年第三次中東戰爭中佔領東耶路撒冷和約旦河西岸部分地區，並建設猶太人定居點。長期以來，以軍對巴勒斯坦民眾的活動和通行施加限制，遭到巴方強烈反對。（新華社）"
+    },
+    {
+      "id": "te:markets:576926",
+      "time": "2026-08-21 00:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Slightly Lower — European stocks closed slightly lower on Thursday amid sharp losses for high-end retailers and lingering macroeconomic headwinds. The Euro STOXX 50 dropped 0.2% to 6,432 and the STOXX Europe 600 inched below the flatline to 651. Luxury companies led the declines amid pessimistic signs on demand for major consumers. Recent retail sales released by China, the world's top luxury consumer, rose less than expected in July. In the US, the outlook on discretionary spending was pressured by a rebound in Treasury yields, a weaker dollar, and increasing inflationary risks. LVMH and Adidas lost 3%, while Hermes fell 2%. Meanwhile, Airbus, Safran, and Rheinmetall dropped around 2% to set the pace for industrial giants. In turn, Intesa Sanpaolo added 0.4% after Banca MPS approved bids for BPM and Banca Generali to fend off the former's takeover attempt."
+    },
+    {
+      "id": "5050583",
+      "time": "2026-08-20 23:59:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【義大利國債收益率漲超1個基點】週四（8月20日）歐市尾盤，法國10年期國債收益率漲1.5個基點，報4.124%。義大利10年期國債收益率漲1.6個基點，報4.073%。西班牙10年期國債收益率漲0.8個基點，報3.705%。希臘10年期國債收益率漲1.0個基點，報3.953%。"
+    },
     {
       "id": "te:markets:576925",
       "time": "2026-08-20 23:58:43",
@@ -146593,74 +146659,6 @@
         "其他"
       ],
       "text": "OPENAI：Denise Dresser將在過渡期結束後離開OPENAI，尋求其他發展機會。"
-    },
-    {
-      "id": "5039870",
-      "time": "2026-08-14 00:03:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：還與CHAD PEETS和RPT PARTNERS建立了戰略合作伙伴關係。"
-    },
-    {
-      "id": "5039869",
-      "time": "2026-08-14 00:02:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI任命DALI RAJIC為首席營收官。"
-    },
-    {
-      "id": "5039868",
-      "time": "2026-08-14 00:02:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【私募信貸上演“搶鹽大戰”：“什麼都行，就是別碰軟體”】一份最近在業內流傳的、帶有調侃意味的私募信貸術語表中，通常代表資產支援證券(asset-backed securities)的縮寫ABS，被戲稱為“Anything But Software” —— “什麼都行，就是別碰軟體”。軟體公司曾經是市場寵兒，如今卻備受冷落，因為人工智慧可能徹底顛覆它們的商業模式。雖然大量融資活動已經轉向支援AI基礎設施建設熱潮，但重資產、傳統經濟企業也越來越受到私募信貸市場青睞。以American Rock Salt為例，這家公司開採和銷售道路用鹽以及其他氯化鈉產品。儘管其信用評級屬於垃圾級，貸款機構目前卻在激烈爭搶這筆生意。"
-    },
-    {
-      "id": "mkt:019ffbda-e105-7aab-902a-9d0e1ca5bb2c",
-      "time": "2026-08-14 00:00:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. mortgage rates ticked down slightly, the first decline in six weeks."
-    },
-    {
-      "id": "mkt:019ffbda-c3b4-7aab-902a-9574a1bac430",
-      "time": "2026-08-14 00:00:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fannie Mae said the U.S. 30-year fixed-rate mortgage averaged 6.67% in the week of Aug. 13, down from 6.69% the prior week."
-    },
-    {
-      "id": "5039867",
-      "time": "2026-08-14 00:00:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國抵押貸款利率六週來首次小幅回落。"
-    },
-    {
-      "id": "5039866",
-      "time": "2026-08-14 00:00:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "房地美：截至8月13日當週，美國30年期固定抵押貸款平均利率為6.67%，前一週為6.69%。"
-    },
-    {
-      "id": "te:economy:575161",
-      "time": "2026-08-14 00:00:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Poland Trade Deficit Widens in June — Poland’s trade deficit widened sharply to €1.47 billion in June 2026, from €0.13 billion in the same month a year earlier. Imports increased 16.9% year-on-year to €33.47 billion, driven mainly by higher purchases of supplies and capital goods, while rising fuel prices also contributed to the increase. The continued growth in computer hardware exports was reflected in stronger imports of related parts and components. Meanwhile, exports rose 12.3% to €32 billion, supported by significant increases in sales of computer equipment, raw silver and refined copper. However, exports from the automotive and furniture industries declined."
     }
   ]
 }

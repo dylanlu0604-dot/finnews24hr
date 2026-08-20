@@ -1,0 +1,64 @@
+{
+  "date": "2026-08-21",
+  "count": 6,
+  "items": [
+    {
+      "id": "mkt:01a01fe7-fdfc-7aab-90bd-89b3ef8dd0e2",
+      "time": "2026-08-21 00:01:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor said Russia launched its first strike in months on the city's critical infrastructure, warning some residents may face hot-water supply interruptions."
+    },
+    {
+      "id": "5050586",
+      "time": "2026-08-21 00:01:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃爾瑪股價觸及盤中低點，跌幅高達10%。"
+    },
+    {
+      "id": "5050585",
+      "time": "2026-08-21 00:00:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "申請美國大學的外國學生人數減少近 16000 人。"
+    },
+    {
+      "id": "mkt:01a01fe7-5ccb-7aab-90bd-8372c2d52305",
+      "time": "2026-08-21 00:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fannie Mae said the US 30-year fixed-rate mortgage averaged 6.65% in the week ending Aug. 20, down from 6.67% the prior week."
+    },
+    {
+      "id": "5050584",
+      "time": "2026-08-21 00:00:25",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【英外交大臣譴責以色列推進“E1區”定居點建設專案】英國外交大臣米利班德19日晚發表宣告說，以色列政府推進“E1區”定居點建設專案招標是“不可接受且具有破壞性的”行為。米利班德說，“E1區”定居點建設專案將橫穿巴勒斯坦地區核心地帶，把約旦河西岸與東耶路撒冷分隔開來，這將危及“兩國方案”的可行性。英方明確反對“E1區”定居點建設專案，堅定支援“兩國方案”，“兩國方案”是實現巴以人民長期安全與和平的唯一途徑。米利班德說，他已明確告知以色列外交部長薩爾，以方應立即停止“E1區”定居點建設專案、撤回招標，並停止擴張定居點。米利班德表示，英國不會任由“兩國方案”遭到破壞，並將在未來幾周制定一套全面措施，回應以方有關舉措。英方將對參與擴張非法定居點的人實施制裁。以色列政府18日釋出了“E1區”定居點建設專案1234套住房的招標公告。2025年8月，以色列財政部長斯莫特里赫發表宣告稱，他計劃批准在“E1區”建造3401套住房，旨在“葬送巴勒斯坦國構想”。隨後，以國防部下屬的民政管理局高階規劃委員會批准了這一住房建造計劃。以色列在1967年第三次中東戰爭中佔領東耶路撒冷和約旦河西岸部分地區，並建設猶太人定居點。長期以來，以軍對巴勒斯坦民眾的活動和通行施加限制，遭到巴方強烈反對。（新華社）"
+    },
+    {
+      "id": "te:markets:576926",
+      "time": "2026-08-21 00:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Slightly Lower — European stocks closed slightly lower on Thursday amid sharp losses for high-end retailers and lingering macroeconomic headwinds. The Euro STOXX 50 dropped 0.2% to 6,432 and the STOXX Europe 600 inched below the flatline to 651. Luxury companies led the declines amid pessimistic signs on demand for major consumers. Recent retail sales released by China, the world's top luxury consumer, rose less than expected in July. In the US, the outlook on discretionary spending was pressured by a rebound in Treasury yields, a weaker dollar, and increasing inflationary risks. LVMH and Adidas lost 3%, while Hermes fell 2%. Meanwhile, Airbus, Safran, and Rheinmetall dropped around 2% to set the pace for industrial giants. In turn, Intesa Sanpaolo added 0.4% after Banca MPS approved bids for BPM and Banca Generali to fend off the former's takeover attempt."
+    }
+  ]
+}
