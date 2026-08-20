@@ -1,7 +1,123 @@
 {
   "date": "2026-08-20",
-  "count": 2194,
+  "count": 2206,
   "items": [
+    {
+      "id": "5049847",
+      "time": "2026-08-20 18:23:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國聯邦銀行：德國第三季度GDP將“小幅”增長】據報道，德國聯邦銀行表示，德國第三季度GDP將“小幅”增長。"
+    },
+    {
+      "id": "5049846",
+      "time": "2026-08-20 18:22:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【策略師：美股年內恐回撥10%-20%】近幾個交易日美國股市持續疲軟，主要股指在本週二之前連續三個交易日下跌。而長期看漲市場的華爾街知名人物、Leuthold Group首席投資策略師Jim Paulsen表示，這可能並非是正常的市場波動。他認為，這更可能預示著更大的危機即將到來——例如市場可能出現10%至20%的回撥。"
+    },
+    {
+      "id": "5049845",
+      "time": "2026-08-20 18:22:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【博世吳永橋：今年中國主機廠出口總量有望超過1000萬輛】8月19日，博世智慧駕控中國區總裁吳永橋在2026汽車新質生產力發展論壇上表示，今年1-7月國內乘用車市場承壓明顯，但與此同時，出口同比增長73%，預計今年將有2家中國車企出口量突破200萬輛，創歷史新高。吳永橋預判，今年中國主機廠出口總量有望超過1000萬輛。但他同時提醒，未來全球各國政府或將要求中國企業在海外落地生根、本地化生產。他預計，未來中國品牌海外本地製造規模或超2000萬輛。目前，博世正與國內頭部車企深度融合，助力中國車企實現跨域融合，滿足高法規要求，真正征戰全球市場。（上證報）"
+    },
+    {
+      "id": "mkt:01a01eb1-5ff1-7aab-90b2-2f86e74e0ae3",
+      "time": "2026-08-20 18:22:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Bosch's Wu Yongqiao: Chinese OEM exports may top 10 mln units this year】Bosch China president Wu Yongqiao said domestic passenger car demand was under pressure in Jan–Jul while exports rose 73% YoY. He expects two Chinese automakers to each export over 2 mln vehicles this year and forecasts total Chinese OEM exports could exceed 10 mln units. Wu warned foreign governments may increasingly require Chinese firms to localize production overseas and projected Chinese-brand overseas local manufacturing could surpass 20 mln vehicles. Bosch is deepening integration with leading domestic automakers to help them meet stricter regulations and scale for global markets."
+    },
+    {
+      "id": "5049844",
+      "time": "2026-08-20 18:21:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【比特幣暴漲超11% 最近24小時全球超18萬人爆倉】今日（8月20日），被視作反映市場風險偏好指標的加密貨幣持續拉昇。其中，比特幣大漲超11%，價格突破7萬美元關口，創6月2日以來新高；此外，以太坊漲逾19%，HYPE漲超25%，XRP、Solana漲超13%。CoinGlass資料統計，最近24小時，全球超18萬人爆倉，爆倉總金額超過30億美元。其中，超九成為空單爆倉。訊息面上，美國總統特朗普敦促國會透過一項有望利好加密行業的法案——《數字資產市場清晰法案》（CLARITY Act）。此外，美國財政部宣佈大幅增加20年期和30年期債券的回購規模，推動收益率顯著下行，提升了比特幣這類高風險資產的吸引力。（券商中國）"
+    },
+    {
+      "id": "mkt:01a01eb0-97c8-7aab-90b2-26f56d873c4d",
+      "time": "2026-08-20 18:21:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【UBS: UK gilts still include political risk premium】UBS Investment Bank analyst Mustafa says UK gilts still embed about a 20 bps political risk premium from this year’s turmoil. Prime Minister Andy Burnham’s verbal commitment to uphold fiscal rules may limit additional domestic fiscal risk premium. TRADEWEB DATA show the 10-year gilt yield rose 1.2 bps intraday to 5.058%."
+    },
+    {
+      "id": "mkt:01a01eb0-9282-7aab-90b2-1dcc918edf9f",
+      "time": "2026-08-20 18:21:23",
+      "tags": [
+        "MKT News",
+        "TGT.N",
+        "Impact bullish"
+      ],
+      "text": "Citigroup raises Target Corp (TGT.N) PT to $160 from $148."
+    },
+    {
+      "id": "5049843",
+      "time": "2026-08-20 18:20:54",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【比特幣暴漲超11% 最近24小時全球超18萬人爆倉】今日（8月20日），被視作反映市場風險偏好指標的加密貨幣持續拉昇。其中，比特幣大漲超11%，價格突破7萬美元關口，創6月2日以來新高；此外，以太坊漲逾19%，HYPE漲超25%，XRP、Solana漲超13%。CoinGlass資料統計，最近24小時，全球超18萬人爆倉，爆倉總金額超過30億美元。其中，超九成為空單爆倉。訊息面上，美國總統特朗普敦促國會透過一項有望利好加密行業的法案——《數字資產市場清晰法案》（CLARITY Act）。此外，美國財政部宣佈大幅增加20年期和30年期債券的回購規模，推動收益率顯著下行，提升了比特幣這類高風險資產的吸引力。（券商中國）"
+    },
+    {
+      "id": "5049841",
+      "time": "2026-08-20 18:20:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK海力士勞資初步協議達成，60%獎金改為股票發放】當地時間週四，據媒體援引相關工會人士訊息，SK海力士與其工會已就2026年度薪資及集體談判達成初步協議。根據該協議，SK海力士今年將進行6.3%的薪資上調。與此同時，其備受關注的員工利潤分享獎金髮放模式，由此前的全部現金支付轉向40%現金與60%公司股票的組合方案。去年，SK海力士勞資雙方約定取消利潤分紅上限，規定每年提取營業利潤的10%作為獎金池，並設定為80%當年現金支付、20%遞延兩年以現金支付的發放機制。在該初步協議下，獎金總額的40%將在當年以現金形式發放；其餘60%以公司股票形式發放，其中佔總獎金40%的股票可在當年自由變現，剩餘20%的股票則遞延發放。"
+    },
+    {
+      "id": "mkt:01a01eaf-0e99-7aab-90b2-167ca6b6bca4",
+      "time": "2026-08-20 18:19:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01519.HK",
+        "Impact bullish"
+      ],
+      "text": "【J&T Express Q2 average daily parcels top 100 mln for first time】J&T Express (01519.HK) released 2026 interim results, reporting 1H 2026 revenue of $7.67bn, up 39.5% YoY; express-service revenue $7.46bn, up 39.6% YoY. Global parcel volume in 1H reached 17.5bn parcels, up 25.1% YoY; Q2 average daily parcel volume exceeded 100m for the first time."
+    },
+    {
+      "id": "5049840",
+      "time": "2026-08-20 18:19:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【文燦股份：2026年上半年淨利潤虧損2.16億元，由盈轉虧】文燦股份公告，2026年上半年營業收入27.99億元，同比下降0.11%。歸屬於上市公司股東的淨利潤虧損2.16億元，上年同期淨利潤1311萬元。扣非淨利潤虧損2.24億元，上年同期扣非淨利潤1184.47萬元。本報告期未進行利潤分配。"
+    },
+    {
+      "id": "5049839",
+      "time": "2026-08-20 18:19:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國AI初創企業Callosum融資1億美元】英國AI初創公司Callosum週四宣佈完成1億美元種子輪融資，投資方包括今年4月成立的英國主權AI基金。同時，Callosum宣佈與AI晶片企業Cerebras建立合作伙伴關係。這輪投資由風險投資公司Atomico領投，Plural和DCVC等機構參投。此外，英國規模達到5億英鎊（約合6.77億美元）的主權AI基金也參與了該投資。目前，Callosum尚未披露其估值情況。"
+    },
     {
       "id": "mkt:01a01eae-861b-7aab-90b2-0c655c0045cc",
       "time": "2026-08-20 18:19:09",
