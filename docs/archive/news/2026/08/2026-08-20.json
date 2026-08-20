@@ -1,7 +1,91 @@
 {
   "date": "2026-08-20",
-  "count": 3010,
+  "count": 3019,
   "items": [
+    {
+      "id": "5050383",
+      "time": "2026-08-20 22:22:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行宣佈維持隔夜存款利率在19%不變。"
+    },
+    {
+      "id": "mkt:01a01f8c-de68-7aab-90b9-b548eeb997ad",
+      "time": "2026-08-20 22:22:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's central bank held its benchmark interest rate unchanged."
+    },
+    {
+      "id": "mkt:01a01f8c-bbc3-7aab-90b9-aae5acc704d7",
+      "time": "2026-08-20 22:21:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "PDVSA vice president said Venezuela's crude exports have risen 19.7% year-to-date in 2026."
+    },
+    {
+      "id": "5050382",
+      "time": "2026-08-20 22:21:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國家石油公司副總裁 ：2026年迄今委內瑞拉原油出口增長19.7%。"
+    },
+    {
+      "id": "mkt:01a01f8b-9267-7aab-90b9-a4a8b4a0508f",
+      "time": "2026-08-20 22:20:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea launches ultra-long tech fund with up to 16-year investment horizon】South Korea launched an 880 bln won (≈$631m) ultra-long technology fund today, offering up to a 16-year investment horizon for advanced tech sectors. Policy capital comprises 77% (680 bln won), including 600 bln won from the Advanced Strategic Industries Fund and 80 bln won in fiscal funding; the Financial Services Commission and Korea Development Bank are driving the initiative. The fund will target next-generation semiconductors, biotech and related advanced industries; investee eligibility requires vetting by a technology credit guarantee fund or equivalent legal assessment. To limit concentration, at least 40% of allocations must be invested outside AI and semiconductors; early-stage co-investment and overseas M&A receive weighted incentives. Asset managers will be appointed as three small managers (80 bln won each) and four large managers (160 bln won each); proposals close Sept. 3, selection is due in October and disbursement could be completed by year-end. Manager evaluation will emphasize sector-specific teams and expert networks."
+    },
+    {
+      "id": "5050381",
+      "time": "2026-08-20 22:20:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數 <.XBANK> 下跌 2%。"
+    },
+    {
+      "id": "mkt:01a01f8b-2308-7aab-90b9-9f1cae543317",
+      "time": "2026-08-20 22:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week to Aug. 14 due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a01f8b-183a-7aab-90b9-90196d45b89a",
+      "time": "2026-08-20 22:20:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's major banks index fell 2%."
+    },
+    {
+      "id": "5050380",
+      "time": "2026-08-20 22:19:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【寧德時代與舍弗勒簽署合作備忘錄 共同打造歐洲本土化電控方案】據寧德時代訊息，近日，寧德時代與專注驅動技術的科技公司舍弗勒（Schaeffler）簽署合作備忘錄。雙方將在電池管理系統（BMS）與多合一能量倉等方向開展戰略合作，共同打造適配歐洲車企需求的本土化電控解決方案，推動歐洲新能源轉型。"
+    },
     {
       "id": "5050379",
       "time": "2026-08-20 22:18:22",
