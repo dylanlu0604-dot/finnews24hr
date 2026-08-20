@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-21 05:07:15",
-  "count": 16089,
+  "updated": "2026-08-21 05:11:12",
+  "count": 16086,
   "items": [
+    {
+      "id": "5050809",
+      "time": "2026-08-21 05:10:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們希望讓二十國集團迴歸核心使命。這一使命就是探討各國能夠採取哪些行動、各經濟體可以如何作為，以及我們怎樣攜手合作，實現更強勁的全球增長。我們向盟友與貿易伙伴傳遞的訊號是：實現全球增長是化解鉅額債務的出路。"
+    },
+    {
+      "id": "mkt:01a02101-9493-7aab-90c1-bb1944e0f552",
+      "time": "2026-08-21 05:09:06",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "USD/JPY slipped below 159, down 0.04% on the day."
+    },
+    {
+      "id": "5050808",
+      "time": "2026-08-21 05:07:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（8月20日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7253元，較週三紐約尾盤漲60點（延續之前一天漲150點的表現），日內整體交投於6.7321-6.7201元區間，逼近2023年2月2日頂部6.7057元、當年1月16日頂部6.6975元。"
+    },
     {
       "id": "mkt:01a020ff-4fa8-7aab-90c1-b640856a5792",
       "time": "2026-08-21 05:06:37",
@@ -147143,62 +147169,6 @@
         "其他"
       ],
       "text": "阿根廷液化天然氣專案申請 510 億美元 RIGI 投資計劃。"
-    },
-    {
-      "id": "5040048",
-      "time": "2026-08-14 05:10:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部駁斥日方就普京登島提出的抗議】俄羅斯外交部發言人扎哈羅娃13日在俄外交部網站釋出宣告，駁斥日本首相高市早苗和日本外務大臣茂木敏充針對俄總統普京登上伊圖魯普島（日本稱擇捉島）發表的相關言論，稱這番言論在政治上毫無意義、帶有“侮辱”性質，在法理層面亦不具備效力。（新華社）"
-    },
-    {
-      "id": "mkt:019ffcf6-2bd5-7aab-902e-3d02c586b35b",
-      "time": "2026-08-14 05:10:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Saudi state news agency SPA said the Saudi crown prince and the CENTCOM commander held talks on deepening defense cooperation and measures to de‑escalate regional tensions."
-    },
-    {
-      "id": "5040047",
-      "time": "2026-08-14 05:08:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特通訊社：沙特王儲與美國中央司令部司令商討雙邊防務合作以及緩和地區緊張局勢的相關舉措。"
-    },
-    {
-      "id": "5040046",
-      "time": "2026-08-14 05:08:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特通訊社：沙特王儲會見美國中央司令部司令。"
-    },
-    {
-      "id": "mkt:019ffcf4-1b93-7aab-902e-328ad0b6bb3b",
-      "time": "2026-08-14 05:08:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state news agency said the Saudi Crown Prince met the CENTCOM commander."
-    },
-    {
-      "id": "te:economy:575189",
-      "time": "2026-08-14 05:07:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Export Prices YoY",
-        "Importance 1"
-      ],
-      "text": "South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%."
     }
   ]
 }
