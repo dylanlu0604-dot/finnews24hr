@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 07:36:05_
-_本檔包含 3341 則快訊，約 640880 字_
+_更新時間：2026-08-21 07:56:24_
+_本檔包含 3339 則快訊，約 642239 字_
+
+---
+
+### 2026-08-21 07:54:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【Japan core inflation accelerates for second month, reinforces BOJ near-term rate-hike bets】Japan's key inflation gauges accelerated for a second month, boosting expectations the Bank of Japan may tighten policy soon. July core CPI rose 1.8% YoY, up from 1.6% in June and in line with economists' median. The BOJ's preferred core-core measure (ex fresh food and energy) rose 1.9% YoY; headline CPI also climbed 1.9%. Energy prices contributed to the pickup, with July energy up 0.6% YoY after a small decline in June. Governor UEDA has signaled policymakers could speed up normalization; with yen weakness adding upside inflation risk, markets have increased bets on BOJ action as soon as September despite a rare US-Japan coordinated FX intervention at end-July.
+
+---
+
+### 2026-08-21 07:53:12  #公司 #市場 #國際
+
+【目前已有22家煤炭上市公司披露2026年半年度業績相關公告 報喜比例近七成】近期，焦炭期貨、現貨價格持續上漲。生意社資料顯示，截至8月20日，焦炭基準價達到1868.75元/噸，較5月20日上漲11.40%；期貨方面，焦炭2701主力合約8月以來持續上漲，累計漲幅已達到12.85%。焦煤近期亦有明顯漲幅。生意社資料顯示，煉焦煤8月18日價格為1923.75元/噸，較5月18日上漲23.42%；期貨方面，8月以來，焦煤2701主力合約累計上漲18.99%。需求方面，今年上半年，全國用電需求保持旺盛增長態勢，算力、充換電等行業高速發展，疊加持續高溫天氣，全社會用電量增速加快。據證券時報·資料寶統計，截至8月20日，已有22家煤炭上市公司披露2026年半年度業績相關公告。按半年報淨利潤、業績預告下限順序計算，3家公司扭虧為盈，6家同比減虧，6家實現淨利潤同比增長，報喜比例近七成。扭虧為盈的3家公司中，甘肅能化淨利潤最高，公司預計實現歸母淨利潤1.66億元，主要由於煤炭銷售均價同比上漲。從估值上來看，上述扭虧、減虧、預增的15只煤炭股中，4股最新市淨率不足1倍，處於“破淨”狀態，包括山西焦化、蘭花科創、甘肅能化、恆源煤電，最新市淨率分別為0.6倍、0.71倍、0.84倍、0.9倍。
+
+---
+
+### 2026-08-21 07:53:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Pressured by Rebounding Yields — US stock futures hovered near weekly lows on Friday after major averages faced heavy selling pressure in the previous session, as Treasury yields rebounded amid concerns that the government’s plan to lower borrowing costs may offer only a temporary solution. Rising oil prices, as the US and Iran remain deadlocked over the Strait of Hormuz, also stoked inflation concerns. In regular trading on Thursday, the Dow fell 1.32%, the S&P 500 declined 0.87% and the Nasdaq Composite dropped 1%. Nine of the 11 S&P sectors finished lower, with consumer staples, health care and consumer discretionary stocks leading the declines. Long-term Treasury yields reversed Wednesday’s drop following the Treasury Department’s announcement of larger debt buybacks. In corporate news, Ross Stores jumped more than 8% in extended trading after the retailer posted stronger-than-expected second-quarter results.
+
+---
+
+### 2026-08-21 07:51:16  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Iran official says plans attacks on crude export facilities to hurt Trump ahead of US midterms】A senior Iranian official said Tehran plans an economic offensive including attacks on Gulf oil reroute export facilities to push up US gasoline prices and damage support for Trump’s party before the November midterms. Targets would include the two main alternatives used to bypass the Strait of Hormuz — Saudi Arabia’s Yanbu pipeline and the UAE’s Fujairah oil terminal — which together handle about 5.5 mln bpd. The official said if Iran also cut the US‑supported “shadow fleet” flows currently transiting the Strait, roughly 5.0 mln bpd, it would significantly reduce the alternate transport capacity that sustains Gulf exports under a wider blockade. With Brent near $93/bbl, any credible strike on Yanbu or Fujairah could be seen by traders as a supply shock larger than prior disruptions.
+
+---
+
+### 2026-08-21 07:51:15  #焦點 #國際
+
+【伊朗官員：計劃襲擊原油出口設施，意在美國中期選舉前打擊特朗普】一名伊朗高階官員表示，德黑蘭正計劃發動經濟戰，包括襲擊海灣地區的石油繞行出口設施，意在推高美國汽油價格，並在美國11月中期選舉前打擊特朗普所在政黨的支援率。據該官員描述，這項計劃的目標將包括航運商為避開霍爾木茲海峽而使用的兩條主要替代路線：沙烏地阿拉伯的延布輸油管道以及阿聯酋富查伊拉石油碼頭。這兩處設施合計每天處理約550萬桶石油。如果伊朗同時切斷美國支援的“影子艦隊”目前仍經霍爾木茲海峽運輸的約500萬桶/日石油供應，那麼一旦行動成功，將削弱相當大一部分替代運輸能力，而正是這些渠道在更廣泛的封鎖背景下維持了部分海灣石油出口。考慮到在當前緊張局勢下，布倫特原油價格已經接近每桶93美元，任何針對延布或富查伊拉的可信行動，都可能被交易員視為規模遠大於此前供應中斷的衝擊。
+
+---
+
+### 2026-08-21 07:50:56  #公司
+
+【8月以來融資淨買入居前的“六張網”建設產業鏈相關上市公司梳理】作為“十五五”重大建設工程，“六張網”拉動投資效應持續顯現。“十五五”時期，僅國家水網、新型電網、城市地下管網3項投資合計就超16萬億元，上市公司也在各自領域積極佈局，搶抓市場紅利。據證券時報·資料寶統計，A股上市公司中涉及“六張網”建設產業鏈的上市公司超過百家，涵蓋通訊、計算機、電力裝置、交通運輸、建築裝飾等行業。從機構關注度來看，8月以來，有7股獲機構調研，密爾克衛、偉星新材、天孚通訊獲機構調研家數居前，分別達到84家、84家、67家。從資金面上來看，8月以來，18股獲得融資淨買入超過1億元，協創資料、寒武紀、浪潮資訊獲淨買入金額居前，分別達到6.95億元、6.84億元、6.24億元。
+
+---
+
+### 2026-08-21 07:50:19  #公司 #市場
+
+【新股提示：馬礦股份今日申購】今日可申購滬市主機板馬礦股份。馬礦股份發行市盈率13.81倍，申購程式碼為780123，申購價格為6.65元/股。公司主營鐵礦石的採選、綜合利用及鐵精粉、鉬精礦銷售。
+
+---
+
+### 2026-08-21 07:47:47  #市場 #國際
+
+基準10年期日本公債期貨早盤下跌0.28點。
+
+---
+
+### 2026-08-21 07:47:36  #市場 #國際
+
+日本日經平均指數期貨早盤下跌1.6%。
+
+---
+
+### 2026-08-21 07:47:20  #行業 #觀點
+
+【中信建投：燃機市場高景氣延續，堅定看好國產燃機出海】中信建投研報表示，2026年第二季度全球燃機訂單約38GW，創單季度歷史新高，美國貢獻接近一半；同時遠期聯合迴圈專案報價顯著上升，2030年前後交付槽位仍高度稀缺。PJM提出大型資料中心需同步匹配新增電源，否則可能面臨限電及容量市場約束，進一步增強AIDC自備電源建設的緊迫性與確定性。此外，傑瑞股份半年報披露燃機機組及配套裝置自2025年11月起累計新增訂單超過31億美元，全球燃氣輪機高景氣度延續。二季度全球燃機訂單創歷史新高，三巨頭訂單、收入、利潤率、產能、指引同步高增並集體上修，在手訂單規模為未來交付提供極強可見度。當前全球燃機需求高景氣與交付槽位緊張並存，行業供需缺口仍將延續。國產燃機憑藉更短的交付週期、較高的價效比及不斷增強的產品競爭力，有望加快獲取海外市場份額。堅定看好國產燃機出海。
+
+---
+
+### 2026-08-21 07:43:18  #國際
+
+【印度古吉拉特邦發生假酒中毒事件，致9人死亡】據印度方面8月21日訊息，印度西部古吉拉特邦發生假酒中毒事件，已造成9人死亡，另有39人在醫院接受治療。訊息稱，此次事件發生在該邦包納加爾地區，陸續有多地居民在飲用假酒後死亡，死者血液樣本檢測結果顯示含有甲醇。警方隨後展開調查，將21人列為嫌疑人。當地警方表示，目前已逮捕13名嫌疑人，包括一名被指主謀的男子。有一名嫌疑人飲用涉事假酒後死亡。（央視新聞）
+
+---
+
+### 2026-08-21 07:42:59  #公司 #焦點
+
+三星計劃最高向股東返還790億美元。
+
+---
+
+### 2026-08-21 07:39:15  #資料 #市場 #央行 #國際
+
+【日本通脹加速，為日本央行加息提供依據】日本核心物價指標連續第二個月加速上行，日本央行有望在短期內再度加息，市場愈發猜測央行最早將於9月採取加息行動。日本總務省週五公佈，7月剔除生鮮食品的消費者物價指數同比上漲1.8%，高於上月1.6%的漲幅，該資料與經濟學家預期中值一致。同時剔除生鮮食品與能源的物價指數是日本央行密切關注的核心通脹指標，同比上漲1.9%；整體CPI同樣同比上漲1.9%。此次通脹抬升部分受能源推動，能源價格同比上漲0.6%，扭轉了6月小幅下滑的態勢。數週前日本央行行長植田和男釋放訊號，稱政策當局或將加快政策正常化步伐，本次通脹資料為央行加息提供支撐。儘管美日兩國7月底罕見實施聯合匯市干預，但日元持續走弱仍帶來物價上行風險，市場投資者愈發確信日本央行將於下月啟動加息。
+
+---
+
+### 2026-08-21 07:37:50  #Trading Economics #Economy #Japan #Core Inflation Rate #Importance 2
+
+Japan Core Inflation Rate Hits 4-Month High — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.8% year-on-year in July 2026, following a 1.6% rise in June. It was the highest core inflation rate since March and was in line with market forecasts of 1.8%. Still, the latest reading remained below the Bank of Japan’s 2% target for a sixth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict.
+
+---
+
+### 2026-08-21 07:37:23  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
+
+Japan July national CPI (unadjusted) MoM +0.4%, prior 0.0%.
+
+---
+
+### 2026-08-21 07:37:16  #MKT News #Economic Calendar #Important
+
+Japan | CPI (MoM) (Jul) | actual 0.4% | previous 0%
+
+---
+
+### 2026-08-21 07:36:30  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Set for Second Straight Weekly Rise — Brent crude traded above $93 per barrel on Friday and was on track to post a second consecutive weekly gain, rising more than 5% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an "economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets.
+
+---
+
+### 2026-08-21 07:36:12  #公司 #市場
+
+【A股限售股解禁一覽：10.46億元市值限售股今日解禁】Wind資料顯示，週五（8月21日），共有1家公司限售股解禁，合計解禁量為6319.19萬股，按最新收盤價計算，合計解禁市值為10.46億元。從解禁量來看，1家公司解禁股數超千萬股。志高機械解禁量居前，解禁股數分別為6319.19萬股。從解禁市值來看，1家公司解禁市值超億元。志高機械解禁市值居前，解禁市值分別為10.46億元。從解禁股數佔總股本比例來看，1家公司解禁比例超10%。志高機械解禁比例居前，解禁比例分別為50.63%。
+
+---
+
+### 2026-08-21 07:36:06  #公司
+
+【A股股票回購一覽：35家公司披露回購進展】Wind資料顯示，8月21日，35家公司共釋出35個股票回購相關進展。其中，11家公司首次披露股票回購預案，4家公司回購方案獲股東大會透過，10家公司披露股票回購實施進展，10家公司回購方案已實施完畢。從首次披露回購預案來看，當日共6家公司股票回購預案金額超千萬。格力電器、新華百貨、ST絕味回購預案金額最高，分別擬回購不超100.0億元、4.0億元、2.0億元。從股東大會透過回購預案來看，當日共3家公司回購預案超千萬。兆易創新、大秦鐵路、山東高速回購金額最高，分別擬回購不超20.0億元、5.0億元、2.0億元。從回購實施進展來看，凱普生物、海程邦達、永和股份回購金額最高，分別回購1.25億元、7399.32萬元、6999.28萬元。從已完成回購來看，當日共7家公司回購金額超千萬。ST能特、聚光科技、學大教育已完成回購金額最高，分別回購3.0億元、1.33億元、9894.89萬元。
+
+---
+
+### 2026-08-21 07:36:02  #央行 #國際
+
+【AI焦慮滲透美聯儲 牽動對就業、通脹的預測及金融穩定】AI引發的焦慮無所不在：從擔心飯碗不保的勞工，到示警金融泡沫風險的投資人。如今，AI也開始主導美聯儲的討論。美國央行最近一次政策會議的會議紀錄顯示，決策官員在思考經濟幾乎任何一個面向時，這項科技的重要性都日益凸顯。在官員討論當前經濟情勢與經濟展望的15個段落中，提及AI不下18次。Monetary Policy Analytics經濟學家Derek Tang表示，有關AI的討論不僅篇幅很長，涵蓋面也非常廣。AI現在正從不同角度影響他們，其中包括對通脹的預測、對就業的預測，以及金融穩定。現在看來，AI似乎已經無所不在。
+
+---
+
+### 2026-08-21 07:35:50  #其他
+
+【股票私募倉位指數維持高位 大型機構加倉意願強烈】近期，股票私募倉位指數持續穩居年內高點。最新資料顯示，截至2026年8月14日，股票私募倉位指數為83.97%，較前一統計周（8月3日至8月7日）微升0.09個百分點，且該指數已連續第七週維持在83%以上的年內高位，反映出私募機構整體持股意願較強。
 
 ---
 
@@ -38,6 +164,12 @@ Japan Inflation Rate Hits 7-Month High — Japan's annual inflation rate acceler
 ### 2026-08-21 07:32:56  #公司
 
 【AI算力需求驅動 玻纖行業上半年業績普遍向好】玻纖行業龍頭中國巨石8月20日披露半年報，今年上半年實現營業收入111.59億元，同比增長22.5%；淨利潤29.33億元，同比大幅增長73.87%。與此同時，中材科技、國際復材、金安國紀等多家產業鏈公司同期業績呈現不同程度增長。在AI算力需求驅動下，玻纖及電子布行業景氣度持續攀升，龍頭企業正加速佈局產能，一場圍繞高階化、特種化的產能競賽已然展開。
+
+---
+
+### 2026-08-21 07:31:54  #經濟數據 #日本
+
+日本7月整體CPI同比上漲1.9%，預估為上漲1.9%。
 
 ---
 
@@ -20049,149 +20181,5 @@ Japan 10-year bond yield fell 4.5 bps to 2.845%.
 ### 2026-08-20 08:06:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
 
 【China International Capital Co: A-share recovery since end-July likely to continue】China International Capital Co said external narratives driving the market remain short-term and stage-specific, and the A-share recovery that began in late July is likely to continue. Market volatility has risen from external shocks; dividend-yielding stocks outperformed on the 19th. As risk appetite gradually recovers and the earnings peak approaches, focus on areas and companies with higher earnings certainty. Two main themes: 1) Selective growth exposure in technology: post-correction crowding in tech has eased. High-growth subsectors where revenue-side expansion can offset denominator pressure—AI infrastructure-related links such as optical communications and PCB—retain strong near-term visibility; semiconductor and compute names require careful alignment of fundamentals and valuations, and tech growth may increasingly diverge. Innovation-stage drugmakers entering clinical-data validation merit bottom-up selection. 2) Cyclical recovery: an expanding set of sectors are rebounding from cycle troughs; factor in geopolitics and capacity-cycle positions and favour areas with improving earnings and tighter supply-demand, including power-grid equipment, petrochemicals/chemicals, construction machinery, and non-bank financials that benefit from stronger capital markets. Nonferrous metals, after heavy adjustment, also deserve attention. Pure domestic-demand sectors show slower recovery and require further observation.
-
----
-
-### 2026-08-20 08:05:04  #觀點
-
-【中信建投：繼續看好鋰電裝置與固態電池板塊配置價值】中信建投研報稱，鋰電裝置方面，鋰電排產創新高，固態邁入裝車新階段。一是鋰電排產景氣高，8月中國鋰電全市場總排產約304GWh、環比+7.4%，超出月初預判3%—5%區間，儲能電芯排產125GWh、環比淨增約10GWh，海外大儲專案集中備貨推動儲能躍升第一增長引擎。二是固態產業化加速，多項里程碑密集落地。三是裝置兌現端，先惠技術與清陶能源聯合研發的全固態幹法輥壓裝置已完成交付，固態裝備前瞻卡位開啟第二增長曲線。產業化節奏上，2026年為全固態驗證元年，廣汽啟動混合固液電池裝車驗證，寧德時代、比亞迪分別規劃2027年全固態小批次生產與示範裝車，硫化物電解質成本已下降超35%，推動從“技術可行”走向“經濟可行”。當前板塊處於“排產高景氣+固態裝車驗證+裝置兌現”三重共振視窗期，繼續看好鋰電裝置與固態電池板塊配置價值。
-
----
-
-### 2026-08-20 08:04:28  #Trading Economics #Economy #Japan #Balance of Trade #Importance 2
-
-Japan Trade Gap Widens Sharply — Japan's trade deficit widened sharply to JPY 634.5 billion in July 2026 from JPY 156.3 billion in the same month a year earlier, but was below market forecasts of JPY 680 billion. It was the third straight month of deficit and the largest since January as imports grew faster than exports. Imports surged 27.8% yoy to a new record JPY 12,146.3 billion, accelerating from June's 25.4% rise, beating estimates of 26.5%, and posting the strongest growth since November 2022. The sharp rise reflected solid domestic demand, boosted by the government's late-2025 stimulus. Crude oil imports jumped 53.5% as Japan diversified energy buying away from the Strait of Hormuz amid ongoing tensions. Exports rose at a softer 23.2% to a new peak of JPY 11,511.8 billion, the strongest gain since October 2022, topping consensus of 19.9%. Exports rose for the 11th month, lifted by a weaker yen and robust demand for AI-related chips, despite risks from supply chain disruptions due to the Middle East conflict.
-
----
-
-### 2026-08-20 08:04:13  #經濟數據 #日本
-
-【日本7月份出口同比增長23.2%】日本7月份出口同比增長23.2%，預期為20.1%，前值為19.3%；日本7月份進口同比增長27.8%，預期為25.1%，前值為25.4%。
-
----
-
-### 2026-08-20 08:03:58  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Holds Gains on Lower Treasury Yields — Silver traded around $67 an ounce on Thursday after surging nearly 6% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus.
-
----
-
-### 2026-08-20 08:03:35  #MKT News
-
-U.S. State Department: U.S. Secretary of State Rubio will meet with Canada’s foreign minister on Thursday.
-
----
-
-### 2026-08-20 08:03:27  #公司
-
-【聯創電子：2026年上半年營收31.93億元 淨虧損3.58億元】聯創電子公告稱，2026年上半年實現營業收入31.93億元，同比下降24.34%；歸屬於上市公司股東的淨虧損3.58億元，同比下降1585.66%；扣除非經常性損益的淨虧損3.71億元，同比下降1060.43%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。此外，公司控股股東江西鑫盛擬向壽縣新橋轉讓7.27%公司股份，轉讓完成後公司控股股東及實際控制人將發生變更。
-
----
-
-### 2026-08-20 08:03:19  #公司
-
-【創益通：2026年度定增股票申請獲深交所受理】創益通公告稱，公司近日收到深交所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。
-
----
-
-### 2026-08-20 08:03:10  #公司
-
-【TCL科技：發行股份購買資產獲證監會註冊批覆】TCL科技公告稱，公司擬發行股份及支付現金購買廣東恆健投資控股有限公司、廣州城發星光投資合夥企業（有限合夥）、科學城（廣州）投資集團有限公司合計持有的廣州華星光電半導體顯示技術有限公司45.00%股權。公司於2026年8月19日收到證監會出具的同意本次發行股份購買資產註冊的批覆，批覆自下發之日起12個月內有效。公司將在規定期限內辦理本次交易相關事宜。
-
----
-
-### 2026-08-20 08:02:58  #市場
-
-【天山鋁業：二季度氧化鋁生產成本較一季度略有下降】天山鋁業8月19日在業績說明會表示，二季度氧化鋁生產成本較一季度略有下降，主要得益於去年的高價鋁土礦庫存的逐步消化，若後續鋁土礦採購價尤其是海運費下降，將對氧化鋁成本下降產生積極影響。預焙陽極方面，受石油焦價格同比上漲的影響，二季度成本較一季度略有增加。電力方面，二季度成本較一季度略有下降。
-
----
-
-### 2026-08-20 08:02:42  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Rally on Lower Treasury Yields — Gold held above $4,500 an ounce on Thursday after surging more than 4% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus.
-
----
-
-### 2026-08-20 08:02:17  #國際
-
-市場訊息：魯比奧將於週四下午1點30分（北京時間週五凌晨1:30）會見加拿大外交部長。
-
----
-
-### 2026-08-20 08:02:10  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-【Japan, South Korea stock indices open higher】Aug 20 (Thu) Japan's Nikkei 225 opened up 461.11 points (+0.71%) at 65,787.53; South Korea's KOSPI opened 3.2% higher.
-
----
-
-### 2026-08-20 08:01:45  #公司 #市場 #焦點
-
-SK海力士股價在首爾上漲逾7%，此前該公司宣佈了回購計劃。
-
----
-
-### 2026-08-20 08:01:32  #MKT News
-
-Musk, responding to reports that SpaceX sought to acquire Cognition, said discussions with Cognition were limited to ensuring Grok could meet their needs.
-
----
-
-### 2026-08-20 08:01:25  #其他
-
-馬斯克就SpaceX試圖收購Cognition的報道回應：除了確保Grok能很好地滿足他們的需求外，我們未與Cognition進行任何其他商談。
-
----
-
-### 2026-08-20 08:01:15  #MKT News
-
-South Korea's KOSPI opened up 180.71 points (+2.79%) at 6,651.88 on Thursday, Aug. 20.
-
----
-
-### 2026-08-20 08:01:06  #MKT News #Important #Macro & Rates #Market Regions #USDJPY #Impact bearish
-
-Japan 20-year government bond yield fell 6 bps to 3.715%.
-
----
-
-### 2026-08-20 08:00:58  #市場 #焦點 #國際
-
-【日韓股市高開】日經225指數高開0.6%，韓國首爾綜指高開3.2%。
-
----
-
-### 2026-08-20 08:00:51  #公司
-
-【天孚通訊：正積極配合客戶推進下一代更高密度、更多通道的光連線解決方案開發】天孚通訊8月19日在機構現場參觀時表示，公司面向CPO應用的FAU、ELS外接光源等相關產品目前處於交付狀態。依託在光學耦合、精密製造及批次交付方面的長期積累，公司相關產品在效能、良率及交付保障等方面具備較好的基礎。同時，公司研發團隊正積極配合客戶推進下一代更高密度、更多通道的光連線解決方案開發。
-
----
-
-### 2026-08-20 08:00:45  #公司
-
-【天孚通訊：第三季度起，相關物料短缺狀況已逐步得到緩解】天孚通訊8月19日在機構現場參觀時表示，上半年，個別物料階段性供給緊缺，對公司有源光器件產品提產造成了一定影響。針對相關臨時性短缺情況，公司及時採取了積極應對措施，包括匯入新供應商，以保障相關核心物料的穩定交付。從目前情況看，自2026年第三季度起，相關物料短缺狀況已逐步得到緩解，供應情況整體呈改善趨勢。後續，公司將持續加強風險物料的供應鏈管理，以“保交付”為核心，提升物料保障能力，更好支援客戶提產需求。
-
----
-
-### 2026-08-20 07:59:40  #觀點
-
-【中信建投：半導體裝置全球景氣週期持續確認 關注出海程序】中信建投研報稱，半導體裝置方面，全球景氣週期持續確認，關注出海程序。SEMI更新預測、預計半導體裝置未來3年持續增長。SEMI預計2026年全球半導體制造裝置銷售額將創下1659億美元的歷史新高，同比+23.2%。增長勢頭預計將持續至2028年，總裝置銷售額有望達到創紀錄的2295億美元，實現連續五年增長。全球半導體裝置零部件正經歷一輪歷史罕見的全鏈條漲價潮。半導體產業鏈的定價權正從晶片終端向裝置與零部件環節結構性上移。零部件企業規模較小、固定成本佔比高，漲價直接轉化為利潤；同時產線擴產週期長達12—18個月，供給彈性最差。重視閥門管路、陶瓷件、射頻電源、GAS BOX等海外供應商交期延長帶來的國產替代訴求與漲價邏輯。
-
----
-
-### 2026-08-20 07:59:36  #其他
-
-【上海啟動百業千企10×100 AI場景共創計劃 培養複合型人才】近日，上海交通大學聯合上海市人工智慧協會、上海市人工智慧研究院等單位，共同發起成立AI時代商科人才培養聯盟，並啟動百業千企10×100 AI場景共創計劃，為人工智慧技術產業落地培養既懂技術又善管理的複合型人才。（央視新聞）
-
----
-
-### 2026-08-20 07:58:14  #市場 #國際
-
-日本20年期國債收益率下跌6個基點至3.715%。日本10年期國債收益率下降3.5個基點，報2.855%。
-
----
-
-### 2026-08-20 07:58:04  #公司 #觀點
-
-【中金：A股自7月底以來的修復行情仍有望延續】中金公司指出，影響市場的幾項外部敘事仍偏短期、階段性，A股自7月底以來的修復行情仍有望延續。配置層面，外部衝擊下市場波動加大，紅利風格19日重新佔優。後續隨著市場風險偏好逐步修復和業績高峰期臨近，我們建議關注業績確定性較強的領域和企業。關注兩大主線：1、景氣成長仍需要精挑細選：科技板塊經過調整後擁擠度已明顯回落，景氣度足夠高的產業能夠實現分子端高增長對沖分母端拖累的效果，AI基礎設施相關環節，如光通訊、PCB等環節，高景氣狀態在今年確定性仍較強，半導體及算力等領域較多公司則仍需要關注基本面與估值的匹配程度，科技成長後市或呈現分化走勢；創新藥較多公司進入臨床資料驗證階段，值得自下而上關注。2、週期改善：越來越多領域基本面正從週期底部回升，我們建議綜合考慮地緣局勢與產能週期位置，關注業績向好及供需格局改善的領域，如電網裝置、石化化工、工程機械，以及受益資本市場向好的非銀金融等行業；有色金屬金屬板塊經歷較多調整後也值得關注。純內需行業的基本面回升進展仍然相對偏緩，需要進一步觀察。（第一財經）
 
 ---
