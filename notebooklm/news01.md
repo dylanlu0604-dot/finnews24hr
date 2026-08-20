@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:58:33_
-_本檔包含 3314 則快訊，約 641054 字_
+_更新時間：2026-08-21 04:37:11_
+_本檔包含 3327 則快訊，約 641940 字_
+
+---
+
+### 2026-08-21 04:35:00  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.26% Lower — The Dow Jones Index decreased 673 points or 1.26 percent on Thursday to close at 52790 points. The decline was led by Walmart (-9.03%), Boeing (-3.09%) and Home Depot (-2.86%).
+
+---
+
+### 2026-08-21 04:31:59  #MKT News #Market Themes #Chip Wars #AI Revolution #AVGO.O #Impact mixed #NVDA.O
+
+【Sources: Broadcom in talks to raise over $60bn debt for AI-chip deal】Broadcom (AVGO.O) is negotiating with lenders to raise more than $60bn of debt to finance an AI‑chip transaction that would benefit Anthropic and other AI firms, people familiar with the matter said. The package, still being finalised, could include a roughly $30bn subordinated tranche; under the proposal Broadcom would guarantee part of the secured debt—potentially $60–70bn—with the total programme possibly reaching about $100bn. The agreement would accelerate AI infrastructure financing as Broadcom seeks to expand chip and data‑centre equipment sales to challenge NVIDIA.
+
+---
+
+### 2026-08-21 04:31:22  #央行 #市場 #國際
+
+美國至8月14日當週外國央行持有美國國債 -106.71億美元，前值-342.57億美元。
+
+---
+
+### 2026-08-21 04:31:13  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Foreign central banks' holdings of US Treasuries fell $10.67bn in the week to Aug. 14, versus a $34.26bn decline in the prior week.
+
+---
+
+### 2026-08-21 04:31:04  #MKT News #Economic Calendar #Important
+
+United States | US Treasuries held by Foreign Central Banks (Aug.14) | actual -10671000000B | previous -34257000000B
+
+---
+
+### 2026-08-21 04:30:21  #國際
+
+建材巨頭Holcim據稱將收購James Hardie的部分歐洲業務。
+
+---
+
+### 2026-08-21 04:28:58  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Lower on Banking Losses — The S&P/TSX Composite Index edged 0.1% lower to close at 36,365 on Thursday as rising oil prices fueled inflation concerns. Oil prices climbed after US President Donald Trump announced a sweeping package of economic measures targeting Iran. Financials and the broader market came under pressure as bond yields rose amid renewed inflation worries, with RBC down 1.2%, TD Bank shedding 1.4%, BMO losing 1.6%, CIBC retreating 1.9% and Scotiabank falling 1.5%. Retail stocks also posted losses after Walmart sank more than 9% on Wall Street following weaker-than-expected second-quarter results. ATD shed 2.2%, Loblaw lost 1.3% and Dollarama fell 1.4%. Meanwhile, miners extended gains after rallying the previous day as gold prices firmed near a more than two-month high. Agnico Eagle and WPM added 1.8% each, Barrick gained 2.4% and Franco-Nevada advanced 2.8%. Energy stocks also rose amid higher oil prices, with Canadian Natural adding 2.9%.
+
+---
+
+### 2026-08-21 04:28:30  #MKT News
+
+【Chinese container ship makes inaugural call at Russia's Murmansk port】Murmansk commercial seaport held a welcome ceremony on the 20th for the first Chinese container vessel to call the port, marking the launch of regular container cargo services from Chinese coastal ports via the Northern Sea Route to Russia's largest Arctic deepwater port.
+
+---
+
+### 2026-08-21 04:28:23  #市場 #國際
+
+【中國集裝箱船首次成功抵達俄摩爾曼斯克港】俄羅斯摩爾曼斯克海上貿易港20日舉行首艘中國集裝箱船靠港歡迎儀式，慶祝該港首條來自中國的集裝箱航線順利開通。這標誌著透過北極航道連線中國沿海港口與俄北極圈內最大深水港的定期貨物運輸業務正式拉開序幕。（新華社）
+
+---
+
+### 2026-08-21 04:27:28  #宏觀 #公司 #市場 #觀點 #央行 #國際
+
+【花旗對美元短期看法轉為看空 此前就美債回購風險發出警告】隨著市場為美聯儲鷹派立場減弱、美國中期選舉以及美國財政部擴大國債回購做準備，花旗集團外匯策略師對美元的短期看法轉為看空。花旗策略師Daniel Tobon等人在週四的研究報告中寫道，該團隊將未來三個月的美元指數預期從102.12下調至98.34。此前花旗警告稱，美國財政部長斯科特·貝森特試圖透過擴大10年至30年期國債回購規模來壓低長期借貸成本，此舉可能會讓美元付出代價。美元指數報98.9，基本持平，前一日曾跌至5月以來最低。Tobon等人表示，過去幾個月，他們對美元一直持“更偏中性”的看法，警告稱未來幾個月風險可能上升。
+
+---
+
+### 2026-08-21 04:26:43  #其他
+
+幣安：將繼續與阿聯酋有關部門全面配合。
+
+---
+
+### 2026-08-21 04:26:09  #其他
+
+幣安：員工從未成為調查物件，常規調查涉及第三方資金流向。相關人員提交的陳述已迅速澄清。
+
+---
+
+### 2026-08-21 04:25:07  #MKT News #BA.O #Impact bullish
+
+【US approves up to $4.5 bln KC-46A tanker sale to Qatar】The US State Department said on the 20th it has approved a proposed foreign military sale to Qatar of up to four KC-46A aerial refueling tankers and associated equipment and services, valued at up to $4.5 bln. Qatar’s request includes engines, radar-warning receivers, infrared countermeasures and related support services. The State Department said the sale would strengthen the security of a US strategic regional partner, support US foreign policy and national security objectives, improve Qatar’s defence and interoperability with US and allied forces, and bolster its regional strategic role. The KC-46A, built by Boeing on a 767 airframe, is the US Air Force’s latest tanker; first delivery occurred in Jan 2019. Boeing describes the platform as providing refueling plus multi-mission combat capabilities and data transmission functions.
+
+---
+
+### 2026-08-21 04:24:09  #MKT News
+
+Panama Canal Authority to closely monitor weather, watershed inflows and lake levels.
+
+---
+
+### 2026-08-21 04:24:02  #MKT News #Brent #Impact bullish #Copper #Impact bearish
+
+Panama Canal: planned reduction in maximum allowable draft to 14.48 metres (47.5 ft, tropical fresh water) originally due to take effect on Sept. 3, 2026, has been delayed and will now be effective Oct. 1, 2026.
+
+---
+
+### 2026-08-21 04:23:50  #MKT News
+
+Panama Canal said the planned Sept. 2, 2026 adjustment to the New Panamax locks' maximum permitted draft to 14.63 m (48.0 ft TFW) has been postponed due to weather and water-resource conditions.
+
+---
+
+### 2026-08-21 04:22:46  #MKT News
+
+Panama Canal will suspend offering conditional reservation windows for new Panamax vessels because available transit slots in the second booking period have been reduced.
+
+---
+
+### 2026-08-21 04:22:24  #宏觀 #國際
+
+【美國決定批准對卡達45億美元軍售】美國國務院20日宣佈，已決定批准一項或向卡達出售空中加油機及相關裝置的軍售計劃，預計總價值高達45億美元。美國務院在一份宣告中表示，卡達提出購買最多4架KC-46A空中加油機，以及發動機、雷達告警接收機和紅外對抗系統等相關配件和服務。宣告稱，此項軍售將有助於提升“美國戰略區域夥伴”的安全能力，從而支援美國的外交政策和國家安全目標；也將增強卡達的防禦能力及其與美軍及盟軍的協同作戰能力，並鞏固卡達在區域安全中的戰略作用。（新華社）
+
+---
+
+### 2026-08-21 04:22:12  #其他
+
+巴拿馬運河：原定於 2026 年 9 月 3 日生效的 14.48 米（47.5 英尺）TFW 最大允許吃水調整，將推遲至 2026 年 10 月 1 日執行。
+
+---
+
+### 2026-08-21 04:21:41  #其他
+
+巴拿馬運河：將新巴拿馬船閘最大允許吃水 14.63 米（48.0 英尺）TFW 的實施時間推遲至 2026 年 9 月 2 日。
+
+---
+
+### 2026-08-21 04:20:58  #其他
+
+巴拿馬運河：新巴拿馬型船閘每日通行名額調整至9個。巴拿馬型船閘每日通行名額調整至25個。
+
+---
+
+### 2026-08-21 04:20:42  #其他
+
+巴拿馬運河：因第二訂艙期內可用過境艙位縮減，新巴拿馬型船舶類別的附條件艙位將不再開放。
+
+---
+
+### 2026-08-21 04:20:21  #MKT News
+
+Panama Canal adjusts daily Panamax-lock transit allocation to 25 vessels per day.
+
+---
+
+### 2026-08-21 04:20:13  #國際
+
+【七國敦促以色列撤回“E1區”定居點建設計劃】英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。七國在宣告中表示，以色列政府公佈“E1區”定居點建設專案招標決定“不可接受”，該專案將割裂約旦河西岸，損害巴勒斯坦領土的連續性，破壞“兩國方案”前景。（新華社）
+
+---
+
+### 2026-08-21 04:19:57  #MKT News
+
+Panama Canal: daily transit slots for Neo-Panamax locks adjusted to nine per day.
+
+---
+
+### 2026-08-21 04:16:44  #其他
+
+雅培同意以6.7億美元和解部分嬰兒配方奶粉索賠案。
+
+---
+
+### 2026-08-21 04:16:07  #其他
+
+【奈及利亞警方：索科託沉船事故已致46人死亡】當地時間8月20日傍晚，奈及利亞西北部索科託州警察局發言人艾哈邁德·魯法伊證實，當天在該州戈羅尼奧地方政府區戈勞鎮發生的沉船事故中，救援人員已找到46具乘客遺體，另有15名乘客獲救，目前仍有16人失蹤。（央視新聞）
+
+---
+
+### 2026-08-21 04:12:44  #MKT News #AVGO.O
+
+Broadcom (AVGO.O) is discussing providing guarantees for some senior secured notes.
+
+---
+
+### 2026-08-21 04:12:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall as Inflation Concerns Mount — US stock indices closed lower on Thursday amid concerns that the Treasury’s plan to curb borrowing costs may provide only a short-term fix, while higher energy prices stoked inflation worries. The S&P 500 lost 0.9%, the Nasdaq fell 0.7% and the Dow shed 704 points. Treasury yields rose across the curve as investors worried that the Treasury’s efforts to support notes and bonds could worsen the inflationary backdrop amid ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump said the US had entered an “economic war” with Iran, prolonging blockades of tankers crossing the Persian Gulf. Financials were mostly lower, with JPMorgan down 1.6% and Morgan Stanley losing 3.2%. AI hyperscalers also mostly declined following tepid financial results from OpenAI, which failed to grow at the same pace as rival Anthropic. Walmart sank 9.1%, its sharpest single-session decline in four years, after second-quarter sales fell short of expectations.
+
+---
+
+### 2026-08-21 04:12:05  #MKT News #BX.N #APO.O
+
+Market sources say Blackstone (BX.N) and Apollo are in talks to participate in semiconductor financing.
+
+---
+
+### 2026-08-21 04:11:11  #MKT News #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) rose more than 1% in after-hours trading.
+
+---
+
+### 2026-08-21 04:10:39  #MKT News #Important #AVGO.O #Impact mixed
+
+Broadcom (AVGO.O) is seeking to raise more than $60 bln in its latest AI-focused debt transaction, market sources said.
+
+---
+
+### 2026-08-21 04:09:50  #其他
+
+黑石和阿波羅據悉正就參與晶片融資進行談判。
+
+---
+
+### 2026-08-21 04:08:42  #公司 #其他 #國際
+
+博通擬透過最新 AI 相關債務融資，籌措逾 600 億美元資金。
+
+---
+
+### 2026-08-21 04:08:37  #MKT News #005380.KS #Impact bullish
+
+CNBC: Hyundai Motor CEO said the company will raise U.S. production capacity at its new Georgia factory.
+
+---
+
+### 2026-08-21 04:07:01  #公司
+
+現代汽車執行長表示，公司計劃到 2028 年，將佐治亞州超級工廠規劃產能從 50 萬輛提升至 70‑80 萬輛。
+
+---
+
+### 2026-08-21 04:06:46  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Ross Stores earnings above expectations at 2.66 USD — Ross Stores (ROST) released earnings per share at 2.66 USD, compared to market expectations of 1.94 USD.
+
+---
+
+### 2026-08-21 04:05:10  #MKT News #Important #Star Stocks #Alibaba #S&P500 #Impact bearish #MRNA.O #MRVL.O #Impact bullish
+
+【US close: major indexes down; Moderna down 23.5%】US stocks closed lower Thursday: Dow Jones Industrial Average down about 1.3%, S&P 500 down 0.86%, Nasdaq down 1.0%. Moderna (MRNA.O) fell 23.5%; Walmart (WMT.N) fell about 9%. Marvell Technology Group (MRVL.O) rose 5.8%; Micron (MU.O) rose ~4%; SanDisk (SNDK.O) rose ~2%. The Nasdaq Golden Dragon China Index fell more than 1%; Alibaba (BABA.N) rose 1.3%.
+
+---
+
+### 2026-08-21 04:05:08  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
+
+U.S. equities closed lower on Thursday Aug 20: the Dow Jones Industrial Average fell 700.75 points (-1.31%) to 52,762.30; the S&P 500 dropped 66.42 points (-0.86%) to 7,641.56; the Nasdaq Composite lost 263.92 points (-1.00%) to 26,067.17.
+
+---
+
+### 2026-08-21 04:04:46  #其他
+
+哥倫比亞總統正式任命新的軍隊領導層。
+
+---
+
+### 2026-08-21 04:04:39  #MKT News #Market Regions #Emerging Markets
+
+Colombia's president formally appoints new military leadership.
+
+---
+
+### 2026-08-21 04:04:01  #MKT News #Macro & Rates #US Economy
+
+Cuba's foreign minister said the U.S. continues to sanction Cuban firms to damage Cuba's economy and impede the government's delivery of basic services, which are already strained by the long-standing embargo.
+
+---
+
+### 2026-08-21 04:01:51  #其他
+
+沃爾瑪股價收跌9.2%，創下2022年5月以來最大單日跌幅。
+
+---
+
+### 2026-08-21 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌1.31%，標普500指數跌0.86%，納指跌1.00%。Moderna跌23.55%，沃爾瑪跌9.15%，直覺外科跌5.86%，CrowdStrike跌5.61%。“七姐妹”方面：Meta Platforms跌0.03%，英偉達跌0.33%，微軟跌0.43%，谷歌跌1.02%，特斯拉跌1.71%，蘋果跌1.75%，亞馬遜跌2.16%。
+
+---
+
+### 2026-08-21 04:00:45  #MKT News #Macro & Rates #US Economy #WTI #Impact bearish #Brent
+
+【U.S. to sustain economic pressure on Iran to prevent nuclear rebuild, says Vance】U.S. Vice President Vance said Washington will continue using economic pressure to prevent Iran from rebuilding nuclear facilities. He said increasing oil and gas supply to lower energy prices, combined with punitive steps over attacks on commercial shipping, would impose significant economic strain on Iran and could alter its negotiating calculus. Vance described the current phase as one in which economic pressure is the most effective tool and said the U.S. will maintain that pressure to ensure Iran’s nuclear sites are destroyed and deter any attempt to rebuild them.
+
+---
+
+### 2026-08-21 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.12%】Tims中國跌11.81%，萬物新生跌11.00%，愛奇藝跌9.29%，金山雲跌7.64%，亞朵集團跌7.50%。
+
+---
+
+### 2026-08-21 03:58:18  #國際
+
+市場訊息：現代汽車將提升其佐治亞州新工廠的美國本土產能。
 
 ---
 
@@ -19809,209 +20091,5 @@ Australia's foreign minister will summon the Israeli ambassador over Israel's de
 ### 2026-08-20 05:01:28  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
 
 【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages.
-
----
-
-### 2026-08-20 05:00:04  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Kyiv mayor says the city is under ballistic missile attack.
-
----
-
-### 2026-08-20 04:59:42  #國際
-
-基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！
-
----
-
-### 2026-08-20 04:58:43  #國際
-
-【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）
-
----
-
-### 2026-08-20 04:57:53  #市場
-
-紐約期銀日內漲5%，現報67.28美元/盎司。
-
----
-
-### 2026-08-20 04:55:46  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
-
-El Salvador Producer Price Growth Accelerates — Producer prices in El Salvador rose 3.5% year-on-year in July 2026, accelerating from a 3.2% increase in the previous month. The pickup was largely driven by higher electricity, gas, steam and air-conditioning costs (23% vs. 15.2% in June). Prices for transport and warehousing also rose sharply (8.35% vs. 8.71%), albeit at a slower pace than in June, amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices rose at a faster pace for manufacturing (3.1% vs. 2.8%), lodging and food services (2% vs. 1.9%) and real estate (1.8% vs. 1.7%). Meanwhile, producer prices continued to decline for water supply, sewerage and waste management (-0.15% vs. -0.15%) and swung to deflation in healthcare (-0.1% vs. 3.8%).
-
----
-
-### 2026-08-20 04:54:31  #市場 #焦點
-
-紐約期銀突破67美元/盎司，日內漲4.72%。
-
----
-
-### 2026-08-20 04:54:00  #MKT News #Commodities #Precious Metals
-
-Spot palladium was up as much as 4% intraday at $1,335.58/oz.
-
----
-
-### 2026-08-20 04:51:44  #焦點 #國際
-
-美國擬將加拿大汽車關稅稅率由 25% 下調至 15%。美加貿易協議尚未最終敲定。
-
----
-
-### 2026-08-20 04:51:13  #市場 #焦點
-
-以太坊升破2200美元，日內漲15.87%。
-
----
-
-### 2026-08-20 04:50:34  #Trading Economics #Markets #commodity #Importance 0
-
-Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%.
-
----
-
-### 2026-08-20 04:44:19  #其他
-
-哥倫比亞天然氣行業協會（NATURGAS）：預計 2026 年哥倫比亞天然氣行業投資將增長 17%，達到 10.3 億美元。
-
----
-
-### 2026-08-20 04:43:33  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rebounds After Eleven-Day Losing Streak — The Ibovespa rose 0.9% to close at 167,830 on Wednesday, rebounding from eleven consecutive days of losses amid a stabilization in global bond yields. Yields in major economies declined after the US Treasury said it would double long-term security buybacks. Financials were mostly higher, with Itaú up 0.5%, Banco do Brasil adding 1.6% and B3 rising 0.8%. Petrobras gained 1.2% as oil futures rose for a fourth consecutive session amid fading prospects for a deal to end the conflict in the Middle East. Vale rose 0.8% amid iron ore supply concerns following failed wage negotiations between BHP and workers in Port Hedland, while CSN Mineração gained 2.2%. Meanwhile, steelmakers posted losses, with Gerdau tumbling 5.2% and CSN down 2.4%. Axia added 1.8% following its share buyback results and a buy recommendation from Itaú BBA. Embraer erased earlier gains after Itaú BBA raised its price target, closing 0.2% lower. Other notable performers included Rede D’Or (+2.6%) and Sabesp (+1%).
-
----
-
-### 2026-08-20 04:40:45  #宏觀 #公司 #市場 #觀點 #國際
-
-【花旗稱貝森特出手令美元付出代價 建議客戶採用這些策略加以應對】花旗集團認為，美國財政部長斯科特·貝森特為壓低長期借貸成本而採取的最新舉措可能會導致美元在短期內走弱。財政部週三擴大10至30年期國債回購規模的公告導致長債收益率走低並推動美元跌至5月中以來的最低水平。花旗策略師Dirk Willer等人在研報中指出，遏制收益率的努力可能會使美元承受壓力。 “以如此方式降低利率的主要代價就是貨幣走弱，” 他們寫道。花旗建議客戶面對此舉利用美元為押注高收益新興市場貨幣融資，因後者“在當前環境下也應表現不錯”。該行此前青睞用加元和瑞士法郎作為融資貨幣。
-
----
-
-### 2026-08-20 04:35:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index rose 89 points or 0.17 percent on Wednesday to close at 53433 points. Leading the gains are Merck (12.68%), Salesforce (4.80%) and Amgen (3.08%). Top losers were Caterpillar (-3.09%), Goldman Sachs (-1.78%) and Honeywell International (-1.66%).
-
----
-
-### 2026-08-20 04:33:41  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Edges Higher as Miners Rally — The S&P/TSX Composite Index edged 0.1% higher to close at 36,402 on Wednesday, lifted by a rally in mining stocks. Gold prices rose to their highest level since early June, tracking a rally in long-dated US Treasuries after the Treasury Department doubled its buyback of notes and bonds for the upcoming financial quarter. Major gold miners gained up to 12%, with Agnico Eagle surging 10.5%, Barrick adding 6.7% and WPM soaring 10.4%. Meanwhile, financials weighed on the index as oil prices extended gains, fueling inflation concerns. RBC shed 3.1%, TD Bank lost 3.5%, BMO fell 4.4%, CIBC retreated 3.7% and Scotiabank dropped 3.3%. Energy stocks posted losses despite higher oil prices, with Canadian Natural down 0.7% and Suncor losing 1%. Elsewhere, US President Trump paused 50% tariffs on select Canadian goods and signaled a trade deal with Canada was near. Still, reports indicated metals would remain tariffed. Industrials posted losses, with Enbridge down 2.7%.
-
----
-
-### 2026-08-20 04:32:54  #MKT News #Important
-
-【US federal debt tops $40 trillion】US federal debt topped $40.0 trillion on Tuesday, the Treasury Department said on Wednesday. Debt rose about $3.0 trillion in the past year — the fastest annual increase outside the pandemic — as federal borrowing accelerated. The total has climbed from under $6.0 trillion at the turn of the century and has roughly doubled over the past decade. The Congressional Budget Office projects publicly held federal debt-to-GDP will exceed the post‑war peak of 106% around 2030 and reach about 120% by 2036. A senior director at the Committee for a Responsible Federal Budget said the pace is a clear signal the situation is out of control.
-
----
-
-### 2026-08-20 04:27:04  #公司 #市場 #國際
-
-【美國商品期貨交易委員會（CFTC）就算力期貨合約公開徵求意見】美國商品期貨交易委員會（CFTC）正式啟動算力期貨監管意見徵集程式。CME芝商所、洲際交易所及金融科技公司Architect Financial Technologies等多家機構已宣佈，計劃在獲批後推出相關合約，助力AI開發者對沖能源短缺等風險。CFTC主席邁克爾·塞利格表示：”沒有強大的算力衍生品市場，美國就無法贏得AI競賽。” 並稱此次徵詢意見是建立算力市場明確規則的第一步。本次徵詢重點關注算力期貨與現有衍生品的差異，及結算價格指數等關鍵變數的統一標準問題。
-
----
-
-### 2026-08-20 04:26:42  #市場 #焦點
-
-紐約期金突破4580美元/盎司，日內漲3.61%。
-
----
-
-### 2026-08-20 04:26:29  #市場 #焦點
-
-現貨黃金突破4520美元/盎司，日內漲4.30%。
-
----
-
-### 2026-08-20 04:25:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed above $4,520/oz, up 4.29% on the day.
-
----
-
-### 2026-08-20 04:25:14  #MKT News #Commodities #Precious Metals
-
-Spot silver jumped 5% intraday to $66.51/oz.
-
----
-
-### 2026-08-20 04:25:06  #市場
-
-現貨白銀日內漲5%，現報66.51美元/盎司。
-
----
-
-### 2026-08-20 04:24:58  #市場
-
-紐約期銀日內漲4%，現報66.61美元/盎司。
-
----
-
-### 2026-08-20 04:23:22  #MKT News
-
-Al Jazeera: A U.S. State Department spokesperson said the Trump administration has discussed Syrian sovereignty and Israel's right to self-defense.
-
----
-
-### 2026-08-20 04:21:22  #MKT News #Market Themes #AI Revolution
-
-【CFTC seeks comment on compute-power futures】The U.S. Commodity Futures Trading Commission has opened a public comment on futures for compute power as industry players including CME, ICE and fintech Architect Financial Technologies plan contracts pending regulatory approval. Exchanges say compute futures would let end users and speculators hedge risks that could disrupt AI development, notably energy shortages. CFTC Chair Michael Selig said without a robust derivatives market for compute the U.S. cannot win the AI race and called the request for comment a first step to set clear rules for a U.S. compute market. The CFTC is soliciting input on how compute futures differ from other regulated derivatives and whether listing on CFTC-regulated venues would require standardizing variables affecting compute prices, including settlement reference price indices.
-
----
-
-### 2026-08-20 04:20:37  #市場 #焦點
-
-紐約期金突破4570美元/盎司，日內漲3.38%。
-
----
-
-### 2026-08-20 04:18:59  #宏觀 #國際
-
-美國國務院發言人向半島電視臺表示，特朗普政府開啟有關敘利亞主權以及以色列自衛權的相關討論。
-
----
-
-### 2026-08-20 04:18:33  #公司
-
-UBER 確認出售 7200 萬股 AURORA INNOVATION 股份。
-
----
-
-### 2026-08-20 04:17:35  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Close Mixed — US stock indices closed mixed on Wednesday as losses in AI infrastructure and bank stocks offset gains in other sectors. The S&P 500 added 0.2% and the Dow gained 120 points, while the Nasdaq shed 0.2%. The Treasury doubled the limit on buybacks of long-term securities for next quarter, adding to a series of measures aimed at controlling the recent surge in longer-term benchmark borrowing costs. Alongside lower rates, the prospect of increased dollar liquidity from the Treasury’s intervention also supported equities. This was combined with FOMC minutes confirming that some policymakers believe rate hikes may be appropriate this year. Retail stocks were mostly higher after TJX (-4.2%), Target (+4.3%) and Lowe’s (+2%) reported earnings. The pharmaceutical sector rallied, with Merck up 12.6% and Moderna surging 177% after a trial of their joint vaccine reduced melanoma recurrence. Meanwhile, tepid results from OpenAI pressured chip producers, with AMD (-3.7%) and Intel (-4%) dropping.
-
----
-
-### 2026-08-20 04:17:02  #國際
-
-市場訊息：路透調查顯示，美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 190 億立方英尺。
-
----
-
-### 2026-08-20 04:16:47  #其他
-
-Webull第二季度調整後淨利潤為4320萬美元，去年同期為1540萬美元。
-
----
-
-### 2026-08-20 04:14:48  #MKT News #Market Themes #AI Revolution #MSFT.O #Impact bullish
-
-【OpenAI to tighten safety processes for paying customers】OpenAI said it will tighten safety processes for paying customers and has begun testing "private safety processing", a system designed to detect risk patterns across multiple interactions rather than individual prompts and replies. The move targets risks that emerge as AI handles longer-horizon, more autonomous tasks and is intended to guard against malicious users and attacks by misaligned AI agents while remaining compatible with zero-data-retention—customer content will not be accessible to OpenAI. The feature is expected to roll out in September, accompanied by a technical white paper; early tests are underway with Microsoft and Databricks.
-
----
-
-### 2026-08-20 04:09:14  #MKT News #MRK.N #Impact bullish
-
-Merck (MRK.N) shares closed up 12.6%, their largest one-day gain since March 2009.
-
----
-
-### 2026-08-20 04:08:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Argentina's economy minister said the government approved a $6.4 billion investment incentive package for Tecpetrol's Los Toldos II oil project in the Vaca Muerta shale basin.
 
 ---

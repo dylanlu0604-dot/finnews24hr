@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:58:33_
-_本檔包含 3289 則快訊，約 640710 字_
+_更新時間：2026-08-21 04:37:11_
+_本檔包含 3270 則快訊，約 641339 字_
+
+---
+
+### 2026-08-19 04:32:48  #MKT News
+
+According to The Information, Anthropic has been preparing to grant CEO Dario Amodei and other co-founders a new class of stock carrying additional voting rights.
+
+---
+
+### 2026-08-19 04:32:01  #央行 #其他
+
+烏拉圭央行維持關鍵利率在5.75%不變。
+
+---
+
+### 2026-08-19 04:31:46  #國際
+
+【阿聯酋宣佈暫停與伊朗的貿易金融往來】阿聯酋外交部19日發表宣告表示，阿聯酋暫停與伊朗的所有貿易、商業往來和金融交易。（新華社）
+
+---
+
+### 2026-08-19 04:31:31  #其他
+
+【AI事故風險加劇：2025年前十月事件數已超2024全年】人工智慧造成危害的潛在風險正愈發凸顯。人工智慧事故資料庫（AI Incident Database）的資料顯示，2022‑2024年間，有記錄的AI相關事故同比上升50%；而截至2025年10月的前10個月，事故數量就已經超過2024年全年水平。
+
+---
+
+### 2026-08-19 04:30:28  #MKT News #HE.O #Impact bearish
+
+Hawaiian Electric Co.: As of 7:00 AM local time, roughly 57,000 customers are without power due to tropical storm 'Lala'.
+
+---
+
+### 2026-08-19 04:28:08  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Drops on Banking and Mining Losses — The S&P/TSX Composite Index fell 0.8% to close at 36,368 on Tuesday, weighed down by losses in the mining and financial sectors amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with RBC losing 1.3%, TD Bank shedding 1.7%, BMO down 1.2%, CIBC losing 1.3% and Scotiabank retreating 1.1%. Miners also declined as gold prices slipped, with Agnico Eagle down 0.8%, Barrick losing 0.9% and WPM shedding 2.8%. Most technology stocks tumbled, tracking a selloff in US chipmakers, with Shopify losing 1.2% and Celestica sinking 8.4%. In contrast, energy stocks gained on rising oil prices, with Canadian Natural up 0.9% and Suncor adding 1.7%. NexGen Energy (-4.4%) is discussing a potential equity stake with BHP in its Rook I mining project in Saskatchewan, CEO Leigh Curyer said.
+
+---
+
+### 2026-08-19 04:27:33  #MKT News #Important #Brent #Impact bullish #WTI #DXY
+
+【UAE suspends all trade, commercial and financial transactions with Iran】The UAE Foreign Ministry said it has suspended all trade, commercial and financial transactions with Iran until further notice amid regional escalation. The ministry’s director of strategic communications, Afra Mahash Al Hameli, dismissed reports questioning the state of UAE‑Iran economic ties.
+
+---
+
+### 2026-08-19 04:26:06  #國際
+
+以色列總理辦公室表示，以色列不會容忍對其安全的威脅。
+
+---
+
+### 2026-08-19 04:25:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel's Prime Minister's Office said Syria chose to ignore Israeli warnings about such deployments and that Israel will not tolerate threats to its security.
+
+---
+
+### 2026-08-19 04:24:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli Prime Minister's Office said Syria, by allowing Turkish forces to deploy to an airbase near Aleppo, had "come close" to breaking the security status quo with Israel.
+
+---
+
+### 2026-08-19 04:21:24  #市場 #焦點
+
+紐約期金失守4390美元/盎司，日內跌1.88%。
+
+---
+
+### 2026-08-19 04:20:52  #國際
+
+美國法庭檔案顯示，哈佛大學同意支付5300萬美元，就前停屍房主管盜竊遺體器官引發的家屬訴訟達成和解。
+
+---
+
+### 2026-08-19 04:20:06  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
+
+U.S. API weekly crude inventories for the week to Aug. 14 due in 10 minutes.
+
+---
+
+### 2026-08-19 04:19:41  #國際
+
+特朗普政府正準備加大對伊朗的經濟施壓力度。
+
+---
+
+### 2026-08-19 04:15:30  #MKT News
+
+UAE Foreign Ministry said the decision was taken against a backdrop of regional escalation that "undermines regional and international peace and security".
+
+---
+
+### 2026-08-19 04:14:58  #國際
+
+阿聯酋外交部宣告稱，鑑於地區局勢升級"破壞地區及國際和平與安全"，故作出此決定。
+
+---
+
+### 2026-08-19 04:14:36  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+UAE foreign ministry said it is suspending all commercial activity and financial transactions with Iran until further notice.
+
+---
+
+### 2026-08-19 04:13:36  #焦點 #國際
+
+阿聯酋外交部宣告稱，直至另行通知前，阿聯酋已全面停止與伊朗的所有貿易、商業往來及金融交易。
+
+---
+
+### 2026-08-19 04:11:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Keysight Technologies earnings above expectations at 3.07 USD — Keysight Technologies (KEYS) released earnings per share at 3.07 USD, compared to market expectations of 2.48 USD.
+
+---
+
+### 2026-08-19 04:10:47  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #EURUSD
+
+【Sources: US-Canada tariff waiver plan submitted to Trump for approval】Sources said the US and Canada have agreed a temporary plan to spare some Canadian goods from proposed 50% tariffs and have submitted it to President Trump for approval. Trump will decide whether tariffs scheduled to take effect at midnight local time on Aug. 19 are implemented. Negotiators held intensive talks; the US is seeking removal of Canadian retaliatory measures on autos and alcohol and changes to dairy supply management, while Canada wants lower US tariffs on autos and other goods. Officials hope a limited deal could pave the way for broader USMCA talks, but auto tariffs remain the core dispute. If imposed, the measures would affect only part of bilateral trade but could jeopardize negotiations covering nearly $1tn in US‑Canada goods and services. Canadian Prime Minister Carney faces domestic political risk from concessions; US tariff action could add pre-midterm economic pressure in swing states such as Maine and Michigan.
+
+---
+
+### 2026-08-19 04:10:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Slide on Chipmaker Selloff — US stock indices closed lower on Tuesday amid a selloff in chipmakers and elevated bond yields. The S&P 500 fell 0.7%, the Nasdaq lost 1.7% and the Dow shed 116 points. Long-term yields slipped from recent peaks but remained near multi-year highs as inflation risks and surging bond issuance by AI companies fueled uncertainty over term premia. Inflation concerns were magnified by further increases in energy prices as the US signaled a prolonged blockade of Iranian tanker exports. Chipmakers tied to the AI trade posted sharp losses, with Nvidia down 2.3%, Broadcom shedding 3.2%, Micron losing 7% and AMD retreating 4.3%. Intel tumbled 6.6%, while Sandisk sank 9%. Other major AI companies also closed lower, with Meta losing 4.4%, Tesla down 0.7% and Oracle shedding 2.7%. Credit-sensitive financial stocks came under pressure, with Goldman Sachs (-1%) and Citigroup (-0.6%) closing lower. Home Depot shed 0.1% despite beating earnings estimates amid elevated borrowing and housing costs.
+
+---
+
+### 2026-08-19 04:08:33  #MKT News
+
+cenc measured a magnitude-5.1 earthquake in Afghanistan at 03:51 on Aug 19 at 36.45N, 70.80E; hypocenter depth 200 km.
+
+---
+
+### 2026-08-19 04:08:10  #其他
+
+中國地震臺網正式測定：08月19日03時51分在阿富汗（北緯36.45度，東經70.80度）發生5.1級地震，震源深度200千米。
+
+---
+
+### 2026-08-19 04:06:44  #其他
+
+沙特公共投資基金（PIF）去年管理資產規模縮水100億美元，降至約9000億美元。
+
+---
+
+### 2026-08-19 04:05:48  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+U.S. stocks closed lower on Tuesday, August 18: Dow Jones Industrial Average down 116.20 points (-0.22%) at 53,343.58; S&P 500 down 53.15 points (-0.69%) at 7,691.91; Nasdaq Composite down 355.20 points (-1.33%) at 26,289.71.
+
+---
+
+### 2026-08-19 04:02:40  #MKT News #Important #Star Stocks #NVIDIA #Alibaba #Market Themes #Magnificent 7 #MU.O #Impact bearish #SKHY.O #NVDA.O
+
+【US close: major indexes lower; SK Hynix down over 9%】U.S. stocks closed lower on Tuesday: the Dow Jones Industrial Average fell 0.2%, the S&P 500 dropped 0.69% and the Nasdaq Composite fell 1.33%. Semiconductor names led declines—SanDisk (SNDK.O) down 9%, Western Digital (WDC.O) down 7%, Micron Technology (MU.O) down 7% and SK Hynix (SKHY.O) down over 9%—while NVIDIA (NVDA.O) slipped 2%. The Nasdaq Golden Dragon China Index fell 1%; Alibaba (BABA.N) rose 2.8%.
+
+---
+
+### 2026-08-19 04:01:40  #國際
+
+美國證券交易委員會（SEC）表示，就次級汽車貸款機構Tricolor涉19億美元倒閉事件，對多名前高管提起欺詐指控。
+
+---
+
+### 2026-08-19 04:01:14  #公司 #國際
+
+敘利亞石油公司：初步調查顯示，爆炸是蓄意破壞行為的結果。
+
+---
+
+### 2026-08-19 04:00:49  #MKT News #Commodities #Energy
+
+Syrian state news agency says Syria Petroleum Company reported an explosion on the gas export pipeline at the Jabusa gas plant, cutting gas flows. Preliminary investigation attributes the blast to deliberate sabotage; no casualties reported.
+
+---
+
+### 2026-08-19 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.22%，標普500指數跌0.69%，納指跌1.32%。Coherent Corp跌12.84%，Lumentum Holdings Inc. Common Stock When Issued跌9.95%，希捷跌9.16%，閃迪跌9.01%。“七姐妹”方面：蘋果漲1.49%，微軟漲0.23%，谷歌跌0.02%，亞馬遜跌0.70%，特斯拉跌0.72%，英偉達跌2.36%，Meta Platforms跌4.47%。
+
+---
+
+### 2026-08-19 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.04%】Tims中國跌17.65%，世紀互聯跌16.92%，百度跌12.80%，中進醫療跌10.12%，愛奇藝跌7.89%。
+
+---
+
+### 2026-08-19 03:59:17  #公司 #國際
+
+敘利亞石油公司表示，員工無人受傷。
+
+---
+
+### 2026-08-19 03:58:59  #公司 #國際
+
+敘利亞石油公司表示，賈布薩天然氣廠的一條天然氣出口管道發生爆炸，導致該管道停止輸氣。
+
+---
+
+### 2026-08-19 03:58:54  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slid to $4,340/oz, down 1.75% intraday.
+
+---
+
+### 2026-08-19 03:57:24  #市場 #焦點
+
+現貨黃金失守4340美元/盎司，日內跌1.76%。
+
+---
+
+### 2026-08-19 03:56:49  #公司
+
+訊息人士：派拉蒙再度聘用兩名谷歌前高管。
+
+---
+
+### 2026-08-19 03:54:21  #市場 #焦點
+
+美國天然氣期貨漲超3.00%，現報2.811美元/百萬英熱。
+
+---
+
+### 2026-08-19 03:52:26  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up on 18th】The dollar index (DXY) rose 0.02% to 99.657 at the New York close on the 18th. Major crosses: EUR/USD 1.1576 (prev. 1.1572); GBP/USD 1.3534 (prev. 1.3538); USD/JPY 159.60 (prev. 159.59); USD/CHF 0.8125 (prev. 0.8115); USD/CAD 1.3906 (prev. 1.3877); USD/SEK 9.5395 (prev. 9.5193).
+
+---
+
+### 2026-08-19 03:52:21  #市場
+
+【美元指數18日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.657。截至紐約匯市尾市，1歐元兌換1.1576美元，高於前一交易日的1.1572美元；1英鎊兌換1.3534美元，低於前一交易日的1.3538美元。1美元兌換159.60日元，高於前一交易日的159.59日元；1美元兌換0.8125瑞士法郎，高於前一交易日的0.8115瑞士法郎；1美元兌換1.3906加元，高於前一交易日的1.3877加元；1美元兌換9.5395瑞典克朗，高於前一交易日的9.5193瑞典克朗。
+
+---
+
+### 2026-08-19 03:51:43  #MKT News #DIS.N
+
+U.S. Federal Communications Commission chair said no decision has been made yet on the review of Disney (DIS.N)'s ABC television license.
+
+---
+
+### 2026-08-19 03:49:42  #MKT News #XAUUSD #Impact bearish
+
+COMEX gold futures fell below $4,400/oz, down 1.64% intraday.
+
+---
+
+### 2026-08-19 03:49:34  #國際
+
+美國聯邦通訊委員會主席布倫丹·卡爾為審查迪士尼旗下ABC電視臺執照辯護，稱尚未做出任何決定。
+
+---
+
+### 2026-08-19 03:49:26  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 589.70 USD, the lowest since July 2026. Over the past 4 weeks, Deere & Company gained 0.66%, and in the last 12 months, it increased 20.52%.
+
+---
+
+### 2026-08-19 03:49:24  #市場
+
+紐約期銀日內跌4%，現報63.57美元/盎司。
+
+---
+
+### 2026-08-19 03:49:24  #市場 #焦點
+
+紐約期金失守4400美元/盎司，日內跌1.67%。
+
+---
+
+### 2026-08-19 03:47:18  #MKT News
+
+【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions.
 
 ---
 
@@ -19464,395 +19740,5 @@ Sri Lanka Manufacturing Activity Picks Up in July — Sri Lanka’s Manufacturin
 ### 2026-08-17 20:51:44  #MKT News
 
 Saudi Arabia TV reported Iran's foreign ministry said the Islamabad agreement has not collapsed and could still be restored.
-
----
-
-### 2026-08-17 20:51:20  #其他
-
-【禮來1類新藥在中國啟動新III期臨床】藥物臨床試驗登記與資訊公示平臺官網顯示，禮來登記了一項Brenipatide注射液在成人抑鬱症參與者中的III期臨床研究。Insight資料庫顯示，Brenipatide是全球首個啟動抑鬱症III期臨床的GLP-1類產品。
-
----
-
-### 2026-08-17 20:50:06  #公司
-
-【好利科技：股東孫劍波減持後持股降至5%以下】好利科技公告稱，孫劍波於2026年8月13日至2026年8月14日透過集中競價方式減持公司股份5700股，佔公司總股本的0.00311%。截至權益變動報告書籤署日，孫劍波持有公司股份9148455股，佔公司總股本的4.99998%，不再是公司持股5%以上股東。本次減持在其此前披露的減持計劃範圍內，不觸及要約收購，不會導致公司控股股東和實際控制人發生變化，該減持計劃尚未實施完畢。
-
----
-
-### 2026-08-17 20:50:01  #公司
-
-【多氟多：2026年上半年淨利潤5.12億元，同比增長897.19%】多氟多公告，2026年上半年營業收入70.36億元，同比增長62.55%。歸屬於上市公司股東的淨利潤5.12億元，同比增長897.19%；扣非淨利潤4.96億元，上年同期為-480.93萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 20:49:54  #其他
-
-阿聯酋國民銀行率先推出專項轉型融資框架，推動阿聯酋脫碳程序。
-
----
-
-### 2026-08-17 20:49:47  #其他
-
-Groq已以35億美元的估值融資3.5億美元。
-
----
-
-### 2026-08-17 20:49:47  #MKT News
-
-South Africa's finance minister to present medium-term budget on Oct. 21.
-
----
-
-### 2026-08-17 20:49:41  #宏觀
-
-南非財政部長將於10月21日提交中期預算案。
-
----
-
-### 2026-08-17 20:49:36  #MKT News
-
-Groq raised $350 mln at a $3.5 bln valuation.
-
----
-
-### 2026-08-17 20:49:28  #公司
-
-據悉，BDT出售Alliance Laundry股份的交易將於週二定價。
-
----
-
-### 2026-08-17 20:47:17  #國際
-
-【OpenAI宣佈加入位於俄亥俄州派克縣的PORTS-Pike專案】OpenAI宣佈，已與SB Energy、NVIDIA及美國能源部合作，在俄亥俄州派克縣的PORTS-Pike技術園區獲得約8吉瓦的IT裝置。該專案預計在建設期至2032年的六年內創造35,000個建築崗位，以及2,500個長期運營崗位。SB Energy將根據與OpenAI簽訂的20年租賃協議，建設、擁有並運營該資料中心，並逐步交付容量。 OpenAI將成為客戶，利用該站點的容量，該站點將專門託管NVIDIA AI計算基礎設施。
-
----
-
-### 2026-08-17 20:47:08  #其他
-
-【渝昆高鐵昭通段車站建設進展順利】目前，渝昆高鐵雲貴站房一標專案正在加緊施工，多個車站工程進展順利。渝（重慶）昆（昆明）高鐵是國家“八縱八橫”高鐵網京昆高鐵的重要組成部分，設計行車時速350公里。（新華社）
-
----
-
-### 2026-08-17 20:46:16  #MKT News #Market Regions #Europe & UK #BCS.N
-
-Financial Times reports Barclays (BCS.N) has hired Mike Joo as co-CEO of its investment bank.
-
----
-
-### 2026-08-17 20:45:56  #市場
-
-義大利30年期國債收益率<IT30YT=RR>升至4.8185%，創下2023年11月以來新高。
-
----
-
-### 2026-08-17 20:45:43  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #DAX
-
-Italy's 30-year bond yield reached 4.8185%, the highest since November 2023.
-
----
-
-### 2026-08-17 20:45:27  #MKT News
-
-NVIDIA (NVDA.O): OpenAI's commitments by 2030 would correspond to roughly $600 billion of NVIDIA compute business.
-
----
-
-### 2026-08-17 20:45:19  #公司
-
-英偉達公司：OpenAI的相關承諾意味著，截至2030年，將產生約6000億美元的英偉達算力採購規模。
-
----
-
-### 2026-08-17 20:44:35  #MKT News #Market Regions #Europe & UK #BCS.N
-
-Financial Times reports Adeel Khan will be promoted to co-chief executive of Barclays (BCS.N), responsible for global markets.
-
----
-
-### 2026-08-17 20:44:31  #Trading Economics #Markets #Russia #currency #Importance 0
-
-Russian Ruble Hits 16-month Low — The Russian Ruble touched 87.09 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Russian Ruble gained 8.19%, and in the last 12 months, it increased 5.92%.
-
----
-
-### 2026-08-17 20:43:57  #其他
-
-英偉達：OPENAI將支付租金。
-
----
-
-### 2026-08-17 20:43:40  #市場
-
-匈牙利審查政府合同後，4IG股價下跌高達5.8%。
-
----
-
-### 2026-08-17 20:43:11  #國際
-
-英偉達：初始承諾的支付義務上限為1050億美元。
-
----
-
-### 2026-08-17 20:43:04  #MKT News #Market Regions #Greater China
-
-【Guangzhou Baiyunshan Zhongyi receives NMPA approval to trial Zhangyanming tablets for dry‑eye indication】Guangzhou Baiyunshan Zhongyi Pharmaceutical’s exclusive flagship product Zhangyanming tablets has received approval from the National Medical Products Administration (NMPA) to initiate clinical trials for a new "dry eye" indication. The program is registered as category 2.3 (modified new drug).
-
----
-
-### 2026-08-17 20:42:55  #其他
-
-OpenAI將透過ChatGPT提供8400萬美元的Codex額度。
-
----
-
-### 2026-08-17 20:42:28  #其他
-
-OpenAI承諾至2030年前大規模部署英偉達基礎設施。
-
----
-
-### 2026-08-17 20:42:15  #其他
-
-市場訊息：巴克萊銀行對投行部門高層進行大改組。阿迪爾·汗（Adeel Khan）將晉升為巴克萊(BCS.N)聯席執行長，負責全球市場業務。
-
----
-
-### 2026-08-17 20:42:13  #MKT News #BCS.N
-
-Financial Times reports Barclays (BCS.N) has significantly reshuffled senior leadership in its investment bank.
-
----
-
-### 2026-08-17 20:41:50  #其他
-
-【廣州白雲山中一藥業障眼明片獲批開展乾眼適應症臨床試驗】據廣藥白雲山公眾號訊息，近日，廣州白雲山中一藥業獨家核心品種——障眼明片正式獲得國家藥品監督管理局核發《藥物臨床試驗批准通知書》，批准開展新增“乾眼”適應症臨床試驗（註冊分類2.3類改良型新藥）。
-
----
-
-### 2026-08-17 20:41:31  #MKT News #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) said AI systems in its Ports‑Pike project could generate $150–200 billion in revenue; its Ohio factory could equip roughly 1.5 million GPUs per system generation.
-
----
-
-### 2026-08-17 20:41:25  #市場
-
-法國10年期國債收益率上升1個基點，至2009年6月以來的最高水平4.0516%。
-
----
-
-### 2026-08-17 20:41:18  #其他
-
-【國家醫保局：首批31個DRG基層病組確定 將以醫保支付引導常見病治療下沉】經過多輪專家論證，在即將印發的按病種付費3.0版分組方案中，DRG技術指導組最終確定首批31個DRG基層病組推薦名單，包含27個內科病種和4個手術操作病種，包括高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病、等27個內科病組，以及4個手術操作病組。國家醫保局方面表示，基層病組主要針對適宜在符合條件的二級及以下醫療機構收治，適合基層診治的常見病、多發病、康復期病種及病情穩定的慢性病，篩選重點考察臨床路徑是否清晰、基層診治佔比以及不同層級醫療機構次均費用差異等。基層病組核心特徵是“同病同付”，即在一個統籌區內，同一病組在三級醫院與一、二級醫院的醫保支付標準一致，以支付槓桿引導常見病、多發病合理下沉基層治療。31個DRG病組只是開始，後續將動態監測並適時調整。 (財聯社)
-
----
-
-### 2026-08-17 20:40:51  #MKT News #Important #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish
-
-France's 10-year bond yield rose 1bp to 4.0516%, its highest level since June 2009.
-
----
-
-### 2026-08-17 20:40:41  #其他
-
-英偉達：俄亥俄工廠每一代系統或將配備約150萬顆GPU。
-
----
-
-### 2026-08-17 20:40:34  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): OpenAI commits to large-scale deployment of NVIDIA AI infrastructure by 2030.
-
----
-
-### 2026-08-17 20:40:28  #其他
-
-英偉達：Ports‑Pike專案的AI系統有望實現1500‑2000億美元營收。
-
----
-
-### 2026-08-17 20:40:17  #MKT News #Market Themes #AI Revolution
-
-OpenAI will continue investing in safety architecture and control measures.
-
----
-
-### 2026-08-17 20:40:00  #公司
-
-【瑞聯新材：與華星印刷簽署技術許可協議，開展印刷OLED材料業務】瑞聯新材公告，公司與廣州華星光電印刷顯示技術有限公司於近日簽署《技術許可協議》，華星印刷將其在印刷OLED材料領域的相關專利及技術秘密許可給公司使用，公司及子公司在許可範圍內開展印刷OLED材料的研發、生產與銷售活動。協議有效期內，公司可在前期專案開發階段無償使用相關專利及技術秘密；若實現量產，許可費用按許可產品銷售額的一定比例計算。本次合作標誌著公司正式切入印刷OLED終端材料賽道。
-
----
-
-### 2026-08-17 20:39:49  #MKT News #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
-
-U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.3%, Nasdaq futures' gains narrowed to 0.2%.
-
----
-
-### 2026-08-17 20:39:17  #Trading Economics #Economy #United States #NY Empire State Manufacturing Index #Importance 2
-
-New York Manufacturing Activity Surprisingly Accelerates — The New York Fed’s Empire State Manufacturing Index rose to 20.6 in August 2026 from 15.6 in July and largely beating market forecasts of 11. The lates data showed that New York State manufacturing activity grew for a second month and to the greatest extent since late 2021, as both new orders and shipments continued to strengthen. Meanwhile, unfilled orders climbed notably amid substantially longer delivery times. Falling inventories suggested further deterioration in supply availability. Employment and the average workweek rose modestly, while input price pressures accelerated. Selling price growth remained elevated but moderated for a second consecutive month. Despite these cost and supply pressures, firms maintained an optimistic outlook for business activity.
-
----
-
-### 2026-08-17 20:39:07  #公司
-
-【曲江文旅：控股股東所持900萬股股份拍賣成交】曲江文旅公告稱，控股股東所持合計900萬股公司股份由杜邑投資集團競得，佔公司總股本比例為3.53%。本次拍賣後續涉及繳納拍賣餘款、股權變更過戶等環節，最終結果以相關法院出具的拍賣成交裁定為準。本次股權變更過戶完成後，相關股份變動均在同一實際控制人控制的主體之間進行，公司控股股東、實際控制人不會發生變化，杜邑投資集團受讓後6個月內不得減持該部分股份。
-
----
-
-### 2026-08-17 20:39:04  #MKT News #Market Themes #AI Revolution
-
-OpenAI is investing heavily in safety controls and deploying its models to help secure code.
-
----
-
-### 2026-08-17 20:38:56  #市場
-
-標普500指數期貨轉跌，抹去早前漲幅。
-
----
-
-### 2026-08-17 20:38:52  #其他
-
-OpenAI：將持續投入安全架構及管控體系建設。
-
----
-
-### 2026-08-17 20:38:38  #其他
-
-OpenAI：大規模重金投入基礎能力建設。利用模型幫助保障程式碼安全。
-
----
-
-### 2026-08-17 20:38:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will decisively strike any threats or acts of aggression.
-
----
-
-### 2026-08-17 20:38:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
-
-Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%.
-
----
-
-### 2026-08-17 20:37:15  #其他
-
-【中國能建與中國海油共商深化合作】據中國能建訊息，8月17日，中國能建黨委書記、董事長倪真在京與中國海油黨組書記、董事長張傳江舉行會談。雙方圍繞深化海洋能源、氣電、氫基能源、海外業務、科技創新等領域合作進行深入交流。
-
----
-
-### 2026-08-17 20:36:04  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
-
-German 10-year bond yield rose 1.5 bps intraday to 3.2138%, its highest level since May 2011.
-
----
-
-### 2026-08-17 20:36:03  #市場
-
-德國10年期國債收益率<DE10YT=RR>攀升至3.2138%，上漲1.5個基點，創下2011年5月以來新高。
-
----
-
-### 2026-08-17 20:35:39  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): SB Energy will operate the data center under a 20-year lease agreement with OpenAI.
-
----
-
-### 2026-08-17 20:35:14  #其他
-
-英偉達：SB能源將根據20年租約運營資料中心，租予OpenAI。
-
----
-
-### 2026-08-17 20:35:14  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): OpenAI will make an additional $40m contribution to a community welfare fund.
-
----
-
-### 2026-08-17 20:35:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): Ports-Pike project will create tens of thousands of jobs and establish an $80 mln community fund.
-
----
-
-### 2026-08-17 20:34:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): OpenAI will be a customer for 8 IT-GW of IT capacity at the Ports-Pike project.
-
----
-
-### 2026-08-17 20:34:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) will provide credit support for the initial 4.25 IT-GW project and holds an option to add a further 3.75 IT-GW of capacity.
-
----
-
-### 2026-08-17 20:34:26  #MKT News #NVDA.O
-
-NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy.
-
----
-
-### 2026-08-17 20:34:20  #其他
-
-市場訊息：英偉達擬向SB Energy投資15億美元。在與英偉達達成交易後，Groq在一輪融資中的估值達到35億美元。
-
----
-
-### 2026-08-17 20:34:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA.
-
----
-
-### 2026-08-17 20:34:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business.
-
----
-
-### 2026-08-17 20:33:56  #國際
-
-8月17日，國內基金淨買入印度股票510億印度盧比。
-
----
-
-### 2026-08-17 20:33:50  #資料 #市場 #國際
-
-加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。
-
----
-
-### 2026-08-17 20:33:45  #國際
-
-8月17日，全球基金淨賣出價值254億印度盧比的印度股票。
-
----
-
-### 2026-08-17 20:33:29  #公司
-
-【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 20:32:48  #其他
-
-【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）
-
----
-
-### 2026-08-17 20:32:38  #其他
-
-【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。
-
----
-
-### 2026-08-17 20:32:15  #公司
-
-【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
 
 ---

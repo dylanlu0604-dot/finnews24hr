@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:58:33_
-_本檔包含 3255 則快訊，約 641260 字_
+_更新時間：2026-08-21 04:37:11_
+_本檔包含 3243 則快訊，約 641021 字_
+
+---
+
+### 2026-08-20 05:00:04  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Kyiv mayor says the city is under ballistic missile attack.
+
+---
+
+### 2026-08-20 04:59:42  #國際
+
+基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！
+
+---
+
+### 2026-08-20 04:58:43  #國際
+
+【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）
+
+---
+
+### 2026-08-20 04:57:53  #市場
+
+紐約期銀日內漲5%，現報67.28美元/盎司。
+
+---
+
+### 2026-08-20 04:55:46  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
+
+El Salvador Producer Price Growth Accelerates — Producer prices in El Salvador rose 3.5% year-on-year in July 2026, accelerating from a 3.2% increase in the previous month. The pickup was largely driven by higher electricity, gas, steam and air-conditioning costs (23% vs. 15.2% in June). Prices for transport and warehousing also rose sharply (8.35% vs. 8.71%), albeit at a slower pace than in June, amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices rose at a faster pace for manufacturing (3.1% vs. 2.8%), lodging and food services (2% vs. 1.9%) and real estate (1.8% vs. 1.7%). Meanwhile, producer prices continued to decline for water supply, sewerage and waste management (-0.15% vs. -0.15%) and swung to deflation in healthcare (-0.1% vs. 3.8%).
+
+---
+
+### 2026-08-20 04:54:31  #市場 #焦點
+
+紐約期銀突破67美元/盎司，日內漲4.72%。
+
+---
+
+### 2026-08-20 04:54:00  #MKT News #Commodities #Precious Metals
+
+Spot palladium was up as much as 4% intraday at $1,335.58/oz.
+
+---
+
+### 2026-08-20 04:51:44  #焦點 #國際
+
+美國擬將加拿大汽車關稅稅率由 25% 下調至 15%。美加貿易協議尚未最終敲定。
+
+---
+
+### 2026-08-20 04:51:13  #市場 #焦點
+
+以太坊升破2200美元，日內漲15.87%。
+
+---
+
+### 2026-08-20 04:50:34  #Trading Economics #Markets #commodity #Importance 0
+
+Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%.
+
+---
+
+### 2026-08-20 04:44:19  #其他
+
+哥倫比亞天然氣行業協會（NATURGAS）：預計 2026 年哥倫比亞天然氣行業投資將增長 17%，達到 10.3 億美元。
+
+---
+
+### 2026-08-20 04:43:33  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rebounds After Eleven-Day Losing Streak — The Ibovespa rose 0.9% to close at 167,830 on Wednesday, rebounding from eleven consecutive days of losses amid a stabilization in global bond yields. Yields in major economies declined after the US Treasury said it would double long-term security buybacks. Financials were mostly higher, with Itaú up 0.5%, Banco do Brasil adding 1.6% and B3 rising 0.8%. Petrobras gained 1.2% as oil futures rose for a fourth consecutive session amid fading prospects for a deal to end the conflict in the Middle East. Vale rose 0.8% amid iron ore supply concerns following failed wage negotiations between BHP and workers in Port Hedland, while CSN Mineração gained 2.2%. Meanwhile, steelmakers posted losses, with Gerdau tumbling 5.2% and CSN down 2.4%. Axia added 1.8% following its share buyback results and a buy recommendation from Itaú BBA. Embraer erased earlier gains after Itaú BBA raised its price target, closing 0.2% lower. Other notable performers included Rede D’Or (+2.6%) and Sabesp (+1%).
+
+---
+
+### 2026-08-20 04:40:45  #宏觀 #公司 #市場 #觀點 #國際
+
+【花旗稱貝森特出手令美元付出代價 建議客戶採用這些策略加以應對】花旗集團認為，美國財政部長斯科特·貝森特為壓低長期借貸成本而採取的最新舉措可能會導致美元在短期內走弱。財政部週三擴大10至30年期國債回購規模的公告導致長債收益率走低並推動美元跌至5月中以來的最低水平。花旗策略師Dirk Willer等人在研報中指出，遏制收益率的努力可能會使美元承受壓力。 “以如此方式降低利率的主要代價就是貨幣走弱，” 他們寫道。花旗建議客戶面對此舉利用美元為押注高收益新興市場貨幣融資，因後者“在當前環境下也應表現不錯”。該行此前青睞用加元和瑞士法郎作為融資貨幣。
+
+---
+
+### 2026-08-20 04:35:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index rose 89 points or 0.17 percent on Wednesday to close at 53433 points. Leading the gains are Merck (12.68%), Salesforce (4.80%) and Amgen (3.08%). Top losers were Caterpillar (-3.09%), Goldman Sachs (-1.78%) and Honeywell International (-1.66%).
+
+---
+
+### 2026-08-20 04:33:41  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Higher as Miners Rally — The S&P/TSX Composite Index edged 0.1% higher to close at 36,402 on Wednesday, lifted by a rally in mining stocks. Gold prices rose to their highest level since early June, tracking a rally in long-dated US Treasuries after the Treasury Department doubled its buyback of notes and bonds for the upcoming financial quarter. Major gold miners gained up to 12%, with Agnico Eagle surging 10.5%, Barrick adding 6.7% and WPM soaring 10.4%. Meanwhile, financials weighed on the index as oil prices extended gains, fueling inflation concerns. RBC shed 3.1%, TD Bank lost 3.5%, BMO fell 4.4%, CIBC retreated 3.7% and Scotiabank dropped 3.3%. Energy stocks posted losses despite higher oil prices, with Canadian Natural down 0.7% and Suncor losing 1%. Elsewhere, US President Trump paused 50% tariffs on select Canadian goods and signaled a trade deal with Canada was near. Still, reports indicated metals would remain tariffed. Industrials posted losses, with Enbridge down 2.7%.
+
+---
+
+### 2026-08-20 04:32:54  #MKT News #Important
+
+【US federal debt tops $40 trillion】US federal debt topped $40.0 trillion on Tuesday, the Treasury Department said on Wednesday. Debt rose about $3.0 trillion in the past year — the fastest annual increase outside the pandemic — as federal borrowing accelerated. The total has climbed from under $6.0 trillion at the turn of the century and has roughly doubled over the past decade. The Congressional Budget Office projects publicly held federal debt-to-GDP will exceed the post‑war peak of 106% around 2030 and reach about 120% by 2036. A senior director at the Committee for a Responsible Federal Budget said the pace is a clear signal the situation is out of control.
+
+---
+
+### 2026-08-20 04:27:04  #公司 #市場 #國際
+
+【美國商品期貨交易委員會（CFTC）就算力期貨合約公開徵求意見】美國商品期貨交易委員會（CFTC）正式啟動算力期貨監管意見徵集程式。CME芝商所、洲際交易所及金融科技公司Architect Financial Technologies等多家機構已宣佈，計劃在獲批後推出相關合約，助力AI開發者對沖能源短缺等風險。CFTC主席邁克爾·塞利格表示：”沒有強大的算力衍生品市場，美國就無法贏得AI競賽。” 並稱此次徵詢意見是建立算力市場明確規則的第一步。本次徵詢重點關注算力期貨與現有衍生品的差異，及結算價格指數等關鍵變數的統一標準問題。
+
+---
+
+### 2026-08-20 04:26:42  #市場 #焦點
+
+紐約期金突破4580美元/盎司，日內漲3.61%。
+
+---
+
+### 2026-08-20 04:26:29  #市場 #焦點
+
+現貨黃金突破4520美元/盎司，日內漲4.30%。
+
+---
+
+### 2026-08-20 04:25:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed above $4,520/oz, up 4.29% on the day.
+
+---
+
+### 2026-08-20 04:25:14  #MKT News #Commodities #Precious Metals
+
+Spot silver jumped 5% intraday to $66.51/oz.
+
+---
+
+### 2026-08-20 04:25:06  #市場
+
+現貨白銀日內漲5%，現報66.51美元/盎司。
+
+---
+
+### 2026-08-20 04:24:58  #市場
+
+紐約期銀日內漲4%，現報66.61美元/盎司。
+
+---
+
+### 2026-08-20 04:23:22  #MKT News
+
+Al Jazeera: A U.S. State Department spokesperson said the Trump administration has discussed Syrian sovereignty and Israel's right to self-defense.
+
+---
+
+### 2026-08-20 04:21:22  #MKT News #Market Themes #AI Revolution
+
+【CFTC seeks comment on compute-power futures】The U.S. Commodity Futures Trading Commission has opened a public comment on futures for compute power as industry players including CME, ICE and fintech Architect Financial Technologies plan contracts pending regulatory approval. Exchanges say compute futures would let end users and speculators hedge risks that could disrupt AI development, notably energy shortages. CFTC Chair Michael Selig said without a robust derivatives market for compute the U.S. cannot win the AI race and called the request for comment a first step to set clear rules for a U.S. compute market. The CFTC is soliciting input on how compute futures differ from other regulated derivatives and whether listing on CFTC-regulated venues would require standardizing variables affecting compute prices, including settlement reference price indices.
+
+---
+
+### 2026-08-20 04:20:37  #市場 #焦點
+
+紐約期金突破4570美元/盎司，日內漲3.38%。
+
+---
+
+### 2026-08-20 04:18:59  #宏觀 #國際
+
+美國國務院發言人向半島電視臺表示，特朗普政府開啟有關敘利亞主權以及以色列自衛權的相關討論。
+
+---
+
+### 2026-08-20 04:18:33  #公司
+
+UBER 確認出售 7200 萬股 AURORA INNOVATION 股份。
+
+---
+
+### 2026-08-20 04:17:35  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Close Mixed — US stock indices closed mixed on Wednesday as losses in AI infrastructure and bank stocks offset gains in other sectors. The S&P 500 added 0.2% and the Dow gained 120 points, while the Nasdaq shed 0.2%. The Treasury doubled the limit on buybacks of long-term securities for next quarter, adding to a series of measures aimed at controlling the recent surge in longer-term benchmark borrowing costs. Alongside lower rates, the prospect of increased dollar liquidity from the Treasury’s intervention also supported equities. This was combined with FOMC minutes confirming that some policymakers believe rate hikes may be appropriate this year. Retail stocks were mostly higher after TJX (-4.2%), Target (+4.3%) and Lowe’s (+2%) reported earnings. The pharmaceutical sector rallied, with Merck up 12.6% and Moderna surging 177% after a trial of their joint vaccine reduced melanoma recurrence. Meanwhile, tepid results from OpenAI pressured chip producers, with AMD (-3.7%) and Intel (-4%) dropping.
+
+---
+
+### 2026-08-20 04:17:02  #國際
+
+市場訊息：路透調查顯示，美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 190 億立方英尺。
+
+---
+
+### 2026-08-20 04:16:47  #其他
+
+Webull第二季度調整後淨利潤為4320萬美元，去年同期為1540萬美元。
+
+---
+
+### 2026-08-20 04:14:48  #MKT News #Market Themes #AI Revolution #MSFT.O #Impact bullish
+
+【OpenAI to tighten safety processes for paying customers】OpenAI said it will tighten safety processes for paying customers and has begun testing "private safety processing", a system designed to detect risk patterns across multiple interactions rather than individual prompts and replies. The move targets risks that emerge as AI handles longer-horizon, more autonomous tasks and is intended to guard against malicious users and attacks by misaligned AI agents while remaining compatible with zero-data-retention—customer content will not be accessible to OpenAI. The feature is expected to roll out in September, accompanied by a technical white paper; early tests are underway with Microsoft and Databricks.
+
+---
+
+### 2026-08-20 04:09:14  #MKT News #MRK.N #Impact bullish
+
+Merck (MRK.N) shares closed up 12.6%, their largest one-day gain since March 2009.
+
+---
+
+### 2026-08-20 04:08:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Argentina's economy minister said the government approved a $6.4 billion investment incentive package for Tecpetrol's Los Toldos II oil project in the Vaca Muerta shale basin.
 
 ---
 
@@ -19339,281 +19543,5 @@ Central Bank of Uruguay kept its policy rate at 5.75%, unchanged from the previo
 ### 2026-08-19 04:33:34  #公司 #焦點
 
 【Anthropic籌備超級投票權，為IPO鋪路】據兩名知情人士透露，Anthropic計劃授予執行長達里奧·阿莫迪及其他聯合創始人一類具備超額投票權的股份，幫助他們抵禦外部股東施加的壓力。這將是Anthropic管理層首次獲得超級投票權；該機制在科技企業創始人中已十分普遍。另有訊息人士表示，對Anthropic而言此舉意義特殊：相比其他科技企業創始人，該公司創始人所持股權佔比相對較低。公司還計劃依託特殊類別的股票，保留現有的非股東受託人團體，由其選舉董事會多數席位，以此構建一道非傳統屏障，抵禦外部股東干預。
-
----
-
-### 2026-08-19 04:32:48  #MKT News
-
-According to The Information, Anthropic has been preparing to grant CEO Dario Amodei and other co-founders a new class of stock carrying additional voting rights.
-
----
-
-### 2026-08-19 04:32:01  #央行 #其他
-
-烏拉圭央行維持關鍵利率在5.75%不變。
-
----
-
-### 2026-08-19 04:31:46  #國際
-
-【阿聯酋宣佈暫停與伊朗的貿易金融往來】阿聯酋外交部19日發表宣告表示，阿聯酋暫停與伊朗的所有貿易、商業往來和金融交易。（新華社）
-
----
-
-### 2026-08-19 04:31:31  #其他
-
-【AI事故風險加劇：2025年前十月事件數已超2024全年】人工智慧造成危害的潛在風險正愈發凸顯。人工智慧事故資料庫（AI Incident Database）的資料顯示，2022‑2024年間，有記錄的AI相關事故同比上升50%；而截至2025年10月的前10個月，事故數量就已經超過2024年全年水平。
-
----
-
-### 2026-08-19 04:30:28  #MKT News #HE.O #Impact bearish
-
-Hawaiian Electric Co.: As of 7:00 AM local time, roughly 57,000 customers are without power due to tropical storm 'Lala'.
-
----
-
-### 2026-08-19 04:28:08  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Drops on Banking and Mining Losses — The S&P/TSX Composite Index fell 0.8% to close at 36,368 on Tuesday, weighed down by losses in the mining and financial sectors amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with RBC losing 1.3%, TD Bank shedding 1.7%, BMO down 1.2%, CIBC losing 1.3% and Scotiabank retreating 1.1%. Miners also declined as gold prices slipped, with Agnico Eagle down 0.8%, Barrick losing 0.9% and WPM shedding 2.8%. Most technology stocks tumbled, tracking a selloff in US chipmakers, with Shopify losing 1.2% and Celestica sinking 8.4%. In contrast, energy stocks gained on rising oil prices, with Canadian Natural up 0.9% and Suncor adding 1.7%. NexGen Energy (-4.4%) is discussing a potential equity stake with BHP in its Rook I mining project in Saskatchewan, CEO Leigh Curyer said.
-
----
-
-### 2026-08-19 04:27:33  #MKT News #Important #Brent #Impact bullish #WTI #DXY
-
-【UAE suspends all trade, commercial and financial transactions with Iran】The UAE Foreign Ministry said it has suspended all trade, commercial and financial transactions with Iran until further notice amid regional escalation. The ministry’s director of strategic communications, Afra Mahash Al Hameli, dismissed reports questioning the state of UAE‑Iran economic ties.
-
----
-
-### 2026-08-19 04:26:06  #國際
-
-以色列總理辦公室表示，以色列不會容忍對其安全的威脅。
-
----
-
-### 2026-08-19 04:25:03  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's Prime Minister's Office said Syria chose to ignore Israeli warnings about such deployments and that Israel will not tolerate threats to its security.
-
----
-
-### 2026-08-19 04:24:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli Prime Minister's Office said Syria, by allowing Turkish forces to deploy to an airbase near Aleppo, had "come close" to breaking the security status quo with Israel.
-
----
-
-### 2026-08-19 04:21:24  #市場 #焦點
-
-紐約期金失守4390美元/盎司，日內跌1.88%。
-
----
-
-### 2026-08-19 04:20:52  #國際
-
-美國法庭檔案顯示，哈佛大學同意支付5300萬美元，就前停屍房主管盜竊遺體器官引發的家屬訴訟達成和解。
-
----
-
-### 2026-08-19 04:20:06  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
-
-U.S. API weekly crude inventories for the week to Aug. 14 due in 10 minutes.
-
----
-
-### 2026-08-19 04:19:41  #國際
-
-特朗普政府正準備加大對伊朗的經濟施壓力度。
-
----
-
-### 2026-08-19 04:15:30  #MKT News
-
-UAE Foreign Ministry said the decision was taken against a backdrop of regional escalation that "undermines regional and international peace and security".
-
----
-
-### 2026-08-19 04:14:58  #國際
-
-阿聯酋外交部宣告稱，鑑於地區局勢升級"破壞地區及國際和平與安全"，故作出此決定。
-
----
-
-### 2026-08-19 04:14:36  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-UAE foreign ministry said it is suspending all commercial activity and financial transactions with Iran until further notice.
-
----
-
-### 2026-08-19 04:13:36  #焦點 #國際
-
-阿聯酋外交部宣告稱，直至另行通知前，阿聯酋已全面停止與伊朗的所有貿易、商業往來及金融交易。
-
----
-
-### 2026-08-19 04:11:44  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Keysight Technologies earnings above expectations at 3.07 USD — Keysight Technologies (KEYS) released earnings per share at 3.07 USD, compared to market expectations of 2.48 USD.
-
----
-
-### 2026-08-19 04:10:47  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish #EURUSD
-
-【Sources: US-Canada tariff waiver plan submitted to Trump for approval】Sources said the US and Canada have agreed a temporary plan to spare some Canadian goods from proposed 50% tariffs and have submitted it to President Trump for approval. Trump will decide whether tariffs scheduled to take effect at midnight local time on Aug. 19 are implemented. Negotiators held intensive talks; the US is seeking removal of Canadian retaliatory measures on autos and alcohol and changes to dairy supply management, while Canada wants lower US tariffs on autos and other goods. Officials hope a limited deal could pave the way for broader USMCA talks, but auto tariffs remain the core dispute. If imposed, the measures would affect only part of bilateral trade but could jeopardize negotiations covering nearly $1tn in US‑Canada goods and services. Canadian Prime Minister Carney faces domestic political risk from concessions; US tariff action could add pre-midterm economic pressure in swing states such as Maine and Michigan.
-
----
-
-### 2026-08-19 04:10:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Slide on Chipmaker Selloff — US stock indices closed lower on Tuesday amid a selloff in chipmakers and elevated bond yields. The S&P 500 fell 0.7%, the Nasdaq lost 1.7% and the Dow shed 116 points. Long-term yields slipped from recent peaks but remained near multi-year highs as inflation risks and surging bond issuance by AI companies fueled uncertainty over term premia. Inflation concerns were magnified by further increases in energy prices as the US signaled a prolonged blockade of Iranian tanker exports. Chipmakers tied to the AI trade posted sharp losses, with Nvidia down 2.3%, Broadcom shedding 3.2%, Micron losing 7% and AMD retreating 4.3%. Intel tumbled 6.6%, while Sandisk sank 9%. Other major AI companies also closed lower, with Meta losing 4.4%, Tesla down 0.7% and Oracle shedding 2.7%. Credit-sensitive financial stocks came under pressure, with Goldman Sachs (-1%) and Citigroup (-0.6%) closing lower. Home Depot shed 0.1% despite beating earnings estimates amid elevated borrowing and housing costs.
-
----
-
-### 2026-08-19 04:08:33  #MKT News
-
-cenc measured a magnitude-5.1 earthquake in Afghanistan at 03:51 on Aug 19 at 36.45N, 70.80E; hypocenter depth 200 km.
-
----
-
-### 2026-08-19 04:08:10  #其他
-
-中國地震臺網正式測定：08月19日03時51分在阿富汗（北緯36.45度，東經70.80度）發生5.1級地震，震源深度200千米。
-
----
-
-### 2026-08-19 04:06:44  #其他
-
-沙特公共投資基金（PIF）去年管理資產規模縮水100億美元，降至約9000億美元。
-
----
-
-### 2026-08-19 04:05:48  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. stocks closed lower on Tuesday, August 18: Dow Jones Industrial Average down 116.20 points (-0.22%) at 53,343.58; S&P 500 down 53.15 points (-0.69%) at 7,691.91; Nasdaq Composite down 355.20 points (-1.33%) at 26,289.71.
-
----
-
-### 2026-08-19 04:02:40  #MKT News #Important #Star Stocks #NVIDIA #Alibaba #Market Themes #Magnificent 7 #MU.O #Impact bearish #SKHY.O #NVDA.O
-
-【US close: major indexes lower; SK Hynix down over 9%】U.S. stocks closed lower on Tuesday: the Dow Jones Industrial Average fell 0.2%, the S&P 500 dropped 0.69% and the Nasdaq Composite fell 1.33%. Semiconductor names led declines—SanDisk (SNDK.O) down 9%, Western Digital (WDC.O) down 7%, Micron Technology (MU.O) down 7% and SK Hynix (SKHY.O) down over 9%—while NVIDIA (NVDA.O) slipped 2%. The Nasdaq Golden Dragon China Index fell 1%; Alibaba (BABA.N) rose 2.8%.
-
----
-
-### 2026-08-19 04:01:40  #國際
-
-美國證券交易委員會（SEC）表示，就次級汽車貸款機構Tricolor涉19億美元倒閉事件，對多名前高管提起欺詐指控。
-
----
-
-### 2026-08-19 04:01:14  #公司 #國際
-
-敘利亞石油公司：初步調查顯示，爆炸是蓄意破壞行為的結果。
-
----
-
-### 2026-08-19 04:00:49  #MKT News #Commodities #Energy
-
-Syrian state news agency says Syria Petroleum Company reported an explosion on the gas export pipeline at the Jabusa gas plant, cutting gas flows. Preliminary investigation attributes the blast to deliberate sabotage; no casualties reported.
-
----
-
-### 2026-08-19 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.22%，標普500指數跌0.69%，納指跌1.32%。Coherent Corp跌12.84%，Lumentum Holdings Inc. Common Stock When Issued跌9.95%，希捷跌9.16%，閃迪跌9.01%。“七姐妹”方面：蘋果漲1.49%，微軟漲0.23%，谷歌跌0.02%，亞馬遜跌0.70%，特斯拉跌0.72%，英偉達跌2.36%，Meta Platforms跌4.47%。
-
----
-
-### 2026-08-19 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.04%】Tims中國跌17.65%，世紀互聯跌16.92%，百度跌12.80%，中進醫療跌10.12%，愛奇藝跌7.89%。
-
----
-
-### 2026-08-19 03:59:17  #公司 #國際
-
-敘利亞石油公司表示，員工無人受傷。
-
----
-
-### 2026-08-19 03:58:59  #公司 #國際
-
-敘利亞石油公司表示，賈布薩天然氣廠的一條天然氣出口管道發生爆炸，導致該管道停止輸氣。
-
----
-
-### 2026-08-19 03:58:54  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid to $4,340/oz, down 1.75% intraday.
-
----
-
-### 2026-08-19 03:57:24  #市場 #焦點
-
-現貨黃金失守4340美元/盎司，日內跌1.76%。
-
----
-
-### 2026-08-19 03:56:49  #公司
-
-訊息人士：派拉蒙再度聘用兩名谷歌前高管。
-
----
-
-### 2026-08-19 03:54:21  #市場 #焦點
-
-美國天然氣期貨漲超3.00%，現報2.811美元/百萬英熱。
-
----
-
-### 2026-08-19 03:52:26  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up on 18th】The dollar index (DXY) rose 0.02% to 99.657 at the New York close on the 18th. Major crosses: EUR/USD 1.1576 (prev. 1.1572); GBP/USD 1.3534 (prev. 1.3538); USD/JPY 159.60 (prev. 159.59); USD/CHF 0.8125 (prev. 0.8115); USD/CAD 1.3906 (prev. 1.3877); USD/SEK 9.5395 (prev. 9.5193).
-
----
-
-### 2026-08-19 03:52:21  #市場
-
-【美元指數18日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.657。截至紐約匯市尾市，1歐元兌換1.1576美元，高於前一交易日的1.1572美元；1英鎊兌換1.3534美元，低於前一交易日的1.3538美元。1美元兌換159.60日元，高於前一交易日的159.59日元；1美元兌換0.8125瑞士法郎，高於前一交易日的0.8115瑞士法郎；1美元兌換1.3906加元，高於前一交易日的1.3877加元；1美元兌換9.5395瑞典克朗，高於前一交易日的9.5193瑞典克朗。
-
----
-
-### 2026-08-19 03:51:43  #MKT News #DIS.N
-
-U.S. Federal Communications Commission chair said no decision has been made yet on the review of Disney (DIS.N)'s ABC television license.
-
----
-
-### 2026-08-19 03:49:42  #MKT News #XAUUSD #Impact bearish
-
-COMEX gold futures fell below $4,400/oz, down 1.64% intraday.
-
----
-
-### 2026-08-19 03:49:34  #國際
-
-美國聯邦通訊委員會主席布倫丹·卡爾為審查迪士尼旗下ABC電視臺執照辯護，稱尚未做出任何決定。
-
----
-
-### 2026-08-19 03:49:26  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 589.70 USD, the lowest since July 2026. Over the past 4 weeks, Deere & Company gained 0.66%, and in the last 12 months, it increased 20.52%.
-
----
-
-### 2026-08-19 03:49:24  #市場
-
-紐約期銀日內跌4%，現報63.57美元/盎司。
-
----
-
-### 2026-08-19 03:49:24  #市場 #焦點
-
-紐約期金失守4400美元/盎司，日內跌1.67%。
-
----
-
-### 2026-08-19 03:47:18  #MKT News
-
-【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions.
 
 ---

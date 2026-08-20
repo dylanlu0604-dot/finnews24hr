@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:58:33_
-_本檔包含 3287 則快訊，約 640599 字_
+_更新時間：2026-08-21 04:37:11_
+_本檔包含 3267 則快訊，約 641265 字_
+
+---
+
+### 2026-08-15 19:01:14  #其他
+
+德國地方當局表示，比利時邊境附近的德國野火已得到控制。
+
+---
+
+### 2026-08-15 19:00:09  #國際
+
+印尼蘇門達臘島發生6.4級地震。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 18:57:33  #公司 #市場
+
+【下週將有29只股解禁 2股解禁比例超50%】據統計，下週將有29只股解禁，按照最新收盤價計算，合計解禁市值超442億元。從解禁比例來看，下週面臨解禁的個股中有2股的解禁比例超50%。真蘭儀表的解禁比例最高，達75%；亞通精工的解禁比例次之，達63.34%；廣鋼氣體、中船科技、固高科技、英聯股份的解禁比例居前。下週將要解禁的這29只股票，8月以來股價平均上漲5.74%。其中，有7股釋出上半年業績相關資料，結合業績預告下限、快報、半年報來看，羅曼股份、鴻仕達、廣鋼氣體、英聯股份上半年業績盈利且同比呈現增長。
+
+---
+
+### 2026-08-15 18:56:46  #國際
+
+【伊朗與塔吉克達成長期石油合作協議】據伊朗方面訊息，伊朗和塔吉克在最新一輪石油談判中就能源領域的長期合作達成協議。該協議涵蓋兩大核心內容：一是向塔吉克出口伊朗石油產品，二是伊朗向塔吉克煉油廠供應所需的原油。（央視新聞）
+
+---
+
+### 2026-08-15 18:56:07  #國際
+
+【黎總理稱以色列的升級行動破壞了穩定局勢的努力】黎巴嫩總理納瓦夫·薩拉姆週六表示，以色列自拂曉以來在黎巴嫩南部採取的包括密集空襲和炮擊的升級行動“極其嚴重”，並破壞了穩定局勢的努力。“如果黎巴嫩境記憶體在任何軍事設施，處理這些設施的責任完全在於黎巴嫩，”薩拉姆表示。他指出，在安薩爾鎮空襲中遇難的7人“並非軍事設施，其中遇難的兒童和婦女也並非軍事目標”，軍事設施的存在“並不賦予以色列侵犯黎巴嫩領土或危及平民的權利”。以色列國防軍此前表示，為回應真主黨在安全區針對以軍採取的行動，於昨晚對黎巴嫩南部奈拜提耶和安薩爾的真主黨基礎設施實施了打擊。
+
+---
+
+### 2026-08-15 18:51:00  #國際 #原創
+
+【韓國表示與美國就戰略投資專案進行的磋商仍在進行中】韓國表示與美國就戰略投資專案進行的磋商仍在繼續，此前有媒體報道稱華盛頓正敦促首爾加快推進相關計劃。韓國總統辦公室一名官員週六回應關於該報道的詢問時表示，目前正透過多種渠道與美國進行磋商，韓國政府也在透過頻繁溝通應對雙邊貿易問題。週五有報道稱，華盛頓方面對韓國尚未公佈2000億美元戰略投資承諾下的具體專案表示不滿。該報稱，繼上月底的類似溝通後，美國商務部本週再次向韓國傳送電郵，要求首爾方面加快與對等關稅相關專案的推進。該報稱，郵件中暗示，若進一步拖延，此事可能會上報給美國總統特朗普。這位韓國總統府官員拒絕證實雙邊討論的具體細節以及政府內部的溝通和回應情況。
+
+---
+
+### 2026-08-15 18:49:12  #其他
+
+【魏牌V8X上市：搭載雙VLA原生AI艙駕智慧體，限時權益價22.68萬元】魏牌旗下五座旗艦SUV車型V8X正式上市，共有運動版Max、運動版Ultra、豪華家庭版Max、豪華家庭版Ultra、豪華家庭版Ultra+5個版本，限時權益價22.68萬-30.28萬元起。
+
+---
+
+### 2026-08-15 18:44:42  #MKT News #Commodities #Energy
+
+【Iran, Tajikistan sign long-term oil cooperation agreement】According to Iranian media Fars News, Iran and Tajikistan agreed in their latest oil talks to a long-term energy cooperation deal. The pact covers two main elements: Iran will export oil products to Tajikistan and will supply crude oil to Tajikistan's refineries.
+
+---
+
+### 2026-08-15 18:42:05  #國際
+
+以色列對黎巴嫩南部襲擊造成死亡人數升至九人。
+
+---
+
+### 2026-08-15 18:39:40  #MKT News #WTI #Impact bearish #Brent
+
+UAE foreign ministry said Iran must fully commit to ceasing all hostile actions and to fully, unconditionally reopening the Strait of Hormuz.
+
+---
+
+### 2026-08-15 18:39:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+UAE Foreign Ministry said attacks by Iran pose a direct threat to regional stability, civilian safety and global energy security.
+
+---
+
+### 2026-08-15 18:38:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+UAE Foreign Ministry condemned an Iranian attack on Abu Dhabi National Oil Company (ADNOC) vessels while transiting the Strait of Hormuz.
+
+---
+
+### 2026-08-15 18:38:52  #國際
+
+阿聯酋強調，必須確保伊朗完全致力於停止一切敵對行動，並全面、無條件地重新開放霍爾木茲海峽。
+
+---
+
+### 2026-08-15 18:38:41  #國際
+
+阿聯酋外交部：伊朗革命衛隊（IRGC）將針對商業航行和利用霍爾木茲海峽作為施壓或經濟勒索工具的行為被視為海盜行為。此次襲擊公然違反了安理會第2817號決議，該決議強調航行自由。阿聯酋強調伊朗必須停止這些侵略性襲擊。
+
+---
+
+### 2026-08-15 18:38:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is using commercial shipping as a tool of coercion or economic extortion, and that its actions in the Strait of Hormuz amount to piracy.
+
+---
+
+### 2026-08-15 18:37:36  #MKT News #DIS.O #Impact bullish
+
+【Disney new CEO: Streaming core to future growth】Disney's incoming CEO Josh D'Amaro said streaming service Disney+ is central to the company's future growth. He said Disney's scale gives it a direct relationship with consumers, allowing technical integration of data and unified messaging. He added the platform will deliver a "seamless user experience" to boost fan lifetime value and shareholder returns, and that successfully executing streaming presents "huge opportunity."
+
+---
+
+### 2026-08-15 18:37:20  #其他
+
+【淮河防總、淮委調整淮河流域應急響應】8月15日，淮河防汛抗旱總指揮部、水利部淮河水利委員會對淮河流域防汛應急響應實施調整，涉及河南省、安徽省、江蘇省和山東省。 根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委8月15日12時終止河南省淮河及以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省沙潁河、洪汝河水系防汛二級應急響應、洪水防禦Ⅱ級應急響應，將該省淮河以北其他地區防汛應急響應調整為四級、洪水防禦應急響應調整為Ⅳ級；終止安徽省淮河以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省淮河及以北地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應；針對江蘇省、山東省，終止其淮河流域（片）的防汛四級應急響應、洪水防禦Ⅳ級應急響應。（新華社）
+
+---
+
+### 2026-08-15 18:29:23  #國際
+
+【特朗普尚未明確支援內塔尼亞胡連任】今年10月以色列將舉行議會選舉，多家以色列媒體近期釋出的民調顯示，以色列總理內塔尼亞胡的支援率低迷。據美國阿克西奧斯新聞網站8月14日報道，截至目前，美國總統特朗普尚未在以色列大選中對內塔尼亞胡表示明確支援。報道還稱，內塔尼亞胡的幾位競爭對手都表示，擔心特朗普會支援這位現任總理。訊息人士透露，他們透過中間人向特朗普及其助手傳遞資訊，敦促特朗普保持中立。一位熟悉情況的前美國官員表示，內塔尼亞胡在民調中表現不佳，這打消了特朗普介入此事的念頭。 （CCTV國際時訊）
+
+---
+
+### 2026-08-15 18:24:22  #公司
+
+【榮耀阿爾法全球旗艦店煥新啟幕，完成門店IP化與AI場景化全面升級】8月15日，榮耀阿爾法全球旗艦店正式煥新啟幕，完成門店IP化與AI場景化的全面升級。升級後店內設有DIY互動區、AI遊戲互動區、AI影像創作等多個互動打卡區，打造沉浸式AI科技樂園。同時，在活動期間旗艦店還同步開設機器人展演、外籍網紅一日店長互動、開業趣味晚會多元活動。據介紹，榮耀透過“科技地標煥新”的方式，將前沿AI終端技術轉化為消費者可觸控、可感知的“新質生產力”體驗，有效激發暑期消費潛能，打造深圳灣商圈的“科技+文旅+消費”新名片。（新浪科技）
+
+---
+
+### 2026-08-15 18:12:37  #公司 #市場
+
+【劉益謙控股子公司新理益新進成為頎中科技第七大股東】頎中科技(688352.SH)週五晚間釋出2026年半年報，截至二季度末，新理益集團有限公司持有頎中科技400.22萬股，佔總股本比例0.34%，為公司的第七大股東。以頎中科技週五收盤價18.83元/股估算，新理益在頎中科技的持股市值約7536.14萬元。新理益系劉益謙的控股子公司。
+
+---
+
+### 2026-08-15 18:11:27  #公司 #國際
+
+【中方團隊在全球最大“人造太陽”壁處理領域實現技術鏈條貫通】據中核集團訊息，日前，中核集團核工業西南物理研究院團隊在國際熱核聚變實驗堆（ITER）裝置壁處理技術領域接連取得重要進展：不僅順利透過輝光放電清洗系統（GDC）永久電極專案補充設計最終評審（DeltaFDR），同時牽頭並聯閤中核二三成功中標並在法國簽署硼化系統與X射線晶體光譜儀（XRCS）供氣系統設計製造合同。這標誌著中方團隊在ITER裝置壁處理核心技術領域取得新拓展，業務範圍由原有的輝光放電清洗延伸至硼化壁處理，實現了從雜質清除到表面預處理的技術鏈條貫通，將為ITER裝置全鎢第一壁執行提供關鍵保障。
+
+---
+
+### 2026-08-15 18:10:48  #MKT News #Market Regions #Europe & UK
+
+【Iran intelligence says it uncovered French "termite plan" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to "pre-emptively" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called "termite plan" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the "reckless plot".
+
+---
+
+### 2026-08-15 18:04:10  #其他
+
+【商鋪低頻噪聲擾民被判擔責 生態環境法典施行第一案宣判】8月15日，我國第二部法典——《中華人民共和國生態環境法典》正式施行。當日，全國首例適用生態環境法典審理的噪聲汙染責任糾紛案在浙江省衢州市衢江區人民法院開庭並當庭宣判，新法迎來司法實踐“第一案”。法院依據《中華人民共和國生態環境法典》相關規定，結合現場勘查、醫療記錄等證據，按照經濟效益原則以及損害最小化原則當庭宣判：判決被告限期進行降噪、減振整改，賠償原告醫療費和精神損害撫慰金。（央視新聞）
+
+---
+
+### 2026-08-15 17:56:25  #國際
+
+【伊朗與塔吉克就剩餘石油產品和原油出口進行談判】伊朗石油部長帕克內賈德週六在德黑蘭會見塔吉克能源部長後表示，伊朗和塔吉克正就伊朗剩餘石油產品和原油出口至塔吉克煉油廠一事進行談判。帕克內賈德表示，目前正在著手起草一項長期出口協議的框架檔案。
+
+---
+
+### 2026-08-15 17:50:02  #國際
+
+【伊朗總統稱絕不會違抗最高領袖】當地時間8月14日，伊朗總統佩澤希齊揚表示，敵人如今破壞伊朗國家穩定的方式不僅僅是軍事手段，還企圖在伊朗內部製造分裂，破壞內部團結。他強調，無論他個人的想法如何，但他絕不會違抗伊朗最高領袖，因為團結遠比個人想法更為重要，他還表示，伊朗會繼續抗爭，絕不屈服於敵人的暴政與侵略。 （CCTV國際時訊）
+
+---
+
+### 2026-08-15 17:43:41  #MKT News #Important #Market Regions #Japan & APAC #XAUUSD #Impact bullish #Nikkei 225 #Impact bearish #Hang Seng Index
+
+【China defense ministry warns Japan over Yasukuni visits, 'new militarism'】China Defense Ministry spokesman Jiang Bin said Japan must confront its history and deeply reflect on wartime crimes, urging Tokyo to draw lessons on the 80th anniversary of the Tokyo Trials. He warned that persistence in promoting a "new militarism" and actions that harm regional peace — including visits to Yasukuni Shrine — would again face justice and historical reckoning.
+
+---
+
+### 2026-08-15 17:41:27  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【Shanghai property trading hotline: no new policy on replacement home purchases for non-residents or foreigners】Shanghai Real Estate Trading Center hotline said no new policy has been issued and clarified existing replacement-purchase rules. For non-Shanghai household families: selling their only property allows replacement with one dwelling anywhere in the city; buyer and seller must be the same person and no social insurance or individual income tax proof is required. This rule has been in effect since 28 May 2024. For households or adult single buyers owning two or more properties who sell some units: replacement purchases must match the sold units in both number and location—units sold outside the Outer Ring Road may only be replaced with units outside the Outer Ring Road; units sold inside the Outer Ring Road may only be replaced with units inside the Outer Ring Road—also exempt from social insurance or individual tax proof. This took effect 26 Feb 2026. For foreign nationals: after selling all Shanghai properties, a foreign individual may replace and purchase one dwelling in the city without submitting a foreigner residence permit (work category), a one‑year local labor contract prior to purchase, or one year of local social insurance/individual tax payment proof; the buyer must sign a foreign individual owner‑occupancy commitment. This rule took effect 29 Jul 2026.
 
 ---
 
@@ -19568,287 +19730,5 @@ Fitch expects US economic growth to remain relatively resilient at 1.9% in 2026-
 ### 2026-08-14 04:37:22  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #USDJPY
 
 Fitch says the U.S. rating benefits from a large economy, high per-capita income, an active business environment and exceptional financing flexibility.
-
----
-
-### 2026-08-14 04:36:42  #國際
-
-惠譽確認美國主權評級為 AA+。
-
----
-
-### 2026-08-14 04:35:52  #國際
-
-市場訊息：特朗普下令海軍恢復航空母艦上的舊有技術裝置。
-
----
-
-### 2026-08-14 04:35:48  #MKT News #Important
-
-Fitch affirms U.S. sovereign credit rating at 'AA+'; outlook stable.
-
----
-
-### 2026-08-14 04:35:01  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index went up by 58 points or 0.11 percent on Thursday to close at 53828 points. The rise was led by Merck (2.00%), Nike (1.90%) and Visa (1.51%). On the downside, the weakerst performers were Cisco Systems (-8.77%), UnitedHealth (-1.57%) and McDonalds (-1.23%).
-
----
-
-### 2026-08-14 04:33:03  #公司
-
-泛林集團計劃在未來五年內投資超過30億美元，以擴大其全球實驗室網路，目標是將實驗產能提升50%以上。
-
----
-
-### 2026-08-14 04:32:33  #公司 #觀點 #國際
-
-花旗集團：花旗美國消費信用卡業務宣佈已達成協議收購 Kard Financial, Inc.
-
----
-
-### 2026-08-14 04:31:53  #國際
-
-【美防長稱可“無限期維持”對伊朗海上封鎖】美國國防部長赫格塞思13日表示，美軍擁有足夠的軍事力量，可以“無限期維持”對伊朗的海上封鎖。據美國大全新聞網報道，赫格塞思當天在巴拿馬向一艘美國軍艦上的官兵發表講話後對媒體說，“美國海軍完全有能力無限期地維持這種封鎖，因為我們會像過去那樣，繼續輪換艦船”。（新華社）
-
----
-
-### 2026-08-14 04:31:05  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-Foreign official holdings of U.S. Treasuries fell $34.26 bln in the week to Aug. 7, versus a $25.53 bln decline in the prior week.
-
----
-
-### 2026-08-14 04:31:04  #央行 #市場 #國際
-
-美國至8月7日當週外國央行持有美國國債 -342.57億美元，前值-255.34億美元。
-
----
-
-### 2026-08-14 04:30:52  #MKT News #Economic Calendar #Important
-
-United States | US Treasuries held by Foreign Central Banks (Aug.7) | actual -34257000000B | previous -25534000000B
-
----
-
-### 2026-08-14 04:30:39  #MKT News #WTI #Impact bullish #Brent
-
-Abu Dhabi National Oil Co (ADNOC) said two vessels were attacked on Thursday while transiting the Strait of Hormuz; no injuries were reported.
-
----
-
-### 2026-08-14 04:29:53  #公司
-
-阿聯酋阿布扎比國家石油公司（ADNOC）表示，旗下兩艘船隻週四在霍爾木茲海峽通行途中遭到襲擊，暫無人員受傷報告。
-
----
-
-### 2026-08-14 04:26:34  #其他
-
-法拉第未來第二季度稅前虧損 3986.9 萬美元，第二季度運營虧損 3482.7 萬美元，第二季度運營費用 2412.5 萬美元。
-
----
-
-### 2026-08-14 04:26:17  #其他
-
-法拉第未來目標到 2026 年底累計交付超 2000 臺 EAI 機器人裝置，並計劃在未來三至四個季度內將總負債控制在 1 億美元以下。
-
----
-
-### 2026-08-14 04:25:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Extends Record Streak — The S&P/TSX Composite Index added 0.3% to close at 36,759, extending its record-breaking streak amid lower oil prices and soft US producer inflation. Oil prices fell on weakening demand prospects. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. RBC added 0.6% and CIBC gained 1.1%. Tech stocks posted gains, tracking a strong session for US chipmakers and hyperscalers. Shopify advanced 5.3%, Constellation Software gained 2.8%, and Celestica added 2.6%. Brookfield (+0.7%) reported higher second-quarter distributable earnings per share. CCL jumped 6.9% after posting 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver slumped 9.8% after posting EPS below expectations. Hydro One shed 0.5% despite beating quarterly estimates. Metro lost 0.5% after reporting weaker fiscal third-quarter adjusted earnings.
-
----
-
-### 2026-08-14 04:22:09  #MKT News #WTI #Brent
-
-U.S. Vice President Vance said regarding Iran that oil prices will return to stability once the Strait of Hormuz conflict ends.
-
----
-
-### 2026-08-14 04:22:04  #MKT News
-
-US Vice President Vance said the United States has many tools available for policy toward Iran.
-
----
-
-### 2026-08-14 04:21:31  #公司 #國際
-
-美國證券交易委員會（SEC）檔案顯示，截至6月30日馬斯克持有48.4%的SpaceX(SPCX.O)被動股份。
-
----
-
-### 2026-08-14 04:21:23  #其他
-
-萬斯：我們希望壓低利率。
-
----
-
-### 2026-08-14 04:20:52  #MKT News #Commodities #Energy #WTI
-
-U.S. Vice President Vance said his primary objective is to keep U.S. oil and gasoline affordable.
-
----
-
-### 2026-08-14 04:20:38  #MKT News
-
-Fox News reported U.S. Vice President Vance said the Iran issue will ultimately end with the United States in a position of strength.
-
----
-
-### 2026-08-14 04:19:50  #國際
-
-萬斯：美國手上有諸多可用於應對伊朗的手段。
-
----
-
-### 2026-08-14 04:19:10  #MKT News
-
-SEC filing shows Musk held a 48.4% passive stake in SpaceX (SPCX.O) as of June 30.
-
----
-
-### 2026-08-14 04:18:57  #國際
-
-萬斯談及伊朗：最終目標同樣是讓霍爾木茲海峽恢復穩定，油價迴歸平穩。
-
----
-
-### 2026-08-14 04:18:44  #焦點 #國際
-
-萬斯：首要目標是讓美國的石油與汽油維持低價。
-
----
-
-### 2026-08-14 04:18:37  #MKT News
-
-【Kushner Plans Israel Visit Next Week to Discuss Gaza, Axios Says】Axios, citing five people, reported Kushner plans to visit Israel next week to discuss Gaza — his first trip since January. The visit coincides with the White House and Trump’s peace committee pushing a next-phase Gaza plan focused on disarming Hamas and a possible Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. plan and the upcoming October election has heightened political sensitivity. A U.S. official said, "We are aligned on strategic goals but Israel has expressed some concerns; we want to talk to ensure coordination." The official added the visit date could change. Kushner may also meet leaders of other regional states involved in Gaza. The trip indicates the White House does not want the Israeli election to block the next phase; Netanyahu is reluctant to make concessions that could damage his political standing but also seeks to avoid a clash with Trump before the vote.
-
----
-
-### 2026-08-14 04:18:28  #國際
-
-萬斯：伊朗有時不履行承諾.
-
----
-
-### 2026-08-14 04:12:41  #公司
-
-據公司備忘錄，泰森食品將關閉其位於伊利諾伊州喬斯林（Joslin）的牛肉屠宰廠以及位於猶他州的即食（case-ready）肉類加工廠，將提高其得克薩斯州牛肉加工廠的屠宰量。
-
----
-
-### 2026-08-14 04:10:09  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow.
-
----
-
-### 2026-08-14 04:07:10  #國際
-
-Axios援引 5 位知情人士訊息：賈裡德・庫什納計劃下週訪問以色列，就加沙問題展開磋商。
-
----
-
-### 2026-08-14 04:06:52  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Applied Materials earnings above expectations at 3.50 USD — Applied Materials (AMAT) released earnings per share at 3.50 USD, compared to market expectations of 3.40 USD.
-
----
-
-### 2026-08-14 04:05:48  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-Aug 13 (Thu) close — Dow Jones Industrial Average +69.81 pts (+0.13%) at 53,840.08; S&P 500 +50.65 pts (+0.65%) at 7,799.15; Nasdaq Composite +214.54 pts (+0.81%) at 26,803.03.
-
----
-
-### 2026-08-14 04:05:44  #MKT News
-
-Axios reports Kushner plans to visit Israel next week for talks on Gaza.
-
----
-
-### 2026-08-14 04:05:09  #其他
-
-PETMED 第一季度銷售額4,100萬美元。
-
----
-
-### 2026-08-14 04:04:44  #MKT News #SPCX.O
-
-SEC filing shows Vanguard Portfolio Management Co. reported holding 10.2 million Class A shares of SpaceX (SPCX.O).
-
----
-
-### 2026-08-14 04:04:41  #公司 #國際
-
-美國證券交易委員會檔案：先鋒資本管理有限責任公司披露持有 SpaceX 2660 萬股 A 類股份。
-
----
-
-### 2026-08-14 04:04:26  #MKT News
-
-SEC filings show Vanguard Capital Management reported holding 26.6 mln Class A shares of SpaceX (SPCX.O).
-
----
-
-### 2026-08-14 04:04:11  #其他
-
-市場訊息：白宮將於下週三舉辦加密貨幣和預測專家會議。
-
----
-
-### 2026-08-14 04:03:22  #MKT News #MU.O
-
-Micron Technology (MU.O): Micron Ventures' total committed capital increased to $550 mln.
-
----
-
-### 2026-08-14 04:03:10  #其他
-
-應用材料第三季度調整後每股收益3.50美元，預期3.42美元。
-
----
-
-### 2026-08-14 04:03:02  #MKT News
-
-Spot palladium fell more than 4.0% intraday, trading at $1,309.61/oz.
-
----
-
-### 2026-08-14 04:02:04  #MKT News #Market Themes #AI Revolution
-
-Micron Ventures launches $250m fund to invest in next-generation artificial intelligence technologies.
-
----
-
-### 2026-08-14 04:01:59  #其他
-
-美光科技：美光風投基金總承諾出資規模增至 5.5 億美元。
-
----
-
-### 2026-08-14 04:01:18  #MKT News #Important
-
-【US close: major indices rise as memory stocks rally】US stocks closed higher on Thursday: the Dow Jones Industrial Average rose 0.13%, the S&P 500 gained 0.65% and the Nasdaq Composite climbed 0.8%. Memory-sector names led gains — Micron +4%, SanDisk +13.6%, SK Hynix +7% — while the Nasdaq Golden Dragon China Index fell 1.85%; Alibaba declined 2% and JD.com dropped 7%.
-
----
-
-### 2026-08-14 04:01:05  #市場
-
-WORKDAY股價收盤上漲18%，創2016年以來最佳單日表現。
-
----
-
-### 2026-08-14 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.13%，標普500指數漲0.65%，納指漲0.82%。工時公司漲17.78%，閃迪漲13.67%，GoDaddy漲9.41%，科斯塔漲8.36%，The Trade Desk漲7.93%。“七姐妹”方面：特斯拉漲3.80%，Meta Platforms漲2.74%，蘋果漲1.01%，微軟漲0.90%，英偉達漲0.56%，谷歌漲0.44%，亞馬遜跌0.80%。
-
----
-
-### 2026-08-14 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.89%】京東跌7.40%，網易有道跌6.02%，中比能源跌6.14%，中進醫療跌6.02%，Tims中國跌5.88%。
 
 ---

@@ -1,7 +1,397 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 03:58:33_
-_本檔包含 2959 則快訊，約 641044 字_
+_更新時間：2026-08-21 04:37:11_
+_本檔包含 2997 則快訊，約 641502 字_
+
+---
+
+### 2026-08-17 20:51:20  #其他
+
+【禮來1類新藥在中國啟動新III期臨床】藥物臨床試驗登記與資訊公示平臺官網顯示，禮來登記了一項Brenipatide注射液在成人抑鬱症參與者中的III期臨床研究。Insight資料庫顯示，Brenipatide是全球首個啟動抑鬱症III期臨床的GLP-1類產品。
+
+---
+
+### 2026-08-17 20:50:06  #公司
+
+【好利科技：股東孫劍波減持後持股降至5%以下】好利科技公告稱，孫劍波於2026年8月13日至2026年8月14日透過集中競價方式減持公司股份5700股，佔公司總股本的0.00311%。截至權益變動報告書籤署日，孫劍波持有公司股份9148455股，佔公司總股本的4.99998%，不再是公司持股5%以上股東。本次減持在其此前披露的減持計劃範圍內，不觸及要約收購，不會導致公司控股股東和實際控制人發生變化，該減持計劃尚未實施完畢。
+
+---
+
+### 2026-08-17 20:50:01  #公司
+
+【多氟多：2026年上半年淨利潤5.12億元，同比增長897.19%】多氟多公告，2026年上半年營業收入70.36億元，同比增長62.55%。歸屬於上市公司股東的淨利潤5.12億元，同比增長897.19%；扣非淨利潤4.96億元，上年同期為-480.93萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 20:49:54  #其他
+
+阿聯酋國民銀行率先推出專項轉型融資框架，推動阿聯酋脫碳程序。
+
+---
+
+### 2026-08-17 20:49:47  #其他
+
+Groq已以35億美元的估值融資3.5億美元。
+
+---
+
+### 2026-08-17 20:49:47  #MKT News
+
+South Africa's finance minister to present medium-term budget on Oct. 21.
+
+---
+
+### 2026-08-17 20:49:41  #宏觀
+
+南非財政部長將於10月21日提交中期預算案。
+
+---
+
+### 2026-08-17 20:49:36  #MKT News
+
+Groq raised $350 mln at a $3.5 bln valuation.
+
+---
+
+### 2026-08-17 20:49:28  #公司
+
+據悉，BDT出售Alliance Laundry股份的交易將於週二定價。
+
+---
+
+### 2026-08-17 20:47:17  #國際
+
+【OpenAI宣佈加入位於俄亥俄州派克縣的PORTS-Pike專案】OpenAI宣佈，已與SB Energy、NVIDIA及美國能源部合作，在俄亥俄州派克縣的PORTS-Pike技術園區獲得約8吉瓦的IT裝置。該專案預計在建設期至2032年的六年內創造35,000個建築崗位，以及2,500個長期運營崗位。SB Energy將根據與OpenAI簽訂的20年租賃協議，建設、擁有並運營該資料中心，並逐步交付容量。 OpenAI將成為客戶，利用該站點的容量，該站點將專門託管NVIDIA AI計算基礎設施。
+
+---
+
+### 2026-08-17 20:47:08  #其他
+
+【渝昆高鐵昭通段車站建設進展順利】目前，渝昆高鐵雲貴站房一標專案正在加緊施工，多個車站工程進展順利。渝（重慶）昆（昆明）高鐵是國家“八縱八橫”高鐵網京昆高鐵的重要組成部分，設計行車時速350公里。（新華社）
+
+---
+
+### 2026-08-17 20:46:16  #MKT News #Market Regions #Europe & UK #BCS.N
+
+Financial Times reports Barclays (BCS.N) has hired Mike Joo as co-CEO of its investment bank.
+
+---
+
+### 2026-08-17 20:45:56  #市場
+
+義大利30年期國債收益率<IT30YT=RR>升至4.8185%，創下2023年11月以來新高。
+
+---
+
+### 2026-08-17 20:45:43  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #DAX
+
+Italy's 30-year bond yield reached 4.8185%, the highest since November 2023.
+
+---
+
+### 2026-08-17 20:45:27  #MKT News
+
+NVIDIA (NVDA.O): OpenAI's commitments by 2030 would correspond to roughly $600 billion of NVIDIA compute business.
+
+---
+
+### 2026-08-17 20:45:19  #公司
+
+英偉達公司：OpenAI的相關承諾意味著，截至2030年，將產生約6000億美元的英偉達算力採購規模。
+
+---
+
+### 2026-08-17 20:44:35  #MKT News #Market Regions #Europe & UK #BCS.N
+
+Financial Times reports Adeel Khan will be promoted to co-chief executive of Barclays (BCS.N), responsible for global markets.
+
+---
+
+### 2026-08-17 20:44:31  #Trading Economics #Markets #Russia #currency #Importance 0
+
+Russian Ruble Hits 16-month Low — The Russian Ruble touched 87.09 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Russian Ruble gained 8.19%, and in the last 12 months, it increased 5.92%.
+
+---
+
+### 2026-08-17 20:43:57  #其他
+
+英偉達：OPENAI將支付租金。
+
+---
+
+### 2026-08-17 20:43:40  #市場
+
+匈牙利審查政府合同後，4IG股價下跌高達5.8%。
+
+---
+
+### 2026-08-17 20:43:11  #國際
+
+英偉達：初始承諾的支付義務上限為1050億美元。
+
+---
+
+### 2026-08-17 20:43:04  #MKT News #Market Regions #Greater China
+
+【Guangzhou Baiyunshan Zhongyi receives NMPA approval to trial Zhangyanming tablets for dry‑eye indication】Guangzhou Baiyunshan Zhongyi Pharmaceutical’s exclusive flagship product Zhangyanming tablets has received approval from the National Medical Products Administration (NMPA) to initiate clinical trials for a new "dry eye" indication. The program is registered as category 2.3 (modified new drug).
+
+---
+
+### 2026-08-17 20:42:55  #其他
+
+OpenAI將透過ChatGPT提供8400萬美元的Codex額度。
+
+---
+
+### 2026-08-17 20:42:28  #其他
+
+OpenAI承諾至2030年前大規模部署英偉達基礎設施。
+
+---
+
+### 2026-08-17 20:42:15  #其他
+
+市場訊息：巴克萊銀行對投行部門高層進行大改組。阿迪爾·汗（Adeel Khan）將晉升為巴克萊(BCS.N)聯席執行長，負責全球市場業務。
+
+---
+
+### 2026-08-17 20:42:13  #MKT News #BCS.N
+
+Financial Times reports Barclays (BCS.N) has significantly reshuffled senior leadership in its investment bank.
+
+---
+
+### 2026-08-17 20:41:50  #其他
+
+【廣州白雲山中一藥業障眼明片獲批開展乾眼適應症臨床試驗】據廣藥白雲山公眾號訊息，近日，廣州白雲山中一藥業獨家核心品種——障眼明片正式獲得國家藥品監督管理局核發《藥物臨床試驗批准通知書》，批准開展新增“乾眼”適應症臨床試驗（註冊分類2.3類改良型新藥）。
+
+---
+
+### 2026-08-17 20:41:31  #MKT News #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) said AI systems in its Ports‑Pike project could generate $150–200 billion in revenue; its Ohio factory could equip roughly 1.5 million GPUs per system generation.
+
+---
+
+### 2026-08-17 20:41:25  #市場
+
+法國10年期國債收益率上升1個基點，至2009年6月以來的最高水平4.0516%。
+
+---
+
+### 2026-08-17 20:41:18  #其他
+
+【國家醫保局：首批31個DRG基層病組確定 將以醫保支付引導常見病治療下沉】經過多輪專家論證，在即將印發的按病種付費3.0版分組方案中，DRG技術指導組最終確定首批31個DRG基層病組推薦名單，包含27個內科病種和4個手術操作病種，包括高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病、等27個內科病組，以及4個手術操作病組。國家醫保局方面表示，基層病組主要針對適宜在符合條件的二級及以下醫療機構收治，適合基層診治的常見病、多發病、康復期病種及病情穩定的慢性病，篩選重點考察臨床路徑是否清晰、基層診治佔比以及不同層級醫療機構次均費用差異等。基層病組核心特徵是“同病同付”，即在一個統籌區內，同一病組在三級醫院與一、二級醫院的醫保支付標準一致，以支付槓桿引導常見病、多發病合理下沉基層治療。31個DRG病組只是開始，後續將動態監測並適時調整。 (財聯社)
+
+---
+
+### 2026-08-17 20:40:51  #MKT News #Important #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish
+
+France's 10-year bond yield rose 1bp to 4.0516%, its highest level since June 2009.
+
+---
+
+### 2026-08-17 20:40:41  #其他
+
+英偉達：俄亥俄工廠每一代系統或將配備約150萬顆GPU。
+
+---
+
+### 2026-08-17 20:40:34  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): OpenAI commits to large-scale deployment of NVIDIA AI infrastructure by 2030.
+
+---
+
+### 2026-08-17 20:40:28  #其他
+
+英偉達：Ports‑Pike專案的AI系統有望實現1500‑2000億美元營收。
+
+---
+
+### 2026-08-17 20:40:17  #MKT News #Market Themes #AI Revolution
+
+OpenAI will continue investing in safety architecture and control measures.
+
+---
+
+### 2026-08-17 20:40:00  #公司
+
+【瑞聯新材：與華星印刷簽署技術許可協議，開展印刷OLED材料業務】瑞聯新材公告，公司與廣州華星光電印刷顯示技術有限公司於近日簽署《技術許可協議》，華星印刷將其在印刷OLED材料領域的相關專利及技術秘密許可給公司使用，公司及子公司在許可範圍內開展印刷OLED材料的研發、生產與銷售活動。協議有效期內，公司可在前期專案開發階段無償使用相關專利及技術秘密；若實現量產，許可費用按許可產品銷售額的一定比例計算。本次合作標誌著公司正式切入印刷OLED終端材料賽道。
+
+---
+
+### 2026-08-17 20:39:49  #MKT News #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
+
+U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.3%, Nasdaq futures' gains narrowed to 0.2%.
+
+---
+
+### 2026-08-17 20:39:17  #Trading Economics #Economy #United States #NY Empire State Manufacturing Index #Importance 2
+
+New York Manufacturing Activity Surprisingly Accelerates — The New York Fed’s Empire State Manufacturing Index rose to 20.6 in August 2026 from 15.6 in July and largely beating market forecasts of 11. The lates data showed that New York State manufacturing activity grew for a second month and to the greatest extent since late 2021, as both new orders and shipments continued to strengthen. Meanwhile, unfilled orders climbed notably amid substantially longer delivery times. Falling inventories suggested further deterioration in supply availability. Employment and the average workweek rose modestly, while input price pressures accelerated. Selling price growth remained elevated but moderated for a second consecutive month. Despite these cost and supply pressures, firms maintained an optimistic outlook for business activity.
+
+---
+
+### 2026-08-17 20:39:07  #公司
+
+【曲江文旅：控股股東所持900萬股股份拍賣成交】曲江文旅公告稱，控股股東所持合計900萬股公司股份由杜邑投資集團競得，佔公司總股本比例為3.53%。本次拍賣後續涉及繳納拍賣餘款、股權變更過戶等環節，最終結果以相關法院出具的拍賣成交裁定為準。本次股權變更過戶完成後，相關股份變動均在同一實際控制人控制的主體之間進行，公司控股股東、實際控制人不會發生變化，杜邑投資集團受讓後6個月內不得減持該部分股份。
+
+---
+
+### 2026-08-17 20:39:04  #MKT News #Market Themes #AI Revolution
+
+OpenAI is investing heavily in safety controls and deploying its models to help secure code.
+
+---
+
+### 2026-08-17 20:38:56  #市場
+
+標普500指數期貨轉跌，抹去早前漲幅。
+
+---
+
+### 2026-08-17 20:38:52  #其他
+
+OpenAI：將持續投入安全架構及管控體系建設。
+
+---
+
+### 2026-08-17 20:38:38  #其他
+
+OpenAI：大規模重金投入基礎能力建設。利用模型幫助保障程式碼安全。
+
+---
+
+### 2026-08-17 20:38:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will decisively strike any threats or acts of aggression.
+
+---
+
+### 2026-08-17 20:38:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
+
+Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%.
+
+---
+
+### 2026-08-17 20:37:15  #其他
+
+【中國能建與中國海油共商深化合作】據中國能建訊息，8月17日，中國能建黨委書記、董事長倪真在京與中國海油黨組書記、董事長張傳江舉行會談。雙方圍繞深化海洋能源、氣電、氫基能源、海外業務、科技創新等領域合作進行深入交流。
+
+---
+
+### 2026-08-17 20:36:04  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
+
+German 10-year bond yield rose 1.5 bps intraday to 3.2138%, its highest level since May 2011.
+
+---
+
+### 2026-08-17 20:36:03  #市場
+
+德國10年期國債收益率<DE10YT=RR>攀升至3.2138%，上漲1.5個基點，創下2011年5月以來新高。
+
+---
+
+### 2026-08-17 20:35:39  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): SB Energy will operate the data center under a 20-year lease agreement with OpenAI.
+
+---
+
+### 2026-08-17 20:35:14  #其他
+
+英偉達：SB能源將根據20年租約運營資料中心，租予OpenAI。
+
+---
+
+### 2026-08-17 20:35:14  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): OpenAI will make an additional $40m contribution to a community welfare fund.
+
+---
+
+### 2026-08-17 20:35:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): Ports-Pike project will create tens of thousands of jobs and establish an $80 mln community fund.
+
+---
+
+### 2026-08-17 20:34:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): OpenAI will be a customer for 8 IT-GW of IT capacity at the Ports-Pike project.
+
+---
+
+### 2026-08-17 20:34:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) will provide credit support for the initial 4.25 IT-GW project and holds an option to add a further 3.75 IT-GW of capacity.
+
+---
+
+### 2026-08-17 20:34:26  #MKT News #NVDA.O
+
+NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy.
+
+---
+
+### 2026-08-17 20:34:20  #其他
+
+市場訊息：英偉達擬向SB Energy投資15億美元。在與英偉達達成交易後，Groq在一輪融資中的估值達到35億美元。
+
+---
+
+### 2026-08-17 20:34:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA.
+
+---
+
+### 2026-08-17 20:34:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business.
+
+---
+
+### 2026-08-17 20:33:56  #國際
+
+8月17日，國內基金淨買入印度股票510億印度盧比。
+
+---
+
+### 2026-08-17 20:33:50  #資料 #市場 #國際
+
+加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。
+
+---
+
+### 2026-08-17 20:33:45  #國際
+
+8月17日，全球基金淨賣出價值254億印度盧比的印度股票。
+
+---
+
+### 2026-08-17 20:33:29  #公司
+
+【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 20:32:48  #其他
+
+【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）
+
+---
+
+### 2026-08-17 20:32:38  #其他
+
+【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。
+
+---
+
+### 2026-08-17 20:32:15  #公司
+
+【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
 
 ---
 
@@ -17679,167 +18069,5 @@ cenc automatic determination: at 18:54 on Aug 15 an earthquake of approximately 
 ### 2026-08-15 19:03:23  #MKT News
 
 Iran's Bandar Abbas International Airport resumed flight operations today, Iranian media Fars News reports. Scheduled services to Tehran, Mashhad and Isfahan will restart over the next few days.
-
----
-
-### 2026-08-15 19:01:14  #其他
-
-德國地方當局表示，比利時邊境附近的德國野火已得到控制。
-
----
-
-### 2026-08-15 19:00:09  #國際
-
-印尼蘇門達臘島發生6.4級地震。（CCTV國際時訊）
-
----
-
-### 2026-08-15 18:57:33  #公司 #市場
-
-【下週將有29只股解禁 2股解禁比例超50%】據統計，下週將有29只股解禁，按照最新收盤價計算，合計解禁市值超442億元。從解禁比例來看，下週面臨解禁的個股中有2股的解禁比例超50%。真蘭儀表的解禁比例最高，達75%；亞通精工的解禁比例次之，達63.34%；廣鋼氣體、中船科技、固高科技、英聯股份的解禁比例居前。下週將要解禁的這29只股票，8月以來股價平均上漲5.74%。其中，有7股釋出上半年業績相關資料，結合業績預告下限、快報、半年報來看，羅曼股份、鴻仕達、廣鋼氣體、英聯股份上半年業績盈利且同比呈現增長。
-
----
-
-### 2026-08-15 18:56:46  #國際
-
-【伊朗與塔吉克達成長期石油合作協議】據伊朗方面訊息，伊朗和塔吉克在最新一輪石油談判中就能源領域的長期合作達成協議。該協議涵蓋兩大核心內容：一是向塔吉克出口伊朗石油產品，二是伊朗向塔吉克煉油廠供應所需的原油。（央視新聞）
-
----
-
-### 2026-08-15 18:56:07  #國際
-
-【黎總理稱以色列的升級行動破壞了穩定局勢的努力】黎巴嫩總理納瓦夫·薩拉姆週六表示，以色列自拂曉以來在黎巴嫩南部採取的包括密集空襲和炮擊的升級行動“極其嚴重”，並破壞了穩定局勢的努力。“如果黎巴嫩境記憶體在任何軍事設施，處理這些設施的責任完全在於黎巴嫩，”薩拉姆表示。他指出，在安薩爾鎮空襲中遇難的7人“並非軍事設施，其中遇難的兒童和婦女也並非軍事目標”，軍事設施的存在“並不賦予以色列侵犯黎巴嫩領土或危及平民的權利”。以色列國防軍此前表示，為回應真主黨在安全區針對以軍採取的行動，於昨晚對黎巴嫩南部奈拜提耶和安薩爾的真主黨基礎設施實施了打擊。
-
----
-
-### 2026-08-15 18:51:00  #國際 #原創
-
-【韓國表示與美國就戰略投資專案進行的磋商仍在進行中】韓國表示與美國就戰略投資專案進行的磋商仍在繼續，此前有媒體報道稱華盛頓正敦促首爾加快推進相關計劃。韓國總統辦公室一名官員週六回應關於該報道的詢問時表示，目前正透過多種渠道與美國進行磋商，韓國政府也在透過頻繁溝通應對雙邊貿易問題。週五有報道稱，華盛頓方面對韓國尚未公佈2000億美元戰略投資承諾下的具體專案表示不滿。該報稱，繼上月底的類似溝通後，美國商務部本週再次向韓國傳送電郵，要求首爾方面加快與對等關稅相關專案的推進。該報稱，郵件中暗示，若進一步拖延，此事可能會上報給美國總統特朗普。這位韓國總統府官員拒絕證實雙邊討論的具體細節以及政府內部的溝通和回應情況。
-
----
-
-### 2026-08-15 18:49:12  #其他
-
-【魏牌V8X上市：搭載雙VLA原生AI艙駕智慧體，限時權益價22.68萬元】魏牌旗下五座旗艦SUV車型V8X正式上市，共有運動版Max、運動版Ultra、豪華家庭版Max、豪華家庭版Ultra、豪華家庭版Ultra+5個版本，限時權益價22.68萬-30.28萬元起。
-
----
-
-### 2026-08-15 18:44:42  #MKT News #Commodities #Energy
-
-【Iran, Tajikistan sign long-term oil cooperation agreement】According to Iranian media Fars News, Iran and Tajikistan agreed in their latest oil talks to a long-term energy cooperation deal. The pact covers two main elements: Iran will export oil products to Tajikistan and will supply crude oil to Tajikistan's refineries.
-
----
-
-### 2026-08-15 18:42:05  #國際
-
-以色列對黎巴嫩南部襲擊造成死亡人數升至九人。
-
----
-
-### 2026-08-15 18:39:40  #MKT News #WTI #Impact bearish #Brent
-
-UAE foreign ministry said Iran must fully commit to ceasing all hostile actions and to fully, unconditionally reopening the Strait of Hormuz.
-
----
-
-### 2026-08-15 18:39:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-UAE Foreign Ministry said attacks by Iran pose a direct threat to regional stability, civilian safety and global energy security.
-
----
-
-### 2026-08-15 18:38:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-UAE Foreign Ministry condemned an Iranian attack on Abu Dhabi National Oil Company (ADNOC) vessels while transiting the Strait of Hormuz.
-
----
-
-### 2026-08-15 18:38:52  #國際
-
-阿聯酋強調，必須確保伊朗完全致力於停止一切敵對行動，並全面、無條件地重新開放霍爾木茲海峽。
-
----
-
-### 2026-08-15 18:38:41  #國際
-
-阿聯酋外交部：伊朗革命衛隊（IRGC）將針對商業航行和利用霍爾木茲海峽作為施壓或經濟勒索工具的行為被視為海盜行為。此次襲擊公然違反了安理會第2817號決議，該決議強調航行自由。阿聯酋強調伊朗必須停止這些侵略性襲擊。
-
----
-
-### 2026-08-15 18:38:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is using commercial shipping as a tool of coercion or economic extortion, and that its actions in the Strait of Hormuz amount to piracy.
-
----
-
-### 2026-08-15 18:37:36  #MKT News #DIS.O #Impact bullish
-
-【Disney new CEO: Streaming core to future growth】Disney's incoming CEO Josh D'Amaro said streaming service Disney+ is central to the company's future growth. He said Disney's scale gives it a direct relationship with consumers, allowing technical integration of data and unified messaging. He added the platform will deliver a "seamless user experience" to boost fan lifetime value and shareholder returns, and that successfully executing streaming presents "huge opportunity."
-
----
-
-### 2026-08-15 18:37:20  #其他
-
-【淮河防總、淮委調整淮河流域應急響應】8月15日，淮河防汛抗旱總指揮部、水利部淮河水利委員會對淮河流域防汛應急響應實施調整，涉及河南省、安徽省、江蘇省和山東省。 根據《淮河防汛抗旱總指揮部防汛抗旱應急預案》《淮河水利委員會水旱災害防禦應急預案》，經綜合研判，淮河防總、淮委8月15日12時終止河南省淮河及以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省沙潁河、洪汝河水系防汛二級應急響應、洪水防禦Ⅱ級應急響應，將該省淮河以北其他地區防汛應急響應調整為四級、洪水防禦應急響應調整為Ⅳ級；終止安徽省淮河以南地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應，維持該省淮河及以北地區的防汛四級應急響應、洪水防禦Ⅳ級應急響應；針對江蘇省、山東省，終止其淮河流域（片）的防汛四級應急響應、洪水防禦Ⅳ級應急響應。（新華社）
-
----
-
-### 2026-08-15 18:29:23  #國際
-
-【特朗普尚未明確支援內塔尼亞胡連任】今年10月以色列將舉行議會選舉，多家以色列媒體近期釋出的民調顯示，以色列總理內塔尼亞胡的支援率低迷。據美國阿克西奧斯新聞網站8月14日報道，截至目前，美國總統特朗普尚未在以色列大選中對內塔尼亞胡表示明確支援。報道還稱，內塔尼亞胡的幾位競爭對手都表示，擔心特朗普會支援這位現任總理。訊息人士透露，他們透過中間人向特朗普及其助手傳遞資訊，敦促特朗普保持中立。一位熟悉情況的前美國官員表示，內塔尼亞胡在民調中表現不佳，這打消了特朗普介入此事的念頭。 （CCTV國際時訊）
-
----
-
-### 2026-08-15 18:24:22  #公司
-
-【榮耀阿爾法全球旗艦店煥新啟幕，完成門店IP化與AI場景化全面升級】8月15日，榮耀阿爾法全球旗艦店正式煥新啟幕，完成門店IP化與AI場景化的全面升級。升級後店內設有DIY互動區、AI遊戲互動區、AI影像創作等多個互動打卡區，打造沉浸式AI科技樂園。同時，在活動期間旗艦店還同步開設機器人展演、外籍網紅一日店長互動、開業趣味晚會多元活動。據介紹，榮耀透過“科技地標煥新”的方式，將前沿AI終端技術轉化為消費者可觸控、可感知的“新質生產力”體驗，有效激發暑期消費潛能，打造深圳灣商圈的“科技+文旅+消費”新名片。（新浪科技）
-
----
-
-### 2026-08-15 18:12:37  #公司 #市場
-
-【劉益謙控股子公司新理益新進成為頎中科技第七大股東】頎中科技(688352.SH)週五晚間釋出2026年半年報，截至二季度末，新理益集團有限公司持有頎中科技400.22萬股，佔總股本比例0.34%，為公司的第七大股東。以頎中科技週五收盤價18.83元/股估算，新理益在頎中科技的持股市值約7536.14萬元。新理益系劉益謙的控股子公司。
-
----
-
-### 2026-08-15 18:11:27  #公司 #國際
-
-【中方團隊在全球最大“人造太陽”壁處理領域實現技術鏈條貫通】據中核集團訊息，日前，中核集團核工業西南物理研究院團隊在國際熱核聚變實驗堆（ITER）裝置壁處理技術領域接連取得重要進展：不僅順利透過輝光放電清洗系統（GDC）永久電極專案補充設計最終評審（DeltaFDR），同時牽頭並聯閤中核二三成功中標並在法國簽署硼化系統與X射線晶體光譜儀（XRCS）供氣系統設計製造合同。這標誌著中方團隊在ITER裝置壁處理核心技術領域取得新拓展，業務範圍由原有的輝光放電清洗延伸至硼化壁處理，實現了從雜質清除到表面預處理的技術鏈條貫通，將為ITER裝置全鎢第一壁執行提供關鍵保障。
-
----
-
-### 2026-08-15 18:10:48  #MKT News #Market Regions #Europe & UK
-
-【Iran intelligence says it uncovered French "termite plan" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to "pre-emptively" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called "termite plan" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the "reckless plot".
-
----
-
-### 2026-08-15 18:04:10  #其他
-
-【商鋪低頻噪聲擾民被判擔責 生態環境法典施行第一案宣判】8月15日，我國第二部法典——《中華人民共和國生態環境法典》正式施行。當日，全國首例適用生態環境法典審理的噪聲汙染責任糾紛案在浙江省衢州市衢江區人民法院開庭並當庭宣判，新法迎來司法實踐“第一案”。法院依據《中華人民共和國生態環境法典》相關規定，結合現場勘查、醫療記錄等證據，按照經濟效益原則以及損害最小化原則當庭宣判：判決被告限期進行降噪、減振整改，賠償原告醫療費和精神損害撫慰金。（央視新聞）
-
----
-
-### 2026-08-15 17:56:25  #國際
-
-【伊朗與塔吉克就剩餘石油產品和原油出口進行談判】伊朗石油部長帕克內賈德週六在德黑蘭會見塔吉克能源部長後表示，伊朗和塔吉克正就伊朗剩餘石油產品和原油出口至塔吉克煉油廠一事進行談判。帕克內賈德表示，目前正在著手起草一項長期出口協議的框架檔案。
-
----
-
-### 2026-08-15 17:50:02  #國際
-
-【伊朗總統稱絕不會違抗最高領袖】當地時間8月14日，伊朗總統佩澤希齊揚表示，敵人如今破壞伊朗國家穩定的方式不僅僅是軍事手段，還企圖在伊朗內部製造分裂，破壞內部團結。他強調，無論他個人的想法如何，但他絕不會違抗伊朗最高領袖，因為團結遠比個人想法更為重要，他還表示，伊朗會繼續抗爭，絕不屈服於敵人的暴政與侵略。 （CCTV國際時訊）
-
----
-
-### 2026-08-15 17:43:41  #MKT News #Important #Market Regions #Japan & APAC #XAUUSD #Impact bullish #Nikkei 225 #Impact bearish #Hang Seng Index
-
-【China defense ministry warns Japan over Yasukuni visits, 'new militarism'】China Defense Ministry spokesman Jiang Bin said Japan must confront its history and deeply reflect on wartime crimes, urging Tokyo to draw lessons on the 80th anniversary of the Tokyo Trials. He warned that persistence in promoting a "new militarism" and actions that harm regional peace — including visits to Yasukuni Shrine — would again face justice and historical reckoning.
-
----
-
-### 2026-08-15 17:41:27  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-【Shanghai property trading hotline: no new policy on replacement home purchases for non-residents or foreigners】Shanghai Real Estate Trading Center hotline said no new policy has been issued and clarified existing replacement-purchase rules. For non-Shanghai household families: selling their only property allows replacement with one dwelling anywhere in the city; buyer and seller must be the same person and no social insurance or individual income tax proof is required. This rule has been in effect since 28 May 2024. For households or adult single buyers owning two or more properties who sell some units: replacement purchases must match the sold units in both number and location—units sold outside the Outer Ring Road may only be replaced with units outside the Outer Ring Road; units sold inside the Outer Ring Road may only be replaced with units inside the Outer Ring Road—also exempt from social insurance or individual tax proof. This took effect 26 Feb 2026. For foreign nationals: after selling all Shanghai properties, a foreign individual may replace and purchase one dwelling in the city without submitting a foreigner residence permit (work category), a one‑year local labor contract prior to purchase, or one year of local social insurance/individual tax payment proof; the buyer must sign a foreign individual owner‑occupancy commitment. This rule took effect 29 Jul 2026.
 
 ---
