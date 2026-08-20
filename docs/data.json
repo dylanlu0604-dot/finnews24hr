@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-20 10:42:39",
-  "count": 15689,
+  "updated": "2026-08-20 10:46:31",
+  "count": 15690,
   "items": [
+    {
+      "id": "5048964",
+      "time": "2026-08-20 10:45:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【3D列印概念震盪走高 華曙高科20cm漲停】3D列印概念盤中震盪走高，華曙高科20cm漲停，鉑力特漲超10%，捷邦科技、蘇大維格、思看科技、愛司凱等跟漲。"
+    },
+    {
+      "id": "5048963",
+      "time": "2026-08-20 10:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西康高鐵啟動按圖試執行】從國鐵西安局獲悉，8月20日，隨著55301次試執行動車組列車從西安東站駛出，標誌著西安至安康高速鐵路（簡稱“西康高鐵”）正式進入按圖試執行階段。西康高鐵是國家中長期鐵路網規劃“八縱八橫”高鐵通道中包（銀）海通道、京昆通道的重要組成部分。新建正線全長約171公里，設計時速350公里。"
+    },
+    {
+      "id": "5048962",
+      "time": "2026-08-20 10:44:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西省人民政府：同意李嘉輝為長安銀行行長人選，葉瑛不再擔任長安銀行行長職務】8月20日，陝西省人民政府網站釋出的一則任免通知顯示，省政府2026年8月15日決定，任命李嘉輝為長安銀行股份有限公司董事。免去葉瑛長安銀行股份有限公司董事職務。同意李嘉輝為長安銀行股份有限公司行長人選；葉瑛不再擔任長安銀行股份有限公司行長職務。"
+    },
+    {
+      "id": "te:markets:576695",
+      "time": "2026-08-20 10:42:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Rise as Global Yields Retreat — Asian equity markets rebounded on Thursday as global bond yields pulled back from multi-year highs after the US government moved to rein in long-term borrowing costs by expanding its buyback program. The US Treasury Department announced it would more than double repurchases of 10-, 20- and 30-year debt over the coming months after the US 30-year Treasury yield surged to its highest level since 2007 earlier this week. Sovereign yields across major Asian economies also eased, with Japan’s 10-year yield retreating from a 30-year high. South Korea’s KOSPI surged around 6% as chipmakers rebounded sharply, while Japan’s Nikkei gained 1%. Shares in Australia, China and Hong Kong also advanced."
+    },
+    {
+      "id": "5048961",
+      "time": "2026-08-20 10:42:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MatriQ原子矩陣完成數億元A+輪融資】8月20日，MatriQ原子矩陣宣佈近期完成數億元人民幣A+輪融資。本輪融資由雲鋒基金、三七互娛、普華資本、財通資本、上海半導體產投、唐興資本、博睿資本、合創資本、海邦投資等多家機構共同參與，老股東民銀國際持續加註，融資陣容覆蓋頭部財投、產業資本、國有資本等多元資本。介面新聞瞭解到，自2025年下半年啟動首輪融資至今，原子矩陣在一年內密集完成四輪，累計融資近10億元。"
+    },
     {
       "id": "te:markets:576693",
       "time": "2026-08-20 10:40:14",
@@ -143862,39 +143906,6 @@
         "公司"
       ],
       "text": "【千問開放平臺上線菜鳥智慧體】8月13日，據千問APP訊息，千問開放平臺近日上線菜鳥智慧體。提出寄件需求就能讓菜鳥智慧體根據物品型別、價格要求、上門時間等，找到合適的寄件方案和快遞公司。"
-    },
-    {
-      "id": "5038495",
-      "time": "2026-08-13 10:45:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股PCB概念股走強 大族數控漲超8%】截至發稿，大族數控(03200.HK)漲8.14%，廣合科技(01989.HK)漲6.98%，建滔積層板(01888.HK)漲2.95%，建滔集團(00148.HK)漲1.32%。"
-    },
-    {
-      "id": "mkt:019ff902-6c08-7aab-9017-7305fec06c27",
-      "time": "2026-08-13 10:45:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China drafting next-stage air-quality improvement action plan】The State Council Information Office said on the 13th that China has made notable progress on air-pollution control but must not relax. Authorities are fast-tracking a new action plan to sustain air-quality improvement; the Blue Sky campaign will focus on higher standards, more precise measures and a more scientific approach."
-    },
-    {
-      "id": "5038494",
-      "time": "2026-08-13 10:44:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國新一輪空氣質量持續改善行動方案正在制定】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，我國大氣汙染治理成績喜人，但目前還不能有鬆口氣、歇歇腳的想法，仍要保持耐心和定力。目前，新一輪空氣質量持續改善行動方案正在抓緊制定，藍天保衛戰將重點在“更高、更準、更科學”上下功夫。標準要求更高。以PM2.5治理為主線，以新修訂的《環境空氣質量標準》為引領，按照《美麗中國建設“十五五”規劃》提出的空氣質量改善目標，收嚴PM2.5濃度限值，並同步加嚴其他汙染物的濃度限值，推動環境空氣質量從明顯變好邁向好上加好、好而持久。分割槽施策會更準。主要抓三大區域，對於京津冀及周邊、長三角和汾渭平原等重點區域，保持方向不變、力度不減；將長江中游城市群、川渝地區、新疆“烏—昌—石”區域作為強化區域，對標重點區域全面提升治理效能；將粵港澳大灣區、福建、海南作為先行區域，對標世界一流水平，探索低濃度條件下的改善路徑。透過分割槽分類、梯次推進，實現空氣質量全域提升。路徑措施更加科學。堅持結構轉型和汙染減排“兩手抓”，持續推動產業、能源、交通運輸結構最佳化調整，加強重點行業、領域、環節治理減排，謀劃開展一批重點行動、實施一批重大工程，推動汙染物排放持續下降。同時，還將加強支撐保障，制修訂相關汙染排放標準，創新財稅、價格、金融、環保等差異化管理政策，加快推進監測數智化轉型和非現場執法“兩場變革”，提升精細、高效、智慧監管水平，推動空氣質量持續改善。"
-    },
-    {
-      "id": "5038493",
-      "time": "2026-08-13 10:43:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：像法國這樣的國家應該停止向世界說教“人權”和國際法。這種虛偽是顯而易見的，也令人尷尬。 你們對以色列在加沙的種族滅絕——以及對伊朗的侵略——的支援，已經摧毀了你們自以為擁有的任何道德制高點。"
     }
   ]
 }
