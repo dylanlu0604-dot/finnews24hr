@@ -1,7 +1,120 @@
 {
-  "updated": "2026-08-20 10:27:07",
-  "count": 15681,
+  "updated": "2026-08-20 10:31:03",
+  "count": 15687,
   "items": [
+    {
+      "id": "mkt:01a01d01-413c-7aab-90a7-48e9eb7b4444",
+      "time": "2026-08-20 10:30:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports a magnitude 4.2 earthquake in Chiapas, Mexico."
+    },
+    {
+      "id": "mkt:01a01d00-f7ab-7aab-90a7-4562216b2a83",
+      "time": "2026-08-20 10:29:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Indonesian rupiah weakened to 17,790 per USD."
+    },
+    {
+      "id": "mkt:01a01d00-a15f-7aab-90a7-3c145074e6be",
+      "time": "2026-08-20 10:29:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv shipping-traffic data for the Strait of Hormuz show the US-Iran geopolitical stalemate has not improved."
+    },
+    {
+      "id": "5048948",
+      "time": "2026-08-20 10:29:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元走強至17,790。"
+    },
+    {
+      "id": "5048947",
+      "time": "2026-08-20 10:29:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【大摩：維持小米“增持”評級，預期下半年智慧手機毛利率將保持韌性】摩根士丹利發表報告指，小米集團次季經調整純利62.19億元，環比升2%。智慧手機業務收入及毛利率均顯著優於該行預期。管理層表示儲存器價格升幅於下半年將趨於正常化，有望減少對智慧手機毛利率的負面影響。該行預期下半年智慧手機毛利率將保持韌性，成為正面驚喜及重估催化劑。大摩維持小米“增持”評級，目標價32港元。"
+    },
+    {
+      "id": "te:markets:576689",
+      "time": "2026-08-20 10:29:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Strongest Since 2023 — The offshore yuan strengthened to around 6.72 per dollar on Thursday, extending overnight gains and reaching its strongest level since February 2023, as persistent weakness in the US dollar continued to support Asian currencies. The greenback remained under pressure as expectations for further Fed rate hikes eased, while the announcement of expanded bond buybacks boosted demand for longer-dated Treasuries and weighed on the dollar. However, gains in the yuan were tempered by a softer-than-expected fixing, with the PBOC setting the daily midpoint at 6.7808 per dollar, signaling authorities' continued preference for a measured pace of currency appreciation. On the monetary policy front, the central bank kept its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The one-year loan prime rate (LPR) was held at 3.0%, while the five-year LPR remained at 3.5%, reflecting policymakers' cautious approach amid lingering domestic and external uncertainties."
+    },
+    {
+      "id": "5048946",
+      "time": "2026-08-20 10:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網路資料安全新規今起施行 公安部有關負責人答問】由國家網際網路資訊辦公室、工業和資訊化部、公安部三部門制定的《網路資料安全風險評估辦法》於2026年8月20日起施行，公安部有關負責人就其實施有關事項回答了記者提問。問1：如何申請網路資料安全風險評估服務認證？答：《網路資料安全風險評估辦法》第八條規定：“鼓勵相關評估機構透過認證。評估機構的認證按照《中華人民共和國認證認可條例》的有關規定執行”。國家網信辦資料與技術保障中心、公安部第三研究所、泰爾認證中心有限公司等認證機構，已向國家認證認可監督管理委員會備案《資料安全風險評估服務認證規則》，相關認證機構將依據認證規則和有關標準規範實施認證。評估機構可向上述認證機構申請服務認證。問2：公安機關在網路資料安全風險評估工作中承擔哪些法定職責？具體有哪些落實舉措？答：依照有關法律法規規定，在國家資料安全工作協調機制指導下，公安部將會同中央網信辦、工業和資訊化部等有關部門，建立網路資料安全風險評估專項工作機制，指導、監督網路資料安全風險評估工作。為確保《網路資料安全風險評估辦法》落地見效，公安機關將立足法定職責，建立全流程監管機制。依託網路安全等級保護備案等基礎工作，掌握轄區內網路資料處理者相關情況，建立並完善動態監管臺賬。對重要資料處理者的風險評估報告真實性、準確性進行檢查核驗。對發現存在較大安全風險、發生資料安全事件等情形的，依法督促網路資料處理者委託透過認證的第三方評估機構開展風險評估。發現重要資料處理者的重要資料處理活動可能危害國家安全、公共利益的，依法責令整改；對拒不整改或未達到整改要求的，依法採取責令其停止處理重要資料等措施。對未按規定開展風險評估的網路資料處理者，將依據《中華人民共和國資料安全法》《網路資料安全管理條例》等有關法律、行政法規予以處理；第三方評估機構違反《網路資料安全風險評估辦法》開展風險評估的，公安機關將依法予以處理。"
+    },
+    {
+      "id": "mkt:01a01d00-0475-7aab-90a7-31b2d7d2844b",
+      "time": "2026-08-20 10:28:55",
+      "tags": [
+        "MKT News",
+        "2333.HK",
+        "Impact bullish",
+        "0175.HK"
+      ],
+      "text": "【China Association of Automobile Manufacturers: Top 10 MPV makers sold 464,000 units Jan–Jul, 79.6% of MPV sales】China Association of Automobile Manufacturers data show Jan–Jul 2026 sales by the top 10 MPV producers totaled 464,000 units, accounting for 79.6% of MPV sales. Among the ten, GAC Trumpchi, Great Wall Motor, Geely and Dongfeng posted YoY sales gains of varying degrees; the other six firms recorded YoY declines."
+    },
+    {
+      "id": "5048945",
+      "time": "2026-08-20 10:28:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市大興區人大常委會原黨組副書記、副主任張德廣受賄案一審宣判】據“京法網事”，2026年8月20日，北京市第二中級人民法院依法公開宣判北京市大興區人大常委會原黨組副書記、副主任張德廣受賄一案，對被告人張德廣以受賄罪判處有期徒刑十三年，並處罰金人民幣二百萬元。對被告人張德廣犯罪所得及收益予以沒收，上繳國庫。"
+    },
+    {
+      "id": "5048944",
+      "time": "2026-08-20 10:27:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中汽協：1—7月銷量排名前十位的MPV生產企業共銷售46.4萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的MPV生產企業共銷售46.4萬輛，佔MPV銷售總量的79.6%。在上述十家企業中，與去年同期相比，廣汽傳祺、長城汽車、吉利汽車和東風公司銷量呈不同程度增長，其他企業銷量呈不同程度下降。"
+    },
+    {
+      "id": "5048943",
+      "time": "2026-08-20 10:26:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國國防部長：韓國既不能發展核武器，也不會接受美國部署戰術核武器。"
+    },
+    {
+      "id": "5048942",
+      "time": "2026-08-20 10:26:41",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【SK海力士股票回購登出計劃不會影響ADR轉換空間】據韓國證券存管機構（KSD）一位官員稱，他向SK海力士核實過，該公司回購並登出2400萬股股票的計劃不會影響投資者將其首爾上市股票轉換為美國存託憑證（ADR）的空間。 該官員稱，SK海力士首爾上市股票可轉換為美國存託憑證的數量上限是固定的，而非浮動比例，因此不會受到股票回購和登出計劃的影響。根據KSD網站的資訊，自SK海力士的美國存託憑證（ADR）上市以來，轉換上限一直維持在17,790,000股首爾上市普通股，目前已全部用完。這正是美國存託憑證（ADR）相對於首爾上市股票溢價大幅上漲的關鍵原因之一，週三該溢價高達44%。該官員稱：“由於美國證券交易委員會（SEC）規定的存託憑證上限是固定的股份數量，登出約3.3%的本地股份並不會實際減少原始轉換空間。溢價方面，預計未來三個月會出現一些短期壓縮，因為海力士在本地的大量買入會加速推高本地價格。”"
+    },
     {
       "id": "mkt:01a01cfd-cb0c-7aab-90a7-29bd9675467e",
       "time": "2026-08-20 10:26:29",
@@ -143759,66 +143872,6 @@
         "市場"
       ],
       "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報148000元/噸，較上日16:30價格下跌250元/噸。"
-    },
-    {
-      "id": "5038482",
-      "time": "2026-08-13 10:30:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元指數DXY突破100，日內漲0.03%。"
-    },
-    {
-      "id": "mkt:019ff8f4-f687-7aab-9017-4348d0a7b0e9",
-      "time": "2026-08-13 10:30:31",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "US dollar index (DXY) breached 100, up 0.03% intraday."
-    },
-    {
-      "id": "5038481",
-      "time": "2026-08-13 10:30:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【我國牽頭制定！智慧城市資料利用頂層框架國際標準釋出】國際標準化組織（ISO）和國際電工委員會（IEC）近日聯合釋出國際標準《資訊科技 智慧城市資料利用 第1部分：框架》。該國際標準由我國專家擔任專案負責人，聯合韓國、加拿大、日本、澳大利亞、德國、哈薩克、辛巴威、墨西哥等11個國家的專家共同制定完成，是我國在智慧城市國際標準化領域取得的又一項標誌性成果，為構建全球智慧城市資料利用共識提供了頂層框架。該國際標準首次構建起智慧城市資料利用的統一框架，從資料可用、資料有用、資料易用、資料善用和資料賦能五大方面，系統界定了智慧城市資料利用的核心特徵及內涵。透過將智慧城市資料利用視為有機整體，突破單一視角侷限，有效填補了該領域綜合性國際標準的空白。智慧城市資料利用是驅動城市從“經驗管理”邁向“資料治理”的關鍵生產要素。透過發揮資料要素疊加、倍增效應，可有力驅動城市治理體系和治理能力現代化建設，為推進城市全域數字化轉型、夯實數字中國建設根基提供核心引擎。該國際標準的釋出實施將啟用資料作為城市戰略資源和資產的核心價值，促進資料實現高效、可持續、全面、創新利用，發揮資料的基礎資源和創新引擎作用，推動城市精細化治理與服務升級，為全球智慧城市資料利用提供統一技術參考。"
-    },
-    {
-      "id": "te:markets:574882",
-      "time": "2026-08-13 10:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Sideways Near Multi-Week Lows — Soybean futures hovered below $1,160 per bushel, trading in a sideways range near multi-week lows as markets weighed a lower US yield forecast against expectations for a record crop. The USDA cut its 2026 soybean yield estimate to 52.7 bushels per acre from 53, reflecting the impact of extreme heat and dryness in parts of the Midwest. However, higher planted acreage lifted projected production by 44 million bushels to a record 4.519 billion bushels, up 6% from 2025 and above the previous record set in 2021. The larger crop also pushed projected 2026/27 ending stocks up to 320 million bushels from 310 million previously. While recent heat and dryness supported prices, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects. Meanwhile, China provided a fresh demand boost, with the USDA confirming a sale of 244,000 metric tons of US soybeans for delivery in the 2026/27 marketing year."
-    },
-    {
-      "id": "mkt:019ff8f2-4cab-7aab-9017-3afb61c847d7",
-      "time": "2026-08-13 10:27:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share MLCC sector traded higher on choppy action; Torch Electronics hit the daily trading limit, while Sanhuan Group, Shuangxing New Material, Boqian New Material and Fenghua Hi‑Tech also advanced."
-    },
-    {
-      "id": "mkt:019ff8f2-2459-7aab-9017-376fe35e2655",
-      "time": "2026-08-13 10:27:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Australian housing market cools; mortgage applications down at least 12%】Mortgage applications at Commonwealth Bank, Westpac and ANZ have fallen at least 12% since the government’s May budget paved the way to remove investor tax breaks, reflecting a cooling Australian housing market. The weakness has pushed bank shares lower and highlighted pressure on profitability. Earlier rises in borrowing costs had already damped demand and prices in Sydney and Melbourne are retreating. Commonwealth Bank CEO Matt Comyn said the bank has not yet seen the weakness spill over into household spending or broader activity. With the Middle East conflict lifting inflation and some firms remaining cautious, housing credit growth is expected to slow further next year."
     }
   ]
 }
