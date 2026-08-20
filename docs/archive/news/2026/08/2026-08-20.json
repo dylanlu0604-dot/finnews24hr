@@ -1,7 +1,110 @@
 {
   "date": "2026-08-20",
-  "count": 793,
+  "count": 804,
   "items": [
+    {
+      "id": "5048882",
+      "time": "2026-08-20 09:47:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "王興興：人形機器人將迎來自主快速進化的新時代。"
+    },
+    {
+      "id": "mkt:01a01cd9-31bf-7aab-90a6-a9903d058aeb",
+      "time": "2026-08-20 09:46:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09866.HK",
+        "Impact bullish",
+        "02015.HK",
+        "09868.HK"
+      ],
+      "text": "Hong Kong-listed new-energy vehicle stocks advanced: Nio (09866.HK) and Li Auto (02015.HK) climbed over 5%; XPeng (09868.HK) +3.7%; Xiaomi (01810.HK) +3.6%; Leapmotor (09863.HK) +3.2%."
+    },
+    {
+      "id": "5048881",
+      "time": "2026-08-20 09:46:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股創新藥板塊走高，雲頂新耀現漲48%，中國生物製藥漲17%，石藥集團漲超13%，復星醫藥漲7%。"
+    },
+    {
+      "id": "te:markets:576673",
+      "time": "2026-08-20 09:45:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Strengthens as Dollar, Yields Retreat — The Japanese yen traded near 158 per dollar on Thursday after gaining nearly 1% in the previous session, supported by a sharp decline in the dollar and retreating Treasury yields as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Still, the yen remained under pressure over the longer term due to wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. Latest data also showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips."
+    },
+    {
+      "id": "5048880",
+      "time": "2026-08-20 09:45:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內大漲6.00%。個股方面，SK海力士漲超12%，三星電子漲超8%。"
+    },
+    {
+      "id": "mkt:01a01cd8-6dca-7aab-90a6-a104271db4d6",
+      "time": "2026-08-20 09:45:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index rose 6.00% intraday to 6,861.17."
+    },
+    {
+      "id": "5048879",
+      "time": "2026-08-20 09:45:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元<CNY=CFXS>走強至6.7212元，創2023年2月2日以來新高。"
+    },
+    {
+      "id": "5048878",
+      "time": "2026-08-20 09:44:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量651億元。"
+    },
+    {
+      "id": "mkt:01a01cd7-06de-7aab-90a6-9c87b1c1e7ee",
+      "time": "2026-08-20 09:44:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chinese robotics firm Yushu Technology chairman, general manager and CTO Wang Xingxing said the company is behind in developing robots for real-world applications."
+    },
+    {
+      "id": "5048877",
+      "time": "2026-08-20 09:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "王興興：我們在機器人實際場景應用開發方面滯後。"
+    },
+    {
+      "id": "mkt:01a01cd6-d629-7aab-90a6-92f6a7148b4e",
+      "time": "2026-08-20 09:43:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the main global bottleneck for embodied intelligence is that model inputs and outputs diverge from the real world."
+    },
     {
       "id": "5048876",
       "time": "2026-08-20 09:43:21",
