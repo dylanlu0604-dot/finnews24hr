@@ -1,7 +1,218 @@
 {
-  "updated": "2026-08-20 23:36:01",
-  "count": 16007,
+  "updated": "2026-08-20 23:39:53",
+  "count": 16025,
   "items": [
+    {
+      "id": "5050562",
+      "time": "2026-08-20 23:38:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "提示：美聯儲穆薩萊姆講話結束。"
+    },
+    {
+      "id": "mkt:01a01fd3-50c8-7aab-90bd-58d3067db51d",
+      "time": "2026-08-20 23:38:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve official Musalem said he will not offer a definitive view or pre-judge policy for the September FOMC meeting."
+    },
+    {
+      "id": "5050561",
+      "time": "2026-08-20 23:38:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：不會就9月FOMC會議希望採取的行動給出明確看法。"
+    },
+    {
+      "id": "5050560",
+      "time": "2026-08-20 23:38:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "北達科他州監管機構稱，8月運營鑽機數量為33座，7月為26座。"
+    },
+    {
+      "id": "5050559",
+      "time": "2026-08-20 23:38:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：不會預先判斷下次聯邦公開市場委員會（FOMC）會議的政策結果。"
+    },
+    {
+      "id": "mkt:01a01fd2-a018-7aab-90bd-53f34c602649",
+      "time": "2026-08-20 23:38:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Musalem, a Federal Reserve official, said he recommended a rate hike in July."
+    },
+    {
+      "id": "mkt:01a01fd2-5cf8-7aab-90bd-497a22b17c9b",
+      "time": "2026-08-20 23:37:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor said this afternoon a key piece of infrastructure in the city was struck for the first time in months; hot-water supply to parts of the Desnianskyi and Dniprovskyi districts may be affected."
+    },
+    {
+      "id": "5050558",
+      "time": "2026-08-20 23:37:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆薩萊姆：我曾建議 7 月加息。"
+    },
+    {
+      "id": "mkt:01a01fd2-25b9-7aab-90bd-40fcd9e3d8fe",
+      "time": "2026-08-20 23:37:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "MUSALEM said he hopes to bring inf down to 2% within 18 months."
+    },
+    {
+      "id": "5050557",
+      "time": "2026-08-20 23:37:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆薩萊姆：我希望通脹在 18 個月內降至 2%。"
+    },
+    {
+      "id": "mkt:01a01fd1-c95f-7aab-90bd-3d724276391c",
+      "time": "2026-08-20 23:37:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's MUSALEM said core inflation must be monitored when supply shocks occur."
+    },
+    {
+      "id": "5050556",
+      "time": "2026-08-20 23:37:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部譴責美國對伊實施新一輪經濟制裁】當地時間20日，伊朗外交部就美國對伊朗實施新一輪經濟制裁發表宣告，譴責美方擴大針對伊朗的經濟和貿易制裁。宣告稱，美方相關制裁措施違反國際法和《聯合國憲章》基本原則，對伊朗國家主權和民眾權益造成影響。伊朗外交部認為，持續透過經濟制裁和施壓無法實現美方目標，只會進一步加劇雙方對立。宣告表示，伊朗將繼續採取措施維護國家安全和利益，並應對來自美國的經濟、政治等方面壓力。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a01fd1-b277-7aab-90bd-3694794c4d95",
+      "time": "2026-08-20 23:37:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Musalem said the labor market is not creating inflationary pressure."
+    },
+    {
+      "id": "5050555",
+      "time": "2026-08-20 23:37:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：遭遇供給衝擊時，必須關注核心通脹。"
+    },
+    {
+      "id": "mkt:01a01fd1-8e62-7aab-90bd-2f726f1a8241",
+      "time": "2026-08-20 23:37:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's MUSALEM: forward guidance implies a commitment, while communicating the policy framework is different."
+    },
+    {
+      "id": "mkt:01a01fd1-72ed-7aab-90bd-2412c0ee9728",
+      "time": "2026-08-20 23:36:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "On Aug 20 (Thu) Europe equities: Germany's DAX 30 closed down 151.32 pts (-0.58%) at 25,978.46. Britain's FTSE 100 closed down 3.20 pts (-0.03%) at 10,740.15. France's CAC 40 closed down 48.82 pts (-0.57%) at 8,453.09. Euro Stoxx 50 closed down 22.81 pts (-0.35%) at 6,421.65. Spain's IBEX 35 closed down 43.91 pts (-0.22%) at 19,803.59. Italy's FTSE MIB closed up 26.80 pts (+0.05%) at 52,645.00."
+    },
+    {
+      "id": "5050554",
+      "time": "2026-08-20 23:36:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：前瞻性指引暗示了承諾，傳達框架則有所不同。"
+    },
+    {
+      "id": "mkt:01a01fd1-3893-7aab-90bd-1859957a620c",
+      "time": "2026-08-20 23:36:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran's foreign ministry condemns US new round of economic sanctions】On the 20th Iran's foreign ministry condemned a new round of US economic and trade sanctions, saying the measures violate international law and the basic principles of the UN Charter and harm Iran's sovereignty and citizens' rights. The ministry said continued use of economic sanctions and pressure will not achieve US objectives and will only deepen confrontation. It warned Iran will continue to take measures to safeguard national security and its interests and to respond to US economic and political pressure."
+    },
+    {
+      "id": "mkt:01a01fd0-ccf3-7aab-90bd-14130b3edc3a",
+      "time": "2026-08-20 23:36:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's MUSALEM said forward guidance is useful when policy rates are at zero."
+    },
+    {
+      "id": "5050553",
+      "time": "2026-08-20 23:36:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "智利中央銀行以平均每盎司922.80智利比索的價格賣出8400萬美元外匯遠期合約。"
+    },
+    {
+      "id": "5050552",
+      "time": "2026-08-20 23:35:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葉門胡塞武裝稱對沙特機場和油企設施發動襲擊】葉門胡塞武裝20日說，該組織對沙烏地阿拉伯南部奈季蘭地區的一個機場和沙特阿美公司在該地區的一處石油設施發動了無人機襲擊。胡塞武裝發言人葉海亞·薩雷亞當日在社交媒體發表宣告稱，兩起襲擊都“達到了目標”，但沒有提供更多關於傷亡或損失的細節。宣告稱，這次襲擊是為了回應沙特無人機入侵葉門北部薩達省的領空。沙特方面和阿美公司對此暫無評論。（新華社）"
+    },
     {
       "id": "mkt:01a01fcf-9e29-7aab-90bd-086fed488669",
       "time": "2026-08-20 23:34:55",
@@ -530,6 +741,14 @@
         "MKT News"
       ],
       "text": "U.S. Treasury Secretary Bessent said tariff revenue belongs to the American people."
+    },
+    {
+      "id": "5050532",
+      "time": "2026-08-20 23:25:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越秀資本董事長李鋒帶隊拜訪瀘州老窖集團】據越秀資本訊息，8月20日，越秀資本黨委書記、董事長李鋒帶隊拜訪瀘州老窖集團，雙方圍繞產業協同、資本賦能、生態共建等開展深入交流。"
     },
     {
       "id": "mkt:01a01fc7-2758-7aab-90bc-31b42403e1f5",
@@ -1317,6 +1536,14 @@
         "其他"
       ],
       "text": "貝森特：可繼續經由南部航道派出船隻。"
+    },
+    {
+      "id": "5050481",
+      "time": "2026-08-20 23:10:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
     },
     {
       "id": "5050480",
@@ -146398,53 +146625,6 @@
         "公司"
       ],
       "text": "閃迪高管稱公司預計明年向客戶交付首批用於推理裝置的HBF樣品。"
-    },
-    {
-      "id": "5039849",
-      "time": "2026-08-13 23:38:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "閃迪高管稱公司已完成首款高頻寬快閃記憶體晶片的流片。"
-    },
-    {
-      "id": "mkt:019ffbc6-937d-7aab-902a-4371c00ff2f9",
-      "time": "2026-08-13 23:38:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "On Thursday, August 13, major European bourses closed: Germany's DAX fell 37.69 points (0.14%) to 26,308.60; the UK FTSE 100 dropped 63.95 points (0.59%) to 10,769.20; France's CAC 40 lost 24.38 points (0.28%) to 8,650.56; the Euro STOXX 50 rose 13.96 points (0.21%) to 6,547.95; Spain's IBEX 35 slipped 25.25 points (0.12%) to 20,179.15; Italy's FTSE MIB ticked up 26.34 points (0.05%) to 53,725.00."
-    },
-    {
-      "id": "5039848",
-      "time": "2026-08-13 23:37:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【工業旅遊市場有望突破3000億元】七部門出臺政策扶持工業旅遊，開放產線觀摩、手工體驗等多元業態。2025年國內工業旅遊總收入1200億元，同比增長10%。研究機構預測，中國工業旅遊年均增速達18%，2029年市場有望突破3000億元，產業增長空間廣闊。（央視財經）"
-    },
-    {
-      "id": "5039847",
-      "time": "2026-08-13 23:36:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西CSN公司首席財務官稱，該公司仍在為旗下鋼鐵業務分析戰略可能性，這些可能性\"將提升該業務的現金創造能力\"。"
-    },
-    {
-      "id": "5039846",
-      "time": "2026-08-13 23:36:01",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【報道稱AMD擬透過債券發行融資高達50億美元】據報道，AMD擬透過債券發行融資高達50億美元，或為該公司史上最大規模投資級債券發行，加入AI熱潮驅動的企業發債浪潮。據知情人士透露，此次發行的最終規模尚未確定，可能根據需求進行調整。另一位知情人士表示，AMD將分四批發行票據，期限從3年到10年不等。最長期限品種的初始價格指引為較美國國債收益率溢價1.15個百分點。"
     }
   ]
 }
