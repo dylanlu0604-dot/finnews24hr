@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-21 01:24:35",
-  "count": 16071,
+  "updated": "2026-08-21 01:28:34",
+  "count": 16073,
   "items": [
+    {
+      "id": "mkt:01a02036-aff4-7aab-90bf-04581b06b48a",
+      "time": "2026-08-21 01:27:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor reports a fire in a non-residential area of Holosiivskyi district; firefighters are extinguishing the blaze. One person injured; medical teams are providing assistance."
+    },
+    {
+      "id": "5050680",
+      "time": "2026-08-21 01:26:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄防空力量當天在俄羅斯境內以及黑海和亞速海海域上空攔截並擊落了64架烏克蘭無人機。"
+    },
+    {
+      "id": "5050679",
+      "time": "2026-08-21 01:24:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "南非國家電力公司（ESKOM）：該限制涉及 2015 年至 2026 年 3 月 31 日期間的相關案件。"
+    },
     {
       "id": "mkt:01a02033-4a7b-7aab-90be-fcf381089991",
       "time": "2026-08-21 01:23:47",
@@ -147045,14 +147069,6 @@
         "MKT News"
       ],
       "text": "【Anthropic holds pre-IPO investor meetings; $2tn valuation cited but not company target】Anthropic is holding preliminary investor meetings ahead of a potential record-sized IPO, with discussions reportedly remaining at a macro level and not yet covering detailed financials or formal valuation guidance. CFO Krishna Rao is leading meetings focused on the Claude model family, Claude Code, enterprise positioning, management and product roadmap. The company confidentially filed listing documents with the SEC in June but has not set an IPO timetable. Anthropic completed a financing in late May at an implied valuation of about $965bn and disclosed an annualized revenue run rate above $47bln. Some investors price a potential IPO as high as $2tn, though that figure is not an official company target. Rival OpenAI has also confidentially filed but has not begun investor roadshows."
-    },
-    {
-      "id": "5039925",
-      "time": "2026-08-14 01:26:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "Rumo首席財務官表示，預計第三季度價格將同比保持穩定，第四季度將上漲。"
     }
   ]
 }
