@@ -1,7 +1,49 @@
 {
   "date": "2026-08-20",
-  "count": 1099,
+  "count": 1104,
   "items": [
+    {
+      "id": "mkt:01a01d9f-3624-7aab-90a9-3c178c04db9e",
+      "time": "2026-08-20 13:22:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's Ministry of Agriculture expects national rice production to exceed 38.6 mln tonnes in 2026."
+    },
+    {
+      "id": "5049075",
+      "time": "2026-08-20 13:21:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量3167億元。"
+    },
+    {
+      "id": "mkt:01a01d9d-4cd0-7aab-90a9-312381f76d21",
+      "time": "2026-08-20 13:20:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia declares 30-day emergency in 15 provinces after earthquake】Colombia has declared a 30-day economic, social and ecological emergency in 15 earthquake-hit provinces, including Valle del Cauca, Risaralda and Caldas, the government said on the 19th. The decree, signed after a cabinet meeting in Bogotá, aims to speed housing reconstruction and restore commercial activity and public infrastructure such as schools and hospitals. The president said Colombia faces its \"most complex\" fiscal situation and the government will cut some of the previous administration's \"non-priority\" spending to fund recovery efforts."
+    },
+    {
+      "id": "5049074",
+      "time": "2026-08-20 13:19:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞15省進入緊急狀態】哥倫比亞總統德拉埃斯普列亞19日宣佈，為應對地震災情，該國考卡山谷省、裡薩拉爾達省、卡爾達斯省等15個受災省份即日起進入經濟、社會和生態緊急狀態，為期30天。德拉埃斯普列亞當天在首都波哥大召開內閣會議並簽署相關法令。他表示，哥倫比亞正面臨歷史上“最複雜”的財政形勢，政府有必要採取“非常措施”，宣佈緊急狀態旨在推動受損住房重建，以及恢復商業活動和學校、醫院等公共基礎設施。德拉埃斯普列亞說，政府將削減上屆政府部分“非優先”專案的支出，以應對當前國家需求。"
+    },
+    {
+      "id": "5049073",
+      "time": "2026-08-20 13:18:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股房地產股走強 龍湖集團漲近7%】截至發稿，龍湖集團(00960.HK)漲6.98%，萬科企業(02202.HK)漲5.71%，綠城中國(03900.HK)漲5.50%。"
+    },
     {
       "id": "5049072",
       "time": "2026-08-20 13:16:11",
