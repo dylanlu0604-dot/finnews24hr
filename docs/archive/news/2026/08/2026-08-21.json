@@ -1,7 +1,56 @@
 {
   "date": "2026-08-21",
-  "count": 419,
+  "count": 424,
   "items": [
+    {
+      "id": "te:markets:576965",
+      "time": "2026-08-21 06:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.78% — Top commodity gainers are Natural Gas UK (3.78%), Natural Gas EU (2.71%), Liquefied Natural Gas Japan Korea (2.38%), Crude Oil WTI (2.25%) and Brent Crude Oil (1.78%). Biggest losers are Natural gas (-1.95%) and Methanol (-1.58%)."
+    },
+    {
+      "id": "mkt:01a0214b-a9f9-7aab-90c2-25c811ea63bd",
+      "time": "2026-08-21 06:30:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said the US economy has never been stronger and that if he runs again he would win by 25 percentage points."
+    },
+    {
+      "id": "mkt:01a0214b-6cae-7aab-90c2-1ad58d209bde",
+      "time": "2026-08-21 06:29:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "U.S. President Trump said Iran will never possess nuclear weapons and that the U.S. controls the Strait of Hormuz."
+    },
+    {
+      "id": "5050834",
+      "time": "2026-08-21 06:27:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們確實有一套方案，讓經濟增速超過債務增長速度。"
+    },
+    {
+      "id": "5050833",
+      "time": "2026-08-21 06:26:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：經濟從未像現在這般強勁。倘若我再度參選，我將以 25 個百分點的優勢獲勝。"
+    },
     {
       "id": "5050832",
       "time": "2026-08-21 06:26:08",

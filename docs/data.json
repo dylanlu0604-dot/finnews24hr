@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-21 06:27:00",
-  "count": 16050,
+  "updated": "2026-08-21 06:30:49",
+  "count": 16052,
   "items": [
+    {
+      "id": "te:markets:576965",
+      "time": "2026-08-21 06:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.78% — Top commodity gainers are Natural Gas UK (3.78%), Natural Gas EU (2.71%), Liquefied Natural Gas Japan Korea (2.38%), Crude Oil WTI (2.25%) and Brent Crude Oil (1.78%). Biggest losers are Natural gas (-1.95%) and Methanol (-1.58%)."
+    },
+    {
+      "id": "mkt:01a0214b-a9f9-7aab-90c2-25c811ea63bd",
+      "time": "2026-08-21 06:30:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said the US economy has never been stronger and that if he runs again he would win by 25 percentage points."
+    },
+    {
+      "id": "mkt:01a0214b-6cae-7aab-90c2-1ad58d209bde",
+      "time": "2026-08-21 06:29:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "U.S. President Trump said Iran will never possess nuclear weapons and that the U.S. controls the Strait of Hormuz."
+    },
+    {
+      "id": "5050834",
+      "time": "2026-08-21 06:27:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：我們確實有一套方案，讓經濟增速超過債務增長速度。"
+    },
+    {
+      "id": "5050833",
+      "time": "2026-08-21 06:26:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：經濟從未像現在這般強勁。倘若我再度參選，我將以 25 個百分點的優勢獲勝。"
+    },
     {
       "id": "5050832",
       "time": "2026-08-21 06:26:08",
@@ -146799,37 +146848,6 @@
         "國際"
       ],
       "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 07:30 澳洲聯儲主席布洛克出席聽證會；\n② 14:45 法國7月CPI終值；\n③ 待定 國內成品油開啟新一輪調價視窗；\n④ 16:30 中國香港第二季度GDP終值；\n⑤ 17:00 歐元區第二季度GDP修正值；\n⑥ 20:30 美國7月零售銷售，加拿大6月批發銷售；\n⑦ 22:00 美國8月密歇根大學消費者信心指數初值，美國6月商業庫存；\n⑧ 次日01:00 美國至8月14日當週石油鑽井總數。"
-    },
-    {
-      "id": "mkt:019ffd3f-3f90-7aab-902f-1c557b6ec3d3",
-      "time": "2026-08-14 06:30:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand July manufacturing performance index 54.3, prior 59.7."
-    },
-    {
-      "id": "te:markets:575192",
-      "time": "2026-08-14 06:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil WTI Drops by 2.66% — Top commodity losers are Crude Oil WTI (-2.66%), Natural gas (-2.56%) and Brent Crude Oil (-2.36%)."
-    },
-    {
-      "id": "mkt:019ffd3f-1f5d-7aab-902f-15007943d836",
-      "time": "2026-08-14 06:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Performance of Manufacturing Index (Jul) | actual 54.3 | previous 59.7"
     }
   ]
 }
