@@ -1,7 +1,111 @@
 {
   "date": "2026-08-20",
-  "count": 3048,
+  "count": 3060,
   "items": [
+    {
+      "id": "5050412",
+      "time": "2026-08-20 22:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，金山雲跌10.39%，萬物新生跌10.02%，好未來跌5.73%，網易跌5.36%，愛奇藝跌4.56%。"
+    },
+    {
+      "id": "5050411",
+      "time": "2026-08-20 22:34:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨在EIA公佈略低於預期的庫存增幅後維持跌勢，下跌2.4%。"
+    },
+    {
+      "id": "5050410",
+      "time": "2026-08-20 22:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "瓜地馬拉總統表示，今年該國已接收約2300名被美國驅逐出境的墨西哥人。"
+    },
+    {
+      "id": "mkt:01a01f97-791d-7aab-90ba-1ef41b847fa8",
+      "time": "2026-08-20 22:33:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1% intraday, trading at $67.67/oz."
+    },
+    {
+      "id": "5050409",
+      "time": "2026-08-20 22:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "CURVE DENTAL宣佈2億美元研發投資。"
+    },
+    {
+      "id": "5050408",
+      "time": "2026-08-20 22:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報68.57美元/盎司。"
+    },
+    {
+      "id": "5050407",
+      "time": "2026-08-20 22:33:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報67.65美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01f96-36ff-7aab-90ba-1243c20bfdb3",
+      "time": "2026-08-20 22:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Fox News, the U.S. Treasury has prohibited ESG funds from appearing in a \"Trump account\"."
+    },
+    {
+      "id": "mkt:01a01f95-dc08-7aab-90ba-09da3d972733",
+      "time": "2026-08-20 22:31:49",
+      "tags": [
+        "MKT News",
+        "SBUX.O",
+        "Impact bullish"
+      ],
+      "text": "Starbucks (SBUX.O) will cut about 220 roles at its Washington state headquarters as part of a restructuring; roughly 120 affected employees had previously refused relocation to Nashville."
+    },
+    {
+      "id": "5050406",
+      "time": "2026-08-20 22:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克因重組將在華盛頓總部裁員約220人。 約 120 名遭裁員員工拒絕搬遷至納什維爾。"
+    },
+    {
+      "id": "5050405",
+      "time": "2026-08-20 22:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "UNIPOL ASSICURAZIONI 股價下跌高達 4.1%。"
+    },
+    {
+      "id": "5050404",
+      "time": "2026-08-20 22:31:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部禁止特朗普賬戶持有ESG基金。"
+    },
     {
       "id": "mkt:01a01f95-2fcf-7aab-90ba-0406b07a2e37",
       "time": "2026-08-20 22:31:05",

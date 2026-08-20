@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-20 22:31:54",
-  "count": 15918,
+  "updated": "2026-08-20 22:35:47",
+  "count": 15914,
   "items": [
+    {
+      "id": "5050412",
+      "time": "2026-08-20 22:35:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，金山雲跌10.39%，萬物新生跌10.02%，好未來跌5.73%，網易跌5.36%，愛奇藝跌4.56%。"
+    },
+    {
+      "id": "5050411",
+      "time": "2026-08-20 22:34:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨在EIA公佈略低於預期的庫存增幅後維持跌勢，下跌2.4%。"
+    },
+    {
+      "id": "5050410",
+      "time": "2026-08-20 22:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "瓜地馬拉總統表示，今年該國已接收約2300名被美國驅逐出境的墨西哥人。"
+    },
+    {
+      "id": "mkt:01a01f97-791d-7aab-90ba-1ef41b847fa8",
+      "time": "2026-08-20 22:33:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1% intraday, trading at $67.67/oz."
+    },
+    {
+      "id": "5050409",
+      "time": "2026-08-20 22:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "CURVE DENTAL宣佈2億美元研發投資。"
+    },
+    {
+      "id": "5050408",
+      "time": "2026-08-20 22:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報68.57美元/盎司。"
+    },
+    {
+      "id": "5050407",
+      "time": "2026-08-20 22:33:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報67.65美元/盎司。"
+    },
+    {
+      "id": "mkt:01a01f96-36ff-7aab-90ba-1243c20bfdb3",
+      "time": "2026-08-20 22:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Fox News, the U.S. Treasury has prohibited ESG funds from appearing in a \"Trump account\"."
+    },
+    {
+      "id": "mkt:01a01f95-dc08-7aab-90ba-09da3d972733",
+      "time": "2026-08-20 22:31:49",
+      "tags": [
+        "MKT News",
+        "SBUX.O",
+        "Impact bullish"
+      ],
+      "text": "Starbucks (SBUX.O) will cut about 220 roles at its Washington state headquarters as part of a restructuring; roughly 120 affected employees had previously refused relocation to Nashville."
+    },
+    {
+      "id": "5050406",
+      "time": "2026-08-20 22:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克因重組將在華盛頓總部裁員約220人。 約 120 名遭裁員員工拒絕搬遷至納什維爾。"
+    },
+    {
+      "id": "5050405",
+      "time": "2026-08-20 22:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "UNIPOL ASSICURAZIONI 股價下跌高達 4.1%。"
+    },
+    {
+      "id": "5050404",
+      "time": "2026-08-20 22:31:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部禁止特朗普賬戶持有ESG基金。"
+    },
     {
       "id": "mkt:01a01f95-2fcf-7aab-90ba-0406b07a2e37",
       "time": "2026-08-20 22:31:05",
@@ -145468,159 +145572,6 @@
         "其他"
       ],
       "text": "【遭制裁油輪在阿曼近海原油洩漏，油汙已蔓延至陸地】據報道，受損油輪 “卡羅琳・貝曾吉” 號在阿曼海岸外發生原油洩漏，油汙擴散面積約 1300 平方公里（500 平方英里），並且已經抵達陸地。綠色和平組織活動人士哈嫩・凱斯表示，衛星影象分析顯示，洩漏油汙並未形成連片油膜，而是裂解成多處油汙斑塊。阿曼方面尚未確認實際受汙染總面積。"
-    },
-    {
-      "id": "mkt:019ffb8c-c79a-7aab-9028-5220eaa6bbf7",
-      "time": "2026-08-13 22:35:35",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UKMTO says Iran's Islamic Revolutionary Guard Corps continues to harass and surveil merchant vessels, though there were no confirmed attacks in the latest reporting period."
-    },
-    {
-      "id": "5039764",
-      "time": "2026-08-13 22:35:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【比亞迪“海獺”，在日本訂單已超1000輛】喊出“全球第一”目標後，比亞迪正直指豐田汽車的“大本營”——日本市場。挑大樑的產品，是比亞迪日本分公司於7月底向授權經銷商開放銷售的輕型純電動車——海獺RACCO。“截至8月10日，海獺在日本市場的訂單超過1000輛。”8月12日，比亞迪方面向《每日經濟新聞》記者透露，到2026年底，海獺的訂單目標是1萬輛。據全球市場研究機構Research and Markets預測，日本新能源汽車市場規模（主要聚焦純電動車）2026年將達到19.9億美元，2030年將達到26.8億美元。（每經）"
-    },
-    {
-      "id": "mkt:019ffb8c-8c14-7aab-9028-4ae678c5f96a",
-      "time": "2026-08-13 22:35:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UKMTO: commercial traffic in the Strait of Hormuz remains constrained."
-    },
-    {
-      "id": "mkt:019ffb8c-2552-7aab-9028-45bf25ab7bfe",
-      "time": "2026-08-13 22:34:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: India has received 20 bids to establish magnet manufacturing plants."
-    },
-    {
-      "id": "5039763",
-      "time": "2026-08-13 22:34:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭已向俄羅斯提議，雙方停止襲擊黑海區域的民用目標，目前尚未得到俄方回應。"
-    },
-    {
-      "id": "mkt:019ffb8b-ad54-7aab-9028-3b84e954e5fc",
-      "time": "2026-08-13 22:34:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Ukraine's proposal was relayed to Russia via a third party, but no response has been received."
-    },
-    {
-      "id": "mkt:019ffb8b-8ffb-7aab-9028-37e546966f7b",
-      "time": "2026-08-13 22:34:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Sources say Ukraine has proposed to Russia that both sides cease strikes on civilian targets in the Black Sea."
-    },
-    {
-      "id": "5039762",
-      "time": "2026-08-13 22:34:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【希臘西尼羅病毒感染病例激增】希臘國家公共衛生組織12日說，希臘過去兩週感染西尼羅病毒的人數激增，感染病例總數增至110例。據法新社13日報道，義大利、西班牙、北馬其頓和羅馬尼亞等歐洲國家也發現西尼羅病毒感染病例。(新華社)"
-    },
-    {
-      "id": "5039761",
-      "time": "2026-08-13 22:34:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度收到20份建設磁鐵製造工廠的投標。"
-    },
-    {
-      "id": "5039760",
-      "time": "2026-08-13 22:33:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "哥本哈根基礎設施合夥人公司與蒂蘭德公司獲丹麥養老金（PensionDanmark）出資支援，在丹麥啟動能源一體化資料中心建設。"
-    },
-    {
-      "id": "mkt:019ffb8a-a835-7aab-9028-2ff4e5a1dccb",
-      "time": "2026-08-13 22:33:15",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England chief economist Pill: UK economic growth strengthens case for rate hikes."
-    },
-    {
-      "id": "mkt:019ffb8a-76f5-7aab-9028-250df23fc2d6",
-      "time": "2026-08-13 22:33:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Ukraine says it struck large refinery in Russia's southwest】Ukraine's General Staff said on social media on the 13th that Ukrainian forces struck a large refinery in the Republic of Bashkortostan in Russia's southwest in the early hours, triggering a fire. The General Staff said the target was about 1,300 km from the Ukraine–Russia border and said Kyiv would continue strikes on Russian critical infrastructure to systematically degrade its combat capability. The refinery was reported to belong to Salavat Petrochemical Company, described as one of Russia's largest refining and petrochemical complexes with annual refining capacity of about 10 mln tonnes."
-    },
-    {
-      "id": "5039759",
-      "time": "2026-08-13 22:32:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【烏軍稱襲擊俄西南部一大型煉油廠】烏克蘭武裝部隊總參謀部13日在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。 烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。 據報道，遭襲的煉油廠屬於俄氣薩拉瓦特石油化工公司，該公司是俄最大煉油和石化綜合體之一，年煉油能力達1000萬噸。(新華社)"
-    },
-    {
-      "id": "mkt:019ffb89-c472-7aab-9028-197ec8d0ee5d",
-      "time": "2026-08-13 22:32:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures extended losses, down 3.0% after the EIA reported inventories rose more than expected."
-    },
-    {
-      "id": "5039758",
-      "time": "2026-08-13 22:32:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署公佈天然氣庫存增幅超預期後，美國天然氣期貨延續跌勢，跌幅達3.0%。"
-    },
-    {
-      "id": "5039757",
-      "time": "2026-08-13 22:32:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署(EIA)：上週美國天然氣庫存環比上升1.15%。"
     }
   ]
 }
