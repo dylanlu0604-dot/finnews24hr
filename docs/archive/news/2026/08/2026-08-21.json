@@ -1,7 +1,100 @@
 {
   "date": "2026-08-21",
-  "count": 514,
+  "count": 524,
   "items": [
+    {
+      "id": "5050883",
+      "time": "2026-08-21 07:39:15",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本通脹加速，為日本央行加息提供依據】日本核心物價指標連續第二個月加速上行，日本央行有望在短期內再度加息，市場愈發猜測央行最早將於9月採取加息行動。日本總務省週五公佈，7月剔除生鮮食品的消費者物價指數同比上漲1.8%，高於上月1.6%的漲幅，該資料與經濟學家預期中值一致。同時剔除生鮮食品與能源的物價指數是日本央行密切關注的核心通脹指標，同比上漲1.9%；整體CPI同樣同比上漲1.9%。此次通脹抬升部分受能源推動，能源價格同比上漲0.6%，扭轉了6月小幅下滑的態勢。數週前日本央行行長植田和男釋放訊號，稱政策當局或將加快政策正常化步伐，本次通脹資料為央行加息提供支撐。儘管美日兩國7月底罕見實施聯合匯市干預，但日元持續走弱仍帶來物價上行風險，市場投資者愈發確信日本央行將於下月啟動加息。"
+    },
+    {
+      "id": "te:economy:576990",
+      "time": "2026-08-21 07:37:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Core Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Core Inflation Rate Hits 4-Month High — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.8% year-on-year in July 2026, following a 1.6% rise in June. It was the highest core inflation rate since March and was in line with market forecasts of 1.8%. Still, the latest reading remained below the Bank of Japan’s 2% target for a sixth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a02189-5628-7aab-90c3-216d5331dedd",
+      "time": "2026-08-21 07:37:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan July national CPI (unadjusted) MoM +0.4%, prior 0.0%."
+    },
+    {
+      "id": "mkt:01a02189-3b11-7aab-90c3-1caa0be11841",
+      "time": "2026-08-21 07:37:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (MoM) (Jul) | actual 0.4% | previous 0%"
+    },
+    {
+      "id": "te:markets:576989",
+      "time": "2026-08-21 07:36:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Set for Second Straight Weekly Rise — Brent crude traded above $93 per barrel on Friday and was on track to post a second consecutive weekly gain, rising more than 5% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an \"economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets."
+    },
+    {
+      "id": "5050882",
+      "time": "2026-08-21 07:36:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股限售股解禁一覽：10.46億元市值限售股今日解禁】Wind資料顯示，週五（8月21日），共有1家公司限售股解禁，合計解禁量為6319.19萬股，按最新收盤價計算，合計解禁市值為10.46億元。從解禁量來看，1家公司解禁股數超千萬股。志高機械解禁量居前，解禁股數分別為6319.19萬股。從解禁市值來看，1家公司解禁市值超億元。志高機械解禁市值居前，解禁市值分別為10.46億元。從解禁股數佔總股本比例來看，1家公司解禁比例超10%。志高機械解禁比例居前，解禁比例分別為50.63%。"
+    },
+    {
+      "id": "5050881",
+      "time": "2026-08-21 07:36:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股股票回購一覽：35家公司披露回購進展】Wind資料顯示，8月21日，35家公司共釋出35個股票回購相關進展。其中，11家公司首次披露股票回購預案，4家公司回購方案獲股東大會透過，10家公司披露股票回購實施進展，10家公司回購方案已實施完畢。從首次披露回購預案來看，當日共6家公司股票回購預案金額超千萬。格力電器、新華百貨、ST絕味回購預案金額最高，分別擬回購不超100.0億元、4.0億元、2.0億元。從股東大會透過回購預案來看，當日共3家公司回購預案超千萬。兆易創新、大秦鐵路、山東高速回購金額最高，分別擬回購不超20.0億元、5.0億元、2.0億元。從回購實施進展來看，凱普生物、海程邦達、永和股份回購金額最高，分別回購1.25億元、7399.32萬元、6999.28萬元。從已完成回購來看，當日共7家公司回購金額超千萬。ST能特、聚光科技、學大教育已完成回購金額最高，分別回購3.0億元、1.33億元、9894.89萬元。"
+    },
+    {
+      "id": "5050880",
+      "time": "2026-08-21 07:36:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【AI焦慮滲透美聯儲 牽動對就業、通脹的預測及金融穩定】AI引發的焦慮無所不在：從擔心飯碗不保的勞工，到示警金融泡沫風險的投資人。如今，AI也開始主導美聯儲的討論。美國央行最近一次政策會議的會議紀錄顯示，決策官員在思考經濟幾乎任何一個面向時，這項科技的重要性都日益凸顯。在官員討論當前經濟情勢與經濟展望的15個段落中，提及AI不下18次。Monetary Policy Analytics經濟學家Derek Tang表示，有關AI的討論不僅篇幅很長，涵蓋面也非常廣。AI現在正從不同角度影響他們，其中包括對通脹的預測、對就業的預測，以及金融穩定。現在看來，AI似乎已經無所不在。"
+    },
+    {
+      "id": "5050879",
+      "time": "2026-08-21 07:35:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票私募倉位指數維持高位 大型機構加倉意願強烈】近期，股票私募倉位指數持續穩居年內高點。最新資料顯示，截至2026年8月14日，股票私募倉位指數為83.97%，較前一統計周（8月3日至8月7日）微升0.09個百分點，且該指數已連續第七週維持在83%以上的年內高位，反映出私募機構整體持股意願較強。"
+    },
     {
       "id": "te:markets:576987",
       "time": "2026-08-21 07:35:32",
@@ -59,6 +152,15 @@
         "公司"
       ],
       "text": "【AI算力需求驅動 玻纖行業上半年業績普遍向好】玻纖行業龍頭中國巨石8月20日披露半年報，今年上半年實現營業收入111.59億元，同比增長22.5%；淨利潤29.33億元，同比大幅增長73.87%。與此同時，中材科技、國際復材、金安國紀等多家產業鏈公司同期業績呈現不同程度增長。在AI算力需求驅動下，玻纖及電子布行業景氣度持續攀升，龍頭企業正加速佈局產能，一場圍繞高階化、特種化的產能競賽已然展開。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608213848316782",
+      "time": "2026-08-21 07:31:54",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月整體CPI同比上漲1.9%，預估為上漲1.9%。"
     },
     {
       "id": "5050875",
