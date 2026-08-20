@@ -1,7 +1,91 @@
 {
   "date": "2026-08-21",
-  "count": 357,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:01a020ed-8ab8-7aab-90c1-6dd8112215ce",
+      "time": "2026-08-21 04:47:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE Russell confirmed India's Bombay Stock Exchange (BSE) has met the required criteria; BSE-listed securities will be included in FTSE Russell's index eligibility assessments starting with the March 2027 index review."
+    },
+    {
+      "id": "te:markets:576962",
+      "time": "2026-08-21 04:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains as Petrobras and Vale Rally — The Ibovespa edged 0.1% higher to close at 167,927 on Thursday, supported by gains in commodity-related stocks. Petrobras rose 2.8%, tracking a strong increase in oil futures, which also boosted PRIO, up 0.8%. Oil prices continued to rise as the war with Iran appeared increasingly far from a resolution after US President Donald Trump announced a package of measures aimed at hurting Iran’s economy. Vale jumped 2.6%, despite a decline in Chinese iron ore futures. Steelmakers, however, remained under pressure amid expectations of a possible agreement between Canada and the US that could lead to lower US tariffs on Canadian steel, making Brazilian companies less competitive. Gerdau fell 2.5%. Banks struggled as bond yields moved higher on energy-driven inflation concerns. Banco do Brasil fell 0.2%, Bradesco dropped 1.7% and Itaú lost 2.2%. Elsewhere, Ultrapar gained 1.1% after brokerages raised their price targets. Marcopolo rose 6.5% following a share buyback and dividend announcement."
+    },
+    {
+      "id": "mkt:01a020ed-1f86-7aab-90c1-6278fe28dd1c",
+      "time": "2026-08-21 04:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Switzerland complete upgraded free trade agreement talks, sign MoU】Aug 20 — In Bern, Swiss federal president and minister for economic affairs, education and research Guy Parmelin met with MOFCOM minister Raimondo to announce completion of upgraded China–Switzerland free trade agreement negotiations and the signing of a memorandum of understanding."
+    },
+    {
+      "id": "5050802",
+      "time": "2026-08-21 04:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國與瑞士宣佈完成自貿協定升級談判】8月20日，瑞士聯邦主席兼經濟、教研部長帕姆蘭在伯爾尼會見商務部部長王文濤，共同宣佈完成中國—瑞士自由貿易協定升級談判並簽署諒解備忘錄。中國駐瑞士大使錢敏堅、瑞士駐華大使馬婷等出席活動。（商務部網站）"
+    },
+    {
+      "id": "5050801",
+      "time": "2026-08-21 04:43:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素：孟買證交所上市股票自 2027 年 3 月評估起可納入指數評估範圍。"
+    },
+    {
+      "id": "5050800",
+      "time": "2026-08-21 04:42:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "富時羅素：確認印度孟買證券交易所（BSE）符合相關要求，可被納入富時羅素股票指數的合格交易所範疇。"
+    },
+    {
+      "id": "mkt:01a020e6-b6ad-7aab-90c1-5e8e79b1983c",
+      "time": "2026-08-21 04:39:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed chair KEVIN WARSH will speak at Jackson Hole on Aug 28 at 10:00 a.m. EDT (10:00 p.m. Beijing time)."
+    },
+    {
+      "id": "5050799",
+      "time": "2026-08-21 04:39:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇：塞爾維亞議會選舉將於10月下旬舉行】當地時間20日晚，塞爾維亞總統武契奇在接受塞爾維亞廣播電視臺採訪時表示，塞爾維亞議會選舉將於10月18日或25日舉行，最終日期將在未來幾天確定。 此前，武契奇14日出席活動時說，塞爾維亞可能於今年10月或11月舉行議會選舉。今年6月，武契奇表示要辭去總統職務。7月，武契奇稱將在辭去總統職務後爭取出任政府總理。武契奇2017年4月當選塞爾維亞總統，並於2022年5月連任。（新華社）"
+    },
+    {
+      "id": "5050798",
+      "time": "2026-08-21 04:36:42",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲稱主席沃什將於美東時間8月28日上午10點在傑克遜霍爾講話。"
+    },
     {
       "id": "te:markets:576961",
       "time": "2026-08-21 04:35:00",
