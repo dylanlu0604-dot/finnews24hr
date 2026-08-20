@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-21 01:28:34",
-  "count": 16073,
+  "updated": "2026-08-21 01:32:29",
+  "count": 16072,
   "items": [
+    {
+      "id": "mkt:01a02039-dd1c-7aab-90bf-10aa98ed1ba9",
+      "time": "2026-08-21 01:30:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Commodity Futures Trading Commission is seeking public comment on a proposal to eliminate the requirement that swap execution facilities (SEFs) provide an order book for permitted transactions."
+    },
+    {
+      "id": "mkt:01a02038-1c66-7aab-90bf-0caff0d6c84b",
+      "time": "2026-08-21 01:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian foreign minister said his visit to Pakistan was successful and will further strengthen bilateral ties and broaden areas for cooperation."
+    },
+    {
+      "id": "5050681",
+      "time": "2026-08-21 01:28:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡斯凱茲公司將部分贖回 2028 年到期、票面利率 5.375% 的高階債券。"
+    },
     {
       "id": "mkt:01a02036-aff4-7aab-90bf-04581b06b48a",
       "time": "2026-08-21 01:27:29",
@@ -147037,38 +147061,6 @@
         "Importance 1"
       ],
       "text": "Chevron Stock Price Hits 12-week High — Chevron shares increased to 197.70 USD, the highest since May 2026. Over the past 4 weeks, Chevron gained 8.73%, and in the last 12 months, it increased 27.37%."
-    },
-    {
-      "id": "5039928",
-      "time": "2026-08-14 01:31:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫要求小羅伯特·肯尼迪詳細說明聯邦對環孢子蟲疫情的應對措施。"
-    },
-    {
-      "id": "5039927",
-      "time": "2026-08-14 01:30:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "KNDS稱義大利工廠無人員受傷，事故原因正在調查。"
-    },
-    {
-      "id": "5039926",
-      "time": "2026-08-14 01:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美防長稱可無限期封鎖伊朗】美國國防部長赫格塞思8月13日表示，美軍擁有足夠資源對伊朗實施“無限期”的海上封鎖，並可根據需要輪換部署在該地區的艦船。赫格塞思對媒體稱：“美國海軍完全有能力維持此類封鎖，想封多久就封多久。我們將像此前那樣，持續輪換部署的艦船。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019ffc2b-37e9-7aab-902b-d64af15dc3db",
-      "time": "2026-08-14 01:28:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Anthropic holds pre-IPO investor meetings; $2tn valuation cited but not company target】Anthropic is holding preliminary investor meetings ahead of a potential record-sized IPO, with discussions reportedly remaining at a macro level and not yet covering detailed financials or formal valuation guidance. CFO Krishna Rao is leading meetings focused on the Claude model family, Claude Code, enterprise positioning, management and product roadmap. The company confidentially filed listing documents with the SEC in June but has not set an IPO timetable. Anthropic completed a financing in late May at an implied valuation of about $965bn and disclosed an annualized revenue run rate above $47bln. Some investors price a potential IPO as high as $2tn, though that figure is not an official company target. Rival OpenAI has also confidentially filed but has not begun investor roadshows."
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "date": "2026-08-21",
-  "count": 155,
+  "count": 158,
   "items": [
+    {
+      "id": "mkt:01a02039-dd1c-7aab-90bf-10aa98ed1ba9",
+      "time": "2026-08-21 01:30:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Commodity Futures Trading Commission is seeking public comment on a proposal to eliminate the requirement that swap execution facilities (SEFs) provide an order book for permitted transactions."
+    },
+    {
+      "id": "mkt:01a02038-1c66-7aab-90bf-0caff0d6c84b",
+      "time": "2026-08-21 01:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian foreign minister said his visit to Pakistan was successful and will further strengthen bilateral ties and broaden areas for cooperation."
+    },
+    {
+      "id": "5050681",
+      "time": "2026-08-21 01:28:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡斯凱茲公司將部分贖回 2028 年到期、票面利率 5.375% 的高階債券。"
+    },
     {
       "id": "mkt:01a02036-aff4-7aab-90bf-04581b06b48a",
       "time": "2026-08-21 01:27:29",
