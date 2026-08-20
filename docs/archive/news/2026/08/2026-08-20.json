@@ -1,7 +1,96 @@
 {
   "date": "2026-08-20",
-  "count": 844,
+  "count": 854,
   "items": [
+    {
+      "id": "mkt:01a01ceb-cf7e-7aab-90a6-f77b181c39f4",
+      "time": "2026-08-20 10:06:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Unitree CEO in first public speech post-IPO says embodied‑intelligence 'ChatGPT moment' could arrive in 2–3 years or 5–10 years】Aug 20, 2026 — Unitree Robotics founder and chairman Wang Xingxing said the company has deployed robots in automotive factories and run internal factory tests, and its AI team is developing household-task capabilities, but overall efficiency and generality remain insufficient so Unitree has not launched large-scale commercial rollouts. He said an 'embodied‑intelligence ChatGPT moment' — where robots can complete roughly 80% of tasks in about 80% of unfamiliar scenes via voice or text commands — could ideally occur in 2–3 years, or take 5–10 years. He identified the key technical barrier as aligning large AI model I/O with physical robot control."
+    },
+    {
+      "id": "te:markets:576678",
+      "time": "2026-08-20 10:06:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Rebound as PBOC Stands Pat — The Shanghai Composite rose 0.7% to 3,923 on Thursday, while the Shenzhen Component gained 1.5% to 14,096, rebounding from the previous session as the People's Bank of China left its benchmark lending rates unchanged at record lows. The one-year loan prime rate (LPR) was maintained at 3.0%, while the five-year LPR remained at 3.5%, underscoring policymakers' cautious approach amid lingering domestic and external uncertainties. The decision followed the central bank's pledge to maintain an accommodative monetary stance, while expectations of further stimulus measures were reinforced by weak July economic data and Premier Li Qiang's call to accelerate the shift toward new growth drivers. Investors are now awaiting the National People's Congress Standing Committee meeting in Beijing on August 25–28 for further policy signals. Notable gainers included Foxconn Industrial Internet (1.1%), Zijin Mining Group (3.8%), Zhongji Innolight (1.1%) and BYD (2.1%)."
+    },
+    {
+      "id": "5048921",
+      "time": "2026-08-20 10:06:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股醫藥股走強 維亞生物漲近13%】截至發稿，維亞生物(01873.HK)漲12.76%，金斯瑞生物科技(01548.HK)漲12.74%，康龍化成(03759.HK)漲8.27%。"
+    },
+    {
+      "id": "5048920",
+      "time": "2026-08-20 10:06:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本據悉考慮為散戶投資者提供日本國債投資的稅收優惠。"
+    },
+    {
+      "id": "5048919",
+      "time": "2026-08-20 10:06:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲5%，現報16406.00元。"
+    },
+    {
+      "id": "5048918",
+      "time": "2026-08-20 10:05:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹上市後，王興興首場公開演講談了具身智慧ChatGPT時刻】8月20日，在2026世界機器人大會上，宇樹科技創始人、董事長王興興進行“展品到產品：人形機器人產業的下一個十年”的主題演講。王興興表示，這些年公司其實一直在推動機器人真正走進生活，比如在汽車工廠進行落地應用、在自家工廠部署機器人進行簡單測試等，另外AI團隊也在推進機器人去家庭幹活。但他提到，由於目前整體效率、泛用效能力還是不夠高，宇樹並沒有進行大規模推廣。王興興希望，邁向具身智慧的ChatGPT時刻，理想情況下需要2-3年，或者更長5-10年的時間。他認為，達到這一時刻，即要在80%的陌生場景中，透過語音或文字指令，機器人能夠順利完成大約80%的任務。目前，最核心的挑戰是AI大模型的輸入輸出和真實機器人的對齊。（第一財經）"
+    },
+    {
+      "id": "5048917",
+      "time": "2026-08-20 10:05:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【當虹科技機器人多模態感知上裝件在2026世界機器人大會上釋出】從當虹科技(688039)獲悉，公司在2026世界機器人大會上正式釋出機器人多模態感知上裝件，該裝置可根據不同場景搭載雙光雲臺，整合聲光、通訊、算力等模組，同時支援氣體、溫溼度等外接感測器。在工業巡檢場景中，可識別儀表讀數，檢測溫度異常、氣體風險、裝置異響以及液體跑冒滴漏等問題，將更多現場資訊實時帶回，為後續AI識別和任務決策提供資料基礎。"
+    },
+    {
+      "id": "5048916",
+      "time": "2026-08-20 10:05:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子據悉將公佈100萬億韓元股東回報計劃。"
+    },
+    {
+      "id": "5048915",
+      "time": "2026-08-20 10:04:54",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊持續走強，山東黃金觸及漲停】貴金屬板塊持續走強，山東黃金觸及漲停，興業銀錫、赤峰黃金此前漲停，曉程科技漲超10%，招金黃金、中金黃金、湖南白銀、山金國際、四川黃金跟漲。"
+    },
+    {
+      "id": "5048914",
+      "time": "2026-08-20 10:04:46",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗、滙豐、渣打等據悉採用螞蟻國際的外匯人工智慧工具“Falcon時間序列變換器模型2.0”。"
+    },
     {
       "id": "5048913",
       "time": "2026-08-20 10:03:25",
