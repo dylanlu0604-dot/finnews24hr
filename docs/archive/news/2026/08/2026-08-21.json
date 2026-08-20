@@ -1,7 +1,89 @@
 {
   "date": "2026-08-21",
-  "count": 76,
+  "count": 85,
   "items": [
+    {
+      "id": "5050632",
+      "time": "2026-08-21 00:44:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國4月以來約1.4萬人死因關聯高溫】德國羅伯特·科赫研究所20日釋出的報告說，4月6日至8月9日，德國約有1.4萬人死於高溫相關原因，相當於每10萬人中就有17人因此身亡。報告說，比較往年，德國今年以來同高溫有關的死亡人數已明顯升高。2018年是過去10年間相關死亡人數最多的年份，約有9400人死於高溫相關原因；2019年次之，約為7600人。今年已經死亡的1.4萬案例中，85歲及以上人群佔比最大，達到7040人；75歲至84歲人群約3450人；65歲至74歲人群約2170人。羅伯特·科赫研究所說，上述資料為保守估計，實際死亡人數可能更多。雖然有高溫致死的情況，但大多數人死因為高溫和基礎疾病共同作用。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0200f-1145-7aab-90be-512387710e42",
+      "time": "2026-08-21 00:44:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar's defense ministry said Prime Minister and Foreign Minister al-Thani said Qatar will work with Gulf states, Egypt and Pakistan to push for a return to diplomacy between the US and Iran and stressed ensuring navigation security in the Strait of Hormuz and Bab al-Mandeb."
+    },
+    {
+      "id": "5050631",
+      "time": "2026-08-21 00:43:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "菲爾曼集團股份公司（FIELMANN GROUP AG）預計2026年調整後息稅折舊攤銷前利潤率（調整後EBITDA率）為22%-23%，此前預期為約23%。"
+    },
+    {
+      "id": "5050630",
+      "time": "2026-08-21 00:43:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "菲爾曼集團 - 預計2026年銷售增長率為2%-5%，此前預期為5%-7%。"
+    },
+    {
+      "id": "5050629",
+      "time": "2026-08-21 00:43:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "菲爾曼集團 - 下調2026年營收指引至25億至25.5億歐元。"
+    },
+    {
+      "id": "5050628",
+      "time": "2026-08-21 00:43:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "費森尤斯醫療ADR股價下跌，因費森尤斯拋售股票。"
+    },
+    {
+      "id": "mkt:01a0200d-d052-7aab-90be-495e96476ed7",
+      "time": "2026-08-21 00:42:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【US Treasury ups long-term buybacks to steady bond market; US mortgage rates fall for second week】The US Treasury said it will increase the size of long-term Treasury buybacks to help stabilize the bond market. Freddie Mac reported the average 30-year fixed mortgage rate fell to 6.65% from 6.67% a week earlier; a year ago it was 6.58%. Borrowing costs remain a concern for prospective buyers as elevated inflation risk tied to the ongoing Iran conflict persists. A Realtor.com senior economist said moves at the long end of the yield curve highlight market concern about inflation and the fiscal outlook, which could push mortgage rates higher in coming weeks."
+    },
+    {
+      "id": "5050627",
+      "time": "2026-08-21 00:41:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波蘭政府希望在2027年將大型公用事業公司和燃料公司的企業所得稅提高至30%。"
+    },
+    {
+      "id": "mkt:01a0200c-4c84-7aab-90be-47db20932994",
+      "time": "2026-08-21 00:41:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A draft law shows the Polish government plans to raise corporate income tax for large utilities and fuel companies to 30% in 2027, the Polish Press Agency reports."
+    },
     {
       "id": "5050626",
       "time": "2026-08-21 00:39:47",
