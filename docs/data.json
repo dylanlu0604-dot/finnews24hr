@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-21 02:59:41",
-  "count": 16107,
+  "updated": "2026-08-21 03:04:12",
+  "count": 16104,
   "items": [
+    {
+      "id": "mkt:01a0208c-f7c2-7aab-90c0-438e83138e71",
+      "time": "2026-08-21 03:01:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's statistics agency reported a July trade surplus of $2.115 billion, versus market expectations of $1.85 billion."
+    },
+    {
+      "id": "5050757",
+      "time": "2026-08-21 03:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷7月份貿易順差為21.15億美元；預計為18.67億美元。"
+    },
+    {
+      "id": "5050756",
+      "time": "2026-08-21 03:01:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通給予博通“增持”評級：市場仍低估其AI晶片領域的絕對領先優勢 】摩根大通（JPMorgan）認為，目前的市場低估了晶片製造商博通（Broadcom）的發展潛力。這家總部位於帕洛阿爾託（Palo Alto）的公司，預計其AI相關銷售額將實現180%的年度大幅增長。摩根大通認為，這主要得益於博通與Alphabet（谷歌母公司）之間穩固的產品合作關係。分析師哈蘭·瑟爾（Harlan Sur）在週三發給客戶的報告中指出：“我們認為，市場依然低估了博通所具備的顯著主導地位與領先優勢（領先優勢達18個月以上）、在晶片和封裝設計上的領導力、激進的新設計迭代節奏、龐大的智慧財產權（IP）組合，以及其出色的執行記錄。在過去12年裡，博通已協助谷歌將14款最先進的晶片設計成功推向市場。”"
+    },
+    {
+      "id": "5050754",
+      "time": "2026-08-21 03:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷6月經濟活動環比增長0.8%；此前預期增長0.3%。"
+    },
+    {
+      "id": "5050753",
+      "time": "2026-08-21 03:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷 6 月經濟活動同比增長 2.7%；預計+2.4%。"
+    },
+    {
+      "id": "5050752",
+      "time": "2026-08-21 03:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：7 月美國紅肉產量下降 1.6%。"
+    },
+    {
+      "id": "5050751",
+      "time": "2026-08-21 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.01%，報25698.70點，高水0.21點。"
+    },
     {
       "id": "mkt:01a0208a-44b4-7aab-90c0-3a2b56ef3ab3",
       "time": "2026-08-21 02:58:47",
@@ -147303,99 +147360,6 @@
         "國際"
       ],
       "text": "法院裁定，特朗普可終止低價商品的關稅豁免。"
-    },
-    {
-      "id": "5039985",
-      "time": "2026-08-14 03:03:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿根廷國家統計局：7月消費者價格指數環比上漲2.1%。阿根廷7月滾動12個月通脹率達33.8%。"
-    },
-    {
-      "id": "mkt:019ffc81-6a79-7aab-902c-9af7da5e9e47",
-      "time": "2026-08-14 03:02:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's national statistics bureau reported the 12-month rolling inflation rate for July at 33.8%."
-    },
-    {
-      "id": "mkt:019ffc81-62f1-7aab-902c-94ddcd20edea",
-      "time": "2026-08-14 03:02:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Argentina's national statistics bureau said the consumer price index rose 2.1% month-on-month in July."
-    },
-    {
-      "id": "mkt:019ffc80-5c9f-7aab-902c-8f05a6c7814f",
-      "time": "2026-08-14 03:01:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures closed the night session down 0.63% at 25,214, trading 183 points below the cash index."
-    },
-    {
-      "id": "5039984",
-      "time": "2026-08-14 03:00:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西Titans指數報22739.78點，下跌237.12點，跌幅1.03%。"
-    },
-    {
-      "id": "5039983",
-      "time": "2026-08-14 03:00:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷國家統計與普查局(INDEC)公佈，7月阿根廷12個月滾動通脹率為33.8%。"
-    },
-    {
-      "id": "5039982",
-      "time": "2026-08-14 03:00:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿根廷7月消費者價格環比上漲2.1%；此前預期為上漲2.00%。"
-    },
-    {
-      "id": "mkt:019ffc7f-1bb6-7aab-902c-8771288be103",
-      "time": "2026-08-14 03:00:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 close, SHFE main gold contract fell 1.24% to 948 yuan/gram, SHFE main silver contract fell 1.48% to 15,805 yuan/kg, and INE SC crude oil main contract rose 0.79% to 559 yuan/barrel."
-    },
-    {
-      "id": "5039981",
-      "time": "2026-08-14 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.63%，報25212.20點，低水184.31點。"
-    },
-    {
-      "id": "mkt:019ffc7e-b2a0-7aab-902c-7e9e3c30313a",
-      "time": "2026-08-14 02:59:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS reported a magnitude-5.3 earthquake with epicenter 11 km south of Sarangani, Philippines."
     }
   ]
 }
