@@ -1,7 +1,37 @@
 {
   "date": "2026-08-21",
-  "count": 257,
+  "count": 260,
   "items": [
+    {
+      "id": "5050742",
+      "time": "2026-08-21 02:45:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶93.78美元，上漲2.16美元，漲幅2.36%。"
+    },
+    {
+      "id": "mkt:01a0207d-9ec3-7aab-90c0-2d925ae36397",
+      "time": "2026-08-21 02:44:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $93.78/bbl, up $2.16 or 2.36%."
+    },
+    {
+      "id": "mkt:01a0207d-84b5-7aab-90c0-26d56b302f37",
+      "time": "2026-08-21 02:44:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Oman, Japan urge urgent international action to ensure freedom of navigation in Strait of Hormuz】Oman Foreign Minister Busaidi and Japan Foreign Minister Motegi said after meeting in Muscat that international efforts must be strengthened to ensure freedom of navigation through the Strait of Hormuz in accordance with international law. Busaidi said safe passage through Hormuz is integral to regional security and prosperity. Motegi praised Oman’s role in addressing the Hormuz shipping crisis and pledged closer coordination with Muscat to secure freedom and safety of navigation in the Strait of Hormuz and the Bab al‑Mandeb."
+    },
     {
       "id": "5050741",
       "time": "2026-08-21 02:42:39",
