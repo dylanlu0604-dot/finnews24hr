@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-21 03:35:16",
-  "count": 16096,
+  "updated": "2026-08-21 03:39:10",
+  "count": 16099,
   "items": [
+    {
+      "id": "te:economy:576955",
+      "time": "2026-08-21 03:37:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Argentina Trade Surplus Jumps in July — Argentina’s trade surplus widened to $2.11 billion in July 2026, up $1.21 billion from the same month of 2025. Exports totaled $8.85 billion, increasing 14.1% year-over-year, led by a 97.8% surge in energy and fuel exports, driven by higher shipments of crude oil, fuels, lubricants and other fuels. Manufactured industrial goods exports rose 11.2%, mainly due to higher exports of motor vehicles and transport equipment, while manufactured agricultural goods increased 4.9%, supported by higher meat exports. Imports totaled $6.74 billion, down 1.7% year-over-year. Intermediate goods posted the largest decline, falling 14.9%, while capital goods imports decreased 7.7% and consumer goods fell 7.3%. Imports of fuels and lubricants also declined 7.3%."
+    },
+    {
+      "id": "5050768",
+      "time": "2026-08-21 03:36:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價20日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.00美元，收於每桶87.83美元，漲幅為2.33%；10月交貨的倫敦布倫特原油期貨價格上漲2.16美元，收於每桶93.78美元，漲幅為2.36%。"
+    },
+    {
+      "id": "mkt:01a020ac-ecc9-7aab-90c0-83e80581ae0d",
+      "time": "2026-08-21 03:36:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices rose on the 20th】NYMEX September light crude futures settled up $2.00 at $87.83 a barrel, +2.33%. ICE Brent October futures settled up $2.16 at $93.78 a barrel, +2.36%."
+    },
     {
       "id": "mkt:01a020a6-5415-7aab-90c0-7b8e4c252520",
       "time": "2026-08-21 03:29:26",
