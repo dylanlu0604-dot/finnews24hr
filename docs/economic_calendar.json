@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-20 20:31:16",
+  "updated": "2026-08-20 20:35:18",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 432,
+  "count": 433,
   "history_summary": {
     "cached": 432,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 264,
+      "count": 265,
       "dates": [
         {
           "date": "2026-08-17",
@@ -8913,7 +8913,7 @@
         },
         {
           "date": "2026-08-20",
-          "count": 59,
+          "count": 60,
           "events": [
             {
               "id": "capital:1174694",
@@ -10842,7 +10842,7 @@
               "importance": 1,
               "previous": "20.7 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "18.1 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183499",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -10899,8 +10899,8 @@
               "title": "加拿大7月原材料價格指數月率",
               "importance": 1,
               "previous": "-6.9 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "-2 %",
+              "actual": "-2.2 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174724",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -10958,7 +10958,7 @@
               "importance": 1,
               "previous": "12.4 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "12.4 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183498",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11015,8 +11015,8 @@
               "title": "加拿大7月工業品物價指數月率",
               "importance": 1,
               "previous": "-1.4 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "-0.5 %",
+              "actual": "0.6 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174723",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -11062,6 +11062,64 @@
               "history_checked_at": "2026-08-09 00:08:28"
             },
             {
+              "id": "capital:1185453",
+              "fid": "1185453",
+              "interval": "this_week",
+              "date": "2026-08-20",
+              "time": "20:30",
+              "datetime": "2026-08-20 20:30:00",
+              "display_time": "08/20 20:30",
+              "country": "加拿大",
+              "title": "加拿大7月新屋價格指數月率",
+              "importance": 1,
+              "previous": "-0.1 %",
+              "forecast": "-- %",
+              "actual": "-0.1 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185453",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/24",
+                  "actual": "-0.1",
+                  "forecast": "-",
+                  "previous": "-0.3"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-0.3",
+                  "forecast": "-",
+                  "previous": "-0.4"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "-0.4",
+                  "forecast": "-",
+                  "previous": "-0.2"
+                },
+                {
+                  "date": "04/22",
+                  "actual": "-0.2",
+                  "forecast": "-",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "03/20",
+                  "actual": "0.3",
+                  "forecast": "-",
+                  "previous": "-0.4"
+                },
+                {
+                  "date": "02/19",
+                  "actual": "-0.4",
+                  "forecast": "-",
+                  "previous": "-0.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-20 20:35:17"
+            },
+            {
               "id": "capital:1182553",
               "fid": "1182553",
               "interval": "this_week",
@@ -11074,8 +11132,8 @@
               "importance": 1,
               "previous": "10",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "27.9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182553",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11131,9 +11189,9 @@
               "title": "美國8月費城聯儲製造業指數",
               "importance": 2,
               "previous": "41.4",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "25",
+              "actual": "47.4",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174727",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11190,8 +11248,8 @@
               "importance": 1,
               "previous": "37",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "30.1",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182556",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11248,8 +11306,8 @@
               "importance": 1,
               "previous": "53.9",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "40.9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182555",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11306,8 +11364,8 @@
               "importance": 1,
               "previous": "27.4",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "17.7",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182554",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11364,8 +11422,8 @@
               "importance": 1,
               "previous": "33.7",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "27.7",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182557",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11420,10 +11478,10 @@
               "country": "美國",
               "title": "美國至8月15日當週初請失業金人數(萬人)",
               "importance": 3,
-              "previous": "--",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "previous": "20.9",
+              "forecast": "21",
+              "actual": "20.6",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174725",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11478,10 +11536,10 @@
               "country": "美國",
               "title": "美國至8月15日當週初請失業金人數四周均值(萬人)",
               "importance": 1,
-              "previous": "--",
+              "previous": "19.9",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "20.4",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174726",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -11536,10 +11594,10 @@
               "country": "美國",
               "title": "美國至8月8日當週續請失業金人數(萬人)",
               "importance": 1,
-              "previous": "--",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "previous": "177.7",
+              "forecast": "179",
+              "actual": "179.9",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174728",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -35843,7 +35901,7 @@
       "importance": 1,
       "previous": "20.7 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "18.1 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183499",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -35900,8 +35958,8 @@
       "title": "加拿大7月原材料價格指數月率",
       "importance": 1,
       "previous": "-6.9 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "-2 %",
+      "actual": "-2.2 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174724",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -35959,7 +36017,7 @@
       "importance": 1,
       "previous": "12.4 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "12.4 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183498",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36016,8 +36074,8 @@
       "title": "加拿大7月工業品物價指數月率",
       "importance": 1,
       "previous": "-1.4 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "-0.5 %",
+      "actual": "0.6 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174723",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -36063,6 +36121,64 @@
       "history_checked_at": "2026-08-09 00:08:28"
     },
     {
+      "id": "capital:1185453",
+      "fid": "1185453",
+      "interval": "this_week",
+      "date": "2026-08-20",
+      "time": "20:30",
+      "datetime": "2026-08-20 20:30:00",
+      "display_time": "08/20 20:30",
+      "country": "加拿大",
+      "title": "加拿大7月新屋價格指數月率",
+      "importance": 1,
+      "previous": "-0.1 %",
+      "forecast": "-- %",
+      "actual": "-0.1 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185453",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/24",
+          "actual": "-0.1",
+          "forecast": "-",
+          "previous": "-0.3"
+        },
+        {
+          "date": "06/17",
+          "actual": "-0.3",
+          "forecast": "-",
+          "previous": "-0.4"
+        },
+        {
+          "date": "05/19",
+          "actual": "-0.4",
+          "forecast": "-",
+          "previous": "-0.2"
+        },
+        {
+          "date": "04/22",
+          "actual": "-0.2",
+          "forecast": "-",
+          "previous": "0.3"
+        },
+        {
+          "date": "03/20",
+          "actual": "0.3",
+          "forecast": "-",
+          "previous": "-0.4"
+        },
+        {
+          "date": "02/19",
+          "actual": "-0.4",
+          "forecast": "-",
+          "previous": "-0.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-20 20:35:17"
+    },
+    {
       "id": "capital:1182553",
       "fid": "1182553",
       "interval": "this_week",
@@ -36075,8 +36191,8 @@
       "importance": 1,
       "previous": "10",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "27.9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182553",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36132,9 +36248,9 @@
       "title": "美國8月費城聯儲製造業指數",
       "importance": 2,
       "previous": "41.4",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "25",
+      "actual": "47.4",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174727",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36191,8 +36307,8 @@
       "importance": 1,
       "previous": "37",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "30.1",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182556",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36249,8 +36365,8 @@
       "importance": 1,
       "previous": "53.9",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "40.9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182555",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36307,8 +36423,8 @@
       "importance": 1,
       "previous": "27.4",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "17.7",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182554",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36365,8 +36481,8 @@
       "importance": 1,
       "previous": "33.7",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "27.7",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182557",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36421,10 +36537,10 @@
       "country": "美國",
       "title": "美國至8月15日當週初請失業金人數(萬人)",
       "importance": 3,
-      "previous": "--",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "previous": "20.9",
+      "forecast": "21",
+      "actual": "20.6",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174725",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36479,10 +36595,10 @@
       "country": "美國",
       "title": "美國至8月15日當週初請失業金人數四周均值(萬人)",
       "importance": 1,
-      "previous": "--",
+      "previous": "19.9",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "20.4",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174726",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -36537,10 +36653,10 @@
       "country": "美國",
       "title": "美國至8月8日當週續請失業金人數(萬人)",
       "importance": 1,
-      "previous": "--",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "previous": "177.7",
+      "forecast": "179",
+      "actual": "179.9",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174728",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [

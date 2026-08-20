@@ -1,7 +1,218 @@
 {
   "date": "2026-08-20",
-  "count": 2712,
+  "count": 2735,
   "items": [
+    {
+      "id": "5050212",
+      "time": "2026-08-20 20:34:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴下高管表示，一季度人工智慧產品年化營收將接近100億美元。"
+    },
+    {
+      "id": "5050211",
+      "time": "2026-08-20 20:34:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：沃爾瑪超半數電商履約訂單量由自動化設施處理。"
+    },
+    {
+      "id": "5050210",
+      "time": "2026-08-20 20:34:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾瑪 CEO：目前沃爾瑪美國約3100家門店已採用自動化運營。"
+    },
+    {
+      "id": "mkt:01a01f2a-27f2-7aab-90b6-ff9cecfe672d",
+      "time": "2026-08-20 20:34:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Daly said she does not believe the Federal Reserve's credibility is at risk."
+    },
+    {
+      "id": "5050209",
+      "time": "2026-08-20 20:34:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：我認為美聯儲的信譽並未面臨風險。"
+    },
+    {
+      "id": "mkt:01a01f2a-111d-7aab-90b6-f64a8129272b",
+      "time": "2026-08-20 20:34:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "DALY: Rising long-term yields are a global issue that weakens their signalling value for Fed policy."
+    },
+    {
+      "id": "5050208",
+      "time": "2026-08-20 20:33:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：長期收益率上行是全球性問題，削弱了美聯儲的加息訊號。"
+    },
+    {
+      "id": "5050207",
+      "time": "2026-08-20 20:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國氣候預測中心（CPC）氣象預報機構：厄爾尼諾正在增強，今秋和今冬出現極強厄爾尼諾事件的機率超過90%。"
+    },
+    {
+      "id": "5050206",
+      "time": "2026-08-20 20:33:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利表示，債券收益率上行並不構成政策調整訊號。"
+    },
+    {
+      "id": "mkt:01a01f29-4298-7aab-90b6-eff3b6a943b5",
+      "time": "2026-08-20 20:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Grains Council (IGC) cut its 2026/27 global wheat production forecast by 4 mln tonnes to 817 mln tonnes."
+    },
+    {
+      "id": "5050205",
+      "time": "2026-08-20 20:33:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際穀物理事會將2026/27年度全球小麥產量預測下調400萬噸，至8.17億噸。"
+    },
+    {
+      "id": "mkt:01a01f28-509b-7aab-90b6-e68d6808bcbd",
+      "time": "2026-08-20 20:32:10",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) launches Micron Research Labs."
+    },
+    {
+      "id": "5050204",
+      "time": "2026-08-20 20:32:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪首席財務官：今年公司將面臨更大的燃料成本壓力。"
+    },
+    {
+      "id": "5050203",
+      "time": "2026-08-20 20:31:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "Amentum 贏得美國國家航空航天局蘭利研究中心價值 9.74 億美元的維護服務合同。"
+    },
+    {
+      "id": "5050202",
+      "time": "2026-08-20 20:31:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達意隆：2026年上半年淨利潤1.19億元，同比增長31.24%】達意隆公告，2026年上半年營業收入11.2億元，同比增長17.01%；歸屬於上市公司股東的淨利潤1.19億元，同比增長31.24%；扣非淨利潤1.03億元，同比增長15.55%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050201",
+      "time": "2026-08-20 20:31:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）CEO：永續期貨並不適配交易所的客戶需求。"
+    },
+    {
+      "id": "5050200",
+      "time": "2026-08-20 20:31:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光研究實驗室將聚焦人工智慧時代的記憶體計算。"
+    },
+    {
+      "id": "5050199",
+      "time": "2026-08-20 20:31:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）CEO：並非一定在考慮推出永續期貨。"
+    },
+    {
+      "id": "5050198",
+      "time": "2026-08-20 20:31:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協創資料：公司沒有自研通用大模型的規劃】協創資料8月20日在互動平臺表示，公司沒有自研通用大模型的規劃。公司將依託算力與平臺能力，服務大模型開發者及行業客戶，實現業務價值。"
+    },
+    {
+      "id": "mkt:01a01f27-1688-7aab-90b6-dc669b150d4b",
+      "time": "2026-08-20 20:30:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Philadelphia Fed manufacturing shipments index 27.7 in August, down from 33.7 in July."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608203848022834",
+      "time": "2026-08-20 20:30:49",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週初請失業金人數為20.6萬人，預估21萬人，前值20.9萬人。"
+    },
+    {
+      "id": "mkt:01a01f26-fc1c-7aab-90b6-d2e47b4eb05d",
+      "time": "2026-08-20 20:30:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US Philadelphia Fed manufacturing prices paid index Aug 17.7, prior 27.4."
+    },
+    {
+      "id": "5050197",
+      "time": "2026-08-20 20:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技推出美光研究實驗室。"
+    },
     {
       "id": "mkt:01a01f26-eb38-7aab-90b6-cce0b7a9898e",
       "time": "2026-08-20 20:30:39",

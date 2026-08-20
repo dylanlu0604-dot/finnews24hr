@@ -1,7 +1,218 @@
 {
-  "updated": "2026-08-20 20:31:11",
-  "count": 15963,
+  "updated": "2026-08-20 20:35:10",
+  "count": 15965,
   "items": [
+    {
+      "id": "5050212",
+      "time": "2026-08-20 20:34:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴下高管表示，一季度人工智慧產品年化營收將接近100億美元。"
+    },
+    {
+      "id": "5050211",
+      "time": "2026-08-20 20:34:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪 CEO：沃爾瑪超半數電商履約訂單量由自動化設施處理。"
+    },
+    {
+      "id": "5050210",
+      "time": "2026-08-20 20:34:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾瑪 CEO：目前沃爾瑪美國約3100家門店已採用自動化運營。"
+    },
+    {
+      "id": "mkt:01a01f2a-27f2-7aab-90b6-ff9cecfe672d",
+      "time": "2026-08-20 20:34:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Daly said she does not believe the Federal Reserve's credibility is at risk."
+    },
+    {
+      "id": "5050209",
+      "time": "2026-08-20 20:34:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：我認為美聯儲的信譽並未面臨風險。"
+    },
+    {
+      "id": "mkt:01a01f2a-111d-7aab-90b6-f64a8129272b",
+      "time": "2026-08-20 20:34:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "DALY: Rising long-term yields are a global issue that weakens their signalling value for Fed policy."
+    },
+    {
+      "id": "5050208",
+      "time": "2026-08-20 20:33:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：長期收益率上行是全球性問題，削弱了美聯儲的加息訊號。"
+    },
+    {
+      "id": "5050207",
+      "time": "2026-08-20 20:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國氣候預測中心（CPC）氣象預報機構：厄爾尼諾正在增強，今秋和今冬出現極強厄爾尼諾事件的機率超過90%。"
+    },
+    {
+      "id": "5050206",
+      "time": "2026-08-20 20:33:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利表示，債券收益率上行並不構成政策調整訊號。"
+    },
+    {
+      "id": "mkt:01a01f29-4298-7aab-90b6-eff3b6a943b5",
+      "time": "2026-08-20 20:33:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Grains Council (IGC) cut its 2026/27 global wheat production forecast by 4 mln tonnes to 817 mln tonnes."
+    },
+    {
+      "id": "5050205",
+      "time": "2026-08-20 20:33:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際穀物理事會將2026/27年度全球小麥產量預測下調400萬噸，至8.17億噸。"
+    },
+    {
+      "id": "mkt:01a01f28-509b-7aab-90b6-e68d6808bcbd",
+      "time": "2026-08-20 20:32:10",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O) launches Micron Research Labs."
+    },
+    {
+      "id": "5050204",
+      "time": "2026-08-20 20:32:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾瑪首席財務官：今年公司將面臨更大的燃料成本壓力。"
+    },
+    {
+      "id": "5050203",
+      "time": "2026-08-20 20:31:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "Amentum 贏得美國國家航空航天局蘭利研究中心價值 9.74 億美元的維護服務合同。"
+    },
+    {
+      "id": "5050202",
+      "time": "2026-08-20 20:31:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達意隆：2026年上半年淨利潤1.19億元，同比增長31.24%】達意隆公告，2026年上半年營業收入11.2億元，同比增長17.01%；歸屬於上市公司股東的淨利潤1.19億元，同比增長31.24%；扣非淨利潤1.03億元，同比增長15.55%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5050201",
+      "time": "2026-08-20 20:31:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）CEO：永續期貨並不適配交易所的客戶需求。"
+    },
+    {
+      "id": "5050200",
+      "time": "2026-08-20 20:31:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光研究實驗室將聚焦人工智慧時代的記憶體計算。"
+    },
+    {
+      "id": "5050199",
+      "time": "2026-08-20 20:31:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）CEO：並非一定在考慮推出永續期貨。"
+    },
+    {
+      "id": "5050198",
+      "time": "2026-08-20 20:31:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協創資料：公司沒有自研通用大模型的規劃】協創資料8月20日在互動平臺表示，公司沒有自研通用大模型的規劃。公司將依託算力與平臺能力，服務大模型開發者及行業客戶，實現業務價值。"
+    },
+    {
+      "id": "mkt:01a01f27-1688-7aab-90b6-dc669b150d4b",
+      "time": "2026-08-20 20:30:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Philadelphia Fed manufacturing shipments index 27.7 in August, down from 33.7 in July."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608203848022834",
+      "time": "2026-08-20 20:30:49",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週初請失業金人數為20.6萬人，預估21萬人，前值20.9萬人。"
+    },
+    {
+      "id": "5050197",
+      "time": "2026-08-20 20:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技推出美光研究實驗室。"
+    },
+    {
+      "id": "mkt:01a01f26-fc1c-7aab-90b6-d2e47b4eb05d",
+      "time": "2026-08-20 20:30:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US Philadelphia Fed manufacturing prices paid index Aug 17.7, prior 27.4."
+    },
     {
       "id": "mkt:01a01f26-eb38-7aab-90b6-cce0b7a9898e",
       "time": "2026-08-20 20:30:39",
@@ -145850,223 +146061,6 @@
         "Impact bearish"
       ],
       "text": "【US July PPI: energy prices down 3.1% MoM; gasoline plunges 5.7%】US Bureau of Labor Statistics: July final-demand PPI unchanged MoM (0.0%) vs 0.2% est; June revised to -0.1%. YoY +4.7%, smallest since March and below 4.9% est. Core PPI MoM +0.2% (in line); YoY +4.2%. Final-demand goods MoM -0.7%, led by energy -3.1%. Gasoline -5.7% MoM, diesel -6.7%, jet fuel -15.2%. Final-demand services MoM +0.2%; portfolio management services jumped 6.5% MoM."
-    },
-    {
-      "id": "mkt:019ffb1e-3e3e-7aab-9024-eff3bb97e6ad",
-      "time": "2026-08-13 20:34:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "【US July PPI: intermediate-demand inf shows transmission; processed goods YoY +9.9%】US July PPI subcomponents show persistent upstream inf pressures in intermediate demand, though MoM cooling. Processed-goods intermediate demand -0.6% MoM, +9.9% YoY; processed energy -3.1% MoM; processed food & feed -0.5% MoM. Unprocessed-goods intermediate demand -1.8% MoM, +7.1% YoY, largely due to a 11.9% MoM plunge in crude oil. Intermediate services demand +0.5% MoM, +5.1% YoY. By production stage, stage-4 intermediate demand +0.6% MoM (prior 0.3%); stage-1 and stage-3 each -0.1% MoM. Elevated YoY gains in intermediate demand indicate upstream cost pressure remains high and may gradually transmit to consumer prices."
-    },
-    {
-      "id": "5039519",
-      "time": "2026-08-13 20:34:20",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "美國短期利率期貨在經濟資料公佈後小幅上漲。美國國債兩年期收益率在PPI資料公佈後小幅延續跌勢，最新下跌2.3個基點，報4.176%。"
-    },
-    {
-      "id": "5039518",
-      "time": "2026-08-13 20:34:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯改組內閣。"
-    },
-    {
-      "id": "mkt:019ffb1d-8295-7aab-9024-e37d0a28d0b4",
-      "time": "2026-08-13 20:34:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US two-year Treasury yield fell 2.3 bps to 4.176%."
-    },
-    {
-      "id": "5039517",
-      "time": "2026-08-13 20:33:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊下跌0.04%，報1.3490美元；歐元上漲0.02%，報1.1527美元。"
-    },
-    {
-      "id": "5039516",
-      "time": "2026-08-13 20:33:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元在資料公佈後震盪盤整，收回早前跌幅，美元兌日元最新下跌0.03%，報159.36。"
-    },
-    {
-      "id": "mkt:019ffb1c-e489-7aab-9024-d948222f9270",
-      "time": "2026-08-13 20:33:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 10-year Treasury yield fell 1.4 bps to 4.676%."
-    },
-    {
-      "id": "5039515",
-      "time": "2026-08-13 20:33:01",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "美國 PPI 資料出爐後現貨黃金變動有限，最新下跌 0.5%，報每盎司 4382.22 美元。"
-    },
-    {
-      "id": "5039514",
-      "time": "2026-08-13 20:32:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率在生產者物價資料公佈後小幅縮減跌幅；10年期國債收益率最新下跌1.4個基點，報4.676%。"
-    },
-    {
-      "id": "mkt:019ffb1c-8c4a-7aab-9024-d148d1b45212",
-      "time": "2026-08-13 20:32:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasuries held gains."
-    },
-    {
-      "id": "te:economy:575092",
-      "time": "2026-08-13 20:32:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Producer Price Inflation MoM",
-        "Importance 3"
-      ],
-      "text": "US Producer Prices Flat in July — US producer prices were unchanged in July from June 2026, following a revised 0.1% decrease in the previous period and below forecasts of a 0.2% gain. A 0.2% rise in services and a 2.2% increase in construction prices offset by a 0.7% decline in goods. Services prices rose at a slower pace than in June (0.2% vs 0.5%), while portfolio management costs jumped 6.5%, contributing significantly to the increase. By contrast, transportation and warehousing services fell 1.8%. Goods prices declined for a second consecutive month (-0.7% vs -1.4%), largely due to a 3.1% drop in energy prices, including a 5.7% plunge in gasoline prices. Food prices also fell 0.9% (vs -0.5%), while prices for goods excluding food and energy edged up 0.1% (vs 0.2%). Year-on-year, producer prices increased 4.7%, well below 5.5% in June and forecasts of 4.9%. Meanwhile, core producer prices rose 0.2%, below forecasts of 0.3% and the annual core rate came in at 4.2%, in line with expectations."
-    },
-    {
-      "id": "5039513",
-      "time": "2026-08-13 20:32:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債價格維持漲勢。"
-    },
-    {
-      "id": "5039512",
-      "time": "2026-08-13 20:32:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌3%，現報1332.50美元/盎司。"
-    },
-    {
-      "id": "mkt:019ffb1c-1ea2-7aab-9024-ca1c2a3fe4c0",
-      "time": "2026-08-13 20:32:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. equity index futures were little changed after the release of economic data."
-    },
-    {
-      "id": "5039511",
-      "time": "2026-08-13 20:32:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股指期貨在經濟資料公佈後變動極小。"
-    },
-    {
-      "id": "5039510",
-      "time": "2026-08-13 20:32:21",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨漲0.25%，標普500指數期貨漲0.11%，納指期貨跌0.06%。\n②德國DAX指數漲0.42%，英國富時100指數跌0.33%，法國CAC40指數漲0.09%，歐洲斯托克50指數漲0.44%。\n③WTI原油跌2.16%，報81.45美元/桶。布倫特原油跌1.90%，報87.28美元/桶。\n④伊朗武裝部隊哈塔姆安比亞中央總部發言人說，未經伊朗許可，任何船隻都無法安全透過霍爾木茲海峽。\n⑤俄羅斯副外長里亞布科夫表示，俄方不瞭解烏克蘭總統澤連斯基關於結束俄烏衝突的提議。\n⑥花旗策略師上調了標普500成分股全年盈利預期，並表示，人工智慧資本開支企業的營收趨勢“應有助於為指數中受AI影響的部分提供支撐”。\n⑦IBM股價盤前上漲1.6%，此前該公司宣佈與OpenAI建立合作關係。\n⑧戴爾科技美股盤前漲超5%，現報508.87美元。\n⑨京東美股盤前跌幅擴大至逾3%，此前京東公佈最新季度財報。"
-    },
-    {
-      "id": "5039509",
-      "time": "2026-08-13 20:32:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，沃爾沃卡車北美公司將召回 1851 輛美國車輛。"
-    },
-    {
-      "id": "5039508",
-      "time": "2026-08-13 20:32:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，豐田汽車公司將在美國召回 407 輛汽車。"
-    },
-    {
-      "id": "5039507",
-      "time": "2026-08-13 20:32:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方：未經許可任何船隻無法安全透過霍爾木茲海峽】據伊朗方面13日訊息，伊朗武裝部隊哈塔姆安比亞中央總部發言人說，未經伊朗許可，任何船隻都無法安全透過霍爾木茲海峽。（央視新聞）"
-    },
-    {
-      "id": "5039506",
-      "time": "2026-08-13 20:31:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度儲備銀行：2019‑20年度印度主權黃金債券贖回價格為每單位15310印度盧比。"
-    },
-    {
-      "id": "mkt:019ffb1a-ff35-7aab-9024-c1e59f7b2a07",
-      "time": "2026-08-13 20:31:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. July PPI rose 4.7% YoY, the weakest reading since March and below the 4.9% consensus."
     }
   ]
 }
