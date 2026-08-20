@@ -1,7 +1,31 @@
 {
   "date": "2026-08-21",
-  "count": 304,
+  "count": 307,
   "items": [
+    {
+      "id": "5050774",
+      "time": "2026-08-21 03:48:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.06%，在匯市尾市收於98.894。截至紐約匯市尾市，1歐元兌換1.1676美元，高於前一交易日的1.1674美元；1英鎊兌換1.3628美元，高於前一交易日的1.3607美元。1美元兌換159.14日元，高於前一交易日的158.32日元；1美元兌換0.8007瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3790加元，低於前一交易日的1.3810加元；1美元兌換9.4908瑞典克朗，高於前一交易日的9.4386瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a020b7-cd36-7aab-90c0-a0d3bd57dcd6",
+      "time": "2026-08-21 03:48:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Source says US carrier Abraham Lincoln begins return】An informed source said on Aug. 20 the nuclear-powered US carrier Abraham Lincoln has begun returning. The USS George Washington has already arrived in the Middle East to relieve Lincoln’s extended deployment. A US official said Lincoln remains in the US Navy Fifth Fleet operating area and has not yet left the CENTCOM area of responsibility. Lincoln was sent to the Middle East in January for operations against Iran and maritime interdiction and has been deployed for more than 250 days; recent reports cite crew living-condition and mental-health strains from the high operational tempo and prolonged deployment."
+    },
+    {
+      "id": "5050773",
+      "time": "2026-08-21 03:48:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士稱美國“林肯”號航母開始返航】當地時間8月20日，據一名知情人士透露，美國海軍“亞伯拉罕·林肯”號核動力航空母艦已開始返航。此前，“喬治·華盛頓”號航母已抵達中東，以緩解“林肯”號長期部署帶來的壓力。不過，一名美國官員表示，“林肯”號目前仍處於美國海軍第五艦隊行動區，意味著其尚未離開美軍中央司令部責任區。“林肯”號航母於今年1月被調往中東，參加美軍對伊朗的軍事行動以及美軍對伊朗的海上封鎖，已部署超過250天。近期“林肯”號被曝出航母上的水兵由於高強度的作戰節奏和長期部署，存在生活條件和心理健康問題。（央視新聞）"
+    },
     {
       "id": "te:economy:576956",
       "time": "2026-08-21 03:46:20",
