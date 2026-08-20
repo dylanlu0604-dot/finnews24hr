@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-21 04:21:48",
-  "count": 16101,
+  "updated": "2026-08-21 04:25:39",
+  "count": 16106,
   "items": [
+    {
+      "id": "mkt:01a020d9-5078-7aab-90c1-33190204d6cf",
+      "time": "2026-08-21 04:25:07",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "【US approves up to $4.5 bln KC-46A tanker sale to Qatar】The US State Department said on the 20th it has approved a proposed foreign military sale to Qatar of up to four KC-46A aerial refueling tankers and associated equipment and services, valued at up to $4.5 bln. Qatar’s request includes engines, radar-warning receivers, infrared countermeasures and related support services. The State Department said the sale would strengthen the security of a US strategic regional partner, support US foreign policy and national security objectives, improve Qatar’s defence and interoperability with US and allied forces, and bolster its regional strategic role. The KC-46A, built by Boeing on a 767 airframe, is the US Air Force’s latest tanker; first delivery occurred in Jan 2019. Boeing describes the platform as providing refueling plus multi-mission combat capabilities and data transmission functions."
+    },
+    {
+      "id": "mkt:01a020d8-6d26-7aab-90c1-297d48ed3d3a",
+      "time": "2026-08-21 04:24:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority to closely monitor weather, watershed inflows and lake levels."
+    },
+    {
+      "id": "mkt:01a020d8-4f81-7aab-90c1-22debf4e2b33",
+      "time": "2026-08-21 04:24:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Panama Canal: planned reduction in maximum allowable draft to 14.48 metres (47.5 ft, tropical fresh water) originally due to take effect on Sept. 3, 2026, has been delayed and will now be effective Oct. 1, 2026."
+    },
+    {
+      "id": "mkt:01a020d8-20d0-7aab-90c1-1e189a8b1cd1",
+      "time": "2026-08-21 04:23:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal said the planned Sept. 2, 2026 adjustment to the New Panamax locks' maximum permitted draft to 14.63 m (48.0 ft TFW) has been postponed due to weather and water-resource conditions."
+    },
+    {
+      "id": "mkt:01a020d7-2784-7aab-90c1-121fb6b85cf4",
+      "time": "2026-08-21 04:22:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal will suspend offering conditional reservation windows for new Panamax vessels because available transit slots in the second booking period have been reduced."
+    },
+    {
+      "id": "5050791",
+      "time": "2026-08-21 04:22:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國決定批准對卡達45億美元軍售】美國國務院20日宣佈，已決定批准一項或向卡達出售空中加油機及相關裝置的軍售計劃，預計總價值高達45億美元。美國務院在一份宣告中表示，卡達提出購買最多4架KC-46A空中加油機，以及發動機、雷達告警接收機和紅外對抗系統等相關配件和服務。宣告稱，此項軍售將有助於提升“美國戰略區域夥伴”的安全能力，從而支援美國的外交政策和國家安全目標；也將增強卡達的防禦能力及其與美軍及盟軍的協同作戰能力，並鞏固卡達在區域安全中的戰略作用。（新華社）"
+    },
+    {
+      "id": "5050790",
+      "time": "2026-08-21 04:22:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河：原定於 2026 年 9 月 3 日生效的 14.48 米（47.5 英尺）TFW 最大允許吃水調整，將推遲至 2026 年 10 月 1 日執行。"
+    },
+    {
+      "id": "5050789",
+      "time": "2026-08-21 04:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河：將新巴拿馬船閘最大允許吃水 14.63 米（48.0 英尺）TFW 的實施時間推遲至 2026 年 9 月 2 日。"
+    },
     {
       "id": "5050788",
       "time": "2026-08-21 04:20:58",
@@ -147325,36 +147396,6 @@
         "其他"
       ],
       "text": "法拉第未來目標到 2026 年底累計交付超 2000 臺 EAI 機器人裝置，並計劃在未來三至四個季度內將總負債控制在 1 億美元以下。"
-    },
-    {
-      "id": "te:markets:575184",
-      "time": "2026-08-14 04:25:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Extends Record Streak — The S&P/TSX Composite Index added 0.3% to close at 36,759, extending its record-breaking streak amid lower oil prices and soft US producer inflation. Oil prices fell on weakening demand prospects. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. RBC added 0.6% and CIBC gained 1.1%. Tech stocks posted gains, tracking a strong session for US chipmakers and hyperscalers. Shopify advanced 5.3%, Constellation Software gained 2.8%, and Celestica added 2.6%. Brookfield (+0.7%) reported higher second-quarter distributable earnings per share. CCL jumped 6.9% after posting 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver slumped 9.8% after posting EPS below expectations. Hydro One shed 0.5% despite beating quarterly estimates. Metro lost 0.5% after reporting weaker fiscal third-quarter adjusted earnings."
-    },
-    {
-      "id": "mkt:019ffcca-14f2-7aab-902d-773edf9b4efd",
-      "time": "2026-08-14 04:22:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance said regarding Iran that oil prices will return to stability once the Strait of Hormuz conflict ends."
-    },
-    {
-      "id": "mkt:019ffcca-00cf-7aab-902d-6c2302d6a426",
-      "time": "2026-08-14 04:22:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Vice President Vance said the United States has many tools available for policy toward Iran."
     }
   ]
 }
