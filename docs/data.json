@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-20 08:46:39",
-  "count": 15631,
+  "updated": "2026-08-20 08:50:31",
+  "count": 15627,
   "items": [
+    {
+      "id": "mkt:01a01ca2-cd43-7aab-90a4-92b4ae0ef1f4",
+      "time": "2026-08-20 08:47:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【Margin financing across Shanghai and Shenzhen down 29.67 bln yuan】As of Aug 19, Shanghai Stock Exchange margin financing stood at 1,353.66 bln yuan, down 13.61 bln from the prior trading day; Shenzhen stood at 1,279.19 bln yuan, down 16.06 bln; combined balance 2,632.85 bln yuan, down 29.67 bln."
+    },
+    {
+      "id": "5048775",
+      "time": "2026-08-20 08:46:51",
+      "tags": [
+        "其他",
+        "焦點",
+        "A股"
+      ],
+      "text": "【兩市融資餘額較上日減少296.69億元】截至8月19日，上交所融資餘額報13536.56億元，較前一交易日減少136.11億元；深交所融資餘額報12791.91億元，較前一交易日減少160.58億元；兩市合計26328.47億元，較前一交易日減少296.69億元。"
+    },
+    {
+      "id": "5048774",
+      "time": "2026-08-20 08:46:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澄天偉業：公司液冷散熱業務生產基地位於廣東惠州，已啟動了第二期擴產計劃】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務生產基地位於廣東惠州，目前完成了第一期的產能建設。為應對市場需求增長和客戶的產能規劃指引，公司已啟動了第二期擴產計劃，包括廠房裝修、電力擴容以及關鍵裝置的預定等。一期與二期產能全部建成後，將能有效滿足核心客戶的階段性交付需求。後續公司將根據市場情況和客戶訂單的進一步明確，審慎規劃後續產能擴張，整體產能建設與客戶放量節奏保持匹配。"
+    },
     {
       "id": "te:markets:576645",
       "time": "2026-08-20 08:45:57",
@@ -143267,72 +143299,6 @@
         "其他"
       ],
       "text": "澳大利亞儲備銀行肯特：需觀測數年的截尾均值資料，或許三年時間。"
-    },
-    {
-      "id": "mkt:019ff899-1f95-7aab-9015-8a357661f75d",
-      "time": "2026-08-13 08:50:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump's Thursday schedule (Beijing time)】Beijing time: Aug 13, 20:00 — administrative duties at the White House; Aug 13, 23:00 — intelligence briefing at the White House; Aug 14, 02:00 and 03:00 — signing ceremonies in the Oval Office; Aug 14, 05:00 — policy meeting in the Oval Office."
-    },
-    {
-      "id": "5038331",
-      "time": "2026-08-13 08:49:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行肯特：需關注截均值通脹的歷史走勢，因此應聚焦月度消費者物價指數報告而非季度報告。"
-    },
-    {
-      "id": "te:markets:574861",
-      "time": "2026-08-13 08:48:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Gain on Soft US CPI — The Nikkei 225 Index rose 1.1% to above 68,000 while the broader Topix Index climbed 1% to 4,180 on Thursday, with the latter hitting fresh record highs as subdued US inflation data eased pressure on the Federal Reserve to raise interest rates in the near term. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Technology and artificial intelligence-related stocks led the advance, with strong gains for Kioxia Holdings (6.2%), Taiyo Yuden (8.6%), Advantest (5.3%), Ibiden Co (7.3%) and Murata Manufacturing (7.4%). Bank stocks also performed well, including Mitsubishi UFJ (1.6%) and Mizuho Financial (1.7%)."
-    },
-    {
-      "id": "5038330",
-      "time": "2026-08-13 08:48:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金鷹國際物業與海康威視簽署戰略合作協議】據海康威視訊息，近日，南京金鷹國際物業與海康威視簽署戰略合作協議，並宣佈成立“AI視覺空間聯合實驗室”。新成立的AI視覺空間聯合實驗室以“視覺AI空間感知”為核心能力，旨在提升商業空間運營效率、最佳化顧客服務體驗，打造更安全、更高效、更人性化的智慧服務生態。"
-    },
-    {
-      "id": "5038329",
-      "time": "2026-08-13 08:47:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額增加93.88億元】截至8月12日，上交所融資餘額報13552.37億元，較前一交易日增加48.13億元；深交所融資餘額報12837.43億元，較前一交易日增加45.75億元；兩市合計26389.8億元，較前一交易日增加93.88億元。"
-    },
-    {
-      "id": "5038328",
-      "time": "2026-08-13 08:47:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月13日08時35分在克什米爾（北緯36.82度，東經74.45度）發生4.8級地震，震源深度10千米。"
-    },
-    {
-      "id": "mkt:019ff896-6c7e-7aab-9015-8387a8b8f246",
-      "time": "2026-08-13 08:47:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China margin financing balances rise CNY9.388 bln】As of Aug 12, margin financing on the Shanghai Stock Exchange was CNY1.355237 trillion, up CNY4.813 billion from the prior trading day; Shenzhen was CNY1.283743 trillion, up CNY4.575 billion. Combined balances rose CNY9.388 billion to CNY2.63898 trillion."
     }
   ]
 }
