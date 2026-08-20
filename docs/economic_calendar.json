@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-21 05:26:42",
+  "updated": "2026-08-21 05:30:35",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 433,
+  "count": 434,
   "history_summary": {
     "cached": 433,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 265,
+      "count": 266,
       "dates": [
         {
           "date": "2026-08-17",
@@ -12399,8 +12399,66 @@
         },
         {
           "date": "2026-08-21",
-          "count": 47,
+          "count": 48,
           "events": [
+            {
+              "id": "capital:1185230",
+              "fid": "1185230",
+              "interval": "this_week",
+              "date": "2026-08-21",
+              "time": "04:30",
+              "datetime": "2026-08-21 04:30:00",
+              "display_time": "08/21 04:30",
+              "country": "美國",
+              "title": "美國至8月14日當週外國央行持有美國國債(億美元)",
+              "importance": 1,
+              "previous": "-342.57",
+              "forecast": "--",
+              "actual": "-106.71",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185230",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/14",
+                  "actual": "-342.57",
+                  "forecast": "-",
+                  "previous": "-255.34"
+                },
+                {
+                  "date": "08/07",
+                  "actual": "-255.34",
+                  "forecast": "-",
+                  "previous": "339.02"
+                },
+                {
+                  "date": "07/31",
+                  "actual": "339.02",
+                  "forecast": "-",
+                  "previous": "248.14"
+                },
+                {
+                  "date": "07/24",
+                  "actual": "248.14",
+                  "forecast": "-",
+                  "previous": "6.39"
+                },
+                {
+                  "date": "07/17",
+                  "actual": "6.39",
+                  "forecast": "-",
+                  "previous": "-286.05"
+                },
+                {
+                  "date": "07/10",
+                  "actual": "-286.05",
+                  "forecast": "-",
+                  "previous": "-110.64"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-21 05:30:34"
+            },
             {
               "id": "capital:1174736",
               "fid": "1174736",
@@ -12414,7 +12472,7 @@
               "importance": 1,
               "previous": "8.6 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "7.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174736",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -12472,7 +12530,7 @@
               "importance": 1,
               "previous": "0 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "-0.4 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182561",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -37455,6 +37513,64 @@
       "history_checked_at": "2026-08-09 00:08:28"
     },
     {
+      "id": "capital:1185230",
+      "fid": "1185230",
+      "interval": "this_week",
+      "date": "2026-08-21",
+      "time": "04:30",
+      "datetime": "2026-08-21 04:30:00",
+      "display_time": "08/21 04:30",
+      "country": "美國",
+      "title": "美國至8月14日當週外國央行持有美國國債(億美元)",
+      "importance": 1,
+      "previous": "-342.57",
+      "forecast": "--",
+      "actual": "-106.71",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185230",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/14",
+          "actual": "-342.57",
+          "forecast": "-",
+          "previous": "-255.34"
+        },
+        {
+          "date": "08/07",
+          "actual": "-255.34",
+          "forecast": "-",
+          "previous": "339.02"
+        },
+        {
+          "date": "07/31",
+          "actual": "339.02",
+          "forecast": "-",
+          "previous": "248.14"
+        },
+        {
+          "date": "07/24",
+          "actual": "248.14",
+          "forecast": "-",
+          "previous": "6.39"
+        },
+        {
+          "date": "07/17",
+          "actual": "6.39",
+          "forecast": "-",
+          "previous": "-286.05"
+        },
+        {
+          "date": "07/10",
+          "actual": "-286.05",
+          "forecast": "-",
+          "previous": "-110.64"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-21 05:30:34"
+    },
+    {
       "id": "capital:1174736",
       "fid": "1174736",
       "interval": "this_week",
@@ -37467,7 +37583,7 @@
       "importance": 1,
       "previous": "8.6 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "7.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174736",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -37525,7 +37641,7 @@
       "importance": 1,
       "previous": "0 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "-0.4 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1182561",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
