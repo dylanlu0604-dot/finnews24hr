@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-20 18:43:20_
-_本檔包含 3352 則快訊，約 634339 字_
+_更新時間：2026-08-20 19:00:48_
+_本檔包含 3351 則快訊，約 635512 字_
+
+---
+
+### 2026-08-14 21:01:48  #公司
+
+【廣州南粵城市發展投資基金被監管採取責令改正措施】8月14日，廣東證監局披露，經查，廣州南粵城市發展投資基金管理有限公司在開展私募投資基金管理業務過程中，存在以下違規行為：一是管理廣州南科淮江產業投資基金合夥企業（有限合夥）過程中未謹慎勤勉履行私募基金管理人責任，存在資金募集、投資運作等工作由第三方機構負責的情形；二是管理的廣州南粵晨星股權投資基金合夥企業（有限合夥）募集完畢後，未向中國證券投資基金業協會辦理基金備案手續；三是法定代表人發生變更後未及時向中基協報告；四是未妥善儲存2只私募基金的投資者適當性材料。廣東證監局決定，對該公司採取責令改正的行政監管措施，並要求該公司應高度重視，採取切實有效的措施，對存在的問題進行整改，對相關責任人員進行問責，並在收到決定書之日起30日內向監管提交書面整改報告。
+
+---
+
+### 2026-08-14 21:01:20  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver is up 1.00% intraday at $65.11/oz.
+
+---
+
+### 2026-08-14 21:01:06  #市場
+
+Reddit將被納入標普500指數。
+
+---
+
+### 2026-08-14 21:00:40  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish
+
+Since June, India has mobilized over $50 billion through measures to attract overseas capital, giving the central bank greater room to rebuild foreign-exchange reserves and support the weak rupee.
+
+---
+
+### 2026-08-14 21:00:31  #公司
+
+【橫琴創夢瑞通投資管理有限公司被監管採取責令改正措施】8月14日，廣東證監局披露，經查，橫琴創夢瑞通投資管理有限公司在開展私募投資基金管理業務過程中，存在以下違規行為：一是不具備與管理規模相適應的運營資金；二是未向中國證券基金業協會（簡稱“中基協”）報送真實的員工、辦公場所資訊，在向中基協報送的旗下基金的審計報告、定期報告與財務報告中，未正確披露基金對外投資的公允價值。廣東證監局決定對該公司採取責令改正的行政監管措施，並要求該公司應高度重視，採取切實有效的措施，對存在的問題進行整改，對相關責任人員進行問責，並在收到決定書之日起30日內向監管提交書面整改報告。
+
+---
+
+### 2026-08-14 21:00:23  #其他
+
+法國最高法院否決針對青少年的社交媒體禁令。
+
+---
+
+### 2026-08-14 21:00:22  #MKT News #Important #Commodities #Industrial Metals #Energy
+
+China night session opened: main domestic futures mostly higher; coking coal, PTA, low-sulfur fuel oil (LU), benzene, styrene (EB) and para-xylene rose more than 1%, while glass fell more than 1% and caustic soda slipped nearly 1%.
+
+---
+
+### 2026-08-14 21:00:04  #市場 #焦點
+
+純鹼連續主力合約日內跌1%，現報1022.00元。
+
+---
+
+### 2026-08-14 21:00:03  #市場
+
+【國內期貨夜盤開盤】碳酸鋰連續漲3.30%，鈀連續跌3.25%，多晶矽連續漲2.39%，工業矽連續漲2.27%，鉑連續跌1.79%。
+
+---
+
+### 2026-08-14 20:59:18  #市場
+
+現貨白銀日內漲1%，現報65.09美元/盎司。
+
+---
+
+### 2026-08-14 20:59:02  #國際
+
+俄羅斯外長謝爾蓋·拉夫羅夫在莫斯科會見泰國外長。
+
+---
+
+### 2026-08-14 20:58:45  #國際
+
+市場訊息：特朗普將於週五偕聯邦執法高層官員前往紐約州拿騷縣，與當地警察舉行集會，並宣揚其辦公室所稱的全國暴力犯罪出現歷史性下降。
+
+---
+
+### 2026-08-14 20:56:52  #其他
+
+【蘇州升級釋出京杭運河蘇州段洪水黃色預警】蘇州市水務局2026年8月14日20時升級釋出京杭運河蘇州段洪水黃色預警。提醒影響區域各級政府及有關部門做好防汛工作；社會公眾做好避災避險。
+
+---
+
+### 2026-08-14 20:55:42  #國際
+
+特朗普在真相社交平臺發文：“我們莊嚴的二戰紀念碑剛剛遭到塗鴉破壞者的噴塗。這是對二戰中犧牲的美國英雄莫大的侮辱。先是倒影池，現在又發生這種事。我們正在追查這些人！這些敗類究竟來自何方？？？”
+
+---
+
+### 2026-08-14 20:55:09  #公司
+
+【太辰光：擬投資建設坪山生產基地專案】太辰光(300570)8月14日公告，公司擬購買土地使用權並投資建設深圳太辰光通訊股份有限公司坪山生產基地專案，該專案投資總額計劃約7.2億元。
+
+---
+
+### 2026-08-14 20:53:34  #市場
+
+【白糖期貨連漲三週】倫敦白糖期貨價格料連續第三週上漲，推高煉糖利潤，因市場對供應趨緊的擔憂持續成為焦點。最活躍合約週五下跌，但本週仍有望上漲逾2%，此前在本週早些時候觸及2025年4月以來最高水平。
+
+---
+
+### 2026-08-14 20:53:31  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10 Year Treasury Note Yield at 4.65percent — The yield on the 10-year US Treasury note was at 4.65% on Friday, dropping after testing 19-month highs of 4.75% on Tuesday as recent economic data limited the urgency for the Federal Reserve to raise interest rates. Producer prices were firmly under expectations in July and consumer inflation slowed for a second consecutive month, suggesting that the rebound in energy prices had limited impact on higher price growth. In turn, retail sales unexpectedly contracted in the period, driving part of the market to consider momentary weakness for consumers. Still, the drop in yields were more muted in the longer end of the curve as lingering risks on energy supply maintained inflationary risks in the near term. This was magnified by the trend of a weakening Japanese yen, risking selling pressure from the largest foreign holder of US Treasury notes should the country intervene in the foreign exchange market. Such concerns were reflected by a a sharp tail in the latest 30-year bote auction.
+
+---
+
+### 2026-08-14 20:53:01  #公司
+
+【艾艾精工：控股股東簽署補充協議，股份轉讓及要約價格調整為27.54元/股】艾艾精工公告，控股股東蔡瑞美與上海譽升簽署《股份轉讓協議之補充協議》《預受要約協議之補充協議》。因2025年度利潤分配方案實施完畢，本次股份轉讓價格及要約收購價格均由每股人民幣27.62元調整為每股人民幣27.54元；股份轉讓總價款由人民幣10.82億元調整為人民幣10.79億元。目前盡職調查工作已經完成，出讓方已收到繼續推進交易的通知。
+
+---
+
+### 2026-08-14 20:52:51  #MKT News
+
+【London white sugar futures up third week; refining margins widen】London white sugar futures rose for a third consecutive week, trimming a Friday dip and finishing the week more than 2% higher after earlier hitting the strongest level since April 2025. The move has widened the refined-vs-raw sugar premium, a key indicator of refining profitability; a spread above $100/t is typically a strong incentive to process. Refined supplies are expected to tighten in the 2026-27 season beginning in October as smaller crops in Europe and India curb exports, and Czarnikow warns the global deficit could widen further in 2027-28 if cane and beet area falls. Open interest climbed with prices, suggesting fresh buying rather than only short-covering, according to Paris broker Deepcore. Offsetting factors: Brazilian raw sugar supply remains ample and weak import demand keeps near-term availability comfortable, while the current white sugar premium to ethanol could encourage mills to produce more sugar.
+
+---
+
+### 2026-08-14 20:51:16  #其他
+
+【布魯塞爾中央火車站附近發生爆炸 3人受傷】當地時間14日，比利時首都布魯塞爾中央火車站附近發生爆炸，已致3人受傷，近百人被疏散。（央視新聞）
+
+---
+
+### 2026-08-14 20:50:32  #公司
+
+【華髮股份：向特定物件發行股票申請獲上交所受理】華髮股份公告，公司於2026年8月14日收到上海證券交易所出具的《關於受理珠海華髮實業股份有限公司滬市主機板上市公司發行證券申請的通知》。上交所對公司報送的滬市主機板上市公司發行證券的募集說明書及相關申請檔案進行了核對，認為該項申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。公司本次向特定物件發行股票事項尚需透過上交所稽核，並獲得中國證監會做出同意註冊的決定後方可實施。
+
+---
+
+### 2026-08-14 20:50:25  #其他
+
+【交易員徹底放棄今年加息的預期】零售銷售資料不及預期，交易員徹底放棄今年加息的預期。市場目前完全定價加息將在明年1月落地，這與數週前的情形大相徑庭——當時市場愈發預期到2027年3月前會有兩次25個基點的加息。
+
+---
+
+### 2026-08-14 20:49:21  #資料 #市場 #央行 #國際
+
+【黃金價格企穩 投資者權衡美聯儲決策】黃金從早盤一波獲利回吐行情中企穩，站穩每盎司4300美元上方，投資者結合美國溫和通脹資料權衡美國貨幣政策的後續走向。倫敦午盤，現貨黃金價格基本持平，維持在每盎司4350美元上方。美國通脹資料表現平淡後，金價自週四創下的10周高點出現回落。美國消費者物價指數顯示，7月來自伊朗衝突的能源價格衝擊影響有所消退，緩解了美聯儲實施更為激進貨幣政策的壓力。萬拓市場高階分析師赫柏·陳表示：“金價在一輪強勢上漲後進入休整階段，交易商選擇部分落袋為安。金價衝高至兩個月高點，給投資者提供了兌現收益的契機，尤其是美國CPI、PPI資料走弱後，諸多利好因素已經充分反映在本輪上漲行情當中。”
+
+---
+
+### 2026-08-14 20:47:31  #其他
+
+嘉信理財7月核心新增淨資產達581億美元，較2025年7月增長24%。
+
+---
+
+### 2026-08-14 20:46:19  #其他
+
+貴州茅臺上半年茅臺酒基酒產量41000噸。
+
+---
+
+### 2026-08-14 20:46:04  #行業 #觀點
+
+【機構：新房成交同比降幅收窄，二手房高位韌性凸顯】據克而瑞研究中心，2026年7月，房地產市場步入傳統季節性淡季，整體呈現“新房淡季回撥、二手房韌性持穩”的執行特徵，重點城市新房供求環比同步走弱，市場熱度較6月半年末衝量明顯回落。與此同時，二手房在置換需求支撐與“以價換量”帶動下保持高位執行、同比延續正增。預計8月新房市場供應、成交大機率延續環比走弱態勢；二手房依託置換需求保持高位，但環比或延續小幅回落。
+
+---
+
+### 2026-08-14 20:45:56  #MKT News #600519.SS #Impact bullish
+
+Kweichow Moutai said 1H base-liquor output was 41,000 tonnes for Moutai and 31,000 tonnes for its series brands; production cycles are more distinct and the product mix better balanced, with high-quality, stable output maintained.
+
+---
+
+### 2026-08-14 20:44:42  #其他
+
+據孟加拉國媒體14日報道，該國東南部吉大港地區一家拆船廠當天發生有毒氣體洩漏，造成9名工人死亡、多人受傷。 事故發生在一艘正在拆解的液化天然氣運輸船內。當地警方和消防部門說，事發後多名工人被送往醫院，事故具體原因仍在調查中。（新華社）
+
+---
+
+### 2026-08-14 20:43:40  #MKT News #Important #600519.SS #Impact bullish
+
+Kweichow Moutai said in 1H 2026 its iMoutai digital marketing platform generated tax-exclusive liquor revenue of 40.26 billion yuan.
+
+---
+
+### 2026-08-14 20:43:25  #公司
+
+【翔港科技：2026年上半年淨利潤8258.55萬元，同比增長5.45%】翔港科技公告，2026年上半年營業收入5.38億元，同比增長4.48%。歸屬於上市公司股東的淨利潤8258.55萬元，同比增長5.45%；歸屬於上市公司股東的扣除非經常性損益的淨利潤5955.97萬元，同比下降22.01%。
+
+---
+
+### 2026-08-14 20:43:19  #公司
+
+【SpaceX完成收購Cursor】8月14日，SpaceX提交監管檔案稱，公司與程式碼編輯工具Cursor的合併交易已完成。根據交易安排，Cursor股東獲得合計約3.89億股SpaceX A類普通股，對應Cursor隱含股權價值600億美元。此外，Cursor已歸屬限制性股票單位轉換為約175萬股SpaceX A類普通股，未歸屬限制性股票單位和股票期權則分別轉換為約2913萬份限制性股票單位和4437萬份股票期權。此次交易以發行SpaceX A類普通股作為主要對價，未涉及公開發行。
+
+---
+
+### 2026-08-14 20:43:01  #MKT News
+
+MOODY'S: Investors must adapt to a "new risk landscape" created by extreme weather; heat and water scarcity are evolving into permanent risk features.
+
+---
+
+### 2026-08-14 20:43:00  #MKT News
+
+MOODY'S: In the United States, a sample of about 159,000 water‑intensive facilities shows nearly 49,000 may face high or extreme water stress over the coming decades.
+
+---
+
+### 2026-08-14 20:42:43  #MKT News #Market Regions #Europe & UK
+
+Moody's: heat and water-resource risks are beginning to drag on European real estate asset values; if these risks remain unpriced they could quietly erode cash flows and portfolio returns at firms in agriculture, apparel manufacturing and semiconductors.
+
+---
+
+### 2026-08-14 20:42:42  #公司
+
+【貴州茅臺：2026年上半年營收907.03億元 淨利潤445.17億元】貴州茅臺公告稱，2026年上半年，公司營收907.03億元，同比增長1.47%；利潤總額614.38億元，同比下降2.13%；淨利潤445.17億元，同比下降1.95%。經營活動產生的現金流量淨額706.91億元，同比增長438.84%。報告期內，公司透過“i茅臺”數字營銷平臺實現酒類不含稅收入402.64億元。國內經銷商減少46個，國外減少7個。
+
+---
+
+### 2026-08-14 20:42:34  #公司
+
+【貴州茅臺：董事會透過多項議案 擬劃轉i茅臺平臺資產】貴州茅臺公告稱，8月13日召開的第五屆董事會2026年度第三次會議，審議透過《2026年半年度報告》《關於將i茅臺數字營銷平臺相關資產無償劃轉至愛茅臺數字科技公司的議案》《2026年度“提質增效重回報”行動方案半年度評估報告》。公司將以無償劃轉方式，向全資子公司數科公司劃轉i茅臺相關資訊系統及域名等，並轉授權使用“MOUTAI”等商標。
+
+---
+
+### 2026-08-14 20:42:25  #公司
+
+【上緯新材：2026年上半年營收8.03億元 淨虧損1.67億元】上緯新材公告稱，2026年半年度公司營收80,273.09萬元，同比增長2.42%；淨虧損16,653.69萬元，同比減少656.97%；扣非淨虧損16,901.18萬元，同比減少749.01%。公司消費級具身智慧機器人業務處研發及應用場景驗證階段，量產及市場推廣有不確定性。此外，公司外部流通盤小、市盈率顯著高於行業平均，還面臨安全合規、市場經營、供應鏈及成本等風險。
+
+---
+
+### 2026-08-14 20:42:20  #公司
+
+【貴州茅臺：將於8月21日召開2026年半年度業績說明會】貴州茅臺公告稱，公司已披露《2026年半年度報告》，為使投資者深入瞭解公司經營情況，將於8月21日15:00-16:00在上證路演中心以網路文字互動方式召開2026年半年度業績說明會。參加人員有董事長陳華、董事王莉等。投資者可在當天線上參與，也可在8月20日前將問題發至指定郵箱。說明會結束後可透過上證路演中心檢視情況及內容。
+
+---
+
+### 2026-08-14 20:42:09  #Trading Economics #Economy #Canada #Manufacturing Sales #Importance 1
+
+Canada Manufacturing Sales Edge Higher in June — Canada’s manufacturing sales rose 0.1% month-on-month to C$78.8 billion in June 2026, following a 1.3% increase in May and beating estimates for a 0.1% decline. Sales increased in 15 of the 21 subsectors surveyed. Chemical sales rose 6.0%, marking a fourth consecutive monthly gain and reaching their highest level since October 2022, driven largely by higher sales of pharmaceutical products, resin, synthetic rubber, and artificial and synthetic fibres and filaments. Sales in the transportation equipment subsector increased 2.8%, extending its monthly growth streak to five months, led by gains in motor vehicle parts (6.2%) and aerospace products and parts (6.0%). Meanwhile, sales of petroleum and coal products fell 14.1% after three consecutive monthly increases, driven by lower prices for petroleum and energy products.
+
+---
+
+### 2026-08-14 20:42:02  #MKT News #S&P500 #Impact bearish #WTI #Impact mixed #Copper
+
+MOODY'S: Heat and water risks no longer evolve on separate timelines; for investors both have become operational risks and drivers of earnings volatility and stranded-asset exposure.
+
+---
+
+### 2026-08-14 20:41:58  #其他
+
+【資料洩露通知數量已遠超去年全年 人工智慧影響持續擴大】身份盜竊資源中心（ITRC）是一家幫助身份被盜受害者、跟蹤公開披露資料洩露事件的非營利機構。其最新報告顯示，2026年上半年，各類資料洩露事件累計發出超4.71億份受害者通知。教育平臺Canvas發生的網路安全事件就貢獻了其中超過一半，涉及2.75億條通知。 ITRC報告資料顯示，2025年全年發出的洩露通知總量為2.975億份，僅今年上半年就已經超過該數值。今年上半年共發生1803起安全事件，高於2025年同期的1732起。若下半年事件發生頻率與上半年持平，2026年全年事件總數將超過去年的3321起。
+
+---
+
+### 2026-08-14 20:41:58  #公司 #其他 #焦點
+
+貴州茅臺上半年淨利潤445.2億元人民幣。
+
+---
+
+### 2026-08-14 20:41:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Hormuz MoU deadline nears as US and Iran remain deadlocked】A 60-day memorandum of understanding signed on June 17 expires this Sunday, yet US and Iranian positions on control and passage through the Strait of Hormuz remain deadlocked. Iran's military says no vessel may transit without authorization and rejects US claims that shipping is "normal." The US has taken a hard line: the defense secretary said it could sustain a maritime blockade of Iran "indefinitely" and the treasury warned of "unprecedented" economic measures. Kpler data show commodity ship transits ticked up on Thursday but remain well below the pre-war daily average of about 130 vessels. Iran is not negotiating directly with the US and is instead talking with Oman on new maritime arrangements aimed at joint management; Pakistan's interior minister flew to Tehran Tuesday to mediate. Analysts say an Iran-Oman agreement could provide a route out of the stalemate and potentially open the door to longer-term US-Iran ceasefire talks.
+
+---
+
+### 2026-08-14 20:41:41  #MKT News #Commodities #Energy #S&P500 #Impact bearish #WTI #Impact bullish #DXY
+
+Moody's says extreme heat and unstable water supply are increasingly threatening asset valuations across industries, impacting labor productivity, energy costs and other operational inputs.
+
+---
+
+### 2026-08-14 20:41:26  #國際
+
+【伊朗外長與奧地利外長通電話 指責美以加劇海峽危機】伊朗外交部：週四下午，奧地利外交部長同伊朗外交部長通電話。通話期間，兩國外長就雙邊關係以及地區和國際局勢交換意見。伊朗外交部長介紹地區最新局勢，包括伊朗與阿曼為搭建霍爾木茲海峽未來管控機制舉行的會談，並強調，當前局勢源於美國及猶太復國主義政權對伊朗實施的非法侵略。他指出，儘管伊朗秉持誠意參與外交程序，且雙方已於6月28日簽署停火協議，但美方違反協議條款，對伊朗施加海上制裁，並大規模襲擊伊朗軍事及民用目標，致使霍爾木茲海峽緊張加劇、局勢動盪。
+
+---
+
+### 2026-08-14 20:41:03  #央行 #國際
+
+隔夜指數互換目前定價顯示，9 月美聯儲會議僅預期約 8 個基點的加息幅度，全年加息預期約 20 個基點，此前為 23 個基點。
+
+---
+
+### 2026-08-14 20:40:56  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Lower on Mideast Tensions — Futures tracking Canadian stocks edged lower on Friday amid heightened uncertainty in the Middle East. The US threatened an indefinite naval blockade of Iran, reviving concerns about disruptions to crude supplies from the region. Oil prices moved higher, fueling inflationary pressures and weighing on financials and other credit-sensitive shares. Meanwhile, gold prices rebounded after earlier losses, lending support to mining stocks. On the earnings front, Bird Construction beat second-quarter profit estimates, prompting at least three brokerages to raise their price targets on the stock. Air Canada’s revenue for September and October is likely to reach records for the two months as more premium travelers avoid the heat and summer crowds in Europe and Japan, according to a senior executive. Canadian Tire beat estimates for both EPS and revenue in the second quarter. Onex said its second quarter showed progress toward several strategic goals.
 
 ---
 
@@ -19920,293 +20202,5 @@ Caitong Fuxin Fixed-Open Hybrid Fund will suspend trading for the full day on 14
 ### 2026-08-13 19:01:08  #公司 #市場
 
 【匯添富黃金及貴金屬(QDII-LOF-FOF)：暫停申購、定期定額投資業務】匯添富黃金及貴金屬(QDII-LOF-FOF)公告稱，為保護基金份額持有人利益、保障基金平穩運作，自2026年8月14日起，匯添富黃金及貴金屬(QDII-LOF-FOF)A（交易程式碼164701）和匯添富黃金及貴金屬(QDII-LOF-FOF)C（交易程式碼018543）暫停申購、定期定額投資業務，其他業務照常辦理，恢復時間將另行公告。
-
----
-
-### 2026-08-13 19:00:32  #公司
-
-【聖邦股份：2026年上半年淨利潤預增超100%】聖邦股份公告稱，公司預計2026年上半年歸屬上市公司股東的淨利潤為4.02億元-4.32億元，2025年同期為2.01億元，同比增長超100%。主要因公司持續推出新產品、拓展應用領域和客戶群，光模組等市場產品佈局貼合產業機遇，工業領域積累使產品銷量增加，帶動營收同比增長。未經稽核財務資料預計8月底前公佈。
-
----
-
-### 2026-08-13 19:00:26  #公司
-
-【節能環境：2026年上半年淨利潤5.87億元 同比增7.8%】節能環境公告，2026年上半年營業收入28.78億元，同比下降2.66%。歸屬於上市公司股東的淨利潤5.87億元，同比增長7.80%；扣非淨利潤6.04億元，同比增長12.50%。利潤分配預案為每10股派發現金紅利0.6元（含稅）。
-
----
-
-### 2026-08-13 19:00:23  #公司 #市場
-
-【金螳螂：股票異動 不存在應披露未披露重大事項】金螳螂公告稱，公司股票於2026年8月12日、13日連續兩個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經核實，公司前期披露資訊無需更正補充，目前經營正常，內外部環境未變，公司、控股股東和實控人無應披露未披露重大事項，實控人在異動期間無買賣公司股票行為。此外，公司提醒，2026年半年報8月26日披露，境外業務及潔淨類裝修業務對業績影響有限。
-
----
-
-### 2026-08-13 19:00:19  #MKT News #XAUUSD
-
-Gold LOF suspends new subscriptions and periodic fixed-amount investment plans; other services remain available.
-
----
-
-### 2026-08-13 19:00:15  #公司
-
-【巨力索具：2026年上半年淨利潤380.01萬元，同比下降59.36%】巨力索具公告，2026年上半年營業收入13.09億元，同比增長14.79%。歸屬於上市公司股東的淨利潤380.01萬元，同比下降59.36%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1099.98萬元，同比增長96.48%。
-
----
-
-### 2026-08-13 18:59:36  #公司
-
-【寶麗迪：擬3570萬元收購上海科塑達51%股權】寶麗迪公告稱，公司第三屆董事會第十九次會議審議多項議案。一是透過《2026年半年度報告及摘要》等議案；二是擬以現金3570萬元收購上海科塑達高分子材料有限公司51%股權，其中先增資1785萬元獲22.5%股權，再受讓1785萬元獲25.5%股權，標的公司將成控股子公司。該交易不構成重大資產重組及關聯交易，無需提交股東會審議。
-
----
-
-### 2026-08-13 18:59:10  #公司
-
-【華融化學：2026年上半年淨利潤3096.88萬元，同比下降5.83%】華融化學公告，2026年上半年營業收入7.55億元，同比下降1.88%；歸屬於上市公司股東的淨利潤3096.88萬元，同比下降5.83%，上年同期淨利潤3288.48萬元；扣非淨利潤2241.79萬元，同比增長25.28%。董事會審議透過的利潤分配預案為：以4.8億為基數，向全體股東每10股派發現金紅利0.30元（含稅）。
-
----
-
-### 2026-08-13 18:59:02  #公司
-
-【北鼎股份：2026年中期淨利潤4762.97萬元，同比下降14.69%】北鼎股份公告，2026年上半年營業收入4.95億元，同比增長14.68%；歸屬於上市公司股東的淨利潤4762.97萬元，同比下降14.69%；歸屬於上市公司股東的扣除非經常性損益的淨利潤4558.04萬元，同比下降14.31%；2025年同期歸屬於上市公司股東的淨利潤5582.88萬元。利潤分配預案：每10股派發現金紅利0.85元（含稅）。
-
----
-
-### 2026-08-13 18:58:51  #公司
-
-【諾思格：提前終止回購公司股份方案，成交總金額4705.99萬元】諾思格公告，公司董事會於2026年6月12日審議透過回購方案，擬使用自有資金以集中競價交易方式回購股份，用於員工持股計劃或股權激勵，回購資金總額不低於4000萬元且不超過6000萬元，回購價格不超過65元/股，後自2026年7月3日起調整為不超過64.84元/股。截至公告披露日，公司累計回購100萬股，佔總股本1.04%，最高成交價48元/股，最低成交價45.53元/股，成交總金額4705.99萬元。因回購數量已能滿足員工持股計劃或股權激勵規模，公司管理層決定提前終止回購公司股份事項，本次回購股份方案提前屆滿。
-
----
-
-### 2026-08-13 18:58:47  #公司
-
-【炬申股份：以自籌資金2.12億元預先投入募投專案及支付發行費用】炬申股份公告稱，公司向不特定物件發行可轉換公司債券，發行總額3.80億元，募集資金淨額3.72億元。截至2026年7月31日，公司以自籌資金預先投入募投專案2.00億元，全部用於炬申幾內亞駁運專案，佔該專案總投資的57.45%；以自籌資金預先支付發行費用120.15萬元。天健會計師事務所認為，相關專項說明如實反映了實際情況。
-
----
-
-### 2026-08-13 18:58:41  #公司
-
-【豪爾賽：2026年上半年淨利潤虧損2831.03萬元】豪爾賽公告，2026年上半年營業收入1.21億元，同比下降23.52%。歸屬於上市公司股東的淨利潤虧損2831.03萬元，上年同期虧損3371.49萬元。扣非淨利潤虧損2908.78萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-13 18:58:38  #公司
-
-【中國移動上半年資本開支610億元 算力投入大幅加碼、通訊網投入收縮】8月13日，中國移動2026年中業績交流會披露，公司上半年資本開支610億元，同比增加26億元、投放進度提速。公司投資結構顯著最佳化，算力網開支156億元同比大增65億元，通訊網開支同比壓減41億元。針對當前算力供不應求態勢，公司將堅持需求導向，加大從AIDC到超大規模智算叢集的投入力度，適應快速增長的AI訓練和推理需求。（科創板日報）
-
----
-
-### 2026-08-13 18:58:13  #公司 #市場
-
-【納指ETF匯添富：提示基金二級市場交易價格溢價風險】納指ETF匯添富公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。8月13日，其二級市場收盤價為2.381元，收盤時基金份額參考淨值為2.1991元。若8月14日溢價幅度未有效回落，基金有權申請停牌等措施。基金運作正常，無應披露未披露資訊。提醒投資者關注溢價風險，審慎投資。
-
----
-
-### 2026-08-13 18:57:47  #國際
-
-歐洲電力交易所：德國 8 月 14 日電力結算價 140.33 歐元 / 兆瓦時。
-
----
-
-### 2026-08-13 18:57:07  #公司 #市場
-
-【一鳴食品：股票交易異常波動 提醒投資者注意風險】一鳴食品公告稱，公司股票於 2026 年 8 月 12 日、8 月 13 日連續兩個交易日內日收盤價格漲幅偏離值累計超 20%，屬異常波動。近十個交易日股價累計漲幅達 89.84%，近五個交易日累計換手率 41.73%，交易量大幅增加。經自查，公司經營正常，無應披露未披露重大事項。公司市盈率、市淨率顯著高於行業水平，提醒投資者注意炒作、估值過高等風險。
-
----
-
-### 2026-08-13 18:57:02  #公司 #焦點
-
-【高爭民爆：2026年上半年淨利潤4762.97萬元，同比下降14.69%】高爭民爆公告，2026年上半年營業收入4.95億元，同比增長14.68%。歸屬於上市公司股東的淨利潤4762.97萬元，同比下降14.69%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4558.04萬元，同比下降14.31%。
-
----
-
-### 2026-08-13 18:56:57  #公司 #國際
-
-泰國石油化工公眾有限公司（PTT PCL）預計2026年迪拜原油均價將處於每桶78-88美元區間。
-
----
-
-### 2026-08-13 18:56:50  #公司
-
-【上海網信辦集中約談重點平臺，要求切實履行未成年人網路保護責任】根據中央網信辦部署要求，上海市網信辦紮實推進“清朗守護·為你而來”2026年未成年人網路環境整治專項行動。近期組織對屬地網路音影片、網路文學、網路遊戲、網路社交、電商以及AI平臺等一批重點平臺開展巡查抽檢，依法集中約談了問題較為突出的6家平臺。市網信辦相關負責人指出，網站平臺要充分認識未成年人網路保護工作的重要性，針對問題全面落實整改措施，持續細化涉可能影響未成年人身心健康不良資訊處置標準，緊盯重點環節和重要功能整改效果，切實維護良好網路生態。相關平臺負責人表示，將落實約談要求深入開展整改工作，定期釋出治理公告，接受社會監督。（澎湃）
-
----
-
-### 2026-08-13 18:56:21  #MKT News
-
-【Greenland authorities halt US firm's oil exploration plan】Greenland authorities have urgently halted a US company's planned oil exploration in eastern Greenland. Officials say a partner of US energy firm Greenland Energy shipped drilling equipment to the island without local permits and intended to begin drilling this autumn. Greenland's Ministry of Mineral Resources said the required permits cannot be ready before next year and issued a strong warning that similar actions must not recur.
-
----
-
-### 2026-08-13 18:56:16  #市場
-
-【Tapestry美股盤前跌超10%】Tapestry美股盤前跌超10%，現報137.0美元。
-
----
-
-### 2026-08-13 18:55:15  #公司
-
-【航錦科技：2026年上半年營收14.47億元 同比降34.68%】航錦科技公告稱，2026年上半年，公司營收14.47億元，同比降34.68%；淨利潤4986.30萬元，同比增263.32%。基本每股收益0.08元/股，同比增300.00%。此外，公司全資子公司航錦（武漢）原持有超擎數智45.41%表決權，因部分表決權委託到期，自2026年起超擎數智不再納入公司合併報表範圍。
-
----
-
-### 2026-08-13 18:55:01  #公司
-
-【星源材質：董事會7票透過收購邦瓷電子股權，尚需股東會審議】星源材質公告，公司第六屆董事會第三十次會議於2026年8月13日以通訊會議方式召開，應出席董事7人，實際出席董事7人。會議審議透過《關於對外投資收購邦瓷電子股權暨簽署股權轉讓協議的議案》，表決結果為同意7票；反對0票；棄權0票。本議案尚需提交公司股東會審議，董事會決定召開2026年第六次臨時股東會審議該議案。
-
----
-
-### 2026-08-13 18:54:49  #公司 #國際
-
-【格陵蘭島當局緊急叫停美企石油勘探計劃】總檯記者當地時間8月13日獲悉，丹麥自治領地格陵蘭島當局已經緊急叫停美國公司在當地開展石油勘探的計劃。格陵蘭島自治政府礦產資源部門負責人約爾根·哈梅肯-霍爾姆對美企在格陵蘭島東部進行石油勘探的計劃提出強烈批評。據悉，不久前，美國能源企業“格陵蘭能源”的合作方在未經格陵蘭島當局許可的情況下，將鑽探裝置運抵格陵蘭島，計劃今年秋季開始從格陵蘭島東部的地下開採石油。格陵蘭島當局表示，相關必要許可無論如何都不可能在明年之前準備就緒。格陵蘭島礦產資源部門向相關方面發出了一份“強烈警告”，明確表示類似事件不得再次發生。“格陵蘭能源”公司隨後道歉，並解釋稱這是一場“誤會”。但格陵蘭島方面並不接受這一說法，並表示如果該公司再次未經許可開展活動，格陵蘭島當局將採取強硬措施。（央視新聞）
-
----
-
-### 2026-08-13 18:54:31  #公司 #市場 #國際
-
-【美議員要求調查特朗普獲贈鑽戒】據美國媒體近日報道，美國民主黨籍聯邦參議員正要求比利時方面就贈予美國總統特朗普的一枚鑽戒作出說明。這枚鑽戒鑲嵌了321顆鑽石、重18克拉，主體材質為黃金。這枚戒指由比利時安特衛普世界鑽石中心（比利時鑽石行業的官方代表機構）主席於6月28日贈予美國駐比利時大使比爾·懷特，“旨在向特朗普致敬，以紀念美國建國250週年”。而幾周後，美國便宣佈對歐洲鑽石產業豁免新一輪關稅。 報道稱，在致安特衛普世界鑽石中心及製作這枚戒指的比利時高階珠寶商的信函中，美國民主黨籍聯邦參議員伊麗莎白·沃倫、理查德·布盧門撒爾警告稱，這一贈禮引發了嚴重的法律問題，並給人造成一種印象，即“外國企業、特殊利益集團只需用閃亮的禮物‘轟炸’特朗普，就能換取關稅豁免”。他們要求對方在8月24日前回應質詢，包括戒指的具體價值，以及在豁免政策公佈前是否與特朗普政府就關稅問題進行過任何磋商。 白宮方面否認向特殊利益集團輸送好處，稱豁免關稅的決定只是維護了特朗普政府此前根據美歐貿易協議為鑽石提供優惠待遇的承諾。有美國政府官員表示，這枚鑽戒屬於聯邦財產，如果特朗普有意保留，必須按市場價格向政府付款。據報道，這枚手工戒指的估值在2.5萬至3.5萬美元之間。（CCTV國際時訊）
-
----
-
-### 2026-08-13 18:53:51  #公司
-
-【寶麗迪：2026年上半年淨利潤6860.55萬元，同比增長7.51%】寶麗迪公告，2026年上半年營業收入6.99億元，同比增長3.43%。歸屬於上市公司股東的淨利潤6860.55萬元，同比增長7.51%。歸屬於上市公司股東的扣除非經常性損益的淨利潤6509.99萬元，同比增長6.91%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-13 18:53:30  #MKT News #300014.SZ #Impact bullish
-
-【EVE Energy, Shenzhen Shengyoudeng deepen cooperation in lightweight portable energy storage】EVE Energy said it signed a strategic cooperation agreement with Shenzhen Shengyoudeng Network Technology. The partnership targets outdoor travel, residential distributed power and lightweight smart energy devices, aligning cylindrical-cell requirements for power output, high/low temperature adaptability and cycle life with real-world use. Leveraging its cylindrical-cell technology, broad product matrix and quality controls, EVE will provide scenario-matched cell solutions and multiple cell types to Shengyoudeng’s portable storage product lines to improve end-product performance.
-
----
-
-### 2026-08-13 18:52:32  #公司
-
-【億緯鋰能與省油燈深化輕量化便攜儲能領域合作】據億緯鋰能訊息，近日，億緯鋰能與深圳市省油燈網路科技有限公司（簡稱“省油燈”）舉行戰略合作簽約儀式。本次深化合作聚焦戶外出行、家庭分散式用電、輕量化智慧能源裝置等應用場景，貼合儲能裝置對圓柱電芯功率輸出、高低溫適應性、使用壽命等維度的實際工況需求。依託成熟的圓柱電芯技術、完善的產品矩陣與高標準的品控體系，億緯鋰能為省油燈多系便攜儲能產品精準匹配場景化電芯方案，提供多品類電芯支援，有效提升終端產品整體使用表現。
-
----
-
-### 2026-08-13 18:52:26  #MKT News
-
-【Hainan guar bean yield tops 400 kg/mu, marks domestic cultivation breakthrough】At a demonstration base in Sangeng Village, Yazhou District, Sanya, dry guar bean yield exceeded 400 kg per mu (≈6,000 kg/ha), reaching international advanced levels and marking a key breakthrough in domestic guar cultivation.
-
----
-
-### 2026-08-13 18:51:50  #其他
-
-塔塔汽車乘用車部門就捷豹路虎業務表態：將全力推進北美市場業務增長。
-
----
-
-### 2026-08-13 18:51:45  #MKT News
-
-Ukraine's national meteorological forecaster projects 2026 sunflower seed output at 13.0 mln t, up from 10.2 mln t in 2025; sugar beet output is forecast at 9.0 mln t in 2026, down from 11.7 mln t in 2025.
-
----
-
-### 2026-08-13 18:51:15  #其他
-
-【畝產突破400公斤 海南崖州瓜爾豆實現高產突破】近日，在三亞崖州區三更村瓜爾豆示範基地，幹豆畝產突破400公斤，產能達到國際先進水平，標誌著我國瓜爾豆本土化種植實現關鍵性突破。當前，三更村百畝瓜爾豆示範田進入豐收期。今年，科研團隊最新選育的新品種“明安1號灰A1”在當地推廣種植，依託成熟的本土化栽培技術，田間豐產效果亮眼。據瞭解，瓜爾豆是能源、食品、紡織、醫藥等領域的重要工業原料，尤其在油氣開採中應用廣泛、不可替代。僅中國石油每年瓜爾豆原料需求便達3萬噸，國內市場常年存在巨大原料缺口。長期以來，我國高階瓜爾豆膠原料高度依賴進口，產業鏈供應鏈存在明顯短板。為打破海外壟斷，育種專家黃明安退休後深耕海南田間二十餘年，持續攻關瓜爾豆本土化育種，並在2012年選育出國內首個審定的瓜爾豆品種“匯錦1號”，填補國產品種空白。（央視新聞）
-
----
-
-### 2026-08-13 18:50:48  #公司 #市場
-
-【華夏標普500ETF：提示二級市場交易價格溢價風險】華夏標普500ETF公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。8月13日，收盤價為2.027元，收盤時基金份額參考淨值為1.9015元。若8月14日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。
-
----
-
-### 2026-08-13 18:50:27  #公司 #觀點
-
-【華夏基金：旗下部分公募基金參與宇樹科技A股申購】華夏基金公告稱，旗下部分公募基金參與了宇樹科技首次公開發行A股的申購。該公司本次發行保薦人中信證券是華夏基金控股股東，也是部分基金託管人中信建投證券的重大關聯方。發行價格150.80元/股，華夏成長證券投資基金等多隻基金透過網下方式參與申購，獲配數量從幾百股到數千股不等，獲配金額從數萬元到數十萬元不等。
-
----
-
-### 2026-08-13 18:50:18  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #USDJPY
-
-Mexico urged the United States to reduce automobile tariffs.
-
----
-
-### 2026-08-13 18:49:51  #公司 #觀點
-
-【特寶生物：開立15.18億元可轉債募集資金專戶並籤三方協議】特寶生物公告稱，公司向不特定物件發行15.33億元可轉換公司債券，期限6年。扣除發行費用後，實際募集資金淨額15.18億元，已於2026年8月3日到賬。公司開立了募集資金專項賬戶，分別為新藥研發專案6.71億元、生物技術創新融合中心建設專案4.50億元、特寶生物創新藥物生產改擴專案-產線建設4.01億元。公司、國金證券與各監管銀行簽署了《募集資金專戶儲存三方監管協議》。
-
----
-
-### 2026-08-13 18:49:39  #公司
-
-【泉陽泉：控股股東增持股份 權益變動跨越1%刻度】泉陽泉公告稱，控股股東森工集團計劃自2026年5月13日起6個月內，增持不低於1750萬元、不超過3500萬元公司股份。截至8月13日，其已累計增持283.03萬股，佔總股本0.40%，增持金額2353.42萬元。權益變動後，森工集團及其一致行動人持股比例從30.93%增至31.32%。本次增持計劃尚未實施完畢，可能因市場變化等因素無法達預期。
-
----
-
-### 2026-08-13 18:49:25  #公司 #市場 #觀點
-
-摩根大通上調評級後，阿卡邁技術公司盤前股價上漲2.2%。
-
----
-
-### 2026-08-13 18:48:37  #公司 #觀點
-
-【博時基金：旗下基金參與宇樹科技首次公開發行股票網下申購】博時基金公告稱，旗下管理基金參與宇樹科技首次公開發行人民幣普通股的網下申購。宇樹科技本次發行主承銷商中信證券，是公司旗下部分基金託管人，也是另一部分基金託管人中信建投的關聯方。發行價150.8元/股，博時中證半導體產業ETF獲配1638股、金額247010.40元；博時中證5G產業50ETF獲配434股、金額65447.20元。
-
----
-
-### 2026-08-13 18:48:29  #公司
-
-【*ST海利：控股股東擬6.01億元轉讓34.70%股份】*ST海利公告稱，2026年8月12日，上海豪園與張海明、張悅簽署協議，擬以2.655元/股，總價60,055.55萬元轉讓226,197,938股股份，佔總股本34.70%。其中，張海明受讓158,338,557股，張悅受讓67,859,381股。本次交易完成後，公司控股股東變為張海明，實控人不變。張海明、張悅承諾24個月內不減持受讓股份。交易尚需上交所確認及中登公司上海分公司完成過戶登記。
-
----
-
-### 2026-08-13 18:48:18  #公司
-
-【建元信託：2026年上半年營收降25.45% 淨利潤增2559.08%】建元信託公告稱，2026年上半年營業總收入1.12億元，同比降25.45%；利潤總額14.25億元，同比增3852.42%；歸屬於上市公司股東的淨利潤10.71億元，同比增2559.08%。截至報告期末，總資產267.72億元，較上年度末增5.30%；歸屬於上市公司股東的淨資產151.19億元，較上年度末增6.32%。此外，自2026年3月31日起，公司對參股上海農商銀行的會計核算方法轉換為長期股權投資並採用權益法核算。
-
----
-
-### 2026-08-13 18:46:21  #公司
-
-【同大股份：持股5%以上股東減持計劃時間屆滿 累計減持207.72萬股】同大股份公告稱，公司持股5%以上股東華盛百利投資發展（北京）有限公司減持計劃時間屆滿。2026年5月13日-7月2日，華盛百利透過集中競價和大宗交易方式累計減持207.72萬股，佔總股本2.34%。減持後，其持股降至587.8323萬股，佔比6.62%。本次減持符合相關規定，與此前披露計劃一致。
-
----
-
-### 2026-08-13 18:45:54  #公司 #觀點
-
-花旗集團將洛克希德·馬丁目標股價從641美元上調至691美元。
-
----
-
-### 2026-08-13 18:45:09  #公司
-
-【湖北省委書記關志鷗會見中國交通建設集團董事長宋海良】據“湖北釋出”，8月13日，湖北省委書記關志鷗在武漢會見中國交通建設集團有限公司黨委書記、董事長宋海良。關志鷗說，希望中交集團進一步加大在鄂投資佈局，創新合作模式，積極參與湖北“鐵水公空”多式聯運體系、產城融合園區開發、智慧交通、綠色港航等領域重大專案建設，助力湖北經濟社會高質量發展。我們將對標先進地區，聚力打造市場化法治化國際化一流營商環境，為中交集團等各類企業在鄂發展創造良好條件。
-
----
-
-### 2026-08-13 18:44:32  #公司
-
-【*ST天喻：解散昌喻投資涉訴，法院裁定駁回原告起訴】*ST天喻公告稱，2025年10月，公司與水天投資因中科紅樟違規，決議將其從昌喻投資除名並解散該企業，開展清算活動。同年12月，中科紅樟起訴請求確認除名決議無效。近日，公司收到法院《民事裁定書》，因原告主體資格要件欠缺，不符合法定受理條件，法院裁定駁回其起訴。截至公告披露日，昌喻投資清算活動仍在進行中。
-
----
-
-### 2026-08-13 18:44:19  #公司
-
-【益生股份：2026年半年度權益分派，每10股派1.5元（含稅）】益生股份公告稱，2026年半年度權益分派方案為，以總股本14.31億股扣除已回購股份2381.25萬股後的14.07億股為基數，向全體股東每10股派發現金紅利1.5元（含稅），共派發2.11億元，不送股、不轉增。股權登記日為8月19日，除權除息日為8月20日。
-
----
-
-### 2026-08-13 18:44:12  #公司 #國際
-
-印度石油天然氣公司Petronet LNG高管：不可抗力導致卡達56批液化天然氣貨物受影響。
-
----
-
-### 2026-08-13 18:44:05  #公司
-
-【海光資訊：2026年上半年淨利潤17.98億元 同比增49.69%】海光資訊公告，2026年上半年營業收入90.99億元，同比增長66.52%。歸屬於上市公司股東的淨利潤17.98億元，同比增長49.69%。歸屬於上市公司股東的扣除非經常性損益的淨利潤16.31億元，同比增長49.67%。
-
----
-
-### 2026-08-13 18:43:46  #其他
-
-【湖南益陽市博物館回應安檢牌錯字問題：已完成撤換整改】8月13日，益陽市博物館針對館內《安檢須知》牌存在多處錯別字的問題，釋出致歉信，內容如下：針對近期網友反映我館《安檢須知》牌存在多處錯別字的問題，我館立即對相關問題進行了核查。經查，網友反映的情況屬實。目前，我館已第一時間對錯誤內容完成了撤換整改。作為展示益陽曆史文化的視窗，我館出現這樣的低階錯誤，實屬不該，反映出我館在展覽稽核流程與質量管理上存在薄弱環節與工作短板。事件發生後，全館自上而下進行了深刻的反省，對相關責任人進行了嚴肅的批評教育。在此，我們真誠地向社會公眾致以深深的歉意，對網友的批評指正表示衷心的感謝！下一步，我們將深刻汲取教訓，全面排查整治，對館內所有展陳內容、宣傳資料進行全面校核；健全工作機制，完善公開內容稽核與日常管理制度，嚴格落實“先審後掛、定期複查”，杜絕此類問題再次發生；加強職工管理，持續改進工作作風，提升文化素養，努力為廣大參觀者提供更優質的服務。衷心感謝社會各界的監督指正！（央視新聞）
 
 ---
