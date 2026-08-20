@@ -1,7 +1,90 @@
 {
   "date": "2026-08-20",
-  "count": 572,
+  "count": 580,
   "items": [
+    {
+      "id": "te:economy:576636",
+      "time": "2026-08-20 08:22:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "Japan Exports Rise for 11th Month — Japan's exports rose 23.2% yoy to JPY 11,511.8 billion in July 2026, marking the strongest gain since October 2022 and topping market consensus of 19.9%. Sales grew for the 11th month, lifted by a weaker yen and robust demand for AI-related chips, despite risks from supply chain disruptions due to the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a01c8c-08b5-7aab-90a4-2c7959965868",
+      "time": "2026-08-20 08:22:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index widened intraday gains to 4.00%, trading at 6,732.17."
+    },
+    {
+      "id": "mkt:01a01c8b-f842-7aab-90a4-20b930a9d9dd",
+      "time": "2026-08-20 08:22:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huatai Securities: Medium- to long-term constructive on China civil aviation recovery; early positioning offers attractive risk-reward】Huatai Securities says July’s summer travel season and a decline in jet-fuel ex-factory prices prompted airlines to add capacity. Combined for Air China, China Eastern, China Southern, Spring Airlines and Juneyao, ASK and RPK rose YoY 4.6% and 7.8% (June: ASK -2.5%, RPK -1.7%); load factor climbed 2.6ppt to 86.2%. Volume growth has been accompanied by weak pricing: domestic fares including fuel surcharge in weeks 27–31 (Jun 29–Aug 2) fell 3.2% YoY (vs Jun 1–28 +11.5%). Early August (weeks 32–33, Aug 3–16) fares improved 2.6% YoY, but Huatai says the low base means the summer peak has not produced a clear seasonality-driven boost and sector attention remains limited. The firm will monitor international oil and high-frequency data; it remains constructive on a mid- to long-term industry recovery and says left-side positioning offers relatively high cost-effectiveness."
+    },
+    {
+      "id": "5048751",
+      "time": "2026-08-20 08:22:08",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅擴大至4%。SK海力士漲近9%，三星電子漲超5%。"
+    },
+    {
+      "id": "mkt:01a01c8a-5328-7aab-90a4-1e01f28454cf",
+      "time": "2026-08-20 08:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DownDetector shows user reports indicate an outage at OpenAI."
+    },
+    {
+      "id": "mkt:01a01c89-ea38-7aab-90a4-103a57b094b3",
+      "time": "2026-08-20 08:19:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Economic Daily warns of international capital stoking grain crisis】China's Economic Daily said recent warnings from Goldman, HSBC, BofA and JP Morgan that overlapping risks could trigger a new round of food inflation have spurred speculative flows: A-share agriculture/planting stocks jumped, several listed seed firms hit daily limit-ups and grain ETFs rallied. The paper said financial capital's speculation can amplify supply‑demand imbalances and manufacture shortages through expectation management. It urged maintaining ample food supply as the primary defense, noting a global trend toward stronger domestic grain self‑sufficiency. China continues its 'store grain in land and in technology' strategy, reporting consecutive large harvests, abundant inventories, basic grain self‑sufficiency and absolute staple‑food security."
+    },
+    {
+      "id": "te:markets:576635",
+      "time": "2026-08-20 08:19:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Westpac Stock Price Hits 12-month Low — Westpac shares decreased to 41.10 NZD, the lowest since August 2025. Over the past 4 weeks, Westpac lost 4.54%, and in the last 12 months, it decreased 0.69%."
+    },
+    {
+      "id": "te:economy:576634",
+      "time": "2026-08-20 08:19:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Japan Imports Hit Record High — Japan's imports surged 27.8% yoy to a new record JPY 12,146.3 billion in July, accelerating from June's 25.4% rise, beating market estimates of 26.5%, and posting the strongest growth since November 2022, amid a jump in crude oil imports."
+    },
     {
       "id": "mkt:01a01c88-f0af-7aab-90a4-0e8d606b3a0e",
       "time": "2026-08-20 08:18:51",

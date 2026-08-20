@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-20 08:19:39",
-  "count": 15652,
+  "updated": "2026-08-20 08:23:27",
+  "count": 15648,
   "items": [
+    {
+      "id": "te:economy:576636",
+      "time": "2026-08-20 08:22:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "Japan Exports Rise for 11th Month — Japan's exports rose 23.2% yoy to JPY 11,511.8 billion in July 2026, marking the strongest gain since October 2022 and topping market consensus of 19.9%. Sales grew for the 11th month, lifted by a weaker yen and robust demand for AI-related chips, despite risks from supply chain disruptions due to the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a01c8c-08b5-7aab-90a4-2c7959965868",
+      "time": "2026-08-20 08:22:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index widened intraday gains to 4.00%, trading at 6,732.17."
+    },
+    {
+      "id": "mkt:01a01c8b-f842-7aab-90a4-20b930a9d9dd",
+      "time": "2026-08-20 08:22:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Huatai Securities: Medium- to long-term constructive on China civil aviation recovery; early positioning offers attractive risk-reward】Huatai Securities says July’s summer travel season and a decline in jet-fuel ex-factory prices prompted airlines to add capacity. Combined for Air China, China Eastern, China Southern, Spring Airlines and Juneyao, ASK and RPK rose YoY 4.6% and 7.8% (June: ASK -2.5%, RPK -1.7%); load factor climbed 2.6ppt to 86.2%. Volume growth has been accompanied by weak pricing: domestic fares including fuel surcharge in weeks 27–31 (Jun 29–Aug 2) fell 3.2% YoY (vs Jun 1–28 +11.5%). Early August (weeks 32–33, Aug 3–16) fares improved 2.6% YoY, but Huatai says the low base means the summer peak has not produced a clear seasonality-driven boost and sector attention remains limited. The firm will monitor international oil and high-frequency data; it remains constructive on a mid- to long-term industry recovery and says left-side positioning offers relatively high cost-effectiveness."
+    },
+    {
+      "id": "5048751",
+      "time": "2026-08-20 08:22:08",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅擴大至4%。SK海力士漲近9%，三星電子漲超5%。"
+    },
+    {
+      "id": "mkt:01a01c8a-5328-7aab-90a4-1e01f28454cf",
+      "time": "2026-08-20 08:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DownDetector shows user reports indicate an outage at OpenAI."
+    },
+    {
+      "id": "mkt:01a01c89-ea38-7aab-90a4-103a57b094b3",
+      "time": "2026-08-20 08:19:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Economic Daily warns of international capital stoking grain crisis】China's Economic Daily said recent warnings from Goldman, HSBC, BofA and JP Morgan that overlapping risks could trigger a new round of food inflation have spurred speculative flows: A-share agriculture/planting stocks jumped, several listed seed firms hit daily limit-ups and grain ETFs rallied. The paper said financial capital's speculation can amplify supply‑demand imbalances and manufacture shortages through expectation management. It urged maintaining ample food supply as the primary defense, noting a global trend toward stronger domestic grain self‑sufficiency. China continues its 'store grain in land and in technology' strategy, reporting consecutive large harvests, abundant inventories, basic grain self‑sufficiency and absolute staple‑food security."
+    },
+    {
+      "id": "te:markets:576635",
+      "time": "2026-08-20 08:19:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Westpac Stock Price Hits 12-month Low — Westpac shares decreased to 41.10 NZD, the lowest since August 2025. Over the past 4 weeks, Westpac lost 4.54%, and in the last 12 months, it decreased 0.69%."
+    },
+    {
+      "id": "te:economy:576634",
+      "time": "2026-08-20 08:19:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Japan Imports Hit Record High — Japan's imports surged 27.8% yoy to a new record JPY 12,146.3 billion in July, accelerating from June's 25.4% rise, beating market estimates of 26.5%, and posting the strongest growth since November 2022, amid a jump in crude oil imports."
+    },
     {
       "id": "mkt:01a01c88-f0af-7aab-90a4-0e8d606b3a0e",
       "time": "2026-08-20 08:18:51",
@@ -143392,117 +143475,6 @@
         "市場"
       ],
       "text": "【零跑創始人談造車：已越過最難熬的節點】8月11日，他在A05上市釋出會後的溝通會上，罕見地用“快樂”來形容自己的造車心境，稱自己已經過了“最驚嚇的那一段”，進入了“感覺有點快樂的階段”。根據乘聯分會的最新資料，7月全國乘用車市場零售146.1萬輛，同比下降20.9%，環比下降8.8%；今年以來累計零售1017.3萬輛，同比下降20.3%。而在新勢力陣營中，頭部車企月銷突破10萬輛，腰部仍在3萬輛關口膠著，尾部則繼續下滑。在中國車市加速分化的競爭格局中，朱江明這樣的表態，具有一定的風向標意義。（一財）"
-    },
-    {
-      "id": "5038294",
-      "time": "2026-08-13 08:23:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：稅收政策變化似乎是導致房地產市場低迷的原因之一。"
-    },
-    {
-      "id": "5038293",
-      "time": "2026-08-13 08:22:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【凱投宏觀：韓國由晶片驅動的繁榮或在2028年失去動力】凱投宏觀的Marcel Thieliant表示，儘管近期國內生產總值(GDP)增長存在上行風險，但韓國由半導體驅動的經濟繁榮可能會在兩年內失去動力。該經濟學家預計，美國人工智慧投資熱潮將在2028年失去動力，這可能會促使韓國晶片製造商開始削減資本支出，因為該行業具有高度週期性。Thieliant指出，三星電子和SK海力士宣佈了一項合計800萬億韓圓的投資計劃，將在韓國西南部建設新的晶片製造廠，不過時間表尚未披露。他指出，隨著疫情後的電子產品繁榮逆轉，SK海力士在2023年將其資本支出削減了三分之二。"
-    },
-    {
-      "id": "te:markets:574854",
-      "time": "2026-08-13 08:22:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Edges Higher on Tame US Inflation Data — Silver rose to around $66 an ounce on Thursday, hovering near seven-week highs as relatively stable US consumer inflation reduced pressure on the Federal Reserve to raise interest rates in the near term. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Investors now await producer inflation data due later in the global day for further clues on the trajectory of price pressures. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. Precious metals also drew support from a pullback in oil prices as investors assessed the prospects of a deal to reopen the Strait of Hormuz. However, escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement."
-    },
-    {
-      "id": "5038292",
-      "time": "2026-08-13 08:21:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【墨西哥在貿易談判中爭取降低汽車關稅】據知情人士透露，墨西哥政府正敦促美國降低北美產汽車的關稅，以此作為修訂《美墨加協定》談判的一部分。此舉是針對特朗普政府要求汽車提高美國產零部件佔比所提出的反提案。特朗普政府目前對加拿大、墨西哥進口汽車中的非美國產零部件部分徵收 25% 關稅。墨西哥近幾周提出提案，擬擴大汽車可享受零關稅的零部件範圍，並下調北美汽車的最高關稅稅率。參與談判的知情人士表示，按照墨西哥的方案，美國僅對北美以外地區生產的汽車零部件價值徵收關稅，來自墨西哥與加拿大的零部件均可享受免稅待遇。"
-    },
-    {
-      "id": "5038291",
-      "time": "2026-08-13 08:21:00",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲助理主席肯特：金融環境具有一些限制性。"
-    },
-    {
-      "id": "5038290",
-      "time": "2026-08-13 08:20:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4430美元/盎司，日內漲0.51%。"
-    },
-    {
-      "id": "mkt:019ff87e-068c-7aab-9015-0bfec09ac3a0",
-      "time": "2026-08-13 08:20:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed above $4,430/oz, up 0.51% intraday."
-    },
-    {
-      "id": "5038289",
-      "time": "2026-08-13 08:20:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4490美元/盎司，日內漲0.50%。"
-    },
-    {
-      "id": "te:markets:574852",
-      "time": "2026-08-13 08:20:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Firm on Tame US Inflation Data — Gold held above $4,400 an ounce on Thursday, hovering near ten-week highs as relatively stable US consumer inflation reduced pressure on the Federal Reserve to raise interest rates in the near term. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Investors now await producer inflation data due later in the global day for further clues on the trajectory of price pressures. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. Gold also drew support from a pullback in oil prices as investors assessed the prospects of a deal to reopen the Strait of Hormuz. However, escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement."
-    },
-    {
-      "id": "5038288",
-      "time": "2026-08-13 08:20:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【力拓旗下澳大利亞最大鋁冶煉廠獲長期電力供應保障】8月13日，力拓宣佈，Tomago鋁冶煉廠與澳大利亞政府、新南威爾士州政府達成協議，將透過一份為期10年的購電協議（PPA）獲得長期電力供應，協議覆蓋至2038年。該協議將於現有電力合同2028年12月31日到期後生效，2033年起電力將全部來自可再生能源。根據協議，Tomago鋁冶煉廠計劃到2038年投資11億澳元，其中1億澳元用於脫碳專案。Tomago鋁冶煉廠年產鋁最多59萬噸，約佔澳大利亞年產量的40%，直接僱用約1000人。力拓持有該合資企業51.55%股權。"
-    },
-    {
-      "id": "5038287",
-      "time": "2026-08-13 08:19:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行助理行長肯特：金融環境“略顯保守”。"
-    },
-    {
-      "id": "mkt:019ff87d-31f4-7aab-9015-02a7870e4062",
-      "time": "2026-08-13 08:19:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Wall Street Journal reports, citing sources, that Mexico is pushing to lower auto tariffs in USMCA negotiations."
     }
   ]
 }
