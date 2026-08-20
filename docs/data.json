@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-21 04:59:32",
-  "count": 16085,
+  "updated": "2026-08-21 05:03:22",
+  "count": 16087,
   "items": [
+    {
+      "id": "5050807",
+      "time": "2026-08-21 05:02:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮釋出的備忘錄稱，到 2030 年，太空運輸靶場規模必須實現擴容，以支援每年超 1000 次發射與再入任務。"
+    },
+    {
+      "id": "5050806",
+      "time": "2026-08-21 05:01:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普簽署備忘錄，旨在助力推動美國太空發射業務發展。"
+    },
+    {
+      "id": "mkt:01a020fa-59f2-7aab-90c1-a25029b0ebad",
+      "time": "2026-08-21 05:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: U.S. President Trump signed a memorandum to promote U.S. space launches."
+    },
+    {
+      "id": "5050805",
+      "time": "2026-08-21 05:00:40",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國七月生產者物價指數自2025年八月以來首次環比下降。\n韓國7月PPI年率 7.7%，前值由8.60%修正為8.5%。\n韓國7月PPI月率 -0.4%，前值由0%修正為0%。"
+    },
+    {
+      "id": "mkt:01a020f9-9e90-7aab-90c1-983b2066d6d5",
+      "time": "2026-08-21 05:00:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's July producer price index (PPI) fell month-on-month for the first time since August 2025."
+    },
+    {
+      "id": "mkt:01a020f9-64d3-7aab-90c1-9009a737d1db",
+      "time": "2026-08-21 05:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "South Korea July PPI m/m -0.4% (prior 0.0%)."
+    },
+    {
+      "id": "mkt:01a020f9-6462-7aab-90c1-8fd3c46047a4",
+      "time": "2026-08-21 05:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea July PPI YoY 7.7%; prior reading revised to 8.5% from 8.60%."
+    },
+    {
+      "id": "mkt:01a020f9-3df3-7aab-90c1-812fea4e9af2",
+      "time": "2026-08-21 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (YoY) (Jul) | actual 7.7% | previous 8.60%"
+    },
+    {
+      "id": "mkt:01a020f9-3dec-7aab-90c1-7b457a5c4186",
+      "time": "2026-08-21 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (MoM) (Jul) | actual -0.4% | previous 0%"
+    },
+    {
+      "id": "5050804",
+      "time": "2026-08-21 04:59:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（8月20日）紐約尾盤，現貨黃金漲0.08%，報4519.36美元/盎司，整體呈現出V形走勢。現貨白銀漲1.16%，報68.0944美元/盎司。COMEX銅期貨跌0.17%，報6.5840美元/磅。"
+    },
     {
       "id": "5050803",
       "time": "2026-08-21 04:54:44",
@@ -147089,83 +147177,6 @@
         "Importance 1"
       ],
       "text": "South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%."
-    },
-    {
-      "id": "5040045",
-      "time": "2026-08-14 05:03:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（8月13日）紐約尾盤（週五北京時間04:59），美元兌離岸人民幣（CNH）報6.7444元，較週三紐約尾盤跌14點，日內整體交投於6.74793-6.74218元區間。"
-    },
-    {
-      "id": "mkt:019ffcef-5565-7aab-902e-2c2ccfca117d",
-      "time": "2026-08-14 05:02:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Fed pauses Treasury purchases for reserve management】The Federal Reserve said it will suspend Treasury purchases aimed at managing banking system reserves (RMP) for the next month, indicating reserves have reached a level the Fed considers adequate. The New York Fed said RMP buys will be paused for the operation cycle ending Sept. 14, while it will continue roughly $17.0 billion of maturing-principal reinvestments. The Fed said the adjustment is an operational change only and does not reflect a shift in monetary policy stance or balance-sheet strategy. It noted that higher US government cash balances could strain market liquidity but that funding markets remain functioning. In July SOFR was below the IORB for most of the month; the Aug. 12 SOFR fix was 3.62%, 3bp under the IORB."
-    },
-    {
-      "id": "te:markets:575188",
-      "time": "2026-08-14 05:02:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Arab Emirates",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "International Holding Company PJSC Stock Price Hits Near 4-year Low — International Holding Company PJSC shares decreased to 375.00 AED, the lowest since October 2022. Over the past 4 weeks, International Holding Company PJSC lost 1.32%, and in the last 12 months, it decreased 6.3%."
-    },
-    {
-      "id": "5040044",
-      "time": "2026-08-14 05:00:12",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "韓國7月出口物價指數年率 49.1%，前值由48.90%修正為48.7%。\n韓國7月進口物價指數年率 18.7%，前值由20.60%修正為20.9%。"
-    },
-    {
-      "id": "mkt:019ffcec-ebca-7aab-902e-256991d5b162",
-      "time": "2026-08-14 05:00:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea export price index up 49.1% YoY in July; prior reading revised to 48.7% from 48.90%."
-    },
-    {
-      "id": "mkt:019ffcec-e206-7aab-902e-1cfce778923f",
-      "time": "2026-08-14 05:00:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "South Korea July import price index YoY +18.7%; previous reading revised from 20.60% to 20.9%."
-    },
-    {
-      "id": "mkt:019ffcec-b98b-7aab-902e-13921dc4c225",
-      "time": "2026-08-14 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Import Price Index (YoY) (Jul) | actual 18.7% | previous 20.60%"
-    },
-    {
-      "id": "mkt:019ffcec-b95e-7aab-902e-084ed4fe29ed",
-      "time": "2026-08-14 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Export Price Index (YoY) (Jul) | actual 49.1% | previous 48.90%"
     }
   ]
 }
