@@ -1,7 +1,31 @@
 {
   "date": "2026-08-21",
-  "count": 401,
+  "count": 403,
   "items": [
+    {
+      "id": "mkt:01a0212c-728c-7aab-90c1-fd8c2ffb46cb",
+      "time": "2026-08-21 05:55:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed foreign reverse repo balance rises to highest since Oct 2022】Usage of the Federal Reserve's reverse repo (RRP) facility by foreign central banks and other monetary authorities has climbed for a second consecutive week, signalling overseas official entities are boosting dollar cash reserves. As of Aug 19, foreign holders parked $373bn in the Fed's RRP pool, up from $357bn a week earlier; the facility has gained about $56bn since Aug 5, the largest two-week increase since Oct 2022. Market participants are watching RRP flows for signs that Japan, after last month's yen-supporting FX intervention, may be re-accumulating dollar liquidity."
+    },
+    {
+      "id": "5050820",
+      "time": "2026-08-21 05:53:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國得州石油大亨浮出水面，成古巴鎳礦商神秘競標者】阿爾伯特·赫德爾斯頓（Albert Huddleston）是嘉能可（Glencore Plc.）及其他方收購加拿大謝里特國際公司（Sherritt International Corp.）控股權提案中的錨定投資者。該財團的提案將為謝里特提供新資金，以換取公司完全稀釋後至少55%的股份。謝里特目前正與吉倫資本（Gillon Capital LLC）進行獨家談判，但以嘉能可為首的財團——其中包括謝里特最大的債權人之一——正在法庭上對謝里特發起挑戰，並要求進行股東投票。"
+    },
     {
       "id": "mkt:01a02122-c2af-7aab-90c1-f1c44842590f",
       "time": "2026-08-21 05:45:21",
