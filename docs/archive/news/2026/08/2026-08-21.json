@@ -1,7 +1,23 @@
 {
   "date": "2026-08-21",
-  "count": 406,
+  "count": 408,
   "items": [
+    {
+      "id": "mkt:01a02134-0dea-7aab-90c2-0a4768f203a2",
+      "time": "2026-08-21 06:04:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yomiuri reports Japanese prime minister plans a cabinet reshuffle in mid-to-late September."
+    },
+    {
+      "id": "mkt:01a02131-b3f0-7aab-90c2-01ec65dbc68d",
+      "time": "2026-08-21 06:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump's former lawyer Michael Cohen confirmed the former president will appear on Cohen's podcast at 6:00 p.m. ET Thursday."
+    },
     {
       "id": "5050823",
       "time": "2026-08-21 06:00:39",
