@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-21 05:15:01",
+  "updated": "2026-08-21 05:18:54",
   "count": 16084,
   "items": [
+    {
+      "id": "te:economy:576963",
+      "time": "2026-08-21 05:16:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "South Korea Producer Prices Growth Slows in July — South Korea’s producer prices rose 7.7% year-over-year in July 2026, easing from an 8.5% increase in June. Manufacturing producer prices climbed 12.2%, led by a 50.7% surge in coal and petroleum products. Prices for computers, electronic and optical equipment rose 24.2%, while chemical products increased 17.5% and basic metal products advanced 16.1%. Meanwhile, prices of agricultural, forestry and marine products rose 0.7%, while service prices increased 4%. In contrast, prices of mining products edged 0.7% lower. On a monthly basis, the Producer Price Index decreased 0.4% after remaining flat in June."
+    },
+    {
+      "id": "5050813",
+      "time": "2026-08-21 05:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體Fars News：以色列戰鬥機進入黎巴嫩空域，以色列對黎巴嫩南部阿里塔赫爾高地發動了空襲。"
+    },
+    {
+      "id": "5050812",
+      "time": "2026-08-21 05:16:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.25%，報14695點。"
+    },
+    {
+      "id": "5050811",
+      "time": "2026-08-21 05:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼與墨西哥總統辛鮑姆通了電話。卡尼對辛鮑姆表示感謝，感謝墨西哥今年夏季協助加拿大撲救野火，派出 400 餘名消防員及支援人員。雙方就影響北美貿易的最新局勢交換意見。雙方強調，應當儘快更新《美加墨協定》，為北美企業與勞動者帶來更強的政策確定性。兩國領導人探討了加墨跨境貿易取得的進展，強調緊密的雙邊合作對整個北美大陸的共同安全與繁榮至關重要。卡尼總理與辛鮑姆總統同意雙方將保持密切溝通。"
+    },
+    {
+      "id": "mkt:01a02106-a567-7aab-90c1-d006bde71ed7",
+      "time": "2026-08-21 05:14:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the G20 should return to its core mission: discuss what individual countries and economies can do and how to cooperate to deliver stronger global growth. He said the message to allies and trading partners is that stronger global growth is the way to address mounting debt burdens."
+    },
     {
       "id": "mkt:01a02105-47ad-7aab-90c1-cb043c7c18fa",
       "time": "2026-08-21 05:13:09",
@@ -147109,52 +147153,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨夜盤收盤漲0.03%。"
-    },
-    {
-      "id": "mkt:019ffcfe-0473-7aab-902e-531fc0540dc8",
-      "time": "2026-08-14 05:18:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XOM.N"
-      ],
-      "text": "Guyana government data show Exxon Mobil (XOM.N) oil output was 895,000 bpd in May, falling to 869,000 bpd in June."
-    },
-    {
-      "id": "5040054",
-      "time": "2026-08-14 05:17:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚蓋亞那聯合體原油產量 5 月為 89.5 萬桶 / 日，6 月為 86.9 萬桶 / 日。"
-    },
-    {
-      "id": "5040053",
-      "time": "2026-08-14 05:16:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Reddit 即將納入標普 500 指數  。"
-    },
-    {
-      "id": "5040052",
-      "time": "2026-08-14 05:15:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果就應用商店費率訴訟向法院提交檔案。"
-    },
-    {
-      "id": "5040051",
-      "time": "2026-08-14 05:15:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：應對 App Store 外鏈跳轉交易收取 15% 分成。"
     }
   ]
 }
