@@ -1,7 +1,42 @@
 {
   "date": "2026-08-21",
-  "count": 430,
+  "count": 434,
   "items": [
+    {
+      "id": "5050841",
+      "time": "2026-08-21 06:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：SK 海力士將在日本宮城縣興建儲存晶片工廠。"
+    },
+    {
+      "id": "5050840",
+      "time": "2026-08-21 06:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西希望將汽油補貼延長 30 天。"
+    },
+    {
+      "id": "te:markets:576966",
+      "time": "2026-08-21 06:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.78% — Top commodity gainers are Silver (1.78%) and Platinum (1.58%). Biggest losers are Silicon (-0.74%) and Iron Ore CNY (-0.70%). Meanwhile Gold was little changed."
+    },
+    {
+      "id": "5050839",
+      "time": "2026-08-21 06:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lemssouguer管理的對沖基金規模在7月份縮水8%。"
+    },
     {
       "id": "mkt:01a0214f-859a-7aab-90c2-30502f6a9c49",
       "time": "2026-08-21 06:34:14",

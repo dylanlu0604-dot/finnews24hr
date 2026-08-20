@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-21 06:34:40",
-  "count": 16054,
+  "updated": "2026-08-21 06:38:32",
+  "count": 16052,
   "items": [
+    {
+      "id": "5050841",
+      "time": "2026-08-21 06:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：SK 海力士將在日本宮城縣興建儲存晶片工廠。"
+    },
+    {
+      "id": "5050840",
+      "time": "2026-08-21 06:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西希望將汽油補貼延長 30 天。"
+    },
+    {
+      "id": "te:markets:576966",
+      "time": "2026-08-21 06:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.78% — Top commodity gainers are Silver (1.78%) and Platinum (1.58%). Biggest losers are Silicon (-0.74%) and Iron Ore CNY (-0.70%). Meanwhile Gold was little changed."
+    },
+    {
+      "id": "5050839",
+      "time": "2026-08-21 06:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lemssouguer管理的對沖基金規模在7月份縮水8%。"
+    },
     {
       "id": "mkt:01a0214f-859a-7aab-90c2-30502f6a9c49",
       "time": "2026-08-21 06:34:14",
@@ -146817,59 +146852,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特：電價對通脹率的影響微乎其微。"
-    },
-    {
-      "id": "5040101",
-      "time": "2026-08-14 06:37:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4360美元/盎司，日內漲0.21%。"
-    },
-    {
-      "id": "5040100",
-      "time": "2026-08-14 06:36:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：霍爾木茲海峽石油運輸流量將持續走高。"
-    },
-    {
-      "id": "5040099",
-      "time": "2026-08-14 06:35:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：美國護送、轉運物資的能力正在增強。"
-    },
-    {
-      "id": "5040098",
-      "time": "2026-08-14 06:35:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：伊朗正試圖以全球經濟為要挾。"
-    },
-    {
-      "id": "te:markets:575193",
-      "time": "2026-08-14 06:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 2.15% — Top commodity losers are Iron Ore CNY (-2.15%), Platinum (-2.10%), Silver (-1.30%) and Gold (-1.16%)."
-    },
-    {
-      "id": "5040097",
-      "time": "2026-08-14 06:34:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。"
     }
   ]
 }
