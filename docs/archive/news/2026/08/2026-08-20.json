@@ -1,7 +1,71 @@
 {
   "date": "2026-08-20",
-  "count": 1018,
+  "count": 1025,
   "items": [
+    {
+      "id": "5049031",
+      "time": "2026-08-20 12:10:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石四藥：維生素K1注射液獲生產註冊批件】石四藥集團(02005.HK)在港公告，本集團已取得中國國家藥品監督管理局有關維生素K1注射液(1ml:10mg)的藥品生產註冊批件，屬於化學藥品第3類，視同透過一致性評價。維生素K1注射液主要用於治療維生素K缺乏性出血，和預防無法透過營養補充的維生素K缺乏症。"
+    },
+    {
+      "id": "mkt:01a01d5c-6e60-7aab-90a8-519533cbeec3",
+      "time": "2026-08-20 12:09:51",
+      "tags": [
+        "MKT News",
+        "EL.O",
+        "Impact bullish"
+      ],
+      "text": "Jefferies raises Estée Lauder PT to $100 from $88."
+    },
+    {
+      "id": "5049030",
+      "time": "2026-08-20 12:09:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇瑞汽車：2026年上半年營收1432.80億元 淨利同比降11.7%】奇瑞汽車公告稱，2026年上半年實現營業收入1432.80億元，同比增長1.2%；歸母淨利潤85.67億元，同比下降11.7%；毛利230.44億元，毛利率16.1%，同比提升3.1個百分點。報告期內研發投入66.72億元，同比增長28.3%。董事會不宣派報告期內中期股息。"
+    },
+    {
+      "id": "5049029",
+      "time": "2026-08-20 12:09:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【紫光國微：受晶圓等上游原材料成本上漲影響 未來不排除儲存產品漲價的可能】紫光國微8月19日在業績說明會上表示，公司在特種積體電路領域，除市場較為熟知的FPGA產品外，產品佈局還涵蓋AI+視覺感知、處理器、可程式設計器件、儲存器、網路與介面、模擬器件、ASIC/SoPC等多個專業領域。其中，公司在特種儲存領域的市場佔有率達80%左右。價格策略方面，出於國家戰略考慮及公司長期客戶關係，公司儲存產品此前基本未漲價。目前受晶圓等上游原材料成本上漲影響，未來不排除漲價的可能。未來，隨著下游應用逐步向智慧化演進，資料儲存需求持續增長，公司對特種儲存晶片市場的長期發展前景持樂觀態度。"
+    },
+    {
+      "id": "mkt:01a01d5b-aaa1-7aab-90a8-4ff240960338",
+      "time": "2026-08-20 12:09:01",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【JP Morgan: BOJ hike path pulled forward; sees year-end policy rate at 1.5%】JP Morgan now expects the BOJ’s next rate hike in September (previously October), adds a further move in December and raises its 2026 year‑end policy rate forecast to 1.5%. If the government’s fiscal stance does not change materially, JP Morgan projects additional hikes in April, July and December 2027, taking the year‑end policy rate to 2.25%. Markets have largely priced a September hike; a BOJ delay could raise volatility. JP Morgan’s underlying inflation gauge has risen into the mid‑2% range and fiscal expansion increases concern the BOJ is falling behind the curve; current policy rates remain low relative to economic fundamentals, implying a faster normalization path than previously assumed."
+    },
+    {
+      "id": "5049028",
+      "time": "2026-08-20 12:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞聲科技上半年淨利潤9.013億元人民幣，上年同期8.76億元人民幣。"
+    },
+    {
+      "id": "5049027",
+      "time": "2026-08-20 12:06:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永嘉集團：2026年上半年虧損941.9萬港元，同比減虧83.2%】永嘉集團公告，2026年上半年持續經營業務收益16.31億港元，同比增長3.0%。期內虧損941.9萬港元，上年同期虧損5605.5萬港元，同比減虧83.2%。每股基本盈利0.5港仙（上年同期虧損3.4港仙）。董事會不建議派付中期股息。"
+    },
     {
       "id": "5049026",
       "time": "2026-08-20 12:05:08",
