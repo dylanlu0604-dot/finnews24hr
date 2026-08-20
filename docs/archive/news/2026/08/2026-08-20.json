@@ -1,7 +1,270 @@
 {
   "date": "2026-08-20",
-  "count": 1161,
+  "count": 1188,
   "items": [
+    {
+      "id": "5049125",
+      "time": "2026-08-20 14:02:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義翹神州等成立健康產投合夥企業】企查查APP顯示，近日，無錫清松遠景健康產業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由義翹神州等共同出資。"
+    },
+    {
+      "id": "mkt:01a01dc3-18f1-7aab-90aa-478d96c5748e",
+      "time": "2026-08-20 14:02:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland July seasonally adjusted real imports -2.8% MoM (prior -1.6%)."
+    },
+    {
+      "id": "mkt:01a01dc3-0587-7aab-90aa-3e62528b973d",
+      "time": "2026-08-20 14:01:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Switzerland seasonally adjusted real exports rose 10.7% MoM in July, prior -6.0%."
+    },
+    {
+      "id": "5049124",
+      "time": "2026-08-20 14:01:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股三大股指悉數翻綠，創業板指早盤一度漲1.6%，MLCC概念、儲存晶片板塊震盪走低。"
+    },
+    {
+      "id": "mkt:01a01dc3-0042-7aab-90aa-31237491865a",
+      "time": "2026-08-20 14:01:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Real Imports SA (MoM) (Jul) | actual -2.8% | previous -1.60%"
+    },
+    {
+      "id": "5049123",
+      "time": "2026-08-20 14:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士7月手錶出口同比增長9.6%。"
+    },
+    {
+      "id": "mkt:01a01dc2-e982-7aab-90aa-2ff79fe3f3f9",
+      "time": "2026-08-20 14:01:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Real Exports SA (MoM) (Jul) | actual 10.7% | previous -6.00%"
+    },
+    {
+      "id": "mkt:01a01dc2-d76e-7aab-90aa-25a82f976587",
+      "time": "2026-08-20 14:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China's three major A-share indices turned negative in early trade; the ChiNext index had risen as much as 1.6% earlier before reversing. MLCC and memory-chip sectors weakened."
+    },
+    {
+      "id": "mkt:01a01dc2-1a55-7aab-90aa-1bfeab1a4825",
+      "time": "2026-08-20 14:00:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's foreign minister Araqchi said US policy will bring failure and hostility."
+    },
+    {
+      "id": "mkt:01a01dc2-0032-7aab-90aa-10266fb124ec",
+      "time": "2026-08-20 14:00:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【34 Guangdong firms attend World Robot Conference】The 2026 World Robot Conference opened in Beijing on the 19th. Guangdong supplied 34 exhibiting companies — the largest provincial contingent nationwide — with multiple Guangdong tech firms displaying a diverse range of advanced robotic hardware."
+    },
+    {
+      "id": "5049122",
+      "time": "2026-08-20 14:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士7月貿易帳 81.41億瑞郎，前值52.24億瑞郎。"
+    },
+    {
+      "id": "mkt:01a01dc1-e64b-7aab-90aa-0cdbd3ad7df4",
+      "time": "2026-08-20 14:00:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland July trade surplus CHF 8.141 bln, versus CHF 5.224 bln previously."
+    },
+    {
+      "id": "5049121",
+      "time": "2026-08-20 14:00:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東34家企業參加世界機器人大會】2026世界機器人大會19日在北京拉開帷幕。廣東以34家參展企業的規模強勢亮相，參展主體數量位居全國第一梯隊。多家廣東科創企業帶來五花八門的機器人硬核產品，上演機器人實力大比拼。（廣東釋出）"
+    },
+    {
+      "id": "5049120",
+      "time": "2026-08-20 14:00:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【八部門聯合部署2026年度檢驗檢測機構“雙隨機、一公開”監督抽查】市場監管總局聯合公安部、自然資源部、生態環境部、交通運輸部、水利部、海關總署、國家藥監局印發通知，決定在全國範圍開展檢驗檢測機構“雙隨機、一公開”監督抽查，強化檢驗檢測活動監管，規範檢驗檢測市場秩序，提升行業公信力，為經濟社會高質量發展提供有力支撐。《通知》明確，2026年度檢驗檢測機構國家監督抽查計劃檢查120家機構，包括100家獲市場監管總局資質認定的檢驗檢測機構和20家獲省級資質認定的檢驗檢測機構。"
+    },
+    {
+      "id": "mkt:01a01dc1-bdaf-7aab-90aa-0122644b97c7",
+      "time": "2026-08-20 14:00:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Trade Balance (Jul) | actual 8141000000B | previous 5224000000B"
+    },
+    {
+      "id": "mkt:01a01dc1-a1fe-7aab-90a9-f82febfa8ac4",
+      "time": "2026-08-20 14:00:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【Samsung Foundry pushes 1.4nm volume production to 2029】At SAFE Forum 2026 Samsung Foundry updated its technology roadmap, moving 1.4nm volume production to 2029 — roughly one year later than TSMC’s A14 plan for 2028 volume production. Samsung had previously forecast in 2022 that 2nm would reach volume production in 2025 and 1.4nm in 2027."
+    },
+    {
+      "id": "mkt:01a01dc1-89bc-7aab-90a9-f5ee403823b3",
+      "time": "2026-08-20 14:00:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Iran's foreign minister Araghchi said Trump's reference to an economic \"D-Day\" is a US ploy to divert attention from domestic crises."
+    },
+    {
+      "id": "5049119",
+      "time": "2026-08-20 14:00:17",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國7月PPI月率 1.1%，預期0.7%，前值-0.30%。德國7月PPI年率 3%，預期2.7%，前值1.80%。"
+    },
+    {
+      "id": "mkt:01a01dc1-7bb1-7aab-90a9-e989a8b7b87c",
+      "time": "2026-08-20 14:00:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany July PPI YoY 3.0% vs 2.7% expected; prior 1.8%."
+    },
+    {
+      "id": "mkt:01a01dc1-7a2f-7aab-90a9-e066d10d4cd0",
+      "time": "2026-08-20 14:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Germany July PPI MoM +1.1% vs +0.7% expected; June -0.3%."
+    },
+    {
+      "id": "mkt:01a01dc1-6a24-7aab-90a9-d8410ad9f8a8",
+      "time": "2026-08-20 14:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01024.HK",
+        "Impact bearish"
+      ],
+      "text": "【Daiwa cuts Kuaishou to Hold, trims PT to HK$40 after Q2; flags H2 deterioration】Daiwa downgraded Kuaishou (01024.HK) two notches to Hold after Q2 results that met expectations, cutting its 2026 net-profit forecast by about 40% and lowering its target price to HK$40 (down 44%). The broker trimmed adjusted EPS estimates for 2026–28 by 39–43%. Daiwa expects Kuaishou’s core business to deteriorate in H2, with particular weakness in online marketing and “other services” (including e‑commerce commissions and its Keling AI). Its 2026 forecasts: online marketing revenue -1% YoY, live-streaming revenue -16% YoY, other services +10% YoY, and consolidated revenue -3.5% YoY. Gross margin is seen falling from 55% in 2025 to 51% in 2026; adjusted net margin is expected to slide from 14.5% to 7%, implying adjusted net profit of about 9.5 bln yuan."
+    },
+    {
+      "id": "mkt:01a01dc1-5d31-7aab-90a9-d4d2fdcfc142",
+      "time": "2026-08-20 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Producer Price Index (YoY) (Jul) | actual 3% | consensus 2.7% | previous 1.80%"
+    },
+    {
+      "id": "mkt:01a01dc1-5d31-7aab-90a9-cb022c09e032",
+      "time": "2026-08-20 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Producer Price Index (MoM) (Jul) | actual 1.1% | consensus 0.7% | previous -0.30%"
+    },
+    {
+      "id": "mkt:01a01dc1-1234-7aab-90a9-c3c5527476cb",
+      "time": "2026-08-20 13:59:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share grain sector rallied. Jingliang Holdings climbed over 7% after earlier hitting a limit-down; Qiule Seed and Kangnong Seed also advanced."
+    },
+    {
+      "id": "5049118",
+      "time": "2026-08-20 13:59:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星晶圓代工技術藍圖調整 1.4奈米延後至2029年量產】三星晶圓代工近期在SAFE Forum 2026論壇上更新技術藍圖，調整1.4奈米量產時間，目前已預告預定2029年量產，相關目標將晚於臺積電約一年（臺積電A14計劃於2028年如期進入量產）。三星晶圓代工最初在2022年曾釋出新聞稿預告，2奈米2025年量產以及1.4奈米2027年量產。"
+    },
+    {
+      "id": "5049117",
+      "time": "2026-08-20 13:59:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【糧食概念板塊衝高，京糧控股漲超7%】糧食概念板塊衝高，京糧控股漲超7%，此前一度跌停，秋樂種業、康農種業紛紛上揚。"
+    },
+    {
+      "id": "5049116",
+      "time": "2026-08-20 13:58:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東曹鵬：具身智慧需要解決高質量具身資料不足的問題】在2026世界機器人大會主論壇，京東集團技術委員會主席、京東雲總裁曹鵬表示，全球具身智慧正在進入規模化落地的元年。但在規模化部署背後，行業仍然面臨資料這一核心瓶頸。當前可用的高質量具身資料，大多還停留在數十萬小時級別；而要支撐通用具身模型走向成熟，行業所需的資料量級將超過1000萬小時。真實場景互動資料獲取難、成本高；資料多樣性不足，限制模型泛化能力；不同機器人本體之間還存在資料孤島。所以，具身智慧的競爭，表面上是模型能力的競爭，本質上是資料規模、資料質量和資料體系化能力的競爭。"
+    },
     {
       "id": "5049115",
       "time": "2026-08-20 13:57:49",
