@@ -1,7 +1,208 @@
 {
-  "updated": "2026-08-20 23:20:13",
-  "count": 15972,
+  "updated": "2026-08-20 23:24:04",
+  "count": 15990,
   "items": [
+    {
+      "id": "mkt:01a01fc5-333a-7aab-90bc-159a0b18b826",
+      "time": "2026-08-20 23:23:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said he is trying to restore balance to thinly traded markets."
+    },
+    {
+      "id": "5050526",
+      "time": "2026-08-20 23:23:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：正努力讓流動性稀薄的市場迴歸均衡狀態。"
+    },
+    {
+      "id": "mkt:01a01fc4-ee07-7aab-90bc-0f38c01ec072",
+      "time": "2026-08-20 23:23:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Treasury Secretary Bessent said any 24-hour move in the bond market is noise."
+    },
+    {
+      "id": "5050525",
+      "time": "2026-08-20 23:23:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【吉爾吉斯斯坦歡迎中方對吉公民實施過境免籤政策】吉爾吉斯斯坦總統辦公廳20日在社交媒體發表宣告說，吉方歡迎中方將吉爾吉斯斯坦納入240小時過境免籤和海南30天入境免籤政策適用國家範圍。吉總統辦公廳對外政策局局長阿布杜穆塔利普在宣告中說，相信這一舉措將為兩國發展貿易和旅遊合作創造條件。中國國家移民管理局8月20日釋出公告，自2026年8月20日起，吉爾吉斯斯坦、越南公民可適用240小時過境免籤政策和海南30天入境免籤政策來華。至此，240小時過境免籤政策適用國家增至57國，海南30天入境免籤政策適用國家增至61國。（新華社）"
+    },
+    {
+      "id": "5050524",
+      "time": "2026-08-20 23:22:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金<程式碼開始>XAU=```走勢反轉，最新上漲0.2%，報每盎司4530.09美元。"
+    },
+    {
+      "id": "5050523",
+      "time": "2026-08-20 23:22:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特談債券行情：24 小時內的波動都屬於噪音。"
+    },
+    {
+      "id": "mkt:01a01fc4-221a-7aab-90bc-07aad3040949",
+      "time": "2026-08-20 23:22:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "US Treasury Secretary Bessent said he supports Europe but that it needs to follow the recommendations of the Draghi report."
+    },
+    {
+      "id": "mkt:01a01fc3-bc1a-7aab-90bb-fda14232be02",
+      "time": "2026-08-20 23:21:56",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said firms are competing for capital; corporate investment will boost productivity growth."
+    },
+    {
+      "id": "mkt:01a01fc3-7df8-7aab-90bb-f4711692e368",
+      "time": "2026-08-20 23:21:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is trying to get people to focus on fundamentals."
+    },
+    {
+      "id": "mkt:01a01fc3-3842-7aab-90bb-e808f54e49da",
+      "time": "2026-08-20 23:21:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he does not want market participants trading headlines in illiquid markets."
+    },
+    {
+      "id": "mkt:01a01fc3-18d6-7aab-90bb-e7b50618e507",
+      "time": "2026-08-20 23:21:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said large corporate bond issuance is \"not sensitive\" to yields."
+    },
+    {
+      "id": "mkt:01a01fc2-fc5a-7aab-90bb-de8ec05255b9",
+      "time": "2026-08-20 23:21:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said some firms are issuing bonds at the long end."
+    },
+    {
+      "id": "5050521",
+      "time": "2026-08-20 23:20:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝森特：很多公司債券發行都是收益率無關型的。"
+    },
+    {
+      "id": "5050520",
+      "time": "2026-08-20 23:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：企業投資將提振生產率增長。"
+    },
+    {
+      "id": "5050519",
+      "time": "2026-08-20 23:20:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：企業正在爭奪資本資源。"
+    },
+    {
+      "id": "5050518",
+      "time": "2026-08-20 23:20:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：我支援歐洲，但歐洲需要落實德拉吉報告。"
+    },
+    {
+      "id": "5050517",
+      "time": "2026-08-20 23:20:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：倘若我是企業高管，會重點關注債券中段期限。"
+    },
+    {
+      "id": "5050516",
+      "time": "2026-08-20 23:20:17",
+      "tags": [
+        "宏觀",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及美國國債時表示：會考慮讓企業發行更多5年期債務。"
+    },
+    {
+      "id": "mkt:01a01fc2-0340-7aab-90bb-d22ac893ca41",
+      "time": "2026-08-20 23:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said on U.S. Treasuries he will monitor developments and assess whether further action is needed, urged focus on fundamentals and said the Treasury is working to maintain market balance."
+    },
+    {
+      "id": "5050515",
+      "time": "2026-08-20 23:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：不少優質企業正在發行長期債券。"
+    },
+    {
+      "id": "5050514",
+      "time": "2026-08-20 23:19:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：不少企業債發行對收益率高低並不敏感。"
+    },
+    {
+      "id": "te:economy:576912",
+      "time": "2026-08-20 23:19:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Argentina Consumer Confidence Declines in August — Argentina’s Consumer Confidence Index fell 1.08% month-over-month to 40.23 points in August 2026, following a 4.8% decline in July. By sub-index, Macroeconomic Conditions increased 3.06%, while all other components declined. The largest decrease was recorded in Durable Goods and Real Estate (-4.03%), followed by Personal Situation (-3.31%). By region, the ICC increased in CABA and Greater Buenos Aires, while declining in the Interior. GBA posted the largest increase (0.41%), followed by CABA (0.11%), while the Interior declined 3.79%. The Interior continued to record the highest index level at 43.82 points, while GBA had the lowest at 38.27 points. By income level, results were mixed, with low-income households recording a 2.13% increase and high-income households posting a 1.76% decline. High-income households continued to have a higher index at 42.68 points, compared with 36.76 points for low-income households."
+    },
     {
       "id": "5050513",
       "time": "2026-08-20 23:19:33",
@@ -146043,43 +146244,6 @@
         "其他"
       ],
       "text": "市場訊息：AMD擬透過發債募資至多50億美元。"
-    },
-    {
-      "id": "mkt:019ffbb7-2795-7aab-9029-90669bd45b3c",
-      "time": "2026-08-13 23:21:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said reports about the situation aboard the USS Abraham Lincoln are misinformation."
-    },
-    {
-      "id": "mkt:019ffbb6-c945-7aab-9029-8df5c615e7b9",
-      "time": "2026-08-13 23:21:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Defense Secretary Hegseth said the United States can sustain a blockade of Iran for as long as necessary."
-    },
-    {
-      "id": "5039826",
-      "time": "2026-08-13 23:21:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞斯稱，關於“亞伯拉罕·林肯”號航母上狀況的報道存在失實陳述。"
-    },
-    {
-      "id": "5039825",
-      "time": "2026-08-13 23:20:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨<CLc1>和布蘭特原油期貨<LCOc1>縮減跌幅，下跌1美元，此前有報導稱，胡塞武裝用兩架無人機襲擊了沙特阿美在吉讚的煉油廠。"
     }
   ]
 }
