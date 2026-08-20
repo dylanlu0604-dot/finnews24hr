@@ -1,7 +1,306 @@
 {
   "date": "2026-08-20",
-  "count": 3274,
+  "count": 3300,
   "items": [
+    {
+      "id": "mkt:01a01fcf-9e29-7aab-90bd-086fed488669",
+      "time": "2026-08-20 23:34:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Fed official MUSALEM said credit is being crowded out in some parts of the economy."
+    },
+    {
+      "id": "mkt:01a01fcf-1408-7aab-90bd-02f4523dc637",
+      "time": "2026-08-20 23:34:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Musalem said a rebound in productivity is pushing up the neutral interest rate (r*)."
+    },
+    {
+      "id": "mkt:01a01fce-f853-7aab-90bc-fcd2926e37c7",
+      "time": "2026-08-20 23:34:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve official MUSALEM said productivity is recovering and the best thing the Fed can do for growth is to restore inf to 2%."
+    },
+    {
+      "id": "mkt:01a01fce-bb20-7aab-90bc-f5689c5015b0",
+      "time": "2026-08-20 23:33:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's MUSALEM said core inflation at 2.5%-3% is too high and must be reduced."
+    },
+    {
+      "id": "5050551",
+      "time": "2026-08-20 23:33:42",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：美聯儲為促進增長能做的最佳舉措，就是讓通脹回落至2%目標水平。"
+    },
+    {
+      "id": "mkt:01a01fce-7899-7aab-90bc-eac6b355abc6",
+      "time": "2026-08-20 23:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 8-week Treasury bill auction to Aug. 20 — 46.16% of accepted bids awarded at the stop-out rate, versus 36.84% previously."
+    },
+    {
+      "id": "5050550",
+      "time": "2026-08-20 23:33:36",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：生產率正處於復甦程序中。"
+    },
+    {
+      "id": "mkt:01a01fce-4fda-7aab-90bc-e34021cf560f",
+      "time": "2026-08-20 23:33:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 4-week Treasury auction on Aug. 20 — share of awards at the stop-out (highest accepted) yield 14.61%, prior 79.23%."
+    },
+    {
+      "id": "5050549",
+      "time": "2026-08-20 23:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海特高新：就華芯科技股東權利糾紛開展維權】海特高新公告稱，公司與海嶽控股因華芯科技增資協議履行、股東權利等事項產生糾紛，經法院判決、貿仲終局裁決要求對方繼續履行增資協議約定後，海嶽控股等拒不執行生效法律文書。2026年8月18日，公司聯合華芯科技其他股東依法開展維權，恢復部分股東權利，後續將繼續依法依規維權。"
+    },
+    {
+      "id": "mkt:01a01fce-2b09-7aab-90bc-da3080e95da8",
+      "time": "2026-08-20 23:33:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Aug.20) | actual 14.61% | previous 79.23%"
+    },
+    {
+      "id": "mkt:01a01fcd-f94d-7aab-90bc-d4bd240712d3",
+      "time": "2026-08-20 23:33:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 8-week Treasury auction on Aug. 20: bid-cover ratio 3.06, prior 2.85."
+    },
+    {
+      "id": "mkt:01a01fcd-e622-7aab-90bc-cb30c369e45c",
+      "time": "2026-08-20 23:33:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 8-week Treasury bill auction to Aug 20 stop-out yield 3.655%, prior 3.665%."
+    },
+    {
+      "id": "5050548",
+      "time": "2026-08-20 23:32:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆薩勒姆：核心通脹在 2.5%‑3% 區間，該水平仍然過高。"
+    },
+    {
+      "id": "mkt:01a01fcd-d818-7aab-90bc-c12cec41736a",
+      "time": "2026-08-20 23:32:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Aug.20) | actual 3.06 | previous 2.85"
+    },
+    {
+      "id": "mkt:01a01fcd-c1fe-7aab-90bc-bb4e36b63175",
+      "time": "2026-08-20 23:32:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Aug.20) | actual 3.655% | previous 3.665%"
+    },
+    {
+      "id": "mkt:01a01fcd-bada-7aab-90bc-b4f5b3f005d7",
+      "time": "2026-08-20 23:32:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-week Treasury auction bid-cover ratio 2.84 on Aug 20; prior 2.77."
+    },
+    {
+      "id": "mkt:01a01fcd-b627-7aab-90bc-a828bcf72c4b",
+      "time": "2026-08-20 23:32:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-week Treasury auction to Aug. 20: stop-out yield 3.64% (up 1.5 bps from 3.625%)."
+    },
+    {
+      "id": "mkt:01a01fcd-991f-7aab-90bc-a5f5770923d9",
+      "time": "2026-08-20 23:32:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Aug.20) | actual 2.84 | previous 2.77"
+    },
+    {
+      "id": "mkt:01a01fcd-8518-7aab-90bc-98c94d5ec91e",
+      "time": "2026-08-20 23:32:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Aug.20) | actual 3.64% | previous 3.625%"
+    },
+    {
+      "id": "5050547",
+      "time": "2026-08-20 23:32:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四周期國債，得標利率3.640%，投標倍數2.84。拍賣八週期國債，得標利率3.655%，投標倍數3.06。"
+    },
+    {
+      "id": "mkt:01a01fcd-64ba-7aab-90bc-9517c80db925",
+      "time": "2026-08-20 23:32:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's MUSALEM said raising rates now could help avoid more aggressive action later."
+    },
+    {
+      "id": "mkt:01a01fcd-1e9f-7aab-90bc-8905a3ec8560",
+      "time": "2026-08-20 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's MUSALEM said elevated inf is driven by shocks and persistent demand."
+    },
+    {
+      "id": "5050546",
+      "time": "2026-08-20 23:32:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：現在加息可避免日後採取更激進的行動。"
+    },
+    {
+      "id": "5050545",
+      "time": "2026-08-20 23:31:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員穆薩萊姆：鑑於當前美聯儲利率水平，他認為通脹回落至2%的機率有所降低。"
+    },
+    {
+      "id": "5050544",
+      "time": "2026-08-20 23:31:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "貝森特發表言論後，美國國債收益率延續升勢；10年期國債收益率上升4.9個基點，至4.70%，30年期國債收益率上升5.9個基點，至5.249%。"
+    },
+    {
+      "id": "te:markets:576916",
+      "time": "2026-08-20 23:31:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ADP Stock Price Hits 42-week High — ADP shares increased to 280.62 USD, the highest since October 2025. Over the past 4 weeks, Automatic Data Processing gained 13.92%, and in the last 12 months, it decreased 8.01%."
+    },
     {
       "id": "mkt:01a01fcc-17f0-7aab-90bc-861c22b7a9b9",
       "time": "2026-08-20 23:31:04",
