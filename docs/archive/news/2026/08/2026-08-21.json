@@ -1,7 +1,15 @@
 {
   "date": "2026-08-21",
-  "count": 400,
+  "count": 401,
   "items": [
+    {
+      "id": "mkt:01a02122-c2af-7aab-90c1-f1c44842590f",
+      "time": "2026-08-21 05:45:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Citigroup may join core underwriting group for Anthropic IPO】Citigroup may join the lead underwriting team for AI firm Anthropic’s IPO alongside Morgan Stanley, Goldman and JP Morgan. Anthropic could file with regulators as early as the end of this month. Core bookrunner status would generate significant fees and improve a bank’s equity capital markets ranking; Citigroup is already high in U.S. IPO league tables after participating in SpaceX’s record $86.2 bln deal. IPO preparations are ongoing and the final syndicate could change, with additional banks possible."
+    },
     {
       "id": "5050819",
       "time": "2026-08-21 05:40:03",
