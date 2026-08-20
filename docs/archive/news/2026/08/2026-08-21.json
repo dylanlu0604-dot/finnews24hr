@@ -1,7 +1,95 @@
 {
   "date": "2026-08-21",
-  "count": 453,
+  "count": 462,
   "items": [
+    {
+      "id": "5050847",
+      "time": "2026-08-21 07:01:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國8月Gfk消費者信心指數 -14，預期-18，前值-17。"
+    },
+    {
+      "id": "mkt:01a02168-207f-7aab-90c2-c797aefc7e94",
+      "time": "2026-08-21 07:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK August GfK consumer confidence index -14; expected -18; prior -17."
+    },
+    {
+      "id": "mkt:01a02168-0574-7aab-90c2-bc71fd8890f7",
+      "time": "2026-08-21 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GfK Consumer Confidence Index (Aug) | actual -14 | consensus -18 | previous -17"
+    },
+    {
+      "id": "5050846",
+      "time": "2026-08-21 07:00:16",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞8月標普全球綜合PMI初值 52.5，前值53.2。\n澳大利亞8月標普全球製造業PMI初值 52，前值52。\n澳大利亞8月標普全球服務業PMI初值 52.9，前值53.6。"
+    },
+    {
+      "id": "mkt:01a02167-3cc3-7aab-90c2-b738283bafa0",
+      "time": "2026-08-21 07:00:08",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia Aug S&P Global services PMI preliminary 52.9, prior 53.6."
+    },
+    {
+      "id": "mkt:01a02167-3c57-7aab-90c2-adb19a49a576",
+      "time": "2026-08-21 07:00:08",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "Australia Aug S&P Global Composite PMI (flash) 52.5, down from 53.2 previously."
+    },
+    {
+      "id": "mkt:01a02167-3b95-7aab-90c2-a19140894419",
+      "time": "2026-08-21 07:00:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia August S&P Global manufacturing PMI (preliminary) 52, unchanged from previous 52."
+    },
+    {
+      "id": "mkt:01a02166-c630-7aab-90c2-997837bf86c5",
+      "time": "2026-08-21 06:59:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【APEC Energy Think Tank Forum Held in Dalian】Aug 20, Dalian — The APEC Energy Think Tank Forum brought together more than 100 delegates from 16 APEC economies, international organizations, think tanks and research institutes to discuss energy security, regional resilience, energy technology and innovation cooperation, and multilateral think‑tank networks. Participants called for institutionalized cooperation to remove barriers, coordinate energy security with the green transition, pursue coordinated innovation in key core technologies, and advance regional energy market interconnectivity to build an open, resilient Asia‑Pacific energy security framework. The 16th APEC Energy Ministers’ Meeting is scheduled for Sept. 10‑11 in Beijing."
+    },
+    {
+      "id": "mkt:01a02165-8ea5-7aab-90c2-95ef4e46e5c2",
+      "time": "2026-08-21 06:58:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump signs memo to expand U.S. launch infrastructure, targets 1,000+ annual launches by 2030】On Aug. 20 the White House said President Trump signed a memorandum directing U.S. spaceports and related facilities should be capable of supporting more than 1,000 launches and re-entries per year by 2030. The memo instructs agencies to expand and upgrade launch and re-entry infrastructure, open federal launch ranges to commercial users, encourage private investment and public‑private partnerships and joint infrastructure development, and accelerate facility permitting and environmental reviews. NASA is tasked with developing a commercial lunar logistics architecture, exploring commercial robotic Mars landings, and outlining architectures for commercial crewed round‑trip Mars missions."
+    },
     {
       "id": "5050845",
       "time": "2026-08-21 06:57:19",
