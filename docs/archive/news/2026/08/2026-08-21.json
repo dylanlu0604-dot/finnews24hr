@@ -1,7 +1,19 @@
 {
   "date": "2026-08-21",
-  "count": 309,
+  "count": 310,
   "items": [
+    {
+      "id": "te:markets:576957",
+      "time": "2026-08-21 03:56:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Wells Fargo Stock Price Hits 7-week Low — Wells Fargo shares decreased to 83.70 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo lost 4.55%, and in the last 12 months, it increased 7.61%."
+    },
     {
       "id": "5050775",
       "time": "2026-08-21 03:52:49",

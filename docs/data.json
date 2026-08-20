@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-21 03:54:40",
+  "updated": "2026-08-21 03:58:33",
   "count": 16104,
   "items": [
+    {
+      "id": "te:markets:576957",
+      "time": "2026-08-21 03:56:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Wells Fargo Stock Price Hits 7-week Low — Wells Fargo shares decreased to 83.70 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo lost 4.55%, and in the last 12 months, it increased 7.61%."
+    },
     {
       "id": "5050775",
       "time": "2026-08-21 03:52:49",
@@ -147349,18 +147361,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌1.89%】京東跌7.40%，網易有道跌6.02%，中比能源跌6.14%，中進醫療跌6.02%，Tims中國跌5.88%。"
-    },
-    {
-      "id": "te:markets:575181",
-      "time": "2026-08-14 03:55:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Merck Stock Price Hits 54-year High — Merck shares increased to 135.11 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 11.72%, and in the last 12 months, it increased 63.04%."
     }
   ]
 }
