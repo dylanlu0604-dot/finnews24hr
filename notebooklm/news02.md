@@ -1,7 +1,142 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:57:35_
-_本檔包含 3213 則快訊，約 639976 字_
+_更新時間：2026-08-21 06:38:32_
+_本檔包含 3204 則快訊，約 640698 字_
+
+---
+
+### 2026-08-20 06:34:59  #央行 #公司 #資料 #國際
+
+【週四重要財經資訊提醒（以下均為北京時間）】
+① 09:00 中國8月貸款市場報價利率、中國7月Swift人民幣在全球支付中佔比；
+② 09:30 澳大利亞7月失業率；
+③ 14:00 德國7月PPI；
+④ 15:00 中國商務部召開8月第1次例行新聞釋出會；
+⑤ 待定 阿里巴巴、泡泡瑪特釋出財報；
+⑥ 20:30 美國8月15日當週首次申請失業救濟人數、美國8月費城聯儲製造業指數；
+⑦ 22:00 美國7月諮商會領先指標；
+⑧ 22:30 美國8月14日當週EIA天然氣庫存；
+⑨ 23:10 美國2028年FOMC票委、聖路易聯儲主席穆薩萊姆接受CNBC的採訪。
+
+---
+
+### 2026-08-20 06:32:47  #MKT News #Market Regions #Japan & APAC
+
+Nikkei reports Japan's Ministry of Economy, Trade and Industry (METI) will seek ¥7.7 trillion in its FY2027 budget.
+
+---
+
+### 2026-08-20 06:30:23  #MKT News
+
+【U.S. expands Treasury buybacks, called a 'shot in the arm'; Asian stocks set to rebound Thursday】Asian equities looked set to rebound after the U.S. announced expanded Treasury buybacks. In early Asian trade U.S. stock index futures ticked higher. On Wednesday the majority of S&P 500 components rose despite weakness in chipmakers. Japan, South Korea and Australia index futures pointed to higher opens, which would end a two-day slide for regional benchmarks. Elevated U.S. Treasury yields have kept borrowing costs high, weighing on growth and adding political risk for Trump and Republicans ahead of the November midterms. Investors demanding higher returns to offset inf risk triggered the recent bond selloff; markets are watching whether the Treasury measure will lower yields. Matt Maley, chief market strategist at Miller Tabak +, said the move reflects government concern about the bond market and is a 'shot in the arm' that could lift risk assets in the short term unless investors view it as a sign of economic weakness.
+
+---
+
+### 2026-08-20 06:30:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Gasoline Drops by 2.83% — Top commodity losers are Gasoline (-2.83%) and Germany Natural Gas THE (-0.52%). Gains are led by Propane (1.38%), Crude Oil WTI (0.92%), Liquefied Natural Gas Japan Korea (0.91%) and Brent Crude Oil (0.58%).
+
+---
+
+### 2026-08-20 06:29:01  #其他
+
+【Hudson River Trading第二季度交易收入創紀錄 7月實現盈利】Hudson River Trading第二季度交易收入達到創紀錄的114億美元，並在7月實現盈利，扛住了AI股票暴跌的衝擊。知情人士透露，HRT季度交易收入較去年同期增長超過三倍，季度淨利潤為74億美元。第二季度調整後息稅折舊攤銷前利潤約為80億美元，較去年同期的17.5億美元增長超過350%。知情人士補充稱，HRT高管在與債券持有人的電話會議上表示，儘管7月市場受到Situational Awareness相關問題影響，但HRT並未直接投資於該基金，並且當月仍實現盈利。
+
+---
+
+### 2026-08-20 06:27:39  #國際
+
+據Axios記者：敘利亞過渡政府外交部長希巴尼在八份書面答覆中的一份中表示，土耳其無意在該地設立基地，也不打算在此建立土耳其永久軍事存在或部署土耳其軍隊。
+
+---
+
+### 2026-08-20 06:24:49  #國際
+
+市場訊息：日本經濟產業省擬在 2027 財年預算中申請 7.7 萬億日元。
+
+---
+
+### 2026-08-20 06:22:53  #MKT News
+
+Russian attack on Kyiv killed two and injured six.
+
+---
+
+### 2026-08-20 06:21:25  #觀點
+
+【財富管理轉型與股東回報雙向發力，多家券商上半年營收淨利雙增】8月19日，光大證券、興業證券披露2026年半年報。資料顯示：上半年，光大證券實現營業收入60.56億元、同比增長18.17%，歸母淨利潤22.29億元、同比增長32.45%；興業證券實現營業收入67.3億元、同比增長24.54%，歸母淨利潤21.29億元、同比增長60.08%。據統計，截至8月19日，已有6家上市券商披露半年報，上半年均實現營收淨利潤雙增。受訪人士認為，資本市場活躍度提升帶動券商多項業務回暖，在業績改善的基礎上，券商持續提升資本使用效率、強化股東回報，能夠形成“質效提升—業績增長—回報增強—價值提升”的良性迴圈，提升券商板塊的“吸引力”。（上證報）
+
+---
+
+### 2026-08-20 06:20:52  #其他
+
+加拿大美加貿易事務部長勒布朗： 加拿大總理卡尼與各省省長舉行了富有建設性且意義重大的會談。
+
+---
+
+### 2026-08-20 06:19:31  #國際
+
+加拿大美加貿易事務部長勒布朗：總理已向加拿大各省省長通報與美國的談判情況。
+
+---
+
+### 2026-08-20 06:15:37  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Ukrainian air force says Russia launched large-scale ballistic missile attack on Kyiv】Ukraine’s air force said in a social media post in the early hours of the 20th that Russian forces launched a new, large-scale round of ballistic missile strikes toward Kyiv. It warned multiple ballistic missiles were flying toward the capital from Chernihiv and Poltava regions. Multiple loud explosions were heard in Kyiv and a brief power outage hit the Dnipro district. Kyiv’s air-raid warning remained in force.
+
+---
+
+### 2026-08-20 06:15:15  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Swiss Franc Rises by 1.88% — Top currency gainers are Swiss Franc (1.88%), South Korean Won (1.82%), Swedish Krona (1.06%), Japanese Yen (0.97%), Euro (0.89%) and British Pound (0.55%). Biggest loser is Dollar Index (-0.88%).
+
+---
+
+### 2026-08-20 06:12:27  #國際
+
+新斯科舍省省長：加拿大總理卡尼已要求各省解除對美國酒類的禁令。
+
+---
+
+### 2026-08-20 06:10:12  #宏觀 #市場 #國際
+
+【美國擴大國債回購規模前一天，投資者創紀錄押注長期美債ETF】就在美國財政部意外宣佈擴大長期國債回購規模、推動債市上漲的前一天，一名或多名投資者週二大舉買入一隻對美國長期國債收益率波動高度敏感的ETF。當天，規模達15億美元的PIMCO 25年以上期零息美國國債指數ETF吸引了創紀錄的1.23億美元資金流入，成交量則躍升至520萬股，接近2024年創下的此前峰值的兩倍。該ETF投資於所謂的“剝離式國債”（STRIPS），即將債券本金和利息支付分離後形成的零息證券，因此能夠放大對美國長期利率走勢的押注。該ETF週三上漲3.2%，為自2024年11月以來的最大漲幅。然而，由於通脹和財政赤字引發的擔憂影響了長期國債，今年該基金已累計下跌5.4%。該基金的債券持倉有效久期約為28年，這意味著收益率每下降1個百分點，其價格將上升約28%。
+
+---
+
+### 2026-08-20 06:08:01  #宏觀
+
+【上證報：啟用民間投資，財政金融一攬子政策將發力】近期央地密集部署促進民間投資，一批務實管用的增量政策正謀劃出臺：加快落實“六張網”建設實施方案，創新投融資機制吸引社會資本；包括新型政策性金融工具在內的多路資金有望加快下達使用，加大對民間投資專案支援力度……多位專家表示，隨著政策加快落地，民間投資下行壓力有望緩解，逐步止跌回穩。從長期來看，投資結構將持續最佳化，民間投資將更多體現為“高質量、高技術”的結構性增長。
+
+---
+
+### 2026-08-20 06:07:53  #國際
+
+【聯合國警告：以色列定居點計劃威脅“兩國方案”】當地時間19日，聯合國秘書長發言人迪雅裡克表示，聯合國秘書長古特雷斯對有關以色列在約旦河西岸地區新建非法定居點前哨等行為深感震驚。古特雷斯表示，這一進展將實際上切斷約旦河西岸地區北部與南部之間的聯絡，呼籲以色列不要在這一問題上採取任何進一步行動，相關進展將嚴重影響被佔領巴勒斯坦領土的領土完整，並對“兩國方案”構成生存性威脅。（央視新聞）
+
+---
+
+### 2026-08-20 06:01:14  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為67.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為67.3%，累計加息25個基點的機率為32.7%。美聯儲到10月維持利率不變的機率為58.3%，累計加息25個基點的機率為37.3%，累計加息50個基點的機率為4.3%。
+
+---
+
+### 2026-08-20 06:00:46  #市場 #焦點
+
+現貨白銀突破67美元/盎司，日內漲0.18%。
+
+---
+
+### 2026-08-20 06:00:44  #市場 #焦點
+
+紐約期銀突破68美元/盎司，日內漲2.24%。
+
+---
+
+### 2026-08-20 06:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Ukrainian air force says Russian forces launch large-scale ballistic missile attack on Kyiv】The Ukrainian Air Force said on social media in the early hours of the 20th that Russian forces launched a new round of ballistic missile strikes targeting Kyiv. Around midnight it warned multiple ballistic missiles were heading toward Kyiv from Chernihiv and Poltava oblasts. Xinhua reporters heard several strong explosions in Kyiv and reported a short power outage in the Dnipro district; earlier they heard two separate rounds of sustained explosions. As of filing, Kyiv's air raid warning remained in effect.
 
 ---
 
@@ -19183,185 +19318,5 @@ New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input pri
 18:15 歐洲央行行長拉加德講話；
 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
 次日02:00 美聯儲釋出FOMC會議紀要。
-
----
-
-### 2026-08-19 06:46:27  #MKT News
-
-New Zealand Q2 input PPI YoY 4.1%, previous 1.8%.
-
----
-
-### 2026-08-19 06:46:23  #MKT News
-
-New Zealand Q2 output PPI YoY 3.2%, prior 2.2%.
-
----
-
-### 2026-08-19 06:46:22  #MKT News #Economic Calendar #Important
-
-New Zealand | Input PPI (YoY) (Q2) | actual 4.1% | previous 1.8%
-
----
-
-### 2026-08-19 06:46:17  #MKT News #Economic Calendar #Important
-
-New Zealand | Output PPI (YoY) (Q2) | actual 3.2% | previous 2.2%
-
----
-
-### 2026-08-19 06:45:07  #MKT News
-
-New Zealand Q2 imported PPI QoQ 2.9% (prior 1.4%).
-
----
-
-### 2026-08-19 06:45:07  #MKT News
-
-New Zealand Q2 output PPI rose 1.6% QoQ, versus 0.8% in the prior quarter.
-
----
-
-### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Output PPI (QoQ) (Q2) | actual 1.6% | previous 0.80%
-
----
-
-### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Input PPI (QoQ) (Q2) | actual 2.9% | previous 1.40%
-
----
-
-### 2026-08-19 06:44:01  #國際
-
-【美官員：以色列對敘空襲含政治考量，大選成重要動因】部分美國高階官員認為，以色列對敘利亞發動空襲，部分動因可能源於以色列即將在10月舉行的大選。這些官員表示，敘利亞此前一直尋求緩和緊張局勢，並希望建立一套由美國支援的以敘協調機制，但以色列拒絕落實該機制，反而加大對敘利亞南部的軍事入侵行動。美國官員擔憂，此舉正迫使大馬士革採取更強硬的對抗立場。特朗普政府已敦促敘利亞保持克制，並向敘方官員表示，待以色列大選結束後，各方或許更容易化解當前緊張局面。
-
----
-
-### 2026-08-19 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%).
-
----
-
-### 2026-08-19 06:39:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
-
-【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns.
-
----
-
-### 2026-08-19 06:38:17  #焦點 #國際
-
-【美官員：特朗普要求談判團隊暫停與伊朗接觸】一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。此外，一名知情人士表示，白宮官員近期向政治盟友傳達其對伊朗戰略正在發生轉變——從“儘快重擊伊朗”轉向長期“扼住伊朗的咽喉”。美國官員表示，特朗普已經要求其談判團隊暫時不要與伊朗方面接觸。該團隊成員包括美國副總統萬斯以及特朗普的特使威特科夫和特朗普的女婿庫什納。美國官員稱，這一指示是在美方此前與伊朗進行了一些“積極討論”之後作出的。對此，伊朗方面暫無回應。
-
----
-
-### 2026-08-19 06:37:45  #其他
-
-【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。 (上證報)
-
----
-
-### 2026-08-19 06:37:17  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
-
-【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic.
-
----
-
-### 2026-08-19 06:36:34  #其他
-
-OpenAI第二季度營收增長18%至67億美元，但虧損進一步擴大，業務增速落後於Anthropic。
-
----
-
-### 2026-08-19 06:36:25  #其他
-
-Anthropic營收翻倍，達到116億美元。受Claude程式碼業務驅動，其實現高速擴張，營收規模首次超越OpenAI。
-
----
-
-### 2026-08-19 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 4.04% — Top commodity losers are Platinum (-4.04%), Silver (-3.86%), Copper (-2.46%) and Gold (-1.83%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%).
-
----
-
-### 2026-08-19 06:32:00  #國際
-
-土耳其總統府：以色列總理提出的指控缺乏嚴肅性，其目的是為以色列針對敘利亞主權和領土完整的非法空襲合法化。
-
----
-
-### 2026-08-19 06:31:48  #MKT News #Market Themes #AI Revolution
-
-OpenAI said revenue rose to $6.7 bln in the three months to June, the Wall Street Journal reports.
-
----
-
-### 2026-08-19 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Rises by 3.97% — Top commodity gainers are Natural Gas EU (3.97%), Natural gas (3.72%), Propane (3.48%), Crude Oil WTI (0.93%) and Brent Crude Oil (0.43%).
-
----
-
-### 2026-08-19 06:29:33  #國際
-
-伊朗副外長加里巴巴迪：伊朗掌握自身命運，不會在壓力面前後退，本國人民將堅定反抗“脅迫與威脅”。
-
----
-
-### 2026-08-19 06:25:25  #國際
-
-【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。（新華社）
-
----
-
-### 2026-08-19 06:22:30  #其他
-
-OpenAI第二季度營收67億美元。
-
----
-
-### 2026-08-19 06:21:59  #MKT News #Important
-
-Market sources say ANTHROPIC is expected to launch an IPO process within weeks.
-
----
-
-### 2026-08-19 06:21:38  #其他
-
-OpenAI向投資者表示，第三季度業務增長已經提速。
-
----
-
-### 2026-08-19 06:21:32  #其他
-
-Anthropic（二季度）營收較一季度實現翻倍以上增長。
-
----
-
-### 2026-08-19 06:20:15  #其他 #焦點
-
-Anthropic預計將在數週內啟動IPO流程。
-
----
-
-### 2026-08-19 06:18:12  #國際
-
-韓國LG新能源正與美方洽談無人機電池合作事宜。
-
----
-
-### 2026-08-19 06:15:04  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Zealand Dollar (-0.47%), Australian Dollar (-0.29%), Polish Zloty (-0.26%), Japanese Yen (-0.12%) and British Pound (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile, Euro and Dollar Index were little changed.
-
----
-
-### 2026-08-19 06:14:56  #其他
-
-【朝中社發文譴責韓美“乙支自由護盾”聯合軍演】當地時間19日，朝中社發表評論文章，譴責美韓17日起進行“乙支自由護盾”大規模聯合軍演。文章稱，針對敵人日趨進化的威脅行動，朝鮮需要用進一步升級的新力量作出應對。侵害和威脅朝鮮主權安全的敵人將時刻被鎖定在殲滅性報復手段的瞄準範圍內。（央視新聞）
 
 ---

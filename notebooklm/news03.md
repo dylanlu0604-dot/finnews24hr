@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:57:35_
-_本檔包含 3281 則快訊，約 640069 字_
+_更新時間：2026-08-21 06:38:32_
+_本檔包含 3296 則快訊，約 640292 字_
+
+---
+
+### 2026-08-19 06:46:27  #MKT News
+
+New Zealand Q2 input PPI YoY 4.1%, previous 1.8%.
+
+---
+
+### 2026-08-19 06:46:23  #MKT News
+
+New Zealand Q2 output PPI YoY 3.2%, prior 2.2%.
+
+---
+
+### 2026-08-19 06:46:22  #MKT News #Economic Calendar #Important
+
+New Zealand | Input PPI (YoY) (Q2) | actual 4.1% | previous 1.8%
+
+---
+
+### 2026-08-19 06:46:17  #MKT News #Economic Calendar #Important
+
+New Zealand | Output PPI (YoY) (Q2) | actual 3.2% | previous 2.2%
+
+---
+
+### 2026-08-19 06:45:07  #MKT News
+
+New Zealand Q2 imported PPI QoQ 2.9% (prior 1.4%).
+
+---
+
+### 2026-08-19 06:45:07  #MKT News
+
+New Zealand Q2 output PPI rose 1.6% QoQ, versus 0.8% in the prior quarter.
+
+---
+
+### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Output PPI (QoQ) (Q2) | actual 1.6% | previous 0.80%
+
+---
+
+### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Input PPI (QoQ) (Q2) | actual 2.9% | previous 1.40%
+
+---
+
+### 2026-08-19 06:44:01  #國際
+
+【美官員：以色列對敘空襲含政治考量，大選成重要動因】部分美國高階官員認為，以色列對敘利亞發動空襲，部分動因可能源於以色列即將在10月舉行的大選。這些官員表示，敘利亞此前一直尋求緩和緊張局勢，並希望建立一套由美國支援的以敘協調機制，但以色列拒絕落實該機制，反而加大對敘利亞南部的軍事入侵行動。美國官員擔憂，此舉正迫使大馬士革採取更強硬的對抗立場。特朗普政府已敦促敘利亞保持克制，並向敘方官員表示，待以色列大選結束後，各方或許更容易化解當前緊張局面。
+
+---
+
+### 2026-08-19 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%).
+
+---
+
+### 2026-08-19 06:39:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
+
+【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns.
+
+---
+
+### 2026-08-19 06:38:17  #焦點 #國際
+
+【美官員：特朗普要求談判團隊暫停與伊朗接觸】一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。此外，一名知情人士表示，白宮官員近期向政治盟友傳達其對伊朗戰略正在發生轉變——從“儘快重擊伊朗”轉向長期“扼住伊朗的咽喉”。美國官員表示，特朗普已經要求其談判團隊暫時不要與伊朗方面接觸。該團隊成員包括美國副總統萬斯以及特朗普的特使威特科夫和特朗普的女婿庫什納。美國官員稱，這一指示是在美方此前與伊朗進行了一些“積極討論”之後作出的。對此，伊朗方面暫無回應。
+
+---
+
+### 2026-08-19 06:37:45  #其他
+
+【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。 (上證報)
+
+---
+
+### 2026-08-19 06:37:17  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
+
+【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic.
+
+---
+
+### 2026-08-19 06:36:34  #其他
+
+OpenAI第二季度營收增長18%至67億美元，但虧損進一步擴大，業務增速落後於Anthropic。
+
+---
+
+### 2026-08-19 06:36:25  #其他
+
+Anthropic營收翻倍，達到116億美元。受Claude程式碼業務驅動，其實現高速擴張，營收規模首次超越OpenAI。
+
+---
+
+### 2026-08-19 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 4.04% — Top commodity losers are Platinum (-4.04%), Silver (-3.86%), Copper (-2.46%) and Gold (-1.83%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%).
+
+---
+
+### 2026-08-19 06:32:00  #國際
+
+土耳其總統府：以色列總理提出的指控缺乏嚴肅性，其目的是為以色列針對敘利亞主權和領土完整的非法空襲合法化。
+
+---
+
+### 2026-08-19 06:31:48  #MKT News #Market Themes #AI Revolution
+
+OpenAI said revenue rose to $6.7 bln in the three months to June, the Wall Street Journal reports.
+
+---
+
+### 2026-08-19 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Rises by 3.97% — Top commodity gainers are Natural Gas EU (3.97%), Natural gas (3.72%), Propane (3.48%), Crude Oil WTI (0.93%) and Brent Crude Oil (0.43%).
+
+---
+
+### 2026-08-19 06:29:33  #國際
+
+伊朗副外長加里巴巴迪：伊朗掌握自身命運，不會在壓力面前後退，本國人民將堅定反抗“脅迫與威脅”。
+
+---
+
+### 2026-08-19 06:25:25  #國際
+
+【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。（新華社）
+
+---
+
+### 2026-08-19 06:22:30  #其他
+
+OpenAI第二季度營收67億美元。
+
+---
+
+### 2026-08-19 06:21:59  #MKT News #Important
+
+Market sources say ANTHROPIC is expected to launch an IPO process within weeks.
+
+---
+
+### 2026-08-19 06:21:38  #其他
+
+OpenAI向投資者表示，第三季度業務增長已經提速。
+
+---
+
+### 2026-08-19 06:21:32  #其他
+
+Anthropic（二季度）營收較一季度實現翻倍以上增長。
+
+---
+
+### 2026-08-19 06:20:15  #其他 #焦點
+
+Anthropic預計將在數週內啟動IPO流程。
+
+---
+
+### 2026-08-19 06:18:12  #國際
+
+韓國LG新能源正與美方洽談無人機電池合作事宜。
+
+---
+
+### 2026-08-19 06:15:04  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Zealand Dollar (-0.47%), Australian Dollar (-0.29%), Polish Zloty (-0.26%), Japanese Yen (-0.12%) and British Pound (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile, Euro and Dollar Index were little changed.
+
+---
+
+### 2026-08-19 06:14:56  #其他
+
+【朝中社發文譴責韓美“乙支自由護盾”聯合軍演】當地時間19日，朝中社發表評論文章，譴責美韓17日起進行“乙支自由護盾”大規模聯合軍演。文章稱，針對敵人日趨進化的威脅行動，朝鮮需要用進一步升級的新力量作出應對。侵害和威脅朝鮮主權安全的敵人將時刻被鎖定在殲滅性報復手段的瞄準範圍內。（央視新聞）
 
 ---
 
@@ -19707,95 +19887,5 @@ Fullgoal Investment Research Institute upgraded its rating on the global energy 
 ### 2026-08-17 21:26:32  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #AUDUSD #Impact bullish #GOOG.O
 
 Alphabet (GOOG.O) plans to raise $3.6 billion in its inaugural Australian bond offering.
-
----
-
-### 2026-08-17 21:25:33  #央行 #國際
-
-富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。美聯儲將在2027年加息25個基點，使基準利率升至4.00%-4.25%區間，此前預測為維持利率不變。
-
----
-
-### 2026-08-17 21:25:19  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fuguo Investment Research Institute forecasts the Federal Reserve will hike the federal funds target by 25bp in 2027 to 4.00%-4.25%, reversing a prior projection that rates would be held steady.
-
----
-
-### 2026-08-17 21:25:16  #央行 #美聯儲
-
-【富國投資研究所：美聯儲今年將加息25個基點】富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。
-
----
-
-### 2026-08-17 21:24:30  #國際
-
-【伊朗革命衛隊否認與美有秘密渠道】針對美國總統特朗普今天（8月17日）在接受採訪時稱“正透過秘密渠道與伊朗伊斯蘭革命衛隊官員進行談判”一事，伊朗伊斯蘭革命衛隊發言人穆罕默迪回應稱：“革命衛隊官員與美國人之間根本沒有任何會談。特朗普的謊言純屬幻想，是其戰敗和絕望導致的妄想和噩夢。”穆罕默迪進一步表示：“革命衛隊是伊朗人民和伊斯蘭共和國力量的象徵，向來用行動發聲，而外交磋商屬於伊朗政府其他部門的職權範圍。”他還援引伊朗外交部的表態強調指出，鑑於美國屢屢背信棄義的不良記錄，目前伊朗與美國未進行任何對話。 穆罕默迪強調：“特朗普的幻想對他毫無幫助。他試圖透過這些言論暫時控制石油等能源價格。然而，他只有一條真正的出路，那就是接受失敗並執行伊朗提出的條件。因此，美國越早接受失敗並據此作出決定，就越能避免國家遭受更大更嚴重的損失。”
-
----
-
-### 2026-08-17 21:23:30  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fullgoal Investment Research Institute now expects the Federal Reserve to raise rates by 25bps this year; it had previously forecast no change in policy rates.
-
----
-
-### 2026-08-17 21:22:06  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Saudi outlet Alhadath, citing Israeli political sources, reports that Prime Minister Benjamin Netanyahu and Jared Kushner have agreed to halt any Gaza reconstruction plans.
-
----
-
-### 2026-08-17 21:22:01  #MKT News #Market Themes #AI Revolution
-
-【Seedance 2.5 adds native 1080p; limited-time price cut to ~2.7 yuan/sec until Sep 17】Volcano Engine's website shows Seedance 2.5 now supports native 1080p video generation and the API is live. Seedance 2.5 is positioned for "cinematic long-form narrative" with improved realistic imagery and long-shot capability; it previously supported 480p and 720p. The 1080p upgrade increases image clarity and post-production flexibility, expanding professional use cases. Volcano Engine launched a first-month promotional price: 1080p image-to-video pricing drops from 3.7 yuan/sec to about 2.7 yuan/sec through Sep 17.
-
----
-
-### 2026-08-17 21:21:55  #其他
-
-【Seedance2.5正式支援1080p 7.2折限時優惠已開啟】火山引擎官網顯示Seedance 2.5正式支援原生1080p影片生成，API同步上線。Seedance 2.5定位為“電影級長敘事”的真實畫面質感和長鏡頭能力，此前已支援480p、720p影片生成。隨著1080p能力上線，Seedance 2.5進一步提升畫面清晰度和影像質感，拓展後期製作的空間和專業場景的能力上限。火山引擎官網顯示，Seedance2.5 1080p API已開啟首月限時優惠。活動期間，1080p圖生影片價格由3.7元/秒降至約2.7元/秒，優惠持續至9月17日。
-
----
-
-### 2026-08-17 21:19:59  #公司 #市場
-
-在匈牙利總理宣佈要重新審前政府時期國家與4IG公司簽署的所有合同後，匈牙利IT企業4IG股價週一下跌5.3%。
-
----
-
-### 2026-08-17 21:19:29  #Trading Economics #Economy #Nigeria #Inflation Rate #Importance 1
-
-Nigeria Inflation Rate Slows to 4-Month Low in July — Nigeria’s annual inflation rate eased for the second month to 15.43% in July 2026, the lowest since March, compared to June's 15.91%. The continued relative stability in the naira helped to contain inflationary pressures. Price growth softened for some CPI items, including transportation (15.5% vs 15.6%); miscellaneous goods & services (15.6% vs 17.3%); restaurants & hotels (21.8% vs 23.6%) and clothing & footwear (4% vs 6.4%). However, food inflation, the largest component of the inflation basket, accelerated for the sixth month to 20.31% from 17.52% in June. Higher prices were also seen for housing & utilities (12.6% vs 11.2%). Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, also moderated for the second month to the lowest since May 2022 at 14.97%, down from June's 15.92%. On a monthly basis, the CPI rose by 1.57% in July, after a 1.66% increase in the previous month.
-
----
-
-### 2026-08-17 21:18:20  #MKT News #4IG.BU #Impact bearish
-
-Hungary's prime minister Magyar said the government will review all contracts the state signed with 4iG during the previous government's term.
-
----
-
-### 2026-08-17 21:17:54  #公司
-
-匈牙利總理：政府將審查前政府時期國家與4IG公司簽署的所有合同。
-
----
-
-### 2026-08-17 21:17:04  #Trading Economics #Economy #Belarus #Industrial Production #Importance 1
-
-Belarus Industrial Activity Rebounds — Belarus’ industrial production edged up 0.1% year-on-year in the first seven months of 2026, improving from a 0.7% decline in the first half of the year and returning to positive growth after remaining in contraction for the last twelve months. Growth was supported by a 7.9% increase in electricity, gas, steam, hot water and air-conditioning supply, while mining and quarrying output rose 2.7%. Water supply, waste management and remediation activities also recorded modest growth of 1.8%. However, manufacturing output contracted 1.2%, offsetting gains across other sectors and remaining in contraction for a year.
-
----
-
-### 2026-08-17 21:16:13  #國際
-
-伊朗方面報道：伊朗外交部一名外交官表示：如果我們重回談判，將以伊斯蘭堡協議為基礎，而非麥納麥會議。
-
----
-
-### 2026-08-17 21:15:55  #其他
-
-市場訊息：RedCloud簽署阿根廷三年合作協議，預計透過其RedAI平臺實現營收2000萬美元，快速消費品貿易額達12億美元。
 
 ---

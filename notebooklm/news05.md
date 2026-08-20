@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:57:35_
-_本檔包含 3242 則快訊，約 640029 字_
+_更新時間：2026-08-21 06:38:32_
+_本檔包含 3223 則快訊，約 640187 字_
+
+---
+
+### 2026-08-15 22:34:56  #國際
+
+土耳其總統：以色列持續襲擊黎巴嫩是我們重大關切所在。
+
+---
+
+### 2026-08-15 22:34:13  #國際
+
+美軍中央司令部：戰鬥機從阿拉伯海的喬治·H·W·布什號航空母艦起飛，以維護中東地區的安全與穩定。
+
+---
+
+### 2026-08-15 22:33:39  #國際
+
+土耳其總統埃爾多安：我們已收到特朗普關於F‑35戰鬥機的承諾，我們正等待他兌現該承諾。
+
+---
+
+### 2026-08-15 22:33:14  #國際
+
+美國國家颶風中心表示，預計颶風赫南今日將減弱為殘留低氣壓。
+
+---
+
+### 2026-08-15 22:32:53  #國際
+
+土耳其總統埃爾多安：我將於近期訪問敘利亞。敘利亞不會被拋下，我們將盡一切力量維護該國穩定。
+
+---
+
+### 2026-08-15 22:11:21  #其他
+
+【牛來預測票房598萬】據燈塔專業版，影片《牛來》預測總票房598萬。
+
+---
+
+### 2026-08-15 22:05:17  #其他
+
+【嵐圖追光S上市，限時權益價22.39萬起】8月15日，嵐圖追光S正式上市，定位20萬級純電SUV價值標杆。新車推出四鐳射後驅Max、四鐳射後驅Ultra及四鐳射四驅Ultra+三款版本，上市指導價22.99萬-27.99萬元，限時權益價22.39萬-27.39萬元。全系標配華為乾崑四鐳射雷達、鴻蒙座艙5.2及嵐圖虎踞智慧底盤，CLTC續航最高740公里，支援5C超充。
+
+---
+
+### 2026-08-15 22:02:34  #公司
+
+法國電力公司(EDF)：聖阿爾邦2號反應堆(1335兆瓦)因環境問題計劃於8月12日12:07至8月24日00:00停運檢修。
+
+---
+
+### 2026-08-15 21:59:56  #公司
+
+【國產算力迎擴張浪潮：大廠“超預期”加碼投資 產業鏈多環節開啟擴產】國產算力產業鏈正掀起新一輪投資熱潮。中芯國際透露，中國網際網路公司大幅提高硬體投資在公司此前預測之外，客戶下線量都遠超原來預期，多零部件供不應求。騰訊大幅增加算力採購，阿里擴充模組化資料中心全球產能。廣發證券指出，雲廠商上調資本開支重新成為AI產業鏈利好。在雲廠商的投資擴產已經開始帶來一定利潤回報的背景下，更高的AI基礎設施投入一方面能夠抬升雲廠商自身的遠期盈利預期，另一方面也意味著更強的硬體採購需求，從而緩解市場對於上游晶片、通訊連線和儲存訂單增長放緩的擔憂。
+
+---
+
+### 2026-08-15 21:58:09  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+【FT: Ukraine's Patriot interceptors depleted, air-defence gap exposed】Financial Times reports Kyiv has largely exhausted interceptors for Patriot batteries, creating a critical gap against Russian ballistic missiles. Ukrainian officials say US-supplied interceptors sent in recent weeks have been used up. As Moscow steps up strikes ahead of winter, pressure on Ukraine's air defences has intensified: after a Russian missile strike on Kyiv on Aug. 5 and a follow-up attack three days later, Ukraine failed to intercept any incoming ballistic missiles in both waves, the FT says. The Ukrainian air force has stopped routinely publishing Russian missile launch counts to avoid revealing how many missiles went un-intercepted.
+
+---
+
+### 2026-08-15 21:56:05  #國際
+
+印尼能源部將8月下半月5,300千卡等級煤炭基準價格定為每噸96.92美元。
+
+---
+
+### 2026-08-15 21:55:55  #國際
+
+印尼能源部宣佈，8月下半月4100千卡熱值等級煤炭的基準價格定為每噸65.81美元。
+
+---
+
+### 2026-08-15 21:46:02  #MKT News
+
+【Navigational warning: military training in South China Sea】China Maritime Safety Administration website shows Jiangmen Maritime Safety Administration issued a navigational warning: Aug 16–17, daily 00:00–12:00, parts of the South China Sea will conduct military training; entry is prohibited.
+
+---
+
+### 2026-08-15 21:45:53  #其他
+
+【航行警告！南海海域軍事訓練】據中國海事局網站訊息，江門海事局釋出航行警告，8月16日至17日，每天0時至12時，南海部分海域進行軍事訓練，禁止駛入。
+
+---
+
+### 2026-08-15 21:45:18  #國際
+
+黎巴嫩衛生部：以色列對安薩爾和代爾扎赫拉尼兩鎮的襲擊造成11人死亡，19人受傷。
+
+---
+
+### 2026-08-15 21:36:03  #國際
+
+【中國駐日本大使館發言人就日方涉靖國神社消極動向答記者問】問：8月15日是日本戰敗投降日，日本首相高市早苗向靖國神社供奉祭祀費，包括防衛大臣在內的部分內閣成員、自民黨高官及大批國會議員前往參拜，請問你對此有何評論？ 答：靖國神社是日本軍國主義發動侵略戰爭的精神工具和象徵，供奉有對侵略戰爭負有直接罪責的14名甲級戰犯。日方領導人和政客對靖國神社頂禮膜拜，公然站在歷史正義和人類良知的對立面，嚴重挑戰二戰勝利成果和戰後國際秩序。中方對此表示強烈憤慨、嚴厲譴責，已向日方提出嚴正交涉、強烈抗議。 今年是東京審判開庭80週年，東京審判依法對甲級戰犯作出裁決，捍衛了世界反法西斯戰爭的勝利成果。正確對待和深刻反省軍國主義侵略歷史，是日本戰後重返國際社會的重要前提，也是建立和發展中日關係的重要政治基礎。我們敦促日方深刻反省歷史罪責，認真汲取歷史教訓，恪守和平發展承諾，以實際行動同軍國主義徹底切割，停止“再軍事化”的危險行徑，不要再次走向歷史的被告席。（日月譚天）
+
+---
+
+### 2026-08-15 21:35:11  #MKT News
+
+【Yushu Technology IPO: OTC scalper allocation rumours unfounded; underwriter flags legal and market risk】Market chatter claimed scalpers were buying Yushu Technology IPO allocations off‑market and some intermediaries were quoting well above the offer price. Institutional investors, private funds and brokers contacted said they found no evidence and described the reports as largely unfounded. Such private OTC arrangements may be legally questionable and could expose investors to losses, the sources warned. CITIC Securities, the IPO's lead underwriter, reminded market participants that securities trading must comply with laws and market rules, be conducted via authorised channels and real‑name accounts, and urged against speculative bandwagoning while advising careful risk assessment.
 
 ---
 
@@ -19355,229 +19457,5 @@ Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers ar
 ### 2026-08-14 06:39:21  #國際
 
 美國能源部長賴特：電價對通脹率的影響微乎其微。
-
----
-
-### 2026-08-14 06:37:14  #市場 #焦點
-
-現貨黃金突破4360美元/盎司，日內漲0.21%。
-
----
-
-### 2026-08-14 06:36:50  #國際
-
-美國能源部長賴特：霍爾木茲海峽石油運輸流量將持續走高。
-
----
-
-### 2026-08-14 06:35:39  #國際
-
-美國能源部長賴特：美國護送、轉運物資的能力正在增強。
-
----
-
-### 2026-08-14 06:35:12  #國際
-
-美國能源部長賴特：伊朗正試圖以全球經濟為要挾。
-
----
-
-### 2026-08-14 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore CNY Falls by 2.15% — Top commodity losers are Iron Ore CNY (-2.15%), Platinum (-2.10%), Silver (-1.30%) and Gold (-1.16%).
-
----
-
-### 2026-08-14 06:34:43  #焦點 #國際
-
-美國能源部長賴特：每天有800萬至900萬桶石油經由霍爾木茲海峽運輸。
-
----
-
-### 2026-08-14 06:33:21  #國際
-
-美國能源部長賴特：美國掌握每日經由霍爾木茲海峽進出的船舶數量。
-
----
-
-### 2026-08-14 06:32:53  #國際
-
-美國能源部長賴特：美國正與各方船隻開展溝通協調。
-
----
-
-### 2026-08-14 06:32:07  #其他
-
-紐西蘭7月製造業表現指數 54.3，前值59.7。
-
----
-
-### 2026-08-14 06:31:41  #資料 #央行 #國際
-
-【週五重要財經資訊提醒（以下均為北京時間）】
-① 07:30 澳洲聯儲主席布洛克出席聽證會；
-② 14:45 法國7月CPI終值；
-③ 待定 國內成品油開啟新一輪調價視窗；
-④ 16:30 中國香港第二季度GDP終值；
-⑤ 17:00 歐元區第二季度GDP修正值；
-⑥ 20:30 美國7月零售銷售，加拿大6月批發銷售；
-⑦ 22:00 美國8月密歇根大學消費者信心指數初值，美國6月商業庫存；
-⑧ 次日01:00 美國至8月14日當週石油鑽井總數。
-
----
-
-### 2026-08-14 06:30:08  #MKT News #DXY #Impact bearish
-
-New Zealand July manufacturing performance index 54.3, prior 59.7.
-
----
-
-### 2026-08-14 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Drops by 2.66% — Top commodity losers are Crude Oil WTI (-2.66%), Natural gas (-2.56%) and Brent Crude Oil (-2.36%).
-
----
-
-### 2026-08-14 06:30:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Performance of Manufacturing Index (Jul) | actual 54.3 | previous 59.7
-
----
-
-### 2026-08-14 06:22:11  #國際
-
-【古巴強烈反對多明尼加驅逐其駐多使館人員】古巴外交部13日發表宣告，強烈反對多明尼加政府驅逐10名古巴駐多使館外交人員及其家屬的決定，稱此舉嚴重損害兩國政府間關係。（新華社）
-
----
-
-### 2026-08-14 06:15:03  #公司 #市場
-
-【恒生科技指數大修 助力更多外資配置中國科技資產】近日，恒生科技指數啟動了推出以來力度最大的一次改革。根據恒生指數公司釋出的諮詢檔案，此次改革重點包括指數成分股由30只增至50只、擴大指數的科技主題範圍、採取“市值、收入增速”雙軌制選股機制等。在業內人士看來，指數的生命力在於緊跟市場趨勢變化。恒生科技指數此次修訂編制規則，契合外資配置中國科技資產的需求，有助於持續吸引境外資金流向中國硬科技產業。 (上證報)
-
----
-
-### 2026-08-14 06:14:48  #公司 #市場
-
-【今年以來近百家公司完成定增，合計募資逾1690億元】今年以來，A股市場持續回暖，定增市場活躍度顯著提升。Wind資料顯示：以發行日期統計，今年以來已有98家A股公司完成增發，較去年同期的76家增長28.95%；合計募資1692.86億元，若剔除去年同期4家銀行定增補充流動資金，同比增長54.13%。截至8月13日收盤，有64家公司最新股價（復權）超過定增價格，最高幅度近280%。剩下的34家公司股價暫時跌破定增發行價，佔比約為35%。（上證報）
-
----
-
-### 2026-08-14 06:14:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's GOOLSBEE says U.S. economy remains stable.
-
----
-
-### 2026-08-14 06:14:32  #央行 #國際
-
-美聯儲古爾斯比：美國經濟走勢穩定。
-
----
-
-### 2026-08-14 06:13:19  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-GOOLSBEE said if some of these factors can be set aside, inf could fall back to 2%.
-
----
-
-### 2026-08-14 06:12:48  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact mixed
-
-GOOLSBEE of the Federal Reserve said many inflation drivers stem from tariffs, followed by oil prices, and the Fed hopes these are one-off increases.
-
----
-
-### 2026-08-14 06:12:29  #央行 #國際
-
-美聯儲古爾斯比： 如果能將上述部分不利因素拋在身後，通脹就有望回落至 2% 目標水平。
-
----
-
-### 2026-08-14 06:12:12  #市場 #央行 #國際
-
-美聯儲古爾斯比： 諸多通脹驅動因素來自關稅以及油價，我們原本希望這些都只是一次性上漲。
-
----
-
-### 2026-08-14 06:12:02  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-Fed's GOOLSBEE said inf data has improved and he hopes the trend continues.
-
----
-
-### 2026-08-14 06:11:47  #Trading Economics #Markets #Taiwan #Earnings #Importance 0
-
-Quanta Computer earnings above expectations at 7.43 TWD — Quanta Computer (2382) released earnings per share at 7.43 TWD, compared to market expectations of 6.08 TWD.
-
----
-
-### 2026-08-14 06:11:26  #公司 #觀點
-
-【原始權益人看好優質底層資產，滬市公募REITs扎堆披露增持計劃】近日，創金合信首農REIT與中信建投瀋陽國際軟體園REIT分別釋出公告稱，其原始權益人及關聯方基於對專案未來發展前景的信心和長期投資價值的認可，將啟動基金份額增持計劃。事實上，今年以來滬市已有建信中關村REIT、招商科創REIT、匯添富上海地產商業REIT、中信建投首農商業REIT、中金唯品會商業REIT等5單公募REITs專案披露增持計劃。從增持安排來看，7單專案增持主體包含原始權益人、控股股東及同一控制下關聯方，採用二級市場競價交易等方式擇機實施。專案均設定了增持份額或者金額區間，其中部分專案明確了增持下限；多數主體同步作出鎖倉承諾，增持獲得的份額在實施週期結束後，繼續鎖定較長時間不予減持，規避短期博弈交易，立足長期持有，保障增持行為的嚴肅性，向市場傳遞長期看好訊號。（上證報）
-
----
-
-### 2026-08-14 06:10:59  #央行 #國際
-
-美聯儲古爾斯比：近期通脹相關資料出現小幅好轉，希望這一改善態勢能夠持續。
-
----
-
-### 2026-08-14 06:08:26  #國際
-
-特朗普：允許在美投資的外國造船廠最多建造兩艘船隻。
-
----
-
-### 2026-08-14 06:05:10  #其他
-
-澳大利亞總理阿爾巴尼斯：澳大利亞移民數量較峰值下降 45%。
-
----
-
-### 2026-08-14 06:05:00  #MKT News
-
-RBNZ said its FPC considered house price developments, recent mortgage risk conditions and borrowers' financial stress.
-
----
-
-### 2026-08-14 06:04:58  #MKT News
-
-RBNZ maintains current loan-to-value ratio (LVR) settings.
-
----
-
-### 2026-08-14 06:01:31  #市場
-
-鈀金期貨日內跌1%，現報1311.50美元/盎司。
-
----
-
-### 2026-08-14 06:01:31  #其他
-
-紐西蘭儲備銀行：維持貸款價值比（LVR）相關政策不變。
-
----
-
-### 2026-08-14 06:00:47  #市場 #焦點
-
-紐約期銀突破65美元/盎司，日內跌0.61%。
-
----
-
-### 2026-08-14 06:00:36  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為65.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65.2%，累計加息25個基點的機率為34.8%。美聯儲到10月維持利率不變的機率為50.1%，累計加息25個基點的機率為41.8%，累計加息50個基點的機率為8.1%。
-
----
-
-### 2026-08-14 06:00:35  #市場 #焦點
-
-現貨白銀突破65美元/盎司，日內跌0.03%。
-
----
-
-### 2026-08-14 05:58:39  #公司 #焦點 #國際
-
-【白宮宣佈對進口無人機及零部件徵收關稅】美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。（新華社）
 
 ---

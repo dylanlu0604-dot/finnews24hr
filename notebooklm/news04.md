@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 05:57:35_
-_本檔包含 2987 則快訊，約 640088 字_
+_更新時間：2026-08-21 06:38:32_
+_本檔包含 2985 則快訊，約 640834 字_
+
+---
+
+### 2026-08-17 21:25:33  #央行 #國際
+
+富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。美聯儲將在2027年加息25個基點，使基準利率升至4.00%-4.25%區間，此前預測為維持利率不變。
+
+---
+
+### 2026-08-17 21:25:19  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fuguo Investment Research Institute forecasts the Federal Reserve will hike the federal funds target by 25bp in 2027 to 4.00%-4.25%, reversing a prior projection that rates would be held steady.
+
+---
+
+### 2026-08-17 21:25:16  #央行 #美聯儲
+
+【富國投資研究所：美聯儲今年將加息25個基點】富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。
+
+---
+
+### 2026-08-17 21:24:30  #國際
+
+【伊朗革命衛隊否認與美有秘密渠道】針對美國總統特朗普今天（8月17日）在接受採訪時稱“正透過秘密渠道與伊朗伊斯蘭革命衛隊官員進行談判”一事，伊朗伊斯蘭革命衛隊發言人穆罕默迪回應稱：“革命衛隊官員與美國人之間根本沒有任何會談。特朗普的謊言純屬幻想，是其戰敗和絕望導致的妄想和噩夢。”穆罕默迪進一步表示：“革命衛隊是伊朗人民和伊斯蘭共和國力量的象徵，向來用行動發聲，而外交磋商屬於伊朗政府其他部門的職權範圍。”他還援引伊朗外交部的表態強調指出，鑑於美國屢屢背信棄義的不良記錄，目前伊朗與美國未進行任何對話。 穆罕默迪強調：“特朗普的幻想對他毫無幫助。他試圖透過這些言論暫時控制石油等能源價格。然而，他只有一條真正的出路，那就是接受失敗並執行伊朗提出的條件。因此，美國越早接受失敗並據此作出決定，就越能避免國家遭受更大更嚴重的損失。”
+
+---
+
+### 2026-08-17 21:23:30  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fullgoal Investment Research Institute now expects the Federal Reserve to raise rates by 25bps this year; it had previously forecast no change in policy rates.
+
+---
+
+### 2026-08-17 21:22:06  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Saudi outlet Alhadath, citing Israeli political sources, reports that Prime Minister Benjamin Netanyahu and Jared Kushner have agreed to halt any Gaza reconstruction plans.
+
+---
+
+### 2026-08-17 21:22:01  #MKT News #Market Themes #AI Revolution
+
+【Seedance 2.5 adds native 1080p; limited-time price cut to ~2.7 yuan/sec until Sep 17】Volcano Engine's website shows Seedance 2.5 now supports native 1080p video generation and the API is live. Seedance 2.5 is positioned for "cinematic long-form narrative" with improved realistic imagery and long-shot capability; it previously supported 480p and 720p. The 1080p upgrade increases image clarity and post-production flexibility, expanding professional use cases. Volcano Engine launched a first-month promotional price: 1080p image-to-video pricing drops from 3.7 yuan/sec to about 2.7 yuan/sec through Sep 17.
+
+---
+
+### 2026-08-17 21:21:55  #其他
+
+【Seedance2.5正式支援1080p 7.2折限時優惠已開啟】火山引擎官網顯示Seedance 2.5正式支援原生1080p影片生成，API同步上線。Seedance 2.5定位為“電影級長敘事”的真實畫面質感和長鏡頭能力，此前已支援480p、720p影片生成。隨著1080p能力上線，Seedance 2.5進一步提升畫面清晰度和影像質感，拓展後期製作的空間和專業場景的能力上限。火山引擎官網顯示，Seedance2.5 1080p API已開啟首月限時優惠。活動期間，1080p圖生影片價格由3.7元/秒降至約2.7元/秒，優惠持續至9月17日。
+
+---
+
+### 2026-08-17 21:19:59  #公司 #市場
+
+在匈牙利總理宣佈要重新審前政府時期國家與4IG公司簽署的所有合同後，匈牙利IT企業4IG股價週一下跌5.3%。
+
+---
+
+### 2026-08-17 21:19:29  #Trading Economics #Economy #Nigeria #Inflation Rate #Importance 1
+
+Nigeria Inflation Rate Slows to 4-Month Low in July — Nigeria’s annual inflation rate eased for the second month to 15.43% in July 2026, the lowest since March, compared to June's 15.91%. The continued relative stability in the naira helped to contain inflationary pressures. Price growth softened for some CPI items, including transportation (15.5% vs 15.6%); miscellaneous goods & services (15.6% vs 17.3%); restaurants & hotels (21.8% vs 23.6%) and clothing & footwear (4% vs 6.4%). However, food inflation, the largest component of the inflation basket, accelerated for the sixth month to 20.31% from 17.52% in June. Higher prices were also seen for housing & utilities (12.6% vs 11.2%). Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, also moderated for the second month to the lowest since May 2022 at 14.97%, down from June's 15.92%. On a monthly basis, the CPI rose by 1.57% in July, after a 1.66% increase in the previous month.
+
+---
+
+### 2026-08-17 21:18:20  #MKT News #4IG.BU #Impact bearish
+
+Hungary's prime minister Magyar said the government will review all contracts the state signed with 4iG during the previous government's term.
+
+---
+
+### 2026-08-17 21:17:54  #公司
+
+匈牙利總理：政府將審查前政府時期國家與4IG公司簽署的所有合同。
+
+---
+
+### 2026-08-17 21:17:04  #Trading Economics #Economy #Belarus #Industrial Production #Importance 1
+
+Belarus Industrial Activity Rebounds — Belarus’ industrial production edged up 0.1% year-on-year in the first seven months of 2026, improving from a 0.7% decline in the first half of the year and returning to positive growth after remaining in contraction for the last twelve months. Growth was supported by a 7.9% increase in electricity, gas, steam, hot water and air-conditioning supply, while mining and quarrying output rose 2.7%. Water supply, waste management and remediation activities also recorded modest growth of 1.8%. However, manufacturing output contracted 1.2%, offsetting gains across other sectors and remaining in contraction for a year.
+
+---
+
+### 2026-08-17 21:16:13  #國際
+
+伊朗方面報道：伊朗外交部一名外交官表示：如果我們重回談判，將以伊斯蘭堡協議為基礎，而非麥納麥會議。
+
+---
+
+### 2026-08-17 21:15:55  #其他
+
+市場訊息：RedCloud簽署阿根廷三年合作協議，預計透過其RedAI平臺實現營收2000萬美元，快速消費品貿易額達12億美元。
 
 ---
 
@@ -17916,107 +18006,5 @@ Turkish President Erdogan said Europe appears unwilling to accept Turkey into th
 ### 2026-08-15 22:36:58  #MKT News #Market Regions #Emerging Markets
 
 【Indonesia advances plan for financial and investment centre to attract global capital】Indonesia is advancing plans to establish an Indonesia Financial and Investment Center (IIFC) to attract global capital and leverage the country's rising appeal to investors, the government said. Officials described Indonesia as a high-potential market with substantial growth space and said the IIFC would act as a support mechanism to draw capital from multiple countries and capitalise on those opportunities.
-
----
-
-### 2026-08-15 22:34:56  #國際
-
-土耳其總統：以色列持續襲擊黎巴嫩是我們重大關切所在。
-
----
-
-### 2026-08-15 22:34:13  #國際
-
-美軍中央司令部：戰鬥機從阿拉伯海的喬治·H·W·布什號航空母艦起飛，以維護中東地區的安全與穩定。
-
----
-
-### 2026-08-15 22:33:39  #國際
-
-土耳其總統埃爾多安：我們已收到特朗普關於F‑35戰鬥機的承諾，我們正等待他兌現該承諾。
-
----
-
-### 2026-08-15 22:33:14  #國際
-
-美國國家颶風中心表示，預計颶風赫南今日將減弱為殘留低氣壓。
-
----
-
-### 2026-08-15 22:32:53  #國際
-
-土耳其總統埃爾多安：我將於近期訪問敘利亞。敘利亞不會被拋下，我們將盡一切力量維護該國穩定。
-
----
-
-### 2026-08-15 22:11:21  #其他
-
-【牛來預測票房598萬】據燈塔專業版，影片《牛來》預測總票房598萬。
-
----
-
-### 2026-08-15 22:05:17  #其他
-
-【嵐圖追光S上市，限時權益價22.39萬起】8月15日，嵐圖追光S正式上市，定位20萬級純電SUV價值標杆。新車推出四鐳射後驅Max、四鐳射後驅Ultra及四鐳射四驅Ultra+三款版本，上市指導價22.99萬-27.99萬元，限時權益價22.39萬-27.39萬元。全系標配華為乾崑四鐳射雷達、鴻蒙座艙5.2及嵐圖虎踞智慧底盤，CLTC續航最高740公里，支援5C超充。
-
----
-
-### 2026-08-15 22:02:34  #公司
-
-法國電力公司(EDF)：聖阿爾邦2號反應堆(1335兆瓦)因環境問題計劃於8月12日12:07至8月24日00:00停運檢修。
-
----
-
-### 2026-08-15 21:59:56  #公司
-
-【國產算力迎擴張浪潮：大廠“超預期”加碼投資 產業鏈多環節開啟擴產】國產算力產業鏈正掀起新一輪投資熱潮。中芯國際透露，中國網際網路公司大幅提高硬體投資在公司此前預測之外，客戶下線量都遠超原來預期，多零部件供不應求。騰訊大幅增加算力採購，阿里擴充模組化資料中心全球產能。廣發證券指出，雲廠商上調資本開支重新成為AI產業鏈利好。在雲廠商的投資擴產已經開始帶來一定利潤回報的背景下，更高的AI基礎設施投入一方面能夠抬升雲廠商自身的遠期盈利預期，另一方面也意味著更強的硬體採購需求，從而緩解市場對於上游晶片、通訊連線和儲存訂單增長放緩的擔憂。
-
----
-
-### 2026-08-15 21:58:09  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【FT: Ukraine's Patriot interceptors depleted, air-defence gap exposed】Financial Times reports Kyiv has largely exhausted interceptors for Patriot batteries, creating a critical gap against Russian ballistic missiles. Ukrainian officials say US-supplied interceptors sent in recent weeks have been used up. As Moscow steps up strikes ahead of winter, pressure on Ukraine's air defences has intensified: after a Russian missile strike on Kyiv on Aug. 5 and a follow-up attack three days later, Ukraine failed to intercept any incoming ballistic missiles in both waves, the FT says. The Ukrainian air force has stopped routinely publishing Russian missile launch counts to avoid revealing how many missiles went un-intercepted.
-
----
-
-### 2026-08-15 21:56:05  #國際
-
-印尼能源部將8月下半月5,300千卡等級煤炭基準價格定為每噸96.92美元。
-
----
-
-### 2026-08-15 21:55:55  #國際
-
-印尼能源部宣佈，8月下半月4100千卡熱值等級煤炭的基準價格定為每噸65.81美元。
-
----
-
-### 2026-08-15 21:46:02  #MKT News
-
-【Navigational warning: military training in South China Sea】China Maritime Safety Administration website shows Jiangmen Maritime Safety Administration issued a navigational warning: Aug 16–17, daily 00:00–12:00, parts of the South China Sea will conduct military training; entry is prohibited.
-
----
-
-### 2026-08-15 21:45:53  #其他
-
-【航行警告！南海海域軍事訓練】據中國海事局網站訊息，江門海事局釋出航行警告，8月16日至17日，每天0時至12時，南海部分海域進行軍事訓練，禁止駛入。
-
----
-
-### 2026-08-15 21:45:18  #國際
-
-黎巴嫩衛生部：以色列對安薩爾和代爾扎赫拉尼兩鎮的襲擊造成11人死亡，19人受傷。
-
----
-
-### 2026-08-15 21:36:03  #國際
-
-【中國駐日本大使館發言人就日方涉靖國神社消極動向答記者問】問：8月15日是日本戰敗投降日，日本首相高市早苗向靖國神社供奉祭祀費，包括防衛大臣在內的部分內閣成員、自民黨高官及大批國會議員前往參拜，請問你對此有何評論？ 答：靖國神社是日本軍國主義發動侵略戰爭的精神工具和象徵，供奉有對侵略戰爭負有直接罪責的14名甲級戰犯。日方領導人和政客對靖國神社頂禮膜拜，公然站在歷史正義和人類良知的對立面，嚴重挑戰二戰勝利成果和戰後國際秩序。中方對此表示強烈憤慨、嚴厲譴責，已向日方提出嚴正交涉、強烈抗議。 今年是東京審判開庭80週年，東京審判依法對甲級戰犯作出裁決，捍衛了世界反法西斯戰爭的勝利成果。正確對待和深刻反省軍國主義侵略歷史，是日本戰後重返國際社會的重要前提，也是建立和發展中日關係的重要政治基礎。我們敦促日方深刻反省歷史罪責，認真汲取歷史教訓，恪守和平發展承諾，以實際行動同軍國主義徹底切割，停止“再軍事化”的危險行徑，不要再次走向歷史的被告席。（日月譚天）
-
----
-
-### 2026-08-15 21:35:11  #MKT News
-
-【Yushu Technology IPO: OTC scalper allocation rumours unfounded; underwriter flags legal and market risk】Market chatter claimed scalpers were buying Yushu Technology IPO allocations off‑market and some intermediaries were quoting well above the offer price. Institutional investors, private funds and brokers contacted said they found no evidence and described the reports as largely unfounded. Such private OTC arrangements may be legally questionable and could expose investors to losses, the sources warned. CITIC Securities, the IPO's lead underwriter, reminded market participants that securities trading must comply with laws and market rules, be conducted via authorised channels and real‑name accounts, and urged against speculative bandwagoning while advising careful risk assessment.
 
 ---
