@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-20 10:50:24",
-  "count": 15688,
+  "updated": "2026-08-20 10:54:16",
+  "count": 15689,
   "items": [
+    {
+      "id": "mkt:01a01d16-9587-7aab-90a7-8574560d2931",
+      "time": "2026-08-20 10:53:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "JD.O"
+      ],
+      "text": "【JD.com to create 100,000+ robot maintenance-engineer jobs over next five years】At the 2026 World Robot Conference, JD.com said it will build an after-sales robot maintenance network across more than 100 countries over the next five years and create over 100,000 robot maintenance-engineer jobs, JD Logistics bulletin said."
+    },
+    {
+      "id": "5048969",
+      "time": "2026-08-20 10:53:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "棕櫚油期貨價格飆升至2024年12月以來的最高水平。"
+    },
+    {
+      "id": "mkt:01a01d15-f1ac-7aab-90a7-7bfe5117714d",
+      "time": "2026-08-20 10:52:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "MU.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【JP Morgan: Next AI-chip bottleneck may shift to HBM allocations】JP Morgan's markets intelligence team says that as AI compute demand expands over the next few years, shipment capacity for Nvidia GPUs, Google TPUs and similar AI chips could increasingly be constrained by HBM and memory supply. Micron recently said customer demand remains materially higher than supply even at current memory prices, and vendors often meet less than half of demand. SK Hynix, Samsung and Micron control limited HBM capacity, reinforcing large buyers' long-term procurement ties; buyers who exit long-term contracts may face lower allocation priority in the next capacity crunch. HBM allocations are directly limiting how many GPUs and TPUs can be delivered."
+    },
+    {
+      "id": "5048968",
+      "time": "2026-08-20 10:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東：未來5年將創造超10萬個機器人維修工程師就業崗位】據“京東物流黑板報”，在2026世界機器人大會（WRC 2026）舉辦之際，京東釋出機器人戰略佈局，未來5年將構建覆蓋全球超過100個國家的機器人售後維修網路，並創造超10萬個機器人維修工程師就業崗位。"
+    },
+    {
+      "id": "5048967",
+      "time": "2026-08-20 10:50:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《中國工運事業和工會工作“十五五”規劃》印發】從中華全國總工會獲悉，近日，全國總工會印發《中國工運事業和工會工作“十五五”規劃》。規劃是“十五五”時期推動工會工作高質量發展的指導性檔案。規劃堅持正確方向、堅持服務大局、堅持守正創新、堅持求真務實，從牢牢把握工會工作正確政治方向、加強職工群眾思想政治引領、動員激勵廣大職工群眾建功立業創新創造、推動產業工人隊伍建設改革走深走實、提升工會維權服務工作質效、用心用情用力解決重點群體急難愁盼問題、加強工會工作法治化建設、堅決維護勞動領域政治安全、健全縱橫交織覆蓋廣泛的工會組織體系、加強工會外事和港澳臺工作、深化工會改革和建設等11個方面，分領域部署“十五五”時期工會重點工作任務，並明確了大國工匠人才培育、勞模工匠創新工作室、工會就業服務、建會入會等8個方面12項具體指標。規劃對貫徹落實提出要求，強調要加強組織領導，強化宣傳引導、總結推廣，定期評估工作進展成效，以釘釘子精神抓好規劃落地實施。"
+    },
     {
       "id": "mkt:01a01d11-f998-7aab-90a7-72765c651d6c",
       "time": "2026-08-20 10:48:32",
@@ -143853,44 +143906,6 @@
         "國際"
       ],
       "text": "【美媒爆料：美軍“林肯”號航母部署中東海上時長“破紀錄”，艦上多名水兵試圖跳海自殺】據美國《星條旗報》、《海軍時報》等媒體當地時間8月12日報道，由於伊朗局勢緊張，美國“亞伯拉罕·林肯”號航母長期被部署在中東地區，並且已連續約250天未靠岸——創下現代航母紀錄，艦上的惡劣條件和士兵的心理壓力已達到臨界點，多名水兵試圖跳海自殺。（環球網）"
-    },
-    {
-      "id": "mkt:019ff90a-5feb-7aab-9017-7b4d3384ea1c",
-      "time": "2026-08-13 10:53:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000895.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-share meat-products sector jumped ahead of midday trade; Delis hit the daily limit, while Guangming Meat, Huatong, Guanghong Holdings, Shuanghui Development and Yike Food also rallied."
-    },
-    {
-      "id": "5038503",
-      "time": "2026-08-13 10:53:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【連雲港至儀徵原油管道首段投產運營】8月13日，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連淮段投產成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。"
-    },
-    {
-      "id": "5038502",
-      "time": "2026-08-13 10:53:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【肉製品板塊直線拉昇，得利斯漲停】肉製品板塊直線拉昇，得利斯漲停，光明肉業、華統股份、廣弘控股、雙匯發展、益客食品等紛紛走高。"
-    },
-    {
-      "id": "5038501",
-      "time": "2026-08-13 10:53:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日企被判賠償韓國強徵勞工受害者】韓國大法院、也就是最高法院8月12日就“二戰中遭日本強徵勞工受害者遺屬對日本製鐵公司提起的索賠訴訟案”作出終審判決，維持二審判決結果，要求被告賠償8000萬韓元，約合38萬元人民幣。（CCTV國際時訊）"
     }
   ]
 }

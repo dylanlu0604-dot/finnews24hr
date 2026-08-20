@@ -1,7 +1,60 @@
 {
   "date": "2026-08-20",
-  "count": 925,
+  "count": 930,
   "items": [
+    {
+      "id": "mkt:01a01d16-9587-7aab-90a7-8574560d2931",
+      "time": "2026-08-20 10:53:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "JD.O"
+      ],
+      "text": "【JD.com to create 100,000+ robot maintenance-engineer jobs over next five years】At the 2026 World Robot Conference, JD.com said it will build an after-sales robot maintenance network across more than 100 countries over the next five years and create over 100,000 robot maintenance-engineer jobs, JD Logistics bulletin said."
+    },
+    {
+      "id": "5048969",
+      "time": "2026-08-20 10:53:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "棕櫚油期貨價格飆升至2024年12月以來的最高水平。"
+    },
+    {
+      "id": "mkt:01a01d15-f1ac-7aab-90a7-7bfe5117714d",
+      "time": "2026-08-20 10:52:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "MU.O",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【JP Morgan: Next AI-chip bottleneck may shift to HBM allocations】JP Morgan's markets intelligence team says that as AI compute demand expands over the next few years, shipment capacity for Nvidia GPUs, Google TPUs and similar AI chips could increasingly be constrained by HBM and memory supply. Micron recently said customer demand remains materially higher than supply even at current memory prices, and vendors often meet less than half of demand. SK Hynix, Samsung and Micron control limited HBM capacity, reinforcing large buyers' long-term procurement ties; buyers who exit long-term contracts may face lower allocation priority in the next capacity crunch. HBM allocations are directly limiting how many GPUs and TPUs can be delivered."
+    },
+    {
+      "id": "5048968",
+      "time": "2026-08-20 10:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東：未來5年將創造超10萬個機器人維修工程師就業崗位】據“京東物流黑板報”，在2026世界機器人大會（WRC 2026）舉辦之際，京東釋出機器人戰略佈局，未來5年將構建覆蓋全球超過100個國家的機器人售後維修網路，並創造超10萬個機器人維修工程師就業崗位。"
+    },
+    {
+      "id": "5048967",
+      "time": "2026-08-20 10:50:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《中國工運事業和工會工作“十五五”規劃》印發】從中華全國總工會獲悉，近日，全國總工會印發《中國工運事業和工會工作“十五五”規劃》。規劃是“十五五”時期推動工會工作高質量發展的指導性檔案。規劃堅持正確方向、堅持服務大局、堅持守正創新、堅持求真務實，從牢牢把握工會工作正確政治方向、加強職工群眾思想政治引領、動員激勵廣大職工群眾建功立業創新創造、推動產業工人隊伍建設改革走深走實、提升工會維權服務工作質效、用心用情用力解決重點群體急難愁盼問題、加強工會工作法治化建設、堅決維護勞動領域政治安全、健全縱橫交織覆蓋廣泛的工會組織體系、加強工會外事和港澳臺工作、深化工會改革和建設等11個方面，分領域部署“十五五”時期工會重點工作任務，並明確了大國工匠人才培育、勞模工匠創新工作室、工會就業服務、建會入會等8個方面12項具體指標。規劃對貫徹落實提出要求，強調要加強組織領導，強化宣傳引導、總結推廣，定期評估工作進展成效，以釘釘子精神抓好規劃落地實施。"
+    },
     {
       "id": "mkt:01a01d11-f998-7aab-90a7-72765c651d6c",
       "time": "2026-08-20 10:48:32",
