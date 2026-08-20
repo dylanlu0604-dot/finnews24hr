@@ -1,7 +1,37 @@
 {
   "date": "2026-08-21",
-  "count": 383,
+  "count": 386,
   "items": [
+    {
+      "id": "mkt:01a02105-47ad-7aab-90c1-cb043c7c18fa",
+      "time": "2026-08-21 05:13:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Elon Musk said Optimus and Grok will someday provide extraordinary medical services to everyone on Earth."
+    },
+    {
+      "id": "mkt:01a02104-7e1a-7aab-90c1-c4b890bdb1cd",
+      "time": "2026-08-21 05:12:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Fars News reported Israeli warplanes entered Lebanese airspace and carried out an airstrike on the Aritahel heights in southern Lebanon."
+    },
+    {
+      "id": "5050810",
+      "time": "2026-08-21 05:10:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：終有一天，Optimus + Grok 將為地球上所有人提供令人難以置信的醫療服務。"
+    },
     {
       "id": "5050809",
       "time": "2026-08-21 05:10:10",
