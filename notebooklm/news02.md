@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 01:40:24_
-_本檔包含 3242 則快訊，約 638963 字_
+_更新時間：2026-08-21 02:00:43_
+_本檔包含 3240 則快訊，約 638426 字_
+
+---
+
+### 2026-08-20 02:27:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #WTI
+
+【Fed minutes show no support for rate cuts】Fed minutes contained no views supporting rate cuts, marking a clear shift in policy discussion versus a year ago. Markets had expected cuts as inf cooled, but price pressures have persisted — amplified after the Trump administration's involvement in the Israel–Iran conflict — and oil and gas flows via the Strait of Hormuz remain constrained nearly six months after the outbreak. Recent data show a modest easing in inf and an unexpected payroll decline in July, leaving markets priced for the Fed to hold at the Sept. 15–16 meeting. Officials remain divided on the need for further hikes but are more cautious on labour-market strength and risks to achieving full employment; the Fed chair's reluctance to outline his policy path leaves markets without clear guidance.
+
+---
+
+### 2026-08-20 02:27:45  #MKT News
+
+India orders inventory limits on bulk sugar consumers, effective Sept 1 through Nov 30.
+
+---
+
+### 2026-08-20 02:25:57  #國際
+
+印度政府令：印度對食糖大宗消費商實施存糖限額，該規定自9月1日起生效，有效期至11月30日。
+
+---
+
+### 2026-08-20 02:25:53  #MKT News
+
+Colombian official data shows the earthquake death toll has risen to 312.
+
+---
+
+### 2026-08-20 02:25:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Rises to Over 2-Month High — Gold prices rose to $4,480 per ounce on Wednesday, the highest since early June, tracking the rally for long-dated US Treasuries after the Treasury Department doubled the buyback of notes and bonds in the upcoming financial quarter. It marked another effort by Washington to contain soaring yields in the longer portion of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. On top of that, the initial increase in dollar liquidity due to the measures also aid gold prices. Meanwhile, minutes of the Federal Reserve's rate-setting meeting confirmed that a portion of policymakers argued that raising rates this year could prevent sharper inflationary pressure later on.
+
+---
+
+### 2026-08-20 02:25:13  #MKT News #Commodities #Energy
+
+【Russian deputy PM: Russia has begun importing fuel】Russian Deputy Prime Minister Novak told Russian news channel website reported on the 19th that Russia has begun importing fuel and has enacted necessary regulations to permit production of certain lower-emission-grade fuels.
+
+---
+
+### 2026-08-20 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cotton Gains by 3.63% — Top commodity gainers are Cotton (3.63%), Palm Oil (2.92%) and Wheat (2.26%). Biggest loser is Coffee (-1.29%).
 
 ---
 
@@ -19485,59 +19527,5 @@ OpenAI 在 Hugging Face 資料洩露事件後調整人工智慧安全機制。
 ### 2026-08-19 01:53:04  #MKT News
 
 Fox News reported Rep. Buddy Carter has held discussions with the White House about serving as the next FDA commissioner, and sources said he is interested in the post.
-
----
-
-### 2026-08-19 01:50:48  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign minister: recent clashes show countries without US bases suffer less damage】On the 18th, Iran's foreign minister Araqchi said recent clashes show countries without US military bases suffer less damage, and that US bases cannot shield US interests from strikes by resistance forces. He said Qatar and Pakistan played effective mediating roles between Iran and the US and that Tehran's ties with Qatar are currently very good. He urged a new Middle East security concept based on "common security" and addressing economic imbalances, warning the Persian Gulf cannot achieve lasting peace without comprehensive cooperation.
-
----
-
-### 2026-08-19 01:43:41  #國際
-
-【伊朗外長：近期衝突表明未設美軍基地的國家受損害更小】當地時間18日，伊朗外交部長阿拉格齊表示，近期發生的衝突表明，沒有設立美軍基地的國家受到的損害更小，而美軍基地甚至無法保護自身利益免受抵抗力量的打擊。阿拉格齊指出，卡達和巴基斯坦在伊朗與美國之間發揮了有效的斡旋作用，目前德黑蘭與卡達的關係處於非常良好的階段。他強調，中東地區的新安全觀必須建立在“共同安全”和解決經濟不平衡問題的基礎上，如果沒有全方位的合作，波斯灣地區將無法實現持久和平。（央視新聞）
-
----
-
-### 2026-08-19 01:37:09  #MKT News
-
-【Zelenskiy discusses drone cooperation and €1.1bn 2026 aid with Belgian foreign minister】Ukrainian President Zelenskiy met Belgian Foreign Minister Maxime Prévot in Kyiv on Tuesday and said in a social media post that his team is drafting an agreement on bilateral drone cooperation and they discussed a possible signing date. He thanked Belgium for pledging more than €1.1 billion in aid to Ukraine in 2026.
-
----
-
-### 2026-08-19 01:36:59  #MKT News
-
-Israel Defense Forces said it struck a Hamas Nukhba commander in the Gaza Strip in response to an earlier attack today.
-
----
-
-### 2026-08-19 01:35:02  #其他
-
-【比特幣巨鯨豪擲27.5億美元重返市場掃貨】據CryptoQuant資料（其計算排除了交易所和礦池），過去60天內，比特幣巨鯨累計增持約4.3萬枚比特幣，按當前價格計算價值約27.5億美元。當比特幣價格開始交投於6萬美元附近時，大型持有者重新投入買入，所謂”海豚”（中等偏上持有者）的持倉餘額也在增長，持有100-1000枚比特幣的中型持有者更是掀起了一波買入狂潮。重量級投資者入場的趨勢，為市場正在築底並可能開啟新一輪牛市週期增添了訊號，但參與度偏低和信心不足仍是市場隱憂。
-
----
-
-### 2026-08-19 01:32:13  #MKT News
-
-A Yemen government-backed armed group said Houthi shelling in Hodeidah province's Khokha district killed three people, including a child.
-
----
-
-### 2026-08-19 01:30:25  #國際
-
-【阿聯酋監測到兩枚從伊朗發射的導彈】阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。阿聯酋國防部說，該國目前處於高度戒備狀態，已做好應對任何威脅的準備。（新華社）
-
----
-
-### 2026-08-19 01:29:10  #其他
-
-【厄瓜多外交官巴基角逐下一任聯合國秘書長】聯大主席發言人柯林斯18日宣佈，厄瓜多外交官伊沃內·巴基角逐下一任聯合國秘書長。柯林斯說，巴基的候選人身份由湯加提名。目前，除巴基外，另有7人角逐下一任聯合國秘書長職位，分別為：智利前總統米歇爾·巴切萊特、來自厄瓜多的聯大前主席瑪麗亞·費爾南達·埃斯皮諾薩、來自阿根廷的現任國際原子能機構總幹事拉斐爾·格羅西、來自哥斯大黎加的現任聯合國貿易和發展會議秘書長蕾韋卡·格林斯潘、來自烏干達的聯合國前副秘書長奧拉拉·奧通努、現任蓋亞那常駐聯合國代表卡羅琳·羅德里格斯-伯基特、塞內加爾前總統麥基·薩勒。現任聯合國秘書長古特雷斯的任期至今年12月31日。（新華社）
-
----
-
-### 2026-08-19 01:29:09  #MKT News
-
-【Ecuador's Ivonne Baki enters race for next UN secretary-general】Ecuadorian diplomat Ivonne Baki has entered the race for UN secretary-general after being nominated by Tonga, UNGA president’s spokesperson Collins said. Other declared candidates are former Chilean president Michelle Bachelet; former UNGA president Maria Fernanda Espinosa (Ecuador); IAEA director-general Rafael Grossi (Argentina); UNCTAD secretary-general Rebeca Grynspan (Costa Rica); former UN deputy secretary-general Olara Otunnu (Uganda); Guyana’s permanent UN representative Caroline Rodrigues‑Birkett; and former Senegal president Macky Sall. Incumbent UN secretary-general Guterres’ term runs through Dec. 31.
 
 ---

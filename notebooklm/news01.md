@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 01:40:24_
-_本檔包含 3313 則快訊，約 638957 字_
+_更新時間：2026-08-21 02:00:43_
+_本檔包含 3332 則快訊，約 639807 字_
+
+---
+
+### 2026-08-21 01:59:05  #MKT News #Important
+
+Sources say Anthropic's IPO is expected to match or exceed SpaceX's record size. The company plans to prepare IPO filing documents as early as the end of August. Anthropic reported Q2 revenue above $11.5 bln and July annualized revenue of $65 bln.
+
+---
+
+### 2026-08-21 01:57:44  #其他 #焦點
+
+市場訊息：Anthropic預計最快於10月上市。
+
+---
+
+### 2026-08-21 01:55:52  #其他
+
+據稱 Anthropic 最快將於 8 月底準備 IPO 申報檔案。
+
+---
+
+### 2026-08-21 01:55:41  #其他
+
+訊息人士：Anthropic 近期投資者簡報會由首席財務官 Rao 主持。
+
+---
+
+### 2026-08-21 01:55:25  #其他
+
+ANTHROPICO預計將與SPACEX創紀錄的IPO規模持平，或成為IT行業領頭羊。
+
+---
+
+### 2026-08-21 01:55:09  #MKT News #Important #Market Themes #AI Revolution
+
+Sources say ANTHROPIC plans to revise its data-retention policy for advanced AI.
+
+---
+
+### 2026-08-21 01:54:31  #其他
+
+【報道：Anthropic計劃調整高階AI的資料保留政策】Anthropic PBC計劃允許企業客戶在使用其最強大的人工智慧模型時，對自身資料保持更大的控制權，這是對早期資料保留政策的重大轉變——該政策最初旨在防範潛在的網路攻擊。據知情人士透露，這家Claude聊天機器人開發商預計將於今年晚些時候推出一套新的安全系統，該系統仍將要求企業客戶保留資料30天，但允許客戶選擇將資料保留在自有的雲端計算基礎設施上，而非Anthropic的伺服器上。這套系統已籌備數月。
+
+---
+
+### 2026-08-21 01:53:28  #MKT News
+
+US Indo-Pacific Command said its current assessment is that the incident does not pose a direct threat to US personnel, US territory or regional allies. The US said it will continue to defend the homeland and regional allies.
+
+---
+
+### 2026-08-21 01:53:06  #MKT News
+
+U.S. Indo-Pacific Command said it has noted recent missile launches and is in close communication with allies and partners.
+
+---
+
+### 2026-08-21 01:52:58  #國際
+
+美國太平洋司令部：我們注意到最近的導彈發射事件，並正在與我們的盟友和夥伴密切協商。根據目前的評估，這些事件不會對美國人員或領土、或我們的盟友構成直接威脅。美國繼續致力於保衛美國本土以及該地區盟友的防務。
+
+---
+
+### 2026-08-21 01:51:27  #國際
+
+美國太平洋司令部：事態發展不會對美國及其盟國構成威脅。
+
+---
+
+### 2026-08-21 01:51:02  #國際
+
+美國太平洋司令部：事態發展不會對美國構成威脅。
+
+---
+
+### 2026-08-21 01:50:47  #國際
+
+美國太平洋司令部：已獲悉近期導彈發射事件。
+
+---
+
+### 2026-08-21 01:50:38  #公司
+
+巴西國家石油公司（PETROBRAS）公告：“亞歷山大·德·古馬奧”號浮式生產儲油卸油輪（FPSO）在梅羅鹽下油田實現產量峰值，日產18萬桶。
+
+---
+
+### 2026-08-21 01:50:13  #市場
+
+市場訊息：商品期貨交易委員會主席塞利格表示，如果《加密貨幣清晰法案》未能透過，工作人員將制定正式的加密貨幣市場結構規則。
+
+---
+
+### 2026-08-21 01:49:24  #MKT News #Market Regions #Wall Street (US) #7211.T
+
+Mitsubishi Motors is shifting its strategic focus to the U.S. and Australia after sustained weakness in Southeast Asian markets eroded a longstanding source of sales support.
+
+---
+
+### 2026-08-21 01:48:23  #央行 #其他
+
+紐約聯儲8月20日常備回購操作未收到任何投標，操作規模為零。
+
+---
+
+### 2026-08-21 01:48:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #PBR.O
+
+Petrobras said the FPSO Alexander de Gusmão at the Mero subsalt field reached peak production of 180,000 bpd of crude.
+
+---
+
+### 2026-08-21 01:48:04  #國際
+
+美國國防部：到2027年，無人機主導計劃計劃採購超過20萬架美國製造的無人機，以維持戰場優勢。
+
+---
+
+### 2026-08-21 01:47:32  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【High mortgage rates squeeze buyers; U.S. housing affordability worsens for first time in nearly three years】NAHB and Wells Fargo data show Q2 median-priced U.S. home at $410,700, with monthly mortgage payments equal to 34% of a typical household's income, up from 32% in Q1 and reversing part of the improvement since early 2025. The groups said higher borrowing costs linked to the U.S.-Iran conflict lifted rates across the economy; the 30-year fixed mortgage rate climbed to about 6.8%, near a one-year high. NAHB also reported the median new-home price rose 2% in the quarter, adding to affordability pressure.
+
+---
+
+### 2026-08-21 01:47:31  #國際
+
+CIA：美國國家情報總監訪問中央情報局總部。
+
+---
+
+### 2026-08-21 01:46:50  #國際
+
+馬斯克轉帖了一張預測美國政府債務規模在2030年將達到50萬億美元的圖片，並配文道：精確無誤（附帶笑哭表情）。
+
+---
+
+### 2026-08-21 01:43:49  #MKT News
+
+Syrian Kurdish leader says Kurdish armed forces and security agencies have completed integration into Syrian government structures.
+
+---
+
+### 2026-08-21 01:42:47  #市場
+
+標普500指數跌至盤中低點0.6%。
 
 ---
 
@@ -98,6 +242,12 @@ Syrian foreign minister said his visit to Pakistan was successful and will furth
 ### 2026-08-21 01:27:29  #MKT News
 
 Kyiv mayor reports a fire in a non-residential area of Holosiivskyi district; firefighters are extinguishing the blaze. One person injured; medical teams are providing assistance.
+
+---
+
+### 2026-08-21 01:27:09  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週四使用規模為2.25億美元（交易對手1家），上個交易日報1.55億美元。
 
 ---
 
@@ -248,6 +398,12 @@ U.S. Treasury issued a new general license authorizing negotiations over the sal
 ### 2026-08-21 01:12:22  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 ZELENSKIY said Russian forces struck with large numbers of ballistic missiles, cruise missiles and drones, and that Ukraine urgently needs allies to provide Patriot air-defence systems to intercept ballistic missiles.
+
+---
+
+### 2026-08-21 01:12:17  #宏觀 #公司 #市場 #國際
+
+【貝森特擴大回購被指“拿紙巾擋海嘯” 利好轉瞬美債收益率重返高位】特朗普政府意外決定擴大長期債券回購規模僅一天後，美國國債走低，顯示這一舉措幾乎未能緩解市場對政府債務激增的擔憂。相關憂慮已推動部分美債收益率升至19年來高位。30年期美債收益率週四一度上漲逾7個基點至5.27%，回到美國財政部週三宣佈擴大回購前的水平，隨後漲幅有所收窄，至5.25%。美國財政部長斯科特·貝森特在接受CNBC採訪時表示，擁有“一個龐大的工具箱”來支撐市場。近2萬億美元的預算赤字、高企的通脹，以及投資人工智慧的科技公司大量發債，都在推動美債收益率上升。貝森特一直試圖更多依靠短期借款來填補政府資金缺口，從而得以維持較長期債券發行規模穩定。週三，美國財政部表示，將把10年至30年期債券的回購規模“至少”提高一倍。這一措施短暫提振美債市場，市場還猜測財政部可能縮減這類債券的新發行規模。道明證券美國利率策略師Molly Brooks表示：“財政部需要更明確地傳達將削減長端國債標售規模，收益率的下行走勢才可能持續。鑑於財政部昨天已經表現出願意出手，這種可能性現在更高了。”週四早些時候，美債拋售最嚴重之際，油價上漲逾3%。Brooks表示，收益率上漲“大部分其實是由油價推動的”，再加上其他基本面因素，顯示回購操作的調整“更像是給美國國債的長端貼了一塊創可貼”。
 
 ---
 
@@ -19965,47 +20121,5 @@ PNC Stock Price Hits 6-week Low — PNC shares decreased to 246.59 USD, the lowe
 ### 2026-08-20 02:27:50  #Trading Economics #Markets #United States #Currency #Importance 1
 
 DXY Falls to Over 2-Month Low — The US dollar index fell below 99 on Wednesday, the lowest since late May, after the US Treasury announced it would double its long-term buyback program. The move signaled that the US Treasury would be willing to actively intervene on the bond market to cap long-term yields, raising the outlook of dollar liquidity in the global financial system from the Treasury General Account. Such measures were in line with earlier efforts to limit the surge in long-dated bonds globally, which often drive foreign companies to sell their dollar holdings to support their currency. Japan and the US had recently intervened in foreign exchange markets, driving the dollar index to plunge, and Treasury Secretary Bessent called for higher limits to the Federal Reserve's FIMA facility for foreign countries to have dollar liquidity without having to actively intervene in foreign exchange markets. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates.
-
----
-
-### 2026-08-20 02:27:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #WTI
-
-【Fed minutes show no support for rate cuts】Fed minutes contained no views supporting rate cuts, marking a clear shift in policy discussion versus a year ago. Markets had expected cuts as inf cooled, but price pressures have persisted — amplified after the Trump administration's involvement in the Israel–Iran conflict — and oil and gas flows via the Strait of Hormuz remain constrained nearly six months after the outbreak. Recent data show a modest easing in inf and an unexpected payroll decline in July, leaving markets priced for the Fed to hold at the Sept. 15–16 meeting. Officials remain divided on the need for further hikes but are more cautious on labour-market strength and risks to achieving full employment; the Fed chair's reluctance to outline his policy path leaves markets without clear guidance.
-
----
-
-### 2026-08-20 02:27:45  #MKT News
-
-India orders inventory limits on bulk sugar consumers, effective Sept 1 through Nov 30.
-
----
-
-### 2026-08-20 02:25:57  #國際
-
-印度政府令：印度對食糖大宗消費商實施存糖限額，該規定自9月1日起生效，有效期至11月30日。
-
----
-
-### 2026-08-20 02:25:53  #MKT News
-
-Colombian official data shows the earthquake death toll has risen to 312.
-
----
-
-### 2026-08-20 02:25:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Rises to Over 2-Month High — Gold prices rose to $4,480 per ounce on Wednesday, the highest since early June, tracking the rally for long-dated US Treasuries after the Treasury Department doubled the buyback of notes and bonds in the upcoming financial quarter. It marked another effort by Washington to contain soaring yields in the longer portion of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. On top of that, the initial increase in dollar liquidity due to the measures also aid gold prices. Meanwhile, minutes of the Federal Reserve's rate-setting meeting confirmed that a portion of policymakers argued that raising rates this year could prevent sharper inflationary pressure later on.
-
----
-
-### 2026-08-20 02:25:13  #MKT News #Commodities #Energy
-
-【Russian deputy PM: Russia has begun importing fuel】Russian Deputy Prime Minister Novak told Russian news channel website reported on the 19th that Russia has begun importing fuel and has enacted necessary regulations to permit production of certain lower-emission-grade fuels.
-
----
-
-### 2026-08-20 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cotton Gains by 3.63% — Top commodity gainers are Cotton (3.63%), Palm Oil (2.92%) and Wheat (2.26%). Biggest loser is Coffee (-1.29%).
 
 ---

@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 01:40:24_
-_本檔包含 3333 則快訊，約 638673 字_
+_更新時間：2026-08-21 02:00:43_
+_本檔包含 3322 則快訊，約 639085 字_
+
+---
+
+### 2026-08-15 15:02:53  #MKT News
+
+【Qiushi to publish Xi article 'Improving Disaster Prevention, Mitigation and Relief Capacity'】Qiushi magazine's Aug. 16 issue will publish an article by General Secretary Xi Jinping, Improving Disaster Prevention, Mitigation and Relief Capacity. Xi warns China's large, geographically complex territory and varied climate make natural disasters frequent. He says since the 18th Party Congress the central leadership has treated disaster prevention, mitigation and relief as a major national priority, implementing shifts in thinking, institutional reforms, system building and capacity upgrades that have helped minimize casualties and property losses. He calls for continued adherence to Party leadership, people- and life-first priorities, respect for natural laws, prevention-first policy, reform and innovation, a systemic approach and social co-governance, and urges these practices be maintained and adapted to new conditions.
+
+---
+
+### 2026-08-15 15:02:20  #宏觀 #其他
+
+【《求是》雜誌發表習近平總書記重要文章《提高防災減災救災能力》】8月16日出版的第16期《求是》雜誌將發表中共中央總書記、國家主席、中央軍委主席習近平的重要文章《提高防災減災救災能力》。文章強調，我國國土廣袤、地理複雜、氣候多樣，自然災害易發多發。黨的十八大以來，黨中央堅持把防災減災救災工作作為關係人民安危和國家安全的大事來抓，在理念轉變、體制改革、體系建設、能力提升等方面作出許多部署，帶領廣大幹部群眾戰勝一系列重特大自然災害，最大限度減少人員傷亡和財產損失，成效舉世公認。做好防災減災救災工作，必須堅持黨的全面領導，堅持人民至上、生命至上，堅持尊重自然規律，堅持預防為主，堅持改革創新，堅持系統觀念，堅持社會共治。這些寶貴經驗要堅持好運用好，並結合新的實際不斷豐富和發展。文章指出，當前，我國防災減災救災工作面臨不少新情況新問題。要站在統籌高質量發展和高水平安全的戰略高度，充分認識做好防災減災救災工作的極端重要性，著力揚優勢、補短板、強弱項，不斷提高防範應對各類自然災害的能力和水平，切實維護人民群眾生命財產安全和社會穩定，確保中國式現代化行穩致遠。（新華社）
+
+---
+
+### 2026-08-15 15:00:40  #MKT News
+
+【National flood agency raises Jiangsu emergency to Level-3; Zhejiang starts Level-4】The National Flood and Drought Control Headquarters and Ministry of Emergency Management said they raised Jiangsu’s flood-control emergency from Level-4 to Level-3 effective 12:00 Aug. 15, and activated a Level-4 response for Zhejiang. The move follows Typhoon No.13 White Dolphin and recent heavy rainfall; the Taihu basin has seen a significant basin-wide flood and lake levels are forecast to continue rising slowly. Forecasts show heavy to very heavy rain in parts of eastern and southern Zhejiang on Aug. 15–16.
 
 ---
 
@@ -20042,89 +20060,5 @@ Venezuela's oil minister says Caracas has signed development agreements for the 
 ### 2026-08-14 02:03:13  #MKT News
 
 【Iran's foreign ministry again condemns U.S., Israel for violating international humanitarian law】On the 13th, marking the 77th anniversary of the Fourth Geneva Convention, Iran's foreign ministry issued a statement condemning the U.S. and Israel for violations of international humanitarian law and urging the international community to ensure compliance with the Geneva Conventions. The statement accused Israel of committing violations in Palestine, Lebanon and Syria in recent years and said U.S. support for Israel has further exacerbated those violations.
-
----
-
-### 2026-08-14 02:00:22  #國際
-
-【伊朗外交部再次譴責美以違反國際人道法】當地時間13日，在《日內瓦第四公約》透過77週年之際，伊朗外交部發表宣告，譴責美國和以色列違反國際人道法，並呼籲國際社會採取行動，確保《日內瓦公約》得到遵守。伊朗外交部在宣告中譴責以色列過去數年在巴勒斯坦、黎巴嫩和敘利亞實施違反國際人道法的行為，並稱美國對以色列的支援進一步加劇了相關問題。（央視新聞）
-
----
-
-### 2026-08-14 02:00:01  #國際
-
-以色列方面訊息：美國海軍上將呼籲對伊朗天然氣、石油及電力基礎設施重新發動打擊。
-
----
-
-### 2026-08-14 01:59:03  #其他
-
-沙特方面訊息：葉門胡塞武裝用兩枚彈道導彈襲擊了位於曼德海峽附近的哈里基亞重要設施。
-
----
-
-### 2026-08-14 01:57:12  #MKT News #Brent #Impact bullish #WTI
-
-Saudi outlet Alhadath reported Yemen's Houthi forces launched two ballistic missiles at an important facility in Harikiyah near the Bab al-Mandeb Strait.
-
----
-
-### 2026-08-14 01:54:02  #國際
-
-美國國家颶風中心：熱帶風暴拉拉已生成。
-
----
-
-### 2026-08-14 01:53:38  #國際
-
-美國國家颶風中心：空軍偵察機即將對拉拉熱帶風暴開展探測任務。
-
----
-
-### 2026-08-14 01:51:25  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-Turkish Foreign Minister Hakan Fidan said an alliance aimed at Turkey exists in the region. He said Israel, the Greek Cypriot administration and Greece earlier formed a security alliance in the Mediterranean that "draws a line along the midline of the Mediterranean," and that Turkey's own alignment is not aimed at any country but is intended to strengthen cooperation and deterrence.
-
----
-
-### 2026-08-14 01:48:57  #國際
-
-以色列軍方稱，週四在加沙擊斃一名哈馬斯指揮官。
-
----
-
-### 2026-08-14 01:47:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Turkey's foreign minister said Ankara expects the United States to exert necessary pressure on Israel; otherwise Turkey, Qatar and Egypt will have to take aggressive measures on the issue, which he described as their duty to their countries, peoples and the Palestinians.
-
----
-
-### 2026-08-14 01:46:54  #央行 #其他
-
-紐約聯儲8月13日常備回購操作中，收到的20億美元投標全部接納。
-
----
-
-### 2026-08-14 01:45:34  #國際
-
-土耳其外交部長表示，土耳其位於地中海以北，埃及位於以南，這種聯盟“正劃出一條直線穿過中間”，有著明確的目的，而土耳其自己的聯盟並非針對任何國家，而是旨在建立合作框架並確立威懾力。
-
----
-
-### 2026-08-14 01:45:17  #國際
-
-土耳其外交部長表示，當被問及是否在該地區針對土耳其正在形成其他聯盟時，他回答“是的，有”，並指出，在麥加聯盟簽署之前，以色列、希臘塞普勒斯當局和希臘已在東地中海建立了安全聯盟。
-
----
-
-### 2026-08-14 01:43:12  #其他
-
-PLACER.AI資料：8月3日當週TACO BELL客流量下降8%，而7月中旬降幅接近20%。
-
----
-
-### 2026-08-14 01:40:54  #國際
-
-【第二艘超級油輪現身沙特主要石油出口碼頭 裝船活動或在回升】第二艘超級油輪似乎已停靠沙特位於波斯灣的主要石油出口碼頭，進一步顯示該樞紐的裝船活動可能正在回升。與此同時，沙特經紅海的替代運輸路線正面臨威脅。歐盟“哨兵2號”衛星週四拍攝的影象顯示，又一艘超大型原油運輸船停靠在朱艾邁的一處單點繫泊設施。此類油輪可裝載約200萬桶原油。朱艾邁碼頭是大型拉斯坦努拉石油出口設施的一部分。附近一處週二曾停靠另一艘油輪的繫泊設施目前已經空出。
 
 ---

@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 01:40:24_
-_本檔包含 2908 則快訊，約 638853 字_
+_更新時間：2026-08-21 02:00:43_
+_本檔包含 2920 則快訊，約 638642 字_
+
+---
+
+### 2026-08-17 19:59:52  #MKT News #0388.HK
+
+【HKEX extends group CEO Chen Yiting's term by three years】HKEX said its board has approved a three-year extension of group CEO Chen Yiting’s contract, effective March 1, 2027 through Feb. 28, 2030 (inclusive).
+
+---
+
+### 2026-08-17 19:59:45  #國際
+
+美國8月14日擔保隔夜融資利率為3.62%，與8月13日持平。
+
+---
+
+### 2026-08-17 19:59:30  #公司
+
+【興福電子：2026年上半年營收9.66億元 同比增43.71%】興福電子公告稱，2026年上半年公司實現營業收入9.66億元，歸母淨利潤1.23億元，扣非歸母淨利潤1.19億元，同比分別增長43.71%、17.91%、24.91%。當期研發投入4218.31萬元，佔營收比例4.36%，同比增長7.51%，新增授權專利31項。2026年上半年實施2025年權益分派，合計派發現金紅利1.08億元。
+
+---
+
+### 2026-08-17 19:58:48  #其他
+
+市場訊息：布蘭迪萬房地產啟動最高1億美元票據現金要約收購。
+
+---
+
+### 2026-08-17 19:58:32  #公司
+
+【上海合晶：多名董監高擬合計減持不超0.033%股份】上海合晶公告稱，公司收到董事長毛瑞源、董事焦平海、董事邰中和、職工董事兼總經理兼核心技術人員陳建綱、董事會秘書莊子祊出具的減持股份計劃告知函，五人因自身資金需求，計劃於2026年9月8日至2026年12月7日期間，透過集中競價交易方式合計減持不超過219664股，合計佔公司總股本不超過0.033%。本次減持股份來源均為股權激勵取得，減持價格將根據減持時的市場價格確定。
+
+---
+
+### 2026-08-17 19:57:15  #公司
+
+【瑞芯微：2026年上半年淨利潤8.59億元，同比增長61.73%】瑞芯微公告，2026年上半年營業收入28.77億元，同比增長40.60%。歸屬於上市公司股東的淨利潤8.59億元，同比增長61.73%。歸屬於上市公司股東的扣除非經常性損益的淨利潤8.39億元，同比增長62.77%。本報告期利潤分配預案為無。
+
+---
+
+### 2026-08-17 19:56:58  #公司
+
+【新巨豐：下屬子公司紛美包裝復牌進展存不確定性】新巨豐公告稱，公司要約收購紛美包裝完成後，其公眾持股量不足25%，紛美包裝股票自2025年2月19日起停牌。紛美包裝預計於2026年8月18日將連續停牌滿18個月，若未能在該日前履行全部復牌指引並獲香港聯交所同意恢復買賣，其上市地位可能被取消。目前紛美包裝尚未完成全部復牌要求，擬申請延長履行復牌指引的期限，該申請能否獲批存在不確定性。紛美包裝日常經營正常，其上市地位變動不會對公司及自身主營業務造成重大不利影響。
+
+---
+
+### 2026-08-17 19:56:53  #公司
+
+科威特航空與Al Muzaini兌換公司簽署合作協議，以提升客戶服務。
+
+---
+
+### 2026-08-17 19:56:48  #其他
+
+德國復興信貸銀行3年期綠色債券歐元基準發行。
+
+---
+
+### 2026-08-17 19:56:38  #其他
+
+市場訊息：截至上週四，巴西中南部地區2026年第二輪玉米收割面積預計佔種植面積的85%。
+
+---
+
+### 2026-08-17 19:55:35  #公司 #市場
+
+【南華期貨：2026年上半年淨利潤3.88億元，同比增67.91%】南華期貨公告，2026年上半年營業收入8.79億元，同比增長48.18%；歸屬於上市公司股東的淨利潤3.88億元，同比增長67.91%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.84億元，同比增長65.88%。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-17 19:55:07  #其他
+
+【四川啟動四級防汛應急響應】根據當前防汛形勢，四川省防汛抗旱指揮部研究決定8月17日17時啟動四級防汛應急響應，四川省水利廳同步啟動洪水災害防禦四級響應。（新華社）
+
+---
+
+### 2026-08-17 19:54:47  #公司
+
+【智翔金泰：GR2302注射液獲臨床試驗批准通知書，用於乙肝病毒相關肝細胞癌】智翔金泰公告，公司近日收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，在研產品GR2302注射液（皮下注射）臨床試驗申請獲得批准，適應症為乙肝病毒相關肝細胞癌。
+
+---
+
+### 2026-08-17 19:54:27  #公司
+
+【比亞迪：公司海外業務保持良好增長態勢】比亞迪8月17日在互動平臺表示，公司海外業務保持良好增長態勢，物流運力作為出海產業鏈的重要環節，公司始終在積極統籌規劃，持續最佳化全球供應鏈與運輸資源的配置效率。目前自有出海船隊已有八艘滾裝船投入運營，在複雜外部環境下持續強化供應保障能力，有效提升全球交付效率與供應鏈韌性。
+
+---
+
+### 2026-08-17 19:54:22  #公司
+
+【曝三星計劃明年推出全新闊摺疊手機】據報道，三星電子計劃在明年推出一款全新闊摺疊手機。業內認為，今年上市的Galaxy Z Fold8市場反饋較好，從而讓三星“嚐到了甜頭”，希望繼續探索摺疊屏手機新形態。（EtNews）
 
 ---
 
@@ -17517,23 +17607,5 @@ Iran's communications minister says more than 500 telecommunications sites were 
 ### 2026-08-15 15:07:08  #其他
 
 【中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通】8月15日，中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通，首批108名遊客開啟跨境之旅，為共建“一帶一路”、中蒙俄經濟走廊人文交流增添全新載體。此次跨境一日遊大幅最佳化手續，遊客無需提前辦理護照簽證，僅憑身份證即可參團，中國公民邊境旅遊團隊名單表的規範填報、人員資訊篩查、通行證明出具等全部流程均由有正規邊境旅遊經營資質的旅行社統一代辦，二連浩特公安局、出入境管理大隊並聯審批、高效出證。二連出入境邊防檢查站最佳化查驗舉措，實行團隊“團進團出”快速通關，大幅縮短候檢時間。（央視新聞）
-
----
-
-### 2026-08-15 15:02:53  #MKT News
-
-【Qiushi to publish Xi article 'Improving Disaster Prevention, Mitigation and Relief Capacity'】Qiushi magazine's Aug. 16 issue will publish an article by General Secretary Xi Jinping, Improving Disaster Prevention, Mitigation and Relief Capacity. Xi warns China's large, geographically complex territory and varied climate make natural disasters frequent. He says since the 18th Party Congress the central leadership has treated disaster prevention, mitigation and relief as a major national priority, implementing shifts in thinking, institutional reforms, system building and capacity upgrades that have helped minimize casualties and property losses. He calls for continued adherence to Party leadership, people- and life-first priorities, respect for natural laws, prevention-first policy, reform and innovation, a systemic approach and social co-governance, and urges these practices be maintained and adapted to new conditions.
-
----
-
-### 2026-08-15 15:02:20  #宏觀 #其他
-
-【《求是》雜誌發表習近平總書記重要文章《提高防災減災救災能力》】8月16日出版的第16期《求是》雜誌將發表中共中央總書記、國家主席、中央軍委主席習近平的重要文章《提高防災減災救災能力》。文章強調，我國國土廣袤、地理複雜、氣候多樣，自然災害易發多發。黨的十八大以來，黨中央堅持把防災減災救災工作作為關係人民安危和國家安全的大事來抓，在理念轉變、體制改革、體系建設、能力提升等方面作出許多部署，帶領廣大幹部群眾戰勝一系列重特大自然災害，最大限度減少人員傷亡和財產損失，成效舉世公認。做好防災減災救災工作，必須堅持黨的全面領導，堅持人民至上、生命至上，堅持尊重自然規律，堅持預防為主，堅持改革創新，堅持系統觀念，堅持社會共治。這些寶貴經驗要堅持好運用好，並結合新的實際不斷豐富和發展。文章指出，當前，我國防災減災救災工作面臨不少新情況新問題。要站在統籌高質量發展和高水平安全的戰略高度，充分認識做好防災減災救災工作的極端重要性，著力揚優勢、補短板、強弱項，不斷提高防範應對各類自然災害的能力和水平，切實維護人民群眾生命財產安全和社會穩定，確保中國式現代化行穩致遠。（新華社）
-
----
-
-### 2026-08-15 15:00:40  #MKT News
-
-【National flood agency raises Jiangsu emergency to Level-3; Zhejiang starts Level-4】The National Flood and Drought Control Headquarters and Ministry of Emergency Management said they raised Jiangsu’s flood-control emergency from Level-4 to Level-3 effective 12:00 Aug. 15, and activated a Level-4 response for Zhejiang. The move follows Typhoon No.13 White Dolphin and recent heavy rainfall; the Taihu basin has seen a significant basin-wide flood and lake levels are forecast to continue rising slowly. Forecasts show heavy to very heavy rain in parts of eastern and southern Zhejiang on Aug. 15–16.
 
 ---

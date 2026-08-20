@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 01:40:24_
-_本檔包含 3285 則快訊，約 638515 字_
+_更新時間：2026-08-21 02:00:43_
+_本檔包含 3279 則快訊，約 639579 字_
+
+---
+
+### 2026-08-19 01:50:48  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran foreign minister: recent clashes show countries without US bases suffer less damage】On the 18th, Iran's foreign minister Araqchi said recent clashes show countries without US military bases suffer less damage, and that US bases cannot shield US interests from strikes by resistance forces. He said Qatar and Pakistan played effective mediating roles between Iran and the US and that Tehran's ties with Qatar are currently very good. He urged a new Middle East security concept based on "common security" and addressing economic imbalances, warning the Persian Gulf cannot achieve lasting peace without comprehensive cooperation.
+
+---
+
+### 2026-08-19 01:43:41  #國際
+
+【伊朗外長：近期衝突表明未設美軍基地的國家受損害更小】當地時間18日，伊朗外交部長阿拉格齊表示，近期發生的衝突表明，沒有設立美軍基地的國家受到的損害更小，而美軍基地甚至無法保護自身利益免受抵抗力量的打擊。阿拉格齊指出，卡達和巴基斯坦在伊朗與美國之間發揮了有效的斡旋作用，目前德黑蘭與卡達的關係處於非常良好的階段。他強調，中東地區的新安全觀必須建立在“共同安全”和解決經濟不平衡問題的基礎上，如果沒有全方位的合作，波斯灣地區將無法實現持久和平。（央視新聞）
+
+---
+
+### 2026-08-19 01:37:09  #MKT News
+
+【Zelenskiy discusses drone cooperation and €1.1bn 2026 aid with Belgian foreign minister】Ukrainian President Zelenskiy met Belgian Foreign Minister Maxime Prévot in Kyiv on Tuesday and said in a social media post that his team is drafting an agreement on bilateral drone cooperation and they discussed a possible signing date. He thanked Belgium for pledging more than €1.1 billion in aid to Ukraine in 2026.
+
+---
+
+### 2026-08-19 01:36:59  #MKT News
+
+Israel Defense Forces said it struck a Hamas Nukhba commander in the Gaza Strip in response to an earlier attack today.
+
+---
+
+### 2026-08-19 01:35:02  #其他
+
+【比特幣巨鯨豪擲27.5億美元重返市場掃貨】據CryptoQuant資料（其計算排除了交易所和礦池），過去60天內，比特幣巨鯨累計增持約4.3萬枚比特幣，按當前價格計算價值約27.5億美元。當比特幣價格開始交投於6萬美元附近時，大型持有者重新投入買入，所謂”海豚”（中等偏上持有者）的持倉餘額也在增長，持有100-1000枚比特幣的中型持有者更是掀起了一波買入狂潮。重量級投資者入場的趨勢，為市場正在築底並可能開啟新一輪牛市週期增添了訊號，但參與度偏低和信心不足仍是市場隱憂。
+
+---
+
+### 2026-08-19 01:32:13  #MKT News
+
+A Yemen government-backed armed group said Houthi shelling in Hodeidah province's Khokha district killed three people, including a child.
+
+---
+
+### 2026-08-19 01:30:25  #國際
+
+【阿聯酋監測到兩枚從伊朗發射的導彈】阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。阿聯酋國防部說，該國目前處於高度戒備狀態，已做好應對任何威脅的準備。（新華社）
+
+---
+
+### 2026-08-19 01:29:10  #其他
+
+【厄瓜多外交官巴基角逐下一任聯合國秘書長】聯大主席發言人柯林斯18日宣佈，厄瓜多外交官伊沃內·巴基角逐下一任聯合國秘書長。柯林斯說，巴基的候選人身份由湯加提名。目前，除巴基外，另有7人角逐下一任聯合國秘書長職位，分別為：智利前總統米歇爾·巴切萊特、來自厄瓜多的聯大前主席瑪麗亞·費爾南達·埃斯皮諾薩、來自阿根廷的現任國際原子能機構總幹事拉斐爾·格羅西、來自哥斯大黎加的現任聯合國貿易和發展會議秘書長蕾韋卡·格林斯潘、來自烏干達的聯合國前副秘書長奧拉拉·奧通努、現任蓋亞那常駐聯合國代表卡羅琳·羅德里格斯-伯基特、塞內加爾前總統麥基·薩勒。現任聯合國秘書長古特雷斯的任期至今年12月31日。（新華社）
+
+---
+
+### 2026-08-19 01:29:09  #MKT News
+
+【Ecuador's Ivonne Baki enters race for next UN secretary-general】Ecuadorian diplomat Ivonne Baki has entered the race for UN secretary-general after being nominated by Tonga, UNGA president’s spokesperson Collins said. Other declared candidates are former Chilean president Michelle Bachelet; former UNGA president Maria Fernanda Espinosa (Ecuador); IAEA director-general Rafael Grossi (Argentina); UNCTAD secretary-general Rebeca Grynspan (Costa Rica); former UN deputy secretary-general Olara Otunnu (Uganda); Guyana’s permanent UN representative Caroline Rodrigues‑Birkett; and former Senegal president Macky Sall. Incumbent UN secretary-general Guterres’ term runs through Dec. 31.
 
 ---
 
@@ -19738,95 +19792,5 @@ Canada | National Economic Confidence Index (Aug.14) | actual 53.4 | previous 53
 ### 2026-08-17 20:00:00  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
 
 【Societe Generale: US data trims speculative dollar-long bets】Societe Generale analyst Kit Jukes says weakening justification for dollar longs has prompted speculators to cut bullish dollar positions amid light trading. He warns this month’s US data—broad softness across consumption, inflation and employment—may have sent a false signal but has already led markets to lower US rate-hike expectations. The choice now, he says, is to wait for September data or accept the dollar index could trade in a 95–100 range for the remainder of the year.
-
----
-
-### 2026-08-17 19:59:52  #MKT News #0388.HK
-
-【HKEX extends group CEO Chen Yiting's term by three years】HKEX said its board has approved a three-year extension of group CEO Chen Yiting’s contract, effective March 1, 2027 through Feb. 28, 2030 (inclusive).
-
----
-
-### 2026-08-17 19:59:45  #國際
-
-美國8月14日擔保隔夜融資利率為3.62%，與8月13日持平。
-
----
-
-### 2026-08-17 19:59:30  #公司
-
-【興福電子：2026年上半年營收9.66億元 同比增43.71%】興福電子公告稱，2026年上半年公司實現營業收入9.66億元，歸母淨利潤1.23億元，扣非歸母淨利潤1.19億元，同比分別增長43.71%、17.91%、24.91%。當期研發投入4218.31萬元，佔營收比例4.36%，同比增長7.51%，新增授權專利31項。2026年上半年實施2025年權益分派，合計派發現金紅利1.08億元。
-
----
-
-### 2026-08-17 19:58:48  #其他
-
-市場訊息：布蘭迪萬房地產啟動最高1億美元票據現金要約收購。
-
----
-
-### 2026-08-17 19:58:32  #公司
-
-【上海合晶：多名董監高擬合計減持不超0.033%股份】上海合晶公告稱，公司收到董事長毛瑞源、董事焦平海、董事邰中和、職工董事兼總經理兼核心技術人員陳建綱、董事會秘書莊子祊出具的減持股份計劃告知函，五人因自身資金需求，計劃於2026年9月8日至2026年12月7日期間，透過集中競價交易方式合計減持不超過219664股，合計佔公司總股本不超過0.033%。本次減持股份來源均為股權激勵取得，減持價格將根據減持時的市場價格確定。
-
----
-
-### 2026-08-17 19:57:15  #公司
-
-【瑞芯微：2026年上半年淨利潤8.59億元，同比增長61.73%】瑞芯微公告，2026年上半年營業收入28.77億元，同比增長40.60%。歸屬於上市公司股東的淨利潤8.59億元，同比增長61.73%。歸屬於上市公司股東的扣除非經常性損益的淨利潤8.39億元，同比增長62.77%。本報告期利潤分配預案為無。
-
----
-
-### 2026-08-17 19:56:58  #公司
-
-【新巨豐：下屬子公司紛美包裝復牌進展存不確定性】新巨豐公告稱，公司要約收購紛美包裝完成後，其公眾持股量不足25%，紛美包裝股票自2025年2月19日起停牌。紛美包裝預計於2026年8月18日將連續停牌滿18個月，若未能在該日前履行全部復牌指引並獲香港聯交所同意恢復買賣，其上市地位可能被取消。目前紛美包裝尚未完成全部復牌要求，擬申請延長履行復牌指引的期限，該申請能否獲批存在不確定性。紛美包裝日常經營正常，其上市地位變動不會對公司及自身主營業務造成重大不利影響。
-
----
-
-### 2026-08-17 19:56:53  #公司
-
-科威特航空與Al Muzaini兌換公司簽署合作協議，以提升客戶服務。
-
----
-
-### 2026-08-17 19:56:48  #其他
-
-德國復興信貸銀行3年期綠色債券歐元基準發行。
-
----
-
-### 2026-08-17 19:56:38  #其他
-
-市場訊息：截至上週四，巴西中南部地區2026年第二輪玉米收割面積預計佔種植面積的85%。
-
----
-
-### 2026-08-17 19:55:35  #公司 #市場
-
-【南華期貨：2026年上半年淨利潤3.88億元，同比增67.91%】南華期貨公告，2026年上半年營業收入8.79億元，同比增長48.18%；歸屬於上市公司股東的淨利潤3.88億元，同比增長67.91%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.84億元，同比增長65.88%。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-17 19:55:07  #其他
-
-【四川啟動四級防汛應急響應】根據當前防汛形勢，四川省防汛抗旱指揮部研究決定8月17日17時啟動四級防汛應急響應，四川省水利廳同步啟動洪水災害防禦四級響應。（新華社）
-
----
-
-### 2026-08-17 19:54:47  #公司
-
-【智翔金泰：GR2302注射液獲臨床試驗批准通知書，用於乙肝病毒相關肝細胞癌】智翔金泰公告，公司近日收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，在研產品GR2302注射液（皮下注射）臨床試驗申請獲得批准，適應症為乙肝病毒相關肝細胞癌。
-
----
-
-### 2026-08-17 19:54:27  #公司
-
-【比亞迪：公司海外業務保持良好增長態勢】比亞迪8月17日在互動平臺表示，公司海外業務保持良好增長態勢，物流運力作為出海產業鏈的重要環節，公司始終在積極統籌規劃，持續最佳化全球供應鏈與運輸資源的配置效率。目前自有出海船隊已有八艘滾裝船投入運營，在複雜外部環境下持續強化供應保障能力，有效提升全球交付效率與供應鏈韌性。
-
----
-
-### 2026-08-17 19:54:22  #公司
-
-【曝三星計劃明年推出全新闊摺疊手機】據報道，三星電子計劃在明年推出一款全新闊摺疊手機。業內認為，今年上市的Galaxy Z Fold8市場反饋較好，從而讓三星“嚐到了甜頭”，希望繼續探索摺疊屏手機新形態。（EtNews）
 
 ---
