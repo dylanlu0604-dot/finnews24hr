@@ -1,7 +1,87 @@
 {
   "date": "2026-08-20",
-  "count": 2995,
+  "count": 3004,
   "items": [
+    {
+      "id": "5050374",
+      "time": "2026-08-20 22:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為中國政企業務副總裁郭振興到雲鼎科技座談交流】據云鼎科技訊息，8月20日，華為中國政企業務副總裁郭振興一行5人到雲鼎科技就進一步深化合作開展交流座談。雙方圍繞能源行業智慧化發展趨勢、商業模式創新升級等核心議題展開深度研討，充分交流發展思路、凝聚合作共識，進一步細化明確了後續合作方向、落地舉措及推進路徑。"
+    },
+    {
+      "id": "5050373",
+      "time": "2026-08-20 22:09:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新一輪晶片漲價潮來襲 半導體公司密集宣佈漲價】AI對半導體產業鏈的“虹吸效應”仍在持續發酵。進入2026年下半年，新一輪晶片漲價潮以更廣的覆蓋面和更強的力度席捲而來。8月10日，射頻晶片龍頭卓勝微釋出調價函，宣佈自9月1日起對全系列RF產品執行新價格。次日，國民技術跟進，將部分MCU產品價格上調10%至20%。國際大廠方面，意法半導體（ST）將於8月23日完成年內第三次調價，亞德諾（ADI）也將於9月13日起執行第二輪新價格。從儲存晶片到MCU，從射頻前端到功率半導體，從模擬晶片到被動元件，漲價函正密集落地。相比上半年的那波漲價，本輪行情更突出的特點是：AI算力需求爆發對成熟製程產能形成“虹吸效應”，疊加供應鏈成本上行、供需持續收緊與國產替代需求擴容，共同將半導體行業推入量價齊升的上行週期。"
+    },
+    {
+      "id": "mkt:01a01f80-f9b5-7aab-90b9-8749ec9d7ab7",
+      "time": "2026-08-20 22:09:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported Houthi forces used attack drones to strike Najran airport and ARAMCO oil facilities."
+    },
+    {
+      "id": "mkt:01a01f80-add0-7aab-90b9-7e8ad74f5aca",
+      "time": "2026-08-20 22:08:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi movement says it struck Najran airport and Aramco facilities】Houthi spokesman Yahya Sarea said the group used two drones to strike sensitive targets at Saudi Arabia’s Najran airport and Aramco facilities in Najran, claiming both strikes were successful and were retaliation for a Saudi drone incursion into Saada province airspace."
+    },
+    {
+      "id": "mkt:01a01f80-309b-7aab-90b9-73449106c761",
+      "time": "2026-08-20 22:08:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli Air Force has completed relocating a helicopter squadron from Ramon Airbase in the south to Ramat David Airbase in the north, saying the move is intended to strengthen northern border defenses and to apply lessons from the Oct. 7, 2023 attack."
+    },
+    {
+      "id": "5050372",
+      "time": "2026-08-20 22:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾今年以來已報告近3000例登革熱病例】尼泊爾流行病與疾病控制局釋出的最新資料顯示，截至8月15日，該國77個縣中有74個縣報告了登革熱病例，累計報告病例2844例。今年以來，該國已報告兩例登革熱相關死亡病例。尼泊爾衛生部門日前警告說，登革熱疫情已幾乎蔓延至全國，隨著雨季後期的到來，感染病例可能進一步增多。（新華社）"
+    },
+    {
+      "id": "5050371",
+      "time": "2026-08-20 22:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "SWIFT CURRENT ENERGY獲得7.5億美元企業信貸額度，以加速美國能源開發。"
+    },
+    {
+      "id": "5050370",
+      "time": "2026-08-20 22:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度徵集100萬噸原糖進口申請。"
+    },
+    {
+      "id": "5050369",
+      "time": "2026-08-20 22:07:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【統計：韓國百歲以上老人近十年增近三倍】韓國國家資料處20日釋出的“2025人口住宅普查100週歲以上老人統計資料”顯示，2025年韓國100週歲以上老人共有8604人，為10年前的2.7倍。"
+    },
     {
       "id": "5050368",
       "time": "2026-08-20 22:06:52",
