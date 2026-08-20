@@ -1,7 +1,33 @@
 {
   "date": "2026-08-20",
-  "count": 922,
+  "count": 925,
   "items": [
+    {
+      "id": "mkt:01a01d11-f998-7aab-90a7-72765c651d6c",
+      "time": "2026-08-20 10:48:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share fiber-optic sector surged; Wanlong Optoelectronics and Changyingtong hit 20% limit-up, Tongding Interconnect earlier hit the daily limit, and Taichen Photonics, Tengjing Technology, Dekoli, Sanwang Communications and Youlide rose over 10%."
+    },
+    {
+      "id": "5048966",
+      "time": "2026-08-20 10:46:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【友邦人壽2026年上半年新業務價值增長20%】友邦保險控股有限公司公佈2026年中期業績顯示，其全資子公司友邦人壽上半年新業務價值增長20%，年化新保費增長30%。"
+    },
+    {
+      "id": "5048965",
+      "time": "2026-08-20 10:46:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MiniMax釋出Agent工作臺MiniMax Design，推動H3模型商業化】8月20日，MiniMax釋出多模態創作Agent工作臺MiniMax Design。作為H3開源後首個官方Harness，該產品在H3基礎上進一步解決任務規劃與協作問題，推動模型走向商業內容生產。系統以自然語言為介面，由Agent拆解任務。亮點功能“3D導演臺”支援前置3D分鏡與機位調整，將試錯提前；結合自動剪輯裝配，實現從構思到交付全過程。該產品聚焦電商、教育及創意短片場景。同時相容ComfyUI工作流與本地部署，支援Agent輔助調整節點，進一步整合了開源創作者生態。"
+    },
     {
       "id": "5048964",
       "time": "2026-08-20 10:45:15",
