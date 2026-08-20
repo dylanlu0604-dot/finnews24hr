@@ -1,7 +1,176 @@
 {
   "date": "2026-08-20",
-  "count": 1685,
+  "count": 1704,
   "items": [
+    {
+      "id": "mkt:01a01e4d-f6c4-7aab-90ae-71ed47ed62ec",
+      "time": "2026-08-20 16:33:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09992.HK",
+        "Impact bullish"
+      ],
+      "text": "Pop Mart (09992.HK) 1H revenue 17.173 bln yuan, up 23.8% YoY; profit attributable to owners 5.038 bln yuan, up 10.1% YoY."
+    },
+    {
+      "id": "5049476",
+      "time": "2026-08-20 16:33:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬鼎控股：公司SLP產品已和行業頭部光模組企業建立合作 切入800G、1.6T高階光模組市場並實現量產出貨】鵬鼎控股(002938.SZ)釋出投資者關係活動記錄表公告，公司目前有十餘座廠房正在建設，另有部分廠房處於規劃階段，在建產能預計自2027年起陸續投產，明後兩年將成為公司AI算力業務產能集中釋放的關鍵視窗期。在AI伺服器業務方向，公司已完成適配GPU模組的高階HDI、元件內埋等前沿技術開發，高階HDI相關產品已順利進入AI伺服器供應鏈，先後透過主流伺服器廠商、雲廠商的認證，現階段正逐步實現批次供貨。高速光模組業務方面，公司SLP產品已和行業頭部光模組企業建立合作，切入800G、1.6T高階光模組市場並實現量產出貨，3.2T相關產品處於研發推進階段。"
+    },
+    {
+      "id": "5049475",
+      "time": "2026-08-20 16:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力生製藥：2026年上半年營收6.42億元 淨利同比降77.16%】力生製藥公告稱，2026年上半年實現營業收入6.42億元，同比下降12.29%；歸屬於上市公司股東的淨利潤7832.60萬元，同比下降77.16%；扣除非經常性損益的淨利潤6704.20萬元，同比下降35.68%。基本每股收益0.25元，同比下降77.48%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5049474",
+      "time": "2026-08-20 16:33:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "泡泡瑪特上半年THE MONSTERS藝術家IP營收44.5億元人民幣。"
+    },
+    {
+      "id": "5049473",
+      "time": "2026-08-20 16:32:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "泡泡瑪特：銷售及分銷開支39.3億元人民幣，預估51.9億元人民幣；調整後淨利潤51.6億元人民幣，預估66.7億元人民幣；每股收益3.79元人民幣。"
+    },
+    {
+      "id": "5049472",
+      "time": "2026-08-20 16:32:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "泡泡瑪特上半年海外營收49.7億元人民幣。"
+    },
+    {
+      "id": "5049471",
+      "time": "2026-08-20 16:31:46",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國香港7月綜合CPI年率 1.7%，預期1.7%，前值2.00%。"
+    },
+    {
+      "id": "5049470",
+      "time": "2026-08-20 16:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "泡泡瑪特上半年毛利率69.7％，預估70％。"
+    },
+    {
+      "id": "mkt:01a01e4c-1618-7aab-90ae-690f66c99206",
+      "time": "2026-08-20 16:31:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong composite CPI YoY 1.7% in July, matching consensus 1.7% and down from June's 2.0%."
+    },
+    {
+      "id": "mkt:01a01e4b-f5ac-7aab-90ae-63bf06001e2a",
+      "time": "2026-08-20 16:31:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Composite CPI (YoY) (Jul) | actual 1.7% | consensus 1.7% | previous 2.00%"
+    },
+    {
+      "id": "mkt:01a01e4b-be61-7aab-90ae-5968e5f5205c",
+      "time": "2026-08-20 16:31:15",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan (CNY) closed at 6.7239 per US dollar at 16:30 on Aug 20, up 138 pips from the previous session."
+    },
+    {
+      "id": "5049469",
+      "time": "2026-08-20 16:31:05",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "泡泡瑪特上半年淨利潤50.4億元人民幣，預估66.4億元人民幣。"
+    },
+    {
+      "id": "5049468",
+      "time": "2026-08-20 16:31:00",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "泡泡瑪特上半年營收171.7億元人民幣，預估199.8億元人民幣。"
+    },
+    {
+      "id": "5049467",
+      "time": "2026-08-20 16:30:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7239，較上一交易日上漲138點。"
+    },
+    {
+      "id": "5049466",
+      "time": "2026-08-20 16:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會副議長週四表示，華盛頓將關注點從伊朗核計劃轉向霍爾木茲海峽，這恰恰說明針對德黑蘭的軍事聯盟已經失敗。"
+    },
+    {
+      "id": "mkt:01a01e4b-1f41-7aab-90ae-514e3e7af9a2",
+      "time": "2026-08-20 16:30:34",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong three-month unemployment rate for July 3.7%, in line with expectations and unchanged from the prior 3.7%."
+    },
+    {
+      "id": "mkt:01a01e4a-f858-7aab-90ae-4839cc06b0de",
+      "time": "2026-08-20 16:30:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | 3-Month Unemployment Rate (Jul) | actual 3.7% | consensus 3.7% | previous 3.70%"
+    },
+    {
+      "id": "5049465",
+      "time": "2026-08-20 16:30:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻蒙智行：新銳智慧SUV問界M6上市4個月累計交付超45000臺。"
+    },
+    {
+      "id": "te:markets:576814",
+      "time": "2026-08-20 16:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 3.41% — Top crypto gainers are XRP (3.41%), Bitcoin (3%), Binance (2.25%) and Ether (1.30%)."
+    },
     {
       "id": "5049464",
       "time": "2026-08-20 16:29:39",
