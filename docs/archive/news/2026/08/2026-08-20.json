@@ -1,7 +1,105 @@
 {
   "date": "2026-08-20",
-  "count": 1202,
+  "count": 1212,
   "items": [
+    {
+      "id": "5049141",
+      "time": "2026-08-20 14:13:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞士7月黃金出口環比下降11%，至155噸。"
+    },
+    {
+      "id": "5049140",
+      "time": "2026-08-20 14:13:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳交所200指數收盤上漲0.3%，報9083.80點。"
+    },
+    {
+      "id": "5049139",
+      "time": "2026-08-20 14:13:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上緯新材啟元機器人啟動2027屆校園招聘，系業界最大規模校招】8月20日，上緯新材啟元機器人正式啟動2027屆校園招聘，面向海內外2027屆應屆畢業生，個人機器人產品研發與產業化落地。據瞭解，這是具身智慧業界最大規模的校招，預計超過350人。本次校招釋放演算法研發、軟體系統、硬體機械、測試驗證、產品設計、市場運營等多類崗位。技術方向重點吸納演算法、軟體、硬體、結構、質量、測試、產品管理類人才。啟元機器人聚焦消費級具身智慧賽道，已推出啟元Q1人形機器人、啟元T1可變形機器人等產品。"
+    },
+    {
+      "id": "mkt:01a01dcc-c02e-7aab-90aa-7828f785e0a9",
+      "time": "2026-08-20 14:12:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【2026 APEC Customs and Business Dialogue opens in Dalian】The APEC Customs and Business Dialogue opened in Dalian on the 20th and runs through the 21st, 2026, focusing on responses to global trade risks and measures to preserve Asia‑Pacific supply‑chain security and uninterrupted flows. China's Customs chief Sun Meijun said Beijing will continue a targeted cross‑border trade facilitation campaign to simplify customs procedures and speed larger volumes of foreign goods into the Chinese market."
+    },
+    {
+      "id": "mkt:01a01dcc-7968-7aab-90aa-73977936024d",
+      "time": "2026-08-20 14:12:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Iranian foreign minister Araqchi said Trump's remarks will only provoke hostility among Iranians."
+    },
+    {
+      "id": "5049137",
+      "time": "2026-08-20 14:11:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "CVC與標準人壽宣佈建立戰略合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a01dcb-9b52-7aab-90aa-685bd569ea2f",
+      "time": "2026-08-20 14:11:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Swiss FSO: July exports break months-long stagnation】Switzerland's foreign trade in July (seasonally adjusted): nominal exports rose 13.8% MoM (real +10.7%) to CHF27.8bn, the highest level since March 2025. Nominal imports fell 4.5% MoM (real -2.8%). The chemicals–pharmaceuticals sector was the decisive driver on both export and import flows. The divergence pushed the trade surplus to CHF8.1bn, a single-month record."
+    },
+    {
+      "id": "mkt:01a01dcb-5f17-7aab-90aa-62f859856786",
+      "time": "2026-08-20 14:11:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iran's foreign minister Araghchi said US economic terrorism threatens the global economy and the national sovereignty of countries worldwide."
+    },
+    {
+      "id": "mkt:01a01dca-e12d-7aab-90aa-5bca5025a984",
+      "time": "2026-08-20 14:10:30",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Iran's foreign minister Araghchi said many of Trump's remarks are intended to divert US public attention from a domestic financial crisis — namely record US debt and a sharp rise in bank interest rates."
+    },
+    {
+      "id": "5049136",
+      "time": "2026-08-20 14:10:12",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【從買日元到增加美債回購 貝森特成數十年來最積極干預市場的美國財長】今年一連串出人意表的操作後，斯科特·貝森特已成為數十年來對金融市場干預最力的美國財政部長；他押上自身信譽，試圖遏止美國借貸成本可能造成破壞性影響的升勢。週三又有一記意外之舉。財政部宣佈，將把10年至30年期國債的流動性支援回購操作規模至少提高一倍，距離公佈舊債回購日程安排才兩週。財政部本月稍早已為削減較長天期公債發行量的可能性 開啟大門。7月31日，貝森特主導了美國30年來首次買入日元，此舉被視為降低了日本為購買日元而賣出美債的需求。今年年初，貝森特也啟動了所謂的匯率詢價(即當局致電銀行詢問日元報價)，甚至讓一位前日本官員大吃一驚。“他絕對是個行動派，”研究機構OMFIF的Mark Sobel說。曾任職美國財政部的他表示，這讓人聯想到他出身對沖基金的背景。"
+    },
     {
       "id": "5049135",
       "time": "2026-08-20 14:10:02",
