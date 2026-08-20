@@ -1,7 +1,112 @@
 {
   "date": "2026-08-20",
-  "count": 3019,
+  "count": 3031,
   "items": [
+    {
+      "id": "mkt:01a01f91-9cb9-7aab-90b9-cbde818f06f2",
+      "time": "2026-08-20 22:27:11",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Russia welcomed the US decision to reduce its participation in military exercises with South Korea."
+    },
+    {
+      "id": "5050392",
+      "time": "2026-08-20 22:27:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯表示歡迎美國決定縮減與韓國的聯合軍演規模。"
+    },
+    {
+      "id": "5050391",
+      "time": "2026-08-20 22:26:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會研究：股票衍生品板塊活躍個人交易者數量同比下降18%。"
+    },
+    {
+      "id": "5050390",
+      "time": "2026-08-20 22:26:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪爾公司股價在財報電話會議期間漲幅擴大至6.6% 。"
+    },
+    {
+      "id": "mkt:01a01f90-814e-7aab-90b9-c1da656e7962",
+      "time": "2026-08-20 22:25:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reportedly, miner Jervois will receive $100m from US sources to fund a cobalt refinery."
+    },
+    {
+      "id": "5050389",
+      "time": "2026-08-20 22:25:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "折扣零售商羅斯百貨和TJX下跌2%。"
+    },
+    {
+      "id": "5050388",
+      "time": "2026-08-20 22:25:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "Dollar Tree下跌1.8%，Dollar General下跌約1%。"
+    },
+    {
+      "id": "5050387",
+      "time": "2026-08-20 22:24:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "據訊息，帕斯基銀行董事會批准對義大利人民銀行與忠利銀行的收購報價。"
+    },
+    {
+      "id": "5050386",
+      "time": "2026-08-20 22:24:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1551.00元。"
+    },
+    {
+      "id": "mkt:01a01f8e-6b48-7aab-90b9-b82c17b61116",
+      "time": "2026-08-20 22:23:42",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "Walmart (WMT.N) shares fell 9.2%, the largest single-day decline since May 2022."
+    },
+    {
+      "id": "5050385",
+      "time": "2026-08-20 22:23:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "沃爾瑪財報公佈後，多家零售企業股價下跌。克羅格下跌1.4%，好市多下跌1.5%，艾伯森下跌2%。"
+    },
+    {
+      "id": "5050384",
+      "time": "2026-08-20 22:23:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃爾瑪股價下跌9.2%，創下2022年5月以來最大單日跌幅。"
+    },
     {
       "id": "5050383",
       "time": "2026-08-20 22:22:07",
