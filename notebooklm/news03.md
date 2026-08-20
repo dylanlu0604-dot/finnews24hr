@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 02:55:46_
-_本檔包含 3286 則快訊，約 640959 字_
+_更新時間：2026-08-21 03:39:10_
+_本檔包含 3296 則快訊，約 640872 字_
+
+---
+
+### 2026-08-19 03:27:01  #國際
+
+【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）
+
+---
+
+### 2026-08-19 03:26:51  #國際
+
+市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。
+
+---
+
+### 2026-08-19 03:25:46  #國際
+
+【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。
+
+---
+
+### 2026-08-19 03:25:20  #MKT News
+
+Venezuelan central bank said oil-related activity rose 9.10% in Q2, while the non-oil sector expanded 5.79%.
+
+---
+
+### 2026-08-19 03:24:55  #MKT News #Commodities #Energy
+
+【Venezuela industry hit by severe power outages; recovery under pressure】Manufacturers in Venezuela were without power for nearly half of working hours in Q2, the country’s largest industrial group, the Industrial Federation, said in a Tuesday survey. Firms averaged 488 working hours in the quarter, of which 214 hours lacked electricity, and reported 57 unplanned outages on average—about five per week—an 18% increase from Q1. The federation said years of underinvestment and poor maintenance in the power sector, compounded by U.S. sanctions, are constraining the industrial sector and hampering the economic recovery.
+
+---
+
+### 2026-08-19 03:24:05  #央行 #其他
+
+委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。
+
+---
+
+### 2026-08-19 03:24:04  #MKT News
+
+【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment.
+
+---
+
+### 2026-08-19 03:20:50  #國際
+
+遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。
+
+---
+
+### 2026-08-19 03:20:26  #MKT News
+
+Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026.
+
+---
+
+### 2026-08-19 03:20:03  #央行 #其他
+
+委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。
+
+---
+
+### 2026-08-19 03:19:40  #國際
+
+伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。
+
+---
+
+### 2026-08-19 03:18:02  #國際
+
+【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。
+
+---
+
+### 2026-08-19 03:17:29  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again.
+
+---
+
+### 2026-08-19 03:16:51  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
+
+USD/CAD briefly fell over 10 pips, now 1.3896.
+
+---
+
+### 2026-08-19 03:16:15  #市場
+
+現貨鉑金價格下跌3%，至每盎司1717.90美元。
+
+---
+
+### 2026-08-19 03:16:01  #其他
+
+市場資訊：OpenAI因AI代理入侵Hugging Face事件放緩模型開發。
+
+---
+
+### 2026-08-19 03:16:01  #MKT News #Important #Market Themes #The Trump Trade
+
+Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada.
+
+---
+
+### 2026-08-19 03:15:27  #宏觀 #國際
+
+【特朗普正考量是否給予加拿大關稅暫緩豁免】知情人士透露，美加之間一份旨在避免對加拿大商品加徵新關稅的協議，現已交由美國總統特朗普定奪。目前，是否於午夜按計劃正式開徵50%關稅，決定權掌握在特朗普手中。美、加官員連日展開不間斷談判。美方政府施壓，要求加拿大取消去年針對特朗普關稅出臺的報復性舉措，包括加拿大各省對美國酒類實施的禁令、針對美國汽車徵收的關稅；渥太華方面則希望美方下調針對汽車及其他商品的關稅。其中兩名知情人士稱，這份逐步成型的潛在協議，還包含加拿大在乳製品關稅配額方面作出讓步，該議題頻繁出現在特朗普批評加拿大貿易政策的公開表態中。
+
+---
+
+### 2026-08-19 03:14:56  #MKT News
+
+Dutch foreign minister says the Netherlands opposes recent US sanctions on officials and staff of the International Criminal Court.
+
+---
+
+### 2026-08-19 03:14:13  #MKT News
+
+IRNA reported Iran's ambassador to Kuwait met four Iranians who have been detained in Kuwait for three months.
+
+---
+
+### 2026-08-19 03:13:53  #國際
+
+伊朗駐科威特大使會見了三個月前被扣留在科威特的四名伊朗公民。
+
+---
+
+### 2026-08-19 03:13:07  #國際
+
+荷蘭外交大臣：荷蘭不認可美國近期針對國際刑事法院官員及工作人員實施的制裁。
+
+---
+
+### 2026-08-19 03:13:00  #其他
+
+英國海上貿易行動辦公室：葉門穆哈港東南40海里海域一艘貨船遭多枚炮彈擊中，事發時該貨船船上無船員，船隻受損嚴重。有關部門正在開展調查。
+
+---
+
+### 2026-08-19 03:11:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Officials say Trump threatened Oman over proposed Iran-Oman Strait of Hormuz deal】Two regional officials told CBS on Tuesday that President Trump threatened to bomb Oman over a proposed Oman-Iran agreement to manage ship transit through the Strait of Hormuz. The officials said the Trump administration informed Oman it opposed parts of the not-yet-public deal, including arrangements for Iran and Oman to jointly manage exit lanes from the strait. U.S. officials viewed Oman as insufficiently tough in negotiations and objected to Oman's agreement to levy voluntary fees on vessels purportedly for security and marine-environment protection.
+
+---
+
+### 2026-08-19 03:11:33  #國際
+
+市場資訊：特朗普正在考慮暫緩對加拿大徵收關稅。
+
+---
+
+### 2026-08-19 03:11:14  #國際
+
+特朗普本週正在面試美國食品藥品監督管理局（FDA）最高職位的候選人。
+
+---
+
+### 2026-08-19 03:08:38  #MKT News
+
+WHO director-general TEDROS said the Ebola outbreak in the Democratic Republic of the Congo remains a public health emergency of international concern.
 
 ---
 
@@ -19734,107 +19896,5 @@ United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus
 ### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
 
 A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
-
----
-
-### 2026-08-17 20:28:47  #國際
-
-【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）
-
----
-
-### 2026-08-17 20:28:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl.
-
----
-
-### 2026-08-17 20:27:22  #MKT News #Important #WTI #Impact bullish #Brent
-
-Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to "fully offensive".
-
----
-
-### 2026-08-17 20:27:01  #MKT News #Market Themes #The Trump Trade
-
-Hamas told Al Jazeera that Trump's comments confirm his commitment to the ceasefire process and urged him to pressure the Israeli government to comply with the agreement and implement the second phase of the peace plan.
-
----
-
-### 2026-08-17 20:25:53  #公司
-
-【睿創微納：2026年半年度淨利潤12.59億元，同比增長258.78%】睿創微納公告，2026年半年度營業收入43.97億元，同比增長72.84%；歸屬於上市公司股東的淨利潤12.59億元，同比增長258.78%；歸屬於上市公司股東的扣除非經常性損益的淨利潤12.33億元，同比增長275.38%。公司擬向全體股東每10股派發現金紅利5元（含稅）。
-
----
-
-### 2026-08-17 20:23:15  #國際
-
-【特朗普要求伊朗舉白旗投降】據美國福克斯新聞今天（8月17日）報道，美國總統特朗普在接受其採訪時稱，結束與伊朗的戰爭“沒有時間表”，他“並不著急”，並要求伊朗“舉起白旗投降”。福克斯新聞記者稱，特朗普表示，他在解決這場戰爭問題上的考慮“與美國中期選舉無關”。（CCTV國際時訊）
-
----
-
-### 2026-08-17 20:22:31  #公司
-
-【寒武紀：調整2026年限制性股票激勵計劃首次授予名單】寒武紀公告稱，因1名激勵物件離職失去激勵資格，公司對2026年限制性股票激勵計劃首次授予激勵物件名單及授予人數作出調整，首次授予激勵物件人數由945人調整為944人，該離職人員原獲配股份數將調整至其他首次授予激勵物件，首次授予的限制性股票總數量保持不變。本次調整已履行相關審議程式，調整後的激勵物件仍屬於此前股東會審議透過的激勵物件範圍，不會對公司財務狀況和經營成果產生實質性影響。
-
----
-
-### 2026-08-17 20:22:21  #MKT News #UBER.N
-
-Uber (UBER.N) CEO said Uber and Zipline plan to achieve 1 million drone deliveries per day by end-2029.
-
----
-
-### 2026-08-17 20:21:53  #MKT News #UBER.N #Impact bullish
-
-Uber (UBER.N) CEO said Uber Eats will partner with Zipline on delivery services by year-end.
-
----
-
-### 2026-08-17 20:21:38  #MKT News #RTX.N #Impact bullish
-
-Raytheon Technologies (RTX.N) said its US Navy Tomahawk missile contract has a seven-year term.
-
----
-
-### 2026-08-17 20:21:32  #公司
-
-【盈新發展：擬募資17.79億元投向半導體相關專案】盈新發展公告稱，公司擬向特定物件發行股票，募集資金不超過17.79億元，扣除發行費用後，10.53億元用於先進封測及儲存模組製造專案，2.06億元用於儲存器主控晶片研發專案，5.20億元用於補充流動資金及償還銀行貸款。其中前兩個專案由公司控股子公司長興半導體實施，公司擬以向其提供借款的方式推進。募集資金到位前，公司可根據專案進度以自籌資金先行投入，後續按規定置換。若實際募集資金淨額少於擬使用金額，不足部分由公司自籌解決。
-
----
-
-### 2026-08-17 20:21:11  #其他
-
-優步與無人機初創企業Zipline展開合作。
-
----
-
-### 2026-08-17 20:21:11  #MKT News #UBER.N #Impact bullish
-
-Uber (UBER.N) CEO said the company will partner with drone startup Zipline.
-
----
-
-### 2026-08-17 20:20:53  #公司 #國際
-
-【中國國際商會將於9月組團出訪馬來西亞，深度對接東南亞綠色發展機遇】9月8日至11日，中國國際商會將組織代表團出訪馬來西亞，搭建中馬政企對接橋樑，為國內企業開闢東南亞合作新渠道，助力國內綠色技術與產品出海佈局東盟市場。本次出訪核心活動為馬來西亞國際可持續發展周（ISW）。該活動是馬來西亞國家級權威綠色產業平臺，設國際綠色創新展、國際綠色建築大會等板塊，匯聚各國政策制定者、產業開發商、金融機構與頭部企業，馬來西亞副總理、相關部長及多國政商領袖、行業學者將現場參會。出訪期間，代表團將出席ISW開幕式，舉辦中馬綠色發展論壇，拜會馬來西亞相關政府部門，與在馬中資企業座談交流，並開展B2B商務洽談。代表團還將實地走訪調研馬來西亞國家能源集團TNB白金總部、ALP OMEGA智慧零碳倉儲等綠色標杆專案，覆蓋能源園區、智慧物流、超高層地標、企業總部四大業態，相關技術專家將深度講解低碳建造、綠色運維實操經驗。（中國國際商會）
-
----
-
-### 2026-08-17 20:20:49  #MKT News #Important #300750.SZ
-
-【CATL Yichun lithium mine EIA set for acceptance; public consultation opens】Yichun Ecological Environment Bureau has proposed to accept the environmental impact assessment (EIA) filing for CATL’s Yichun New Energy Mining Co. Zhenkouli (Yifeng County)–Jianxiawo (Fengxin County), Jiangxi lithium mining project. The EIA report and public participation statement are in a pre-acceptance public notice from Aug. 17 to Aug. 28, 2026 (10 working days). The filing discloses an annual mining plan of 30 mln t of ceramic clay containing lithium, down from 45 mln t pre-shutdown, a roughly 30% reduction. Proposed acceptance does not equal approval; the project still requires approval-stage publicity, expert review and may be affected by public comments.
-
----
-
-### 2026-08-17 20:20:27  #MKT News
-
-【Over 200,000 Canadians petition to expel U.S. ambassador】The Canadian House of Commons website shows more than 200,000 Canadians have signed a real-name petition calling for the expulsion of U.S. ambassador to Canada Pete Hoekstra. As of the 16th, the petition accuses Hoekstra of repeatedly making remarks that damage Canada-U.S. relations and of interfering in Canadian domestic affairs, including normalizing President Trump's comment threatening to annex Canada as the '51st state.'
-
----
-
-### 2026-08-17 20:20:22  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Inch Mostly Higher — Futures tracking US equities were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. Contracts for the S&P 500 and the Nasdaq 100 inched higher to extend their gains from the previous week. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron extended their sharp increases from the previous week in premarket trade, while Nvidia and Amazon inched up. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
 
 ---

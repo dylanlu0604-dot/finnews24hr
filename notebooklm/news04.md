@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 02:55:46_
-_本檔包含 2947 則快訊，約 640499 字_
+_更新時間：2026-08-21 03:39:10_
+_本檔包含 2937 則快訊，約 640395 字_
+
+---
+
+### 2026-08-17 20:28:47  #國際
+
+【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）
+
+---
+
+### 2026-08-17 20:28:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl.
+
+---
+
+### 2026-08-17 20:27:22  #MKT News #Important #WTI #Impact bullish #Brent
+
+Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to "fully offensive".
+
+---
+
+### 2026-08-17 20:27:01  #MKT News #Market Themes #The Trump Trade
+
+Hamas told Al Jazeera that Trump's comments confirm his commitment to the ceasefire process and urged him to pressure the Israeli government to comply with the agreement and implement the second phase of the peace plan.
+
+---
+
+### 2026-08-17 20:25:53  #公司
+
+【睿創微納：2026年半年度淨利潤12.59億元，同比增長258.78%】睿創微納公告，2026年半年度營業收入43.97億元，同比增長72.84%；歸屬於上市公司股東的淨利潤12.59億元，同比增長258.78%；歸屬於上市公司股東的扣除非經常性損益的淨利潤12.33億元，同比增長275.38%。公司擬向全體股東每10股派發現金紅利5元（含稅）。
+
+---
+
+### 2026-08-17 20:23:15  #國際
+
+【特朗普要求伊朗舉白旗投降】據美國福克斯新聞今天（8月17日）報道，美國總統特朗普在接受其採訪時稱，結束與伊朗的戰爭“沒有時間表”，他“並不著急”，並要求伊朗“舉起白旗投降”。福克斯新聞記者稱，特朗普表示，他在解決這場戰爭問題上的考慮“與美國中期選舉無關”。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 20:22:31  #公司
+
+【寒武紀：調整2026年限制性股票激勵計劃首次授予名單】寒武紀公告稱，因1名激勵物件離職失去激勵資格，公司對2026年限制性股票激勵計劃首次授予激勵物件名單及授予人數作出調整，首次授予激勵物件人數由945人調整為944人，該離職人員原獲配股份數將調整至其他首次授予激勵物件，首次授予的限制性股票總數量保持不變。本次調整已履行相關審議程式，調整後的激勵物件仍屬於此前股東會審議透過的激勵物件範圍，不會對公司財務狀況和經營成果產生實質性影響。
+
+---
+
+### 2026-08-17 20:22:21  #MKT News #UBER.N
+
+Uber (UBER.N) CEO said Uber and Zipline plan to achieve 1 million drone deliveries per day by end-2029.
+
+---
+
+### 2026-08-17 20:21:53  #MKT News #UBER.N #Impact bullish
+
+Uber (UBER.N) CEO said Uber Eats will partner with Zipline on delivery services by year-end.
+
+---
+
+### 2026-08-17 20:21:38  #MKT News #RTX.N #Impact bullish
+
+Raytheon Technologies (RTX.N) said its US Navy Tomahawk missile contract has a seven-year term.
+
+---
+
+### 2026-08-17 20:21:32  #公司
+
+【盈新發展：擬募資17.79億元投向半導體相關專案】盈新發展公告稱，公司擬向特定物件發行股票，募集資金不超過17.79億元，扣除發行費用後，10.53億元用於先進封測及儲存模組製造專案，2.06億元用於儲存器主控晶片研發專案，5.20億元用於補充流動資金及償還銀行貸款。其中前兩個專案由公司控股子公司長興半導體實施，公司擬以向其提供借款的方式推進。募集資金到位前，公司可根據專案進度以自籌資金先行投入，後續按規定置換。若實際募集資金淨額少於擬使用金額，不足部分由公司自籌解決。
+
+---
+
+### 2026-08-17 20:21:11  #其他
+
+優步與無人機初創企業Zipline展開合作。
+
+---
+
+### 2026-08-17 20:21:11  #MKT News #UBER.N #Impact bullish
+
+Uber (UBER.N) CEO said the company will partner with drone startup Zipline.
+
+---
+
+### 2026-08-17 20:20:53  #公司 #國際
+
+【中國國際商會將於9月組團出訪馬來西亞，深度對接東南亞綠色發展機遇】9月8日至11日，中國國際商會將組織代表團出訪馬來西亞，搭建中馬政企對接橋樑，為國內企業開闢東南亞合作新渠道，助力國內綠色技術與產品出海佈局東盟市場。本次出訪核心活動為馬來西亞國際可持續發展周（ISW）。該活動是馬來西亞國家級權威綠色產業平臺，設國際綠色創新展、國際綠色建築大會等板塊，匯聚各國政策制定者、產業開發商、金融機構與頭部企業，馬來西亞副總理、相關部長及多國政商領袖、行業學者將現場參會。出訪期間，代表團將出席ISW開幕式，舉辦中馬綠色發展論壇，拜會馬來西亞相關政府部門，與在馬中資企業座談交流，並開展B2B商務洽談。代表團還將實地走訪調研馬來西亞國家能源集團TNB白金總部、ALP OMEGA智慧零碳倉儲等綠色標杆專案，覆蓋能源園區、智慧物流、超高層地標、企業總部四大業態，相關技術專家將深度講解低碳建造、綠色運維實操經驗。（中國國際商會）
+
+---
+
+### 2026-08-17 20:20:49  #MKT News #Important #300750.SZ
+
+【CATL Yichun lithium mine EIA set for acceptance; public consultation opens】Yichun Ecological Environment Bureau has proposed to accept the environmental impact assessment (EIA) filing for CATL’s Yichun New Energy Mining Co. Zhenkouli (Yifeng County)–Jianxiawo (Fengxin County), Jiangxi lithium mining project. The EIA report and public participation statement are in a pre-acceptance public notice from Aug. 17 to Aug. 28, 2026 (10 working days). The filing discloses an annual mining plan of 30 mln t of ceramic clay containing lithium, down from 45 mln t pre-shutdown, a roughly 30% reduction. Proposed acceptance does not equal approval; the project still requires approval-stage publicity, expert review and may be affected by public comments.
+
+---
+
+### 2026-08-17 20:20:27  #MKT News
+
+【Over 200,000 Canadians petition to expel U.S. ambassador】The Canadian House of Commons website shows more than 200,000 Canadians have signed a real-name petition calling for the expulsion of U.S. ambassador to Canada Pete Hoekstra. As of the 16th, the petition accuses Hoekstra of repeatedly making remarks that damage Canada-U.S. relations and of interfering in Canadian domestic affairs, including normalizing President Trump's comment threatening to annex Canada as the '51st state.'
+
+---
+
+### 2026-08-17 20:20:22  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Inch Mostly Higher — Futures tracking US equities were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. Contracts for the S&P 500 and the Nasdaq 100 inched higher to extend their gains from the previous week. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron extended their sharp increases from the previous week in premarket trade, while Nvidia and Amazon inched up. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
 
 ---
 
@@ -17607,167 +17709,5 @@ UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is usi
 ### 2026-08-15 17:27:19  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
 
 【Jensen Huang offers up to 25% residual-value support as NVIDIA, six Wall Street asset managers back AI compute as standalone asset class】Jensen Huang, joined by six Wall Street asset managers, endorsed treating AI compute as a standalone asset class. Investors raised concerns about circular financing and elevated debt risk; Huang said NVIDIA may provide up to 25% residual-value support for individual projects and will prudently assess each deal. The remarks eased market concern modestly.
-
----
-
-### 2026-08-15 17:25:44  #其他
-
-【黃仁勳出手安撫AI算力市場：英偉達可能會“為單個投資專案提供最高25%的殘值支援機制”】本週十分罕見的一大場景就是黃仁勳攜手六位華爾街資管巨頭，一起為“將AI算力打造為獨立資產類別”背書，分析認為這是黃仁勳在踐行自己提出的詞元經濟學，而這也標誌著AI熱潮正在從技術競賽延伸至資本競賽。但最新計劃也引發了投資者對“迴圈融資”和債務風險的擔憂，面對質疑，黃仁勳再次親自出面安撫市場。他表示，英偉達可能會“為單個投資專案提供最高25%的殘值支援機制”，並會審慎評估每個專案。此後市場情緒稍微得到緩解。（央視財經）
-
----
-
-### 2026-08-15 17:21:09  #MKT News
-
-【South Korea's Lee says government will recover assets of pro-Japanese collaborators】President Lee said on the 15th the government will investigate and recover assets improperly amassed by pro-Japanese, anti-national actors and pursue their historical accountability. Following the June 2 enactment of the Special Act on State Ownership of Property of Pro-Japanese Anti-National Actors, the government will more tightly manage seized pro-Japanese assets and ensure proceeds are fully used to honor and support independence contributors and their heirs.
-
----
-
-### 2026-08-15 17:19:39  #國際
-
-黎巴嫩總理：以色列必須停止局勢升級；保障黎巴嫩人民的安全和他們在自己土地上生存的權利，不是談判或討價還價的話題。
-
----
-
-### 2026-08-15 17:19:17  #公司
-
-阿聯酋總統外交顧問安瓦爾·加爾加什表示：阿布扎比國家石油公司油輪屢遭襲擊，但這並不會阻止阿聯酋繼續奉行平衡理性的政策。我們將捍衛我們的主權和利益，同時繼續走對話道路，優先考慮外交途徑。
-
----
-
-### 2026-08-15 17:18:17  #國際
-
-黎巴嫩總理：即便黎巴嫩境記憶體在任何軍事設施，處置這些設施的責任完全屬於我國政府。
-
----
-
-### 2026-08-15 17:17:28  #國際
-
-黎巴嫩總理：黎巴嫩境記憶體在任何軍事設施，都不能賦予以色列侵犯我國領土的權利。
-
----
-
-### 2026-08-15 17:15:05  #MKT News #Market Regions #Greater China
-
-【August 2026 box office tops 3.0 bln yuan】Dengta Pro data showed China's August 2026 box office, including presales, surpassed 3.0 bln yuan as of Aug 15. Top five titles by box office are Spider-Man: A New Day; Welcome to Long Restaurant; Eight Immortals!; Odyssey; and Kung Fu Women's Football.
-
----
-
-### 2026-08-15 17:11:11  #其他
-
-【今年暑期檔電影票房已超96億】據網路平臺資料，截至8月15日15時，2026暑期檔票房已超96億元。今年暑期檔影片型別豐富、題材多元，吸引觀眾走進影廳，觀影活力持續釋放。（央視新聞）
-
----
-
-### 2026-08-15 17:09:36  #其他
-
-【2026年8月票房破30億】據燈塔專業版，截至8月15日，2026年8月總票房（含預售）突破30億，《蜘蛛俠：嶄新之日》《歡迎來龍餐館》《八仙！》《奧德賽》《功夫女足》暫列8月票房榜前五。
-
----
-
-### 2026-08-15 17:07:34  #國際
-
-黎巴嫩總理：黎巴嫩境內的軍事設施是國家的專屬職責。
-
----
-
-### 2026-08-15 17:07:00  #公司
-
-法國電力公司將於8月10日至17日暫停格拉沃利訥3號核電站的執行。
-
----
-
-### 2026-08-15 17:02:58  #國際
-
-黎巴嫩總理：以色列對黎南部地區的猛烈轟炸破壞了穩定。
-
----
-
-### 2026-08-15 17:01:38  #其他
-
-【原煤炭工業合肥設計研究院黨委書記曹榮平接受紀律審查和監察調查】據安徽省紀委監委訊息：原煤炭工業合肥設計研究院黨委書記曹榮平涉嫌嚴重違紀違法，目前正接受安徽省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-15 17:01:19  #國際
-
-黎巴嫩總理：以色列自黎明以來不斷升級的行動已達到“極其嚴重的程度”。
-
----
-
-### 2026-08-15 17:01:19  #MKT News
-
-Israeli airstrikes in southern Lebanon killed seven and wounded three, Iran's Press TV reported.
-
----
-
-### 2026-08-15 16:54:10  #國際
-
-【韓國總統李在明：將追繳親日反民族行為者財產】韓國總統李在明15日表示，韓國政府將調查、追繳親日反民族行為者不當聚斂的財產，並追究其歷史責任。李在明當天在世宗文化會館舉行的光復節81週年慶祝儀式上說，隨著6月2日《親日反民族行為者財產的國家歸屬等相關特別法》正式頒佈，韓國政府將更加負責地管理收歸國家所有的親日財產，確保相關財產能夠完整用於對獨立有功者及其遺屬的禮遇和支援。（新華社）
-
----
-
-### 2026-08-15 16:53:50  #MKT News #Market Regions #Japan & APAC
-
-【South Korea denounces Japanese officials' Yasukuni Shrine visit】On the 15th, the South Korean government and ruling and opposition parties denounced Japanese officials for making offerings and visiting Yasukuni Shrine, which enshrines Class-A WWII war criminals, and urged Japanese leaders to reflect on history and offer sincere remorse.
-
----
-
-### 2026-08-15 16:52:09  #其他
-
-【《生態環境法典的中國創新與世界貢獻》智庫報告發布】8月15日，《中華人民共和國生態環境法典》施行。當天，新華社國家高階智庫釋出《生態環境法典的中國創新與世界貢獻》智庫報告。
-
----
-
-### 2026-08-15 16:50:51  #市場 #焦點
-
-美國天然氣暗盤跌破2.8美元，日內跌幅1.1%。
-
----
-
-### 2026-08-15 16:50:49  #國際
-
-【以軍稱空襲黎巴嫩真主黨多處基礎設施】當地時間15日，以色列國防軍釋出宣告稱，以軍在黎巴嫩南部所謂“安全區”內的阿里·塔希爾高地遭黎巴嫩真主黨襲擊。作為回應，以軍於15日凌晨對黎南部納巴蒂耶和安薩爾地區的真主黨基礎設施發動了空襲。 （央視新聞）
-
----
-
-### 2026-08-15 16:49:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-ZELENSKIY said Ukrainian forces struck a Russian military airbase in Nizhny Novgorod.
-
----
-
-### 2026-08-15 16:46:52  #MKT News
-
-Ukrainian President Zelenskiy said Ukrainian forces struck a Russian missile factory in Samara.
-
----
-
-### 2026-08-15 16:45:46  #公司 #國際
-
-烏克蘭總統澤連斯基：使用“火烈鳥”（Flamingo）導彈打擊了俄羅斯薩馬拉州俄羅斯航天集團旗下的一家關鍵企業——“進步中心”（Progress Center），該中心主要從事電子產品生產等業務；還襲擊了薩瓦斯列伊卡空軍基地，那裡駐紮著俄羅斯導彈運載機，此外，我們還確認了對烏斯季盧加（Ust-Luga）一處石油設施的打擊。
-
----
-
-### 2026-08-15 16:43:48  #MKT News
-
-An official at Indonesia's disaster management agency said the earthquake death toll has risen to 38.
-
----
-
-### 2026-08-15 16:43:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says US claims on Strait of Hormuz are politically driven, asserts military primacy】IRNA reports Hossein Noushabadi, director-general for parliamentary and legal affairs at Iran’s Foreign Ministry, said Washington’s assertions about control of the Strait of Hormuz are politically motivated and a passive response to Iran’s demonstration of strength and strategic plans. He said US presidential claims lack basis and conflict with international shipping rules and the UN Convention on the Law of the Sea. Noushabadi added Iran holds political and military primacy over the Strait of Hormuz, the global energy chokepoint, giving Tehran leverage against external threats.
-
----
-
-### 2026-08-15 16:42:46  #國際
-
-【印尼地震死亡人數升至38人】印尼國家抗災署今天（8月15日）下午表示，今天凌晨發生的印尼強震已造成38人死亡，另有2人重傷，11人輕傷。（CCTV國際時訊）
-
----
-
-### 2026-08-15 16:39:18  #MKT News
-
-【Japanese PM Takaichi offers remote worship toward Yasukuni Shrine】Japanese Prime Minister Takaichi on the 15th, ahead of a national memorial ceremony, performed a remote worship facing Yasukuni Shrine from the Budokan parking lot, following the shrine ritual of two bows, two claps and one bow—an action treated as a substitute for an in-person visit. She also, in her capacity as LDP president, presented a tamagushi offering to the shrine. Japan’s defense minister and several other politicians visited Yasukuni the same day. The acts drew strong opposition from domestic peace advocates. Yasukuni Shrine in Tokyo’s Chiyoda ward enshrines 14 Class-A World War II war criminals, including former prime minister Hideki Tojo.
 
 ---

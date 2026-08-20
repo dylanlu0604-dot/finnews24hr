@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 02:55:46_
-_本檔包含 3240 則快訊，約 640743 字_
+_更新時間：2026-08-21 03:39:10_
+_本檔包含 3256 則快訊，約 640375 字_
+
+---
+
+### 2026-08-20 03:45:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump says record US pipeline builds will reduce Strait of Hormuz importance】Trump said the US is building a record number of oil pipelines to reduce reliance on the Strait of Hormuz, and that the strait’s strategic importance will decline as alternative supply routes emerge and US control of the area strengthens. He added that prior forecasts of oil surging to $350 per barrel have not materialized; prices remain around $84–85/bbl.
+
+---
+
+### 2026-08-20 03:42:56  #國際
+
+特朗普結束白宮活動講話。
+
+---
+
+### 2026-08-20 03:42:41  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+US President Trump said interest-rate levels are absurd.
+
+---
+
+### 2026-08-20 03:42:20  #國際
+
+特朗普：利率水平高得離譜。
+
+---
+
+### 2026-08-20 03:41:48  #MKT News #Market Themes #The Trump Trade
+
+Trump on bond market: Americans should not worry about volatility.
+
+---
+
+### 2026-08-20 03:41:34  #國際
+
+特朗普談及債券市場：美國人無需擔憂市場波動。
+
+---
+
+### 2026-08-20 03:39:25  #央行 #國際
+
+特朗普：我有權與一個國家切斷所有業務往來。認為美聯儲主席沃什的表現非常出色。
+
+---
+
+### 2026-08-20 03:39:18  #MKT News #Macro & Rates #The Fed (FOMC)
+
+President Trump said he regards Fed Chair Kevin Warsh's performance as very strong.
+
+---
+
+### 2026-08-20 03:39:03  #MKT News #Market Themes #The Trump Trade
+
+President Trump said he has the right to cut off all business dealings with a country.
+
+---
+
+### 2026-08-20 03:38:56  #國際
+
+特朗普談及伊朗：目前海峽處於開放狀態，大量船隻通行。媒體並未報道這件事。
+
+---
+
+### 2026-08-20 03:37:52  #國際
+
+特朗普：（關於加拿大貿易）農民將不需要支付關稅。
+
+---
+
+### 2026-08-20 03:37:40  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish
+
+U.S. President Trump said the U.S. may reduce some tariffs on Canada to match levels applied to other countries, saying Canada is paying higher tariffs.
+
+---
+
+### 2026-08-20 03:37:25  #國際
+
+特朗普談及加拿大：我們可能將部分關稅下調至其他國家的同等水平，因為加拿大此前被徵收更高關稅。
+
+---
+
+### 2026-08-20 03:37:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. President Trump said the agreement with Iran had not delivered as claimed.
+
+---
+
+### 2026-08-20 03:37:05  #MKT News #WTI #Impact bullish #Brent
+
+President Trump said many vessels are currently transiting the Strait of Hormuz, but that traffic could slow at some point.
+
+---
+
+### 2026-08-20 03:36:32  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+US President Trump said the Strait of Hormuz will be less important than before.
+
+---
+
+### 2026-08-20 03:36:26  #國際
+
+特朗普：考慮取消針對加拿大的鋼鋁關稅。
+
+---
+
+### 2026-08-20 03:36:05  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+U.S. President Trump said on trade with Canada that farmers will not have to pay tariffs.
+
+---
+
+### 2026-08-20 03:36:00  #MKT News #WTI #Impact bullish #Brent
+
+President Trump said the U.S. may continue to blockade the Strait of Hormuz.
+
+---
+
+### 2026-08-20 03:35:57  #國際
+
+特朗普：我們可能會繼續實施封鎖。霍爾木茲海峽將不會再像過去那般重要。
+
+---
+
+### 2026-08-20 03:35:38  #國際
+
+特朗普：大量船隻正在透過霍爾木茲海峽，但航運規模或許會在某個節點有所放緩。
+
+---
+
+### 2026-08-20 03:35:25  #國際
+
+特朗普：與伊朗達成的協議結果並不像他們所說的那樣。
+
+---
+
+### 2026-08-20 03:35:22  #MKT News
+
+President Trump said he supports term limits.
+
+---
+
+### 2026-08-20 03:35:08  #MKT News
+
+Trump on Iran sanctions: we will wait and see.
+
+---
+
+### 2026-08-20 03:34:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed above $4,510/oz, up 4.06% intraday.
+
+---
+
+### 2026-08-20 03:34:48  #國際
+
+【皮尤調查：美國年輕人對AI態度日益敵視 擔心技術進步導致大規模失業】皮尤研究中心的一項調查顯示，美國勞動力市場中最年輕的一批人對人工智慧的疑慮日益增加，擔心這項技術的進步會導致大規模失業。6月資料顯示，自皮尤2021年開始進行這項調查以來，30歲以下成年人中首次有多數人表示對AI的擔憂多於興奮。這與大多數其他年齡群體的態度趨於一致，但變化尤其明顯的是，最年輕群體已從過去最看好AI潛力的一群人，轉變為如今對這項技術最持懷疑態度的群體之一。調查顯示，在這一年齡段中，接近四分之三的人還認為，AI將導致可獲得的工作崗位減少，佔比高於兩年前的61%。
+
+---
+
+### 2026-08-20 03:34:36  #國際
+
+特朗普：伊朗制裁後續情況我們拭目以待。
+
+---
+
+### 2026-08-20 03:34:34  #MKT News #Market Themes #AI Revolution
+
+【OpenAI CFO: Company to go public in 2027 or earlier】OpenAI CFO Sarah Friar told staff at an all‑hands the company expects to be a public company in 2027 but could list earlier if growth accelerates. She said an IPO is a milestone and a means to raise capital rather than an endpoint, and that OpenAI completed $122 bln of financing in March, giving it greater flexibility for future development.
+
+---
+
+### 2026-08-20 03:34:15  #國際
+
+特朗普：美國已就儲備 “大規模” 比特幣及其他加密貨幣的相關計劃展開討論。
+
+---
+
+### 2026-08-20 03:32:39  #國際
+
+特朗普談及加拿大貿易談判：我認為我們達成了一份對各方都有利的協議。
+
+---
+
+### 2026-08-20 03:32:22  #焦點 #國際
+
+特朗普：可能和加拿大達成協議。
+
+---
+
+### 2026-08-20 03:32:22  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #WTI #Copper
+
+Trump on Canada trade talks said he believes a deal has been reached that will be mutually beneficial.
+
+---
+
+### 2026-08-20 03:32:14  #MKT News #Important #Market Themes #The Trump Trade
+
+U.S. President Trump said on trade talks with Canada that we may reach a deal.
+
+---
+
+### 2026-08-20 03:30:59  #MKT News #Market Themes #AI Revolution
+
+【SpaceX sought acquisition of AI programming startup Cognition】People familiar say SpaceX held acquisition talks with AI programming startup Cognition, exploring a potential deal that would be the company's second major purchase in months aimed at gaining an edge in the AI race. Talks are currently paused, but the firms continue to discuss cooperation, including potential arrangements for Cognition to use SpaceX's computing capacity. Cognition was valued at $26 bln in a May funding round and is in preliminary talks for a new raise with a valuation of at least $40 bln.
+
+---
+
+### 2026-08-20 03:30:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil rises on the 19th】By the close, NYMEX September light sweet crude (WTI) futures gained $0.89 to $85.83/bbl, +1.05%; ICE Brent October futures added $0.60 to $91.62/bbl, +0.66%.
+
+---
+
+### 2026-08-20 03:30:13  #市場
+
+現貨黃金日內漲4%，現報4507.62美元/盎司。
+
+---
+
+### 2026-08-20 03:29:54  #MKT News #Market Themes #AI Revolution
+
+US President Trump said he will meet next week with AI industry figures.
+
+---
+
+### 2026-08-20 03:29:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold jumped 4% intraday to $4,507.66/oz.
+
+---
+
+### 2026-08-20 03:29:32  #國際
+
+特朗普：下週將與 “AI 行業人士” 舉行會晤。
+
+---
+
+### 2026-08-20 03:29:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+New York gold futures jumped 4% intraday to $4,565.10/oz.
+
+---
+
+### 2026-08-20 03:29:03  #MKT News #Important #Market Themes #AI Revolution
+
+CNBC reports OpenAI's CFO said the company plans to go public in 2027 or earlier.
+
+---
+
+### 2026-08-20 03:29:00  #國際
+
+市場訊息：伊朗外長阿拉格齊於週三同巴基斯坦陸軍參謀長通電話，就地區最新局勢以及外交斡旋工作展開磋商。
+
+---
+
+### 2026-08-20 03:28:44  #市場
+
+【國際油價19日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲89美分，收於每桶85.83美元，漲幅為1.05%；10月交貨的倫敦布倫特原油期貨價格上漲60美分，收於每桶91.62美元，漲幅為0.66%。
 
 ---
 
@@ -19363,167 +19621,5 @@ U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air fo
 ### 2026-08-19 03:27:08  #MKT News
 
 【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight.
-
----
-
-### 2026-08-19 03:27:01  #國際
-
-【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）
-
----
-
-### 2026-08-19 03:26:51  #國際
-
-市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。
-
----
-
-### 2026-08-19 03:25:46  #國際
-
-【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。
-
----
-
-### 2026-08-19 03:25:20  #MKT News
-
-Venezuelan central bank said oil-related activity rose 9.10% in Q2, while the non-oil sector expanded 5.79%.
-
----
-
-### 2026-08-19 03:24:55  #MKT News #Commodities #Energy
-
-【Venezuela industry hit by severe power outages; recovery under pressure】Manufacturers in Venezuela were without power for nearly half of working hours in Q2, the country’s largest industrial group, the Industrial Federation, said in a Tuesday survey. Firms averaged 488 working hours in the quarter, of which 214 hours lacked electricity, and reported 57 unplanned outages on average—about five per week—an 18% increase from Q1. The federation said years of underinvestment and poor maintenance in the power sector, compounded by U.S. sanctions, are constraining the industrial sector and hampering the economic recovery.
-
----
-
-### 2026-08-19 03:24:05  #央行 #其他
-
-委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。
-
----
-
-### 2026-08-19 03:24:04  #MKT News
-
-【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment.
-
----
-
-### 2026-08-19 03:20:50  #國際
-
-遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。
-
----
-
-### 2026-08-19 03:20:26  #MKT News
-
-Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026.
-
----
-
-### 2026-08-19 03:20:03  #央行 #其他
-
-委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。
-
----
-
-### 2026-08-19 03:19:40  #國際
-
-伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。
-
----
-
-### 2026-08-19 03:18:02  #國際
-
-【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。
-
----
-
-### 2026-08-19 03:17:29  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again.
-
----
-
-### 2026-08-19 03:16:51  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
-
-USD/CAD briefly fell over 10 pips, now 1.3896.
-
----
-
-### 2026-08-19 03:16:15  #市場
-
-現貨鉑金價格下跌3%，至每盎司1717.90美元。
-
----
-
-### 2026-08-19 03:16:01  #其他
-
-市場資訊：OpenAI因AI代理入侵Hugging Face事件放緩模型開發。
-
----
-
-### 2026-08-19 03:16:01  #MKT News #Important #Market Themes #The Trump Trade
-
-Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada.
-
----
-
-### 2026-08-19 03:15:27  #宏觀 #國際
-
-【特朗普正考量是否給予加拿大關稅暫緩豁免】知情人士透露，美加之間一份旨在避免對加拿大商品加徵新關稅的協議，現已交由美國總統特朗普定奪。目前，是否於午夜按計劃正式開徵50%關稅，決定權掌握在特朗普手中。美、加官員連日展開不間斷談判。美方政府施壓，要求加拿大取消去年針對特朗普關稅出臺的報復性舉措，包括加拿大各省對美國酒類實施的禁令、針對美國汽車徵收的關稅；渥太華方面則希望美方下調針對汽車及其他商品的關稅。其中兩名知情人士稱，這份逐步成型的潛在協議，還包含加拿大在乳製品關稅配額方面作出讓步，該議題頻繁出現在特朗普批評加拿大貿易政策的公開表態中。
-
----
-
-### 2026-08-19 03:14:56  #MKT News
-
-Dutch foreign minister says the Netherlands opposes recent US sanctions on officials and staff of the International Criminal Court.
-
----
-
-### 2026-08-19 03:14:13  #MKT News
-
-IRNA reported Iran's ambassador to Kuwait met four Iranians who have been detained in Kuwait for three months.
-
----
-
-### 2026-08-19 03:13:53  #國際
-
-伊朗駐科威特大使會見了三個月前被扣留在科威特的四名伊朗公民。
-
----
-
-### 2026-08-19 03:13:07  #國際
-
-荷蘭外交大臣：荷蘭不認可美國近期針對國際刑事法院官員及工作人員實施的制裁。
-
----
-
-### 2026-08-19 03:13:00  #其他
-
-英國海上貿易行動辦公室：葉門穆哈港東南40海里海域一艘貨船遭多枚炮彈擊中，事發時該貨船船上無船員，船隻受損嚴重。有關部門正在開展調查。
-
----
-
-### 2026-08-19 03:11:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Officials say Trump threatened Oman over proposed Iran-Oman Strait of Hormuz deal】Two regional officials told CBS on Tuesday that President Trump threatened to bomb Oman over a proposed Oman-Iran agreement to manage ship transit through the Strait of Hormuz. The officials said the Trump administration informed Oman it opposed parts of the not-yet-public deal, including arrangements for Iran and Oman to jointly manage exit lanes from the strait. U.S. officials viewed Oman as insufficiently tough in negotiations and objected to Oman's agreement to levy voluntary fees on vessels purportedly for security and marine-environment protection.
-
----
-
-### 2026-08-19 03:11:33  #國際
-
-市場資訊：特朗普正在考慮暫緩對加拿大徵收關稅。
-
----
-
-### 2026-08-19 03:11:14  #國際
-
-特朗普本週正在面試美國食品藥品監督管理局（FDA）最高職位的候選人。
-
----
-
-### 2026-08-19 03:08:38  #MKT News
-
-WHO director-general TEDROS said the Ebola outbreak in the Democratic Republic of the Congo remains a public health emergency of international concern.
 
 ---

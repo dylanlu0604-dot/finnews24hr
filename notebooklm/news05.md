@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 02:55:46_
-_本檔包含 3300 則快訊，約 640444 字_
+_更新時間：2026-08-21 03:39:10_
+_本檔包含 3290 則快訊，約 640482 字_
+
+---
+
+### 2026-08-15 17:25:44  #其他
+
+【黃仁勳出手安撫AI算力市場：英偉達可能會“為單個投資專案提供最高25%的殘值支援機制”】本週十分罕見的一大場景就是黃仁勳攜手六位華爾街資管巨頭，一起為“將AI算力打造為獨立資產類別”背書，分析認為這是黃仁勳在踐行自己提出的詞元經濟學，而這也標誌著AI熱潮正在從技術競賽延伸至資本競賽。但最新計劃也引發了投資者對“迴圈融資”和債務風險的擔憂，面對質疑，黃仁勳再次親自出面安撫市場。他表示，英偉達可能會“為單個投資專案提供最高25%的殘值支援機制”，並會審慎評估每個專案。此後市場情緒稍微得到緩解。（央視財經）
+
+---
+
+### 2026-08-15 17:21:09  #MKT News
+
+【South Korea's Lee says government will recover assets of pro-Japanese collaborators】President Lee said on the 15th the government will investigate and recover assets improperly amassed by pro-Japanese, anti-national actors and pursue their historical accountability. Following the June 2 enactment of the Special Act on State Ownership of Property of Pro-Japanese Anti-National Actors, the government will more tightly manage seized pro-Japanese assets and ensure proceeds are fully used to honor and support independence contributors and their heirs.
+
+---
+
+### 2026-08-15 17:19:39  #國際
+
+黎巴嫩總理：以色列必須停止局勢升級；保障黎巴嫩人民的安全和他們在自己土地上生存的權利，不是談判或討價還價的話題。
+
+---
+
+### 2026-08-15 17:19:17  #公司
+
+阿聯酋總統外交顧問安瓦爾·加爾加什表示：阿布扎比國家石油公司油輪屢遭襲擊，但這並不會阻止阿聯酋繼續奉行平衡理性的政策。我們將捍衛我們的主權和利益，同時繼續走對話道路，優先考慮外交途徑。
+
+---
+
+### 2026-08-15 17:18:17  #國際
+
+黎巴嫩總理：即便黎巴嫩境記憶體在任何軍事設施，處置這些設施的責任完全屬於我國政府。
+
+---
+
+### 2026-08-15 17:17:28  #國際
+
+黎巴嫩總理：黎巴嫩境記憶體在任何軍事設施，都不能賦予以色列侵犯我國領土的權利。
+
+---
+
+### 2026-08-15 17:15:05  #MKT News #Market Regions #Greater China
+
+【August 2026 box office tops 3.0 bln yuan】Dengta Pro data showed China's August 2026 box office, including presales, surpassed 3.0 bln yuan as of Aug 15. Top five titles by box office are Spider-Man: A New Day; Welcome to Long Restaurant; Eight Immortals!; Odyssey; and Kung Fu Women's Football.
+
+---
+
+### 2026-08-15 17:11:11  #其他
+
+【今年暑期檔電影票房已超96億】據網路平臺資料，截至8月15日15時，2026暑期檔票房已超96億元。今年暑期檔影片型別豐富、題材多元，吸引觀眾走進影廳，觀影活力持續釋放。（央視新聞）
+
+---
+
+### 2026-08-15 17:09:36  #其他
+
+【2026年8月票房破30億】據燈塔專業版，截至8月15日，2026年8月總票房（含預售）突破30億，《蜘蛛俠：嶄新之日》《歡迎來龍餐館》《八仙！》《奧德賽》《功夫女足》暫列8月票房榜前五。
+
+---
+
+### 2026-08-15 17:07:34  #國際
+
+黎巴嫩總理：黎巴嫩境內的軍事設施是國家的專屬職責。
+
+---
+
+### 2026-08-15 17:07:00  #公司
+
+法國電力公司將於8月10日至17日暫停格拉沃利訥3號核電站的執行。
+
+---
+
+### 2026-08-15 17:02:58  #國際
+
+黎巴嫩總理：以色列對黎南部地區的猛烈轟炸破壞了穩定。
+
+---
+
+### 2026-08-15 17:01:38  #其他
+
+【原煤炭工業合肥設計研究院黨委書記曹榮平接受紀律審查和監察調查】據安徽省紀委監委訊息：原煤炭工業合肥設計研究院黨委書記曹榮平涉嫌嚴重違紀違法，目前正接受安徽省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-15 17:01:19  #國際
+
+黎巴嫩總理：以色列自黎明以來不斷升級的行動已達到“極其嚴重的程度”。
+
+---
+
+### 2026-08-15 17:01:19  #MKT News
+
+Israeli airstrikes in southern Lebanon killed seven and wounded three, Iran's Press TV reported.
+
+---
+
+### 2026-08-15 16:54:10  #國際
+
+【韓國總統李在明：將追繳親日反民族行為者財產】韓國總統李在明15日表示，韓國政府將調查、追繳親日反民族行為者不當聚斂的財產，並追究其歷史責任。李在明當天在世宗文化會館舉行的光復節81週年慶祝儀式上說，隨著6月2日《親日反民族行為者財產的國家歸屬等相關特別法》正式頒佈，韓國政府將更加負責地管理收歸國家所有的親日財產，確保相關財產能夠完整用於對獨立有功者及其遺屬的禮遇和支援。（新華社）
+
+---
+
+### 2026-08-15 16:53:50  #MKT News #Market Regions #Japan & APAC
+
+【South Korea denounces Japanese officials' Yasukuni Shrine visit】On the 15th, the South Korean government and ruling and opposition parties denounced Japanese officials for making offerings and visiting Yasukuni Shrine, which enshrines Class-A WWII war criminals, and urged Japanese leaders to reflect on history and offer sincere remorse.
+
+---
+
+### 2026-08-15 16:52:09  #其他
+
+【《生態環境法典的中國創新與世界貢獻》智庫報告發布】8月15日，《中華人民共和國生態環境法典》施行。當天，新華社國家高階智庫釋出《生態環境法典的中國創新與世界貢獻》智庫報告。
+
+---
+
+### 2026-08-15 16:50:51  #市場 #焦點
+
+美國天然氣暗盤跌破2.8美元，日內跌幅1.1%。
+
+---
+
+### 2026-08-15 16:50:49  #國際
+
+【以軍稱空襲黎巴嫩真主黨多處基礎設施】當地時間15日，以色列國防軍釋出宣告稱，以軍在黎巴嫩南部所謂“安全區”內的阿里·塔希爾高地遭黎巴嫩真主黨襲擊。作為回應，以軍於15日凌晨對黎南部納巴蒂耶和安薩爾地區的真主黨基礎設施發動了空襲。 （央視新聞）
+
+---
+
+### 2026-08-15 16:49:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+ZELENSKIY said Ukrainian forces struck a Russian military airbase in Nizhny Novgorod.
+
+---
+
+### 2026-08-15 16:46:52  #MKT News
+
+Ukrainian President Zelenskiy said Ukrainian forces struck a Russian missile factory in Samara.
+
+---
+
+### 2026-08-15 16:45:46  #公司 #國際
+
+烏克蘭總統澤連斯基：使用“火烈鳥”（Flamingo）導彈打擊了俄羅斯薩馬拉州俄羅斯航天集團旗下的一家關鍵企業——“進步中心”（Progress Center），該中心主要從事電子產品生產等業務；還襲擊了薩瓦斯列伊卡空軍基地，那裡駐紮著俄羅斯導彈運載機，此外，我們還確認了對烏斯季盧加（Ust-Luga）一處石油設施的打擊。
+
+---
+
+### 2026-08-15 16:43:48  #MKT News
+
+An official at Indonesia's disaster management agency said the earthquake death toll has risen to 38.
+
+---
+
+### 2026-08-15 16:43:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says US claims on Strait of Hormuz are politically driven, asserts military primacy】IRNA reports Hossein Noushabadi, director-general for parliamentary and legal affairs at Iran’s Foreign Ministry, said Washington’s assertions about control of the Strait of Hormuz are politically motivated and a passive response to Iran’s demonstration of strength and strategic plans. He said US presidential claims lack basis and conflict with international shipping rules and the UN Convention on the Law of the Sea. Noushabadi added Iran holds political and military primacy over the Strait of Hormuz, the global energy chokepoint, giving Tehran leverage against external threats.
+
+---
+
+### 2026-08-15 16:42:46  #國際
+
+【印尼地震死亡人數升至38人】印尼國家抗災署今天（8月15日）下午表示，今天凌晨發生的印尼強震已造成38人死亡，另有2人重傷，11人輕傷。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 16:39:18  #MKT News
+
+【Japanese PM Takaichi offers remote worship toward Yasukuni Shrine】Japanese Prime Minister Takaichi on the 15th, ahead of a national memorial ceremony, performed a remote worship facing Yasukuni Shrine from the Budokan parking lot, following the shrine ritual of two bows, two claps and one bow—an action treated as a substitute for an in-person visit. She also, in her capacity as LDP president, presented a tamagushi offering to the shrine. Japan’s defense minister and several other politicians visited Yasukuni the same day. The acts drew strong opposition from domestic peace advocates. Yasukuni Shrine in Tokyo’s Chiyoda ward enshrines 14 Class-A World War II war criminals, including former prime minister Hideki Tojo.
 
 ---
 
@@ -19706,227 +19868,5 @@ New York appellate court says New York City's "second-home tax" may proceed for 
 ### 2026-08-14 03:46:21  #其他
 
 上訴法院裁定：紐約市豪宅閒置稅目前可繼續執行。
-
----
-
-### 2026-08-14 03:34:38  #國際
-
-【美國法院裁定特朗普可以暫停對低價商品的關稅豁免】美國一家貿易法院駁回了針對特朗普暫停低價值進口商品關稅豁免的訴訟。該法院週四作出裁決，拒絕推翻總統特朗普過去一年釋出的行政命令。這些行政命令取消了針對零售價值不超過800美元商品的所謂“小額豁免”。據美國海關與邊境保護局稱，截至2025年底，特朗普暫停這一豁免已帶來超過10億美元的關稅繳款。
-
----
-
-### 2026-08-14 03:31:27  #MKT News #WTI #Impact bearish #Brent
-
-【International oil prices fall on 13th】NYMEX September light sweet crude fell $2.02 to $81.25 a barrel, down 2.43%. Brent October fell $1.91 to $87.07 a barrel, down 2.15%.
-
----
-
-### 2026-08-14 03:31:17  #市場
-
-【國際油價13日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌2.02美元，收於每桶81.25美元，跌幅為2.43%；10月交貨的倫敦布倫特原油期貨價格下跌1.91美元，收於每桶87.07美元，跌幅為2.15%。
-
----
-
-### 2026-08-14 03:24:29  #MKT News
-
-BOC: Canadian Investment Markets Association (CIMPA) and CDS have launched a pilot "failure fee framework" for Canadian government securities trades.
-
----
-
-### 2026-08-14 03:21:23  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index down on 13th】The dollar index, measuring the dollar against six major currencies, fell 0.05% to 99.964 at the New York close on the 13th. EUR/USD 1.1529, up from 1.1521; GBP/USD 1.3485, down from 1.3488. USD/JPY 159.51, up from 159.49; USD/CHF 0.8139, up from 0.8137. USD/CAD 1.3936, down from 1.3947; USD/SEK 9.5684, down from 9.5858.
-
----
-
-### 2026-08-14 03:20:52  #市場
-
-【美元指數13日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.05%，在匯市尾市收於99.964。截至紐約匯市尾市，1歐元兌換1.1529美元，高於前一交易日的1.1521美元；1英鎊兌換1.3485美元，低於前一交易日的1.3488美元。1美元兌換159.51日元，高於前一交易日的159.49日元；1美元兌換0.8139瑞士法郎，高於前一交易日的0.8137瑞士法郎；1美元兌換1.3936加元，低於前一交易日的1.3947加元；1美元兌換9.5684瑞典克朗，低於前一交易日的9.5858瑞典克朗。
-
----
-
-### 2026-08-14 03:19:27  #MKT News #WTI #Impact bullish #Brent
-
-【IRGC navy says Strait of Hormuz closed】IRNA quoted the IRGC naval commander saying the Strait of Hormuz is closed and that Iran exercises full, firm control; all movements in the strait are monitored by IRGC naval forces. He said the truth will be determined on the battlefield rather than by US announcements.
-
----
-
-### 2026-08-14 03:17:09  #國際
-
-伊朗革命衛隊海軍司令週四表示，霍爾木茲海峽現已關閉，該部隊完全掌控這條水道的通行活動。
-
----
-
-### 2026-08-14 03:16:10  #MKT News #Commodities #Energy
-
-BP said it will partner with XRG, ADNOC’s International Energy Investments company and UCC Oil & Gas Holdings, with each party holding an equal working interest.
-
----
-
-### 2026-08-14 03:16:01  #公司
-
-英國石油公司：與阿布扎比國家石油公司旗下國際能源投資平臺 XRG 以及 UCC 油氣控股達成合作，各方持有均等的作業權益份額。
-
----
-
-### 2026-08-14 03:15:59  #MKT News #Commodities #Energy #BP.N #Impact bullish
-
-Venezuela has granted BP a Phase II exploration and production license for the Luolan oilfield in the Delta Plateau region; BP will be the field developer and operator.
-
----
-
-### 2026-08-14 03:14:52  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish
-
-ICI: US money market fund assets rose to $7.93 trillion.
-
----
-
-### 2026-08-14 03:14:18  #公司
-
-英國石油公司：獲委內瑞拉玻利瓦爾共和國政府授予三角洲平臺地區洛蘭油田二期勘探開採許可。
-
----
-
-### 2026-08-14 03:14:11  #市場 #焦點
-
-現貨黃金失守4350美元/盎司，日內跌1.40%。
-
----
-
-### 2026-08-14 03:14:05  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,350/oz, down 1.33% intraday.
-
----
-
-### 2026-08-14 03:13:08  #國際
-
-據ICI統計，美國貨幣市場基金資產增至7.93萬億美元。
-
----
-
-### 2026-08-14 03:12:16  #國際
-
-【俄外長：將扣押西方國家船隻作為對等反制】俄羅斯外交部長拉夫羅夫13日對俄媒表示，俄方將“自行決定”扣押哪些西方國家船隻，作為對西方國家扣押俄船隻行為的反制。拉夫羅夫說，西方國家把“強盜行徑和海盜行為”當作官方政策，俄羅斯將從服務於西方國家利益的船隻中自主選擇扣押目標，至於如何處理“將由俄方自行決定”。西方國家指責俄羅斯利用油輪等商用船隻逃避西方制裁，將這些商用船隻稱為“影子艦隊”。歐洲多國近來在相關水域攔截多艘所謂俄“影子艦隊”船隻。拉夫羅夫表示，所有不遵從歐盟要求的船隻，無論懸掛何種旗幟，都被歐盟劃定為“影子艦隊”。歐盟這一“非法決定”意在遏制俄羅斯在全球市場獲利。這種做法“極其危險”。（新華社）
-
----
-
-### 2026-08-14 03:12:05  #MKT News
-
-Saudi Arabia's Ministry of Defence said 15 countries have signed a joint declaration and 13 have completed domestic procedures and signed the alliance charter, formally joining the alliance.
-
----
-
-### 2026-08-14 03:08:37  #其他
-
-沙烏地阿拉伯國防部：多國海上防禦聯盟第三次規劃會議于吉達召開，共有 39 個國家參與。
-
----
-
-### 2026-08-14 03:08:06  #MKT News
-
-Saudi Arabia's defense ministry said 39 countries participated in the third planning meeting of a multinational maritime defense coalition held in Jeddah.
-
----
-
-### 2026-08-14 03:05:36  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7450元，較上一交易日夜盤收盤漲9個基點。
-
----
-
-### 2026-08-14 03:05:11  #央行 #其他
-
-紐約聯儲：交易臺計劃進行約170億美元的再投資購買；8月14日至9月14日期間不進行儲備管理購買。
-
----
-
-### 2026-08-14 03:05:11  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed
-
-New York Fed trading desk plans roughly $17 bln of reinvestment purchases; will not conduct reserve-management purchases from Aug. 14 through Sept. 14.
-
----
-
-### 2026-08-14 03:05:07  #國際
-
-法院裁定，特朗普可終止低價商品的關稅豁免。
-
----
-
-### 2026-08-14 03:03:09  #市場
-
-阿根廷國家統計局：7月消費者價格指數環比上漲2.1%。阿根廷7月滾動12個月通脹率達33.8%。
-
----
-
-### 2026-08-14 03:02:47  #MKT News
-
-Argentina's national statistics bureau reported the 12-month rolling inflation rate for July at 33.8%.
-
----
-
-### 2026-08-14 03:02:45  #MKT News #Market Regions #Emerging Markets
-
-Argentina's national statistics bureau said the consumer price index rose 2.1% month-on-month in July.
-
----
-
-### 2026-08-14 03:01:38  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures closed the night session down 0.63% at 25,214, trading 183 points below the cash index.
-
----
-
-### 2026-08-14 03:00:59  #市場
-
-巴西Titans指數報22739.78點，下跌237.12點，跌幅1.03%。
-
----
-
-### 2026-08-14 03:00:49  #其他
-
-阿根廷國家統計與普查局(INDEC)公佈，7月阿根廷12個月滾動通脹率為33.8%。
-
----
-
-### 2026-08-14 03:00:41  #市場
-
-阿根廷7月消費者價格環比上漲2.1%；此前預期為上漲2.00%。
-
----
-
-### 2026-08-14 03:00:16  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session main contracts close】At the 02:30 close, SHFE main gold contract fell 1.24% to 948 yuan/gram, SHFE main silver contract fell 1.48% to 15,805 yuan/kg, and INE SC crude oil main contract rose 0.79% to 559 yuan/barrel.
-
----
-
-### 2026-08-14 03:00:02  #市場
-
-恒指期貨夜盤收跌0.63%，報25212.20點，低水184.31點。
-
----
-
-### 2026-08-14 02:59:49  #MKT News
-
-USGS reported a magnitude-5.3 earthquake with epicenter 11 km south of Sarangani, Philippines.
-
----
-
-### 2026-08-14 02:58:34  #國際
-
-美國地質調查局：菲律賓薩蘭加尼以南11公里處發生5.3級地震。
-
----
-
-### 2026-08-14 02:57:55  #MKT News #Brent #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Lavrov says Russia will seize Western vessels as reciprocal measure】Russian Foreign Minister Lavrov told Russian media on the 13th that Moscow will "independently decide" which Western vessels to seize in retaliation for Western seizures of Russian ships. He said Western states treat "robbery and piracy" as official policy and that Russia will select targets among vessels serving Western interests, with how to handle them to be "decided by Russia".
-
----
-
-### 2026-08-14 02:57:07  #國際
-
-西北河流預報中心（NWRFC）：美國西北部河流徑流量降至82%。
 
 ---

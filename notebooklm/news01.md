@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 02:55:46_
-_本檔包含 3332 則快訊，約 640738 字_
+_更新時間：2026-08-21 03:39:10_
+_本檔包含 3320 則快訊，約 640921 字_
+
+---
+
+### 2026-08-21 03:37:05  #Trading Economics #Economy #Argentina #Balance of Trade #Importance 1
+
+Argentina Trade Surplus Jumps in July — Argentina’s trade surplus widened to $2.11 billion in July 2026, up $1.21 billion from the same month of 2025. Exports totaled $8.85 billion, increasing 14.1% year-over-year, led by a 97.8% surge in energy and fuel exports, driven by higher shipments of crude oil, fuels, lubricants and other fuels. Manufactured industrial goods exports rose 11.2%, mainly due to higher exports of motor vehicles and transport equipment, while manufactured agricultural goods increased 4.9%, supported by higher meat exports. Imports totaled $6.74 billion, down 1.7% year-over-year. Intermediate goods posted the largest decline, falling 14.9%, while capital goods imports decreased 7.7% and consumer goods fell 7.3%. Imports of fuels and lubricants also declined 7.3%.
+
+---
+
+### 2026-08-21 03:36:41  #市場
+
+【國際油價20日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.00美元，收於每桶87.83美元，漲幅為2.33%；10月交貨的倫敦布倫特原油期貨價格上漲2.16美元，收於每桶93.78美元，漲幅為2.36%。
+
+---
+
+### 2026-08-21 03:36:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【International oil prices rose on the 20th】NYMEX September light crude futures settled up $2.00 at $87.83 a barrel, +2.33%. ICE Brent October futures settled up $2.16 at $93.78 a barrel, +2.36%.
+
+---
+
+### 2026-08-21 03:29:26  #MKT News
+
+Canada's minister for Canada-U.S. trade, LeBlanc, said they will remain in Washington until deal details are finalised.
+
+---
+
+### 2026-08-21 03:28:32  #國際
+
+加拿大美加貿易事務部長勒布朗：加拿大與美國已非常接近達成協議，我們仍在持續取得進展。在敲定協議具體細節之前，我們將繼續在此談判。
+
+---
+
+### 2026-08-21 03:28:00  #MKT News #DXY #Impact bearish #WTI #Impact bullish
+
+Canada's minister for Canada-U.S. trade, LeBlanc, said Canada and the United States are very close to reaching an agreement and are continuing to make progress.
+
+---
+
+### 2026-08-21 03:27:34  #MKT News
+
+Canada-U.S. trade minister Leblanc said Canada and the United States are continuing negotiations on a possible agreement.
+
+---
+
+### 2026-08-21 03:27:16  #其他
+
+加拿大美加貿易事務部長勒布朗：加美兩國仍在就潛在協議持續開展談判。
+
+---
+
+### 2026-08-21 03:23:16  #MKT News #Macro & Rates #US Economy
+
+ICI: US money market fund assets rose to $7.93 trillion.
+
+---
+
+### 2026-08-21 03:23:05  #MKT News
+
+【Oil and data centers vie for power in West Texas; Permian faces outage risk】Surging power demand from oil and gas producers in West Texas, alongside tech firms building data centers in the Permian, is sharply increasing local electricity needs. Diamondback, one of the Permian’s largest oil producers, says its power consumption could double over the next decade even if output stays flat. A Citigroup analyst warned Thursday the region could face blackouts as soon as next summer. Executives from the Texas grid operator and state utility regulators testified this week to the Texas House State Affairs Committee on the need to add transmission lines.
+
+---
+
+### 2026-08-21 03:21:10  #公司 #國際
+
+美國投資公司協會（ICI）資料：美國貨幣市場基金規模升至 7.93 萬億美元。
+
+---
+
+### 2026-08-21 03:20:42  #市場 #觀點
+
+花旗調查：預計 2026 年末墨西哥比索兌美元匯率為1美元兌17.68比索，預計 2027 年末為1美元兌18.24比索。
+
+---
+
+### 2026-08-21 03:17:36  #資料 #觀點
+
+花旗調查：墨西哥 2026 年消費者物價指數（CPI）預期為 4.00%，此前預期 4.02%。
+
+---
+
+### 2026-08-21 03:16:03  #其他
+
+市場訊息：兩名幣安員工在阿聯酋遭警方調查期間被拘留。
+
+---
+
+### 2026-08-21 03:15:40  #國際
+
+市場訊息：“亞伯拉罕・林肯” 號航母於週四啟程返回聖地亞哥母港，結束為期九個月的部署任務，該部署大部分時間用於支援美國針對伊朗的軍事行動。駐日部署的 “喬治・華盛頓” 號航母已接替林肯號進駐中東。
+
+---
+
+### 2026-08-21 03:13:56  #MKT News
+
+CNN, citing sources, reports the US aircraft carrier USS Abraham Lincoln has begun returning to port but remains in the US Fifth Fleet area of operations.
+
+---
+
+### 2026-08-21 03:05:00  #MKT News #Market Regions #Greater China #Hang Seng Index
+
+Hang Seng Index futures closed flat in the night session at 25,696, trading 2 points below the cash index.
+
+---
+
+### 2026-08-21 03:04:57  #國際
+
+【美聯邦調查局稱挫敗針對紐約州議會大廈襲擊圖謀】當地時間8月20日，美國聯邦調查局（FBI）當天逮捕一名女子，指控其策劃襲擊位於紐約州首府城市奧爾巴尼的紐約州議會大廈。FBI在刑事訴狀中稱，35歲的傑西卡·鮑伊（Jessica Bowie）曾在網路交流中宣誓效忠“伊斯蘭國”，並於今年7月開始策劃相關襲擊。（央視新聞）
+
+---
+
+### 2026-08-21 03:03:51  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7260元，較週三夜盤收盤漲42點。成交量455.00億美元。
+
+---
+
+### 2026-08-21 03:01:44  #MKT News
+
+Argentina's statistics agency reported a July trade surplus of $2.115 billion, versus market expectations of $1.85 billion.
+
+---
+
+### 2026-08-21 03:01:33  #其他
+
+阿根廷7月份貿易順差為21.15億美元；預計為18.67億美元。
+
+---
+
+### 2026-08-21 03:01:27  #公司 #觀點
+
+【摩根大通給予博通“增持”評級：市場仍低估其AI晶片領域的絕對領先優勢 】摩根大通（JPMorgan）認為，目前的市場低估了晶片製造商博通（Broadcom）的發展潛力。這家總部位於帕洛阿爾託（Palo Alto）的公司，預計其AI相關銷售額將實現180%的年度大幅增長。摩根大通認為，這主要得益於博通與Alphabet（谷歌母公司）之間穩固的產品合作關係。分析師哈蘭·瑟爾（Harlan Sur）在週三發給客戶的報告中指出：“我們認為，市場依然低估了博通所具備的顯著主導地位與領先優勢（領先優勢達18個月以上）、在晶片和封裝設計上的領導力、激進的新設計迭代節奏、龐大的智慧財產權（IP）組合，以及其出色的執行記錄。在過去12年裡，博通已協助谷歌將14款最先進的晶片設計成功推向市場。”
+
+---
+
+### 2026-08-21 03:00:34  #其他
+
+阿根廷6月經濟活動環比增長0.8%；此前預期增長0.3%。
+
+---
+
+### 2026-08-21 03:00:30  #其他
+
+阿根廷 6 月經濟活動同比增長 2.7%；預計+2.4%。
+
+---
+
+### 2026-08-21 03:00:21  #國際
+
+美國農業部：7 月美國紅肉產量下降 1.6%。
+
+---
+
+### 2026-08-21 03:00:03  #市場
+
+恒指期貨夜盤收漲0.01%，報25698.70點，高水0.21點。
+
+---
+
+### 2026-08-21 02:58:47  #MKT News #UAL.O #Impact bullish
+
+United Airlines (UAL.O) said it expects to carry more than 3.4 million passengers between Sept. 3 and 8.
+
+---
+
+### 2026-08-21 02:58:21  #公司 #國際
+
+美國聯合航空公司：預計9月3日至8日期間運送旅客將超340萬人次。
+
+---
+
+### 2026-08-21 02:58:15  #其他
+
+據訊息人士：迪士尼將於 2027 年晚些時候推出股票購買計劃。
+
+---
+
+### 2026-08-21 02:57:45  #其他
+
+市場訊息：迪士尼將推出員工股票購買計劃。
+
+---
+
+### 2026-08-21 02:57:14  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+Ukraine's foreign minister said he has discussed with EU foreign policy chief Kallas measures including strengthening air defenses, further sanctions on Russia and use of frozen Russian assets, and urged guarantees for the security of Black Sea shipping and the grain corridor.
 
 ---
 
@@ -19863,263 +20049,5 @@ OpenAI：我們將繼續為前沿模型提供零資料留存服務。隨著人�
 ### 2026-08-20 03:48:59  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
 
 【Trump again urges Fed to cut rates】Trump again urged the Federal Reserve to cut rates promptly, saying US interest-rate costs are too high. He said each one percentage-point cut would reduce costs by about $600bn, called the current rate system "unfair", and said the Fed chair is performing well but is affected by the "politicization of the Federal Reserve Board".
-
----
-
-### 2026-08-20 03:45:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Trump says record US pipeline builds will reduce Strait of Hormuz importance】Trump said the US is building a record number of oil pipelines to reduce reliance on the Strait of Hormuz, and that the strait’s strategic importance will decline as alternative supply routes emerge and US control of the area strengthens. He added that prior forecasts of oil surging to $350 per barrel have not materialized; prices remain around $84–85/bbl.
-
----
-
-### 2026-08-20 03:42:56  #國際
-
-特朗普結束白宮活動講話。
-
----
-
-### 2026-08-20 03:42:41  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-US President Trump said interest-rate levels are absurd.
-
----
-
-### 2026-08-20 03:42:20  #國際
-
-特朗普：利率水平高得離譜。
-
----
-
-### 2026-08-20 03:41:48  #MKT News #Market Themes #The Trump Trade
-
-Trump on bond market: Americans should not worry about volatility.
-
----
-
-### 2026-08-20 03:41:34  #國際
-
-特朗普談及債券市場：美國人無需擔憂市場波動。
-
----
-
-### 2026-08-20 03:39:25  #央行 #國際
-
-特朗普：我有權與一個國家切斷所有業務往來。認為美聯儲主席沃什的表現非常出色。
-
----
-
-### 2026-08-20 03:39:18  #MKT News #Macro & Rates #The Fed (FOMC)
-
-President Trump said he regards Fed Chair Kevin Warsh's performance as very strong.
-
----
-
-### 2026-08-20 03:39:03  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he has the right to cut off all business dealings with a country.
-
----
-
-### 2026-08-20 03:38:56  #國際
-
-特朗普談及伊朗：目前海峽處於開放狀態，大量船隻通行。媒體並未報道這件事。
-
----
-
-### 2026-08-20 03:37:52  #國際
-
-特朗普：（關於加拿大貿易）農民將不需要支付關稅。
-
----
-
-### 2026-08-20 03:37:40  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish
-
-U.S. President Trump said the U.S. may reduce some tariffs on Canada to match levels applied to other countries, saying Canada is paying higher tariffs.
-
----
-
-### 2026-08-20 03:37:25  #國際
-
-特朗普談及加拿大：我們可能將部分關稅下調至其他國家的同等水平，因為加拿大此前被徵收更高關稅。
-
----
-
-### 2026-08-20 03:37:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. President Trump said the agreement with Iran had not delivered as claimed.
-
----
-
-### 2026-08-20 03:37:05  #MKT News #WTI #Impact bullish #Brent
-
-President Trump said many vessels are currently transiting the Strait of Hormuz, but that traffic could slow at some point.
-
----
-
-### 2026-08-20 03:36:32  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-US President Trump said the Strait of Hormuz will be less important than before.
-
----
-
-### 2026-08-20 03:36:26  #國際
-
-特朗普：考慮取消針對加拿大的鋼鋁關稅。
-
----
-
-### 2026-08-20 03:36:05  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-U.S. President Trump said on trade with Canada that farmers will not have to pay tariffs.
-
----
-
-### 2026-08-20 03:36:00  #MKT News #WTI #Impact bullish #Brent
-
-President Trump said the U.S. may continue to blockade the Strait of Hormuz.
-
----
-
-### 2026-08-20 03:35:57  #國際
-
-特朗普：我們可能會繼續實施封鎖。霍爾木茲海峽將不會再像過去那般重要。
-
----
-
-### 2026-08-20 03:35:38  #國際
-
-特朗普：大量船隻正在透過霍爾木茲海峽，但航運規模或許會在某個節點有所放緩。
-
----
-
-### 2026-08-20 03:35:25  #國際
-
-特朗普：與伊朗達成的協議結果並不像他們所說的那樣。
-
----
-
-### 2026-08-20 03:35:22  #MKT News
-
-President Trump said he supports term limits.
-
----
-
-### 2026-08-20 03:35:08  #MKT News
-
-Trump on Iran sanctions: we will wait and see.
-
----
-
-### 2026-08-20 03:34:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed above $4,510/oz, up 4.06% intraday.
-
----
-
-### 2026-08-20 03:34:48  #國際
-
-【皮尤調查：美國年輕人對AI態度日益敵視 擔心技術進步導致大規模失業】皮尤研究中心的一項調查顯示，美國勞動力市場中最年輕的一批人對人工智慧的疑慮日益增加，擔心這項技術的進步會導致大規模失業。6月資料顯示，自皮尤2021年開始進行這項調查以來，30歲以下成年人中首次有多數人表示對AI的擔憂多於興奮。這與大多數其他年齡群體的態度趨於一致，但變化尤其明顯的是，最年輕群體已從過去最看好AI潛力的一群人，轉變為如今對這項技術最持懷疑態度的群體之一。調查顯示，在這一年齡段中，接近四分之三的人還認為，AI將導致可獲得的工作崗位減少，佔比高於兩年前的61%。
-
----
-
-### 2026-08-20 03:34:36  #國際
-
-特朗普：伊朗制裁後續情況我們拭目以待。
-
----
-
-### 2026-08-20 03:34:34  #MKT News #Market Themes #AI Revolution
-
-【OpenAI CFO: Company to go public in 2027 or earlier】OpenAI CFO Sarah Friar told staff at an all‑hands the company expects to be a public company in 2027 but could list earlier if growth accelerates. She said an IPO is a milestone and a means to raise capital rather than an endpoint, and that OpenAI completed $122 bln of financing in March, giving it greater flexibility for future development.
-
----
-
-### 2026-08-20 03:34:15  #國際
-
-特朗普：美國已就儲備 “大規模” 比特幣及其他加密貨幣的相關計劃展開討論。
-
----
-
-### 2026-08-20 03:32:39  #國際
-
-特朗普談及加拿大貿易談判：我認為我們達成了一份對各方都有利的協議。
-
----
-
-### 2026-08-20 03:32:22  #焦點 #國際
-
-特朗普：可能和加拿大達成協議。
-
----
-
-### 2026-08-20 03:32:22  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #WTI #Copper
-
-Trump on Canada trade talks said he believes a deal has been reached that will be mutually beneficial.
-
----
-
-### 2026-08-20 03:32:14  #MKT News #Important #Market Themes #The Trump Trade
-
-U.S. President Trump said on trade talks with Canada that we may reach a deal.
-
----
-
-### 2026-08-20 03:30:59  #MKT News #Market Themes #AI Revolution
-
-【SpaceX sought acquisition of AI programming startup Cognition】People familiar say SpaceX held acquisition talks with AI programming startup Cognition, exploring a potential deal that would be the company's second major purchase in months aimed at gaining an edge in the AI race. Talks are currently paused, but the firms continue to discuss cooperation, including potential arrangements for Cognition to use SpaceX's computing capacity. Cognition was valued at $26 bln in a May funding round and is in preliminary talks for a new raise with a valuation of at least $40 bln.
-
----
-
-### 2026-08-20 03:30:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil rises on the 19th】By the close, NYMEX September light sweet crude (WTI) futures gained $0.89 to $85.83/bbl, +1.05%; ICE Brent October futures added $0.60 to $91.62/bbl, +0.66%.
-
----
-
-### 2026-08-20 03:30:13  #市場
-
-現貨黃金日內漲4%，現報4507.62美元/盎司。
-
----
-
-### 2026-08-20 03:29:54  #MKT News #Market Themes #AI Revolution
-
-US President Trump said he will meet next week with AI industry figures.
-
----
-
-### 2026-08-20 03:29:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold jumped 4% intraday to $4,507.66/oz.
-
----
-
-### 2026-08-20 03:29:32  #國際
-
-特朗普：下週將與 “AI 行業人士” 舉行會晤。
-
----
-
-### 2026-08-20 03:29:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-New York gold futures jumped 4% intraday to $4,565.10/oz.
-
----
-
-### 2026-08-20 03:29:03  #MKT News #Important #Market Themes #AI Revolution
-
-CNBC reports OpenAI's CFO said the company plans to go public in 2027 or earlier.
-
----
-
-### 2026-08-20 03:29:00  #國際
-
-市場訊息：伊朗外長阿拉格齊於週三同巴基斯坦陸軍參謀長通電話，就地區最新局勢以及外交斡旋工作展開磋商。
-
----
-
-### 2026-08-20 03:28:44  #市場
-
-【國際油價19日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲89美分，收於每桶85.83美元，漲幅為1.05%；10月交貨的倫敦布倫特原油期貨價格上漲60美分，收於每桶91.62美元，漲幅為0.66%。
 
 ---
