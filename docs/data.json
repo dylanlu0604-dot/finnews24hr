@@ -1,7 +1,249 @@
 {
-  "updated": "2026-08-20 23:16:16",
-  "count": 15954,
+  "updated": "2026-08-20 23:20:13",
+  "count": 15972,
   "items": [
+    {
+      "id": "5050513",
+      "time": "2026-08-20 23:19:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：正努力引導市場關注基本面。"
+    },
+    {
+      "id": "5050512",
+      "time": "2026-08-20 23:19:29",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及美國國債時表示：我們正努力維持市場平衡。"
+    },
+    {
+      "id": "5050511",
+      "time": "2026-08-20 23:19:16",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就美國國債表示：將視具體形勢判斷是否需要採取更多措施。"
+    },
+    {
+      "id": "mkt:01a01fc0-c5a9-7aab-90bb-ce8226ca841d",
+      "time": "2026-08-20 23:18:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is promoting the U.S. growth agenda to other regions of the world."
+    },
+    {
+      "id": "5050510",
+      "time": "2026-08-20 23:18:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：向世界其他國家推行美國增長議程。"
+    },
+    {
+      "id": "5050509",
+      "time": "2026-08-20 23:18:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：“支援歐洲”，歐洲應當落實德拉吉提出的各項舉措 。"
+    },
+    {
+      "id": "mkt:01a01fc0-7004-7aab-90bb-c564851a2d97",
+      "time": "2026-08-20 23:18:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the greatest threat to financial stability is a lack of growth."
+    },
+    {
+      "id": "mkt:01a01fc0-5939-7aab-90bb-bf2e12f7c391",
+      "time": "2026-08-20 23:18:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said he hopes the G20 will return to its core mission, adding the U.S. message is that global growth is the way to address debt and urging other countries to follow suit."
+    },
+    {
+      "id": "mkt:01a01fc0-1725-7aab-90bb-b14054d53bee",
+      "time": "2026-08-20 23:17:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【US Treasury's Bessent says bond buyback cap could exceed $4bn】US Treasury official Bessent said the cap on a single bond buyback could exceed $4bn, partly as a signal that yields do not reflect fundamentals. The Treasury may announce stepped-up fiscal consolidation and Bessent said the deficit has very likely already peaked. He dismissed a $40 trillion debt headline as not especially meaningful and said markets are somewhat overreacting. Any balance-sheet changes would be coordinated with the Federal Reserve, he added, and interest-rate decisions are unrelated to buyback choices. Market indicators point to lower inflation ahead. A press briefing on Iran-related economic sanctions is scheduled for next Monday."
+    },
+    {
+      "id": "mkt:01a01fc0-04e4-7aab-90bb-adb3adbba075",
+      "time": "2026-08-20 23:17:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said allies must decide now on Iran."
+    },
+    {
+      "id": "5050507",
+      "time": "2026-08-20 23:17:37",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就二十國集團（G20）表態：鼓勵世界其他國家也採取這一舉措。"
+    },
+    {
+      "id": "mkt:01a01fbf-be73-7aab-90bb-a451d2fb43bc",
+      "time": "2026-08-20 23:17:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said the energy-driven inf shock is transitory."
+    },
+    {
+      "id": "5050506",
+      "time": "2026-08-20 23:17:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：我方在 G20 的立場是，全球增長才是正確方向。"
+    },
+    {
+      "id": "mkt:01a01fbf-a070-7aab-90bb-996100a42712",
+      "time": "2026-08-20 23:17:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said underlying economic fundamentals are very strong."
+    },
+    {
+      "id": "mkt:01a01fbf-95e8-7aab-90bb-914ea6b00e1b",
+      "time": "2026-08-20 23:17:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said there will be some exciting fiscal news in the coming weeks and months."
+    },
+    {
+      "id": "5050505",
+      "time": "2026-08-20 23:17:23",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特在二十國集團峰會上表示：“我們的主張是，推動全球增長才是解決債務問題的正道。”"
+    },
+    {
+      "id": "5050504",
+      "time": "2026-08-20 23:17:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：南非 G20 會議偏離了既定口徑 。"
+    },
+    {
+      "id": "mkt:01a01fbf-68fa-7aab-90bb-89afaa5ee382",
+      "time": "2026-08-20 23:17:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the dollar briefly surged back to levels seen two months ago."
+    },
+    {
+      "id": "5050503",
+      "time": "2026-08-20 23:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：通脹壓力僅來自能源領域，該影響具有暫時性。"
+    },
+    {
+      "id": "mkt:01a01fbe-f5a2-7aab-90bb-826c2f0dd602",
+      "time": "2026-08-20 23:16:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the dollar has remained very stable and that the Treasury will continue to pursue a strong-dollar policy."
+    },
+    {
+      "id": "mkt:01a01fbe-ac74-7aab-90bb-7ed5093f9f2d",
+      "time": "2026-08-20 23:16:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "During US Treasury Secretary Bessent's remarks, spot gold and spot silver rose briefly; spot gold turned positive on the day, up 0.2% at $4,532.28/oz, while spot silver climbed 2.8% to $68.85/oz."
+    },
+    {
+      "id": "5050502",
+      "time": "2026-08-20 23:16:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及伊朗問題：盟友該做出抉擇了。"
+    },
+    {
+      "id": "5050501",
+      "time": "2026-08-20 23:16:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：未來數週乃至數月，財政方面將迎來一系列重磅訊息。"
+    },
+    {
+      "id": "5050500",
+      "time": "2026-08-20 23:15:42",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及美元時表示：我們將繼續堅持強勢美元政策。"
+    },
     {
       "id": "5050499",
       "time": "2026-08-20 23:15:35",
@@ -145838,61 +146080,6 @@
         "國際"
       ],
       "text": "美國原油期貨<CLc1>和布蘭特原油期貨<LCOc1>縮減跌幅，下跌1美元，此前有報導稱，胡塞武裝用兩架無人機襲擊了沙特阿美在吉讚的煉油廠。"
-    },
-    {
-      "id": "5039824",
-      "time": "2026-08-13 23:19:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思就伊朗問題表態：美國可根據需要長時間實施封鎖。"
-    },
-    {
-      "id": "5039823",
-      "time": "2026-08-13 23:19:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞Cerrejon煤礦稱，週四早些時候其位於拉瓜希拉省的鐵路基礎設施遭襲，未接獲人員傷亡報告。"
-    },
-    {
-      "id": "mkt:019ffbb3-f7fd-7aab-9029-869a8f95631b",
-      "time": "2026-08-13 23:18:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Musk is shifting to natural gas to power AI operations."
-    },
-    {
-      "id": "5039822",
-      "time": "2026-08-13 23:17:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數<.STOXX>轉跌，最新報跌0.03%。"
-    },
-    {
-      "id": "mkt:019ffbb2-e143-7aab-9029-7c3c0cf0b127",
-      "time": "2026-08-13 23:17:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "STOXX Europe 600 turned negative, down 0.03%."
-    },
-    {
-      "id": "mkt:019ffbb2-117e-7aab-9029-713864135a64",
-      "time": "2026-08-13 23:16:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk (SNDK.O) gains widened to 11% after the company earlier outlined revenue-growth expectations for fiscal 2028–2030."
     }
   ]
 }
