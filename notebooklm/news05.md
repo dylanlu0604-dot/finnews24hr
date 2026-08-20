@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 02:00:43_
-_本檔包含 3322 則快訊，約 639085 字_
+_更新時間：2026-08-21 02:55:46_
+_本檔包含 3300 則快訊，約 640444 字_
+
+---
+
+### 2026-08-15 16:38:32  #國際
+
+印度尼西亞災害管理局官員表示，地震死亡人數已上升至38人。
+
+---
+
+### 2026-08-15 16:38:18  #國際
+
+【韓國政府及朝野政黨抨擊日本政要參拜靖國神社】韓國政府及朝野政黨15日抨擊日本政要當天向供奉有二戰甲級戰犯的靖國神社供奉祭祀費及進行參拜，敦促日本領導人反思歷史、真誠反省。韓國外交部以發言人名義發表評論說，韓國政府對日本政要“忘卻歷史、違背時代潮流之舉”深感遺憾，強烈敦促日本領導人正視歷史，以實際行動展現對歷史的虛心反思和真誠反省。發言人強調，這是構建基於互信、面向未來的兩國關係的重要基礎。韓國執政黨共同民主黨發表書面宣告說，高市內閣在光復節當天參拜靖國神社，表明高市內閣與執政黨沆瀣一氣，否認戰爭罪行和戰敗歷史，是“違背時代潮流的挑釁”和“極其不負責任的行為”。韓國最大在野黨國民力量黨議員、國會外交統一委員會在野黨幹事金大植在社交媒體上表示，日本領導人應正視侵略歷史，以實際行動而非口頭表態展現真正的反省。（新華社）
+
+---
+
+### 2026-08-15 16:37:27  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign minister says Iran will not extend ceasefire with US】Aug 15 — Iran's foreign minister Araghchi told Iranian media he does not intend to extend the ceasefire agreement with the United States and has not decided whether to resume talks. He said the U.S. violated the Iran–U.S. memorandum of understanding and that hostilities have resumed, so there is no extension of the ceasefire. He added that Qatar and Pakistan, acting as mediators, are exchanging information and remain in contact with Iran, but that does not mean Washington and Tehran are negotiating.
+
+---
+
+### 2026-08-15 16:36:10  #公司 #國際
+
+【大疆被列入“黑名單”，美法院裁定重審】據俄羅斯衛星社網站8月15日援引路透社訊息報道，美國聯邦上訴法院日前裁定，下級法院需重新審理中國無人機企業大疆公司被列入五角大樓“中國軍工企業”黑名單一案，認為此前判決依據非保密資訊，存在瑕疵。報道說，哥倫比亞特區巡迴上訴法院裁定指出，下級法院僅依賴公開資料就認定大疆“為中國國防工業基礎作出貢獻”，該判斷有誤。法院要求重審時，下級法院可審查機密檔案，並據此決定是否支援國防部的認定。（參考訊息）
+
+---
+
+### 2026-08-15 16:33:35  #焦點 #國際
+
+【伊朗外長說無意延長停火協議】伊朗外交部長阿拉格齊今天（8月15日）在接受伊朗媒體採訪時表示，伊朗無意延長與美方的停火協議，且尚未決定是否重啟與美國的談判。美國已違反伊美諒解備忘錄，戰火已重燃，不存在所謂的“延長停火協議”。阿拉格齊還說，卡達和巴基斯坦作為調解方正開展交換資訊的工作，並與伊朗保持聯絡，但這並不意味著伊美雙方正在進行談判。此前，美國和伊朗方面6月17日公佈諒解備忘錄正式文字。根據這份檔案，美伊承諾在60天內進行談判並達成最終協議。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 16:31:26  #MKT News #Market Themes #AI Revolution
+
+【Lazard survey: AI threat to software prompts PE secondary-market investors to shift capital】Lazard's survey shows private equity secondary-market investors are reassessing software investments and reallocating capital while awaiting clearer evidence of AI-driven disruption to business models and valuations. 91% of respondents said the main moat against AI replacing software products is "proprietary data advantages and network effects difficult for AI to replicate." Only 4% reported no change to their software investment approach as of June.
+
+---
+
+### 2026-08-15 16:27:01  #國際
+
+【伊朗稱霍爾木茲海峽歸屬無可爭議】伊朗司法總監埃傑伊今天（8月15日）表示，美國總統針對霍爾木茲海峽發表的荒謬言論，完全源於其個人幻覺。在現實世界中，這道重要國際水道的真正所有者和主導者是伊朗。埃傑伊強調，伊朗已在軍事層面證明，霍爾木茲海峽是伊朗領土與主權不可分割的一部分。 他補充道，無論從國際法角度還是國家主權準則來看，霍爾木茲海峽屬於伊朗都是明確且毫無爭議的客觀事實。 埃傑伊表示，特朗普及其顧問必須明白，霸權主義的靴子絕不可能踏上霍爾木茲海峽。（CCTV國際時訊）
+
+---
+
+### 2026-08-15 16:17:36  #其他
+
+【頤和園、天壇等北京11家市屬公園加入京津冀旅遊景區聯票】記者從北京市公園管理中心瞭解到，近日，11家北京市屬公園正式納入京津冀旅遊景區聯票合作體系，具體為：頤和園、天壇公園、北海公園、中山公園、香山公園、景山公園、國家植物園（北園）、北京動物園、陶然亭公園、玉淵潭公園、百望山森林公園，進一步深化京津冀三地文旅資源互聯互通、共建共享，為遊客提供更多高品質、標誌性的北京旅遊精品選擇。此外，天津大沽口炮臺博物館、楊柳青石家大院等4家特色景區，河北天下第一關、長壽山等15家知名文旅點位也於近日相繼加入聯票體系，構建起京津冀全域聯動的文旅出遊新格局。（央視新聞）
+
+---
+
+### 2026-08-15 16:03:25  #國際
+
+據黎巴嫩國家媒體報道，以色列在黎巴嫩南部發動的襲擊造成七人死亡。
+
+---
+
+### 2026-08-15 16:01:27  #市場
+
+【雞蛋價格同比漲幅明顯 專家預測後市將趨於穩定】記者從北京新發地農產品批發市場瞭解到，這兩天普通雞蛋批發價比上月同期上漲約5.5%，較去年同期上漲約48%，日交易量為540噸，同比增加128噸。中國農業科學院農學經濟與發展研究所副研究員朱寧表示，就後市來看，因為臨近中秋國慶“雙節”以及大中小學開學，雞蛋的消費潛力將完全釋放，蛋價將規律性偏強執行，雞蛋供應則受二季度補欄較多的影響，近期新開產蛋雞較多，雞蛋市場供應有增長預期，有利於穩定蛋價，雞蛋價格大幅上漲的可能性不大。（央視新聞）
+
+---
+
+### 2026-08-15 15:58:48  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+【IRGC says Iran forced 'most heavily armed army' to submit after six months of operations】Press TV quoted Islamic Revolutionary Guard Corps commander Major General Ahmad Vahidi on Saturday saying Iran’s offensive and defensive operations under heavy fire have forced "the most heavily armed army in history" to submit. Vahidi thanked the armed forces for six months of "unprecedented holy war," and described Iran’s conduct against what he called "the most bloodthirsty enemy in human history."
+
+---
+
+### 2026-08-15 15:58:09  #國際
+
+【印尼東努沙登加拉省發生5.1級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日15時39分，東努沙登加拉省芒加萊縣魯滕鎮東北82公里處發生5.1級地震，震源深度10公里。（央視新聞）
+
+---
+
+### 2026-08-15 15:57:46  #國際
+
+以色列軍方：對黎巴嫩南部納巴蒂耶和安薩爾的空襲是對阿里·塔赫爾高地我軍遭到襲擊的回應。
+
+---
+
+### 2026-08-15 15:57:01  #國際
+
+以色列軍方：我們將繼續在黎巴嫩南部開展行動，以消除真主黨的威脅。
+
+---
+
+### 2026-08-15 15:51:02  #其他
+
+【水利部：太湖流域將發生流域性大洪水】今天（15日）上午，水利部舉行會商，分析研判全國的防汛形勢，目前全國59條河流仍維持超警，太湖流域將發生流域性大洪水。截至今天9時，浙江、上海、江蘇、安徽、河南等地59條河流仍維持超警，其中30條河流維持超保。據預報，8月15日至16日，受降雨及上游來水影響，太湖流域將發生流域性大洪水，長江下游支流滁河、淮河中游支流沙潁河周口至界首河段、黑龍江干流同江以下江段維持超警；浙江省暴雨區內部分中小河流可能發生超警洪水。8月15日8時至16日8時，四川西北部、青海東南部、浙江東部發生山洪災害的可能性大（橙色預警）。水利部今天8時釋出橙色山洪災害氣象預警，維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。
+
+---
+
+### 2026-08-15 15:49:25  #其他
+
+【新方法可給單個免疫細胞“體檢”】瑞典卡羅琳醫學院與瑞典生命科學實驗室聯合開發出一種分析血液中免疫細胞狀態的新方法，可獲取單個免疫細胞的多項物理特性。測試結果顯示，該方法能夠區分動脈粥樣硬化患者與健康人群的免疫細胞。卡羅琳醫學院在新聞公報中介紹，細胞膜組織結構、線粒體功能等物理特性會影響免疫細胞的移動、細胞間通訊及其對炎症的反應，但此前難以在大規模細胞群體中同時測量這些物理特性。研究人員開發出的這種名為“光譜生物物理細胞術”的新方法，可在極大型細胞群體中，同時測量單個細胞的多種物理特性。該方法將熒光奈米感測器與先進的流式細胞術相結合，前者可感知細胞物理環境的變化，後者可利用鐳射在數分鐘內逐個分析數千個細胞，獲取每個細胞的多項物理特性。（新華社）
+
+---
+
+### 2026-08-15 15:49:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli military said it struck Hezbollah infrastructure in southern Lebanon on Saturday in response to actions against Israeli soldiers in the security zone.
+
+---
+
+### 2026-08-15 15:48:54  #國際
+
+【加拿大媒體：加美關稅談判陷入僵局】據加拿大媒體14日報道，隨著美國對加拿大加徵關稅的最後期限臨近，由於在核心利益訴求上存在重大分歧，目前加美關稅談判陷入僵局。報道說，加美兩國負責貿易事務的高階官員連日來在華盛頓展開多輪密集磋商，但雙方立場相距甚遠，目前沒有達成協議的跡象。據報道，在談判中加方訴求是美國不徵收新關稅，同時降低已經對加拿大鋼鋁、汽車和木材行業徵收的關稅。而美方要求加拿大取消對美國乳製品的進口限制、取消各省對美國酒類的銷售禁令，並廢除優先採購加拿大產品的地方規定。（新華社）
+
+---
+
+### 2026-08-15 15:47:05  #國際
+
+以色列軍方表示，週六對黎巴嫩南部的真主黨基礎設施進行了打擊，"以回應對安全區內以色列士兵的襲擊"。
+
+---
+
+### 2026-08-15 15:43:32  #MKT News
+
+【At least 33 killed in M7.7 earthquake in East Nusa Tenggara, Indonesia】At least 33 people have been killed after a magnitude-7.7 earthquake struck East Nusa Tenggara province, Indonesia, the provincial governor said, according to a reporter on the scene.
+
+---
+
+### 2026-08-15 15:42:39  #國際
+
+【印尼7.7級地震已造成至少33人死亡】當地時間15日，根據東努沙登加拉省省長的說法，印尼7.7級地震造成的死亡人數已達到33人。中國地震臺網正式測定：8月15日5時58分在印尼弗洛勒斯島附近海域（南緯8.40度，東經121.40度）發生7.7級地震，震源深度20千米。（央視新聞）
+
+---
+
+### 2026-08-15 15:39:01  #其他
+
+【生態環境法典施行後人民法院第一案在浙江衢州開庭】記者8月15日從最高人民法院獲悉，在生態環境法典施行當天，浙江省衢州市衢江區人民法院公開開庭審理生態環境法典施行後人民法院第一案——商鋪噪聲汙染責任糾紛案。（新華社）
+
+---
+
+### 2026-08-15 15:38:12  #其他
+
+【國內文創領域首個人像資料智慧財產權登記實踐落地深圳】據深圳市智慧財產權局謝謝，日前，成都OST傳媒簽約創作者形象、影片、聲音等人像資料在深圳已完成資料智慧財產權登記確權實踐，該案例是國內文創領域首個人像資料智慧財產權確權實踐，實現了文創領域人像資料確權、流通、保護的全鏈條突破性探索，補齊了行業人像資料合規保護短板，被作為我國智慧財產權保護特色亮點，面向海內外廣泛推介。 (21財經)
+
+---
+
+### 2026-08-15 15:34:17  #其他
+
+英國首相伯納姆：將額外投入6500萬英鎊來支援農民度過這場乾旱，併為未來的夏季做好準備。
+
+---
+
+### 2026-08-15 15:26:48  #其他
+
+中國向哥倫比亞提供緊急人道主義地震救災援助。（新華社）
+
+---
+
+### 2026-08-15 15:25:45  #MKT News #Commodities #Energy
+
+【Iran's oil minister meets Tajikistan transport and energy ministers】Iran Oil Minister Mohsen Paknejad met Tajikistan Transport Minister Azim Ibrohim and Energy and Water Resources Minister Daler Juma on Saturday; talks focused on cooperation in the energy sector.
+
+---
+
+### 2026-08-15 15:24:06  #國際
+
+當地官員稱，烏克蘭襲擊導致俄羅斯薩馬拉州一處工業場地受損。
+
+---
+
+### 2026-08-15 15:16:34  #MKT News
+
+【Magnitude-5.0 earthquake strikes Granada province, Spain; no casualties reported】A magnitude-5.0 earthquake struck Granada province in southern Spain on the 15th local time. Local authorities said there were no casualties. The Andalusia regional government activated its emergency contingency plan at the warning stage to address potential secondary hazards and aftershocks. Strong shaking was reported across the affected area and neighboring provinces; some residents evacuated outdoors. Emergency services received multiple reports of minor structural cracks and falling debris; safety inspections and damage assessments are underway.
+
+---
+
+### 2026-08-15 15:16:14  #其他
+
+【西班牙格拉納達省發生5.0級地震 暫無人員傷亡】當地時間15日，西班牙南部格拉納達省發生5.0級地震。當地政府部門表示，本次地震暫未造成人員傷亡，安達盧西亞大區政府已緊急啟用應急預案預警階段，以應對可能發生的次生災害與後續餘震。
+
+---
+
+### 2026-08-15 15:14:45  #其他
+
+萬事達卡：系統更新短暫造成交易遭拒，目前問題已解決，所有系統執行正常。
+
+---
+
+### 2026-08-15 15:12:56  #公司 #國際
+
+美國國家公路交通安全管理局：戴姆勒卡車北美有限公司提交召回申請，涉及22,778輛美國車輛。
+
+---
+
+### 2026-08-15 15:10:09  #國際
+
+烏克蘭總統澤連斯基表示，烏克蘭正在加大力度爭取獲得更多愛國者系統，並擴大國內武器製造。
+
+---
+
+### 2026-08-15 15:09:05  #MKT News
+
+Iran's communications minister says more than 500 telecommunications sites were attacked during the war; some facilities were hit again after being repaired and service restored.
+
+---
+
+### 2026-08-15 15:07:54  #其他
+
+小鵬汽車：本週上新 36 座小鵬超充站，其中9 座 S5 超快充站、21 座 S4 超快充站、3 座超快充站、3 座超充站。
+
+---
+
+### 2026-08-15 15:07:08  #其他
+
+【中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通】8月15日，中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通，首批108名遊客開啟跨境之旅，為共建“一帶一路”、中蒙俄經濟走廊人文交流增添全新載體。此次跨境一日遊大幅最佳化手續，遊客無需提前辦理護照簽證，僅憑身份證即可參團，中國公民邊境旅遊團隊名單表的規範填報、人員資訊篩查、通行證明出具等全部流程均由有正規邊境旅遊經營資質的旅行社統一代辦，二連浩特公安局、出入境管理大隊並聯審批、高效出證。二連出入境邊防檢查站最佳化查驗舉措，實行團隊“團進團出”快速通關，大幅縮短候檢時間。（央視新聞）
 
 ---
 
@@ -19718,347 +19928,5 @@ USGS reported a magnitude-5.3 earthquake with epicenter 11 km south of Sarangani
 ### 2026-08-14 02:57:07  #國際
 
 西北河流預報中心（NWRFC）：美國西北部河流徑流量降至82%。
-
----
-
-### 2026-08-14 02:54:00  #國際
-
-【俄外長：將扣押西方國家船隻作為對等反制】俄羅斯外交部長拉夫羅夫13日對俄媒表示，俄方將“自行決定”扣押哪些西方國家船隻，作為對西方國家扣押俄船隻行為的反制。拉夫羅夫說，西方國家把“強盜行徑和海盜行為”當作官方政策，俄羅斯將從服務於西方國家利益的船隻中自主選擇扣押目標，至於如何處理“將由俄方自行決定”。（新華社）
-
----
-
-### 2026-08-14 02:50:59  #市場
-
-WORKDAY股價上漲至30%。
-
----
-
-### 2026-08-14 02:50:39  #MKT News
-
-Argentina permits domestic banks to use up to 15% of USD deposits for corporate lending.
-
----
-
-### 2026-08-14 02:50:32  #其他
-
-阿根廷經濟部長表示，阿根廷的通貨緊縮過程堪稱奇蹟。
-
----
-
-### 2026-08-14 02:50:02  #其他
-
-受Workday被收購報道影響，AI應用軟體股集體衝高，Cloudflare、MongoDB漲超6%，Palantir、賽富時漲超4%，Applovin、ServiceNow漲超3%； 擴充套件科技軟體行業ETF-iShares (IGV.US)漲超2%。
-
----
-
-### 2026-08-14 02:49:53  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude futures settled at $87.07/bbl, down $1.91, or 2.15%.
-
----
-
-### 2026-08-14 02:49:28  #MKT News #WDAY.O #Impact bullish
-
-Workday (WDAY.O) extended gains to 25.79% as shares were halted again for volatility.
-
----
-
-### 2026-08-14 02:47:46  #市場
-
-布倫特原油期貨結算價報每桶87.07美元，下跌1.91美元，跌幅2.15%。
-
----
-
-### 2026-08-14 02:46:05  #其他
-
-由於股價波動，WORKDAY股票再次暫停交易。
-
----
-
-### 2026-08-14 02:45:44  #市場 #焦點
-
-Workday暴漲26%，創2012年以來最大漲幅。
-
----
-
-### 2026-08-14 02:42:03  #其他
-
-市場訊息：Unigel稱未就出售硫酸工廠開展正在進行的談判。
-
----
-
-### 2026-08-14 02:40:34  #MKT News #WDAY.O #Impact bullish
-
-Workday (WDAY.O) surged 14% intraday.
-
----
-
-### 2026-08-14 02:40:07  #國際
-
-特朗普：今天在美國國際貿易法庭取得重大勝利。
-
----
-
-### 2026-08-14 02:39:43  #國際
-
-特朗普：今天在“最低限額”豁免問題上取得重大勝利。
-
----
-
-### 2026-08-14 02:39:34  #其他
-
-WORKDAY股票恢復交易；漲幅擴大至14%。
-
----
-
-### 2026-08-14 02:39:28  #其他
-
-市場訊息：法官下令卡爾希停止多項華盛頓業務。
-
----
-
-### 2026-08-14 02:35:36  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange (SGE) gold T+D closed down 0.96% at 945.3 yuan/gram in the Aug. 13 late session; SGE silver T+D fell 1.21% to 15,740 yuan/kg.
-
----
-
-### 2026-08-14 02:35:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 1.24% to 948 yuan/gram, SHFE silver main contract fell 1.48% to 15,805 yuan/kg, and SC crude oil main contract rose 0.79% to 559 yuan/barrel.
-
----
-
-### 2026-08-14 02:35:18  #MKT News #WTI #Impact bearish
-
-US crude futures settled at $81.25/bbl, down $2.02 (-2.43%).
-
----
-
-### 2026-08-14 02:35:05  #MKT News #WDAY.O #Impact mixed
-
-Sources say Silver Lake is in talks to acquire enterprise cloud applications company Workday; negotiations remain ongoing.
-
----
-
-### 2026-08-14 02:34:49  #其他
-
-Workday股價迅速飆升6.3%，交易暫停。
-
----
-
-### 2026-08-14 02:33:21  #其他
-
-訊息人士稱，銀湖資本正洽談收購Workday，相關商議仍在進行中。
-
----
-
-### 2026-08-14 02:32:52  #公司
-
-蘋果公司：今年將在休斯頓啟動Mac Mini生產。
-
----
-
-### 2026-08-14 02:32:43  #市場 #國際
-
-美國原油期貨結算價報每桶81.25美元，下跌2.02美元，跌幅2.43%。
-
----
-
-### 2026-08-14 02:32:33  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-Apple (AAPL.O) has invested hundreds of millions of dollars in Houston; the first advanced AI servers have been shipped.
-
----
-
-### 2026-08-14 02:31:59  #市場 #央行 #國際
-
-【日元匯率距離160大關僅咫尺之遙 政府支援加息的訊息幾無影響】儘管據稱日本首相高市早苗政府支援加息，但日元兌美元匯率仍處在一個關鍵水平觸手可及的範圍之內。日元週四小幅走低，紐約午後交易中一度跌至1美元兌159.56日元。過去，在接近160時，日元貶值勢頭往往會受到遏制。據知情人士透露，日本央行可能會在9月份或10月份加息。他們補充說，日本央行擔心日元疲軟推高物價，而日本政府希望強化近期美日聯合干預匯市的效果，雙方因此在近期加息必要性這一點上的立場趨於一致。投資者表示，這一訊息對日元影響不大，原因是市場本已預期日本央行將加息。近幾日日元持續走弱，因為日本與美國之間仍存在較大的利差，同時日本還揹負著沉重的債務負擔。
-
----
-
-### 2026-08-14 02:31:44  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-Apple (AAPL.O) said it will begin producing the Mac Mini in Houston this year and will open an advanced manufacturing center there.
-
----
-
-### 2026-08-14 02:30:39  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Aziz, chairman of Iran’s parliamentary national security committee, warned that if actors continue to yield to Iran’s enemies their sovereignty will remain at risk and national standing will be weakened. He said that if parties act as tools of Iran’s enemies and move rashly in the region, Iran will respond decisively and forcefully.
-
----
-
-### 2026-08-14 02:30:36  #公司
-
-蘋果公司向休斯頓工廠投資數億美元，首批先進AI伺服器已發貨。
-
----
-
-### 2026-08-14 02:30:25  #其他 #焦點
-
-市場訊息：蘋果在休斯頓開設先進製造中心。
-
----
-
-### 2026-08-14 02:30:02  #市場
-
-上期所原油期貨夜盤收漲0.44%，報553.00元人民幣/桶。滬金夜盤收跌1.24%，滬銀收跌1.48%。
-
----
-
-### 2026-08-14 02:28:20  #公司
-
-【XRG透過進軍委內瑞拉推進全球天然氣戰略】阿布扎比國家石油公司（ADNOC）旗下XRG透過海上Loran許可證進入委內瑞拉。XRG將與BP、UCC共同持有該許可證的權益。XRG稱該許可證包含超過4萬億立方英尺的已探明天然氣資源。
-
----
-
-### 2026-08-14 02:25:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Lumber Falls by 2.17% — Top commodity losers are Lumber (-2.17%), Oat (-2.17%) and Coffee (-2.05%). Gains are led by Sugar (2.01%) and Rice (1.87%).
-
----
-
-### 2026-08-14 02:24:16  #其他
-
-市場訊息：XRG進軍委內瑞拉市場，推進其全球天然氣戰略。
-
----
-
-### 2026-08-14 02:23:49  #其他
-
-市場訊息：挪威海德魯在達成天然氣協議後提高巴西氧化鋁產量。
-
----
-
-### 2026-08-14 02:22:07  #其他
-
-【2026 XAIR Expo具身智慧產業博覽會9月在廣州舉行 數字華夏將攜全系列人形機器人亮相】2026XAIRExpo具身智慧產業博覽會將深度協同第二十一屆中國國際中小企業博覽會（以下簡稱“中博會”），於9月3日至6日在廣州廣交會展館D區舉辦。
-
----
-
-### 2026-08-14 02:21:03  #國際
-
-美國地質調查局：麥誇裡島以西發生5.1級地震。
-
----
-
-### 2026-08-14 02:20:31  #國際
-
-美國國家運輸安全委員會：瑞安航空1879號航班發動機碎片擊穿窗戶。
-
----
-
-### 2026-08-14 02:20:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 2.46% — Top commodity losers are Platinum (-2.46%), Iron Ore CNY (-2.15%) and Gold (-1.03%).
-
----
-
-### 2026-08-14 02:19:53  #MKT News
-
-U.S. National Transportation Safety Board (NTSB) said it is further assessing whether this incident shares commonalities with the 2018 Southwest Airlines engine failure. Inspection records show the engine underwent routine maintenance in May with no anomalies detected.
-
----
-
-### 2026-08-14 02:19:35  #MKT News #RYA.L
-
-U.S. National Transportation Safety Board (NTSB) said its investigation into a Ryanair flight's emergency landing in July remains ongoing; investigators recovered bird remains, including feathers, near the affected engine.
-
----
-
-### 2026-08-14 02:18:48  #Trading Economics #Markets #Canada #stocks #Importance 1
-
-Shopify Stock Price Hits 29-week High — Shopify shares increased to 216.92 CAD, the highest since January 2026. Over the past 4 weeks, Shopify Inc gained 22.63%, and in the last 12 months, it increased 8.72%.
-
----
-
-### 2026-08-14 02:18:30  #其他
-
-阿根廷經濟部長：美元貸款將降低比索利率。
-
----
-
-### 2026-08-14 02:18:07  #其他
-
-市場訊息：阿根廷允許銀行將美元存款最高15%用於向企業放貸。
-
----
-
-### 2026-08-14 02:15:40  #央行 #其他
-
-墨西哥央行將官方比索匯率定為17.0530比索兌1美元。
-
----
-
-### 2026-08-14 02:15:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural gas Drops by 2.95% — Top commodity losers are Natural gas (-2.95%), Crude Oil WTI (-2.57%) and Brent Crude Oil (-2.21%). Gains are led by Methanol (1.15%).
-
----
-
-### 2026-08-14 02:11:44  #其他
-
-NTSB稱，瑞安航空7月事故涉及的發動機曾在5月接受檢查，當時未發現任何問題。
-
----
-
-### 2026-08-14 02:10:40  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【UN special envoy warns Yemen faces "unprecedented" risk of returning to large-scale conflict】UN special envoy Hans Grundberg told the UN Security Council on the 13th (local time) that Yemen faces an "unprecedented" risk of relapsing into large-scale conflict compared with the 2022 UN-brokered ceasefire. He warned years of relative calm could be erased within weeks by renewed escalation.
-
----
-
-### 2026-08-14 02:09:36  #其他
-
-達美航空夏季將每日使用空客A330-900執飛奧斯汀至巴黎戴高樂機場航線。
-
----
-
-### 2026-08-14 02:09:08  #其他
-
-達美航空將於3月27日開通奧斯汀至巴黎的直飛航線。
-
----
-
-### 2026-08-14 02:08:21  #國際
-
-美國獨立機構NTSB稱，在7月瑞安航空事件中，在發動機附近發現包括羽毛在內的鳥類殘骸。
-
----
-
-### 2026-08-14 02:07:30  #其他
-
-達美航空開通首條飛往巴黎的航線。
-
----
-
-### 2026-08-14 02:07:15  #其他
-
-傑富瑞將Coherent目標價從每股375.00美元上調至420.00美元。
-
----
-
-### 2026-08-14 02:05:13  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Venezuela's oil minister says Caracas has signed development agreements for the Loran gas field with BP, UAE-based XRG and Qatar-based UCC.
-
----
-
-### 2026-08-14 02:04:31  #其他
-
-【聯合國特使警告葉門面臨重新陷入大規模衝突風險】聯合國秘書長葉門問題特使漢斯·格倫德貝里當地時間13日向聯合國安理會通報葉門局勢。格倫德貝里警告說，與2022年聯合國斡旋促成停火以來相比，葉門當前面臨的重新陷入大規模衝突的風險“前所未有”。他指出，持續數年的相對平靜局面，可能在短短數週的升級中付諸東流。（央視新聞）
-
----
-
-### 2026-08-14 02:04:14  #其他
-
-委內瑞拉石油部長稱，該國與BP、阿聯酋XRG及卡達UCC就委內瑞拉洛蘭氣田簽署協議。
-
----
-
-### 2026-08-14 02:03:13  #MKT News
-
-【Iran's foreign ministry again condemns U.S., Israel for violating international humanitarian law】On the 13th, marking the 77th anniversary of the Fourth Geneva Convention, Iran's foreign ministry issued a statement condemning the U.S. and Israel for violations of international humanitarian law and urging the international community to ensure compliance with the Geneva Conventions. The statement accused Israel of committing violations in Palestine, Lebanon and Syria in recent years and said U.S. support for Israel has further exacerbated those violations.
 
 ---
