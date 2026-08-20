@@ -1,7 +1,41 @@
 {
   "date": "2026-08-20",
-  "count": 1113,
+  "count": 1116,
   "items": [
+    {
+      "id": "5049081",
+      "time": "2026-08-20 13:34:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新車企神龍科技在武漢掛牌成立】神龍汽車科技（武漢）有限公司（以下簡稱“神龍科技”）8月20日上午在武漢經開區掛牌成立。“神龍汽車將專注於生產，神龍科技負責投資、規劃和運營品牌，雙方共同支撐神龍品牌的智慧化、電動化轉型。”神龍科技相關負責人用“一體化運營、分工協同”形容新神龍未來的定位。神龍科技由東風汽車、Stellantis集團、神龍汽車、長江產業投資集團、武漢金融控股集團和武漢經開產業投資集團等六方共同出資組建。"
+    },
+    {
+      "id": "mkt:01a01da7-843f-7aab-90a9-6a3201cfcd1e",
+      "time": "2026-08-20 13:31:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00688.HK",
+        "Impact bullish",
+        "01109.HK",
+        "00817.HK"
+      ],
+      "text": "【Citigroup: mainland property stocks set for Aug–Oct rally; top picks China Overseas, C&D International, CHINA RES LAND, KE Holdings-W, China Jinmao】Citigroup says supply–demand in core Chinese cities has improved and robust transaction volumes should accelerate developers’ September sales. It notes the State Council widened housing provident fund withdrawal uses to include home renovation and property-management fees, supporting property-management revenue and value-added services. Citigroup expects more new project launches in September that could propel an Aug–Oct sector upswing; top picks: China Overseas (00688.HK), C&D International (01908.HK), CHINA RES LAND (01109.HK), KE Holdings-W (02423.HK) and China Jinmao (00817.HK)."
+    },
+    {
+      "id": "mkt:01a01da6-aa12-7aab-90a9-663c8ab8fb8f",
+      "time": "2026-08-20 13:30:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact mixed"
+      ],
+      "text": "【SK Hynix, union reach preliminary wage and bonus agreement】Yonhap reports SK Hynix and its union have reached a preliminary collective bargaining deal that includes a 6.3% wage increase and adjustments to the profit-sharing bonus: 40% paid in cash and 60% in stock. Of the stock portion, 40% may be sold in the grant year and the remaining 20% will be deferred. The package also increases employee welfare points. The union plans a representative vote to ratify the agreement."
+    },
     {
       "id": "5049080",
       "time": "2026-08-20 13:30:01",
