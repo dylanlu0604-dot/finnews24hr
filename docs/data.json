@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-21 06:50:13",
-  "count": 16058,
+  "updated": "2026-08-21 06:54:08",
+  "count": 16056,
   "items": [
+    {
+      "id": "te:economy:576969",
+      "time": "2026-08-21 06:53:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "New Zealand Trade Gap Largest in Near 2 Years — New Zealand's trade deficit widened to NZD 1.94 billion in July 2026, up from NZD 0.76 billion in the same month a year earlier and surpassing estimates of NZD 0.32 billion. It was the largest trade deficit since September 2024, as exports grew less than imports."
+    },
+    {
+      "id": "mkt:01a0215e-ec9f-7aab-90c2-844b6473f82f",
+      "time": "2026-08-21 06:51:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "U.K. August GfK consumer confidence index due in 10 minutes."
+    },
     {
       "id": "mkt:01a02159-a208-7aab-90c2-7cd819825969",
       "time": "2026-08-21 06:45:17",
@@ -146873,44 +146897,6 @@
         "其他"
       ],
       "text": "巴西總統盧拉今日與墨西哥總統辛鮑姆通了電話。"
-    },
-    {
-      "id": "5040105",
-      "time": "2026-08-14 06:53:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西正就該程式通知美國政府，並要求舉行外交磋商。"
-    },
-    {
-      "id": "5040104",
-      "time": "2026-08-14 06:52:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西政府宣告：已啟動針對美國的貿易關稅對等反制程式。"
-    },
-    {
-      "id": "mkt:019ffd53-5531-7aab-902f-3aeaace31a88",
-      "time": "2026-08-14 06:52:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【U.S. media: Kennedy Center to add Trump’s name to building exterior】U.S. media reported on the 13th that the board of the Kennedy Center for the Performing Arts voted to add wording bearing U.S. President Trump’s name to the building’s exterior and to close the main building for renovations."
-    },
-    {
-      "id": "te:economy:575196",
-      "time": "2026-08-14 06:51:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "New Zealand Tourist Arrivals Rise 8.1% in June — Visitor arrivals to New Zealand grew 8.1% year-on-year to 201,855 in June 2026, accelerating from a 6.7% rise in May, driven largely by gains from Australia. The increase was the largest in three months, although the number of visitors was lower than in May, underscoring the impact of rising oil prices due to the ongoing Middle East conflict."
     }
   ]
 }
