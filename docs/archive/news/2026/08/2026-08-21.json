@@ -1,7 +1,23 @@
 {
   "date": "2026-08-21",
-  "count": 170,
+  "count": 172,
   "items": [
+    {
+      "id": "mkt:01a02045-a1bf-7aab-90bf-429a2f720cd3",
+      "time": "2026-08-21 01:43:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian Kurdish leader says Kurdish armed forces and security agencies have completed integration into Syrian government structures."
+    },
+    {
+      "id": "5050689",
+      "time": "2026-08-21 01:42:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌至盤中低點0.6%。"
+    },
     {
       "id": "mkt:01a02040-eac7-7aab-90bf-390b8cdd9d24",
       "time": "2026-08-21 01:38:40",
