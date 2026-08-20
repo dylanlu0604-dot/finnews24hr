@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-21 02:32:05",
-  "count": 16115,
+  "updated": "2026-08-21 02:35:57",
+  "count": 16108,
   "items": [
+    {
+      "id": "5050736",
+      "time": "2026-08-21 02:33:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "比特幣延續漲勢，最新上漲5.11%，報72,600美元<BTC=>。"
+    },
+    {
+      "id": "5050735",
+      "time": "2026-08-21 02:31:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：印度尼西亞恩德西北偏北 67 公里處發生 5.6 級地震。"
+    },
     {
       "id": "mkt:01a02071-0c2a-7aab-90c0-18756b7d476a",
       "time": "2026-08-21 02:31:14",
@@ -147385,99 +147401,6 @@
         "其他"
       ],
       "text": "市場訊息：法官下令卡爾希停止多項華盛頓業務。"
-    },
-    {
-      "id": "mkt:019ffc68-88a9-7aab-902c-4b378d2dcf46",
-      "time": "2026-08-14 02:35:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange (SGE) gold T+D closed down 0.96% at 945.3 yuan/gram in the Aug. 13 late session; SGE silver T+D fell 1.21% to 15,740 yuan/kg."
-    },
-    {
-      "id": "mkt:019ffc68-6fdf-7aab-902c-431745de04fd",
-      "time": "2026-08-14 02:35:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 1.24% to 948 yuan/gram, SHFE silver main contract fell 1.48% to 15,805 yuan/kg, and SC crude oil main contract rose 0.79% to 559 yuan/barrel."
-    },
-    {
-      "id": "mkt:019ffc68-40df-7aab-902c-3f51477f5050",
-      "time": "2026-08-14 02:35:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "US crude futures settled at $81.25/bbl, down $2.02 (-2.43%)."
-    },
-    {
-      "id": "mkt:019ffc68-0fd2-7aab-902c-3548e4eda824",
-      "time": "2026-08-14 02:35:05",
-      "tags": [
-        "MKT News",
-        "WDAY.O",
-        "Impact mixed"
-      ],
-      "text": "Sources say Silver Lake is in talks to acquire enterprise cloud applications company Workday; negotiations remain ongoing."
-    },
-    {
-      "id": "5039966",
-      "time": "2026-08-14 02:34:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "Workday股價迅速飆升6.3%，交易暫停。"
-    },
-    {
-      "id": "5039965",
-      "time": "2026-08-14 02:33:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，銀湖資本正洽談收購Workday，相關商議仍在進行中。"
-    },
-    {
-      "id": "5039964",
-      "time": "2026-08-14 02:32:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果公司：今年將在休斯頓啟動Mac Mini生產。"
-    },
-    {
-      "id": "5039963",
-      "time": "2026-08-14 02:32:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶81.25美元，下跌2.02美元，跌幅2.43%。"
-    },
-    {
-      "id": "mkt:019ffc65-bcfe-7aab-902c-2a4fd0f04aed",
-      "time": "2026-08-14 02:32:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Apple (AAPL.O) has invested hundreds of millions of dollars in Houston; the first advanced AI servers have been shipped."
     }
   ]
 }
