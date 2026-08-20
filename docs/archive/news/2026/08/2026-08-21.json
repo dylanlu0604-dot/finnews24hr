@@ -1,7 +1,78 @@
 {
   "date": "2026-08-21",
-  "count": 129,
+  "count": 137,
   "items": [
+    {
+      "id": "mkt:01a0202c-5371-7aab-90be-d6a58dee00d8",
+      "time": "2026-08-21 01:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal, citing people familiar with the matter, reports US bank EverBank is seeking a buyer."
+    },
+    {
+      "id": "5050668",
+      "time": "2026-08-21 01:15:35",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【零售商警告：高油價下部分美國消費者被迫“在必需品間做抉擇” 】零售商本週公佈的財報描繪了一幅喜憂參半的圖景，不僅反映出美國消費者的現狀，也展現了大型零售商如何應對當前的消費環境。包括Target和Walmart在內的主流零售商（業務均涵蓋食品雜貨）均報告了銷售額增長，但也指出消費者依然保持謹慎，部分原因是油價上漲。Target表示，最近一個季度同店銷售額增長了3.8%，這是其在經歷了多年疲弱的季度業績後，連續第二個季度實現穩健增長。Walmart表示，最近一個季度銷售額增長了2.6%，這是六年多來最疲軟的表現。Walmart並未將增速放緩歸咎於消費者支出的大幅縮減，而是指出新的藥店定價規定侵蝕了該業務的收入。儘管如此，Walmart仍觀察到低收入消費者的支出趨於謹慎，高管們表示，公司正在透過降價來吸引這些更加謹慎的顧客。Walmart首席財務官John David Rainey表示：“由於油價處於高位，本季度消費者似乎不得不在各種必需品之間做出取捨。”家居建材零售商Home Depot表示，消費者目前只為小型家居專案買單，並且只在確實需要時才購買洗碗機等昂貴的一次性消費品。高管們指出，消費者推遲了大型房屋翻新計劃，且停滯的房地產市場也拖累了銷售。Home Depot首席財務官Richard McPhail表示：“我們繼續專注於我們能控制的因素。”與此同時，其競爭對手Lowe's的增長較為疲軟，同店銷售額僅微增0.2%，高管將消費者支出疲軟列為原因之一。執行長Marvin Ellison本週早些時候表示，總體而言，消費者狀況依然健康，但他們“只是在非必需消費上變得更加謹慎”。"
+    },
+    {
+      "id": "5050667",
+      "time": "2026-08-21 01:14:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Everbank 的私募股權股東擬出售該銀行。"
+    },
+    {
+      "id": "5050666",
+      "time": "2026-08-21 01:14:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Everbank 也可能選擇 IPO 上市。"
+    },
+    {
+      "id": "mkt:01a02029-c4b4-7aab-90be-cb8c8720df25",
+      "time": "2026-08-21 01:13:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury issued a new general license authorizing negotiations over the sale of Russia’s Lukoil International GmbH, the signing of contingent contracts, and related maintenance activities."
+    },
+    {
+      "id": "mkt:01a02028-febb-7aab-90be-c659347bfc3c",
+      "time": "2026-08-21 01:12:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's defense ministry says its weapons have deterred enemies】Al Jazeera reported Iran's defense ministry said external threats and attacks have driven advances in its defense industry, with those achievements \"born of threat.\" The ministry said years of development have \"thwarted and deterred most of the enemy's calculations and objectives.\" It added that the war shows any attempt to strike Iran's national will to self-defence will face a nation both resolute in defence and resistance and able to convert each threat into fresh impetus for construction, development and new strength."
+    },
+    {
+      "id": "5050665",
+      "time": "2026-08-21 01:12:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國發布新的一般許可證，授權為盧克石油國際有限公司的出售談判及簽訂或有合同以及相關維護活動進行交易。"
+    },
+    {
+      "id": "mkt:01a02028-d782-7aab-90be-b901cdb93350",
+      "time": "2026-08-21 01:12:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "ZELENSKIY said Russian forces struck with large numbers of ballistic missiles, cruise missiles and drones, and that Ukraine urgently needs allies to provide Patriot air-defence systems to intercept ballistic missiles."
+    },
     {
       "id": "te:markets:576946",
       "time": "2026-08-21 01:11:46",
