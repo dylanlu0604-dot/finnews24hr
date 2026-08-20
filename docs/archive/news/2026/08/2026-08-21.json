@@ -1,7 +1,47 @@
 {
   "date": "2026-08-21",
-  "count": 204,
+  "count": 208,
   "items": [
+    {
+      "id": "5050711",
+      "time": "2026-08-21 02:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大卡尼總理今天與墨西哥總統辛鮑姆總統通了電話。"
+    },
+    {
+      "id": "5050710",
+      "time": "2026-08-21 02:06:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：6.5級地震襲擊秘魯中部。"
+    },
+    {
+      "id": "mkt:01a0205a-5761-7aab-90bf-a5680a6b3e52",
+      "time": "2026-08-21 02:06:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC's IPO may match or exceed SpaceX record, sources say】People familiar say AI firm ANTHROPIC is targeting an IPO that could match or surpass SpaceX’s record. The company is modeling potential deal sizes and could publicly file for a large offering as early as the end of this month. CFO-led investor meetings have avoided valuation discussion. For context, SpaceX raised $75 bln at IPO, rising to $86.2 bln after the overallotment option (typically exercised when shares rally). Reported preliminary Q2 revenue for ANTHROPIC exceeded $11.5 bln, versus $787 mln in the same period in 2025, and its annualized revenue run-rate reached $65 bln as of end-July."
+    },
+    {
+      "id": "mkt:01a02058-98ee-7aab-90bf-9ef556b278ce",
+      "time": "2026-08-21 02:04:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "DOE says measures to boost gasoline supply will remain in effect through Sept. 15, 2026, the scheduled end of the summer gasoline control season."
+    },
     {
       "id": "5050709",
       "time": "2026-08-21 02:03:20",
