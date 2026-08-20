@@ -1,7 +1,44 @@
 {
   "date": "2026-08-20",
-  "count": 1043,
+  "count": 1047,
   "items": [
+    {
+      "id": "5049047",
+      "time": "2026-08-20 12:28:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭官方訊息：基輔遭導彈襲擊已致6人死亡、33人受傷。"
+    },
+    {
+      "id": "te:economy:576715",
+      "time": "2026-08-20 12:28:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Exports YoY",
+        "Importance 1"
+      ],
+      "text": "Malaysia Export Growth Beats Forecasts — Malaysia's exports jumped 38.0% year-on-year to MYR 193.6 billion in July 2026, more than market expectations of a 34.3% growth but slowing from a revised 45.5% surge in June. The increase was largely driven by a 42.6% rise in manufactured goods, which accounted for 89.8% of total exports, particularly electrical and electronics products (51%). By destination, exports rose sharply to the US (79.8%), Singapore (16.7%), China (30.2%), Taiwan (96%), and the EU (37%)."
+    },
+    {
+      "id": "5049046",
+      "time": "2026-08-20 12:28:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：將於2026年8月20日下午開盤起至當日收盤停牌。"
+    },
+    {
+      "id": "mkt:01a01d6c-9816-7aab-90a8-7cab316d7619",
+      "time": "2026-08-20 12:27:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Caitong Fuxin periodic-open mixed fund will be suspended from the start of afternoon trading on Aug 20, 2026 until market close that day."
+    },
     {
       "id": "5049045",
       "time": "2026-08-20 12:24:10",
