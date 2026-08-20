@@ -1,7 +1,82 @@
 {
   "date": "2026-08-20",
-  "count": 553,
+  "count": 562,
   "items": [
+    {
+      "id": "5048744",
+      "time": "2026-08-20 08:11:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：預計耐心資本制度將持續夯實】中信證券研報指出，股權市場全鏈條生態正在發生顯著變化：LP結構演變，從“雙輪驅動”到“單極時代”，從“財務回報”到“耐心資本”；GP能力重構，從“財務投資人”到“產業組織者”，從“被動退出”到“主動管理”；投資正規化重塑，從“模式創新”到“科技創新”，從“IRR敘事”到“DPI指標”；退出渠道迭代，從“IPO獨木橋”到“多元退出試水”，從“名義退出”到“實際兌現”。展望未來，預計耐心資本制度將持續夯實，GP格局將持續優勝劣汰，政府投資基金進入存量最佳化階段，投資理念更趨穩健審慎，超額收益來源將從“主題共識博弈”轉向“產業鏈前瞻佈局”，退出端的多元格局也將日趨完善。"
+    },
+    {
+      "id": "mkt:01a01c81-c499-7aab-90a3-fe1f4df0ded0",
+      "time": "2026-08-20 08:11:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan's 20-year bond yield fell 7.5 bps to 3.700%."
+    },
+    {
+      "id": "mkt:01a01c81-7269-7aab-90a3-f58745210e58",
+      "time": "2026-08-20 08:10:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMAT.O",
+        "Impact bullish",
+        "LRCX.O",
+        "ASML.AS"
+      ],
+      "text": "【CITIC Securities: global semiconductor equipment upcycle confirmed; monitor overseas expansion】CITIC Securities research says the global semiconductor equipment upcycle remains intact and flags Chinese suppliers’ overseas expansion. SEMI updated its outlook, forecasting sustained growth through 2026–28: global semiconductor manufacturing equipment sales are forecast at $165.9bn in 2026 (+23.2% YoY) and could reach a record $229.5bn by 2028, marking five consecutive years of growth. The industry is experiencing a rare, full-chain price upswing across equipment components, with pricing power structurally shifting from chips to equipment and parts. Component vendors, typically smaller with high fixed costs, should see price rises flow rapidly to margins, while capacity expansion lead times of 12–18 months leave supply relatively inelastic."
+    },
+    {
+      "id": "5048743",
+      "time": "2026-08-20 08:10:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝爾鐳射：TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高】帝爾鐳射8月19日在機構電話會議表示，TGV相關應用目前主要包括先進封裝玻璃基板通孔、FAU及光通訊玻璃無源器件等方向。玻璃基板在表面平整度、熱膨脹匹配和高頻訊號傳輸等方面具備優勢，未來有望在先進封裝、RDL、CPO、新型顯示、射頻器件和功率器件等領域應用。從產業進展看，公司TGV裝置已覆蓋晶圓級和麵板級應用，並持續與不同區域、不同型別客戶開展合作。玻璃基板方向已有客戶復購需求。總體來看，TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高。"
+    },
+    {
+      "id": "mkt:01a01c81-45e4-7aab-90a3-ef2ebf47f58a",
+      "time": "2026-08-20 08:10:29",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 41.50 points higher, up 0.46%, at 9,095.30 on Thursday, Aug. 20."
+    },
+    {
+      "id": "5048742",
+      "time": "2026-08-20 08:10:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期】中信證券研報指出，隨著公募REITs市場業態型別和底層資產持續擴容，中信證券認為市場將不斷湧現結構性的投資機會，透過對於底層資產供求、運營等方向的研究，可以有效提升投資勝率。當前時點，中信證券認為優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期。"
+    },
+    {
+      "id": "5048740",
+      "time": "2026-08-20 08:08:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【勁方醫藥：GFH375兩款胰腺癌聯合療法進入II期研究】勁方醫藥公告稱，公司GFH375（口服KRAS G12D ON/OFF抑制劑）的三臂平行對照II期臨床研究已啟動，將開展兩款聯合療法對照單藥治療KRAS G12D突變型經治區域性晚期不可切除或轉移性胰腺癌的研究，兩款方案分別為GFH375聯合惡病質雙抗GFS202A、GFH375聯合泛RAS ON抑制劑GFH276。該研究為多中心、開放標籤、隨機對照研究，牽頭中心為上海交通大學醫學院附屬瑞金醫院，將在中國大陸數十家中心開展。GFH375已於2026年2月獲中國單藥治療相關轉移性胰腺癌突破性療法認定，2025年獲美國FDA快速通道資格認定。"
+    },
+    {
+      "id": "5048739",
+      "time": "2026-08-20 08:07:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長江和記實業：就巴拿馬港口事項啟動國際仲裁】長江和記實業有限公司公告稱，因多番嘗試尋求解決方案未果，公司於2026年8月20日就巴拿馬違反投資保護條約啟動國際仲裁程式，相關違約源自巴拿馬2025年及2026年採取的一系列措施，最終導致巴拿馬破壞巴爾博亞港及克里斯托瓦爾港的特許經營合約並強行接管港口碼頭。公司就其在巴拿馬的投資遭受破壞，索償超過15億美元。公司附屬公司巴拿馬港口公司將繼續根據特許經營合約及國際商會仲裁規則，在其分別展開的仲裁下維護自身不同權利。"
+    },
     {
       "id": "5048738",
       "time": "2026-08-20 08:06:48",
@@ -170,6 +245,14 @@
         "其他"
       ],
       "text": "馬斯克就SpaceX試圖收購Cognition的報道回應：除了確保Grok能很好地滿足他們的需求外，我們未與Cognition進行任何其他商談。"
+    },
+    {
+      "id": "mkt:01a01c7f-8e07-7aab-90a3-e46e3776bc08",
+      "time": "2026-08-20 08:01:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened up 180.71 points (+2.79%) at 6,651.88 on Thursday, Aug. 20."
     },
     {
       "id": "mkt:01a01c78-afda-7aab-90a3-b42adb17e9af",
