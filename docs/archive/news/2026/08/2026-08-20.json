@@ -1,7 +1,101 @@
 {
   "date": "2026-08-20",
-  "count": 1221,
+  "count": 1233,
   "items": [
+    {
+      "id": "5049153",
+      "time": "2026-08-20 14:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“金融危機專家”拉響警報：美國處於衰退邊緣】專攻地緣政治和金融危機的經濟學家Tuomas Malinen對美國經濟前景持悲觀態度。他日前在Substack網站上發文稱，他分析了金融市場和經濟的幾項關鍵指標。研究結果最終證實了這樣一種觀點：儘管股市繁榮，表面上經濟增長強勁，但美國經濟仍岌岌可危，隨時可能再次陷入衰退。不過，Malinen補充稱，他無法給出經濟衰退何時開始的具體時間表。“但我們必須承認，美國經濟實際上隨時都可能跌至谷底，”他警告說。"
+    },
+    {
+      "id": "te:markets:576736",
+      "time": "2026-08-20 14:20:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Lower Open — European equity markets were set to open lower on Thursday, extending recent declines despite a broader global market rally after the US Treasury Department announced plans to at least double the size of its bond buybacks, sending Treasury yields sharply lower. Investors also remained focused on rising oil prices amid heightened uncertainty in the Middle East, with the US and Iran still at a stalemate. In Europe, investors will assess German PPI data and the ECB’s latest Monetary Policy Meeting Accounts after the central bank left key interest rates unchanged in July. Meanwhile, no major earnings reports are scheduled in Europe today. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.1%."
+    },
+    {
+      "id": "mkt:01a01dd4-7d22-7aab-90aa-afc71cf75d85",
+      "time": "2026-08-20 14:20:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Zelenskiy said Russia carried out large-scale nighttime strikes in the Chernihiv region that hit gas infrastructure."
+    },
+    {
+      "id": "mkt:01a01dd4-6139-7aab-90aa-a67ea6ce18bf",
+      "time": "2026-08-20 14:20:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 22.30 points, or 0.25%, at 9,076.10 on Thursday, Aug. 20."
+    },
+    {
+      "id": "5049152",
+      "time": "2026-08-20 14:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【基輔拉響防空警報 烏稱襲擊已致12人死亡】當地時間20日，烏克蘭首都基輔市拉響防空警報。基輔市長克利奇科20日通報，截至目前基輔市遭襲已造成12人死亡，遭襲現場救援工作仍在繼續。他同時宣佈，8月21日為哀悼日，以悼念俄羅斯對基輔市發動大規模襲擊的遇難者。基輔市所有市屬建築將降半旗，當天基輔市將禁止舉行任何娛樂活動。（央視新聞）"
+    },
+    {
+      "id": "te:economy:576735",
+      "time": "2026-08-20 14:20:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Danish GDP Growth Softest in Over a Year — The Danish economy grew by 0.3% quarter-on-quarter in Q2 2026, easing from a 1.5% expansion in the previous period, according to preliminary estimates. This marked the softest growth since a contraction in Q1 2025. Household consumption fell 0.3% (vs 0.5% in Q1), with vehicle purchases declining 2.2% (vs 12.4%). Public consumption also edged down 0.1% (vs -4.4%). In net trade, exports rose 0.9% (vs 2.2%), while imports grew at a faster 1.1% (vs -0.8%). Meanwhile, gross fixed capital formation grew 0.8% (vs -5.1%), driven by a 9.5% increase in other construction and engineering (vs -9.7%) and a strong rise in capital investment, partly offset by an 8.4% decline in investment in means of transport. On the production side, the pharmaceutical industry made only a limited contribution after driving much of the increase in the first quarter. On a yearly basis, GDP grew 4.6% in Q2, moderating from a 5.9% expansion in Q1, while growth for the first half of 2026 stood at 5.3%."
+    },
+    {
+      "id": "5049151",
+      "time": "2026-08-20 14:19:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東海證券：維持傑瑞股份“買入”評級，資料中心電力業務蓄勢待發】東海證券研報指出，傑瑞股份訂單儲備持續增長，資料中心電力業務蓄勢待發。2026年上半年公司實現歸母淨利潤11.96億元，同比下降3.65%。公司積極推進全球資料中心市場拓展，與全球戰略合作伙伴深入繫結。公司國內工廠已具備燃氣輪機發電機組生產能力，北美已佈局包括燃機發電裝置在內的多類裝置本地化裝配能力；目前正透過擴建國內及北美原有廠房、租賃廠房，並推進迪拜生產及辦公基地建設，進一步提升相關裝置產能，可根據訂單情況統籌調配海內外產能。公司是國內油氣裝備龍頭企業，鑽完井業務、天然氣業務、燃氣輪機發電機組業務齊發展。考慮到公司燃氣輪機發電機組訂單交付節奏，調整公司預測，當前股價對應PE分別為43.45/19.35/14.37倍，維持“買入”評級。"
+    },
+    {
+      "id": "5049150",
+      "time": "2026-08-20 14:19:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 緊急救援人員自夜間起便在俄軍襲擊的各個現場開展工作。 基輔及其周邊州、敖德薩州和切爾尼戈夫州均出現損毀情況。 我們正竭盡一切努力獲取該防禦能力，弗雷亞計劃的相關工作每日都在推進。但愛國者攔截彈目前無可替代，我們每日都需要該裝備。"
+    },
+    {
+      "id": "5049149",
+      "time": "2026-08-20 14:18:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國資料中心遭社群圍堵 成中期選舉\"隱形炸彈\"】大型科技公司在快速建設資料中心方面未能贏得美國民眾的支援，這種矛盾日益尖銳，並可能在今年的美國中期選舉中成為博弈的關鍵問題。參議院共和黨競選機構在一份發給頂級人工智慧公司的內部備忘錄中警告稱，對美國資料中心的負面看法正在扼殺該黨在俄亥俄州保住關鍵席位的機會。備忘錄中指出，民主黨已經將資料中心作為俄亥俄州參議員選舉中的重要武器，希望借從共和黨參議員Jon Husted手中搶奪席位。而這一策略也確實正在生效。"
+    },
+    {
+      "id": "5049148",
+      "time": "2026-08-20 14:18:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《牛來》票房破3000萬】據燈塔專業版實時資料，截至8月20日14時6分，影片《牛來》票房破3000萬。"
+    },
     {
       "id": "mkt:01a01dd0-ec14-7aab-90aa-9f5b697b3777",
       "time": "2026-08-20 14:17:06",
@@ -44,6 +138,14 @@
         "國際"
       ],
       "text": "【伊朗外長：美為轉移自身財政問題而對伊進行新一輪經濟威脅】當地時間20日，伊朗外交部長阿拉格齊在社交媒體就美國針對伊朗的新一輪經濟威脅作出回應。阿拉格齊表示，有關對伊朗“啟動經濟行動”的威脅，意在轉移美國國內對財政問題的關注，包括高額債務和利息支出上升等。他稱，繼續堅持此前針對伊朗的相關政策，只會帶來更多失敗，並加劇伊朗民眾對美方的不滿。當地時間8月19日，美國總統特朗普在其社交媒體平臺“真實社交”發文稱，伊朗未能抓住達成協議的機會，因此他宣佈對伊朗採取“針對任何國家實施過的最嚴厲經濟行動”，稱這將是一場規模空前的“經濟戰和經濟孤立”。（央視新聞）"
+    },
+    {
+      "id": "5049145",
+      "time": "2026-08-20 14:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄太平洋艦隊進行導彈射擊演習】8月20日，俄羅斯國防部發布訊息稱，俄太平洋艦隊在計劃內演習中對南千島群島（日本稱“北方四島”）沿岸附近的靶標實施了導彈打擊。演習中，靶標模擬了距離超過300公里的假想敵艦艇。近衛巡洋艦“瓦良格”號發射了兩枚“火山”反艦導彈，核動力潛艇“鄂木斯克”號發射了“花崗岩”巡航導彈。與此同時，來自千島群島的“堡壘”岸防系統用“縞瑪瑙”導彈進行了打擊。（央視新聞）"
     },
     {
       "id": "mkt:01a01dcf-49f7-7aab-90aa-8c3ef729cf72",
@@ -117,6 +219,14 @@
         "其他"
       ],
       "text": "【上緯新材啟元機器人啟動2027屆校園招聘，系業界最大規模校招】8月20日，上緯新材啟元機器人正式啟動2027屆校園招聘，面向海內外2027屆應屆畢業生，個人機器人產品研發與產業化落地。據瞭解，這是具身智慧業界最大規模的校招，預計超過350人。本次校招釋放演算法研發、軟體系統、硬體機械、測試驗證、產品設計、市場運營等多類崗位。技術方向重點吸納演算法、軟體、硬體、結構、質量、測試、產品管理類人才。啟元機器人聚焦消費級具身智慧賽道，已推出啟元Q1人形機器人、啟元T1可變形機器人等產品。"
+    },
+    {
+      "id": "5049138",
+      "time": "2026-08-20 14:12:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以部長稱應每晚在加沙殺“三四十人”，聯合國斥“毫無人性”】據法新社8月19日報道，聯合國秘書長19日猛烈抨擊了以色列國家安全部長伊塔馬爾·本-格維爾的言論。這位部長稱，以色列應該每晚在巴勒斯坦加沙地帶殺“三四十人”。古特雷斯的發言人斯特凡納·迪雅裡克說：“這些言論令人震驚，駭人聽聞，毫無人性，非常危險。我們明確予以譴責。”（參考訊息）"
     },
     {
       "id": "mkt:01a01dcc-c02e-7aab-90aa-7828f785e0a9",
