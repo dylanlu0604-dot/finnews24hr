@@ -1,7 +1,135 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-21 04:37:11_
-_本檔包含 3327 則快訊，約 641940 字_
+_更新時間：2026-08-21 05:03:22_
+_本檔包含 3323 則快訊，約 640880 字_
+
+---
+
+### 2026-08-21 05:02:29  #其他
+
+白宮釋出的備忘錄稱，到 2030 年，太空運輸靶場規模必須實現擴容，以支援每年超 1000 次發射與再入任務。
+
+---
+
+### 2026-08-21 05:01:43  #國際
+
+美國白宮：特朗普簽署備忘錄，旨在助力推動美國太空發射業務發展。
+
+---
+
+### 2026-08-21 05:01:12  #MKT News
+
+White House: U.S. President Trump signed a memorandum to promote U.S. space launches.
+
+---
+
+### 2026-08-21 05:00:40  #資料 #國際
+
+韓國七月生產者物價指數自2025年八月以來首次環比下降。
+韓國7月PPI年率 7.7%，前值由8.60%修正為8.5%。
+韓國7月PPI月率 -0.4%，前值由0%修正為0%。
+
+---
+
+### 2026-08-21 05:00:24  #MKT News
+
+South Korea's July producer price index (PPI) fell month-on-month for the first time since August 2025.
+
+---
+
+### 2026-08-21 05:00:10  #MKT News #Macro & Rates
+
+South Korea July PPI m/m -0.4% (prior 0.0%).
+
+---
+
+### 2026-08-21 05:00:10  #MKT News #Market Regions #Japan & APAC
+
+South Korea July PPI YoY 7.7%; prior reading revised to 8.5% from 8.60%.
+
+---
+
+### 2026-08-21 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | PPI (YoY) (Jul) | actual 7.7% | previous 8.60%
+
+---
+
+### 2026-08-21 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | PPI (MoM) (Jul) | actual -0.4% | previous 0%
+
+---
+
+### 2026-08-21 04:59:41  #市場
+
+週四（8月20日）紐約尾盤，現貨黃金漲0.08%，報4519.36美元/盎司，整體呈現出V形走勢。現貨白銀漲1.16%，報68.0944美元/盎司。COMEX銅期貨跌0.17%，報6.5840美元/磅。
+
+---
+
+### 2026-08-21 04:54:44  #國際
+
+美國疾控中心：多州環孢子蟲疫情與墨西哥泰勒農場生菜相關，截至 8 月 20 日，17 個州現已報告 10930 例病例。
+
+---
+
+### 2026-08-21 04:49:07  #MKT News
+
+【Vucic says Serbia's parliamentary election to be held in late October】On the evening of the 20th (local time) President Vucic told Serbian Radio Television (RTS) that Serbia's parliamentary election will be held on Oct. 18 or Oct. 25; the final date will be confirmed in coming days.
+
+---
+
+### 2026-08-21 04:47:13  #MKT News
+
+FTSE Russell confirmed India's Bombay Stock Exchange (BSE) has met the required criteria; BSE-listed securities will be included in FTSE Russell's index eligibility assessments starting with the March 2027 index review.
+
+---
+
+### 2026-08-21 04:46:55  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains as Petrobras and Vale Rally — The Ibovespa edged 0.1% higher to close at 167,927 on Thursday, supported by gains in commodity-related stocks. Petrobras rose 2.8%, tracking a strong increase in oil futures, which also boosted PRIO, up 0.8%. Oil prices continued to rise as the war with Iran appeared increasingly far from a resolution after US President Donald Trump announced a package of measures aimed at hurting Iran’s economy. Vale jumped 2.6%, despite a decline in Chinese iron ore futures. Steelmakers, however, remained under pressure amid expectations of a possible agreement between Canada and the US that could lead to lower US tariffs on Canadian steel, making Brazilian companies less competitive. Gerdau fell 2.5%. Banks struggled as bond yields moved higher on energy-driven inflation concerns. Banco do Brasil fell 0.2%, Bradesco dropped 1.7% and Itaú lost 2.2%. Elsewhere, Ultrapar gained 1.1% after brokerages raised their price targets. Marcopolo rose 6.5% following a share buyback and dividend announcement.
+
+---
+
+### 2026-08-21 04:46:45  #MKT News
+
+【China, Switzerland complete upgraded free trade agreement talks, sign MoU】Aug 20 — In Bern, Swiss federal president and minister for economic affairs, education and research Guy Parmelin met with MOFCOM minister Raimondo to announce completion of upgraded China–Switzerland free trade agreement negotiations and the signing of a memorandum of understanding.
+
+---
+
+### 2026-08-21 04:44:12  #其他
+
+【中國與瑞士宣佈完成自貿協定升級談判】8月20日，瑞士聯邦主席兼經濟、教研部長帕姆蘭在伯爾尼會見商務部部長王文濤，共同宣佈完成中國—瑞士自由貿易協定升級談判並簽署諒解備忘錄。中國駐瑞士大使錢敏堅、瑞士駐華大使馬婷等出席活動。（商務部網站）
+
+---
+
+### 2026-08-21 04:43:09  #其他
+
+富時羅素：孟買證交所上市股票自 2027 年 3 月評估起可納入指數評估範圍。
+
+---
+
+### 2026-08-21 04:42:39  #國際
+
+富時羅素：確認印度孟買證券交易所（BSE）符合相關要求，可被納入富時羅素股票指數的合格交易所範疇。
+
+---
+
+### 2026-08-21 04:39:45  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
+
+Fed chair KEVIN WARSH will speak at Jackson Hole on Aug 28 at 10:00 a.m. EDT (10:00 p.m. Beijing time).
+
+---
+
+### 2026-08-21 04:39:39  #其他
+
+【武契奇：塞爾維亞議會選舉將於10月下旬舉行】當地時間20日晚，塞爾維亞總統武契奇在接受塞爾維亞廣播電視臺採訪時表示，塞爾維亞議會選舉將於10月18日或25日舉行，最終日期將在未來幾天確定。 此前，武契奇14日出席活動時說，塞爾維亞可能於今年10月或11月舉行議會選舉。今年6月，武契奇表示要辭去總統職務。7月，武契奇稱將在辭去總統職務後爭取出任政府總理。武契奇2017年4月當選塞爾維亞總統，並於2022年5月連任。（新華社）
+
+---
+
+### 2026-08-21 04:36:42  #央行 #焦點 #國際
+
+美聯儲稱主席沃什將於美東時間8月28日上午10點在傑克遜霍爾講話。
 
 ---
 
@@ -19941,155 +20069,5 @@ Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank ke
 ### 2026-08-20 05:46:55  #Trading Economics #Markets #Commodity #commodity #Importance 0
 
 HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%.
-
----
-
-### 2026-08-20 05:46:24  #宏觀 #市場 #國際
-
-【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。
-
----
-
-### 2026-08-20 05:44:39  #其他
-
-牙買加中央銀行將貸款利率維持在5.5%的水平。
-
----
-
-### 2026-08-20 05:42:14  #國際
-
-巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。
-
----
-
-### 2026-08-20 05:41:09  #MKT News
-
-Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit.
-
----
-
-### 2026-08-20 05:39:30  #公司
-
-谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。
-
----
-
-### 2026-08-20 05:38:55  #市場
-
-週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。
-
----
-
-### 2026-08-20 05:38:08  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London.
-
----
-
-### 2026-08-20 05:36:43  #公司 #國際
-
-英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。
-
----
-
-### 2026-08-20 05:34:29  #國際
-
-據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。
-
----
-
-### 2026-08-20 05:34:05  #MKT News #XAUUSD #Impact bullish #WTI
-
-According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base.
-
----
-
-### 2026-08-20 05:30:31  #MKT News #Market Regions #Japan & APAC #8002.T #Impact bullish
-
-【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency.
-
----
-
-### 2026-08-20 05:26:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment.
-
----
-
-### 2026-08-20 05:21:35  #MKT News
-
-Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks.
-
----
-
-### 2026-08-20 05:20:52  #公司 #其他 #國際
-
-COGNITION：有關 SPACEX 試圖收購 COGNITION 的報道不實；COGNITION 不出售，雙方並未開展談判。
-
----
-
-### 2026-08-20 05:20:20  #國際
-
-市場訊息：伊藤忠商事進軍資料中心領域，計劃在日本建設10座資料中心。
-
----
-
-### 2026-08-20 05:20:02  #MKT News #8001.T #Impact bullish
-
-Nikkei reports Itochu Corporation is entering the data-center sector and plans to build 10 data centers in Japan.
-
----
-
-### 2026-08-20 05:16:47  #市場
-
-週三（8月19日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.73082元，較週二紐約尾盤漲155點，創月內新高，日內整體交投於6.7279-6.7486元區間。
-
----
-
-### 2026-08-20 05:16:39  #市場
-
-富時中國A50指數期貨夜盤收漲0.39%。
-
----
-
-### 2026-08-20 05:16:06  #其他
-
-虛擬貨幣持續走高，行情顯示，比特幣漲至69415.6美元，過去24小時內漲7.41%；以太坊漲至2259.59美元，過去24小時內漲18.06%。
-
----
-
-### 2026-08-20 05:14:38  #MKT News
-
-Australia's foreign minister will summon the Israeli ambassador over Israel's decision not to pursue criminal charges in the death of an Australian aid worker.
-
----
-
-### 2026-08-20 05:12:31  #國際
-
-澳大利亞外交部長：將就以色列決定不對遇難澳大利亞援助工作者提起刑事訴訟一事召見以色列大使 。
-
----
-
-### 2026-08-20 05:07:29  #公司
-
-得克薩斯州州長：亞馬遜於奧斯汀新建機器人生產工廠。
-
----
-
-### 2026-08-20 05:07:23  #市場 #焦點
-
-以太坊升破2300美元，日內漲20.00%。
-
----
-
-### 2026-08-20 05:05:22  #國際
-
-美國食品藥品監督管理局（FDA）：截至 8 月 19 日，與墨西哥錫那羅亞州哈瓦那辣椒相關的沙門氏菌疫情已造成美國 32 個州共計 431 人感染，57 人住院。
-
----
-
-### 2026-08-20 05:01:28  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages.
 
 ---

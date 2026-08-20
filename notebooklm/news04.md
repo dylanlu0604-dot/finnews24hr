@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 04:37:11_
-_本檔包含 2997 則快訊，約 641502 字_
+_更新時間：2026-08-21 05:03:22_
+_本檔包含 2990 則快訊，約 640992 字_
+
+---
+
+### 2026-08-17 21:00:12  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2743.00元。
+
+---
+
+### 2026-08-17 21:00:03  #市場 #焦點
+
+乙二醇連續主力合約日內漲3%，現報5217.00元。
+
+---
+
+### 2026-08-17 21:00:02  #市場
+
+【國內期貨夜盤開盤】集運指數歐線期貨連續漲10.89%，鉑連續漲3.37%，乙二醇連續漲3.12%，純苯連續漲2.22%，鈀連續漲2.03%。
+
+---
+
+### 2026-08-17 20:59:50  #公司
+
+【聚和材料：釋出股票交易風險提示公告】聚和材料公告稱，公司近期生產經營狀況正常，內外部經營環境未發生重大變化，股價短期漲幅較大，或存在市場情緒過熱及非理性炒作情形，短期股價或有較大回撥風險。2026年3月31日公司已完成對SKE旗下空白掩模版相關業務的收購，標的業務處於虧損狀態，國內生產基地尚在建設，短期內不會對公司業績產生較大影響。公司擬與關聯人共同向國聚同輝新增出資，該事項尚無實質性進展，尚需提交股東會審議，存在未獲透過風險。公司光伏導電漿料核心原材料銀的價格中長期波動不確定性較強，將直接影響生產成本。
+
+---
+
+### 2026-08-17 20:59:30  #國際
+
+美國聯邦基金有效利率8月14日報3.63%，成交量為990億美元，8月13日為3.63%，成交量為1,060億美元。
+
+---
+
+### 2026-08-17 20:59:13  #國際
+
+美國地質調查局：俄羅斯彼得羅巴甫洛夫斯克-堪察加東南偏東75公里處發生5.3級地震。
+
+---
+
+### 2026-08-17 20:58:57  #MKT News
+
+USGS reports a magnitude 5.3 earthquake 75 km ESE of Petropavlovsk-Kamchatsky, Russia.
+
+---
+
+### 2026-08-17 20:58:28  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+【OpenAI signs 10 GW Ohio data‑center deal with SB Energy; NVIDIA to back financing】OpenAI has signed a 10 GW data‑center lease with SB Energy in Ohio. People familiar with the matter say NVIDIA has committed support to help raise debt financing by guaranteeing part of the value of completed data‑center assets, starting with the first phase (about 5 GW). In return NVIDIA will be the exclusive chip supplier for the first half of the project and will take an equity stake in SB Energy. NVIDIA may later expand its guarantees to the entire campus. The guarantees are structured against asset value rather than OpenAI’s ongoing rent, a design intended to limit NVIDIA’s risk while boosting lender confidence and lowering financing costs.
+
+---
+
+### 2026-08-17 20:58:14  #市場 #國際
+
+【紐約州製造業活動在8月份出現2021年底以來最快擴張】由於訂單增長和積壓訂單保持強勁，8月份紐約州製造業活動出現2021年底以來的最快擴張。週一公佈的資料顯示，紐約聯邦儲備銀行8月份的製造業整體企業狀況指數上升5點，達到20.6。該資料高於零表明製造業在擴張。之前接受彭博新聞社調查的經濟學家的預測中值為10。對未來六個月整體企業狀況的展望指數也出現上升，對新訂單的預期指數達到2022年以來最高。今年美國製造業發展勢頭增強，消費者需求展現任性，企業投資也保持穩健，尤其是在人工智慧建設相關的領域。不過，企業也面臨著伊朗衝突導致的原材料價格上漲以及衝突持續時間不確定性的挑戰。衡量當前未交貨訂單的指標躍升10.5點，達到15.5，為2022年4月以來最高水平。衡量當前原材料支付價格的指標自5月以來首次上漲，而接收價格指數出現下降。
+
+---
+
+### 2026-08-17 20:57:02  #市場
+
+BLUE RIDGE BANKSHARES 恢復交易，股價盤前上漲 5%。
+
+---
+
+### 2026-08-17 20:56:34  #其他
+
+市場訊息：維瑞塔斯資本宣佈以11億美元出售Epiq Solutions。
+
+---
+
+### 2026-08-17 20:56:16  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Lower After CPI — Futures tracking Canadian stocks edged lower on Monday following the release of CPI data, after the S&P/TSX Composite Index reached a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. July’s inflation report also showed fuel prices rising at a faster pace. Elsewhere, Abaxx Technologies’ net loss widened in the second quarter. OceanaGold plans to acquire Ausgold in a deal valued at A$776 million. Canada and the US remain far from reaching a draft trade deal despite regular meetings, Canadian Trade Minister Dominic LeBlanc told an advisory committee on Friday.
+
+---
+
+### 2026-08-17 20:56:02  #其他
+
+【第七屆中非媒體合作論壇將在京舉行】由國家廣播電視總局、北京市人民政府、非洲廣播聯盟共同主辦的第七屆中非媒體合作論壇將於8月19日至21日在北京舉行。（新華社）
+
+---
+
+### 2026-08-17 20:55:14  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) spokesman said Trump's claim that the US held secret backchannel talks with IRGC officials about war is "a delusion born of failure".
+
+---
+
+### 2026-08-17 20:54:36  #其他
+
+【OpenAI與英偉達擴大計算機會 到2030年計算規模或達6000億美元】根據英偉達釋出的新聞稿，OpenAI將在PORTS-Pike建設並運營一座世界級的人工智慧工廠。AI工廠將採用英偉達的全棧DSX AI工廠平臺，包括GPU、CPU、網路和基礎設施軟體。 初步部署預計將提供4.25吉瓦的AI工廠產能。PORTS-Pike部署的每代NVIDIA AI工廠系統約可代表150萬塊NVIDIA GPU，約佔1500億美元至2000億美元的NVIDIA收入。經過20年的發展，該站點支援多次升級週期。 NVIDIA也可能選擇將PORTS-Pike的安排延長至初始4.25吉瓦以上，以確保剩餘的3.75吉瓦容量。 OpenAI承諾將在2030年前大規模部署NVIDIA AI基礎設施。OpenAI現有和計劃中的承諾約佔NVIDIA計算12吉瓦，如果NVIDIA將PORTS-Pike協議擴充套件至約16吉瓦，將有機會擴充套件至約16吉瓦。 英偉達表示，在這些層面上，這一機會代表到2030年NVIDIA計算量約為6000億美元。
+
+---
+
+### 2026-08-17 20:54:32  #公司
+
+【泰恩康與普羅凱融達成戰略合作】據泰恩康訊息，近日，泰恩康已完成對廣東普羅凱融生物醫藥科技有限公司（簡稱“普羅凱融”）的增資，並與普羅凱融及其實際控制人曾皓宇簽署《戰略合作協議》。增資交割完成後，泰恩康取得全球首創眼表細胞治療產品MSCohiO鏡片專案（SZ018）在中國區域的獨家商業推廣服務權益，雙方將共同推動眼表重症細胞治療創新成果實現商業化落地。
+
+---
+
+### 2026-08-17 20:54:06  #公司 #國際
+
+【美軍宣佈與雷神公司簽訂229億美元“戰斧”導彈合同】當地時間8月17日，美國海軍方面宣佈已與美國雷神公司簽訂一份價值229億美元的合同，以提高“戰斧”巡航導彈的產量。據悉，美海軍代理部長表示，將“透過與業界的密切合作，擴大彈藥工業基地的產能”，海軍部門“正在利用一切可用手段來滿足當前行動的需求”。美海軍方面尚未詳細透露“戰斧”導彈具體增產幅度及合同期限。（央視新聞）
+
+---
+
+### 2026-08-17 20:53:22  #公司
+
+【泰凌微：原一致行動協議到期解除 部分股東續簽】泰凌微公告稱，公司原一致行動關係將於2026年8月24日到期，王維航及華勝天成、盛文軍、鄭明劍、金海鵬、凌析微於2026年8月14日簽署新一致行動協議，自2026年8月25日起生效，期限1年。中域昭拓因進入清算期不再續簽，其所持1.53%公司股份不再合併計算。本次權益變動後，王維航控制公司股權比例為28.57%，公司實際控制人未發生變更，不涉及各方實際持股數量增減，不會影響公司治理結構和持續經營。
+
+---
+
+### 2026-08-17 20:52:58  #公司
+
+【芯原股份：2026年上半年營收18.64億元 同比增長91.37%】芯原股份公告稱，2026年上半年公司實現營業收入18.64億元，同比增長91.37%；歸屬於上市公司股東的淨虧損61212.50萬元，上年同期淨虧損31984.86萬元。經營活動產生的現金流量淨額6.26億元，上年同期為-3.65億元。報告期內研發投入佔營業收入比例為50.49%，較上年同期減少15.22個百分點。截至報告期末公司股東總數為53346戶，前十大股東中VeriSilicon Limited持股比例11.39%，為第一大股東。
+
+---
+
+### 2026-08-17 20:52:56  #Trading Economics #Economy #Sri Lanka #Manufacturing PMI #Importance 1
+
+Sri Lanka Manufacturing Activity Picks Up in July — Sri Lanka’s Manufacturing PMI rose to 55 in July 2026, up from 53 in June, indicating a faster expansion in manufacturing activity. New orders (55.9 vs 50) and production (54.5 vs 52) increased, driven by robust performance in the food and beverage manufacturing sector. Reflecting positive expectations for activity, employment rose to 51 from 50.5, while stocks of purchases remained in expansionary territory at 51.5, despite easing from 56.6. Meanwhile, suppliers’ delivery times remained extended at 61.5, little changed from 61.6, pointing to persistent supply-chain pressures as geopolitical tensions persist. Overall, manufacturers remained optimistic about activity over the next three months, while maintaining caution amid global uncertainties.
+
+---
+
+### 2026-08-17 20:52:18  #其他
+
+【上半年雄安新區外貿進出口總值同比增長6.2倍】據石家莊海關統計，今年上半年，雄安新區實現外貿進出口總值462.4億元，同比增長6.2倍。其中，雄安綜合保稅區增長態勢尤為突出，進出口總值達242.5億元，同比增長52.5倍。
+
+---
+
+### 2026-08-17 20:51:44  #MKT News
+
+Saudi Arabia TV reported Iran's foreign ministry said the Islamabad agreement has not collapsed and could still be restored.
 
 ---
 
@@ -17895,179 +18027,5 @@ State media reported Omani authorities said about 12 km of coastline in the Ras 
 ### 2026-08-15 20:00:54  #市場
 
 【多部門會商部署重點地區防汛搶險工作】8月15日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房和城鄉建設部、交通運輸部等部門以及黑龍江、江蘇、浙江、安徽、河南、廣東等重點省份聯合會商，研判近期強降雨影響，研究部署重點地區防汛搶險工作。國家防總針對太湖流域汛情提升針對江蘇的防汛應急響應至三級，啟動針對浙江的防汛四級應急響應，增派工作組趕赴江蘇協助指導抗洪搶險工作；繼續維持針對河南的防汛三級應急響應、針對安徽的防汛四級應急響應。國家防減救災委維持針對浙江、河南、陝西、黑龍江的國家四級救災應急響應。應急管理部維持針對浙江、安徽、河南、湖北的地質災害四級應急響應。會商指出，太湖流域發生流域性較大洪水，太湖水位上漲較快，周邊河網多個站點水位超警戒、超保證；淮河流域沙潁河和長江滁河等部分河段維持高水位執行，堤防防守壓力大；浙江、福建、廣東等地仍有強暴雨，局地發生山洪、地質災害的風險較高，防汛救災形勢嚴峻複雜。
-
----
-
-### 2026-08-15 20:00:03  #國際 #原創
-
-【伊朗稱3名飛行員被卡達扣押六個月】伊朗方面稱，3月針對美軍基地的空襲行動中伊朗一架蘇‑24 戰鬥機墜毀後，三名飛行員被卡達部隊生擒，已在該國被扣押約六個月。伊朗武裝部隊總參謀部失蹤人員委員會負責人穆罕默德・巴蓋爾扎德在致紅十字國際委員會主席的一封信中披露了上述情況。信中列明三名飛行員為賈瓦德・薩利希、阿卜杜勒馬吉德・達什蒂安、奧姆蘭・貝赫拉維西安。巴蓋爾扎德表示，在扣押期間，卡達不允許這三人與家人會面、通話，也拒絕伊朗官員瞭解他們的相關情況。伊朗官員此前曾表示，三名飛行員下落不明，現有相關資訊並不完整，僅稱在針對卡達的行動過後，另一名飛行員馬吉德・卡澤米的遺體已運回伊朗。
-
----
-
-### 2026-08-15 19:57:39  #國際
-
-【印尼7.7級地震中2名中國公民受輕傷】記者從中國駐登巴薩總領館瞭解到，暫未接到中國公民死亡的報告。地震造成2名中國公民受輕傷，總領館已為其提供必要領事協助。印尼外交部領事司通報說，此次地震暫未導致外國公民死亡。（新華社）
-
----
-
-### 2026-08-15 19:56:01  #MKT News #Brent #Impact bullish #WTI
-
-【UAE vows to defend freedom of navigation in Strait of Hormuz after attacks on ADNOC tankers】Abu Dhabi-based Arab Sky News quoted UAE presidential foreign policy adviser Anwar Gargash saying repeated attacks on ADNOC tankers will not deter the UAE from pursuing a steady, measured policy. Gargash said UAE policy is built on deterrence, diplomacy and adherence to international law and that it will, under international law, protect freedom of navigation and access through the Strait of Hormuz. He added the UAE will defend its sovereignty and interests while prioritizing dialogue and diplomatic solutions and will push to strengthen a unified Gulf position to safeguard regional security and national interests.
-
----
-
-### 2026-08-15 19:53:58  #其他
-
-暑期檔票房破97億。（央視財經）
-
----
-
-### 2026-08-15 19:50:49  #宏觀 #焦點
-
-【8月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】法治護航美麗中國建設 築牢中華民族永續發展生態根基； 2.文獻紀錄片《江澤民》今晚繼續播出； 3.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】北京建設歷史文化名城 讓保護與發展相融共生； 4.日本無條件投降81週年 各地舉行活動銘記歷史緬懷先烈； 5.我國多措並舉加快綠色低碳發展； 6.多地出現強降雨天氣 防汛救災加緊進行； 7.各地創新舉措 推進完整社群建設； 8.【新聞特寫】中國，我還會再來！ 9.國內聯播快訊： （1）前7個月全國鐵路傳送旅客28億人次； （2）前7個月中國—中東歐國家經貿合作示範區貿易額超370億元； （3）我國進一步規範檢驗類醫療服務專案收費； （4）中消協釋出《中國消費者綠色消費指南（2026版）》； （5）中歐北極快航季節性航線開啟常態化運營； （6）“CMG電影文化嘉年華·天津專場”啟動； 10.日本民眾舉行集會 敦促日本政府反省侵略戰爭罪行； 11.國際人士批評日本歪曲歷史 加速“再軍事化”等危險舉動； 12.國際聯播快訊： （1）印尼發生7.7級強震 已致38人死亡； （2）伊朗稱美破壞停火 協議無法延長； （3）古巴譴責美對古實施極限施壓和經濟扼殺； （4）資料顯示8月美消費者信心指數顯著下滑； （5）乾旱持續 歐洲多條河流水位達新低。
-
----
-
-### 2026-08-15 19:47:26  #MKT News #Important
-
-【Houthi rebels say Saudi strikes northwest Yemen's Saada province】Houthi rebels said on the 15th that Saudi forces carried out artillery and missile strikes on parts of Saada province in northwest Yemen. Masirah TV, controlled by the Houthi movement, reported strikes in Daher district and heavy missile attacks on the Razih border district, damaging farmland; no casualties reported. Saudi Arabia had not responded as of filing.
-
----
-
-### 2026-08-15 19:47:24  #國際
-
-【印尼政府調撥5萬份援助物資支援地震災區】8月15日晚，印尼總統府釋出訊息稱，印尼東努沙登加拉省發生7.7級地震後，政府已調撥5萬份包含生活必需品的援助物資，用於支援該省地震受災民眾。
-
----
-
-### 2026-08-15 19:47:11  #國際
-
-【巴布亞紐幾內亞北部海岸發生5.4級地震】據美國地震調查局官網顯示，當地時間15日晚，巴布亞紐幾內亞北部海岸發生5.4級地震。（央視新聞）
-
----
-
-### 2026-08-15 19:45:59  #其他
-
-【胡塞武裝稱沙特襲擊葉門西北部薩達省】葉門胡塞武裝15日說，沙烏地阿拉伯軍隊當日早晨對葉門西北部薩達省部分地區發動炮彈和導彈襲擊。據胡塞武裝控制的馬西拉電視臺報道，沙特襲擊了薩達省達赫爾區，薩達省邊境拉濟赫區也遭到猛烈的導彈襲擊，當地農田遭到破壞。目前尚無人員傷亡報告。（新華社）
-
----
-
-### 2026-08-15 19:42:20  #國際
-
-美國地質調查局：印尼PEMATANGSIANTAR西北偏北15公里處發生6.9級地震。
-
----
-
-### 2026-08-15 19:41:44  #國際
-
-【印尼7.7級地震死亡人數升至40人】印尼國家搜救局公佈的最新資料顯示，截至印尼雅加達時間18時30分（震區時間19時30分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至40人，另有50人受傷。
-
----
-
-### 2026-08-15 19:40:32  #觀點
-
-【宇樹科技IPO：暗盤交易系捕風捉影，背後風險不容小覷】近期，市場上有討論稱，宇樹科技場外出現“黃牛收購籌碼”，部分中介報價大幅超過發行價格。對此，記者向投資機構、私募、券商等市場資深人士多方求證，其均反饋稱，並未發現此類情況，相關傳聞基本都是捕風捉影；同時指出，這類私下場外約定和交易合規性存疑，投資者極易蒙受損失。作為宇樹科技IPO發行主承銷商的中信證券也提醒稱，證券交易須嚴格遵守法律法規及證券市場交易規則，僅可透過法律法規認可的渠道以實名賬戶開展交易，建議不要盲目跟風炒作，堅持理性投資、價值投資，審慎評估投資風險。（上證報）
-
----
-
-### 2026-08-15 19:39:00  #MKT News
-
-cenc measured a magnitude-4.4 earthquake at 19:30 on Aug 15 offshore Yilan County, Taiwan, with a focal depth of 73 km.
-
----
-
-### 2026-08-15 19:36:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iranian outlet Fars News reported military officials said three Iranian air force personnel, who went missing after a March operation targeting US bases, are now being held in Qatar.
-
----
-
-### 2026-08-15 19:36:26  #國際
-
-伊朗軍方訊息人士稱，3月份針對美軍基地的行動中失蹤的三名伊朗空軍人員目前正被卡達扣押。
-
----
-
-### 2026-08-15 19:34:04  #MKT News #Market Regions #Europe & UK #Commodities #Energy
-
-【Hungarian PM Magyar says controlled barge sinking begun to raise water and secure Paks nuclear plant】Hungarian Prime Minister Magyar said at a Paks nuclear plant briefing on the 15th that controlled sinking of barges has begun; although Danube main-channel levels remain lower, water at the plant’s pumping station has risen about 1 cm. He warned that without the intervention the Danube could fall to extremely low levels by the evening of the 16th, forcing one of the two operating turbines offline and possibly triggering a full shutdown. Magyar said the barge sinking and construction of a submerged weir are intended to prevent that outcome.
-
----
-
-### 2026-08-15 19:33:46  #其他
-
-【匈牙利總理：已開始沉船作業抬升水位 保障核電站執行】匈牙利總理毛焦爾當地時間15日在保克什核電站舉行的新聞釋出會上表示，駁船的受控沉降工作已經開始，儘管多瑙河主河道的水位仍在下降，但核電站泵站處的水位已上升了一釐米。毛焦爾表示，若不採取這一干預措施，16日晚間，多瑙河水位將降至極低水平，迫使該核電站兩臺仍在執行的渦輪機中的一臺停機，並可能導致後續全面停機。他指出，沉降駁船和建造潛堰正是為了防止這種情況發生。（央視新聞）
-
----
-
-### 2026-08-15 19:20:02  #其他
-
-【深圳釋出三預警，全市進入暴雨戒備狀態】深圳市氣象臺2026年08月15日18時49分發布全市雷電預警訊號，以及珠江口、深圳灣、南山區（南頭、南山、蛇口、招商街道）和寶安區（松崗、福永、西鄉、沙井、新安、航城、福海、新橋、燕羅街道）雷雨大風黃色預警訊號，和南山區、福田區、寶安區、光明區、龍華區、珠江口和深圳灣暴雨黃色預警訊號。預計19時前後深圳將自西向東出現雷雨，最大小時雨強30毫米左右，並伴有8級左右雷暴大風和強雷電。市民停留在安全地方。請落實各項防風防雨防雷電措施。全市進入暴雨戒備狀態。上述區域存在山洪風險，請注意防禦暴雨可能引發的區域性內澇、山洪等災害。
-
----
-
-### 2026-08-15 19:19:38  #其他
-
-德國地球科學研究中心（GFZ）：巴布亞紐幾內亞北海岸附近發生5.81級地震。
-
----
-
-### 2026-08-15 19:19:28  #其他
-
-【歡迎來龍餐館票房破7億】據貓眼專業版資料，電影 《歡迎來龍餐館》 上映5天， 總票房破7億。
-
----
-
-### 2026-08-15 19:19:10  #公司 #市場
-
-【金價反彈黃金市場交易又火了 分析師：下半年金價波動可能會加大】最近，金價連日上漲，截至8月14日，國際黃金現貨價上漲8.36%，國內金價每克上漲超80元，各地黃金市場交易火熱。那麼，未來黃金走勢如何？菜百股份高階黃金投資分析師李洋判斷，如果中長期持有，我們看好未來走勢，但是從短期、下半年來看，黃金價格波動可能還會加大。國家高階黃金投資分析師宋蔣圳介紹，這輪反彈有“修補”成分，但也有紮實的基本面支撐。目前，金價已經在900元每克上方，面臨多空激辯和技術性震盪，不建議普通人在此位置投入過重倉位。（央視財經）
-
----
-
-### 2026-08-15 19:17:19  #MKT News
-
-CENC recorded a magnitude 6.8 earthquake at 18:54 on Aug 15 near Sumatra, Indonesia; focal depth 170 km.
-
----
-
-### 2026-08-15 19:15:57  #國際
-
-中國地震臺網正式測定：08月15日18時54分在印尼蘇門答臘島（北緯2.95度，東經99.05度）發生6.8級地震，震源深度170千米。
-
----
-
-### 2026-08-15 19:15:52  #國際 #原創
-
-【伊朗稱已與阿曼就霍爾木茲海峽“航運地圖”達成一致，談判仍在進行中】伊朗外交部發言人巴加埃表示，伊朗和阿曼已就“航運地圖”達成一致，這是管理霍爾木茲海峽交通的更廣泛協議的一部分。巴加埃表示，伊朗和阿曼之間關於聯合宣告的討論仍在進行中。該協議被描述為“兩個沿海國家之間的一項獨立安排”，旨在確保“船舶安全透過”海峽，並“維護兩國的主權”。巴加埃表示：“下一階段的發展以及霍爾木茲海峽安全的恢復取決於多種因素。”
-
----
-
-### 2026-08-15 19:09:00  #其他
-
-【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局8月15日18時聯合釋出黃色山洪災害氣象預警：預計8月15日20時至16日20時，四川北部、雲南西北部、西藏東北部和東南部、甘肅南部、青海南部、新疆東南部等地部分地區可能發生山洪災害（藍色預警），其中，四川北部、雲南西北部、西藏東北部和東南部、甘肅南部、新疆東南部局地發生山洪災害可能性較大（黃色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-08-15 19:06:05  #MKT News
-
-cenc automatic determination: at 18:54 on Aug 15 an earthquake of approximately magnitude 6.4 occurred near Sumatra, Indonesia; final result subject to the official rapid report.
-
----
-
-### 2026-08-15 19:05:43  #其他
-
-【於東來回應“再招聘刑滿釋放人員”：首批刑釋職工無一離職】8月15日，於東來在社交平臺發文回應“胖東來再招聘刑滿釋放人員”一事。於東來透露，胖東來第一批刑釋人員進入崗位以後沒有一人離開、都穩定開心地工作和健康地生活著。他表示，這就是充滿尊重、尊嚴、公平、友善、正義和愛的文化力量。
-
----
-
-### 2026-08-15 19:05:04  #國際
-
-中國地震臺網自動測定：08月15日18時54分在印尼蘇門答臘島附近（北緯3.01度，東經98.91度）發生6.4級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-15 19:03:23  #MKT News
-
-Iran's Bandar Abbas International Airport resumed flight operations today, Iranian media Fars News reports. Scheduled services to Tehran, Mashhad and Isfahan will restart over the next few days.
 
 ---

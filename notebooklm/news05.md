@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 04:37:11_
-_本檔包含 3267 則快訊，約 641265 字_
+_更新時間：2026-08-21 05:03:22_
+_本檔包含 3258 則快訊，約 640346 字_
+
+---
+
+### 2026-08-15 20:00:03  #國際 #原創
+
+【伊朗稱3名飛行員被卡達扣押六個月】伊朗方面稱，3月針對美軍基地的空襲行動中伊朗一架蘇‑24 戰鬥機墜毀後，三名飛行員被卡達部隊生擒，已在該國被扣押約六個月。伊朗武裝部隊總參謀部失蹤人員委員會負責人穆罕默德・巴蓋爾扎德在致紅十字國際委員會主席的一封信中披露了上述情況。信中列明三名飛行員為賈瓦德・薩利希、阿卜杜勒馬吉德・達什蒂安、奧姆蘭・貝赫拉維西安。巴蓋爾扎德表示，在扣押期間，卡達不允許這三人與家人會面、通話，也拒絕伊朗官員瞭解他們的相關情況。伊朗官員此前曾表示，三名飛行員下落不明，現有相關資訊並不完整，僅稱在針對卡達的行動過後，另一名飛行員馬吉德・卡澤米的遺體已運回伊朗。
+
+---
+
+### 2026-08-15 19:57:39  #國際
+
+【印尼7.7級地震中2名中國公民受輕傷】記者從中國駐登巴薩總領館瞭解到，暫未接到中國公民死亡的報告。地震造成2名中國公民受輕傷，總領館已為其提供必要領事協助。印尼外交部領事司通報說，此次地震暫未導致外國公民死亡。（新華社）
+
+---
+
+### 2026-08-15 19:56:01  #MKT News #Brent #Impact bullish #WTI
+
+【UAE vows to defend freedom of navigation in Strait of Hormuz after attacks on ADNOC tankers】Abu Dhabi-based Arab Sky News quoted UAE presidential foreign policy adviser Anwar Gargash saying repeated attacks on ADNOC tankers will not deter the UAE from pursuing a steady, measured policy. Gargash said UAE policy is built on deterrence, diplomacy and adherence to international law and that it will, under international law, protect freedom of navigation and access through the Strait of Hormuz. He added the UAE will defend its sovereignty and interests while prioritizing dialogue and diplomatic solutions and will push to strengthen a unified Gulf position to safeguard regional security and national interests.
+
+---
+
+### 2026-08-15 19:53:58  #其他
+
+暑期檔票房破97億。（央視財經）
+
+---
+
+### 2026-08-15 19:50:49  #宏觀 #焦點
+
+【8月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】法治護航美麗中國建設 築牢中華民族永續發展生態根基； 2.文獻紀錄片《江澤民》今晚繼續播出； 3.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】北京建設歷史文化名城 讓保護與發展相融共生； 4.日本無條件投降81週年 各地舉行活動銘記歷史緬懷先烈； 5.我國多措並舉加快綠色低碳發展； 6.多地出現強降雨天氣 防汛救災加緊進行； 7.各地創新舉措 推進完整社群建設； 8.【新聞特寫】中國，我還會再來！ 9.國內聯播快訊： （1）前7個月全國鐵路傳送旅客28億人次； （2）前7個月中國—中東歐國家經貿合作示範區貿易額超370億元； （3）我國進一步規範檢驗類醫療服務專案收費； （4）中消協釋出《中國消費者綠色消費指南（2026版）》； （5）中歐北極快航季節性航線開啟常態化運營； （6）“CMG電影文化嘉年華·天津專場”啟動； 10.日本民眾舉行集會 敦促日本政府反省侵略戰爭罪行； 11.國際人士批評日本歪曲歷史 加速“再軍事化”等危險舉動； 12.國際聯播快訊： （1）印尼發生7.7級強震 已致38人死亡； （2）伊朗稱美破壞停火 協議無法延長； （3）古巴譴責美對古實施極限施壓和經濟扼殺； （4）資料顯示8月美消費者信心指數顯著下滑； （5）乾旱持續 歐洲多條河流水位達新低。
+
+---
+
+### 2026-08-15 19:47:26  #MKT News #Important
+
+【Houthi rebels say Saudi strikes northwest Yemen's Saada province】Houthi rebels said on the 15th that Saudi forces carried out artillery and missile strikes on parts of Saada province in northwest Yemen. Masirah TV, controlled by the Houthi movement, reported strikes in Daher district and heavy missile attacks on the Razih border district, damaging farmland; no casualties reported. Saudi Arabia had not responded as of filing.
+
+---
+
+### 2026-08-15 19:47:24  #國際
+
+【印尼政府調撥5萬份援助物資支援地震災區】8月15日晚，印尼總統府釋出訊息稱，印尼東努沙登加拉省發生7.7級地震後，政府已調撥5萬份包含生活必需品的援助物資，用於支援該省地震受災民眾。
+
+---
+
+### 2026-08-15 19:47:11  #國際
+
+【巴布亞紐幾內亞北部海岸發生5.4級地震】據美國地震調查局官網顯示，當地時間15日晚，巴布亞紐幾內亞北部海岸發生5.4級地震。（央視新聞）
+
+---
+
+### 2026-08-15 19:45:59  #其他
+
+【胡塞武裝稱沙特襲擊葉門西北部薩達省】葉門胡塞武裝15日說，沙烏地阿拉伯軍隊當日早晨對葉門西北部薩達省部分地區發動炮彈和導彈襲擊。據胡塞武裝控制的馬西拉電視臺報道，沙特襲擊了薩達省達赫爾區，薩達省邊境拉濟赫區也遭到猛烈的導彈襲擊，當地農田遭到破壞。目前尚無人員傷亡報告。（新華社）
+
+---
+
+### 2026-08-15 19:42:20  #國際
+
+美國地質調查局：印尼PEMATANGSIANTAR西北偏北15公里處發生6.9級地震。
+
+---
+
+### 2026-08-15 19:41:44  #國際
+
+【印尼7.7級地震死亡人數升至40人】印尼國家搜救局公佈的最新資料顯示，截至印尼雅加達時間18時30分（震區時間19時30分），印尼東努沙登加拉省7.7級地震造成的死亡人數已升至40人，另有50人受傷。
+
+---
+
+### 2026-08-15 19:40:32  #觀點
+
+【宇樹科技IPO：暗盤交易系捕風捉影，背後風險不容小覷】近期，市場上有討論稱，宇樹科技場外出現“黃牛收購籌碼”，部分中介報價大幅超過發行價格。對此，記者向投資機構、私募、券商等市場資深人士多方求證，其均反饋稱，並未發現此類情況，相關傳聞基本都是捕風捉影；同時指出，這類私下場外約定和交易合規性存疑，投資者極易蒙受損失。作為宇樹科技IPO發行主承銷商的中信證券也提醒稱，證券交易須嚴格遵守法律法規及證券市場交易規則，僅可透過法律法規認可的渠道以實名賬戶開展交易，建議不要盲目跟風炒作，堅持理性投資、價值投資，審慎評估投資風險。（上證報）
+
+---
+
+### 2026-08-15 19:39:00  #MKT News
+
+cenc measured a magnitude-4.4 earthquake at 19:30 on Aug 15 offshore Yilan County, Taiwan, with a focal depth of 73 km.
+
+---
+
+### 2026-08-15 19:36:41  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian outlet Fars News reported military officials said three Iranian air force personnel, who went missing after a March operation targeting US bases, are now being held in Qatar.
+
+---
+
+### 2026-08-15 19:36:26  #國際
+
+伊朗軍方訊息人士稱，3月份針對美軍基地的行動中失蹤的三名伊朗空軍人員目前正被卡達扣押。
+
+---
+
+### 2026-08-15 19:34:04  #MKT News #Market Regions #Europe & UK #Commodities #Energy
+
+【Hungarian PM Magyar says controlled barge sinking begun to raise water and secure Paks nuclear plant】Hungarian Prime Minister Magyar said at a Paks nuclear plant briefing on the 15th that controlled sinking of barges has begun; although Danube main-channel levels remain lower, water at the plant’s pumping station has risen about 1 cm. He warned that without the intervention the Danube could fall to extremely low levels by the evening of the 16th, forcing one of the two operating turbines offline and possibly triggering a full shutdown. Magyar said the barge sinking and construction of a submerged weir are intended to prevent that outcome.
+
+---
+
+### 2026-08-15 19:33:46  #其他
+
+【匈牙利總理：已開始沉船作業抬升水位 保障核電站執行】匈牙利總理毛焦爾當地時間15日在保克什核電站舉行的新聞釋出會上表示，駁船的受控沉降工作已經開始，儘管多瑙河主河道的水位仍在下降，但核電站泵站處的水位已上升了一釐米。毛焦爾表示，若不採取這一干預措施，16日晚間，多瑙河水位將降至極低水平，迫使該核電站兩臺仍在執行的渦輪機中的一臺停機，並可能導致後續全面停機。他指出，沉降駁船和建造潛堰正是為了防止這種情況發生。（央視新聞）
+
+---
+
+### 2026-08-15 19:20:02  #其他
+
+【深圳釋出三預警，全市進入暴雨戒備狀態】深圳市氣象臺2026年08月15日18時49分發布全市雷電預警訊號，以及珠江口、深圳灣、南山區（南頭、南山、蛇口、招商街道）和寶安區（松崗、福永、西鄉、沙井、新安、航城、福海、新橋、燕羅街道）雷雨大風黃色預警訊號，和南山區、福田區、寶安區、光明區、龍華區、珠江口和深圳灣暴雨黃色預警訊號。預計19時前後深圳將自西向東出現雷雨，最大小時雨強30毫米左右，並伴有8級左右雷暴大風和強雷電。市民停留在安全地方。請落實各項防風防雨防雷電措施。全市進入暴雨戒備狀態。上述區域存在山洪風險，請注意防禦暴雨可能引發的區域性內澇、山洪等災害。
+
+---
+
+### 2026-08-15 19:19:38  #其他
+
+德國地球科學研究中心（GFZ）：巴布亞紐幾內亞北海岸附近發生5.81級地震。
+
+---
+
+### 2026-08-15 19:19:28  #其他
+
+【歡迎來龍餐館票房破7億】據貓眼專業版資料，電影 《歡迎來龍餐館》 上映5天， 總票房破7億。
+
+---
+
+### 2026-08-15 19:19:10  #公司 #市場
+
+【金價反彈黃金市場交易又火了 分析師：下半年金價波動可能會加大】最近，金價連日上漲，截至8月14日，國際黃金現貨價上漲8.36%，國內金價每克上漲超80元，各地黃金市場交易火熱。那麼，未來黃金走勢如何？菜百股份高階黃金投資分析師李洋判斷，如果中長期持有，我們看好未來走勢，但是從短期、下半年來看，黃金價格波動可能還會加大。國家高階黃金投資分析師宋蔣圳介紹，這輪反彈有“修補”成分，但也有紮實的基本面支撐。目前，金價已經在900元每克上方，面臨多空激辯和技術性震盪，不建議普通人在此位置投入過重倉位。（央視財經）
+
+---
+
+### 2026-08-15 19:17:19  #MKT News
+
+CENC recorded a magnitude 6.8 earthquake at 18:54 on Aug 15 near Sumatra, Indonesia; focal depth 170 km.
+
+---
+
+### 2026-08-15 19:15:57  #國際
+
+中國地震臺網正式測定：08月15日18時54分在印尼蘇門答臘島（北緯2.95度，東經99.05度）發生6.8級地震，震源深度170千米。
+
+---
+
+### 2026-08-15 19:15:52  #國際 #原創
+
+【伊朗稱已與阿曼就霍爾木茲海峽“航運地圖”達成一致，談判仍在進行中】伊朗外交部發言人巴加埃表示，伊朗和阿曼已就“航運地圖”達成一致，這是管理霍爾木茲海峽交通的更廣泛協議的一部分。巴加埃表示，伊朗和阿曼之間關於聯合宣告的討論仍在進行中。該協議被描述為“兩個沿海國家之間的一項獨立安排”，旨在確保“船舶安全透過”海峽，並“維護兩國的主權”。巴加埃表示：“下一階段的發展以及霍爾木茲海峽安全的恢復取決於多種因素。”
+
+---
+
+### 2026-08-15 19:09:00  #其他
+
+【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局8月15日18時聯合釋出黃色山洪災害氣象預警：預計8月15日20時至16日20時，四川北部、雲南西北部、西藏東北部和東南部、甘肅南部、青海南部、新疆東南部等地部分地區可能發生山洪災害（藍色預警），其中，四川北部、雲南西北部、西藏東北部和東南部、甘肅南部、新疆東南部局地發生山洪災害可能性較大（黃色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-08-15 19:06:05  #MKT News
+
+cenc automatic determination: at 18:54 on Aug 15 an earthquake of approximately magnitude 6.4 occurred near Sumatra, Indonesia; final result subject to the official rapid report.
+
+---
+
+### 2026-08-15 19:05:43  #其他
+
+【於東來回應“再招聘刑滿釋放人員”：首批刑釋職工無一離職】8月15日，於東來在社交平臺發文回應“胖東來再招聘刑滿釋放人員”一事。於東來透露，胖東來第一批刑釋人員進入崗位以後沒有一人離開、都穩定開心地工作和健康地生活著。他表示，這就是充滿尊重、尊嚴、公平、友善、正義和愛的文化力量。
+
+---
+
+### 2026-08-15 19:05:04  #國際
+
+中國地震臺網自動測定：08月15日18時54分在印尼蘇門答臘島附近（北緯3.01度，東經98.91度）發生6.4級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-15 19:03:23  #MKT News
+
+Iran's Bandar Abbas International Airport resumed flight operations today, Iranian media Fars News reports. Scheduled services to Tehran, Mashhad and Isfahan will restart over the next few days.
 
 ---
 
@@ -19501,234 +19675,5 @@ Saudi state news agency said the Saudi Crown Prince met the CENTCOM commander.
 ### 2026-08-14 05:07:23  #Trading Economics #Economy #South Korea #Export Prices YoY #Importance 1
 
 South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%.
-
----
-
-### 2026-08-14 05:03:01  #市場
-
-週四（8月13日）紐約尾盤（週五北京時間04:59），美元兌離岸人民幣（CNH）報6.7444元，較週三紐約尾盤跌14點，日內整體交投於6.74793-6.74218元區間。
-
----
-
-### 2026-08-14 05:02:51  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed pauses Treasury purchases for reserve management】The Federal Reserve said it will suspend Treasury purchases aimed at managing banking system reserves (RMP) for the next month, indicating reserves have reached a level the Fed considers adequate. The New York Fed said RMP buys will be paused for the operation cycle ending Sept. 14, while it will continue roughly $17.0 billion of maturing-principal reinvestments. The Fed said the adjustment is an operational change only and does not reflect a shift in monetary policy stance or balance-sheet strategy. It noted that higher US government cash balances could strain market liquidity but that funding markets remain functioning. In July SOFR was below the IORB for most of the month; the Aug. 12 SOFR fix was 3.62%, 3bp under the IORB.
-
----
-
-### 2026-08-14 05:02:44  #Trading Economics #Markets #United Arab Emirates #stocks #Importance 0
-
-International Holding Company PJSC Stock Price Hits Near 4-year Low — International Holding Company PJSC shares decreased to 375.00 AED, the lowest since October 2022. Over the past 4 weeks, International Holding Company PJSC lost 1.32%, and in the last 12 months, it decreased 6.3%.
-
----
-
-### 2026-08-14 05:00:12  #資料 #國際
-
-韓國7月出口物價指數年率 49.1%，前值由48.90%修正為48.7%。
-韓國7月進口物價指數年率 18.7%，前值由20.60%修正為20.9%。
-
----
-
-### 2026-08-14 05:00:12  #MKT News
-
-South Korea export price index up 49.1% YoY in July; prior reading revised to 48.7% from 48.90%.
-
----
-
-### 2026-08-14 05:00:10  #MKT News #DXY #Impact bullish
-
-South Korea July import price index YoY +18.7%; previous reading revised from 20.60% to 20.9%.
-
----
-
-### 2026-08-14 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Import Price Index (YoY) (Jul) | actual 18.7% | previous 20.60%
-
----
-
-### 2026-08-14 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Export Price Index (YoY) (Jul) | actual 49.1% | previous 48.90%
-
----
-
-### 2026-08-14 04:54:40  #其他
-
-PJM 向聯邦監管機構提交一份方案，擬採購新增電力資源，為資料中心供電。
-
----
-
-### 2026-08-14 04:53:03  #資料 #市場
-
-週四（8月13日）紐約尾盤，現貨黃金跌1.34%，報4350.20美元/盎司。現貨白銀跌1.43%，報64.427美元/盎司，日內震盪下行，交投於66.303-64.219美元。COMEX銅期貨跌0.35%，報6.5326美元/磅，盤中一度走V收復跌幅，美PPI資料後較日高回落收跌。
-
----
-
-### 2026-08-14 04:49:30  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iran set its September Asian selling price for Iranian Light crude at a $4.70/bbl discount to the Oman/Dubai benchmark.
-
----
-
-### 2026-08-14 04:49:27  #國際
-
-伊朗將 9 月銷往亞洲的伊朗輕質原油定價定為阿曼 / 迪拜原油貼水 4.70 美元 / 桶。
-
----
-
-### 2026-08-14 04:47:47  #Trading Economics #Economy #Argentina #Inflation Rate MoM #Importance 1
-
-Argentina Monthly Inflation Edges Higher in July — Argentina’s consumer price index rose 2.1% month-over-month in July 2026, up from 1.9% in June and slightly above forecasts of 2.0%. Seasonal prices increased 4.5%, led by vegetables, tour packages and accommodation services, while regulated prices rose 2.1%, reflecting higher public transportation fares, private healthcare costs and electricity prices. Recreation and Culture recorded the largest monthly increase at 5.0%, driven by higher tour packages and cultural services, followed by Restaurants and Hotels at 2.8%. Across Greater Buenos Aires, the Northeast, Northwest, Pampas and Patagonia, Food and Non-Alcoholic Beverages made the largest contribution to monthly inflation, driven by higher vegetable, dairy, bread and cereal prices. Core CPI rose 1.8%, driven by higher housing rents and cultural services, partly offset by a decline in building maintenance fees following the removal of a 20% surcharge included in June.
-
----
-
-### 2026-08-14 04:46:10  #其他
-
-Jane Street 披露持有 Cerebras Systems 5.1% 被動股權。
-
----
-
-### 2026-08-14 04:45:11  #央行 #國際
-
-【美聯儲未來一個月暫停出於準備金管理目的買入美國國庫券】美聯儲週四表示，未來一段時間不會出於準備金管理目的買入美國國庫券，這表明決策者認為金融體系中的銀行準備金處於合意水平。根據紐約聯儲網站，紐約聯儲公開市場操作部門在截至9月14日的月度操作期內，不計劃進行準備金管理購買（RMP），但期間仍計劃進行約170億美元的再投資買入。此次暫停表明，儘管政府現金餘額增加可能抽走市場流動性，貨幣當局仍有信心融資市場能夠平穩執行。市場表現也印證了這一點。擔保隔夜融資利率（SOFR）在7月大部分時間都低於準備金餘額利率（IORB）。截至8月12日，SOFR定盤利率為3.62%，比IORB低3個基點。此次調整並不意味著貨幣政策或資產負債表策略發生變化。
-
----
-
-### 2026-08-14 04:43:30  #市場 #國際
-
-惠譽：高財政赤字、巨大的利息負擔以及高企且上升的政府債務水平制約了美國評級。預計美國債務上限將在2027年中左右觸及。預計美國2026年通脹率將平均為3.4%。關稅導致核心商品通脹上升，但傳導效應比預期輕微。
-
----
-
-### 2026-08-14 04:43:09  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-UAE Foreign Ministry said the UAE condemns Iran's attack on Abu Dhabi National Oil Company vessels in the Strait of Hormuz.
-
----
-
-### 2026-08-14 04:42:56  #公司 #國際
-
-阿聯酋外交部：阿聯酋譴責伊朗在霍爾木茲海峽襲擊阿布扎比國家石油公司船隻。
-
----
-
-### 2026-08-14 04:42:43  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #US10Y #Impact mixed
-
-FITCH: Tariffs have raised core goods inflation, but pass-through has been milder than expected.
-
----
-
-### 2026-08-14 04:41:59  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-Fitch expects the U.S. debt ceiling to be reached around mid-2027.
-
----
-
-### 2026-08-14 04:41:59  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
-
-FITCH expects US inflation to average 3.4% in 2026.
-
----
-
-### 2026-08-14 04:41:51  #公司
-
-應用材料CEO： 預計全球服務業務（AGS）2026 自然年營收增速超 20%，並可實現每年 15% 左右的可持續長期年化增速。
-
----
-
-### 2026-08-14 04:41:27  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Drops as Weak Earnings Weigh — The Ibovespa shed 0.2% to close at 167,101 on Thursday, erasing earlier gains and retreating to a seven-month low amid a batch of weak corporate earnings. Banco do Brasil shed 4.2% after reporting below-expectation profits in the second quarter. Sabesp tumbled 7% after reporting an 11.2% year-on-year drop in net profit. CSN Mineração lost 5.2% after posting cash flow below market expectations. In contrast, CSN jumped 5.6% despite reporting a net loss, as the loss was smaller than expected and revenue grew 6%. Hapvida sank 33.1% after its second-quarter results showed margin pressure and rising litigation costs. Meanwhile, Rede D’Or added 6.3% after reporting a 9.7% year-on-year increase in net profit. Vale fell 1.7% as iron ore prices declined, with weak profitability among Chinese steelmakers continuing to constrain prospects for a meaningful recovery in ore demand. Petrobras (+1.1%) rose despite lower oil prices as peace negotiations in the Middle East remained at a stalemate.
-
----
-
-### 2026-08-14 04:41:19  #央行 #國際
-
-美聯儲的FIMA回購機制連續第九周未使用。
-
----
-
-### 2026-08-14 04:41:10  #公司
-
-應用材料CEO： 大客戶正給予公司更長期的合作承諾，並滾動更新八個季度的預測，以確保供應鏈能夠支撐產能爬坡。
-
----
-
-### 2026-08-14 04:40:34  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #S&P500 #XAUUSD #Impact bullish
-
-Fitch: high fiscal deficits, a large interest burden and elevated, rising government debt levels constrain the US sovereign credit rating.
-
----
-
-### 2026-08-14 04:40:32  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish
-
-Fitch says US Medicare and Social Security spending will rise by nearly one percentage point of GDP by 2032, heightening fiscal pressure.
-
----
-
-### 2026-08-14 04:40:24  #公司
-
-應用材料公司CEO：目前預計 2026 自然年整體封裝業務營收增幅將超過 70%。
-
----
-
-### 2026-08-14 04:40:04  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-Fitch says U.S. political gridlock and government shutdowns could become more frequent and last longer.
-
----
-
-### 2026-08-14 04:40:01  #MKT News #Market Themes #The Trump Trade #HII.O #Impact mixed
-
-Wall Street Journal: President Trump has ordered the US Navy to remove electromagnetic aircraft launch systems (EMALS) from aircraft carriers and revert to steam catapults; the change is expected to add tens of billions of dollars to retrofit costs.
-
----
-
-### 2026-08-14 04:39:49  #其他
-
-惠譽： 隨著醫療保險和社會保障支出到 2032 年將接近增加 1 個百分點的國內生產總值，財政壓力將會加劇。
-
----
-
-### 2026-08-14 04:39:30  #國際
-
-惠譽：美國政治僵局與政府停擺發生機率或將上升，持續時間也可能進一步拉長。
-
----
-
-### 2026-08-14 04:39:21  #MKT News #Commodities #Energy
-
-【UAE, Qatar firms join BP-led project to develop Venezuela’s Loran gas field】XRG, the investment arm of Abu Dhabi National Oil Company, said on Thursday it has been awarded a development licence for the Loran gas field in the Caribbean, which straddles the Venezuela–Trinidad and Tobago boundary. XRG will hold the licence jointly with BP and Qatar’s UCC to develop more than 4 tcf of gas. The gas is slated to supplement Trinidad’s industrial feedstock, including supply to the Atlantic LNG complex operated by Shell and BP, and to petrochemical and fertilizer plants that have faced multi-year gas rationing.
-
----
-
-### 2026-08-14 04:38:20  #MKT News #Macro & Rates #US Economy
-
-FITCH expects US inflation to move toward the target by end-2028.
-
----
-
-### 2026-08-14 04:38:03  #國際
-
-惠譽：美國的評級得益於龐大的經濟、高人均收入、活躍的商業環境和卓越的融資靈活性。預計美國2026-2027年經濟增長將保持相對韌性，達到1.9%，但低於2025年的2.8%。2026年美國勞動力需求減弱，職位創造顯著下降。
-
----
-
-### 2026-08-14 04:37:54  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #EURUSD
-
-FITCH says US labor demand will weaken in 2026, with job creation set to decline sharply.
-
----
-
-### 2026-08-14 04:37:41  #MKT News #Macro & Rates #US Economy
-
-Fitch expects US economic growth to remain relatively resilient at 1.9% in 2026-27, below 2025's 2.8%.
-
----
-
-### 2026-08-14 04:37:22  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #USDJPY
-
-Fitch says the U.S. rating benefits from a large economy, high per-capita income, an active business environment and exceptional financing flexibility.
 
 ---

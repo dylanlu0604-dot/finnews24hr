@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-21 04:37:11_
-_本檔包含 3243 則快訊，約 641021 字_
+_更新時間：2026-08-21 05:03:22_
+_本檔包含 3238 則快訊，約 641037 字_
+
+---
+
+### 2026-08-20 05:46:24  #宏觀 #市場 #國際
+
+【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。
+
+---
+
+### 2026-08-20 05:44:39  #其他
+
+牙買加中央銀行將貸款利率維持在5.5%的水平。
+
+---
+
+### 2026-08-20 05:42:14  #國際
+
+巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。
+
+---
+
+### 2026-08-20 05:41:09  #MKT News
+
+Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit.
+
+---
+
+### 2026-08-20 05:39:30  #公司
+
+谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。
+
+---
+
+### 2026-08-20 05:38:55  #市場
+
+週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。
+
+---
+
+### 2026-08-20 05:38:08  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London.
+
+---
+
+### 2026-08-20 05:36:43  #公司 #國際
+
+英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。
+
+---
+
+### 2026-08-20 05:34:29  #國際
+
+據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。
+
+---
+
+### 2026-08-20 05:34:05  #MKT News #XAUUSD #Impact bullish #WTI
+
+According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base.
+
+---
+
+### 2026-08-20 05:30:31  #MKT News #Market Regions #Japan & APAC #8002.T #Impact bullish
+
+【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency.
+
+---
+
+### 2026-08-20 05:26:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment.
+
+---
+
+### 2026-08-20 05:21:35  #MKT News
+
+Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks.
+
+---
+
+### 2026-08-20 05:20:52  #公司 #其他 #國際
+
+COGNITION：有關 SPACEX 試圖收購 COGNITION 的報道不實；COGNITION 不出售，雙方並未開展談判。
+
+---
+
+### 2026-08-20 05:20:20  #國際
+
+市場訊息：伊藤忠商事進軍資料中心領域，計劃在日本建設10座資料中心。
+
+---
+
+### 2026-08-20 05:20:02  #MKT News #8001.T #Impact bullish
+
+Nikkei reports Itochu Corporation is entering the data-center sector and plans to build 10 data centers in Japan.
+
+---
+
+### 2026-08-20 05:16:47  #市場
+
+週三（8月19日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.73082元，較週二紐約尾盤漲155點，創月內新高，日內整體交投於6.7279-6.7486元區間。
+
+---
+
+### 2026-08-20 05:16:39  #市場
+
+富時中國A50指數期貨夜盤收漲0.39%。
+
+---
+
+### 2026-08-20 05:16:06  #其他
+
+虛擬貨幣持續走高，行情顯示，比特幣漲至69415.6美元，過去24小時內漲7.41%；以太坊漲至2259.59美元，過去24小時內漲18.06%。
+
+---
+
+### 2026-08-20 05:14:38  #MKT News
+
+Australia's foreign minister will summon the Israeli ambassador over Israel's decision not to pursue criminal charges in the death of an Australian aid worker.
+
+---
+
+### 2026-08-20 05:12:31  #國際
+
+澳大利亞外交部長：將就以色列決定不對遇難澳大利亞援助工作者提起刑事訴訟一事召見以色列大使 。
+
+---
+
+### 2026-08-20 05:07:29  #公司
+
+得克薩斯州州長：亞馬遜於奧斯汀新建機器人生產工廠。
+
+---
+
+### 2026-08-20 05:07:23  #市場 #焦點
+
+以太坊升破2300美元，日內漲20.00%。
+
+---
+
+### 2026-08-20 05:05:22  #國際
+
+美國食品藥品監督管理局（FDA）：截至 8 月 19 日，與墨西哥錫那羅亞州哈瓦那辣椒相關的沙門氏菌疫情已造成美國 32 個州共計 431 人感染，57 人住院。
+
+---
+
+### 2026-08-20 05:01:28  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages.
 
 ---
 
@@ -19363,185 +19513,5 @@ Iran foreign ministry spokesman BAGHAEI urged regional actors not to make basele
 ### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
 
 Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
-
----
-
-### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
-
----
-
-### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
-
----
-
-### 2026-08-19 04:44:36  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
-
----
-
-### 2026-08-19 04:44:27  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
-
----
-
-### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
-
-US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
-
----
-
-### 2026-08-19 04:44:17  #國際
-
-伊朗外交部發言人警告稱存在"假旗行動"，並指責（阿聯酋）相關指控"毫無根據"。
-
----
-
-### 2026-08-19 04:44:09  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M
-
----
-
-### 2026-08-19 04:44:07  #MKT News
-
-API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl.
-
----
-
-### 2026-08-19 04:43:56  #MKT News #WTI #Impact bullish #Brent
-
-US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl.
-
----
-
-### 2026-08-19 04:43:56  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M
-
----
-
-### 2026-08-19 04:43:46  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M
-
----
-
-### 2026-08-19 04:43:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week.
-
----
-
-### 2026-08-19 04:43:41  #國際
-
-美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。
-
----
-
-### 2026-08-19 04:43:33  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week.
-
----
-
-### 2026-08-19 04:43:31  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M
-
----
-
-### 2026-08-19 04:43:23  #MKT News #Important #Commodities #Energy
-
-US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels.
-
----
-
-### 2026-08-19 04:43:19  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M
-
----
-
-### 2026-08-19 04:43:14  #國際
-
-惠譽評級：美國醫療保健網路風險日益增加。
-
----
-
-### 2026-08-19 04:43:08  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M
-
----
-
-### 2026-08-19 04:42:50  #國際
-
-【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）
-
----
-
-### 2026-08-19 04:42:30  #國際
-
-伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。
-
----
-
-### 2026-08-19 04:41:37  #市場
-
-諾福克南方鐵路盤後上漲2.4%。
-
----
-
-### 2026-08-19 04:41:28  #MKT News #XAUUSD #Impact bearish #DXY
-
-Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles.
-
----
-
-### 2026-08-19 04:39:55  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close at 166,334 on Tuesday, erasing earlier gains to end its eleventh consecutive session of losses amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with Itaú shedding 0.5%, Bradesco losing 0.6% and Banco do Brasil retreating 0.8%. Utilities also posted losses, with Axia down 0.6% after gaining earlier in the session on the results of its share buyback operation and a buy recommendation from Itaú BBA. Steelmakers posted losses despite higher iron ore prices, with Gerdau down 2.3% and CSN losing 0.7%, while Vale edged 0.2% higher. Petrobras gained 0.3% on higher oil prices. WEG (+1%), Embraer (+0.8%) and Suzano (+1.4%) outperformed.
-
----
-
-### 2026-08-19 04:38:45  #國際
-
-【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）
-
----
-
-### 2026-08-19 04:37:59  #MKT News #Market Themes #AI Revolution
-
-【Anthropic plans super-voting shares to preserve founders' control】Anthropic is preparing a class of super-voting shares for CEO Dario Amodei and other co-founders to shield the founding team from external shareholder pressure, The Information reports. The move would be the company's first use of enhanced voting rights; founders' relatively low equity stakes are cited as the rationale. Anthropic also plans to retain its non-shareholder trustee framework and use the special share class to elect a majority of the board, further limiting outside shareholders' influence on governance.
-
----
-
-### 2026-08-19 04:35:43  #國際
-
-以色列：同意與敘利亞在安全方面維持現狀。
-
----
-
-### 2026-08-19 04:35:00  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.22% Lower — The Dow Jones Index dropped 116 points or 0.22 percent on Tuesday to close at 53344 points. Losses were led by Caterpillar (-4.31%), Nvidia (-2.37%) and Boeing (-1.36%). Offsetting the fall, top gainers were Salesforce (4.05%), J&J (3.30%) and Nike (2.46%).
-
----
-
-### 2026-08-19 04:33:38  #MKT News
-
-Central Bank of Uruguay kept its policy rate at 5.75%, unchanged from the previous setting.
-
----
-
-### 2026-08-19 04:33:34  #公司 #焦點
-
-【Anthropic籌備超級投票權，為IPO鋪路】據兩名知情人士透露，Anthropic計劃授予執行長達里奧·阿莫迪及其他聯合創始人一類具備超額投票權的股份，幫助他們抵禦外部股東施加的壓力。這將是Anthropic管理層首次獲得超級投票權；該機制在科技企業創始人中已十分普遍。另有訊息人士表示，對Anthropic而言此舉意義特殊：相比其他科技企業創始人，該公司創始人所持股權佔比相對較低。公司還計劃依託特殊類別的股票，保留現有的非股東受託人團體，由其選舉董事會多數席位，以此構建一道非傳統屏障，抵禦外部股東干預。
 
 ---

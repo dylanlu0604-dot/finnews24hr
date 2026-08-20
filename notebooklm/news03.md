@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-21 04:37:11_
-_本檔包含 3270 則快訊，約 641339 字_
+_更新時間：2026-08-21 05:03:22_
+_本檔包含 3278 則快訊，約 640223 字_
+
+---
+
+### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
+
+---
+
+### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
+
+---
+
+### 2026-08-19 04:44:36  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
+
+---
+
+### 2026-08-19 04:44:27  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
+
+---
+
+### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
+
+US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
+
+---
+
+### 2026-08-19 04:44:17  #國際
+
+伊朗外交部發言人警告稱存在"假旗行動"，並指責（阿聯酋）相關指控"毫無根據"。
+
+---
+
+### 2026-08-19 04:44:09  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M
+
+---
+
+### 2026-08-19 04:44:07  #MKT News
+
+API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #WTI #Impact bullish #Brent
+
+US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M
+
+---
+
+### 2026-08-19 04:43:46  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M
+
+---
+
+### 2026-08-19 04:43:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:41  #國際
+
+美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。
+
+---
+
+### 2026-08-19 04:43:33  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:31  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M
+
+---
+
+### 2026-08-19 04:43:23  #MKT News #Important #Commodities #Energy
+
+US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels.
+
+---
+
+### 2026-08-19 04:43:19  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M
+
+---
+
+### 2026-08-19 04:43:14  #國際
+
+惠譽評級：美國醫療保健網路風險日益增加。
+
+---
+
+### 2026-08-19 04:43:08  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M
+
+---
+
+### 2026-08-19 04:42:50  #國際
+
+【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）
+
+---
+
+### 2026-08-19 04:42:30  #國際
+
+伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。
+
+---
+
+### 2026-08-19 04:41:37  #市場
+
+諾福克南方鐵路盤後上漲2.4%。
+
+---
+
+### 2026-08-19 04:41:28  #MKT News #XAUUSD #Impact bearish #DXY
+
+Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles.
+
+---
+
+### 2026-08-19 04:39:55  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close at 166,334 on Tuesday, erasing earlier gains to end its eleventh consecutive session of losses amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with Itaú shedding 0.5%, Bradesco losing 0.6% and Banco do Brasil retreating 0.8%. Utilities also posted losses, with Axia down 0.6% after gaining earlier in the session on the results of its share buyback operation and a buy recommendation from Itaú BBA. Steelmakers posted losses despite higher iron ore prices, with Gerdau down 2.3% and CSN losing 0.7%, while Vale edged 0.2% higher. Petrobras gained 0.3% on higher oil prices. WEG (+1%), Embraer (+0.8%) and Suzano (+1.4%) outperformed.
+
+---
+
+### 2026-08-19 04:38:45  #國際
+
+【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）
+
+---
+
+### 2026-08-19 04:37:59  #MKT News #Market Themes #AI Revolution
+
+【Anthropic plans super-voting shares to preserve founders' control】Anthropic is preparing a class of super-voting shares for CEO Dario Amodei and other co-founders to shield the founding team from external shareholder pressure, The Information reports. The move would be the company's first use of enhanced voting rights; founders' relatively low equity stakes are cited as the rationale. Anthropic also plans to retain its non-shareholder trustee framework and use the special share class to elect a majority of the board, further limiting outside shareholders' influence on governance.
+
+---
+
+### 2026-08-19 04:35:43  #國際
+
+以色列：同意與敘利亞在安全方面維持現狀。
+
+---
+
+### 2026-08-19 04:35:00  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.22% Lower — The Dow Jones Index dropped 116 points or 0.22 percent on Tuesday to close at 53344 points. Losses were led by Caterpillar (-4.31%), Nvidia (-2.37%) and Boeing (-1.36%). Offsetting the fall, top gainers were Salesforce (4.05%), J&J (3.30%) and Nike (2.46%).
+
+---
+
+### 2026-08-19 04:33:38  #MKT News
+
+Central Bank of Uruguay kept its policy rate at 5.75%, unchanged from the previous setting.
+
+---
+
+### 2026-08-19 04:33:34  #公司 #焦點
+
+【Anthropic籌備超級投票權，為IPO鋪路】據兩名知情人士透露，Anthropic計劃授予執行長達里奧·阿莫迪及其他聯合創始人一類具備超額投票權的股份，幫助他們抵禦外部股東施加的壓力。這將是Anthropic管理層首次獲得超級投票權；該機制在科技企業創始人中已十分普遍。另有訊息人士表示，對Anthropic而言此舉意義特殊：相比其他科技企業創始人，該公司創始人所持股權佔比相對較低。公司還計劃依託特殊類別的股票，保留現有的非股東受託人團體，由其選舉董事會多數席位，以此構建一道非傳統屏障，抵禦外部股東干預。
 
 ---
 
@@ -19608,137 +19788,5 @@ Foreign Investment in Canadian Securities Surges — Foreign investors added C$4
 ### 2026-08-17 21:00:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
 
 Night session opened; China’s main futures were mostly higher. Ethylene glycol (EG) rose >3%. Benzene, PTA and Shanghai crude (SC) gained >2%. Asphalt up ~2%. Fuel oil, PET flakes, LPG, propylene, plastics and BR rubber rose >1%. Starch fell nearly 1%.
-
----
-
-### 2026-08-17 21:00:12  #市場 #焦點
-
-甲醇連續主力合約日內漲1%，現報2743.00元。
-
----
-
-### 2026-08-17 21:00:03  #市場 #焦點
-
-乙二醇連續主力合約日內漲3%，現報5217.00元。
-
----
-
-### 2026-08-17 21:00:02  #市場
-
-【國內期貨夜盤開盤】集運指數歐線期貨連續漲10.89%，鉑連續漲3.37%，乙二醇連續漲3.12%，純苯連續漲2.22%，鈀連續漲2.03%。
-
----
-
-### 2026-08-17 20:59:50  #公司
-
-【聚和材料：釋出股票交易風險提示公告】聚和材料公告稱，公司近期生產經營狀況正常，內外部經營環境未發生重大變化，股價短期漲幅較大，或存在市場情緒過熱及非理性炒作情形，短期股價或有較大回撥風險。2026年3月31日公司已完成對SKE旗下空白掩模版相關業務的收購，標的業務處於虧損狀態，國內生產基地尚在建設，短期內不會對公司業績產生較大影響。公司擬與關聯人共同向國聚同輝新增出資，該事項尚無實質性進展，尚需提交股東會審議，存在未獲透過風險。公司光伏導電漿料核心原材料銀的價格中長期波動不確定性較強，將直接影響生產成本。
-
----
-
-### 2026-08-17 20:59:30  #國際
-
-美國聯邦基金有效利率8月14日報3.63%，成交量為990億美元，8月13日為3.63%，成交量為1,060億美元。
-
----
-
-### 2026-08-17 20:59:13  #國際
-
-美國地質調查局：俄羅斯彼得羅巴甫洛夫斯克-堪察加東南偏東75公里處發生5.3級地震。
-
----
-
-### 2026-08-17 20:58:57  #MKT News
-
-USGS reports a magnitude 5.3 earthquake 75 km ESE of Petropavlovsk-Kamchatsky, Russia.
-
----
-
-### 2026-08-17 20:58:28  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-【OpenAI signs 10 GW Ohio data‑center deal with SB Energy; NVIDIA to back financing】OpenAI has signed a 10 GW data‑center lease with SB Energy in Ohio. People familiar with the matter say NVIDIA has committed support to help raise debt financing by guaranteeing part of the value of completed data‑center assets, starting with the first phase (about 5 GW). In return NVIDIA will be the exclusive chip supplier for the first half of the project and will take an equity stake in SB Energy. NVIDIA may later expand its guarantees to the entire campus. The guarantees are structured against asset value rather than OpenAI’s ongoing rent, a design intended to limit NVIDIA’s risk while boosting lender confidence and lowering financing costs.
-
----
-
-### 2026-08-17 20:58:14  #市場 #國際
-
-【紐約州製造業活動在8月份出現2021年底以來最快擴張】由於訂單增長和積壓訂單保持強勁，8月份紐約州製造業活動出現2021年底以來的最快擴張。週一公佈的資料顯示，紐約聯邦儲備銀行8月份的製造業整體企業狀況指數上升5點，達到20.6。該資料高於零表明製造業在擴張。之前接受彭博新聞社調查的經濟學家的預測中值為10。對未來六個月整體企業狀況的展望指數也出現上升，對新訂單的預期指數達到2022年以來最高。今年美國製造業發展勢頭增強，消費者需求展現任性，企業投資也保持穩健，尤其是在人工智慧建設相關的領域。不過，企業也面臨著伊朗衝突導致的原材料價格上漲以及衝突持續時間不確定性的挑戰。衡量當前未交貨訂單的指標躍升10.5點，達到15.5，為2022年4月以來最高水平。衡量當前原材料支付價格的指標自5月以來首次上漲，而接收價格指數出現下降。
-
----
-
-### 2026-08-17 20:57:02  #市場
-
-BLUE RIDGE BANKSHARES 恢復交易，股價盤前上漲 5%。
-
----
-
-### 2026-08-17 20:56:34  #其他
-
-市場訊息：維瑞塔斯資本宣佈以11億美元出售Epiq Solutions。
-
----
-
-### 2026-08-17 20:56:16  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Lower After CPI — Futures tracking Canadian stocks edged lower on Monday following the release of CPI data, after the S&P/TSX Composite Index reached a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. July’s inflation report also showed fuel prices rising at a faster pace. Elsewhere, Abaxx Technologies’ net loss widened in the second quarter. OceanaGold plans to acquire Ausgold in a deal valued at A$776 million. Canada and the US remain far from reaching a draft trade deal despite regular meetings, Canadian Trade Minister Dominic LeBlanc told an advisory committee on Friday.
-
----
-
-### 2026-08-17 20:56:02  #其他
-
-【第七屆中非媒體合作論壇將在京舉行】由國家廣播電視總局、北京市人民政府、非洲廣播聯盟共同主辦的第七屆中非媒體合作論壇將於8月19日至21日在北京舉行。（新華社）
-
----
-
-### 2026-08-17 20:55:14  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) spokesman said Trump's claim that the US held secret backchannel talks with IRGC officials about war is "a delusion born of failure".
-
----
-
-### 2026-08-17 20:54:36  #其他
-
-【OpenAI與英偉達擴大計算機會 到2030年計算規模或達6000億美元】根據英偉達釋出的新聞稿，OpenAI將在PORTS-Pike建設並運營一座世界級的人工智慧工廠。AI工廠將採用英偉達的全棧DSX AI工廠平臺，包括GPU、CPU、網路和基礎設施軟體。 初步部署預計將提供4.25吉瓦的AI工廠產能。PORTS-Pike部署的每代NVIDIA AI工廠系統約可代表150萬塊NVIDIA GPU，約佔1500億美元至2000億美元的NVIDIA收入。經過20年的發展，該站點支援多次升級週期。 NVIDIA也可能選擇將PORTS-Pike的安排延長至初始4.25吉瓦以上，以確保剩餘的3.75吉瓦容量。 OpenAI承諾將在2030年前大規模部署NVIDIA AI基礎設施。OpenAI現有和計劃中的承諾約佔NVIDIA計算12吉瓦，如果NVIDIA將PORTS-Pike協議擴充套件至約16吉瓦，將有機會擴充套件至約16吉瓦。 英偉達表示，在這些層面上，這一機會代表到2030年NVIDIA計算量約為6000億美元。
-
----
-
-### 2026-08-17 20:54:32  #公司
-
-【泰恩康與普羅凱融達成戰略合作】據泰恩康訊息，近日，泰恩康已完成對廣東普羅凱融生物醫藥科技有限公司（簡稱“普羅凱融”）的增資，並與普羅凱融及其實際控制人曾皓宇簽署《戰略合作協議》。增資交割完成後，泰恩康取得全球首創眼表細胞治療產品MSCohiO鏡片專案（SZ018）在中國區域的獨家商業推廣服務權益，雙方將共同推動眼表重症細胞治療創新成果實現商業化落地。
-
----
-
-### 2026-08-17 20:54:06  #公司 #國際
-
-【美軍宣佈與雷神公司簽訂229億美元“戰斧”導彈合同】當地時間8月17日，美國海軍方面宣佈已與美國雷神公司簽訂一份價值229億美元的合同，以提高“戰斧”巡航導彈的產量。據悉，美海軍代理部長表示，將“透過與業界的密切合作，擴大彈藥工業基地的產能”，海軍部門“正在利用一切可用手段來滿足當前行動的需求”。美海軍方面尚未詳細透露“戰斧”導彈具體增產幅度及合同期限。（央視新聞）
-
----
-
-### 2026-08-17 20:53:22  #公司
-
-【泰凌微：原一致行動協議到期解除 部分股東續簽】泰凌微公告稱，公司原一致行動關係將於2026年8月24日到期，王維航及華勝天成、盛文軍、鄭明劍、金海鵬、凌析微於2026年8月14日簽署新一致行動協議，自2026年8月25日起生效，期限1年。中域昭拓因進入清算期不再續簽，其所持1.53%公司股份不再合併計算。本次權益變動後，王維航控制公司股權比例為28.57%，公司實際控制人未發生變更，不涉及各方實際持股數量增減，不會影響公司治理結構和持續經營。
-
----
-
-### 2026-08-17 20:52:58  #公司
-
-【芯原股份：2026年上半年營收18.64億元 同比增長91.37%】芯原股份公告稱，2026年上半年公司實現營業收入18.64億元，同比增長91.37%；歸屬於上市公司股東的淨虧損61212.50萬元，上年同期淨虧損31984.86萬元。經營活動產生的現金流量淨額6.26億元，上年同期為-3.65億元。報告期內研發投入佔營業收入比例為50.49%，較上年同期減少15.22個百分點。截至報告期末公司股東總數為53346戶，前十大股東中VeriSilicon Limited持股比例11.39%，為第一大股東。
-
----
-
-### 2026-08-17 20:52:56  #Trading Economics #Economy #Sri Lanka #Manufacturing PMI #Importance 1
-
-Sri Lanka Manufacturing Activity Picks Up in July — Sri Lanka’s Manufacturing PMI rose to 55 in July 2026, up from 53 in June, indicating a faster expansion in manufacturing activity. New orders (55.9 vs 50) and production (54.5 vs 52) increased, driven by robust performance in the food and beverage manufacturing sector. Reflecting positive expectations for activity, employment rose to 51 from 50.5, while stocks of purchases remained in expansionary territory at 51.5, despite easing from 56.6. Meanwhile, suppliers’ delivery times remained extended at 61.5, little changed from 61.6, pointing to persistent supply-chain pressures as geopolitical tensions persist. Overall, manufacturers remained optimistic about activity over the next three months, while maintaining caution amid global uncertainties.
-
----
-
-### 2026-08-17 20:52:18  #其他
-
-【上半年雄安新區外貿進出口總值同比增長6.2倍】據石家莊海關統計，今年上半年，雄安新區實現外貿進出口總值462.4億元，同比增長6.2倍。其中，雄安綜合保稅區增長態勢尤為突出，進出口總值達242.5億元，同比增長52.5倍。
-
----
-
-### 2026-08-17 20:51:44  #MKT News
-
-Saudi Arabia TV reported Iran's foreign ministry said the Islamabad agreement has not collapsed and could still be restored.
 
 ---
