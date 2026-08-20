@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-20 23:55:33",
-  "count": 16026,
+  "updated": "2026-08-20 23:59:27",
+  "count": 16027,
   "items": [
+    {
+      "id": "te:markets:576925",
+      "time": "2026-08-20 23:58:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FSTE 100 Edges Up for 3rd Day — The FTSE 100 closed higher on Thursday, extending its winning streak to three sessions, supported by strong performances from mining and energy stocks. Gold producers Fresnillo and Endeavour Mining advanced 3.7% and 2.6%, respectively, while Rio Tinto gained more than 1.5%. Oil majors also provided support, with BP rising 2.5% and Shell adding 0.7% as crude prices moved higher. The gains were partly offset by a sharp decline in JD Sports, which plunged more than 14% after cutting its profit outlook amid difficult trading conditions in the second quarter. Meanwhile, rising oil prices renewed concerns over inflation, while the recent rally in government bonds lost momentum and yields moved higher again."
+    },
+    {
+      "id": "5050582",
+      "time": "2026-08-20 23:58:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英債收益率 一度衝高回落】週四（8月20日）歐市尾盤，英國10年期國債收益率漲2.6個基點，報5.069%，歐股開盤以來持續走高、北京時間20:34達到5.909%，隨後持續走低、美國財長貝森特稱美債回購規模可能會超過40億美元之際在23:00過後一度跌回5.040%下方。兩年期英債收益率漲2.3個基點，報4.380%。30年期英債收益率漲3.5個基點，50年期英債收益率漲2.4個基點。2/10年期英債收益率利差漲0.437個基點，報+68.933個基點。"
+    },
+    {
+      "id": "5050581",
+      "time": "2026-08-20 23:57:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 9 月瓦斯油期貨結算價報每噸 1300.00 美元。"
+    },
+    {
+      "id": "mkt:01a01fe4-7447-7aab-90bd-7e778300d4e8",
+      "time": "2026-08-20 23:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says White House legislative affairs director James Bred to leave in September】Trump posted on social media on the 20th that White House legislative affairs director James Bred will depart in September. A source said Bred is a senior aide responsible for liaison with Congress. He is the latest White House aide to exit: on the 12th Trump announced White House press secretary Caroline Leavitt will resign at end‑August to spend more time with her family."
+    },
+    {
+      "id": "5050580",
+      "time": "2026-08-20 23:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【數百名烏克蘭軍人在德國的演習中逃跑】據報道，數百名烏克蘭軍人在德國參加軍事演習期間擅自逃離。僅以薩克森-安哈爾特州為例，自2022年以來，已有超過80名烏克蘭軍人從當地訓練場逃脫，而全德範圍內記錄的類似事件已達數百起。按照烏克蘭現行法律，這些在海外逃避軍事訓練或服役的人員均被界定為“逃兵”。一旦罪名成立，他們在本國最高將面臨長達12年的有期徒刑。"
+    },
     {
       "id": "mkt:01a01fe1-e036-7aab-90bd-7445b6a07601",
       "time": "2026-08-20 23:54:51",
@@ -146616,42 +146661,6 @@
         "Importance 0"
       ],
       "text": "Poland Trade Deficit Widens in June — Poland’s trade deficit widened sharply to €1.47 billion in June 2026, from €0.13 billion in the same month a year earlier. Imports increased 16.9% year-on-year to €33.47 billion, driven mainly by higher purchases of supplies and capital goods, while rising fuel prices also contributed to the increase. The continued growth in computer hardware exports was reflected in stronger imports of related parts and components. Meanwhile, exports rose 12.3% to €32 billion, supported by significant increases in sales of computer equipment, raw silver and refined copper. However, exports from the automotive and furniture industries declined."
-    },
-    {
-      "id": "5039865",
-      "time": "2026-08-13 23:58:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所9月柴油期貨結算價為每噸1250.75美元。"
-    },
-    {
-      "id": "te:markets:575159",
-      "time": "2026-08-13 23:56:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 1.2% and 1.7%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 6%, Rio Tinto dropped 4.7% and Anglo American declined 3.5%. Precious-metal miners Fresnillo (-5.1%) and Endeavour (-4.2%) also fell sharply. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations."
-    },
-    {
-      "id": "5039864",
-      "time": "2026-08-13 23:56:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司負責人：蘇爾特石油公司已將哈蒂巴油田的一口新氣井投產，日增天然氣產能500萬立方英尺。"
-    },
-    {
-      "id": "mkt:019ffbd6-0f06-7aab-902a-8fecac5615f6",
-      "time": "2026-08-13 23:55:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI appointed a new chief revenue officer less than a year after its previous appointment."
     }
   ]
 }

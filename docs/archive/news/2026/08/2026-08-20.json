@@ -1,7 +1,52 @@
 {
   "date": "2026-08-20",
-  "count": 3348,
+  "count": 3353,
   "items": [
+    {
+      "id": "te:markets:576925",
+      "time": "2026-08-20 23:58:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FSTE 100 Edges Up for 3rd Day — The FTSE 100 closed higher on Thursday, extending its winning streak to three sessions, supported by strong performances from mining and energy stocks. Gold producers Fresnillo and Endeavour Mining advanced 3.7% and 2.6%, respectively, while Rio Tinto gained more than 1.5%. Oil majors also provided support, with BP rising 2.5% and Shell adding 0.7% as crude prices moved higher. The gains were partly offset by a sharp decline in JD Sports, which plunged more than 14% after cutting its profit outlook amid difficult trading conditions in the second quarter. Meanwhile, rising oil prices renewed concerns over inflation, while the recent rally in government bonds lost momentum and yields moved higher again."
+    },
+    {
+      "id": "5050582",
+      "time": "2026-08-20 23:58:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英債收益率 一度衝高回落】週四（8月20日）歐市尾盤，英國10年期國債收益率漲2.6個基點，報5.069%，歐股開盤以來持續走高、北京時間20:34達到5.909%，隨後持續走低、美國財長貝森特稱美債回購規模可能會超過40億美元之際在23:00過後一度跌回5.040%下方。兩年期英債收益率漲2.3個基點，報4.380%。30年期英債收益率漲3.5個基點，50年期英債收益率漲2.4個基點。2/10年期英債收益率利差漲0.437個基點，報+68.933個基點。"
+    },
+    {
+      "id": "5050581",
+      "time": "2026-08-20 23:57:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 9 月瓦斯油期貨結算價報每噸 1300.00 美元。"
+    },
+    {
+      "id": "mkt:01a01fe4-7447-7aab-90bd-7e778300d4e8",
+      "time": "2026-08-20 23:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says White House legislative affairs director James Bred to leave in September】Trump posted on social media on the 20th that White House legislative affairs director James Bred will depart in September. A source said Bred is a senior aide responsible for liaison with Congress. He is the latest White House aide to exit: on the 12th Trump announced White House press secretary Caroline Leavitt will resign at end‑August to spend more time with her family."
+    },
+    {
+      "id": "5050580",
+      "time": "2026-08-20 23:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【數百名烏克蘭軍人在德國的演習中逃跑】據報道，數百名烏克蘭軍人在德國參加軍事演習期間擅自逃離。僅以薩克森-安哈爾特州為例，自2022年以來，已有超過80名烏克蘭軍人從當地訓練場逃脫，而全德範圍內記錄的類似事件已達數百起。按照烏克蘭現行法律，這些在海外逃避軍事訓練或服役的人員均被界定為“逃兵”。一旦罪名成立，他們在本國最高將面臨長達12年的有期徒刑。"
+    },
     {
       "id": "mkt:01a01fe1-e036-7aab-90bd-7445b6a07601",
       "time": "2026-08-20 23:54:51",
