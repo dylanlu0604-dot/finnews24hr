@@ -1,7 +1,257 @@
 {
-  "updated": "2026-08-20 21:31:33",
-  "count": 15942,
+  "updated": "2026-08-20 21:43:21",
+  "count": 15932,
   "items": [
+    {
+      "id": "te:economy:576888",
+      "time": "2026-08-20 21:41:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Bond Yield",
+        "Importance 1"
+      ],
+      "text": "US Treasury Yields Rise as Buyback Relief Fades — US Treasury yields moved sharply higher on Thursday, reversing the gains triggered by Treasury Secretary Scott Bessent’s announcement of larger buybacks of long-dated government debt. The 30-year yield climbed seven basis points to 5.26%, returning to levels seen before the announcement, while the 10-year yield reached 4.71%, close to its highest level since early 2025. The reversal suggests investors remain skeptical that the Treasury’s expanded buyback programme will provide lasting relief for elevated borrowing costs. The plan will at least double liquidity-support purchases of securities with maturities ranging from 10 to 30 years, but concerns over large fiscal deficits, persistent inflation and heavy borrowing needs continue to weigh on longer-dated bonds. Higher oil prices are adding to inflation risks, while increased borrowing linked to the artificial-intelligence investment boom is creating further pressure on bond supply."
+    },
+    {
+      "id": "5050337",
+      "time": "2026-08-20 21:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊逆勢上揚，SK海力士漲超6％】閃迪漲超3％，美光科技漲近2％。"
+    },
+    {
+      "id": "te:markets:576887",
+      "time": "2026-08-20 21:40:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls Amid Higher Oil Prices — The Ibovespa edged lower to trade around 167,500 on Thursday as oil prices rose, increasing inflationary pressures. Crude prices jumped after US President Donald Trump announced a package of measures aimed at hurting Iran’s economy. Bond yields moved higher, weighing on financial stocks and the broader market. Itaú and B3 fell 0.5% each, while Itaúsa and Banco do Brasil shed nearly 1%. Meanwhile, iron ore prices in China closed lower amid persistently weak steel demand, dragging Vale and CSN Mineração down 1% each. Steelmakers also posted losses, with Gerdau falling about 5%. Other notable laggards included Axia (-1%), WEG (-1%), and Embraer (-1%). In contrast, Petrobras helped limit the index’s losses, rising 1% on higher oil prices."
+    },
+    {
+      "id": "te:markets:576886",
+      "time": "2026-08-20 21:39:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.66% Lower — The Dow Jones Index is falling 353 points. Losses were driven by Walmart (-8.01%), Sherwin-Williams (-2.99%) and Home Depot (-2.85%). Biggest rises came from Nvidia (0.95%), McDonalds (0.86%) and Walt Disney (0.82%)."
+    },
+    {
+      "id": "5050336",
+      "time": "2026-08-20 21:39:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞一金礦發生山體滑坡 已致13死7傷】當地時間8月20日，哥倫比亞國家災害風險管理局納里尼奧省負責人加夫列爾·奧卡尼亞表示，該省波利卡爾帕市一處露天金礦發生山體滑坡，目前已造成至少13人死亡、7人受傷。（央視新聞）"
+    },
+    {
+      "id": "te:markets:576885",
+      "time": "2026-08-20 21:38:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 28-month High — Cotton increased to 89.30 USd/Lbs, the highest since April 2024. Over the past 4 weeks, Cotton gained 10.97%, and in the last 12 months, it increased 35.58%."
+    },
+    {
+      "id": "5050335",
+      "time": "2026-08-20 21:38:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海海西州大柴旦發生4.8級地震，無人員傷亡和財產損失】根據中國地震臺網正式測定：2026年8月20日17時49分，在海西州大柴旦行委（北緯37.74度、東經95.57度）發生4.8級地震，震源深度10.0公里。震中距大柴旦行委柴旦鎮約22公里，距德令哈市約164公里，距格爾木市約165公里，距省會西寧市約564公里。經多方聯合核查，目前未收到人員傷亡、財產受損報告，震區供水、供電、道路交通、通訊網路執行穩定，生活物資儲備充足，群眾基本生活保障到位，轄區整體社會大局平穩有序。"
+    },
+    {
+      "id": "te:economy:576883",
+      "time": "2026-08-20 21:37:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US Treasuries Erase Buyback Gains — Long-maturity Treasury yields rebounded on Thursday to erase the pullback since the Treasury Department announced its larger bond and note buyback. The yield on the 10-year note rose to 4.7%, 5bps away from the 20-month high this week, and that on the 30-year bond rose to 5.25%. The Treasury stated it would at least double its long-maturity buybacks to $4 billion next quarter, adding to its efforts of compressing yields after the joint intervention on the yen by selling euros and the request for the Fed to increase the limit on its FIMA facility. Yields on the longer end of the curve had surged since July amid soaring debt issuance from AI companies and higher deficit spending by the federal government. Long-term yields also rose after Fed Chairman Warsh signaled that a rate hike may not be his preferred tool to combat higher inflation, magnified by elevated energy prices during the US-Iran blockade of tankers in the Persian Gulf."
+    },
+    {
+      "id": "5050334",
+      "time": "2026-08-20 21:36:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣類股隨比特幣上漲而走高。COINBASE GLOBAL上漲5.7%，STRATEGY上漲5.7%，CIRCLE上漲3.8%。RIOT PLATFORMS上漲2%，HUT 8上漲0.4%，MARA HOLDINGS上漲3.8%。"
+    },
+    {
+      "id": "5050333",
+      "time": "2026-08-20 21:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【龔正赴寶山區開展經濟執行下沉調研】上海市委副書記、市長龔正今天（8月20日）赴寶山區開展經濟執行下沉調研。龔正指出，要深入貫徹落實習近平總書記考察上海重要講話精神和對上海工作重要指示要求，按照市委部署，以正確政績觀推動高質量發展，以推動“十五五”規劃落地為牽引，遠近結合、搶抓機遇，加快轉型升級步伐，加快新舊動能轉換，全力推動經濟持續向好發展。（澎湃）"
+    },
+    {
+      "id": "te:markets:576882",
+      "time": "2026-08-20 21:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Decline on Thursday — US stocks fell on Thursday, erasing gains from the last session, which were prompted by the Treasury's move to supress longer-term yields. The S&P 500 fell 0.4%, while the Dow and the Nasdaq 100 fell around 0.7%. Treasury yields rose across the curve to reflect concerns that the Treasury's efforts to prop up notes and bonds can worsen an already inflationary backdrop with ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump stated the US entered \"economic war\" against Iran, prolonging blockades of tankers crossing the Persian Gulf. Banks held their losses as short-term Treasury securities fell further, with JPMorgan and Wells Fargo in the red. On top of that, AI hyperscalers were mostly lower following the tepid financial results from OpenAI, which failed to grow at the same pace of rival Anthropic. Walmart sank 8%, the sharpest single-session decline in four years, after its second-quarter sales fell short of expectations."
+    },
+    {
+      "id": "5050332",
+      "time": "2026-08-20 21:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李峰當選上海青浦區區長】據“綠色青浦”微信公眾號訊息，8月20日，上海市青浦區第六屆人民代表大會第七次會議圓滿完成各項議程，在區委黨校中心會場勝利閉幕。李峰當選青浦區人民政府區長。（澎湃）"
+    },
+    {
+      "id": "5050331",
+      "time": "2026-08-20 21:34:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "MODERNA股價下跌19%。"
+    },
+    {
+      "id": "5050330",
+      "time": "2026-08-20 21:33:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "科蒂集團股價下跌約12%，此前該公司預計第一季度利潤低於市場預期。"
+    },
+    {
+      "id": "mkt:01a01f60-655d-7aab-90b8-b6f562a97efb",
+      "time": "2026-08-20 21:33:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "Walmart (WMT.N) shares plunged 8.7%, the largest one-day decline since July 2022."
+    },
+    {
+      "id": "mkt:01a01f60-1f4e-7aab-90b8-a9d98ec26479",
+      "time": "2026-08-20 21:33:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O"
+      ],
+      "text": "Moderna (MRNA.O) fell 18% after closing up more than 170% yesterday."
+    },
+    {
+      "id": "te:markets:576881",
+      "time": "2026-08-20 21:32:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walt Disney Stock Price Hits 14-week High — Walt Disney shares increased to 107.13 USD, the highest since May 2026. Over the past 4 weeks, Walt Disney gained 10.99%, and in the last 12 months, it decreased 8.57%."
+    },
+    {
+      "id": "5050329",
+      "time": "2026-08-20 21:32:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "超微電腦股價上漲2.8%；董事會採納加強出口合規計劃的建議。"
+    },
+    {
+      "id": "5050328",
+      "time": "2026-08-20 21:32:21",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "沃爾瑪股價暴跌8.7%，創下2022年7月以來最大單日跌幅。"
+    },
+    {
+      "id": "5050327",
+      "time": "2026-08-20 21:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股Moderna盤中跌超15%】美股Moderna盤中跌超15.64%，現報147.11美元，總市值為587.3億美元。"
+    },
+    {
+      "id": "5050326",
+      "time": "2026-08-20 21:31:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "ADVANCE AUTO PARTS釋出全年銷售預測不及預期 股價應聲下跌16%。"
+    },
+    {
+      "id": "5050325",
+      "time": "2026-08-20 21:31:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃爾瑪股價下跌8%，因第二季度可比銷售額不及預期。"
+    },
+    {
+      "id": "5050324",
+      "time": "2026-08-20 21:31:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴美股下跌5.3%，創下5月15日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a01f5e-be42-7aab-90b8-a510e9449255",
+      "time": "2026-08-20 21:31:37",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) opened 2.8% higher."
+    },
+    {
+      "id": "mkt:01a01f5e-adf1-7aab-90b8-9c9e96661b96",
+      "time": "2026-08-20 21:31:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened lower on Thursday, Aug. 20: the Dow Jones Industrial Average opened down 350.97 points (-0.66%) at 53,112.08; the S&P 500 opened down 29.54 points (-0.38%) at 7,678.81; the Nasdaq Composite opened down 136.15 points (-0.52%) at 26,194.94."
+    },
+    {
+      "id": "5050322",
+      "time": "2026-08-20 21:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "STRATEGY股票開盤上漲9.1%，ROBINHOOD股價上漲6.1%。"
+    },
     {
       "id": "5050321",
       "time": "2026-08-20 21:30:56",
@@ -145493,330 +145743,6 @@
         "市場"
       ],
       "text": "【美股黃金礦業股盤初下跌】美股黃金礦業股盤初下跌，泛美白銀跌超7%，哈莫尼黃金跌超3%，科爾黛倫礦業跌超2%，紐曼礦業跌近3%。"
-    },
-    {
-      "id": "5039668",
-      "time": "2026-08-13 21:41:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【內蒙古自治區政府與中國華電集團簽署全面深化戰略合作協議】據內蒙古日報，8月13日，內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見中國華電集團有限公司董事長葉向東、總經理徐樹彪，並共同見證簽約。內蒙古自治區人民政府副主席代欽，中國華電副總經理吳敬凱代表雙方簽署全面深化戰略合作協議。王偉中說，希望中國華電以此次協議簽署為契機，圍繞智慧零碳礦區建設、煤電升級改造、新能源開發利用、算電協同、生態治理等重點領域，持續加大投資佈局力度，加快推動在建專案落地達產，進一步深化與區內高校、科研院所的產學研用協同創新，與內蒙古攜手更好服務保障國家發展大局。"
-    },
-    {
-      "id": "5039667",
-      "time": "2026-08-13 21:41:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "火箭實驗室股價盤前轉漲，最新上漲2.2%。"
-    },
-    {
-      "id": "5039666",
-      "time": "2026-08-13 21:41:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股AI算力租賃商盤初走強，CoreWeave漲超7%，Nebius漲超3%。"
-    },
-    {
-      "id": "5039665",
-      "time": "2026-08-13 21:40:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【浙江直播經濟相關企業突破17萬家】浙江省市場監管局13日釋出訊息，2025年浙江省直播電商交易規模達6734億元，匯聚中國約70%的頭部MCN機構(多頻道網路機構)。截至今年上半年，該省直播經濟相關企業已突破17萬家。"
-    },
-    {
-      "id": "mkt:019ffb5a-766f-7aab-9027-1a0ae2ccd0a0",
-      "time": "2026-08-13 21:40:37",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Chile's mining minister said an agreement with Argentina could attract $20.7 billion of investment and boost copper output by about 540,000 tonnes a year."
-    },
-    {
-      "id": "5039664",
-      "time": "2026-08-13 21:40:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬市年內已有7單公募REITs披露增持計劃 合計增持金額上限約4.3億元】記者13日從上海證券交易所獲悉，滬市年內已有7單公募REITs專案披露增持相關計劃，合計增持金額上限約4.3億元。 近期，公募REITs市場進入估值調整期，部分產品二級市場價格出現階段性波動。在此背景下，滬市多隻公募REITs原始權益人及其關聯方密集釋出份額增持公告，擬以自有或自籌資金在二級市場增持基金份額，用實際行動表達對底層資產經營質量與長期投資價值的認可。"
-    },
-    {
-      "id": "te:markets:575126",
-      "time": "2026-08-13 21:40:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500 Rises to New Record — US stocks were mostly higher on Thursday after soft price data added to expectations that the Federal Reserve will not raise rates next month. The S&P 500 rose 0.3% to a new record, while the Dow added 0.5% and the Nasdaq 100 hovered near the flatline. Headline and core producer prices were lower than expected in July, aligned with the tame CPI report from yesterday and limiting recent concerns of hawkish signals by FOMC members. Chip stocks and companies with exposure to AI infrastructure held their strong gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and its recent purchase of Decart AI continued to underpin the outlook for compute expenditures. Micron, Oracle, and Meta rose over 2%, while Nvidia and Amazon inched up."
-    },
-    {
-      "id": "te:markets:575125",
-      "time": "2026-08-13 21:40:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.23% Higher — The Dow Jones Index is up by 122 points or 0.23 percent on Thursday. Top gainers are Walt Disney (1.10%), Microsoft (1.06%) and McDonalds (0.92%). Biggest losses came from Cisco Systems (-9.01%), Chevron (-0.60%) and JPMorgan (-0.45%)."
-    },
-    {
-      "id": "5039663",
-      "time": "2026-08-13 21:39:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "泛美白銀公司股價因盈利不及預期下跌7.2%。"
-    },
-    {
-      "id": "mkt:019ffb59-2cc9-7aab-9027-1497432eb5ac",
-      "time": "2026-08-13 21:39:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Suzhou Industrial Park goods trade tops RMB1.02 tln in Jan–Jul】Suzhou Industrial Park goods trade reached RMB1.02 tln in Jan–Jul, up 126.8% YoY and exceeding last year’s full-year level. Exports were RMB508.6 bln (+120.9% YoY) and imports RMB510.7 bln (+133.0% YoY). High-tech trade, including intelligent robots, totaled RMB727.4 bln (+189.9% YoY); AI hardware such as memory and optical modules exceeded RMB620 bln and doubled YoY. Pharmaceutical trade was RMB21.2 bln (+161.1% YoY)."
-    },
-    {
-      "id": "5039662",
-      "time": "2026-08-13 21:39:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，中進醫療跌10.89%，京東跌4.33%，BOSS直聘跌3.23%，滿幫跌3.11%，逸仙電商跌2.38%。"
-    },
-    {
-      "id": "5039661",
-      "time": "2026-08-13 21:39:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高溫催動用電負荷攀升 廣西電網日供電量四次重新整理紀錄】連日來，廣西持續大範圍高溫天氣，用電量快速增長。8月12日，廣西電網系統日供電量今年第4次創出歷史新高，達8.15億千瓦時。欽州、北海、防城港等地電網日供電量同步創下歷史新高。"
-    },
-    {
-      "id": "5039660",
-      "time": "2026-08-13 21:38:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "羅技股價一度上漲6.1%，創盤中新高。"
-    },
-    {
-      "id": "5039659",
-      "time": "2026-08-13 21:38:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利礦業部長表示，與阿根廷達成的協議可帶來約207億美元投資，並使銅年產量增加54萬噸。"
-    },
-    {
-      "id": "5039658",
-      "time": "2026-08-13 21:37:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【涉企謠言怎麼防？網信部門搭建專屬維權闢謠渠道】中央網信辦違法和不良資訊舉報中心闢謠工作處處長翁焱表示：企業遭遇了惡意造謠，首先要透過自有的官方賬號或平臺主動發聲，澄清事實真相，堅決果斷闢謠。還可以向屬地網信部門報告，請求網信部門透過官方權威闢謠平臺對涉企闢謠資訊進行轉發宣推。有了權威闢謠資訊以後，企業可以在相關的網站平臺投訴舉報這條謠言，也可以到中央網信辦舉報中心官方舉報平臺（www.12377.cn）“謠言類”進行投訴舉報，將權威闢謠資訊作為核心證據上傳，這條謠言很快就能得到處置。（央視新聞）"
-    },
-    {
-      "id": "5039657",
-      "time": "2026-08-13 21:35:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "OPENDOOR TECHNOLOGIES股價下跌3.3%。"
-    },
-    {
-      "id": "5039656",
-      "time": "2026-08-13 21:35:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "Tapestry股價下跌約16%，此前公佈的年度營收低於預期。"
-    },
-    {
-      "id": "te:markets:575124",
-      "time": "2026-08-13 21:34:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Holds Near Recent Highs — Silver fluctuated around $65 an ounce, near the highest since June 22, as softer US inflation data reinforced expectations that the Federal Reserve will leave interest rates unchanged next month. US producer-price inflation eased more than expected in July, helped by lower energy and food costs, providing further evidence that price pressures are not broadly accelerating. However, renewed tensions in the Middle East remain a risk, as any disruption could push energy prices higher and revive inflationary pressures. Oil is heading for a weekly gain as traders continue to monitor efforts by the US and Iran to end the conflict and reopen the Strait of Hormuz. Beyond monetary policy and geopolitical risks, silver continued to benefit from robust industrial demand, particularly from expanding solar-panel manufacturing and electricity-grid investment. Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes."
-    },
-    {
-      "id": "mkt:019ffb54-f634-7aab-9027-099131bbf00d",
-      "time": "2026-08-13 21:34:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GUNVOR said an explosion in Rotterdam killed one person."
-    },
-    {
-      "id": "mkt:019ffb54-cf7d-7aab-9027-0605ee467aa4",
-      "time": "2026-08-13 21:34:27",
-      "tags": [
-        "MKT News",
-        "SPCE.N",
-        "Impact bearish"
-      ],
-      "text": "Virgin Galactic (SPCE.N) fell 10.4% after reporting second-quarter results."
-    },
-    {
-      "id": "5039655",
-      "time": "2026-08-13 21:33:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "維珍銀河股價在第二季度財報公佈後下跌10.4%，報2.97美元。"
-    },
-    {
-      "id": "mkt:019ffb54-3b27-7aab-9026-fa86980bf0a4",
-      "time": "2026-08-13 21:33:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "GUNVOR reports an explosion at its Rotterdam facility."
-    },
-    {
-      "id": "5039654",
-      "time": "2026-08-13 21:33:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨稱軍方正為在黎巴嫩“長期駐紮”做準備。"
-    },
-    {
-      "id": "5039653",
-      "time": "2026-08-13 21:33:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股盤初，主要行業ETF多數上漲，全球航空業ETF漲超1%，區域銀行業ETF、銀行業ETF漲近1%。"
-    },
-    {
-      "id": "5039652",
-      "time": "2026-08-13 21:33:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "ENERSYS股價上漲13%，因第一季度利潤超預期。"
-    },
-    {
-      "id": "mkt:019ffb53-9823-7aab-9026-f1f9359b7b7a",
-      "time": "2026-08-13 21:33:07",
-      "tags": [
-        "MKT News",
-        "CRM.N",
-        "Impact bullish"
-      ],
-      "text": "Salesforce (CRM.N) shares rose 1.1% after JP Morgan resumed coverage and assigned an overweight rating."
-    },
-    {
-      "id": "5039651",
-      "time": "2026-08-13 21:32:55",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "Salesforce股價上漲1.1%；摩根大通恢復覆蓋，給予增持評級。"
-    },
-    {
-      "id": "mkt:019ffb53-5d2b-7aab-9026-eb07aa1c3166",
-      "time": "2026-08-13 21:32:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Intuition Machine Co. shares fell 8% after Q2 revenue missed expectations and the net loss exceeded forecasts."
-    },
-    {
-      "id": "5039650",
-      "time": "2026-08-13 21:32:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "CEREBRAS SYSTEMS股價下跌12.4%，因第二季度營收不及預期。"
-    },
-    {
-      "id": "5039649",
-      "time": "2026-08-13 21:32:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "直覺機器公司股價下跌8%，此前該公司第二季度營收不及預期，淨虧損幅度大於市場預期。"
-    },
-    {
-      "id": "5039648",
-      "time": "2026-08-13 21:32:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "惠普公司股價上漲7.3%，戴爾公司股價上漲6.1%。"
-    },
-    {
-      "id": "5039647",
-      "time": "2026-08-13 21:32:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報告顯示德國企業破產數量持續處於高位】德國聯邦經濟和能源部13日釋出報告說，德國企業破產數量目前仍處於高位，預計未來幾個月還將有大量企業申請破產。 報告援引德國哈雷經濟研究所企業破產趨勢資料說，2025年8月至2026年7月期間，德國企業破產數量為18478家，同比增長8.3%。 哈雷經濟研究所資料顯示，今年7月德國企業破產數量為1689家，同比增長7%，較2016年至2019年同期平均水平高75%。7月規模最大的10%破產企業涉及1.3萬個工作崗位，其中工業領域涉及近6000個崗位。 德國信用報告機構“信貸改革”公司經濟學家帕特里克-路德維希·漢奇當天表示，預計到今年年底德國企業破產數量還將保持上升態勢，且至少到2027年中期都難以明顯緩解。他此前表示，只有德國經濟恢復穩定增長，企業破產形勢才可能趨於穩定。(新華社)"
-    },
-    {
-      "id": "5039646",
-      "time": "2026-08-13 21:31:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "STUBHUB股價開盤暴跌21%，創3月5日以來最大單日跌幅。"
-    },
-    {
-      "id": "5039645",
-      "time": "2026-08-13 21:31:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "京東在美上市的股價在第二季度營收同比下滑後下跌1.9%。"
-    },
-    {
-      "id": "mkt:019ffb52-488f-7aab-9026-e237aa78a0d4",
-      "time": "2026-08-13 21:31:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. equity benchmarks opened higher on Thursday, Aug. 13: the Dow Jones Industrial Average rose 164.45 points (0.31%) to 53,934.72; the S&P 500 gained 17.98 points (0.23%) to 7,766.51; the Nasdaq Composite added 38.03 points (0.14%) to 26,626.51."
-    },
-    {
-      "id": "te:markets:575123",
-      "time": "2026-08-13 21:31:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Hovers at 10-Week High — Gold fluctuated around $4,400 an ounce, remaining close to a 10-week high as softer US inflation data reinforced expectations that the Federal Reserve will leave interest rates unchanged next month. US producer-price inflation eased more than expected in July, helped by lower energy and food costs, providing further evidence that price pressures are not broadly accelerating. However, renewed tensions in the Middle East remain a risk, as any disruption could push energy prices higher and revive inflationary pressures. Oil is heading for a weekly gain as traders continue to monitor efforts by the US and Iran to end the conflict and reopen the Strait of Hormuz. Gold has also benefited from stronger investor demand and continued central-bank purchases, with China adding around 20 tonnes to its reserves in July, marking the 21st consecutive month of accumulation. Globally, central banks purchased an estimated 289 tonnes of gold in the second quarter."
     }
   ]
 }

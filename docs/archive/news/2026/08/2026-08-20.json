@@ -1,7 +1,257 @@
 {
   "date": "2026-08-20",
-  "count": 2911,
+  "count": 2937,
   "items": [
+    {
+      "id": "te:economy:576888",
+      "time": "2026-08-20 21:41:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Bond Yield",
+        "Importance 1"
+      ],
+      "text": "US Treasury Yields Rise as Buyback Relief Fades — US Treasury yields moved sharply higher on Thursday, reversing the gains triggered by Treasury Secretary Scott Bessent’s announcement of larger buybacks of long-dated government debt. The 30-year yield climbed seven basis points to 5.26%, returning to levels seen before the announcement, while the 10-year yield reached 4.71%, close to its highest level since early 2025. The reversal suggests investors remain skeptical that the Treasury’s expanded buyback programme will provide lasting relief for elevated borrowing costs. The plan will at least double liquidity-support purchases of securities with maturities ranging from 10 to 30 years, but concerns over large fiscal deficits, persistent inflation and heavy borrowing needs continue to weigh on longer-dated bonds. Higher oil prices are adding to inflation risks, while increased borrowing linked to the artificial-intelligence investment boom is creating further pressure on bond supply."
+    },
+    {
+      "id": "5050337",
+      "time": "2026-08-20 21:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊逆勢上揚，SK海力士漲超6％】閃迪漲超3％，美光科技漲近2％。"
+    },
+    {
+      "id": "te:markets:576887",
+      "time": "2026-08-20 21:40:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls Amid Higher Oil Prices — The Ibovespa edged lower to trade around 167,500 on Thursday as oil prices rose, increasing inflationary pressures. Crude prices jumped after US President Donald Trump announced a package of measures aimed at hurting Iran’s economy. Bond yields moved higher, weighing on financial stocks and the broader market. Itaú and B3 fell 0.5% each, while Itaúsa and Banco do Brasil shed nearly 1%. Meanwhile, iron ore prices in China closed lower amid persistently weak steel demand, dragging Vale and CSN Mineração down 1% each. Steelmakers also posted losses, with Gerdau falling about 5%. Other notable laggards included Axia (-1%), WEG (-1%), and Embraer (-1%). In contrast, Petrobras helped limit the index’s losses, rising 1% on higher oil prices."
+    },
+    {
+      "id": "te:markets:576886",
+      "time": "2026-08-20 21:39:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.66% Lower — The Dow Jones Index is falling 353 points. Losses were driven by Walmart (-8.01%), Sherwin-Williams (-2.99%) and Home Depot (-2.85%). Biggest rises came from Nvidia (0.95%), McDonalds (0.86%) and Walt Disney (0.82%)."
+    },
+    {
+      "id": "5050336",
+      "time": "2026-08-20 21:39:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞一金礦發生山體滑坡 已致13死7傷】當地時間8月20日，哥倫比亞國家災害風險管理局納里尼奧省負責人加夫列爾·奧卡尼亞表示，該省波利卡爾帕市一處露天金礦發生山體滑坡，目前已造成至少13人死亡、7人受傷。（央視新聞）"
+    },
+    {
+      "id": "te:markets:576885",
+      "time": "2026-08-20 21:38:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 28-month High — Cotton increased to 89.30 USd/Lbs, the highest since April 2024. Over the past 4 weeks, Cotton gained 10.97%, and in the last 12 months, it increased 35.58%."
+    },
+    {
+      "id": "5050335",
+      "time": "2026-08-20 21:38:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海海西州大柴旦發生4.8級地震，無人員傷亡和財產損失】根據中國地震臺網正式測定：2026年8月20日17時49分，在海西州大柴旦行委（北緯37.74度、東經95.57度）發生4.8級地震，震源深度10.0公里。震中距大柴旦行委柴旦鎮約22公里，距德令哈市約164公里，距格爾木市約165公里，距省會西寧市約564公里。經多方聯合核查，目前未收到人員傷亡、財產受損報告，震區供水、供電、道路交通、通訊網路執行穩定，生活物資儲備充足，群眾基本生活保障到位，轄區整體社會大局平穩有序。"
+    },
+    {
+      "id": "te:economy:576883",
+      "time": "2026-08-20 21:37:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US Treasuries Erase Buyback Gains — Long-maturity Treasury yields rebounded on Thursday to erase the pullback since the Treasury Department announced its larger bond and note buyback. The yield on the 10-year note rose to 4.7%, 5bps away from the 20-month high this week, and that on the 30-year bond rose to 5.25%. The Treasury stated it would at least double its long-maturity buybacks to $4 billion next quarter, adding to its efforts of compressing yields after the joint intervention on the yen by selling euros and the request for the Fed to increase the limit on its FIMA facility. Yields on the longer end of the curve had surged since July amid soaring debt issuance from AI companies and higher deficit spending by the federal government. Long-term yields also rose after Fed Chairman Warsh signaled that a rate hike may not be his preferred tool to combat higher inflation, magnified by elevated energy prices during the US-Iran blockade of tankers in the Persian Gulf."
+    },
+    {
+      "id": "5050334",
+      "time": "2026-08-20 21:36:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣類股隨比特幣上漲而走高。COINBASE GLOBAL上漲5.7%，STRATEGY上漲5.7%，CIRCLE上漲3.8%。RIOT PLATFORMS上漲2%，HUT 8上漲0.4%，MARA HOLDINGS上漲3.8%。"
+    },
+    {
+      "id": "5050333",
+      "time": "2026-08-20 21:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【龔正赴寶山區開展經濟執行下沉調研】上海市委副書記、市長龔正今天（8月20日）赴寶山區開展經濟執行下沉調研。龔正指出，要深入貫徹落實習近平總書記考察上海重要講話精神和對上海工作重要指示要求，按照市委部署，以正確政績觀推動高質量發展，以推動“十五五”規劃落地為牽引，遠近結合、搶抓機遇，加快轉型升級步伐，加快新舊動能轉換，全力推動經濟持續向好發展。（澎湃）"
+    },
+    {
+      "id": "te:markets:576882",
+      "time": "2026-08-20 21:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Decline on Thursday — US stocks fell on Thursday, erasing gains from the last session, which were prompted by the Treasury's move to supress longer-term yields. The S&P 500 fell 0.4%, while the Dow and the Nasdaq 100 fell around 0.7%. Treasury yields rose across the curve to reflect concerns that the Treasury's efforts to prop up notes and bonds can worsen an already inflationary backdrop with ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump stated the US entered \"economic war\" against Iran, prolonging blockades of tankers crossing the Persian Gulf. Banks held their losses as short-term Treasury securities fell further, with JPMorgan and Wells Fargo in the red. On top of that, AI hyperscalers were mostly lower following the tepid financial results from OpenAI, which failed to grow at the same pace of rival Anthropic. Walmart sank 8%, the sharpest single-session decline in four years, after its second-quarter sales fell short of expectations."
+    },
+    {
+      "id": "5050332",
+      "time": "2026-08-20 21:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李峰當選上海青浦區區長】據“綠色青浦”微信公眾號訊息，8月20日，上海市青浦區第六屆人民代表大會第七次會議圓滿完成各項議程，在區委黨校中心會場勝利閉幕。李峰當選青浦區人民政府區長。（澎湃）"
+    },
+    {
+      "id": "5050331",
+      "time": "2026-08-20 21:34:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "MODERNA股價下跌19%。"
+    },
+    {
+      "id": "5050330",
+      "time": "2026-08-20 21:33:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "科蒂集團股價下跌約12%，此前該公司預計第一季度利潤低於市場預期。"
+    },
+    {
+      "id": "mkt:01a01f60-655d-7aab-90b8-b6f562a97efb",
+      "time": "2026-08-20 21:33:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "Walmart (WMT.N) shares plunged 8.7%, the largest one-day decline since July 2022."
+    },
+    {
+      "id": "mkt:01a01f60-1f4e-7aab-90b8-a9d98ec26479",
+      "time": "2026-08-20 21:33:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MRNA.O"
+      ],
+      "text": "Moderna (MRNA.O) fell 18% after closing up more than 170% yesterday."
+    },
+    {
+      "id": "te:markets:576881",
+      "time": "2026-08-20 21:32:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walt Disney Stock Price Hits 14-week High — Walt Disney shares increased to 107.13 USD, the highest since May 2026. Over the past 4 weeks, Walt Disney gained 10.99%, and in the last 12 months, it decreased 8.57%."
+    },
+    {
+      "id": "5050329",
+      "time": "2026-08-20 21:32:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "超微電腦股價上漲2.8%；董事會採納加強出口合規計劃的建議。"
+    },
+    {
+      "id": "5050328",
+      "time": "2026-08-20 21:32:21",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "沃爾瑪股價暴跌8.7%，創下2022年7月以來最大單日跌幅。"
+    },
+    {
+      "id": "5050327",
+      "time": "2026-08-20 21:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股Moderna盤中跌超15%】美股Moderna盤中跌超15.64%，現報147.11美元，總市值為587.3億美元。"
+    },
+    {
+      "id": "5050326",
+      "time": "2026-08-20 21:31:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "ADVANCE AUTO PARTS釋出全年銷售預測不及預期 股價應聲下跌16%。"
+    },
+    {
+      "id": "5050325",
+      "time": "2026-08-20 21:31:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "沃爾瑪股價下跌8%，因第二季度可比銷售額不及預期。"
+    },
+    {
+      "id": "5050324",
+      "time": "2026-08-20 21:31:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴美股下跌5.3%，創下5月15日以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:01a01f5e-be42-7aab-90b8-a510e9449255",
+      "time": "2026-08-20 21:31:37",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) opened 2.8% higher."
+    },
+    {
+      "id": "mkt:01a01f5e-adf1-7aab-90b8-9c9e96661b96",
+      "time": "2026-08-20 21:31:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened lower on Thursday, Aug. 20: the Dow Jones Industrial Average opened down 350.97 points (-0.66%) at 53,112.08; the S&P 500 opened down 29.54 points (-0.38%) at 7,678.81; the Nasdaq Composite opened down 136.15 points (-0.52%) at 26,194.94."
+    },
+    {
+      "id": "5050322",
+      "time": "2026-08-20 21:31:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "STRATEGY股票開盤上漲9.1%，ROBINHOOD股價上漲6.1%。"
+    },
     {
       "id": "5050321",
       "time": "2026-08-20 21:30:56",
