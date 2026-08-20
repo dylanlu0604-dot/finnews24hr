@@ -1,7 +1,55 @@
 {
   "date": "2026-08-21",
-  "count": 265,
+  "count": 270,
   "items": [
+    {
+      "id": "mkt:01a0208a-44b4-7aab-90c0-3a2b56ef3ab3",
+      "time": "2026-08-21 02:58:47",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "United Airlines (UAL.O) said it expects to carry more than 3.4 million passengers between Sept. 3 and 8."
+    },
+    {
+      "id": "5050750",
+      "time": "2026-08-21 02:58:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司：預計9月3日至8日期間運送旅客將超340萬人次。"
+    },
+    {
+      "id": "5050749",
+      "time": "2026-08-21 02:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "據訊息人士：迪士尼將於 2027 年晚些時候推出股票購買計劃。"
+    },
+    {
+      "id": "5050748",
+      "time": "2026-08-21 02:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪士尼將推出員工股票購買計劃。"
+    },
+    {
+      "id": "mkt:01a02088-da1a-7aab-90c0-3604cb79bd01",
+      "time": "2026-08-21 02:57:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukraine's foreign minister said he has discussed with EU foreign policy chief Kallas measures including strengthening air defenses, further sanctions on Russia and use of frozen Russian assets, and urged guarantees for the security of Black Sea shipping and the grain corridor."
+    },
     {
       "id": "5050747",
       "time": "2026-08-21 02:52:41",

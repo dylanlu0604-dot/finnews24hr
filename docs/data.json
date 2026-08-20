@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-21 02:55:46",
-  "count": 16105,
+  "updated": "2026-08-21 02:59:41",
+  "count": 16107,
   "items": [
+    {
+      "id": "mkt:01a0208a-44b4-7aab-90c0-3a2b56ef3ab3",
+      "time": "2026-08-21 02:58:47",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bullish"
+      ],
+      "text": "United Airlines (UAL.O) said it expects to carry more than 3.4 million passengers between Sept. 3 and 8."
+    },
+    {
+      "id": "5050750",
+      "time": "2026-08-21 02:58:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司：預計9月3日至8日期間運送旅客將超340萬人次。"
+    },
+    {
+      "id": "5050749",
+      "time": "2026-08-21 02:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "據訊息人士：迪士尼將於 2027 年晚些時候推出股票購買計劃。"
+    },
+    {
+      "id": "5050748",
+      "time": "2026-08-21 02:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪士尼將推出員工股票購買計劃。"
+    },
+    {
+      "id": "mkt:01a02088-da1a-7aab-90c0-3604cb79bd01",
+      "time": "2026-08-21 02:57:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukraine's foreign minister said he has discussed with EU foreign policy chief Kallas measures including strengthening air defenses, further sanctions on Russia and use of frozen Russian assets, and urged guarantees for the security of Black Sea shipping and the grain corridor."
+    },
     {
       "id": "5050747",
       "time": "2026-08-21 02:52:41",
@@ -147348,35 +147396,6 @@
         "MKT News"
       ],
       "text": "USGS reported a magnitude-5.3 earthquake with epicenter 11 km south of Sarangani, Philippines."
-    },
-    {
-      "id": "5039980",
-      "time": "2026-08-14 02:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：菲律賓薩蘭加尼以南11公里處發生5.3級地震。"
-    },
-    {
-      "id": "mkt:019ffc7c-f603-7aab-902c-7142f0898e50",
-      "time": "2026-08-14 02:57:55",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Lavrov says Russia will seize Western vessels as reciprocal measure】Russian Foreign Minister Lavrov told Russian media on the 13th that Moscow will \"independently decide\" which Western vessels to seize in retaliation for Western seizures of Russian ships. He said Western states treat \"robbery and piracy\" as official policy and that Russia will select targets among vessels serving Western interests, with how to handle them to be \"decided by Russia\"."
-    },
-    {
-      "id": "5039979",
-      "time": "2026-08-14 02:57:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "西北河流預報中心（NWRFC）：美國西北部河流徑流量降至82%。"
     }
   ]
 }
