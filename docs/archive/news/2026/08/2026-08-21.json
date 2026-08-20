@@ -1,7 +1,94 @@
 {
   "date": "2026-08-21",
-  "count": 105,
+  "count": 114,
   "items": [
+    {
+      "id": "5050653",
+      "time": "2026-08-21 01:04:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：獲法國奢侈品巨頭路威酩軒（LVMH）支援的L Catterton將於10月前收購Financial Standard的多數股權。"
+    },
+    {
+      "id": "5050652",
+      "time": "2026-08-21 01:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國出售90億美元通脹保值30年期公債，得標利率為2.973%，投標倍數2.37。"
+    },
+    {
+      "id": "5050651",
+      "time": "2026-08-21 01:03:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "PERMA-PIPE INTERNATIONAL：在北美地區，公司位於俄亥俄州的新制造工廠繼續積累了充裕的訂單儲備。"
+    },
+    {
+      "id": "mkt:01a02020-e696-7aab-90be-96b0c852256e",
+      "time": "2026-08-21 01:03:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O): Gemma model downloads surpass 1 bln."
+    },
+    {
+      "id": "5050650",
+      "time": "2026-08-21 01:02:49",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣80億美元30年期通脹保值國債（TIPS），得標利率2.973%，投標倍數2.82。"
+    },
+    {
+      "id": "mkt:01a02020-0ee4-7aab-90be-8d3468dfe9e8",
+      "time": "2026-08-21 01:02:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve: For the week ended in August 2019, U.S. foreign financial commercial paper outstanding (not seasonally adjusted) fell $1.4 bln; commercial paper outstanding (not seasonally adjusted) rose $3.0 bln; seasonally adjusted commercial paper outstanding rose $12.5 bln."
+    },
+    {
+      "id": "5050649",
+      "time": "2026-08-21 01:01:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemma 下載量突破 10 億次。"
+    },
+    {
+      "id": "mkt:01a0201e-4ee1-7aab-90be-85dad5ac8ad0",
+      "time": "2026-08-21 01:00:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) trades 0.15% higher after earlier sliding as much as 0.81%."
+    },
+    {
+      "id": "5050648",
+      "time": "2026-08-21 01:00:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價短線拉昇轉漲，此前一度跌近1%。"
+    },
     {
       "id": "5050647",
       "time": "2026-08-21 01:00:03",
