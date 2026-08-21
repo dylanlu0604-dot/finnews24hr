@@ -1,7 +1,47 @@
 {
   "date": "2026-08-22",
-  "count": 237,
+  "count": 241,
   "items": [
+    {
+      "id": "te:markets:577368",
+      "time": "2026-08-22 04:37:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Jumps Ahead of Datafolha Poll — The Ibovespa jumped 1.8% to close at 171,032 on Friday, supported by a broad rally in financial stocks. The political landscape remained in focus ahead of a new Datafolha poll on Brazil’s October presidential election, due after the close. On Monday, a BTG/Nexus poll showed President Lula and Senator Flávio Bolsonaro, viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity, in a technical tie in a potential runoff. Bond yields fell on expectations of a tighter presidential race and broad-based weakness in the US dollar. Itaú rose 2.9%, Bradesco added 3.1%, Itaúsa gained 2.5%, and B3 jumped 5.2%. Utilities also advanced, with Axia up 1.4% and Sabesp rising 1.9%. Vale added 1.4% as iron ore prices firmed, while CSN Mineração (+4.8%), CSN (+7.6%) and Usiminas (+7.9%) rallied. Embraer (-1%) and Petrobras (-0.1%) were among the few laggards."
+    },
+    {
+      "id": "5052774",
+      "time": "2026-08-22 04:36:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：熱帶低氣壓可能在未來幾天內給夏威夷群島帶來降雨和大風。"
+    },
+    {
+      "id": "5052773",
+      "time": "2026-08-22 04:35:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "科沃爾特能源（Covolt Power）：摩根大通、傑富瑞、加拿大皇家銀行資本市場、瑞銀投資銀行以及凱基資本市場為此次首次公開募股的承銷商。"
+    },
+    {
+      "id": "te:markets:577367",
+      "time": "2026-08-22 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.05% Higher — The Dow Jones Index gained 555 points or 1.05 percent on Friday to close at 53315 points. Gains were led by Goldman Sachs (3.94%), Merck (2.27%) and Salesforce (1.91%)."
+    },
     {
       "id": "5052772",
       "time": "2026-08-22 04:33:13",
