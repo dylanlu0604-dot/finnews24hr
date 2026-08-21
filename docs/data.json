@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-22 00:33:20",
-  "count": 16210,
+  "updated": "2026-08-22 00:37:27",
+  "count": 16199,
   "items": [
+    {
+      "id": "mkt:01a0252d-991a-7aab-90d8-b4a079d866d9",
+      "time": "2026-08-22 00:35:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported a Yemeni government drone struck a Houthi military vehicle east of Hazm in Al-Jawf province."
+    },
+    {
+      "id": "mkt:01a0252c-0796-7aab-90d8-acffac338891",
+      "time": "2026-08-22 00:33:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran and Oman foreign ministers discuss resuming Strait of Hormuz talks】State media reported Oman foreign minister Busaidi and Iranian foreign minister Araghchi held a phone call to discuss creating conditions to resume negotiations on the Strait of Hormuz. Both parties reiterated that continuing dialogue is important to support restoring freedom of navigation and to maintain regional security and stability."
+    },
     {
       "id": "te:markets:577346",
       "time": "2026-08-22 00:32:31",
@@ -148375,148 +148392,6 @@
         "國際"
       ],
       "text": "【古爾斯比尋求更多通脹降溫的證據】芝加哥聯邦儲備銀行行長古爾斯比表示，美國通脹近期的改善令他受到鼓舞，但還需要連續數月出現同類資料，才能確信通脹正持續向美聯儲 2% 的目標回落。他稱通脹是自己首要關切，同時表示美國經濟在增長與勞動力市場方面 “基本保持穩定”。古爾斯比在 7 月議息會議上支援維持利率不變，鑑於通脹長期高於目標水平，他依舊持謹慎態度。\n近期通脹資料走弱、7 月零售銷售疲軟以及就業增長相對平淡，已經使得投資者下調美聯儲加息預期。目前市場預計 9 月加息機率約 30%，而一個月前市場對此的預期要高得多。古爾斯比同時警告，人工智慧等技術帶來的生產率提升，並不天然支援下調利率，因為大規模投資支出最終可能造成經濟過熱。"
-    },
-    {
-      "id": "mkt:01a00122-20af-7aab-9043-08aa9b9ae644",
-      "time": "2026-08-15 00:36:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed Chair Goolsbee supported holding interest rates unchanged at the July meeting."
-    },
-    {
-      "id": "mkt:01a00121-9938-7aab-9043-061b681f2ea8",
-      "time": "2026-08-15 00:36:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Goolsbee said the past two productivity readings were very disappointing."
-    },
-    {
-      "id": "mkt:01a00121-2408-7aab-9042-faae364208ef",
-      "time": "2026-08-15 00:35:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Fed's Goolsbee said CPI was encouraging, but more data are needed before a firm judgment can be made."
-    },
-    {
-      "id": "5041840",
-      "time": "2026-08-15 00:35:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：生產率若持續下滑，將改變人工智慧相關預期。"
-    },
-    {
-      "id": "mkt:01a00120-81d6-7aab-9042-f30131a006bc",
-      "time": "2026-08-15 00:35:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Fed's Goolsbee said persistent weakness in consumer spending would be worrying."
-    },
-    {
-      "id": "5041839",
-      "time": "2026-08-15 00:34:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比： 零售銷售疲軟僅為單月資料。"
-    },
-    {
-      "id": "mkt:01a00120-518a-7aab-9042-ef116503328a",
-      "time": "2026-08-15 00:34:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed's GOOLSBEE says weak retail sales are merely a one-month phenomenon."
-    },
-    {
-      "id": "5041838",
-      "time": "2026-08-15 00:34:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：消費持續走弱將令人擔憂。"
-    },
-    {
-      "id": "5041837",
-      "time": "2026-08-15 00:34:21",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比： 對 CPI 報告感到鼓舞，但仍需更多資料。"
-    },
-    {
-      "id": "mkt:01a0011f-bb79-7aab-9042-e14abd519325",
-      "time": "2026-08-15 00:34:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Fed Governor GOOLSBEE said US GDP and the labor market are broadly stable."
-    },
-    {
-      "id": "5041836",
-      "time": "2026-08-15 00:34:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：此前兩次生產率資料表現十分糟糕。"
-    },
-    {
-      "id": "5041835",
-      "time": "2026-08-15 00:33:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：支援 7 月維持利率不變的決議。"
-    },
-    {
-      "id": "5041834",
-      "time": "2026-08-15 00:33:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：美國國內生產總值與勞動力市場 “基本保持穩定” 。"
     }
   ]
 }

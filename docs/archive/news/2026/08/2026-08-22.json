@@ -1,7 +1,24 @@
 {
   "date": "2026-08-22",
-  "count": 44,
+  "count": 46,
   "items": [
+    {
+      "id": "mkt:01a0252d-991a-7aab-90d8-b4a079d866d9",
+      "time": "2026-08-22 00:35:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reported a Yemeni government drone struck a Houthi military vehicle east of Hazm in Al-Jawf province."
+    },
+    {
+      "id": "mkt:01a0252c-0796-7aab-90d8-acffac338891",
+      "time": "2026-08-22 00:33:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran and Oman foreign ministers discuss resuming Strait of Hormuz talks】State media reported Oman foreign minister Busaidi and Iranian foreign minister Araghchi held a phone call to discuss creating conditions to resume negotiations on the Strait of Hormuz. Both parties reiterated that continuing dialogue is important to support restoring freedom of navigation and to maintain regional security and stability."
+    },
     {
       "id": "te:markets:577346",
       "time": "2026-08-22 00:32:31",
