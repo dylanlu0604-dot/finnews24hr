@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-22 00:49:36",
-  "count": 16198,
+  "updated": "2026-08-22 00:53:40",
+  "count": 16195,
   "items": [
+    {
+      "id": "mkt:01a0253a-cd6c-7aab-90d8-dee41c9dad91",
+      "time": "2026-08-22 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. total oil rig count for week to Aug. 21 due in 10 minutes."
+    },
     {
       "id": "5052634",
       "time": "2026-08-22 00:47:27",
@@ -148342,48 +148356,6 @@
         "MKT News"
       ],
       "text": "Musk said inadequate power supply and difficulty obtaining approvals for ground infrastructure mean orbital computing (space-based computing platforms) may be the only viable path to scale AI by around 2029."
-    },
-    {
-      "id": "mkt:01a0012e-754b-7aab-9043-31a698e59936",
-      "time": "2026-08-15 00:50:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI"
-      ],
-      "text": "U.S. oil rig count for the week to Aug. 14 due in 10 minutes."
-    },
-    {
-      "id": "5041848",
-      "time": "2026-08-15 00:50:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：受地面電力供給與審批許可問題制約，到 2029 年前後，軌道計算或將成為人工智慧實現規模擴張的唯一途徑。"
-    },
-    {
-      "id": "mkt:01a0012e-6a9f-7aab-9043-2bb18748451b",
-      "time": "2026-08-15 00:50:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Global Affairs Canada announced additional sanctions on Iranian individuals for obstructing freedom of navigation in the Strait of Hormuz and adjacent waters."
-    },
-    {
-      "id": "te:economy:575526",
-      "time": "2026-08-15 00:50:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.21%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.56 basis points, and in the last 12 months, it increased 43.23 basis points."
     }
   ]
 }

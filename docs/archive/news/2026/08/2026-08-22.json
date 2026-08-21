@@ -1,7 +1,21 @@
 {
   "date": "2026-08-22",
-  "count": 55,
+  "count": 56,
   "items": [
+    {
+      "id": "mkt:01a0253a-cd6c-7aab-90d8-dee41c9dad91",
+      "time": "2026-08-22 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. total oil rig count for week to Aug. 21 due in 10 minutes."
+    },
     {
       "id": "5052634",
       "time": "2026-08-22 00:47:27",
