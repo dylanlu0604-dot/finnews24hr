@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-21 15:20:16",
-  "count": 16050,
+  "updated": "2026-08-21 15:24:17",
+  "count": 16051,
   "items": [
+    {
+      "id": "5051493",
+      "time": "2026-08-21 15:22:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天電器：公司麻花針聯結器系列產品廣泛應用於航天、航空、電子等領域】有投資者在互動平臺向航天電器提問，公司＂麻花針＂技術聯結器在商業航天的火箭和衛星領域都會有應用嗎？單機價值量分別是多少元？＂麻花針＂技術聯結器是公司獨家專利技術嗎？航天電器回覆稱，公司麻花針聯結器系列產品技術成熟，廣泛應用於航天、航空、電子等領域，具體訂貨根據相關領域客戶需求而變化。"
+    },
+    {
+      "id": "5051492",
+      "time": "2026-08-21 15:21:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【LME鋅顯現供應緊張 價格衝擊四年高點】就在銅市場短期供應緊張引發倫敦金屬交易所（LME）劇烈交易的短短數日後，鋅市場已顯現供應趨緊訊號。週四，鋅現貨較三個月期貨的價差最高擴大至每噸132.37美元，為本年最大價差；這種現貨升水的反向市場結構，表明供應趨於緊張。週五，鋅基準價格上漲0.9%，有望創下四年以來最高收盤水平。鋅價走強發生在銅逼倉行情之後。此前，LME關鍵交割日前的現貨銅緊缺，推動價差與價格大幅衝高。近期，大量金屬入庫LME指定倉庫，銅的緊張局面已有所緩解。"
+    },
+    {
+      "id": "5051491",
+      "time": "2026-08-21 15:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本三大車商7月在華新車銷量均同比下滑，日產暴跌近6成】8月20日，日本三大車商7月在華新車銷量全部出爐，日產汽車銷量同比暴跌58.7%至23677輛；豐田銷量同比減少24.3%至11.47萬輛。本田銷量同比減少44.1%至25052輛。今年前7個月，日產累計在華新車銷量為26.11萬輛，同比減少22%；豐田累計銷量80.94萬輛，同比減少18%；本田累計銷量23.87萬輛，同比減少36%。"
+    },
+    {
+      "id": "5051490",
+      "time": "2026-08-21 15:20:36",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國晶片板塊上漲 股東回報計劃提振股市收高】受市場對韓國兩大頭部晶片企業 —— 三星電子與 SK 海力士大規模股東回報計劃的良好預期推動，首爾股市週五收盤走高；韓元兌美元同步升值。韓國綜合股價指數（KOSPI）收盤上漲 60.37 點，漲幅 0.88%，報 6912.95 點，盤中最高觸及 6954.12 點。散戶與外資均為淨賣出，合計淨拋售 1.34 萬億韓元；機構投資者則淨買入 2482 億韓元。大信證券分析師李慶敏表示：“SK 海力士與三星電子推出的股東回報計劃為本國股市提供支撐，蓋過了外部各類不確定性帶來的負面影響。”SK 海力士於週三公佈股東回報方案，計劃回購價值約 40 萬億韓元的普通股。市值龍頭三星電子也預計將於當日晚些時候公佈規模最高達 110 萬億韓元的股東回報方案。三星電子上漲 3.87%，報 281500 韓元；同業對手 SK 海力士上漲 2.31%，報 1730000 韓元。"
+    },
+    {
+      "id": "te:economy:577149",
+      "time": "2026-08-21 15:20:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "Turkey Factory Capacity Usage at 5-Month Low — The manufacturing industry in Turkey operated at 73.5% of its production capacity in August 2026, down from 73.9% in the previous month. This marked the lowest rate since March, with the decline driven mainly by investment goods, where capacity utilization fell sharply to 69.7% from 71.2%, pointing to weaker activity in capital-intensive industries and potentially softer investment demand. Utilization in food and beverages also declined to 71.4% from 72.0%, while intermediate goods remained the strongest-performing category despite easing slightly to 74.7% from 74.9%. Non-durable consumer goods utilization edged down to 72.2% from 72.3%. Meanwhile, overall consumer goods utilization increased to 71.6% from 71.4%, supported by durable consumer goods, which rose to 68.2% from 67.1%."
+    },
+    {
+      "id": "5051489",
+      "time": "2026-08-21 15:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯航空：自2026年12月17日起，開通沙迦出發每週四班直飛航班。"
+    },
+    {
+      "id": "mkt:01a02330-ed7b-7aab-90cb-6b237ba6f897",
+      "time": "2026-08-21 15:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's preliminary August manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "5051488",
+      "time": "2026-08-21 15:20:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中保協印發《車險承保理賠實務指南（2026版）》】中國保險行業協會近日正式印發《車險承保理賠實務指南（2026版）》。 為此，中保協牽頭組建專項工作組，透過多輪調研、廣泛徵集行業意見，完成本次《指南》修訂工作。本次修訂嚴格落實國家金融監督管理總局關於規範車險經營、強化消費者權益保護的相關要求，結合近年行業經營資料、典型投訴糾紛案例與監管工作要求開展系統研究，堅持以保護保險消費者合法權益為核心，聚焦行業實操痛點，保障消費者知情權、自主選擇權和公平交易權，明確人身損害賠償流程標準，健全矛盾糾紛化解路徑，進一步規範基層操作。"
+    },
     {
       "id": "mkt:01a02330-5f44-7aab-90cb-60c9e9134b17",
       "time": "2026-08-21 15:19:27",
@@ -146930,71 +147006,6 @@
         "DXY"
       ],
       "text": "【Oxford Economics: Tax-cut cost seen; Japan primary deficit may widen to 3% of GDP】Oxford Economics says Japan’s planned food consumption tax cut will widen the fiscal deficit and lift JGB yields. Economist Norihiro Yamaguchi estimates the cut would reduce annual tax revenue by about ¥5 trillion and is unlikely to be fully offset by other measures. The firm assumes part of the shortfall will be covered by non-tax receipts and spending cuts, but that roughly half will be financed by debt, pushing the primary fiscal deficit to about 3% of GDP. It expects the deficit to begin improving from 2029 as debt/GDP rises and fiscal consolidation intensifies. Oxford Economics forecasts 10-year JGB yields will rise to around 3% by end-2026, from roughly 2.8% today. Market reaction so far has been limited, but the firm warns markets will increasingly price in the fiscal impact as policy details emerge."
-    },
-    {
-      "id": "mkt:019fff27-0a85-7aab-9038-b7649642da53",
-      "time": "2026-08-14 15:22:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Extreme heat dents UK economy; losses estimated at about £6bln】Persistent extreme heat and scarce rainfall are increasingly weighing on UK activity: about two-thirds of England is now in formal drought. Prime Minister Andy Burnham convened an emergency meeting this week on drought and wildfires. Heat is keeping consumers off high streets, hitting agriculture, delaying construction and reducing labour productivity. A Friday institutional analysis estimates cumulative losses at roughly £6bln, about 0.2% of output. Economists say the hot summer is a negative supply shock; while GDP-level effects may be temporary, there is a risk it could push up prices in some sectors, complicating the Bank of England's fight against elevated inflation."
-    },
-    {
-      "id": "5040746",
-      "time": "2026-08-14 15:22:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澳大利亞每25戶家庭就有1戶安裝儲能電池 家庭儲能規模超過美國】在一項政府計劃推動下，澳大利亞已有50萬戶家庭安裝家用儲能電池，約佔全國家庭總數的4%。這項計劃正重塑這個全球最具波動性的電力市場之一。澳大利亞能源部長Chris Bowen週五宣佈達到這一里程碑。距離政府推出廣受歡迎的家用電池補貼計劃還不到14個月。澳大利亞家庭正成為該國能源轉型的重要推動力。而在住宅太陽能領域，澳大利亞本已位居全球前列，每三戶家庭中就有一戶安裝了太陽能板。“這是澳大利亞家庭取得的一項具有全球意義的成就：實現了14吉瓦時的儲能容量，”Bowen在新聞釋出會上表示。“相比之下，美國全國僅有9吉瓦時儲能容量，而其人口規模是我們的12倍。”"
-    },
-    {
-      "id": "mkt:019fff25-e0a3-7aab-9038-ad6496c4ee86",
-      "time": "2026-08-14 15:21:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A NATO military headquarters spokesperson said an Italian Typhoon fighter jet neutralized a potential threat over an uninhabited area after confirmation, in connection with an earlier drone incident in Latvia."
-    },
-    {
-      "id": "5040745",
-      "time": "2026-08-14 15:21:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【淡馬錫任命新董事，前新加坡公務員首長葉成昌加盟】8月14日，淡馬錫控股宣佈，前新加坡公務員首長葉成昌將於8月15日起加入董事會。淡馬錫表示，葉成昌擁有43年公共服務經歷，2017年起擔任新加坡公務員首長兼總理公署（戰略）常任秘書，他於今年4月從新加坡行政服務部門退休。淡馬錫董事長表示，葉成昌在安全、勞動力、經濟及國家政策等領域擁有豐富經驗，將為董事會提供重要補充。"
-    },
-    {
-      "id": "5040744",
-      "time": "2026-08-14 15:20:55",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：中國移動需求旺盛CAPEX同比增長，維持AH股“跑贏行業”評級】中金公司研報指出，中國移動1H26收入符合預期，利潤好於預期。1H26基礎通訊業務承壓、算力服務增長明顯、智慧服務基本穩定。Token 經營、算力業務等新業務契合市場旺盛需求、發展迅速，伴隨新業務發展，上半年資本開支同比增長並且結構顯著向算力傾斜。認為客戶算力需求旺盛，公司資本開支提升及結構變化與業務發展匹配；展望全年，一方面，公司或將進行資料中心、算力資源適度前置投入；一方面，考慮到通訊網路資源仍能承載使用者流量提升後的網路需求，支援資本開支金額總體可控。公司重視股東回報，淨利潤下滑壓力下，每股股息仍提升。採用SOTP估值法，A股維持“跑贏行業”評級和118元目標價，港股維持“跑贏行業”評級和102港元目標價。"
-    },
-    {
-      "id": "te:economy:575343",
-      "time": "2026-08-14 15:20:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "GDP Growth Rate",
-        "Importance 2"
-      ],
-      "text": "Swiss Q2 GDP Growth Strongest Since 2021 — Switzerland's economy expanded by 1.5% quarter-on-quarter in the three months to June 2026, accelerating sharply from 0.4% growth in the previous period, according to flash estimates. The reading marked the strongest quarterly expansion since the third quarter of 2021, underscoring the country's ability to withstand headwinds, including elevated energy costs linked to Middle East tensions and persistent trade uncertainty. The latter stems from the absence of a legally binding trade agreement with the US, even after Switzerland secured a preliminary deal last November that capped tariffs at 15%. Growth was driven primarily by the industrial sector, with the chemical and pharmaceutical industry providing the largest boost to economic activity. The services sector also expanded, further supporting the broad-based improvement in output."
-    },
-    {
-      "id": "5040743",
-      "time": "2026-08-14 15:20:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江長興突發山洪泥石流致1死3失聯】受突發短時強降雨極端天氣影響，8月14日6時30分許，浙江長興縣和平鎮灘龍橋村發生泥石流，初步判定為山洪引發，致一棟民房垮塌。險情發生後，長興縣第一時間啟動應急響應，立即組織應急、資規、消防、公安、衛健等部門趕赴現場開展人員搜救、醫療救治等應急救援工作。截至14日14時30分，經初步核實，災情造成1人死亡、3人失聯。應急救援工作正在全力有序開展。（新華社）"
     }
   ]
 }
