@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-21 12:06:34",
-  "count": 16025,
+  "updated": "2026-08-21 12:10:26",
+  "count": 16023,
   "items": [
+    {
+      "id": "mkt:01a02282-4e35-7aab-90c8-0dbdcc62f33d",
+      "time": "2026-08-21 12:09:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【Guangzhou Intermediate People's Court accepts bankruptcy liquidation petition for Evergrande Real Estate Group Co., Ltd.】On 21 August 2026 Guangzhou Rural Commercial Bank Co., Ltd., Huaxia branch filed for bankruptcy liquidation of Evergrande Real Estate Group Co., Ltd., citing inability to repay due debts and insufficient assets to cover liabilities. The Guangzhou Intermediate People's Court reviewed the filing, found it consistent with Article 2(1) of the PRC Enterprise Bankruptcy Law, and on 21 August 2026 ruled to accept the petition."
+    },
+    {
+      "id": "5051227",
+      "time": "2026-08-21 12:08:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海：支援臨港新片區在離岸貿易金融服務、自貿離岸債、跨國公司財資中心試點等方面加大探索】上海市政府新聞釋出會8月21日舉行，解讀《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》。上海市委金融辦副主任陶昌盛表示，支援臨港新片區在離岸貿易金融服務、自貿離岸債、跨國公司財資中心試點等方面加大探索。深化企業“走出去”金融產品和服務供給，提升臨港新片區“走出去”綜合服務平臺的能級。"
+    },
+    {
+      "id": "5051226",
+      "time": "2026-08-21 12:06:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海自貿試驗區臨港新片區預計形成3個千億級製造業叢集】上海市政府新聞釋出會8月21日舉行，解讀《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》。臨港新片區管委會專職副主任唐浩表示，“十五五”末，預計形成3個千億級製造業叢集，到2030年，實現規模以上工業總產值突破6500億元。積體電路將以晶圓製造、高階封測為核心，帶動設計、裝置、材料全鏈佈局，產值突破1200億元；智慧汽車將著重智慧化突破，產值超3000億元；高階裝備聚焦新型儲能及能源裝備，產值突破1000億元。圍繞大飛機總裝配套的結構大部段、複合材料、機載裝置、發動機等關鍵領域，推動民用航空產值突破500億元。"
+    },
+    {
+      "id": "5051225",
+      "time": "2026-08-21 12:06:25",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【A50直線拉昇漲超1% 外圍傳來三大利好】週五（8月21日）早盤，A50直線拉昇，A股主要股指亦集體反彈，CPO、液冷等與AI相關的板塊大幅走強。與此同時，韓國股指由跌轉漲，顯著衝高。而日本股市的跌幅也顯著收窄。外圍市場傳來三大利好。首先，市場擔心的美債收益率在亞太市場開盤之後，一度全線殺跌，美國國債市場預期的變化也開啟了弱美元的＂魔盒＂，利於權益估值演繹；其次，韓國交易所啟動Sidecar機制，暫停KOSDAQ程式化賣盤；最後，儲存亦迎來大利好。美光科技表示，人工智慧已從根本上改變儲存產業的週期性，這個產業過去一直深陷景氣繁榮與衰退迴圈。（券商中國）"
+    },
+    {
+      "id": "5051224",
+      "time": "2026-08-21 12:05:57",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【廣州市中級人民法院依法受理恒大地產集團有限公司破產清算案】8月21日，據廣州市中級人民法院訊息，廣州農村商業銀行股份有限公司華夏支行以恒大地產集團有限公司不能清償到期債務，並且資產不足以清償全部債務為由，向法院申請對恒大地產集團有限公司破產清算。廣東省廣州市中級人民法院經審查認為，該申請符合《中華人民共和國企業破產法》第二條第一款的規定，於2026年8月21日裁定受理廣州農村商業銀行股份有限公司華夏支行對恒大地產集團有限公司的破產清算申請。"
+    },
     {
       "id": "5051223",
       "time": "2026-08-21 12:05:32",
@@ -146709,72 +146758,6 @@
         "國際"
       ],
       "text": "【特朗普要五角大樓重振美國艦船工業 】美國白宮網站13日釋出訊息說，總統特朗普當天簽署一份國家安全總統備忘錄，指示國防部重振艦船工業，解決艦船製造和維護方面的長期問題，並恢復產能和競爭力。備忘錄要求國防部以“芬蘭模式”為基礎，對美國造船業的工業基礎加大直接投資。白宮表示，“芬蘭模式”首先被美國海岸警衛隊的中型破冰船專案所採用。根據這一模式，如外國造船商對美國造船廠進行大量持久的投資，且由此創造工作崗位並培訓美國勞動力，那麼這些外國造船商將被暫時允許在其位於美國境外的母公司為美方建造最多兩艘船。這些船將被快速交付以填補空缺，而美國防部訂單中的其他船隻將在“恢復活力”後的美國造船廠建造。備忘錄還指示國防部建立第五座海軍造船廠，以提升潛艇和航空母艦的維修能力。這將是美國80多年來第一次新建海軍造船廠。備忘錄還要求建立一個部件維修中心，以儲存和翻新關鍵的潛艇部件。"
-    },
-    {
-      "id": "5040521",
-      "time": "2026-08-14 12:09:53",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【京東擴大跌幅至逾10% 此前錄得上市以來首次季度營收下滑】京東周五在香港一度擴大跌幅至逾10%，股價重新整理一個月以來的低點。公司週四釋出的財報顯示第二季度營收下降2.9%，是京東自2014年在美國上市以來首次出現季度營收下滑。截至午間收盤，京東港股(9618 HK)下挫10.08%，報110.60港元；香港恒生指數跌0.9%。"
-    },
-    {
-      "id": "mkt:019ffe75-a921-7aab-9035-0fcdc024dccf",
-      "time": "2026-08-14 12:09:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Negara Malaysia said El Niño effects typically lag and it expects to see greater impact next year."
-    },
-    {
-      "id": "mkt:019ffe75-8962-7aab-9035-035733e3b1cc",
-      "time": "2026-08-14 12:09:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Bank Negara Malaysia said El Niño impacts are typically lagged and it expects more pronounced effects next year."
-    },
-    {
-      "id": "te:markets:575260",
-      "time": "2026-08-14 12:08:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hang Seng Falls to 3-Week Low — The Hang Seng Index fell about 0.9% to 25,160 on Friday, marking its fourth consecutive session of losses and hitting its lowest level since July 24, as technology stocks remained under pressure and investors stayed cautious amid lingering geopolitical uncertainty. Meituan fell 1.4%, while Alibaba and Tencent dropped 1.1% and 2.9%, respectively. Lenovo retreated 4.2% after reaching an all-time high in the previous session. In the broader market, JD.com plunged 6.5% at the open after the e-commerce giant reported a decline in interim profit, making it the worst-performing blue-chip stock, adding to pressure on tech sector. On the upside, Semiconductor Manufacturing rose 4.7% after reporting a sharp increase in second-quarter profit, making it the strongest-performing Hang Seng constituent at the open, while Shanghai Iluvatar rose 3.6%. On the data front, Hong Kong’s annual GDP growth rate for Q2 is due later today, with expectations of 4.3%, easing from 5.9% in the prior quarter."
-    },
-    {
-      "id": "5040520",
-      "time": "2026-08-14 12:07:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "馬來西亞央行：厄爾尼諾現象的影響通常存在滯後性，預計其影響明年會進一步顯現。"
-    },
-    {
-      "id": "5040519",
-      "time": "2026-08-14 12:07:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數跌0.93%，恒生科技指數跌1.79%】港股午間收盤，恒生指數跌0.93%，恒生科技指數跌1.79%。恒指港股通ETF銀華（159318）跌0.76%，港股通科技ETF鵬華（159751）跌1.21%。板塊方面，冶鋼原料、航空貨運板塊漲幅靠前；人力資源服務、藥店板塊跌幅靠前。個股方面，中國黃金國際漲12.93%，萬國資料-SW漲12.69%，邁富時漲11.42%，布魯可漲9.3%，納芯微漲8.66%；京東物流跌12.91%，龍旗科技跌12.57%，華虹宏力跌12.3%，京東集團-SWR跌10.29%，京東集團-SW跌10.08%。"
-    },
-    {
-      "id": "5040518",
-      "time": "2026-08-14 12:07:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受日元干預擔憂影響 外國投資者連續第二週淨賣出日股】在截至8月8日止的一週，外國投資者連續第二週拋售日本股票，因市場預期當局將進一步採取支撐日元的措施，這削弱了投資人對日本股市的買盤意願。日本財務省資料顯示，該周外國投資者淨賣出價值3,685億日元（合23.1億美元）的日本股票，此前一週為淨賣出3,925億日元。上週，日本財務省表示，美國與日本已協同進行買入日元的干預行動，並將毫不猶豫地採取進一步措施。在干預行動後，日元上週一度觸及155.21日元兌1美元的近三個月高點。最新交易價為159.43日元兌1美元。日元升值會提高外國投資人所持日本資產的美元價值，但同時也會降低他們以美元購買新股的購買力。"
     }
   ]
 }
