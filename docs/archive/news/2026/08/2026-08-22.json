@@ -1,7 +1,75 @@
 {
   "date": "2026-08-22",
-  "count": 34,
+  "count": 41,
   "items": [
+    {
+      "id": "5052628",
+      "time": "2026-08-22 00:28:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：批准擬向義大利出售單型制導段空空高階精確殺傷武器系統‑II 及相關裝置，預估金額 3.64 億美元。"
+    },
+    {
+      "id": "mkt:01a02526-a20d-7aab-90d8-9d9dc81a99ca",
+      "time": "2026-08-22 00:28:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US approved a sale to Italy of the guidance section and related equipment for the Air-to-Air Advanced Precision Kill Weapon System II, valued at $364 million."
+    },
+    {
+      "id": "5052627",
+      "time": "2026-08-22 00:27:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：已批准擬向挪威出售 UH‑60M “黑鷹” 直升機，預估交易金額 23 億美元。"
+    },
+    {
+      "id": "te:economy:577345",
+      "time": "2026-08-22 00:27:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Yield Approaches 20-Month High — The yield on the 10-year US Treasury note rose to 4.74% on Friday, testing the 20-month highs reached earlier in the week and more than erasing the decline triggered by the Treasury Department's announcement of a larger bond buyback. The Treasury stated it would at least double its long-maturity buybacks to $4 billion next quarter. This added to recent efforts of compressing yields after the joint intervention on the Japanese yen by selling euros and the request for the Fed to increase the limit on its FIMA facility. Yields on the longer end of the curve had surged since July amid soaring debt issuance from AI companies and higher deficit spending by the federal government. Long-term yields also rose after Fed Chairman Warsh signaled that a rate hike may not be his preferred tool to combat higher inflation, increasing the stakes of speeches in Jackson Hole. Concerns of unanchored inflation were magnified by high energy prices during the US-Iran blockade of tankers in the Persian Gulf."
+    },
+    {
+      "id": "5052626",
+      "time": "2026-08-22 00:27:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售股財報周收官在即，整體表現仍錄得跌幅】零售股即將結束其標誌性的財報周，但整體表現仍錄得跌幅。儘管State Street SPDR S&P Retail ETF（XRT）在週五午盤交易中跟隨大盤反彈，上漲近1%，但該基金本週累計跌幅仍超過1%。個股方面，AutoZone（汽車地帶）和沃爾瑪（Walmart）財報釋出後股價大幅下挫，本週分別暴跌約25%和11%，成為拖累該基金表現的主要因素。若這些跌幅維持到收盤，將創下AutoZone自2023年以來、沃爾瑪自2022年以來的最大單週跌幅。不過，百貨零售商Dillard’s和寵物電商Chewy的強勁表現幫助限制了基金的跌幅，兩隻股票本週均上漲超過8%。"
+    },
+    {
+      "id": "te:economy:577344",
+      "time": "2026-08-22 00:25:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Latvia Producer Inflation Rises Further — Producer prices in Latvia rose 3.5% year-on-year in July 2026 from a 3.3% increase in the previous month, reaching the highest level since February 2025. The accelerationg was mainly due to higher inflation in manufacturing (1.9% vs 1%), reflecting a higher pace in price growth for the manufacture of beverages (3.5% vs 2.1%), wood products (4% vs 0.9%), printing and recorded media (5.9% vs 4.8%), chemicals (7.4% vs 5.9%), basic metals (7% vs 6.5%), furniture (2.15 vs 1.7%), machinery and equipment (2.3% vs 0.6%) . Additional upward pressure came from stronger inflation for water supply, sewerage, waste management and remediation activities (8.7% vs 7.9%). In contrast, inflation slowed for electricity, gas, steam and air conditioning supply (9.1% vs 12.2%) and mining and quarrying (7.8% vs 8.9%). On a monthly basis, producer prices edged up 0.1%, slowing from a 0.5% increase in the prior month."
+    },
+    {
+      "id": "5052625",
+      "time": "2026-08-22 00:24:31",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛：黃金看漲期權需求激增 或放大金價波動】高盛分析師在報告中表示，黃金看漲期權需求激增，加大了金價劇烈波動的風險。Lina Thomas等分析師在報告中寫道，黃金看漲期權交易量增加形成對金價“雙向波動的價格放大機制”。“因此，我們仍認為2026年底金價達到每盎司4,900美元的預測面臨顯著上行風險，但金價漲勢也存在更大的雙向波動”。"
+    },
     {
       "id": "mkt:01a02522-1c9c-7aab-90d8-9146a7dd094a",
       "time": "2026-08-22 00:23:07",
