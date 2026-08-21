@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-21 08:08:42",
-  "count": 16034,
+  "updated": "2026-08-21 08:12:41",
+  "count": 16031,
   "items": [
+    {
+      "id": "mkt:01a021a9-192e-7aab-90c3-8512e62bb7e1",
+      "time": "2026-08-21 08:12:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Merchants Securities: Hang Seng TECH index expansion, industry trends favor cloud providers】China Merchants Securities said in a strategy note that two developments boost the Hong Kong market outlook: the Hang Seng TECH Index methodology was revised—constituent count expanded and revenue growth added to selection criteria—addressing concerns about the index’s tech content; and AI-sector profits are shifting from hardware and large models toward cloud providers, a dynamic that should favor Hong Kong-listed cloud names. The firm remains positive on Hong Kong equity opportunities."
+    },
+    {
+      "id": "te:markets:577008",
+      "time": "2026-08-21 08:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CITIC Securities earnings above expectations at 0.68 CNY — CITIC Securities (600030) released earnings per share at 0.68 CNY, compared to market expectations of 0.61 CNY."
+    },
+    {
+      "id": "te:markets:577007",
+      "time": "2026-08-21 08:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "China Telecom earnings in line with market expectations at 0.08 CNY — China Telecom (601728) released earnings per share at 0.08 CNY, in line with market expectations."
+    },
+    {
+      "id": "mkt:01a021a8-40f7-7aab-90c3-7d9dbbb8514a",
+      "time": "2026-08-21 08:11:09",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China pushes pension funds toward long-term investing】Chinese policy documents urge pension funds to pursue “long money, long investments,” citing decades‑ahead payout obligations and the theoretical capacity to tolerate higher equity volatility to earn long‑term equity premia. The guidance prioritises reforming measurement: accelerate establishment of long‑cycle assessment frameworks and embed cross‑cycle returns and risk control into fund evaluations. It calls for supporting measures and a steady expansion of pension investment scale and channels; under strict equity‑allocation caps, funds should optimise asset mixes and raise equity exposure, with emphasis on national strategic emerging industries. Authorities will also encourage pension participation in listed‑company governance and directed placements and push for improved dividend mechanisms so pension funds share more of the real‑economy’s growth returns."
+    },
+    {
+      "id": "mkt:01a021a8-3282-7aab-90c3-70e533bc166c",
+      "time": "2026-08-21 08:11:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 11.8 points (-0.13%) at 9,072.00 on Friday, Aug. 21."
+    },
+    {
+      "id": "5050906",
+      "time": "2026-08-21 08:10:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【招商證券：恒生科技指數擴容 產業趨勢變化利好雲廠】招商證券策略報告指出，近期港股市場出現了一系列積極變化。第一，恒生科技指數編制規則改進，成分股擴容並且將收入增速納入篩選標準，回應了市場對於指數“含科量”不足的擔憂。第二，從最新產業趨勢變化來看，AI產業的利潤正在由AI硬體與大模型向雲廠商轉移，港股較為受益。往後看，依然看好港股市場投資機會。"
+    },
+    {
+      "id": "te:markets:577006",
+      "time": "2026-08-21 08:10:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Set for Third Straight Weekly Gain — Silver traded above $68 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 5% this week after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Silver also pushed higher even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran, with the two sides locked in a standoff over the Strait of Hormuz."
+    },
+    {
+      "id": "5050905",
+      "time": "2026-08-21 08:10:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格林生物網上發行最終中籤率為0.0144%】據交易所公告，格林生物公佈網上申購情況及中籤率，本次網上發行有效申購戶數為14861576戶，有效申購股數為86910915500股。回撥機制啟動後，網下最終發行數量為1498.75萬股，佔扣除最終戰略配售後發行數量的54.53%，網上最終發行數量為1249.7萬股，佔扣除最終戰略配售數量後發行數量的45.47%。回撥機制啟動後，本次網上發行最終中籤率為0.0143790914%。"
+    },
     {
       "id": "te:markets:577003",
       "time": "2026-08-21 08:07:54",
@@ -146641,113 +146721,6 @@
         "國際"
       ],
       "text": "日本晶片相關股大幅上漲， 鎧俠股價上漲6.9%，軟銀集團上漲6.2%，愛德萬測試上漲6.5%。"
-    },
-    {
-      "id": "5040198",
-      "time": "2026-08-14 08:11:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沈曉明走訪調研藍思科技股份有限公司】據湖南日報，8月13日，湖南省委書記沈曉明在長沙走訪調研藍思科技股份有限公司，瞭解企業規劃佈局，面對面聽取意見建議。他指出，要加強產業鏈協同，構建創新聯合體，著力打造更具競爭力的產業叢集，為推動湖南高質量發展作出更大貢獻。"
-    },
-    {
-      "id": "5040197",
-      "time": "2026-08-14 08:11:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲縮短工期，100天造一座資料中心】8月12日，阿里雲靈駿真武M890超節點例項正式上線。首發地，就選在烏蘭察布。記者深入烏蘭察布，現場走訪了阿里巴巴資料中心。其作為阿里雲五大超級資料中心之一，綠電佔比約90%，可為高密度算力提供更低碳的執行環境。記者獲悉，在當地，阿里雲透過全模組化設計架構，已將大型AIDC資料中心的交付工期，縮短至100天。（21財經）"
-    },
-    {
-      "id": "te:markets:575212",
-      "time": "2026-08-14 08:11:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Semiconductor Manufacturing International earnings above expectations at 0.40 CNY — Semiconductor Manufacturing International (688981) released earnings per share at 0.40 CNY, compared to market expectations of 0.26 CNY."
-    },
-    {
-      "id": "te:markets:575211",
-      "time": "2026-08-14 08:11:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Semiconductor Manufacturing International earnings above expectations at 0.06 USD — Semiconductor Manufacturing International (0981) released earnings per share at 0.06 USD, compared to market expectations of 0.04 USD."
-    },
-    {
-      "id": "te:markets:575210",
-      "time": "2026-08-14 08:11:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "China Mobile earnings above expectations at 1.84 HKD — China Mobile (941) released earnings per share at 1.84 HKD, compared to market expectations of 1.38 HKD."
-    },
-    {
-      "id": "mkt:019ffd9b-ba8d-7aab-9030-45c21f8952a4",
-      "time": "2026-08-14 08:11:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 53.3 points (-0.58%) at 9,135.2 on Aug 14 (Fri)."
-    },
-    {
-      "id": "mkt:019ffd9b-869a-7aab-9030-3946c207146c",
-      "time": "2026-08-14 08:10:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. denies reports of crew deaths, suicide surge aboard USS Abraham Lincoln】U.S. Central Command (CENTCOM) said on social media that multiple media reports in the past 48 hours about the USS Abraham Lincoln's Middle East deployment were \"false.\" CENTCOM said claims that seven sailors died in a shipboard brawl and that onboard suicide ideation had surged were \"fabricated,\" and that there have been no deaths aboard the carrier; a sailor who went overboard on Aug. 3 was rapidly and safely rescued. CENTCOM added the Lincoln has one of the Navy's highest re-enlistment rates and, after more than 260 days at sea, roughly 10,000 sorties and 1.5 million pounds of ordnance, the carrier strike group's sailors and Marines remain \"resolute\" with \"high morale.\""
-    },
-    {
-      "id": "5040196",
-      "time": "2026-08-14 08:10:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【早間公告：盛新鋰能向特定物件發行股票申請獲深交所受理】早間公告：①盛新鋰能：向特定物件發行股票申請獲深交所受理。②英可瑞：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。③天奇股份：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。④華天科技：發行股份及支付現金購買資產並募集配套資金暨關聯交易事項獲深交所併購重組稽核委員會稽核透過。"
-    },
-    {
-      "id": "te:markets:575209",
-      "time": "2026-08-14 08:09:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Arab Emirates",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Abu Dhabi National Energy earnings in line with market expectations at 0.02 AED — Abu Dhabi National Energy (TAQA) released earnings per share at 0.02 AED."
-    },
-    {
-      "id": "5040195",
-      "time": "2026-08-14 08:09:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美否認林肯號水兵鬥毆致死自殺激增】美軍中央司令部今天（8月14日）在社交媒體平臺發帖稱，過去48小時內，多家媒體就“林肯”號航母部署中東期間的情況釋出了“虛假報道”。其中一則報道稱“有7名水兵在艦上鬥毆中喪生”，另一些報道則暗示“艦上水兵自殺念頭激增”——這些報道“純屬捏造”。美軍中央司令部稱，“林肯”號在所有美軍航母中，一直保持著“最高的人員續約率之一（84.4%）”。在海上連續部署超過260天、執行1萬架次飛行任務、投擲150萬磅彈藥之後，“林肯”號航母打擊群的海軍及海軍陸戰隊官兵依然“意志堅定、士氣高昂”。艦上“並無任何軍人死亡”，8月3日那名落水的水兵也已被迅速且安全地救起。（CCTV國際時訊）"
-    },
-    {
-      "id": "5040194",
-      "time": "2026-08-14 08:09:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本財務省前財務官古澤滿宏：日本央行可能於9月加息，隨後於12月或明年1月再次加息】日本財務省前財務官古澤滿宏稱，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。日美協調幹預日元的行動隨時可能再次發生。如果日元再度回到7月底日美聯合干預前的水平，日本和美國可能再次進行干預。日本央行可能於9月加息，隨後於12月或明年1月再次加息。日本央行最終可能希望將利率提高至1.5%-1.75%左右。"
     }
   ]
 }
