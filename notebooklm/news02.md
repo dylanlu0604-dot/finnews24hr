@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:01:15_
-_本檔包含 3397 則快訊，約 658092 字_
+_更新時間：2026-08-22 02:51:02_
+_本檔包含 3400 則快訊，約 656958 字_
+
+---
+
+### 2026-08-21 01:33:09  #公司
+
+谷歌： ANTIGRAVITY 現已作為符合條件的Gemini企業應用訂閱的一部分提供，包括開箱即用的管理與支出控制功能。
+
+---
+
+### 2026-08-21 01:30:58  #MKT News
+
+The U.S. Commodity Futures Trading Commission is seeking public comment on a proposal to eliminate the requirement that swap execution facilities (SEFs) provide an order book for permitted transactions.
+
+---
+
+### 2026-08-21 01:29:03  #MKT News
+
+Syrian foreign minister said his visit to Pakistan was successful and will further strengthen bilateral ties and broaden areas for cooperation.
+
+---
+
+### 2026-08-21 01:28:32  #公司
+
+卡斯凱茲公司將部分贖回 2028 年到期、票面利率 5.375% 的高階債券。
+
+---
+
+### 2026-08-21 01:27:29  #MKT News
+
+Kyiv mayor reports a fire in a non-residential area of Holosiivskyi district; firefighters are extinguishing the blaze. One person injured; medical teams are providing assistance.
+
+---
+
+### 2026-08-21 01:27:09  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週四使用規模為2.25億美元（交易對手1家），上個交易日報1.55億美元。
+
+---
+
+### 2026-08-21 01:26:11  #國際
+
+俄羅斯國防部：俄防空力量當天在俄羅斯境內以及黑海和亞速海海域上空攔截並擊落了64架烏克蘭無人機。
+
+---
+
+### 2026-08-21 01:24:10  #公司
+
+南非國家電力公司（ESKOM）：該限制涉及 2015 年至 2026 年 3 月 31 日期間的相關案件。
+
+---
+
+### 2026-08-21 01:23:47  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Citigroup trims dollar forecast, cites dovish Fed bets and Treasury repo pressure】Citigroup's FX strategists, led by Daniel Toban, turned short-term bearish on the US dollar, citing markets pricing a more dovish Fed, US midterm election risk and the US Treasury's expansion of repo operations in 10–30yr securities. The team cut its 3-month dollar-index forecast to 98.34 from 102.12. Citi noted Treasury Secretary Bessent's move to expand long‑term Treasury repo as a potential drag on the dollar; the dollar index hit its weakest level since May on Wednesday and traded around 98.9 on Thursday, and the team said downside risks to the dollar have increased after a recent neutral stance.
+
+---
+
+### 2026-08-21 01:23:29  #其他
+
+沙特可再生能源基金：我們將為貧困和低收入家庭提供全額補貼，支援安裝5.5萬臺太陽能熱水器，並對中等收入群體給予扶持。
+
+---
+
+### 2026-08-21 01:22:59  #公司
+
+南非國家電力公司（ESKOM）：相關供應商最長遭限制 10 年。
+
+---
+
+### 2026-08-21 01:22:32  #公司
+
+南非國家電力公司（ESKOM）啟動供應商懲戒程式，限制 101 家供應商。
+
+---
+
+### 2026-08-21 01:20:33  #MKT News #Market Regions #Europe & UK
+
+OpenAI has enabled the "Computer History" feature in its Mac desktop app for Pro, Business and Enterprise users in the European Economic Area, the UK and Switzerland.
+
+---
+
+### 2026-08-21 01:19:40  #國際
+
+美國將數艘與厄瓜多有關聯的漁船列入制裁名單。
+
+---
+
+### 2026-08-21 01:19:28  #國際
+
+美國製裁古巴建設部。
+
+---
+
+### 2026-08-21 01:18:57  #MKT News #Macro & Rates #US Economy #WMT.N #Impact bearish #TGT.O #Impact bullish #HD.O
+
+【Retail results show US consumers still spending but shifting to value amid higher prices】Retail reports indicate US consumers continue to spend but are under pressure. Walmart (WMT.N) on Thursday posted its slowest sales-growth in more than six years, citing a drag from its pharmacy business; the company said overall spending remains relatively stable while shoppers prioritize higher-value items. Target and Home Depot also reported sales gains and described demand as resilient when price and product match. Walmart CFO John Rainey said customers are making trade-offs, buying fewer items per trip, and that rising fuel costs have increased pressure versus earlier in the year.
+
+---
+
+### 2026-08-21 01:18:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Ukrainian President Zelenskiy said Ukraine will respond to Russia's large-scale attack and that the response will employ long-range strikes.
+
+---
+
+### 2026-08-21 01:18:00  #其他
+
+OpenAI：計算機網頁現已在歐元區、英國和瑞士對 Mac 上的 ChatGPT Pro、Business 和 Enterprise 使用者開放。 ChatGPT 可以記住您在應用和網站上的活動，因此未來的對話會感覺更個性化，並且需要更少的上下文。
+
+---
+
+### 2026-08-21 01:17:17  #國際
+
+美國製裁與真主黨有關聯的土耳其個人。
+
+---
+
+### 2026-08-21 01:17:09  #國際
+
+美國將與厄瓜多和古巴有關聯的實體列入制裁名單。
+
+---
+
+### 2026-08-21 01:17:01  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $225 mln from one counterparty in a fixed-rate reverse repurchase operation.
 
 ---
 
@@ -20403,113 +20529,5 @@ Tariq Saleh, vice president of Yemen's Presidential Leadership Council, said his
 ### 2026-08-20 01:23:29  #其他 #焦點
 
 【OpenAI預覽前沿模型私有安全處理功能】OpenAI正在預覽私有安全處理功能，該功能可監控複雜人工智慧互動，同時不留存客戶資料，也不違背企業安全合規義務。該系統基於零資料留存架構構建，確保提示詞與模型回覆不會被儲存，OpenAI工作人員也無法檢視。除非客戶明確選擇許可，企業客戶資料將不會用於模型訓練。該系統目前正在部分早期企業使用者中開展測試，計劃於9月全面推出，並同步釋出技術白皮書。
-
----
-
-### 2026-08-20 01:23:26  #MKT News
-
-Yemen Presidential Council deputy chair Tariq Saleh said Houthi forces have so far launched 56 ballistic missiles and 44 drones at Yemen's west coast.
-
----
-
-### 2026-08-20 01:22:23  #MKT News
-
-Yemen's Presidential Leadership Council vice chairman Tariq Saleh said the confrontation with Houthi forces has changed with the introduction of new weaponry, including drones.
-
----
-
-### 2026-08-20 01:20:42  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY
-
-【CITIGROUP doubts 'hawkish' tilt in Fed minutes; JP Morgan highlights internal inflation split】Three Fed officials dissented at the July meeting, arguing for a hike because core inflation was 2.6%—well above the 2% target. August data have weakened that rationale: core CPI (ex food and energy) rose 2.5% YoY in July, the weakest since Mar 2021, and July payrolls showed a decline of 23,000 jobs. CITIGROUP US chief economist Andrew Hollenhorst said those prints will make it difficult for the minutes to materially raise the market’s reduced odds of further rate hikes. The minutes should still clarify how large the Fed’s internal “hawk” vs “dove” split was at the July meeting and may reveal how officials plan to define and assess inflation pressures going forward. JP Morgan chief US economist Michael Feroli said the minutes could show how much tolerance FOMC members have for inflation above the target.
-
----
-
-### 2026-08-20 01:18:39  #MKT News #Market Themes #AI Revolution
-
-OpenAI launches preview of "Private Safety Processing" to bolster AI interaction safety without changing its zero-data-retention approach. The feature will be rolled out in phases starting in September and OpenAI will publish a technical white paper.
-
----
-
-### 2026-08-20 01:18:06  #其他
-
-OpenAI：預覽私人安全處理功能，該功能在保持與零資料保留相容的同時，加強了互動過程中的安全防護。
-
----
-
-### 2026-08-20 01:17:08  #其他
-
-OpenAI：將於9月推出私有安全處理功能。
-
----
-
-### 2026-08-20 01:16:46  #其他
-
-OpenAI：零資料留存內容不會被留存，也不會用於模型訓練。
-
----
-
-### 2026-08-20 01:16:26  #央行 #國際
-
-18家交易對手在美聯儲逆回購操作中獲得3.17億美元。
-
----
-
-### 2026-08-20 01:16:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Fed accepted $317 mln from 18 counterparties in fixed-rate reverse repo operations.
-
----
-
-### 2026-08-20 01:16:11  #其他
-
-OpenAI：前沿模型提供零資料留存功能。
-
----
-
-### 2026-08-20 01:15:54  #國際
-
-俄羅斯國防部通報，當日俄防空部隊在俄境內各地區共攔截並擊落438架烏克蘭無人機。
-
----
-
-### 2026-08-20 01:15:37  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Russian Defence Ministry said its air-defence forces shot down 438 Ukrainian drones in one day.
-
----
-
-### 2026-08-20 01:11:33  #MKT News
-
-The office of Canada's minister for Canada-U.S. trade, LeBlanc, said he is returning to Ottawa to meet the Prime Minister and attend other meetings to push to finalize Canada-U.S. trade negotiations.
-
----
-
-### 2026-08-20 01:11:03  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
-
-Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.27%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.67 basis points, and in the last 12 months, it increased 55.80 basis points.
-
----
-
-### 2026-08-20 01:11:00  #市場
-
-WTI原油日內漲2%，現報85.75美元/桶。
-
----
-
-### 2026-08-20 01:10:59  #國際
-
-加拿大負責美國貿易事務的部長多米尼克·勒布朗正返回渥太華，與總理會面並參加其他必要會議，以完成貿易談判。
-
----
-
-### 2026-08-20 01:10:27  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Retreats From Three-Week High — US gasoline futures traded below $3.30 per gallon, retreating from a three-week high as traders weighed uncertainty surrounding the Strait of Hormuz against an unexpected build in domestic inventories. EIA data showed US gasoline stocks increased by 0.688 million barrels in the week ending August 14th, missing expectations for a 1.2 million-barrel draw. Inventories are now 5% below their seasonal average, narrowing from 6% the previous week. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, noting that refiners are operating at record levels. Still, fading hopes of a reopening of the Strait of Hormuz pushed oil prices higher. Trump said no talks were underway with Iran and that the waterway remained open, while Tehran said a US naval blockade was still in place. Tanker traffic remained subdued, with limited traffic still passing through the strategic route, as shipowners stayed cautious.
-
----
-
-### 2026-08-20 01:09:55  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish
-
-【U.S., Canadian leaders optimistic on tariff agreement】U.S. President Trump and Canadian Prime Minister Carney said they are optimistic about a tariff agreement as negotiating teams met in Washington. Trump said Wednesday “we have reached an agreement,” adding Canadian negotiators put forward “conditions we must get,” including greater market access for U.S. agricultural exports, and that “everything still awaits final paperwork.” Carney wrote the countries are “moving towards an agreement that will cement Canada’s advantages” and secure “the most favorable terms” in Canada’s key strategic areas, but gave no details.
 
 ---

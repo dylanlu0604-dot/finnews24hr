@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:01:15_
-_本檔包含 3333 則快訊，約 657875 字_
+_更新時間：2026-08-22 02:51:02_
+_本檔包含 3337 則快訊，約 656724 字_
+
+---
+
+### 2026-08-18 22:32:11  #MKT News #Market Themes #AI Revolution
+
+AI platform Behavox opens regional headquarters in Milan.
+
+---
+
+### 2026-08-18 22:31:22  #其他
+
+市場訊息：AI平臺Behavox設立米蘭辦事處，作為區域總部。
+
+---
+
+### 2026-08-18 22:31:00  #國際
+
+Strategic Beverage Services收購BevZero美國業務，交易條款未披露。
+
+---
+
+### 2026-08-18 22:30:25  #市場
+
+英國債務管理局表示，將於2026年8月25日透過拍賣出售40億英鎊的2033年到期、票面利率4.125%的國債。
+
+---
+
+### 2026-08-18 22:29:22  #市場 #焦點
+
+比特幣升破65000美元，日內漲0.73%。
+
+---
+
+### 2026-08-18 22:29:13  #MKT News #Market Themes #AI Revolution
+
+French budget minister said the French tax authority will conduct AI-powered cyberattack testing.
+
+---
+
+### 2026-08-18 22:27:58  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+TIMIRAOS: Cleveland Fed survey of corporate executives sees one-year-ahead CPI inflation at 3.3% (vs 3.7% in Q2). Respondents expect wage growth of 2.8% over the next year (vs 2.9% in last year’s survey) and little change in employment. R&D spending growth forecast to slow to 2.0% over the next year, down from 3.1% in last year’s survey.
+
+---
+
+### 2026-08-18 22:27:56  #其他
+
+【調查顯示：逾八成內地企業以香港作為首選出海平臺】香港貿易發展局18日釋出的調查報告顯示，內地企業正積極拓展海外業務，有94%的受訪內地涉外企業表示有意前往共建“一帶一路”國家和地區，有83%企業以香港作為首選的出海服務平臺。
+
+---
+
+### 2026-08-18 22:26:30  #MKT News
+
+UKMTO: vessel sustained starboard damage; one crew member killed. No environmental impact reported so far. Authorities are investigating.
+
+---
+
+### 2026-08-18 22:26:21  #MKT News
+
+【Baltic Dry Index falls to more than two-week low】The Baltic Dry Index (BDI) reversed a two-day gain, sliding 63 points (-2.19%) to 2,815, its lowest since July 31, as falls in capesize and panamax freight outweighed higher supramax rates. The Capesize Index (BCI) dropped 138 points (-3%) to 4,452, lowest since July 31; capesize daily earnings fell $1,250 to $36,872. The Panamax Index (BPI) fell 51 points (-2.3%) to 2,155, lowest since Aug. 3; panamax daily earnings declined $462 to $19,391. The Supramax Index (BSI) rose 3 points (0.2%) to 1,631, a high since July 28, while the Handysize Index (BHSI) added 2 points to 866.
+
+---
+
+### 2026-08-18 22:25:55  #國際
+
+【歐盟提議將以色列國家安全部長列入制裁名單】歐盟外交與安全政策首席發言人阿妮塔·希佩爾18日在布魯塞爾舉行的新聞釋出會上表示，已向各成員國提交提案，建議將以色列國家安全部長本-格維爾列入制裁名單。希佩爾在回答媒體關於本-格維爾爭議言論的提問時表示，歐盟不對言論或宣告予以置評，但是願重申立場，呼籲以色列遵守包括國際人道主義法在內的國際法，並確保平民得到保護。據外媒報道，以色列國家安全部長、以極右翼政黨猶太力量黨領導人本-格維爾日前在一檔播客節目中稱，“我認為應該在加沙實施定點清除，每晚消滅30到40人，不僅是對那些構成直接威脅的人，那裡有些人甚至不配活著。”（新華社）
+
+---
+
+### 2026-08-18 22:25:43  #MKT News #Brent #Impact bullish #WTI
+
+UKMTO said it received a report of an incident in the Strait of Hormuz on Aug. 15, in which a third-party report said a bulk carrier was struck by projectiles.
+
+---
+
+### 2026-08-18 22:25:27  #其他
+
+英國海軍：第三方報告稱散貨船遭彈體擊中。
+
+---
+
+### 2026-08-18 22:25:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【EU proposes sanctions listing for Israeli national security minister Itamar Ben-Gvir】The EU has submitted a proposal to member states to add Israeli national security minister Itamar Ben-Gvir to its sanctions list, EU foreign and security policy chief spokesperson Anita Hipper said at a Brussels press briefing on the 18th. Hipper said the EU would not comment on individual statements but reiterated calls for Israel to comply with international law, including international humanitarian law, and to ensure civilian protection. Foreign media reported Ben-Gvir, leader of the far-right Otzma Yehudit party, said on a podcast he favored “targeted eliminations” in Gaza of 30–40 people per night, beyond those posing direct threats, and that some “do not deserve to live.”
+
+---
+
+### 2026-08-18 22:24:56  #其他
+
+英國海事組織稱，8月15日收到霍爾木茲發生事件的報告。船隻右舷受損，一名船員傷亡。目前沒有環境影響報告。有關當局正在調查。
+
+---
+
+### 2026-08-18 22:24:08  #MKT News #Market Regions #Europe & UK
+
+France's budget minister said after a tax-data leak that France will notify affected companies next week.
+
+---
+
+### 2026-08-18 22:23:25  #宏觀
+
+法國預算部長：稅務機構遭駭客攻擊後，財政部將使用人工智慧測試網路安全漏洞。
+
+---
+
+### 2026-08-18 22:23:17  #其他
+
+GSK：NUCALA（美泊利珠單抗）獲加拿大藥品管理局積極報銷推薦，用於成人慢性阻塞性肺疾病治療。
+
+---
+
+### 2026-08-18 22:23:13  #其他
+
+META PLATFORMS股價觸及兩週多來低點，最新報跌3.8%。
+
+---
+
+### 2026-08-18 22:23:11  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) shares hit a two-week low, trading down 3.8%.
 
 ---
 
@@ -20020,101 +20140,5 @@ Susquehanna cuts JD.com (JD.O) PT to $30 from $35.
 ### 2026-08-17 18:02:44  #公司
 
 【千里科技：獨立董事劉雲浩辭任 將盡快完成補選】千里科技公告稱，公司董事會於2026年8月16日收到獨立董事劉雲浩的書面辭職報告，其因個人工作原因擬辭去公司獨立董事職務。該離任將導致公司獨立董事佔董事會成員比例低於三分之一，在新任獨立董事就任前，劉雲浩將繼續履行獨立董事職責，辭任將在公司股東會補選新任獨立董事後生效，其離任後不再擔任公司任何職務。截至公告披露日，劉雲浩未持有公司股份，不存在未履行完畢的公開承諾，公司將盡快完成獨立董事補選工作。
-
----
-
-### 2026-08-17 18:02:32  #公司
-
-【景順長城：旗下基金資產淨值連續低於5000萬元】景順長城公告稱，截至2026年8月14日，旗下景順長城創業板新能源交易型開放式指數證券投資基金已連續30個工作日基金資產淨值低於5000萬元，若後續連續50個工作日出現該情形，將觸發基金合同終止，無需召開基金份額持有人大會。基金進入清算程式後將不再辦理申購、贖回等業務，敬請投資人關注流動性風險。
-
----
-
-### 2026-08-17 18:02:26  #MKT News
-
-【IRGC official: Strait of Hormuz will reopen if US meets Islamabad memorandum commitments】On the 17th (local time), Islamic Revolutionary Guard Corps political deputy commander Yadollah Javani said the Strait of Hormuz will reopen once the US fulfills commitments under the Islamabad memorandum.
-
----
-
-### 2026-08-17 18:02:06  #其他
-
-希格斯菲爾德：本次投資方還包括瓦勒資本、英特爾資本、自由全球科技創投、未來資產資本以及NTT Docomo創投。
-
----
-
-### 2026-08-17 18:02:02  #公司
-
-【特變電工：擬變更3254.38萬股回購股份用途並登出】特變電工公告稱，公司擬將已回購尚未使用的3254.38萬股股份用途由“用於實施員工持股計劃或股權激勵”變更為“用於登出並減少註冊資本”，該部分回購股份累計使用資金6.00億元。登出完成後公司總股本將由50.53億股變更為50.20億股。同時本次會議還將審議修訂《公司章程》、延長向不特定物件發行可轉換公司債券股東會決議有效期至2027年9月2日、延長對應授權董事會辦理相關事宜期限至2027年9月2日的相關議案。
-
----
-
-### 2026-08-17 18:01:54  #其他
-
-【湖北金融監管局：累計支付職業傷害保障待遇6993萬元】湖北金融監管局近日釋出訊息稱，在湖北金融監管局的統籌推動下，全省保險業聚焦場景深耕破解“產品錯配”難題，以精細服務回應民生現實關切。新就業形態人員職業傷害保障試點啟動以來，累計受理待遇給付申請9170起，支付職業傷害保障待遇6993萬元；為209.38萬新業態從業人員提供市場化專屬保險保障，已賠付12.81萬人次，賠付支出1.95億元。
-
----
-
-### 2026-08-17 18:01:47  #焦點 #國際
-
-【伊朗革命衛隊官員：若美履行承諾 霍爾木茲海峽將重新開放】當地時間17日，伊朗伊斯蘭革命衛隊政治副司令亞多拉·賈瓦尼表示：“一旦美國履行伊斯蘭堡備忘錄下的承諾，霍爾木茲海峽將重新開放。”（央視新聞）
-
----
-
-### 2026-08-17 18:01:25  #宏觀
-
-【十四五”期間全國查處濫用行政權力排除、限制競爭案件290件】記者今天（17日）瞭解到，“十四五”時期，市場監管部門持續加大反壟斷執法力度，連續4年部署開展濫用行政權力排除、限制競爭執法相關專項行動，依法查處案件290件。 從涉案主體層級看，290件案件中涉及市級、縣級政府及其所屬部門的案件合計佔比超過95%，基層違法干預市場競爭問題較為突出。對此，市場監管總局健全域性地執法協同聯動機制，強化執法與公平競爭審查銜接，透過編髮執法指導性案例、組織執法沙龍、常態化業務指導等方式，著力破解基層不當干預市場競爭堵點難點，打破各類封閉小市場、自我小迴圈。 市場監管部門密切關注企業群眾反映強烈的痛點難點，健全政企溝通機制，深入推進社會民生領域執法。（央視新聞）
-
----
-
-### 2026-08-17 18:00:59  #宏觀 #國際
-
-【庫什納會晤哈馬斯領導人 多國譴責以拒絕和平計劃】美國總統特朗普的女婿庫什納與巴勒斯坦伊斯蘭抵抗運動（哈馬斯）政治局新任主席哈利勒·哈亞16日在埃及罕見會晤。同一天，埃及、卡達、土耳其等多個國家聯合發表宣告，譴責以色列拒絕加沙和平計劃，警告以方須對其行為的後果承擔全部責任。美聯社以一名中東地區官員和一名哈馬斯官員為訊息源報道，庫什納16日與哈亞會晤兩個多小時。這是庫什納自2025年10月與哈馬斯敲定加沙停火協議以來首次與哈馬斯官員會晤。哈馬斯7月20日宣佈哈亞為新任領導人，他先前是哈馬斯參與加沙停火談判的首席代表。當天與會人員還包括英國前首相布萊爾、美國發起的“和平委員會”加沙高階代表姆拉德諾夫，以及埃及、卡達、土耳其官員。（新華社）
-
----
-
-### 2026-08-17 18:00:35  #MKT News
-
-Israeli media report Netanyahu and Kushner's meeting has been underway for nearly two hours.
-
----
-
-### 2026-08-17 18:00:18  #其他
-
-希格斯菲爾德（HiggsField）完成4億美元B輪融資，估值達54億美元，年化收入已突破7億美元。
-
----
-
-### 2026-08-17 17:59:12  #其他
-
-比利時大臣弗：支奴幹直升機專案遭到其他政黨反對。
-
----
-
-### 2026-08-17 17:58:46  #宏觀
-
-【含“新、智、綠”量持續提升，7月我國鋰離子電池產量增長58.8%】今天（17日）下午，在國務院新聞辦公室舉行的新聞釋出會上，國家統計局新聞發言人表示，今年以來，我國經濟呈現動能向新、結構向優的發展態勢。含“綠”量持續提升，綠色新動能加快培育。7月份，生物基材料製造行業增加值同比增長20.6%，新能源汽車和新型儲能需求增加，帶動鋰離子電池產量增長58.8%。前7個月，我國以更低的能源消費支撐了更高質量的工業增長，規模以上工業單位增加值能耗同比下降3.5%。新能源乘用車零售滲透率連續4個月超過60%，7月份達到65.1%，相當於每賣出3輛乘用車就有約2輛是新能源汽車。
-
----
-
-### 2026-08-17 17:58:45  #Trading Economics #Markets #South Africa #Currency #Importance 0
-
-South African Rand Remains Firm — The South African rand traded around 16.2 per US dollar, close to its highest since early March, drawing support from a weaker dollar and rising prices of precious metals on easing Fed rate hike bets. Weaker-than-expected US data has scaled back bets on a September Fed hike, providing support to higher-yielding emerging-market currencies such as the rand. Meanwhile, attention turns to domestic July inflation data due on Wednesday for clues on the interest rate outlook. Headline inflation is anticipated to moderate to 4.5% in July from 5% in June, still above the central bank’s 3% target, reflecting a decline in oil prices following the partial reopening of the Strait of Hormuz. The South African Reserve Bank (SARB), which unexpectedly kept rates unchanged on July 23, after raising them in May, still sees upside risks to inflation linked to the Middle East confict. Headline Inflation is seen above 4% until early next year.
-
----
-
-### 2026-08-17 17:58:29  #MKT News #Market Regions #Europe & UK #00175.HK #Impact bullish #F.O #Impact mixed
-
-【Geely Holding Group CEO An Conghui: Volvo European plant to build Geely luxury models from 2028】Geely Holding Group will coordinate group brands and external partners to co-invest, co-develop and share production capacity, local supply chains, talent, channels and service networks. Volvo’s European plant will be a key European base for Geely group’s high-end luxury models, slated to start production in 2028. The Proton plant in Malaysia acquired by Geely is being retooled into a Southeast Asia manufacturing hub with 500,000‑vehicle capacity. The Geely‑Ford JV plant in Spain will also produce Geely models with 500,000‑vehicle capacity, targeting 2028 start-up. Geely Automobile (00175.HK) raised its 2026 export target to 920,000 vehicles from 640,000 and said it will challenge a one‑million sales target.
-
----
-
-### 2026-08-17 17:58:02  #其他
-
-據貓眼專業版資料，電影《逃出絕命街》上映4天 ，總票房破1000萬 。
-
----
-
-### 2026-08-17 17:57:43  #其他
-
-【國際基礎科學大會基礎科學創新學者2026年度入選名單揭曉】2026年8月17日，澎湃新聞從國際基礎科學大會（ICBS）主辦方獲悉，2026國際基礎科學大會“基礎科學創新學者”（ICBS Innovation Fellowship）評選結果揭曉，來自中外的11位學者入選。經過兩輪嚴格評審，根據申請人研究履歷、專家推薦信及科研專案方案，評審委員會最終從初選候選人中，遴選出11位優秀學者，入選本年度“基礎科學創新學者”支援計劃。入選學者研究領域廣泛，覆蓋幾何、代數幾何、數論、計算數學、量子場論、量子引力、中微子實驗物理、幾何影象的醫學應用、最佳化問題及人工智慧與精細證明等基礎與前沿交叉方向。（澎湃）
 
 ---

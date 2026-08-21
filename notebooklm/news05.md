@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:01:15_
-_本檔包含 3056 則快訊，約 657464 字_
+_更新時間：2026-08-22 02:51:02_
+_本檔包含 3041 則快訊，約 657157 字_
+
+---
+
+### 2026-08-17 18:02:32  #公司
+
+【景順長城：旗下基金資產淨值連續低於5000萬元】景順長城公告稱，截至2026年8月14日，旗下景順長城創業板新能源交易型開放式指數證券投資基金已連續30個工作日基金資產淨值低於5000萬元，若後續連續50個工作日出現該情形，將觸發基金合同終止，無需召開基金份額持有人大會。基金進入清算程式後將不再辦理申購、贖回等業務，敬請投資人關注流動性風險。
+
+---
+
+### 2026-08-17 18:02:26  #MKT News
+
+【IRGC official: Strait of Hormuz will reopen if US meets Islamabad memorandum commitments】On the 17th (local time), Islamic Revolutionary Guard Corps political deputy commander Yadollah Javani said the Strait of Hormuz will reopen once the US fulfills commitments under the Islamabad memorandum.
+
+---
+
+### 2026-08-17 18:02:06  #其他
+
+希格斯菲爾德：本次投資方還包括瓦勒資本、英特爾資本、自由全球科技創投、未來資產資本以及NTT Docomo創投。
+
+---
+
+### 2026-08-17 18:02:02  #公司
+
+【特變電工：擬變更3254.38萬股回購股份用途並登出】特變電工公告稱，公司擬將已回購尚未使用的3254.38萬股股份用途由“用於實施員工持股計劃或股權激勵”變更為“用於登出並減少註冊資本”，該部分回購股份累計使用資金6.00億元。登出完成後公司總股本將由50.53億股變更為50.20億股。同時本次會議還將審議修訂《公司章程》、延長向不特定物件發行可轉換公司債券股東會決議有效期至2027年9月2日、延長對應授權董事會辦理相關事宜期限至2027年9月2日的相關議案。
+
+---
+
+### 2026-08-17 18:01:54  #其他
+
+【湖北金融監管局：累計支付職業傷害保障待遇6993萬元】湖北金融監管局近日釋出訊息稱，在湖北金融監管局的統籌推動下，全省保險業聚焦場景深耕破解“產品錯配”難題，以精細服務回應民生現實關切。新就業形態人員職業傷害保障試點啟動以來，累計受理待遇給付申請9170起，支付職業傷害保障待遇6993萬元；為209.38萬新業態從業人員提供市場化專屬保險保障，已賠付12.81萬人次，賠付支出1.95億元。
+
+---
+
+### 2026-08-17 18:01:47  #焦點 #國際
+
+【伊朗革命衛隊官員：若美履行承諾 霍爾木茲海峽將重新開放】當地時間17日，伊朗伊斯蘭革命衛隊政治副司令亞多拉·賈瓦尼表示：“一旦美國履行伊斯蘭堡備忘錄下的承諾，霍爾木茲海峽將重新開放。”（央視新聞）
+
+---
+
+### 2026-08-17 18:01:25  #宏觀
+
+【十四五”期間全國查處濫用行政權力排除、限制競爭案件290件】記者今天（17日）瞭解到，“十四五”時期，市場監管部門持續加大反壟斷執法力度，連續4年部署開展濫用行政權力排除、限制競爭執法相關專項行動，依法查處案件290件。 從涉案主體層級看，290件案件中涉及市級、縣級政府及其所屬部門的案件合計佔比超過95%，基層違法干預市場競爭問題較為突出。對此，市場監管總局健全域性地執法協同聯動機制，強化執法與公平競爭審查銜接，透過編髮執法指導性案例、組織執法沙龍、常態化業務指導等方式，著力破解基層不當干預市場競爭堵點難點，打破各類封閉小市場、自我小迴圈。 市場監管部門密切關注企業群眾反映強烈的痛點難點，健全政企溝通機制，深入推進社會民生領域執法。（央視新聞）
+
+---
+
+### 2026-08-17 18:00:59  #宏觀 #國際
+
+【庫什納會晤哈馬斯領導人 多國譴責以拒絕和平計劃】美國總統特朗普的女婿庫什納與巴勒斯坦伊斯蘭抵抗運動（哈馬斯）政治局新任主席哈利勒·哈亞16日在埃及罕見會晤。同一天，埃及、卡達、土耳其等多個國家聯合發表宣告，譴責以色列拒絕加沙和平計劃，警告以方須對其行為的後果承擔全部責任。美聯社以一名中東地區官員和一名哈馬斯官員為訊息源報道，庫什納16日與哈亞會晤兩個多小時。這是庫什納自2025年10月與哈馬斯敲定加沙停火協議以來首次與哈馬斯官員會晤。哈馬斯7月20日宣佈哈亞為新任領導人，他先前是哈馬斯參與加沙停火談判的首席代表。當天與會人員還包括英國前首相布萊爾、美國發起的“和平委員會”加沙高階代表姆拉德諾夫，以及埃及、卡達、土耳其官員。（新華社）
+
+---
+
+### 2026-08-17 18:00:35  #MKT News
+
+Israeli media report Netanyahu and Kushner's meeting has been underway for nearly two hours.
+
+---
+
+### 2026-08-17 18:00:18  #其他
+
+希格斯菲爾德（HiggsField）完成4億美元B輪融資，估值達54億美元，年化收入已突破7億美元。
+
+---
+
+### 2026-08-17 17:59:12  #其他
+
+比利時大臣弗：支奴幹直升機專案遭到其他政黨反對。
+
+---
+
+### 2026-08-17 17:58:46  #宏觀
+
+【含“新、智、綠”量持續提升，7月我國鋰離子電池產量增長58.8%】今天（17日）下午，在國務院新聞辦公室舉行的新聞釋出會上，國家統計局新聞發言人表示，今年以來，我國經濟呈現動能向新、結構向優的發展態勢。含“綠”量持續提升，綠色新動能加快培育。7月份，生物基材料製造行業增加值同比增長20.6%，新能源汽車和新型儲能需求增加，帶動鋰離子電池產量增長58.8%。前7個月，我國以更低的能源消費支撐了更高質量的工業增長，規模以上工業單位增加值能耗同比下降3.5%。新能源乘用車零售滲透率連續4個月超過60%，7月份達到65.1%，相當於每賣出3輛乘用車就有約2輛是新能源汽車。
+
+---
+
+### 2026-08-17 17:58:45  #Trading Economics #Markets #South Africa #Currency #Importance 0
+
+South African Rand Remains Firm — The South African rand traded around 16.2 per US dollar, close to its highest since early March, drawing support from a weaker dollar and rising prices of precious metals on easing Fed rate hike bets. Weaker-than-expected US data has scaled back bets on a September Fed hike, providing support to higher-yielding emerging-market currencies such as the rand. Meanwhile, attention turns to domestic July inflation data due on Wednesday for clues on the interest rate outlook. Headline inflation is anticipated to moderate to 4.5% in July from 5% in June, still above the central bank’s 3% target, reflecting a decline in oil prices following the partial reopening of the Strait of Hormuz. The South African Reserve Bank (SARB), which unexpectedly kept rates unchanged on July 23, after raising them in May, still sees upside risks to inflation linked to the Middle East confict. Headline Inflation is seen above 4% until early next year.
+
+---
+
+### 2026-08-17 17:58:29  #MKT News #Market Regions #Europe & UK #00175.HK #Impact bullish #F.O #Impact mixed
+
+【Geely Holding Group CEO An Conghui: Volvo European plant to build Geely luxury models from 2028】Geely Holding Group will coordinate group brands and external partners to co-invest, co-develop and share production capacity, local supply chains, talent, channels and service networks. Volvo’s European plant will be a key European base for Geely group’s high-end luxury models, slated to start production in 2028. The Proton plant in Malaysia acquired by Geely is being retooled into a Southeast Asia manufacturing hub with 500,000‑vehicle capacity. The Geely‑Ford JV plant in Spain will also produce Geely models with 500,000‑vehicle capacity, targeting 2028 start-up. Geely Automobile (00175.HK) raised its 2026 export target to 920,000 vehicles from 640,000 and said it will challenge a one‑million sales target.
+
+---
+
+### 2026-08-17 17:58:02  #其他
+
+據貓眼專業版資料，電影《逃出絕命街》上映4天 ，總票房破1000萬 。
+
+---
+
+### 2026-08-17 17:57:43  #其他
+
+【國際基礎科學大會基礎科學創新學者2026年度入選名單揭曉】2026年8月17日，澎湃新聞從國際基礎科學大會（ICBS）主辦方獲悉，2026國際基礎科學大會“基礎科學創新學者”（ICBS Innovation Fellowship）評選結果揭曉，來自中外的11位學者入選。經過兩輪嚴格評審，根據申請人研究履歷、專家推薦信及科研專案方案，評審委員會最終從初選候選人中，遴選出11位優秀學者，入選本年度“基礎科學創新學者”支援計劃。入選學者研究領域廣泛，覆蓋幾何、代數幾何、數論、計算數學、量子場論、量子引力、中微子實驗物理、幾何影象的醫學應用、最佳化問題及人工智慧與精細證明等基礎與前沿交叉方向。（澎湃）
 
 ---
 
@@ -18276,191 +18372,5 @@ Market sources say U.S. President Trump is expected to attend a meeting on predi
 ### 2026-08-15 02:53:00  #公司
 
 【老虎環球Q2建倉SpaceX和AMD 減持谷歌、臺積電、英偉達等】老虎環球基金二季度大規模調倉。減持方面：博通削減51.1%至180萬股，谷歌A削減45.4%至580萬股A類股，臺積電削減12.3%至490萬份ADS，微軟削減9.3%至230萬股，Meta Platforms削減8.5%至280萬股A類股，英偉達削減6.8%至1120萬股，京東削減41.5%至20.15萬份ADS。增持方面，英特爾增持至430萬股。新建倉AMD67.4萬股以及SpaceX37.5萬股。清倉奈飛。
-
----
-
-### 2026-08-15 02:48:21  #MKT News #Star Stocks #NVIDIA #Alphabet #Microsoft #Meta Platforms #JD.com #Market Themes #Magnificent 7 #AMD.O #Impact bullish #GOOGL.O #Impact bearish #NVDA.O
-
-【Tiger Global Q2 builds SpaceX, AMD; trims Alphabet, TSMC, NVIDIA and others】Tiger Global in Q2 opened positions in SpaceX (SPCX.O) 375.0k shares and AMD (AMD.O) 674.0k shares, and increased Intel (INTC.O) to 4.3 mln shares. It cut Broadcom (AVGO.O) 51.1% to 1.8 mln shares, Alphabet Class A (GOOGL.O) 45.4% to 5.8 mln shares, TSMC ADS (TSM.N) 12.3% to 4.9 mln ADS, Microsoft (MSFT.O) 9.3% to 2.3 mln shares, Meta Platforms Class A (META.O) 8.5% to 2.8 mln shares, NVIDIA (NVDA.O) 6.8% to 11.2 mln shares and JD.com ADS (JD.O) 41.5% to 201.5k ADS. The fund fully exited Netflix (NFLX.O).
-
----
-
-### 2026-08-15 02:41:56  #MKT News #Market Themes #Crypto Concepts #JPM.N
-
-Wall Street Journal reports JP Morgan (JPM.N) has terminated its banking relationship with Polymarket, citing regulatory concerns.
-
----
-
-### 2026-08-15 02:39:43  #觀點
-
-市場訊息：摩根大通終止與POLYMARKET的銀行業務關係。
-
----
-
-### 2026-08-15 02:38:25  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-Alphabet's self-driving unit Waymo said the California Public Utilities Commission also approved its service in Sacramento and San Diego.
-
----
-
-### 2026-08-15 02:37:48  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
-
-Waymo, Alphabet’s autonomous driving unit, said the California Public Utilities Commission approved expansion of its driverless ride-hailing service in San Francisco and Los Angeles.
-
----
-
-### 2026-08-15 02:36:52  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-08-15 02:32:01  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. crude futures settled at $82.40 a barrel, up $1.15 or 1.42%.
-
----
-
-### 2026-08-15 02:31:54  #公司
-
-Alphabet旗下自動駕駛公司Waymo： 加州公用事業委員會批准其在舊金山、洛杉磯擴大自動駕駛網約車服務。
-
----
-
-### 2026-08-15 02:31:17  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
-
-【Night session main contracts close】At the 02:30 close, Shanghai gold main contract rose 0.60% to 952 yuan/gram; Shanghai silver main contract rose 0.57% to 15,841 yuan/kg; SC crude oil main contract rose 2.60% to 569 yuan/barrel.
-
----
-
-### 2026-08-15 02:30:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D closed up 0.99% at 948.91 yuan/gram in the evening session on Friday, Aug 14. Shanghai Gold Exchange silver T+D closed up 1.06% at 15,780.0 yuan/kg in the evening session on Friday, Aug 14.
-
----
-
-### 2026-08-15 02:30:02  #市場
-
-上期所原油期貨夜盤收漲1.38%，報558.10元人民幣/桶。滬金夜盤收漲0.60%，滬銀收漲0.57%。
-
----
-
-### 2026-08-15 02:28:11  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Gilead Sciences Stock Price Hits 4-week High — Gilead Sciences shares increased to 138.33 USD, the highest since July 2026. Over the past 4 weeks, Gilead Sciences gained 5%, and in the last 12 months, it increased 16.83%.
-
----
-
-### 2026-08-15 02:27:36  #公司
-
-迪士尼執行副總裁：約 40% 的 Disney + 使用者使用過豎版影片功能。
-
----
-
-### 2026-08-15 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Gains by 3.48% — Top commodity gainers are Oat (3.48%) and Wheat (3.27%). Biggest losers are Rice (-1.34%), Sugar (-1.31%) and Lumber (-0.61%).
-
----
-
-### 2026-08-15 02:22:33  #國際
-
-據以色列第 13 頻道訊息：據悉以色列原本計劃在敘利亞發動新一輪打擊，但遭到特朗普介入阻止。
-
----
-
-### 2026-08-15 02:20:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Gains by 2.71% — Top commodity gainers are Lithium Carbonate (2.71%), Silicon (2.27%), Platinum (1.30%) and Gold (0.67%).
-
----
-
-### 2026-08-15 02:19:48  #公司
-
-Tiger Global披露二季度13F持倉：減持Alphabet、博通、Spotify、Meta等；同時新建AMD、希捷、Visa、丹納赫等倉位。增持Intuit、Corpay、Reddit、MercadoLibre等；退出AppLovin、Netflix、Zscaler、Procore等。
-
----
-
-### 2026-08-15 02:19:46  #MKT News
-
-【German Farmers' Association: heat and drought may cut or wipe out crops in some regions】On the 14th the German Farmers' Association said persistent high temperatures and drought could cause significant crop shortfalls this year. Chairman Joachim Rukwied said wheat and rapeseed yields are expected to be below average, and autumn crops including corn and soybeans may suffer large reductions. Southern Germany is particularly affected, with some crops at risk of complete failure. He added sustained heat and drought have reduced fodder production, weighing on the livestock sector.
-
----
-
-### 2026-08-15 02:15:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Methanol Rises by 2.62% — Top commodity gainers are Methanol (2.62%), Germany Natural Gas THE (1.48%), Gasoline (1.45%), Brent Crude Oil (1.31%) and Crude Oil WTI (1.22%).
-
----
-
-### 2026-08-15 02:14:11  #MKT News
-
-White House press secretary Leavitt said the administration has additional tools available to pressure Iran.
-
----
-
-### 2026-08-15 02:12:43  #MKT News
-
-【SoftBank sharply cuts TSMC stake, buys Capital One Financial】SoftBank Group said in a US SEC filing that in Q2 it bought 276,811 shares of Capital One Financial, leaving a quarter‑end position valued at about $55.5 mln. The group trimmed its Taiwan Semiconductor Manufacturing Co (TSMC) holding by 71.5%, selling roughly 1.4 mln shares and raising approximately $269.8 mln. SoftBank also modestly increased its Life360 stake by 10,718 shares, a position worth about $488,500 at quarter‑end.
-
----
-
-### 2026-08-15 02:12:33  #國際
-
-白宮新聞秘書萊維特：美國可以繼續制裁伊朗，重創其經濟。
-
----
-
-### 2026-08-15 02:12:05  #國際
-
-白宮新聞秘書萊維特：（談及對伊朗施壓）我們手上還有更多可用手段。
-
----
-
-### 2026-08-15 02:11:24  #公司
-
-加拿大汽車工人工會表示，已收到斯特蘭蒂斯集團通知，該集團正認真考慮關閉並出售安大略省布蘭普頓工廠。
-
----
-
-### 2026-08-15 02:10:08  #國際
-
-烏克蘭總統澤連斯基：與埃及總統討論了黑海局勢。
-
----
-
-### 2026-08-15 02:10:06  #MKT News
-
-Zelenskiy said he discussed the Black Sea situation with Egypt's president.
-
----
-
-### 2026-08-15 02:08:52  #MKT News #AVGO.O #Impact bearish
-
-Broadcom (AVGO.O) shares extended losses to 6.85% and hit an intraday low, marking the largest single-day decline since June 5.
-
----
-
-### 2026-08-15 02:08:42  #其他
-
-英國政府釋出關於野火風險的嚴重警報，稱發生野火的風險極高。
-
----
-
-### 2026-08-15 02:08:27  #MKT News
-
-UK government issued a severe wildfire alert, saying the risk of wildfires is extremely high.
-
----
-
-### 2026-08-15 02:07:00  #公司
-
-老虎環球管理有限責任公司披露持有 SpaceX 375000 股 A 類股份。
-
----
-
-### 2026-08-15 02:04:44  #其他
-
-【德國農民協會：高溫乾旱或致部分地區農作物減產甚至絕收】當地時間14日，德國農民協會表示，受持續高溫乾旱影響，今年德國農業可能出現明顯減產。德國農民協會主席約阿希姆·魯克維德表示，今年小麥和油菜籽的產量預計將低於平均水平，玉米、大豆等秋季作物也可能出現較大幅度減產。魯克維德說，德國南部受乾旱影響尤為嚴重，農作物面臨絕收的風險。他還指出，持續高溫和乾旱還導致飼料作物減產，畜牧業也受到影響。（央視新聞）
 
 ---

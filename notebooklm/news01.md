@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:01:15_
-_本檔包含 3020 則快訊，約 657774 字_
+_更新時間：2026-08-22 02:51:02_
+_本檔包含 3017 則快訊，約 657831 字_
+
+---
+
+### 2026-08-22 02:50:02  #公司
+
+SpaceXAI：在谷歌雲 Vertex AI 平臺上線 Grok 4.6。
+
+---
+
+### 2026-08-22 02:47:06  #國際
+
+美國發布與委內瑞拉電信行業相關的通用許可。
+
+---
+
+### 2026-08-22 02:45:46  #其他
+
+蘋果裁減 Siri、Vision Pro 三維影片以及遊戲團隊的人員，將波及 200 餘人。
+
+---
+
+### 2026-08-22 02:39:27  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canada 10-Year Yield Hits Highest Since 2024 — Canada’s 10-year government bond yield rose to 3.76%, its highest level since April 2024, as a global selloff in government bonds pushed long-term borrowing costs across developed markets to multiyear highs. The move tracked higher US Treasury yields, which rebounded after losses triggered by the Treasury Department’s announcement of a larger bond buyback. Global yields had previously surged on rising US Treasury yields, as increased credit supply and persistent inflation risks fueled a broader aversion to longer-maturity bonds. Oil prices remained elevated near multi-month highs, adding to inflation concerns. In contrast, weaker-than-expected retail sales indicated softer consumer spending and reinforced expectations that the BoC will keep interest rates unchanged next week. However, stronger-than-expected factory sales and a resilient labor market provided a counterpoint, while the economy is estimated to have expanded at an annualized 3.4% in 2Q26, above the BoC’s 2.5% forecast.
+
+---
+
+### 2026-08-22 02:34:37  #國際
+
+美國農業專業刊物 Pro Farmer 實地調研後預估：2026 年美國大豆總產量 45.72 億蒲式耳（美國農業部 USDA 預估 45.19 億蒲式耳），平均單產 53.3 蒲式耳 / 英畝。
+
+---
+
+### 2026-08-22 02:34:16  #國際
+
+美國農業專業刊物 Pro Farmer 實地調研後預估：2026 年美國玉米總產量為 153.44 億蒲式耳（美國農業部 USDA 預估為 160.13 億蒲式耳），平均單產 173.2 蒲式耳 / 英畝。
+
+---
+
+### 2026-08-22 02:31:07  #市場
+
+WTI 9月原油期貨收報87.06美元/桶。NYMEX 9月天然氣期貨收報2.7730美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.3479美元/加侖，NYMEX 9月取暖油期貨收報4.4948美元/加侖。
+
+---
+
+### 2026-08-22 02:30:05  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Surges by 10.08% — Top crypto gainers are XRP (10.08%), Bitcoin (5.97%) and Ether (4.22%).
+
+---
+
+### 2026-08-22 02:30:02  #市場
+
+上期所原油期貨夜盤收漲1.69%，報602.40元人民幣/桶。滬金夜盤收漲2.36%，滬銀收漲2.15%。
+
+---
+
+### 2026-08-22 02:28:37  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Deere & Company Stock Price Hits 25-week High — Deere & Company shares increased to 644.00 USD, the highest since February 2026. Over the past 4 weeks, Deere & Company gained 5.84%, and in the last 12 months, it increased 29.6%.
+
+---
+
+### 2026-08-22 02:28:16  #其他
+
+法國達飛海運（CMA CGM）將對所有經安特衛普、澤布呂赫、鹿特丹轉運的運輸方式徵收內陸緊急附加費。
+
+---
+
+### 2026-08-22 02:25:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rice Rises by 3.60% — Top commodity gainers are Rice (3.60%), Rubber (1.27%) and Palm Oil (1.15%). Biggest losers are Wool (-3.26%) and Canola (-2.57%).
+
+---
+
+### 2026-08-22 02:20:43  #宏觀 #市場 #國際
+
+【達利歐建議拋債買黃金和比特幣】億萬富翁瑞·達利歐表示，投資者應該降低債券倉位並將不超過15%的資金投入黃金，以此對沖他認為三年左右會爆發的美國債務危機風險。達利歐發帖說，應分散投資於各類資產和財政狀況強勁的國家。達利歐建議，低配債券並將投資組合的約10%至15%配置黃金以及“少量”比特幣。他說這樣做既能降低風險又能提高收益。達利歐長期以來一直就政府債務不斷攀升的危險大聲疾呼。美國長期國債收益率已升至多年來的最高位，而其最大債權國日本為捍衛本幣而拋售美債。財政部長斯科特·貝森特為遏制債券暴跌本週宣佈了擴大長債回購的計劃，然而這一出人意料的舉措迄今為止除了短暫託底外收效甚微。達利歐估計，今年美國政府財政收入約為5.5萬億美元，而支出高達7.5萬億美元，留下了2萬億美元的缺口。僅利息支出就將達到約1萬億美元，此外還有約10萬億美元的債務需要再融資。他預計，若不改弦易轍美國可能在“三年內、上下浮動兩年”爆發債務危機。
+
+---
+
+### 2026-08-22 02:20:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Gains by 2.70% — Top commodity gainers are Platinum (2.70%), Gold (2.45%) and Silver (2.34%).
+
+---
+
+### 2026-08-22 02:16:20  #其他
+
+英偉達同意支付60億美元，獲得Poolside的AI模型許可。
+
+---
+
+### 2026-08-22 02:15:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Gasoline Gains by 2.95% — Top commodity gainers are Gasoline (2.95%), Methanol (2.78%), Natural Gas EU (1.84%), Brent Crude Oil (0.62%) and Crude Oil WTI (0.33%). Biggest loser is Propane (-1.94%).
+
+---
+
+### 2026-08-22 02:07:15  #國際
+
+美國最高法院暫允許特朗普政府繼續推進白宮宴會廳的建設工程。
+
+---
+
+### 2026-08-22 02:03:19  #國際
+
+據半島電視臺：伊朗議會將對已敲定的伊朗與阿曼優惠貿易協議進行審議。
 
 ---
 
@@ -18103,131 +18211,5 @@ Google (GOOG.O): Antigravity, its AI agent development platform, is now availabl
 ### 2026-08-21 01:33:14  #MKT News #Commodities #Industrial Metals
 
 【U.S.-backed consortium to invest about $500m in Tanzanian Kabanga nickel project】A U.S.-backed consortium is negotiating an investment of roughly $500–600m to develop the Kabanga nickel project in Tanzania as the Trump administration pushes to secure critical metal supplies. The group, formed in October and backed by the U.S. International Development Finance Corporation (DFC) and Abu Dhabi’s L'imad Holding, would have Orion CMC acquire a stake in Kabanga Nickel, the Lifezone Metals unit that holds the project; one source said the amount is closer to $500m.
-
----
-
-### 2026-08-21 01:33:09  #公司
-
-谷歌： ANTIGRAVITY 現已作為符合條件的Gemini企業應用訂閱的一部分提供，包括開箱即用的管理與支出控制功能。
-
----
-
-### 2026-08-21 01:30:58  #MKT News
-
-The U.S. Commodity Futures Trading Commission is seeking public comment on a proposal to eliminate the requirement that swap execution facilities (SEFs) provide an order book for permitted transactions.
-
----
-
-### 2026-08-21 01:29:03  #MKT News
-
-Syrian foreign minister said his visit to Pakistan was successful and will further strengthen bilateral ties and broaden areas for cooperation.
-
----
-
-### 2026-08-21 01:28:32  #公司
-
-卡斯凱茲公司將部分贖回 2028 年到期、票面利率 5.375% 的高階債券。
-
----
-
-### 2026-08-21 01:27:29  #MKT News
-
-Kyiv mayor reports a fire in a non-residential area of Holosiivskyi district; firefighters are extinguishing the blaze. One person injured; medical teams are providing assistance.
-
----
-
-### 2026-08-21 01:27:09  #央行 #美聯儲
-
-美聯儲隔夜逆回購協議（RRP）週四使用規模為2.25億美元（交易對手1家），上個交易日報1.55億美元。
-
----
-
-### 2026-08-21 01:26:11  #國際
-
-俄羅斯國防部：俄防空力量當天在俄羅斯境內以及黑海和亞速海海域上空攔截並擊落了64架烏克蘭無人機。
-
----
-
-### 2026-08-21 01:24:10  #公司
-
-南非國家電力公司（ESKOM）：該限制涉及 2015 年至 2026 年 3 月 31 日期間的相關案件。
-
----
-
-### 2026-08-21 01:23:47  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Citigroup trims dollar forecast, cites dovish Fed bets and Treasury repo pressure】Citigroup's FX strategists, led by Daniel Toban, turned short-term bearish on the US dollar, citing markets pricing a more dovish Fed, US midterm election risk and the US Treasury's expansion of repo operations in 10–30yr securities. The team cut its 3-month dollar-index forecast to 98.34 from 102.12. Citi noted Treasury Secretary Bessent's move to expand long‑term Treasury repo as a potential drag on the dollar; the dollar index hit its weakest level since May on Wednesday and traded around 98.9 on Thursday, and the team said downside risks to the dollar have increased after a recent neutral stance.
-
----
-
-### 2026-08-21 01:23:29  #其他
-
-沙特可再生能源基金：我們將為貧困和低收入家庭提供全額補貼，支援安裝5.5萬臺太陽能熱水器，並對中等收入群體給予扶持。
-
----
-
-### 2026-08-21 01:22:59  #公司
-
-南非國家電力公司（ESKOM）：相關供應商最長遭限制 10 年。
-
----
-
-### 2026-08-21 01:22:32  #公司
-
-南非國家電力公司（ESKOM）啟動供應商懲戒程式，限制 101 家供應商。
-
----
-
-### 2026-08-21 01:20:33  #MKT News #Market Regions #Europe & UK
-
-OpenAI has enabled the "Computer History" feature in its Mac desktop app for Pro, Business and Enterprise users in the European Economic Area, the UK and Switzerland.
-
----
-
-### 2026-08-21 01:19:40  #國際
-
-美國將數艘與厄瓜多有關聯的漁船列入制裁名單。
-
----
-
-### 2026-08-21 01:19:28  #國際
-
-美國製裁古巴建設部。
-
----
-
-### 2026-08-21 01:18:57  #MKT News #Macro & Rates #US Economy #WMT.N #Impact bearish #TGT.O #Impact bullish #HD.O
-
-【Retail results show US consumers still spending but shifting to value amid higher prices】Retail reports indicate US consumers continue to spend but are under pressure. Walmart (WMT.N) on Thursday posted its slowest sales-growth in more than six years, citing a drag from its pharmacy business; the company said overall spending remains relatively stable while shoppers prioritize higher-value items. Target and Home Depot also reported sales gains and described demand as resilient when price and product match. Walmart CFO John Rainey said customers are making trade-offs, buying fewer items per trip, and that rising fuel costs have increased pressure versus earlier in the year.
-
----
-
-### 2026-08-21 01:18:40  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Ukrainian President Zelenskiy said Ukraine will respond to Russia's large-scale attack and that the response will employ long-range strikes.
-
----
-
-### 2026-08-21 01:18:00  #其他
-
-OpenAI：計算機網頁現已在歐元區、英國和瑞士對 Mac 上的 ChatGPT Pro、Business 和 Enterprise 使用者開放。 ChatGPT 可以記住您在應用和網站上的活動，因此未來的對話會感覺更個性化，並且需要更少的上下文。
-
----
-
-### 2026-08-21 01:17:17  #國際
-
-美國製裁與真主黨有關聯的土耳其個人。
-
----
-
-### 2026-08-21 01:17:09  #國際
-
-美國將與厄瓜多和古巴有關聯的實體列入制裁名單。
-
----
-
-### 2026-08-21 01:17:01  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $225 mln from one counterparty in a fixed-rate reverse repurchase operation.
 
 ---

@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:01:15_
-_本檔包含 3387 則快訊，約 657169 字_
+_更新時間：2026-08-22 02:51:02_
+_本檔包含 3385 則快訊，約 658064 字_
+
+---
+
+### 2026-08-20 01:23:26  #MKT News
+
+Yemen Presidential Council deputy chair Tariq Saleh said Houthi forces have so far launched 56 ballistic missiles and 44 drones at Yemen's west coast.
+
+---
+
+### 2026-08-20 01:22:23  #MKT News
+
+Yemen's Presidential Leadership Council vice chairman Tariq Saleh said the confrontation with Houthi forces has changed with the introduction of new weaponry, including drones.
+
+---
+
+### 2026-08-20 01:20:42  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY
+
+【CITIGROUP doubts 'hawkish' tilt in Fed minutes; JP Morgan highlights internal inflation split】Three Fed officials dissented at the July meeting, arguing for a hike because core inflation was 2.6%—well above the 2% target. August data have weakened that rationale: core CPI (ex food and energy) rose 2.5% YoY in July, the weakest since Mar 2021, and July payrolls showed a decline of 23,000 jobs. CITIGROUP US chief economist Andrew Hollenhorst said those prints will make it difficult for the minutes to materially raise the market’s reduced odds of further rate hikes. The minutes should still clarify how large the Fed’s internal “hawk” vs “dove” split was at the July meeting and may reveal how officials plan to define and assess inflation pressures going forward. JP Morgan chief US economist Michael Feroli said the minutes could show how much tolerance FOMC members have for inflation above the target.
+
+---
+
+### 2026-08-20 01:18:39  #MKT News #Market Themes #AI Revolution
+
+OpenAI launches preview of "Private Safety Processing" to bolster AI interaction safety without changing its zero-data-retention approach. The feature will be rolled out in phases starting in September and OpenAI will publish a technical white paper.
+
+---
+
+### 2026-08-20 01:18:06  #其他
+
+OpenAI：預覽私人安全處理功能，該功能在保持與零資料保留相容的同時，加強了互動過程中的安全防護。
+
+---
+
+### 2026-08-20 01:17:08  #其他
+
+OpenAI：將於9月推出私有安全處理功能。
+
+---
+
+### 2026-08-20 01:16:46  #其他
+
+OpenAI：零資料留存內容不會被留存，也不會用於模型訓練。
+
+---
+
+### 2026-08-20 01:16:26  #央行 #國際
+
+18家交易對手在美聯儲逆回購操作中獲得3.17億美元。
+
+---
+
+### 2026-08-20 01:16:14  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $317 mln from 18 counterparties in fixed-rate reverse repo operations.
+
+---
+
+### 2026-08-20 01:16:11  #其他
+
+OpenAI：前沿模型提供零資料留存功能。
+
+---
+
+### 2026-08-20 01:15:54  #國際
+
+俄羅斯國防部通報，當日俄防空部隊在俄境內各地區共攔截並擊落438架烏克蘭無人機。
+
+---
+
+### 2026-08-20 01:15:37  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+Russian Defence Ministry said its air-defence forces shot down 438 Ukrainian drones in one day.
+
+---
+
+### 2026-08-20 01:11:33  #MKT News
+
+The office of Canada's minister for Canada-U.S. trade, LeBlanc, said he is returning to Ottawa to meet the Prime Minister and attend other meetings to push to finalize Canada-U.S. trade negotiations.
+
+---
+
+### 2026-08-20 01:11:03  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.27%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.67 basis points, and in the last 12 months, it increased 55.80 basis points.
+
+---
+
+### 2026-08-20 01:11:00  #市場
+
+WTI原油日內漲2%，現報85.75美元/桶。
+
+---
+
+### 2026-08-20 01:10:59  #國際
+
+加拿大負責美國貿易事務的部長多米尼克·勒布朗正返回渥太華，與總理會面並參加其他必要會議，以完成貿易談判。
+
+---
+
+### 2026-08-20 01:10:27  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Retreats From Three-Week High — US gasoline futures traded below $3.30 per gallon, retreating from a three-week high as traders weighed uncertainty surrounding the Strait of Hormuz against an unexpected build in domestic inventories. EIA data showed US gasoline stocks increased by 0.688 million barrels in the week ending August 14th, missing expectations for a 1.2 million-barrel draw. Inventories are now 5% below their seasonal average, narrowing from 6% the previous week. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, noting that refiners are operating at record levels. Still, fading hopes of a reopening of the Strait of Hormuz pushed oil prices higher. Trump said no talks were underway with Iran and that the waterway remained open, while Tehran said a US naval blockade was still in place. Tanker traffic remained subdued, with limited traffic still passing through the strategic route, as shipowners stayed cautious.
+
+---
+
+### 2026-08-20 01:09:55  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish
+
+【U.S., Canadian leaders optimistic on tariff agreement】U.S. President Trump and Canadian Prime Minister Carney said they are optimistic about a tariff agreement as negotiating teams met in Washington. Trump said Wednesday “we have reached an agreement,” adding Canadian negotiators put forward “conditions we must get,” including greater market access for U.S. agricultural exports, and that “everything still awaits final paperwork.” Carney wrote the countries are “moving towards an agreement that will cement Canada’s advantages” and secure “the most favorable terms” in Canada’s key strategic areas, but gave no details.
 
 ---
 
@@ -20289,125 +20397,5 @@ Estonia's prime minister said authorities are investigating a fire at a defence 
 ### 2026-08-18 22:32:38  #Trading Economics #Markets #Commodity #Importance 1
 
 US Natgas Prices Rise on Tuesday — US natural gas prices climbed above $2.71/MMBtu as forecasts pointed to prolonged and intense heat across the southern and western parts of the country. Particularly high temperatures in Texas are driving greater air-conditioning use, increasing electricity demand and placing additional pressure on gas-fired power plants and the regional grid. Houston temperatures are expected to average around 100°F between August 20 and 23, while peak demand on the Texas power grid could reach a new record as wind generation declines. However, the price gains were limited by exceptionally strong domestic production. Average output in the Lower 48 states has reached 111.6 billion cubic feet per day in August, surpassing July’s record of 110.7 bcfd. Strong production and relatively mild weather earlier this year have also kept inventories above the five-year average since March. Meanwhile, gas flows to the nine major US LNG export facilities are averaging 17.2 bcfd in August, unchanged from July.
-
----
-
-### 2026-08-18 22:32:11  #MKT News #Market Themes #AI Revolution
-
-AI platform Behavox opens regional headquarters in Milan.
-
----
-
-### 2026-08-18 22:31:22  #其他
-
-市場訊息：AI平臺Behavox設立米蘭辦事處，作為區域總部。
-
----
-
-### 2026-08-18 22:31:00  #國際
-
-Strategic Beverage Services收購BevZero美國業務，交易條款未披露。
-
----
-
-### 2026-08-18 22:30:25  #市場
-
-英國債務管理局表示，將於2026年8月25日透過拍賣出售40億英鎊的2033年到期、票面利率4.125%的國債。
-
----
-
-### 2026-08-18 22:29:22  #市場 #焦點
-
-比特幣升破65000美元，日內漲0.73%。
-
----
-
-### 2026-08-18 22:29:13  #MKT News #Market Themes #AI Revolution
-
-French budget minister said the French tax authority will conduct AI-powered cyberattack testing.
-
----
-
-### 2026-08-18 22:27:58  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-TIMIRAOS: Cleveland Fed survey of corporate executives sees one-year-ahead CPI inflation at 3.3% (vs 3.7% in Q2). Respondents expect wage growth of 2.8% over the next year (vs 2.9% in last year’s survey) and little change in employment. R&D spending growth forecast to slow to 2.0% over the next year, down from 3.1% in last year’s survey.
-
----
-
-### 2026-08-18 22:27:56  #其他
-
-【調查顯示：逾八成內地企業以香港作為首選出海平臺】香港貿易發展局18日釋出的調查報告顯示，內地企業正積極拓展海外業務，有94%的受訪內地涉外企業表示有意前往共建“一帶一路”國家和地區，有83%企業以香港作為首選的出海服務平臺。
-
----
-
-### 2026-08-18 22:26:30  #MKT News
-
-UKMTO: vessel sustained starboard damage; one crew member killed. No environmental impact reported so far. Authorities are investigating.
-
----
-
-### 2026-08-18 22:26:21  #MKT News
-
-【Baltic Dry Index falls to more than two-week low】The Baltic Dry Index (BDI) reversed a two-day gain, sliding 63 points (-2.19%) to 2,815, its lowest since July 31, as falls in capesize and panamax freight outweighed higher supramax rates. The Capesize Index (BCI) dropped 138 points (-3%) to 4,452, lowest since July 31; capesize daily earnings fell $1,250 to $36,872. The Panamax Index (BPI) fell 51 points (-2.3%) to 2,155, lowest since Aug. 3; panamax daily earnings declined $462 to $19,391. The Supramax Index (BSI) rose 3 points (0.2%) to 1,631, a high since July 28, while the Handysize Index (BHSI) added 2 points to 866.
-
----
-
-### 2026-08-18 22:25:55  #國際
-
-【歐盟提議將以色列國家安全部長列入制裁名單】歐盟外交與安全政策首席發言人阿妮塔·希佩爾18日在布魯塞爾舉行的新聞釋出會上表示，已向各成員國提交提案，建議將以色列國家安全部長本-格維爾列入制裁名單。希佩爾在回答媒體關於本-格維爾爭議言論的提問時表示，歐盟不對言論或宣告予以置評，但是願重申立場，呼籲以色列遵守包括國際人道主義法在內的國際法，並確保平民得到保護。據外媒報道，以色列國家安全部長、以極右翼政黨猶太力量黨領導人本-格維爾日前在一檔播客節目中稱，“我認為應該在加沙實施定點清除，每晚消滅30到40人，不僅是對那些構成直接威脅的人，那裡有些人甚至不配活著。”（新華社）
-
----
-
-### 2026-08-18 22:25:43  #MKT News #Brent #Impact bullish #WTI
-
-UKMTO said it received a report of an incident in the Strait of Hormuz on Aug. 15, in which a third-party report said a bulk carrier was struck by projectiles.
-
----
-
-### 2026-08-18 22:25:27  #其他
-
-英國海軍：第三方報告稱散貨船遭彈體擊中。
-
----
-
-### 2026-08-18 22:25:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【EU proposes sanctions listing for Israeli national security minister Itamar Ben-Gvir】The EU has submitted a proposal to member states to add Israeli national security minister Itamar Ben-Gvir to its sanctions list, EU foreign and security policy chief spokesperson Anita Hipper said at a Brussels press briefing on the 18th. Hipper said the EU would not comment on individual statements but reiterated calls for Israel to comply with international law, including international humanitarian law, and to ensure civilian protection. Foreign media reported Ben-Gvir, leader of the far-right Otzma Yehudit party, said on a podcast he favored “targeted eliminations” in Gaza of 30–40 people per night, beyond those posing direct threats, and that some “do not deserve to live.”
-
----
-
-### 2026-08-18 22:24:56  #其他
-
-英國海事組織稱，8月15日收到霍爾木茲發生事件的報告。船隻右舷受損，一名船員傷亡。目前沒有環境影響報告。有關當局正在調查。
-
----
-
-### 2026-08-18 22:24:08  #MKT News #Market Regions #Europe & UK
-
-France's budget minister said after a tax-data leak that France will notify affected companies next week.
-
----
-
-### 2026-08-18 22:23:25  #宏觀
-
-法國預算部長：稅務機構遭駭客攻擊後，財政部將使用人工智慧測試網路安全漏洞。
-
----
-
-### 2026-08-18 22:23:17  #其他
-
-GSK：NUCALA（美泊利珠單抗）獲加拿大藥品管理局積極報銷推薦，用於成人慢性阻塞性肺疾病治療。
-
----
-
-### 2026-08-18 22:23:13  #其他
-
-META PLATFORMS股價觸及兩週多來低點，最新報跌3.8%。
-
----
-
-### 2026-08-18 22:23:11  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) shares hit a two-week low, trading down 3.8%.
 
 ---
