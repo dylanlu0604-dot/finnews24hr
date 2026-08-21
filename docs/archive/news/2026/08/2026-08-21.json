@@ -1,7 +1,39 @@
 {
   "date": "2026-08-21",
-  "count": 568,
+  "count": 572,
   "items": [
+    {
+      "id": "mkt:01a021ae-d33f-7aab-90c3-9c475f42b228",
+      "time": "2026-08-21 08:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【4.2-magnitude quake offshore Okinawa main island, Japan】Japan Meteorological Agency said a 4.2-magnitude earthquake struck offshore the Okinawa main island at about 09:01 local time on the 21st. Maximum seismic intensity was 3 and the hypocenter depth was 40 km."
+    },
+    {
+      "id": "mkt:01a021ae-a4b8-7aab-90c3-97d69b670daf",
+      "time": "2026-08-21 08:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Live-fire exercises in parts of southern Yellow Sea; entry prohibited Aug 21-24】China Maritime Safety Administration said the Yancheng Maritime Safety Bureau issued a navigation warning: live-fire exercises will be conducted in parts of the southern Yellow Sea Aug. 21–24, daily from 07:30 to 01:00 the following day; vessels are prohibited from entering the designated sea areas."
+    },
+    {
+      "id": "5050912",
+      "time": "2026-08-21 08:18:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本沖繩本島近海發生4.2級地震】據日本氣象廳訊息，當地時間21日9時01分左右，日本沖繩本島近海發生4.2級地震，最大震感為震度3，震源深度40公里。（央視新聞）"
+    },
+    {
+      "id": "5050911",
+      "time": "2026-08-21 08:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年8月20日ETF資金整體淨流出78.29億元】2026年8月20日，ETF資金整體淨流出78.29億元，股票型淨流出32.94億元，寬基型淨流出43.74億元。當日ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出17.06億元，廣發中證1000ETF（560010）淨流出14.99億元，廣發中證香港創新藥(QDII-ETF)（513120）淨流出10.54億元。"
+    },
     {
       "id": "5050910",
       "time": "2026-08-21 08:15:36",

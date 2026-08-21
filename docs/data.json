@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-21 08:16:44",
-  "count": 16034,
+  "updated": "2026-08-21 08:20:43",
+  "count": 16031,
   "items": [
+    {
+      "id": "mkt:01a021ae-d33f-7aab-90c3-9c475f42b228",
+      "time": "2026-08-21 08:18:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【4.2-magnitude quake offshore Okinawa main island, Japan】Japan Meteorological Agency said a 4.2-magnitude earthquake struck offshore the Okinawa main island at about 09:01 local time on the 21st. Maximum seismic intensity was 3 and the hypocenter depth was 40 km."
+    },
+    {
+      "id": "mkt:01a021ae-a4b8-7aab-90c3-97d69b670daf",
+      "time": "2026-08-21 08:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Live-fire exercises in parts of southern Yellow Sea; entry prohibited Aug 21-24】China Maritime Safety Administration said the Yancheng Maritime Safety Bureau issued a navigation warning: live-fire exercises will be conducted in parts of the southern Yellow Sea Aug. 21–24, daily from 07:30 to 01:00 the following day; vessels are prohibited from entering the designated sea areas."
+    },
+    {
+      "id": "5050912",
+      "time": "2026-08-21 08:18:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本沖繩本島近海發生4.2級地震】據日本氣象廳訊息，當地時間21日9時01分左右，日本沖繩本島近海發生4.2級地震，最大震感為震度3，震源深度40公里。（央視新聞）"
+    },
+    {
+      "id": "5050911",
+      "time": "2026-08-21 08:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年8月20日ETF資金整體淨流出78.29億元】2026年8月20日，ETF資金整體淨流出78.29億元，股票型淨流出32.94億元，寬基型淨流出43.74億元。當日ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出17.06億元，廣發中證1000ETF（560010）淨流出14.99億元，廣發中證香港創新藥(QDII-ETF)（513120）淨流出10.54億元。"
+    },
     {
       "id": "5050910",
       "time": "2026-08-21 08:15:36",
@@ -146674,77 +146706,6 @@
         "其他"
       ],
       "text": "英國石油加入大型石油企業重返委內瑞拉的行列。英國石油已獲得加拉加斯方面頒發的許可，將勘探開發委內瑞拉近海一處氣田，這是該大型石油企業重返當地的最新訊號。"
-    },
-    {
-      "id": "te:markets:575213",
-      "time": "2026-08-14 08:20:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies After Sharp Drop — Gold steadied around $4,350 an ounce on Friday after falling sharply in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures."
-    },
-    {
-      "id": "5040203",
-      "time": "2026-08-14 08:20:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.4%，英國富時指數期貨上漲0.4%。"
-    },
-    {
-      "id": "mkt:019ffda2-df7a-7aab-9030-5e3297675673",
-      "time": "2026-08-14 08:18:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI intraday gain narrowed to 2.00%."
-    },
-    {
-      "id": "5040202",
-      "time": "2026-08-14 08:18:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國綜合股價指數連續第五個交易日上漲 跟隨美國股市漲勢】受美國晶片股上漲的帶動，韓國綜合股價指數（KOSPI）一度上漲2.9%，短暫突破7000點大關。SK海力士股價上漲超過6%，帶動股指走高，三星電子和SK Square也緊隨其後上漲。外國基金在早盤交易中買入KOSPI股票，而本地基金則賣出。該基準指數本週已上漲超過11%。韓國創業板小盤股指數上漲幅度高達2%。"
-    },
-    {
-      "id": "mkt:019ffda1-c108-7aab-9030-51804b6e8105",
-      "time": "2026-08-14 08:17:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "9984.T",
-        "Impact bullish",
-        "6857.T"
-      ],
-      "text": "Japanese chip-related stocks surged; Kioxia rose 6.9%, SoftBank Group gained 6.2% and Advantest rose 6.5%."
-    },
-    {
-      "id": "5040201",
-      "time": "2026-08-14 08:17:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美股無人機概念股Unusual Machines夜盤漲超8%，Ondas漲超2%。美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。"
-    },
-    {
-      "id": "mkt:019ffda1-43e5-7aab-9030-4fdbbec0a401",
-      "time": "2026-08-14 08:17:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Former senior Japanese FX diplomat, ex-IMF deputy says yen intervention could recur; Bank of Japan likely to hike in September】A former senior Japanese foreign-exchange diplomat and ex-IMF deputy managing director said the yen is noticeably weak and rising import costs are damaging the economy. He warned that if the yen returns to levels seen before last month’s coordinated intervention, Japan and the US could jointly intervene in the FX market again at any time, and any action would not be tied to specific levels such as JPY160 or JPY162. He said intervention only buys time; the fundamental remedy is faster Bank of Japan tightening. He expects a BoJ hike in September, a follow-up in December or January, and a terminal policy rate around 1.5–1.75% based on a neutral rate estimate of 1.1–2.5%. Further hikes could follow in the fiscal year starting April 2027 if growth persists."
     }
   ]
 }
