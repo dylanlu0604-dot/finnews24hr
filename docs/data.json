@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-21 12:37:50",
-  "count": 16007,
+  "updated": "2026-08-21 12:41:46",
+  "count": 16005,
   "items": [
+    {
+      "id": "5051247",
+      "time": "2026-08-21 12:40:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來：8月21日，蔚來ES8在釋出亮相一週年之際，於2026成都車展開幕首日迎來第140,000臺新車交付。"
+    },
+    {
+      "id": "5051246",
+      "time": "2026-08-21 12:40:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：深圳江波龍將於 8 月 24 日評估上市需求。"
+    },
+    {
+      "id": "5051245",
+      "time": "2026-08-21 12:39:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《歡迎來龍餐館》 上映11天， 總票房破13億。"
+    },
+    {
+      "id": "te:economy:577091",
+      "time": "2026-08-21 12:39:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Dutch Consumer Confidence Less Negative in August — Consumer confidence in the Netherlands improved to -34 in August 2026 from -35 in July, marking the highest reading since March but remaining well below its long-term average of -12 over the past 20 years. The improvement was mainly driven by a less negative assessment of the economic climate, which rose to -57 from -59, as consumers became less pessimistic about both the economic situation over the past 12 months and expectations for the year ahead. Willingness to buy remained unchanged at -19. Consumers were slightly more negative about their financial situation, with the assessment of the past 12 months falling to -16 from -15 and expectations for the next 12 months declining to -3 from -2. However, views on the timing of major purchases improved, with the balance rising to -37 from -40. Despite the modest improvement, confidence remained well below its long-term average and far below the record high of +36 reached in January 2000."
+    },
+    {
+      "id": "5051243",
+      "time": "2026-08-21 12:39:42",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【醫療保障法草案擬三審：完善異地就醫結算與長護險制度】8月21日，全國人大常委會法制工作委員會舉行記者會，發言人黃海華介紹立法工作有關情況並回答記者提問。十四屆全國人大常委會第二十四次會議8月25日至28日在北京舉行，醫療保障法草案將提交三審。黃海華介紹，三次審議稿擬作以下主要修改：一是立法目的進一步體現健康優先發展戰略，二是完善醫療保障體系有關規定，三是充實醫療保障基金管理有關規定，四是細化異地就醫醫藥費用結算要求，五是增加長期護理保險相關規定，六是完善有關法律責任規定。"
+    },
+    {
+      "id": "te:markets:577090",
+      "time": "2026-08-21 12:39:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Opens Slightly Higher — India’s BSE Sensex edged up about 0.1% to 77,595 on Friday, following gains in the previous session, although elevated crude oil prices and pressure in global bond markets capped gains. Crude prices, hovering around one-month highs, remained a key concern for Indian equities given their potential impact on inflation, corporate costs, and the country’s import bill. In primary markets, appliance maker Atomberg Technologies filed draft papers for an initial public offering, proposing a fresh issue of up to 4.5 billion rupees and an offer for sale of up to 76.5 million shares. Among individual stocks, Welspun surged about 12.1% after securing a $1.8 billion contract to supply pipes from its US manufacturing facility, marking the company’s largest-ever single order. Netweb, Dhoot Transmission, Hindustan Copper, and Hindustan Zinc also advanced between 1.4% and 3.4%, while Shiprocket, Shadowfax Tech, and TVS Motor declined 3.0%, 2.2%, and 0.7%, respectively."
+    },
+    {
+      "id": "5051242",
+      "time": "2026-08-21 12:37:44",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【農業法修訂草案二審稿：擬加強農業領域國際交流與合作，加強農民權益保護】全國人大常委會法制工作委員會舉行記者會，發言人黃海華介紹，二次審議稿擬作以下主要修改：一是落實中央有關精神，總結新時代“三農”工作重大成就和經驗，完善支援農業和農村經濟發展的措施，增加規定統籌推進科技農業、綠色農業、質量農業、品牌農業等內容；二是加強農業領域國際交流與合作，增加規定國家堅持平等互利、合作共贏的方針，支援開展農業領域的國際交流與合作，積極參與農業可持續發展與糧食安全國際治理；三是加強農民權益保護，要求各級人民政府建立健全整治形式主義為基層減負長效機制，對農業領域相關規劃的編制進行精簡最佳化；四是明確國家加強鄉村治理，推進平安鄉村建設，構建和諧有序的鄉村社會，不斷增強廣大農民的獲得感、幸福感、安全感；五是進一步做好與生態環境法典等法律的銜接。"
+    },
     {
       "id": "5051241",
       "time": "2026-08-21 12:36:15",
@@ -146530,90 +146594,6 @@
         "其他"
       ],
       "text": "【兩部門對河南啟動國家四級救災應急響應】按照《國家自然災害救助應急預案》，8月14日，國家防災減災救災委員會針對今年第13號颱風“白海豚”殘渦及強降雨對河南的嚴重災害影響，啟動國家四級救災應急響應，前期派出的救災工作組繼續在災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等救災救助工作。同日，國家防災減災救災委員會辦公室、應急管理部針對近期持續暴雨洪澇災害導致河南周口、許昌等地險情災情，根據災區群眾避險轉移和安置救助需要，會同國家糧食和物資儲備局調撥摺疊床、褥子、毛毯、夏涼被、夏裝、家庭應急包等3萬件中央救災物資，支援河南做好受災群眾安置救助工作。"
-    },
-    {
-      "id": "5040551",
-      "time": "2026-08-14 12:41:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上漲0.5個基點，至2.125%。"
-    },
-    {
-      "id": "5040550",
-      "time": "2026-08-14 12:41:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑富瑞上調塔吉特等百貨公司目標價】傑富瑞將塔吉特公司目標價從161美元上調至177美元；將伯靈頓百貨目標價從365美元上調至410美元。"
-    },
-    {
-      "id": "mkt:019ffe92-e0ca-7aab-9035-631849542ee2",
-      "time": "2026-08-14 12:41:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 5-year government bond yield rose 0.5 bps to 2.125%."
-    },
-    {
-      "id": "mkt:019ffe92-c8fb-7aab-9035-5dff1a477610",
-      "time": "2026-08-14 12:41:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's National Commission for Disaster Reduction and the Ministry of Emergency Management have activated a national level-4 disaster emergency response, allocated central relief supplies and are guiding and supporting Henan's heavy-rain and flood relief operations."
-    },
-    {
-      "id": "5040549",
-      "time": "2026-08-14 12:39:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雄忻高鐵正線鋪軌全部完成】日前，在雄安新區的雄忻高鐵鋪軌施工現場，隨著建設者將最後一對長鋼軌平穩鋪設就位，標誌著雄忻高鐵正線鋪軌全部完成，為線路按期開通運營奠定了堅實基礎。雄忻高鐵東起雄安新區雄安站，經河北省保定市，接入山西省忻州西站，設計時速350公里。雄忻高鐵正線全長342公里，建有橋樑77座、山嶺隧道27座，以及雄安新區地下段城市隧道，全線橋隧佔比達89%。"
-    },
-    {
-      "id": "5040548",
-      "time": "2026-08-14 12:39:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三一集團、翱捷科技等成立創業投資基金】企查查APP顯示，近日，廣州華胥三期創業投資基金合夥企業（有限合夥）成立，出資額6.27億元，經營範圍包含私募股權投資基金管理、創業投資基金管理服務；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由三一集團有限公司、翱捷科技等共同持股。"
-    },
-    {
-      "id": "mkt:019ffe90-9755-7aab-9035-559de24a2604",
-      "time": "2026-08-14 12:38:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Goldman trader: market has flipped from fearing rate hikes to 'either outcome is bullish'; complacency rising】Goldman derivatives trader Shawn Tuteja says US equity sentiment reversed in two weeks from fearing the Fed, higher long‑end yields, geopolitics and supply to a 'either outcome is bullish' view on the September FOMC. Market reads a dovish‑leaning hike as stabilising the long end, and no hike as confirmation that strong earnings will broaden gains beyond AI. Client net exposures are at the 67th percentile over the past five years and total exposures at the 89th; SPX single‑day call volume hit a record ~4.0m contracts. Tuteja does not predict a large index decline but warns that when both policy outcomes are pre‑priced as positive, market cushioning against a hawkish surprise or renewed long‑yield upside is reduced, raising complacency risk."
-    },
-    {
-      "id": "te:markets:575274",
-      "time": "2026-08-14 12:38:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Falls to Over 2-Week Low — India’s BSE Sensex fell about 0.4% to 77,772 on Friday, reversing gains in the last session and reaching its lowest level since July 29, as investors remained cautious amid persistent Middle East tensions and elevated crude oil prices. Investor sentiment was also weighed by weakness in financial stocks after the Reserve Bank of India proposed loan-pricing changes that could reduce banks’ pricing flexibility and pressure loan yields and margins. Among individual stocks, Tata Motors Passenger Vehicles was under pressure, falling about 4.7% after the automaker reported an 80% drop in first-quarter profit, hurt by higher costs, foreign-exchange losses and weakness at Jaguar Land Rover. Meanwhile, LG Electronics India climbed about 6.8% after reporting a more than 27% rise in first-quarter profit and retaining its full-year revenue growth target, helped by strong summer demand for air conditioners and refrigerators. The benchmark is on track for a weekly decline of about 0.9%."
-    },
-    {
-      "id": "mkt:019ffe8f-fcd8-7aab-9035-4a803b431179",
-      "time": "2026-08-14 12:37:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "KAZTRANSOIL said Kazakhstan's July oil exports via Russia's Ust‑Luga port were 286,000 tonnes and via Novorossiysk were 360,000 tonnes."
     }
   ]
 }
