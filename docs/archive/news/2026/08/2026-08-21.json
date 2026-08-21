@@ -1,7 +1,71 @@
 {
   "date": "2026-08-21",
-  "count": 1145,
+  "count": 1152,
   "items": [
+    {
+      "id": "5051304",
+      "time": "2026-08-21 13:25:18",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【高盛：市場仍更傾向於認為美債收益率將上行】高盛稱，儘管近期長期美國國債遭遇拋售，但相對於宏觀基本面或同類資產，其估值並不存在明顯偏差。該行策略師Friedrich Schaper在一份報告中寫道，美國財政部日前宣佈擴大債券回購規模表明，當局更願意使用非常規工具來支撐長期國債。“但是，正如我們之前針對日本國債整體走勢及近期日元干預所指出的那樣，如果不能解決根本性的宏觀驅動因素，這些行動的影響可能只會持續到公告發布後的很短時間。”高盛表示，儘管有一些令人鼓舞的基本面訊息，但目前市場仍然認為收益率上行風險大於下行風險。"
+    },
+    {
+      "id": "5051303",
+      "time": "2026-08-21 13:24:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安郭曉濤：看好科技AI等板塊 堅信資本市場長期穩定發展】今日，中國平安中期業績釋出會上，平安聯席執行長郭曉濤表示，今年上半年資本市場波動是一場考驗，但長期看好中國經濟發展的韌性。鑑於資本市場是中國經濟發展的晴雨表，因此長期看好資本市場的長期健康穩定發展。郭曉濤認為，未來科技、AI、高階製造，創新藥及能源類板塊均為權益配置的長期看好板塊，將對科技板塊進行多元化佈局，一二級市場聯動投資。"
+    },
+    {
+      "id": "5051302",
+      "time": "2026-08-21 13:24:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶：推動公共領域車輛電動化，推廣應用純電、氫燃料電池商用車】重慶市人民政府印發《重慶市“十五五”美麗重慶建設規劃（2026—2030年）》，規劃提出，推進交通運輸裝備低碳升級。積極推廣新能源車，推動公共領域車輛電動化，推廣應用純電、氫燃料電池商用車。開展零碳運輸通道建設，構建“零碳走廊”。實施老舊營運船舶報廢更新，推廣新能源、清潔能源動力船舶。推進既有交通基礎設施節能降碳改造，建設一批低碳車站、碼頭、高速公路服務區。"
+    },
+    {
+      "id": "5051301",
+      "time": "2026-08-21 13:24:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶：升級打造成渝“氫走廊”“電走廊”、西部陸海新通道“氫走廊”】重慶市人民政府印發《重慶市“十五五”美麗重慶建設規劃（2026—2030年）》，規劃提出，建立綠色高效交通運輸體系。大力發展鐵水聯運、江海聯運、水水中轉，加快港口、園區鐵路專用線建設，推動大宗貨運物流配送向“鐵路、新能源重卡+兆瓦超充站”轉型。推進山城步道、立體過街設施等建設，健全“軌道+公交+慢行”綠色出行系統。推動交通基礎設施與能源網深度融合，升級打造成渝“氫走廊”“電走廊”、西部陸海新通道“氫走廊”。"
+    },
+    {
+      "id": "te:economy:577107",
+      "time": "2026-08-21 13:23:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Estonia Producer Inflation Eases in July — Estonia’s producer prices rose by 3.5% year-on-year in July 2026, easing from a five-month high of 3.8% in the previous month. Price growth slowed in mining and quarrying (4.7% vs 8.8% in June) and in electricity, gas, steam, and air conditioning, where it moderated sharply to 8.4% from 24.9% previously. Meanwhile, producer prices in manufacturing accelerated to 3.5% from 2.6%, driven mainly by higher prices for wearing apparel, wood and wood products, paper and paper products, coke and refined petroleum products, chemicals and chemical products, rubber and plastic products, other non-metallic mineral products, and computer, electronic and optical products. Costs in water supply, sewerage, waste management, and remediation activities also accelerated to 3.4% from 2.5% in June. On a monthly basis, producer prices declined by 0.6%, following a 0.3% drop in the previous month."
+    },
+    {
+      "id": "5051300",
+      "time": "2026-08-21 13:23:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭正請求埃隆·馬斯克批准其使用配備星鏈系統的無人機攻擊俄羅斯境內200公里以內的彈道導彈發射陣地，以應對日益頻繁的導彈和無人機襲擊。"
+    },
+    {
+      "id": "5051299",
+      "time": "2026-08-21 13:21:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "PASCHI 提出以全股交易方式收購 BPM 和 BANCA GENERALI。"
+    },
     {
       "id": "5051298",
       "time": "2026-08-21 13:21:43",
