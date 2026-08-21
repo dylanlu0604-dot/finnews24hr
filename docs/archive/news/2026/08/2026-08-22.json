@@ -1,7 +1,35 @@
 {
   "date": "2026-08-22",
-  "count": 117,
+  "count": 120,
   "items": [
+    {
+      "id": "5052666",
+      "time": "2026-08-22 01:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）指控美國銀行前高階銀行家薩茨基涉嫌內幕交易。"
+    },
+    {
+      "id": "te:markets:577351",
+      "time": "2026-08-22 01:58:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Nears Three-Month High — The Canadian dollar strengthened to 1.38 per USD in late August, nearing a three-month high, supported by a weaker US dollar and elevated crude oil prices. The loonie’s gains were primarily driven by renewed pressure on the greenback as investors reassessed the Federal Reserve’s policy path. Recent US economic data, including softer inflation readings, fueled expectations that the Fed could begin cutting interest rates sooner than previously anticipated, weighing on the dollar and supporting commodity-linked currencies. Meanwhile, crude oil prices remained elevated near multi-month highs, benefiting the Canadian currency as higher energy prices improve the country’s terms of trade. On the trade front, Canadian and US negotiators are set to meet in an effort to finalize a deal that could ease months of tariffs and counter-tariffs. Canadian bond yields rose across the curve, tracking higher US Treasury yields."
+    },
+    {
+      "id": "5052665",
+      "time": "2026-08-22 01:57:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：伊朗與伊拉克已就安全問題及邊境安全簽署一份詳細協議與諒解備忘錄。我們商討了協議的落實工作，並就相關事宜進行跟進。我們也探討了伊拉克的安全問題以及伊拉克境內各派系。但我要明確宣告，我們從不干涉伊拉克的內政。"
+    },
     {
       "id": "5052664",
       "time": "2026-08-22 01:56:20",
