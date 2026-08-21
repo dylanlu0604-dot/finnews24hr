@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-21 10:26:56",
-  "count": 16032,
+  "updated": "2026-08-21 10:30:49",
+  "count": 16029,
   "items": [
+    {
+      "id": "mkt:01a02227-7509-7aab-90c6-74d1192c5dca",
+      "time": "2026-08-21 10:30:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "【China optimizes fiscal-financial policies to boost domestic demand】China's Ministry of Finance vice minister Liao Min said at a State Council Information Office briefing on Aug 21 that fiscal-financial coordination policies to stimulate domestic demand have been optimized. The package includes three changes: widening interest-subsidy coverage, increasing implementing agencies, and raising ceiling limits. The ministry is studying further measures and plans to roll them out in H2."
+    },
+    {
+      "id": "5051112",
+      "time": "2026-08-21 10:29:00",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政金融協同促內需政策已最佳化完善】財政部副部長廖岷8月21日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，按照7月30日召開的中共中央政治局會議部署，結合前期政策執行情況和調研中各方意見，已對財政金融協同促內需政策作了最佳化完善。具體來說，主要是三個新的舉措：拓寬貼息範圍、增加經辦機構、提高額度上限。結合經濟發展需要，財政部正在繼續研究制定新政策新舉措，並於今年下半年推出。（新華社）"
+    },
+    {
+      "id": "mkt:01a02226-3b51-7aab-90c6-6d250cbef9df",
+      "time": "2026-08-21 10:28:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "NZD/USD up 0.5% at 0.5973."
+    },
+    {
+      "id": "5051111",
+      "time": "2026-08-21 10:27:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【WRC期間智平方達成兩項簽約合作】WRC期間，具身智慧企業智平方達成兩項簽約合作。8月20日，智平方與康龍化成（300759.SZ / 3759.HK）正式簽署戰略合作協議，雙方將圍繞具身智慧在生命科學與醫藥研發領域的應用展開合作。此外，智平方與北京三元食品股份有限公司、中億（深圳）具身智慧科技有限公司三方在大會現場簽署戰略合作框架協議，探索將具身智慧愛寶機器人應用於三元食品的生產車間、倉儲庫房等核心工業場景，承擔物料分揀、搬運等高重複性要求的工作。"
+    },
+    {
+      "id": "5051110",
+      "time": "2026-08-21 10:27:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九州通等成立醫療器械公司，註冊資本3000萬元】企查查APP顯示，近日，湖北九州通碩寧醫療器械有限公司成立，法定代表人為羅昌，註冊資本為3000萬元，經營範圍包含：第一類醫療器械銷售；第二類醫療器械銷售；普通機械裝置安裝服務；供應鏈管理服務等。企查查股權穿透顯示，該公司由九州通旗下九州通醫療器械集團有限公司等共同持股。"
+    },
+    {
+      "id": "5051109",
+      "time": "2026-08-21 10:27:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "Kakao：將於12月尋求股東批准，1月將分拆後的新公司上市。"
+    },
+    {
+      "id": "te:economy:577056",
+      "time": "2026-08-21 10:26:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Yield Tracks US Treasury Yields Higher — Japan’s 10-year government bond yield rose to around 2.88% on Friday, ending a two-day decline and tracking a rebound in US Treasury yields amid concerns that the US government’s plan to reduce borrowing costs may provide only a temporary solution. Global bond yields dropped earlier this week after the US Treasury Department announced larger debt buybacks aimed at containing borrowing costs, with Secretary Scott Bessent saying accelerated buybacks could exceed the announced $4 billion per issue while highlighting an upcoming long-term fiscal plan. Meanwhile, data showed Japan’s inflation rate accelerated for the second consecutive month, strengthening the case for a Bank of Japan interest rate hike in the near term. Markets are speculating on a possible move in September, with Governor Kazuo Ueda indicating that authorities could begin normalizing policy at a faster pace."
+    },
     {
       "id": "5051108",
       "time": "2026-08-21 10:25:16",
@@ -146668,89 +146737,6 @@
         "公司"
       ],
       "text": "朝日集團：仍預計本財年營業利潤為2970億日元，仍預計全年淨利潤為1940億日元。"
-    },
-    {
-      "id": "5040404",
-      "time": "2026-08-14 10:30:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車：理想L6累計交付突破40萬輛。"
-    },
-    {
-      "id": "mkt:019ffe1b-4283-7aab-9033-505e068e9401",
-      "time": "2026-08-14 10:30:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "YONHAP: South Korea's Blue House said parliamentary debate on a constitutional amendment would be beneficial."
-    },
-    {
-      "id": "mkt:019ffe1b-32eb-7aab-9033-4f55e659c186",
-      "time": "2026-08-14 10:30:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "YONHAP: South Korea's Blue House said public acceptance is high for a multi-term, four-year presidential system and for strengthening the National Assembly's powers."
-    },
-    {
-      "id": "5040403",
-      "time": "2026-08-14 10:30:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "華儲網釋出通知稱，2026年8月18日開展中央儲備凍豬肉輪換出庫競價交易，本次出庫競價交易掛牌國產凍豬肉12000噸。"
-    },
-    {
-      "id": "5040402",
-      "time": "2026-08-14 10:29:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石油集團董事長戴厚良到遼陽石化調研】據中國石油報，8月12日、13日，中國石油集團董事長、黨組書記戴厚良到遼陽石化調研。戴厚良先後到聚酯部控制室、PEN新型材料建設現場及中試裝置、尼龍66專案、塑膠加工平臺、PX裝置、EDH中試裝置等現場調研，強調要堅持技術立企，以科技創新賦能煉化轉型升級，持續最佳化工藝和技術路線，認真論證改擴建方案的可行性，做好高附加值產品研發和市場預銷售，加強產品數質量管理，嚴守安全環保底線，確保裝置經濟效益最佳和“安穩長滿優”執行。"
-    },
-    {
-      "id": "5040401",
-      "time": "2026-08-14 10:29:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國青瓦臺稱國會討論修憲是好事。"
-    },
-    {
-      "id": "5040400",
-      "time": "2026-08-14 10:28:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國青瓦臺表示，若將總統任期改為可連任的四年制、同時強化國會權力，該方案能獲得較高的公眾接受度。"
-    },
-    {
-      "id": "5040399",
-      "time": "2026-08-14 10:27:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇啟動沿江地區防汛Ⅳ級應急響應】據新華日報，江蘇省防汛抗旱指揮部決定，2026年8月14日10時起，因省氣象臺釋出暴雨藍色預警，啟動沿江地區防汛Ⅳ級應急響應。相關地區各級政府及有關部門要密切關注雨水情，加強應急值守和分析研判，強化風險管控，做好防洪排澇應急處置準備，果斷組織風險區域群眾轉移避險。"
-    },
-    {
-      "id": "5040398",
-      "time": "2026-08-14 10:27:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1552億元。"
-    },
-    {
-      "id": "5040397",
-      "time": "2026-08-14 10:26:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【淮委水文局升級釋出沙潁河界首站洪水橙色預警】從水利部淮河水利委員會水文局瞭解到，14日8時，淮委水文局升級釋出沙潁河界首站洪水橙色預警。 據介紹，沙潁河是淮河一級支流。受颱風“白海豚”殘餘環流影響，位於安徽省阜陽市的沙潁河界首站14日7時36分水位漲至37.81米，超警戒水位0.81米，預計水位繼續上漲。淮委水文局根據《淮河流域水情預警釋出管理辦法（試行）》升級釋出洪水橙色預警，受影響區域包括河南省周口市與安徽省阜陽市。 淮委水文局提示相關區域有關單位及社會公眾密切關注雨水情變化，加強防範，積極應對。"
     }
   ]
 }
