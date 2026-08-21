@@ -1,7 +1,333 @@
 {
   "date": "2026-08-21",
-  "count": 2704,
+  "count": 2742,
   "items": [
+    {
+      "id": "5052437",
+      "time": "2026-08-21 21:06:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其對梯瓦製藥發起反壟斷調查。"
+    },
+    {
+      "id": "5052436",
+      "time": "2026-08-21 21:05:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙特阿美要求液化石油氣（LPG）買家從波斯灣內部裝載貨物，這是自地區戰爭於2月開始前港口基礎設施受損以來首次。"
+    },
+    {
+      "id": "5052435",
+      "time": "2026-08-21 21:05:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英法 IFA 電力互聯線路 53% 容量停運，停運時長延長逾一個月。"
+    },
+    {
+      "id": "mkt:01a0246c-fbf0-7aab-90d4-be6ca288e420",
+      "time": "2026-08-21 21:05:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources said Saudi Aramco has instructed LPG buyers to load cargoes from inside the Persian Gulf, the first such move since port infrastructure was damaged ahead of the regional war that began in February."
+    },
+    {
+      "id": "5052434",
+      "time": "2026-08-21 21:04:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：開展無人運輸模式試點探索 持續推進高階別自動駕駛引領區建設】上海市人民政府辦公廳印發《上海市綜合交通發展“十五五”規劃》。其中提出，深化前沿技術領域融合應用。開展無人運輸模式試點探索。持續推進高階別自動駕駛引領區建設，在智慧公交、智慧重卡、智慧出租等場景積極推動L4級以上自動駕駛技術規模化應用。推動交通行業北斗應用全覆蓋。探索低空公共航路等低空基礎設施規劃建設，與交通基礎設施統籌規劃、有機銜接；持續提升低空空中交通服務保障能力，推動低空空域精準供給和高效利用，支援低空物流配送有序發展。"
+    },
+    {
+      "id": "mkt:01a0246c-05b6-7aab-90d4-b6db2fdf89ff",
+      "time": "2026-08-21 21:04:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: French President Macron will chair a meeting with UK Prime Minister Burnham, German Chancellor Merz and Ukrainian President Zelenskiy next Monday."
+    },
+    {
+      "id": "5052433",
+      "time": "2026-08-21 21:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍將於週一主持與英國首相、德國總理以及烏克蘭總統的會晤。"
+    },
+    {
+      "id": "5052432",
+      "time": "2026-08-21 21:03:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：多方敦促聯邦貿易委員會調查 AI 企業銷燬書籍的行為。"
+    },
+    {
+      "id": "mkt:01a02469-fc80-7aab-90d4-a9e7ff06f3b2",
+      "time": "2026-08-21 21:02:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister responsible for U.S.-Canada trade relations will meet U.S. Trade Representative Greer in Washington on Friday at 10:30 a.m. ET (22:30 Beijing time)."
+    },
+    {
+      "id": "5052431",
+      "time": "2026-08-21 21:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大負責對美貿易事務的部長將於美國東部時間週五 10:30 在華盛頓會見美國貿易代表格里爾。"
+    },
+    {
+      "id": "mkt:01a02469-a0ab-7aab-90d4-a2e6b0f31ef4",
+      "time": "2026-08-21 21:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shanghai to pilot unmanned transport, expand high-level autonomous-driving zones】Shanghai municipal government office issued the Shanghai Comprehensive Transportation Development 15th Five-Year Plan, mandating pilot trials of unmanned transport modes and continued development of high-level autonomous-driving demonstration zones. The plan targets scaled deployment of L4 and above autonomous driving in intelligent buses, heavy trucks and taxis, requires full BeiDou coverage across the transport sector, and calls for planning and construction of low-altitude public air routes integrated with transport infrastructure. It directs upgrades to low-altitude air-traffic services to enable precise supply and efficient use of low-altitude airspace and supports orderly development of low-altitude logistics delivery."
+    },
+    {
+      "id": "5052430",
+      "time": "2026-08-21 21:01:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曦智科技下一代光電混合晶片完成流片】曦智科技(01879.HK)釋出上市後的首份財報。這份半年報披露了曦智科技下一代256×256光電混合計算晶片PACE3的最新研發進展。公司提到，下一代光電混合計算晶片PACE3的PIC（光晶片）和EIC（電晶片）均已流片，且PIC已於代工廠回片，後續將進行系統驗證。"
+    },
+    {
+      "id": "mkt:01a02469-80da-7aab-90d4-99e3382638fc",
+      "time": "2026-08-21 21:01:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "01879.HK",
+        "Impact bullish"
+      ],
+      "text": "【Xizhi Technology's next‑gen electro‑optical hybrid chip completes tape‑out】Xizhi Technology (01879.HK) said in its first post‑listing half‑year report that its next‑generation 256×256 electro‑optical hybrid computing chip PACE3 has completed tape‑out for both the PIC (photonic chip) and EIC (electronic chip). The PIC has been returned from the foundry and will undergo system‑level validation."
+    },
+    {
+      "id": "mkt:01a02468-f92b-7aab-90d4-938abf6bbf7b",
+      "time": "2026-08-21 21:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BRICS leaders to meet in New Delhi mid-September】India said BRICS leaders will meet in New Delhi in mid‑September, hosted by Prime Minister Modi. India will transfer the BRICS rotating presidency for the following year to China at the meeting."
+    },
+    {
+      "id": "5052429",
+      "time": "2026-08-21 21:00:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【金磚國家領導人會晤將於9月中旬在印度舉行】當地時間21日，印度文化部、旅遊部部長謝卡瓦特在齋普爾舉行的金磚國家旅遊部長會議新聞釋出會上宣佈，金磚國家領導人會晤將於9月中旬在新德里舉行，印度總理莫迪將主持該會晤。屆時，印度將把下一年度的金磚國家輪值主席國職責移交給中國。（央視新聞）"
+    },
+    {
+      "id": "5052428",
+      "time": "2026-08-21 21:00:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報1042.00元。"
+    },
+    {
+      "id": "mkt:01a02468-7af2-7aab-90d4-8c6356d3c1fe",
+      "time": "2026-08-21 21:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "At the night session open, China’s main futures contracts were mostly higher; Shanghai silver, propylene, coke, ethylene glycol (EG), benzene, Shanghai zinc, Shanghai gold, methanol, polypropylene, pulp and international copper rose more than 1%, while Soybean No.1 and 20-grade rubber edged lower."
+    },
+    {
+      "id": "5052427",
+      "time": "2026-08-21 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續漲11.64%，碳酸鋰連續漲4.12%，鉑連續漲4.02%，線材連續漲2.89%，菜籽連續跌2.42%。"
+    },
+    {
+      "id": "5052426",
+      "time": "2026-08-21 20:59:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總、應急管理部針對海南廣西廣東啟動防汛防颱風四級應急響應】記者從應急管理部獲悉，北部灣熱帶低壓已於21日下午加強為今年第19號颱風（熱帶風暴級），預計21日夜間至23日白天，該颱風將在北部灣海面迴旋少動，強度緩慢加強，最強可達強熱帶風暴級。受其和西南季風共同影響，未來三天，海南、廣西南部、廣東沿海地區將有大到暴雨，局地大暴雨。中央氣象臺8月21日18時釋出颱風藍色預警和暴雨藍色預警。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月21日20時針對海南、廣西、廣東省（自治區）啟動防汛防颱風四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5052425",
+      "time": "2026-08-21 20:59:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使談及以色列襲擊敘利亞一事：我認為這並非蓄意為之。從實際行動來看，部分彈藥投向了一處機場，並未造成人員傷亡。"
+    },
+    {
+      "id": "5052424",
+      "time": "2026-08-21 20:59:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，8月20日美國有效聯邦基金利率為3.63%，當日成交規模為1020億美元；8月19日有效聯邦基金利率同樣為3.63%，當日成交規模為950億美元。"
+    },
+    {
+      "id": "5052423",
+      "time": "2026-08-21 20:58:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海鷗住工：中餘投資擬轉讓20%股份，2026年8月24日復牌】海鷗住工公告，公司此前披露中餘投資籌劃公司控制權變更事項。2026年8月21日，中餘投資分別與博泰車聯、福清曜鴻簽署《股份轉讓協議》，擬轉讓海鷗住工1.29億股（佔總股本持股比例20%）和3236.74萬股（佔總股本持股比例5.01%）。股份出讓完成後，公司控股股東將變更為博泰車聯，實際控制人將變更為應臻愷先生。公司股票自2026年8月24日開市起復牌。"
+    },
+    {
+      "id": "5052422",
+      "time": "2026-08-21 20:57:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【壹連科技：2026年上半年淨利潤1.29億元，同比下降5.51%】壹連科技公告，2026年上半年營業收入28.96億元，同比增長40.16%；歸屬於上市公司股東的淨利潤1.29億元，同比下降5.51%，2025年上半年為1.37億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.24億元，同比下降0.32%。"
+    },
+    {
+      "id": "5052421",
+      "time": "2026-08-21 20:57:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東芯股份：擬用6.82億元超募資金投建晶片研發專案】東芯股份公告稱，公司董事會審議透過議案，擬使用6.82億元超募資金實施存算聯融合晶片研發專案，專案建設週期約42個月，建設地點位於上海市青浦區。本次投資不構成關聯交易及重大資產重組，相關事項尚需提交公司股東會審議。截至2026年6月30日，公司尚未使用的超募資金餘額為9.49億元（含利息等收益，未經審計）。"
+    },
+    {
+      "id": "5052420",
+      "time": "2026-08-21 20:57:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東芯股份：2026年上半年營收14.97億元 同比增336.44%】東芯股份公告稱，2026年上半年實現營業收入14.97億元，同比增長336.44%；歸屬於上市公司股東的淨利潤6.59億元，上年同期為淨虧損1.11億元；扣非淨利潤6.36億元，上年同期為淨虧損1.27億元。公司擬向全體股東每10股派發現金紅利6.00元（含稅），擬以資本公積每10股轉增4.9股，回購專用賬戶所持股份不參與本次利潤分配及轉增。本次利潤分配方案尚需提交股東會審議。"
+    },
+    {
+      "id": "5052419",
+      "time": "2026-08-21 20:56:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國近四分之一企業面臨技工短缺 】德國慕尼黑經濟研究所21日表示，德國近四分之一的企業正面臨技術工人短缺問題。慕尼黑經濟研究所調查顯示，7月有23.2%的受訪企業表示缺少具備相應資質的技工，高於4月的21.1%，但低於31.7%的長期平均水平。研究員達裡婭·沙勒說，當前德國經濟增長乏力，在一定程度上抑制了企業對技工的需求，“隨著經濟進一步復甦，技工短缺問題或將再度凸顯”。從行業看，電信業技工短缺明顯加劇，報告這一問題的企業比例由4月的16.3%猛增至7月的31.1%；在諮詢和審計行業，這一比例由52.4%升至64.7%；製造業報告技工短缺的企業佔比為18.7%，較4月上升4.5個百分點。沙勒表示，失業人數增加並不意味著企業能招到的技工隨之增多，關鍵在於求職者資質與崗位需求能否匹配。（新華社）"
+    },
+    {
+      "id": "5052418",
+      "time": "2026-08-21 20:56:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST嶺南：披露多項風險及累計訴訟情況】*ST嶺南公告稱，公司“嶺南轉債”無法按期兌付本息，主體及債項信用等級均被下調為C，存在持續經營、增信抵質押資產變現、股票退市及訴訟等多項風險。2025年公司營收1.12億元，同比下降86.99%；淨虧損23.36億元，虧損同比增加137.29%。2026年一季度營收3970.25萬元，同比下滑41.27%；淨虧損1.34億元，虧損同比增加101.10%。截至2026年8月19日，公司連續十二個月內新增未披露訴訟仲裁涉案金額合計1.81億元，累計達最近一期經審計歸母淨資產絕對值的13.38%。公司股票存在因股價低於面值被終止上市的風險。"
+    },
+    {
+      "id": "5052417",
+      "time": "2026-08-21 20:55:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使：以色列擅長打實體戰爭。但我認為，在輿論戰、講述自身立場這件事上，他們本可以做得更好。"
+    },
+    {
+      "id": "5052416",
+      "time": "2026-08-21 20:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MG 07上市1分57秒大定破萬，起售價較預售價下調2萬元】8月21日，MG 07在成都車展正式上市，推出純電和混動兩種動力、共7款車型，限時補貼價10.59萬至15.69萬元，起售價較預售價下調2萬元。新車定位年輕化智慧轎跑，部分車型搭載Momenta R7世界模型和鐳射雷達智慧輔助駕駛系統。上市後，MG 07用時1分57秒大定突破1萬輛。"
+    },
+    {
+      "id": "mkt:01a02461-20e4-7aab-90d4-8357d39f559a",
+      "time": "2026-08-21 20:52:20",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bearish"
+      ],
+      "text": "Germany's Frankfurter Allgemeine reports Volkswagen works council representative Berna criticized the CEO's plan to cut 50,000 jobs, calling it a \"strong provocation\" and saying the company has \"cost issues\" that must be resolved."
+    },
+    {
+      "id": "5052415",
+      "time": "2026-08-21 20:52:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車貝納：公司存在亟待解決的 “成本問題”。"
+    },
+    {
+      "id": "5052414",
+      "time": "2026-08-21 20:52:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車貝納稱，員工對管理層的信任已 “岌岌可危”。"
+    },
+    {
+      "id": "5052413",
+      "time": "2026-08-21 20:51:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車貝納：裁減 5 萬個崗位是執行長做出的 “嚴重挑釁行為”。"
+    },
+    {
+      "id": "5052412",
+      "time": "2026-08-21 20:51:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【叮噹健康：上半年經調整虧損100萬元 同比收窄82.5%】8月21日晚間，叮噹健康(09886.HK)公佈2026年上半年業績公告，上半年實現收入24.09億元，同比增長3.5%；快藥業務實現線上線下同步增長，線下零售收入同比增長10.7%。毛利率36.5%，同比提升1.5個百分點。經調整虧損100萬元，虧損率0.04%，同比收窄82.5%；履約開支同比下降3.4%，佔收入比重下降0.6個百分點。"
+    },
+    {
+      "id": "5052411",
+      "time": "2026-08-21 20:51:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：大眾汽車工會負責人貝納抨擊執行長計劃實施裁員。"
+    },
+    {
+      "id": "5052410",
+      "time": "2026-08-21 20:51:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格靈深瞳：2026年上半年虧損9500.61萬元，上年同期虧損7985.37萬元】格靈深瞳公告，2026年上半年營業收入5042.35萬元，同比增長18.72%；歸屬於上市公司股東的淨利潤虧損9500.61萬元，上年同期虧損7985.37萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.06億元，上年同期虧損8558.29萬元。"
+    },
+    {
+      "id": "mkt:01a0245f-4c20-7aab-90d4-783471042da9",
+      "time": "2026-08-21 20:50:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai issues Comprehensive Transportation Development 15th Five-Year Plan】The Shanghai Municipal Government Office issued the city’s Comprehensive Transportation Development 15th Five-Year Plan. It sets 2030 targets to build a high‑quality, integrated transport system that is people‑centered, efficient, smart, green and resilient, aligned with a world‑class international metropolis. The plan seeks to preserve Shanghai’s world‑class international shipping center status, develop a leading comprehensive three‑dimensional transport network, lead the nation in modern transport governance, materially improve resident travel satisfaction, and lay a solid foundation for the 2035 goal of becoming a transport‑strong city."
+    },
+    {
+      "id": "5052409",
+      "time": "2026-08-21 20:50:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《上海市綜合交通發展“十五五”規劃》：持續推進長三角一體化“一碼通行”試點 推進長三角交通訊息共享、重點領域標準規範體系研究】上海市人民政府辦公廳印發《上海市綜合交通發展“十五五”規劃》。其中提到，推動完善區域交通一體化運輸服務和協同治理機制。建立健全都市圈毗鄰城市交通同城化工作機制，協同推進長三角軌道網、航道網、公路網規劃建設。持續動態最佳化毗鄰公交線網布局，提升毗鄰地區客運服務水平。持續推進長三角一體化“一碼通行”試點，推進長三角交通訊息共享、重點領域標準規範體系研究。加強區域綜合交通執法協調和交通應急聯動，統籌交通運輸信用體系建設，提升區域交通協同治理效能。"
+    },
     {
       "id": "mkt:01a0245e-c161-7aab-90d4-7673f29df4cc",
       "time": "2026-08-21 20:49:44",
