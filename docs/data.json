@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-22 04:00:38",
+  "updated": "2026-08-22 04:04:38",
   "count": 16163,
   "items": [
+    {
+      "id": "5052745",
+      "time": "2026-08-22 04:03:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "南方銅業公司漲8.7%，創收盤歷史新高。自由港漲7.7%，創2025年4月份以來最佳單日表現。"
+    },
+    {
+      "id": "5052744",
+      "time": "2026-08-22 04:02:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克 100 指數終結五連跌。"
+    },
+    {
+      "id": "te:economy:577359",
+      "time": "2026-08-22 04:02:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Argentina Retail Sales Rise in June — Argentina’s retail sales at current prices rose 13.4% year on year to ARS 685.4 billion in June 2026. Sales in clothing, footwear and leather goods totaled ARS 231.0 billion, followed by sporting goods and clothing (ARS 116.6 billion) and food courts, food stores and kiosks (ARS 116.4 billion). Electronics, home appliances and computers generated ARS 65.3 billion, while sales in furniture, home decoration and household textiles reached ARS 35.8 billion. By region, sales in the City of Buenos Aires increased 18.5% year on year to ARS 193.6 billion, while those in the 24 districts of Greater Buenos Aires rose 8.3% to ARS 224.1 billion. Sales in the Pampeana Region increased 13.2% to ARS 145.8 billion, while Cuyo rose 18.3% to ARS 49.1 billion. The Northern Region and Patagonia recorded gains of 11.0% and 17.2%, respectively."
+    },
+    {
+      "id": "5052743",
+      "time": "2026-08-22 04:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "STATE STREET 金屬與礦業 ETF 上漲 4.1%，創 6 月以來新高。"
+    },
+    {
+      "id": "5052742",
+      "time": "2026-08-22 04:01:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic聘請谷歌晶片老將，加速推進自研硬體業務】Anthropic近日宣佈，已聘請Alphabet旗下谷歌定製晶片專案的創始人之一阿米爾·薩萊克（Amir Salek）加入其計算團隊，向詹姆斯·布拉德伯裡（James Bradbury）彙報。薩萊克曾負責谷歌張量處理單元（TPU）業務直至2022年，併成功交付了前七代晶片。在加入Anthropic之前，他曾擔任由美國國防部副部長聯合創辦的私募股權公司Cerberus Capital Management的高階董事總經理，並曾在英偉達任職。此次人事任命標誌著Anthropic正在為進軍自主半導體制造領域奠定基礎。該公司目前從英偉達、谷歌和亞馬遜等多個渠道採購晶片，但近期已明確表示有意建立內部矽晶片業務，並已開始釋出相關職位資訊。與其他人工智慧巨頭一樣，Anthropic正努力獲取足夠的資料中心基礎設施以支援其發展，定製晶片有望幫助其應對供應短缺問題，並根據自身需求最佳化硬體設計。"
+    },
+    {
+      "id": "5052741",
+      "time": "2026-08-22 04:00:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所指數.GSPTSE非官方收盤上漲254.81點，漲幅0.70%，報36,620.23點。"
+    },
+    {
+      "id": "5052740",
+      "time": "2026-08-22 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.98%，標普500指數漲0.43%，納指漲0.43%。羅賓漢漲13.70%，Moderna漲8.86%，Coinbase Global漲8.20%，麥克莫蘭銅金漲7.67%，雅保化工漲6.76%，Strategy漲6.10%，雅詩蘭黛漲6.02%。“七姐妹”方面：特斯拉漲5.14%，谷歌漲1.05%，Meta Platforms漲0.75%，微軟漲0.43%，亞馬遜跌0.57%，蘋果跌0.63%，英偉達跌0.98%。"
+    },
+    {
+      "id": "5052739",
+      "time": "2026-08-22 04:00:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐約證券交易所美國板塊將啟動對Northann Corp的退市程式。"
+    },
+    {
+      "id": "5052738",
+      "time": "2026-08-22 04:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Devoted Health 正進行融資，估值達 250 億美元。"
+    },
+    {
+      "id": "5052737",
+      "time": "2026-08-22 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.38%】嘉楠科技漲27.18%，網易有道漲8.19%，網易漲6.96%，金生遊樂漲6.80%，Tims中國漲6.24%。"
+    },
     {
       "id": "5052736",
       "time": "2026-08-22 03:59:55",
@@ -147910,101 +147998,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Fall on Signs of Economic Cooling — US stock indices closed lower on Friday as macroeconomic headwinds weighed. The S&P 500 eased 0.2% from its record high, while the Dow shed 108 points and the Nasdaq 100 fell 0.1%. The University of Michigan’s preliminary August sentiment index fell to 51, below forecasts of 55. Meanwhile, retail sales dropped in July by the most in over a year. The data, alongside weak jobs figures and soft inflation, suggested that the economy is showing signs of cooling. A slowdown in consumer spending could weigh on corporate profits and the stock market. Hyperscalers, including Meta (-0.9%), Oracle (-3.8%) and Amazon (-0.9%), posted losses. Heavyweight chipmakers closed mixed, with Broadcom down 5.9%, Intel losing 2%, and Nvidia edging lower, while AMD (+6.5%) and memory producers extended their strong gains from earlier in the week. Micron added 2.3% on bullish recommendations from analysts and brokers, while Sandisk jumped 7.4% following its 14% surge on Thursday."
-    },
-    {
-      "id": "mkt:01a001e0-5edf-7aab-9045-95974c79d75a",
-      "time": "2026-08-15 04:04:36",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "Impact bearish"
-      ],
-      "text": "This week the S&P 500 rose 0.4%, the Dow Jones Industrial Average fell 0.6%, and the Nasdaq Composite rose 0.1%."
-    },
-    {
-      "id": "mkt:01a001e0-01ec-7aab-9045-8b8d5e2c4e8e",
-      "time": "2026-08-15 04:04:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch affirms Brazil's Rio de Janeiro state rating at 'BB'; outlook stable."
-    },
-    {
-      "id": "mkt:01a001df-f462-7aab-9045-8042ac1d76ca",
-      "time": "2026-08-15 04:04:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. banking regulators have conditionally approved a bank charter for World Liberty Trust Co., an entity affiliated with the Trump family, according to a letter."
-    },
-    {
-      "id": "5041950",
-      "time": "2026-08-15 04:04:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普聲稱將宣佈霍爾木茲海峽為“美國領土”】美國總統特朗普14日在白宮發表講話談及伊朗問題時，宣稱“很快就會宣佈霍爾木茲海峽成為美國的領土”。（新華社）"
-    },
-    {
-      "id": "5041949",
-      "time": "2026-08-15 04:03:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週，標普500指數上漲0.4%，道指下跌0.6%，納斯達克指數上漲0.1%。"
-    },
-    {
-      "id": "mkt:01a001df-8faa-7aab-9045-7a66331d5b99",
-      "time": "2026-08-15 04:03:43",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "On Friday, Aug. 14, U.S. equities closed lower: the Dow Jones Industrial Average fell 107.46 points (0.20%) to 53,732.53; the S&P 500 fell 13.30 points (0.17%) to 7,785.69; the Nasdaq Composite fell 73.86 points (0.28%) to 26,729.16."
-    },
-    {
-      "id": "mkt:01a001de-e8a4-7aab-9045-74bc582ccf74",
-      "time": "2026-08-15 04:03:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AVGO.O",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【US close: major indices lower; Broadcom down nearly 6%】US stocks posted a preliminary close lower on Friday: Dow Jones -0.20%, S&P 500 -0.17%, Nasdaq -0.28%. Drone-tech Unusual Machines (UMAC.N) jumped 24.83%. Storage names extended gains: SanDisk (SNDK.O) +7.39%, Micron Technology (MU.O) +2.3%. Semiconductors were mixed: AMD (AMD.O) +6.5%, Broadcom (AVGO.O) -5.94%, Applied Materials (AMAT.O) -5.12%. The Nasdaq Golden Dragon China Index rose 0.6%."
-    },
-    {
-      "id": "5041948",
-      "time": "2026-08-15 04:01:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：美國銀行監管機構向與特朗普有關聯的世界自由信託公司有條件批准其銀行牌照。"
-    },
-    {
-      "id": "5041947",
-      "time": "2026-08-15 04:00:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "維京集團股價收盤下跌7.7%，創下自2025年4月以來最大跌幅。"
-    },
-    {
-      "id": "5041946",
-      "time": "2026-08-15 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.20%，標普500指數跌0.17%，納指跌0.28%。博通跌5.94%，GoDaddy跌5.59%，應用材料跌5.12%，Strategy跌4.18%，羅賓漢跌3.83%。“七姐妹”方面：特斯拉漲0.68%，蘋果漲0.22%，英偉達跌0.06%，谷歌跌0.12%，微軟跌0.30%，Meta Platforms跌0.86%，亞馬遜跌0.94%。"
     }
   ]
 }
