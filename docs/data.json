@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-22 02:13:18",
+  "updated": "2026-08-22 02:17:24",
   "count": 16184,
   "items": [
+    {
+      "id": "5052669",
+      "time": "2026-08-22 02:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達同意支付60億美元，獲得Poolside的AI模型許可。"
+    },
+    {
+      "id": "te:markets:577352",
+      "time": "2026-08-22 02:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Gains by 2.95% — Top commodity gainers are Gasoline (2.95%), Methanol (2.78%), Natural Gas EU (1.84%), Brent Crude Oil (0.62%) and Crude Oil WTI (0.33%). Biggest loser is Propane (-1.94%)."
+    },
     {
       "id": "5052668",
       "time": "2026-08-22 02:07:15",
@@ -148253,25 +148272,6 @@
         "MKT News"
       ],
       "text": "【German Farmers' Association: heat and drought may cut or wipe out crops in some regions】On the 14th the German Farmers' Association said persistent high temperatures and drought could cause significant crop shortfalls this year. Chairman Joachim Rukwied said wheat and rapeseed yields are expected to be below average, and autumn crops including corn and soybeans may suffer large reductions. Southern Germany is particularly affected, with some crops at risk of complete failure. He added sustained heat and drought have reduced fodder production, weighing on the livestock sector."
-    },
-    {
-      "id": "te:markets:575530",
-      "time": "2026-08-15 02:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Rises by 2.62% — Top commodity gainers are Methanol (2.62%), Germany Natural Gas THE (1.48%), Gasoline (1.45%), Brent Crude Oil (1.31%) and Crude Oil WTI (1.22%)."
-    },
-    {
-      "id": "mkt:01a0017b-4717-7aab-9044-4fea626edd53",
-      "time": "2026-08-15 02:14:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House press secretary Leavitt said the administration has additional tools available to pressure Iran."
     }
   ]
 }

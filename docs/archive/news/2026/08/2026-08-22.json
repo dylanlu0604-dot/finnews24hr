@@ -1,7 +1,26 @@
 {
   "date": "2026-08-22",
-  "count": 122,
+  "count": 124,
   "items": [
+    {
+      "id": "5052669",
+      "time": "2026-08-22 02:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達同意支付60億美元，獲得Poolside的AI模型許可。"
+    },
+    {
+      "id": "te:markets:577352",
+      "time": "2026-08-22 02:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Gains by 2.95% — Top commodity gainers are Gasoline (2.95%), Methanol (2.78%), Natural Gas EU (1.84%), Brent Crude Oil (0.62%) and Crude Oil WTI (0.33%). Biggest loser is Propane (-1.94%)."
+    },
     {
       "id": "5052668",
       "time": "2026-08-22 02:07:15",
