@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 03:32:22_
-_本檔包含 3373 則快訊，約 657195 字_
+_更新時間：2026-08-22 03:52:33_
+_本檔包含 3370 則快訊，約 657882 字_
+
+---
+
+### 2026-08-20 02:01:08  #央行 #國際
+
+會議紀要顯示，美聯儲7月28-29日貨幣政策會議的多數參會者支援維持利率不變，但有數位參會者傾向於加息。
+
+---
+
+### 2026-08-20 02:00:30  #央行 #焦點 #國際
+
+會議紀要顯示，美聯儲多位官員表示，若通脹未能回落，則可能需要加息。
+
+---
+
+### 2026-08-20 02:00:24  #央行 #國際
+
+會議紀要顯示，美聯儲政策制定者在7月會議上對通脹的擔憂有所加劇。
+
+---
+
+### 2026-08-20 01:58:24  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Tops $92 — Brent crude oil rose above $92 a barrel on Wednesday as renewed tensions in the Middle East increased concerns about further disruptions to energy supplies. The UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, while President Donald Trump said there were no ongoing talks aimed at ending the conflict. Also, three China-linked supertankers turned back while transiting the waterway and a vessel was reportedly struck by a projectile near the strait. Despite the heightened risks, Gulf producers have continued moving significant volumes of crude through alternative routes and discreet shipments. US refinery activity provided additional support, with processing rates reaching their highest level since September 2019. Still, US crude inventories increased by 4.4 million barrels last week, although distillate stocks fell by 1.5 million barrels to their lowest level in more than a month.
+
+---
+
+### 2026-08-20 01:57:56  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Rises for 4th Session — Crude oil rose above $86 a barrel on Wednesday as renewed tensions in the Middle East increased concerns about further disruptions to energy supplies. The UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, while President Donald Trump said there were no ongoing talks aimed at ending the conflict. Also, three China-linked supertankers turned back while transiting the waterway and a vessel was reportedly struck by a projectile near the strait. Despite the heightened risks, Gulf producers have continued moving significant volumes of crude through alternative routes and discreet shipments. US refinery activity provided additional support, with processing rates reaching their highest level since September 2019. Still, US crude inventories increased by 4.4 million barrels last week, although distillate stocks fell by 1.5 million barrels to their lowest level in more than a month.
 
 ---
 
@@ -20277,53 +20307,5 @@ Coast Capital增持Arizona Metals股份。
 ### 2026-08-18 22:53:31  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Hovers at $91 — Brent crude oil traded around $91 a barrel on Tuesday as uncertainty over the Strait of Hormuz continued to support prices. Tensions remain elevated, with the US and Iran showing little sign of reaching an agreement over control of the key shipping route. President Donald Trump said Washington is not currently holding or planning talks with Tehran, while confirming that the US naval blockade remains in place. Despite his claim that Hormuz is open and mines have been cleared, shipping risks persist. A vessel was reportedly attacked while leaving the strait, suffering engine-room damage and a crew casualty, according to UK maritime authorities. Meanwhile, Gulf producers are finding alternative ways to maintain exports despite the disruption. Saudi Arabia has begun offering crude cargoes sourced from outside the chokepoint, suggesting it may be adopting measures similar to the United Arab Emirates to move oil through or around the affected area.
-
----
-
-### 2026-08-18 22:53:25  #市場
-
-紐約期金日內跌1%，現報4428.89美元/盎司。
-
----
-
-### 2026-08-18 22:53:24  #市場 #焦點
-
-紐約期金失守4430美元/盎司，日內跌0.99%。
-
----
-
-### 2026-08-18 22:52:39  #市場
-
-道指轉漲，標普500指數下跌0.5%，納指下跌1.2%。
-
----
-
-### 2026-08-18 22:52:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-Dow turned higher; S&P 500 down 0.5%, Nasdaq down 1.2%.
-
----
-
-### 2026-08-18 22:52:09  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
-
-Reuters survey: median forecast expects the Bank of England to keep Bank Rate unchanged at 3.75% until the first quarter of next year.
-
----
-
-### 2026-08-18 22:51:44  #公司
-
-3I INFOTECH表示經濟犯罪調查部門認定該公司對EMDURA的投訴屬於民事性質。
-
----
-
-### 2026-08-18 22:51:30  #MKT News
-
-REUTERS SURVEY: UK 2026 inflation forecast averaged 3.1% and GDP growth 1.1%; July survey figures were 3.1% and 1.0%, respectively.
-
----
-
-### 2026-08-18 22:51:24  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Near Highs as Hormuz Risks Persist — Crude oil traded near a two-week high around $85 a barrel on Tuesday as uncertainty over the Strait of Hormuz continued to support prices. Tensions remain elevated, with the US and Iran showing little sign of reaching an agreement over control of the key shipping route. President Donald Trump said Washington is not currently holding or planning talks with Tehran, while confirming that the US naval blockade remains in place. Despite his claim that Hormuz is open and mines have been cleared, shipping risks persist. A vessel was reportedly attacked while leaving the strait, suffering engine-room damage and a crew casualty, according to UK maritime authorities. Meanwhile, Gulf producers are finding alternative ways to maintain exports despite the disruption. Saudi Arabia has begun offering crude cargoes sourced from outside the chokepoint, suggesting it may be adopting measures similar to the United Arab Emirates to move oil through or around the affected area.
 
 ---

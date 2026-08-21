@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 03:32:22_
-_本檔包含 3410 則快訊，約 657750 字_
+_更新時間：2026-08-22 03:52:33_
+_本檔包含 3417 則快訊，約 657009 字_
+
+---
+
+### 2026-08-21 02:13:37  #MKT News
+
+Carney's office said Prime Minister Carney spoke with Mexican President Sheinbaum on Thursday; both urged a prompt update to the US-Mexico-Canada Agreement (USMCA).
+
+---
+
+### 2026-08-21 02:13:07  #其他
+
+加拿大總理卡尼辦公室宣告：加拿大總理卡尼週四與墨西哥總統辛鮑姆通電話，兩位領導人都強調了儘快更新《美墨加協定》的重要性。
+
+---
+
+### 2026-08-21 02:12:59  #其他
+
+中國地震臺網自動測定：08月21日02時00分在秘魯附近（南緯14.68度，西經73.62度）發生6.5級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-21 02:11:21  #其他
+
+【秘魯中部海域發生6.8級地震 震源深度為15千米】據自然資源部海嘯預警中心初步測定，2026年08月21日02時00分（北京時間），秘魯中部海域（14.69°S,73.83°W）發生6.8級地震，震源深度為15千米。地震確切資訊以中國地震臺網測定為準。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。
+
+---
+
+### 2026-08-21 02:11:05  #市場
+
+納斯達克100指數跌幅擴大至1%，創盤中新低。
+
+---
+
+### 2026-08-21 02:11:02  #MKT News #Copper #Impact bullish
+
+GFZ reported a magnitude-6.5 earthquake in central Peru.
+
+---
+
+### 2026-08-21 02:10:52  #國際
+
+美國國家氣象局太平洋海嘯預警中心：根據監測資料，本次秘魯地震無海嘯威脅。
+
+---
+
+### 2026-08-21 02:10:32  #國際
+
+俄羅斯國防部：俄羅斯空天軍出動一個戰鬥轟炸機機組打擊烏克蘭武裝部隊的指揮所和有生力量。
+
+---
+
+### 2026-08-21 02:08:11  #其他
+
+卡尼和辛鮑姆討論了當前的貿易發展情況。
+
+---
+
+### 2026-08-21 02:07:54  #其他
+
+加拿大卡尼總理今天與墨西哥總統辛鮑姆總統通了電話。
+
+---
+
+### 2026-08-21 02:06:27  #其他
+
+德國地球科學研究中心（GFZ）：6.5級地震襲擊秘魯中部。
+
+---
+
+### 2026-08-21 02:06:26  #MKT News #Important #Market Themes #AI Revolution
+
+【ANTHROPIC's IPO may match or exceed SpaceX record, sources say】People familiar say AI firm ANTHROPIC is targeting an IPO that could match or surpass SpaceX’s record. The company is modeling potential deal sizes and could publicly file for a large offering as early as the end of this month. CFO-led investor meetings have avoided valuation discussion. For context, SpaceX raised $75 bln at IPO, rising to $86.2 bln after the overallotment option (typically exercised when shares rally). Reported preliminary Q2 revenue for ANTHROPIC exceeded $11.5 bln, versus $787 mln in the same period in 2025, and its annualized revenue run-rate reached $65 bln as of end-July.
 
 ---
 
@@ -20559,35 +20631,5 @@ Fed minutes: many participants said if inf does not continue to decline, it may 
 ### 2026-08-20 02:01:13  #央行 #國際
 
 美聯儲會議紀要：部分與會者認為，金融狀況可能尚未收緊到足以讓通脹回落至2%目標區間的水平。
-
----
-
-### 2026-08-20 02:01:08  #央行 #國際
-
-會議紀要顯示，美聯儲7月28-29日貨幣政策會議的多數參會者支援維持利率不變，但有數位參會者傾向於加息。
-
----
-
-### 2026-08-20 02:00:30  #央行 #焦點 #國際
-
-會議紀要顯示，美聯儲多位官員表示，若通脹未能回落，則可能需要加息。
-
----
-
-### 2026-08-20 02:00:24  #央行 #國際
-
-會議紀要顯示，美聯儲政策制定者在7月會議上對通脹的擔憂有所加劇。
-
----
-
-### 2026-08-20 01:58:24  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Tops $92 — Brent crude oil rose above $92 a barrel on Wednesday as renewed tensions in the Middle East increased concerns about further disruptions to energy supplies. The UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, while President Donald Trump said there were no ongoing talks aimed at ending the conflict. Also, three China-linked supertankers turned back while transiting the waterway and a vessel was reportedly struck by a projectile near the strait. Despite the heightened risks, Gulf producers have continued moving significant volumes of crude through alternative routes and discreet shipments. US refinery activity provided additional support, with processing rates reaching their highest level since September 2019. Still, US crude inventories increased by 4.4 million barrels last week, although distillate stocks fell by 1.5 million barrels to their lowest level in more than a month.
-
----
-
-### 2026-08-20 01:57:56  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Rises for 4th Session — Crude oil rose above $86 a barrel on Wednesday as renewed tensions in the Middle East increased concerns about further disruptions to energy supplies. The UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, while President Donald Trump said there were no ongoing talks aimed at ending the conflict. Also, three China-linked supertankers turned back while transiting the waterway and a vessel was reportedly struck by a projectile near the strait. Despite the heightened risks, Gulf producers have continued moving significant volumes of crude through alternative routes and discreet shipments. US refinery activity provided additional support, with processing rates reaching their highest level since September 2019. Still, US crude inventories increased by 4.4 million barrels last week, although distillate stocks fell by 1.5 million barrels to their lowest level in more than a month.
 
 ---

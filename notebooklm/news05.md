@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 03:32:22_
-_本檔包含 3032 則快訊，約 656931 字_
+_更新時間：2026-08-22 03:52:33_
+_本檔包含 3013 則快訊，約 657252 字_
+
+---
+
+### 2026-08-17 18:11:53  #MKT News #Commodities #Energy
+
+【China-produced 8,000 tonnes of marine green methanol bunkered to CMA CGM vessel】On Aug 17 Shanghai Electric Group delivered and bunkered 8,000 tonnes of China-produced green methanol at Shanghai Yangshan Port to a CMA CGM freighter, marking the green methanol sector’s move into batch deliveries. The fuel was produced at Shanghai Electric’s Taonan integrated wind-power–biomass green methanol demonstration project in Jilin, using corn-stalk biomass and wind‑generated green hydrogen. The product does not rely on fossil or coal feedstocks and reduces full life-cycle carbon emissions by over 65% versus conventional methanol.
+
+---
+
+### 2026-08-17 18:11:24  #公司
+
+【道通科技：預計 2026 年半年度淨利潤為4.25億元至4.5億元】道通科技公告，經財務部門初步測算，預計 2026 年半年度實現營業收入為264,000 萬元至270,000 萬元，與上年同期相比，將增加 29,456 萬元至 35,456 萬元，同比增長12.56%至 15.12%。預計 2026 年半年度實現歸屬於母公司所有者的淨利潤為42,500 萬元至45,000萬元，與上年同期相比，將變動-3,047 萬元至-5,547 萬元，同比變動-6.34%至-11.54%。
+
+---
+
+### 2026-08-17 18:11:00  #公司
+
+【道通科技：2026年半年度營收同比增12.56%至15.12%】道通科技公告稱，預計2026年1月1日至6月30日實現營業收入26.40億元至27.00億元，同比增長12.56%至15.12%；預計歸屬於母公司所有者的淨利潤4.25億元至4.50億元，同比下降6.34%至11.54%。報告期內公司AI及軟體板塊營收約3.32億元，同比增長約18%，其中AI行業應用收入約1318萬元，同比增長約170%，受匯率波動影響匯兌損失較上年同期增加較多。
+
+---
+
+### 2026-08-17 18:10:55  #公司
+
+【金祿電子：股東麥睿明減持觸及1%整數倍】金祿電子公告稱，2026年6月4日至2026年8月14日，股東麥睿明累計減持公司股份418.40萬股，佔公司總股本的1.98%，其中集中競價減持203萬股佔總股本0.96%，大宗交易減持215.4萬股佔總股本1.02%。本次變動後，麥睿明持股比例從9.88%降至7.90%，權益變動觸及1%整數倍。本次減持符合此前披露的減持計劃，尚未實施完畢，不會導致公司控制權變更，不影響公司持續經營。
+
+---
+
+### 2026-08-17 18:10:50  #MKT News
+
+TASNIM NEWS reported a large explosion in Mocha, western Yemen, after Yemeni armed forces fired dozens of ballistic missiles and drones at military positions and weapons depots of pro‑Saudi mercenaries in Mocha and Marib.
+
+---
+
+### 2026-08-17 18:10:46  #公司 #市場
+
+【*ST未名：股票交易異常波動 不存在應披露未披露重大事項】*ST未名公告稱，公司股票於2026年8月13日、8月14日及8月17日連續3個交易日收盤價格漲幅累計偏離22.94%，屬於股票交易異常波動情形。經自查並核實控股股東、實際控制人相關情況，近期公司經營情況及內外部經營環境未發生重大變化，公司及控股股東不存在應披露而未披露的重大事項，控股股東在本次異常波動期間不存在買賣公司股票的行為，不存在違反公平資訊披露規定的情形。公司股票自2026年4月30日開市起已被實施退市風險警示。
+
+---
+
+### 2026-08-17 18:10:27  #Trading Economics #Economy #Peru #Monthly GDP YoY #Importance 1
+
+Peru Economic Activity Slows Further in June — Peru’s economy expanded 1.75% year-on-year in June 2026, easing slightly from 1.8% in May and marking the weakest growth since November 2025. Fishing recorded the steepest contraction, plunging 51.9% after a 73.1% decline in the previous month, as warmer surface waters linked to the El Niño phenomenon pushed fish into deeper waters. In turn, agriculture also weakened, falling 8.1% after a 0.1% increase. Growth in mining and hydrocarbons reversed to a 2.2% contraction from a 2.6% gain, while the decline in manufacturing narrowed to 6.2% from 10.7%. Offsetting some of the weakness, growth accelerated in commerce (7.8% vs 6.9%), construction (9% vs 4.7%) and utilities (6.8% vs 5.2%). In the first half of 2026, the economy expanded 3.05%, while growth over the 12 months through June reached 3.33%.
 
 ---
 
@@ -18162,161 +18204,5 @@ Balyasny Asset Management disclosed a holding of 3.4 million shares in SpaceX (S
 ### 2026-08-15 03:53:27  #國際
 
 特朗普談及伊朗：伊朗正遭到慘重挫敗。
-
----
-
-### 2026-08-15 03:52:07  #MKT News
-
-Leveraged funds have raised bullish bets on the Mexican peso to the highest level since 2024.
-
----
-
-### 2026-08-15 03:51:09  #MKT News
-
-President Trump said the US has earned substantial revenue from tariffs.
-
----
-
-### 2026-08-15 03:50:42  #公司 #國際
-
-犀牛比特幣公司公佈最新計劃：擬完成美國證交會申報檔案並強化獨立治理，以提升透明度併為潛在交易所升級上市做準備。
-
----
-
-### 2026-08-15 03:50:15  #國際
-
-特朗普：我們靠關稅賺了大錢。
-
----
-
-### 2026-08-15 03:50:10  #公司
-
-【Stripe、Advent洽談收購PayPal】據知情人士透露，PayPal Holdings正在與包括Stripe和私募股權公司Advent International在內的財團洽談出售事宜。Stripe與Advent於今年7月提出以每股60.50美元收購PayPal，但PayPal認為該報價過低。雙方目前正就可能更高的價格進行談判。
-
----
-
-### 2026-08-15 03:49:47  #其他
-
-市場訊息：PayPal認為每股60.50美元的報價不夠理想。
-
----
-
-### 2026-08-15 03:49:43  #MKT News #PSKY.O #Impact bullish #WBD.O
-
-Paramount (PSKY.O) and Warner Bros. Discovery (WBD.O) have met all regulatory conditions under their merger agreement.
-
----
-
-### 2026-08-15 03:48:36  #其他
-
-市場訊息：PayPal談判或敲定更高收購報價。
-
----
-
-### 2026-08-15 03:48:04  #其他
-
-市場訊息：Stripe與Advent的交易可能於未來數週內敲定。
-
----
-
-### 2026-08-15 03:47:12  #其他
-
-派拉蒙：敦促12個州總檢察長秉持誠意開展溝通。
-
----
-
-### 2026-08-15 03:46:00  #市場
-
-PAYPAL股價上漲2.8%，創下盤中新高。
-
----
-
-### 2026-08-15 03:45:51  #其他
-
-市場訊息：Stripe與Advent正洽談收購PayPal。
-
----
-
-### 2026-08-15 03:45:13  #其他
-
-市場訊息：槓桿基金將看漲墨西哥比索的押注升至2024年以來的最高水平。
-
----
-
-### 2026-08-15 03:44:55  #其他
-
-市場訊息：派拉蒙‑華納兄弟探索已滿足合併協議項下全部監管條件。
-
----
-
-### 2026-08-15 03:44:36  #國際
-
-特朗普：紐約州州長在打擊犯罪方面做得不好。
-
----
-
-### 2026-08-15 03:41:12  #國際
-
-美國代理海軍部長 ：美國“亞伯拉罕·林肯”號航空母艦將按計劃很快返航。
-
----
-
-### 2026-08-15 03:40:26  #MKT News #ORCL.N #Impact bearish
-
-Oracle (ORCL.N) pared losses, down 3.52% after earlier falling as much as 4.65%.
-
----
-
-### 2026-08-15 03:38:26  #市場
-
-甲骨文股價放量擴大跌幅，最新下跌3.8%至150.21美元。
-
----
-
-### 2026-08-15 03:38:11  #MKT News #Market Themes #AI Revolution #ORCL.N #Impact bullish
-
-Oracle (ORCL.N) said its Jupiter AI data-center campus project remains on schedule and the company will continue close cooperation with partners to advance the project.
-
----
-
-### 2026-08-15 03:36:31  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-CFTC: For week ended Aug 11, speculative traders increased WTI net longs by 4,034 contracts to 105,860. Across the four major NYMEX and ICE gas contracts, speculative net shorts fell 18,848 contracts to 70,241.
-
----
-
-### 2026-08-15 03:36:06  #MKT News #US10Y #Impact mixed
-
-Speculators' net short in CBOT 5-year Treasury futures fell by 84,963 contracts to 1,240,756 in the week to Aug. 11, the CFTC said. Net short positions in CBOT ultra-long Treasury futures rose by 11,798 contracts to 326,783, while net shorts in CBOT Treasury futures increased by 3,335 contracts to 179,607.
-
----
-
-### 2026-08-15 03:35:48  #公司
-
-甲骨文公司：木星專案仍按計劃推進，我們繼續與合作伙伴緊密協作以推動專案進展。
-
----
-
-### 2026-08-15 03:35:06  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact mixed
-
-CFTC weekly data to Aug. 11: speculators' net short in CBOT U.S. 2‑year Treasury futures rose 16,815 contracts to 1,021,043; speculators' net short in CBOT U.S. 10‑year Treasury futures fell 64,190 contracts to 915,053.
-
----
-
-### 2026-08-15 03:33:57  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bullish #Copper
-
-CFTC: For the week to Aug. 11, COMEX speculative net long positions — gold +9,470 contracts to 141,868; silver -755 contracts to 10,312; copper +3,085 contracts to 80,880.
-
----
-
-### 2026-08-15 03:33:30  #國際
-
-【巴勒斯坦譴責以方定居點“民事執法權”移交計劃】巴勒斯坦副總統侯賽因·謝赫14日譴責以色列擬將約旦河西岸猶太人定居點的“民事執法權”從以軍移交至以警方，指責這一計劃意在鞏固以方對巴方被佔領土的非法吞併。謝赫發表宣告說，任何形式的定居點活動均屬非法。對被佔巴方領土的任何部分，以色列均不擁有主權。謝赫指出，以色列的做法公然違反國際法和聯合國相關決議，意在將以色列法律和主權強加於包括東耶路撒冷在內的約旦河西岸地區，進一步鞏固對巴勒斯坦領土的非法吞併。（新華社）
-
----
-
-### 2026-08-15 03:32:42  #其他
-
-CFTC：原油投機客在截至8月11日當週將WTI淨多頭倉位增加4,034口，至105,860口。
 
 ---

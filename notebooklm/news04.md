@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 03:32:22_
-_本檔包含 3362 則快訊，約 658005 字_
+_更新時間：2026-08-22 03:52:33_
+_本檔包含 3363 則快訊，約 656839 字_
+
+---
+
+### 2026-08-18 22:53:25  #市場
+
+紐約期金日內跌1%，現報4428.89美元/盎司。
+
+---
+
+### 2026-08-18 22:53:24  #市場 #焦點
+
+紐約期金失守4430美元/盎司，日內跌0.99%。
+
+---
+
+### 2026-08-18 22:52:39  #市場
+
+道指轉漲，標普500指數下跌0.5%，納指下跌1.2%。
+
+---
+
+### 2026-08-18 22:52:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
+
+Dow turned higher; S&P 500 down 0.5%, Nasdaq down 1.2%.
+
+---
+
+### 2026-08-18 22:52:09  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Reuters survey: median forecast expects the Bank of England to keep Bank Rate unchanged at 3.75% until the first quarter of next year.
+
+---
+
+### 2026-08-18 22:51:44  #公司
+
+3I INFOTECH表示經濟犯罪調查部門認定該公司對EMDURA的投訴屬於民事性質。
+
+---
+
+### 2026-08-18 22:51:30  #MKT News
+
+REUTERS SURVEY: UK 2026 inflation forecast averaged 3.1% and GDP growth 1.1%; July survey figures were 3.1% and 1.0%, respectively.
+
+---
+
+### 2026-08-18 22:51:24  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Near Highs as Hormuz Risks Persist — Crude oil traded near a two-week high around $85 a barrel on Tuesday as uncertainty over the Strait of Hormuz continued to support prices. Tensions remain elevated, with the US and Iran showing little sign of reaching an agreement over control of the key shipping route. President Donald Trump said Washington is not currently holding or planning talks with Tehran, while confirming that the US naval blockade remains in place. Despite his claim that Hormuz is open and mines have been cleared, shipping risks persist. A vessel was reportedly attacked while leaving the strait, suffering engine-room damage and a crew casualty, according to UK maritime authorities. Meanwhile, Gulf producers are finding alternative ways to maintain exports despite the disruption. Saudi Arabia has begun offering crude cargoes sourced from outside the chokepoint, suggesting it may be adopting measures similar to the United Arab Emirates to move oil through or around the affected area.
 
 ---
 
@@ -20248,47 +20296,5 @@ Iran said more than 200 enemy aircraft were shot down in recent fighting.
 ### 2026-08-17 18:12:22  #公司
 
 【寧波方正：為間接控股子公司提供4000萬元擔保】寧波方正公告稱，公司與中國銀行股份有限公司鷹潭市分行簽訂《最高額保證合同》，為間接控股子公司江西省方正新能源科技有限公司提供最高限額4000萬元的連帶責任保證擔保。本次擔保在2026年度已審議透過的合計3.30億元擔保額度範圍內，無需額外履行審議程式。截至公告披露日，公司及子公司實際擔保餘額為7870萬元，佔公司2025年末經審計歸屬於上市公司股東淨資產的6.00%，無逾期擔保、涉訴擔保情形。
-
----
-
-### 2026-08-17 18:11:53  #MKT News #Commodities #Energy
-
-【China-produced 8,000 tonnes of marine green methanol bunkered to CMA CGM vessel】On Aug 17 Shanghai Electric Group delivered and bunkered 8,000 tonnes of China-produced green methanol at Shanghai Yangshan Port to a CMA CGM freighter, marking the green methanol sector’s move into batch deliveries. The fuel was produced at Shanghai Electric’s Taonan integrated wind-power–biomass green methanol demonstration project in Jilin, using corn-stalk biomass and wind‑generated green hydrogen. The product does not rely on fossil or coal feedstocks and reduces full life-cycle carbon emissions by over 65% versus conventional methanol.
-
----
-
-### 2026-08-17 18:11:24  #公司
-
-【道通科技：預計 2026 年半年度淨利潤為4.25億元至4.5億元】道通科技公告，經財務部門初步測算，預計 2026 年半年度實現營業收入為264,000 萬元至270,000 萬元，與上年同期相比，將增加 29,456 萬元至 35,456 萬元，同比增長12.56%至 15.12%。預計 2026 年半年度實現歸屬於母公司所有者的淨利潤為42,500 萬元至45,000萬元，與上年同期相比，將變動-3,047 萬元至-5,547 萬元，同比變動-6.34%至-11.54%。
-
----
-
-### 2026-08-17 18:11:00  #公司
-
-【道通科技：2026年半年度營收同比增12.56%至15.12%】道通科技公告稱，預計2026年1月1日至6月30日實現營業收入26.40億元至27.00億元，同比增長12.56%至15.12%；預計歸屬於母公司所有者的淨利潤4.25億元至4.50億元，同比下降6.34%至11.54%。報告期內公司AI及軟體板塊營收約3.32億元，同比增長約18%，其中AI行業應用收入約1318萬元，同比增長約170%，受匯率波動影響匯兌損失較上年同期增加較多。
-
----
-
-### 2026-08-17 18:10:55  #公司
-
-【金祿電子：股東麥睿明減持觸及1%整數倍】金祿電子公告稱，2026年6月4日至2026年8月14日，股東麥睿明累計減持公司股份418.40萬股，佔公司總股本的1.98%，其中集中競價減持203萬股佔總股本0.96%，大宗交易減持215.4萬股佔總股本1.02%。本次變動後，麥睿明持股比例從9.88%降至7.90%，權益變動觸及1%整數倍。本次減持符合此前披露的減持計劃，尚未實施完畢，不會導致公司控制權變更，不影響公司持續經營。
-
----
-
-### 2026-08-17 18:10:50  #MKT News
-
-TASNIM NEWS reported a large explosion in Mocha, western Yemen, after Yemeni armed forces fired dozens of ballistic missiles and drones at military positions and weapons depots of pro‑Saudi mercenaries in Mocha and Marib.
-
----
-
-### 2026-08-17 18:10:46  #公司 #市場
-
-【*ST未名：股票交易異常波動 不存在應披露未披露重大事項】*ST未名公告稱，公司股票於2026年8月13日、8月14日及8月17日連續3個交易日收盤價格漲幅累計偏離22.94%，屬於股票交易異常波動情形。經自查並核實控股股東、實際控制人相關情況，近期公司經營情況及內外部經營環境未發生重大變化，公司及控股股東不存在應披露而未披露的重大事項，控股股東在本次異常波動期間不存在買賣公司股票的行為，不存在違反公平資訊披露規定的情形。公司股票自2026年4月30日開市起已被實施退市風險警示。
-
----
-
-### 2026-08-17 18:10:27  #Trading Economics #Economy #Peru #Monthly GDP YoY #Importance 1
-
-Peru Economic Activity Slows Further in June — Peru’s economy expanded 1.75% year-on-year in June 2026, easing slightly from 1.8% in May and marking the weakest growth since November 2025. Fishing recorded the steepest contraction, plunging 51.9% after a 73.1% decline in the previous month, as warmer surface waters linked to the El Niño phenomenon pushed fish into deeper waters. In turn, agriculture also weakened, falling 8.1% after a 0.1% increase. Growth in mining and hydrocarbons reversed to a 2.2% contraction from a 2.6% gain, while the decline in manufacturing narrowed to 6.2% from 10.7%. Offsetting some of the weakness, growth accelerated in commerce (7.8% vs 6.9%), construction (9% vs 4.7%) and utilities (6.8% vs 5.2%). In the first half of 2026, the economy expanded 3.05%, while growth over the 12 months through June reached 3.33%.
 
 ---
