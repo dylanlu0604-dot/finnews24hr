@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-22 04:19:19",
-  "count": 16161,
+  "updated": "2026-08-22 04:23:20",
+  "count": 16158,
   "items": [
+    {
+      "id": "5052761",
+      "time": "2026-08-22 04:18:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：8月18日當週，槓桿基金開始重建日元空頭倉位。"
+    },
     {
       "id": "te:markets:577363",
       "time": "2026-08-22 04:18:22",
@@ -147937,43 +147946,6 @@
         "國際"
       ],
       "text": "特朗普：每週從委內瑞拉獲取數百萬桶石油。"
-    },
-    {
-      "id": "mkt:01a001ef-ae98-7aab-9045-b5ee1cd0727a",
-      "time": "2026-08-15 04:21:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Trump said the U.S. has the capability to destroy Iran but does not want to do so."
-    },
-    {
-      "id": "5041968",
-      "time": "2026-08-15 04:20:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普發言吹捧美國股市。"
-    },
-    {
-      "id": "mkt:01a001ee-a8b7-7aab-9045-acbde87e5f97",
-      "time": "2026-08-15 04:20:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Politico reports a White House official said the U.S.-Iran situation is unchanged and there is no word yet on an extension of the U.S.-Iran ceasefire agreement."
-    },
-    {
-      "id": "5041967",
-      "time": "2026-08-15 04:19:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "索羅斯基金管理有限責任公司將亞馬遜持股削減39.2%，至120萬股。"
     }
   ]
 }
