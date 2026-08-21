@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-22 01:10:24",
-  "count": 16201,
+  "updated": "2026-08-22 01:14:29",
+  "count": 16199,
   "items": [
+    {
+      "id": "mkt:01a02550-7d5f-7aab-90d9-65bffefba43f",
+      "time": "2026-08-22 01:13:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Dalio warns of US debt-crisis risk, urges 10–15% gold allocation】Bridgewater founder Ray Dalio warned investors to cut bond exposure and allocate about 10–15% to gold to hedge a US debt crisis he says could occur within three years. In a Friday post he urged broader asset and market diversification, saying reduced bond holdings combined with a roughly 10–15% gold position would lower risk and boost returns."
+    },
+    {
+      "id": "mkt:01a0254d-b6d3-7aab-90d9-5918d73eb056",
+      "time": "2026-08-22 01:10:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Anthropic launches $35 million open-source cyber defense fund."
+    },
+    {
+      "id": "5052648",
+      "time": "2026-08-22 01:10:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 推出 3500 萬美元開源網路防禦基金。"
+    },
     {
       "id": "5052647",
       "time": "2026-08-22 01:09:16",
@@ -148352,54 +148378,6 @@
         "國際"
       ],
       "text": "特朗普稱讚股市。"
-    },
-    {
-      "id": "mkt:01a00144-617d-7aab-9043-9c7b30494b1a",
-      "time": "2026-08-15 01:14:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Saba news agency, controlled by Yemen's Houthi movement, said the Houthis used drones to strike an ARAMCO facility in Najran province in southern Saudi Arabia."
-    },
-    {
-      "id": "5041862",
-      "time": "2026-08-15 01:14:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尚比亞恢復大選計票】尚比亞選舉委員會於14日18時左右宣佈解除此前的大選計票暫停措施。贊選舉委員會在首都盧薩卡召開新聞釋出會表示，經與安全部門協商，該委員會決定解除計票暫停措施。目前，安全形勢已得到控制，相關部門已採取必要措施，確保選舉工作人員和選票安全。（新華社）"
-    },
-    {
-      "id": "5041861",
-      "time": "2026-08-15 01:12:38",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "葉門胡塞武裝控制的薩巴通訊社援引軍方訊息稱，該組織使用無人機襲擊了沙特阿美位於奈季蘭的設施。"
-    },
-    {
-      "id": "5041860",
-      "time": "2026-08-15 01:11:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統唐納德・特朗普抵達安德魯斯聯合基地。"
-    },
-    {
-      "id": "mkt:01a00140-e0ef-7aab-9043-97760c648855",
-      "time": "2026-08-15 01:10:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "The US Department of Justice (DOJ) and the Commodity Futures Trading Commission (CFTC) are investigating trades by iron-ore trader Radiant World."
     }
   ]
 }
