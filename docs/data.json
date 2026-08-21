@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-21 09:21:14",
-  "count": 16022,
+  "updated": "2026-08-21 09:25:05",
+  "count": 16023,
   "items": [
+    {
+      "id": "mkt:01a021eb-3f81-7aab-90c4-ea5fe1681bd6",
+      "time": "2026-08-21 09:24:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【PBOC reverse repos deliver CNY95bn net injection today; CNY272bn net withdrawal this week】The PBOC conducted CNY95 billion of overnight reverse repos today; with no reverse-repo maturities, today’s net injection was CNY95 billion. For the week the PBOC conducted CNY1.458 trillion of reverse repos; CNY18 billion of 7-day reverse repos and CNY1.712 trillion of overnight reverse repos matured, leaving a reported net withdrawal of CNY212 billion for the week."
+    },
+    {
+      "id": "5050998",
+      "time": "2026-08-21 09:24:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股高開2.4%，AI和雲業務收入高增拉動季度營收升近一成。"
+    },
+    {
+      "id": "5050997",
+      "time": "2026-08-21 09:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省“十五五”財政規劃：支援營造開放包容的創新生態】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，支援營造開放包容的創新生態。健全政府科技創新投入機制，各級政府科技創新投入預算安排原則上只增不減。推動“315”科技創新體系支援政策實施，最佳化財政科技創新投入結構，加大基礎研究、應用基礎研究、人才引育、科研平臺、概念驗證中心和中試平臺、科技型企業孵化器等投入。支援上海（長三角）國際科技創新中心建設。"
+    },
+    {
+      "id": "5050995",
+      "time": "2026-08-21 09:22:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展950億元7天逆回購操作，投標量950億元，中標量950億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:01a021e9-43ad-7aab-90c4-e01ae4dc7ac6",
+      "time": "2026-08-21 09:22:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "PBOC conducted CNY95 billion 7-day reverse repo today; bids CNY95 billion, allotment CNY95 billion, rate 1.40%, unchanged from previous operation."
+    },
+    {
+      "id": "5050994",
+      "time": "2026-08-21 09:21:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：阿里巴巴AI投資將影響短期盈利 但仍是該領域重要投資標的】花旗稱，阿里巴巴增加投資以滿足人工智慧巨大需求，這一重資產投資主要集中在前期，將影響其短期盈利能力，但管理層認為這是一種受控的現金流權衡。小幅下調公司目標價，但仍維持對公司的買入評級，認為其是中國人工智慧領域重要的投資標的。花旗分析師Alicia Yap等在報告中指出，資本開支有可衡量的投資回收期作為支撐，而毛利率擴大、定價能力增強及利用率提高將推動投資回報。管理層預計未來幾個季度雲業務收入將進一步加速，息稅折舊攤銷前利潤率將呈現穩步上升趨勢。花旗將阿里巴巴美股最新目標價定為190美元，港股目標價為189港元，較之前小幅下調。"
+    },
+    {
+      "id": "mkt:01a021e8-f484-7aab-90c4-da1880caba09",
+      "time": "2026-08-21 09:21:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhejiang issues 15th Five-Year fiscal plan】Zhejiang provincial government office issued its 15th Five-Year fiscal plan, signaling a stronger, more sustainable fiscal stance. The plan targets higher local revenue mobilization, conversion of high-quality development into fiscal momentum and establishment of a high-quality, sustainable fiscal balance system; it pledges a more forceful active fiscal policy, stronger fiscal guarantees for major strategies and basic livelihoods, an improved \"8+4\" fiscal-support framework and closer coordination of fiscal policy with monetary, employment, industrial, regional and trade policies to optimize resource allocation and policy targeting."
+    },
+    {
+      "id": "5050993",
+      "time": "2026-08-21 09:21:18",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.42％，國企指數漲0.37％，科指漲0.21%。泡泡瑪特績後跌8.2%。"
+    },
+    {
+      "id": "mkt:01a021e8-3d4e-7aab-90c4-d7163d783242",
+      "time": "2026-08-21 09:21:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HSI opened up 109.12 pts (+0.42%) at 25,807.61 on Aug 21 (Fri); Hang Seng TECH Index opened up 9.88 pts (+0.21%) at 4,710.41; HSCEI opened up 31.80 pts (+0.37%) at 8,579.64; Red Chip Index opened up 21.14 pts (+0.50%) at 4,232.01."
+    },
+    {
+      "id": "mkt:01a021e8-29c8-7aab-90c4-c94919fc8610",
+      "time": "2026-08-21 09:20:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09992.HK",
+        "Impact bearish",
+        "02259.HK"
+      ],
+      "text": "Hong Kong market opened firmer: Hang Seng Index up 0.42%, Hang Seng TECH up 0.21%. Pop Mart (09992.HK) fell 8.2% after results; 1H revenue and net profit missed expectations. Gold shares led gains: Zijin Gold International (02259.HK) up about 4%, Shandong Gold (01787.HK) up over 3%."
+    },
     {
       "id": "5050992",
       "time": "2026-08-21 09:20:19",
@@ -146525,97 +146629,6 @@
         "其他"
       ],
       "text": "廣達電腦與Quantinuum宣佈合作，為大規模量子計算構建產業基礎。"
-    },
-    {
-      "id": "mkt:019ffddf-40ea-7aab-9031-dd9c71ea82f2",
-      "time": "2026-08-14 09:24:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC nets CNY 1.001 tln drain via reverse repos today; CNY 1.0985 tln net drain this week】Today the PBOC did not conduct new reverse repos; CNY 1.0 bln of 7-day reverse repos and CNY 1.0 tln of outright reverse-repo maturities led to a CNY 1.001 tln net drain. This week the PBOC injected CNY 18 bln of 7-day reverse repos while CNY 116.5 bln of 7-day maturities and CNY 1.0 tln of outright reverse-repo maturities rolled off, producing a CNY 1.0985 tln weekly net drain."
-    },
-    {
-      "id": "mkt:019ffddd-e77b-7aab-9031-d6e863770052",
-      "time": "2026-08-14 09:23:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09698.HK",
-        "Impact bullish"
-      ],
-      "text": "Wanguo Data (09698.HK) shares opened 9.28% higher after the company reported Q2 net profit of 838 mln yuan, reversing a year-earlier loss."
-    },
-    {
-      "id": "5040292",
-      "time": "2026-08-14 09:23:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度一在建隧道塌方 已致至少7人死亡】當地時間13日，印度北阿坎德邦一在建隧道發生塌方。據當地警方和救援人員透露，事故造成至少7人死亡，另有多人受傷，救援工作還在繼續。"
-    },
-    {
-      "id": "5040291",
-      "time": "2026-08-14 09:22:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放3480億元人民幣。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202608143841306065",
-      "time": "2026-08-14 09:21:59",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "mkt:019ffddc-82db-7aab-9031-cc412e453010",
-      "time": "2026-08-14 09:21:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "JD.com",
-        "09618.HK",
-        "Impact bearish"
-      ],
-      "text": "JD.com (09618.HK) shares opened down 6.5% after earnings; Q2 2026 net profit CNY 7.1 bln, net margin 2.1%."
-    },
-    {
-      "id": "5040290",
-      "time": "2026-08-14 09:21:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行：根據公開市場業務一級交易商的需求，2026年8月14日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "mkt:019ffddc-51bd-7aab-9031-c71563b9d3ac",
-      "time": "2026-08-14 09:21:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Foreign Ministry comments on Ecuador President Noboa's upcoming China visit】China's Foreign Ministry said Ecuador President Daniel Noboa will make his first state visit to China and will hold talks with President Xi Jinping; he will also meet Premier Li Qiang and NPC Standing Committee chairman Zhao Leji. Beijing described Ecuador as a major Latin American partner and a comprehensive strategic partner; the two countries have signed Belt and Road cooperation documents and a free trade agreement. The visit coincides with the 10th anniversary of the comprehensive strategic partnership and is aimed at consolidating political trust and advancing bilateral cooperation."
-    },
-    {
-      "id": "5040289",
-      "time": "2026-08-14 09:21:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "京東港股開盤跌6.5%。"
     }
   ]
 }
