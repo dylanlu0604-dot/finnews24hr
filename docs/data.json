@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-22 04:31:18",
-  "count": 16154,
+  "updated": "2026-08-22 04:35:16",
+  "count": 16150,
   "items": [
+    {
+      "id": "5052772",
+      "time": "2026-08-22 04:33:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：拉拉颶風仍保持強颶風強度。"
+    },
+    {
+      "id": "5052771",
+      "time": "2026-08-22 04:33:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "COVOLT POWER INC. 擬在紐約證券交易所上市，股票程式碼為“KVLT”。"
+    },
+    {
+      "id": "5052770",
+      "time": "2026-08-22 04:32:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "REAL與RE/MAX HOLDINGS宣佈，REAL已就擬議合併交易中的擬議安排方案獲得法院批准。"
+    },
+    {
+      "id": "5052769",
+      "time": "2026-08-22 04:31:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "COLUMBUS CIRCLE CAPITAL CORP II宣佈，ELROY AIR獲得美國陸軍一份價值高達4600萬美元的合同。"
+    },
     {
       "id": "5052768",
       "time": "2026-08-22 04:28:16",
@@ -147831,79 +147863,6 @@
         "Impact bullish"
       ],
       "text": "SEC filing shows Intel (INTC.O) CEO Chen Liwu bought 105,263 shares in the open market on Aug. 11 at an average price of $95 per share."
-    },
-    {
-      "id": "5041981",
-      "time": "2026-08-15 04:35:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【索羅斯第二季度新建Nebius等頭寸】索羅斯在第二季度新建了美國電力（AEP）、Nebius集團（NBIS）、Apogee Therapeutics（APGE）、DigitalBridge集團（DBRG）、Taylor Morrison住宅（TMHC）的頭寸；清倉了賽富時（CRM）、Penumbra（PEN）、Select Medical控股（SEM）、格芯（GFS）、Clear Channel戶外廣告（CCO）。"
-    },
-    {
-      "id": "te:markets:575541",
-      "time": "2026-08-15 04:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index dropped 108 points or 0.20 percent on Friday to close at 53732 points. Losses were led by Salesforce (-2.25%), Cisco Systems (-1.67%) and Amgen (-1.28%). Offsetting the fall, top gainers were Walt Disney (2.05%), Chevron (1.16%) and UnitedHealth (0.61%)."
-    },
-    {
-      "id": "5041980",
-      "time": "2026-08-15 04:34:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心預測，拉拉颶風將於週六給夏威夷大島帶來颶風天氣。"
-    },
-    {
-      "id": "5041979",
-      "time": "2026-08-15 04:34:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈佛大學披露持有SpaceX價值22億美元的股權。"
-    },
-    {
-      "id": "5041978",
-      "time": "2026-08-15 04:34:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，颶風赫爾南幾乎停滯不前，並減弱為熱帶低氣壓。"
-    },
-    {
-      "id": "5041977",
-      "time": "2026-08-15 04:33:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美對古戰略側重經濟制裁而非軍事選項】據美國彭博社14日報道，特朗普政府對古巴的戰略正日益側重於加大經濟制裁和施壓，而非部署軍事力量。報道援引不願透露姓名的知情人士的話說，美方目前關注重點在於切斷古巴政權的所有收入來源，而不是採取類似今年1月針對委內瑞拉總統馬杜羅的那種軍事行動，並稱該戰略“旨在製造內部分裂，為談判創造空間”。（新華社）"
-    },
-    {
-      "id": "mkt:01a001f9-62a0-7aab-9045-d2c8025ec6c9",
-      "time": "2026-08-15 04:31:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "SEC filing shows NVIDIA (NVDA.O) holds 122.8 mln Class A common shares of SpaceX (SPCX.O), valued at about $21.0 bln."
-    },
-    {
-      "id": "5041976",
-      "time": "2026-08-15 04:31:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在紐約的活動上結束講話。"
     }
   ]
 }
