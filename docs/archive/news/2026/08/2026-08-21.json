@@ -1,7 +1,60 @@
 {
   "date": "2026-08-21",
-  "count": 841,
+  "count": 846,
   "items": [
+    {
+      "id": "te:markets:577051",
+      "time": "2026-08-21 10:14:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Holds Steady After Inflation Data — The Japanese yen was little changed around 159 per dollar on Friday after experiencing heightened volatility earlier this week, as data showed Japan’s inflation rate accelerated for the second consecutive month, strengthening the case for a Bank of Japan interest rate hike in the near term. Markets are speculating on a possible move in September, with BOJ Governor Kazuo Ueda indicating that authorities could begin normalizing policy at a faster pace. The yen jumped nearly 1% on Wednesday after the US Treasury Department announced larger debt buybacks aimed at containing borrowing costs, before giving back more than half of those gains a day later amid concerns that the US government’s plan may provide only a temporary solution. The local currency also remained under longer-term pressure due to wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs."
+    },
+    {
+      "id": "te:economy:577050",
+      "time": "2026-08-21 10:14:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Japan Food Prices Rise the Most in 5 Months — Japan’s food prices rose 3.5% year-on-year in July 2026, accelerating from 3.2% in June and marking the fastest increase since February. Price pressures strengthened across fresh vegetables (6.6% vs 2.8%), fresh fruit (2.4% vs 0.2%), cakes and candies (6.1% vs 5.6%), fish and seafood (9.0% vs 7.6%), meats (3.9% vs 3.5%), alcoholic beverages (0.6% vs 0.5%), and meals eaten out (1.7% vs 1.6%). Meanwhile, price growth eased for dairy products and eggs (3.5% vs 4.5%), oils, fats and seasonings (3.4% vs 4.0%), prepared foods (3.5% vs 3.7%), and beverages (5.5% vs 5.9%). Cereal prices fell for a third straight month (-2.2% vs -2.1%). Notably, rice prices dropped 11.6% year-on-year, extending their decline for a third consecutive month and marking the steepest fall since August 2005."
+    },
+    {
+      "id": "te:markets:577049",
+      "time": "2026-08-21 10:13:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Heads for 4th Weekly Gain — The Australian dollar rose above $0.71, hitting an eleven-week high and on track for a fourth consecutive weekly advance, as broad weakness in the US dollar outweighed signs of softening in the domestic labor market. The greenback remained under pressure as investors questioned whether the Treasury’s decision to double purchases of longer-dated debt could provide lasting relief, prompting a rebound in US Treasury yields and reinforcing concerns over the country’s widening fiscal deficit and heavy debt burden. The weaker dollar more than offset pressure from softer Australian labor data, which showed employment fell in June and unemployment climbed to a near five-year high of 4.5%. Still, the data was not considered weak enough to fully eliminate expectations for further RBA tightening, with markets pricing around a 70% chance of a rate hike to 4.60% by early next year. Also, a diplomatic deadlock in the Middle East kept oil prices higher and inflationary risks elevated."
+    },
+    {
+      "id": "5051094",
+      "time": "2026-08-21 10:12:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲10%，現報1928.50點。"
+    },
+    {
+      "id": "5051093",
+      "time": "2026-08-21 10:11:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：停泊在日本造船廠的一艘大型艦艇發生火災，已造成1人死亡、多人受傷】據《朝日新聞》報道，8月21日上午在靜岡市三保造船廠，一艘正在接受維修的大型艦艇的內部發生火災，已造成1人死亡至少4人受傷。根據現場情況，傷亡人數可能更多，消防人員正在滅火。（環球網）"
+    },
     {
       "id": "5051092",
       "time": "2026-08-21 10:10:33",
