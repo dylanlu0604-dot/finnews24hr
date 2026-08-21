@@ -1,7 +1,135 @@
 {
   "date": "2026-08-22",
-  "count": 8,
+  "count": 22,
   "items": [
+    {
+      "id": "te:markets:577340",
+      "time": "2026-08-22 00:12:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.00% Higher — The FTSE MIB Index gained 2 points or 0.00 percent on Friday to close at 52668 points. Gains were led by Stellantis N.V. (4.11%), Avio (2.55%) and Brunello Cucinelli (2.33%). Biggest losers were Tenaris (-2.40%), Mediobanca (-1.70%) and Leonardo SpA (-1.67%)."
+    },
+    {
+      "id": "mkt:01a02517-7767-7aab-90d8-6cfbf31fc065",
+      "time": "2026-08-22 00:11:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian government said U.S. President Trump suggested Brazil and U.S. officials resume talks as soon as possible."
+    },
+    {
+      "id": "te:markets:577339",
+      "time": "2026-08-22 00:11:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.59% Higher — The DAX Index went up by 154 points or 0.59 percent on Friday to close at 26137 points. The rise was led by Adidas (2.28%), BMW (1.66%) and Hochtief (1.55%). On the downside, the weakerst performers were Qiagen NV (-3.03%), MTU Aero Engines AG (-1.95%) and Fresenius Medical Care (-1.83%)."
+    },
+    {
+      "id": "5052618",
+      "time": "2026-08-22 00:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱遠端打擊俄境內軍事能源目標】俄羅斯軍方8月19日深夜到8月20日凌晨對烏克蘭基輔市發動大規模空襲，烏方稱，空襲已導致基輔和基輔州至少16人死亡。烏克蘭總統澤連斯基8月21日稱，烏軍當天凌晨發動遠端打擊，擊中俄羅斯兩處重要目標。俄羅斯國防部21日通報稱，俄聯邦武裝力量繼續打擊了涉及烏克蘭武裝部隊利益的港口基礎設施。（CCTV國際時訊 ）"
+    },
+    {
+      "id": "mkt:01a02516-8c35-7aab-90d8-65eb96f37c31",
+      "time": "2026-08-22 00:10:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian government says President Lula has strengthened his commitment to cooperate with the United States in combating organized crime."
+    },
+    {
+      "id": "5052617",
+      "time": "2026-08-22 00:10:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府：盧拉重申將與美國在打擊有組織犯罪方面開展合作。"
+    },
+    {
+      "id": "te:markets:577338",
+      "time": "2026-08-22 00:10:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.30% Higher — The CAC 40 Index rose 26 points or 0.30 percent on Friday to close at 8479 points. Leading the gains are Stellantis NV (4.36%), ArcelorMittal (2.32%) and LVMH (2.08%). Top losers were Thales (-1.29%), ENGIE (-1.09%) and TotalEnergies SE (-1.02%)."
+    },
+    {
+      "id": "5052616",
+      "time": "2026-08-22 00:10:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府：特朗普提議儘快與巴西舉行關稅問題會談。特朗普認同雙方有必要建立牢固的貿易關係。"
+    },
+    {
+      "id": "te:markets:577337",
+      "time": "2026-08-22 00:09:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ends Flat — The FTSE MIB closed largely unchanged at 52,668 on Friday, as merger activity drove a mixed performance among heavyweight financials. MPS fell 1.3% after announcing plans to bid for Banco BPM (-0.4%) and Generali-controlled Banca Generali (-0.4%) in deals worth a combined €34 billion, seeking to fend off rival Intesa Sanpaolo’s (-0.7%) takeover bid. MPS is also still in the process of absorbing Mediobanca (-1.8%), with CEO Lovaglio facing the challenge of winning over investors in the target, including Crédit Agricole. BPER Banca (-0.1%), Unipol (0.9%) and UniCredit (0.3%) were also affected by the ongoing consolidation activity. Meanwhile, energy stocks traded lower, led by Tenaris (-2.4%), while Eni (-1.7%) and Saipem (-0.8%) also declined. On the upside, Stellantis gained 4.1%, while Avio advanced 2.6% after Goldman Sachs further increased its aggregate stake in the company. Brunello Cucinelli (2.3%) and Ferrari (1.9%) also advanced, recovering from the previous session’s losses."
+    },
+    {
+      "id": "mkt:01a02515-96c9-7aab-90d8-5b40427a17bf",
+      "time": "2026-08-22 00:09:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian government said President Lula reiterated the need for tariff negotiations."
+    },
+    {
+      "id": "mkt:01a02515-6aea-7aab-90d8-5708e29e1b46",
+      "time": "2026-08-22 00:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's government said the United States and Brazil discussed global and bilateral agendas."
+    },
+    {
+      "id": "5052615",
+      "time": "2026-08-22 00:09:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【城堡投資出售逾40億美元購自Situational Awareness的持倉】肯·格里芬旗下城堡投資已出售逾40億美元的持倉，這些持倉來自該公司此前從陷入困境的AI對沖基金Situational Awareness收購的股票投資組合。“截至目前，在與交易對手密切合作下，我們已成功削減原投資組合總體風險的80%以上，”格里芬週五在致投資者信中表示。“在這一過程中，我們完成了近100筆大宗交易，總市值超過40億美元。”城堡上月底達成協議，從由Leopold Aschenbrenner管理的對沖基金Situational Awareness手中收購股票。當時，該基金因觸發追加保證金通知而陷入困境。與城堡達成交易後，Situational Awareness得以穩定局面。"
+    },
+    {
+      "id": "5052614",
+      "time": "2026-08-22 00:08:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉告知特朗普，兩國應繼續開展關稅談判。"
+    },
+    {
+      "id": "mkt:01a02514-8c8b-7aab-90d8-49c4671134be",
+      "time": "2026-08-22 00:08:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's government said President Lula spoke by phone with US President Trump on Friday local time."
+    },
     {
       "id": "5052613",
       "time": "2026-08-22 00:07:50",
