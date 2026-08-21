@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-22 01:06:21",
-  "count": 16198,
+  "updated": "2026-08-22 01:10:24",
+  "count": 16201,
   "items": [
+    {
+      "id": "5052647",
+      "time": "2026-08-22 01:09:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude Mythos現在投放到Claude Security。"
+    },
+    {
+      "id": "5052646",
+      "time": "2026-08-22 01:09:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4690美元/盎司，日內漲2.60%。"
+    },
+    {
+      "id": "mkt:01a0254b-c9f6-7aab-90d9-518703b9f52e",
+      "time": "2026-08-22 01:08:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Baker Hughes said U.S. energy firms reduced the number of active drilling rigs, the first decline in four weeks."
+    },
+    {
+      "id": "5052645",
+      "time": "2026-08-22 01:05:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【達利歐：債務危機逼近，建議賣出債券、買入黃金和比特幣】橋水基金創始人瑞·達利歐表示，投資者應減持債券，並將最多15%的資金配置於黃金，以對沖美國債務危機的風險。達利歐估算，今年美國政府收入約為5.5萬億美元，而支出高達7.5萬億美元，留下2萬億美元的缺口。他警告稱，美國債務危機可能在”三年左右，誤差不超過兩年”內到來。達利歐主張透過削減支出、提高稅收收入和降低利率的組合來縮小預算赤字，並預計”黃金和比特幣等非政府發行的貨幣將相對錶現良好”。"
+    },
     {
       "id": "te:markets:577348",
       "time": "2026-08-22 01:05:33",
@@ -148360,18 +148400,6 @@
         "Industrial Metals"
       ],
       "text": "The US Department of Justice (DOJ) and the Commodity Futures Trading Commission (CFTC) are investigating trades by iron-ore trader Radiant World."
-    },
-    {
-      "id": "te:economy:575528",
-      "time": "2026-08-15 01:08:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Colombia Retail Sales Beat Expectations — Colombia’s real retail sales rose 14.7% year-on-year in June 2026, slightly above market expectations of 13.6% and accelerating from 11.7% in May. Seventeen merchandise lines recorded positive changes, while two declined. The largest increases were recorded in motor vehicles and motorcycles, mainly for household use (49.8%), other motor vehicles and motorcycles (52.4%), and sound and video equipment and appliances (89.9%). Meanwhile, sales of footwear, leather goods and leather substitutes fell 1.6%, while food sales declined 1.2%."
     }
   ]
 }
