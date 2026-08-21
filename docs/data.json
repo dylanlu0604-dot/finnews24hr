@@ -1,7 +1,169 @@
 {
-  "updated": "2026-08-21 16:08:47",
-  "count": 16138,
+  "updated": "2026-08-21 16:13:06",
+  "count": 16142,
   "items": [
+    {
+      "id": "te:markets:577197",
+      "time": "2026-08-21 16:12:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Attempts Recovery — The DAX 40 rose about 0.3% to trade slightly above the 26,000 mark on Friday, after four straight sessions of losses, led by tech stocks. Chipmaker Infineon Technologies and AI-related Hochtief were among the top performers, rising 2.1% and 1.8%, respectively. Meanwhile, some caution prevailed amid elevated oil prices and bond yields and geopolitical uncertainty. On the data front, Germany’s private sector saw only modest growth in August, with a strong manufacturing rebound countering another decline in services."
+    },
+    {
+      "id": "5051653",
+      "time": "2026-08-21 16:12:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星將於第三季度派發30萬億韓元現金股息。"
+    },
+    {
+      "id": "5051652",
+      "time": "2026-08-21 16:11:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新相微：2026年上半年淨利潤588.71萬元，同比增長8.07%】新相微公告，2026年上半年營業收入3.12億元，同比增長9.30%；歸屬於上市公司股東的淨利潤588.71萬元，同比增長8.07%，2025年上半年為544.73萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤194.71萬元，同比下降55.14%。"
+    },
+    {
+      "id": "5051651",
+      "time": "2026-08-21 16:11:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超聲電子：2026年上半年淨利潤1.13億，同比下降1.17%】超聲電子公告，2026年上半年營業收入33.51億元，同比增長10.04%；歸屬於上市公司股東的淨利潤1.13億元，同比下降1.17%，2025年上半年為1.15億元；扣除非經常性損益的淨利潤1.1億元，同比下降2.62%。"
+    },
+    {
+      "id": "mkt:01a02360-4494-7aab-90cd-1c8ef7a8349b",
+      "time": "2026-08-21 16:11:46",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics expects shareholder returns in 2026 to reach about KRW 90–110 trillion."
+    },
+    {
+      "id": "5051650",
+      "time": "2026-08-21 16:11:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要銀行指數<.XBANK>上漲2.25%。"
+    },
+    {
+      "id": "5051649",
+      "time": "2026-08-21 16:11:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子預計，2026年用於股東回報的資金規模約為90萬億至110萬億韓元。"
+    },
+    {
+      "id": "5051648",
+      "time": "2026-08-21 16:11:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年茅臺酒產量下降？貴州茅臺：屬於生產作業進度不同帶來的階段性統計差異，全年累計產量不受影響】8月21日，貴州茅臺舉行了2026年半年度業績說明會。今年上半年，茅臺酒基酒產量4.1萬噸，較去年同期4.37萬噸減少約0.27萬噸。對於上半年茅臺酒產量減少，貴州茅臺董事、代總經理王莉回應稱，貴州茅臺酒生產嚴格遵循“順天應時”的傳統釀造節律，每年度制酒投料時間不完全一致，報告期內的基酒產量，屬於生產作業進度不同帶來的階段性統計差異，後續全年累計產量不會受此影響。（每經）"
+    },
+    {
+      "id": "mkt:01a02360-10cb-7aab-90cd-16a8cf2d2200",
+      "time": "2026-08-21 16:11:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "Red Chip Index"
+      ],
+      "text": "Hong Kong — Hang Seng Index (HSI) closed up 310.97 points (+1.21%) at 26,009.46 on Aug 21 (Fri). Hang Seng Tech Index closed up 65.63 points (+1.40%) at 4,766.16. China Enterprises Index (HSCEI) closed up 86.50 points (+1.01%) at 8,634.34. Red Chip Index closed up 81.48 points (+1.93%) at 4,292.35."
+    },
+    {
+      "id": "te:economy:577195",
+      "time": "2026-08-21 16:11:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Eurozone Manufacturing Activity Rises Most in 4 Years — The S&P Global Eurozone Manufacturing PMI rose to 52.8 in August from 51.9 in the previous month, surpassing market expectations of 51.8 to mark the fastest pace of expansion in manufacturing activity in four years. The manufacturing growth was centered around Germany, where production rose the most since January 2022 after underperforming that from its Eurozone partners, reflecting some traction to the push from the government to stimulate the economy with fresh spending. The rise in new orders drove manufacturing employment to increase slightly, ending a three-year streak of monthly job shedding. Likewise, purchasing activity increased slightly. In the meantime, input costs slowed to their weakest since before the start of the Middle East war in February, driving output charges to rise less. In the meantime, business confidence improved to a six-month high for manufacturing."
+    },
+    {
+      "id": "5051647",
+      "time": "2026-08-21 16:10:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州茅臺：目前茅臺1935渠道商合同執行計劃超80%】8月21日，貴州茅臺舉行了2026年半年度業績說明會。針對公司系列酒板塊的情況，貴州茅臺代行總經理王莉回應指出，2026年，公司徹底打破“壓貨衝量”的增長慣性，主動切換至“以動銷定投放”的精耕細作模式。一季度借“雙節”旺季勢能，系列酒銷量、營收實現同比增長；二季度進入行業傳統淡季，公司圍繞市場化轉型的工作要求，主動精準調控，儘管短期報表同比有所回落，但終端動銷實現同比增長，渠道庫存、存銷比處於健康區間。截至目前，茅臺1935酒渠道商合同執行計劃已超80%，終端動銷良好。"
+    },
+    {
+      "id": "5051646",
+      "time": "2026-08-21 16:10:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同大股份：2026年上半年淨利潤439.24萬元同比下降47.62%】同大股份公告，2026年上半年營業收入1.68億元，同比下降13.98%；歸屬於上市公司股東的淨利潤439.24萬元，同比下降47.62%，上年同期為838.53萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤427.15萬元，同比下降42.62%。"
+    },
+    {
+      "id": "5051645",
+      "time": "2026-08-21 16:10:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "黎巴嫩7月消費者價格指數同比上漲15.69%。"
+    },
+    {
+      "id": "te:markets:577194",
+      "time": "2026-08-21 16:10:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Drops by 1.58% — Top commodity losers are Sugar (-1.58%), Canola (-0.87%) and Rice (-0.70%). Gains are led by Palm Oil (0.79%)."
+    },
+    {
+      "id": "5051644",
+      "time": "2026-08-21 16:09:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新疆天業：披露2026年第二季度主要經營資料】新疆天業公告稱，披露2026年第二季度及1-6月主要經營資料。2026年第二季度，聚氯乙烯樹脂產量27.07萬噸、銷量26.32萬噸，銷售收入11.65億元；固體燒鹼產量19.31萬噸、銷量19.26萬噸，銷售收入4.84億元。2026年1-6月，聚氯乙烯樹脂產量53.83萬噸、銷量54.41萬噸，銷售收入23.46億元；固體燒鹼產量37.61萬噸、銷量36.38萬噸，銷售收入9.35億元。主要產品中，特種聚氯乙烯樹脂、乙醇售價同比上漲，固體燒鹼、糊樹脂等售價同比下降；主要原材料煤炭採購均價同比微漲，蘭炭、焦炭等採購均價同比下降。"
+    },
+    {
+      "id": "mkt:01a0235d-ca29-7aab-90cd-09ed66008ec3",
+      "time": "2026-08-21 16:09:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "06693.HK",
+        "Impact bullish",
+        "00100.HK",
+        "02513.HK"
+      ],
+      "text": "Hong Kong stocks closed higher: the Hang Seng Index rose 1.21% and the Hang Seng TECH Index gained 1.40%. Gold miners and large-AI-model names led gains — Chifeng Gold (06693.HK) jumped 12.4%, MINIMAX-W (00100.HK) rose nearly 12% and Zhipu (02513.HK) advanced more than 10%."
+    },
+    {
+      "id": "5051643",
+      "time": "2026-08-21 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲1.210%，恒生科技指數漲1.396%】MINIMAX-W漲11.856%，智譜漲8.798%，老鋪黃金漲7.509%，恆基地產漲6.600%，中信股份漲5.636%，舜宇光學科技漲5.021%，紫金礦業漲4.897%。"
+    },
     {
       "id": "5051642",
       "time": "2026-08-21 16:08:07",
@@ -147735,143 +147897,6 @@
         "其他"
       ],
       "text": "【自然資源部：2025年南海區海洋生態狀況總體穩定】8月14日，自然資源部南海局正式釋出《2025年南海區海洋生態預警監測公報》和《2025年南海區海洋生態保護修復公報》。《預警監測公報》顯示，2025年南海區海洋生態狀況總體穩定。近岸海域水體環境和生物多樣性均處在常年波動範圍內，總體保持穩定。紅樹林、海草床生態系統整體狀況優良，紅樹林蓋度在75%以上，植被群落穩定，生物多樣性水平高，構成一道綿延數千裡的“海上綠色長城”。珊瑚礁、濱海鹽沼生態系統狀況以中等為主，各監測區域的活珊瑚覆蓋率均有所升高。河口、海灣生態系統基本穩定，西中南沙島礁生態狀況總體優良。《保護修復公報》顯示，2025年，南海區共實施海洋生態修復工程專案66個，總投入資金近50億元。截至2025年底，南海區共劃定海洋生態保護紅線面積約266萬公頃、海洋自然保護地面積約700萬公頃。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fff54-bfa1-7aab-9039-8210d31b0464",
-      "time": "2026-08-14 16:12:51",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Aug 14 (Fri) close: Hang Seng Index (HSI) fell 279.66 pts (-1.10%) to 25,116.85; Hang Seng TECH Index fell 84.77 pts (-1.77%) to 4,707.62; Hang Seng China Enterprises Index (HSCEI) fell 85.66 pts (-1.02%) to 8,340.83; Hang Seng Red Chip Index rose 43.49 pts (+1.06%) to 4,132.69."
-    },
-    {
-      "id": "mkt:019fff54-7a7a-7aab-9039-79ed4accc892",
-      "time": "2026-08-14 16:12:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangzhou Haizhu launches 'Eight Token Measures'】Guangzhou’s Haizhu district issued eight measures to support tokens across production, service aggregation, distribution hubs, application scenarios, OPC cultivation, industry upgrade, financial services and overseas expansion, covering the token production–circulation–consumption–value-add chain. On the production side, large-model firms are encouraged to raise token output per chip via technical tuning; eligible firms may receive subsidies of up to 50% of actual investment, capped at 1.5 mln yuan per firm per year. On the industrial platform side, the district will subsidize firms providing heterogeneous-compute token packaging, multimodal model aggregation access and one-stop settlement services, with support up to 4 mln yuan for qualifying firms; it will also fund token-calling hubs that connect across models, modalities and heterogeneous platforms, with up to 4 mln yuan in support."
-    },
-    {
-      "id": "5040854",
-      "time": "2026-08-14 16:11:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭報道：由於俄羅斯在7月的襲擊，烏克蘭至少有437名平民喪生，2610人受傷。"
-    },
-    {
-      "id": "te:markets:575370",
-      "time": "2026-08-14 16:10:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Rises by 2.01% — Top commodity gainers are Rice (2.01%), Wheat (1.78%) and Canola (1.27%)."
-    },
-    {
-      "id": "5040853",
-      "time": "2026-08-14 16:09:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪能股份：2026年上半年淨利潤1.88億元同比增2.19%】豪能股份公告，2026年上半年營業收入14.95億元，同比增長19.31%。歸屬於上市公司股東的淨利潤1.88億元，同比增長2.19%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.84億元，同比增長7.29%。"
-    },
-    {
-      "id": "mkt:019fff51-c498-7aab-9039-71832d83c5fc",
-      "time": "2026-08-14 16:09:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish",
-        "Aluminium",
-        "Impact bullish",
-        "Nickel",
-        "Impact mixed"
-      ],
-      "text": "【LME on- and canceled-warrants daily】LME on warrants and canceled warrants: Copper on warrants 94,875 t, up 2,700 t; canceled warrants 110,100 t, down 5,450 t. Aluminium on warrants 244,475 t, down 100 t; canceled warrants 3,825 t, down 1,600 t. Zinc on warrants 74,525 t, unchanged; canceled warrants 13,475 t, down 4,550 t. Nickel on warrants 255,690 t, down 498 t; canceled warrants 9,042 t, up 498 t. Lead on warrants 360,125 t, down 300 t; canceled warrants 52,550 t, down 1,400 t. Tin on warrants 4,680 t, down 5 t; canceled warrants 805 t, down 45 t."
-    },
-    {
-      "id": "5040852",
-      "time": "2026-08-14 16:09:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大港股份：多名高管及董事變動 聘任新管理層】大港股份公告稱，近日總經理李維波、副總經理王棟彬、職工代表董事方磊因工作調整或調動辭職，李維波仍任董事長，其餘兩人不再任職。8月14日公司召開董事會，同意聘任毛文明為總經理、夏蓉為副總經理，提名毛文明為非獨立董事候選人，後者尚需股東會審議。上述人員原定任期大多至2027年10月27日。"
-    },
-    {
-      "id": "5040851",
-      "time": "2026-08-14 16:09:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST沈化：2026年上半年營收31.28億元 淨利潤同比增24.66%】ST沈化公告稱，2026年上半年營收31.28億元，同比增長21.75%；歸屬於上市公司股東的淨利潤7780.76萬元，同比增長24.66%。報告期內，公司多項財務指標向好。此外，公司於2026年4月透過中化東大（泉州）有限公司8萬噸/年高階特種聚醚多元醇專案投資方案；獨立董事陶勝洋申請辭職，待補選新任獨立董事後生效。"
-    },
-    {
-      "id": "mkt:019fff51-99eb-7aab-9039-6a19484cd857",
-      "time": "2026-08-14 16:09:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "Zinc",
-        "Lead"
-      ],
-      "text": "【LME base metals daily inventory】LME base metals stocks: Copper 204,975 t, down 2,750 t; Aluminum 248,300 t, down 1,700 t; Zinc 88 t, down 92,462 t; Nickel 264,732 t, unchanged; Lead 412,675 t, down 1,700 t; Tin 5,485 t, down 50 t."
-    },
-    {
-      "id": "mkt:019fff51-8fad-7aab-9039-62314cf09f73",
-      "time": "2026-08-14 16:09:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangdong launches first token-economy finance product Token Loan in Guangzhou Haizhu】Aug 14 — Guangdong launched its first token-economy specialist finance product, Token Loan, in Haizhu district, Guangzhou. Bank of China’s Guangzhou branch has introduced a compute-Token loan for Haizhu small-and-micro compute-capacity firms, with credit limits set by contract or Token consumption; collateral options include unsecured credit, accounts-receivable pledges and order financing, and combinations of guarantees and mortgages to expand limits. New firms can seek order-based financing if they provide continuous-operation evidence from an existing operator or offer guarantees. Initial pilot credit allocated by Bank of China reached 28 mln yuan."
-    },
-    {
-      "id": "mkt:019fff51-88aa-7aab-9039-58a6e1daa948",
-      "time": "2026-08-14 16:09:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "JD.com",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "09618.HK"
-      ],
-      "text": "Hong Kong stocks closed lower: the Hang Seng Index fell 1.10% and the Hang Seng Tech Index dropped 1.77%. JD.com (09618.HK) slid 10.41% after earnings, and Huahong Hongli (01347.HK) fell 11.55% post-results."
-    },
-    {
-      "id": "5040850",
-      "time": "2026-08-14 16:09:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.101%，恒生科技指數跌1.769%】老鋪黃金跌3.811%，美團-W跌4.438%，長實集團跌6.237%，京東集團-SW跌10.407%，華虹宏力跌11.481%，MINIMAX-W跌11.730%，京東物流跌13.338%。"
-    },
-    {
-      "id": "mkt:019fff51-3793-7aab-9039-50c0b580ca59",
-      "time": "2026-08-14 16:09:00",
-      "tags": [
-        "MKT News",
-        "SNDK.O",
-        "Impact bullish"
-      ],
-      "text": "SanDisk (SNDK.O) rose 4.6% in pre-market U.S. trading."
     }
   ]
 }
