@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:35:16_
-_本檔包含 3345 則快訊，約 657015 字_
+_更新時間：2026-08-22 04:55:14_
+_本檔包含 3332 則快訊，約 657544 字_
+
+---
+
+### 2026-08-20 02:24:32  #其他
+
+Waymo：Ojai自動駕駛計程車已正式在舊金山、鳳凰城、洛杉磯上路，向所有乘客開放。
+
+---
+
+### 2026-08-20 02:24:09  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Fed minutes: officials discuss governor's push for operating reforms; many reiterate fed funds target as primary tool】Fed minutes show officials have begun discussing a governor’s broader agenda, including potential reforms to the Fed’s operating framework. Participants said the upcoming balance-sheet-management review is an opportunity for a comprehensive discussion, but many attendees reiterated that adjusting the federal funds target range should remain the primary means of changing policy stance rather than altering the Fed’s asset holdings. The governor asked the C.BANK to consider cutting annual policy meetings from eight to six to allow two full months of data between meetings; no decision has been taken and the 2026 meeting schedule will not change.
+
+---
+
+### 2026-08-20 02:23:43  #其他
+
+哥倫比亞地震遇難人數升至312人。
+
+---
+
+### 2026-08-20 02:23:23  #國際
+
+【俄副總理：俄羅斯已開始進口燃料】據俄羅斯新聞頻道網站19日報道，俄羅斯副總理諾瓦克表示，俄羅斯已經開始進口燃料，並透過必要法規允許生產部分低排放等級的燃料。（新華社）
+
+---
+
+### 2026-08-20 02:23:00  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Fed minutes show officials' inflation concerns intensified at July meeting】Minutes published Wednesday show Fed officials' inflation concerns deepened at the July meeting. Several policymakers were prepared to raise rates, and many said raising borrowing costs would be necessary if inflation does not return to the Fed's 2% target. Officials favoring hikes said price pressures appeared broad-based and urged a more restrictive policy stance to secure price stability and maximum employment, warning that failure to act could require a later sequence of larger, costlier tightenings. A broad set of participants indicated policy would likely need to tighten further if inflation does not fall.
+
+---
+
+### 2026-08-20 02:21:33  #市場 #國際
+
+【美國油價再創新高】美國加油站油價已創下新高，達到每加侖5.47美元。最新資料顯示，美國柴油與原油之間的價差也首次突破102.20美元，創歷史新高。美國柴油價格的上漲始於對伊朗的戰爭之後，並持續至今；去年平均價格為每加侖3.69美元，如今已上漲了49%。 美國八大農業與工業重鎮對交通運輸依賴極深，此次價格飆升推高了卡車司機與農民的運營成本，再度加劇通脹。
+
+---
+
+### 2026-08-20 02:20:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
+
+【Fed minutes: inf risks dominated officials' discussion of economic outlook】The Fed left rates unchanged in July, but minutes show inf risks dominated officials' outlook. Many officials said further hikes could be needed if inf does not cool; the Fed's use of "many" denotes a sizable bloc short of a majority. At the July meeting July inf and payrolls data were not yet available. Subsequent July data showed inf cooled and the labor market softened, prompting traders to trim odds of a September rate hike. Markets will see additional inf and jobs prints before the next Fed meeting.
+
+---
+
+### 2026-08-20 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Rises by 4.42% — Top commodity gainers are Platinum (4.42%), Silver (3.67%) and Gold (3.45%). Biggest loser is Lithium Carbonate (-1.21%).
+
+---
+
+### 2026-08-20 02:19:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US Yields Hold Pullback — The yield on the 10-year US Treasury note fell to 4.65% on Wednesday from 20-month highs of 4.75% in the previous session after the Treasury announced it would double the size of buybacks on long-dated securities. The move only increased the limit on operations to $4 billion, but it consolidated the department's efforts on intervening against high yields to limit the market's exposure to duration. Other measures included a joint intervention with Japan to support the yen by selling euros, undercutting Tokyo's yen defense by selling Treasury notes and bonds. On top of that, Secretary Bessent called for the Fed to increase its FIMA facility past the threshold of $60 billion, which would allow Japan to access dollar liquidity without selling Treasuries. Treasury bonds plunged in August as soaring AI-debt issuance, higher deficit spending, and risks of elevated inflation raised estimates on term premia. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates.
 
 ---
 
@@ -20025,137 +20079,5 @@ Uranium Rises to Near 6-Month High — Uranium futures in the US remained near t
 ### 2026-08-18 23:41:30  #Trading Economics #Economy #Colombia #GDP Annual Growth Rate #Importance 1
 
 Colombia Economic Growth Picks Up in Q2 — Colombia’s economy expanded 3.5% year-on-year in Q2 2026, accelerating from 2.2% growth in the previous quarter. Growth was supported by public spending, although its pace eased to 12.2% from 13.2%, while household consumption strengthened to 2.8% from 2.7%. Activity also accelerated in public administration, health and defense (10% vs 5.6%), entertainment (9.5% vs 3.2%), financial services (4.3% vs 2.8%) and utilities (4.8% vs 2.6%). However, risks to the outlook include the recent earthquake, the strongest in half a century, and dry weather associated with the El Niño phenomenon. On a seasonally adjusted quarterly basis, the economy expanded 1.3%, accelerating sharply from a 0.6% increase in the prior quarter.
-
----
-
-### 2026-08-18 23:41:12  #MKT News #Commodities #Energy
-
-Interfax: Putin said Russia and Myanmar are discussing construction of an oil refinery.
-
----
-
-### 2026-08-18 23:40:58  #國際
-
-市場訊息：俄羅斯總統普京稱俄羅斯與緬甸已就煉油廠建設展開磋商。
-
----
-
-### 2026-08-18 23:39:55  #Trading Economics #Economy #Colombia #Leading Economic Index #Importance 1
-
-Colombia Economic Activity Growth Slows in June — Colombia’s leading economic index rose 3.51% year-on-year in June 2026, following an upwardly revised 4.24% increase in May. The index for tertiary activities rose 4.28%, while the index for secondary activities increased 3.21%. The index for primary activities edged up 0.58%.
-
----
-
-### 2026-08-18 23:39:25  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish #Euro STOXX 50
-
-European equities closed mixed on Tuesday, Aug 18: Germany's DAX fell 238.91 points, or 0.91%, to 26,130.75; the UK's FTSE 100 rose 5.09 points, or 0.05%, to 10,725.39; France's CAC 40 fell 70.24 points, or 0.82%, to 8,509.36; the Euro STOXX 50 fell 61.60 points, or 0.94%, to 6,468.85; Spain's IBEX 35 fell 52.08 points, or 0.26%, to 19,929.82; Italy's FTSE MIB fell 554.98 points, or 1.04%, to 53,032.00.
-
----
-
-### 2026-08-18 23:39:18  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources say Russia will reroute Kazakh oil exports from Ust-Luga to Novorossiysk to free up Baltic port capacity for additional Russian crude shipments.
-
----
-
-### 2026-08-18 23:38:53  #國際
-
-市場訊息：俄羅斯將哈薩克的石油出口從烏斯季‑盧加港改至新羅西斯克港，以便透過波羅的海港口外運更多本國石油。
-
----
-
-### 2026-08-18 23:37:07  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude extends intraday gains to 1.00%, trading at $84.92/bbl.
-
----
-
-### 2026-08-18 23:36:44  #國際
-
-據半島電視臺：美國官員稱，特朗普已指示其團隊，在伊朗準備簽署協議之前，不要與伊朗進行談判。該官員稱，與伊朗進行了積極討論，但特朗普決定等待。
-
----
-
-### 2026-08-18 23:36:32  #其他
-
-委內瑞拉2026年工業產出較2025年二季度增長70%。
-
----
-
-### 2026-08-18 23:36:10  #MKT News #Important
-
-Al Jazeera reports US officials say Trump has ordered his team not to negotiate with Iran until Tehran is prepared to sign an agreement; officials say there were active discussions with Iran but Trump opted to wait.
-
----
-
-### 2026-08-18 23:35:00  #市場 #焦點
-
-布倫特原油突破92美元/桶，日內漲1.24%。
-
----
-
-### 2026-08-18 23:34:13  #公司 #市場
-
-小米集團ADR現下跌4%，此前一度上漲2%，該公司早前公佈了第二季度財報。
-
----
-
-### 2026-08-18 23:33:14  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-US 6-week Treasury auction to Aug. 18: percentage of award at the winning yield 37.04%, prior 2.86%.
-
----
-
-### 2026-08-18 23:33:03  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 6-week Treasury bill auction on Aug 18: bid-cover ratio 2.97, prior 2.93.
-
----
-
-### 2026-08-18 23:32:55  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
-
-U.S. 6-week Treasury auction settling Aug. 18 awarded yield 3.645%, vs 3.67% previous.
-
----
-
-### 2026-08-18 23:32:42  #其他
-
-恆天然：奶粉各合同期FAS拍賣均價3,873美元/噸。批發奶粉價格指數漲3%，報3,591美元/噸。
-
----
-
-### 2026-08-18 23:32:22  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.645%，投標倍數2.97。
-
----
-
-### 2026-08-18 23:31:54  #MKT News
-
-New Zealand Global Dairy Trade price index to Aug. 4 up 2.3% (previous 0.1%).
-
----
-
-### 2026-08-18 23:31:45  #MKT News #Economic Calendar #Important
-
-New Zealand | Global Dairy Trade Price Index (MoM) (Aug.4) | actual 2.3% | previous 0.1%
-
----
-
-### 2026-08-18 23:31:38  #市場
-
-恆天然全球乳製品交易價格指數上漲 2.3%。
-
----
-
-### 2026-08-18 23:31:14  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude's intraday gain widened to 1.00%, trading at $90.66/bbl.
-
----
-
-### 2026-08-18 23:30:55  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Edges Up on Tuesday — The FTSE 100 edged higher on Tuesday, outperforming other European markets as gains in energy stocks offset weakness among precious-metals miners. BP and Shell rose 3% and 2%, respectively, supported by higher crude prices as hopes for a lasting US-Iran peace agreement faded. President Donald Trump said there were no talks scheduled with Iran and confirmed that the US naval blockade remained in place, adding to uncertainty over the conflict and the Strait of Hormuz. Lower gold prices weighed on mining stocks, with Fresnillo falling around 3% and Endeavour Mining declining 2.8%. Meanwhile, UK labour market data showed unemployment holding at 4.9% in the three months to June, slightly above the 4.8% expected. Payroll employment increased by 83,000, well below the 129,000 forecast, suggesting some softening in labour demand. Average weekly earnings rose 4.1% year-on-year, broadly matching expectations.
 
 ---

@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:35:16_
-_本檔包含 3407 則快訊，約 657688 字_
+_更新時間：2026-08-22 04:55:14_
+_本檔包含 3424 則快訊，約 657148 字_
+
+---
+
+### 2026-08-21 03:13:56  #MKT News
+
+CNN, citing sources, reports the US aircraft carrier USS Abraham Lincoln has begun returning to port but remains in the US Fifth Fleet area of operations.
+
+---
+
+### 2026-08-21 03:05:00  #MKT News #Market Regions #Greater China #Hang Seng Index
+
+Hang Seng Index futures closed flat in the night session at 25,696, trading 2 points below the cash index.
+
+---
+
+### 2026-08-21 03:04:57  #國際
+
+【美聯邦調查局稱挫敗針對紐約州議會大廈襲擊圖謀】當地時間8月20日，美國聯邦調查局（FBI）當天逮捕一名女子，指控其策劃襲擊位於紐約州首府城市奧爾巴尼的紐約州議會大廈。FBI在刑事訴狀中稱，35歲的傑西卡·鮑伊（Jessica Bowie）曾在網路交流中宣誓效忠“伊斯蘭國”，並於今年7月開始策劃相關襲擊。（央視新聞）
+
+---
+
+### 2026-08-21 03:03:51  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7260元，較週三夜盤收盤漲42點。成交量455.00億美元。
+
+---
+
+### 2026-08-21 03:01:44  #MKT News
+
+Argentina's statistics agency reported a July trade surplus of $2.115 billion, versus market expectations of $1.85 billion.
+
+---
+
+### 2026-08-21 03:01:33  #其他
+
+阿根廷7月份貿易順差為21.15億美元；預計為18.67億美元。
+
+---
+
+### 2026-08-21 03:01:27  #公司 #觀點
+
+【摩根大通給予博通“增持”評級：市場仍低估其AI晶片領域的絕對領先優勢 】摩根大通（JPMorgan）認為，目前的市場低估了晶片製造商博通（Broadcom）的發展潛力。這家總部位於帕洛阿爾託（Palo Alto）的公司，預計其AI相關銷售額將實現180%的年度大幅增長。摩根大通認為，這主要得益於博通與Alphabet（谷歌母公司）之間穩固的產品合作關係。分析師哈蘭·瑟爾（Harlan Sur）在週三發給客戶的報告中指出：“我們認為，市場依然低估了博通所具備的顯著主導地位與領先優勢（領先優勢達18個月以上）、在晶片和封裝設計上的領導力、激進的新設計迭代節奏、龐大的智慧財產權（IP）組合，以及其出色的執行記錄。在過去12年裡，博通已協助谷歌將14款最先進的晶片設計成功推向市場。”
+
+---
+
+### 2026-08-21 03:00:34  #其他
+
+阿根廷6月經濟活動環比增長0.8%；此前預期增長0.3%。
+
+---
+
+### 2026-08-21 03:00:30  #其他
+
+阿根廷 6 月經濟活動同比增長 2.7%；預計+2.4%。
+
+---
+
+### 2026-08-21 03:00:21  #國際
+
+美國農業部：7 月美國紅肉產量下降 1.6%。
+
+---
+
+### 2026-08-21 03:00:03  #市場
+
+恒指期貨夜盤收漲0.01%，報25698.70點，高水0.21點。
+
+---
+
+### 2026-08-21 02:58:47  #MKT News #UAL.O #Impact bullish
+
+United Airlines (UAL.O) said it expects to carry more than 3.4 million passengers between Sept. 3 and 8.
+
+---
+
+### 2026-08-21 02:58:21  #公司 #國際
+
+美國聯合航空公司：預計9月3日至8日期間運送旅客將超340萬人次。
+
+---
+
+### 2026-08-21 02:58:15  #其他
+
+據訊息人士：迪士尼將於 2027 年晚些時候推出股票購買計劃。
+
+---
+
+### 2026-08-21 02:57:45  #其他
+
+市場訊息：迪士尼將推出員工股票購買計劃。
+
+---
+
+### 2026-08-21 02:57:14  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+Ukraine's foreign minister said he has discussed with EU foreign policy chief Kallas measures including strengthening air defenses, further sanctions on Russia and use of frozen Russian assets, and urged guarantees for the security of Black Sea shipping and the grain corridor.
+
+---
+
+### 2026-08-21 02:52:41  #國際
+
+【烏克蘭表態願與俄重啟談判，期待美方代表來訪推動對話 】烏克蘭總統辦公室第一副主任謝爾蓋·基斯利察表示，烏克蘭已準備好與俄羅斯就解決衝突進行談判。基輔方面願意坐到談判桌前，傾聽美國立場並與俄方開展對話，同時堅定捍衛己方主張。基斯利察透露，目前由美國參與的談判程序正處於暫停狀態。烏克蘭方面正期待美國談判代表的來訪，並預計此舉將有助於重啟對話程序。
+
+---
+
+### 2026-08-21 02:52:16  #公司
+
+馬拉松石油公司位於得克薩斯州加爾維斯頓灣的煉油廠報告稱，相關裝置已穩定執行，火炬停止燃燒。
+
+---
+
+### 2026-08-21 02:52:10  #公司
+
+馬拉松石油公司位於得克薩斯州加爾維斯頓灣的煉油廠報告稱，焦化裝置發生故障，導致火炬燃燒量超過可報告標準。放量超過可申報閾值。
+
+---
+
+### 2026-08-21 02:50:31  #其他
+
+市場訊息：紐約州州長表示，來年沒有實施新稅的計劃。
+
+---
+
+### 2026-08-21 02:48:22  #其他
+
+市場訊息： 紐約州州長稱 “無意” 增稅。
+
+---
+
+### 2026-08-21 02:45:07  #市場
+
+布倫特原油期貨結算價報每桶93.78美元，上漲2.16美元，漲幅2.36%。
+
+---
+
+### 2026-08-21 02:44:58  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $93.78/bbl, up $2.16 or 2.36%.
+
+---
+
+### 2026-08-21 02:44:51  #MKT News #WTI #Brent
+
+【Oman, Japan urge urgent international action to ensure freedom of navigation in Strait of Hormuz】Oman Foreign Minister Busaidi and Japan Foreign Minister Motegi said after meeting in Muscat that international efforts must be strengthened to ensure freedom of navigation through the Strait of Hormuz in accordance with international law. Busaidi said safe passage through Hormuz is integral to regional security and prosperity. Motegi praised Oman’s role in addressing the Hormuz shipping crisis and pledged closer coordination with Muscat to secure freedom and safety of navigation in the Strait of Hormuz and the Bab al‑Mandeb.
+
+---
+
+### 2026-08-21 02:42:39  #國際
+
+美國西北河流預報中心：美國西北部河流徑流量維持在82%，無變化。
+
+---
+
+### 2026-08-21 02:41:38  #宏觀 #公司 #市場 #國際
+
+【歐洲股市小幅收低 延續2023年以來最長連跌走勢】洲股市小幅下跌，延續2023年9月以來最長連跌走勢，有關美國介入債市的言論令債券收益率劇烈波動。斯托克歐洲600指數週四收跌0.1%。股市盤中隨政府債券收益率波動；美國財政部長斯科特·貝森特表示美國國債回購規模還可加碼後，收益率回落。消費品和零售股表現最差，而能源股表現最佳。由於投資者擔憂美國和伊朗之間的僵局，布倫特原油價格超過每桶93美元。歐洲天然氣價格也升至五個月高點。歐洲基準股指自4月以來一路上漲並創下紀錄高點，但近期走勢轉弱。財報季業績遠超分析師預期後，地緣政治不確定性仍揮之不去，投資者處於觀望狀態。“投資者對股票仍很有信心，”晨星歐洲、中東和非洲首席股票市場策略師Michael Field表示，“我們所處的時代宏觀經濟和地緣政治非常不穩定，過去一週左右投資者再次意識到了這一點，這就是該指數回落的原因。”
 
 ---
 
@@ -20517,59 +20673,5 @@ Gold Rises to Over 2-Month High — Gold prices rose to $4,480 per ounce on Wedn
 ### 2026-08-20 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
 
 Agricultural Commodities Updates: Cotton Gains by 3.63% — Top commodity gainers are Cotton (3.63%), Palm Oil (2.92%) and Wheat (2.26%). Biggest loser is Coffee (-1.29%).
-
----
-
-### 2026-08-20 02:24:32  #其他
-
-Waymo：Ojai自動駕駛計程車已正式在舊金山、鳳凰城、洛杉磯上路，向所有乘客開放。
-
----
-
-### 2026-08-20 02:24:09  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed minutes: officials discuss governor's push for operating reforms; many reiterate fed funds target as primary tool】Fed minutes show officials have begun discussing a governor’s broader agenda, including potential reforms to the Fed’s operating framework. Participants said the upcoming balance-sheet-management review is an opportunity for a comprehensive discussion, but many attendees reiterated that adjusting the federal funds target range should remain the primary means of changing policy stance rather than altering the Fed’s asset holdings. The governor asked the C.BANK to consider cutting annual policy meetings from eight to six to allow two full months of data between meetings; no decision has been taken and the 2026 meeting schedule will not change.
-
----
-
-### 2026-08-20 02:23:43  #其他
-
-哥倫比亞地震遇難人數升至312人。
-
----
-
-### 2026-08-20 02:23:23  #國際
-
-【俄副總理：俄羅斯已開始進口燃料】據俄羅斯新聞頻道網站19日報道，俄羅斯副總理諾瓦克表示，俄羅斯已經開始進口燃料，並透過必要法規允許生產部分低排放等級的燃料。（新華社）
-
----
-
-### 2026-08-20 02:23:00  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Fed minutes show officials' inflation concerns intensified at July meeting】Minutes published Wednesday show Fed officials' inflation concerns deepened at the July meeting. Several policymakers were prepared to raise rates, and many said raising borrowing costs would be necessary if inflation does not return to the Fed's 2% target. Officials favoring hikes said price pressures appeared broad-based and urged a more restrictive policy stance to secure price stability and maximum employment, warning that failure to act could require a later sequence of larger, costlier tightenings. A broad set of participants indicated policy would likely need to tighten further if inflation does not fall.
-
----
-
-### 2026-08-20 02:21:33  #市場 #國際
-
-【美國油價再創新高】美國加油站油價已創下新高，達到每加侖5.47美元。最新資料顯示，美國柴油與原油之間的價差也首次突破102.20美元，創歷史新高。美國柴油價格的上漲始於對伊朗的戰爭之後，並持續至今；去年平均價格為每加侖3.69美元，如今已上漲了49%。 美國八大農業與工業重鎮對交通運輸依賴極深，此次價格飆升推高了卡車司機與農民的運營成本，再度加劇通脹。
-
----
-
-### 2026-08-20 02:20:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact mixed
-
-【Fed minutes: inf risks dominated officials' discussion of economic outlook】The Fed left rates unchanged in July, but minutes show inf risks dominated officials' outlook. Many officials said further hikes could be needed if inf does not cool; the Fed's use of "many" denotes a sizable bloc short of a majority. At the July meeting July inf and payrolls data were not yet available. Subsequent July data showed inf cooled and the labor market softened, prompting traders to trim odds of a September rate hike. Markets will see additional inf and jobs prints before the next Fed meeting.
-
----
-
-### 2026-08-20 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Rises by 4.42% — Top commodity gainers are Platinum (4.42%), Silver (3.67%) and Gold (3.45%). Biggest loser is Lithium Carbonate (-1.21%).
-
----
-
-### 2026-08-20 02:19:28  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US Yields Hold Pullback — The yield on the 10-year US Treasury note fell to 4.65% on Wednesday from 20-month highs of 4.75% in the previous session after the Treasury announced it would double the size of buybacks on long-dated securities. The move only increased the limit on operations to $4 billion, but it consolidated the department's efforts on intervening against high yields to limit the market's exposure to duration. Other measures included a joint intervention with Japan to support the yen by selling euros, undercutting Tokyo's yen defense by selling Treasury notes and bonds. On top of that, Secretary Bessent called for the Fed to increase its FIMA facility past the threshold of $60 billion, which would allow Japan to access dollar liquidity without selling Treasuries. Treasury bonds plunged in August as soaring AI-debt issuance, higher deficit spending, and risks of elevated inflation raised estimates on term premia. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates.
 
 ---

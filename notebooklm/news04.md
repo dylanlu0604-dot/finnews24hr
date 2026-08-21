@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:35:16_
-_本檔包含 3398 則快訊，約 656925 字_
+_更新時間：2026-08-22 04:55:14_
+_本檔包含 3393 則快訊，約 656674 字_
+
+---
+
+### 2026-08-18 23:41:12  #MKT News #Commodities #Energy
+
+Interfax: Putin said Russia and Myanmar are discussing construction of an oil refinery.
+
+---
+
+### 2026-08-18 23:40:58  #國際
+
+市場訊息：俄羅斯總統普京稱俄羅斯與緬甸已就煉油廠建設展開磋商。
+
+---
+
+### 2026-08-18 23:39:55  #Trading Economics #Economy #Colombia #Leading Economic Index #Importance 1
+
+Colombia Economic Activity Growth Slows in June — Colombia’s leading economic index rose 3.51% year-on-year in June 2026, following an upwardly revised 4.24% increase in May. The index for tertiary activities rose 4.28%, while the index for secondary activities increased 3.21%. The index for primary activities edged up 0.58%.
+
+---
+
+### 2026-08-18 23:39:25  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100 #Impact bullish #Euro STOXX 50
+
+European equities closed mixed on Tuesday, Aug 18: Germany's DAX fell 238.91 points, or 0.91%, to 26,130.75; the UK's FTSE 100 rose 5.09 points, or 0.05%, to 10,725.39; France's CAC 40 fell 70.24 points, or 0.82%, to 8,509.36; the Euro STOXX 50 fell 61.60 points, or 0.94%, to 6,468.85; Spain's IBEX 35 fell 52.08 points, or 0.26%, to 19,929.82; Italy's FTSE MIB fell 554.98 points, or 1.04%, to 53,032.00.
+
+---
+
+### 2026-08-18 23:39:18  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources say Russia will reroute Kazakh oil exports from Ust-Luga to Novorossiysk to free up Baltic port capacity for additional Russian crude shipments.
+
+---
+
+### 2026-08-18 23:38:53  #國際
+
+市場訊息：俄羅斯將哈薩克的石油出口從烏斯季‑盧加港改至新羅西斯克港，以便透過波羅的海港口外運更多本國石油。
+
+---
+
+### 2026-08-18 23:37:07  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude extends intraday gains to 1.00%, trading at $84.92/bbl.
+
+---
+
+### 2026-08-18 23:36:44  #國際
+
+據半島電視臺：美國官員稱，特朗普已指示其團隊，在伊朗準備簽署協議之前，不要與伊朗進行談判。該官員稱，與伊朗進行了積極討論，但特朗普決定等待。
+
+---
+
+### 2026-08-18 23:36:32  #其他
+
+委內瑞拉2026年工業產出較2025年二季度增長70%。
+
+---
+
+### 2026-08-18 23:36:10  #MKT News #Important
+
+Al Jazeera reports US officials say Trump has ordered his team not to negotiate with Iran until Tehran is prepared to sign an agreement; officials say there were active discussions with Iran but Trump opted to wait.
+
+---
+
+### 2026-08-18 23:35:00  #市場 #焦點
+
+布倫特原油突破92美元/桶，日內漲1.24%。
+
+---
+
+### 2026-08-18 23:34:13  #公司 #市場
+
+小米集團ADR現下跌4%，此前一度上漲2%，該公司早前公佈了第二季度財報。
+
+---
+
+### 2026-08-18 23:33:14  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+US 6-week Treasury auction to Aug. 18: percentage of award at the winning yield 37.04%, prior 2.86%.
+
+---
+
+### 2026-08-18 23:33:03  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 6-week Treasury bill auction on Aug 18: bid-cover ratio 2.97, prior 2.93.
+
+---
+
+### 2026-08-18 23:32:55  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
+
+U.S. 6-week Treasury auction settling Aug. 18 awarded yield 3.645%, vs 3.67% previous.
+
+---
+
+### 2026-08-18 23:32:42  #其他
+
+恆天然：奶粉各合同期FAS拍賣均價3,873美元/噸。批發奶粉價格指數漲3%，報3,591美元/噸。
+
+---
+
+### 2026-08-18 23:32:22  #宏觀 #市場 #國際
+
+美國財政部拍賣六週期國債，得標利率3.645%，投標倍數2.97。
+
+---
+
+### 2026-08-18 23:31:54  #MKT News
+
+New Zealand Global Dairy Trade price index to Aug. 4 up 2.3% (previous 0.1%).
+
+---
+
+### 2026-08-18 23:31:45  #MKT News #Economic Calendar #Important
+
+New Zealand | Global Dairy Trade Price Index (MoM) (Aug.4) | actual 2.3% | previous 0.1%
+
+---
+
+### 2026-08-18 23:31:38  #市場
+
+恆天然全球乳製品交易價格指數上漲 2.3%。
+
+---
+
+### 2026-08-18 23:31:14  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude's intraday gain widened to 1.00%, trading at $90.66/bbl.
+
+---
+
+### 2026-08-18 23:30:55  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Edges Up on Tuesday — The FTSE 100 edged higher on Tuesday, outperforming other European markets as gains in energy stocks offset weakness among precious-metals miners. BP and Shell rose 3% and 2%, respectively, supported by higher crude prices as hopes for a lasting US-Iran peace agreement faded. President Donald Trump said there were no talks scheduled with Iran and confirmed that the US naval blockade remained in place, adding to uncertainty over the conflict and the Strait of Hormuz. Lower gold prices weighed on mining stocks, with Fresnillo falling around 3% and Endeavour Mining declining 2.8%. Meanwhile, UK labour market data showed unemployment holding at 4.9% in the three months to June, slightly above the 4.8% expected. Payroll employment increased by 83,000, well below the 129,000 forecast, suggesting some softening in labour demand. Average weekly earnings rose 4.1% year-on-year, broadly matching expectations.
 
 ---
 
@@ -20344,167 +20476,5 @@ Flamingo與Nazca收購Herbex的交易獲歐盟批准。
 ### 2026-08-17 18:40:17  #公司 #國際
 
 【日本第22輪核汙染水排海總量近8000噸】日本東京電力公司17日表示，福島第一核電站第22輪核汙染水排海結束，共排放核汙染水近8000噸。根據東京電力公司的新聞公報，本輪排放於7月30日開始，當地時間8月17日下午結束，總計排放核汙染水7888噸，含放射性氚總量約1.3萬億貝克勒爾。這是日本2026財年第4輪核汙染水排海。2023年8月，日方無視國際社會的強烈質疑和反對，單方面強行啟動福島第一核電站核汙染水排海。截至目前共進行了22輪核汙染水排放，累計排放量約17.3萬噸。（新華社）
-
----
-
-### 2026-08-17 18:39:55  #國際
-
-全球基金在交易日前淨買入價值411億盧比的印度股票。
-
----
-
-### 2026-08-17 18:39:42  #公司
-
-【錦江酒店：2467萬元轉讓錦江食品全部股權】錦江酒店公告稱，公司擬將直接及間接持有的錦江食品100%股權以2467.00萬元的對價出讓予錦江城服，本次交易構成關聯交易。2026年8月17日，交易各方已簽署《股權轉讓協議》，該事項已獲公司董事會審議透過，關聯董事迴避表決，無需提交股東會審議。本次交易價格較標的賬面成本溢價143.00%，受讓方需在協議生效後5個工作日內全額付清款項，預計產生稅前收益約1300萬元，交易完成後公司將不再持有錦江食品股權。
-
----
-
-### 2026-08-17 18:39:06  #MKT News #CVX.N #Impact bearish #COP.N #OXY.N
-
-Barclays cut PTs on Murphy Oil (MUR.N) to $34 from $38, Chevron (CVX.N) to $208 from $216, ConocoPhillips (COP.N) to $150 from $155 and Occidental Petroleum (OXY.N) to $71 from $75.
-
----
-
-### 2026-08-17 18:39:03  #公司
-
-【恒生電子：完成合計237.36萬份股票期權登出】恒生電子公告稱，公司已完成2023年、2024年、2025年三份股票期權激勵計劃部分股票期權的登出手續，本次合計登出股票期權237.3605萬份，其中2023年激勵計劃登出31.38萬份，2024年激勵計劃登出138.286萬份，2025年激勵計劃登出67.6945萬份。本次登出事宜已在中國證券登記結算有限責任公司上海分公司辦理完畢，不會對公司股本造成影響。
-
----
-
-### 2026-08-17 18:38:47  #公司 #觀點
-
-【恆譽科技：控股股東擬詢價轉讓2.00%公司股份】恆譽科技公告稱，公司控股股東寧波梅山保稅港區筠龍投資管理合夥企業(有限合夥)擬以詢價轉讓方式出讓158.80萬股公司股份，佔公司總股本比例為2.00%，佔其所持股份比例為5.77%，轉讓原因為自身資金需求。截至2026年8月17日，該出讓方持有公司股份2751.46萬股，佔總股本比例34.65%。本次詢價轉讓委託中信證券組織實施，轉讓價格下限不低於2026年8月17日前20個交易日公司股票交易均價的70%，受讓方為符合條件的機構投資者，受讓後6個月內不得轉讓本次受讓股份。本次轉讓不會導致公司控制權變更。
-
----
-
-### 2026-08-17 18:38:30  #公司
-
-【康華生物：2026年上半年淨利潤1.41億元，同比增長23.25%】康華生物公告，2026年上半年營業收入5.38億元，同比增長11.25%。歸屬於上市公司股東的淨利潤1.41億元，同比增長23.25%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.34億元，同比增長20.28%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 18:37:50  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Iran's foreign ministry says it will regard its pilot as held captive in Qatar until his whereabouts are confirmed.
-
----
-
-### 2026-08-17 18:36:37  #其他
-
-【機構：2026年上半年全球智慧手機面板總出貨量約11.2億片 同比提升2.9%】群智諮詢（Sigmaintell）資料，2026年上半年全球智慧手機面板總出貨量約11.2億片，同比提升2.9%。上半年智慧手機終端需求整體走弱，但面板市場出貨並未同步回落，核心支撐來自三大增量：低端機型渠道提前備貨、蘋果全系機型市場熱銷、手機存量維修市場需求大幅擴容。多重增量動力形成緩衝，2026年上半年面板出貨保持平穩執行。
-
----
-
-### 2026-08-17 18:34:36  #國際
-
-【特朗普稱美“首要目標”是確保伊朗不能擁有核武器】當地時間8月17日，美國總統特朗普在社交媒體平臺“真實社交”上發文表示，美國“首要的目標，而且始終如此”，是確保伊朗“以任何方式、任何形式”都不能擁有核武器。對此，伊朗方面暫無回應。（央視新聞）
-
----
-
-### 2026-08-17 18:34:13  #公司
-
-【恩華藥業：2026年上半年淨利潤7.41億元，同比增長5.74%】恩華藥業公告，2026年上半年營業收入32.18億元，同比增長6.91%；歸屬於上市公司股東的淨利潤7.41億元，同比增長5.74%；歸屬於上市公司股東的扣除非經常性損益的淨利潤7.46億元，同比增長6.65%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 18:34:10  #公司
-
-【鍋圈：2026年上半年淨利潤2.13億元同比增12.1%】鍋圈公告，截至2026年6月30日止六個月，收入為人民幣39.47億元，同比增加21.8%；毛利為人民幣8.49億元，同比增加18.3%；淨利潤為人民幣2.13億元，同比增加12.1%；每股基本及攤薄盈利為人民幣0.0807元，同比增長18.0%。
-
----
-
-### 2026-08-17 18:34:01  #公司
-
-【*ST天喻：2026年上半年淨利潤虧損7198.06萬元】*ST天喻公告，2026年上半年營業收入2404.06萬元，同比下降72.24%。淨利潤虧損7198.06萬元，上年同期虧損8582.44萬元。
-
----
-
-### 2026-08-17 18:33:58  #其他
-
-英力士：截至8月16日當週，巴扎德油田佔北海福蒂斯原油供給份額為0%。
-
----
-
-### 2026-08-17 18:33:18  #市場 #國際
-
-沙特方面訊息，訊息人士稱，伊朗與美國之間60天期限的延長協議已獲批准。美、布兩油短線下挫逾1美元，美股三大股指期貨短線拉昇。
-
----
-
-### 2026-08-17 18:33:02  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-Saudi outlet Alhadath reports sources say the U.S. and Iran have approved a 60-day extension agreement. WTI and Brent crude briefly slid more than $1; S&P 500, Dow and Nasdaq futures ticked higher.
-
----
-
-### 2026-08-17 18:32:55  #公司
-
-【聯創光電：控股股東81.99%股份被司法凍結及輪候凍結】聯創光電公告，公司控股股東江西省電子集團有限公司持有的公司股份被司法凍結及輪候凍結。本次新增司法凍結4231.08萬股，佔其所持股份48.76%，佔公司總股本9.38%；累計被凍結股份7115.07萬股，佔其所持股份81.99%，佔公司總股本15.78%。此外，其持有的3304.39萬股股份被輪候凍結，佔其所持股份38.08%，佔公司總股本7.33%。
-
----
-
-### 2026-08-17 18:31:22  #市場
-
-納斯達克100指數期貨漲幅升至0.5%。
-
----
-
-### 2026-08-17 18:31:06  #市場
-
-標普500指數期貨漲幅升至0.2%。
-
----
-
-### 2026-08-17 18:30:42  #MKT News #Market Regions #Emerging Markets
-
-India's unemployment rate in July was 5.1%.
-
----
-
-### 2026-08-17 18:30:41  #國際
-
-印度7月份失業率為5.1%。
-
----
-
-### 2026-08-17 18:30:25  #MKT News
-
-OmniAb (OABI.O) shares rose more than 36% pre-market after the company announced a $370m drug R&D agreement with Eli Lilly.
-
----
-
-### 2026-08-17 18:30:01  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.36% Lower — The SENSEX Index fell 281 points or 0.36 percent on Monday to close at 77728 points. Leading the losses are Infosys (-2.83%), Sun Pharmaceuticals (-2.54%) and HCL Tech (-2.32%). Top gainers were Axis Bank (1.36%), Tata Steel (1.36%) and Kotak Mahindra Bank (1.11%).
-
----
-
-### 2026-08-17 18:29:22  #公司 #市場
-
-歐米尼AB（OMNIAB）股價盤前大漲36.3%，原因是公司與禮來製藥達成了金額為3.7億美元的藥物開發合作協議。
-
----
-
-### 2026-08-17 18:29:02  #國際
-
-【敘利亞南部庫奈特拉地區遭襲】當地時間8月17日，總檯記者自敘利亞方面獲悉，以色列發射炮彈襲擊了敘利亞南部庫奈特拉地區。（央視新聞）
-
----
-
-### 2026-08-17 18:28:47  #其他
-
-出口商預估：象牙海岸2025/26年度可可到貨量截至8月16日達199.6萬噸，去年同期為165.3萬噸。
-
----
-
-### 2026-08-17 18:28:29  #國際
-
-【超20萬加拿大民眾請願驅逐美國大使】據加拿大國會眾議院網站公佈的資料，截至當地時間8月16日，超過20萬加拿大民眾實名聯署一項請願，要求驅逐美國駐加大使皮特·胡克斯特拉。（央視）
-
----
-
-### 2026-08-17 18:27:56  #公司
-
-德國聯邦卡特爾局——德國聯邦卡特爾局已批准默克集團（達姆施塔特）收購Bio-Techne公司。
 
 ---

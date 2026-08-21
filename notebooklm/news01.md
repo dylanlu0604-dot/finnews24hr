@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:35:16_
-_本檔包含 3022 則快訊，約 657238 字_
+_更新時間：2026-08-22 04:55:14_
+_本檔包含 3016 則快訊，約 657110 字_
+
+---
+
+### 2026-08-22 04:54:13  #國際
+
+巴西工業與貿易部長羅薩表示，他將於下週與美國貿易代表格里爾舉行會晤。
+
+---
+
+### 2026-08-22 04:54:07  #國際
+
+提示：特朗普開始講話。
+
+---
+
+### 2026-08-22 04:53:48  #焦點 #國際
+
+特朗普稱他沒有指示貝森特干預債券市場。
+
+---
+
+### 2026-08-22 04:52:19  #公司
+
+【Anthropic聘請谷歌晶片定製晶片專案創始人 為進軍自研半導體做準備】Anthropic PBC已聘請谷歌定製晶片專案創始人Amir Salek，為這家AI實驗室進軍自研半導體領域做準備。這家Claude平臺開發商週五表示，Salek將加入Anthropic的算力團隊，並向James Bradbury彙報。Salek曾負責谷歌的張量處理單元(TPU)業務直至2022年，並參與推出了前七代TPU晶片。Anthropic目前從英偉達、谷歌和亞馬遜等多個供應商採購晶片，但近期已釋放出建立自有晶片業務的意願。這家總部位於舊金山的公司已開始為相關專案招聘，併發布職位資訊。與其他AI巨頭一樣，Anthropic正加緊獲得足夠的資料中心基礎設施，以支撐其發展目標。自研晶片有望幫助公司應對供應短缺，同時根據自身需求定製晶片設計。競爭對手OpenAI也在採取類似行動。這家ChatGPT開發商已釋出與博通共同開發的Jalapeno晶片，並計劃今年晚些時候開始使用。
+
+---
+
+### 2026-08-22 04:49:45  #其他
+
+市場訊息： HIMS 的減重方案因信用卡糾紛遭到處罰。
+
+---
+
+### 2026-08-22 04:49:27  #其他
+
+SpaceXAI：我們的孟菲斯和南埃文站點將由世界上最大的併網電池組供電，從而降低當地社群的電力成本，並提高其本地電力系統的可靠性。
+
+---
+
+### 2026-08-22 04:47:51  #其他
+
+市場訊息：巴西農民已收割84.4%的2026年第二輪玉米作物面積，去年同期為87.8% 。
+
+---
+
+### 2026-08-22 04:47:08  #Trading Economics #Economy #Peru #GDP Annual Growth Rate #Importance 1
+
+Peru’s GDP Growth Slows to 2.6% in Q2 — Peru’s economy expanded 2.6% year-on-year in Q2 2026, slowing from 3.6% in Q1. Growth was supported by non-primary sectors, which increased 5.0%, while primary sectors contracted 5.2%. Construction remained the main driver, rising 8.9%, followed by commerce, which grew 7.3%, and electricity and water, up 5.6%. Services increased 4.7%. In contrast, manufacturing fell 5.0%, while mining and fuel declined 0.9%. Agriculture and livestock contracted 2.0%, after growing 1.5% in Q1, while fishing plunged 48.9%, following a 6.4% decline in the previous quarter. On a quarterly basis, GDP growth slowed from 3.6% in Q1 to 2.6% in Q2.
+
+---
+
+### 2026-08-22 04:45:18  #國際
+
+穆迪點評愛爾蘭：政策制定者預計將有效緩解外部衝擊，其中包括美國貿易、稅收及產業政策變動帶來的影響。
+
+---
+
+### 2026-08-22 04:45:09  #國際
+
+市場訊息：美國陸軍部長德里斯科爾預計將於年底卸任。
+
+---
+
+### 2026-08-22 04:44:48  #宏觀 #國際
+
+美國國務院發言人：約旦河西岸的穩定有助於加強以色列的安全，並符合華盛頓實現和平的目標。
+
+---
+
+### 2026-08-22 04:44:21  #宏觀 #焦點 #國際
+
+美國國務院發言人：特朗普總統已明確指出，華盛頓不支援以色列吞併約旦河西岸。
+
+---
+
+### 2026-08-22 04:43:56  #公司 #國際
+
+據美國證券交易委員會披露檔案顯示，OS Therapeutics公司計劃透過傑富瑞集團發售最高規模為7500萬美元的普通股。
+
+---
+
+### 2026-08-22 04:43:40  #其他
+
+穆迪：上調愛爾蘭信用評級反映出該國經濟與財政實力持續改善，我們預計這一向好趨勢將延續。
+
+---
+
+### 2026-08-22 04:42:30  #其他
+
+穆迪：愛爾蘭債務負擔預計將進一步下降，因潛在趨勢增長高於此前預期，將持續支撐政府財政收入。
+
+---
+
+### 2026-08-22 04:38:43  #其他
+
+ENVVENO MEDICAL CORP：提交至多1億美元混合儲架發行申請。
+
+---
+
+### 2026-08-22 04:37:21  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Jumps Ahead of Datafolha Poll — The Ibovespa jumped 1.8% to close at 171,032 on Friday, supported by a broad rally in financial stocks. The political landscape remained in focus ahead of a new Datafolha poll on Brazil’s October presidential election, due after the close. On Monday, a BTG/Nexus poll showed President Lula and Senator Flávio Bolsonaro, viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity, in a technical tie in a potential runoff. Bond yields fell on expectations of a tighter presidential race and broad-based weakness in the US dollar. Itaú rose 2.9%, Bradesco added 3.1%, Itaúsa gained 2.5%, and B3 jumped 5.2%. Utilities also advanced, with Axia up 1.4% and Sabesp rising 1.9%. Vale added 1.4% as iron ore prices firmed, while CSN Mineração (+4.8%), CSN (+7.6%) and Usiminas (+7.9%) rallied. Embraer (-1%) and Petrobras (-0.1%) were among the few laggards.
+
+---
+
+### 2026-08-22 04:36:00  #國際
+
+美國國家颶風中心：熱帶低氣壓可能在未來幾天內給夏威夷群島帶來降雨和大風。
+
+---
+
+### 2026-08-22 04:35:13  #觀點
+
+科沃爾特能源（Covolt Power）：摩根大通、傑富瑞、加拿大皇家銀行資本市場、瑞銀投資銀行以及凱基資本市場為此次首次公開募股的承銷商。
+
+---
+
+### 2026-08-22 04:35:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.05% Higher — The Dow Jones Index gained 555 points or 1.05 percent on Friday to close at 53315 points. Gains were led by Goldman Sachs (3.94%), Merck (2.27%) and Salesforce (1.91%).
 
 ---
 
@@ -18085,161 +18205,5 @@ ICI: US money market fund assets rose to $7.93 trillion.
 ### 2026-08-21 03:15:40  #國際
 
 市場訊息：“亞伯拉罕・林肯” 號航母於週四啟程返回聖地亞哥母港，結束為期九個月的部署任務，該部署大部分時間用於支援美國針對伊朗的軍事行動。駐日部署的 “喬治・華盛頓” 號航母已接替林肯號進駐中東。
-
----
-
-### 2026-08-21 03:13:56  #MKT News
-
-CNN, citing sources, reports the US aircraft carrier USS Abraham Lincoln has begun returning to port but remains in the US Fifth Fleet area of operations.
-
----
-
-### 2026-08-21 03:05:00  #MKT News #Market Regions #Greater China #Hang Seng Index
-
-Hang Seng Index futures closed flat in the night session at 25,696, trading 2 points below the cash index.
-
----
-
-### 2026-08-21 03:04:57  #國際
-
-【美聯邦調查局稱挫敗針對紐約州議會大廈襲擊圖謀】當地時間8月20日，美國聯邦調查局（FBI）當天逮捕一名女子，指控其策劃襲擊位於紐約州首府城市奧爾巴尼的紐約州議會大廈。FBI在刑事訴狀中稱，35歲的傑西卡·鮑伊（Jessica Bowie）曾在網路交流中宣誓效忠“伊斯蘭國”，並於今年7月開始策劃相關襲擊。（央視新聞）
-
----
-
-### 2026-08-21 03:03:51  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7260元，較週三夜盤收盤漲42點。成交量455.00億美元。
-
----
-
-### 2026-08-21 03:01:44  #MKT News
-
-Argentina's statistics agency reported a July trade surplus of $2.115 billion, versus market expectations of $1.85 billion.
-
----
-
-### 2026-08-21 03:01:33  #其他
-
-阿根廷7月份貿易順差為21.15億美元；預計為18.67億美元。
-
----
-
-### 2026-08-21 03:01:27  #公司 #觀點
-
-【摩根大通給予博通“增持”評級：市場仍低估其AI晶片領域的絕對領先優勢 】摩根大通（JPMorgan）認為，目前的市場低估了晶片製造商博通（Broadcom）的發展潛力。這家總部位於帕洛阿爾託（Palo Alto）的公司，預計其AI相關銷售額將實現180%的年度大幅增長。摩根大通認為，這主要得益於博通與Alphabet（谷歌母公司）之間穩固的產品合作關係。分析師哈蘭·瑟爾（Harlan Sur）在週三發給客戶的報告中指出：“我們認為，市場依然低估了博通所具備的顯著主導地位與領先優勢（領先優勢達18個月以上）、在晶片和封裝設計上的領導力、激進的新設計迭代節奏、龐大的智慧財產權（IP）組合，以及其出色的執行記錄。在過去12年裡，博通已協助谷歌將14款最先進的晶片設計成功推向市場。”
-
----
-
-### 2026-08-21 03:00:34  #其他
-
-阿根廷6月經濟活動環比增長0.8%；此前預期增長0.3%。
-
----
-
-### 2026-08-21 03:00:30  #其他
-
-阿根廷 6 月經濟活動同比增長 2.7%；預計+2.4%。
-
----
-
-### 2026-08-21 03:00:21  #國際
-
-美國農業部：7 月美國紅肉產量下降 1.6%。
-
----
-
-### 2026-08-21 03:00:03  #市場
-
-恒指期貨夜盤收漲0.01%，報25698.70點，高水0.21點。
-
----
-
-### 2026-08-21 02:58:47  #MKT News #UAL.O #Impact bullish
-
-United Airlines (UAL.O) said it expects to carry more than 3.4 million passengers between Sept. 3 and 8.
-
----
-
-### 2026-08-21 02:58:21  #公司 #國際
-
-美國聯合航空公司：預計9月3日至8日期間運送旅客將超340萬人次。
-
----
-
-### 2026-08-21 02:58:15  #其他
-
-據訊息人士：迪士尼將於 2027 年晚些時候推出股票購買計劃。
-
----
-
-### 2026-08-21 02:57:45  #其他
-
-市場訊息：迪士尼將推出員工股票購買計劃。
-
----
-
-### 2026-08-21 02:57:14  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-Ukraine's foreign minister said he has discussed with EU foreign policy chief Kallas measures including strengthening air defenses, further sanctions on Russia and use of frozen Russian assets, and urged guarantees for the security of Black Sea shipping and the grain corridor.
-
----
-
-### 2026-08-21 02:52:41  #國際
-
-【烏克蘭表態願與俄重啟談判，期待美方代表來訪推動對話 】烏克蘭總統辦公室第一副主任謝爾蓋·基斯利察表示，烏克蘭已準備好與俄羅斯就解決衝突進行談判。基輔方面願意坐到談判桌前，傾聽美國立場並與俄方開展對話，同時堅定捍衛己方主張。基斯利察透露，目前由美國參與的談判程序正處於暫停狀態。烏克蘭方面正期待美國談判代表的來訪，並預計此舉將有助於重啟對話程序。
-
----
-
-### 2026-08-21 02:52:16  #公司
-
-馬拉松石油公司位於得克薩斯州加爾維斯頓灣的煉油廠報告稱，相關裝置已穩定執行，火炬停止燃燒。
-
----
-
-### 2026-08-21 02:52:10  #公司
-
-馬拉松石油公司位於得克薩斯州加爾維斯頓灣的煉油廠報告稱，焦化裝置發生故障，導致火炬燃燒量超過可報告標準。放量超過可申報閾值。
-
----
-
-### 2026-08-21 02:50:31  #其他
-
-市場訊息：紐約州州長表示，來年沒有實施新稅的計劃。
-
----
-
-### 2026-08-21 02:48:22  #其他
-
-市場訊息： 紐約州州長稱 “無意” 增稅。
-
----
-
-### 2026-08-21 02:45:07  #市場
-
-布倫特原油期貨結算價報每桶93.78美元，上漲2.16美元，漲幅2.36%。
-
----
-
-### 2026-08-21 02:44:58  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $93.78/bbl, up $2.16 or 2.36%.
-
----
-
-### 2026-08-21 02:44:51  #MKT News #WTI #Brent
-
-【Oman, Japan urge urgent international action to ensure freedom of navigation in Strait of Hormuz】Oman Foreign Minister Busaidi and Japan Foreign Minister Motegi said after meeting in Muscat that international efforts must be strengthened to ensure freedom of navigation through the Strait of Hormuz in accordance with international law. Busaidi said safe passage through Hormuz is integral to regional security and prosperity. Motegi praised Oman’s role in addressing the Hormuz shipping crisis and pledged closer coordination with Muscat to secure freedom and safety of navigation in the Strait of Hormuz and the Bab al‑Mandeb.
-
----
-
-### 2026-08-21 02:42:39  #國際
-
-美國西北河流預報中心：美國西北部河流徑流量維持在82%，無變化。
-
----
-
-### 2026-08-21 02:41:38  #宏觀 #公司 #市場 #國際
-
-【歐洲股市小幅收低 延續2023年以來最長連跌走勢】洲股市小幅下跌，延續2023年9月以來最長連跌走勢，有關美國介入債市的言論令債券收益率劇烈波動。斯托克歐洲600指數週四收跌0.1%。股市盤中隨政府債券收益率波動；美國財政部長斯科特·貝森特表示美國國債回購規模還可加碼後，收益率回落。消費品和零售股表現最差，而能源股表現最佳。由於投資者擔憂美國和伊朗之間的僵局，布倫特原油價格超過每桶93美元。歐洲天然氣價格也升至五個月高點。歐洲基準股指自4月以來一路上漲並創下紀錄高點，但近期走勢轉弱。財報季業績遠超分析師預期後，地緣政治不確定性仍揮之不去，投資者處於觀望狀態。“投資者對股票仍很有信心，”晨星歐洲、中東和非洲首席股票市場策略師Michael Field表示，“我們所處的時代宏觀經濟和地緣政治非常不穩定，過去一週左右投資者再次意識到了這一點，這就是該指數回落的原因。”
 
 ---
