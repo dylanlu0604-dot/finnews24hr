@@ -1,7 +1,67 @@
 {
   "date": "2026-08-22",
-  "count": 28,
+  "count": 34,
   "items": [
+    {
+      "id": "mkt:01a02522-1c9c-7aab-90d8-9146a7dd094a",
+      "time": "2026-08-22 00:23:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude briefly slipped $0.50 to $86.25/bbl."
+    },
+    {
+      "id": "mkt:01a02521-af27-7aab-90d8-8f95db7f3d25",
+      "time": "2026-08-22 00:22:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Brazilian real rises 1% versus the dollar to 5.14 BRL/USD."
+    },
+    {
+      "id": "5052624",
+      "time": "2026-08-22 00:22:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元上漲 1%，現貨交易報 1 美元兌 5.14 雷亞爾。"
+    },
+    {
+      "id": "mkt:01a02521-203f-7aab-90d8-84cc49e96e1c",
+      "time": "2026-08-22 00:22:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Oman state news agency said Omani and Iranian foreign ministers discussed conditions for resuming talks to support restoration of navigation through the Strait of Hormuz."
+    },
+    {
+      "id": "5052623",
+      "time": "2026-08-22 00:21:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "阿曼國家通訊社：阿曼與伊朗兩國外交部長就重啟談判的相關條件展開磋商，談判旨在恢復霍爾木茲海峽通航。"
+    },
+    {
+      "id": "5052622",
+      "time": "2026-08-22 00:20:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國2/10年期國債收益率本週漲約5個基點】週五（8月21日）歐市尾盤，德國10年期國債收益率跌0.1個基點，報3.258%，本週累計上漲5.4個基點，整體交投於3.193%-3.276%區間，8月18日跳空高開之後高位持穩。兩年期德債收益率跌0.7個基點，報2.848%，本週累漲4.9個基點，交投於2.785%-2.882%區間；30年期德債收益率漲0.1個基點，報3.762%，本週累漲3.5個基點。2/10年期德債收益率利差漲0.471個基點，報+40.782個基點，本週累漲0.501個基點。"
+    },
     {
       "id": "5052621",
       "time": "2026-08-22 00:18:22",
