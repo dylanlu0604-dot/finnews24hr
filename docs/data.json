@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-21 08:32:46",
+  "updated": "2026-08-21 08:36:40",
   "count": 16037,
   "items": [
+    {
+      "id": "te:economy:577014",
+      "time": "2026-08-21 08:35:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "Japan Services Growth at 5-Month High — Japan’s S&P Global Services PMI Business Activity Index was up to 52.3 in August 2026 from a final 51.2 in the previous month, a preliminary estimate showed. It was the third consecutive month of expansion in the services sector and the fastest pace since March."
+    },
+    {
+      "id": "te:economy:577013",
+      "time": "2026-08-21 08:32:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Composite PMI Rises to 6-Month Peak — Japan’s S&P Global Composite PMI Business Activity Index increased to 53.4 in August 2026 from a final 52.7 in the prior month, flash data showed. It was the highest reading since February, signaling a 17th consecutive month of expansion in private-sector activity."
+    },
+    {
+      "id": "mkt:01a021bb-a958-7aab-90c3-ed98466b809a",
+      "time": "2026-08-21 08:32:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CITIC Securities: Shanghai policy loosening to support house-price recovery, development to concentrate in core cities】CITIC Securities says Shanghai’s Aug. 20 measures to optimize real-estate policy should spur genuine homebuying and, by unlocking replacement chains from the bottom up, help sustain a modest rise in Shanghai house prices into H2 2026. The report expects residential development to increasingly concentrate in first-tier and select second-tier cities, which benefit from larger populations, earlier rent stabilization and lower new-build volumes over the past decade."
+    },
     {
       "id": "mkt:01a021ba-dc2b-7aab-90c3-e1ad9c027051",
       "time": "2026-08-21 08:31:29",
@@ -60,6 +94,15 @@
         "國際"
       ],
       "text": "韓國央行高階副行長：經濟增長改善程度好於預期。通脹超出目標，金融穩定風險依然存在。鑑於外匯波動和地緣政治風險，需要謹慎靈活的政策決策。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608213848501749",
+      "time": "2026-08-21 08:30:24",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月製造業PMI初值55.1，前值54.5。日本8月服務業PMI初值52.3，前值51.2。日本8月綜合PMI初值53.4，前值52.7。"
     },
     {
       "id": "5050921",
@@ -146731,39 +146774,6 @@
         "公司"
       ],
       "text": "【截至6月30日，馬斯克持有SpaceX 48.4%股權】 據媒體報道，監管檔案顯示，截至6月30日，埃隆・馬斯克持有SpaceX 48.4%的股份，按當前市價計算，該部分股權價值超9000億美元。檔案顯示，馬斯克持有64.2億股股份，並對這些股份擁有單獨投票權及處置權。自IPO以來，他掌握SpaceX超過82%的投票權，凸顯其對這家公司的巨大影響力。本月早些時候，SpaceX公佈了自上市以來的首份季度財報，顯示營收增長超過90%，資本支出呈指數級增長。"
-    },
-    {
-      "id": "5040220",
-      "time": "2026-08-14 08:35:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【據稱KKR以每股最高80美元的價格出售BridgeBio Pharma股票】 當地時間8月13日，據報道，知情人士透露，私募股權投資公司KKR的一家關聯公司正以每股78至80美元的價格出售生物技術公司BridgeBio Pharma的股票。"
-    },
-    {
-      "id": "5040219",
-      "time": "2026-08-14 08:35:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局印發《檢驗類醫療服務價格專案立項指南（試行）》】 為貫徹落實《深化醫療服務價格改革試點方案》，推進全國醫療服務價格專案規範編制工作，按照“成熟一批、釋出一批”的工作思路，近日國家醫保局編制印發《檢驗類醫療服務價格專案立項指南（試行）》及其對映關係表，將已有價格專案規範整合為662個主專案、114個加收項、7個擴充套件項。下一步，國家醫保局將指導各省醫保局參考《檢驗類醫療服務價格專案立項指南（試行）》，制定全省統一的價格基準，由具有價格管理許可權的統籌地區對照全省價格基準，上下浮動確定實際執行的價格水平。"
-    },
-    {
-      "id": "5040217",
-      "time": "2026-08-14 08:34:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Reddit將被納入標普500指數】當地時間8月13日，Reddit宣佈公司將於8月18日開盤前正式納入標普500指數。"
-    },
-    {
-      "id": "5040216",
-      "time": "2026-08-14 08:33:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞任命梅琳達・奇倫託（ MELINDA CILENTO）為澳大利亞儲備銀行理事會兼職委員。"
     }
   ]
 }
