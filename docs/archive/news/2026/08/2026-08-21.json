@@ -1,7 +1,107 @@
 {
   "date": "2026-08-21",
-  "count": 2976,
+  "count": 2987,
   "items": [
+    {
+      "id": "mkt:01a024db-3c70-7aab-90d7-82e0b6493244",
+      "time": "2026-08-21 23:05:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank governing board member Tschudin said Swiss inflation is low because inflation expectations are low and oil has a small weight in Switzerland's consumption basket."
+    },
+    {
+      "id": "5052580",
+      "time": "2026-08-21 23:05:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行理事Tschudin： 瑞士通脹處於低位，源於通脹預期較低，且石油在瑞士消費籃子中權重不高。"
+    },
+    {
+      "id": "mkt:01a024db-05ec-7aab-90d7-7a7f0a880cd4",
+      "time": "2026-08-21 23:05:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank governing board member Tschudin said the bank does not publish interest-rate projections and that current inflation forecasts should not be interpreted as implying policy rates will remain at current levels for three years."
+    },
+    {
+      "id": "mkt:01a024da-c91f-7aab-90d7-727c8d2d0e23",
+      "time": "2026-08-21 23:05:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank executive board member Tschudin said the Swiss franc weakened as foreign interest-rate expectations rose."
+    },
+    {
+      "id": "5052579",
+      "time": "2026-08-21 23:05:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行理事Tschudin： 我們不釋出利率預測；當前通脹預測不應被解讀為利率將在三年內維持現有水平。"
+    },
+    {
+      "id": "5052578",
+      "time": "2026-08-21 23:04:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行理事Tschudin：瑞郎走弱源於海外加息預期升溫。"
+    },
+    {
+      "id": "mkt:01a024d9-47ce-7aab-90d7-6dc3d111ac8c",
+      "time": "2026-08-21 23:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Joint statement: Turkey, Egypt, Indonesia, Jordan, Pakistan, Qatar, Saudi Arabia and the UAE condemned Israel's settlement policy in the Palestinian territories and explicitly rejected the \"E1\" settlement plan."
+    },
+    {
+      "id": "5052577",
+      "time": "2026-08-21 23:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其、埃及、印度尼西亞、約旦、巴基斯坦、卡達、沙烏地阿拉伯、阿聯酋發表聯合宣告，譴責以色列在巴勒斯坦領土上的定居點政策，堅決反對 “E1” 定居點計劃。"
+    },
+    {
+      "id": "mkt:01a024d8-f8ec-7aab-90d7-620bf5b14495",
+      "time": "2026-08-21 23:03:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) intraday gains widened to 5%."
+    },
+    {
+      "id": "5052576",
+      "time": "2026-08-21 23:02:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行理事Tschudin：如果通脹需要，將會將利率下調至0%以下。"
+    },
+    {
+      "id": "mkt:01a024d8-b828-7aab-90d7-5a474cdbb75c",
+      "time": "2026-08-21 23:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's government press office said recent sugar price gains were driven by speculation and stockpiling, with mills and traders pushing prices higher."
+    },
     {
       "id": "mkt:01a024d7-1cde-7aab-90d7-50e550908823",
       "time": "2026-08-21 23:01:12",
