@@ -1,7 +1,128 @@
 {
-  "updated": "2026-08-22 01:02:18",
-  "count": 16191,
+  "updated": "2026-08-22 01:06:21",
+  "count": 16198,
   "items": [
+    {
+      "id": "te:markets:577348",
+      "time": "2026-08-22 01:05:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Hits 18-month High — Rice increased to 14.50 USD/cwt, the highest since January 2025. Over the past 4 weeks, Rice gained 0.36%, and in the last 12 months, it increased 24.56%."
+    },
+    {
+      "id": "5052644",
+      "time": "2026-08-22 01:03:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯襲擊烏克蘭克里沃羅格市造成的死亡人數已升至 14 人。"
+    },
+    {
+      "id": "5052643",
+      "time": "2026-08-22 01:03:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4630美元/盎司，日內漲2.46%。"
+    },
+    {
+      "id": "mkt:01a02547-3823-7aab-90d9-4fd0973be091",
+      "time": "2026-08-22 01:03:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold hit $4,630/oz, up 2.46% intraday."
+    },
+    {
+      "id": "mkt:01a02547-36fe-7aab-90d9-43a20255ec27",
+      "time": "2026-08-22 01:03:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian state media reported the death toll from a Russian airstrike on Kryvyi Rih has risen to 14."
+    },
+    {
+      "id": "5052642",
+      "time": "2026-08-22 01:03:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼外交大臣與伊朗外長通話 討論霍爾木茲海峽航運】當地時間21日，阿曼外交大臣巴德爾與伊朗外交部長阿拉格齊通電話，雙方就地區最新局勢以及霍爾木茲海峽航運最新情況等交換意見。雙方強調，將繼續就相關問題進行磋商，推動達成具體共識，以恢復霍爾木茲海峽自由、順暢通航，並維護地區安全與穩定。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a02546-aee4-7aab-90d9-3d1eb475c49c",
+      "time": "2026-08-22 01:03:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas rig count for week to Aug. 21: 127 rigs, down from 128 the prior week."
+    },
+    {
+      "id": "mkt:01a02546-a0b7-7aab-90d9-326777912949",
+      "time": "2026-08-22 01:03:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US total rig count for week to Aug. 21: 588 rigs, down from 593 previously."
+    },
+    {
+      "id": "mkt:01a02546-9285-7aab-90d9-2d37bbf0ce51",
+      "time": "2026-08-22 01:02:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Aug.21) | actual 127 | previous 128"
+    },
+    {
+      "id": "mkt:01a02546-7a7d-7aab-90d9-25326400a4e7",
+      "time": "2026-08-22 01:02:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Aug.21) | actual 588 | previous 593"
+    },
+    {
+      "id": "mkt:01a02546-77a7-7aab-90d9-19e6b6c6073c",
+      "time": "2026-08-22 01:02:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US oil rig count fell to 452 in the week to Aug. 21 from 455 the prior week."
+    },
+    {
+      "id": "mkt:01a02546-55ba-7aab-90d9-145c209bdbc4",
+      "time": "2026-08-22 01:02:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Aug.21) | actual 452 | previous 455"
+    },
     {
       "id": "5052641",
       "time": "2026-08-22 01:01:24",
@@ -148251,54 +148372,6 @@
         "Importance 1"
       ],
       "text": "Colombia Retail Sales Beat Expectations — Colombia’s real retail sales rose 14.7% year-on-year in June 2026, slightly above market expectations of 13.6% and accelerating from 11.7% in May. Seventeen merchandise lines recorded positive changes, while two declined. The largest increases were recorded in motor vehicles and motorcycles, mainly for household use (49.8%), other motor vehicles and motorcycles (52.4%), and sound and video equipment and appliances (89.9%). Meanwhile, sales of footwear, leather goods and leather substitutes fell 1.6%, while food sales declined 1.2%."
-    },
-    {
-      "id": "5041859",
-      "time": "2026-08-15 01:06:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國萊茵河考布水位創歷史新低 航運或被“截斷”】德國萊茵河中游考布河段水位降至約8釐米，創下歷史新低，此前最低紀錄為2018年10月的25釐米。考布河段位於萊茵蘭‑普法爾茨州科布倫茨與美因茨之間，是衡量萊茵河航運狀況的重要參考點。德國內河航運協會警告，如果考布水位降至個位數，萊茵河可能無法保持全線通航，南北航運甚至可能被“截斷”。目前考布以南航運已嚴重受限，預報週末水位將進一步跌至5至6釐米。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a0013c-6b97-7aab-9043-8a318e265f9b",
-      "time": "2026-08-15 01:05:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Baker Hughes said the U.S. oil and gas rig count rose to its highest level since March 2025."
-    },
-    {
-      "id": "mkt:01a0013a-afe1-7aab-9043-81e9a19d39e5",
-      "time": "2026-08-15 01:03:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Baker Hughes said U.S. energy companies added drilling rigs for the second time in three weeks."
-    },
-    {
-      "id": "5041858",
-      "time": "2026-08-15 01:03:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞塞拜然發生 5 級地震。"
-    },
-    {
-      "id": "5041857",
-      "time": "2026-08-15 01:02:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐銀行：發行 25 億美元、票息 5.243% 的固定 / 浮動利率高階無抵押債券，到期日 2032 年。"
     }
   ]
 }
