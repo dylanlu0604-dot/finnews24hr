@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-21 10:54:18",
-  "count": 16034,
+  "updated": "2026-08-21 10:58:12",
+  "count": 16037,
   "items": [
+    {
+      "id": "5051151",
+      "time": "2026-08-21 10:57:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩爾執行緒張建中：智算叢集向十萬卡規模演進已成必然趨勢】8月21日，摩爾執行緒創始人張建中在2026世界機器人大會上表示，具身智慧產業正迎來類似大模型的“ChatGPT 時刻”，算力底座是發展關鍵。語言模型已跨越萬億引數門檻，在縮放定律（Scaling Law）驅動下，具身智慧模型也正從十億、百億級向千億、萬億級引數進化，智算叢集隨之從千卡邁向萬卡，向十萬卡規模演進已成必然趨勢。"
+    },
+    {
+      "id": "mkt:01a02240-a16d-7aab-90c6-f73a377de4fd",
+      "time": "2026-08-21 10:57:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea to set up Future Fund using chip-boom windfall, Budget Office says】YONHAP — South Korea's Budget Office said on Friday it will use windfall tax revenue from an AI-driven chip boom to establish a Future Fund to support long-term growth. The office said AI-driven change is reshaping economic and social systems and, propelled by a global chip upswing and higher corporate tax receipts, domestic tax revenue is expected to rise sharply. The fund will operate as a strategic investment platform to raise Korea's potential growth rate and help secure a leading position in global technology competition."
+    },
+    {
+      "id": "5051150",
+      "time": "2026-08-21 10:57:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：將動態調整進口暫定稅率，自主最佳化完善關稅稅目，支援進出口貿易】8月21日，財政部國際經濟關係司司長程智軍在國新辦新聞釋出會上表示，“十五五”時期，財政部門將加快建立科學高效的現代關稅制度，支援建設更高水平開放型經濟新體制。在擴大全球優質商品進口方面，根據國內高質量發展的需要和國際經貿形勢的變化，財政部會動態調整進口暫定稅率，更好滿足國內生產發展所需、人民美好生活所盼，也將適應科技進步和產業發展需求，自主最佳化完善關稅稅目，支援進出口貿易。"
+    },
+    {
+      "id": "5051149",
+      "time": "2026-08-21 10:57:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：今年將建立全國統一地方財政補貼負面清單管理機制】財政部副部長廖岷介紹說，今年，財政部已經會同國家發展改革委、工信部、商務部、海關總署、稅務總局、市場監管總局等部門建立全國統一的地方財政補貼負面清單管理機制，清晰劃定違規補貼的具體情形，堅決杜絕違規補貼增量，分類規範違規補貼存量。（新華財經）"
+    },
+    {
+      "id": "mkt:01a0223e-0a41-7aab-90c6-ecc8f4a98f74",
+      "time": "2026-08-21 10:54:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【Ministry of Finance: fiscal‑financial package to boost domestic demand has benefited 6.22 mln firms】Deputy Minister Liao Min said the demand‑support package, rolled out just over six months ago, is proceeding as expected; about 113 million resident person‑times and 6.22 million enterprises have received support. From Jan–Jul, six loan‑subsidy tools (SME, equipment renewal, service‑sector operators, consumer loans, etc.) helped channel more than CNY20 trillion of new lending into targeted fields, up CNY880 billion YoY (+4.5%). Support spans traditional sectors (agriculture, forestry, animal husbandry and fisheries, cultural tourism, health and elderly care) and emerging industries (high‑end equipment, AI, green/low‑carbon, biomanufacturing). Two consumption measures have supported roughly CNY1.88 trillion of household spending by boosting service‑sector supply (restaurants, accommodation, culture, health/elderly care) and strengthening demand via subsidies, trade‑in and invoice‑lottery incentives."
+    },
+    {
+      "id": "5051148",
+      "time": "2026-08-21 10:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【管濤出任華福證券首席經濟學家】管濤8月21日正式出任華福證券首席經濟學家。管濤深耕宏觀金融領域數十年，曾任中銀證券全球首席經濟學家，現任武漢大學經濟學博導、中國證券業協會首席經濟學家專業委員會主任委員。據瞭解，他將全面賦能華福證券宏觀研究、政策研判與大類資產配置體系建設。值得關注的是，2025年華福證券佣金分倉收入突破2.2億元，同比增超186%，行業排名升至第21位；2026年1-7月收入達2.98億元，同比增129%。此次引入管濤，將進一步提升華福證券投研品牌影響力。 (財聯社)"
+    },
+    {
+      "id": "5051147",
+      "time": "2026-08-21 10:54:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：一攬子政策引導金融資源流向實體經濟，降低融資成本激發企業活力，助力億萬百姓共享政策紅利】財政部副部長廖岷介紹，一攬子政策有力發揮了財政資金乘數效應，支援重點投資和消費領域信貸投放逆勢增長。今年1-7月，透過中小微企業貸款貼息、裝置更新貸款貼息、服務業經營主體貸款貼息、個人消費貸款貼息等6項政策工具，累計支援相關領域新發放信貸超20萬億元，較上年同期增加超8800億元、增幅為4.5%，不僅惠及農林牧副漁、文旅康養等傳統產業，也支援了高階裝備、人工智慧、綠色低碳、生物製造等新興產業和未來產業。與此同時，政策聚焦於打通民間投資中的難點和堵點。1-7月，4項促投資政策累計支援民間投資約1.51萬億元。此外，政策還有力促進了居民消費。1-7月，2項促消費政策累計支援居民消費約1.88萬億元，既從供給側賦能服務業經營主體，全面支援餐飲住宿、文化娛樂、健康養老等服務消費領域，增加優質服務供給；又從需求側增強居民消費能力，與消費補貼、以舊換新、有獎發票等促消費政策疊加共振，有力支援廣大居民日常消費。"
+    },
     {
       "id": "mkt:01a0223c-ebe7-7aab-90c6-e0ac7ece0f34",
       "time": "2026-08-21 10:53:32",
@@ -146763,42 +146825,6 @@
         "MKT News"
       ],
       "text": "【PBOC deputy governor Zou Lan attended BRICS finance ministers and central bank governors meeting in Jaipur】On Aug 12-13, 2026, PBOC deputy governor Zou Lan attended this year’s first BRICS finance ministers and central bank governors meeting in Jaipur, India. Delegates discussed global economic development and governance, enhancements to the Contingent Reserve Arrangement (CRA), and stepped-up BRICS cooperation on cross-border payments, sustainable finance, information security and fintech."
-    },
-    {
-      "id": "5040439",
-      "time": "2026-08-14 10:56:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微信明確：朋友圈未來不會推出二次編輯功能】8月14日，微信官方賬號“微信派”釋出《為什麼朋友圈沒有編輯功能？》一文。其中提到，“朋友圈現在、過去、未來都不會有二次編輯功能”。微信表示，朋友圈的英文是“Moments”，當下那一瞬間。正是因為“不可更改”，這種記錄才具備絕對真實性。與其讓所有人都活在“什麼都可能被改過”的朋友圈裡，不如讓手誤那幾秒自己消化掉。"
-    },
-    {
-      "id": "mkt:019ffe32-0037-7aab-9033-aa44a05f6b52",
-      "time": "2026-08-14 10:55:17",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Local governor said areas around Russia's Baltic port Ust-Luga suffered damage from drone strikes."
-    },
-    {
-      "id": "5040438",
-      "time": "2026-08-14 10:55:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯波羅的海烏斯季盧加港周邊地區遭無人機襲擊受損。"
-    },
-    {
-      "id": "5040437",
-      "time": "2026-08-14 10:54:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓華海洋股價上漲5.2%，至95,400韓元。"
     }
   ]
 }
