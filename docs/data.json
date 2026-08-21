@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-21 13:37:57",
-  "count": 16016,
+  "updated": "2026-08-21 13:41:48",
+  "count": 16008,
   "items": [
+    {
+      "id": "mkt:01a022d4-acbc-7aab-90c8-f31b85ce4c54",
+      "time": "2026-08-21 13:39:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【JP Morgan: Treasury long-bond buybacks likened to ‘using a credit card to replace a mortgage’; short-end risk rises】JP Morgan’s markets intelligence team says the US Treasury has raised single buyback size for 10+-year Treasuries from up to $2bn to at least $4bn. That may temporarily ease long-end supply pressure, but financing needs persist and the burden could shift to the short end. If the Treasury increases short-term issuance to fund buybacks, it effectively swaps long-term debt for shorter maturities—lowering term premium briefly while raising refinancing frequency and rate re-pricing risk, and accelerating interest-cost exposure if policy rates remain high. JP Morgan stresses these are debt-management operations, not QE: they do not create reserves or have the Fed absorb duration. Markets should watch long-end yields, short-term issuance volumes and whether the Treasury’s average financing maturity continues to shorten."
+    },
+    {
+      "id": "5051317",
+      "time": "2026-08-21 13:37:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臨港新片區：“十五五”將推進離岸貿易金融服務綜合改革試點擴圍】8月21日，《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》正式釋出。根據規劃，“十五五”期間，臨港新片區將推進離岸貿易金融服務綜合改革試點擴圍，透過“專營公司+一線放開、二線管住”的制度設計，優先發展基於大宗商品交易等具備一定基礎的離岸貿易金融服務，適時將離岸貿易金融服務管理模式擴大到更多的貿易業務場景。支援跨國集團產品分銷中心、大宗商品貿易商、全球生產加工企業等在臨港新片區設立離岸業務專營公司，深度參與全球性生產、銷售、服務等活動。鼓勵區內金融機構為其開展離岸業務提供資金支付、結算、融資等金融服務，提升外來外去資金進出自由便利度。用好離岸貿易印花稅優惠政策，促進離岸貿易發展。（上證報）"
+    },
     {
       "id": "5051316",
       "time": "2026-08-21 13:37:18",
@@ -146605,99 +146625,6 @@
         "其他"
       ],
       "text": "B. RILEY將應用材料目標價從790美元下調至700美元。"
-    },
-    {
-      "id": "mkt:019ffeca-39fe-7aab-9036-3714c8732665",
-      "time": "2026-08-14 13:41:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan 5-year government bond yield rose 1 bp to 2.130%."
-    },
-    {
-      "id": "mkt:019ffeca-2175-7aab-9036-2b26c1c55954",
-      "time": "2026-08-14 13:41:27",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY slid more than 10 pips intraday to 159.24."
-    },
-    {
-      "id": "mkt:019ffec9-e078-7aab-9036-21131d0ae729",
-      "time": "2026-08-14 13:41:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Zhipu (02513.HK) releases GLM-5.3, flags coding and long‑horizon gains】Zhipu (02513.HK) said it released GLM-5.3 today, using the same base model as GLM-5.2 and attributing all performance gains to post‑training optimization. The company said GLM-5.3 improves performance on complex coding and long‑horizon tasks, delivering a 50% uplift versus GLM-5.2 on its internal Z.ai code benchmark. Zhipu called GLM-5.3 the most capable open‑source weight model and said network‑capability gains during scaled post‑training deployment exceeded expectations. On the CyberGym platform, GLM-5.3 led vulnerability discovery tests, with improvements concentrated in later stages of exploit chains and more than double the exploitation‑benchmark performance of GLM-5.2. Pending security evaluation and hardening, Zhipu plans to publish the model weights two weeks after release."
-    },
-    {
-      "id": "5040613",
-      "time": "2026-08-14 13:41:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上漲1個基點，至2.130%。"
-    },
-    {
-      "id": "5040612",
-      "time": "2026-08-14 13:40:58",
-      "tags": [
-        "市場",
-        "央行",
-        "國際",
-        "原創"
-      ],
-      "text": "【訊息人士稱日本央行考慮9月加息，並加快緊縮步伐】據三位知情人士透露，日本央行最早可能在9月份加息，並考慮在此之後以比目前每年約兩次的頻率更積極的方式加息。此舉反映出日本央行對中東衝突帶來的價格壓力、強勁的全球人工智慧需求以及日元持續下跌趨勢日益增長的擔憂。儘管上個月日美罕見地聯合干預，日元的下跌趨勢依然持續。其中一位訊息人士表示：“提前加息已成定局”，這表明日本央行極有可能在9月17日至18日的下次政策會議上加息。另一位訊息人士也表達了類似的觀點，該訊息人士還表示：“日本央行也可能加快加息步伐。”"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608143841626094",
-      "time": "2026-08-14 13:40:55",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【訊息人士稱日本央行最早將於9月加息】訊息人士稱，日本央行最早將於9月加息，並考慮此後加快加息步伐。"
-    },
-    {
-      "id": "mkt:019ffec9-6189-7aab-9036-1d61ed5491bd",
-      "time": "2026-08-14 13:40:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Sources say the Bank of Japan could raise interest rates as early as September and is considering accelerating subsequent hikes."
-    },
-    {
-      "id": "mkt:019ffec9-1c9b-7aab-9036-17d17ffddede",
-      "time": "2026-08-14 13:40:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PHILIPPINE C.BANK governor signals less aggressive rate hikes as growth slows】PHILIPPINE C.BANK Governor Eli Remolona said slowing economic growth means the bank will not pursue as aggressive a pace of rate hikes, but policymakers still need to see a more convincing decline in inf before easing policy. The Philippines now has among Southeast Asia’s weakest growth and highest inf; a recent corruption scandal has dented market confidence and the Iran conflict has added to price pressures."
-    },
-    {
-      "id": "5040611",
-      "time": "2026-08-14 13:38:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天海防務等成立智慧船港航股權投資基金】企查查APP顯示，近日，九江市智慧船港航股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由天海防務等共同出資。"
-    },
-    {
-      "id": "5040610",
-      "time": "2026-08-14 13:38:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜釋出GLM-5.3】8月14日，智譜正式釋出GLM-5.3。據介紹，與GLM-5.2相比，GLM-5.3基座模型未變，但透過極致的後訓練Scaling大大提高了模型的智慧上界。GLM-5.3擁有更強的程式設計能力，在內部自建體感評測中較GLM-5.2提升50%，在包括Terminal Bench 3.0、Agents' Last Exam (CLI)在內的公開基準測試中取得開源第一。智譜還表示，將在釋出兩週後開放模型權重。"
     }
   ]
 }
