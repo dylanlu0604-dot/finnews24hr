@@ -1,7 +1,160 @@
 {
   "date": "2026-08-21",
-  "count": 2949,
+  "count": 2966,
   "items": [
+    {
+      "id": "te:markets:577325",
+      "time": "2026-08-21 22:56:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Bitcoin Surges as Risk Appetite and ETF Inflows Improve — Bitcoin surged 6% to around $77,370 on Friday, extending gains to over 20% this week, its strongest weekly gain in more than three years, boosted by a broader improvement in risk appetite. The US Treasury announced plans to at least double its purchases of longer-dated government bonds, pushing long-term yields lower and the dollar weaker. The move also triggered a major short squeeze, with billions of dollars in bearish crypto positions liquidated over recent days. Investor sentiment was further supported by President Donald Trump’s meeting with cryptocurrency industry leaders and his call for progress on a new crypto market-structure bill. US spot Bitcoin ETFs have also attracted more than $1 billion in weekly inflows, adding to demand. Despite the sharp rebound, Bitcoin remains well below its record high above $126,000 reached last October."
+    },
+    {
+      "id": "5052570",
+      "time": "2026-08-21 22:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統候選人博索納羅宣佈將聘請7位經濟學家合作制定政府計劃。"
+    },
+    {
+      "id": "5052569",
+      "time": "2026-08-21 22:53:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "珠海金智維人工智慧股份有限公司向港交所提交上市申請書，聯席保薦人為國泰海通、中銀國際。"
+    },
+    {
+      "id": "5052568",
+      "time": "2026-08-21 22:52:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電影：近12個月累計訴訟仲裁金額2.83億元】上海電影公告稱，截至本公告披露日，公司及控股子公司近12個月內累計訴訟、仲裁案件共13起，涉案金額合計2.83億元，佔公司最近一期經審計淨資產的16.84%。其中最新一起為上海晨韻實業因對2018年受讓天下票倉51%股權的估值基礎有異議，起訴要求解除產權交易合同、返還1.22億元股權轉讓款，目前該案一審尚未開庭，公司為被告。上述案件最終結果存在不確定性，暫無法判斷對公司利潤的具體影響。"
+    },
+    {
+      "id": "5052567",
+      "time": "2026-08-21 22:50:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：崑崙新能源遞交香港IPO申請。"
+    },
+    {
+      "id": "te:markets:577324",
+      "time": "2026-08-21 22:50:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Advances to Over 3-Month High — Gold climbed to around $4,580 an ounce on Friday, its highest level since mid-May, and extended weekly gains to around 5%. The rally was supported by renewed concerns over US fiscal sustainability after the Treasury unexpectedly increased its planned purchases of longer-dated government debt, pushing bond yields and the dollar lower. The intervention has raised questions about Washington’s ability to manage rising borrowing costs and reinforced demand for gold as an alternative store of value. Treasury Secretary Scott Bessent has indicated that further buybacks could follow, while the administration is preparing additional measures to address elevated financing costs. Meanwhile, rising oil prices could limit further gains by keeping inflation pressures elevated and reducing expectations for interest-rate cuts. The US campaign to intensify economic pressure on Iran has also weakened hopes for a quick reopening of the Strait of Hormuz, supporting energy prices."
+    },
+    {
+      "id": "mkt:01a024ca-c1aa-7aab-90d7-2c3b4dc77ad8",
+      "time": "2026-08-21 22:47:42",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Baltic Dry Index up 1.8% on day to 2,841; down 0.8% on week】Baltic Dry Index (BDI) rose 50 points (1.8%) to 2,841 on the day but fell 0.8% for the week. Capesize index (BCI) gained 123 points (2.8%) to 4,552 for a second daily advance; weekly +0.3%. Capesize average daily earnings rose dlr 1,118 to dlr 37,785/day. Panamax index (BPI) added 15 points (0.7%) to 2,103, ending a seven-day decline; weekly -5.6%. Panamax average daily earnings rose dlr 138 to dlr 18,928/day. Supramax/Ultramax index (BSI) +3 points to 1,640. Handysize index (BHSI) +3 points to 874."
+    },
+    {
+      "id": "mkt:01a024ca-8101-7aab-90d7-275ee6c0d10c",
+      "time": "2026-08-21 22:47:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state TV says Saudi Crown Prince Mohammed bin Salman has departed for an official visit to France."
+    },
+    {
+      "id": "5052566",
+      "time": "2026-08-21 22:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙特王儲穆罕默德·本·薩勒曼啟程前往法國進行正式訪問。"
+    },
+    {
+      "id": "5052565",
+      "time": "2026-08-21 22:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓多地因洪澇進入“災難狀態”】菲律賓民防局21日表示，受西南季風和熱帶氣旋疊加影響，強降雨天氣導致菲律賓多地洪澇等災害頻發，目前全國已有88個市（鎮）宣佈進入“災難狀態”。據菲民防局最新通報，受災最嚴重的省份包括邦板牙省、布拉幹省等，這些省份位於呂宋島最大的平原地區，極易因持續強降雨遭受洪澇災害。據官方統計，邦板牙省已有超過半數的村莊被洪水淹沒，近100萬人受災，農業損失約達14億比索（約合2269萬美元）。據介紹，“災難狀態”是菲律賓各級政府遭遇嚴重自然災害、疫情或重大危機影響時釋出的官方緊急宣告。（新華社）"
+    },
+    {
+      "id": "5052564",
+      "time": "2026-08-21 22:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門因違反外匯管理規定被處以20萬盧比的複合罰款。"
+    },
+    {
+      "id": "5052563",
+      "time": "2026-08-21 22:43:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【城堡基金收購Situational Awareness大部分組合，已削減超80%風險】城堡基金肯·格里芬在投資者信中表示，公司7月買入了Situational Awareness公司相當一部分股票和衍生品組合。目前已削減原組合超80%的總體風險，完成近100筆大宗交易，總市值超40億美元。多策略基金7月上漲5.94%，今年迄今漲幅達12%。"
+    },
+    {
+      "id": "mkt:01a024c5-9ce0-7aab-90d7-1da259f1e725",
+      "time": "2026-08-21 22:42:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Flooding prompts \"state of calamity\" across 88 Philippine municipalities】The Philippine Office of Civil Defense said on the 21st that combined southwest monsoon winds and a tropical cyclone have produced heavy rain and widespread flooding, prompting 88 municipalities to declare a \"state of calamity.\" Worst-hit provinces include Pampanga and Bulacan in Luzon’s largest plain, areas the agency says are highly susceptible to flooding from prolonged heavy rain. The civil defense bulletin reported more than half of villages in Pampanga are submerged, nearly 1.0 million people affected, and agricultural losses of about PHP 1.4 billion (≈USD 22.7 million). A \"state of calamity\" is an official emergency declaration local governments issue during severe natural disasters, epidemics or major crises."
+    },
+    {
+      "id": "mkt:01a024c5-0022-7aab-90d7-13c5b6d77f60",
+      "time": "2026-08-21 22:41:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Critical Metals' CEO said the company expects to start production at the Tanbreez project in 2029."
+    },
+    {
+      "id": "mkt:01a024c4-8815-7aab-90d7-0e18aae99026",
+      "time": "2026-08-21 22:40:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Fintech payments platform OnePay expands support for Apple Pay."
+    },
+    {
+      "id": "5052562",
+      "time": "2026-08-21 22:40:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "ONEPAY 擴大對Apple Pay的支援。"
+    },
+    {
+      "id": "5052561",
+      "time": "2026-08-21 22:39:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大的勒布朗、美國貿易代表格里爾將於當地時間上午11:30在華盛頓會晤。"
+    },
     {
       "id": "5052560",
       "time": "2026-08-21 22:37:00",
