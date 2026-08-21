@@ -1,7 +1,35 @@
 {
   "date": "2026-08-22",
-  "count": 41,
+  "count": 44,
   "items": [
+    {
+      "id": "te:markets:577346",
+      "time": "2026-08-22 00:32:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CVS Health Stock Price Hits 11-week Low — CVS Health shares decreased to 93.01 USD, the lowest since June 2026. Over the past 4 weeks, CVS Health lost 13.91%, and in the last 12 months, it increased 30.5%."
+    },
+    {
+      "id": "mkt:01a02527-7033-7aab-90d8-a0915497f47b",
+      "time": "2026-08-22 00:28:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk: Starlink now has 11,000 satellites in orbit."
+    },
+    {
+      "id": "5052629",
+      "time": "2026-08-22 00:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星鏈目前在軌衛星數量達到 11000 顆。"
+    },
     {
       "id": "5052628",
       "time": "2026-08-22 00:28:22",

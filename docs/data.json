@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-22 00:29:19",
-  "count": 16211,
+  "updated": "2026-08-22 00:33:20",
+  "count": 16210,
   "items": [
+    {
+      "id": "te:markets:577346",
+      "time": "2026-08-22 00:32:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CVS Health Stock Price Hits 11-week Low — CVS Health shares decreased to 93.01 USD, the lowest since June 2026. Over the past 4 weeks, CVS Health lost 13.91%, and in the last 12 months, it increased 30.5%."
+    },
+    {
+      "id": "5052629",
+      "time": "2026-08-22 00:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星鏈目前在軌衛星數量達到 11000 顆。"
+    },
+    {
+      "id": "mkt:01a02527-7033-7aab-90d8-a0915497f47b",
+      "time": "2026-08-22 00:28:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk: Starlink now has 11,000 satellites in orbit."
+    },
     {
       "id": "5052628",
       "time": "2026-08-22 00:28:22",
@@ -148489,50 +148517,6 @@
         "國際"
       ],
       "text": "美聯儲古爾斯比：美國國內生產總值與勞動力市場 “基本保持穩定” 。"
-    },
-    {
-      "id": "5041833",
-      "time": "2026-08-15 00:32:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀集團：持股變動資料截至 2026 年 6 月 30 日，對比基準為 2026 年 3 月 31 日結束的上一季度。"
-    },
-    {
-      "id": "mkt:01a0011d-7658-7aab-9042-db672f906a7e",
-      "time": "2026-08-15 00:31:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi media Alhadath reports a fire at Maihe Port following a Houthi missile strike."
-    },
-    {
-      "id": "mkt:01a0011c-4506-7aab-9042-d7795b42f105",
-      "time": "2026-08-15 00:30:24",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Saudi outlet Alhadath reports Yemeni government forces say Houthi fighters again attacked Mokha port with missiles."
-    },
-    {
-      "id": "te:markets:575523",
-      "time": "2026-08-15 00:29:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Swing Lower — US stocks swung lower on Friday as macroeconomic headwinds weighed against signs of tech optimism from earlier in the week. The S&P 500 eased 0.2% from its record high, while the Dow and the Nasdaq 100 fell up to 0.5%. Long-maturity Treasury yields swung higher amid concerns that the Federal Reserve could be complacent of higher inflation, despite the seemingly cool price data released this week. Alphabet, Amazon, Broadcom, and Oracle swung to losses. Meanwhile, Applied Materials dropped 5% despite beating forecast estimates. On the other hand, memory producers extended their strong gains from earlier in the week, with Sandisk adding more than 5% following its 14% surge yesterday, while Micron jumped 4% on bullish recommendations from analysts and brokers. The fresh wave of long positions on AI infrastructure were also underpinned by signals of more spending by hyperscalers, with both OpenAI and Anthropic aiming for IPOs this year, while the latter moved to acquire Decart."
     }
   ]
 }
