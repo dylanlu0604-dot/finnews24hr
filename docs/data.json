@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-22 03:04:08",
-  "count": 16176,
+  "updated": "2026-08-22 03:08:12",
+  "count": 16174,
   "items": [
+    {
+      "id": "5052687",
+      "time": "2026-08-22 03:04:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典警方：法格斯塔校園襲擊案嫌疑人是一名18歲人員。"
+    },
+    {
+      "id": "5052686",
+      "time": "2026-08-22 03:04:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【特斯拉股價飆升創5月以來最佳周表現，Robotaxi業務利好重塑市場信心】特斯拉股價正朝著5月以來的最佳單週表現邁進。本週，特斯拉股價累計上漲約5%，在週五（8月21日）盤中更是大漲逾5%，報363.15美元左右。這一輪強勁反彈有效扭轉了此前市場因汽車利潤下滑、AI鉅額資本支出（預計今年超250億美元）以及Robotaxi推廣進度緩慢而產生的擔憂情緒。據報道，特斯拉正準備在8月底推出其首款無方向盤、無踏板的自動駕駛計程車Cybercab。該車型將率先在得克薩斯州奧斯汀市向內部員工開放試乘，隨後將正式接入現有的Robotaxi服務網路。目前，特斯拉的Robotaxi服務已在佛羅里達州的邁阿密、奧蘭多、坦帕，以及得克薩斯州的奧斯汀、達拉斯和休斯敦等多個城市落地。"
+    },
+    {
+      "id": "5052685",
+      "time": "2026-08-22 03:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國西北河流徑流量維持在82% 未發生變化——美國西北河流預報中心（NWRFC）。"
+    },
+    {
+      "id": "5052684",
+      "time": "2026-08-22 03:03:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "馮德萊恩：以色列政府決定釋出E1定居點專案的建設招標不可接受。 我們長期以來一直反對這一步驟。 它透過分割西岸並破壞巴勒斯坦領土的領土連續性，破壞了兩國的解決方案。 我們仍然致力於基於兩國方案的公正和持久的和平。"
+    },
     {
       "id": "5052683",
       "time": "2026-08-22 03:00:45",
@@ -148120,58 +148152,6 @@
         "市場"
       ],
       "text": "恒生指數主連夜盤收漲0.61%。恒生科技指數主連夜盤收漲0.81%。"
-    },
-    {
-      "id": "mkt:01a001ac-a1eb-7aab-9044-b5a0cfad2a37",
-      "time": "2026-08-15 03:08:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's health ministry said a Houthi missile strike on the port town of Mocha tonight killed one civilian and wounded eight."
-    },
-    {
-      "id": "5041906",
-      "time": "2026-08-15 03:07:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府軍稱胡塞武裝發射6枚彈道導彈襲擊摩卡港】當地時間14日，葉門政府軍表示，葉門胡塞武裝向葉門西南部摩卡港發射6枚彈道導彈，並以當地民用和國家設施為襲擊目標，企圖對民眾實施封鎖、加劇民眾困境。當天，葉門衛生部發表宣告，強烈譴責葉門胡塞武裝襲擊摩卡港，並警告此舉將產生嚴重的衛生和人道主義後果。宣告指出，西部沿海本就面臨嚴峻的營養不良和流離失所問題，港口受損、物資受阻將直接危及食品、藥品及衛生服務供應，增加兒童、婦女、流離失所者等脆弱群體的風險。（央視新聞）"
-    },
-    {
-      "id": "5041905",
-      "time": "2026-08-15 03:05:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "夏威夷航空：因熱帶風暴拉拉，取消明日卡胡盧伊與檀香山之間的一趟航班。"
-    },
-    {
-      "id": "5041904",
-      "time": "2026-08-15 03:04:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Waymo：我們已獲得加州公用事業委員會批准，將在舊金山灣區、洛杉磯擴大服務，並於薩克拉門託、聖地亞哥推出服務。"
-    },
-    {
-      "id": "5041903",
-      "time": "2026-08-15 03:04:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "夏威夷航空：因熱帶風暴拉拉，週六暫停希洛機場運營。"
-    },
-    {
-      "id": "mkt:01a001a9-2fa2-7aab-9044-abe64baa3a22",
-      "time": "2026-08-15 03:04:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AVGO.O",
-        "Impact bearish"
-      ],
-      "text": "【Broadcom shares drop nearly 7% on concerns over AI financing platform】Broadcom shares fell nearly 7% intraday on Friday as investors flagged risks in the financing model for its AI infrastructure expansion. BofA analysts estimate the financing vehicle for Broadcom’s AI‑chip customers could accumulate up to $370bn of senior debt by mid‑2029, with about $150bn of new issuance in 2027, assuming a 20 GW data‑centre buildout. The debt would sit on the platform rather than Broadcom’s balance sheet, but Broadcom has provided lease‑payment guarantees for some customers; the first guaranteed transaction is about $29bn. The financing structure began in June, when Apollo Global Management and Blackstone led a $35bn funding package for Broadcom’s AIXPV platform; initial proceeds will support Anthropic’s build of more than 1 GW of compute and the platform targets over 20 GW by 2028. Market attention will focus on Broadcom’s potential future guarantee exposure as AI infrastructure scales."
     }
   ]
 }
