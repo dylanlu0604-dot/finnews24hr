@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-21 13:10:24",
-  "count": 16004,
+  "updated": "2026-08-21 13:14:27",
+  "count": 16008,
   "items": [
+    {
+      "id": "mkt:01a022bc-dc83-7aab-90c8-9defac2a827e",
+      "time": "2026-08-21 13:13:17",
+      "tags": [
+        "MKT News",
+        "2318.HK",
+        "Impact bullish"
+      ],
+      "text": "【Ping An management: current share price still far below intrinsic value】Fu Xin, Ping An’s deputy general manager and CFO, said at the company’s results briefing on the 21st that recent share-price weakness mainly reflects sector rotation across peers and does not reflect Ping An’s intrinsic value. He urged investors to evaluate the stock by industry, company and value: China’s life-insurance sector is in a golden growth period; Ping An’s strategy is clear and fundamentals are stable; and he expects steady profit and shareholder-return growth to be reflected in the share price over time."
+    },
+    {
+      "id": "5051286",
+      "time": "2026-08-21 13:13:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【平安管理層：目前平安的股價遠沒有反映價值】資料顯示，截至8月21日13點，中國平安A股今年以來複權後股價下跌19.18%，H股下跌11.05%。針對股價回撥問題，中國平安副總經理兼首席財務官付欣21日在業績釋出會上稱，平安今年以來股價和同業一樣經歷了板塊輪動，這是股價波動的核心原因。但目前股價沒有反映平安真實的價值。付欣稱，需要從行業、公司、價值三方面來觀察投資價值。從行業來說，中國壽險行業正處黃金髮展期；從公司來說，平安戰略清晰、基本面穩定；從公司價值來說，相信未來利潤和股東回報的穩定增長會反映到股價中去。“是金子總會發光。”付欣說。（第一財經）"
+    },
+    {
+      "id": "5051285",
+      "time": "2026-08-21 13:12:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LV起訴國家智慧財產權局遭法院駁回】8月20日，北京智慧財產權法院一審駁回路易威登馬利蒂(LV)的全部訴訟請求。 法院認定，LV主張的四瓣花卉圖案，原型是我國千年傳統紋樣寶相花、柿蒂紋，屬於全民共享的公共文化資源，任何品牌都無權獨佔壟斷。（大河報）"
+    },
+    {
+      "id": "mkt:01a022bb-0f03-7aab-90c8-9170db77f872",
+      "time": "2026-08-21 13:11:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Deputy Foreign Minister Ryabkov said any proposals for a settlement in Ukraine must align with objectives set by President Putin and with on-the-ground realities."
+    },
+    {
+      "id": "5051284",
+      "time": "2026-08-21 13:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包：上線技能·聯結器·工作夥伴】8月21日，據豆包訊息，豆包工作任務模式上新，技能·聯結器·工作夥伴/小隊現已上線。據介紹，開啟豆包電腦版側邊欄，選擇“技能·聯結器·夥伴”，即可體驗。目前，豆包內已上架超200個技能和聯結器，並支援自定義新建技能。"
+    },
+    {
+      "id": "5051283",
+      "time": "2026-08-21 13:10:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MINIMAX-W港股漲超10%】MINIMAX-W港股漲10.70%，報343.00港元。"
+    },
     {
       "id": "mkt:01a022b9-6716-7aab-90c8-8ebc00ea02d1",
       "time": "2026-08-21 13:09:30",
@@ -26,6 +77,15 @@
         "市場"
       ],
       "text": "【機器人概念震盪反彈 拓斯達漲超10%】午後機器人概念震盪反彈，拓斯達漲超10%，此前達意隆漲停，長華集團、博眾精工、東傑智慧、斯菱智驅等跟漲。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608213849131918",
+      "time": "2026-08-21 13:09:00",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【加拿大皇家銀行：通脹資料支援日本央行9月會議加息】加拿大皇家銀行亞洲宏觀策略主管AbbasKeshvani表示，日本的通脹資料支援日本央行在9月會議加息。如果9月會議令市場失望，可能會導致日元進一步走弱。"
     },
     {
       "id": "te:economy:577098",
@@ -54,6 +114,14 @@
         "MKT News"
       ],
       "text": "Russian Deputy Foreign Minister Ryabkov said Russia is willing to listen to new ideas for a peaceful settlement in Ukraine."
+    },
+    {
+      "id": "5051277",
+      "time": "2026-08-21 13:08:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【讀書郎學習機應用抄襲漢語大詞典被索賠千萬 雙方庭前解紛】8月21日記者從廣州智慧財產權法院獲悉，該院近日釋出12篇多元解紛典型案例，其中包括辭書公司與讀書郎公司等著作權侵權糾紛案。辭書公司發現讀書郎學習機“詞典速查”應用程式中大量抄襲《漢語大詞典》內容，遂訴至法院並索賠1024萬元。經法院調解，雙方就合作期限、授權範圍等磋商，在開庭前就侵權賠償一次性協商解決。（南方都市報）"
     },
     {
       "id": "te:economy:577097",
@@ -204,6 +272,14 @@
         "公司"
       ],
       "text": "【註冊40餘家空殼公司違規套取政策性貸款，嫌疑人已被刑拘】北京警方成功偵破了一起非法經營案。涉案的犯罪嫌疑人瞄準貸款人對低利率貸款的需求，利用手中掌握的40多家空殼公司，在三年的時間裡為貸款人違規套取國家政策性扶持貸款300多筆。這起案件的線索最初來自一筆金額為800萬的個人經營性抵押貸款。經偵部門發現，這筆800萬元的貸款先被以購買大批次電腦的名義，打入了一家沒有實質業務的空殼公司，很快又從這家公司轉入了另一家空殼公司。這兩家公司為同一名實控人所有。不但如此，當天這筆貸款又從第二家公司轉到了一名女子的個人賬戶裡。透過進一步調查警方發現，該女子與這筆貸款的申請人為近親屬。在完整固定涉案證據後，警方將涉案人員趙某等人抓獲。"
+    },
+    {
+      "id": "5051267",
+      "time": "2026-08-21 12:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船科技成立兩家新能源公司】企查查APP顯示，近日，朔州市平魯區海科新能源有限公司、右玉縣海科新能源開發有限公司成立，經營範圍均包含：風力發電技術服務；儲能技術服務；風電場相關係統研發等。企查查股權穿透顯示，二者皆由中船科技全資持股。"
     },
     {
       "id": "5051266",
@@ -146540,52 +146616,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: New Zealand Dollar Appreciates by 0.28% — Top currency gainers are New Zealand Dollar (0.28%), South Korean Won (0.25%), Japanese Yen (0.11%), Euro (0.10%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.10%)."
-    },
-    {
-      "id": "mkt:019ffeb1-479b-7aab-9035-d399a2ba47c9",
-      "time": "2026-08-14 13:14:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【TrendForce: Global LED general lighting market to reach $60.94 bln by 2030】TrendForce says the global LED general lighting market could reach $60.94 bln by 2030, with a 2025–2030 CAGR of 2.6%. Short-term demand remains in an adjustment phase as slow macro recovery, geopolitical tensions and conservative corporate capex weigh on Europe, the US and China. Energy‑efficiency rules, retrofit programmes and net‑zero/ESG targets are pushing manufacturers away from price competition toward higher‑value smart lighting and specialised professional applications, prompting a product‑mix and application upgrade across the industry."
-    },
-    {
-      "id": "5040587",
-      "time": "2026-08-14 13:14:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【追覓賣出首臺手機，售價超20萬元！創始人曾稱要與蘋果、三星三分天下】8月13日，追覓手機負責人在朋友圈透露，公司已正式交付001號AURORA手機。據其透露，3萬美金（約合人民幣20.23萬元）交易款項已全部到賬，其中首付款1萬美金，尾款21184美金。其稱，這是“中國智慧手機歷史上迄今為止賣出去單臺售價最高的旗艦智慧手機”。（紅星資本局 ）"
-    },
-    {
-      "id": "5040586",
-      "time": "2026-08-14 13:13:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【集邦諮詢：預估至2030年全球LED通用照明市場規模有望達609.42億美元】TrendForce集邦諮詢最新報告指出，受宏觀經濟復甦遲緩、地緣因素及企業資本支出保守影響，全球LED照明市場需求短期內仍處調整階段，歐美中三大核心市場成長動能有限。然而，在全球能效法規、節能改造與淨零排放(ESG)目標帶動下，照明廠商加速擺脫傳統價格競爭，積極朝向智慧照明與特殊專業場景等高附加價值領域發展，推動產業由“量的擴張”邁向“產品結構與應用價值升級”。集邦諮詢預估至2030年，全球LED通用照明市場規模有望達609.42億美元，2025至2030年CAGR為2.6%。"
-    },
-    {
-      "id": "5040585",
-      "time": "2026-08-14 13:12:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【浙江省水文管理中心8月14日11時釋出杭嘉湖東部平原嘉興站洪水紅色預警】浙江省水文管理中心2026年8月14日11時釋出杭嘉湖東部平原嘉興站洪水紅色預警：杭嘉湖東部平原嘉興站當前水位2.43米（保證水位2.16米），氣象預報未來12小時降雨31.0毫米，依據氣象降雨數值預報和水利工程排程情況，預報杭嘉湖東部平原將維持高水位波動上漲，14至16日維持紅色預警級別的洪水，請各部門注意防禦。"
-    },
-    {
-      "id": "mkt:019ffeaf-78bb-7aab-9035-c809d269bb17",
-      "time": "2026-08-14 13:12:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share semiconductor sector reversed in the afternoon; Huahong Hongli fell nearly 10%, while Zhongke Feice, Huafeng Cekong, Chipsea Technology, Jinhaitong, Taiji Industrial, China’s CPU maker Haiguang and Cambricon also slid."
     }
   ]
 }
