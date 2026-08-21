@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-21 12:18:14",
-  "count": 16021,
+  "updated": "2026-08-21 12:22:04",
+  "count": 16016,
   "items": [
+    {
+      "id": "5051234",
+      "time": "2026-08-21 12:18:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.4%，至177,283.50點。"
+    },
     {
       "id": "mkt:01a02289-6ec1-7aab-90c8-2a81f588020f",
       "time": "2026-08-21 12:17:07",
@@ -146679,62 +146687,6 @@
         "其他"
       ],
       "text": "西聯匯款與Intermex：已收到加州金融保護與創新部（DPFI）信函，暫停批准該項收購的延期申請。"
-    },
-    {
-      "id": "5040533",
-      "time": "2026-08-14 12:22:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本防衛大臣將於8月17日至21日訪問澳大利亞和印度。"
-    },
-    {
-      "id": "te:economy:575268",
-      "time": "2026-08-14 12:21:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Malaysia Q2 GDP Growth Stronger Than Initially Thought — Malaysia’s economy expanded by 6% year-on-year in Q2 2026, higher than the initially estimated 5.8% and picking up from 5.4% growth in Q1. Activity strongly rebounded in mining and quarrying (9.2% vs -2.1% in Q1), mainly driven by a sharp expansion in natural gas production (19.3%). Output also rose faster in manufacturing (7.3% vs 5.9%) and services (5.9% vs 5.6%). On the other hand, output growth slowed in construction (6.5% vs 7.7%), while agriculture contracted (-3.7% vs 2.6%), primarily due to declines in oil palm (-9.5%) and fishing (-4.4%). On the expenditure side, growth picked up in household consumption (4.8% vs 4.7%) and government spending (7.6% vs 4.1%). Net trade also contributed positively to GDP, as exports climbed 17% (vs 5.2%), while imports rose at a softer 13.9% (vs 4.6%). Meanwhile, growth slowed in gross fixed capital formation (4.6% vs 7.3%). On a quarterly basis, GDP expanded 2.5%, the strongest growth since Q2 2020, after stagnating in Q1."
-    },
-    {
-      "id": "5040532",
-      "time": "2026-08-14 12:20:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，蘋果已專門針對中國市場訓練人工智慧模型。"
-    },
-    {
-      "id": "te:economy:575267",
-      "time": "2026-08-14 12:19:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Peru",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Peru Trade Surplus Expands in June — Peru’s trade surplus widened to USD 3,169 million in June from USD 2,795 million in the corresponding month of the previous year. Exports grew 23.4% year-on-year to USD 8,906 million, driven by higher sales of traditional products (30.2%), non-traditional products (1.2%), and other products (157.6%). Imports surged 29.7% to USD 5,737 million, led by increases in consumer goods (23.1%), supplies (27.1%), and capital goods (39.2%), while imports of other goods declined 30.7%. In the first half of the year, Peru recorded a trade surplus of USD 22,756 million, expanding sharply from USD 13,306 million in the same period last year. Exports totaled USD 56,438 million, 37.6% higher than a year earlier, while imports amounted to USD 33,682 million, an increase of 21.5%."
-    },
-    {
-      "id": "5040531",
-      "time": "2026-08-14 12:19:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SK海力士考慮合資建儲存晶片工廠 降低資本支出和產能過剩風險】SK集團董事長崔泰源接受媒體採訪時表示，SK海力士正考慮以合資方式建設新的儲存晶片工廠，以降低傳統行業盛衰週期下鉅額資本支出和產能過剩帶來的風險。崔泰源還警告稱，目前儲存晶片供應緊張的局面將在2027年進一步加劇。"
-    },
-    {
-      "id": "5040530",
-      "time": "2026-08-14 12:18:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "據知情人士透露，亞洲私募股權公司Trustar Capital正接近達成收購阿里巴巴集團遊戲業務的交易。上述人士表示，Trustar已擊敗包括其他遊戲開發商在內的多家競購方，成為收購靈犀互娛（Lingxi Games）最有可能的買家。由於資訊敏感，這些人士要求匿名。此次交易可能使該工作室估值超過15億美元。他們還表示，目前相關談判仍在進行中，尚未做出最終決定。"
     }
   ]
 }
