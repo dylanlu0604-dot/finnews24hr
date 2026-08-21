@@ -1,7 +1,192 @@
 {
-  "updated": "2026-08-21 14:25:10",
+  "updated": "2026-08-21 14:34:15",
   "count": 16021,
   "items": [
+    {
+      "id": "5051400",
+      "time": "2026-08-21 14:33:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4560美元/盎司，日內漲0.91%。"
+    },
+    {
+      "id": "5051398",
+      "time": "2026-08-21 14:33:05",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美財政部債務回購計劃壓制美元，新興市場貨幣漲至歷史新高】受美國財政部債務回購計劃拖累，美元持續承壓，新興市場貨幣延續漲勢，創下歷史新高。MSCI新興市場貨幣指數最高上漲0.3%，連續第三個交易日上行，再度重新整理歷史紀錄。彭博美元即期指數下跌0.2%；美國財政部長斯科特·貝森特宣佈債務回購方案後，該指數在前兩個交易日已累計下跌0.7%。伽馬資產管理全球宏觀組合經理拉吉夫·德梅洛表示：“貝森特偏向干預的政策取向，使亞洲貨幣成為主要受益者。油價高企仍是制約亞洲貨幣進一步升值的核心因素。”"
+    },
+    {
+      "id": "5051397",
+      "time": "2026-08-21 14:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“哈佛大學醫療衛生中國行”代表團訪問國家醫療保障局】2026年8月18日，由哈佛大學青年學者、在讀碩博研究生及校友組成的“哈佛大學醫療衛生中國行”代表團到訪國家醫療保障局，雙方圍繞中國醫療保障體系改革發展情況開展座談交流。國家醫保局辦公室、待遇保障司、醫藥管理司、價格招採司、醫保中心及大資料中心的相關工作負責同志分別介紹了中國在基本醫保制度建設、醫保籌資、DRG/DIP支付方式改革、藥品耗材集中帶量採購、異地就醫直接結算及全國醫保資訊平臺建設等方面的做法和成效。（國家醫保局）"
+    },
+    {
+      "id": "5051396",
+      "time": "2026-08-21 14:32:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益生股份增資至14.3億 增幅約29%】天眼查App顯示，近日，山東益生種畜禽股份有限公司發生工商變更，註冊資本由約11.1億人民幣增至約14.3億人民幣，增幅約29%。山東益生種畜禽股份有限公司法定代表人為曹積生，經營範圍包括許可範圍內的種雞、種豬、商品雞、商品豬及其衍生產品的生產、銷售等，由曹積生、遲漢東、耿培梁等共同持股。"
+    },
+    {
+      "id": "5051395",
+      "time": "2026-08-21 14:31:35",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市收盤漲跌互現】日經225指數收跌0.30%，報66016.36點。韓國綜指收漲0.88%，報6912.94點。"
+    },
+    {
+      "id": "te:economy:577128",
+      "time": "2026-08-21 14:31:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "UK Public Sector Borrowing Rises in July — UK public sector net borrowing (excluding public sector banks) was £1.8 billion in July 2026, marginally higher than from £1.1 billion in the same month a year earlier and compared with market expectations for no change. Public sector spending increased by £5.6 billion year-on-year to £115.3 billion, while receipts rose by £4.8 billion to £113.5 billion. Borrowing in the financial year to July 2026 totaled £56.7 billion, £6.0 billion, or 9.6%, lower than in the same period a year earlier, but £2.3 billion above the OBR’s forecast. It marked the 12th-lowest April-to-July borrowing total since comparable monthly records began in 1993. Public sector net debt stood at 94.9% of GDP, 0.4 percentage points higher than a year earlier and at its highest level since the early 1960s."
+    },
+    {
+      "id": "5051394",
+      "time": "2026-08-21 14:31:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ChatGPT將允許接入蘋果Mac端iMessage】OpenAI於當地時間週四下午推出一項新功能，允許使用者透過Mac電腦端的ChatGPT操控蘋果的iMessage資訊服務。此舉可讓ChatGPT執行讀取、撰寫與傳送簡訊等操作，並能檢索資訊及生成對話摘要，為使用者提供跨平臺的便利。此前，ChatGPT已能對接蘋果開發工具Xcode、備忘錄和終端等Mac本地應用，並支援在獲得專門授權後讀取iOS系統健康APP相關資料。"
+    },
+    {
+      "id": "te:markets:577127",
+      "time": "2026-08-21 14:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.66% Lower — The Nikkei 225 Index dropped 440 points or 0.66 percent on Friday to close at 65777 points. Losses were led by Trend Micro (-4.40%), Japan Steel Works (-4.36%) and Taiyo Yuden (-4.27%). Offsetting the fall, top gainers were Sumitomo Chemical (6.55%), Kawasaki Kisen (6.52%) and Nippon Yusen (4.90%)."
+    },
+    {
+      "id": "te:economy:577126",
+      "time": "2026-08-21 14:30:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Swedish Jobless Rate Falls to 20-Month Low — Sweden’s unemployment rate fell to 7.8% in July 2026 from 8.0% in the same period a year earlier, marking the lowest level since November 2024. The total number of unemployed people declined by 6,400 from July 2025 to 467,700, which consists of 238,000 unemployed women and 230,000 unemployed men, corresponding to 8.3% and 7.4%, respectively. Among people aged 15-24, 138,000 were unemployed, corresponding to a youth unemployment rate of 16.1%. The number of long-term unemployed, defined as those jobless for at least 27 weeks, reached 144,000, including 65,000 thousand women and 80,000 men. Meanwhile, employment among people aged 15-74 rose by 69,100 from a year earlier to 5.5 million, including 2.639 million employed women and 2.868 employed men. The average total number of hours worked per week stood at 104.4 million. On a seasonally adjusted basis, the unemployment rate was 8.7%, while the youth unemployment stood at 24.4%."
+    },
+    {
+      "id": "5051393",
+      "time": "2026-08-21 14:29:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光纖概念震盪走高，通鼎互聯2連板】光纖概念震盪走高，通鼎互聯2連板，朗威股份、烽火通訊、恆星科技、優利德、科瑞技術跟漲。"
+    },
+    {
+      "id": "5051390",
+      "time": "2026-08-21 14:29:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25955.580點；恒生科技指數現漲1.147%。"
+    },
+    {
+      "id": "5051388",
+      "time": "2026-08-21 14:28:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【民調：近20%英國學生因生活成本上漲而難以維持正常飲食】據報道援引桑坦德銀行調查結果，近20%的英國學生因獎學金實際增幅遠低於生活成本漲幅，難以維持正常飲食。報道說：“19%的學生有時不吃正餐才能勉強拮据生活。”報道指出，22%的英國學生不得不完全放棄參加社交活動，近三分之二的英國學生因獎學金增幅不及接受高等教育所需的開支增幅而面臨經濟問題。"
+    },
+    {
+      "id": "5051387",
+      "time": "2026-08-21 14:27:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "mkt:01a02301-303c-7aab-90c9-e5a10e85f5f7",
+      "time": "2026-08-21 14:27:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk says next Starship test may slip to year-end】SpaceX's Starship recovery program remains at a delicate point: first-stage booster recoveries have succeeded multiple times, while the ship-capture \"chopsticks\" technique has been validated but needs higher success rates. The Starship second stage has not yet achieved repeatable recovery, though on the 13th test in late July the S40 vehicle completed a full soft splashdown in the Indian Ocean without exploding or rapid sinking, which bolstered the team. Musk said on Aug. 4 SpaceX planned a late‑August attempt to recover both stages, but on Thursday he warned that recovery plans could be delayed by several months. He added that if SpaceX had built a launch tower at the splashdown training site initially, the vehicle might already have been recovered; the next test could now occur at year‑end or in early next year."
+    },
+    {
+      "id": "te:markets:577124",
+      "time": "2026-08-21 14:27:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were set to open little changed on Friday as investors remained cautious after global bond yields rebounded amid skepticism over the US government’s bond buyback plan. Oil prices also remained elevated as the US prepares sweeping new economic sanctions against Iran, keeping inflation risks in focus. In Europe, investors will assess UK retail sales and French business confidence data, along with manufacturing and services PMI reports from the Eurozone, Germany, France and the UK. In corporate news, Banca Monte dei Paschi di Siena SpA is seeking to acquire two separate banks in deals worth a combined €34 billion, as it moves to fend off a potential takeover by rival Intesa Sanpaolo SpA. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures hovered around the flatline, with both benchmarks coming off at least five consecutive sessions of losses."
+    },
+    {
+      "id": "5051386",
+      "time": "2026-08-21 14:26:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【馬斯克宣佈下一次試飛可能延至年底】SpaceX星艦的回收試驗正處於一個微妙的關口，其一級助推器回收已經成功多次，雖然“筷子夾火箭”成功率有待提高，但其已被驗證可行。但星艦二級飛船（也被稱為二子級）的回收卻一直未能再進一步。在7月下旬的第13次試飛中，星艦飛船S40首次在印度洋完成完整軟濺落，沒有像以往一樣爆炸或快速沉沒，極大鼓舞了SpaceX團隊。馬斯克曾在8月4日表示，星艦將在下一次試飛中嘗試首次回收二子級飛船，暫定於8月下旬進行。但在週四，馬斯克最新宣佈，回收星艦二子級的計劃可能需要推遲幾個月，如果SpaceX一開始在海上練習濺落的地方建了發射塔，那麼可能已回收了飛船。下一次星艦的試飛可能在今年年底或者明年初。"
+    },
+    {
+      "id": "5051385",
+      "time": "2026-08-21 14:26:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果裁撤60名VR團隊員工 戰略重心或轉向AI眼鏡】據報道，蘋果已對Vision業務團隊進行人員調整，至少60名隸屬於Vision小組、從事VR相關開發的員工遭到裁員，蘋果官方尚未對該訊息作出回應。報道指出，本次裁員背後是蘋果戰略轉向，該公司資源正流向AI智慧眼鏡，這款新品預計於2027年WWDC大會亮相，同年晚些時候上市。"
+    },
+    {
+      "id": "5051384",
+      "time": "2026-08-21 14:26:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信達生物、蘇州國資等成立創投合夥企業】企查查APP顯示，近日，蘇州信禾國清二期創業投資合夥企業（有限合夥）成立，出資額1.85億元，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該合夥企業由中新蘇州工業園區創業投資有限公司、信達生物製藥（蘇州）有限公司等共同持股。"
+    },
+    {
+      "id": "5051383",
+      "time": "2026-08-21 14:25:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數上漲1%，報1751.66點。"
+    },
+    {
+      "id": "5051382",
+      "time": "2026-08-21 14:25:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印度10年來首次進口原糖】由於預計糖庫存可能下降至少20%並且價格進一步抬高，印度商務部週四釋出通知稱，印度將允許免稅進口100萬噸原糖，這是該國十年來首次允許糖進口。原糖進口批准自週四起到10月31日期間生效，這是為了在印度傳統節日季期間抑制糖價。該命令還指出，具備將原糖轉化為白糖的生產能力的糖廠和精煉廠，必須在8月21日至8月28日期間申請關稅配額。由於產量下降導致供應緊張，印度糖價在兩個月內上漲了近40%。而在印度宣佈計劃允許免稅進口糖後，倫敦基準白糖期貨和紐約原糖期貨價格一度上漲4%。"
+    },
     {
       "id": "mkt:01a022fd-97ae-7aab-90c9-db6428f24db6",
       "time": "2026-08-21 14:23:59",
@@ -146527,202 +146712,6 @@
         "Importance 0"
       ],
       "text": "Oil Rises on Middle East Risks — Crude oil climbed above $82 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit."
-    },
-    {
-      "id": "5040678",
-      "time": "2026-08-14 14:33:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【林洋能源與馬來西亞沙撈越SMD達成戰略合作】據林洋能源訊息，8月13日，林洋能源與馬來西亞沙撈越州國有半導體企業SMD正式簽署戰略合作協議（MOA）。根據協議，雙方將重點推進半導體技術與新能源裝備深度融合，實現產品升級、效能提升與本地化適配；同時聯合開發東南亞光儲專案，共建“沙撈越晶片研發+中國製造整合+東盟及OIC市場落地”的跨境產業鏈體系。"
-    },
-    {
-      "id": "te:markets:575311",
-      "time": "2026-08-14 14:33:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Brent Rises on Middle East Risks — Brent crude climbed toward $88 per barrel on Friday, recovering losses from the previous session as talks to end the Middle East conflict and reopen the Strait of Hormuz remained deadlocked, keeping investors alert to the risk of further escalation. Vessels passing through the vital waterway continue to face persistent threats, although crude is still moving out of the Persian Gulf, with some tankers transiting while their transponders are switched off. The US also claims that up to 9 million barrels of oil per day is currently passing through the waterway. On the demand front, the IEA lowered its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. However, the group expects global oil supply to decline by 4.3 million barrels per day, or around 4%, this year, as renewed hostilities in the Middle East threaten to push the global oil market deeper into deficit."
-    },
-    {
-      "id": "te:markets:575310",
-      "time": "2026-08-14 14:32:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Hits 9-week High — The Canadian Dollar touched 1.39 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar lost 0.94%, and in the last 12 months, it increased 0.66%."
-    },
-    {
-      "id": "mkt:019ffef8-961d-7aab-9037-59f4ce95074b",
-      "time": "2026-08-14 14:32:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI index closed 164.0 points higher, up 2.41%, at 6,977.34 on Aug 14 (Friday)."
-    },
-    {
-      "id": "5040677",
-      "time": "2026-08-14 14:31:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲0.59%，報68713.80點。韓國綜指收漲2.41%，報6977.34點。"
-    },
-    {
-      "id": "5040676",
-      "time": "2026-08-14 14:31:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【里昂：上調長江基建目標價至67港元，維持“跑贏大市”評級】里昂發表研報指，長江基建受惠於出售資產後累積的充足資金、穩定派息及監管重置帶來的順風，成為市場上相對安全的避風港。該行將公司目標價由63港元上調至67港元，維持“跑贏大市”評級。該行表示，長建上半年列賬純利213億港元，同比升389%。即使撇除一次性專案，上半年核心純利仍然穩健。中期息同比升2.7%至每股0.75港元，延續自1996年上市以來每年增加派息的紀錄。該行上調長建今年純利預測155%，以反映上半年出售資產收益，但由於相關資產出售後貢獻減少，下調明年預測15%。"
-    },
-    {
-      "id": "mkt:019ffef7-6922-7aab-9037-53128b056143",
-      "time": "2026-08-14 14:30:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei index closed up 405.21 points, or 0.59%, at 68,713.80 on Friday, Aug. 14."
-    },
-    {
-      "id": "mkt:019ffef7-60f2-7aab-9037-4a5cfa33e62d",
-      "time": "2026-08-14 14:30:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Motorcycle Association: July fuel motorcycle sales 1.8996 mln, up 18.85% YoY】China Motorcycle Association data: In July fuel motorcycle production was 1.9384 mln vehicles and sales 1.8996 mln, up 5.13% and 2.97% MoM and 22.32% and 18.85% YoY respectively. Electric motorcycle production was 0.3311 mln and sales 0.3212 mln, down 21.21% and 20.87% MoM but up 10.37% and 9.5% YoY. Total motorcycle production and sales were 2.2696 mln and 2.2208 mln, production +0.24% MoM, sales -1.33% MoM, YoY +20.42% and +17.4%. Domestic motorcycle sales were 0.8012 mln (-8.15% MoM, +7.6% YoY); domestic fuel motorcycle sales were 0.4849 mln (+0.79% MoM, +6.03% YoY)."
-    },
-    {
-      "id": "te:markets:575309",
-      "time": "2026-08-14 14:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.63% Higher — The Nikkei 225 Index gained 432 points or 0.63 percent on Friday to close at 68741 points. Gains were led by Nintendo Co (6.80%), Sony (5.38%) and Furukawa (5.33%). Biggest losers were Isetan Mitsukoshi (-3.92%), DIC (-3.84%) and Toppan (-3.52%)."
-    },
-    {
-      "id": "mkt:019ffef5-9cfb-7aab-9037-47cc023fe012",
-      "time": "2026-08-14 14:28:57",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share electronic chemicals sector extended gains: Haixing Co. hit the daily upper trading limit, Zhongshi Technology was earlier locked at the limit. Siquan New Materials and Longchen Technology rose more than 10%; Fangbang, Guoci Materials, Tongyu New Materials, Tiancheng Technology and Jinhong Gas also advanced."
-    },
-    {
-      "id": "5040675",
-      "time": "2026-08-14 14:28:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報5784.00元。"
-    },
-    {
-      "id": "5040674",
-      "time": "2026-08-14 14:28:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電子化學品板塊持續走高，海星股份漲停】電子化學品板塊持續走高，海星股份漲停，中石科技此前封板, 思泉新材、龍辰科技漲超10%，方邦股份、國瓷材料、同宇新材、天承科技、金宏氣體等跟漲。"
-    },
-    {
-      "id": "5040673",
-      "time": "2026-08-14 14:27:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【威靈頓投資：對新興市場股票維持超配評級】8月14日，威靈頓投資管理釋出最新資產配置展望，認為新興市場股票估值接近過去十年最佳水平。該機構表示，繼續看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。具體來看，威靈頓投資管理認為，當前環境仍對全球股票構成支撐，企業盈利繼續推動市場表現，而流動性和企業基本面則有助於抵消地緣政治不確定性的影響。從區域來看，看好新興市場股票勝過歐股，並對美股和日股維持中性觀點。“我們繼續超配新興市場股票，新興市場仍是我們在股票這一資產類別中最為看好的地區，其估值接近過去十年最具吸引力的水平。亞洲科技行業繼續貢獻大部分盈利增長；與此同時，在韓國企業持續去槓桿的背景下，我們仍然看好人工智慧基礎設施。展望未來，我們認為本輪漲勢仍有擴大空間，而大宗商品價格也有望利好拉丁美洲大部分地區。”威靈頓投資管理稱。"
-    },
-    {
-      "id": "5040672",
-      "time": "2026-08-14 14:27:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破88美元/桶，日內漲1.07%。"
-    },
-    {
-      "id": "mkt:019ffef4-0ff7-7aab-9037-3df2c5fd8bba",
-      "time": "2026-08-14 14:27:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "AI Revolution"
-      ],
-      "text": "【Baidu Wenku GenFlow adopts Chinese name Kuku AI】At Baidu AI Day, Baidu's Wenku cloud drive said its GenFlow general-intelligence agent will use the Chinese name Kuku AI. GenFlow's monthly active users have surpassed 100 mln; AI office features report MAU above 25 mln. Wenku also launched standalone Kuku AI endpoints: a PC office client, web client, mini-program and an enterprise edition."
-    },
-    {
-      "id": "te:markets:575307",
-      "time": "2026-08-14 14:27:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Halts Gains, Retreats from Near 6-Week High — The TAIEX, Taiwan’s benchmark stock index, dropped 210 points, or 0.5%, to close at 45,811, reversing gains in morning trade and halting a four-session winning streak, weighed down by electronic technology. The broader index retreated from its highest level since July 6, reached a day earlier, with electronic technology falling 1.1%, reversing a 1.5% rise in the previous session. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, shed 1.6% after gaining 0.8% on Thursday. Declines were also seen in MediaTek (-0.4%), Hon Hai Precision Industry (-1.0%), and ASE Technology Holding (-1.6%). Nanya Technology, a major Taiwanese memory chip maker, also shed 0.4%. An upbeat session on Wall Street overnight limited the fall as bets on the Fed hiking interest rates at its September meeting eased amid softer inflation. For the week, however, the index posted a 3.6% surge, the second straight weekly gain."
-    },
-    {
-      "id": "mkt:019ffef4-0326-7aab-9037-35525e1e3a98",
-      "time": "2026-08-14 14:27:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude intraday gains widened to 1.00%, trading at $86.72/bbl."
-    },
-    {
-      "id": "5040671",
-      "time": "2026-08-14 14:26:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報87.96美元/桶。"
-    },
-    {
-      "id": "5040670",
-      "time": "2026-08-14 14:25:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百度文庫網盤GenFlow官宣中文名“庫庫AI”】8月14日，在百度AI Day開放日上，百度文庫網盤通用智慧體GenFlow官宣中文名“庫庫AI”。GenFlow月活使用者已突破1億，目前AI辦公MAU超過2500萬。同時，文庫網盤宣佈上線“庫庫AI”獨立端，包括庫庫AI辦公PC客戶端、庫庫AI網頁端、小程式及庫庫AI企業版等。"
-    },
-    {
-      "id": "mkt:019ffef2-48b9-7aab-9037-1920bde3e324",
-      "time": "2026-08-14 14:25:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Global funds accelerate into China; China equity funds net $50.82bn in past month】As of Aug. 5, global capital accelerated into Chinese equities: China equity funds recorded $50.82bn net inflows in the past month, roughly 60% of total emerging-market inflows, while overseas-listed China ETFs also expanded. Several foreign asset managers point to corporate earnings recovery and industrial upgrading as drivers for a sustained valuation rerating and identify semiconductors, internet, power and healthcare as preferred overweight sectors."
     }
   ]
 }
