@@ -1,7 +1,24 @@
 {
   "date": "2026-08-22",
-  "count": 53,
+  "count": 55,
   "items": [
+    {
+      "id": "5052634",
+      "time": "2026-08-22 00:47:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4680美元/盎司，日內漲2.38%。"
+    },
+    {
+      "id": "mkt:01a02536-c160-7aab-90d8-d60cca5ff058",
+      "time": "2026-08-22 00:45:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say an informal UN Security Council straw poll shows Guyana's Caroline Rodriguez Burkert leading the race for UN secretary-general."
+    },
     {
       "id": "5052633",
       "time": "2026-08-22 00:44:36",
