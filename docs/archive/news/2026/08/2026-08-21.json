@@ -1,7 +1,44 @@
 {
   "date": "2026-08-21",
-  "count": 1054,
+  "count": 1058,
   "items": [
+    {
+      "id": "mkt:01a02289-6ec1-7aab-90c8-2a81f588020f",
+      "time": "2026-08-21 12:17:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/IDR rose to 17,690, the highest level since mid-June."
+    },
+    {
+      "id": "mkt:01a02288-3195-7aab-90c8-276608be89c8",
+      "time": "2026-08-21 12:15:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tropical depression to stall in South China Sea for three days; heavy rain to persist in Hainan】Hainan provincial meteorological bureau says a South China Sea tropical depression is likely to stall and loop over the northern Beibu Gulf and Qiongzhou Strait for the next three days and may intensify into a tropical storm. From Aug. 22–24, Hainan’s northwest half expects heavy to very heavy rain with locally extreme totals; the rest of the island will see moderate to heavy rain with isolated heavy showers. Offshore areas around Hainan will see gusts of Beaufort 8–9, with the northern Beibu Gulf reaching Beaufort 9–10; Qiongzhou Strait may face prolonged suspension of ferry and shipping services."
+    },
+    {
+      "id": "5051233",
+      "time": "2026-08-21 12:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【未來三天南海熱帶低壓將長時間迴旋 海南強降雨天氣將持續】記者今天（21日）從海南省氣象部門瞭解到，預計未來三天，南海熱帶低壓可能在北部灣北部、瓊州海峽長時間迴旋打轉，並逐漸加強為熱帶風暴級。8月22日至24日，受其影響，海南島西北半部地區有大雨到暴雨、局地大暴雨，其餘地區有中到大雨、局地暴雨。22日到24日海南省大部分海區陣風有8～9級，其中北部灣北部海面陣風可達9～10級，瓊州海峽可能出現較長時間停航。（央視新聞）"
+    },
+    {
+      "id": "5051232",
+      "time": "2026-08-21 12:14:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破69美元/盎司，日內漲1.37%。"
+    },
     {
       "id": "5051231",
       "time": "2026-08-21 12:13:34",
