@@ -1,7 +1,133 @@
 {
-  "updated": "2026-08-21 09:25:05",
+  "updated": "2026-08-21 09:29:00",
   "count": 16023,
   "items": [
+    {
+      "id": "mkt:01a021ee-e205-7aab-90c5-1281035863a9",
+      "time": "2026-08-21 09:28:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Container shipping index (Europe route) front-month contract rose 8.0% intraday to 1,893.5 points."
+    },
+    {
+      "id": "mkt:01a021ee-2f92-7aab-90c5-0f83b22b0cdb",
+      "time": "2026-08-21 09:27:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Aug 21 (Fri) open: China's Shanghai Composite Index down 12.55 pts (-0.32%) at 3,891.18; Shenzhen Composite Index down 37.14 pts (-0.27%) at 13,935.64; CSI 300 Index down 7.32 pts (-0.16%) at 4,585.44; ChiNext Index down 0.48 pts (-0.01%) at 3,495.11; STAR 50 Index down 3.69 pts (-0.22%) at 1,649.28."
+    },
+    {
+      "id": "5051006",
+      "time": "2026-08-21 09:27:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "貴金屬板塊高開，興業銀錫、曉程科技、西部黃金、赤峰黃金紛紛高開。"
+    },
+    {
+      "id": "5051005",
+      "time": "2026-08-21 09:27:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲8%，現報1893.50點。"
+    },
+    {
+      "id": "5051004",
+      "time": "2026-08-21 09:27:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【浙江省“十五五”財政規劃：支援深化國資國企改革，推進國有經濟佈局最佳化和結構調整】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，高效落實“8+4”經濟政策體系。迭代“8+4”經濟政策財政要素支援體系，釋放政策體系效應。用好超長期特別國債資金，支援“兩重”建設、“兩新”工作等。強化財政金融政策協同，實施促進企業融資獎勵政策，支援提高金融服務實體經濟水平。支援深化國資國企改革，推進國有經濟佈局最佳化和結構調整。"
+    },
+    {
+      "id": "5051003",
+      "time": "2026-08-21 09:27:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓元漲幅擴大至0.8%，領跑亞洲外匯市場。"
+    },
+    {
+      "id": "5051002",
+      "time": "2026-08-21 09:26:56",
+      "tags": [],
+      "text": "A股黃金概念高開，深中華A兩連板，盛達資源、南礦集團、興業銀錫紛紛高開。"
+    },
+    {
+      "id": "mkt:01a021ed-9ac8-7aab-90c5-0202eddda6ed",
+      "time": "2026-08-21 09:26:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share innovative drug sector opened lower; Ha Sanlian and Harbin Pharmaceutical hit daily limit down, while Xin Ganjiang, Kangtai Biological, Haixin, Shiyao Innovation and Zhifei Biological also fell."
+    },
+    {
+      "id": "mkt:01a021ed-7d66-7aab-90c4-fdc0091a653d",
+      "time": "2026-08-21 09:26:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD"
+      ],
+      "text": "China A-share gold names opened higher. Shenzhen Zhonghua A hit a second straight daily limit-up. Shengda Resources, Nankuang Group and Xingye Silver-Tin opened higher."
+    },
+    {
+      "id": "5051001",
+      "time": "2026-08-21 09:26:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊低開，哈三聯、哈藥股份觸及跌停】創新藥板塊低開，哈三聯、哈藥股份觸及跌停，新贛江、康泰生物、海欣股份、石藥創新、智飛生物跟跌。"
+    },
+    {
+      "id": "mkt:01a021ec-3874-7aab-90c4-f24f780d363d",
+      "time": "2026-08-21 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open in China’s A-share market, the Shanghai Composite fell 0.32%, the Shenzhen Composite fell 0.27% and the ChiNext Index fell 0.01%; the innovative drug sector pulled back."
+    },
+    {
+      "id": "5051000",
+      "time": "2026-08-21 09:25:18",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指低開，滬指跌0.32％，深成指跌0.27％，創業板跌0.01％。"
+    },
+    {
+      "id": "5050999",
+      "time": "2026-08-21 09:24:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國華能董事長溫樞剛、總經理鍾國東與華為CEO任正非舉行會談】據中國華能8月20日訊息，中國華能集團有限公司董事長、黨組書記溫樞剛，總經理、黨組副書記鍾國東在深圳與華為技術有限公司CEO任正非舉行會談。任正非對溫樞剛一行來訪表示歡迎。他表示，中國發展人工智慧具有兩項重要基礎優勢：一是電力優勢，二是電信網路優勢。下一步，雙方在AI、算力和算電協同領域具有較大合作空間，雙方應立足各自核心優勢，加強技術聯合創新和場景化應用，共同支撐新能源高質量發展和新型電力系統建設。"
+    },
     {
       "id": "mkt:01a021eb-3f81-7aab-90c4-ea5fe1681bd6",
       "time": "2026-08-21 09:24:20",
@@ -22,6 +148,15 @@
         "市場"
       ],
       "text": "阿里巴巴港股高開2.4%，AI和雲業務收入高增拉動季度營收升近一成。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608213848727657",
+      "time": "2026-08-21 09:24:06",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展950億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "5050997",
@@ -146485,150 +146620,6 @@
         "市場"
       ],
       "text": "【深交所：“玉禾轉債”盤中臨時停牌】深交所公告，“玉禾轉債”（123277）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "5040299",
-      "time": "2026-08-14 09:27:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家藥監局批准1款創新藥上市】近日，國家藥品監督管理局批准天境生物藥業（杭州）股份有限公司申報的注射用菲澤妥單抗（商品名：境斐）上市，該品種聯合來那度胺和地塞米松用於既往至少接受過一線治療的多發性骨髓瘤成年患者。該品種的上市為相關患者提供了新的治療選擇。"
-    },
-    {
-      "id": "mkt:019ffde2-0b4a-7aab-9032-0ee2d40368e4",
-      "time": "2026-08-14 09:27:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "0981.HK",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【SMIC co-CEO Zhao Haijun: Chinese internet firms’ hardware spending exceeds expectations; compute and supporting chips in short supply】SMIC co-CEO Zhao Haijun said at the company earnings meeting that Chinese internet companies have materially ramped hardware investment beyond SMIC’s prior forecasts; customers’ expected future volumes are far above earlier projections. Demand tied to data-center circuit boards and compute modules, and supporting chips — including logic, BCD power devices and optical-module transceivers — is outstripping supply."
-    },
-    {
-      "id": "te:economy:575227",
-      "time": "2026-08-14 09:27:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Credit Rating",
-        "Importance 1"
-      ],
-      "text": "Fitch Affirms U.S. at AA+ Amid Fiscal Strains — Fitch affirmed the U.S. sovereign credit rating at AA+ with a stable outlook, highlighting the country’s large economy, high per-capita income, and the dollar’s global reserve status. Despite tariffs, spending cuts, tighter border controls, and policy uncertainty, the economy has shown resilience and flexibility. Growth is projected to slow to 1.9% in 2026-2027 from 2.8% in 2025, with weaker labor demand and slower job creation. Inflation remains elevated, averaging 3.4% in 2026, above the Fed’s 2% target, partly due to tariffs on core goods. The fiscal outlook is pressured, with the deficit expected to widen to 7.4% of GDP in 2026-2027, the highest among AA-rated peers, driven by military, interest, Medicare, and Social Security costs. Moody's credit rating for the United States was last set at Aa1 with stable outlook. DBRS' credit rating for the United States was last reported at AAA with stable outlook."
-    },
-    {
-      "id": "5040298",
-      "time": "2026-08-14 09:27:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO板塊高開，中石科技20cm漲停】CPO板塊高開，中石科技20cm漲停，阿萊德、飛榮達、天洋新材紛紛高開。"
-    },
-    {
-      "id": "5040297",
-      "time": "2026-08-14 09:27:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "儲存晶片板塊開盤活躍，阿萊德漲超10%，聯芸科技、普冉股份、兆易創新、德明利、長鑫科技等集體高開。"
-    },
-    {
-      "id": "5040296",
-      "time": "2026-08-14 09:27:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中芯國際趙海軍：中國網際網路公司硬體投資超預期 算力及配套晶片供不應求】中芯國際聯合CEO趙海軍在業績會上表示，中國網際網路公司大幅提高硬體投資在公司此前預測之外，能夠明顯感受到客戶在跟公司談以後的合作時，後續下線量都遠遠超過原來的預期。直接相關的需求，以及資料中心的電路板跟算力板相關的配套晶片，比如邏輯電路、BCD、光模組傳送接收，都供不應求。"
-    },
-    {
-      "id": "mkt:019ffde1-9475-7aab-9032-01428ceb2c5a",
-      "time": "2026-08-14 09:27:26",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite opened up 3.06 points (+0.08%) at 3,930.02 on Friday, Aug. 14; Shenzhen Composite opened up 45.97 points (+0.32%) at 14,335.41; CSI 300 opened up 9.02 points (+0.19%) at 4,672.98; ChiNext Index opened up 24.15 points (+0.67%) at 3,610.19; STAR 50 Index opened up 21.07 points (+1.23%) at 1,738.82."
-    },
-    {
-      "id": "mkt:019ffde1-7d2c-7aab-9031-fbd64b8ac6b8",
-      "time": "2026-08-14 09:27:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "981.HK",
-        "Impact bullish"
-      ],
-      "text": "China A-share storage chip sector opened higher; Alaide up >11%, Lianyun Technology up >5%; GigaDevice, SMIC and Demingli also gained."
-    },
-    {
-      "id": "mkt:019ffde1-7bd1-7aab-9031-f2220e09f6c0",
-      "time": "2026-08-14 09:27:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Retail cash yield snapshot: Licaitong, WeChat Lingqian Tong, Alipay Yu'e Bao】Licaitong (Tencent) current+7-day annualized yield: 0.6990%–1.0740%. WeChat Lingqian Tong 7-day annualized yield: 0.9010%–1.0010%. Alipay Yu'e Bao 7-day annualized yield: 0.9010%–1.0100%."
-    },
-    {
-      "id": "5040295",
-      "time": "2026-08-14 09:26:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "中芯國際：2026年折舊成本將達到50億美元，2027年將繼續增加。"
-    },
-    {
-      "id": "mkt:019ffde0-f618-7aab-9031-ee75419a4571",
-      "time": "2026-08-14 09:26:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "PBOC conducted 349 billion yuan of overnight reverse repo operations today."
-    },
-    {
-      "id": "5040294",
-      "time": "2026-08-14 09:25:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "三大股指高開，滬指漲0.08％，深成指漲0.32％，創業板漲0.67％。"
-    },
-    {
-      "id": "mkt:019ffddf-c3e1-7aab-9031-e19690f258e4",
-      "time": "2026-08-14 09:25:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "At the A-share open, the Shanghai Composite rose 0.08%, the Shenzhen Composite Index rose 0.32% and the ChiNext Index rose 0.67%."
-    },
-    {
-      "id": "5040293",
-      "time": "2026-08-14 09:25:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "廣達電腦與Quantinuum宣佈合作，為大規模量子計算構建產業基礎。"
     }
   ]
 }
