@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-22 00:16:59",
-  "count": 16204,
+  "updated": "2026-08-22 00:21:07",
+  "count": 16207,
   "items": [
+    {
+      "id": "5052621",
+      "time": "2026-08-22 00:18:22",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市創月初以來最大漲幅】受商業活動資料強於預期利好，歐洲股市週五上漲。斯托克歐洲600指數收盤上漲0.6%，為8月4日以來最大單日漲幅。資料顯示，歐元區8月私營部門活動意外改善，製造業增速創逾四年來最快。金屬價格上漲帶動礦業股表現領先，公用事業和能源股則位居跌幅前列。不過，資料顯示，受夏季交投清淡影響，基準指數成交量較20日平均水平低約20%。歐洲股市此前已連續兩週下跌，強勁財報季帶來的提振逐漸消退，而在地緣政治不確定性持續之際，投資者仍在等待新的市場催化劑。不過，該指數目前僅較紀錄高位低約1%。"
+    },
+    {
+      "id": "te:markets:577343",
+      "time": "2026-08-22 00:18:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Higher — European stocks closed higher on Friday, trimming loses from the week with support from heavyweight banks and luxury brands. The Euro STOXX 50 rose 0.6% to 6,458 and the STOXX Europe 600 gained 0.5% to 653. Santander surged 2.7%, while BNP Paribas, Deutsche Bank, BBVA, and Nordea rose more than 1% to limit losses on the week as the US Treasury signal that it would intervene in bond market weakness on Wednesday raised volatility for benchmark credit costs. In turn, Italian lenders underperformed amid a wave of M&A possibilities in the sector, with UniCredit closing 0.3% higher while Intesa Sanpaolo fell 0.7%. Banca MPS simultaneously launched bids on Banco BMP and Banca Generali, jointly worth €34 billion, as it fends off Intesa's takeover bid. Meanwhile, LVMH, Adidas, Hermes, and Ferrari jumped between 2.3% and 1.5% for a positive session for luxury brands. The Euro STOXX 50 lost 1.3% and the STOXX Europe 600 fell 0.6% on the week."
+    },
+    {
+      "id": "5052620",
+      "time": "2026-08-22 00:17:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士透露，博通債務交易預計將達到700億美元以上。"
+    },
+    {
+      "id": "mkt:01a0251c-c4e1-7aab-90d8-79c4a1b9c2f4",
+      "time": "2026-08-22 00:17:17",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) confirmed deployment of 29 Starlink satellites."
+    },
+    {
+      "id": "5052619",
+      "time": "2026-08-22 00:16:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西基準股指博維斯塔指數上漲 2%。"
+    },
     {
       "id": "mkt:01a0251a-98d1-7aab-90d8-73345bbe26d5",
       "time": "2026-08-22 00:14:55",
@@ -148440,26 +148487,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社：以色列軍方再次侵犯敘利亞領土。"
-    },
-    {
-      "id": "5041827",
-      "time": "2026-08-15 00:19:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "聯合健康集團：對湯普森一案兇手被繩之以法深表欣慰，感謝執法部門伸張正義。"
-    },
-    {
-      "id": "te:markets:575521",
-      "time": "2026-08-15 00:17:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Ease Off Records — European stocks closed marginally lower on Friday as tech stocks pulled back and pharmaceuticals retreated. The STOXX Europe 50 eased by 0.1% form yesterday's record high to 6,541 and the STOXX Europe eased 0.2% to 658. ASML dropped 0.2% to trim its sharp advance this week as markets continued to assess spending on AI infrastructure by hyperscalers, with both Anthropic and OpenAI set to undergo IPOs this year. Likewise, Infineon dropped 1.3%. Meanwhile, a negative session for European drug manufacturers saw Argenx and Sanofi fall 3.2% and 1.2%, respectively. In turn, banks and insurers were mostly higher despite a surge in European sovereign yields, especially in the long end of the curve, as the rhetoric that the Federal Reserve could allow higher inflation rates regained ground. Deutsche Bank and Intesa Sanpaolo gained nearly 1%, while Allianz and Munich Re jumped over 1% for the insurers."
     }
   ]
 }
