@@ -1,7 +1,173 @@
 {
-  "updated": "2026-08-21 22:14:15",
-  "count": 16230,
+  "updated": "2026-08-21 22:18:22",
+  "count": 16239,
   "items": [
+    {
+      "id": "5052540",
+      "time": "2026-08-21 22:16:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "*委內瑞拉出口商協會官員莫雷拉：委內瑞拉邁克蒂亞機場貨運將出現貨物積壓。"
+    },
+    {
+      "id": "5052539",
+      "time": "2026-08-21 22:16:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：朗思感測科技稱港交所已稽核其香港上市計劃。"
+    },
+    {
+      "id": "te:economy:577317",
+      "time": "2026-08-21 22:16:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Eurozone Consumer Confidence Unexpectedly Stronger — Consumer confidence in the Euro Area rose for a fourth straight month to -15.5 in August 2026 from -15.9 in July and compared to forecasts of -16.3, preliminary estimates showed. This marked the strongest reading since February. Sentiment also strengthened slightly across the broader European Union, with the index improving to -15 from -15.1 in the previous month."
+    },
+    {
+      "id": "mkt:01a024ad-c6f9-7aab-90d6-ac105d06b210",
+      "time": "2026-08-21 22:16:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South African government says Johannesburg has fully repaid 5.25 bln rand of overdue power debt to ESKOM."
+    },
+    {
+      "id": "mkt:01a024ad-8ad7-7aab-90d6-a1ab3880d1c7",
+      "time": "2026-08-21 22:15:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Nearly a quarter of German firms face skilled-worker shortages】The Munich Economic Research Institute said on the 21st that 23.2% of German firms reported a shortage of qualified skilled workers in July, up from 21.1% in April but below the long-term average of 31.7%. Shortages intensified in telecommunications, where firms reporting shortages rose to 31.1% from 16.3% in April; consulting and auditing firms reporting shortages climbed to 64.7% from 52.4%. In manufacturing 18.7% of firms reported shortages, up 4.5ppt from April."
+    },
+    {
+      "id": "mkt:01a024ad-860d-7aab-90d6-9f361e3a00d7",
+      "time": "2026-08-21 22:15:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG forecasts Lebanon's inflation will rise to 17.5% in 2026."
+    },
+    {
+      "id": "5052538",
+      "time": "2026-08-21 22:15:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行預測，黎巴嫩通貨膨脹率將在2026年升至17.5%。"
+    },
+    {
+      "id": "5052537",
+      "time": "2026-08-21 22:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：黎巴嫩經濟預計在2026年收縮6.4%。"
+    },
+    {
+      "id": "mkt:01a024ac-6bd7-7aab-90d6-97b919c0fbd3",
+      "time": "2026-08-21 22:14:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Omani officials said they are not taking Trump's threats seriously, according to reports."
+    },
+    {
+      "id": "5052536",
+      "time": "2026-08-21 22:14:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國麻疹單週新增211例；累計病例現已達2777例。"
+    },
+    {
+      "id": "5052535",
+      "time": "2026-08-21 22:14:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特斯拉、Uber、Waymo獲准在拉斯維加斯最多投放8000臺無人計程車】美國內華達州交通管理局於當地時間週四全票透過三項許可，允許特斯拉、優步以及Waymo在拉斯維加斯所在的克拉克縣開展商業化機器人計程車服務。這幾份許可合計允許未來12個月內在該縣投放最多8000輛機器人計程車。 特斯拉獲批最多可部署5000輛機器人計程車；Waymo獲批未來一年內最多投放1000臺自動駕駛車輛。優步同樣拿到1000臺的額度，將透過與現代汽車子公司Motional以及Zoox合作運營。Zoox本身已經持有自動駕駛網路企業許可，可獨立運營100輛機器人計程車。"
+    },
+    {
+      "id": "5052534",
+      "time": "2026-08-21 22:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "帕帕哈瑙莫誇基亞國家海洋保護區各島嶼的熱帶風暴預警已解除。"
+    },
+    {
+      "id": "mkt:01a024ac-2372-7aab-90d6-8a8a45d82cdb",
+      "time": "2026-08-21 22:14:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Trump threatens 'economic D‑day' on Iran; oil rises, equities fall as 30‑yr Treasury nears two‑decade high and US debt tops $40tn】President Trump threatened a destructive “economic D‑day” against Iran; markets reacted with oil rising from $86.20 to $86.70/bbl and US equities posting their largest decline in three weeks. 30‑year Treasury yields jumped above 5.25%, approaching a two‑decade high and signaling investor aversion to long bonds. US Treasury Secretary Bessent doubled long‑term buybacks to at least $4bn but markets remained unsettled, according to a non‑resident fellow at a Qatari think tank. The fellow flagged three structural pressures on long‑end bonds: an expanding federal deficit, heavy corporate issuance from AI firms, and an oil‑price inflation premium; he added that a Strait of Hormuz closure and Gulf output unlikely to return before early 2027 are tightening supply and feeding US inflation. US public debt topped $40tn this week, about two years earlier than expected, which the source attributed to war costs and prior tax cuts. The report also noted Gulf and East Asian economies—major Treasury holders—are under strain after recent Gulf restrictions (the UAE announced an indefinite embargo) and yen pressure, reducing marginal demand for US debt at a time Washington needs funding."
+    },
+    {
+      "id": "mkt:01a024ac-0fa4-7aab-90d6-85da9638a15d",
+      "time": "2026-08-21 22:14:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "WBG projects Lebanon's economy will contract 6.4% in 2026."
+    },
+    {
+      "id": "5052533",
+      "time": "2026-08-21 22:14:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，尚未就關閉工廠作出任何決定。"
+    },
+    {
+      "id": "5052532",
+      "time": "2026-08-21 22:13:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，預計到2030年代，埃姆登、漢諾威、茨維考、內卡蘇爾姆工廠的產能利用率將不具備競爭力。"
+    },
+    {
+      "id": "5052531",
+      "time": "2026-08-21 22:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "宋城演藝：上半年淨利潤3.470億元人民幣。"
+    },
+    {
+      "id": "te:markets:577316",
+      "time": "2026-08-21 22:12:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on Mining and Major Banks Gains — The S&P/TSX Composite Index rose nearly 1%, supported by gains in mining and banking stocks. Gold prices held their advanced after the US signaled it would buy back more Treasury notes and bonds in the secondary market. Agnico Eagle gained more than 1.5%, Barrick added about 2%, and WPM rose over 3%. Major banks also advanced following weak retail sales estimates, softer consumer spending reinforced expectations that the Bank of Canada will keep interest rates unchanged next week. RBC, TD Bank and BMO gained about 1% each. Meanwhile, Fairfax Financial (+0.7%), a frontrunner to acquire the Indian government’s stake in IDBI Bank, is set to be given up to two years to consolidate its Indian banking holdings, potentially easing the acquisition process. Retailers traded mostly lower, with Dollarama losing more than 0.5%."
+    },
     {
       "id": "mkt:01a024aa-a6ed-7aab-90d6-799ba2cc520d",
       "time": "2026-08-21 22:12:38",
@@ -148607,92 +148773,6 @@
         "觀點"
       ],
       "text": "【摩根大通上調閃迪評級至“增持”：AI推理需求驅動儲存結構性增長】摩根大通（JPMorgan）8月14日宣佈，將快閃記憶體巨頭閃迪（SanDisk）的投資評級由“中性”上調至“增持”，並給出2250美元的12個月目標價。該目標價較閃迪前一交易日收盤價隱含約47%的上漲空間。摩根大通分析師哈蘭·瑟（Harlan Sur）在報告中指出，閃迪在當前的市場環境中具備獨特的競爭優勢，有望充分把握由人工智慧（AI）推理需求快速增長所驅動的NAND快閃記憶體結構性需求拐點。今年以來，隨著AI技術的加速普及，全球市場對高效能儲存和資料中心基礎設施的需求激增，甚至引發了供應短缺。受此利好推動，閃迪股價年內累計漲幅已高達544%。分析認為，AI大模型推理對海量資料吞吐和持久化儲存的依賴，正在重塑傳統儲存晶片的供需格局。閃迪憑藉其在企業級快閃記憶體領域的技術積累，有望在這一輪由AI算力基礎設施擴張帶來的結構性紅利中持續獲益。"
-    },
-    {
-      "id": "5041719",
-      "time": "2026-08-14 22:17:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家牛肉協會執行長表示，牛市週期中最糟糕的時期已經過去。"
-    },
-    {
-      "id": "5041718",
-      "time": "2026-08-14 22:17:45",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【華爾街投行NewStreet上調美光科技評級至“買入”，目標價定為1250美元】華爾街知名投行NewStreet Research於8月14日（週五）宣佈，將美國儲存晶片巨頭美光科技（Micron Technology）的投資評級由此前上調至“買入”，併為其設定了1250美元的12個月目標價。受此利好訊息提振，美光科技股價在週四收盤時上漲4%，報949.83美元。NewStreet Research分析師皮埃爾·費拉古（Pierre Ferragu）在發給客戶的報告中指出，儲存晶片行業具有高度週期性，利潤率波動劇烈，這往往會給科技供應鏈的下游客戶帶來困擾。為了更準確地評估該公司的內在價值，NewStreet採用了“企業價值與銷貨成本之比（EV/COGS）”這一指標，該指標能夠有效過濾掉因市場供需變化引起的利潤率短期波動噪音。費拉古表示，基於對2028年和2030年銷貨成本的預期，NewStreet測算得出美光科技未來12個月的合理目標價為1250美元。分析認為，這一評級上調反映了華爾街對美光科技在AI算力需求驅動下長期盈利能力的看好。"
-    },
-    {
-      "id": "5041717",
-      "time": "2026-08-14 22:17:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，中進醫療漲3.94%，世紀互聯漲3.83%，鬥魚漲3.33%，金山雲漲2.98%，騰訊音樂漲2.71%。"
-    },
-    {
-      "id": "mkt:01a000a1-6600-7aab-9040-d7c6ac131742",
-      "time": "2026-08-14 22:16:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【U.S. natural gas edges up as heat-driven demand rises】U.S. natural gas futures rose after forecasts showed late-summer heat, particularly across the South, likely boosting air‑conditioning use and gas-fired power demand. Flows to Gulf Coast LNG export terminals also increased, tightening domestic supply. EBW Analytics Group senior analyst Eli Rubin said in a client note that gains may be capped by rising output, with production readings higher in Texas, the Northeast and the Rockies. At 9:42 a.m. ET, NYMEX September natural gas was up 3.4 cents, +1.3%, at $2.761/MMBtu."
-    },
-    {
-      "id": "mkt:01a000a1-4a46-7aab-9040-cabddbee4484",
-      "time": "2026-08-14 22:16:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jiaxing upgrades heavy-rain alert to red】Jiaxing meteorological observatory issued a heavy-rain yellow warning at 21:25 on Aug 14, 2026, reporting over 30 mm in the past hour at Xincheng Town, Xiuzhou District. At 21:40 the observatory upgraded the warning to heavy-rain red, forecasting continued intense rain over the next three hours in Wangjiangjing and Xincheng towns (Xiuzhou District) with cumulative totals expected to exceed 50 mm."
-    },
-    {
-      "id": "mkt:01a000a0-c56b-7aab-9040-c3cc10b90750",
-      "time": "2026-08-14 22:15:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico President Sheinbaum said U.S. visa revocations are being used as a political tool."
-    },
-    {
-      "id": "mkt:01a000a0-b2e3-7aab-9040-bc803dcaeedc",
-      "time": "2026-08-14 22:15:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. consumer confidence slips for first time in three months; inflation concerns rise】University of Michigan preliminary August consumer sentiment index fell to 51 from July’s final 55.2, below a median forecast of 55. One-year inflation expectations rose to 4.3% (up slightly month-on-month and notably above pre-February Iran-conflict levels); five- to ten-year inflation expectations held at 3.3% annually. Sentiment on both near- and long-term economic prospects deteriorated after two months of improvement; labor-market expectations were little changed. Survey responses were collected July 28–Aug 10, a period when U.S. national gasoline prices averaged above $4/gal. Separately, U.S. July retail sales posted their largest monthly decline in over a year as consumers cut auto and online spending."
-    },
-    {
-      "id": "5041716",
-      "time": "2026-08-14 22:15:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "辛鮑姆：美國撤銷簽證正被當作政治工具使用。"
-    },
-    {
-      "id": "5041715",
-      "time": "2026-08-14 22:14:34",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【美國8月消費者信心指數初值降至51.0】當地時間8月14日，美國密歇根大學公佈2026年8月份消費者信心指數初值為51.0，低於7月的55.2，環比下降7.6%，同比下降12.4%。（央視新聞）"
     }
   ]
 }
