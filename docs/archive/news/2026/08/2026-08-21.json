@@ -1,7 +1,87 @@
 {
   "date": "2026-08-21",
-  "count": 608,
+  "count": 617,
   "items": [
+    {
+      "id": "mkt:01a021c9-a333-7aab-90c4-3136c802e570",
+      "time": "2026-08-21 08:47:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China margin balances across A-share exchanges down CNY1.688bn on Aug 20】As of Aug 20, Shanghai Stock Exchange margin balance stood at CNY1.3524 tln, down CNY1.22bn from the prior trading day; Shenzhen Stock Exchange margin balance was CNY1.2787 tln, down CNY468m. Combined margin balance across both exchanges was CNY2.6312 tln, down CNY1.688bn."
+    },
+    {
+      "id": "5050935",
+      "time": "2026-08-21 08:47:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少16.88億元】截至8月20日，上交所融資餘額報13524.36億元，較前一交易日減少12.2億元；深交所融資餘額報12787.23億元，較前一交易日減少4.68億元；兩市合計26311.59億元，較前一交易日減少16.88億元。"
+    },
+    {
+      "id": "mkt:01a021c8-ca53-7aab-90c4-2cb0c43b6051",
+      "time": "2026-08-21 08:46:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【International Composite Materials: 2nd‑gen low‑dielectric LDK enters supply chains of multiple leading domestic and international copper‑clad laminate makers】On an Aug. 20 investor call, International Composite Materials said its second‑generation low‑dielectric LDK product has entered the supply chains of several leading domestic and overseas copper‑clad laminate manufacturers and is in stable commercial supply. Its low‑expansion LCTE product is in small‑batch supply and capacity expansion is being advanced in an orderly manner. Q‑cloth remains in R&D; the company aims to complete pilot construction and commissioning within 2026. Specialty electronic cloth already represents a material share of electronic‑cloth revenue. The firm said it will continue to refine high‑end products and steadily push capacity builds and client onboarding to expand its high‑end electronic materials business."
+    },
+    {
+      "id": "mkt:01a021c8-4da9-7aab-90c4-26b193b098f7",
+      "time": "2026-08-21 08:46:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said authorities will pre-assess risk factors across the financial sector — including FX, bond and real estate markets — and respond promptly."
+    },
+    {
+      "id": "5050934",
+      "time": "2026-08-21 08:45:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國際復材：公司已購置一臺國產織布機 下一步將開展安裝除錯】國際復材8月20日在電話會議上表示，國產織布機在部分工業布領域已有應用，但用於電子布生產時，在成品率、生產效率、工藝精細化水平上仍存在不足，現階段應用於電子布，尤其是高階電子布仍存在明顯制約。行業裝置緊缺背景下，各方都在加大對國產織機的關注。公司已購置一臺國產織布機，下一步將開展安裝除錯，實際執行表現有待後續驗證。國產織機實現高階電子布穩定量產還需要一定的測試磨合週期，公司將採取進口保供、國產持續驗證的雙線思路，推動供應鏈佈局最佳化。"
+    },
+    {
+      "id": "5050933",
+      "time": "2026-08-21 08:45:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【貝森特救市效果“一日遊”？華爾街辣評：充其量只是債市暴跌“熔斷機制”】“這會成為全球長期債券拋售的一個'熔斷'機制。”Barrenjoey Markets Pty駐悉尼首席利率策略師Andrew Lilley表示。但他同時表示，“單靠這一舉措本身，不足以阻止債券收益率上升。” 富蘭克林鄧普頓維持對長期債券的低配立場，認為貝森特的舉措不太可能引發更持久的反彈。 富蘭克林鄧普頓固定收益主管Andrew Canobi表示，當前存在一系列“同步作用、共同指向債券收益率上升和收益率曲線趨陡的力量”，主要發達經濟體都面臨財政壓力和頑固通脹。“只要這些因素仍在發揮作用，我看不到長債會獲得太多買盤”。"
+    },
+    {
+      "id": "mkt:01a021c6-e2f4-7aab-90c4-182ee747a323",
+      "time": "2026-08-21 08:44:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said trading volume in single-stock leveraged ETFs has shrunk to one-tenth."
+    },
+    {
+      "id": "5050932",
+      "time": "2026-08-21 08:44:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國軒高科：配套問界M6純電版相關專案正積極開展批次供貨籌備工作】國軒高科在互動平臺表示，公司配套問界M6純電版相關專案正積極開展批次供貨籌備工作。同時，公司與鴻蒙智行持續深化合作，積極對接旗下其他車型。"
+    },
+    {
+      "id": "5050931",
+      "time": "2026-08-21 08:43:58",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國財長：將監測國債市場狀況。單隻股票槓桿ETF交易量已縮減至十分之一。"
+    },
     {
       "id": "mkt:01a021c5-db7d-7aab-90c4-11f77f9ded39",
       "time": "2026-08-21 08:43:29",
