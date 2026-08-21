@@ -1,7 +1,221 @@
 {
   "date": "2026-08-21",
-  "count": 737,
+  "count": 759,
   "items": [
+    {
+      "id": "mkt:01a021f6-28af-7aab-90c5-8fb9a2699cef",
+      "time": "2026-08-21 09:36:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai silver front-month (most-active) contract rose 4.00% intraday to 16,756.00 yuan per kilogram."
+    },
+    {
+      "id": "5051034",
+      "time": "2026-08-21 09:36:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4540美元/盎司，日內漲0.47%。"
+    },
+    {
+      "id": "mkt:01a021f6-1210-7aab-90c5-849e1077c850",
+      "time": "2026-08-21 09:36:09",
+      "tags": [
+        "MKT News",
+        "CEO.O",
+        "Impact bullish"
+      ],
+      "text": "【China completes, delivers domestically developed next-generation deepwater multipurpose marine engineering vessel】CNOOC said on Aug 21 its domestically developed next-generation deepwater multipurpose marine engineering vessel \"Haiyang Shiyou 292\" was completed and delivered at a Jiangsu shipyard, boosting China’s underwater engineering and offshore facility servicing capacity and providing critical equipment to accelerate deep-sea energy resource development."
+    },
+    {
+      "id": "5051033",
+      "time": "2026-08-21 09:36:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7440.40點。"
+    },
+    {
+      "id": "mkt:01a021f5-cd27-7aab-90c5-788a90492ed2",
+      "time": "2026-08-21 09:35:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02318.HK",
+        "Impact bullish",
+        "02328.HK",
+        "02628.HK"
+      ],
+      "text": "Hong Kong-listed insurers advanced: Ping An (02318.HK) rose more than 3%; PICC P&C (02328.HK), PICC Group (01339.HK), China Life (02628.HK) and China Pacific Insurance (02601.HK) each gained over 2%."
+    },
+    {
+      "id": "mkt:01a021f5-a3d2-7aab-90c5-7377fcb7dda7",
+      "time": "2026-08-21 09:35:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【China NEA: July total power consumption up 1.7% YoY】China's National Energy Administration said July total power consumption was 1,040 bln kWh, up 1.7% YoY. By sector: primary 16.7 bln kWh (-2.0%); secondary 611.6 bln kWh (+3.0%), including industrial use 605.5 bln kWh (+3.3%) and high‑tech & equipment manufacturing 122.0 bln kWh (+8.9%). Tertiary 218.3 bln kWh (+4.8%), with EV charging and battery‑swap services 16.4 bln kWh (+50.3%) and internet data services 9.9 bln kWh (+40.1%). Urban and rural residential use 193.5 bln kWh (-5.1%)."
+    },
+    {
+      "id": "5051032",
+      "time": "2026-08-21 09:35:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北部灣港等在廣西成立江海聯運碼頭公司】企查查APP顯示，近日，廣西江海聯運碼頭有限公司成立，經營範圍包含：船舶港口服務；港口貨物裝卸搬運活動；以自有資金從事投資活動等。企查查股權穿透顯示，該公司由北部灣港等共同持股。"
+    },
+    {
+      "id": "5051031",
+      "time": "2026-08-21 09:35:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：2026年我國早稻生產保持穩定】國家統計局農村司司長魏鋒華解讀早稻生產情況時表示，根據10省（區）早稻實割實測抽樣調查結果推算，全國早稻播種面積略有增加，單產有所下降，早稻產量565.8億斤，連續6年穩定在560億斤以上，總體保持穩定。今年各地加力推進糧油作物大面積單產提升行動，大力推廣機插機拋、合理增密、側深施肥等技術措施，促進早稻單產水平提升。早稻播種以來，主產區大部光溫水比較匹配，早稻長勢良好。抽穗揚花期，江南、華南等主產區出現持續性強降水，部分地區早稻遭遇“雨洗禾花”，影響授粉結實，空癟率增加，結實率下降。成熟收穫期，華南等主產區遭受多輪臺風影響，部分低窪農田出現漬澇，區域性地塊早稻出現倒伏，影響早稻灌漿和成熟收穫。"
+    },
+    {
+      "id": "5051030",
+      "time": "2026-08-21 09:35:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報16756.00元。"
+    },
+    {
+      "id": "5051029",
+      "time": "2026-08-21 09:34:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省“十五五”財政規劃：支援深化國家海洋經濟發展示範區建設】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，支援加快建設海洋強省。支援深化國家海洋經濟發展示範區建設。最佳化資金投向，推進構建現代海洋產業體系，支援以海洋科技創新推動海洋產業創新，推進海洋經濟重大平臺和專案建設。提升海洋漁業安全水平，支援“藍色種業”創新行動、海水養殖提質增效、現代遠洋漁業轉型升級等。支援海洋生態保護和修復，開展藍色海灣整治。"
+    },
+    {
+      "id": "mkt:01a021f4-b43b-7aab-90c5-68f5f34481c5",
+      "time": "2026-08-21 09:34:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD rose to 0.59646, its highest level since June 1."
+    },
+    {
+      "id": "mkt:01a021f4-a736-7aab-90c5-6201637da36b",
+      "time": "2026-08-21 09:34:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09899.HK",
+        "Impact bearish"
+      ],
+      "text": "NetEase Cloud Music (09899.HK) shares fell more than 14% after the company reported 1H adjusted net profit of 860 mln yuan, down 55.8% YoY."
+    },
+    {
+      "id": "mkt:01a021f4-5c7b-7aab-90c5-5f6f200e6e69",
+      "time": "2026-08-21 09:34:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "National Energy Administration: China's total electricity consumption rose 4.7% YoY in January–July 2026."
+    },
+    {
+      "id": "5051028",
+      "time": "2026-08-21 09:34:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【國家能源局：7月份，全社會用電量10400億千瓦時，同比增長1.7%】據國家能源局，7月份，全社會用電量10400億千瓦時，同比增長1.7%。1～7月，全社會用電量累計61399億千瓦時，同比增長4.7%。從分產業用電看，第一產業用電量877億千瓦時，同比增長3.5%。第二產業用電量39173億千瓦時，同比增長4.7%。第三產業用電量12100億千瓦時，同比增長7.4%。"
+    },
+    {
+      "id": "mkt:01a021f3-85b0-7aab-90c5-56c1cc6c64f7",
+      "time": "2026-08-21 09:33:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-share grain/seed sector sold off; Denghai Seed and Wanxiang Denong approached daily limit-down, with Shennong Seed, Jingliang Holdings and Qiule Seed also down."
+    },
+    {
+      "id": "5051027",
+      "time": "2026-08-21 09:33:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破75000美元，日內漲2.71%。"
+    },
+    {
+      "id": "5051026",
+      "time": "2026-08-21 09:33:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【糧食概念板塊短線下挫，登海種業、萬向德農逼近跌停】糧食概念板塊短線下挫，登海種業、萬向德農逼近跌停，神農種業、京糧控股、秋樂種業跟跌。"
+    },
+    {
+      "id": "5051025",
+      "time": "2026-08-21 09:33:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股糧食概念板塊短線走低】神農種業跌10.25%"
+    },
+    {
+      "id": "5051024",
+      "time": "2026-08-21 09:33:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股玉米板塊短線走低】神農種業跌10.25%，騎士乳業跟跌。"
+    },
+    {
+      "id": "5051023",
+      "time": "2026-08-21 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股農業種植板塊短線走低】華綠生物跌10.26%，騎士乳業、粵桂股份、漢森製藥跟跌。"
+    },
+    {
+      "id": "5051022",
+      "time": "2026-08-21 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股轉基因板塊短線走低】神農種業跌10.25%"
+    },
+    {
+      "id": "5051021",
+      "time": "2026-08-21 09:32:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CRO板塊下挫，誠達藥業下跌5.83%，百花醫藥下跌5.64%，義翹神州下跌5.47%，美迪西、益諾思、博騰股份跌超4%。"
+    },
     {
       "id": "5051020",
       "time": "2026-08-21 09:32:13",
