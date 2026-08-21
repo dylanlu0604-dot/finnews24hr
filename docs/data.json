@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-21 09:36:46",
-  "count": 16031,
+  "updated": "2026-08-21 09:40:38",
+  "count": 16027,
   "items": [
+    {
+      "id": "mkt:01a021f8-e751-7aab-90c5-9b19ed5cf3e0",
+      "time": "2026-08-21 09:39:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts",
+        "00434.HK",
+        "Impact bullish",
+        "08005.HK",
+        "08267.HK"
+      ],
+      "text": "Hong Kong-listed blockchain stocks rose: 00434.HK up nearly 13%, 08005.HK up nearly 12%, 08267.HK up 11.5%, 01499.HK up over 9%."
+    },
+    {
+      "id": "5051040",
+      "time": "2026-08-21 09:38:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7683.00點。"
+    },
+    {
+      "id": "5051039",
+      "time": "2026-08-21 09:38:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【功率半導體概念表現活躍 士蘭微漲停】功率半導體概念表現活躍，士蘭微漲停，斯達半導、揚傑科技、華潤微、新潔能、宏微科技跟漲。"
+    },
+    {
+      "id": "mkt:01a021f7-b121-7aab-90c5-90d8cf168a18",
+      "time": "2026-08-21 09:37:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share gas sector surged, with Shuifa Gas hitting the daily limit-up; Guizhou Gas, Tianhao Energy, Hongtong Gas, Kaitian Gas and Shengli Co. also rose."
+    },
+    {
+      "id": "5051038",
+      "time": "2026-08-21 09:37:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股延續漲勢 山東黃金漲近5%】截至發稿，山東黃金(01787.HK)漲4.67%，靈寶黃金(03330.HK)漲4.45%，赤峰黃金(06693.HK)漲3.92%。"
+    },
+    {
+      "id": "5051037",
+      "time": "2026-08-21 09:37:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂山國融基金等新設算電協同股權投資企業】企查查APP顯示，近日，嘉興綏山算電協同股權投資合夥企業（有限合夥）成立，經營範圍包含：股權投資；以私募基金從事創業投資活動。企查查股權穿透顯示，該企業由樂山國融股權投資基金管理有限公司等共同出資。"
+    },
+    {
+      "id": "5051036",
+      "time": "2026-08-21 09:37:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西水利廳啟動洪水防禦四級應急響應】廣西壯族自治區水利廳訊息，8月21日早上，南海低壓已進入北部灣，根據氣象水文部門監測預報，受其影響，未來幾天桂西及桂南沿海部分地區將有一次持續性強降雨過程，部分江河可能出現超警洪水；山洪災害、岩溶內澇致災風險較高，影響水庫安全度汛。根據自治區水利廳洪水防禦工作預案，經綜合分析研判，決定自8月21日9時啟動自治區水利廳洪水防禦四級應急響應。"
+    },
+    {
+      "id": "5051035",
+      "time": "2026-08-21 09:36:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念震盪反彈 和遠氣體漲停】早盤電子特氣概念震盪反彈，和遠氣體漲停，昊華科技、蜀道裝備、正帆科技、華特氣體、金宏氣體跟漲。"
+    },
     {
       "id": "mkt:01a021f6-28af-7aab-90c5-8fb9a2699cef",
       "time": "2026-08-21 09:36:15",
@@ -146584,117 +146659,6 @@
         "國際"
       ],
       "text": "日本20年期國債<JP20YTN=JBTC>收益率下跌1個基點，至3.730%。"
-    },
-    {
-      "id": "5040334",
-      "time": "2026-08-14 09:39:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊衝高，華正新材、艾華集團漲停】元件板塊衝高，華正新材、艾華集團漲停，中英科技、威爾高、南亞新材、則成電子、中富電路跟漲。"
-    },
-    {
-      "id": "5040333",
-      "time": "2026-08-14 09:39:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【先進封裝概念持續走強，華正新材漲停】先進封裝概念持續走強，華正新材漲停，藍箭電子漲超10%，驕成超聲、頎中科技、華海誠科、佰維儲存、光力科技等跟漲。"
-    },
-    {
-      "id": "mkt:019ffdec-290a-7aab-9032-710fe4838ac2",
-      "time": "2026-08-14 09:39:00",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "China A-share food processing and manufacturing sector briefly slid; Anji Foods hit the daily limit-down, with Baihe, Gaishi Food, Haoxiangni and Haixin Food also falling."
-    },
-    {
-      "id": "5040332",
-      "time": "2026-08-14 09:38:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電力板塊走低 梅雁吉祥跌超8%】電力板塊走低，梅雁吉祥跌超8%，華銀電力、豫能控股、京能電力等跌幅居前。"
-    },
-    {
-      "id": "mkt:019ffdeb-fad9-7aab-9032-6bea6a9e6d04",
-      "time": "2026-08-14 09:38:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "ChiNext index opened more than 1% higher, led by gains in storage-chip and CPO stocks."
-    },
-    {
-      "id": "5040331",
-      "time": "2026-08-14 09:38:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.00%，現報3621.990點；上證指數跌0.08%，現報3923.875點；深證成指漲0.53%，現報14365.766點。"
-    },
-    {
-      "id": "mkt:019ffdeb-b08c-7aab-9032-635ea085fbec",
-      "time": "2026-08-14 09:38:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-shares liquid-cooled server names rallied: Kangsheng hit the daily trading limit, Alade rose over 15%, and Jiebang Technology, Jintian, Jingyan Technology and Siquan New Materials also advanced."
-    },
-    {
-      "id": "5040330",
-      "time": "2026-08-14 09:38:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念股拉昇 阿萊德漲超14%】儲存晶片概念股拉昇，阿萊德漲超14%，藍箭電子、中巨芯、恆爍股份等股跟漲。"
-    },
-    {
-      "id": "5040329",
-      "time": "2026-08-14 09:37:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "華虹宏力A股下跌8%，港股跌近10%"
-    },
-    {
-      "id": "mkt:019ffdea-8a4d-7aab-9032-5911f33d2440",
-      "time": "2026-08-14 09:37:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01347.HK",
-        "Impact bearish"
-      ],
-      "text": "Huahong Hongli (01347.HK) shares plunged after results, opening down nearly 10%. The company guided 2026 Q3 revenue at about $770m–$780m and a gross margin of 16–18%, versus market consensus of 16.6%."
-    },
-    {
-      "id": "5040328",
-      "time": "2026-08-14 09:37:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI智慧體概念盤初走強，彩訊股份等多股漲停】AI智慧體概念盤初走強，彩訊股份、石基資訊、久其軟體漲停，漢得資訊、康力源、星環科技-U、每日互動、華盛昌等跟漲。"
-    },
-    {
-      "id": "5040327",
-      "time": "2026-08-14 09:36:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【食品加工製造板塊短線走低，安記食品觸及跌停】食品加工製造板塊短線走低，安記食品觸及跌停，百合股份、蓋世食品、好想你、海欣食品跟跌。"
     }
   ]
 }
