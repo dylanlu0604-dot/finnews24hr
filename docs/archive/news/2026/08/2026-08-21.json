@@ -1,7 +1,239 @@
 {
   "date": "2026-08-21",
-  "count": 1390,
+  "count": 1415,
   "items": [
+    {
+      "id": "mkt:01a0232c-e889-7aab-90cb-33ed4a4aa29b",
+      "time": "2026-08-21 15:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Kazaks said further rate hikes have pros and cons and that the ECB will make a data-dependent decision in September."
+    },
+    {
+      "id": "mkt:01a0232c-b62d-7aab-90cb-2e26966d7525",
+      "time": "2026-08-21 15:15:27",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Kazaks said forward guidance can be counterproductive amid uncertainty."
+    },
+    {
+      "id": "mkt:01a0232c-b5db-7aab-90cb-2039c65776f9",
+      "time": "2026-08-21 15:15:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Kazaks said wage growth is gradually slowing."
+    },
+    {
+      "id": "mkt:01a0232c-999b-7aab-90cb-1badffbf642f",
+      "time": "2026-08-21 15:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Kazaks said inflation expectations remain close to target."
+    },
+    {
+      "id": "mkt:01a0232c-7a10-7aab-90cb-1052a480f476",
+      "time": "2026-08-21 15:15:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France August services PMI (flash) 48.4, below 49.8 expected and 49.6 previously."
+    },
+    {
+      "id": "5051477",
+      "time": "2026-08-21 15:15:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國8月服務業PMI初值 48.4，預期49.8，前值49.6。\n法國8月綜合PMI初值 48.8，預期49.5，前值49.4。\n法國8月製造業PMI初值 51.5，預期50，前值49.8。"
+    },
+    {
+      "id": "mkt:01a0232c-6d82-7aab-90cb-0ffea2220c09",
+      "time": "2026-08-21 15:15:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France August flash composite PMI 48.8, below 49.5 expected and prior 49.4."
+    },
+    {
+      "id": "mkt:01a0232c-6d18-7aab-90cb-02b9d63c8c84",
+      "time": "2026-08-21 15:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France preliminary August manufacturing PMI 51.5, expected 50, prior 49.8."
+    },
+    {
+      "id": "mkt:01a0232c-6d17-7aab-90ca-fe095122b7a4",
+      "time": "2026-08-21 15:15:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "09696.HK",
+        "Impact bullish",
+        "01772.HK",
+        "03750.HK"
+      ],
+      "text": "Hong Kong-listed lithium battery stocks strengthened: TTANQT LITHIUM (09696.HK) rose more than 10%, Ganfeng Lithium (01772.HK) gained over 7%, Longpan Technology (02465.HK) climbed over 5%, and CATL (03750.HK) rose over 3%."
+    },
+    {
+      "id": "5051476",
+      "time": "2026-08-21 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.03%， 10年期主力合約漲0.02%， 5年期主力合約漲0.01%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "mkt:01a0232c-4a59-7aab-90ca-f11f78e813a1",
+      "time": "2026-08-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Services PMI Flash (Aug) | actual 48.4 | consensus 49.8 | previous 49.6"
+    },
+    {
+      "id": "mkt:01a0232c-4a53-7aab-90ca-efe0d6906faf",
+      "time": "2026-08-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Manufacturing PMI Flash (Aug) | actual 51.5 | consensus 50 | previous 49.8"
+    },
+    {
+      "id": "mkt:01a0232c-4a28-7aab-90ca-e71462071815",
+      "time": "2026-08-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Composite PMI Flash (Aug) | actual 48.8 | consensus 49.5 | previous 49.4"
+    },
+    {
+      "id": "5051475",
+      "time": "2026-08-21 15:14:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI擬以4.45萬億韓元出售三星顯示的股份。"
+    },
+    {
+      "id": "5051474",
+      "time": "2026-08-21 15:14:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "唐山市場主流鋼廠計劃對溼熄焦炭上調50元/噸、幹熄焦炭上調55元/噸，2026年8月24日零點執行。（Mysteel）"
+    },
+    {
+      "id": "mkt:01a0232b-be4b-7aab-90ca-dc1799babacf",
+      "time": "2026-08-21 15:14:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "Major steel mills in Tangshan plan to raise wet-quenched coke by 50 yuan/ton and dry-quenched coke by 55 yuan/ton, effective 00:00 on Aug 24, 2026."
+    },
+    {
+      "id": "5051473",
+      "time": "2026-08-21 15:14:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：我們將於9月依據資料作出決策。"
+    },
+    {
+      "id": "5051472",
+      "time": "2026-08-21 15:14:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：通脹預期仍錨定於目標附近。"
+    },
+    {
+      "id": "5051471",
+      "time": "2026-08-21 15:13:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：我們觀察到工資增速正在逐步放緩。"
+    },
+    {
+      "id": "5051470",
+      "time": "2026-08-21 15:13:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：市場環境充滿不確定性，釋出前瞻性指引反而會起到反效果。"
+    },
+    {
+      "id": "5051469",
+      "time": "2026-08-21 15:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月21日滬深兩市漲停分析】創業板指縮量上漲1.43%，小金屬、算力硬體概念全線走強，市場成交不足1.9萬億。漢森製藥3連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:01a02329-f42a-7aab-90ca-d39451ae2e0a",
+      "time": "2026-08-21 15:12:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kuwait foreign minister to visit China Aug 23-24】China's foreign ministry said Kuwait's foreign minister will make an official visit to China on Aug 23-24 at the invitation of China's foreign minister Wang Yi."
+    },
+    {
+      "id": "5051468",
+      "time": "2026-08-21 15:11:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【科威特外交大臣傑拉赫將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，科威特外交大臣傑拉赫將於8月23日至24日對中國進行正式訪問。（外交部）"
+    },
     {
       "id": "5051467",
       "time": "2026-08-21 15:11:21",
@@ -9,6 +241,14 @@
         "國際"
       ],
       "text": "日本經濟產業省計劃在 27 財年為 Rapidus 劃撥 1500 億日元投資資金。"
+    },
+    {
+      "id": "5051466",
+      "time": "2026-08-21 15:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【避開胡塞武裝襲擊 沙特原油借北部管線轉運至地中海出口】由於伊朗支援的武裝分子在南部曼德海峽咽喉要道襲擊沙特出口船舶，包括Sinokor Group在內的船東正協助沙特原油經由安全性更高的北部航線離開紅海。自葉門胡塞武裝開始襲擊從紅海延布出口碼頭裝貨的船隻後，沙特國有石油企業沙特阿美加大了從西迪基里爾等地中海港口的原油出口。過去一個月，韓國Sinokor、希臘Dynacom以及挪威DHT Management AS旗下船舶往返航行於延布與艾因蘇赫納之間，原油在艾因蘇赫納卸船後透過管道向北輸送。"
     },
     {
       "id": "mkt:01a02328-3ee3-7aab-90ca-ced334827870",
@@ -34,6 +274,14 @@
         "Importance 1"
       ],
       "text": "Turkey Business Morale Improves in August — Turkey’s manufacturing confidence index rose to 102.8 in August 2026 from a three-month low of 102.2 in the previous month, as sentiment among manufacturers improved slightly. Confidence was supported by a rebound in total orders over the past three months (104.4 vs 99.9 in July), higher fixed investment expenditure (105.5 vs 104.7), and a modest increase in current total orders (84.8 vs 84.5). Output volumes also strengthened to 121.1 from 119.3, while finished goods inventories rose to 98.1 from 97.0. Export orders increased to 118.3 from 116.6, pointing to firmer external demand. However, the improvement was partly limited by a weaker overall business outlook, which fell to 86.7 from 90.2, while expected employment over the next three months declined to 103.3 from 105.2."
+    },
+    {
+      "id": "5051465",
+      "time": "2026-08-21 15:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國暗中經第三國驅逐墨移民 墨方明確反對】據美國媒體披露，數月來，美國政府暗中將大批墨西哥移民驅逐至瓜地馬拉和宏都拉斯，再經兩國將移民送返墨西哥。墨西哥外交部反對美國這一做法，表示墨政府接受所有公民直接回國，反對在沒有相關協議的情況下將墨西哥公民驅逐至第三國。（新華社）"
     },
     {
       "id": "5051464",

@@ -1,7 +1,239 @@
 {
-  "updated": "2026-08-21 15:12:13",
-  "count": 16032,
+  "updated": "2026-08-21 15:16:16",
+  "count": 16045,
   "items": [
+    {
+      "id": "mkt:01a0232c-e889-7aab-90cb-33ed4a4aa29b",
+      "time": "2026-08-21 15:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Kazaks said further rate hikes have pros and cons and that the ECB will make a data-dependent decision in September."
+    },
+    {
+      "id": "mkt:01a0232c-b62d-7aab-90cb-2e26966d7525",
+      "time": "2026-08-21 15:15:27",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Kazaks said forward guidance can be counterproductive amid uncertainty."
+    },
+    {
+      "id": "mkt:01a0232c-b5db-7aab-90cb-2039c65776f9",
+      "time": "2026-08-21 15:15:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Kazaks said wage growth is gradually slowing."
+    },
+    {
+      "id": "mkt:01a0232c-999b-7aab-90cb-1badffbf642f",
+      "time": "2026-08-21 15:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Kazaks said inflation expectations remain close to target."
+    },
+    {
+      "id": "mkt:01a0232c-7a10-7aab-90cb-1052a480f476",
+      "time": "2026-08-21 15:15:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France August services PMI (flash) 48.4, below 49.8 expected and 49.6 previously."
+    },
+    {
+      "id": "5051477",
+      "time": "2026-08-21 15:15:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國8月服務業PMI初值 48.4，預期49.8，前值49.6。\n法國8月綜合PMI初值 48.8，預期49.5，前值49.4。\n法國8月製造業PMI初值 51.5，預期50，前值49.8。"
+    },
+    {
+      "id": "mkt:01a0232c-6d82-7aab-90cb-0ffea2220c09",
+      "time": "2026-08-21 15:15:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France August flash composite PMI 48.8, below 49.5 expected and prior 49.4."
+    },
+    {
+      "id": "mkt:01a0232c-6d17-7aab-90ca-fe095122b7a4",
+      "time": "2026-08-21 15:15:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "09696.HK",
+        "Impact bullish",
+        "01772.HK",
+        "03750.HK"
+      ],
+      "text": "Hong Kong-listed lithium battery stocks strengthened: TTANQT LITHIUM (09696.HK) rose more than 10%, Ganfeng Lithium (01772.HK) gained over 7%, Longpan Technology (02465.HK) climbed over 5%, and CATL (03750.HK) rose over 3%."
+    },
+    {
+      "id": "mkt:01a0232c-6d18-7aab-90cb-02b9d63c8c84",
+      "time": "2026-08-21 15:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France preliminary August manufacturing PMI 51.5, expected 50, prior 49.8."
+    },
+    {
+      "id": "5051476",
+      "time": "2026-08-21 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.03%， 10年期主力合約漲0.02%， 5年期主力合約漲0.01%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "mkt:01a0232c-4a59-7aab-90ca-f11f78e813a1",
+      "time": "2026-08-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Services PMI Flash (Aug) | actual 48.4 | consensus 49.8 | previous 49.6"
+    },
+    {
+      "id": "mkt:01a0232c-4a53-7aab-90ca-efe0d6906faf",
+      "time": "2026-08-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Manufacturing PMI Flash (Aug) | actual 51.5 | consensus 50 | previous 49.8"
+    },
+    {
+      "id": "mkt:01a0232c-4a28-7aab-90ca-e71462071815",
+      "time": "2026-08-21 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Composite PMI Flash (Aug) | actual 48.8 | consensus 49.5 | previous 49.4"
+    },
+    {
+      "id": "5051475",
+      "time": "2026-08-21 15:14:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI擬以4.45萬億韓元出售三星顯示的股份。"
+    },
+    {
+      "id": "5051474",
+      "time": "2026-08-21 15:14:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "唐山市場主流鋼廠計劃對溼熄焦炭上調50元/噸、幹熄焦炭上調55元/噸，2026年8月24日零點執行。（Mysteel）"
+    },
+    {
+      "id": "mkt:01a0232b-be4b-7aab-90ca-dc1799babacf",
+      "time": "2026-08-21 15:14:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "Major steel mills in Tangshan plan to raise wet-quenched coke by 50 yuan/ton and dry-quenched coke by 55 yuan/ton, effective 00:00 on Aug 24, 2026."
+    },
+    {
+      "id": "5051473",
+      "time": "2026-08-21 15:14:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：我們將於9月依據資料作出決策。"
+    },
+    {
+      "id": "5051472",
+      "time": "2026-08-21 15:14:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：通脹預期仍錨定於目標附近。"
+    },
+    {
+      "id": "5051471",
+      "time": "2026-08-21 15:13:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：我們觀察到工資增速正在逐步放緩。"
+    },
+    {
+      "id": "5051470",
+      "time": "2026-08-21 15:13:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行KAZAKS：市場環境充滿不確定性，釋出前瞻性指引反而會起到反效果。"
+    },
+    {
+      "id": "5051469",
+      "time": "2026-08-21 15:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月21日滬深兩市漲停分析】創業板指縮量上漲1.43%，小金屬、算力硬體概念全線走強，市場成交不足1.9萬億。漢森製藥3連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:01a02329-f42a-7aab-90ca-d39451ae2e0a",
+      "time": "2026-08-21 15:12:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kuwait foreign minister to visit China Aug 23-24】China's foreign ministry said Kuwait's foreign minister will make an official visit to China on Aug 23-24 at the invitation of China's foreign minister Wang Yi."
+    },
+    {
+      "id": "5051468",
+      "time": "2026-08-21 15:11:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【科威特外交大臣傑拉赫將訪華】外交部發言人宣佈：應中共中央政治局委員、外交部長王毅邀請，科威特外交大臣傑拉赫將於8月23日至24日對中國進行正式訪問。（外交部）"
+    },
     {
       "id": "5051467",
       "time": "2026-08-21 15:11:21",
@@ -9,6 +241,14 @@
         "國際"
       ],
       "text": "日本經濟產業省計劃在 27 財年為 Rapidus 劃撥 1500 億日元投資資金。"
+    },
+    {
+      "id": "5051466",
+      "time": "2026-08-21 15:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【避開胡塞武裝襲擊 沙特原油借北部管線轉運至地中海出口】由於伊朗支援的武裝分子在南部曼德海峽咽喉要道襲擊沙特出口船舶，包括Sinokor Group在內的船東正協助沙特原油經由安全性更高的北部航線離開紅海。自葉門胡塞武裝開始襲擊從紅海延布出口碼頭裝貨的船隻後，沙特國有石油企業沙特阿美加大了從西迪基里爾等地中海港口的原油出口。過去一個月，韓國Sinokor、希臘Dynacom以及挪威DHT Management AS旗下船舶往返航行於延布與艾因蘇赫納之間，原油在艾因蘇赫納卸船後透過管道向北輸送。"
     },
     {
       "id": "mkt:01a02328-3ee3-7aab-90ca-ced334827870",
@@ -34,6 +274,14 @@
         "Importance 1"
       ],
       "text": "Turkey Business Morale Improves in August — Turkey’s manufacturing confidence index rose to 102.8 in August 2026 from a three-month low of 102.2 in the previous month, as sentiment among manufacturers improved slightly. Confidence was supported by a rebound in total orders over the past three months (104.4 vs 99.9 in July), higher fixed investment expenditure (105.5 vs 104.7), and a modest increase in current total orders (84.8 vs 84.5). Output volumes also strengthened to 121.1 from 119.3, while finished goods inventories rose to 98.1 from 97.0. Export orders increased to 118.3 from 116.6, pointing to firmer external demand. However, the improvement was partly limited by a weaker overall business outlook, which fell to 86.7 from 90.2, while expected employment over the next three months declined to 103.3 from 105.2."
+    },
+    {
+      "id": "5051465",
+      "time": "2026-08-21 15:09:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國暗中經第三國驅逐墨移民 墨方明確反對】據美國媒體披露，數月來，美國政府暗中將大批墨西哥移民驅逐至瓜地馬拉和宏都拉斯，再經兩國將移民送返墨西哥。墨西哥外交部反對美國這一做法，表示墨政府接受所有公民直接回國，反對在沒有相關協議的情況下將墨西哥公民驅逐至第三國。（新華社）"
     },
     {
       "id": "5051464",
@@ -146695,116 +146943,6 @@
         "Greater China"
       ],
       "text": "【Chinese government bond futures midday close】2-year government bond futures (TS) most-active contract up 0.01%, 5-year (TF) up 0.05%, 10-year (T) up 0.06%, 30-year (TL) up 0.09% at midday close."
-    },
-    {
-      "id": "te:markets:575335",
-      "time": "2026-08-14 15:16:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.07% Higher — The Shangai Composite Index rose 3 points or 0.07 percent on Friday to close at 3930 points. Leading the gains are Fuyao Glass Indu (2.66%), Avic Aviation Engine (1.63%) and Baosteel (1.41%). Top losers were Datang Intl (-6.21%), Greenland Holdings (-3.05%) and Yonghui Superstore (-2.44%)."
-    },
-    {
-      "id": "5040735",
-      "time": "2026-08-14 15:15:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【戰爭擾亂供應，印度煉油商提前數月搶購原油】受烏克蘭襲擊俄羅斯能源設施以及霍爾木茲海峽局勢僵持影響，印度國有煉油企業正一反常態，大幅提前採購現貨原油。印度石油公司、印度斯坦石油公司等企業已敲定部分十月原油供應，目前還在尋求 11 月的原油船貨。美國有可能對包括印度在內的俄羅斯油氣採購方實施制裁，這也助推本輪搶購潮，印度企業計劃在未來數週釋出更多招標。"
-    },
-    {
-      "id": "mkt:019fff20-2f60-7aab-9038-958f975f529f",
-      "time": "2026-08-14 15:15:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【China defense ministry warns Japan's 'new militarism' poses regional risk】On Aug. 14 China's Ministry of National Defense spokesman Chen Xi said post-war Japan has not fully learned from history, has long tolerated right-wing revisionism and is undermining its pacifist constitution and 'exclusively defense' principle. He accused Tokyo of using so‑called \"external threats\" to justify sharp increases in defense spending, development of offensive capabilities and expansion of its defense-industrial base, calling this a 'new militarism' that threatens regional stability. Chen urged Japan to repent, cease remilitarization and abide by the post‑war international order, warning further missteps would bring more painful defeat and a more thorough reckoning."
-    },
-    {
-      "id": "5040734",
-      "time": "2026-08-14 15:15:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部迅即安排部署賈魯河堤防險情應急處置工作】國家防總副總指揮、水利部部長李國英強調，一要加強雨水情監測預報，密切關注降雨和賈魯河上游洪水演進過程，精準把握洪峰流量、水位、歷時和洪水總量，及時將預報預警資訊直達地方防禦一線。二要立即開展地毯式排查，第一時間撤離洪水淹沒區受影響人員；根據地形條件加快構築第二道防線，儘量縮小洪水淹沒影響範圍。三要加強賈魯河沿線及下游沙潁河干流等河道堤防巡查防守，配足人員、料物和裝置，緊盯穿堤、交叉建築物等重點河段部位，及時排查並處置管湧、滲漏等險情，確保沿線城市和堤防防洪安全。會商會後，李國英即赴河南指導防汛搶險工作。"
-    },
-    {
-      "id": "5040733",
-      "time": "2026-08-14 15:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.09%， 10年期主力合約漲0.06%， 5年期主力合約漲0.05%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "em:jjsj_ozsj:202608143841697351",
-      "time": "2026-08-14 15:14:46",
-      "tags": [
-        "經濟數據",
-        "澳洲"
-      ],
-      "text": "【澳大利亞新增住房貸款較第一季度下降5.2%】截至6月的三個月內，澳大利亞新增住房貸款較第一季度下降5.2%，創2022年底以來最大降幅，購房者借貸意願持續減弱。"
-    },
-    {
-      "id": "5040732",
-      "time": "2026-08-14 15:14:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【瑞銀：上調中國移動目標價至83港元，維持“中性”評級】瑞銀髮表報告指，中國移動第二季服務收入同比跌4.8%至2330億元，EBITDA同比跌7.9%至970億元，純利同比跌7.5%至500億元，較瑞銀及市場預期低1%至9%，主要受增值稅調整及宏觀經濟逆風影響。雲與AI相關業務表現強勁。資料中心收入同比增13.2%，雲端計算服務收入同比增18%。累計AIDC合約容量達7GW，其中5GW為上半年新增。中期股息每股2.51元，同比持平，瑞銀認為此預示全年股息穩定。瑞銀微調預測，並將估值模型延伸六個月，目標價由81港元上調至83港元，維持“中性”評級，認為現價對應2026年預測股息率約6%至7%，可為股價提供支援。"
-    },
-    {
-      "id": "5040731",
-      "time": "2026-08-14 15:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：張振熙或接任白宮新聞秘書 】據美國《紐約郵報》網站8月12日報道，白宮通訊主任張振熙是有望接替即將離任的白宮新聞秘書卡羅琳·萊維特的熱門人選之一，他是一名加利福尼亞州人，曾效力於時任州長阿諾德·施瓦辛格。 評論人士稱，張振熙是該職位的合適人選。萊維特休產假期間，張振熙曾代管她的部分工作。（參考訊息）"
-    },
-    {
-      "id": "5040730",
-      "time": "2026-08-14 15:13:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約軍事總部發言人：已確認，一架未識別無人機進入拉脫維亞領空後，北約盟國已緊急出動戰機。"
-    },
-    {
-      "id": "mkt:019fff1e-4ac2-7aab-9038-8fdfcde3b037",
-      "time": "2026-08-14 15:13:22",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "NATO's military headquarters confirmed allied jets were scrambled after a drone entered Latvian airspace."
-    },
-    {
-      "id": "em:jjsj_ygsj:202608143841697125",
-      "time": "2026-08-14 15:13:22",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "【英國二季度GDP同比增長0.4%】英國二季度GDP同比增長0.4%，資訊通訊業貢獻近一半增幅，AI相關軟體諮詢業務連續兩個季度高速增長。"
-    },
-    {
-      "id": "5040729",
-      "time": "2026-08-14 15:13:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報82.88美元/桶。"
     }
   ]
 }
