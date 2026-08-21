@@ -1,7 +1,118 @@
 {
-  "updated": "2026-08-21 14:42:34",
-  "count": 16030,
+  "updated": "2026-08-21 14:46:54",
+  "count": 16025,
   "items": [
+    {
+      "id": "te:markets:577132",
+      "time": "2026-08-21 14:45:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Slightly Lower, Tracks 0.6% Weekly Decline — Australia's ASX 200 shed 25 points, or 0.3%, to finish at 9,059 on Friday, unwinding the prior session’s gains as healthcare, tech, logistics, and commercial services dragged. Nerves sharpened ahead of July inflation data due next week, after June’s print eased marginally yet still above the Reserve Bank’s target band. Governor Michele Bullock recently warned that inflation remains elevated, flagging upside risks from commodity volatility tied to Middle East conflict. Still, stronger U.S. stock futures capped the weakness after Wall Street fell sharply Thursday amid higher Treasury yields. Tech names tracked Wall Street’s peers, with Wisetech Global (-2.1%) and Nextdc (-1.3%) lower. Goodman Group (-5.5%), Wesfarmers (-2.8%), and Sonic Healthcare (-2.0%) also lagged, while the big four banks pared losses to end mixed. Bucking the trend, Guzman Y Gomez soared 11.5% after reporting a 29.7% profit jump. For the week, local markets slipped 0.6%, marking their second straight weekly fall."
+    },
+    {
+      "id": "5051421",
+      "time": "2026-08-21 14:45:07",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國8月INSEE製造業信心指數 103，預期101，前值101。法國8月INSEE商業信心指數 98，預期98，前值97。"
+    },
+    {
+      "id": "mkt:01a02310-f173-7aab-90ca-330ebfdf879e",
+      "time": "2026-08-21 14:45:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France August INSEE business confidence index 98, in line with consensus 98; prior 97."
+    },
+    {
+      "id": "mkt:01a02310-f0cb-7aab-90ca-2c32dc6d5612",
+      "time": "2026-08-21 14:45:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "INSEE: France August manufacturing confidence index 103, vs 101 expected and 101 prior."
+    },
+    {
+      "id": "mkt:01a02310-d3ae-7aab-90ca-257116e02608",
+      "time": "2026-08-21 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Manufacturing Confidence Index (Aug) | actual 103 | consensus 101 | previous 101"
+    },
+    {
+      "id": "mkt:01a02310-d3a3-7aab-90ca-1b169e58b434",
+      "time": "2026-08-21 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | INSEE Business Confidence (Aug) | actual 98 | consensus 98 | previous 97"
+    },
+    {
+      "id": "5051420",
+      "time": "2026-08-21 14:44:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲11%，現報1946.00點。"
+    },
+    {
+      "id": "5051419",
+      "time": "2026-08-21 14:44:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "VK就旗下應用被App Store下架一事，向蘋果提起訴訟。"
+    },
+    {
+      "id": "5051418",
+      "time": "2026-08-21 14:44:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多家財險機構涉編制虛假財務資料被罰】近期，太平洋財險、陽光財險、大地財險等多家財險機構因涉及編制虛假財務資料、擅自使用未經批准備案的保險條款費率被監管部門處以罰款。近日，國家金融監督管理總局山東監管局釋出行政處罰決定書，對太平洋財險山東分公司以及菏澤、濟南、棗莊、聊城中心支公司及多名相關責任人，合計處以罰款超249萬元。罰單資訊顯示，太平洋財險山東多家分支公司的主要違法違規行為是未執行經備案的保險條款以及編制虛假的財務資料。為此，國家金融監督管理總局山東監管局對相關機構罰款181萬元；對14名相關責任人進行警告並罰款68.4萬元。業內人士表示，擅自使用未經批准備案的保險條款費率，會擾亂保險產品監管規則，侵害投保消費者合法權益。與此同時，編制虛假財務資料是財險分支機構較為常見的違規亂象，機構透過虛構中介業務套取手續費，用於賬外支付各類營銷費用。近期多家保險機構就因以上違規行為被監管機構處罰。其中，陽光財險瀋陽中心支公司被罰103萬元，大地財險多家支公司及個人共計被罰67萬元。（央視財經）"
+    },
+    {
+      "id": "5051417",
+      "time": "2026-08-21 14:43:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本半導體裝置協會（SEAJ）資料顯示，日本 7 月半導體制造裝置出貨額同比上漲 35.4%，環比上升 8.3%，出貨規模達 5562.2 億日元。"
+    },
+    {
+      "id": "5051416",
+      "time": "2026-08-21 14:43:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "VK向俄羅斯仲裁法院對蘋果提起訴訟。"
+    },
+    {
+      "id": "5051415",
+      "time": "2026-08-21 14:42:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【2.4萬非公民參與投票？美普查局報告遭質疑】美國普查局18日在其官網釋出的一份有關2.4萬非美國公民參與2020年總統選舉投票的報告引發質疑。多家媒體20日報道說，報告的研究方法存在缺陷，所得結論並不準確。這份報告將一個商用選民資料庫與美國國家稅務局、社會保障署、國務院和國土安全部的聯邦記錄相比對，認定超過1.28億美國公民參與投票，另有2.4萬非公民投票。其中，加利福尼亞州、得克薩斯州、佛羅里達州和紐約州非公民選民人數最多，按出生國排列佔據前幾位的分別是墨西哥、加拿大、牙買加和菲律賓。美國普查局稱，仍掌握超過3200萬份記錄未做分析，因此非公民選民人數應超過2.4萬。（新華社）"
+    },
     {
       "id": "5051414",
       "time": "2026-08-21 14:41:44",
@@ -165,6 +276,14 @@
         "Impact bullish"
       ],
       "text": "Spot gold rose 0.91% intraday to break above $4,560/oz."
+    },
+    {
+      "id": "5051402",
+      "time": "2026-08-21 14:34:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中亞進出口博覽會聚焦多元化經貿往來】中亞進出口博覽會暨2026江蘇進出口商品展覽會20日在哈薩克阿拉木圖拉開帷幕，為中國和中亞企業開展供需對接和經貿交流搭建平臺。 此次展會為期3天，展覽面積6000平方米，設定9個專業展區、近300個展位，近200家中國參展企業集中展示了新能源、新材料、高階裝備、電子資訊和紡織服裝等領域展品。 中國駐阿拉木圖總領事蘇方遒在開幕式上表示，本次展會立足阿拉木圖作為中亞經貿樞紐的區位優勢，精準對接中亞市場需求，持續深化中國產品與中亞市場深度融合，不斷拓寬雙邊利益交匯點、拓展務實合作新空間，為構建更加緊密的中國－中亞命運共同體注入新動能。 阿拉木圖市副市長奧爾扎斯·斯馬古洛夫指出，展會涉及領域契合阿拉木圖產業升級與城市發展方向，將成為雙方深化產業合作、增進經貿往來、連結優質資源的全新起點。 此次展會由中國－中亞貿易暢通合作平臺、哈薩克貿易和一體化部，烏茲別克投資、工業和貿易部，阿拉木圖市政府、江蘇省蘇豪控股集團有限公司和蘇豪中亞江蘇中心有限公司共同主辦。(新華社)"
     },
     {
       "id": "5051401",
@@ -146625,173 +146744,6 @@
         "國際"
       ],
       "text": "俄羅斯以替波蘭從事間諜活動為由判處一名俄羅斯公民23年監禁。"
-    },
-    {
-      "id": "5040688",
-      "time": "2026-08-14 14:46:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深汕特別合作區解除雷電預警和暴雨黃色預警訊號】雷雨雲團已減弱，強降雨趨於結束，深圳市氣象臺2026年08月14日14時45分解除深汕特別合作區、深汕海域雷電預警和暴雨黃色預警訊號。市民仍需注意遠離河道和危險邊坡等。"
-    },
-    {
-      "id": "mkt:019fff05-bd4c-7aab-9037-cf59ef5e0db9",
-      "time": "2026-08-14 14:46:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "France July CPI final MoM 0.6% vs 0.6% expected; June 0.60%."
-    },
-    {
-      "id": "mkt:019fff05-a1bf-7aab-9037-c595be616a98",
-      "time": "2026-08-14 14:46:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | CPI (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202608143841682735",
-      "time": "2026-08-14 14:45:59",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "法國7月CPI同比增長2.1%，預期2.1%。"
-    },
-    {
-      "id": "5040687",
-      "time": "2026-08-14 14:45:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【南亞據報將再調漲20%銅箔基板基材售價 公司回應】今日市場流傳，南亞向客戶發出漲價函，因應銅箔、玻纖布、樹脂等原材料成本大幅上漲，基板和基材售價將分別調漲20%，自9月1日起生效。南亞今日表示，漲價屬實，今年以來已多次因應材料成本上漲，與客戶協商調整產品價格。不過，該份檔案並非公司正式對外發出的漲價通知，公司並未全面性、一次性向客戶調漲20%價格。"
-    },
-    {
-      "id": "mkt:019fff04-ef07-7aab-9037-bb995ae01928",
-      "time": "2026-08-14 14:45:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "France July CPI final YoY 2.1% (consensus 2.1%); June 2.1%."
-    },
-    {
-      "id": "mkt:019fff04-cf56-7aab-9037-b0762854f28f",
-      "time": "2026-08-14 14:45:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | CPI (YoY) (Jul) | actual 2.1% | consensus 2.1% | previous 2.10%"
-    },
-    {
-      "id": "mkt:019fff04-b33a-7aab-9037-ac2f0a3c66cf",
-      "time": "2026-08-14 14:45:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Central Command denies push for new strikes on Iran】US Central Command (CENTCOM) spokesman Tim Hawkins denied reports in the Jerusalem Post on the 14th that CENTCOM commander Brad Cooper was pushing for a new round of strikes on Iran, calling the reports \"pure fabrication\" and \"not true\"."
-    },
-    {
-      "id": "5040686",
-      "time": "2026-08-14 14:45:22",
-      "tags": [
-        "資料"
-      ],
-      "text": "法國7月CPI環比終值 0.6%，預期 0.6%，初值 0.6%。\n法國7月CPI同比終值 2.1%，預期 2.1%，初值 2.1%。\n法國7月調和CPI環比終值 0.6%，預期 0.6%，初值 0.6%。"
-    },
-    {
-      "id": "mkt:019fff04-6ce1-7aab-9037-a169e1b2612a",
-      "time": "2026-08-14 14:45:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "France July harmonized consumer price index (HICP) final YoY 2.4%; consensus 2.4%; prior 2.4%."
-    },
-    {
-      "id": "mkt:019fff04-6c46-7aab-9037-9e40dfd6503f",
-      "time": "2026-08-14 14:45:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "France July harmonized CPI final, MoM +0.6% (expected +0.6%; June +0.60%)."
-    },
-    {
-      "id": "mkt:019fff04-4ef9-7aab-9037-8fd990f8c548",
-      "time": "2026-08-14 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | HICP (YoY) (Jul) | actual 2.4% | consensus 2.4% | previous 2.40%"
-    },
-    {
-      "id": "mkt:019fff04-4f17-7aab-9037-94cf23cf8548",
-      "time": "2026-08-14 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | HICP (MoM) (Jul) | actual 0.6% | consensus 0.6% | previous 0.60%"
-    },
-    {
-      "id": "te:economy:575318",
-      "time": "2026-08-14 14:44:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Wholesale Prices YoY",
-        "Importance 2"
-      ],
-      "text": "India Wholesale Inflation Below Forecasts — India’s wholesale prices increased 9.78% year-on-year in July 2026, slowing from a 9.87% gain in June, which was the fastest increase since September 2022 and below expectations of 9.95%. The deceleration came due to softer increases in both food and fuel prices amid easing oil prices. The data are based on the new 2022–23 base year, replacing the earlier 2011–12 series. Fuel prices moderated (20.05% vs. 27.41% in June), while food inflation slowed slightly to 5.44% from 5.49% in June, marking the softest increase in three months. Meanwhile, manufacturing inflation accelerated to 8.29% from 7.48%, the fastest pace since June 2022."
-    },
-    {
-      "id": "5040685",
-      "time": "2026-08-14 14:44:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【範少軍會見世航智慧董事長陳曉博】據海口釋出，8月13日，海口市委書記範少軍在市行政辦公區會見世航智慧科技（蘇州）股份有限公司董事長陳曉博一行。雙方圍繞把握海南自由貿易港封關運作、擴大開放新機遇，深化海洋機器人領域務實合作，助力海口海洋經濟高質量發展進行交流探討。"
-    },
-    {
-      "id": "5040684",
-      "time": "2026-08-14 14:44:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨<CLc1>上漲超1美元，觸及盤中高點每桶82.27美元。"
-    },
-    {
-      "id": "5040683",
-      "time": "2026-08-14 14:43:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍中央司令部否認推動對伊新一輪軍事打擊】美軍中央司令部發言人蒂姆·霍金斯否認軍方高層正推動對伊朗發起新一輪軍事打擊。霍金斯在接受採訪時表示，有關美軍中央司令部司令布拉德·庫珀推動對伊朗發動新一輪打擊的報道“純屬捏造，根本不是事實”。（新華社）"
-    },
-    {
-      "id": "5040682",
-      "time": "2026-08-14 14:42:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲2%，現報4959.00元。"
     }
   ]
 }
