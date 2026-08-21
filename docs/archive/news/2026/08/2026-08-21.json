@@ -1,7 +1,113 @@
 {
   "date": "2026-08-21",
-  "count": 938,
+  "count": 948,
   "items": [
+    {
+      "id": "mkt:01a02247-d977-7aab-90c7-3e329722d200",
+      "time": "2026-08-21 11:05:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【S. Korea finance minister says will closely monitor impact of rising global bond yields】YONHAP reported S. Korea’s finance minister said on Friday the government will closely monitor the domestic government bond market as long-term government bond yields in major economies, including the US, Japan and Europe, have risen to multi-decade highs amid higher fiscal spending and Middle East uncertainty. He said authorities will track issuance and trading activity and seek to lower corporate and household funding costs. The minister noted the won weakened to 1,300 per USD this week for the first time; it had earlier weakened to around 1,550 in early July, a move attributed to a record current-account surplus. He warned the exchange rate faces two-way risks from Middle East geopolitical tensions and major central banks’ policies and said the government will stay vigilant and respond to market moves."
+    },
+    {
+      "id": "mkt:01a02247-bfd6-7aab-90c7-364e31070da7",
+      "time": "2026-08-21 11:05:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【China Ministry of Finance raises annual per-lender cap on interest‑subsidised SME loans to 75 mln yuan from 50 mln】China's Ministry of Finance issued a notice on further fiscal‑financial coordination to boost domestic demand. The annual cap on interest‑subsidised SME loans per borrower at a single lender is raised to 75 mln yuan from 50 mln yuan. The annual cap for service‑sector business loans per borrower at a single lender is raised to 20 mln yuan from 10 mln yuan. The annual cap on cumulative interest subsidies for personal consumer loans and credit‑card installment plans per borrower at a single lender is raised to 5,000 yuan from 3,000 yuan."
+    },
+    {
+      "id": "mkt:01a02247-829e-7aab-90c7-2aff019da8c1",
+      "time": "2026-08-21 11:05:06",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【Goldman: AI stocks volatile but positions remain far from extremes】Goldman One Delta head Rich Privorotsky said AI and momentum trades swung sharply over the past 48 hours; Goldman’s GSPUMOMO momentum portfolio has fallen nearly 7%. Goldman Prime data show the move in positions has been much milder: momentum exposure is close to neutral and recent increases are chiefly in net exposure rather than gross leverage. That is material after a sizeable July de‑risking—investors still hold meaningful AI and semiconductors exposure but remain well below prior position peaks. Semiconductor internal leverage has already fallen, though residual system leverage could trigger passive de‑risking and forced selling if prices drop quickly. Lower market liquidity in August may further amplify AI swings; intraday price action looks “fundamental” but may overstate underlying fundamental change. Watch total leverage, Prime positions and semiconductor fund flows to judge whether this volatility will broaden into wider de‑risking."
+    },
+    {
+      "id": "mkt:01a02247-562e-7aab-90c7-266e77501b28",
+      "time": "2026-08-21 11:04:55",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "China's Ministry of Finance said it will expand the pool of implementing banks for interest-subsidy schemes on small-, medium- and micro-enterprise loans and for service-sector business loans to include 21 national banks and city commercial banks, rural cooperative financial institutions, private banks and foreign banks with financial-regulatory ratings of 3A or above."
+    },
+    {
+      "id": "mkt:01a02247-3709-7aab-90c7-1a9ae6c249a8",
+      "time": "2026-08-21 11:04:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【China Ministry of Finance to include new credit-card installment loans in consumer loan interest-subsidy program at 1 percentage point annualized】In a notice on fiscal-financial coordination to boost domestic demand, China’s Ministry of Finance said newly originated credit-card installment products — special-purpose installments, consumer installments and cash-advance installments — will be eligible for the personal consumer loan fiscal interest-subsidy program with a subsidy of 1 percentage point annualized. The notice also said newly issued working-capital loans to eligible small, micro and private enterprises will be covered by the SME loan interest-subsidy scheme; central fiscal authorities will subsidize interest at 1 percentage point annualized on principal for up to two years."
+    },
+    {
+      "id": "5051159",
+      "time": "2026-08-21 11:03:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部印發關於進一步做好財政金融協同促內需政策有關工作的通知。"
+    },
+    {
+      "id": "5051158",
+      "time": "2026-08-21 11:03:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴譴責美國對古新一輪制裁】針對美國政府20日宣佈對古巴新一輪制裁，古巴國家主席迪亞斯-卡內爾當天對此予以譴責，說古巴將堅持抵抗並取得勝利，美國終將被列入種族滅絕者名單。迪亞斯-卡內爾當天在社交媒體上說，美方“劊子手”每週四公佈“黑名單”，制裁古巴的個人和機構。受制裁者唯一的“罪名”，就是為古巴服務、反對針對古巴的“種族滅絕式封鎖”。古巴外交部長羅德里格斯當天在社交媒體發文譴責美國國務卿魯比奧，指其持續打壓古巴企業，企圖蓄意損害古巴經濟，阻礙古巴政府向民眾提供基本公共服務。美方制裁對食品、藥品及醫療器械的運輸造成了尤其顯著的阻礙，這些物資大部分由古巴私營中小微企業採購。"
+    },
+    {
+      "id": "mkt:01a02245-f9e8-7aab-90c7-17a9a29c8cf7",
+      "time": "2026-08-21 11:03:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "China's Ministry of Finance issued a notice calling for further fiscal-financial coordination to implement policies that boost domestic demand."
+    },
+    {
+      "id": "5051157",
+      "time": "2026-08-21 11:02:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【跨境清算公司董事長汪洪波會見香港金管局副總裁李達志、迅清結算控股集團行政總裁陳達強一行】據跨境清算公司訊息，2026年8月20日，跨境清算公司董事長汪洪波會見香港金管局副總裁李達志、迅清結算控股集團行政總裁陳達強一行。雙方圍繞深化金融市場互聯互通合作，加強業務協同和場景創新，支援和服務香港離岸人民幣中心建設等內容進行了深入交流。"
+    },
+    {
+      "id": "5051156",
+      "time": "2026-08-21 11:01:43",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲商業調查顯示，兩年期通脹預期為2.55%。"
+    },
     {
       "id": "mkt:01a02244-5698-7aab-90c7-0bc9fe74d2f0",
       "time": "2026-08-21 11:01:38",
