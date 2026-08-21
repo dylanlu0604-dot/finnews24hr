@@ -1,7 +1,647 @@
 {
-  "updated": "2026-08-21 21:22:51",
-  "count": 16234,
+  "updated": "2026-08-21 21:48:33",
+  "count": 16229,
   "items": [
+    {
+      "id": "5052499",
+      "time": "2026-08-21 21:46:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：金價的任何回撥都可能促使交易商解除對沖，從而加大拋售壓力並放大價格下行風險。"
+    },
+    {
+      "id": "5052498",
+      "time": "2026-08-21 21:46:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿波羅：潛在受影響資訊包括姓名、出生日期、聯絡方式、地址及社會安全號碼。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608213849657781",
+      "time": "2026-08-21 21:46:30",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月標普全球服務業PMI初值為56.8，預估為54，前值為54.6。"
+    },
+    {
+      "id": "5052497",
+      "time": "2026-08-21 21:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿波羅：目前尚無證據表明被訪問的資訊已被公開發布或被用於身份盜竊及欺詐。"
+    },
+    {
+      "id": "mkt:01a02491-dd17-7aab-90d5-c08e14928d2d",
+      "time": "2026-08-21 21:45:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs says a further recovery in Western investor demand, combined with sustained strong central-bank buying, could push gold toward a key trigger price at which dealer hedging may accelerate the rally."
+    },
+    {
+      "id": "5052496",
+      "time": "2026-08-21 21:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿波羅：2026年7月6日至10日發生雲平臺未授權訪問事件。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608213849657282",
+      "time": "2026-08-21 21:45:09",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月標普全球製造業PMI初值為53.2，預估53.9，前值53.9。"
+    },
+    {
+      "id": "mkt:01a02491-7709-7aab-90d5-be596f8e2417",
+      "time": "2026-08-21 21:45:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "US S&P Global preliminary composite PMI for August 56.0; expected 53.9; prior 54.5."
+    },
+    {
+      "id": "mkt:01a02491-76c6-7aab-90d5-b0a7058c9ce3",
+      "time": "2026-08-21 21:45:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "US Aug S&P Global Services PMI preliminary 56.8, versus 54.0 consensus and a prior reading of 54.6."
+    },
+    {
+      "id": "5052495",
+      "time": "2026-08-21 21:45:06",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國8月標普全球製造業PMI初值 53.2，預期53.9，前值53.9。美國8月綜合PMI為56，前值為54.5。美國8月標普全球服務業PMI初值 56.8，預期54，前值54.6。"
+    },
+    {
+      "id": "mkt:01a02491-72e5-7aab-90d5-aa5d00a099fc",
+      "time": "2026-08-21 21:45:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US August S&P Global manufacturing PMI preliminary 53.2, below consensus 53.9 and July's 53.9."
+    },
+    {
+      "id": "mkt:01a02491-5899-7aab-90d5-a35fe7962657",
+      "time": "2026-08-21 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Services PMI Flash (Aug) | actual 56.8 | consensus 54 | previous 54.6"
+    },
+    {
+      "id": "mkt:01a02491-588f-7aab-90d5-9a934cca60f7",
+      "time": "2026-08-21 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Composite PMI Flash (Aug) | actual 56 | consensus 53.9 | previous 54.5"
+    },
+    {
+      "id": "mkt:01a02491-586d-7aab-90d5-915b4fceacef",
+      "time": "2026-08-21 21:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing PMI Flash (Aug) | actual 53.2 | consensus 53.9 | previous 53.9"
+    },
+    {
+      "id": "5052494",
+      "time": "2026-08-21 21:44:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿波羅：近期遭遇社會工程學事件，可能影響部分使用者個人資訊保安。"
+    },
+    {
+      "id": "mkt:01a02490-d39d-7aab-90d5-8d8a6a303a72",
+      "time": "2026-08-21 21:44:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Goldman Sachs continues to see the gold rally facing greater two-way volatility risk."
+    },
+    {
+      "id": "5052493",
+      "time": "2026-08-21 21:44:23",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛繼續認為金價漲勢將呈現更大的雙向波動。"
+    },
+    {
+      "id": "mkt:01a02490-1255-7aab-90d5-844f1c126fd0",
+      "time": "2026-08-21 21:43:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs still says its year-end 2026 gold price forecast of $4,900/oz faces significant upside risk."
+    },
+    {
+      "id": "5052492",
+      "time": "2026-08-21 21:43:15",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛繼續認為，2026年底金價預測面臨顯著上行風險，有望達到每盎司4,900美元。"
+    },
+    {
+      "id": "5052491",
+      "time": "2026-08-21 21:43:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：截至最後一天，GAJA CAPITAL INDIA IPO 獲得 31.3 倍的認購倍數。"
+    },
+    {
+      "id": "5052490",
+      "time": "2026-08-21 21:42:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "TG THERAPEUTICS股價上漲6.6%，創6月22日以來最大盤中漲幅。"
+    },
+    {
+      "id": "mkt:01a0248d-b409-7aab-90d5-7b3cff4bb3ac",
+      "time": "2026-08-21 21:41:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. military says a plane crashed at a remote radar station in Alaska, killing eight."
+    },
+    {
+      "id": "te:markets:577303",
+      "time": "2026-08-21 21:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.57% Higher — The Dow Jones Index is picking up 299 points or 0.57 percent on Friday. Gains are led by Goldman Sachs (1.69%), UnitedHealth (1.48%) and American Express (1.46%). Biggest losers are Amazon (-1.01%), Apple (-0.90%) and Boeing (-0.53%)."
+    },
+    {
+      "id": "5052489",
+      "time": "2026-08-21 21:39:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "粉筆：魏亮辭任總裁，並獲委任為非執行董事，自2026年8月21日起生效。"
+    },
+    {
+      "id": "mkt:01a0248b-1dce-7aab-90d5-71690af02d24",
+      "time": "2026-08-21 21:38:11",
+      "tags": [
+        "MKT News",
+        "APO.O"
+      ],
+      "text": "TechCrunch reports private equity firm Apollo has confirmed a data breach amid a wave of cyberattacks targeting major financial firms."
+    },
+    {
+      "id": "5052488",
+      "time": "2026-08-21 21:37:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "私募股權公司阿波羅證實發生資料洩露事件，當前駭客正大規模攻擊金融巨頭。"
+    },
+    {
+      "id": "5052487",
+      "time": "2026-08-21 21:37:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "UBIQUITI股價逆轉走勢，現下跌4.2%。"
+    },
+    {
+      "id": "mkt:01a02489-c90d-7aab-90d5-6b2f8a165e66",
+      "time": "2026-08-21 21:36:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel Defense Forces said it struck a building in the Balashit area inside the security zone in southern Lebanon earlier today."
+    },
+    {
+      "id": "5052486",
+      "time": "2026-08-21 21:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【孟加拉國總統阿拉姆吉爾宣誓就職】阿拉姆吉爾當地時間21日19時30分在總統府宣誓就任孟加拉國總統。孟加拉國20日舉行總統選舉，執政黨孟加拉國民族主義黨候選人米爾扎·法赫爾·伊斯蘭·阿拉姆吉爾當選孟加拉國第23任總統。孟加拉國前總統穆罕默德·謝哈布丁·楚普7月24日辭職。根據孟加拉國憲法，總統職位空缺後，應在90天內選出新總統。孟加拉國實行議會制，總統為名義上的國家元首，任期5年。 (央視新聞)"
+    },
+    {
+      "id": "5052485",
+      "time": "2026-08-21 21:35:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅斯百貨上調年度利潤預測後，股價上漲約4%。"
+    },
+    {
+      "id": "5052484",
+      "time": "2026-08-21 21:35:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華大智造：2026年上半年營收13.66億元 淨虧損收窄】華大智造公告稱，2026年上半年實現營業收入13.66億元，同比增長18.91%；歸屬於上市公司股東的淨虧損1.58億元，上年同期淨虧損1.68億元，虧損同比收窄；歸屬於上市公司股東的扣除非經常性損益的淨虧損1.61億元。經營活動產生的現金流量淨額3.00億元，上年同期為-2.54億元。研發投入佔營業收入的比例為20.32%，同比減少13.86個百分點。基本每股收益-0.38元。"
+    },
+    {
+      "id": "mkt:01a02488-3e2a-7aab-90d5-63633ae3d475",
+      "time": "2026-08-21 21:35:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "US preliminary S&P Global manufacturing and services PMIs for August due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a02487-f5cb-7aab-90d5-5d47fd85bb3a",
+      "time": "2026-08-21 21:34:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Stoxx Europe 600 extended gains to nearly 0.5%, reaching an intraday high."
+    },
+    {
+      "id": "5052483",
+      "time": "2026-08-21 21:34:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "AVEANNA HEALTHCARE股價下跌1.5%，此前私募股權發起人減持股份。"
+    },
+    {
+      "id": "5052482",
+      "time": "2026-08-21 21:34:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "STOXX 600 指數漲幅擴大至近 0.5%，創盤中新高。"
+    },
+    {
+      "id": "mkt:01a02486-e45b-7aab-90d5-542533e7bf0a",
+      "time": "2026-08-21 21:33:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panxing Square US Fund's year-to-date (YTD) net return was +0.6% as of Aug 11."
+    },
+    {
+      "id": "te:markets:577302",
+      "time": "2026-08-21 21:33:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Weekly Losses — US stocks were slightly higher on Friday, pausing the losses from the week as markets continue to gauge macroeconomic risks from higher energy prices and bond yields. The S&P 500 and Dow rose around 0.4%, while the Nasdaq inched above the flatline. Long-dated Treasury yields were at similar levels to before the Treasury announced its higher bond buyback, although the dollar held its plunge, underscoring the market's concern over high inflation and uncontrolled deficit spending in a period that already has record corporate debt issuance. Chip producers and AI hyperscalers were mixed, holding their sharp losses from the week. Intel, AMD, and Seagate were set to close the week around 10% down, while Meta and Broadcom were set to lose 7%. Meanwhile, Walmart was 10% down on the week amid a rare earnings miss released yesterday, denting the company's outlook and sending a pessimistic signal on the US consumer."
+    },
+    {
+      "id": "mkt:01a02486-7c34-7aab-90d5-4b5ef46a8e9c",
+      "time": "2026-08-21 21:33:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panxing Plaza US Fund posted a 1H net return of -8.1%."
+    },
+    {
+      "id": "mkt:01a02486-56d6-7aab-90d5-40d8060b2161",
+      "time": "2026-08-21 21:32:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks opened higher on Aug 21 (Fri): Dow Jones Industrial Average up 275.18 pts (+0.52%) at 53,034.39; S&P 500 up 29.90 pts (+0.39%) at 7,671.56; Nasdaq Composite up 108.98 pts (+0.42%) at 26,176.14."
+    },
+    {
+      "id": "5052481",
+      "time": "2026-08-21 21:32:53",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "O-I GLASS股價上漲6.3%，此前花旗集團將評級從中性上調至買入。"
+    },
+    {
+      "id": "5052480",
+      "time": "2026-08-21 21:32:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "PROSHARES比特幣策略ETF上漲5.6%，ISHARES比特幣信託上漲5.8%。"
+    },
+    {
+      "id": "te:markets:577301",
+      "time": "2026-08-21 21:32:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Texas Instruments Stock Price Hits 16-week Low — Texas Instruments shares decreased to 264.73 USD, the lowest since April 2026. Over the past 4 weeks, Texas Instruments lost 8.87%, and in the last 12 months, it increased 32.26%."
+    },
+    {
+      "id": "5052479",
+      "time": "2026-08-21 21:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "PERSHING SQUARE USA 上半年淨收益率 -8.1%。"
+    },
+    {
+      "id": "5052478",
+      "time": "2026-08-21 21:32:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cloverleaf：英偉達(NVDA.O)已對Cloverleaf進行少數股權投資，以進一步支援人工智慧工廠的建設。英偉達將與Cloverleaf合作，推進支援人工智慧工廠建設所需的基礎設施發展。"
+    },
+    {
+      "id": "mkt:01a02485-bd6f-7aab-90d5-3e6bafed06e5",
+      "time": "2026-08-21 21:32:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Cloverleaf says it plans to build a gigawatt-scale AI factory in the United States. It will deploy NVIDIA DSX platform at the site."
+    },
+    {
+      "id": "5052477",
+      "time": "2026-08-21 21:32:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "ROSS STORES股價上漲6.5%，創5月以來最大盤中漲幅。"
+    },
+    {
+      "id": "5052476",
+      "time": "2026-08-21 21:32:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，嘉楠科技漲10.61%，金生遊樂漲9.45%，網易漲7.25%，貝殼漲5.71%，中進醫療漲2.96%。"
+    },
+    {
+      "id": "5052475",
+      "time": "2026-08-21 21:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "STRATEGY股票開盤上漲6.6%，有望實現3天累計上漲29%。"
+    },
+    {
+      "id": "mkt:01a02485-56f6-7aab-90d5-30d111254b76",
+      "time": "2026-08-21 21:31:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) has taken a minority equity stake in Cloverleaf to further support construction of an AI factory. NVIDIA will partner with Cloverleaf to advance development of the infrastructure required to support the AI factory."
+    },
+    {
+      "id": "mkt:01a02485-0323-7aab-90d5-28fa12d1d1d7",
+      "time": "2026-08-21 21:31:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for Canada-U.S. trade LeBlanc will meet U.S. Trade Representative Greer at 14:30 GMT today (22:30 Beijing time)."
+    },
+    {
+      "id": "5052474",
+      "time": "2026-08-21 21:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cloverleaf基礎設施與英偉達達成戰略合作，加速資料中心基礎設施建設。"
+    },
+    {
+      "id": "5052473",
+      "time": "2026-08-21 21:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大外交大臣勒布朗與美國貿易代表格里爾將於格林尼治標準時間14:30會面。"
+    },
+    {
+      "id": "5052472",
+      "time": "2026-08-21 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.51%，標普500指數漲0.48%，納指漲0.46%。羅賓漢漲7.51%，Coinbase Global漲6.06%，麥克莫蘭銅金漲5.30%，Strategy漲5.29%，羅斯百貨有限公司漲5.18%，雅保化工漲4.33%。“七姐妹”方面：特斯拉漲1.45%，英偉達漲0.53%，蘋果漲0.15%，谷歌漲0.13%，亞馬遜跌0.12%，Meta Platforms跌0.15%，微軟跌0.30%。"
+    },
+    {
+      "id": "mkt:01a02484-3c50-7aab-90d5-26f2a57d58f6",
+      "time": "2026-08-21 21:30:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "AVGO.O",
+        "BEKE.N"
+      ],
+      "text": "US stocks opened higher: Dow up 0.5%, S&P 500 up 0.4%, Nasdaq up 0.4%. Micron Technology (MU.O) rose 1%; CEO said current customer demand exceeds company supply by roughly 50%. Broadcom (AVGO.O) rose 1.6% as it seeks more than $60 billion in debt financing to build chip infrastructure for AI companies. Most major Chinese ADRs were higher; Beike (BEKE.N) gained 4.9% post-earnings and NetEase (NTES.O) rose 4.4%."
+    },
+    {
+      "id": "5052471",
+      "time": "2026-08-21 21:30:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股市GSPTSE大盤指數開盤上漲109.33點，漲幅0.30%，報36474.75點。"
+    },
+    {
+      "id": "5052470",
+      "time": "2026-08-21 21:29:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度奧里薩邦政府：Prasol Chemicals將投資45億盧比建設磷基衍生物製造廠。"
+    },
+    {
+      "id": "mkt:01a02482-7496-7aab-90d5-193edd022300",
+      "time": "2026-08-21 21:28:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. appeals court upheld a ruling blocking the Justice Department from enforcing a subpoena against the office of New York Attorney General Letitia James."
+    },
+    {
+      "id": "mkt:01a02482-3603-7aab-90d5-12279db57bcf",
+      "time": "2026-08-21 21:28:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【German gas storage at lowest for time of year since records began (2011)】Germany's Energy Storage Initiative said gas storage levels are at 49% of capacity, the lowest for this time of year on record since 2011; a year earlier the rate was 67%."
+    },
+    {
+      "id": "5052469",
+      "time": "2026-08-21 21:28:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院維持了一項裁決，該裁決阻止了司法部向紐約州總檢察長萊蒂婭·詹姆斯辦公室發出傳票。"
+    },
+    {
+      "id": "mkt:01a02481-a61a-7aab-90d5-0ef23db0ae23",
+      "time": "2026-08-21 21:27:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Economist: Canada July retail sales momentum may have stalled】Andrew Grantham, CIBC Capital Markets economist, says June retail sales rose 0.6% but Statistics Canada’s preliminary estimate shows nominal retail sales down 0.8% MoM in July, suggesting Q2 growth momentum may have stalled into July. Grantham says final July figures could be weaker after gasoline prices rose following the US resumption of strikes on Iran."
+    },
+    {
+      "id": "5052468",
+      "time": "2026-08-21 21:26:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國氣象局預測今年將迎最強厄爾尼諾 】英國氣象局21日預測，今年的厄爾尼諾現象將成為現代氣象記錄中最強的一次，可能加劇全球多地乾旱、強降雨和暴風雨等極端天氣，並對農業生產造成影響。“厄爾尼諾”是指赤道太平洋東部和中部海域海水溫度異常升高、影響大氣環流的一種氣候現象。英國氣象局長期預報負責人亞當·斯凱夫告訴英國廣播公司，今年相關海域海水溫度可能較正常水平高出3攝氏度以上，如此高的升溫幅度“在現代氣象記錄中聞所未聞”。根據斯凱夫的說法，典型的厄爾尼諾現象往往導致太平洋海溫上升逾1攝氏度；如果升幅達2攝氏度，則可判定為“非常嚴重”。他說，目前相關海域海溫升幅已接近2攝氏度，預計南美洲和西太平洋等地區將出現“極為嚴重”的乾旱，西北歐地區則可能遭遇暴風雨天氣。（新華社）"
+    },
+    {
+      "id": "5052467",
+      "time": "2026-08-21 21:26:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞政府任命胡斯蒂尼亞諾·平託為臨時經濟部長。"
+    },
+    {
+      "id": "5052466",
+      "time": "2026-08-21 21:25:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞政府解除經濟部長職務。"
+    },
+    {
+      "id": "5052464",
+      "time": "2026-08-21 21:25:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上汽奧迪E7X推先鋒quattro熱愛版，權益後售價29.78萬元】8月21日，上汽奧迪在成都車展推出奧迪E7X先鋒quattro熱愛版，限時臻享價30.98萬元，疊加權益後售價29.78萬元。新車搭載奧迪quattro全時智慧四驅，配備雙向14°後輪轉向、採埃孚CDC連續可變阻尼減震器、空氣懸架和全鋁底盤。上汽奧迪稱，E7X上市百日內銷量已破萬，quattro車型訂單佔比超過60%。產品將於9月首次OTA，四季度升級奧迪世界模型全景輔助駕駛。"
+    },
+    {
+      "id": "5052463",
+      "time": "2026-08-21 21:24:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲2%，現報1602.50元。"
+    },
+    {
+      "id": "5052462",
+      "time": "2026-08-21 21:23:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股IPO：鎮江貝斯特新材料股份有限公司遞表港交所】鎮江貝斯特新材料股份有限公司向港交所提交上市申請書，獨家保薦人為國泰海通。"
+    },
     {
       "id": "5052461",
       "time": "2026-08-21 21:21:25",
@@ -148067,649 +148707,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普政府正在針對聯邦政府中的另一項DEI政策採取行動。"
-    },
-    {
-      "id": "5041679",
-      "time": "2026-08-14 21:48:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長與奧地利外長通話 指責美以侵略加劇霍爾木茲海峽危機】伊朗外交部長阿拉格齊14日與奧地利外交部長邁因拉辛格通電話，雙方就雙邊關係及當前地區和國際局勢交換意見。阿拉格齊在通話中強調，當前地區緊張局勢和霍爾木茲海峽安全危機，根源在於美國及以色列政權對伊朗實施的非法侵略。阿拉格齊指出，儘管伊朗秉持誠意參與外交程序，並與相關方於6月28日簽署了停火協議，但美方公然違反協議條款，不僅對伊朗施加海上制裁，還大規模襲擊伊朗軍事及民用目標，導致局勢進一步動盪。他同時譴責以色列持續對加沙和黎巴嫩平民實施暴行，批評歐盟及部分歐洲國家的消極態度與全方位支援是導致巴勒斯坦地區長期遭受佔領與種族滅絕的主要原因，呼籲歐盟重新審視其在西亞問題上的立場。此外，阿拉格齊還就歐盟干涉伊朗內政及其對反伊朗恐怖分子的支援提出嚴正交涉。奧地利外長邁因拉辛格在通話中闡述了奧方對當前地區局勢的立場，強調透過外交途徑恢復地區穩定與安全、推動局勢恢復正常的重要性。"
-    },
-    {
-      "id": "5041678",
-      "time": "2026-08-14 21:46:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西中南沙島礁生態系統狀況集中釋出】在2026年全國生態日到來之際，我國首次集中釋出南海島礁生態系統狀況。9個西中南沙島礁生態狀況整體優良但各具差異：西沙島礁恢復態勢良好；黃巖島是南海中部稀有的“生物基因庫”，造礁石珊瑚種類豐富，珍稀物種雲集；南沙島礁生態狀況分化明顯，整體優良，個別島礁生態系統受損退化嚴重。（央視新聞）"
-    },
-    {
-      "id": "5041677",
-      "time": "2026-08-14 21:45:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：西班牙將原定於明年關閉的反應堆壽命延長至2030年。"
-    },
-    {
-      "id": "te:markets:575496",
-      "time": "2026-08-14 21:44:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Citigroup Stock Price Hits 4-week High — Citigroup shares increased to 139.32 USD, the highest since July 2026. Over the past 4 weeks, Citigroup gained 4.23%, and in the last 12 months, it increased 45.52%."
-    },
-    {
-      "id": "5041676",
-      "time": "2026-08-14 21:44:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報65.64美元/盎司。"
-    },
-    {
-      "id": "5041675",
-      "time": "2026-08-14 21:44:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【烏軍稱襲擊俄西北部一能源設施】烏克蘭武裝部隊總參謀部14日在社交媒體發帖說，烏軍襲擊了俄羅斯西北部列寧格勒州一座能源設施。烏武裝部隊總參謀部說，烏軍13日至14日夜間襲擊了俄大型天然氣生產商諾瓦泰克公司位於烏斯季盧加港的凝析油加工和轉運綜合體內的兩處設施，現場起火。媒體報道顯示，該綜合體主要將穩定凝析油加工為輕石腦油、重石腦油、航空燃油及柴油，其中部分產品供應俄羅斯武裝部隊使用。（新華社）"
-    },
-    {
-      "id": "5041672",
-      "time": "2026-08-14 21:41:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯已將美國衛生部長小羅伯特·F·肯尼迪的兒子康納·肯尼迪列入其頭號通緝名單，原因是他在烏克蘭服役。肯尼迪於2022年加入烏克蘭國際軍團；俄羅斯法院現指控他從事僱傭兵活動。俄羅斯當局聲稱他在哈爾科夫地區秘密作戰，但這一說法尚未得到證實。"
-    },
-    {
-      "id": "5041671",
-      "time": "2026-08-14 21:41:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國正就北約盟友對特朗普政策的忠誠度進行核查，以應對美國可能縮減在歐洲的軍事存在，這份發給各盟友的檔案包含一系列問題，涉及各國是否曾公開支援美國的外交政策、是否對使用美軍基地施加過限制，以及是否從美國國防企業採購武器等。"
-    },
-    {
-      "id": "5041670",
-      "time": "2026-08-14 21:40:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國管理和預算局主任Vought：福特級航母造價過高，建造時間過長。我們的海軍造船廠已滿負荷，存在重大積壓。"
-    },
-    {
-      "id": "mkt:01a00080-de7f-7aab-9040-0159eb3fe0b5",
-      "time": "2026-08-14 21:40:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OMB Director Vought said US naval shipyards are operating at full capacity and face a significant backlog."
-    },
-    {
-      "id": "mkt:01a00080-c7e9-7aab-903f-fd892b8390ae",
-      "time": "2026-08-14 21:40:34",
-      "tags": [
-        "MKT News",
-        "HII.O",
-        "Impact bearish"
-      ],
-      "text": "OMB Director Vought said US Ford-class aircraft carriers are too costly and take too long to build."
-    },
-    {
-      "id": "5041669",
-      "time": "2026-08-14 21:40:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【15家中小公募上報攤餘成本法債基】8月14日晚，中國證監會網站顯示，15家中小公募機構上報攤餘成本法債基，分別為尚正基金、紅土創新基金、百嘉基金、朱雀基金、國融基金、華西基金、易米基金、興合基金、興華基金、鵬安基金、財信基金，以及外資公募中的貝萊德基金、路博邁基金、聯博基金、安聯基金，上報的均為63個月封閉式債券基金。"
-    },
-    {
-      "id": "te:markets:575495",
-      "time": "2026-08-14 21:40:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Euro Hits 8-week High — EURUSD increased to 1.16, the highest since June 2026. Over the past 4 weeks, Euro US Dollar gained 1.01%, and in the last 12 months, it decreased 1.04%."
-    },
-    {
-      "id": "te:markets:575494",
-      "time": "2026-08-14 21:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.07% Lower — The Dow Jones Index is losing 37 points. Losses were led by Home Depot (-1.14%), Merck (-0.91%) and Sherwin-Williams (-0.76%). Offsetting the fall, top gainers were Chevron (0.92%), UnitedHealth (0.78%) and Walt Disney (0.75%)."
-    },
-    {
-      "id": "5041668",
-      "time": "2026-08-14 21:39:48",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【貝森特被要求解釋沃倫在信中干預日元的理由】參議員 伊麗莎白·沃倫 財政部長 斯科特·貝森特 解釋特朗普政府幹預日元的理由，延續了這位資深民主黨人審查特朗普政府外匯政策的慣例。沃倫在8月13日的信中寫道：“迄今為止，本屆政府尚未對其干預行動提供詳細的理由，也沒有正式披露有多少納稅人的資金被用於購買日元。”貝森特證實了媒體關於美日兩國自1998年以來首次聯合干預日元匯率的報道，但並未透露具體動用了多少資金。他表示，此次行動動用了財政部外匯穩定基金（ESF）中的歐元。沃倫在談到ESF的使用時表示：“國會希望這些權力得到審慎運用，以增進國家利益。”她要求政府在8月28日前作出答覆，並表示“請提供政府使用ESF的法律分析”。參議院銀行委員會首席民主黨議員沃倫還要求貝森特概述美國納稅人預計要承擔的成本，以及“目前正在考慮的美國對日本的財政支援的規模和條件”。"
-    },
-    {
-      "id": "5041667",
-      "time": "2026-08-14 21:39:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "COINBASE GLOBAL INC：使用者透過COINBASE ONRAMP使用APPLE PAY完成交易時可能會遇到問題。"
-    },
-    {
-      "id": "5041666",
-      "time": "2026-08-14 21:38:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "YORK SPACE SYSTEMS股價下跌14%，此前CO下調全年營收預期。"
-    },
-    {
-      "id": "5041665",
-      "time": "2026-08-14 21:38:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【當年內“翻倍基”批次縮水，近70只基金悄然創下淨值新高】2026年下半年，A股市場風格驟然切換。7月，科技股深度回撥，資金轉向低估值防禦品種；進入8月，市場迎來超跌反彈行情，板塊輪動依舊頻繁。高波動的市場環境恰好是檢驗主動權益基金風險駕馭能力的有效場景。據Wind統計，8月以來，近70只（僅統計主份額；已剔除成立不滿一年的產品，下同）主動權益基金的單位淨值創下自成立以來新高。21世紀經濟報道記者進一步梳理發現，在這批淨值創新高的基金中，不乏三年期業績亮眼且淨值波動相對平穩的穩健型選手。這類基金之所以能夠穿越市場波動，根源在於嚴格的風控紀律與持續迭代的選股框架。（21財經）"
-    },
-    {
-      "id": "mkt:01a0007e-b390-7aab-903f-f5f93cf7d860",
-      "time": "2026-08-14 21:38:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold is up more than 1.00% intraday, trading at $4,394.59/oz."
-    },
-    {
-      "id": "5041664",
-      "time": "2026-08-14 21:37:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4394.83美元/盎司。"
-    },
-    {
-      "id": "5041663",
-      "time": "2026-08-14 21:37:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐盟委員會重啟對五礦資源（MMG）與英美資源集團（Anglo American）交易的調查，並將新的裁決截止日期設定為11月30日。"
-    },
-    {
-      "id": "5041660",
-      "time": "2026-08-14 21:37:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紐約期金站上4450美元/盎司】紐約期金站上4450美元/盎司，日內漲0.7%。"
-    },
-    {
-      "id": "5041659",
-      "time": "2026-08-14 21:36:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【LME鋅主力合約漲超1%】LME鋅主力合約漲超1%，現報3782.5美元/噸。"
-    },
-    {
-      "id": "5041658",
-      "time": "2026-08-14 21:36:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國零售銷售創一年多來最大降幅 不及上半年的強勁表現】由於消費者減少了在網上商店和汽車經銷商處的消費，美國7月份零售銷售創出一年多來最大降幅。美國普查局週五公佈的資料顯示，未經通脹調整的零售銷售額下降0.6%，為2025年5月份以來最大降幅。剔除汽車和汽油後，零售銷售額下降0.2%。這份報告表明，在2026年上半年表現強勁之後，消費者上個月暫時放緩了支出。不過，一些分析師也警告稱，這些資料可能受到消費提前的影響，因為亞馬遜今年將Prime Day促銷活動從去年的7月份提前到了6月份。"
-    },
-    {
-      "id": "5041657",
-      "time": "2026-08-14 21:36:38",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通將福克斯公司評級上調至增持後，該公司B類普通股股價上漲4.3%。"
-    },
-    {
-      "id": "5041656",
-      "time": "2026-08-14 21:36:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "薩普託公司<股票程式碼：SAP.TO>在公司同意出售其英國業務後，股價上漲幅度最高達5%。"
-    },
-    {
-      "id": "te:markets:575493",
-      "time": "2026-08-14 21:35:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "S&P 500 Holds Recent Rise — US stock indices were little changed on Friday as optimism from recent tech earnings weighed against macroeconomic risks. The S&P 500 was flat near its record high, while the Nasdaq 100 and Dow also hovered with little movement. Chip producers extended their strong gains from earlier in the week, with Sandisk adding more than 5% following its 14% surge yesterday, while Micron jumped 4% on bullish recommendations from analysts and brokers. The fresh wave of long positions on AI infrastructure were also underpinned by signals of more spending by hyperscalers, with both OpenAI and Anthropic aiming for IPOs this year, while the latter moved to acquire Decart. Still, inflationary risks maintained some bets that the Federal Reserve may raise rates this year, with President Trump stating economic pressure on Iran will remain for longer, halting oil exports from the region. Industrials and banks continued to underperform. Also, Applied Materials dropped 5% despite beating forecast estimates."
-    },
-    {
-      "id": "5041655",
-      "time": "2026-08-14 21:35:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯 7 月盧布實際有效匯率環比下跌 4.7% 。"
-    },
-    {
-      "id": "5041654",
-      "time": "2026-08-14 21:35:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "奧裡厄斯綠道控股上漲6.6%，克拉託斯防禦安全解決方案上漲5.4%。"
-    },
-    {
-      "id": "5041653",
-      "time": "2026-08-14 21:35:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4450美元/盎司，日內漲0.67%。"
-    },
-    {
-      "id": "5041652",
-      "time": "2026-08-14 21:35:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "優諾森機器（Unusual Machines）股價上漲19.9%，紅貓控股（Red Cat Holdings）上漲11.2%， Aerovironment（航空環境公司）上漲6.7%。"
-    },
-    {
-      "id": "5041651",
-      "time": "2026-08-14 21:35:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普政府擬對進口無人機加徵關稅，美國部分無人機企業股價上漲。"
-    },
-    {
-      "id": "5041649",
-      "time": "2026-08-14 21:34:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍擬將約旦河西岸“民事執法權”移交以警方】以色列國防部長卡茨辦公室14日發表宣告稱，已指示以軍擬定一項計劃，將約旦河西岸地區的“民事執法權”從軍方移交給警方。宣告稱，鑑於古斯拉村發生的“極端主義騷亂”，國防部長正探討一項計劃，將針對在約旦河西岸地區實施犯罪的以色列人的執法工作移交給以警方。宣告表示，由於現任政府批准在西岸建立更多新定居點，預計定居者人數將“大幅增加”，而應對這些暴力行為並非以軍職責，以軍也沒有能力處理那裡的民事問題。猶太人定居者自本月9日以來持續對約旦河西岸城市納布盧斯以南古斯拉村的民房實施“封鎖”，阻止巴勒斯坦居民進出。（新華社）"
-    },
-    {
-      "id": "5041648",
-      "time": "2026-08-14 21:34:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：秘魯運輸工人在阿雷基帕重啟罷工。"
-    },
-    {
-      "id": "5041647",
-      "time": "2026-08-14 21:34:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4390美元/盎司，日內漲0.92%。"
-    },
-    {
-      "id": "5041646",
-      "time": "2026-08-14 21:34:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "銅價差加劇，倫敦金屬交易所（LME）主要價差觸及2021年以來最高水平。"
-    },
-    {
-      "id": "mkt:01a00079-5316-7aab-903f-e87bddcb63af",
-      "time": "2026-08-14 21:32:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold traded above $4,390/oz, up 0.9% on the day."
-    },
-    {
-      "id": "5041644",
-      "time": "2026-08-14 21:32:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST長園：申請撤銷其他風險警示，尚需上交所稽核】ST長園公告，公司觸及的其他風險警示情形已消除，且不存在觸及其他風險警示的情形，公司向上海證券交易所申請撤銷對公司股票實施其他風險警示。本次申請撤銷尚需經上交所稽核，能否獲得批准尚存在不確定性，最終以上交所稽核意見為準。"
-    },
-    {
-      "id": "5041643",
-      "time": "2026-08-14 21:31:43",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "摩羯座治療公司股價上漲65%，此前美國食品藥品監督管理局同意稽核其杜氏肌營養不良新藥的最新資料。"
-    },
-    {
-      "id": "mkt:01a00078-a32d-7aab-903f-e5d7c0d459a0",
-      "time": "2026-08-14 21:31:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "On Friday Aug 14, the Dow Jones Industrial Average opened down 102.25 points (-0.19%) at 53,737.74; the S&P 500 opened up 2.88 points (+0.04%) at 7,802.07; the Nasdaq Composite opened up 57.50 points (+0.21%) at 26,860.53."
-    },
-    {
-      "id": "5041642",
-      "time": "2026-08-14 21:31:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：推動積體電路、民用航空、智慧汽車、高階裝備等主導產業積厚成勢】今天（8月14日），上海市委書記陳吉寧用一整天時間在中國（上海）自由貿易試驗區臨港新片區調研並主持召開座談會。陳吉寧指出，臨港新片區要始終把先進製造業擺在突出位置，堅定不移提升能級和核心競爭力。搶抓數智化綠色化機遇，在抓好專案落地同時更加註重培育產業生態，注重培育龍頭企業和高成長企業，注重佈局產業平臺、提升服務能力，增強產業發展的韌性和黏性，推動積體電路、民用航空、智慧汽車、高階裝備等主導產業積厚成勢。"
-    },
-    {
-      "id": "5041641",
-      "time": "2026-08-14 21:31:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "NU HOLDINGS股價飆升14%，創一年來最大單日漲幅。"
-    },
-    {
-      "id": "5041640",
-      "time": "2026-08-14 21:31:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "特殊機械裝置類股飆升25%，AEROVIRONMENT股價上漲8.1%。"
-    },
-    {
-      "id": "5041639",
-      "time": "2026-08-14 21:31:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "應用材料公司股價下跌7%，創7月29日以來最大跌幅。"
-    },
-    {
-      "id": "mkt:01a00078-24e9-7aab-903f-d823d2593962",
-      "time": "2026-08-14 21:31:08",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Reddit shares rose 12% after the company was added to the S&P 500."
-    },
-    {
-      "id": "5041638",
-      "time": "2026-08-14 21:31:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "REDDIT股價上漲12%，此前該公司宣佈其股票將加入標普500指數。"
-    },
-    {
-      "id": "5041637",
-      "time": "2026-08-14 21:30:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數開盤上漲0.1%，納指100上漲0.3%。"
-    },
-    {
-      "id": "mkt:01a00077-e5a0-7aab-903f-d26b76fb910a",
-      "time": "2026-08-14 21:30:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "SNDK.O",
-        "Impact bullish",
-        "MU.O",
-        "AMAT.O",
-        "Impact bearish"
-      ],
-      "text": "At the US open, the Dow fell 0.1%, the S&P 500 rose 0.1% and the Nasdaq rose 0.16%. SanDisk (SNDK.O) rose 7% after saying it expects fiscal 2028-2030 revenue to grow in the mid-to-high double digits. Western Digital Corp (WDC.O) and Micron (MU.O) gained about 4%. Applied Materials (AMAT.O) fell about 5% after reporting results."
-    },
-    {
-      "id": "5041636",
-      "time": "2026-08-14 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指跌0.11%，標普500指數漲0.07%，納指漲0.16%。閃迪漲6.52%，21世紀福克斯漲4.13%，西部資料漲4.08%，應用材料跌5.46%，Strategy跌3.10%。“七姐妹”方面：特斯拉漲1.41%，英偉達漲0.71%，Meta Platforms漲0.66%，蘋果漲0.19%，谷歌漲0.14%，微軟跌0.21%，亞馬遜跌0.21%。"
-    },
-    {
-      "id": "5041635",
-      "time": "2026-08-14 21:30:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票交易所S&P/TSX綜合指數<.GSPTSE>開盤上漲18.68點，漲幅0.05%，報36777.97點。"
-    },
-    {
-      "id": "te:markets:575492",
-      "time": "2026-08-14 21:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "UnitedHealth Stock Price Hits 9-week Low — UnitedHealth shares decreased to 397.30 USD, the lowest since June 2026. Over the past 4 weeks, UnitedHealth lost 6.52%, and in the last 12 months, it increased 46.4%."
-    },
-    {
-      "id": "5041634",
-      "time": "2026-08-14 21:30:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【段永平丟擲1億元“十年之約”，但斌回應“時間是最公平的裁判”】知名投資人段永平丟擲1億元投資約定：以十年為期，重倉貴州茅臺，公開挑戰國內基金。8月13日晚，東方港灣董事長但斌在社交媒體發文進行了回應，“看到雪球不少朋友艾特我，提到段總借鑑巴菲特經典賭局，提出以龍頭白酒十年持有收益為基準，向國內私募基金髮起億元對賭的話題，希望我應戰。”“無需賭局、無需噱頭，時間就是最公平的裁判。”（澎湃）"
-    },
-    {
-      "id": "5041633",
-      "time": "2026-08-14 21:29:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泓毅股份北交所IPO過會，公司與奇瑞汽車交易的公允性遭追問】8月14日晚間，北交所官網顯示，安徽泓毅汽車技術股份有限公司（以下簡稱“泓毅股份”）IPO於當日上會獲得透過。據瞭解，泓毅股份的主營業務為汽車零部件、工裝裝備的設計、研發、生產和銷售，主要產品為汽車衝焊件、汽車被動安全件、模具鑄件等。公司本次衝擊上市擬募集資金約8.18億元。在上市委會議現場，上市委要求泓毅股份結合與奇瑞汽車之間的合作背景、股權關係、採購與銷售政策、採購金額與銷售金額變動趨勢等情況，說明公司與奇瑞汽車交易的公允性。（北京商報）"
-    },
-    {
-      "id": "5041632",
-      "time": "2026-08-14 21:28:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海市委書記陳吉寧調研臨港新片區並主持召開座談會】據“上海釋出”，今天（8月14日），上海市委書記陳吉寧用一整天時間在中國（上海）自由貿易試驗區臨港新片區調研並主持召開座談會。陳吉寧指出，臨港新片區要始終把先進製造業擺在突出位置，堅定不移提升能級和核心競爭力。搶抓數智化綠色化機遇，在抓好專案落地同時更加註重培育產業生態，注重培育龍頭企業和高成長企業，注重佈局產業平臺、提升服務能力，增強產業發展的韌性和黏性，推動積體電路、民用航空、智慧汽車、高階裝備等主導產業積厚成勢。把握製造業場景豐富優勢，促進工業數智化轉型，在生產製造、裝置運維等關鍵環節加大工業機器人、垂類模型和智慧體應用，帶動工業設計、中試驗證、檢驗檢測、營銷運營等全流程體系化轉型。最佳化營商環境、做好為企服務，加快培育世界一流企業。深化開發區管理制度改革，圍繞功能定位、空間整合、專業服務、考核評價等關鍵環節，細化完善改革方案。"
-    },
-    {
-      "id": "5041631",
-      "time": "2026-08-14 21:28:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東航在大興機場推出應用智慧機器人矩陣】從東航北京分公司獲悉，東航北京分公司於8月13日在大興機場東航高階值機區推出應用智慧服務機器人矩陣。據瞭解，此次投用的智慧機器人矩陣，涵蓋“人形互動”“便民服務”“四足巡檢”三大服務機型，透過多裝置協同聯動，融入旅客地面出行全流程。"
-    },
-    {
-      "id": "5041630",
-      "time": "2026-08-14 21:28:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國憲法委員會否決15歲以下未成年人使用社交媒體禁令】當地時間8月14日，法國憲法委員會宣佈，否決一項禁止15歲以下未成年人使用社交媒體的法案，認為相關規定對錶達和通訊自由構成“不成比例的侵犯”。法國憲法委員會指出，該禁令可能適用於尚未證實會對未成年人健康和安全造成風險的網路服務，同時沒有考慮未成年人的年齡、家庭狀況和成熟程度，也沒有規定家長在符合兒童利益的情況下解除或調整限制的條件。此外，憲法委員會認為，該法案實際上要求包括成年人在內的所有使用者證明年齡，但沒有對年齡驗證方式和範圍提供足夠的法律保障，可能侵犯隱私權。法國議會7月21日最終透過該法案，原計劃今年9月起實施。禁止15歲以下未成年人使用社交媒體是法國總統馬克龍推動的措施之一。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a00075-94ee-7aab-903f-ccf267c64252",
-      "time": "2026-08-14 21:28:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【DRC Ebola outbreak spreads to six provinces】DRC Health Ministry said on the 14th that as of the 12th the latest Ebola outbreak had reached six of the country’s 26 provinces, with 4,665 confirmed cases and 2,184 deaths. The outbreak has affected Ituri, North Kivu, South Kivu, Haut-Uele, Bas-Uele and Tshopo; Ituri remains the epicenter."
-    },
-    {
-      "id": "5041629",
-      "time": "2026-08-14 21:28:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉疫情範圍已擴大至6省】剛果（金）衛生部14日公佈的資料顯示，截至12日，該國本輪埃博拉疫情傳播範圍已擴大至全國26個省中的6個，累計報告確診病例4665例，其中死亡2184例。剛果（金）衛生部14日說，埃博拉疫情已傳播至該國北部的下韋萊省，目前共波及伊圖裡、北基伍、南基伍、上韋萊、下韋萊和喬波6個省，其中伊圖裡省仍是疫情“震中”。（新華社）"
-    },
-    {
-      "id": "5041628",
-      "time": "2026-08-14 21:26:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "香港科技創業股份有限公司預計2026年上半年未經審計淨虧損為7300萬港元至8300萬港元。"
-    },
-    {
-      "id": "te:markets:575491",
-      "time": "2026-08-14 21:25:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "US Dollar Approaches 2-Month Low — The US dollar index fell past 99.6 on Friday, approaching the two-month low of 95.53 on August 7th as the latest economic data limited positions on a Federal Reserve rate hike. The retail sales control group unexpectedly dropped in July, challenging the view of sharp resilience from US consumers, even though volatile seasonal effects distort the reading. The results were released after both producer and consumer inflation softened in the period, seemingly pausing the urgency for the Fed to deliver a rate hike in their September meeting. Still, foreign funds remained relatively underweight on long-dated US Treasury bonds compared to earlier this year on concerns that high price indices and Fed complacency on inflation raised could lift inflation in the longer term. With the pressure on the currency, the DXY hovered close to its bottom after the US Treasury completed its joint intervention on the foreign exchange market with Tokyo to support the yen."
-    },
-    {
-      "id": "5041627",
-      "time": "2026-08-14 21:25:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武契奇：塞爾維亞可能於10月或11月舉行議會選舉】塞爾維亞總統武契奇14日說，塞爾維亞可能於今年10月或11月舉行議會選舉。武契奇當天在出席活動時對媒體說：“我們將舉行選舉，時間可能是在10月，也可能是在11月。”武契奇今年6月表示，他計劃辭去總統一職，並爭取出任政府總理。武契奇2017年4月當選總統，2022年5月連任。（央視新聞）"
-    },
-    {
-      "id": "5041626",
-      "time": "2026-08-14 21:24:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "TD電力系統公司已與西門子能源美國公司簽訂按需定製製造框架協議。"
-    },
-    {
-      "id": "5041625",
-      "time": "2026-08-14 21:24:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：政府將就互惠流程諮詢企業。"
-    },
-    {
-      "id": "mkt:01a00072-0aaf-7aab-903f-c2d0024aa5f8",
-      "time": "2026-08-14 21:24:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada Pension Plan Investment Board said its portfolio remains well positioned to benefit from strong public equity performance and that its global, diversified holdings have contributed meaningfully across multiple areas."
-    },
-    {
-      "id": "5041624",
-      "time": "2026-08-14 21:24:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【無錫釋出京杭運河無錫段洪水橙色預警】無錫市水利局2026年8月14日19時30分發布京杭運河無錫段洪水橙色預警。請影響區域各級政府及有關部門密切關注雨水情，加強應急值守和分析研判，組織巡堤查險，做好應急搶險準備。"
-    },
-    {
-      "id": "5041623",
-      "time": "2026-08-14 21:24:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "Braskem 首席財務官稱，預計美亞聚乙烯套利空間將收窄。"
-    },
-    {
-      "id": "mkt:01a00071-b20f-7aab-903f-be96b31e6c02",
-      "time": "2026-08-14 21:24:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "WTI",
-        "Brent",
-        "S&P500"
-      ],
-      "text": "Canada Pension Plan Investment Board (CPP Investments) posted a 7.5% return in its first fiscal quarter, driven by gains in equities and energy, its strongest quarterly performance since 2015."
-    },
-    {
-      "id": "mkt:01a00071-22ee-7aab-903f-b3cc91b9b4f4",
-      "time": "2026-08-14 21:23:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kushner will meet Israeli Prime Minister Netanyahu during a visit to Israel."
-    },
-    {
-      "id": "5041622",
-      "time": "2026-08-14 21:23:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西經濟部官員：針對美國關稅的反制措施不一定會推出。"
-    },
-    {
-      "id": "5041621",
-      "time": "2026-08-14 21:23:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普女婿庫什納將在訪問以色列期間與內塔尼亞胡會面。"
-    },
-    {
-      "id": "5041620",
-      "time": "2026-08-14 21:22:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "油輪追蹤機構訊息：今日，一艘伊朗國家油輪公司的超大型油輪在伊朗哈爾格島的阿扎爾帕德碼頭裝載 200 萬桶原油。儘管這是 7 月末以來該島嶼觀測到的首次裝油作業，但伊朗仍在其他碼頭持續開展油輪裝貨。即便如此，伊朗石油產量大致與該國煉廠加工量（國內消費）持平，這意味著該國或無需大量出口原油。"
     }
   ]
 }
