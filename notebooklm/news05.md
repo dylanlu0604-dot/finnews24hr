@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 18:58:18_
-_本檔包含 3322 則快訊，約 655552 字_
+_更新時間：2026-08-21 19:26:54_
+_本檔包含 3289 則快訊，約 657183 字_
+
+---
+
+### 2026-08-17 15:27:09  #其他
+
+【亞塞拜然1‑7月石油出口同比下降12.1%】媒體援引亞塞拜然國家海關委員會資料，該國1‑7月申報石油出口量同比下降12.1%，至1272萬噸。出口額同比增長4.9%，達80.3億美元。石油佔出口總額比重為41.54%，去年同期為50.31%。義大利為第一大采購國，進口747萬噸，佔石油總出口的58.7%，貨值45.6億美元。捷克進口80.237萬噸，貨值5.621億美元；羅馬尼亞進口82.131萬噸，貨值5.222億美元。
+
+---
+
+### 2026-08-17 15:26:46  #MKT News
+
+【China says it has noted U.S.-N. Korea dialogue reports, urges peace and political resolution on peninsula】On Aug 17 Foreign Ministry spokesman Lin Jian said Beijing had noted reports that President Trump instructed the Pentagon to sharply cut US-South Korea joint military exercises. Lin said maintaining peace and stability on the Korean Peninsula and promoting a political resolution of the issue are in the common interest of all parties.
+
+---
+
+### 2026-08-17 15:26:11  #國際
+
+【外交部：有個別中國公民在印尼地震中受傷，領館已啟動領保應急機制】8月17日，外交部發言人林劍主持例行記者會。印尼安塔拉通訊社記者就印尼發生地震追問。該地震在多個地區均有震感，其中包括一些在中國遊客中頗受歡迎的目的地。請問是否有中國公民受此次地震影響的報告？中方是否會建議中國公民暫時避免前往地震受災地區？林劍表示，據瞭解，有個別的中國公民在地震中受傷，中國駐登巴薩總領館已經啟動了領事保護的應急機制，為地震中受傷的人員提供協助。（澎湃新聞）
+
+---
+
+### 2026-08-17 15:26:06  #MKT News #Market Regions #Greater China #DXY #Impact bullish #USDJPY #Impact bearish #Nikkei 225
+
+【China urges Japan to reflect and break with militarism after Takaichi shrine offering】China’s Foreign Ministry on Aug. 17 condemned Japanese prime minister Takaichi’s Aug. 15 memorial speech and said her actions risked whitewashing wartime aggression. Spokesman Lin Jian said Takaichi avoided reflecting on past crimes and blurred responsibility while making offerings to a shrine honoring convicted war criminals on Japan’s surrender anniversary. Visits by Japan’s defence minister and other senior officials to the shrine have, the ministry said, heightened vigilance among Asian neighbours and the international community. China again urged Japanese leaders to heed domestic and international criticism, deeply reflect on wartime wrongs and fully sever ties with militarism.
+
+---
+
+### 2026-08-17 15:25:46  #焦點 #國際
+
+【特朗普指示五角大樓縮減美韓聯合軍演規模，外交部回應】8月17日，外交部發言人林劍主持例行記者會。彭博社記者提問，美國總統特朗普表示，他已指示五角大樓大幅縮減美韓聯合軍事演習，他表示，演習的高昂成本及他與朝鮮領導人金正恩的良好關係，是促成這一決定的主要原因。請問中國是否支援美國與朝鮮恢復對話？“我們注意到了有關報道。”林劍表示，維護朝鮮半島和平穩定，推動半島問題政治解決，符合各方的共同利益。（澎湃新聞）
+
+---
+
+### 2026-08-17 15:25:21  #MKT News
+
+BAGHAEI, Iran's foreign ministry spokesman, said Iran, drawing on decades of resilience and resistance, has a firm will to defend its sovereignty and dignity.
+
+---
+
+### 2026-08-17 15:25:13  #國際
+
+【外交部：再次敦促日本為政者 深刻反省罪責 同軍國主義徹底切割】8月17日，外交部發言人林劍主持例行記者會。有記者問：據報道，日本首相高市早苗在15日舉行的全國戰歿者追悼儀式上發表了致辭，請問中方對此有何評論？林劍表示，高市早苗在致辭中迴避反省教訓，模糊侵略罪責，大開歷史倒車，再次暴露出高市政權妄圖對侵略歷史進行掩蓋、歪曲和翻案的險惡用心，已引發各方的強烈譴責和廣泛反對。日本戰敗投降日的當天，高市早苗向“戰犯神社”供奉祭祀費。日本防衛大臣等高官和政要還前往參拜，進一步加劇亞洲鄰國和國際社會對日本國家走向的高度警惕。日本國內的有識之士指出，一個不知反省的國家無法獲得信任。防衛大臣的做法等同於支援侵略戰爭。今年是中國人民抗日戰爭暨世界反法西斯戰爭勝利81週年，也是東京審判開庭80週年，唯有正視歷史，以史為鑑，才能避免重蹈覆轍、再入歧途。我們再次敦促日本的為政者認真傾聽日本國內和國際社會的正義之聲，深刻反省罪責，同軍國主義徹底切割，不要在錯誤的道路上越走越遠。（央視新聞）
+
+---
+
+### 2026-08-17 15:25:08  #MKT News
+
+Iran's Foreign Ministry spokesman Baghaei said Iran maintains ongoing contact with Qatar, which is playing an important role in efforts to de-escalate the current situation.
+
+---
+
+### 2026-08-17 15:24:56  #國際
+
+【印尼發生7.7級地震 外交部：中方願提供積極協助】8月17日，外交部發言人林劍主持例行記者會。有記者問：據報道，印尼15日發生7.7級地震，至少數十人遇難，中方對此有何評論？是否將對印尼提供援助？林劍表示，中方關注印尼的地震災情，我們對遇難者表示深切哀悼，向遇難者的家屬和受傷人員表示誠摯慰問。中方願根據印尼方面的需要提供積極協助。
+
+---
+
+### 2026-08-17 15:24:49  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Iran Foreign Ministry spokesman Baghaei said Iran's resilient resistance thwarted the enemy's calculations.
+
+---
+
+### 2026-08-17 15:24:15  #其他
+
+香港旅遊發展局：7月訪港旅客人數同比增長3%。
+
+---
+
+### 2026-08-17 15:23:35  #經濟數據 #中國
+
+【國家統計局：1—7月份電子電路製造業投資增長57.7% 積體電路製造業投資增長11.5%】國家統計局投資司張剛表示，1—7月份，高技術製造業投資同比增長3.3%，增速比上半年加快0.1個百分點。其中，電子電路製造業投資增長57.7%，增速加快2.1個百分點；積體電路製造業投資增長11.5%，增速加快2.7個百分點；鋰離子電池製造業投資增長23.0%；電子專用材料製造業投資增長9.4%。
+
+---
+
+### 2026-08-17 15:23:21  #Trading Economics #Economy #China #Fixed Asset Investment #Importance 1
+
+China Fixed Investment Drops More Than Expected — China’s fixed-asset investment dropped by 6.7% year-on-year in the January to July 2026 period, worse than market expectations for a 6.2% fall and the 5.7% decline recorded in the first half of the year. Property investment remained the biggest drag, plunging 19.2% after an 18% decline in January-June, while infrastructure investment (-3.6% vs -2.4%) and manufacturing investment (-1.7% vs -1.2%) also decreased. Among industries, investment in the primary sector decreased 0.5% after rising 0.9%, while investment in the secondary sector (-2.1% vs -1.1%) and in the tertiary sector (-9.5% vs -8.4%) fell at a faster pace. Excluding the property sector, fixed-asset investment was down by 5.7% in January-July, slipping further from a 2.7% drop in the first six months of the year. On a monthly basis, fixed-asset investment decreased by 1.42% in July, accelerating from a 0.37% fall in the preceding period.
+
+---
+
+### 2026-08-17 15:23:11  #公司
+
+【武漢天源在泉州成立綠儲綜合能源服務公司】企查查APP顯示，近日，泉州瑞源綠儲綜合能源服務有限公司成立，法定代表人為朱時鵬，經營範圍包含：儲能技術服務；發電技術服務；發電業務、輸電業務、供（配）電業務。企查查股權穿透顯示，該公司由武漢天源旗下武漢天源能源有限公司全資持股。
+
+---
+
+### 2026-08-17 15:23:08  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10Y Yield Hits Near 2-Week High — The yield on India’s 10-year G-Sec rose to around 6.81%, reaching near two-week highs as bond prices weakened following the Reserve Bank of India’s unexpected decision to bring forward the closure of its concessional forex swap facility for FCNR(B) deposits. The move raised concerns over reduced demand for government bonds, with traders noting that much of the inflows under the scheme had been invested in four- to six-year securities, potentially exposing those maturities to selling pressure. Rising Brent crude prices near $90 a barrel also weighed on sentiment amid uncertainty over US-Iran peace talks and disruptions to tanker traffic through the Strait of Hormuz. Still, the 10-year yield remained supported by value buying, while ample banking-system liquidity and elevated foreign-exchange reserves provided some cushion. Market participants now await the minutes of the RBI’s August policy meeting for further cues on the interest-rate outlook.
+
+---
+
+### 2026-08-17 15:22:41  #國際
+
+伊朗革命衛隊政治顧問：戰爭必須根據諒解備忘錄結束。只有當美國履行其在《伊斯蘭堡諒解備忘錄》中的承諾時，霍爾木茲海峽才會重新開放。
+
+---
+
+### 2026-08-17 15:22:34  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Holds Near 2023 High — The offshore yuan steadied around 6.73 per dollar on Monday, hovering near its strongest level since February 2023, supported by a weakening US dollar amid a batch of underwhelming Chinese economic data. The greenback came under pressure after cooling US economic indicators led investors to further scale back bets of a near-term Federal Reserve rate hike, with markets now pricing in roughly a 67% chance that the Fed will keep rates unchanged in September, up from less than 50% a month ago. On the domestic front, fixed-asset investment contracted 6.7% year-on-year in the first seven months of 2026, a steeper decline than the 6.2% drop expected by markets. Moreover, industrial production slowed to 4.5% in July from 5.3% in June, falling short of forecasts for a 5% increase, while retail sales rose just 0.6%, missing expectations of 1.5% and easing from 1.0% growth in the previous month. Meanwhile, the surveyed unemployment rate edged up to 5.2% in July, the highest level in three months.
+
+---
+
+### 2026-08-17 15:22:14  #其他
+
+【數字華夏獲億元級戰略融資 仿生人形機器人商業化提速】近日，數字華夏宣佈完成億元級戰略輪融資。本次融資重點用於仿生智慧系列產品量產與場景大腦RoboEase的生態建設，目前RoboEase已經在銀行、康養、政務大廳、醫院導診、酒店前臺等公共服務場景全面應用。數字華夏將全力推動仿生智慧從概念邁向規模化落地。
+
+---
+
+### 2026-08-17 15:22:12  #市場
+
+【8月17日滬深兩市漲停分析】創業板指高開高走漲超3%，半導體、算力硬體股集體走強，全市上漲個股超4300只。澳洋健康、天洋新材、金螳螂4連板，一圖看懂>>
+
+---
+
+### 2026-08-17 15:22:12  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Iran's Islamic Revolutionary Guard Corps political adviser said the Strait of Hormuz will reopen only if the United States meets its commitments under the Islamabad memorandum of understanding.
+
+---
+
+### 2026-08-17 15:22:01  #市場
+
+英鎊兌美元上漲0.2%至1.3565，創三個月新高。
+
+---
+
+### 2026-08-17 15:21:56  #其他
+
+愛立信將於2026年8月10日至8月14日期間開展股票回購。
+
+---
+
+### 2026-08-17 15:21:35  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps political adviser says the war must end under a memorandum of understanding.
+
+---
+
+### 2026-08-17 15:20:19  #公司
+
+【天津1宗涉宅用地7.4億元底價成交】8月17日，天津出讓1宗河東區地塊，用地性質為城鎮住宅、教育，土地出讓面積45537.30㎡，規劃建築面積62888.00㎡，其中包含6班幼兒園獨立佔地2160㎡。最終天津市華馳房地產有限公司以底價7.4億元競得該地塊，成交綜合樓面價11767元/㎡，扣除幼兒園建築面積後，實際住宅樓面價12185元/㎡。
+
+---
+
+### 2026-08-17 15:19:40  #MKT News
+
+Iran's agriculture minister said the country has not tapped reserves of staple commodities and supplies are adequate.
+
+---
+
+### 2026-08-17 15:19:10  #公司 #國際
+
+馬來西亞AMSPEC農業公司監測資料顯示，該國8月1日至15日棕櫚油出口量預計為667,257噸，7月同期出口量為646,438噸。
+
+---
+
+### 2026-08-17 15:19:05  #國際
+
+【夏威夷18萬戶因風暴斷電】颶風“拉娜”已在逼近美國夏威夷的過程中減弱為熱帶風暴。但截至當地時間8月16日下午3:30，“拉娜”帶來的強風、暴雨和風暴潮仍造成夏威夷全州超過18萬使用者停電。夏威夷州長喬什·格林表示，州政府已收到至少100棟房屋受損的報告。一名州政府官員稱，暴雨引發的山洪暴發“前所未見”，重創了夏威夷部分地區。 美國國家颶風中心警告當地面臨“危及生命”的惡劣狀況。據稱，毛伊島、莫洛卡伊島、拉奈島、卡霍奧拉韋島、瓦胡島、考艾島及尼豪島均處於熱帶風暴預警之下，存在發生“毀滅性洪水”的可能性。 （CCTV國際時訊）
+
+---
+
+### 2026-08-17 15:18:23  #Trading Economics #Economy #China #Housing Index #Importance 1
+
+China New Home Prices Fall the Least in 5 Months — China’s new home prices across 70 cities dropped 3.2% year-on-year in July 2026, following a 3.3% decline in the previous month. While marking the 37th consecutive month of annual declines, the latest result was the slowest contraction since February, amid ongoing policy measures to mitigate the persistent weakness in the property market. On a monthly basis, new home prices edged down 0.1%, matching June's pace.
+
+---
+
+### 2026-08-17 15:17:59  #MKT News #Market Themes #AI Revolution
+
+【Ant Group CEO Han Xinyi: agent-based commerce to surge within 6–12 months】On Aug. 17 in Hangzhou, at Alipay’s first AI ecosystem conference focused on commercialising intelligent agents, Ant Group CEO Han Xinyi said agent-based commerce will surge within the next 6–12 months. He attributed the timing to three converging conditions — improved AI capabilities, a leap in user demand, and the formation of a value loop — and urged industry players to accelerate co‑building.
+
+---
+
+### 2026-08-17 15:17:21  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+USD/CHF breached 0.81, down 0.40% intraday.
+
+---
+
+### 2026-08-17 15:16:55  #MKT News
+
+【China bond futures midday close】2-year bond futures (TS) main contract down 0.01%; 5-year (TF) main contract up 0.01%; 10-year (T) main contract unchanged; 30-year (TL) main contract down 0.11%.
+
+---
+
+### 2026-08-17 15:16:34  #國際
+
+市場訊息：伊朗完成霍爾木茲甘海岸漏油事故清理。
+
+---
+
+### 2026-08-17 15:16:33  #Trading Economics #Markets #United States #currency #Importance 1
+
+Dollar Index Hits 9-week Low — DXY decreased to 99.40, the lowest since June 2026. Over the past 4 weeks, Dollar Index lost 1.52%, and in the last 12 months, it increased 1.27%.
+
+---
+
+### 2026-08-17 15:16:10  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 1.43% Higher — The Shangai Composite Index gained 56 points or 1.43 percent on Monday to close at 3983 points. Gains were led by Sanan Optoelectron (3.76%), China Molybdenum (3.31%) and Aluminum Corporation of China (3.02%).
+
+---
+
+### 2026-08-17 15:15:59  #其他
+
+【國家統計局：深入實施“人工智慧+”行動，著力打造新興支柱產業】國家統計局工業司首席統計師孫曉解讀2026年7月份工業生產資料。總體看，7月份，工業經濟克服階段性高溫、汛期降雨等短期因素影響，保持總體平穩、向新向優發展態勢。同時也要看到，外部環境複雜多變，工業經濟新舊動能轉換過程中仍面臨諸多困難挑戰，有效需求不足、產銷銜接不暢、部分行業企業資金週轉壓力較大等問題依然突出。下階段，要繼續完整準確全面貫徹新發展理念，加快構建新發展格局，深入實施“人工智慧+”行動，著力打造新興支柱產業，持續推動傳統產業改造升級，紮實推進工業經濟高質量發展。
+
+---
+
+### 2026-08-17 15:15:39  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CSI300
+
+【NBS: next phase will step up countercyclical policy, expand domestic demand】The National Bureau of Statistics said China’s economy was broadly stable in Jan–Jul but faces a complex external environment, a pronounced supply-strong/demand-weak imbalance and operating difficulties at some firms, leaving the foundation for steady improvement needing consolidation. For the next phase it called for accelerating the shift from old to new growth drivers, intensifying countercyclical policy, expanding domestic demand, optimizing supply, and safeguarding and improving livelihoods to boost development momentum and social vitality.
+
+---
+
+### 2026-08-17 15:15:02  #市場
+
+【國債期貨收盤】 30年期主力合約跌0.11%， 10年期主力合約基本持平， 5年期主力合約漲0.01%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-08-17 15:14:48  #MKT News #Macro & Rates #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+【Fed short-term Treasury holdings hit record high — does this represent easing?】Hoisington data show the Fed's Treasury holdings rose about $290bn from December 2025 to end-June 2026, a seven-month increase approaching the roughly $320bn seen during the pandemic; total holdings are at a record high. The rise partly reflects reserve-management purchases to keep reserves ample and partly reinvestment of maturing MBS principal — the latter reshapes asset mix rather than equivalently expanding the balance sheet. The NY Fed began reserve-management purchases at $40bn/month and trimmed them to $10bn/month by summer. NY Fed research concludes these buys have raised demand for short-term debt, eased repo-market stress and marginally lowered short-end funding costs, but are far smaller than 2020 QE, when the Fed bought nearly $2trn of medium- and long-term Treasuries. The flow indicates only that runoff has ended and the Fed is again a material buyer of short-dated debt; it does not constitute QE or yield-curve control.
+
+---
+
+### 2026-08-17 15:14:33  #Trading Economics #Economy #Czech Republic #Producer Prices Change #Importance 1
+
+Czechia Producer Prices Rise for Fourth Month — Producer prices in the Czech Republic rose 1.6% year-on-year in July 2026 from 1.3% in the previous month, marking a fourth consecutive month of annual growth after fourteen months of decline. Costs increased for manufactured products (3.2% vs 2.8% in June), particularly basic metals (4.7% vs 3.1%) and machinery and equipment (1.2% vs 0.7%). At the same time, deflation eased slightly for electricity, gas, steam, and air conditioning (-3.9% vs -4.4%). Meanwhile, prices slowed for mining and quarrying (1.9% vs 2.1%), while remaining steady for water supply, sewerage, waste management, and remediation services at 3.9%. On a monthly basis, producer prices rose 0.3% in July, rebounding from a 0.4% decline in June.
+
+---
+
+### 2026-08-17 15:14:30  #公司 #國際
+
+【Alphabet擬在澳大利亞首次發債，計劃募資約36億美元】8月17日，據報道，谷歌母公司Alphabet計劃在澳大利亞首次發行債券，擬募資約50億澳元（約36億美元），或發行4個期限的債券，其中最長期限可能達到20年，最早於當地時間8月18日公佈初步發行指導價。Alphabet本月早些時候已在美國美元債市場發行250億美元債券，今年以來還發行了瑞士法郎、英鎊、歐元、加元和日元債券。
+
+---
+
+### 2026-08-17 15:14:07  #其他
+
+【國家統計局：1-7月投資新動能增勢良好，結構調整持續推進】國家統計局投資司張剛解讀2026年1—7月份投資資料。1—7月份，隨著新質生產力快速發展、新舊動能平穩接續轉換，技術創新與產業升級等相關領域投資保持良好增長態勢，帶動投資結構不斷向新向優。新興產業加快培育壯大，高技術產業投資增速加快。1—7月份，高技術產業投資同比增長5.0%，增速比上半年加快0.4個百分點，拉動全部投資增長0.5個百分點。“兩新”政策效應持續顯現，人工智慧算力建設佈局持續加快，帶動裝置購置投資保持較快增長。1—7月份，裝置工器具購置投資同比增長9.0%，增速比上半年加快0.9個百分點；拉動全部投資增長1.5個百分點；佔全部投資的比重為19.1%，比上年同期提高2.8個百分點。
+
+---
+
+### 2026-08-17 15:13:15  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-08-17 15:12:41  #其他
+
+【國家統計局：1-7月消費市場穩定增長，服務消費需求持續釋放】國家統計局貿經司首席統計師袁彥解讀1—7月份消費市場資料。今年以來，擴內需、促消費政策措施持續落地見效，我國消費市場規模穩步擴大、發展質量不斷提升。商品零售擴容升級，服務零售創新拓展，網上零售保持較快增長，消費新業態新模式活力迸發。1—7月份，社會消費商品和服務零售總額同比增長2.6%；其中服務零售額增長5.0%，增速高於商品零售額3.9個百分點。近三年，服務零售增速持續快於商品零售，消費市場從商品消費主導邁向商品和服務並重的特徵明顯。居民消費需求日益個性化、多樣化、品質化，消費市場更趨多元豐富，我國超大規模市場優勢不斷彰顯。
+
+---
+
+### 2026-08-17 15:12:35  #Trading Economics #Economy #China #Retail Sales YoY #Importance 2
+
+China Retail Sales Growth Unexpectedly Slows — China’s retail sales rose 0.6% year-on-year in July 2026, slowing from 1% growth in June and falling well short of expectations for a 1.5% increase. Weak big-ticket spending continued to weigh on consumption, with automobile sales plunging 17.0%, while petroleum products fell 7.6%, furniture declined 8.8%, and building materials dropped 14.2%. In contrast, communication equipment sales jumped 20.4%, while tobacco and alcohol rose 6.0%, cosmetics increased 6.8%, and food products gained 5.3%. By segment, catering revenue increased 1.4%, while retail sales of goods rose 0.5%. Online retail sales of goods increased 4.6% in the first seven months. On a monthly basis, retail sales rose 0.06%, following a 0.35% gain in the previous period. From January to July, total retail sales rose 1.2%, while sales excluding automobiles increased 2.7%.
+
+---
+
+### 2026-08-17 15:12:29  #經濟數據 #中國
+
+【國家統計局：1—7月份限額以上單位糧油食品、飲料、菸酒類零售額分別增長7.2%、5.6%和12.4%】國家統計局表示，1—7月份，商品零售額同比增長1.1%，增速與上半年持平。限額以上單位中，超六成商品類別零售額實現增長，近四成商品類別零售額增速超過5%。基本生活類商品銷售增勢平穩，限額以上單位糧油食品、飲料、菸酒類零售額分別增長7.2%、5.6%和12.4%。
+
+---
+
+### 2026-08-17 15:12:15  #其他
+
+【捷佳偉創二代全自動填孔VCP電鍍線成功出貨】近日，捷佳偉創自主研發的二代全自動填孔VCP電鍍裝置正式完成出貨交付。此次推出的二代全自動填孔VCP電鍍裝置，在一代機型的成熟應用基礎上完成了數十項關鍵效能升級。
+
+---
+
+### 2026-08-17 15:12:08  #公司
+
+【東方證券：維持貴州茅臺“買入”評級，i茅臺成為核心增量】東方證券研報指出，貴州茅臺26H1實現歸母淨利潤445.2億元，同比下降1.95%，26Q2實現歸母淨利潤172.7億元，同比下降6.9%。渠道改革驅動直銷高增，i茅臺成為核心增量。預計主要系公司推進“全面向C”改革、飛天標品向線上自營渠道集中所致。26H1末國內/國外經銷商數量2307/119家，較25年末淨減少46/7家，國內變動主要為系列酒經銷商。上半年公司深化“全面向C”市場化改革，年內兩度上調飛天i茅臺平臺零售價與銷售合同價，動態調價機制與“自售+經銷+代售”體系初步成型；上半年茅臺酒、系列酒基酒產量分別為4.1/3.1萬噸，優質穩產延續。預計提價對報表端的增厚將逐步體現，中長期看公司“稀缺性+強品牌+高壁壘”的護城河依然穩固。考慮商務消費復甦程序略低於預期，略下調盈利預測，預計公司2026-2028年歸母淨利潤分別為835、884、933億元（原預測為865、918、969億元），延續FCFF估值法，預測目標價為1634.11元，維持“買入”評級。
+
+---
+
+### 2026-08-17 15:11:45  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Copper
+
+【NBS: July auto manufacturing value-added +8.7% YoY】China NBS data: among 41 major sectors in July, 25 showed YoY gains. Notable YoY changes — coal mining and washing -10.8%; oil & gas extraction +6.1%; agricultural and food processing +3.8%; beverages and refined tea +2.6%; textiles +2.3%; chemical raw materials and chemical products -1.2%; non-metallic mineral products -3.3%; ferrous metal smelting & rolling +0.3%; non-ferrous smelting & rolling -2.5%; general equipment manufacturing +9.5%; special equipment +12.6%; automobile manufacturing +8.7%; rail/ship/aerospace & other transport equipment +13.6%; electrical machinery & apparatus +8.8%; computer, communications & other electronic equipment +19.1%; power and heat production & supply +5.3%.
+
+---
+
+### 2026-08-17 15:11:27  #經濟數據 #中國
+
+【國家統計局：2026年7月中國平板玻璃產量7598萬重量箱 同比下降3.6%】國家統計局釋出的2026年7月規模以上工業生產主要資料，2026年7月中國平板玻璃產量7598萬重量箱，同比下降3.6%；1—7月累計產量51942萬重量箱，同比下降6.2%。
+
+---
+
+### 2026-08-17 15:11:03  #MKT News #Commodities #Energy #Copper #Impact bullish
+
+【NEA urges acceleration of large wind and PV base construction】China's National Energy Administration, after its July monthly renewable-power dispatch video meeting, instructed local energy authorities to fully implement the minimum renewable-consumption share and renewable-power absorption responsibility-weighting measures and to coordinate with MIIT, housing and transport departments to prepare regional absorption implementation plans. Authorities must ensure key energy-intensive sectors meet consumption targets, strengthen monitoring and assessment, and enforce green-consumption responsibilities. The NEA called for accounting of baseline, economic and strategic factors, balancing reasonable project returns with system operating costs, and setting renewable-utilization targets scientifically. It said large interconnections (big-grid absorption) should remain the primary route, while promoting green-power direct links, source‑grid‑load‑storage integration and non-grid consumption to raise renewable absorption. The agency ordered an acceleration of large wind and photovoltaic base projects and the expedited development of offshore wind, centralized onshore wind and PV, concentrated solar power and distributed renewable projects, urging faster preparatory work and earlier construction starts to deliver physical output.
 
 ---
 
@@ -19575,503 +19875,5 @@ Ukrainian government says remaining Black Sea ports in the Greater Odesa region 
 ### 2026-08-14 19:27:40  #國際
 
 伊朗革命衛隊週五表示，其使用一套新型防空系統在霍爾木茲甘省上空擊落一架 MQ‑9 無人機。
-
----
-
-### 2026-08-14 19:26:22  #公司
-
-【杭州市餘杭區8個鎮街實行“五停”】杭州市餘杭區人民政府防汛防颱抗旱（防低溫雨雪冰凍）指揮部發布公告，為做好當前強降雨防範應對工作，經區防指研究，決定8月14日18時30分起在全區二級應急響應範圍內8個鎮街（餘杭街道、中泰街道、良渚街道、瓶窯鎮、徑山鎮、黃湖鎮、鸕鳥鎮、百丈鎮）有序實行“五停”措施。以上範圍內所有戶外集體活動一律停止。按照“誰主辦、誰負責、誰審批、誰監管”原則，由主辦單位負責立即通知到位，管控到位。以上範圍內所有在建工地、高溫熔爐企業及存在較高安全風險的企業，一律停工停產。其他企業要根據風雨影響情況，動態研判風險，必要時果斷停工。各企業主要負責人要親自部署，確保人員安全撤離、裝置安全停運。
-
----
-
-### 2026-08-14 19:26:22  #MKT News #000660.KS
-
-South Korean media report that SK Hynix's number of retail shareholders rose over fivefold in the past year to more than 3.46 million.
-
----
-
-### 2026-08-14 19:25:21  #MKT News #Important #Market Themes #Chip Wars #000660.KS #Impact bullish
-
-SK Hynix sharply raised equipment investment and R&D in 1H; cash outlays for tangible assets exceeded KRW 18 trillion, up more than 70% YoY.
-
----
-
-### 2026-08-14 19:24:36  #公司
-
-【浙江建投：子公司華營建築中標24.97億港元工程專案】浙江建投公告，公司子公司華營建築有限公司於近日收到中標通知書，成功中標東涌第133B區公營房屋專案，中標價24.97億港元，施工總工期1127日曆天。上述專案中標後，合同履行將對公司經營業績產生積極影響，不影響公司經營的獨立性。截至公告日，上述專案尚未簽署正式合同，專案具體內容及實施以正式合同條款為準。
-
----
-
-### 2026-08-14 19:24:17  #公司
-
-【達安基因：控股股東股權轉讓完成工商變更，廣藥資本間接控制公司16.63%股權】達安基因公告，公司控股股東廣永科技已於2026年8月13日完成工商變更登記，股東由廣州金控集團變更為廣藥資本。廣藥資本持有廣永科技100%股權，進而間接控制公司16.63%股權，成為公司間接控股股東，實際控制人仍為廣州市人民政府。協議轉讓方式受讓達安基因股份部分尚需取得深交所合規性確認及辦理過戶登記手續。
-
----
-
-### 2026-08-14 19:24:07  #MKT News
-
-【SK Group 1H pay disclosed; Chey Tae-won 1.75 bln won】SK Group chairman Chey Tae-won received 1.75 bln won in 1H from SK Inc, according to the company’s half-year report filed with the Financial Supervisory Service on Aug. 14. His 1H pay matched the prior year and comprised salary only; no bonus was paid. Vice-chairman Chey Jae-won received 1.5 bln won in the same period. SK Inc. president Jang Yong-ho received 1.8 bln won, split into 1.0 bln won salary and 0.8 bln won bonus. SK Supex Council chairman Yoon Bong-yong received 7.715 bln won, including 0.5 bln won salary, 0.8 bln won bonus and 6.415 bln won from 12,103 performance stock units granted three years earlier.
-
----
-
-### 2026-08-14 19:23:44  #MKT News
-
-South Korean media report SK Hynix's average per-employee compensation in 1H rose to KRW 144 million (about $104,000), up 23% YoY.
-
----
-
-### 2026-08-14 19:23:31  #公司
-
-【馬士基CEO出售2490萬丹麥克朗股票用於繳稅】馬士基8月14日公告顯示，公司執行長柯文勝（Vincent Clerc）13日出售1350股公司股票，平均每股價格為18447丹麥克朗，交易總額約2490萬丹麥克朗，此次出售所得用於支付與馬士基激勵計劃相關的股票轉讓稅款。
-
----
-
-### 2026-08-14 19:23:28  #國際
-
-【韓國總理會見比爾・蓋茨，探討小型模組化反應堆合作】韓國總理辦公室訊息，韓聖淑總理週五與比爾・蓋茨舉行會談，雙方就下一代小型模組化反應堆（SMR）合作以及韓美能源合作展開磋商。微軟創始人、核電企業泰拉能源創始人蓋茨已於週四抵達首爾。此行備受關注，外界預期其在韓會談將聚焦深化雙方在小型模組化反應堆領域的業務合作。
-
----
-
-### 2026-08-14 19:22:41  #公司 #國際
-
-【三星電子上半年研發投入創紀錄達27萬億韓元】週五披露的監管申報檔案顯示，2026 年上半年，三星電子研發投入創下新高，達 27.3 萬億韓元（摺合 190 億美元）。這家韓國科技巨頭 1‑6 月研發費用較去年同期的 18.06 萬億韓元增長 51.5%，創下半年度歷史最高紀錄。三星電子上半年裝置投資同樣重新整理半年度紀錄，達到 28 萬億韓元，同比增加近 5 萬億韓元。
-
----
-
-### 2026-08-14 19:22:23  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #000660.KS #Impact bullish
-
-South Korean media reported SK Hynix's sales to NVIDIA exceeded 17 trillion won in 1H this year, about 13% of the company's total sales.
-
----
-
-### 2026-08-14 19:22:00  #國際
-
-【美軍加油機佔用停機位 致以色列機場航班延誤】當地時間14日，以色列機場管理局發表宣告，將特拉維夫本-古裡安國際機場當天出現的大面積航班延誤，部分歸咎於美軍加油機的持續停放。以色列機場管理局在宣告中稱，由於夏季客流高峰、歐洲相關空域擁堵以及美軍加油機佔用停機位等多重因素，該機場在三小時內積壓了90架次航班。宣告稱，大量航班在密集時段內集中抵達，而美軍飛機的停放導致可用停機位減少，降低了機場執行靈活性，並給地勤系統帶來巨大壓力。同時，官方否認了關於“員工短缺引發延誤”的說法。（央視新聞）
-
----
-
-### 2026-08-14 19:21:40  #公司
-
-【兆威機電：2026年上半年淨利潤7464.57萬元，同比下降34.10%】兆威機電公告，2026年上半年營業收入8.16億元，同比增長3.80%。歸屬於上市公司股東的淨利潤7464.57萬元，同比下降34.10%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5418.39萬元，同比下降43.97%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:21:26  #公司 #國際
-
-【三星董事長上半年零薪酬 SK集團董事長薪酬達17.5億韓元】週五公開的監管申報檔案顯示，三星電子會長李在鎔上半年依舊未領取任何薪酬，而 SK 集團會長崔泰源錄得薪酬 17.5 億韓元（摺合 123 萬美元）。根據韓國企業當日披露的監管申報資料，李在鎔持續不從三星電子領取薪資，該慣例自 2017 年延續至今。崔泰源上半年從 SK 集團控股公司 SK 株式會社獲得 17.5 億韓元薪酬。斗山集團會長樸正元在韓國各大財閥掌門人當中薪酬最高，達 455.8 億韓元。
-
----
-
-### 2026-08-14 19:21:06  #公司
-
-【ST寧科：申請撤銷公司股票其他風險警示】ST寧科公告，公司已按照相關規定向上交所申請撤銷其他風險警示。信永中和出具專項說明，對公司2024年度財務報表出具的帶持續經營重大不確定性段落的無保留意見所涉事項已消除；公司及子公司重整計劃已執行完畢，生產經營一切正常，行政處罰事項已屆滿12個月。上交所將於收到申請後15個交易日內決定是否撤銷，稽核期間公司股票正常交易。
-
----
-
-### 2026-08-14 19:20:47  #MKT News
-
-South Korean media reported SK Group chairman Choi Tae-won received 1.75 billion won in compensation in 1H this year.
-
----
-
-### 2026-08-14 19:20:11  #公司
-
-【濮陽惠成：上半年歸母淨利潤同比下降11.92%】濮陽惠成8月14日披露半年報，公司上半年實現營業收入7.62億元，同比增長5.71%；歸屬於上市公司股東的淨利潤6222.48萬元，同比下降11.92%；基本每股收益0.21元/股。
-
----
-
-### 2026-08-14 19:19:53  #MKT News #Brent #Impact bullish #XAUUSD
-
-Ukraine's military said it struck the Ust-Luga complex in Russia's Leningrad region.
-
----
-
-### 2026-08-14 19:19:49  #公司
-
-【浩辰軟體：2026年上半年淨利潤2207.24萬元，同比下降16.89%】浩辰軟體公告，2026年上半年營業收入1.81億元，同比增長25.80%。歸屬於上市公司股東的淨利潤2207.24萬元，同比下降16.89%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1908.56萬元，同比下降16.19%。
-
----
-
-### 2026-08-14 19:19:45  #公司
-
-【平安銀行：2026年上半年淨利潤256.96億元，同比增3.3%】平安銀行公告，2026年上半年營業收入706.17億元，同比增長1.8%。歸屬於本行股東的淨利潤256.96億元，同比增長3.3%，上年同期淨利潤248.7億元。中期利潤分配方案為每10股派發現金股利2.49元（含稅）。
-
----
-
-### 2026-08-14 19:19:39  #公司
-
-【平安銀行：2026年中期擬派現48.32億元並聘任王軍為副行長】平安銀行公告稱，第十三屆董事會第七次會議審議透過多項議案。其中，2026年中期以6月30日總股本為基數，每10股派現金股利2.49元（含稅），合計派現48.32億元；2026上半年未經審計歸母淨利潤256.96億元。此外，會議同意聘任王軍為副行長，任職須報國家金融監督管理總局核准。
-
----
-
-### 2026-08-14 19:19:12  #公司
-
-【永清環保：上半年歸母淨利潤同比增長21.62%】永清環保8月14日披露半年報，公司上半年實現營業收入3.77億元，同比增長1.61%；歸屬於上市公司股東的淨利潤8724.02萬元，同比增長21.62%；基本每股收益0.1351元/股。
-
----
-
-### 2026-08-14 19:18:50  #國際
-
-卡達外交部表示，卡達堅決反對將霍爾木茲海峽用作“施壓手段”，並警告其持續關閉威脅著地區國家和全球經濟的重大利益。
-
----
-
-### 2026-08-14 19:18:40  #國際
-
-卡達強烈譴責伊朗週五在霍爾木茲海峽襲擊兩艘阿聯酋油輪的行為，呼籲無條件重新開放該水道。
-
----
-
-### 2026-08-14 19:18:39  #MKT News
-
-【Multiple overboard attempts on USS Abraham Lincoln as crew endures 250-day deployment】The Guardian reports sailors aboard the US carrier USS Abraham Lincoln have repeatedly attempted to jump overboard during a prolonged deployment. Earlier reports in Navy Times and Stars and Stripes said onboard conditions and psychological stress reached a critical point, triggering multiple overboard attempts. The carrier's crew has been at sea for 250 consecutive days without a port call, a modern record for a US carrier.
-
----
-
-### 2026-08-14 19:18:11  #國際
-
-烏克蘭稱打擊了俄羅斯烏斯特‑盧加的諾瓦泰克設施。
-
----
-
-### 2026-08-14 19:17:12  #國際
-
-以色列炮擊過後，黎巴嫩南部城鎮發生火情。
-
----
-
-### 2026-08-14 19:16:20  #公司
-
-【廣鋼氣體：擬不低於6005.42萬元掛牌出售閒置資產】廣鋼氣體公告，控股子公司河南廣鋼因原客戶河南駿化破產重整，其配套定製的空分資產已閒置。為回收投資資金，擬透過公開掛牌方式處置廠區內建（構）築物及機器裝置等資產，首次掛牌價格不低於評估值共計6005.42萬元（不含增值稅）。本次交易已獲董事會審議透過，無需提交股東會審議，不構成重大資產重組。
-
----
-
-### 2026-08-14 19:15:54  #公司
-
-【中泰化學：2026年上半年淨利潤7484.48萬元，實現扭虧為盈】中泰化學公告，2026年上半年營業收入153.66億元，同比增長10.11%。歸屬於上市公司股東的淨利潤7484.48萬元，上年同期虧損1.94億元。扣非淨利潤虧損3336.97萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:15:52  #公司
-
-【秋田微：2026年上半年淨利潤3449.66萬元，同比下降32.70%】秋田微公告，2026年上半年營業收入6.4億元，同比增長1.56%。歸屬於上市公司股東的淨利潤3449.66萬元，同比下降32.70%；扣非淨利潤3082.88萬元，同比下降34.25%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:15:25  #公司
-
-【中亦科技：2026年上半年淨利潤2301.58萬元，同比增長4.25%】中亦科技公告，2026年上半年營業收入6.6億元，同比增長74.71%。歸母淨利潤2301.58萬元，同比增長4.25%。扣非淨利潤2296.11萬元，同比增長3.95%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:15:18  #公司 #觀點
-
-【皖能集團與中金公司舉行工作會談】據皖能集團訊息，8月14日上午，皖能集團黨委副書記、總經理李明與中國國際金融股份有限公司（簡稱“中金公司”）黨委書記、董事長、管理委員會主席陳亮在能源大廈舉行工作會談。雙方圍繞資本投資運作、存量資產盤活、產融協同創新等進行了深入交流，一致認為彼此合作機遇良好、空間廣闊。下一步，雙方將加強資源、資訊、政策共享，聚焦能源行業公募REITs、基金設立運營、戰新及未來產業股權投資、企業融資、國際業務等領域，深化產融雙向賦能、互促共進，推動合作取得實效。
-
----
-
-### 2026-08-14 19:15:12  #公司
-
-【ST如意：2026年上半年淨利潤虧損9399.87萬元】ST如意公告，2026年上半年營業收入1.6億元，同比增長3.37%。淨利潤虧損9399.87萬元，上年同期虧損9572.57萬元。
-
----
-
-### 2026-08-14 19:15:09  #公司
-
-【濮耐股份：2026年上半年淨利潤1520.57萬元，同比下降77.93%】濮耐股份公告，2026年上半年營業收入26.76億元，同比下降4.21%。歸屬於上市公司股東的淨利潤1520.57萬元，同比下降77.93%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1172.9萬元，同比下降78.25%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:15:06  #公司
-
-【商務部、國家發展改革委釋出2026年農產品進口關稅配額再分配公告】商務部、國家發展改革委釋出2026年農產品進口關稅配額再分配公告。公告如下：一、持有2026年小麥、玉米、大米、棉花、食糖進口關稅配額的終端使用者，當年未就全部配額數量簽訂進口合同，或已簽訂進口合同但預計年底前無法從始發港出運的，均應將其持有的關稅配額量中未完成或不能完成的部分於9月15日前交還所在地（省、自治區、直轄市及計劃單列市、新疆生產建設兵團）發展改革委、商務主管部門。小麥、玉米、大米透過國際貿易“單一視窗”糧食進口關稅配額管理系統交還，棉花透過國際貿易“單一視窗”棉花進口配額管理系統交還，食糖透過農產品進口關稅配額管理系統交還。國家發展改革委、商務部將對交還的配額進行再分配。對9月15日前沒有交還且年底前未充分使用配額的終端使用者，國家發展改革委、商務部在分配下一年農產品進口關稅配額時對相應品種按比例扣減。二、獲得本公告第一條所列商品2026年進口關稅配額並在8月底前已全部使用完畢的終端使用者，以及符合相關分配細則所列申請條件但在年初分配時未獲得2026年進口關稅配額的新使用者，可以提出農產品進口關稅配額再分配申請。三、申請企業需在9月1日—15日向所在地（省、自治區、直轄市及計劃單列市、新疆生產建設兵團）發展改革委、商務主管部門提交再分配申請材料。四、糧食、棉花進口關稅配額再分配由申請企業於9月1日—15日透過國際貿易“單一視窗”糧食、棉花進口配額管理系統線上填寫並提交申請材料，各省、自治區、直轄市及計劃單列市、新疆生產建設兵團發展改革委於9月18日前轉報國家發展改革委並抄報商務部。食糖進口關稅配額再分配由各省、自治區、直轄市及計劃單列市、新疆生產建設兵團商務主管部門於9月1日—15日接收企業申請材料（申請表見附件），並將再分配申請表中所包含的資訊上傳至農產品進口關稅配額管理系統進行網上申報，9月18日前將彙總後的再分配申請材料以書面形式轉報商務部。五、國家發展改革委、商務部對使用者交還的配額按照先來先領方式進行再分配，9月30日前將關稅配額再分配量分配到終端使用者。六、再分配關稅配額的有效期等其他事項按照《農產品進口關稅配額管理暫行辦法》及相關安排、分配細則執行。
-
----
-
-### 2026-08-14 19:14:22  #公司
-
-【報喜鳥：2026年上半年營收26.29億元 淨利潤同比增47.71%】報喜鳥公告稱，2026年上半年，公司實現營業收入26.29億元，同比增長9.96%；歸屬於上市公司股東的淨利潤2.91億元，同比增長47.71%；扣除非經常性損益的淨利潤2.03億元，同比增長25.11%；經營活動產生的現金流量淨額3.06億元，同比增長223.42%。報告期末，公司總資產69.93億元，較上年度末減少2.16%；歸屬於上市公司股東的淨資產46.83億元，較上年度末增加0.94%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:14:15  #其他
-
-SAFRAS：截至8月12日，巴西2026/27年度咖啡採收完成90%。
-
----
-
-### 2026-08-14 19:14:05  #Trading Economics #Economy #Israel #Inflation Rate #Importance 1
-
-Israel Inflation Slows Further — Israel’s annual inflation rate eased to 1.5% in July 2026, down from 1.6% in June and remaining comfortably within the central bank’s 1%-3% target range. The latest reading marked the lowest inflation rate since May 2021, as price pressures moderated across several categories. Inflation slowed for food, including vegetables (1.4% vs 1.6%), housing (3.9% vs 4.2%), dwelling maintenance (1.6% vs 1.8%), health (1.6% vs 1.8%), and education, culture and entertainment (1.3% vs 1.4%). Meanwhile, deflation deepened for transport (-0.4% vs -0.3%), furnishings (-4.1% vs -3.7%), and clothing and footwear (-6.3% vs -5.9%). On a monthly basis, consumer prices rose 0.3%, following a flat reading in June.
-
----
-
-### 2026-08-14 19:13:53  #公司
-
-【星網銳捷：擬以3.96億元現金收購廣州芯德46%股權】星網銳捷公告，公司擬以現金方式收購陳春明、饒東盛、蔣曉敏合計持有的廣州芯德通訊科技有限公司46%股權，交易價格確定為3.96億元。本次交易完成後，公司將持有廣州芯德67%的股權，廣州芯德成為公司控股子公司。交易設定業績承諾，業績承諾方承諾2026年、2027年目標公司扣非後歸母淨利潤分別不低於7500萬元、8000萬元。
-
----
-
-### 2026-08-14 19:13:51  #國際
-
-印尼金融監管機構：新商品交易所實施細則將於9月17日完成，新交易所旨在減少轉讓定價行為。
-
----
-
-### 2026-08-14 19:11:43  #公司
-
-【達實智慧：2026年上半年淨利潤虧損1819.83萬元】達實智慧公告，2026年上半年營業收入10.92億元，同比增長10.24%。歸屬於上市公司股東的淨利潤虧損1819.83萬元，上年同期虧損8876.33萬元，虧損幅度收窄。
-
----
-
-### 2026-08-14 19:11:39  #公司
-
-【盛航股份：2026年上半年淨利潤7258.67萬元，同比增33.92%】盛航股份公告，2026年上半年營業收入8.02億元，同比增長12.51%。歸屬於上市公司股東的淨利潤7258.67萬元，同比增長33.92%，上年同期淨利潤5420.24萬元。
-
----
-
-### 2026-08-14 19:11:37  #其他
-
-【“白海豚”殘餘環流仍有影響 今夜到明天多地有大到暴雨】“白海豚”殘餘環流將逐漸東移入海，今天夜間到明天，江蘇、上海、浙江、福建、廣東等地仍將有強降雨，明天夜間開始降雨減弱。同時，今天末伏開啟，新疆、四川盆地高溫頻繁，17日後副熱帶高壓西伸增強，江南等地高溫天氣也將增多。
-
----
-
-### 2026-08-14 19:10:56  #國際
-
-印度證券交易委員會：線上債券平臺服務商框架迎來調整。
-
----
-
-### 2026-08-14 19:10:08  #公司
-
-【今飛凱達：2026年上半年淨利潤4955.21萬元，同比增9.36%】今飛凱達公告，2026年上半年營業收入30.57億元，同比增長18.25%。歸母淨利潤4955.21萬元，同比增長9.36%；扣非淨利潤2964.14萬元，同比增長10.56%。
-
----
-
-### 2026-08-14 19:09:58  #公司
-
-【中利集團：2026年上半年扭虧為盈，淨利潤1.15億元】中利集團公告，2026年上半年營業收入14.78億元，同比增長76.57%。歸屬於上市公司股東的淨利潤為1.15億元，上年同期虧損7121.7萬元，實現扭虧為盈。扣非淨利潤虧損8467.37萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:09:53  #公司
-
-【眾興菌業：2026年上半年淨利潤1.91億元，同比增長176.51%】眾興菌業公告，2026年上半年營業收入10.85億元，同比增長19.55%。歸屬於上市公司股東的淨利潤1.91億元，同比增長176.51%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.68億元，同比增長207.93%。利潤分配預案為每10股派發現金紅利1.5元（含稅）。
-
----
-
-### 2026-08-14 19:09:49  #公司
-
-【衛星化學：2026年上半年淨利潤62.27億元，同比增126.94%】衛星化學公告，2026年上半年營業收入307.13億元，同比增長30.92%。歸屬於上市公司股東的淨利潤62.27億元，同比增長126.94%。歸屬於上市公司股東的扣除非經常性損益的淨利潤60.53億元，同比增長109.01%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-14 19:09:09  #公司
-
-【晶科能源中標國家能源湖南公司兩大光伏專案】據晶科能源訊息，近日，晶科能源中標國家能源湖南公司2026年（第一批次）光伏元件採購，將為鷺滋湖漁光互補發電專案、正陽（楊橋）複合型光伏發電專案供應133.36MW高效元件。
-
----
-
-### 2026-08-14 19:09:04  #公司
-
-【新能股份：2026年上半年營收4.05億元 淨利潤同比降74.4%】新能股份公告稱，2026年上半年營收4.05億元，同比增長20.69%；歸屬於上市公司股東的淨利潤2883.99萬元，同比下降74.40%。扣非後淨利潤扭虧為盈，主要因原有軸承業務已完全剝離，置入的新能源業務盈利能力較好。此外，公司控股股東變更為寧夏電力投資集團有限公司；寶塔石化所持公司股份比例降至17.43%；公司控股股東增持計劃已完成；公司股票撤銷退市風險警示，證券簡稱變更為“新能股份”；選舉田林為董事長；調整了組織架構。
-
----
-
-### 2026-08-14 19:08:47  #公司
-
-【國能日新：2026年上半年淨利潤7011.99萬元，同比增52.52%】國能日新公告，2026年上半年營業收入3.52億元，同比增長9.66%。歸屬於上市公司股東的淨利潤7011.99萬元，同比增長52.52%；扣非淨利潤5113.29萬元，同比增長17.59%。公司擬向全體股東每10股派發現金紅利1.6元（含稅）。
-
----
-
-### 2026-08-14 19:08:43  #公司
-
-【華是科技：擬以3億元收購傲星科技30%股權】華是科技公告，公司擬以自有資金3億元購買江西傲星科技有限公司30%股權，標的公司評估增值率256.10%。本次交易不構成重大資產重組，已獲董事會審議透過，尚需提交股東會審議。交易完成後，傲星科技將成為公司參股子公司。
-
----
-
-### 2026-08-14 19:08:15  #公司
-
-【齊峰新材：2026年上半年淨利潤7954萬元，同比增長26.10%】齊峰新材公告，2026年上半年營業收入16.66億元，同比下降0.81%；歸屬於上市公司股東的淨利潤7954萬元，同比增長26.10%；歸屬於上市公司股東的扣除非經常性損益的淨利潤7099.57萬元，同比增長39.13%。公司擬以現有總股本5.6億股為基數，向全體股東每10股派發現金紅利1元（含稅）。
-
----
-
-### 2026-08-14 19:08:07  #公司
-
-【齊心集團：2026年上半年淨利潤7677.39萬元，同比下降12.25%】齊心集團公告，2026年上半年營業收入48.12億元，同比增長0.81%。歸母淨利潤7677.39萬元，同比下降12.25%。扣非淨利潤7363.06萬元，同比下降7.68%。利潤分配預案為每10股派發現金紅利0.70元（含稅）。
-
----
-
-### 2026-08-14 19:08:05  #公司
-
-【*ST納川：2026年上半年淨利潤虧損8268.38萬元】*ST納川公告，2026年上半年營業收入6684.74萬元，同比增長88.10%。淨利潤虧損8268.38萬元，上年同期虧損7666.42萬元。
-
----
-
-### 2026-08-14 19:07:36  #公司
-
-【龍淨環保：對紫金財務公司進行風險評估 目前業務無重大風險】龍淨環保公告稱，公司對紫金礦業集團財務有限公司進行持續風險評估。財務公司註冊資本10.03億元，截至2026年6月30日，資產總額381.09億元、負債總額355.48億元、淨資產25.61億元。2026年1 - 6月營業收入1.72億元、淨利潤1.08億元。各項監管指標均符合要求，公司未與其開展業務。公司將每半年評估並披露報告，獨立董事及公司均認為財務公司風險管理無重大缺陷，關聯金融業務風險低。
-
----
-
-### 2026-08-14 19:07:20  #其他
-
-【北交所本週對23起涉及拉抬打壓、虛假申報等異常交易情形採取自律監管措施】記者從北交所獲悉，2026年8月10日至8月14日，北交所將退市風險警示股票“*ST田野”（920023）、“*ST同輝”（920090）、“*ST康樂”（920575）列為重點監控股票；對23起證券異常交易行為採取自律監管措施，涉及拉抬打壓、虛假申報等異常交易情形。
-
----
-
-### 2026-08-14 19:07:04  #公司
-
-【龍淨環保：2026年上半年淨利潤5.57億元，同比增25.02%】龍淨環保公告，2026年上半年營業收入53.84億元，同比增長14.96%。歸屬於上市公司股東的淨利潤5.57億元，同比增長25.02%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5.22億元，同比增長25.42%。
-
----
-
-### 2026-08-14 19:06:57  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Finishes Marginally Down — India’s BSE Sensex closed marginally down at 78,009.25 on Friday, the lowest level since July 30, reversing gains from the prior day. Investors stayed cautious amid persistent Middle East tensions, elevated crude oil prices and renewed foreign outflows. Bharti Airtel led gainers, up 2.5%, followed by Adani Ports (1.8%). ICICI Bank, Titan, M&M and HDFC Bank also advanced, rising 0.6%, 0.6%, 0.4% and 0.1%, respectively. Asian Paints was the biggest laggard, falling 1.7%. IndiGo declined 1.4%, NTPC lost 1.2%, Power Grid fell 1.1% and Tech Mahindra dropped 0.9%. Reliance Industries fell 0.6%, partly weighed down by MSCI’s decision to reduce its weight in the flagship index as part of its periodic review. The benchmark index recorded a weekly decline of about 0.6%.
-
----
-
-### 2026-08-14 19:06:42  #其他
-
-公共投資基金（PIF）：公共投資基金是電動方程式（Formula E）的首席合作伙伴。
-
----
-
-### 2026-08-14 19:06:11  #公司
-
-【匯綠生態：2026年上半年淨利潤2708.96萬元，同比下降27.79%】匯綠生態公告，2026年上半年營業收入10.37億元，同比增長49.01%。歸屬於上市公司股東的淨利潤2708.96萬元，同比下降27.79%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2400.24萬元，同比下降21.47%。公司擬向全體股東每10股派發現金紅利0.2元（含稅）。
-
----
-
-### 2026-08-14 19:05:59  #公司
-
-【北京文化：2026年半年度淨利潤虧損3920.48萬元】北京文化公告，2026年半年度營業收入9746.86萬元，同比下降38.22%。歸屬於上市公司股東的淨利潤虧損3920.48萬元，上年同期虧損2.33億元。
-
----
-
-### 2026-08-14 19:05:43  #公司
-
-【新雷能：擬定增募資不超過17.87億元用於製造基地建設等專案】新雷能公告，公司擬向特定物件發行A股股票，發行物件不超過35名，募集資金總額不超過17.87億元，扣除發行費用後用於深圳雷能製造基地建設專案（投入134,482.99萬元）、北京電機及控制器產業化專案（投入6,675.26萬元）及補充流動資金專案（投入37,500.00萬元）。發行價格不低於發行期首日前20個交易日公司股票均價的80%，發行數量不超過1.62億股。本次發行不會導致公司控制權發生變化。
-
----
-
-### 2026-08-14 19:05:03  #公司
-
-【中望軟體：2026年上半年淨利潤虧損1725.28萬元】中望軟體公告，2026年上半年營業收入3.6億元，同比增長7.92%。淨利潤虧損1725.28萬元，上年同期淨利潤虧損5240.59萬元。
-
----
-
-### 2026-08-14 19:05:01  #公司 #觀點 #國際
-
-【大摩Q2持倉：加碼美光科技等AI硬體鏈，減持標普與傳統行業標的】根據美國證券交易委員會(SEC)披露，摩根士丹利遞交了截止至2026年6月30日的第二季度持倉報告(13F)。整體來看，大摩持倉變化呈現出“維持核心科技主線、降低指數化敞口、強化主動精選能力”的特徵。據統計，大摩第二季度持倉總市值為1.89萬億美元，上一季度總市值為1.66萬億美元，環比上升13.9%。該基金在第二季度的投資組合中新增了449只個股，增持了3850只個股，減持了3280只個股，清倉了334只個股。其中前十大持倉標的佔總市值的21.09%。
-
----
-
-### 2026-08-14 19:04:27  #公司
-
-【梅花生物：2026年上半年淨利潤6.62億元，同比降62.56%】梅花生物公告，2026年上半年營業收入122.35億元，同比下降0.37%。歸屬於上市公司股東的淨利潤6.62億元，同比下降62.56%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4.51億元，同比下降72.28%。
-
----
-
-### 2026-08-14 19:03:23  #市場
-
-【SK海力士美股盤前漲超2%】SK海力士美股盤前漲超2%，現報169.041美元。
-
----
-
-### 2026-08-14 19:02:41  #公司
-
-【神州資訊：全資子公司以100萬元轉讓旗碩科技22.22%股權】神州資訊公告，公司全資子公司中農信達擬以人民幣100萬元向祥碩投資轉讓其所持有的控股子公司旗碩科技22.22%股權。本次交易完成後，公司透過中農信達間接持有旗碩科技18.5890%股權，旗碩科技將不再納入公司合併報表範圍。該事項已於2026年8月14日經公司第十屆董事會2026年第六次臨時會議審議透過。
-
----
-
-### 2026-08-14 19:02:23  #公司 #市場 #國際
-
-【瑞銀Q2狂買美光與納指Call，增持禮來Call、指數Put】根據美國證券交易委員會(SEC)披露，國際金融巨頭瑞銀集團遞交了截至2026年6月30日的第二季度美股市場持倉報告(13F)。據統計，瑞銀第二季度持倉總市值為7900億美元，上一季度總市值為6700億美元，意味著持倉規模接近萬億美元級別的瑞銀美股持倉在股市獲利了結拋壓升溫的二季度期間環比大幅增長18%。該金融巨頭在第二季度的投資組合中新增了1281只個股持倉，增持了4272只個股，減持了4416 只個股，清倉了1282 只個股。其中前十大持倉標的佔總市值的大約13%。
-
----
-
-### 2026-08-14 19:01:01  #國際
-
-印尼2027年擬引資2322萬億印尼盾。
-
----
-
-### 2026-08-14 19:00:57  #市場
-
-【Nu Holdings美股盤前漲超10%】Nu Holdings美股盤前漲超10%，現報15.33美元。
-
----
-
-### 2026-08-14 19:00:40  #MKT News
-
-Israel July consumer price index rose 1.5% YoY, versus forecast 1.6%.
-
----
-
-### 2026-08-14 19:00:37  #宏觀
-
-【多項新標準獲批 今年我國民生計量能力建設呈現“量質齊升”態勢】記者今天瞭解到，2026年1月至7月，市場監管總局新批准建立計量標準36項，較去年同期增長33.3%；新批准建立國家標準物質704項，較去年同期增長73.8%；新批准建立國家計量技術規範27項。（央視新聞）
-
----
-
-### 2026-08-14 19:00:23  #公司
-
-【聯瑞新材：2026年半年度淨利潤1.49億元，同比增7.48%】聯瑞新材公告，2026年半年度營業收入6.29億元，同比增長21.21%。歸屬於上市公司股東的淨利潤1.49億元，同比增長7.48%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.33億元，同比增長4.42%。公司2026年半年度擬向全體股東每10股轉增3股。
-
----
-
-### 2026-08-14 19:00:07  #市場 #國際
-
-以色列7月消費者價格同比上漲1.5%；預計+1.5%。
-
----
-
-### 2026-08-14 18:59:54  #其他
-
-肯亞擬與義大利、西班牙開展債務換髮展置換交易。
-
----
-
-### 2026-08-14 18:59:42  #其他
-
-金沙中國上半年淨營收38.8億美元。
-
----
-
-### 2026-08-14 18:59:19  #公司
-
-【福元醫藥：2026年上半年淨利潤1.86億元，同比下降30.49%】福元醫藥公告，2026年上半年營業收入17.1億元，同比增長4.66%。歸屬於上市公司股東的淨利潤1.86億元，同比下降30.49%，上年同期淨利潤2.68億元。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.7億元，同比下降34.03%。
-
----
-
-### 2026-08-14 18:59:13  #MKT News #Important
-
-【Shenzhen Stock Exchange places LanDun Optoelectronics under heightened surveillance after severe recent price swings】Aug 10-14, 2026 — Shenzhen Stock Exchange said it took self-regulatory measures in 114 abnormal trading cases, citing intraday price manipulation and false orders. The bourse placed LanDun Optoelectronics under heightened monitoring for recent severe price volatility, opened eight probes into material corporate events and referred two suspected violations to the CSRC.
-
----
-
-### 2026-08-14 18:58:52  #公司
-
-【利元亨：2026年上半年淨利潤3895.01萬元，同比增長16.58%】利元亨公告，2026年上半年營業收入19.6億元，同比增長28.18%。歸屬於上市公司股東的淨利潤3895.01萬元，上年同期3341.02萬元，同比增長16.58%。歸屬於上市公司股東的扣除非經常性損益的淨利潤3768.47萬元，同比增長33.11%。
-
----
-
-### 2026-08-14 18:58:48  #公司
-
-【九州一軌：持股5%以上股東完成減持2.06%股份】九州一軌公告稱，2026年8月12日至8月14日，持股5%以上股東軌交基金透過集中競價和大宗交易方式合計減持公司股份3099473股，佔公司總股本的2.0623%，減持總金額1.78億元。減持後，軌交基金持有公司股份9298604股，佔公司總股本的6.19%。本次減持計劃已實施完畢，不觸及要約收購，不會對公司治理結構及持續經營產生重大影響。
-
----
-
-### 2026-08-14 18:58:35  #公司 #市場
-
-【CPO概念股集體大漲 主力資金持續加碼】7月31日以來，光模組（CPO）指數累計漲幅高達40.33%，多隻成份股股價實現大漲，主力資金本週出手加碼。據證券時報·資料寶統計，本週（8月10日至14日），A股市場共計75股主力資金淨流入超過3億元。新易盛、C超純、天孚通訊、網宿科技、蓮花控股排名前五，獲淨流入金額依次為34.92億元、24.26億元、22.80億元、15.73億元和10.46億元。本週97股主力資金淨流出金額在3億元以上。勝宏科技居首，淨流出額高達33.03億元；京東方A、雲南鍺業、東方財富、中際旭創、滬電股份淨流出額均在20億元以上。
-
----
-
-### 2026-08-14 18:58:31  #國際
-
-一位伊朗議員呼籲政府緊急採取行動，解決霍爾木茲甘省長長的汽油排隊問題，他表示燃料問題正在擾亂居民的日常生活。
 
 ---
