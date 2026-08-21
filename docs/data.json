@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-21 08:12:41",
-  "count": 16031,
+  "updated": "2026-08-21 08:16:44",
+  "count": 16034,
   "items": [
+    {
+      "id": "5050910",
+      "time": "2026-08-21 08:15:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：AI資料初創企業Micro1的年度總營收達到5億美元。"
+    },
+    {
+      "id": "5050909",
+      "time": "2026-08-21 08:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 黃海南部實彈射擊】據中國海事局網站訊息，鹽城海事局釋出航行警告，8月21日至24日每天7時30分至次日1時，黃海南部部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "5050908",
+      "time": "2026-08-21 08:13:33",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【俄羅斯今年減持160萬盎司黃金 儲備降至2020年以來最低水平】俄羅斯央行繼續出售黃金儲備。截至7月底，其黃金持有量已降至六年多來的最低水平。俄羅斯央行週四公佈的資料顯示，截至8月1日，該國黃金儲備較年初減少160萬盎司，降至7,320萬盎司，為2020年1月以來最低水平。資料顯示，過去七個月，該行黃金儲備價值減少337億美元。"
+    },
+    {
+      "id": "5050907",
+      "time": "2026-08-21 08:12:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "迅銷集團股價下跌3.8%。"
+    },
+    {
+      "id": "mkt:01a021a9-6f3b-7aab-90c3-88860e1a4498",
+      "time": "2026-08-21 08:12:27",
+      "tags": [
+        "MKT News",
+        "9983.T"
+      ],
+      "text": "Fast Retailing shares fell 3.8%."
+    },
     {
       "id": "mkt:01a021a9-192e-7aab-90c3-8512e62bb7e1",
       "time": "2026-08-21 08:12:05",
@@ -146700,27 +146745,6 @@
         "Impact bearish"
       ],
       "text": "【Former senior Japanese FX diplomat, ex-IMF deputy says yen intervention could recur; Bank of Japan likely to hike in September】A former senior Japanese foreign-exchange diplomat and ex-IMF deputy managing director said the yen is noticeably weak and rising import costs are damaging the economy. He warned that if the yen returns to levels seen before last month’s coordinated intervention, Japan and the US could jointly intervene in the FX market again at any time, and any action would not be tied to specific levels such as JPY160 or JPY162. He said intervention only buys time; the fundamental remedy is faster Bank of Japan tightening. He expects a BoJ hike in September, a follow-up in December or January, and a terminal policy rate around 1.5–1.75% based on a neutral rate estimate of 1.1–2.5%. Further hikes could follow in the fiscal year starting April 2027 if growth persists."
-    },
-    {
-      "id": "5040200",
-      "time": "2026-08-14 08:14:07",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日經指數上漲1.8% 電子和科技股領漲】隨著對美聯儲可能加息的擔憂緩解，日本股市在早盤交易中走高。電子和科技股領漲。松下控股上漲4.5%，軟銀集團上漲6%。美元報159.46日元，週四東京股市收盤時為159.39日元。投資者正密切關注伊朗衝突的任何進展以及原油價格。日經指數上漲1.8%，報69,523.56點。"
-    },
-    {
-      "id": "5040199",
-      "time": "2026-08-14 08:13:05",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片相關股大幅上漲， 鎧俠股價上漲6.9%，軟銀集團上漲6.2%，愛德萬測試上漲6.5%。"
     }
   ]
 }
