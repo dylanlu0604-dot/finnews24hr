@@ -1,7 +1,225 @@
 {
   "date": "2026-08-21",
-  "count": 1185,
+  "count": 1206,
   "items": [
+    {
+      "id": "mkt:01a022e8-6892-7aab-90c9-71af2d53bf3b",
+      "time": "2026-08-21 14:00:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK public sector net borrowing was £1.8bn in July, versus a forecast of £0.0bn and a prior reading of £16.0bn."
+    },
+    {
+      "id": "mkt:01a022e8-475c-7aab-90c9-6856e019aa69",
+      "time": "2026-08-21 14:00:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai FTZ Lingang New Area targets 7.5% annual GDP growth in 15th Five-Year Plan】Shanghai Free Trade Zone’s Lingang New Area sets a 15th Five-Year Plan target of 7.5% annual GDP growth, maintains R&D spending above 6% of GDP and adds 70 nationally first-of-a-kind institutional innovations. The plan commits to piloting offshore finance and expanding/iterating the cross‑border data negative list and operational guidelines. By the end of the plan it aims to form three manufacturing clusters at CNY100+ bln scale; by 2030 it targets industrial output above CNY650 bln. Sector targets: integrated circuits CNY120+ bln (wafer fabrication and high-end packaging/testing-led, full-chain design, equipment and materials), smart vehicles CNY300+ bln (focus on vehicle intelligence), and high-end equipment CNY100+ bln (new energy storage and energy equipment). It also projects bonded-repair import‑export turnover of CNY100 bln and offshore resale trading turnover of USD50 bln."
+    },
+    {
+      "id": "mkt:01a022e8-4012-7aab-90c9-61b271b871aa",
+      "time": "2026-08-21 14:00:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Public Sector Net Borrowing (Jul) | actual 1800000000B | consensus 0B | previous 16000000000B"
+    },
+    {
+      "id": "5051335",
+      "time": "2026-08-21 14:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國7月政府收支短差 -290.06億英鎊，前值 152億英鎊。英國7月公共部門淨借款 18億英鎊，預期 0億英鎊，前值 160億英鎊。"
+    },
+    {
+      "id": "mkt:01a022e7-f237-7aab-90c9-5982b180a1f2",
+      "time": "2026-08-21 14:00:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK July government budget deficit £29.006 bln; prior month deficit revised to £15.635 bln from £15.2 bln."
+    },
+    {
+      "id": "5051334",
+      "time": "2026-08-21 14:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國7月零售銷售環比 -0.5%，預期 -0.5%，前值 1%。"
+    },
+    {
+      "id": "mkt:01a022e7-e93b-7aab-90c9-5384ef0bceae",
+      "time": "2026-08-21 14:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK seasonally adjusted core retail sales YoY 2.3% in July vs. expected 3.3%; June revised down to 5.0% from 5.4%."
+    },
+    {
+      "id": "mkt:01a022e7-e298-7aab-90c9-4abeaf93a440",
+      "time": "2026-08-21 14:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK July seasonally adjusted retail sales YoY 1.6% vs. 2.2% expected; June revised to 3.8% from 4.2%."
+    },
+    {
+      "id": "mkt:01a022e7-e234-7aab-90c9-45510451ac2d",
+      "time": "2026-08-21 14:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK July seasonally adjusted retail sales m/m -0.5% (expected -0.5%); June revised to 0.7% from 1.0%."
+    },
+    {
+      "id": "mkt:01a022e7-e1d3-7aab-90c9-380740c48c79",
+      "time": "2026-08-21 14:00:16",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK July seasonally adjusted core retail sales MoM -0.9% vs -0.5% expected; June revised to 0.9% from 1.1%."
+    },
+    {
+      "id": "5051333",
+      "time": "2026-08-21 14:00:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月季調後零售銷售月率 -0.5%，預期-0.50%，前值由1.00%修正為0.7%。"
+    },
+    {
+      "id": "mkt:01a022e7-a914-7aab-90c9-300fda299c46",
+      "time": "2026-08-21 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Retail Sales (YoY) (Jul) | actual 2.3% | consensus 3.30% | previous 5.40%"
+    },
+    {
+      "id": "mkt:01a022e7-a910-7aab-90c9-2e76e9ba42f8",
+      "time": "2026-08-21 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Retail Sales (MoM) (Jul) | actual -0.9% | consensus -0.50% | previous 1.10%"
+    },
+    {
+      "id": "mkt:01a022e7-a906-7aab-90c9-2070accbc6fb",
+      "time": "2026-08-21 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Sales (YoY) (Jul) | actual 1.6% | consensus 2.20% | previous 4.20%"
+    },
+    {
+      "id": "mkt:01a022e7-a8fe-7aab-90c9-1a3a324aad2c",
+      "time": "2026-08-21 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Sales (MoM) (Jul) | actual -0.5% | consensus -0.50% | previous 1.00%"
+    },
+    {
+      "id": "mkt:01a022e7-a84b-7aab-90c9-11495ed1e65e",
+      "time": "2026-08-21 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Public Sector Net Borrowing (Jul) | actual -29006000000B | previous 15200000000B"
+    },
+    {
+      "id": "5051332",
+      "time": "2026-08-21 13:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海自貿區臨港新片區“十五五”期間實現GDP年均增長7.5%】今天，上海自貿區臨港新片區釋出“十五五”規劃，全國首創性制度創新案例新增達70項，全社會研發經費佔GDP比重保持在6%以上，實現GDP年均增長7.5%，率先開展離岸金融先行先試，推動資料跨境的負面清單和操作指引迭代擴容。（央視新聞）"
+    },
+    {
+      "id": "5051331",
+      "time": "2026-08-21 13:59:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美媒稱美軍考慮將一在建航母改以特朗普命名】美國有線電視新聞網20日發表獨家報道稱，美國海軍正著手為在建航母“多里斯·米勒”號改名，可能轉而以現任美國總統特朗普命名。 報道援引3名訊息人士的話稱，自今年年初以來，美國海軍一直在推進“多里斯·米勒”號航母的更名工作。其中兩名訊息人士透露，內部討論提過將其改以特朗普命名。 報道說，美國海軍內部目前已停用“多里斯·米勒”號這一叫法，僅用艦體編號“CVN-81”來稱呼該航母。他們正在考慮以“多里斯·米勒”命名另一艘軍艦。 報道寫道，美國海軍“面臨儘快確定航母名稱的壓力”，因為該航母龍骨鋪設儀式預計將於今年年底舉行，那標誌著航母建造進入重要階段。 報道指出，美國多數現役航母都以歷任美國總統命名，並且，這些航母都沒有在其同名總統任內下水，“以現任總統名字命名一艘航母前所未有”。 美國防部就此事回應稱，目前沒有任何訊息可以公佈。 在特朗普第一個總統任期內，美國海軍宣佈將“CVN-81”航母命名為“多里斯·米勒”號，以紀念1941年珍珠港事件中使用機槍射擊日軍飛機的非裔士兵多里斯·米勒。該航母預計2034年交付。(新華社)"
+    },
+    {
+      "id": "5051330",
+      "time": "2026-08-21 13:58:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度靛藍航空官網部分使用者無法訂票，本週已第二次出現該問題。"
+    },
+    {
+      "id": "5051329",
+      "time": "2026-08-21 13:58:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4610美元/盎司，日內漲0.85%。"
+    },
+    {
+      "id": "te:markets:577113",
+      "time": "2026-08-21 13:57:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends Higher, Posts 3rd Weekly Gain — New Zealand stocks advanced 53 points, or 0.4%, to 13,973 on Friday, reversing morning losses and erasing the previous session’s losses, hitting its highest level since August 5, buoyed by gains in tech sectors, consumer staples, real estate, and communication services. Positive earnings reports during the peak corporate reporting season continued to support sentiment. However, losses in energy, materials, and industrials limited gains. A downbeat session on Wall Street on Thursday also capped the rise amid rising Treasury yields. Traders were also anticipating the release of US July PMIs and New Zealand's retail sales for Q2 due next week. On the data front, New Zealand's trade deficit widened in July, as exports rose less than imports. Among gainers were Scales Corp. (2.6%), Colonial Motor (1.6%), Fisher & Paykel (1.3%), A2 Milk (1.2%), Chorus (1.2%), and Westpac Banking Corp. (1.0%). For the week, the index rose 0.9%, marking the third consecutive weekly gain."
+    },
     {
       "id": "5051328",
       "time": "2026-08-21 13:56:21",
