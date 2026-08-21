@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-21 23:25:35",
-  "count": 16201,
+  "updated": "2026-08-21 23:29:41",
+  "count": 16199,
   "items": [
+    {
+      "id": "5052591",
+      "time": "2026-08-21 23:28:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【過去24小時加密貨幣市場合約爆倉14.86億美元 主爆空單】資料顯示，過去24小時加密貨幣市場共有177,435人被爆倉，全網合約爆倉14.86億美元，其中多單爆倉2.90億美元，空單爆倉11.96億美元。BTC爆倉總金額約8.71億美元，ETH爆倉總金額約2.99億美元。最大單筆爆倉單發生在Hyperliquid-BTC-USD價值$2359.68萬。值得注意的是，（前天）8月19日加密暴漲期間市場爆倉金額達29.87億美元，位列加密市場歷史爆倉事件第八位。CoinGlass將此次事件背景標註為“美債回購及SEC加密監管利好”。"
+    },
+    {
+      "id": "5052590",
+      "time": "2026-08-21 23:27:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國印尼外長防長“2+2”對話機制舉行第二次部長級會議】當地時間8月21日，中國印尼外長防長“2+2”對話機制第二次部長級會議在雅加達舉行，外交部長王毅、國防部長董軍同印度尼西亞外長蘇吉約諾、防長沙夫裡共同主持，雙方進行了深入戰略溝通，達成一系列重要共識。（央視新聞）"
+    },
+    {
+      "id": "5052589",
+      "time": "2026-08-21 23:25:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4663.03美元/盎司。"
+    },
     {
       "id": "5052588",
       "time": "2026-08-21 23:24:17",
@@ -148406,51 +148430,6 @@
         "Importance 1"
       ],
       "text": "Silver Rises More than 2% This Week — Silver rebounded to around $65 an ounce on Friday after falling 1.4% in the previous session, bringing its weekly gain to more than 2%. Softer-than-expected US inflation data suggested that the impact of energy-price shocks linked to the Iran conflict eased in July, reducing pressure on the Federal Reserve to adopt a more aggressive monetary stance. Investors will now focus on upcoming US employment data and comments from Fed Chair Kevin Warsh at the Jackson Hole symposium later this month. Meanwhile, renewed tensions in the Middle East could push energy prices higher and revive inflation concerns, creating uncertainty for precious metals. Beyond monetary policy and geopolitical developments, silver continues to benefit from strong industrial demand, particularly from solar-panel production and investment in electricity grids. Chinese imports of silver-bearing ores surged 62.5% year-on-year in June to 219,000 tonnes."
-    },
-    {
-      "id": "mkt:01a000e2-cc8b-7aab-9042-2fa1a7570428",
-      "time": "2026-08-14 23:27:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's president said fuel subsidies will remain in place for three months."
-    },
-    {
-      "id": "5041805",
-      "time": "2026-08-14 23:27:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯總統：燃油補貼將持續三個月。"
-    },
-    {
-      "id": "mkt:01a000e1-ebb8-7aab-9042-259876c557c1",
-      "time": "2026-08-14 23:26:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's economy minister said fuel subsidies will begin on Saturday, applying to drivers in designated regions and to specified vehicle types."
-    },
-    {
-      "id": "5041804",
-      "time": "2026-08-14 23:26:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯經濟部長：燃油補貼將於週六啟動，補貼適用於特定區域及特定型別司機。"
-    },
-    {
-      "id": "mkt:01a000e1-65cc-7aab-9042-1b08c3219662",
-      "time": "2026-08-14 23:26:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "US Department of Justice says Amazon has agreed to pay $2.25 mln and accept injunctive relief to resolve alleged violations of the Fair Credit Reporting Act."
     }
   ]
 }
