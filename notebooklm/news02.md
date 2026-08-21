@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:56:55_
-_本檔包含 3428 則快訊，約 656013 字_
+_更新時間：2026-08-22 06:37:30_
+_本檔包含 3426 則快訊，約 656019 字_
+
+---
+
+### 2026-08-21 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.12%】Tims中國跌11.81%，萬物新生跌11.00%，愛奇藝跌9.29%，金山雲跌7.64%，亞朵集團跌7.50%。
+
+---
+
+### 2026-08-21 03:58:18  #國際
+
+市場訊息：現代汽車將提升其佐治亞州新工廠的美國本土產能。
+
+---
+
+### 2026-08-21 03:56:46  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Wells Fargo Stock Price Hits 7-week Low — Wells Fargo shares decreased to 83.70 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo lost 4.55%, and in the last 12 months, it increased 7.61%.
+
+---
+
+### 2026-08-21 03:52:49  #公司
+
+英偉達：有關該公司 LPU 的相關報道資訊有誤。
+
+---
+
+### 2026-08-21 03:51:52  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up 0.06% to 98.894 on 20th】The dollar index, which measures the dollar against six major currencies, rose 0.06% to 98.894 at the New York close. EUR/USD 1.1676 (prev. 1.1674); GBP/USD 1.3628 (prev. 1.3607); USD/JPY 159.14 (prev. 158.32); USD/CHF 0.8007 (prev. 0.7979); USD/CAD 1.3790 (prev. 1.3810); USD/SEK 9.4908 (prev. 9.4386).
+
+---
+
+### 2026-08-21 03:48:43  #市場
+
+【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.06%，在匯市尾市收於98.894。截至紐約匯市尾市，1歐元兌換1.1676美元，高於前一交易日的1.1674美元；1英鎊兌換1.3628美元，高於前一交易日的1.3607美元。1美元兌換159.14日元，高於前一交易日的158.32日元；1美元兌換0.8007瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3790加元，低於前一交易日的1.3810加元；1美元兌換9.4908瑞典克朗，高於前一交易日的9.4386瑞典克朗。
+
+---
+
+### 2026-08-21 03:48:31  #MKT News
+
+【Source says US carrier Abraham Lincoln begins return】An informed source said on Aug. 20 the nuclear-powered US carrier Abraham Lincoln has begun returning. The USS George Washington has already arrived in the Middle East to relieve Lincoln’s extended deployment. A US official said Lincoln remains in the US Navy Fifth Fleet operating area and has not yet left the CENTCOM area of responsibility. Lincoln was sent to the Middle East in January for operations against Iran and maritime interdiction and has been deployed for more than 250 days; recent reports cite crew living-condition and mental-health strains from the high operational tempo and prolonged deployment.
+
+---
+
+### 2026-08-21 03:48:02  #國際
+
+【知情人士稱美國“林肯”號航母開始返航】當地時間8月20日，據一名知情人士透露，美國海軍“亞伯拉罕·林肯”號核動力航空母艦已開始返航。此前，“喬治·華盛頓”號航母已抵達中東，以緩解“林肯”號長期部署帶來的壓力。不過，一名美國官員表示，“林肯”號目前仍處於美國海軍第五艦隊行動區，意味著其尚未離開美軍中央司令部責任區。“林肯”號航母於今年1月被調往中東，參加美軍對伊朗的軍事行動以及美軍對伊朗的海上封鎖，已部署超過250天。近期“林肯”號被曝出航母上的水兵由於高強度的作戰節奏和長期部署，存在生活條件和心理健康問題。（央視新聞）
+
+---
+
+### 2026-08-21 03:46:20  #Trading Economics #Economy #Argentina #Monthly GDP YoY #Importance 1
+
+Argentina Economic Activity Growth Accelerates in June — Argentina’s economic activity rose 2.7% year-over-year in June 2026, following an upwardly revised 0.4% increase in May. Twelve of the 15 sectors surveyed recorded annual growth, led by fishing (247.6%) and mining and quarrying (15.6%). Agriculture, livestock, hunting and forestry also increased 4.6%. In contrast, administration and defense and compulsory social security plans declined 1.5%, while utilities fell 0.4% and education decreased 0.1%. On a monthly basis, the Monthly Economic Activity Estimate rose 0.8%.
+
+---
+
+### 2026-08-21 03:44:21  #宏觀 #市場 #國際
+
+【中長期美債收益率漲約4個基點】週四（8月20日）紐約尾盤，美國10年期國債收益率漲4.35個基點，報4.6902%，北京時間10:41微跌至4.6308%重新整理日低，隨後持續走高、20:34達到4.7120%，美國財政部長貝森特“回購規模可能會超過40億美元”的論調帶來一波V形反轉行情，近期持穩於4.7%關口附近，50日均線已經上移至4.5774%。兩年期美債收益率漲1.88個基點，報4.1811%；30年期美債收益率漲3.97個基點，報5.2298%，20:34達到5.2656%，幾乎完全收復8月19日的失地、逼近8月18日頂部5.3361%。2/10年期美債收益率利差漲3.247個基點，報+50.876個基點。10年期通脹保值國債（TIPS）收益率漲0.44個基點，至2.3411%；兩年期TIPS收益率跌5.38個基點，至1.8685%；30年期TIPS收益率漲0.87個基點，至2.9660%。
 
 ---
 
@@ -20625,77 +20685,5 @@ Iran's central bank governor said assets frozen under the agreement framework re
 ### 2026-08-20 02:46:03  #MKT News #GBPUSD #Impact bullish #FTSE100 #Impact mixed
 
 Britain says it is willing to discuss its digital services tax (DST) with the United States and considers the levy on tech firms a temporary measure until a global solution is reached.
-
----
-
-### 2026-08-20 02:44:55  #市場
-
-布倫特原油期貨結算價報每桶91.62美元，上漲60美分，漲幅0.66%。
-
----
-
-### 2026-08-20 02:44:53  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $91.62 a barrel, up $0.60 or 0.66%.
-
----
-
-### 2026-08-20 02:44:37  #MKT News #Important #Market Themes #AI Revolution #S&P500 #Impact bearish #US10Y #Impact mixed #XAUUSD #Impact bullish
-
-【Fed minutes flag AI equity risk, note Treasury price-volatility risk】Fed minutes said some participants, in a financial stability discussion, flagged vulnerabilities tied to financing for rapid expansion of AI-related infrastructure. They noted elevated AI equity valuations reflect market optimism on long-term earnings and warned a sharp downgrade of those prospects could trigger broad asset repricing, tighten financial conditions and strain financial institutions with direct or indirect exposure. Two participants also discussed how heightened U.S. Treasury price volatility could harm the financial system and ways to reduce the likelihood of such events.
-
----
-
-### 2026-08-20 02:44:34  #國際
-
-【美軍稱已使65艘商船改變航線】當地時間8月19日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月19日，美軍已引導65艘商船改變航向，使3艘商船喪失航行能力，並登臨檢查了2艘商船。
-
----
-
-### 2026-08-20 02:44:30  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-Canadian Stocks Erase Gains — The S&P/TSX Composite Index erased early gains and hovered marginally below the flatline at 36,650, as losses for heavyweight banks offset gains for gold producers, while markets assessed updates to trade policy. US President Trump paused the 50% tariffs on select Canadian goods and signaled that a trade deal with Canada was soon to be agreed upon. Still, reports indicated that metals will remain tariffed. Banks led the losses even though the US Treasury doubled the buyback amount on bonds and notes to limit recent pressure on North American bond yields. BMO, TD Bank, and RBC sank more than 3%. On the other hand, gold prices surged on the drop for the dollar and yields. Miners led the gains, with Agnico Eagle, Wheaton, and Barrick up between 10% and 5%.
-
----
-
-### 2026-08-20 02:41:38  #MKT News #Market Themes #Chip Wars
-
-AI chip startup Fractile will sell about $250 mln of chips to Anthropic; post-deal Fractile plans to seek a roughly $6.5 bln valuation.
-
----
-
-### 2026-08-20 02:36:23  #國際
-
-市場資訊：面對特朗普政府不斷加大的壓力，英國政府表示願意重新審視數字服務稅。
-
----
-
-### 2026-08-20 02:33:02  #公司
-
-【晶片企業Fractile與Anthropic達成交易後尋求65億美元估值】知情人士稱，Fractile正就一輪融資進入深度談判，投前估值65億美元，本輪計劃募資約6億美元。三個月前該公司完成2.2億美元融資，由Accel、Founders Fund以及Factorial Funds風投機構領投，投後估值約10億美元。Fractile已與Anthropic達成初步協議，向後者出售價值約2.5億美元的晶片，雙方計劃未來擴大這份合同規模。
-
----
-
-### 2026-08-20 02:32:31  #MKT News
-
-【Fed minutes: supporters of a hike say move could avert larger future tightening】Fed minutes said participants stressed that incoming data will be central to policy reviews. Many warned that if inflation does not continue to fall, further policy tightening may be needed; some said current financial conditions may be insufficient to bring inflation to 2%. Several participants noted financial conditions tightened over the past two meetings, partly reflecting strong growth and market pricing of more tightening. A minority who favored raising the federal funds rate target at this meeting argued a near-term hike could reduce the risk of larger, costlier tightening later.
-
----
-
-### 2026-08-20 02:32:06  #其他
-
-Fractile新一輪6億美元融資洽談，距離其2.2億美元上輪融資僅過去三個月。
-
----
-
-### 2026-08-20 02:32:00  #其他 #焦點
-
-Anthropic與Fractile達成協議，擬採購約2.5億美元晶片。
-
----
-
-### 2026-08-20 02:31:31  #其他
-
-知情人士透露，AI晶片初創企業Fractile正在洽談融資，估值目標65億美元。
 
 ---

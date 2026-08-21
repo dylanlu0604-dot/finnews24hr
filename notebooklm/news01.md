@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:56:55_
-_本檔包含 3035 則快訊，約 656292 字_
+_更新時間：2026-08-22 06:37:30_
+_本檔包含 3050 則快訊，約 656501 字_
+
+---
+
+### 2026-08-22 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Gains by 2.84% — Top commodity gainers are Platinum (2.84%), Gold (2.03%) and Copper (1.79%).
+
+---
+
+### 2026-08-22 06:34:57  #其他
+
+【深圳市雷電預警訊號】深圳市氣象臺於2026年08月22日06時31分發布全市雷電預警訊號，預計2小時內全市將受雷電影響。市民停留在安全地方。（深圳天氣）
+
+---
+
+### 2026-08-22 06:34:43  #公司
+
+波音副總裁Ben Nimmergut表示：我們提出了一份有力的合同方案，旨在讓我們的員工在太平洋西北地區的薪酬和福利方面處於市場領先地位。罷工最早可能於10月7日開始。波音目前沒有與工會安排進一步的談判。
+
+---
+
+### 2026-08-22 06:33:47  #宏觀 #國際
+
+【古巴代表問美國到底在怕什麼】近日，古巴常駐聯合國代表埃內斯托·索韋龍·古斯曼在接受專訪時質問美國國務卿魯比奧：“美國到底在怕什麼？”古斯曼發問：“如果美國篤定古巴政府無能，為什麼幾乎每兩週就要出臺新一輪制裁？為什麼只要古巴找到前進的道路、找到擺脫當前困境的辦法，美國就要施加新的制裁、扼殺古巴。”他指出，幾十年來，美國政府反覆聲稱古巴需要變革。然而如今，美方制裁卻是古巴實施全面改革的“主要障礙”。 古斯曼表示，儘管近幾個月來美方關於對古巴採取軍事行動的言論有所減少，但古巴仍視其為“真實風險”。古巴已做好準備進行談判，但絕不會拿國家主權與獨立做交易。 （CCTV國際時訊）
+
+---
+
+### 2026-08-22 06:33:24  #公司 #國際
+
+【荷蘭對優步網約車公司開出8.25億歐元罰單】荷蘭資料保護局21日宣佈，對美國網約車服務運營商優步公司處以8.25億歐元罰款，理由是優步公司在未充分履行相關告知和人工稽核義務的情況下，透過自動化系統停用司機賬戶，違反歐盟《通用資料保護條例》的相關規定。荷蘭資料保護局說，在2018年至2022年間，優步公司使用軟體追蹤司機的駕駛行為和乘客評價。如果該軟體檢測到疑似欺詐行為或乘客評價過低，相關司機的賬戶就會被自動停用，此過程未經人工稽核，給司機利益造成損害。上述情況由170多名法國優步網約車司機首先舉報，由於優步公司的歐洲總部位於阿姆斯特丹，荷蘭資料保護局隨即發起調查。優步公司已宣佈對該處罰提出上訴。近年來，荷蘭資料保護局多次向優步公司開出罰單。2023年對優步公司處以1000萬歐元的罰款；2024年以優步公司將歐洲地區司機的個人資料傳送至美國為由，對其處以2.9億歐元罰款。（新華社）
+
+---
+
+### 2026-08-22 06:32:38  #國際
+
+【烏克蘭首都基輔響起強烈爆炸聲】當地時間22日凌晨1時許，烏克蘭首都基輔響起防空警報，隨後基輔市響起多次強烈爆炸聲。烏空軍稱俄軍向基輔州和基輔市方向發射了多枚彈道導彈和巡飛彈。俄羅斯方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-08-22 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Propane Drops by 3.02% — Top commodity losers are Propane (-3.02%) and Crude Oil WTI (-0.22%). Gains are led by Gasoline (1.81%), Natural Gas UK (1.78%), Natural Gas EU (1.49%) and Brent Crude Oil (0.10%).
+
+---
+
+### 2026-08-22 06:25:22  #其他
+
+星鏈：Starlink 在日食期間提供遠端連線和直播覆蓋。
+
+---
+
+### 2026-08-22 06:16:09  #其他
+
+白宮新聞秘書萊維特向記者發表講話。
+
+---
+
+### 2026-08-22 06:16:02  #公司
+
+萊維特：從白宮卸任後將重返MAGA公司。
+
+---
+
+### 2026-08-22 06:15:54  #其他
+
+以太坊創日內新高：2546 美元。
+
+---
+
+### 2026-08-22 06:15:16  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 1.04% — Top currency gainers are Brazilian Real (1.04%), Australian Dollar (0.79%), South Korean Won (0.61%) and British Pound (0.08%). Biggest losers are Turkish Lira (-0.71%) and Dollar Index (-0.08%). Meanwhile, Japanese Yen and Euro were little changed.
+
+---
+
+### 2026-08-22 06:11:45  #國際
+
+【盧拉與特朗普通話 反對美國對巴商品加徵關稅】巴西總統盧拉21日與美國總統特朗普通電話，反對美國政府近期對巴西商品加徵關稅。據巴西政府釋出的宣告，在1小時20分鐘的通話中，盧拉和特朗普討論了雙邊貿易、公共安全合作及國際熱點問題。盧拉指出，近期美國對巴西加徵關稅的相關指控缺乏依據，這些關稅措施對巴美兩國均構成損害，雙方應繼續透過對話協商解決分歧。美國貿易代表辦公室7月15日宣佈自7月22日起對部分巴西產品在原有關稅基礎上加徵25%的關稅。7月23日，美國貿易代表辦公室又以所謂“強迫勞動”為由，對包括巴西在內的數十個國家和地區徵收10%至12.5%的新關稅，以替代即將到期的全球進口關稅。巴西政府8月13日宣佈，已根據經濟對等法案啟動相關程式，反制美國政府對巴西產品採取的新關稅措施。（新華社）
+
+---
+
+### 2026-08-22 06:05:58  #國際
+
+市場訊息：巴西貿易部長稱與美國的談判將於下週恢復。
+
+---
+
+### 2026-08-22 06:05:42  #宏觀 #國際
+
+【特朗普稱干預債市是貝森特自己拿的主意】美國總統唐納德·特朗普說，他沒有指示斯科特·貝森特本週干預債券市場，是這位財政部長自行決定採取的行動。“沒有，完全沒有，” 特朗普週五被問及他是否曾推動貝森特採取行動時對記者說，“他是個很能幹的人。他想這麼做的。他很會的。”貝森特本週採取措施穩定債市並推動降低觸及了多年高位的長期借貸成本。財政部週三出其不意宣佈將長債回購規模擴大至少一倍。然而，此舉產生的效果轉瞬即逝，30年期美債在第二天便回吐了所有漲幅。總統週五稱讚了貝森特。“他直覺不錯，天生對債券和利率就有著非常好的直覺，他做到了，” 特朗普說。
+
+---
+
+### 2026-08-22 06:04:16  #國際
+
+白宮：唐納德·J·特朗普總統離開華盛頓特區前往南卡羅來納州。
+
+---
+
+### 2026-08-22 06:03:53  #國際
+
+美國哮喘中心：目前未發現本次事件導致任何身份盜竊或欺詐行為。
+
+---
+
+### 2026-08-22 06:03:46  #國際
+
+美國哮喘中心：調查確認，在2025年10月28日至11月17日期間，有未經授權者訪問了數量有限的TAC系統。
+
+---
+
+### 2026-08-22 06:02:41  #宏觀 #公司 #市場 #觀點 #國際
+
+【花旗將美國附息國債及債券發行規模上調的預測推遲至2028年】花旗集團策略師表示，美國財政部可能要到2028年2月才會擴大附息國債拍賣規模。在本週意外宣佈擴大回購後，花旗推遲了此前的預測。由Alejandra Vazquez Plata領銜的團隊表示：”我們此前對附息國債拍賣規模上調的基準預測是2027年5月，因為更早的上調將允許財政部逐步增加附息國債規模，並將短期國債（T-bill）在流通量中的佔比控制在25%以下。”
+
+---
+
+### 2026-08-22 06:01:22  #國際
+
+美國哮喘中心釋出資料安全事件通知。
+
+---
+
+### 2026-08-22 06:00:39  #市場 #焦點
+
+美銅暗盤突破6.6美元，日內漲幅1.7%。
+
+---
+
+### 2026-08-22 06:00:10  #市場 #焦點
+
+布倫特原油暗盤突破92美元，日內漲超0.8%。
+
+---
+
+### 2026-08-22 06:00:10  #市場 #焦點
+
+暗盤金價突破4550美元/盎司，日內漲幅1%。
+
+---
+
+### 2026-08-22 06:00:10  #市場 #焦點
+
+暗盤金價（人民幣）日內漲超1%，現報992.9447元/克。
+
+---
+
+### 2026-08-22 05:56:43  #國際
+
+【特朗普稱對伊轉向“經濟戰”不意味著美軍事選項受限】當地時間8月21日，美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。“我們對霍爾木茲海峽周邊整個地區，包括其腹地和陸地區域，擁有完全的控制權。所以，他們很希望達成協議，但在我看來，他們還沒準備好達成合適的協議，”特朗普補充道。當被問及美國對伊朗的軍事選擇是否有限時，特朗普表示：“這只是意味著我們正在觀察事態的發展。”特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。（央視新聞）
 
 ---
 
@@ -18259,65 +18409,5 @@ Cuba's foreign minister said the U.S. continues to sanction Cuban firms to damag
 ### 2026-08-21 04:00:45  #MKT News #Macro & Rates #US Economy #WTI #Impact bearish #Brent
 
 【U.S. to sustain economic pressure on Iran to prevent nuclear rebuild, says Vance】U.S. Vice President Vance said Washington will continue using economic pressure to prevent Iran from rebuilding nuclear facilities. He said increasing oil and gas supply to lower energy prices, combined with punitive steps over attacks on commercial shipping, would impose significant economic strain on Iran and could alter its negotiating calculus. Vance described the current phase as one in which economic pressure is the most effective tool and said the U.S. will maintain that pressure to ensure Iran’s nuclear sites are destroyed and deter any attempt to rebuild them.
-
----
-
-### 2026-08-21 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.12%】Tims中國跌11.81%，萬物新生跌11.00%，愛奇藝跌9.29%，金山雲跌7.64%，亞朵集團跌7.50%。
-
----
-
-### 2026-08-21 03:58:18  #國際
-
-市場訊息：現代汽車將提升其佐治亞州新工廠的美國本土產能。
-
----
-
-### 2026-08-21 03:56:46  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Wells Fargo Stock Price Hits 7-week Low — Wells Fargo shares decreased to 83.70 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo lost 4.55%, and in the last 12 months, it increased 7.61%.
-
----
-
-### 2026-08-21 03:52:49  #公司
-
-英偉達：有關該公司 LPU 的相關報道資訊有誤。
-
----
-
-### 2026-08-21 03:51:52  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up 0.06% to 98.894 on 20th】The dollar index, which measures the dollar against six major currencies, rose 0.06% to 98.894 at the New York close. EUR/USD 1.1676 (prev. 1.1674); GBP/USD 1.3628 (prev. 1.3607); USD/JPY 159.14 (prev. 158.32); USD/CHF 0.8007 (prev. 0.7979); USD/CAD 1.3790 (prev. 1.3810); USD/SEK 9.4908 (prev. 9.4386).
-
----
-
-### 2026-08-21 03:48:43  #市場
-
-【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.06%，在匯市尾市收於98.894。截至紐約匯市尾市，1歐元兌換1.1676美元，高於前一交易日的1.1674美元；1英鎊兌換1.3628美元，高於前一交易日的1.3607美元。1美元兌換159.14日元，高於前一交易日的158.32日元；1美元兌換0.8007瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3790加元，低於前一交易日的1.3810加元；1美元兌換9.4908瑞典克朗，高於前一交易日的9.4386瑞典克朗。
-
----
-
-### 2026-08-21 03:48:31  #MKT News
-
-【Source says US carrier Abraham Lincoln begins return】An informed source said on Aug. 20 the nuclear-powered US carrier Abraham Lincoln has begun returning. The USS George Washington has already arrived in the Middle East to relieve Lincoln’s extended deployment. A US official said Lincoln remains in the US Navy Fifth Fleet operating area and has not yet left the CENTCOM area of responsibility. Lincoln was sent to the Middle East in January for operations against Iran and maritime interdiction and has been deployed for more than 250 days; recent reports cite crew living-condition and mental-health strains from the high operational tempo and prolonged deployment.
-
----
-
-### 2026-08-21 03:48:02  #國際
-
-【知情人士稱美國“林肯”號航母開始返航】當地時間8月20日，據一名知情人士透露，美國海軍“亞伯拉罕·林肯”號核動力航空母艦已開始返航。此前，“喬治·華盛頓”號航母已抵達中東，以緩解“林肯”號長期部署帶來的壓力。不過，一名美國官員表示，“林肯”號目前仍處於美國海軍第五艦隊行動區，意味著其尚未離開美軍中央司令部責任區。“林肯”號航母於今年1月被調往中東，參加美軍對伊朗的軍事行動以及美軍對伊朗的海上封鎖，已部署超過250天。近期“林肯”號被曝出航母上的水兵由於高強度的作戰節奏和長期部署，存在生活條件和心理健康問題。（央視新聞）
-
----
-
-### 2026-08-21 03:46:20  #Trading Economics #Economy #Argentina #Monthly GDP YoY #Importance 1
-
-Argentina Economic Activity Growth Accelerates in June — Argentina’s economic activity rose 2.7% year-over-year in June 2026, following an upwardly revised 0.4% increase in May. Twelve of the 15 sectors surveyed recorded annual growth, led by fishing (247.6%) and mining and quarrying (15.6%). Agriculture, livestock, hunting and forestry also increased 4.6%. In contrast, administration and defense and compulsory social security plans declined 1.5%, while utilities fell 0.4% and education decreased 0.1%. On a monthly basis, the Monthly Economic Activity Estimate rose 0.8%.
-
----
-
-### 2026-08-21 03:44:21  #宏觀 #市場 #國際
-
-【中長期美債收益率漲約4個基點】週四（8月20日）紐約尾盤，美國10年期國債收益率漲4.35個基點，報4.6902%，北京時間10:41微跌至4.6308%重新整理日低，隨後持續走高、20:34達到4.7120%，美國財政部長貝森特“回購規模可能會超過40億美元”的論調帶來一波V形反轉行情，近期持穩於4.7%關口附近，50日均線已經上移至4.5774%。兩年期美債收益率漲1.88個基點，報4.1811%；30年期美債收益率漲3.97個基點，報5.2298%，20:34達到5.2656%，幾乎完全收復8月19日的失地、逼近8月18日頂部5.3361%。2/10年期美債收益率利差漲3.247個基點，報+50.876個基點。10年期通脹保值國債（TIPS）收益率漲0.44個基點，至2.3411%；兩年期TIPS收益率跌5.38個基點，至1.8685%；30年期TIPS收益率漲0.87個基點，至2.9660%。
 
 ---

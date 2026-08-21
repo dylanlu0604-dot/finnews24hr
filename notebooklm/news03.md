@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:56:55_
-_本檔包含 3330 則快訊，約 656180 字_
+_更新時間：2026-08-22 06:37:30_
+_本檔包含 3333 則快訊，約 656593 字_
+
+---
+
+### 2026-08-20 02:44:55  #市場
+
+布倫特原油期貨結算價報每桶91.62美元，上漲60美分，漲幅0.66%。
+
+---
+
+### 2026-08-20 02:44:53  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $91.62 a barrel, up $0.60 or 0.66%.
+
+---
+
+### 2026-08-20 02:44:37  #MKT News #Important #Market Themes #AI Revolution #S&P500 #Impact bearish #US10Y #Impact mixed #XAUUSD #Impact bullish
+
+【Fed minutes flag AI equity risk, note Treasury price-volatility risk】Fed minutes said some participants, in a financial stability discussion, flagged vulnerabilities tied to financing for rapid expansion of AI-related infrastructure. They noted elevated AI equity valuations reflect market optimism on long-term earnings and warned a sharp downgrade of those prospects could trigger broad asset repricing, tighten financial conditions and strain financial institutions with direct or indirect exposure. Two participants also discussed how heightened U.S. Treasury price volatility could harm the financial system and ways to reduce the likelihood of such events.
+
+---
+
+### 2026-08-20 02:44:34  #國際
+
+【美軍稱已使65艘商船改變航線】當地時間8月19日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月19日，美軍已引導65艘商船改變航向，使3艘商船喪失航行能力，並登臨檢查了2艘商船。
+
+---
+
+### 2026-08-20 02:44:30  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+Canadian Stocks Erase Gains — The S&P/TSX Composite Index erased early gains and hovered marginally below the flatline at 36,650, as losses for heavyweight banks offset gains for gold producers, while markets assessed updates to trade policy. US President Trump paused the 50% tariffs on select Canadian goods and signaled that a trade deal with Canada was soon to be agreed upon. Still, reports indicated that metals will remain tariffed. Banks led the losses even though the US Treasury doubled the buyback amount on bonds and notes to limit recent pressure on North American bond yields. BMO, TD Bank, and RBC sank more than 3%. On the other hand, gold prices surged on the drop for the dollar and yields. Miners led the gains, with Agnico Eagle, Wheaton, and Barrick up between 10% and 5%.
+
+---
+
+### 2026-08-20 02:41:38  #MKT News #Market Themes #Chip Wars
+
+AI chip startup Fractile will sell about $250 mln of chips to Anthropic; post-deal Fractile plans to seek a roughly $6.5 bln valuation.
+
+---
+
+### 2026-08-20 02:36:23  #國際
+
+市場資訊：面對特朗普政府不斷加大的壓力，英國政府表示願意重新審視數字服務稅。
+
+---
+
+### 2026-08-20 02:33:02  #公司
+
+【晶片企業Fractile與Anthropic達成交易後尋求65億美元估值】知情人士稱，Fractile正就一輪融資進入深度談判，投前估值65億美元，本輪計劃募資約6億美元。三個月前該公司完成2.2億美元融資，由Accel、Founders Fund以及Factorial Funds風投機構領投，投後估值約10億美元。Fractile已與Anthropic達成初步協議，向後者出售價值約2.5億美元的晶片，雙方計劃未來擴大這份合同規模。
+
+---
+
+### 2026-08-20 02:32:31  #MKT News
+
+【Fed minutes: supporters of a hike say move could avert larger future tightening】Fed minutes said participants stressed that incoming data will be central to policy reviews. Many warned that if inflation does not continue to fall, further policy tightening may be needed; some said current financial conditions may be insufficient to bring inflation to 2%. Several participants noted financial conditions tightened over the past two meetings, partly reflecting strong growth and market pricing of more tightening. A minority who favored raising the federal funds rate target at this meeting argued a near-term hike could reduce the risk of larger, costlier tightening later.
+
+---
+
+### 2026-08-20 02:32:06  #其他
+
+Fractile新一輪6億美元融資洽談，距離其2.2億美元上輪融資僅過去三個月。
+
+---
+
+### 2026-08-20 02:32:00  #其他 #焦點
+
+Anthropic與Fractile達成協議，擬採購約2.5億美元晶片。
+
+---
+
+### 2026-08-20 02:31:31  #其他
+
+知情人士透露，AI晶片初創企業Fractile正在洽談融資，估值目標65億美元。
 
 ---
 
@@ -20013,59 +20085,5 @@ The CAC 40 Index Closes 0.77% Lower — The CAC 40 Index fell 66 points or 0.77 
 ### 2026-08-19 00:09:06  #Trading Economics #Markets #Italy #Stock Market #Importance 0
 
 FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.1% to 53,018 on Tuesday, weighed down by soaring bond yields. Sovereign yields climbed to multi-year highs across major economies as a prolonged conflict in the Middle East keeps inflation risks elevated, while technology firms increase bond issuance at longer maturities to finance AI investments. STMicroelectronics led the losses, plunging 7.6%, while Prysmian fell 4.9% as concerns over excessive AI spending persist. Financials also underperformed as higher sovereign yields weighed on their balance sheets, with FinecoBank, UniCredit, BPER Banca and Banco BPM falling more than 1%. Meanwhile, utilities outperformed, recovering from recent selling pressure. Nexi gained 2% as Stripe’s M&A activity improved sentiment across the digital payments sector.
-
----
-
-### 2026-08-19 00:08:39  #公司 #市場 #觀點 #國際
-
-【摩根大通Santos警告："AI觸角"風險已蔓延至債券與股票市場】摩根大通資產管理公司美洲區首席市場策略師Gabriela Santos警告稱，”AI因子”集中度風險已從股票市場蔓延至固定收益市場，進一步加大了投資者保持謹慎的必要性。科技股的劇烈震盪凸顯了擁擠交易的風險，並強調了倉位規模、槓桿控制以及AI之外多元化配置的重要性。美國國債、黃金和核心房地產是為數不多能提供不同收益來源的領域，並建議對超大規模雲服務商發行的債券應逐一進行審慎研究。
-
----
-
-### 2026-08-19 00:07:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.14% Higher — The FTSE 100 Index gained 15 points or 0.14 percent on Tuesday to close at 10736 points. Gains were led by Relx (3.18%), BP (3.00%) and Burberry (2.81%). Biggest losers were Weir (-3.22%), Halma (-3.13%) and Fresnillo (-2.87%).
-
----
-
-### 2026-08-19 00:07:04  #市場
-
-【法意西希四國主權債收益率普遍漲約5個基點】週二（8月18日）歐市尾盤，法國10年期國債收益率漲4.8個基點，連續三個交易日走高，報4.114%，全天處於上漲狀態、北京時間21:30美股開盤時達到4.128%，逼近2008年11月6日頂部4.203%、當年9月22日頂部4.548%。兩年期法債收益率漲4.7個基點，30年期法債收益率漲2.9個基點。義大利10年期國債收益率漲5.8個基點，報4.073%。西班牙10年期國債收益率漲4.6個基點，報3.707%。希臘10年期國債收益率漲5.7個基點，報3.959%。
-
----
-
-### 2026-08-19 00:06:19  #其他
-
-市場訊息：伊拉克北部蘇萊曼尼亞省上空升起陣陣濃煙，起火原因尚不清楚。
-
----
-
-### 2026-08-19 00:06:06  #Trading Economics #Markets #Germany #Stock Market #Importance 0
-
-DAX Finishes at Near 2-Week Low — The DAX 40 extended early losses to close about 0.8% down at 26,152 on Tuesday, the lowest since August 5th, marking the second session of losses. Risk sentiment remained weak as stalled US-Iran talks raised fears of renewed escalation, sending oil prices and bond yields higher amid growing inflation concerns. Uncertainty increased after the memorandum of understanding expired, with Washington rejecting an extension and Iran warning of a tougher response if negotiations fail to progress. Rate-sensitive tech stocks, industrials and banks faced heavy selling pressure. Chipmaker Infineon Technologies plunged over 7%, making it the worst performer. AI-related stocks Siemens Energy (-4.4%) and Hochtief (-1.1%) also declined, amid profit-taking. Other top losers included Heidelberg Materials, Siemens, Airbu, MTU Aero Engines and Continental, down between 1.9% and 3.5%: On the upside, SAP (1.9%), Bayer (1.7%) and Deutsche Telekom (1.7%) emerged as the biggest gainers.
-
----
-
-### 2026-08-19 00:05:38  #國際
-
-歐盟發言人：相關調整預計將使應用開發者能夠為應用選擇多種分發渠道。歐盟委員會對蘋果調整 iPhone 與 iPad 第三方應用分發業務條款表示歡迎。開發者將擁有更大自主權，可引導應用商店使用者轉向其他平臺與支付系統。
-
----
-
-### 2026-08-19 00:05:06  #國際
-
-歐盟發言人：歐盟將監督新條款的有效落實。
-
----
-
-### 2026-08-19 00:03:25  #國際
-
-【應特朗普要求 韓美聯合軍演提前結束 訓練日程縮短約一半】據韓國方面訊息，在美國總統特朗普要求大幅縮減韓美聯合軍演規模後，韓美軍方18日舉行緊急會晤，決定大幅壓縮正在進行的“乙支自由護盾”聯合軍演日程，原計劃持續至27日的演習將提前至本週結束，第二階段反擊演練被取消。“乙支自由護盾”聯合軍演於17日啟動，原計劃分為兩個階段進行：第一階段為17日至21日，以應對攻擊和防禦為主要演練內容；第二階段原定於23日至27日舉行，重點內容為反擊作戰演練。韓國軍方訊息人士透露，韓美軍方18日在緊急協商後決定，本次演習僅進行第一階段的防禦作戰部分，結束後美軍人員將撤離；原計劃中未能實施的訓練專案將另行尋找替代方案。這一調整意味著“乙支自由護盾”演習的整體訓練時間比原計劃縮短了約一半。（央視新聞）
-
----
-
-### 2026-08-19 00:01:34  #國際
-
-【蘋果全面改革歐盟應用商店收費規則】蘋果將於 10 月 1 日修訂歐盟地區應用商店相關條款。核心技術費將予以取消，替換為對應用商店之外數字交易徵收 5% 的佣金。蘋果應用內購的歐盟佣金費率為 26%；採用替代支付方式費率為 20%；使用外部購買連結費率為 15%。蘋果還將進一步開放第三方應用分發渠道，並推出更多兒童安全防護舉措。
 
 ---
