@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-22 05:35:23",
-  "count": 16151,
+  "updated": "2026-08-22 05:44:49",
+  "count": 16150,
   "items": [
+    {
+      "id": "5052823",
+      "time": "2026-08-22 05:41:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美商務部長對美加貿易協議草案不滿，談判最後關頭存分歧】據訊息人士，隨著美加貿易談判逼近最後期限，美國商務部長盧特尼克（Howard Lutnick）對當前協議草案表示不滿，並正推動修改。知情人士透露，盧特尼克特別反對將針對加拿大汽車的關稅從25%降至15%，認為此舉將削弱美國鼓勵本土生產的努力。這一內部態度與特朗普及加拿大總理卡尼近期對外釋放的樂觀訊號形成反差。儘管美國貿易代表格里爾稱已達成“保護美國工人”的協議，但盧特尼克作為特朗普經濟政策的核心人物，其強硬立場凸顯了美方內部的分歧。目前，美加雙方正全力在週六凌晨新關稅生效前敲定最終協議。據悉，協議草案可能包含降低加拿大鋼鋁關稅、調整乳製品配額，以及加拿大各省解除對美國酒類禁令等條款。加拿大貿易部長勒布朗表示，雙方已“非常接近”達成協議。"
+    },
+    {
+      "id": "5052822",
+      "time": "2026-08-22 05:37:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國商務部長盧特尼克對可能降低232條款關稅提出異議。"
+    },
+    {
+      "id": "5052821",
+      "time": "2026-08-22 05:37:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西民調：若總統選舉進入第二輪對決，盧拉支援率為47%，雅伊爾·博索納羅支援率為43%。"
+    },
+    {
+      "id": "5052820",
+      "time": "2026-08-22 05:36:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國商務部長盧特尼克認為美國可以爭取到更好的協議。"
+    },
+    {
+      "id": "5052819",
+      "time": "2026-08-22 05:35:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國商務部長盧特尼克對擺在桌面上的美加貿易協議並不滿意。"
+    },
+    {
+      "id": "5052818",
+      "time": "2026-08-22 05:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SIGMA LITHIUM 恢復巴西境內採礦及工業生產業務。"
+    },
     {
       "id": "5052817",
       "time": "2026-08-22 05:32:25",
@@ -147761,74 +147810,6 @@
         "Impact bullish"
       ],
       "text": "Petrobras reported oil and gas shows in an exploration well in block FZA-M-59 in the Amazon River mouth basin."
-    },
-    {
-      "id": "5042011",
-      "time": "2026-08-15 05:42:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：巴西石油公司在阿馬帕海岸深水海域發現油氣。"
-    },
-    {
-      "id": "mkt:01a00237-ba11-7aab-9046-70d4c7035c15",
-      "time": "2026-08-15 05:40:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Barclays maintains 2026 Brent crude price forecast at $96/bbl."
-    },
-    {
-      "id": "5042010",
-      "time": "2026-08-15 05:39:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊：維持2026年布倫特原油價格預測為每桶96美元。"
-    },
-    {
-      "id": "mkt:01a00236-4304-7aab-9046-6ec360cad766",
-      "time": "2026-08-15 05:38:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ADNOC said one of its vessels was attacked while transiting the Strait of Hormuz on Aug. 14 local time. No injuries were reported and the situation is under control."
-    },
-    {
-      "id": "5042009",
-      "time": "2026-08-15 05:37:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋阿布扎比國家石油公司(ADNOC)稱未接到人員傷亡報告，局勢已得到控制。"
-    },
-    {
-      "id": "5042008",
-      "time": "2026-08-15 05:37:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿聯酋阿布扎比國家石油公司(ADNOC)稱，其一艘船隻8月14日在透過霍爾木茲海峽時遭到襲擊。"
-    },
-    {
-      "id": "te:markets:575546",
-      "time": "2026-08-15 05:36:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Brazilian Real Weakens to One-Month Low — The Brazilian real weakened to 5.21 per USD, reaching its weakest level in more than a month in mid-August as investors continued to reduce their exposure to Brazilian assets. The market is pricing in uncertainty over the next government and its economic agenda. The perception that the next government will struggle to implement a consistent fiscal adjustment is beginning to translate into a higher risk premium in asset prices. Concerns are increasing as elections approach and foreign capital outflows accelerate. Banks and brokerages have also reduced their exposure to the real, unwinding currency positions in favor of other emerging-market currencies. The move intensified following a more pessimistic view of the local market from JPMorgan. The bank downgraded its recommendation on Brazilian assets from overweight to neutral, citing the Selic easing cycle, the electoral outlook and deteriorating credit conditions."
     }
   ]
 }
