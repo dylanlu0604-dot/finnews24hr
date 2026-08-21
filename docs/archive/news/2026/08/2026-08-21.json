@@ -1,7 +1,133 @@
 {
   "date": "2026-08-21",
-  "count": 781,
+  "count": 794,
   "items": [
+    {
+      "id": "te:markets:577030",
+      "time": "2026-08-21 09:47:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Set for 2nd Straight Weekly Losses — Australian equities inched lower around midday on Friday, hovering around 9,071 after closing modestly higher in the prior session, heading for the second straight weekly decline. A sharp drop on Wall Street overnight weighed on sentiment as long-dated U.S. Treasury yields resumed their march higher, after the government's moves to stem the recent bond market rout failed to ease investor fears about inflation. Locally, private sector activity slowed in August, with the flash Composite PMI slipping from July's 6-month high amid a decline in manufacturing output. Caution also grew ahead of July inflation readings next week. Meanwhile, July employment unexpectedly fell, pushing the jobless rate to a three-month high. Tech, healthcare, and commercial services weighed though gains in energy minerals, utilities, and communications capped the downside. Steep losses were seen for Charter Hall (-6.3%), Pro Medicus (-3.3%), Wisetech Global (-2.9%), and Lynas Rare Earths (-2.2%)."
+    },
+    {
+      "id": "5051058",
+      "time": "2026-08-21 09:46:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超節點概念震盪拉昇 瑞斯康達直線漲停】超節點概念震盪拉昇，瑞斯康達直線漲停，星網銳捷、共進股份、紫光股份、菲菱科思跟漲。"
+    },
+    {
+      "id": "5051057",
+      "time": "2026-08-21 09:46:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CPO概念股異動拉昇，可川科技、瑞斯康達、星網銳捷漲停，共進股份、銳捷網路、新易盛跟漲。"
+    },
+    {
+      "id": "mkt:01a021ff-0faf-7aab-90c5-e5f197139e29",
+      "time": "2026-08-21 09:45:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "Mainland A-shares opened lower then rallied; ChiNext rose 1.0%, the Shenzhen Composite Index added 0.4% and the Shanghai Composite neared flat/turning positive. Leading gains were in gold, shale gas, MLCC (multilayer ceramic capacitors) and crude palm oil-related stocks."
+    },
+    {
+      "id": "5051056",
+      "time": "2026-08-21 09:45:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽智慧、唐山國控投資成立綠色能源公司】企查查APP顯示，近日，唐山國控綠色能源有限公司成立，經營範圍包含：氣體、液體分離及純淨裝置銷售；生物化工產品技術研發；生物質液體燃料生產工藝研發等。企查查股權穿透顯示，該公司由唐山國控集團有限公司、明陽智慧共同持股。"
+    },
+    {
+      "id": "5051054",
+      "time": "2026-08-21 09:45:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.02%，現報3531.139點；上證指數跌0.04%，現報3902.340點；深證成指漲0.40%，現報14029.288點。"
+    },
+    {
+      "id": "mkt:01a021fe-1bc0-7aab-90c5-dc436d02b0eb",
+      "time": "2026-08-21 09:44:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand and Thailand launch a strategic partnership."
+    },
+    {
+      "id": "mkt:01a021fe-03b2-7aab-90c5-d5afec5e581f",
+      "time": "2026-08-21 09:44:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures surged over 1%."
+    },
+    {
+      "id": "5051053",
+      "time": "2026-08-21 09:44:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "5051052",
+      "time": "2026-08-21 09:44:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【乳業奶粉板塊下挫，一鳴食品跌停】乳業奶粉板塊下挫，一鳴食品跌停，李子園、三元股份、燕塘乳業、ST嘉必優、天潤乳業、均瑤健康等跟跌。"
+    },
+    {
+      "id": "5051051",
+      "time": "2026-08-21 09:44:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2887.00元。"
+    },
+    {
+      "id": "5051050",
+      "time": "2026-08-21 09:44:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化肥板塊持續調整，紅四方跌停】化肥板塊持續調整，紅四方跌停，農大科技、赤天化、星湖科技、川金諾、史丹利、冠農股份等跟跌。"
+    },
+    {
+      "id": "5051049",
+      "time": "2026-08-21 09:44:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲3%，現報4564.00元。"
+    },
     {
       "id": "mkt:01a021fd-0af4-7aab-90c5-cfce4443d2e2",
       "time": "2026-08-21 09:43:46",
