@@ -1,7 +1,35 @@
 {
   "date": "2026-08-22",
-  "count": 154,
+  "count": 157,
   "items": [
+    {
+      "id": "5052696",
+      "time": "2026-08-22 03:21:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI核心銷售高管凱琳·沃斯辭職。"
+    },
+    {
+      "id": "te:economy:577358",
+      "time": "2026-08-22 03:20:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil Yields Fall on Tighter Election Race Prospects — Brazil’s 10-year government bond yield fell to 14.7% from the near one-month high reached on August 14, supported by expectations of a tighter presidential race and broad-based weakness in the US dollar. Financial markets view Senator Flávio Bolsonaro as more fiscally restrictive than President Lula, particularly as elevated domestic yields continue to weigh on economic activity. Recent developments, including an investigation into leaks involving Lula’s son and signs that Flávio is narrowing the gap with Lula in potential runoff scenarios, have fueled expectations of a possible change in government and economic policy. On Monday, a BTG/Nexus poll showed Lula and Flávio in a technical tie in a potential runoff. The weaker dollar also provided a more favorable global backdrop for Brazilian fixed income. However, US Treasury yields remained elevated despite the Treasury raising the limit on long-term bond buyback operations."
+    },
+    {
+      "id": "5052695",
+      "time": "2026-08-22 03:19:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "優步因使用自動化系統暫停司機賬戶，被荷蘭當局罰款8.25億歐元（9.63億美元），這是歐盟《通用資料保護條例》下第二高的罰款。"
+    },
     {
       "id": "5052694",
       "time": "2026-08-22 03:18:33",
