@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-22 02:05:17",
-  "count": 16193,
+  "updated": "2026-08-22 02:09:17",
+  "count": 16190,
   "items": [
+    {
+      "id": "5052668",
+      "time": "2026-08-22 02:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院暫允許特朗普政府繼續推進白宮宴會廳的建設工程。"
+    },
     {
       "id": "5052667",
       "time": "2026-08-22 02:03:19",
@@ -148312,40 +148320,6 @@
         "MKT News"
       ],
       "text": "Zelenskiy said he discussed the Black Sea situation with Egypt's president."
-    },
-    {
-      "id": "mkt:01a00176-6990-7aab-9044-36c4e8e11752",
-      "time": "2026-08-15 02:08:52",
-      "tags": [
-        "MKT News",
-        "AVGO.O",
-        "Impact bearish"
-      ],
-      "text": "Broadcom (AVGO.O) shares extended losses to 6.85% and hit an intraday low, marking the largest single-day decline since June 5."
-    },
-    {
-      "id": "5041885",
-      "time": "2026-08-15 02:08:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府釋出關於野火風險的嚴重警報，稱發生野火的風險極高。"
-    },
-    {
-      "id": "mkt:01a00176-08ca-7aab-9044-2bd63f490e29",
-      "time": "2026-08-15 02:08:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK government issued a severe wildfire alert, saying the risk of wildfires is extremely high."
-    },
-    {
-      "id": "5041884",
-      "time": "2026-08-15 02:07:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "老虎環球管理有限責任公司披露持有 SpaceX 375000 股 A 類股份。"
     }
   ]
 }
