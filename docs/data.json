@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-21 09:09:33",
-  "count": 16032,
+  "updated": "2026-08-21 09:13:28",
+  "count": 16027,
   "items": [
+    {
+      "id": "mkt:01a021e0-820a-7aab-90c4-91ad9f049df1",
+      "time": "2026-08-21 09:12:36",
+      "tags": [
+        "MKT News",
+        "035720.KS"
+      ],
+      "text": "South Korean internet giant Kakao announced a corporate restructuring plan."
+    },
+    {
+      "id": "mkt:01a021e0-6502-7aab-90c4-8bf943c6927e",
+      "time": "2026-08-21 09:12:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan 30-year government bond yield rose 5.5 bps to 4.06%."
+    },
+    {
+      "id": "5050981",
+      "time": "2026-08-21 09:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國合成世界上最長單原子直徑“金屬線”】我國科學家首次將單原子直徑的“金屬線”的合成長度突破微米級。按直徑和長度同比例縮放，這相當於一條4米的家用銅線。北京高壓科學研究中心李闊團隊創新應用高壓固相拓撲聚合新策略，在國際上首次合成微米級長度、原子級粗細且結構穩定的碳包裹單金屬原子鏈。該成果8月21日發表於國際學術期刊《科學》。（新華社）"
+    },
+    {
+      "id": "5050980",
+      "time": "2026-08-21 09:12:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾集團與中國雄安集團簽署戰略合作】據海爾集團，8月19日，海爾集團公司（簡稱“海爾集團”）與中國雄安集團有限公司（簡稱“雄安集團”）正式簽署戰略合作協議。雙方將緊扣雄安新區“綠色、創新、智慧”發展導向，聚焦四大戰略方向深化協同合作。共創未來之城方面，雙方將深耕智慧住居，探索打造“好房子”標準平臺與樣板，共創智慧社群與安全運維標杆；共建零碳園區方面，將積極整合雙方資源與節能技術優勢，透過打造零碳園區與綠色建築，助力新區綠色發展；城市運營服務方面，將聚焦大健康等民生保障領域，持續提升城市精細化運營水平；產業場景共創方面，雙方將圍繞AI產融數科開展協同，推動產業資源深度嵌入新區產業鏈與創新鏈，賦能雄安未來城市建設。"
+    },
+    {
+      "id": "5050979",
+      "time": "2026-08-21 09:12:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【具身智慧企業無界動力在世界機器人大會上展示機器人咖啡服務】具身智慧企業無界動力在2026世界機器人大會上展示了其自研的具身通用大腦MWA™和機器人本體K15等成果。在展會上，無界動力與韓國KG集團旗下連鎖咖啡品牌HOLLYS合作，打造了一個人機共生的沉浸式機器人咖啡空間。機器人K15在開放區域內連續完成了飲品端送、桌面清理、垃圾回收、手部消毒和座椅歸位等複雜服務，驗證了多角色協同的人機共生、面向業務目標的長程任務規劃、複雜物理互動中的靈巧操作以及開放環境下的動態感知四大核心能力。"
+    },
+    {
+      "id": "5050978",
+      "time": "2026-08-21 09:10:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中遠通：公司光網路電源產品下游客戶主要為境外客戶 收入佔比小】中遠通(301516)在互動平臺表示，公司的電源產品是相關裝置的核心組成部分，可根據特定需求進行電能轉換並提供穩定供電，下游應用廣泛。光網路電源為使用光纖通訊的網路裝置供電的電源，產品的具體應用場景取決於終端客戶的需求。光網路電源產品下游客戶主要為境外客戶，該產品收入佔比小，請投資者注意投資風險。"
+    },
+    {
+      "id": "5050977",
+      "time": "2026-08-21 09:09:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "Kakao：董事會批准將基於KakaoTalk的平臺業務分拆為獨立子公司KakaoAI。"
+    },
     {
       "id": "mkt:01a021dc-66e5-7aab-90c4-8115b085ef55",
       "time": "2026-08-21 09:08:07",
@@ -146606,125 +146666,6 @@
         "Impact bullish"
       ],
       "text": "【SMIC co-CEO: Q3 utilization ~95% including new capacity; revenue guide +2-4% QoQ, gross margin 26-28%】Aug 14 — SMIC co-CEO Zhao Haijun at the Q2 results meeting said Q3 shipments are expected to rise and pricing to remain stable. Revenue guidance +2–4% QoQ; gross margin guidance 26–28%, which he said should still increase QoQ after absorbing higher Q3 depreciation from new capacity and summer peak power. Utilization including new capacity is expected to remain around 95%, effectively diluting unit fixed costs."
-    },
-    {
-      "id": "5040275",
-      "time": "2026-08-14 09:13:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中芯國際趙海軍：三季度計入新增產能後的利用率預計維持在約95%高位】8月14日，中芯國際聯合CEO趙海軍在二季度業績會上介紹，三季度，公司預計出貨量繼續增長，價格保持穩健，收入指引為環比增長2%—4%；毛利率指引為26%—28%，在抵消三季度新增折舊和暑期電力高峰後環比繼續提高，計入新增產能後的利用率預計維持在95%左右高位，有效攤薄了單位固定成本。"
-    },
-    {
-      "id": "5040274",
-      "time": "2026-08-14 09:13:05",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【套利交易員正利用外匯干預措施重建日元空頭頭寸】每一次為支撐日元而採取的干預措施也在為拋售日元創造新機會。美日兩國上個月採取的這一歷史性聯合行動對扭轉令日元承壓的因素收效甚微，不到兩週後，日元兌美元匯率便再度跌向160大關。關鍵在於日本與其他國家之間的利率差距巨大。投資者可以借入低收益的日元，並用這筆資金購買更高收益的資產 —— 這種策略被稱為套利交易。這意味著，當干預措施推高日元時，投資者便能以更好的價格賣出日元。據摩根大通私人銀行和道富銀行及信託公司等市場觀察人士稱，截至8月4日，對沖基金已將其看跌日元的押注削減了一半，但部分投資者正開始重返以日元為資金來源的套利交易。其中就包括私募投資公司Alpha Binwani Capital的創始人Ashwin Binwani，他曾在美元兌日元約157時買入美元，隨著日元走弱，這一頭寸獲利。目前美元兌日元報159.46。“干預為在更高水平拋售日元提供了絕佳機會，”Binwani表示。“我們並不畏懼他們的行動。套利交易的機會太好了，不容錯過。”"
-    },
-    {
-      "id": "5040273",
-      "time": "2026-08-14 09:12:10",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【光大期貨：通脹預期下行，黃金不漲反跌】隔夜黃金震盪走弱，倫敦現貨黃金下跌1.34%，SHFE黃金下跌1.24%。美PPI資料公佈，能源價格下跌成為PPI降溫的主要推動力，通脹壓力下行，美股出現走高，風險情緒升溫，進一步打壓金價。短線黃金震盪，重點關注今晚美銷售零售資料、美伊局勢進展。美9月甚至年內加息機率接連下降，但金價走勢不漲反跌，一是有利多落地獲利了結的可能，二是或與日央行加息預期引起的市場流動性恐慌有一定關係。金價走勢在關鍵位置受阻，分歧有所加大，不過整體來看，美聯儲9月加息預期下降下或整體仍維持高位震盪走勢。"
-    },
-    {
-      "id": "mkt:019ffdd3-616c-7aab-9031-66d2d32e19d5",
-      "time": "2026-08-14 09:11:56",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Latvian armed forces posted an air threat alert on social media."
-    },
-    {
-      "id": "mkt:019ffdd3-09c5-7aab-9031-5ea461a23241",
-      "time": "2026-08-14 09:11:33",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Yemen fighting intensifies; Saudi shifts to more proactive security posture】Escalating attacks have prompted Saudi Arabia to adopt a more proactive security posture in Yemen and the wider region, driven by the prospect that Houthi forces could eventually block the Bab el-Mandeb strait and threaten the Red Sea shipping lane that is an alternative to the Strait of Hormuz. Riyadh is especially sensitive after recent tensions around Hormuz, since a closure of Bab el-Mandeb would put Red Sea routes — previously a viable complement to Saudi east–west pipelines bypassing Hormuz — at direct risk. Last month Saudi Arabia announced an international coalition to protect Red Sea shipping with 13 participating countries, while deepening defence agreements with Pakistan and Turkey and increasing coordination with the United States. Saudi defence officials recently met the US vice president, and media reports say the crown prince has US backing for potential military action against the Houthis. On the ground, Riyadh has shifted tactics — intervening late last year against the UAE-backed Southern Transitional Council to help consolidate anti-Houthi forces around the Yemeni government — and analysts say Saudi policy now appears aimed at driving the Houthis off the coastline rather than attempting to retake Sanaa."
-    },
-    {
-      "id": "5040271",
-      "time": "2026-08-14 09:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉脫維亞國家武裝部隊在X平臺上表示，拉脫維亞釋出空中威脅警報。"
-    },
-    {
-      "id": "5040270",
-      "time": "2026-08-14 09:11:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺幣兌美元上漲0.3%至32.070。"
-    },
-    {
-      "id": "mkt:019ffdd2-a025-7aab-9031-5464f09a6c77",
-      "time": "2026-08-14 09:11:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai gold main contract fell 2.00% intraday to 940.10 yuan/gram."
-    },
-    {
-      "id": "5040269",
-      "time": "2026-08-14 09:11:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4380美元/盎司，日內跌0.95%。"
-    },
-    {
-      "id": "mkt:019ffdd2-07d7-7aab-9031-4a9025d6d7d1",
-      "time": "2026-08-14 09:10:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SMIC co-CEO Zhao Haijun: customer pull-ins offset part of end-market downturn】On Aug. 14 at the Q2 results meeting, SMIC co-CEO Zhao Haijun said wafer revenue by end-market in Q2 was smartphones 17%, PCs & tablets 16%, consumer electronics 44%, connectivity & wearables 7%, and industrial & automotive 17%, with absolute revenue levels rising sequentially. The company shifted capacity to tight-demand areas, producing roughly 40% QoQ growth in AI-related, PC & tablet, and industrial & automotive revenue. Elsewhere, customer pull-ins partly offset end-market weakness, delivering QoQ absolute revenue gains of 8% for smartphones, 16% for consumer electronics and 13% for connectivity & wearables."
-    },
-    {
-      "id": "5040268",
-      "time": "2026-08-14 09:10:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股停牌提示：4股今日停牌】Wind資料顯示，8月14日，鴻特科技、瓦軸B、愛麗家居等4只個股停牌。"
-    },
-    {
-      "id": "mkt:019ffdd1-cba4-7aab-9031-417f4ab7acb9",
-      "time": "2026-08-14 09:10:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Front-month coking coal futures rose more than 2.0% intraday to 1,347 yuan/ton."
     }
   ]
 }
