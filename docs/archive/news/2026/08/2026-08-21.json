@@ -1,7 +1,182 @@
 {
   "date": "2026-08-21",
-  "count": 2345,
+  "count": 2364,
   "items": [
+    {
+      "id": "5052174",
+      "time": "2026-08-21 18:56:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天順股份：2026年上半年虧損761.74萬元，2025年同期虧損634.9萬元】天順股份公告，2026年上半年營業收入5.24億元，同比增長3.68%；歸屬於上市公司股東的淨利潤虧損761.74萬元，2025年同期虧損634.9萬元，虧損較2025年同期擴大19.98%；扣非淨利潤虧損811.98萬元，虧損較2025年同期擴大103.85%。"
+    },
+    {
+      "id": "te:markets:577268",
+      "time": "2026-08-21 18:55:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Rises for Second Straight Week — Brent crude oil traded just below $94 a barrel on Friday, heading for a second consecutive weekly gain of around 6%. Prices remained supported by expectations of further US pressure on Iran, with no clear end to the conflict that has disrupted Middle Eastern energy flows. Treasury Secretary Scott Bessent said details of Washington’s new measures to isolate Iran’s economy would be announced next Monday, after President Donald Trump described the initiative as an “economic D-Day.” The measures could affect countries that continue trading with Tehran, including China, the largest buyer of Iranian crude. Beijing has rejected economic pressure and called for a diplomatic solution. Supply concerns are also being reinforced by disruptions to Russia’s energy sector, where Ukrainian attacks on refineries and ports have affected fuel production and contributed to shortages in some regions."
+    },
+    {
+      "id": "5052173",
+      "time": "2026-08-21 18:55:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外交部長：敘利亞正考慮加入由巴基斯坦、沙烏地阿拉伯與土耳其簽署的麥加聯合防禦協議，但尚未作出決定。"
+    },
+    {
+      "id": "mkt:01a023f6-2823-7aab-90d1-6d4f7fd16040",
+      "time": "2026-08-21 18:55:29",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "Deutsche Bank cuts Walmart (WMT.N) PT to $113 from $120."
+    },
+    {
+      "id": "mkt:01a023f5-7ded-7aab-90d1-6247c6242180",
+      "time": "2026-08-21 18:54:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said the United States will allow imports of up to 300,000 tonnes of product for ground beef production duty-free over the next 90 days, and pledged the beef will be sold at 25% below current market prices."
+    },
+    {
+      "id": "5052172",
+      "time": "2026-08-21 18:54:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唯捷創芯：貴人資本及其一致行動人減持1.37%股份】唯捷創芯公告稱，公司持股5%以上股東貴人資本及其一致行動人減持計劃期限屆滿，於2026年5月20日至8月10日透過集中競價及大宗交易方式累計減持公司股份590.39萬股，佔公司總股本的1.37%，減持總金額1.53億元，減持價格區間為23.52元/股至35.30元/股。本次減持後，貴人資本及其一致行動人合計持有公司股份2531.92萬股，佔公司總股本的5.88%，未完成原計劃減持不超過2%的目標。"
+    },
+    {
+      "id": "5052171",
+      "time": "2026-08-21 18:54:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談關稅：（我們）已達成承諾，這批牛肉將以比當前市場價格低25%的價格出售。"
+    },
+    {
+      "id": "5052170",
+      "time": "2026-08-21 18:54:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普關於關稅問題的表態：未來90天，美國將允許最多30萬噸碎牛肉生產原料免配額外關稅進口。"
+    },
+    {
+      "id": "te:markets:577266",
+      "time": "2026-08-21 18:54:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Rises for Second Straight Week — Crude oil traded just below $87 a barrel on Friday, heading for a second consecutive weekly gain of around 5%. Prices remained supported by expectations of further US pressure on Iran, with no clear end to the conflict that has disrupted Middle Eastern energy flows. Treasury Secretary Scott Bessent said details of Washington’s new measures to isolate Iran’s economy would be announced next Monday, after President Donald Trump described the initiative as an “economic D-Day.” The measures could affect countries that continue trading with Tehran, including China, the largest buyer of Iranian crude. Beijing has rejected economic pressure and called for a diplomatic solution. Supply concerns are also being reinforced by disruptions to Russia’s energy sector, where Ukrainian attacks on refineries and ports have affected fuel production and contributed to shortages in some regions."
+    },
+    {
+      "id": "5052169",
+      "time": "2026-08-21 18:54:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠端股份：擬吸收合併全資子公司宜興遠輝】遠端股份公告稱，公司第六屆董事會第四次會議審議透過多項議案，包括2026年半年度報告及摘要、國聯財務有限責任公司2026年上半年風險持續評估報告、“質量回報雙提升”行動方案進展、擬吸收合併全資子公司宜興遠輝文化發展有限公司、修訂《董事會秘書工作制度》等。其中吸收合併完成後，宜興遠輝全部資產、負債及其他一切權利與義務由公司承接和管理。"
+    },
+    {
+      "id": "mkt:01a023f4-cd0e-7aab-90d1-5f778146cd6e",
+      "time": "2026-08-21 18:54:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said an agreement has been reached and beef prices have fallen sharply."
+    },
+    {
+      "id": "5052168",
+      "time": "2026-08-21 18:53:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠端股份：2026年上半年營收20.62億元 同比降8.61%】遠端股份公告稱，2026年上半年實現營業收入20.62億元，同比下降8.61%；歸屬於上市公司股東的淨虧損6893.87萬元，同比下降264.31%；扣除非經常性損益的淨虧損7124.58萬元，同比下降363.54%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。公司完成兩期債券發行，合計規模4億元；終止2024年度向特定物件發行股票事項，深交所已終止稽核。"
+    },
+    {
+      "id": "5052167",
+      "time": "2026-08-21 18:53:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西藏城投：2026年第二季度合同銷售金額8315.64萬元】西藏城投公告，2026年4-6月無新增房地產土地儲備、無新開工建築面積和無竣工建築面積，在建專案建築面積54.9萬平方米；實現合同銷售套數33套、合同銷售面積0.53萬平方米、合同銷售金額8315.64萬元；車位銷售個數362個、銷售面積1.21萬平方米、銷售金額5284萬元；出租物業租金收入986.8萬元，酒店業務經營收入2397.93萬元。"
+    },
+    {
+      "id": "5052166",
+      "time": "2026-08-21 18:53:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西藏城投：2026年上半年虧損6877.37萬元，上年同期虧損6412.11萬元】西藏城投公告，2026年上半年營業收入2.21億元，同比下降70.29%；歸屬於上市公司股東的淨利潤虧損6877.37萬元，上年同期虧損6412.11萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損7224.17萬元，上年同期虧損6601.49萬元。"
+    },
+    {
+      "id": "5052165",
+      "time": "2026-08-21 18:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已達成協議，碎牛肉價格將大幅下降。"
+    },
+    {
+      "id": "5052164",
+      "time": "2026-08-21 18:53:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【珠海港：擬變更1413萬股回購股份用途為登出】珠海港公告稱，公司擬將回購專用證券賬戶中1413萬股回購股份的用途由“用於股權激勵或員工持股計劃”變更為“用於登出並減少註冊資本”，該部分股份佔公司總股本的1.54%，回購使用資金總額為8004.64萬元（不含交易費用）。本次登出完成後，公司總股本將由9.20億股減少至9.06億股，註冊資本相應減少。該事項尚需提交公司股東會審議批准。"
+    },
+    {
+      "id": "mkt:01a023f3-d7fc-7aab-90d1-52670af08e88",
+      "time": "2026-08-21 18:52:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bearish",
+        "Nasdaq100",
+        "XLF"
+      ],
+      "text": "【BofA: Risk assets vulnerable if US plan to cap long-term Treasury yields fails】BofA strategist Hartnett warns that if the US Treasury’s plan to control long-term yields fails, the dollar would come under pressure and short bets on risk assets could rise ahead of November’s midterm elections. He says if Treasury Secretary Bessent cannot push the 30‑year yield below 5%, he expects the dollar to weaken in the weeks ahead and increased shorting of AI mega‑cap equities, private credit and financial stocks. Policy panic intended to repair the fixed‑income market should cap but not lower Treasury yields."
+    },
+    {
+      "id": "5052163",
+      "time": "2026-08-21 18:52:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景旺電子：2026年上半年淨利潤6.02億元，同比下降7.38%】景旺電子公告，2026年上半年營業收入86.11億元，同比增長21.37%；歸屬於上市公司股東的淨利潤6.02億元，同比下降7.38%，2025年同期為6.5億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.66億元，同比下降13.33%。"
+    },
+    {
+      "id": "5052162",
+      "time": "2026-08-21 18:52:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德龍匯能：2026年上半年營收7.87億元 淨利同比增13.18%】德龍匯能公告稱，2026年上半年實現營業收入7.87億元，同比下降11.50%；歸屬於上市公司股東的淨利潤2796.42萬元，同比增長13.18%；扣非淨利潤2748.93萬元，同比增長11.91%。報告期內公司控股股東變更為東陽諾信芯材企業管理合夥企業（有限合夥），實際控制人變更為孫維佳，變更日期為2026年2月24日。股東劉鑫於2026年7月30日增持後持股比例達5.01%。持股5%以上股東大通集團所持全部2263.89萬股股份均處於質押及凍結狀態。"
+    },
     {
       "id": "5052161",
       "time": "2026-08-21 18:52:40",
