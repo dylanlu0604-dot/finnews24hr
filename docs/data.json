@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-21 13:45:42",
-  "count": 16001,
+  "updated": "2026-08-21 13:49:35",
+  "count": 16000,
   "items": [
+    {
+      "id": "5051320",
+      "time": "2026-08-21 13:46:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盒馬在合肥成立新公司，註冊資本1000萬】天眼查工商資訊顯示，8月20日，合肥鮮安美網路科技有限公司成立，法定代表人為肖華，註冊資本1000萬人民幣，經營範圍包括城市配送運輸服務、食品銷售、食品網際網路銷售等，由盒馬（中國）有限公司全資持股。"
+    },
+    {
+      "id": "5051319",
+      "time": "2026-08-21 13:45:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳女兒黃敏珊參加機器人大會 到訪深企展位】英偉達Omniverse與機器人產品營銷高階總監黃敏珊8月19日到訪2026世界機器人大會越疆機器人展位，實地觀摩雙方在物理AI領域聯合創新成果。作為英偉達創始人兼CEO黃仁勳之女，黃敏珊長期主導英偉達Omniverse平臺及機器人產品線市場工作，是英偉達物理AI與機器人生態戰略的核心推動者。本次到訪並非一般性禮節參觀，是英偉達與越疆深度技術合作背景下，對聯合研發成果的現場檢驗，釋放出全球算力巨頭與中國具身智慧頭部企業協同，正從晶片、模型層面向真實物理世界延伸的重要行業訊號。 (深圳特區報)"
+    },
     {
       "id": "mkt:01a022d8-2dc1-7aab-90c8-ffee936e39b8",
       "time": "2026-08-21 13:43:07",
@@ -146531,33 +146547,6 @@
         "Impact bullish"
       ],
       "text": "【Bank of Communications Group among lead underwriters on market's first corporate Shanghai FTZ offshore bond】Bank of Communications Group, as one of the lead underwriters, supported Shanghai Electric's issuance of the market's first corporate Shanghai Free-Trade Zone offshore bond, raising RMB 1.5 bln. The note is the first FTZ offshore corporate bond to list on HKEX. The transaction marks a milestone in Shanghai FTZ offshore finance and follows the 2026 Lujiazui Forum Shanghai International Financial Center Offshore Finance Action Plan."
-    },
-    {
-      "id": "5040619",
-      "time": "2026-08-14 13:47:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電第二季淨利潤為臺幣7067.8億元，上年同期為臺幣3974.9億元。"
-    },
-    {
-      "id": "mkt:019ffece-b7e6-7aab-9036-5c027dce94c1",
-      "time": "2026-08-14 13:46:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "300017.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-share compute-power leasing sector jumped intraday: DataPort hit limit-up, Wangsu Technology neared limit-up; Caixun, Xingyun Technology, Aofei Data and Litong Electronics also advanced."
-    },
-    {
-      "id": "mkt:019ffece-67a9-7aab-9036-506a37447f67",
-      "time": "2026-08-14 13:46:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Retired naval officer warns long deployments are degrading US carrier readiness】Retired senior US naval officer Harlan Ullman, chairman of strategy consultancy Killowen Group, warned prolonged deployments are eroding aircraft carrier readiness and said the nuclear-powered USS Abraham Lincoln urgently needs in‑port routine maintenance. He said advanced weapons systems cannot be fully maintained at sea and that nine‑month deployments increasingly degrade ship readiness and capability due to lack of necessary maintenance. Ullman added extended wartime deployments also damage crew morale and health, citing strict operational security that limits internet and phone use and complicates basic resupply. He urged the Trump administration to prioritize navy readiness over political considerations."
     }
   ]
 }
