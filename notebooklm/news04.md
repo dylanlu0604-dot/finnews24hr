@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 18:43:49_
-_本檔包含 3060 則快訊，約 655488 字_
+_更新時間：2026-08-21 18:58:18_
+_本檔包含 3082 則快訊，約 657076 字_
+
+---
+
+### 2026-08-18 17:22:46  #其他
+
+【中文線上數字文化出海創作基地正式簽約】據上海臨港訊息，8月18日，中國（上海）自由貿易試驗區臨港新片區管委會與中文線上舉行戰略合作框架協議簽約儀式。中文線上將在臨港新片區落地數字文化出海創作基地，打造全國首個“文化新三樣”全產業鏈基地。基地將建設AIGC內容創作與全球運營中心，依託算力與資料跨境優勢開展AI內容生產、多語種本地化改編以及海外市場運營；搭建數字文創孵化平臺，挖掘優質網文、漫劇、短劇原創IP，扶持內容創作者成長；打造文旅融合傳播中心，推動數字IP與臨港本地文旅資源結合，開發沉浸式數字文創、文旅體驗產品；建設數字內容人才培養基地，聯動高校、行業機構開展實訓實踐，為產業培育AI創作、國際運營等複合型專業人才。
+
+---
+
+### 2026-08-18 17:22:36  #市場
+
+【康寧美股盤前跌超5%】康寧美股盤前跌超5%，現報164.46美元。
+
+---
+
+### 2026-08-18 17:22:31  #宏觀
+
+【香港證監會歡迎金融監管總局宣佈支援內地保險機構可透過滬深港通投資香港ETF】香港證監會歡迎國家金融監管總局今天宣佈積極支援內地保險資金參與內地與香港金融市場互聯互通，支援內地保險機構透過滬深港通投資香港交易所買賣基金（ETF）。這項政策將進一步豐富內地保險機構經香港進行境外資產配置的選擇，體現金融監管總局對持續深化內地與香港金融互聯互通的支援。香港證監會主席黃天祐博士表示：“我們衷心感謝金融監管總局長期以來對香港資本市場發展及內地與香港金融互聯互通的堅定支援。此項新政策為內地保險資金拓寬了境外資產配置的多元渠道，彰顯國家對深化高水平金融開放的決心，亦體現中央對持續深化兩地金融合作的支援。我們深信，有關安排將進一步促進兩地資本市場協同發展。”（香港證監會）
+
+---
+
+### 2026-08-18 17:22:01  #公司
+
+【春秋電子：控股股東持股比例因可轉債轉股被動稀釋至29.08%】春秋電子公告，公司可轉債轉股導致總股本增加，控股股東、實際控制人薛革文先生持股比例由30.37%被動稀釋至29.08%，觸及5%刻度，不涉及持股數量變化，未觸發要約收購，不會導致公司控股股東及實際控制人發生變化。
+
+---
+
+### 2026-08-18 17:21:50  #公司
+
+【江蘇金租：2026年上半年淨利潤17.09億元，同比增長9.27%】江蘇金租公告，2026年上半年營業收入35.15億元，同比增長16.91%。歸屬於上市公司股東的淨利潤17.09億元，同比增長9.27%。歸屬於上市公司股東的扣除非經常性損益的淨利潤16.82億元，同比增長8.44%。基本每股收益0.30元。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-18 17:21:38  #MKT News
+
+Singapore's FTSE Straits Times Index closed down 1.2% at 5,701.40 points.
+
+---
+
+### 2026-08-18 17:21:35  #公司
+
+【英聯股份：8347.25萬股限售股擬8月20日上市流通】英聯股份公告稱，公司控股股東、實際控制人翁偉武所持2022年向特定物件發行的8347.25萬股限售股，佔公司總股本的19.8747%，將於2026年8月20日解除限售並上市流通。截至核查意見出具日，翁偉武已嚴格履行相關承諾，不存在影響本次限售股上市流通的情形。本次解除限售股份中500萬股可直接上市流通，剩餘7847.25股計入高管鎖定股，另有1728.29萬股處於質押狀態，需解押後方可實際流通。
+
+---
+
+### 2026-08-18 17:21:31  #公司
+
+【深圳能源：資訊披露事務負責人發生變動】深圳能源公告稱，2026年8月11日，公司召開董事會八屆五十二次會議，審議透過聘任董事會秘書的議案。公司董事會秘書李倬舸因工作調整提交書面辭職報告，不再擔任董事會秘書職務，離任後繼續擔任公司副總裁職務，其未持有公司股份，不存在未履行承諾事項。經董事長李英峰提名、董事會提名委員會資格稽核，同意聘任盛楊懌擔任公司董事會秘書，任期與第八屆董事會一致，公司資訊披露事務負責人同步變更為盛楊懌。本次人事變動不會對公司日常管理、生產經營及償債能力產生不利影響。
+
+---
+
+### 2026-08-18 17:21:13  #市場
+
+新加坡海峽時報指數收盤下跌 1.2%，報 5701.40 點。
+
+---
+
+### 2026-08-18 17:20:38  #公司
+
+【平安好醫生：上半年歸母利潤2.19億元 同比增長63.5%】平安好醫生髮布未經審計中期業績公告顯示，2026年上半年，公司實現總收入24.84億元，同比下降0.7%；歸母利潤為2.19億元，同比增長63.5%；調整後淨利潤2.27億元，同比增長37.7%。
+
+---
+
+### 2026-08-18 17:20:26  #其他
+
+【天津海河傳媒中心原黨委書記王奕接受審查調查】據天津市紀委監委18日訊息：天津海河傳媒中心原黨委書記王奕涉嫌嚴重違紀違法，目前正接受天津市紀委監委紀律審查和監察調查。（新華社）
+
+---
+
+### 2026-08-18 17:19:52  #公司
+
+【達安基因：取得一個醫療器械註冊證】達安基因公告，近日，公司取得國家藥品監督管理局頒發的醫療器械註冊證一個，具體為：醫療器械名稱：人副流感病毒核酸檢測試劑盒（熒光PCR 法），註冊證編號：國械注準 20263401731。有效期自批准之日起至 2031 年8 月16 日。預期用途：本產品用於定性檢測人口咽拭子中人副流感病毒 RNA，包括人副流感病毒Ⅰ型、人副流感病毒Ⅱ型、人副流感病毒Ⅲ型和人副流感病毒Ⅳ型，本試劑盒的檢測結果不區分副流感病毒型別。上述醫療器械註冊證的取得豐富了公司的產品組合，拓寬了公司產品的應用領域。目前，上述產品尚處於市場開發階段，市場需求存在不確定性，請廣大投資者注意投資風險。
+
+---
+
+### 2026-08-18 17:18:38  #觀點
+
+香港交易所資訊顯示，摩根大通在華勤技術的H股多頭比例於8月13日從16.12%上升至17.02%。
+
+---
+
+### 2026-08-18 17:18:15  #公司
+
+【蘇墾農發：2026年上半年淨利潤1.44億元，同比降32.48%】蘇墾農發公告，2026年上半年營業收入43.32億元，同比下降5.59%；歸屬於上市公司股東的淨利潤1.44億元，同比下降32.48%；扣非淨利潤1.16億元，同比下降33.85%。公司擬每10股派發現金紅利0.4元（含稅）。
+
+---
+
+### 2026-08-18 17:17:39  #公司
+
+【西藏珠峰：2026年上半年淨利潤3.55億元 同比增18.03%】西藏珠峰公告，2026年上半年營業收入16.26億元，同比增長44.83%；歸屬於上市公司股東的淨利潤3.55億元，同比增長18.03%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.58億元，同比增長18.85%。
+
+---
+
+### 2026-08-18 17:17:25  #公司
+
+【神力股份：持股5%以上股東股份司法拍賣網拍階段結束】神力股份公告稱，公司持股5%以上股東中物一方所持1745.07萬股股份（佔公司總股本8.01%）的司法拍賣網拍階段已結束，合計成交金額2.19億元。其中上海方圓達創投資合夥企業（有限合夥）競得845.07萬股，佔總股本3.89%；吳明晴、嚴偉傑、廖梓含各競得300萬股，各佔總股本1.38%。本次拍賣完成過戶後中物一方將不再持有公司股份，該事項不會導致公司控制權變更，也不會對生產經營與治理結構產生重大不利影響。後續還涉及繳納拍賣餘款、法院執行法定程式、股份變更過戶等環節，最終結果尚存在不確定性。
+
+---
+
+### 2026-08-18 17:17:25  #MKT News
+
+Invesco Nasdaq Technology ETF said it will suspend trading from market open on Aug 19, 2026 and resume trading at 10:30 on Aug 19, 2026; redemption requests will be processed normally during the suspension.
+
+---
+
+### 2026-08-18 17:17:11  #公司 #市場
+
+【眼科管線失利刷屏，貝達藥業20CM跌停，公司回應】8月18日，貝達藥業股價大幅低開、迅速封死跌停。訊息面上，8月17日，EyePoint公佈其眼科藥物伏羅尼布眼科緩釋製劑DURAVYU（EYP-1901）治療溼性老年黃斑變性LUGANO全球III期試驗未達到預設主要療效終點。受此影響，EYPT隔夜美股大跌66.98%。對此，貝達藥業方面回應記者，公司海外子公司和EYPT是有合作關係的，且合作了很多年。昨天EYPT公佈了伏羅尼布眼科緩釋製劑III期臨床研究一項結果，確實沒有達到預期，還有一項結果，預計10月份出來。這個藥品沒有上市，因此對公司現有業務沒有什麼影響。該事項暫未觸發上市公司強制資訊披露標準，目前公司在半年報披露靜默期，公司業績及後續情況以公司公告為準。（中證金牛座）
+
+---
+
+### 2026-08-18 17:16:31  #公司
+
+【國藥現代：子公司維生素B12注射液透過一致性評價】國藥現代(600420.SH)公告稱，公司全資子公司國藥容生收到國家藥監局核准簽發的《藥品補充申請批准通知書》，批准維生素B12注射液增加1ml:1mg規格並透過仿製藥質量和療效一致性評價。該藥品主要用於巨幼細胞性貧血及神經系統病變輔助治療。2025年該藥品在全國公立醫療機構及城市藥店銷售額為6718萬元。截至目前，國藥容生累計研發投入約316.32萬元。此次過評有利於產品市場拓展，但對公司當期經營業績不會產生重大影響。
+
+---
+
+### 2026-08-18 17:15:54  #公司
+
+【惠泉啤酒：2026年上半年淨利潤4877.73萬元，同比增長23.26%】惠泉啤酒公告，2026年上半年營業收入3.69億元，同比增長5.11%。歸屬於上市公司股東的淨利潤4877.73萬元，同比增長23.26%；扣非淨利潤4630.11萬元，同比增長20.58%。本報告期未進行利潤分配或公積金轉增股本。
+
+---
+
+### 2026-08-18 17:15:46  #公司 #市場
+
+【匯添富納斯達克100：提示基金二級市場交易價格溢價風險】匯添富納斯達克100公告稱，2026年8月18日，本基金二級市場收盤價為2.396元，收盤時基金份額參考淨值為2.2174元，交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若2026年8月19日該溢價幅度未有效回落，基金管理人有權向深交所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前本基金運作正常，無其他應披露未披露重大資訊，提醒投資者密切關注溢價風險，審慎決策。
+
+---
+
+### 2026-08-18 17:15:41  #公司 #市場
+
+【廣發納斯達克100：納指ETF廣發出現大幅溢價 提示交易風險】廣發納斯達克100公告稱，旗下納指ETF廣發（基金程式碼159941）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月18日，該基金二級市場收盤價為1.667元，收盤時基金份額參考淨值為1.5200元。若2026年8月19日該基金二級市場交易價格溢價幅度未有效回落，基金管理人有權向深交所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前該基金運作正常，無其他應披露未披露重大資訊。
+
+---
+
+### 2026-08-18 17:15:40  #MKT News #005380.KS #Impact bearish
+
+Hyundai Motor's South Korea union said it will stage partial strikes on Aug. 19, 20, 24 and 25.
+
+---
+
+### 2026-08-18 17:15:38  #公司 #市場
+
+【易方達基金：旗下納指ETF易方達出現大幅溢價風險】易方達基金公告稱，旗下易方達納斯達克100交易型開放式指數證券投資基金(QDII)（場內簡稱：納指ETF易方達，基金程式碼：159696）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月18日，該基金二級市場收盤價為2.057元，收盤時基金份額參考淨值為1.8889元。若2026年8月19日該基金二級市場交易價格溢價幅度未有效回落，基金管理人有權向深交所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前該基金運作正常，無其他應披露未披露重大資訊。
+
+---
+
+### 2026-08-18 17:15:32  #公司 #市場
+
+【納指科技ETF景順：因溢價較大8月19日臨時停牌】納指科技ETF景順公告稱，2026年8月18日，本基金二級市場收盤價為2.824元，收盤時基金份額參考淨值為2.2965元，二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。本基金將於2026年8月19日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若8月19日溢價幅度未有效回落，基金管理人有權申請盤中臨時停牌、延長停牌時間及連續停牌等風險警示措施。目前基金運作正常，無其他應披露未披露重大資訊。
+
+---
+
+### 2026-08-18 17:15:23  #公司
+
+【金田股份：擬分拆控股子公司科田磁業上市，尚處籌劃階段】金田股份公告，公司擬籌劃分拆控股子公司寧波科田磁業股份有限公司至境內證券交易所上市。公司於2026年8月18日召開董事會審議透過相關議案，同意啟動本次分拆上市的前期籌備工作。本次分拆上市尚處於前期籌劃階段，尚未形成具體方案，且存在不確定性。
+
+---
+
+### 2026-08-18 17:15:21  #公司
+
+【金田股份：2026年上半年淨利潤4.42億元 同比增18.44%】金田股份公告，2026年上半年營業收入792.99億元，同比增長33.74%；歸屬於上市公司股東的淨利潤4.42億元，同比增長18.44%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.23億元，同比下降15.22%。本期未進行利潤分配或公積金轉增股本。
+
+---
+
+### 2026-08-18 17:15:18  #公司 #市場
+
+【華安納斯達克100ETF：提示二級市場交易價格溢價風險】華安納斯達克100交易型開放式指數證券投資基金(QDII)公告稱，2026年8月18日，本基金二級市場收盤價為2.484元，收盤時基金份額參考淨值為2.3047元，出現較大幅度溢價。若2026年8月19日溢價幅度未有效回落，基金管理人有權向深交所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無其他應披露未披露重大資訊，提醒投資者密切關注溢價風險，審慎決策。
+
+---
+
+### 2026-08-18 17:14:49  #國際
+
+現代汽車韓國工會將於8月21日舉行全天罷工。
+
+---
+
+### 2026-08-18 17:14:11  #公司 #國際
+
+【94%北美基金對沖外匯風險創四年新高】外匯和現金管理解決方案公司MillTech的一項調查顯示，在地緣政治不確定性加劇的背景下，美國和加拿大的基金經理選擇進行外匯對沖的比例已升至94%，達到至少四年來的最高水平。
+
+---
+
+### 2026-08-18 17:14:10  #Trading Economics #Economy #Euro Area #ZEW Economic Sentiment Index #Importance 1
+
+Eurozone Investor Morale Stronger than Anticipated — The ZEW Indicator of Economic Sentiment for the Euro Area rose further to 31.4 in August 2026, the highest in six months and beating market expectations of 25.4. This marked the third consecutive month of improvement in sentiment across the bloc. In August, 57% of analysts expected no change in economic activity, while 37.2% anticipated an improvement and 5.8% expected deterioration. The assessment of the current situation also improved, with the index surging 16.2 points to -21.5, while inflation expectations declined 8 points to 2.4.
+
+---
+
+### 2026-08-18 17:14:09  #公司
+
+【嘉華股份：2026年上半年淨利潤5666.84萬元，同比降9.03%】嘉華股份公告，2026年上半年營業收入8.56億元，同比增長25.66%。歸屬於上市公司股東的淨利潤5666.84萬元，同比下降9.03%。扣除非經常性損益的淨利潤5639.06萬元，同比下降8.70%。公司擬向全體股東每股派發現金紅利0.20元（含稅）。
+
+---
+
+### 2026-08-18 17:13:47  #公司 #市場
+
+【大成納斯達克100ETF：提示基金二級市場交易價格溢價風險】大成納斯達克100ETF公告稱，2026年8月18日，本基金二級市場收盤價為1.826元，收盤時基金份額參考淨值為1.6954元，交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若2026年8月19日溢價幅度未有效回落，基金有權向深交所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無其他應披露未披露重大資訊，提醒投資者密切關注溢價風險，審慎決策。
+
+---
+
+### 2026-08-18 17:13:40  #公司
+
+【博時中證工程機械主題ETF：8月24日起開放申贖並上市交易】博時中證工程機械主題ETF公告稱，該基金基金合同生效日為2026年8月14日，自2026年8月24日起開放日常申購、贖回業務並在深圳證券交易所上市交易。本基金場內申贖最小單位均為100萬份，申贖代理券商可分別按不超過0.3%、0.5%的標準收取佣金。
+
+---
+
+### 2026-08-18 17:13:33  #公司
+
+【金祿電子：股東權益變動觸及1%整數倍】金祿電子公告稱，2026年8月17日，股東葉勁忠透過大宗交易方式減持公司股份100萬股，佔公司總股本的0.47%，葉勁忠及其一致行動人葉慶忠合計持股佔公司總股本的比例由11.04%減少至10.57%，權益變動觸及1%整數倍。本次減持符合此前披露的減持計劃，截至致函日該減持計劃尚未實施完畢，本次減持不會導致公司控制權發生變化，不會對公司持續經營產生重大影響。
+
+---
+
+### 2026-08-18 17:13:29  #公司
+
+【協創資料：與冀銀金租簽訂4.98億元直租融資租賃合同】協創資料公告稱，公司與冀銀金融租賃股份有限公司簽訂《融資租賃合同》及《抵押合同》，以直租形式開展融資租賃業務，融資額度為4.98億元，融資期限為60個月，起租日為冀銀金租支付首筆租賃物購買價款之日。本次融資租賃業務在公司此前審議透過的800億元授信額度範圍內，無需再提交董事會、股東會審議，交易不構成關聯交易及重大資產重組。
+
+---
+
+### 2026-08-18 17:13:00  #國際
+
+現代汽車韓國工會將舉行五天罷工。
+
+---
+
+### 2026-08-18 17:12:44  #公司 #市場
+
+【大成納斯達克100ETF：提示基金二級市場交易價格溢價風險】大成納斯達克100ETF公告稱，2026年8月18日，本基金二級市場收盤價為1.826元，收盤時基金份額參考淨值為1.6954元，交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若2026年8月19日溢價幅度未有效回落，基金有權向深交所申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無其他應披露未披露重大資訊，提醒投資者密切關注溢價風險，審慎決策。
+
+---
+
+### 2026-08-18 17:12:31  #公司
+
+【復旦微電：與關聯方成立註冊資本7000萬元合資公司】復旦微電公告稱，2026年8月17日，公司與卓垣瑞芯、卓垣昱芯、周軍先生及王延政先生訂立股東協議，約定在上海成立合資公司上海卓垣弘芯半導體科技有限公司，註冊資本7000萬元。其中公司以無形資產認繳出資1750萬元，持股25.00%；卓垣瑞芯認繳出資1921萬元，持股27.44%；卓垣昱芯認繳出資1330萬元，持股19.00%；周軍先生認繳出資1333萬元，持股19.04%；王延政先生認繳出資666萬元，持股9.52%。該交易屬於公司關聯交易，可獲豁免獨立股東批准。
+
+---
+
+### 2026-08-18 17:12:29  #公司 #國際
+
+【愛奇藝：二季度收入62.9億元 運營虧損收窄】愛奇藝釋出截至2026年6月30日未經審計的第二季度財報。二季度，愛奇藝總收入62.9億元人民幣，環比增長1%。其中，會員服務收入40.1億元，線上廣告服務收入12.5億元，內容發行收入6.8億元，其他收入3.4億元。當季，愛奇藝營業成本為52.5億元。作為成本的主要組成部分，內容成本為38.2億元，同比增長1%。當季銷售及管理費用、研發費用分別為7.4億元和4億元。二季度，Non-GAAP（非美國通用會計準則）標準下，愛奇藝運營虧損約3030萬元，較上季度的1.5億元大幅收窄。愛奇藝經營活動現金流改善，當季經營活動產生的現金流入淨值為3.4億元，2025年同期現金流出淨值為1270萬元。（新浪科技）
+
+---
+
+### 2026-08-18 17:12:14  #市場
+
+美股儲存概念股盤前全線下跌，美光科技跌4.8%，閃迪、SK海力士、西部資料跌約5.5%。
+
+---
+
+### 2026-08-18 17:12:06  #MKT News #Market Regions #Wall Street (US) #MU.O #Impact bearish #SNDK.O #WDC.O
+
+US-listed memory and storage stocks fell in premarket trade: Micron Technology (MU.O) down 4.8%; SanDisk (SNDK.O), SK Hynix (SKHY.O) and Western Digital Corp (WDC.O) each down about 5.5%.
+
+---
+
+### 2026-08-18 17:11:35  #國際
+
+【伊朗議長：條件滿足前霍爾木茲海峽不會開放】當地時間18日，伊朗伊斯蘭議會議長卡利巴夫表示，在美國解除對伊朗財產的凍結、解除石油制裁、停止所有戰線的軍事威脅與行動以及滿足諒解備忘錄的其他條件之前，霍爾木茲海峽不會開放。卡利巴夫指出，諒解備忘錄在解除封鎖和停火方面帶來的契機，有助於增強伊朗的經濟韌性並重建防禦能力。他同時強調，伊朗已做好準備，將根據敵對勢力的任何越軌行為予以更沉重的打擊。（央視新聞）
+
+---
+
+### 2026-08-18 17:11:27  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran parliament speaker: Strait of Hormuz will not open until US lifts asset freezes, oil sanctions】On the 18th, Iranian parliament speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz will not be opened until the US unfreezes Iranian assets, lifts oil sanctions, ceases all military threats and operations on all fronts and meets other conditions of the memorandum of understanding. He said the MoU's chance to lift the blockade and secure a ceasefire would help bolster Iran's economic resilience and rebuild defensive capabilities. Ghalibaf warned Iran is prepared to respond with heavier strikes to any hostile transgressions.
+
+---
+
+### 2026-08-18 17:11:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【NFRA backs mainland insurers investing in Hong Kong-listed ETFs via Stock Connect】18 August 2026 — China’s National Financial Regulatory Administration (NFRA) said it supports mainland insurance institutions participating in mainland–Hong Kong market connectivity and using the Shanghai- and Shenzhen–Hong Kong Stock Connect to invest in Hong Kong-listed ETFs. The remarks were made by NFRA vice director Xiao Yuanqi after a meeting with Hong Kong financial officials.
+
+---
+
+### 2026-08-18 17:10:53  #MKT News #PONY.O #Impact bullish
+
+Pony.ai (PONY.O) shares rose 5% in US pre-market trading after reporting Q2 total revenue up 68.8% YoY.
+
+---
+
+### 2026-08-18 17:10:44  #MKT News #00305.HK #Impact bearish
+
+Wuling Motors (00305.HK) expects 1H net profit of about RMB63 mln, down about 27% YoY; profit attributable to owners about RMB26 mln, down about 34% YoY.
+
+---
+
+### 2026-08-18 17:10:39  #公司
+
+五菱汽車(00305.HK)：預計上半年淨利潤約人民幣6300萬元，同比減少約27%；公司擁有人應占利潤約人民幣2600萬元，同比減少約34%。
+
+---
+
+### 2026-08-18 17:09:24  #其他
+
+阿里巴巴對易居中國的多頭持倉降至 5.76%。
+
+---
+
+### 2026-08-18 17:09:18  #其他
+
+【岑浩輝：力爭在2030年實現非博彩業增加值佔本地生產總值比重達到60%左右】澳門特區政府18日正式公佈《澳門特別行政區經濟和社會發展第三個五年規劃（2026-2030年）》。 岑浩輝表示，“三五”規劃是澳門特區邁向高質量發展新階段的路線圖和任務書。未來五年，澳門特區政府將以四大工程專案和政府引導基金為抓手，紮實推進經濟適度多元發展。結合自身優勢和資源稟賦，加大政策支援和資金投入力度，更好發揮市場的決定性作用和企業的主體作用，重點推動“1+4”多元產業發展，力爭在2030年實現非博彩業增加值佔本地生產總值比重達到60%左右。（大灣區之聲）
 
 ---
 
@@ -18282,173 +18582,5 @@ China Retail Sales Growth Unexpectedly Slows — China’s retail sales rose 0.6
 ### 2026-08-17 15:11:03  #MKT News #Commodities #Energy #Copper #Impact bullish
 
 【NEA urges acceleration of large wind and PV base construction】China's National Energy Administration, after its July monthly renewable-power dispatch video meeting, instructed local energy authorities to fully implement the minimum renewable-consumption share and renewable-power absorption responsibility-weighting measures and to coordinate with MIIT, housing and transport departments to prepare regional absorption implementation plans. Authorities must ensure key energy-intensive sectors meet consumption targets, strengthen monitoring and assessment, and enforce green-consumption responsibilities. The NEA called for accounting of baseline, economic and strategic factors, balancing reasonable project returns with system operating costs, and setting renewable-utilization targets scientifically. It said large interconnections (big-grid absorption) should remain the primary route, while promoting green-power direct links, source‑grid‑load‑storage integration and non-grid consumption to raise renewable absorption. The agency ordered an acceleration of large wind and photovoltaic base projects and the expedited development of offshore wind, centralized onshore wind and PV, concentrated solar power and distributed renewable projects, urging faster preparatory work and earlier construction starts to deliver physical output.
-
----
-
-### 2026-08-17 15:10:25  #其他
-
-【華為小藝、vivo藍心小V、榮耀YOYO將接入支付寶阿寶】從知情人士處獲悉，華為小藝、vivo藍心小V、榮耀YOYO正推進接入支付寶阿寶，現已開始測試，落地後手機系統AI將可呼叫支付寶辦事智慧體能力。據前述知情人士透露，支付寶方面還在與更多手機品牌洽談相關合作，目標推動主流手機終端實現對阿寶的接入。（藍鯨新聞）
-
----
-
-### 2026-08-17 15:10:05  #MKT News #Market Themes #China Tech Giants
-
-【Huawei Xiaoyi, vivo BlueHeart XiaoV, Honor YOYO to integrate with Alipay Abao】People familiar with the matter said Huawei’s Xiaoyi, vivo’s BlueHeart XiaoV and Honor’s YOYO are testing integration with Alipay’s Abao. Once deployed, handset system AI will be able to invoke Alipay’s service-agent capabilities. Alipay is in talks with additional phone makers to push Abao access onto mainstream Chinese handsets.
-
----
-
-### 2026-08-17 15:09:49  #宏觀
-
-【國家能源局：加快推進大型風電光伏基地專案建設工作】近期，國家能源局召開全國可再生能源電力開發建設月度（7月）排程影片會。會議強調，要充分認識我國新能源和可再生能源發展已經全面進入高質量發展新階段，面對新形勢、新要求，要紮實抓好三方面工作，實現“十五五”良好開局。一是紮實抓好規劃和政策落地落實。各單位要全力推進“十五五”新型能源體系建設規劃、可再生能源發展規劃以及綠證核發交易、新能源入市、零碳園區、綠電直連等已出臺的各項政策落實。地方能源主管部門制定規劃、政策時要加強與國家規劃、政策的銜接，分解發展目標，細化落實舉措，抓好重大專案工程建設。二是紮實抓好擴大綠電消費促進新能源消納工作。地方能源主管部門要全面落實《可再生能源消費最低比重目標和可再生能源電力消納責任權重製度實施辦法》要求，會同工信、住建、交通等部門編制消納實施方案，組織好本區域重點用能行業完成消費目標，強化監測考核與政策宣貫，壓實各方綠色消費責任，算好基礎賬、經濟賬、戰略賬，兼顧專案合理回報與系統執行成本，科學制定新能源利用率目標。要堅持以大電網消納為主，因地制宜推進綠電直聯、源網荷儲一體化、非電與非電網消納，多措並舉提升新能源消納水平。三是紮實抓好專案開發建設。各單位要加快推進大型風電光伏基地專案建設工作，同時全面推進海上風電、陸上集中式風電光伏、光熱、分散式新能源專案開發建設，加快開展前期工作，推動儘早開工，形成實物工作量。
-
----
-
-### 2026-08-17 15:09:40  #經濟數據 #中國
-
-【國家統計局：前7個月我國工業機器人產量同比增長28.5%】國家統計局新聞發言人付凌暉在17日舉行的國新辦新聞釋出會上說，今年1至7月份，我國裝備製造業和高技術製造業增勢良好，工業機器人產量同比增長28.5%，3D列印裝置、鋰離子電池產量同比分別增長52.3%、40.2%。
-
----
-
-### 2026-08-17 15:09:34  #MKT News #Market Regions #Greater China
-
-【Chile's foreign minister Perez to visit China Aug. 18-22】China's foreign ministry said Chilean foreign minister Perez will make an official visit to China from Aug. 18-22 at the invitation of China foreign minister Wang Yi.
-
----
-
-### 2026-08-17 15:09:34  #MKT News #CNH #Impact mixed #Copper #Impact bullish #CSI300 #Impact bearish
-
-【China NBS: Jan–Jul output of 3D printers, lithium‑ion batteries, industrial robots up 52.3%, 40.2%, 28.5% YoY】China's National Bureau of Statistics said industrial value added at firms above designated size rose 5.3% YoY in Jan–Jul. By sector, mining +2.5% YoY, manufacturing +5.6%, utilities +5.4%. Equipment manufacturing rose 9.7% and high‑technology manufacturing 13.8%, outperforming the overall pace by 4.4 and 8.5 ppts respectively. By ownership, value added was: state‑controlled +3.9% YoY, joint‑stock +5.8%, foreign/HK/Macau/Taiwan‑invested +3.1%, private +4.5%. Key product outputs Jan–Jul: 3D printers +52.3% YoY, lithium‑ion batteries +40.2%, industrial robots +28.5%. In July, industrial value added was up 4.5% YoY and 0.11% MoM. July manufacturing PMI 49.2; business expectations index 54.1. Jan–Jun total profits at industrial firms above designated size were 3.948 tln yuan, up 18.7% YoY.
-
----
-
-### 2026-08-17 15:09:18  #其他
-
-ALPHABET計劃透過發行澳大利亞債券籌集50億澳元。
-
----
-
-### 2026-08-17 15:08:51  #其他
-
-【國家統計局：加大逆週期調節力度 加力擴大內需、最佳化供給】國家統計局表示，總的來看，1—7月份國民經濟執行總體平穩，保持向新向優向好發展態勢。但也要看到，外部環境複雜多變，國內供強需弱矛盾突出，部分企業經營困難，經濟穩中向好的基礎還需鞏固。下階段，要堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，堅持深化改革開放，加快推動新舊動能轉換，加大逆週期調節力度，加力擴大內需、最佳化供給，切實保障和改善民生，增強發展動力、激發社會活力，推動經濟持續向新向優向好發展。
-
----
-
-### 2026-08-17 15:08:49  #MKT News #Market Themes #China Tech Giants #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-China's National Bureau of Statistics said Jan–Jul investment in high‑tech industries rose 5.0% YoY; investment in information services rose 19.2% YoY, aircraft and spacecraft equipment manufacturing rose 12.3% YoY, and electronics and communications equipment manufacturing rose 7.1% YoY.
-
----
-
-### 2026-08-17 15:08:46  #經濟數據 #中國
-
-【中國7月份粗鋼產量7693萬噸 同比下降3.6%】國家統計局釋出最新工業生產資料，中國7月份粗鋼產量7693萬噸，同比下降3.6%；1-7月份粗鋼產量57704萬噸，同比下降3.1%。
-
----
-
-### 2026-08-17 15:08:44  #Trading Economics #Economy #China #Unemployment Rate #Importance 1
-
-China Jobless Rate Rises More than Expected — China’s surveyed urban unemployment rate rose to 5.2% in July 2026 from 5.0% in June, slightly above market expectations of 5.1%. The surveyed unemployment rate was 5.2% for both the population with local household registration and those with non-local household registration, while the rate for people with non-local agricultural household registration stood at 4.9%. The surveyed urban unemployment rate in 31 major cities rose to 5.2%, 0.2 percentage points higher than the previous month. Employees at enterprises worked an average of 48.2 hours per week.
-
----
-
-### 2026-08-17 15:08:13  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index
-
-【NBS: Jan–Jul funds to property developers CNY 4.575 trln, down 20.3% YoY】NBS data: Jan–Jul funds to property developers totaled CNY 4.575 trln, down 20.3% YoY. Breakdown: domestic loans CNY 630 bln (-32.1% YoY); self‑raised funds CNY 1.654 trln (-18.5%); deposits and advance receipts CNY 1.438 trln (-14.4%); individual mortgage loans CNY 604 bln (-23.5%).
-
----
-
-### 2026-08-17 15:08:09  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #SSE Composite
-
-【July: China first‑tier new‑home prices flat MoM; second‑tier -0.1%, third‑tier -0.3%】China's National Bureau of Statistics July data show new‑home prices in first‑tier cities were flat MoM, down from +0.1% in June. Shanghai +0.2%, Guangzhou +0.1%, Shenzhen +0.2%, Beijing -0.3%. Second‑tier new‑home prices fell 0.1% MoM after holding steady the prior month. Third‑tier new‑home prices declined 0.3% MoM, unchanged from June. Of 70 major cities, 23 recorded MoM price rises or no change, two more than the previous month.
-
----
-
-### 2026-08-17 15:07:57  #Trading Economics #Economy #China #Industrial Production #Importance 3
-
-China Industrial Output Growth Below Forecasts — China’s industrial production expanded 4.5% yoy in July 2026, slowing from a 5.3% rise in June, which was the fastest growth in three months, and below expectations of 5.0%. The deceleration came amid softer growth in manufacturing (5.5% vs 6.0% in June) and electricity, heat, gas, and water (5.0% vs 7.4%), while mining output fell 4.2%, after a 2.2% drop in June.
-
----
-
-### 2026-08-17 15:07:57  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Copper #Hang Seng Index
-
-【NBS: Jan–Jul new commercial housing sales area 450.21 mln sq m, down 11.8% YoY】National Bureau of Statistics: Jan–Jul new commercial housing sales area 450.21 mln sq m, down 11.8% YoY; residential sales area down 12.7% YoY. New commercial housing sales value 4.27 trillion yuan, down 13.1%; residential sales value down 13.2%. At end‑July, commercial housing for sale 759.11 mln sq m, down 0.8% YoY; stock under three years 555.59 mln sq m, down 3.6%.
-
----
-
-### 2026-08-17 15:07:35  #MKT News #Market Regions #Greater China
-
-National Bureau of Statistics: Shanghai second-hand residential prices in July MoM +0.3% (prev +0.4%), YoY -2.0% (prev -3.2%).
-
----
-
-### 2026-08-17 15:07:29  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
-
-National Bureau of Statistics: Beijing July resale residential prices MoM 0.0% (June +0.1%), YoY -4.5% (June -5.5%).
-
----
-
-### 2026-08-17 15:07:21  #MKT News #Market Regions #Greater China #Copper #Impact bearish #CNH #Hang Seng Index
-
-【NBS: Jan–Jul housing under construction 5.576 bln sqm, down 12.7% YoY】China NBS data: Jan–Jul total housing under construction by property developers 5.576 bln sqm, down 12.7% YoY; residential under construction 3.871 bln sqm, down 13.0% YoY. New housing starts 267.0 mln sqm, down 24.0% YoY; residential starts 194.9 mln sqm, down 24.6% YoY. Housing completions 192.0 mln sqm, down 23.2% YoY; residential completions 134.4 mln sqm, down 25.5% YoY.
-
----
-
-### 2026-08-17 15:07:17  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-NBS: Guangzhou resale home prices July MoM +0.4% (prior +0.4%), YoY -4.7% (prior -6.1%).
-
----
-
-### 2026-08-17 15:07:14  #MKT News #Market Regions #Greater China
-
-China's National Bureau of Statistics: Shenzhen second-hand residential prices rose 0.2% MoM in July (June +0.3%) and fell 3.6% YoY (June -4.7%).
-
----
-
-### 2026-08-17 15:07:04  #MKT News #Market Regions #Greater China #CNH #Impact bullish #SSE Composite
-
-China's National Bureau of Statistics said Shanghai new commercial housing prices rose 0.2% MoM in July (June +0.3%) and 3.0% YoY (June +3.1%).
-
----
-
-### 2026-08-17 15:07:01  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #SSE Composite
-
-【National Bureau of Statistics: Jan–Jul online goods and services retail sales RMB 11.72 trillion, +4.8% YoY】China's National Bureau of Statistics said Jan–Jul online goods and services retail sales totaled RMB 11.72 trillion, up 4.8% YoY. Online goods retail was RMB 7.40 trillion, up 4.6%; within online goods, food, apparel and household-goods categories rose 16.9%, 5.8% and 1.1%, respectively. Online services retail was RMB 4.32 trillion, up 5.2%. Among retail enterprises above designated size, convenience store and supermarket sales rose 6.1% and 3.8% YoY, while specialty stores, department stores and brand outlets fell 1.8%, 2.4% and 9.3%.
-
----
-
-### 2026-08-17 15:06:59  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Copper
-
-【China NBS: Jan–Jul urban retail sales 24.93 tln yuan, +1.1% YoY】China's National Bureau of Statistics said Jan–Jul urban retail sales of consumer goods totaled 24.93 tln yuan, up 1.1% YoY; rural retail sales were 3.85 tln yuan, up 2.4%. July urban retail sales amounted to 3.38 tln yuan, up 0.5% YoY; rural sales were 524.2 bln yuan, up 1.6%. By type, Jan–Jul retail sales of goods were 25.49 tln yuan, up 1.1% YoY; catering revenue was 3.28 tln yuan, up 2.6%. In July, goods retail was 3.45 tln yuan, up 0.5% YoY; catering revenue was 456.7 bln yuan, up 1.4%.
-
----
-
-### 2026-08-17 15:06:55  #MKT News #Market Regions #Greater China
-
-National Bureau of Statistics: Guangzhou new home prices in July rose 0.1% MoM (June +0.2%) and fell 2.2% YoY (June -2.6%).
-
----
-
-### 2026-08-17 15:06:44  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-China NBS: Shenzhen July new‑home prices +0.2% MoM (prev +0.3%); -2.9% YoY (prev -3.6%).
-
----
-
-### 2026-08-17 15:06:39  #MKT News #Market Regions #Greater China
-
-National Bureau of Statistics: Beijing newly built commercial residential prices in July -0.3% MoM (prev. -0.3%), -2.3% YoY (prev. -2.1%).
-
----
-
-### 2026-08-17 15:06:35  #國際
-
-據上海航運交易所資料，截至2026年8月17日，上海出口集裝箱結算運價指數（歐洲航線）報3246.38點，與上期相比跌4.1%。
-
----
-
-### 2026-08-17 15:06:00  #經濟數據 #中國
-
-【國家統計局：7月規模以上數字產品製造業增加值同比增長17.3% 增速較上月加快3.5個百分點】國家統計局釋出資料，7月份，規模以上數字產品製造業增加值同比增長17.3%，增速較上月加快3.5個百分點。從行業看，電子元器件及裝置製造、智慧裝置製造、計算機制造等行業增加值分別增長24.7%、15.1%、10.9%。
 
 ---

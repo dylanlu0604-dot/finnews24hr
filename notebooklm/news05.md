@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-21 18:43:49_
-_本檔包含 3328 則快訊，約 655532 字_
+_更新時間：2026-08-21 18:58:18_
+_本檔包含 3322 則快訊，約 655552 字_
+
+---
+
+### 2026-08-17 15:10:25  #其他
+
+【華為小藝、vivo藍心小V、榮耀YOYO將接入支付寶阿寶】從知情人士處獲悉，華為小藝、vivo藍心小V、榮耀YOYO正推進接入支付寶阿寶，現已開始測試，落地後手機系統AI將可呼叫支付寶辦事智慧體能力。據前述知情人士透露，支付寶方面還在與更多手機品牌洽談相關合作，目標推動主流手機終端實現對阿寶的接入。（藍鯨新聞）
+
+---
+
+### 2026-08-17 15:10:05  #MKT News #Market Themes #China Tech Giants
+
+【Huawei Xiaoyi, vivo BlueHeart XiaoV, Honor YOYO to integrate with Alipay Abao】People familiar with the matter said Huawei’s Xiaoyi, vivo’s BlueHeart XiaoV and Honor’s YOYO are testing integration with Alipay’s Abao. Once deployed, handset system AI will be able to invoke Alipay’s service-agent capabilities. Alipay is in talks with additional phone makers to push Abao access onto mainstream Chinese handsets.
+
+---
+
+### 2026-08-17 15:09:49  #宏觀
+
+【國家能源局：加快推進大型風電光伏基地專案建設工作】近期，國家能源局召開全國可再生能源電力開發建設月度（7月）排程影片會。會議強調，要充分認識我國新能源和可再生能源發展已經全面進入高質量發展新階段，面對新形勢、新要求，要紮實抓好三方面工作，實現“十五五”良好開局。一是紮實抓好規劃和政策落地落實。各單位要全力推進“十五五”新型能源體系建設規劃、可再生能源發展規劃以及綠證核發交易、新能源入市、零碳園區、綠電直連等已出臺的各項政策落實。地方能源主管部門制定規劃、政策時要加強與國家規劃、政策的銜接，分解發展目標，細化落實舉措，抓好重大專案工程建設。二是紮實抓好擴大綠電消費促進新能源消納工作。地方能源主管部門要全面落實《可再生能源消費最低比重目標和可再生能源電力消納責任權重製度實施辦法》要求，會同工信、住建、交通等部門編制消納實施方案，組織好本區域重點用能行業完成消費目標，強化監測考核與政策宣貫，壓實各方綠色消費責任，算好基礎賬、經濟賬、戰略賬，兼顧專案合理回報與系統執行成本，科學制定新能源利用率目標。要堅持以大電網消納為主，因地制宜推進綠電直聯、源網荷儲一體化、非電與非電網消納，多措並舉提升新能源消納水平。三是紮實抓好專案開發建設。各單位要加快推進大型風電光伏基地專案建設工作，同時全面推進海上風電、陸上集中式風電光伏、光熱、分散式新能源專案開發建設，加快開展前期工作，推動儘早開工，形成實物工作量。
+
+---
+
+### 2026-08-17 15:09:40  #經濟數據 #中國
+
+【國家統計局：前7個月我國工業機器人產量同比增長28.5%】國家統計局新聞發言人付凌暉在17日舉行的國新辦新聞釋出會上說，今年1至7月份，我國裝備製造業和高技術製造業增勢良好，工業機器人產量同比增長28.5%，3D列印裝置、鋰離子電池產量同比分別增長52.3%、40.2%。
+
+---
+
+### 2026-08-17 15:09:34  #MKT News #Market Regions #Greater China
+
+【Chile's foreign minister Perez to visit China Aug. 18-22】China's foreign ministry said Chilean foreign minister Perez will make an official visit to China from Aug. 18-22 at the invitation of China foreign minister Wang Yi.
+
+---
+
+### 2026-08-17 15:09:34  #MKT News #CNH #Impact mixed #Copper #Impact bullish #CSI300 #Impact bearish
+
+【China NBS: Jan–Jul output of 3D printers, lithium‑ion batteries, industrial robots up 52.3%, 40.2%, 28.5% YoY】China's National Bureau of Statistics said industrial value added at firms above designated size rose 5.3% YoY in Jan–Jul. By sector, mining +2.5% YoY, manufacturing +5.6%, utilities +5.4%. Equipment manufacturing rose 9.7% and high‑technology manufacturing 13.8%, outperforming the overall pace by 4.4 and 8.5 ppts respectively. By ownership, value added was: state‑controlled +3.9% YoY, joint‑stock +5.8%, foreign/HK/Macau/Taiwan‑invested +3.1%, private +4.5%. Key product outputs Jan–Jul: 3D printers +52.3% YoY, lithium‑ion batteries +40.2%, industrial robots +28.5%. In July, industrial value added was up 4.5% YoY and 0.11% MoM. July manufacturing PMI 49.2; business expectations index 54.1. Jan–Jun total profits at industrial firms above designated size were 3.948 tln yuan, up 18.7% YoY.
+
+---
+
+### 2026-08-17 15:09:18  #其他
+
+ALPHABET計劃透過發行澳大利亞債券籌集50億澳元。
+
+---
+
+### 2026-08-17 15:08:51  #其他
+
+【國家統計局：加大逆週期調節力度 加力擴大內需、最佳化供給】國家統計局表示，總的來看，1—7月份國民經濟執行總體平穩，保持向新向優向好發展態勢。但也要看到，外部環境複雜多變，國內供強需弱矛盾突出，部分企業經營困難，經濟穩中向好的基礎還需鞏固。下階段，要堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，堅持深化改革開放，加快推動新舊動能轉換，加大逆週期調節力度，加力擴大內需、最佳化供給，切實保障和改善民生，增強發展動力、激發社會活力，推動經濟持續向新向優向好發展。
+
+---
+
+### 2026-08-17 15:08:49  #MKT News #Market Themes #China Tech Giants #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+China's National Bureau of Statistics said Jan–Jul investment in high‑tech industries rose 5.0% YoY; investment in information services rose 19.2% YoY, aircraft and spacecraft equipment manufacturing rose 12.3% YoY, and electronics and communications equipment manufacturing rose 7.1% YoY.
+
+---
+
+### 2026-08-17 15:08:46  #經濟數據 #中國
+
+【中國7月份粗鋼產量7693萬噸 同比下降3.6%】國家統計局釋出最新工業生產資料，中國7月份粗鋼產量7693萬噸，同比下降3.6%；1-7月份粗鋼產量57704萬噸，同比下降3.1%。
+
+---
+
+### 2026-08-17 15:08:44  #Trading Economics #Economy #China #Unemployment Rate #Importance 1
+
+China Jobless Rate Rises More than Expected — China’s surveyed urban unemployment rate rose to 5.2% in July 2026 from 5.0% in June, slightly above market expectations of 5.1%. The surveyed unemployment rate was 5.2% for both the population with local household registration and those with non-local household registration, while the rate for people with non-local agricultural household registration stood at 4.9%. The surveyed urban unemployment rate in 31 major cities rose to 5.2%, 0.2 percentage points higher than the previous month. Employees at enterprises worked an average of 48.2 hours per week.
+
+---
+
+### 2026-08-17 15:08:13  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index
+
+【NBS: Jan–Jul funds to property developers CNY 4.575 trln, down 20.3% YoY】NBS data: Jan–Jul funds to property developers totaled CNY 4.575 trln, down 20.3% YoY. Breakdown: domestic loans CNY 630 bln (-32.1% YoY); self‑raised funds CNY 1.654 trln (-18.5%); deposits and advance receipts CNY 1.438 trln (-14.4%); individual mortgage loans CNY 604 bln (-23.5%).
+
+---
+
+### 2026-08-17 15:08:09  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #SSE Composite
+
+【July: China first‑tier new‑home prices flat MoM; second‑tier -0.1%, third‑tier -0.3%】China's National Bureau of Statistics July data show new‑home prices in first‑tier cities were flat MoM, down from +0.1% in June. Shanghai +0.2%, Guangzhou +0.1%, Shenzhen +0.2%, Beijing -0.3%. Second‑tier new‑home prices fell 0.1% MoM after holding steady the prior month. Third‑tier new‑home prices declined 0.3% MoM, unchanged from June. Of 70 major cities, 23 recorded MoM price rises or no change, two more than the previous month.
+
+---
+
+### 2026-08-17 15:07:57  #Trading Economics #Economy #China #Industrial Production #Importance 3
+
+China Industrial Output Growth Below Forecasts — China’s industrial production expanded 4.5% yoy in July 2026, slowing from a 5.3% rise in June, which was the fastest growth in three months, and below expectations of 5.0%. The deceleration came amid softer growth in manufacturing (5.5% vs 6.0% in June) and electricity, heat, gas, and water (5.0% vs 7.4%), while mining output fell 4.2%, after a 2.2% drop in June.
+
+---
+
+### 2026-08-17 15:07:57  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Copper #Hang Seng Index
+
+【NBS: Jan–Jul new commercial housing sales area 450.21 mln sq m, down 11.8% YoY】National Bureau of Statistics: Jan–Jul new commercial housing sales area 450.21 mln sq m, down 11.8% YoY; residential sales area down 12.7% YoY. New commercial housing sales value 4.27 trillion yuan, down 13.1%; residential sales value down 13.2%. At end‑July, commercial housing for sale 759.11 mln sq m, down 0.8% YoY; stock under three years 555.59 mln sq m, down 3.6%.
+
+---
+
+### 2026-08-17 15:07:35  #MKT News #Market Regions #Greater China
+
+National Bureau of Statistics: Shanghai second-hand residential prices in July MoM +0.3% (prev +0.4%), YoY -2.0% (prev -3.2%).
+
+---
+
+### 2026-08-17 15:07:29  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
+
+National Bureau of Statistics: Beijing July resale residential prices MoM 0.0% (June +0.1%), YoY -4.5% (June -5.5%).
+
+---
+
+### 2026-08-17 15:07:21  #MKT News #Market Regions #Greater China #Copper #Impact bearish #CNH #Hang Seng Index
+
+【NBS: Jan–Jul housing under construction 5.576 bln sqm, down 12.7% YoY】China NBS data: Jan–Jul total housing under construction by property developers 5.576 bln sqm, down 12.7% YoY; residential under construction 3.871 bln sqm, down 13.0% YoY. New housing starts 267.0 mln sqm, down 24.0% YoY; residential starts 194.9 mln sqm, down 24.6% YoY. Housing completions 192.0 mln sqm, down 23.2% YoY; residential completions 134.4 mln sqm, down 25.5% YoY.
+
+---
+
+### 2026-08-17 15:07:17  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+NBS: Guangzhou resale home prices July MoM +0.4% (prior +0.4%), YoY -4.7% (prior -6.1%).
+
+---
+
+### 2026-08-17 15:07:14  #MKT News #Market Regions #Greater China
+
+China's National Bureau of Statistics: Shenzhen second-hand residential prices rose 0.2% MoM in July (June +0.3%) and fell 3.6% YoY (June -4.7%).
+
+---
+
+### 2026-08-17 15:07:04  #MKT News #Market Regions #Greater China #CNH #Impact bullish #SSE Composite
+
+China's National Bureau of Statistics said Shanghai new commercial housing prices rose 0.2% MoM in July (June +0.3%) and 3.0% YoY (June +3.1%).
+
+---
+
+### 2026-08-17 15:07:01  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #SSE Composite
+
+【National Bureau of Statistics: Jan–Jul online goods and services retail sales RMB 11.72 trillion, +4.8% YoY】China's National Bureau of Statistics said Jan–Jul online goods and services retail sales totaled RMB 11.72 trillion, up 4.8% YoY. Online goods retail was RMB 7.40 trillion, up 4.6%; within online goods, food, apparel and household-goods categories rose 16.9%, 5.8% and 1.1%, respectively. Online services retail was RMB 4.32 trillion, up 5.2%. Among retail enterprises above designated size, convenience store and supermarket sales rose 6.1% and 3.8% YoY, while specialty stores, department stores and brand outlets fell 1.8%, 2.4% and 9.3%.
+
+---
+
+### 2026-08-17 15:06:59  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Copper
+
+【China NBS: Jan–Jul urban retail sales 24.93 tln yuan, +1.1% YoY】China's National Bureau of Statistics said Jan–Jul urban retail sales of consumer goods totaled 24.93 tln yuan, up 1.1% YoY; rural retail sales were 3.85 tln yuan, up 2.4%. July urban retail sales amounted to 3.38 tln yuan, up 0.5% YoY; rural sales were 524.2 bln yuan, up 1.6%. By type, Jan–Jul retail sales of goods were 25.49 tln yuan, up 1.1% YoY; catering revenue was 3.28 tln yuan, up 2.6%. In July, goods retail was 3.45 tln yuan, up 0.5% YoY; catering revenue was 456.7 bln yuan, up 1.4%.
+
+---
+
+### 2026-08-17 15:06:55  #MKT News #Market Regions #Greater China
+
+National Bureau of Statistics: Guangzhou new home prices in July rose 0.1% MoM (June +0.2%) and fell 2.2% YoY (June -2.6%).
+
+---
+
+### 2026-08-17 15:06:44  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+China NBS: Shenzhen July new‑home prices +0.2% MoM (prev +0.3%); -2.9% YoY (prev -3.6%).
+
+---
+
+### 2026-08-17 15:06:39  #MKT News #Market Regions #Greater China
+
+National Bureau of Statistics: Beijing newly built commercial residential prices in July -0.3% MoM (prev. -0.3%), -2.3% YoY (prev. -2.1%).
+
+---
+
+### 2026-08-17 15:06:35  #國際
+
+據上海航運交易所資料，截至2026年8月17日，上海出口集裝箱結算運價指數（歐洲航線）報3246.38點，與上期相比跌4.1%。
+
+---
+
+### 2026-08-17 15:06:00  #經濟數據 #中國
+
+【國家統計局：7月規模以上數字產品製造業增加值同比增長17.3% 增速較上月加快3.5個百分點】國家統計局釋出資料，7月份，規模以上數字產品製造業增加值同比增長17.3%，增速較上月加快3.5個百分點。從行業看，電子元器件及裝置製造、智慧裝置製造、計算機制造等行業增加值分別增長24.7%、15.1%、10.9%。
 
 ---
 
@@ -19905,209 +20073,5 @@ Israel July consumer price index rose 1.5% YoY, versus forecast 1.6%.
 ### 2026-08-14 18:58:31  #國際
 
 一位伊朗議員呼籲政府緊急採取行動，解決霍爾木茲甘省長長的汽油排隊問題，他表示燃料問題正在擾亂居民的日常生活。
-
----
-
-### 2026-08-14 18:58:00  #公司 #市場 #焦點
-
-深交所：2026年8月10日至8月14日，本所共對114起證券異常交易行為採取了自律監管措施，涉及盤中拉抬打壓、虛假申報等異常交易情形；對近期股價嚴重異常波動的“藍盾光電”進行重點監控；共對8起上市公司重大事項進行核查，並上報證監會2起涉嫌違法違規案件線索。
-
----
-
-### 2026-08-14 18:57:37  #公司 #觀點
-
-【天合光能：控股股東及一致行動人詢價轉讓3630萬股股份】天合光能公告稱，2026年8月14日，公司控股股東、實際控制人高紀凡及其一致行動人江蘇盤基投資有限公司透過詢價合計轉讓減持公司股份3630萬股，佔總股本的1.5496%，轉讓價格為12.59元/股。本次權益變動後，高紀凡及其一致行動人持股比例由32.5921%降至31.0425%，觸及1%整數倍，不會導致公司控股股東、實際控制人發生變化。受讓方包括摩根士丹利國際股份有限公司等9家機構，限售期6個月。
-
----
-
-### 2026-08-14 18:57:03  #其他
-
-【國家發展改革委：緊急安排3000萬元支援河南災後恢復】今天，國家防減救災委、應急管理部針對今年第13號颱風“白海豚”殘渦及強降雨對河南的嚴重災害影響，啟動國家四級救災應急響應。國家發展改革委緊急安排中央預算內投資3000萬元，支援河南省做好暴雨洪澇災害災後應急恢復，重點用於災區受損道路、水利等基礎設施和學校、醫院等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（央視新聞）
-
----
-
-### 2026-08-14 18:56:54  #宏觀 #公司 #市場 #國際
-
-知情人士稱，印度市場監管機構已加快與高頻交易公司及其他市場參與者的討論，因對新推出的股票收盤價競價系統日益感到擔憂。
-
----
-
-### 2026-08-14 18:56:14  #公司 #國際
-
-【賽諾醫療：子公司顱內取栓支架獲土耳其註冊批准】賽諾醫療(688108.SH)公告稱，公司控股子公司賽諾神暢自主研發的GhunterRevascularizationDevice顱內取栓支架近日獲土耳其衛生部註冊批准。該產品用於移除缺血性腦卒中患者顱內大血管中的血栓，恢復血流，於2023年4月獲國家藥監局註冊證，2026年2月獲歐盟CEMDR認證。本次獲批是賽諾神暢產品首次透過土耳其註冊申請，將對公司產品在相應市場的推廣銷售起到積極作用，但具體業績影響受法規政策、市場環境及匯率波動等因素影響尚無法預測。
-
----
-
-### 2026-08-14 18:56:05  #公司
-
-【波音終迎翻身仗 華爾街齊聲唱多】波音公司的業務轉型努力正贏得華爾街的熱烈喝彩，本週分析師對該公司的看漲情緒達到近四年來最高。週二，在阿格斯研究公司和法國巴黎銀行於十天內相繼上調評級後，這家飛機製造商的買入推薦佔比升至2022年10月以來最高。機構追蹤的32位分析師中，無一人建議賣出該股。
-
----
-
-### 2026-08-14 18:54:57  #市場
-
-【本週多晶矽市場價格上漲】本週多晶矽價格指數為39.47元/千克，N型多晶矽復投料報價37.9-41元/千克，顆粒矽報價39-40元/千克。本週多晶矽市場價格出現上漲，主要還是在於報價上漲。目前部分頭部企業嘗試對外報價，但下游對處在觀望態度，目前廠家對廠家成交量極少。近期成本及能耗相關會議頻開，多數廠家對政策執行還處於摸索狀態。下游部分報價也已經順勢上漲，後續繼續觀望政策執行情況。 (上海有色網)
-
----
-
-### 2026-08-14 18:54:40  #MKT News #Commodities #Energy
-
-【Shell loses five-year legal fight as South African court blocks offshore exploration renewal】South Africa’s Constitutional Court on Friday ruled Shell cannot renew its offshore exploration rights near the Wild Coast in the Indian Ocean, ending a five‑year legal dispute with environmental activists. The litigation began in 2021 after activists opposed seismic surveys by Shell and a local partner in waters frequented by whales. The decision arrives as other South African offshore projects face legal challenges and neighbouring Namibia advances development of an oil discovery near the maritime border, and may further embolden activists who have won multiple suits against oil explorers.
-
----
-
-### 2026-08-14 18:54:37  #公司
-
-【靈康藥業：2026年上半年實現扭虧為盈，淨利潤2111.27萬元】靈康藥業公告，2026年上半年營業收入2.57億元，同比增長50.03%。歸屬於上市公司股東的淨利潤2111.27萬元，上年同期淨利潤-3573.37萬元，實現扭虧為盈。歸屬於上市公司股東的扣除非經常性損益的淨利潤1842.08萬元。公司半年度不進行利潤分配或資本公積轉增股本。
-
----
-
-### 2026-08-14 18:53:44  #MKT News #Market Regions #Emerging Markets
-
-【India closing-auction revamp raises liquidity concerns; regulator holds urgent talks】SEBI has accelerated consultations with high-frequency traders, market makers, domestic mutual funds and brokers after a revamped closing-auction system launched on Aug. 3 prompted concern, sources said. The mechanism, designed to improve price discovery and deter manipulation, has disrupted trading: HFT firms report they cannot borrow sufficient stock in India’s underdeveloped securities lending market, limiting auction participation. Some brokers have proposed reverting to the prior mechanism on passive-fund rebalance days until liquidity improves, and brokers executing for foreign funds warned the system may struggle to handle flows during the MSCI quarterly rebalancing later this month.
-
----
-
-### 2026-08-14 18:53:43  #Trading Economics #Markets #Commodity #Importance 0
-
-Arabica Coffee Futures at Over 1-Week Low — Arabica coffee futures traded around $3.10 per pound, near the lowest since early August, as drier conditions in Brazil supported the harvest and raised expectations of increased near-term supplies. This is particularly important as ICE arabica inventories remain tight, currently at a 2.75-year low of 236,430 bags. Meanwhile, Cecafé data showed that the country shipped 3.03 million 60-kg bags of coffee in July, the first month of the 2026/27 crop year, up 9.9% from a year earlier. Attention remains focused on weather conditions amid concerns over Brazil’s 2027 crop, with the effects of El Niño posing potential risks to crop development. Elsewhere, Colombia, the world’s second-largest producer of Arabica coffee, has partially resumed coffee exports through Buenaventura, its main coffee-export port, although traffic remains intermittent and limited. Exporters said the earthquake caused no significant damage to coffee processing or milling facilities.
-
----
-
-### 2026-08-14 18:53:23  #公司
-
-【*ST英飛：全資子公司起訴追款，涉案金額超1.14億元】*ST英飛公告稱，2026年8月13日，公司全資子公司新普互聯收到深圳市中級人民法院出具的《受理案件通知書》。新普互聯對掌酷公司享有整體剩餘債權1.09億元且已逾期，劉肇懷曾以7000萬股公司股票為部分債權提供質押擔保，目前剩餘8626.43萬元。新普互聯請求判令掌酷公司退還本金等暫計1.14億元，且有權就劉肇懷7000萬股股票折價等所得價款在8626.43萬元內優先受償。案件尚未開庭，影響待定。
-
----
-
-### 2026-08-14 18:52:53  #國際
-
-【黑海港口運營受阻，烏克蘭糧食出口大幅下滑】烏克蘭表示，由於俄羅斯空襲導致敖德薩大區剩餘黑海港口實際陷入停擺，該國農業出口目標或將減半，這給全球糧食供應帶來風險。烏克蘭農業部長塔拉斯・維索茨基週五對記者稱：“自 8 月初以來，沒有任何船舶駛入敖德薩港口，迫使烏克蘭啟用替代運輸通道。” 他表示，本月迄今糧食出口量驟降至僅 59 萬噸，僅為應出口規模的 30%。
-
----
-
-### 2026-08-14 18:52:16  #MKT News #Market Regions #Wall Street (US) #BA.O #Impact bullish
-
-【Boeing gets turnaround boost as Wall Street turns broadly bullish】Boeing's bullishness among analysts hit its strongest level in nearly four years after Argus Research and BNP Paribas upgraded the stock within ten days, pushing the share of buy ratings to the highest since October 2022. Of 32 analysts tracked, none recommend sell. The optimism follows FAA certification of the long‑awaited 737 Max 7, ending an approval process stretched nearly a decade by two fatal crashes and quality lapses. CEO Stephanie Pope called the move "a key moment in Boeing's recovery." Boeing shares are roughly flat year‑to‑date, up about 6%, versus about a 13% rise in the broader market and roughly an 8% gain in Airbus' Paris‑listed stock over the same period.
-
----
-
-### 2026-08-14 18:51:50  #公司
-
-【顧家家居：調整募投專案金額及主體 向實施主體增資9.17億元】顧家家居公告稱，公司本次向特定物件發行股票，募集資金淨額18.63億元。公司調整部分募投專案擬投入募集資金金額，“功能鐵架生產線擴建專案”調整後投入3098.20萬元，“AI及零售數字化轉型專案”調整後投入3.80億元，不足部分將自籌解決。“品牌建設數字化提升專案”和補充流動資金增加實施主體。此外，公司向各募投專案實施主體總增資額為9.17億元。
-
----
-
-### 2026-08-14 18:51:46  #公司
-
-【哈投股份：2026年上半年淨利潤4.04億元，同比增6.33%】哈投股份公告，2026年上半年營業總收入15.73億元，同比增長6.62%；歸屬於上市公司股東的淨利潤4.04億元，同比增長6.33%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.96億元，同比增長9.73%。
-
----
-
-### 2026-08-14 18:51:43  #公司
-
-【浪潮資訊：參與投資基金完成備案，認繳出資1億元】浪潮資訊公告稱，公司於2026年7月23日披露以自有資金1億元認繳出資，參與投資設立合肥浩瀾潮智創業投資合夥企業（有限合夥）。近日收到通知，該基金已在中國證券投資基金業協會完成備案手續，並取得《私募投資基金備案證明》，備案日期為2026年8月14日。公司將跟進投資進展並依規披露資訊。
-
----
-
-### 2026-08-14 18:51:38  #其他
-
-【7月金融資料出爐：信貸市場供強需弱，貸款利率保持歷史低位】8月13日，中國人民銀行公佈的2026年7月金融統計資料包告顯示，初步統計，前七個月社會融資規模增量累計為22.25萬億元，比上年同期少1.74萬億元；前七個月人民幣貸款增加10.38萬億元。業內專家指出，目前社會融資規模和廣義貨幣M2等金融總量指標保持合理增長，社會融資成本持續處於低位，總體融資環境是比較寬鬆的。業內專家分析，利率下行的走勢表明當前信貸供給充分滿足了市場需求，貨幣政策適度寬鬆。價格是反映供需關係的基礎性訊號。如果價格持續下降，表明商品處於供過於求的狀態。信貸也是如此，在信貸市場供需兩個方面的力量共同作用下，貸款利率呈現下行態勢，表明信貸投放已較為充分，滿足了市場需求。（第一財經）
-
----
-
-### 2026-08-14 18:50:45  #其他
-
-【四預警齊發，浙江等地將有大暴雨】8月14日18時，暴雨黃色預警、黃色山洪災害氣象預警、黃色地質災害氣象風險預警以及中小河流洪水氣象風險預警釋出。預計，8月14日20時至15日20時，江蘇中南部、上海、浙江、江西東部和南部、福建中西部和東南部、廣東中南部、海南島東部和西南部等地部分地區有大到暴雨，其中，浙江西北部和東北部、福建西北部、廣東東南部沿海等地局地有大暴雨；上述部分地區伴有短時強降水，局地有雷暴大風等強對流天氣。
-
----
-
-### 2026-08-14 18:50:29  #公司
-
-【宇通重工：2026年上半年淨利潤1.03億元，同比降13.10%】宇通重工公告，2026年上半年營業收入14.99億元，同比下降9.72%。歸屬於上市公司股東的淨利潤1.03億元，同比下降13.10%；扣非淨利潤8340.54萬元，同比增長18.59%。擬每10股派發現金股利1元（含稅）。
-
----
-
-### 2026-08-14 18:49:59  #其他
-
-【“蘇政源”上線試執行 構建江蘇省全域數智治理新格局】記者8月14日從省資料局瞭解到，江蘇數字政府建設近期迎來標誌性成果——“蘇政源”一體化數字資源底座正式上線試執行。
-
----
-
-### 2026-08-14 18:49:35  #公司
-
-【國家電投集團海陽核電3號機組熱試成功】據國家電投集團訊息，8月13日17時30分，國家電投集團山東核電海陽核電3號機組熱態效能試驗（簡稱“熱試”）成功，為機組後續裝料、首次併網奠定了堅實基礎。據悉，山東核電海陽核電3號機組2022年7月開工建設，本次熱試後，將力爭年內裝料、首次併網。
-
----
-
-### 2026-08-14 18:49:21  #國際
-
-8月13日，海外投資者淨買入印度股票35.1億印度盧比。
-
----
-
-### 2026-08-14 18:49:00  #國際
-
-美國銀行將聯想評級上調至買入，目標價46港元。
-
----
-
-### 2026-08-14 18:47:48  #公司 #國際
-
-【SK海力士董事長：價格漲太快，我很抱歉】“所有的客戶都在要求接近原來需求兩倍的供貨量。這是爭奪記憶晶片的戰爭。”日前，SK集團會長崔泰源在SK海力士韓國總部接受媒體採訪時，用這樣的措辭形容當前的儲存晶片市場。“價格漲得太快了，對此我真的很抱歉。”崔泰源表示。
-
----
-
-### 2026-08-14 18:47:03  #公司
-
-【阿爾特：股東珺文銀寶減持818萬股 持股降至0.01%】阿爾特公告稱，股東珺文銀寶原計劃2026年5月14日至8月13日，減持不超822.80萬股，佔剔除回購專用賬戶股份後總股本的1.70%。實際減持情況為：5月20日至8月7日，集中競價減持485.20萬股，均價14.63元/股；6月12日至22日，大宗交易減持332.80萬股，均價16.32元/股，合計減持818萬股，佔比1.68%。減持後，珺文銀寶持股降至4.80萬股，佔比0.01%。本次減持未違規，不會導致公司控制權變更，不影響公司治理和經營。
-
----
-
-### 2026-08-14 18:46:30  #央行 #國際
-
-【拉加德將赴日內瓦參加 WEF 活動，提前卸任歐央行傳聞再起】歐洲央行行長克里斯蒂娜・拉加德下週將在日內瓦的世界經濟論壇總部發表講話，此行大機率會再度引發有關她或將提前卸任歐洲央行行長的討論。歐洲央行週五公佈的公開活動周議程顯示，拉加德定於週三參與一場關於全球經濟的專題討論。這類小組公開活動本身並無特殊之處，但自去年有報道稱拉加德可能接掌世界經濟論壇之後，市場便傳出傳聞，猜測她會在法蘭克福八年任期於 2027 年 10 月到期之前提前離職。
-
----
-
-### 2026-08-14 18:46:00  #其他
-
-【嗨特購北京大量關店】記者實探嗨特購北京超1000平米的西單旗艦店，發現該店已關閉。京西大悅城的門店也在8月8日閉店，商場預留的門店聯絡人電話中稱已離職。記者致電北京其他數家嗨特購門店發現，尚在營業的店員稱“是加盟店，現在自己幹”，無法使用會員卡積分、優惠券。有已閉店店長稱沒有貨，只能半年前關店離職。（介面）
-
----
-
-### 2026-08-14 18:45:34  #宏觀 #國際
-
-印度尼西亞財政部長：2027年免費膳食計劃的受益人群目標定為6060萬人。
-
----
-
-### 2026-08-14 18:45:00  #國際
-
-印尼為2027年免費供餐專案設定240萬億印尼盾預算。
-
----
-
-### 2026-08-14 18:44:49  #其他
-
-【中國支付清算協會舉辦第二期“支付走進製造業”交流活動】2026年8月6—7日，中國支付清算協會在鄭州市舉辦第二期“支付走進製造業”交流活動，18家理事監事單位代表參加活動。本期活動以“探訪智慧製造”為主題，實地參觀國家超算網際網路核心節點、宇通客車主要生產基地，深入瞭解智慧製造執行模式，並圍繞“人工智慧+”的實踐應用、算力賦能業務發展等問題進行了交流。
-
----
-
-### 2026-08-14 18:44:27  #公司
-
-【聯創電子：子公司債務逾期 逾期金額3.53億元】聯創電子公告稱，子公司江西聯創、常州聯益等近期出現債務逾期，截至公告日，逾期金額合計35,252.52萬元，佔公司最近一期經審計淨資產的33.64%。公司正督促子公司清償債務，與債權機構溝通化解逾期債務，也透過加強成本控制等籌措償債資金。此外，公司及控股子公司對外擔保餘額為82.94億元，佔2025年12月31日經審計淨資產的791.38%，目前逾期擔保金額3.42億元，佔比32.62%。債務逾期或使公司融資能力下降，投資者需注意風險。
-
----
-
-### 2026-08-14 18:44:14  #其他
-
-【胡玉亭主持召開拼經濟穩增長視訊會議】據“吉林釋出”，8月14日，吉林省委副書記、省長鬍玉亭主持召開拼經濟穩增長視訊會議，對下半年經濟工作進行再動員、再部署。他強調，要切實把抓經濟、抓發展擺在更加突出位置上，扛起主責主業，緊盯關鍵重點，強化創造性有效執行力，採取超常規舉措，真抓實幹“拼經濟”，心無旁騖謀發展，全力以赴推動全省經濟穩中向好。會議分析研判三季度及下半年主要經濟指標執行情況，細化全年穩增長目標舉措，研究解決重點問題，部署下步工作。胡玉亭強調，政府系統各行業部門要牢固樹立“同題共答”意識，強化與市州協同聯動，立足本行業、本領域發展實際問題，找準癥結、對症下藥，用好用足既有存量政策，動態推出一批務實有效、切實管用的增量舉措，加快資金下達，推行容缺審批機制，大力清理抑制性舉措，為推動高質量發展創造良好條件。
-
----
-
-### 2026-08-14 18:44:03  #公司
-
-【陽普醫療：2026年上半年淨利潤3081.49萬元，同比增101.85%】陽普醫療公告，2026年上半年營業收入2.15億元，同比下降6.87%。歸屬於上市公司股東的淨利潤3081.49萬元，同比增長101.85%；扣非淨利潤2422.99萬元，同比增長59.62%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
 
 ---
