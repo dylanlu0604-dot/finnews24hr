@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-21 11:25:33",
+  "updated": "2026-08-21 11:29:29",
   "count": 16025,
   "items": [
+    {
+      "id": "mkt:01a0225c-d8f9-7aab-90c7-8afbc56864be",
+      "time": "2026-08-21 11:28:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【RBC: Japan inflation data bolster expectation of BOJ September hike】Abbas Keshvani, RBC head of Asia macro strategy, said Japan’s inflation data support expectations the Bank of Japan will raise rates in September. He said the BOJ’s July meeting language was more hawkish and markets now expect a faster tightening, pricing roughly a 20bp September hike. He added the BOJ knows disappointing markets could prompt further yen weakness."
+    },
+    {
+      "id": "5051181",
+      "time": "2026-08-21 11:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富達國際回應“退出中國”傳聞：在華戰略和市場佈局沒有變化】近日有訊息稱，富達國際正考慮退出其全資控股的中國境內公募基金公司，相關安排仍處於討論階段，並需獲得監管批准。對此，富達國際回應記者稱，富達國際仍將中國視為一個重要市場，並始終相信中國無論對其業務還是對投資者而言，都是頗具吸引力的長期機遇。在戰略或市場佈局方面，目前沒有任何需要彙報的變化。富達國際表示，公司致力於將全球和本土最佳的投資能力帶給中國投資者，包括近期在內地與香港基金互認機制下發行的跨境投資解決方案。公開資料顯示，富達基金管理（中國）有限公司於2022年12月獲批開展公募基金管理業務，由富達國際間接全資持股。今年7月底，富達基金還宣佈旗下首隻內地互認基金獲批，並於8月10日正式開售。 (財聯社)"
+    },
+    {
+      "id": "5051180",
+      "time": "2026-08-21 11:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮耀機器人新外觀設計專利獲授權】企查查APP顯示，近日，榮耀終端股份有限公司“機器人”外觀設計專利獲授權。專利摘要顯示，本外觀設計產品的用途為一種可執行多種任務的機器人裝置。"
+    },
+    {
+      "id": "mkt:01a0225b-aa66-7aab-90c7-83a67f63d0bf",
+      "time": "2026-08-21 11:27:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "Hang Seng Index"
+      ],
+      "text": "【MoF: Over CNY2.0 tln of local government special bonds and ultra‑long special sovereign bonds to be issued in H2】At an Aug. 21 press briefing, Ministry of Finance Deputy Minister Liao Min said more than CNY2.0 tln of local government special bonds and ultra‑long‑term special sovereign bonds remain to be issued and deployed in H2. He added the pending issuance is large versus the same period in prior years and will help sustain policy intensity."
+    },
+    {
+      "id": "mkt:01a0225b-302c-7aab-90c7-7fe5ab191d70",
+      "time": "2026-08-21 11:26:36",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【Finance Ministry: 2.4 tln yuan of new special bonds issued by end-July; supported 18,000 projects】China's Finance Ministry Vice Minister Liao Min said at a State Council Information Office briefing on Aug. 21 that as of end-July China had issued 2.4 trillion yuan of 2026 new special-purpose bonds, supporting 18,000 construction projects."
+    },
+    {
+      "id": "5051178",
+      "time": "2026-08-21 11:25:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一8人包機在美阿拉斯加州西部墜毀】當地時間8月20日，美國國家運輸安全委員會的訊息稱，一架載有8人的包機在阿拉斯加州西部一處偏遠的雷達站附近墜毀。目前，搜救行動正在進行中，尚不清楚事件發生的原因。"
+    },
     {
       "id": "mkt:01a02259-62d6-7aab-90c7-7562d5d46aa8",
       "time": "2026-08-21 11:24:38",
@@ -146685,55 +146747,6 @@
         "公司"
       ],
       "text": "【原力無限完成近10億元融資】8月14日，原力無限（INFIFORCE）宣佈，近期已完成A輪及A+輪融資，融資金額近10億元人民幣。本階段融資由敦鴻資產及頭部國資平臺領投，浙大科創集團、鹽都國控、麗水市國資公司等產業資本、頭部社會資本跟投，創世夥伴創投CCV等老股東持續加註。本輪融資資金將主要投入三個方向：具身大腦AtomBrain及因果世界模型研發、全棧AI Infra DataGrid持續升級，以及多形態機器人本體在真實產業場景中的規模化交付與驗證。"
-    },
-    {
-      "id": "5040477",
-      "time": "2026-08-14 11:29:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "普拉博沃：印尼必須解決效率低下的官僚機構問題。"
-    },
-    {
-      "id": "5040476",
-      "time": "2026-08-14 11:27:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比港口集團：連續性措施包括啟用新建陸橋與空橋，並新建額外倉儲設施。"
-    },
-    {
-      "id": "5040475",
-      "time": "2026-08-14 11:26:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比港口集團：連續性運營措施包括將貨運業務和支線駁運服務改道至富查伊拉碼頭及豪爾費坎港。"
-    },
-    {
-      "id": "5040474",
-      "time": "2026-08-14 11:26:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比港口集團：2026年第二季度，公司持續強化供應鏈韌性。"
-    },
-    {
-      "id": "5040473",
-      "time": "2026-08-14 11:25:56",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中泰證券：從營養補充到功能精準化 乳業結構性增長新引擎】中泰證券釋出研報稱，隨著乳企技術不斷迭代成熟，高蛋白、無乳糖等功能化新品湧現，複合功能產品也愈加豐富，功能性乳品有望持續保持高於大盤的增速。對於能夠開拓場景、擴充套件觸達人群、以品質驅動復購的乳企或將受益，建議重點關注伊利股份(600887.SH)、蒙牛乳業(02319)、新乳業(002946.SZ)等乳企。"
-    },
-    {
-      "id": "5040472",
-      "time": "2026-08-14 11:25:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿布扎比港口集團：已將霍爾木茲海峽航運中斷對其客戶、阿聯酋及海灣合作委員會更廣泛經濟生態系統的影響降至最低。"
     }
   ]
 }
