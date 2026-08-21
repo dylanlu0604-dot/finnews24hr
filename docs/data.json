@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-22 04:27:20",
+  "updated": "2026-08-22 04:31:18",
   "count": 16154,
   "items": [
+    {
+      "id": "5052768",
+      "time": "2026-08-22 04:28:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "北美科技軟體股指數ETF漲1.43%，報103.37美元，本週累跌0.68%，結束之前連續三週上漲的趨勢（先後漲7.5%、8.57%、1.35%）。"
+    },
+    {
+      "id": "5052767",
+      "time": "2026-08-22 04:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銀行發行 130 萬智利發展單位本地債券。"
+    },
+    {
+      "id": "5052766",
+      "time": "2026-08-22 04:26:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司工程師及工會技術部門拒絕合同提議。"
+    },
     {
       "id": "5052765",
       "time": "2026-08-22 04:25:41",
@@ -147880,34 +147904,6 @@
         "國際"
       ],
       "text": "特朗普在紐約的活動上結束講話。"
-    },
-    {
-      "id": "te:markets:575538",
-      "time": "2026-08-15 04:30:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Retreats From Record High — The S&P/TSX Composite Index shed 0.1% to close at 36,730 on Friday, retreating slightly from the record reached in the prior session amid losses in the technology and retail sectors. The technology sector tracked weakness among Wall Street-listed hyperscalers, with Shopify losing 3%, Constellation Software down 2.3% and Celestica tumbling 4%. Meanwhile, Canadian retailers traded lower amid disappointing US data pointing to a slowdown in the sector. ATD shed 0.7% and Loblaw lost 1.1%. The industrial sector was also mostly lower, with Enbridge down 1.2% despite fresh data showing growth in Canada’s factory sales. Financials traded mostly higher despite energy-driven inflationary pressures, as signs of macroeconomic headwinds in the US supported expectations of a Fed rate hold at the next FOMC meeting. TD Bank added 0.5% and CIBC gained 0.8%. Gold prices rose on expectations for US monetary policy, lifting miners. Agnico Eagle rose 2.9%, while WPM and Barrick gained 1.3%."
-    },
-    {
-      "id": "5041975",
-      "time": "2026-08-15 04:29:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英偉達在SpaceX的持股價值約210億美元。"
-    },
-    {
-      "id": "5041974",
-      "time": "2026-08-15 04:27:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：阿波羅債務解決方案公司將最高收購股東提交的2900萬股要約股份。"
     }
   ]
 }
