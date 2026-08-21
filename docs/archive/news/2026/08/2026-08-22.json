@@ -1,7 +1,63 @@
 {
   "date": "2026-08-22",
-  "count": 2,
+  "count": 8,
   "items": [
+    {
+      "id": "5052613",
+      "time": "2026-08-22 00:07:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府：巴西總統盧拉與美國總統特朗普今日進行了通話。"
+    },
+    {
+      "id": "te:markets:577336",
+      "time": "2026-08-22 00:07:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Higher, Still Posts Weekly Loss — The DAX 40 closed about 0.6% firmer at 26,128.6 on Friday, halting a four-session losing streak, amid gains across most sectors, while positive economic data also contributed. Flash PMI data showed eurozone manufacturing activity grew at its fastest pace in more than four years in August, led by Germany and underscoring the region’s resilience to the Middle East conflict. Meanwhile, enthusiasm remained tempered by elevated oil prices and persistently high bond yields, alongside geopolitical uncertainty. Consumer discretionary stocks advanced firmly, led by automakers, retailers and sportswear companies. Technology stocks also performed well, while pharmaceutical, healthcare and utility stocks lagged. For the week, the index shed around 1.2%."
+    },
+    {
+      "id": "te:markets:577335",
+      "time": "2026-08-22 00:07:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.56% Higher — The FTSE 100 Index gained 60 points or 0.56 percent on Friday to close at 10809 points. Gains were led by JD Sports Fashion (5.84%), Antofagasta (5.37%) and Endeavour (4.25%). Biggest losers were National Grid (-1.22%), Babcock International (-1.21%) and Intercontinental Hotels (-1.03%)."
+    },
+    {
+      "id": "5052612",
+      "time": "2026-08-22 00:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全與外交政策委員會主席易卜拉欣·阿齊茲：美國人已經證明，他們聽不懂外交語言。因此，他們既不會解除制裁，也不會釋放資產，更不會終止海上劫掠行為。但歷史將會證明，在實力的話語面前，他們不僅將被迫做出上述舉動，還將帶著對伊朗民族的歉意撤出該地區。"
+    },
+    {
+      "id": "mkt:01a02512-f2bc-7aab-90d8-42e35be56ce2",
+      "time": "2026-08-22 00:06:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax: Russian Defence Ministry says it will appoint General Denis Lyamin as commander of UAV forces."
+    },
+    {
+      "id": "mkt:01a02510-3fa6-7aab-90d8-3d6f60dc55bb",
+      "time": "2026-08-22 00:03:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maoyan Professional data showed the film Odyssey has earned over 400 million yuan at the box office in nine days since release."
+    },
     {
       "id": "5052611",
       "time": "2026-08-22 00:02:19",
