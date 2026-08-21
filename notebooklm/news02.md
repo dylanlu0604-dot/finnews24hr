@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:51:02_
-_本檔包含 3400 則快訊，約 656958 字_
+_更新時間：2026-08-22 03:32:22_
+_本檔包含 3410 則快訊，約 657750 字_
+
+---
+
+### 2026-08-21 02:04:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+DOE says measures to boost gasoline supply will remain in effect through Sept. 15, 2026, the scheduled end of the summer gasoline control season.
+
+---
+
+### 2026-08-21 02:03:20  #國際
+
+一份宣告顯示，自9月1日起，美國環保署的豁免許可將允許銷售E10汽油，即摻有10%乙醇的混合汽油。美國能源部稱相關措施將在2026年9月15日夏季排放管控季結束前一直維持實施。
+
+---
+
+### 2026-08-21 02:03:19  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+The EPA says it will coordinate with the U.S. Department of Energy to boost gasoline supply to lower pump prices.
+
+---
+
+### 2026-08-21 02:02:51  #宏觀 #國際
+
+美國財政部接受48項符合條件的債務回購計劃中的3項。
+
+---
+
+### 2026-08-21 02:02:41  #宏觀 #國際
+
+美國財政部收到 101.59 億美元回購報價，接納其中 18.6 億美元。
+
+---
+
+### 2026-08-21 02:02:03  #MKT News
+
+Sources said Anthropic's recent investor briefing was hosted by CFO Rao.
+
+---
+
+### 2026-08-21 02:01:26  #MKT News #Market Themes #AI Revolution
+
+【Anthropic to let enterprise clients host data while retaining 30-day hold】Anthropic plans to give enterprise customers greater control over data used with its most capable AI models, a major shift from its prior data-retention policy. The company will continue to require a 30-day retention period but will let clients store data on their own cloud infrastructure instead of Anthropic’s. A source said Anthropic expects to roll out a new security system later this year; the system has been in development for months.
+
+---
+
+### 2026-08-21 02:01:16  #國際
+
+美國環境保護署表示，在與能源部磋商後，其正擴大汽油供應以壓低加油站油價。
+
+---
+
+### 2026-08-21 02:00:42  #其他
+
+【研究揭示毛細血管對心臟修復的關鍵作用】中國科學院分子細胞科學卓越創新中心（生物化學與細胞生物學研究所）周斌研究團隊揭開了重新生成側支動脈的真正“建造者”並非已有動脈，而是遍佈心肌的毛細血管。相關成果8月21日在國際學術期刊《科學》發表。這項研究重新整理了人們對心臟自我修復能力的認識，為缺血性心臟病的治療提供了新思路。（央視新聞）
+
+---
+
+### 2026-08-21 01:59:05  #MKT News #Important
+
+Sources say Anthropic's IPO is expected to match or exceed SpaceX's record size. The company plans to prepare IPO filing documents as early as the end of August. Anthropic reported Q2 revenue above $11.5 bln and July annualized revenue of $65 bln.
+
+---
+
+### 2026-08-21 01:57:44  #其他 #焦點
+
+市場訊息：Anthropic預計最快於10月上市。
+
+---
+
+### 2026-08-21 01:55:52  #其他
+
+據稱 Anthropic 最快將於 8 月底準備 IPO 申報檔案。
+
+---
+
+### 2026-08-21 01:55:41  #其他
+
+訊息人士：Anthropic 近期投資者簡報會由首席財務官 Rao 主持。
+
+---
+
+### 2026-08-21 01:55:25  #其他
+
+ANTHROPICO預計將與SPACEX創紀錄的IPO規模持平，或成為IT行業領頭羊。
+
+---
+
+### 2026-08-21 01:55:09  #MKT News #Important #Market Themes #AI Revolution
+
+Sources say ANTHROPIC plans to revise its data-retention policy for advanced AI.
+
+---
+
+### 2026-08-21 01:54:31  #其他
+
+【報道：Anthropic計劃調整高階AI的資料保留政策】Anthropic PBC計劃允許企業客戶在使用其最強大的人工智慧模型時，對自身資料保持更大的控制權，這是對早期資料保留政策的重大轉變——該政策最初旨在防範潛在的網路攻擊。據知情人士透露，這家Claude聊天機器人開發商預計將於今年晚些時候推出一套新的安全系統，該系統仍將要求企業客戶保留資料30天，但允許客戶選擇將資料保留在自有的雲端計算基礎設施上，而非Anthropic的伺服器上。這套系統已籌備數月。
+
+---
+
+### 2026-08-21 01:53:28  #MKT News
+
+US Indo-Pacific Command said its current assessment is that the incident does not pose a direct threat to US personnel, US territory or regional allies. The US said it will continue to defend the homeland and regional allies.
+
+---
+
+### 2026-08-21 01:53:06  #MKT News
+
+U.S. Indo-Pacific Command said it has noted recent missile launches and is in close communication with allies and partners.
+
+---
+
+### 2026-08-21 01:52:58  #國際
+
+美國太平洋司令部：我們注意到最近的導彈發射事件，並正在與我們的盟友和夥伴密切協商。根據目前的評估，這些事件不會對美國人員或領土、或我們的盟友構成直接威脅。美國繼續致力於保衛美國本土以及該地區盟友的防務。
+
+---
+
+### 2026-08-21 01:51:27  #國際
+
+美國太平洋司令部：事態發展不會對美國及其盟國構成威脅。
+
+---
+
+### 2026-08-21 01:51:02  #國際
+
+美國太平洋司令部：事態發展不會對美國構成威脅。
+
+---
+
+### 2026-08-21 01:50:47  #國際
+
+美國太平洋司令部：已獲悉近期導彈發射事件。
+
+---
+
+### 2026-08-21 01:50:38  #公司
+
+巴西國家石油公司（PETROBRAS）公告：“亞歷山大·德·古馬奧”號浮式生產儲油卸油輪（FPSO）在梅羅鹽下油田實現產量峰值，日產18萬桶。
+
+---
+
+### 2026-08-21 01:50:13  #市場
+
+市場訊息：商品期貨交易委員會主席塞利格表示，如果《加密貨幣清晰法案》未能透過，工作人員將制定正式的加密貨幣市場結構規則。
+
+---
+
+### 2026-08-21 01:49:24  #MKT News #Market Regions #Wall Street (US) #7211.T
+
+Mitsubishi Motors is shifting its strategic focus to the U.S. and Australia after sustained weakness in Southeast Asian markets eroded a longstanding source of sales support.
+
+---
+
+### 2026-08-21 01:48:23  #央行 #其他
+
+紐約聯儲8月20日常備回購操作未收到任何投標，操作規模為零。
+
+---
+
+### 2026-08-21 01:48:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #PBR.O
+
+Petrobras said the FPSO Alexander de Gusmão at the Mero subsalt field reached peak production of 180,000 bpd of crude.
+
+---
+
+### 2026-08-21 01:48:04  #國際
+
+美國國防部：到2027年，無人機主導計劃計劃採購超過20萬架美國製造的無人機，以維持戰場優勢。
+
+---
+
+### 2026-08-21 01:47:32  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【High mortgage rates squeeze buyers; U.S. housing affordability worsens for first time in nearly three years】NAHB and Wells Fargo data show Q2 median-priced U.S. home at $410,700, with monthly mortgage payments equal to 34% of a typical household's income, up from 32% in Q1 and reversing part of the improvement since early 2025. The groups said higher borrowing costs linked to the U.S.-Iran conflict lifted rates across the economy; the 30-year fixed mortgage rate climbed to about 6.8%, near a one-year high. NAHB also reported the median new-home price rose 2% in the quarter, adding to affordability pressure.
+
+---
+
+### 2026-08-21 01:47:31  #國際
+
+CIA：美國國家情報總監訪問中央情報局總部。
+
+---
+
+### 2026-08-21 01:46:50  #國際
+
+馬斯克轉帖了一張預測美國政府債務規模在2030年將達到50萬億美元的圖片，並配文道：精確無誤（附帶笑哭表情）。
+
+---
+
+### 2026-08-21 01:43:49  #MKT News
+
+Syrian Kurdish leader says Kurdish armed forces and security agencies have completed integration into Syrian government structures.
+
+---
+
+### 2026-08-21 01:42:47  #市場
+
+標普500指數跌至盤中低點0.6%。
+
+---
+
+### 2026-08-21 01:38:40  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
+
+U.S. equities extended losses; Dow Jones Industrial Average fell more than 1%, S&P 500 down 0.58%, Nasdaq Composite down 0.95%.
+
+---
+
+### 2026-08-21 01:37:05  #市場
+
+【美股道瓊斯指數期貨跌超1%】美股道瓊斯指數期貨跌超1%，納斯達克100指數期貨跌0.78%，標普500指數期貨跌0.6%。
+
+---
+
+### 2026-08-21 01:36:59  #市場 #焦點
+
+道指跌1.01%，現報52925.648點；納指跌0.94%，現報26082.928點；標普500指數跌0.57%，現報7664.370點。
+
+---
+
+### 2026-08-21 01:36:42  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact mixed
+
+Amazon (AMZN.O) says Prime Video will more than double its local original programming by 2030; over 25 local originals are slated for 2027 alone.
+
+---
+
+### 2026-08-21 01:36:20  #國際
+
+【美國住房可負擔性指標自2023年以來首次惡化】美國住房可負擔性的一個關鍵指標近三年來首次出現惡化，原因是借貸成本上升，吞噬了新購房者更大比例的收入。根據全美住宅建築商協會（NAHB）和富國銀行週四公佈的資料，今年第二季度，購買一套中位價41.07萬美元住房的月供，佔典型家庭收入的34%。這一比例高於一季度的32%，逆轉了自2025年初以來錄得的部分改善。
+
+---
+
+### 2026-08-21 01:35:41  #市場 #國際
+
+美國股市延續跌勢，道瓊斯工業指數下跌1%。
+
+---
+
+### 2026-08-21 01:35:11  #公司
+
+亞馬遜：Prime Video本地原創內容數量到2030年將增長一倍以上，僅2027年就將推出超25部原創作品。
+
+---
+
+### 2026-08-21 01:35:00  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
+
+Amazon (AMZN.O) said Prime Video plans to invest $2 billion in Latin America between 2027 and 2030.
+
+---
+
+### 2026-08-21 01:34:29  #公司
+
+亞馬遜：Prime Video計劃於2027年至2030年間在拉美地區投資20億美元。
+
+---
+
+### 2026-08-21 01:33:43  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
+
+Google (GOOG.O): Antigravity, its AI agent development platform, is now available to eligible Gemini Enterprise app subscribers, providing built-in administrative controls and spend-management features.
+
+---
+
+### 2026-08-21 01:33:14  #MKT News #Commodities #Industrial Metals
+
+【U.S.-backed consortium to invest about $500m in Tanzanian Kabanga nickel project】A U.S.-backed consortium is negotiating an investment of roughly $500–600m to develop the Kabanga nickel project in Tanzania as the Trump administration pushes to secure critical metal supplies. The group, formed in October and backed by the U.S. International Development Finance Corporation (DFC) and Abu Dhabi’s L'imad Holding, would have Orion CMC acquire a stake in Kabanga Nickel, the Lifezone Metals unit that holds the project; one source said the amount is closer to $500m.
 
 ---
 
@@ -20325,209 +20589,5 @@ Brent Crude Tops $92 — Brent crude oil rose above $92 a barrel on Wednesday as
 ### 2026-08-20 01:57:56  #Trading Economics #Markets #Commodity #Importance 2
 
 Crude Oil Rises for 4th Session — Crude oil rose above $86 a barrel on Wednesday as renewed tensions in the Middle East increased concerns about further disruptions to energy supplies. The UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, while President Donald Trump said there were no ongoing talks aimed at ending the conflict. Also, three China-linked supertankers turned back while transiting the waterway and a vessel was reportedly struck by a projectile near the strait. Despite the heightened risks, Gulf producers have continued moving significant volumes of crude through alternative routes and discreet shipments. US refinery activity provided additional support, with processing rates reaching their highest level since September 2019. Still, US crude inventories increased by 4.4 million barrels last week, although distillate stocks fell by 1.5 million barrels to their lowest level in more than a month.
-
----
-
-### 2026-08-20 01:56:14  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
-
-Meta Platforms (META.O) announced the launch of a new Meta AI offering targeted at small businesses.
-
----
-
-### 2026-08-20 01:55:48  #MKT News #Commodities #Energy
-
-Hungary's prime minister said the Paks nuclear power plant could reach full-capacity operation next Thursday or Friday.
-
----
-
-### 2026-08-20 01:55:40  #MKT News #Commodities #Energy
-
-Hungary's prime minister said the Paks nuclear power plant may begin restarting six idled turbines from Sunday.
-
----
-
-### 2026-08-20 01:54:50  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #Copper
-
-【U.S.-Canada talks could cut Canada steel, aluminum tariffs to 25%】U.S. and Canadian negotiators are discussing a temporary trade deal that would reduce U.S. tariffs on some Canadian steel and aluminum products to 25%, people familiar with the talks said. Details are not final and the cut would not apply to all steel and aluminum items; some derivative products containing steel or aluminum may carry different rates. Talks continued Wednesday after Trump paused planned 50% tariffs on billions of dollars of Canadian goods less than 24 hours earlier to allow more time for negotiations. The proposed adjustment could help secure a durable agreement and avert broader tariff measures ahead of a Friday deadline.
-
----
-
-### 2026-08-20 01:54:23  #其他
-
-Meta：面向小型企業推出全新Meta AI功能。
-
----
-
-### 2026-08-20 01:53:57  #其他
-
-匈牙利總理稱，帕克斯核電站可能於週日開始重啟六臺閒置的渦輪機。
-
----
-
-### 2026-08-20 01:53:17  #MKT News
-
-Yemen defense ministry: Presidential Leadership Council ordered appointment of Hashim Abdullah Hussein Al-Ahmar as military adviser to the Supreme Commander of the Armed Forces and promoted him to lieutenant general.
-
----
-
-### 2026-08-20 01:52:47  #其他
-
-匈牙利總理表示，多瑙河水位將保持足夠高度，保克什核電站避免停運。
-
----
-
-### 2026-08-20 01:52:24  #MKT News
-
-Hungary's prime minister says the Paks nuclear power plant will avoid shutdown as Danube river levels are expected to remain sufficiently high.
-
----
-
-### 2026-08-20 01:51:31  #國際
-
-美國貨幣市場基金資產在截至8月18日的一週內增加261.8億美元。
-
----
-
-### 2026-08-20 01:51:04  #公司
-
-【英偉達擬對其AI資料供應商Mercor進行投資，估值達200億美元】英偉達正在洽談投資資料標註服務商Mercor。這家企業協助該晶片廠商開發開源AI模型，本輪融資對應的企業估值為200億美元。現有投資方General Catalyst正洽談牽頭本輪融資。Mercor過往絕大部分收入來自OpenAI、谷歌、Anthropic等閉源AI模型廠商。但隨著英偉達重點佈局用於對標全球頂尖開源模型的Nemotron開源大模型，來自英偉達的業務收入正在增長。
-
----
-
-### 2026-08-20 01:50:05  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-The Information reports Nvidia (NVDA.O) is in talks to fund its AI data supplier Mercor at a $20 billion valuation.
-
----
-
-### 2026-08-20 01:50:04  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-The Fed will release FOMC minutes in 10 minutes.
-
----
-
-### 2026-08-20 01:48:55  #公司 #市場
-
-紐柯鋼鐵公司股價下跌近5%，跌至盤中低點。
-
----
-
-### 2026-08-20 01:45:06  #焦點 #國際
-
-【美國擬將加拿大鋼鋁關稅減半】據知情人士透露，美加一份暫定貿易協議擬將加拿大部分鋼鋁出口產品關稅下調至25%。相關細節尚未敲定，預計不會一刀切全面適用。部分含該類金屬的衍生品可能適用不同稅率。美國對加拿大數十億美元商品擬徵收50%關稅，美國總統特朗普暫緩落地，為談判留出更多時間，不到24小時之後，美加貿易顧問於週三繼續磋商。本次金屬關稅調整方案，有望促成一份長期協議，在週五截止日前規避大範圍加徵關稅。特朗普過往曾在最後一刻要求修改貿易協議，甚至直接推翻協議。
-
----
-
-### 2026-08-20 01:44:51  #MKT News #Important #Commodities #Industrial Metals #S&P500 #Impact bullish
-
-Market sources say the US plans to halve tariffs on Canadian steel and aluminum as part of a trade agreement.
-
----
-
-### 2026-08-20 01:43:54  #其他
-
-知情人士稱，美加關稅協議尚未最終敲定，金屬衍生品或將適用不同稅率。
-
----
-
-### 2026-08-20 01:43:14  #MKT News
-
-Bahrain's Interior Ministry said it and the UK's Home Office held a joint security working-group meeting.
-
----
-
-### 2026-08-20 01:43:10  #焦點 #國際
-
-根據貿易協議，美國將把對加拿大鋼鐵和鋁的關稅減半。
-
----
-
-### 2026-08-20 01:38:36  #MKT News #MU.O #Impact bullish
-
-S&P upgraded Micron Technology (MU.O) to BBB+, citing increased confidence in the company's near-term demand outlook. Outlook is Positive.
-
----
-
-### 2026-08-20 01:38:21  #其他 #焦點
-
-標普：美光科技評級上調至“BBB+”，因對短期需求信心增強。展望為正面。
-
----
-
-### 2026-08-20 01:34:59  #MKT News
-
-Brazil central bank said month-to-date net capital inflows through Aug. 14 totaled $1.504 bln; net inflows last week were $851 mln.
-
----
-
-### 2026-08-20 01:33:30  #MKT News #WTI #Brent
-
-【Trump says U.S. may resume talks with Iran 'sometime'】At the White House on June 19, President Trump said the U.S. may resume talks with Iran 'sometime' but only if Tehran completely abandons nuclear weapons. Asked whether the U.S. would return to negotiations he said 'maybe sometime' and 'for now, I think the situation is very good.' He reiterated Iran must 'completely give up' nuclear arms, asserted the U.S. 'owns' and 'fully controls' the Strait of Hormuz, and said occasional Iranian drone launches 'do cause trouble.'
-
----
-
-### 2026-08-20 01:30:27  #MKT News #Commodities #Energy #SLB.N #Impact bullish #WTI #Impact bearish
-
-Schlumberger (SLB.N) top executive said the company expects to recommission up to 15 oil rigs currently in Venezuela within less than a year.
-
----
-
-### 2026-08-20 01:29:05  #公司 #焦點
-
-德意志銀行將芝商所集團目標股價從每股286美元下調至270美元，將芝商所集團評級從買入下調至持有。
-
----
-
-### 2026-08-20 01:28:33  #公司
-
-Stripe收購OpenRouter的交易對價超過80億美元，大部分以股份支付。
-
----
-
-### 2026-08-20 01:27:07  #MKT News #WTI #Impact bearish #Brent
-
-【Iraqi leaders meet Iran parliament speaker on bilateral ties, regional tensions】On the 19th in Baghdad, Iraqi Prime Minister Zaidi, President Amidi and Parliament Speaker Halbusi met visiting Iranian Islamic Consultative Assembly Speaker Qalibaf to discuss consolidating bilateral relations and easing regional tensions.
-
----
-
-### 2026-08-20 01:27:02  #國際
-
-【伊拉克領導人會見伊朗議長 聚焦雙邊關係和地區局勢】伊拉克總理扎伊迪、總統阿米迪和國民議會議長哈勒布西19日分別在首都巴格達會見來訪的伊朗伊斯蘭議會議長卡利巴夫，就鞏固雙邊關係及緩和地區緊張局勢等議題交換意見。（新華社）
-
----
-
-### 2026-08-20 01:25:27  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israeli Prime Minister Netanyahu said he will not tolerate a Turkish military presence in Syria that threatens Israel.
-
----
-
-### 2026-08-20 01:24:53  #資料
-
-加拿大養老金計劃投資委員會(CPPIB)據稱有多位高層人員離職。
-
----
-
-### 2026-08-20 01:24:42  #國際
-
-以色列總理內塔尼亞胡：我們絕不容忍土耳其在敘利亞的軍事存在威脅以色列。我們已經明確傳達了資訊，不要這樣做。看來他們沒聽清楚，所以我們確保他們徹底明白了。
-
----
-
-### 2026-08-20 01:24:13  #其他
-
-露露樂蒙通訊主管錢德勒將離職。
-
----
-
-### 2026-08-20 01:23:57  #MKT News
-
-Tariq Saleh, vice president of Yemen's Presidential Leadership Council, said his forces have cut maritime supply lines and smuggling routes between Iran and Houthi forces.
-
----
-
-### 2026-08-20 01:23:29  #其他 #焦點
-
-【OpenAI預覽前沿模型私有安全處理功能】OpenAI正在預覽私有安全處理功能，該功能可監控複雜人工智慧互動，同時不留存客戶資料，也不違背企業安全合規義務。該系統基於零資料留存架構構建，確保提示詞與模型回覆不會被儲存，OpenAI工作人員也無法檢視。除非客戶明確選擇許可，企業客戶資料將不會用於模型訓練。該系統目前正在部分早期企業使用者中開展測試，計劃於9月全面推出，並同步釋出技術白皮書。
 
 ---

@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:51:02_
-_本檔包含 3337 則快訊，約 656724 字_
+_更新時間：2026-08-22 03:32:22_
+_本檔包含 3362 則快訊，約 658005 字_
+
+---
+
+### 2026-08-18 22:51:21  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish
+
+Reuters survey: 56 of 64 economists expect the Bank of England to keep interest rates at 3.75% in 2026.
+
+---
+
+### 2026-08-18 22:48:45  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Interfax reports the Russian Defence Ministry said Russian forces struck a cargo ship in the Black Sea.
+
+---
+
+### 2026-08-18 22:48:29  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+S&P affirmed NVIDIA (NVDA.O)'s ratings, including an "AA" issuer credit rating.
+
+---
+
+### 2026-08-18 22:48:26  #國際
+
+俄羅斯國防部：俄軍襲擊黑海一艘貨船。
+
+---
+
+### 2026-08-18 22:48:17  #國際
+
+扎波羅熱核電站的俄羅斯管理方表示，襲擊造成1人遇難，17人受傷。
+
+---
+
+### 2026-08-18 22:48:07  #其他
+
+標普確認英偉達評級，包含AA級發行人信用評級。
+
+---
+
+### 2026-08-18 22:47:57  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+Atlanta Fed says its GDPNow model nowcasts real GDP growth for Q3 2026 at 4.0%.
+
+---
+
+### 2026-08-18 22:47:41  #市場
+
+【美股儲存板塊低開低走 SK海力士下跌7.4%、閃迪下跌8%】美股儲存板塊低開低走，擴大跌幅，該板塊此前連續數日上漲。美光科技下跌6.33%，SK海力士下跌7.41%，閃迪下跌8.05%，西部資料下跌7.10%，希捷科技下跌7.58%，鎧俠ADR下跌10.63%。
+
+---
+
+### 2026-08-18 22:47:19  #MKT News
+
+Bank of Israel governor said Israel's economy has shown strong resilience during the war.
+
+---
+
+### 2026-08-18 22:47:11  #MKT News
+
+Bank of Israel governor says next monetary policy meeting will be a "real-time" meeting.
+
+---
+
+### 2026-08-18 22:46:53  #國際
+
+亞龍：戰爭期間以色列經濟展現出極強韌性。
+
+---
+
+### 2026-08-18 22:46:40  #公司
+
+【安徽：完善耐心資本投早、投小、投長期、投硬科技支援政策】8月18日訊息，日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。完善耐心資本投早、投小、投長期、投硬科技支援政策。加快金融支援科創企業“共同成長計劃”和“貸投批次聯動”提質擴面。鼓勵發展金融資產投資公司股權投資、科技企業併購貸款等新模式。擴大風險投資基金、天使基金規模，發展私募股權二級市場基金。推進合肥科創金融改革試驗區建設。
+
+---
+
+### 2026-08-18 22:46:32  #其他
+
+【安徽：引導推進合肥全國供應鏈金融整合服務基地提質增效】8月18日訊息，日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。引導推進合肥全國供應鏈金融整合服務基地提質增效。鼓勵發展應收賬款、訂單、存貨、倉單質押融資等模式。發揮政府性融資擔保機構作用，建立供應鏈金融風險共擔機制。支援融資租賃企業提升新興產業、未來產業、傳統產業等重點領域融資租賃服務能力。建設合肥融資租賃集聚區。
+
+---
+
+### 2026-08-18 22:45:57  #公司
+
+【安徽：引導銀行業金融機構向綜合金融服務商轉型，打造安徽（合肥）併購集聚區】日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。引導銀行業金融機構向綜合金融服務商轉型。打造安徽（合肥）併購集聚區。創新“投、貸、擔、保、補”金融組團服務。支援法人證券公司特色化、差異化發展。鼓勵探索組建重點產業保險共同體。鼓勵金融機構開發適配服務業輕資產特性的融資產品。
+
+---
+
+### 2026-08-18 22:45:27  #其他
+
+亞龍：下次貨幣政策會議將以直播形式舉行。
+
+---
+
+### 2026-08-18 22:45:19  #公司 #國際
+
+BTAB電子商務集團公司：BTAB與全球製造商合作，擴大其進入美國市場的渠道。
+
+---
+
+### 2026-08-18 22:45:11  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+The Russian administration at the Zaporizhzhia nuclear plant confirmed a bus stop used to transport plant staff was attacked.
+
+---
+
+### 2026-08-18 22:44:57  #MKT News
+
+Bank of Israel governor says recently released GDP data were very strong but contain some warnings.
+
+---
+
+### 2026-08-18 22:44:53  #其他
+
+扎波羅熱核電站俄方管理層證實，電站員工使用的公交車站遭襲。
+
+---
+
+### 2026-08-18 22:44:38  #其他
+
+【安徽：支援為中小企業提供彈性算力和詞元服務，謀劃建設量子人工智慧交叉融合創新中心】近日，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。其中提到，協同推進算力叢集和邊緣算力建設。打造集“量算、通算、智算、超算”為一體的協同排程平臺。支援為中小企業提供彈性算力和詞元服務。謀劃建設量子人工智慧交叉融合創新中心。推進實施人工智慧算力券政策。
+
+---
+
+### 2026-08-18 22:44:30  #公司 #市場
+
+【藍盾光電：股票8月19日起停牌核查 股價5日漲197.21%】藍盾光電公告稱，公司股票2026年8月10日至8月18日累計5個交易日漲停，漲幅達197.21%，嚴重偏離基本面，將於2026年8月19日開市起停牌核查，預計停牌不超3個交易日。2025年公司營收3.99億元，同比降34.53%，淨虧損8876.65萬元，同比降1468.72%；2026年一季度營收8811.63萬元，同比降13.20%，淨虧損866.43萬元，同比降271.99%。公司擬發行股份及支付現金購買蘇州嵐創科技控股權並募集配套資金，該交易後續推進存在重大不確定性。
+
+---
+
+### 2026-08-18 22:44:15  #其他
+
+亞龍：我們剛剛公佈了非常強勁的GDP資料，但也存在一些需要注意的地方。
+
+---
+
+### 2026-08-18 22:43:58  #央行 #國際
+
+以色列央行行長阿米爾・亞龍接受採訪。
+
+---
+
+### 2026-08-18 22:41:35  #其他
+
+科爾代羅：如果反對派獲勝，財政狀況將顯著改善。
+
+---
+
+### 2026-08-18 22:41:28  #Trading Economics #Markets #Commodity #Importance 0
+
+Sugar Futures at Over 1-Year High — US sugar futures extended their recent gains, climbing above 17 cents per pound to their highest level since May 2025. The market remains supported by prospects of a tighter global supply, with the strongest El Niño in decades adding to production risks. Analysts are increasingly expecting reduced supplies in the 2026-27 season that starts in October, with the global shortfall potentially widening further in the 2027-28 season on lower cane and beet plantings. India, the European Union, and Thailand are among the regions identified as most vulnerable to adverse weather conditions. At the same time, elevated oil prices could encourage cane diversion to ethanol production in major producers like Brazil. The country raised its mandatory ethanol blend to 32% in late July from 30% a month earlier and 27% a year earlier, potentially reducing sugar availability. Meanwhile, India is considering lowering its sugar import duty.until end-October to bolster supplies and curb record prices.
+
+---
+
+### 2026-08-18 22:41:27  #其他
+
+科爾代羅：如果連任，我不認為政府會改變財政方向。
+
+---
+
+### 2026-08-18 22:41:18  #其他
+
+科爾代羅：我認為巴西中央銀行還有降息空間。
+
+---
+
+### 2026-08-18 22:40:51  #國際
+
+美國國家颶風中心：拉拉颶風在中太平洋重新增強為颶風。
+
+---
+
+### 2026-08-18 22:40:40  #MKT News
+
+VinSpace signed a launch contract with SpaceX to develop and launch its first satellites into orbit in 2027.
+
+---
+
+### 2026-08-18 22:40:37  #央行 #其他
+
+加拿大央行將發售164億加元98天期國庫券、58億加元168天期國庫券、58億加元350天期國庫券。
+
+---
+
+### 2026-08-18 22:40:23  #MKT News #Important #Commodities #Precious Metals
+
+SHFE silver most-active contract fell as much as 2.00% intraday, currently trading at 15,773.00 yuan/kg.
+
+---
+
+### 2026-08-18 22:40:17  #其他
+
+VINSPACE:與SpaceX簽署發射合同，計劃於2027年開發併發射首批衛星進入軌道。
+
+---
+
+### 2026-08-18 22:40:17  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver was down as much as 2% intraday, trading at $64.46/oz.
+
+---
+
+### 2026-08-18 22:40:01  #其他
+
+KAPITALO基金經理科爾代羅：巴西經濟放緩的跡象非常明顯。
+
+---
+
+### 2026-08-18 22:39:57  #市場 #焦點
+
+白銀連續主力合約日內跌2%，現報15773.00元。
+
+---
+
+### 2026-08-18 22:39:45  #市場
+
+現貨白銀日內跌2%，現報64.42美元/盎司。
+
+---
+
+### 2026-08-18 22:38:22  #國際
+
+美國國家颶風中心：由於預計拉拉颱風將轉向北行，帕帕哈瑙莫誇基亞海洋國家紀念碑部分割槽域已釋出預警。
+
+---
+
+### 2026-08-18 22:35:53  #其他
+
+ETS與PASSAGE宣佈建立戰略合作伙伴關係，共同革新全球人才發展路徑。
+
+---
+
+### 2026-08-18 22:35:32  #其他
+
+QUALCO GROUP SA：將為希臘衛生部提供網路平臺，並協助評估約4000處房產。
+
+---
+
+### 2026-08-18 22:34:50  #MKT News
+
+U.S. judge allows Trump administration to end deportation protection for more than 5,000 Ethiopian nationals.
+
+---
+
+### 2026-08-18 22:34:31  #國際
+
+美國法官允許特朗普政府終止對5000多名衣索比亞人的驅逐保護。
+
+---
+
+### 2026-08-18 22:34:23  #其他
+
+ALL IN! GAMES：投資者宣佈有意進行500萬茲羅提的資本投資。
+
+---
+
+### 2026-08-18 22:33:24  #央行 #資料
+
+【克利夫蘭聯儲調查：企業高管預計未來一年CPI通脹率將降至3.3%】克利夫蘭聯儲調查的企業高管預計，未來一年CPI通脹率為3.3%，較第二季度的3.7%略有下降。他們預計工資增長（未來一年為2.8%，去年調查為2.9%）和就業水平不會出現明顯變化。預計研發支出增速將放緩，未來一年預計為2.0%，低於去年調查中的3.1%。
+
+---
+
+### 2026-08-18 22:33:18  #MKT News #Market Regions #Europe & UK
+
+Estonia's prime minister said authorities are investigating a fire at a defence manufacturer linked to Russia.
+
+---
+
+### 2026-08-18 22:32:42  #國際
+
+愛沙尼亞總理：該國正在調查國防製造商火災事件是否與俄羅斯存在關聯。
+
+---
+
+### 2026-08-18 22:32:38  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natgas Prices Rise on Tuesday — US natural gas prices climbed above $2.71/MMBtu as forecasts pointed to prolonged and intense heat across the southern and western parts of the country. Particularly high temperatures in Texas are driving greater air-conditioning use, increasing electricity demand and placing additional pressure on gas-fired power plants and the regional grid. Houston temperatures are expected to average around 100°F between August 20 and 23, while peak demand on the Texas power grid could reach a new record as wind generation declines. However, the price gains were limited by exceptionally strong domestic production. Average output in the Lower 48 states has reached 111.6 billion cubic feet per day in August, surpassing July’s record of 110.7 bcfd. Strong production and relatively mild weather earlier this year have also kept inventories above the five-year average since March. Meanwhile, gas flows to the nine major US LNG export facilities are averaging 17.2 bcfd in August, unchanged from July.
 
 ---
 
@@ -20014,131 +20290,5 @@ TASNIM NEWS reported a large explosion in Mocha, western Yemen, after Yemeni arm
 ### 2026-08-17 18:10:27  #Trading Economics #Economy #Peru #Monthly GDP YoY #Importance 1
 
 Peru Economic Activity Slows Further in June — Peru’s economy expanded 1.75% year-on-year in June 2026, easing slightly from 1.8% in May and marking the weakest growth since November 2025. Fishing recorded the steepest contraction, plunging 51.9% after a 73.1% decline in the previous month, as warmer surface waters linked to the El Niño phenomenon pushed fish into deeper waters. In turn, agriculture also weakened, falling 8.1% after a 0.1% increase. Growth in mining and hydrocarbons reversed to a 2.2% contraction from a 2.6% gain, while the decline in manufacturing narrowed to 6.2% from 10.7%. Offsetting some of the weakness, growth accelerated in commerce (7.8% vs 6.9%), construction (9% vs 4.7%) and utilities (6.8% vs 5.2%). In the first half of 2026, the economy expanded 3.05%, while growth over the 12 months through June reached 3.33%.
-
----
-
-### 2026-08-17 18:09:55  #MKT News
-
-【Two explosive-laden drones target Kurdistan Region PM office and security chief's residence; no casualties】On the 17th at 00:28 local time the Kurdistan Region Counter-Terrorism Directorate said two explosive‑laden Hadid‑110 drones were launched from the direction of the Iranian border, targeting the Kurdistan Region prime minister’s office and the residence of the Kurdistan Region Security Directorate chief in Pirmam district, Erbil province. The directorate said there were no casualties and vowed to hold the perpetrators accountable.
-
----
-
-### 2026-08-17 18:09:49  #國際
-
-【伊拉克庫區稱兩架無人機襲擊總理辦公室】當地時間17日，據伊拉克庫爾德自治區（庫區）反恐總局宣告，當天凌晨0時28分，兩架裝載爆炸物的“哈迪德110”型無人機從伊朗邊境方向起飛，目標為伊拉克庫區總理辦公室和位於伊庫區埃爾比勒省皮爾馬姆區的庫區安全域性局長官邸。此次襲擊未造成人員傷亡。宣告強烈譴責此次襲擊和侵略行為，重申這些行為“完全不可接受”，並將追究肇事者的一切責任。（央視新聞）
-
----
-
-### 2026-08-17 18:09:20  #市場 #央行 #國際
-
-【美元跌至三個月低點 因投資者削減對美聯儲加息的押注】美元跌至三個月低點，之前一系列疲軟的美國經濟資料導致投資者降低了對美聯儲進一步加息的預期。美元即期指數連續第三個交易日下跌，觸及5月15日以來的最低水平。目前市場反映的美聯儲下月加息機率降至三分之一，低於7月末的75%左右。之前美國公佈的7月就業資料不佳，通脹溫和，零售銷售資料則意外疲軟。而本週鮮有重大資料能夠引發美元大幅突破，週五的全球採購經理人指數或許是下一個實質性考驗所在。Brown Brothers Harriman市場戰略全球主管Elias Haddad稱，如果美國經濟資料改善，鞏固美國的增長優勢，則可能提振美元。 然而，市場目前預期本輪緊縮週期裡的進一步加息幅度僅為36個基點左右，期權市場顯示美元短期內將面臨更大壓力。1個月期期權自2月底以來首次轉為看空美元，更長期限的期權仍然看多。
-
----
-
-### 2026-08-17 18:08:37  #公司
-
-【青矩技術：2026年半年度淨利潤7466.69萬元，同比增長13.65%】青矩技術公告，2026年半年度營業收入3.51億元，同比下降0.17%。歸屬於上市公司股東的淨利潤7466.69萬元，同比增長13.65%；扣除非經常性損益後的淨利潤7199.48萬元，同比增長13.05%。本報告期未進行權益分派。
-
----
-
-### 2026-08-17 18:08:34  #公司
-
-【鼎陽科技：2026年上半年淨利潤9179.14萬元，同比增19.40%】鼎陽科技公告，2026年上半年營業收入3.58億元，同比增長28.31%。歸屬於上市公司股東的淨利潤9179.14萬元，同比增長19.40%。扣除非經常性損益的淨利潤8933.46萬元，同比增長18.30%。本報告期未進行利潤分配。
-
----
-
-### 2026-08-17 18:08:31  #公司 #市場
-
-KBR股價盤前上漲2.4%，此前該公司贏得北約一份合同，為愛國者防空反導系統提供服務，合同初始上限為6000萬美元。
-
----
-
-### 2026-08-17 18:08:27  #公司
-
-【歡樂家：控股子公司出資1000萬元設立全資公司並完成註冊】歡樂家公告，公司控股子公司廣東歡樂家新能源有限公司使用自有資金1000萬元，設立全資子公司湖南歡樂家新能源有限公司。近日，湖南歡樂家已完成工商註冊登記手續，並領取了營業執照。
-
----
-
-### 2026-08-17 18:07:56  #公司
-
-【德塔智慧與舞肌科技達成戰略合作，聯合規範全身協同靈巧運算元據採集】近日，原生人形機器人基礎模型公司德塔智慧（Delta Intelligence）宣佈與靈巧手硬體企業舞肌科技正式簽署戰略合作協議。雙方將圍繞全身協同靈巧操作的資料採集與模型訓練展開協同，打通“資料採集—模型訓練—靈巧操作”全鏈路，並計劃於年內推出聯合定義的“全身協同靈巧運算元據標準”與“模型訓練基線”。（新浪科技）
-
----
-
-### 2026-08-17 18:07:42  #公司
-
-【雲天化：2026年半年度營收228.2億元 同比降8.92%】雲天化公告稱，2026年半年度實現營業收入228.21億元，同比下降8.92%；歸屬於上市公司股東的淨利潤29.34億元，同比增長6.14%。公司擬以權益分派股權登記日登記的總股本為基數，向全體股東每10股派發現金紅利2元（含稅），合計擬派發現金紅利3.65億元，本次利潤分配不送紅股、不以資本公積金轉增股本。
-
----
-
-### 2026-08-17 18:07:36  #公司
-
-【雲天化：2026年半年度披露自產產品經營資料】雲天化公告稱，公司披露2026年半年度主要自產產品經營資料：磷肥產量209.65萬噸、銷量215.64萬噸，營收8.16億元；複合（混）肥產量119.88萬噸、銷量123.67萬噸，營收4.16億元；尿素產量154.02萬噸、銷量138.06萬噸，營收2.40億元；聚甲醛產量6.24萬噸、銷量5.76萬噸，營收55649.67萬元；黃磷產量1.66萬噸、銷量0.92萬噸，營收21821.10萬元；飼料級磷酸氫鈣產量30.90萬噸、銷量25.83萬噸，營收1.31億元；磷酸鐵產量5.15萬噸、銷量5.04萬噸，營收53978.76萬元。上述資料不含商貿、其他業務及零星產品收入，無其他重大經營影響事項。
-
----
-
-### 2026-08-17 18:07:06  #公司 #國際
-
-【光庫科技：2026年上半年營收10.32億元 同比增長72.91%】光庫科技公告稱，2026年上半年公司實現營業收入10.32億元，同比增長72.91%；歸母淨利潤1.48億元，同比增長186.09%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。截至2026年6月9日，公司已將泰國光庫生產基地專案節餘募集資金3813.73萬元全部劃轉至普通賬戶並完成專戶銷戶。2025年7月啟動的收購蘇州安捷訊光電科技股份有限公司99.97%股份的重大資產重組事項截至報告期末尚未完成。
-
----
-
-### 2026-08-17 18:06:47  #公司
-
-【成都芯源在成都高新區新增建設近1萬平方米產線】全球領先的模擬IC半導體企業-芯源系統股份有限公司（MPS）旗下全資子公司——成都芯源系統有限公司近日在成都高新區啟動新一輪擴產，在位於成都高新綜合保稅區的高投電子·芯創智谷，新增建設近1萬平方米產線，持續加碼高階電源管理晶片佈局。
-
----
-
-### 2026-08-17 18:06:22  #公司
-
-【*ST四通：完成新一屆董事會及高管人員聘任】*ST四通公告稱，公司第六屆董事會第一次會議於2026年8月17日召開，審議透過多項議案：選舉鄧建華為董事長、蔡鎮城為副董事長，選舉產生各董事會專門委員會委員及主任委員；聘任蔡鎮通為總經理，盧金平為副總經理，張平為財務總監兼董事會秘書，陳釧為證券事務代表，上述人員任期均至第六屆董事會屆滿之日止。
-
----
-
-### 2026-08-17 18:06:14  #公司
-
-【東方盛虹：1600萬噸/年煉化一體化專案裝置完成檢修恢復生產】東方盛虹公告，公司此前披露從2026年6月底起對1600萬噸/年盛虹煉化一體化專案裝置進行例行性停產檢修，淨檢修期預計45天。近日，本次停產檢修的各類裝置檢修、提質增效技改專案、特種裝置法定檢驗工作已全部順利完成，公司後續將按經營計劃組織裝置恢復生產執行。
-
----
-
-### 2026-08-17 18:05:20  #公司
-
-【瀾起科技：將審議2026年中期業績及中期股息】瀾起科技公告稱，公司將於2026年8月28日召開董事會會議，審議及批准公司及其附屬公司截至2026年6月30日止六個月的未經稽核中期業績及其刊發，同時考慮派發中期股息的相關建議（如有）。
-
----
-
-### 2026-08-17 18:05:07  #其他
-
-【地質災害黃色預警：四川中部、雲南西部等地部分地區發生災害風險較高】自然資源部與中國氣象局8月17日18時聯合釋出黃色地質災害氣象風險預警：預計，8月17日20時至18日20時，四川中部、雲南西部等地部分地區發生地質災害的氣象風險較高（黃色預警）。
-
----
-
-### 2026-08-17 18:05:02  #公司 #市場
-
-【儒意電影：股票交易異常波動 不存在應披露未披露重大事項】儒意電影公告稱，公司股票於2026年8月13日、8月14日、8月17日連續三個交易日收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東、實際控制人核實，公司前期披露資訊無需更正補充，近期經營情況正常，內外部經營環境未發生重大變化，公司及控股股東、實控人不存在應披露而未披露或處於籌劃階段的重大事項，控股股東、實控人在本次異常波動期間未買賣公司股票。
-
----
-
-### 2026-08-17 18:04:46  #MKT News #Star Stocks #JD.com #JD.O #Impact bearish
-
-Susquehanna cuts JD.com (JD.O) PT to $30 from $35.
-
----
-
-### 2026-08-17 18:03:39  #公司
-
-【銅冠礦建：擬設立貴州分公司拓展區域市場】銅冠礦建公告，公司於2026年8月13日召開董事會審議透過議案，根據發展戰略及業務發展需要，擬設立貴州分公司，以進一步拓展貴州區域礦山開發服務市場，提升屬地化服務能力與市場響應效率，本次設立分公司不構成關聯交易及重大資產重組。
-
----
-
-### 2026-08-17 18:03:15  #公司
-
-【港迪技術：全資子公司簽訂6916.80萬元專案合同】港迪技術公告稱，公司全資子公司武漢港迪智慧技術有限公司此前為廣州港煤礦裝卸智慧化專案中標人，近日分別與廣州港新沙港務有限公司、廣州港股份有限公司新港港務分公司簽訂對應專案合同書，兩份合同含稅金額分別為3441.00萬元、3475.80萬元，總金額合計6916.80萬元，與中標金額一致。該合同為子公司日常經營合同，無需提交公司董事會或股東會審議，合同履行預計將對公司未來財務狀況、經營成果產生積極影響，合同履行仍存在相關不確定風險。
-
----
-
-### 2026-08-17 18:02:44  #公司
-
-【千里科技：獨立董事劉雲浩辭任 將盡快完成補選】千里科技公告稱，公司董事會於2026年8月16日收到獨立董事劉雲浩的書面辭職報告，其因個人工作原因擬辭去公司獨立董事職務。該離任將導致公司獨立董事佔董事會成員比例低於三分之一，在新任獨立董事就任前，劉雲浩將繼續履行獨立董事職責，辭任將在公司股東會補選新任獨立董事後生效，其離任後不再擔任公司任何職務。截至公告披露日，劉雲浩未持有公司股份，不存在未履行完畢的公開承諾，公司將盡快完成獨立董事補選工作。
 
 ---

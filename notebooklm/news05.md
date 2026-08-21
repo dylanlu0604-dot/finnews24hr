@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:51:02_
-_本檔包含 3041 則快訊，約 657157 字_
+_更新時間：2026-08-22 03:32:22_
+_本檔包含 3032 則快訊，約 656931 字_
+
+---
+
+### 2026-08-17 18:09:55  #MKT News
+
+【Two explosive-laden drones target Kurdistan Region PM office and security chief's residence; no casualties】On the 17th at 00:28 local time the Kurdistan Region Counter-Terrorism Directorate said two explosive‑laden Hadid‑110 drones were launched from the direction of the Iranian border, targeting the Kurdistan Region prime minister’s office and the residence of the Kurdistan Region Security Directorate chief in Pirmam district, Erbil province. The directorate said there were no casualties and vowed to hold the perpetrators accountable.
+
+---
+
+### 2026-08-17 18:09:49  #國際
+
+【伊拉克庫區稱兩架無人機襲擊總理辦公室】當地時間17日，據伊拉克庫爾德自治區（庫區）反恐總局宣告，當天凌晨0時28分，兩架裝載爆炸物的“哈迪德110”型無人機從伊朗邊境方向起飛，目標為伊拉克庫區總理辦公室和位於伊庫區埃爾比勒省皮爾馬姆區的庫區安全域性局長官邸。此次襲擊未造成人員傷亡。宣告強烈譴責此次襲擊和侵略行為，重申這些行為“完全不可接受”，並將追究肇事者的一切責任。（央視新聞）
+
+---
+
+### 2026-08-17 18:09:20  #市場 #央行 #國際
+
+【美元跌至三個月低點 因投資者削減對美聯儲加息的押注】美元跌至三個月低點，之前一系列疲軟的美國經濟資料導致投資者降低了對美聯儲進一步加息的預期。美元即期指數連續第三個交易日下跌，觸及5月15日以來的最低水平。目前市場反映的美聯儲下月加息機率降至三分之一，低於7月末的75%左右。之前美國公佈的7月就業資料不佳，通脹溫和，零售銷售資料則意外疲軟。而本週鮮有重大資料能夠引發美元大幅突破，週五的全球採購經理人指數或許是下一個實質性考驗所在。Brown Brothers Harriman市場戰略全球主管Elias Haddad稱，如果美國經濟資料改善，鞏固美國的增長優勢，則可能提振美元。 然而，市場目前預期本輪緊縮週期裡的進一步加息幅度僅為36個基點左右，期權市場顯示美元短期內將面臨更大壓力。1個月期期權自2月底以來首次轉為看空美元，更長期限的期權仍然看多。
+
+---
+
+### 2026-08-17 18:08:37  #公司
+
+【青矩技術：2026年半年度淨利潤7466.69萬元，同比增長13.65%】青矩技術公告，2026年半年度營業收入3.51億元，同比下降0.17%。歸屬於上市公司股東的淨利潤7466.69萬元，同比增長13.65%；扣除非經常性損益後的淨利潤7199.48萬元，同比增長13.05%。本報告期未進行權益分派。
+
+---
+
+### 2026-08-17 18:08:34  #公司
+
+【鼎陽科技：2026年上半年淨利潤9179.14萬元，同比增19.40%】鼎陽科技公告，2026年上半年營業收入3.58億元，同比增長28.31%。歸屬於上市公司股東的淨利潤9179.14萬元，同比增長19.40%。扣除非經常性損益的淨利潤8933.46萬元，同比增長18.30%。本報告期未進行利潤分配。
+
+---
+
+### 2026-08-17 18:08:31  #公司 #市場
+
+KBR股價盤前上漲2.4%，此前該公司贏得北約一份合同，為愛國者防空反導系統提供服務，合同初始上限為6000萬美元。
+
+---
+
+### 2026-08-17 18:08:27  #公司
+
+【歡樂家：控股子公司出資1000萬元設立全資公司並完成註冊】歡樂家公告，公司控股子公司廣東歡樂家新能源有限公司使用自有資金1000萬元，設立全資子公司湖南歡樂家新能源有限公司。近日，湖南歡樂家已完成工商註冊登記手續，並領取了營業執照。
+
+---
+
+### 2026-08-17 18:07:56  #公司
+
+【德塔智慧與舞肌科技達成戰略合作，聯合規範全身協同靈巧運算元據採集】近日，原生人形機器人基礎模型公司德塔智慧（Delta Intelligence）宣佈與靈巧手硬體企業舞肌科技正式簽署戰略合作協議。雙方將圍繞全身協同靈巧操作的資料採集與模型訓練展開協同，打通“資料採集—模型訓練—靈巧操作”全鏈路，並計劃於年內推出聯合定義的“全身協同靈巧運算元據標準”與“模型訓練基線”。（新浪科技）
+
+---
+
+### 2026-08-17 18:07:42  #公司
+
+【雲天化：2026年半年度營收228.2億元 同比降8.92%】雲天化公告稱，2026年半年度實現營業收入228.21億元，同比下降8.92%；歸屬於上市公司股東的淨利潤29.34億元，同比增長6.14%。公司擬以權益分派股權登記日登記的總股本為基數，向全體股東每10股派發現金紅利2元（含稅），合計擬派發現金紅利3.65億元，本次利潤分配不送紅股、不以資本公積金轉增股本。
+
+---
+
+### 2026-08-17 18:07:36  #公司
+
+【雲天化：2026年半年度披露自產產品經營資料】雲天化公告稱，公司披露2026年半年度主要自產產品經營資料：磷肥產量209.65萬噸、銷量215.64萬噸，營收8.16億元；複合（混）肥產量119.88萬噸、銷量123.67萬噸，營收4.16億元；尿素產量154.02萬噸、銷量138.06萬噸，營收2.40億元；聚甲醛產量6.24萬噸、銷量5.76萬噸，營收55649.67萬元；黃磷產量1.66萬噸、銷量0.92萬噸，營收21821.10萬元；飼料級磷酸氫鈣產量30.90萬噸、銷量25.83萬噸，營收1.31億元；磷酸鐵產量5.15萬噸、銷量5.04萬噸，營收53978.76萬元。上述資料不含商貿、其他業務及零星產品收入，無其他重大經營影響事項。
+
+---
+
+### 2026-08-17 18:07:06  #公司 #國際
+
+【光庫科技：2026年上半年營收10.32億元 同比增長72.91%】光庫科技公告稱，2026年上半年公司實現營業收入10.32億元，同比增長72.91%；歸母淨利潤1.48億元，同比增長186.09%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。截至2026年6月9日，公司已將泰國光庫生產基地專案節餘募集資金3813.73萬元全部劃轉至普通賬戶並完成專戶銷戶。2025年7月啟動的收購蘇州安捷訊光電科技股份有限公司99.97%股份的重大資產重組事項截至報告期末尚未完成。
+
+---
+
+### 2026-08-17 18:06:47  #公司
+
+【成都芯源在成都高新區新增建設近1萬平方米產線】全球領先的模擬IC半導體企業-芯源系統股份有限公司（MPS）旗下全資子公司——成都芯源系統有限公司近日在成都高新區啟動新一輪擴產，在位於成都高新綜合保稅區的高投電子·芯創智谷，新增建設近1萬平方米產線，持續加碼高階電源管理晶片佈局。
+
+---
+
+### 2026-08-17 18:06:22  #公司
+
+【*ST四通：完成新一屆董事會及高管人員聘任】*ST四通公告稱，公司第六屆董事會第一次會議於2026年8月17日召開，審議透過多項議案：選舉鄧建華為董事長、蔡鎮城為副董事長，選舉產生各董事會專門委員會委員及主任委員；聘任蔡鎮通為總經理，盧金平為副總經理，張平為財務總監兼董事會秘書，陳釧為證券事務代表，上述人員任期均至第六屆董事會屆滿之日止。
+
+---
+
+### 2026-08-17 18:06:14  #公司
+
+【東方盛虹：1600萬噸/年煉化一體化專案裝置完成檢修恢復生產】東方盛虹公告，公司此前披露從2026年6月底起對1600萬噸/年盛虹煉化一體化專案裝置進行例行性停產檢修，淨檢修期預計45天。近日，本次停產檢修的各類裝置檢修、提質增效技改專案、特種裝置法定檢驗工作已全部順利完成，公司後續將按經營計劃組織裝置恢復生產執行。
+
+---
+
+### 2026-08-17 18:05:20  #公司
+
+【瀾起科技：將審議2026年中期業績及中期股息】瀾起科技公告稱，公司將於2026年8月28日召開董事會會議，審議及批准公司及其附屬公司截至2026年6月30日止六個月的未經稽核中期業績及其刊發，同時考慮派發中期股息的相關建議（如有）。
+
+---
+
+### 2026-08-17 18:05:07  #其他
+
+【地質災害黃色預警：四川中部、雲南西部等地部分地區發生災害風險較高】自然資源部與中國氣象局8月17日18時聯合釋出黃色地質災害氣象風險預警：預計，8月17日20時至18日20時，四川中部、雲南西部等地部分地區發生地質災害的氣象風險較高（黃色預警）。
+
+---
+
+### 2026-08-17 18:05:02  #公司 #市場
+
+【儒意電影：股票交易異常波動 不存在應披露未披露重大事項】儒意電影公告稱，公司股票於2026年8月13日、8月14日、8月17日連續三個交易日收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。經自查並向控股股東、實際控制人核實，公司前期披露資訊無需更正補充，近期經營情況正常，內外部經營環境未發生重大變化，公司及控股股東、實控人不存在應披露而未披露或處於籌劃階段的重大事項，控股股東、實控人在本次異常波動期間未買賣公司股票。
+
+---
+
+### 2026-08-17 18:04:46  #MKT News #Star Stocks #JD.com #JD.O #Impact bearish
+
+Susquehanna cuts JD.com (JD.O) PT to $30 from $35.
+
+---
+
+### 2026-08-17 18:03:39  #公司
+
+【銅冠礦建：擬設立貴州分公司拓展區域市場】銅冠礦建公告，公司於2026年8月13日召開董事會審議透過議案，根據發展戰略及業務發展需要，擬設立貴州分公司，以進一步拓展貴州區域礦山開發服務市場，提升屬地化服務能力與市場響應效率，本次設立分公司不構成關聯交易及重大資產重組。
+
+---
+
+### 2026-08-17 18:03:15  #公司
+
+【港迪技術：全資子公司簽訂6916.80萬元專案合同】港迪技術公告稱，公司全資子公司武漢港迪智慧技術有限公司此前為廣州港煤礦裝卸智慧化專案中標人，近日分別與廣州港新沙港務有限公司、廣州港股份有限公司新港港務分公司簽訂對應專案合同書，兩份合同含稅金額分別為3441.00萬元、3475.80萬元，總金額合計6916.80萬元，與中標金額一致。該合同為子公司日常經營合同，無需提交公司董事會或股東會審議，合同履行預計將對公司未來財務狀況、經營成果產生積極影響，合同履行仍存在相關不確定風險。
+
+---
+
+### 2026-08-17 18:02:44  #公司
+
+【千里科技：獨立董事劉雲浩辭任 將盡快完成補選】千里科技公告稱，公司董事會於2026年8月16日收到獨立董事劉雲浩的書面辭職報告，其因個人工作原因擬辭去公司獨立董事職務。該離任將導致公司獨立董事佔董事會成員比例低於三分之一，在新任獨立董事就任前，劉雲浩將繼續履行獨立董事職責，辭任將在公司股東會補選新任獨立董事後生效，其離任後不再擔任公司任何職務。截至公告披露日，劉雲浩未持有公司股份，不存在未履行完畢的公開承諾，公司將盡快完成獨立董事補選工作。
 
 ---
 
@@ -18192,185 +18318,5 @@ CFTC: For the week to Aug. 11, COMEX speculative net long positions — gold +9,
 ### 2026-08-15 03:32:42  #其他
 
 CFTC：原油投機客在截至8月11日當週將WTI淨多頭倉位增加4,034口，至105,860口。
-
----
-
-### 2026-08-15 03:31:26  #國際
-
-特朗普稱讚帕特爾。
-
----
-
-### 2026-08-15 03:30:44  #國際
-
-特朗普：布蘭奇將成為傳奇。
-
----
-
-### 2026-08-15 03:27:35  #MKT News
-
-U.S. President Trump said he does not care about damaging Iran's economy ahead of the midterm elections.
-
----
-
-### 2026-08-15 03:25:15  #MKT News #Macro & Rates #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index down 0.3% to 99.667 on 14th】The dollar index (DXY), which tracks the US dollar against six major currencies, fell 0.3% to 99.667 at the New York FX close. EUR/USD rose to 1.1566 from 1.1529; GBP/USD to 1.3533 from 1.3485. USD/JPY eased to 159.38 from 159.51; USD/CHF to 0.8131 from 0.8139; USD/CAD to 1.3877 from 1.3936; USD/SEK to 9.5246 from 9.5684.
-
----
-
-### 2026-08-15 03:25:11  #市場
-
-【美元指數14日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.3%，在匯市尾市收於99.667。截至紐約匯市尾市，1歐元兌換1.1566美元，高於前一交易日的1.1529美元；1英鎊兌換1.3533美元，高於前一交易日的1.3485美元。1美元兌換159.38日元，低於前一交易日的159.51日元；1美元兌換0.8131瑞士法郎，低於前一交易日的0.8139瑞士法郎；1美元兌換1.3877加元，低於前一交易日的1.3936加元；1美元兌換9.5246瑞典克朗，低於前一交易日的9.5684瑞典克朗。
-
----
-
-### 2026-08-15 03:25:05  #國際
-
-特朗普表示：不在乎是否在中期選舉前打擊伊朗經濟。
-
----
-
-### 2026-08-15 03:24:53  #國際
-
-特朗普：紐約正朝著糟糕的方向發展，我要改變它。
-
----
-
-### 2026-08-15 03:24:52  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil futures rise on 14th】At the close on the 14th, NYMEX September light sweet crude futures rose $1.15 to $82.40 per barrel, up 1.42%. ICE Brent October futures rose $1.45 to $88.52 per barrel, up 1.67%.
-
----
-
-### 2026-08-15 03:23:50  #公司 #國際
-
-【美國醫保高管被槍殺案嫌疑人對跟蹤指控表示認罪】美國聯合健康保險公司執行長布賴恩·湯普森被槍殺一案的嫌疑人路易吉·曼焦內14日就聯邦跟蹤指控表示認罪。曼焦內當天在紐約一家聯邦法院供述時承認自己槍殺了湯普森。聯邦法官將其量刑日期定於12月18日。曼焦內目前面臨聯邦指控和州指控，媒體認為其此番認罪意在尋求撤銷紐約州一級的謀殺指控，並推遲審判程序。（新華社）
-
----
-
-### 2026-08-15 03:19:26  #市場
-
-【國際油價14日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲1.15美元，收於每桶82.40美元，漲幅為1.42%；10月交貨的倫敦布倫特原油期貨價格上漲1.45美元，收於每桶88.52美元，漲幅為1.67%。（新華社）
-
----
-
-### 2026-08-15 03:19:01  #MKT News #Important #WTI #Impact bullish #Brent
-
-Fox News reports President Trump said the US will impose severe economic measures on Iran.
-
----
-
-### 2026-08-15 03:18:38  #焦點 #國際
-
-特朗普表示，美國將對伊朗實施嚴厲經濟打擊。
-
----
-
-### 2026-08-15 03:10:23  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Yemen government forces say Houthi militants fired six ballistic missiles at Mokha port】On the 14th local time Yemen government forces said Houthi militants fired six ballistic missiles at Mokha port in southwest Yemen, striking civilian and state facilities and seeking to blockade and exacerbate civilian hardship. Yemen’s Health Ministry condemned the strikes, warned of serious health and humanitarian consequences, and urged the UN, international organizations and aid agencies to denounce the attacks, protect critical civilian infrastructure, ensure continued delivery of supplies and humanitarian aid, and scale up emergency health and nutrition assistance to the western coast and other affected areas.
-
----
-
-### 2026-08-15 03:08:45  #MKT News #Commodities #Industrial Metals
-
-Chile's state-owned copper miner Codelco confirmed changes among top executives.
-
----
-
-### 2026-08-15 03:08:38  #市場
-
-恒生指數主連夜盤收漲0.61%。恒生科技指數主連夜盤收漲0.81%。
-
----
-
-### 2026-08-15 03:08:05  #MKT News
-
-Yemen's health ministry said a Houthi missile strike on the port town of Mocha tonight killed one civilian and wounded eight.
-
----
-
-### 2026-08-15 03:07:13  #其他
-
-【葉門政府軍稱胡塞武裝發射6枚彈道導彈襲擊摩卡港】當地時間14日，葉門政府軍表示，葉門胡塞武裝向葉門西南部摩卡港發射6枚彈道導彈，並以當地民用和國家設施為襲擊目標，企圖對民眾實施封鎖、加劇民眾困境。當天，葉門衛生部發表宣告，強烈譴責葉門胡塞武裝襲擊摩卡港，並警告此舉將產生嚴重的衛生和人道主義後果。宣告指出，西部沿海本就面臨嚴峻的營養不良和流離失所問題，港口受損、物資受阻將直接危及食品、藥品及衛生服務供應，增加兒童、婦女、流離失所者等脆弱群體的風險。（央視新聞）
-
----
-
-### 2026-08-15 03:05:07  #其他
-
-夏威夷航空：因熱帶風暴拉拉，取消明日卡胡盧伊與檀香山之間的一趟航班。
-
----
-
-### 2026-08-15 03:04:54  #其他
-
-Waymo：我們已獲得加州公用事業委員會批准，將在舊金山灣區、洛杉磯擴大服務，並於薩克拉門託、聖地亞哥推出服務。
-
----
-
-### 2026-08-15 03:04:30  #其他
-
-夏威夷航空：因熱帶風暴拉拉，週六暫停希洛機場運營。
-
----
-
-### 2026-08-15 03:04:19  #MKT News #Market Themes #AI Revolution #AVGO.O #Impact bearish
-
-【Broadcom shares drop nearly 7% on concerns over AI financing platform】Broadcom shares fell nearly 7% intraday on Friday as investors flagged risks in the financing model for its AI infrastructure expansion. BofA analysts estimate the financing vehicle for Broadcom’s AI‑chip customers could accumulate up to $370bn of senior debt by mid‑2029, with about $150bn of new issuance in 2027, assuming a 20 GW data‑centre buildout. The debt would sit on the platform rather than Broadcom’s balance sheet, but Broadcom has provided lease‑payment guarantees for some customers; the first guaranteed transaction is about $29bn. The financing structure began in June, when Apollo Global Management and Blackstone led a $35bn funding package for Broadcom’s AIXPV platform; initial proceeds will support Anthropic’s build of more than 1 GW of compute and the platform targets over 20 GW by 2028. Market attention will focus on Broadcom’s potential future guarantee exposure as AI infrastructure scales.
-
----
-
-### 2026-08-15 03:03:51  #市場
-
-洲際交易所10月布倫特原油期貨結算價報每桶88.52美元。
-
----
-
-### 2026-08-15 03:01:29  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.61% at 25,247, trading 130 points above the cash index.
-
----
-
-### 2026-08-15 03:00:30  #其他
-
-市場訊息：DOT AI宣佈收到退市通知，並表示將提起上訴。
-
----
-
-### 2026-08-15 03:00:02  #市場
-
-恒指期貨夜盤收漲0.62%，報25250.28點，高水133.43點。
-
----
-
-### 2026-08-15 02:59:01  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $88.52/bbl, up $1.45, or 1.67%.
-
----
-
-### 2026-08-15 02:58:50  #MKT News #Market Themes #The Trump Trade
-
-Market sources say U.S. President Trump is expected to attend a meeting on prediction markets.
-
----
-
-### 2026-08-15 02:57:45  #公司
-
-市場訊息：COINBASE、A16Z、KALSHI等公司將參加在白宮舉行的會議。
-
----
-
-### 2026-08-15 02:56:33  #國際
-
-市場訊息：特朗普預計將參加預測市場相關會議。
-
----
-
-### 2026-08-15 02:53:00  #公司
-
-【老虎環球Q2建倉SpaceX和AMD 減持谷歌、臺積電、英偉達等】老虎環球基金二季度大規模調倉。減持方面：博通削減51.1%至180萬股，谷歌A削減45.4%至580萬股A類股，臺積電削減12.3%至490萬份ADS，微軟削減9.3%至230萬股，Meta Platforms削減8.5%至280萬股A類股，英偉達削減6.8%至1120萬股，京東削減41.5%至20.15萬份ADS。增持方面，英特爾增持至430萬股。新建倉AMD67.4萬股以及SpaceX37.5萬股。清倉奈飛。
 
 ---

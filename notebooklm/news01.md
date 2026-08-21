@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 02:51:02_
-_本檔包含 3017 則快訊，約 657831 字_
+_更新時間：2026-08-22 03:32:22_
+_本檔包含 3005 則快訊，約 657506 字_
+
+---
+
+### 2026-08-22 03:31:17  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：8月18當週，投機者所持NYMEX WTI原油淨多頭頭寸增加320手合約，至104,035手合約，創三週新高。
+
+---
+
+### 2026-08-22 03:31:12  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：截至2026年8月18日當週，比特幣淨多頭頭寸為2736張合約。
+
+---
+
+### 2026-08-22 03:31:01  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料顯示，交易員在8月18日當週將芝加哥期貨交易所（CBOT）美國10年期國債期貨的淨空頭頭寸增加31908手，至946961手。
+
+---
+
+### 2026-08-22 03:30:52  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料顯示，交易員在8月18日當週將芝加哥期貨交易所（CBOT）美國兩年期國債期貨的淨空頭頭寸減少93,706手，至927,337手。
+
+---
+
+### 2026-08-22 03:30:44  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）資料顯示，交易員在8月18日當週將芝加哥期貨交易所（CBOT）美國超長期國債期貨的淨空頭頭寸增加19941手，至346724手。
+
+---
+
+### 2026-08-22 03:29:11  #其他
+
+【中國考古機構首次赴南美洲開展聯合考古】北京時間8月22日，中國社會科學院考古研究所與秘魯相關機構，在秘魯蘇佩，正式簽署考古合作協議，將聯合開展卡拉爾文明考古研究。卡拉爾文明興起於秘魯北部海岸，年代從公元前3000年延續至公元前1800年左右，是美洲迄今發現的最早文明。這是中國考古機構首次正式進入南美洲開展聯合考古工作。（央視新聞）
+
+---
+
+### 2026-08-22 03:28:55  #國際
+
+伊朗國防部發言人：在長達40天的神戰爭期間，伊朗一些戰略物資和戰爭所需用品的產量增長了三倍以上。
+
+---
+
+### 2026-08-22 03:28:01  #其他
+
+加州州長紐森認為派拉蒙無意遷出加利福尼亞州。
+
+---
+
+### 2026-08-22 03:27:40  #其他
+
+紐森：派拉蒙的法律和解若能達成 “有利協議”，便是最優選擇。
+
+---
+
+### 2026-08-22 03:26:38  #公司
+
+【蘋果裁減Siri和Vision Pro團隊崗位，資源重心轉向AI與新裝置】蘋果公司將裁減負責Siri數字助理和Vision Pro頭顯團隊的員工，此舉旨在聚焦新裝置和人工智慧。據知情人士透露，蘋果還在裁減智慧系統體驗團隊員工。該團隊隸屬於軟體工程部門，負責開發蘋果裝置上的部分AI功能。作為此次調整的一部分，蘋果基本關閉了Vision Pro遊戲團隊，並縮減了負責製作Vision Pro沉浸式影片內容團隊的規模。此次裁員共影響逾200人，其中Vision Pro部門裁減約100個崗位，Siri及軟體團隊裁減100個崗位。蘋果在宣告中承認，公司正在重新調整部分團隊，“以推動業務發展，為使用者提供最佳體驗”。（彭博）
+
+---
+
+### 2026-08-22 03:26:08  #其他
+
+【英偉達將支付60億美元以獲得Poolside AI模型授權 並擬吸納其員工】知情人士稱，英偉達已同意支付60億美元，以獲得Poolside人工智慧(AI)模型的使用許可，並將向100多名員工發出聘用邀請。因相關討論非公開而要求匿名的知情人士稱，這家初創企業還獲得英偉達額外10億美元投資，投前估值為120億美元。知情人士稱，Poolside將繼續獨立運營。知情人士稱，現有投資者將從英偉達提供的資金中獲得一筆款項。英偉達和Poolside的代表均未立即回應置評請求。科技資訊簡報Newcomer最先報道了這一訊息。
+
+---
+
+### 2026-08-22 03:25:45  #公司
+
+【OpenAI美洲銷售副總裁辭職，高管離職潮引發內部動盪 】OpenAI美洲區銷售副總裁Kaylin Voss已辭職，距其前上司、首席營收官Denise Dresser離職僅一週。Voss在OpenAI僅任職五個月，兩人此前均從Salesforce被招募以組建企業銷售團隊。隨著GPT-5.6釋出推動企業銷售加速，兩位核心銷售高管的相繼離開正引發團隊內部動盪，促使多名銷售人員考慮離職。近期OpenAI已有多位關鍵高管相繼離任，凸顯其在衝刺IPO前夕面臨的管理層穩定性挑戰。
+
+---
+
+### 2026-08-22 03:24:26  #國際
+
+【美最高法院允許白宮宴會廳繼續施工】美國最高法院當地時間8月21日裁定，允許特朗普政府暫時繼續推進白宮宴會廳專案的施工，暫緩執行一項要求大部分工程停工的司法命令。最高法院此次採取的“行政擱置”措施，為大法官們爭取了更多時間，以審議特朗普政府提出的正式請求——即在相關訴訟程式進行期間，允許耗資4億美元的宴會廳專案繼續施工。 美國文物保護組織“美國國家歷史保護信託基金會”去年年底對白宮宴會廳改造專案提起訴訟。哥倫比亞特區聯邦地區法院法官今年3月底下令暫停白宮宴會廳專案施工。特朗普政府隨即提起上訴。4月，該法官延長了暫停令，只允許建設掩體等地下安全設施。特朗普政府再次提起上訴。 哥倫比亞特區聯邦巡迴上訴法院8月7日裁定，維持暫停令。特朗普當天透過社交媒體發文，稱此裁決“不公正”，表示將向美國最高法院提起上訴。 在8月14日提交給最高法院的檔案中，美國司法部律師呼應了特朗普的說法，稱該專案出於安全必要，並援引針對特朗普的暗殺企圖及其他近期威脅作為依據。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 03:21:44  #其他
+
+OpenAI核心銷售高管凱琳·沃斯辭職。
+
+---
+
+### 2026-08-22 03:20:24  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
+
+Brazil Yields Fall on Tighter Election Race Prospects — Brazil’s 10-year government bond yield fell to 14.7% from the near one-month high reached on August 14, supported by expectations of a tighter presidential race and broad-based weakness in the US dollar. Financial markets view Senator Flávio Bolsonaro as more fiscally restrictive than President Lula, particularly as elevated domestic yields continue to weigh on economic activity. Recent developments, including an investigation into leaks involving Lula’s son and signs that Flávio is narrowing the gap with Lula in potential runoff scenarios, have fueled expectations of a possible change in government and economic policy. On Monday, a BTG/Nexus poll showed Lula and Flávio in a technical tie in a potential runoff. The weaker dollar also provided a more favorable global backdrop for Brazilian fixed income. However, US Treasury yields remained elevated despite the Treasury raising the limit on long-term bond buyback operations.
+
+---
+
+### 2026-08-22 03:19:50  #國際
+
+優步因使用自動化系統暫停司機賬戶，被荷蘭當局罰款8.25億歐元（9.63億美元），這是歐盟《通用資料保護條例》下第二高的罰款。
+
+---
+
+### 2026-08-22 03:18:33  #市場
+
+【美元指數21日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.09%，在匯市尾市收於98.801。截至紐約匯市尾市，1歐元兌換1.1683美元，高於前一交易日的1.1676美元；1英鎊兌換1.3652美元，高於前一交易日的1.3628美元。1美元兌換159.02日元，低於前一交易日的159.14日元；1美元兌換0.8008瑞士法郎，高於前一交易日的0.8007瑞士法郎；1美元兌換1.3761加元，低於前一交易日的1.3790加元；1美元兌換9.4626瑞典克朗，低於前一交易日的9.4908瑞典克朗。
+
+---
+
+### 2026-08-22 03:17:11  #國際
+
+美軍中央司令部發布了一個影片，配文為：美國海軍水手在阿拉伯海航行的喬治・華盛頓號航空母艦（CVN‑73）上開展夜間飛行作業。
+
+---
+
+### 2026-08-22 03:16:04  #公司
+
+美軍南方司令部：我們（美方與哥倫比亞軍警）共同努力，對哥倫比亞國內犯罪集團施加全面打擊。
+
+---
+
+### 2026-08-22 03:14:26  #其他
+
+著名投資人吉姆·克萊默：“去買比特幣”。
+
+---
+
+### 2026-08-22 03:11:54  #其他
+
+挪威GASSCO計劃於8月22日04:00至8月23日03:59期間，對Troll氣田實施每日510萬立方米的天然氣減產。
+
+---
+
+### 2026-08-22 03:11:14  #國際
+
+美國食品藥品監督管理局經過科學審查後批准ZYN Ultra尼古丁口含煙上市。
+
+---
+
+### 2026-08-22 03:07:40  #國際
+
+伊朗國防部發言人：在過去一年裡，我國武器裝備的產量翻了一番。
+
+---
+
+### 2026-08-22 03:04:57  #其他
+
+瑞典警方：法格斯塔校園襲擊案嫌疑人是一名18歲人員。
+
+---
+
+### 2026-08-22 03:04:50  #市場
+
+【特斯拉股價飆升創5月以來最佳周表現，Robotaxi業務利好重塑市場信心】特斯拉股價正朝著5月以來的最佳單週表現邁進。本週，特斯拉股價累計上漲約5%，在週五（8月21日）盤中更是大漲逾5%，報363.15美元左右。這一輪強勁反彈有效扭轉了此前市場因汽車利潤下滑、AI鉅額資本支出（預計今年超250億美元）以及Robotaxi推廣進度緩慢而產生的擔憂情緒。據報道，特斯拉正準備在8月底推出其首款無方向盤、無踏板的自動駕駛計程車Cybercab。該車型將率先在得克薩斯州奧斯汀市向內部員工開放試乘，隨後將正式接入現有的Robotaxi服務網路。目前，特斯拉的Robotaxi服務已在佛羅里達州的邁阿密、奧蘭多、坦帕，以及得克薩斯州的奧斯汀、達拉斯和休斯敦等多個城市落地。
+
+---
+
+### 2026-08-22 03:04:27  #國際
+
+美國西北河流徑流量維持在82% 未發生變化——美國西北河流預報中心（NWRFC）。
+
+---
+
+### 2026-08-22 03:03:38  #國際
+
+馮德萊恩：以色列政府決定釋出E1定居點專案的建設招標不可接受。 我們長期以來一直反對這一步驟。 它透過分割西岸並破壞巴勒斯坦領土的領土連續性，破壞了兩國的解決方案。 我們仍然致力於基於兩國方案的公正和持久的和平。
+
+---
+
+### 2026-08-22 03:00:45  #國際
+
+美國農業部：7 月美國肉牛上市率 93.0%（市場預估 92.8%）。
+
+---
+
+### 2026-08-22 03:00:03  #市場
+
+恒指期貨夜盤收跌0.47%，報25839.50點，低水169.96點。
+
+---
+
+### 2026-08-22 02:57:12  #宏觀 #市場 #國際
+
+【比特幣一週飆升約22% 料創逾三年來最大漲幅】隨著交易員評估近期債券收益率飆升的影響以及美國一項旨在推進財政整頓的新舉措，比特幣有望創逾三年來最大單週漲幅。紐約交易時段，比特幣一度上漲9.4%，報約77,000美元。本週迄今上漲約22%，若周漲幅保持在這一水平，將創2023年3月以來最大單週漲幅。美國財政部部長斯科特·貝森特週三宣佈，財政部將把長期國債回購規模至少提高一倍，加密貨幣市場情緒隨之轉趨樂觀。市場上漲迫使交易員平倉數十億美元的空頭頭寸。同一天，美國總統唐納德·特朗普會見加密貨幣行業高管，進一步提振樂觀情緒。與此同時，由於投資者擔心對債券市場的干預將拖累美元，金價升至5月以來最高水平。橋水創始人瑞·達利歐週五在LinkedIn發文稱，投資者應在不同資產以及財政狀況穩健的國家之間進行分散配置。他表示，低配債券、將投資組合的約10%至15%配置於黃金，並持有“少量”比特幣，既能降低風險，也能提高回報。“真正的推動因素是美國財政部把長期國債回購規模提高一倍，這壓低了長債收益率，普遍提振了風險偏好，”BTC Markets分析師Rachael Lucas表示，“比特幣的長期投資邏輯沒有改變，其波動性也沒有改變。”
+
+---
+
+### 2026-08-22 02:55:41  #公司 #央行 #國際
+
+【Allspring股票投資主管：傑克遜霍爾會議比英偉達業績風險更大】Allspring Global Investments的股票投資負責人Ann Miletti表示，與人工智慧領頭羊英偉達的業績相比，華爾街更需要擔心的是下週舉行的傑克遜霍爾經濟研討會。“面對目前發生的種種瘋狂狀況，我們努力保持關注的是自己能夠控制的事情，”Miletti表示，“從自下而上的角度審視公司，真正弄清哪些公司擁有足夠強勁的資產負債表和靈活性，能夠安然度過各種環境——這才是我們真正關注的地方，也是我們能夠掌控的事情。”Miletti週五接受採訪時表示，在傑克遜霍爾會議召開前，投資者應該降低預期。這場論壇由堪薩斯城聯邦儲備銀行主辦，美聯儲主席凱文·沃什將於8月28日發表重點講話。會議召開兩天前，英偉達將公佈季度業績，該公司市值達5.2萬億美元，是全球市值最高的上市公司。
+
+---
+
+### 2026-08-22 02:55:02  #市場 #焦點
+
+道指漲1.00%，現報53287.648點；納指漲0.42%，現報26177.657點；標普500指數漲0.48%，現報7677.730點。
 
 ---
 
@@ -17947,269 +18139,5 @@ GFZ reported a magnitude-6.5 earthquake in central Peru.
 ### 2026-08-21 02:06:26  #MKT News #Important #Market Themes #AI Revolution
 
 【ANTHROPIC's IPO may match or exceed SpaceX record, sources say】People familiar say AI firm ANTHROPIC is targeting an IPO that could match or surpass SpaceX’s record. The company is modeling potential deal sizes and could publicly file for a large offering as early as the end of this month. CFO-led investor meetings have avoided valuation discussion. For context, SpaceX raised $75 bln at IPO, rising to $86.2 bln after the overallotment option (typically exercised when shares rally). Reported preliminary Q2 revenue for ANTHROPIC exceeded $11.5 bln, versus $787 mln in the same period in 2025, and its annualized revenue run-rate reached $65 bln as of end-July.
-
----
-
-### 2026-08-21 02:04:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-DOE says measures to boost gasoline supply will remain in effect through Sept. 15, 2026, the scheduled end of the summer gasoline control season.
-
----
-
-### 2026-08-21 02:03:20  #國際
-
-一份宣告顯示，自9月1日起，美國環保署的豁免許可將允許銷售E10汽油，即摻有10%乙醇的混合汽油。美國能源部稱相關措施將在2026年9月15日夏季排放管控季結束前一直維持實施。
-
----
-
-### 2026-08-21 02:03:19  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-The EPA says it will coordinate with the U.S. Department of Energy to boost gasoline supply to lower pump prices.
-
----
-
-### 2026-08-21 02:02:51  #宏觀 #國際
-
-美國財政部接受48項符合條件的債務回購計劃中的3項。
-
----
-
-### 2026-08-21 02:02:41  #宏觀 #國際
-
-美國財政部收到 101.59 億美元回購報價，接納其中 18.6 億美元。
-
----
-
-### 2026-08-21 02:02:03  #MKT News
-
-Sources said Anthropic's recent investor briefing was hosted by CFO Rao.
-
----
-
-### 2026-08-21 02:01:26  #MKT News #Market Themes #AI Revolution
-
-【Anthropic to let enterprise clients host data while retaining 30-day hold】Anthropic plans to give enterprise customers greater control over data used with its most capable AI models, a major shift from its prior data-retention policy. The company will continue to require a 30-day retention period but will let clients store data on their own cloud infrastructure instead of Anthropic’s. A source said Anthropic expects to roll out a new security system later this year; the system has been in development for months.
-
----
-
-### 2026-08-21 02:01:16  #國際
-
-美國環境保護署表示，在與能源部磋商後，其正擴大汽油供應以壓低加油站油價。
-
----
-
-### 2026-08-21 02:00:42  #其他
-
-【研究揭示毛細血管對心臟修復的關鍵作用】中國科學院分子細胞科學卓越創新中心（生物化學與細胞生物學研究所）周斌研究團隊揭開了重新生成側支動脈的真正“建造者”並非已有動脈，而是遍佈心肌的毛細血管。相關成果8月21日在國際學術期刊《科學》發表。這項研究重新整理了人們對心臟自我修復能力的認識，為缺血性心臟病的治療提供了新思路。（央視新聞）
-
----
-
-### 2026-08-21 01:59:05  #MKT News #Important
-
-Sources say Anthropic's IPO is expected to match or exceed SpaceX's record size. The company plans to prepare IPO filing documents as early as the end of August. Anthropic reported Q2 revenue above $11.5 bln and July annualized revenue of $65 bln.
-
----
-
-### 2026-08-21 01:57:44  #其他 #焦點
-
-市場訊息：Anthropic預計最快於10月上市。
-
----
-
-### 2026-08-21 01:55:52  #其他
-
-據稱 Anthropic 最快將於 8 月底準備 IPO 申報檔案。
-
----
-
-### 2026-08-21 01:55:41  #其他
-
-訊息人士：Anthropic 近期投資者簡報會由首席財務官 Rao 主持。
-
----
-
-### 2026-08-21 01:55:25  #其他
-
-ANTHROPICO預計將與SPACEX創紀錄的IPO規模持平，或成為IT行業領頭羊。
-
----
-
-### 2026-08-21 01:55:09  #MKT News #Important #Market Themes #AI Revolution
-
-Sources say ANTHROPIC plans to revise its data-retention policy for advanced AI.
-
----
-
-### 2026-08-21 01:54:31  #其他
-
-【報道：Anthropic計劃調整高階AI的資料保留政策】Anthropic PBC計劃允許企業客戶在使用其最強大的人工智慧模型時，對自身資料保持更大的控制權，這是對早期資料保留政策的重大轉變——該政策最初旨在防範潛在的網路攻擊。據知情人士透露，這家Claude聊天機器人開發商預計將於今年晚些時候推出一套新的安全系統，該系統仍將要求企業客戶保留資料30天，但允許客戶選擇將資料保留在自有的雲端計算基礎設施上，而非Anthropic的伺服器上。這套系統已籌備數月。
-
----
-
-### 2026-08-21 01:53:28  #MKT News
-
-US Indo-Pacific Command said its current assessment is that the incident does not pose a direct threat to US personnel, US territory or regional allies. The US said it will continue to defend the homeland and regional allies.
-
----
-
-### 2026-08-21 01:53:06  #MKT News
-
-U.S. Indo-Pacific Command said it has noted recent missile launches and is in close communication with allies and partners.
-
----
-
-### 2026-08-21 01:52:58  #國際
-
-美國太平洋司令部：我們注意到最近的導彈發射事件，並正在與我們的盟友和夥伴密切協商。根據目前的評估，這些事件不會對美國人員或領土、或我們的盟友構成直接威脅。美國繼續致力於保衛美國本土以及該地區盟友的防務。
-
----
-
-### 2026-08-21 01:51:27  #國際
-
-美國太平洋司令部：事態發展不會對美國及其盟國構成威脅。
-
----
-
-### 2026-08-21 01:51:02  #國際
-
-美國太平洋司令部：事態發展不會對美國構成威脅。
-
----
-
-### 2026-08-21 01:50:47  #國際
-
-美國太平洋司令部：已獲悉近期導彈發射事件。
-
----
-
-### 2026-08-21 01:50:38  #公司
-
-巴西國家石油公司（PETROBRAS）公告：“亞歷山大·德·古馬奧”號浮式生產儲油卸油輪（FPSO）在梅羅鹽下油田實現產量峰值，日產18萬桶。
-
----
-
-### 2026-08-21 01:50:13  #市場
-
-市場訊息：商品期貨交易委員會主席塞利格表示，如果《加密貨幣清晰法案》未能透過，工作人員將制定正式的加密貨幣市場結構規則。
-
----
-
-### 2026-08-21 01:49:24  #MKT News #Market Regions #Wall Street (US) #7211.T
-
-Mitsubishi Motors is shifting its strategic focus to the U.S. and Australia after sustained weakness in Southeast Asian markets eroded a longstanding source of sales support.
-
----
-
-### 2026-08-21 01:48:23  #央行 #其他
-
-紐約聯儲8月20日常備回購操作未收到任何投標，操作規模為零。
-
----
-
-### 2026-08-21 01:48:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #PBR.O
-
-Petrobras said the FPSO Alexander de Gusmão at the Mero subsalt field reached peak production of 180,000 bpd of crude.
-
----
-
-### 2026-08-21 01:48:04  #國際
-
-美國國防部：到2027年，無人機主導計劃計劃採購超過20萬架美國製造的無人機，以維持戰場優勢。
-
----
-
-### 2026-08-21 01:47:32  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【High mortgage rates squeeze buyers; U.S. housing affordability worsens for first time in nearly three years】NAHB and Wells Fargo data show Q2 median-priced U.S. home at $410,700, with monthly mortgage payments equal to 34% of a typical household's income, up from 32% in Q1 and reversing part of the improvement since early 2025. The groups said higher borrowing costs linked to the U.S.-Iran conflict lifted rates across the economy; the 30-year fixed mortgage rate climbed to about 6.8%, near a one-year high. NAHB also reported the median new-home price rose 2% in the quarter, adding to affordability pressure.
-
----
-
-### 2026-08-21 01:47:31  #國際
-
-CIA：美國國家情報總監訪問中央情報局總部。
-
----
-
-### 2026-08-21 01:46:50  #國際
-
-馬斯克轉帖了一張預測美國政府債務規模在2030年將達到50萬億美元的圖片，並配文道：精確無誤（附帶笑哭表情）。
-
----
-
-### 2026-08-21 01:43:49  #MKT News
-
-Syrian Kurdish leader says Kurdish armed forces and security agencies have completed integration into Syrian government structures.
-
----
-
-### 2026-08-21 01:42:47  #市場
-
-標普500指數跌至盤中低點0.6%。
-
----
-
-### 2026-08-21 01:38:40  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
-
-U.S. equities extended losses; Dow Jones Industrial Average fell more than 1%, S&P 500 down 0.58%, Nasdaq Composite down 0.95%.
-
----
-
-### 2026-08-21 01:37:05  #市場
-
-【美股道瓊斯指數期貨跌超1%】美股道瓊斯指數期貨跌超1%，納斯達克100指數期貨跌0.78%，標普500指數期貨跌0.6%。
-
----
-
-### 2026-08-21 01:36:59  #市場 #焦點
-
-道指跌1.01%，現報52925.648點；納指跌0.94%，現報26082.928點；標普500指數跌0.57%，現報7664.370點。
-
----
-
-### 2026-08-21 01:36:42  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact mixed
-
-Amazon (AMZN.O) says Prime Video will more than double its local original programming by 2030; over 25 local originals are slated for 2027 alone.
-
----
-
-### 2026-08-21 01:36:20  #國際
-
-【美國住房可負擔性指標自2023年以來首次惡化】美國住房可負擔性的一個關鍵指標近三年來首次出現惡化，原因是借貸成本上升，吞噬了新購房者更大比例的收入。根據全美住宅建築商協會（NAHB）和富國銀行週四公佈的資料，今年第二季度，購買一套中位價41.07萬美元住房的月供，佔典型家庭收入的34%。這一比例高於一季度的32%，逆轉了自2025年初以來錄得的部分改善。
-
----
-
-### 2026-08-21 01:35:41  #市場 #國際
-
-美國股市延續跌勢，道瓊斯工業指數下跌1%。
-
----
-
-### 2026-08-21 01:35:11  #公司
-
-亞馬遜：Prime Video本地原創內容數量到2030年將增長一倍以上，僅2027年就將推出超25部原創作品。
-
----
-
-### 2026-08-21 01:35:00  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O
-
-Amazon (AMZN.O) said Prime Video plans to invest $2 billion in Latin America between 2027 and 2030.
-
----
-
-### 2026-08-21 01:34:29  #公司
-
-亞馬遜：Prime Video計劃於2027年至2030年間在拉美地區投資20億美元。
-
----
-
-### 2026-08-21 01:33:43  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
-
-Google (GOOG.O): Antigravity, its AI agent development platform, is now available to eligible Gemini Enterprise app subscribers, providing built-in administrative controls and spend-management features.
-
----
-
-### 2026-08-21 01:33:14  #MKT News #Commodities #Industrial Metals
-
-【U.S.-backed consortium to invest about $500m in Tanzanian Kabanga nickel project】A U.S.-backed consortium is negotiating an investment of roughly $500–600m to develop the Kabanga nickel project in Tanzania as the Trump administration pushes to secure critical metal supplies. The group, formed in October and backed by the U.S. International Development Finance Corporation (DFC) and Abu Dhabi’s L'imad Holding, would have Orion CMC acquire a stake in Kabanga Nickel, the Lifezone Metals unit that holds the project; one source said the amount is closer to $500m.
 
 ---
