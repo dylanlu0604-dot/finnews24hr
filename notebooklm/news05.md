@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:35:23_
-_本檔包含 2985 則快訊，約 656113 字_
+_更新時間：2026-08-22 05:56:55_
+_本檔包含 2985 則快訊，約 655901 字_
+
+---
+
+### 2026-08-17 18:57:25  #公司
+
+【中石化油服：第二季度淨利潤5.1億元，同比增長3.5%】8月17日，中石化油服在港交所公告，2026年上半年營收376.64億元，同比增長1.70%；歸屬於上市公司股東的淨利潤5.1億元，同比增長3.50%；基本每股收益0.027元。
+
+---
+
+### 2026-08-17 18:56:54  #公司
+
+【ST同德：擔保事項進展 擔保餘額17.20億元】ST同德公告稱，近日公司控股子公司同德通與中小擔簽訂《質押擔保合同》，將其持有的中梧鏈控27.2727%股權質押給對方，為剩餘260萬元借款追加擔保。截至公告披露日，公司及控股子公司擔保總額度為30.00億元，實際擔保餘額17.20億元，佔最近一期經審計淨資產的189.41%，其中逾期債務對應擔保餘額7.03億元，涉及訴訟及敗訴需承擔的擔保金額均為5.68億元。
+
+---
+
+### 2026-08-17 18:56:26  #市場
+
+WORKDAY股價盤前下跌2.7%；BTIG將評級從買入下調至中性。
+
+---
+
+### 2026-08-17 18:56:10  #公司
+
+【瑞鵠模具：2026年上半年淨利潤2.41億元，同比增6.15%】瑞鵠模具公告，2026年上半年營業收入18.67億元，同比增長12.31%。歸屬於上市公司股東的淨利潤2.41億元，同比增長6.15%。扣非淨利潤2.26億元，同比增長4.52%。公司擬以2.09億為基數，向全體股東每10股派發現金紅利1.5元（含稅）。
+
+---
+
+### 2026-08-17 18:56:04  #其他
+
+【廣西南丹山體滑坡已致1人遇難，仍有4人被困】8月17日，廣西南丹縣應急管理局釋出情況通報。2026年8月17日11時26分許，黔桂二線南丹縣芒場鎮拉麻村黃祥坡屯一施工點發生山體滑坡，5人被困。（澎湃）
+
+---
+
+### 2026-08-17 18:55:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources said Russia's Black Sea port of Novorossiysk, which halted crude loadings after a drone strike last Friday, resumed loading operations on Sunday.
+
+---
+
+### 2026-08-17 18:55:21  #公司
+
+【眾生藥業：收購控股子公司眾生睿創12.06%股權】眾生藥業公告稱，公司於2026年8月17日召開第九屆董事會第五次會議，審議透過相關議案，同意使用自有資金2826.21萬美元，向Southern Orchard Limited、Snow Owl.LLC、BioTrack Capital Fund I,LP收購其合計持有的控股子公司廣東眾生睿創生物科技有限公司12.06%股權。本次收購完成後，公司對眾生睿創的持股比例將由77.12%提升至89.18%，眾生睿創仍為公司控股子公司。
+
+---
+
+### 2026-08-17 18:55:06  #國際
+
+訊息人士稱，俄羅斯黑海新羅西斯克港在週五因無人機襲擊暫停後，已於週日恢復石油裝載作業。
+
+---
+
+### 2026-08-17 18:54:35  #公司
+
+【天力鋰能：控股子公司部分銀行賬戶已解除凍結】天力鋰能公告稱，公司控股子公司河南千川動力有限公司、雅安天藍新材料科技有限公司銀行賬戶及相關資金的凍結措施已解除。其中千川動力因合同糾紛被凍結的6.42萬元存款已解除凍結，雅安天藍相關合同糾紛案件已執行完畢，對應賬戶保全措施已解除。截至公告披露日，控股子公司不存在其他訴訟事項導致的資金被凍結情況，公司資金正常劃轉和使用得以恢復，可保障日常經營活動順利開展。
 
 ---
 
@@ -17982,59 +18036,5 @@ EMSC reports a magnitude-7.4 earthquake in Indonesia's Flores region.
 ### 2026-08-15 05:57:28  #公司
 
 【伯克希爾增持達美航空和Alphabet 新CEO開始動用鉅額現金儲備】隨著Greg Abel開始動用伯克希爾龐大的現金儲備，該公司增持達美航空和谷歌母公司Alphabet。根據週五的監管檔案，在Abel接替董事長沃倫·巴菲特出任執行長後的第二個完整季度，伯克希爾增持1,750萬股達美航空股票，截至6月底持倉價值增至53.7億美元。Abel還增持4810萬股Alphabet股票，使其成為伯克希爾第三大持倉，年中持倉價值達到378億美元。伯克希爾上週公佈第二季度業績時表示，該季度還斥資約45億美元回購自身股票，同時淨買入近200億美元其他股票。截至年中，公司持有現金3655億美元，低於3月底創紀錄的3970億美元。
-
----
-
-### 2026-08-15 05:49:07  #公司
-
-秘魯國家石油公司稱，奧爾諾斯管道再度遇襲引發原油洩漏。
-
----
-
-### 2026-08-15 05:48:17  #MKT News #Commodities #Energy #PETR4.SA #Impact bullish
-
-Petrobras reported oil and gas shows in an exploration well in block FZA-M-59 in the Amazon River mouth basin.
-
----
-
-### 2026-08-15 05:42:28  #公司
-
-市場訊息：巴西石油公司在阿馬帕海岸深水海域發現油氣。
-
----
-
-### 2026-08-15 05:40:01  #MKT News #Commodities #Energy #Brent
-
-Barclays maintains 2026 Brent crude price forecast at $96/bbl.
-
----
-
-### 2026-08-15 05:39:35  #其他
-
-巴克萊：維持2026年布倫特原油價格預測為每桶96美元。
-
----
-
-### 2026-08-15 05:38:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-ADNOC said one of its vessels was attacked while transiting the Strait of Hormuz on Aug. 14 local time. No injuries were reported and the situation is under control.
-
----
-
-### 2026-08-15 05:37:26  #公司
-
-阿聯酋阿布扎比國家石油公司(ADNOC)稱未接到人員傷亡報告，局勢已得到控制。
-
----
-
-### 2026-08-15 05:37:06  #公司
-
-阿聯酋阿布扎比國家石油公司(ADNOC)稱，其一艘船隻8月14日在透過霍爾木茲海峽時遭到襲擊。
-
----
-
-### 2026-08-15 05:36:08  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-Brazilian Real Weakens to One-Month Low — The Brazilian real weakened to 5.21 per USD, reaching its weakest level in more than a month in mid-August as investors continued to reduce their exposure to Brazilian assets. The market is pricing in uncertainty over the next government and its economic agenda. The perception that the next government will struggle to implement a consistent fiscal adjustment is beginning to translate into a higher risk premium in asset prices. Concerns are increasing as elections approach and foreign capital outflows accelerate. Banks and brokerages have also reduced their exposure to the real, unwinding currency positions in favor of other emerging-market currencies. The move intensified following a more pessimistic view of the local market from JPMorgan. The bank downgraded its recommendation on Brazilian assets from overweight to neutral, citing the Selic easing cycle, the electoral outlook and deteriorating credit conditions.
 
 ---

@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:35:23_
-_本檔包含 3327 則快訊，約 655594 字_
+_更新時間：2026-08-22 05:56:55_
+_本檔包含 3330 則快訊，約 656180 字_
+
+---
+
+### 2026-08-20 02:31:14  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session most-active contracts close】As of 02:30 close, SHFE gold most-active contract rose 2.13% to 970 yuan/gram; SHFE silver most-active contract rose 2.58% to 16,027 yuan/kg; SC crude oil most-active contract fell 0.70% to 581 yuan/barrel.
+
+---
+
+### 2026-08-20 02:31:00  #市場 #國際
+
+美國原油期貨收於每桶85.83美元，上漲89美分，漲幅1.05%。
+
+---
+
+### 2026-08-20 02:30:57  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 2.44% at 966.97 yuan/gram in the evening session on Wednesday, Aug. 19; Shanghai Gold Exchange silver T+D closed up 3.54% at 15,956.0 yuan/kg.
+
+---
+
+### 2026-08-20 02:30:53  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. crude futures settled at $85.83 a barrel, up $0.89, or 1.05%.
+
+---
+
+### 2026-08-20 02:30:03  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Soars by 8.84% — Top crypto gainers are Ether (8.84%), Bitcoin (5.56%) and Binance (2.17%).
+
+---
+
+### 2026-08-20 02:30:02  #市場
+
+上期所原油期貨夜盤收跌0.70%，報581.20元人民幣/桶。滬金夜盤收漲2.13%，滬銀收漲2.58%。
+
+---
+
+### 2026-08-20 02:29:26  #MKT News #Market Regions #Emerging Markets
+
+India orders bulk sugar buyers to limit inventories to no more than 15 days' consumption.
+
+---
+
+### 2026-08-20 02:28:08  #Trading Economics #Markets #United States #stocks #Importance 1
+
+PNC Stock Price Hits 6-week Low — PNC shares decreased to 246.59 USD, the lowest since July 2026. Over the past 4 weeks, PNC lost 1.37%, and in the last 12 months, it increased 26.52%.
+
+---
+
+### 2026-08-20 02:27:52  #國際
+
+印度政府釋出命令：將散裝食糖採購商庫存限制為15天用量。
+
+---
+
+### 2026-08-20 02:27:50  #Trading Economics #Markets #United States #Currency #Importance 1
+
+DXY Falls to Over 2-Month Low — The US dollar index fell below 99 on Wednesday, the lowest since late May, after the US Treasury announced it would double its long-term buyback program. The move signaled that the US Treasury would be willing to actively intervene on the bond market to cap long-term yields, raising the outlook of dollar liquidity in the global financial system from the Treasury General Account. Such measures were in line with earlier efforts to limit the surge in long-dated bonds globally, which often drive foreign companies to sell their dollar holdings to support their currency. Japan and the US had recently intervened in foreign exchange markets, driving the dollar index to plunge, and Treasury Secretary Bessent called for higher limits to the Federal Reserve's FIMA facility for foreign countries to have dollar liquidity without having to actively intervene in foreign exchange markets. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates.
 
 ---
 
@@ -20007,47 +20067,5 @@ DAX Finishes at Near 2-Week Low — The DAX 40 extended early losses to close ab
 ### 2026-08-19 00:01:34  #國際
 
 【蘋果全面改革歐盟應用商店收費規則】蘋果將於 10 月 1 日修訂歐盟地區應用商店相關條款。核心技術費將予以取消，替換為對應用商店之外數字交易徵收 5% 的佣金。蘋果應用內購的歐盟佣金費率為 26%；採用替代支付方式費率為 20%；使用外部購買連結費率為 15%。蘋果還將進一步開放第三方應用分發渠道，並推出更多兒童安全防護舉措。
-
----
-
-### 2026-08-19 00:00:49  #MKT News #AAPL.O #Impact bullish
-
-Apple (AAPL.O) said it has resolved a dispute with the European Union over App Store fees and will remove per-install charges for app developers in the EU.
-
----
-
-### 2026-08-19 00:00:44  #國際
-
-蘋果將取消歐盟地區應用開發者的按安裝計費費用，蘋果稱已解決與歐盟圍繞應用商店收費產生的爭端。
-
----
-
-### 2026-08-19 00:00:22  #其他
-
-市場訊息：葉門武裝部隊對葉門西部荷臺達省南部的胡哈市中心發動無人機襲擊。
-
----
-
-### 2026-08-18 23:58:28  #國際
-
-卡達外交部：我方譴責以色列對敘利亞阿布杜赫爾軍用機場發動的空襲。
-
----
-
-### 2026-08-18 23:57:10  #國際
-
-【俄方：烏方襲擊核電站以阻撓國際原子能機構來訪】針對扎波羅熱核電站一公交站18日發生無人機爆炸一事，俄羅斯外交部發言人扎哈羅娃當天釋出宣告說，此次襲擊由烏方發動，其目的是阻撓國際原子能機構總幹事格羅西原定於20日至21日對扎波羅熱核電站的訪問。扎哈羅娃說，烏方持續對扎波羅熱核電站及其工作人員發動襲擊，此次還對用於搭載國際原子能機構秘書處代表的交通工具發動襲擊，證明其罪行“沒有盡頭”。扎哈羅娃還表示，西方國家持續向烏克蘭提供政治支援，才使得此類事件接連上演，並慫恿烏方採取“更為魯莽的新行動”，製造核災難威脅，可能給全世界造成“災難性後果”。（新華社）
-
----
-
-### 2026-08-18 23:56:48  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【Russia says Ukraine struck Zaporizhzhia NPP bus stop to disrupt planned IAEA visit】Russia’s foreign ministry spokeswoman Zakharova said a drone explosion at a bus stop at the Zaporizhzhia nuclear plant on the 18th was carried out by Ukrainian forces to obstruct an IAEA director‑general Grossi visit scheduled for the 20th–21st. Zakharova said Kyiv has repeatedly targeted the plant and its staff, and that the latest strike also hit vehicles carrying IAEA Secretariat representatives; she warned Western political support for Ukraine is encouraging “more reckless” actions that could raise the risk of a nuclear disaster with potentially catastrophic global consequences.
-
----
-
-### 2026-08-18 23:56:33  #Trading Economics #Markets #commodity #Importance 0
-
-UK Gas Hits 21-week High — UK Gas increased to 157.60 GBp/thm, the highest since March 2026. Over the past 4 weeks, Natural Gas UK gained 11.22%, and in the last 12 months, it increased 104.81%.
 
 ---

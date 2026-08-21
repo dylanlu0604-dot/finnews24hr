@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:35:23_
-_本檔包含 3378 則快訊，約 656208 字_
+_更新時間：2026-08-22 05:56:55_
+_本檔包含 3376 則快訊，約 656361 字_
+
+---
+
+### 2026-08-19 00:00:49  #MKT News #AAPL.O #Impact bullish
+
+Apple (AAPL.O) said it has resolved a dispute with the European Union over App Store fees and will remove per-install charges for app developers in the EU.
+
+---
+
+### 2026-08-19 00:00:44  #國際
+
+蘋果將取消歐盟地區應用開發者的按安裝計費費用，蘋果稱已解決與歐盟圍繞應用商店收費產生的爭端。
+
+---
+
+### 2026-08-19 00:00:22  #其他
+
+市場訊息：葉門武裝部隊對葉門西部荷臺達省南部的胡哈市中心發動無人機襲擊。
+
+---
+
+### 2026-08-18 23:58:28  #國際
+
+卡達外交部：我方譴責以色列對敘利亞阿布杜赫爾軍用機場發動的空襲。
+
+---
+
+### 2026-08-18 23:57:10  #國際
+
+【俄方：烏方襲擊核電站以阻撓國際原子能機構來訪】針對扎波羅熱核電站一公交站18日發生無人機爆炸一事，俄羅斯外交部發言人扎哈羅娃當天釋出宣告說，此次襲擊由烏方發動，其目的是阻撓國際原子能機構總幹事格羅西原定於20日至21日對扎波羅熱核電站的訪問。扎哈羅娃說，烏方持續對扎波羅熱核電站及其工作人員發動襲擊，此次還對用於搭載國際原子能機構秘書處代表的交通工具發動襲擊，證明其罪行“沒有盡頭”。扎哈羅娃還表示，西方國家持續向烏克蘭提供政治支援，才使得此類事件接連上演，並慫恿烏方採取“更為魯莽的新行動”，製造核災難威脅，可能給全世界造成“災難性後果”。（新華社）
+
+---
+
+### 2026-08-18 23:56:48  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+【Russia says Ukraine struck Zaporizhzhia NPP bus stop to disrupt planned IAEA visit】Russia’s foreign ministry spokeswoman Zakharova said a drone explosion at a bus stop at the Zaporizhzhia nuclear plant on the 18th was carried out by Ukrainian forces to obstruct an IAEA director‑general Grossi visit scheduled for the 20th–21st. Zakharova said Kyiv has repeatedly targeted the plant and its staff, and that the latest strike also hit vehicles carrying IAEA Secretariat representatives; she warned Western political support for Ukraine is encouraging “more reckless” actions that could raise the risk of a nuclear disaster with potentially catastrophic global consequences.
+
+---
+
+### 2026-08-18 23:56:33  #Trading Economics #Markets #commodity #Importance 0
+
+UK Gas Hits 21-week High — UK Gas increased to 157.60 GBp/thm, the highest since March 2026. Over the past 4 weeks, Natural Gas UK gained 11.22%, and in the last 12 months, it increased 104.81%.
 
 ---
 
@@ -20332,59 +20374,5 @@ USGS reported a magnitude 5.2 earthquake 81 km north of Ruten, Indonesia.
 ### 2026-08-17 18:57:34  #公司 #市場
 
 【華森製藥：股票交易異常波動 不存在應披露未披露重大事項】華森製藥公告稱，公司股票於2026年8月13日、8月14日及8月17日連續三個交易日內收盤價格漲幅偏離值累計達到20%以上，屬於股票交易異常波動。經核查，公司及控股股東、實際控制人不存在應披露而未披露的重大事項，控股股東、實際控制人在股票異常波動期間未買賣公司股票。截至2026年8月17日收盤，公司滾動市盈率為53.46倍、市淨率為4.07倍，高於同期醫藥製造業28.89倍的滾動市盈率、2.68倍的市淨率水平。公司目前生產經營情況穩定，未發生明顯變化，在研專案正推進中，2026年半年度報告將於2026年8月21日披露。
-
----
-
-### 2026-08-17 18:57:25  #公司
-
-【中石化油服：第二季度淨利潤5.1億元，同比增長3.5%】8月17日，中石化油服在港交所公告，2026年上半年營收376.64億元，同比增長1.70%；歸屬於上市公司股東的淨利潤5.1億元，同比增長3.50%；基本每股收益0.027元。
-
----
-
-### 2026-08-17 18:56:54  #公司
-
-【ST同德：擔保事項進展 擔保餘額17.20億元】ST同德公告稱，近日公司控股子公司同德通與中小擔簽訂《質押擔保合同》，將其持有的中梧鏈控27.2727%股權質押給對方，為剩餘260萬元借款追加擔保。截至公告披露日，公司及控股子公司擔保總額度為30.00億元，實際擔保餘額17.20億元，佔最近一期經審計淨資產的189.41%，其中逾期債務對應擔保餘額7.03億元，涉及訴訟及敗訴需承擔的擔保金額均為5.68億元。
-
----
-
-### 2026-08-17 18:56:26  #市場
-
-WORKDAY股價盤前下跌2.7%；BTIG將評級從買入下調至中性。
-
----
-
-### 2026-08-17 18:56:10  #公司
-
-【瑞鵠模具：2026年上半年淨利潤2.41億元，同比增6.15%】瑞鵠模具公告，2026年上半年營業收入18.67億元，同比增長12.31%。歸屬於上市公司股東的淨利潤2.41億元，同比增長6.15%。扣非淨利潤2.26億元，同比增長4.52%。公司擬以2.09億為基數，向全體股東每10股派發現金紅利1.5元（含稅）。
-
----
-
-### 2026-08-17 18:56:04  #其他
-
-【廣西南丹山體滑坡已致1人遇難，仍有4人被困】8月17日，廣西南丹縣應急管理局釋出情況通報。2026年8月17日11時26分許，黔桂二線南丹縣芒場鎮拉麻村黃祥坡屯一施工點發生山體滑坡，5人被困。（澎湃）
-
----
-
-### 2026-08-17 18:55:32  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources said Russia's Black Sea port of Novorossiysk, which halted crude loadings after a drone strike last Friday, resumed loading operations on Sunday.
-
----
-
-### 2026-08-17 18:55:21  #公司
-
-【眾生藥業：收購控股子公司眾生睿創12.06%股權】眾生藥業公告稱，公司於2026年8月17日召開第九屆董事會第五次會議，審議透過相關議案，同意使用自有資金2826.21萬美元，向Southern Orchard Limited、Snow Owl.LLC、BioTrack Capital Fund I,LP收購其合計持有的控股子公司廣東眾生睿創生物科技有限公司12.06%股權。本次收購完成後，公司對眾生睿創的持股比例將由77.12%提升至89.18%，眾生睿創仍為公司控股子公司。
-
----
-
-### 2026-08-17 18:55:06  #國際
-
-訊息人士稱，俄羅斯黑海新羅西斯克港在週五因無人機襲擊暫停後，已於週日恢復石油裝載作業。
-
----
-
-### 2026-08-17 18:54:35  #公司
-
-【天力鋰能：控股子公司部分銀行賬戶已解除凍結】天力鋰能公告稱，公司控股子公司河南千川動力有限公司、雅安天藍新材料科技有限公司銀行賬戶及相關資金的凍結措施已解除。其中千川動力因合同糾紛被凍結的6.42萬元存款已解除凍結，雅安天藍相關合同糾紛案件已執行完畢，對應賬戶保全措施已解除。截至公告披露日，控股子公司不存在其他訴訟事項導致的資金被凍結情況，公司資金正常劃轉和使用得以恢復，可保障日常經營活動順利開展。
 
 ---

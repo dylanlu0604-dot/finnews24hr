@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:35:23_
-_本檔包含 3030 則快訊，約 656684 字_
+_更新時間：2026-08-22 05:56:55_
+_本檔包含 3035 則快訊，約 656292 字_
+
+---
+
+### 2026-08-22 05:53:35  #其他
+
+沃爾瑪的帕克自 9 月 1 日起轉任顧問崗位。
+
+---
+
+### 2026-08-22 05:53:23  #其他
+
+沃爾瑪首席公關官帕克將於 2 月 1 日離職。
+
+---
+
+### 2026-08-22 05:52:19  #市場 #焦點
+
+以太坊升破2500美元，日內漲7.49%。
+
+---
+
+### 2026-08-22 05:50:53  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為59.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。
+
+---
+
+### 2026-08-22 05:50:23  #公司 #國際
+
+【報道：Anthropic的IPO招股書將把AI反彈情緒列為風險因素】據知情人士透露，在預計未來幾周釋出的Anthropic IPO招股書中，公眾對AI和資料中心的負面情緒將被列為風險因素。Anthropic一直在美國舊金山與銀行家和投資者舉行初步的”試探水溫”會議。在這些會議中，首席財務官Krishna Rao被反覆追問有關競爭、開源模型帶來的利潤率壓力，以及如果資料中心建設放緩會發生什麼等問題。這家在私募市場估值已接近1萬億美元的公司，正準備上市，而公眾對AI取代工作崗位的擔憂正日益加劇。
+
+---
+
+### 2026-08-22 05:46:15  #其他 #焦點
+
+市場訊息： Anthropic 的 IPO 申報檔案將把 AI 行業遭遇輿論反噬列為風險因素。
+
+---
+
+### 2026-08-22 05:41:01  #國際
+
+【美商務部長對美加貿易協議草案不滿，談判最後關頭存分歧】據訊息人士，隨著美加貿易談判逼近最後期限，美國商務部長盧特尼克（Howard Lutnick）對當前協議草案表示不滿，並正推動修改。知情人士透露，盧特尼克特別反對將針對加拿大汽車的關稅從25%降至15%，認為此舉將削弱美國鼓勵本土生產的努力。這一內部態度與特朗普及加拿大總理卡尼近期對外釋放的樂觀訊號形成反差。儘管美國貿易代表格里爾稱已達成“保護美國工人”的協議，但盧特尼克作為特朗普經濟政策的核心人物，其強硬立場凸顯了美方內部的分歧。目前，美加雙方正全力在週六凌晨新關稅生效前敲定最終協議。據悉，協議草案可能包含降低加拿大鋼鋁關稅、調整乳製品配額，以及加拿大各省解除對美國酒類禁令等條款。加拿大貿易部長勒布朗表示，雙方已“非常接近”達成協議。
+
+---
+
+### 2026-08-22 05:37:28  #國際
+
+市場訊息：美國商務部長盧特尼克對可能降低232條款關稅提出異議。
+
+---
+
+### 2026-08-22 05:37:14  #其他
+
+巴西民調：若總統選舉進入第二輪對決，盧拉支援率為47%，雅伊爾·博索納羅支援率為43%。
+
+---
+
+### 2026-08-22 05:36:25  #國際
+
+市場訊息：美國商務部長盧特尼克認為美國可以爭取到更好的協議。
+
+---
+
+### 2026-08-22 05:35:51  #焦點 #國際
+
+市場訊息：美國商務部長盧特尼克對擺在桌面上的美加貿易協議並不滿意。
+
+---
+
+### 2026-08-22 05:35:20  #其他
+
+SIGMA LITHIUM 恢復巴西境內採礦及工業生產業務。
 
 ---
 
@@ -18247,47 +18319,5 @@ Argentina Economic Activity Growth Accelerates in June — Argentina’s economi
 ### 2026-08-21 03:44:21  #宏觀 #市場 #國際
 
 【中長期美債收益率漲約4個基點】週四（8月20日）紐約尾盤，美國10年期國債收益率漲4.35個基點，報4.6902%，北京時間10:41微跌至4.6308%重新整理日低，隨後持續走高、20:34達到4.7120%，美國財政部長貝森特“回購規模可能會超過40億美元”的論調帶來一波V形反轉行情，近期持穩於4.7%關口附近，50日均線已經上移至4.5774%。兩年期美債收益率漲1.88個基點，報4.1811%；30年期美債收益率漲3.97個基點，報5.2298%，20:34達到5.2656%，幾乎完全收復8月19日的失地、逼近8月18日頂部5.3361%。2/10年期美債收益率利差漲3.247個基點，報+50.876個基點。10年期通脹保值國債（TIPS）收益率漲0.44個基點，至2.3411%；兩年期TIPS收益率跌5.38個基點，至1.8685%；30年期TIPS收益率漲0.87個基點，至2.9660%。
-
----
-
-### 2026-08-21 03:43:34  #MKT News #Commodities #Energy
-
-U.S. drone maker Powerus won a $22.3 mln contract to protect Middle East oil infrastructure from drone threats.
-
----
-
-### 2026-08-21 03:41:57  #國際
-
-美國副總統萬斯談伊朗：我們如今進入了一個新階段，對伊朗施加經濟壓力是我們手中最有效的手段。但這是一場微妙的博弈：當我們對其施加經濟壓力時，伊朗也會試圖反過來對我們施加經濟壓力。不過過去幾周的實際情況是，伊朗承受的壓力遠大於我們。我們會維持這一態勢，因為我們認為這是最優途徑。
-
----
-
-### 2026-08-21 03:41:16  #國際
-
-美國無人機製造商 POWERUS 獲得 2230 萬美元合同，保護中東石油基礎設施抵禦無人機威脅。
-
----
-
-### 2026-08-21 03:41:00  #MKT News #DAL.N #Impact bullish
-
-A US appeals court rejected the Department of Transportation's request to unwind the joint venture between Delta Air Lines (DAL.N) and Aeromexico.
-
----
-
-### 2026-08-21 03:40:56  #國際
-
-裁決顯示：美國上訴法院駁回交通部試圖解除達美航空與墨西哥航空合資專案的訴求。
-
----
-
-### 2026-08-21 03:38:52  #MKT News
-
-Saudi deputy foreign minister for political affairs met with Ukraine’s ambassador to Saudi Arabia to discuss matters of mutual concern.
-
----
-
-### 2026-08-21 03:37:05  #Trading Economics #Economy #Argentina #Balance of Trade #Importance 1
-
-Argentina Trade Surplus Jumps in July — Argentina’s trade surplus widened to $2.11 billion in July 2026, up $1.21 billion from the same month of 2025. Exports totaled $8.85 billion, increasing 14.1% year-over-year, led by a 97.8% surge in energy and fuel exports, driven by higher shipments of crude oil, fuels, lubricants and other fuels. Manufactured industrial goods exports rose 11.2%, mainly due to higher exports of motor vehicles and transport equipment, while manufactured agricultural goods increased 4.9%, supported by higher meat exports. Imports totaled $6.74 billion, down 1.7% year-over-year. Intermediate goods posted the largest decline, falling 14.9%, while capital goods imports decreased 7.7% and consumer goods fell 7.3%. Imports of fuels and lubricants also declined 7.3%.
 
 ---

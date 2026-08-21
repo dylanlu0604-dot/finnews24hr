@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 05:35:23_
-_本檔包含 3431 則快訊，約 656603 字_
+_更新時間：2026-08-22 05:56:55_
+_本檔包含 3428 則快訊，約 656013 字_
+
+---
+
+### 2026-08-21 03:43:34  #MKT News #Commodities #Energy
+
+U.S. drone maker Powerus won a $22.3 mln contract to protect Middle East oil infrastructure from drone threats.
+
+---
+
+### 2026-08-21 03:41:57  #國際
+
+美國副總統萬斯談伊朗：我們如今進入了一個新階段，對伊朗施加經濟壓力是我們手中最有效的手段。但這是一場微妙的博弈：當我們對其施加經濟壓力時，伊朗也會試圖反過來對我們施加經濟壓力。不過過去幾周的實際情況是，伊朗承受的壓力遠大於我們。我們會維持這一態勢，因為我們認為這是最優途徑。
+
+---
+
+### 2026-08-21 03:41:16  #國際
+
+美國無人機製造商 POWERUS 獲得 2230 萬美元合同，保護中東石油基礎設施抵禦無人機威脅。
+
+---
+
+### 2026-08-21 03:41:00  #MKT News #DAL.N #Impact bullish
+
+A US appeals court rejected the Department of Transportation's request to unwind the joint venture between Delta Air Lines (DAL.N) and Aeromexico.
+
+---
+
+### 2026-08-21 03:40:56  #國際
+
+裁決顯示：美國上訴法院駁回交通部試圖解除達美航空與墨西哥航空合資專案的訴求。
+
+---
+
+### 2026-08-21 03:38:52  #MKT News
+
+Saudi deputy foreign minister for political affairs met with Ukraine’s ambassador to Saudi Arabia to discuss matters of mutual concern.
+
+---
+
+### 2026-08-21 03:37:05  #Trading Economics #Economy #Argentina #Balance of Trade #Importance 1
+
+Argentina Trade Surplus Jumps in July — Argentina’s trade surplus widened to $2.11 billion in July 2026, up $1.21 billion from the same month of 2025. Exports totaled $8.85 billion, increasing 14.1% year-over-year, led by a 97.8% surge in energy and fuel exports, driven by higher shipments of crude oil, fuels, lubricants and other fuels. Manufactured industrial goods exports rose 11.2%, mainly due to higher exports of motor vehicles and transport equipment, while manufactured agricultural goods increased 4.9%, supported by higher meat exports. Imports totaled $6.74 billion, down 1.7% year-over-year. Intermediate goods posted the largest decline, falling 14.9%, while capital goods imports decreased 7.7% and consumer goods fell 7.3%. Imports of fuels and lubricants also declined 7.3%.
 
 ---
 
@@ -20655,65 +20697,5 @@ Anthropic與Fractile達成協議，擬採購約2.5億美元晶片。
 ### 2026-08-20 02:31:31  #其他
 
 知情人士透露，AI晶片初創企業Fractile正在洽談融資，估值目標65億美元。
-
----
-
-### 2026-08-20 02:31:14  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
-
-【Night session most-active contracts close】As of 02:30 close, SHFE gold most-active contract rose 2.13% to 970 yuan/gram; SHFE silver most-active contract rose 2.58% to 16,027 yuan/kg; SC crude oil most-active contract fell 0.70% to 581 yuan/barrel.
-
----
-
-### 2026-08-20 02:31:00  #市場 #國際
-
-美國原油期貨收於每桶85.83美元，上漲89美分，漲幅1.05%。
-
----
-
-### 2026-08-20 02:30:57  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D closed up 2.44% at 966.97 yuan/gram in the evening session on Wednesday, Aug. 19; Shanghai Gold Exchange silver T+D closed up 3.54% at 15,956.0 yuan/kg.
-
----
-
-### 2026-08-20 02:30:53  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. crude futures settled at $85.83 a barrel, up $0.89, or 1.05%.
-
----
-
-### 2026-08-20 02:30:03  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Soars by 8.84% — Top crypto gainers are Ether (8.84%), Bitcoin (5.56%) and Binance (2.17%).
-
----
-
-### 2026-08-20 02:30:02  #市場
-
-上期所原油期貨夜盤收跌0.70%，報581.20元人民幣/桶。滬金夜盤收漲2.13%，滬銀收漲2.58%。
-
----
-
-### 2026-08-20 02:29:26  #MKT News #Market Regions #Emerging Markets
-
-India orders bulk sugar buyers to limit inventories to no more than 15 days' consumption.
-
----
-
-### 2026-08-20 02:28:08  #Trading Economics #Markets #United States #stocks #Importance 1
-
-PNC Stock Price Hits 6-week Low — PNC shares decreased to 246.59 USD, the lowest since July 2026. Over the past 4 weeks, PNC lost 1.37%, and in the last 12 months, it increased 26.52%.
-
----
-
-### 2026-08-20 02:27:52  #國際
-
-印度政府釋出命令：將散裝食糖採購商庫存限制為15天用量。
-
----
-
-### 2026-08-20 02:27:50  #Trading Economics #Markets #United States #Currency #Importance 1
-
-DXY Falls to Over 2-Month Low — The US dollar index fell below 99 on Wednesday, the lowest since late May, after the US Treasury announced it would double its long-term buyback program. The move signaled that the US Treasury would be willing to actively intervene on the bond market to cap long-term yields, raising the outlook of dollar liquidity in the global financial system from the Treasury General Account. Such measures were in line with earlier efforts to limit the surge in long-dated bonds globally, which often drive foreign companies to sell their dollar holdings to support their currency. Japan and the US had recently intervened in foreign exchange markets, driving the dollar index to plunge, and Treasury Secretary Bessent called for higher limits to the Federal Reserve's FIMA facility for foreign countries to have dollar liquidity without having to actively intervene in foreign exchange markets. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates.
 
 ---
