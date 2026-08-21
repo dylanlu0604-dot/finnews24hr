@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-22 01:14:29",
-  "count": 16199,
+  "updated": "2026-08-22 01:24:08",
+  "count": 16197,
   "items": [
+    {
+      "id": "mkt:01a02557-726c-7aab-90d9-73044ae197ba",
+      "time": "2026-08-22 01:21:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) was approved to produce up to 5,000 autonomous vehicles in Nevada, US."
+    },
+    {
+      "id": "5052652",
+      "time": "2026-08-22 01:21:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "內華達州交通局要求自動駕駛企業須在 120 天內啟動運營。"
+    },
+    {
+      "id": "5052651",
+      "time": "2026-08-22 01:20:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Waymo 與 Aviari 獲得內華達州許可，首年最多可投放 1000 輛自動駕駛汽車。"
+    },
+    {
+      "id": "5052650",
+      "time": "2026-08-22 01:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "內華達州交通局批准特斯拉、Waymo、Aviari 的自動駕駛車輛網路相關申請。 特斯拉獲准在內華達州最多部署 5000 輛自動駕駛車輛。"
+    },
+    {
+      "id": "mkt:01a02553-315d-7aab-90d9-690777a3f391",
+      "time": "2026-08-22 01:16:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $200 mln from one counterparty in fixed-rate reverse repo operations."
+    },
+    {
+      "id": "5052649",
+      "time": "2026-08-22 01:16:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（8月21日），美聯儲隔夜逆回購協議（RRP）使用規模為2億美元（交易對手1家），上個交易日報2.25億美元。"
+    },
     {
       "id": "mkt:01a02550-7d5f-7aab-90d9-65bffefba43f",
       "time": "2026-08-22 01:13:46",
@@ -148312,72 +148369,6 @@
         "國際"
       ],
       "text": "美國總統唐納德・特朗普離開安德魯斯聯合基地，啟程前往紐約州加登城。"
-    },
-    {
-      "id": "mkt:01a0014c-3f7e-7aab-9043-b0136734dc38",
-      "time": "2026-08-15 01:22:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said its air-defence systems shot down 221 Ukrainian fixed-wing drones in the past 12 hours over several oblasts and in the Black Sea and Sea of Azov."
-    },
-    {
-      "id": "5041867",
-      "time": "2026-08-15 01:22:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：莫斯科時間當日 8 時至 20 時，俄軍值班防空系統在別爾哥羅德州、布良斯克州、卡盧加州、庫爾斯克州、奧廖爾州、圖拉州、莫斯科州、克拉斯諾達爾邊疆區、克里米亞共和國上空，以及亞速海、黑海海域上空，共攔截並摧毀 221 架烏克蘭固定翼無人機。"
-    },
-    {
-      "id": "5041866",
-      "time": "2026-08-15 01:16:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總理稱英國為伊斯蘭共和國】近日，以色列總理內塔尼亞胡在以色列軍方電臺的一檔播客節目中，將英國稱為“英國伊斯蘭共和國”。他還稱英國是“首個擁有核武器的伊斯蘭共和國”，強調“以色列要確保不出現第二個（擁有核武器的伊斯蘭共和國），也就是伊朗”。 內塔尼亞胡是在談及英國前首相丘吉爾身為記者的兒子、孫子與以色列的交往時發表這一言論的。他稱，這二人對1967年第三次中東戰爭的報道對以色列有利，可如今這樣的媒體聲音在“英國伊斯蘭共和國”已不復存在。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a00146-7c0f-7aab-9043-af75f8ef6eed",
-      "time": "2026-08-15 01:16:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Federal Reserve accepted $250 mln from one counterparty in its fixed-rate reverse repo operation."
-    },
-    {
-      "id": "5041865",
-      "time": "2026-08-15 01:16:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：經濟形勢好得令人難以置信。"
-    },
-    {
-      "id": "5041864",
-      "time": "2026-08-15 01:15:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及亞伯拉罕・林肯號航母：那艘艦艇正在行動。"
-    },
-    {
-      "id": "mkt:01a00144-faa8-7aab-9043-a145e42614ca",
-      "time": "2026-08-15 01:14:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump arrived at Joint Base Andrews in Maryland."
-    },
-    {
-      "id": "5041863",
-      "time": "2026-08-15 01:14:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚股市。"
     }
   ]
 }
