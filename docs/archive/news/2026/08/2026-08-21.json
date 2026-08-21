@@ -1,7 +1,63 @@
 {
   "date": "2026-08-21",
-  "count": 1075,
+  "count": 1081,
   "items": [
+    {
+      "id": "te:markets:577092",
+      "time": "2026-08-21 12:45:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah on Track for 3rd Consecutive Weekly Rise — The Indonesian rupiah strengthened to around IDR 17,720 per U.S. dollar on Friday, extending its recent gain and heading for its third successive weekly advance as the dollar index lingered near multi-month lows amid doubts over the U.S. Treasury’s bond buyback plan. Locally, sentiment was buoyed by robust credit growth, which accelerated to 13.58% yoy in July, surpassing Bank Indonesia’s 8–12% target for end-2026. Meanwhile, at its first policy meeting under acting Governor Destry Damayanti, the central bank reaffirmed its commitment to currency stability, holding the benchmark rate at 5.75% for a second month after 100bps of hikes since May. However, gains were capped by external risks, as a record current account surplus in Q2 was accompanied by a persistent trade gap following a surge in oil imports driven by the Middle East war. Potential El Niño-driven food inflation also underscored lingering price pressures, even as headline inflation hit a three-month low of 2.88% in July."
+    },
+    {
+      "id": "5051251",
+      "time": "2026-08-21 12:44:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【李寧總裁錢煒回應庫裡合作：跟傳統球星代言的打法完全不一樣】在8月21日李寧中報業績會上，李寧集團執行董事及聯席行政總裁錢煒首次系統闡述與NBA球星斯蒂芬·庫裡的合作邏輯。他指出，雙方的攜手是品牌戰略層面的深度繫結，區別於傳統球星代言“出鞋辦活動”的短期流量打法，需要長期經營和分階段推進。錢煒明確，這一合作的多維價值不僅在於賦能籃球線，更將透過全面戰略協同，拉昇李寧品牌的整體勢能。（每經）"
+    },
+    {
+      "id": "5051250",
+      "time": "2026-08-21 12:44:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度搜尋推出行業首創“整頁可互動”的搜尋結果形態】百度APP釋出多項重大產品升級。文心助手升級任務引擎2.0，完全免費；百度搜尋正式推出全球首創“整頁可互動”的搜尋結果形態，不再只有圖文，而是生成可以互動的知識卡片、步驟圖解、可互動動畫等元件，實現完全可互動。"
+    },
+    {
+      "id": "5051249",
+      "time": "2026-08-21 12:43:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利：蘋果App Store收入四年來首次下滑 PC需求加速萎縮】由埃裡克·伍德林（ Erik Woodring）牽頭的大摩分析師團隊指出，依據Sensor Tower最新資料，經測算，截至8月17日，App Store本月迄今淨收入同比下降0.6%；對比6月份，增速回落170個基點。 從蘋果本財季初（6月末）截至8月17日，蘋果季度App Store收入同比增速僅為0.5%，低於摩根士丹利給出的1%的同比增長預測，差值為50個基點。 分析師進一步表示，這會使得摩根士丹利對蘋果本財季的服務業務收入9.5%的同比增長預估面臨約20個基點的下行壓力，對應收入缺口約4500萬美元；而市場一致預期該業務同比增速為10.7%。 展望後市，分析師認為，受App Store分成率走低、外部跳轉連結、遊戲需求疲軟以及匯率等不利因素影響，蘋果服務業務的增速短期內難以實現顯著回升。不過分析師也提到，AppleCare調價舉措仍將帶來部分正向對沖。分析師表示，根據其大中華區科技硬體團隊的最新預測，受需求疲軟與供給約束雙重影響，7月膝上型電腦ODM（原始設計製造商）的產量同比下降24%，創下40個月以來筆記本ODM最大同比跌幅，同時也比摩根士丹利的預期低4%。 分析師稱，這預示PC市場的需求正在加速萎縮。"
+    },
+    {
+      "id": "5051248",
+      "time": "2026-08-21 12:41:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中國平安郭曉濤：壽險產品正進入黃金髮展期】平安中期業績說明會上，公司聯席執行長郭曉濤表示，壽險產品正進入一個黃金髮展期，因為面對長期低利率環境，壽險的產品是極少數能夠提供長期持續穩定保底收益率的金融產品。"
+    },
+    {
+      "id": "mkt:01a0229f-b829-7aab-90c8-4372c276463c",
+      "time": "2026-08-21 12:41:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Draft Medical Security Law set for third reading; adds long-term care insurance, tightens fund management】China's Draft Medical Security Law will be submitted for a third reading at the National People's Congress Standing Committee meeting in Beijing from Aug 25-28, the NPC legal affairs committee said at an Aug 21 briefing. Proposed third-reading revisions would: explicitly reflect a health-first development strategy; tighten provisions on the medical security system; strengthen rules for medical security fund management; specify cross-region medical expense settlement requirements; add provisions for long-term care insurance; and refine legal liability rules."
+    },
     {
       "id": "5051247",
       "time": "2026-08-21 12:40:23",
