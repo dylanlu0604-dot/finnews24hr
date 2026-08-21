@@ -1,7 +1,43 @@
 {
   "date": "2026-08-22",
-  "count": 249,
+  "count": 253,
   "items": [
+    {
+      "id": "5052785",
+      "time": "2026-08-22 04:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： HIMS 的減重方案因信用卡糾紛遭到處罰。"
+    },
+    {
+      "id": "5052784",
+      "time": "2026-08-22 04:49:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：我們的孟菲斯和南埃文站點將由世界上最大的併網電池組供電，從而降低當地社群的電力成本，並提高其本地電力系統的可靠性。"
+    },
+    {
+      "id": "5052783",
+      "time": "2026-08-22 04:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西農民已收割84.4%的2026年第二輪玉米作物面積，去年同期為87.8% 。"
+    },
+    {
+      "id": "te:economy:577369",
+      "time": "2026-08-22 04:47:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Peru’s GDP Growth Slows to 2.6% in Q2 — Peru’s economy expanded 2.6% year-on-year in Q2 2026, slowing from 3.6% in Q1. Growth was supported by non-primary sectors, which increased 5.0%, while primary sectors contracted 5.2%. Construction remained the main driver, rising 8.9%, followed by commerce, which grew 7.3%, and electricity and water, up 5.6%. Services increased 4.7%. In contrast, manufacturing fell 5.0%, while mining and fuel declined 0.9%. Agriculture and livestock contracted 2.0%, after growing 1.5% in Q1, while fishing plunged 48.9%, following a 6.4% decline in the previous quarter. On a quarterly basis, GDP growth slowed from 3.6% in Q1 to 2.6% in Q2."
+    },
     {
       "id": "5052782",
       "time": "2026-08-22 04:45:18",
