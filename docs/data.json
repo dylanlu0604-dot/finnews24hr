@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-21 11:21:38",
-  "count": 16028,
+  "updated": "2026-08-21 11:25:33",
+  "count": 16025,
   "items": [
+    {
+      "id": "mkt:01a02259-62d6-7aab-90c7-7562d5d46aa8",
+      "time": "2026-08-21 11:24:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China and Indonesia held the inaugural meeting of their Comprehensive Strategic Dialogue in Jakarta on the morning of Aug 21 (local time)."
+    },
+    {
+      "id": "5051177",
+      "time": "2026-08-21 11:23:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智度德正：法定代表人確定為陸宏達】8月20日，智度德正釋出宣告稱，公司近日獲悉，關於我司母公司北京智度德正投資有限公司法定代表人變更的610決議糾紛，經北京市第二中級人民法院依法審理，已於2026年8月7日作出終審判決。該生效判決明確認定610決議合法有效，再次確認陸宏達為智度德正合法的法定代表人，蘭佳無權代表智度德正。"
+    },
+    {
+      "id": "5051176",
+      "time": "2026-08-21 11:23:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：截至7月底已發行新增專項債2.4萬億元，支援建設專案1.8萬個】8月21日，財政部副部長廖岷在國新辦新聞釋出會上表示，截至7月底，全國已發行2026年新增專項債券2.4萬億元，支援建設專案1.8萬個。"
+    },
+    {
+      "id": "5051175",
+      "time": "2026-08-21 11:23:26",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【截至7月底各地發行隱性債務置換債券1.73萬億元】財政部副部長廖岷表示，截至7月底，各地發行隱性債務置換債券1.73萬億元，完成今年2萬元額度的86.7%，下半年還有2萬多億元的地方政府專項債和超長期特別國債待發行使用，能夠保障政策的強度。（新華財經）"
+    },
+    {
+      "id": "5051174",
+      "time": "2026-08-21 11:22:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門：不同車型及配置的漲價幅度將有所不同。"
+    },
+    {
+      "id": "5051173",
+      "time": "2026-08-21 11:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門：將從2026年9月1日起上調轎車與SUV售價。"
+    },
+    {
+      "id": "5051172",
+      "time": "2026-08-21 11:21:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門：燃油車和電動車型價格自2026年9月1日起上調至多25000盧比。"
+    },
     {
       "id": "5051171",
       "time": "2026-08-21 11:19:27",
@@ -146677,103 +146734,6 @@
         "公司"
       ],
       "text": "阿布扎比港口集團：已將霍爾木茲海峽航運中斷對其客戶、阿聯酋及海灣合作委員會更廣泛經濟生態系統的影響降至最低。"
-    },
-    {
-      "id": "mkt:019ffe4c-8b8d-7aab-9034-611bece7f63c",
-      "time": "2026-08-14 11:24:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The regional governor said a fire broke out at Russia's Ust-Luga port."
-    },
-    {
-      "id": "5040471",
-      "time": "2026-08-14 11:24:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼總統普拉博沃：有信心到年底經濟增長率能達到6%。"
-    },
-    {
-      "id": "mkt:019ffe4c-44f4-7aab-9034-5cb86c64c17c",
-      "time": "2026-08-14 11:23:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump's Friday schedule】BJT 20:00 — handle administrative affairs at the White House; BJT 23:00 — policy meeting in the Oval Office; BJT 00:00 (next day) — signing ceremony in the Oval Office; BJT 03:00 (next day) — speech to a traveling delegation."
-    },
-    {
-      "id": "mkt:019ffe4c-3c70-7aab-9034-54bc41d6166f",
-      "time": "2026-08-14 11:23:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indonesia's president said he believes GDP growth could reach 6% by year-end."
-    },
-    {
-      "id": "mkt:019ffe4c-3a0c-7aab-9034-4fa0a2d8cb1d",
-      "time": "2026-08-14 11:23:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "【Shanghai Jan–Jul total trade 3.00 tln yuan, up 17.7% YoY】Shanghai Customs said total imports and exports in the first seven months reached 3.00 tln yuan, up 17.7% YoY. July trade was 447.57 bln yuan, up 12.6% YoY, marking the 18th consecutive month of growth."
-    },
-    {
-      "id": "mkt:019ffe4c-151e-7aab-9034-4635fe469f79",
-      "time": "2026-08-14 11:23:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indonesian president said real investment continues to grow amid global uncertainty and is creating more jobs."
-    },
-    {
-      "id": "mkt:019ffe4b-e86a-7aab-9034-3ddc0ee94eb2",
-      "time": "2026-08-14 11:23:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Front-month industrial-silicon contract rose 2.0% intraday to 8,755 yuan/ton."
-    },
-    {
-      "id": "5040470",
-      "time": "2026-08-14 11:23:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【致尚科技等成立新公司 含光電子器件製造業務】企查查APP顯示，近日，深圳市致景聯創科技有限公司成立，法定代表人為陳和先，註冊資本為6000萬元，經營範圍包含光電子器件製造；光電子器件銷售；電子元器件製造；電力電子元器件製造；光通訊裝置製造等。企查查股權穿透顯示，該公司由致尚科技全資子公司深圳市致尚新科技發展有限公司、劉東利共同持股。"
-    },
-    {
-      "id": "5040469",
-      "time": "2026-08-14 11:23:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯稱美將實現對伊朗雙重目標】美國副總統萬斯當地時間8月13日在接受採訪時表示，他堅信美國將實現對伊朗的雙重目標：阻止伊朗獲得核武器，並維持能源價格穩定。萬斯稱，美國將在與伊朗的博弈後“處於更有利的地位”，特朗普政府正在“非常有選擇性、極具戰略性地”運用外交、軍事和經濟工具來確保目標達成。萬斯還補充稱，由於伊朗“有時不遵守對我們的承諾”，局勢仍具不可預測性。"
-    },
-    {
-      "id": "5040468",
-      "time": "2026-08-14 11:22:47",
-      "tags": [
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國啟動24小時外匯交易以來 日均成交量增長超10%】韓國財政部週五表示，自上月推出全天候外匯交易以來，外匯市場日均即期交易量增長超過10%。韓國財政部表示：“自7月6日24小時外匯交易系統啟動以來，市場基礎設施執行平穩，未發生任何事故，韓元兌美元匯率與主要貨幣相比保持穩定。”據韓國政府統計，今年上半年外匯市場日均即期交易量為173.9億美元，而24小時交易系統啟動後增長10.1%，達到191.4億美元。與會人員指出，由於系統尚處於初期階段以及與海外市場存在時差等因素，深夜時段交易量的增長速度較為溫和。"
     }
   ]
 }
