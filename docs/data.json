@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-21 15:08:09",
-  "count": 16035,
+  "updated": "2026-08-21 15:12:13",
+  "count": 16032,
   "items": [
+    {
+      "id": "5051467",
+      "time": "2026-08-21 15:11:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業省計劃在 27 財年為 Rapidus 劃撥 1500 億日元投資資金。"
+    },
+    {
+      "id": "mkt:01a02328-3ee3-7aab-90ca-ced334827870",
+      "time": "2026-08-21 15:10:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "8035.T",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "SEAJ: Japan's July semiconductor manufacturing equipment billings rose 35.4% YoY."
+    },
+    {
+      "id": "te:economy:577141",
+      "time": "2026-08-21 15:09:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Turkey Business Morale Improves in August — Turkey’s manufacturing confidence index rose to 102.8 in August 2026 from a three-month low of 102.2 in the previous month, as sentiment among manufacturers improved slightly. Confidence was supported by a rebound in total orders over the past three months (104.4 vs 99.9 in July), higher fixed investment expenditure (105.5 vs 104.7), and a modest increase in current total orders (84.8 vs 84.5). Output volumes also strengthened to 121.1 from 119.3, while finished goods inventories rose to 98.1 from 97.0. Export orders increased to 118.3 from 116.6, pointing to firmer external demand. However, the improvement was partly limited by a weaker overall business outlook, which fell to 86.7 from 90.2, while expected employment over the next three months declined to 103.3 from 105.2."
+    },
+    {
+      "id": "5051464",
+      "time": "2026-08-21 15:09:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國任命新貿易部長 承接對美關稅談判重任】韓國總統李在明於21日任命產業資源部貿易副部長Park Jung‑sung出任貿易部長。8月14日，被稱作“首席貿易談判官”的前貿易部長呂翰九在美國特朗普政府帶來的投資壓力下遭突然解職，本次人事任命距離其被解職僅過去一週。新任貿易部長Park此前歷任產業資源部貿易投資局局長、貿易副部長、世界貿易組織（WTO）投資便利化談判共同主席，同時也是美國關稅談判工作組首席代表。他在貿易及貿易政策領域履職近30年，長期擔任核心崗位。青瓦臺高階發言人就此次任命作出說明：“該官員將憑藉成熟的談判策略處理錯綜複雜的貿易問題。他曾主導美國關稅與投資相關談判，面對緊迫的對美貿易課題，是保障談判工作延續性、最大限度維護國家利益的合適人選。”"
+    },
+    {
+      "id": "te:economy:577139",
+      "time": "2026-08-21 15:08:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Business Climate Indicator",
+        "Importance 1"
+      ],
+      "text": "France Business Climate Improves Again — France’s overall business climate improved for a third month in a row to 98 in August 2026 from 95 in the previous month, reaching its highest level since March and moving closer to its long-term average of 100. Retail trade saw the largest gain, with its climate indicator rising to 99 from 96, almost reaching its long-term average, supported by stronger ordering intentions and assessments of past sales. Manufacturing sentiment also strengthened (103 vs 101), mainly due to a sharp improvement in personal production prospects. The services climate edged up to 100 from 99, reaching its long-term average as assessments of past and future activity and expected demand improved. Meanwhile, the building construction climate remained unchanged at 96, below its long-term average, as improved expectations for future activity offset stable assessments of past activity. The employment climate was unchanged at 99."
+    },
+    {
+      "id": "mkt:01a02326-1ba1-7aab-90ca-c326d990f8be",
+      "time": "2026-08-21 15:08:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "The regional governor said industrial facilities in Russia's Perm region were damaged after a Ukrainian drone attack."
+    },
     {
       "id": "5051463",
       "time": "2026-08-21 15:07:09",
@@ -146740,88 +146805,6 @@
         "市場"
       ],
       "text": "WTI原油日內漲2%，現報82.88美元/桶。"
-    },
-    {
-      "id": "5040728",
-      "time": "2026-08-14 15:11:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商證券國際：看好騰訊AI產品及生態護城河，目標價降至620港元】招商證券國際發表研報指，騰訊第二季業績略勝預期，國內遊戲及廣告業務增長超出預期，剔除新AI產品投入後，經營溢利同比增19%，核心主業盈利質量仍在提升。另一方面，騰訊明確四大AI策略，支援更激進的資本開支。該行指出，AI賦能核心業務盈利釋放為AI投入提供支援，看好騰訊的AI產品及生態護城河，續予“增持”評級，目標價由632港元下調至620港元。該行上調騰訊2026及27年資本開支預測至2157億及2600億元，由於折舊費用上升，下調公司2026至28年核心淨利潤5至9%，預計2026及27年核心淨利潤增長率分別為2%和3%。該行認為，資本開支增加將會在短期為騰訊帶來一定的財務壓力，但可透過核心主業盈利提升而有所緩解，且AI投資具備明確下行保護。"
-    },
-    {
-      "id": "5040727",
-      "time": "2026-08-14 15:11:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "群創：上半年淨利潤61.6億元新臺幣。"
-    },
-    {
-      "id": "5040726",
-      "time": "2026-08-14 15:10:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國向土耳其出售F-35戰機程序陷入停滯】美國總統特朗普7月7日釋放可能向土耳其出售F-35隱形戰鬥機訊號後，一個多月以來相關計劃未取得實質進展。據美國方面8月13日訊息，土耳其裝備俄製S-400防空系統是軍售障礙之一。美國國會部分議員認為，土耳其只有放棄這一系統才能獲得F-35戰機。美國聯邦參議員裡克·斯科特說，土耳其“只要仍持有S-400系統，就不能獲得F-35戰機”。此外，以色列方面也公開反對這項軍售。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fff1b-8df0-7aab-9038-87739593edb4",
-      "time": "2026-08-14 15:10:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Ministry of National Defense: 'Taiwan independence' a dead end that cannot win or be changed】On Aug 14 Senior Colonel Chen Xi, spokesperson for China's Ministry of National Defense, criticised Taiwan's Han Kuang 42 exercise, citing reports that Lai Ching‑te rehearsed a 'wartime escape' route, a tank lost components, a fighter overran a runway, and simulated communications slowdowns and staged network outages provoked public panic. Chen accused the DPP of manufacturing war panic and exposing civilians by turning cities into battlefields, warned that 'Taiwan independence' is a dead end that cannot win or be changed, and said the PLA remains on constant alert, steadily enhancing real-world anti‑secession and anti‑interference combat capabilities to defend national sovereignty and maintain Taiwan Strait stability."
-    },
-    {
-      "id": "5040725",
-      "time": "2026-08-14 15:10:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數下跌2%，報1730.25點。"
-    },
-    {
-      "id": "mkt:019fff1b-4404-7aab-9038-7dfadab74dea",
-      "time": "2026-08-14 15:10:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【China will continue law-enforcement operations near Ren'ai Reef, ministry says】On Aug. 14 Ministry of National Defense spokesman Colonel Chen Xi said China will continue rights-protection law-enforcement operations in waters near Ren'ai Reef. He rejected Philippine and Australian accusations after their defense ministers issued a joint statement expressing \"serious concern\" about recent China Coast Guard actions at the reef. The coast guard has published what Beijing says is evidence of a Philippine deliberate provocation and an attack on Chinese personnel; China says it took necessary, professional and restrained measures. Chen reiterated Ren'ai Reef is part of China’s Nansha (Spratly) Islands and called on the Philippines to remove the illegally grounded vessel No.57. Beijing urged other states to stop hyping and stoking confrontation and to refrain from damaging regional peace and stability."
-    },
-    {
-      "id": "5040724",
-      "time": "2026-08-14 15:09:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【LG伊諾特上半年蘋果相關營收達62.4億美元 創歷史新高】LG集團旗下電子零部件廠商LG伊諾特週五釋出半年報稱，上半年來自蘋果公司的營收創下歷史紀錄。1至6月期間，該單一客戶貢獻營收達8.84萬億韓元（摺合62.4億美元），業務涵蓋光學產品與封裝板塊，營收佔LG伊諾特總銷售額比重超10%。LG伊諾特並未正式披露該客戶名稱。但結合營收體量與公司業務佈局來看，業界普遍認定該客戶即為蘋果。LG伊諾特為蘋果iPhone供應攝像頭模組、基板等核心零部件。"
-    },
-    {
-      "id": "mkt:019fff19-c26d-7aab-9038-716dc2f2dcf0",
-      "time": "2026-08-14 15:08:25",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China express delivery development index up 2.4% YoY in July】The State Post Bureau said China’s express delivery development index rose 2.4% YoY in July. Continued rollout of the Express-to-Villages program is stimulating rural consumption and widening villagers’ access to online shopping."
-    },
-    {
-      "id": "5040723",
-      "time": "2026-08-14 15:08:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月中國快遞發展指數同比增長2.4%】記者14日從國家郵政局獲悉，7月中國快遞發展指數同比增長2.4%。“快遞進村”工程的持續深入，正不斷激發農村消費活力，讓越來越多村民享受到便捷的網購服務。（央視新聞）"
     }
   ]
 }
