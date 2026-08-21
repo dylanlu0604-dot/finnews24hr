@@ -1,7 +1,49 @@
 {
   "date": "2026-08-22",
-  "count": 94,
+  "count": 98,
   "items": [
+    {
+      "id": "mkt:01a0255b-e057-7aab-90d9-861d3fbc9721",
+      "time": "2026-08-22 01:26:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude hit $93/bbl, up 1.41% intraday, its highest since July 24."
+    },
+    {
+      "id": "te:markets:577349",
+      "time": "2026-08-22 01:26:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Hits 4-week High — Gasoline increased to 3.36 USD/Gal, the highest since July 2026. Over the past 4 weeks, Gasoline lost 1.68%, and in the last 12 months, it increased 55.6%."
+    },
+    {
+      "id": "5052653",
+      "time": "2026-08-22 01:24:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：擴大Grok機器人可用範圍，新增支援SuperGrok Plus、Cursor Pro+及Cursor Teams套餐。"
+    },
+    {
+      "id": "mkt:01a02559-f74c-7aab-90d9-7ddd357f56d5",
+      "time": "2026-08-22 01:24:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceXAI expands availability of its Grok chatbot, adding support for SuperGrok Plus, Cursor Pro+ and Cursor Teams subscription tiers."
+    },
     {
       "id": "mkt:01a02557-726c-7aab-90d9-73044ae197ba",
       "time": "2026-08-22 01:21:22",

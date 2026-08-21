@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-22 01:24:08",
-  "count": 16197,
+  "updated": "2026-08-22 01:28:14",
+  "count": 16198,
   "items": [
+    {
+      "id": "mkt:01a0255b-e057-7aab-90d9-861d3fbc9721",
+      "time": "2026-08-22 01:26:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude hit $93/bbl, up 1.41% intraday, its highest since July 24."
+    },
+    {
+      "id": "te:markets:577349",
+      "time": "2026-08-22 01:26:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Hits 4-week High — Gasoline increased to 3.36 USD/Gal, the highest since July 2026. Over the past 4 weeks, Gasoline lost 1.68%, and in the last 12 months, it increased 55.6%."
+    },
+    {
+      "id": "5052653",
+      "time": "2026-08-22 01:24:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：擴大Grok機器人可用範圍，新增支援SuperGrok Plus、Cursor Pro+及Cursor Teams套餐。"
+    },
+    {
+      "id": "mkt:01a02559-f74c-7aab-90d9-7ddd357f56d5",
+      "time": "2026-08-22 01:24:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceXAI expands availability of its Grok chatbot, adding support for SuperGrok Plus, Cursor Pro+ and Cursor Teams subscription tiers."
+    },
     {
       "id": "mkt:01a02557-726c-7aab-90d9-73044ae197ba",
       "time": "2026-08-22 01:21:22",
@@ -148341,34 +148383,6 @@
         "國際"
       ],
       "text": "【報道：加拿大與美國貿易談判涉及關鍵礦產和國防問題】加拿大《環球郵報》援引瞭解談判情況的三名加方訊息人士和一名美方訊息人士報道稱，加拿大和美國在持續進行的貿易談判中討論了關鍵礦產和國防問題。一名加方訊息人士和一名美方訊息人士對該報表示，美國要求獲得加拿大關鍵礦產的優先購買選擇權，要求加拿大完成F-35戰鬥機的採購，要求加拿大購買雷達飛機等美國技術，作為加入美國總統特朗普“金穹”導彈防禦系統的一部分，而且美國還要求就未來石油和天然氣供應獲得某種保障。上述美方訊息人士表示，一個可能的方案是，加拿大私下作出完成F-35採購的非正式承諾，正式宣佈則推遲至第二階段協議達成時。"
-    },
-    {
-      "id": "mkt:01a00150-57de-7aab-9043-c2c5f8b99339",
-      "time": "2026-08-15 01:27:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US President Trump said the economy is performing incredibly well."
-    },
-    {
-      "id": "mkt:01a0014f-d278-7aab-9043-bf4d22f8a1c6",
-      "time": "2026-08-15 01:26:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump departed Joint Base Andrews and is en route to Garden City, New York."
-    },
-    {
-      "id": "5041868",
-      "time": "2026-08-15 01:26:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統唐納德・特朗普離開安德魯斯聯合基地，啟程前往紐約州加登城。"
     }
   ]
 }
