@@ -1,7 +1,103 @@
 {
   "date": "2026-08-21",
-  "count": 981,
+  "count": 991,
   "items": [
+    {
+      "id": "5051189",
+      "time": "2026-08-21 11:32:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【憶月啟函儲存晶片研發專案落地海口】據海口日報，近日，憶月啟函（YiMoon科技）旗下的儲存晶片研發主體——憶芯存（海南）科技有限公司正式落地海口綜保區。據悉，該專案將依託海南自貿港政策優勢，專注開展NAND/DRAM儲存晶片定製化研發方案交付與相關運營業務。"
+    },
+    {
+      "id": "mkt:01a0225f-8e50-7aab-90c7-a3d455c369e1",
+      "time": "2026-08-21 11:31:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures morning close】China government bond futures at morning close: 2-year (TS) main contract -0.01%, 5-year (TF) main contract -0.02%, 10-year (T) main contract -0.03%, 30-year (TL) main contract -0.03%."
+    },
+    {
+      "id": "mkt:01a0225f-86a5-7aab-90c7-9ec606c7a2a2",
+      "time": "2026-08-21 11:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "IF",
+        "Impact bullish",
+        "IH",
+        "IC",
+        "Impact bearish"
+      ],
+      "text": "【Equity index futures morning session close】China equity index futures morning session close: CSI 300 futures (IF) lead contract +0.69%; SSE 50 futures (IH) lead contract +0.36%; CSI 500 futures (IC) lead contract -0.06%; CSI 1000 futures (IM) lead contract unchanged."
+    },
+    {
+      "id": "5051187",
+      "time": "2026-08-21 11:31:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：推進存量稅收優惠政策清理規範，抓好地方財政補貼負面清單管理機制落地見效】8月21日，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，財政部副部長廖岷在會上強調，下一步，財政部門將紮實推進存量稅收優惠政策的清理規範，抓好地方財政補貼負面清單管理機制的落地見效，持續深化政府採購市場秩序的整治，為構建高效規範、公平競爭、充分開放的大市場貢獻財政的力量。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a0225f-4334-7aab-90c7-902c49f94f19",
+      "time": "2026-08-21 11:31:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "At the morning close, China’s front-month futures were mostly higher. Container shipping — Europe route — led gains, up nearly 9%; Shanghai silver rose over 4%. Platinum and lithium carbonate each gained more than 3%; pulp rose about 3%. Polysilicon, palladium and fuel oil advanced over 2%. On the downside, rapeseed meal and rapeseed oil fell nearly 2%; apples, Soybean No.1, stainless steel (SS), red dates and PVC were down more than 1%."
+    },
+    {
+      "id": "5051186",
+      "time": "2026-08-21 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】集運指數歐線期貨連續漲8.96%，白銀連續漲4.07%，碳酸鋰連續漲3.61%，鉑連續漲3.58%，線材連續漲2.89%，紙漿連續漲2.83%，多晶矽連續漲2.28%，燃料油連續漲2.04%，液化石油氣連續漲2.03%。"
+    },
+    {
+      "id": "5051185",
+      "time": "2026-08-21 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.03%， 10年期主力合約漲0.02%， 5年期主力合約基本持平， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5051184",
+      "time": "2026-08-21 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續基本持平， 滬深300指數期貨連續漲0.69%， 中證500指數期貨連續跌0.06%， 上證50指數期貨連續漲0.36%。"
+    },
+    {
+      "id": "5051183",
+      "time": "2026-08-21 11:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諶貽琴在北京市調研時強調 加快建設足球青訓體系 提升競技體育後備人才培養水平】國務委員諶貽琴20日到北京市調研足球青訓體系建設工作。她強調，要深入學習貫徹習近平總書記關於體育工作的重要論述，認真落實全國足球工作會議精神，加快建設足球青訓體系，提升競技體育後備人才培養水平。（新華社）"
+    },
+    {
+      "id": "5051182",
+      "time": "2026-08-21 11:29:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北大荒集團與中國農再座談交流】據北大荒農墾集團訊息，8月20日下午，中國農業再保險股份有限公司黨委書記、董事長李有祥一行到訪北大荒集團，與北大荒農墾集團黨委副書記、副董事長、總經理陳有方座談，雙方圍繞深化農業保險合作、農業保險資料資訊系統共建共享、提升糧食安全風險保障水平等事宜進行深入交流。"
+    },
     {
       "id": "mkt:01a0225c-d8f9-7aab-90c7-8afbc56864be",
       "time": "2026-08-21 11:28:25",
