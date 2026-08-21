@@ -1,7 +1,105 @@
 {
   "date": "2026-08-21",
-  "count": 673,
+  "count": 683,
   "items": [
+    {
+      "id": "5050987",
+      "time": "2026-08-21 09:16:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7817，較上日調低9點】人民幣兌美元中間價報6.7817，較上日調低9點。"
+    },
+    {
+      "id": "mkt:01a021e3-8b5e-7aab-90c4-b5ad687a4f39",
+      "time": "2026-08-21 09:15:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China synthesizes world's longest single-atom-diameter \"metal wire\"】Researchers at the Beijing High Pressure Science Research Center led by Li Kuo have for the first time synthesized a structurally stable, carbon-encapsulated single-metal-atom chain with micrometer-scale length and single-atom diameter using a novel high-pressure solid-state topological polymerization technique. Scaled by diameter, the micrometer length is equivalent to about a 4-metre copper wire. The result was published in Science on Aug. 21."
+    },
+    {
+      "id": "mkt:01a021e3-279b-7aab-90c4-abdcf61876a8",
+      "time": "2026-08-21 09:15:29",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.02% at 25,700, trading 2 points above the cash index."
+    },
+    {
+      "id": "5050986",
+      "time": "2026-08-21 09:15:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲7%，現報1879.50點。"
+    },
+    {
+      "id": "5050985",
+      "time": "2026-08-21 09:15:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報1859.00點。"
+    },
+    {
+      "id": "5050984",
+      "time": "2026-08-21 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.10%，報25605.40點，低水93.09點。"
+    },
+    {
+      "id": "5050983",
+      "time": "2026-08-21 09:14:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報1844.00點。"
+    },
+    {
+      "id": "mkt:01a021e2-124f-7aab-90c4-a630cf11ec92",
+      "time": "2026-08-21 09:14:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude traded above $92.00/bbl, up 0.32% on the day."
+    },
+    {
+      "id": "mkt:01a021e1-e8b0-7aab-90c4-99f62a8aa9c2",
+      "time": "2026-08-21 09:14:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of Korea deputy governor said the Korean won will fundamentally trend lower."
+    },
+    {
+      "id": "5050982",
+      "time": "2026-08-21 09:13:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行副行長權泰亨：美元兌韓元匯率基本面將下行。"
+    },
     {
       "id": "mkt:01a021e0-820a-7aab-90c4-91ad9f049df1",
       "time": "2026-08-21 09:12:36",
