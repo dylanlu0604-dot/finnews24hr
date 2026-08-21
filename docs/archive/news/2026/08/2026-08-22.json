@@ -1,7 +1,26 @@
 {
   "date": "2026-08-22",
-  "count": 315,
+  "count": 317,
   "items": [
+    {
+      "id": "5052848",
+      "time": "2026-08-22 06:32:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔響起強烈爆炸聲】當地時間22日凌晨1時許，烏克蘭首都基輔響起防空警報，隨後基輔市響起多次強烈爆炸聲。烏空軍稱俄軍向基輔州和基輔市方向發射了多枚彈道導彈和巡飛彈。俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "te:markets:577371",
+      "time": "2026-08-22 06:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Propane Drops by 3.02% — Top commodity losers are Propane (-3.02%) and Crude Oil WTI (-0.22%). Gains are led by Gasoline (1.81%), Natural Gas UK (1.78%), Natural Gas EU (1.49%) and Brent Crude Oil (0.10%)."
+    },
     {
       "id": "5052847",
       "time": "2026-08-22 06:25:22",
