@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 02:59:35",
-  "count": 16178,
+  "updated": "2026-08-22 03:04:08",
+  "count": 16176,
   "items": [
+    {
+      "id": "5052683",
+      "time": "2026-08-22 03:00:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：7 月美國肉牛上市率 93.0%（市場預估 92.8%）。"
+    },
+    {
+      "id": "5052682",
+      "time": "2026-08-22 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.47%，報25839.50點，低水169.96點。"
+    },
     {
       "id": "5052681",
       "time": "2026-08-22 02:57:12",
@@ -148156,40 +148172,6 @@
         "Impact bearish"
       ],
       "text": "【Broadcom shares drop nearly 7% on concerns over AI financing platform】Broadcom shares fell nearly 7% intraday on Friday as investors flagged risks in the financing model for its AI infrastructure expansion. BofA analysts estimate the financing vehicle for Broadcom’s AI‑chip customers could accumulate up to $370bn of senior debt by mid‑2029, with about $150bn of new issuance in 2027, assuming a 20 GW data‑centre buildout. The debt would sit on the platform rather than Broadcom’s balance sheet, but Broadcom has provided lease‑payment guarantees for some customers; the first guaranteed transaction is about $29bn. The financing structure began in June, when Apollo Global Management and Blackstone led a $35bn funding package for Broadcom’s AIXPV platform; initial proceeds will support Anthropic’s build of more than 1 GW of compute and the platform targets over 20 GW by 2028. Market attention will focus on Broadcom’s potential future guarantee exposure as AI infrastructure scales."
-    },
-    {
-      "id": "5041902",
-      "time": "2026-08-15 03:03:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所10月布倫特原油期貨結算價報每桶88.52美元。"
-    },
-    {
-      "id": "mkt:01a001a6-95b8-7aab-9044-a6ded9b22561",
-      "time": "2026-08-15 03:01:29",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.61% at 25,247, trading 130 points above the cash index."
-    },
-    {
-      "id": "5041901",
-      "time": "2026-08-15 03:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：DOT AI宣佈收到退市通知，並表示將提起上訴。"
-    },
-    {
-      "id": "5041900",
-      "time": "2026-08-15 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.62%，報25250.28點，高水133.43點。"
     }
   ]
 }
