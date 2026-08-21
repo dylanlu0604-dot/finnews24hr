@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-22 05:56:55",
-  "count": 16154,
+  "updated": "2026-08-22 06:01:21",
+  "count": 16157,
   "items": [
+    {
+      "id": "5052833",
+      "time": "2026-08-22 06:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破92美元，日內漲超0.8%。"
+    },
+    {
+      "id": "5052832",
+      "time": "2026-08-22 06:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價突破4550美元/盎司，日內漲幅1%。"
+    },
+    {
+      "id": "5052831",
+      "time": "2026-08-22 06:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價（人民幣）日內漲超1%，現報992.9447元/克。"
+    },
+    {
+      "id": "5052830",
+      "time": "2026-08-22 05:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱對伊轉向“經濟戰”不意味著美軍事選項受限】當地時間8月21日，美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。“我們對霍爾木茲海峽周邊整個地區，包括其腹地和陸地區域，擁有完全的控制權。所以，他們很希望達成協議，但在我看來，他們還沒準備好達成合適的協議，”特朗普補充道。當被問及美國對伊朗的軍事選擇是否有限時，特朗普表示：“這只是意味著我們正在觀察事態的發展。”特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。（央視新聞）"
+    },
     {
       "id": "5052829",
       "time": "2026-08-22 05:53:35",
@@ -147834,14 +147869,6 @@
         "NOC.O"
       ],
       "text": "【US defense primes race to develop lower-cost interceptors】Pressure on Patriot interceptor inventories after the US–Iran conflict has pushed Boeing, Lockheed Martin, Northrop Grumman and Raytheon to race to field cheaper, faster-to-produce missiles. Years of adding advanced seekers and propulsion have driven per-unit prices above $4m and production lead times of years. The Pentagon has warned firms to change or be left behind, seeking lower-cost options to counter cheap threats such as drones. Lockheed has introduced a low-cost ACE interceptor at roughly $2m a unit—under half the cost of an enhanced PAC-3 MSE. Boeing is developing an “ultra-low-cost” seeker to reduce guidance cost share. Northrop unveiled a new raid/hunter system and Raytheon is expanding applications of its low-cost Coyote counter‑UAS missile. The Army says not all targets require the most advanced interceptors, but most low-cost concepts still need several years to reach mass production."
-    },
-    {
-      "id": "5042013",
-      "time": "2026-08-15 05:57:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【伯克希爾增持達美航空和Alphabet 新CEO開始動用鉅額現金儲備】隨著Greg Abel開始動用伯克希爾龐大的現金儲備，該公司增持達美航空和谷歌母公司Alphabet。根據週五的監管檔案，在Abel接替董事長沃倫·巴菲特出任執行長後的第二個完整季度，伯克希爾增持1,750萬股達美航空股票，截至6月底持倉價值增至53.7億美元。Abel還增持4810萬股Alphabet股票，使其成為伯克希爾第三大持倉，年中持倉價值達到378億美元。伯克希爾上週公佈第二季度業績時表示，該季度還斥資約45億美元回購自身股票，同時淨買入近200億美元其他股票。截至年中，公司持有現金3655億美元，低於3月底創紀錄的3970億美元。"
     }
   ]
 }
