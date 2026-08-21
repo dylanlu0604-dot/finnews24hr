@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-22 04:43:10",
-  "count": 16152,
+  "updated": "2026-08-22 04:47:18",
+  "count": 16154,
   "items": [
+    {
+      "id": "5052782",
+      "time": "2026-08-22 04:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪點評愛爾蘭：政策制定者預計將有效緩解外部衝擊，其中包括美國貿易、稅收及產業政策變動帶來的影響。"
+    },
+    {
+      "id": "5052781",
+      "time": "2026-08-22 04:45:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國陸軍部長德里斯科爾預計將於年底卸任。"
+    },
+    {
+      "id": "5052780",
+      "time": "2026-08-22 04:44:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：約旦河西岸的穩定有助於加強以色列的安全，並符合華盛頓實現和平的目標。"
+    },
+    {
+      "id": "5052779",
+      "time": "2026-08-22 04:44:21",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院發言人：特朗普總統已明確指出，華盛頓不支援以色列吞併約旦河西岸。"
+    },
+    {
+      "id": "5052778",
+      "time": "2026-08-22 04:43:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據美國證券交易委員會披露檔案顯示，OS Therapeutics公司計劃透過傑富瑞集團發售最高規模為7500萬美元的普通股。"
+    },
+    {
+      "id": "5052777",
+      "time": "2026-08-22 04:43:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：上調愛爾蘭信用評級反映出該國經濟與財政實力持續改善，我們預計這一向好趨勢將延續。"
+    },
     {
       "id": "5052776",
       "time": "2026-08-22 04:42:30",
@@ -147850,40 +147902,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Extends Seven-Month Low — The Ibovespa shed 0.1% to close at 166,934 on Friday, extending its seven-month low. Oil and gas prices gained as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares as bond yields moved higher. Bradesco lost 0.7%, Itaúsa shed 0.4% and B3 fell 0.6%, while Itaú (+1.8%) and Banco do Brasil (+0.9%) bucked the trend. Utilities also traded lower, with Sabesp down over 2% and CPFL losing over 4.5% after reporting earnings, as growth in its industrial sector was modest and net debt rose 19.2%. Renner shed 2.6% after UBS BB abandoned its buy recommendation and cut its price target. Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Vale (-0.8%), Ambev (-1.1%) and Rede D’Or (-2.5%) also weighed on the index. On the upside, Petrobras rose 0.4% on higher oil prices, while Embraer added 2.4% after JPMorgan raised its price target."
-    },
-    {
-      "id": "mkt:01a00207-1abe-7aab-9045-f2dde5d10880",
-      "time": "2026-08-15 04:46:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources said Canada's head of U.S. trade and chief negotiator will remain in Washington over the weekend to continue talks."
-    },
-    {
-      "id": "mkt:01a00205-98be-7aab-9045-e98b9aeb7933",
-      "time": "2026-08-15 04:45:16",
-      "tags": [
-        "MKT News",
-        "AMD.O"
-      ],
-      "text": "SEC filings show AMD (AMD.O) holds 3.3 mln Class A shares of SpaceX (SPCX.O)."
-    },
-    {
-      "id": "5041985",
-      "time": "2026-08-15 04:45:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國證券交易委員會檔案顯示，AMD(AMD.O)持有330萬股SpaceX(SPCX.O)A類股份。"
-    },
-    {
-      "id": "5041984",
-      "time": "2026-08-15 04:45:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：加拿大負責對美雙邊貿易事務的部長及加拿大首席貿易談判代表本週末將留駐華盛頓開展會談。"
     }
   ]
 }
