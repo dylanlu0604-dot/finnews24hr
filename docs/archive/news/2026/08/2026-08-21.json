@@ -1,7 +1,155 @@
 {
   "date": "2026-08-21",
-  "count": 1441,
+  "count": 1456,
   "items": [
+    {
+      "id": "te:markets:577155",
+      "time": "2026-08-21 15:27:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Edge Up, Set for Weekly Loss — European stocks edged higher on Friday, with the Stoxx 50 up 0.4% after five consecutive sessions of losses, as global government bonds stabilized following two days of volatile trading. A softer US dollar supported gold prices, lifting basic resources stocks to the top of the sectoral gainers. Among major companies, ASML Holding and Banco Santander advanced more than 1%, while L’Oréal fell over 0.5%. Investors also assessed fresh economic data from France, where manufacturing activity returned to growth and exceeded expectations, while the services sector contracted more sharply than anticipated. Oil prices edged lower as markets continued to assess the prolonged US-Iran conflict and its potential impact on energy supplies and inflation. Despite Friday’s modest recovery, European equities remained on track for a weekly decline, reflecting persistent geopolitical uncertainty, elevated bond yields and concerns over the outlook for monetary policy."
+    },
+    {
+      "id": "5051500",
+      "time": "2026-08-21 15:27:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美對伊朗施壓 外交部：軍事手段和制裁施壓無助於解決問題】8月21日，外交部發言人林劍主持例行記者會。有記者就美對伊朗施壓提問。林劍表示，中方始終認為，軍事手段和制裁施壓無助於解決問題，只會加劇緊張，升級局勢不符合任何一方利益。我們呼籲透過對話協商化解矛盾分歧。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a02337-7edd-7aab-90cb-820128e74d33",
+      "time": "2026-08-21 15:27:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry urges Japan to take concrete steps to create necessary conditions for normal China-Japan exchanges】Foreign Ministry spokesman Lin Jian said at a regular briefing on Aug. 21 that Beijing has noted Japanese ruling and opposition lawmakers expressing concern about bilateral ties and offering to help improve relations. He urged Japan's leaders to heed those voices, adhere to the principles of the four China‑Japan political documents, and take concrete actions to create the necessary conditions for normal exchanges."
+    },
+    {
+      "id": "te:economy:577154",
+      "time": "2026-08-21 15:27:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Holds Near Two-Month High — The yield on India’s 10-year G-Sec hovered near 6.87%, steadying after reaching two-month highs as fresh debt supply, elevated oil prices, and cautious RBI policy signals kept yields elevated. The benchmark 2036 bond yield closed at 6.8709% on Thursday, its highest closing level in more than two months, ahead of the government’s INR 280 billion weekly bond auction, with more than half of the borrowing through 15-year paper. Meanwhile, Brent crude hovered around $94 per barrel, raising concerns over inflation and government finances. RBI minutes showed policymakers were more prepared to raise rates if inflation risks materialize, while July retail inflation accelerated to 4.45%, above the RBI’s 4% medium-term target. Strong demand for HDFC Bank’s $1.75 billion dollar bond sale, which attracted around $7 billion in orders, highlighted banks’ efforts to tap the RBI’s concessional funding window ahead of the August 31 deadline, providing little relief to government bond yields."
+    },
+    {
+      "id": "te:economy:577153",
+      "time": "2026-08-21 15:27:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "French Private Sector Contraction Unexpectedly Deepens — The S&P Global France Composite PMI eased to 48.8 in August 2026 from 49.4 in July and worse than market forecasts of 49.5, flash estimates showed. The data indicated the eighth consecutive month of decline in the country’s private sector, with the pace of contraction quickening from the previous month. The weakness stemmed entirely from services, while manufacturing output rose for the first time since April. In some cases, firms cited extreme heat as a factor weighing on activity."
+    },
+    {
+      "id": "5051499",
+      "time": "2026-08-21 15:26:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：敦促日本以實際行動為中日正常交流創造必要條件】8月21日，外交部發言人林劍主持例行記者會。有記者提問，據報道，日本朝野政黨國會議員計劃下週訪華，表示日中關係現狀不符合任何一方利益，希望為推動兩國關係改善發揮作用。中方對此有何評論?林劍表示，我們注意到日本朝野政黨一些有識之士對當前中日關係深感憂慮，希望為雙邊關係走上正確軌道作出努力。我們敦促日本當政者傾聽重視這些聲音，恪守中日四個政治檔案的各項原則，以實際行動為中日正常交流創造必要條件。（央視新聞）"
+    },
+    {
+      "id": "te:economy:577152",
+      "time": "2026-08-21 15:26:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "France Manufacturing Sector Returns to Growth — The S&P Global France Manufacturing PMI rose to 51.5 in August 2026 from 49.8 in July according to preliminary data and beating market expectations of 50. The reading signaled a return to growth in the country’s manufacturing sector. Production increased for the first time since April’s stockpile-driven boost, potentially pointing to greater stability in the factory sector as inflation across the goods-producing economy continued to ease. Manufacturers also increased hiring at the fastest pace in a year, helping firms clear backlogs more quickly than in July."
+    },
+    {
+      "id": "te:economy:577151",
+      "time": "2026-08-21 15:26:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "France Services Contraction Unexpectedly Deepens — The S&P Global France Services PMI fell to 48.4 in August 2026 from 49.6 in July, signaling a faster contraction in services activity, preliminary estimates showed. The reading also defied market expectations for the contraction to ease to 49.8. The downturn was accompanied by further workforce cutbacks, contrasting with the fastest pace of factory job creation in a year. Cost pressures increased at a faster pace among service providers, while selling prices rose at the fastest rate since May. Service companies also cleared backlogs of work at a faster pace in August. Business confidence weakened, with optimism toward the year-ahead outlook falling to its lowest level since May amid uncertainty surrounding the international landscape and domestic political situation."
+    },
+    {
+      "id": "5051498",
+      "time": "2026-08-21 15:25:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來秦力洪：預計年內純電滲透率將超50% 純電終局將加速到來】8月21日，蔚來聯合創始人、總裁秦力洪作出預測：“就在今年內的某一個月，純電滲透率會超過50%，純電車型成為絕對主流的終局正在加速到來。”支撐結論因素之一是，今年7月，蔚來公司在8省42市銷量同時超越德系豪華三強賓士、寶馬、奧迪。"
+    },
+    {
+      "id": "mkt:01a02335-72dd-7aab-90cb-7bcab4837df0",
+      "time": "2026-08-21 15:25:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said Iran must draw up plans to overcome these unjust sanctions in order to defeat them."
+    },
+    {
+      "id": "5051497",
+      "time": "2026-08-21 15:24:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委卡扎克斯：已做好應對“令人不安”通脹的準備】歐洲央行管委卡扎克斯表示，如果需要進一步採取行動，使通脹從當前“略顯令人不安”的水平迴歸目標，歐洲央行已經做好充分準備。他表示，儘管消費者價格漲幅仍“徘徊在3%左右”，但現在判斷歐洲央行下月會議結果還為時過早。繼6月份的首次加息之後，目前市場幾乎已完全押注歐洲央行將把存款利率上調25個基點。卡扎克斯說：“如果有必要，我們已經做好準備採取行動，在合理時間內推動通脹回落至2%。我們將在9月再次召開會議，評估資料和經濟前景，然後作出決定。鑑於當前形勢，進一步加息有其利弊。”"
+    },
+    {
+      "id": "5051496",
+      "time": "2026-08-21 15:24:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星SDI將向三星顯示出售所持股份，作價4.45萬億韓元】據一份監管檔案顯示，三星SDI計劃將其持有的關聯公司三星顯示的約1309萬股股份回售給該顯示面板製造商，交易金額為4.45萬億韓元。三星顯示計劃以每股34萬韓元的價格購入這些股份，三星SDI的持股比例將降至10.22%。該出售交易定於8月27日進行。三星SDI表示，交易所得將用於投資未來增長引擎。"
+    },
+    {
+      "id": "mkt:01a02335-154a-7aab-90cb-73595e478873",
+      "time": "2026-08-21 15:24:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB's Kazaks says prepared to act against 'unsettling' inflation】ECB Governing Council member Kazaks said the ECB stands ready to take further action if needed to return inflation from its currently \"slightly unsettling\" level to target. He noted consumer price growth remains \"around 3%\" and said it is too early to judge the outcome of next month’s meeting. After June’s first rate hike, markets have almost fully priced a 25bp increase in the deposit rate. Kazaks said: \"If necessary, we are prepared to act to push inflation back to 2% within a reasonable time. We will meet again in September to assess the data and economic outlook and then decide. Given current conditions, further rate hikes have pros and cons.\""
+    },
+    {
+      "id": "5051495",
+      "time": "2026-08-21 15:24:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫表示，在特朗普發出威脅後，“我們必須制定計劃來打破這些不公正的制裁，從而最終解除制裁”。"
+    },
+    {
+      "id": "5051494",
+      "time": "2026-08-21 15:24:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：微升網易目標價至263港元，維持“買入”評級，遊戲業務具韌性】高盛發表研報指，網易是優質的非AI複合型企業，在行業AI支出高企及部分同業毛利率受壓下，公司毛利率及自由現金流均創新高，第二季遊戲收入同比增長10%，經營溢利同比增長29%，再次展現其遊戲業務韌性及盈利增長能力。受惠PC及手機遊戲組合有利、iOS/Android渠道費用下降及轉向自家渠道，第二季遊戲毛利率創歷史新高，高盛相信毛利率擴張屬結構性，配合營運效率最佳化，下半年經營溢利預期可維持高十位數同比增長。該行將2026至2028年收入預測下調最多2%，以反映《遺忘之海》表現遜預期及新遊戲能見度較低，部分被長青遊戲強勁表現所抵銷；2026年純利預測下調4%，以反映投資虧損，2027至2028年純利預測大致不變。該行維持對其“買入”評級，目標價由262港元上調至263港元。"
+    },
     {
       "id": "5051493",
       "time": "2026-08-21 15:22:55",
