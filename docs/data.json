@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-22 03:36:24",
-  "count": 16180,
+  "updated": "2026-08-22 03:40:28",
+  "count": 16181,
   "items": [
+    {
+      "id": "5052719",
+      "time": "2026-08-22 03:39:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡車司機工會：恩科波士頓港 211 名工人或將發起罷工。"
+    },
+    {
+      "id": "5052718",
+      "time": "2026-08-22 03:38:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "恩科波士頓港卡車工會成員以壓倒性票數授權舉行罷工。"
+    },
+    {
+      "id": "5052717",
+      "time": "2026-08-22 03:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：現已開放 API 呼叫，並逐步向符合條件的 ChatGPT Work 及 Codex 積分方案推送。Pro、Plus 以及 Business 訂閱的使用規則保持不變。"
+    },
+    {
+      "id": "5052716",
+      "time": "2026-08-22 03:37:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI：未來三個月，我們將把 GPT‑5.6 Sol 的 API 及積分定價下調 20% 以上"
+    },
+    {
+      "id": "5052715",
+      "time": "2026-08-22 03:36:29",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "Kalshi：剛剛，黃金超過美國國債，成為全球央行規模最大的儲備資產。"
+    },
     {
       "id": "5052714",
       "time": "2026-08-22 03:35:14",
@@ -148133,48 +148176,6 @@
         "國際"
       ],
       "text": "美國代理海軍部長 ：美國“亞伯拉罕·林肯”號航空母艦將按計劃很快返航。"
-    },
-    {
-      "id": "mkt:01a001ca-3ced-7aab-9045-132bc0ccd887",
-      "time": "2026-08-15 03:40:26",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bearish"
-      ],
-      "text": "Oracle (ORCL.N) pared losses, down 3.52% after earlier falling as much as 4.65%."
-    },
-    {
-      "id": "5041919",
-      "time": "2026-08-15 03:38:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "甲骨文股價放量擴大跌幅，最新下跌3.8%至150.21美元。"
-    },
-    {
-      "id": "mkt:01a001c8-2ef5-7aab-9045-09f99e4d2eb9",
-      "time": "2026-08-15 03:38:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) said its Jupiter AI data-center campus project remains on schedule and the company will continue close cooperation with partners to advance the project."
-    },
-    {
-      "id": "mkt:01a001c6-aa4d-7aab-9045-06ea0484911a",
-      "time": "2026-08-15 03:36:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "CFTC: For week ended Aug 11, speculative traders increased WTI net longs by 4,034 contracts to 105,860. Across the four major NYMEX and ICE gas contracts, speculative net shorts fell 18,848 contracts to 70,241."
     }
   ]
 }
