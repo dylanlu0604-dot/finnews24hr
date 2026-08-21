@@ -1,7 +1,129 @@
 {
   "date": "2026-08-21",
-  "count": 2917,
+  "count": 2931,
   "items": [
+    {
+      "id": "mkt:01a024b7-12e6-7aab-90d6-c2025d734322",
+      "time": "2026-08-21 22:26:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Panama Canal drought forces draft cuts, narrows transits; supply-chain and US price risk rises】A record-strong El Niño has driven a severe drought in the Panama Canal basin, forcing operational cuts that pose growing supply-chain and US inflation risks. Basin rainfall is about 34% below historical averages; since May Panama City has received roughly 75% of normal rainfall and the western city of David just 60% over the past 90 days. Dozens of ships queued at both ends in early August, with some delayed more than a week and one container vessel reportedly paying a record $4m to jump the line. The Panama Canal Authority will lower maximum vessel draft from the usual 50 ft to 48 ft from September and expects further draft reductions; daily transits will be progressively cut toward 32 ships. Carriers including Mediterranean Shipping Co. have announced increased canal surcharges effective September 12. The disruption is already raising freight costs for canal-dependent goods and risks cascading to land transport: ships may reroute to US West Coast ports, boosting rail and truck demand and pushing inland freight and consumer goods prices higher. The canal constraint could also complicate global energy flows: oil-price pressure from Iranian risks at the Strait of Hormuz may be amplified if US energy exports that use the Panama Canal are limited, reducing Asia’s ability to substitute US supply. Washington extended a waiver on August 10 allowing foreign vessels to move energy between US ports to ease Iran-related oil-price pressure. Cato Institute data show at least 49 foreign vessels had transited under the waiver as of August 11 and 215 vessels have completed canal transits in the period cited. Analysts say a return to 2023–24 drought-level transits would hit the US economy more through higher prices for phones, computers and agricultural goods than via direct energy-price shocks."
+    },
+    {
+      "id": "5052551",
+      "time": "2026-08-21 22:25:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "默克股價上漲高達3.7%，超過週三創下的歷史新高。"
+    },
+    {
+      "id": "5052550",
+      "time": "2026-08-21 22:25:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【標普全球：如果能源價格再次上漲，美國商業可能會重新面臨上行壓力】標普全球市場情報首席商業經濟學家威廉姆森（Chris Williamson）在一份宣告中表示：“美國商業正在蓬勃發展，企業報告了四年多來最快的產出增長。”“8月份就業增長也出現了令人欣喜的復甦，隨著市場對關稅和中東衝突負面經濟影響的擔憂逐漸消退，僱主信心有所增強。”“中東衝突”仍然是企業關注的關鍵領域，尤其是對供應鏈和能源價格的影響。“價格壓力雖然在減弱，但仍然偏高，如果能源價格再次上漲，可能會重新面臨上行壓力。”"
+    },
+    {
+      "id": "mkt:01a024b5-e0a4-7aab-90d6-bdf7ec0f6b9e",
+      "time": "2026-08-21 22:24:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shanghai Stock Exchange (SSE) issued a regulatory letter to Shanghai Miaokelan Duo Food Technology Co., Ltd. regarding review and disclosure matters for the company’s interim (half‑year) report."
+    },
+    {
+      "id": "5052549",
+      "time": "2026-08-21 22:24:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛弘股份：公司儲能PCS產品具備相容包括鈉離子電池在內的多種電化學儲能體系的基礎能力】盛弘股份近日接受機構調研時表示，公司儲能PCS產品線在設計上採用模組化架構，並支援多分支並聯，直流側電壓適配範圍較寬，可以針對不同電芯體系的電壓區間、充放電特性做相應的引數配置與軟體層面的除錯最佳化，因此從技術架構上看，具備相容包括鈉離子電池在內的多種電化學儲能體系的基礎能力。目前公司已有相關產品實現了與鈉離子電池的匹配出貨，同時也在同步推進鈉電專用PCS產品的規劃工作，並與多家電芯廠商保持著較為深入的技術交流與產品聯合除錯。"
+    },
+    {
+      "id": "5052548",
+      "time": "2026-08-21 22:23:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國一汽明確L4自動駕駛、全固態電池等十大重點技術任務】中國一汽董事長、黨委書記邱現東今日在中國一汽2026年科技大會上表示，中國一汽將明確突破L4自動駕駛技術、新一代智慧座艙與車載智慧體技術、整車作業系統技術、全固態電池技術、車網互動(V2G)技術、車路雲星網融合與智慧交通協同技術、增材智造技術、量子加密與車端資訊保安技術、具身智慧機器人技術、飛行汽車與立體出行技術等十大重點技術任務。 (財聯社）"
+    },
+    {
+      "id": "5052547",
+      "time": "2026-08-21 22:23:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北新建材與大唐環境簽署戰略合作協議】據北新建材訊息，8月20日，北新建材與大唐環境產業集團股份有限公司（簡稱“大唐環境”）在北京簽署戰略合作協議。雙方將重點圍繞燃煤電廠脫硫石膏、粉料砂漿、新材料及綠色低碳轉型升級等方面開展合作，充分發揮各自產業、資源和技術優勢，推動上下游產業鏈協同發展。"
+    },
+    {
+      "id": "5052546",
+      "time": "2026-08-21 22:23:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦銀行董事會批准發行5億美元境外債券。"
+    },
+    {
+      "id": "5052545",
+      "time": "2026-08-21 22:22:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：亞歷克斯·瓊斯桑迪胡克案5000萬美元判決賠償額被降至150萬美元。注：亞歷克斯·瓊斯（Alex Jones）桑迪胡克案是一起美國知名極右翼陰謀論者因長期散佈校園槍擊案是“政府騙局”的謠言，而被受害者家屬起訴並遭鉅額判賠的重大誹謗官司。"
+    },
+    {
+      "id": "5052544",
+      "time": "2026-08-21 22:20:29",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【Tom Lee：預計標普500指數8月底前將重返7900-8000點新高】Fundstrat Global Advisors創始人Tom Lee預計，標普500指數指數將在8月底前重返7900至8000點區間並創下新紀錄。在週五釋出的報告中，Lee列出了推動市場快速反彈的幾大理由。他指出，本月美聯儲沒有議息會議，且7月非農就業報告弱於預期、通脹降溫，這些因素可能改變了市場對近期加息的預期，成為推動指數上漲的催化劑。此外，Lee認為強勁的第二季度財報季、不斷改善的2027年盈利前景，以及他判斷即將結束的人工智慧（AI）相關去槓桿程序，也將為標普500指數提供額外助力。"
+    },
+    {
+      "id": "5052543",
+      "time": "2026-08-21 22:20:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，成本劣勢摺合為約5萬個崗位規模，這並非裁員目標，但為調整提供了大致方向。"
+    },
+    {
+      "id": "mkt:01a024b0-0027-7aab-90d6-b713d070a61e",
+      "time": "2026-08-21 22:18:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada said its minister responsible for U.S.-Canada trade relations has postponed a meeting with U.S. Trade Representative Greer to 11:30 a.m. ET today (23:30 Beijing time)."
+    },
+    {
+      "id": "5052542",
+      "time": "2026-08-21 22:18:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大政府宣告：負責對美貿易事務的加拿大部長與美國貿易代表格里爾的會晤已推遲至美國東部夏令時11:30（格林尼治標準時間15:30）舉行。"
+    },
+    {
+      "id": "5052541",
+      "time": "2026-08-21 22:18:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，其支撐職能部門的管理費用較可比公司高出30%以上。"
+    },
     {
       "id": "5052540",
       "time": "2026-08-21 22:16:57",
