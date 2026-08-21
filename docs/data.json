@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-22 06:37:30",
+  "updated": "2026-08-22 06:41:47",
   "count": 16163,
   "items": [
+    {
+      "id": "te:markets:577373",
+      "time": "2026-08-22 06:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Rises by 4.10% — Top commodity gainers are Rice (4.10%), Rubber (1.27%) and Oat (1.24%). Biggest losers are Wool (-3.26%) and Canola (-2.52%)."
+    },
     {
       "id": "te:markets:577372",
       "time": "2026-08-22 06:35:16",
@@ -147908,17 +147919,6 @@
         "國際"
       ],
       "text": "【印尼發生7.7級地震 已觸發海嘯預警】據印度尼西亞氣象、氣候和地球物理局訊息，當地時間8月15日4時58分，印尼東努沙登加拉省姆拜鎮東北36公里處發生7.7級地震，震源深度15公里，當局釋出海嘯預警。（央視新聞）"
-    },
-    {
-      "id": "te:markets:575552",
-      "time": "2026-08-15 06:40:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Rises by 3.48% — Top commodity gainers are Oat (3.48%) and Wheat (3.26%). Biggest losers are Rice (-1.37%) and Sugar (-1.25%)."
     }
   ]
 }
