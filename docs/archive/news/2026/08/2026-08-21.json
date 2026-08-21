@@ -1,7 +1,100 @@
 {
   "date": "2026-08-21",
-  "count": 2682,
+  "count": 2691,
   "items": [
+    {
+      "id": "5052400",
+      "time": "2026-08-21 20:41:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金短線走低20美元，現報4566.49美元/盎司。美元指數DXY短線走高10點，現報98.76。"
+    },
+    {
+      "id": "mkt:01a02456-b544-7aab-90d4-4cb91ef9317a",
+      "time": "2026-08-21 20:40:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spot gold slipped about $20 intraday to $4,566.49/oz. The dollar index DXY rose 10 points intraday to 98.76."
+    },
+    {
+      "id": "5052399",
+      "time": "2026-08-21 20:40:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：土耳其就以色列攔截駛往加沙援助船隊一事，申請國際刑警對內塔尼亞胡釋出紅色通緝令。"
+    },
+    {
+      "id": "5052398",
+      "time": "2026-08-21 20:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "SovECON預測，俄羅斯2026年糧食產量將為1.326億噸。"
+    },
+    {
+      "id": "te:economy:577288",
+      "time": "2026-08-21 20:39:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "Canada Retail Sales Seen Sharply Lower — Retail sales in Canada are expected to have fallen by 0.8% from the previous month in July, according to flash estimate. Such a decrease would be the sharpest in ten months, erasing the 0.6% jump from June, which was in turn revised higher from the flash estimate of 0.4%. Sales turnover surged for general merchandise retailers (2.7%) and stores selling clothing, accessories, shoes, jewelry, and luggage (3.1%). Meanwhile, sales for motor vehicle and parts dealers, which are commonly volatile and have a large impact from credit conditions, rose by 1%. Conversely, turnover at gasoline stations sunk 4.1%, the first decline in four months, despite a 4.2% increase in volumes as the momentary respite in the war in the Middle East had lowered fuel prices in global wholesale markets. From the previous year, Canadian retail turnover expanded by 5.2%."
+    },
+    {
+      "id": "5052397",
+      "time": "2026-08-21 20:39:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "SovEcon預計俄羅斯2026年小麥產量為8820萬噸。"
+    },
+    {
+      "id": "5052396",
+      "time": "2026-08-21 20:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，霍爾木茲海峽航運流量已降至戰前水平的4%。"
+    },
+    {
+      "id": "mkt:01a02454-8aec-7aab-90d4-40de4f5cb373",
+      "time": "2026-08-21 20:38:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shipping through the Strait of Hormuz has reportedly fallen to 4% of pre-war levels."
+    },
+    {
+      "id": "mkt:01a02453-333a-7aab-90d4-3cd5e090bb0e",
+      "time": "2026-08-21 20:37:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) paid $17 billion to Ireland after a court ruling on back taxes, the Financial Times reports."
+    },
     {
       "id": "5052395",
       "time": "2026-08-21 20:36:32",
