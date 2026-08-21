@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-21 08:04:36",
-  "count": 16033,
+  "updated": "2026-08-21 08:08:42",
+  "count": 16034,
   "items": [
+    {
+      "id": "te:markets:577003",
+      "time": "2026-08-21 08:07:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Heads for Third Straight Weekly Gain — Gold traded above $4,500 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 4% on Wednesday after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Gold held on to those gains even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran. Elsewhere, gold remained supported by robust investment demand and continued central bank purchases, particularly from China."
+    },
+    {
+      "id": "5050903",
+      "time": "2026-08-21 08:06:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數<.AXJO>早盤下跌0.1%，報9072.60點。"
+    },
+    {
+      "id": "mkt:01a021a3-3c0a-7aab-90c3-6d9948c955f4",
+      "time": "2026-08-21 08:05:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Galaxy Securities: supernodes reshape network architecture; favor domestic switch and switch‑chip leaders】Galaxy Securities research: AI-era compute clusters are boosting demand for both front- and back-end networking. 1.6T port switches are expected to ramp from 2027, and WAIC 2026 highlighted supernodes as the dominant architecture. Rapid internal interconnect bandwidth upgrades raise per-switch value and support margins; Scale-Up switches compress latency from microsecond to ~100ns levels, increasing design and validation complexity versus legacy products and sustaining incumbents’ pricing power, creating industry chokepoints that accelerate domestic switch‑chip substitution. With overseas switch leaders' earnings catalysts, the report recommends focusing on leading domestic switch and switch‑chip names."
+    },
+    {
+      "id": "mkt:01a021a2-19ef-7aab-90c3-64b533f07b00",
+      "time": "2026-08-21 08:04:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Korean customs data showed Aug 1-20 exports up 56.0% YoY, imports up 19.0% YoY; trade surplus $13.98bn."
+    },
+    {
+      "id": "mkt:01a021a2-149f-7aab-90c3-5a79c214f5a1",
+      "time": "2026-08-21 08:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Changchun High & New: equity-investee's pan-tumor mRNA vaccine TMT101 in IIT at Peking Union Medical College Hospital】Changchun High & New said on Aug. 20 in an investor call that Baike Biotech has established multiple R&D platforms including an mRNA vaccine platform and is expanding its applications. As of end-June 2026, Baike’s self-developed HSV-2 vaccine is in Phase I. Baike’s equity-investee, Chuanxin Biopharma (Suzhou) — which Baike will acquire up to 100% subject to milestone conditions under the parties’ agreement — is conducting an investigator-initiated trial (IIT) of a pan-tumor mRNA vaccine, TMT101, at Peking Union Medical College Hospital."
+    },
     {
       "id": "5050902",
       "time": "2026-08-21 08:02:57",
@@ -146697,41 +146748,6 @@
         "國際"
       ],
       "text": "【日本財務省前財務官古澤滿宏：日本央行可能於9月加息，隨後於12月或明年1月再次加息】日本財務省前財務官古澤滿宏稱，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。日美協調幹預日元的行動隨時可能再次發生。如果日元再度回到7月底日美聯合干預前的水平，日本和美國可能再次進行干預。日本央行可能於9月加息，隨後於12月或明年1月再次加息。日本央行最終可能希望將利率提高至1.5%-1.75%左右。"
-    },
-    {
-      "id": "5040193",
-      "time": "2026-08-14 08:08:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：隨著國產手術機器人與通用人形機器人的快速發展 行業有望迎來系統性降本】中信證券研報表示，機器人手術效益顯著，是醫學發展新趨勢，但高昂的手術費用導致滲透率長期偏低。中信證券認為隨著國產手術機器人與通用人形機器人的快速發展，行業有望迎來系統性降本，大幅提高滲透率。人形機器人或將從兩個方面推動行業發展：1.帶動上游供應鏈國產化+規模化，惠及下游大幅降本；2.Nature、Science等頂級期刊發表研究，人形機器人或能直接操縱器械進行外科手術，搭配具身智慧、物理世界AI，有望帶來新一輪手術革命。中信證券認為國產機器人有望在全球競爭中脫穎而出，或能孕育千億龍頭，建議關注能降本、有創新的機器人企業。同時中信證券也關注到器械龍頭在該領域的頻繁併購，或將帶來額外投資機遇。"
-    },
-    {
-      "id": "5040192",
-      "time": "2026-08-14 08:05:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部發言人就厄瓜多總統諾沃亞將訪華答記者問】據外交部網站訊息，8月14日，外交部發言人就厄瓜多總統諾沃亞將訪華答記者問。問：中方釋出了厄瓜多總統諾沃亞訪華的訊息，請問中方如何看待當前中厄關係？能否介紹此訪安排和中方期待？答：厄瓜多是拉美重要國家，中國和厄瓜多是全面戰略伙伴。近年來，在兩國元首戰略引領下，中厄關係保持良好發展勢頭，雙方簽署了共建“一帶一路”合作檔案和自由貿易協定，兩國各領域務實合作成果豐碩，人民友好不斷加深。此訪是諾沃亞總統首次對中國進行國事訪問。習近平主席將同諾沃亞總統舉行會談，李強總理、趙樂際委員長將分別同他會見。今年是中厄建立全面戰略伙伴關係十週年。中方期待透過此訪進一步夯實兩國政治互信，賡續傳統友誼，推動中厄全面戰略伙伴關係不斷取得新進展，更好造福兩國人民。"
-    },
-    {
-      "id": "5040191",
-      "time": "2026-08-14 08:05:18",
-      "tags": [
-        "央行",
-        "觀點"
-      ],
-      "text": "【中信證券：下階段央行或繼續加大金融對於實體經濟的支援力度】中信證券研報表示，央行2026年二季度貨政報告對國內經濟定調“穩定執行、向新向優”，國際方面強調對地緣風險和AI發展的關注。貨幣政策層面要求“綜合運用並適時調整貨幣政策工具”，定調略偏積極；流動性方面要求引導短端資金利率圍繞政策利率執行，而降成本層面則提及推動貸款定價基準多元化。總的來看，中信證券認為下階段央行或繼續加大金融對於實體經濟的支援力度。"
-    },
-    {
-      "id": "mkt:019ffd95-cb94-7aab-9030-37b440507753",
-      "time": "2026-08-14 08:04:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ecuador president Daniel Noboa Azín to make state visit to China】China’s Foreign Ministry said Ecuador President Daniel Noboa Azín will make a state visit to China from Aug 16 to Aug 23 at the invitation of CHINA."
     }
   ]
 }

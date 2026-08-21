@@ -1,7 +1,58 @@
 {
   "date": "2026-08-21",
-  "count": 550,
+  "count": 555,
   "items": [
+    {
+      "id": "te:markets:577003",
+      "time": "2026-08-21 08:07:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Heads for Third Straight Weekly Gain — Gold traded above $4,500 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 4% on Wednesday after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Gold held on to those gains even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran. Elsewhere, gold remained supported by robust investment demand and continued central bank purchases, particularly from China."
+    },
+    {
+      "id": "5050903",
+      "time": "2026-08-21 08:06:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數<.AXJO>早盤下跌0.1%，報9072.60點。"
+    },
+    {
+      "id": "mkt:01a021a3-3c0a-7aab-90c3-6d9948c955f4",
+      "time": "2026-08-21 08:05:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Galaxy Securities: supernodes reshape network architecture; favor domestic switch and switch‑chip leaders】Galaxy Securities research: AI-era compute clusters are boosting demand for both front- and back-end networking. 1.6T port switches are expected to ramp from 2027, and WAIC 2026 highlighted supernodes as the dominant architecture. Rapid internal interconnect bandwidth upgrades raise per-switch value and support margins; Scale-Up switches compress latency from microsecond to ~100ns levels, increasing design and validation complexity versus legacy products and sustaining incumbents’ pricing power, creating industry chokepoints that accelerate domestic switch‑chip substitution. With overseas switch leaders' earnings catalysts, the report recommends focusing on leading domestic switch and switch‑chip names."
+    },
+    {
+      "id": "mkt:01a021a2-19ef-7aab-90c3-64b533f07b00",
+      "time": "2026-08-21 08:04:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Korean customs data showed Aug 1-20 exports up 56.0% YoY, imports up 19.0% YoY; trade surplus $13.98bn."
+    },
+    {
+      "id": "mkt:01a021a2-149f-7aab-90c3-5a79c214f5a1",
+      "time": "2026-08-21 08:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Changchun High & New: equity-investee's pan-tumor mRNA vaccine TMT101 in IIT at Peking Union Medical College Hospital】Changchun High & New said on Aug. 20 in an investor call that Baike Biotech has established multiple R&D platforms including an mRNA vaccine platform and is expanding its applications. As of end-June 2026, Baike’s self-developed HSV-2 vaccine is in Phase I. Baike’s equity-investee, Chuanxin Biopharma (Suzhou) — which Baike will acquire up to 100% subject to milestone conditions under the parties’ agreement — is conducting an investigator-initiated trial (IIT) of a pan-tumor mRNA vaccine, TMT101, at Peking Union Medical College Hospital."
+    },
     {
       "id": "5050902",
       "time": "2026-08-21 08:02:57",
