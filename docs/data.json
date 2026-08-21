@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-21 13:26:15",
-  "count": 16016,
+  "updated": "2026-08-21 13:30:11",
+  "count": 16023,
   "items": [
+    {
+      "id": "mkt:01a022cb-49dd-7aab-90c8-e14a994c5154",
+      "time": "2026-08-21 13:29:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yancheng Maritime Safety Administration issued a navigation warning: Aug 28-30, daily 07:00-11:00 and 15:00-19:00 (local time), live-fire exercises will be conducted in parts of the southern Yellow Sea; vessels are prohibited from entering the area."
+    },
+    {
+      "id": "5051309",
+      "time": "2026-08-21 13:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：DAYONE在美國IPO前尋求貸款以資助其在香港的資料中心建設。"
+    },
+    {
+      "id": "5051308",
+      "time": "2026-08-21 13:28:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MLCC概念震盪反彈 國瓷材料漲超10%】午後MLCC概念震盪反彈，國瓷材料漲超10%，斯迪克、火炬電子、博遷新材、三環集團、風華高科漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a022ca-0321-7aab-90c8-dfa614e1779a",
+      "time": "2026-08-21 13:27:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Chongqing to electrify public fleet, promote battery-electric and hydrogen fuel-cell commercial vehicles under 2026–2030 plan】Chongqing municipal government issued its 15th Five-Year (2026–2030) Beautiful Chongqing plan, directing low-carbon upgrades of transport equipment: accelerate new-energy vehicle adoption, electrify public-sector fleets, and promote battery-electric and hydrogen fuel-cell commercial vehicles; construct zero-carbon transport corridors; retire and replace aged commercial vessels and promote new-energy/clean-energy ships; retrofit existing transport infrastructure for energy and carbon reductions and build a batch of low-carbon stations, berths and highway service areas."
+    },
+    {
+      "id": "mkt:01a022c9-ada8-7aab-90c8-d5a6fe94e2c5",
+      "time": "2026-08-21 13:27:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "002714.SZ",
+        "Impact bearish"
+      ],
+      "text": "【Muyuan Foods plans to cut breeding sow herd to below 3.0 million by end-September】Muyuan Foods said on Aug. 20 at its 2026 interim results meeting it plans to reduce its breeding sow herd to below 3.0 million head by end-September, roughly 600,000 head lower than last year’s peak. The company said the reduction responds to national hog capacity controls and aligns with current industry conditions and the government’s long-term pork-sector planning."
+    },
+    {
+      "id": "5051307",
+      "time": "2026-08-21 13:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！黃海南部部分海域進行實彈射擊】鹽城海事局釋出航行警告，8月28日至8月30日，每日7時至11時、15時至19時，黃海南部部分海域內進行實彈射擊，禁止駛入。（中國海事局網站）"
+    },
+    {
+      "id": "5051306",
+      "time": "2026-08-21 13:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢2宗宅地8.35億元成交，最高溢價率49%】8月21日，武漢2宗東湖新技術開發區宅地出讓，總成交金額8.35億元。其中，康橋街住宅專案吸引了多家房企參與競價，經過122輪激烈競價後，最終十堰漢成置業以總價7.43億元斬獲地塊，成交樓面價14738元/㎡，溢價率49%；長嶺住宅專案則由武漢葛化集團以底價0.93億元競得，成交樓面價4978元/㎡。"
+    },
+    {
+      "id": "5051305",
+      "time": "2026-08-21 13:25:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【牧原股份：計劃在9月底將能繁母豬降至300萬頭以下】牧原股份8月20日在2026年半年報交流會上表示，公司積極響應國家生豬產能調控的號召，計劃在9月底將能繁母豬降至300萬頭以下，距離去年的階段性高點下降60萬頭左右。公司認為，這符合當下行業發展的現狀和國家對生豬產業的長期規劃。"
+    },
     {
       "id": "5051304",
       "time": "2026-08-21 13:25:18",
@@ -146692,17 +146764,6 @@
         "焦點"
       ],
       "text": "白銀連續主力合約日內跌3%，現報15561.00元。"
-    },
-    {
-      "id": "mkt:019ffebe-c9a0-7aab-9035-f3c778c5a83f",
-      "time": "2026-08-14 13:29:03",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share banking sector rallied in the afternoon session; Shanghai Rural Commercial Bank rose over 3%, with Shanghai Bank, Suzhou Bank and Chongqing Rural Commercial Bank also higher."
     }
   ]
 }
