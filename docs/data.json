@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-21 08:48:21",
-  "count": 16038,
+  "updated": "2026-08-21 08:52:12",
+  "count": 16033,
   "items": [
+    {
+      "id": "5050940",
+      "time": "2026-08-21 08:51:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【半導體提振韓國經濟增長 央行副行長強調維護物價與金融穩定】韓國央行新任副行長權珉秀在一次演講中表示，韓國經濟面臨複雜挑戰，當前需要採取審慎且靈活的政策決策。根據韓國央行公佈的演講稿，權珉秀表示：“儘管受益於半導體產業的強勁表現，經濟增長好於預期，但通脹率仍高於目標水平，同時以家庭債務和房價為核心的金融失衡風險依然存在”。權珉秀表示，韓國央行將更加忠實地履行維護物價穩定和金融穩定的核心職責，並將持續完善貨幣政策工具及市場溝通機制。"
+    },
+    {
+      "id": "5050939",
+      "time": "2026-08-21 08:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "8月21日，鴻特科技復牌。"
+    },
+    {
+      "id": "5050938",
+      "time": "2026-08-21 08:48:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升4個基點，至2.885%。"
+    },
+    {
+      "id": "mkt:01a021ca-c185-7aab-90c4-3a8ea1c51f0d",
+      "time": "2026-08-21 08:48:50",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year bond yield rose 4 bps to 2.885%."
+    },
+    {
+      "id": "5050937",
+      "time": "2026-08-21 08:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國財長：韓國將密切關注長期利率上升的影響。"
+    },
+    {
+      "id": "5050936",
+      "time": "2026-08-21 08:48:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中阿將舉行“獵鷹盾牌-2026”空軍聯合訓練】據國防部發布訊息，8月下旬至9月中旬，中國與阿聯酋兩國空軍將在新疆和田舉行中阿“獵鷹盾牌-2026”空軍聯合訓練，開展指揮推演、飛行訓練、實兵混編演練等活動。此係中阿兩國空軍第4次舉辦該系列聯訓，旨在提升參訓部隊技戰術水平，深化兩軍傳統友誼與務實合作。"
+    },
     {
       "id": "mkt:01a021c9-a333-7aab-90c4-3136c802e570",
       "time": "2026-08-21 08:47:37",
@@ -146690,108 +146742,6 @@
         "公司"
       ],
       "text": "中芯國際聯合執行長趙海軍：預計第三季度晶圓出貨量將繼續上升，價格保持穩定。"
-    },
-    {
-      "id": "te:markets:575220",
-      "time": "2026-08-14 08:52:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Poised for First Weekly Pullback in 3 Weeks — Australian shares dipped 67 points or 0.7% to 9,120 on Friday morning, down for the third session to hit their lowest in over a week. The tug of war between the U.S. and Iran over the Strait of Hormuz continued to weigh on sentiment, with US Treasury Secretary Bessent warning of unprecedented measures against Iran, promising “economic isolation like the world has never seen”. Locally, caution grew ahead of Q2 home loan data after the prior reading showed a 4.3% drop qoq, highlighting the impact of elevated interest rates. Meanwhile, July labor market data will be released next week following a steady jobless rate in June. Most sectors fell, led by tech, non-energy minerals, industries, and transport. Heavyweight BHP Group and Evolution Mining dipped 3.3%, respectively, while Northern Star Resources dropped 2.7%. QBE Insurance plunged 5.1% following a modest rise in H1 profits. For the week, markets are set to post their first weekly drop in three weeks, retreating around 1.5% so far."
-    },
-    {
-      "id": "mkt:019ffdc1-1e55-7aab-9030-be8317f4db7d",
-      "time": "2026-08-14 08:51:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "981.HK",
-        "Impact bullish"
-      ],
-      "text": "SMIC co-CEO Zhao Haijun said Q2 gross margin was strong, driven by higher average selling prices (ASPs) and stronger‑than‑expected utilization."
-    },
-    {
-      "id": "5040238",
-      "time": "2026-08-14 08:51:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "中芯國際高管：二季度毛利率強勁，得益於平均售價上升及產能利用率優於預期。"
-    },
-    {
-      "id": "mkt:019ffdc0-8e62-7aab-9030-b5cd8d18e90a",
-      "time": "2026-08-14 08:51:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SMIC co-CEO Zhao Haijun said AI-driven industry momentum and spillover effects will continue to drive broad demand for integrated circuit manufacturing in H2."
-    },
-    {
-      "id": "5040237",
-      "time": "2026-08-14 08:50:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率下跌1.5個基點，至2.105%。"
-    },
-    {
-      "id": "5040236",
-      "time": "2026-08-14 08:50:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "中芯國際高管：下半年，人工智慧產生的產業推動與溢位效應還將繼續為積體電路製造帶來廣泛需求。"
-    },
-    {
-      "id": "5040235",
-      "time": "2026-08-14 08:49:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "中芯國際聯合執行長：人工智慧將在下半年繼續拉動晶片製造產能需求。"
-    },
-    {
-      "id": "mkt:019ffdbe-cd20-7aab-9030-a9b5bb970b7e",
-      "time": "2026-08-14 08:49:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot silver slid to $64/oz, down 0.74% intraday."
-    },
-    {
-      "id": "mkt:019ffdbe-83a8-7aab-9030-a669acf4497d",
-      "time": "2026-08-14 08:49:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell below $4,330/oz, down 0.48% on the day."
-    },
-    {
-      "id": "5040234",
-      "time": "2026-08-14 08:48:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4390美元/盎司，日內跌0.78%。"
-    },
-    {
-      "id": "5040233",
-      "time": "2026-08-14 08:48:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報64.33美元/盎司。"
     }
   ]
 }
