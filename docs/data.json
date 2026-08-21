@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-22 01:53:07",
+  "updated": "2026-08-22 01:57:17",
   "count": 16193,
   "items": [
+    {
+      "id": "5052664",
+      "time": "2026-08-22 01:56:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：房利美至少已有 10 名高階官員離職。"
+    },
+    {
+      "id": "5052663",
+      "time": "2026-08-22 01:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗學生通訊社（ISNA）報道，伊朗議會議長卡利巴夫表示，伊朗 “從不干涉伊拉克內政”。他補充稱，德黑蘭方面願同地區國家開展合作，透過區域協作構建可持續安全格局。卡利巴夫結束對伊拉克為期三天的訪問，於週五返回德黑蘭。"
+    },
+    {
+      "id": "5052662",
+      "time": "2026-08-22 01:54:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：沃爾瑪即將支援 Google Pay 點選支付功能。"
+    },
     {
       "id": "5052661",
       "time": "2026-08-22 01:51:46",
@@ -148320,36 +148344,6 @@
         "公司"
       ],
       "text": "市場訊息：智利國家銅業公司（Codelco）將關停丘基卡馬塔銅礦與阿萊斯部長銅礦。"
-    },
-    {
-      "id": "mkt:01a00169-e45e-7aab-9044-1d1076cef6c9",
-      "time": "2026-08-15 01:55:11",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Cboe VIX continued to fall, touching an intrday low not seen since Dec. 30 last year."
-    },
-    {
-      "id": "mkt:01a00168-4dcf-7aab-9044-153f041a6bc7",
-      "time": "2026-08-15 01:53:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "An official Indian order says India will cut the diesel export windfall tax to 24 rupees per litre from 25.5 rupees per litre, effective Aug. 15."
-    },
-    {
-      "id": "mkt:01a00168-26ce-7aab-9044-089d494a9555",
-      "time": "2026-08-15 01:53:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India ordered a cut in the export windfall tax on aviation turbine fuel to 19.5 rupees per litre from 22 rupees per litre, effective Aug. 15."
     }
   ]
 }
