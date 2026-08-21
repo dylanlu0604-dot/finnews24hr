@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 02:33:40",
-  "count": 16180,
+  "updated": "2026-08-22 02:37:36",
+  "count": 16181,
   "items": [
+    {
+      "id": "5052675",
+      "time": "2026-08-22 02:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業專業刊物 Pro Farmer 實地調研後預估：2026 年美國大豆總產量 45.72 億蒲式耳（美國農業部 USDA 預估 45.19 億蒲式耳），平均單產 53.3 蒲式耳 / 英畝。"
+    },
+    {
+      "id": "5052674",
+      "time": "2026-08-22 02:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業專業刊物 Pro Farmer 實地調研後預估：2026 年美國玉米總產量為 153.44 億蒲式耳（美國農業部 USDA 預估為 160.13 億蒲式耳），平均單產 173.2 蒲式耳 / 英畝。"
+    },
     {
       "id": "5052673",
       "time": "2026-08-22 02:31:07",
@@ -148223,14 +148239,6 @@
         "Impact bullish"
       ],
       "text": "Waymo, Alphabet’s autonomous driving unit, said the California Public Utilities Commission approved expansion of its driverless ride-hailing service in San Francisco and Los Angeles."
-    },
-    {
-      "id": "5041895",
-      "time": "2026-08-15 02:36:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
     }
   ]
 }
