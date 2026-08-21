@@ -1,7 +1,86 @@
 {
   "date": "2026-08-21",
-  "count": 827,
+  "count": 835,
   "items": [
+    {
+      "id": "mkt:01a02211-3ce0-7aab-90c6-217fc2ae988d",
+      "time": "2026-08-21 10:05:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Front-month Europe-route container shipping index rose more than 9.0% intraday to 1,912.0 points."
+    },
+    {
+      "id": "5051087",
+      "time": "2026-08-21 10:05:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【3D列印概念震盪回升 南風股份漲超15%】3D列印概念盤中震盪回升，南風股份漲超15%，銀禧科技、華民股份、銳科鐳射、斯瑞新材、華曙高科、東睦股份、銀邦股份等跟漲。"
+    },
+    {
+      "id": "5051086",
+      "time": "2026-08-21 10:05:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲9%，現報1912.00點。"
+    },
+    {
+      "id": "5051085",
+      "time": "2026-08-21 10:05:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃山燕升任lululemon中國及亞太區總裁】從lululemon方面獲悉，中國區董事總經理黃山燕已升任中國及亞太區總裁。同時，Jeffrey Hang正式加入lululemon，擔任亞太區高階副總裁兼董事總經理。記者瞭解到，履新後，黃山燕將負責推動中國及亞太市場的戰略發展。（介面新聞）"
+    },
+    {
+      "id": "mkt:01a0220f-662f-7aab-90c6-1ddb4a815b6c",
+      "time": "2026-08-21 10:03:49",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics plans to hold a board meeting on Friday afternoon to discuss a new shareholder-return plan."
+    },
+    {
+      "id": "mkt:01a0220f-5fc6-7aab-90c6-167e041745b8",
+      "time": "2026-08-21 10:03:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "688256.SS",
+        "Impact bullish"
+      ],
+      "text": "China's Sci-Tech Innovation Board 50 Index rose 1%; constituent Cambricon gained over 4%."
+    },
+    {
+      "id": "te:markets:577044",
+      "time": "2026-08-21 10:03:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Remains Near Multi-Year Highs — European natural gas prices slipped below €65 per MWh on Friday but remained near their highest level since January 2023, as the stalemate in the US-Iran conflict muddied the outlook for Gulf LNG supplies. The two sides continued to clash over the Strait of Hormuz, with the conflict entering a new phase of economic pressure. Traders are concerned about Europe’s readiness for the upcoming winter as the maritime blockade has stranded Qatari LNG cargoes, forcing European utilities into more intense and costly competition with Asian buyers for available cargoes. Heatwave-driven demand for cooling is also limiting gas injections into storage. Europe's storage levels are at just 62%, the lowest seasonal level in records dating back to 2009, leaving the region with limited time to replenish inventories before the heating season begins. Despite this, the European Commission said that gas supplies in the bloc are not immediately at risk. Prices are up more than 5% this week."
+    },
+    {
+      "id": "5051084",
+      "time": "2026-08-21 10:03:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.06%，成分股中，華潤微漲6.89%，寒武紀漲4.16%，盛科通訊漲3.39%，源傑科技漲3.24%。"
+    },
     {
       "id": "5051083",
       "time": "2026-08-21 10:01:48",
