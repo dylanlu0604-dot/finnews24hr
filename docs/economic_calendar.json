@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-21 09:56:09",
+  "updated": "2026-08-21 10:00:04",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 434,
+  "count": 436,
   "history_summary": {
     "cached": 434,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 266,
+      "count": 268,
       "dates": [
         {
           "date": "2026-08-17",
@@ -12399,8 +12399,124 @@
         },
         {
           "date": "2026-08-21",
-          "count": 48,
+          "count": 50,
           "events": [
+            {
+              "id": "capital:1185220",
+              "fid": "1185220",
+              "interval": "this_week",
+              "date": "2026-08-21",
+              "time": "00:00",
+              "datetime": "2026-08-21 00:00:00",
+              "display_time": "08/21 00:00",
+              "country": "中國",
+              "title": "中國7月全社會用電量(億千瓦時)",
+              "importance": 2,
+              "previous": "8981",
+              "forecast": "--",
+              "actual": "10400",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185220",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "8981",
+                  "forecast": "-",
+                  "previous": "8671"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "8671",
+                  "forecast": "-",
+                  "previous": "8205"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "8205",
+                  "forecast": "-",
+                  "previous": "8595"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "8595",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "8356",
+                  "forecast": "-",
+                  "previous": "8572"
+                },
+                {
+                  "date": "11/21",
+                  "actual": "8572",
+                  "forecast": "-",
+                  "previous": "8886"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-21 10:00:02"
+            },
+            {
+              "id": "capital:1185219",
+              "fid": "1185219",
+              "interval": "this_week",
+              "date": "2026-08-21",
+              "time": "00:00",
+              "datetime": "2026-08-21 00:00:00",
+              "display_time": "08/21 00:00",
+              "country": "中國",
+              "title": "中國7月全社會用電量同比",
+              "importance": 3,
+              "previous": "3.7 %",
+              "forecast": "-- %",
+              "actual": "1.7 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185219",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "3.7",
+                  "forecast": "-",
+                  "previous": "6.9"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "6.9",
+                  "forecast": "-",
+                  "previous": "6"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "6",
+                  "forecast": "-",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "3.5",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "6.2",
+                  "forecast": "-",
+                  "previous": "10.4"
+                },
+                {
+                  "date": "11/21",
+                  "actual": "10.4",
+                  "forecast": "-",
+                  "previous": "4.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-21 10:00:02"
+            },
             {
               "id": "capital:1185230",
               "fid": "1185230",
@@ -37511,6 +37627,122 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-09 00:08:28"
+    },
+    {
+      "id": "capital:1185220",
+      "fid": "1185220",
+      "interval": "this_week",
+      "date": "2026-08-21",
+      "time": "00:00",
+      "datetime": "2026-08-21 00:00:00",
+      "display_time": "08/21 00:00",
+      "country": "中國",
+      "title": "中國7月全社會用電量(億千瓦時)",
+      "importance": 2,
+      "previous": "8981",
+      "forecast": "--",
+      "actual": "10400",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185220",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "8981",
+          "forecast": "-",
+          "previous": "8671"
+        },
+        {
+          "date": "06/18",
+          "actual": "8671",
+          "forecast": "-",
+          "previous": "8205"
+        },
+        {
+          "date": "05/19",
+          "actual": "8205",
+          "forecast": "-",
+          "previous": "8595"
+        },
+        {
+          "date": "04/20",
+          "actual": "8595",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "8356",
+          "forecast": "-",
+          "previous": "8572"
+        },
+        {
+          "date": "11/21",
+          "actual": "8572",
+          "forecast": "-",
+          "previous": "8886"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-21 10:00:02"
+    },
+    {
+      "id": "capital:1185219",
+      "fid": "1185219",
+      "interval": "this_week",
+      "date": "2026-08-21",
+      "time": "00:00",
+      "datetime": "2026-08-21 00:00:00",
+      "display_time": "08/21 00:00",
+      "country": "中國",
+      "title": "中國7月全社會用電量同比",
+      "importance": 3,
+      "previous": "3.7 %",
+      "forecast": "-- %",
+      "actual": "1.7 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185219",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "3.7",
+          "forecast": "-",
+          "previous": "6.9"
+        },
+        {
+          "date": "06/18",
+          "actual": "6.9",
+          "forecast": "-",
+          "previous": "6"
+        },
+        {
+          "date": "05/19",
+          "actual": "6",
+          "forecast": "-",
+          "previous": "3.5"
+        },
+        {
+          "date": "04/20",
+          "actual": "3.5",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "6.2",
+          "forecast": "-",
+          "previous": "10.4"
+        },
+        {
+          "date": "11/21",
+          "actual": "10.4",
+          "forecast": "-",
+          "previous": "4.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-21 10:00:02"
     },
     {
       "id": "capital:1185230",
