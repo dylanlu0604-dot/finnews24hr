@@ -1,7 +1,45 @@
 {
   "date": "2026-08-22",
-  "count": 46,
+  "count": 50,
   "items": [
+    {
+      "id": "mkt:01a02530-fddf-7aab-90d8-c08b7793c9b9",
+      "time": "2026-08-22 00:39:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold breached $4,620/oz, up 2.23% intraday."
+    },
+    {
+      "id": "5052631",
+      "time": "2026-08-22 00:39:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4620美元/盎司，日內漲2.25%。"
+    },
+    {
+      "id": "mkt:01a0252e-c8c8-7aab-90d8-be3f81e35dd2",
+      "time": "2026-08-22 00:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department approved sale to South Korea of AIM-9X Sidewinder Block II tactical missiles and related equipment, estimated value $125 million."
+    },
+    {
+      "id": "5052630",
+      "time": "2026-08-22 00:36:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准擬向韓國出售 AIM‑9X “響尾蛇” Block II 戰術導彈及相關裝置，預估金額 1.25 億美元。"
+    },
     {
       "id": "mkt:01a0252d-991a-7aab-90d8-b4a079d866d9",
       "time": "2026-08-22 00:35:40",
