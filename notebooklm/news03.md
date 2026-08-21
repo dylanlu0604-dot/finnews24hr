@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 01:40:37_
-_本檔包含 3387 則快訊，約 657766 字_
+_更新時間：2026-08-22 02:01:15_
+_本檔包含 3387 則快訊，約 657169 字_
+
+---
+
+### 2026-08-20 01:09:10  #MKT News
+
+Sources said this was the first call between Syria's top diplomat and Israel's top foreign-intelligence official since Roman Gofman took office in June.
+
+---
+
+### 2026-08-20 01:08:54  #國際
+
+敘利亞最高外交官與以色列最高對外情報官員自去年6月以色列官員上任以來首次進行通話。
+
+---
+
+### 2026-08-20 01:08:50  #MKT News
+
+Sources said the new Mossad director, Roman Gofman, held a phone call with Syrian foreign minister Assad Shebani on Aug. 14 to discuss Turkey's military presence in Syria.
+
+---
+
+### 2026-08-20 01:08:32  #國際
+
+訊息人士稱，8月14日，以色列新任摩薩德局長羅曼·戈夫曼與敘利亞外交部長阿薩德·謝巴尼通電話，雙方討論了土耳其在敘利亞的軍事駐紮問題。
+
+---
+
+### 2026-08-20 01:07:23  #國際
+
+伊朗議長卡利巴夫：伊朗與伊拉克具備在本地區創造空前機遇的潛力。
+
+---
+
+### 2026-08-20 01:04:17  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 20-year Treasury yield was little changed after the auction, edging down 7.42 bps to 5.205%.
+
+---
+
+### 2026-08-20 01:03:27  #市場 #國際
+
+美國20年期國債中標收益率5.204%，高於拍賣前預發行（WI）收益率5.199%。
+
+---
+
+### 2026-08-20 01:03:07  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US 20-year Treasury auction on Aug. 19 — stop-out yield 5.204%, prior 5.16%.
+
+---
+
+### 2026-08-20 01:03:06  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. 20-year Treasury auction as of Aug 19: share allocated at the stop-out yield 65.58%, prior 15.13%.
+
+---
+
+### 2026-08-20 01:02:55  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction Accepted at High (Aug.19) | actual 65.58% | previous 15.13%
+
+---
+
+### 2026-08-20 01:02:49  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction High Yield Rate (Aug.19) | actual 5.204% | previous 5.16%
+
+---
+
+### 2026-08-20 01:02:45  #MKT News #US10Y #Impact bearish
+
+U.S. 20-year Treasury auction bid-cover ratio 2.53 as of Aug. 19; prior 2.64.
+
+---
+
+### 2026-08-20 01:02:36  #MKT News #Economic Calendar
+
+United States | 20-Year Bond Auction Bid/Cover Ratio (Aug.19) | actual 2.53 | previous 2.64
+
+---
+
+### 2026-08-20 01:00:24  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
+
+【Venezuela steps up oil licensing push, offers 916 blocks for production-sharing deals】Venezuela’s oil minister Paola Enau told investors in Houston Caracas seeks to sign production-sharing contracts to raise output from the country with the world’s largest crude reserves. She said 916 exploration and production blocks are available and that Venezuela must conclude such agreements to access the new blocks. This week Caracas signed deals with Schlumberger (SLB.N) and Hunt Oil; about 140 companies attended the investor session as Venezuela seeks more private investment to reverse a roughly 20-year decline in oil production.
+
+---
+
+### 2026-08-20 01:00:22  #市場 #國際
+
+美國國債20年期收益率在160億美元拍賣前為5.199%。
+
+---
+
+### 2026-08-20 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.40%，滬銅收漲0.23%，滬鋁收跌0.23%，滬鋅收跌0.16%，滬鉛收漲0.19%，滬鎳收漲1.89%，滬錫收漲0.92%。氧化鋁夜盤收漲0.34%，鋁合金收漲0.37%。不鏽鋼夜盤收漲0.84%。
+
+---
+
+### 2026-08-20 01:00:01  #公司
+
+環球音樂集團：蘋果公司與環球音樂集團宣佈達成標誌性全球電子商務與周邊商品合作，合作範圍涉及披頭士樂隊相關業務。
+
+---
+
+### 2026-08-20 00:59:52  #公司
+
+環球音樂集團：蘋果公司與環球音樂集團宣佈達成披頭士樂隊全球電子商務及周邊商品合作關係。
+
+---
+
+### 2026-08-20 00:59:08  #MKT News
+
+【Trump expects to meet Kim Jong Un later this year】U.S. President Trump told reporters at the White House on the 19th he expects to meet North Korean leader Kim Jong Un later this year. When asked about an autumn meeting he replied in the affirmative and said he knows Kim well and gets along with him.
 
 ---
 
@@ -20295,119 +20409,5 @@ META PLATFORMS股價觸及兩週多來低點，最新報跌3.8%。
 ### 2026-08-18 22:23:11  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
 
 Meta Platforms (META.O) shares hit a two-week low, trading down 3.8%.
-
----
-
-### 2026-08-18 22:22:20  #市場
-
-家得寶股價上漲1%，因第二季度業績超出預期。
-
----
-
-### 2026-08-18 22:22:04  #其他
-
-法國財長：法國將於下週起通知企業有關資料洩露事件的資訊。
-
----
-
-### 2026-08-18 22:22:00  #MKT News #HD.N #Impact bullish
-
-Home Depot (HD.N) shares rose 1% after second-quarter results beat expectations.
-
----
-
-### 2026-08-18 22:21:43  #其他
-
-法國預算部長阿米爾就稅務資料洩露事件發表講話。
-
----
-
-### 2026-08-18 22:18:17  #MKT News #Market Themes #China EV Leaders #DAX #Impact bullish
-
-【Volkswagen Anhui rolls out 100,000th smart EV in Hefei】Aug 18 — Volkswagen (Anhui) Co. rolled out its 100,000th smart electric vehicle in Hefei. The milestone marks Volkswagen Group’s first China joint venture dedicated to new-energy vehicles (NEVs) entering scaled production and a full product-matrix phase, bolstering Hefei’s NEV industrial cluster.
-
----
-
-### 2026-08-18 22:18:05  #MKT News
-
-Documents show Ecuadorian diplomat Ivonne Baki has been nominated as a candidate for United Nations secretary-general.
-
----
-
-### 2026-08-18 22:17:53  #其他
-
-加拿大不列顛哥倫比亞省發行6億加元2057年期債券，較基準利差+84.5個基點。
-
----
-
-### 2026-08-18 22:17:23  #其他
-
-厄瓜多外交官伊馮娜·巴基被提名為聯合國秘書長候選人。
-
----
-
-### 2026-08-18 22:16:09  #公司
-
-【大眾安徽第10萬輛智慧電動汽車在合肥下線】8月18日，大眾汽車（安徽）有限公司第10萬輛智慧電動汽車在合肥正式下線，標誌著這家大眾集團在華首家專注新能源汽車的合資企業邁入規模化生產、全矩陣佈局新階段，也為合肥新能源汽車產業叢集發展再添堅實支撐。（新華社）
-
----
-
-### 2026-08-18 22:14:43  #MKT News #Market Themes #AI Revolution
-
-The US Food and Drug Administration (FDA) set Oct. 19 as the deadline for comments on its framework for generative AI medical devices.
-
----
-
-### 2026-08-18 22:14:34  #國際
-
-美國FDA將10月19日定為生成式AI裝置框架意見徵集截止日期。
-
----
-
-### 2026-08-18 22:13:36  #MKT News
-
-The U.S. Food and Drug Administration (FDA) is seeking public comment on regulatory oversight of generative AI in medical devices.
-
----
-
-### 2026-08-18 22:13:28  #其他
-
-馬斯克：星艦第13次飛行任務正在從海上回收。
-
----
-
-### 2026-08-18 22:13:28  #MKT News
-
-Elon Musk said Starship's 13th flight is being recovered from the sea.
-
----
-
-### 2026-08-18 22:13:21  #國際
-
-美國食品藥品監督管理局就生成式AI醫療裝置相關法規徵集公眾意見。
-
----
-
-### 2026-08-18 22:12:31  #MKT News
-
-【Think-tank: Iran likely to pair diplomacy with deterrence post-war; US containment may backfire】Ross Harrison, senior fellow at the U.S. Middle East Institute, says Iran’s post-war foreign policy is unlikely to revert to total isolation or to rapidly follow a Vietnam-style full integration. Economic realities make decades-long, gradual change more likely than a near-term transformation. The more probable outcome is a dual-track strategy: engaging diplomatically with Gulf Arab states while keeping military coercion — missile threats and the option to close the Strait of Hormuz — as leverage. The 2025–26 wars have weakened Iran and unsettled neighbors, prompting some Gulf capitals to privately reassess long-term reliance on U.S. security and consider hedging with Tehran. Washington’s instinct to tighten containment by arming Israel and Gulf partners could validate Tehran’s worst-case expectations and risk provoking further attacks on Gulf states. Harrison argues policymakers should leave space for Iranian regional diplomacy and evaluate whether such moves produce more constructive behavior rather than judging them solely on whether they solve all underlying issues.
-
----
-
-### 2026-08-18 22:11:27  #MKT News #WTI #Impact bullish #DXY
-
-Russian presidential aide Ushakov said Russia rules out the possibility of freezing the Russia-Ukraine conflict along the contact line.
-
----
-
-### 2026-08-18 22:11:18  #市場
-
-鈀金期貨日內跌3%，現報1295.50美元/盎司。
-
----
-
-### 2026-08-18 22:10:49  #其他
-
-【iQOO Neo11至尊版釋出：搭載2K屏與9100mAh電池，國補到手價2899元起】iQOO Neo11 至尊版正式釋出，國補後到手價 2899 元起。iQOO Neo11 至尊版行業首發天璣 9500M 旗艦芯，由 iQOO 與 MediaTek 深度聯合定製，採用臺積電第三代 3nm 製程和全大核 CPU 架構，搭配全系 LPDDR5X Ultra 和 UFS 4.1，攜手新一代 Monster 超核引擎；新機首發 iQOO 第三代 3D VC，助力全新 8K 冰穹 VC 均熱板均熱效能提升 5%；天璣 9500 M 攜手自研電競晶片 Q2，帶來 2K+144FPS 超分超幀併發、原畫級2K 紋理超分和原生級144FPS 超幀。（新浪科技）
 
 ---

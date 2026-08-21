@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 01:40:37_
-_本檔包含 3327 則快訊，約 657938 字_
+_更新時間：2026-08-22 02:01:15_
+_本檔包含 3333 則快訊，約 657875 字_
+
+---
+
+### 2026-08-18 22:22:20  #市場
+
+家得寶股價上漲1%，因第二季度業績超出預期。
+
+---
+
+### 2026-08-18 22:22:04  #其他
+
+法國財長：法國將於下週起通知企業有關資料洩露事件的資訊。
+
+---
+
+### 2026-08-18 22:22:00  #MKT News #HD.N #Impact bullish
+
+Home Depot (HD.N) shares rose 1% after second-quarter results beat expectations.
+
+---
+
+### 2026-08-18 22:21:43  #其他
+
+法國預算部長阿米爾就稅務資料洩露事件發表講話。
+
+---
+
+### 2026-08-18 22:18:17  #MKT News #Market Themes #China EV Leaders #DAX #Impact bullish
+
+【Volkswagen Anhui rolls out 100,000th smart EV in Hefei】Aug 18 — Volkswagen (Anhui) Co. rolled out its 100,000th smart electric vehicle in Hefei. The milestone marks Volkswagen Group’s first China joint venture dedicated to new-energy vehicles (NEVs) entering scaled production and a full product-matrix phase, bolstering Hefei’s NEV industrial cluster.
+
+---
+
+### 2026-08-18 22:18:05  #MKT News
+
+Documents show Ecuadorian diplomat Ivonne Baki has been nominated as a candidate for United Nations secretary-general.
+
+---
+
+### 2026-08-18 22:17:53  #其他
+
+加拿大不列顛哥倫比亞省發行6億加元2057年期債券，較基準利差+84.5個基點。
+
+---
+
+### 2026-08-18 22:17:23  #其他
+
+厄瓜多外交官伊馮娜·巴基被提名為聯合國秘書長候選人。
+
+---
+
+### 2026-08-18 22:16:09  #公司
+
+【大眾安徽第10萬輛智慧電動汽車在合肥下線】8月18日，大眾汽車（安徽）有限公司第10萬輛智慧電動汽車在合肥正式下線，標誌著這家大眾集團在華首家專注新能源汽車的合資企業邁入規模化生產、全矩陣佈局新階段，也為合肥新能源汽車產業叢集發展再添堅實支撐。（新華社）
+
+---
+
+### 2026-08-18 22:14:43  #MKT News #Market Themes #AI Revolution
+
+The US Food and Drug Administration (FDA) set Oct. 19 as the deadline for comments on its framework for generative AI medical devices.
+
+---
+
+### 2026-08-18 22:14:34  #國際
+
+美國FDA將10月19日定為生成式AI裝置框架意見徵集截止日期。
+
+---
+
+### 2026-08-18 22:13:36  #MKT News
+
+The U.S. Food and Drug Administration (FDA) is seeking public comment on regulatory oversight of generative AI in medical devices.
+
+---
+
+### 2026-08-18 22:13:28  #其他
+
+馬斯克：星艦第13次飛行任務正在從海上回收。
+
+---
+
+### 2026-08-18 22:13:28  #MKT News
+
+Elon Musk said Starship's 13th flight is being recovered from the sea.
+
+---
+
+### 2026-08-18 22:13:21  #國際
+
+美國食品藥品監督管理局就生成式AI醫療裝置相關法規徵集公眾意見。
+
+---
+
+### 2026-08-18 22:12:31  #MKT News
+
+【Think-tank: Iran likely to pair diplomacy with deterrence post-war; US containment may backfire】Ross Harrison, senior fellow at the U.S. Middle East Institute, says Iran’s post-war foreign policy is unlikely to revert to total isolation or to rapidly follow a Vietnam-style full integration. Economic realities make decades-long, gradual change more likely than a near-term transformation. The more probable outcome is a dual-track strategy: engaging diplomatically with Gulf Arab states while keeping military coercion — missile threats and the option to close the Strait of Hormuz — as leverage. The 2025–26 wars have weakened Iran and unsettled neighbors, prompting some Gulf capitals to privately reassess long-term reliance on U.S. security and consider hedging with Tehran. Washington’s instinct to tighten containment by arming Israel and Gulf partners could validate Tehran’s worst-case expectations and risk provoking further attacks on Gulf states. Harrison argues policymakers should leave space for Iranian regional diplomacy and evaluate whether such moves produce more constructive behavior rather than judging them solely on whether they solve all underlying issues.
+
+---
+
+### 2026-08-18 22:11:27  #MKT News #WTI #Impact bullish #DXY
+
+Russian presidential aide Ushakov said Russia rules out the possibility of freezing the Russia-Ukraine conflict along the contact line.
+
+---
+
+### 2026-08-18 22:11:18  #市場
+
+鈀金期貨日內跌3%，現報1295.50美元/盎司。
+
+---
+
+### 2026-08-18 22:10:49  #其他
+
+【iQOO Neo11至尊版釋出：搭載2K屏與9100mAh電池，國補到手價2899元起】iQOO Neo11 至尊版正式釋出，國補後到手價 2899 元起。iQOO Neo11 至尊版行業首發天璣 9500M 旗艦芯，由 iQOO 與 MediaTek 深度聯合定製，採用臺積電第三代 3nm 製程和全大核 CPU 架構，搭配全系 LPDDR5X Ultra 和 UFS 4.1，攜手新一代 Monster 超核引擎；新機首發 iQOO 第三代 3D VC，助力全新 8K 冰穹 VC 均熱板均熱效能提升 5%；天璣 9500 M 攜手自研電競晶片 Q2，帶來 2K+144FPS 超分超幀併發、原畫級2K 紋理超分和原生級144FPS 超幀。（新浪科技）
 
 ---
 
@@ -20002,83 +20116,5 @@ South African Rand Remains Firm — The South African rand traded around 16.2 pe
 ### 2026-08-17 17:57:43  #其他
 
 【國際基礎科學大會基礎科學創新學者2026年度入選名單揭曉】2026年8月17日，澎湃新聞從國際基礎科學大會（ICBS）主辦方獲悉，2026國際基礎科學大會“基礎科學創新學者”（ICBS Innovation Fellowship）評選結果揭曉，來自中外的11位學者入選。經過兩輪嚴格評審，根據申請人研究履歷、專家推薦信及科研專案方案，評審委員會最終從初選候選人中，遴選出11位優秀學者，入選本年度“基礎科學創新學者”支援計劃。入選學者研究領域廣泛，覆蓋幾何、代數幾何、數論、計算數學、量子場論、量子引力、中微子實驗物理、幾何影象的醫學應用、最佳化問題及人工智慧與精細證明等基礎與前沿交叉方向。（澎湃）
-
----
-
-### 2026-08-17 17:57:43  #MKT News #00175.HK #Impact bullish
-
-【Geely Holding Group CEO An Conghui: group to continue closing/transferring redundant units and projects】At Geely Automobile’s (00175.HK) interim results, Geely Holding Group CEO An Conghui said the group will in H2 continue to streamline operations and strategic allocation, improve system-wide synergies, reduce unnecessary intra-group transactions and construction, and close or transfer redundant companies and projects. He said the group will also fold more valuable existing and incubating projects into Geely Auto Group.
-
----
-
-### 2026-08-17 17:57:04  #MKT News #Market Regions #Japan & APAC #HMC.N #Impact bullish
-
-Honda Motor (HMC.N) to resume vehicle production at its Saitama, Suzuka and Yokkaichi plants from Aug. 20.
-
----
-
-### 2026-08-17 17:56:27  #MKT News
-
-【Kim Min-sik elected leader of South Korea's ruling Democratic Party】The ruling Democratic Party held a national congress in Daejeon on the 17th and elected former prime minister Kim Min-sik as its new leader. His two-year term gives him control over candidate nominations for the 2028 National Assembly elections and will materially affect the Lee Jae-myung administration's governance and the party's internal power balance.
-
----
-
-### 2026-08-17 17:56:00  #公司
-
-【瑞豐光電：2026年半年度營收10.73億元 同比增27.47%】瑞豐光電公告稱，2026年半年度實現營業收入10.73億元，同比增長27.47%；歸母淨利潤5372.67萬元，同比增長73.86%；扣非歸母淨利潤4468.42萬元，同比增長170.19%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 17:55:55  #公司
-
-【福華尚緯：持股5%以上股東李廣元提前完成1%股份減持】福華尚緯公告稱，截至2026年8月17日，持股5%以上股東李廣元透過集中競價方式累計減持公司股份621.52萬股，減持比例達1%，減持總金額5781.95萬元，本次減持計劃提前實施完畢。權益變動後，李廣元及其一致行動人合計持股比例從8.98%降至7.98%，本次減持未違反相關規則及承諾，不觸發要約收購，不會導致公司實控人變更。
-
----
-
-### 2026-08-17 17:55:54  #其他
-
-【支付寶：“阿寶”已完成萬餘項服務AI化接入，服務跨端已支援5大手機品牌、16家主流車企】支付寶生態合作伙伴大會在杭州召開。螞蟻數科Agentar生態版提供超200項面向商家高頻場景的專業技能包以及數字專家智慧體，還支援基於模板的定製開發、一鍵接入“阿寶”生態。針對高階複合需求，平臺A2A多智慧體協同能力可聯動多商家智慧體組合服務、協同履約。支付寶新底座還標配了跨端連線能力，商家一次適配即可透過“阿寶”將服務分發至手機、車機、AI眼鏡、IoT及大模型應用等終端；同時整合AI支付、可信身份、隱私風控、服務履約等底層能力。繼6月初支付寶超級服務智慧體“阿寶”開放測試以來，已完成萬餘項服務智慧化適配，目前麥當勞、蜜雪冰城、瑞幸、高德打車、滴滴等頭部品牌，以及德邦快遞、圓通快遞、豐巢等本地生活服務商已陸續接入。大會還公佈了支付寶“阿寶”跨端互聯的進展：手機端已與5家主流手機廠商打通跨端協同辦事能力，合作廠商市場份額超70%；車端服務覆蓋16家主流車企品牌，並與60餘家車企達成定點合作；智慧眼鏡、手錶、大模型App等新興終端也同步落地。（新浪科技）
-
----
-
-### 2026-08-17 17:55:39  #國際
-
-【金民錫當選韓國執政黨共同民主黨黨首】韓國執政黨共同民主黨17日在大田市舉行全國黨員大會，前國務總理金民錫當選新一任黨首。黨首任期兩年，將掌握2028年韓國國會議員選舉候選人提名權，對李在明政府執政及執政黨內部權力格局具有重要影響。（新華社）
-
----
-
-### 2026-08-17 17:55:17  #公司
-
-【神州數碼：擬斥資2億元-4億元回購公司股份】神州數碼公告稱，公司第十一屆董事會第三十次會議審議透過以集中競價交易方式回購公司股份方案的議案。本次回購擬使用資金總額不低於2億元且不超過4億元，回購股份價格不超過39.72元/股，回購股份將用於後續員工持股計劃及/或股權激勵計劃，實施期限自董事會審議透過回購方案之日起不超過12個月。公司擬合作金融機構運用場外期權等場外衍生品工具為本次回購提供綜合服務，服務期限至回購方案實施完畢止。
-
----
-
-### 2026-08-17 17:55:17  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude's intraday gain widened to 1.00%, trading at $82.34/bbl.
-
----
-
-### 2026-08-17 17:55:15  #MKT News
-
-Live broadcast shows former South Korean prime minister Kim Min-seok elected leader of the Democratic Party of Korea.
-
----
-
-### 2026-08-17 17:54:20  #公司
-
-【*ST沐邦：2026年半年度營收1.68億元 同比增19.27%】*ST沐邦公告稱，2026年半年度實現營業收入1.68億元，同比增長19.27%；歸屬於上市公司股東的淨虧損2.21億元，上年同期淨虧損2.12億元。公司2026年半年度不派發現金紅利，不送紅股，不以公積金轉增股本。截至報告期末，公司控股股東江西沐邦新能源控股有限公司所持5688.97萬股股份全部處於凍結狀態。
-
----
-
-### 2026-08-17 17:54:13  #MKT News #MT.O #Impact bearish
-
-ArcelorMittal SA reported damage to its major energy production facilities.
-
----
-
-### 2026-08-17 17:54:11  #市場
-
-【英國因監獄擁擠計劃提前釋放犯人】英國一座耗資4億英鎊建造的最新“超級監獄”啟用已過一年，但仍有數百間牢房空置，原因並非犯人不足，而是苦於招不滿獄警。據《每日電訊報》網站8月16日報道，位於英格蘭地區約克郡的米爾賽克監獄於2025年3月啟用，可關押將近1500人，但眼下僅關押1100餘人，344間牢房空置。監獄方面認為，以現有獄警人數，接收更多囚犯會導致安全隱患。《每日電訊報》報道指出，米爾賽克監獄空置的牢房，理論上可用於關押470名將提前獲釋的過失殺人犯中的大多數。諷刺的是，英國政府打算從今年10月起分批提前釋放包括過失殺人犯在內的數千名服刑人員，理由是其所在監獄過於擁擠、人滿為患。（新華社）
 
 ---

@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 01:40:37_
-_本檔包含 3405 則快訊，約 657876 字_
+_更新時間：2026-08-22 02:01:15_
+_本檔包含 3397 則快訊，約 658092 字_
+
+---
+
+### 2026-08-21 01:16:21  #央行 #其他
+
+紐約聯儲8月20日接受逆回購工具提交的2.25億美元全部申請。
+
+---
+
+### 2026-08-21 01:16:10  #MKT News
+
+Wall Street Journal, citing people familiar with the matter, reports US bank EverBank is seeking a buyer.
+
+---
+
+### 2026-08-21 01:16:10  #宏觀 #國際
+
+美國財政部簽發涉俄通用許可。
+
+---
+
+### 2026-08-21 01:15:35  #公司 #市場 #國際
+
+【零售商警告：高油價下部分美國消費者被迫“在必需品間做抉擇” 】零售商本週公佈的財報描繪了一幅喜憂參半的圖景，不僅反映出美國消費者的現狀，也展現了大型零售商如何應對當前的消費環境。包括Target和Walmart在內的主流零售商（業務均涵蓋食品雜貨）均報告了銷售額增長，但也指出消費者依然保持謹慎，部分原因是油價上漲。Target表示，最近一個季度同店銷售額增長了3.8%，這是其在經歷了多年疲弱的季度業績後，連續第二個季度實現穩健增長。Walmart表示，最近一個季度銷售額增長了2.6%，這是六年多來最疲軟的表現。Walmart並未將增速放緩歸咎於消費者支出的大幅縮減，而是指出新的藥店定價規定侵蝕了該業務的收入。儘管如此，Walmart仍觀察到低收入消費者的支出趨於謹慎，高管們表示，公司正在透過降價來吸引這些更加謹慎的顧客。Walmart首席財務官John David Rainey表示：“由於油價處於高位，本季度消費者似乎不得不在各種必需品之間做出取捨。”家居建材零售商Home Depot表示，消費者目前只為小型家居專案買單，並且只在確實需要時才購買洗碗機等昂貴的一次性消費品。高管們指出，消費者推遲了大型房屋翻新計劃，且停滯的房地產市場也拖累了銷售。Home Depot首席財務官Richard McPhail表示：“我們繼續專注於我們能控制的因素。”與此同時，其競爭對手Lowe's的增長較為疲軟，同店銷售額僅微增0.2%，高管將消費者支出疲軟列為原因之一。執行長Marvin Ellison本週早些時候表示，總體而言，消費者狀況依然健康，但他們“只是在非必需消費上變得更加謹慎”。
+
+---
+
+### 2026-08-21 01:14:32  #其他
+
+市場訊息： Everbank 的私募股權股東擬出售該銀行。
+
+---
+
+### 2026-08-21 01:14:22  #其他
+
+市場訊息： Everbank 也可能選擇 IPO 上市。
+
+---
+
+### 2026-08-21 01:13:23  #MKT News
+
+U.S. Treasury issued a new general license authorizing negotiations over the sale of Russia’s Lukoil International GmbH, the signing of contingent contracts, and related maintenance activities.
+
+---
+
+### 2026-08-21 01:12:32  #MKT News
+
+【Iran's defense ministry says its weapons have deterred enemies】Al Jazeera reported Iran's defense ministry said external threats and attacks have driven advances in its defense industry, with those achievements "born of threat." The ministry said years of development have "thwarted and deterred most of the enemy's calculations and objectives." It added that the war shows any attempt to strike Iran's national will to self-defence will face a nation both resolute in defence and resistance and able to convert each threat into fresh impetus for construction, development and new strength.
+
+---
+
+### 2026-08-21 01:12:25  #公司 #國際
+
+美國發布新的一般許可證，授權為盧克石油國際有限公司的出售談判及簽訂或有合同以及相關維護活動進行交易。
+
+---
+
+### 2026-08-21 01:12:22  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+ZELENSKIY said Russian forces struck with large numbers of ballistic missiles, cruise missiles and drones, and that Ukraine urgently needs allies to provide Patriot air-defence systems to intercept ballistic missiles.
+
+---
+
+### 2026-08-21 01:12:17  #宏觀 #公司 #市場 #國際
+
+【貝森特擴大回購被指“拿紙巾擋海嘯” 利好轉瞬美債收益率重返高位】特朗普政府意外決定擴大長期債券回購規模僅一天後，美國國債走低，顯示這一舉措幾乎未能緩解市場對政府債務激增的擔憂。相關憂慮已推動部分美債收益率升至19年來高位。30年期美債收益率週四一度上漲逾7個基點至5.27%，回到美國財政部週三宣佈擴大回購前的水平，隨後漲幅有所收窄，至5.25%。美國財政部長斯科特·貝森特在接受CNBC採訪時表示，擁有“一個龐大的工具箱”來支撐市場。近2萬億美元的預算赤字、高企的通脹，以及投資人工智慧的科技公司大量發債，都在推動美債收益率上升。貝森特一直試圖更多依靠短期借款來填補政府資金缺口，從而得以維持較長期債券發行規模穩定。週三，美國財政部表示，將把10年至30年期債券的回購規模“至少”提高一倍。這一措施短暫提振美債市場，市場還猜測財政部可能縮減這類債券的新發行規模。道明證券美國利率策略師Molly Brooks表示：“財政部需要更明確地傳達將削減長端國債標售規模，收益率的下行走勢才可能持續。鑑於財政部昨天已經表現出願意出手，這種可能性現在更高了。”週四早些時候，美債拋售最嚴重之際，油價上漲逾3%。Brooks表示，收益率上漲“大部分其實是由油價推動的”，再加上其他基本面因素，顯示回購操作的調整“更像是給美國國債的長端貼了一塊創可貼”。
 
 ---
 
@@ -20445,119 +20511,5 @@ Gasoline Retreats From Three-Week High — US gasoline futures traded below $3.3
 ### 2026-08-20 01:09:55  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish
 
 【U.S., Canadian leaders optimistic on tariff agreement】U.S. President Trump and Canadian Prime Minister Carney said they are optimistic about a tariff agreement as negotiating teams met in Washington. Trump said Wednesday “we have reached an agreement,” adding Canadian negotiators put forward “conditions we must get,” including greater market access for U.S. agricultural exports, and that “everything still awaits final paperwork.” Carney wrote the countries are “moving towards an agreement that will cement Canada’s advantages” and secure “the most favorable terms” in Canada’s key strategic areas, but gave no details.
-
----
-
-### 2026-08-20 01:09:10  #MKT News
-
-Sources said this was the first call between Syria's top diplomat and Israel's top foreign-intelligence official since Roman Gofman took office in June.
-
----
-
-### 2026-08-20 01:08:54  #國際
-
-敘利亞最高外交官與以色列最高對外情報官員自去年6月以色列官員上任以來首次進行通話。
-
----
-
-### 2026-08-20 01:08:50  #MKT News
-
-Sources said the new Mossad director, Roman Gofman, held a phone call with Syrian foreign minister Assad Shebani on Aug. 14 to discuss Turkey's military presence in Syria.
-
----
-
-### 2026-08-20 01:08:32  #國際
-
-訊息人士稱，8月14日，以色列新任摩薩德局長羅曼·戈夫曼與敘利亞外交部長阿薩德·謝巴尼通電話，雙方討論了土耳其在敘利亞的軍事駐紮問題。
-
----
-
-### 2026-08-20 01:07:23  #國際
-
-伊朗議長卡利巴夫：伊朗與伊拉克具備在本地區創造空前機遇的潛力。
-
----
-
-### 2026-08-20 01:04:17  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 20-year Treasury yield was little changed after the auction, edging down 7.42 bps to 5.205%.
-
----
-
-### 2026-08-20 01:03:27  #市場 #國際
-
-美國20年期國債中標收益率5.204%，高於拍賣前預發行（WI）收益率5.199%。
-
----
-
-### 2026-08-20 01:03:07  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US 20-year Treasury auction on Aug. 19 — stop-out yield 5.204%, prior 5.16%.
-
----
-
-### 2026-08-20 01:03:06  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. 20-year Treasury auction as of Aug 19: share allocated at the stop-out yield 65.58%, prior 15.13%.
-
----
-
-### 2026-08-20 01:02:55  #MKT News #Economic Calendar
-
-United States | 20-Year Bond Auction Accepted at High (Aug.19) | actual 65.58% | previous 15.13%
-
----
-
-### 2026-08-20 01:02:49  #MKT News #Economic Calendar
-
-United States | 20-Year Bond Auction High Yield Rate (Aug.19) | actual 5.204% | previous 5.16%
-
----
-
-### 2026-08-20 01:02:45  #MKT News #US10Y #Impact bearish
-
-U.S. 20-year Treasury auction bid-cover ratio 2.53 as of Aug. 19; prior 2.64.
-
----
-
-### 2026-08-20 01:02:36  #MKT News #Economic Calendar
-
-United States | 20-Year Bond Auction Bid/Cover Ratio (Aug.19) | actual 2.53 | previous 2.64
-
----
-
-### 2026-08-20 01:00:24  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bearish #Brent
-
-【Venezuela steps up oil licensing push, offers 916 blocks for production-sharing deals】Venezuela’s oil minister Paola Enau told investors in Houston Caracas seeks to sign production-sharing contracts to raise output from the country with the world’s largest crude reserves. She said 916 exploration and production blocks are available and that Venezuela must conclude such agreements to access the new blocks. This week Caracas signed deals with Schlumberger (SLB.N) and Hunt Oil; about 140 companies attended the investor session as Venezuela seeks more private investment to reverse a roughly 20-year decline in oil production.
-
----
-
-### 2026-08-20 01:00:22  #市場 #國際
-
-美國國債20年期收益率在160億美元拍賣前為5.199%。
-
----
-
-### 2026-08-20 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.40%，滬銅收漲0.23%，滬鋁收跌0.23%，滬鋅收跌0.16%，滬鉛收漲0.19%，滬鎳收漲1.89%，滬錫收漲0.92%。氧化鋁夜盤收漲0.34%，鋁合金收漲0.37%。不鏽鋼夜盤收漲0.84%。
-
----
-
-### 2026-08-20 01:00:01  #公司
-
-環球音樂集團：蘋果公司與環球音樂集團宣佈達成標誌性全球電子商務與周邊商品合作，合作範圍涉及披頭士樂隊相關業務。
-
----
-
-### 2026-08-20 00:59:52  #公司
-
-環球音樂集團：蘋果公司與環球音樂集團宣佈達成披頭士樂隊全球電子商務及周邊商品合作關係。
-
----
-
-### 2026-08-20 00:59:08  #MKT News
-
-【Trump expects to meet Kim Jong Un later this year】U.S. President Trump told reporters at the White House on the 19th he expects to meet North Korean leader Kim Jong Un later this year. When asked about an autumn meeting he replied in the affirmative and said he knows Kim well and gets along with him.
 
 ---

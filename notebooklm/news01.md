@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 01:40:37_
-_本檔包含 3020 則快訊，約 657894 字_
+_更新時間：2026-08-22 02:01:15_
+_本檔包含 3020 則快訊，約 657774 字_
+
+---
+
+### 2026-08-22 01:59:02  #國際
+
+美國證券交易委員會（SEC）指控美國銀行前高階銀行家薩茨基涉嫌內幕交易。
+
+---
+
+### 2026-08-22 01:58:23  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Nears Three-Month High — The Canadian dollar strengthened to 1.38 per USD in late August, nearing a three-month high, supported by a weaker US dollar and elevated crude oil prices. The loonie’s gains were primarily driven by renewed pressure on the greenback as investors reassessed the Federal Reserve’s policy path. Recent US economic data, including softer inflation readings, fueled expectations that the Fed could begin cutting interest rates sooner than previously anticipated, weighing on the dollar and supporting commodity-linked currencies. Meanwhile, crude oil prices remained elevated near multi-month highs, benefiting the Canadian currency as higher energy prices improve the country’s terms of trade. On the trade front, Canadian and US negotiators are set to meet in an effort to finalize a deal that could ease months of tariffs and counter-tariffs. Canadian bond yields rose across the curve, tracking higher US Treasury yields.
+
+---
+
+### 2026-08-22 01:57:00  #國際
+
+伊朗議會議長卡利巴夫：伊朗與伊拉克已就安全問題及邊境安全簽署一份詳細協議與諒解備忘錄。我們商討了協議的落實工作，並就相關事宜進行跟進。我們也探討了伊拉克的安全問題以及伊拉克境內各派系。但我要明確宣告，我們從不干涉伊拉克的內政。
+
+---
+
+### 2026-08-22 01:56:20  #其他
+
+市場訊息：房利美至少已有 10 名高階官員離職。
+
+---
+
+### 2026-08-22 01:55:31  #國際
+
+據伊朗學生通訊社（ISNA）報道，伊朗議會議長卡利巴夫表示，伊朗 “從不干涉伊拉克內政”。他補充稱，德黑蘭方面願同地區國家開展合作，透過區域協作構建可持續安全格局。卡利巴夫結束對伊拉克為期三天的訪問，於週五返回德黑蘭。
+
+---
+
+### 2026-08-22 01:54:36  #公司
+
+谷歌：沃爾瑪即將支援 Google Pay 點選支付功能。
+
+---
+
+### 2026-08-22 01:51:46  #國際
+
+伊朗國家電視臺：伊朗與伊拉克簽署 “綜合性” 安全協議。
+
+---
+
+### 2026-08-22 01:46:47  #國際
+
+烏克蘭總統澤連斯基：我們將對俄羅斯在烏克蘭購物中心的無人機襲擊作出明確回應。
+
+---
+
+### 2026-08-22 01:46:39  #國際
+
+美國國家航空航天局（NASA）：特朗普將於 8 月 28 日向阿爾忒彌斯計劃機組人員授予榮譽勳章。
+
+---
+
+### 2026-08-22 01:44:57  #國際
+
+烏克蘭官方媒體：俄羅斯無人機襲擊尼古拉耶夫州託卡里夫卡，造成 4 人死亡，其中包括 3 名兒童。
+
+---
+
+### 2026-08-22 01:42:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Somali piracy resurges as regional conflicts strain maritime security】A maritime theft monitoring group said Somali coastal piracy has risen after two new attacks this week. The incidents come as two major regional conflicts are diverting and depleting naval resources: Houthi forces last month announced a blockade on Saudi ports and have attacked several vessels, forcing many ships to avoid the area, while fighting linked to Iran has produced attacks on dozens of merchant ships in the Persian Gulf and nearby waters. Two vessels were reported hit by Somali pirates, reinforcing concerns about an uptick in Somali incidents this year. An International Maritime Bureau official, Cyrus Modi, said naval deployments remain but higher-priority threats have likely created an opening for Somali pirates, who had been effectively suppressed over the past decade; Somali piracy peaked in 2008–2010 when hundreds of ships were attacked and some owners rerouted around Africa.
 
 ---
 
@@ -18163,71 +18229,5 @@ OpenAI：計算機網頁現已在歐元區、英國和瑞士對 Mac 上的 ChatG
 ### 2026-08-21 01:17:01  #MKT News #Macro & Rates #The Fed (FOMC)
 
 The Federal Reserve accepted $225 mln from one counterparty in a fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-21 01:16:21  #央行 #其他
-
-紐約聯儲8月20日接受逆回購工具提交的2.25億美元全部申請。
-
----
-
-### 2026-08-21 01:16:10  #MKT News
-
-Wall Street Journal, citing people familiar with the matter, reports US bank EverBank is seeking a buyer.
-
----
-
-### 2026-08-21 01:16:10  #宏觀 #國際
-
-美國財政部簽發涉俄通用許可。
-
----
-
-### 2026-08-21 01:15:35  #公司 #市場 #國際
-
-【零售商警告：高油價下部分美國消費者被迫“在必需品間做抉擇” 】零售商本週公佈的財報描繪了一幅喜憂參半的圖景，不僅反映出美國消費者的現狀，也展現了大型零售商如何應對當前的消費環境。包括Target和Walmart在內的主流零售商（業務均涵蓋食品雜貨）均報告了銷售額增長，但也指出消費者依然保持謹慎，部分原因是油價上漲。Target表示，最近一個季度同店銷售額增長了3.8%，這是其在經歷了多年疲弱的季度業績後，連續第二個季度實現穩健增長。Walmart表示，最近一個季度銷售額增長了2.6%，這是六年多來最疲軟的表現。Walmart並未將增速放緩歸咎於消費者支出的大幅縮減，而是指出新的藥店定價規定侵蝕了該業務的收入。儘管如此，Walmart仍觀察到低收入消費者的支出趨於謹慎，高管們表示，公司正在透過降價來吸引這些更加謹慎的顧客。Walmart首席財務官John David Rainey表示：“由於油價處於高位，本季度消費者似乎不得不在各種必需品之間做出取捨。”家居建材零售商Home Depot表示，消費者目前只為小型家居專案買單，並且只在確實需要時才購買洗碗機等昂貴的一次性消費品。高管們指出，消費者推遲了大型房屋翻新計劃，且停滯的房地產市場也拖累了銷售。Home Depot首席財務官Richard McPhail表示：“我們繼續專注於我們能控制的因素。”與此同時，其競爭對手Lowe's的增長較為疲軟，同店銷售額僅微增0.2%，高管將消費者支出疲軟列為原因之一。執行長Marvin Ellison本週早些時候表示，總體而言，消費者狀況依然健康，但他們“只是在非必需消費上變得更加謹慎”。
-
----
-
-### 2026-08-21 01:14:32  #其他
-
-市場訊息： Everbank 的私募股權股東擬出售該銀行。
-
----
-
-### 2026-08-21 01:14:22  #其他
-
-市場訊息： Everbank 也可能選擇 IPO 上市。
-
----
-
-### 2026-08-21 01:13:23  #MKT News
-
-U.S. Treasury issued a new general license authorizing negotiations over the sale of Russia’s Lukoil International GmbH, the signing of contingent contracts, and related maintenance activities.
-
----
-
-### 2026-08-21 01:12:32  #MKT News
-
-【Iran's defense ministry says its weapons have deterred enemies】Al Jazeera reported Iran's defense ministry said external threats and attacks have driven advances in its defense industry, with those achievements "born of threat." The ministry said years of development have "thwarted and deterred most of the enemy's calculations and objectives." It added that the war shows any attempt to strike Iran's national will to self-defence will face a nation both resolute in defence and resistance and able to convert each threat into fresh impetus for construction, development and new strength.
-
----
-
-### 2026-08-21 01:12:25  #公司 #國際
-
-美國發布新的一般許可證，授權為盧克石油國際有限公司的出售談判及簽訂或有合同以及相關維護活動進行交易。
-
----
-
-### 2026-08-21 01:12:22  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-ZELENSKIY said Russian forces struck with large numbers of ballistic missiles, cruise missiles and drones, and that Ukraine urgently needs allies to provide Patriot air-defence systems to intercept ballistic missiles.
-
----
-
-### 2026-08-21 01:12:17  #宏觀 #公司 #市場 #國際
-
-【貝森特擴大回購被指“拿紙巾擋海嘯” 利好轉瞬美債收益率重返高位】特朗普政府意外決定擴大長期債券回購規模僅一天後，美國國債走低，顯示這一舉措幾乎未能緩解市場對政府債務激增的擔憂。相關憂慮已推動部分美債收益率升至19年來高位。30年期美債收益率週四一度上漲逾7個基點至5.27%，回到美國財政部週三宣佈擴大回購前的水平，隨後漲幅有所收窄，至5.25%。美國財政部長斯科特·貝森特在接受CNBC採訪時表示，擁有“一個龐大的工具箱”來支撐市場。近2萬億美元的預算赤字、高企的通脹，以及投資人工智慧的科技公司大量發債，都在推動美債收益率上升。貝森特一直試圖更多依靠短期借款來填補政府資金缺口，從而得以維持較長期債券發行規模穩定。週三，美國財政部表示，將把10年至30年期債券的回購規模“至少”提高一倍。這一措施短暫提振美債市場，市場還猜測財政部可能縮減這類債券的新發行規模。道明證券美國利率策略師Molly Brooks表示：“財政部需要更明確地傳達將削減長端國債標售規模，收益率的下行走勢才可能持續。鑑於財政部昨天已經表現出願意出手，這種可能性現在更高了。”週四早些時候，美債拋售最嚴重之際，油價上漲逾3%。Brooks表示，收益率上漲“大部分其實是由油價推動的”，再加上其他基本面因素，顯示回購操作的調整“更像是給美國國債的長端貼了一塊創可貼”。
 
 ---

@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 01:40:37_
-_本檔包含 3060 則快訊，約 657547 字_
+_更新時間：2026-08-22 02:01:15_
+_本檔包含 3056 則快訊，約 657464 字_
+
+---
+
+### 2026-08-17 17:57:43  #MKT News #00175.HK #Impact bullish
+
+【Geely Holding Group CEO An Conghui: group to continue closing/transferring redundant units and projects】At Geely Automobile’s (00175.HK) interim results, Geely Holding Group CEO An Conghui said the group will in H2 continue to streamline operations and strategic allocation, improve system-wide synergies, reduce unnecessary intra-group transactions and construction, and close or transfer redundant companies and projects. He said the group will also fold more valuable existing and incubating projects into Geely Auto Group.
+
+---
+
+### 2026-08-17 17:57:04  #MKT News #Market Regions #Japan & APAC #HMC.N #Impact bullish
+
+Honda Motor (HMC.N) to resume vehicle production at its Saitama, Suzuka and Yokkaichi plants from Aug. 20.
+
+---
+
+### 2026-08-17 17:56:27  #MKT News
+
+【Kim Min-sik elected leader of South Korea's ruling Democratic Party】The ruling Democratic Party held a national congress in Daejeon on the 17th and elected former prime minister Kim Min-sik as its new leader. His two-year term gives him control over candidate nominations for the 2028 National Assembly elections and will materially affect the Lee Jae-myung administration's governance and the party's internal power balance.
+
+---
+
+### 2026-08-17 17:56:00  #公司
+
+【瑞豐光電：2026年半年度營收10.73億元 同比增27.47%】瑞豐光電公告稱，2026年半年度實現營業收入10.73億元，同比增長27.47%；歸母淨利潤5372.67萬元，同比增長73.86%；扣非歸母淨利潤4468.42萬元，同比增長170.19%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 17:55:55  #公司
+
+【福華尚緯：持股5%以上股東李廣元提前完成1%股份減持】福華尚緯公告稱，截至2026年8月17日，持股5%以上股東李廣元透過集中競價方式累計減持公司股份621.52萬股，減持比例達1%，減持總金額5781.95萬元，本次減持計劃提前實施完畢。權益變動後，李廣元及其一致行動人合計持股比例從8.98%降至7.98%，本次減持未違反相關規則及承諾，不觸發要約收購，不會導致公司實控人變更。
+
+---
+
+### 2026-08-17 17:55:54  #其他
+
+【支付寶：“阿寶”已完成萬餘項服務AI化接入，服務跨端已支援5大手機品牌、16家主流車企】支付寶生態合作伙伴大會在杭州召開。螞蟻數科Agentar生態版提供超200項面向商家高頻場景的專業技能包以及數字專家智慧體，還支援基於模板的定製開發、一鍵接入“阿寶”生態。針對高階複合需求，平臺A2A多智慧體協同能力可聯動多商家智慧體組合服務、協同履約。支付寶新底座還標配了跨端連線能力，商家一次適配即可透過“阿寶”將服務分發至手機、車機、AI眼鏡、IoT及大模型應用等終端；同時整合AI支付、可信身份、隱私風控、服務履約等底層能力。繼6月初支付寶超級服務智慧體“阿寶”開放測試以來，已完成萬餘項服務智慧化適配，目前麥當勞、蜜雪冰城、瑞幸、高德打車、滴滴等頭部品牌，以及德邦快遞、圓通快遞、豐巢等本地生活服務商已陸續接入。大會還公佈了支付寶“阿寶”跨端互聯的進展：手機端已與5家主流手機廠商打通跨端協同辦事能力，合作廠商市場份額超70%；車端服務覆蓋16家主流車企品牌，並與60餘家車企達成定點合作；智慧眼鏡、手錶、大模型App等新興終端也同步落地。（新浪科技）
+
+---
+
+### 2026-08-17 17:55:39  #國際
+
+【金民錫當選韓國執政黨共同民主黨黨首】韓國執政黨共同民主黨17日在大田市舉行全國黨員大會，前國務總理金民錫當選新一任黨首。黨首任期兩年，將掌握2028年韓國國會議員選舉候選人提名權，對李在明政府執政及執政黨內部權力格局具有重要影響。（新華社）
+
+---
+
+### 2026-08-17 17:55:17  #公司
+
+【神州數碼：擬斥資2億元-4億元回購公司股份】神州數碼公告稱，公司第十一屆董事會第三十次會議審議透過以集中競價交易方式回購公司股份方案的議案。本次回購擬使用資金總額不低於2億元且不超過4億元，回購股份價格不超過39.72元/股，回購股份將用於後續員工持股計劃及/或股權激勵計劃，實施期限自董事會審議透過回購方案之日起不超過12個月。公司擬合作金融機構運用場外期權等場外衍生品工具為本次回購提供綜合服務，服務期限至回購方案實施完畢止。
+
+---
+
+### 2026-08-17 17:55:17  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude's intraday gain widened to 1.00%, trading at $82.34/bbl.
+
+---
+
+### 2026-08-17 17:55:15  #MKT News
+
+Live broadcast shows former South Korean prime minister Kim Min-seok elected leader of the Democratic Party of Korea.
+
+---
+
+### 2026-08-17 17:54:20  #公司
+
+【*ST沐邦：2026年半年度營收1.68億元 同比增19.27%】*ST沐邦公告稱，2026年半年度實現營業收入1.68億元，同比增長19.27%；歸屬於上市公司股東的淨虧損2.21億元，上年同期淨虧損2.12億元。公司2026年半年度不派發現金紅利，不送紅股，不以公積金轉增股本。截至報告期末，公司控股股東江西沐邦新能源控股有限公司所持5688.97萬股股份全部處於凍結狀態。
+
+---
+
+### 2026-08-17 17:54:13  #MKT News #MT.O #Impact bearish
+
+ArcelorMittal SA reported damage to its major energy production facilities.
+
+---
+
+### 2026-08-17 17:54:11  #市場
+
+【英國因監獄擁擠計劃提前釋放犯人】英國一座耗資4億英鎊建造的最新“超級監獄”啟用已過一年，但仍有數百間牢房空置，原因並非犯人不足，而是苦於招不滿獄警。據《每日電訊報》網站8月16日報道，位於英格蘭地區約克郡的米爾賽克監獄於2025年3月啟用，可關押將近1500人，但眼下僅關押1100餘人，344間牢房空置。監獄方面認為，以現有獄警人數，接收更多囚犯會導致安全隱患。《每日電訊報》報道指出，米爾賽克監獄空置的牢房，理論上可用於關押470名將提前獲釋的過失殺人犯中的大多數。諷刺的是，英國政府打算從今年10月起分批提前釋放包括過失殺人犯在內的數千名服刑人員，理由是其所在監獄過於擁擠、人滿為患。（新華社）
 
 ---
 
@@ -18384,107 +18462,5 @@ UK government issued a severe wildfire alert, saying the risk of wildfires is ex
 ### 2026-08-15 02:04:44  #其他
 
 【德國農民協會：高溫乾旱或致部分地區農作物減產甚至絕收】當地時間14日，德國農民協會表示，受持續高溫乾旱影響，今年德國農業可能出現明顯減產。德國農民協會主席約阿希姆·魯克維德表示，今年小麥和油菜籽的產量預計將低於平均水平，玉米、大豆等秋季作物也可能出現較大幅度減產。魯克維德說，德國南部受乾旱影響尤為嚴重，農作物面臨絕收的風險。他還指出，持續高溫和乾旱還導致飼料作物減產，畜牧業也受到影響。（央視新聞）
-
----
-
-### 2026-08-15 02:00:18  #其他
-
-博通股價跌幅擴大至6.7%，創6月5日以來最大單日跌幅。
-
----
-
-### 2026-08-15 01:59:52  #MKT News #Commodities #Industrial Metals
-
-Sources: Chilean state-owned copper firm Codelco has appointed a vice president to oversee operations at the El Teniente mine.
-
----
-
-### 2026-08-15 01:58:00  #公司
-
-市場訊息：智利國家銅業公司（Codelco）將關停丘基卡馬塔銅礦與阿萊斯部長銅礦。
-
----
-
-### 2026-08-15 01:55:11  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-Cboe VIX continued to fall, touching an intrday low not seen since Dec. 30 last year.
-
----
-
-### 2026-08-15 01:53:27  #MKT News #Commodities #Energy
-
-An official Indian order says India will cut the diesel export windfall tax to 24 rupees per litre from 25.5 rupees per litre, effective Aug. 15.
-
----
-
-### 2026-08-15 01:53:17  #MKT News
-
-India ordered a cut in the export windfall tax on aviation turbine fuel to 19.5 rupees per litre from 22 rupees per litre, effective Aug. 15.
-
----
-
-### 2026-08-15 01:52:47  #國際
-
-印度自 8 月 15 日起，將柴油出口暴利稅由每升 25.5 盧比下調至每升 24 盧比。
-
----
-
-### 2026-08-15 01:52:29  #MKT News #WTI #Impact bearish #Brent
-
-According to an Indian government order, India will cut the windfall tax on gasoline exports from 3.5 rupees per litre to zero, effective Aug. 15.
-
----
-
-### 2026-08-15 01:52:28  #國際
-
-印度自 8 月 15 日起，將航空渦輪燃料出口暴利稅由每升 22 盧比下調至每升 19.5 盧比。
-
----
-
-### 2026-08-15 01:51:54  #國際
-
-印度自 8 月 15 日起，將汽油出口暴利稅從每升 3.5 盧比下調至 0。
-
----
-
-### 2026-08-15 01:50:40  #市場
-
-VIX 指數持續下行，創 12 月 30 日以來盤中最低水平。
-
----
-
-### 2026-08-15 01:49:23  #MKT News
-
-【French Constitutional Council strikes down social-media ban for under-15s】On the 14th the French Constitutional Council ruled Article 1 of a law passed by Parliament last month to protect minors from social-media risks unconstitutional and struck it down. The clause would have barred under-15s from accessing social media.
-
----
-
-### 2026-08-15 01:47:05  #MKT News #Market Themes #The Trump Trade
-
-【U.S. reported to shift Cuba strategy toward tougher sanctions as military option recedes】Sources say the Trump administration is increasingly prioritizing tougher sanctions and economic pressure on Cuba rather than military action to overthrow the Communist Party. The current focus is on cutting off all revenue streams to the Cuban government rather than military or special‑forces operations similar to January’s raid to seize Venezuela’s leader Maduro.
-
----
-
-### 2026-08-15 01:46:19  #其他
-
-【法國憲法委員會否決15歲以下社媒禁令 】法國憲法委員會14日作出裁定，法國議會上月透過的《保護未成年人免受使用社交媒體所帶來風險的法律》第1條款違反憲法，予以否決。該條款禁止15歲以下未成年人訪問社交媒體。（新華社）
-
----
-
-### 2026-08-15 01:45:03  #Trading Economics #Economy #United States #Calendar #Importance 2
-
-Week Ahead - Aug 17th — The ongoing standstill between Iran and the US should continue to dictate energy prices and influence global interest rates, after the US prolonged its economic pressure on Iran instead of signaling efforts of diplomacy. Rates will also take the spotlight with minutes from a divisive meeting from the Federal Reserve, which included three dissents. The ECB will also post meeting accounts. Data from the US will be headlined by flash S&P PMIs, building permits, trade terms, and industrial production. PMIs will also be published for the Eurozone, Japan, Australia, India, and the UK. Meanwhile, both the UK and Canada will release inflation and retail sales. The Eurozone and Germany will release ZEW Economic Sentiment indices. Japan will release its Q2 GDP, trade balance, and inflation rate. In the meantime, China will publish industrial production, retail sales, housing prices, and join Australia, the UK, and Canada in unveiling unemployment figures. Sveriges Riksbank will set rates.
-
----
-
-### 2026-08-15 01:43:59  #MKT News
-
-According to Iran's Mehr News Agency, Yemeni military sources said the Houthi attack was in response to "Saudi enemy warplanes" violating Yemen's sovereignty and entering airspace over northeast Saada province.
-
----
-
-### 2026-08-15 01:41:06  #MKT News #Market Themes #AI Revolution
-
-SpaceXAI said it launched its Grok 4.6 model in GitHub Copilot.
 
 ---
