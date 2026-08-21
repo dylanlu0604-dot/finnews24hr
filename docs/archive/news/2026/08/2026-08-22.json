@@ -1,7 +1,25 @@
 {
   "date": "2026-08-22",
-  "count": 107,
+  "count": 109,
   "items": [
+    {
+      "id": "5052657",
+      "time": "2026-08-22 01:36:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：截至8月18日當週， 柴油投機者淨多頭頭寸增加 1807 手合約，至 92522 手。布倫特原油投機者淨多頭頭寸增加11149份合約，至251897份合約。天然氣投機者淨多頭頭寸增加1807份合約，至92522份合約。"
+    },
+    {
+      "id": "mkt:01a02564-d619-7aab-90d9-b3d840b5487f",
+      "time": "2026-08-22 01:36:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France's Élysée Palace says the Saudi crown prince will sign multiple cooperation agreements with France during his visit, covering transport, energy and health."
+    },
     {
       "id": "mkt:01a02564-a01d-7aab-90d9-ac1f12d07619",
       "time": "2026-08-22 01:35:46",
