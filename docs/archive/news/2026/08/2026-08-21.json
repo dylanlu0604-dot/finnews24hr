@@ -1,7 +1,327 @@
 {
   "date": "2026-08-21",
-  "count": 2424,
+  "count": 2459,
   "items": [
+    {
+      "id": "5052244",
+      "time": "2026-08-21 19:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "ICAHN 將捷藍航空持股降至 3.32% 。"
+    },
+    {
+      "id": "5052243",
+      "time": "2026-08-21 19:25:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝殼盤前上漲6%，二季度貝殼平臺二手房成交單量同比增長25%。"
+    },
+    {
+      "id": "5052242",
+      "time": "2026-08-21 19:24:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【現貨白銀站上70美元】現貨白銀站上70美元/盎司，為6月17日以來首次，日內漲2.82%。"
+    },
+    {
+      "id": "mkt:01a02410-df07-7aab-90d2-156ebbd7b090",
+      "time": "2026-08-21 19:24:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude briefly dipped about $0.50 to $86.32/bbl and $92.07/bbl, respectively."
+    },
+    {
+      "id": "5052241",
+      "time": "2026-08-21 19:24:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金龍羽：2026年半年度淨利潤3838.85萬元，同比下降42.46%】金龍羽公告，2026年上半年營業收入22.48億元，同比增長4.22%；歸屬於上市公司股東的淨利潤3838.85萬元，同比下降42.46%，2025年同期6671.6萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3543.25萬元，同比下降43.20%，2025年同期6238.05萬元。"
+    },
+    {
+      "id": "5052240",
+      "time": "2026-08-21 19:24:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【碩貝德：2026年上半年淨利潤2528.43萬元，同比下降24.59%】碩貝德公告，2026年上半年營業收入15.56億元，同比增長28.75%；歸屬於上市公司股東的淨利潤2528.43萬元，同比下降24.59%，2025年上半年為3353.08萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2699.91萬元，同比下降5.05%。"
+    },
+    {
+      "id": "mkt:01a02410-34b5-7aab-90d2-0d10b371644c",
+      "time": "2026-08-21 19:23:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "2899.HK",
+        "Impact bullish"
+      ],
+      "text": "Zijin Mining reported 1H 2026 net profit of 39.169 bln yuan, up 68.17% YoY."
+    },
+    {
+      "id": "mkt:01a02410-1693-7aab-90d2-04cbaaf77c1f",
+      "time": "2026-08-21 19:23:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【Spot silver tops $70/oz】Spot silver topped $70/oz for the first time since June 17, rising 2.82% on the day."
+    },
+    {
+      "id": "5052239",
+      "time": "2026-08-21 19:23:36",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【紫金礦業：2026年上半年營收1941.78億元 淨利增68.17%】紫金礦業公告稱，2026年上半年實現營業收入1941.78億元，同比增長15.78%；歸屬於上市公司股東的淨利潤391.70億元，同比增長68.17%；扣非歸母淨利潤380.35億元，同比增長75.89%；經營活動產生的現金流量淨額554.72億元，同比增長92.41%。公司擬每10股派發現金紅利4.2元（含稅），中期分紅合計約111億元。報告期公司資產負債率降至49.55%，為2012年以來首次低於50%。"
+    },
+    {
+      "id": "mkt:01a0240f-aab3-7aab-90d1-fb85b7efd281",
+      "time": "2026-08-21 19:23:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian Students' News Agency reported President Pezeshkian said that, given Iran's current strong position and the international community's recognition of its victory, Iran should immediately end the war."
+    },
+    {
+      "id": "5052238",
+      "time": "2026-08-21 19:23:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗總統：既然伊朗目前處於優勢地位，且國際社會已承認其勝利，伊朗應當結束戰事。"
+    },
+    {
+      "id": "5052237",
+      "time": "2026-08-21 19:23:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【橫店影視：2026年上半年淨利潤虧損6161.87萬元，同比由盈轉虧】橫店影視公告，2026年上半年營業收入8.07億元，同比下降41.20%；歸屬於上市公司股東的淨利潤虧損6161.87萬元，上年同期淨利潤2.02億元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.06億元，上年同期1.67億元。"
+    },
+    {
+      "id": "5052236",
+      "time": "2026-08-21 19:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《聯合國防治荒漠化公約》秘書處執行秘書：中國為土地修復提供成功樣本】《聯合國防治荒漠化公約》（以下簡稱《公約》）第十七次締約方大會17日至28日在蒙古國首都烏蘭巴托舉行。《公約》秘書處執行秘書亞絲明·福阿德在大會期間接受新華社記者專訪時表示，經過多年推動，全球土地治理已形成充分的政治共識與成熟的解決方案，當前核心任務是加快從“紙面承諾”轉向“實際行動”。（新華社）"
+    },
+    {
+      "id": "5052235",
+      "time": "2026-08-21 19:21:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達將向 AI 模型初創企業 Poolside 支付 60 億美元，用於授權及人才收購交易】這家初創企業在一封致投資者的信件中透露，英偉達已同意斥資 60 億美元，獲取初創公司 Poolside 的 AI 模型開發軟體授權。Poolside 最早研發程式碼 AI 智慧體，之後轉向資料中心開發，隨後依託英偉達伺服器晶片推出了自家開源 AI 模型。這封信件顯示，英偉達將向參與 AI 模型 “拉古納（Laguna）” 研發的 109 名 Poolside 員工發出聘用邀約，同時授權使用該初創企業打造的模型生產系統 ——“模型工廠（Model Factory）”。信件內容提到，Poolside 將於明年年底前，把這 60 億美元分配給各位投資者。信件還稱，英偉達將以 120 億美元的投前估值，向 Poolside 投資 10 億美元。這筆投資和兩家企業九個月前洽談的交易方案相近，但當時並未得到官方確認。該初創企業的三位聯合創始人將繼續留任；信件表明，本次交易不屬於收購，也並非 “人才收購”—— 人才收購是指以獲取人才為主要目的的交易。"
+    },
+    {
+      "id": "te:markets:577277",
+      "time": "2026-08-21 19:21:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Climb for 2nd Week — US natural gas prices rose to around $2.79 per million British thermal units on Friday, up more than 2% for a second consecutive week as traders balanced expectations for persistent summer heat against abundant supply. The latest EIA report showed US utilities added only 16 billion cubic feet of gas to storage last week, below both the 19 bcf injection recorded a year earlier and the five-year average of 29 bcf. Despite the smaller increase, inventories remain comfortably above seasonal norms, supported by record production and relatively mild weather earlier in the year. Strong output has therefore limited the impact of elevated summer demand on storage levels. Meanwhile, average gas flows to the nine major US LNG export facilities held at 17.2 bcfd in August, slightly below June’s record of 17.4 bcfd. Looking ahead, forecasts for warmer-than-normal temperatures through September 3 could boost gas consumption from power generators and provide further support to prices."
+    },
+    {
+      "id": "5052234",
+      "time": "2026-08-21 19:20:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎龍科技：2026年上半年淨利潤5147.74萬元，同比下降40.38%】鼎龍科技公告，2026年上半年營業收入3.41億元，同比下降2.79%；歸屬於上市公司股東的淨利潤5147.74萬元，同比下降40.38%，2025年同期8633.83萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4516.79萬元，同比下降44.34%。"
+    },
+    {
+      "id": "5052233",
+      "time": "2026-08-21 19:19:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【直擊WRC丨智平方張鵬：客戶買的不是固定裝置，而是可進化的靈活勞動力】2026世界機器人大會（WRC 2026）期間，智平方聯合創始人張鵬在與包括新浪科技在內的媒體交流時表示，打動客戶的核心不在於當下的成本與效率對比，而在於機器人具備持續進化的能力。他以手機消費為例指出，使用者最初購買手機時可能僅基於引數或外觀選擇，但後續會為系統推送的新功能逐步付費，特斯拉FSD即是典型案例。\"你付費以後它的 FSD 也可以進化，你可以實現的價值也會越來越多。“對於我們的客戶來說，你要告訴他的不是說當下機器人現在做到的效率是什麼，節拍是什麼，而是要告訴他說我告訴你現在可以這麼樣，下個月可以變成什麼樣，以後可能會產生什麼樣的結果。”張鵬強調，客戶購買的不是一件固定裝置，而是“一款能夠進化，能夠實現更多可能的靈活的勞動力”。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a0240b-9ab6-7aab-90d1-f64525594156",
+      "time": "2026-08-21 19:18:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【State Council meeting urges stronger O&M and hazard checks to secure stable power system operation】Premier Li Qiang chaired a State Council executive meeting calling for stronger pre-emptive and source controls, comprehensive operations-and-maintenance and risk inspections of power equipment and facilities, and tighter quality oversight across design, construction and acceptance of new projects to ensure safe, stable power-system operation. The meeting also urged boosting emergency response capability for power accidents, accelerating technical and equipment upgrades, and formalizing cross-department joint-management arrangements."
+    },
+    {
+      "id": "5052232",
+      "time": "2026-08-21 19:18:54",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國常會：做好電力裝置設施運維檢修和風險隱患排查 保障電力系統安全平穩執行】李強主持召開國務院常務會議，會議指出，要加強事前預防、源頭管控，做好電力裝置設施運維檢修和風險隱患排查，狠抓新建工程設計、施工、驗收各環節質量，保障電力系統安全平穩執行。要提升電力安全事故應急處置能力，持續推動技術裝備迭代升級，健全各部門齊抓共管工作格局。"
+    },
+    {
+      "id": "5052231",
+      "time": "2026-08-21 19:17:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀋陽機床：擬用6.79億元募集資金增資全資子公司】瀋陽機床公告稱，公司第十一屆董事會第一次會議審議透過議案，同意使用募集配套資金6.79億元向全資子公司瀋陽機床中捷友誼廠有限公司增資，增資價格為1元/1元註冊資本。增資完成後，中捷廠註冊資本由5000萬元增至7.29億元，公司持股比例仍為100%。增資款中3.10億元投入高階數控加工中心產線建設專案，3.69億元投入面向重點領域中大型數控機床產線提升改造專案。本次事項不構成關聯交易及重大資產重組，無需提交股東會審批。"
+    },
+    {
+      "id": "5052230",
+      "time": "2026-08-21 19:17:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同程旅行完成收購嘀嗒出行，嘀嗒將保持獨立運營】同程旅行(00780.HK)釋出公告，已完成對嘀嗒出行的要約收購。公告顯示，同程旅行共收到有效接納股份910755954股，佔嘀嗒出行已發行總股本約88.74%。收購完成後，嘀嗒出行將保持品牌及運營獨立。同程旅行表示，計劃尋求保持嘀嗒港股上市地位不變。"
+    },
+    {
+      "id": "5052229",
+      "time": "2026-08-21 19:17:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國常會：推動最佳化產業結構、能源結構、交通運輸結構，持之以恆改善空氣質量】李強主持召開國務院常務會議，會議指出，要持續深入打好藍天保衛戰，強化目標引領，加強重點區域治理和聯防聯控，完善財政、金融、價格等支援政策，推動最佳化產業結構、能源結構、交通運輸結構，持之以恆改善空氣質量。要廣泛動員各方面力量，促進形成綠色生產生活方式。"
+    },
+    {
+      "id": "mkt:01a02409-ed8b-7aab-90d1-eaf4df4f17a7",
+      "time": "2026-08-21 19:17:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "SSE Composite"
+      ],
+      "text": "【State Council: push optimization of industrial, energy and transport structures, persistently improve air quality】The State Council executive meeting, chaired by Li Qiang, called for continued intensification of the Blue Sky campaign, tighter target guidance and enhanced governance and joint prevention-control in key regions. It instructed improvement of fiscal, financial and price support measures to accelerate optimization of industrial, energy and transport structures and to sustain air-quality improvement, and urged broad mobilization to promote green production and lifestyles."
+    },
+    {
+      "id": "5052228",
+      "time": "2026-08-21 19:16:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達將向人工智慧模型初創公司Poolside支付60億美元，作為一項許可和人才招聘協議的一部分。"
+    },
+    {
+      "id": "mkt:01a02409-52d9-7aab-90d1-e00d1f9fa343",
+      "time": "2026-08-21 19:16:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) will pay $6 billion to AI model startup Poolside under a licensing and talent-recruitment agreement."
+    },
+    {
+      "id": "5052227",
+      "time": "2026-08-21 19:16:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銘普光磁：2026年上半年虧損1539.4萬元，上年同期虧損7303.87萬元】銘普光磁公告，2026年上半年營業收入10.63億元，同比增長31.88%；歸屬於上市公司股東的淨利潤虧損1539.4萬元，上年同期虧損7303.87萬元，虧損較上年同期收窄78.92%；扣除非經常性損益的淨利潤虧損2352.95萬元，虧損較上年同期收窄69.75%。"
+    },
+    {
+      "id": "5052226",
+      "time": "2026-08-21 19:16:16",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【國常會：要實施好加快加力清理拖欠企業賬款行動】李強主持召開國務院常務會議，會議指出，要實施好加快加力清理拖欠企業賬款行動，壓實主體責任，督促指導地方用好專項債券、專項再貸款等政策，打通“連環清”鏈條，切實提升清欠質量、嚴防新增拖欠。要大力整治大企業拖欠中小企業賬款問題，健全行業賬款支付規則，分行業明確合理賬期和支付條件，細化拖欠企業賬款失信行為認定標準。加強大企業支付行為監管，強化反不正當競爭執法，嚴格賬款資訊披露要求，規範管理非現金支付工具。"
+    },
+    {
+      "id": "5052225",
+      "time": "2026-08-21 19:16:12",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【國常會：牢牢把握新一代通訊網建設的機遇 鞏固提升我國資訊通訊業競爭優勢】李強主持召開國務院常務會議，會議指出，要積極順應新一輪科技革命和產業變革趨勢，牢牢把握新一代通訊網建設的機遇，堅持應用牽引、適度超前，統籌推進基礎網路、空間網路、國際網路、融合網路建設，鞏固提升我國資訊通訊業競爭優勢。要強化創新驅動、智慧引領，普及推廣新一代智慧終端，積極培育智慧城市、智慧製造等高價值場景，不斷壯大產業生態。要加強關鍵網路基礎設施和資料安全保護，提升應急保障通訊能力，確保網路和資訊保安。要健全政府引導、企業為主、社會參與的建設機制，做好用地、用電、頻譜等要素保障，激發各類主體積極性。"
+    },
+    {
+      "id": "5052224",
+      "time": "2026-08-21 19:15:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤三九：上半年歸母淨利潤16.71億元，同比下降7.96%】華潤三九8月21日披露半年報，公司上半年實現營業收入150.14億元，同比增長1.37%；歸屬於上市公司股東的淨利潤16.71億元，同比下降7.96%；基本每股收益1元/股。公司擬向全體股東每10股派發現金紅利4.15元（含稅），不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5052223",
+      "time": "2026-08-21 19:15:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國宏橋：上半年淨利潤172.1億元，同比增長39.20%】8月21日，中國宏橋在港交所公告，2026年上半年營收875.06億元，同比增長8%；淨利潤172.1億元，同比增長39.20%；基本每股盈利1.734元。"
+    },
+    {
+      "id": "mkt:01a02408-6bb7-7aab-90d1-dce0a74998bc",
+      "time": "2026-08-21 19:15:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Chance Strait of Hormuz normalizes before year-end falls to about 30%】JP Morgan says the U.S.-Iran situation held steady this week, lowering the probability the Strait of Hormuz will return to normal before year-end to roughly 30%. The bank notes the U.S. is inclined toward an \"unprecedented\" campaign of economic pressure, while Iran's short-term interests and incentives for action may not align. Monitor refined-product crack spreads (gasoline/diesel prices minus crude costs), a proxy for refinery margins and product tightness, for signals that Hormuz conditions are materially normalizing or deteriorating."
+    },
+    {
+      "id": "5052222",
+      "time": "2026-08-21 19:15:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所本週對17起證券異常交易行為採取自律監管措施】從北交所獲悉，2026年8月17日至8月21日，北交所將退市風險警示股票“*ST田野”“*ST同輝”“*ST康樂”列為重點監控股票；對17起證券異常交易行為採取自律監管措施，涉及拉抬打壓、虛假申報等異常交易情形；對14起上市公司重大事項進行專項核查。"
+    },
+    {
+      "id": "5052221",
+      "time": "2026-08-21 19:14:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李爭浩獲核准擔任申能保險副總經理】8月21日，上海金融監管局釋出批覆稱，核准李爭浩申能財產保險股份有限公司副總經理（主持工作）的任職資格。"
+    },
+    {
+      "id": "5052220",
+      "time": "2026-08-21 19:14:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安泰集團：2026年上半年虧損7413.82萬元，上年同期虧損9306.21萬元】安泰集團公告，2026年上半年營業收入25.73億元，同比增長7.91%；歸屬於上市公司股東的淨利潤虧損7413.82萬元，2025年上半年虧損9306.21萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損6583.03萬元，2025年上半年虧損8922.89萬元。"
+    },
+    {
+      "id": "5052219",
+      "time": "2026-08-21 19:14:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安泰集團：2026年上半年虧損7413.82萬元，上年同期虧損9306.21萬元】安泰集團公告，2026年上半年營業收入25.73億元，同比增長7.91%；歸屬於上市公司股東的淨利潤虧損7413.82萬元，2025年上半年虧損9306.21萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損6583.03萬元，2025年上半年虧損8922.89萬元。"
+    },
     {
       "id": "5052218",
       "time": "2026-08-21 19:14:05",
