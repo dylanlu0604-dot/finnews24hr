@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 03:52:33_
-_本檔包含 3013 則快訊，約 657252 字_
+_更新時間：2026-08-22 04:35:16_
+_本檔包含 2978 則快訊，約 657168 字_
+
+---
+
+### 2026-08-17 18:27:28  #公司 #市場
+
+【中石科技：股票交易異常波動 不存在應披露未披露重大事項】中石科技公告稱，公司股票於2026年8月13日、8月14日、8月17日連續三個交易日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。經核查，公司前期披露資訊無需更正補充，近期公共傳媒無未公開重大影響資訊，公司經營情況及內外部環境未發生重大變化。公司、控股股東及實控人不存在應披露而未披露或處於籌劃階段的重大事項。2026年8月13日，公司控股股東吳曉寧、葉露、HAN WU（吳憾）與中際旭創簽署《股份轉讓協議》，該事項已履行資訊披露義務，尚需深交所合規性確認及中國結算深圳分公司辦理過戶手續。股票異常波動期間，控股股東、實控人不存在買賣公司股票的行為，不存在違反資訊公平披露的情形。
+
+---
+
+### 2026-08-17 18:26:14  #MKT News #BABA.N
+
+【Alibaba launches AI music model Happy Shrimp 1.0】Alibaba launched an AI music model, Happy Shrimp 1.0, which it says converts natural‑language prompts — including mood, story, lyrics, genre, era and vocal requirements — into complete songs. The model is built to lower the creative threshold by understanding ordinary language rather than requiring music theory or arrangement expertise, can plan long‑form structure and generate full tracks, and is available on PC in China and internationally. New users are offered large free credit packages.
+
+---
+
+### 2026-08-17 18:25:54  #國際
+
+【特朗普再稱伊朗絕不能擁有核武器】最新訊息：美國總統特朗普今天（8月17日）在社交媒體平臺發帖稱，“（美國的）首要目標始終都是伊朗絕不能以任何方式、任何形式擁有核武器。”（CCTV國際時訊）
+
+---
+
+### 2026-08-17 18:25:37  #公司
+
+【ST惠程：預重整第二次債權人會議表決透過重整計劃草案】ST惠程公告稱，截至2026年8月14日24:00，公司預重整第二次債權人會議表決期限屆滿，有財產擔保債權組、普通債權組均表決透過《重慶惠程資訊科技股份有限公司預重整重組協議暨重整計劃草案》。目前公司尚未收到法院受理重整申請的相關文書，重整事項尚需取得中國證監會無異議覆函、最高人民法院同意批覆函，該事項存在不確定性。若法院裁定受理重整申請，公司股票將被實施退市風險警示；若重整失敗公司被宣告破產，股票將面臨終止上市風險。
+
+---
+
+### 2026-08-17 18:25:04  #公司
+
+【貝斯特：2026年上半年淨利潤1.46億元，同比降1.53%】貝斯特公告，2026年上半年營業收入7.92億元，同比增長10.57%。歸屬於上市公司股東的淨利潤1.46億元，同比下降1.53%。扣非淨利潤1.36億元，同比下降2.32%。利潤分配預案為：以5.02億股為基數，每10股派發現金紅利0.3元（含稅）。
+
+---
+
+### 2026-08-17 18:25:01  #焦點 #國際
+
+【美伊諒解備忘錄60天談判到期】根據美國伊朗6月18日簽署的諒解備忘錄，雙方承諾在60天視窗期內進行談判以期達成最終協議。如今，60天視窗期已到期。伊朗外交部發言人巴加埃今天（8月17日）在例行記者會上表示，由於美國“公然且廣泛地違反了諒解備忘錄”，談判未能進行，因此，60天期限已“完全失去意義”——伊朗的政策制定也絕不會受到“最後通牒”或“最後期限”的影響。 (CCTV國際時訊)
+
+---
+
+### 2026-08-17 18:24:32  #公司
+
+【舒華體育：2026年半年度營收7.89億元 同比增28.37%】舒華體育公告稱，2026年半年度實現營業收入7.89億元，同比增長28.37%；歸屬於上市公司股東的淨利潤4642.34萬元，同比增長130.05%。截至報告期末公司總資產19.74億元，歸屬於上市公司股東的淨資產12.18億元。報告期內無利潤分配預案，控股股東及實際控制人未發生變更。
+
+---
+
+### 2026-08-17 18:21:08  #MKT News #Macro & Rates #US Economy #JPM.N
+
+JP Morgan (JPM.N) July delinquency rate was 0.81%.
+
+---
+
+### 2026-08-17 18:20:59  #MKT News
+
+【Trump reiterates Iran must not have nuclear weapons】In a recent post, President Trump said his primary and consistent objective remains that Iran must not, in any way or form, possess nuclear weapons.
+
+---
+
+### 2026-08-17 18:20:48  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Falls for 2nd Day — India’s BSE Sensex closed about 0.4% down at 77,728 on Monday, extending previous session's losses, amid rising crude oil prices and persistent geopolitical tensions in the Middle East. Information technology stocks led the losses, with Infosys (-2.7%), HCL Technologies (-2.5%), Tata Consultancy Services (-1.9%) and Tech Mahindra (-1.8%) among the biggest laggards. Also, FMGC stocks weighed, with Hindustan Unilever falling more than 1%. By contrast, metals and private banks provided some support. Tata Steel advanced 1.5%, Axis Bank rose 1% and HDFC Bank added 0.4%.
+
+---
+
+### 2026-08-17 18:20:44  #觀點
+
+摩根大通 7 月逾期率為 0.81%  。
+
+---
+
+### 2026-08-17 18:20:24  #Trading Economics #Economy #Israel #Unemployment Rate #Importance 1
+
+Israel Unemployment Rate at 6-Month High — Israel’s seasonally adjusted unemployment rate climbed to 3.1% in July 2026 from 2.9% in June, reaching its highest reading since January. The number of unemployed people increased by 20.2 thousand from the previous month and by 5.7 thousand from a year earlier to 148.2 thousand. Meanwhile, employment rose by 11.1 thousand month-on-month and 42.2 thousand year-on-year to 4.399 million. The labor force participation rate edged up to 62.2% from 62.0%, while the employment rate rose to 60.3% from 60.2%. The non-seasonally adjusted unemployment rate also increased, reaching 3.3% from 2.8% in June.
+
+---
+
+### 2026-08-17 18:20:21  #國際
+
+【菲律賓首都及十餘省因強降雨停課 超500萬人受災】菲律賓總統府17日釋出行政命令宣佈，首都大馬尼拉地區及其他12個省份學校全部暫停線下授課，相關政府機構及工廠調整工作生產安排，以應對強降雨侵襲。菲律賓氣象局當天對大馬尼拉地區釋出最高階別“紅色暴雨警報”，警示該地區正在發生極其嚴重且危險的洪澇，呼籲低窪和沿河地區居民立即撤離危險區域。此外，菲律賓民防局17日通報說，截至當天，菲全國受災人數已達508萬人，大量建築物受損。民防局此前釋出的資料顯示，全國已有至少50個市鎮正式宣佈進入“災難狀態”，其中多數位於呂宋島。受颱風“白海豚”和“鯨魚”疊加西南季風影響，菲律賓近期多地遭受持續強降雨侵襲，引發嚴重洪澇和泥石流等災害。受災嚴重的地區包括呂宋島北部、西部及首都大馬尼拉地區。（新華社）
+
+---
+
+### 2026-08-17 18:19:43  #Trading Economics #Economy #Albania #Balance of Trade #Importance 1
+
+Albania Trade Gap Narrows in July — Albania’s trade deficit narrowed slightly to ALL 52.8 billion in July 2026 from ALL 53.0 billion in the same month a year earlier. Exports jumped 10.6% year-on-year to ALL 33.7 billion, lifted by higher shipments of construction materials and metals (72.1%), minerals, fuels, and electricity (32.4%), and machinery, equipment, and spare parts (7.8%). Among key trading partners, exports increased to Greece (+19.0%), China (+54.8%), the US (+729.2%), and Germany (+2.5%). Meanwhile, imports rose 3.6% to ALL 86.4 billion, driven largely by higher purchases of minerals, fuels, and electricity (12.7%), food, beverages, and tobacco (4.3%), and construction materials and metals (2.7%). Imports increased the most from China (+22.7%), Turkey (+10.5%), and Italy (+0.3%). During the January–July period, the country’s trade gap totalled ALL 309.1 billion, up from ALL 302.1 billion in the corresponding period of last year.
+
+---
+
+### 2026-08-17 18:19:17  #MKT News
+
+US President Trump said Iran must never possess nuclear weapons in any form or under any circumstances.
+
+---
+
+### 2026-08-17 18:19:00  #焦點 #國際
+
+美國總統特朗普：首要目標是伊朗不能擁有核武器。
+
+---
+
+### 2026-08-17 18:18:59  #MKT News
+
+US President Trump said the primary objective is for Iran not to possess nuclear weapons.
+
+---
+
+### 2026-08-17 18:18:51  #公司 #市場
+
+【神奇製藥：股票交易異常波動 相關風險提示】神奇製藥公告稱，公司股票於2026年8月13日、8月14日、8月17日連續三個交易日漲停，累計漲幅達33.02%，收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動。2026年第一季度公司實現營收4.23億元，同比下滑11.87%，扣非淨利潤1267.72萬元，同比下滑15.44%。截至2026年8月17日收盤，公司動態市盈率為73.06倍，高於同行業平均水平。公司控股股東一致行動人張之君已減持1%公司股份，剩餘1.69%股份擬透過大宗交易減持，減持屆滿時間為2026年8月25日。公司目前生產經營正常，不存在應披露未披露的重大資訊。
+
+---
+
+### 2026-08-17 18:18:49  #公司
+
+【歐派家居：8月18日登出342.57萬股回購股份】歐派家居公告稱，公司將於2026年8月18日登出已回購的3425660股股份，登出完成後總股本將相應減少，控股股東及其一致行動人持股比例將從74.82%被動提升至75.25%，不會導致公司控制權發生變化。本次登出事項已履行全部審議決策程式，債權人公示期已滿45天未收到異議，後續將依法辦理工商變更登記手續。
+
+---
+
+### 2026-08-17 18:18:40  #公司
+
+【TCL智家：將舉辦2026年半年度業績說明會】TCL智家公告稱，公司定於2026年8月21日15:00-16:00在“價值線上”平臺以網路互動方式舉辦2026年半年度業績說明會，參會人員包括獨立董事劉寧、總經理兼財務總監王浩、董事會秘書溫曉瑞。投資者可於2026年8月21日15:00-16:00透過指定網址或小程式碼參與互動交流，也可提前提交問題，公司將在資訊披露允許範圍內回應投資者普遍關注的問題。
+
+---
+
+### 2026-08-17 18:18:32  #公司
+
+【TCL智家：2026年上半年營收9.93億元 淨利同比降19.88%】TCL智家公告稱，2026年半年度實現營業收入99.34億元，同比增長4.83%；歸母淨利潤5.12億元，同比下降19.88%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。截至報告期末公司普通股股東總數為30231戶，控股股東未發生變更。
+
+---
+
+### 2026-08-17 18:18:27  #公司 #市場
+
+【藍盾光電：股價異常波動 提示業績及收購相關風險】藍盾光電公告稱，公司股票2026年8月14日、8月17日連續2個交易日收盤價格漲幅偏離值累計超30%，屬於股票交易異常波動情形。經核查，公司及控股股東、實控人等不存在應披露未披露重大事項。2025年度公司營收3.99億元，同比下降34.53%；淨虧損8876.65萬元，同比下降1468.72%。2026年第一季度營收8811.63萬元，同比下降13.20%；淨虧損866.43萬元，同比下降271.99%。公司擬發行股份及支付現金購買蘇州嵐創科技有限公司控股權並募集配套資金，該交易尚需多項審批，存在暫停、中止或取消的不確定性風險。截至2026年8月14日，公司滾動市盈率為負數，股價短期波動大，存在衝高後回撥風險。
+
+---
+
+### 2026-08-17 18:18:05  #公司
+
+【石化油服：披露盛駿公司關聯金融業務風險評估報告】石化油服公告稱，公司完成對中國石化盛駿國際投資有限公司的關聯存貸款等金融業務風險持續評估。截至2026年6月30日，盛駿公司資產總額2660.44億元，淨資產347.05億元，2026年上半年營收48.17億元，淨利潤10.03億元，資產負債率86.96%，穆迪、標普信用評級分別為A1、A級。2026年6月末公司在盛駿公司存款等值人民幣15.09億元，貸款等值人民幣0元，相關關聯金融業務目前不存在不可控風險。
+
+---
+
+### 2026-08-17 18:17:37  #公司
+
+【石化油服：擬400萬美元收購墨西哥DS公司50%股權並追加投資2.12億美元】石化油服公告，公司全資子公司國工公司及國工墨西哥子公司擬以400萬美元收購DIAVAZ持有的墨西哥DS公司50%股權及D&S公司持有的EBANO專案0.01%權益，收購完成後國工公司將合計持有墨西哥DS公司100%股權，並透過其間接獲得EBANO專案55%權益。後續計劃向EBANO專案追加投資不超過2.12億美元。本次交易已獲董事會審議透過，尚需提交股東會批准及滿足多項交割先決條件。
+
+---
+
+### 2026-08-17 18:17:34  #國際
+
+【“60天談判期”已滿 美國“體面退出”成奢望】17日，美國和伊朗諒解備忘錄所設定的60天談判視窗期期滿。雙方6月中旬遠端簽署這一備忘錄，承諾在60天內進行談判並達成最終協議。分析人士認為，美國特朗普政府原本希望透過諒解備忘錄恢復霍爾木茲海峽通航，併為下一步核問題談判創造條件，最終實現從伊朗戰事中“體面退出”。然而，由於在霍爾木茲海峽等問題上存在嚴重分歧且缺乏互信，美伊過去60天裡再次發生激烈軍事衝突，對抗短期內難以結束，美國陷入進退兩難的困境。（新華社）
+
+---
+
+### 2026-08-17 18:17:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran said more than 200 enemy aircraft were shot down in recent fighting.
+
+---
+
+### 2026-08-17 18:17:29  #公司
+
+【石化油服：2026年上半年淨利潤5.1億元，同比增長3.5%】石化油服公告，2026年上半年營業收入376.64億元，同比增長1.7%。歸屬於上市公司股東的淨利潤5.1億元，同比增長3.5%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4.69億元，同比增長10.7%。公司不分配2026年半年度利潤，也不實施資本公積金轉增股本。
+
+---
+
+### 2026-08-17 18:17:09  #國際
+
+歐盟委員會主席馮德萊恩：受持續高溫和乾旱天氣影響，西班牙、比利時、德國、義大利、希臘、葡萄牙、克羅埃西亞、黑山、阿爾巴尼亞及塞爾維亞等多國正遭遇大規模野火侵襲。面對嚴峻的災情，歐盟正透過民防機制協調跨國救援行動，以應對當前危機。馮德萊恩指出，歐洲各國正展現出團結互助精神，共同應對這場自然災害。目前，法國已向西班牙部署消防團隊支援滅火；瑞典和荷蘭的救援力量正在比利時協助撲救山火；挪威和德國也已緊急調派直升機前往災區參與救援。
+
+---
+
+### 2026-08-17 18:15:12  #公司
+
+【雪峰科技：2026年第二季度炸藥平均價格同比下降22.44%】雪峰科技公告，公司2026年第二季度主要經營資料，炸藥產量23393.13噸，銷量23405.19噸，營業收入1.5億元；炸藥平均價格6413.87元/噸，較2025年同期的8269.43元/噸下降22.44%。雷管平均價格同比下降16.43%，三聚氰胺平均價格同比上升17.83%，液化天然氣平均價格同比上升28.44%。
+
+---
+
+### 2026-08-17 18:15:07  #公司
+
+【雪峰科技：2026年上半年淨利潤2.54億元，同比增長9.85%】雪峰科技公告，2026年上半年營業收入25.37億元，同比下降6.03%。歸屬於上市公司股東的淨利潤2.54億元，同比增長9.85%。扣非淨利潤2.38億元，同比增長7.24%。基本每股收益0.237元。本報告期未進行利潤分配或公積金轉增股本。
+
+---
+
+### 2026-08-17 18:14:45  #公司
+
+【寧波方正：為間接控股子公司提供4000萬元擔保】寧波方正公告稱，公司與中國銀行股份有限公司鷹潭市分行簽訂《最高額保證合同》，為間接控股子公司江西省方正新能源科技有限公司提供最高限額4000萬元的連帶責任保證擔保。本次擔保在2026年度已審議透過的合計3.30億元擔保額度範圍內，無需額外履行審議程式。截至公告披露日，公司及子公司實際擔保餘額為7870萬元，佔公司2025年末經審計歸屬於上市公司股東淨資產的6.00%，無逾期擔保、涉訴擔保情形。
+
+---
+
+### 2026-08-17 18:14:38  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【Ukraine says 16 domestic sites hit in overnight Russian strikes】Ukraine said Russian forces struck 16 locations across Sumy, Odesa, Kharkiv and other regions overnight from the 16th into the early hours of the 17th, killing at least two people and wounding 11. The Ukrainian air force said Russia launched 128 drones; by 08:30 on the 17th Ukrainian air-defence units and electronic-warfare forces had intercepted 106. The State Emergency Service reported residential buildings in Sumy were hit, causing the two deaths and one injury.
+
+---
+
+### 2026-08-17 18:14:35  #公司 #觀點
+
+【乖寶寵物：1020.43萬股首發前股份8月20日解禁上市】乖寶寵物公告稱，本次部分首次公開發行前已發行股份上市流通日期為2026年8月20日，申請解除股份限售的股東共2戶，本次解除限售股份數量為1020.43萬股，佔公司總股本比例為2.55%，本次解除限售股份不存在質押凍結情形。截至核查意見出具日，相關股東均嚴格履行股份鎖定相關承諾，不存在非經營性佔用公司資金情形，公司不存在對上述股東的違規擔保，保薦人中泰證券對本次限售股份上市流通事項無異議。
+
+---
+
+### 2026-08-17 18:14:31  #公司
+
+【青鳥智控：回購股份比例達1.05%，累計支付1.24億元】青鳥智控公告，公司此前審議透過回購方案，用於實施員工持股計劃或股權激勵，回購價格上限調整為不超過13.24元/股，回購股份數量不低於總股本2.5%且不超過5%。截至2026年8月17日，公司累計回購股份1103.37萬股，佔公司總股本的1.05%，最高成交價11.76元/股，最低成交價8.17元/股，支付總金額1.24億元（不含交易費用）。
+
+---
+
+### 2026-08-17 18:14:26  #公司
+
+【豪美新材：擬出資1億元參與設立人工智慧產業基金】豪美新材公告，公司擬與專業投資機構共同投資設立中芯熙誠（四川）人工智慧創業投資基金合夥企業（有限合夥），目標募集資金總額為人民幣10億元，公司作為有限合夥人以自有資金認繳出資人民幣1億元，佔認繳比例的10%。該基金將主要投資人工智慧成長期、成熟期企業，重點覆蓋基礎層、技術層及應用層等核心環節。
+
+---
+
+### 2026-08-17 18:14:19  #公司 #國際
+
+【華住集團：二季度收入71億元 同比增長10.8%】華住集團公告稱，二季度收入71億元，同比增長10.8%；淨利潤為16億元，上年同期為15億元 。第二季度，HWI所有在營酒店的入住率為70.5%，相比之下2025年第二季度為74.0%，而上一季度為63.3%。2026年上半年，華住集團收入為131億元（相當於19億美元），較2025年上半年增長11.0%。董事會宣派總額約為275百萬美元的普通現金股息，即每股普通股0.087美元，或每股美國預託股份0.87美元。
+
+---
+
+### 2026-08-17 18:14:08  #國際
+
+【烏軍稱境內16處地點遇襲】據烏克蘭空軍和地方官員17日在社交媒體釋出的訊息，16日晚至17日凌晨，俄軍對蘇梅州、敖德薩州、哈爾科夫州等16處地點發動襲擊，截至17日上午，襲擊已造成至少2人死亡，另有11人受傷。烏克蘭空軍17日上午發文稱，16日晚至17日凌晨，俄軍向烏境內發射了128架無人機，截至17日8時30分，烏防空火力和電子戰部隊攔截了106架無人機。烏國家緊急情況局17日上午發文稱，當天凌晨，俄軍對蘇梅州發動襲擊，當地一些居民樓和建築遭襲，造成2人死亡，1人受傷。（新華社）
+
+---
+
+### 2026-08-17 18:12:22  #公司
+
+【寧波方正：為間接控股子公司提供4000萬元擔保】寧波方正公告稱，公司與中國銀行股份有限公司鷹潭市分行簽訂《最高額保證合同》，為間接控股子公司江西省方正新能源科技有限公司提供最高限額4000萬元的連帶責任保證擔保。本次擔保在2026年度已審議透過的合計3.30億元擔保額度範圍內，無需額外履行審議程式。截至公告披露日，公司及子公司實際擔保餘額為7870萬元，佔公司2025年末經審計歸屬於上市公司股東淨資產的6.00%，無逾期擔保、涉訴擔保情形。
 
 ---
 
@@ -17766,443 +17994,5 @@ Harvard University disclosed a US$2.2 billion holding in SpaceX (SPCX.O).
 ### 2026-08-15 04:38:39  #MKT News #INTC.O #Impact bullish
 
 SEC filing shows Intel (INTC.O) CEO Chen Liwu bought 105,263 shares in the open market on Aug. 11 at an average price of $95 per share.
-
----
-
-### 2026-08-15 04:35:12  #公司 #國際
-
-【索羅斯第二季度新建Nebius等頭寸】索羅斯在第二季度新建了美國電力（AEP）、Nebius集團（NBIS）、Apogee Therapeutics（APGE）、DigitalBridge集團（DBRG）、Taylor Morrison住宅（TMHC）的頭寸；清倉了賽富時（CRM）、Penumbra（PEN）、Select Medical控股（SEM）、格芯（GFS）、Clear Channel戶外廣告（CCO）。
-
----
-
-### 2026-08-15 04:35:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index dropped 108 points or 0.20 percent on Friday to close at 53732 points. Losses were led by Salesforce (-2.25%), Cisco Systems (-1.67%) and Amgen (-1.28%). Offsetting the fall, top gainers were Walt Disney (2.05%), Chevron (1.16%) and UnitedHealth (0.61%).
-
----
-
-### 2026-08-15 04:34:39  #國際
-
-美國國家颶風中心預測，拉拉颶風將於週六給夏威夷大島帶來颶風天氣。
-
----
-
-### 2026-08-15 04:34:22  #其他
-
-哈佛大學披露持有SpaceX價值22億美元的股權。
-
----
-
-### 2026-08-15 04:34:15  #國際
-
-美國國家颶風中心表示，颶風赫爾南幾乎停滯不前，並減弱為熱帶低氣壓。
-
----
-
-### 2026-08-15 04:33:58  #國際
-
-【美媒：美對古戰略側重經濟制裁而非軍事選項】據美國彭博社14日報道，特朗普政府對古巴的戰略正日益側重於加大經濟制裁和施壓，而非部署軍事力量。報道援引不願透露姓名的知情人士的話說，美方目前關注重點在於切斷古巴政權的所有收入來源，而不是採取類似今年1月針對委內瑞拉總統馬杜羅的那種軍事行動，並稱該戰略“旨在製造內部分裂，為談判創造空間”。（新華社）
-
----
-
-### 2026-08-15 04:31:55  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-SEC filing shows NVIDIA (NVDA.O) holds 122.8 mln Class A common shares of SpaceX (SPCX.O), valued at about $21.0 bln.
-
----
-
-### 2026-08-15 04:31:33  #國際
-
-特朗普在紐約的活動上結束講話。
-
----
-
-### 2026-08-15 04:30:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Retreats From Record High — The S&P/TSX Composite Index shed 0.1% to close at 36,730 on Friday, retreating slightly from the record reached in the prior session amid losses in the technology and retail sectors. The technology sector tracked weakness among Wall Street-listed hyperscalers, with Shopify losing 3%, Constellation Software down 2.3% and Celestica tumbling 4%. Meanwhile, Canadian retailers traded lower amid disappointing US data pointing to a slowdown in the sector. ATD shed 0.7% and Loblaw lost 1.1%. The industrial sector was also mostly lower, with Enbridge down 1.2% despite fresh data showing growth in Canada’s factory sales. Financials traded mostly higher despite energy-driven inflationary pressures, as signs of macroeconomic headwinds in the US supported expectations of a Fed rate hold at the next FOMC meeting. TD Bank added 0.5% and CIBC gained 0.8%. Gold prices rose on expectations for US monetary policy, lifting miners. Agnico Eagle rose 2.9%, while WPM and Barrick gained 1.3%.
-
----
-
-### 2026-08-15 04:29:12  #其他
-
-市場訊息：英偉達在SpaceX的持股價值約210億美元。
-
----
-
-### 2026-08-15 04:27:50  #公司
-
-市場訊息：阿波羅債務解決方案公司將最高收購股東提交的2900萬股要約股份。
-
----
-
-### 2026-08-15 04:26:37  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-US President Trump said Iran still has missiles and drones, but not many remain.
-
----
-
-### 2026-08-15 04:25:58  #MKT News
-
-U.S. President Trump said no one knows how successful we have been in Iran, and that Iran knows best how well we have done.
-
----
-
-### 2026-08-15 04:25:06  #MKT News #Commodities #Energy #WTI #Brent
-
-President Trump said the US draws millions of barrels of oil from Venezuela each week.
-
----
-
-### 2026-08-15 04:24:58  #國際
-
-特朗普：伊朗貨幣毫無價值。
-
----
-
-### 2026-08-15 04:24:43  #國際
-
-特朗普：伊朗仍然擁有導彈和無人機，但不多。
-
----
-
-### 2026-08-15 04:24:37  #國際
-
-特朗普重申伊朗已無防禦力量。
-
----
-
-### 2026-08-15 04:23:57  #國際
-
-特朗普：我們在伊朗問題上取得了重大勝利。
-
----
-
-### 2026-08-15 04:23:35  #國際
-
-特朗普：每週從委內瑞拉獲取數百萬桶石油。
-
----
-
-### 2026-08-15 04:21:19  #MKT News #XAUUSD #Impact bearish #WTI #DXY
-
-Trump said the U.S. has the capability to destroy Iran but does not want to do so.
-
----
-
-### 2026-08-15 04:20:56  #國際
-
-特朗普發言吹捧美國股市。
-
----
-
-### 2026-08-15 04:20:12  #MKT News #Important
-
-Politico reports a White House official said the U.S.-Iran situation is unchanged and there is no word yet on an extension of the U.S.-Iran ceasefire agreement.
-
----
-
-### 2026-08-15 04:19:57  #公司
-
-索羅斯基金管理有限責任公司將亞馬遜持股削減39.2%，至120萬股。
-
----
-
-### 2026-08-15 04:18:24  #公司
-
-索羅斯基金管理有限責任公司增持蘋果公司股份5.8%，至529,538股。
-
----
-
-### 2026-08-15 04:18:04  #公司
-
-【伯克希爾·哈撒韋第二季度增持谷歌】伯克希爾·哈撒韋在第二季度清倉了星座品牌（STZ）；減持了克羅格（KR）、第一資本金融（COF）、紐柯鋼鐵（NUE）、Ally金融（ALLY）、達維塔（DVA）。增持了谷歌A（GOOGL）、谷歌（GOOG）、達美航空（DAL）、萊納房屋（LEN）、梅西百貨（M）。
-
----
-
-### 2026-08-15 04:18:01  #公司 #市場
-
-受伯克希爾哈撒韋公司13F檔案顯示增持股份影響，梅西百貨股價上漲1.2%。
-
----
-
-### 2026-08-15 04:17:51  #國際
-
-特朗普：美國有能力摧毀伊朗，但我們不想那樣做。
-
----
-
-### 2026-08-15 04:17:11  #其他
-
-市場訊息：有報道稱美伊停火協議目前暫無延期計劃。
-
----
-
-### 2026-08-15 04:16:33  #其他
-
-市場訊息：白宮官員稱美伊局勢“穩定”。
-
----
-
-### 2026-08-15 04:16:08  #國際
-
-美國銀行存款從前一週的19.368萬億美元增至19.496萬億美元。
-
----
-
-### 2026-08-15 04:14:14  #Trading Economics #Economy #Paraguay #Consumer Confidence #Importance 0
-
-Paraguay Consumer Confidence Edges Higher — Paraguay’s Consumer Confidence Index rose to 42.99 in July 2026 from 41.23 in June, although it remained below the neutral threshold. The Economic Situation Index increased 2.17 points to 32.42, while the Economic Expectations Index rose 1.34 points to 53.55. Meanwhile, 13.50% of respondents said they were willing to save, down 1.50 percentage points from the previous month. Regarding willingness to purchase durable goods, intentions to buy houses and motorcycles increased, while those for household appliances and automobiles declined.
-
----
-
-### 2026-08-15 04:14:04  #MKT News #GOOGL.O #Impact bullish #GOOG.O
-
-SEC filing shows Berkshire Hathaway raised its stake in Alphabet (GOOG.O) Class A shares by 45.2% to 78.8 mln shares; Class C holdings rose to 27.2 mln shares.
-
----
-
-### 2026-08-15 04:13:20  #市場
-
-D.R. HORTON股價盤後上漲3.3%。
-
----
-
-### 2026-08-15 04:12:38  #公司
-
-APPALOOSA第二季度減持阿里巴巴、惠而浦、高通、AMD和美光。
-
----
-
-### 2026-08-15 04:12:07  #公司 #國際
-
-美國國家鐵路客運公司（Amtrak）：新建中西部維修設施預計將在約18個月的開發建設階段創造約3000個就業崗位。
-
----
-
-### 2026-08-15 04:11:53  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump says he will soon declare Strait of Hormuz "U.S. territory"】Trump said he will soon declare the Strait of Hormuz "U.S. territory" after defeating Iran. He called a blockade of Iran "unstoppable" and a "wall of steel," and said the U.S. is fully prepared to respond to Iran, will not allow Iran to continue related actions or to acquire nuclear weapons. He said U.S. consumers would pay only a very small price for higher gasoline, said he did not care about hitting Iran's economy before the midterms, and said the U.S. has made a lot of money from tariffs.
-
----
-
-### 2026-08-15 04:11:11  #公司 #國際
-
-美國鐵路公司(Amtrak)：獲得最高5.72億美元及最高8700萬美元的撥款，將用於解決芝加哥長期存在的鐵路基礎設施需求。
-
----
-
-### 2026-08-15 04:11:03  #公司
-
-伯克希爾哈撒韋公司增持達美航空股份44.0%，至5,730萬股。
-
----
-
-### 2026-08-15 04:10:45  #其他
-
-COATUE MANAGEMENT LLC將微軟持股增加18.4%至290萬股。
-
----
-
-### 2026-08-15 04:08:55  #公司
-
-維京全球投資公司清倉谷歌母公司Alphabet Inc A類普通股股份。增持META PLATFORMS INC A類股股份75.8%，至190萬股。
-
----
-
-### 2026-08-15 04:08:33  #公司
-
-市場訊息：維京全球投資公司減持微軟公司股份36.8%，至150萬股。
-
----
-
-### 2026-08-15 04:08:04  #Trading Economics #Markets #Canada #Currency #Importance 1
-
-Canadian Dollar Gains for Third Straight Week — The Canadian dollar strengthened to 1.39 per USD, posting a third consecutive weekly gain as yield spreads narrowed. Domestic factory data supported the recent narrowing in the gap between US and Canadian bond yields. The spread between Canada’s 2-year yield and the US equivalent has narrowed by about 17 basis points this month. Canadian factory sales rose 0.1% in June from May, marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Meanwhile, US retail sales unexpectedly fell in July by the most in more than a year. Recent data also showed a stronger Canadian labor market and weaker US employment, reducing expectations for a Federal Reserve rate hike this year while raising the prospect of a BoC hike if energy prices remain elevated. Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast.
-
----
-
-### 2026-08-15 04:07:56  #公司
-
-市場訊息：維京全球投資公司清倉蘋果公司股份。
-
----
-
-### 2026-08-15 04:05:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Fall on Signs of Economic Cooling — US stock indices closed lower on Friday as macroeconomic headwinds weighed. The S&P 500 eased 0.2% from its record high, while the Dow shed 108 points and the Nasdaq 100 fell 0.1%. The University of Michigan’s preliminary August sentiment index fell to 51, below forecasts of 55. Meanwhile, retail sales dropped in July by the most in over a year. The data, alongside weak jobs figures and soft inflation, suggested that the economy is showing signs of cooling. A slowdown in consumer spending could weigh on corporate profits and the stock market. Hyperscalers, including Meta (-0.9%), Oracle (-3.8%) and Amazon (-0.9%), posted losses. Heavyweight chipmakers closed mixed, with Broadcom down 5.9%, Intel losing 2%, and Nvidia edging lower, while AMD (+6.5%) and memory producers extended their strong gains from earlier in the week. Micron added 2.3% on bullish recommendations from analysts and brokers, while Sandisk jumped 7.4% following its 14% surge on Thursday.
-
----
-
-### 2026-08-15 04:04:36  #MKT News #S&P500 #Impact bullish #Dow #Impact bearish
-
-This week the S&P 500 rose 0.4%, the Dow Jones Industrial Average fell 0.6%, and the Nasdaq Composite rose 0.1%.
-
----
-
-### 2026-08-15 04:04:12  #MKT News
-
-Fitch affirms Brazil's Rio de Janeiro state rating at 'BB'; outlook stable.
-
----
-
-### 2026-08-15 04:04:09  #MKT News
-
-U.S. banking regulators have conditionally approved a bank charter for World Liberty Trust Co., an entity affiliated with the Trump family, according to a letter.
-
----
-
-### 2026-08-15 04:04:07  #國際
-
-【特朗普聲稱將宣佈霍爾木茲海峽為“美國領土”】美國總統特朗普14日在白宮發表講話談及伊朗問題時，宣稱“很快就會宣佈霍爾木茲海峽成為美國的領土”。（新華社）
-
----
-
-### 2026-08-15 04:03:48  #市場
-
-本週，標普500指數上漲0.4%，道指下跌0.6%，納斯達克指數上漲0.1%。
-
----
-
-### 2026-08-15 04:03:43  #MKT News #Dow #Impact bearish #S&P500 #Nasdaq100
-
-On Friday, Aug. 14, U.S. equities closed lower: the Dow Jones Industrial Average fell 107.46 points (0.20%) to 53,732.53; the S&P 500 fell 13.30 points (0.17%) to 7,785.69; the Nasdaq Composite fell 73.86 points (0.28%) to 26,729.16.
-
----
-
-### 2026-08-15 04:03:00  #MKT News #Important #AVGO.O #Impact bearish #S&P500
-
-【US close: major indices lower; Broadcom down nearly 6%】US stocks posted a preliminary close lower on Friday: Dow Jones -0.20%, S&P 500 -0.17%, Nasdaq -0.28%. Drone-tech Unusual Machines (UMAC.N) jumped 24.83%. Storage names extended gains: SanDisk (SNDK.O) +7.39%, Micron Technology (MU.O) +2.3%. Semiconductors were mixed: AMD (AMD.O) +6.5%, Broadcom (AVGO.O) -5.94%, Applied Materials (AMAT.O) -5.12%. The Nasdaq Golden Dragon China Index rose 0.6%.
-
----
-
-### 2026-08-15 04:01:53  #公司 #國際
-
-市場訊息：美國銀行監管機構向與特朗普有關聯的世界自由信託公司有條件批准其銀行牌照。
-
----
-
-### 2026-08-15 04:00:58  #公司 #市場
-
-維京集團股價收盤下跌7.7%，創下自2025年4月以來最大跌幅。
-
----
-
-### 2026-08-15 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.20%，標普500指數跌0.17%，納指跌0.28%。博通跌5.94%，GoDaddy跌5.59%，應用材料跌5.12%，Strategy跌4.18%，羅賓漢跌3.83%。“七姐妹”方面：特斯拉漲0.68%，蘋果漲0.22%，英偉達跌0.06%，谷歌跌0.12%，微軟跌0.30%，Meta Platforms跌0.86%，亞馬遜跌0.94%。
-
----
-
-### 2026-08-15 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.54%】嘉楠科技漲6.03%，鬥魚漲4.22%，中進醫療漲3.99%，搜狐漲3.87%，華住酒店集團漲3.38%。
-
----
-
-### 2026-08-15 03:58:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-President Trump said the blockade of Iran is unstoppable and constitutes a wall of steel.
-
----
-
-### 2026-08-15 03:58:06  #MKT News #Market Themes #The Trump Trade #Commodities #Energy
-
-Trump said U.S. gasoline prices would rise slightly as a result.
-
----
-
-### 2026-08-15 03:57:51  #MKT News
-
-Trump on Iran: the United States is fully prepared.
-
----
-
-### 2026-08-15 03:57:20  #市場
-
-PAYPAL股價放量上漲，此前有報道其正與Stripe和Advent International進行交易談判。
-
----
-
-### 2026-08-15 03:56:58  #MKT News #WTI #Impact bullish #Brent #DXY
-
-President Trump said the U.S. will not allow Iran to continue its current actions.
-
----
-
-### 2026-08-15 03:56:36  #國際
-
-特朗普：封鎖勢不可擋。
-
----
-
-### 2026-08-15 03:56:21  #國際
-
-特朗普談伊朗：美國只需為汽油付出一點點代價。
-
----
-
-### 2026-08-15 03:56:16  #MKT News
-
-US President Trump said the United States will not allow Iran to possess nuclear weapons.
-
----
-
-### 2026-08-15 03:56:15  #其他
-
-【葉門摩卡港遭導彈襲擊 胡塞武裝稱打擊沙特目標】當地時間14日，葉門胡塞武裝發言人葉海亞稱，胡塞武裝在摩卡地區發射多枚彈道導彈，打擊沙特方面的軍事集結點、武器裝備及其控制的軍艦。葉海亞稱，襲擊命中目標，摧毀軍艦裝備，造成數十名武裝人員死傷，並表示將持續打擊沙特軍事集結目標。（央視新聞）
-
----
-
-### 2026-08-15 03:56:08  #國際
-
-【特朗普稱將在經濟上對伊朗實施嚴厲打擊】當地時間8月14日，美國總統特朗普在接受媒體採訪時表示，美國將在經濟上對伊朗實施嚴厲打擊。（央視新聞）
-
----
-
-### 2026-08-15 03:55:40  #MKT News #WTI #Impact bullish #Brent #S&P500 #Impact bearish
-
-【Houthis say ballistic missiles struck Saudi military targets at Mokha port】On the 14th local time, Houthi spokesperson Yahya said the group fired multiple ballistic missiles in the Mokha area of Yemen, striking Saudi military assembly points, weapons and equipment, and a Saudi-controlled warship. He said the strikes hit their targets, destroyed equipment on the ship, caused dozens of casualties among armed personnel, and that the Houthis will continue to strike Saudi military assembly targets.
-
----
-
-### 2026-08-15 03:55:29  #國際
-
-特朗普談伊朗：我們已經做好充分準備。
-
----
-
-### 2026-08-15 03:55:11  #國際
-
-特朗普：我們不能讓伊朗繼續下去。
-
----
-
-### 2026-08-15 03:54:30  #國際
-
-特朗普重申，美國不能讓伊朗擁有核武器。
-
----
-
-### 2026-08-15 03:54:05  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Trump said on Iran he will soon declare the Strait of Hormuz U.S. territory.
-
----
-
-### 2026-08-15 03:53:50  #MKT News #SPCX.O
-
-Balyasny Asset Management disclosed a holding of 3.4 million shares in SpaceX (SPCX.O).
-
----
-
-### 2026-08-15 03:53:40  #焦點 #國際
-
-特朗普談伊朗：我很快將宣佈霍爾木茲海峽為美國領土。
-
----
-
-### 2026-08-15 03:53:27  #國際
-
-特朗普談及伊朗：伊朗正遭到慘重挫敗。
 
 ---
