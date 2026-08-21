@@ -1,7 +1,81 @@
 {
   "date": "2026-08-21",
-  "count": 917,
+  "count": 924,
   "items": [
+    {
+      "id": "mkt:01a0223c-ebe7-7aab-90c6-e0ac7ece0f34",
+      "time": "2026-08-21 10:53:32",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises PT on Moderna (MRNA.O) to $77 from $40."
+    },
+    {
+      "id": "mkt:01a0223c-7e75-7aab-90c6-df34262c8b43",
+      "time": "2026-08-21 10:53:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Platinum front-month contract up more than 4.00% intraday, trading at 460.65 yuan/gram."
+    },
+    {
+      "id": "te:markets:577064",
+      "time": "2026-08-21 10:52:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Poised for Solid Weekly Gains — Indonesian stocks rose 26 points or 0.4% to 6,527 in Friday’s morning trade, extending gains to a three-month high after Thursday’s advance. Sentiment was lifted by stronger U.S. equity futures despite Wall Street’s overnight losses on rebounding Treasury yields and surging oil prices. Locally, July credit growth remained firm though businesses slowed borrowing amid uncertainty. Upside was capped by caution ahead of Q2 current account data due later today, after Q1’s deficit widened to its largest since 2019 on weak trade. Risks also linger from potential El Niño-driven food inflation, threatening purchasing power and confidence. Gains were broad-based, led by financials, infrastructure, and property, with Bank Rakyat Indonesia (2.2%), Sumber Alfaria Trijaya (1.8%), Indosat (1.5%), and Bank Mandiri (1.2%) among key movers. For the week, the market is on track for solid gains of about 1.9%, rebounding from last week’s modest decline."
+    },
+    {
+      "id": "5051146",
+      "time": "2026-08-21 10:52:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5051145",
+      "time": "2026-08-21 10:52:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：財政金融協同促內需一攬子政策已惠及企業622萬家】今年，我國創新推出了財政金融協同促內需一攬子政策，這是更加積極財政政策的重頭戲之一。在今天上午國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會上，財政部“曬”出了一攬子政策的成績單。據介紹，今年，財政金融協同促內需6項政策工具，中央財政安排1000億元，透過財政引導、金融放大、市場運作的傳導鏈條，實現“1+1＞2”的政策效果。財政部副部長廖岷表示，一攬子政策出臺6個多月以來，實施進展符合預期，政策效能逐步顯現，大約有居民1.13億人次，包括有622萬家企業，獲得了政策支援。"
+    },
+    {
+      "id": "mkt:01a0223b-8385-7aab-90c6-d14a77429fe1",
+      "time": "2026-08-21 10:52:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【China's Ministry of Finance says medium-to-long-term measures to boost household consumption will include social security upgrades, income-distribution reform and tax-transfer redistribution】China's Ministry of Finance Deputy Minister Liao Min said at a State Council Information Office briefing on Aug. 21 that, under the 'Expand Consumption' 15th Five-Year Plan, the near-term priority is fully implementing existing policies to speed their impact, with emphasis on employment and income growth. Over the medium-to-long term the ministry plans to raise household consumption capacity by strengthening social security, deepening income-distribution reforms and enhancing tax-transfer redistribution."
+    },
+    {
+      "id": "mkt:01a02239-cb04-7aab-90c6-cac881f19c6d",
+      "time": "2026-08-21 10:50:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver hit $69/oz, up 1.35% intraday."
+    },
     {
       "id": "5051144",
       "time": "2026-08-21 10:49:26",

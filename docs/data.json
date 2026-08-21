@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-21 10:50:24",
-  "count": 16032,
+  "updated": "2026-08-21 10:54:18",
+  "count": 16034,
   "items": [
+    {
+      "id": "mkt:01a0223c-ebe7-7aab-90c6-e0ac7ece0f34",
+      "time": "2026-08-21 10:53:32",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises PT on Moderna (MRNA.O) to $77 from $40."
+    },
+    {
+      "id": "mkt:01a0223c-7e75-7aab-90c6-df34262c8b43",
+      "time": "2026-08-21 10:53:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Platinum front-month contract up more than 4.00% intraday, trading at 460.65 yuan/gram."
+    },
+    {
+      "id": "te:markets:577064",
+      "time": "2026-08-21 10:52:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Poised for Solid Weekly Gains — Indonesian stocks rose 26 points or 0.4% to 6,527 in Friday’s morning trade, extending gains to a three-month high after Thursday’s advance. Sentiment was lifted by stronger U.S. equity futures despite Wall Street’s overnight losses on rebounding Treasury yields and surging oil prices. Locally, July credit growth remained firm though businesses slowed borrowing amid uncertainty. Upside was capped by caution ahead of Q2 current account data due later today, after Q1’s deficit widened to its largest since 2019 on weak trade. Risks also linger from potential El Niño-driven food inflation, threatening purchasing power and confidence. Gains were broad-based, led by financials, infrastructure, and property, with Bank Rakyat Indonesia (2.2%), Sumber Alfaria Trijaya (1.8%), Indosat (1.5%), and Bank Mandiri (1.2%) among key movers. For the week, the market is on track for solid gains of about 1.9%, rebounding from last week’s modest decline."
+    },
+    {
+      "id": "5051146",
+      "time": "2026-08-21 10:52:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5051145",
+      "time": "2026-08-21 10:52:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部：財政金融協同促內需一攬子政策已惠及企業622萬家】今年，我國創新推出了財政金融協同促內需一攬子政策，這是更加積極財政政策的重頭戲之一。在今天上午國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會上，財政部“曬”出了一攬子政策的成績單。據介紹，今年，財政金融協同促內需6項政策工具，中央財政安排1000億元，透過財政引導、金融放大、市場運作的傳導鏈條，實現“1+1＞2”的政策效果。財政部副部長廖岷表示，一攬子政策出臺6個多月以來，實施進展符合預期，政策效能逐步顯現，大約有居民1.13億人次，包括有622萬家企業，獲得了政策支援。"
+    },
+    {
+      "id": "mkt:01a0223b-8385-7aab-90c6-d14a77429fe1",
+      "time": "2026-08-21 10:52:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【China's Ministry of Finance says medium-to-long-term measures to boost household consumption will include social security upgrades, income-distribution reform and tax-transfer redistribution】China's Ministry of Finance Deputy Minister Liao Min said at a State Council Information Office briefing on Aug. 21 that, under the 'Expand Consumption' 15th Five-Year Plan, the near-term priority is fully implementing existing policies to speed their impact, with emphasis on employment and income growth. Over the medium-to-long term the ministry plans to raise household consumption capacity by strengthening social security, deepening income-distribution reforms and enhancing tax-transfer redistribution."
+    },
+    {
+      "id": "mkt:01a02239-cb04-7aab-90c6-cac881f19c6d",
+      "time": "2026-08-21 10:50:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver hit $69/oz, up 1.35% intraday."
+    },
     {
       "id": "5051144",
       "time": "2026-08-21 10:49:26",
@@ -146725,54 +146799,6 @@
         "市場"
       ],
       "text": "韓華海洋股價上漲5.2%，至95,400韓元。"
-    },
-    {
-      "id": "5040436",
-      "time": "2026-08-14 10:53:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本千葉縣強降雨已致6人死亡 超2.2萬戶停電】據東京電力電網公司14日訊息，受強降雨影響，截至當地時間14日10時45分，千葉縣內約有22800戶停電。另據千葉縣等方面統計，目前強降雨已造成6人死亡、1人心肺停止、1人失蹤。"
-    },
-    {
-      "id": "5040435",
-      "time": "2026-08-14 10:53:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西四部門聯合部署防汛抗旱保秋糧工作】據“陝西釋出”，8月13日，陝西省農業農村廳訊息，當前正值防汛抗旱關鍵期，也是秋糧產量形成的重要階段。省農業農村廳、省水利廳、省應急管理廳、省氣象局日前聯合印發通知，要求各地全力做好防汛抗旱工作，並開展“秋糧抗災奪豐收百日行動”，全力奪取秋糧和全年農業豐收。"
-    },
-    {
-      "id": "5040434",
-      "time": "2026-08-14 10:51:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光纖概念股走強 杭電股份、金時科技漲停】光纖概念股短線走強，杭電股份、金時科技漲停，亨通光電、中天科技、長飛光纖等股跟漲。"
-    },
-    {
-      "id": "mkt:019ffe2e-a2d5-7aab-9033-a4f7f152d4c7",
-      "time": "2026-08-14 10:51:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【LG to launch next-generation humanoid robot with NVIDIA in Q1 2027】LG Electronics said it plans to launch a next-generation bipedal humanoid robot in Q1 2027 built on NVIDIA’s robotics platform. The unit will use an NVIDIA Jetson Thor robotic chip module, be based on NVIDIA’s Isaac GR00T humanoid foundation model and run the Holoscan for Robotics safety system. LG will integrate technology from its subsidiaries — actuators from LG Electronics, sensors from LG Innotek and batteries from LG Energy Solution. The two companies said they will also collaborate across robotics, AI factory solutions and mobility."
-    },
-    {
-      "id": "5040433",
-      "time": "2026-08-14 10:50:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數下跌1%至1747.88點。"
     }
   ]
 }
