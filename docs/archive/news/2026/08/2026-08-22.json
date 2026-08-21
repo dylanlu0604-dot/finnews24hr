@@ -1,7 +1,55 @@
 {
   "date": "2026-08-22",
-  "count": 63,
+  "count": 69,
   "items": [
+    {
+      "id": "5052641",
+      "time": "2026-08-22 01:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月21日當週總鑽井數 588，前值 593。\n美國8月21日當週天然氣鑽井數 127，前值 128。"
+    },
+    {
+      "id": "5052640",
+      "time": "2026-08-22 01:01:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月21日當週石油鑽井數 452，前值 455。"
+    },
+    {
+      "id": "mkt:01a02544-168c-7aab-90d9-0cd14abfd337",
+      "time": "2026-08-22 01:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US to transfer USD 725 mln to UN to repay part of arrears】A U.S. congressional notice shows the Trump administration has initiated a process to transfer USD 725 mln to the UN. Aid experts called the move a step toward repaying billions in U.S. dues; Washington previously cut funding to several UN agencies and criticized the organization’s performance. The payment was cited in a State Department notice to Congress dated Aug. 4 that had not been previously reported. Washington has not immediately explained the reason for the transfer. The funds are expected to be paid before President Trump attends and speaks at the UN General Assembly in New York next month."
+    },
+    {
+      "id": "5052639",
+      "time": "2026-08-22 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.95%，滬銅收漲0.68%，滬鋁收漲0.91%，滬鋅收漲1.37%，滬鉛收漲0.56%，滬鎳收漲1.04%，滬錫收跌0.06%。氧化鋁夜盤收漲0.97%，鋁合金收漲0.50%。不鏽鋼夜盤收漲0.49%。"
+    },
+    {
+      "id": "mkt:01a02542-6bfd-7aab-90d9-042fb0284213",
+      "time": "2026-08-22 00:58:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran lawmaker says US 'doesn't understand diplomatic language'】On the 21st Ebrahim Azizi, chairman of the Iranian parliament's National Security and Foreign Policy Committee, posted that the United States has shown it \"doesn't understand the language of diplomacy\" and will not voluntarily lift sanctions on Iran, release Iranian assets, or stop its \"piracy\". He added that history will show the \"language of power\" will force the US to take those steps, apologise to the Iranian people and eventually withdraw from the region."
+    },
+    {
+      "id": "5052638",
+      "time": "2026-08-22 00:57:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員稱美國已證明其“不懂外交語言”】當地時間21日，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲在社交媒體發文稱，美國已經證明其“不懂外交的語言”，不會主動解除對伊制裁、釋放伊朗相關資產，也不會停止其“海盜行徑”。阿齊茲表示，歷史將證明，“實力的語言”不僅將迫使美國採取上述措施，還將迫使美方向伊朗人民道歉，並最終撤出該地區。（央視新聞）"
+    },
     {
       "id": "mkt:01a02540-e3c5-7aab-90d8-f85da9a4e439",
       "time": "2026-08-22 00:56:44",

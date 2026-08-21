@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-22 00:58:12",
-  "count": 16198,
+  "updated": "2026-08-22 01:02:18",
+  "count": 16191,
   "items": [
+    {
+      "id": "5052641",
+      "time": "2026-08-22 01:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月21日當週總鑽井數 588，前值 593。\n美國8月21日當週天然氣鑽井數 127，前值 128。"
+    },
+    {
+      "id": "5052640",
+      "time": "2026-08-22 01:01:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月21日當週石油鑽井數 452，前值 455。"
+    },
+    {
+      "id": "mkt:01a02544-168c-7aab-90d9-0cd14abfd337",
+      "time": "2026-08-22 01:00:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US to transfer USD 725 mln to UN to repay part of arrears】A U.S. congressional notice shows the Trump administration has initiated a process to transfer USD 725 mln to the UN. Aid experts called the move a step toward repaying billions in U.S. dues; Washington previously cut funding to several UN agencies and criticized the organization’s performance. The payment was cited in a State Department notice to Congress dated Aug. 4 that had not been previously reported. Washington has not immediately explained the reason for the transfer. The funds are expected to be paid before President Trump attends and speaks at the UN General Assembly in New York next month."
+    },
+    {
+      "id": "5052639",
+      "time": "2026-08-22 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.95%，滬銅收漲0.68%，滬鋁收漲0.91%，滬鋅收漲1.37%，滬鉛收漲0.56%，滬鎳收漲1.04%，滬錫收跌0.06%。氧化鋁夜盤收漲0.97%，鋁合金收漲0.50%。不鏽鋼夜盤收漲0.49%。"
+    },
+    {
+      "id": "mkt:01a02542-6bfd-7aab-90d9-042fb0284213",
+      "time": "2026-08-22 00:58:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran lawmaker says US 'doesn't understand diplomatic language'】On the 21st Ebrahim Azizi, chairman of the Iranian parliament's National Security and Foreign Policy Committee, posted that the United States has shown it \"doesn't understand the language of diplomacy\" and will not voluntarily lift sanctions on Iran, release Iranian assets, or stop its \"piracy\". He added that history will show the \"language of power\" will force the US to take those steps, apologise to the Iranian people and eventually withdraw from the region."
+    },
+    {
+      "id": "5052638",
+      "time": "2026-08-22 00:57:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗官員稱美國已證明其“不懂外交語言”】當地時間21日，伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲在社交媒體發文稱，美國已經證明其“不懂外交的語言”，不會主動解除對伊制裁、釋放伊朗相關資產，也不會停止其“海盜行徑”。阿齊茲表示，歷史將證明，“實力的語言”不僅將迫使美國採取上述措施，還將迫使美方向伊朗人民道歉，並最終撤出該地區。（央視新聞）"
+    },
     {
       "id": "mkt:01a02540-e3c5-7aab-90d8-f85da9a4e439",
       "time": "2026-08-22 00:56:44",
@@ -148251,135 +148299,6 @@
         "其他"
       ],
       "text": "滙豐銀行：發行 25 億美元、票息 5.243% 的固定 / 浮動利率高階無抵押債券，到期日 2032 年。"
-    },
-    {
-      "id": "mkt:01a00139-2eb6-7aab-9043-7efe5f02f321",
-      "time": "2026-08-15 01:01:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. gas rigs totaled 128 in the week to Aug. 14, up from 124 the prior week."
-    },
-    {
-      "id": "mkt:01a00139-178b-7aab-9043-77176eeb2060",
-      "time": "2026-08-15 01:01:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US oil rig count 455 in week to Aug 14, previous 454."
-    },
-    {
-      "id": "mkt:01a00139-0b8d-7aab-9043-68880bd99285",
-      "time": "2026-08-15 01:01:50",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Aug.14) | actual 128 | previous 124"
-    },
-    {
-      "id": "mkt:01a00138-fc1b-7aab-9043-6139346b421a",
-      "time": "2026-08-15 01:01:46",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Aug.14) | actual 455 | previous 454"
-    },
-    {
-      "id": "mkt:01a00138-d2c4-7aab-9043-58d4f9e2f04d",
-      "time": "2026-08-15 01:01:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US total rig count for week ended Aug 14: 593 rigs, up from 588 the prior week."
-    },
-    {
-      "id": "5041856",
-      "time": "2026-08-15 01:01:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月14日當週天然氣鑽井數 128，前值 124。\n美國8月14日當週石油鑽井數 455，前值 454。"
-    },
-    {
-      "id": "mkt:01a00138-b354-7aab-9043-55bd796d575c",
-      "time": "2026-08-15 01:01:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Aug.14) | actual 593 | previous 588"
-    },
-    {
-      "id": "5041855",
-      "time": "2026-08-15 01:01:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月14日當週總鑽井數 593，前值 588。"
-    },
-    {
-      "id": "5041854",
-      "time": "2026-08-15 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.47%，滬銅收漲0.49%，滬鋁收漲0.08%，滬鋅收漲0.41%，滬鉛收跌0.22%，滬鎳收漲0.07%，滬錫收漲0.36%。氧化鋁夜盤收跌0.19%，鋁合金收漲0.24%。不鏽鋼夜盤收跌0.49%。"
-    },
-    {
-      "id": "5041853",
-      "time": "2026-08-15 00:59:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：摩根大通出於監管方面的顧慮，終止了與 Polymarket 的銀行業務合作。"
-    },
-    {
-      "id": "mkt:01a00136-35c6-7aab-9043-4cc43dae5fa8",
-      "time": "2026-08-15 00:58:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【GOOLSBEE: Needs more evidence to confirm disinflation】Chicago Fed President GOOLSBEE said recent CPI prints are encouraging but inflation remained elevated in May and June; he would need 3-4 months of June-like momentum to be confident prices are returning to a 2% target. He supports holding policy rates in July, called inflation the biggest concern and said the economy and labor market are largely stable. He warned sustained retail weakness would be worrying given consumption’s role in the US economy. He flagged concern about a recent slowdown in productivity growth and said if AI-driven gains prove unsustainable the narrative linking AI and monetary policy would need reassessment. On reducing the number of policy meetings he has no strong view and will wait for a working-group recommendation."
-    },
-    {
-      "id": "5041852",
-      "time": "2026-08-15 00:58:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國司法部、商品期貨交易委員會正在調查鐵礦石貿易商 Radiant World 的交易業務。"
-    },
-    {
-      "id": "5041851",
-      "time": "2026-08-15 00:58:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲12美元，報14160美元/噸。LME期鋁收跌6美元，報3252美元/噸。LME期鋅收漲5美元，報3756美元/噸。LME期鉛收漲8美元，報1895美元/噸。LME期鎳收漲39美元，報16815美元/噸。LME期錫收漲340美元，報56194美元/噸。LME期鈷收平，報56290美元/噸。"
     }
   ]
 }
