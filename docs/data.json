@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-22 00:12:58",
-  "count": 16208,
+  "updated": "2026-08-22 00:16:59",
+  "count": 16204,
   "items": [
+    {
+      "id": "mkt:01a0251a-98d1-7aab-90d8-73345bbe26d5",
+      "time": "2026-08-22 00:14:55",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact mixed"
+      ],
+      "text": "CNBC, citing sources, said Broadcom (AVGO.O) has a debt transaction expected to exceed $70 billion."
+    },
     {
       "id": "te:markets:577340",
       "time": "2026-08-22 00:12:18",
@@ -148450,54 +148460,6 @@
         "Importance 1"
       ],
       "text": "European Stocks Ease Off Records — European stocks closed marginally lower on Friday as tech stocks pulled back and pharmaceuticals retreated. The STOXX Europe 50 eased by 0.1% form yesterday's record high to 6,541 and the STOXX Europe eased 0.2% to 658. ASML dropped 0.2% to trim its sharp advance this week as markets continued to assess spending on AI infrastructure by hyperscalers, with both Anthropic and OpenAI set to undergo IPOs this year. Likewise, Infineon dropped 1.3%. Meanwhile, a negative session for European drug manufacturers saw Argenx and Sanofi fall 3.2% and 1.2%, respectively. In turn, banks and insurers were mostly higher despite a surge in European sovereign yields, especially in the long end of the curve, as the rhetoric that the Federal Reserve could allow higher inflation rates regained ground. Deutsche Bank and Intesa Sanpaolo gained nearly 1%, while Allianz and Munich Re jumped over 1% for the insurers."
-    },
-    {
-      "id": "5041826",
-      "time": "2026-08-15 00:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩真主黨領導人納伊姆·卡西姆：絕不會屈服於以色列政權的壓力和侵略。黎巴嫩政府應承擔重建南部和保障流離失所者安全的責任。"
-    },
-    {
-      "id": "mkt:01a0010e-9e51-7aab-9042-aefc126ed265",
-      "time": "2026-08-15 00:15:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HEZBOLLAH leader Naim Qassem said the Lebanese government should assume responsibility for rebuilding the south and ensuring the security of displaced persons."
-    },
-    {
-      "id": "mkt:01a0010e-71e3-7aab-9042-a51ca5939dae",
-      "time": "2026-08-15 00:15:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Hezbollah leader Naim Qassem said he will never yield to pressure or aggression from the Israeli regime."
-    },
-    {
-      "id": "te:markets:575520",
-      "time": "2026-08-15 00:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Wheat Soars as Black Sea Supply Risks Mount — Wheat prices climbed more than 3% to above $6.70 a bushel on Friday, bringing weekly gains to over 5%, the strongest performance since mid-July. The rally was driven by growing concerns over disruptions to Black Sea exports amid the Russia-Ukraine conflict. Russia and Ukraine remain critical to the global wheat market, together accounting for almost 30% of projected world wheat exports in the 2026/27 season, leaving prices particularly vulnerable to prolonged interruptions. Supply concerns intensified after Russia halted grain loadings at its main Black Sea and Azov Sea ports. Operations at all three major terminals in Novorossiysk have now been suspended following Ukrainian drone attacks earlier in the week. The disruptions could force Russia to reduce exports further this month, tightening global availability. However, there were signs of a possible diplomatic opening, with Ukraine reportedly proposing that both sides stop attacks on civilian targets in the Black Sea."
-    },
-    {
-      "id": "mkt:01a0010d-3c21-7aab-9042-9ecdc14b88db",
-      "time": "2026-08-15 00:13:59",
-      "tags": [
-        "MKT News",
-        "UNH.O"
-      ],
-      "text": "Prosecutors said they will seek life imprisonment for Mangione in the shooting of UnitedHealth Group's former CEO."
     }
   ]
 }

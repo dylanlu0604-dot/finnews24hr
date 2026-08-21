@@ -1,7 +1,17 @@
 {
   "date": "2026-08-22",
-  "count": 22,
+  "count": 23,
   "items": [
+    {
+      "id": "mkt:01a0251a-98d1-7aab-90d8-73345bbe26d5",
+      "time": "2026-08-22 00:14:55",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact mixed"
+      ],
+      "text": "CNBC, citing sources, said Broadcom (AVGO.O) has a debt transaction expected to exceed $70 billion."
+    },
     {
       "id": "te:markets:577340",
       "time": "2026-08-22 00:12:18",
