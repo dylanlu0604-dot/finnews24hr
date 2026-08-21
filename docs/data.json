@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-22 05:27:25",
-  "count": 16152,
+  "updated": "2026-08-22 05:31:24",
+  "count": 16150,
   "items": [
+    {
+      "id": "5052814",
+      "time": "2026-08-22 05:27:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國證交會備案檔案顯示，美國黃金公司（US GOLD CORP）或最高發售1.5億美元證券。"
+    },
     {
       "id": "5052813",
       "time": "2026-08-22 05:24:35",
@@ -147810,33 +147820,6 @@
         "MKT News"
       ],
       "text": "Sources: Canada’s trade minister told an advisory committee that Canada and the US are \"quite far\" from reaching an agreement."
-    },
-    {
-      "id": "mkt:01a0022f-ce8a-7aab-9046-5b2386161baa",
-      "time": "2026-08-15 05:31:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Anthropic Q2 revenue tops $11.5bn; adjusted operating profit positive】Preliminary figures show Anthropic's Q2 revenue exceeded $11.5bn, up at least 14x YoY from $787m and ahead of Q1's $4.73bn; adjusted operating profit was positive in the quarter. Annualized revenue surpassed $47bn as of May. OpenAI's disclosed annualized revenue exceeds $40bn, though reporting bases may differ. AI-sector IPO proceeds YTD reached $256.4bn, the largest since 2021 excluding SPACs."
-    },
-    {
-      "id": "5042006",
-      "time": "2026-08-15 05:28:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位直接瞭解相關言論的訊息人士稱，負責美加雙邊貿易的加拿大部長告知諮詢委員會，加拿大與美國距離達成協議仍相當遙遠。"
-    },
-    {
-      "id": "5042005",
-      "time": "2026-08-15 05:27:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "週五（8月7日）紐約尾盤，美國10年期基準國債收益率上行5.14個基點，報4.690%，北京時間20:30釋出美國7月零售銷售資料時從日低點4.628%快速拉昇上行。兩年期美債收益率升2.88個基點，報4.169%，本週累跌2.40個基點。20年期美債收益率上行5.22個基點，本週累漲5.10個基點，報5.257%；30年期美債收益率累漲5.96個基點，報5.259%。"
     }
   ]
 }
