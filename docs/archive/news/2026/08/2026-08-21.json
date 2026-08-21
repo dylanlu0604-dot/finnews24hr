@@ -1,7 +1,357 @@
 {
   "date": "2026-08-21",
-  "count": 2549,
+  "count": 2589,
   "items": [
+    {
+      "id": "mkt:01a02436-d3bc-7aab-90d3-43ba49e130ce",
+      "time": "2026-08-21 20:06:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's interior minister said foreign involvement cannot be ruled out; an investigation is underway."
+    },
+    {
+      "id": "mkt:01a02436-c944-7aab-90d3-39e10ebb770a",
+      "time": "2026-08-21 20:06:05",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China central cyberspace commission backs firms to boost AI core tech and high-end chips】China's Central Cyberspace Affairs Commission issued an Action Plan to Promote High-Quality Development of Cyber Information Enterprises (2026–2030), directing firms to prioritize basic research and tackle core technologies including high-end AI chips, foundational and industrial software, network communications, cybersecurity and data security, and to push breakthroughs in quantum, blockchain, brain–computer interfaces, digital twins and advanced displays. The plan explicitly supports enterprise R&D in AI — developing high-end AI chips, overcoming key technologies for high-performance training clusters, raising base-model performance (large language, multimodal and world models) and advancing agents and embodied intelligence — and encourages firms to join open-source projects while offering strengthened IP support via priority and expedited patent examination."
+    },
+    {
+      "id": "5052333",
+      "time": "2026-08-21 20:05:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錦富技術：股東賽爾新能源擬協議轉讓5%股份】錦富技術公告稱，公司持股5%以上股東泰興市賽爾新能源科技有限公司因自身資金需求，擬透過協議轉讓方式向浙江長風策企業管理有限公司轉讓所持公司6495.58萬股股份，佔公司總股本的5%，轉讓價格為每股6.2元，轉讓總對價為4.03億元。本次權益變動前，賽爾新能源持有公司股份1.08億股，佔總股本的8.32%；變動後持股數量為4316.29萬股，佔總股本的3.32%。本次股份轉讓尚需經深圳證券交易所合規性稽核透過，並辦理過戶登記手續。"
+    },
+    {
+      "id": "5052332",
+      "time": "2026-08-21 20:05:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【我國期貨市場首次跨境交割】今天，我國期貨市場迎來重要突破。首批“20號膠”600噸境外標準倉單，由境外交割庫生成並透過交割賣出，完成交割的“20號膠”離岸貨物將在泰國林查班港完成實貨交付，這也是我國期貨市場第一次，真正實現境外就地交貨，大大降低了橡膠貿易的物流成本。此次期貨市場首次實現跨境交割，將有助於吸引更多企業將我國的期貨價格應用於國際貿易，參與我國期貨市場，增強了“中國價格”在全球貿易中的認可度和影響力。（央視財經）"
+    },
+    {
+      "id": "mkt:01a02436-20f8-7aab-90d3-30d1f0c7e4d7",
+      "time": "2026-08-21 20:05:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【Central Cyberspace and Information Commission issues 2026-2030 plan to push green computing, align new compute with renewables】The Central Cyberspace and Information Commission issued an Action Plan for High-Quality Development of Cyber Information Enterprises (2026–2030) that directs firms toward green, low‑carbon operations and periodic disclosure of decarbonization progress. Key measures: support greater use of renewable power and guide new compute facilities to coordinate siting and layout with renewable generation; continue construction of national green computing infrastructure. The plan mandates updating a recommended catalogue of energy‑saving and carbon‑reduction equipment and promotes liquid‑cooling and waste‑heat‑recovery technologies. It encourages ecosystem- and industry-leading firms to help upstream/downstream partners cut emissions, accelerate digital energy/carbon management center deployment, and build green value and supply chains. Local authorities are urged to create green‑transition service platforms offering low‑cost, standardized carbon accounting tools and energy‑efficiency diagnostics to lower firms’ transition barriers."
+    },
+    {
+      "id": "mkt:01a02435-f2dd-7aab-90d3-2ef8672496e0",
+      "time": "2026-08-21 20:05:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government recommends states and sugar mills begin sugarcane crushing from Oct 15."
+    },
+    {
+      "id": "5052331",
+      "time": "2026-08-21 20:05:10",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【中央網路安全和資訊化委員會：引導新建算力設施與可再生能源發電等協同佈局 持續開展國家綠色算力設施建設】中央網路安全和資訊化委員會印發《促進網信企業高質量發展行動計劃（2026-2030年）》。其中提到，推動企業綠色低碳發展。引導支援網信企業綠色低碳發展，實現辦公、生產、運輸、服務等全流程綠色化設計、包裝、交付和運營，定期披露減碳進展。支援企業提升可再生能源利用水平，引導新建算力設施與可再生能源發電等協同佈局，持續開展國家綠色算力設施建設。及時更新節能降碳技術裝備推薦目錄，推廣液冷技術、廢熱回收等先進適用節能降碳技術。鼓勵生態主導型、產業引領型企業助力上下游企業提高減碳能力，加快數字化能碳管理中心建設應用，構建綠色價值鏈和供應鏈。鼓勵各地建設綠色轉型服務平臺，為企業提供低成本、標準化的碳排放核算工具、能效診斷服務等，降低企業綠色化轉型門檻。"
+    },
+    {
+      "id": "5052330",
+      "time": "2026-08-21 20:05:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：建議各邦及糖廠自 10 月 15 日起開啟榨糖作業。"
+    },
+    {
+      "id": "5052329",
+      "time": "2026-08-21 20:05:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國內政部長多布林特表示：這起案件表明當前威脅等級已升至高水平，相較於此前僅為潛在抽象威脅的情況有所升級。"
+    },
+    {
+      "id": "mkt:01a02435-c41e-7aab-90d3-24c5c3358dce",
+      "time": "2026-08-21 20:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's interior minister said the case indicates a high threat level and has risen from what was previously regarded as an abstract threat."
+    },
+    {
+      "id": "mkt:01a02435-6c4f-7aab-90d3-1a7b655f1b86",
+      "time": "2026-08-21 20:04:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government says it is committed to protecting consumers and sugarcane growers."
+    },
+    {
+      "id": "mkt:01a02435-5180-7aab-90d3-10350d4730a7",
+      "time": "2026-08-21 20:04:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's interior minister said authorities discovered a cache of weapons and ammunition near Berlin last year. Surveillance of the hideout produced no results. A suspect has been detained in Romania and the investigation is ongoing."
+    },
+    {
+      "id": "5052328",
+      "time": "2026-08-21 20:04:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所羅布斯塔咖啡期貨<LRCc2>下跌近3%，至每噸3629美元。"
+    },
+    {
+      "id": "5052327",
+      "time": "2026-08-21 20:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：致力於保護消費者以及甘蔗種植農戶。"
+    },
+    {
+      "id": "5052326",
+      "time": "2026-08-21 20:04:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國內政部長：嫌疑人已在羅馬尼亞被拘留，調查仍在進行中。"
+    },
+    {
+      "id": "5052325",
+      "time": "2026-08-21 20:04:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：食糖庫存充足，可滿足國內需求。"
+    },
+    {
+      "id": "mkt:01a02434-ca4a-7aab-90d3-0b41705afe8a",
+      "time": "2026-08-21 20:03:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government says domestic sugar stocks are sufficient to meet demand."
+    },
+    {
+      "id": "mkt:01a02434-b89e-7aab-90d3-037d5aa88839",
+      "time": "2026-08-21 20:03:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Analyst: US \"lost credibility\"; secondary sanctions on Iran may be ineffective】Independent political analyst Alex Alfilraz Sheils said Washington’s push to reimpose “maximum economic pressure” on Iran risks repeating measures from Trump’s first term that ultimately failed. He argued that earlier deterrent effects owed to policy uncertainty, but that the president has “lost credibility” in a second term, weakening US leverage with other states and reducing the likely effectiveness of secondary sanctions on Iran. Sheils blamed strategic errors — including policy oscillation and unclear use of military, governance and diplomatic tools — as factors undermining US geopolitical influence."
+    },
+    {
+      "id": "mkt:01a02434-ad75-7aab-90d2-f97dfcc0bc54",
+      "time": "2026-08-21 20:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government says it is closely monitoring rising sugar prices. This season's sugar production is estimated at about 3.06 mln mt."
+    },
+    {
+      "id": "5052324",
+      "time": "2026-08-21 20:03:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湘潭電化：2026年上半年淨利潤2.25億元，同比增長78.63%】湘潭電化公告，2026年上半年營業收入9.42億元，同比增長5.07%；歸屬於上市公司股東的淨利潤2.25億元，同比增長78.63%，2025年同期為1.26億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.22億元，同比增長100.63%。"
+    },
+    {
+      "id": "5052323",
+      "time": "2026-08-21 20:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆稱因患流感將不會出席新聞釋出會。"
+    },
+    {
+      "id": "5052322",
+      "time": "2026-08-21 20:03:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：印度政府正密切監控糖價上漲情況。"
+    },
+    {
+      "id": "mkt:01a02434-4035-7aab-90d2-f514deaf2407",
+      "time": "2026-08-21 20:03:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "SKHY.O"
+      ],
+      "text": "【SK Hynix says no decision yet on building semiconductor production facility in Japan】SK Hynix (SKHY.O) said in a filing it has not decided whether to build a semiconductor production facility in Japan, responding to media reports. The company said it is evaluating options, including adding production bases to strengthen its memory chip business, but has made no determinations. It will disclose further information when details are confirmed or within one month of this filing."
+    },
+    {
+      "id": "5052321",
+      "time": "2026-08-21 20:03:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三峽新材：2026年上半年虧損8036.77萬元，2025年同期虧損2699.3萬元】三峽新材公告，2026年上半年營業收入3.92億元，同比下降37.35%；歸屬於上市公司股東的淨利潤虧損8036.77萬元，2025年同期虧損2699.3萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損7515.18萬元，虧損較2025年同期收窄6.79%。"
+    },
+    {
+      "id": "5052320",
+      "time": "2026-08-21 20:03:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光雲科技：2026年上半年淨利潤1164.05萬元，同比扭虧為盈】光雲科技公告，2026年上半年營業收入3.02億元，同比增長15.13%；歸屬於上市公司股東的淨利潤1164.05萬元，2025年同期虧損1211.34萬元，實現扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤990.11萬元，2025年同期虧損1252.99萬元。"
+    },
+    {
+      "id": "5052319",
+      "time": "2026-08-21 20:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國內政部長多：去年在柏林近郊查獲一批藏匿武器。"
+    },
+    {
+      "id": "5052318",
+      "time": "2026-08-21 20:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國內政部長：還發現了彈藥。"
+    },
+    {
+      "id": "mkt:01a02433-3be0-7aab-90d2-ec0fd3afe081",
+      "time": "2026-08-21 20:02:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Action Plan to Promote High-Quality Development of Network Information Enterprises (2026-2030) published】China's Central Cyberspace Affairs Commission issued the Action Plan to Promote High-Quality Development of Network Information Enterprises (2026-2030), aligning with central directives on building a cyber power and guidance for cyberspace work in the 15th Five-Year period. The plan positions network information technology as the core growth driver and network security and informatization as firms' principal businesses, calling these enterprises a key force for cultivating new-quality productive capacity and strengthening international competitiveness."
+    },
+    {
+      "id": "5052317",
+      "time": "2026-08-21 20:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《促進網信企業高質量發展行動計劃（2026-2030年）》釋出】近日，中央網路安全和資訊化委員會印發《促進網信企業高質量發展行動計劃（2026-2030年）》，深入貫徹黨中央關於網路強國建設和“十五五”時期網信工作有關部署，促進網信企業高質量發展。《行動計劃》提出，以網路資訊科技為核心驅動力、以網路安全和資訊化為主要業務的網信企業是網路強國建設的重要力量，對培育發展新質生產力、鞏固提升國際競爭力具有關鍵作用。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a02433-2696-7aab-90d2-e6689a83f386",
+      "time": "2026-08-21 20:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's government has moved to curb sugar price rises and ensure adequate supply."
+    },
+    {
+      "id": "5052316",
+      "time": "2026-08-21 20:01:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度政府採取行動抑制糖價上漲，保障市場供應。"
+    },
+    {
+      "id": "5052315",
+      "time": "2026-08-21 20:01:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK海力士稱尚未就是否在日本建設半導體生產設施做出決定】SK海力士在一份6-K監管申報檔案中表示，目前尚未決定是否在日本建設半導體生產設施。該公司回應有關其可能赴日建廠的媒體報道。SK海力士表示：“為增強儲存晶片業務的競爭力，公司正在評估包括增設生產基地在內的多種方案，但截至目前尚未確定任何事項”。公司稱，將在具體細節得到確認時，或在本次報告發布後一個月內，進一步披露相關資訊。"
+    },
+    {
+      "id": "5052314",
+      "time": "2026-08-21 20:01:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "越洋航空確認第三季度航空燃油成本將增加約 1.05 億美元。"
+    },
+    {
+      "id": "5052313",
+      "time": "2026-08-21 20:01:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數上漲1.79%，至2841點。"
+    },
+    {
+      "id": "mkt:01a02432-6928-7aab-90d2-d918da3b78ba",
+      "time": "2026-08-21 20:01:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index rose 1.79% to 2,841 points."
+    },
+    {
+      "id": "5052312",
+      "time": "2026-08-21 20:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥 6 月零售額同比增長 2.7%，預估 +3.1%。"
+    },
+    {
+      "id": "mkt:01a02431-a3d0-7aab-90d2-d529bc97dc9d",
+      "time": "2026-08-21 20:00:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 1.81% at the open of the Aug. 21 evening session to 984.0 yuan/gram; silver T+D rose 1.82% to 16940.0 yuan/kg."
+    },
+    {
+      "id": "5052311",
+      "time": "2026-08-21 20:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥 6 月零售銷售環比下降 0.2%；市場預期為環比增長 0.1%。"
+    },
+    {
+      "id": "5052310",
+      "time": "2026-08-21 19:59:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST湘郵：2026年上半年營收2.06億元 同比降19.65%】*ST湘郵公告稱，2026年上半年實現營業收入2.06億元，同比下降19.65%；歸屬於上市公司股東的淨利潤346.52萬元，上年同期為淨虧損1694.89萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤102.53萬元，上年同期為淨虧損1721.13萬元。基本每股收益0.022元。本報告期不進行利潤分配，也不進行公積金轉增股本。"
+    },
+    {
+      "id": "5052309",
+      "time": "2026-08-21 19:59:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【圖靈量子與磐石具身實驗室簽署戰略合作協議】據圖靈量子訊息，8月21日，2026世界機器人大會“人形機器人測評交流大會”在北京北人亦創國際會展中心舉行。圖靈量子與北京人形機器人創新中心磐石具身實驗室（簡稱“磐石具身實驗室”）正式簽署戰略合作協議。雙方將圍繞“量子安全產品載入具身安全標準測試驗證服務”展開全面合作，共同研討量子加密技術在具身智慧安全標準體系中的深度應用。"
+    },
     {
       "id": "5052308",
       "time": "2026-08-21 19:57:07",
