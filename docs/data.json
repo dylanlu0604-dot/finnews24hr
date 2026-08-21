@@ -1,7 +1,209 @@
 {
-  "updated": "2026-08-21 19:46:13",
-  "count": 16263,
+  "updated": "2026-08-21 19:59:10",
+  "count": 16255,
   "items": [
+    {
+      "id": "5052308",
+      "time": "2026-08-21 19:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：斯洛伐克有超過 8500 戶家庭斷電。"
+    },
+    {
+      "id": "5052307",
+      "time": "2026-08-21 19:56:33",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "東方甄選(01797.HK)：2026財年營收為人民幣57.01億元，同比增長29.8%；本公司擁有人應占年內溢利人民幣5.44億元，同比增長9377.8%。"
+    },
+    {
+      "id": "mkt:01a0242e-11b7-7aab-90d2-ce9889a54096",
+      "time": "2026-08-21 19:56:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01797.HK",
+        "Impact bullish"
+      ],
+      "text": "Oriental Selection (01797.HK): FY2026 revenue RMB 5.701 bln, up 29.8% YoY; profit attributable to owners RMB 544 mln, up 9,377.8% YoY."
+    },
+    {
+      "id": "mkt:01a0242d-6b0b-7aab-90d2-c1b3a013c93b",
+      "time": "2026-08-21 19:55:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dong Jun meets Indonesian defense minister】Aug 21 — Chinese defense minister Dong Jun met his Indonesian counterpart in Jakarta during the second China‑Indonesia foreign and defense ministers' 2+2 ministerial meeting. Citing strategic guidance from both heads of state, the two sides said bilateral military ties face a favorable development window and broad cooperation prospects; they agreed to consolidate military mutual trust, deepen pragmatic cooperation across multiple domains, increase exchanges at all levels and jointly safeguard regional peace and stability."
+    },
+    {
+      "id": "5052306",
+      "time": "2026-08-21 19:55:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦 KSE‑100 指數收盤上漲 0.3%，報 177166.50 點。"
+    },
+    {
+      "id": "5052305",
+      "time": "2026-08-21 19:54:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "國 8 月 22 日電力結算價報 100.62 歐元 / 兆瓦時。德國 8 月 22 日電力結算價報 101.49 歐元 / 兆瓦時。"
+    },
+    {
+      "id": "5052304",
+      "time": "2026-08-21 19:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【董軍會見印度尼西亞國防部長】8月21日，國防部長董軍在雅加達出席中印尼外長防長“2+2”對話機制第二次部長級會議期間，會見印尼國防部長沙夫裡。雙方表示，在兩國元首戰略引領下，兩軍關係面臨良好發展契機，合作前景廣闊。雙方應持續鞏固軍事互信，密切兩軍各層級交往，深化多領域務實合作，攜手維護地區和平穩定。會見前，沙夫裡為董軍舉行歡迎儀式。（國防部發布）"
+    },
+    {
+      "id": "mkt:01a0242a-3535-7aab-90d2-ba1350c73f87",
+      "time": "2026-08-21 19:52:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Independent reports UK Prime Minister Burnham is exploring a bid to host the men's World Cup."
+    },
+    {
+      "id": "5052303",
+      "time": "2026-08-21 19:52:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德龍鐳射：回覆定增稽核問詢函並更新申請檔案】德龍鐳射公告稱，公司收到上交所出具的向特定物件發行股票申請檔案稽核問詢函後，會同中介機構對問詢問題逐項落實，修訂完善募集說明書等申請檔案，相關回復及更新後的申請檔案已在上交所網站披露。本次向特定物件發行股票事項尚需上交所稽核及中國證監會同意註冊後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。"
+    },
+    {
+      "id": "5052302",
+      "time": "2026-08-21 19:51:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中電電機：2026年上半年淨利潤470.15萬元，同比下降86.56%】中電電機公告，2026年上半年營業收入2.53億元，同比下降17.95%；歸屬於上市公司股東的淨利潤470.15萬元，同比下降86.56%，2025年上半年為3497.12萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤421.2萬元，同比下降76.29%。"
+    },
+    {
+      "id": "5052301",
+      "time": "2026-08-21 19:51:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國首相伯納姆正探討申辦男子世界盃。"
+    },
+    {
+      "id": "mkt:01a02428-dd12-7aab-90d2-b733c5f31233",
+      "time": "2026-08-21 19:50:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【BofA: European stocks vulnerable to AI monetization uncertainty】BofA analysts say uncertainty over AI monetization and intensified competition from China and the US could force AI model vendors to cut prices, undermining lofty profit expectations. Rising borrowing costs will further pressure corporate earnings. European equities already price in sustained AI spending; a reversal in AI momentum would weaken that optimism. BofA forecasts the Stoxx Europe 600 will fall about 10% to 580 by Q2 2027."
+    },
+    {
+      "id": "5052300",
+      "time": "2026-08-21 19:50:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：網路博彩應當效仿香菸，實施高額徵稅。"
+    },
+    {
+      "id": "5052299",
+      "time": "2026-08-21 19:49:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國人工智慧與人類發展全球對話在西安舉辦】8月20日至21日，聯合國人工智慧與人類發展系列全球對話第三場活動在陝西西安舉辦。本次活動由聯合國常務副秘書長阿明娜·穆罕默德召集，並與中國政府和聯合國秘書處合作舉辦。本場西安對話會關注具身人工智慧與機器人技術前沿，重點討論在現實世界中日益普及的智慧系統將如何影響教育、就業、文化和可持續發展，探索人工智慧發展成果如何助力人類全面發展，同時守護人的自主選擇權、社會信任與社會凝聚力。（新華社）"
+    },
+    {
+      "id": "5052298",
+      "time": "2026-08-21 19:49:22",
+      "tags": [
+        "央行",
+        "宏觀",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【8月21日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】無懼風浪 中國經濟高質量發展行穩致遠； 2.李強主持召開國務院常務會議； 3.趙樂際會見約旦國王； 4.【“十五五”開好局起好步】積極財政政策助推經濟社會高質量發展； 5.我國早稻產量連續6年穩定在560億斤以上； 6.【活力中國調研行】AI助跑 科創加速； 7.賽事激發經濟發展新活力； 8.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 9.國內聯播快訊： （1）中國進出口銀行前7個月新發放製造業貸款近5000億元； （2）財政部在澳門發行60億元人民幣國債； （3）2026年個人資訊保護系列專項行動督促整改隱患問題1.2萬餘個； （4）市場監管總區域性署推進2026年質量強鏈十大專案； （5）APEC經濟體簽署多份農食產品領域及海關合作雙邊協議； （6）我國在十地開展首批資料領域國際合作試點； （7）我國自主研發建造11.5萬噸成品油輪正式交付； （8）《高階訪談》今晚播出對聯合國副秘書長亞絲明·福阿德的專訪； 10.俄外交部：日本應全面承認二戰結果 停止篡改侵略歷史； 11.伊朗譴責美國新制裁是“經濟恐怖主義”； 12.受高溫乾旱天氣影響 西班牙等國林火持續 德國央行報告稱持續乾旱恐拖累經濟復甦； 13.國際聯播快訊： （1）七國譴責以色列推進定居點建設專案； （2）胡塞武裝稱襲擊沙特南部一機場等目標； （3）歐盟：希望休達非法移民全部返回摩洛哥。"
+    },
+    {
+      "id": "5052297",
+      "time": "2026-08-21 19:48:26",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【藍盾光電：股票交易停牌核查完成 8月24日復牌】藍盾光電公告稱，公司股票自2026年8月10日至8月18日累計5個交易日漲停，累計漲幅達197.21%，先後觸及異常波動、嚴重異常波動情形，公司此前申請股票自8月19日開市起停牌核查。目前自查工作已完成，公司股票將於2026年8月24日開市起復牌。經核查，公司基本面未發生重大變化，股價異動受擬發行股份及支付現金購買蘇州嵐創科技控股權並募集配套資金事項影響，本次交易預計構成重大資產重組、關聯交易，目前相關審計、評估等工作有序推進，交易存在審批、暫停或取消等多重不確定性。公司控股股東及實控人等在異動期間無買賣公司股票行為，不存在應披露未披露重大事項。公司2025年營收3.99億元，同比下降34.53%；淨虧損8876.65萬元，同比下降1468.72%。2026年第一季度營收8811.63萬元，同比下降13.20%；淨虧損866.43萬元，同比下降271.99%。"
+    },
+    {
+      "id": "5052296",
+      "time": "2026-08-21 19:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第四屆中國航協（CATA）航空大會將於9月舉行】記者8月21日從中國航空運輸協會獲悉，由該協會主辦的第四屆中國航協（CATA）航空大會將於9月17日至19日在北京舉行。大會以“人工智慧與民航融合發展”為主題，旨在探討人工智慧技術在民航安全、運營、服務等領域的深度應用，為行業搭建思想碰撞與資源對接平臺。大會由開幕式、行業論壇和專業展覽三個單元構成。行業論壇將聚焦人工智慧應用、通航與直升機發展、航空服務、航空物流等議題。專業展覽將設立航空科技、通航及低空、航旅融合、航空美食街等主題展區，透過實物、模型與多媒體互動，打造沉浸式體驗，促進產業鏈供需對接與協同創新。（新華社）"
+    },
+    {
+      "id": "te:markets:577285",
+      "time": "2026-08-21 19:48:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Prices Rise — US gasoline futures rose to around $3.30 per gallon, after holding near $3.25 on Thursday, as traders awaited details of a US campaign to isolate Iran’s economy amid an ongoing conflict disrupting Middle Eastern energy exports. President Donald Trump announced plans for an economic package to intensify pressure on Iran, potentially involving China, the largest buyer of Iranian crude. Fuel supply concerns were also heightened by Russia’s war with Ukraine, as Ukrainian strikes on refineries strained fuel availability, prompting shortages and renewed rationing in several regions. Meanwhile, US gasoline refining margins surged 86% since the start of the conflict, highlighting limited flexibility across refiners. Average pump prices of regular gasoline remained above $4 per gallon in most US regions, with few exceeding $5. The EPA is set to end summer gasoline blend requirements early to help ease prices, which averaged $4.10 on August 20th."
+    },
+    {
+      "id": "mkt:01a02426-1b88-7aab-90d2-a9ded80916c4",
+      "time": "2026-08-21 19:47:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【US sources: Ukraine reportedly planned AI-guided drone swarm attacks on Moscow airports】US sources on the 20th said Ukraine earlier this year planned to launch AI-guided drone swarms at Moscow and nearby airports to force international carriers to suspend Moscow routes and pressure Russia’s elite toward negotiations. Two sources said the drones would autonomously seek and strike targets; the plan envisaged launching up to 1,000 drones per night to overwhelm Russian air defenses. President Zelenskiy reportedly feared the drones could hit civilian airliners and cause casualties but, seeking leverage to restart talks, allowed work on the plan to continue for months. The scheme was allegedly devised by former defence minister Mykhailo Fedorov and was shelved after his July dismissal. A Ukrainian presidential office official denied such a plan existed."
+    },
+    {
+      "id": "mkt:01a02424-dbe5-7aab-90d2-a451d38c78f7",
+      "time": "2026-08-21 19:46:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Tibo, CODEX product lead at OpenAI, said the company will grant a one-time quota reset to all CODEX and ChatGPT Work users."
+    },
+    {
+      "id": "5052295",
+      "time": "2026-08-21 19:46:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤海租賃：披露控股子公司2026年上半年財務資料】渤海租賃公告稱，公司披露控股子公司Avolon Holdings Limited2026年半年度中國會計準則財務報表，該資料反映子公司對公司合併報表的影響，與子公司單體報表資料存在差異。2026年1-6月，Avolon實現營業收入33.54億美元，淨利潤4.73億美元；截至2026年6月30日，Avolon資產總計323.08億美元，所有者權益合計80.28億美元。"
+    },
+    {
+      "id": "5052294",
+      "time": "2026-08-21 19:46:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克農業商會預估資料：今年捷克主要穀物產量將下降約17.5%，至630萬噸。"
+    },
     {
       "id": "5052293",
       "time": "2026-08-21 19:44:59",
@@ -74,6 +276,15 @@
         "Importance 1"
       ],
       "text": "Ethiopia Inflation Rate Accelerates to 1-1/2-Year High — The annual inflation rate quickened for the fourth month to 15.3% in July 2026, the highest since January 2025, up from June's 13.9%. Food inflation picked up to 15.7% in July from 15.1% a month earlier, marking its highest rate since January 2025. Major food categories recorded significant price increases, led by sugar, jam, honey and chocolate, meat, and oils and fats, which rose 39.4%, 21.6% and 20.3%, respectively. Fruit, dairy products and other food items also recorded increases of around 18% or more. On a monthly basis, the CPI climbed by 2.6%, following a 1% rise in the month earlier."
+    },
+    {
+      "id": "em:qqyh_mlc:202608213849500026",
+      "time": "2026-08-21 19:42:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【經濟學家上調美國三季度經濟增長預期】經濟學家上調美國三季度經濟增長預期，料美聯儲到明年7月都按兵不動。"
     },
     {
       "id": "5052288",
@@ -148730,282 +148941,6 @@
         "國際"
       ],
       "text": "【美國移民執法人員擬配備電擊手套】據美聯社8月11日報道，移民與海關執法局探員可能很快就會配備可以實施痛苦電擊的手套，以制服好鬥的人。根據國土安全部10日釋出的一份通知，移民與海關執法局計劃在明年3月之前花費高達2000萬美元的資金為探員購買大量“導電式注意力分散與衝突降級裝置”。據報道，這種裝置全稱為“生成式低輸出電壓發射器”，由肯塔基州列剋星敦的康普萊恩特科技公司製造。近年來，一些監獄和警察局也在使用這種裝置。（參考訊息）"
-    },
-    {
-      "id": "5041448",
-      "time": "2026-08-14 19:59:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印航客機空中險情，液壓系統一度全部失靈】據多家媒體8月14日披露，本月初發生空中急墜險情的印度航空公司一架客機的液壓系統一度全部失靈，飛機發出失速告警。印航2379航班空中客車A320客機本月4日從泰國普吉島飛往印度首都新德里，載有137名乘客和8名機組人員。飛行途中，客機突然急速下墜約90米，20名乘客和4名機組人員受傷。客機最終安全落地，而機長藥檢結果顯示為大麻陽性。（新華社）"
-    },
-    {
-      "id": "mkt:01a00023-2ae4-7aab-903d-6388d0bdabc9",
-      "time": "2026-08-14 19:58:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Brazilian federal police executed a search warrant against former Rio de Janeiro governor Claudio Castro."
-    },
-    {
-      "id": "te:economy:575470",
-      "time": "2026-08-14 19:58:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Costa Rica",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Costa Rica Growth Hits Lowest Level Since Q1 2021 — Costa Rica’s economy expanded 3.4% year-on-year in Q2 2026, slowing from 4% growth in the previous quarter and marking the weakest expansion since Q1 2021. Growth moderated across several sectors, with manufacturing output declining 0.8%, reversing a 2.6% increase in Q1, while agriculture and fishing growth slowed sharply to 0.5% from 2.3%. Further slowdowns were recorded in transport and storage (3.9% vs 4.7%), mining and quarrying (3.1% vs 3.5%), accommodation and food services (3.5% vs 3.8%), telecommunications and information services (3.4% vs 4.7%), real estate (3.1% vs 3.2%), administrative and support services (4.2% vs 4.8%), and education services (2.7% vs 3.1%). Meanwhile, growth strengthened in utilities (4% vs 3.5%) and construction (8.9% vs 7.7%)."
-    },
-    {
-      "id": "5041447",
-      "time": "2026-08-14 19:57:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SpaceX美股盤前漲超2%】SpaceX美股盤前漲超2%，現報144.139美元。"
-    },
-    {
-      "id": "5041446",
-      "time": "2026-08-14 19:57:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "騰訊控股：本公司於二零二六年八月十四日，根據購股權計劃的條款向僱員參與者授予1,952,440份購股權，以認購股份（惟須待獲授人接納後方可作實）。"
-    },
-    {
-      "id": "mkt:01a00022-09de-7aab-903d-5df7d87e5171",
-      "time": "2026-08-14 19:57:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine said Kharkiv was struck in an attack, damaging more than ten apartment buildings."
-    },
-    {
-      "id": "5041445",
-      "time": "2026-08-14 19:56:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【甘諮詢：股票連續3日跌幅偏離值超20% 不存在應披露未披露事項】甘諮詢公告稱，公司股票8月12日至14日連續3個交易日收盤價格跌幅偏離值累計超20%，屬異常波動。經自查及與控股股東、實控人核實，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營及內外部環境正常，不存在應披露未披露或籌劃中的重大事項，控股股東和實控人期間未買賣公司股票，也無增減持計劃，不存在資訊披露違規。提醒投資者注意風險。"
-    },
-    {
-      "id": "5041444",
-      "time": "2026-08-14 19:56:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南模生物：擬出資5900萬元參設鹽城場景創投基金】南模生物(688265)8月14日公告，公司擬作為有限合夥人參與設立鹽城市場景創新應用產業投資基金合夥企業（有限合夥）（簡稱“鹽城場景創投基金”）。鹽城場景創投基金總規模為3億元，主要在鹽城市圍繞人工智慧和生物醫藥產業進行投資。公司擬以自有資金認繳出資5900萬元，投資完成後將持有鹽城場景創投基金約19.67%的財產份額。"
-    },
-    {
-      "id": "5041443",
-      "time": "2026-08-14 19:55:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證券交易委員會（SEBI）提議對實體為解決監管違規行為需繳納的罰款進行合理化調整。"
-    },
-    {
-      "id": "mkt:01a00020-cf2a-7aab-903d-5576607bf14c",
-      "time": "2026-08-14 19:55:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China outlines preparations for third APEC senior officials' meeting in Dalian】China will host the third APEC senior officials' meeting and related sessions in Dalian, Liaoning, Aug. 17-28, as host of APEC 2026. Organisers say it will be the largest senior officials' meeting to date, with roughly 130 sessions covering trade, transport, food, customs, technology, energy, health, disaster reduction and anti-corruption. About 2,300 delegates are expected from APEC economies, the APEC Secretariat, the APEC Business Advisory Council and the Pacific Economic Cooperation Council. The meeting aims to secure cooperation outcomes across APEC mechanisms to prepare for the November leaders' meeting."
-    },
-    {
-      "id": "5041439",
-      "time": "2026-08-14 19:54:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國汽車行業就業人數降至21年來最低】德國聯邦統計局14日釋出的資料顯示，德國汽車行業就業人數持續減少，今年上半年已降至2005年以來最低水平。截至今年上半年，德國汽車行業共有約69.15萬名就業人員，比一年前減少4.23萬人，降幅為5.8%。據德新社報道，汽車行業是德國各工業部門中就業人員減少最快的部門。德國汽車行業中，汽車零部件及配件供應商裁員最多，就業人數同比減少7.6%；汽車製造商就業人數減少6.1%。德國其他工業部門就業人數也有所減少，但降幅相對較小。同時期，德國製造業整體就業人數同比下降2.7%，至529萬人。（新華社）"
-    },
-    {
-      "id": "5041438",
-      "time": "2026-08-14 19:54:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東莞優邦材料科技股份有限公司首發申請8月21日上會】深圳證券交易所上市稽核委員會定於2026年8月21日召開2026年第53次上市稽核委員會審議會議。審議東莞優邦材料科技股份有限公司的首發申請。"
-    },
-    {
-      "id": "mkt:01a0001f-24f9-7aab-903d-48b4401334a6",
-      "time": "2026-08-14 19:53:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian agriculture minister says Ukraine expects to produce 80 million tonnes of grains, oilseeds and processed products in the current marketing year; normal port operations would allow potential exports of up to 60 million tonnes."
-    },
-    {
-      "id": "5041437",
-      "time": "2026-08-14 19:53:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【調查：熊本縣地震影響日本近16%企業】日本熊本縣7月28日發生7.1級地震。一項最新調查結果顯示，日本全國近16%的企業經營活動因這次地震受到影響。在熊本縣所在的九州地區，超過一半企業受影響。日本帝國資料庫公司本月7日至12日對全國938家企業開展問卷調查，詢問各企業經營狀況是否因這場地震受到影響。14日釋出的調查結果顯示，15.7%的受訪企業表示已經或預計受到影響；在九州地區，高達53.9%的企業表示受到影響。（新華社）"
-    },
-    {
-      "id": "5041436",
-      "time": "2026-08-14 19:52:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【許昆林會見浦發銀行董事長張為忠行長謝偉】據遼寧日報，8月14日，遼寧省委書記許昆林在瀋陽會見浦發銀行董事長張為忠、行長謝偉一行。許昆林說，希望浦發銀行進一步深耕遼寧，充分發揮優勢，積極參與基金運作，引入更多耐心資本，圍繞城市更新、“六張網”建設、公共服務等重點領域，加大信貸支援力度，深挖普惠金融、跨境金融等方面的潛力，創新金融產品和服務，幫助企業進一步降低融資成本，為遼寧全面振興提供有力金融支撐。我們將持續打造一流營商環境，全力最佳化金融生態，加強社會信用體系建設，完善常態化政金企對接合作機制，為金融機構在遼發展提供全方位服務保障。"
-    },
-    {
-      "id": "5041435",
-      "time": "2026-08-14 19:52:11",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【8月14日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.應習近平邀請 厄瓜多總統將訪華； 2.【新思想引領新徵程】分好“蛋糕”富民惠民 浙江紮實推進共同富裕示範區建設； 3.文獻紀錄片《江澤民》今晚繼續播出； 4.【樹立和踐行正確政績觀】以學促幹 推動學習教育走深走實； 5.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】全力打通AI賦能堵點 江蘇推進製造業智慧化發展再提速； 6.中央宣傳部等部門聯合印發通知 要求開展生態環境法典學習宣傳工作； 7.前7個月金融總量合理增長 社會融資環境保持寬鬆； 8.多地降雨持續 防汛救災加緊進行； 9.政策發力啟用入境消費 多地離境退稅顯著增長； 10.我國鳥類保護取得顯著成效； 11.國內聯播快訊： （1）《安全應急裝備產業發展“十五五”規劃》釋出； （2）7月中國快遞發展指數同比增長2.4%； （3）雄忻高鐵正線鋪軌全部完成； （4）我國核聚變加料領域首項ISO國際標準正式釋出； （5）《高階訪談》今晚播出對菲爾茲獎獲得者馬丁·海爾的專訪； 12.世界“慰安婦”受害者紀念日 韓國菲律賓舉行紀念活動； 13.伊稱若條件得不到滿足將升級衝突 美稱可無限期維持海上封鎖 美媒稱美軍在伊朗戰事中損失至少45架“死神”無人機； 14.國際聯播快訊： （1）葉門胡塞武裝稱襲擊沙特一座煉油廠； （2）巴西啟動程式反制美國強加關稅； （3）熱浪再襲歐洲 多國林火持續肆虐； （4）暴風雨致美中西部數千萬人面臨洪水威脅； （5）英國英格蘭地區一列火車脫軌。"
-    },
-    {
-      "id": "5041434",
-      "time": "2026-08-14 19:52:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度尼西亞財政部長：2027年國防預算定為160萬億印尼盾。"
-    },
-    {
-      "id": "5041433",
-      "time": "2026-08-14 19:52:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心預測，拉拉颶風在接近夏威夷大島時將增強為颶風。"
-    },
-    {
-      "id": "5041432",
-      "time": "2026-08-14 19:51:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【2026年8月14日外交部發言人郭嘉昆答記者問】《讀賣新聞》記者：13日，俄羅斯總統普京訪問“北方四島”（俄稱“南千島群島”）中的“擇捉島”（俄稱“伊圖魯普島”）。然而“北方四島”是日本領土。中方對此次訪問有何評論？\n\n郭嘉昆：中方一貫主張，世界反法西斯戰爭勝利成果應切實得到尊重和維護。中方敦促日方遵守《開羅宣言》《波茨坦公告》等國際法律檔案確立的二戰後國際秩序。"
-    },
-    {
-      "id": "mkt:01a0001d-0fef-7aab-903d-4339573a5258",
-      "time": "2026-08-14 19:51:39",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Foreign Ministry urges U.S. to stop stoking tensions, provoking confrontation in South China Sea】Aug 14, 2026 — Foreign Ministry spokesman Guo Jiakun said Scarborough Shoal is China’s inherent territory and that establishing and managing a national nature reserve there falls within Chinese sovereignty; the U.S. has no right to intervene. He called on the U.S. to stop stoking tensions and provoking confrontation in the South China Sea, to stop invoking the illegal and invalid \"South China Sea arbitration ruling\", and to stop using maritime issues to discredit China."
-    },
-    {
-      "id": "5041431",
-      "time": "2026-08-14 19:51:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2026年8月14日外交部發言人郭嘉昆答記者問】總檯央視記者：中方將於今年8月17日至28日在大連舉辦亞太經合組織（APEC）第三次高官會。目前會期臨近，能否介紹會議籌備情況？有何預期成果？\n\n郭嘉昆：作為2026年APEC東道主，中方將於8月17日至28日在遼寧省大連市舉辦APEC第三次高官會及相關會議。此次會議是出席人員規模最大、活動場次最多的一次高官會，將推動APEC框架下各領域、各機制達成更多合作成果，為11月領導人會議做好準備。\n\n會議期間將舉行高官會全會以及高官會下設委員會會議、工作組會和研討會等相關會議，涉及貿易、交通、糧食、海關、科技、能源、衛生、減災、反腐敗等多個領域，包括近130場會議活動。預計將有來自APEC各成員經濟體、秘書處、工商諮詢理事會、太平洋經濟合作理事會等2300餘名代表與會。\n\n會議舉辦地大連是東北地區對外開放的視窗城市，產業基礎雄厚、營商環境優良、區位優勢突出、風景秀美宜居。我們歡迎各位記者朋友密切跟蹤報道第三次高官會及相關會議，繼續關注和支援APEC“中國年”。"
-    },
-    {
-      "id": "5041430",
-      "time": "2026-08-14 19:51:20",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【外交部：敦促美方停止借涉海問題汙衊抹黑中國】《中國日報》記者：據報道，當地時間8月8日，美國務院發言人發表宣告，反對中國在黃巖島設立“國家級自然保護區”，並阻止菲律賓漁民進入他們的“傳統漁場”，如2016年“南海仲裁案裁決”所反映的那樣。中方對此有何回應？郭嘉昆：黃巖島是中國固有領土。建立並管理黃巖島國家級自然保護區是中方主權範圍內的事，美方無權說三道四，更無權依據非法無效的“南海仲裁案裁決”為菲律賓說項。中方敦促美方停止在南海渲染緊張、挑動對抗，停止再拿非法無效的“裁決”說事，停止借涉海問題汙衊抹黑中國。"
-    },
-    {
-      "id": "mkt:01a0001c-4da7-7aab-903d-3fa1c8abf778",
-      "time": "2026-08-14 19:50:49",
-      "tags": [
-        "MKT News",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs raised its 12-month target for the FTSE 100 to 11,400 from 11,000."
-    },
-    {
-      "id": "5041429",
-      "time": "2026-08-14 19:50:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4420美元/盎司，日內漲0.03%。"
-    },
-    {
-      "id": "5041428",
-      "time": "2026-08-14 19:50:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度尼西亞財政部長：2027年免費餐食計劃預算定為約240萬億印尼盾。"
-    },
-    {
-      "id": "5041427",
-      "time": "2026-08-14 19:50:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將富時100指數未來12個月的目標點位從11000點上調至11400點。"
-    },
-    {
-      "id": "5041426",
-      "time": "2026-08-14 19:50:24",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛將斯托克歐洲600指數未來12個月的目標點位從660點上調至695點。"
-    },
-    {
-      "id": "mkt:01a0001b-ec4c-7aab-903d-31b25ff5a0d8",
-      "time": "2026-08-14 19:50:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Goldman Sachs raised its 12-month PT for the Stoxx Europe 600 to 695 from 660."
-    },
-    {
-      "id": "5041425",
-      "time": "2026-08-14 19:47:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "印度市場監管機構提議取消現場面籤要求，改用影片驗證。"
-    },
-    {
-      "id": "5041424",
-      "time": "2026-08-14 19:47:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【訊息稱英偉達下一代 GPU“Feynman”使用臺積電 A16 製程】據報道，隨著 Vera Rubin 進入量產爬坡期，英偉達正提前啟動重大迭代產品研發。目前已有訊息稱，英偉達正在將研發與供應鏈資源推向下一代 GPU 產品“Feynman”。"
-    },
-    {
-      "id": "5041423",
-      "time": "2026-08-14 19:46:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SK 海力士員工 2026 上半年人均薪酬 1.44 億韓元同比增長 23%，CEO 半年薪酬 261 億韓元】SK 海力士今年上半年營業總收入 131.90 萬億韓元（現匯率約合 6,292.95 億元人民幣），同比增長 230.8%; 歸母淨利潤 134.15 萬億韓元（現匯率約合 6,400.3 億元人民幣），同比增長 788.16%；毛利率 81.63%，同比增長 26.24 個百分點。研發投入方面，SK 海力士上半年研發支出達 6.04 萬億韓元（現匯率約合 288.17 億元人民幣），相當於去年全年的 90%。其中 5.82 萬億韓元計入當期費用，2266 億韓元資本化為無形資產項下的開發成本。研發支出佔營收比重為 4.6%。公司正集中研發力量於 HBM4、下一代 DRAM、高容量 DDR5、321 層 NAND 及企業級固態硬碟（eSSD）等 AI 與高效能運算（HPC）方向。SK 海力士上半年用於購置有形資產的資本支出為 17.59 萬億韓元（現匯率約合 839.22 億元人民幣），國內外生產設施平均開工率維持 100%；營收佔比超過 10% 的客戶從去年上半年的 1 家增至 2 家，兩家客戶分別貢獻了營收的 13.35% 和 13.03%。業界分析認為，排在第一位的客戶應為英偉達，其貢獻的銷售額超過 17 萬億韓元（現匯率約合 811.07 億元人民幣），約佔 SK 海力士總營收的 13%。"
     }
   ]
 }

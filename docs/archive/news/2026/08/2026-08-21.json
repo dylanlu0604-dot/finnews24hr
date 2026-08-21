@@ -1,7 +1,209 @@
 {
   "date": "2026-08-21",
-  "count": 2526,
+  "count": 2549,
   "items": [
+    {
+      "id": "5052308",
+      "time": "2026-08-21 19:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：斯洛伐克有超過 8500 戶家庭斷電。"
+    },
+    {
+      "id": "mkt:01a0242e-11b7-7aab-90d2-ce9889a54096",
+      "time": "2026-08-21 19:56:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01797.HK",
+        "Impact bullish"
+      ],
+      "text": "Oriental Selection (01797.HK): FY2026 revenue RMB 5.701 bln, up 29.8% YoY; profit attributable to owners RMB 544 mln, up 9,377.8% YoY."
+    },
+    {
+      "id": "5052307",
+      "time": "2026-08-21 19:56:33",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "東方甄選(01797.HK)：2026財年營收為人民幣57.01億元，同比增長29.8%；本公司擁有人應占年內溢利人民幣5.44億元，同比增長9377.8%。"
+    },
+    {
+      "id": "mkt:01a0242d-6b0b-7aab-90d2-c1b3a013c93b",
+      "time": "2026-08-21 19:55:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dong Jun meets Indonesian defense minister】Aug 21 — Chinese defense minister Dong Jun met his Indonesian counterpart in Jakarta during the second China‑Indonesia foreign and defense ministers' 2+2 ministerial meeting. Citing strategic guidance from both heads of state, the two sides said bilateral military ties face a favorable development window and broad cooperation prospects; they agreed to consolidate military mutual trust, deepen pragmatic cooperation across multiple domains, increase exchanges at all levels and jointly safeguard regional peace and stability."
+    },
+    {
+      "id": "5052306",
+      "time": "2026-08-21 19:55:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦 KSE‑100 指數收盤上漲 0.3%，報 177166.50 點。"
+    },
+    {
+      "id": "5052305",
+      "time": "2026-08-21 19:54:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "國 8 月 22 日電力結算價報 100.62 歐元 / 兆瓦時。德國 8 月 22 日電力結算價報 101.49 歐元 / 兆瓦時。"
+    },
+    {
+      "id": "5052304",
+      "time": "2026-08-21 19:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【董軍會見印度尼西亞國防部長】8月21日，國防部長董軍在雅加達出席中印尼外長防長“2+2”對話機制第二次部長級會議期間，會見印尼國防部長沙夫裡。雙方表示，在兩國元首戰略引領下，兩軍關係面臨良好發展契機，合作前景廣闊。雙方應持續鞏固軍事互信，密切兩軍各層級交往，深化多領域務實合作，攜手維護地區和平穩定。會見前，沙夫裡為董軍舉行歡迎儀式。（國防部發布）"
+    },
+    {
+      "id": "mkt:01a0242a-3535-7aab-90d2-ba1350c73f87",
+      "time": "2026-08-21 19:52:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Independent reports UK Prime Minister Burnham is exploring a bid to host the men's World Cup."
+    },
+    {
+      "id": "5052303",
+      "time": "2026-08-21 19:52:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德龍鐳射：回覆定增稽核問詢函並更新申請檔案】德龍鐳射公告稱，公司收到上交所出具的向特定物件發行股票申請檔案稽核問詢函後，會同中介機構對問詢問題逐項落實，修訂完善募集說明書等申請檔案，相關回復及更新後的申請檔案已在上交所網站披露。本次向特定物件發行股票事項尚需上交所稽核及中國證監會同意註冊後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。"
+    },
+    {
+      "id": "5052302",
+      "time": "2026-08-21 19:51:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中電電機：2026年上半年淨利潤470.15萬元，同比下降86.56%】中電電機公告，2026年上半年營業收入2.53億元，同比下降17.95%；歸屬於上市公司股東的淨利潤470.15萬元，同比下降86.56%，2025年上半年為3497.12萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤421.2萬元，同比下降76.29%。"
+    },
+    {
+      "id": "5052301",
+      "time": "2026-08-21 19:51:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國首相伯納姆正探討申辦男子世界盃。"
+    },
+    {
+      "id": "mkt:01a02428-dd12-7aab-90d2-b733c5f31233",
+      "time": "2026-08-21 19:50:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【BofA: European stocks vulnerable to AI monetization uncertainty】BofA analysts say uncertainty over AI monetization and intensified competition from China and the US could force AI model vendors to cut prices, undermining lofty profit expectations. Rising borrowing costs will further pressure corporate earnings. European equities already price in sustained AI spending; a reversal in AI momentum would weaken that optimism. BofA forecasts the Stoxx Europe 600 will fall about 10% to 580 by Q2 2027."
+    },
+    {
+      "id": "5052300",
+      "time": "2026-08-21 19:50:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：網路博彩應當效仿香菸，實施高額徵稅。"
+    },
+    {
+      "id": "5052299",
+      "time": "2026-08-21 19:49:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國人工智慧與人類發展全球對話在西安舉辦】8月20日至21日，聯合國人工智慧與人類發展系列全球對話第三場活動在陝西西安舉辦。本次活動由聯合國常務副秘書長阿明娜·穆罕默德召集，並與中國政府和聯合國秘書處合作舉辦。本場西安對話會關注具身人工智慧與機器人技術前沿，重點討論在現實世界中日益普及的智慧系統將如何影響教育、就業、文化和可持續發展，探索人工智慧發展成果如何助力人類全面發展，同時守護人的自主選擇權、社會信任與社會凝聚力。（新華社）"
+    },
+    {
+      "id": "5052298",
+      "time": "2026-08-21 19:49:22",
+      "tags": [
+        "央行",
+        "宏觀",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【8月21日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】無懼風浪 中國經濟高質量發展行穩致遠； 2.李強主持召開國務院常務會議； 3.趙樂際會見約旦國王； 4.【“十五五”開好局起好步】積極財政政策助推經濟社會高質量發展； 5.我國早稻產量連續6年穩定在560億斤以上； 6.【活力中國調研行】AI助跑 科創加速； 7.賽事激發經濟發展新活力； 8.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 9.國內聯播快訊： （1）中國進出口銀行前7個月新發放製造業貸款近5000億元； （2）財政部在澳門發行60億元人民幣國債； （3）2026年個人資訊保護系列專項行動督促整改隱患問題1.2萬餘個； （4）市場監管總區域性署推進2026年質量強鏈十大專案； （5）APEC經濟體簽署多份農食產品領域及海關合作雙邊協議； （6）我國在十地開展首批資料領域國際合作試點； （7）我國自主研發建造11.5萬噸成品油輪正式交付； （8）《高階訪談》今晚播出對聯合國副秘書長亞絲明·福阿德的專訪； 10.俄外交部：日本應全面承認二戰結果 停止篡改侵略歷史； 11.伊朗譴責美國新制裁是“經濟恐怖主義”； 12.受高溫乾旱天氣影響 西班牙等國林火持續 德國央行報告稱持續乾旱恐拖累經濟復甦； 13.國際聯播快訊： （1）七國譴責以色列推進定居點建設專案； （2）胡塞武裝稱襲擊沙特南部一機場等目標； （3）歐盟：希望休達非法移民全部返回摩洛哥。"
+    },
+    {
+      "id": "5052297",
+      "time": "2026-08-21 19:48:26",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【藍盾光電：股票交易停牌核查完成 8月24日復牌】藍盾光電公告稱，公司股票自2026年8月10日至8月18日累計5個交易日漲停，累計漲幅達197.21%，先後觸及異常波動、嚴重異常波動情形，公司此前申請股票自8月19日開市起停牌核查。目前自查工作已完成，公司股票將於2026年8月24日開市起復牌。經核查，公司基本面未發生重大變化，股價異動受擬發行股份及支付現金購買蘇州嵐創科技控股權並募集配套資金事項影響，本次交易預計構成重大資產重組、關聯交易，目前相關審計、評估等工作有序推進，交易存在審批、暫停或取消等多重不確定性。公司控股股東及實控人等在異動期間無買賣公司股票行為，不存在應披露未披露重大事項。公司2025年營收3.99億元，同比下降34.53%；淨虧損8876.65萬元，同比下降1468.72%。2026年第一季度營收8811.63萬元，同比下降13.20%；淨虧損866.43萬元，同比下降271.99%。"
+    },
+    {
+      "id": "5052296",
+      "time": "2026-08-21 19:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第四屆中國航協（CATA）航空大會將於9月舉行】記者8月21日從中國航空運輸協會獲悉，由該協會主辦的第四屆中國航協（CATA）航空大會將於9月17日至19日在北京舉行。大會以“人工智慧與民航融合發展”為主題，旨在探討人工智慧技術在民航安全、運營、服務等領域的深度應用，為行業搭建思想碰撞與資源對接平臺。大會由開幕式、行業論壇和專業展覽三個單元構成。行業論壇將聚焦人工智慧應用、通航與直升機發展、航空服務、航空物流等議題。專業展覽將設立航空科技、通航及低空、航旅融合、航空美食街等主題展區，透過實物、模型與多媒體互動，打造沉浸式體驗，促進產業鏈供需對接與協同創新。（新華社）"
+    },
+    {
+      "id": "te:markets:577285",
+      "time": "2026-08-21 19:48:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Prices Rise — US gasoline futures rose to around $3.30 per gallon, after holding near $3.25 on Thursday, as traders awaited details of a US campaign to isolate Iran’s economy amid an ongoing conflict disrupting Middle Eastern energy exports. President Donald Trump announced plans for an economic package to intensify pressure on Iran, potentially involving China, the largest buyer of Iranian crude. Fuel supply concerns were also heightened by Russia’s war with Ukraine, as Ukrainian strikes on refineries strained fuel availability, prompting shortages and renewed rationing in several regions. Meanwhile, US gasoline refining margins surged 86% since the start of the conflict, highlighting limited flexibility across refiners. Average pump prices of regular gasoline remained above $4 per gallon in most US regions, with few exceeding $5. The EPA is set to end summer gasoline blend requirements early to help ease prices, which averaged $4.10 on August 20th."
+    },
+    {
+      "id": "mkt:01a02426-1b88-7aab-90d2-a9ded80916c4",
+      "time": "2026-08-21 19:47:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【US sources: Ukraine reportedly planned AI-guided drone swarm attacks on Moscow airports】US sources on the 20th said Ukraine earlier this year planned to launch AI-guided drone swarms at Moscow and nearby airports to force international carriers to suspend Moscow routes and pressure Russia’s elite toward negotiations. Two sources said the drones would autonomously seek and strike targets; the plan envisaged launching up to 1,000 drones per night to overwhelm Russian air defenses. President Zelenskiy reportedly feared the drones could hit civilian airliners and cause casualties but, seeking leverage to restart talks, allowed work on the plan to continue for months. The scheme was allegedly devised by former defence minister Mykhailo Fedorov and was shelved after his July dismissal. A Ukrainian presidential office official denied such a plan existed."
+    },
+    {
+      "id": "mkt:01a02424-dbe5-7aab-90d2-a451d38c78f7",
+      "time": "2026-08-21 19:46:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Tibo, CODEX product lead at OpenAI, said the company will grant a one-time quota reset to all CODEX and ChatGPT Work users."
+    },
+    {
+      "id": "5052295",
+      "time": "2026-08-21 19:46:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤海租賃：披露控股子公司2026年上半年財務資料】渤海租賃公告稱，公司披露控股子公司Avolon Holdings Limited2026年半年度中國會計準則財務報表，該資料反映子公司對公司合併報表的影響，與子公司單體報表資料存在差異。2026年1-6月，Avolon實現營業收入33.54億美元，淨利潤4.73億美元；截至2026年6月30日，Avolon資產總計323.08億美元，所有者權益合計80.28億美元。"
+    },
+    {
+      "id": "5052294",
+      "time": "2026-08-21 19:46:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克農業商會預估資料：今年捷克主要穀物產量將下降約17.5%，至630萬噸。"
+    },
     {
       "id": "5052293",
       "time": "2026-08-21 19:44:59",
@@ -74,6 +276,15 @@
         "Importance 1"
       ],
       "text": "Ethiopia Inflation Rate Accelerates to 1-1/2-Year High — The annual inflation rate quickened for the fourth month to 15.3% in July 2026, the highest since January 2025, up from June's 13.9%. Food inflation picked up to 15.7% in July from 15.1% a month earlier, marking its highest rate since January 2025. Major food categories recorded significant price increases, led by sugar, jam, honey and chocolate, meat, and oils and fats, which rose 39.4%, 21.6% and 20.3%, respectively. Fruit, dairy products and other food items also recorded increases of around 18% or more. On a monthly basis, the CPI climbed by 2.6%, following a 1% rise in the month earlier."
+    },
+    {
+      "id": "em:qqyh_mlc:202608213849500026",
+      "time": "2026-08-21 19:42:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【經濟學家上調美國三季度經濟增長預期】經濟學家上調美國三季度經濟增長預期，料美聯儲到明年7月都按兵不動。"
     },
     {
       "id": "5052288",
