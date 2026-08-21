@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-22 04:55:14",
-  "count": 16155,
+  "updated": "2026-08-22 04:59:15",
+  "count": 16161,
   "items": [
+    {
+      "id": "5052796",
+      "time": "2026-08-22 04:58:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我方也將啟動與墨西哥的新協議談判。"
+    },
+    {
+      "id": "5052795",
+      "time": "2026-08-22 04:58:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：還將與墨西哥達成一項新協議。"
+    },
+    {
+      "id": "5052794",
+      "time": "2026-08-22 04:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們理應能夠與加拿大達成協議。"
+    },
+    {
+      "id": "5052793",
+      "time": "2026-08-22 04:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：伊方願意達成協議，但尚未準備好簽署一份合適的協議。"
+    },
+    {
+      "id": "5052792",
+      "time": "2026-08-22 04:57:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：他們想達成協議。"
+    },
+    {
+      "id": "5052791",
+      "time": "2026-08-22 04:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們完全控制了整個地區。"
+    },
+    {
+      "id": "5052790",
+      "time": "2026-08-22 04:54:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：經濟增長將自行化解美國國債問題。"
+    },
     {
       "id": "5052789",
       "time": "2026-08-22 04:54:13",
@@ -147894,18 +147951,6 @@
         "Impact bullish"
       ],
       "text": "Soros Fund Management disclosed it increased its Apple (AAPL.O) holding by 29,004 shares to 529,538 shares."
-    },
-    {
-      "id": "te:economy:575543",
-      "time": "2026-08-15 04:58:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canadian Yields Rise on Strong Macroeconomic Data — Canada’s 10-year government bond yield rose to 3.68%, approaching the over-two-month high of 3.72% touched on August 10th, following stronger-than-expected manufacturing sales data. Canadian factory sales rose 0.1% in June from May, beating expectations for a decline and marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Recent data also showed a stronger Canadian labor market, while Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast. The strong macroeconomic data raised expectations for a potential BoC rate hike if energy prices remain elevated. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery."
     }
   ]
 }
