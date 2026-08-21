@@ -1,7 +1,26 @@
 {
   "date": "2026-08-22",
-  "count": 325,
+  "count": 327,
   "items": [
+    {
+      "id": "5052855",
+      "time": "2026-08-22 06:45:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美陸軍部長或將離職】據美國《華爾街日報》當地時間8月21日援引知情人士訊息報道，美國陸軍部長丹·德里斯科爾預計將於年底前離職。近幾個月來，他與美國國防部長赫格塞思之間的關係持續緊張。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:577374",
+      "time": "2026-08-22 06:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Soars by 14.34% — Top crypto gainers are XRP (14.34%), Ether (8.78%) and Bitcoin (7.53%)."
+    },
     {
       "id": "5052854",
       "time": "2026-08-22 06:45:03",
