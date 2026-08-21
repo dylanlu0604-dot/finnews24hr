@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:55:14_
-_本檔包含 3332 則快訊，約 657544 字_
+_更新時間：2026-08-22 05:35:23_
+_本檔包含 3327 則快訊，約 655594 字_
+
+---
+
+### 2026-08-20 02:27:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #WTI
+
+【Fed minutes show no support for rate cuts】Fed minutes contained no views supporting rate cuts, marking a clear shift in policy discussion versus a year ago. Markets had expected cuts as inf cooled, but price pressures have persisted — amplified after the Trump administration's involvement in the Israel–Iran conflict — and oil and gas flows via the Strait of Hormuz remain constrained nearly six months after the outbreak. Recent data show a modest easing in inf and an unexpected payroll decline in July, leaving markets priced for the Fed to hold at the Sept. 15–16 meeting. Officials remain divided on the need for further hikes but are more cautious on labour-market strength and risks to achieving full employment; the Fed chair's reluctance to outline his policy path leaves markets without clear guidance.
+
+---
+
+### 2026-08-20 02:27:45  #MKT News
+
+India orders inventory limits on bulk sugar consumers, effective Sept 1 through Nov 30.
+
+---
+
+### 2026-08-20 02:25:57  #國際
+
+印度政府令：印度對食糖大宗消費商實施存糖限額，該規定自9月1日起生效，有效期至11月30日。
+
+---
+
+### 2026-08-20 02:25:53  #MKT News
+
+Colombian official data shows the earthquake death toll has risen to 312.
+
+---
+
+### 2026-08-20 02:25:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Rises to Over 2-Month High — Gold prices rose to $4,480 per ounce on Wednesday, the highest since early June, tracking the rally for long-dated US Treasuries after the Treasury Department doubled the buyback of notes and bonds in the upcoming financial quarter. It marked another effort by Washington to contain soaring yields in the longer portion of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. On top of that, the initial increase in dollar liquidity due to the measures also aid gold prices. Meanwhile, minutes of the Federal Reserve's rate-setting meeting confirmed that a portion of policymakers argued that raising rates this year could prevent sharper inflationary pressure later on.
+
+---
+
+### 2026-08-20 02:25:13  #MKT News #Commodities #Energy
+
+【Russian deputy PM: Russia has begun importing fuel】Russian Deputy Prime Minister Novak told Russian news channel website reported on the 19th that Russia has begun importing fuel and has enacted necessary regulations to permit production of certain lower-emission-grade fuels.
+
+---
+
+### 2026-08-20 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cotton Gains by 3.63% — Top commodity gainers are Cotton (3.63%), Palm Oil (2.92%) and Wheat (2.26%). Biggest loser is Coffee (-1.29%).
 
 ---
 
@@ -20007,77 +20049,5 @@ Apple (AAPL.O) said it has resolved a dispute with the European Union over App S
 ### 2026-08-18 23:56:33  #Trading Economics #Markets #commodity #Importance 0
 
 UK Gas Hits 21-week High — UK Gas increased to 157.60 GBp/thm, the highest since March 2026. Over the past 4 weeks, Natural Gas UK gained 11.22%, and in the last 12 months, it increased 104.81%.
-
----
-
-### 2026-08-18 23:56:27  #其他
-
-蓋亞那總統：蓋亞那目前有權獲得斯塔布魯克區塊原油產量的 39.8%。
-
----
-
-### 2026-08-18 23:55:48  #國際
-
-市場訊息：日本為特朗普在美國中期選舉前就防務和日元問題提出要求做準備。
-
----
-
-### 2026-08-18 23:54:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-Nikkei reports Japan is preparing for possible demands from Trump on defense policy and the yen ahead of U.S. midterm elections.
-
----
-
-### 2026-08-18 23:53:04  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Falls for Sixth Straight Session — The CAC 40 fell 0.8% to close at 8,509 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal faded. Oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Global bond yields rose as energy-driven inflation concerns persisted. Financials moved lower, with BNP Paribas down 1.6%, Crédit Agricole losing 2% and Société Générale shedding 2.5%. Industrials also posted losses, with Airbus down 2.1% and Safran retreating 2.2%. Technology stocks tumbled, tracking a selloff in US chipmakers. STMicroelectronics sank 7.6% and Schneider Electric fell 4.4%. Meanwhile, the luxury sector rebounded after posting sharp losses the previous day amid slowing Chinese retail sales. L’Oréal added 1.6%, LVMH rose 0.4% and Hermès gained 0.7%. TotalEnergies rose 1.8% on higher oil prices. Other notable performers included Sanofi and EssilorLuxottica.
-
----
-
-### 2026-08-18 23:49:22  #國際
-
-以色列國防軍稱，對加沙地帶北部多名哈馬斯指揮官實施打擊。
-
----
-
-### 2026-08-18 23:46:23  #MKT News
-
-Israel Defense Forces said it struck a Hamas commander in the Shati area of northern Gaza who was plotting terror attacks against Israeli forces.
-
----
-
-### 2026-08-18 23:44:44  #國際
-
-加沙方面報道：加沙港口遇襲事件死亡人數已升至 6 人。
-
----
-
-### 2026-08-18 23:44:18  #MKT News
-
-Gaza sources say the death toll from an attack on Gaza port has risen to six.
-
----
-
-### 2026-08-18 23:44:03  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Russia says Sweden's seizures of vessels serving Russian interests are politically motivated】Russia's ambassador to Sweden Sergey Belyayev told RIA on the 18th that Sweden has detained multiple cargo ships serving Russian interests since late 2025, calling the actions politically motivated and in breach of international maritime law. He said Sweden has relied on allegations the vessels flew false flags but has produced no substantive charges and that the detentions are intended to pressure commercial operators involved in Russia's foreign trade. AFP reported earlier this month that Swedish court documents show a previously detained freighter will be handed over to Ukraine, accused of transporting grain from Russian-occupied areas.
-
----
-
-### 2026-08-18 23:43:36  #國際
-
-【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）
-
----
-
-### 2026-08-18 23:42:55  #Trading Economics #Markets #Commodity #Importance 1
-
-Uranium Rises to Near 6-Month High — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations.
-
----
-
-### 2026-08-18 23:41:30  #Trading Economics #Economy #Colombia #GDP Annual Growth Rate #Importance 1
-
-Colombia Economic Growth Picks Up in Q2 — Colombia’s economy expanded 3.5% year-on-year in Q2 2026, accelerating from 2.2% growth in the previous quarter. Growth was supported by public spending, although its pace eased to 12.2% from 13.2%, while household consumption strengthened to 2.8% from 2.7%. Activity also accelerated in public administration, health and defense (10% vs 5.6%), entertainment (9.5% vs 3.2%), financial services (4.3% vs 2.8%) and utilities (4.8% vs 2.6%). However, risks to the outlook include the recent earthquake, the strongest in half a century, and dry weather associated with the El Niño phenomenon. On a seasonally adjusted quarterly basis, the economy expanded 1.3%, accelerating sharply from a 0.6% increase in the prior quarter.
 
 ---

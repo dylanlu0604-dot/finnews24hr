@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:55:14_
-_本檔包含 3016 則快訊，約 657110 字_
+_更新時間：2026-08-22 05:35:23_
+_本檔包含 3030 則快訊，約 656684 字_
+
+---
+
+### 2026-08-22 05:32:25  #其他
+
+Datafolha 民調：（巴西）首輪投票盧拉支援率 39%，弗拉維奧・博索納羅 33%。
+
+---
+
+### 2026-08-22 05:32:04  #國際
+
+BITARI申請將其普通股在納斯達克全球市場掛牌上市，股票程式碼為“BIAI”，這一申請已提交美國證券交易委員會。
+
+---
+
+### 2026-08-22 05:32:03  #市場 #焦點
+
+布倫特原油失守92美元/桶，日內跌0.05%。
+
+---
+
+### 2026-08-22 05:27:16  #公司 #市場 #國際
+
+美國證交會備案檔案顯示，美國黃金公司（US GOLD CORP）或最高發售1.5億美元證券。
+
+---
+
+### 2026-08-22 05:24:35  #市場 #國際
+
+週五（8月21日）紐約尾盤，美國10年期基準國債收益率漲2.99個基點，報4.7339%，本週累計上漲4.18個基點，整體交投於4.6308%-4.7458%區間。兩年期美債收益率漲5.05個基點，報4.2359%，本週累漲6.68個基點，整體交投於4.1412%-4.2401%區間，8月21日20:30出現一波顯著的上漲行情。
+
+---
+
+### 2026-08-22 05:22:49  #市場
+
+週五（8月21日）紐約尾盤，標普500股指期貨最終漲0.39%，道指期貨漲0.95%，納斯達克100股指期貨漲0.26%。羅素2000股指期貨漲0.77%。
+
+---
+
+### 2026-08-22 05:19:57  #其他
+
+馬斯克：Grok 4.6 現在在最高思考模式下，在 CursorBench 上取得了第一名分數！（他還把這個帖子置頂了）
+
+---
+
+### 2026-08-22 05:16:19  #市場
+
+富時A50期指連續夜盤收跌0.11%，報14826點。
+
+---
+
+### 2026-08-22 05:14:59  #國際
+
+特朗普談伊朗：“我們正在觀察事態發展。他們（伊朗）沒有錢。他們沒有海軍。他們沒有空軍。他們沒有支付士兵薪水。他們沒有支付警察薪水。他們有 350% 的通貨膨脹。”
+
+---
+
+### 2026-08-22 05:12:47  #其他
+
+航空訊息人士和航班追蹤系統報告稱，一架F-35在飛越阿拉伯聯合大公國領空時，曾發出緊急狀態訊號。
+
+---
+
+### 2026-08-22 05:09:34  #市場
+
+週五（8月21日）紐約尾盤，標普500股指期貨最終漲0.39%，道指期貨漲0.95%，納斯達克100股指期貨漲0.26%。羅素2000股指期貨漲0.77%。
+
+---
+
+### 2026-08-22 05:08:38  #市場
+
+週五（8月21日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7210元，較週四紐約尾盤漲43點，日內整體交投於6.7257-6.7180元區間。最近三個交易日，離岸人民幣累計上漲大約250點、漲幅0.37%，本週累漲0.35%。
+
+---
+
+### 2026-08-22 05:08:00  #其他
+
+SpaceX： 準備開展第 14 次飛行測試的星艦完成全時長靜態點火，六臺猛禽發動機全部點火，持續 60 秒。
+
+---
+
+### 2026-08-22 05:06:58  #國際
+
+【特朗普：宴會廳我自有金主】特朗普表示新白宮舞廳的造價將接近4億美元，但他堅稱納稅人不會為此買單。 特朗普說，這個專案完全由“愛國者和愛國企業”的私人捐款資助。
+
+---
+
+### 2026-08-22 05:04:30  #其他
+
+惠譽確認馬耳他評級為“A+”，展望穩定。
+
+---
+
+### 2026-08-22 05:03:40  #公司 #國際
+
+阿拉斯加航空集團：根據美國證券交易委員會（SEC）檔案披露，執行長貝尼託·米努奇於8月20日以每股40.06美元的平均價格買入了2.5萬股公司普通股。
+
+---
+
+### 2026-08-22 05:02:57  #國際
+
+惠譽確認波蘭主權信用評級為 “A‑”，展望負面。
+
+---
+
+### 2026-08-22 05:02:02  #國際
+
+特朗普：我只做划算的交易。
+
+---
+
+### 2026-08-22 05:01:04  #國際
+
+白宮記者Kellie Meyer：我問特朗普總統誰將接替卡羅琳·萊維特擔任新聞秘書，他說：“我不知道，也許是你。”
+
+---
+
+### 2026-08-22 04:59:41  #國際
+
+提示：特朗普講話結束（特朗普本次講話發表於空軍一號前，非常簡短，不過十分鐘就上了飛機）。
+
+---
+
+### 2026-08-22 04:58:40  #國際
+
+特朗普談加美協議：進展順利。
+
+---
+
+### 2026-08-22 04:58:13  #國際
+
+特朗普：我方也將啟動與墨西哥的新協議談判。
+
+---
+
+### 2026-08-22 04:58:06  #國際
+
+特朗普：還將與墨西哥達成一項新協議。
+
+---
+
+### 2026-08-22 04:58:00  #國際
+
+特朗普：我們理應能夠與加拿大達成協議。
+
+---
+
+### 2026-08-22 04:57:52  #國際
+
+特朗普談伊朗：伊方願意達成協議，但尚未準備好簽署一份合適的協議。
+
+---
+
+### 2026-08-22 04:57:45  #國際
+
+特朗普談伊朗：他們想達成協議。
+
+---
+
+### 2026-08-22 04:57:31  #國際
+
+特朗普談伊朗：我們完全控制了整個地區。
+
+---
+
+### 2026-08-22 04:54:53  #市場 #國際
+
+特朗普：經濟增長將自行化解美國國債問題。
 
 ---
 
@@ -18121,89 +18289,5 @@ Saudi deputy foreign minister for political affairs met with Ukraine’s ambassa
 ### 2026-08-21 03:37:05  #Trading Economics #Economy #Argentina #Balance of Trade #Importance 1
 
 Argentina Trade Surplus Jumps in July — Argentina’s trade surplus widened to $2.11 billion in July 2026, up $1.21 billion from the same month of 2025. Exports totaled $8.85 billion, increasing 14.1% year-over-year, led by a 97.8% surge in energy and fuel exports, driven by higher shipments of crude oil, fuels, lubricants and other fuels. Manufactured industrial goods exports rose 11.2%, mainly due to higher exports of motor vehicles and transport equipment, while manufactured agricultural goods increased 4.9%, supported by higher meat exports. Imports totaled $6.74 billion, down 1.7% year-over-year. Intermediate goods posted the largest decline, falling 14.9%, while capital goods imports decreased 7.7% and consumer goods fell 7.3%. Imports of fuels and lubricants also declined 7.3%.
-
----
-
-### 2026-08-21 03:36:41  #市場
-
-【國際油價20日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.00美元，收於每桶87.83美元，漲幅為2.33%；10月交貨的倫敦布倫特原油期貨價格上漲2.16美元，收於每桶93.78美元，漲幅為2.36%。
-
----
-
-### 2026-08-21 03:36:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【International oil prices rose on the 20th】NYMEX September light crude futures settled up $2.00 at $87.83 a barrel, +2.33%. ICE Brent October futures settled up $2.16 at $93.78 a barrel, +2.36%.
-
----
-
-### 2026-08-21 03:29:26  #MKT News
-
-Canada's minister for Canada-U.S. trade, LeBlanc, said they will remain in Washington until deal details are finalised.
-
----
-
-### 2026-08-21 03:28:32  #國際
-
-加拿大美加貿易事務部長勒布朗：加拿大與美國已非常接近達成協議，我們仍在持續取得進展。在敲定協議具體細節之前，我們將繼續在此談判。
-
----
-
-### 2026-08-21 03:28:00  #MKT News #DXY #Impact bearish #WTI #Impact bullish
-
-Canada's minister for Canada-U.S. trade, LeBlanc, said Canada and the United States are very close to reaching an agreement and are continuing to make progress.
-
----
-
-### 2026-08-21 03:27:34  #MKT News
-
-Canada-U.S. trade minister Leblanc said Canada and the United States are continuing negotiations on a possible agreement.
-
----
-
-### 2026-08-21 03:27:16  #其他
-
-加拿大美加貿易事務部長勒布朗：加美兩國仍在就潛在協議持續開展談判。
-
----
-
-### 2026-08-21 03:23:16  #MKT News #Macro & Rates #US Economy
-
-ICI: US money market fund assets rose to $7.93 trillion.
-
----
-
-### 2026-08-21 03:23:05  #MKT News
-
-【Oil and data centers vie for power in West Texas; Permian faces outage risk】Surging power demand from oil and gas producers in West Texas, alongside tech firms building data centers in the Permian, is sharply increasing local electricity needs. Diamondback, one of the Permian’s largest oil producers, says its power consumption could double over the next decade even if output stays flat. A Citigroup analyst warned Thursday the region could face blackouts as soon as next summer. Executives from the Texas grid operator and state utility regulators testified this week to the Texas House State Affairs Committee on the need to add transmission lines.
-
----
-
-### 2026-08-21 03:21:10  #公司 #國際
-
-美國投資公司協會（ICI）資料：美國貨幣市場基金規模升至 7.93 萬億美元。
-
----
-
-### 2026-08-21 03:20:42  #市場 #觀點
-
-花旗調查：預計 2026 年末墨西哥比索兌美元匯率為1美元兌17.68比索，預計 2027 年末為1美元兌18.24比索。
-
----
-
-### 2026-08-21 03:17:36  #資料 #觀點
-
-花旗調查：墨西哥 2026 年消費者物價指數（CPI）預期為 4.00%，此前預期 4.02%。
-
----
-
-### 2026-08-21 03:16:03  #其他
-
-市場訊息：兩名幣安員工在阿聯酋遭警方調查期間被拘留。
-
----
-
-### 2026-08-21 03:15:40  #國際
-
-市場訊息：“亞伯拉罕・林肯” 號航母於週四啟程返回聖地亞哥母港，結束為期九個月的部署任務，該部署大部分時間用於支援美國針對伊朗的軍事行動。駐日部署的 “喬治・華盛頓” 號航母已接替林肯號進駐中東。
 
 ---

@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:55:14_
-_本檔包含 3393 則快訊，約 656674 字_
+_更新時間：2026-08-22 05:35:23_
+_本檔包含 3378 則快訊，約 656208 字_
+
+---
+
+### 2026-08-18 23:56:27  #其他
+
+蓋亞那總統：蓋亞那目前有權獲得斯塔布魯克區塊原油產量的 39.8%。
+
+---
+
+### 2026-08-18 23:55:48  #國際
+
+市場訊息：日本為特朗普在美國中期選舉前就防務和日元問題提出要求做準備。
+
+---
+
+### 2026-08-18 23:54:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+Nikkei reports Japan is preparing for possible demands from Trump on defense policy and the yen ahead of U.S. midterm elections.
+
+---
+
+### 2026-08-18 23:53:04  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Falls for Sixth Straight Session — The CAC 40 fell 0.8% to close at 8,509 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal faded. Oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Global bond yields rose as energy-driven inflation concerns persisted. Financials moved lower, with BNP Paribas down 1.6%, Crédit Agricole losing 2% and Société Générale shedding 2.5%. Industrials also posted losses, with Airbus down 2.1% and Safran retreating 2.2%. Technology stocks tumbled, tracking a selloff in US chipmakers. STMicroelectronics sank 7.6% and Schneider Electric fell 4.4%. Meanwhile, the luxury sector rebounded after posting sharp losses the previous day amid slowing Chinese retail sales. L’Oréal added 1.6%, LVMH rose 0.4% and Hermès gained 0.7%. TotalEnergies rose 1.8% on higher oil prices. Other notable performers included Sanofi and EssilorLuxottica.
+
+---
+
+### 2026-08-18 23:49:22  #國際
+
+以色列國防軍稱，對加沙地帶北部多名哈馬斯指揮官實施打擊。
+
+---
+
+### 2026-08-18 23:46:23  #MKT News
+
+Israel Defense Forces said it struck a Hamas commander in the Shati area of northern Gaza who was plotting terror attacks against Israeli forces.
+
+---
+
+### 2026-08-18 23:44:44  #國際
+
+加沙方面報道：加沙港口遇襲事件死亡人數已升至 6 人。
+
+---
+
+### 2026-08-18 23:44:18  #MKT News
+
+Gaza sources say the death toll from an attack on Gaza port has risen to six.
+
+---
+
+### 2026-08-18 23:44:03  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Russia says Sweden's seizures of vessels serving Russian interests are politically motivated】Russia's ambassador to Sweden Sergey Belyayev told RIA on the 18th that Sweden has detained multiple cargo ships serving Russian interests since late 2025, calling the actions politically motivated and in breach of international maritime law. He said Sweden has relied on allegations the vessels flew false flags but has produced no substantive charges and that the detentions are intended to pressure commercial operators involved in Russia's foreign trade. AFP reported earlier this month that Swedish court documents show a previously detained freighter will be handed over to Ukraine, accused of transporting grain from Russian-occupied areas.
+
+---
+
+### 2026-08-18 23:43:36  #國際
+
+【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）
+
+---
+
+### 2026-08-18 23:42:55  #Trading Economics #Markets #Commodity #Importance 1
+
+Uranium Rises to Near 6-Month High — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations.
+
+---
+
+### 2026-08-18 23:41:30  #Trading Economics #Economy #Colombia #GDP Annual Growth Rate #Importance 1
+
+Colombia Economic Growth Picks Up in Q2 — Colombia’s economy expanded 3.5% year-on-year in Q2 2026, accelerating from 2.2% growth in the previous quarter. Growth was supported by public spending, although its pace eased to 12.2% from 13.2%, while household consumption strengthened to 2.8% from 2.7%. Activity also accelerated in public administration, health and defense (10% vs 5.6%), entertainment (9.5% vs 3.2%), financial services (4.3% vs 2.8%) and utilities (4.8% vs 2.6%). However, risks to the outlook include the recent earthquake, the strongest in half a century, and dry weather associated with the El Niño phenomenon. On a seasonally adjusted quarterly basis, the economy expanded 1.3%, accelerating sharply from a 0.6% increase in the prior quarter.
 
 ---
 
@@ -20314,167 +20386,5 @@ Sources said Russia's Black Sea port of Novorossiysk, which halted crude loading
 ### 2026-08-17 18:54:35  #公司
 
 【天力鋰能：控股子公司部分銀行賬戶已解除凍結】天力鋰能公告稱，公司控股子公司河南千川動力有限公司、雅安天藍新材料科技有限公司銀行賬戶及相關資金的凍結措施已解除。其中千川動力因合同糾紛被凍結的6.42萬元存款已解除凍結，雅安天藍相關合同糾紛案件已執行完畢，對應賬戶保全措施已解除。截至公告披露日，控股子公司不存在其他訴訟事項導致的資金被凍結情況，公司資金正常劃轉和使用得以恢復，可保障日常經營活動順利開展。
-
----
-
-### 2026-08-17 18:54:30  #公司
-
-【天力鋰能：實控人王瑞慶120萬股股份被司法凍結】天力鋰能公告稱，公司控股股東、實控人之一王瑞慶持有的120萬股首發限售股，於2026年8月11日被安徽省寧國市人民法院司法凍結，佔公司總股本1.01%，凍結原因系相關質押合同糾紛。本次凍結後，公司共同實控人王瑞慶、李雯、李軒累計被凍結股份1003.23萬股，佔其所持股份比例21.40%，佔公司總股本比例8.45%。目前該事項未對公司控股權、日常經營產生重大不利影響，不存在控制權變更風險。
-
----
-
-### 2026-08-17 18:53:26  #市場
-
-阿斯特拉實驗室(Astera Labs)股價盤前上漲5.1%，此前Northland Capital將其評級上調至"跑贏大盤"。
-
----
-
-### 2026-08-17 18:51:50  #國際
-
-【第四屆俄羅斯-中國互利合作“萌芽”論壇開幕】第四屆俄羅斯-中國互利合作“萌芽”論壇開幕式17日在俄羅斯韃靼斯坦共和國首府喀山舉行。中國駐俄羅斯大使張漢暉在開幕式上致辭表示，近年來，中俄經貿合作持續健康發展。2026年1至7月雙邊貿易額達1592億美元，同比增長26.3%，全年有望再創歷史新高。張漢暉說，“萌芽”論壇已成為促進兩國經貿合作的重要平臺，為深化中俄經貿關係和地方間合作發揮了積極作用。雙方要用好論壇平臺，充分對接需求，深化交流合作，取得更多成果，推動雙邊經貿合作提質升級。（新華社）
-
----
-
-### 2026-08-17 18:51:25  #公司
-
-【燦勤科技：2026年上半年淨利潤5622.78萬元，同比增8.31%】燦勤科技公告，2026年上半年營業收入5.99億元，同比增108.63%；歸屬於上市公司股東的淨利潤5622.78萬元，同比增8.31%；歸屬於上市公司股東的扣除非經常性損益的淨利潤6461.97萬元，同比增52.77%。上年同期淨利潤5191.19萬元。本報告期利潤分配預案不適用。
-
----
-
-### 2026-08-17 18:50:58  #公司
-
-【振石股份：四個募投專案延期至2027年9月】振石股份公告稱，公司於2026年8月17日召開第二屆董事會第二次會議，審議透過募投專案延期議案，在不改變募投專案投資內容、投資規模、實施主體的前提下，將玻璃纖維製品生產基地建設專案、複合材料生產基地建設專案、研發中心及資訊化建設專案、西班牙生產建設專案的預定可使用狀態日期，從2026年9月調整至2027年9月。截至2026年6月30日，公司上述募投專案累計投入合計16.86億元，整體投資進度符合當前建設階段特徵。本次延期未改變募集資金用途，不存在影響募集資金使用計劃正常推進的情形。
-
----
-
-### 2026-08-17 18:50:50  #公司
-
-【振石股份：2026年上半年營收3.82億元 淨利同比增15.07%】振石股份公告稱，2026年上半年公司實現營業收入38.23億元，同比增長16.74%；歸屬於上市公司股東的淨利潤4.65億元，同比增長15.07%。報告期內經營活動產生的現金流量淨額4.94億元，同比增長365.24%。截至報告期末公司總資產126.67億元，歸屬於上市公司股東的淨資產65.60億元，本期無利潤分配預案或公積金轉增股本安排。
-
----
-
-### 2026-08-17 18:50:39  #MKT News #Copper #Impact bullish
-
-【Indian startup: C&I clean-energy demand seen rising at least 15% p.a. over next decade】Corrit Energy & Infra CEO Misra said India's commercial and industrial (C&I) clean-energy demand is expected to grow at least 15% p.a. over the next decade as firms seek lower energy costs and emissions. Corrit, which builds solar plants for corporates, is positioning to capture rising industrial decarbonization demand. A May report by the Energy, Environment and Water Resources Committee found renewables currently supply only about 25% of industry electricity demand, well below the level needed to meet decarbonization pledges. Misra said companies now regard solar as core infrastructure rather than something that needs defending.
-
----
-
-### 2026-08-17 18:50:35  #MKT News #SNAP.N #Impact bearish
-
-Snap (SNAP.N) pre-market decline widened to 15%.
-
----
-
-### 2026-08-17 18:50:32  #公司
-
-【復旦微電：擬1750萬元出資設立卓垣弘芯 構成關聯交易】復旦微電公告稱，公司擬與卓垣瑞芯、卓垣昱芯、周軍、王延政共同出資設立卓垣弘芯，標的公司總投資7000萬元。復旦微電以經評估無形資產作價1750萬元出資，持股比例25.00%；其餘各方以現金出資。本次交易涉及公司部分董事、高管參與投資，構成關聯交易，不構成重大資產重組，無需提交股東會審議。
-
----
-
-### 2026-08-17 18:50:26  #公司
-
-【復旦微電：2026年上半年營收22.25億元 同比增21.03%】復旦微電公告稱，2026年上半年公司實現營業收入22.25億元，同比增長21.03%；歸母淨利潤8.49億元，同比增長338.58%；扣非歸母淨利潤4.12億元，同比增長125.88%。當期研發投入5.89億元，佔營收比例26.45%，新增境內外發明專利8項、實用新型專利7項、計算機軟體著作權10項、積體電路布圖設計登記證書19項。2026年7月公司完成2025年度利潤分配，每10股派發現金紅利0.58元（含稅），合計分紅4777.57萬元。
-
----
-
-### 2026-08-17 18:50:10  #其他
-
-證監會：准予博時山東鐵投路橋封閉式基礎設施證券投資基金註冊。基金型別為契約型封閉式，基金合同期限為18年。
-
----
-
-### 2026-08-17 18:49:42  #市場
-
-SNAP股價盤前跌幅擴大，觸及盤中低點15%。
-
----
-
-### 2026-08-17 18:48:57  #焦點 #國際
-
-【習近平就印度尼西亞發生強烈地震向印尼總統普拉博沃致慰問電】習近平就印度尼西亞發生強烈地震向印尼總統普拉博沃致慰問電。（央視新聞）
-
----
-
-### 2026-08-17 18:48:00  #MKT News #Market Regions #Greater China
-
-CSRC approved registration of Bosera's Shandong Tietou Road & Bridge contractual closed-end infrastructure securities investment fund; the fund contract term is 18 years.
-
----
-
-### 2026-08-17 18:45:39  #公司
-
-【中鼎股份：完成第十屆董事會董監高相關聘任】中鼎股份公告稱，公司第十屆董事會第一次會議於2026年8月17日召開，審議透過多項議案：選舉夏迎松為公司第十屆董事會董事長，同時聘任其擔任公司總經理；聘任易善兵、何仕生、馬小鵬、唐之勝、周密、蔣偉堅為公司副總經理，其中易善兵兼任財務總監，蔣偉堅兼任董事會秘書；聘任汪松源為公司證券事務代表。會議同時選舉產生董事會各專門委員會成員及對應主任委員，上述人員任期均自本次董事會審議透過之日起至第十屆董事會任期屆滿之日止。
-
----
-
-### 2026-08-17 18:45:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemeni government forces say Houthi forces again attacked Mokha port with two ballistic missiles.
-
----
-
-### 2026-08-17 18:45:25  #公司 #市場 #國際
-
-【橋水二季度持倉增至244億美元，大幅加倉標普500ETF、減持亞馬遜等科技股】8月17日訊息，據美國證券交易委員會（SEC）披露，橋水基金二季度末持有美股及相關資產的13F持倉市值約244億美元，較一季度的224億美元增長約8.9%。從持倉結構看，SPDR標普500 ETF、iShares核心標普500 ETF、英偉達、博通和亞馬遜位列前五大重倉股，持倉佔比分別為16.30%、9.22%、3.17%、2.04%和1.98%，前兩隻標普500 ETF合計佔比超過25%。二季度橋水大幅增持SPDR標普500 ETF和iShares核心標普500 ETF，同時增持先鋒標普500 ETF、PG&E和殼牌。減持方面，橋水大幅降低亞馬遜、美光科技、臺積電、GE Vernova和微軟倉位。
-
----
-
-### 2026-08-17 18:44:43  #MKT News #02517.HK #Impact bullish
-
-【Guoquan: 1H 2026 revenue 3.947 bln yuan, +21.8% YoY】Guoquan (02517.HK) reported 1H 2026 revenue of 3.947 bln yuan, up 21.8% YoY, and core operating profit of 225 mln yuan, up 18.3% YoY. Store count was 12,198 at end-June, +1,798 YoY.
-
----
-
-### 2026-08-17 18:44:20  #MKT News
-
-Israel's prime minister Netanyahu met with U.S. special envoys Kushner, Mladenov and Blair.
-
----
-
-### 2026-08-17 18:43:45  #國際
-
-以色列總理發言人：內塔尼亞胡會見庫什納、姆拉德諾夫、布萊爾。
-
----
-
-### 2026-08-17 18:43:28  #MKT News #XOM.N #Impact bearish
-
-Barclays cut Exxon Mobil (XOM.N) PT to $177 from $182.
-
----
-
-### 2026-08-17 18:43:22  #國際
-
-【伊朗稱正與阿曼敲定霍爾木茲海峽諒解協議】據伊朗伊斯蘭共和國通訊社報道，伊朗外交部發言人巴加埃17日表示，伊朗和阿曼正在敲定關於霍爾木茲海峽的諒解協議。（新華社）
-
----
-
-### 2026-08-17 18:42:30  #公司
-
-【開創電氣：簽署機器人產業基金與專案落地合作框架協議】開創電氣公告稱，2026年8月17日，公司與婺城區人民政府指定區屬國企、多家機構及兩名自然人共同簽署八方合作框架協議，擬共同發起設立總規模1.00億元的機器人產業投資基金，公司出資1500萬元。各方還計劃合作落地具身智慧關節模組製造產業專案，專案投產後第一年意向產值不低於0.5億元，第二年意向產值不低於1億元。本次協議為意向性框架約定，後續正式協議簽署、基金備案及專案落地均存在不確定性。
-
----
-
-### 2026-08-17 18:42:19  #MKT News
-
-Velayati, an adviser to Iran's supreme leader, said the American public is now paying the price for their leaders' adventures in West Asia.
-
----
-
-### 2026-08-17 18:41:47  #國際
-
-Flamingo與Nazca收購Herbex的交易獲歐盟批准。
-
----
-
-### 2026-08-17 18:41:30  #公司
-
-【國晟科技：下屬公司合計5775萬元債務逾期】國晟科技公告稱，截至公告披露日，公司下屬公司逾期債務本金合計5775萬元，佔公司最近一期經審計淨資產的18.58%。上述逾期債務涉及6筆，到期日期分佈在2026年6月15日至2026年8月12日區間。公司及下屬公司可能因此承擔違約金、滯納金和罰息等費用，若逾期問題未妥善解決，還可能面臨訴訟、仲裁、被要求履行連帶擔保責任等風險。目前公司及下屬公司正與債權機構溝通，透過續貸、展期、調整還款計劃等方式化解債務，同時透過加強成本控制、加大應收賬款催收力度籌措償債資金。
-
----
-
-### 2026-08-17 18:40:17  #公司 #國際
-
-【日本第22輪核汙染水排海總量近8000噸】日本東京電力公司17日表示，福島第一核電站第22輪核汙染水排海結束，共排放核汙染水近8000噸。根據東京電力公司的新聞公報，本輪排放於7月30日開始，當地時間8月17日下午結束，總計排放核汙染水7888噸，含放射性氚總量約1.3萬億貝克勒爾。這是日本2026財年第4輪核汙染水排海。2023年8月，日方無視國際社會的強烈質疑和反對，單方面強行啟動福島第一核電站核汙染水排海。截至目前共進行了22輪核汙染水排放，累計排放量約17.3萬噸。（新華社）
 
 ---

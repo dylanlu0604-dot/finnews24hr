@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:55:14_
-_本檔包含 2990 則快訊，約 656892 字_
+_更新時間：2026-08-22 05:35:23_
+_本檔包含 2985 則快訊，約 656113 字_
+
+---
+
+### 2026-08-17 18:54:30  #公司
+
+【天力鋰能：實控人王瑞慶120萬股股份被司法凍結】天力鋰能公告稱，公司控股股東、實控人之一王瑞慶持有的120萬股首發限售股，於2026年8月11日被安徽省寧國市人民法院司法凍結，佔公司總股本1.01%，凍結原因系相關質押合同糾紛。本次凍結後，公司共同實控人王瑞慶、李雯、李軒累計被凍結股份1003.23萬股，佔其所持股份比例21.40%，佔公司總股本比例8.45%。目前該事項未對公司控股權、日常經營產生重大不利影響，不存在控制權變更風險。
+
+---
+
+### 2026-08-17 18:53:26  #市場
+
+阿斯特拉實驗室(Astera Labs)股價盤前上漲5.1%，此前Northland Capital將其評級上調至"跑贏大盤"。
+
+---
+
+### 2026-08-17 18:51:50  #國際
+
+【第四屆俄羅斯-中國互利合作“萌芽”論壇開幕】第四屆俄羅斯-中國互利合作“萌芽”論壇開幕式17日在俄羅斯韃靼斯坦共和國首府喀山舉行。中國駐俄羅斯大使張漢暉在開幕式上致辭表示，近年來，中俄經貿合作持續健康發展。2026年1至7月雙邊貿易額達1592億美元，同比增長26.3%，全年有望再創歷史新高。張漢暉說，“萌芽”論壇已成為促進兩國經貿合作的重要平臺，為深化中俄經貿關係和地方間合作發揮了積極作用。雙方要用好論壇平臺，充分對接需求，深化交流合作，取得更多成果，推動雙邊經貿合作提質升級。（新華社）
+
+---
+
+### 2026-08-17 18:51:25  #公司
+
+【燦勤科技：2026年上半年淨利潤5622.78萬元，同比增8.31%】燦勤科技公告，2026年上半年營業收入5.99億元，同比增108.63%；歸屬於上市公司股東的淨利潤5622.78萬元，同比增8.31%；歸屬於上市公司股東的扣除非經常性損益的淨利潤6461.97萬元，同比增52.77%。上年同期淨利潤5191.19萬元。本報告期利潤分配預案不適用。
+
+---
+
+### 2026-08-17 18:50:58  #公司
+
+【振石股份：四個募投專案延期至2027年9月】振石股份公告稱，公司於2026年8月17日召開第二屆董事會第二次會議，審議透過募投專案延期議案，在不改變募投專案投資內容、投資規模、實施主體的前提下，將玻璃纖維製品生產基地建設專案、複合材料生產基地建設專案、研發中心及資訊化建設專案、西班牙生產建設專案的預定可使用狀態日期，從2026年9月調整至2027年9月。截至2026年6月30日，公司上述募投專案累計投入合計16.86億元，整體投資進度符合當前建設階段特徵。本次延期未改變募集資金用途，不存在影響募集資金使用計劃正常推進的情形。
+
+---
+
+### 2026-08-17 18:50:50  #公司
+
+【振石股份：2026年上半年營收3.82億元 淨利同比增15.07%】振石股份公告稱，2026年上半年公司實現營業收入38.23億元，同比增長16.74%；歸屬於上市公司股東的淨利潤4.65億元，同比增長15.07%。報告期內經營活動產生的現金流量淨額4.94億元，同比增長365.24%。截至報告期末公司總資產126.67億元，歸屬於上市公司股東的淨資產65.60億元，本期無利潤分配預案或公積金轉增股本安排。
+
+---
+
+### 2026-08-17 18:50:39  #MKT News #Copper #Impact bullish
+
+【Indian startup: C&I clean-energy demand seen rising at least 15% p.a. over next decade】Corrit Energy & Infra CEO Misra said India's commercial and industrial (C&I) clean-energy demand is expected to grow at least 15% p.a. over the next decade as firms seek lower energy costs and emissions. Corrit, which builds solar plants for corporates, is positioning to capture rising industrial decarbonization demand. A May report by the Energy, Environment and Water Resources Committee found renewables currently supply only about 25% of industry electricity demand, well below the level needed to meet decarbonization pledges. Misra said companies now regard solar as core infrastructure rather than something that needs defending.
+
+---
+
+### 2026-08-17 18:50:35  #MKT News #SNAP.N #Impact bearish
+
+Snap (SNAP.N) pre-market decline widened to 15%.
+
+---
+
+### 2026-08-17 18:50:32  #公司
+
+【復旦微電：擬1750萬元出資設立卓垣弘芯 構成關聯交易】復旦微電公告稱，公司擬與卓垣瑞芯、卓垣昱芯、周軍、王延政共同出資設立卓垣弘芯，標的公司總投資7000萬元。復旦微電以經評估無形資產作價1750萬元出資，持股比例25.00%；其餘各方以現金出資。本次交易涉及公司部分董事、高管參與投資，構成關聯交易，不構成重大資產重組，無需提交股東會審議。
+
+---
+
+### 2026-08-17 18:50:26  #公司
+
+【復旦微電：2026年上半年營收22.25億元 同比增21.03%】復旦微電公告稱，2026年上半年公司實現營業收入22.25億元，同比增長21.03%；歸母淨利潤8.49億元，同比增長338.58%；扣非歸母淨利潤4.12億元，同比增長125.88%。當期研發投入5.89億元，佔營收比例26.45%，新增境內外發明專利8項、實用新型專利7項、計算機軟體著作權10項、積體電路布圖設計登記證書19項。2026年7月公司完成2025年度利潤分配，每10股派發現金紅利0.58元（含稅），合計分紅4777.57萬元。
+
+---
+
+### 2026-08-17 18:50:10  #其他
+
+證監會：准予博時山東鐵投路橋封閉式基礎設施證券投資基金註冊。基金型別為契約型封閉式，基金合同期限為18年。
+
+---
+
+### 2026-08-17 18:49:42  #市場
+
+SNAP股價盤前跌幅擴大，觸及盤中低點15%。
+
+---
+
+### 2026-08-17 18:48:57  #焦點 #國際
+
+【習近平就印度尼西亞發生強烈地震向印尼總統普拉博沃致慰問電】習近平就印度尼西亞發生強烈地震向印尼總統普拉博沃致慰問電。（央視新聞）
+
+---
+
+### 2026-08-17 18:48:00  #MKT News #Market Regions #Greater China
+
+CSRC approved registration of Bosera's Shandong Tietou Road & Bridge contractual closed-end infrastructure securities investment fund; the fund contract term is 18 years.
+
+---
+
+### 2026-08-17 18:45:39  #公司
+
+【中鼎股份：完成第十屆董事會董監高相關聘任】中鼎股份公告稱，公司第十屆董事會第一次會議於2026年8月17日召開，審議透過多項議案：選舉夏迎松為公司第十屆董事會董事長，同時聘任其擔任公司總經理；聘任易善兵、何仕生、馬小鵬、唐之勝、周密、蔣偉堅為公司副總經理，其中易善兵兼任財務總監，蔣偉堅兼任董事會秘書；聘任汪松源為公司證券事務代表。會議同時選舉產生董事會各專門委員會成員及對應主任委員，上述人員任期均自本次董事會審議透過之日起至第十屆董事會任期屆滿之日止。
+
+---
+
+### 2026-08-17 18:45:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemeni government forces say Houthi forces again attacked Mokha port with two ballistic missiles.
+
+---
+
+### 2026-08-17 18:45:25  #公司 #市場 #國際
+
+【橋水二季度持倉增至244億美元，大幅加倉標普500ETF、減持亞馬遜等科技股】8月17日訊息，據美國證券交易委員會（SEC）披露，橋水基金二季度末持有美股及相關資產的13F持倉市值約244億美元，較一季度的224億美元增長約8.9%。從持倉結構看，SPDR標普500 ETF、iShares核心標普500 ETF、英偉達、博通和亞馬遜位列前五大重倉股，持倉佔比分別為16.30%、9.22%、3.17%、2.04%和1.98%，前兩隻標普500 ETF合計佔比超過25%。二季度橋水大幅增持SPDR標普500 ETF和iShares核心標普500 ETF，同時增持先鋒標普500 ETF、PG&E和殼牌。減持方面，橋水大幅降低亞馬遜、美光科技、臺積電、GE Vernova和微軟倉位。
+
+---
+
+### 2026-08-17 18:44:43  #MKT News #02517.HK #Impact bullish
+
+【Guoquan: 1H 2026 revenue 3.947 bln yuan, +21.8% YoY】Guoquan (02517.HK) reported 1H 2026 revenue of 3.947 bln yuan, up 21.8% YoY, and core operating profit of 225 mln yuan, up 18.3% YoY. Store count was 12,198 at end-June, +1,798 YoY.
+
+---
+
+### 2026-08-17 18:44:20  #MKT News
+
+Israel's prime minister Netanyahu met with U.S. special envoys Kushner, Mladenov and Blair.
+
+---
+
+### 2026-08-17 18:43:45  #國際
+
+以色列總理發言人：內塔尼亞胡會見庫什納、姆拉德諾夫、布萊爾。
+
+---
+
+### 2026-08-17 18:43:28  #MKT News #XOM.N #Impact bearish
+
+Barclays cut Exxon Mobil (XOM.N) PT to $177 from $182.
+
+---
+
+### 2026-08-17 18:43:22  #國際
+
+【伊朗稱正與阿曼敲定霍爾木茲海峽諒解協議】據伊朗伊斯蘭共和國通訊社報道，伊朗外交部發言人巴加埃17日表示，伊朗和阿曼正在敲定關於霍爾木茲海峽的諒解協議。（新華社）
+
+---
+
+### 2026-08-17 18:42:30  #公司
+
+【開創電氣：簽署機器人產業基金與專案落地合作框架協議】開創電氣公告稱，2026年8月17日，公司與婺城區人民政府指定區屬國企、多家機構及兩名自然人共同簽署八方合作框架協議，擬共同發起設立總規模1.00億元的機器人產業投資基金，公司出資1500萬元。各方還計劃合作落地具身智慧關節模組製造產業專案，專案投產後第一年意向產值不低於0.5億元，第二年意向產值不低於1億元。本次協議為意向性框架約定，後續正式協議簽署、基金備案及專案落地均存在不確定性。
+
+---
+
+### 2026-08-17 18:42:19  #MKT News
+
+Velayati, an adviser to Iran's supreme leader, said the American public is now paying the price for their leaders' adventures in West Asia.
+
+---
+
+### 2026-08-17 18:41:47  #國際
+
+Flamingo與Nazca收購Herbex的交易獲歐盟批准。
+
+---
+
+### 2026-08-17 18:41:30  #公司
+
+【國晟科技：下屬公司合計5775萬元債務逾期】國晟科技公告稱，截至公告披露日，公司下屬公司逾期債務本金合計5775萬元，佔公司最近一期經審計淨資產的18.58%。上述逾期債務涉及6筆，到期日期分佈在2026年6月15日至2026年8月12日區間。公司及下屬公司可能因此承擔違約金、滯納金和罰息等費用，若逾期問題未妥善解決，還可能面臨訴訟、仲裁、被要求履行連帶擔保責任等風險。目前公司及下屬公司正與債權機構溝通，透過續貸、展期、調整還款計劃等方式化解債務，同時透過加強成本控制、加大應收賬款催收力度籌措償債資金。
+
+---
+
+### 2026-08-17 18:40:17  #公司 #國際
+
+【日本第22輪核汙染水排海總量近8000噸】日本東京電力公司17日表示，福島第一核電站第22輪核汙染水排海結束，共排放核汙染水近8000噸。根據東京電力公司的新聞公報，本輪排放於7月30日開始，當地時間8月17日下午結束，總計排放核汙染水7888噸，含放射性氚總量約1.3萬億貝克勒爾。這是日本2026財年第4輪核汙染水排海。2023年8月，日方無視國際社會的強烈質疑和反對，單方面強行啟動福島第一核電站核汙染水排海。截至目前共進行了22輪核汙染水排放，累計排放量約17.3萬噸。（新華社）
 
 ---
 
@@ -17874,197 +18036,5 @@ ADNOC said one of its vessels was attacked while transiting the Strait of Hormuz
 ### 2026-08-15 05:36:08  #Trading Economics #Markets #Brazil #Currency #Importance 1
 
 Brazilian Real Weakens to One-Month Low — The Brazilian real weakened to 5.21 per USD, reaching its weakest level in more than a month in mid-August as investors continued to reduce their exposure to Brazilian assets. The market is pricing in uncertainty over the next government and its economic agenda. The perception that the next government will struggle to implement a consistent fiscal adjustment is beginning to translate into a higher risk premium in asset prices. Concerns are increasing as elections approach and foreign capital outflows accelerate. Banks and brokerages have also reduced their exposure to the real, unwinding currency positions in favor of other emerging-market currencies. The move intensified following a more pessimistic view of the local market from JPMorgan. The bank downgraded its recommendation on Brazilian assets from overweight to neutral, citing the Selic easing cycle, the electoral outlook and deteriorating credit conditions.
-
----
-
-### 2026-08-15 05:32:56  #公司
-
-【Anthropic二季度營收超115億美元 較去年同期增長至少14倍】據報道，Anthropic第二季度初步營收超過115億美元，較上年同期的7.87億美元增長了至少14倍，也高於今年第一季度的47.3億美元，公司當季已實現調整後營業利潤為正。Anthropic曾一度在AI競賽中處於追趕位置，但得益於越來越多專業人士使用其軟體來簡化程式設計等工作流程，公司業務增長明顯提速。今年5月，Anthropic的年化營收已突破470億美元。作為對比，OpenAI此前披露的年化營收超過400億美元，但兩者的計算口徑可能不完全一致。人工智慧賽道競爭升溫，今年迄今IPO融資已達2564億美元，創2021年來新高（不含SPAC等金融工具）。
-
----
-
-### 2026-08-15 05:32:01  #MKT News
-
-Sources: Canada’s trade minister told an advisory committee that Canada and the US are "quite far" from reaching an agreement.
-
----
-
-### 2026-08-15 05:31:22  #MKT News #Market Themes #AI Revolution
-
-【Anthropic Q2 revenue tops $11.5bn; adjusted operating profit positive】Preliminary figures show Anthropic's Q2 revenue exceeded $11.5bn, up at least 14x YoY from $787m and ahead of Q1's $4.73bn; adjusted operating profit was positive in the quarter. Annualized revenue surpassed $47bn as of May. OpenAI's disclosed annualized revenue exceeds $40bn, though reporting bases may differ. AI-sector IPO proceeds YTD reached $256.4bn, the largest since 2021 excluding SPACs.
-
----
-
-### 2026-08-15 05:28:10  #國際
-
-一位直接瞭解相關言論的訊息人士稱，負責美加雙邊貿易的加拿大部長告知諮詢委員會，加拿大與美國距離達成協議仍相當遙遠。
-
----
-
-### 2026-08-15 05:27:50  #市場 #國際
-
-週五（8月7日）紐約尾盤，美國10年期基準國債收益率上行5.14個基點，報4.690%，北京時間20:30釋出美國7月零售銷售資料時從日低點4.628%快速拉昇上行。兩年期美債收益率升2.88個基點，報4.169%，本週累跌2.40個基點。20年期美債收益率上行5.22個基點，本週累漲5.10個基點，報5.257%；30年期美債收益率累漲5.96個基點，報5.259%。
-
----
-
-### 2026-08-15 05:26:48  #公司
-
-巴西國家石油公司(Petrobras)：截至目前已從政府燃料補貼計劃中獲得69億雷亞爾。
-
----
-
-### 2026-08-15 05:24:25  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
-
-Brazil 10-Year Yield Nears One-Month High — Brazil’s 10-year government bond yield rose to 14.9% in mid-August, nearing a one-month high following a rise in US Treasury yields. US Treasury yields increased amid elevated inflation expectations. Worsening risk perception as Brazil’s October presidential election approaches also contributed to the rise, with markets pricing in uncertainty surrounding the next government and its economic agenda. Concerns that the next government could face difficulties implementing a consistent fiscal adjustment are beginning to translate into a higher risk premium in asset prices. Fiscal concerns persist amid signals of higher government spending and pressure on revenues from new US tariffs. Meanwhile, the Copom signaled a cautious approach to further interest rate cuts. Brazil also created a net 145,161 formal jobs in June, well above expectations for 115,000, reinforcing labor market resilience and supporting expectations that interest rates will remain restrictive.
-
----
-
-### 2026-08-15 05:22:35  #公司 #國際
-
-據美國證券交易委員會檔案顯示， THIRD POINT LLC將其持有的亞馬遜公司股份減持9.8%，減持後持股數為180萬股。
-
----
-
-### 2026-08-15 05:20:27  #公司 #國際
-
-根據美國證券交易委員會檔案：Third Point LLC已出售其持有的全部英偉達股份。
-
----
-
-### 2026-08-15 05:18:20  #其他
-
-市場訊息：簡街資本7月錄得約150億美元虧損。
-
----
-
-### 2026-08-15 05:15:08  #MKT News #Important #Market Themes #AI Revolution
-
-Preliminary Q2 2026 revenue at ANTHROPIC exceeded $11.5 billion; company reported positive adjusted operating profit.
-
----
-
-### 2026-08-15 05:13:47  #國際
-
-【特朗普：擊敗伊朗後會宣佈霍爾木茲海峽為美國領土】美國總統特朗普14日聲稱，“擊敗伊朗後”他很快就會“宣佈霍爾木茲海峽為美國領土”。特朗普當天在紐約州長島舉行的活動上發表講話時說，伊朗正遭受慘敗，“在我們徹底擊敗伊朗後，很快我就會宣佈霍爾木茲海峽為美國領土”。他說出這句話時輕笑了一下，並補充道：“這是真的。”特朗普還稱，與阻止伊朗獲得核武器相比，高油價只是一個小問題，並稱他“永遠不會道歉。我做了正確的事”。特朗普12日在社交媒體發文稱，“美國完全控制著霍爾木茲海峽……伊朗對此束手無策”。而據伊朗伊斯蘭共和國通訊社13日報道，伊朗武裝部隊哈塔姆安比亞中央總部發言人在一份宣告中表示，霍爾木茲海峽處於伊朗“完全掌控”中，未經伊朗許可，任何船隻都無法安全透過。（新華社）
-
----
-
-### 2026-08-15 05:09:43  #MKT News #Important
-
-According to the Iranian Students' News Agency (ISNA), Iranian foreign minister Araghchi said Iran has not decided whether to resume talks with the United States. Qatar and Pakistan, acting as coordinators, are exchanging information with Iran, but that does not mean the US and Iran have entered negotiations.
-
----
-
-### 2026-08-15 05:08:18  #公司 #焦點
-
-ANTHROPICO公司在IPO前夕，初步預測2026年第二季度營收將超過115億美元。
-
----
-
-### 2026-08-15 05:07:23  #國際
-
-伊朗外長阿拉格齊稱，調解方卡達和巴基斯坦正與伊朗交換資訊，但這並不意味著進行談判。
-
----
-
-### 2026-08-15 05:05:57  #其他
-
-惠譽：預計英國政府總體赤字將持續收窄，2028年降至GDP的4.2%。英國政府總體債務佔GDP比重到2028年底將升至106%。
-
----
-
-### 2026-08-15 05:05:51  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-FITCH says the UK prime minister's position within Labour has strengthened and approval ratings have risen, which will help maintain political stability for the remainder of the parliamentary term.
-
----
-
-### 2026-08-15 05:05:33  #MKT News #GBPUSD #Impact bearish #DXY #Impact bullish #FTSE100
-
-Fitch projects the UK general government debt-to-GDP ratio will rise to 106% by end-2028.
-
----
-
-### 2026-08-15 05:05:23  #其他
-
-惠譽：英國首相在工黨內部地位“更具主導性”，更高的支援率將有助於本屆議會剩餘任期內實現更大的政治穩定。
-
----
-
-### 2026-08-15 05:05:12  #其他
-
-市場訊息：查理・厄根同意取得 MobileX 控股權。
-
----
-
-### 2026-08-15 05:04:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-Fitch expects the UK's current-account deficit to widen modestly this year due to higher energy imports.
-
----
-
-### 2026-08-15 05:04:00  #MKT News
-
-Fitch expects the UK general government deficit to continue narrowing, falling to 4.2% of GDP by 2028.
-
----
-
-### 2026-08-15 05:03:54  #其他
-
-惠譽確認英國評級為“AA-”，展望穩定。
-
----
-
-### 2026-08-15 05:03:52  #其他
-
-惠譽就英國發表看法：預計今年因能源進口增加，經常專案赤字將溫和擴大。
-
----
-
-### 2026-08-15 05:03:25  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-Fitch affirms the United Kingdom's sovereign rating at AA-; outlook stable.
-
----
-
-### 2026-08-15 05:03:14  #其他
-
-Quaest 民調：大選第二輪模擬投票，盧拉支援率 43%，弗拉維奧・博索納羅 40%。
-
----
-
-### 2026-08-15 05:02:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran deputy foreign minister said Tehran will not be intimidated by US threats or displays of force, responding to Trump’s remark that he would declare the Strait of Hormuz US territory.
-
----
-
-### 2026-08-15 05:01:31  #國際
-
-伊朗副外長就特朗普宣稱將把霍爾木茲海峽宣佈為美國領土一事作出表態 ：伊朗不會被美國的威脅或武力炫耀所嚇倒。
-
----
-
-### 2026-08-15 05:00:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Deputy Foreign Minister Karibabadi said the opening or closure of the Strait of Hormuz can only be decided by Iran.
-
----
-
-### 2026-08-15 05:00:11  #市場
-
-布倫特原油日內漲2%，現報88.89美元/桶。
-
----
-
-### 2026-08-15 04:59:36  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
-
-Soros Fund Management disclosed it increased its Apple (AAPL.O) holding by 29,004 shares to 529,538 shares.
-
----
-
-### 2026-08-15 04:58:18  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
-
-Canadian Yields Rise on Strong Macroeconomic Data — Canada’s 10-year government bond yield rose to 3.68%, approaching the over-two-month high of 3.72% touched on August 10th, following stronger-than-expected manufacturing sales data. Canadian factory sales rose 0.1% in June from May, beating expectations for a decline and marking a fifth consecutive monthly gain, while sales volumes increased 1.2%. Recent data also showed a stronger Canadian labor market, while Canada’s economy is estimated to have expanded at an annualized 3.4% in the second quarter, well above the Bank of Canada’s 2.5% forecast. The strong macroeconomic data raised expectations for a potential BoC rate hike if energy prices remain elevated. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery.
 
 ---

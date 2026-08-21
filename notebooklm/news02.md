@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 04:55:14_
-_本檔包含 3424 則快訊，約 657148 字_
+_更新時間：2026-08-22 05:35:23_
+_本檔包含 3431 則快訊，約 656603 字_
+
+---
+
+### 2026-08-21 03:36:41  #市場
+
+【國際油價20日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.00美元，收於每桶87.83美元，漲幅為2.33%；10月交貨的倫敦布倫特原油期貨價格上漲2.16美元，收於每桶93.78美元，漲幅為2.36%。
+
+---
+
+### 2026-08-21 03:36:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【International oil prices rose on the 20th】NYMEX September light crude futures settled up $2.00 at $87.83 a barrel, +2.33%. ICE Brent October futures settled up $2.16 at $93.78 a barrel, +2.36%.
+
+---
+
+### 2026-08-21 03:29:26  #MKT News
+
+Canada's minister for Canada-U.S. trade, LeBlanc, said they will remain in Washington until deal details are finalised.
+
+---
+
+### 2026-08-21 03:28:32  #國際
+
+加拿大美加貿易事務部長勒布朗：加拿大與美國已非常接近達成協議，我們仍在持續取得進展。在敲定協議具體細節之前，我們將繼續在此談判。
+
+---
+
+### 2026-08-21 03:28:00  #MKT News #DXY #Impact bearish #WTI #Impact bullish
+
+Canada's minister for Canada-U.S. trade, LeBlanc, said Canada and the United States are very close to reaching an agreement and are continuing to make progress.
+
+---
+
+### 2026-08-21 03:27:34  #MKT News
+
+Canada-U.S. trade minister Leblanc said Canada and the United States are continuing negotiations on a possible agreement.
+
+---
+
+### 2026-08-21 03:27:16  #其他
+
+加拿大美加貿易事務部長勒布朗：加美兩國仍在就潛在協議持續開展談判。
+
+---
+
+### 2026-08-21 03:23:16  #MKT News #Macro & Rates #US Economy
+
+ICI: US money market fund assets rose to $7.93 trillion.
+
+---
+
+### 2026-08-21 03:23:05  #MKT News
+
+【Oil and data centers vie for power in West Texas; Permian faces outage risk】Surging power demand from oil and gas producers in West Texas, alongside tech firms building data centers in the Permian, is sharply increasing local electricity needs. Diamondback, one of the Permian’s largest oil producers, says its power consumption could double over the next decade even if output stays flat. A Citigroup analyst warned Thursday the region could face blackouts as soon as next summer. Executives from the Texas grid operator and state utility regulators testified this week to the Texas House State Affairs Committee on the need to add transmission lines.
+
+---
+
+### 2026-08-21 03:21:10  #公司 #國際
+
+美國投資公司協會（ICI）資料：美國貨幣市場基金規模升至 7.93 萬億美元。
+
+---
+
+### 2026-08-21 03:20:42  #市場 #觀點
+
+花旗調查：預計 2026 年末墨西哥比索兌美元匯率為1美元兌17.68比索，預計 2027 年末為1美元兌18.24比索。
+
+---
+
+### 2026-08-21 03:17:36  #資料 #觀點
+
+花旗調查：墨西哥 2026 年消費者物價指數（CPI）預期為 4.00%，此前預期 4.02%。
+
+---
+
+### 2026-08-21 03:16:03  #其他
+
+市場訊息：兩名幣安員工在阿聯酋遭警方調查期間被拘留。
+
+---
+
+### 2026-08-21 03:15:40  #國際
+
+市場訊息：“亞伯拉罕・林肯” 號航母於週四啟程返回聖地亞哥母港，結束為期九個月的部署任務，該部署大部分時間用於支援美國針對伊朗的軍事行動。駐日部署的 “喬治・華盛頓” 號航母已接替林肯號進駐中東。
 
 ---
 
@@ -20631,47 +20715,5 @@ PNC Stock Price Hits 6-week Low — PNC shares decreased to 246.59 USD, the lowe
 ### 2026-08-20 02:27:50  #Trading Economics #Markets #United States #Currency #Importance 1
 
 DXY Falls to Over 2-Month Low — The US dollar index fell below 99 on Wednesday, the lowest since late May, after the US Treasury announced it would double its long-term buyback program. The move signaled that the US Treasury would be willing to actively intervene on the bond market to cap long-term yields, raising the outlook of dollar liquidity in the global financial system from the Treasury General Account. Such measures were in line with earlier efforts to limit the surge in long-dated bonds globally, which often drive foreign companies to sell their dollar holdings to support their currency. Japan and the US had recently intervened in foreign exchange markets, driving the dollar index to plunge, and Treasury Secretary Bessent called for higher limits to the Federal Reserve's FIMA facility for foreign countries to have dollar liquidity without having to actively intervene in foreign exchange markets. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates.
-
----
-
-### 2026-08-20 02:27:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #WTI
-
-【Fed minutes show no support for rate cuts】Fed minutes contained no views supporting rate cuts, marking a clear shift in policy discussion versus a year ago. Markets had expected cuts as inf cooled, but price pressures have persisted — amplified after the Trump administration's involvement in the Israel–Iran conflict — and oil and gas flows via the Strait of Hormuz remain constrained nearly six months after the outbreak. Recent data show a modest easing in inf and an unexpected payroll decline in July, leaving markets priced for the Fed to hold at the Sept. 15–16 meeting. Officials remain divided on the need for further hikes but are more cautious on labour-market strength and risks to achieving full employment; the Fed chair's reluctance to outline his policy path leaves markets without clear guidance.
-
----
-
-### 2026-08-20 02:27:45  #MKT News
-
-India orders inventory limits on bulk sugar consumers, effective Sept 1 through Nov 30.
-
----
-
-### 2026-08-20 02:25:57  #國際
-
-印度政府令：印度對食糖大宗消費商實施存糖限額，該規定自9月1日起生效，有效期至11月30日。
-
----
-
-### 2026-08-20 02:25:53  #MKT News
-
-Colombian official data shows the earthquake death toll has risen to 312.
-
----
-
-### 2026-08-20 02:25:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Rises to Over 2-Month High — Gold prices rose to $4,480 per ounce on Wednesday, the highest since early June, tracking the rally for long-dated US Treasuries after the Treasury Department doubled the buyback of notes and bonds in the upcoming financial quarter. It marked another effort by Washington to contain soaring yields in the longer portion of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. On top of that, the initial increase in dollar liquidity due to the measures also aid gold prices. Meanwhile, minutes of the Federal Reserve's rate-setting meeting confirmed that a portion of policymakers argued that raising rates this year could prevent sharper inflationary pressure later on.
-
----
-
-### 2026-08-20 02:25:13  #MKT News #Commodities #Energy
-
-【Russian deputy PM: Russia has begun importing fuel】Russian Deputy Prime Minister Novak told Russian news channel website reported on the 19th that Russia has begun importing fuel and has enacted necessary regulations to permit production of certain lower-emission-grade fuels.
-
----
-
-### 2026-08-20 02:25:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cotton Gains by 3.63% — Top commodity gainers are Cotton (3.63%), Palm Oil (2.92%) and Wheat (2.26%). Biggest loser is Coffee (-1.29%).
 
 ---
