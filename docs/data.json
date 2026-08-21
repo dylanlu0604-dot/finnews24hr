@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-22 03:32:22",
-  "count": 16182,
+  "updated": "2026-08-22 03:36:24",
+  "count": 16180,
   "items": [
+    {
+      "id": "5052714",
+      "time": "2026-08-22 03:35:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【科技股拖累標普500指數本週收跌】在截至8月21日的一週內，科技股領跌，導致標普500指數全周表現疲軟。過去五個交易日，資訊科技板塊累計下跌逾3%，成為拖累大盤的主力。其中，Amkor Technology和Credo Technology跌幅居前，分別重挫近15%和11%；Meta Platforms同期也下跌近7%，進一步加劇了科技板塊的跌勢。除科技股外，公用事業和工業板塊同樣走低，共同對大盤指數形成壓制。受此影響，標普500指數本週累計下跌1.4%。"
+    },
+    {
+      "id": "5052713",
+      "time": "2026-08-22 03:34:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典國王：我們滿懷驚愕與悲痛獲悉，瑞典再次發生校園襲擊事件。"
+    },
+    {
+      "id": "5052712",
+      "time": "2026-08-22 03:33:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥政府表示，在錫那羅亞州州長羅恰自行決定返任後，總檢察長辦公室仍將維持對他的調查。"
+    },
+    {
+      "id": "5052711",
+      "time": "2026-08-22 03:31:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國務院批准對韓出售1.25億美元“響尾蛇”導彈】美國國務院21日發表宣告稱，已批准向韓國出售價值1.25億美元的“響尾蛇”空對空導彈及相關裝置服務。宣告說，韓國政府提出購買103枚AIM-9X“響尾蛇”Block II戰術導彈和10套該型導彈戰術制導元件，以及相關配件和服務。這項擬議軍售“將提升韓國的防空、威懾能力”，“確保與美軍的協同作戰能力”，幫助韓國提高“應對當前及未來威脅的能力”。據美國海軍航空系統司令部官網介紹，AIM-9X“響尾蛇”Block II導彈是美軍現役最先進的短程空對空導彈，還可用於打擊地面目標。此外，美國國務院當天還分別發表宣告，宣佈批准對挪威和義大利的對外軍售案。美國將向挪威政府出售21架UH-60M“黑鷹”直升機及相關發動機等裝置，總價值約23億美元；將向義大利政府出售5031套“先進精確殺傷武器系統-II”空對空型制導元件及相關裝置，總價值約3.64億美元。（新華社）"
+    },
     {
       "id": "5052710",
       "time": "2026-08-22 03:31:17",
@@ -148142,66 +148175,6 @@
         "Impact bullish"
       ],
       "text": "CFTC: For week ended Aug 11, speculative traders increased WTI net longs by 4,034 contracts to 105,860. Across the four major NYMEX and ICE gas contracts, speculative net shorts fell 18,848 contracts to 70,241."
-    },
-    {
-      "id": "mkt:01a001c6-4686-7aab-9044-fd0759f59a40",
-      "time": "2026-08-15 03:36:06",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Speculators' net short in CBOT 5-year Treasury futures fell by 84,963 contracts to 1,240,756 in the week to Aug. 11, the CFTC said. Net short positions in CBOT ultra-long Treasury futures rose by 11,798 contracts to 326,783, while net shorts in CBOT Treasury futures increased by 3,335 contracts to 179,607."
-    },
-    {
-      "id": "5041918",
-      "time": "2026-08-15 03:35:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "甲骨文公司：木星專案仍按計劃推進，我們繼續與合作伙伴緊密協作以推動專案進展。"
-    },
-    {
-      "id": "mkt:01a001c5-5d30-7aab-9044-f72976a050ea",
-      "time": "2026-08-15 03:35:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "CFTC weekly data to Aug. 11: speculators' net short in CBOT U.S. 2‑year Treasury futures rose 16,815 contracts to 1,021,043; speculators' net short in CBOT U.S. 10‑year Treasury futures fell 64,190 contracts to 915,053."
-    },
-    {
-      "id": "mkt:01a001c4-4f9b-7aab-9044-e82b735c421e",
-      "time": "2026-08-15 03:33:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "CFTC: For the week to Aug. 11, COMEX speculative net long positions — gold +9,470 contracts to 141,868; silver -755 contracts to 10,312; copper +3,085 contracts to 80,880."
-    },
-    {
-      "id": "5041917",
-      "time": "2026-08-15 03:33:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴勒斯坦譴責以方定居點“民事執法權”移交計劃】巴勒斯坦副總統侯賽因·謝赫14日譴責以色列擬將約旦河西岸猶太人定居點的“民事執法權”從以軍移交至以警方，指責這一計劃意在鞏固以方對巴方被佔領土的非法吞併。謝赫發表宣告說，任何形式的定居點活動均屬非法。對被佔巴方領土的任何部分，以色列均不擁有主權。謝赫指出，以色列的做法公然違反國際法和聯合國相關決議，意在將以色列法律和主權強加於包括東耶路撒冷在內的約旦河西岸地區，進一步鞏固對巴勒斯坦領土的非法吞併。（新華社）"
-    },
-    {
-      "id": "5041916",
-      "time": "2026-08-15 03:32:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "CFTC：原油投機客在截至8月11日當週將WTI淨多頭倉位增加4,034口，至105,860口。"
     }
   ]
 }
