@@ -1,7 +1,103 @@
 {
   "date": "2026-08-21",
-  "count": 2966,
+  "count": 2976,
   "items": [
+    {
+      "id": "mkt:01a024d7-1cde-7aab-90d7-50e550908823",
+      "time": "2026-08-21 23:01:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "SWISS NATIONAL BANK board member Tschudin said the bank would cut its policy rate below 0% if inflation warrants."
+    },
+    {
+      "id": "mkt:01a024d6-d85c-7aab-90d7-483f1793dff8",
+      "time": "2026-08-21 23:00:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "As of 23:00 close, China’s most-active domestic futures contracts were mostly higher: coke rose over 3%; soda ash, synthetic rubber, coking coal, liquefied petroleum gas (LPG) and glass gained more than 2%; ethylene glycol (EG) and caustic soda increased nearly 2%. Rapeseed oil fell about 1%."
+    },
+    {
+      "id": "5052575",
+      "time": "2026-08-21 23:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士國家銀行政策制定者楚丁：若通脹形勢需要，瑞士國家銀行將把利率下調至零以下。"
+    },
+    {
+      "id": "te:markets:577326",
+      "time": "2026-08-21 23:00:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Turkish Lira Drops by 0.83% — Top currency loser is Turkish Lira (-0.83%). Gains are led by Australian Dollar (0.71%), Brazilian Real (0.60%), South Korean Won (0.57%) and Japanese Yen (0.06%). Meanwhile, Euro, British Pound and Dollar Index were little changed."
+    },
+    {
+      "id": "mkt:01a024d6-3669-7aab-90d7-43d8677e7b01",
+      "time": "2026-08-21 23:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Citadel Securities says >80% of risk from acquired Leopold fund stripped via >100 block trades >$4bn; Wellington fund +5.94% in July】Citadel Securities founder Ken Griffin told clients in a letter that the firm executed more than 100 block trades totaling over $4 billion to remove in excess of 80% of the overall risk from the portfolio it bought from Leopold’s Situational Awareness fund. Griffin said the trades required coordinated work by banks’ trading and prime-broker teams. He also confirmed Citadel’s flagship multi‑strategy Wellington Fund returned 5.94% in July, its best monthly performance since 2022."
+    },
+    {
+      "id": "5052574",
+      "time": "2026-08-21 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】焦炭連續漲3.51%，純鹼連續漲2.62%，焦煤連續漲2.42%，液化石油氣連續漲2.37%，玻璃連續漲2.32%。"
+    },
+    {
+      "id": "5052573",
+      "time": "2026-08-21 22:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：熱帶低氣壓可能在未來幾天內給夏威夷群島帶來降雨和大風。"
+    },
+    {
+      "id": "mkt:01a024d4-c708-7aab-90d7-38c441622984",
+      "time": "2026-08-21 22:58:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Russian Defence Ministry said Russian forces struck a fuel and lubricants storage tank and port infrastructure at the southern Ukrainian port of Yuzhne."
+    },
+    {
+      "id": "5052572",
+      "time": "2026-08-21 22:57:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦軍方表示打死49名恐怖分子】巴基斯坦軍方21日發表宣告說，巴安全部隊在過去幾天與警方開展的聯合行動中打死49名恐怖分子。宣告說，在巴西北部開伯爾-普什圖省各地區開展的行動中，打死12名恐怖分子；在西南部俾路支省開展的10次行動中，打死37名恐怖分子。行動中還繳獲了大量武器、彈藥、爆炸物和簡易遙控引爆裝置。宣告說，巴安全部隊將堅定不移保衛國家安全，持續開展清剿行動，以徹底消除巴境內的恐怖主義威脅。（新華社）"
+    },
+    {
+      "id": "mkt:01a024d3-e186-7aab-90d7-370664d7aeee",
+      "time": "2026-08-21 22:57:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan military says 49 terrorists killed】Pakistan's military said on the 21st that security forces and police killed 49 terrorists in recent joint operations. Twelve were killed in operations across Khyber Pakhtunkhwa in the north and 37 were killed in 10 operations in southwestern Balochistan. Security forces also seized large quantities of weapons, ammunition, explosives and improvised remote-detonation devices. The military said clearance operations will continue to eliminate the terrorist threat."
+    },
     {
       "id": "te:markets:577325",
       "time": "2026-08-21 22:56:43",
