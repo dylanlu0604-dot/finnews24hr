@@ -1,7 +1,46 @@
 {
   "date": "2026-08-21",
-  "count": 3001,
+  "count": 3005,
   "items": [
+    {
+      "id": "5052588",
+      "time": "2026-08-21 23:24:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉盤中上漲4.4%，創一個月新高。"
+    },
+    {
+      "id": "mkt:01a024ec-3a02-7aab-90d7-d6dcc940c55b",
+      "time": "2026-08-21 23:24:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) rose 4.4% intraday to a one-month high."
+    },
+    {
+      "id": "mkt:01a024eb-94ba-7aab-90d7-ce1952359555",
+      "time": "2026-08-21 23:23:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Minister Araghchi said the replay of what he called \"the most destructive economic action in history\" is doomed to fail."
+    },
+    {
+      "id": "5052587",
+      "time": "2026-08-21 23:21:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：14 年前“史上最嚴厲制裁”—— 失敗。 8 年前“極限施壓”—— 失敗。 5 個月前“無條件投降”—— 落空。 而今“史上最強經濟打擊行動”—— 註定失敗。這套戲碼我們早已見過。說辭換湯不換藥，只是施暴者換了一撥。"
+    },
     {
       "id": "mkt:01a024e7-e17c-7aab-90d7-c255a54a191e",
       "time": "2026-08-21 23:19:31",

@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-21 23:21:24",
+  "updated": "2026-08-21 23:25:35",
   "count": 16201,
   "items": [
+    {
+      "id": "5052588",
+      "time": "2026-08-21 23:24:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉盤中上漲4.4%，創一個月新高。"
+    },
+    {
+      "id": "mkt:01a024ec-3a02-7aab-90d7-d6dcc940c55b",
+      "time": "2026-08-21 23:24:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) rose 4.4% intraday to a one-month high."
+    },
+    {
+      "id": "mkt:01a024eb-94ba-7aab-90d7-ce1952359555",
+      "time": "2026-08-21 23:23:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Minister Araghchi said the replay of what he called \"the most destructive economic action in history\" is doomed to fail."
+    },
+    {
+      "id": "5052587",
+      "time": "2026-08-21 23:21:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：14 年前“史上最嚴厲制裁”—— 失敗。 8 年前“極限施壓”—— 失敗。 5 個月前“無條件投降”—— 落空。 而今“史上最強經濟打擊行動”—— 註定失敗。這套戲碼我們早已見過。說辭換湯不換藥，只是施暴者換了一撥。"
+    },
     {
       "id": "mkt:01a024e7-e17c-7aab-90d7-c255a54a191e",
       "time": "2026-08-21 23:19:31",
@@ -148412,41 +148451,6 @@
         "AMZN.O"
       ],
       "text": "US Department of Justice says Amazon has agreed to pay $2.25 mln and accept injunctive relief to resolve alleged violations of the Fair Credit Reporting Act."
-    },
-    {
-      "id": "te:markets:575504",
-      "time": "2026-08-14 23:22:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Extends Gains for 2nd Week — Gold rose above $4,380 an ounce on Friday, recovering from earlier losses and securing a second consecutive weekly gain as investors assessed the outlook for US monetary policy. Recent US CPI and PPI data showed inflation pressures remaining contained, suggesting that the impact of higher energy prices linked to the Iran conflict eased in July and reducing expectations of an aggressive Federal Reserve stance. Markets now see roughly a one-in-three chance of a rate hike in September, although upcoming employment data and comments from Fed Chair Kevin Warsh at the Jackson Hole symposium could influence expectations. Geopolitical risks remain another key factor, as renewed tensions could push energy prices higher and revive inflation concerns. Meanwhile, strong central-bank demand continues to support gold, with China adding around 20 tonnes to its reserves in July, marking its 21st consecutive month of purchases."
-    },
-    {
-      "id": "5041803",
-      "time": "2026-08-14 23:22:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "秘魯總統：因燃油價格上漲，宣佈向運輸司機提供 15%‑20% 的補貼。"
-    },
-    {
-      "id": "mkt:01a000de-0081-7aab-9042-169dbe0d9959",
-      "time": "2026-08-14 23:22:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's president announced a 15–20% subsidy for transport drivers to offset rising fuel prices."
-    },
-    {
-      "id": "5041802",
-      "time": "2026-08-14 23:21:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗環境署：格什姆島海灘受到原油汙染】據伊朗塔斯尼姆通訊社14日援引伊朗環境署訊息報道，初步評估顯示，伊朗格什姆島沿岸3.2公頃海灘和9公頃近岸水域受到原油汙染。報道援引伊朗環境署一名官員的話說，汙染源據信來自海上，在洋流和季風的作用下漂向海岸。這名官員表示，監測、控制和清理工作仍在進行中。（新華社）"
     }
   ]
 }
