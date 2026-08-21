@@ -1,7 +1,27 @@
 {
   "date": "2026-08-21",
-  "count": 572,
+  "count": 574,
   "items": [
+    {
+      "id": "5050913",
+      "time": "2026-08-21 08:23:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞要求滅火器供應商修正鋰電滅火器宣傳】澳大利亞競爭與消費者委員會（ACCC）：滅火器供應商修正其鋰離子電池滅火器相關宣傳宣告。本次修訂是在ACCC就安全標準合規性與合理使用方面可能存在虛假或誤導性陳述提出關切後進行的。已與鋰離子電池滅火器供應商接洽，以確保向消費者提供的資訊準確無誤。"
+    },
+    {
+      "id": "mkt:01a021b1-90ba-7aab-90c3-a0b35820f6b2",
+      "time": "2026-08-21 08:21:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Russia cuts gold holdings by 1.6 mln oz this year; reserves at lowest since Jan 2020】The Bank of Russia said on Thursday that as of Aug. 1 its gold reserves had fallen by 1.6 mln oz since the start of the year to 73.2 mln oz, the lowest level since January 2020. Over the past seven months the value of the reserves declined by $33.7 bln."
+    },
     {
       "id": "mkt:01a021ae-d33f-7aab-90c3-9c475f42b228",
       "time": "2026-08-21 08:18:20",

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-21 08:20:43",
-  "count": 16031,
+  "updated": "2026-08-21 08:24:46",
+  "count": 16028,
   "items": [
+    {
+      "id": "5050913",
+      "time": "2026-08-21 08:23:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞要求滅火器供應商修正鋰電滅火器宣傳】澳大利亞競爭與消費者委員會（ACCC）：滅火器供應商修正其鋰離子電池滅火器相關宣傳宣告。本次修訂是在ACCC就安全標準合規性與合理使用方面可能存在虛假或誤導性陳述提出關切後進行的。已與鋰離子電池滅火器供應商接洽，以確保向消費者提供的資訊準確無誤。"
+    },
+    {
+      "id": "mkt:01a021b1-90ba-7aab-90c3-a0b35820f6b2",
+      "time": "2026-08-21 08:21:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Russia cuts gold holdings by 1.6 mln oz this year; reserves at lowest since Jan 2020】The Bank of Russia said on Thursday that as of Aug. 1 its gold reserves had fallen by 1.6 mln oz since the start of the year to 73.2 mln oz, the lowest level since January 2020. Over the past seven months the value of the reserves declined by $33.7 bln."
+    },
     {
       "id": "mkt:01a021ae-d33f-7aab-90c3-9c475f42b228",
       "time": "2026-08-21 08:18:20",
@@ -146656,56 +146676,6 @@
         "市場"
       ],
       "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.57噸】截至2026年08月13日，全球最大的黃金ETF SPDR Gold Trust持倉量為1023.24噸，較前一個交易日減少2.57噸。"
-    },
-    {
-      "id": "5040206",
-      "time": "2026-08-14 08:23:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【關志鷗在九州通醫藥集團調研時強調 更大力度促進民營經濟健康發展高質量發展 為加快建成支點提供堅實支撐】據湖北釋出，8月13日下午，湖北省委書記關志鷗到九州通醫藥集團股份有限公司調研民營經濟和產業發展工作，聽取意見建議。他強調，要持之以恆最佳化營商環境，更大力度促進全省民營經濟健康發展、高質量發展，為加快建成中部地區崛起的重要戰略支點提供堅實支撐。"
-    },
-    {
-      "id": "5040205",
-      "time": "2026-08-14 08:23:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古1—7月出口機電產品126億元】昨天（8月13日），一批由內蒙古鄂爾多斯本土企業研發的智慧寬體礦用車，經二連浩特口岸陸續出口蒙古國，二連浩特海關、邊檢針對超高超寬重型成套裝備，開通大件貨物專屬通關通道，保障高階裝備高效順利出國。據呼和浩特海關資料顯示，今年前7個月，內蒙古出口機電產品達126億元，同比增長4.3%，智慧工程機械等高附加值產品出口勢頭強勁。"
-    },
-    {
-      "id": "te:markets:575214",
-      "time": "2026-08-14 08:22:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Steadies After Pulling Back — Silver steadied around $64.5 an ounce on Friday after pulling back in the previous session, as investors took profits while assessing the Federal Reserve’s policy outlook and developments in the Middle East. Data released Thursday showed US producer prices increased less than expected in July, offering further evidence that inflationary pressures are not broadly intensifying following Wednesday’s subdued CPI report. The softer price data reduces pressure on the Fed to raise interest rates in the near term, with markets now pricing in around a 35% chance of a 25 basis point rate hike in September, down from 55% a week earlier. Meanwhile, diplomatic efforts to reopen the Strait of Hormuz remain deadlocked, keeping investors cautious over the risk of an escalation that could drive energy prices higher and reignite inflationary pressures."
-    },
-    {
-      "id": "mkt:019ffda5-c3d0-7aab-9030-66225ed3ea6a",
-      "time": "2026-08-14 08:22:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "CNH",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Economic Daily: Targeted countermeasures help maintain normal competitive order】MOFCOM and other agencies announced retaliatory measures against recent US actions by the Federal Communications Commission and Department of Homeland Security, including tightened export controls on drone-related dual-use items bound for the US and placing six US entities, including Applied DNA Sciences, on a countermeasure list. Beijing said the package is legally grounded and intended to defend national interests; China reaffirmed commitment to stable US-China ties but warned that if the US implements further restrictive measures, it will impose additional countermeasures."
-    },
-    {
-      "id": "5040204",
-      "time": "2026-08-14 08:21:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油加入大型石油企業重返委內瑞拉的行列。英國石油已獲得加拉加斯方面頒發的許可，將勘探開發委內瑞拉近海一處氣田，這是該大型石油企業重返當地的最新訊號。"
     }
   ]
 }
