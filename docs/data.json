@@ -1,7 +1,578 @@
 {
-  "updated": "2026-08-21 21:48:33",
-  "count": 16229,
+  "updated": "2026-08-21 22:14:15",
+  "count": 16230,
   "items": [
+    {
+      "id": "mkt:01a024aa-a6ed-7aab-90d6-799ba2cc520d",
+      "time": "2026-08-21 22:12:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Volkswagen CEO said this is not a Volkswagen-specific crisis but one affecting the entire auto industry."
+    },
+    {
+      "id": "mkt:01a024aa-95e9-7aab-90d6-72922e80ed1a",
+      "time": "2026-08-21 22:12:34",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Volkswagen CEO says several technology achievements remain unclear and are being hindered by significant external financial pressures."
+    },
+    {
+      "id": "mkt:01a024aa-7072-7aab-90d6-6c0fc2e5420f",
+      "time": "2026-08-21 22:12:24",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Volkswagen’s CEO said the company currently offers about 150 models across its brands and plans to cut that to about 75 by eliminating trim variants and duplicate models."
+    },
+    {
+      "id": "mkt:01a024aa-4cd2-7aab-90d6-65d945568216",
+      "time": "2026-08-21 22:12:15",
+      "tags": [
+        "MKT News",
+        "VWAGY",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Volkswagen CEO said global markets are unlikely to improve and risks will rise. From 2027 the company will demonstrate how it plans to simplify its model lineup and place greater emphasis on products."
+    },
+    {
+      "id": "5052530",
+      "time": "2026-08-21 22:11:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示：“我們希望在全球取得成功，確立技術標準，並牢牢紮根於德國。”"
+    },
+    {
+      "id": "5052529",
+      "time": "2026-08-21 22:11:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【哈森股份：股票交易異常波動 無應披露未披露事項】哈森股份公告稱，公司股票於2026年8月20日、8月21日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經自查並函證控股股東及實控人，除已公開披露資訊外，不存在應披露而未披露的重大事項。公司目前日常經營情況正常，控股股東及其一致行動人在本次異常波動期間未買賣公司股票。公司擬發行股份購買蘇州郎克斯45%股權並募集配套資金，本次交易尚需監管機構批准，存在不確定性。"
+    },
+    {
+      "id": "5052528",
+      "time": "2026-08-21 22:10:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，目前集團旗下各品牌總共提供約150款車型，未來透過削減車型變體與重疊產品後，車型總數將降至約75款。"
+    },
+    {
+      "id": "mkt:01a024a7-fa2a-7aab-90d6-5bcb36919fcb",
+      "time": "2026-08-21 22:09:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi energy minister and finance minister met in Riyadh with Iraq's oil minister and finance minister, Saudi state television said."
+    },
+    {
+      "id": "5052527",
+      "time": "2026-08-21 22:09:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧比中光：上半年淨利潤4164.09萬元 同比下降30.82%】奧比中光(688322.SH)釋出2026年半年度報告，實現營業收入4.38億元，同比增長0.49%；歸屬於上市公司股東的淨利潤4164.09萬元，同比下降30.82%。業績變動主要系報告期研發費用增加所致。公司Q2淨利潤0.11億，Q1淨利潤0.31億，據此計算，Q2淨利潤環比下降65%。"
+    },
+    {
+      "id": "mkt:01a024a7-781c-7aab-90d6-54ad54e1fea0",
+      "time": "2026-08-21 22:09:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【U.S. media: oil prices increasingly ignore Trump's posts】Axios analysis says oil-market sensitivity to Trump's social-media posts on the Iran war is fading. Analyst Ben Cahill says early weeks featured an information vacuum and high uncertainty over U.S. policy and targets, which led markets to overreact to many posts. For months markets have largely ignored social-media commentary because it does not track on‑the‑ground reality; many of Trump's remarks on the Strait of Hormuz, policy and war aims show zero correlation with actual transit volumes. Cahill says the White House's earlier success in shaping the narrative and suppressing oil prices has now dissipated."
+    },
+    {
+      "id": "5052526",
+      "time": "2026-08-21 22:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，受需求旺盛和供應收緊影響，俄羅斯烏拉爾原油在印度市場較布倫特原油重新轉為溢價。"
+    },
+    {
+      "id": "mkt:01a024a7-635b-7aab-90d6-4ceb93ee76f6",
+      "time": "2026-08-21 22:09:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Sources: Strong demand and tight supply have driven Russian Ural crude in India to trade at a premium to Brent again."
+    },
+    {
+      "id": "5052525",
+      "time": "2026-08-21 22:08:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，從2027年起，我們將逐步明確我們將如何精簡車型陣容的複雜度，以及如何讓我們的產品佈局更具聚焦性。"
+    },
+    {
+      "id": "5052524",
+      "time": "2026-08-21 22:06:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，不應期待全球市場會好轉，相反風險將加劇。"
+    },
+    {
+      "id": "5052523",
+      "time": "2026-08-21 22:05:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長表示，我們的許多技術成果並非立即可見，被巨大的外部財務壓力所掩蓋。"
+    },
+    {
+      "id": "5052522",
+      "time": "2026-08-21 22:04:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲3%，現報1062.00元。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608213849675334",
+      "time": "2026-08-21 22:03:53",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "歐元區8月消費者信心指數初值為負15.5，市場預估為負16.3，前月為負15.9。"
+    },
+    {
+      "id": "te:markets:577313",
+      "time": "2026-08-21 22:03:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises Ahead of New Election Poll — The Ibovespa rose more than 1% to trade above 170,000 on Friday ahead of a new election poll. Datafolha is due to release a new survey on the outlook for the presidential election in October. On Monday, a BTG/Nexus poll showed President Lula and Senator Flávio Bolsonaro, viewed by markets as more fiscally restrictive in a time where elevated domestic yields have dampened business activity, in a technical tie in a potential runof. Financials advanced, with Itaú, Bradesco, Itaúsa, Banco do Brasil and B3 gaining about 1% each. Credit-sensitive stocks also benefited from lower oil prices, which pushed bond yields down. Elsewhere, Vale added nearly 1.5% as iron ore prices firmed. Meanwhile, Petrobras (+0.5%) said it had expressed interest in offshore exploration blocks in Ghana."
+    },
+    {
+      "id": "5052521",
+      "time": "2026-08-21 22:03:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "大眾汽車執行長在內部採訪中表示，這並非大眾汽車自身的危機，而是影響整個汽車行業的危機。"
+    },
+    {
+      "id": "mkt:01a024a1-4bd5-7aab-90d6-456194f62ac2",
+      "time": "2026-08-21 22:02:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Eurozone preliminary August consumer confidence -15.5, versus -16.3 expected and -15.9 previously."
+    },
+    {
+      "id": "mkt:01a024a1-29ca-7aab-90d6-3bbd9e5ef327",
+      "time": "2026-08-21 22:02:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Consumer Confidence Flash Estimate (Aug) | actual -15.5 | consensus -16.3 | previous -15.9"
+    },
+    {
+      "id": "5052520",
+      "time": "2026-08-21 22:02:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區8月消費者信心指數初值 -15.5，預期 -16，前值 -15.9。"
+    },
+    {
+      "id": "mkt:01a024a1-048c-7aab-90d6-348da5e70d8f",
+      "time": "2026-08-21 22:02:07",
+      "tags": [
+        "MKT News",
+        "CLF.N"
+      ],
+      "text": "Cleveland-Cliffs (CLF.N) expects to deploy capital over the next four years."
+    },
+    {
+      "id": "mkt:01a024a0-e5d6-7aab-90d6-2f02106ab85b",
+      "time": "2026-08-21 22:01:59",
+      "tags": [
+        "MKT News",
+        "CLF.N",
+        "Impact bullish"
+      ],
+      "text": "Cleveland-Cliffs (CLF.N) said it has revised the scope of a previously awarded $500 mln DOE grant. Total project funding is $1.0 bln, to be split equally between the company and the DOE."
+    },
+    {
+      "id": "mkt:01a024a0-d279-7aab-90d6-25eb1005de71",
+      "time": "2026-08-21 22:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Indonesia hold second 2+2 foreign-and-defense ministerial meeting】Aug 21, 2026 — China and Indonesia held the second 2+2 foreign-and-defense ministers’ meeting in Jakarta, co-chaired by Chinese foreign minister Wang Yi and defense minister Dong Jun and Indonesian foreign minister Sujiyono and defense minister Shafri. The parties conducted strategic consultations and agreed to deepen strategic coordination on multilateral platforms including the UN, APEC and BRICS, promote cooperation among developing countries and the Global South, and advocate multipolarity, inclusive economic globalization and reforms toward a more equitable global governance framework."
+    },
+    {
+      "id": "5052519",
+      "time": "2026-08-21 22:01:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國印尼外長防長“2+2”對話機制舉行第二次部長級會議】8月21日，中國印尼外長防長“2+2”對話機制第二次部長級會議在雅加達舉行，外交部長王毅、國防部長董軍同印度尼西亞外長蘇吉約諾、防長沙夫裡共同主持，雙方進行了深入戰略溝通，達成一系列重要共識。（外交部）"
+    },
+    {
+      "id": "mkt:01a0249f-f8b4-7aab-90d6-1b0bcb112b55",
+      "time": "2026-08-21 22:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRIB reported Iranian navy commander said enemy forces will not be allowed to approach Iranian territory."
+    },
+    {
+      "id": "5052518",
+      "time": "2026-08-21 21:59:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華電能源：錦興電廠1號機組正式取得電力業務許可證】據華電能源訊息，8月20日，山西錦興能源有限公司錦興電廠1號機組正式取得電力業務許可證，標誌著該機組獲得國家能源局認可，全面具備參與電力市場交易及開展商業化運營的法定條件。"
+    },
+    {
+      "id": "5052517",
+      "time": "2026-08-21 21:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASPD-ASP資料中心與K11簽訂七年協議，將提供6兆瓦電力。"
+    },
+    {
+      "id": "5052516",
+      "time": "2026-08-21 21:58:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署將延長可再生燃料標準合規截止日期。"
+    },
+    {
+      "id": "5052515",
+      "time": "2026-08-21 21:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署將於月底釋出擱置的2025年煉油廠豁免許可。"
+    },
+    {
+      "id": "te:economy:577309",
+      "time": "2026-08-21 21:58:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "US Manufacturing Activity Loses Momentum: S&P Global — The S&P Global US Manufacturing PMI eased to 53.2 in August 2026 from 53.9 prevously, undershooting market expectations of 53.9, according to the preliminary estimate. The latest reading pointed to a moderation in manufacturing activity, with growth at its weakest since March, partly due to higher fuel costs, reduced inventory building and raw material shortages linked to supply delays. Production growth slowed for a third consecutive month, reaching its weakest pace since July last year. New orders held up better but also lost momentum, expanding at their slowest rate since March. Input purchases fell for the first time since February, weighing on the PMI, while longer supplier delivery times provided support despite a slight easing in delays. Employment also contributed positively, with factory payrolls rising modestly at the fastest pace since May."
+    },
+    {
+      "id": "5052514",
+      "time": "2026-08-21 21:58:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其請求國際刑警通緝以色列總理】據土耳其阿納多盧通訊社報道，土耳其司法部長居爾勒克今天（8月21日）表示，土耳其已請求國際刑警組織對以色列總理內塔尼亞胡發出“紅色通緝令”。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:577308",
+      "time": "2026-08-21 21:56:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Nuclear Energy Index Hits 8-week High — Nuclear Energy Index increased to 46.01 USD, the highest since June 2026. Over the past 4 weeks, Nuclear Energy Index gained 12.21%, and in the last 12 months, it increased 15.69%."
+    },
+    {
+      "id": "mkt:01a0249c-1a3a-7aab-90d6-15b83521ffb6",
+      "time": "2026-08-21 21:56:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Transportation said the Federal Aviation Administration will launch a new space transportation initiative."
+    },
+    {
+      "id": "5052513",
+      "time": "2026-08-21 21:56:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：益方生物科技（INVENTISBIO CO. ）已提交香港上市申請。"
+    },
+    {
+      "id": "mkt:01a0249b-8209-7aab-90d6-0fe542a6e30f",
+      "time": "2026-08-21 21:56:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Transportation said the Federal Aviation Administration is seeking comments on spaceports and space-launch corridors."
+    },
+    {
+      "id": "te:economy:577307",
+      "time": "2026-08-21 21:55:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "US Services Activity Rises Most in 20 Months — The S&P Global US Services PMI rose to 56.8 in August of 2026 from 54.6 in the previous month, well above market expectations of a drop to 54, to reflect the sharpest expansion in services activity since December 2024. New business wins expanded sharply in the sector, fast enough to expand backlogs for firms as clients made up for the decline in orders after the outbreak of war in the Middle East dampened demand in the second quarter of the year. Consistently, staffing levels were firmly higher. Meanwhile, input costs continued to rise at a marked pace, although inflation eased a bit from the 14-month high in July. Despite this, average output charge inflation softened to a six-month low. Looking ahead, confidence improved for a third month."
+    },
+    {
+      "id": "5052512",
+      "time": "2026-08-21 21:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月21日，外國投資者淨買入185億印度盧比的印度股票衍生品。"
+    },
+    {
+      "id": "mkt:01a0249a-b0f7-7aab-90d6-025de1dcf5c8",
+      "time": "2026-08-21 21:55:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reports the Trump administration appointed former JP Morgan executive Matt Zames as an advisor to the Social Security Administration."
+    },
+    {
+      "id": "5052511",
+      "time": "2026-08-21 21:55:03",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "特朗普政府任命前摩根大通高管馬特·扎姆斯為社會保障局顧問。"
+    },
+    {
+      "id": "5052510",
+      "time": "2026-08-21 21:54:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運輸部：聯邦航空管理局將推出全新太空運輸相關舉措。"
+    },
+    {
+      "id": "mkt:01a02499-bb0b-7aab-90d5-fe5d77547379",
+      "time": "2026-08-21 21:54:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "Nasdaq-100 turned negative; S&P 500’s gain narrowed to 0.3%; Dow rose 0.6%."
+    },
+    {
+      "id": "5052509",
+      "time": "2026-08-21 21:53:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌；標普500指數漲幅收窄至0.3%。"
+    },
+    {
+      "id": "mkt:01a02499-5c9c-7aab-90d5-f46b1760cb70",
+      "time": "2026-08-21 21:53:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India announced a 625 billion-rupee mobile phone incentive scheme."
+    },
+    {
+      "id": "5052508",
+      "time": "2026-08-21 21:53:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度新聞資訊局(PIB)：印度通知實施6250億盧比手機激勵計劃。"
+    },
+    {
+      "id": "mkt:01a02498-8cbc-7aab-90d5-ea6b1f171a3c",
+      "time": "2026-08-21 21:52:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filing shows Qian Da Ma International Holdings Limited has submitted a Hong Kong listing application; joint sponsors are China International Capital Co and Agricultural Bank of China International."
+    },
+    {
+      "id": "5052507",
+      "time": "2026-08-21 21:51:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政總局：熱帶風暴“拉拉”襲擊夏威夷群島，可能導致該地區郵件和包裹的處理、運輸及投遞出現延誤。"
+    },
+    {
+      "id": "5052506",
+      "time": "2026-08-21 21:50:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【港股IPO：錢大媽國際控股有限公司遞表港交所】錢大媽國際控股有限公司向港交所提交上市申請書，聯席保薦人為中金公司、農銀國際。"
+    },
+    {
+      "id": "mkt:01a02496-5aaf-7aab-90d5-e7e1f5956453",
+      "time": "2026-08-21 21:50:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【S&P Global Market Intelligence: US growth momentum shifts from manufacturing to services】S&P Global Market Intelligence chief business economist Chris Williamson said US business activity is strong, with survey data showing annualized Q3 growth near 3.0% in August versus 1.5% in Q2 and output at its fastest pace in over four years. August recorded an employment rebound and easing business concerns about tariffs and the Middle East, though geopolitical risk remains a key focus for supply chains and energy prices. Supply-chain delays in August were the worst in four years and continue to constrain production; price pressures have eased but remain elevated and could re-accelerate if energy costs rise. Growth momentum shifted from manufacturing to services between Q2 and Q3 as shrinking safety stocks and supply constraints limited factory output while services drove the expansion."
+    },
+    {
+      "id": "5052505",
+      "time": "2026-08-21 21:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬特·扎姆斯將出任美國社會保障署顧問。"
+    },
+    {
+      "id": "mkt:01a02495-fd41-7aab-90d5-dae61238ca56",
+      "time": "2026-08-21 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Eurozone preliminary consumer confidence index for August due in 10 minutes."
+    },
+    {
+      "id": "5052504",
+      "time": "2026-08-21 21:49:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【妙可藍多：2026年上半年營收32.79億元】妙可藍多公告稱，2026年上半年實現營業收入32.79億元，其中4-6月營收16.63億元。分產品看，乳酪、液態奶、其他品類上半年營收分別為28.87億元、1.60億元、2.32億元；分渠道看，經銷、直營、供應鏈及貿易渠道上半年營收分別為21.46億元、7.50億元、3.82億元；分割槽域看，北區、中區、南區上半年營收分別為10.65億元、15.86億元、6.28億元。截至2026年6月30日，公司經銷商總數為6333個，上半年淨增286個。"
+    },
+    {
+      "id": "5052503",
+      "time": "2026-08-21 21:49:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【妙可藍多：2026年上半年營收33.04億元 淨利同比增13.74%】妙可藍多公告稱，2026年上半年實現營業收入33.04億元，同比增長28.71%；歸屬於上市公司股東的淨利潤1.51億元，同比增長13.74%；扣非淨利潤1.21億元，同比增長17.87%。公司擬以實施權益分派股權登記日登記的總股本為基數，向全體股東每股派發現金紅利0.20元（含稅），不送紅股，不進行資本公積金轉增股本，本次利潤分配方案尚需提交公司股東會審議。"
+    },
+    {
+      "id": "5052502",
+      "time": "2026-08-21 21:48:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "UBIQUITI股價下跌10%，抹去了開盤時的漲幅。"
+    },
+    {
+      "id": "mkt:01a02494-5d67-7aab-90d5-d6ba9be0147c",
+      "time": "2026-08-21 21:48:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "S&P Global said US business growth in August hit a 52-month high, led by a surge in services activity and rising optimism. Price pressures eased."
+    },
+    {
+      "id": "te:economy:577304",
+      "time": "2026-08-21 21:48:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Composite PMI",
+        "Importance 2"
+      ],
+      "text": "US Business Growth Hits 52-Month High in August — The US flash S&P Global Composite PMI rose to 56 in August 2026 from 54.5 in July, marking the strongest expansion since April 2022. The improvement was driven primarily by a revival in the services sector, where activity reached its fastest pace since December 2024 and more than offset a slowdown in manufacturing growth. Goods production recorded its weakest increase in 13 months, partly reflecting reduced inventory building and supply disruptions. Delivery times also lengthened significantly, contributing to a further accumulation of outstanding orders across both sectors. Stronger demand encouraged companies to increase hiring, with employment growing at its fastest pace since early 2025. Business confidence also improved, with expectations for future activity reaching a nine-month high. Meanwhile, price pressures showed some moderation, particularly in selling prices, although input costs remained elevated, largely due to higher energy prices."
+    },
+    {
+      "id": "5052501",
+      "time": "2026-08-21 21:47:53",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "標普全球：美國8月製造業PMI初值錄得53.2，創5個月新低；綜合PMI初值產出指數錄得56.0，創52個月新高；服務業PMI初值商業活動指數錄得56.8，創20個月新高；製造業產出指數初值錄得51.9，創13個月新低。"
+    },
+    {
+      "id": "mkt:01a02493-f9ae-7aab-90d5-c82e25ed7a11",
+      "time": "2026-08-21 21:47:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "S&P Global: US August flash manufacturing PMI 53.2, a five-month low; composite PMI output index 56.0, a 52-month high; services PMI business activity index 56.8, a 20-month high; manufacturing output index 51.9, a 13-month low."
+    },
+    {
+      "id": "5052500",
+      "time": "2026-08-21 21:47:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股加密貨幣概念股盤初繼續走強】美股加密貨幣概念股盤初繼續走強，Robinhood、Circle漲超9%，Coinbase漲超7%，Strategy漲超6%。"
+    },
     {
       "id": "5052499",
       "time": "2026-08-21 21:46:54",
@@ -148122,591 +148693,6 @@
         "國際"
       ],
       "text": "【美國8月消費者信心指數初值降至51.0】當地時間8月14日，美國密歇根大學公佈2026年8月份消費者信心指數初值為51.0，低於7月的55.2，環比下降7.6%，同比下降12.4%。（央視新聞）"
-    },
-    {
-      "id": "te:markets:575500",
-      "time": "2026-08-14 22:13:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Holds Near Record High — The S&P/TSX Composite Index was flat at the 36,800 mark on Friday, a record high, amid gains for gold miners. Gold prices rebounded after earlier losses, lending support to mining stocks. Agnico Eagle rose over 2%, while Barrick and WPM added 1.5% each. Meanwhile, financials traded mostly below the flatline as energy-driven inflationary pressures weighed on credit-sensitive shares. The US threatened an indefinite naval blockade on Iran, reviving concerns about disruptions to crude supplies from the region and pushing oil prices higher. On the earnings front, Bird Construction (+3%) beat second-quarter profit estimates. Air Canada (+2%) is likely to post record revenue for September and October, according to a senior executive. Canadian Tire edged up after beating estimates for both EPS and revenue. Onex (-1%) said its second quarter showed progress toward several strategic goals but did not provide EPS figures."
-    },
-    {
-      "id": "5041714",
-      "time": "2026-08-14 22:13:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普請求美國最高法院允許其繼續推進白宮宴會廳專案】美國總統特朗普14日請求美國最高法院允許其繼續推進白宮宴會廳專案。特朗普7日在社交平臺“真實社交”發文稱，將立即就聯邦上訴法院阻止白宮宴會廳專案的裁決向美國最高法院提出上訴，並稱該裁決“出於政治動機且違法”。當天早些時候，美國哥倫比亞特區聯邦巡迴上訴法院以2比1的投票結果，維持下級法院應美國文物保護組織國家歷史保護信託基金會要求頒佈的初步禁令。但上訴法院的裁決將暫緩14天執行，以便特朗普政府有時間向最高法院提出上訴。（央視新聞）"
-    },
-    {
-      "id": "5041713",
-      "time": "2026-08-14 22:13:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統辛鮑姆：撤銷墨西哥政客簽證屬於干涉行為。"
-    },
-    {
-      "id": "5041712",
-      "time": "2026-08-14 22:12:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李智任教育部（中國）留學服務中心黨委書記、主任】近日，教育部（中國）留學服務中心官網“中心領導”欄目更新資訊顯示，李智已經擔任教育部（中國）留學服務中心黨委書記、主任。公開資料顯示，李智長期在教育部工作，曾任教育部高等教育教學評估中心副主任、職業教育與成人教育司副司長等職。（澎湃）"
-    },
-    {
-      "id": "mkt:01a0009d-c92a-7aab-9040-b14041bd5028",
-      "time": "2026-08-14 22:12:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【SK Hynix 1H device investment up 72.7% YoY, ramps AI storage capacity】On a consolidated basis SK Hynix spent 18.3288 tln won on purchases of tangible assets in 1H, up 72.7% YoY from 10.6157 tln won, according to its semiannual report, as it accelerates capacity expansion to meet rising demand for AI-focused HBM, server DRAM and enterprise SSDs. R&D spending rose 98.4% YoY to 6.0428 tln won in 1H, of which 5.8163 tln won was allocated to ongoing development costs."
-    },
-    {
-      "id": "5041711",
-      "time": "2026-08-14 22:11:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國股市上漲，強勁的企業盈利和利好資料推動漲勢】本週，美國股市延續漲勢，創下歷史新高。此前，一系列資料緩解了市場對加息的預期，強勁的盈利表現也提振了人們對人工智慧交易的信心。截至紐約時間上午10點，標普500指數上漲0.1%，此前該指數週四收於歷史新高。以科技股為主的納斯達克100指數上漲0.2%。兩大股指均有望連續第三週上漲，創下自5月以來的最長連漲紀錄。布倫特原油價格在隔夜短暫上漲2%後，目前約為每桶87美元，此前美國宣佈了徵稅計劃。 嚴厲的經濟措施 對伊朗的談判在過去一週陷入僵局，油價居高不下。"
-    },
-    {
-      "id": "5041710",
-      "time": "2026-08-14 22:11:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影 《去你的島》 上映8天， 總票房破9000萬。"
-    },
-    {
-      "id": "5041708",
-      "time": "2026-08-14 22:10:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普政府請求最高法院放行白宮宴會廳專案】特朗普政府於週五向美國最高法院提出申請，希望准許推進特朗普的白宮宴會廳建設，該專案將拆除並取代原有東翼。 這項規劃建築面積達9萬平方英尺的宴會廳專案，自去年10月總統拆除東翼起就陷入訴訟糾紛，拆除東翼是特朗普大規模改造白宮園區計劃的一部分。儘管法院對該專案合法性存疑，但此前仍允許特朗普繼續施工，近幾個月宴會廳主體工程持續推進。 此前上訴法院於8月7日作出裁定，認為特朗普在未獲得國會批准的情況下推進這項私人出資專案，極有可能越權。"
-    },
-    {
-      "id": "mkt:01a0009b-4b44-7aab-9040-a8b74c1ee4e8",
-      "time": "2026-08-14 22:09:32",
-      "tags": [
-        "MKT News",
-        "CSCO.O",
-        "Impact bearish"
-      ],
-      "text": "HSBC cut Cisco (CSCO.O) price target to $120 from $137 and downgraded its rating to Hold from Buy."
-    },
-    {
-      "id": "5041707",
-      "time": "2026-08-14 22:08:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【近岸蛋白：公司股價持續上漲積累了較多的獲利調整風險】近岸蛋白8月14日公告，公司股票於8月12日、8月13日、8月14日連續3個交易日內日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。近期，公司股價累計漲幅超過大部分同行業公司股價漲幅且顯著高於科創綜指、科創50、上證綜指等相關指數漲幅，公司股價持續上漲積累了較多的獲利調整風險。特別提醒廣大投資者注意二級市場交易風險，理性決策，審慎投資。"
-    },
-    {
-      "id": "5041706",
-      "time": "2026-08-14 22:08:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊持續走強 閃迪漲超9％】希捷科技漲7.2％，西部資料漲4.5％，美光科技、sk海力士均漲超3.5％。"
-    },
-    {
-      "id": "mkt:01a00099-8405-7aab-9040-a77a7087cee1",
-      "time": "2026-08-14 22:07:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【US consumer sentiment down ~8% in August; Republicans hit hardest】University of Michigan consumer sentiment fell about 8% in August, ending a two-month improvement, survey director Joanne Hsu said. Views of personal finances deteriorated only slightly, but business-condition expectations plunged, with short-run expectations down 11% and long-run expectations down 17%. Declines were broad across political groups; Republicans posted the largest monthly drop and are now 19% below their level before the Iran conflict, at their weakest since the 2024 election. Weakness was concentrated among older, lower-income and non-college consumers, groups most exposed to inflation-driven purchasing-power losses. Only 8% of consumers expect their incomes to outpace inflation over the next year, down from 18% in December 2024. One-year inflation expectations rose to 4.3% in August from 4.2% in July, above the pre-conflict February reading of 3.4% and above all 2024 readings; long-run inflation expectations held at 3.3% for a third month, slightly above the 2024 range of 2.8–3.2%."
-    },
-    {
-      "id": "te:economy:575499",
-      "time": "2026-08-14 22:06:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Consumer Confidence",
-        "Importance 3"
-      ],
-      "text": "US Consumer Sentiment Falls in August — The University of Michigan’s consumer sentiment index fell to 51 in early August 2026, down from 55.2 in July and below market expectations of 54.5, ending two consecutive months of improvement. Both major components weakened, with the current conditions index declining to 51.8 and the expectations measure falling to 50.6. The deterioration was broad-based across political and demographic groups, with particularly sharp declines among older, lower-income and less-educated consumers, who are more exposed to rising prices. Expectations for business conditions also worsened significantly, falling 11% over the next year and 17% over the longer term. Inflation concerns increased slightly, with year-ahead expectations rising to 4.3% from 4.2%, while the long-term outlook remained unchanged at 3.3%. Only 8% of consumers now expect their incomes to grow faster than inflation, down from 18% in December 2024."
-    },
-    {
-      "id": "5041705",
-      "time": "2026-08-14 22:06:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東高速集團與威海市政府簽署戰略合作協議】據山東高速集團訊息，8月14日，山東高速集團與威海市人民政府簽署戰略合作協議。山東高速集團董事長王其峰表示，下一步，山東高速集團將進一步發揮全產業鏈優勢，深化雙方在交通基礎設施建設、新能源開發、低空經濟、對外貿易、產融結合等領域合作。"
-    },
-    {
-      "id": "5041704",
-      "time": "2026-08-14 22:06:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "Rokos 旗下對沖基金著手鎖定客戶更長週期資金。"
-    },
-    {
-      "id": "5041703",
-      "time": "2026-08-14 22:05:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【理想再自研晶片，仍採用資料流架構】從多個信源處獲悉，理想汽車正在探索自研雲端推理晶片，將採用與智駕晶片相同的資料流架構，專案還在早期階段。AI 資料中心普遍使用 GPU 完成模型訓練和推理，也有資料中心部署雲端推理晶片。一位晶片行業人士說，雲端推理晶片可以承接部分原本在 GPU 上執行的推理任務，例如智駕模型的資料處理、測試、模擬，以及大語言模型的請求處理。模型訓練中涉及引數更新的部分仍需訓練晶片。（晚點）"
-    },
-    {
-      "id": "te:economy:575498",
-      "time": "2026-08-14 22:05:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Michigan Inflation Expectations",
-        "Importance 1"
-      ],
-      "text": "US Year-Ahead Inflation Expectations Inch Higher — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, inched higher to 4.3% in August of 2026 from 4.2% in the previous month, according to a preliminary estimate. The result was mostly owed to the impact of higher energy prices as the war in Iran limited oil and fuel supply from the Middle East. Longer-run inflation expectations, measured by expectations of inflation in a five-year outlook, were at 3.3% for the third month."
-    },
-    {
-      "id": "5041702",
-      "time": "2026-08-14 22:03:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部拒絕黑海停火提議：未收到正式方案，不接受僅給烏方喘息空間的折中措施】俄羅斯外交部發言人扎哈羅娃14日就土耳其提議在黑海實施停火一事作出回應。扎哈羅娃表示，俄方未透過官方渠道收到土耳其關於在黑海暫停軍事行動的具體正式提議，且當前沒有任何局勢改善的先決條件，因此俄方沒有理由採取只會讓烏克蘭政權獲得“喘息機會”的折中措施。"
-    },
-    {
-      "id": "5041701",
-      "time": "2026-08-14 22:03:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中控技術產品透過沙特國際電力和水務公司供應商資格審查】據中控技術訊息，近日，中控技術自主研發的DCS（集散控制系統）順利透過ACWA（沙特國際電力和水務公司）供應商資格審查，正式入圍其中國區域供應商體系。"
-    },
-    {
-      "id": "mkt:01a00094-b588-7aab-9040-9864496137a0",
-      "time": "2026-08-14 22:02:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "U.S. consumer confidence index fell for the first time in three months."
-    },
-    {
-      "id": "5041700",
-      "time": "2026-08-14 22:01:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【強勢股追蹤 主力資金連續5日淨流入143股】資料寶統計，截至8月14日收盤，深滬北共143只個股連續5日或5日以上主力資金淨流入。中石科技連續12日主力資金淨流入，排名第一；博碩科技等連續11日主力資金淨流入，位列第二。從主力資金淨流入總規模來看，源傑科技主力資金淨流入金額最大，連續5天累計淨流入17.79億元，貴州茅臺緊隨其後，6天累計淨流入12.17億元。從主力資金淨流入佔成交額的比例來看，神奇製藥佔比排名居首，該股近5日上漲25.93%。"
-    },
-    {
-      "id": "5041699",
-      "time": "2026-08-14 22:01:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【教師招聘面試成績被指篡改，海南樂東：未發現違規篡改分數、人為操控成績等情況】海南樂東黎族自治縣教育局8月14日釋出情況說明，近日，該局關注到網路平臺出現關於樂東縣2026年教師公開招聘面試成績存在篡改問題的相關言論，網上釋出資訊稱某考生面試當場簽字成績與公示成績不一致，質疑招聘工作公平性，認為考試存在內幕黑幕。對此，教育局高度重視，第一時間對該考場全部面試檔案、考官評分表、統分記錄、音影片資料進行逐一複核，現就有關情況說明如下：本次招聘面試全流程嚴格按照《海南省事業單位公開招聘工作人員面試工作規則》執行，考官均透過隨機抽籤產生，全程錄音錄影，計分、核分、監督崗位各司其職，所有檔案完整歸檔，未發現違規篡改分數、人為操控成績等情況。如各位考生對本人成績存有疑問，可在公示期內，按招聘公告規定渠道提交書面複核申請，教育局將依規開展成績複核。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608143842034165",
-      "time": "2026-08-14 22:01:10",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "密西根大學8月美國消費者5年通脹預期初值為3.3%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608143842033947",
-      "time": "2026-08-14 22:00:23",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國8月一年期通脹率預期初值為4.3%，預估4.2%，前值4.2%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608143842033837",
-      "time": "2026-08-14 22:00:20",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國8月密歇根大學消費者信心指數初值為51，預估為55，前值為55.2。"
-    },
-    {
-      "id": "5041698",
-      "time": "2026-08-14 22:00:18",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月商業庫存月率 0%，預期0.1%，前值由0.30%修正為0.4%。"
-    },
-    {
-      "id": "mkt:01a00092-d4c8-7aab-9040-95e79ac78da1",
-      "time": "2026-08-14 22:00:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US Aug initial 5-10y inflation expectations 3.3pct; consensus 3.3pct; prior 3.30pct."
-    },
-    {
-      "id": "5041697",
-      "time": "2026-08-14 22:00:15",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國8月密歇根大學消費者信心指數初值 51，預期54.5，前值55.2。"
-    },
-    {
-      "id": "mkt:01a00092-cce3-7aab-9040-89c7f2abb813",
-      "time": "2026-08-14 22:00:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US preliminary one-year inflation expectations for August 4.3% vs 4.2% expected; prior 4.20%."
-    },
-    {
-      "id": "mkt:01a00092-c10f-7aab-9040-86d59bd3a2f3",
-      "time": "2026-08-14 22:00:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US preliminary Aug U. of Michigan consumer sentiment index 51, versus 54.5 expected and 55.2 prior."
-    },
-    {
-      "id": "5041696",
-      "time": "2026-08-14 22:00:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月一年期通脹率預期初值 4.3%，預期4.2%，前值4.20%。"
-    },
-    {
-      "id": "mkt:01a00092-b3bb-7aab-9040-767763257e16",
-      "time": "2026-08-14 22:00:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US Aug University of Michigan preliminary current conditions index 51.8 vs estimate 55.0; prior 54.8."
-    },
-    {
-      "id": "mkt:01a00092-b3c9-7aab-9040-7c3ebd4a5e65",
-      "time": "2026-08-14 22:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. University of Michigan preliminary August consumer expectations index 50.6, est. 55.2, prior 55.4."
-    },
-    {
-      "id": "mkt:01a00092-b292-7aab-9040-69147165e2b0",
-      "time": "2026-08-14 22:00:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US June business inventories unchanged MoM at 0.0% vs 0.1% expected; May revised up from 0.3% to 0.4%."
-    },
-    {
-      "id": "mkt:01a00092-9660-7aab-9040-5ec9294f49cc",
-      "time": "2026-08-14 22:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Expected Changes in Prices During the Next Five Years (Aug) | actual 3.3% | consensus 3.3% | previous 3.30%"
-    },
-    {
-      "id": "mkt:01a00092-9664-7aab-9040-659011bb5665",
-      "time": "2026-08-14 22:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Expected Changes in Prices During the Next Year (Aug) | actual 4.3% | consensus 4.2% | previous 4.20%"
-    },
-    {
-      "id": "mkt:01a00092-90fc-7aab-9040-548f19831be8",
-      "time": "2026-08-14 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Consumer Expectations Index Flash (Aug) | actual 50.6 | consensus 55.2 | previous 55.4"
-    },
-    {
-      "id": "mkt:01a00092-90fb-7aab-9040-48426266e64e",
-      "time": "2026-08-14 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Current Conditions Index Flash (Aug) | actual 51.8 | consensus 55 | previous 54.8"
-    },
-    {
-      "id": "mkt:01a00092-90fa-7aab-9040-403deb584983",
-      "time": "2026-08-14 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | University of Michigan Consumer Sentiment Index Flash (Aug) | actual 51 | consensus 54.5 | previous 55.2"
-    },
-    {
-      "id": "mkt:01a00092-90a9-7aab-9040-399bb33dc371",
-      "time": "2026-08-14 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Business Inventories (MoM) (Jun) | actual 0% | consensus 0.1% | previous 0.30%"
-    },
-    {
-      "id": "5041695",
-      "time": "2026-08-14 21:59:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國野火九成火情由人為引發】法國內政部14日宣佈，自7月以來，全國已有474人因涉嫌蓄意或過失引發野火被捕，其中包括183名未成年人。 據官方初步統計，今年入夏以來，法國各地野火過火面積累計已達約12萬公頃。九成火情由人為引發。目前，西南部朗德省、西北部伊勒－維萊訥省等地的新發野火仍未撲滅。 入夏後接連來襲的熱浪也助長了野火的發生。當前法國正遭受新一輪極端高溫天氣，14日，本土96個省中有75個省釋出高溫橙色警報。 連續作業令法國消防力量不足的問題凸顯。本月13日，9個法國消防員工會聯合號召消防員罷工，要求法國政府解決消防資金不足、人手短缺、消防員職業健康缺乏保障等問題。（新華社）"
-    },
-    {
-      "id": "5041694",
-      "time": "2026-08-14 21:58:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外交部長拉夫羅夫談俄羅斯的影子船隊： 歐盟很久以前就發明了這個概念。它未出現在任何法律檔案中。 他們實質上禁止了與俄羅斯能源資源的貿易，所有拒絕服從歐盟的船隻，無論其懸掛何種旗幟，都被宣佈為“影子船隊”的一部分。 他們實質上不僅允許自己攔截和檢查這些船隻，還允許扣押其貨物、出售貨物，並將所得款項轉給烏克蘭，以便其繼續加強其政權。"
-    },
-    {
-      "id": "mkt:01a00091-2196-7aab-9040-30570587fe3c",
-      "time": "2026-08-14 21:58:26",
-      "tags": [
-        "MKT News",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "【CATL named exclusive supplier to Australia’s largest operating battery storage project in NEM】CATL said Quinbrook’s Supernode energy storage Phase II has entered commercial operation and Phase III’s A$469m financing has closed. Phases I–II (520MW/1,858MWh) are now fully commercial; after Phase III the project’s total capacity will exceed 3GWh, making it the largest operating battery storage asset in Australia’s National Electricity Market (NEM). CATL is the project’s sole supplier; Phase III will exclusively deploy CATL’s Tianheng storage system and CATL and Quinbrook will jointly develop 8‑hour long-duration storage solutions. CATL has installed a unified standardized technical platform at the site to remove multi-phase equipment compatibility risks and support full-cycle safety and efficient operations."
-    },
-    {
-      "id": "5041693",
-      "time": "2026-08-14 21:58:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【嘉興升級釋出暴雨紅色預警】嘉興市氣象臺2026年08月14日21時40分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：目前秀洲區新塍鎮思古橋村站降雨已達60毫米以上，預計未來2小時秀洲區新塍鎮強降雨將持續，累計雨量將達到80-100毫米，請加強防範。"
-    },
-    {
-      "id": "5041692",
-      "time": "2026-08-14 21:57:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元上漲至三個月高點1.3561。"
-    },
-    {
-      "id": "mkt:01a00090-62e5-7aab-9040-2c0abbc637de",
-      "time": "2026-08-14 21:57:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "GBP/USD climbed to a three-month high of 1.3561."
-    },
-    {
-      "id": "5041691",
-      "time": "2026-08-14 21:57:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【整治修復海岸線207千米 北海區海洋生態保護修復公報釋出】8月14日，自然資源部北海局正式釋出《2025年北海區海洋生態保護修復公報》。公報顯示，“十四五”期間，北海區累計完成整治修復海岸線207千米、濱海溼地超2.7萬公頃。據介紹，公報由北海局會同三省一市及兩個計劃單列市自然資源（海洋）主管部門聯合編制。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0008e-fbcd-7aab-9040-21da43a84efc",
-      "time": "2026-08-14 21:56:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Consumer Financial Protection Bureau (CFPB) will stop publishing unverified consumer complaint narratives."
-    },
-    {
-      "id": "mkt:01a0008e-bd62-7aab-9040-1c0e35e4884e",
-      "time": "2026-08-14 21:55:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Gates in talks with SK and HD Hyundai on SMRs, targeting AI power demand】Bill Gates, founder of TerraPower, held meetings on the 14th with SK Group and HD Hyundai leaders to discuss cooperation on small modular reactors (SMRs) and power supply for AI data centers. In talks with SK’s chairman he focused on addressing rising electricity demand from AI data centers, next‑generation nuclear industry development and potential U.S.-Korea nuclear cooperation. SK and SK Innovation jointly invested $250m in TerraPower in 2022 and are TerraPower’s second-largest shareholders; SK Innovation on the same day signed a cooperation deal with TerraPower on a sodium‑cooled SMR. Gates also met HD Hyundai’s chairman and the CEO of Hyundai Engineering to review progress on previously signed commercial agreements; in May the three firms agreed to jointly commercialize sodium‑cooled SMRs and establish a division of labor."
-    },
-    {
-      "id": "5041690",
-      "time": "2026-08-14 21:55:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧德時代獨供澳大利亞國家電力市場規模最大的在運電池儲能專案，三期採用天恆儲能系統】寧德時代8月14日釋出訊息，近日，由Quinbrook開發的澳大利亞Supernode儲能專案二期正式投入商業運營，三期4.69億澳元融資同步完成交割。至此，專案一、二期（520MW/1858MWh）已全面商業化運營。三期建成後，總儲能規模將突破3GWh，成為澳大利亞國家電力市場（NEM）規模最大的在運電池儲能專案。"
-    },
-    {
-      "id": "5041689",
-      "time": "2026-08-14 21:55:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【盛弘股份：充換電業務近年來保持穩定增長 海外市場是業務持續拓展的重要增長曲線之一】盛弘股份8月14日接受機構調研時表示，公司充換電業務近年來保持穩定增長，海外市場是業務持續拓展的重要增長曲線之一。目前公司已在歐洲、東南亞等區域形成一定市場積累，產品已陸續透過多地區的認證，為進入更多海外市場打下基礎。公司會積極拓展其他新興市場，並在部分海外重點市場設立子公司及本地服務團隊，提升產品本地化適配能力和售後響應速度。隨著新能源車出口資料的不斷提升，海外新能源車的存量不斷提升，對充電基礎設施的需求也日益增長。伴隨著海外相關政策和補貼的持續落地，公司會圍繞海外客戶需求加快推出適配產品，穩步擴大海外市場覆蓋範圍和業務規模。"
-    },
-    {
-      "id": "5041688",
-      "time": "2026-08-14 21:55:08",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金： 本輪迴調的本質，是AI產業趨勢、美元流動性和中國經濟這三大變數由推動轉為約束 】中金公司釋出研報稱，7月以來AI產業鏈引領全球股市回撥，市場對牛市的分歧加大。2026年上半年全球股票市場強勁上漲，但7月以來AI產業鏈引領全球股市共振回撥，市場對於牛市持續性的質疑聲音明顯增多。我們認為本輪迴調的本質，是AI產業趨勢、美元流動性和中國經濟這三大變數，從此前相對積極的“三重支撐”階段性變為不利於市場的“三重約束”，市場開始重新檢驗此前的樂觀假設。本篇報告我們將重點解析“三重約束”未來的演變方向，以及對於市場的展望，並提出當下在市場驗證期的應對策略。"
-    },
-    {
-      "id": "5041687",
-      "time": "2026-08-14 21:53:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國國債跌幅擴大，10年期國債收益率上升5個基點至3.18%。"
-    },
-    {
-      "id": "5041684",
-      "time": "2026-08-14 21:52:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元兌美元日內漲幅達0.5%，現報1.1584。"
-    },
-    {
-      "id": "mkt:01a0008a-f76b-7aab-9040-13b04fb18aa0",
-      "time": "2026-08-14 21:51:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "EUR/USD rose 0.50% intraday to 1.1584."
-    },
-    {
-      "id": "te:markets:575497",
-      "time": "2026-08-14 21:51:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Slips Amid Middle East Tensions — The Ibovespa shed near 1% to below 166,000 on Friday, extending its seven-month low as the impasse in negotiations to end the war in the Middle East pushed oil prices higher. Oil and gas prices were on track for strong weekly gains as the US threatened to intensify economic pressure on Iran, including by extending the naval blockade. Energy-driven inflationary pressures weighed on financials and other credit-sensitive shares. Banco do Brasil, B3 and Caixa Econômica shed near 1%, while Itaúsa lost 0.5%. Utilities also traded lower, with Sabesp down over 1% and CPFL losing over 3% despite reporting an 21.3% annual rise in net profit, as growth in its industrial sector was modest and net debt rose 19.2%. Meanwhile, Cemig gained nearly 3% after reporting an 8.8% rise in EBITDA. Elsewhere, Raízen (-4%) posted a net loss in the first quarter of fiscal 2026/27. Braskem (+3%) reported net income of R$3.33 billion, reversing a loss. MBRF (+5%) reported net income of R$69 million in 2Q26."
-    },
-    {
-      "id": "5041682",
-      "time": "2026-08-14 21:50:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方紅資產管理即將發售首隻ETF產品】8月14日晚，東方紅資產管理釋出公告稱，東方紅資產管理旗下的首隻ETF產品東方紅中證雲端計算50ETF將於8月20日正式發售。東方紅資產管理是繼興證全球基金、交銀施羅德基金之後，又一家正式入局ETF的以主動權益見長的基金管理人。隨著8月4日中歐基金完成首隻ETF的申報，國內非貨公募排名前列的主動管理公司基本已補齊被動投資拼圖。有業內人士指出，這一佈局並非行業跟風，而是基於機構的戰略定位和客戶端日益多元化的配置需求。對於基金管理人而言，佈局ETF一方面是完善公司產品線戰略佈局的必然操作，透過被動工具提升服務客戶的廣度與深度，另一方面，在可預期的創新產品規劃中，ETF已成為未來越來越多基金公司競爭新產品的“入場券”，為企業下一階段探索多元化策略、佈局更多創新業務奠定堅實基石。（中證報）"
-    },
-    {
-      "id": "mkt:01a00089-87af-7aab-9040-0af6fdab7147",
-      "time": "2026-08-14 21:50:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US Jun business inventories MoM, preliminary Aug University of Michigan consumer sentiment index and preliminary 1-year inflation expectations will be released in 10 minutes."
-    },
-    {
-      "id": "5041681",
-      "time": "2026-08-14 21:49:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府正在針對聯邦政府中的另一項DEI政策採取行動。"
     }
   ]
 }
