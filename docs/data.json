@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-22 05:31:24",
-  "count": 16150,
+  "updated": "2026-08-22 05:35:23",
+  "count": 16151,
   "items": [
+    {
+      "id": "5052817",
+      "time": "2026-08-22 05:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datafolha 民調：（巴西）首輪投票盧拉支援率 39%，弗拉維奧・博索納羅 33%。"
+    },
+    {
+      "id": "5052816",
+      "time": "2026-08-22 05:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "BITARI申請將其普通股在納斯達克全球市場掛牌上市，股票程式碼為“BIAI”，這一申請已提交美國證券交易委員會。"
+    },
+    {
+      "id": "5052815",
+      "time": "2026-08-22 05:32:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守92美元/桶，日內跌0.05%。"
+    },
     {
       "id": "5052814",
       "time": "2026-08-22 05:27:16",
@@ -147804,22 +147829,6 @@
         "Importance 1"
       ],
       "text": "Brazilian Real Weakens to One-Month Low — The Brazilian real weakened to 5.21 per USD, reaching its weakest level in more than a month in mid-August as investors continued to reduce their exposure to Brazilian assets. The market is pricing in uncertainty over the next government and its economic agenda. The perception that the next government will struggle to implement a consistent fiscal adjustment is beginning to translate into a higher risk premium in asset prices. Concerns are increasing as elections approach and foreign capital outflows accelerate. Banks and brokerages have also reduced their exposure to the real, unwinding currency positions in favor of other emerging-market currencies. The move intensified following a more pessimistic view of the local market from JPMorgan. The bank downgraded its recommendation on Brazilian assets from overweight to neutral, citing the Selic easing cycle, the electoral outlook and deteriorating credit conditions."
-    },
-    {
-      "id": "5042007",
-      "time": "2026-08-15 05:32:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic二季度營收超115億美元 較去年同期增長至少14倍】據報道，Anthropic第二季度初步營收超過115億美元，較上年同期的7.87億美元增長了至少14倍，也高於今年第一季度的47.3億美元，公司當季已實現調整後營業利潤為正。Anthropic曾一度在AI競賽中處於追趕位置，但得益於越來越多專業人士使用其軟體來簡化程式設計等工作流程，公司業務增長明顯提速。今年5月，Anthropic的年化營收已突破470億美元。作為對比，OpenAI此前披露的年化營收超過400億美元，但兩者的計算口徑可能不完全一致。人工智慧賽道競爭升溫，今年迄今IPO融資已達2564億美元，創2021年來新高（不含SPAC等金融工具）。"
-    },
-    {
-      "id": "mkt:01a00230-681a-7aab-9046-60c35309175b",
-      "time": "2026-08-15 05:32:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: Canada’s trade minister told an advisory committee that Canada and the US are \"quite far\" from reaching an agreement."
     }
   ]
 }
