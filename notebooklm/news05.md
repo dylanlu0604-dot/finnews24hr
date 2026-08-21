@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 00:45:38_
-_本檔包含 3072 則快訊，約 657203 字_
+_更新時間：2026-08-22 01:40:37_
+_本檔包含 3060 則快訊，約 657547 字_
+
+---
+
+### 2026-08-17 17:54:11  #市場
+
+WTI原油日內漲1%，現報82.30美元/桶。
+
+---
+
+### 2026-08-17 17:54:02  #公司
+
+【金冠電氣：中標南方電網專案約3817.3萬元】金冠電氣公告，公司近日中標南方電網公司2026年主網線路材料第一批框架招標專案，中標35kV-220kV及500kV線路避雷器共2個標包，中標金額約3817.3萬元，約佔公司2025年營業收入的4.62%。該專案已進行中標候選人公示，公司尚未簽訂正式合同，存在不確定性。
+
+---
+
+### 2026-08-17 17:53:55  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude's intraday gain widened to 1.00%, trading at $88.08/bbl.
+
+---
+
+### 2026-08-17 17:53:54  #其他
+
+本田：將於8月20日起恢復埼玉、鈴鹿、四日市工廠的汽車生產。
+
+---
+
+### 2026-08-17 17:53:51  #MKT News #MT.N
+
+ArcelorMittal SA said its plants were operating normally during the attack.
+
+---
+
+### 2026-08-17 17:53:46  #公司
+
+【豐原藥業：控股股東相關方擬轉讓21.53%股份，控制權擬變更】豐原藥業公告，公司控股股東豐原集團的一致行動人安徽省無為製藥廠、馬鞍山豐原企業管理有限公司、蚌埠塗山企業管理有限公司與蚌埠投資集團有限公司簽署股份轉讓協議，蚌埠投資集團擬以協議轉讓方式受讓上述三方合計持有的公司1億股股份（佔公司總股本的21.53%），轉讓總價款為6.41億元。本次交易完成後，公司控股股東將由豐原集團變更為蚌埠投資集團，實際控制人將由李榮傑變更為蚌埠市國資委。
+
+---
+
+### 2026-08-17 17:52:27  #公司
+
+【建設機械：籌劃購買資產事項 股票繼續停牌】建設機械公告稱，公司正在籌劃以發行股份及支付現金方式購買蒲城清潔能源化工有限責任公司100%股權，公司A股股票自2026年8月11日開市起停牌，預計停牌時間不超過10個交易日。截至公告披露日，公司及有關各方正推進本次交易相關工作，編制交易預案，公司股票繼續停牌，預計將於停牌期限屆滿前向上海證券交易所提交相關檔案並申請股票復牌，本次交易尚存在不確定性。
+
+---
+
+### 2026-08-17 17:52:04  #公司
+
+【ST海欽：2026年上半年營收7.96億元 同比增長24.81%】ST海欽公告稱，2026年上半年公司實現營業收入7.96億元，同比增長24.81%；歸屬於上市公司股東的淨利潤2097.80萬元，同比增長141.57%。截至報告期末，公司總資產2.52億元，歸屬於上市公司股東的淨資產8644.87萬元，股東總數8567戶，前十大股東中庚置業集團有限公司所持200萬股股份處於凍結狀態。
+
+---
+
+### 2026-08-17 17:51:12  #公司
+
+【易明醫藥：首次實施公司股份回購】易明醫藥公告稱，2026年8月17日，公司首次透過股份回購專用證券賬戶以集中競價交易方式回購公司股份12.50萬股，佔公司當前總股本0.07%，最高成交價17.91元/股，最低成交價17.79元/股，成交總金額223.01萬元（不含交易費用）。本次回購股份擬用於股權激勵或員工持股計劃，此前公司審議透過的回購方案擬動用自有資金3500萬元至7000萬元，回購股份價格不超過25.74元/股，實施期限自2026年8月13日董事會審議透過之日起12個月內，本次首次回購符合相關法規及既定回購方案要求。
+
+---
+
+### 2026-08-17 17:49:37  #國際
+
+安賽樂米塔爾：確認烏克蘭工廠遭導彈襲擊，造成2人死亡、13人受傷。
+
+---
+
+### 2026-08-17 17:49:27  #國際
+
+安賽樂米塔爾就其烏克蘭工廠遭導彈襲擊發表宣告。
+
+---
+
+### 2026-08-17 17:49:03  #公司
+
+【國藥一致：2026年半年度淨利潤6.06億元，同比下降8.97%】國藥一致公告，2026年半年度實現營業收入362.66億元，同比下降1.44%；歸屬於上市公司股東的淨利潤6.06億元，同比下降8.97%；扣除非經常性損益後的淨利潤5.99億元，同比下降6.84%。
+
+---
+
+### 2026-08-17 17:48:48  #公司
+
+【一品紅：創新藥APH04935片獲臨床試驗批准通知書】一品紅公告，公司全資子公司廣州一品紅製藥有限公司自主研發的創新藥物APH04935片已獲得國家藥品監督管理局批准，並收到《藥物臨床試驗批准通知書》，同意本品開展體重控制適應症的臨床試驗，將於近期開展臨床試驗。該藥品為境內外均未上市的化學藥品1類創新藥，是一種高活性、高選擇性的小分子GLP-1R激動劑，擬用於控制體重及長期減重管理。
+
+---
+
+### 2026-08-17 17:48:19  #公司
+
+【*ST瑞茂：控股股東所持股份被輪候凍結】*ST瑞茂公告稱，公司控股股東鄭州瑞茂通供應鏈有限公司本次被輪候凍結股份60129.67萬股，佔其所持股份數的108.45%，佔公司總股本的55.34%。截至公告披露日，鄭州瑞茂通及其一致行動人合計持有公司68837.18萬股股份，佔公司總股本的63.35%；累計被司法標記股份45565.00萬股，累計被司法凍結股份13004.33萬股，累計被輪候凍結股份183.30億股，合計佔其所持股份數的2747.93%，佔公司總股本的1740.79%。本次輪候凍結暫未對公司控制權、股權結構等產生重大影響，後續若相關股份被處置，或存在影響公司控制權穩定性的風險。
+
+---
+
+### 2026-08-17 17:48:13  #公司
+
+【大恆科技：擬以1.1億元受讓中石光芯5%股權，推動公司切入光晶片領域】大恆科技公告，公司擬以自有資金人民幣1.1億元受讓浙江躍嶺股份有限公司所持有的中石光芯（石獅）有限公司5%的股權，對應註冊資本人民幣1206.18萬元。本次投資完成後，公司將持有中石光芯5%股權，不構成關聯交易及重大資產重組，無需經公司董事會及股東會審議批准。本次投資旨在依託公司工業機器視覺技術積累，並藉助中石光芯在光通領域的研發能力，推動公司切入光晶片領域。
+
+---
+
+### 2026-08-17 17:47:43  #公司
+
+【共進股份：目前公司800G高速交換機產品主要客戶為國內品牌商，收入佔比較小】共進股份股票交易風險提示公告，公司關注到近日800G高速率資料中心交換機概念受市場關注度較高。目前公司800G高速交換機產品主要客戶為國內品牌商，其收入佔公司主營業務收入比例較小，對公司報表短期影響有限。
+
+---
+
+### 2026-08-17 17:47:37  #公司
+
+【寧德時代明年起新供應商准入新增“碳足跡”強制性指標】8月17日，寧德時代在2026核心運營碳中和釋出會上宣佈，2025年底已實現核心運營碳中和，成為全球唯一在TWh級出貨規模下實現核心運營碳中和的電池企業。同時，該公司首次系統披露面向2035年的價值鏈碳中和行動路徑。
+
+---
+
+### 2026-08-17 17:46:48  #公司
+
+周生生：預計上半年來自持續經營業務的本公司擁有人應占溢利錄得介乎21億港元至22億港元，而2025年同期為9.1億港元。
+
+---
+
+### 2026-08-17 17:46:19  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+【Greece plans to prepay €13bln of debt in 2026】Greece plans to prepay roughly €13bln ($15.1bln) in 2026, aiming to cut its debt stock below Italy’s by year-end, a source said. Repayments would include about €2.5bln of European Stability Mechanism (ESM) loans and a €2.2bln bond maturing in 2027; Athens also plans to run down €1.2bln of T-bills by Dec. 31. The move, financed by a large budget surplus and ample liquidity, follows a €6.9bln rescue-loan repayment in June that has pushed Greece’s 10-year yield below those of Italy, France and the UK.
+
+---
+
+### 2026-08-17 17:46:11  #公司
+
+【吉利汽車安聰慧：“要做實做強做大0175”】自8月18日起，安聰慧接替李書福出任吉利汽車控股有限公司董事會主席。在8月17日下午舉辦的吉利汽車2026年中期業績釋出會上，安聰慧表示，將關停並轉冗餘公司和專案，推動更多具有價值的業務併入上市公司，要做實做強做大0175（指港股上市公司）。“只要是有利於‘一個吉利’戰略，只要有利於0175發展，吉利控股都會全力支援。”
+
+---
+
+### 2026-08-17 17:45:29  #公司
+
+【招商證券：擬向招證國際增資不超過76億港元】招商證券公告，公司第八屆董事會第三十六次會議審議透過《關於向招商證券國際有限公司增資的議案》，同意向招證國際增資不超過76億港元（或其他等值貨幣，摺合不超過10億美元），最終金額以監管機構審批為準，並根據公司實際情況一次或分批次增資；同時同意由招證國際向其全資子公司增資不超過60億港元。
+
+---
+
+### 2026-08-17 17:45:24  #公司
+
+帝國石油公司在得克薩斯州海恩斯維爾西部區塊成功鑽探出一口深度達21006英尺的油井，達成戰略里程碑，將加速營收增長。
+
+---
+
+### 2026-08-17 17:44:30  #其他
+
+【軟通動力與華為釋出“AI賦能產業叢集平臺”聯合解決方案】據軟通動力訊息，近日，華為中國行2026·廣西AI賦能新型工業化峰會在南寧舉辦。會上，軟通動力與華為釋出“AI賦能產業叢集平臺”聯合解決方案，面向廣西冶金、有色金屬、汽車製造、裝備製造、新材料等優勢產業叢集，提供全鏈路AI數字化轉型能力支撐。
+
+---
+
+### 2026-08-17 17:43:38  #公司 #市場
+
+【上海國際能源交易中心：對部分客戶採取限制開倉監管措施】上海國際能源交易中心釋出關於對部分客戶採取限制開倉監管措施的公告：2026年8月17日，2組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到上海國際能源交易中心處理標準。上述客戶交易行為違反《上海國際能源交易中心異常交易行為管理細則》第16條之規定，上海國際能源交易中心決定對相關客戶在相應品種上採取限制開倉的監管措施。
+
+---
+
+### 2026-08-17 17:43:27  #MKT News #Market Themes #China EV Leaders
+
+【Geely Auto vice chairman Gui Shengyue says management shake-up signals move from founder-driven to institution- and team-driven maturity】At Geely Auto's 2026 mid-year results briefing on the 17th, vice chairman Gui Shengyue said the large-scale management reshuffle is a strategic organizational evolution. He characterised Li Shufu stepping down as board chairman and An Conghui's succession as a de-familyisation move that shifts Geely from a founder-driven growth phase to institution- and team-driven governance, reducing reliance on individual authority, strengthening organisational systems and talent pipelines, and increasing transparency and more scientific management — a change he said should remove internal promotion ceilings and help deliver stronger shareholder returns.
+
+---
+
+### 2026-08-17 17:43:22  #MKT News
+
+Poland's finance ministry said the budget deficit stood at 141 billion zloty as of end-July.
+
+---
+
+### 2026-08-17 17:43:19  #MKT News
+
+KYODO reports the JAPAN DEFENCE MINISTRY is considering integrating US-developed AI into Japan Self-Defense Forces command-and-control systems to support battlefield analysis, target assessment and command issuance to accelerate decision-making. The ministry also plans to adopt domestically developed systems to avoid overreliance on a single country or vendor.
+
+---
+
+### 2026-08-17 17:42:46  #公司
+
+【澳洋健康：上半年歸母淨利潤2416.47萬元，同比下降23.42%】澳洋健康公告，公司上半年實現營業收入8.23億元，同比下降8.89%；歸屬於上市公司股東的淨利潤2416.47萬元，上年同期3155.59萬元，同比下降23.42%；基本每股收益0.03元/股。報告期內，公司業績主要受到毛利下降導致營業利潤減少的影響。
+
+---
+
+### 2026-08-17 17:42:29  #公司
+
+【聯想集團：提前贖回4.5億美元可換股債券，贖回價為本金100.0%】聯想集團公告，公司已於2026年8月17日發出贖回通知，將選擇於2026年9月16日贖回全部尚未償還的2029年到期2.50%可換股債券，贖回價為其本金額的100.0%，連同應計利息。截至公告日，尚未償還本金總額為4.5億美元，約佔原發行總額的66.66%。換股期將於2026年9月7日結束，換股價為每股8.37港元。
+
+---
+
+### 2026-08-17 17:42:07  #國際
+
+菲律賓下令8月18日首都地區政府部門實行遠端辦公。
+
+---
+
+### 2026-08-17 17:41:28  #公司
+
+【浙江東方：2026年半年度營收4.78億元 同比增5.94%】浙江東方公告稱，2026年半年度實現營業收入4.78億元，同比增長5.94%；歸屬於上市公司股東的淨利潤8.77億元，同比增長115.47%。本報告期不進行利潤分配及資本公積轉增股本。截至報告期末公司總資產667.69億元，歸屬於上市公司股東的淨資產187.56億元。
+
+---
+
+### 2026-08-17 17:41:15  #其他
+
+市場訊息：德國電信擬以約10億歐元收購Fiberhost與INEA。
+
+---
+
+### 2026-08-17 17:40:44  #公司
+
+【瑜欣電子：2026年半年度營收3.83億元 淨利同比降49.23%】瑜欣電子公告稱，2026年半年度實現營業收入3.83億元，同比增長8.04%；歸屬於上市公司股東的淨利潤5092.90萬元，同比下降49.23%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 17:40:15  #公司
+
+【遼寧能源：選舉任長宏為董事長及戰略委員會召集人】遼寧能源公告，公司於2026年8月17日召開第十二屆董事會第三次會議，審議透過選舉任長宏先生擔任公司第十二屆董事會董事長（法定代表人），並增補其為第十二屆董事會戰略委員會召集人，任期均自本次董事會審議透過之日起至第十二屆董事會屆滿時止。
+
+---
+
+### 2026-08-17 17:40:05  #公司
+
+【中光防雷：取得一項氧化鋅壓敏電阻器相關發明專利】中光防雷公告稱，公司近期獲得國家智慧財產權局頒發的一項發明專利證書，專利名稱為“一種瓷料配方、一種氧化鋅壓敏電阻器及其製備方法”，專利號為ZL 2024 1 0323184.9，申請日為2024年3月20日，專利權期限為20年。該專利可將氧化鋅壓敏電阻器正常工作環境溫度從85℃提升至125℃，提升其高溫環境下的可靠性。
+
+---
+
+### 2026-08-17 17:40:02  #市場 #焦點
+
+【南向資金今日淨買入30.77億港元】港股通（滬）方面，智譜、中芯國際分別獲淨買入17.83億港元、5.84億港元；華虹宏力淨賣出額居首，金額為8.19億港元；港股通（深）方面，中芯國際、騰訊控股分別獲淨買入11.90億港元、2.80億港元；長飛光纖光纜淨賣出額居首，金額為1.43億港元。
+
+---
+
+### 2026-08-17 17:39:57  #公司
+
+【蘇豪弘業：獲得政府補助751.22萬元】蘇豪弘業公告稱，公司近日收到與收益相關的政府補助款751.22萬元，該補助佔公司最近一個會計年度經審計歸屬於母公司淨利潤的15.56%，將計入當期損益。
+
+---
+
+### 2026-08-17 17:39:56  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Brent crude traded above $88/barrel, up 0.93% intraday.
+
+---
+
+### 2026-08-17 17:39:42  #公司
+
+【寧夏建材：擬斥1億元-2億元回購公司股份】寧夏建材公告稱，公司擬於2026年8月25日召開2026年第三次臨時股東會，審議兩項議案：一是以集中競價交易方式回購公司A股股份，回購資金總額區間為1億元至2億元，回購價格上限19.47元/股，回購實施期限自股東會審議透過之日起3個月內，回購股份後續將予以登出並減少公司註冊資本，資金來源為公司自有資金。二是審議控股股東中國建材股份、實際控制人中國建材集團變更同業競爭承諾履行期限的議案，擬將原承諾的同業競爭問題解決期限自本次股東會審議透過之日起再延期2年，其餘承諾內容保持不變。
+
+---
+
+### 2026-08-17 17:39:30  #公司 #國際
+
+【英超利物浦迎來資本新玩家】據美聯社報道，英超利物浦俱樂部的所有者——美國芬威體育集團近日（14日）宣佈，已將其持有的利物浦隊約30%的股份，出售給一家名為“1892控股”的財團，其中投資方包括美國亞馬遜公司創始人貝索斯。業內人士預計，這筆交易價值約為16億英鎊。據法新社報道，業內人士估算，當前利物浦隊的估值約為50億至60億英鎊。據悉，芬威體育集團於2010年以約3億英鎊的價格收購了利物浦隊，該集團還擁有美職棒波士頓紅襪隊。另外，此次交易標誌著貝索斯首次涉足足球領域。根據美國《福布斯》統計，貝索斯淨資產超2500億美元。（央視財經）
+
+---
+
+### 2026-08-17 17:39:07  #MKT News #Star Stocks #Tencent #00700.HK #Impact bullish
+
+HKEX filing shows Tencent Holdings (00700.HK) repurchased 673,000 shares on Aug 17 for HK$300.7 mln.
+
+---
+
+### 2026-08-17 17:38:48  #公司
+
+【騰訊控股：8月17日回購67.3萬股，耗資約3.01億港元】騰訊控股公告，公司於2026年8月17日購回67.3萬股股份，每股購回價介於442.6港元至450港元，合計付出價格總額約3.01億港元。
+
+---
+
+### 2026-08-17 17:38:44  #國際
+
+【印尼7.7級地震死亡人數升至68人】根據印尼國家抗災署當地時間17日釋出的最新資料，目前印尼東努沙登加拉省7.7級地震造成的死亡人數已升至68人，另有213人受傷。其中芒加萊縣遇難人數最多，有26人死亡。據中國地震臺網正式測定，當地時間15日早上，印度尼西亞弗洛勒斯島附近海域發生里氏7.7級地震，震源深度20公里，目前地震引發的海嘯預警已解除。（央視新聞）
+
+---
+
+### 2026-08-17 17:38:17  #公司
+
+【新石器無人車在天津成立新科技公司 註冊資本500萬】天眼查App顯示，新石器途翼（天津）科技有限公司於2026年8月13日成立，法定代表人為李子夷，註冊資本500萬元人民幣，登記狀態為存續。股權資訊顯示，該公司由新石器無人車關聯公司新石器慧通科技股份有限公司全資持股，認繳出資500萬元人民幣，企業型別為有限責任公司（法人獨資）。其經營範圍涵蓋人工智慧應用軟體開發、人工智慧基礎軟體開發、人工智慧理論與演算法軟體開發、汽車零配件批發、計算機及通訊裝置租賃、國內貨物運輸代理及外賣遞送服務等。
+
+---
+
+### 2026-08-17 17:37:53  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IRNA reported NIOC CEO said fuel production and supply continued during the conflict and were not interrupted.
+
+---
+
+### 2026-08-17 17:37:31  #公司
+
+【華資實業：南傳私募擬減持不超過3%股份】華資實業公告，持股5.82%的股東廣東南傳私募基金管理有限公司（代表“南傳烽火5號私募證券投資基金”）因基金自身經營管理需要，擬於2026年9月8日至2026年12月6日期間，透過集中競價及大宗交易方式減持不超過1454.8萬股，即不超過公司總股本的3%。其中，集中競價減持不超過484.93萬股（佔總股本1%），大宗交易減持不超過969.86萬股（佔總股本2%）。
 
 ---
 
@@ -18210,354 +18486,5 @@ According to Iran's Mehr News Agency, Yemeni military sources said the Houthi at
 ### 2026-08-15 01:41:06  #MKT News #Market Themes #AI Revolution
 
 SpaceXAI said it launched its Grok 4.6 model in GitHub Copilot.
-
----
-
-### 2026-08-15 01:40:15  #其他
-
-SpaceXAI： 在 GitHub Copilot 中上線 Grok 4.6 模型。
-
----
-
-### 2026-08-15 01:39:50  #國際
-
-【美被曝對古巴策略轉向強化制裁 軍事選項淡出】當地時間14日獲悉，知情人士稱，特朗普政府對古巴的策略正越來越側重於加強制裁和經濟施壓，而不是透過軍事力量推翻古巴共產黨領導層。知情人士表示，美國目前的重點是切斷古巴政府的所有收入來源，而非採取類似今年1月突襲並強行控制委內瑞拉領導人馬杜羅的軍事或特種部隊行動。（央視新聞）
-
----
-
-### 2026-08-15 01:39:27  #其他
-
-X產品負責人尼基塔·比爾：上週我們創下了歷史最高下載量，iOS端月活躍使用者數也超過了以往任何一年。X是當前規模下增長最快的社交網路。
-
----
-
-### 2026-08-15 01:39:23  #市場
-
-洲際交易所柴油：截至 8 月 11 日當週，投機者淨多頭頭寸增加 2358 手，至 90715 手合約。
-
----
-
-### 2026-08-15 01:39:17  #MKT News
-
-ICE: For the week ended Aug 11, speculative net-long positions in natural gas rose by 2,358 contracts to 90,715 contracts.
-
----
-
-### 2026-08-15 01:36:10  #MKT News
-
-X product head said the platform posted its highest-ever downloads last week, iOS monthly active users exceeded any prior year, and X is the fastest-growing social network at its current scale.
-
----
-
-### 2026-08-15 01:35:08  #其他
-
-薩巴通訊社援引軍方訊息：此次襲擊是葉門方面對沙特戰機闖入薩達省東北部領空、侵犯本國主權行為作出的回應。
-
----
-
-### 2026-08-15 01:34:31  #市場
-
-洲際交易所布倫特原油：截至 8 月 11 日當週，投機者淨多頭頭寸增加 76026 手，至 240748 手合約。
-
----
-
-### 2026-08-15 01:34:24  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-ICE data: speculators' net long positions in Brent crude rose by 76,026 contracts to 240,748 in the week to Aug. 11.
-
----
-
-### 2026-08-15 01:33:45  #國際
-
-【報道：加拿大與美國貿易談判涉及關鍵礦產和國防問題】加拿大《環球郵報》援引瞭解談判情況的三名加方訊息人士和一名美方訊息人士報道稱，加拿大和美國在持續進行的貿易談判中討論了關鍵礦產和國防問題。一名加方訊息人士和一名美方訊息人士對該報表示，美國要求獲得加拿大關鍵礦產的優先購買選擇權，要求加拿大完成F-35戰鬥機的採購，要求加拿大購買雷達飛機等美國技術，作為加入美國總統特朗普“金穹”導彈防禦系統的一部分，而且美國還要求就未來石油和天然氣供應獲得某種保障。上述美方訊息人士表示，一個可能的方案是，加拿大私下作出完成F-35採購的非正式承諾，正式宣佈則推遲至第二階段協議達成時。
-
----
-
-### 2026-08-15 01:27:17  #MKT News #Macro & Rates #US Economy
-
-US President Trump said the economy is performing incredibly well.
-
----
-
-### 2026-08-15 01:26:43  #MKT News #Market Themes #The Trump Trade
-
-US President Trump departed Joint Base Andrews and is en route to Garden City, New York.
-
----
-
-### 2026-08-15 01:26:04  #國際
-
-美國總統唐納德・特朗普離開安德魯斯聯合基地，啟程前往紐約州加登城。
-
----
-
-### 2026-08-15 01:22:49  #MKT News
-
-Russian Defence Ministry said its air-defence systems shot down 221 Ukrainian fixed-wing drones in the past 12 hours over several oblasts and in the Black Sea and Sea of Azov.
-
----
-
-### 2026-08-15 01:22:18  #國際
-
-俄羅斯國防部：莫斯科時間當日 8 時至 20 時，俄軍值班防空系統在別爾哥羅德州、布良斯克州、卡盧加州、庫爾斯克州、奧廖爾州、圖拉州、莫斯科州、克拉斯諾達爾邊疆區、克里米亞共和國上空，以及亞速海、黑海海域上空，共攔截並摧毀 221 架烏克蘭固定翼無人機。
-
----
-
-### 2026-08-15 01:16:43  #國際
-
-【以色列總理稱英國為伊斯蘭共和國】近日，以色列總理內塔尼亞胡在以色列軍方電臺的一檔播客節目中，將英國稱為“英國伊斯蘭共和國”。他還稱英國是“首個擁有核武器的伊斯蘭共和國”，強調“以色列要確保不出現第二個（擁有核武器的伊斯蘭共和國），也就是伊朗”。 內塔尼亞胡是在談及英國前首相丘吉爾身為記者的兒子、孫子與以色列的交往時發表這一言論的。他稱，這二人對1967年第三次中東戰爭的報道對以色列有利，可如今這樣的媒體聲音在“英國伊斯蘭共和國”已不復存在。（CCTV國際時訊）
-
----
-
-### 2026-08-15 01:16:31  #MKT News
-
-The Federal Reserve accepted $250 mln from one counterparty in its fixed-rate reverse repo operation.
-
----
-
-### 2026-08-15 01:16:16  #國際
-
-特朗普：經濟形勢好得令人難以置信。
-
----
-
-### 2026-08-15 01:15:26  #國際
-
-特朗普談及亞伯拉罕・林肯號航母：那艘艦艇正在行動。
-
----
-
-### 2026-08-15 01:14:52  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump arrived at Joint Base Andrews in Maryland.
-
----
-
-### 2026-08-15 01:14:43  #國際
-
-特朗普稱讚股市。
-
----
-
-### 2026-08-15 01:14:13  #MKT News #Important #WTI #Impact bullish #Brent
-
-Saba news agency, controlled by Yemen's Houthi movement, said the Houthis used drones to strike an ARAMCO facility in Najran province in southern Saudi Arabia.
-
----
-
-### 2026-08-15 01:14:08  #其他
-
-【尚比亞恢復大選計票】尚比亞選舉委員會於14日18時左右宣佈解除此前的大選計票暫停措施。贊選舉委員會在首都盧薩卡召開新聞釋出會表示，經與安全部門協商，該委員會決定解除計票暫停措施。目前，安全形勢已得到控制，相關部門已採取必要措施，確保選舉工作人員和選票安全。（新華社）
-
----
-
-### 2026-08-15 01:12:38  #其他 #焦點 #國際
-
-葉門胡塞武裝控制的薩巴通訊社援引軍方訊息稱，該組織使用無人機襲擊了沙特阿美位於奈季蘭的設施。
-
----
-
-### 2026-08-15 01:11:46  #國際
-
-美國總統唐納德・特朗普抵達安德魯斯聯合基地。
-
----
-
-### 2026-08-15 01:10:24  #MKT News #Commodities #Industrial Metals
-
-The US Department of Justice (DOJ) and the Commodity Futures Trading Commission (CFTC) are investigating trades by iron-ore trader Radiant World.
-
----
-
-### 2026-08-15 01:08:52  #Trading Economics #Economy #Colombia #Retail Sales YoY #Importance 1
-
-Colombia Retail Sales Beat Expectations — Colombia’s real retail sales rose 14.7% year-on-year in June 2026, slightly above market expectations of 13.6% and accelerating from 11.7% in May. Seventeen merchandise lines recorded positive changes, while two declined. The largest increases were recorded in motor vehicles and motorcycles, mainly for household use (49.8%), other motor vehicles and motorcycles (52.4%), and sound and video equipment and appliances (89.9%). Meanwhile, sales of footwear, leather goods and leather substitutes fell 1.6%, while food sales declined 1.2%.
-
----
-
-### 2026-08-15 01:06:18  #其他
-
-【德國萊茵河考布水位創歷史新低 航運或被“截斷”】德國萊茵河中游考布河段水位降至約8釐米，創下歷史新低，此前最低紀錄為2018年10月的25釐米。考布河段位於萊茵蘭‑普法爾茨州科布倫茨與美因茨之間，是衡量萊茵河航運狀況的重要參考點。德國內河航運協會警告，如果考布水位降至個位數，萊茵河可能無法保持全線通航，南北航運甚至可能被“截斷”。目前考布以南航運已嚴重受限，預報週末水位將進一步跌至5至6釐米。 (央視新聞)
-
----
-
-### 2026-08-15 01:05:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Baker Hughes said the U.S. oil and gas rig count rose to its highest level since March 2025.
-
----
-
-### 2026-08-15 01:03:38  #MKT News #WTI #Impact bearish #Brent
-
-Baker Hughes said U.S. energy companies added drilling rigs for the second time in three weeks.
-
----
-
-### 2026-08-15 01:03:02  #其他
-
-亞塞拜然發生 5 級地震。
-
----
-
-### 2026-08-15 01:02:46  #其他
-
-滙豐銀行：發行 25 億美元、票息 5.243% 的固定 / 浮動利率高階無抵押債券，到期日 2032 年。
-
----
-
-### 2026-08-15 01:01:59  #MKT News #Commodities #Energy
-
-U.S. gas rigs totaled 128 in the week to Aug. 14, up from 124 the prior week.
-
----
-
-### 2026-08-15 01:01:53  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-US oil rig count 455 in week to Aug 14, previous 454.
-
----
-
-### 2026-08-15 01:01:50  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Natural Gas Rig Count (Aug.14) | actual 128 | previous 124
-
----
-
-### 2026-08-15 01:01:46  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Oil Rig Count (Aug.14) | actual 455 | previous 454
-
----
-
-### 2026-08-15 01:01:36  #MKT News #WTI #Impact bearish #Brent
-
-US total rig count for week ended Aug 14: 593 rigs, up from 588 the prior week.
-
----
-
-### 2026-08-15 01:01:31  #國際
-
-美國8月14日當週天然氣鑽井數 128，前值 124。
-美國8月14日當週石油鑽井數 455，前值 454。
-
----
-
-### 2026-08-15 01:01:28  #MKT News #Economic Calendar #Important
-
-United States | Weekly Total Rig Count (Aug.14) | actual 593 | previous 588
-
----
-
-### 2026-08-15 01:01:06  #國際
-
-美國8月14日當週總鑽井數 593，前值 588。
-
----
-
-### 2026-08-15 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.47%，滬銅收漲0.49%，滬鋁收漲0.08%，滬鋅收漲0.41%，滬鉛收跌0.22%，滬鎳收漲0.07%，滬錫收漲0.36%。氧化鋁夜盤收跌0.19%，鋁合金收漲0.24%。不鏽鋼夜盤收跌0.49%。
-
----
-
-### 2026-08-15 00:59:11  #觀點
-
-市場訊息：摩根大通出於監管方面的顧慮，終止了與 Polymarket 的銀行業務合作。
-
----
-
-### 2026-08-15 00:58:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【GOOLSBEE: Needs more evidence to confirm disinflation】Chicago Fed President GOOLSBEE said recent CPI prints are encouraging but inflation remained elevated in May and June; he would need 3-4 months of June-like momentum to be confident prices are returning to a 2% target. He supports holding policy rates in July, called inflation the biggest concern and said the economy and labor market are largely stable. He warned sustained retail weakness would be worrying given consumption’s role in the US economy. He flagged concern about a recent slowdown in productivity growth and said if AI-driven gains prove unsustainable the narrative linking AI and monetary policy would need reassessment. On reducing the number of policy meetings he has no strong view and will wait for a working-group recommendation.
-
----
-
-### 2026-08-15 00:58:31  #市場 #國際
-
-美國司法部、商品期貨交易委員會正在調查鐵礦石貿易商 Radiant World 的交易業務。
-
----
-
-### 2026-08-15 00:58:24  #其他
-
-LME期銅收漲12美元，報14160美元/噸。LME期鋁收跌6美元，報3252美元/噸。LME期鋅收漲5美元，報3756美元/噸。LME期鉛收漲8美元，報1895美元/噸。LME期鎳收漲39美元，報16815美元/噸。LME期錫收漲340美元，報56194美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-08-15 00:57:38  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-US stocks fell; S&P 500 down 0.23%, Nasdaq Composite down 0.45%, Dow Jones Industrial Average down 0.26%.
-
----
-
-### 2026-08-15 00:56:05  #國際
-
-美國參議員沃倫： OPFI 存在 “掠奪性放貸前科”，引發擔憂。
-
----
-
-### 2026-08-15 00:54:02  #公司 #國際
-
-美國參議員沃倫在致聯邦存款保險公司的信函中對 OPFI 收購 BNC 一事提出質疑。
-
----
-
-### 2026-08-15 00:53:48  #MKT News
-
-Musk said inadequate power supply and difficulty obtaining approvals for ground infrastructure mean orbital computing (space-based computing platforms) may be the only viable path to scale AI by around 2029.
-
----
-
-### 2026-08-15 00:50:16  #MKT News #Important #WTI
-
-U.S. oil rig count for the week to Aug. 14 due in 10 minutes.
-
----
-
-### 2026-08-15 00:50:14  #其他
-
-馬斯克：受地面電力供給與審批許可問題制約，到 2029 年前後，軌道計算或將成為人工智慧實現規模擴張的唯一途徑。
-
----
-
-### 2026-08-15 00:50:14  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Global Affairs Canada announced additional sanctions on Iranian individuals for obstructing freedom of navigation in the Strait of Hormuz and adjacent waters.
-
----
-
-### 2026-08-15 00:50:06  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
-
-Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.21%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.56 basis points, and in the last 12 months, it increased 43.23 basis points.
-
----
-
-### 2026-08-15 00:48:52  #MKT News
-
-Global Mail reports Canada and the United States held talks on critical minerals and defense issues.
-
----
-
-### 2026-08-15 00:48:43  #其他
-
-市場訊息：加美會談探討關鍵礦產與防務議題。
-
----
-
-### 2026-08-15 00:48:29  #國際
-
-美國據稱更傾向於對古巴施加經濟壓力，而不是動用軍事手段。
-
----
-
-### 2026-08-15 00:48:11  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
-
-US 10-Year Yield Rebounds Toward 19-Month High — The yield on the 10-Year US Treasury note swung higher to the 4.7% mark on Friday, not far from the 19-month high of 4.75% tested earlier in the week on renewed aversion to bonds on the long end of the curve. Year-ahead inflation expectations compiled by the University of Michigan rose in August, a fifth month above the 4% level. This was aligned with lingering concerns that the Federal Reserve may be complacent to inflationary risks in the US economy, recently exacerbated by the surge in energy prices due to the war in the Middle East. Signals from Fed Chair Warsh that a rate hike may not be his preferred instrument against inflation drove long-dated yields to surge, with the 30-year bond rising to a 19-year high. Treasuries were also pressured by concerns that Japan could sell some of their ample reserves should the Ministry of Finance defend against a weak yen again. Treasuries undercame selling pressure despite softer-than-expected producer prices and weak retail sales data.
-
----
-
-### 2026-08-15 00:46:49  #國際
-
-加拿大外長阿南德：加拿大對五名伊朗人實施額外製裁，實施制裁系因霍爾木茲海峽航運遭阻撓。
 
 ---
