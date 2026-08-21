@@ -1,7 +1,202 @@
 {
   "date": "2026-08-21",
-  "count": 623,
+  "count": 644,
   "items": [
+    {
+      "id": "mkt:01a021d5-9903-7aab-90c4-622e6901766c",
+      "time": "2026-08-21 09:00:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Lianyungang Maritime Safety Administration posted a navigation warning saying military activity will take place in parts of the southern Yellow Sea from Aug 21–25, daily 08:00–20:00, and the area is closed to navigation."
+    },
+    {
+      "id": "5050956",
+      "time": "2026-08-21 09:00:40",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成接受審查調查】據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5050955",
+      "time": "2026-08-21 09:00:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 黃海南部軍事活動】據中國海事局網站訊息，連雲港海事局釋出航行警告，8月21日至25日，每日8時至20時，黃海南部部分海域進行軍事活動，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a021d5-3bc7-7aab-90c4-593702d6e677",
+      "time": "2026-08-21 09:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 futures opened 0.23% higher."
+    },
+    {
+      "id": "mkt:01a021d5-3b5f-7aab-90c4-539e10347544",
+      "time": "2026-08-21 09:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy"
+      ],
+      "text": "At the morning open, China’s main futures contracts were mixed. Shanghai silver led gains, up nearly 3%. Pulp, fuel oil, LPG and asphalt rose about 2%; SHFE lead gained just over 1%; 20# rubber and low-sulfur fuel oil (LU) were up around 1%. On the downside, coking coal, stainless steel, rapeseed meal, glass and PVC fell more than 1%; rapeseed oil and SHFE nickel were down about 1%."
+    },
+    {
+      "id": "5050954",
+      "time": "2026-08-21 09:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。論壇釋出了《中國-APEC能源合作啟新程：以能源合作攜手共促亞太共同繁榮》報告。報告顯示，自1991年加入APEC以來，中國持續對接各經濟體能源發展戰略，合作覆蓋傳統能源、新能源、電力等多個領域，貫通投資、貿易、基礎設施全鏈條，形成供需互補、綠色賦能、互通穩鏈、協同善治的能源合作格局，為區域能源共同安全與可持續發展貢獻了中國力量。APEC第16次能源部長會議將於9月10日至11日在北京舉辦。"
+    },
+    {
+      "id": "5050953",
+      "time": "2026-08-21 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2858.00元。"
+    },
+    {
+      "id": "5050952",
+      "time": "2026-08-21 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報16546.00元。"
+    },
+    {
+      "id": "5050951",
+      "time": "2026-08-21 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.24%。"
+    },
+    {
+      "id": "5050950",
+      "time": "2026-08-21 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】線材連續漲2.89%，白銀連續漲2.70%，紙漿連續漲2.11%，鉑連續漲1.93%，燃料油連續漲1.86%。"
+    },
+    {
+      "id": "mkt:01a021d4-e690-7aab-90c4-48c993bc4d6f",
+      "time": "2026-08-21 08:59:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Ministry of Finance issues CNY6 bln government bonds in Macau】On Aug 20, China's Ministry of Finance sold CNY6.0 bln government bonds in the Macau SAR to professional investors via a bookbuild; subscriptions totaled CNY38.591 bln (6.43x). Allocation and issue yields: 2-year CNY3.0 bln at 1.30%; 3-year CNY1.0 bln at 1.33%; 5-year CNY1.0 bln at 1.46%; 10-year CNY1.0 bln at 1.76%."
+    },
+    {
+      "id": "5050949",
+      "time": "2026-08-21 08:59:22",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部在澳門成功發行60億元人民幣國債】8月20日，中華人民共和國財政部在澳門特別行政區，面向專業投資者簿記發行60億元人民幣國債，受到投資者廣泛歡迎，認購總額385.91億元，約為發行規模的6.43倍。其中，2年期30億元，發行利率1.3%；3年期10億元，發行利率1.33%；5年期10億元，發行利率1.46%；10年期10億元，發行利率1.76%。(財政部)"
+    },
+    {
+      "id": "5050948",
+      "time": "2026-08-21 08:59:11",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【國泰君安期貨：本輪黃金白銀的上漲是有明確的資訊推動疊加資金連續入場的共同結果】本輪黃金白銀的上漲是有明確的資訊推動疊加資金連續入場的共同結果。週三夜間日美國財政部將10 30年期長期國債單次回購規模由20億美元提升至40億美元，具體來說力度有限，該操作主體為財政部，並非美聯儲QE，不新增基礎貨幣。並且單次操作體量相對於整體存量佔比偏低，工具定位重在修復長債舊券的二級市場流動性，緩解遠端收益率脈衝上行風險，難以扭轉美債供給的大格局。訊息公佈後，30Y美債收益率快速下跌，金價也順利突破階段性前高並短暫站上4500。本身這個政策不足以獨立驅動金價趨勢行情，但訊號傳導和市場解讀樂觀。週四夜間貝森特加大“TACO”力度，表示債券回購上限或超40億美元，黃金白銀繼續快速拉漲，白銀突破周線級別上的阻力，順利站上年線，黃金也是穩居4500美元/盎司上方。疊加昨日單日ETF快速流入，資金及針對貴金屬的情緒已然給出了方向，短期黃金若站穩4500美元/盎司則進一步關注4600-4700區間，白銀在技術面破位之後則是進一步看向71.5美元/盎司附近，對應滬銀17300-17500元/千克。週三夜間突破4450美元后推薦順勢追入的黃金多頭繼續持有。（國泰君安期貨）"
+    },
+    {
+      "id": "5050947",
+      "time": "2026-08-21 08:58:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博俊科技：目前有小鵬汽車部分車型產品正在專案開發階段】博俊科技(300926)在互動平臺表示，公司為小鵬汽車的車身件供應商，目前供貨的量產車型為MONA M03，公司對所供貨的小鵬汽車的車身件產品均為獨供。目前，公司有小鵬汽車部分車型的產品正在專案開發階段，部分專案將於今年內量產，具體量產時間以客戶釋出時間為準。"
+    },
+    {
+      "id": "5050945",
+      "time": "2026-08-21 08:56:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中公教育成立陪伴學網路科技公司 含AI業務】企查查APP顯示，近日，北京陪伴學網路科技有限公司成立，經營範圍包含：人工智慧雙創服務平臺；人工智慧基礎軟體開發；人工智慧公共資料平臺；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由中公教育全資持股。"
+    },
+    {
+      "id": "5050944",
+      "time": "2026-08-21 08:56:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市釋出雷電黃色預警】預計，8月21日午後至夜間，北京市有分散性雷陣雨天氣，局地短時雨強較大，並伴有6級左右陣風，請注意防範。"
+    },
+    {
+      "id": "5050943",
+      "time": "2026-08-21 08:55:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三角防務：公司作為CJ-1000A系列發動機主要盤類件核心供應商 相關配套工作正常推進中】三角防務(300775)8月21日在互動平臺表示，公司作為CJ-1000A系列發動機主要盤類件核心供應商，相關配套工作按照總承單位專案計劃正常推進中。"
+    },
+    {
+      "id": "te:markets:577023",
+      "time": "2026-08-21 08:55:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Fall as Global Yields Rebound — The Nikkei 225 Index fell 0.7% to below 66,000 while the broader Topix Index declined 0.25% to around 4,050 on Friday, giving back gains from the previous session as global bond yields rebounded amid concerns that US efforts to curb borrowing costs through debt buybacks may provide only a temporary solution. The 10-year US Treasury yield traded around 4.7%, erasing its losses from earlier in the week, while Japan’s benchmark 10-year yield ended a two-day decline. Meanwhile, data showed Japan’s inflation rate accelerated for the second consecutive month, strengthening the case for a Bank of Japan interest rate hike in the near term. BOJ Governor Kazuo Ueda previously indicated that authorities could begin normalizing policy at a faster pace. Technology stocks led the declines, with notable losses from Advantest (-0.8%), Taiyo Yuden (-3.2%) and SoftBank Group (-2.3%). The Nikkei and Topix indexes were on track to lose more than 4% and 3% for the week, respectively."
+    },
+    {
+      "id": "mkt:01a021cd-f8ef-7aab-90c4-41fb5232d954",
+      "time": "2026-08-21 08:52:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 20-year government bond yield rose 6 bps to 3.77%."
+    },
+    {
+      "id": "5050942",
+      "time": "2026-08-21 08:51:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上漲6個基點至3.77%。"
+    },
+    {
+      "id": "5050941",
+      "time": "2026-08-21 08:51:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受南海熱帶低壓影響 海南部分進出島列車停運】記者從海南鐵路海口車務段瞭解到，受熱帶低壓影響，海南鐵路部分進出海南島列車停運：昨日，出海南島列車Z8008、Z112、K512、Z502次停運；今日，進海南島列車Z501、K511、Z8007、Z111次停運。（央視新聞）"
+    },
     {
       "id": "5050940",
       "time": "2026-08-21 08:51:22",
