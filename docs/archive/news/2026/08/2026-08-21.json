@@ -1,7 +1,250 @@
 {
   "date": "2026-08-21",
-  "count": 1456,
+  "count": 1480,
   "items": [
+    {
+      "id": "te:markets:577165",
+      "time": "2026-08-21 15:31:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.15% Higher — The DAX Index is picking up 40 points or 0.15 percent on Friday. Gains are led by Infineon (2.44%), Adidas (1.29%) and RWE (1.15%). Biggest losers are Qiagen NV (-1.75%), MTU Aero Engines AG (-1.31%) and Bayer (-1.25%)."
+    },
+    {
+      "id": "mkt:01a0233a-f439-7aab-90cb-e679c1991c6d",
+      "time": "2026-08-21 15:31:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Health Commission: COVID-19 showed cyclical fluctuations, now in a downward trend】At a press briefing on autumn respiratory disease prevention, the National Health Commission said COVID-19 experienced cyclical fluctuations and peaked in early–mid August; cases are now declining, with the decrease more pronounced in southern China. Overall epidemic intensity is comparable to the past two years, infections remain predominantly mild, surveillance has not detected variants likely to cause major public-health risk, and the recent wave has not materially disrupted overall medical services."
+    },
+    {
+      "id": "mkt:01a0233a-e81d-7aab-90cb-dab7a68385b1",
+      "time": "2026-08-21 15:30:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.81% at 984.0 yuan/gram on Friday Aug 21; silver T+D closed up 3.49% at 16,730 yuan/kg."
+    },
+    {
+      "id": "5051510",
+      "time": "2026-08-21 15:30:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列訊息人士：短期與伊朗產生軍事對抗可能性降低】據耶路撒冷郵報報道，以色列安全部門訊息人士稱，在與美國高階官員進行一系列會談和討論後，近期擴大與伊朗軍事對抗的可能性已經下降。相關官員透露，特朗普決定實施另一輪嚴厲經濟制裁，旨在為美國中期選舉後的局勢“爭取時間”。目前尚不清楚，美國是否能夠透過石油貿易、銀行賬戶、資金轉移、原材料供應以及其他渠道，對直接或間接支援伊朗政權的國家成功實施威懾並施加有力壓力。安全官員表示，如果沒有采取極端措施並由美國進行強硬執行，特朗普將無法實現預期目標。"
+    },
+    {
+      "id": "mkt:01a0233a-828b-7aab-90cb-d5604b628e5e",
+      "time": "2026-08-21 15:30:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "BOT said Thailand's international reserves were $280.9 bln on Aug 14, up from $280.6 bln on Aug 7."
+    },
+    {
+      "id": "5051509",
+      "time": "2026-08-21 15:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外匯儲備增至2808.7億美元。"
+    },
+    {
+      "id": "5051508",
+      "time": "2026-08-21 15:30:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國8月服務業PMI初值 48.5，預期50.1，前值49.8。\n德國8月製造業PMI初值 54.1，預期52，前值52.2。\n德國8月綜合PMI初值 51，預期51.3，前值51.3。"
+    },
+    {
+      "id": "te:markets:577161",
+      "time": "2026-08-21 15:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.03% Higher — The CAC 40 Index is up by 3 points or 0.03 percent on Friday. Top gainers are ArcelorMittal (1.57%), Stellantis NV (1.19%) and STMicroelectronics (1.11%). Biggest losses came from Capgemini (-2.17%), Renault (-1.40%) and Thales (-1.29%)."
+    },
+    {
+      "id": "mkt:01a0233a-30b0-7aab-90cb-cc7f1a3a76b2",
+      "time": "2026-08-21 15:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany Aug flash manufacturing PMI 54.1, est. 52.0, July 52.2."
+    },
+    {
+      "id": "mkt:01a0233a-29ad-7aab-90cb-c577bafa1b5c",
+      "time": "2026-08-21 15:30:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany August services PMI (flash) 48.5, vs 50.1 expected and 49.8 previously; remains below the 50.0 contraction threshold."
+    },
+    {
+      "id": "mkt:01a0233a-2274-7aab-90cb-b9e053cd2da8",
+      "time": "2026-08-21 15:30:07",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany August flash composite PMI 51.0, below 51.3 expected and previous 51.3."
+    },
+    {
+      "id": "5051507",
+      "time": "2026-08-21 15:30:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國威脅對伊朗實施“史上最嚴厲制裁”，並敦促中國與美國合作，外交部回應】據路透社報道，美國財政部長貝森特當地時間20日表示，美國將對伊朗實施“歷史上最嚴厲的制裁”，並敦促中國與美國合作。對於上述訊息，在8月21日舉行的中國外交部例行記者會上，外交部發言人林劍在回應外媒記者“中方對此有何評論”的提問時表示，我們昨天已就此作出回應。我願重申，中方反對沒有國際法依據、未經聯合國安理會授權的非法單邊制裁，呼籲相關各方採取負責任舉措，透過政治外交途徑解決問題。（環球網）"
+    },
+    {
+      "id": "mkt:01a0233a-05fa-7aab-90cb-b1742c9b67b8",
+      "time": "2026-08-21 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Manufacturing PMI Flash (Aug) | actual 54.1 | consensus 52 | previous 52.2"
+    },
+    {
+      "id": "mkt:01a0233a-05d2-7aab-90cb-ae25f3b4bffe",
+      "time": "2026-08-21 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Services PMI Flash (Aug) | actual 48.5 | consensus 50.1 | previous 49.8"
+    },
+    {
+      "id": "mkt:01a0233a-05c8-7aab-90cb-a265c116e326",
+      "time": "2026-08-21 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Composite PMI Flash (Aug) | actual 51 | consensus 51.3 | previous 51.3"
+    },
+    {
+      "id": "mkt:01a02339-fda2-7aab-90cb-9d34dddd30f7",
+      "time": "2026-08-21 15:29:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Israeli sources: short-term risk of military confrontation with Iran reduced】Israeli security sources told The Jerusalem Post that after talks with senior U.S. officials the near-term likelihood of a military confrontation with Iran has declined. Sources said President Trump has chosen another round of harsh economic sanctions intended to buy time until after the U.S. midterm elections. Officials said it remains unclear whether the U.S. can effectively deter or pressure states that directly or indirectly support Iran through oil trade, bank accounts, funds transfers, raw-material supplies or other channels. They added that without extreme measures and robust U.S. enforcement, Trump will not achieve his stated objectives."
+    },
+    {
+      "id": "5051506",
+      "time": "2026-08-21 15:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【朝鮮昨日發射彈道導彈 外交部回應】外交部發言人林劍主持例行記者會。韓聯社記者提問，昨天朝鮮向東部海域發射10餘枚彈道導彈，此次是今年的第十二次發射，也是三年以來最大規模的發射。中方對此有何評論？“我們注意到相關報道，對此沒有新的評論。”林劍說。 (北京日報)"
+    },
+    {
+      "id": "5051505",
+      "time": "2026-08-21 15:29:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家衛生健康委：接種流感疫苗是預防流感最經濟有效的手段】國家衛生健康委今天舉行新聞釋出會，介紹秋季呼吸道傳染病預防有關情況。據瞭解，流感是由流感病毒引起的急性呼吸道傳染病，當前流行的季節性流感病毒有3個亞型，人群普遍易感，秋冬季高發流行，南方省份也會出現夏季流行。流感與普通感冒不同，得了流感全身性症狀相對重，尤其是兒童、老年人、慢性病患者，發生重症或其他併發症的風險高。相關研究證據表明，每年流感流行可導致全球產生300萬—500萬重症病例、29萬—65萬呼吸道疾病相關死亡病例，對健康造成嚴重威脅。今年7月以來，全國甲型H3N2亞型和乙型Victoria系共同流行，佔比相當，近期甲型H3N2亞型略有上升，提示我們提前做好防護。（央視新聞）"
+    },
+    {
+      "id": "5051504",
+      "time": "2026-08-21 15:29:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳鐵路暑運到發旅客超3000萬人次】記者從深圳鐵路部門獲悉，今年暑運已臨近結束。7月1日至8月20日，深圳鐵路累計到發旅客達3061.9萬人次，其中傳送旅客1561.1萬人次，到達旅客1500.8萬人次，整體執行平穩有序。"
+    },
+    {
+      "id": "mkt:01a02339-0e91-7aab-90cb-947f1909d150",
+      "time": "2026-08-21 15:28:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US Treasury Secretary Bessent says US will impose toughest sanctions on Iran; China opposes unilateral sanctions】Aug 21 — According to CNBC, US Treasury Secretary Bessent said the US will impose the toughest economic sanctions on Iran. Foreign Ministry spokesman Lin Jian said China had responded yesterday and reiterated it opposes illegal unilateral sanctions that lack a basis in international law or UN Security Council authorization, urging parties to take responsible measures and resolve the issue through political and diplomatic channels."
+    },
+    {
+      "id": "5051503",
+      "time": "2026-08-21 15:28:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度秘書：有42吉瓦綠色專案尚未簽署電力購售協議。"
+    },
+    {
+      "id": "mkt:01a02338-a359-7aab-90cb-8faa46f11302",
+      "time": "2026-08-21 15:28:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【China on U.S. pressure on Iran: military action and sanctions won't resolve tensions】Aug 21 — Asked about U.S. pressure on Iran at a routine briefing, Foreign Ministry spokesman Lin Jian said China believes military measures and sanctions will not resolve the issue, would only intensify tensions and escalate the situation, are not in any party's interest, and urged resolving differences through dialogue and consultation."
+    },
+    {
+      "id": "5051502",
+      "time": "2026-08-21 15:27:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多瑙河低水位影響匈牙利航運 經濟恐受損】近期，多瑙河匈牙利段水位持續下降，低水位嚴重干擾多瑙河航運。目前，多瑙河貨運基本停擺，從國外來的郵輪也無法抵達布達佩斯。秋收後，預計匈牙利將有大量小麥、玉米等農作物經由多瑙河出口至國外。若貨船無法滿載或根本無法離港，勢必將導致物流成本上升，利潤率下降，匈牙利農產品競爭力受損。（央視新聞）"
+    },
+    {
+      "id": "5051501",
+      "time": "2026-08-21 15:27:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【擔任CEO不到半年周雲曙轉任總裁，先聲藥業回應：將繼續深度參與經營管理工作】“基於集團戰略規劃，經慎重考慮，周雲曙主動提出職務調整建議，經董事會審議批准，不再擔任執行長，轉任公司總裁，周雲曙將繼續深度參與集團的經營管理工作，公司高管團隊和戰略保持穩定性和持續性。”在8月21日上午的中期業績釋出會上，先聲藥業（2096.HK）董事長任晉生就核心管理層的人事變動表達了上述觀點。8月20日，先聲藥業披露了一項核心管理層的人事調整。公告顯示，為進一步加快中國業務發展並強化全球創新能力建設，經周雲曙主動提議並獲董事會批准，公司創始人任晉生自即日起重新出任執行長，並繼續兼任董事長及執行董事；周雲曙不再擔任執行長，轉任公司總裁。（澎湃）"
+    },
     {
       "id": "te:markets:577155",
       "time": "2026-08-21 15:27:33",
