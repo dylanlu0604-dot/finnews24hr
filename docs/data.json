@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-21 13:41:48",
-  "count": 16008,
+  "updated": "2026-08-21 13:45:42",
+  "count": 16001,
   "items": [
+    {
+      "id": "mkt:01a022d8-2dc1-7aab-90c8-ffee936e39b8",
+      "time": "2026-08-21 13:43:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Institutions: Economic resilience offsets Iran conflict shock, European markets regain favor】European markets are regaining investor favor as the region’s economy has weathered the Iran conflict better than expected, monetary policy prospects look clearer relative to other regions, and limited AI exposure has reduced tech-driven volatility. The Stoxx Europe 600 is trading near record highs and the euro is at a three-month peak; LSEG/Lipper data show $2.44bn of inflows into European equities in the week to Aug. 12, the largest weekly inflow since the week to Feb. 25, before the outbreak of the US-Iran conflict. The conflict has added inflationary pressure, pointing to the possibility of further ECB tightening; investors say the ECB’s clearer guidance versus the Fed and BOJ is supportive. Morgan Stanley chief Europe equity strategist Marina Zavolock said inflation is positive for equities so long as it does not trigger a recession — a backdrop she sees now, which helps explain gains in European stocks, particularly banks."
+    },
     {
       "id": "mkt:01a022d4-acbc-7aab-90c8-f31b85ce4c54",
       "time": "2026-08-21 13:39:18",
@@ -146545,86 +146558,6 @@
         "MKT News"
       ],
       "text": "【Retired naval officer warns long deployments are degrading US carrier readiness】Retired senior US naval officer Harlan Ullman, chairman of strategy consultancy Killowen Group, warned prolonged deployments are eroding aircraft carrier readiness and said the nuclear-powered USS Abraham Lincoln urgently needs in‑port routine maintenance. He said advanced weapons systems cannot be fully maintained at sea and that nine‑month deployments increasingly degrade ship readiness and capability due to lack of necessary maintenance. Ullman added extended wartime deployments also damage crew morale and health, citing strict operational security that limits internet and phone use and complicates basic resupply. He urged the Trump administration to prioritize navy readiness over political considerations."
-    },
-    {
-      "id": "mkt:019ffecd-fe23-7aab-9036-4ff4d2e06f45",
-      "time": "2026-08-14 13:45:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Interfax reports the Russian defence ministry said it sank two escort vessels that were accompanying ships transporting weapons to Ukraine."
-    },
-    {
-      "id": "5040618",
-      "time": "2026-08-14 13:45:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "算力租賃概念探底回升，網宿科技漲超17%，行雲科技漲超10%，資料港、奧飛資料、利通電子跟漲。"
-    },
-    {
-      "id": "5040617",
-      "time": "2026-08-14 13:44:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【臺灣多個黨派團體集會反對日本右翼擴軍與干涉臺灣問題】臺灣多個黨派團體14日在臺北舉行“反對日本軍國主義復辟”共同行動，嚴正反對日本右翼擴軍與干涉臺灣問題，絕不容許軍國主義復辟。集會活動在“日本臺灣交流協會”臺北事務所門前進行。活動發表宣告表示，臺灣問題純屬中國內政，絕不容許昔日侵略者說三道四。歷史不應遺忘，強烈譴責日本軍國主義死灰復燃，堅決反對日本右翼勾結“臺獨”分裂勢力。 (央視新聞)"
-    },
-    {
-      "id": "5040616",
-      "time": "2026-08-14 13:44:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱其襲擊了兩艘為向烏克蘭運送武器的船隻護航的船隻。"
-    },
-    {
-      "id": "mkt:019ffecc-629c-7aab-9036-436250608032",
-      "time": "2026-08-14 13:43:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "00981.HK",
-        "Impact bullish",
-        "02577.HK",
-        "03986.HK"
-      ],
-      "text": "Hong Kong semiconductor stocks recovered in the afternoon. Semiconductor Manufacturing International Corp. (SMIC, 00981.HK) extended gains, up more than 6%; 02577.HK rose over 3%, while 02676.HK and GigaDevice Semiconductor (03986.HK) also advanced."
-    },
-    {
-      "id": "mkt:019ffecc-38d5-7aab-9036-3b3f65c0660a",
-      "time": "2026-08-14 13:43:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Interfax reported the Russian defence ministry said it struck a rail station inside Ukraine's Izmail port that was being used to transport military supplies."
-    },
-    {
-      "id": "5040615",
-      "time": "2026-08-14 13:42:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱其襲擊了烏克蘭伊茲梅爾港的火車站，該港口用於軍事貨物運輸。"
-    },
-    {
-      "id": "5040614",
-      "time": "2026-08-14 13:41:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "B. RILEY將應用材料目標價從790美元下調至700美元。"
     }
   ]
 }

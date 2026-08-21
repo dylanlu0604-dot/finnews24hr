@@ -1,7 +1,20 @@
 {
   "date": "2026-08-21",
-  "count": 1171,
+  "count": 1172,
   "items": [
+    {
+      "id": "mkt:01a022d8-2dc1-7aab-90c8-ffee936e39b8",
+      "time": "2026-08-21 13:43:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Institutions: Economic resilience offsets Iran conflict shock, European markets regain favor】European markets are regaining investor favor as the region’s economy has weathered the Iran conflict better than expected, monetary policy prospects look clearer relative to other regions, and limited AI exposure has reduced tech-driven volatility. The Stoxx Europe 600 is trading near record highs and the euro is at a three-month peak; LSEG/Lipper data show $2.44bn of inflows into European equities in the week to Aug. 12, the largest weekly inflow since the week to Feb. 25, before the outbreak of the US-Iran conflict. The conflict has added inflationary pressure, pointing to the possibility of further ECB tightening; investors say the ECB’s clearer guidance versus the Fed and BOJ is supportive. Morgan Stanley chief Europe equity strategist Marina Zavolock said inflation is positive for equities so long as it does not trigger a recession — a backdrop she sees now, which helps explain gains in European stocks, particularly banks."
+    },
     {
       "id": "mkt:01a022d4-acbc-7aab-90c8-f31b85ce4c54",
       "time": "2026-08-21 13:39:18",
