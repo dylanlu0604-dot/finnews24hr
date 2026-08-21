@@ -1,7 +1,311 @@
 {
-  "updated": "2026-08-21 20:20:48",
-  "count": 16274,
+  "updated": "2026-08-21 20:33:25",
+  "count": 16245,
   "items": [
+    {
+      "id": "5052388",
+      "time": "2026-08-21 20:32:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽科希德：2026年上半年淨利潤4252.23萬元，同比下降11.41%】賽科希德公告，2026年上半年營業收入1.33億元，同比下降4.31%；歸屬於上市公司股東的淨利潤4252.23萬元，同比下降11.41%，2025年上半年為4799.99萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3923.16萬元，同比下降15.16%。"
+    },
+    {
+      "id": "5052387",
+      "time": "2026-08-21 20:32:01",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【劉國中在安排部署秋糧生產和農業防災減災工作時強調 紮實做好農業防災減災工作 全力以赴奪取全年糧食豐收】中共中央政治局委員、國務院副總理劉國中8月21日到農業農村部召開影片排程會，安排部署秋糧生產和農業防災減災工作。他強調，要認真貫徹落實習近平總書記重要指示批示精神，按照黨中央、國務院部署，盯緊盯牢關鍵環節，落實落細關鍵措施，紮實做好農業防災減災工作，牢牢把握住秋糧生產主動權，全力以赴奪取全年糧食豐收。劉國中強調，秋糧是全年糧食生產的大頭，當前正處於產量形成關鍵期。要密切監測雨情、汛情、墒情、苗情和病蟲情，及時釋出預報預警，開展精準技術指導。要分割槽分類推進秋糧田管，落實各項穩產增產措施，抓緊組織“一噴多促”作業。要突出關口前移，防範應對後期各類氣象災害和病蟲害，提升糧食烘乾能力，儘量降低災害損失。對因災出現返貧致貧風險的農戶及時進行幫扶。要持續開展農田溝渠修復整治和平原澇區治理，因地制宜做好災後恢復生產，高質量推進高標準農田建設。劉國中強調，秋糧生產是當前“三農”工作重點任務，各地要落實糧食安全黨政同責要求，做到工作到位、政策落實、措施落地，有關部門要各司其職、密切配合，把糧食生產目標任務落到實處。8月20日，劉國中還到河北調研秋糧長勢、高標準農田建設、農資供應保障和氣象為農服務情況。（新華社）"
+    },
+    {
+      "id": "mkt:01a0244e-3b92-7aab-90d4-1fe8b90cbb6a",
+      "time": "2026-08-21 20:31:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal, citing sources, reports NVIDIA (NVDA.O) is expected to invest several hundred million dollars in Cloverleaf."
+    },
+    {
+      "id": "mkt:01a0244d-c24e-7aab-90d4-17a8b94595de",
+      "time": "2026-08-21 20:31:10",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "S&P 500 futures rose 0.5% to hit premarket highs."
+    },
+    {
+      "id": "5052386",
+      "time": "2026-08-21 20:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英偉達正洽談投資 Cloverleaf 基礎設施專案。"
+    },
+    {
+      "id": "5052385",
+      "time": "2026-08-21 20:30:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.5%，觸及盤前高點。"
+    },
+    {
+      "id": "5052384",
+      "time": "2026-08-21 20:30:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月核心零售銷售環比 0.5%，預期 0.3%，前值 1.2%。"
+    },
+    {
+      "id": "5052383",
+      "time": "2026-08-21 20:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大6月零售銷售額環比增長0.6%，高於預期的0.4%。"
+    },
+    {
+      "id": "mkt:01a0244c-cc20-7aab-90d4-0fb8382b70bb",
+      "time": "2026-08-21 20:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada retail sales m/m (June) +0.6% vs +0.4% expected; May revised up to +1.1% from +1.0%."
+    },
+    {
+      "id": "mkt:01a0244c-cb65-7aab-90d4-01bccc6e6e52",
+      "time": "2026-08-21 20:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Canada core retail sales rose 0.5% MoM in June, vs. 0.4% expected; previous +1.2%."
+    },
+    {
+      "id": "mkt:01a0244c-b133-7aab-90d3-f8e6984705f4",
+      "time": "2026-08-21 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core Retail Sales (MoM) (Jun) | actual 0.5% | consensus 0.4% | previous 1.20%"
+    },
+    {
+      "id": "mkt:01a0244c-b110-7aab-90d3-f6bc9144d31b",
+      "time": "2026-08-21 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Retail Sales (MoM) (Jun) | actual 0.6% | consensus 0.40% | previous 1.00%"
+    },
+    {
+      "id": "5052382",
+      "time": "2026-08-21 20:29:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼外交官：馬斯喀特方面已漸漸習慣此類威脅反覆出現、不絕於耳。"
+    },
+    {
+      "id": "5052381",
+      "time": "2026-08-21 20:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼外交官表示，特朗普針對阿曼的威脅對阿曼而言正變得越來越熟悉。"
+    },
+    {
+      "id": "mkt:01a0244b-46a4-7aab-90d3-edcbc2aef965",
+      "time": "2026-08-21 20:28:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Market sources say Ethiopia's official creditors may adjust rescue measures going forward."
+    },
+    {
+      "id": "mkt:01a0244b-381d-7aab-90d3-e0853884d5a0",
+      "time": "2026-08-21 20:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CloudWalk Technology 1H 2026 net loss CNY78.77m; loss narrows YoY】CloudWalk Technology reported 1H 2026 revenue of CNY100m, down 40.67% YoY, and a net loss attributable to shareholders of CNY78.77m versus a CNY230m loss a year earlier. The company said the revenue decline mainly reflected a high base in 1H 2025 when multiple compute-capacity construction projects were completed and recognized; fewer such project completions and revenue recognitions occurred in the current period."
+    },
+    {
+      "id": "mkt:01a0244b-2473-7aab-90d3-d9facfdaddec",
+      "time": "2026-08-21 20:28:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Iranian media Fars News reports an Omani diplomat said Trump’s threats against Oman are becoming increasingly familiar to the country."
+    },
+    {
+      "id": "5052380",
+      "time": "2026-08-21 20:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：衣索比亞官方債權人未來或調整債務紓困方案。"
+    },
+    {
+      "id": "mkt:01a0244a-b24a-7aab-90d3-d38f8cf0f31d",
+      "time": "2026-08-21 20:27:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen Stock Exchange probes 10 listed-company material events this week】Aug 17-21, 2026 — Shenzhen Stock Exchange took self-regulatory measures in 100 cases of abnormal trading, including intraday pump-and-dump and false orders; opened investigations into 10 listed-company material events and referred three suspected violations to the CSRC. In stock issuance and listing reviews, the exchange summoned one member over sponsor-related misconduct and issued written warnings to its sponsor representatives; it issued an oral warning to a sponsor representative at another member."
+    },
+    {
+      "id": "5052379",
+      "time": "2026-08-21 20:27:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞銀：黃金下半年漲勢尚未結束】瑞銀財富管理投資總監辦公室(CIO)最新觀點稱，隨著投資者重新評估美國貨幣政策及美元前景，金價打破近期的整理局面，再度走高，需求端因素亦為金價增添助力。有三項條件將有助黃金延續漲勢：美元繼續走弱，市場對美國實際利率的預期下降，黃金的投資需求進一步增強。瑞銀維持今年年底金價目標在4600美元/盎司，並新推出2027年9月底目標價5400美元/盎司，較2027年6月底目標高出200美元。“我們認為通脹放緩將成為明年市場關注的主線。在有利的基數效應及其他因素助力下，通脹壓力有望減輕，從而將利好黃金等先前受加息預期制約的資產。”瑞銀還預計，美國經濟活動將處於或低於趨勢水平，屆時美元可能承壓，並進一步支撐黃金需求。"
+    },
+    {
+      "id": "5052378",
+      "time": "2026-08-21 20:24:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國武夷：全資子公司在澳提起訴訟 涉案金額約2.39億元】中國武夷公告稱，公司全資子公司中國武夷澳大利亞投資有限公司因借款代償追償、擔保追償等糾紛，向澳大利亞新南威爾士州最高法院提起訴訟，法院已於2026年8月19日登記立案，目前尚未開庭審理。本案原告實際受償總額不超過27655.25萬港元，摺合人民幣約2.39億元（不含利息及訴訟費用等）。本次訴訟對公司本期及期後利潤的影響存在不確定性。截至公告披露日，公司及控股子公司連續十二個月內累計未披露小額訴訟及仲裁共91起，涉案總金額2.48億元，佔公司2025年末經審計歸母淨資產的5.25%。"
+    },
+    {
+      "id": "5052377",
+      "time": "2026-08-21 20:24:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錦龍股份：籌劃轉讓東莞證券20%股份 構成重大資產重組】錦龍股份公告稱，公司目前正籌劃轉讓所持有的東莞證券20%股份（對應30000萬股），經初步測算，本次交易預計構成重大資產重組。本次交易不涉及發行股份，不會導致公司控制權變更，交易對方須以現金支付價款。本次交易尚處於籌劃階段，尚未確定交易對方，也未簽署意向性檔案，後續需提交公司董事會及股東會審議，能否獲得相關批准尚存在不確定性。公司股票不停牌，將根據進展分階段履行資訊披露義務。"
+    },
+    {
+      "id": "5052376",
+      "time": "2026-08-21 20:23:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天地數碼：取得兩項熱轉印技術領域發明專利】天地數碼公告稱，公司近日取得國家智慧財產權局頒發的兩項發明專利證書，分別為用於熱轉印色帶的UV固化油墨及其製備方法和熱轉印色帶、一種用於熱轉印色帶背塗的樹脂組合物、背塗塗層及其製備方法，專利號分別為ZL202410327140.3、ZL202411148605.5，專利權期限均為20年。上述專利為公司自主研發，涉及熱轉印技術領域，目前尚未實際應用，不會對近期生產經營產生重大影響，有利於完善智慧財產權保護體系，增強核心競爭力。"
+    },
+    {
+      "id": "mkt:01a02446-a109-7aab-90d3-c80c5ccad878",
+      "time": "2026-08-21 20:23:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "Oppenheimer raises MARVELL (MRVL.O) price target to $300 from $250."
+    },
+    {
+      "id": "5052375",
+      "time": "2026-08-21 20:23:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深市監管動態】一、上市公司監管動態（2026年8月14日-2026年8月20日） 2026年8月14日至8月20日，本所對1宗違規行為進行紀律處分，涉及資訊披露及規範運作違規。本週發出問詢函16份，其他函件19份。 二、市場交易監管動態（2026年8月17日-2026年8月21日） 2026年8月17日至8月21日，本所共對100起證券異常交易行為採取了自律監管措施，涉及盤中拉抬打壓、虛假申報等異常交易情形；共對10起上市公司重大事項進行核查，並上報證監會3起涉嫌違法違規案件線索。 三、會員監管動態（2026年8月17日-2026年8月21日） 本週，針對股票發行上市申請專案中保薦機構及保薦代表人存在違規行為的情形，本所對一家會員採取了約見談話的監管措施，並對其相關保薦代表人採取了書面警示的監管措施；對另一家會員相關保薦代表人採取了口頭警示的監管措施。"
+    },
+    {
+      "id": "5052374",
+      "time": "2026-08-21 20:22:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【9家公募管理人上報創業板電池ETF】證監會官網最新顯示，國聯基金、博時基金、匯添富基金、華寶基金、永贏基金、華安基金、銀華基金、招商基金、平安基金等9家基金管理人上報創業板電池ETF。公開資料顯示，創業板電池指數在去年6月27日釋出，反映創業板電池領域相關上市公司的股價變化情況，目前沒有跟蹤該指數的基金成立。截至7月底該指數的前三大權重股是寧德時代、陽光電源、億緯鋰能，權重均超10%。繼創業板算力、創業板金融科技ETF產品上報後，創業板電池ETF再迎集中申報，創業板特色行業主題指數產品化程序持續提速。"
+    },
+    {
+      "id": "te:markets:577287",
+      "time": "2026-08-21 20:21:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise on Higher Gold Prices — Futures tracking Canada’s stock market moved higher on Friday as rising gold prices supported mining stocks. Gold prices advanced as investors turned to safe-haven assets amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflation risks. Financials and the broader market remained under pressure amid elevated bond yields and energy-driven inflation concerns. Meanwhile, Fairfax Financial, a frontrunner to acquire the Indian government’s stake in IDBI Bank, is set to be given up to two years to consolidate its Indian banking holdings, potentially easing the acquisition process."
+    },
+    {
+      "id": "5052373",
+      "time": "2026-08-21 20:21:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年第19號颱風生成 廣東啟動防風Ⅳ級應急響應】根據氣象部門監測預報，原位於北部灣海面的熱帶低壓已於8月21日17時加強為今年第19號颱風，其中心位於湛江市徐聞縣西偏北方向約160公里的北部灣海面上，中心附近最大風力8級（18米/秒）。預計，其將於21日夜間到22日在北部灣海面迴旋，強度將有所增強，23日後轉向偏東方向移動，趨向瓊州海峽，強度緩慢減弱。鑑於當前形勢，根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部決定於8月21日20時啟動防風Ⅳ級應急響應。"
+    },
+    {
+      "id": "mkt:01a02444-5c60-7aab-90d3-c3596315379b",
+      "time": "2026-08-21 20:20:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon No.19 forms; Guangdong activates Level-IV wind emergency】A tropical depression in the Beibu Gulf strengthened into Typhoon No.19 at 17:00 on Aug 21. Its center was about 160 km WNW of Xuwen county (Zhanjiang), with peak winds near the center of force 8 (18 m/s). The system is expected to loop in the Beibu Gulf overnight Aug 21–22 and strengthen somewhat, then turn east toward the Qiongzhou Strait from Aug 23 and weaken slowly. Guangdong provincial flood/drought/wind emergency headquarters activated a Level‑IV wind emergency at 20:00 on Aug 21."
+    },
+    {
+      "id": "5052372",
+      "time": "2026-08-21 20:20:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中際旭創：擬派發2026年中期股息每10股12元】中際旭創公告稱，公司擬派發截至2026年6月30日止六個月的中期普通股息，每10股派12元人民幣，按匯率折算為每10股13.8766港元。除淨日為2026年9月3日，記錄日期為2026年9月10日，股息派發日為2026年10月9日。"
+    },
+    {
+      "id": "5052371",
+      "time": "2026-08-21 20:20:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中興商業：2026年上半年淨利潤4596.17萬元，同比下降5.87%】中興商業公告，2026年上半年營業收入3.76億元，同比下降6.65%；歸屬於上市公司股東的淨利潤4596.17萬元，同比下降5.87%，2025年同期4882.95萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3796.14萬元，同比下降10.22%。"
+    },
+    {
+      "id": "mkt:01a02443-9998-7aab-90d3-ba965c943115",
+      "time": "2026-08-21 20:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Canada June retail sales MoM due in 10 minutes."
+    },
+    {
+      "id": "5052370",
+      "time": "2026-08-21 20:19:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【松芝股份：2026年上半年淨利潤1.25億元，同比下降12.21%】松芝股份公告，2026年上半年營業收入25.47億元，同比增長2.15%；歸屬於上市公司股東的淨利潤1.25億元，同比下降12.21%，2025年同期為1.42億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.07億元，同比下降16.38%，2025年同期為1.29億元。"
+    },
     {
       "id": "5052369",
       "time": "2026-08-21 20:19:18",
@@ -148537,596 +148841,6 @@
         "國際"
       ],
       "text": "美國零售資料公佈後，彭博美元指數跌幅擴大。"
-    },
-    {
-      "id": "5041542",
-      "time": "2026-08-14 20:32:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員減少了對美聯儲在2027年中期之前加息不止一次的押注。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608143841969479",
-      "time": "2026-08-14 20:32:49",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國零售銷售月率意外負增長】美國7月零售銷售月率錄得-0.6%，為去年5月以來最大降幅，低於市場預期的+0.1%。"
-    },
-    {
-      "id": "5041541",
-      "time": "2026-08-14 20:32:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率進一步下行，最新下跌4個基點，報4.099%。"
-    },
-    {
-      "id": "5041540",
-      "time": "2026-08-14 20:32:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【生益科技：2026年上半年營收190.26億元 同比增長50.05%】生益科技公告稱，2026年上半年，公司營收190.26億元，同比增長50.05%；利潤總額42.21億元，同比增長129.33%；歸屬於上市公司股東的淨利潤32.87億元，同比增長130.42%。截至報告期末，公司總資產423.98億元，較上年度末增長29.38%；歸屬於上市公司股東的淨資產185.02億元，較上年度末增長10.63%。"
-    },
-    {
-      "id": "5041539",
-      "time": "2026-08-14 20:32:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【浙江啟動防汛Ⅳ級應急響應】浙江應急管理官微訊息，受連續強降雨影響，東苕溪、杭嘉湖平原河網等流域主要江河代表站水位普遍超警戒，部分超保證。據氣象預報，8月14-15日浙江省仍有大範圍降雨，浙北和沿海地區部分50~70毫米，區域性90~150毫米，水文預報苕溪、杭嘉湖平原河網水位將繼續上漲。根據《浙江省防汛防颱抗旱應急預案》，經研判會商，省防指決定於8月14日20時啟動防汛Ⅳ級應急響應。"
-    },
-    {
-      "id": "5041538",
-      "time": "2026-08-14 20:32:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "零售銷售資料公佈後，標普500指數期貨升至盤中高點。"
-    },
-    {
-      "id": "5041537",
-      "time": "2026-08-14 20:32:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國零售銷售資料公佈後，美國國債收益率延續跌勢；10年期國債收益率最新報4.629%，跌幅擴大。"
-    },
-    {
-      "id": "5041536",
-      "time": "2026-08-14 20:31:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元指數跌0.15%，報99.62點。"
-    },
-    {
-      "id": "mkt:01a00041-8e04-7aab-903e-a15dfcc90817",
-      "time": "2026-08-14 20:31:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "The US dollar index fell to a one-week low of 99.506."
-    },
-    {
-      "id": "mkt:01a00041-7510-7aab-903e-9c1d59c39b6d",
-      "time": "2026-08-14 20:31:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. will impose unprecedented economic isolation on Iran."
-    },
-    {
-      "id": "5041535",
-      "time": "2026-08-14 20:31:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "7月零售銷售意外下滑後，美國國債價格上漲。"
-    },
-    {
-      "id": "mkt:01a00041-696c-7aab-903e-979b9f2b4124",
-      "time": "2026-08-14 20:31:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US core retail sales for July $622.18 bln, prior $625.02 bln."
-    },
-    {
-      "id": "em:jjsj_mgsj:202608143841971346",
-      "time": "2026-08-14 20:31:19",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國7月扣除汽車的零售銷售較前月減少0.3% 市場預估為增加0.2%】美國7月扣除汽車的零售銷售較前月減少0.3%，市場預估為增加0.2%。"
-    },
-    {
-      "id": "5041534",
-      "time": "2026-08-14 20:31:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊上漲0.43%，報1.3546美元。"
-    },
-    {
-      "id": "5041533",
-      "time": "2026-08-14 20:31:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國零售銷售資料公佈後，美元延續跌勢，美元兌日元最新下跌0.48%，報158.72。"
-    },
-    {
-      "id": "mkt:01a00041-4283-7aab-903e-8e421bfe8b01",
-      "time": "2026-08-14 20:31:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core Retail Sales (Jul) | actual 622176000000B | previous 625024000000B"
-    },
-    {
-      "id": "mkt:01a00041-3571-7aab-903e-804aa3c8c99e",
-      "time": "2026-08-14 20:31:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US July retail sales $763.60 bln, down from $768.55 bln previously."
-    },
-    {
-      "id": "5041532",
-      "time": "2026-08-14 20:31:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元上漲0.43%，報1.1578美元。"
-    },
-    {
-      "id": "mkt:01a00041-0cfc-7aab-903e-7a8257556eea",
-      "time": "2026-08-14 20:30:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Retail Sales (Jul) | actual 763602000000B | previous 768553000000B"
-    },
-    {
-      "id": "5041531",
-      "time": "2026-08-14 20:30:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：外匯互換工具適用於 8 月 31 日之前的存款。"
-    },
-    {
-      "id": "em:jjsj_jndsj:202608143841971149",
-      "time": "2026-08-14 20:30:42",
-      "tags": [
-        "經濟數據",
-        "加拿大"
-      ],
-      "text": "【加拿大6月批發銷售環比增長2.8% 預期2.7%】加拿大6月批發銷售環比增長2.8%，預期2.7%，前值0.00%。"
-    },
-    {
-      "id": "mkt:01a00040-b9cb-7aab-903e-764ea60b2146",
-      "time": "2026-08-14 20:30:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【US retail sales unexpectedly fall m/m】US retail sales -0.6% m/m in July, the largest decline since May last year, below consensus +0.1%."
-    },
-    {
-      "id": "5041530",
-      "time": "2026-08-14 20:30:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4440美元/盎司，日內漲0.45%。"
-    },
-    {
-      "id": "te:markets:575474",
-      "time": "2026-08-14 20:30:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Chinese Yuan Hits 3-1/2-year High — The Chinese Yuan touched 6.74 against the USD, the highest since February 2023. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.41%, and in the last 12 months, it decreased 6.22%."
-    },
-    {
-      "id": "5041529",
-      "time": "2026-08-14 20:30:21",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大6月批發銷售月率 2.8%，預期2.7%，前值0.00%。\n加拿大6月製造業裝船月率 0.1%，預期-0.1%，前值1.30%。"
-    },
-    {
-      "id": "mkt:01a00040-7cdc-7aab-903e-69633592d369",
-      "time": "2026-08-14 20:30:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US July retail sales control group fell 0.4% MoM vs +0.3% expected; June revised down to +0.4% from +0.5%."
-    },
-    {
-      "id": "mkt:01a00040-7444-7aab-903e-6148fdfbf475",
-      "time": "2026-08-14 20:30:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US July core retail sales -0.3% MoM vs +0.2% expected; prior -0.2%."
-    },
-    {
-      "id": "mkt:01a00040-6768-7aab-903e-5abbe0ef233f",
-      "time": "2026-08-14 20:30:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada June wholesale sales +2.8% MoM, versus est +2.7%; May unchanged at 0.0%."
-    },
-    {
-      "id": "5041528",
-      "time": "2026-08-14 20:30:12",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【美國零售銷售月率意外負增長】美國7月零售銷售月率 -0.6%，預期0.1%，前值0.20%。"
-    },
-    {
-      "id": "mkt:01a00040-569d-7aab-903e-52965642870a",
-      "time": "2026-08-14 20:30:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada June manufacturing shipments MoM +0.1% (consensus -0.1%); prior +1.3%."
-    },
-    {
-      "id": "mkt:01a00040-562f-7aab-903e-4d187818bebb",
-      "time": "2026-08-14 20:30:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "U.S. July retail sales MoM -0.6% (consensus +0.1%), prior +0.2%."
-    },
-    {
-      "id": "mkt:01a00040-55d1-7aab-903e-4456bd8aa464",
-      "time": "2026-08-14 20:30:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core Retail Sales (MoM) (Jul) | actual -0.3% | consensus 0.20% | previous -0.20%"
-    },
-    {
-      "id": "mkt:01a00040-475d-7aab-903e-3d041a663a7b",
-      "time": "2026-08-14 20:30:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Sales (MoM) (Jun) | actual 2.8% | consensus 2.7% | previous 0.00%"
-    },
-    {
-      "id": "te:markets:575473",
-      "time": "2026-08-14 20:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "British Pound Hits 4-week High — GBPUSD increased to 1.35, the highest since July 2026. Over the past 4 weeks, British Pound US Dollar gained 0.02%, and in the last 12 months, it decreased 0.02%."
-    },
-    {
-      "id": "mkt:01a00040-34a8-7aab-903e-3241532e5684",
-      "time": "2026-08-14 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Sales (MoM) (Jun) | actual 0.1% | consensus -0.1% | previous 1.30%"
-    },
-    {
-      "id": "mkt:01a00040-31a9-7aab-903e-283d6b1847b4",
-      "time": "2026-08-14 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Retail Sales (MoM) (Jul) | actual -0.6% | consensus 0.1% | previous 0.20%"
-    },
-    {
-      "id": "mkt:01a00040-27e6-7aab-903e-2747b03caa92",
-      "time": "2026-08-14 20:29:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver traded above $65/oz, up 0.85% on the day."
-    },
-    {
-      "id": "5041526",
-      "time": "2026-08-14 20:29:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼將2027年能源補貼設定為273萬億印尼盾。"
-    },
-    {
-      "id": "5041524",
-      "time": "2026-08-14 20:28:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尚比亞因暴力事件暫停大選計票】尚比亞選舉委員會14日宣佈，因部分投票站計票過程中發生暴力事件，選舉委員會決定暫停計票。（新華社）"
-    },
-    {
-      "id": "5041523",
-      "time": "2026-08-14 20:28:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【平安理財上半年實現淨利潤5.53億元】8月14日晚，平安銀行釋出2026年半年度報告顯示，截至2026年6月末，該行全資子公司——平安理財上半年實現淨利潤5.53億元，總資產為148.91億元，淨資產為144.89億元。管理規模方面，該公司存續理財產品餘額為9783.89億元。"
-    },
-    {
-      "id": "5041522",
-      "time": "2026-08-14 20:27:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "龍湖集團上半年核心盈利初步資料5,000萬元人民幣至1.00億元人民幣。"
-    },
-    {
-      "id": "mkt:01a0003d-8208-7aab-903e-1d463649482a",
-      "time": "2026-08-14 20:27:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX completes acquisition of Cursor."
-    },
-    {
-      "id": "mkt:01a0003d-7919-7aab-903e-15ca8eb820fe",
-      "time": "2026-08-14 20:27:03",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Ukraine's agriculture minister said Odesa port may remain closed through November, creating a storage-capacity shortfall for farmers of up to 11 million tonnes."
-    },
-    {
-      "id": "mkt:01a0003d-3cfd-7aab-903e-08fde7c44d82",
-      "time": "2026-08-14 20:26:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's agriculture minister said officials are exploring ways to boost agricultural export volumes via alternative transport routes — road corridors, Danube ports and a new rail link through Moldova — and are consulting international partners."
-    },
-    {
-      "id": "5041521",
-      "time": "2026-08-14 20:26:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "龍湖集團上半年淨利潤初步資料18億元人民幣至20億元人民幣。"
-    },
-    {
-      "id": "mkt:01a0003d-0b9d-7aab-903e-044cef219aaa",
-      "time": "2026-08-14 20:26:35",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "Ukraine's agriculture minister said Russia carried out more than 60 attacks on seaport facilities in July, hitting 35 vessels in ports and a further 22 vessels at sea."
-    },
-    {
-      "id": "5041520",
-      "time": "2026-08-14 20:26:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海通發展：董事會審議多項議案 擬投資6億建船】海通發展公告稱，8月14日召開的第四屆董事會第四十五次會議審議多項議案。包括擬實施2026年限制性股票激勵計劃；同意全資子公司海通國際船務有限公司使用不超6億元（不含稅）投資建造2艘62,000DWT多用途重吊船；擬為全資子公司追加0.57億美元及對應債務的融資租賃擔保額度；續聘致同會計師事務所為2026年度審計機構；因激勵計劃等事項，公司總股本和註冊資本變更，並修訂《公司章程》。此外，董事會提議於8月31日召開2026年第三次臨時股東會。上述部分議案需提交股東會審議。"
-    },
-    {
-      "id": "5041519",
-      "time": "2026-08-14 20:26:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4380美元/盎司，日內漲0.67%。"
-    },
-    {
-      "id": "5041518",
-      "time": "2026-08-14 20:25:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯洛維尼亞克爾什科核電站因天氣有利，計劃將發電量提升至裝機容量的90%。"
-    },
-    {
-      "id": "5041517",
-      "time": "2026-08-14 20:25:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理：匈牙利即將沉放駁船抬高帕克斯核電站所在河段多瑙河水位。"
-    },
-    {
-      "id": "5041516",
-      "time": "2026-08-14 20:25:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭首相呼籲農民停止在高速公路上的抗議活動。"
-    },
-    {
-      "id": "5041515",
-      "time": "2026-08-14 20:25:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元現貨指數下跌0.4%，至當日低點"
-    },
-    {
-      "id": "mkt:01a0003b-d628-7aab-903d-f99da0dbdf4b",
-      "time": "2026-08-14 20:25:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The merger of SpaceX and Cursor took effect on Aug. 14."
-    },
-    {
-      "id": "5041514",
-      "time": "2026-08-14 20:24:35",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "SpaceX與Cursor合併於8月14日正式生效。"
-    },
-    {
-      "id": "5041512",
-      "time": "2026-08-14 20:24:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古自治區興和縣委原書記王會雨被雙開】經查，王會雨喪失理想信念，背棄初心使命，對抗組織審查，偽造證據並與他人串供，轉移隱匿證據；無視中央八項規定精神，收受可能影響公正執行公務的禮品、禮金，向從事公務的人員贈送明顯超出正常禮尚往來的財物，借用管理和服務物件車輛；違反組織原則，在組織函詢時不如實說明問題，利用職務便利為他人職務晉升提供幫助並收受財物；廉潔底線失守，利用職務便利為他人謀取利益並收受財物；不正確履行職責，違規干預插手工程專案招投標；將公權力異化為攫取私利的工具，為他人在專案承攬、工程款撥付等方面謀利，並非法收受鉅額財物。"
-    },
-    {
-      "id": "5041511",
-      "time": "2026-08-14 20:23:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【八億時空：2026年上半年淨利潤4369.76萬元，同比增41.54%】八億時空公告，2026年上半年營業收入4.7億元，同比增長13.17%。歸母淨利潤4369.76萬元，同比增長41.54%；扣非淨利潤4581.74萬元，同比增長53.73%。"
-    },
-    {
-      "id": "5041510",
-      "time": "2026-08-14 20:23:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【訊息稱三星計劃改變原定用於生產DRAM的器興新工廠生產線用途】據報道，三星電子正在推進一項計劃，擬將位於器興市正在建設中的NRD-K 2生產線用作代工生產線，而不是將其現有的研發設施用作代工廠。據悉，三星最初討論過投資建設DRAM量產生產線，但近期擬將該生產線改用作代工晶圓。此次主要量產目標產品是用於下一代HBM的2奈米基片，該策略被解讀為提前確保相關產能，響應英偉達的HBM需求。"
-    },
-    {
-      "id": "5041509",
-      "time": "2026-08-14 20:23:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：截至8月13日，銀行透過互換工具共累計引入568.5億美元外匯流入。"
-    },
-    {
-      "id": "5041508",
-      "time": "2026-08-14 20:23:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴克萊與 QRT 交易名義規模超千億美元 對沖基金助推大宗經紀業務】據知情人士透露，巴克萊銀行與庫布研究技術公司（Qube Research & Technologies）交易名義本金規模已突破 1000 億美元，這也體現出該對沖基金已成為巴克萊大宗經紀業務的重要增長動力。不願具名的知情人士表示，總部位於倫敦的 QRT 八年前從瑞士信貸分拆獨立，如今已是巴克萊大宗經紀業務的核心大客戶之一。巴克萊與該機構的交易規模為全部頭寸的總名義面值，並未扣除對沖抵消交易。"
-    },
-    {
-      "id": "5041507",
-      "time": "2026-08-14 20:21:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊銀行與對沖基金QRT的交易額增至超過1000億美元。"
-    },
-    {
-      "id": "5041506",
-      "time": "2026-08-14 20:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Lam Research：投資超30億美元擴建全球研發實驗室網路，實驗容量提升超 50%】美國半導體裝置製造商Lam Research宣佈，計劃在未來五年內投資超過30億美元，用於擴建其全球研發（R&D）實驗室網路。此次多站點擴建計劃預計將新增基礎設施與實驗能力，使該司實驗容量提升超過50%。"
-    },
-    {
-      "id": "5041505",
-      "time": "2026-08-14 20:21:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【青鳥智控：上半年歸母淨利潤同比下降12.54%】青鳥智控8月14日披露半年報，公司上半年實現營業收入20.21億元，同比下降6.01%；歸屬於上市公司股東的淨利潤1.39億元，上年同期1.59億元，同比下降12.54%；基本每股收益0.1323元/股。"
     }
   ]
 }
