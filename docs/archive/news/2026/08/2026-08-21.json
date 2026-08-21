@@ -1,7 +1,901 @@
 {
   "date": "2026-08-21",
-  "count": 2143,
+  "count": 2244,
   "items": [
+    {
+      "id": "mkt:01a023d5-d82b-7aab-90d0-b6dc1671d7c7",
+      "time": "2026-08-21 18:20:12",
+      "tags": [
+        "MKT News",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "Citigroup raised its PT on Marvell Technology (MRVL.O) to $275 from $225."
+    },
+    {
+      "id": "5052081",
+      "time": "2026-08-21 18:20:00",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金嶺南期貨被監管責令改正】深圳證監局披露，經查，深圳市中金嶺南期貨有限公司存在個別從業人員將非居間人開發的客戶調整至居間人名下，收取居間人佣金分成，為部分客戶開戶時提供反洗錢、開戶回訪問卷答案；未對從業人員市場開發行為進行有效監控，相關營銷活動管理制度不健全；資產管理業務投資物件准入和持續跟蹤管理不規範、風險監測不到位等問題。深圳證監局決定，對該公司採取責令改正的監督管理措施，並要求該公司應當切實整改，建立健全並持續完善覆蓋各業務的內部控制體系，加強從業人員、營銷活動、資管業務合規風險監測，切實維護交易者合法權益，並在收到決定書之日起30日內向監管提交整改報告。"
+    },
+    {
+      "id": "5052080",
+      "time": "2026-08-21 18:19:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國檢集團：2026年上半年淨利潤虧損2062.9萬元，同比由盈轉虧】國檢集團公告，2026年上半年營業收入11.03億元，同比增長4.57%；歸屬於上市公司股東的淨利潤虧損2062.9萬元，2025年上半年淨利潤581.21萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3940.71萬元，虧損較2025年上半年擴大132.16%。公司2026年半年度不進行利潤分配、公積金轉增股本。"
+    },
+    {
+      "id": "5052079",
+      "time": "2026-08-21 18:19:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新世界：2026年1-6月營業收入合計5.34億元】新世界公告，2026年半年度公司無門店變動及擬增加門店情況。2026年1-6月各經營模式營業收入合計5.34億元，營業成本3.03億元，毛利率43.33%；自營銷售商品營業收入合計1.41億元，毛利率38.53%。"
+    },
+    {
+      "id": "5052078",
+      "time": "2026-08-21 18:19:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“沙德爾”週日或達超強颱風級】目前，今年第18號颱風“沙德爾”已增強為強熱帶風暴級，其中心位置仍處於西北太平洋洋麵上。未來，其將持續向西北方向移動，強度逐漸增強，最強可達超強颱風級。預計“沙德爾”25日前對我國無明顯影響，26日前後穿過琉球群島進入東海。“沙德爾”移入東海後的路徑和對我國的影響不確定性較大。根據目前預報，主要有兩種可能路徑：一是在東海西行，於29日前後登陸我國華東沿海，登陸強度為颱風級或強颱風級；二是在東海折向偏北方向移動，趨向日本或韓國，強度逐漸減弱。（央視新聞）"
+    },
+    {
+      "id": "5052077",
+      "time": "2026-08-21 18:18:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利召回部分極氪007和極氪X汽車】日前，浙江吉利汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0102V：自2026年8月24日起，召回2023年3月1日至2026年5月21日期間生產的部分極氪007和極氪X汽車，共計92658輛。本次召回範圍內的車輛，由於車內應急機械拉手與內飾顏色接近，不易識別和操作。當發生嚴重碰撞導致整車低壓系統失效等極端情形時，可能影響駕乘人員快速開啟車門逃生和車外人員救援，存在安全隱患。浙江吉利汽車有限公司將授權、委託浙江極氪智慧科技有限公司免費為召回範圍內的車輛加貼警示標識；並透過汽車遠端升級（OTA）技術升級車窗控制軟體，增加事故後降窗策略，以降低安全隱患。"
+    },
+    {
+      "id": "5052076",
+      "time": "2026-08-21 18:17:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國投證券申請股票期權做市業務資格獲證監會反饋意見】8月21日，證監會披露對國投證券申請股票期權做市業務資格提出的反饋意見。具體來看，一是針對股票期權做市業務，該公司按照“董事會—經理層—投資業務委員會—投資業務委員會下設部門”逐級授權決策管理，但相關業務管理制度及實施方案均未對各層級具體決策許可權進行詳細說明等，需要補充完善；二是公司股票期權做市業務建立由“董事會及下設的風險控制委員會—經理層及下設的風險管理委員會—風險管理部門—各風險管理單元組成”組成的風險管理組織架構，請就“風險管理部門”、“各風險管理單元”的具體所指及關於股票期權做市業務的風險管理職責進行說明；三是根據申請材料，金融市場部總經理主要負責投資委及相關業務的統籌管理和大類資產配置等工作，不直接或間接參與具體證券品種的投資決策，但公司《股票期權做市業務管理辦法》規定，做市方案應經金融市場部負責人或其授權人同意方可執行，兩者似有矛盾，請完善相關安排。證監會要求，國投證券在30個工作日內對問題提供書面回覆和電子文件，收到公司回覆後，將根據情況決定是否再次發出反饋意見。"
+    },
+    {
+      "id": "5052075",
+      "time": "2026-08-21 18:17:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【縱橫通訊：2026年上半年淨利潤1492.41萬元，同比增長27.11%】縱橫通訊公告，2026年上半年營業收入9.84億元，同比增長23.33%；歸屬於上市公司股東的淨利潤1492.41萬元，同比增長27.11%，2025年同期為1174.08萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤304.55萬元，同比增長492.42%。"
+    },
+    {
+      "id": "5052074",
+      "time": "2026-08-21 18:17:25",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【北京證監局召開轄區資本市場支援科技金融工作座談會】8月6日，北京證監局召開座談會，邀請北京國管公司、海淀區金融辦、中關村科學城、北京股權交易中心、中關村資本、中金資本和清科集團相關專家進行深入交流。北京證監局黨委書記、局長冉華同志主持會議，一級巡視員林雯同志，黨委委員、副局長張傑斌同志及相關處室負責同志參會。座談會上，各位專家圍繞北京地區科技創新發展的優勢與特點、資本市場服務北京科技創新的獨特模式、更好發揮資本市場支援科技型企業融資發展的作用等方面發言，並對證監會系統、北京市政府提出政策建議。（北京監管局）"
+    },
+    {
+      "id": "mkt:01a023d3-1447-7aab-90d0-aa5aea2d8c6d",
+      "time": "2026-08-21 18:17:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01347.HK",
+        "Impact bullish",
+        "02338.HK",
+        "00780.HK",
+        "Impact bearish"
+      ],
+      "text": "【Hang Seng Indexes Company: Hang Seng Index constituent count to rise from 93 to 95】Hang Seng Indexes Company said its quarterly review as of June 30, 2026 will raise Hang Seng Index constituents from 93 to 95, adding Huahong Hongli (01347.HK) and Weichai Power (02338.HK). Hang Seng Tech Index will remain at 30 constituents, adding Tianshu Zhixin (09903.HK) and removing Tongcheng Travel (00780.HK). Constituent changes to the Hang Seng Index (HSI), Hang Seng China Enterprises Index (HSCEI), Hang Seng Tech Index and Hang Seng Composite Index will be implemented after market close on Sept. 4, 2026 and take effect on Sept. 7, 2026."
+    },
+    {
+      "id": "5052073",
+      "time": "2026-08-21 18:17:03",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【恒生指數公司：恒生指數成份股數目將由93只增加至95只】恒生指數公司今天宣佈，截至2026年6月30日之恒生指數系列季度檢討結果。恒生指數成份股數目將由93只增加至95只，加入華虹宏力(01347.HK)、濰柴動力(02338.HK)；恒生科技指數成份股數目維持30只，加入天數智芯(09903.HK)，剔除同程旅行(00780.HK)。恒生指數、恒生中國企業指數、恒生科技指數及恒生綜合指數的成份股變動將於2026年9月4日（星期五）收市後實施，並於2026年9月7日（星期一）起生效。"
+    },
+    {
+      "id": "te:economy:577261",
+      "time": "2026-08-21 18:16:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Ireland Wholesale Inflation Rises to Highest in 4 Years — Ireland’s wholesale prices rose 7.3% year-on-year in July 2026, accelerating sharply from a 3.5% increase in June and reaching the highest level since October 2022. Domestic prices increased 4.5%, while export producer prices rose 7.6%. The acceleration was mainly driven by higher food prices (2.7%), while additional upward pressure came from chemicals and chemical products (16.5%), other non-metallic mineral products (6.4%), electrical equipment (6.2%), basic metals (5.6%), fabricated metal products excluding machinery and equipment (4.8%), and pulp, paper and paper products (4.2%). Meanwhile, electricity price inflation accelerated to 56.2% from 42.2%, although overall energy inflation eased to 19.1% from 24.5%. On a monthly basis, wholesale prices rose 3.2%, the largest increase since November 2019, reversing a 0.2% decline in June."
+    },
+    {
+      "id": "mkt:01a023d2-952b-7aab-90d0-a7445f798ccd",
+      "time": "2026-08-21 18:16:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing securities regulator holds roundtable on capital-market support for tech finance】On Aug. 6, the Beijing bureau of the CSRC convened a roundtable with Beijing State-owned Assets Management Co., Haidian district financial office, Zhongguancun Science City, Beijing Equity Exchange, Zhongguancun Capital, CICC Capital and Zero2IPO Group to discuss capital-market support for tech finance. Experts reviewed Beijing's tech-innovation advantages, capital-market service models and measures to improve financing for technology firms, and submitted policy recommendations to the CSRC system and Beijing municipal government."
+    },
+    {
+      "id": "mkt:01a023d2-4dab-7aab-90d0-9fd0e2d79062",
+      "time": "2026-08-21 18:16:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wells Fargo cuts Walmart (WMT.N) PT to $120 from $140."
+    },
+    {
+      "id": "5052072",
+      "time": "2026-08-21 18:16:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【山東黃金：連續三個交易日漲幅偏離值累計超過20%】山東黃金公告，2026年8月19日、2026年8月20日、2026年8月21日連續三個交易日內收盤價格漲幅偏離值累計超過20%，構成股票交易異常波動。經自查並向控股股東核實，公司及控股子公司生產經營正常，市場環境或行業政策未發生重大調整，未籌劃重大事項，未發現重大媒體報道或市場傳聞。"
+    },
+    {
+      "id": "5052071",
+      "time": "2026-08-21 18:16:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【秦安股份：2026年上半年淨利潤4831.22萬元，同比下降39.90%】秦安股份公告，2026年上半年營業收入7.06億元，同比增長4.47%；歸屬於上市公司股東的淨利潤4831.22萬元，同比下降39.90%，同期為8038.74萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4893.93萬元，同比下降41.62%，同期為8382.49萬元。公司本報告期不進行利潤分配及資本公積金轉增股本。"
+    },
+    {
+      "id": "5052070",
+      "time": "2026-08-21 18:15:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰嘉股份：擬受讓鉑泰電子少數股權並吸收合併】泰嘉股份公告稱，公司董事會審議透過多項議案：以46.71萬元受讓長沙薈金持有的長沙鉑泰電子有限公司0.5244%股權，受讓完成後將直接持有鉑泰電子100%股權，後續擬吸收合併鉑泰電子，合併完成後鉑泰電子法人資格登出，其全部資產、債權債務、人員及業務由公司繼承，該吸收合併事項尚需公司股東會審議；擬在股權轉讓完成後啟動長沙薈金清算登出程式；同意“硬質合金帶鋸條產線建設專案”“高速鋼雙金屬帶鋸條產線建設專案”延期至2027年9月20日達到預定可使用狀態；審議透過2026年半年度報告、募集資金存放使用專項報告及半年度資產減值計提等議案。"
+    },
+    {
+      "id": "5052069",
+      "time": "2026-08-21 18:15:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰嘉股份：擬清算登出長沙薈金合夥企業】泰嘉股份公告稱，公司董事會審議透過議案，擬在長沙薈金企業管理合夥企業（有限合夥）將其持有的鉑泰電子0.5244%股權轉讓給公司後，啟動長沙薈金清算登出程式。長沙薈金註冊資本113.04萬元，公司持有其99.1154%份額，全資子公司無錫衡嘉鋸切科技有限公司持有0.8846%份額。登出完成後，長沙薈金將不再納入公司合併報表範圍，本次登出不會對公司整體業務發展產生不利影響。"
+    },
+    {
+      "id": "5052068",
+      "time": "2026-08-21 18:14:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天健集團：2026年上半年淨利潤虧損3.33億元，同比由盈轉虧】天健集團公告，2026年上半年營業收入65.89億元，同比增長5.22%；歸屬於上市公司股東的淨利潤虧損3.33億元，上年同期淨利潤4142.37萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3.56億元。"
+    },
+    {
+      "id": "5052067",
+      "time": "2026-08-21 18:13:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中關村：2026年上半年淨利潤虧損2979.65萬元，同比由盈轉虧】中關村公告，2026年上半年營業收入10.07億元，同比下降18.68%；歸屬於上市公司股東的淨利潤虧損2979.65萬元，2025年上半年為3880.89萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3163.32萬元，2025年上半年為3685.49萬元，同比由盈轉虧。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5052066",
+      "time": "2026-08-21 18:13:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東山精密：2026年上半年淨利潤29.57億元，同比增長290.09%】東山精密公告，2026年上半年營業收入277.98億元，同比增長63.95%；歸屬於上市公司股東的淨利潤29.57億元，同比增長290.09%，2025年同期為7.58億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤24.8億元，同比增長277.52%。"
+    },
+    {
+      "id": "5052065",
+      "time": "2026-08-21 18:13:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "市場訊息：華虹格思、濰柴動力將納入香港恒生指數。"
+    },
+    {
+      "id": "5052064",
+      "time": "2026-08-21 18:13:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冀東裝備：2026年上半年淨利潤638.87萬元，同比下降42.27%】冀東裝備公告，2026年上半年營業收入12.51億元，同比下降13.08%；歸屬於上市公司股東的淨利潤638.87萬元，同比下降42.27%，2025年同期1106.64萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤215.04萬元，同比下降71.46%，2025年同期753.51萬元。"
+    },
+    {
+      "id": "5052063",
+      "time": "2026-08-21 18:13:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃山膠囊：2026年上半年淨利潤3013.78萬元，同比下降15.23%】黃山膠囊公告，2026年上半年營業收入1.91億元，同比下降21.86%；歸屬於上市公司股東的淨利潤3013.78萬元，同比下降15.23%，2025年同期3555.25萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2968.54萬元，同比下降13.70%。"
+    },
+    {
+      "id": "mkt:01a023cf-3f9e-7aab-90d0-941f4c6b7d8d",
+      "time": "2026-08-21 18:12:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Mexico will extend its fuel price-stabilization program by six months."
+    },
+    {
+      "id": "5052062",
+      "time": "2026-08-21 18:12:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米汽車科技有限公司召回部分2024款小米牌SU7系列純電動汽車】日前，小米汽車科技有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。本次召回範圍內的車輛，由於車內應急機械拉手與內飾顏色接近，不易識別和操作。當發生嚴重碰撞導致整車低壓系統失效等極端情形時，可能影響駕乘人員快速開啟車門逃生和車外人員救援，存在安全隱患。小米汽車科技有限公司將免費為召回範圍內的車輛在車內應急機械拉手處加貼警示標識；並透過汽車遠端升級（OTA）技術升級軟體，最佳化中控解鎖邏輯及降窗策略，以降低安全隱患。因部分車輛已加貼警示標識，本次召回此部分車輛無需再次加貼。（市場監管總局）"
+    },
+    {
+      "id": "mkt:01a023cf-274c-7aab-90d0-8ad44edb6eb0",
+      "time": "2026-08-21 18:12:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xiaomi Automobile to recall certain 2024 Xiaomi-brand SU7 BEVs】Xiaomi Automobile Technology Co. filed a recall plan with SAMR under defective-automotive recall rules for certain 2024 Xiaomi-brand SU7 series battery-electric vehicles. The interior emergency mechanical pull handle is similar in color to surrounding trim, reducing visibility and operability; in severe collisions that disable the vehicle low-voltage system this could impede occupants from opening doors and delay external rescue. Xiaomi will free of charge apply warning labels to the interior emergency pull handle and issue an OTA software update to optimize central-lock unlocking logic and window-lowering strategy to reduce the risk. Vehicles already fitted with a warning label will not be re-labeled."
+    },
+    {
+      "id": "mkt:01a023cf-11a3-7aab-90d0-87b41b231e69",
+      "time": "2026-08-21 18:12:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Toyota Motor (China) Investment Co. expands recall of certain imported vehicles】Toyota Motor (China) Investment Co. filed with the State Administration for Market Regulation (SAMR) under recall number S2026M0090V to recall, effective immediately, 18 imported Toyota Supra 2.0T cars produced between Sept. 6, 2022 and Feb. 28, 2023. Cause: starter motor manufacturing defect — repeated starts can cause abnormal internal wear leading to starting difficulty and, in extreme cases, internal short circuit, localized overheating and fire risk. Filing cites the Defective Motor Vehicle Product Recall Regulations and its implementing measures."
+    },
+    {
+      "id": "5052061",
+      "time": "2026-08-21 18:12:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月份民航旅客運輸量同比增長3.9%】記者21日從中國民航局獲悉，7月份，民航旅客運輸量7462.9萬人次，同比增長3.9%。正班客座率86.3%。中國民航局當日公佈民航7月份主要生產指標統計資料。資料顯示，7月份，民航國內航線旅客運輸量6736.9萬人次，同比增長4.1%；國際航線旅客運輸量726萬人次，同比增長2.3%。貨郵運輸方面，7月份，民航貨郵運輸量86.4萬噸，同比下降0.3%。（新華社）"
+    },
+    {
+      "id": "5052060",
+      "time": "2026-08-21 18:12:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中國一汽召回部分EH7、天工08汽車】日前，中國第一汽車集團有限公司授權、委託中國第一汽車股份有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0106V：自即日起，召回2024年1月11日至2026年3月30日期間生產的部分EH7汽車，共計7873輛；2024年4月29日至2026年1月23日期間生產的部分天工08汽車，共計4035輛。本次召回範圍內的車輛，由於車內應急機械拉手與內飾顏色接近，不易識別和操作。當發生嚴重碰撞導致整車低壓系統失效等極端情形時，可能影響駕乘人員快速開啟車門逃生，存在安全隱患。中國第一汽車股份有限公司將免費為召回範圍內的車輛在車內應急機械拉手位置加貼警示標識，以降低安全隱患。"
+    },
+    {
+      "id": "mkt:01a023ce-6235-7aab-90d0-79a791534451",
+      "time": "2026-08-21 18:12:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil rose to $87/bbl, up 1.26% intraday."
+    },
+    {
+      "id": "te:markets:577260",
+      "time": "2026-08-21 18:11:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Hits 4-week High — Brent increased to 94.24 USD/Bbl, the highest since July 2026. Over the past 4 weeks, Brent Crude Oil gained 0.02%, and in the last 12 months, it increased 38.92%."
+    },
+    {
+      "id": "5052059",
+      "time": "2026-08-21 18:11:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "浙江吉利汽車有限公司召回部分吉利銀河M9、領克900、領克10EM-P、領克07、領克08汽車。"
+    },
+    {
+      "id": "5052058",
+      "time": "2026-08-21 18:11:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "豐田汽車（中國）投資有限公司擴大召回部分進口汽車。"
+    },
+    {
+      "id": "mkt:01a023cd-e0a7-7aab-90d0-713bcd19a3a7",
+      "time": "2026-08-21 18:11:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "【Tesla (Shanghai) Co., Ltd. and Tesla Motors (Beijing) Co., Ltd. recall certain domestic and imported battery electric vehicles】Tesla (Shanghai) Co., Ltd. and Tesla Motors (Beijing) Co., Ltd. have filed a recall plan with SAMR under China’s defective auto recall rules covering certain domestically produced and imported battery electric vehicles. When assisted steering and the combined driver-assistance system are engaged, the current attention-monitoring system may not alert drivers whose gaze is off-road, which could increase collision risk. Tesla (Shanghai) will deploy a free OTA software upgrade to affected vehicles to reduce that risk by adding in-cabin camera monitoring to existing steering-torque checks and more promptly prompt drivers to resume control and observe traffic. Owners can receive the update remotely; vehicles that cannot be updated via OTA will be contacted through Tesla service centers for recall repair to address the safety issue."
+    },
+    {
+      "id": "5052057",
+      "time": "2026-08-21 18:11:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "捷尼賽思汽車銷售（上海）有限公司召回部分進口捷尼賽思G80汽車。"
+    },
+    {
+      "id": "5052056",
+      "time": "2026-08-21 18:11:14",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【特斯拉（上海）有限公司、特斯拉汽車（北京）有限公司召回部分國產及進口純電動汽車】日前，特斯拉（上海）有限公司、特斯拉汽車（北京）有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。本次召回範圍內的車輛，在輔助轉向功能開啟、車輛進入組合駕駛輔助系統狀態下，現有注意力監測機制不足以為駕駛員提供視線脫離提示，若駕駛員不及時干預可能增加碰撞風險，存在安全隱患。特斯拉（上海）有限公司將透過汽車遠端升級（OTA）技術，為召回範圍內的車輛免費升級軟體，以降低可能增加的碰撞風險。在現有的方向盤扭矩監控的基礎上，增加艙內攝像頭監測，進一步促使駕駛員在啟用組合駕駛輔助功能時，及時提示駕駛員，履行駕駛職責並遵守駕駛規定，且隨時注意周圍交通狀況。使用者無需到店即可完成軟體升級。對於無法透過OTA技術升級的車輛，將透過特斯拉服務中心聯絡相關使用者實施召回，以消除安全隱患。"
+    },
+    {
+      "id": "mkt:01a023cd-65cb-7aab-90d0-6adefbf3afcf",
+      "time": "2026-08-21 18:10:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "XPEV.O",
+        "Impact bearish"
+      ],
+      "text": "【Zhaoqing XPeng files recall for G6, P7+ and X9 totalling 264,842 vehicles】Zhaoqing XPeng New Energy Investment Co. filed a recall with SAMR (S2026M0101V) under China’s defective-vehicle regulations, effective Aug. 22, 2026, covering 264,842 vehicles. Affected units: G6 produced Apr. 7, 2023–Dec. 22, 2025 — 134,588 units; P7+ produced Jul. 23, 2024–Dec. 10, 2025 — 94,688 units; X9 produced Aug. 8, 2023–Sep. 26, 2025 — 35,566 units. Defect: interior emergency mechanical door handles have similar color to trim, reducing recognizability and operability; in severe collisions that disable the vehicle low-voltage system this may hinder rapid door opening and passenger escape. Remedy: the company will apply free warning labels at the interior emergency-handle locations to mitigate the safety risk."
+    },
+    {
+      "id": "mkt:01a023cc-fef3-7aab-90d0-669dd7ccd6c8",
+      "time": "2026-08-21 18:10:32",
+      "tags": [
+        "MKT News",
+        "0175.HK",
+        "Impact bearish"
+      ],
+      "text": "【Zhejiang Geely Automobile Co., Ltd. to recall certain Zeekr 007 and Zeekr X vehicles】Zhejiang Geely Automobile Co., Ltd. filed a recall plan with the State Administration for Market Regulation (SAMR) under recall number S2026M0102V to recall 92,658 Zeekr 007 and Zeekr X vehicles produced from Mar 1, 2023 to May 21, 2026, effective Aug 24, 2026. Affected cars have interior emergency mechanical door handles that closely match surrounding trim, reducing visibility and operability; in severe collisions that cause vehicle low-voltage system failure this may impede rapid door opening for occupant escape or external rescue, creating a safety hazard."
+    },
+    {
+      "id": "5052055",
+      "time": "2026-08-21 18:10:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "零跑汽車有限公司召回部分C11和C01汽車。"
+    },
+    {
+      "id": "5052054",
+      "time": "2026-08-21 18:10:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝奧微：2026年上半年淨利潤1.39億元，同比扭虧為盈】帝奧微公告，2026年上半年營業收入2.29億元，同比下降25.24%；歸屬於上市公司股東的淨利潤1.39億元，2025年同期虧損420.92萬元，實現扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損8905萬元，2025年同期虧損2383.69萬元。"
+    },
+    {
+      "id": "5052053",
+      "time": "2026-08-21 18:09:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "肇慶小鵬新能源投資有限公司召回部分小鵬G6、P7+、X9汽車。"
+    },
+    {
+      "id": "5052052",
+      "time": "2026-08-21 18:09:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "浙江吉利汽車有限公司召回部分極氪007和極氪X汽車。"
+    },
+    {
+      "id": "5052051",
+      "time": "2026-08-21 18:09:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天鵝股份：2026年上半年營收3.64億元 同比增13.35%】天鵝股份公告稱，2026年上半年實現營業收入3.64億元，同比增長13.35%；歸屬於上市公司股東淨利潤1941.77萬元，同比增長7.3%。上半年研發投入1835.65萬元，同比增長4.03%，新增授權國家專利28項，其中發明專利7項，有效專利累計達288項。公司完成2025年度現金紅利發放，合計派發現金紅利2244.83萬元（含稅），上市以來已連續10年實施年度現金分紅，累計分紅總額1.32億元。Wind ESG評級由B級提升至A級。"
+    },
+    {
+      "id": "5052050",
+      "time": "2026-08-21 18:09:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【古麒絨材：兩股東合計減持95萬股 持股比例降至12%】古麒絨材公告稱，2026年7月30日至8月20日，公司持股5%以上股東北京城建一期（蕪湖）股權投資基金合夥企業（有限合夥）、特定股東蕪湖京城二期股權投資基金合夥企業（有限合夥）透過集中競價方式合計減持公司股份95萬股，佔總股本比例0.4750%。其中北京城建一期減持69.67萬股，佔比0.3484%；蕪湖京城二期減持25.33萬股，佔比0.1267%。本次權益變動後，二者合計持股2400萬股，佔總股本比例由12.4750%降至12%，觸及1%整數倍。本次減持在已披露的減持計劃範圍內，減持計劃尚未實施完畢。"
+    },
+    {
+      "id": "mkt:01a023cc-08bd-7aab-90d0-5c86e35a43cf",
+      "time": "2026-08-21 18:09:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude gains widen to 1.00% intraday, trading at $92.63/bbl."
+    },
+    {
+      "id": "5052049",
+      "time": "2026-08-21 18:09:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "奇瑞新能源汽車股份有限公司召回部分iCAR 03、風雲X3汽車。"
+    },
+    {
+      "id": "5052048",
+      "time": "2026-08-21 18:09:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "北汽藍谷麥格納汽車有限公司召回部分極狐考拉純電動汽車。"
+    },
+    {
+      "id": "5052047",
+      "time": "2026-08-21 18:08:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "東風汽車集團有限公司召回部分奈米06、風神L8、eπ007、eπ008汽車。"
+    },
+    {
+      "id": "mkt:01a023cb-7926-7aab-90d0-522217053420",
+      "time": "2026-08-21 18:08:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chongqing Zhangxue Motorcycle Industrial Co. recalls 286 2026 820RR motorcycles】Chongqing Zhangxue Motorcycle Industrial Co. has filed a recall with SAMR under China’s defective vehicle recall rules (recall no. S2026M0061V). The company is recalling 286 units of the 2026 820RR motorcycle produced from 3 Apr to 21 Apr 2026. Defect: incorrect installation of the engine pressure‑relief valve O‑ring, which can be deformed or damaged, loosening the valve assembly and causing engine oil leakage and inadequate lubrication. Possible outcomes include connecting‑rod bearing failure, crankcase rupture or engine seizure; in extreme cases the defect may cause rider crashes."
+    },
+    {
+      "id": "5052046",
+      "time": "2026-08-21 18:08:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "金龍聯合汽車工業（蘇州）有限公司召回部分燃料電池半掛牽引車。"
+    },
+    {
+      "id": "5052045",
+      "time": "2026-08-21 18:08:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "中國第一汽車集團有限公司召回部分EH7、天工08汽車。"
+    },
+    {
+      "id": "mkt:01a023cb-1a28-7aab-90d0-4f57408d4235",
+      "time": "2026-08-21 18:08:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil rose 1.00% intraday to $86.80/bbl."
+    },
+    {
+      "id": "5052044",
+      "time": "2026-08-21 18:08:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶張雪機車工業有限公司召回部分820RR型摩托車】日前，重慶張雪機車工業有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0061V：自即日起，召回2026年4月3日至2026年4月21日期間生產的2026款820RR型摩托車，共計286輛。本次召回範圍內的車輛，由於發動機洩壓閥O型密封圈裝配錯誤，密封圈被擠壓變形、損壞，造成洩壓閥元件鬆動，引起機油洩漏潤滑不足，可能導致連桿拉瓦、曲軸箱破裂、發動機抱死。極端情況下，可能造成駕駛員摔車，存在安全隱患。（市場監管總局）"
+    },
+    {
+      "id": "mkt:01a023ca-97b7-7aab-90d0-452e25e0a7f1",
+      "time": "2026-08-21 18:07:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose more than 1.00% intraday, trading at $87.08/bbl."
+    },
+    {
+      "id": "5052043",
+      "time": "2026-08-21 18:07:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四創電子：2026年上半年虧損1.34億元，上年同期虧損4343.19萬元】四創電子公告，2026年上半年營業收入4.84億元，同比下降28.50%；歸屬於上市公司股東的淨利潤虧損1.34億元，2025年同期虧損4343.19萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.38億元，2025年同期虧損4620.07萬元。"
+    },
+    {
+      "id": "mkt:01a023ca-4945-7aab-90d0-3e7deacd7241",
+      "time": "2026-08-21 18:07:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "SK Hynix said it has not decided to build a factory in Japan and will disclose further information within one month starting today. Earlier reports said SK Hynix planned a memory-chip plant in Miyagi Prefecture, Japan."
+    },
+    {
+      "id": "5052042",
+      "time": "2026-08-21 18:07:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【可川科技：2026年上半年營收4.49億元 淨虧損2828.07萬元】可川科技公告稱，2026年半年度實現營業收入4.49億元，同比增長7.03%；歸屬於上市公司股東的淨虧損2828.07萬元。2026年半年度研發投入3482.76萬元，佔營業收入比例為7.76%，同比增長49.24%。2025年度公司累計回購股份金額1999.69萬元，視同2025年度現金分紅，佔2025年度歸母淨利潤比例為126.89%。"
+    },
+    {
+      "id": "5052041",
+      "time": "2026-08-21 18:07:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇正藏藥：上半年營收9.78億元 淨利同比增3.60%】奇正藏藥公告稱，2026年上半年實現營業收入9.78億元，同比下降16.77%；歸屬於上市公司股東的淨利潤3.71億元，同比增長3.60%；扣非淨利潤2.9987億元，同比增長3.59%。公司擬以剔除回購賬戶股份後的5.67億股為基數，向全體股東每10股派發現金紅利2.30元（含稅），不送紅股、不以公積金轉增股本，該方案在2025年年度股東會決議授權範圍內，無需再次提交股東會審議。"
+    },
+    {
+      "id": "5052040",
+      "time": "2026-08-21 18:06:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通裕重工：2026年上半年營收35.53億元 同比增20.74%】通裕重工公告稱，2026年上半年實現營業收入35.53億元，同比增長20.74%；歸屬於上市公司股東的淨利潤7743.87萬元，同比增長27.49%；扣非淨利潤6896.01萬元，同比增長20.19%。公司擬每10股派發現金紅利0.05元（含稅），不送紅股、不以公積金轉增股本。控股股東山東國惠資本擬增持不低於1.50億元且不高於3.00億元公司股份，截至報告披露日已增持1811.20萬元，增持計劃尚未實施完畢。"
+    },
+    {
+      "id": "5052039",
+      "time": "2026-08-21 18:06:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST龍大：控股股東部分股份完成司法拍賣過戶及劃轉】ST龍大公告稱，控股股東藍潤髮展持有的6683.31萬股公司股份於2026年8月20日完成司法拍賣過戶，由魏巍競得，成交價1.30億元；另2677.71萬股流拍股份同日被司法劃轉至樂山市商業銀行成都分行抵償4574.86萬元債務。本次變動後藍潤髮展持股降至1.79億股，佔總股本13.13%，仍為第一大股東，公司實控權未變更。藍潤髮展新增769.54萬股股份被司法凍結，累計質押1.25億股、累計凍結2447.15萬股。"
+    },
+    {
+      "id": "5052038",
+      "time": "2026-08-21 18:06:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝殼－Ｗ：2026年上半年淨利潤人民幣38.79億元】貝殼－Ｗ公告，2026年上半年淨收入人民幣434億元，同比下降12.0%；淨利潤人民幣38.79億元，2025年同期為人民幣21.62億元；經調整淨利潤人民幣47.96億元，同比增長49.2%。期內總交易額人民幣16455億元，同比下降4.5%。"
+    },
+    {
+      "id": "5052037",
+      "time": "2026-08-21 18:06:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "SK海力士：尚未就日本工廠作出任何決定。"
+    },
+    {
+      "id": "5052036",
+      "time": "2026-08-21 18:06:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同濟科技：2026年上半年淨利潤1.23億元，同比下降15.73%】同濟科技公告，2026年上半年營業收入23.17億元，同比增長52.69%；歸屬於上市公司股東的淨利潤1.23億元，同比下降15.73%，2025年上半年淨利潤為1.46億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.2億元，同比下降16.94%，2025年上半年為1.45億元。"
+    },
+    {
+      "id": "5052035",
+      "time": "2026-08-21 18:05:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【可川科技：2026年上半年淨利潤虧損2828.07萬元，同比由盈轉虧】可川科技公告，2026年上半年營業收入4.49億元，同比增長7.03%；歸屬於上市公司股東的淨利潤虧損2828.07萬元，2025年同期為2521.06萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2962.91萬元，2025年同期為2195.61萬元，由盈轉虧。"
+    },
+    {
+      "id": "5052034",
+      "time": "2026-08-21 18:05:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊策科技交出亮眼中期業績，營收激增389%，印證“真AI”價值。"
+    },
+    {
+      "id": "5052033",
+      "time": "2026-08-21 18:05:37",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "SK海力士公司：正在評估包括建立額外生產基地在內的措施以強化儲存業務。"
+    },
+    {
+      "id": "5052032",
+      "time": "2026-08-21 18:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【返利科技：2026年上半年營收3.37億元 同比增81.06%】返利科技公告稱，2026年上半年實現營業收入3.37億元，同比增長81.06%；歸屬於上市公司股東的淨虧損2832.50萬元，上年同期淨虧損3328.03萬元；歸屬於上市公司股東的扣除非經常性損益的淨虧損2952.42萬元。報告期內公司營收結構變化，廣告推廣服務、其他產品及服務收入佔比提升，導購業務、平臺技術服務收入佔比下降。公司2026年6月9日起撤銷退市風險警示，股票簡稱由*ST返利變更為返利科技。"
+    },
+    {
+      "id": "5052031",
+      "time": "2026-08-21 18:05:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科興製藥：上半年營收6.07億元 淨利同比增66.71%】科興製藥公告稱，2026年上半年實現營業收入6.07億元，歸屬於上市公司股東的淨利潤1.34億元，同比增長66.71%；研發投入1.28億元，同比增長33.08%。上半年完成9款高價值產品引進，新增海外註冊受理32個、批件29個。完成2025年度權益分派，每10股派現2.50元（含稅），合計派現4946.56萬元；2025年股份回購實施完畢，累計回購151.44萬股，佔總股本0.75%，支付金額5506.46萬元。"
+    },
+    {
+      "id": "mkt:01a023c8-2721-7aab-90d0-37419a2282b3",
+      "time": "2026-08-21 18:05:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai Silicon Industry: 300mm wafer prices entering uptrend; some 300mm SOI products validated and shipping】In an investor-relations filing Shanghai Silicon Industry said domestic 300mm wafer prices, after steady declines in 2023-25, stabilized in 1H 2026 and have begun to trend higher. Products that saw larger earlier discounts are undergoing price recovery, and high-demand SKUs have room for further increases. For customers without long-term agreements the company is actively pursuing price adjustments; for long‑term contract customers any price changes will be negotiated on incremental volumes based on market conditions; as long-term orders expire the share of customers eligible for repricing will rise. The company is sampling 300mm SOI across silicon photonics, RF and high-voltage applications; several products have passed technical validation, customer validation and onboarding are underway, and some SKUs have completed validation and started shipping."
+    },
+    {
+      "id": "mkt:01a023c8-0ac3-7aab-90d0-2f5776372a1b",
+      "time": "2026-08-21 18:05:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "BEKE.N",
+        "Impact bullish"
+      ],
+      "text": "Beike (BEKE.N) shares rose 5.5% in U.S. premarket trading."
+    },
+    {
+      "id": "5052030",
+      "time": "2026-08-21 18:04:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智動力：2026年上半年營收6.63億元 淨虧損收窄】智動力公告稱，2026年上半年實現營業收入6.63億元，同比下降13.65%；歸屬於上市公司股東的淨虧損1560.69萬元，同比收窄61.92%；扣非後淨虧損7026.86萬元，同比擴大63.10%。公司不派發現金紅利，不送紅股，不以公積金轉增股本。此外，公司與周桂克的阿特斯股權轉讓相關兩起訴訟均獲終審判決，公司以債權債務可抵消金額為限確認投資收益，增加上半年利潤總額6095萬元。"
+    },
+    {
+      "id": "5052029",
+      "time": "2026-08-21 18:04:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【魚躍醫療：2026年上半年營收45.69億元 淨利同比降29.92%】魚躍醫療公告稱，2026年上半年實現營業收入45.69億元，同比下降1.92%；歸屬於上市公司股東的淨利潤8.43億元，同比下降29.92%；扣非淨利潤7.61億元，同比下降16.69%。公司擬每10股派發現金紅利4元（含稅），不送紅股、不以公積金轉增股本。公司擬回購股份用於登出，回購資金總額不低於2億元、不超過4億元，回購價格不超過40元/股。報告期內，公司持續葡萄糖監測系統獲歐盟MDR認證，半自動體外除顫器取得醫療器械註冊證；副總經理毛堅強因退休離任。"
+    },
+    {
+      "id": "5052028",
+      "time": "2026-08-21 18:04:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2連板科森科技：摺疊屏相關業務收入佔公司營業收入的比例極低】科森科技(603626.SH)釋出異動公告，經公司自查，市場傳聞公司為“摺疊屏概念股”。截至目前，公司在該領域的業務模式為生產及銷售精密結構件，相關業務收入佔公司營業收入的比例極低，對公司業績不產生重大影響，敬請廣大投資者理性投資，注意投資風險。"
+    },
+    {
+      "id": "te:economy:577259",
+      "time": "2026-08-21 18:04:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Slovenia Jobless Rate Edges Down — Slovenia’s unemployment rate edged down to 4.3% in June 2026, from 4.4% in May, matching the level recorded in June 2025, which marked the lowest rate on record. The number of unemployed fell 1.9% month-on-month to 42,245, driven by declines among both men (-2.1%) and women (-1.7%). Unemployment decreased across all age groups, while most of unemployment is comprised of people over the age of 55, while unemployed between the ages of 30-39 and 40-49 also account for a large share. Meanwhile, the share of unemployed people with tertiary education increased to 18.5% from 18%. First-time jobseekers accounted for 17.4%, down from 17.7%, while the share of those unemployed for more than a year rose to 38.7%. Job vacancies increased to 15,000, the highest level since July 2025."
+    },
+    {
+      "id": "5052027",
+      "time": "2026-08-21 18:04:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深信服：2026年上半年淨利潤2.31億元，同比扭虧為盈】深信服公告，2026年上半年營業收入39.98億元，同比增長32.85%；歸屬於上市公司股東的淨利潤2.31億元，上年同期虧損2.28億元，實現扭虧為盈；扣非淨利潤1.79億元，上年同期虧損2.59億元，虧損較上年同期收窄169.22%。"
+    },
+    {
+      "id": "5052026",
+      "time": "2026-08-21 18:04:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光正眼科：2026年上半年淨利潤1777.58萬元，同比增長1152.76%】光正眼科公告，2026年上半年營業收入3.9億元，同比下降10.55%；歸屬於上市公司股東的淨利潤1777.58萬元，同比增長1152.76%，2025年同期為141.89萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損323.17萬元，虧損較2025年同期收窄1.47%，2025年同期虧損327.98萬元。公司計劃不派發現金紅利、不送紅股、不以公積金轉增股本。"
+    },
+    {
+      "id": "5052025",
+      "time": "2026-08-21 18:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南天雁：2026年上半年營收3.07億元 淨利同比增75.40%】湖南天雁公告稱，2026年上半年實現營業收入3.07億元，同比增長29.56%；歸屬於上市公司股東的淨利潤205.04萬元，同比增長75.40%；歸屬於上市公司股東的扣除非經常性損益的淨利潤122.13萬元，上年同期為-105.11萬元。基本每股收益0.0019元/股，同比增長72.73%。本報告期不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5052024",
+      "time": "2026-08-21 18:03:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天橋起重：2026年上半年淨利潤6603.32萬元，同比增長50.37%】天橋起重公告，2026年上半年營業收入8.11億元，同比增長1.94%；歸屬於上市公司股東的淨利潤6603.32萬元，同比增長50.37%，2025年同期4391.33萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5784.69萬元，同比增長59.13%，2025年同期3635.14萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5052023",
+      "time": "2026-08-21 18:03:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資料港：2026年上半年營收7.82億元 淨利同比增1.09%】資料港公告稱，2026年上半年實現營業收入7.82億元，同比下降3.57%；歸屬於上市公司股東的淨利潤8588.31萬元，同比增長1.09%；扣除非經常性損益的淨利潤7253.60萬元，同比增長3.67%。公司擬以總股本8.62億股為基數，向全體股東每10股派發現金紅利0.20元（含稅），不送紅股，不進行資本公積金轉增股本。"
+    },
+    {
+      "id": "5052022",
+      "time": "2026-08-21 18:03:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【會通股份：2026年上半年營收36.30億元 淨利微增2%】會通股份公告稱，2026年上半年實現營業收入36.30億元，同比增長20.15%；歸屬於上市公司股東的淨利潤1.07億元，同比增長2.00%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.04億元，同比增長16.44%。基本每股收益0.20元，同比下降9.09%。研發投入佔營業收入的比例為4.55%，同比增加0.02個百分點。報告期內不進行利潤分配，也不實施公積金轉增股本。"
+    },
+    {
+      "id": "5052021",
+      "time": "2026-08-21 18:02:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST西發：2026年上半年營收2.00億元 淨利同比降14.66%】*ST西發公告稱，2026年上半年實現營業收入2.00億元，同比增長1.39%；歸屬於上市公司股東的淨利潤2217.52萬元，同比下降14.66%；扣非淨利潤1963.91萬元，同比增長138.39%。公司不派發現金紅利，不送紅股，不以公積金轉增股本。公司已完成收購拉薩啤酒50%股權，現持有其100%股權；公司被法院裁定受理重整，股票被實施退市風險警示。"
+    },
+    {
+      "id": "5052020",
+      "time": "2026-08-21 18:02:52",
+      "tags": [],
+      "text": "【中興通訊：2026年上半年淨利潤27.53億元，同比下降45.57％】中興通訊公告，2026年上半年營業收入780.25億元，同比增長9.05％；歸屬於上市公司股東的淨利潤27.53億元，同比下降45.57％，2025年同期淨利潤50.58億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤22.21億元，同比下降45.89％。"
+    },
+    {
+      "id": "5052019",
+      "time": "2026-08-21 18:02:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘諮詢：2026年上半年營收8.95億元 淨利同比降21.62%】甘諮詢公告稱，2026年上半年實現營業收入8.95億元，同比下降3.16%；歸屬於上市公司股東的淨利潤1.04億元，同比下降21.62%；扣非淨利潤1.03億元，同比下降20.86%。公司擬以4.65億股為基數，向全體股東每10股派發現金紅利0.2元（含稅），不送紅股，不以公積金轉增股本。報告期內，公司解聘孟康榮副總經理職務，董事、總經理陳一夫因工作調整辭職；完成子公司甘肅華順交通科技諮詢有限責任公司80%股權內部無償劃轉；子公司募集資金專戶曾因訴訟糾紛被凍結，後已全部解除凍結。"
+    },
+    {
+      "id": "5052018",
+      "time": "2026-08-21 18:02:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬矽產業：300mm矽片價格逐步進入上升通道 300mm SOI部分產品已完成驗證並開始出貨】滬矽產業(688126.SH)在投資者關係活動記錄表中披露，300mm矽片的價格在經歷了2023-2025年的行業價格持續下行後，2026年上半年國內矽片市場逐步企穩並逐步進入上升通道，部分前期降價較多的產品已經開始進行價格修復，部分需求旺盛的產品也有了提價空間。對於未簽訂長協的客戶，公司正結合市場情況積極推進價格調整；對於已簽訂長協的客戶，將在增量部分根據市場情況協商價格。隨著長期訂單陸續到期，可進行價格調整的客戶比例將有所提高。公司300mm SOI在包括矽光、射頻、高壓等多個應用領域均有產品在開展送樣。部分產品技術驗證已透過，正在推進客戶產品驗證和匯入，其中有部分產品已完成驗證並開始出貨。"
+    },
+    {
+      "id": "5052017",
+      "time": "2026-08-21 18:02:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱因科技：2026年上半年淨利潤2674.66萬元，同比下降43.55%】凱因科技公告，2026年上半年營業收入4.77億元，同比下降15.82%；歸屬於上市公司股東的淨利潤2674.66萬元，2025年上半年為4738.32萬元，同比下降43.55%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2509.79萬元，同比下降45.92%。"
+    },
+    {
+      "id": "5052016",
+      "time": "2026-08-21 18:02:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京能電力：2026年上半年發電量同比增幅4.92%】京能電力公告，2026年上半年公司下屬控股各執行發電企業累計完成發電量460.54億千瓦時，同比增幅4.92%；累計完成上網電量427億千瓦時，同比增幅5.17%。其中火力發電累計完成發電量433.66億千瓦時，同比增幅4.54%；新能源累計完成發電量26.88億千瓦時，同比增幅11.42%。"
+    },
+    {
+      "id": "5052015",
+      "time": "2026-08-21 18:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥將燃料價格穩定計劃延期6個月。"
+    },
+    {
+      "id": "mkt:01a023c4-8e16-7aab-90d0-26fdcb09eb07",
+      "time": "2026-08-21 18:01:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Samsung unveils record multi‑year return plan; SK Hynix opts for swift buybacks, signaling high‑return phase for Korean memory names】Samsung board approves a 2026 shareholder return framework targeting about 90–110 tln won for 2026 and a cumulative 120–140 tln won for 2024–2026. Samsung plans a ~30 tln won cash dividend in Q3 (includes regular dividend); size and details to be finalized at an end‑October board meeting. The distribution method for remaining funds after the 30 tln won dividend will be decided at a late‑January board meeting following year‑end results, with buybacks/cancellations or extra dividends under consideration. The board also approved a 15 tln won share repurchase for employee incentives. Management says the 90–110 tln won band is based on 50% of projected 2024–26 cumulative FCF less 29.3 tln won already returned in 2024–25 and excludes LTA prepayments and employee equity spend; amounts may be adjusted for actual results, investment needs and cash flow. By scale, 110 tln won would be the largest single‑year shareholder return in Korean corporate history (over five times the 2020 peak of 20.3 tln won), equal to roughly 66% of Samsung’s Q2 2026 reported net cash (~167 tln won) and about 1.8x estimated 2026 capex (~62 tln won). Compared with SK Hynix’s rapid three‑month buyback-and‑cancellation moves, Samsung is pacing returns: Q3 cash dividend first, then a Jan decision on the remainder; Samsung’s approach emphasizes cash dividends, SK Hynix’s is buyback‑heavy. Market implications: simultaneous large returns from Korea’s two largest memory names should boost KOSPI heavyweight appeal and could help narrow the Korea valuation discount as firms shift from hoarding cash to higher share returns. The cycle relies on sustained AI‑driven HBM/DRAM profitability; downside risks include weaker AI capex or memory price declines that would compress free cash flow and reduce actual return capacity."
+    },
+    {
+      "id": "5052014",
+      "time": "2026-08-21 18:01:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度孟買敏感指數<.BSESN>收盤基本持平，收復了日內0.02%的跌幅。"
+    },
+    {
+      "id": "5052013",
+      "time": "2026-08-21 18:00:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【悅達投資：2026年上半年淨利潤5913.34萬元，同比增長321.64%】悅達投資公告，2026年上半年營業收入14.75億元，同比增長8.59%；歸屬於上市公司股東的淨利潤5913.34萬元，同比增長321.64%，2025年同期1402.47萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1315.71萬元，同比增長10.20%。公司擬每股派發現金紅利0.03元（含稅），合計2552.68萬元（含稅）。"
+    },
+    {
+      "id": "5052012",
+      "time": "2026-08-21 18:00:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數<.NSEI>收漲0.08%，盤中漲幅一度收窄至0.01%。"
+    },
+    {
+      "id": "5052010",
+      "time": "2026-08-21 18:00:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中興通訊：2026年上半年面向運營商客戶，國內運營商通訊基礎設施投資延續下降態勢】中興通訊公告，2026年上半年，面向運營商客戶，國內運營商通訊基礎設施投資延續下降態勢，公司無線、有線網路產品收入承壓，但公司作為國內網路裝置主流供應商的格局仍然穩固，公司一方面做好存量經營，同時持續佈局6G、TBit光網、200GPON等前沿技術，保障技術競爭力持續領先；另一方面積極把握運營商智算資源池建設機會，推動算力收入快速增長。"
+    },
+    {
+      "id": "5052009",
+      "time": "2026-08-21 18:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溯聯股份：擬用超募資金1.14億元取得華匯實業60%股權】溯聯股份公告，公司擬使用合計1.14億元超募資金，以受讓股權和增資方式取得華匯實業60%的股權並取得控制權，納入公司合併報表範圍；該事項已獲第四屆董事會第六次會議審議透過，尚需提交公司股東會審議。"
+    },
+    {
+      "id": "5052008",
+      "time": "2026-08-21 17:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶華新材：2026年上半年淨利潤4824.5萬元，同比增長28.06%】晶華新材公告，2026年上半年營業收入11.14億元，同比增長17.71%；歸屬於上市公司股東的淨利潤4824.5萬元，同比增長28.06%，上年同期3767.44萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4900.68萬元，同比增長27.32%。"
+    },
+    {
+      "id": "5052007",
+      "time": "2026-08-21 17:59:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【探路者：2026年上半年淨利潤5125.31萬元，同比增長155.06%】探路者公告，2026年上半年營業收入9.29億元，同比增長42.34%；歸屬於上市公司股東的淨利潤5125.31萬元，2025年同期為2009.41萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4585.54萬元，同比增長191.05%。"
+    },
+    {
+      "id": "5052006",
+      "time": "2026-08-21 17:59:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德生科技：2026年上半年淨利潤虧損2631.97萬元，同比由盈轉虧】德生科技公告，2026年上半年營業收入2.17億元，同比下降12.55%；歸屬於上市公司股東的淨利潤虧損2631.97萬元，2025年上半年為886.98萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2799.69萬元，2025年上半年為673.16萬元，同比由盈轉虧。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5052005",
+      "time": "2026-08-21 17:59:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天域生物：實控人羅衛國因違規減持遭證監會處罰】天域生物公告稱，公司實際控制人羅衛國收到重慶證監局《行政處罰決定書》。羅衛國透過轉讓牧鑫青銅1號基金份額隱匿一致行動關係，規避減持限制，2021年11月15日至12月28日期間，其與一致行動人違規減持公司股票1167.77萬股，違規減持金額1.65億元，違法所得1585.33萬元。重慶證監局對其給予警告，沒收違法所得1585.33萬元，並處以1975萬元罰款。該事項為實控人個人行為，不觸及公司退市及風險警示情形，不會對公司生產經營產生重大影響。"
+    },
+    {
+      "id": "5052004",
+      "time": "2026-08-21 17:59:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾合科技：2026年上半年虧損1627.04萬元，2025年同期虧損6669.78萬元】眾合科技公告，2026年上半年營業收入8.85億元，同比增長28.60%；歸屬於上市公司股東的淨利潤虧損1627.04萬元，虧損較2025年同期收窄75.61%；扣除非經常性損益的淨利潤虧損4675.85萬元，虧損較2025年同期收窄36.99%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5052003",
+      "time": "2026-08-21 17:59:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【南華期貨：8月21日回購9.75萬股H股股份】南華期貨公告稱，2026年8月21日，公司透過香港聯交所回購97500股H股股份，佔事件前已發行股份（不含庫存股）的0.0628%，每股回購價區間為6.59港元-6.67港元，成交總金額64.60萬港元，所購股份擬持作庫存股份。本次回購後，公司已發行股份（不含庫存股）為15513.01萬股，庫存股份為97.55萬股。公司本次回購授權於2026年7月16日獲批，可回購股份上限為1076.59萬股，截至目前已累計回購97.55萬股，佔授權獲批日已發行股份（不含庫存股）的0.9061%。"
+    },
+    {
+      "id": "5052002",
+      "time": "2026-08-21 17:59:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億嘉和：2026年上半年營收1.11億元 淨虧損擴大】億嘉和公告稱，2026年上半年實現營業收入1.11億元，同比下降58.67%；歸屬於上市公司股東的淨虧損1.27億元，上年同期淨虧損1978.74萬元；歸屬於上市公司股東的扣除非經常性損益的淨虧損1.31億元，上年同期淨虧損2474.88萬元。基本每股收益-0.6287元/股，加權平均淨資產收益率為-6.06%，較上年同期減少5.29個百分點。本報告期無利潤分配預案。"
+    },
     {
       "id": "5052001",
       "time": "2026-08-21 17:59:23",
