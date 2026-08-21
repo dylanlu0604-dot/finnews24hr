@@ -1,7 +1,184 @@
 {
   "date": "2026-08-21",
-  "count": 1348,
+  "count": 1367,
   "items": [
+    {
+      "id": "mkt:01a02321-272b-7aab-90ca-9df5b85bc509",
+      "time": "2026-08-21 15:02:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Aug 21 close — China CSI 300 Index +0.57% to 4,618.90; China's Shanghai Composite Index +0.04% to 3,905.20; Shenzhen Composite Index +0.87% to 14,094.17; ChiNext Index +1.43% to 3,545.58; STAR 50 Index +0.04% to 1,653.56."
+    },
+    {
+      "id": "5051452",
+      "time": "2026-08-21 15:02:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里財報：速賣通6月季度已實現盈利】8月20日訊息，阿里最新發布的2026年6月季度顯示，得益於物流最佳化和成本效益提升，速賣通本季度已在經營層面實現盈利，本地商品銷售額佔比同比持續顯著提升。此前，速賣通Brand+品牌買家滲透已突破30%。"
+    },
+    {
+      "id": "mkt:01a02320-945c-7aab-90ca-9080019c3000",
+      "time": "2026-08-21 15:02:12",
+      "tags": [
+        "MKT News",
+        "0700.HK",
+        "Impact bearish",
+        "002129.SZ"
+      ],
+      "text": "【SAMR publishes six merger-review cases to curb “involution” competition】China's State Administration for Market Regulation (SAMR) published six merger-review cases today as part of efforts to curb “involution” competition, including Tencent Holdings' acquisition of a stake in Ximalaya and TCL Zhonghuan New Energy Technology Co.'s acquisition of a stake in Yidao New Energy Technology Co. SAMR said it has launched a special action this year to boost antitrust review efficiency, prioritizing merger-control scrutiny in platforms, photovoltaics and lithium batteries, and will lawfully support M&A to unlock idle assets and improve operating efficiency while maintaining fair competition."
+    },
+    {
+      "id": "5051451",
+      "time": "2026-08-21 15:02:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：8月14日國際儲備為1327億美元，7月31日為1321億美元。"
+    },
+    {
+      "id": "mkt:01a02320-5efa-7aab-90ca-8a3bb7e66127",
+      "time": "2026-08-21 15:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "European markets opened mixed on Friday Aug 21: FTSE 100 up 2.37 pts (+0.02%) at 10,750.53; CAC 40 down 7.47 pts (-0.09%) at 8,445.62; Euro STOXX 50 up 7.89 pts (+0.12%) at 6,429.95; IBEX 35 up 47.45 pts (+0.24%) at 19,865.45; FTSE MIB up 39.18 pts (+0.07%) at 52,705.00; DAX 30 up 2.47 pts (+0.01%) at 26,014.02."
+    },
+    {
+      "id": "5051450",
+      "time": "2026-08-21 15:01:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "波蘭電力企業股價受企業所得稅上調計劃拖累下跌。"
+    },
+    {
+      "id": "mkt:01a02320-1bd5-7aab-90ca-872849c733aa",
+      "time": "2026-08-21 15:01:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China A-share turnover CNY1.8793tn on Aug. 21; Zhongji Xuchuang top by turnover】China's A-share turnover on Aug. 21 totaled CNY 1.8793 trillion, down CNY 200.10 billion from the prior session. Shanghai turnover was CNY 883.42 billion (previous CNY 1,018.57 billion), volume 447 million lots (507 million). Shenzhen turnover was CNY 995.84 billion (previous CNY 1,060.80 billion), volume 544 million lots (597 million). By turnover, Zhongji Xuchuang led with CNY 26.69 billion, followed by Xinyisheng CNY 20.79 billion, Changxin Technology CNY 16.11 billion, Tianfu Communication CNY 14.06 billion and Zhaoyi Innovation CNY 13.87 billion."
+    },
+    {
+      "id": "mkt:01a02320-1bc8-7aab-90ca-788ded9f981c",
+      "time": "2026-08-21 15:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Negara Malaysia said its international reserves were US$132.7 billion as of Aug. 14, up from US$132.1 billion on July 31."
+    },
+    {
+      "id": "mkt:01a02320-13cf-7aab-90ca-74c2d4fd691f",
+      "time": "2026-08-21 15:01:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures midday close】China index futures midday close: CSI 300 futures (IF) most-active contract +0.65%; SSE 50 futures (IH) +0.22%; CSI 500 futures (IC) +0.23%; CSI 1000 futures (IM) +0.22%."
+    },
+    {
+      "id": "mkt:01a0231f-fc9a-7aab-90ca-6aac71746603",
+      "time": "2026-08-21 15:01:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey: Turkey's August manufacturing confidence index was 102.8, up from 102.2 in July."
+    },
+    {
+      "id": "mkt:01a0231f-c650-7aab-90ca-60bf3cfbd932",
+      "time": "2026-08-21 15:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the midday close, China's most-active futures contracts were mostly higher: Europe-route container freight surged over 11%; lithium carbonate, Shanghai silver and platinum rose more than 4%; pulp gained over 3% and methanol nearly 3%. On the downside, rapeseed fell more than 2%, while rapeseed meal, rapeseed oil, apples, Soybean No.1, red dates and stainless steel declined over 1%."
+    },
+    {
+      "id": "5051448",
+      "time": "2026-08-21 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.04%，深證成指漲0.87%，創業板指漲1.43%。"
+    },
+    {
+      "id": "5051447",
+      "time": "2026-08-21 15:00:30",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【整治“內卷式”競爭 市場監管總局公佈六起經營者集中審查典型案例】市場監管總局今天公佈六起經營者集中審查，助力整治“內卷式”競爭典型案例。其中，騰訊控股有限公司收購喜馬拉雅公司股權案如下：\n\n2025年6月11日，市場監管總局收到騰訊控股有限公司收購喜馬拉雅公司股權案的經營者集中反壟斷申報，並於2025年9月3日依法受理。該集中對中國境內線上音訊播放平臺市場、網路音樂播放平臺市場競爭可能具有排除、限制競爭效果。\n\n市場監管總局經過廣泛調研、客觀審查、充分論證，依法於2026年5月12日附加限制性條件批准本案。所附加的5項限制性條件直指競爭問題和各方關切，堅決維護我國線上音訊播放平臺市場、網路音樂播放平臺市場公平競爭秩序，保障經營主體、消費者合法權益，有效規制和預防平臺反競爭行為，推動平臺企業和平臺內經營者、勞動者共贏發展‌。（央視新聞）"
+    },
+    {
+      "id": "5051446",
+      "time": "2026-08-21 15:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱俄無人機襲擊致烏摩邊境口岸受損停運】烏克蘭國家邊防局8月21日通報稱，俄羅斯當天凌晨發動無人機襲擊，導致烏克蘭與摩爾多瓦邊境的塔巴基國際口岸基礎設施損毀。"
+    },
+    {
+      "id": "5051445",
+      "time": "2026-08-21 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續漲11.64%，碳酸鋰連續漲4.12%，白銀連續漲4.10%，鉑連續漲4.02%，紙漿連續漲3.42%，線材連續漲2.89%，甲醇連續漲2.83%，液化石油氣連續漲2.56%。"
+    },
+    {
+      "id": "5051444",
+      "time": "2026-08-21 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.42%，英國富時100指數漲0.04%，法國CAC40指數跌0.57%，歐洲斯托克50指數跌0.18%，義大利富時MIB指數漲0.09%。"
+    },
+    {
+      "id": "5051443",
+      "time": "2026-08-21 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.22%， 滬深300指數期貨連續漲0.65%， 中證500指數期貨連續漲0.23%， 上證50指數期貨連續漲0.22%。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202608213849221518",
+      "time": "2026-08-21 14:59:21",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳大利亞綜合PMI錄得52.5，較前值53.2小幅回落，連續三個月保持擴張，訂單改善帶動經營活動。"
+    },
+    {
+      "id": "5051441",
+      "time": "2026-08-21 14:58:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安證券：維持東方雨虹“推薦”評級，未來經營質量將逐步提升】平安證券研報指出，東方雨虹海外增長快速，毛利率同比改善。上半年實現營收148.7億元，同比增長9.6%，歸母淨利潤6.1億元，同比增長8.7%；扣非歸母淨利潤5.8億元，同比增長13.6%。收入增長良好，毛利率同比改善。行業層面，下游地產開工持續築底、防水行業格局明顯出清，行業壓力最大時刻或已過去；公司層面積極變革渠道，憑藉品牌、資金、渠道優勢加速發展工程渠道、零售渠道與海外市場，未來經營質量將逐步提升，維持“推薦”評級。"
+    },
     {
       "id": "5051440",
       "time": "2026-08-21 14:57:37",

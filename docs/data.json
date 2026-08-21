@@ -1,7 +1,184 @@
 {
-  "updated": "2026-08-21 14:59:21",
-  "count": 16035,
+  "updated": "2026-08-21 15:04:00",
+  "count": 16027,
   "items": [
+    {
+      "id": "mkt:01a02321-272b-7aab-90ca-9df5b85bc509",
+      "time": "2026-08-21 15:02:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Aug 21 close — China CSI 300 Index +0.57% to 4,618.90; China's Shanghai Composite Index +0.04% to 3,905.20; Shenzhen Composite Index +0.87% to 14,094.17; ChiNext Index +1.43% to 3,545.58; STAR 50 Index +0.04% to 1,653.56."
+    },
+    {
+      "id": "5051452",
+      "time": "2026-08-21 15:02:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里財報：速賣通6月季度已實現盈利】8月20日訊息，阿里最新發布的2026年6月季度顯示，得益於物流最佳化和成本效益提升，速賣通本季度已在經營層面實現盈利，本地商品銷售額佔比同比持續顯著提升。此前，速賣通Brand+品牌買家滲透已突破30%。"
+    },
+    {
+      "id": "mkt:01a02320-945c-7aab-90ca-9080019c3000",
+      "time": "2026-08-21 15:02:12",
+      "tags": [
+        "MKT News",
+        "0700.HK",
+        "Impact bearish",
+        "002129.SZ"
+      ],
+      "text": "【SAMR publishes six merger-review cases to curb “involution” competition】China's State Administration for Market Regulation (SAMR) published six merger-review cases today as part of efforts to curb “involution” competition, including Tencent Holdings' acquisition of a stake in Ximalaya and TCL Zhonghuan New Energy Technology Co.'s acquisition of a stake in Yidao New Energy Technology Co. SAMR said it has launched a special action this year to boost antitrust review efficiency, prioritizing merger-control scrutiny in platforms, photovoltaics and lithium batteries, and will lawfully support M&A to unlock idle assets and improve operating efficiency while maintaining fair competition."
+    },
+    {
+      "id": "5051451",
+      "time": "2026-08-21 15:02:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：8月14日國際儲備為1327億美元，7月31日為1321億美元。"
+    },
+    {
+      "id": "mkt:01a02320-5efa-7aab-90ca-8a3bb7e66127",
+      "time": "2026-08-21 15:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "European markets opened mixed on Friday Aug 21: FTSE 100 up 2.37 pts (+0.02%) at 10,750.53; CAC 40 down 7.47 pts (-0.09%) at 8,445.62; Euro STOXX 50 up 7.89 pts (+0.12%) at 6,429.95; IBEX 35 up 47.45 pts (+0.24%) at 19,865.45; FTSE MIB up 39.18 pts (+0.07%) at 52,705.00; DAX 30 up 2.47 pts (+0.01%) at 26,014.02."
+    },
+    {
+      "id": "5051450",
+      "time": "2026-08-21 15:01:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "波蘭電力企業股價受企業所得稅上調計劃拖累下跌。"
+    },
+    {
+      "id": "mkt:01a02320-1bd5-7aab-90ca-872849c733aa",
+      "time": "2026-08-21 15:01:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China A-share turnover CNY1.8793tn on Aug. 21; Zhongji Xuchuang top by turnover】China's A-share turnover on Aug. 21 totaled CNY 1.8793 trillion, down CNY 200.10 billion from the prior session. Shanghai turnover was CNY 883.42 billion (previous CNY 1,018.57 billion), volume 447 million lots (507 million). Shenzhen turnover was CNY 995.84 billion (previous CNY 1,060.80 billion), volume 544 million lots (597 million). By turnover, Zhongji Xuchuang led with CNY 26.69 billion, followed by Xinyisheng CNY 20.79 billion, Changxin Technology CNY 16.11 billion, Tianfu Communication CNY 14.06 billion and Zhaoyi Innovation CNY 13.87 billion."
+    },
+    {
+      "id": "mkt:01a02320-1bc8-7aab-90ca-788ded9f981c",
+      "time": "2026-08-21 15:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Negara Malaysia said its international reserves were US$132.7 billion as of Aug. 14, up from US$132.1 billion on July 31."
+    },
+    {
+      "id": "mkt:01a02320-13cf-7aab-90ca-74c2d4fd691f",
+      "time": "2026-08-21 15:01:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures midday close】China index futures midday close: CSI 300 futures (IF) most-active contract +0.65%; SSE 50 futures (IH) +0.22%; CSI 500 futures (IC) +0.23%; CSI 1000 futures (IM) +0.22%."
+    },
+    {
+      "id": "mkt:01a0231f-fc9a-7aab-90ca-6aac71746603",
+      "time": "2026-08-21 15:01:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey: Turkey's August manufacturing confidence index was 102.8, up from 102.2 in July."
+    },
+    {
+      "id": "mkt:01a0231f-c650-7aab-90ca-60bf3cfbd932",
+      "time": "2026-08-21 15:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the midday close, China's most-active futures contracts were mostly higher: Europe-route container freight surged over 11%; lithium carbonate, Shanghai silver and platinum rose more than 4%; pulp gained over 3% and methanol nearly 3%. On the downside, rapeseed fell more than 2%, while rapeseed meal, rapeseed oil, apples, Soybean No.1, red dates and stainless steel declined over 1%."
+    },
+    {
+      "id": "5051448",
+      "time": "2026-08-21 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.04%，深證成指漲0.87%，創業板指漲1.43%。"
+    },
+    {
+      "id": "5051447",
+      "time": "2026-08-21 15:00:30",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【整治“內卷式”競爭 市場監管總局公佈六起經營者集中審查典型案例】市場監管總局今天公佈六起經營者集中審查，助力整治“內卷式”競爭典型案例。其中，騰訊控股有限公司收購喜馬拉雅公司股權案如下：\n\n2025年6月11日，市場監管總局收到騰訊控股有限公司收購喜馬拉雅公司股權案的經營者集中反壟斷申報，並於2025年9月3日依法受理。該集中對中國境內線上音訊播放平臺市場、網路音樂播放平臺市場競爭可能具有排除、限制競爭效果。\n\n市場監管總局經過廣泛調研、客觀審查、充分論證，依法於2026年5月12日附加限制性條件批准本案。所附加的5項限制性條件直指競爭問題和各方關切，堅決維護我國線上音訊播放平臺市場、網路音樂播放平臺市場公平競爭秩序，保障經營主體、消費者合法權益，有效規制和預防平臺反競爭行為，推動平臺企業和平臺內經營者、勞動者共贏發展‌。（央視新聞）"
+    },
+    {
+      "id": "5051446",
+      "time": "2026-08-21 15:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱俄無人機襲擊致烏摩邊境口岸受損停運】烏克蘭國家邊防局8月21日通報稱，俄羅斯當天凌晨發動無人機襲擊，導致烏克蘭與摩爾多瓦邊境的塔巴基國際口岸基礎設施損毀。"
+    },
+    {
+      "id": "5051445",
+      "time": "2026-08-21 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續漲11.64%，碳酸鋰連續漲4.12%，白銀連續漲4.10%，鉑連續漲4.02%，紙漿連續漲3.42%，線材連續漲2.89%，甲醇連續漲2.83%，液化石油氣連續漲2.56%。"
+    },
+    {
+      "id": "5051444",
+      "time": "2026-08-21 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.42%，英國富時100指數漲0.04%，法國CAC40指數跌0.57%，歐洲斯托克50指數跌0.18%，義大利富時MIB指數漲0.09%。"
+    },
+    {
+      "id": "5051443",
+      "time": "2026-08-21 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.22%， 滬深300指數期貨連續漲0.65%， 中證500指數期貨連續漲0.23%， 上證50指數期貨連續漲0.22%。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202608213849221518",
+      "time": "2026-08-21 14:59:21",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳大利亞綜合PMI錄得52.5，較前值53.2小幅回落，連續三個月保持擴張，訂單改善帶動經營活動。"
+    },
+    {
+      "id": "5051441",
+      "time": "2026-08-21 14:58:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安證券：維持東方雨虹“推薦”評級，未來經營質量將逐步提升】平安證券研報指出，東方雨虹海外增長快速，毛利率同比改善。上半年實現營收148.7億元，同比增長9.6%，歸母淨利潤6.1億元，同比增長8.7%；扣非歸母淨利潤5.8億元，同比增長13.6%。收入增長良好，毛利率同比改善。行業層面，下游地產開工持續築底、防水行業格局明顯出清，行業壓力最大時刻或已過去；公司層面積極變革渠道，憑藉品牌、資金、渠道優勢加速發展工程渠道、零售渠道與海外市場，未來經營質量將逐步提升，維持“推薦”評級。"
+    },
     {
       "id": "5051440",
       "time": "2026-08-21 14:57:37",
@@ -146580,264 +146757,6 @@
         "國際"
       ],
       "text": "【巴克萊銀行：歐洲股市成為頗具吸引力的人工智慧投資分散配置選擇】巴克萊策略師表示，對於希望在人工智慧交易之外進行分散投資的投資者而言，回購活動強勁的歐洲市場是一個頗具吸引力的替代選擇。由埃馬紐埃爾・考牽頭的研究團隊撰文稱，歐洲宏觀經濟環境 “韌性出人意料”，經濟利好資料不斷增多。策略師補充稱，油價處於 80 至 90 美元區間 “仍可控，其本身並不構成能源衝擊”。他們指出，下週該地區將公佈採購經理人指數，用以判斷 “這種經濟增長韌效能否持續鞏固；同時將關注消費者物價指數，市場預期歐洲央行 9 月將加息”。"
-    },
-    {
-      "id": "5040715",
-      "time": "2026-08-14 15:03:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團提交的方案是該專案最終投資決定推進過程中的重要里程碑，該專案計劃於2026年底前作出最終投資決定。"
-    },
-    {
-      "id": "mkt:019fff15-1bf2-7aab-9038-4a3520ec9c2a",
-      "time": "2026-08-14 15:03:21",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European equities opened higher on Aug 14: DAX +165.71 pts (+0.63%) at 26,457.71; FTSE 100 +9.07 pts (+0.08%) at 10,781.74; CAC 40 +3.95 pts (+0.05%) at 8,654.51; Euro STOXX 50 +14.68 pts (+0.22%) at 6,560.15; IBEX 35 +24.87 pts (+0.12%) at 20,193.47; FTSE MIB +18.73 pts (+0.03%) at 53,712.00."
-    },
-    {
-      "id": "mkt:019fff15-1618-7aab-9038-4788423f5515",
-      "time": "2026-08-14 15:03:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Nomura: India’s 2026/27 fiscal deficit may miss 4.3% target by ~20bp; sees no RBI hikes through end of next year】Nomura forecasts India’s 2026/27 fiscal deficit target of 4.3% could deviate by about 20bp (0.2pp) under its baseline. It expects the Reserve Bank of India to refrain from raising rates through the end of next year. Nomura says fiscal risks have eased since the peak of Iran-related tensions but still anticipate the ~0.2pp miss in the baseline scenario. Nomura projects FY growth at 6.6%; stronger Apr–Jun activity could lift GDP above that. Market sentiment has improved versus last year—greater confidence in growth, fiscal metrics and current-account resilience, and reduced concerns about US trade friction. Some supply-side pressure is emerging but Nomura sees no sign of broad-based inflation."
-    },
-    {
-      "id": "mkt:019fff15-0d17-7aab-9038-3a4eef2ee71d",
-      "time": "2026-08-14 15:03:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude rose 1.34% intraday to trade above $87 per barrel."
-    },
-    {
-      "id": "5040714",
-      "time": "2026-08-14 15:03:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【ETF兩市成交額報4561.01億元，較昨日此時放量9.48億元】截至目前，ETF兩市成交額報4561.01億元，較昨日此時放量9.48億元，分型別來看，股票型ETF成交額1351.7億元，債券型ETF成交額2210.71億元，貨幣型ETF成交額283.33億元，商品型ETF成交額103.13億元，QDII型ETF成交額612.14億元。"
-    },
-    {
-      "id": "5040713",
-      "time": "2026-08-14 15:03:03",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "財政部等多部門：積體電路企業、工業母機企業在2026年1月1日至2028年12月31日期間發生非貨幣性資產交換，按規定確認的非貨幣性資產交換所得，可在不超過5年期限內分期均勻計入相應年度的應納稅所得額，按現行政策規定計算繳納企業所得稅；企業進行非貨幣性資產交換所發生的損失，不得分期確認。"
-    },
-    {
-      "id": "mkt:019fff14-7e10-7aab-9038-37f1261fb25d",
-      "time": "2026-08-14 15:02:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Minutes from the Czech central bank said the C.BANK assessed the current monetary policy stance as appropriate."
-    },
-    {
-      "id": "5040712",
-      "time": "2026-08-14 15:02:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體在米蘭上市的股價早盤下跌1.5%。"
-    },
-    {
-      "id": "mkt:019fff14-2268-7aab-9038-2bb068266074",
-      "time": "2026-08-14 15:02:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Czech National Bank minutes: the governor said June’s rate hike further tightened the monetary policy stance, allowing the bank to continue assessing incoming data."
-    },
-    {
-      "id": "mkt:019fff13-dcd3-7aab-9038-253a9681cba8",
-      "time": "2026-08-14 15:01:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "IF",
-        "Impact bearish",
-        "IH",
-        "IC"
-      ],
-      "text": "【Equity index futures midday close】China's CSI 300 index futures (IF) most-active contract fell 0.36% at the midday close; SSE 50 futures (IH) fell 0.61%; CSI 500 futures (IC) fell 0.59%; CSI 1000 futures (IM) fell 0.16%."
-    },
-    {
-      "id": "5040711",
-      "time": "2026-08-14 15:01:51",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【油價迎年內第5次下調 加一箱油將少花9元】據國家發改委訊息，自8月14日24時起，國內汽、柴油(標準品)價格每噸分別下調230元、220元。本輪是成品油價格迎來的年內第五次下調。據機構測算，此次下調摺合92號汽油每升下調0.18元，95號汽油每升下調0.19元，0號柴油每升下調0.19元。以油箱容量50L的普通私家車計算，車主加滿一箱92號汽油將省9元左右。（中新網）"
-    },
-    {
-      "id": "mkt:019fff13-72cf-7aab-9038-1fdce596684d",
-      "time": "2026-08-14 15:01:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Midday close: Chinese onshore main futures contracts were mixed. Coking coal rose more than 4%; rapeseed oil gained over 3%; low-sulfur fuel oil (LU) and lithium carbonate were up nearly 3%. Fuel oil, benzene, polysilicon, industrial silicon, methanol and styrene (EB) advanced more than 2%. On the downside, palladium fell over 3%; Shanghai silver and stainless steel (SS) declined more than 2%; platinum, Shanghai gold, Shanghai nickel, foundry aluminum and Shanghai aluminum slipped over 1%."
-    },
-    {
-      "id": "5040710",
-      "time": "2026-08-14 15:01:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：通訊ETF領漲3.71%，港股創新藥ETF領跌2.64%】ETF收盤漲跌不一，通訊ETF（159695）領漲3.71%，通訊ETF（515880）漲3.60%，通訊ETF（159507）漲3.60%，港股創新藥ETF（513780）領跌2.64%，港股通創新藥醫療ETF（159506）跌2.63%，恒生生物科技ETF（159132）跌2.57%。"
-    },
-    {
-      "id": "5040709",
-      "time": "2026-08-14 15:01:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股收評：滬指窄幅震盪收漲0.01%，電子化學品、CPO、非金屬材料板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.01%，深證成指漲0.45%，創業板指漲1.12%，北證50跌0.94%，科創50指數持平。全市場成交額21566億元，較上日縮量4114億元，全市場超2900只個股下跌。板塊題材上，電子化學品、非金屬材料、CPO、元件、光纖概念板塊漲幅居前；影視院線、電力、乳業、白酒、零售板塊跌幅居前。盤面上，電子化學品板塊震盪走高，中石科技、海星股份漲停，龍辰科技、思泉新材、廣鋼氣體、中巨芯、格林達漲幅居前。CPO板塊高開高走，劍橋科技、中瓷電子、金戈新材、共進股份等股漲停，亨通光電、中富電路、長盈通漲幅居前。稀土永磁板塊表現強勢，金田股份、中國稀土、華宏科技獲漲停，龍磁科技、三祥新材、寧波韻升漲幅居前。電力板塊震盪走低，立新能源跌停，華銀電力、梅雁吉祥、粵電力A均逼近跌停，京能電力、晉控電力、華電遼能紛紛大幅下挫。零售板塊亦表現低迷，錦和商管跌停，東百集團跌超9%，中百集團、步步高、華致酒行跌幅居前。"
-    },
-    {
-      "id": "5040708",
-      "time": "2026-08-14 15:01:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國埃及兩國空軍將舉行聯訓】8月中旬至9月上旬，中國與埃及兩國空軍將在埃舉行“文明之鷹-2026”空軍聯合訓練，重點開展空戰戰術、制空作戰、戰鬥搜救等課目訓練，並進行兵力運用演練。這是雙方第2次舉辦該系列聯訓，將持續增進雙方互信與傳統友誼，深化兩軍務實合作，共同維護地區和平穩定。"
-    },
-    {
-      "id": "mkt:019fff13-4aba-7aab-9038-135df2b23e74",
-      "time": "2026-08-14 15:01:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Reuters survey showed 11 of 20 economists expect Bank Indonesia's 7-day reverse repo rate to reach 6.00% or higher by end-2026."
-    },
-    {
-      "id": "mkt:019fff13-3df5-7aab-9038-0f1a4ef1a0fe",
-      "time": "2026-08-14 15:01:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "CHINA STATE PLANNER said domestic gasoline and diesel retail price caps will be cut by 230 yuan per ton and 220 yuan per ton respectively, effective 24:00 on Aug. 14."
-    },
-    {
-      "id": "5040707",
-      "time": "2026-08-14 15:01:08",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【明起國內汽、柴油（標準品）價格每噸分別下調230元、220元】發改委官網8月14日訊息，7月31日國內成品油價格調整以來，國際市場原油價格快速回落後震盪執行，本次調價的前10個工作日平均價格低於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自8月14日24時起，國內汽、柴油（標準品）價格每噸分別下調230元、220元。"
-    },
-    {
-      "id": "5040706",
-      "time": "2026-08-14 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.01%，深證成指漲0.45%，創業板指漲1.12%。"
-    },
-    {
-      "id": "mkt:019fff12-ffc6-7aab-9038-06e7244994a9",
-      "time": "2026-08-14 15:01:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand plans to launch a domestic tourism subsidy scheme in October, the tourism minister said."
-    },
-    {
-      "id": "mkt:019fff12-e97f-7aab-9037-fff73f9faf49",
-      "time": "2026-08-14 15:00:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY shows 27 of 28 economists expect Bank Indonesia to hold the 7-day reverse repo rate unchanged at 5.75% at its Aug. 19 policy meeting."
-    },
-    {
-      "id": "mkt:019fff12-ac67-7aab-9037-f584cf65550c",
-      "time": "2026-08-14 15:00:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nomura forecasts India's fiscal deficit will widen by 20bps and does not expect policy rate hikes before 2027."
-    },
-    {
-      "id": "5040705",
-      "time": "2026-08-14 15:00:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠地集團與寧德時代圍繞零碳產業場景打造、寧家服務直營體驗中心落地等議題進行洽談】據綠地集團公眾號訊息，8月13日，綠地集團董事長、總裁張玉良一行赴福建寧德時代總部考察交流，並與寧德時代董事、生態發展委員會主席吳映明進行合作洽談。雙方圍繞零碳產業場景打造、寧家服務直營體驗中心落地等核心議題進行了深入洽談，明確將依託各自產業資源優勢探索合作方向，攜手佈局新能源全鏈路生態。此次會談標誌著綠地集團與寧德時代戰略合作邁出關鍵一步，雙方後續將深入對接，針對零碳專案落地、寧家體驗中心選址運營等事項細化實施方案，推動合作專案儘快落地見效，以產業協同助力全國能源綠色轉型。"
-    },
-    {
-      "id": "5040704",
-      "time": "2026-08-14 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】焦煤連續漲3.34%，碳酸鋰連續漲3.34%，鈀連續跌3.16%，燃料油連續漲2.93%，低硫燃料油連續漲2.93%，菜油連續漲2.81%，純苯連續漲2.42%，多晶矽連續漲2.31%，工業矽連續漲2.27%。"
-    },
-    {
-      "id": "5040703",
-      "time": "2026-08-14 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.15%， 滬深300指數期貨連續跌0.36%， 中證500指數期貨連續跌0.54%， 上證50指數期貨連續跌0.62%。"
-    },
-    {
-      "id": "5040702",
-      "time": "2026-08-14 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數跌0.12%，英國富時100指數跌0.56%，法國CAC40指數跌0.28%，歐洲斯托克50指數漲0.18%，義大利富時MIB指數跌0.01%。"
-    },
-    {
-      "id": "mkt:019fff11-ebf2-7aab-9037-ef6f15399333",
-      "time": "2026-08-14 14:59:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Japan & APAC",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Nikkei 225"
-      ],
-      "text": "【US rally flows into Japan; Nikkei 225 closes at record high】Nikkei 225 rose 0.59% to 68,713.80 on Friday, bringing the week's gain to 4.7%, after US equities climbed and softer US producer prices lifted risk appetite. Broader Topix advanced 0.51% to 4,197.20, a record closing high. US July PPI was flat MoM, reinforcing market expectations the Fed will hold rates next month and helping push the S&P 500 and Nasdaq to record closes overnight. Nomura strategist Wataru Akiyama said the US rally, falling oil and easing inflation-driven expectations of earlier Fed hikes are supporting Japanese stocks. Among Nikkei components, Nexon jumped 19.85%—its largest one-day gain since Feb 2024—Shift rose 7.57% and Nintendo gained 6.91%."
     }
   ]
 }
