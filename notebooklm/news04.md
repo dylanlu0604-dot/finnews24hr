@@ -1,7 +1,513 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-21 12:49:35_
-_本檔包含 3041 則快訊，約 643426 字_
+_更新時間：2026-08-21 13:41:48_
+_本檔包含 3019 則快訊，約 644216 字_
+
+---
+
+### 2026-08-18 09:35:23  #其他
+
+【小金屬板塊走高，華陽新材2連板】小金屬板塊走高，華陽新材2連板，中鎢高新、翔鷺鎢業、國城礦業、章源鎢業、廈門鎢業跟漲。
+
+---
+
+### 2026-08-18 09:35:20  #其他
+
+【PCB概念反覆活躍 金祿電子漲超13%】PCB概念反覆活躍，金祿電子漲超13%，瑞豐高材漲超10%，迅捷興、賢豐控股、平安電工跟漲。
+
+---
+
+### 2026-08-18 09:35:14  #其他
+
+【海倫司回應品牌視覺變化：和中文商標法律糾紛沒有關係】8月18日，針對海倫司近期的品牌視覺體系變化，海倫司方回應稱，是按計劃進行品牌升級，和此前的中文商標法律糾紛沒有關係。（介面新聞）
+
+---
+
+### 2026-08-18 09:35:08  #Trading Economics #Markets #Commodity #Importance 1
+
+European Gas Extends Gain — European natural gas prices extended gains, rising above €62 per MWh on Tuesday, amid fading hopes for a Middle East peace deal that could facilitate the reopening of the Strait of Hormuz. President Trump said he was in no rush to resolve the conflict and warned of military action against Oman if it obstructed US efforts to reach an agreement with Iran. Also, talks between Iranian and Omani officials over a provisional framework to manage shipping through the strait have yet to yield any concrete results. The continued maritime blockade has delayed LNG shipments from Qatar, limiting supplies available to Europe. At the same time, intense heatwaves across parts of Europe have boosted gas-fired power demand for air conditioning. These factors are slowing the pace of inventory replenishment, leaving European storage levels under greater pressure ahead of the winter heating season.
+
+---
+
+### 2026-08-18 09:35:05  #市場
+
+【農林牧漁板塊走強，天山生物20%漲停】農林牧漁板塊走強，天山生物20%漲停，金健米業漲停，萬向德農、農發種業、天邦食品等跟漲。
+
+---
+
+### 2026-08-18 09:35:00  #其他
+
+【航行警告！南海部分海域進行實彈射擊】珠海海事局釋出航行警告，8月21日7時至15時，南海部分海域內進行實彈射擊，禁止駛入。（中國海事局網站）
+
+---
+
+### 2026-08-18 09:34:54  #公司 #市場
+
+華住集團港股上漲10%，報每股36.10港元，勢將創下2024年以來最大單日漲幅。
+
+---
+
+### 2026-08-18 09:33:51  #MKT News #Important
+
+A-share grain sector staged a brief intraday surge; Jinjian Rice Industry hit the daily limit. Nongfa Seed Industry, Shennong Seed Industry, Wanxiang Denong, Denghai Seed Industry and Shenliang Holdings also advanced.
+
+---
+
+### 2026-08-18 09:33:44  #MKT News #Market Regions #Greater China #01179.HK #Impact bullish
+
+Huazhu Group (01179.HK) shares rose 8.6% after the company reported 1H26 revenue of 13.1 bln yuan, up 11% YoY, and 1H26 net profit attributable to Huazhu Group Ltd of 2.4 bln yuan.
+
+---
+
+### 2026-08-18 09:33:06  #公司
+
+必和必拓執行長表示，內生增長能夠帶來超額回報。
+
+---
+
+### 2026-08-18 09:32:29  #Trading Economics #Markets #Commodity #Importance 1
+
+Corn Holds Rally Near 3-Month Peak — Corn futures held their recent rally to above $4.6 per bushel, near a thirteen-week high as traders weighed fresh crop assessments from the Pro Farmer Crop Tour and robust export demand. Early field observations pointed to drought damage in South Dakota and uneven crop maturity in Ohio, raising concerns that actual yields could fall short of USDA’s latest estimate of 180.7 bushels per acre. USDA’s Crop Progress report showed 76% of the US corn crop had reached the dough stage by August 16, with 29% dented and 4% mature, while the share rated good-to-excellent fell to 60% from 61% a week earlier. Meanwhile, weekly US corn export inspections jumped 81.7% year-on-year to 1.91 million tonnes, with Mexico, Japan and Colombia among the top destinations. Cumulative shipments reached 80.95 million tonnes, or 26.1% above the same period last year, underscoring firm overseas demand. Brazil’s second-crop harvest was also only 85% complete, below the 94% average pace, adding further support.
+
+---
+
+### 2026-08-18 09:32:03  #其他
+
+【重慶市國資委黨委召開會議 審議市屬國資國企服務創新強市建設工作專班執行機制】據“重慶國資”訊息，8月17日下午，重慶市國資委黨委召開會議，審議市國資系統樹立和踐行正確政績觀學習教育總結報告、市屬國資國企服務創新強市建設工作專班執行機制等，研究部署相關工作。會議審議市屬國資國企服務創新強市建設工作專班執行機制，強調要按照“103040”重點攻堅突破目標任務分解，緊盯市屬國企服務創新強市“一企一策”任務書，加強統籌協調，專班推進，強化排程和跟蹤問效，及時解決工作中的堵點、難點、卡點，推動市屬國資國企奮力打造更多科技創新標誌性成果。
+
+---
+
+### 2026-08-18 09:31:54  #市場
+
+【糧食概念板塊短線衝高，金健米業漲停】糧食概念板塊短線衝高，金健米業漲停，農發種業、神農種業、萬向德農、登海種業、深糧控股跟漲。
+
+---
+
+### 2026-08-18 09:31:40  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
+
+China A-share food processing and manufacturing sector rallied. Guifaxiang recorded a third consecutive limit-up; Jinzi Ham hit the daily limit. Baihe, Laiyifen, Yizhi Konjac, Zhongjing Food and Bright Food Meat also advanced.
+
+---
+
+### 2026-08-18 09:31:17  #公司 #市場
+
+【食品加工製造板塊走高，金字火腿漲停】食品加工製造板塊走高，桂發祥3連板，金字火腿漲停，百合股份、來伊份、一致魔芋、仲景食品、光明肉業跟漲。
+
+---
+
+### 2026-08-18 09:31:13  #MKT News
+
+【Bond futures open in morning session】China bond futures opened higher in the morning session: 2-year (TS) main contract up 0.01%, 5-year (TF) up 0.04%, 10-year (T) up 0.02%, 30-year (TL) up 0.22%.
+
+---
+
+### 2026-08-18 09:31:10  #MKT News #CSI300 #Impact bullish #SSE Component
+
+【China index futures open】China stock index futures opened slightly higher in early trade: CSI 300 (IF) front-month +0.06%, SSE 50 (IH) front-month +0.05%, CSI 500 (IC) front-month +0.11%, CSI 1000 (IM) front-month +0.09%.
+
+---
+
+### 2026-08-18 09:30:04  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
+
+China 10Y Bond Yield Hits 12-month Low — China 10 Year Government Bond Yield decreased to 1.68%, the lowest since July 2025. Over the past 4 weeks, China 10Y Bond Yield lost 6.40 basis points, and in the last 12 months, it decreased 9.10 basis points.
+
+---
+
+### 2026-08-18 09:30:02  #市場
+
+【國債期貨開盤】 30年期主力合約漲0.15%， 10年期主力合約漲0.03%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。
+
+---
+
+### 2026-08-18 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.05%， 滬深300指數期貨連續跌0.12%， 中證500指數期貨連續漲0.13%， 上證50指數期貨連續漲0.10%。
+
+---
+
+### 2026-08-18 09:29:42  #市場
+
+中證轉債指數開盤上漲0.01%。天脈轉債、合金轉債、振26轉債、天準轉債、洋豐轉債漲幅居前，分別漲30.00%、30.00%、1.79%、1.76%、1.65%。南芯轉債、鼎通轉債、普聯轉債、金誠轉債、福新轉債跌幅居前，分別跌1.64%、1.29%、1.28%、1.20%、1.01%。
+
+---
+
+### 2026-08-18 09:29:37  #公司 #市場
+
+【深交所：“天脈轉債”盤中臨時停牌】深交所公告，“天脈轉債”（123279）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
+
+---
+
+### 2026-08-18 09:29:07  #公司 #市場
+
+【深交所：“合金轉債”盤中臨時停牌】深交所公告，“合金轉債”（123278）盤中成交價較發行價首次上漲達到或超過30%，自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
+
+---
+
+### 2026-08-18 09:28:10  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+China A-share education sector opened higher; Xueda Education hit limit-up, while Angli Education, Kaiwen Education, Kede Education, Huatu Shanding and Chuanzhi Education also rose.
+
+---
+
+### 2026-08-18 09:27:42  #市場
+
+【教育板塊高開，學大教育漲停】教育板塊高開，學大教育漲停，昂立教育、凱文教育、科德教育、華圖山鼎、傳智教育跟漲。
+
+---
+
+### 2026-08-18 09:27:41  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 2
+
+Japan 10-Year Yield Scales Fresh 30-Year High — Japan’s 10-year government bond yield climbed to around 2.95% on Tuesday, reaching its highest levels since 1996 amid mounting fiscal concerns and growing expectations for an imminent interest rate hike from the Bank of Japan. The Takaichi administration’s plan to cut the consumption tax on food to 1% for two years has fueled market concerns, as the government has yet to identify an alternative revenue source and the measure is viewed as an ineffective response to inflation that may not deliver lasting price stability. Traders are also increasingly speculating on a BOJ rate hike as soon as September, after a growing number of policymakers called for a stronger response to mounting inflationary pressures. The central bank is also contending with persistent yen weakness and elevated energy costs driven by the Middle East conflict, which could further intensify inflationary pressures.
+
+---
+
+### 2026-08-18 09:27:35  #MKT News
+
+【Where to park spare cash? Short-term wealth-management yield snapshot】Tencent Licaitong (current + 7‑day annualized) ranged 0.7080%–1.3970%; WeChat Wallet LingqianTong 7‑day annualized ranged 0.8970%–1.0010%; Alipay Yu'ebao 7‑day annualized ranged 0.9010%–1.0280%.
+
+---
+
+### 2026-08-18 09:27:17  #MKT News #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+China's Shanghai Composite Index opened down 3.16 points (-0.08%) at 3979.49; Shenzhen Composite Index opened down 12.24 points (-0.08%) at 14692.03; CSI 300 Index opened down 7.02 points (-0.15%) at 4734.07; ChiNext Index opened down 9.17 points (-0.25%) at 3730.99; STAR 50 Index opened down 2.48 points (-0.14%) at 1786.37.
+
+---
+
+### 2026-08-18 09:26:48  #其他
+
+HSG尋求募集12億美元，作為自紅杉資本分拆以來的首支美元基金。
+
+---
+
+### 2026-08-18 09:26:26  #MKT News
+
+【Trump's Tuesday schedule (Beijing time)】Beijing time Aug 18 20:00 — White House: handle administrative business. Beijing time Aug 18 23:00, Aug 19 00:00, 02:30, 04:00, 05:00 — Oval Office: series of policy meetings.
+
+---
+
+### 2026-08-18 09:26:06  #公司 #市場 #焦點
+
+【頻準鐳射上市首日開盤大漲超488%】頻準鐳射上市首日開盤漲488.61%，現報1100元，該股發行價為186.88元。按開盤價計算，投資者中一簽（500股）浮盈約45.66萬元。上海頻準鐳射科技股份有限公司的主營業務是精準鐳射器的研發、生產與銷售。
+
+---
+
+### 2026-08-18 09:26:03  #公司
+
+【周大生漲超11% 預期中期淨利同比大增】截至發稿，周大生(001166.HK)漲11.02%。根據公告，公司預計來自持續經營業務的本公司擁有人應占溢利取得約21億港元至22億港元，而2025年同期為9.1億港元。
+
+---
+
+### 2026-08-18 09:25:35  #MKT News #Important #Market Regions #Greater China #SSE Composite #SZSE Component
+
+A-shares opened slightly lower: Shanghai Composite down 0.08%, Shenzhen Composite Index down 0.08%, ChiNext Index down 0.25%. The priciest A-share IPO this year, N Pinzhun, surged 488.61% on its debut, pushing the share price above 1,000 yuan.
+
+---
+
+### 2026-08-18 09:25:17  #焦點
+
+三大股指低開，滬指跌0.08％，深成指跌0.08％，創業板跌0.25％。
+
+---
+
+### 2026-08-18 09:24:11  #MKT News #Important #CNH #Impact mixed
+
+【PBOC reverse repo operations net drain 95.8 bln yuan】The PBOC conducted 469.7 bln yuan of overnight reverse repos while 565.5 bln yuan of overnight reverse repos matured, producing a net withdrawal of 95.8 bln yuan. No other reverse-repo tenors were conducted today.
+
+---
+
+### 2026-08-18 09:23:28  #央行 #其他
+
+央行週二開展4697億元人民幣隔夜逆回購操作。
+
+---
+
+### 2026-08-18 09:23:09  #央行 #其他
+
+央行公開市場今日淨回籠958.0億元人民幣。
+
+---
+
+### 2026-08-18 09:22:59  #公司
+
+必和必拓執行長表示，冶金煤未來將成為高價值業務。
+
+---
+
+### 2026-08-18 09:22:50  #央行 #中國央行
+
+【央行今日開展4697億元隔夜逆回購操作】央行公告，根據公開市場業務一級交易商的需求，2026年8月18日7天期逆回購操作量為零。同時，開展了4697億元隔夜逆回購操作。
+
+---
+
+### 2026-08-18 09:22:33  #市場
+
+德國國債期貨<FGBLc1>下跌0.15%，法國國債期貨<FOATc1>下跌0.22%。
+
+---
+
+### 2026-08-18 09:21:54  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，2026年8月18日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-18 09:21:52  #MKT News
+
+PBOC says the 7-day reverse repo operation on Aug 18, 2026 will be zero, based on primary dealers' demand.
+
+---
+
+### 2026-08-18 09:21:44
+
+港股恒指低開跌0.33％，國企指數跌0.29％，科指開跌0.28%。
+
+---
+
+### 2026-08-18 09:21:43  #MKT News #Hang Seng Index #Impact bearish #Hang Seng Tech #HSCEI
+
+Hong Kong's Hang Seng Index opened down 84.36 points (-0.33%) at 25,368.87 on Aug 18. Hang Seng TECH opened down 13.22 points (-0.28%) at 4,768.81. Hang Seng China Enterprises Index (HSCEI) opened down 24.59 points (-0.29%) at 8,415.38. Hang Seng Red Chip Index opened up 0.91 points (0.02%) at 4,162.39.
+
+---
+
+### 2026-08-18 09:21:38  #MKT News #Important #Market Regions #Greater China #00116.HK #Impact bullish #Hang Seng Index #Impact bearish #Hang Seng Tech Index
+
+Hang Seng Index opened down 0.33% and the Hang Seng Tech Index opened down 0.28%. Chow Sang Sang (00116.HK) jumped about 11% at the open after saying it expects interim attributable profit of HKD 2.1–2.2 bln.
+
+---
+
+### 2026-08-18 09:20:54  #MKT News #Market Regions #Japan & APAC #USDJPY
+
+Japan 20-year government bond yield rose 2.5 bps to 3.835%.
+
+---
+
+### 2026-08-18 09:20:52  #市場 #國際
+
+日本20年期國債收益率上升2.5個基點，至3.835%。
+
+---
+
+### 2026-08-18 09:20:40  #市場 #焦點
+
+甲醇連續主力合約日內漲2%，現報2771.00元。
+
+---
+
+### 2026-08-18 09:18:18  #MKT News
+
+【New Hengqin port marks six years; cross-border travellers top 110 mln】Zhuhai border inspection’s Hengqin checkpoint said that from its opening on Aug 18, 2020 through Aug 17, 2026 it processed more than 110 mln cross-border passengers and about 13 mln vehicle trips. Annual average growth rates were 37.5% for people and 35.1% for vehicles. Hengqin has become one of the busiest cross-border channels in the Guangdong–Hong Kong–Macao Greater Bay Area.
+
+---
+
+### 2026-08-18 09:18:13  #其他
+
+【新橫琴口岸啟用六週年 出入境旅客超1.1億人次】今天（18日），新橫琴口岸迎來啟用六週年。據珠海邊檢總站橫琴邊檢站統計，自2020年8月18日開通至2026年8月17日，橫琴邊檢站累計查驗出入境人員超1.1億人次，車輛超1300萬輛次，人員、車輛年均增長率分別達37.5%、35.1%，橫琴口岸已成為粵港澳大灣區最繁忙的跨境通道之一。
+
+---
+
+### 2026-08-18 09:16:27  #MKT News
+
+South Korea's Lee said maintaining peace is paramount, but the country must prepare for the worst.
+
+---
+
+### 2026-08-18 09:15:46  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened the day session down 0.17% at 25,380, trading 73 points below the cash index.
+
+---
+
+### 2026-08-18 09:15:27  #市場
+
+【人民幣兌美元中間價報6.7905，較上日調低32點】人民幣兌美元中間價報6.7905，較上日調低32點。
+
+---
+
+### 2026-08-18 09:15:17  #市場
+
+人民幣兌美元中間價報6.7905元。
+
+---
+
+### 2026-08-18 09:15:02  #市場
+
+恒指期貨日盤開盤跌0.26%，報25357.81點，低水95.42點。
+
+---
+
+### 2026-08-18 09:14:27  #公司
+
+【德馬科技：莫安迪擬投建節能型一體化永磁電機研發生產基地】據德馬科技訊息，近日，德馬科技（688360.SH）旗下核心子公司莫安迪（蘇州）電機技術有限公司與太倉高新區正式簽約，將投資建設節能型一體化永磁電機研發生產基地。
+
+---
+
+### 2026-08-18 09:13:29  #其他
+
+【新一輪食在廣州餐飲消費券來了】8月18日起，支付寶平臺重磅加入新一輪“食在廣州”餐飲消費券活動，10時準時開搶。（廣州商務）
+
+---
+
+### 2026-08-18 09:12:45  #其他
+
+【哥倫比亞總統：強震波及450個市鎮 損失約30萬億比索】當地時間8月17日晚，哥倫比亞總統德拉埃斯普列亞表示，該國西部10日發生的7.5級強震已波及全國15個省的450個市鎮，其中考卡山谷省和裡薩拉爾達省人員傷亡最為嚴重。初步資料顯示，地震造成的損失估計為30萬億比索。德拉埃斯普列亞介紹，截至目前，地震已造成289人死亡、4187人受傷、143人失蹤。其中，考卡山谷省報告163人死亡、2672人受傷、80人失蹤；裡薩拉爾達省報告104人死亡、565人受傷、61人失蹤。
+
+---
+
+### 2026-08-18 09:12:20  #MKT News #000001.SS #Impact bullish #000300.SS
+
+China is continuing its push to boost consumption in lower-tier markets, MOFCOM said, noting third- and fourth-tier cities plus counties account for over 70% of the population and about 60% of GDP and retail sales. In the first five months, county- and township-level retail sales of consumer goods made up 39.3% of national retail sales; key beneficiaries include county commercial renovations, chain retail, elderly-care and childcare services, cultural tourism and rural services, and the policy may help local governments convert inefficient state assets from sunk costs into operating assets.
+
+---
+
+### 2026-08-18 09:12:01  #MKT News #09992.HK #Impact bearish
+
+【Morgan Stanley cuts Pop Mart (09992.HK) target 13% to HK$214, cites high-base and weak overseas sales】Morgan Stanley cut its target price for Pop Mart (09992.HK) to HK$214 from HK$247, a 13% reduction, citing high base pressures in H2 and a sharp slowdown in overseas sales. The bank says limited new information and high-frequency indicators of weaker overseas demand have left investors broadly bearish ahead of results; retail shareholders' elevated expectations and large ownership are flagged as the primary downside risk. Morgan Stanley forecasts H1 sales +29% YoY and net profit +18% to RMB 5.4 bln, expects management to guide H2 sales above H1 while remaining cautious on YoY outlook. It keeps an Overweight rating, projecting a 13% EPS CAGR for 2026-28 driven by a reacceleration in overseas sales and expects total sales to resume growth in 2027.
+
+---
+
+### 2026-08-18 09:11:06  #公司 #觀點
+
+【摩根士丹利將泡泡瑪特目標價下調13% 稱公司面臨高基數等壓力】摩根士丹利將泡泡瑪特目標價由247港元下調至214港元，稱公司下半年面臨高基數壓力，且海外銷售大幅放緩。分析師Dustin Wei等人在報告中表示，因增量資訊匱乏且高頻資料顯示海外銷售大幅放緩，投資者在業績公佈前錨定最利空資料而普遍持看空態度。散戶投資者的過高預期仍是主要下行風險，因為他們在股東結構中佔據很大比例；預測上半年銷售額增長29%，淨利潤增長18%至54億元人民幣；預計管理層將指引下半年銷售額超過上半年，同時對同比展望保持審慎；維持“增持”評級，因為預估2026-2028年的盈利複合年增長率將達到13%，這主要由海外市場銷售的重新加速所推動；並預計總銷售額將在2027年恢復增長。注：泡泡瑪特將於本週四釋出業績。
+
+---
+
+### 2026-08-18 09:10:54  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybeans Hit 3-Week High — Soybean futures rose above $12 per bushel, hitting a three-week high as stronger soybean crushing activity and higher crude oil prices supported the market. The National Oilseed Processors Association data showed members crushed 216.647 million bushels of US soybeans in July, up 1.1% from June and 10.7% from a year earlier. However, the daily crush rate eased to 6.989 million bushels from 7.145 million a month earlier. Traders now await the Pro Farmer field tour for fresh indications on US soybean yields after the USDA lowered its official yield forecasts last week. Heavy Midwest rainfall has also raised concerns over excess moisture and crop conditions. Elsewhere, Chinese demand continued to provide support, with traders reporting that China had already purchased around 7 million metric tons of US soybeans. Meanwhile, disruptions to Russian and Ukrainian grain shipments through the Black Sea, including reduced loadings at Russian ports, added broader support to agricultural markets.
+
+---
+
+### 2026-08-18 09:08:26  #MKT News
+
+South Korea's Lee said the U.S.-South Korea alliance and an independent defense capability are complementary.
+
+---
+
+### 2026-08-18 09:07:40  #市場
+
+【國產算力巨頭晶片賣爆了】8月中旬，海光資訊披露成績單，1—6月，收入約91億元，淨利約18億元；尤其二季度，利潤超過11億元，創下單季盈利新高。 賣晶片的海光，搭上兩班快車：CPU重新變得重要，其恰處國產第一梯隊；DCU受益於AI推理需求爆發，其忙著跟前沿大模型實現Day0適配。 截至8月17日收盤，其股價較年初漲了28.8%，總市值超過6700億元。（21財經）
+
+---
+
+### 2026-08-18 09:06:33  #MKT News
+
+South Korea's Lee said a strong national defense is the cornerstone of building an irreplaceable Korea.
+
+---
+
+### 2026-08-18 09:05:53  #其他
+
+【高血壓、糖尿病等158個病種入選“同病同付”】國家醫保局、國家衛生健康委等部門昨天透露，在即將印發的DRG/DIP3.0版分組方案中，首次推薦設定基層病種。其中，DRG基層病種31個，DIP基層病種127個。未來，各地將在同一醫保統籌區內，對基層病種探索實行“同病同付”。此次31個DRG基層病種中，覆蓋了基層日常診療中最常面對的高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病等27種內科疾病和4類技術成熟、基層具備開展條件的一、二級手術。按病種分值（DIP）付費的127個病種覆蓋了呼吸、消化、迴圈、泌尿、骨骼肌肉等多個系統的常見疾病。北京市醫保局副局長顏冰表示，遴選標準首先是“適宜”。定位“常見病、多發病”，意味著受益面更廣，大量參保群眾能夠在基層滿足就醫需求。（央視）
+
+---
+
+### 2026-08-18 09:04:43  #市場 #國際
+
+【日本10年期國債收益率持續走高】當地時間18日，在日本國債市場上，作為長期利率指標的新發10年期國債收益率繼續上升，一度升至2.945%。這一數值是自1996年10月以來的新高。據悉，由於中東局勢再次緊張，加之近一段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售，收益率持續上升。（央視）
+
+---
+
+### 2026-08-18 09:04:31  #MKT News #Important
+
+ProFarmer, part of U.S. Farm Futures magazine, estimates Ohio corn yield at 180.18 bu/acre for the 2026 crop; its 2025 crop tour estimated 185.69 bu/acre.
+
+---
+
+### 2026-08-18 09:04:18  #MKT News #Important
+
+ProFarmer, part of U.S. Farm Futures magazine, said its crop tour forecasts Ohio soybeans to average 1,197.25 pods in 2026, down from 1,287.28 pods in its 2025 tour.
+
+---
+
+### 2026-08-18 09:04:12  #MKT News #Important
+
+ProFarmer, the crop‑tour unit of Farm Futures magazine, estimates South Dakota corn yields at 149.09 bu/acre for 2026 and 174.18 bu/acre for 2025.
+
+---
+
+### 2026-08-18 09:04:07  #MKT News #Important
+
+Pro Farmer, part of Farm Futures magazine, estimates South Dakota soybeans will average 945.98 pods per plant in 2026, versus 1,188.45 pods per plant in its 2025 crop tour.
+
+---
+
+### 2026-08-18 09:03:47  #市場
+
+【青花汾20青花郎逆勢走高 茅臺五糧液等高階名酒多數回撥 】新浪財經“酒價內參”過去24小時收集的資料顯示，8月18日中國白酒業11大單品三漲七跌一平，輸家佔據明顯上風。上漲方面，青花汾20大幅上漲7元，終端零售均價來到398元，扭轉高位短期回撥態勢，再創近一個月新高；習酒君品上漲4元至644元，三連漲後價格平近一個月最高紀錄；青花郎上漲3元至707元，繼昨日站上700元關口後繼續擴大戰果。下跌方面，飛天茅臺下跌2元，終端零售均價來到1782元，高位區間振盪行情延續；精品茅臺下跌4元至2488元，前期連續大漲的強勢結束；五糧液普五八代下跌2元至805元，自近期最高點小幅回落；五糧液1618下跌2元至821元，連續兩日自高位回撥；國窖1573下跌3元至886元，兩連陰進一步脫離月內高點；洋河夢之藍M6+下跌4元至611元，四連陽上漲行情宣告結束；古井貢古20下跌5元至532元，二連跌價格中樞溫和下移。水晶劍南春今日仍持平於405元，連續三日平盤表現平穩。
+
+今日11大單品的終端零售總價持續承壓，大盤價格重心進一步下移，如果11大單品各取一瓶整體打包售賣，今日總售價為10079元，較昨日小幅下跌8元，創近五天以來價格新低。
+
+---
+
+### 2026-08-18 09:03:35  #市場 #焦點
+
+燃料油連續主力合約日內漲4%，現報3733.00元。
+
+---
+
+### 2026-08-18 09:02:48  #公司
+
+【444股獲融資買入超億元，中際旭創穫買入58.47億元居首】Wind資料顯示，A股8月17日共有3838只個股獲融資資金買入，有444股買入金額超億元。其中，中際旭創、長鑫科技、兆易創新融資買入金額排名前三，分別獲買入58.47億元、42.83億元、42.34億元。從融資買入額佔當日總成交金額比重來看，有1只個股融資買入額佔比超30%。其中香溢融通、安乃達、英科再生融資買入額佔成交額比重排名前三，分別為30.24%、29.2%、27.62%。從融資淨買入金額來看，有54只個股獲融資淨買入超億元。其中，中際旭創、新易盛、長鑫科技融資淨買入金額排名前三，分別獲淨買入9.29億元、8.05億元、5.47億元。
+
+---
+
+### 2026-08-18 09:02:34  #公司
+
+【冰山冷熱：公司主要研究資料中心液冷的冷源部分 部分產品已經小批次交付】冰山冷熱(000530)在互動平臺表示，公司主要研究資料中心液冷的冷源部分，現在著重研發的冷源有：乾冷器、氟泵系統、冷水系統，部分產品已經小批次交付。冷水系統方面，公司積極推進磁懸浮冷水機組的研發，開發過程存在不確定性，可以投入商用時間暫不確定。
+
+---
+
+### 2026-08-18 09:02:32  #市場
+
+新加坡海峽時報指數下跌1%，至5710.73。
+
+---
+
+### 2026-08-18 09:01:52  #其他
+
+【田灣核電7號機組裝料完成 進入帶核除錯階段】8月18日，隨著堆芯裝載正確性核查完成、保護管元件回裝工作開始，位於江蘇連雲港的田灣核電7號機組首次核燃料裝載工作圓滿結束，進入帶核除錯階段，為機組後續反應堆臨界、併網發電、商運等奠定了堅實的基礎。
+
+---
+
+### 2026-08-18 09:01:49  #MKT News #Commodities #Energy
+
+【Tianwan unit 7 completes fuel loading, enters fueled commissioning】Aug. 18 — Tianwan nuclear plant unit 7 in Lianyungang, Jiangsu completed initial fuel loading and has entered fueled commissioning, advancing toward reactor criticality, grid connection and commercial operation. Units 7 and 8 under construction are 1.265 GW each with a 60‑year design life; the project targets commercial operation in 2026 and 2027 respectively. Tianwan plans eight units in total; units 1–6 are already operational and have supplied over 500 billion kWh. With all eight online, total capacity will exceed 9 GW, annual output about 70 billion kWh and CO2 emissions would be cut by roughly 57.4 million tonnes per year.
+
+---
+
+### 2026-08-18 09:01:12  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+On Tuesday Aug 18 early trade, Shanghai Gold Exchange's Gold T+D rose 0.94% to 960.5 yuan/gram; Silver T+D rose 1.18% to 16,190 yuan/kg.
+
+---
+
+### 2026-08-18 09:01:10  #MKT News
+
+Taiwan's TAIEX opened 172.37 points higher at 46,029.64 on Tuesday, up 0.38%.
+
+---
+
+### 2026-08-18 09:01:10  #MKT News #Market Regions #Greater China
+
+FTSE China A50 index futures opened 0.14% lower.
+
+---
+
+### 2026-08-18 09:00:45  #其他
+
+【暑運期間 廣州地鐵客流量破千萬成日常】常暑運期間（7月1日至8月31日），廣州地鐵線網客流迎來較大增幅。據記者統計，7月1日至8月16日，廣州地鐵已有26個工作日單日客流量超千萬人次。7月1日至8月16日，廣州地鐵累計運送乘客4.6億人次。其中，線網工作日日均客運量達1030萬人次，較暑運前增長5.4%；週六日日均客運量839萬人次，較暑運前增長3.2%。最高單日客流達1128萬人次。（廣州日報）
+
+---
+
+### 2026-08-18 09:00:26  #MKT News
+
+【Navigation warning: military exercise in northern Bohai Sea】Yingkou Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: from Aug 19 08:00 to Aug 21 18:00, sections of the northern Bohai Sea will conduct military exercises; vessels are prohibited from entering the area.
+
+---
+
+### 2026-08-18 09:00:21  #MKT News #Important
+
+At the morning open, China’s main futures contracts were mostly higher: Shanghai crude (SC) up about 5%; fuel oil and ethylene glycol (EG) up nearly 4%; Europe-route container freight futures rose over 3%; synthetic rubber and liquefied petroleum gas (LPG) up around 3%; asphalt and low‑sulfur fuel oil (LU) climbed over 2%. Lagging were Shanghai tin and starch, down more than 1%; international copper, eggs and Shanghai copper fell about 1%.
 
 ---
 
@@ -17708,648 +18214,5 @@ New Zealand | Performance of Services Index (Jul) | actual 50.6 | previous 50.6
 ### 2026-08-17 06:36:04  #國際
 
 【紐約曼哈頓下東區發生警察開槍事件 多人受傷】當地時間8月16日下午，美國紐約曼哈頓下東區發生一起警察開槍事件，造成多人受傷。目前警方正在展開調查。紐約市警察局表示，事件發生在當天16時左右，有六人被送往醫院治療，目前傷情暫不清楚。目前，警方尚未公佈開槍事件的具體經過、受傷人員身份以及是否有人被拘捕。事件仍在調查中。（央視新聞）
-
----
-
-### 2026-08-17 06:34:07  #其他
-
-【哥倫比亞強震已致289人死亡 逾18萬人受災】哥倫比亞總統德拉埃斯普列亞16日說，該國10日發生的強震已造成289人死亡、143人失蹤、4187人受傷，受災人口超過18萬。（新華社）
-
----
-
-### 2026-08-17 06:30:53  #央行 #資料 #國際
-
-【週一重要財經資訊提醒（以下均為北京時間）】 
-① 07:01 英國8月Rightmove平均房屋要價指數；
-② 07:50 日本二季度實際GDP初值；
-③ 全天 韓國股市因假期休市；
-④ 15:00 中國7月規模以上工業增加值、社會消費品零售總額、1至7月城鎮固定資產投資、1至7月全國房地產開發投資、7月70個大中城市房價報告，國新辦就國民經濟執行情況舉行新聞釋出會；
-⑤ 20:30 美國8月紐約聯儲製造業指數，加拿大7月CPI；
-⑥ 22:00 美國8月NAHB房產市場指數；
-⑦ 次日04:00 美國6月國際資本淨流入。
-
----
-
-### 2026-08-17 06:27:31  #MKT News
-
-【ANTHROPIC CEO: Best way to counter AI skeptics is to deliver on hype】Dario Amodei, CEO of ANTHROPIC, said on Saturday the best way to counter public skepticism about AI is to deliver on the technology’s promises, acknowledging widespread distrust and calling for concrete scientific breakthroughs. He said claims that AI will cure cancer have become clichés and are seen as misleading, and conceded the fairest critique of AI firms, including ANTHROPIC, is that they have not yet delivered on their grand promises — genuinely effective progress would be curing cancer. Amodei has previously warned about AI risks; some industry figures have criticized his tone. Demis Hassabis of DeepMind earlier urged peers to retract overly certain pessimistic predictions. With OpenAI and ANTHROPIC seen as potential IPO candidates, market sentiment has moved from pessimism toward optimism, though Amodei said he does not believe his warnings are the root cause of public distrust.
-
----
-
-### 2026-08-17 06:19:49  #市場
-
-【A股科技修復行情延續 機構：結構性輪動或成主旋律】8月以來，A股科技主線輪動修復，人形機器人、腦機介面、CPO、光纖光纜等多個細分賽道均有所表現。對於科技主線的後市演繹，券商策略展望報告認為，AI產業鏈基本面具備確定性，科技板塊的修復趨勢並未終結。但板塊上漲仍受制於資金面壓力及AI產業敘事能否出現重大變革，後續科技行情或將由普漲轉向結構性機會。（上證報）
-
----
-
-### 2026-08-17 06:18:55  #市場 #國際
-
-【半年回撥壓力釋放 專家：黃金步入築底向上階段】“一個星期‘回血’一萬多元。”上週，積存金投資者徐若安（化名）高位套現部分持倉，打算擇時再度入場。這或許是全球眾多黃金投資者的縮影。美國7月非農就業資料爆冷，點燃了8月金市，倫敦現貨黃金自4000美元/盎司接連突破，13日盤中逼近4450美元/盎司後，獲利了結盤湧入導致跳水，失守4400美元/盎司。不過，資金並未轉向，次日即小幅反彈。不少“淘金客”在這半年的回撤中感嘆“鈍刀割肉最磨人”，而資產配置型投資者則從容以對。對比此前的焦灼心態，多數受訪投資者開始期待黃金後市表現。市場專家普遍認為，黃金大幅拋壓基本釋放，當前已步入築底向上階段，後市有望緩漲。（上證報）
-
----
-
-### 2026-08-17 06:17:44  #行業
-
-【醫藥基金淨值大幅攀升 機構配置尚處歷史低位】近期A股市場風格迎來切換，前期強勢的科技板塊迎來調整，沉寂已久的醫藥板塊開啟強勢反彈行情，多隻主動醫藥基金淨值大幅攀升，成為市場亮眼主線。 據Wind資料統計，截至8月14日，多隻主動權益類醫藥基金區間漲幅突破30%，頭部產品收益表現尤為突出。其中，招商前沿醫療保健、招商醫藥健康產業、華泰柏瑞醫療健康漲幅分別超54%、53%、52%，領跑同類醫藥基金；嘉實醫療保健、廣發醫藥精選等產品漲幅超40%；建信高階醫療、中歐醫療創新、國泰創新醫藥、中歐醫療健康等十餘隻醫藥主題基金漲幅均突破30%，整體賺錢效應顯著。業內機構分析指出，當前醫藥行情由產業趨勢和結構性機會主導，尚未進入資金抱團、行情擁擠的階段。基金淨值率先反彈，但ETF資金、機構整體持倉尚未跟進補倉，行業低位特徵明顯。若行業基本面催化持續落地、企業業績持續兌現，當前偏低的機構配置比例，將為後續增量資金迴流、板塊行情持續上行預留充足空間。（證券時報）
-
----
-
-### 2026-08-17 06:12:51  #其他
-
-中國地震臺網正式測定：08月17日06時09分在四川內江市隆昌市（北緯29.23度，東經105.21度）發生3.0級地震，震源深度8千米。
-
----
-
-### 2026-08-17 06:12:02  #其他
-
-*北京君正：全球發售項下H股最高發售價為每股102.80港元。
-
----
-
-### 2026-08-17 06:07:29  #市場 #焦點 #國際
-
-【納斯達克期貨與原油同步小幅走高】納斯達克期貨與原油合約小幅上漲，投資者正等待華盛頓方面公佈針對伊朗實施“經濟封鎖”計劃的細節。美債期貨走勢平穩，黃金小幅下挫。美元兌日元匯率處於159關口，日本GDP資料即將公佈。韓國股市休市。
-
----
-
-### 2026-08-17 06:06:49  #焦點 #國際
-
-【油價持穩，市場聚焦黎巴嫩局勢與霍爾木茲海峽風險】受黎巴嫩新一輪衝突爆發、霍爾木茲海峽船隻遇襲事件影響，結束美伊戰爭的協議前景不明，國際油價保持震盪持穩。布倫特原油小幅波動，低於89美元/桶；WTI原油約83美元/桶，上週兩類原油均錄得6%漲幅。美國對伊朗的戰爭現已進入第六個月，原油年內累計漲幅超40%。
-
----
-
-### 2026-08-17 06:04:57  #其他
-
-資料顯示：剛果埃博拉疫情已成為該國歷史上致死人數最多的一次疫情。
-
----
-
-### 2026-08-17 06:04:44  #其他
-
-剛果稱，埃博拉確診病例升至4945例，其中死亡2325例。
-
----
-
-### 2026-08-17 06:01:31  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
-
-Spot gold opened slightly higher on Monday at $4,380.58/oz. WTI crude opened higher at $81.66/bbl.
-
----
-
-### 2026-08-17 06:01:05  #MKT News #Nasdaq100 #Impact bullish
-
-Nasdaq futures opened 0.1% higher on Monday.
-
----
-
-### 2026-08-17 06:00:39  #市場 #焦點
-
-現貨黃金突破4380美元/盎司，日內漲0.09%。
-
----
-
-### 2026-08-17 06:00:04  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為66.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為66.9%，累計加息25個基點的機率為33.1%。美聯儲到10月維持利率不變的機率為53.6%，累計加息25個基點的機率為39.8%，累計加息50個基點的機率為6.6%。
-
----
-
-### 2026-08-17 05:58:42  #其他
-
-【辛巴威船隻傾覆事故死亡人數升至84人】辛巴威警方16日發表宣告說，該國北部卡里巴湖11日發生的船隻傾覆事故死亡人數已升至84人。據悉，事故發生後已有77人獲救。警方表示，目前仍有人員失蹤，搜尋工作仍在繼續。
-
----
-
-### 2026-08-17 05:58:29  #其他
-
-【巴西大選法定競選活動正式開啟】當日，巴西大選法定競選活動正式開啟，宣佈參加2026年巴西總統選舉的巴西現任總統、左翼領袖盧拉和右翼總統候選人弗拉維奧·博索納羅分別舉行首場競選集會。（新華社）
-
----
-
-### 2026-08-17 05:48:26  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-【Trump says he will sharply scale back US-South Korea joint military exercises】US President Trump said on social media on Aug. 16 ET that, citing his good relationship with North Korean leader Kim Jong Un and that the drills are costly and largely paid for by the US, he has instructed the US defense secretary to sharply scale back upcoming US-South Korea joint military exercises. He added he recently asked South Korea's president to join US efforts to push Iran to denuclearize, and that Seoul declined.
-
----
-
-### 2026-08-17 05:46:22  #市場
-
-【多家銀行競推“算力貸” “算力證明信用”能走多遠】近日，廣東省首個詞元經濟專項金融產品“Token貸”的推出引發熱議，該產品以企業算力Token產出消耗、算力服務合約價值、算力業務產生的應收賬款、Token佣金結算量等作為核心授信依據，為企業提供授信額度。
-
----
-
-### 2026-08-17 05:44:05  #其他
-
-馬拉維統計局資料顯示，該國7月消費者通脹率按年計算為20.8%。
-
----
-
-### 2026-08-17 05:36:00  #國際
-
-【特朗普：歡迎沙土巴三國簽署共同防務協議】美國總統特朗普在其社交媒體平臺“真實社交”上發文，對沙烏地阿拉伯、土耳其和巴基斯坦近期簽署共同防務協議表示歡迎。特朗普表示，這一協議表明中東地區正在加強團結，各國將能夠以“更加切實有效的方式”保衛自身。他同時向沙特、土耳其和巴基斯坦三國領導人表示祝賀，並稱這一協議是“大膽而重要的第一步”。（央視新聞）
-
----
-
-### 2026-08-17 05:34:33  #焦點 #國際
-
-【特朗普：“不滿”美國早前同意參加與韓國的聯合軍演】美國總統特朗普16日在社交媒體發文稱，鑑於他與朝鮮領導人金正恩的良好關係，他對於美國很早之前同意參加與韓國的聯合軍演“感到不滿”。（新華社）
-
----
-
-### 2026-08-17 05:33:08  #MKT News
-
-【Trump welcomes Saudi-Turkey-Pakistan mutual defense pact】On Aug 16, U.S. President Trump posted on Truth Social welcoming a newly signed mutual defense agreement among Saudi Arabia, Turkey and Pakistan. He said the pact signals greater Middle East unity and will enable the countries to defend themselves "in a more tangible and effective way", congratulated their leaders, and called the deal "a bold and important first step."
-
----
-
-### 2026-08-17 05:25:12  #其他
-
-【投資結構持續最佳化 新質生產力加速成長 高頻資料傳遞經濟平穩執行積極訊號】7月國民經濟執行情況即將釋出，作為研判三季度及下半年經濟走勢的重要觀測視窗，市場對7月經濟表現高度關注。從多項高頻資料與先行指標來看，線下消費、基建、先進製造等領域釋放積極訊號，經濟總體保持平穩執行，但穩增長壓力依然存在，宏觀政策仍需加力提效，著力擴內需穩增長。
-
----
-
-### 2026-08-17 05:23:50  #國際
-
-特朗普：我詢問了韓國總統，他們是否願意加入我們，共同推動解除伊朗的核武裝，他的回答是不。
-
----
-
-### 2026-08-17 05:13:06  #MKT News #Important
-
-【Trump says he has ordered sharp cuts to US-South Korea joint drills】President Trump said he is unhappy the US agreed long ago to joint military drills with South Korea, calling them costly and largely paid for by the US. He said it is too late to cancel and has instructed the defense secretary to sharply reduce the scale of the exercises. Trump added he asked the South Korean president about joining US action to denuclearize Iran; the reply was "No, thank you."
-
----
-
-### 2026-08-17 05:12:28  #國際
-
-特朗普：（美韓）聯合軍演向一個態度友善的國家釋放出敵對訊號。
-
----
-
-### 2026-08-17 05:11:06  #國際
-
-特朗普：與韓國舉行的軍演耗資巨大。
-
----
-
-### 2026-08-17 05:10:33  #國際
-
-特朗普：對於美國很早之前就同意參與美韓聯合軍事演習這件事，我感到不滿。
-
----
-
-### 2026-08-17 05:09:37  #國際
-
-特朗普：很高興看到沙烏地阿拉伯、土耳其以及巴基斯坦近期終於簽署了《麥加聯合防務協議》。這表明中東地區正在走向團結，各國終於能夠以更具實質意義的方式實現自衛。向上述三國卓越的領導層表示祝賀。這是重大、果敢且意義深遠的第一步，太棒了。
-
----
-
-### 2026-08-17 05:08:58  #國際
-
-【傳奇投資人Stanley Druckenmiller買入美國上市的中概股】華爾街傳奇投資大亨、億萬富豪Stanley Druckenmiller幾年來首次重返美國交易的中國股票。彭博對其主要投資平臺Duquesne Family Office LLC最新的13F檔案的分析發現，該家族辦公室第二季建倉百度ADR，買入8.8萬份，僅佔其投資組合的0.2%。彙總的資料顯示，Duquesne自2023年第四季清倉阿里巴巴ADR後至本次披露期間再無持有中概股。
-
----
-
-### 2026-08-17 05:07:57  #國際
-
-特朗普稱，已要求五角大樓削減與韓國的軍事演習。
-
----
-
-### 2026-08-17 05:07:57  #MKT News #Important
-
-Trump said he is unhappy he long ago agreed to joint military exercises with South Korea and has instructed Defense Secretary Hegseth to sharply curtail them.
-
----
-
-### 2026-08-17 04:58:48  #觀點
-
-東方證券給予中信證券A股買進的初始評級，目標價35.36元人民幣。
-
----
-
-### 2026-08-17 04:58:43  #MKT News
-
-Brazil's Rio de Janeiro state firefighters said on the 16th that a tourist coach overturned near Petrópolis in the early hours, killing at least 10.
-
----
-
-### 2026-08-17 04:49:17  #公司 #國際
-
-【美國針對馬克·沃爾特的調查聚焦四家中介機構】美國聯邦調查人員調查馬克·沃爾特，重點鎖定四家機構。這四家機構充當中介，處理古根海姆合夥公司執行長旗下保險企業，向其商業版圖內其他公司發放的貸款。美國聯邦檢察官與美國證券交易委員會正在調查，沃爾特及其控制的企業是否存在欺詐行為：即在從保險機構借入數十億美元的過程中隱瞞資金關聯關係。調查人員現已將調查範圍收縮至總部位於邁阿密的ABS Capital、投資機構Amistad Financial、商業地產經紀商布拉德福德·艾倫以及哈德遜貿易公司。
-
----
-
-### 2026-08-17 04:44:55  #國際
-
-美國媒體：由於特朗普政府未能妥善應對其對伊朗發動的戰爭，美國在波斯灣地區的盟友日益感到憤怒與失望。
-
----
-
-### 2026-08-17 04:33:40  #MKT News
-
-US President Trump said he had "a great weekend" and held "many meetings."
-
----
-
-### 2026-08-17 04:21:51  #公司 #國際
-
-知情人士稱，美國檢察官和美國證券交易委員會（SEC）正對古根海姆合夥公司執行長馬克·沃爾特展開調查。檢察官的調查重點聚焦其4家企業，美國證券交易委員會（SEC）正在對馬克·沃爾特的交易展開調查。
-
----
-
-### 2026-08-17 04:18:57  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
-
-【JP Morgan CEO warns UK chancellor against raising bank tax】JP Morgan CEO Jamie Dimon told the UK chancellor on a call last week not to impose new taxes on banks, warning that an uncompetitive tax regime—under consideration ahead of the October budget—would weaken London’s financial centre and could prompt capital and financial jobs to leave the UK.
-
----
-
-### 2026-08-17 04:17:31  #國際
-
-土耳其總統埃爾多安談及與以色列可能爆發的戰爭：我們談論的不是戰爭，而是和平。但如果有人為了戰爭而非和平向土耳其發起攻擊，土耳其將毫不猶豫地投入這場戰爭，絕不退縮。我把話說得清清楚楚，毫無保留。
-
----
-
-### 2026-08-17 04:15:27  #其他
-
-中國地震臺網正式測定：08月17日04時05分在四川自貢市富順縣（北緯29.21度，東經105.21度）發生3.1級地震，震源深度7千米。
-
----
-
-### 2026-08-17 04:11:54  #公司 #觀點 #焦點
-
-【小摩CEO警告英國財政大臣：切勿提高銀行業稅收】摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。摩根大通執行長傑米·戴蒙表示，缺乏競爭力的稅收制度可能會削弱倫敦金融中心的地位，目前英國政府正考慮在10月預算案前對銀行業徵收新稅。戴蒙稱這可能會導致資本和金融就業崗位流出英國。
-
----
-
-### 2026-08-17 04:06:21  #MKT News
-
-Al Jazeera reported Iran's parliament speaker said Iran must reach a level of deterrence to avoid being drawn into a cycle of war, peace and renewed war.
-
----
-
-### 2026-08-17 04:04:15  #國際
-
-伊朗議會議長：我們必須達到一種威懾水平，以免陷入戰爭—和平—戰爭消耗的惡性迴圈。
-
----
-
-### 2026-08-17 04:02:48  #其他
-
-中國地震臺網自動測定：08月17日04時01分在四川內江市隆昌市附近（北緯29.23度，東經105.22度）發生3.3級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-17 03:53:05  #MKT News
-
-【Attorney General Todd Blanch says he will disagree with president on legal matters, declines to promise DOJ will always be independent of White House】Politico reported Attorney General Todd Blanch said on Sunday he is willing to disagree with the president on legal matters and that Trump expects cabinet members to differ when necessary. Asked whether he would refuse the president’s preferred course if his legal view differed, Blanch said, "I think he would expect me to tell him 'no.'" He declined to commit that the Justice Department will "always act independent of the White House," adding, "No, I will not make that promise, and no attorney general should make that promise."
-
----
-
-### 2026-08-17 03:45:23  #國際
-
-【布蘭奇拒絕承諾司法部將獨立於特朗普運作】美國司法部長託德·布蘭奇拒絕承諾司法部將獨立於白宮運作，並表示他會將特朗普總統對個別起訴案件的觀點納入考量。在週日接受採訪被問及司法部是否會“始終獨立於”白宮行事時，布蘭奇回答：“不，我不會做出這種承諾。”他補充道：“沒有任何一位司法部長應該做出這種承諾。”
-
----
-
-### 2026-08-17 03:40:59  #公司
-
-【Stripe接近達成超70億美元收購AI公司OpenRouter的協議】據知情人士透露，支付處理公司Stripe Inc.已敲定協議，將以超過70億美元的價格收購OpenRouter Inc.。這筆交易凸顯了企業尋找最具成本效益的AI解決方案的迫切需求，同時也可能為Stripe在快速發展的AI領域奠定更堅實的基礎。OpenRouter提供數百種AI模型的訪問許可權，旨在為開發者匹配最高效、最經濟適用的模型選項。
-
----
-
-### 2026-08-17 03:37:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News: Iran’s Islamic Revolutionary Guard Corps political deputy commander said IRGC actions so far have been defensive but could shift to offensive in future. He said Iran’s armed forces will adopt a transformative strategy and will take any measures necessary to defend the country.
-
----
-
-### 2026-08-17 03:36:48  #市場
-
-美元在悉尼早盤交易中兌主要貨幣走勢趨於穩定。
-
----
-
-### 2026-08-17 03:34:58  #其他
-
-阿曼國家通訊社：阿曼拉斯馬德拉卡地區約有12公里的海岸線受到了石油汙染的影響。
-
----
-
-### 2026-08-17 03:34:38  #國際
-
-以色列軍方：為回應以軍在“安全區”內計程車兵遭襲，以軍對黎巴嫩南部的真主黨基礎設施發動了打擊。
-
----
-
-### 2026-08-17 03:34:24  #國際
-
-烏克蘭總統澤連斯基：烏軍襲擊了位於烏斯季盧加的一處俄羅斯石油設施。
-
----
-
-### 2026-08-17 03:33:40  #其他
-
-英國海事貿易行動辦公室（UKMTO）表示，週五在霍爾木茲海峽，一艘散貨船被擊中。船員均報告安全，但目前尚未收到損失評估報告，環境影響尚不明確。
-
----
-
-### 2026-08-17 03:32:30  #其他
-
-訊息人士透露，Anthropic預計2028年營收將達到1900億至2000億美元。華爾街正利用2028年的營收預測以及企業價值/營收倍數（EV-to-Revenue）來為其IPO進行估值。
-
----
-
-### 2026-08-17 03:28:22  #MKT News
-
-cenc reported a magnitude 3.6 earthquake at 03:23 on Aug 17 in Longchang, Neijiang, Sichuan (29.22N, 105.21E); depth 8 km.
-
----
-
-### 2026-08-17 03:26:10  #宏觀 #國際
-
-【哈馬斯政治局主席訪問埃及 討論加沙地帶局勢】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）16日發表宣告稱，哈馬斯政治局主席哈利勒·哈亞當天在埃及開羅與埃及情報總局局長哈桑·拉沙德舉行會晤。雙方重點討論了約旦河西岸和加沙地帶的最新動態。宣告還稱，哈馬斯向埃及方面通報了以色列近期的違規行為，指責以方不斷採取行動升級局勢。哈馬斯重申必須制止以方此類行動，並呼籲地區及國際社會立即採取緊急干預措施。（央視新聞）
-
----
-
-### 2026-08-17 03:26:04  #MKT News
-
-【Hamas political bureau chief meets Egypt intelligence chief in Cairo to discuss Gaza, West Bank】Hamas said on the 16th its political bureau chief Khalil al-Hayya met in Cairo with Egyptian General Intelligence chief Hassan Rashad to discuss recent developments in the West Bank and Gaza. Hamas informed Egyptian officials of what it described as recent Israeli violations, accused Israel of escalating the situation and called for immediate regional and international intervention.
-
----
-
-### 2026-08-17 03:25:03  #國際
-
-【韓國將重啟親日反民族行為者財產追繳】據韓國方面16日訊息，法律界訊息人士稱，韓國《親日反民族行為者財產的國家歸屬等相關特別法》將於12月正式施行。這是韓國時隔16年後，重啟在國家層面上對親日反民族行為者財產進行追繳的工作。據相關訊息，負責追繳工作的“親日反民族行為者財產調查委員會”已於今年6月開始籌備組建，並將於12月正式啟動追繳工作。2005年，韓國國會曾透過相關法律，將反民族行為者在日本殖民統治時期透過親日行為取得的財產納入國家追繳範圍。隨後成立“親日反民族行為者財產調查委員會”，但該委員會在2010年任期屆滿後被解散。（央視新聞）
-
----
-
-### 2026-08-17 03:24:53  #其他
-
-中國地震臺網自動測定：08月17日03時23分在四川內江市隆昌市附近（北緯29.23度，東經105.22度）發生3.6級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-17 03:24:23  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israeli strikes have killed 4,346 in Lebanon】Lebanon's Public Health Ministry emergency operations center said on Aug 16 that Israeli airstrikes and attacks from March 2 through Aug 16 have killed 4,346 people and injured 12,301.
-
----
-
-### 2026-08-17 03:24:13  #國際
-
-美伊諒解備忘錄將於週一到期，目前幾乎沒有達成最終協議的跡象。伊朗首席談判代表卡利巴夫稱這是一次外交上的“勝利”，並表示美國和以色列未能實現其戰爭目標。
-
----
-
-### 2026-08-17 03:22:01  #國際
-
-哈馬斯：讚賞美國總統特朗普所發揮的作用，希望他繼續努力，以結束我們人民的苦難併為地區帶來安全。
-
----
-
-### 2026-08-17 03:21:23  #MKT News
-
-Hamas urged mediators and the peace committee to fulfill their duties and compel Israel to honor its commitments and cease violations.
-
----
-
-### 2026-08-17 03:20:51  #MKT News
-
-Hamas said it had fully complied with the first phase of the ceasefire agreement while Israel did not comply.
-
----
-
-### 2026-08-17 03:20:10  #MKT News
-
-Hamas said it has agreed to a plan intended to secure a permanent ceasefire, the full withdrawal of occupying forces and the activation of a governing committee.
-
----
-
-### 2026-08-17 03:19:26  #國際
-
-哈馬斯：（我方）在第一階段已全面履行停火協議，而以色列方面卻未予遵守。
-
----
-
-### 2026-08-17 03:19:00  #其他
-
-哈馬斯：呼籲調解方與和平委員會履行其職責，迫使佔領方落實各項義務並停止侵權行為。
-
----
-
-### 2026-08-17 03:18:12  #國際
-
-哈馬斯：為達成永久停火、以色列全面撤軍並啟動行政委員會工作，我們已同意該方案（特朗普計劃的第二階段路線圖）。
-
----
-
-### 2026-08-17 03:17:50  #MKT News
-
-【Sisi meets Kushner, urges implementation of Gaza ceasefire】Egyptian President Sisi met Jared Kushner in Alamein on the 16th and urged parties to implement the Gaza ceasefire and deliver on the outcomes of last October’s Sharm el‑Sheikh summit. The presidential office said they exchanged views on the Palestinian issue and broader Middle East developments and called for Egypt-US cooperation to resolve the regional crisis and preserve stability.
-
----
-
-### 2026-08-17 03:15:39  #國際
-
-【埃及總統塞西會見庫什納 呼籲各方落實加沙停火】埃及總統塞西16日在埃及阿拉曼會見美國總統特朗普的女婿庫什納，呼籲有關各方推動落實加沙停火協議。埃及總統府當天發表宣告說，會見期間，雙方就巴勒斯坦問題等中東局勢發展交換意見，強調有關各方應履行去年10月在埃及舉行的沙姆沙伊赫峰會成果，推動落實加沙停火協議。塞西還表示，埃美兩國應協作推動解決地區危機，維護地區穩定。（新華社）
-
----
-
-### 2026-08-17 03:14:35  #MKT News #Market Themes #The Trump Trade
-
-Hamas said it highly valued Trump's role in facilitating the Gaza ceasefire agreement.
-
----
-
-### 2026-08-17 03:14:10  #MKT News
-
-Hamas said its agreement to phase two of Trump's plan hinges on achieving a permanent ceasefire and Israeli withdrawal.
-
----
-
-### 2026-08-17 03:12:29  #國際
-
-哈馬斯宣佈同意特朗普計劃的第二階段，旨在實現永久停火、完全撤出以色列從加沙地帶、提供緊急和永久援助、啟動行政委員會活動、重建以及執行其他商定的承諾。
-
----
-
-### 2026-08-17 03:09:31  #公司 #觀點
-
-市場資訊：摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。
-
----
-
-### 2026-08-17 03:07:27  #MKT News
-
-Hamas said a leadership delegation led by Khaled al-Hayya met mediators and guarantors of the Gaza agreement in Egypt today and told guarantors it had agreed to the second phase of Trump's plan.
-
----
-
-### 2026-08-17 03:07:08  #國際
-
-【以軍襲擊已致黎巴嫩4346人死亡】據黎巴嫩公共衛生部緊急行動中心16日訊息，3月2日至8月16日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4346人死亡，12301人受傷。
-
----
-
-### 2026-08-17 03:05:23  #國際
-
-科威特外交部在一份宣告中譴責以色列公開反對特朗普全面計劃的路線圖，該計劃旨在完成結束加沙衝突的執行。
-
----
-
-### 2026-08-17 02:57:18  #MKT News
-
-Tasnim News reported Iranian parliament speaker Ghalibaf said this is the US and Israeli regimes' most painful defeat.
-
----
-
-### 2026-08-17 02:57:04  #國際
-
-【伊朗議長：美以未能實現任何既定目標，伊朗已贏得這場戰爭】伊朗議長卡利巴夫表示：“在這場戰爭中，我們確實在軍事和政治兩條戰線上都取得了真正的勝利。這並不意味著我們摧毀了美軍。美國和以色列帶著九個明確的、公開宣佈的目標來攻擊我們，但他們在任何層面上都未能實現這九個目標中的任何一個。這是美國和以色列遭遇的最徹底的絕對失敗。在外交領域，同樣如此。”
-
----
-
-### 2026-08-17 02:56:49  #MKT News
-
-TASNIM NEWS reported Iranian parliament speaker Ghalibaf said Iran has won the war militarily and politically, adding this does not mean Iran destroyed the US military; rather, he said the US and Israel attacked with nine publicly stated objectives and failed to achieve any of them at any level.
-
----
-
-### 2026-08-17 02:55:10  #MKT News
-
-Qatar's foreign ministry said the prime minister spoke by phone with Syria's foreign minister to discuss recent regional developments and efforts to de-escalate tensions.
-
----
-
-### 2026-08-17 02:53:48  #MKT News
-
-Qatar's foreign ministry said the prime minister reiterated Doha's full support for efforts to de-escalate tensions and to reach a comprehensive agreement aimed at securing lasting regional peace.
-
----
-
-### 2026-08-17 02:53:41  #國際
-
-卡達外交部：首相在與敘利亞外交部長的通話中討論了地區最新局勢及緩和局勢的努力。
-
----
-
-### 2026-08-17 02:53:24  #MKT News #WTI #Impact bearish #Brent
-
-Qatar's foreign ministry said the prime minister urged all parties to pursue dialogue and diplomacy and to implement the understandings in the US-Iran memorandum, including ensuring freedom of navigation in the Strait of Hormuz, to safeguard regional security, preserve gains and bolster stability.
-
----
-
-### 2026-08-17 02:52:37  #國際
-
-卡達外交部：首相在與沙特外交部長的通話中討論了地區最新局勢及緩和緊張局勢的努力。
-
----
-
-### 2026-08-17 02:52:27  #MKT News
-
-Qatar's foreign ministry said the prime minister spoke with Jordan's foreign minister and discussed diplomatic efforts aimed at easing regional tensions.
-
----
-
-### 2026-08-17 02:51:51  #國際
-
-卡達外交部：首相強調各方必須堅持對話，並落實諒解備忘錄中達成的各項共識。
-
----
-
-### 2026-08-17 02:51:40  #國際
-
-卡達外交部：首相在與約旦外交部長的通話中商討了旨在緩解地區局勢的外交努力。
-
----
-
-### 2026-08-17 02:43:06  #MKT News
-
-CENTCOM commander Brad Cooper praised USS Lincoln leadership for stepping up and making crew mental health and resilience a leadership priority.
-
----
-
-### 2026-08-17 02:42:48  #MKT News
-
-CENTCOM commander Brad Cooper said he has long regarded psychological and mental health as components of personal health, equal to physical health and deserving of attention.
-
----
-
-### 2026-08-17 02:42:13  #MKT News
-
-CENTCOM commander Brad Cooper said the USS Abraham Lincoln currently has one of the lowest counts of mental-health-related cases among the US Navy's 11 active aircraft carriers.
-
----
-
-### 2026-08-17 02:41:18  #MKT News
-
-CENTCOM commander Brad Cooper said his recent visit aboard the aircraft carrier USS Abraham Lincoln was "stunning" and he hopes every American can see the crew’s performance while carrying out their duties.
-
----
-
-### 2026-08-17 02:34:58  #國際
-
-美國中央司令部指揮官布拉德·庫珀：在美國海軍11艘現役航母中，亞伯拉罕·林肯號目前是（士兵）心理健康相關問題最少的一艘。
-
----
-
-### 2026-08-17 02:27:05  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation the group will not be included in any political process until Gaza is fully disarmed.
-
----
-
-### 2026-08-17 02:26:40  #MKT News
-
-Al Jazeera cited Palestinian sources saying a Hamas delegation told Kushner it would refuse to undertake any new measures that could not obtain Israel's prior consent.
-
----
-
-### 2026-08-17 02:25:48  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Hamas leadership briefed Kushner in detail on alleged Israeli violations of the ceasefire in the Gaza Strip.
-
----
-
-### 2026-08-17 02:25:30  #MKT News #Market Themes #The Trump Trade
-
-Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders Trump views disarming armed factions as a prerequisite to any further action in Gaza.
-
----
-
-### 2026-08-17 02:25:21  #國際
-
-【庫什納在開羅會晤哈馬斯領導層，強調解除武裝為先決條件】據巴勒斯坦訊息人士透露，特朗普特使庫什納與哈馬斯領導層在開羅進行了逾兩小時的會晤。庫什納向哈馬斯明確傳達，解除武裝是融入未來政治程序的關鍵前提；同時，美方堅決反對驅逐加沙居民，並建議哈馬斯不要寄望於以色列選舉結果。哈馬斯方面則向庫什納詳細通報了以色列違反停火協議的情況，並強調反對任何未獲以色列事先同意的新舉措。當前談判的核心死結仍在於行動順序：哈馬斯要求以色列先撤軍，而以色列堅持哈馬斯必須先全面繳械。庫什納此行旨在推動落實加沙和平計劃，試圖彌合各方分歧。
-
----
-
-### 2026-08-17 02:25:03  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner emphasized that Israel's position on the Gaza Strip is consistent.
-
----
-
-### 2026-08-17 02:23:48  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party.
-
----
-
-### 2026-08-17 02:23:07  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours.
-
----
-
-### 2026-08-17 02:22:33  #MKT News
-
-Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip.
-
----
-
-### 2026-08-17 02:22:04  #MKT News
-
-Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip.
 
 ---
