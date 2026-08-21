@@ -1,7 +1,83 @@
 {
   "date": "2026-08-22",
-  "count": 99,
+  "count": 107,
   "items": [
+    {
+      "id": "mkt:01a02564-a01d-7aab-90d9-ac1f12d07619",
+      "time": "2026-08-22 01:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lula calls Trump to seek restart of talks on U.S. 25% tariffs】Brazilian President Lula phoned U.S. President Trump on Friday to urge restarting negotiations over U.S. tariffs on Brazilian goods ahead of Brazil's October election, the Brazilian government said. Lula rejected U.S. allegations of unfair trade practices that prompted Washington to impose 25% tariffs on many Brazilian products, telling Trump in a call lasting just over an hour that the accusations were \"baseless.\" Brazil said Trump proposed government-level meetings as soon as possible. It was the first call between the two leaders since relations soured again in May."
+    },
+    {
+      "id": "mkt:01a02563-6288-7aab-90d9-a417c8a2dd3d",
+      "time": "2026-08-22 01:34:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Intercontinental Exchange (ICE): For the week ended Aug 18, speculative net-long positions in natural gas rose 1,807 contracts to 92,522 contracts."
+    },
+    {
+      "id": "mkt:01a02563-1c4d-7aab-90d9-98e3fe69de1d",
+      "time": "2026-08-22 01:34:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "ICE data: For the week ended Aug. 18, speculative net long positions in Brent crude rose by 11,149 contracts to 251,897 contracts."
+    },
+    {
+      "id": "mkt:01a02562-99fb-7aab-90d9-962e4e5a5beb",
+      "time": "2026-08-22 01:33:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for Canada-U.S. trade LeBlanc concluded talks with U.S. Trade Representative Greer and will return to negotiations shortly."
+    },
+    {
+      "id": "mkt:01a02562-8651-7aab-90d9-8bdebfc7c962",
+      "time": "2026-08-22 01:33:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Macron, Saudi crown prince to meet in Paris to discuss Strait of Hormuz and energy transport】French President Macron and Saudi Crown Prince Mohammed bin Salman will meet in Paris on Monday, where they are expected to sign bilateral agreements and discuss alternative transport routes after shipping disruptions in the Strait of Hormuz. Officials said talks will focus on diversifying energy and logistics routes, including maritime corridors, alternative pipelines and regional rail projects. Leaders will also witness signings across technology, transport, energy and healthcare during a France–Saudi strategic partnership council meeting. The crown prince is leading a large ministerial delegation on his first visit to France since 2023. Officials said the leaders will also address conflicts in Israel, Palestine, Lebanon and Syria."
+    },
+    {
+      "id": "5052656",
+      "time": "2026-08-22 01:32:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美將向聯合國繳納一小部分欠款】一份美國國務院致國會的通知顯示，特朗普政府已啟動向聯合國支付7.25億美元的程式，用於償還美國拖欠聯合國的部分會費，預計將在特朗普下月赴紐約出席聯合國大會並發表講話前完成支付。不過，這7.25億美元還不到美國欠款總額的20%。聯合國方面今年5月表示，美國拖欠的款項超過40億美元。但美國方面認為實際欠款總額低於這一數字。根據《聯合國憲章》，如果會員國拖欠的會費達到或超過前兩年應繳會費總額，可能失去在聯合國大會的投票權。美國是聯合國預算的最大出資國。特朗普政府此前拒絕支付部分聯合國常規預算和維和預算的強制性攤款，並削減對多個聯合國機構的自願性資金，同時退出多個國際機構。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5052655",
+      "time": "2026-08-22 01:31:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報94.75美元/桶。"
+    },
+    {
+      "id": "5052654",
+      "time": "2026-08-22 01:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "負責對美貿易事務的加拿大部長結束與美國貿易代表格里爾的會談，表示不久後將重返談判。"
+    },
     {
       "id": "te:markets:577350",
       "time": "2026-08-22 01:30:12",
