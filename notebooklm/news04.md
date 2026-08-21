@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:57:53_
-_本檔包含 3365 則快訊，約 656472 字_
+_更新時間：2026-08-22 07:33:37_
+_本檔包含 3366 則快訊，約 656168 字_
+
+---
+
+### 2026-08-19 00:35:09  #其他
+
+阿聯酋國防部：一枚導彈落入領海以外海域，另一枚則墜入領海範圍內。
+
+---
+
+### 2026-08-19 00:34:22  #焦點 #國際
+
+阿聯酋國防部稱，其探測到兩枚從伊朗發射的彈道導彈。
+
+---
+
+### 2026-08-19 00:33:36  #國際
+
+【美銀指英偉達遭低估且折價或深達50%】美國銀行認為，英偉達的股價被嚴重低估，從而造就了“一個極具吸引力的機會”，因投資者誇大了這家AI晶片龍頭企業面臨的風險。分析師Vivek Arya在研報中寫道：““我們基於自由現金流用途的概念性分部估值法顯示，即便考慮進融資風險，該股仍有34%至50%的折讓”。美銀指出，對這種折讓的“最有力反推”可能是將更大比例的自由現金流用於股票回購來提高投資者的現金回報。但也表示若人工智慧需求放緩，英偉達的增長率和資產負債表都可能面臨壓力。
+
+---
+
+### 2026-08-19 00:31:22  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Pull Back — European stocks closed firmly lower on Tuesday, tracking a negative session for global equities as longer-term bond yields extended their increase. The Euro STOXX 50 lost 0.9% to 6,473 and the STOXX Europe 600 fell 0.6% to 652. Sovereign yields in Europe's largest economies rose sharply in the session, tracking those in North America as soaring levels of debt issuance by AI giants took the market's forefront. This magnified stretched deficit spending both in the US and the Eurozone, adding to concerns of rate hikes by central banks. ASML sank 5% and Infineon lost more than 7%, erasing gains from the last sessions. Meanwhile, Schneider Electric and Siemens fell 4.5% and 2.3%, while Siemens Energy fell 5.5%, aligned with losses in AI infrastructure.
+
+---
+
+### 2026-08-19 00:28:04  #國際
+
+據Axios記者：以色列一名高階官員聲稱，對伊德利卜地區敘利亞空軍基地發動襲擊，目的是阻止土耳其軍隊在該地構築陣地。土耳其一名高階官員回應：該空軍基地並無土耳其人員駐守。以色列編造藉口轟炸鄰國，破壞地區穩定。
+
+---
+
+### 2026-08-19 00:27:23  #公司 #國際
+
+英國人工智慧企業 Quantera 執行長稱，公司正考慮赴英國或美國股市上市，也不排除兩地同時上市。
+
+---
+
+### 2026-08-19 00:25:15  #市場
+
+【兩年期德債收益率漲5個基點，中長期德債收益率創2011年以來新高】週二（8月18日）歐市尾盤，德國10年期國債收益率漲3.8個基點，連續三個交易日走高（期內累計上漲12.8個基點），報3.259%，全天處於上漲狀態，北京時間14:29“高開”至3.240%，日內大部分時間持穩於3.255%附近，21:30美股開盤時達到3.272%，逼近2011年5月5日頂部3.333%、當年4月11日頂部3.505%、2008年9月22日頂部4.283%、以及208年7月23日頂部4.699%。兩年期德債收益率漲5.0個基點，報2.853%，日內交投於2.817%-2.861%區間；30年期德債收益率漲2.4個基點，最近三天漲13.0個基點，報3.770%，18:53達到3.782%，逼近2011年三季度頂部3.773%、2010年一季度頂部4.147%。2/10年期德債收益率利差跌1.229個基點，報+40.419個基點。
+
+---
+
+### 2026-08-19 00:20:40  #市場 #國際
+
+【美國柴油利潤飆升至每桶100美元以上，創歷史新高】美國用原油生產柴油的利潤已飆升至每桶100美元以上，創下新的歷史最高紀錄。與此同時，全球煉油產能緊缺的局面仍在加劇燃料價格上漲。這一備受關注的指標——即柴油裂解價差——週二徘徊在每桶100美元附近，較此前超過102美元/桶的歷史高點小幅回落。該價差在週一首次收於三位數水平。在此之前，該指標從未突破每桶89美元，此前的歷史紀錄是在2022年10月創下的，當時全球正面臨進入俄烏衝突首個冬季前的燃料短缺問題。
+
+---
+
+### 2026-08-19 00:20:27  #國際
+
+市場訊息：阿布扎比與華盛頓領導人通電話，商討阿聯酋與美國多領域合作及強化合作的途徑；此前一週，霍爾木茲海峽已發生三起涉及阿聯酋船隻的事件。
+
+---
+
+### 2026-08-19 00:17:23  #MKT News
+
+Tasnim News Agency cites Houthi sources denying reports they launched a missile attack on the UAE.
+
+---
+
+### 2026-08-19 00:15:24  #國際
+
+伊朗塔斯尼姆通訊社：葉門胡塞武裝知情人士否認有關向阿聯酋發動導彈襲擊的報道。
+
+---
+
+### 2026-08-19 00:12:07  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 1.06% Lower — The FTSE MIB Index dropped 569 points or 1.06 percent on Tuesday to close at 53018 points. Losses were led by STMicroelectronics (-7.35%), Prysmian (-5.00%) and Buzzi Unicem (-3.35%).
+
+---
+
+### 2026-08-19 00:11:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.80% Lower — The DAX Index decreased 210 points or 0.80 percent on Tuesday to close at 26128 points. The decline was led by Infineon (-7.15%), Siemens Energy (-5.23%) and HeidelbergCement (-2.65%). On the upside, the strongest performers were SAP (2.24%), Bayer (1.75%) and Deutsche Telekom (1.66%).
 
 ---
 
@@ -20236,77 +20314,5 @@ According to Fox News, US President Trump said there are secret communication ch
 ### 2026-08-17 19:07:50  #公司
 
 【樂普醫療：子公司MWN117注射液獲臨床試驗批准，適應症為超重或肥胖】樂普醫療公告，公司控股子公司上海民為生物技術有限公司收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，由上海民為生物申報的MWN117注射液臨床試驗申請獲得批准，同意本品開展超重或肥胖適應症的臨床試驗。MWN117注射液是上海民為生物自主研發的靶向抑制INHBE的siRNA藥物，擁有全球智慧財產權。非臨床研究結果顯示，在自發肥胖恆河猴藥效學研究中，MWN117單用能顯著降低動物體脂率和內臟脂肪，同時增加肌肉量，單次注射藥效作用持續至12周。目前國內外尚無同類藥物獲批上市。
-
----
-
-### 2026-08-17 19:07:44  #公司
-
-【三維通訊：擬向南京郵電大學教育發展基金會捐贈172萬元】三維通訊公告稱，公司於2026年8月17日召開第八屆董事會第六次會議，審議透過對外捐贈議案，擬以自有資金向南京郵電大學教育發展基金會捐贈172萬元，用於支援該校科研及學科發展、獎學金及其他學校建設相關事項。截至公告披露日，公司及子公司過去12個月內已累計對外捐贈286.05萬元。本次捐贈不涉及關聯交易，不構成重大資產重組，對公司當期及未來經營業績不構成重大影響。
-
----
-
-### 2026-08-17 19:07:39  #公司
-
-【曉鳴股份：2026年半年度營收5.68億元 同比降24.46%】曉鳴股份公告稱，2026年半年度公司實現營業收入5.68億元，同比下降24.46%；歸母淨利潤184.77萬元，同比下降99.00%。截至2026年1月9日，公司累計回購股份189.51萬股，佔總股本1.0103%，支付總金額2199.32萬元，回購方案已實施完畢。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 19:07:35  #公司
-
-【日豐股份：擬對全資子公司日豐新材料增資1.50億元】日豐股份公告稱，公司擬以自有或自籌資金對全資子公司廣東日豐新材料有限公司增資1.50億元，增資完成後，日豐新材料註冊資本將由5000萬元增至2.00億元，公司仍持有其100%股權。本次增資事項已經公司第六屆董事會第四次會議審議透過，尚需提交公司股東會審議，後續還需提交日豐新材料所在地市場監督管理局核准登記。本次增資為年產300噸光纖預製棒、1000萬芯公里光纖專案提供用地、廠房及基礎設施配套條件，不構成關聯交易及重大資產重組。
-
----
-
-### 2026-08-17 19:07:23  #公司
-
-【遠大控股：2026年上半年淨利潤2.15億元，同比增640.14%】遠大控股公告，2026年上半年營業收入459.39億元，同比增長10.22%；歸屬於上市公司股東的淨利潤2.15億元，同比增長640.14%；扣非淨利潤虧損3741.32萬元，虧損額同比收窄70.14%。公司擬向全體股東每10股派發現金紅利2.2元（含稅）。
-
----
-
-### 2026-08-17 19:07:05  #公司
-
-【長纜科技：2026年上半年營收6.79億元 淨利同比降42.42%】長纜科技公告稱，2026年上半年公司實現營收6.79億元，同比增長0.87%；歸屬於上市公司股東的淨利潤1744.20萬元，同比下降42.42%。截至2026年5月7日，公司已透過集中競價交易減持回購股份386.20萬股，佔總股本2.00%，減持所得資金7707.05萬元。2026年4月公司出資3000萬元參股杭州雲酷智慧科技有限公司，交易完成後持股比例4.7847%。截至2026年8月11日，公司累計回購股份405.45萬股，佔總股本2.0996%，成交總金額7154.05萬元。公司董事長俞濤計劃6個月內增持公司股份，增持金額不低於3000萬元。
-
----
-
-### 2026-08-17 19:06:59  #公司
-
-【海信家電：2025年半年度營收46.77億元 同比降5.22%】海信家電公告稱，2025年半年度公司實現營業收入46.77億元，同比下降5.22%；歸屬於上市公司股東的淨利潤1.66億元，同比下降20.16%。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。截至報告期末，公司普通股股東總數為38009戶，控股股東未發生變更。
-
----
-
-### 2026-08-17 19:06:47  #公司
-
-【鋒龍股份：2026年半年度關聯資金往來總計2.02億元】鋒龍股份公告稱，2026年半年度非經營性資金佔用總計無發生額及餘額。其他關聯資金往來方面，往來方含多家子公司及持股5%以上股東關聯企業，2026年期初往來資金餘額1.62億元，2026年半年度往來累計發生金額（不含利息）1.10億元，往來資金利息96.40萬元，半年度償還累計發生金額7121.38萬元，2026年半年度期末往來資金餘額合計2.02億元。
-
----
-
-### 2026-08-17 19:06:41  #公司
-
-【*ST 威領：控股股東285萬股股份將被司法強制執行】*ST 威領公告，公司控股股東上海領億新材料有限公司所持公司285萬股股份（佔其所持公司股份比例為9.04%，佔公司總股本比例為1.09%）將被司法強制執行。本次股份變動不會導致公司實際控制權發生變化，最終處置方式和結果尚存在不確定性。
-
----
-
-### 2026-08-17 19:06:12  #Trading Economics #Economy #India #Unemployment Rate #Importance 1
-
-India Unemployment Rate Falls — The unemployment rate in India fell to 5.1% in July of 2026 from 5.5% in the previous month, the lowest in four months. The result reflected fresh robustness in the Indian labor market after the gradual increase in the unemployment rate since the start of the year, aligned with macroeconomic headwinds from soaring energy prices and pressure on the rupee. The unemployment rate fell sharply in rural areas (4.5% vs 5% in June), which offset the uptick in urban unemployment (6.7% vs 6.6%). The drop in unemployment coincided with a sharp increase in the labor force participation rate (55.4% vs 54.4%), pointing to lower unemployment from an increase in employment.
-
----
-
-### 2026-08-17 19:06:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-REUTERS SURVEY: Of 104 economists, 94 expect the Fed to keep the federal funds rate at 3.50%-3.75% in September (vs 95 in July). 80 economists expect the rate to remain 3.50%-3.75% in 2026 (vs 78 in July).
-
----
-
-### 2026-08-17 19:05:46  #市場
-
-【SPX Technologies美股盤前跌超12%】SPX Technologies美股盤前跌超12%，現報190.0美元。
-
----
-
-### 2026-08-17 19:05:37  #公司 #國際
-
-【劉強東創立的獨立遊艇品牌Sea Expandary收購OceanWalker】8月17日，，探海集團（Sea Expandary）近日完成對天行者遊艇（OceanWalker）80%股權的收購交割。此次收購將擴充遊艇製造產能、補齊細分艇型短板、完善智慧製造佈局。Sea Expandary系劉強東2026年2月創立的獨立遊艇品牌，主打新能源智慧化遊艇。OceanWalker核心產品線包括S60多版本旗艦豪華雙體遊艇、X62及X53高速單體飛橋遊艇系列，覆蓋近海度假、商務接待、遠洋航行全層級市場。此外，OceanWalker已建立覆蓋北美、歐洲、中東、東南亞的多層級獨家經銷商網路，並在美國、新加坡等地設立官方授權合作機構。
 
 ---

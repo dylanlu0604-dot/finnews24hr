@@ -1,7 +1,144 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:57:53_
-_本檔包含 3051 則快訊，約 656540 字_
+_更新時間：2026-08-22 07:33:37_
+_本檔包含 3051 則快訊，約 656368 字_
+
+---
+
+### 2026-08-22 07:32:58  #其他
+
+【四川馬邊縣遭遇極端強降雨引發山洪 縣城部分割槽域被淹】8月22日凌晨，四川樂山市馬邊彝族自治縣遭遇極端強降雨。馬邊縣氣象臺於1時33分發布暴雨橙色預警，2時44分升級為暴雨紅色預警，其中勞動鎮、民建鎮、建設鎮等區域3小時降雨量達100毫米以上，雪口山、煙峰、梅林等地3小時降雨量達50毫米以上。馬邊縣城區多條地勢較低街道進水，洪水帶來大量泥沙與堆積物，沿街部分車輛、商鋪和房屋被淹、受損。（央視新聞）
+
+---
+
+### 2026-08-22 07:32:40  #宏觀 #國際
+
+美國國務院表示：美國期待承辦兩國間經濟峰會，以深化與薩爾瓦多的夥伴關係。
+
+---
+
+### 2026-08-22 07:27:40  #國際
+
+加拿大負責美國貿易事務的部長多米尼克·勒布朗表示：我們還有更多工作要做。
+
+---
+
+### 2026-08-22 07:19:47  #國際
+
+特朗普：霍爾木茲海峽是美國領土。
+
+---
+
+### 2026-08-22 07:19:31  #國際
+
+特朗普重申：伊朗不能擁有核武器。
+
+---
+
+### 2026-08-22 07:18:52  #市場 #國際
+
+特朗普談伊朗：我們完事之後，油價就會下跌。
+
+---
+
+### 2026-08-22 07:16:06  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、中國經濟的韌性與活力
+2、諶貽琴在北京市調研時強調 加快建設足球青訓體系 提升競技體育後備人才培養水平
+3、財政支出預算安排首超三十萬億元，新增政府債券規模歷年最大 真金白銀投得更實 政策舉措落得更準（權威釋出·開局起步“十五五”）
+4、全國一般公共預算收入前7月平穩較快增長 衛生健康支出增長9.8%
+5、《對外投資管理辦法（修訂徵求意見稿）》釋出
+6、中國企業助力拉美國家發展網際網路新業態
+7、中國印尼全面戰略對話機制舉行首次會議
+8、兩部門細化人民幣買賣活動監管要求
+9、中國就深化亞太糧食安全合作提出倡議
+10、聯合國人工智慧與人類發展全球對話在西安舉辦
+11、前7月高技術產業實際使用外資佔全國超四成 較去年同期提升12.2個百分點
+12、《促進網信企業高質量發展行動計劃（2026—2030年）》印發
+13、三部門聯合推動已故人士金融賬戶查詢服務
+14、兩部門細化人民幣買賣活動監管要求
+15、甘肅省內縣辦中醫醫療機構覆蓋率達98.8%
+
+---
+
+### 2026-08-22 07:15:54  #國際
+
+特朗普：今天我要感謝最高法院對白宮宴會廳事件的裁決。
+
+---
+
+### 2026-08-22 07:15:42  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、陸海內外聯動 東西雙向互濟 貴州主動融入全面開放格局
+培育新動能 佈局新賽道
+2、吉林構建體現本地特色現代化產業體系
+3、有效擴大國內需求
+4、李強主持召開國務院常務會議 聽取新一代通訊網建設情況彙報，部署進一步清理拖欠企業賬款工作，研究持續改善空氣質量有關工作，審議透過《電力安全事故應急處置和調查處理條例（修訂草案）》和《市場監督管理所條例（草案）》
+5、趙樂際會見約旦國王阿卜杜拉二世
+6、我國早稻產量連續6年穩定在560億斤以上
+7、暑運迎來返程高峰
+8、廣州強化科技創新和產業創新深度融合
+9、7月全社會用電量創歷史新高 高技術及裝備製造業用電量同比增長8.9%
+
+---
+
+### 2026-08-22 07:08:16  #國際
+
+【美媒：美計劃償還聯合國8.5億美元欠款】據美國媒體21日報道，美國政府已通知國會計劃向聯合國支付8.5億美元，以償還其拖欠的部分聯合國會費及其他款項。據美聯社獲得的本月提交給國會議員的通知顯示，美國務院計劃撥付7.25億美元用於支付聯合國會費，1.25億美元用於支援聯合國在海地和剛果（金）的維和行動。報道說，美國拖欠聯合國相關攤款資金總額約50億美元，其中包括超20億美元會費和約30億美元的維和行動經費。（新華社）
+
+---
+
+### 2026-08-22 07:07:00  #公司 #市場 #國際
+
+【8月22日隔夜要聞一覽】
+1、美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。
+2、美國最高法院首席大法官約翰·羅伯茨簽署一句話行政擱置令，暫時允許白宮宴會廳改造專案繼續進行。
+3、阿曼外交大臣巴德爾與伊朗外交部長阿拉格齊通電話，雙方強調，將繼續就相關問題進行磋商，推動達成具體共識，以恢復霍爾木茲海峽自由、順暢通航，並維護地區安全與穩定。
+4、據日本方面21日訊息，日本政府部門和機構2027財年（2027年4月至2028年3月）預算申請總額預計將超過130萬億日元（1美元約合159日元），相比本財年的122萬億日元顯著增加。
+5、伊朗海軍司令沙赫拉姆·伊拉尼稱，伊朗武裝力量在最高領袖領導下保持高度戒備，“不久後將在海上給敵人一個重大的、歷史性的、難忘的教訓”。
+6、現貨黃金升至5月中旬以來最高水平，本週累計上漲逾5%。截至收盤，現貨黃金價格漲1.89%，報4604.53美元/盎司；現貨白銀價格漲1.32%，報68.97美元/盎司。
+7、加密貨幣持續走高，比特幣週五最高報約78500美元，本週迄今上漲超23%，創2023年3月以來最大單週漲幅。
+8、美國總統唐納德·特朗普表示，他將對部分牛絞肉進口給予關稅寬減，以降低美國消費者的購買價。
+9、Anthropic PBC已聘請谷歌定製晶片專案創始人Amir Salek，Salek曾負責谷歌的張量處理單元（TPU）業務直至2022年，並參與推出了前七代TPU晶片。
+10、知情人士稱，英偉達已同意支付60億美元，以獲得Poolside人工智慧（AI）模型的使用許可，並將向100多名員工發出聘用邀請。
+
+---
+
+### 2026-08-22 07:03:55  #宏觀 #市場 #央行 #國際
+
+【機構：美國財政部正接近融資的"有效前沿"】SMBC美洲策略師表示，只要對國庫券的需求保持強勁——且”仍在增長”，美國財政部就能成功調整其發行期限結構以壓低收益率曲線，不過該部門可能已接近”有效前沿”。由Joseph Abate領銜的策略師團隊指出，美聯儲加息、逆回購工具使用規模縮減以及貨幣市場基金餘額增長，使財政部得以將國庫券供給提升至國債總額的22%，而並未出現”顯著折價”，國庫券與隔夜指數掉期（OIS）的利差保持穩定便是明證。
+
+---
+
+### 2026-08-22 07:01:53  #其他 #焦點
+
+美軍中央司令部： 截至 8 月 21 日，美軍已對 68 艘商業船舶實施改道，使 3 艘船舶喪失行動能力，並登檢 3 艘船舶，以確保（相關規定）得到遵守。
+
+---
+
+### 2026-08-22 07:01:11  #國際
+
+美國中央司令部：美國已調轉68艘參與封鎖的商船航線。
+
+---
+
+### 2026-08-22 07:00:48  #國際
+
+【特朗普稱伊朗未準備好達成合適協議】美國東部時間8月21日下午，美國總統特朗普在馬里蘭州安德魯斯聯合基地準備搭乘“空軍一號”專機時對媒體表示，伊朗還沒準備好達成一份“合適的協議”。特朗普是在被問及“對伊朗發動經濟戰是否意味著美國在該地區的軍事選項已經受限”的提問時作出上述表態的。他表示，這不意味著美國的軍事選項已經受限，美國“只是在觀察事態發展”。他再次強調美國對霍爾木茲海峽相關區域“擁有絕對控制權”，並稱其管控範圍還進一步“延伸至陸上區域”。 特朗普稱，“伊朗很想達成協議，但在我看來，他們還沒準備好達成一項合適的協議。”（CCTV國際時訊）
+
+---
+
+### 2026-08-22 06:59:50  #市場 #焦點
+
+布倫特原油暗盤突破92美元，日內漲超1%。
+
+---
+
+### 2026-08-22 06:57:35  #國際
+
+市場訊息：特朗普總統已經到達為林賽·格雷厄姆參議員舉行的集會現場，他預計將很快登臺講話。
 
 ---
 
@@ -18313,107 +18450,5 @@ Panama Canal will suspend offering conditional reservation windows for new Panam
 ### 2026-08-21 04:20:42  #其他
 
 巴拿馬運河：因第二訂艙期內可用過境艙位縮減，新巴拿馬型船舶類別的附條件艙位將不再開放。
-
----
-
-### 2026-08-21 04:20:21  #MKT News
-
-Panama Canal adjusts daily Panamax-lock transit allocation to 25 vessels per day.
-
----
-
-### 2026-08-21 04:20:13  #國際
-
-【七國敦促以色列撤回“E1區”定居點建設計劃】英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。七國在宣告中表示，以色列政府公佈“E1區”定居點建設專案招標決定“不可接受”，該專案將割裂約旦河西岸，損害巴勒斯坦領土的連續性，破壞“兩國方案”前景。（新華社）
-
----
-
-### 2026-08-21 04:19:57  #MKT News
-
-Panama Canal: daily transit slots for Neo-Panamax locks adjusted to nine per day.
-
----
-
-### 2026-08-21 04:16:44  #其他
-
-雅培同意以6.7億美元和解部分嬰兒配方奶粉索賠案。
-
----
-
-### 2026-08-21 04:16:07  #其他
-
-【奈及利亞警方：索科託沉船事故已致46人死亡】當地時間8月20日傍晚，奈及利亞西北部索科託州警察局發言人艾哈邁德·魯法伊證實，當天在該州戈羅尼奧地方政府區戈勞鎮發生的沉船事故中，救援人員已找到46具乘客遺體，另有15名乘客獲救，目前仍有16人失蹤。（央視新聞）
-
----
-
-### 2026-08-21 04:12:44  #MKT News #AVGO.O
-
-Broadcom (AVGO.O) is discussing providing guarantees for some senior secured notes.
-
----
-
-### 2026-08-21 04:12:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Fall as Inflation Concerns Mount — US stock indices closed lower on Thursday amid concerns that the Treasury’s plan to curb borrowing costs may provide only a short-term fix, while higher energy prices stoked inflation worries. The S&P 500 lost 0.9%, the Nasdaq fell 0.7% and the Dow shed 704 points. Treasury yields rose across the curve as investors worried that the Treasury’s efforts to support notes and bonds could worsen the inflationary backdrop amid ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump said the US had entered an “economic war” with Iran, prolonging blockades of tankers crossing the Persian Gulf. Financials were mostly lower, with JPMorgan down 1.6% and Morgan Stanley losing 3.2%. AI hyperscalers also mostly declined following tepid financial results from OpenAI, which failed to grow at the same pace as rival Anthropic. Walmart sank 9.1%, its sharpest single-session decline in four years, after second-quarter sales fell short of expectations.
-
----
-
-### 2026-08-21 04:12:05  #MKT News #BX.N #APO.O
-
-Market sources say Blackstone (BX.N) and Apollo are in talks to participate in semiconductor financing.
-
----
-
-### 2026-08-21 04:11:11  #MKT News #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) rose more than 1% in after-hours trading.
-
----
-
-### 2026-08-21 04:10:39  #MKT News #Important #AVGO.O #Impact mixed
-
-Broadcom (AVGO.O) is seeking to raise more than $60 bln in its latest AI-focused debt transaction, market sources said.
-
----
-
-### 2026-08-21 04:09:50  #其他
-
-黑石和阿波羅據悉正就參與晶片融資進行談判。
-
----
-
-### 2026-08-21 04:08:42  #公司 #其他 #國際
-
-博通擬透過最新 AI 相關債務融資，籌措逾 600 億美元資金。
-
----
-
-### 2026-08-21 04:08:37  #MKT News #005380.KS #Impact bullish
-
-CNBC: Hyundai Motor CEO said the company will raise U.S. production capacity at its new Georgia factory.
-
----
-
-### 2026-08-21 04:07:01  #公司
-
-現代汽車執行長表示，公司計劃到 2028 年，將佐治亞州超級工廠規劃產能從 50 萬輛提升至 70‑80 萬輛。
-
----
-
-### 2026-08-21 04:06:46  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Ross Stores earnings above expectations at 2.66 USD — Ross Stores (ROST) released earnings per share at 2.66 USD, compared to market expectations of 1.94 USD.
-
----
-
-### 2026-08-21 04:05:10  #MKT News #Important #Star Stocks #Alibaba #S&P500 #Impact bearish #MRNA.O #MRVL.O #Impact bullish
-
-【US close: major indexes down; Moderna down 23.5%】US stocks closed lower Thursday: Dow Jones Industrial Average down about 1.3%, S&P 500 down 0.86%, Nasdaq down 1.0%. Moderna (MRNA.O) fell 23.5%; Walmart (WMT.N) fell about 9%. Marvell Technology Group (MRVL.O) rose 5.8%; Micron (MU.O) rose ~4%; SanDisk (SNDK.O) rose ~2%. The Nasdaq Golden Dragon China Index fell more than 1%; Alibaba (BABA.N) rose 1.3%.
-
----
-
-### 2026-08-21 04:05:08  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
-
-U.S. equities closed lower on Thursday Aug 20: the Dow Jones Industrial Average fell 700.75 points (-1.31%) to 52,762.30; the S&P 500 dropped 66.42 points (-0.86%) to 7,641.56; the Nasdaq Composite lost 263.92 points (-1.00%) to 26,067.17.
 
 ---

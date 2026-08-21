@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:57:53_
-_本檔包含 3428 則快訊，約 656585 字_
+_更新時間：2026-08-22 07:33:37_
+_本檔包含 3430 則快訊，約 656364 字_
+
+---
+
+### 2026-08-21 04:20:21  #MKT News
+
+Panama Canal adjusts daily Panamax-lock transit allocation to 25 vessels per day.
+
+---
+
+### 2026-08-21 04:20:13  #國際
+
+【七國敦促以色列撤回“E1區”定居點建設計劃】英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。七國在宣告中表示，以色列政府公佈“E1區”定居點建設專案招標決定“不可接受”，該專案將割裂約旦河西岸，損害巴勒斯坦領土的連續性，破壞“兩國方案”前景。（新華社）
+
+---
+
+### 2026-08-21 04:19:57  #MKT News
+
+Panama Canal: daily transit slots for Neo-Panamax locks adjusted to nine per day.
+
+---
+
+### 2026-08-21 04:16:44  #其他
+
+雅培同意以6.7億美元和解部分嬰兒配方奶粉索賠案。
+
+---
+
+### 2026-08-21 04:16:07  #其他
+
+【奈及利亞警方：索科託沉船事故已致46人死亡】當地時間8月20日傍晚，奈及利亞西北部索科託州警察局發言人艾哈邁德·魯法伊證實，當天在該州戈羅尼奧地方政府區戈勞鎮發生的沉船事故中，救援人員已找到46具乘客遺體，另有15名乘客獲救，目前仍有16人失蹤。（央視新聞）
+
+---
+
+### 2026-08-21 04:12:44  #MKT News #AVGO.O
+
+Broadcom (AVGO.O) is discussing providing guarantees for some senior secured notes.
+
+---
+
+### 2026-08-21 04:12:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall as Inflation Concerns Mount — US stock indices closed lower on Thursday amid concerns that the Treasury’s plan to curb borrowing costs may provide only a short-term fix, while higher energy prices stoked inflation worries. The S&P 500 lost 0.9%, the Nasdaq fell 0.7% and the Dow shed 704 points. Treasury yields rose across the curve as investors worried that the Treasury’s efforts to support notes and bonds could worsen the inflationary backdrop amid ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump said the US had entered an “economic war” with Iran, prolonging blockades of tankers crossing the Persian Gulf. Financials were mostly lower, with JPMorgan down 1.6% and Morgan Stanley losing 3.2%. AI hyperscalers also mostly declined following tepid financial results from OpenAI, which failed to grow at the same pace as rival Anthropic. Walmart sank 9.1%, its sharpest single-session decline in four years, after second-quarter sales fell short of expectations.
+
+---
+
+### 2026-08-21 04:12:05  #MKT News #BX.N #APO.O
+
+Market sources say Blackstone (BX.N) and Apollo are in talks to participate in semiconductor financing.
+
+---
+
+### 2026-08-21 04:11:11  #MKT News #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) rose more than 1% in after-hours trading.
+
+---
+
+### 2026-08-21 04:10:39  #MKT News #Important #AVGO.O #Impact mixed
+
+Broadcom (AVGO.O) is seeking to raise more than $60 bln in its latest AI-focused debt transaction, market sources said.
+
+---
+
+### 2026-08-21 04:09:50  #其他
+
+黑石和阿波羅據悉正就參與晶片融資進行談判。
+
+---
+
+### 2026-08-21 04:08:42  #公司 #其他 #國際
+
+博通擬透過最新 AI 相關債務融資，籌措逾 600 億美元資金。
+
+---
+
+### 2026-08-21 04:08:37  #MKT News #005380.KS #Impact bullish
+
+CNBC: Hyundai Motor CEO said the company will raise U.S. production capacity at its new Georgia factory.
+
+---
+
+### 2026-08-21 04:07:01  #公司
+
+現代汽車執行長表示，公司計劃到 2028 年，將佐治亞州超級工廠規劃產能從 50 萬輛提升至 70‑80 萬輛。
+
+---
+
+### 2026-08-21 04:06:46  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Ross Stores earnings above expectations at 2.66 USD — Ross Stores (ROST) released earnings per share at 2.66 USD, compared to market expectations of 1.94 USD.
+
+---
+
+### 2026-08-21 04:05:10  #MKT News #Important #Star Stocks #Alibaba #S&P500 #Impact bearish #MRNA.O #MRVL.O #Impact bullish
+
+【US close: major indexes down; Moderna down 23.5%】US stocks closed lower Thursday: Dow Jones Industrial Average down about 1.3%, S&P 500 down 0.86%, Nasdaq down 1.0%. Moderna (MRNA.O) fell 23.5%; Walmart (WMT.N) fell about 9%. Marvell Technology Group (MRVL.O) rose 5.8%; Micron (MU.O) rose ~4%; SanDisk (SNDK.O) rose ~2%. The Nasdaq Golden Dragon China Index fell more than 1%; Alibaba (BABA.N) rose 1.3%.
+
+---
+
+### 2026-08-21 04:05:08  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
+
+U.S. equities closed lower on Thursday Aug 20: the Dow Jones Industrial Average fell 700.75 points (-1.31%) to 52,762.30; the S&P 500 dropped 66.42 points (-0.86%) to 7,641.56; the Nasdaq Composite lost 263.92 points (-1.00%) to 26,067.17.
 
 ---
 
@@ -20607,95 +20709,5 @@ Israel's Channel 12 reports Israel will begin establishing a production line for
 ### 2026-08-20 03:05:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
 
 Alpha Compute said July cash revenue from its gaming business and the Alpha-01 NVIDIA GPU cluster reached $1.57 million, roughly 35 times its total revenue in April 2026.
-
----
-
-### 2026-08-20 03:04:24  #國際
-
-以色列 N12 新聞：以色列即將開始生產戰鬥機所用智慧炸彈。 此舉意在在與伊朗關係緊張的背景下，實現武器自主。
-
----
-
-### 2026-08-20 03:03:20  #MKT News
-
-Israel Defense Forces says it will conduct a military exercise near Nahariya tomorrow as part of its 2026 training plan; the activity is not related to a security incident.
-
----
-
-### 2026-08-20 03:01:36  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.94% at 25,699, trading 204 points above the cash index.
-
----
-
-### 2026-08-20 03:00:34  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish #EURUSD
-
-Iran's central bank governor said Iran has proposed establishing a financial corridor among BRICS countries to reduce reliance on other currencies.
-
----
-
-### 2026-08-20 03:00:03  #市場
-
-恒指期貨夜盤收漲0.97%，報25704.94點，高水209.87點。
-
----
-
-### 2026-08-20 02:59:46  #央行 #國際
-
-伊朗央行行長：我們已提議在金磚框架下設立金融走廊，我們必須降低對其他貨幣的依賴。
-
----
-
-### 2026-08-20 02:58:50  #MKT News
-
-According to correspondence, the US will provide $206 million to fund a Gaza peacekeeping force.
-
----
-
-### 2026-08-20 02:58:23  #MKT News #Market Themes #Chip Wars
-
-【AI chip startup Fractile seeks $6.5bn valuation after ANTHROPIC order】Fractile is seeking about $600m in a new funding round at a $6.5bn pre-money valuation, people familiar with the matter said — more than six times its roughly $1bn valuation after a May round. The startup has reached a preliminary agreement to sell about $250m of AI inference chips to ANTHROPIC, with both sides planning to expand the partnership; the chips are expected to enter service in 2027. Fractile, founded in 2022, designs low-latency AI inference chips aimed at challenging NVIDIA’s dominance in AI hardware.
-
----
-
-### 2026-08-20 02:58:22  #國際
-
-檔案顯示：美國將向加沙維和部隊提供2.06億美元資金。
-
----
-
-### 2026-08-20 02:56:42  #宏觀 #公司 #市場 #國際
-
-【美國財政部回購長期國債可能上不封頂 國庫券發行規模面臨更多變數】美國財政部擴大長期國債回購的決定使包括國庫券在內的短期證券發行前景變得更加複雜，因為市場預計財政部將透過發行短期國債為這項計劃融資。財政部計劃將“流動性支援型回購操作規模至少提高一倍”。而就在兩週前，該部還在季度再融資公告中表示，回購規模將維持不變，並預計隨著9月企業稅款流入，國庫券供應將出現季節性下降。週三的調整打亂了此前指引。由於擴大回購需要更多融資，而且回購規模沒有上限，財政部需要增加證券發行。
-
----
-
-### 2026-08-20 02:55:00  #MKT News
-
-【Iran central bank governor says no frozen funds unfrozen so far】Iran's central bank governor said on Aug 19 local time that no frozen funds have been unfrozen so far, CCTV reported.
-
----
-
-### 2026-08-20 02:54:57  #宏觀 #國際
-
-【厄瓜多情報機構負責人在肯亞直升機事故中死亡】當地時間8月19日，一架直升機在肯亞北部桑布魯郡奧洛洛克韋山墜毀，包括6名遊客和1名飛行員在內的機上7人全部遇難。厄瓜多交通部長稍後向外界證實，厄瓜多情報機構最高負責人米凱萊·森西-孔圖吉夫婦在此次事故中死亡。此外，美國國務院發表宣告稱，墜機事故死亡人員中有4人是美國公民。（央視新聞）
-
----
-
-### 2026-08-20 02:52:19  #央行 #國際
-
-【伊朗央行行長：目前尚未有任何被凍結的資金解凍】總檯記者當地時間8月19日獲悉，伊朗央行行長表示，目前尚未有任何被凍結的資金解凍。（央視新聞）
-
----
-
-### 2026-08-20 02:51:30  #MKT News
-
-Iran's central bank governor said Iran-Iraq banking issues will be resolved within weeks. Iraq has agreed to issue letters of guarantee for Iranian contractors, using Iranian assets held in Iraqi banks as collateral, to speed bilateral economic cooperation.
-
----
-
-### 2026-08-20 02:50:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-【Fed minutes: inf projections similar to June; economic outlook slightly weaker】Fed minutes said staff expect H2 overall inf to ease—largely driven by expected declines in retail gasoline—and for core inf to slow modestly. Staff project real GDP growth next year slightly above potential, with financial conditions and AI-related investment providing support; unemployment is forecast to remain near staff’s estimate of the long-run rate this year, edge down next year and fall slightly below the long-run rate by 2028. Compared with June projections, staff’s outlook for economic activity is a touch weaker, reflecting recent softer-than-expected data. Staff flagged sizable uncertainty from geopolitics and unclear economic effects of AI investment and adoption. Overall, risks to employment and real GDP are tilted to the downside while inf risks are tilted to the upside, including the risk that inf proves more persistent than staff anticipate.
 
 ---

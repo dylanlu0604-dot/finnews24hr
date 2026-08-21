@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:57:53_
-_本檔包含 3334 則快訊，約 656031 字_
+_更新時間：2026-08-22 07:33:37_
+_本檔包含 3336 則快訊，約 656537 字_
+
+---
+
+### 2026-08-20 03:04:24  #國際
+
+以色列 N12 新聞：以色列即將開始生產戰鬥機所用智慧炸彈。 此舉意在在與伊朗關係緊張的背景下，實現武器自主。
+
+---
+
+### 2026-08-20 03:03:20  #MKT News
+
+Israel Defense Forces says it will conduct a military exercise near Nahariya tomorrow as part of its 2026 training plan; the activity is not related to a security incident.
+
+---
+
+### 2026-08-20 03:01:36  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.94% at 25,699, trading 204 points above the cash index.
+
+---
+
+### 2026-08-20 03:00:34  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish #EURUSD
+
+Iran's central bank governor said Iran has proposed establishing a financial corridor among BRICS countries to reduce reliance on other currencies.
+
+---
+
+### 2026-08-20 03:00:03  #市場
+
+恒指期貨夜盤收漲0.97%，報25704.94點，高水209.87點。
+
+---
+
+### 2026-08-20 02:59:46  #央行 #國際
+
+伊朗央行行長：我們已提議在金磚框架下設立金融走廊，我們必須降低對其他貨幣的依賴。
+
+---
+
+### 2026-08-20 02:58:50  #MKT News
+
+According to correspondence, the US will provide $206 million to fund a Gaza peacekeeping force.
+
+---
+
+### 2026-08-20 02:58:23  #MKT News #Market Themes #Chip Wars
+
+【AI chip startup Fractile seeks $6.5bn valuation after ANTHROPIC order】Fractile is seeking about $600m in a new funding round at a $6.5bn pre-money valuation, people familiar with the matter said — more than six times its roughly $1bn valuation after a May round. The startup has reached a preliminary agreement to sell about $250m of AI inference chips to ANTHROPIC, with both sides planning to expand the partnership; the chips are expected to enter service in 2027. Fractile, founded in 2022, designs low-latency AI inference chips aimed at challenging NVIDIA’s dominance in AI hardware.
+
+---
+
+### 2026-08-20 02:58:22  #國際
+
+檔案顯示：美國將向加沙維和部隊提供2.06億美元資金。
+
+---
+
+### 2026-08-20 02:56:42  #宏觀 #公司 #市場 #國際
+
+【美國財政部回購長期國債可能上不封頂 國庫券發行規模面臨更多變數】美國財政部擴大長期國債回購的決定使包括國庫券在內的短期證券發行前景變得更加複雜，因為市場預計財政部將透過發行短期國債為這項計劃融資。財政部計劃將“流動性支援型回購操作規模至少提高一倍”。而就在兩週前，該部還在季度再融資公告中表示，回購規模將維持不變，並預計隨著9月企業稅款流入，國庫券供應將出現季節性下降。週三的調整打亂了此前指引。由於擴大回購需要更多融資，而且回購規模沒有上限，財政部需要增加證券發行。
+
+---
+
+### 2026-08-20 02:55:00  #MKT News
+
+【Iran central bank governor says no frozen funds unfrozen so far】Iran's central bank governor said on Aug 19 local time that no frozen funds have been unfrozen so far, CCTV reported.
+
+---
+
+### 2026-08-20 02:54:57  #宏觀 #國際
+
+【厄瓜多情報機構負責人在肯亞直升機事故中死亡】當地時間8月19日，一架直升機在肯亞北部桑布魯郡奧洛洛克韋山墜毀，包括6名遊客和1名飛行員在內的機上7人全部遇難。厄瓜多交通部長稍後向外界證實，厄瓜多情報機構最高負責人米凱萊·森西-孔圖吉夫婦在此次事故中死亡。此外，美國國務院發表宣告稱，墜機事故死亡人員中有4人是美國公民。（央視新聞）
+
+---
+
+### 2026-08-20 02:52:19  #央行 #國際
+
+【伊朗央行行長：目前尚未有任何被凍結的資金解凍】總檯記者當地時間8月19日獲悉，伊朗央行行長表示，目前尚未有任何被凍結的資金解凍。（央視新聞）
+
+---
+
+### 2026-08-20 02:51:30  #MKT News
+
+Iran's central bank governor said Iran-Iraq banking issues will be resolved within weeks. Iraq has agreed to issue letters of guarantee for Iranian contractors, using Iranian assets held in Iraqi banks as collateral, to speed bilateral economic cooperation.
+
+---
+
+### 2026-08-20 02:50:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+【Fed minutes: inf projections similar to June; economic outlook slightly weaker】Fed minutes said staff expect H2 overall inf to ease—largely driven by expected declines in retail gasoline—and for core inf to slow modestly. Staff project real GDP growth next year slightly above potential, with financial conditions and AI-related investment providing support; unemployment is forecast to remain near staff’s estimate of the long-run rate this year, edge down next year and fall slightly below the long-run rate by 2028. Compared with June projections, staff’s outlook for economic activity is a touch weaker, reflecting recent softer-than-expected data. Staff flagged sizable uncertainty from geopolitics and unclear economic effects of AI investment and adoption. Overall, risks to employment and real GDP are tilted to the downside while inf risks are tilted to the upside, including the risk that inf proves more persistent than staff anticipate.
 
 ---
 
@@ -20013,83 +20103,5 @@ Anthropic 上市前信貸安排規模預計將突破 100 億美元目標。
 ### 2026-08-19 00:35:51  #公司 #市場 #國際
 
 【歐洲股市錄得去年年末以來最長連跌 成交量接近年內最低水平】隨著美國與伊朗之間緊張局勢升溫，油價和債券收益率上漲，歐洲股市錄得今年以來的最長連跌。歐洲斯托克600指數週二收跌0.7%，連續第五個交易日走低。上一次出現這樣的連跌是在2025年11月。科技股表現最差，其中Soitec和Austria Technologie & Systemtechnik AG等硬體股領跌。能源股則上漲，布倫特原油升破每桶90美元，此前美國總統特朗普表示，目前沒有與伊朗進行談判。此輪下跌之前，強勁的財報季曾推動該指數創下紀錄高位。隨著企業財報釋出節奏放緩，投資者正在評估油價上漲帶來的通脹影響，以及人工智慧支出增加的影響。歐洲股市成交量目前接近年內最低水平，夏季流動性清淡可能進一步放大市場波動。
-
----
-
-### 2026-08-19 00:35:09  #其他
-
-阿聯酋國防部：一枚導彈落入領海以外海域，另一枚則墜入領海範圍內。
-
----
-
-### 2026-08-19 00:34:22  #焦點 #國際
-
-阿聯酋國防部稱，其探測到兩枚從伊朗發射的彈道導彈。
-
----
-
-### 2026-08-19 00:33:36  #國際
-
-【美銀指英偉達遭低估且折價或深達50%】美國銀行認為，英偉達的股價被嚴重低估，從而造就了“一個極具吸引力的機會”，因投資者誇大了這家AI晶片龍頭企業面臨的風險。分析師Vivek Arya在研報中寫道：““我們基於自由現金流用途的概念性分部估值法顯示，即便考慮進融資風險，該股仍有34%至50%的折讓”。美銀指出，對這種折讓的“最有力反推”可能是將更大比例的自由現金流用於股票回購來提高投資者的現金回報。但也表示若人工智慧需求放緩，英偉達的增長率和資產負債表都可能面臨壓力。
-
----
-
-### 2026-08-19 00:31:22  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Pull Back — European stocks closed firmly lower on Tuesday, tracking a negative session for global equities as longer-term bond yields extended their increase. The Euro STOXX 50 lost 0.9% to 6,473 and the STOXX Europe 600 fell 0.6% to 652. Sovereign yields in Europe's largest economies rose sharply in the session, tracking those in North America as soaring levels of debt issuance by AI giants took the market's forefront. This magnified stretched deficit spending both in the US and the Eurozone, adding to concerns of rate hikes by central banks. ASML sank 5% and Infineon lost more than 7%, erasing gains from the last sessions. Meanwhile, Schneider Electric and Siemens fell 4.5% and 2.3%, while Siemens Energy fell 5.5%, aligned with losses in AI infrastructure.
-
----
-
-### 2026-08-19 00:28:04  #國際
-
-據Axios記者：以色列一名高階官員聲稱，對伊德利卜地區敘利亞空軍基地發動襲擊，目的是阻止土耳其軍隊在該地構築陣地。土耳其一名高階官員回應：該空軍基地並無土耳其人員駐守。以色列編造藉口轟炸鄰國，破壞地區穩定。
-
----
-
-### 2026-08-19 00:27:23  #公司 #國際
-
-英國人工智慧企業 Quantera 執行長稱，公司正考慮赴英國或美國股市上市，也不排除兩地同時上市。
-
----
-
-### 2026-08-19 00:25:15  #市場
-
-【兩年期德債收益率漲5個基點，中長期德債收益率創2011年以來新高】週二（8月18日）歐市尾盤，德國10年期國債收益率漲3.8個基點，連續三個交易日走高（期內累計上漲12.8個基點），報3.259%，全天處於上漲狀態，北京時間14:29“高開”至3.240%，日內大部分時間持穩於3.255%附近，21:30美股開盤時達到3.272%，逼近2011年5月5日頂部3.333%、當年4月11日頂部3.505%、2008年9月22日頂部4.283%、以及208年7月23日頂部4.699%。兩年期德債收益率漲5.0個基點，報2.853%，日內交投於2.817%-2.861%區間；30年期德債收益率漲2.4個基點，最近三天漲13.0個基點，報3.770%，18:53達到3.782%，逼近2011年三季度頂部3.773%、2010年一季度頂部4.147%。2/10年期德債收益率利差跌1.229個基點，報+40.419個基點。
-
----
-
-### 2026-08-19 00:20:40  #市場 #國際
-
-【美國柴油利潤飆升至每桶100美元以上，創歷史新高】美國用原油生產柴油的利潤已飆升至每桶100美元以上，創下新的歷史最高紀錄。與此同時，全球煉油產能緊缺的局面仍在加劇燃料價格上漲。這一備受關注的指標——即柴油裂解價差——週二徘徊在每桶100美元附近，較此前超過102美元/桶的歷史高點小幅回落。該價差在週一首次收於三位數水平。在此之前，該指標從未突破每桶89美元，此前的歷史紀錄是在2022年10月創下的，當時全球正面臨進入俄烏衝突首個冬季前的燃料短缺問題。
-
----
-
-### 2026-08-19 00:20:27  #國際
-
-市場訊息：阿布扎比與華盛頓領導人通電話，商討阿聯酋與美國多領域合作及強化合作的途徑；此前一週，霍爾木茲海峽已發生三起涉及阿聯酋船隻的事件。
-
----
-
-### 2026-08-19 00:17:23  #MKT News
-
-Tasnim News Agency cites Houthi sources denying reports they launched a missile attack on the UAE.
-
----
-
-### 2026-08-19 00:15:24  #國際
-
-伊朗塔斯尼姆通訊社：葉門胡塞武裝知情人士否認有關向阿聯酋發動導彈襲擊的報道。
-
----
-
-### 2026-08-19 00:12:07  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 1.06% Lower — The FTSE MIB Index dropped 569 points or 1.06 percent on Tuesday to close at 53018 points. Losses were led by STMicroelectronics (-7.35%), Prysmian (-5.00%) and Buzzi Unicem (-3.35%).
-
----
-
-### 2026-08-19 00:11:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.80% Lower — The DAX Index decreased 210 points or 0.80 percent on Tuesday to close at 26128 points. The decline was led by Infineon (-7.15%), Siemens Energy (-5.23%) and HeidelbergCement (-2.65%). On the upside, the strongest performers were SAP (2.24%), Bayer (1.75%) and Deutsche Telekom (1.66%).
 
 ---
