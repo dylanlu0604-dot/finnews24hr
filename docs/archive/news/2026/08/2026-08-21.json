@@ -1,7 +1,273 @@
 {
   "date": "2026-08-21",
-  "count": 2742,
+  "count": 2773,
   "items": [
+    {
+      "id": "5052461",
+      "time": "2026-08-21 21:21:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "MODINE股價盤前上漲5.4%。"
+    },
+    {
+      "id": "5052460",
+      "time": "2026-08-21 21:21:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書：特朗普總統宣佈開啟 “經濟諾曼底登陸”，威脅將對與伊朗開展交易的主體實施制裁。"
+    },
+    {
+      "id": "mkt:01a0247b-6e0c-7aab-90d5-076c6796e0d2",
+      "time": "2026-08-21 21:21:03",
+      "tags": [
+        "MKT News",
+        "WMT.N"
+      ],
+      "text": "Walmart (WMT.N) will accept contactless payments at some stores from Aug. 24."
+    },
+    {
+      "id": "mkt:01a0247a-81b5-7aab-90d4-f8a68c68fe6e",
+      "time": "2026-08-21 21:20:03",
+      "tags": [
+        "MKT News",
+        "WMT.N"
+      ],
+      "text": "Walmart (WMT.N): Sam's Club will begin offering contactless payment services from Aug. 24."
+    },
+    {
+      "id": "5052459",
+      "time": "2026-08-21 21:19:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪：山姆會員店 8 月 24 日起啟用非接觸式支付。"
+    },
+    {
+      "id": "mkt:01a0247a-3d19-7aab-90d4-f7694f5a3cd6",
+      "time": "2026-08-21 21:19:45",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bullish"
+      ],
+      "text": "Walmart (WMT.N) will extend 'tap-to-pay' capability to gas stations by mid-2027."
+    },
+    {
+      "id": "5052458",
+      "time": "2026-08-21 21:19:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪計劃 2027 年年中前將感應支付推廣至旗下加油站  。"
+    },
+    {
+      "id": "mkt:01a0247a-1c71-7aab-90d4-ed85ab9f143a",
+      "time": "2026-08-21 21:19:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【EU preparing sanctions on Israel over West Bank E1 settlement plans, Israeli media says】Israeli media reported on the 20th that the EU is preparing a package of sanctions covering commercial, academic and security ties in response to Israel's advancement of settlement construction in the E1 area of the West Bank. Channel 13, citing two diplomatic sources, said preliminary measures include labeling imports from Israel, reducing academic cooperation and suspending parts of security and diplomatic cooperation."
+    },
+    {
+      "id": "5052457",
+      "time": "2026-08-21 21:19:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：歐盟擬就“E1區”定居點建設制裁以色列】據以色列媒體20日報道，由於以色列在約旦河西岸推進“E1區”定居點建設計劃，歐盟準備就此對以方實施涵蓋商業、學術和安全領域的“一攬子制裁”。以色列第13頻道電視臺當天援引兩名外交領域訊息人士的話報道說，歐盟擬定的初步制裁清單包括對進口自以色列的產品進行標註、減少與以色列的學術合作、停止與以色列之間部分安全和外交合作等。（新華社）"
+    },
+    {
+      "id": "mkt:01a02479-9634-7aab-90d4-e235313fd5bc",
+      "time": "2026-08-21 21:19:03",
+      "tags": [
+        "MKT News",
+        "WMT.N"
+      ],
+      "text": "Walmart (WMT.N) will roll out \"tap-to-pay\" across all U.S. stores by 2026."
+    },
+    {
+      "id": "5052456",
+      "time": "2026-08-21 21:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪將於 2026 年前在全美門店上線非接觸感應支付功能。"
+    },
+    {
+      "id": "5052455",
+      "time": "2026-08-21 21:17:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【朱元彧擔任興業證券資產託管部總經理】興業證券資產託管部總經理換人，朱元彧擔任興業證券資產託管部總經理。公開資料顯示，朱元彧2007年7月至2021年9月就職於興業證券，曾擔任機構銷售中心副總經理、銷售交易業務總部總經理助理、金融衍生產品部總經理助理；2021年9月至2026年8月，就職於申萬宏源證券，擔任機構客戶總部副總經理；2026年8月加入興業證券，擔任資產託管部總經理。"
+    },
+    {
+      "id": "5052454",
+      "time": "2026-08-21 21:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【江蘇太倉港完成埃及大型風電專案裝置出海】8月20日，滿載11套風力發電機組裝置的“皮萊茨基”輪，在江蘇太倉港啟程駛往共建“一帶一路”國家埃及，這標誌著埃及在建規模最大、非洲大陸第二大陸上風電專案——蘇伊士灣1.1吉瓦陸上風電專案裝置全部完成出海發運。（新華社）"
+    },
+    {
+      "id": "5052453",
+      "time": "2026-08-21 21:16:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報925.00元。"
+    },
+    {
+      "id": "5052452",
+      "time": "2026-08-21 21:16:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：澳大利亞、加拿大和英國譴責以色列決定終止對世界中央廚房遇襲事件的調查。"
+    },
+    {
+      "id": "5052451",
+      "time": "2026-08-21 21:16:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲2%，現報1052.00元。"
+    },
+    {
+      "id": "5052450",
+      "time": "2026-08-21 21:14:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海關總署 生態環境部公告2026年第120號（廢止《關於對進口廢物實施檢驗有關問題的通知》的公告）】根據工作實際，海關總署、生態環境部決定廢止《關於對進口廢物實施檢驗有關問題的通知》（國檢檢聯〔1996〕115號）。 本公告自發布之日起生效。 （海關釋出）"
+    },
+    {
+      "id": "5052449",
+      "time": "2026-08-21 21:13:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海關總署公告2026年第121號（關於修改海關總署公告2019年第170號、2020年第73號部分條款的公告）】為做好《中華人民共和國生態環境法典》涉及的行政規範性檔案清理工作，決定對海關總署公告2019年第170號（關於釋出《中華人民共和國海關對洋山特殊綜合保稅區監管辦法》的公告）、海關總署公告2020年第73號（關於釋出《中華人民共和國海關對洋浦保稅港區監管辦法》的公告）部分條款作如下修改：一、將海關總署公告2019年第170號第十一條中“、可用作原料的固體廢物”刪除。 二、將海關總署公告2020年第73號第八條中“、可用作原料的固體廢物”刪除。本公告自發布之日起生效。（海關釋出）"
+    },
+    {
+      "id": "5052448",
+      "time": "2026-08-21 21:12:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶門半導體：2026年上半年淨利潤虧損395.3萬美元，同比由盈轉虧】晶門半導體公告，2026年上半年銷售額4372.3萬美元，同比下降約4.8%；毛利1198.1萬美元，毛利率27.4%；本公司擁有人應占期內損失淨額395.3萬美元，2025年同期溢利400.3萬美元。每股基本及攤薄損失均為0.16美仙（等同於1.24港仙）。"
+    },
+    {
+      "id": "mkt:01a02472-c7af-7aab-90d4-d89ebfbdd45d",
+      "time": "2026-08-21 21:11:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SHFE silver most-active contract intraday gain widened to 2.00%, quoted at 16,948.00 yuan/kg."
+    },
+    {
+      "id": "mkt:01a02472-b317-7aab-90d4-d70700f664fb",
+      "time": "2026-08-21 21:11:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BOE, 3M launch joint laboratory】BOE Technology Group and 3M on Aug. 21 unveiled a joint laboratory at BOE’s Technology Innovation Center. The lab will concentrate on optical films, optically transparent adhesives, structural adhesives and advanced materials, targeting light-efficiency gains and core LCD, OLED and MLED technologies—including folding mechanisms and ultra-narrow bezel processes. The partners said they will pursue joint R&D to advance higher-performance iterations for flexible seamless folding displays and automotive displays."
+    },
+    {
+      "id": "5052447",
+      "time": "2026-08-21 21:11:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東方攜手3M共建聯合實驗室】據京東方訊息，8月21日，京東方-3M聯合實驗室釋出會在京東方技術創新中心舉辦，雙方共建的聯合實驗室正式揭牌啟用。該實驗室將聚焦光學膜材、光學透明膠、結構膠及前沿創新，圍繞LCD、OLED、MLED領域的光效提升、摺疊技術與超窄邊框工藝等核心課題，開展深度協同攻關，推動包括柔性無痕摺疊屏、車載顯示在內的多類創新技術持續向更高效能迭代。"
+    },
+    {
+      "id": "5052446",
+      "time": "2026-08-21 21:11:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報16948.00元。"
+    },
+    {
+      "id": "mkt:01a02472-3cf1-7aab-90d4-c9348f312c52",
+      "time": "2026-08-21 21:11:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reports the US Federal Trade Commission has been urged to investigate AI companies' destruction of books."
+    },
+    {
+      "id": "5052445",
+      "time": "2026-08-21 21:10:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：2026年Q2歐洲手機出貨量同比下降10%】市場調查機構CounterPoint Research報告稱，2026年第二季度歐洲智慧手機出貨量為3500萬部，同比下降10%，創下該地區三年來第二季度最低水平。"
+    },
+    {
+      "id": "5052444",
+      "time": "2026-08-21 21:09:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月份拍牌明天舉行，警示價92900元】8月份個人車牌拍賣將於明天（10:30-11:30）舉行，本月個人客車額度合計拍賣總數4061個。警示價為92900元。"
+    },
+    {
+      "id": "5052443",
+      "time": "2026-08-21 21:08:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方甄選執行總裁孫進：主播團隊將在27財年擴充至超百人】截至2026年5月31日，東方甄選自營產品及直播電商團隊人員總數達1812人。目前，東方甄選已開發專業人才庫，重點吸納主播、產品研發、品控質檢等核心人才。財報會上，東方甄選公佈，高度重視吸納優秀主播人才，以推出更多更好的直播活動和內容。據東方甄選執行總裁孫進介紹，東方甄選已由去年12月份的20餘位主播，發展到目前80餘人的上播團隊，並將在2027財年繼續擴充至超百人。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a0246f-7437-7aab-90d4-c3ff3dd3c89c",
+      "time": "2026-08-21 21:07:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: French President Macron, UK Prime Minister Burnham and German Chancellor Merz will jointly chair a hybrid meeting of the \"Volunteer Alliance\" next Monday."
+    },
+    {
+      "id": "5052442",
+      "time": "2026-08-21 21:07:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報916.00元。"
+    },
+    {
+      "id": "5052441",
+      "time": "2026-08-21 21:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江省檢察院原黨組成員、巡視員徐軍嚴重違紀違法被開除黨籍】黑龍江省紀委監委8月21日通報，日前，經黑龍江省委批准，黑龍江省紀委監委對黑龍江省人民檢察院原黨組成員、巡視員徐軍嚴重違紀違法問題進行了立案審查調查。（新華社）"
+    },
+    {
+      "id": "5052440",
+      "time": "2026-08-21 21:07:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍、英國首相伯納姆、德國總理默茨將共同主持週一\"意願聯盟\"混合會議。"
+    },
     {
       "id": "5052437",
       "time": "2026-08-21 21:06:16",
