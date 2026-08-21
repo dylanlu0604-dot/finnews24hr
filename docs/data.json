@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-21 13:53:29",
-  "count": 16003,
+  "updated": "2026-08-21 13:57:26",
+  "count": 16002,
   "items": [
+    {
+      "id": "5051328",
+      "time": "2026-08-21 13:56:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量1779億元。"
+    },
+    {
+      "id": "mkt:01a022e4-2d82-7aab-90c9-0f99220c2f85",
+      "time": "2026-08-21 13:56:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,550/oz, up 0.68% intraday."
+    },
+    {
+      "id": "5051327",
+      "time": "2026-08-21 13:55:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4550美元/盎司，日內漲0.70%。"
+    },
+    {
+      "id": "5051326",
+      "time": "2026-08-21 13:54:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【拉加經委會預計地區經濟今年增長2.2%】聯合國拉丁美洲和加勒比經濟委員會（拉加經委會）20日在智利首都聖地亞哥釋出年度經濟研究報告，預計2026年拉美和加勒比地區經濟增長2.2%，2027年將增長2.5%。報告說，全球經濟增長勢頭減弱、地緣政治緊張加劇、金融市場波動和能源價格上漲等外部因素，拖累拉美和加勒比地區經濟增長前景。投資不足、生產率增長乏力以及就業市場疲軟，是制約地區經濟增長的主要結構性因素。（新華社）"
+    },
+    {
+      "id": "5051325",
+      "time": "2026-08-21 13:54:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直擊WRC丨眾擎CEO回應被機器人踹翻：非擺拍，目前機器人真的已經進化到這個程度】2026世界機器人大會（WRC 2026）期間，提到曾經被眾擎T800機器人“一腳踹翻”一事，眾擎機器人創始人、CEO趙同陽對新浪科技等媒體表示，“當時機器人真的進化到這個程度了，我想看下它力量到底有多大，結果你可以看到影片，它能夠把我踹飛。” 此外，他表示，當前URKL賽事中機器人絕大部分動作都是由其自主完成，僅在意外場景下（如摔倒、視覺鎖定誤判等）才會人工介入和快速糾正。 此外，在交流中，趙同陽分享了眾擎機器人的目標，不僅要做有極致的本體，也要做聰明的大腦，“眾擎想做的是像《變形金剛》那樣靈敏的動作和反饋，甚至能在空中翻起來的時候還能調整自己的動作。” （新浪科技）"
+    },
+    {
+      "id": "5051324",
+      "time": "2026-08-21 13:53:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊再度拉昇 盛達資源逼近漲停】午後貴金屬板塊再度拉昇，盛達資源逼近漲停，此前湖南白銀、白銀有色、深中華A漲停，赤峰黃金、豫光金鉛、曉程科技、興業銀錫、四川黃金漲幅靠前。"
+    },
     {
       "id": "5051323",
       "time": "2026-08-21 13:52:07",
@@ -146507,72 +146561,6 @@
         "其他"
       ],
       "text": "【遊戲板塊持續走高，迅遊科技、世紀華通漲超6%】遊戲板塊持續走高，迅遊科技、世紀華通漲超6%，愷英網路、中青寶、三七互娛跟漲。"
-    },
-    {
-      "id": "5040624",
-      "time": "2026-08-14 13:56:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲4%，現報1525.00元。"
-    },
-    {
-      "id": "5040623",
-      "time": "2026-08-14 13:56:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本折扣零售業巨頭特里亞控股（Trial Holdings）年營收首次突破1萬億日元大關。"
-    },
-    {
-      "id": "mkt:019ffed7-b1ff-7aab-9036-7ed3e496fc80",
-      "time": "2026-08-14 13:56:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Bank of Japan could raise rates as soon as September, sources say】Three people familiar with Bank of Japan policy thinking told foreign media the central bank could raise rates as soon as September and is considering a more aggressive tightening path than the current roughly two hikes per year. The prospective move reflects growing concern about price pressure from the Middle East conflict, strong global AI-driven demand and persistent yen weakness despite a rare Japan‑US coordinated FX intervention last month. One source said a rate hike \"has entered the view,\" implying a likely move at the Sept. 17-18 policy meeting. The source added the bank may speed up the pace of hikes; a second source gave a similar account."
-    },
-    {
-      "id": "mkt:019ffed7-80c7-7aab-9036-75102d682405",
-      "time": "2026-08-14 13:56:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude traded above $81/bbl, up 0.7% on the day."
-    },
-    {
-      "id": "5040622",
-      "time": "2026-08-14 13:54:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【信達生物聯合美團買藥探索即時零售 首發小規格新品】8月11日—16日，第十九屆健康產業生態大會（2026西普會）在海南博鰲舉行。會議期間，信達生物聯合美團買藥探索即時零售，釋出2mg 1支裝瑪仕度肽新品。"
-    },
-    {
-      "id": "5040621",
-      "time": "2026-08-14 13:53:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐日本大使稱，美國支援日本在北方爭議領土問題上的立場。"
-    },
-    {
-      "id": "5040620",
-      "time": "2026-08-14 13:53:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交通銀行推動全市場首單企業自貿離岸債業務落地】近日，作為主承銷團成員之一，交銀集團助力上海電氣發行全市場首單企業自貿離岸債，總額15億元，這也是自貿離岸債首次在香港交易所掛牌。本次發行是上海自貿試驗區離岸金融創新的重要進展，也是2026陸家嘴論壇《上海國際金融中心發展離岸金融行動方案》釋出後自貿離岸債領域的標誌性成果。（上證報）"
     }
   ]
 }
