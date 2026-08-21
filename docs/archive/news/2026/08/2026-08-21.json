@@ -1,7 +1,65 @@
 {
   "date": "2026-08-21",
-  "count": 806,
+  "count": 812,
   "items": [
+    {
+      "id": "mkt:01a02207-2270-7aab-90c5-f8423061b757",
+      "time": "2026-08-21 09:54:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share coal-mining sector slipped intraday; Baotailong hit the daily limit-down. Peers including Dayou Energy, Liaoning Energy, Zhengzhou Coal Power, Hengyuan Coal Power and Xindazhou A also fell."
+    },
+    {
+      "id": "5051071",
+      "time": "2026-08-21 09:54:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "CPO概念持續拉昇，崇達技術漲停，星網銳捷、瑞斯康達、可川科技此前漲停，東田微漲近14%，劍橋科技、華潤微、華源控股等跟漲。"
+    },
+    {
+      "id": "mkt:01a02206-e38d-7aab-90c5-f41ad00d305c",
+      "time": "2026-08-21 09:54:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CPO theme in China A-shares extended gains: Chongda Technology hit the daily limit; Xingwang Ruijie, Ruisikangda and Kechuan Technology earlier hit limit-ups. Dongtian Micro rallied about 14%; Cambridge Technology, China Resources Microelectronics and Huayuan Holdings also rose."
+    },
+    {
+      "id": "5051070",
+      "time": "2026-08-21 09:53:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭開採板塊短線走低，寶泰隆跌停】煤炭開採板塊短線走低，寶泰隆跌停，大有能源、遼寧能源、鄭州煤電、恆源煤電、新大洲A等跟跌。"
+    },
+    {
+      "id": "5051069",
+      "time": "2026-08-21 09:52:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴基斯坦對華純鹼作出反傾銷初裁】據中國貿易救濟資訊網訊息，2026年8月15日，巴基斯坦國家關稅委員會發布第ADC75號案件的最新公告，對原產於或進口自中國的純鹼（Disodium Carbonate/Soda Ash）作出反傾銷肯定性初裁，初步裁定對涉案產品徵收10.85%臨時反傾銷稅。涉案產品的巴基斯坦稅號為2836.2000。措施自公告發布之日起生效，有效期為四個月。預計終裁將於初裁公告發布之日起180日內作出。"
+    },
+    {
+      "id": "5051068",
+      "time": "2026-08-21 09:52:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴基斯坦對華精對苯二甲酸作出反傾銷終裁】據中國貿易救濟資訊網訊息，2026年6月12日，巴基斯坦國家關稅委員會發布ADC70號案件的最新公告，對原產於或進口自中國的精對苯二甲酸（Pure Terephthalic Acid）作出反傾銷肯定性終裁，正式徵收反傾銷稅，其中，出口商英力士芳烴亞洲有限公司及其生產商珠海英力士化工有限公司稅率均為4.17%、出口商浙江獨山能源有限公司和其他出口商/生產商稅率均為9.50%。涉案產品的巴基斯坦稅號為2917.3610。措施自2026年1月4日起生效，有效期為五年。"
+    },
     {
       "id": "5051067",
       "time": "2026-08-21 09:51:37",
