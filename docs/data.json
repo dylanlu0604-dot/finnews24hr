@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-22 05:44:49",
+  "updated": "2026-08-22 05:48:53",
   "count": 16150,
   "items": [
+    {
+      "id": "5052824",
+      "time": "2026-08-22 05:46:15",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息： Anthropic 的 IPO 申報檔案將把 AI 行業遭遇輿論反噬列為風險因素。"
+    },
     {
       "id": "5052823",
       "time": "2026-08-22 05:41:01",
@@ -147798,18 +147807,6 @@
         "公司"
       ],
       "text": "秘魯國家石油公司稱，奧爾諾斯管道再度遇襲引發原油洩漏。"
-    },
-    {
-      "id": "mkt:01a0023f-4a21-7aab-9046-79a7ade4b3a4",
-      "time": "2026-08-15 05:48:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA",
-        "Impact bullish"
-      ],
-      "text": "Petrobras reported oil and gas shows in an exploration well in block FZA-M-59 in the Amazon River mouth basin."
     }
   ]
 }
