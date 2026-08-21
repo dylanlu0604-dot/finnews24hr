@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-21 14:16:46",
-  "count": 16012,
+  "updated": "2026-08-21 14:20:44",
+  "count": 16013,
   "items": [
+    {
+      "id": "mkt:01a022fa-0b6b-7aab-90c9-b4e308d9943d",
+      "time": "2026-08-21 14:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said President Lee Jae-myung appointed Park Jung-sung as trade minister."
+    },
+    {
+      "id": "mkt:01a022f9-fd8e-7aab-90c9-ad3811c21fe0",
+      "time": "2026-08-21 14:20:03",
+      "tags": [
+        "MKT News",
+        "01299.HK",
+        "Impact mixed"
+      ],
+      "text": "【BofA Securities cuts AIA PT to HK$95; 1H results in line】BofA Securities said AIA Group (01299.HK) reported 1H results that were in line. The firm raised profit forecasts for 2025–27 by 3–9% on higher investment income, but trimmed 2026 new business value (NBV) growth to 11% from 15% citing slower mainland visitor traffic to Hong Kong; it kept 2027–28 NBV growth at 16%. PT reduced 5% to HK$95 from HK$100. Rating: Buy."
+    },
+    {
+      "id": "5051372",
+      "time": "2026-08-21 14:19:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：總統任命樸正成（音譯）為貿易部長。"
+    },
+    {
+      "id": "5051371",
+      "time": "2026-08-21 14:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【現代汽車工人因薪資糾紛舉行全面罷工】現代汽車工會與管理層薪資談判破裂，於週五開啟全天罷工。在汽車銷售低迷的大背景下，此次罷工引發市場對生產進一步受阻的擔憂。這是該車企工會十年來首次舉行8小時規模的全面罷工。現代汽車蔚山、全州、牙山工廠生產線將分兩個班次合計停工16小時，約3.9萬名工會成員參與此次罷工。"
+    },
+    {
+      "id": "mkt:01a022f8-4286-7aab-90c9-a44da8b69252",
+      "time": "2026-08-21 14:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia broad money (M2) rose 8.3% YoY in July."
+    },
+    {
+      "id": "5051370",
+      "time": "2026-08-21 14:17:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威空中交通管制員將於上午11時開始罷工。"
+    },
+    {
+      "id": "5051369",
+      "time": "2026-08-21 14:17:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國主要半導體裝置商訂單積壓量預計比去年年底翻一番】韓國半導體裝置行業受益於三星電子和SK海力士的大規模半導體設施投資，截至今年上半年末，該國主要裝置企業的訂單積壓量預計比去年年底翻了一番。預計從今年下半年開始，銷售額將大幅增長。"
+    },
+    {
+      "id": "5051368",
+      "time": "2026-08-21 14:16:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【CXL記憶體池化即將量產：Primemas攜手美光，讓單機記憶體突破100TB】據報道，Primemas將於今年下半年與美光科技合作開始量產JBOM（just a bunch of memory）。該系統將多張CXL儲存卡組合成一個更大的共享儲存池。公司計劃在明年年底前透過Compute Express Link (CXL) 記憶體解決方案創造2億美元的收入，該解決方案可在單個伺服器上支援超過100TB的記憶體。"
+    },
+    {
+      "id": "5051367",
+      "time": "2026-08-21 14:16:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞7月廣義貨幣供應量（M2）同比增長8.3%。"
+    },
+    {
+      "id": "5051366",
+      "time": "2026-08-21 14:16:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國電電力在四子王旗成立風力發電公司】企查查APP顯示，近日，國電電力（四子王旗）風力發電有限公司成立，法定代表人為白建國，註冊資本為1000萬元，經營範圍包含：發電技術服務；風力發電技術服務；太陽能發電技術服務；儲能技術服務；電氣裝置修理等。企查查股權穿透顯示，該公司由國電電力間接全資持股。"
+    },
     {
       "id": "5051365",
       "time": "2026-08-21 14:16:10",
@@ -40,6 +123,14 @@
         "Europe & UK"
       ],
       "text": "【UK July retail sales fall as early-summer consumer heat fades】UK retail sales fell in July, weighed by declines in non-food and non-store retailers, the ONS said. Department store sales fell 1.4% MoM, textiles/apparel/footwear -2.7% MoM and non-store retail -3.6% MoM; food store sales rose 0.5% MoM, helped by supermarket and alcohol/beverage promotions, hot weather and the World Cup. Fuel sales rebounded 3.8% MoM after a 3.6% drop in June. The ONS said some demand was pulled forward into June by earlier-than-usual promotions. Overall sales remain relatively resilient; the release is unlikely to materially alter BoE policy prospects, though inflation remains the Bank's primary challenge."
+    },
+    {
+      "id": "5051363",
+      "time": "2026-08-21 14:15:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CCUS/CCS促進化石能源清潔高效開發及利用研討會在大連舉辦】作為亞太經合組織(APEC)第三次高官會能源領域的重要活動之一，CCUS/CCS促進化石能源清潔高效開發及利用研討會近日在遼寧省大連市舉辦。本次會議由APEC秘書處、國家能源局指導，中國石油規劃總院承辦，旨在促進APEC區域內CCUS/CCS領域的經驗分享、政策對話和務實合作。 國家能源局國際合作司副司長熊敏峰表示，中國政府高度重視CCUS/CCS技術發展和全產業鏈佈局，始終是CCUS/CCS技術發展的堅定推動者和積極實踐者。 他提議亞太各經濟體攜手構建三大合作支柱：一是共建政策標準對話機制，共享激勵與監管經驗；二是共研低成本高效技術，降低全鏈條應用門檻；三是共推跨行業示範工程，打通油氣、電力、工業等領域的協同封存利用路徑。（中新網）"
     },
     {
       "id": "te:economy:577117",
@@ -146556,91 +146647,6 @@
         "國際"
       ],
       "text": "【高盛：印度不太可能因人工智慧出現大規模失業】高盛集團首席印度經濟學家桑塔努・森古普塔週五表示，印度勞動力不太可能因人工智慧出現大規模失業，但服務業部分崗位或將受到影響。森古普塔在接受採訪時稱，相較於許多其他國家，人工智慧對印度的影響將較為有限。他表示：“主要原因在於印度勞動力規模龐大，大量勞動者從事機械性或體力類工作。”他稱，建築業和零售業吸納了印度約 40% 的勞動力，“目前基本不會受到人工智慧衝擊，受影響的主要是服務業。” 高盛估算，若有序推進人工智慧落地應用，衝擊有望得到緩解，同時未來十年整體生產力或將提升 0.4 個百分點。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608143841641492",
-      "time": "2026-08-14 14:20:40",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行加息或提速！美元對日元急跌 市場擔心潛在流動性衝擊】在“近期有必要加息”上，日本政府與央行形成了共識，下一次加息視窗指向9月18日或10月29~30日的央行會議。市場人士認為，日本政府的表態意味著，他們也已意識到單靠外匯干預無法持久支撐日元，日本央行加息步調才是日元能否企穩的關鍵。"
-    },
-    {
-      "id": "mkt:019ffeed-b7dc-7aab-9037-0837796c27da",
-      "time": "2026-08-14 14:20:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 closed down 83.50 points (-0.91%) at 9,105.00 on Friday, Aug. 14."
-    },
-    {
-      "id": "5040664",
-      "time": "2026-08-14 14:20:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG將推出基於NVIDIA Isaac GR00T平臺打造的下一代人形機器人。"
-    },
-    {
-      "id": "5040663",
-      "time": "2026-08-14 14:19:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江：制定腦機介面產品醫療應用清單】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到， 釋出應用場景清單。圍繞感知運動增強、重大腦疾病治療、腦健康管理與干預等方向，重點打造一批典型醫療應用場景，推動腦機介面創新產品先行先試。 最佳化產品應用路徑。制定腦機介面產品醫療應用清單，根據產品獲批上市情況動態更新。鼓勵腦機介面企業自主合理定價。試點開展腦機介面創新醫療器械示範推廣應用專案。 推進政府首購訂購。對符合首臺（套）裝備、首批次材料等政策的腦機介面產品，按照相關要求選擇適宜方式開展政府首購、訂購。"
-    },
-    {
-      "id": "5040662",
-      "time": "2026-08-14 14:19:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "京投發展盤中跌停，上演“天地板”，現報11.64元，成交額10.9億元。"
-    },
-    {
-      "id": "mkt:019ffeec-abb5-7aab-9037-05c24a6e774b",
-      "time": "2026-08-14 14:19:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Cui Dongshu: July 2026 China auto market weakness driven by oil shock, macro slowdown and seasonality】CPCA-affiliated Cui Dongshu said July weakness in the China auto market was caused by a convergence of factors: an oil-price rebound, macro slowdown, seasonality, demand pull-forward and policy shifts. Geopolitical disruption around the Strait of Hormuz pushed international oil prices higher; domestic gasoline prices have been cumulatively raised by 1,575 yuan/ton in 2026, significantly raising running costs and sharply eroding demand for gasoline passenger cars while having little impact on commercial-vehicle demand. July saw MoM declines in CPI and PPI and a softer PMI; cautious income and consumption expectations and weak appetite for big-ticket durables depressed housing and transport spending and terminal auto demand. High July temperatures reduced showroom footfall, and a June half-year sales push pulled forward demand, leaving orders and retail traffic falling in tandem."
-    },
-    {
-      "id": "5040660",
-      "time": "2026-08-14 14:18:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "網宿科技盤中漲停，漲幅20.01%，成交額超69億元。"
-    },
-    {
-      "id": "5040659",
-      "time": "2026-08-14 14:18:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國二戰紀念碑遭汙損】據美國媒體報道，位於華盛頓的美國國家二戰紀念碑當地時間8月13日遭蓄意破壞，警方正在展開調查。事發現場能看到，部分紀念碑上被噴了紅色的英文塗鴉和油漆，塗鴉字樣為“乾淨的手、骯髒的美元（clean hands,dirty $）”。破壞者還將肥皂之類的藥劑倒入噴泉池中，導致池水大量起泡。調查人員在對受損情況進行勘驗後，工作人員已展開清理工作。 美國國家二戰紀念碑位於華盛頓特區的國家廣場公園內，坐落於林肯紀念堂與華盛頓紀念碑之間的鏡池東段。該紀念碑始建於2001年9月，2004年4月對公眾開放，同年5月舉行竣工典禮，旨在紀念二戰期間服役的1600萬美國軍人。（CCTV國際時訊）"
-    },
-    {
-      "id": "5040658",
-      "time": "2026-08-14 14:17:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江：對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，提升概念驗證能力。支援腦機介面領域企業、高校院所、科創平臺等共建概念驗證中心。推動概念驗證中心與省重大科技專項、新產品試製計劃等聯動佈局。鼓勵高校院所推動腦機介面科研成果“應驗盡驗”。 支援開展臨床研究。結合臨床資源優勢、規範管理能力等，分類建設腦機介面臨床試驗基地、臨床與轉化病房、臨床預備佇列。對深度參與腦機介面臨床前研究並協助產品上市的研究型醫院給予補助，單個專案不超過800萬元。"
-    },
-    {
-      "id": "5040657",
-      "time": "2026-08-14 14:17:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江：重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用】近日，浙江省人民政府辦公廳印發《關於推進腦機介面產學研聯動的若干措施》，其中提到，完善多方需求響應機制。支援高水平醫療機構面向臨床應用，聯合企業共同凝練攻關需求。腦機介面領域“尖兵”“領雁”專案榜單（指南）需求中來自企業的數量原則上不低於60%，其中“尖兵”專案一般不低於80%。 加強基礎研究和關鍵核心技術攻關。實施國家自然科學基金聯合基金生命健康重大專項和省應用基礎研究計劃專案，加強重大腦疾病機制機理、新型腦機介面等研究，省應用基礎研究計劃單個專案最高補助300萬元。實施腦機介面省重大科技專項，重點突破腦機介面基礎軟硬體，推進聽視覺假體、智慧手腿、抑鬱治療等產品研發與推廣應用，單個專案最高補助1000萬元。 深化產學研協同攻關。組建腦機介面創新聯合體；鼓勵腦機介面企業與高校院所、科創平臺實施夥伴計劃、共建聯合實驗室（聯合研發中心）等。企業牽頭實施的腦機介面領域“尖兵”專案比例原則上不低於70%。"
     }
   ]
 }
