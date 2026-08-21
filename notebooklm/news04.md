@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:37:30_
-_本檔包含 3365 則快訊，約 655775 字_
+_更新時間：2026-08-22 06:57:53_
+_本檔包含 3365 則快訊，約 656472 字_
+
+---
+
+### 2026-08-19 00:10:06  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.77% Lower — The CAC 40 Index fell 66 points or 0.77 percent on Tuesday to close at 8514 points. Leading the losses are STMicroelectronics (-7.31%), Schneider Electric (-4.50%) and Legrand (-3.98%). Top gainers were Essilor (2.77%), Dassault Systemes (2.48%) and TotalEnergies SE (1.73%).
+
+---
+
+### 2026-08-19 00:09:09  #公司
+
+英國石油公司BP參與委內瑞拉石油貿易，挑戰Trafigura、Vitol。
+
+---
+
+### 2026-08-19 00:09:06  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.1% to 53,018 on Tuesday, weighed down by soaring bond yields. Sovereign yields climbed to multi-year highs across major economies as a prolonged conflict in the Middle East keeps inflation risks elevated, while technology firms increase bond issuance at longer maturities to finance AI investments. STMicroelectronics led the losses, plunging 7.6%, while Prysmian fell 4.9% as concerns over excessive AI spending persist. Financials also underperformed as higher sovereign yields weighed on their balance sheets, with FinecoBank, UniCredit, BPER Banca and Banco BPM falling more than 1%. Meanwhile, utilities outperformed, recovering from recent selling pressure. Nexi gained 2% as Stripe’s M&A activity improved sentiment across the digital payments sector.
 
 ---
 
@@ -20290,23 +20308,5 @@ REUTERS SURVEY: Of 104 economists, 94 expect the Fed to keep the federal funds r
 ### 2026-08-17 19:05:37  #公司 #國際
 
 【劉強東創立的獨立遊艇品牌Sea Expandary收購OceanWalker】8月17日，，探海集團（Sea Expandary）近日完成對天行者遊艇（OceanWalker）80%股權的收購交割。此次收購將擴充遊艇製造產能、補齊細分艇型短板、完善智慧製造佈局。Sea Expandary系劉強東2026年2月創立的獨立遊艇品牌，主打新能源智慧化遊艇。OceanWalker核心產品線包括S60多版本旗艦豪華雙體遊艇、X62及X53高速單體飛橋遊艇系列，覆蓋近海度假、商務接待、遠洋航行全層級市場。此外，OceanWalker已建立覆蓋北美、歐洲、中東、東南亞的多層級獨家經銷商網路，並在美國、新加坡等地設立官方授權合作機構。
-
----
-
-### 2026-08-17 19:05:21  #公司
-
-【上海銀行獲准全資收購上銀國際】8月17日，上海金融監管局官網批覆顯示，同意上海銀行收購上銀國際有限公司。收購完成後，上海銀行直接持有上銀國際有限公司100%股權。
-
----
-
-### 2026-08-17 19:04:57  #公司
-
-【龍磁科技：披露創業板股權激勵計劃自查表】龍磁科技公告稱，公司披露創業板上市公司股權激勵計劃自查表，就上市公司合規性、激勵物件合規性、激勵計劃合規性、限售期歸屬期行權期合規性、薪酬與考核委員會及中介機構專業意見合規性、審議程式等相關事項完成自查，不存在為激勵物件提供財務資助、涉及金融創新等情形，相關激勵名單經薪酬與考核委員會核實，股權激勵計劃相關內容符合監管要求。
-
----
-
-### 2026-08-17 19:04:46  #公司
-
-【中恆集團：廣西德富存續期延期暨關聯交易獲董事會透過】中恆集團公告稱，公司並表合夥企業廣西德富原2026年6月30日經營期限屆滿，擬將其經營期限延期至2027年5月30日，本次事項已獲公司第十屆董事會相關會議審議透過，關聯董事迴避表決，無需提交股東會審議。本次交易構成關聯交易，不構成重大資產重組，不涉及新增資金投入，各合夥人出資額、出資比例保持不變，尚需經基金合夥人會議表決透過，存在不確定性。
 
 ---

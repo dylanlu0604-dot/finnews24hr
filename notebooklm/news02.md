@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:37:30_
-_本檔包含 3426 則快訊，約 656019 字_
+_更新時間：2026-08-22 06:57:53_
+_本檔包含 3428 則快訊，約 656585 字_
+
+---
+
+### 2026-08-21 04:04:46  #其他
+
+哥倫比亞總統正式任命新的軍隊領導層。
+
+---
+
+### 2026-08-21 04:04:39  #MKT News #Market Regions #Emerging Markets
+
+Colombia's president formally appoints new military leadership.
+
+---
+
+### 2026-08-21 04:04:01  #MKT News #Macro & Rates #US Economy
+
+Cuba's foreign minister said the U.S. continues to sanction Cuban firms to damage Cuba's economy and impede the government's delivery of basic services, which are already strained by the long-standing embargo.
+
+---
+
+### 2026-08-21 04:01:51  #其他
+
+沃爾瑪股價收跌9.2%，創下2022年5月以來最大單日跌幅。
+
+---
+
+### 2026-08-21 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌1.31%，標普500指數跌0.86%，納指跌1.00%。Moderna跌23.55%，沃爾瑪跌9.15%，直覺外科跌5.86%，CrowdStrike跌5.61%。“七姐妹”方面：Meta Platforms跌0.03%，英偉達跌0.33%，微軟跌0.43%，谷歌跌1.02%，特斯拉跌1.71%，蘋果跌1.75%，亞馬遜跌2.16%。
+
+---
+
+### 2026-08-21 04:00:45  #MKT News #Macro & Rates #US Economy #WTI #Impact bearish #Brent
+
+【U.S. to sustain economic pressure on Iran to prevent nuclear rebuild, says Vance】U.S. Vice President Vance said Washington will continue using economic pressure to prevent Iran from rebuilding nuclear facilities. He said increasing oil and gas supply to lower energy prices, combined with punitive steps over attacks on commercial shipping, would impose significant economic strain on Iran and could alter its negotiating calculus. Vance described the current phase as one in which economic pressure is the most effective tool and said the U.S. will maintain that pressure to ensure Iran’s nuclear sites are destroyed and deter any attempt to rebuild them.
 
 ---
 
@@ -20661,29 +20697,5 @@ Iran's central bank governor said Iran-Iraq banking issues will be resolved with
 ### 2026-08-20 02:50:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
 
 【Fed minutes: inf projections similar to June; economic outlook slightly weaker】Fed minutes said staff expect H2 overall inf to ease—largely driven by expected declines in retail gasoline—and for core inf to slow modestly. Staff project real GDP growth next year slightly above potential, with financial conditions and AI-related investment providing support; unemployment is forecast to remain near staff’s estimate of the long-run rate this year, edge down next year and fall slightly below the long-run rate by 2028. Compared with June projections, staff’s outlook for economic activity is a touch weaker, reflecting recent softer-than-expected data. Staff flagged sizable uncertainty from geopolitics and unclear economic effects of AI investment and adoption. Overall, risks to employment and real GDP are tilted to the downside while inf risks are tilted to the upside, including the risk that inf proves more persistent than staff anticipate.
-
----
-
-### 2026-08-20 02:50:05  #市場 #央行 #國際
-
-【美聯儲會議紀要顯示 與會者強調聯邦基金利率是關鍵政策工具】美聯儲7月會議紀要顯示，許多美聯儲決策者重申，調整貨幣政策立場的主要手段應當是調整聯邦基金利率目標區間。7月28日至29日會議的紀要顯示，大多數與會者談到了資產負債表政策，他們指出，工作組的研究結果將為FOMC的審議提供“有益參考”，並表示未來的會議將為“全面討論”這一議題提供機會。多位與會者指出了可進一步探討的具體問題，包括與市場執行和金融穩定相關的考量、資產負債表政策對貨幣和金融狀況的影響，以及美聯儲所持美國國債的合理期限結構。
-
----
-
-### 2026-08-20 02:49:01  #MKT News
-
-Iran's central bank governor said assets frozen under the agreement framework remain frozen and no funds have been released to date.
-
----
-
-### 2026-08-20 02:46:55  #央行 #國際
-
-伊朗央行行長表示，截至目前，協議框架下被凍結的資產尚無資金獲得解凍。
-
----
-
-### 2026-08-20 02:46:03  #MKT News #GBPUSD #Impact bullish #FTSE100 #Impact mixed
-
-Britain says it is willing to discuss its digital services tax (DST) with the United States and considers the levy on tech firms a temporary measure until a global solution is reached.
 
 ---

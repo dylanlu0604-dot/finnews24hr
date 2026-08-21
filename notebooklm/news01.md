@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:37:30_
-_本檔包含 3050 則快訊，約 656501 字_
+_更新時間：2026-08-22 06:57:53_
+_本檔包含 3051 則快訊，約 656540 字_
+
+---
+
+### 2026-08-22 06:54:38  #國際
+
+參議員達琳·格雷厄姆（ 已故參議員林賽·格雷厄姆的妹妹 ）：批評者們說我就不該競選參議院席位，因為我不是政客。我認為他們說的對。然而，特朗普總統之前從未擔任過民選職務，但我認為他乾的非常好。
+
+---
+
+### 2026-08-22 06:51:40  #宏觀 #公司 #國際
+
+【馮德萊恩：以色列推進“E1區”定居點建設不可接受】歐盟委員會主席馮德萊恩當地時間21日表示，以色列政府決定就約旦河西岸“E1區”定居點專案釋出建設招標一事“不可接受”。她表示，歐盟長期以來一直反對這一舉措，因為該專案將分割約旦河西岸、破壞巴勒斯坦領土連續性，進而破壞“兩國方案”。以色列政府18日釋出了“E1區”定居點建設專案1234套住房的招標公告。2025年8月，以色列財政部長斯莫特里赫發表宣告稱，他計劃批准在“E1區”建造3401套住房，旨在“葬送巴勒斯坦國建國構想”。隨後，以國防部下屬的民政管理局高階規劃委員會批准了這一住房建造計劃。英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。（央視新聞）
+
+---
+
+### 2026-08-22 06:45:39  #國際
+
+【美陸軍部長或將離職】據美國《華爾街日報》當地時間8月21日援引知情人士訊息報道，美國陸軍部長丹·德里斯科爾預計將於年底前離職。近幾個月來，他與美國國防部長赫格塞思之間的關係持續緊張。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Soars by 14.34% — Top crypto gainers are XRP (14.34%), Ether (8.78%) and Bitcoin (7.53%).
+
+---
+
+### 2026-08-22 06:45:03  #國際
+
+市場訊息：以色列炮兵對黎巴嫩南部實施猛烈炮擊。
+
+---
+
+### 2026-08-22 06:43:23  #國際
+
+【白宮新聞秘書萊維特完成最後一次隨行飛行，將回歸特朗普超級政治行動委員會】白宮新聞秘書卡羅琳·萊維特（Karoline Leavitt）在搭乘“空軍一號”從華盛頓飛往默特爾比奇（Myrtle Beach）的航班上，完成了她作為新聞秘書的最後一次隨行飛行。在起飛後於媒體艙進行的簡短交流中，萊維特坦言，雖然她會懷念這份工作，但“我更愛我的孩子們”。她透露，自己和家人近期仍會居住在華盛頓，並笑言“你們以後還會經常看到我”。據悉，萊維特離任後將回歸“MAGA Inc.”——即特朗普的超級政治行動委員會（Super PAC）。陪同她此次飛行的還有總統副助理兼新聞顧問帕特·亞當斯（Pat Adams）。萊維特在機上對亞當斯讚賞有加，稱他是“華盛頓最聰明的人”，並表示這是亞當斯首次搭乘“空軍一號”隨行。
+
+---
+
+### 2026-08-22 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rice Rises by 4.10% — Top commodity gainers are Rice (4.10%), Rubber (1.27%) and Oat (1.24%). Biggest losers are Wool (-3.26%) and Canola (-2.52%).
 
 ---
 
@@ -18373,41 +18415,5 @@ Ross Stores earnings above expectations at 2.66 USD — Ross Stores (ROST) relea
 ### 2026-08-21 04:05:08  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
 
 U.S. equities closed lower on Thursday Aug 20: the Dow Jones Industrial Average fell 700.75 points (-1.31%) to 52,762.30; the S&P 500 dropped 66.42 points (-0.86%) to 7,641.56; the Nasdaq Composite lost 263.92 points (-1.00%) to 26,067.17.
-
----
-
-### 2026-08-21 04:04:46  #其他
-
-哥倫比亞總統正式任命新的軍隊領導層。
-
----
-
-### 2026-08-21 04:04:39  #MKT News #Market Regions #Emerging Markets
-
-Colombia's president formally appoints new military leadership.
-
----
-
-### 2026-08-21 04:04:01  #MKT News #Macro & Rates #US Economy
-
-Cuba's foreign minister said the U.S. continues to sanction Cuban firms to damage Cuba's economy and impede the government's delivery of basic services, which are already strained by the long-standing embargo.
-
----
-
-### 2026-08-21 04:01:51  #其他
-
-沃爾瑪股價收跌9.2%，創下2022年5月以來最大單日跌幅。
-
----
-
-### 2026-08-21 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌1.31%，標普500指數跌0.86%，納指跌1.00%。Moderna跌23.55%，沃爾瑪跌9.15%，直覺外科跌5.86%，CrowdStrike跌5.61%。“七姐妹”方面：Meta Platforms跌0.03%，英偉達跌0.33%，微軟跌0.43%，谷歌跌1.02%，特斯拉跌1.71%，蘋果跌1.75%，亞馬遜跌2.16%。
-
----
-
-### 2026-08-21 04:00:45  #MKT News #Macro & Rates #US Economy #WTI #Impact bearish #Brent
-
-【U.S. to sustain economic pressure on Iran to prevent nuclear rebuild, says Vance】U.S. Vice President Vance said Washington will continue using economic pressure to prevent Iran from rebuilding nuclear facilities. He said increasing oil and gas supply to lower energy prices, combined with punitive steps over attacks on commercial shipping, would impose significant economic strain on Iran and could alter its negotiating calculus. Vance described the current phase as one in which economic pressure is the most effective tool and said the U.S. will maintain that pressure to ensure Iran’s nuclear sites are destroyed and deter any attempt to rebuild them.
 
 ---

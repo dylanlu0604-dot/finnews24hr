@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 06:37:30_
-_本檔包含 3333 則快訊，約 656593 字_
+_更新時間：2026-08-22 06:57:53_
+_本檔包含 3334 則快訊，約 656031 字_
+
+---
+
+### 2026-08-20 02:50:05  #市場 #央行 #國際
+
+【美聯儲會議紀要顯示 與會者強調聯邦基金利率是關鍵政策工具】美聯儲7月會議紀要顯示，許多美聯儲決策者重申，調整貨幣政策立場的主要手段應當是調整聯邦基金利率目標區間。7月28日至29日會議的紀要顯示，大多數與會者談到了資產負債表政策，他們指出，工作組的研究結果將為FOMC的審議提供“有益參考”，並表示未來的會議將為“全面討論”這一議題提供機會。多位與會者指出了可進一步探討的具體問題，包括與市場執行和金融穩定相關的考量、資產負債表政策對貨幣和金融狀況的影響，以及美聯儲所持美國國債的合理期限結構。
+
+---
+
+### 2026-08-20 02:49:01  #MKT News
+
+Iran's central bank governor said assets frozen under the agreement framework remain frozen and no funds have been released to date.
+
+---
+
+### 2026-08-20 02:46:55  #央行 #國際
+
+伊朗央行行長表示，截至目前，協議框架下被凍結的資產尚無資金獲得解凍。
+
+---
+
+### 2026-08-20 02:46:03  #MKT News #GBPUSD #Impact bullish #FTSE100 #Impact mixed
+
+Britain says it is willing to discuss its digital services tax (DST) with the United States and considers the levy on tech firms a temporary measure until a global solution is reached.
 
 ---
 
@@ -20067,23 +20091,5 @@ The FTSE MIB Index Closes 1.06% Lower — The FTSE MIB Index dropped 569 points 
 ### 2026-08-19 00:11:06  #Trading Economics #Markets #Germany #Stock Market #Importance 1
 
 The DAX Index Closes 0.80% Lower — The DAX Index decreased 210 points or 0.80 percent on Tuesday to close at 26128 points. The decline was led by Infineon (-7.15%), Siemens Energy (-5.23%) and HeidelbergCement (-2.65%). On the upside, the strongest performers were SAP (2.24%), Bayer (1.75%) and Deutsche Telekom (1.66%).
-
----
-
-### 2026-08-19 00:10:06  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.77% Lower — The CAC 40 Index fell 66 points or 0.77 percent on Tuesday to close at 8514 points. Leading the losses are STMicroelectronics (-7.31%), Schneider Electric (-4.50%) and Legrand (-3.98%). Top gainers were Essilor (2.77%), Dassault Systemes (2.48%) and TotalEnergies SE (1.73%).
-
----
-
-### 2026-08-19 00:09:09  #公司
-
-英國石油公司BP參與委內瑞拉石油貿易，挑戰Trafigura、Vitol。
-
----
-
-### 2026-08-19 00:09:06  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.1% to 53,018 on Tuesday, weighed down by soaring bond yields. Sovereign yields climbed to multi-year highs across major economies as a prolonged conflict in the Middle East keeps inflation risks elevated, while technology firms increase bond issuance at longer maturities to finance AI investments. STMicroelectronics led the losses, plunging 7.6%, while Prysmian fell 4.9% as concerns over excessive AI spending persist. Financials also underperformed as higher sovereign yields weighed on their balance sheets, with FinecoBank, UniCredit, BPER Banca and Banco BPM falling more than 1%. Meanwhile, utilities outperformed, recovering from recent selling pressure. Nexi gained 2% as Stripe’s M&A activity improved sentiment across the digital payments sector.
 
 ---
