@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-21 23:29:41",
-  "count": 16199,
+  "updated": "2026-08-21 23:33:40",
+  "count": 16196,
   "items": [
+    {
+      "id": "5052595",
+      "time": "2026-08-21 23:31:33",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "義大利財政部：將於 8 月 26 日的拍賣中出售至多 30 億歐元短期義大利國債（BTP）。"
+    },
+    {
+      "id": "5052594",
+      "time": "2026-08-21 23:30:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.61%，報26142.65點，本週累跌1.1%。法國股指初步收漲0.35%，義大利股指初步收漲0.06%、銀行指數跌0.2%，英國股指初步收漲0.64%。"
+    },
+    {
+      "id": "5052593",
+      "time": "2026-08-21 23:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.56%，報654.00點，本週累跌約0.5%。歐元區STOXX 50指數初步收漲0.60%，報6460.73點，本週累跌1.2%。富時泛歐績優300指數初步收漲0.52%，報2614.44點。"
+    },
+    {
+      "id": "mkt:01a024f1-9e44-7aab-90d7-d847e92a423a",
+      "time": "2026-08-21 23:30:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it fully controls waters east of Strait of Hormuz, warns of imminent 'historic' lesson at sea】Aug 21 — Iran Navy commander Shahram Irani said the waters east of the Strait of Hormuz and in the Gulf of Oman, key approaches to the Strait and the Persian Gulf, are \"under Iran's full control.\" He said Iranian forces are monitoring all movements of foreign hostile forces around the clock, remain on high alert under the supreme leader's command, and would \"soon give the enemy a major, historic, unforgettable lesson at sea.\""
+    },
+    {
+      "id": "5052592",
+      "time": "2026-08-21 23:29:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱將在海上給敵人歷史性教訓】今天（8月21日），伊朗海軍司令沙赫拉姆·伊拉尼稱，霍爾木茲海峽以東及阿曼灣這一進入霍爾木茲海峽和波斯灣的重要海域目前處於伊朗“完全控制”之下，伊朗正“全天候監視域外敵對力量的一切動向”。他表示，伊朗武裝力量在最高領袖領導下保持高度戒備，“不久後將在海上給敵人一個重大的、歷史性的、難忘的教訓”。（ CCTV國際時訊）"
+    },
     {
       "id": "5052591",
       "time": "2026-08-21 23:28:06",
@@ -148350,86 +148396,6 @@
         "Importance 2"
       ],
       "text": "Crude Extends Gains to 5% This Week — Crude oil rose to $81.8 a barrel on Friday, gaining nearly 5% this week as the US increased economic pressure on Iran to reopen the Strait of Hormuz. Treasury Secretary Scott Bessent said Washington would impose unprecedented economic measures while maintaining its naval blockade of Iranian ports, with further announcements expected next week. The International Energy Agency also warned of a deeper global supply deficit, forecasting the widest shortfall in 2026 in five years. Meanwhile, Iran and Oman have yet to reach an agreement on reopening Hormuz, despite earlier optimism that a deal was close. US officials said American forces are increasing their ability to escort vessels through the strait, although shipping remains risky, with some tankers switching off transponders. In the Red Sea, Iran-backed Houthi militants also targeted Saudi Arabia’s Jazan refinery. Meanwhile, additional Middle Eastern crude is expected to reach the US, offering some relief to low inventories."
-    },
-    {
-      "id": "5041809",
-      "time": "2026-08-14 23:33:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪士尼執行長：沒有分拆 ESPN 或 ABC 的計劃。"
-    },
-    {
-      "id": "5041808",
-      "time": "2026-08-14 23:32:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：菲利普斯66與馬拉松的合併談判破裂。"
-    },
-    {
-      "id": "mkt:01a000e7-2734-7aab-9042-4486867518a9",
-      "time": "2026-08-14 23:32:23",
-      "tags": [
-        "MKT News",
-        "PSX.O",
-        "Impact bearish",
-        "MPC.O"
-      ],
-      "text": "Semafor reports merger talks between Phillips 66 and Marathon have broken down."
-    },
-    {
-      "id": "mkt:01a000e7-0ffa-7aab-9042-3aaaef808902",
-      "time": "2026-08-14 23:32:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PSX.N",
-        "Impact mixed",
-        "MPC.N"
-      ],
-      "text": "U.S. business outlet Semafor reports energy firms Phillips 66 and Marathon Petroleum held merger talks earlier this year."
-    },
-    {
-      "id": "5041807",
-      "time": "2026-08-14 23:31:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國 10 年期國債收益率上行 10 個基點至 4.04%，創 2009 年以來新高。"
-    },
-    {
-      "id": "mkt:01a000e6-3898-7aab-9042-30a7920ad86a",
-      "time": "2026-08-14 23:31:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "France 10-year government bond yield rose 10bps to 4.04%, the highest since 2009."
-    },
-    {
-      "id": "5041806",
-      "time": "2026-08-14 23:31:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：本週，我與印度總理莫迪又進行了一次十分友好的會談。印度對以色列的支援力度巨大。我們正將這份支援轉化為安全與經濟層面的雙邊關係。"
-    },
-    {
-      "id": "te:markets:575505",
-      "time": "2026-08-14 23:30:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Rises More than 2% This Week — Silver rebounded to around $65 an ounce on Friday after falling 1.4% in the previous session, bringing its weekly gain to more than 2%. Softer-than-expected US inflation data suggested that the impact of energy-price shocks linked to the Iran conflict eased in July, reducing pressure on the Federal Reserve to adopt a more aggressive monetary stance. Investors will now focus on upcoming US employment data and comments from Fed Chair Kevin Warsh at the Jackson Hole symposium later this month. Meanwhile, renewed tensions in the Middle East could push energy prices higher and revive inflation concerns, creating uncertainty for precious metals. Beyond monetary policy and geopolitical developments, silver continues to benefit from strong industrial demand, particularly from solar-panel production and investment in electricity grids. Chinese imports of silver-bearing ores surged 62.5% year-on-year in June to 219,000 tonnes."
     }
   ]
 }

@@ -1,7 +1,53 @@
 {
   "date": "2026-08-21",
-  "count": 3008,
+  "count": 3013,
   "items": [
+    {
+      "id": "5052595",
+      "time": "2026-08-21 23:31:33",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "義大利財政部：將於 8 月 26 日的拍賣中出售至多 30 億歐元短期義大利國債（BTP）。"
+    },
+    {
+      "id": "5052594",
+      "time": "2026-08-21 23:30:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.61%，報26142.65點，本週累跌1.1%。法國股指初步收漲0.35%，義大利股指初步收漲0.06%、銀行指數跌0.2%，英國股指初步收漲0.64%。"
+    },
+    {
+      "id": "5052593",
+      "time": "2026-08-21 23:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.56%，報654.00點，本週累跌約0.5%。歐元區STOXX 50指數初步收漲0.60%，報6460.73點，本週累跌1.2%。富時泛歐績優300指數初步收漲0.52%，報2614.44點。"
+    },
+    {
+      "id": "mkt:01a024f1-9e44-7aab-90d7-d847e92a423a",
+      "time": "2026-08-21 23:30:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it fully controls waters east of Strait of Hormuz, warns of imminent 'historic' lesson at sea】Aug 21 — Iran Navy commander Shahram Irani said the waters east of the Strait of Hormuz and in the Gulf of Oman, key approaches to the Strait and the Persian Gulf, are \"under Iran's full control.\" He said Iranian forces are monitoring all movements of foreign hostile forces around the clock, remain on high alert under the supreme leader's command, and would \"soon give the enemy a major, historic, unforgettable lesson at sea.\""
+    },
+    {
+      "id": "5052592",
+      "time": "2026-08-21 23:29:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱將在海上給敵人歷史性教訓】今天（8月21日），伊朗海軍司令沙赫拉姆·伊拉尼稱，霍爾木茲海峽以東及阿曼灣這一進入霍爾木茲海峽和波斯灣的重要海域目前處於伊朗“完全控制”之下，伊朗正“全天候監視域外敵對力量的一切動向”。他表示，伊朗武裝力量在最高領袖領導下保持高度戒備，“不久後將在海上給敵人一個重大的、歷史性的、難忘的教訓”。（ CCTV國際時訊）"
+    },
     {
       "id": "5052591",
       "time": "2026-08-21 23:28:06",
