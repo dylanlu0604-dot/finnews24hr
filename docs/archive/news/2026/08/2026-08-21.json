@@ -1,7 +1,94 @@
 {
   "date": "2026-08-21",
-  "count": 2672,
+  "count": 2682,
   "items": [
+    {
+      "id": "5052395",
+      "time": "2026-08-21 20:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果已就回溯徵稅裁定向愛爾蘭繳納170億美元稅款。"
+    },
+    {
+      "id": "mkt:01a02451-f534-7aab-90d4-321fa8b313fa",
+      "time": "2026-08-21 20:35:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Quantum X Labs said its AI-driven quantum error-correction program has achieved new results. Improvements were validated on Google's public surface-code dataset derived from real quantum-hardware experiments; decoder performance rose, reinforcing the firm's roadmap toward reliable fault-tolerant quantum computing."
+    },
+    {
+      "id": "5052394",
+      "time": "2026-08-21 20:35:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康泰生物：2026年上半年營收12.73億元 淨利同比增34.25%】康泰生物公告稱，2026年上半年實現營業收入12.73億元，同比下降8.55%；歸屬於上市公司股東的淨利潤5038.61萬元，同比增長34.25%。上半年海外業務營收5956.86萬元，同比增長197.58%。研發方面，四價流感病毒裂解疫苗（3歲及以上人群）、吸附破傷風疫苗取得藥品註冊批件，多款在研疫苗推進臨床試驗。公司擬實施2026年半年度權益分派，每10股派0.27元（含稅），擬派發現金紅利0.30億元，佔當期歸母淨利潤比例為59.85%。"
+    },
+    {
+      "id": "5052393",
+      "time": "2026-08-21 20:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永福股份：2026年上半年淨利潤虧損2628.38萬元，同比由盈轉虧】永福股份公告，2026年上半年營業收入5.79億元，同比下降40.69%；歸屬於上市公司股東的淨利潤虧損2628.38萬元，2025年同期淨利潤3126.06萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3035.28萬元，虧損較2025年同期擴大205.08%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5052392",
+      "time": "2026-08-21 20:34:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九州通：與國民養老保險簽訂戰略合作協議】九州通公告稱，公司於2026年8月21日與國民養老保險股份有限公司簽訂《戰略合作協議》，建立長期戰略合作伙伴關係，在“養老金融+醫藥服務”等領域開展創新合作，合作涵蓋品牌協同、產品服務創新、數字化能力共建等方向。本次協議為框架性檔案，具體合作專案需另行簽署業務合同，預計對公司2026年度經營業績暫不構成重大影響。因公司擬提名的非獨立董事候選人黃濤為國民養老保險董事及高管，本次交易構成關聯交易，後續合作存在不確定性。"
+    },
+    {
+      "id": "5052391",
+      "time": "2026-08-21 20:34:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "Quantum X Labs：最新結果利用谷歌公開表面碼資料集生成，源自真實量子硬體實驗。譯碼器已驗證效能提升，支援公司實現可靠容錯量子計算的發展路線。"
+    },
+    {
+      "id": "5052390",
+      "time": "2026-08-21 20:33:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達擬數億美元投資資料中心電力開發商Cloverleaf】知情人士透露，英偉達正就投資Cloverleaf Infrastructure進行深入談判，交易最早可能於週五上午宣佈，投資金額預計達數億美元。Cloverleaf成立於2024年，當年從NGP和Sandbrook Capital籌集3億美元，主營業務是與公用事業公司簽署電力協議，為資料中心開發商提供帶可靠電力的土地。過去兩年已向開發商出售超7吉瓦帶電專案（含威斯康星州甲骨文、OpenAI相關場地），目前管道超10吉瓦。 此舉進一步鞏固英偉達在資料中心早期開發階段的佈局，旨在提前鎖定未來晶片所需算力容量。本週英偉達還入股軟銀SB Energy（關聯俄亥俄州OpenAI租賃園區），今年早些時候則向Lancium投資20億美元（關聯得州阿比林園區）。"
+    },
+    {
+      "id": "mkt:01a0244f-a71d-7aab-90d4-2da9c2a5dcc4",
+      "time": "2026-08-21 20:33:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "WSJ reports a potential transaction would broaden NVIDIA (NVDA.O)'s AI infrastructure footprint and help secure future data-center capacity for its chips. NVIDIA has also recently invested heavily in power developers including Lancium and SoftBank's SB Energy."
+    },
+    {
+      "id": "mkt:01a0244f-8610-7aab-90d4-234c7e1fb502",
+      "time": "2026-08-21 20:33:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vice Premier Liu Guozhong directs autumn grain production and agricultural disaster prevention】China Politburo member and Vice Premier Liu Guozhong chaired a video conference at the Ministry of Agriculture and Rural Affairs on Aug. 21 to coordinate autumn grain production and agricultural disaster prevention and mitigation. He instructed authorities to concentrate on critical links, implement concrete measures, and safeguard initiative in autumn grain production to ensure this year’s grain harvest."
+    },
+    {
+      "id": "5052389",
+      "time": "2026-08-21 20:32:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽科希德：擬登出控股子公司江蘇賽科希德】賽科希德公告稱，公司董事會審議透過議案，同意登出控股子公司賽科希德（江蘇）醫療器械有限公司，並授權管理層辦理清算、登出等相關事宜。該子公司註冊資本1000萬元，公司持股80%；截至2026年6月30日，其總資產115.53萬元、淨資產105.53萬元，2026年上半年營收0.65萬元，淨虧損16.17萬元。本次登出不構成關聯交易及重大資產重組，完成後不會對公司生產經營產生實質性不利影響。"
+    },
     {
       "id": "5052388",
       "time": "2026-08-21 20:32:27",
