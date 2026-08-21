@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-21 23:37:54",
-  "count": 16195,
+  "updated": "2026-08-21 23:41:59",
+  "count": 16193,
   "items": [
+    {
+      "id": "mkt:01a024fb-216b-7aab-90d7-f6ad3a99692d",
+      "time": "2026-08-21 23:40:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【Sources: US-Canada talks would set 4 mln t steel quota with 25% in‑quota tariff, 50% above】Sources told The Globe and Mail a potential US-Canada trade accord under negotiation would introduce a Canadian steel export quota, charging a 25% tariff on shipments within the quota and 50% on shipments above it. An industry executive said Canada has agreed to allow 4 mln tonnes of steel per year to enter the US at the 25% rate; volumes beyond 4 mln t would face a 50% duty. Sources said Ottawa would drop all retaliatory tariffs on US steel and further restrict third-country steel imports. Canada is also negotiating aluminum terms aimed at lowering tariffs."
+    },
+    {
+      "id": "5052598",
+      "time": "2026-08-21 23:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典地區應急部門通報：瑞典發生校園襲擊事件，兩名青少年身受重傷被送往醫院。"
+    },
+    {
+      "id": "mkt:01a024f9-3edb-7aab-90d7-ed0630c59e36",
+      "time": "2026-08-21 23:38:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European stocks closed higher on Friday, Aug 21: Germany’s DAX +136.45 pts (+0.52%) to 26,148.00; FTSE 100 +71.22 pts (+0.66%) to 10,819.38; France’s CAC 40 +31.34 pts (+0.37%) to 8,484.43; STOXX Europe 50 +44.59 pts (+0.69%) to 6,466.65; Spain’s IBEX 35 +144.52 pts (+0.73%) to 19,962.52; Italy’s FTSE MIB +39.18 pts (+0.07%) to 52,705.00."
+    },
     {
       "id": "5052597",
       "time": "2026-08-21 23:36:33",
@@ -148340,55 +148375,6 @@
         "Importance 1"
       ],
       "text": "Colombia Industrial Production Rebounds in June — Colombia’s industrial production rose 4.1% year-on-year in June 2026, rebounding from a 0.4% decline in May and beating forecasts of 2.1%. Of the 39 industrial activities covered by the survey, 24 recorded positive changes. The largest increases were recorded in the manufacture of other transport equipment (22.0%), motor vehicle bodies and trailers (19.2%), luggage, handbags and similar leather goods (16.2%), motor vehicles and their engines (16.5%), and beverages (15.3%). Real sales rose 3.9%, while employment fell 1.1%."
-    },
-    {
-      "id": "mkt:01a000ef-b41f-7aab-9042-51faed2b8839",
-      "time": "2026-08-14 23:41:44",
-      "tags": [
-        "MKT News",
-        "UNH.O"
-      ],
-      "text": "Suspect in UnitedHealth CEO shooting, Luigi Mangione, said he shot former UnitedHealth CEO Brian Thompson and traveled to New York to kill Thompson."
-    },
-    {
-      "id": "5041814",
-      "time": "2026-08-14 23:40:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "路易吉·曼吉奧內在法庭上承認，他槍擊了聯合健康保險原執行長布萊恩・湯普森。"
-    },
-    {
-      "id": "mkt:01a000ed-0961-7aab-9042-4c4d1798fd1b",
-      "time": "2026-08-14 23:38:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Alibaba open-sources Qwen3.8 series】Alibaba announced today it has open-sourced the Qwen3.8 model series; developers, research institutions and companies can freely download, deploy and use the models. The newly released Qwen3.8-27B is a native multimodal dense model with 27 billion parameters and is said to outperform Qwen3.7-Plus."
-    },
-    {
-      "id": "te:economy:575509",
-      "time": "2026-08-14 23:38:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "France 10Y Bond Yield Hits 17-year High — France 10 Year Government Bond Yield increased to 4.05%, the highest since June 2009. Over the past 4 weeks, France 10Y Bond Yield gained 11.99 basis points, and in the last 12 months, it increased 55.96 basis points."
-    },
-    {
-      "id": "5041813",
-      "time": "2026-08-14 23:37:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪士尼執行長：迪士尼為維護新聞操守對抗聯邦通訊委員會（FCC）。"
     }
   ]
 }

@@ -1,7 +1,42 @@
 {
   "date": "2026-08-21",
-  "count": 3016,
+  "count": 3019,
   "items": [
+    {
+      "id": "mkt:01a024fb-216b-7aab-90d7-f6ad3a99692d",
+      "time": "2026-08-21 23:40:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【Sources: US-Canada talks would set 4 mln t steel quota with 25% in‑quota tariff, 50% above】Sources told The Globe and Mail a potential US-Canada trade accord under negotiation would introduce a Canadian steel export quota, charging a 25% tariff on shipments within the quota and 50% on shipments above it. An industry executive said Canada has agreed to allow 4 mln tonnes of steel per year to enter the US at the 25% rate; volumes beyond 4 mln t would face a 50% duty. Sources said Ottawa would drop all retaliatory tariffs on US steel and further restrict third-country steel imports. Canada is also negotiating aluminum terms aimed at lowering tariffs."
+    },
+    {
+      "id": "5052598",
+      "time": "2026-08-21 23:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典地區應急部門通報：瑞典發生校園襲擊事件，兩名青少年身受重傷被送往醫院。"
+    },
+    {
+      "id": "mkt:01a024f9-3edb-7aab-90d7-ed0630c59e36",
+      "time": "2026-08-21 23:38:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European stocks closed higher on Friday, Aug 21: Germany’s DAX +136.45 pts (+0.52%) to 26,148.00; FTSE 100 +71.22 pts (+0.66%) to 10,819.38; France’s CAC 40 +31.34 pts (+0.37%) to 8,484.43; STOXX Europe 50 +44.59 pts (+0.69%) to 6,466.65; Spain’s IBEX 35 +144.52 pts (+0.73%) to 19,962.52; Italy’s FTSE MIB +39.18 pts (+0.07%) to 52,705.00."
+    },
     {
       "id": "5052597",
       "time": "2026-08-21 23:36:33",
