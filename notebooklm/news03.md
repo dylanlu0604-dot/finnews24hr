@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 07:33:37_
-_本檔包含 3336 則快訊，約 656537 字_
+_更新時間：2026-08-22 07:54:37_
+_本檔包含 3343 則快訊，約 656245 字_
+
+---
+
+### 2026-08-20 03:11:56  #MKT News #Important
+
+Sources say a U.S.-Canada trade deal is expected to cut U.S. tariffs on Canadian steel and aluminum to 25%, but to include quota arrangements.
+
+---
+
+### 2026-08-20 03:11:53  #焦點 #國際
+
+特朗普：希望看到利率下降。
+
+---
+
+### 2026-08-20 03:11:05  #焦點 #國際
+
+訊息人士：美加貿易協議預計將美國對加拿大鋼鐵、鋁產品的最高名義關稅稅率降至 25%，同時協議還將包含部分配額安排。
+
+---
+
+### 2026-08-20 03:10:50  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish
+
+Sources say a US-Canada trade agreement is expected to cut the US maximum tariff rate on Canadian autos to 15%.
+
+---
+
+### 2026-08-20 03:10:34  #焦點 #國際
+
+市場訊息：知情談判人士稱，美加貿易協議預計將美國對加拿大汽車的最高名義關稅稅率降至 15%。
+
+---
+
+### 2026-08-20 03:09:33  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+【Spot gold climbs above $4,500/oz】Spot gold climbed above $4,500/oz for the first time since June 4, rising 3.83% on the day.
+
+---
+
+### 2026-08-20 03:09:31  #國際
+
+伊朗國家電視臺：伊朗表示，根據美伊諒解備忘錄，目前尚無凍結資金獲解凍。
+
+---
+
+### 2026-08-20 03:08:54  #市場 #焦點
+
+現貨黃金突破4500美元/盎司，日內漲3.89%。
+
+---
+
+### 2026-08-20 03:08:42  #市場 #焦點
+
+紐約期金突破4560美元/盎司，日內漲3.16%。
+
+---
+
+### 2026-08-20 03:08:32  #MKT News #Market Themes #AI Revolution #SPCX.O
+
+Market sources: SpaceX (SPCX.O) attempted to acquire AI programming startup Cognition.
+
+---
+
+### 2026-08-20 03:07:16  #其他
+
+SpaceX 曾嘗試收購 AI 程式設計初創企業 Cognition。
+
+---
+
+### 2026-08-20 03:06:24  #MKT News #ESLT.O #Impact bullish
+
+Israel's Channel 12 reports Israel will begin establishing a production line for precision-guided munitions for fighter aircraft.
+
+---
+
+### 2026-08-20 03:05:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+Alpha Compute said July cash revenue from its gaming business and the Alpha-01 NVIDIA GPU cluster reached $1.57 million, roughly 35 times its total revenue in April 2026.
 
 ---
 
@@ -20067,41 +20145,5 @@ Market sources say ANTHROPIC's pre-IPO credit facility could exceed its $10 bln 
 ### 2026-08-19 00:43:13  #MKT News #Brent #Impact bullish
 
 【UAE says ready to respond to any threat】UAE defence ministry said air-defence systems detected two ballistic missiles from the direction of Iran heading toward UAE; one fell outside territorial waters and the other inside, with no casualties or damage. The ministry said the country is on high alert, prepared to respond to any threat and will take measures to safeguard sovereignty, security and stability. It urged the public to obtain information only from official channels and avoid spreading unverified reports.
-
----
-
-### 2026-08-19 00:42:19  #其他
-
-據稱 Anthropic 要求各牽頭銀行分別提供約 12.5 億美元貸款，要求其餘主要參與銀行各提供約 10 億美元貸款。
-
----
-
-### 2026-08-19 00:42:01  #MKT News #WTI #Impact bullish #Brent #US10Y #Impact bearish
-
-【Global supply squeeze intensifies as US diesel margin tops $100/bbl】US diesel refining margin (diesel crack spread) has surged above $100/bbl, a record level amid tightening global fuel production. The diesel crack hovered around $100/bbl on Tuesday, slightly below a prior peak above $102/bbl; it first closed above $100/bbl on Monday. Before this year the metric had never exceeded $89/bbl; the previous record was set in October 2022 during a diesel shortage ahead of winter. A combination of factors has created a near "perfect storm" pushing diesel prices higher and may lift winter heating costs and add renewed inflationary pressure.
-
----
-
-### 2026-08-19 00:41:58  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Interfax reported Russian Foreign Minister Lavrov said Russia has the right to treat UK missile forces directly involved in strikes on Russia as participants in the conflict.
-
----
-
-### 2026-08-19 00:41:41  #公司 #其他 #焦點 #國際
-
-Anthropic 上市前信貸安排規模預計將突破 100 億美元目標。
-
----
-
-### 2026-08-19 00:38:51  #國際
-
-俄羅斯外長拉夫羅夫：我們有權將英國導彈部隊直接參與打擊俄羅斯的行為視作介入衝突。
-
----
-
-### 2026-08-19 00:35:51  #公司 #市場 #國際
-
-【歐洲股市錄得去年年末以來最長連跌 成交量接近年內最低水平】隨著美國與伊朗之間緊張局勢升溫，油價和債券收益率上漲，歐洲股市錄得今年以來的最長連跌。歐洲斯托克600指數週二收跌0.7%，連續第五個交易日走低。上一次出現這樣的連跌是在2025年11月。科技股表現最差，其中Soitec和Austria Technologie & Systemtechnik AG等硬體股領跌。能源股則上漲，布倫特原油升破每桶90美元，此前美國總統特朗普表示，目前沒有與伊朗進行談判。此輪下跌之前，強勁的財報季曾推動該指數創下紀錄高位。隨著企業財報釋出節奏放緩，投資者正在評估油價上漲帶來的通脹影響，以及人工智慧支出增加的影響。歐洲股市成交量目前接近年內最低水平，夏季流動性清淡可能進一步放大市場波動。
 
 ---

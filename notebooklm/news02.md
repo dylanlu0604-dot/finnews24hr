@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 07:33:37_
-_本檔包含 3430 則快訊，約 656364 字_
+_更新時間：2026-08-22 07:54:37_
+_本檔包含 3424 則快訊，約 656193 字_
+
+---
+
+### 2026-08-21 04:23:50  #MKT News
+
+Panama Canal said the planned Sept. 2, 2026 adjustment to the New Panamax locks' maximum permitted draft to 14.63 m (48.0 ft TFW) has been postponed due to weather and water-resource conditions.
+
+---
+
+### 2026-08-21 04:22:46  #MKT News
+
+Panama Canal will suspend offering conditional reservation windows for new Panamax vessels because available transit slots in the second booking period have been reduced.
+
+---
+
+### 2026-08-21 04:22:24  #宏觀 #國際
+
+【美國決定批准對卡達45億美元軍售】美國國務院20日宣佈，已決定批准一項或向卡達出售空中加油機及相關裝置的軍售計劃，預計總價值高達45億美元。美國務院在一份宣告中表示，卡達提出購買最多4架KC-46A空中加油機，以及發動機、雷達告警接收機和紅外對抗系統等相關配件和服務。宣告稱，此項軍售將有助於提升“美國戰略區域夥伴”的安全能力，從而支援美國的外交政策和國家安全目標；也將增強卡達的防禦能力及其與美軍及盟軍的協同作戰能力，並鞏固卡達在區域安全中的戰略作用。（新華社）
+
+---
+
+### 2026-08-21 04:22:12  #其他
+
+巴拿馬運河：原定於 2026 年 9 月 3 日生效的 14.48 米（47.5 英尺）TFW 最大允許吃水調整，將推遲至 2026 年 10 月 1 日執行。
+
+---
+
+### 2026-08-21 04:21:41  #其他
+
+巴拿馬運河：將新巴拿馬船閘最大允許吃水 14.63 米（48.0 英尺）TFW 的實施時間推遲至 2026 年 9 月 2 日。
+
+---
+
+### 2026-08-21 04:20:58  #其他
+
+巴拿馬運河：新巴拿馬型船閘每日通行名額調整至9個。巴拿馬型船閘每日通行名額調整至25個。
+
+---
+
+### 2026-08-21 04:20:42  #其他
+
+巴拿馬運河：因第二訂艙期內可用過境艙位縮減，新巴拿馬型船舶類別的附條件艙位將不再開放。
 
 ---
 
@@ -20631,83 +20673,5 @@ Spot silver surged $3 intraday to $66.32 per ounce, up 4.74%.
 ### 2026-08-20 03:12:20  #MKT News #Important #Macro & Rates #Treasury Yields
 
 U.S. President Trump said he strongly hopes interest rates will fall.
-
----
-
-### 2026-08-20 03:11:56  #MKT News #Important
-
-Sources say a U.S.-Canada trade deal is expected to cut U.S. tariffs on Canadian steel and aluminum to 25%, but to include quota arrangements.
-
----
-
-### 2026-08-20 03:11:53  #焦點 #國際
-
-特朗普：希望看到利率下降。
-
----
-
-### 2026-08-20 03:11:05  #焦點 #國際
-
-訊息人士：美加貿易協議預計將美國對加拿大鋼鐵、鋁產品的最高名義關稅稅率降至 25%，同時協議還將包含部分配額安排。
-
----
-
-### 2026-08-20 03:10:50  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish
-
-Sources say a US-Canada trade agreement is expected to cut the US maximum tariff rate on Canadian autos to 15%.
-
----
-
-### 2026-08-20 03:10:34  #焦點 #國際
-
-市場訊息：知情談判人士稱，美加貿易協議預計將美國對加拿大汽車的最高名義關稅稅率降至 15%。
-
----
-
-### 2026-08-20 03:09:33  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
-
-【Spot gold climbs above $4,500/oz】Spot gold climbed above $4,500/oz for the first time since June 4, rising 3.83% on the day.
-
----
-
-### 2026-08-20 03:09:31  #國際
-
-伊朗國家電視臺：伊朗表示，根據美伊諒解備忘錄，目前尚無凍結資金獲解凍。
-
----
-
-### 2026-08-20 03:08:54  #市場 #焦點
-
-現貨黃金突破4500美元/盎司，日內漲3.89%。
-
----
-
-### 2026-08-20 03:08:42  #市場 #焦點
-
-紐約期金突破4560美元/盎司，日內漲3.16%。
-
----
-
-### 2026-08-20 03:08:32  #MKT News #Market Themes #AI Revolution #SPCX.O
-
-Market sources: SpaceX (SPCX.O) attempted to acquire AI programming startup Cognition.
-
----
-
-### 2026-08-20 03:07:16  #其他
-
-SpaceX 曾嘗試收購 AI 程式設計初創企業 Cognition。
-
----
-
-### 2026-08-20 03:06:24  #MKT News #ESLT.O #Impact bullish
-
-Israel's Channel 12 reports Israel will begin establishing a production line for precision-guided munitions for fighter aircraft.
-
----
-
-### 2026-08-20 03:05:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-Alpha Compute said July cash revenue from its gaming business and the Alpha-01 NVIDIA GPU cluster reached $1.57 million, roughly 35 times its total revenue in April 2026.
 
 ---
