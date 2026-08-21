@@ -1,7 +1,70 @@
 {
   "date": "2026-08-21",
-  "count": 931,
+  "count": 938,
   "items": [
+    {
+      "id": "mkt:01a02244-5698-7aab-90c7-0bc9fe74d2f0",
+      "time": "2026-08-21 11:01:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Moore Threads' Zhang Jianzhong: AI compute clusters set to scale to 100,000 accelerator cards】Aug. 21 — Chinese AI chipmaker Moore Threads founder Zhang Jianzhong said at the 2026 World Robot Conference that the embodied-intelligence sector is entering a ChatGPT-style inflection and that compute capacity is the critical constraint. Language models have passed the trillion-parameter threshold, and driven by scaling laws embodied-intelligence models are advancing from billions and tens of billions to hundreds of billions and trillions of parameters. AI compute clusters will expand from thousands of accelerator cards to tens of thousands, and a move toward 100,000-card scale has become inevitable."
+    },
+    {
+      "id": "mkt:01a02243-d1e7-7aab-90c7-076a7f9f8853",
+      "time": "2026-08-21 11:01:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09992.HK",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan cuts Pop Mart to Reduce, trims target to HK$120】JP Morgan downgraded Pop Mart (09992.HK) to Reduce from Neutral and cut its target price to HK$120 from HK$165. The bank says Q2 was a structural inflection: revenue fell 11% YoY — the first quarterly decline since 2023 — marking a shift from hypergrowth to normalization. H1 revenue was RMB 17.2 bln, up 24% YoY but 11% below JP Morgan’s estimate. Overseas operating margin contracted 14 ppt YoY to 30%, adding pressure on H2 results. JP Morgan now forecasts Q3 revenue down >35% YoY and Q4 down ~20%, saying its prior downside scenario has effectively become the base case as weak demand and deleveraging emerge."
+    },
+    {
+      "id": "5051155",
+      "time": "2026-08-21 10:59:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【GLM-5.3、DeepSeek-V4-Pro正式版接入千問AI平臺】8月21日，據阿里雲訊息，阿里雲MaaS擴充模型服務矩陣，GLM-5.3和DeepSeek-V4-Pro正式版現已接入千問AI平臺，相關API服務同步開放，開發者可直接呼叫。據介紹，DeepSeek-V4-Pro、Qwen3.8-Max和Qwen-Audio系列模型已陸續開放訂閱使用，使用者訂閱套餐後，可在Qoder、Codex等AI工具中按需切換模型。"
+    },
+    {
+      "id": "mkt:01a02242-8e6e-7aab-90c6-fe7b6cdfd89c",
+      "time": "2026-08-21 10:59:42",
+      "tags": [
+        "MKT News",
+        "WMT.N",
+        "Impact bearish"
+      ],
+      "text": "RBC lowers Walmart (WMT.N) PT to $131 from $137."
+    },
+    {
+      "id": "5051154",
+      "time": "2026-08-21 10:58:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華碩組建AI LAB 上調AI伺服器收入增長目標至150%】華碩組建數十人的“AI LAB”團隊，成為其驗證和開發AI伺服器的秘密基地。該公司決定將今年AI伺服器收入增長目標從原定的100%提高到150%。"
+    },
+    {
+      "id": "5051153",
+      "time": "2026-08-21 10:58:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛奇藝CEO龔宇：將堅定All in AI戰略】在愛奇藝創作者大會上，愛奇藝創始人、CEO龔宇表示，平臺將堅定All in AI戰略，深耕AI賦能實拍與AIGC影視長片創作，同時全力推進非中心化社交媒體轉型，持續降低內容創作門檻。"
+    },
+    {
+      "id": "5051152",
+      "time": "2026-08-21 10:57:54",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【晶片行業景氣高漲 韓國擬利用“意外超額財政收入”設立“未來基金”】韓國企劃財政部週五表示，韓國將設立“未來基金”，依託本輪人工智慧產業繁榮帶來的稅收增量——政府稱之為意外超額財政收入，推動本國經濟長期增長。 企劃財政部聯合相關政府部門公佈該方案，稱人工智慧產業帶來的不只是一場技術革命，更推動經濟、社會制度等諸多領域發生重大轉型。 企劃財政部表示：“受全球晶片行業繁榮帶動，企業稅收入增加，國內稅收預計將大幅攀升。” 該部門補充道：“我們應當把當前形勢下獲得的財政財力，當作寶貴籌碼，在全球科技制高點競爭中搶佔先機。”"
+    },
     {
       "id": "5051151",
       "time": "2026-08-21 10:57:38",
