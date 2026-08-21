@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-22 02:25:36",
-  "count": 16181,
+  "updated": "2026-08-22 02:29:42",
+  "count": 16182,
   "items": [
+    {
+      "id": "te:markets:577355",
+      "time": "2026-08-22 02:28:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Deere & Company Stock Price Hits 25-week High — Deere & Company shares increased to 644.00 USD, the highest since February 2026. Over the past 4 weeks, Deere & Company gained 5.84%, and in the last 12 months, it increased 29.6%."
+    },
+    {
+      "id": "5052671",
+      "time": "2026-08-22 02:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國達飛海運（CMA CGM）將對所有經安特衛普、澤布呂赫、鹿特丹轉運的運輸方式徵收內陸緊急附加費。"
+    },
+    {
+      "id": "te:markets:577354",
+      "time": "2026-08-22 02:25:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Rises by 3.60% — Top commodity gainers are Rice (3.60%), Rubber (1.27%) and Palm Oil (1.15%). Biggest losers are Wool (-3.26%) and Canola (-2.57%)."
+    },
     {
       "id": "5052670",
       "time": "2026-08-22 02:20:43",
@@ -148227,26 +148258,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收漲1.38%，報558.10元人民幣/桶。滬金夜盤收漲0.60%，滬銀收漲0.57%。"
-    },
-    {
-      "id": "te:markets:575533",
-      "time": "2026-08-15 02:28:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Gilead Sciences Stock Price Hits 4-week High — Gilead Sciences shares increased to 138.33 USD, the highest since July 2026. Over the past 4 weeks, Gilead Sciences gained 5%, and in the last 12 months, it increased 16.83%."
-    },
-    {
-      "id": "5041892",
-      "time": "2026-08-15 02:27:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪士尼執行副總裁：約 40% 的 Disney + 使用者使用過豎版影片功能。"
     }
   ]
 }
