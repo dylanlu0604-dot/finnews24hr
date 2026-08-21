@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-22 05:23:25",
+  "updated": "2026-08-22 05:27:25",
   "count": 16152,
   "items": [
+    {
+      "id": "5052813",
+      "time": "2026-08-22 05:24:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週五（8月21日）紐約尾盤，美國10年期基準國債收益率漲2.99個基點，報4.7339%，本週累計上漲4.18個基點，整體交投於4.6308%-4.7458%區間。兩年期美債收益率漲5.05個基點，報4.2359%，本週累漲6.68個基點，整體交投於4.1412%-4.2401%區間，8月21日20:30出現一波顯著的上漲行情。"
+    },
+    {
+      "id": "5052812",
+      "time": "2026-08-22 05:22:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（8月21日）紐約尾盤，標普500股指期貨最終漲0.39%，道指期貨漲0.95%，納斯達克100股指期貨漲0.26%。羅素2000股指期貨漲0.77%。"
+    },
     {
       "id": "5052811",
       "time": "2026-08-22 05:19:57",
@@ -147820,26 +147837,6 @@
         "國際"
       ],
       "text": "週五（8月7日）紐約尾盤，美國10年期基準國債收益率上行5.14個基點，報4.690%，北京時間20:30釋出美國7月零售銷售資料時從日低點4.628%快速拉昇上行。兩年期美債收益率升2.88個基點，報4.169%，本週累跌2.40個基點。20年期美債收益率上行5.22個基點，本週累漲5.10個基點，報5.257%；30年期美債收益率累漲5.96個基點，報5.259%。"
-    },
-    {
-      "id": "5042004",
-      "time": "2026-08-15 05:26:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司(Petrobras)：截至目前已從政府燃料補貼計劃中獲得69億雷亞爾。"
-    },
-    {
-      "id": "te:economy:575544",
-      "time": "2026-08-15 05:24:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Yield Nears One-Month High — Brazil’s 10-year government bond yield rose to 14.9% in mid-August, nearing a one-month high following a rise in US Treasury yields. US Treasury yields increased amid elevated inflation expectations. Worsening risk perception as Brazil’s October presidential election approaches also contributed to the rise, with markets pricing in uncertainty surrounding the next government and its economic agenda. Concerns that the next government could face difficulties implementing a consistent fiscal adjustment are beginning to translate into a higher risk premium in asset prices. Fiscal concerns persist amid signals of higher government spending and pressure on revenues from new US tariffs. Meanwhile, the Copom signaled a cautious approach to further interest rate cuts. Brazil also created a net 145,161 formal jobs in June, well above expectations for 115,000, reinforcing labor market resilience and supporting expectations that interest rates will remain restrictive."
     }
   ]
 }
