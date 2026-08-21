@@ -1,7 +1,170 @@
 {
-  "updated": "2026-08-21 15:44:44",
+  "updated": "2026-08-21 15:48:56",
   "count": 16085,
   "items": [
+    {
+      "id": "te:economy:577183",
+      "time": "2026-08-21 15:47:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Turkey Consumer Confidence Hits Over 3-Year High — Turkey’s consumer confidence index rose to 90.8 in August 2026 from 89.8 in the previous month. This marked the highest reading since May 2023, driven by an improved assessment of households’ current financial situation, which rose to 75.4 from 74.5 in July, alongside stronger expectations for the general economic outlook, which increased to 89.4 from 88.3. Confidence in households’ financial situation over the next 12 months also strengthened, climbing to 93.1 from 91.4. At the same time, willingness to spend on durable goods remained steady at 105.1, unchanged from the previous month. Despite the monthly improvement, the index remained well below the neutral 100 threshold, indicating that consumers continued to be generally pessimistic about economic conditions."
+    },
+    {
+      "id": "te:economy:577182",
+      "time": "2026-08-21 15:47:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Business Confidence",
+        "Importance 0"
+      ],
+      "text": "Poland Industry Confidence Improves Further in August — The general business climate indicator for manufacturing in Poland improved to -5.1 in August 2026 from -5.3 in July, marking the highest reading since May, though it remained below its long-term average of +0.4. Among sectors, sentiment strengthened in financial and insurance activities (28.0 vs. 27.4 in July), transportation and storage (1.1 vs. -0.2), and construction (-0.1 vs. -0.3). Meanwhile, confidence weakened in accommodation and food service activities (7.0 vs. 21.2) and retail trade (0.9 vs. 1.4). Business conditions were unchanged in wholesale trade (2.6) and information and communication (9.9)."
+    },
+    {
+      "id": "5051550",
+      "time": "2026-08-21 15:47:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福元醫藥：甲磺酸溴隱亭片獲得藥品註冊證書，規格2.5mg】福元醫藥公告，公司近日收到國家藥監局頒發的甲磺酸溴隱亭片《藥品註冊證書》，批准該藥品生產，藥品批准文號為國藥準字H20265621。本次獲得《藥品註冊證書》視同透過一致性評價，公司截至公告日累計研發投入為人民幣840.22萬元（未經審計）。"
+    },
+    {
+      "id": "5051549",
+      "time": "2026-08-21 15:47:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：英偉達與AI晶片製造商Rebellions就潛在交易進行談判】據知情人士透露，英偉達公司正與韓國AI晶片設計公司Rebellions就可能的合作進行早期談判，合作選項包括技術合作、投資，甚至可能涉及收購。"
+    },
+    {
+      "id": "5051548",
+      "time": "2026-08-21 15:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家衛生健康委：血常規有問題不代表患有白血病】國家衛生健康委今天舉行新聞釋出會，介紹血液系統疾病防治有關情況。有的人身上一碰就淤青、經常流鼻血，或是體檢血常規看到指標有箭頭、血小板偏低，就擔心得了白血病。北京大學人民醫院主任醫師張曉輝介紹，出現淤青、流鼻血、血常規指標異常並不等同於白血病，這類情況絕大多數是良性的，無需過度焦慮。（央視新聞）"
+    },
+    {
+      "id": "5051546",
+      "time": "2026-08-21 15:47:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三祥新材：2026年上半年淨利潤7700.99萬元同比增長71.48%】三祥新材公告，2026年上半年營業收入5.63億元，同比增長0.23%；歸屬於上市公司股東的淨利潤7700.99萬元，同比增長71.48%，上年同期4490.79萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7398.83萬元，同比增長65.33%，上年同期4475.12萬元。"
+    },
+    {
+      "id": "mkt:01a02349-a297-7aab-90cc-5efa3285b633",
+      "time": "2026-08-21 15:47:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Ghalibaf: Iran and Iraq will continue opposing the U.S. and Israel】Iran's parliament speaker Ghalibaf said: \"As Iran and Iraq once defeated the United States in war and inflicted a crushing defeat, the two countries will continue to stand at the forefront of opposing hegemony, and this path will persist.\""
+    },
+    {
+      "id": "5051545",
+      "time": "2026-08-21 15:46:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【誰在為美國加碼制裁伊朗“埋單”】美國政府20日宣佈將對伊朗實施所謂“毀滅性經濟行動”和“史無前例的經濟孤立”，並威脅對繼續支援伊朗的國家採取更嚴厲措施。這意味美國對伊經濟“極限施壓”正從傳統經濟制裁向更廣泛的領域全面延伸。美國試圖透過切斷伊朗經濟命脈迫使其讓步，但其發動“經濟戰”的外溢效應卻正沿著能源、航運和供應鏈持續擴散：伊朗承受衰退與高通脹，美國消費者面對更高通脹衝擊，全球經濟則面臨能源、糧食和航運價格上漲等多重壓力。（新華社）"
+    },
+    {
+      "id": "5051544",
+      "time": "2026-08-21 15:46:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美銀：美國股票基金錄得三週來最大規模資金流入】美國銀行一份研報顯示，截至8月19日當週，約有290億美元資金流入美國股票基金，為三週以來最高水平。全球股票基金吸引401億美元資金流入；債券基金流入214億美元。黃金與加密貨幣基金同樣迎來資金淨流入，現金基金則遭12億美元贖回。美國國債基金流入74億美元，創六週新高。投資級債券基金迎來連續第20周資金加碼，流入規模約75億美元。新興市場債務基金錄得11周最大流入，達33億美元。韓國股票基金出現八週以來首次資金流出，規模為8億美元。半導體板塊基金資金流出延續至第三週，累計贖回規模達63億美元。金融板塊基金遭遇約20億美元贖回，為11周最大贖回額。歐洲股票基金連續第三週獲得資金流入，流入規模2億美元。"
+    },
+    {
+      "id": "mkt:01a02348-d647-7aab-90cc-533d26d57b0a",
+      "time": "2026-08-21 15:46:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea to create ‘Future Response Fund’ funded by semiconductor windfall; estimated at least W120 tln】South Korea’s Ministry of Economy and Finance will set up a Future Response Fund, financed primarily by excess tax receipts from sectors such as semiconductors, to convert windfall revenue into strategic investment aimed at lifting potential growth. Officials have not fixed a size; South Korean media and government estimates put a conservative floor of about W120 trillion (roughly $86bn). The government defines eligible revenue as the portion of domestic tax receipts that exceed a long-term trend estimate (not short-term cyclical gains). Planned inclusions also cover surplus tax, balances of the national surplus fund and its investment returns. Preliminary accounting suggests roughly W98 trillion could come from the gap between the 2027 domestic tax estimate (above W450 trillion) and the long-term trend estimate (about W352 trillion), plus roughly W20 trillion from local education-fund reform, totaling more than W118 trillion. Funds will target youth employment/living support, national growth engines (including frontier AI, physical AI, AIDC, SMR and aerospace), regional development, and education/talent. The fund will be managed by the Ministry of Economy and Finance with five accounts (overall, youth, growth engines, regions, education/talent). Project selection will be overseen by a public–private review committee modeled on lottery-fund governance, and the fund’s operating plan must be submitted annually to the National Assembly. Analysts note the design appears intended to route semiconductor-driven tax gains into discretionary strategic investment, potentially sidestepping the spending order in the National Finance Act (local education allocations, public-debt repayment). Draft legislation, including the fund and local education-fund reforms, will be publicly notified 24–28 this month, reviewed at a cabinet meeting on the 1st of next month and submitted to the National Assembly on the 3rd alongside the 2027 budget."
+    },
+    {
+      "id": "te:economy:577179",
+      "time": "2026-08-21 15:46:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Germany Manufacturing Growth Highest Since 2022 — The S&P Global Germany Manufacturing PMI jumped to 54.1 in August 2026 from 52.2 in the previous month, surpassing market expectations of 52.0, according to preliminary estimates. It marked the seventh consecutive month of expansion and the strongest pace since May 2022, mainly driven by an acceleration in output, new orders, and export sales, all of which expanded at their fastest pace since early 2022. Survey respondents cited stronger demand linked to inventory rebuilding, rising defense spending, and continued investment in data-center infrastructure. On the inflation front, input cost pressures remained elevated by historical standards but eased slightly from July, suggesting that price pressures are becoming more manageable despite ongoing supply-side challenges. Lastly, business confidence improved significantly."
+    },
+    {
+      "id": "mkt:01a02348-7e04-7aab-90cc-4fa532e02d7d",
+      "time": "2026-08-21 15:45:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Prime Minister Takaichi said she will seek wage growth above inflation by boosting domestic investment and long-term growth potential, while preserving market confidence in fiscal sustainability."
+    },
+    {
+      "id": "5051543",
+      "time": "2026-08-21 15:45:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【茅臺回應上半年成本增幅高於收入：銷量增加、噸酒收入下降】茅臺方面認為，2025年底，在白酒行業深度調整、消費需求疲軟的背景下，公司主力產品面臨較大的市場挑戰，管理層進行客觀研判分析後，在2026年初啟動了以消費者為中心、以市場需求為驅動的市場化改革。上半年，市場化改革和轉型舉措取得了預期成效，貴州茅臺酒市場銷售穩健，醬香系列酒市場基本穩定，適配真實消費需求“隨行就市、相對平穩”的價格體系和機制構建完成並有效執行。"
+    },
+    {
+      "id": "5051542",
+      "time": "2026-08-21 15:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以方終止調查志願者遭襲致死事件 波蘭召見以色列大使】當地時間8月21日，波蘭外交部召見以色列駐波蘭大使，就以色列方面決定終止對加沙地帶一次襲擊事件的相關調查程式提出交涉。波蘭公民、慈善組織“世界中央廚房”（WCK）志願者達米安·索博爾在此次襲擊中死亡。2024年4月1日，以軍空襲“世界中央廚房”車隊，導致7人死亡，其中包括波蘭公民達米安·索博爾。波蘭外交部表示，“2024年發生的這起悲劇的具體情況必須得到全面解釋”。 “外交部不接受肇事者逃避法律和道德責任。遇難者家屬理應獲得充分的賠償。”（央視新聞）"
+    },
+    {
+      "id": "5051541",
+      "time": "2026-08-21 15:44:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙大網新：2026年上半年虧損-5947.94萬元】浙大網新公告，2026年上半年營業收入14.72億元，同比-5.91%；歸屬於上市公司股東的淨利潤-5947.94萬元，上年同期-1506.94萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤-4158.26萬元，上年同期-4947.87萬元。"
+    },
+    {
+      "id": "5051540",
+      "time": "2026-08-21 15:44:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本首相高市早苗在X平臺表示：隨著日本經濟從通縮傾向轉向增長導向，薪資上漲正成為根植於趨勢中的現象。"
+    },
+    {
+      "id": "5051539",
+      "time": "2026-08-21 15:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：多名外籍員工自曝遭日本僱主虐待和性騷擾，官方已展開調查】綜合《每日新聞》等日媒8月21日的報道，多名在北海道京極町一座農場工作的外國籍員工屢遭日本僱主辱罵、暴力虐待和性騷擾。據報道，受害者包括4名緬甸籍女子，她們有日本官方發行的在留資格和工作許可。她們近日因屢遭虐待逃出農場，前往當地一個設施尋求庇護，目前得到札幌地域勞動組合（工會）保護。（環球網）"
+    },
     {
       "id": "mkt:01a02346-a51f-7aab-90cc-4065d332fea7",
       "time": "2026-08-21 15:43:47",
@@ -147201,158 +147364,6 @@
         "其他"
       ],
       "text": "科達利上半年營收92.1億元人民幣，淨利潤9.430億元人民幣。"
-    },
-    {
-      "id": "5040797",
-      "time": "2026-08-14 15:48:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【乘客被吸出窗外 涉事客機確認發動機葉片斷裂】美國國家運輸安全委員會13日釋出初步調查報告說，上月歐洲一架波音客機發生乘客被吸出窗外事故，原因是飛機右側發動機一片風扇葉片斷裂脫落，碎片擊碎舷窗並損壞機身多處。調查人員在發動機內發現3片風扇葉片碎片和鳥類殘骸，表明飛機可能在起飛時撞鳥，但尚未認定撞鳥是風扇葉片斷裂的原因，調查仍在進行中。據美聯社報道，該客機維修記錄顯示，右側發動機風扇葉片曾在2026年5月和2025年11月接受過超聲波檢查，未發現損傷。據路透社援引調查報告報道，飛行機組在事發前12個月內，曾報告同一臺發動機發生4次疑似撞鳥事件，其中兩次事後發現鳥類殘骸。事發客機原計劃7月10日從希臘塞薩洛尼基前往德國梅明根，由歐洲最大廉價航空公司愛爾蘭瑞安航空的子公司馬耳他航空運營。（新華社）"
-    },
-    {
-      "id": "5040796",
-      "time": "2026-08-14 15:47:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【群創二季度淨利46.5億元新臺幣】8月14日，群創光電公佈2026年第二季度業績，營收637億元新臺幣；營業淨利16.3億元新臺幣，稅後淨利46.5億元新臺幣，基本每股收益0.57元新臺幣。公司二季度毛利率和EBITDA利潤率分別為14.6%和14.3%，連續四個季度實現稅後盈利。上半年，群創光電營收1303.44億元新臺幣，歸母淨利潤61.61億元新臺幣，基本每股收益0.77元。公司預計第三季度非顯示器業務和商用顯示器業務環比持平，消費性顯示器業務環比下降高個位數百分比。"
-    },
-    {
-      "id": "5040795",
-      "time": "2026-08-14 15:47:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永信至誠：財務負責人辭職 總經理代行其職責】永信至誠公告稱，公司財務負責人陳思源因個人原因，於2026年8月14日辭職，辭職後不在公司任職。其負責的工作已妥善交接，對公司無不利影響，且未持有公司股份，無未履行承諾。同日，公司召開第四屆董事會第十三次會議，決定在新財務負責人到崗前，由總經理陳俊代行財務負責人職責，公司將盡快完成選聘並披露資訊。"
-    },
-    {
-      "id": "5040794",
-      "time": "2026-08-14 15:47:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【關志鷗會見順豐控股董事長王衛】據“湖北釋出”，8月13日下午，湖北省委書記關志鷗在武漢會見順豐控股股份有限公司董事長兼總經理王衛。關志鷗說，希望順豐控股充分發揮快遞物流行業領軍企業和供應鏈網路優勢，進一步加大在湖北的戰略佈局力度，持續完善花湖國際機場功能，推動生物醫藥、先進製造、生鮮冷鏈等產業集聚發展，合力打造臨空產業叢集；加快花湖國際機場多式聯運集散中心專案建設，不斷提高執行管理智慧化水平，助力湖北全面提升綜合交通運輸效能。我們將持續最佳化營商環境，加強要素保障，為順豐控股在鄂發展提供優質高效服務，共同把花湖國際機場建設成為國際一流航空貨運樞紐。"
-    },
-    {
-      "id": "5040793",
-      "time": "2026-08-14 15:46:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【8月14日滬深兩市漲停分析】創業板指震盪反彈漲超1%，算力硬體概念集體走強。藍盾光電5連板，一圖看懂>>"
-    },
-    {
-      "id": "5040792",
-      "time": "2026-08-14 15:46:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：穩定幣公司RedotPay據稱因法律問題推遲美國IPO。"
-    },
-    {
-      "id": "5040791",
-      "time": "2026-08-14 15:46:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電連技術：參與投資專案股權處置達成協議 已收首期款】電連技術公告稱，公司曾參與投資設立建廣廣連，其持有飛特控股21.17%股權。此前飛特控股孫公司收購FTDI 80.2%股權，但因英國政府要求出售。近期FTDI Holding Limited上層股東就處置方案形成決議，建廣資產主導與買方簽署《股份購買協議》等，交易對價2.5億美元+或有對價，交割日為2026年8月12日，2026年8月12日支付1.7億美元，12月31日前支付8000萬美元。截至公告日，已收到首期款1.7億美元。此次交易將造成公司投資損失，2025年度已計提減值2.43億元。"
-    },
-    {
-      "id": "mkt:019fff3c-7c6d-7aab-9038-f472c5e03aa8",
-      "time": "2026-08-14 15:46:21",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian officials said if a ceasefire is implemented in the Black Sea region, Ukraine could restore grain exports through its seaports within one month."
-    },
-    {
-      "id": "5040790",
-      "time": "2026-08-14 15:45:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泓淋電力：2026年上半年淨利潤1.02億元同比增10.84%】泓淋電力公告，2026年上半年營業收入22.93億元，同比增長22.24%。歸屬於上市公司股東的淨利潤1.02億元，同比增長10.84%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.02億元，同比增長25.45%。"
-    },
-    {
-      "id": "te:markets:575358",
-      "time": "2026-08-14 15:45:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Poised to End 3-Week Gains — The CAC 40 traded little changed around 8,653 on Friday and was on track to end a three-week winning streak, as investors remained cautious amid stalled negotiations to end the Middle East conflict and restore normal shipping through the Strait of Hormuz. Persistent geopolitical tensions continued to fuel concerns over supply disruptions and inflation risks, with US President Donald Trump renewing calls for tougher economic pressure on Iran, while Tehran reportedly adopted a more assertive military posture. On the domestic front, France's annual inflation rate rose to 2.1% in July 2026 from 1.8% in June, confirming preliminary estimates and reinforcing expectations that price pressures remain elevated. Among individual stocks, L'Oréal fell 0.2%, Schneider Electric lost 0.5%, Engie dropped 1.0%, and STMicroelectronics declined 1.5%. In contrast, defense and aerospace stocks outperformed, with Airbus rising 1.2%, Thales gaining 1.6%, and Dassault Systèmes climbing 3.9%."
-    },
-    {
-      "id": "5040789",
-      "time": "2026-08-14 15:45:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【民調：韓國防彈少年團在美認知度與好感度均超40%】經紀公司BIGHIT MUSIC14日表示，旗下男團防彈少年團（BTS）以資料見證其在美國的人氣。全球娛樂資料洞察公司“Luminate”今年第二季度面向美國的音樂消費者進行調查的結果顯示，42%的受訪者認知防彈少年團，較全體藝人平均值（24%）高18個百分點。好感度方面，46%的受訪者對防彈少年團有好感，創下自2021年首次調查（34%）以來之最。"
-    },
-    {
-      "id": "mkt:019fff3b-9ac4-7aab-9038-eb892ee6202a",
-      "time": "2026-08-14 15:45:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu mocks Britain as 'Islamic Republic'】Israeli Prime Minister Netanyahu, in an extended interview on Israel’s Army Radio, called Britain an 'Islamic Republic' and quipped that 'the first nuclear-armed Islamic Republic will be the British Islamic Republic,' saying Israel is ensuring the Islamic Republic of Iran does not become nuclear-armed. British media report UK-Israel diplomatic relations are effectively frozen, with ministerial-level communications almost halted."
-    },
-    {
-      "id": "5040788",
-      "time": "2026-08-14 15:45:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【炬光科技：NPO/CPO相關微光學產品及高通道V型槽產品部分完成批次驗證 在手訂單持續增加】炬光科技(688167.SH)釋出投資者關係活動記錄表公告，業務進展方面，可插拔光模組相關微光學產品已在部分客戶實現規模化供應，並推進更多客戶驗證與量產匯入；NPO/CPO相關微光學產品及高通道V型槽產品於2026年上半年新增多家客戶，部分完成批次驗證，在手訂單持續增加，並與一家重要客戶簽訂技術許可協議且已開始執行；OCSMLA在大客戶處持續爬坡並進入量產階段；面向矽光模組CW光源、CPO外接鐳射器光源應用場景，氮化鋁襯底材料與多家行業頭部客戶開展合作，送樣與驗證持續推進，客戶覆蓋及業務規模持續擴大。戰略佈局方面，公司部分光通訊核心產品已獲得客戶認可，現有產能已被客戶訂單及需求規劃提前鎖定。"
-    },
-    {
-      "id": "5040787",
-      "time": "2026-08-14 15:45:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【極氪澳洲累計交付突破10000輛】8月14日，據極氪訊息，極氪澳洲累計交付突破10,000輛。"
-    },
-    {
-      "id": "5040786",
-      "time": "2026-08-14 15:45:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華貿物流等在甘肅成立多式聯運公司】企查查APP顯示，近日，甘肅國際物流集團華貿多式聯運有限公司成立，經營範圍包含：物聯網技術研發；物聯網應用服務；大資料服務等。企查查股權穿透顯示，該公司由甘肅省國際物流集團有限公司、華貿物流等共同持股。"
-    },
-    {
-      "id": "te:markets:575357",
-      "time": "2026-08-14 15:45:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Set for End Week Lower — The FTSE 100 traded slightly lower on Friday, extending its losses for a fifth consecutive session, as weakness across mining and pharmaceutical stocks weighed on the index. Lower industrial metal prices pressured miners, with Antofagasta falling more than 4%, while Glencore, Endeavour and Fresnillo each declined by more than 2%. Anglo American also dropped around 1.8%. Pharmaceutical stocks were similarly weak, with AstraZeneca and GSK both losing more than 1%. The declines came despite a relatively stronger performance from energy stocks, with Shell and BP trading slightly higher as oil prices remained supported. Aviva also edged up after the insurer reported a 24% increase in first-half profit compared with the previous year. The company said it remained on track to meet its three-year group targets, providing some support to its shares. For the week, the UK index was down around 1.4%."
-    },
-    {
-      "id": "5040785",
-      "time": "2026-08-14 15:44:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓最大在野黨4名議員涉阻撓拘留尹錫悅被起訴】涉嫌阻撓韓國高階公職人員犯罪調查處（公調處）對前總統尹錫悅執行拘留令的4名最大在野黨國民力量籍議員被起訴。第二期綜合獨立檢察組（獨檢組）14日表示，已以涉嫌動用特殊手段妨害執行公務罪為由，在非羈押狀態下起訴國民力量議員羅景垣、金起炫、尹相現和權泳臻。這4名議員涉嫌於2025年1月15日在總統官邸前同尹錫悅支持者一道組成“人牆”，阻撓公調處和警方對尹錫悅執行拘留令。"
     }
   ]
 }
