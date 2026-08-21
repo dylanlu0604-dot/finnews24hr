@@ -1,7 +1,58 @@
 {
   "date": "2026-08-21",
-  "count": 602,
+  "count": 608,
   "items": [
+    {
+      "id": "mkt:01a021c5-db7d-7aab-90c4-11f77f9ded39",
+      "time": "2026-08-21 08:43:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said the government will monitor government bond market conditions."
+    },
+    {
+      "id": "mkt:01a021c5-bc58-7aab-90c4-0b3220852ffa",
+      "time": "2026-08-21 08:43:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI turned higher after earlier sliding more than 1%."
+    },
+    {
+      "id": "mkt:01a021c5-baf2-7aab-90c4-05e06dc25482",
+      "time": "2026-08-21 08:43:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said measures will be taken to address foreign-exchange market volatility."
+    },
+    {
+      "id": "5050930",
+      "time": "2026-08-21 08:42:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際復材：目前低介電LDK二代產品已進入國內外多家頭部覆銅板廠商供應鏈】國際復材8月20日在機構電話會議上表示，目前低介電LDK二代產品已經進入國內外多家頭部覆銅板廠商供應鏈，實現穩定批次供貨；低膨脹LCTE產品已形成小批次供給，正在有序推進產能提升等相關工作；Q布產品仍處於研發階段，力爭2026年內完成中試專案建設投用。特種電子布在電子布業務收入中已佔有一定比重。後續將持續打磨高階產品效能，穩步推進產能建設與客戶端匯入落地，進一步挖掘高階電子材料賽道的成長空間。"
+    },
+    {
+      "id": "5050929",
+      "time": "2026-08-21 08:42:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 貝恩資本考慮向 JBM 汽車電動車子公司投資 285 億印度盧比。"
+    },
+    {
+      "id": "5050928",
+      "time": "2026-08-21 08:41:01",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國首爾綜指轉漲，此前一度跌超1%。"
+    },
     {
       "id": "5050927",
       "time": "2026-08-21 08:38:58",
