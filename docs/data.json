@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-21 08:00:28",
-  "count": 16041,
+  "updated": "2026-08-21 08:04:36",
+  "count": 16033,
   "items": [
+    {
+      "id": "5050902",
+      "time": "2026-08-21 08:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀河證券：超節點重塑網路架構 關注國內交換機+交換晶片領域龍頭】銀河證券研報認為，AI時代算力叢集的前後端網路組網均拉動大量交換機需求，1.6T埠交換機有望在2027年開始放量，WAIC 2026超節點成為絕對主角，內部互聯頻寬快速演進，埠速率每迭代一次，單臺交換機價值量便有所提升，支撐盈利能力。同時Scale-Up交換機對時延的要求自μs級壓縮至百ns級，設計難度與驗證週期遠超傳統產品，賦予存量玩家持續的議價能力，倒逼產業鏈“卡脖子”環節——交換晶片國產替代加速，疊加海外交換機龍頭業績兌現催化，建議關注國內交換機+交換晶片領域龍頭。"
+    },
+    {
+      "id": "5050901",
+      "time": "2026-08-21 08:02:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長春高新：百克生物參股公司的通用型腫瘤mRNA疫苗（TMT101）正在北京協和醫院開展IIT臨床試驗】長春高新8月20日在機構電話會議上表示，百克生物搭建了包括mRNA疫苗技術平臺在內的多個研發技術平臺，並持續推進mRNA平臺技術拓展應用。截至2026年6月末，百克生物HSV-2疫苗（自研）正在開展I期臨床試驗；百克生物的參股公司傳信生物醫藥（蘇州）有限公司（根據雙方協議約定，在傳信生物滿足相關里程碑條件時，百克生物將最終持有其100%股權）研發的通用型腫瘤mRNA疫苗（TMT101）正在北京協和醫院開展IIT臨床試驗。"
+    },
+    {
+      "id": "mkt:01a021a0-0dce-7aab-90c3-5071aafd44b9",
+      "time": "2026-08-21 08:02:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "South Korea's KOSPI opened down 73.25 points (-1.07%) at 6,779.33 on Aug 21 (Fri)."
+    },
+    {
+      "id": "mkt:01a0219f-7a8e-7aab-90c3-4fe60a7759be",
+      "time": "2026-08-21 08:01:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 639.56 points, or 0.97%, at 65,577.23 on Friday, Aug. 21."
+    },
+    {
+      "id": "mkt:01a0219f-5c8e-7aab-90c3-42c4d38d4431",
+      "time": "2026-08-21 08:01:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan's Nikkei 225 and South Korea's KOSPI open over 1% lower】Japan's Nikkei 225 and South Korea's KOSPI opened more than 1% lower."
+    },
+    {
+      "id": "5050900",
+      "time": "2026-08-21 08:00:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市低開】日經225指數低開1.1%，韓國首爾綜指低開1.4%。"
+    },
+    {
+      "id": "5050899",
+      "time": "2026-08-21 08:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國8月進口20天同比 19%，前值 20%。韓國8月出口20天同比 56%，前值 52.3%。"
+    },
     {
       "id": "5050898",
       "time": "2026-08-21 07:59:36",
@@ -146657,153 +146732,6 @@
         "Greater China"
       ],
       "text": "【Ecuador president Daniel Noboa Azín to make state visit to China】China’s Foreign Ministry said Ecuador President Daniel Noboa Azín will make a state visit to China from Aug 16 to Aug 23 at the invitation of CHINA."
-    },
-    {
-      "id": "5040190",
-      "time": "2026-08-14 08:04:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國多型高階船舶及海工裝備集中交付】據中國船舶工業行業協會訊息，近期我國船舶工業在高階船舶與海工裝備領域再傳捷報，多艘極具特色的船舶及海工裝備相繼交付，標誌著中國在雙向航行自卸船、液氨運輸船、海纜施工船、風電安裝船等細分領域實現重要突破。"
-    },
-    {
-      "id": "5040189",
-      "time": "2026-08-14 08:04:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：算力升級下AI電源或呈現四大趨勢】華泰證券研報稱，在從“向外擴”Scale out走向“向內聚”Scale up的AI超節點機櫃趨勢下，AIDC功率密度迎來非線性增長。隨著下一代機櫃英偉達Kyber和位元組AI Rack 3.0功率突破500kW，在大電流下母線體積和散熱瓶頸或推動800V直流方案從優選走向必選，國內外800V產業化也有望齊頭並進。高密度、低損耗、高可控地送電到晶片訴求提升或帶來四大AI供配電趨勢，即更高電壓、多層備電、模組整合、升級前置。四大趨勢下，能夠提供HVDC/HV IBC的電源廠商有望受益；具備機電撬裝模組能力，以及SST技術積累的公司有望受益；車規400V/800V與AIDC互通性較強，因此相關車規半導體和功率半導體公司也將受益。"
-    },
-    {
-      "id": "mkt:019ffd95-0d1a-7aab-9030-2f0b96c66f08",
-      "time": "2026-08-14 08:03:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "A former senior Japanese foreign-exchange diplomat says the Bank of Japan may raise rates in September and again in December or January."
-    },
-    {
-      "id": "em:qqyh_rbyh:202608143841064481",
-      "time": "2026-08-14 08:03:49",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本前高階外匯外交官：日本央行可能希望最終將利率提高至約1.5%至1.75%】日本前高階外匯外交官稱，如果日元回到7月底協調行動前的水平，日本和美國可能會再次干預。日本央行可能希望最終將利率提高至約1.5%至1.75%。"
-    },
-    {
-      "id": "mkt:019ffd94-f815-7aab-9030-24ed93050b66",
-      "time": "2026-08-14 08:03:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A former senior Japanese foreign-exchange diplomat said the Bank of Japan may seek to eventually raise policy rates to about 1.5-1.75%."
-    },
-    {
-      "id": "5040188",
-      "time": "2026-08-14 08:03:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中外科學家合作觀測到核子內部奇特結構】記者從中國科學技術大學獲悉，該校與美國肯特州立大學、布魯克海文國家實驗室等單位合作，透過高能原子核-原子核對撞實驗中淨重子數和淨電荷數的精確測量發現核子內部存在一種奇特結構。北京時間8月14日凌晨，研究結果發表於國際學術期刊《科學》。(新華社)"
-    },
-    {
-      "id": "5040187",
-      "time": "2026-08-14 08:03:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲6%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608143841062978",
-      "time": "2026-08-14 08:03:29",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【東吳證券：維持美聯儲今年不加息的觀點】東吳證券研報表示，預計2026年第三季度剩餘的通脹資料將延續降溫趨勢，加息預期仍有回吐空間；2027年第二季度美國通脹有望迴歸2%以下。當前交易員定價8月—10月美國CPI同比增速將延續溫和下行，10月觸底2.94%的階段底部。"
-    },
-    {
-      "id": "5040186",
-      "time": "2026-08-14 08:03:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數開盤下跌0.6%，報9,130.50點。"
-    },
-    {
-      "id": "mkt:019ffd94-1524-7aab-9030-1cf0b2b3a47c",
-      "time": "2026-08-14 08:02:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "A former senior Japanese foreign-exchange diplomat said if the yen returns to levels prevailing before the end-July coordinated action, Japan and the United States may intervene again."
-    },
-    {
-      "id": "5040185",
-      "time": "2026-08-14 08:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【厄瓜多總統諾沃亞將訪華】外交部發言人宣佈：應國家主席習近平邀請，厄瓜多共和國總統丹尼爾·羅伊－希爾克里斯特·諾沃亞·阿辛將於8月16日至23日對中國進行國事訪問。"
-    },
-    {
-      "id": "mkt:019ffd93-1fd6-7aab-9030-12ee7a02202f",
-      "time": "2026-08-14 08:01:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened 438.23 points higher, up 0.64%, at 68,746.82 on Aug. 14 (Fri)."
-    },
-    {
-      "id": "5040184",
-      "time": "2026-08-14 08:01:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本前高階外匯外交官表示，日本可能採取更多日元干預措施，日本央行加息步伐或將加快。"
-    },
-    {
-      "id": "5040183",
-      "time": "2026-08-14 08:00:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.7%，至6995.67點。"
-    },
-    {
-      "id": "mkt:019ffd92-4ccc-7aab-9030-0a6afc6fafbb",
-      "time": "2026-08-14 08:00:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korean stocks opened higher: KOSPI +2.68% at the open; Samsung Electronics +2%; SK Hynix +6%."
     }
   ]
 }
