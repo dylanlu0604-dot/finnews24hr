@@ -1,7 +1,42 @@
 {
   "date": "2026-08-22",
-  "count": 310,
+  "count": 314,
   "items": [
+    {
+      "id": "5052846",
+      "time": "2026-08-22 06:16:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮新聞秘書萊維特向記者發表講話。"
+    },
+    {
+      "id": "5052845",
+      "time": "2026-08-22 06:16:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊維特：從白宮卸任後將重返MAGA公司。"
+    },
+    {
+      "id": "5052844",
+      "time": "2026-08-22 06:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "以太坊創日內新高：2546 美元。"
+    },
+    {
+      "id": "te:markets:577370",
+      "time": "2026-08-22 06:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 1.04% — Top currency gainers are Brazilian Real (1.04%), Australian Dollar (0.79%), South Korean Won (0.61%) and British Pound (0.08%). Biggest losers are Turkish Lira (-0.71%) and Dollar Index (-0.08%). Meanwhile, Japanese Yen and Euro were little changed."
+    },
     {
       "id": "5052843",
       "time": "2026-08-22 06:11:45",
