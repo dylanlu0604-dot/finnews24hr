@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-21 23:33:40",
-  "count": 16196,
+  "updated": "2026-08-21 23:37:54",
+  "count": 16195,
   "items": [
+    {
+      "id": "5052597",
+      "time": "2026-08-21 23:36:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：該協議將推出配套 25% 鋼鐵關稅的配額制度。"
+    },
+    {
+      "id": "mkt:01a024f5-a83e-7aab-90d7-e631e6eef00f",
+      "time": "2026-08-21 23:34:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "The Globe and Mail reports the U.S.-Canada trade agreement will introduce a steel quota system."
+    },
+    {
+      "id": "5052596",
+      "time": "2026-08-21 23:34:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國與加拿大（潛在的）貿易協議將引入鋼鐵配額。"
+    },
     {
       "id": "5052595",
       "time": "2026-08-21 23:31:33",
@@ -148361,41 +148389,6 @@
         "公司"
       ],
       "text": "迪士尼執行長：迪士尼為維護新聞操守對抗聯邦通訊委員會（FCC）。"
-    },
-    {
-      "id": "5041812",
-      "time": "2026-08-14 23:37:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【報道：特斯拉最快本月展示具“飛行”能力的Roadster跑車】據The Information援引三名知情人士報道，特斯拉計劃最快本月釋出一款新的Roadster設計，其中將包括“飛行”能力。報道稱，釋出活動將安排一場精心設計的特技演示，展示Roadster限量版車型的飛行能力。該車型由特斯拉與SpaceX合作開發。演示預計將在SpaceX位於德克薩斯州McGregor的測試場進行。不過，報道指出，特斯拉最終會在活動上展示什麼仍存在不確定性。據報道，馬斯克近幾周曾告訴部分特斯拉員工，這項演示難度很高，也可能出現意外，但無論結果如何都會很有娛樂性。"
-    },
-    {
-      "id": "5041811",
-      "time": "2026-08-14 23:35:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【阿里開源Qwen3.8，千問大模型全球下載超30億次】8月14日晚，阿里千問正式開源Qwen3.8系列模型，所有開發者、科研機構和企業均可自由下載、部署和使用。全新開源的Qwen3.8-27B，系原生多模態稠密（Dense）模型，僅270億引數規模，整體水平便超越了Qwen3.7-Plus，在程式設計及辦公的真實場景中表現出色。新模型響應速度快，完成質量高，部署便捷，量化後在“消費級”顯示卡上即可流暢執行，是最受全球AI社群期待的開源模型。Qwen3.8-27B採用寬鬆的Apache2.0協議開源，有望成為本地部署的主力模型。"
-    },
-    {
-      "id": "5041810",
-      "time": "2026-08-14 23:35:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "真主黨秘書長髮表講話。"
-    },
-    {
-      "id": "te:markets:575508",
-      "time": "2026-08-14 23:34:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Extends Gains to 5% This Week — Crude oil rose to $81.8 a barrel on Friday, gaining nearly 5% this week as the US increased economic pressure on Iran to reopen the Strait of Hormuz. Treasury Secretary Scott Bessent said Washington would impose unprecedented economic measures while maintaining its naval blockade of Iranian ports, with further announcements expected next week. The International Energy Agency also warned of a deeper global supply deficit, forecasting the widest shortfall in 2026 in five years. Meanwhile, Iran and Oman have yet to reach an agreement on reopening Hormuz, despite earlier optimism that a deal was close. US officials said American forces are increasing their ability to escort vessels through the strait, although shipping remains risky, with some tankers switching off transponders. In the Red Sea, Iran-backed Houthi militants also targeted Saudi Arabia’s Jazan refinery. Meanwhile, additional Middle Eastern crude is expected to reach the US, offering some relief to low inventories."
     }
   ]
 }

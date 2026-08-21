@@ -1,7 +1,35 @@
 {
   "date": "2026-08-21",
-  "count": 3013,
+  "count": 3016,
   "items": [
+    {
+      "id": "5052597",
+      "time": "2026-08-21 23:36:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：該協議將推出配套 25% 鋼鐵關稅的配額制度。"
+    },
+    {
+      "id": "mkt:01a024f5-a83e-7aab-90d7-e631e6eef00f",
+      "time": "2026-08-21 23:34:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "The Globe and Mail reports the U.S.-Canada trade agreement will introduce a steel quota system."
+    },
+    {
+      "id": "5052596",
+      "time": "2026-08-21 23:34:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國與加拿大（潛在的）貿易協議將引入鋼鐵配額。"
+    },
     {
       "id": "5052595",
       "time": "2026-08-21 23:31:33",
