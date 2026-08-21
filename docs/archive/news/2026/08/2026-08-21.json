@@ -1,7 +1,66 @@
 {
   "date": "2026-08-21",
-  "count": 536,
+  "count": 543,
   "items": [
+    {
+      "id": "5050898",
+      "time": "2026-08-21 07:59:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星股價小幅上漲，此前宣佈至多790億美元的股東回報計劃。"
+    },
+    {
+      "id": "5050897",
+      "time": "2026-08-21 07:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "李寧宣佈中期股息每股0.3512元人民幣，上年同期為0.3359元人民幣。"
+    },
+    {
+      "id": "5050896",
+      "time": "2026-08-21 07:58:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智微智慧：向特定物件發行股票申請獲深交所受理】智微智慧公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。"
+    },
+    {
+      "id": "5050895",
+      "time": "2026-08-21 07:58:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊寶高科：回覆定增稽核問詢函並更新申請檔案】萊寶高科公告稱，公司收到深交所出具的2026年度向特定物件發行A股股票的稽核問詢函後，已會同相關中介機構對問詢函所列問題逐項回覆說明，並對募集說明書等申請檔案進行補充更新，相關內容詳見同日登載於巨潮資訊網的公告。本次定增事項已經公司董事會及股東會審議透過，尚需透過深交所稽核並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。"
+    },
+    {
+      "id": "5050894",
+      "time": "2026-08-21 07:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "李寧上半年淨利潤18.2億元人民幣，上年同期淨利潤為17.4億元人民幣。"
+    },
+    {
+      "id": "5050893",
+      "time": "2026-08-21 07:57:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "李寧：上半年營收152.35億元人民幣，上年同期為148.2億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0219a-94b0-7aab-90c3-3fbb5f2d4839",
+      "time": "2026-08-21 07:56:13",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung to unveil shareholder return plan potentially up to 110 trillion won ($79bn)】People familiar with the matter said Samsung Electronics will announce on Friday a shareholder return plan that could reach 110 trillion won (about $79 billion). The board is scheduled to meet after the KOSPI close at around 4:00 p.m. local time, with details expected shortly after. The plan’s size is said to be likely between 90 trillion and 110 trillion won."
+    },
     {
       "id": "mkt:01a02199-5543-7aab-90c3-30728d11dd49",
       "time": "2026-08-21 07:54:51",
