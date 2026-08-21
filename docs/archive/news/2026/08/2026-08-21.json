@@ -1,7 +1,166 @@
 {
   "date": "2026-08-21",
-  "count": 2931,
+  "count": 2949,
   "items": [
+    {
+      "id": "5052560",
+      "time": "2026-08-21 22:37:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "莫德納（Moderna）漲幅擴大至20%，公司近期mRNA腫瘤疫苗Ⅲ期臨床取得積極進展。"
+    },
+    {
+      "id": "5052559",
+      "time": "2026-08-21 22:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMINEX：爭議通知涉及 APT 被指違反 2026 年恩托里亞天然氣開發專案相關約定。"
+    },
+    {
+      "id": "mkt:01a024c0-5bb5-7aab-90d7-07fcf5538d97",
+      "time": "2026-08-21 22:36:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Ken Griffin has cut risk exposure in his original portfolio by more than 80%."
+    },
+    {
+      "id": "5052558",
+      "time": "2026-08-21 22:36:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里芬：已剝離原有投資組合超 80% 的風險敞口。"
+    },
+    {
+      "id": "mkt:01a024bf-37f8-7aab-90d6-fb39b78a9dbd",
+      "time": "2026-08-21 22:35:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNBC, Ken Griffin said he has completed nearly 100 block trades totaling more than $4 billion."
+    },
+    {
+      "id": "5052557",
+      "time": "2026-08-21 22:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：吉姆·奧尼爾拒絕擔任英國首相伯納姆政府職務。"
+    },
+    {
+      "id": "5052556",
+      "time": "2026-08-21 22:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "Citadel創始人兼執行長肯·格里芬： 已完成近 100 筆大宗交易，總規模超 40 億美元。"
+    },
+    {
+      "id": "mkt:01a024be-e947-7aab-90d6-f66526874d43",
+      "time": "2026-08-21 22:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports Jim O'Neill has declined to serve in Prime Minister Burnham's government."
+    },
+    {
+      "id": "mkt:01a024be-5108-7aab-90d6-e90089cda52a",
+      "time": "2026-08-21 22:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNBC, Citadel founder and CEO Ken Griffin sent investors a letter on Situational Awareness."
+    },
+    {
+      "id": "te:markets:577323",
+      "time": "2026-08-21 22:33:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises for 2nd Day, Still Posts Weekly Loss — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Friday, rising by 1.8% to 2,841 points, driven by gains across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also gained for a second day, climbing by 2.8% to 4,552 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, snapped a seven-day losing streak, up 0.7% to 2,108 points. Among smaller vessels, the supramax index rose to fresh July highs. The benchmark index recorded a weekly decline of 0.8%."
+    },
+    {
+      "id": "mkt:01a024bd-2923-7aab-90d6-e04757e7ab31",
+      "time": "2026-08-21 22:32:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bearish"
+      ],
+      "text": "Alibaba (BABA.N) down more than 7%."
+    },
+    {
+      "id": "5052555",
+      "time": "2026-08-21 22:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【跨維智慧公佈具身技術全場景落地方案】8月21日，在2026世界機器人大會（WRC）期間，跨維智慧釋出了從自研模擬基礎設施到多場景機器人落地方案的閉環技術能力，覆蓋工業製造、商業服務等行業，包括其與藍思科技聯合打造的人形機器人手機流水線質檢產線真實落地方案、模擬引擎 DexVerse™ 與生成式模擬技術展示、迭代升級後的機器人商超零售掃碼分揀方案等，據悉，跨維智慧與藍思科技已建立深度戰略合作，涵蓋機器人應用和生產製造等場景。"
+    },
+    {
+      "id": "mkt:01a024bc-daa4-7aab-90d6-dbae879e8433",
+      "time": "2026-08-21 22:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said Israel will continue to take tough action against Turkey's attempts to undermine regional stability."
+    },
+    {
+      "id": "5052554",
+      "time": "2026-08-21 22:32:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【阿里巴巴跌逾7% Q1淨利潤低於預期】阿里巴巴ADR跌逾7%，報120.8美元。訊息面上，8月20日盤後，阿里巴巴釋出2027財年第一季度財報，調整後淨利潤207.2億元，低於市場預估的255.8億元。"
+    },
+    {
+      "id": "5052553",
+      "time": "2026-08-21 22:30:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "玻利維亞國會透過譴責動議後，財政部長遭撤換。玻利維亞任命奧斯卡·馬里奧·胡斯蒂尼亞諾為臨時財政部長。"
+    },
+    {
+      "id": "mkt:01a024b8-cc24-7aab-90d6-d6e3205d5670",
+      "time": "2026-08-21 22:28:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports 12 Arab and Islamic countries condemned an Israeli airstrike on Syria's Abu Zuhur airbase."
+    },
+    {
+      "id": "mkt:01a024b7-8194-7aab-90d6-ceec7d16143e",
+      "time": "2026-08-21 22:26:41",
+      "tags": [
+        "MKT News",
+        "MRK.N",
+        "Impact bullish"
+      ],
+      "text": "Merck (MRK.N) shares climbed as much as 3.7% intraday, surpassing the record high set on Wednesday."
+    },
+    {
+      "id": "5052552",
+      "time": "2026-08-21 22:26:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞典一學校發生襲擊事件 有人員受傷】當地時間21日，瑞典法格什塔地區有關部門在一份宣告中表示，當天，一名襲擊者持劍闖入一所學校，造成多人受傷。據悉，目前嫌疑人已被警方拘留。（央視新聞）"
+    },
     {
       "id": "mkt:01a024b7-12e6-7aab-90d6-c2025d734322",
       "time": "2026-08-21 22:26:12",

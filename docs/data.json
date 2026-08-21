@@ -1,7 +1,166 @@
 {
-  "updated": "2026-08-21 22:27:33",
-  "count": 16231,
+  "updated": "2026-08-21 22:38:47",
+  "count": 16229,
   "items": [
+    {
+      "id": "5052560",
+      "time": "2026-08-21 22:37:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "莫德納（Moderna）漲幅擴大至20%，公司近期mRNA腫瘤疫苗Ⅲ期臨床取得積極進展。"
+    },
+    {
+      "id": "5052559",
+      "time": "2026-08-21 22:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMINEX：爭議通知涉及 APT 被指違反 2026 年恩托里亞天然氣開發專案相關約定。"
+    },
+    {
+      "id": "mkt:01a024c0-5bb5-7aab-90d7-07fcf5538d97",
+      "time": "2026-08-21 22:36:21",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Ken Griffin has cut risk exposure in his original portfolio by more than 80%."
+    },
+    {
+      "id": "5052558",
+      "time": "2026-08-21 22:36:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里芬：已剝離原有投資組合超 80% 的風險敞口。"
+    },
+    {
+      "id": "mkt:01a024bf-37f8-7aab-90d6-fb39b78a9dbd",
+      "time": "2026-08-21 22:35:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNBC, Ken Griffin said he has completed nearly 100 block trades totaling more than $4 billion."
+    },
+    {
+      "id": "5052557",
+      "time": "2026-08-21 22:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：吉姆·奧尼爾拒絕擔任英國首相伯納姆政府職務。"
+    },
+    {
+      "id": "5052556",
+      "time": "2026-08-21 22:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "Citadel創始人兼執行長肯·格里芬： 已完成近 100 筆大宗交易，總規模超 40 億美元。"
+    },
+    {
+      "id": "mkt:01a024be-e947-7aab-90d6-f66526874d43",
+      "time": "2026-08-21 22:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports Jim O'Neill has declined to serve in Prime Minister Burnham's government."
+    },
+    {
+      "id": "mkt:01a024be-5108-7aab-90d6-e90089cda52a",
+      "time": "2026-08-21 22:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNBC, Citadel founder and CEO Ken Griffin sent investors a letter on Situational Awareness."
+    },
+    {
+      "id": "te:markets:577323",
+      "time": "2026-08-21 22:33:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises for 2nd Day, Still Posts Weekly Loss — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Friday, rising by 1.8% to 2,841 points, driven by gains across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also gained for a second day, climbing by 2.8% to 4,552 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, snapped a seven-day losing streak, up 0.7% to 2,108 points. Among smaller vessels, the supramax index rose to fresh July highs. The benchmark index recorded a weekly decline of 0.8%."
+    },
+    {
+      "id": "mkt:01a024bd-2923-7aab-90d6-e04757e7ab31",
+      "time": "2026-08-21 22:32:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bearish"
+      ],
+      "text": "Alibaba (BABA.N) down more than 7%."
+    },
+    {
+      "id": "5052555",
+      "time": "2026-08-21 22:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【跨維智慧公佈具身技術全場景落地方案】8月21日，在2026世界機器人大會（WRC）期間，跨維智慧釋出了從自研模擬基礎設施到多場景機器人落地方案的閉環技術能力，覆蓋工業製造、商業服務等行業，包括其與藍思科技聯合打造的人形機器人手機流水線質檢產線真實落地方案、模擬引擎 DexVerse™ 與生成式模擬技術展示、迭代升級後的機器人商超零售掃碼分揀方案等，據悉，跨維智慧與藍思科技已建立深度戰略合作，涵蓋機器人應用和生產製造等場景。"
+    },
+    {
+      "id": "mkt:01a024bc-daa4-7aab-90d6-dbae879e8433",
+      "time": "2026-08-21 22:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister NETANYAHU said Israel will continue to take tough action against Turkey's attempts to undermine regional stability."
+    },
+    {
+      "id": "5052554",
+      "time": "2026-08-21 22:32:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【阿里巴巴跌逾7% Q1淨利潤低於預期】阿里巴巴ADR跌逾7%，報120.8美元。訊息面上，8月20日盤後，阿里巴巴釋出2027財年第一季度財報，調整後淨利潤207.2億元，低於市場預估的255.8億元。"
+    },
+    {
+      "id": "5052553",
+      "time": "2026-08-21 22:30:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "玻利維亞國會透過譴責動議後，財政部長遭撤換。玻利維亞任命奧斯卡·馬里奧·胡斯蒂尼亞諾為臨時財政部長。"
+    },
+    {
+      "id": "mkt:01a024b8-cc24-7aab-90d6-d6e3205d5670",
+      "time": "2026-08-21 22:28:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports 12 Arab and Islamic countries condemned an Israeli airstrike on Syria's Abu Zuhur airbase."
+    },
+    {
+      "id": "mkt:01a024b7-8194-7aab-90d6-ceec7d16143e",
+      "time": "2026-08-21 22:26:41",
+      "tags": [
+        "MKT News",
+        "MRK.N",
+        "Impact bullish"
+      ],
+      "text": "Merck (MRK.N) shares climbed as much as 3.7% intraday, surpassing the record high set on Wednesday."
+    },
+    {
+      "id": "5052552",
+      "time": "2026-08-21 22:26:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞典一學校發生襲擊事件 有人員受傷】當地時間21日，瑞典法格什塔地區有關部門在一份宣告中表示，當天，一名襲擊者持劍闖入一所學校，造成多人受傷。據悉，目前嫌疑人已被警方拘留。（央視新聞）"
+    },
     {
       "id": "mkt:01a024b7-12e6-7aab-90d6-c2025d734322",
       "time": "2026-08-21 22:26:12",
@@ -148515,188 +148674,6 @@
         "國際"
       ],
       "text": "根據美國證券交易委員會（SEC）檔案披露：穆巴達拉投資公司（Mubadala Investment Co PJSC）持有英偉達公司（NVIDIA Corporation）65,326股股份。"
-    },
-    {
-      "id": "5041751",
-      "time": "2026-08-14 22:38:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "NHC：HERNAN 觀察到對流略有增強。"
-    },
-    {
-      "id": "5041750",
-      "time": "2026-08-14 22:38:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家鑄幣廠：第二季度營收為3.06億加元，虧損1530萬加元。"
-    },
-    {
-      "id": "5041749",
-      "time": "2026-08-14 22:37:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "智利中央銀行以平均每盎司912.84智利比索的價格賣出6700萬美元外匯遠期合約。"
-    },
-    {
-      "id": "5041748",
-      "time": "2026-08-14 22:37:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩位美國高階官員表示，雖然特朗普在個人層面上喜歡內塔尼亞胡，但他對其決定和政策感到沮喪。"
-    },
-    {
-      "id": "5041747",
-      "time": "2026-08-14 22:36:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpacXAI：歡迎Cursor加入 SpaceXAI 團隊！ Cursor 將幫助我們更快地邁向世界上最有用的 AI 的道路，從軟體工程開始，並擴充套件到知識工作。"
-    },
-    {
-      "id": "5041746",
-      "time": "2026-08-14 22:35:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星星科技：現階段暫無佈局機器人業務的相關計劃】星星科技在互動平臺表示，公司現階段暫無佈局機器人業務的相關計劃，業務拓展存在不確定性。"
-    },
-    {
-      "id": "5041745",
-      "time": "2026-08-14 22:35:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國24小時內兩列車脫軌】最新訊息：據英國媒體報道，英國今天（8月14日）又發生一起列車脫軌事件：一輛大盎格利亞鐵路公司的列車在埃塞克斯郡的威克福德附近脫軌。（CCTV國際時訊）"
-    },
-    {
-      "id": "5041744",
-      "time": "2026-08-14 22:34:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "據訊息人士透露，路易吉·曼喬內預計將於週五對聯邦指控認罪，這些指控指控他跟蹤並殺害 UnitedHealthcare 執行長布賴恩·湯普森。"
-    },
-    {
-      "id": "5041743",
-      "time": "2026-08-14 22:34:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年前7個月吉爾吉斯斯坦經濟增長11.1%】吉爾吉斯斯坦國家統計委員會14日釋出資料顯示，據初步估算，2026年1月至7月，吉國內生產總值為11727億索姆（約合134億美元），同比增長11.1%。今年前7個月，服務業、商品生產和產品淨稅分別佔吉國內生產總值49.8%、34.2%和16%。"
-    },
-    {
-      "id": "mkt:01a000b1-7509-7aab-9041-22e55e92d2a3",
-      "time": "2026-08-14 22:33:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Thrive Capital, led by U.S. businessman Joshua Kushner, bought about $215 million of Amazon shares, reinforcing the venture firm's strategy of investing in public companies."
-    },
-    {
-      "id": "5041742",
-      "time": "2026-08-14 22:33:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅太陽：2025年百草枯業務佔公司整體業務比例為46%】紅太陽在互動平臺表示，全球百草枯市場供需格局正處於調整期，公司將密切關注相關政策法規變化及市場走勢，及時評估對公司經營的潛在影響。關於百草枯排產及銷售情況，2025年百草枯業務佔公司整體業務比例為46%，主要銷往南北美洲、非洲、澳洲、東南亞等地區。公司將持續推進產品結構最佳化和產業升級，加快L-草銨膦、綠草定、氟吡菌醯胺、生物農藥等系列產品的發展，並加快敵草快二氯鹽、氯蟲苯甲醯胺等新產品的海外登記，提升公司綜合競爭力和抗風險能力。"
-    },
-    {
-      "id": "5041741",
-      "time": "2026-08-14 22:33:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：將8月15日美元兌盧布官方匯率設定為1美元兌換84.5449盧布，前一交易日匯率為1美元兌換83.8058盧布。"
-    },
-    {
-      "id": "mkt:01a000af-9956-7aab-9041-1d6c8c97ea07",
-      "time": "2026-08-14 22:31:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BBC reports all rail services from Southend to London have been cancelled."
-    },
-    {
-      "id": "5041740",
-      "time": "2026-08-14 22:31:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【給阿嬤的情書北美定檔9月4日】中國電影《給阿嬤的情書》北美定檔9月4日，北美時間今日，美版預告片釋出。《給阿嬤的情書》上映後熱度持續攀升，影片帶著僑批背後的故土情懷走向世界。央視財經記者瞭解到，《給阿嬤的情書》已陸續登陸新加坡、馬來西亞、澳大利亞、菲律賓、印尼等多個海外院線市場，其中新加坡首映的潮汕方言版場次開票1.5小時便迅速售罄。據悉，該影片金鑰已再次延期至8月31日。（央視財經）"
-    },
-    {
-      "id": "mkt:01a000af-26f8-7aab-9041-15081ff63504",
-      "time": "2026-08-14 22:31:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BBC reports UK traffic police are responding to reports of a partial train derailment in Essex."
-    },
-    {
-      "id": "5041739",
-      "time": "2026-08-14 22:30:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "隨著前特朗普政府官員加入董事會，標準核能公司股價上漲。"
-    },
-    {
-      "id": "5041738",
-      "time": "2026-08-14 22:30:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "派拉蒙天空舞蹈公司股價已連續11個交易日上漲，有望創下2021年2月以來最長連漲走勢。"
-    },
-    {
-      "id": "mkt:01a000ac-95c6-7aab-9041-0d8e2fd7912d",
-      "time": "2026-08-14 22:28:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Dollar set for sixth weekly drop as rate-hike bets cool】DXY slid to its lowest since May after U.S. retail sales unexpectedly weakened, prompting traders to pare back expectations for a rate hike this year. Bond traders also pulled back wagers that the Fed will raise rates in 2026—a tightening narrative that had supported the dollar. The move leaves the dollar poised for its sixth weekly decline in seven weeks; last Friday’s soft labor market report and this week’s mild inflation prints added to the weakness."
-    },
-    {
-      "id": "5041737",
-      "time": "2026-08-14 22:27:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國檢察官珍妮·皮羅宣佈逮捕一名涉嫌在華盛頓特區破壞二戰紀念碑的嫌疑人，她在社交媒體帖子中表示，她的辦公室對一名女性提起了兩項重罪指控，刑罰為“最高十年監禁”。"
-    },
-    {
-      "id": "mkt:01a000ab-e041-7aab-9041-01107b9db324",
-      "time": "2026-08-14 22:27:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【Weak retail sales dent Fed hike bets; short-dated USTs rally】Short-dated U.S. Treasuries rallied after weak July retail sales further eroded market expectations for Fed rate hikes in coming months, pushing the two-year yield briefly below 4.10%, its lowest since June 30. The move was concentrated in the policy-sensitive short end; 10- and 30-year yields ticked slightly higher. BMO Capital Markets U.S. rates strategist Ian Lyngen called the print a troubling update on consumer health and said it strengthens the case for the Fed to pause next month. Short-term rate contracts show traders scaling back bets on a September hike and on more than one hike by mid-2027. The pullback in tightening expectations accelerated over the past week after weak July payrolls on Aug. 7 and was reinforced this week by moderate July CPI and PPI readings."
     }
   ]
 }
