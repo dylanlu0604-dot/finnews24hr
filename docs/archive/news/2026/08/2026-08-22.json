@@ -1,7 +1,70 @@
 {
   "date": "2026-08-22",
-  "count": 56,
+  "count": 63,
   "items": [
+    {
+      "id": "mkt:01a02540-e3c5-7aab-90d8-f85da9a4e439",
+      "time": "2026-08-22 00:56:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US congressional documents show the government plans to pay $725 million to settle arrears owed to the United Nations."
+    },
+    {
+      "id": "5052637",
+      "time": "2026-08-22 00:56:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安理會舉行聯合國秘書長遴選第二輪意向性投票】聯合國安理會21日就下一任秘書長遴選舉行第二輪意向性投票。安理會當月輪值主席、丹麥常駐聯合國代表克里斯蒂娜·拉森在投票結束後說，投票結果將透過候選人推舉國通知各候選人。意向性投票結果不對外公佈。（新華社）"
+    },
+    {
+      "id": "mkt:01a02540-2bed-7aab-90d8-f6e120a04e15",
+      "time": "2026-08-22 00:55:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UN Security Council holds second-round straw vote for next secretary-general】The UN Security Council held a second-round straw vote on the 21st for the next UN secretary-general. Council president Kristina Larsen, Denmark’s permanent UN representative, said results will be communicated to candidate states; straw-vote outcomes are not released publicly."
+    },
+    {
+      "id": "mkt:01a0253f-c09f-7aab-90d8-ef2839fa9b1c",
+      "time": "2026-08-22 00:55:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Ukraine says Russian drone strike on Kryvyi Rih shopping centre kills 6, wounds 96】Dnipropetrovsk Oblast military administration head Ganza said on the 21st that a shopping centre in Kryvyi Rih was struck by Russian military drones, killing 6 and raising the injured to 96. Earlier the Office of the Prosecutor General said at about 16:30 Russian drones hit the mall twice. Russia did not immediately respond."
+    },
+    {
+      "id": "5052636",
+      "time": "2026-08-22 00:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱一購物中心遭俄無人機襲擊 致多人死傷】當地時間21日，烏克蘭第聶伯羅彼得羅夫斯克州軍事管理局局長甘扎表示，克里維裡赫（俄方稱“克里沃伊羅格”）一座購物中心遭俄軍無人機襲擊，已導致6人死亡，受傷人數增至96人。當天早些時候，烏克蘭總檢察長辦公室通報稱，當日16時30分左右，俄軍無人機兩次襲擊克里維裡赫一購物中心。俄方對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0253d-c236-7aab-90d8-e19c4938a49f",
+      "time": "2026-08-22 00:53:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump pushes for Greenland rare earths; U.S.-listed Critical Metals says Greenland project on track for 2029】Critical Metals CEO Tony Sage said the Tanbreez rare-earth project in Greenland is proceeding on schedule and is expected to begin production within three years, targeting a 2029 start. The U.S.-listed company said it has local community and government support. To ease local concerns and house mine staff, the company bought a cruise ship that is due on site within two months. The project has drawn sustained attention over the past 18 months amid President Trump’s push to secure critical minerals, including rare earths, and his previous threats to pursue acquisition of Greenland."
+    },
+    {
+      "id": "5052635",
+      "time": "2026-08-22 00:53:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲179美元，報14216美元/噸。LME期鋁收漲32美元，報3238美元/噸。LME期鋅收漲63美元，報3823美元/噸。LME期鉛收跌4美元，報1898美元/噸。LME期鎳收漲178美元，報17058美元/噸。LME期錫收漲88美元，報55891美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "mkt:01a0253a-cd6c-7aab-90d8-dee41c9dad91",
       "time": "2026-08-22 00:50:05",
