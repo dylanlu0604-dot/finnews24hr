@@ -1,7 +1,88 @@
 {
   "date": "2026-08-21",
-  "count": 903,
+  "count": 912,
   "items": [
+    {
+      "id": "5051140",
+      "time": "2026-08-21 10:45:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團外賣上線“商場店”“商業街店”等標籤】美團外賣部分商家頁面增加了“商場店”“商業街店”“平臺巡檢過”等經營標籤。據美團方面透露，截至今年8月，美團上已有超20萬家商家展示“商場店”標籤，4.5萬家商家展示“商業街店”標籤。新標籤主要用於商場檔口、商業街櫃檯及使用公共就餐區等難以簡單歸入傳統“堂食店”或“無堂食店”的經營場景，幫助消費者在下單前瞭解門店位置、經營環境和就餐條件。（介面新聞）"
+    },
+    {
+      "id": "5051139",
+      "time": "2026-08-21 10:45:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【成渝中線高鐵全線首條接觸網導線成功架設】8月21日，由中國中鐵電氣化局集團承建的成渝中線高鐵全線首條接觸網導線成功架設，標誌著成渝中線高鐵“四電”工程正式進入攻堅階段。成渝中線高鐵是我國“八縱八橫”高鐵網沿江通道的重要組成部分，正線全長292公里，設計時速350公里。"
+    },
+    {
+      "id": "mkt:01a02234-ed39-7aab-90c6-ba3a384fd1d4",
+      "time": "2026-08-21 10:44:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Railway Signal & Communication low‑altitude unit in consortium wins Taiyuan 'One‑Net Unified Flight' platform (phase I)】China Railway Signal & Communication's low‑altitude unit, as part of a consortium, won the contract to deliver phase I of Taiyuan's low‑altitude flight‑control service platform — the municipal 'One‑Net Unified Flight' operations platform. The company will provide its self‑developed low‑altitude sensing equipment and stream perception data in real time to the platform to support municipal inspections, emergency response and other urban governance functions."
+    },
+    {
+      "id": "5051138",
+      "time": "2026-08-21 10:44:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MINIMAX漲超7% 公司近日推出MiniMaxDesign】截至發稿，MINIMAX-W(00100.HK)漲7.09%。訊息方面，該公司近日推出MiniMaxDesign。MiniMaxDesign是一款把多模態模型能力變成真實可用的生產力的Harness。"
+    },
+    {
+      "id": "mkt:01a02234-37b4-7aab-90c6-b59f9e6c1606",
+      "time": "2026-08-21 10:44:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a magnitude-4.3 earthquake in Flores, Indonesia, at a depth of 10.0 km."
+    },
+    {
+      "id": "5051137",
+      "time": "2026-08-21 10:43:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報68.81美元/盎司。"
+    },
+    {
+      "id": "mkt:01a02233-eeb2-7aab-90c6-ad03a2499e24",
+      "time": "2026-08-21 10:43:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday gain widened to 1.0%, trading at $68.77/oz."
+    },
+    {
+      "id": "5051136",
+      "time": "2026-08-21 10:43:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國通號低空公司聯合中標太原市低空政務“一網統飛”作業平臺專案】據中國通號訊息，近日，中國通號低空公司以聯合體形式，成功中標太原市低空飛行管控服務平臺（一期）——太原市低空政務“一網統飛”作業平臺專案。中國通號將為專案提供自研低空感知裝置，感知資料可實時接入“一網統飛”平臺，為市政巡查、應急處置等城市治理場景提供技術支撐。"
+    },
+    {
+      "id": "mkt:01a02232-9c02-7aab-90c6-a22f0e5d07ee",
+      "time": "2026-08-21 10:42:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "A-share precious metals sector extended gains; Hunan Silver hit the daily limit. Zhaojin Gold, Xiaocheng Technology, Zhongjin Gold, Shandong Gold and Xingye Silver-Tin also rose."
+    },
     {
       "id": "5051135",
       "time": "2026-08-21 10:41:32",
