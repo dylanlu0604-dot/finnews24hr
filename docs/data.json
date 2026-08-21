@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-21 14:38:26",
-  "count": 16029,
+  "updated": "2026-08-21 14:42:34",
+  "count": 16030,
   "items": [
+    {
+      "id": "5051414",
+      "time": "2026-08-21 14:41:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【關鍵社交平臺成癮訴訟原告撤訴，10月仍有兩案待審】根據一份法庭檔案，一名曾被視為社交平臺成癮訴訟標杆案件的少女原告，於當地時間週四撤銷了對Instagram、Facebook、YouTube及Snapchat母公司提起的訴訟。該案原指控這些科技企業蓄意使青少年沉迷其產品，進而誘發心理健康危機。這位來自新澤西州的15歲女孩(在加州法院記錄中以化名P. M-Y.標識)此前訴稱，Meta Platforms、谷歌)及Snap的平臺設計加劇了她的社交媒體成癮、抑鬱情緒及自傷行為。三家企業均表示，原告是無任何經濟補償條件下撤訴。其案件中的另一被告TikTok此前已與她達成和解。"
+    },
+    {
+      "id": "5051413",
+      "time": "2026-08-21 14:40:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "比特幣攀升至12周高點75669美元。"
+    },
+    {
+      "id": "5051411",
+      "time": "2026-08-21 14:38:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新石器無人車等在陝西成立新公司 註冊資本500萬】天眼查工商資訊顯示，新石器辰和（陝西）科技有限公司成立，法定代表人為周軍，註冊資本500萬人民幣，經營範圍包括公共安全管理諮詢服務、安防裝置製造、安防裝置銷售等，由辰和智通（西安）科技有限公司、陳飛、新石器慧研（深圳）科技有限公司共同持股。"
+    },
+    {
+      "id": "5051410",
+      "time": "2026-08-21 14:38:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達50億港元。"
+    },
     {
       "id": "5051409",
       "time": "2026-08-21 14:37:33",
@@ -146759,33 +146792,6 @@
         "焦點"
       ],
       "text": "乙二醇連續主力合約日內漲2%，現報4959.00元。"
-    },
-    {
-      "id": "5040681",
-      "time": "2026-08-14 14:42:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗：長和上半年業績穩健，目標價升至89港元】花旗發表研報指，長和上半年業績穩健，純利同比大增逾30倍至逾268億港元，撇除一次性專案及英國電訊業務的核心盈利同比增長7%至125.81億港元，達到該行對全年盈利預測的約56%，認為長和在當前艱難經營環境下擁有多元化業務優勢。受惠長建出售英國鐵路及英國電網權益，期內集團淨負債對淨總資本比率降至8.1%的歷史新低。今年7月完成出售VodafoneThree 49%權益再套現43億英鎊，花旗相信長和資產負債率可進一步下降。但對如何部署累積的現金缺乏清晰說明略感失望，繼續維持NAV約49%折讓，隨著估值延伸至2027年，NAV由150.44港元上調至175港元，目標價則由81.5港元上調至89港元，維持“買入”評級。"
-    },
-    {
-      "id": "mkt:019fff00-301c-7aab-9037-8715b5a76115",
-      "time": "2026-08-14 14:40:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Goldman Sachs economist: large-scale AI job losses in India unlikely】Goldman Sachs' India chief economist Santanu Sengupta said India is unlikely to see widespread unemployment from AI, though some service-sector roles could be affected. He cited India's very large labor force and the high share employed in manual or physical jobs; construction and retail account for roughly 40% of the workforce and so far AI has had limited impact on those sectors. Goldman Sachs estimates that pacing AI deployment could mitigate employment shocks and that AI might raise aggregate productivity by about 0.4 percentage points over the next 10 years."
-    },
-    {
-      "id": "mkt:019ffeff-1fa7-7aab-9037-7bd684dd5995",
-      "time": "2026-08-14 14:39:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Goldman Sachs says some roles in India’s services sector could be affected by AI, but widespread unemployment of the Indian workforce is unlikely."
     }
   ]
 }
