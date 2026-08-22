@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 20:54:05_
-_本檔包含 3259 則快訊，約 651071 字_
+_更新時間：2026-08-22 21:39:20_
+_本檔包含 3260 則快訊，約 651261 字_
+
+---
+
+### 2026-08-20 08:11:18  #觀點
+
+【中信證券：預計耐心資本制度將持續夯實】中信證券研報指出，股權市場全鏈條生態正在發生顯著變化：LP結構演變，從“雙輪驅動”到“單極時代”，從“財務回報”到“耐心資本”；GP能力重構，從“財務投資人”到“產業組織者”，從“被動退出”到“主動管理”；投資正規化重塑，從“模式創新”到“科技創新”，從“IRR敘事”到“DPI指標”；退出渠道迭代，從“IPO獨木橋”到“多元退出試水”，從“名義退出”到“實際兌現”。展望未來，預計耐心資本制度將持續夯實，GP格局將持續優勝劣汰，政府投資基金進入存量最佳化階段，投資理念更趨穩健審慎，超額收益來源將從“主題共識博弈”轉向“產業鏈前瞻佈局”，退出端的多元格局也將日趨完善。
+
+---
+
+### 2026-08-20 08:11:01  #MKT News #Macro & Rates #Treasury Yields
+
+Japan's 20-year bond yield fell 7.5 bps to 3.700%.
+
+---
+
+### 2026-08-20 08:10:40  #MKT News #Market Themes #Chip Wars #AMAT.O #Impact bullish #LRCX.O #ASML.AS
+
+【CITIC Securities: global semiconductor equipment upcycle confirmed; monitor overseas expansion】CITIC Securities research says the global semiconductor equipment upcycle remains intact and flags Chinese suppliers’ overseas expansion. SEMI updated its outlook, forecasting sustained growth through 2026–28: global semiconductor manufacturing equipment sales are forecast at $165.9bn in 2026 (+23.2% YoY) and could reach a record $229.5bn by 2028, marking five consecutive years of growth. The industry is experiencing a rare, full-chain price upswing across equipment components, with pricing power structurally shifting from chips to equipment and parts. Component vendors, typically smaller with high fixed costs, should see price rises flow rapidly to margins, while capacity expansion lead times of 12–18 months leave supply relatively inelastic.
+
+---
+
+### 2026-08-20 08:10:35  #公司
+
+【帝爾鐳射：TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高】帝爾鐳射8月19日在機構電話會議表示，TGV相關應用目前主要包括先進封裝玻璃基板通孔、FAU及光通訊玻璃無源器件等方向。玻璃基板在表面平整度、熱膨脹匹配和高頻訊號傳輸等方面具備優勢，未來有望在先進封裝、RDL、CPO、新型顯示、射頻器件和功率器件等領域應用。從產業進展看，公司TGV裝置已覆蓋晶圓級和麵板級應用，並持續與不同區域、不同型別客戶開展合作。玻璃基板方向已有客戶復購需求。總體來看，TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高。
+
+---
+
+### 2026-08-20 08:10:29  #MKT News #Market Regions
+
+Australia's S&P/ASX 200 opened 41.50 points higher, up 0.46%, at 9,095.30 on Thursday, Aug. 20.
+
+---
+
+### 2026-08-20 08:10:06  #觀點
+
+【中信證券：優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期】中信證券研報指出，隨著公募REITs市場業態型別和底層資產持續擴容，中信證券認為市場將不斷湧現結構性的投資機會，透過對於底層資產供求、運營等方向的研究，可以有效提升投資勝率。當前時點，中信證券認為優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期。
+
+---
+
+### 2026-08-20 08:08:03  #公司 #國際
+
+【勁方醫藥：GFH375兩款胰腺癌聯合療法進入II期研究】勁方醫藥公告稱，公司GFH375（口服KRAS G12D ON/OFF抑制劑）的三臂平行對照II期臨床研究已啟動，將開展兩款聯合療法對照單藥治療KRAS G12D突變型經治區域性晚期不可切除或轉移性胰腺癌的研究，兩款方案分別為GFH375聯合惡病質雙抗GFS202A、GFH375聯合泛RAS ON抑制劑GFH276。該研究為多中心、開放標籤、隨機對照研究，牽頭中心為上海交通大學醫學院附屬瑞金醫院，將在中國大陸數十家中心開展。GFH375已於2026年2月獲中國單藥治療相關轉移性胰腺癌突破性療法認定，2025年獲美國FDA快速通道資格認定。
+
+---
+
+### 2026-08-20 08:07:50  #公司 #市場
+
+【長江和記實業：就巴拿馬港口事項啟動國際仲裁】長江和記實業有限公司公告稱，因多番嘗試尋求解決方案未果，公司於2026年8月20日就巴拿馬違反投資保護條約啟動國際仲裁程式，相關違約源自巴拿馬2025年及2026年採取的一系列措施，最終導致巴拿馬破壞巴爾博亞港及克里斯托瓦爾港的特許經營合約並強行接管港口碼頭。公司就其在巴拿馬的投資遭受破壞，索償超過15億美元。公司附屬公司巴拿馬港口公司將繼續根據特許經營合約及國際商會仲裁規則，在其分別展開的仲裁下維護自身不同權利。
+
+---
+
+### 2026-08-20 08:06:48  #其他
+
+【國家醫保局對“藥品限二線使用”規則對應部分知識點進行調整】智慧監管“兩庫”釋出以來，受到了社會各界的普遍歡迎和關注，近期，我們收到了一些對智慧監管“兩庫”的意見建議。經研究，現就“藥品限二線使用”規則對應的部分知識點調整如下：一是增加阿布昔替尼片、昂戈瑞西單抗注射液、吡洛西利片、司普奇拜單抗注射液、替爾泊肽注射液、鹽酸替那帕諾片、伊努西單抗注射液、英克司蘭鈉注射液等8種藥品。二是刪除賽沃替尼片。
+
+---
+
+### 2026-08-20 08:06:28  #MKT News #Macro & Rates #USDJPY
+
+Japan 10-year bond yield fell 4.5 bps to 2.845%.
+
+---
+
+### 2026-08-20 08:06:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【China International Capital Co: A-share recovery since end-July likely to continue】China International Capital Co said external narratives driving the market remain short-term and stage-specific, and the A-share recovery that began in late July is likely to continue. Market volatility has risen from external shocks; dividend-yielding stocks outperformed on the 19th. As risk appetite gradually recovers and the earnings peak approaches, focus on areas and companies with higher earnings certainty. Two main themes: 1) Selective growth exposure in technology: post-correction crowding in tech has eased. High-growth subsectors where revenue-side expansion can offset denominator pressure—AI infrastructure-related links such as optical communications and PCB—retain strong near-term visibility; semiconductor and compute names require careful alignment of fundamentals and valuations, and tech growth may increasingly diverge. Innovation-stage drugmakers entering clinical-data validation merit bottom-up selection. 2) Cyclical recovery: an expanding set of sectors are rebounding from cycle troughs; factor in geopolitics and capacity-cycle positions and favour areas with improving earnings and tighter supply-demand, including power-grid equipment, petrochemicals/chemicals, construction machinery, and non-bank financials that benefit from stronger capital markets. Nonferrous metals, after heavy adjustment, also deserve attention. Pure domestic-demand sectors show slower recovery and require further observation.
 
 ---
 
@@ -19582,65 +19648,5 @@ Japan | Core Machinery Orders (MoM) (Jun) | actual 9.7% | consensus 7.80% | prev
 ### 2026-08-19 07:32:06  #宏觀
 
 【多地消費品以舊換新政策再加碼】三季度以來，已有北京市、青海省、甘肅省、重慶市、上海市、寧夏回族自治區等多地圍繞消費品以舊換新出臺了新的政策舉措。 中國消費經濟學會副理事長洪濤在接受記者採訪時表示，消費品以舊換新活動帶動效應強、惠及人群廣、民生成效實，是釋放消費潛力的重要抓手之一。地方持續發力消費品以舊換新，有助於進一步培育消費新熱點，更好地滿足群眾需求和企業期盼，從而在改善民生中擴大內需。 從本輪行動看，雖然地方相關部門推動消費品以舊換新政策最佳化實施的發力點各有側重，但整體來看主要有三個方向：最佳化實施機制、降低補貼門檻、擴大補貼品類範圍。其中，不少地方統籌兼顧了兩個或三個方向。（證券日報）
-
----
-
-### 2026-08-19 07:32:02  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Extends Gains Amid US-Iran Stalemate — Brent crude strengthened above $91 per barrel on Wednesday, extending gains for a fourth consecutive session as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz, keeping supply concerns elevated. President Donald Trump said there were no ongoing negotiations with Tehran while confirming that the US naval blockade remains in effect. Shipping risks in Hormuz also remain despite Trump’s claim that the waterway is open and mines have been cleared, with limited traffic still passing through the strategic route. Iranian forces have intensified hostilities over the past week, while eight attacks on vessels transiting Hormuz, including ships linked to the UAE and Saudi Arabia, have been reported so far this month. In the US, industry data showed crude inventories fell by 328,000 barrels last week, following a 9.07 million-barrel increase in the previous week.
-
----
-
-### 2026-08-19 07:31:03  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Extends Gains Amid US-Iran Stalemate — Crude oil strengthened above $85 per barrel on Wednesday, extending gains for a fourth consecutive session as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz, keeping supply concerns elevated. President Donald Trump said there were no ongoing negotiations with Tehran while confirming that the US naval blockade remains in effect. Shipping risks in Hormuz also remain despite Trump’s claim that the waterway is open and mines have been cleared, with limited traffic still passing through the strategic route. Iranian forces have intensified hostilities over the past week, while eight attacks on vessels transiting Hormuz, including ships linked to the UAE and Saudi Arabia, have been reported so far this month. In the US, industry data showed crude inventories fell by 328,000 barrels last week, following a 9.07 million-barrel increase in the previous week.
-
----
-
-### 2026-08-19 07:31:02  #公司 #市場 #央行 #國際
-
-【港股反彈節奏放緩 機構研判積極因素仍在積累】經歷一個多月的快速反彈後，近期港股市場行情有所調整，反彈節奏明顯放緩。不過從南向資金流向看，8月18日南向資金再現百億港元級別淨流入態勢，8月以來淨流入規模已超270億元，疊加日前恒生指數公司發文就恒生科技指數可能作出的修訂方案徵詢市場意見，當前市場積極因素仍在持續積累。在業內人士看來，當前港股的確正從多重壓力之下的悲觀情緒中走出來，但能否出現一輪真正意義上的長期上漲行情，更多取決於基本面和資金層面的改善，8月中下旬的業績驗證視窗和9月的美聯儲政策預期視窗值得重點關注。在具體配置上，建議以低波紅利資產作為配置底倉，同時關注中報或已確認經營底部出現的方向。（中國證券報）
-
----
-
-### 2026-08-19 07:30:52  #宏觀
-
-【央地打出促消費“組合拳” 專家料未來政策仍有空間】近期央地接連部署，打出了一輪促消費政策的“組合拳”。多位受訪專家表示，目前消費政策思路正從“大水漫灌”向“精準滴灌”轉變，進一步向更多元化、細分化的特色消費場景延伸。展望下半年，多個促消費政策將陸續出臺，消費有望邊際回暖，未來政策仍有空間。東方金誠首席宏觀分析師王青判斷，以舊換新支援額度或適度上調，服務消費支援有望向需求端傾斜，生育補貼、幼教補貼等有望加碼或創新。（上證報）
-
----
-
-### 2026-08-19 07:30:19  #公司 #市場
-
-【需求激增、價格上漲 兩大儲存龍頭上半年淨利潤增超10倍】儲存晶片行業兩大龍頭企業8月18日同日披露上半年業績。儲存巨頭兆易創新(603986)半年報顯示，上半年實現營業收入115.66億元，同比增長178.67%；淨利潤68.57億元，同比增長1091.5%。普冉股份(688766)同日披露的半年報顯示，上半年實現營業收入39.59億元，同比增長336.67%；淨利潤8.27億元，同比增長1929.65%。AI算力建設帶動儲存晶片需求激增、價格上漲，成為業績大增的共同原因。
-
----
-
-### 2026-08-19 07:29:49  #公司
-
-【從成本傳導走向AI需求共振 功率半導體行業迎景氣週期】2026年上半年，功率半導體行業受益於AI（人工智慧）伺服器、新能源汽車、光儲等領域需求爆發，疊加8英寸成熟製程產能緊缺，呈現景氣度上行、量價齊升的發展態勢。民德電子、揚傑科技、士蘭微等產業鏈公司相繼披露半年度業績顯示，功率半導體行業正從成本傳導走向AI需求共振，一場由資料中心功率密度躍升引發的產業變局正在加速展開。
-
----
-
-### 2026-08-19 07:29:18  #公司
-
-【青海海西州直轄區發生5.6級地震 暫無人員傷亡情況】據中國地震臺網正式測定：北京時間2026年8月19日5時36分在青海海西州直轄區（北緯37.81度，東經95.63度）發生5.6級地震，震源深度10千米。此次地震震中距離海西州大柴旦行政委員會24公里，記者從大柴旦行委瞭解到，城區有明顯震感，地震發生後當地立即組織應急、公安、消防、各鎮等力量開展人員傷亡、房屋及基礎設施受損等情況排查。經排查，目前轄區通訊、供水、交通道路狀況正常，部分小區供電中斷，電力公司正在搶修，暫未收到人員傷亡情況報告。青海省地震局已安排2車8人開展應急處置工作。
-
----
-
-### 2026-08-19 07:28:38  #公司 #央行 #國際
-
-【瑞穗預計日本央行將加快升息步伐 最快9月行動】瑞穗金融集團預計日本央行最快下月升息，因為疲軟的日元和持續的通脹壓力可能促使央行更快收緊貨幣政策。瑞穗全球市場部門聯席主管Kenya Koshimizu表示，9月加息的可能性“相當高”，日本央行還可能把政策行動間隔從目前約六個月縮短至三個月一次。“一旦日本央行轉向每三個月行動一次，就很難再放慢速度，”Koshimizu在東京接受採訪時說。他指出，目前1%的政策利率在扣除通脹影響後，實際利率“仍明顯處於負值區間”。
-
----
-
-### 2026-08-19 07:28:22  #公司
-
-【折價深達50%，美銀稱英偉達“極具吸引力”】8月19日訊息，美銀髮布研報稱，由於投資者誇大了英偉達公司所面臨的風險，英偉達的股價可能被低估了多達50%。分析師在研報中寫道，美銀基於自由現金流用途的概念性分部估值法顯示，即便考慮進融資風險，英偉達的股價仍有34%至50%的折讓。分析師強調，投資者“可能誇大了風險，同時也創造了一個極具吸引力的機會”。
-
----
-
-### 2026-08-19 07:28:17  #其他
-
-【百隻半導體主題基金年內平均淨值增長70.05%】今年以來，半導體主題基金規模迎來爆發式增長。資料顯示，截至8月18日，全市場100只半導體主題基金最新合計規模達3736.49億元，較年初的1442.88億元增長2293.61億元，增幅達158.96%；百億元級基金數量由年初的2只增至10只，其中，國泰中證半導體材料裝置主題ETF以441.64億元的規模居首。在規模高增長的背後，資料顯示，100只半導體主題基金年內平均淨值增長率達70.05%，其中98只實現正回報且淨值增長率均超17%，國泰半導體制造精選混合發起A以118.68%的漲幅居首。
 
 ---

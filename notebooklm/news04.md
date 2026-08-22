@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 20:54:05_
-_本檔包含 3322 則快訊，約 651793 字_
+_更新時間：2026-08-22 21:39:20_
+_本檔包含 3312 則快訊，約 651195 字_
+
+---
+
+### 2026-08-19 07:32:02  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Extends Gains Amid US-Iran Stalemate — Brent crude strengthened above $91 per barrel on Wednesday, extending gains for a fourth consecutive session as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz, keeping supply concerns elevated. President Donald Trump said there were no ongoing negotiations with Tehran while confirming that the US naval blockade remains in effect. Shipping risks in Hormuz also remain despite Trump’s claim that the waterway is open and mines have been cleared, with limited traffic still passing through the strategic route. Iranian forces have intensified hostilities over the past week, while eight attacks on vessels transiting Hormuz, including ships linked to the UAE and Saudi Arabia, have been reported so far this month. In the US, industry data showed crude inventories fell by 328,000 barrels last week, following a 9.07 million-barrel increase in the previous week.
+
+---
+
+### 2026-08-19 07:31:03  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Extends Gains Amid US-Iran Stalemate — Crude oil strengthened above $85 per barrel on Wednesday, extending gains for a fourth consecutive session as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz, keeping supply concerns elevated. President Donald Trump said there were no ongoing negotiations with Tehran while confirming that the US naval blockade remains in effect. Shipping risks in Hormuz also remain despite Trump’s claim that the waterway is open and mines have been cleared, with limited traffic still passing through the strategic route. Iranian forces have intensified hostilities over the past week, while eight attacks on vessels transiting Hormuz, including ships linked to the UAE and Saudi Arabia, have been reported so far this month. In the US, industry data showed crude inventories fell by 328,000 barrels last week, following a 9.07 million-barrel increase in the previous week.
+
+---
+
+### 2026-08-19 07:31:02  #公司 #市場 #央行 #國際
+
+【港股反彈節奏放緩 機構研判積極因素仍在積累】經歷一個多月的快速反彈後，近期港股市場行情有所調整，反彈節奏明顯放緩。不過從南向資金流向看，8月18日南向資金再現百億港元級別淨流入態勢，8月以來淨流入規模已超270億元，疊加日前恒生指數公司發文就恒生科技指數可能作出的修訂方案徵詢市場意見，當前市場積極因素仍在持續積累。在業內人士看來，當前港股的確正從多重壓力之下的悲觀情緒中走出來，但能否出現一輪真正意義上的長期上漲行情，更多取決於基本面和資金層面的改善，8月中下旬的業績驗證視窗和9月的美聯儲政策預期視窗值得重點關注。在具體配置上，建議以低波紅利資產作為配置底倉，同時關注中報或已確認經營底部出現的方向。（中國證券報）
+
+---
+
+### 2026-08-19 07:30:52  #宏觀
+
+【央地打出促消費“組合拳” 專家料未來政策仍有空間】近期央地接連部署，打出了一輪促消費政策的“組合拳”。多位受訪專家表示，目前消費政策思路正從“大水漫灌”向“精準滴灌”轉變，進一步向更多元化、細分化的特色消費場景延伸。展望下半年，多個促消費政策將陸續出臺，消費有望邊際回暖，未來政策仍有空間。東方金誠首席宏觀分析師王青判斷，以舊換新支援額度或適度上調，服務消費支援有望向需求端傾斜，生育補貼、幼教補貼等有望加碼或創新。（上證報）
+
+---
+
+### 2026-08-19 07:30:19  #公司 #市場
+
+【需求激增、價格上漲 兩大儲存龍頭上半年淨利潤增超10倍】儲存晶片行業兩大龍頭企業8月18日同日披露上半年業績。儲存巨頭兆易創新(603986)半年報顯示，上半年實現營業收入115.66億元，同比增長178.67%；淨利潤68.57億元，同比增長1091.5%。普冉股份(688766)同日披露的半年報顯示，上半年實現營業收入39.59億元，同比增長336.67%；淨利潤8.27億元，同比增長1929.65%。AI算力建設帶動儲存晶片需求激增、價格上漲，成為業績大增的共同原因。
+
+---
+
+### 2026-08-19 07:29:49  #公司
+
+【從成本傳導走向AI需求共振 功率半導體行業迎景氣週期】2026年上半年，功率半導體行業受益於AI（人工智慧）伺服器、新能源汽車、光儲等領域需求爆發，疊加8英寸成熟製程產能緊缺，呈現景氣度上行、量價齊升的發展態勢。民德電子、揚傑科技、士蘭微等產業鏈公司相繼披露半年度業績顯示，功率半導體行業正從成本傳導走向AI需求共振，一場由資料中心功率密度躍升引發的產業變局正在加速展開。
+
+---
+
+### 2026-08-19 07:29:18  #公司
+
+【青海海西州直轄區發生5.6級地震 暫無人員傷亡情況】據中國地震臺網正式測定：北京時間2026年8月19日5時36分在青海海西州直轄區（北緯37.81度，東經95.63度）發生5.6級地震，震源深度10千米。此次地震震中距離海西州大柴旦行政委員會24公里，記者從大柴旦行委瞭解到，城區有明顯震感，地震發生後當地立即組織應急、公安、消防、各鎮等力量開展人員傷亡、房屋及基礎設施受損等情況排查。經排查，目前轄區通訊、供水、交通道路狀況正常，部分小區供電中斷，電力公司正在搶修，暫未收到人員傷亡情況報告。青海省地震局已安排2車8人開展應急處置工作。
+
+---
+
+### 2026-08-19 07:28:38  #公司 #央行 #國際
+
+【瑞穗預計日本央行將加快升息步伐 最快9月行動】瑞穗金融集團預計日本央行最快下月升息，因為疲軟的日元和持續的通脹壓力可能促使央行更快收緊貨幣政策。瑞穗全球市場部門聯席主管Kenya Koshimizu表示，9月加息的可能性“相當高”，日本央行還可能把政策行動間隔從目前約六個月縮短至三個月一次。“一旦日本央行轉向每三個月行動一次，就很難再放慢速度，”Koshimizu在東京接受採訪時說。他指出，目前1%的政策利率在扣除通脹影響後，實際利率“仍明顯處於負值區間”。
+
+---
+
+### 2026-08-19 07:28:22  #公司
+
+【折價深達50%，美銀稱英偉達“極具吸引力”】8月19日訊息，美銀髮布研報稱，由於投資者誇大了英偉達公司所面臨的風險，英偉達的股價可能被低估了多達50%。分析師在研報中寫道，美銀基於自由現金流用途的概念性分部估值法顯示，即便考慮進融資風險，英偉達的股價仍有34%至50%的折讓。分析師強調，投資者“可能誇大了風險，同時也創造了一個極具吸引力的機會”。
+
+---
+
+### 2026-08-19 07:28:17  #其他
+
+【百隻半導體主題基金年內平均淨值增長70.05%】今年以來，半導體主題基金規模迎來爆發式增長。資料顯示，截至8月18日，全市場100只半導體主題基金最新合計規模達3736.49億元，較年初的1442.88億元增長2293.61億元，增幅達158.96%；百億元級基金數量由年初的2只增至10只，其中，國泰中證半導體材料裝置主題ETF以441.64億元的規模居首。在規模高增長的背後，資料顯示，100只半導體主題基金年內平均淨值增長率達70.05%，其中98只實現正回報且淨值增長率均超17%，國泰半導體制造精選混合發起A以118.68%的漲幅居首。
 
 ---
 
@@ -19964,125 +20024,5 @@ According to CNN, U.S. envoy Jared Kushner urged Israeli leader Benjamin Netanya
 ### 2026-08-17 21:50:52  #公司
 
 【TCL科技：20億元公司債券更名】TCL科技公告稱，公司此前獲證監會註冊發行不超過100億元公司債券，本期擬發行規模不超過20.00億元的債券，原名稱“TCL科技集團股份有限公司2025年面向專業投資者公開發行公司債券”，現變更為“TCL科技集團股份有限公司2026年面向專業投資者公開發行科技創新公司債券(數字經濟)(第二期)”。本次債券名稱變更不改變原發行相關法律檔案的效力，原簽署的相關法律檔案對更名後的債券繼續有效。
-
----
-
-### 2026-08-17 21:50:08  #其他
-
-【今年前7個月訪港旅客3122萬人次】香港旅遊發展局17日公佈的資料顯示，7月訪港旅客達450萬人次，同比上升3%。今年前7個月訪港旅客累計約3122萬人次，同比增加11%。今年7月，多項國際大型展會及盛事活動在港舉行，為部分客源市場增長提供支援。7月非內地旅客約89.7萬人次，同比上升2%。香港旅發局表示，下半年將推出多項盛事活動，涵蓋體育、美食等多個領域，包括“香港單車節”“香港美酒佳餚巡禮”等專案，以豐富的體驗吸引旅客訪港。此外，旅發局將聯合業界推出多元的推廣活動，鼓勵旅客深度探索香港，延長逗留時間，進一步帶動旅遊相關消費。（新華社）
-
----
-
-### 2026-08-17 21:50:05  #MKT News #WTI #Impact bearish
-
-Islamic Republic of Iran Broadcasting (IRIB) reported the Yemeni side said the only safe, low-cost way to resolve the crisis is to end the blockade and stop interfering in Yemen's internal affairs.
-
----
-
-### 2026-08-17 21:50:05  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-U.S. August NAHB housing market index due in 10 minutes.
-
----
-
-### 2026-08-17 21:49:43  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-IRIB reported Yemen said any Saudi action that escalates tensions will be met with a reciprocal response.
-
----
-
-### 2026-08-17 21:49:09  #公司
-
-【恆逸石化：擬提前全額贖回“恆逸轉2”】恆逸石化公告稱，2026年8月17日公司股票已觸發“恆逸轉2”有條件贖回條款，董事會決定行使提前贖回權利，贖回價格為100.25元/張（含息稅）。贖回安排如下：9月4日起“恆逸轉2”停止交易，9月8日為贖回登記日，9月9日為贖回日且當日起停止轉股，贖回完成後“恆逸轉2”將在深交所摘牌。截至9月8日收市後仍未轉股的“恆逸轉2”將被強制贖回，提醒持有人注意在限期內轉股，避免面臨損失。
-
----
-
-### 2026-08-17 21:48:55  #其他
-
-葉門：沙特但凡升級緊張局勢，必將予以對等回應。
-
----
-
-### 2026-08-17 21:47:45  #公司 #市場 #觀點 #央行 #國際
-
-【摩根大通：股票買盤群體範圍“廣泛”】由安德魯・泰勒牽頭的摩根大通市場情報團隊表示，未來數週，大批股票買方或將尋求重新提高總敞口、重新加槓桿。該團隊在研報中寫道，潛在買方包括計劃回購股份的企業、個人投資者以及量化交易機構。團隊維持 “戰術性看多” 觀點。他們稱：“市場繼續在擔憂聲浪中上行。” 本週市場關注點為週三美聯儲會議紀要，市場將從中挖掘主席凱文・沃什的政策思路線索；下週重點則是英偉達財報以及傑克遜霍爾全球央行年會。他們寫道，後兩項事件或將 “改變市場敘事”。上週市場擔憂因素包括通脹、零售銷售等增長資料，以及美債拍賣與美聯儲官員講話。上月末，摩根大通表示其內部指標 “發出買入訊號”，該訊號歷史上通常預示標普 500 指數即將上漲。自那以後，該基準指數已累計上漲約 5%。
-
----
-
-### 2026-08-17 21:46:53  #MKT News
-
-According to Saudi state television, Kushner and Mladenov told Netanyahu mediators are in full agreement that Hamas must be disarmed; under the agreement, all Hamas weapons will be removed from Gaza.
-
----
-
-### 2026-08-17 21:46:11  #MKT News
-
-Saudi state TV said a meeting on a Gaza plan involving Kushner, Mladenov (senior 'peace committee' representative for Gaza), Netanyahu and the Israeli president has concluded; Kushner and Mladenov delivered a message from Trump urging Netanyahu to move the plan into its implementation phase.
-
----
-
-### 2026-08-17 21:45:34  #公司
-
-【國能日新：公司已在人工智慧、平行計算等方向進行前瞻性資源佈局】國能日新8月17日在業績說明會上表示，公司已在人工智慧、平行計算等方向進行前瞻性資源佈局，建成多套由HPC與GPU叢集構成的高效能算力底座。硬體資源不僅支撐了大規模氣象模型與深度學習模型的訓練與推理，也為實時交易決策所需的密集計算提供堅實基礎，形成顯著的算力壁壘。
-
----
-
-### 2026-08-17 21:45:20  #央行 #其他
-
-巴西央行在附帶回購協議的美元拍賣中出售10億美元。
-
----
-
-### 2026-08-17 21:45:14  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish
-
-Brazil's central bank sold $1 bln in a dollar auction backed by repurchase agreements.
-
----
-
-### 2026-08-17 21:44:38  #國際
-
-白宮新聞秘書：特朗普總統稱讚防務協議，稱中東地區正 “走向團結”。
-
----
-
-### 2026-08-17 21:44:12  #其他
-
-【美股光通訊板塊盤初走高】美股光通訊板塊盤初走高，邁威爾科技漲超6%，Coherent漲超4%，Lumentum漲超3%。
-
----
-
-### 2026-08-17 21:42:47  #MKT News #DXY #Impact mixed
-
-【CIBC economist says BoC likely to remain on hold】CIBC capital markets economist Andrew Grantham said the Bank of Canada is unlikely to rush to re-evaluate policy after July CPI accelerated to 3.0%, slightly above forecasts, driven by energy and World Cup-related travel costs. Core inflation excluding volatile items remained around 2%, and inflation excluding gasoline held at 2.2%. Grantham said the BoC has ample time to assess the impact of energy prices and US-Canada trade tensions before adjusting rates; the next decision is Sept. 2.
-
----
-
-### 2026-08-17 21:41:55  #國際
-
-俄羅斯 7 月工業產出同比增長 4.9%。
-
----
-
-### 2026-08-17 21:40:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.29% Lower — The Dow Jones Index is falling 158 points. Losses were driven by McDonalds (-1.81%), UnitedHealth (-1.63%) and Microsoft (-1.09%). Biggest rises came from Cisco Systems (1.49%), Caterpillar (0.70%) and Goldman Sachs (0.31%).
-
----
-
-### 2026-08-17 21:39:48  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Monday, rising about 0.5% to 2,878 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the second day, up 1.2% to 4,590 points; and the supramax index went up 0.4% to its highest level since July 28 at 1,628 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1% to its lowest since August 4 at 2,206 points.
-
----
-
-### 2026-08-17 21:38:54  #其他
-
-約旦國王阿卜杜拉二世接受新華社專訪。（新華社）
-
----
-
-### 2026-08-17 21:38:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
 
 ---

@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 20:54:05_
-_本檔包含 3380 則快訊，約 652306 字_
+_更新時間：2026-08-22 21:39:20_
+_本檔包含 3388 則快訊，約 651191 字_
+
+---
+
+### 2026-08-21 08:32:45  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
+
+Japan Composite PMI Rises to 6-Month Peak — Japan’s S&P Global Composite PMI Business Activity Index increased to 53.4 in August 2026 from a final 52.7 in the prior month, flash data showed. It was the highest reading since February, signaling a 17th consecutive month of expansion in private-sector activity.
+
+---
+
+### 2026-08-21 08:32:21  #MKT News #Market Regions #Greater China
+
+【CITIC Securities: Shanghai policy loosening to support house-price recovery, development to concentrate in core cities】CITIC Securities says Shanghai’s Aug. 20 measures to optimize real-estate policy should spur genuine homebuying and, by unlocking replacement chains from the bottom up, help sustain a modest rise in Shanghai house prices into H2 2026. The report expects residential development to increasingly concentrate in first-tier and select second-tier cities, which benefit from larger populations, earlier rent stabilization and lower new-build volumes over the past decade.
+
+---
+
+### 2026-08-21 08:31:29  #MKT News
+
+Bank of Korea senior deputy governor Kwon said FX volatility and geopolitical risks mean policy decisions need to be cautious and flexible.
+
+---
+
+### 2026-08-21 08:31:13  #MKT News
+
+Bank of Korea Senior Deputy Governor Kwon said inflation remains above target and financial-stability risks persist.
+
+---
+
+### 2026-08-21 08:31:07  #公司 #國際 #原創
+
+【“全力生產也跟不上需求”，美光CEO稱資料中心需求高出產能50%】美光科技公司CEO桑傑・梅赫羅特拉週四表示，人工智慧已從根本上改變了儲存行業，這是一個素來容易經歷繁榮與蕭條週期的行業，“如今，沒有記憶體就談不上人工智慧。人工智慧系統需要更多記憶體，需要更高效能的記憶體，還需要更低功耗的記憶體。因此，記憶體的價值邏輯已經徹底改寫。”他表示，即便美光全力生產，依舊無法滿足這部分市場需求，“我們各個終端市場的所有客戶，會把我們生產的產品全部採購。” 他補充道，目前資料中心客戶的採購需求，比美光能夠承諾供應的規模高出約50%。
+
+---
+
+### 2026-08-21 08:31:06  #MKT News
+
+Bank of Korea Senior Deputy Governor Kwon said growth improvement has exceeded expectations.
+
+---
+
+### 2026-08-21 08:30:59  #觀點
+
+【中信證券：葡萄酒龍頭企業需要更具備市場運營、產品開發和渠道觸達能力】中信證券發文稱，過去的20年，中國葡萄酒市場經歷了“繁榮-衰退-重構”的完整週期。當前，中國葡萄酒市場規模約700億元，國內的主要玩家呈現銷量觸底、價格悄然最佳化的發展特徵。展望未來，中信證券認為行業的主要消費者和渠道都在悄然發生變化，消費者變得更成熟、理性和理解葡萄酒，遂需要龍頭企業更具備市場運營、產品開發和渠道觸達能力，對產品品類的需求也會更多元。
+
+---
+
+### 2026-08-21 08:30:49  #MKT News
+
+Musk said reports that SpaceX was seeking to acquire Spectrum at a $6 billion valuation are false.
+
+---
+
+### 2026-08-21 08:30:41  #央行 #國際
+
+韓國央行高階副行長：經濟增長改善程度好於預期。通脹超出目標，金融穩定風險依然存在。鑑於外匯波動和地緣政治風險，需要謹慎靈活的政策決策。
+
+---
+
+### 2026-08-21 08:30:24  #經濟數據 #日本
+
+日本8月製造業PMI初值55.1，前值54.5。日本8月服務業PMI初值52.3，前值51.2。日本8月綜合PMI初值53.4，前值52.7。
+
+---
+
+### 2026-08-21 08:30:11  #資料 #國際
+
+日本8月服務業PMI初值 52.3，前值 51.2。日本8月製造業PMI初值 55.1，前值 54.5。日本8月綜合PMI初值 53.4，前值 52.7。
+
+---
+
+### 2026-08-21 08:30:11  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
+
+Japan's preliminary manufacturing PMI for August was 55.1, up from 54.5 previously.
+
+---
+
+### 2026-08-21 08:30:09  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan preliminary composite PMI for Aug 53.4, previous 52.7.
+
+---
+
+### 2026-08-21 08:30:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
+
+Japan preliminary August services PMI 52.3, up from prior 51.2.
+
+---
+
+### 2026-08-21 08:30:04  #其他
+
+【稀土廢渣中提取出醫用阿爾法核素】20日，記者從南華大學獲悉，該校韋悅周教授團隊從稀土廢渣中直接分離並獲得高純度阿爾法（α）核素鉛-212及其前體核素釷-228，成功實現單批次從公斤級稀土廢渣中分離提取158微居里的鉛-212/鉍-212。該成果日前透過了中國同位素與輻射行業協會組織召開的“從獨居石加工鐳渣提取醫用阿爾法核素鉛-212及釷-228技術研製”專案科技成果鑑定會。專家認為，該成果有望推動我國醫用阿爾法核素自主供應，保障核醫療產業鏈安全。（科技日報）
+
+---
+
+### 2026-08-21 08:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Manufacturing PMI Flash (Aug) | actual 55.1 | previous 54.5
+
+---
+
+### 2026-08-21 08:29:54  #其他
+
+馬斯克稱，SpaceX擬收購價值60億美元頻譜的報道“不實”。
+
+---
+
+### 2026-08-21 08:28:20  #宏觀 #公司 #市場 #國際
+
+【天風證券：黃金上漲空間或正在被開啟，繼續看好黃金配置價值】天風證券研報表示，8月19日，美國財政部公告擬擴大長債回購規模之後，COMEX黃金期貨升破4500美元/盎司。黃金的上漲空間或正在被開啟。從全球儲備結構的角度看，美債和黃金或可被視為替代關係。但是，從利率角度看，實際利率目前仍處高位，仍需等待拐點的確認。天風證券認為，經歷了8月19日的大漲之後，短期內黃金仍可能震盪一段時間，如果能夠站穩4500美元上方、或將吸引更多的動量資金入場。中期維度上，繼續看好黃金的配置價值。
+
+---
+
+### 2026-08-21 08:28:05  #觀點
+
+【中信證券：未來房地產開發在區域上將更聚焦核心城市】中信證券認為，住宅開發領域，一線城市，加上個別二線城市有明顯的優勢。這些城市人口基數更大，房租更早企穩，核心城市過去十年新建商品房規模更少。中信證券相信，未來的開發在區域上將更聚焦核心城市。
 
 ---
 
@@ -20361,71 +20475,5 @@ China Molybdenum earnings above expectations at 0.36 CNY — China Molybdenum (6
 ### 2026-08-20 08:11:36  #市場
 
 受疑似資料洩露事件影響，Sakura Internet股價下跌10%。
-
----
-
-### 2026-08-20 08:11:18  #觀點
-
-【中信證券：預計耐心資本制度將持續夯實】中信證券研報指出，股權市場全鏈條生態正在發生顯著變化：LP結構演變，從“雙輪驅動”到“單極時代”，從“財務回報”到“耐心資本”；GP能力重構，從“財務投資人”到“產業組織者”，從“被動退出”到“主動管理”；投資正規化重塑，從“模式創新”到“科技創新”，從“IRR敘事”到“DPI指標”；退出渠道迭代，從“IPO獨木橋”到“多元退出試水”，從“名義退出”到“實際兌現”。展望未來，預計耐心資本制度將持續夯實，GP格局將持續優勝劣汰，政府投資基金進入存量最佳化階段，投資理念更趨穩健審慎，超額收益來源將從“主題共識博弈”轉向“產業鏈前瞻佈局”，退出端的多元格局也將日趨完善。
-
----
-
-### 2026-08-20 08:11:01  #MKT News #Macro & Rates #Treasury Yields
-
-Japan's 20-year bond yield fell 7.5 bps to 3.700%.
-
----
-
-### 2026-08-20 08:10:40  #MKT News #Market Themes #Chip Wars #AMAT.O #Impact bullish #LRCX.O #ASML.AS
-
-【CITIC Securities: global semiconductor equipment upcycle confirmed; monitor overseas expansion】CITIC Securities research says the global semiconductor equipment upcycle remains intact and flags Chinese suppliers’ overseas expansion. SEMI updated its outlook, forecasting sustained growth through 2026–28: global semiconductor manufacturing equipment sales are forecast at $165.9bn in 2026 (+23.2% YoY) and could reach a record $229.5bn by 2028, marking five consecutive years of growth. The industry is experiencing a rare, full-chain price upswing across equipment components, with pricing power structurally shifting from chips to equipment and parts. Component vendors, typically smaller with high fixed costs, should see price rises flow rapidly to margins, while capacity expansion lead times of 12–18 months leave supply relatively inelastic.
-
----
-
-### 2026-08-20 08:10:35  #公司
-
-【帝爾鐳射：TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高】帝爾鐳射8月19日在機構電話會議表示，TGV相關應用目前主要包括先進封裝玻璃基板通孔、FAU及光通訊玻璃無源器件等方向。玻璃基板在表面平整度、熱膨脹匹配和高頻訊號傳輸等方面具備優勢，未來有望在先進封裝、RDL、CPO、新型顯示、射頻器件和功率器件等領域應用。從產業進展看，公司TGV裝置已覆蓋晶圓級和麵板級應用，並持續與不同區域、不同型別客戶開展合作。玻璃基板方向已有客戶復購需求。總體來看，TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高。
-
----
-
-### 2026-08-20 08:10:29  #MKT News #Market Regions
-
-Australia's S&P/ASX 200 opened 41.50 points higher, up 0.46%, at 9,095.30 on Thursday, Aug. 20.
-
----
-
-### 2026-08-20 08:10:06  #觀點
-
-【中信證券：優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期】中信證券研報指出，隨著公募REITs市場業態型別和底層資產持續擴容，中信證券認為市場將不斷湧現結構性的投資機會，透過對於底層資產供求、運營等方向的研究，可以有效提升投資勝率。當前時點，中信證券認為優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期。
-
----
-
-### 2026-08-20 08:08:03  #公司 #國際
-
-【勁方醫藥：GFH375兩款胰腺癌聯合療法進入II期研究】勁方醫藥公告稱，公司GFH375（口服KRAS G12D ON/OFF抑制劑）的三臂平行對照II期臨床研究已啟動，將開展兩款聯合療法對照單藥治療KRAS G12D突變型經治區域性晚期不可切除或轉移性胰腺癌的研究，兩款方案分別為GFH375聯合惡病質雙抗GFS202A、GFH375聯合泛RAS ON抑制劑GFH276。該研究為多中心、開放標籤、隨機對照研究，牽頭中心為上海交通大學醫學院附屬瑞金醫院，將在中國大陸數十家中心開展。GFH375已於2026年2月獲中國單藥治療相關轉移性胰腺癌突破性療法認定，2025年獲美國FDA快速通道資格認定。
-
----
-
-### 2026-08-20 08:07:50  #公司 #市場
-
-【長江和記實業：就巴拿馬港口事項啟動國際仲裁】長江和記實業有限公司公告稱，因多番嘗試尋求解決方案未果，公司於2026年8月20日就巴拿馬違反投資保護條約啟動國際仲裁程式，相關違約源自巴拿馬2025年及2026年採取的一系列措施，最終導致巴拿馬破壞巴爾博亞港及克里斯托瓦爾港的特許經營合約並強行接管港口碼頭。公司就其在巴拿馬的投資遭受破壞，索償超過15億美元。公司附屬公司巴拿馬港口公司將繼續根據特許經營合約及國際商會仲裁規則，在其分別展開的仲裁下維護自身不同權利。
-
----
-
-### 2026-08-20 08:06:48  #其他
-
-【國家醫保局對“藥品限二線使用”規則對應部分知識點進行調整】智慧監管“兩庫”釋出以來，受到了社會各界的普遍歡迎和關注，近期，我們收到了一些對智慧監管“兩庫”的意見建議。經研究，現就“藥品限二線使用”規則對應的部分知識點調整如下：一是增加阿布昔替尼片、昂戈瑞西單抗注射液、吡洛西利片、司普奇拜單抗注射液、替爾泊肽注射液、鹽酸替那帕諾片、伊努西單抗注射液、英克司蘭鈉注射液等8種藥品。二是刪除賽沃替尼片。
-
----
-
-### 2026-08-20 08:06:28  #MKT News #Macro & Rates #USDJPY
-
-Japan 10-year bond yield fell 4.5 bps to 2.845%.
-
----
-
-### 2026-08-20 08:06:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【China International Capital Co: A-share recovery since end-July likely to continue】China International Capital Co said external narratives driving the market remain short-term and stage-specific, and the A-share recovery that began in late July is likely to continue. Market volatility has risen from external shocks; dividend-yielding stocks outperformed on the 19th. As risk appetite gradually recovers and the earnings peak approaches, focus on areas and companies with higher earnings certainty. Two main themes: 1) Selective growth exposure in technology: post-correction crowding in tech has eased. High-growth subsectors where revenue-side expansion can offset denominator pressure—AI infrastructure-related links such as optical communications and PCB—retain strong near-term visibility; semiconductor and compute names require careful alignment of fundamentals and valuations, and tech growth may increasingly diverge. Innovation-stage drugmakers entering clinical-data validation merit bottom-up selection. 2) Cyclical recovery: an expanding set of sectors are rebounding from cycle troughs; factor in geopolitics and capacity-cycle positions and favour areas with improving earnings and tighter supply-demand, including power-grid equipment, petrochemicals/chemicals, construction machinery, and non-bank financials that benefit from stronger capital markets. Nonferrous metals, after heavy adjustment, also deserve attention. Pure domestic-demand sectors show slower recovery and require further observation.
 
 ---

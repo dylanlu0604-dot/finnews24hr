@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 20:54:05_
-_本檔包含 3101 則快訊，約 651737 字_
+_更新時間：2026-08-22 21:39:20_
+_本檔包含 3100 則快訊，約 651193 字_
+
+---
+
+### 2026-08-22 21:37:17  #國際
+
+加拿大總理卡尼將就應對美國關稅發表講話。
+
+---
+
+### 2026-08-22 21:36:56  #公司
+
+【眾擎機器人釋出仿人腦具身智慧引擎EngineAI Awaken】8月22日，世界機器人大會WRC期間，眾擎機器人CTO李力耘系統闡釋了公司全棧具身智慧技術路線與全新AI模型架構，併發布仿人腦具身智慧引擎EngineAI Awaken。據介紹，該引擎透過融合WAM與VLA模型，機器人僅需2小時實機部署與微調訓練，長程動作成功率即可超過98%，實現低樣本條件下的高效泛化。目前，該架構已與眾擎自研力控關節、靈巧手及機器人本體進行整合。
+
+---
+
+### 2026-08-22 21:31:10  #其他
+
+【航行警告 南海海域實彈射擊】據中國海事局網站訊息，揭陽海事局釋出航行警告，8月24日至8月27日，每天6時30分至18時30分，南海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-08-22 21:30:17  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Drops by 3.53% — Top crypto losers are Ether (-3.53%) and Bitcoin (-1.49%). Gains are led by XRP (3.18%) and Binance (1.11%).
+
+---
+
+### 2026-08-22 21:29:41  #公司
+
+安世中國新品全球釋出會開放預約。
+
+---
+
+### 2026-08-22 21:28:01  #國際
+
+格里爾：美國將採取措施應對加拿大的報復行動。
+
+---
+
+### 2026-08-22 21:26:54  #國際
+
+美國貿易代表格里爾：目前沒有與加拿大就貿易問題進行新一輪談判的計劃。
+
+---
+
+### 2026-08-22 21:21:32  #公司
+
+【DeepSeek API計費調整 週末統一按低谷時段價格計費】DeepSeek API開放平臺將於2026年8月23日（週日）00:00起，最佳化峰谷計費規則。調整後，週末（週六及週日）全天將不再區分峰谷時段，統一按低谷時段價格計費。新規則生效前產生的費用，仍按原計費標準結算。此前，DeepSeek釋出API調價公告，採用峰谷定價，高峰時段低谷時段價格的兩倍，使得deepseek-v4-pro高峰時段百萬tokens輸出，最高價格達27元。高峰時段為北京時間 9:00-12:00、14:00- 18:00（其餘為低谷時段）。 (科創板日報)
+
+---
+
+### 2026-08-22 21:17:57  #國際
+
+【以色列襲擊敘利亞南部致一人受傷】據敘利亞國家通訊社22日報道，以色列無人機當天在敘利亞大馬士革農村省拜特金地區襲擊一車輛，導致一人受傷，受傷人員已被送至醫院。（新華社）
+
+---
+
+### 2026-08-22 21:15:42  #國際
+
+烏克蘭總統澤連斯基：我與法國總統埃馬紐埃爾·馬克龍進行了一次非常好的通話。我們非常感激法國總統願意幫助我們與其他擁有愛國者導彈必要彈藥的夥伴溝通。我們同意加速交付最新的法國裝置和導彈。感謝您確認願意提供導彈生產許可。
+
+---
+
+### 2026-08-22 21:07:26  #國際
+
+以色列國防部長：在大馬士革無視警告後，我與總理共同授權軍方對敘利亞的阿布・祖胡爾空軍基地實施空襲，該空襲行動已順利完成。
+
+---
+
+### 2026-08-22 21:05:58  #國際
+
+以色列國防部長：在對“阿布·祖胡爾機場”發動襲擊之前，我們向大馬士革發出了直接警告，並且向華盛頓提供了有關土耳其活動被認為威脅以色列安全的情報資訊。
+
+---
+
+### 2026-08-22 21:05:12  #國際
+
+以色列國防部長：美國特使湯姆·布拉克的回應充滿謬誤，且與特朗普在戈蘭高地問題上的立場相矛盾。
+
+---
+
+### 2026-08-22 21:04:53  #國際
+
+烏克蘭總統澤連斯基與德國外長會談。
+
+---
+
+### 2026-08-22 21:01:17  #其他
+
+【英國一警車與轎車相撞 已致7人死亡】當地時間22日凌晨，英格蘭東北部米德爾斯堡附近A66公路發生一起交通事故，一輛警車與一輛轎車相撞。事故發生的雷德卡選區議員證實，在此次交通事故中，有7人遇難，其中有2名遇難者為警察。（央視新聞）
+
+---
+
+### 2026-08-22 20:57:22  #國際
+
+【突尼西亞附近海域移民船傾覆致4人死亡10餘人失蹤】據突尼西亞媒體22日報道，一艘載有移民的船隻21日晚在突尼西亞東南部海域傾覆，目前已找到4具遺體，另有10餘人失蹤。
+
+---
+
+### 2026-08-22 20:56:23  #公司
+
+【上海電氣與中國航發黎明共商高階動力裝備協同發展】8月21日下午，上海電氣集團黨委書記、董事長吳磊與中國航發瀋陽黎明航空發動機有限責任公司（簡稱“中國航發黎明”）黨委書記、董事長蔡新宇舉行會談，雙方就高階動力裝備研發製造、產業鏈供應鏈協同發展等進行交流。吳磊表示，上海電氣與中國航發黎明已在航空發動機產線建設、航空零部件配套、供應鏈數字化建設等方面打下紮實合作基礎。希望雙方持續深化戰略對接，發揮各自資源稟賦，深化技術互鑑、產業協同與專案聯動，挖掘更多務實合作機遇，圍繞航空發動機智慧製造、航空零部件及基礎件、智慧機器人、綠色低碳等重點領域拓展合作，推動科技創新成果落地轉化。
+
+---
+
+### 2026-08-22 20:52:56  #公司
+
+【泰康保險集團創始人、董事長陳東昇不再兼任執行長，劉挺軍接任】8 月 22 日金融一線訊息， 在成立30週年之際，泰康保險集團今日宣佈治理結構調整：創始人、董事長陳東昇先生不再兼任執行長，迴歸並專注公司戰略、團隊、風險、文化以及重大事項決策，繼續發揮核心領導作用；聘任公司總裁劉挺軍先生出任公司執行長。拒悉，這是泰康保險集團推進新壽險戰略，持續加強經營管理團隊的專業化、年輕化的主動調整。此決定已於8月20日獲泰康保險集團第四屆七次董事會審議透過。董事會表示，在創始人陳東昇先生的帶領下，泰康歷經30年，從無到有、由小變大、由弱變強、向善而新，實現了從一家單一壽險公司到綜合保險金融服務集團，再到大健康產業頭部企業的進化。董事會認為，泰康所開創的長壽時代新壽險模式，正在實踐中得到驗證；當前公司戰略方向明確、落地路徑清晰、治理結構高效、業務經營穩健、人才梯隊完備，奠定了未來發展的堅實基礎。劉挺軍先生加入泰康近30年，是泰康長期培養成長起來的核心高管，自2019年12月起擔任泰康保險集團總裁兼營運長。他本碩博均畢業於武漢大學經濟學院，獲保險專業學士學位，宏觀經濟學專業博士學位，歷任泰康人壽企劃部負責人、泰康資產營運長、泰康人壽副總裁、泰康之家執行長、泰康健投執行長、泰康線上董事長等管理職務，在保險、資管、醫養三端都具備多年經營管理經驗，是泰康醫養戰略和醫養事業從零到一的堅定踐行者和建設者。本次調整後，泰康保險集團經營管理團隊保持穩定，各項業務持續推進。公司將繼續秉持尊重生命、關愛生命、禮讚生命的價值觀，鑄牢合規底線，堅定推動長壽時代新壽險戰略，為客戶、股東和社會創造長期價值。
 
 ---
 
@@ -18597,119 +18705,5 @@ Japan Factory Activity Growth Hits 4-Month High — The S&P Global Japan Manufac
 ### 2026-08-21 08:35:07  #Trading Economics #Economy #Japan #Services PMI #Importance 2
 
 Japan Services Growth at 5-Month High — Japan’s S&P Global Services PMI Business Activity Index was up to 52.3 in August 2026 from a final 51.2 in the previous month, a preliminary estimate showed. It was the third consecutive month of expansion in the services sector and the fastest pace since March.
-
----
-
-### 2026-08-21 08:32:45  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
-
-Japan Composite PMI Rises to 6-Month Peak — Japan’s S&P Global Composite PMI Business Activity Index increased to 53.4 in August 2026 from a final 52.7 in the prior month, flash data showed. It was the highest reading since February, signaling a 17th consecutive month of expansion in private-sector activity.
-
----
-
-### 2026-08-21 08:32:21  #MKT News #Market Regions #Greater China
-
-【CITIC Securities: Shanghai policy loosening to support house-price recovery, development to concentrate in core cities】CITIC Securities says Shanghai’s Aug. 20 measures to optimize real-estate policy should spur genuine homebuying and, by unlocking replacement chains from the bottom up, help sustain a modest rise in Shanghai house prices into H2 2026. The report expects residential development to increasingly concentrate in first-tier and select second-tier cities, which benefit from larger populations, earlier rent stabilization and lower new-build volumes over the past decade.
-
----
-
-### 2026-08-21 08:31:29  #MKT News
-
-Bank of Korea senior deputy governor Kwon said FX volatility and geopolitical risks mean policy decisions need to be cautious and flexible.
-
----
-
-### 2026-08-21 08:31:13  #MKT News
-
-Bank of Korea Senior Deputy Governor Kwon said inflation remains above target and financial-stability risks persist.
-
----
-
-### 2026-08-21 08:31:07  #公司 #國際 #原創
-
-【“全力生產也跟不上需求”，美光CEO稱資料中心需求高出產能50%】美光科技公司CEO桑傑・梅赫羅特拉週四表示，人工智慧已從根本上改變了儲存行業，這是一個素來容易經歷繁榮與蕭條週期的行業，“如今，沒有記憶體就談不上人工智慧。人工智慧系統需要更多記憶體，需要更高效能的記憶體，還需要更低功耗的記憶體。因此，記憶體的價值邏輯已經徹底改寫。”他表示，即便美光全力生產，依舊無法滿足這部分市場需求，“我們各個終端市場的所有客戶，會把我們生產的產品全部採購。” 他補充道，目前資料中心客戶的採購需求，比美光能夠承諾供應的規模高出約50%。
-
----
-
-### 2026-08-21 08:31:06  #MKT News
-
-Bank of Korea Senior Deputy Governor Kwon said growth improvement has exceeded expectations.
-
----
-
-### 2026-08-21 08:30:59  #觀點
-
-【中信證券：葡萄酒龍頭企業需要更具備市場運營、產品開發和渠道觸達能力】中信證券發文稱，過去的20年，中國葡萄酒市場經歷了“繁榮-衰退-重構”的完整週期。當前，中國葡萄酒市場規模約700億元，國內的主要玩家呈現銷量觸底、價格悄然最佳化的發展特徵。展望未來，中信證券認為行業的主要消費者和渠道都在悄然發生變化，消費者變得更成熟、理性和理解葡萄酒，遂需要龍頭企業更具備市場運營、產品開發和渠道觸達能力，對產品品類的需求也會更多元。
-
----
-
-### 2026-08-21 08:30:49  #MKT News
-
-Musk said reports that SpaceX was seeking to acquire Spectrum at a $6 billion valuation are false.
-
----
-
-### 2026-08-21 08:30:41  #央行 #國際
-
-韓國央行高階副行長：經濟增長改善程度好於預期。通脹超出目標，金融穩定風險依然存在。鑑於外匯波動和地緣政治風險，需要謹慎靈活的政策決策。
-
----
-
-### 2026-08-21 08:30:24  #經濟數據 #日本
-
-日本8月製造業PMI初值55.1，前值54.5。日本8月服務業PMI初值52.3，前值51.2。日本8月綜合PMI初值53.4，前值52.7。
-
----
-
-### 2026-08-21 08:30:11  #資料 #國際
-
-日本8月服務業PMI初值 52.3，前值 51.2。日本8月製造業PMI初值 55.1，前值 54.5。日本8月綜合PMI初值 53.4，前值 52.7。
-
----
-
-### 2026-08-21 08:30:11  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan's preliminary manufacturing PMI for August was 55.1, up from 54.5 previously.
-
----
-
-### 2026-08-21 08:30:09  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan preliminary composite PMI for Aug 53.4, previous 52.7.
-
----
-
-### 2026-08-21 08:30:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan preliminary August services PMI 52.3, up from prior 51.2.
-
----
-
-### 2026-08-21 08:30:04  #其他
-
-【稀土廢渣中提取出醫用阿爾法核素】20日，記者從南華大學獲悉，該校韋悅周教授團隊從稀土廢渣中直接分離並獲得高純度阿爾法（α）核素鉛-212及其前體核素釷-228，成功實現單批次從公斤級稀土廢渣中分離提取158微居里的鉛-212/鉍-212。該成果日前透過了中國同位素與輻射行業協會組織召開的“從獨居石加工鐳渣提取醫用阿爾法核素鉛-212及釷-228技術研製”專案科技成果鑑定會。專家認為，該成果有望推動我國醫用阿爾法核素自主供應，保障核醫療產業鏈安全。（科技日報）
-
----
-
-### 2026-08-21 08:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Manufacturing PMI Flash (Aug) | actual 55.1 | previous 54.5
-
----
-
-### 2026-08-21 08:29:54  #其他
-
-馬斯克稱，SpaceX擬收購價值60億美元頻譜的報道“不實”。
-
----
-
-### 2026-08-21 08:28:20  #宏觀 #公司 #市場 #國際
-
-【天風證券：黃金上漲空間或正在被開啟，繼續看好黃金配置價值】天風證券研報表示，8月19日，美國財政部公告擬擴大長債回購規模之後，COMEX黃金期貨升破4500美元/盎司。黃金的上漲空間或正在被開啟。從全球儲備結構的角度看，美債和黃金或可被視為替代關係。但是，從利率角度看，實際利率目前仍處高位，仍需等待拐點的確認。天風證券認為，經歷了8月19日的大漲之後，短期內黃金仍可能震盪一段時間，如果能夠站穩4500美元上方、或將吸引更多的動量資金入場。中期維度上，繼續看好黃金的配置價值。
-
----
-
-### 2026-08-21 08:28:05  #觀點
-
-【中信證券：未來房地產開發在區域上將更聚焦核心城市】中信證券認為，住宅開發領域，一線城市，加上個別二線城市有明顯的優勢。這些城市人口基數更大，房租更早企穩，核心城市過去十年新建商品房規模更少。中信證券相信，未來的開發在區域上將更聚焦核心城市。
 
 ---
