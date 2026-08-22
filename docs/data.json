@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-22 13:17:21",
-  "count": 16166,
+  "updated": "2026-08-22 13:21:26",
+  "count": 16165,
   "items": [
+    {
+      "id": "5053046",
+      "time": "2026-08-22 13:18:19",
+      "tags": [
+        "行業"
+      ],
+      "text": "【7月中小銀行結構性存款餘額減少143億元】近期，多隻結構性存款產品公告未成功發行。記者注意到，今年以來，多家中小銀行釋出超20條結構性存款發行失敗公告。同時，截至7月末，中小銀行零售端結構性存款共有7801.19億元，環比繼續下降。（中國經營報）"
+    },
     {
       "id": "5053045",
       "time": "2026-08-22 13:14:39",
@@ -147866,22 +147874,6 @@
         "國際"
       ],
       "text": "【韓國首席貿易談判代表呂翰九被解職】韓國總統李在明於15日零時解除韓國產業通商部通商交涉本部長（首席貿易談判代表）呂翰九的職務。政府未公開此次人事任免的具體原因。呂翰九曾在文在寅政府擔任產業部通商政策局長和通商談判本部長。李在明政府上臺後，呂翰九再次出任該職，負責韓美關稅談判等重要貿易工作。在美國依據《貿易法》第301條啟動相關調查、電商酷澎（coupang）爭議持續發酵，以及美方要求韓國加快落實對美投資專案之際，韓方突然免去通商談判最高負責人職務，引發外界對免職背景的廣泛猜測。政府內部普遍認為，此次人事調整與韓美通商工作進展、呂翰九的工作表現無關，大機率涉及其個人相關問題。針對相關爭議質疑，呂翰九本人已予以否認。（第一財經）"
-    },
-    {
-      "id": "mkt:01a003db-d9c4-7aab-9047-97f7a2cb7886",
-      "time": "2026-08-15 13:18:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea dismisses chief trade representative who led US negotiations】South Korea’s industry ministry said on Saturday it had dismissed its chief trade representative, without giving a reason. Yeo Han-koo, who had also served as trade minister, traveled to Washington several times this year to discuss tariffs, semiconductor-related measures and digital policy with US officials and lawmakers. The ministry said personnel decisions for political appointees are a presidential prerogative and that it will work to ensure current trade affairs are not affected. No successor has been named."
-    },
-    {
-      "id": "mkt:01a003db-0a45-7aab-9047-8df60da140ac",
-      "time": "2026-08-15 13:18:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【7.7-magnitude quake off eastern Indonesia kills at least 20】Indonesia search-and-rescue officials said a 7.7-magnitude earthquake and several strong aftershocks struck on the morning of the 15th near Flores Island in eastern Indonesia, killing at least 20 people."
     }
   ]
 }
