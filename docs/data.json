@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-22 14:36:14",
-  "count": 16155,
+  "updated": "2026-08-22 14:40:14",
+  "count": 16154,
   "items": [
+    {
+      "id": "5053069",
+      "time": "2026-08-22 14:36:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗已應伊拉克請求，允許多艘伊拉克油輪透過霍爾木茲海峽。"
+    },
+    {
+      "id": "5053068",
+      "time": "2026-08-22 14:34:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川省自然資源投資集團到訪廣東宏大】據廣東宏大訊息，8月20日，四川省自然資源投資集團有限責任公司（簡稱“四川省自然資源投資集團”）黨委書記、董事長羅智波一行到訪廣東宏大。雙方圍繞產業協同、專案合作、科技創新、資源開發等議題展開深入交流，共商互利共贏發展路徑。交流期間，雙方還圍繞行業發展現狀與趨勢、技術應用場景、專案合作運營模式、科技創新等多個方面開展深入交流，達成多項共識。"
+    },
     {
       "id": "5053067",
       "time": "2026-08-22 14:33:21",
@@ -147757,32 +147774,6 @@
         "國際"
       ],
       "text": "據日本時事通訊社報道，日本首相高市早苗今天（8月15日）朝著靖國神社的方向遙拜。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a00424-7d86-7aab-9047-d73c5de13cf5",
-      "time": "2026-08-15 14:38:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Hungary's prime minister magyar said authorities will sink two barges on Saturday to raise the Danube's water level and prevent a nuclear power plant shutdown after levels fell again."
-    },
-    {
-      "id": "5042205",
-      "time": "2026-08-15 14:38:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，由於多瑙河水位再次下降，當局將於週六沉下兩艘駁船抬高水位，以避免核電站停運。"
-    },
-    {
-      "id": "mkt:01a00423-c281-7aab-9047-cc64fdb3e6a0",
-      "time": "2026-08-15 14:37:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【sheinbaum says US visa revocation of ex-president's son is interference】On Aug. 14 Mexico President sheinbaum said the US decision to revoke the U.S. visa of the son of former Mexican president Lopez was politically motivated and constituted interference in Mexico's internal affairs. Sheinbaum said Mexico must remain firm and that bilateral ties should be based on mutual respect. The remarks follow US revocations in 2026 of visas for at least six ruling-party officials and US requests to extradite alleged drug-trafficking collaborators — including four current governors, mayors and legislators and six former officials — to stand trial in the US; Mexico has rejected the extradition requests, citing insufficient evidence."
     }
   ]
 }
