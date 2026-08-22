@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 21:39:20_
-_本檔包含 3388 則快訊，約 651191 字_
+_更新時間：2026-08-22 21:57:08_
+_本檔包含 3384 則快訊，約 651091 字_
+
+---
+
+### 2026-08-21 08:36:46  #宏觀 #資料 #其他
+
+【前七月深圳外貿同比增長超三成，進出口規模創下歷史同期新高】8月20日，記者從深圳海關獲悉，今年前7個月，深圳外貿進出口總額達3.42萬億元，規模創下歷史同期新高，同比增長32.8%。其中，出口1.77萬億元、增長13.9%，進口1.65萬億元、增長61.9%。今年以來，深圳經濟頂住壓力、穩中提質、向新向好，市場經營主體活力充分迸發，持續為外貿進出口穩步增長注入強勁動能。（讀特）
+
+---
+
+### 2026-08-21 08:35:07  #Trading Economics #Economy #Japan #Services PMI #Importance 2
+
+Japan Services Growth at 5-Month High — Japan’s S&P Global Services PMI Business Activity Index was up to 52.3 in August 2026 from a final 51.2 in the previous month, a preliminary estimate showed. It was the third consecutive month of expansion in the services sector and the fastest pace since March.
 
 ---
 
@@ -20439,41 +20451,5 @@ MSCI Asia Pacific index rose 1%.
 ### 2026-08-20 08:17:00  #觀點
 
 【中信建投：當前保險板塊具備顯著配置價值】中信建投指出，當前保險板塊處於“負債端量增質優、資產端盈利修復確定性高、估值卻仍在低位”的錯配狀態，具備顯著配置價值。負債端來看，港險收益徵稅後部分需求可能迴流至內地，看好規模增長與結構最佳化共振。長期來看，地產財富效應弱化+資管新規推動理財淨值化+低利率共振驅動儲蓄險新單增長。
-
----
-
-### 2026-08-20 08:15:50  #市場
-
-MSCI亞太指數上漲1%至273.27點。
-
----
-
-### 2026-08-20 08:15:38  #市場
-
-日經225指數上漲1%，至65981.03點。
-
----
-
-### 2026-08-20 08:13:34  #公司
-
-【合康新能：向特定物件發行股票申請獲深交所受理】合康新能公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。
-
----
-
-### 2026-08-20 08:11:46  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Jiangsu Hengrui earnings above expectations at 0.39 CNY — Jiangsu Hengrui (600276) released earnings per share at 0.39 CNY, compared to market expectations of 0.38 CNY.
-
----
-
-### 2026-08-20 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
-
-China Molybdenum earnings above expectations at 0.36 CNY — China Molybdenum (603993) released earnings per share at 0.36 CNY, compared to market expectations of 0.35 CNY.
-
----
-
-### 2026-08-20 08:11:36  #市場
-
-受疑似資料洩露事件影響，Sakura Internet股價下跌10%。
 
 ---

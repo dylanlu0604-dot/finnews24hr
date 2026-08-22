@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 21:39:20_
-_本檔包含 3100 則快訊，約 651193 字_
+_更新時間：2026-08-22 21:57:08_
+_本檔包含 3102 則快訊，約 651416 字_
+
+---
+
+### 2026-08-22 21:49:57  #其他
+
+【研究發現運動時釋放的一種分子可增強肌肉功能】英國利茲大學牽頭的一項研究發現，運動時釋放的一種分子是肌肉適應運動所需的關鍵物質。這種分子有助於增強肌肉力量和耐力，幫助抵禦肌肉損傷，還可能成為治療2型糖尿病引起肌肉損傷的潛在靶點。（新華社）
+
+---
+
+### 2026-08-22 21:49:05  #公司
+
+【關志鷗會見光谷“梧桐樹計劃”企業家】據湖北釋出，8月22日，湖北省委書記關志鷗在武漢會見參與光谷“梧桐樹計劃”的企業家一行。關志鷗說希望各位企業家紮根湖北、深耕湖北，持續擴大在鄂投資佈局，帶動更多上下游企業來鄂投資興業，共同構建全鏈條協同共生的良好產業生態，推動積體電路產業叢集做大做強。長存控股董事長兼總裁陳南翔、中微公司資深副總裁叢海、華海清科董事長王同慶、中科飛測董事長陳魯、珂瑪科技董事長劉先兵、臻寶科技董事長王兵、神州半導體董事長朱培文、微納核芯董事長葉樂、九天睿芯董事長劉洪傑等企業家表示堅定看好湖北發展前景，將充分發揮各自優勢，全力支援和參與“梧桐樹計劃”，推動更多資源要素在鄂聚集，助推積體電路產業高質量發展，為湖北加快建成中部地區崛起的重要戰略支點作出新的更大貢獻。
+
+---
+
+### 2026-08-22 21:46:22  #國際
+
+據美國官員透露：週五晚間，約有40艘油輪透過霍爾木茲海峽南部深水航道進出海峽。當晚約有1600萬桶原油透過該航道運出海峽。
+
+---
+
+### 2026-08-22 21:44:39  #公司
+
+【利亞德OptiTrack為世界人形機器人運動會築牢資料底座】8月22日晚，2026世界人形機器人運動會開幕式在國家速滑館（冰絲帶）舉行。作為本屆賽事官方唯一光學空間定位技術夥伴，利亞德集團攜旗下OptiTrack產品技術方案完整落地賽場，以“LED視聽顯示系統+OptiTrack光學動作捕捉定位系統”雙技術底座，同時承擔開幕式視覺呈現與正式賽事的競技判讀、空間3D資料採集雙重重任。
 
 ---
 
@@ -18693,17 +18717,5 @@ Japan Factory Activity Growth Hits 4-Month High — The S&P Global Japan Manufac
 ### 2026-08-21 08:37:23  #MKT News #Market Themes #AI Revolution #Nikkei 225 #Impact bullish #USDJPY #Impact mixed
 
 【AI demand ample; Japan August manufacturing new export orders post fastest pace in eight years】Japan private sector remained robust in August, with output growth at its fastest since February and manufacturing and services both gaining momentum. Manufacturing new export orders rose at the quickest pace in about eight-and-a-half years, supported by sizable backlogs in semiconductors and AI-related industries. Input costs still climbed sharply amid Middle East conflict-driven supply and energy shocks and a weak yen, but cost inflation eased to a five-month low. Output price growth remains near historical highs, and firms may need to see sustained disinflation before cutting selling prices. Business confidence, sales and employment improved month-on-month; the private sector is expected to stay resilient unless new price or demand shocks emerge.
-
----
-
-### 2026-08-21 08:36:46  #宏觀 #資料 #其他
-
-【前七月深圳外貿同比增長超三成，進出口規模創下歷史同期新高】8月20日，記者從深圳海關獲悉，今年前7個月，深圳外貿進出口總額達3.42萬億元，規模創下歷史同期新高，同比增長32.8%。其中，出口1.77萬億元、增長13.9%，進口1.65萬億元、增長61.9%。今年以來，深圳經濟頂住壓力、穩中提質、向新向好，市場經營主體活力充分迸發，持續為外貿進出口穩步增長注入強勁動能。（讀特）
-
----
-
-### 2026-08-21 08:35:07  #Trading Economics #Economy #Japan #Services PMI #Importance 2
-
-Japan Services Growth at 5-Month High — Japan’s S&P Global Services PMI Business Activity Index was up to 52.3 in August 2026 from a final 51.2 in the previous month, a preliminary estimate showed. It was the third consecutive month of expansion in the services sector and the fastest pace since March.
 
 ---

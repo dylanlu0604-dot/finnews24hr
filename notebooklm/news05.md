@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 21:39:20_
-_本檔包含 3046 則快訊，約 651109 字_
+_更新時間：2026-08-22 21:57:08_
+_本檔包含 3047 則快訊，約 651234 字_
+
+---
+
+### 2026-08-17 21:53:19  #國際
+
+伊朗外交部發言人：美國新一輪制裁不會動搖伊朗的決心。
+
+---
+
+### 2026-08-17 21:52:05  #公司
+
+【叮咚買菜在部分割槽域試點每筆訂單收取基礎包裝費，上海暫不收】叮咚買菜官方公告稱，自2026年8月24日起，每筆訂單收取0.6元基礎包裝費；若訂單包含需保溫配送的商品，在基礎包裝費上加收0.4元每單的保溫包裝費。澎湃新聞記者從叮咚買菜獲悉，目前，這一收費在江浙等部分割槽域試行，試行區域暫不包括上海。
+
+---
+
+### 2026-08-17 21:51:10  #其他
+
+費城半導體指數漲2%，報12668.44點。
+
+---
+
+### 2026-08-17 21:51:06  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
+
+According to CNN, U.S. envoy Jared Kushner urged Israeli leader Benjamin Netanyahu to advance a Trump-backed Gaza ceasefire plan, saying "do not create obstacles".
+
+---
+
+### 2026-08-17 21:50:57  #其他
+
+英格蘭銀行拍賣7.25億英鎊剩餘期限為3-7年的金邊債券，投標倍數為2.18。
+
+---
+
+### 2026-08-17 21:50:52  #公司
+
+【TCL科技：20億元公司債券更名】TCL科技公告稱，公司此前獲證監會註冊發行不超過100億元公司債券，本期擬發行規模不超過20.00億元的債券，原名稱“TCL科技集團股份有限公司2025年面向專業投資者公開發行公司債券”，現變更為“TCL科技集團股份有限公司2026年面向專業投資者公開發行科技創新公司債券(數字經濟)(第二期)”。本次債券名稱變更不改變原發行相關法律檔案的效力，原簽署的相關法律檔案對更名後的債券繼續有效。
 
 ---
 
@@ -18342,35 +18378,5 @@ Turkish President Erdogan said Europe appears unwilling to accept Turkey into th
 ### 2026-08-15 21:58:09  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
 
 【FT: Ukraine's Patriot interceptors depleted, air-defence gap exposed】Financial Times reports Kyiv has largely exhausted interceptors for Patriot batteries, creating a critical gap against Russian ballistic missiles. Ukrainian officials say US-supplied interceptors sent in recent weeks have been used up. As Moscow steps up strikes ahead of winter, pressure on Ukraine's air defences has intensified: after a Russian missile strike on Kyiv on Aug. 5 and a follow-up attack three days later, Ukraine failed to intercept any incoming ballistic missiles in both waves, the FT says. The Ukrainian air force has stopped routinely publishing Russian missile launch counts to avoid revealing how many missiles went un-intercepted.
-
----
-
-### 2026-08-15 21:56:05  #國際
-
-印尼能源部將8月下半月5,300千卡等級煤炭基準價格定為每噸96.92美元。
-
----
-
-### 2026-08-15 21:55:55  #國際
-
-印尼能源部宣佈，8月下半月4100千卡熱值等級煤炭的基準價格定為每噸65.81美元。
-
----
-
-### 2026-08-15 21:46:02  #MKT News
-
-【Navigational warning: military training in South China Sea】China Maritime Safety Administration website shows Jiangmen Maritime Safety Administration issued a navigational warning: Aug 16–17, daily 00:00–12:00, parts of the South China Sea will conduct military training; entry is prohibited.
-
----
-
-### 2026-08-15 21:45:53  #其他
-
-【航行警告！南海海域軍事訓練】據中國海事局網站訊息，江門海事局釋出航行警告，8月16日至17日，每天0時至12時，南海部分海域進行軍事訓練，禁止駛入。
-
----
-
-### 2026-08-15 21:45:18  #國際
-
-黎巴嫩衛生部：以色列對安薩爾和代爾扎赫拉尼兩鎮的襲擊造成11人死亡，19人受傷。
 
 ---
