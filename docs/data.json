@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-23 02:09:47",
-  "count": 16137,
+  "updated": "2026-08-23 02:18:58",
+  "count": 16135,
   "items": [
+    {
+      "id": "5053379",
+      "time": "2026-08-23 02:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統府：總統佩澤希其揚同議會議長、司法部門負責人就國際局勢以及國家經濟治理舉措展開磋商。"
+    },
+    {
+      "id": "5053378",
+      "time": "2026-08-23 02:15:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統府：伊朗三大權力機構負責人確認需加強協調，以應對民生壓力。"
+    },
     {
       "id": "5053370",
       "time": "2026-08-23 02:07:41",
@@ -147451,43 +147467,6 @@
         "MKT News"
       ],
       "text": "Iran's foreign ministry said it reiterated calls to halt Israeli aggression in southern Lebanon and for Israeli forces to withdraw from occupied territories."
-    },
-    {
-      "id": "mkt:01a006a4-97b1-7aab-904a-8d43786d6a3a",
-      "time": "2026-08-16 02:17:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi media Hadas reported Yemeni government forces launched artillery strikes on Houthi positions on the Marib front."
-    },
-    {
-      "id": "5042416",
-      "time": "2026-08-16 02:17:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "海灣合作委員會秘書長譴責伊朗多次襲擊阿聯酋阿布扎比國家石油公司油輪，以及霍爾木茲海峽內的商業船舶，稱這種襲擊屬於不可接受的局勢升級，嚴重侵犯國際航行自由。"
-    },
-    {
-      "id": "mkt:01a006a3-ce46-7aab-904a-800d9899c487",
-      "time": "2026-08-16 02:16:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israeli media report local authorities warned Upper Galilee residents to expect nighttime explosions, attributing the blasts to Israeli military operations in Lebanon."
-    },
-    {
-      "id": "5042415",
-      "time": "2026-08-16 02:14:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：地方當局已通知上加利利居民，夜間會聽到爆炸聲，這是以軍在黎巴嫩開展軍事行動造成。"
     }
   ]
 }
