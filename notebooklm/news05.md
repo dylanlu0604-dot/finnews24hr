@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 00:53:44_
-_本檔包含 3030 則快訊，約 650952 字_
+_更新時間：2026-08-23 01:30:39_
+_本檔包含 3023 則快訊，約 650565 字_
+
+---
+
+### 2026-08-17 22:15:57  #公司
+
+【搬運50公斤重物 香港科企釋出“生產力工具型”人形機器人】新一代產業級人形機器人“小睿G3”17日在香港釋出。該機器人對標成年人力作業能力，可完成過載搬運、物料轉運、精細操作等任務，具備產業價值。 據介紹，“小睿G3”依託香港公司九光技術全棧自研科技，產品搭載自研AI大腦和全身精密力控系統，突破傳統智慧裝置作業瓶頸，環境適配性與作業穩定性提升，適配各行業實體作業場景。 在釋出會的現場演示中，記者看到“小睿G3”響應語音指令，平穩完成50公斤槓鈴搬運、定點擺放等操作，全程動作流暢、姿態穩定。香港科技園公司行政總裁黃秉修表示，非常高興見證香港本土科技企業在具身智慧和人形機器人領域推出全新成果。人形機器人作為具身智慧的重要載體，是人工智慧和新材料等多學科交叉的前沿賽道，更是培育新生產力、推動新型工業化的關鍵方向。他期待九光立足香港，依託粵港澳大灣區完善的產業鏈，推動人形機器人走出實驗室，實現規模化、商業化應用。（新華社）
+
+---
+
+### 2026-08-17 22:15:54  #MKT News
+
+Chile's central bank sold $64 million of FX forwards at an average rate of 913.67 Chilean pesos per USD.
+
+---
+
+### 2026-08-17 22:15:08  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
+
+France's 30-year government bond yield climbed to 4.86%, the highest level in 18 years.
+
+---
+
+### 2026-08-17 22:14:41  #其他
+
+比特幣ETFs在8月10日當週發生3.897億美元淨資金外流，創6月末以來最大單週外流。
+
+---
+
+### 2026-08-17 22:14:37  #MKT News
+
+Israel Defense Forces (IDF) said overnight a Hamas explosive device detonated in the yellow-line area of the northern Gaza Strip and Hamas fired into the same sector; no Israeli personnel were injured. The IDF said it immediately struck the yellow-line area and called the incident a Hamas violation.
+
+---
+
+### 2026-08-17 22:14:34  #市場 #焦點
+
+法國 30 年期國債收益率回升至 4.86%，創下 18 年新高。
+
+---
+
+### 2026-08-17 22:14:14  #公司
+
+【杭州地產酒局上涉事的招商蛇口高管已被免職】據第一財經8月17日報道，業內知情人士透露，招商蛇口已將其浙江公司總經理趙海峰免職。 在今年七月杭州的一個商務酒局上，趙海峰涉嫌傷害一名女性。目前，趙仍在接受相關部門的調查。
+
+---
+
+### 2026-08-17 22:13:46  #MKT News
+
+SoftBank has invested $200 million in construction startup Gravis Robotics.
+
+---
+
+### 2026-08-17 22:12:44  #其他
+
+市場訊息：軟銀向建築初創企業 Gravis Robotics 投資 2 億美元。
 
 ---
 
@@ -18180,101 +18234,5 @@ Al Arabiya TV reported Yemeni government forces shot down a second Houthi-armed 
 ### 2026-08-16 01:32:08  #MKT News
 
 【Israel conducts airstrike on Dair al-Zahrani in Nebetiyeh, southern Lebanon】Israeli forces carried out an airstrike on the town of Dair al-Zahrani in the Nebetiyeh area of southern Lebanon, killing four and wounding 17.
-
----
-
-### 2026-08-16 01:28:16  #國際
-
-【以色列空襲黎巴嫩南部迪爾扎赫拉尼鎮】以軍當天對黎巴嫩奈拜提耶地區迪爾扎赫拉尼鎮發動空襲，造成4人死亡、17人受傷。
-
----
-
-### 2026-08-16 01:26:08  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Israeli Prime Minister Netanyahu said the Israel Defense Forces struck the Hezbollah command post that issued orders for the attack.
-
----
-
-### 2026-08-16 01:25:44  #國際
-
-以色列總理內塔尼亞胡：真主黨在“黃線”範圍內襲擊了以軍士兵。
-
----
-
-### 2026-08-16 01:25:42  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's Prime Minister Netanyahu said three IDF soldiers were seriously wounded in a Hezbollah attack.
-
----
-
-### 2026-08-16 01:23:53  #其他
-
-【中國隊在第38屆國際資訊學奧賽斬獲3金1銀】第38屆國際資訊學奧林匹克競賽（IOI 2026）15日在烏茲別克首都塔什干落下帷幕。中國代表隊斬獲3金1銀，並取得團體第一名的優異成績。
-
----
-
-### 2026-08-16 01:21:29  #MKT News
-
-Israeli Prime Minister Netanyahu said Israel will not remain silent about any attacks on its soldiers and will take tough measures against all threats.
-
----
-
-### 2026-08-16 01:20:58  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli Prime Minister Netanyahu said the military is operating as directed and is eliminating threats to Israel in Lebanon and Gaza.
-
----
-
-### 2026-08-16 01:20:34  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israeli Prime Minister Netanyahu said Hezbollah violated the Lebanese ceasefire and attacked Israeli forces inside the "Yellow Line".
-
----
-
-### 2026-08-16 01:20:16  #國際
-
-以色列總理內塔尼亞胡：真主黨今日早晨破壞了黎巴嫩停火協議。
-
----
-
-### 2026-08-16 01:19:28  #MKT News
-
-Sources in Yemen said Houthi forces launched three missiles at Marib.
-
----
-
-### 2026-08-16 01:18:53  #MKT News #Brent #Impact bullish #XAUUSD
-
-Al Arabiya reported Yemeni military sources said government forces destroyed a Houthi weapons depot in Sarwah, Marib province, Yemen.
-
----
-
-### 2026-08-16 01:17:28  #MKT News
-
-Israel Defense Forces said the soldiers have been taken to hospital for treatment and their families have been notified.
-
----
-
-### 2026-08-16 01:17:19  #MKT News #XAUUSD #Impact bullish #Brent
-
-Israel Defense Forces said an officer and two soldiers were seriously wounded last night in southern Lebanon when struck by an explosive‑laden drone.
-
----
-
-### 2026-08-16 01:12:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemen's electricity minister said the continued presence of Houthi forces makes peace in the region impossible.
-
----
-
-### 2026-08-16 01:12:07  #MKT News
-
-Yemen's electricity minister said the ministry is working to establish service-delivery models in liberated cities and regions.
-
----
-
-### 2026-08-16 00:59:57  #市場 #焦點
-
-布倫特原油暗盤跌破86美元，日內跌超0.1%。
 
 ---
