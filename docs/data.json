@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 08:11:33",
-  "count": 16169,
+  "updated": "2026-08-22 08:15:39",
+  "count": 16168,
   "items": [
+    {
+      "id": "5052895",
+      "time": "2026-08-22 08:13:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【下半年以來千億元級資金借道股票型ETF佈局A股】7月以來，A股市場呈現震盪調整態勢。在市場分歧加大、投資者情緒趨於謹慎的背景下，大規模增量資金正透過股票型ETF（交易型開放式指數基金）入場佈局。Wind資料顯示，截至8月21日，7月以來，股票型ETF資金淨流入已達3676.05億元。僅本週股票型ETF資金淨流入就超百億元，達到183.35億元。具體來看，本週科創半導體ETF華夏、創業板ETF易方達兩隻產品資金淨流入額均在20億元以上；此外，科創50ETF華夏、通訊ETF國泰、科創50ETF易方達、半導體裝置ETF國泰、滬深300ETF華泰柏瑞等產品期間資金淨流入額也均超10億元。（證券日報）"
+    },
+    {
+      "id": "5052894",
+      "time": "2026-08-22 08:10:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【愛立信、聯發科完成GNSS RTK分米級定位測試】8月22日，據愛立信訊息，愛立信和聯發科技已完成全球首例高精度戶外定位端到端（e2e）測試。據介紹，雙方利用符合3GPP標準的全球導航衛星系統（GNSS）實時動態（RTK）技術，在5G商用網路上直接實現了十釐米級別的定位精度。"
+    },
     {
       "id": "5052893",
       "time": "2026-08-22 08:10:39",
@@ -147948,33 +147964,6 @@
         "國際"
       ],
       "text": "【美國密歇根州發生槍擊事件 已致包含嫌犯在內6人死亡】當地時間8月14日，央視記者獲悉，美國密歇根州米索基縣發生一起槍擊事件，造成5人死亡、1人受傷。此外，39歲的嫌疑人查德·希克曼也確認死亡。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a002c5-3fe9-7aab-9046-a933a002063c",
-      "time": "2026-08-15 08:14:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Indonesia 7.7-magnitude quake near Flores triggers tsunami warning】A 7.7-magnitude earthquake struck off Flores island in Indonesia in the early hours of the 15th, the Meteorology, Climatology and Geophysics Agency (BMKG) said. The epicenter was about 30 km northeast of Mbay in East Nusa Tenggara province at a depth of 15 km. No casualties had been reported at the time; BMKG has issued a tsunami warning."
-    },
-    {
-      "id": "mkt:01a002c3-9d94-7aab-9046-a05215d2e5b4",
-      "time": "2026-08-15 08:12:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump says USS Lincoln in Middle East will be replaced】President Trump on the 14th at Andrews Joint Base in Maryland confirmed the USS Lincoln, whose prolonged Middle East deployment has raised questions about onboard living conditions and crew mental health, will be replaced. He said the carrier is \"leaving or about to leave\" and will be relieved \"by a very similar ship.\" U.S. officials said on the 13th they were preparing to send USS George Washington to the region to replace Lincoln. Asked whether families were increasingly worried about crew safety, Trump said, \"No, they are not.\" He added Lincoln's nearly nine-month deployment was \"far from enough.\""
-    },
-    {
-      "id": "5042063",
-      "time": "2026-08-15 08:11:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【胡塞武裝稱襲擊沙特油企設施和葉門政府軍控制地區】葉門胡塞武裝14日說，該組織當天使用無人機襲擊沙特南部一處石油設施，並向葉門政府軍控制的摩卡港相關目標發射導彈，造成人員傷亡。據胡塞武裝控制的薩巴通訊社報道，該組織襲擊沙特奈季蘭地區的阿美石油公司設施，“成功擊中目標”。胡塞武裝軍事官員稱，此次襲擊是對沙特戰機“侵入葉門薩達省上空的回應”。薩達省與沙特接壤，是胡塞武裝控制區和主要據點。沙特方面尚未對胡塞武裝的說法作出回應。（新華社）"
     }
   ]
 }
