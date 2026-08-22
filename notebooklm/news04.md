@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:30:39_
-_本檔包含 3296 則快訊，約 651057 字_
+_更新時間：2026-08-23 01:54:08_
+_本檔包含 3296 則快訊，約 650558 字_
+
+---
+
+### 2026-08-19 08:02:54  #國際
+
+市場訊息：特朗普將任命白宮顧問海蒂·奧弗頓擔任FDA局長。
+
+---
+
+### 2026-08-19 08:01:58  #市場
+
+MSCI亞太指數下跌1%至273.09點。
+
+---
+
+### 2026-08-19 08:01:51  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 opened down 631.39 points, or 0.94%, at 66,829.34 points on Wednesday, Aug. 19.
 
 ---
 
@@ -19910,23 +19928,5 @@ Spot gold rose more than 1% intraday, breaking above $4,420/oz.
 ### 2026-08-17 22:17:42  #其他
 
 幣安：旗下幣安支付已接入不丹DK銀行的二維碼支付網路。
-
----
-
-### 2026-08-17 22:17:28  #市場 #央行 #國際
-
-【歐洲央行警告人工智慧熱潮或將以回撥收場】歐洲央行經濟學家警告，市場對人工智慧的追捧將科技股估值推升至網際網路泡沫時期水平，股市估值或將迎來回撥。與 21 世紀初不同，倘若市場出現大幅下跌，政策制定者降息或實施財政刺激的操作空間已十分有限。歐洲央行表示，由於歐洲投資於美國 “七大科技巨頭”，且歐洲本土股票估值處於高位，歐洲面臨的風險尤為突出。
-
----
-
-### 2026-08-17 22:17:02  #MKT News #Market Regions #Europe & UK
-
-Ukraine's foreign minister said Kyiv has long warned European governments against any cooperation with Russian state nuclear firm Rosatom and urged a renewed, serious discussion on EU sanctions targeting the company.
-
----
-
-### 2026-08-17 22:16:49  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #DXY
-
-Ukraine's foreign minister said Russia's state nuclear company Rosatom is not a conventional energy firm but a tool Moscow uses to pursue monopoly in the global nuclear sector, and that new evidence has emerged demonstrating Rosatom is not a reliable partner.
 
 ---

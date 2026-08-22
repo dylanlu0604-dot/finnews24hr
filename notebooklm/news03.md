@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:30:39_
-_本檔包含 3262 則快訊，約 650658 字_
+_更新時間：2026-08-23 01:54:08_
+_本檔包含 3262 則快訊，約 650958 字_
+
+---
+
+### 2026-08-20 08:38:56  #公司
+
+【帝爾鐳射：在TGV方向除鐳射改質裝置外，也在佈局刻蝕、AOI檢測等配套裝置】帝爾鐳射8月19日在機構電話會議上表示，從產品體系看，公司在TGV方向除鐳射改質裝置外，也在佈局刻蝕、AOI檢測等配套裝置。其中，鐳射改質裝置持續取得訂單和收入，鐳射改質裝置與刻蝕裝置已開始出現成套訂單，AOI檢測裝置正在積極驗證。未來，公司將根據客戶工藝路線、孔型設計、基板尺寸、產能要求等因素，靈活提供單機或配套裝置方案，持續豐富TGV產品矩陣。
+
+---
+
+### 2026-08-20 08:38:12  #市場 #國際
+
+日本東證指數上漲1%，至4052.45點。
+
+---
+
+### 2026-08-20 08:36:03  #公司 #市場 #國際
+
+【投資者認為10年期美債收益率觸及5%將損害亞洲新興市場債券】全球基金認為，若10年期美國國債收益率向5%攀升，將引發亞洲新興市場債券資金外流。美國利率走高，會促使投資者偏好美元資產，減持亞洲區域債券。 多數亞洲基準債券收益率低於美國國債。在美國財政赤字擴大、企業大舉推高美債收益率的背景下，亞洲本幣債券承受較大沖擊風險。 若美國10年期收益率快速逼近5%，將對看多新興市場的觀點構成挑戰，投資者可能撤回資金，迴流至本國市場。
 
 ---
 
@@ -19642,23 +19660,5 @@ Japan's Nikkei 225 fell as much as 2.00% intraday.
 ### 2026-08-19 08:03:04  #MKT News #Market Themes #AI Revolution #WTI #Impact bullish #Brent #DXY
 
 【AI boom and energy shock split Southeast Asia growth】AI-driven demand for semiconductors and other components has underpinned growth in Malaysia and Singapore, while Vietnam remains the region’s fastest-growing large economy. Thailand and the Philippines are weakening as energy costs spike from the Middle East conflict; the Philippines is further hit by a sharp pullback in infrastructure spending. Economies with firms tied to AI-related tech supply chains are proving more resilient; those reliant on imported energy are losing momentum. DBS Group economists said: "Growth divergence depends on domestic resilience to the Middle East crisis and the degree of reliance on tech exports in trade structure."
-
----
-
-### 2026-08-19 08:02:54  #國際
-
-市場訊息：特朗普將任命白宮顧問海蒂·奧弗頓擔任FDA局長。
-
----
-
-### 2026-08-19 08:01:58  #市場
-
-MSCI亞太指數下跌1%至273.09點。
-
----
-
-### 2026-08-19 08:01:51  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 opened down 631.39 points, or 0.94%, at 66,829.34 points on Wednesday, Aug. 19.
 
 ---

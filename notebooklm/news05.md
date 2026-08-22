@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:30:39_
-_本檔包含 3023 則快訊，約 650565 字_
+_更新時間：2026-08-23 01:54:08_
+_本檔包含 3024 則快訊，約 650895 字_
+
+---
+
+### 2026-08-17 22:17:28  #市場 #央行 #國際
+
+【歐洲央行警告人工智慧熱潮或將以回撥收場】歐洲央行經濟學家警告，市場對人工智慧的追捧將科技股估值推升至網際網路泡沫時期水平，股市估值或將迎來回撥。與 21 世紀初不同，倘若市場出現大幅下跌，政策制定者降息或實施財政刺激的操作空間已十分有限。歐洲央行表示，由於歐洲投資於美國 “七大科技巨頭”，且歐洲本土股票估值處於高位，歐洲面臨的風險尤為突出。
+
+---
+
+### 2026-08-17 22:17:02  #MKT News #Market Regions #Europe & UK
+
+Ukraine's foreign minister said Kyiv has long warned European governments against any cooperation with Russian state nuclear firm Rosatom and urged a renewed, serious discussion on EU sanctions targeting the company.
+
+---
+
+### 2026-08-17 22:16:49  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #DXY
+
+Ukraine's foreign minister said Russia's state nuclear company Rosatom is not a conventional energy firm but a tool Moscow uses to pursue monopoly in the global nuclear sector, and that new evidence has emerged demonstrating Rosatom is not a reliable partner.
 
 ---
 
@@ -18222,17 +18240,5 @@ Tajikistan’s energy and water resources minister and transport minister visite
 ### 2026-08-16 01:54:57  #國際
 
 加沙和平委員會認為，在特朗普特使庫什納訪問以色列前夕，加沙相關協議已觸手可及。
-
----
-
-### 2026-08-16 01:40:43  #MKT News
-
-Al Arabiya TV reported Yemeni government forces shot down a second Houthi-armed drone over Marib.
-
----
-
-### 2026-08-16 01:32:08  #MKT News
-
-【Israel conducts airstrike on Dair al-Zahrani in Nebetiyeh, southern Lebanon】Israeli forces carried out an airstrike on the town of Dair al-Zahrani in the Nebetiyeh area of southern Lebanon, killing four and wounding 17.
 
 ---

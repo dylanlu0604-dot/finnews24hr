@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:30:39_
-_本檔包含 3384 則快訊，約 650963 字_
+_更新時間：2026-08-23 01:54:08_
+_本檔包含 3386 則快訊，約 650996 字_
+
+---
+
+### 2026-08-21 09:00:11  #其他
+
+【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。論壇釋出了《中國-APEC能源合作啟新程：以能源合作攜手共促亞太共同繁榮》報告。報告顯示，自1991年加入APEC以來，中國持續對接各經濟體能源發展戰略，合作覆蓋傳統能源、新能源、電力等多個領域，貫通投資、貿易、基礎設施全鏈條，形成供需互補、綠色賦能、互通穩鏈、協同善治的能源合作格局，為區域能源共同安全與可持續發展貢獻了中國力量。APEC第16次能源部長會議將於9月10日至11日在北京舉辦。
+
+---
+
+### 2026-08-21 09:00:04  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2858.00元。
+
+---
+
+### 2026-08-21 09:00:04  #市場 #焦點
+
+白銀連續主力合約日內漲2%，現報16546.00元。
+
+---
+
+### 2026-08-21 09:00:04  #市場
+
+富時中國A50指數期貨開盤上漲0.24%。
+
+---
+
+### 2026-08-21 09:00:03  #市場
+
+【商品期貨開盤】線材連續漲2.89%，白銀連續漲2.70%，紙漿連續漲2.11%，鉑連續漲1.93%，燃料油連續漲1.86%。
 
 ---
 
@@ -20433,23 +20463,5 @@ Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1
 ### 2026-08-20 08:39:04  #MKT News #Market Themes #AI Revolution
 
 【Wuhan Optics Valley unveils six brain–computer interface R&D platforms】On Aug. 18 at a Tongji Hospital–Tianqin Bio signing event in Wuhan, six brain–machine interface (BCI) R&D platforms were inaugurated, including provincial BCI innovation and proof‑of‑concept centers, Tongji Hospital’s BCI institute and joint translational lab with Tianqin Bio, and two laboratory animal centers. A package of projects was launched, led by a National Data Bureau BCI high‑quality dataset project with total funding of 122 mln yuan and a 24‑month build window to create multimodal datasets across 10 disease categories (stroke rehabilitation, spinal‑cord injury, Parkinson’s, epilepsy, etc.). Hubei health authorities also greenlighted translational projects for closed‑loop neural modulation BCI key technologies and a Optics Valley BCI data and compute platform.
-
----
-
-### 2026-08-20 08:38:56  #公司
-
-【帝爾鐳射：在TGV方向除鐳射改質裝置外，也在佈局刻蝕、AOI檢測等配套裝置】帝爾鐳射8月19日在機構電話會議上表示，從產品體系看，公司在TGV方向除鐳射改質裝置外，也在佈局刻蝕、AOI檢測等配套裝置。其中，鐳射改質裝置持續取得訂單和收入，鐳射改質裝置與刻蝕裝置已開始出現成套訂單，AOI檢測裝置正在積極驗證。未來，公司將根據客戶工藝路線、孔型設計、基板尺寸、產能要求等因素，靈活提供單機或配套裝置方案，持續豐富TGV產品矩陣。
-
----
-
-### 2026-08-20 08:38:12  #市場 #國際
-
-日本東證指數上漲1%，至4052.45點。
-
----
-
-### 2026-08-20 08:36:03  #公司 #市場 #國際
-
-【投資者認為10年期美債收益率觸及5%將損害亞洲新興市場債券】全球基金認為，若10年期美國國債收益率向5%攀升，將引發亞洲新興市場債券資金外流。美國利率走高，會促使投資者偏好美元資產，減持亞洲區域債券。 多數亞洲基準債券收益率低於美國國債。在美國財政赤字擴大、企業大舉推高美債收益率的背景下，亞洲本幣債券承受較大沖擊風險。 若美國10年期收益率快速逼近5%，將對看多新興市場的觀點構成挑戰，投資者可能撤回資金，迴流至本國市場。
 
 ---
