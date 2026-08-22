@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-22 09:29:49",
-  "count": 16172,
+  "updated": "2026-08-22 09:33:51",
+  "count": 16171,
   "items": [
+    {
+      "id": "5052945",
+      "time": "2026-08-22 09:32:22",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "老鳳祥足金飾品報1388元/克，單日大漲32元；老廟黃金足金飾品報1391元/克，單日大漲34元；周生生足金飾品報1387元/克，單日大漲22元。"
+    },
     {
       "id": "5052944",
       "time": "2026-08-22 09:28:08",
@@ -147949,26 +147958,6 @@
         "國際"
       ],
       "text": "【印尼地震已造成1人死亡】當地時間15日，據印尼救援部門訊息，截至目前，地震已造成1人死亡。中國地震臺網正式測定：8月15日5時58分在印尼弗洛勒斯島附近海域（南緯8.40度，東經121.40度）發生7.7級地震，震源深度20千米。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0030d-0be7-7aab-9046-fbd29c6d1eda",
-      "time": "2026-08-15 09:33:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【7.7 quake near Indonesia's Flores island kills one】On Aug 15 local time Indonesia's rescue agency reported one fatality after a 7.7-magnitude earthquake. cenc recorded the quake at 05:58 on Aug 15 near Flores island (8.40°S, 121.40°E) with a focal depth of 20 km."
-    },
-    {
-      "id": "mkt:01a0030a-53be-7aab-9046-f262bb462cdb",
-      "time": "2026-08-15 09:30:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran rebuts Trump over Strait of Hormuz remarks】U.S. President Trump said on the 14th he would \"declare the Strait of Hormuz U.S. territory\" soon after \"defeating Iran.\" Iran deputy foreign minister Garibabadi replied the strait \"cannot be controlled by a tweet, an aircraft carrier, an executive order or a campaign speech,\" and said Iran \"is not afraid of threats and will not be deterred by force.\" IRGC navy commander Ali Azmai said on the 14th the strait \"remains closed and is fully controlled by the Iranian military,\" adding \"the reality should be seen on site rather than in U.S. officials' statements.\""
     }
   ]
 }
