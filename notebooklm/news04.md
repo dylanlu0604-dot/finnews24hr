@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 23:31:23_
-_本檔包含 3305 則快訊，約 651120 字_
+_更新時間：2026-08-22 23:51:54_
+_本檔包含 3307 則快訊，約 651500 字_
+
+---
+
+### 2026-08-19 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Core Machinery Orders (MoM) (Jun) | actual 9.7% | consensus 7.80% | previous -12.40%
+
+---
+
+### 2026-08-19 07:49:06  #其他 #焦點
+
+【重大突破！我國首次實現火箭陸地回收】今天（8月19日），朱雀三號遙二運載火箭在東風商業航天創新試驗區發射升空，火箭一子級按預定程式成功著陸於甘肅省民勤縣朱雀三號著陸場坪。這是我國在重複使用火箭關鍵技術上取得的又一重大突破，朱雀三號成為我國首款成功入軌並實現陸地回收的運載火箭。（央視）
+
+---
+
+### 2026-08-19 07:48:58  #公司
+
+【本週35只新基金啟動發行】本週（8月17日至8月23日）全市場共有35只新基金啟動募集，涉及廣發基金、天弘基金、易方達基金、招商基金、富國基金、銀華基金、匯添富基金、南方基金、鵬華基金等多家基金公司。
+
+---
+
+### 2026-08-19 07:46:42  #公司
+
+【鴻海增資越南子公司 計劃擴大墨西哥業務】鴻海在臺灣證券交易所公告稱，子公司Foxconn Singapore Pte Ltd取得FuKang Technology股權，交易金額為3.584億美元，用途為長期投資。FuKang Technology是鴻海在越南的子公司。另據公告，鴻海子公司Cloud Network Technology Singapore購買FII AMC MEXICO S. DE R.L. DE C.V.的股份，交易金額約2700萬美元。
 
 ---
 
@@ -19970,17 +19994,5 @@ Iran's supreme leader said he will remain vigilant and actively safeguard Iran's
 ### 2026-08-17 22:01:04  #MKT News
 
 【Saudi offers cargoes loaded off Oman coast; may be shifting to transshipment】Saudi Arabia is offering cargoes loaded off the coast of Oman, suggesting it may be following the UAE in routing more oil via transshipment rather than conventional Strait of Hormuz shipments. Sources say Aramco is supplying ship‑to‑ship cargoes loaded at Gulf of Oman ports such as Sohar. The cargoes are Arab Medium and Heavy grades, pointing to Persian Gulf origin. In March Aramco CEO Amin Nasser said the Yanbu pipeline mainly carries Arab Light and Extra Light, while near‑shore Persian Gulf fields supply the kingdom’s medium and heavy barrels. Aramco declined to comment.
-
----
-
-### 2026-08-17 22:01:03  #其他
-
-【閃迪股價漲幅擴大至8.7% 股價創7月14日以來新高】閃迪股價漲幅擴大至8.70%，報1784.159美元/股，股價創7月14日以來新高，總市值報2605億美元。
-
----
-
-### 2026-08-17 22:00:53  #MKT News #Commodities #Energy #EQNR.O
-
-Equinor to buy a stake in a Pennsylvania gas-fired power plant for $940m from GIP, a BlackRock affiliate.
 
 ---
