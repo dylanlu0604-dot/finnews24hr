@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 22:51:58_
-_本檔包含 3305 則快訊，約 651058 字_
+_更新時間：2026-08-22 23:31:23_
+_本檔包含 3305 則快訊，約 651120 字_
+
+---
+
+### 2026-08-19 07:45:46  #市場 #國際
+
+基準10年期日本公債期貨早盤上漲0.03點。
+
+---
+
+### 2026-08-19 07:45:36  #市場 #國際
+
+日本日經平均指數期貨早盤下跌2.0%。
+
+---
+
+### 2026-08-19 07:44:20  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Japanese corporate profits beat estimates by most in five years; rally may be broadening】Despite a sharp rise in oil costs, Japanese corporate profits beat analyst forecasts at the highest rate in five years, suggesting the equity rally may be entering a broader phase. For the quarter to June, roughly 71% of companies exceeded estimates and combined net profit for Japan's 500 largest firms rose to ¥21 tln (about $132 bln) from about ¥18 tln a year earlier. Profitability improved sharply: TOPIX constituents' profit margin is estimated at 9.3%, the highest in more than 30 years. While last quarter's gains were concentrated in tech and AI-related names, the latest results show earnings growth widening as firms pass higher costs to customers; a Resona Holdings strategist said domestic-demand companies also beat expectations and investor interest has broadened.
+
+---
+
+### 2026-08-19 07:43:53  #公司 #國際
+
+【日本企業財報季表現超分析師預期 日股漲勢有望擴充套件至AI板塊之外】儘管油價飆升，日本企業仍公佈了五年來最超預期的業績，這增強了人們對各行業強勁盈利增長勢頭將把股市漲勢擴充套件到人工智慧(AI)相關板塊之外的信心。資料顯示，截至6月的三個月，約71%的本地企業利潤超過分析師預期。其中500家最大企業的淨利潤總和突破21萬億日元（1320億美元），超越一年前創下的約18萬億日元的紀錄。企業盈利能力也大幅提升，東證指數成分股公司的利潤率預計達到創紀錄的9.3%，這是自三十多年前有可比資料以來的最高水平。
 
 ---
 
@@ -19958,29 +19982,5 @@ Iran's supreme leader said he will remain vigilant and actively safeguard Iran's
 ### 2026-08-17 22:00:53  #MKT News #Commodities #Energy #EQNR.O
 
 Equinor to buy a stake in a Pennsylvania gas-fired power plant for $940m from GIP, a BlackRock affiliate.
-
----
-
-### 2026-08-17 22:00:12  #國際
-
-美國8月NAHB房產市場指數 35，預期 33，前值 34。
-
----
-
-### 2026-08-17 22:00:07  #MKT News #Important
-
-US NAHB housing market index for August 35, consensus 33, prior 34.
-
----
-
-### 2026-08-17 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | previous 34
-
----
-
-### 2026-08-17 21:59:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%.
 
 ---

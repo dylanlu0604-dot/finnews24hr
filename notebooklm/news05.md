@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 22:51:58_
-_本檔包含 3037 則快訊，約 650723 字_
+_更新時間：2026-08-22 23:31:23_
+_本檔包含 3031 則快訊，約 651108 字_
+
+---
+
+### 2026-08-17 22:00:12  #國際
+
+美國8月NAHB房產市場指數 35，預期 33，前值 34。
+
+---
+
+### 2026-08-17 22:00:07  #MKT News #Important
+
+US NAHB housing market index for August 35, consensus 33, prior 34.
+
+---
+
+### 2026-08-17 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | previous 34
+
+---
+
+### 2026-08-17 21:59:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%.
 
 ---
 
@@ -18258,65 +18282,5 @@ Yemen's Mokha port manager said the port suspended operations after an attack by
 ### 2026-08-15 23:32:54  #其他
 
 葉門穆哈港港口主管：近日胡塞武裝發射25枚以上導彈襲擊葉門穆哈港，港口現已暫停所有商業與海運作業。襲擊造成7人遇難，經濟損失達1600萬美元。
-
----
-
-### 2026-08-15 23:17:52  #其他
-
-【電影《歡迎來龍餐館》上映5天觀影人次破2000萬】據貓眼專業版資料，電影《歡迎來龍餐館》上映5天，觀影人次破2000萬。
-
----
-
-### 2026-08-15 23:11:54  #其他
-
-葉門摩卡港口負責人：葉門摩卡港在胡塞武裝襲擊後停止運營。
-
----
-
-### 2026-08-15 23:11:25  #國際
-
-以色列總理辦公室：軍方事後才得知，真主黨刻意將平民安置在該軍事設施內。
-
----
-
-### 2026-08-15 23:11:09  #國際
-
-以色列總理辦公室：軍方針對真主黨的襲擊展開反擊，轟炸了下達襲擊指令的指揮部。
-
----
-
-### 2026-08-15 23:11:00  #國際
-
-以色列總理辦公室：真主黨今日早晨破壞黎巴嫩停火協議，在保護定居點的安全區內襲擊我方士兵。
-
----
-
-### 2026-08-15 23:08:54  #其他
-
-【哥倫比亞強震已致294人遇難】據哥倫比亞國家災害風險管理局截至當地時間8月15日6時30分發布的最新統計，哥倫比亞地震已造成294人死亡、3935人受傷、320人失蹤，另有353人獲救。據中國地震臺網正式測定，北京時間10日晚上（哥倫比亞當地時間10日上午），哥倫比亞西北部發生里氏7.5級強震，震源深度80公里。哥倫比亞全國有32個城市嚴重受災。
-
----
-
-### 2026-08-15 23:04:59  #其他
-
-【中歐北極快航正式常態化運營】8月15日19時許，海傑航運“迪拜塔”號緩緩駛離寧波舟山港穿山港區集裝箱碼頭，標誌著寧波舟山港中歐北極集裝箱航線（簡稱中歐北極快航）正式邁入夏季通航季周班運營新階段，此航線常態化運營為中歐貿易開闢了一條快捷高效、綠色低碳、韌性強勁的北向物流大通道。（新華社）
-
----
-
-### 2026-08-15 23:04:27  #其他
-
-秘魯政府：秘魯6月國內生產總值同比增長1.75%。
-
----
-
-### 2026-08-15 23:02:17  #國際
-
-【以色列空襲黎巴嫩 造成11人死亡】據黎巴嫩公共衛生部緊急行動中心當地時間15日下午釋出的宣告，當天以色列對納巴提耶區代爾扎赫拉尼和安薩爾鎮的空襲共造成11人死亡，另有19人受傷。
-
----
-
-### 2026-08-15 23:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Israel Defense Forces said it killed a commander in Hezbollah's Radwan unit.
 
 ---
