@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 00:57:53",
+  "updated": "2026-08-23 01:02:04",
   "count": 16141,
   "items": [
+    {
+      "id": "5053310",
+      "time": "2026-08-23 00:59:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機襲擊了俄羅斯線上零售商Ozon的一個倉庫，造成至少10人死亡。"
+    },
     {
       "id": "5053297",
       "time": "2026-08-23 00:30:54",
@@ -147548,15 +147556,6 @@
         "MKT News"
       ],
       "text": "Yemen's electricity minister said the ministry is working to establish service-delivery models in liberated cities and regions."
-    },
-    {
-      "id": "5042407",
-      "time": "2026-08-16 00:59:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤跌破86美元，日內跌超0.1%。"
     }
   ]
 }
