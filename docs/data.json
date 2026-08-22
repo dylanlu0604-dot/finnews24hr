@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-22 18:07:59",
-  "count": 16134,
+  "updated": "2026-08-22 18:12:23",
+  "count": 16133,
   "items": [
+    {
+      "id": "5053133",
+      "time": "2026-08-22 18:09:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山洪災害紅色預警：廣西西南部局地發生災害可能性很大】水利部和中國氣象局8月22日18時聯合釋出紅色山洪災害氣象預警：預計，8月22日20時至23日20時，廣西西南部部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警）。"
+    },
     {
       "id": "5053132",
       "time": "2026-08-22 18:05:58",
@@ -147554,25 +147562,6 @@
         "市場"
       ],
       "text": "【劉益謙控股子公司新理益新進成為頎中科技第七大股東】頎中科技(688352.SH)週五晚間釋出2026年半年報，截至二季度末，新理益集團有限公司持有頎中科技400.22萬股，佔總股本比例0.34%，為公司的第七大股東。以頎中科技週五收盤價18.83元/股估算，新理益在頎中科技的持股市值約7536.14萬元。新理益系劉益謙的控股子公司。"
-    },
-    {
-      "id": "5042266",
-      "time": "2026-08-15 18:11:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中方團隊在全球最大“人造太陽”壁處理領域實現技術鏈條貫通】據中核集團訊息，日前，中核集團核工業西南物理研究院團隊在國際熱核聚變實驗堆（ITER）裝置壁處理技術領域接連取得重要進展：不僅順利透過輝光放電清洗系統（GDC）永久電極專案補充設計最終評審（DeltaFDR），同時牽頭並聯閤中核二三成功中標並在法國簽署硼化系統與X射線晶體光譜儀（XRCS）供氣系統設計製造合同。這標誌著中方團隊在ITER裝置壁處理核心技術領域取得新拓展，業務範圍由原有的輝光放電清洗延伸至硼化壁處理，實現了從雜質清除到表面預處理的技術鏈條貫通，將為ITER裝置全鎢第一壁執行提供關鍵保障。"
-    },
-    {
-      "id": "mkt:01a004e7-17ce-7aab-9048-95239e404474",
-      "time": "2026-08-15 18:10:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Iran intelligence says it uncovered French \"termite plan\" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to \"pre-emptively\" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called \"termite plan\" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the \"reckless plot\"."
     }
   ]
 }
