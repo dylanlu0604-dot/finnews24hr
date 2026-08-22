@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 17:47:49_
-_本檔包含 3397 則快訊，約 652996 字_
+_更新時間：2026-08-22 18:25:30_
+_本檔包含 3395 則快訊，約 652591 字_
+
+---
+
+### 2026-08-21 08:02:18  #公司
+
+【長春高新：百克生物參股公司的通用型腫瘤mRNA疫苗（TMT101）正在北京協和醫院開展IIT臨床試驗】長春高新8月20日在機構電話會議上表示，百克生物搭建了包括mRNA疫苗技術平臺在內的多個研發技術平臺，並持續推進mRNA平臺技術拓展應用。截至2026年6月末，百克生物HSV-2疫苗（自研）正在開展I期臨床試驗；百克生物的參股公司傳信生物醫藥（蘇州）有限公司（根據雙方協議約定，在傳信生物滿足相關里程碑條件時，百克生物將最終持有其100%股權）研發的通用型腫瘤mRNA疫苗（TMT101）正在北京協和醫院開展IIT臨床試驗。
+
+---
+
+### 2026-08-21 08:02:12  #MKT News #Market Regions #Emerging Markets #Nikkei 225 #Impact bearish #Hang Seng Index
+
+South Korea's KOSPI opened down 73.25 points (-1.07%) at 6,779.33 on Aug 21 (Fri).
+
+---
+
+### 2026-08-21 08:01:34  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #USDJPY #DXY #Impact bullish
+
+Japan's Nikkei 225 opened down 639.56 points, or 0.97%, at 65,577.23 on Friday, Aug. 21.
+
+---
+
+### 2026-08-21 08:01:27  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+【Japan's Nikkei 225 and South Korea's KOSPI open over 1% lower】Japan's Nikkei 225 and South Korea's KOSPI opened more than 1% lower.
+
+---
+
+### 2026-08-21 08:00:54  #市場 #焦點 #國際
+
+【日韓股市低開】日經225指數低開1.1%，韓國首爾綜指低開1.4%。
+
+---
+
+### 2026-08-21 08:00:22  #國際
+
+韓國8月進口20天同比 19%，前值 20%。韓國8月出口20天同比 56%，前值 52.3%。
+
+---
+
+### 2026-08-21 07:59:36  #公司 #市場
+
+三星股價小幅上漲，此前宣佈至多790億美元的股東回報計劃。
+
+---
+
+### 2026-08-21 07:58:28  #其他
+
+李寧宣佈中期股息每股0.3512元人民幣，上年同期為0.3359元人民幣。
+
+---
+
+### 2026-08-21 07:58:14  #公司
+
+【智微智慧：向特定物件發行股票申請獲深交所受理】智微智慧公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。
+
+---
+
+### 2026-08-21 07:58:11  #公司
+
+【萊寶高科：回覆定增稽核問詢函並更新申請檔案】萊寶高科公告稱，公司收到深交所出具的2026年度向特定物件發行A股股票的稽核問詢函後，已會同相關中介機構對問詢函所列問題逐項回覆說明，並對募集說明書等申請檔案進行補充更新，相關內容詳見同日登載於巨潮資訊網的公告。本次定增事項已經公司董事會及股東會審議透過，尚需透過深交所稽核並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。
+
+---
+
+### 2026-08-21 07:57:59  #其他
+
+李寧上半年淨利潤18.2億元人民幣，上年同期淨利潤為17.4億元人民幣。
+
+---
+
+### 2026-08-21 07:57:52  #其他
+
+李寧：上半年營收152.35億元人民幣，上年同期為148.2億元人民幣。
 
 ---
 
@@ -20445,94 +20517,5 @@ Japan July seasonally adjusted merchandise trade deficit 686.0 bln yen, versus f
 ### 2026-08-20 07:50:34  #國際
 
 日本財務省公佈：7月初步原油進口量同比增加5.5%。
-
----
-
-### 2026-08-20 07:50:31  #MKT News #Economic Calendar #Important
-
-Japan | Adjusted Merchandise Trade Balance (Jul) | actual -686009000000B | consensus -407600000000B | previous -881900000000B
-
----
-
-### 2026-08-20 07:50:25  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Japan bought ¥1.1351 trillion of foreign bonds in the week to Aug. 14; prior figure revised from ¥1.6294 trillion to ¥1.6367 trillion.
-
----
-
-### 2026-08-20 07:50:23  #資料 #國際
-
-日本7月出口同比 23.2%，預期 20.1%，前值 19.3%。
-日本7月進口同比 27.8%，預期 25.1%，前值 25.4%。
-日本7月未季調商品貿易帳 -6345億日元，預期 -6490億日元，前值 -4069億日元。
-日本7月季調後商品貿易帳 -6860.09億日元，預期 -4416億日元，前值 -8819億日元。
-日本至8月14日當週買進外國股票 13913億日元，前值由9635億日元修正為9274億日元。
-日本至8月14日當週外資買進日債 -12499億日元，前值由-587億日元修正為-567億日元。
-
----
-
-### 2026-08-20 07:50:18  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Net foreign purchases of Japanese equities totalled 621.2 bln yen in the week to Aug. 14; the prior week's net selling was revised from 368.5 bln yen to 368.6 bln yen.
-
----
-
-### 2026-08-20 07:50:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
-
-Japan July goods exports YoY 23.2% (expected 19.9%; prior 19.3%).
-
----
-
-### 2026-08-20 07:50:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan July merchandise trade balance (non-seasonally adjusted) -634.5 bln yen, vs. -680.0 bln expected. June trade balance revised from -406.9 bln to -409.9 bln.
-
----
-
-### 2026-08-20 07:50:11  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Japan July goods imports YoY 27.8% (expected 26.5%, prior 25.4%).
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Bonds Buying (Aug.14) | actual 1135100000000B | previous 1629400000000B
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Stocks (Aug.14) | actual 621200000000B | previous -368500000000B
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Unadjusted Merchandise Trade Balance (Jul) | actual -634500000000B | consensus -680000000000B | previous -406900000000B
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Annualized Adjusted Merchandise Trade Imports (Jul) | actual 27.8% | consensus 26.5% | previous 25.40%
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Annualized Adjusted Merchandise Trade Exports (Jul) | actual 23.2% | consensus 19.9% | previous 19.30%
-
----
-
-### 2026-08-20 07:47:08  #市場 #國際
-
-基準10年期日本國債期貨早盤上漲0.19個點。
-
----
-
-### 2026-08-20 07:47:05  #市場 #國際
-
-日本日經平均指數期貨早盤上漲1.3%。
 
 ---
