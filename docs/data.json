@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-22 21:14:27",
-  "count": 16107,
+  "updated": "2026-08-22 21:18:33",
+  "count": 16105,
   "items": [
+    {
+      "id": "5053187",
+      "time": "2026-08-22 21:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我與法國總統埃馬紐埃爾·馬克龍進行了一次非常好的通話。我們非常感激法國總統願意幫助我們與其他擁有愛國者導彈必要彈藥的夥伴溝通。我們同意加速交付最新的法國裝置和導彈。感謝您確認願意提供導彈生產許可。"
+    },
     {
       "id": "5053186",
       "time": "2026-08-22 21:07:26",
@@ -147272,32 +147280,6 @@
         "XAUUSD"
       ],
       "text": "【Iran, Oman appear to agree shipping routes through Strait of Hormuz】Foreign reports say Iran and Oman appear to have agreed on shipping routes through the Strait of Hormuz as part of talks on managing the chokepoint. Iran foreign ministry spokesman Baghaei said a finalized \"shipping map\" would form part of a broader arrangement and an independent bilateral pact to protect sovereignty and ensure safe passage. State media gave no details on transit fees or security measures and said further negotiations are planned. The move follows recent attacks in the strait; the United States was not involved and is unlikely to accept any deal that does not restore free navigation."
-    },
-    {
-      "id": "em:qqyh_zgyh:202608153842448055",
-      "time": "2026-08-15 21:16:31",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608153842448055",
-      "time": "2026-08-15 21:16:31",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【中國信貸結構持續調整 對實體經濟支援力度不減】中國央行14日公佈7月金融資料。資料顯示，7月末，普惠小微貸款餘額、不含房地產業的服務業中長期貸款餘額同比分別增長9%和9.3%。以上貸款增速均高於同期各項貸款增速。從更長的時間段來看，近十年來，房地產、基建新增貸款佔比由60%以上降至10%左右，而科技金融、綠色金融、普惠金融、養老金融、數字金融領域的新增貸款佔比升至70%以上。"
-    },
-    {
-      "id": "5042337",
-      "time": "2026-08-15 21:16:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列襲擊黎巴嫩南部後，真主黨呼籲黎巴嫩政府停止與以色列的談判。"
     }
   ]
 }
