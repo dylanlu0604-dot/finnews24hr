@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-22 18:03:49",
+  "updated": "2026-08-22 18:07:59",
   "count": 16134,
   "items": [
+    {
+      "id": "5053132",
+      "time": "2026-08-22 18:05:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破87美元，日內跌超0.4%。"
+    },
     {
       "id": "5053131",
       "time": "2026-08-22 18:00:21",
@@ -147564,14 +147573,6 @@
         "Europe & UK"
       ],
       "text": "【Iran intelligence says it uncovered French \"termite plan\" to infiltrate, interfere in Iran's internal affairs】Iran's Ministry of Intelligence said agents, while executing arrest warrants in a major foreign-infiltration and interference case, found two French diplomats illegally present at a clandestine meeting. After confirming identities, the ministry notified the foreign ministry and, accompanied by diplomatic police, handed the two to Iran's ambassador to France. The ministry accused the French side of mounting a media campaign to \"pre-emptively\" obscure the violations. Preliminary checks of seized documents and contracts revealed a so-called \"termite plan\" involving infiltration, foreign interference and efforts to create conditions for actions damaging Iran's national independence, including identifying targets inside and outside Iran, establishing secret contacts and building covert networks; the ministry said one contract bore the signature of a former French ambassador to Iran and said the French government must explain the \"reckless plot\"."
-    },
-    {
-      "id": "5042265",
-      "time": "2026-08-15 18:04:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商鋪低頻噪聲擾民被判擔責 生態環境法典施行第一案宣判】8月15日，我國第二部法典——《中華人民共和國生態環境法典》正式施行。當日，全國首例適用生態環境法典審理的噪聲汙染責任糾紛案在浙江省衢州市衢江區人民法院開庭並當庭宣判，新法迎來司法實踐“第一案”。法院依據《中華人民共和國生態環境法典》相關規定，結合現場勘查、醫療記錄等證據，按照經濟效益原則以及損害最小化原則當庭宣判：判決被告限期進行降噪、減振整改，賠償原告醫療費和精神損害撫慰金。（央視新聞）"
     }
   ]
 }
