@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 21:35:10",
+  "updated": "2026-08-22 21:39:20",
   "count": 16106,
   "items": [
+    {
+      "id": "5053195",
+      "time": "2026-08-22 21:37:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼將就應對美國關稅發表講話。"
+    },
+    {
+      "id": "5053194",
+      "time": "2026-08-22 21:36:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾擎機器人釋出仿人腦具身智慧引擎EngineAI Awaken】8月22日，世界機器人大會WRC期間，眾擎機器人CTO李力耘系統闡釋了公司全棧具身智慧技術路線與全新AI模型架構，併發布仿人腦具身智慧引擎EngineAI Awaken。據介紹，該引擎透過融合WAM與VLA模型，機器人僅需2小時實機部署與微調訓練，長程動作成功率即可超過98%，實現低樣本條件下的高效泛化。目前，該架構已與眾擎自研力控關節、靈巧手及機器人本體進行整合。"
+    },
     {
       "id": "5053193",
       "time": "2026-08-22 21:31:10",
@@ -147270,22 +147286,6 @@
         "國際"
       ],
       "text": "黎巴嫩衛生部：以色列對安薩爾和代爾扎赫拉尼兩鎮的襲擊造成11人死亡，19人受傷。"
-    },
-    {
-      "id": "5042352",
-      "time": "2026-08-15 21:36:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國駐日本大使館發言人就日方涉靖國神社消極動向答記者問】問：8月15日是日本戰敗投降日，日本首相高市早苗向靖國神社供奉祭祀費，包括防衛大臣在內的部分內閣成員、自民黨高官及大批國會議員前往參拜，請問你對此有何評論？ 答：靖國神社是日本軍國主義發動侵略戰爭的精神工具和象徵，供奉有對侵略戰爭負有直接罪責的14名甲級戰犯。日方領導人和政客對靖國神社頂禮膜拜，公然站在歷史正義和人類良知的對立面，嚴重挑戰二戰勝利成果和戰後國際秩序。中方對此表示強烈憤慨、嚴厲譴責，已向日方提出嚴正交涉、強烈抗議。 今年是東京審判開庭80週年，東京審判依法對甲級戰犯作出裁決，捍衛了世界反法西斯戰爭的勝利成果。正確對待和深刻反省軍國主義侵略歷史，是日本戰後重返國際社會的重要前提，也是建立和發展中日關係的重要政治基礎。我們敦促日方深刻反省歷史罪責，認真汲取歷史教訓，恪守和平發展承諾，以實際行動同軍國主義徹底切割，停止“再軍事化”的危險行徑，不要再次走向歷史的被告席。（日月譚天）"
-    },
-    {
-      "id": "mkt:01a005a2-362b-7aab-9049-62eaefe21023",
-      "time": "2026-08-15 21:35:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yushu Technology IPO: OTC scalper allocation rumours unfounded; underwriter flags legal and market risk】Market chatter claimed scalpers were buying Yushu Technology IPO allocations off‑market and some intermediaries were quoting well above the offer price. Institutional investors, private funds and brokers contacted said they found no evidence and described the reports as largely unfounded. Such private OTC arrangements may be legally questionable and could expose investors to losses, the sources warned. CITIC Securities, the IPO's lead underwriter, reminded market participants that securities trading must comply with laws and market rules, be conducted via authorised channels and real‑name accounts, and urged against speculative bandwagoning while advising careful risk assessment."
     }
   ]
 }
