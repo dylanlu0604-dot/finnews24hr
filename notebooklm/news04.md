@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:54:08_
-_本檔包含 3296 則快訊，約 650558 字_
+_更新時間：2026-08-23 02:42:40_
+_本檔包含 3294 則快訊，約 650264 字_
+
+---
+
+### 2026-08-19 08:06:08  #其他
+
+【青島—溫哥華航線將於10月2日復航】據“青島釋出”，由首都航空執飛的杭州—青島—溫哥華航線將於10月2日復航，每週五執行一班，機型為空客A330寬體機，目前已在各大平臺公開售票。這是加拿大交通部今年4月宣佈大幅增加中加直航配額後，又一條重啟的中加航線。復航後，該航線將成為山東省內唯一直飛北美洲的客運航線。今年1至7月，青島機場國際及地區旅客量達210萬人次，同比增長12%，位列全國機場第10位。
+
+---
+
+### 2026-08-19 08:05:48  #MKT News
+
+South Korea's KOSPI intraday losses widened to 6.00%, trading at 6,454.44 points.
+
+---
+
+### 2026-08-19 08:05:00  #公司 #國際
+
+【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報6454.44點。個股方面，SK海力士跌超8%，三星電子跌超7%。
+
+---
+
+### 2026-08-19 08:04:56  #市場
+
+SK海力士股價早盤下跌8.2%，至1,525,500韓元。
+
+---
+
+### 2026-08-19 08:04:47  #市場
+
+日經指數下跌2%。
+
+---
+
+### 2026-08-19 08:04:17  #公司 #國際
+
+【韓媒稱韓美聯合軍演日程將減半 韓國防部稱無法確認 】韓國廣播公司18日晚援引軍方人士訊息報道稱，韓美“乙支自由之盾”聯合軍演日程將縮短一半，在防禦作戰結束後提前結束。韓國國防部19日表示，對此無法確認。（新華社）
+
+---
+
+### 2026-08-19 08:04:01  #國際
+
+韓國KOSPI指數大跌5.5%，晶片股重挫。
+
+---
+
+### 2026-08-19 08:03:57  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 fell as much as 2.00% intraday.
+
+---
+
+### 2026-08-19 08:03:04  #公司
+
+【北部灣港集團與寧德時代交流座談】據北部灣港集團訊息，近日，北部灣港集團與到訪的寧德時代在南寧開展交流座談。雙方圍繞港航物流、新能源裝置運維、儲能業務等方面開展深入交流。交流中雙方一致認為，北部灣港集團與寧德時代在新能源裝置應用、換電站建設運營、鋰電池集裝箱出口等方面取得了積極合作成效。當前，平陸運河通航在即，西部陸海新通道建設持續深化，港口綠色低碳轉型加速推進，雙方表示將搶抓戰略機遇，在新能源裝置運維與電池全生命週期管理、綠色智慧新能源船舶建設、儲能業務等方面深化務實合作。
+
+---
+
+### 2026-08-19 08:03:04  #MKT News #Market Themes #AI Revolution #WTI #Impact bullish #Brent #DXY
+
+【AI boom and energy shock split Southeast Asia growth】AI-driven demand for semiconductors and other components has underpinned growth in Malaysia and Singapore, while Vietnam remains the region’s fastest-growing large economy. Thailand and the Philippines are weakening as energy costs spike from the Middle East conflict; the Philippines is further hit by a sharp pullback in infrastructure spending. Economies with firms tied to AI-related tech supply chains are proving more resilient; those reliant on imported energy are losing momentum. DBS Group economists said: "Growth divergence depends on domestic resilience to the Middle East crisis and the degree of reliance on tech exports in trade structure."
 
 ---
 
@@ -19856,77 +19916,5 @@ Refinitiv: Uranium miner NexGen Energy said it is sharing technical information 
 ### 2026-08-17 22:23:02  #MKT News
 
 The Jerusalem Post, citing sources, reported Israel and the US have agreed that in the initial phase of disarming Hamas, weapons surrendered by Hamas will be destroyed by an international stabilization force led by US Major General Jasper Jeffers, rather than handed to the proposed Palestinian technocratic government (NCAG).
-
----
-
-### 2026-08-17 22:22:34  #市場 #焦點
-
-滬銀2610成交額已超330億元，盤面短線上漲，最新報16145元/千克，漲幅0.91%，日內增倉近5400手，量倉活躍度同步抬升。
-
----
-
-### 2026-08-17 22:22:32  #MKT News #Important #Commodities #Precious Metals
-
-Shanghai silver futures 2610 trading value has exceeded CNY33.0 bln; the contract is trading at CNY16,145/kg, up 0.91% intraday. Open interest rose by nearly 5,400 contracts, with volume and OI climbing in tandem.
-
----
-
-### 2026-08-17 22:21:54  #市場 #焦點
-
-現貨黃金突破4420美元/盎司，日內漲1.04%。
-
----
-
-### 2026-08-17 22:21:31  #公司 #市場
-
-【愛麗家居：8月18日開市起復牌 提示交易風險】愛麗家居公告稱，公司股票於2026年8月18日開市起復牌。2026年7月21日至8月10日期間公司股票累計11個交易日漲停，累計漲幅達185.56%，截至8月10日靜態市盈率385.03倍，遠高於行業28.40倍的估值水平，嚴重偏離基本面。公司預計2026年半年度歸母淨虧損3450萬元至4050萬元。目前擬現金收購歐康諾不低於77.08%股權的相關正式協議尚未簽署，尚需股東會審議，交易存在不確定性。
-
----
-
-### 2026-08-17 22:21:13  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-British American Tobacco Stock Price Hits 4-week Low — British American Tobacco shares decreased to 4135.00 GBp, the lowest since July 2026. Over the past 4 weeks, British American Tobacco lost 11.21%, and in the last 12 months, it decreased 2.88%.
-
----
-
-### 2026-08-17 22:20:23  #其他
-
-【無人車正在成為物流新運力 網約無人車來了】今年3月，深圳在全國率先向功能型無人車開放夜間路權。短短幾個月，無人配送從少數企業的嘗試，逐漸走進更多物流場景。深夜，深圳龍華勝立轉運中心依舊燈火通明。這裡每天日均吞吐量約15萬票，夜間每天執行60趟無人車，平均每10分鐘發出一趟。 [話筒]在深圳福田樞紐，全國首創的“無人車+地鐵”同城配送新模式已經開啟。無人車從網點裝滿快件後，駛入地鐵站口。經過標準化處理，貨箱被裝入地鐵11號線物流車廂，人貨分離、互不干擾。 無人車到達一般只需要十幾分鍾，門店之間調撥貨品更加方便，運營成本預計下降約30%。 資料顯示，7月深圳功能型無人車夜間行駛里程約4萬公里，夜間開通線路達到437條，環比增長32%；投入夜間運營車輛172臺，環比增長60%。廣東深圳交通運輸局智慧交通處一級主任科員曾乾瑜表示，隨著路網路權開放和技術成熟度提升，無人車將逐步觸達城市更多角落，並引導日間物流向夜間物流轉變。（央視財經）
-
----
-
-### 2026-08-17 22:19:51  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose more than 1% intraday, breaking above $4,420/oz.
-
----
-
-### 2026-08-17 22:19:28  #其他
-
-幣安：截至12月31日，國際使用者可使用幣安APP掃描DK銀行現有二維碼，符合條件的購匯交易可享零手續費。
-
----
-
-### 2026-08-17 22:18:39  #國際
-
-市場訊息：英國首相遭遇惡作劇電話事件後，白宮否認特朗普的首席顧問蘇西・懷爾斯的手機再度遭到駭客入侵。
-
----
-
-### 2026-08-17 22:18:14  #公司
-
-【*ST網達：2026年半年度營收1.75億元 同比增36.95%】*ST網達公告稱，2026年半年度實現營業收入1.75億元，同比增長36.95%；歸屬於上市公司股東的淨虧損1205.32萬元，上年同期為盈利482.38萬元。報告期內無利潤分配或公積金轉增股本預案，截至報告期末公司回購專用證券賬戶持有253.96萬股無限售條件流通股，佔公司總股本的0.94%。
-
----
-
-### 2026-08-17 22:18:02  #公司
-
-【*ST海華：2026年上半年營收1.90億元 淨虧損1427.76萬元】*ST海華公告稱，2026年上半年公司實現營業收入1.90億元，同比增長68.24%；歸屬於上市公司股東的淨利潤為-1427.76萬元，淨虧損1427.76萬元，上年同期淨虧損217.71萬元。2026年1月5日公司完成控股股東及實際控制人變更，新控股股東為朗寧宜和(杭州)企業管理合夥企業(有限合夥)，新實際控制人為祝鎵陽、佔舜迪、張棟。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-17 22:17:42  #其他
-
-幣安：旗下幣安支付已接入不丹DK銀行的二維碼支付網路。
 
 ---

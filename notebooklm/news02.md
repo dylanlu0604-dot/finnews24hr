@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:54:08_
-_本檔包含 3386 則快訊，約 650996 字_
+_更新時間：2026-08-23 02:42:40_
+_本檔包含 3392 則快訊，約 651261 字_
+
+---
+
+### 2026-08-21 09:01:10
+
+國內期貨主力合約漲跌不一，滬銀漲近3％，紙漿、燃料油、液化石油氣（LPG）、瀝青漲近2％，滬鉛漲超1％，20號膠、低硫燃料油（LU）漲近1％。跌幅方面，焦煤、不鏽鋼（SS）、菜粕、玻璃、聚氯乙烯（PVC）跌超1％，菜油、滬鎳跌近1％。
+
+---
+
+### 2026-08-21 09:01:06  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D rose 1.02% to 976.38 yuan/gram in early trade on Friday, Aug 21; silver T+D rose 2.1% to 16506.0 yuan/kg.
+
+---
+
+### 2026-08-21 09:01:02  #公司
+
+【盛景微等成立智算科技公司 含AI相關業務】企查查APP顯示，近日，盛景智算（無錫）科技有限公司成立，經營範圍包含：雲端計算裝備技術服務；人工智慧基礎資源與技術平臺；網際網路裝置銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由盛景微等共同持股。
+
+---
+
+### 2026-08-21 09:00:41  #MKT News
+
+China's Lianyungang Maritime Safety Administration posted a navigation warning saying military activity will take place in parts of the southern Yellow Sea from Aug 21–25, daily 08:00–20:00, and the area is closed to navigation.
+
+---
+
+### 2026-08-21 09:00:40  #兩會
+
+【新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成接受審查調查】據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-21 09:00:28  #其他
+
+【航行警告 黃海南部軍事活動】據中國海事局網站訊息，連雲港海事局釋出航行警告，8月21日至25日，每日8時至20時，黃海南部部分海域進行軍事活動，禁止駛入。
+
+---
+
+### 2026-08-21 09:00:17  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+FTSE China A50 futures opened 0.23% higher.
+
+---
+
+### 2026-08-21 09:00:17  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy
+
+At the morning open, China’s main futures contracts were mixed. Shanghai silver led gains, up nearly 3%. Pulp, fuel oil, LPG and asphalt rose about 2%; SHFE lead gained just over 1%; 20# rubber and low-sulfur fuel oil (LU) were up around 1%. On the downside, coking coal, stainless steel, rapeseed meal, glass and PVC fell more than 1%; rapeseed oil and SHFE nickel were down about 1%.
 
 ---
 
@@ -20451,17 +20499,5 @@ Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1
 ### 2026-08-20 08:40:12  #MKT News
 
 【Dier Laser expands TGV lineup to etch and AOI; integrated orders start to appear】Dier Laser told investors on Aug. 19 that its TGV (through‑glass via) strategy now covers etching and AOI inspection equipment alongside its laser‑modification machines. Laser‑modification units continue to win orders and generate revenue; bundled orders for laser modification plus etch have begun to appear and AOI systems are under active validation. The company said it will supply standalone or matched equipment suites based on customer process flow, via geometry, substrate size and capacity needs as it broadens its TGV product matrix.
-
----
-
-### 2026-08-20 08:39:40  #其他
-
-【哥倫比亞強震已造成319人死亡】當地時間8月19日，哥倫比亞國家災害風險管理局（UNGRD）釋出截至當天18時30分的最新災情統計，目前地震已造成319人死亡，4469人受傷，260人失蹤，364人獲救。（央視新聞）
-
----
-
-### 2026-08-20 08:39:04  #MKT News #Market Themes #AI Revolution
-
-【Wuhan Optics Valley unveils six brain–computer interface R&D platforms】On Aug. 18 at a Tongji Hospital–Tianqin Bio signing event in Wuhan, six brain–machine interface (BCI) R&D platforms were inaugurated, including provincial BCI innovation and proof‑of‑concept centers, Tongji Hospital’s BCI institute and joint translational lab with Tianqin Bio, and two laboratory animal centers. A package of projects was launched, led by a National Data Bureau BCI high‑quality dataset project with total funding of 122 mln yuan and a 24‑month build window to create multimodal datasets across 10 disease categories (stroke rehabilitation, spinal‑cord injury, Parkinson’s, epilepsy, etc.). Hubei health authorities also greenlighted translational projects for closed‑loop neural modulation BCI key technologies and a Optics Valley BCI data and compute platform.
 
 ---

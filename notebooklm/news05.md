@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:54:08_
-_本檔包含 3024 則快訊，約 650895 字_
+_更新時間：2026-08-23 02:42:40_
+_本檔包含 3018 則快訊，約 650627 字_
+
+---
+
+### 2026-08-17 22:22:34  #市場 #焦點
+
+滬銀2610成交額已超330億元，盤面短線上漲，最新報16145元/千克，漲幅0.91%，日內增倉近5400手，量倉活躍度同步抬升。
+
+---
+
+### 2026-08-17 22:22:32  #MKT News #Important #Commodities #Precious Metals
+
+Shanghai silver futures 2610 trading value has exceeded CNY33.0 bln; the contract is trading at CNY16,145/kg, up 0.91% intraday. Open interest rose by nearly 5,400 contracts, with volume and OI climbing in tandem.
+
+---
+
+### 2026-08-17 22:21:54  #市場 #焦點
+
+現貨黃金突破4420美元/盎司，日內漲1.04%。
+
+---
+
+### 2026-08-17 22:21:31  #公司 #市場
+
+【愛麗家居：8月18日開市起復牌 提示交易風險】愛麗家居公告稱，公司股票於2026年8月18日開市起復牌。2026年7月21日至8月10日期間公司股票累計11個交易日漲停，累計漲幅達185.56%，截至8月10日靜態市盈率385.03倍，遠高於行業28.40倍的估值水平，嚴重偏離基本面。公司預計2026年半年度歸母淨虧損3450萬元至4050萬元。目前擬現金收購歐康諾不低於77.08%股權的相關正式協議尚未簽署，尚需股東會審議，交易存在不確定性。
+
+---
+
+### 2026-08-17 22:21:13  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+British American Tobacco Stock Price Hits 4-week Low — British American Tobacco shares decreased to 4135.00 GBp, the lowest since July 2026. Over the past 4 weeks, British American Tobacco lost 11.21%, and in the last 12 months, it decreased 2.88%.
+
+---
+
+### 2026-08-17 22:20:23  #其他
+
+【無人車正在成為物流新運力 網約無人車來了】今年3月，深圳在全國率先向功能型無人車開放夜間路權。短短幾個月，無人配送從少數企業的嘗試，逐漸走進更多物流場景。深夜，深圳龍華勝立轉運中心依舊燈火通明。這裡每天日均吞吐量約15萬票，夜間每天執行60趟無人車，平均每10分鐘發出一趟。 [話筒]在深圳福田樞紐，全國首創的“無人車+地鐵”同城配送新模式已經開啟。無人車從網點裝滿快件後，駛入地鐵站口。經過標準化處理，貨箱被裝入地鐵11號線物流車廂，人貨分離、互不干擾。 無人車到達一般只需要十幾分鍾，門店之間調撥貨品更加方便，運營成本預計下降約30%。 資料顯示，7月深圳功能型無人車夜間行駛里程約4萬公里，夜間開通線路達到437條，環比增長32%；投入夜間運營車輛172臺，環比增長60%。廣東深圳交通運輸局智慧交通處一級主任科員曾乾瑜表示，隨著路網路權開放和技術成熟度提升，無人車將逐步觸達城市更多角落，並引導日間物流向夜間物流轉變。（央視財經）
+
+---
+
+### 2026-08-17 22:19:51  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose more than 1% intraday, breaking above $4,420/oz.
+
+---
+
+### 2026-08-17 22:19:28  #其他
+
+幣安：截至12月31日，國際使用者可使用幣安APP掃描DK銀行現有二維碼，符合條件的購匯交易可享零手續費。
+
+---
+
+### 2026-08-17 22:18:39  #國際
+
+市場訊息：英國首相遭遇惡作劇電話事件後，白宮否認特朗普的首席顧問蘇西・懷爾斯的手機再度遭到駭客入侵。
+
+---
+
+### 2026-08-17 22:18:14  #公司
+
+【*ST網達：2026年半年度營收1.75億元 同比增36.95%】*ST網達公告稱，2026年半年度實現營業收入1.75億元，同比增長36.95%；歸屬於上市公司股東的淨虧損1205.32萬元，上年同期為盈利482.38萬元。報告期內無利潤分配或公積金轉增股本預案，截至報告期末公司回購專用證券賬戶持有253.96萬股無限售條件流通股，佔公司總股本的0.94%。
+
+---
+
+### 2026-08-17 22:18:02  #公司
+
+【*ST海華：2026年上半年營收1.90億元 淨虧損1427.76萬元】*ST海華公告稱，2026年上半年公司實現營業收入1.90億元，同比增長68.24%；歸屬於上市公司股東的淨利潤為-1427.76萬元，淨虧損1427.76萬元，上年同期淨虧損217.71萬元。2026年1月5日公司完成控股股東及實際控制人變更，新控股股東為朗寧宜和(杭州)企業管理合夥企業(有限合夥)，新實際控制人為祝鎵陽、佔舜迪、張棟。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-17 22:17:42  #其他
+
+幣安：旗下幣安支付已接入不丹DK銀行的二維碼支付網路。
 
 ---
 
@@ -18132,113 +18204,5 @@ Qatar's foreign ministry said it invited an Iranian delegation in April to visit
 ### 2026-08-16 02:42:40  #MKT News
 
 Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation.
-
----
-
-### 2026-08-16 02:42:19  #MKT News
-
-Qatar's Foreign Ministry said it took necessary measures to defend its territory after an Iranian pilot violated Qatari airspace.
-
----
-
-### 2026-08-16 02:41:49  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Qatar's foreign ministry said an Iranian pilot's aircraft violated Qatari airspace and failed to respond to Doha's attempts to make contact.
-
----
-
-### 2026-08-16 02:41:11  #國際
-
-卡達否認扣押伊朗飛行員。
-
----
-
-### 2026-08-16 02:40:18  #MKT News
-
-Qatar's foreign ministry denies detaining an Iranian pilot.
-
----
-
-### 2026-08-16 02:35:17  #國際
-
-黎巴嫩媒體：以色列對塔盧薩鎮發動猛烈空襲。
-
----
-
-### 2026-08-16 02:29:15  #國際
-
-伊朗外交部：以色列必須停止在黎巴嫩南部的侵略行動，並從被佔領地區撤出。
-
----
-
-### 2026-08-16 02:29:04  #MKT News
-
-Iran's foreign ministry said it reiterated calls to halt Israeli aggression in southern Lebanon and for Israeli forces to withdraw from occupied territories.
-
----
-
-### 2026-08-16 02:17:25  #MKT News
-
-Saudi media Hadas reported Yemeni government forces launched artillery strikes on Houthi positions on the Marib front.
-
----
-
-### 2026-08-16 02:17:22  #公司 #國際
-
-海灣合作委員會秘書長譴責伊朗多次襲擊阿聯酋阿布扎比國家石油公司油輪，以及霍爾木茲海峽內的商業船舶，稱這種襲擊屬於不可接受的局勢升級，嚴重侵犯國際航行自由。
-
----
-
-### 2026-08-16 02:16:33  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israeli media report local authorities warned Upper Galilee residents to expect nighttime explosions, attributing the blasts to Israeli military operations in Lebanon.
-
----
-
-### 2026-08-16 02:14:46  #國際
-
-以色列媒體：地方當局已通知上加利利居民，夜間會聽到爆炸聲，這是以軍在黎巴嫩開展軍事行動造成。
-
----
-
-### 2026-08-16 02:04:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Yemeni sources said a fourth explosion struck Marib, caused by shelling from Houthi forces.
-
----
-
-### 2026-08-16 02:04:04  #其他
-
-葉門：馬裡卜遭胡塞武裝炮擊，發生第四起爆炸。
-
----
-
-### 2026-08-16 02:03:31  #國際
-
-【受美國海上封鎖影響，伊朗實際上已經停止汽油進口】伊朗議會能源委員會發言人禮薩·塞帕萬週六表示，受美國海上封鎖影響，伊朗實際上已經停止汽油進口。“我們目前面臨海上封鎖，汽油進口已經中斷。”塞帕萬警告，如果推行擬議中的國民身份證燃油配給方案，政府後續或將被迫按照國際市場及波斯灣離岸價進口汽油，進而推高成本，擴大財政赤字。他稱，受機動車保有量影響，伊朗正遭遇燃油供應難題。塞帕萬表示，伊朗汽油日產量已達峰值1.3億升，但日消耗量為1.37億升。他稱：“即便達到這一產出水平，我們依舊面臨燃油供應缺口。”
-
----
-
-### 2026-08-16 01:59:47  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Gulf Cooperation Council secretary-general said Iran's attack was an unacceptable escalation that seriously infringed freedom of navigation.
-
----
-
-### 2026-08-16 01:59:28  #MKT News #Brent #Impact bullish #WTI #DXY
-
-Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz.
-
----
-
-### 2026-08-16 01:55:23  #MKT News
-
-Tajikistan’s energy and water resources minister and transport minister visited Tehran for talks with Iranian counterparts and met Iranian foreign minister Araghchi on Saturday evening, the Iranian foreign ministry said. Araghchi urged leveraging the countries’ existing diversified potential to develop and strengthen bilateral relations, particularly in economic and trade cooperation.
-
----
-
-### 2026-08-16 01:54:57  #國際
-
-加沙和平委員會認為，在特朗普特使庫什納訪問以色列前夕，加沙相關協議已觸手可及。
 
 ---

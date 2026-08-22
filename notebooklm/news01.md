@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 01:54:08_
-_本檔包含 3171 則快訊，約 651123 字_
+_更新時間：2026-08-23 02:42:40_
+_本檔包含 3174 則快訊，約 650647 字_
+
+---
+
+### 2026-08-23 02:41:07  #國際
+
+伊朗總統：我曾面見最高領袖，最高領袖在講話中也公開表示，我們必須擺脫這種“既非戰爭、也非和平”的局面。我們不會在敵人面前屈辱退讓、低頭屈服。我們可以帶著實力，同時秉持理性坐下來談判，解決我們面臨的問題。這是可以實現的，我們也正為此付出努力。
+
+---
+
+### 2026-08-23 02:38:35  #其他
+
+法國總統府：沙特2030願景與法國投資計劃開展對接，麥加協議結合地區局勢重塑聯盟格局。
+
+---
+
+### 2026-08-23 02:30:52  #國際
+
+以色列持續打擊黎巴嫩南部，空襲馬吉勒祖恩、科寧以及曼蘇里村莊。
+
+---
+
+### 2026-08-23 02:22:34  #國際
+
+美國特使稱，以色列對敘利亞發動空襲或為蓄意挑起與土耳其的衝突
+
+---
+
+### 2026-08-23 02:15:32  #國際
+
+伊朗總統府：總統佩澤希其揚同議會議長、司法部門負責人就國際局勢以及國家經濟治理舉措展開磋商。
+
+---
+
+### 2026-08-23 02:15:18  #國際
+
+伊朗總統府：伊朗三大權力機構負責人確認需加強協調，以應對民生壓力。
+
+---
+
+### 2026-08-23 02:07:41  #國際
+
+日本將向拉美開發性貸款機構提供貸款保險。
+
+---
+
+### 2026-08-23 02:04:47  #國際
+
+【以色列稱無意與土耳其升級衝突 絕不接受土在敘駐軍】當地時間22日，以色列外交部長薩爾在接受採訪時表示，儘管因敘利亞問題導致以土兩國關係高度緊張，但以色列“無意與土耳其升級衝突”。薩爾稱，以色列“始終優先考慮”外交解決方案，並重申以色列並不打算激化與土耳其的對抗。他表示：“我們致力於維持現狀。”薩爾同時明確表示，以色列絕不接受土耳其在敘利亞建立基地。（央視新聞）
+
+---
+
+### 2026-08-23 02:04:25  #國際
+
+【與特朗普立場一致的郵寄選票新規等待最高法院裁決】美國郵政署敲定一項新規，為郵寄投票增設更多門檻，該版本與特朗普最初方案存在小幅出入。新規則要求各州向郵政署提交合格選民名單，使用帶特殊條形碼的信封；選票必須印有官方選舉郵件標識，並配備專屬智慧郵件條形碼。受法院禁令約束，該政策目前暫停執行。若最高法院不作出有利判決，新規將無法在11月中期選舉落地，政府已經沒有充足時間推行郵寄選票限制措施。
+
+---
+
+### 2026-08-23 01:58:52  #其他
+
+派拉蒙與加州將於8月24日就華納兄弟交易舉行初步會談。
+
+---
+
+### 2026-08-23 01:56:56  #國際
+
+特朗普整個6月持續買賣Coinbase股票。
 
 ---
 
@@ -19083,53 +19149,5 @@ Korea Exchange activated the sidecar mechanism on the KOSDAQ.
 ### 2026-08-21 09:01:11  #MKT News #Market Regions #Greater China
 
 Taiwan Stock Exchange weighted index opened down 34.46 points, or 0.08%, at 44,899.28 on Friday, Aug. 21.
-
----
-
-### 2026-08-21 09:01:10
-
-國內期貨主力合約漲跌不一，滬銀漲近3％，紙漿、燃料油、液化石油氣（LPG）、瀝青漲近2％，滬鉛漲超1％，20號膠、低硫燃料油（LU）漲近1％。跌幅方面，焦煤、不鏽鋼（SS）、菜粕、玻璃、聚氯乙烯（PVC）跌超1％，菜油、滬鎳跌近1％。
-
----
-
-### 2026-08-21 09:01:06  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D rose 1.02% to 976.38 yuan/gram in early trade on Friday, Aug 21; silver T+D rose 2.1% to 16506.0 yuan/kg.
-
----
-
-### 2026-08-21 09:01:02  #公司
-
-【盛景微等成立智算科技公司 含AI相關業務】企查查APP顯示，近日，盛景智算（無錫）科技有限公司成立，經營範圍包含：雲端計算裝備技術服務；人工智慧基礎資源與技術平臺；網際網路裝置銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由盛景微等共同持股。
-
----
-
-### 2026-08-21 09:00:41  #MKT News
-
-China's Lianyungang Maritime Safety Administration posted a navigation warning saying military activity will take place in parts of the southern Yellow Sea from Aug 21–25, daily 08:00–20:00, and the area is closed to navigation.
-
----
-
-### 2026-08-21 09:00:40  #兩會
-
-【新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成接受審查調查】據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-21 09:00:28  #其他
-
-【航行警告 黃海南部軍事活動】據中國海事局網站訊息，連雲港海事局釋出航行警告，8月21日至25日，每日8時至20時，黃海南部部分海域進行軍事活動，禁止駛入。
-
----
-
-### 2026-08-21 09:00:17  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-FTSE China A50 futures opened 0.23% higher.
-
----
-
-### 2026-08-21 09:00:17  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy
-
-At the morning open, China’s main futures contracts were mixed. Shanghai silver led gains, up nearly 3%. Pulp, fuel oil, LPG and asphalt rose about 2%; SHFE lead gained just over 1%; 20# rubber and low-sulfur fuel oil (LU) were up around 1%. On the downside, coking coal, stainless steel, rapeseed meal, glass and PVC fell more than 1%; rapeseed oil and SHFE nickel were down about 1%.
 
 ---
