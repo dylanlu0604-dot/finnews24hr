@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 05:31:51_
-_本檔包含 3305 則快訊，約 649555 字_
+_更新時間：2026-08-23 05:51:20_
+_本檔包含 3303 則快訊，約 649857 字_
+
+---
+
+### 2026-08-19 08:16:56  #宏觀 #觀點
+
+【華泰證券：存量商業地產迎制度性重估視窗】華泰證券研報表示，2026年以來，廣州（5月）、上海（7月31日）相繼出臺工商業用地續期新政，標誌著非居住用地續期正從原則性法律條款走向系統化、可執行的常態化制度安排。華泰證券認為，此輪政策的核心價值在於把此前長期懸而未決的“續期期權”顯性化、可計價化，其對存量商業不動產估值修復，尤其是對公募REITs資產端的邊際影響，是本輪政策最值得關注的看點。投資邏輯：多地土地續期新政的密集落地，使得商業地產年限不確定性轉化為可計劃、可定價的制度變數，有望為公募及機構間REITs等證券化資產打通基金存續期限和土地剩餘年限錯配的堵點，解決存在年限問題的優質資產進入REITs申報流程的難題，推動REITs擴容。目前尚在試點環節，續期的具體操作和定價仍是地方政府因城施策，具體推進節奏尚待觀察。建議重點關注持有大量剩餘年限臨近REITs門檻、但資產經營狀況良好的持有型平臺，以及在續期申報與REITs發行流程管理上具備精細化資管能力的商業地產運營商與商管服務企業。
 
 ---
 
@@ -19964,23 +19970,5 @@ Sources say US private equity firm General Atlantic has hired JP Morgan to lead 
 ### 2026-08-17 22:36:18  #MKT News #Market Themes #The Trump Trade
 
 Israel's president met in Jerusalem today with US envoy Jared Kushner, Gaza Peace Committee senior representative Mladenov and their team, who are advancing implementation of the next Gaza phase based on former President Donald Trump's 20-point plan. He said the next phase must ensure the security of Israel and its citizens and deliver stability and a better future for all peoples in the region.
-
----
-
-### 2026-08-17 22:34:25  #MKT News #Market Regions #Japan & APAC
-
-Interfax reports a Japanese special envoy will visit Russia's Foreign Ministry on Tuesday.
-
----
-
-### 2026-08-17 22:34:10  #國際
-
-市場訊息：日本特使將於週二到訪俄羅斯外交部。
-
----
-
-### 2026-08-17 22:34:00  #市場
-
-Nexgen Energy 股價大幅衝高，盤中最大漲幅達 4.9%。
 
 ---
