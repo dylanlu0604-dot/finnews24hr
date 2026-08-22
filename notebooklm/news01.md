@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 21:57:08_
-_本檔包含 3102 則快訊，約 651416 字_
+_更新時間：2026-08-22 22:31:10_
+_本檔包含 3108 則快訊，約 651489 字_
+
+---
+
+### 2026-08-22 22:29:58  #公司
+
+通用汽車加拿大公司：與加拿大汽車工人工會UNIFOR達成初步協議。
+
+---
+
+### 2026-08-22 22:29:04  #國際
+
+【以防長稱土耳其意圖在敘基地開展危及以國家安全的活動】當地時間22日，以色列國防部長卡茨就以軍空襲敘利亞阿布杜胡爾空軍基地一事發表宣告稱，根據以軍截獲的情報，土耳其正意圖在該基地開展危及以色列國家安全的活動，以軍曾多次向高層建議對該基地實施打擊。在與以軍及其他安全機構官員進行磋商後，卡茨與以色列總理內塔尼亞胡決定先採取威懾手段。他們向敘利亞高階官員發出直接警告，並將相關情報共享給美國官員。由於敘利亞方面最終未能聽從警告，卡茨與內塔尼亞胡正式授權空襲行動。
+
+---
+
+### 2026-08-22 22:26:58  #其他
+
+加拿大汽車工會UNIFOR：與通用汽車達成初步協議，協議詳情將於8月29日至30日公佈。
+
+---
+
+### 2026-08-22 22:21:53  #其他
+
+【人形機器人運動會400米預賽開賽 天工隊以39.70秒奪得小組第一】今晚（8月22日），第二屆世界人形機器人運動會在北京國家速滑館“冰絲帶”正式開幕。田徑100米、400米大型組連續開賽，各路機器人同臺競速，向決賽資格發起衝擊。400米大型組率先開賽，經過8組角逐，天工隊以39.70秒的成績獲得小組第一，天驍隊、榮耀雙馳戰隊分別以40.14秒、40.67秒的成績位列第二、第三名。本屆運動會田徑400米決賽將8月26日在北京國家速滑館“冰絲帶”上演。（央視新聞）
+
+---
+
+### 2026-08-22 22:13:04  #公司 #國際
+
+【中企承建塞內加爾高速公路專案提前通車】）由中國路橋工程有限責任公司承建的姆布林-考拉克高速公路專案22日在塞內加爾西部捷斯大區姆布林省佳恰伊市舉行通車儀式。塞內加爾總統法耶出席儀式並致辭說，這一高速公路專案是塞中兩國良好關係的體現，對便利塞中部地區民眾出行、加強中部地區與其他地區互聯互通尤為重要。該專案原定於9月底交付，如今提前通車。法耶在致辭中感謝中方支援，表示希望持續深化兩國關係，推進對華合作。姆布林-考拉克高速公路連線塞內加爾西部沿海城市姆布林與中部城市考拉克，全長99.2公里。（新華社）
+
+---
+
+### 2026-08-22 22:07:32  #國際
+
+【法國與烏克蘭兩國總統通電話 討論軍事援助等議題】8月22日，法國總統馬克龍表示，他當天與烏克蘭總統澤連斯基通電話，並宣佈法國將進一步加強對烏克蘭的軍事支援，包括向烏方提供攔截彈。馬克龍表示，法國還將繼續與烏克蘭開展防空反導領域合作。他沒有透露此次提供攔截彈的具體型號、數量和交付時間。澤連斯基表示，雙方當天進行了近兩個小時的通話，馬克龍同意協助烏克蘭聯絡擁有“愛國者”防空系統配套導彈的合作國家，統籌推進援烏防空物資協調工作。
+
+---
+
+### 2026-08-22 22:06:12  #國際
+
+以色列對黎巴嫩南部薩爾賓鎮和拉沙夫鎮之間的地區發動了兩次襲擊。
+
+---
+
+### 2026-08-22 21:58:06  #國際
+
+【美官員：約40艘油輪21日晚透過霍爾木茲海峽】據美國媒體22日援引三名美國官員的話報道，21日晚間，有約40艘油輪透過霍爾木茲海峽南側航道，向外運出原油約1600萬桶。（新華社）
 
 ---
 
@@ -18705,17 +18753,5 @@ South Korea's finance minister said measures will be taken to address foreign-ex
 ### 2026-08-21 08:38:25  #Trading Economics #Economy #Japan #Manufacturing PMI #Importance 1
 
 Japan Factory Activity Growth Hits 4-Month High — The S&P Global Japan Manufacturing PMI increased to 55.1 in August 2026 from 54.5 in the previous month, marking the eighth consecutive month of expansion in factory activity. It was the strongest growth in the manufacturing sector since April, as firms recorded the fastest increase in new work since January 2018, with foreign sales also growing at the strongest pace since early 2018.
-
----
-
-### 2026-08-21 08:37:40  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Impact bullish
-
-【New crude ETF holdings report live — WTI exposure down, Brent up】Aug 20: WTI (USO) nominal exposure ~24.12 mln bbl, down 153k bbl on the day; Brent (BNO) futures holdings ~7.82 mln bbl, up 1k bbl.
-
----
-
-### 2026-08-21 08:37:23  #MKT News #Market Themes #AI Revolution #Nikkei 225 #Impact bullish #USDJPY #Impact mixed
-
-【AI demand ample; Japan August manufacturing new export orders post fastest pace in eight years】Japan private sector remained robust in August, with output growth at its fastest since February and manufacturing and services both gaining momentum. Manufacturing new export orders rose at the quickest pace in about eight-and-a-half years, supported by sizable backlogs in semiconductors and AI-related industries. Input costs still climbed sharply amid Middle East conflict-driven supply and energy shocks and a weak yen, but cost inflation eased to a five-month low. Output price growth remains near historical highs, and firms may need to see sustained disinflation before cutting selling prices. Business confidence, sales and employment improved month-on-month; the private sector is expected to stay resilient unless new price or demand shocks emerge.
 
 ---
