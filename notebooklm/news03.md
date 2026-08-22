@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 19:30:07_
-_本檔包含 3269 則快訊，約 652392 字_
+_更新時間：2026-08-22 19:54:34_
+_本檔包含 3268 則快訊，約 652139 字_
+
+---
+
+### 2026-08-20 08:03:19  #公司
+
+【創益通：2026年度定增股票申請獲深交所受理】創益通公告稱，公司近日收到深交所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。
+
+---
+
+### 2026-08-20 08:03:10  #公司
+
+【TCL科技：發行股份購買資產獲證監會註冊批覆】TCL科技公告稱，公司擬發行股份及支付現金購買廣東恆健投資控股有限公司、廣州城發星光投資合夥企業（有限合夥）、科學城（廣州）投資集團有限公司合計持有的廣州華星光電半導體顯示技術有限公司45.00%股權。公司於2026年8月19日收到證監會出具的同意本次發行股份購買資產註冊的批覆，批覆自下發之日起12個月內有效。公司將在規定期限內辦理本次交易相關事宜。
+
+---
+
+### 2026-08-20 08:02:58  #市場
+
+【天山鋁業：二季度氧化鋁生產成本較一季度略有下降】天山鋁業8月19日在業績說明會表示，二季度氧化鋁生產成本較一季度略有下降，主要得益於去年的高價鋁土礦庫存的逐步消化，若後續鋁土礦採購價尤其是海運費下降，將對氧化鋁成本下降產生積極影響。預焙陽極方面，受石油焦價格同比上漲的影響，二季度成本較一季度略有增加。電力方面，二季度成本較一季度略有下降。
+
+---
+
+### 2026-08-20 08:02:42  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Rally on Lower Treasury Yields — Gold held above $4,500 an ounce on Thursday after surging more than 4% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus.
+
+---
+
+### 2026-08-20 08:02:17  #國際
+
+市場訊息：魯比奧將於週四下午1點30分（北京時間週五凌晨1:30）會見加拿大外交部長。
+
+---
+
+### 2026-08-20 08:02:10  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Japan, South Korea stock indices open higher】Aug 20 (Thu) Japan's Nikkei 225 opened up 461.11 points (+0.71%) at 65,787.53; South Korea's KOSPI opened 3.2% higher.
+
+---
+
+### 2026-08-20 08:01:45  #公司 #市場 #焦點
+
+SK海力士股價在首爾上漲逾7%，此前該公司宣佈了回購計劃。
+
+---
+
+### 2026-08-20 08:01:32  #MKT News
+
+Musk, responding to reports that SpaceX sought to acquire Cognition, said discussions with Cognition were limited to ensuring Grok could meet their needs.
 
 ---
 
@@ -19648,73 +19696,5 @@ Oil Extends Gains Amid US-Iran Stalemate — Crude oil strengthened above $85 pe
 ### 2026-08-19 07:17:54  #公司
 
 【逾百家A股公司釋出半年度利潤分配方案 合計分紅金額超1000億元】隨著半年報披露步入高峰期，A股上市公司中期分紅預案密集出爐。截至目前，已有上百家公司釋出2026年半年度利潤分配方案，合計分紅金額達1018億元，高於去年同期水平。越來越多上市公司加入中期分紅行列，分紅規模同步走高。南開大學金融學教授田利輝認為，中期分紅走向常態化，將為投資者帶來持股體驗與估值邏輯的雙重變化。推行多次分紅機制，是上市公司用實際行動彰顯對自身現金流穩健性的充足信心，有助於引導市場調整價值評判標尺，逐步擺脫單純追逐淨利潤指標的慣性，更加聚焦企業真實分紅能力與現金回報水平。
-
----
-
-### 2026-08-19 07:16:50  #其他
-
-【8月以來科技行情逐步修復 主動權益類基金淨值明顯回暖】近期，通訊、電子等科技板塊表現活躍，帶動主動權益類基金淨值大面積回暖，重倉光模組、CPO（共封裝光學）等AI產業鏈的基金漲幅居前。隨著相關板塊漲幅擴大，AI投資正由產業趨勢驅動逐步轉向業績驗證，個股表現和基金業績或進一步分化。業內人士認為，企業投資回報、盈利兌現及估值消化能力或成為後續關注重點。同時，基金持倉趨同可能帶來的淨值波動風險也值得警惕。（上海證券報）
-
----
-
-### 2026-08-19 07:16:34  #其他
-
-澳大利亞交易報告與分析中心（AUSTRAC）查實多家大型貸款機構出現協同房貸欺詐行為。
-
----
-
-### 2026-08-19 07:15:17  #其他
-
-【我學者破譯大黃魚錐體蟲基因組 】從福建省農科院獲悉，該院農業質量標準與檢測技術研究所羅士炎研究員團隊牽頭，首次破譯了大黃魚錐體蟲基因組，為危害百億大黃魚產業的寄生蟲繪製一張高精度“基因地圖”，也為尋找致病關鍵基因和潛在防控靶點提供新線索，相關研究成果近日線上發表在學術期刊《科學資料》。
-
----
-
-### 2026-08-19 07:14:25  #公司
-
-【OpenAI二季度營收67億美元，環比增長18%但虧損擴大】8月19日，據報道，OpenAI第二季度營收67億美元，高於第一季度的57億美元，環比增長18%。與此同時，公司營業利潤率進一步下滑，虧損擴大。部分投資者對這一業績感到失望，原因是OpenAI營收增速落後於競爭對手Anthropic。Anthropic第二季度營收超過115億美元，並首次實現小幅營業盈利。上述業績公佈之際，OpenAI正為備受期待的首次公開募股（IPO）做準備。
-
----
-
-### 2026-08-19 07:14:08  #MKT News
-
-【Yushu Technology lists on SSE STAR Market】Aug 19 — One IPO listed on the Shanghai Stock Exchange STAR Market: Yushu Technology. Total issue 40.4464 mln shares, including 9.707 mln shares sold via online issuance. IPO price 150.80 yuan/share; issue P/E 219.23x.
-
----
-
-### 2026-08-19 07:14:07  #MKT News #Commodities #Precious Metals
-
-Spot silver fell below $63/oz, down 0.5% on the day.
-
----
-
-### 2026-08-19 07:13:44  #MKT News
-
-【UK prime minister confirms messages with impostor posing as White House chief of staff】UK Prime Minister Burnham on Aug. 18 confirmed he exchanged messages with someone impersonating White House chief of staff Susie Wyles. Burnham said the exchanges were very brief, contained no sensitive material, and he reported the incident promptly. US President Trump told reporters on Aug. 17 he viewed it as a "communication misunderstanding" and said he has had several "good talks" with Burnham.
-
----
-
-### 2026-08-19 07:13:24  #行業
-
-【部分上市銀行上半年業績向好，信貸投放量質齊升】8月18日，南京銀行釋出2026年半年度報告，營業收入、歸母淨利潤雙雙實現超8%的增長。繼浦發銀行、江蘇銀行、重慶銀行、渝農商行等銀行先後披露半年度業績快報、釋放上半年經營向好訊號之後，平安銀行率先交出半年報，拉開A股上市銀行半年報披露的大幕。從目前披露的資訊來看，多家銀行經營表現回暖，信貸投放持續向製造業、綠色金融、普惠小微傾斜，疊加負債端成本精細化管理成效逐步顯現，多重因素有望帶動行業盈利水平修復。（中證報）
-
----
-
-### 2026-08-19 07:13:22  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、縣鄉消費佔社會消費品零售總額比重穩步提升 引導更多品牌連鎖企業向縣域下沉（權威釋出）
-2、全國碳排放計量技術體系進一步完善 為各行各業綠色低碳轉型提供支撐
-3、中老鐵路貨物運輸突破9000萬噸 開行貨物列車超8萬列
-4、英報告：中國綠色產業發展助力全球低碳轉型
-5、“三五”規劃正式公佈 澳門邁向高質量發展新階段
-6、江蘇出臺舉措助力科技成果轉化
-7、截至去年底，全國開通超1.1萬條服務線路，同比增長約25%——定製客運何以“加速跑”（大資料觀察）
-8、廣東三口岸最佳化“合作查驗，一次放行” 進一步便利粵港澳大灣區人員往來
-9、大豆垂直大模型“豐菽”2.0正式釋出
-10、更好滿足多樣化住房消費需求 住房公積金提取和使用範圍拓寬（經濟聚焦）
-11、“中國洋浦港”籍國際船舶突破100艘
-12、黑龍江啟動人工智慧教育教學研究中心建設
-13、一些國家探索加強適老化數字服務（國際視點）——來自韓國、法國、澳大利亞的實踐
-14、歐洲對華電動汽車認知逆轉的背後（環球走筆）。
 
 ---

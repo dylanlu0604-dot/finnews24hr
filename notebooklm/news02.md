@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 19:30:07_
-_本檔包含 3373 則快訊，約 651593 字_
+_更新時間：2026-08-22 19:54:34_
+_本檔包含 3371 則快訊，約 652182 字_
+
+---
+
+### 2026-08-21 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+CITIC Securities earnings above expectations at 0.68 CNY — CITIC Securities (600030) released earnings per share at 0.68 CNY, compared to market expectations of 0.61 CNY.
+
+---
+
+### 2026-08-21 08:11:44  #Trading Economics #Markets #China #Earnings #Importance 0
+
+China Telecom earnings in line with market expectations at 0.08 CNY — China Telecom (601728) released earnings per share at 0.08 CNY, in line with market expectations.
+
+---
+
+### 2026-08-21 08:11:09  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+【China pushes pension funds toward long-term investing】Chinese policy documents urge pension funds to pursue “long money, long investments,” citing decades‑ahead payout obligations and the theoretical capacity to tolerate higher equity volatility to earn long‑term equity premia. The guidance prioritises reforming measurement: accelerate establishment of long‑cycle assessment frameworks and embed cross‑cycle returns and risk control into fund evaluations. It calls for supporting measures and a steady expansion of pension investment scale and channels; under strict equity‑allocation caps, funds should optimise asset mixes and raise equity exposure, with emphasis on national strategic emerging industries. Authorities will also encourage pension participation in listed‑company governance and directed placements and push for improved dividend mechanisms so pension funds share more of the real‑economy’s growth returns.
+
+---
+
+### 2026-08-21 08:11:06  #MKT News #Market Regions #Japan & APAC
+
+Australia's S&P/ASX 200 opened down 11.8 points (-0.13%) at 9,072.00 on Friday, Aug. 21.
+
+---
+
+### 2026-08-21 08:10:58  #市場
+
+【招商證券：恒生科技指數擴容 產業趨勢變化利好雲廠】招商證券策略報告指出，近期港股市場出現了一系列積極變化。第一，恒生科技指數編制規則改進，成分股擴容並且將收入增速納入篩選標準，回應了市場對於指數“含科量”不足的擔憂。第二，從最新產業趨勢變化來看，AI產業的利潤正在由AI硬體與大模型向雲廠商轉移，港股較為受益。往後看，依然看好港股市場投資機會。
+
+---
+
+### 2026-08-21 08:10:48  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Set for Third Straight Weekly Gain — Silver traded above $68 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 5% this week after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Silver also pushed higher even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran, with the two sides locked in a standoff over the Strait of Hormuz.
 
 ---
 
@@ -20337,53 +20373,5 @@ U.S. State Department: U.S. Secretary of State Rubio will meet with Canada’s f
 ### 2026-08-20 08:03:27  #公司
 
 【聯創電子：2026年上半年營收31.93億元 淨虧損3.58億元】聯創電子公告稱，2026年上半年實現營業收入31.93億元，同比下降24.34%；歸屬於上市公司股東的淨虧損3.58億元，同比下降1585.66%；扣除非經常性損益的淨虧損3.71億元，同比下降1060.43%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。此外，公司控股股東江西鑫盛擬向壽縣新橋轉讓7.27%公司股份，轉讓完成後公司控股股東及實際控制人將發生變更。
-
----
-
-### 2026-08-20 08:03:19  #公司
-
-【創益通：2026年度定增股票申請獲深交所受理】創益通公告稱，公司近日收到深交所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。
-
----
-
-### 2026-08-20 08:03:10  #公司
-
-【TCL科技：發行股份購買資產獲證監會註冊批覆】TCL科技公告稱，公司擬發行股份及支付現金購買廣東恆健投資控股有限公司、廣州城發星光投資合夥企業（有限合夥）、科學城（廣州）投資集團有限公司合計持有的廣州華星光電半導體顯示技術有限公司45.00%股權。公司於2026年8月19日收到證監會出具的同意本次發行股份購買資產註冊的批覆，批覆自下發之日起12個月內有效。公司將在規定期限內辦理本次交易相關事宜。
-
----
-
-### 2026-08-20 08:02:58  #市場
-
-【天山鋁業：二季度氧化鋁生產成本較一季度略有下降】天山鋁業8月19日在業績說明會表示，二季度氧化鋁生產成本較一季度略有下降，主要得益於去年的高價鋁土礦庫存的逐步消化，若後續鋁土礦採購價尤其是海運費下降，將對氧化鋁成本下降產生積極影響。預焙陽極方面，受石油焦價格同比上漲的影響，二季度成本較一季度略有增加。電力方面，二季度成本較一季度略有下降。
-
----
-
-### 2026-08-20 08:02:42  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Rally on Lower Treasury Yields — Gold held above $4,500 an ounce on Thursday after surging more than 4% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus.
-
----
-
-### 2026-08-20 08:02:17  #國際
-
-市場訊息：魯比奧將於週四下午1點30分（北京時間週五凌晨1:30）會見加拿大外交部長。
-
----
-
-### 2026-08-20 08:02:10  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-【Japan, South Korea stock indices open higher】Aug 20 (Thu) Japan's Nikkei 225 opened up 461.11 points (+0.71%) at 65,787.53; South Korea's KOSPI opened 3.2% higher.
-
----
-
-### 2026-08-20 08:01:45  #公司 #市場 #焦點
-
-SK海力士股價在首爾上漲逾7%，此前該公司宣佈了回購計劃。
-
----
-
-### 2026-08-20 08:01:32  #MKT News
-
-Musk, responding to reports that SpaceX sought to acquire Cognition, said discussions with Cognition were limited to ensuring Grok could meet their needs.
 
 ---

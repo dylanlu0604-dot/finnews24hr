@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 19:30:07_
-_本檔包含 3100 則快訊，約 653339 字_
+_更新時間：2026-08-22 19:54:34_
+_本檔包含 3099 則快訊，約 652220 字_
+
+---
+
+### 2026-08-22 19:53:07  #國際
+
+【日本前首相強調正視歷史勿重蹈覆轍】日本前首相石破茂8月21日出席在東京舉行的一場反戰主題演講活動時，就如何認識戰爭歷史、避免重蹈戰爭覆轍等問題發表看法。去年，時任首相的石破茂曾就戰爭歷史問題發表講話稱，必須把對戰爭的反省和教訓銘記在心。如今石破茂再次談及這一問題時表示，隨著戰爭親歷者逐漸減少，日本更應好好研究這段歷史。石破茂強調，日本需要面對自身的問題，而不是迴避歷史、渲染對立。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 19:48:28  #宏觀 #焦點
+
+【8月22日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】拓展共建“一帶一路”合作新空間 鋪就共贏之路； 2.中國共產黨第二十屆中央紀律檢查委員會第六次全體會議公報； 3.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】山東打造商業航天產業高地； 4.今年1—7月高技術產業吸引外資同比增長32.7%； 5.我國實現多領域高階鋼材自主量產； 6.【文化中國行】留住佛光寺的“千年目光”； 7.國內聯播快訊： （1）7月份全社會用電量同比增長1.7%； （2）前7個月我國自150多個貿易伙伴進口實現正增長； （3）《促進網信企業高質量發展行動計劃（2026—2030年）》印發； （4）“十五五”期間上海臨港新片區將形成3個千億級製造業叢集； （5）已故人士金融賬戶查詢服務試點將推廣到全國； （6）颱風“紫檀”和季風共同影響 華南沿海將有強降雨； （7）聯合國人工智慧與人類發展第三場對話活動閉幕； （8）多部國產電影海外持續熱映； （9）“城脈千年——廣州建城2240年得名1800年專題展”開展； 8.伊稱將持續增強國防力量以應對威脅 美稱不會放棄對伊軍事選項 阿曼與伊朗外長討論恢復霍爾木茲海峽自由航行； 9.加拿大宣佈暫停加美貿易談判並實施對等反制； 10.國際聯播快訊： （1）巴勒斯坦等國譴責以色列推進定居點計劃； （2）俄稱對烏軍鐵路設施實施叢集打擊； （3）德國儲氣水平降至有記錄以來同期最低。
+
+---
+
+### 2026-08-22 19:47:05  #國際
+
+【伊朗議長譴責美方霸凌行徑 呼籲建立地區本土安全秩序】當地時間22日，針對美國的威脅，伊朗議會議長卡利巴夫在社交媒體發文稱，伊朗收到了許多鄰國的資訊，希望在該地區內建立新的安全和經濟合作機制。卡利巴夫表示，美國為了維護以色列的利益，以霸凌和完全無視盟友利益的方式，嚴重危及其每個盟友的安全，以至於他們一度感到自身生存都受到了威脅。“我們需要一個真正能夠為地區帶來和平與安全的本土獨立秩序。”（央視新聞）
+
+---
+
+### 2026-08-22 19:44:04  #其他
+
+【廣東釋出颱風“紫檀”防禦提醒】廣東省三防辦、省氣象局釋出提醒：受颱風“紫檀”影響，23日—24日北部灣、瓊州海峽、粵西海面、南海西北部海面、雷州半島沿海地區有7級以上大風，颱風中心經過的附近海面風力8—11級；23日—25日，廣東中南部市縣有大雨到暴雨區域性大暴雨。請密切關注當地預警資訊，海上作業和交通航行、海島和濱海旅遊注意安全，防範局地內澇、山洪、山體滑坡等災害。
+
+---
+
+### 2026-08-22 19:41:32  #其他
+
+【自然資源部對廣西啟動地質災害防禦Ⅳ級響應】受今年第19號颱風“紫檀”影響，未來三天，廣西局地有強降雨過程。經自然資源部地質災害技術指導中心綜合研判，廣西南部部分地區發生地質災害的風險高。自然資源部於8月22日18時對廣西啟動地質災害防禦IV級響應。
 
 ---
 
@@ -18669,41 +18699,5 @@ Fast Retailing shares fell 3.8%.
 ### 2026-08-21 08:12:05  #MKT News
 
 【China Merchants Securities: Hang Seng TECH index expansion, industry trends favor cloud providers】China Merchants Securities said in a strategy note that two developments boost the Hong Kong market outlook: the Hang Seng TECH Index methodology was revised—constituent count expanded and revenue growth added to selection criteria—addressing concerns about the index’s tech content; and AI-sector profits are shifting from hardware and large models toward cloud providers, a dynamic that should favor Hong Kong-listed cloud names. The firm remains positive on Hong Kong equity opportunities.
-
----
-
-### 2026-08-21 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
-
-CITIC Securities earnings above expectations at 0.68 CNY — CITIC Securities (600030) released earnings per share at 0.68 CNY, compared to market expectations of 0.61 CNY.
-
----
-
-### 2026-08-21 08:11:44  #Trading Economics #Markets #China #Earnings #Importance 0
-
-China Telecom earnings in line with market expectations at 0.08 CNY — China Telecom (601728) released earnings per share at 0.08 CNY, in line with market expectations.
-
----
-
-### 2026-08-21 08:11:09  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-【China pushes pension funds toward long-term investing】Chinese policy documents urge pension funds to pursue “long money, long investments,” citing decades‑ahead payout obligations and the theoretical capacity to tolerate higher equity volatility to earn long‑term equity premia. The guidance prioritises reforming measurement: accelerate establishment of long‑cycle assessment frameworks and embed cross‑cycle returns and risk control into fund evaluations. It calls for supporting measures and a steady expansion of pension investment scale and channels; under strict equity‑allocation caps, funds should optimise asset mixes and raise equity exposure, with emphasis on national strategic emerging industries. Authorities will also encourage pension participation in listed‑company governance and directed placements and push for improved dividend mechanisms so pension funds share more of the real‑economy’s growth returns.
-
----
-
-### 2026-08-21 08:11:06  #MKT News #Market Regions #Japan & APAC
-
-Australia's S&P/ASX 200 opened down 11.8 points (-0.13%) at 9,072.00 on Friday, Aug. 21.
-
----
-
-### 2026-08-21 08:10:58  #市場
-
-【招商證券：恒生科技指數擴容 產業趨勢變化利好雲廠】招商證券策略報告指出，近期港股市場出現了一系列積極變化。第一，恒生科技指數編制規則改進，成分股擴容並且將收入增速納入篩選標準，回應了市場對於指數“含科量”不足的擔憂。第二，從最新產業趨勢變化來看，AI產業的利潤正在由AI硬體與大模型向雲廠商轉移，港股較為受益。往後看，依然看好港股市場投資機會。
-
----
-
-### 2026-08-21 08:10:48  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Set for Third Straight Weekly Gain — Silver traded above $68 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 5% this week after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Silver also pushed higher even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran, with the two sides locked in a standoff over the Strait of Hormuz.
 
 ---
