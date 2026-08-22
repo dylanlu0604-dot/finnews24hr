@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 23:51:54_
-_本檔包含 3030 則快訊，約 651077 字_
+_更新時間：2026-08-23 00:35:51_
+_本檔包含 3029 則快訊，約 651057 字_
+
+---
+
+### 2026-08-17 22:06:48  #國際
+
+市場訊息：媒體表示用管道替代霍爾木茲海峽的方案可行性不大。 伊拉克‑敘利亞石油通道專案至少需要四年工期以及 150 億美元資金，而伊拉克資金短缺，且專案週期漫長。
+
+---
+
+### 2026-08-17 22:06:30  #MKT News
+
+Glencore invested in Radiant World via a warrant transaction maturing end‑2025; Glencore has not exercised those warrants.
+
+---
+
+### 2026-08-17 22:05:46  #Trading Economics #Economy #United States #Nahb Housing Market Index #Importance 1
+
+US Homebuilder Sentiment Recovers in August — The NAHB/Wells Fargo Housing Market Index (HMI), which tracks US homebuilder confidence in the market for newly built single-family homes, inched up to 25 in August of 2026 from 34 in the previous month. The result contrasted with expectations that it would ease to 33. Current sales conditions rose by two points from the previous month to 39, while sales expectations over the next six months were unchanged at 43. Despite this, 35% of builders were forced to cut prices in August, down two percentage points from July. Among those, the average price reduction was 6%.
+
+---
+
+### 2026-08-17 22:05:43  #公司
+
+嘉能可在 2025 年末透過認股權證交易支援 Radiant World 公司。
+
+---
+
+### 2026-08-17 22:05:03  #公司
+
+汽車製造商斯泰蘭蒂斯表示，因無線電軟體可能導致倒車攝像頭無法顯示影像，該公司將召回95.5萬輛汽車。
+
+---
+
+### 2026-08-17 22:04:23  #MKT News
+
+Iran's supreme leader said he will remain vigilant and actively safeguard Iran's interests.
+
+---
+
+### 2026-08-17 22:01:59  #經濟數據 #美國
+
+美國8月份NAHB住宅建築商指數升至35；預估33。
+
+---
+
+### 2026-08-17 22:01:47  #公司 #市場 #觀點
+
+【摩根士丹利給予亞馬遜 500 美元目標價】摩根士丹利表示，若亞馬遜雲科技增長提速，亞馬遜股價到 2027 年末有望觸及 500 美元，較當前水平近乎翻倍。該樂觀情景的前提是，在人工智慧算力需求與產能擴張的推動下，AWS 最終實現 1 萬億美元年度營收。亞馬遜近期將 2026 年人工智慧支出預期上調至 2200 億美元。摩根士丹利基準情景目標價仍為 335 美元，對應約 28% 的上漲空間。
+
+---
+
+### 2026-08-17 22:01:19  #公司
+
+挪威國家石油公司：以9.4億美元從貝萊德旗下GIP手中收購賓夕法尼亞州一座燃氣發電廠的股份。
+
+---
+
+### 2026-08-17 22:01:04  #MKT News
+
+【Saudi offers cargoes loaded off Oman coast; may be shifting to transshipment】Saudi Arabia is offering cargoes loaded off the coast of Oman, suggesting it may be following the UAE in routing more oil via transshipment rather than conventional Strait of Hormuz shipments. Sources say Aramco is supplying ship‑to‑ship cargoes loaded at Gulf of Oman ports such as Sohar. The cargoes are Arab Medium and Heavy grades, pointing to Persian Gulf origin. In March Aramco CEO Amin Nasser said the Yanbu pipeline mainly carries Arab Light and Extra Light, while near‑shore Persian Gulf fields supply the kingdom’s medium and heavy barrels. Aramco declined to comment.
 
 ---
 
@@ -18210,71 +18270,5 @@ Israel's Channel 12, citing security sources, said an Israeli tank in the southe
 ### 2026-08-16 00:36:07  #國際
 
 【印尼中蘇拉威西省附近海域發生6.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月15日23時25分，印尼中蘇拉威西省附近海域發生6.2級地震， 震源深度44公里。預計不會有海嘯風險。
-
----
-
-### 2026-08-16 00:33:26  #MKT News
-
-【NSW to start firearms buyback on Nov 2 after Bondi shooting】New South Wales will launch a firearms buyback on Nov. 2 in response to last year’s Bondi Beach shooting, becoming the first Australian state to implement such a program. About 50,000 licensed gun owners and roughly 274,000 firearms are expected to be affected. Compensation ranges A$450–A$1,000 per firearm, with a A$10,000 cap for certain high‑value guns.
-
----
-
-### 2026-08-16 00:24:13  #MKT News
-
-CENC measured a magnitude-2.8 earthquake at 00:07 on Aug 16 in Renshou County, Meishan, Sichuan (29.77°N, 104.25°E); focal depth 7 km.
-
----
-
-### 2026-08-16 00:15:48  #其他
-
-中國地震臺網正式測定：08月16日00時07分在四川眉山市仁壽縣（北緯29.77度，東經104.25度）發生2.8級地震，震源深度7千米。
-
----
-
-### 2026-08-16 00:15:31  #其他
-
-【河南清潩河鄢陵縣倉頭村段潰口實現成功合龍】8月15日23時56分，河南清潩河鄢陵縣倉頭村段潰口實現成功合龍。受持續降雨及上游來水影響， 8月13日上午10時許，清潩河鄢陵縣倉頭村段一處農田排澇閘被沖毀，潰口寬度10餘米。潰口處洩水對下游西華縣逍遙鎮部分村莊造成一定影響，另有部分農田被淹沒。險情發生後，河南省先後組織專家和救援力量300餘人、投入機械40臺全力搶險。（央視新聞）
-
----
-
-### 2026-08-16 00:13:32  #MKT News #WTI #Impact bullish #Brent
-
-【Yemen's Mocha port suspends operations after Houthi attack】Mocha port has suspended commercial and maritime operations after being hit by more than 25 missiles fired by Houthi forces, the port authority said on Saturday. The attack killed seven people and caused an estimated $16m in damage. Mocha, a Red Sea port near the Bab al-Mandeb Strait linking the Red Sea and Gulf of Aden, lies on a key international shipping route. The port is held by forces aligned with Yemen's internationally recognized government and has a smaller cargo capacity than Aden and Hodeidah ports.
-
----
-
-### 2026-08-16 00:10:21  #其他
-
-中國地震臺網自動測定：08月16日00時07分在四川眉山市仁壽縣附近（北緯29.80度，東經104.23度）發生3.1級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-16 00:08:14  #國際
-
-以色列總理辦公室發言人：以色列希望與黎巴嫩開展更為實質性的談判。
-
----
-
-### 2026-08-16 00:04:48  #MKT News #Brent #Impact bullish #WTI
-
-Yemen's Mokha port manager said the port suspended operations after an attack by Houthi militants.
-
----
-
-### 2026-08-16 00:02:32  #其他
-
-據貓眼專業版資料，電影《蜘蛛俠：嶄新之日》上映19天， 總票房破14億。
-
----
-
-### 2026-08-15 23:56:54  #公司
-
-【邦迪槍擊案後澳新州將啟動槍支回購計劃】據澳大利亞廣播公司15日報道，澳新南威爾士州政府將啟動槍支回購計劃。這是去年該州發生悉尼邦迪灘槍擊事件後收緊槍支管控的最新舉措。 報道說，該計劃將於11月2日啟動，新州因此將成為澳大利亞首個實施相關槍支回購計劃的州。預計約有5萬名持槍許可證持有人將受到新規影響，涉及槍支約27.4萬支。根據回購計劃，不同型別槍支的補償標準從每支450至1000澳元不等（約合2150至4780元人民幣），部分高價值槍支的補償上限為每支1萬澳元（約合4.78萬元人民幣）。（新華社）
-
----
-
-### 2026-08-15 23:54:52  #其他
-
-【辛巴威船隻傾覆已致68人死亡】當地時間15日，辛巴威警方公佈，該國北部卡里巴湖11日下午發生的船隻傾覆事故死亡人數上升到68人。
 
 ---

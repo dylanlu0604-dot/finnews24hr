@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 23:51:54_
-_本檔包含 3390 則快訊，約 651208 字_
+_更新時間：2026-08-23 00:35:51_
+_本檔包含 3391 則快訊，約 651362 字_
+
+---
+
+### 2026-08-21 08:56:51  #公司
+
+【中公教育成立陪伴學網路科技公司 含AI業務】企查查APP顯示，近日，北京陪伴學網路科技有限公司成立，經營範圍包含：人工智慧雙創服務平臺；人工智慧基礎軟體開發；人工智慧公共資料平臺；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由中公教育全資持股。
+
+---
+
+### 2026-08-21 08:56:21  #其他
+
+【北京市釋出雷電黃色預警】預計，8月21日午後至夜間，北京市有分散性雷陣雨天氣，局地短時雨強較大，並伴有6級左右陣風，請注意防範。
+
+---
+
+### 2026-08-21 08:55:15  #公司
+
+【三角防務：公司作為CJ-1000A系列發動機主要盤類件核心供應商 相關配套工作正常推進中】三角防務(300775)8月21日在互動平臺表示，公司作為CJ-1000A系列發動機主要盤類件核心供應商，相關配套工作按照總承單位專案計劃正常推進中。
+
+---
+
+### 2026-08-21 08:55:12  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Fall as Global Yields Rebound — The Nikkei 225 Index fell 0.7% to below 66,000 while the broader Topix Index declined 0.25% to around 4,050 on Friday, giving back gains from the previous session as global bond yields rebounded amid concerns that US efforts to curb borrowing costs through debt buybacks may provide only a temporary solution. The 10-year US Treasury yield traded around 4.7%, erasing its losses from earlier in the week, while Japan’s benchmark 10-year yield ended a two-day decline. Meanwhile, data showed Japan’s inflation rate accelerated for the second consecutive month, strengthening the case for a Bank of Japan interest rate hike in the near term. BOJ Governor Kazuo Ueda previously indicated that authorities could begin normalizing policy at a faster pace. Technology stocks led the declines, with notable losses from Advantest (-0.8%), Taiyo Yuden (-3.2%) and SoftBank Group (-2.3%). The Nikkei and Topix indexes were on track to lose more than 4% and 3% for the week, respectively.
+
+---
+
+### 2026-08-21 08:52:21  #MKT News #Market Regions #Japan & APAC
+
+Japan's 20-year government bond yield rose 6 bps to 3.77%.
+
+---
+
+### 2026-08-21 08:51:51  #市場 #國際
+
+日本20年期國債收益率上漲6個基點至3.77%。
+
+---
+
+### 2026-08-21 08:51:43  #其他
+
+【受南海熱帶低壓影響 海南部分進出島列車停運】記者從海南鐵路海口車務段瞭解到，受熱帶低壓影響，海南鐵路部分進出海南島列車停運：昨日，出海南島列車Z8008、Z112、K512、Z502次停運；今日，進海南島列車Z501、K511、Z8007、Z111次停運。（央視新聞）
+
+---
+
+### 2026-08-21 08:51:22  #央行 #國際
+
+【半導體提振韓國經濟增長 央行副行長強調維護物價與金融穩定】韓國央行新任副行長權珉秀在一次演講中表示，韓國經濟面臨複雜挑戰，當前需要採取審慎且靈活的政策決策。根據韓國央行公佈的演講稿，權珉秀表示：“儘管受益於半導體產業的強勁表現，經濟增長好於預期，但通脹率仍高於目標水平，同時以家庭債務和房價為核心的金融失衡風險依然存在”。權珉秀表示，韓國央行將更加忠實地履行維護物價穩定和金融穩定的核心職責，並將持續完善貨幣政策工具及市場溝通機制。
 
 ---
 
@@ -20445,47 +20493,5 @@ Spot gold fell below $4,510/oz, down 0.29% on the day.
 ### 2026-08-20 08:28:34  #MKT News #Star Stocks #Tencent #0700.HK #Impact bullish #CSI300 #Hang Seng Index
 
 【CITIC Securities: Visibility on China’s domestic compute orders set to improve; focus on leading supply‑chain names】CITIC Securities says Tencent’s Q2 2026 Capex ran well above expectations and the company will continue to ramp AI infrastructure and procure domestic compute. Into H2 2026, order visibility for China’s domestic compute is expected to strengthen and supply‑chain stocking to accelerate. Firm recommends monitoring leading domestic compute supply‑chain vendors.
-
----
-
-### 2026-08-20 08:28:29  #MKT News #005930.KS
-
-South Korean media report Samsung Electronics has, in 1H, accelerated full repayment of a 20 tln won loan borrowed from Samsung Display during the 2023 semiconductor downturn. Samsung repaid 10 tln won on April 23; media estimate the remaining 10 tln won was repaid in late May.
-
----
-
-### 2026-08-20 08:28:04  #市場 #焦點
-
-現貨黃金失守4510美元/盎司，日內跌0.30%。
-
----
-
-### 2026-08-20 08:27:32  #觀點
-
-【中信證券：國產算力訂單預期清晰度有望進一步增強 建議關注國產算力產業鏈頭部廠商】中信證券研報稱，2026年第二季度騰訊Capex大超預期，且後續將持續加強AI基建建設及國產算力採購。展望2026年下半年，國產算力訂單預期清晰度有望進一步增強，供應鏈備貨節奏加速，建議關注國產算力產業鏈頭部廠商。
-
----
-
-### 2026-08-20 08:27:01  #MKT News #Market Regions #Greater China #600519.SS #Impact bullish #000858.SZ #000568.SZ
-
-【CITIC Securities: China baijiu sector entering recovery; watch Mid-Autumn peak-season sell-through】CITIC Securities says the China baijiu sector is undergoing a valuation recovery after a deep 1H sell-off driven by sentiment and fund flows; July-to-date the sector is up 13.8% versus the CSI 300 INDEX +0.7%. The broker sees fundamentals stabilizing: wholesale prices have steadied under inventory controls, sell-through is marginally recovering from a low base, and inventories have started to decline. Since August demand for consumption occasions such as graduation/banquets has improved month-on-month, which may ease channel pessimism ahead of the Mid-Autumn peak selling season. CITIC recommends buying on dips, favoring leading liquor producers.
-
----
-
-### 2026-08-20 08:26:57  #MKT News
-
-OpenAI said registration and login on Chatgpt.com are disrupted and it is working to restore the functions.
-
----
-
-### 2026-08-20 08:26:52  #其他
-
-【平陸運河順利完成企石樞紐到青年樞紐實船試驗】8月19日，平陸運河實船試驗持續推進，5000噸級過載、5000噸級空載、3000噸級過載、1000噸級過載四艘代表船型集結編隊，開展企石樞紐至青年樞紐下行航道綜合科目試驗，全方位檢驗航道、錨地、青年樞紐船閘的實際通航表現，為9月如期通航提供有效實測資料。（央視新聞）
-
----
-
-### 2026-08-20 08:26:32  #MKT News #Market Regions #Emerging Markets
-
-SpaceX's Starlink has applied to Indian regulators for approval to operate a satellite network using direct-to-device technology, the Financial Times reports.
 
 ---
