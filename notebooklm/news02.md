@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 22:31:10_
-_本檔包含 3381 則快訊，約 651066 字_
+_更新時間：2026-08-22 22:51:58_
+_本檔包含 3388 則快訊，約 651495 字_
+
+---
+
+### 2026-08-21 08:44:37  #MKT News
+
+South Korea's finance minister said trading volume in single-stock leveraged ETFs has shrunk to one-tenth.
+
+---
+
+### 2026-08-21 08:44:22  #公司
+
+【國軒高科：配套問界M6純電版相關專案正積極開展批次供貨籌備工作】國軒高科在互動平臺表示，公司配套問界M6純電版相關專案正積極開展批次供貨籌備工作。同時，公司與鴻蒙智行持續深化合作，積極對接旗下其他車型。
+
+---
+
+### 2026-08-21 08:43:58  #市場 #焦點 #國際
+
+韓國財長：將監測國債市場狀況。單隻股票槓桿ETF交易量已縮減至十分之一。
+
+---
+
+### 2026-08-21 08:43:29  #MKT News
+
+South Korea's finance minister said the government will monitor government bond market conditions.
+
+---
+
+### 2026-08-21 08:43:21  #MKT News
+
+South Korea's KOSPI turned higher after earlier sliding more than 1%.
+
+---
+
+### 2026-08-21 08:43:21  #MKT News
+
+South Korea's finance minister said measures will be taken to address foreign-exchange market volatility.
+
+---
+
+### 2026-08-21 08:42:50  #其他
+
+【國際復材：目前低介電LDK二代產品已進入國內外多家頭部覆銅板廠商供應鏈】國際復材8月20日在機構電話會議上表示，目前低介電LDK二代產品已經進入國內外多家頭部覆銅板廠商供應鏈，實現穩定批次供貨；低膨脹LCTE產品已形成小批次供給，正在有序推進產能提升等相關工作；Q布產品仍處於研發階段，力爭2026年內完成中試專案建設投用。特種電子布在電子布業務收入中已佔有一定比重。後續將持續打磨高階產品效能，穩步推進產能建設與客戶端匯入落地，進一步挖掘高階電子材料賽道的成長空間。
+
+---
+
+### 2026-08-21 08:42:35  #公司 #國際
+
+市場訊息： 貝恩資本考慮向 JBM 汽車電動車子公司投資 285 億印度盧比。
+
+---
+
+### 2026-08-21 08:41:01  #市場 #焦點 #國際
+
+韓國首爾綜指轉漲，此前一度跌超1%。
+
+---
+
+### 2026-08-21 08:38:58  #其他
+
+【4.58億元全部下達 廣西助力受災地區農業恢復、水利工程修復】記者從廣西壯族自治區財政廳獲悉，今年以來，廣西持續出現強降雨天氣，南寧、貴港、欽州、防城港等地發生嚴重洪澇、地質災害，人民群眾生命財產安全受到嚴重威脅。廣西壯族自治區財政廳會同廣西壯族自治區農業農村廳、水利廳彙報爭取中央支援，加大資金統籌力度，累計籌措落實農業防災減災和水利救災資金4.58億元。截至目前，農業防災減災資金2.33億元和水利救災資金2.25億元已全部下達至有關市縣，有力保障全區農業、水利防災減災救災工作順利開展。下一步，廣西壯族自治區財政廳將持續密切關注災情，積極會同有關部門加快專案推進，加強資金監管，持續推動救災資金惠民見效。（央視新聞）
+
+---
+
+### 2026-08-21 08:38:25  #Trading Economics #Economy #Japan #Manufacturing PMI #Importance 1
+
+Japan Factory Activity Growth Hits 4-Month High — The S&P Global Japan Manufacturing PMI increased to 55.1 in August 2026 from 54.5 in the previous month, marking the eighth consecutive month of expansion in factory activity. It was the strongest growth in the manufacturing sector since April, as firms recorded the fastest increase in new work since January 2018, with foreign sales also growing at the strongest pace since early 2018.
 
 ---
 
@@ -20409,29 +20475,5 @@ South Korea's KOSPI index widened intraday gains to 4.00%, trading at 6,732.17.
 ### 2026-08-20 08:22:10  #MKT News #Market Regions #Greater China
 
 【Huatai Securities: Medium- to long-term constructive on China civil aviation recovery; early positioning offers attractive risk-reward】Huatai Securities says July’s summer travel season and a decline in jet-fuel ex-factory prices prompted airlines to add capacity. Combined for Air China, China Eastern, China Southern, Spring Airlines and Juneyao, ASK and RPK rose YoY 4.6% and 7.8% (June: ASK -2.5%, RPK -1.7%); load factor climbed 2.6ppt to 86.2%. Volume growth has been accompanied by weak pricing: domestic fares including fuel surcharge in weeks 27–31 (Jun 29–Aug 2) fell 3.2% YoY (vs Jun 1–28 +11.5%). Early August (weeks 32–33, Aug 3–16) fares improved 2.6% YoY, but Huatai says the low base means the summer peak has not produced a clear seasonality-driven boost and sector attention remains limited. The firm will monitor international oil and high-frequency data; it remains constructive on a mid- to long-term industry recovery and says left-side positioning offers relatively high cost-effectiveness.
-
----
-
-### 2026-08-20 08:22:08  #市場 #焦點 #國際
-
-韓國KOSPI指數漲幅擴大至4%。SK海力士漲近9%，三星電子漲超5%。
-
----
-
-### 2026-08-20 08:20:22  #MKT News
-
-DownDetector shows user reports indicate an outage at OpenAI.
-
----
-
-### 2026-08-20 08:19:55  #MKT News
-
-【Economic Daily warns of international capital stoking grain crisis】China's Economic Daily said recent warnings from Goldman, HSBC, BofA and JP Morgan that overlapping risks could trigger a new round of food inflation have spurred speculative flows: A-share agriculture/planting stocks jumped, several listed seed firms hit daily limit-ups and grain ETFs rallied. The paper said financial capital's speculation can amplify supply‑demand imbalances and manufacture shortages through expectation management. It urged maintaining ample food supply as the primary defense, noting a global trend toward stronger domestic grain self‑sufficiency. China continues its 'store grain in land and in technology' strategy, reporting consecutive large harvests, abundant inventories, basic grain self‑sufficiency and absolute staple‑food security.
-
----
-
-### 2026-08-20 08:19:52  #Trading Economics #Markets #New Zealand #stocks #Importance 0
-
-Westpac Stock Price Hits 12-month Low — Westpac shares decreased to 41.10 NZD, the lowest since August 2025. Over the past 4 weeks, Westpac lost 4.54%, and in the last 12 months, it decreased 0.69%.
 
 ---

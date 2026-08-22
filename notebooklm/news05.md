@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 22:31:10_
-_本檔包含 3044 則快訊，約 650180 字_
+_更新時間：2026-08-22 22:51:58_
+_本檔包含 3037 則快訊，約 650723 字_
+
+---
+
+### 2026-08-17 21:58:56  #MKT News
+
+Saudi outlet Alhadath reported Lebanon's president said he does not want to abandon implementation of the framework agreement with Israel and seeks to strengthen the agreement and secure breakthroughs on certain issues.
+
+---
+
+### 2026-08-17 21:57:56  #MKT News #SPCX.O
+
+SpaceX (SPCX.O) hit an intraday high, rising 5.8%.
+
+---
+
+### 2026-08-17 21:57:49  #市場
+
+SpaceX 漲幅擴大至盤中高點 5.8%。
+
+---
+
+### 2026-08-17 21:57:49  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent #XAUUSD
+
+【Trump again singles out Oman; analysts say his threats often overstate follow-through】President Trump warned he would attack Oman if it interferes with US actions in the Strait of Hormuz. CNN Washington reporter Aaron Blake said this is not the first such threat; Trump issued a similar warning in May. CNN counted in May that about one in 13 countries worldwide had been attacked or threatened by Trump; Oman is at least the 15th country named. During his second term Trump has ordered military strikes in seven countries — Iran, Iraq, Nigeria, Somalia, Syria, Venezuela and Yemen — and has threatened or kept open the option of strikes against a further seven, including Canada, Colombia, Cuba, Greenland (Denmark), Mexico, Panama and Oman. Analysts note Trump has frequently failed to follow through on threats, often retracting them by citing purported progress that later did not materialize.
+
+---
+
+### 2026-08-17 21:57:03  #公司 #市場
+
+【美股半導體裝置股走高】美股半導體裝置股走高，AXT Inc大漲超11%，應用材料、艾馬克技術漲超5%，科磊、泰瑞達、泛林集團漲約2%。
+
+---
+
+### 2026-08-17 21:55:01  #MKT News #Commodities #Energy
+
+Bolivia will increase diesel prices by 84% for purchases exceeding 120 liters per month.
+
+---
+
+### 2026-08-17 21:54:56  #公司
+
+美股網路安全公司盤初集體走低，Cloudflare跌近3%，飛塔資訊跌2%，CrowdStrike跌超1%。
+
+---
+
+### 2026-08-17 21:54:40  #市場
+
+現貨黃金15分鐘內拉昇逾20美元，現報4404美元/盎司。
+
+---
+
+### 2026-08-17 21:54:35  #其他
+
+市場訊息：玻利維亞對月購買量超過 120 升的柴油，提價 84%。
+
+---
+
+### 2026-08-17 21:54:34  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold jumped over $20 within 15 minutes to $4,404/oz.
+
+---
+
+### 2026-08-17 21:54:21  #其他
+
+【三峽能源與國網天津電力座談】據三峽能源訊息，8月17日，三峽能源董事長、黨委書記朱承軍，總經理、黨委副書記劉姿赴天津與國網天津電力董事長、黨委書記錢慶林，董事、總經理、黨委副書記武登峰舉行座談，雙方就深化務實合作開展深入交流。座談中，雙方回顧了長期以來緊密協作、互信共贏的良好合作基礎，並表示將持續深化戰略協同，聚焦陸上新能源專案建設、海上風電開發、綠電消納等重點領域深耕務實合作，合力推進“十五五”時期新型電力系統建設。
+
+---
+
+### 2026-08-17 21:54:03  #國際
+
+美國能源部長賴特：美國的天然氣產量位居全球首位。得益於特朗普總統推行的美國能源主導議程，未來數十年我們仍將保持領先地位。今日很高興來到得克薩斯州米德蘭市，這裡是二疊紀盆地油氣產業的核心地帶，該地自 2016 年以來石油產量增長了 250%。
+
+---
+
+### 2026-08-17 21:53:52  #MKT News
+
+White House: Trump administration and TrumpRx are sharply lowering prescription drug prices; pledge fulfilled.
+
+---
+
+### 2026-08-17 21:53:51  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Approaches 19-Year High — The yield on the 10-year US Treasury note rose past 4.7% on Monday, not far from the 19-month high of 4.75% tested last week as lingering concerns of inflation and increasing credit supply extended the aversion to bonds in the long end of the curve. Oil prices rose further as President Trump signaled there was no rush to end the blockade against Iran energy, preventing the flow of tankers from the Persian Gulf. Higher energy prices lifted underlying inflation this year, although a softer CPI cooled immediate worries. Still, concerns that the Federal Reserve may be complacent against inflation were reflected by the surge in long-dated yields. These were initially flagged by Fed Chair Warsh stating a rate hike may not be the preferred tool to combat higher prices. Lastly, debt issuance in the US soared as AI companies raised $1.5 trillion in bonds this year, lifting the supply of dollar-denominated fixed-income that could limit the relative appetite for Treasury securities.
 
 ---
 
@@ -18234,131 +18318,5 @@ Yemen's Mokha port manager said the port suspended operations after an attack by
 ### 2026-08-15 23:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 Israel Defense Forces said it killed a commander in Hezbollah's Radwan unit.
-
----
-
-### 2026-08-15 22:48:56  #國際
-
-土耳其總統埃爾多安：土耳其不會對加沙置之不理，我們將採取一切必要舉措向其提供支援。
-
----
-
-### 2026-08-15 22:45:50  #其他
-
-尚比亞總統希奇萊馬在連任角逐中初步領先。
-
----
-
-### 2026-08-15 22:45:01  #國際
-
-【黎巴嫩譴責以色列襲擊黎南違反框架協議】黎巴嫩總統奧恩15日譴責以色列當天對黎南地區發動的空襲，稱以方襲擊違反黎以美三方框架協議和國際法，導致奈拜提耶地區安薩爾村一家人全部遇難。黎巴嫩衛生部發表宣告說，以軍當天對安薩爾村發動空襲，造成7人死亡、多人受傷，死者中包括3名兒童和2名婦女。以軍當天還對奈拜提耶地區迪爾扎赫拉尼鎮發動空襲，造成4人死亡、17人受傷。（新華社）
-
----
-
-### 2026-08-15 22:44:46  #MKT News
-
-【Iran's PEZESHKIAN convenes meeting of executive, legislative and judicial leaders】President PEZESHKIAN met with parliament speaker Ghalibaf and judiciary chief Gholam‑Hossein Mohseni‑Eje'i to review domestic developments and priority work. The leaders called for strengthened coordination among the executive, legislature and judiciary and a unified, coordinated approach to advance state affairs and safeguard public and national interests.
-
----
-
-### 2026-08-15 22:42:45  #公司 #焦點 #國際
-
-【以色列正試圖操控人工智慧關於加沙議題的輸出內容】以色列已發起一場公關宣傳活動，目的是引導ChatGPT等人工智慧系統在回答有關以色列、加沙以及以色列國防軍相關問題時的表述傾向。多家受以色列委託的公關公司成立了漢諾威公共政策研究所，該機構釋出大量設問式報告，例如《以色列國防軍是全球最講道義的軍隊嗎？》《加沙是否存在刻意製造饑荒的政策？》。這些文稿是以色列出資、總投入10萬美元宣傳專案的組成部分。相關測試顯示，當使用者提出中立問題時，ChatGPT與Perplexity人工智慧模型會引用這家研究所釋出的資料。以色列還資助了另一項總額4650萬美元的輿論干預專案，該專案專門搭建各類網站、產出定製內容，以此干預“GPT模型的內容輸出導向”。
-
----
-
-### 2026-08-15 22:40:32  #MKT News
-
-The office of the Israeli prime minister said HEZBOLLAH launched an attack in Lebanon's "security zone", wounding three soldiers.
-
----
-
-### 2026-08-15 22:40:10  #國際
-
-以色列總理辦公室：真主黨在黎巴嫩“安全區”發動襲擊，造成三名士兵受傷。
-
----
-
-### 2026-08-15 22:39:50  #國際
-
-土耳其總統埃爾多安：《麥加協議》向世界傳遞了重要訊號。《麥加協議》規定，若任一簽署國遭受外部襲擊，所有簽約國都將採取統一行動。該協議未來允許其他國家加入，埃及也有望參與其中。
-
----
-
-### 2026-08-15 22:39:28  #其他
-
-土耳其總統埃爾多安：我們將優先推動霍爾木茲海峽恢復通航，持續封鎖這條海峽不符合任何一方的利益。
-
----
-
-### 2026-08-15 22:39:20  #國際
-
-土耳其總統埃爾多安：歐洲似乎無意接納土耳其加入歐盟。加入歐盟已不再是我們的優先事項，土耳其無法入盟，最終受損的只會是歐洲。
-
----
-
-### 2026-08-15 22:38:08  #國際
-
-土耳其總統埃爾多安：特朗普近期訪土期間，我與他探討了必須停止黎巴嫩戰事的相關事宜。
-
----
-
-### 2026-08-15 22:37:49  #國際
-
-土耳其總統埃爾多安：卡達為調停結束中東地區衝突發揮了重要作用。
-
----
-
-### 2026-08-15 22:37:38  #國際
-
-土耳其總統埃爾多安：美國在制止以色列對黎巴嫩發動戰事一事上起到關鍵作用。
-
----
-
-### 2026-08-15 22:37:24  #MKT News #WTI #Impact bearish #Brent
-
-ERDOGAN said he prioritizes reopening the Strait of Hormuz, saying a prolonged closure would benefit no one.
-
----
-
-### 2026-08-15 22:37:11  #MKT News
-
-Turkish President Erdogan said Europe appears unwilling to accept Turkey into the EU, and that EU accession is not Ankara's priority, adding Europe would be the one to lose.
-
----
-
-### 2026-08-15 22:36:58  #MKT News #Market Regions #Emerging Markets
-
-【Indonesia advances plan for financial and investment centre to attract global capital】Indonesia is advancing plans to establish an Indonesia Financial and Investment Center (IIFC) to attract global capital and leverage the country's rising appeal to investors, the government said. Officials described Indonesia as a high-potential market with substantial growth space and said the IIFC would act as a support mechanism to draw capital from multiple countries and capitalise on those opportunities.
-
----
-
-### 2026-08-15 22:34:56  #國際
-
-土耳其總統：以色列持續襲擊黎巴嫩是我們重大關切所在。
-
----
-
-### 2026-08-15 22:34:13  #國際
-
-美軍中央司令部：戰鬥機從阿拉伯海的喬治·H·W·布什號航空母艦起飛，以維護中東地區的安全與穩定。
-
----
-
-### 2026-08-15 22:33:39  #國際
-
-土耳其總統埃爾多安：我們已收到特朗普關於F‑35戰鬥機的承諾，我們正等待他兌現該承諾。
-
----
-
-### 2026-08-15 22:33:14  #國際
-
-美國國家颶風中心表示，預計颶風赫南今日將減弱為殘留低氣壓。
-
----
-
-### 2026-08-15 22:32:53  #國際
-
-土耳其總統埃爾多安：我將於近期訪問敘利亞。敘利亞不會被拋下，我們將盡一切力量維護該國穩定。
 
 ---

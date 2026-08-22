@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 22:31:10_
-_本檔包含 3310 則快訊，約 652055 字_
+_更新時間：2026-08-22 22:51:58_
+_本檔包含 3305 則快訊，約 651058 字_
+
+---
+
+### 2026-08-19 07:42:57  #資料 #央行 #國際
+
+【債券交易員再度換擋 著手對沖美聯儲2027年或轉向降息的風險】債券交易員再次調整佈局。一系列經濟資料釋出後，市場幾乎完全排除了美聯儲今年餘下時間加息的可能性，如今期權市場的押注著手對沖美聯儲2027年轉向降息的風險。 上週公佈的資料顯示，7月通脹和消費者需求有所放緩，市場對9月16日政策會議加息的預期降低，此後期權市場活躍起來。期權交易員開始建立頭寸，押注未來數月掉期市場計入的加息幅度將被削弱。部分期權交易甚至開始對沖最早明年年中出現降息的風險。“交易員對加息的擔憂有所減少，”Constitution Capital的利率交易部門主管Jeff Schuh表示，並指出近期押注加息的倉位在被平倉。“我們看到許多9月和12月看跌期權的賣方放棄原有押注並且平倉。”Schuh表示，過去一週市場對9月加息的預期機率從兩週前的68%驟降一半，這“充分說明了市場對疲軟的非農資料和CPI資料的看法”。
+
+---
+
+### 2026-08-19 07:40:43  #國際
+
+【特朗普對伊朗戰爭採取新策略：脫離接觸】據報道，數週以來，美國總統唐納德・特朗普一直寄望美伊之間能出現積極進展，但收效甚微。據一名美國官員透露，週二他似乎轉向一套新策略。特朗普指示政府高階特使停止與伊朗的對話。另據知情訊息源稱，白宮官員近期向政治盟友表示，美方正在調整戰略：從 “儘快重拳打擊伊朗” 轉變為長期 “扼制伊朗”。自 6 月簽署的停火協議破裂後，特朗普曾反覆對外宣稱談判進展順利，新協議近在咫尺。而如今，他不再聲稱談判正在向好推進，而是宣佈美伊之間完全沒有開展任何外交磋商。
+
+---
+
+### 2026-08-19 07:39:09  #國際
+
+【蘋果下調歐洲應用商店費用，以解決與歐盟分歧】當地時間8月18日，蘋果宣佈調整歐盟地區應用業務條款，以解決與歐盟委員會圍繞業務條款和替代分發的分歧。新條款將歐盟地區所有應用開發者統一納入一套業務條款，並於10月1日起生效。根據新條款，使用蘋果應用內購買的App Store應用佣金為26%，符合相關開發者計劃條件的多數開發者及部分訂閱業務佣金為15%；使用替代支付方式的應用佣金為20%，符合相關條件的開發者為10%。蘋果還將取消核心技術費、初始獲取費和商店服務費，並允許開發者同時提供蘋果應用內購買和替代支付方式。
+
+---
+
+### 2026-08-19 07:39:02  #市場
+
+日經指數期貨在新加坡交易所開盤下跌1,595點，報66,075點。
+
+---
+
+### 2026-08-19 07:37:19  #公司
+
+【新股提示：貝特利、北交所新股金鈦股份今日申購】今日可申購貝特利和北交所新股金鈦股份，貝特利發行總數約6570萬股，網上發行約為1380萬股，發行市盈率27.39倍，申購程式碼為：301697，申購價格：12.10元，單一賬戶申購上限1.35萬股。金鈦股份發行總數約4500萬股，發行市盈率13.41倍，申購程式碼為：920071，申購價格：9.72元。
+
+---
+
+### 2026-08-19 07:36:01  #市場
+
+【黃金主題基金總規模突破4200億元】8月份以來，國際金價整體呈現走高態勢，其中紐約商品交易所（COMEX）黃金期貨12月合約近日達到4500美元/盎司高點；與此同時，國內黃金主題基金規模與淨值也出現明顯增長態勢。8月份以來，黃金主題基金除了淨值表現較好外，規模也呈現增長態勢。資料顯示，截至目前，53只黃金主題基金總規模已達4242億元，較月初增長268億元，較年初增長453億元；從單隻產品表現來看，有11只產品目前規模超過100億元，其中華安黃金ETF達1031億元，博時黃金ETF、易方達黃金ETF、國泰黃金ETF和博時黃金ETF聯接C分別為429.03億元、366.57億元、344.01億元、311.48億元。
+
+---
+
+### 2026-08-19 07:35:19  #公司
+
+【陸控：上半年淨虧損6.94億元】8月19日，陸控在港交所公告，2026年上半年營收124.89億元，同比下降11.30%；淨虧損6.94億元，去年同期為淨虧損5.19億元。
+
+---
+
+### 2026-08-19 07:35:05  #公司
+
+【北交所年內新增上市公司51家】今日，廣西雙英集團股份有限公司在北京證券交易所上市，成為北交所年內新增的第51家上市公司。資料統計，今年以來，北交所新增上市公司數量佔A股新增總量的比例超過50%，合計募資168.43億元。
+
+---
+
+### 2026-08-19 07:34:26  #市場
+
+【2026年融資淨買入額居前的醫療服務股梳理】8月以來，醫療服務板塊行情加速，申萬醫療服務指數月內累計上漲23.45%，年內漲幅達41.55%。成份股中，百奧賽圖、藥康生物、萬邦醫藥、益諾思今年以來累計漲幅均翻倍，龍頭藥明康德上漲87.38%。市場分析認為，本輪板塊行情，主要受益於政策紅利持續釋放，疊加行業基本面盈利拐點確認。板塊熱度同樣得到融資資金的印證。截至8月17日，昭衍新藥、藥康生物今年以來融資淨買入額均超2億元；萬邦醫藥、百奧賽圖、國際醫學、畢得醫藥4只個股融資淨買入額超過1億元，融資資金對板塊關注度顯著提升。業績方面，綜合半年報、快報、預告中值統計，8家企業上半年淨利潤突破1億元。其中藥明康德位居首位，淨利潤達110.8億元；康龍化成、昭衍新藥、通策醫療、九洲藥業淨利潤分別為7.5億元、7.5億元、4.58億元、3.87億元。
 
 ---
 
@@ -19928,89 +19982,5 @@ United States | NAHB Housing Market Index (Aug) | actual 35 | consensus 33 | pre
 ### 2026-08-17 21:59:07  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Little Changed Following CPI — The S&P/TSX Composite Index traded little changed above 36,000 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Major banks edged higher ahead of their earnings reports next week. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices edged higher, supporting energy stocks, with Canadian Natural adding over 1%. Retail stocks posted losses, with ATD, Loblaw and Dollarama losing about 1%. Software and tech-services stocks traded lower, tracking losses among Wall Street tracking software infrastructure shares, Shopify shed over 1.5%.
-
----
-
-### 2026-08-17 21:58:56  #MKT News
-
-Saudi outlet Alhadath reported Lebanon's president said he does not want to abandon implementation of the framework agreement with Israel and seeks to strengthen the agreement and secure breakthroughs on certain issues.
-
----
-
-### 2026-08-17 21:57:56  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) hit an intraday high, rising 5.8%.
-
----
-
-### 2026-08-17 21:57:49  #市場
-
-SpaceX 漲幅擴大至盤中高點 5.8%。
-
----
-
-### 2026-08-17 21:57:49  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent #XAUUSD
-
-【Trump again singles out Oman; analysts say his threats often overstate follow-through】President Trump warned he would attack Oman if it interferes with US actions in the Strait of Hormuz. CNN Washington reporter Aaron Blake said this is not the first such threat; Trump issued a similar warning in May. CNN counted in May that about one in 13 countries worldwide had been attacked or threatened by Trump; Oman is at least the 15th country named. During his second term Trump has ordered military strikes in seven countries — Iran, Iraq, Nigeria, Somalia, Syria, Venezuela and Yemen — and has threatened or kept open the option of strikes against a further seven, including Canada, Colombia, Cuba, Greenland (Denmark), Mexico, Panama and Oman. Analysts note Trump has frequently failed to follow through on threats, often retracting them by citing purported progress that later did not materialize.
-
----
-
-### 2026-08-17 21:57:03  #公司 #市場
-
-【美股半導體裝置股走高】美股半導體裝置股走高，AXT Inc大漲超11%，應用材料、艾馬克技術漲超5%，科磊、泰瑞達、泛林集團漲約2%。
-
----
-
-### 2026-08-17 21:55:01  #MKT News #Commodities #Energy
-
-Bolivia will increase diesel prices by 84% for purchases exceeding 120 liters per month.
-
----
-
-### 2026-08-17 21:54:56  #公司
-
-美股網路安全公司盤初集體走低，Cloudflare跌近3%，飛塔資訊跌2%，CrowdStrike跌超1%。
-
----
-
-### 2026-08-17 21:54:40  #市場
-
-現貨黃金15分鐘內拉昇逾20美元，現報4404美元/盎司。
-
----
-
-### 2026-08-17 21:54:35  #其他
-
-市場訊息：玻利維亞對月購買量超過 120 升的柴油，提價 84%。
-
----
-
-### 2026-08-17 21:54:34  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold jumped over $20 within 15 minutes to $4,404/oz.
-
----
-
-### 2026-08-17 21:54:21  #其他
-
-【三峽能源與國網天津電力座談】據三峽能源訊息，8月17日，三峽能源董事長、黨委書記朱承軍，總經理、黨委副書記劉姿赴天津與國網天津電力董事長、黨委書記錢慶林，董事、總經理、黨委副書記武登峰舉行座談，雙方就深化務實合作開展深入交流。座談中，雙方回顧了長期以來緊密協作、互信共贏的良好合作基礎，並表示將持續深化戰略協同，聚焦陸上新能源專案建設、海上風電開發、綠電消納等重點領域深耕務實合作，合力推進“十五五”時期新型電力系統建設。
-
----
-
-### 2026-08-17 21:54:03  #國際
-
-美國能源部長賴特：美國的天然氣產量位居全球首位。得益於特朗普總統推行的美國能源主導議程，未來數十年我們仍將保持領先地位。今日很高興來到得克薩斯州米德蘭市，這裡是二疊紀盆地油氣產業的核心地帶，該地自 2016 年以來石油產量增長了 250%。
-
----
-
-### 2026-08-17 21:53:52  #MKT News
-
-White House: Trump administration and TrumpRx are sharply lowering prescription drug prices; pledge fulfilled.
-
----
-
-### 2026-08-17 21:53:51  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Approaches 19-Year High — The yield on the 10-year US Treasury note rose past 4.7% on Monday, not far from the 19-month high of 4.75% tested last week as lingering concerns of inflation and increasing credit supply extended the aversion to bonds in the long end of the curve. Oil prices rose further as President Trump signaled there was no rush to end the blockade against Iran energy, preventing the flow of tankers from the Persian Gulf. Higher energy prices lifted underlying inflation this year, although a softer CPI cooled immediate worries. Still, concerns that the Federal Reserve may be complacent against inflation were reflected by the surge in long-dated yields. These were initially flagged by Fed Chair Warsh stating a rate hike may not be the preferred tool to combat higher prices. Lastly, debt issuance in the US soared as AI companies raised $1.5 trillion in bonds this year, lifting the supply of dollar-denominated fixed-income that could limit the relative appetite for Treasury securities.
 
 ---
