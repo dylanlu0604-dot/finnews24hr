@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:50:01_
-_本檔包含 3047 則快訊，約 655489 字_
+_更新時間：2026-08-22 12:43:16_
+_本檔包含 3051 則快訊，約 655169 字_
+
+---
+
+### 2026-08-22 12:36:54  #國際
+
+【英媒：澤連斯基請求說服馬斯克允許烏用“星鏈”打擊俄境內目標，特朗普“似乎並不支援”】據英國《金融時報》21日報道，對於“烏克蘭總統澤連斯基曾在訪美期間請求美國總統特朗普說服美國太空探索技術公司(Space X)創始人馬斯克，允許烏利用‘星鏈’打擊俄境內目標”一事，該媒體從出席這場橢圓形辦公室會議的人士處最新獲悉，特朗普態度不置可否，“似乎並不支援”該計劃。（環球網）
+
+---
+
+### 2026-08-22 12:36:21  #國際
+
+【阿曼與伊朗外長討論恢復霍爾木茲海峽自由航行】據阿曼國家通訊社21日報道，阿曼外交大臣巴德爾與伊朗外長阿拉格齊當天進行通話，討論恢復霍爾木茲海峽自由航行的問題。報道說，雙方認為繼續談判並達成切實協議至關重要，有助於恢復霍爾木茲海峽自由航行、維護地區安全穩定。雙方還討論了最新地區局勢的發展，以及如何為重啟對話和談判創造有利條件。（新華社）
+
+---
+
+### 2026-08-22 12:36:09  #其他
+
+【深圳成機電進口形勢風向標】央視財經訊息，今年前7個月，我國機電產品進口高速增長，佔進口總值四成以上，是進口金額最大的品類。深圳是我國高科技產品的重要生產基地，也是機電產品、電子元件進口形勢的風向標。據深圳海關統計，今年前7個月，深圳市累計進出口3.42萬億元人民幣，規模創歷史同期新高，較去年同期增長32.8%。其中，出口1.77萬億元，增長13.9%；進口1.65萬億元，增長61.9%，進口的增速是出口的四倍多，換句話說，今年深圳外貿的高增長，進口是關鍵變數。
+
+---
+
+### 2026-08-22 12:34:55  #國際
+
+【美軍命門曝光：伊朗發現打擊美方基地很管用】近一段時間，發生了幾樁看似不相干的事情：美軍戰艦“本福德”號斷電拋錨海上漂、部署阿拉伯海的美軍“林肯”號航母被曝補給困難、伊朗威脅打擊駐歐美軍加油機群。而仔細觀察後不難發現，上述事件都與美軍海外基地密切相關。 資料顯示，美國在全球80多個國家設有超750座軍事基地，容納海外駐軍約20萬人。其中，設施較完備的大型綜合基地近130座，分佈在51個國家。麻省理工學院網站稱，這些基地構成一張龐大網路，為美軍海外行動提供了前沿作戰平臺，以及火力、情報、救援、訓練、後勤等方面的支援。 （中新網）
+
+---
+
+### 2026-08-22 12:30:33  #國際
+
+【美軍中央司令部通報“封鎖伊朗”情況，聲稱“已迫使68艘商船改變航線”】據《以色列時報》報道，美軍中央司令部22日在最新帖文中通報有關“美國對伊朗實施封鎖”的情況。帖文稱，截至8月21日，美軍已迫使68艘商船改變航線，令3艘商船失去航行能力，並登船檢查了2艘商船，以確保這些船隻“遵守規定”。（環球網）
+
+---
+
+### 2026-08-22 12:30:13  #其他
+
+【央視曝光特大跨境薦股詐騙案 男子輕信薦股直播被騙近500萬元】股市直播中精準預判漲跌、專屬導師一對一薦股，看似穩賺不賠的投資理財渠道，實則是一套全程造假的跨境精準圍獵陷阱。於先生就落入了這樣的圈套，被騙走近500萬元。前不久，隨著犯罪嫌疑人的落網，整個詐騙流程被揭開。由於涉案金額巨大，甘肅警方啟動重特大電詐案件偵辦機制，省市兩級成立了“3.10”專案組。透過國際警務執法合作機制，中國警方促使柬埔寨警方對3處詐騙窩點開展集中收網。5月25日，82名犯罪嫌疑人被押解回國，其中25名為境外逃犯。從上游技術開發、中游引流推廣，到下游跑分洗錢、境外詐騙實施，案件實現了對薦股類詐騙犯罪的全鏈條打擊。 (央視財經)
+
+---
+
+### 2026-08-22 12:27:45  #公司 #其他
+
+【寧德時代商城正式上線 未來計劃開展直播銷售】“寧德時代商城”小程式正式上線。作為專為中小整合商打造的官方儲能產品直銷平臺，寧德時代商城的企業註冊客戶已突破1800家。目前，寧德時代商城已上架三類儲能產品。電芯方面，在售280Ah（1P）、314Ah兩款主流磷酸鐵鋰儲能電芯，587Ah電芯、儲能電箱（280Ah及314Ah-長款）和儲能集裝箱（EnerD及EnerD+）已同步上架展示，正式開售時間待定。目前，平臺電芯最低3箱起訂。官方“寧德時代儲能”微信公眾號及影片號也已同步啟動，未來計劃圍繞儲能電池及裝置開展直播銷售。
+
+---
+
+### 2026-08-22 12:17:06  #公司
+
+【民生人壽回應開除屬相不合員工傳聞】近日，網上流傳的一張爆料截圖顯示，民生人壽董事長把和自己生肖屬相不合的人全部裁員。另有報道稱，工作多年的員工如果學歷不是一本也要被裁。對此，民生人壽客服表示，公司已對網路上的造謠內容進行證據保全。對於編造、擴散此類虛假資訊的機構或個人，公司將透過法律途徑追究其法律責任，提醒廣大網友甄別網路資訊真偽，不信謠、不傳謠。公司一切資訊均以官方釋出內容為準。（中新網）
+
+---
+
+### 2026-08-22 12:14:08  #國際
+
+【特朗普：可出動美軍干預債市】美國總統特朗普當地時間8月21日對媒體表示，他本週並未指示美國財長貝森特干預債券市場。在被問及“面對美國長期債券收益率再回升還有什麼干預手段”時，特朗普稱，“終極干預手段是美軍，如果需要，將出動美軍”。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 12:13:19  #公司 #國際
+
+市場訊息：美國國際貿易委員會調查伊芙能源公司（Eve Energy），因該公司涉嫌專利侵權。
+
+---
+
+### 2026-08-22 12:06:17  #其他 #國際
+
+加拿大安大略省省長：完全支援卡尼的關稅報復計劃。
+
+---
+
+### 2026-08-22 12:03:09  #其他
+
+加拿大安大略省省長：貿易戰中一切都必須擺到談判桌上。
+
+---
+
+### 2026-08-22 12:02:48  #國際
+
+【美國加拿大未達成貿易協議】美國與加拿大當地時間8月21日晚證實，兩國未能在最後期限前達成貿易協議。美國將於美東時間8月22日凌晨起，對價值約200億美元的加拿大商品加徵50%關稅。據稱，依據美國《1930年關稅法》第338條款實施的這一關稅，將於美東時間00:01正式生效。加拿大總理卡尼宣佈，即刻起暫停與美國的貿易談判，並誓言將對美方新關稅採取“對等報復”措施。 此次談判破裂前，加拿大對美貿易部長勒布朗與美國貿易代表格里爾已在華盛頓進行了連續三天的密集磋商，但最終未能彌合分歧。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 11:58:16  #其他
+
+【雄安新區舉辦2026年服務疏解專場招聘會】今天（8月22日），雄安新區舉辦2026年百日千萬招聘專項行動暨服務疏解專場招聘會。活動聚焦疏解單位落地發展、疏解幹部職工隨遷家屬就業等核心訴求，精準搭建對接服務平臺，切實解決疏解人員安居後顧之憂，助力新區人才集聚與高質量建設發展。本次活動把就業服務延伸至鄰里中心，打造“家門口”求職平臺，聚焦新區重點產業、疏解配套服務，組織中化數智科技、中國大唐數科、中國雄安集團等30多家用人單位線下引才，提供用工需求600餘個，適配多元就業需求。現場同步提供技能體驗、求職輔導、新區配套生活服務資源推介等。（央視新聞）
+
+---
+
+### 2026-08-22 11:55:41  #其他
+
+【8月份滬牌拍賣結果公佈】8月滬牌拍賣結果剛剛出爐：個人額度合計拍賣總數4061個，參加拍賣人數28264人，中標率14.4%。最低成交價93800元，平均成交價為93868元，比上個月93679元增加了189元。最低成交價的截止時間是11:29:51第1262位。（上海釋出）
 
 ---
 
@@ -14,6 +104,12 @@ _本檔包含 3047 則快訊，約 655489 字_
 ### 2026-08-22 11:48:33  #焦點 #國際
 
 【美對部分加拿大商品加徵50%關稅】美國貿易代表格里爾當地時間8月21日深夜表示，加拿大拒絕在最後期限前與美國最終敲定貿易協議，並仍在繼續對美國採取報復性措施。加拿大總理卡尼表示，已決定暫停與美國的貿易談判。卡尼稱，談判進展還不足以實現為加拿大國民設定的目標。 格里爾稱，美國已向加拿大提供了“更為優惠的市場準入條件”，若達成協議，本可“大幅降低關稅”。但他指責加方拒絕接受，導致談判破裂。 美國海關與邊境保護局隨後釋出指引，宣佈依據第338條款，對特定加拿大進口商品加徵額外關稅。一名特朗普政府高階官員證實，對部分加拿大商品加徵50%關稅的措施，將於美東時間8月22日凌晨00:01正式生效。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 11:47:51  #國際
+
+【印度尼西亞總統普拉博沃會見王毅一行】印度尼西亞總統普拉博沃21日在雅加達官邸會見外交部長王毅、國防部長董軍。普拉博沃請王毅轉達對習近平主席的良好祝願，積極評價印尼中國全面戰略對話機制和“2+2”對話機制作用和成果，表示在習近平主席領導下，中國成功實現數億人脫貧，在經濟、科技、軍事等領域取得不可思議的偉大成就，為全球南方國家樹立了榜樣，提供了很多有益啟示，值得各方學習借鑑。中國對印尼平等相待，相互尊重，給予印尼寶貴的信心和支援。印尼期待同中方加強政治、經濟、科技等全方位戰略合作，歡迎更多中國企業來印尼投資興業，將繼續為中國企業提供良好營商環境，反對任何別有用心的挑撥和炒作。我期待今年11月赴深圳出席亞太經合組織領導人非正式會議，進一步密切同中方的戰略溝通和協作。（新華社）
 
 ---
 
@@ -18330,84 +18426,5 @@ Australia Factory Growth Steady in August — The S&P Global Flash Australia Man
 ### 2026-08-21 07:12:22  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 NZX 50 Falls, but Poised for 3rd Weekly Gain — New Zealand stocks inched down 18 points, or 0.1%, to 13,901 in Friday morning deals, extending losses from the previous session, tracking a downbeat session on Wall Street overnight amid rising US Treasury yields. The decline was mainly weighed down by healthcare, materials, and industrials. However, gains in consumer staples, tech sectors, and real estate capped the fall. Traders were also anticipating the release of US July PMIs and New Zealand's retail sales for Q2 due next week. On the data front, New Zealand's trade deficit widened in July, as exports rose less than imports. Among early losers were Fisher & Paykel (-1.1%), F&C Investment (-0.7%), EBOS Group (-0.6%), Mercury NZ (-0.6%), and Freightways Group (-0.5%). However, for the week, the index rose 0.3%, marking the third consecutive weekly gain.
-
----
-
-### 2026-08-21 07:12:05  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、中共中央 國務院 中央軍委 關於給張陸頒發“二級航天功勳獎章” 授予武飛、張洪章“英雄航天員”榮譽稱號並頒發“三級航天功勳獎章”的決定（2026年8月20日）
-2、習近平致電祝賀希奇萊馬當選連任尚比亞總統
-3、宏觀政策發力提效
-4、趙樂際同薩爾瓦多立法大會主席卡斯特羅舉行會談
-5、“三北”工程攻堅戰年均完成建設任務8000萬畝以上
-6、蘇州以科技創新驅動高質量發展
-7、火箭回收海陸雙捷的啟示（今日談）。
-
----
-
-### 2026-08-21 07:11:56  #央行 #中國央行
-
-【LPR連續15個月持穩 “雙錨”並行助推貸款定價質效提升】貸款市場報價利率（LPR）連續15個月維持不變。中國人民銀行8月20日授權全國銀行間同業拆借中心公佈：1年期LPR為3.0%，5年期以上LPR為3.5%。分析人士認為，綜合當前政策利率、銀行淨息差等現實情況，LPR“按兵不動”符合預期。7月下旬以來，DR（存款類金融機構債券回購利率）基準利率貸款持續落地，未來LPR報價效率有望進一步提升。
-
----
-
-### 2026-08-21 07:10:39  #公司 #國際
-
-【訊息稱SpaceX、AST擬收購價值60億美元頻譜資產】SpaceX以及ASTSpacemobile公司等企業，均已表達有意收購GrainManagement有限責任公司所持有的大片頻譜資源。這批800兆赫茲頻段許可，是Grain與美國T‑Mobile完成頻譜置換後獲得。該頻譜被認為極具價值，能夠助力衛星運營商搭建語音業務的地面鏈路。Grain已要求意向方在9月第一週前提交初步報價，希望透過出售這批許可獲得約60億美元，不過該公司也考慮採取頻譜容量出租的方案。
-
----
-
-### 2026-08-21 07:10:19  #Trading Economics #Economy #United Kingdom #Consumer Confidence #Importance 2
-
-UK Consumer Confidence Hits 2-Year High — The UK GfK Consumer Confidence Index rose to -14 in August 2026 from -17 in the previous month, marking the highest level in two years despite lingering geopolitical and economic uncertainty. Consumers became more optimistic about the economy and their personal finances over the next 12 months, while more households viewed the current period as a good time to make major purchases. Confidence has rebounded over the past two months, supported by the appointment of new Prime Minister Andy Burnham and easing energy prices. However, rapidly rising inflation is threatening to weigh on sentiment, with consumer prices climbing sharply in July to 2.9%, the highest in four months, driven by higher household energy costs. GfK warned that continued uncertainty surrounding the Middle East and elsewhere, along with persistent cost-of-living pressures, could test consumer confidence in the months ahead.
-
----
-
-### 2026-08-21 07:07:56  #國際
-
-【烏克蘭首都遭空襲 死亡人數升至15人】烏克蘭首都基輔市市長克利奇科20日下午在社交媒體發文說，俄羅斯軍方19日深夜至20日凌晨對基輔市發動的大規模空襲致死人數已升至15人，另有39人受傷。（央視新聞）
-
----
-
-### 2026-08-21 07:06:48  #MKT News #GBPUSD #Impact bullish #FTSE100 #Impact mixed
-
-【UK consumer confidence rises to two-year high】GfK's UK consumer confidence index rose to -14 in August, its highest since Aug 2024, aided by continued good weather and a new prime minister's "Burnham effect." The index had climbed 6 pts in July under the same influences. GfK head of consumer insights Neil Bellamy warned the uptick may be short-lived as resurgent inf and persistent Middle East and other geopolitical risks will test household resilience.
-
----
-
-### 2026-08-21 07:06:45  #Trading Economics #Economy #Australia #Services PMI #Importance 2
-
-Australia Services Growth Eases — The S&P Global Flash Australia Services PMI Business Activity Index declined to 52.9 in August 2026 from July’s six-month high of a final 53.6. The latest reading marked a third consecutive month of growth, as activity and new business continued to grow, though at slightly softer rates.
-
----
-
-### 2026-08-21 07:04:44  #經濟數據 #英國
-
-英國8月Gfk消費者信心指數為-14，為2024年8月以來最高水平。
-
----
-
-### 2026-08-21 07:04:14  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
-
-Australia Composite PMI Slips from 6-Month High — Australia’s S&P Global Composite PMI fell to 52.5 in August 2026 from a final 53.2 in July, flash data showed. Still, private sector activity rose for the fourth time in five months, with the expansion concentrating in the service sector amid a slight dip in manufacturing output
-
----
-
-### 2026-08-21 07:02:04  #Trading Economics #Economy #New Zealand #Imports #Importance 1
-
-New Zealand Imports Jump 28.4% — Imports to New Zealand surged 28.4% year-on-year to NZD 9.34 billion in July 2026, following a downwardly revised 27.5% jump in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 127.0%).
-
----
-
-### 2026-08-21 07:01:36  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK GfK consumer confidence major purchases index rose to its highest level since December 2021.
-
----
-
-### 2026-08-21 07:01:32  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK GfK consumer confidence index for August was -14, the highest level since August 2024.
 
 ---

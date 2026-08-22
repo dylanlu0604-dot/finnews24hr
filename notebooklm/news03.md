@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:50:01_
-_本檔包含 3329 則快訊，約 655244 字_
+_更新時間：2026-08-22 12:43:16_
+_本檔包含 3304 則快訊，約 655037 字_
+
+---
+
+### 2026-08-20 05:57:13  #MKT News
+
+Colombian president says earthquake death toll has reached 314; 262 people remain missing.
+
+---
+
+### 2026-08-20 05:56:27  #MKT News
+
+【Analysis: Rising U.S. debt becomes focus of midterm elections】Michael Peterson, CEO of the Peter G. Peterson Foundation, said rising U.S. debt has become a midterm-election focal point and framed the issue as a cost-of-living problem. He warned higher debt raises interest costs — interest outlays now exceed defense spending — and said each $1 trillion of additional debt pushes up interest rates and inflation, increasing mortgage, auto and credit-card payments. He added rising debt undermines economic growth and slows wage growth while living costs rise.
+
+---
+
+### 2026-08-20 05:56:04  #MKT News #Macro & Rates #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
+
+【Bessent emerges as most interventionist US Treasury secretary in decades】US Treasury Secretary Bessent this year has taken an unusually interventionist stance to curb rising US borrowing costs, including a move this week to "at least double" planned buybacks of 10-yr and 30-yr Treasuries. Treasury had earlier signaled it might reduce long-term debt issuance; on July 31 Bessent led the US government’s first yen purchase in 30 years. Former Treasury official Mark Sobel called Bessent "absolutely an aggressive interventionist," saying his hedge-fund background is evident and senior officials are clearly worried about rising long-term yields. Rising 10-yr yields — driven by inflation, Fed policy and fiscal deficits — have pushed mortgage rates higher and weighed on growth; analysts say Bessent appears to be attempting yield-curve intervention to stabilize markets but warn it is unlikely to succeed long-term without addressing high debt and deficits.
+
+---
+
+### 2026-08-20 05:55:55  #其他
+
+哥倫比亞總統表示，地震已造成 314 人遇難，仍有 262 人失蹤。
+
+---
+
+### 2026-08-20 05:54:17  #Trading Economics #Economy #Jamaica #Interest Rate #Importance 1
+
+Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%.
+
+---
+
+### 2026-08-20 05:53:51  #MKT News #Macro & Rates #US Economy
+
+【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026.
+
+---
+
+### 2026-08-20 05:46:55  #Trading Economics #Markets #Commodity #commodity #Importance 0
+
+HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%.
+
+---
+
+### 2026-08-20 05:46:24  #宏觀 #市場 #國際
+
+【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。
 
 ---
 
@@ -19861,203 +19909,5 @@ U.S. stocks closed lower on Tuesday, August 18: Dow Jones Industrial Average dow
 ### 2026-08-19 04:00:49  #MKT News #Commodities #Energy
 
 Syrian state news agency says Syria Petroleum Company reported an explosion on the gas export pipeline at the Jabusa gas plant, cutting gas flows. Preliminary investigation attributes the blast to deliberate sabotage; no casualties reported.
-
----
-
-### 2026-08-19 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.22%，標普500指數跌0.69%，納指跌1.32%。Coherent Corp跌12.84%，Lumentum Holdings Inc. Common Stock When Issued跌9.95%，希捷跌9.16%，閃迪跌9.01%。“七姐妹”方面：蘋果漲1.49%，微軟漲0.23%，谷歌跌0.02%，亞馬遜跌0.70%，特斯拉跌0.72%，英偉達跌2.36%，Meta Platforms跌4.47%。
-
----
-
-### 2026-08-19 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.04%】Tims中國跌17.65%，世紀互聯跌16.92%，百度跌12.80%，中進醫療跌10.12%，愛奇藝跌7.89%。
-
----
-
-### 2026-08-19 03:59:17  #公司 #國際
-
-敘利亞石油公司表示，員工無人受傷。
-
----
-
-### 2026-08-19 03:58:59  #公司 #國際
-
-敘利亞石油公司表示，賈布薩天然氣廠的一條天然氣出口管道發生爆炸，導致該管道停止輸氣。
-
----
-
-### 2026-08-19 03:58:54  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid to $4,340/oz, down 1.75% intraday.
-
----
-
-### 2026-08-19 03:57:24  #市場 #焦點
-
-現貨黃金失守4340美元/盎司，日內跌1.76%。
-
----
-
-### 2026-08-19 03:56:49  #公司
-
-訊息人士：派拉蒙再度聘用兩名谷歌前高管。
-
----
-
-### 2026-08-19 03:54:21  #市場 #焦點
-
-美國天然氣期貨漲超3.00%，現報2.811美元/百萬英熱。
-
----
-
-### 2026-08-19 03:52:26  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up on 18th】The dollar index (DXY) rose 0.02% to 99.657 at the New York close on the 18th. Major crosses: EUR/USD 1.1576 (prev. 1.1572); GBP/USD 1.3534 (prev. 1.3538); USD/JPY 159.60 (prev. 159.59); USD/CHF 0.8125 (prev. 0.8115); USD/CAD 1.3906 (prev. 1.3877); USD/SEK 9.5395 (prev. 9.5193).
-
----
-
-### 2026-08-19 03:52:21  #市場
-
-【美元指數18日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.657。截至紐約匯市尾市，1歐元兌換1.1576美元，高於前一交易日的1.1572美元；1英鎊兌換1.3534美元，低於前一交易日的1.3538美元。1美元兌換159.60日元，高於前一交易日的159.59日元；1美元兌換0.8125瑞士法郎，高於前一交易日的0.8115瑞士法郎；1美元兌換1.3906加元，高於前一交易日的1.3877加元；1美元兌換9.5395瑞典克朗，高於前一交易日的9.5193瑞典克朗。
-
----
-
-### 2026-08-19 03:51:43  #MKT News #DIS.N
-
-U.S. Federal Communications Commission chair said no decision has been made yet on the review of Disney (DIS.N)'s ABC television license.
-
----
-
-### 2026-08-19 03:49:42  #MKT News #XAUUSD #Impact bearish
-
-COMEX gold futures fell below $4,400/oz, down 1.64% intraday.
-
----
-
-### 2026-08-19 03:49:34  #國際
-
-美國聯邦通訊委員會主席布倫丹·卡爾為審查迪士尼旗下ABC電視臺執照辯護，稱尚未做出任何決定。
-
----
-
-### 2026-08-19 03:49:26  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 589.70 USD, the lowest since July 2026. Over the past 4 weeks, Deere & Company gained 0.66%, and in the last 12 months, it increased 20.52%.
-
----
-
-### 2026-08-19 03:49:24  #市場
-
-紐約期銀日內跌4%，現報63.57美元/盎司。
-
----
-
-### 2026-08-19 03:49:24  #市場 #焦點
-
-紐約期金失守4400美元/盎司，日內跌1.67%。
-
----
-
-### 2026-08-19 03:47:18  #MKT News
-
-【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions.
-
----
-
-### 2026-08-19 03:45:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,350/oz, down 1.51% on the day.
-
----
-
-### 2026-08-19 03:45:09  #市場 #焦點
-
-現貨黃金失守4350美元/盎司，日內跌1.53%。
-
----
-
-### 2026-08-19 03:44:56  #國際
-
-【英國47%民眾希望減少乃至拒絕以色列移民入境】YouGov一項最新民調顯示，僅有5%的英國民眾支援接納更多以色列移民進入英國；47%的民眾希望減少以色列移民數量或是完全不接收。隨著英國國內反對以色列在加沙開展軍事行動的情緒不斷高漲，以色列籍移民已成為英國民眾接納意願最低的移民群體之一。
-
----
-
-### 2026-08-19 03:43:42  #MKT News #Commodities #Energy
-
-A vice president at Venezuela's state oil company said the country faces a daily natural gas shortfall of about 500 million cubic feet.
-
----
-
-### 2026-08-19 03:42:35  #宏觀 #國際
-
-【美國財政部對兩名國際刑事法院人員實施制裁】當地時間8月18日，據美國財政部外國資產控制辦公室訊息，美國當天釋出國際刑事法院相關的新制裁，並更新“特別指定國民清單”（SDN清單）。美國將日本籍國際刑事法院院長赤根智子和塞內加爾籍國際刑事法院檢察官團隊成員阿卜杜拉耶·塞耶列入清單。（央視新聞）
-
----
-
-### 2026-08-19 03:41:58  #公司
-
-委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。
-
----
-
-### 2026-08-19 03:38:27  #國際
-
-伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。
-
----
-
-### 2026-08-19 03:37:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%).
-
----
-
-### 2026-08-19 03:37:21  #市場
-
-【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。
-
----
-
-### 2026-08-19 03:34:55  #MKT News #Commodities #Energy #WTI #Brent
-
-A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August.
-
----
-
-### 2026-08-19 03:34:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic.
-
----
-
-### 2026-08-19 03:33:51  #公司
-
-委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。
-
----
-
-### 2026-08-19 03:33:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond.
-
----
-
-### 2026-08-19 03:33:34  #國際
-
-阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。
-
----
-
-### 2026-08-19 03:33:04  #MKT News
-
-U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it.
-
----
-
-### 2026-08-19 03:32:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term.
 
 ---

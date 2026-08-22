@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:50:01_
-_本檔包含 2991 則快訊，約 655246 字_
+_更新時間：2026-08-22 12:43:16_
+_本檔包含 3009 則快訊，約 655005 字_
+
+---
+
+### 2026-08-17 20:07:12  #MKT News #LUNR.O #Impact bullish
+
+Intuitive Machines shares rose 3.4% in pre-market trading after the company obtained authorization for a multi-satellite project valued at over $600 mln.
+
+---
+
+### 2026-08-17 20:06:54  #MKT News #S&P500 #Impact bearish #Nasdaq100
+
+S&P 500 futures and Nasdaq-100 futures rapidly erased earlier gains.
+
+---
+
+### 2026-08-17 20:06:42  #公司 #國際
+
+【以總理所在政黨舉行黨內初選 為議會選舉作準備】據以色列多家媒體17日報道，以色列總理內塔尼亞胡領導的右翼政黨利庫德集團當天舉行黨內初選，以確定該黨在預計於10月舉行的議會選舉中議員候選人“名單順位”。《以色列時報》報道說，投票從17日10時開始，計劃於21時結束。共有約14萬利庫德集團成員有投票資格。以色列議會選舉定於不晚於今年10月27日舉行。以色列議會選舉實行“比例代表制”，選民只投黨派，各政黨按照所獲票數的比例份額獲得議會席位。利庫德集團透過黨內初選投票決定議員候選人“名單順位”。（新華社）
+
+---
+
+### 2026-08-17 20:06:28  #MKT News
+
+【Netanyahu's Likud holds primary to set candidate list ahead of parliamentary election】Netanyahu's Likud held a party primary on the 17th to determine the order of its candidate list ahead of a Knesset election scheduled no later than Oct. 27. Voting ran from 10:00 to 21:00, with roughly 140,000 party members eligible to vote. Israel allocates Knesset seats by proportional representation.
+
+---
+
+### 2026-08-17 20:06:26  #市場
+
+標普500指數期貨和納斯達克100指數期貨迅速回吐漲幅。
+
+---
+
+### 2026-08-17 20:05:09  #國際
+
+VIASAT選擇火箭實驗室為美國太空部隊建造地球同步軌道衛星。
+
+---
+
+### 2026-08-17 20:04:56  #MKT News #RKLB.O #Impact bullish #VSAT.O #Impact mixed
+
+Viasat has selected Rocket Lab (RKLB.O) to build a geostationary satellite for the U.S. Space Force.
+
+---
+
+### 2026-08-17 20:04:52  #公司
+
+【和邦生物：2026年上半年淨利潤3.8億元，同比增634.30%】和邦生物公告，2026年上半年營業收入28.88億元，同比下降26.34%；歸母淨利潤3.8億元，同比增長634.30%；扣非淨利潤3.75億元，同比增長698.33%。上年同期淨利潤5177.15萬元。本報告期未進行利潤分配或公積金轉增股本。
+
+---
+
+### 2026-08-17 20:04:42  #其他
+
+STRATEGY：8月10日至16日期間未進行任何比特幣買賣。
+
+---
+
+### 2026-08-17 20:04:24  #MKT News #Market Themes #AI Revolution #RUN.O #Impact bullish
+
+Sunrun (RUN.O) shares rose about 5% premarket after the company said it will provide energy capacity to Voltus under an agreement for an AI hyperscale data‑center customer.
+
+---
+
+### 2026-08-17 20:04:00  #MKT News #RTX.N #Impact bullish
+
+U.S. Navy awarded Raytheon Technologies (RTX.N) a $22.9 billion contract for Tomahawk cruise missiles.
+
+---
+
+### 2026-08-17 20:03:40  #公司 #國際
+
+美國海軍授予雷神公司價值229億美元戰斧”導彈合同。
+
+---
+
+### 2026-08-17 20:03:18  #公司 #國際
+
+市場訊息：美國稀土公司與Novex簽署諒解備忘錄，推進美國氧化物到金屬的生產。
+
+---
+
+### 2026-08-17 20:02:24  #公司
+
+【寒武紀：2023年限制性股票激勵計劃預留授予股份8月20日上市】寒武紀公告稱，公司2023年限制性股票激勵計劃預留授予部分第一個歸屬期歸屬股份上市流通日期為2026年8月20日，上市流通總數為561039股。本次歸屬限制性股票共597639股，涉及124名激勵物件，其中36600股來源於公司回購A股股票，561039股為定向發行A股股票。本次歸屬完成後公司總股本增至628854008股，不會導致控股股東及實控人變更。
+
+---
+
+### 2026-08-17 20:02:14  #市場
+
+波羅的海乾散貨運價指數上漲0.52%，至2878點。
+
+---
+
+### 2026-08-17 20:01:56  #其他
+
+市場訊息：WHITEFIBER將收購北卡羅來納州兩處新資料中心地塊。
+
+---
+
+### 2026-08-17 20:01:52  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent
+
+Trump's special envoy for Venezuela is pushing 'America First' oil deals.
+
+---
+
+### 2026-08-17 20:01:42  #MKT News
+
+Baltic Dry Index (BDI) rose 0.52% to 2,878 points.
+
+---
+
+### 2026-08-17 20:01:38  #其他
+
+雪佛龍(CVX.N)：確認在安哥拉0區塊發現石油和天然氣凝析液資源。
+
+---
+
+### 2026-08-17 20:01:35  #MKT News #Market Regions #Emerging Markets
+
+Brazil economic activity rose 2.35% YoY in June (consensus 2.30%) and fell 0.64% MoM (consensus -0.50%).
+
+---
+
+### 2026-08-17 20:01:34  #公司
+
+【九州一軌：董事邵斌提前終止減持計劃 已減持0.26%股份】九州一軌公告稱，公司董事、核心技術人員邵斌於2026年8月14日透過大宗交易減持公司股份397000股，佔公司總股本的0.26%，減持總金額2146.58萬元，剩餘未減持股份不再減持，本次減持計劃提前實施完畢。減持前邵斌持有公司股份2270501股，佔總股本1.51%，減持後持股1873501股，佔總股本1.25%。本次減持符合相關法律法規要求，與此前披露的減持計劃一致。
+
+---
+
+### 2026-08-17 20:01:20  #國際
+
+市場訊息：特朗普的委內瑞拉掮客正在推動“美國優先”石油交易。
+
+---
+
+### 2026-08-17 20:01:00  #MKT News #Commodities #Energy #CVX.N #Impact bullish
+
+Chevron (CVX.N) is preparing a multi‑well exploration program that will include drilling the Nabba‑1X well in Namibia before year-end.
+
+---
+
+### 2026-08-17 20:00:53  #其他
+
+巴西6月經濟活動同比增長2.35%；此前預期為增長2.30%。巴西6月經濟活動環比下降0.64%；此前預期為下降0.50%。
+
+---
+
+### 2026-08-17 20:00:40  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+At the start of the Aug 17 evening session on the Shanghai Gold Exchange, gold T+D rose 1.48% to 953.49 yuan/gram and silver T+D rose 2.73% to 16,040 yuan/kg.
+
+---
+
+### 2026-08-17 20:00:38  #其他
+
+市場訊息：SNTIA-HENT就丹麥SKIVE DC資料中心專案簽署初步協議。
+
+---
+
+### 2026-08-17 20:00:32  #MKT News #Commodities #CVX.N #Impact bullish
+
+Chevron (CVX.N) confirms discovery of oil and natural gas condensate resources in Angola Block 0.
+
+---
+
+### 2026-08-17 20:00:18  #資料
+
+加拿大至8月14日全國經濟信心指數 53.4，前值53。
+
+---
+
+### 2026-08-17 20:00:14  #MKT News
+
+Canada national economic confidence index 53.4 as of Aug. 14, up from 53.0 previously.
+
+---
+
+### 2026-08-17 20:00:05  #MKT News #Economic Calendar #Important
+
+Canada | National Economic Confidence Index (Aug.14) | actual 53.4 | previous 53
+
+---
+
+### 2026-08-17 20:00:00  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+【Societe Generale: US data trims speculative dollar-long bets】Societe Generale analyst Kit Jukes says weakening justification for dollar longs has prompted speculators to cut bullish dollar positions amid light trading. He warns this month’s US data—broad softness across consumption, inflation and employment—may have sent a false signal but has already led markets to lower US rate-hike expectations. The choice now, he says, is to wait for September data or accept the dollar index could trade in a 95–100 range for the remainder of the year.
+
+---
+
+### 2026-08-17 19:59:52  #MKT News #0388.HK
+
+【HKEX extends group CEO Chen Yiting's term by three years】HKEX said its board has approved a three-year extension of group CEO Chen Yiting’s contract, effective March 1, 2027 through Feb. 28, 2030 (inclusive).
+
+---
+
+### 2026-08-17 19:59:45  #國際
+
+美國8月14日擔保隔夜融資利率為3.62%，與8月13日持平。
+
+---
+
+### 2026-08-17 19:59:30  #公司
+
+【興福電子：2026年上半年營收9.66億元 同比增43.71%】興福電子公告稱，2026年上半年公司實現營業收入9.66億元，歸母淨利潤1.23億元，扣非歸母淨利潤1.19億元，同比分別增長43.71%、17.91%、24.91%。當期研發投入4218.31萬元，佔營收比例4.36%，同比增長7.51%，新增授權專利31項。2026年上半年實施2025年權益分派，合計派發現金紅利1.08億元。
+
+---
+
+### 2026-08-17 19:58:48  #其他
+
+市場訊息：布蘭迪萬房地產啟動最高1億美元票據現金要約收購。
+
+---
+
+### 2026-08-17 19:58:32  #公司
+
+【上海合晶：多名董監高擬合計減持不超0.033%股份】上海合晶公告稱，公司收到董事長毛瑞源、董事焦平海、董事邰中和、職工董事兼總經理兼核心技術人員陳建綱、董事會秘書莊子祊出具的減持股份計劃告知函，五人因自身資金需求，計劃於2026年9月8日至2026年12月7日期間，透過集中競價交易方式合計減持不超過219664股，合計佔公司總股本不超過0.033%。本次減持股份來源均為股權激勵取得，減持價格將根據減持時的市場價格確定。
 
 ---
 
@@ -17925,120 +18141,5 @@ UKMTO said it received reports that a bulk carrier in the Strait of Hormuz was s
 ### 2026-08-15 12:49:58  #市場 #焦點
 
 美銅暗盤突破6.7美元，日內漲幅1.6%。
-
----
-
-### 2026-08-15 12:40:30  #國際
-
-【疑似受沙門氏菌汙染 美國千萬枚雞蛋被召回】法新社14日報道說，美國一家企業上月自願召回疑似受沙門氏菌汙染的上千萬枚雞蛋。美國食品和藥物管理局本週將此定為“一級召回”，這意味著所涉食品“存在嚴重健康風險、甚至可能造成死亡”。（新華社）
-
----
-
-### 2026-08-15 12:38:58  #國際
-
-【印尼7.7級地震已致東努沙登加拉省5人死亡】當地時間8月15日，印尼東努沙登加拉省長萊納表示，目前印尼7.7級地震已造成該省5人死亡。（央視新聞）
-
----
-
-### 2026-08-15 12:30:03  #MKT News #WTI #Impact bullish #Brent
-
-【Iran FM: No decision yet on resuming talks with US】On Aug. 14 Iran’s foreign minister said mediators Qatar and Pakistan are exchanging information and remain in contact with Tehran, but that does not constitute formal negotiations. Iran has not decided whether to resume talks with the United States. He said separate talks with Oman are underway to establish shipping lanes to allow vessel passage through the Strait of Hormuz — a distinct issue from ‘opening’ the strait — and that Iran would only restore passage if the United States meets certain conditions.
-
----
-
-### 2026-08-15 12:29:45  #其他
-
-【美團：已有20多個城市正評估“紅燈停表”相關試點條件】美團“紅燈停表”功能日前在北京試點路測。隨後美團在北京舉行騎手懇談會聽取騎手以及專業意見。另據美團介紹，已有20餘個城市正在評估訊號燈資料和試點條件。此外，今年計劃在200餘個城市開展“不闖紅燈”正向激勵。
-
----
-
-### 2026-08-15 12:29:00  #焦點 #國際
-
-【伊外長：伊朗目前沒有決定是否與美國重新開始談判】當地時間8月14日，伊朗外長阿拉格齊在接受媒體採訪時表示，目前調停方卡達和巴基斯坦都在進行資訊交流並與伊朗保持聯絡，但這並不意味著正在進行談判。伊朗目前沒有決定是否與美國重新開始談判。阿拉格齊還表示，伊朗與阿曼的談判正在進行，與確定霍爾木茲海峽的航線以便船舶通行有關，與霍爾木茲海峽的開放問題是兩個完全不同的議題。阿拉格齊同時強調，只有在美國遵守某些條件的情況下，伊朗才會恢復霍爾木茲海峽通行。（央視新聞）
-
----
-
-### 2026-08-15 12:28:38  #焦點 #國際
-
-【今日特朗普要聞】
-1、特朗普美東時間8月14日表態，美國將對伊朗實施嚴厲的經濟打擊，並揚言徹底擊敗伊朗後宣佈霍爾木茲海峽為美國領土。
-2、特朗普公開敦促美國民眾接受更高油價，稱高昂油價是阻止伊朗擁核需要付出的必要代價，自己對此絕不道歉。
-3、特朗普證實，部署在中東的林肯號航母即將撤離，將由華盛頓號航母接替駐中東任務。
-4、特朗普8月13日簽署國家安全備忘錄，數十年來首次放開限制，允許合格外國船廠在境外為美國海軍建造最多兩艘艦船，以緩解交付壓力。
-5、特朗普14日正式向美國最高法院提起上訴，請求准許繼續推進白宮宴會廳改造專案，反對法院的停工禁令。
-6、特朗普公開批評美國國家歷史保護信託基金會，指責該機構名頭具有誤導性，長期阻礙優質專案落地，此次惡意叫停白宮宴會廳改造工程。
-7、以色列大選臨近僅剩75天，面對媒體多次追問，特朗普至今未公開表態力挺選戰陷入劣勢的內塔尼亞胡。
-
----
-
-### 2026-08-15 12:26:42  #MKT News
-
-【Welcome to Long Restaurant box office tops 600 mln yuan】Lighthouse Pro real-time data show the film Welcome to Long Restaurant surpassed 600 mln yuan in box office receipts as of Aug 15 12:22.
-
----
-
-### 2026-08-15 12:25:16  #國際
-
-【美國汽車研究中心最新報告：美國汽車行業必須跟上中國速度】這幾天“中國速度”成為新聞熱詞，美國汽車研究中心最新報告提出的核心結論是：美國汽車行業必須跟上“中國速度”，這個結論緣於近期這家研究中心與業內高管和專家開展的一次圓桌討論會議，與會者將“中國速度”描述為“中國圍繞一系列元素構建的一整套完整工業生態系統，包括快速決策、數字工程、垂直整合供應鏈網路、充裕資金和支援政策等”。（央視財經）
-
----
-
-### 2026-08-15 12:24:35  #其他
-
-據燈塔專業版實時資料，截至8月15日12時22分，影片《歡迎來龍餐館》票房突破6億。
-
----
-
-### 2026-08-15 12:21:47  #MKT News
-
-【Election pressure mounts; Iran is 'testing' Trump, former US envoy says】Former US ambassador to Syria and White House adviser Mark Kinsberg told Al Jazeera that Trump’s decisions are driven primarily by domestic political pressure and the midterm elections rather than long-term strategy. He said Tehran understands Washington’s internal dynamics, is prepared for a protracted campaign and is closely watching US polls. Kinsberg said Iran is 'testing' Trump and betting the US will ultimately abandon its demands and that Iran will secure sanctions relief. He added that rising US public frustration leaves Trump politically unable to admit failure.
-
----
-
-### 2026-08-15 12:18:51  #其他
-
-【香港與內地企業共商農產品出海 預估意向成交額超18億港元】第四屆助力內地優質農產品出海交流合作對接會14日在香港舉辦。會議為廣大企業宣講內地農產品供港的基本政策、出口流程、基地備案、檢驗標準等，助力內地優質農產品供給香港，對接全球市場。據介紹，本屆對接會共有來自內地的參展企業代表以及香港的採購商、渠道商200餘人參會，預估意向成交金額超過18億港元，展會規模、行業覆蓋面和意向成交額均創下歷屆新高。（中國新聞網）
-
----
-
-### 2026-08-15 12:18:12  #國際
-
-【印尼東努沙登加拉省發生5.0級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日11時54分，印尼東努沙登加拉省納克縣姆拜鎮東北42公里處發生5.0級地震，震源深度10公里。（央視新聞）
-
----
-
-### 2026-08-15 12:13:20  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【NYT: Bahrain base strike crippled logistics hub, caused early supply shortfalls on USS Lincoln】The New York Times reports supply shortages aboard the carrier Lincoln began shortly after day one of the war, when Iranian missiles and attack drones struck a US Navy base in Bahrain. The strike, described as Iran’s reprisal for a joint US-Israeli attack on Tehran, destroyed most base facilities and hit a primary naval logistics hub. The Navy implemented contingency plans to keep round-the-clock flight operations supplied and to sustain a blockade of Iranian ports. Loss of the Bahrain hub generated numerous problem reports aboard the carrier; Democratic senators voiced concern for roughly 5,000 sailors and the ship’s nearly nine-month deployment.
-
----
-
-### 2026-08-15 12:01:55  #公司 #國際
-
-【北京飛曼徹斯特航班發生機械故障，備降俄羅斯 海南航空道歉】8月15日，海南航空官微發文稱：2026年8月15日，我司HU753（北京-曼徹斯特）航班因機械故障原因備降俄羅斯克拉斯諾亞爾斯克國際機場，該航班已於北京時間07:28安全落地。海南航空表示，公司計劃更換飛機執行後繼航班，將妥善做好旅客服務保障工作，確保安全抵達目的地。由此給各位旅客造成的不便，深表歉意，海南航空始終秉承安全第一、旅客至上的理念，為廣大旅客提供安全舒適快捷的服務。
-
----
-
-### 2026-08-15 11:55:39  #國際
-
-【波蘭華沙市中心發現50餘枚二戰未爆炮彈】施工人員13日在波蘭首都華沙市中心發現50餘枚據信為第二次世界大戰時期遺留的未爆炮彈，約4000人被疏散，目前這批炮彈已被清理。（新華社）
-
----
-
-### 2026-08-15 11:54:39  #其他
-
-上海市水文總站2026年08月15日11時31分更新黃浦江高潮位黃色預警訊號為黃浦江高潮位藍色預警訊號：目前，風暴增水減弱，上游來水仍影響本市，預計，16日03時00分黃浦江蘇州河口最高潮位達到4.75米左右，上海市水文總站更新黃浦江高潮位黃色預警訊號至藍色預警訊號。
-
----
-
-### 2026-08-15 11:54:10  #國際
-
-【美參議員稱以總理換人也一樣糟糕】美國聯邦參議員伯尼·桑德斯在8月13日播出的一檔播客節目中表示，以色列即將迎來大選，但換掉現任總理內塔尼亞胡也並不能解決問題。“以色列總理很糟糕，換掉他一切就能好起來”這種話說起來容易，但以色列國內的情況並非這麼簡單。他表示，受以色列媒體的影響，許多普通以色列人並未意識到以色列已被國際社會排斥到何種程度，與此同時，以色列民眾中的右傾勢力已相當龐大，以色列總理內塔尼亞胡還在助長這一趨勢。桑德斯表示，希望以色列能出現“勇敢的新領導人”，直面並解決問題，但目前似乎沒有這樣的人出現。 （CCTV國際時訊）
-
----
-
-### 2026-08-15 11:53:58  #國際
-
-【韓國執政黨與在野黨對日本官員參拜靖國神社表示“深切遺憾”】8月15日是日本無條件投降日，也是韓國的光復節。日本防衛大臣小泉進次郎等內閣成員以及執政的自民黨高層參拜靖國神社後，韓國執政黨及在野黨一致對此進行批評並表達了遺憾。（央視新聞）
 
 ---

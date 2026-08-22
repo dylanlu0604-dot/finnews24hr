@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:50:01_
-_本檔包含 3385 則快訊，約 655451 字_
+_更新時間：2026-08-22 12:43:16_
+_本檔包含 3382 則快訊，約 655145 字_
+
+---
+
+### 2026-08-19 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.22%，標普500指數跌0.69%，納指跌1.32%。Coherent Corp跌12.84%，Lumentum Holdings Inc. Common Stock When Issued跌9.95%，希捷跌9.16%，閃迪跌9.01%。“七姐妹”方面：蘋果漲1.49%，微軟漲0.23%，谷歌跌0.02%，亞馬遜跌0.70%，特斯拉跌0.72%，英偉達跌2.36%，Meta Platforms跌4.47%。
+
+---
+
+### 2026-08-19 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.04%】Tims中國跌17.65%，世紀互聯跌16.92%，百度跌12.80%，中進醫療跌10.12%，愛奇藝跌7.89%。
+
+---
+
+### 2026-08-19 03:59:17  #公司 #國際
+
+敘利亞石油公司表示，員工無人受傷。
+
+---
+
+### 2026-08-19 03:58:59  #公司 #國際
+
+敘利亞石油公司表示，賈布薩天然氣廠的一條天然氣出口管道發生爆炸，導致該管道停止輸氣。
+
+---
+
+### 2026-08-19 03:58:54  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slid to $4,340/oz, down 1.75% intraday.
+
+---
+
+### 2026-08-19 03:57:24  #市場 #焦點
+
+現貨黃金失守4340美元/盎司，日內跌1.76%。
+
+---
+
+### 2026-08-19 03:56:49  #公司
+
+訊息人士：派拉蒙再度聘用兩名谷歌前高管。
+
+---
+
+### 2026-08-19 03:54:21  #市場 #焦點
+
+美國天然氣期貨漲超3.00%，現報2.811美元/百萬英熱。
+
+---
+
+### 2026-08-19 03:52:26  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up on 18th】The dollar index (DXY) rose 0.02% to 99.657 at the New York close on the 18th. Major crosses: EUR/USD 1.1576 (prev. 1.1572); GBP/USD 1.3534 (prev. 1.3538); USD/JPY 159.60 (prev. 159.59); USD/CHF 0.8125 (prev. 0.8115); USD/CAD 1.3906 (prev. 1.3877); USD/SEK 9.5395 (prev. 9.5193).
+
+---
+
+### 2026-08-19 03:52:21  #市場
+
+【美元指數18日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.657。截至紐約匯市尾市，1歐元兌換1.1576美元，高於前一交易日的1.1572美元；1英鎊兌換1.3534美元，低於前一交易日的1.3538美元。1美元兌換159.60日元，高於前一交易日的159.59日元；1美元兌換0.8125瑞士法郎，高於前一交易日的0.8115瑞士法郎；1美元兌換1.3906加元，高於前一交易日的1.3877加元；1美元兌換9.5395瑞典克朗，高於前一交易日的9.5193瑞典克朗。
+
+---
+
+### 2026-08-19 03:51:43  #MKT News #DIS.N
+
+U.S. Federal Communications Commission chair said no decision has been made yet on the review of Disney (DIS.N)'s ABC television license.
+
+---
+
+### 2026-08-19 03:49:42  #MKT News #XAUUSD #Impact bearish
+
+COMEX gold futures fell below $4,400/oz, down 1.64% intraday.
+
+---
+
+### 2026-08-19 03:49:34  #國際
+
+美國聯邦通訊委員會主席布倫丹·卡爾為審查迪士尼旗下ABC電視臺執照辯護，稱尚未做出任何決定。
+
+---
+
+### 2026-08-19 03:49:26  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 589.70 USD, the lowest since July 2026. Over the past 4 weeks, Deere & Company gained 0.66%, and in the last 12 months, it increased 20.52%.
+
+---
+
+### 2026-08-19 03:49:24  #市場
+
+紐約期銀日內跌4%，現報63.57美元/盎司。
+
+---
+
+### 2026-08-19 03:49:24  #市場 #焦點
+
+紐約期金失守4400美元/盎司，日內跌1.67%。
+
+---
+
+### 2026-08-19 03:47:18  #MKT News
+
+【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions.
+
+---
+
+### 2026-08-19 03:45:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,350/oz, down 1.51% on the day.
+
+---
+
+### 2026-08-19 03:45:09  #市場 #焦點
+
+現貨黃金失守4350美元/盎司，日內跌1.53%。
+
+---
+
+### 2026-08-19 03:44:56  #國際
+
+【英國47%民眾希望減少乃至拒絕以色列移民入境】YouGov一項最新民調顯示，僅有5%的英國民眾支援接納更多以色列移民進入英國；47%的民眾希望減少以色列移民數量或是完全不接收。隨著英國國內反對以色列在加沙開展軍事行動的情緒不斷高漲，以色列籍移民已成為英國民眾接納意願最低的移民群體之一。
+
+---
+
+### 2026-08-19 03:43:42  #MKT News #Commodities #Energy
+
+A vice president at Venezuela's state oil company said the country faces a daily natural gas shortfall of about 500 million cubic feet.
+
+---
+
+### 2026-08-19 03:42:35  #宏觀 #國際
+
+【美國財政部對兩名國際刑事法院人員實施制裁】當地時間8月18日，據美國財政部外國資產控制辦公室訊息，美國當天釋出國際刑事法院相關的新制裁，並更新“特別指定國民清單”（SDN清單）。美國將日本籍國際刑事法院院長赤根智子和塞內加爾籍國際刑事法院檢察官團隊成員阿卜杜拉耶·塞耶列入清單。（央視新聞）
+
+---
+
+### 2026-08-19 03:41:58  #公司
+
+委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。
+
+---
+
+### 2026-08-19 03:38:27  #國際
+
+伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。
+
+---
+
+### 2026-08-19 03:37:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%).
+
+---
+
+### 2026-08-19 03:37:21  #市場
+
+【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。
+
+---
+
+### 2026-08-19 03:34:55  #MKT News #Commodities #Energy #WTI #Brent
+
+A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August.
+
+---
+
+### 2026-08-19 03:34:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic.
+
+---
+
+### 2026-08-19 03:33:51  #公司
+
+委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。
+
+---
+
+### 2026-08-19 03:33:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond.
+
+---
+
+### 2026-08-19 03:33:34  #國際
+
+阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。
+
+---
+
+### 2026-08-19 03:33:04  #MKT News
+
+U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it.
+
+---
+
+### 2026-08-19 03:32:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term.
 
 ---
 
@@ -20214,221 +20412,5 @@ Raytheon Technologies (RTX.N) rose about 1% in premarket trading after the U.S. 
 ### 2026-08-17 20:07:20  #其他
 
 【頎中科技：三季度顯示晶片封測業務產能有望滿負荷執行】頎中科技近日在接待機構調研時表示，2026年第三季度，顯示晶片封測業務方面，顯示產業轉移效應持續發酵，疊加控產控銷策略推進、國家補貼政策延續及賽事帶動等多重因素，產能有望實現滿負荷執行；小尺寸TDDI維修業務整體保持平穩；AMOLED中尺寸應用的拓展，將為穿戴裝置領域帶來業務增量，車載TDDI持續上量。
-
----
-
-### 2026-08-17 20:07:12  #MKT News #LUNR.O #Impact bullish
-
-Intuitive Machines shares rose 3.4% in pre-market trading after the company obtained authorization for a multi-satellite project valued at over $600 mln.
-
----
-
-### 2026-08-17 20:06:54  #MKT News #S&P500 #Impact bearish #Nasdaq100
-
-S&P 500 futures and Nasdaq-100 futures rapidly erased earlier gains.
-
----
-
-### 2026-08-17 20:06:42  #公司 #國際
-
-【以總理所在政黨舉行黨內初選 為議會選舉作準備】據以色列多家媒體17日報道，以色列總理內塔尼亞胡領導的右翼政黨利庫德集團當天舉行黨內初選，以確定該黨在預計於10月舉行的議會選舉中議員候選人“名單順位”。《以色列時報》報道說，投票從17日10時開始，計劃於21時結束。共有約14萬利庫德集團成員有投票資格。以色列議會選舉定於不晚於今年10月27日舉行。以色列議會選舉實行“比例代表制”，選民只投黨派，各政黨按照所獲票數的比例份額獲得議會席位。利庫德集團透過黨內初選投票決定議員候選人“名單順位”。（新華社）
-
----
-
-### 2026-08-17 20:06:28  #MKT News
-
-【Netanyahu's Likud holds primary to set candidate list ahead of parliamentary election】Netanyahu's Likud held a party primary on the 17th to determine the order of its candidate list ahead of a Knesset election scheduled no later than Oct. 27. Voting ran from 10:00 to 21:00, with roughly 140,000 party members eligible to vote. Israel allocates Knesset seats by proportional representation.
-
----
-
-### 2026-08-17 20:06:26  #市場
-
-標普500指數期貨和納斯達克100指數期貨迅速回吐漲幅。
-
----
-
-### 2026-08-17 20:05:09  #國際
-
-VIASAT選擇火箭實驗室為美國太空部隊建造地球同步軌道衛星。
-
----
-
-### 2026-08-17 20:04:56  #MKT News #RKLB.O #Impact bullish #VSAT.O #Impact mixed
-
-Viasat has selected Rocket Lab (RKLB.O) to build a geostationary satellite for the U.S. Space Force.
-
----
-
-### 2026-08-17 20:04:52  #公司
-
-【和邦生物：2026年上半年淨利潤3.8億元，同比增634.30%】和邦生物公告，2026年上半年營業收入28.88億元，同比下降26.34%；歸母淨利潤3.8億元，同比增長634.30%；扣非淨利潤3.75億元，同比增長698.33%。上年同期淨利潤5177.15萬元。本報告期未進行利潤分配或公積金轉增股本。
-
----
-
-### 2026-08-17 20:04:42  #其他
-
-STRATEGY：8月10日至16日期間未進行任何比特幣買賣。
-
----
-
-### 2026-08-17 20:04:24  #MKT News #Market Themes #AI Revolution #RUN.O #Impact bullish
-
-Sunrun (RUN.O) shares rose about 5% premarket after the company said it will provide energy capacity to Voltus under an agreement for an AI hyperscale data‑center customer.
-
----
-
-### 2026-08-17 20:04:00  #MKT News #RTX.N #Impact bullish
-
-U.S. Navy awarded Raytheon Technologies (RTX.N) a $22.9 billion contract for Tomahawk cruise missiles.
-
----
-
-### 2026-08-17 20:03:40  #公司 #國際
-
-美國海軍授予雷神公司價值229億美元戰斧”導彈合同。
-
----
-
-### 2026-08-17 20:03:18  #公司 #國際
-
-市場訊息：美國稀土公司與Novex簽署諒解備忘錄，推進美國氧化物到金屬的生產。
-
----
-
-### 2026-08-17 20:02:24  #公司
-
-【寒武紀：2023年限制性股票激勵計劃預留授予股份8月20日上市】寒武紀公告稱，公司2023年限制性股票激勵計劃預留授予部分第一個歸屬期歸屬股份上市流通日期為2026年8月20日，上市流通總數為561039股。本次歸屬限制性股票共597639股，涉及124名激勵物件，其中36600股來源於公司回購A股股票，561039股為定向發行A股股票。本次歸屬完成後公司總股本增至628854008股，不會導致控股股東及實控人變更。
-
----
-
-### 2026-08-17 20:02:14  #市場
-
-波羅的海乾散貨運價指數上漲0.52%，至2878點。
-
----
-
-### 2026-08-17 20:01:56  #其他
-
-市場訊息：WHITEFIBER將收購北卡羅來納州兩處新資料中心地塊。
-
----
-
-### 2026-08-17 20:01:52  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent
-
-Trump's special envoy for Venezuela is pushing 'America First' oil deals.
-
----
-
-### 2026-08-17 20:01:42  #MKT News
-
-Baltic Dry Index (BDI) rose 0.52% to 2,878 points.
-
----
-
-### 2026-08-17 20:01:38  #其他
-
-雪佛龍(CVX.N)：確認在安哥拉0區塊發現石油和天然氣凝析液資源。
-
----
-
-### 2026-08-17 20:01:35  #MKT News #Market Regions #Emerging Markets
-
-Brazil economic activity rose 2.35% YoY in June (consensus 2.30%) and fell 0.64% MoM (consensus -0.50%).
-
----
-
-### 2026-08-17 20:01:34  #公司
-
-【九州一軌：董事邵斌提前終止減持計劃 已減持0.26%股份】九州一軌公告稱，公司董事、核心技術人員邵斌於2026年8月14日透過大宗交易減持公司股份397000股，佔公司總股本的0.26%，減持總金額2146.58萬元，剩餘未減持股份不再減持，本次減持計劃提前實施完畢。減持前邵斌持有公司股份2270501股，佔總股本1.51%，減持後持股1873501股，佔總股本1.25%。本次減持符合相關法律法規要求，與此前披露的減持計劃一致。
-
----
-
-### 2026-08-17 20:01:20  #國際
-
-市場訊息：特朗普的委內瑞拉掮客正在推動“美國優先”石油交易。
-
----
-
-### 2026-08-17 20:01:00  #MKT News #Commodities #Energy #CVX.N #Impact bullish
-
-Chevron (CVX.N) is preparing a multi‑well exploration program that will include drilling the Nabba‑1X well in Namibia before year-end.
-
----
-
-### 2026-08-17 20:00:53  #其他
-
-巴西6月經濟活動同比增長2.35%；此前預期為增長2.30%。巴西6月經濟活動環比下降0.64%；此前預期為下降0.50%。
-
----
-
-### 2026-08-17 20:00:40  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-At the start of the Aug 17 evening session on the Shanghai Gold Exchange, gold T+D rose 1.48% to 953.49 yuan/gram and silver T+D rose 2.73% to 16,040 yuan/kg.
-
----
-
-### 2026-08-17 20:00:38  #其他
-
-市場訊息：SNTIA-HENT就丹麥SKIVE DC資料中心專案簽署初步協議。
-
----
-
-### 2026-08-17 20:00:32  #MKT News #Commodities #CVX.N #Impact bullish
-
-Chevron (CVX.N) confirms discovery of oil and natural gas condensate resources in Angola Block 0.
-
----
-
-### 2026-08-17 20:00:18  #資料
-
-加拿大至8月14日全國經濟信心指數 53.4，前值53。
-
----
-
-### 2026-08-17 20:00:14  #MKT News
-
-Canada national economic confidence index 53.4 as of Aug. 14, up from 53.0 previously.
-
----
-
-### 2026-08-17 20:00:05  #MKT News #Economic Calendar #Important
-
-Canada | National Economic Confidence Index (Aug.14) | actual 53.4 | previous 53
-
----
-
-### 2026-08-17 20:00:00  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
-
-【Societe Generale: US data trims speculative dollar-long bets】Societe Generale analyst Kit Jukes says weakening justification for dollar longs has prompted speculators to cut bullish dollar positions amid light trading. He warns this month’s US data—broad softness across consumption, inflation and employment—may have sent a false signal but has already led markets to lower US rate-hike expectations. The choice now, he says, is to wait for September data or accept the dollar index could trade in a 95–100 range for the remainder of the year.
-
----
-
-### 2026-08-17 19:59:52  #MKT News #0388.HK
-
-【HKEX extends group CEO Chen Yiting's term by three years】HKEX said its board has approved a three-year extension of group CEO Chen Yiting’s contract, effective March 1, 2027 through Feb. 28, 2030 (inclusive).
-
----
-
-### 2026-08-17 19:59:45  #國際
-
-美國8月14日擔保隔夜融資利率為3.62%，與8月13日持平。
-
----
-
-### 2026-08-17 19:59:30  #公司
-
-【興福電子：2026年上半年營收9.66億元 同比增43.71%】興福電子公告稱，2026年上半年公司實現營業收入9.66億元，歸母淨利潤1.23億元，扣非歸母淨利潤1.19億元，同比分別增長43.71%、17.91%、24.91%。當期研發投入4218.31萬元，佔營收比例4.36%，同比增長7.51%，新增授權專利31項。2026年上半年實施2025年權益分派，合計派發現金紅利1.08億元。
-
----
-
-### 2026-08-17 19:58:48  #其他
-
-市場訊息：布蘭迪萬房地產啟動最高1億美元票據現金要約收購。
-
----
-
-### 2026-08-17 19:58:32  #公司
-
-【上海合晶：多名董監高擬合計減持不超0.033%股份】上海合晶公告稱，公司收到董事長毛瑞源、董事焦平海、董事邰中和、職工董事兼總經理兼核心技術人員陳建綱、董事會秘書莊子祊出具的減持股份計劃告知函，五人因自身資金需求，計劃於2026年9月8日至2026年12月7日期間，透過集中競價交易方式合計減持不超過219664股，合計佔公司總股本不超過0.033%。本次減持股份來源均為股權激勵取得，減持價格將根據減持時的市場價格確定。
 
 ---
