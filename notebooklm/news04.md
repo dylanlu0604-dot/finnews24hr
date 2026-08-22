@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 15:40:36_
-_本檔包含 3358 則快訊，約 654695 字_
+_更新時間：2026-08-22 15:57:05_
+_本檔包含 3355 則快訊，約 654686 字_
+
+---
+
+### 2026-08-19 05:15:28  #市場
+
+富時A50期指連續夜盤收跌0.32%，報15045點。
+
+---
+
+### 2026-08-19 05:13:32  #國際
+
+特朗普將於8月27日在休斯頓主持共和黨全國委員會籌款晚宴。
+
+---
+
+### 2026-08-19 05:13:23  #國際
+
+特朗普將出席共和黨全國委員會為肯·帕克斯頓舉辦的籌款活動。
+
+---
+
+### 2026-08-19 05:12:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
+
+【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase.
 
 ---
 
@@ -20226,47 +20250,5 @@ U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.
 ### 2026-08-17 20:39:17  #Trading Economics #Economy #United States #NY Empire State Manufacturing Index #Importance 2
 
 New York Manufacturing Activity Surprisingly Accelerates — The New York Fed’s Empire State Manufacturing Index rose to 20.6 in August 2026 from 15.6 in July and largely beating market forecasts of 11. The lates data showed that New York State manufacturing activity grew for a second month and to the greatest extent since late 2021, as both new orders and shipments continued to strengthen. Meanwhile, unfilled orders climbed notably amid substantially longer delivery times. Falling inventories suggested further deterioration in supply availability. Employment and the average workweek rose modestly, while input price pressures accelerated. Selling price growth remained elevated but moderated for a second consecutive month. Despite these cost and supply pressures, firms maintained an optimistic outlook for business activity.
-
----
-
-### 2026-08-17 20:39:07  #公司
-
-【曲江文旅：控股股東所持900萬股股份拍賣成交】曲江文旅公告稱，控股股東所持合計900萬股公司股份由杜邑投資集團競得，佔公司總股本比例為3.53%。本次拍賣後續涉及繳納拍賣餘款、股權變更過戶等環節，最終結果以相關法院出具的拍賣成交裁定為準。本次股權變更過戶完成後，相關股份變動均在同一實際控制人控制的主體之間進行，公司控股股東、實際控制人不會發生變化，杜邑投資集團受讓後6個月內不得減持該部分股份。
-
----
-
-### 2026-08-17 20:39:04  #MKT News #Market Themes #AI Revolution
-
-OpenAI is investing heavily in safety controls and deploying its models to help secure code.
-
----
-
-### 2026-08-17 20:38:56  #市場
-
-標普500指數期貨轉跌，抹去早前漲幅。
-
----
-
-### 2026-08-17 20:38:52  #其他
-
-OpenAI：將持續投入安全架構及管控體系建設。
-
----
-
-### 2026-08-17 20:38:38  #其他
-
-OpenAI：大規模重金投入基礎能力建設。利用模型幫助保障程式碼安全。
-
----
-
-### 2026-08-17 20:38:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will decisively strike any threats or acts of aggression.
-
----
-
-### 2026-08-17 20:38:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
-
-Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%.
 
 ---

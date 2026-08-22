@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 15:40:36_
-_本檔包含 3033 則快訊，約 654336 字_
+_更新時間：2026-08-22 15:57:05_
+_本檔包含 3032 則快訊，約 653973 字_
+
+---
+
+### 2026-08-17 20:39:07  #公司
+
+【曲江文旅：控股股東所持900萬股股份拍賣成交】曲江文旅公告稱，控股股東所持合計900萬股公司股份由杜邑投資集團競得，佔公司總股本比例為3.53%。本次拍賣後續涉及繳納拍賣餘款、股權變更過戶等環節，最終結果以相關法院出具的拍賣成交裁定為準。本次股權變更過戶完成後，相關股份變動均在同一實際控制人控制的主體之間進行，公司控股股東、實際控制人不會發生變化，杜邑投資集團受讓後6個月內不得減持該部分股份。
+
+---
+
+### 2026-08-17 20:39:04  #MKT News #Market Themes #AI Revolution
+
+OpenAI is investing heavily in safety controls and deploying its models to help secure code.
+
+---
+
+### 2026-08-17 20:38:56  #市場
+
+標普500指數期貨轉跌，抹去早前漲幅。
+
+---
+
+### 2026-08-17 20:38:52  #其他
+
+OpenAI：將持續投入安全架構及管控體系建設。
+
+---
+
+### 2026-08-17 20:38:38  #其他
+
+OpenAI：大規模重金投入基礎能力建設。利用模型幫助保障程式碼安全。
+
+---
+
+### 2026-08-17 20:38:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will decisively strike any threats or acts of aggression.
+
+---
+
+### 2026-08-17 20:38:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
+
+Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%.
 
 ---
 
@@ -18237,53 +18279,5 @@ An official at Indonesia's disaster management agency said the earthquake death 
 ### 2026-08-15 15:57:46  #國際
 
 以色列軍方：對黎巴嫩南部納巴蒂耶和安薩爾的空襲是對阿里·塔赫爾高地我軍遭到襲擊的回應。
-
----
-
-### 2026-08-15 15:57:01  #國際
-
-以色列軍方：我們將繼續在黎巴嫩南部開展行動，以消除真主黨的威脅。
-
----
-
-### 2026-08-15 15:51:02  #其他
-
-【水利部：太湖流域將發生流域性大洪水】今天（15日）上午，水利部舉行會商，分析研判全國的防汛形勢，目前全國59條河流仍維持超警，太湖流域將發生流域性大洪水。截至今天9時，浙江、上海、江蘇、安徽、河南等地59條河流仍維持超警，其中30條河流維持超保。據預報，8月15日至16日，受降雨及上游來水影響，太湖流域將發生流域性大洪水，長江下游支流滁河、淮河中游支流沙潁河周口至界首河段、黑龍江干流同江以下江段維持超警；浙江省暴雨區內部分中小河流可能發生超警洪水。8月15日8時至16日8時，四川西北部、青海東南部、浙江東部發生山洪災害的可能性大（橙色預警）。水利部今天8時釋出橙色山洪災害氣象預警，維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。
-
----
-
-### 2026-08-15 15:49:25  #其他
-
-【新方法可給單個免疫細胞“體檢”】瑞典卡羅琳醫學院與瑞典生命科學實驗室聯合開發出一種分析血液中免疫細胞狀態的新方法，可獲取單個免疫細胞的多項物理特性。測試結果顯示，該方法能夠區分動脈粥樣硬化患者與健康人群的免疫細胞。卡羅琳醫學院在新聞公報中介紹，細胞膜組織結構、線粒體功能等物理特性會影響免疫細胞的移動、細胞間通訊及其對炎症的反應，但此前難以在大規模細胞群體中同時測量這些物理特性。研究人員開發出的這種名為“光譜生物物理細胞術”的新方法，可在極大型細胞群體中，同時測量單個細胞的多種物理特性。該方法將熒光奈米感測器與先進的流式細胞術相結合，前者可感知細胞物理環境的變化，後者可利用鐳射在數分鐘內逐個分析數千個細胞，獲取每個細胞的多項物理特性。（新華社）
-
----
-
-### 2026-08-15 15:49:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli military said it struck Hezbollah infrastructure in southern Lebanon on Saturday in response to actions against Israeli soldiers in the security zone.
-
----
-
-### 2026-08-15 15:48:54  #國際
-
-【加拿大媒體：加美關稅談判陷入僵局】據加拿大媒體14日報道，隨著美國對加拿大加徵關稅的最後期限臨近，由於在核心利益訴求上存在重大分歧，目前加美關稅談判陷入僵局。報道說，加美兩國負責貿易事務的高階官員連日來在華盛頓展開多輪密集磋商，但雙方立場相距甚遠，目前沒有達成協議的跡象。據報道，在談判中加方訴求是美國不徵收新關稅，同時降低已經對加拿大鋼鋁、汽車和木材行業徵收的關稅。而美方要求加拿大取消對美國乳製品的進口限制、取消各省對美國酒類的銷售禁令，並廢除優先採購加拿大產品的地方規定。（新華社）
-
----
-
-### 2026-08-15 15:47:05  #國際
-
-以色列軍方表示，週六對黎巴嫩南部的真主黨基礎設施進行了打擊，"以回應對安全區內以色列士兵的襲擊"。
-
----
-
-### 2026-08-15 15:43:32  #MKT News
-
-【At least 33 killed in M7.7 earthquake in East Nusa Tenggara, Indonesia】At least 33 people have been killed after a magnitude-7.7 earthquake struck East Nusa Tenggara province, Indonesia, the provincial governor said, according to a reporter on the scene.
-
----
-
-### 2026-08-15 15:42:39  #國際
-
-【印尼7.7級地震已造成至少33人死亡】當地時間15日，根據東努沙登加拉省省長的說法，印尼7.7級地震造成的死亡人數已達到33人。中國地震臺網正式測定：8月15日5時58分在印尼弗洛勒斯島附近海域（南緯8.40度，東經121.40度）發生7.7級地震，震源深度20千米。（央視新聞）
 
 ---
