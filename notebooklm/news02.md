@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:52:27_
-_本檔包含 3411 則快訊，約 649496 字_
+_更新時間：2026-08-23 07:29:15_
+_本檔包含 3399 則快訊，約 648959 字_
+
+---
+
+### 2026-08-21 09:18:24  #MKT News
+
+Bank of Korea deputy governor said he does not want to be defined as hawkish or dovish and will base monetary policy decisions on evolving conditions and incoming data.
+
+---
+
+### 2026-08-21 09:18:04  #Trading Economics #Markets #South Korea #currency #Importance 1
+
+South Korean Won Hits 48-week High — The South Korean Won touched 1384.00 against the USD, the highest since September 2025. Over the past 4 weeks, US Dollar South Korean Won lost 6.21%, and in the last 12 months, it increased 0.09%.
+
+---
+
+### 2026-08-21 09:17:51  #MKT News
+
+Deputy governor of the BANK OF KOREA said the bank will make policy decisions cautiously and flexibly, weighing economic growth, inflation, financial stability and the side effects of rate hikes.
+
+---
+
+### 2026-08-21 09:17:40  #央行 #國際
+
+韓國央行副行長：將考量增長、通脹、金融穩定以及加息的副作用，在制定政策決策時保持非常審慎的態度，必要時將靈活調整政策。
+
+---
+
+### 2026-08-21 09:17:13  #市場 #焦點
+
+比特幣升破74000美元，日內漲1.58%。
+
+---
+
+### 2026-08-21 09:17:07  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+US Treasury Yields Hold Rebound — The 10-year US Treasury yield traded around 4.7% on Friday after rebounding sharply in the previous session amid concerns that the government’s plan to reduce borrowing costs may provide only a temporary solution. The 30-year yield also climbed to around 5.25%, nearly erasing Wednesday’s decline after the US Treasury Department announced larger debt buybacks. The moves came despite Treasury Secretary Scott Bessent saying that accelerated debt buybacks could exceed the announced $4 billion per issue and highlighting an upcoming fiscal plan, while adding that the US budget deficit has likely peaked under President Donald Trump. Longer-dated Treasury yields have surged since July amid increased debt issuance by AI companies and rising federal deficit spending. Meanwhile, higher oil prices as the US prepares sweeping new economic sanctions against Iran also added to inflation concerns.
 
 ---
 
@@ -20501,113 +20537,5 @@ On Thursday Aug. 20, Shanghai Gold Exchange gold T+D rose 3.11% to 973.28 yuan/g
 ### 2026-08-20 09:00:26  #市場 #焦點
 
 【富時中國A50指數期貨盤初漲0.50%】富時中國A50指數期貨在上一交易日夜盤收漲0.39%的基礎上高開，盤初漲0.50%。
-
----
-
-### 2026-08-20 09:00:24  #MKT News
-
-China 5-year Loan Prime Rate (LPR) 3.50% as of Aug 20; expected 3.50%, prior 3.50%.
-
----
-
-### 2026-08-20 09:00:22  #其他
-
-【事關外賣騎手等勞動權益保障，工會工作“十五五”規劃釋出】今天（20日），全國總工會發布了《中國工運事業和工會工作“十五五”規劃》，《規劃》聚焦推動高質量發展，在動員激勵廣大職工群眾建功立業、創新創造上作出了一系列重要部署。（央視新聞）
-
----
-
-### 2026-08-20 09:00:22  #MKT News #Important #Market Regions #Greater China #CNH
-
-China 1-year loan prime rate (LPR) as of Aug 20: 3.00% (expected 3.00%, prior 3.00%).
-
----
-
-### 2026-08-20 09:00:16  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bullish
-
-Early trade: China’s main futures contracts were mostly higher. Platinum and ethylene glycol (EG) rose over 4%; Shanghai silver and palladium near 4%; fuel oil up ~3%; Shanghai gold and rapeseed oil >2%; Shanghai nickel ~2%. Decliners: eggs down ~2%; low-sulfur fuel oil (LU) and PTA off >1%; paraxylene and iron ore down ~1%.
-
----
-
-### 2026-08-20 09:00:14  #MKT News #Economic Calendar
-
-China | 5-Year Loan Prime Rate (Aug.20) | actual 3.5% | consensus 3.50% | previous 3.50%
-
----
-
-### 2026-08-20 09:00:14  #MKT News #Economic Calendar #Important
-
-China | 1-Year Loan Prime Rate (Aug.20) | actual 3% | consensus 3.00% | previous 3.00%
-
----
-
-### 2026-08-20 09:00:03  #市場 #焦點
-
-純鹼連續主力合約日內漲1%，現報1037.00元。
-
----
-
-### 2026-08-20 09:00:03  #市場 #焦點
-
-鉑連續主力合約日內漲4%，現報444.00元。
-
----
-
-### 2026-08-20 09:00:03  #市場 #焦點
-
-白銀連續主力合約日內漲4%，現報16279.00元。
-
----
-
-### 2026-08-20 09:00:02  #市場
-
-【商品期貨開盤】鉑連續漲4.67%，乙二醇連續漲4.12%，白銀連續漲4.11%，鈀連續漲3.00%，線材連續漲2.89%，黃金連續漲2.73%，菜油連續漲2.06%。
-
----
-
-### 2026-08-20 09:00:02  #市場
-
-富時中國A50指數期貨開盤上漲0.48%。
-
----
-
-### 2026-08-20 08:59:52  #宏觀 #市場 #觀點 #國際
-
-【摩根大通團隊警示美債回購存在公信力風險】摩根大通策略師警告，市場或認為美國財政部壓低長期借貸成本的舉措缺乏公信力，長期來看可能推高期限溢價與債券收益率。美國財政部表示，將把債券回購規模至少擴大一倍，以提供“更強流動性支援”，該訊息推動美國長期收益率下行。但摩根大通認為此舉僅治標不治本。美國國債規模已突破40萬億美元，政策制定者控制借貸成本的壓力陡增，其影響遠超出聯邦預算，波及全球融資成本。
-
----
-
-### 2026-08-20 08:58:47  #MKT News
-
-Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic buy orders for the KOSPI.
-
----
-
-### 2026-08-20 08:58:41  #市場 #國際
-
-韓國綜合股價指數上漲5.1%，收於6798.13。
-
----
-
-### 2026-08-20 08:57:21  #市場 #焦點 #國際
-
-韓國交易所啟動Sidecar臨停機制，暫停韓國綜合指數（KOSPI）程式化買入。
-
----
-
-### 2026-08-20 08:55:51  #宏觀 #市場 #央行 #國際
-
-【中信期貨：紀要鷹派不及預期疊加長端利率快速回落，黃金重新獲得政策與實際利率共振支撐】FOMC會議紀要確認，美聯儲內部確有明顯鷹派聲音，但支援7月直接加息的僅為“數名”委員，距離多數仍有較大差距，弱於此前市場對鷹派廣泛擴散的預期。與此同時，“許多”委員仍擔憂持續高通脹可能影響通脹預期和工資定價，說明進一步加息並未完全退出政策選項。 更重要的變化來自長端利率。美國財政部意外宣佈至少翻倍10—30年期國債流動性回購規模，長期美債收益率隨即快速下降，美元同步走弱。黃金因此一度上漲近4%，突破4500美元關口。當前市場交易的核心已經從單純判斷美聯儲是否加息，轉向美國政策是否透過干預債券市場壓低實際融資成本。 地緣風險則進一步強化這一結構。美伊談判前景惡化使油價和通脹風險仍處高位，但財政部對長端債券市場的支援階段性削弱了“油價上漲—長端收益率上升”的傳導。黃金因此同時獲得低利率、弱美元以及地緣和政策不確定性溢價支撐。（中信期貨）
-
----
-
-### 2026-08-20 08:55:08  #經濟數據 #中國
-
-【商務部消費促進司負責人談2026年7月我國消費市場情況】今年以來，我國消費市場保持向新向優發展態勢，市場規模穩步擴大、發展質量不斷提升。1-7月，社會消費商品和服務零售總額同比（下同）增長2.6%；社會消費品零售總額28.77萬億元，增長1.2%，其中除汽車以外的消費品零售額增長2.7%。
-
----
-
-### 2026-08-20 08:55:02  #MKT News #Commodities #Energy #USO #Impact bullish #BNO
-
-【Crude ETF holdings report launches; USO and BNO exposures rise】Aug 19 — WTI (USO) notional exposure was about 24.277 mln barrels, up 157,000 barrels on the day. Brent (BNO) futures holdings were about 7.819 mln barrels, up 126,000 barrels on the day.
 
 ---

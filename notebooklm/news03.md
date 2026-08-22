@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:52:27_
-_本檔包含 3231 則快訊，約 649479 字_
+_更新時間：2026-08-23 07:29:15_
+_本檔包含 3242 則快訊，約 649520 字_
+
+---
+
+### 2026-08-20 09:00:24  #MKT News
+
+China 5-year Loan Prime Rate (LPR) 3.50% as of Aug 20; expected 3.50%, prior 3.50%.
+
+---
+
+### 2026-08-20 09:00:22  #其他
+
+【事關外賣騎手等勞動權益保障，工會工作“十五五”規劃釋出】今天（20日），全國總工會發布了《中國工運事業和工會工作“十五五”規劃》，《規劃》聚焦推動高質量發展，在動員激勵廣大職工群眾建功立業、創新創造上作出了一系列重要部署。（央視新聞）
+
+---
+
+### 2026-08-20 09:00:22  #MKT News #Important #Market Regions #Greater China #CNH
+
+China 1-year loan prime rate (LPR) as of Aug 20: 3.00% (expected 3.00%, prior 3.00%).
+
+---
+
+### 2026-08-20 09:00:16  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bullish
+
+Early trade: China’s main futures contracts were mostly higher. Platinum and ethylene glycol (EG) rose over 4%; Shanghai silver and palladium near 4%; fuel oil up ~3%; Shanghai gold and rapeseed oil >2%; Shanghai nickel ~2%. Decliners: eggs down ~2%; low-sulfur fuel oil (LU) and PTA off >1%; paraxylene and iron ore down ~1%.
+
+---
+
+### 2026-08-20 09:00:14  #MKT News #Economic Calendar
+
+China | 5-Year Loan Prime Rate (Aug.20) | actual 3.5% | consensus 3.50% | previous 3.50%
+
+---
+
+### 2026-08-20 09:00:14  #MKT News #Economic Calendar #Important
+
+China | 1-Year Loan Prime Rate (Aug.20) | actual 3% | consensus 3.00% | previous 3.00%
+
+---
+
+### 2026-08-20 09:00:03  #市場 #焦點
+
+純鹼連續主力合約日內漲1%，現報1037.00元。
+
+---
+
+### 2026-08-20 09:00:03  #市場 #焦點
+
+鉑連續主力合約日內漲4%，現報444.00元。
+
+---
+
+### 2026-08-20 09:00:03  #市場 #焦點
+
+白銀連續主力合約日內漲4%，現報16279.00元。
+
+---
+
+### 2026-08-20 09:00:02  #市場
+
+【商品期貨開盤】鉑連續漲4.67%，乙二醇連續漲4.12%，白銀連續漲4.11%，鈀連續漲3.00%，線材連續漲2.89%，黃金連續漲2.73%，菜油連續漲2.06%。
+
+---
+
+### 2026-08-20 09:00:02  #市場
+
+富時中國A50指數期貨開盤上漲0.48%。
+
+---
+
+### 2026-08-20 08:59:52  #宏觀 #市場 #觀點 #國際
+
+【摩根大通團隊警示美債回購存在公信力風險】摩根大通策略師警告，市場或認為美國財政部壓低長期借貸成本的舉措缺乏公信力，長期來看可能推高期限溢價與債券收益率。美國財政部表示，將把債券回購規模至少擴大一倍，以提供“更強流動性支援”，該訊息推動美國長期收益率下行。但摩根大通認為此舉僅治標不治本。美國國債規模已突破40萬億美元，政策制定者控制借貸成本的壓力陡增，其影響遠超出聯邦預算，波及全球融資成本。
+
+---
+
+### 2026-08-20 08:58:47  #MKT News
+
+Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic buy orders for the KOSPI.
+
+---
+
+### 2026-08-20 08:58:41  #市場 #國際
+
+韓國綜合股價指數上漲5.1%，收於6798.13。
+
+---
+
+### 2026-08-20 08:57:21  #市場 #焦點 #國際
+
+韓國交易所啟動Sidecar臨停機制，暫停韓國綜合指數（KOSPI）程式化買入。
+
+---
+
+### 2026-08-20 08:55:51  #宏觀 #市場 #央行 #國際
+
+【中信期貨：紀要鷹派不及預期疊加長端利率快速回落，黃金重新獲得政策與實際利率共振支撐】FOMC會議紀要確認，美聯儲內部確有明顯鷹派聲音，但支援7月直接加息的僅為“數名”委員，距離多數仍有較大差距，弱於此前市場對鷹派廣泛擴散的預期。與此同時，“許多”委員仍擔憂持續高通脹可能影響通脹預期和工資定價，說明進一步加息並未完全退出政策選項。 更重要的變化來自長端利率。美國財政部意外宣佈至少翻倍10—30年期國債流動性回購規模，長期美債收益率隨即快速下降，美元同步走弱。黃金因此一度上漲近4%，突破4500美元關口。當前市場交易的核心已經從單純判斷美聯儲是否加息，轉向美國政策是否透過干預債券市場壓低實際融資成本。 地緣風險則進一步強化這一結構。美伊談判前景惡化使油價和通脹風險仍處高位，但財政部對長端債券市場的支援階段性削弱了“油價上漲—長端收益率上升”的傳導。黃金因此同時獲得低利率、弱美元以及地緣和政策不確定性溢價支撐。（中信期貨）
+
+---
+
+### 2026-08-20 08:55:08  #經濟數據 #中國
+
+【商務部消費促進司負責人談2026年7月我國消費市場情況】今年以來，我國消費市場保持向新向優發展態勢，市場規模穩步擴大、發展質量不斷提升。1-7月，社會消費商品和服務零售總額同比（下同）增長2.6%；社會消費品零售總額28.77萬億元，增長1.2%，其中除汽車以外的消費品零售額增長2.7%。
+
+---
+
+### 2026-08-20 08:55:02  #MKT News #Commodities #Energy #USO #Impact bullish #BNO
+
+【Crude ETF holdings report launches; USO and BNO exposures rise】Aug 19 — WTI (USO) notional exposure was about 24.277 mln barrels, up 157,000 barrels on the day. Brent (BNO) futures holdings were about 7.819 mln barrels, up 126,000 barrels on the day.
 
 ---
 
@@ -19440,47 +19548,5 @@ Japanese Shares Drop as Tech Selloff Intensifies — The Nikkei 225 Index fell 2
 ### 2026-08-19 08:30:40  #MKT News
 
 【CITIC Securities: Interest in compute-power tech, micro-cap crossovers, new power-supply architecture and lithium batteries likely to reheat】CITIC Securities says after last week's broad rally the market rotated into high-level, differentiated consolidation, marking a second style switch. The Shanghai Composite fell as formerly defensive large-cap blue chips weakened; the ChiNext Index rose against the trend while STAR 50 and Beijing 50 softened. Earlier leaders in nonferrous metals gave back the most ground; only communications outperformed, supported by overseas validation of the compute-power chain. Average daily turnover slipped to CNY 2.35 trillion; incremental flows rotated into bond ETFs for hedging, and a rebound from low levels is still building. Based on catalysts and timing, compute-power technologies, micro-cap crossovers, new power-supply architecture and lithium batteries are likely to heat up; CITIC Securities recommends focusing on these four themes given the market environment, catalysts and composite quant indicators.
-
----
-
-### 2026-08-19 08:29:48  #公司
-
-【上海電氣與哈爾濱工業大學共建聯合研究中心】據上海電氣訊息，8月18日上午，上海電氣集團黨委書記、董事長吳磊赴哈爾濱工業大學，與哈爾濱工業大學黨委常委、校長韓傑才會面，雙方圍繞服務國家重大戰略需求，聚焦聯合攻關、人才培養、成果轉化等重點方向深入交流，並簽署共建“哈爾濱工業大學國家能源領域學院-上海電氣集團聯合研究中心”協議。
-
----
-
-### 2026-08-19 08:29:32  #MKT News #000660.KS
-
-Sources say the SK Hynix union is finalizing the wording of a temporary wage agreement and will notify members of the terms this afternoon.
-
----
-
-### 2026-08-19 08:29:09  #央行 #日本央行
-
-【瑞穗預計日本央行將加快升息步伐 最快9月行動】瑞穗金融集團預計日本央行最快下月升息，因為疲軟的日元和持續的通脹壓力可能促使央行更快收緊貨幣政策。瑞穗全球市場部門聯席主管KenyaKoshimizu表示，9月加息的可能性“相當高”，日本央行還可能把政策行動間隔從目前約六個月縮短至三個月一次。“一旦日本央行轉向每三個月行動一次，就很難再放慢速度，”Koshimizu說。
-
----
-
-### 2026-08-19 08:27:31  #其他
-
-【法國官員：政府將引入人工智慧工具測試系統網路安全漏洞】當地時間18日，法國預算部長阿米耶爾表示，法國政府將使用人工智慧工具來測試政府系統中的網路安全漏洞。此前，法國稅務部門遭到大規模駭客攻擊，約70萬名納稅人的資訊和資料被盜。
-
----
-
-### 2026-08-19 08:27:29  #MKT News
-
-【Huatai Securities: Spandex supply tightening, industry cycle likely to improve】Huatai Securities says spandex prices and company margins were pressured from 2022 by sustained capacity additions. With the current expansion cycle ending, exit of inefficient capacity and rising elastic-apparel demand and spandex penetration, supply-demand began to improve from 2025. Early-2026 inventory drawdown combined with geopolitically driven cost pressure triggered a sharp price rebound; as feedstock costs later eased, industry price spreads widened. Huatai expects limited new capacity and steady demand to push spandex toward a supply-tight market, supporting further price and spread expansion.
-
----
-
-### 2026-08-19 08:26:06  #其他
-
-【朱雀三號副總設計師：回收成功只是第一步，接下來要拆火箭看零部件血條還剩多少】朱雀三號副總設計師董鍇表示，爭取儘快把收回來的火箭複用一次。這枚火箭回來後，我們會非常仔細地拆解，看一看，它經歷這樣一次飛行之後哪裡產生了損壞。如果各個部分都有血條，以後的工作就是讓每個血條可檢、可測、可修，修完之後重新架上發射臺。朱雀三號的主要改進方向就是加強運載能力、可靠性然後縮短複用週期。我內心的期望是，讓朱雀三先跨過一年打 10 次的門檻。對比獵鷹 9，朱雀三現在走到了什麼階段？董鍇表示，按 1-9 級劃分，藍箭現在只能算跨過了實驗室驗證的第 6 級，剛進入實物飛行驗證的第 7 級。越往上越困難，第 8 級的標誌是能再復飛；至於成功率極高的規模化發射，那是最高的第 9 級。你們看那個《凡人修仙傳》，如果獵鷹 9 是 “化神” 的大能，那朱雀三號現在頂多算個 “結丹期”；等它能複用了，那才算到了 “元嬰”。（晚點LatePost）
-
----
-
-### 2026-08-19 08:22:21  #MKT News
-
-【Sources say ROK‑US Ulchi Freedom Shield schedule to be halved; South Korea's Defense Ministry cannot confirm】On the evening of the 18th local time, South Korean military sources said the ROK‑US Ulchi Freedom Shield joint exercise schedule would be shortened by half and end early after defensive operations conclude. South Korea's Defense Ministry on the 19th said it could not confirm the report.
 
 ---

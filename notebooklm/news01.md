@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:52:27_
-_本檔包含 3177 則快訊，約 650015 字_
+_更新時間：2026-08-23 07:29:15_
+_本檔包含 3176 則快訊，約 649236 字_
+
+---
+
+### 2026-08-23 07:21:31  #國際
+
+市場訊息：以色列戰鬥機轟炸黎巴嫩南部的卡夫魯曼鎮。
+
+---
+
+### 2026-08-23 07:16:32  #其他
+
+【匈牙利保克什核電站3號機組恢復發電】匈牙利總理毛焦爾·彼得22日宣佈，得益於緊急工程施工作業及多瑙河水位回升，該國唯一的核電站——保克什核電站3號機組已於當天恢復發電。 毛焦爾當天在核電站現場表示，3號機組的6號汽輪機已重新聯網恢復發電。本月早些時候，乾旱引發的多瑙河極低水位嚴重限制冷卻水吸入，導致部分機組被迫停運。 為保障冷卻水供應，匈牙利政府日前實施緊急應對措施，開始建造水下潛壩，並在河道中有控制地沉入兩艘80米長的駁船。毛焦爾表示，這些措施已使核電站附近多瑙河水位抬升約15釐米。 此前，持續酷暑和旱情導致多瑙河水位降至歷史低位，直接威脅保克什核電站的安全執行。8月初，水位下降迫使該核電廠大幅削減產能，危機最嚴重時僅有一臺汽輪機維持運轉。隨著多瑙河水位狀況改善，第二臺汽輪機已於8月10日恢復併網。 “若一切順利，核電站將於下週三（26日）恢復至2000兆瓦的全額產能，全部8臺汽輪機將再次投入執行。”毛焦爾說。 保克什核電站位於匈牙利首都布達佩斯以南約100公里處，擁有4座VVER-440型反應堆機組，共配備8臺汽輪機組，是該國重要的電力來源。（新華社）
+
+---
+
+### 2026-08-23 07:09:23  #國際
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、中國是世界經濟增長的積極貢獻者和強大穩定錨
+2、網上商品和服務零售額前7月增4.8% 對社會商品和服務零售額增長貢獻率超五成
+3、加快現代化產業體系建設
+4、印度尼西亞總統普拉博沃會見王毅一行
+5、中方就深化APEC海關合作提出主張
+6、讓製造擁有美和溫度
+
+---
+
+### 2026-08-23 06:55:12  #國際
+
+美國能源部長表示，美國石油和天然氣產量處於“歷史最高水平”。
+
+---
+
+### 2026-08-23 06:53:17  #國際
+
+【人民日報鍾才文：中國是世界經濟增長的積極貢獻者和強大穩定錨】今年以來，面對變亂交織、嚴峻複雜的外部環境，中國經濟頂壓前行，持續向新向優發展，展現出蓬勃活力和強大韌性，不僅為“十五五”良好開局奠定了堅實基礎，也為世界經濟注入強勁動力和難能可貴的確定性。
 
 ---
 
@@ -19127,41 +19163,5 @@ Hong Kong market opened firmer: Hang Seng Index up 0.42%, Hang Seng TECH up 0.21
 ### 2026-08-21 09:19:54  #其他
 
 【浙江省“十五五”財政規劃：支援深化教育科技人才一體改革發展】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，支援深化教育科技人才一體改革發展。保障一體推進教育強省、科技強省、人才強省。支援實施“雙一流196工程”、高校基礎設施提質工程、“一流學科建設工程”。探索建立以產業為導向的高校生均撥款制度，推動普通高校高質量發展。支援高能級科創平臺提能造峰，配合完善省實驗室、省技術創新中心動態調整機制，最佳化分檔補助與績效評價評估結果掛鉤機制。支援深入實施“135”人才強省體系建設工程，協同建立人才支援政策定期調整機制，落實人才待遇保障。
-
----
-
-### 2026-08-21 09:18:24  #MKT News
-
-Bank of Korea deputy governor said he does not want to be defined as hawkish or dovish and will base monetary policy decisions on evolving conditions and incoming data.
-
----
-
-### 2026-08-21 09:18:04  #Trading Economics #Markets #South Korea #currency #Importance 1
-
-South Korean Won Hits 48-week High — The South Korean Won touched 1384.00 against the USD, the highest since September 2025. Over the past 4 weeks, US Dollar South Korean Won lost 6.21%, and in the last 12 months, it increased 0.09%.
-
----
-
-### 2026-08-21 09:17:51  #MKT News
-
-Deputy governor of the BANK OF KOREA said the bank will make policy decisions cautiously and flexibly, weighing economic growth, inflation, financial stability and the side effects of rate hikes.
-
----
-
-### 2026-08-21 09:17:40  #央行 #國際
-
-韓國央行副行長：將考量增長、通脹、金融穩定以及加息的副作用，在制定政策決策時保持非常審慎的態度，必要時將靈活調整政策。
-
----
-
-### 2026-08-21 09:17:13  #市場 #焦點
-
-比特幣升破74000美元，日內漲1.58%。
-
----
-
-### 2026-08-21 09:17:07  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
-
-US Treasury Yields Hold Rebound — The 10-year US Treasury yield traded around 4.7% on Friday after rebounding sharply in the previous session amid concerns that the government’s plan to reduce borrowing costs may provide only a temporary solution. The 30-year yield also climbed to around 5.25%, nearly erasing Wednesday’s decline after the US Treasury Department announced larger debt buybacks. The moves came despite Treasury Secretary Scott Bessent saying that accelerated debt buybacks could exceed the announced $4 billion per issue and highlighting an upcoming fiscal plan, while adding that the US budget deficit has likely peaked under President Donald Trump. Longer-dated Treasury yields have surged since July amid increased debt issuance by AI companies and rising federal deficit spending. Meanwhile, higher oil prices as the US prepares sweeping new economic sanctions against Iran also added to inflation concerns.
 
 ---

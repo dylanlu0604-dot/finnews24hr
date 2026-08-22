@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:52:27_
-_本檔包含 3303 則快訊，約 650192 字_
+_更新時間：2026-08-23 07:29:15_
+_本檔包含 3288 則快訊，約 648698 字_
+
+---
+
+### 2026-08-19 08:29:48  #公司
+
+【上海電氣與哈爾濱工業大學共建聯合研究中心】據上海電氣訊息，8月18日上午，上海電氣集團黨委書記、董事長吳磊赴哈爾濱工業大學，與哈爾濱工業大學黨委常委、校長韓傑才會面，雙方圍繞服務國家重大戰略需求，聚焦聯合攻關、人才培養、成果轉化等重點方向深入交流，並簽署共建“哈爾濱工業大學國家能源領域學院-上海電氣集團聯合研究中心”協議。
+
+---
+
+### 2026-08-19 08:29:32  #MKT News #000660.KS
+
+Sources say the SK Hynix union is finalizing the wording of a temporary wage agreement and will notify members of the terms this afternoon.
+
+---
+
+### 2026-08-19 08:29:09  #央行 #日本央行
+
+【瑞穗預計日本央行將加快升息步伐 最快9月行動】瑞穗金融集團預計日本央行最快下月升息，因為疲軟的日元和持續的通脹壓力可能促使央行更快收緊貨幣政策。瑞穗全球市場部門聯席主管KenyaKoshimizu表示，9月加息的可能性“相當高”，日本央行還可能把政策行動間隔從目前約六個月縮短至三個月一次。“一旦日本央行轉向每三個月行動一次，就很難再放慢速度，”Koshimizu說。
+
+---
+
+### 2026-08-19 08:27:31  #其他
+
+【法國官員：政府將引入人工智慧工具測試系統網路安全漏洞】當地時間18日，法國預算部長阿米耶爾表示，法國政府將使用人工智慧工具來測試政府系統中的網路安全漏洞。此前，法國稅務部門遭到大規模駭客攻擊，約70萬名納稅人的資訊和資料被盜。
+
+---
+
+### 2026-08-19 08:27:29  #MKT News
+
+【Huatai Securities: Spandex supply tightening, industry cycle likely to improve】Huatai Securities says spandex prices and company margins were pressured from 2022 by sustained capacity additions. With the current expansion cycle ending, exit of inefficient capacity and rising elastic-apparel demand and spandex penetration, supply-demand began to improve from 2025. Early-2026 inventory drawdown combined with geopolitically driven cost pressure triggered a sharp price rebound; as feedstock costs later eased, industry price spreads widened. Huatai expects limited new capacity and steady demand to push spandex toward a supply-tight market, supporting further price and spread expansion.
+
+---
+
+### 2026-08-19 08:26:06  #其他
+
+【朱雀三號副總設計師：回收成功只是第一步，接下來要拆火箭看零部件血條還剩多少】朱雀三號副總設計師董鍇表示，爭取儘快把收回來的火箭複用一次。這枚火箭回來後，我們會非常仔細地拆解，看一看，它經歷這樣一次飛行之後哪裡產生了損壞。如果各個部分都有血條，以後的工作就是讓每個血條可檢、可測、可修，修完之後重新架上發射臺。朱雀三號的主要改進方向就是加強運載能力、可靠性然後縮短複用週期。我內心的期望是，讓朱雀三先跨過一年打 10 次的門檻。對比獵鷹 9，朱雀三現在走到了什麼階段？董鍇表示，按 1-9 級劃分，藍箭現在只能算跨過了實驗室驗證的第 6 級，剛進入實物飛行驗證的第 7 級。越往上越困難，第 8 級的標誌是能再復飛；至於成功率極高的規模化發射，那是最高的第 9 級。你們看那個《凡人修仙傳》，如果獵鷹 9 是 “化神” 的大能，那朱雀三號現在頂多算個 “結丹期”；等它能複用了，那才算到了 “元嬰”。（晚點LatePost）
+
+---
+
+### 2026-08-19 08:22:21  #MKT News
+
+【Sources say ROK‑US Ulchi Freedom Shield schedule to be halved; South Korea's Defense Ministry cannot confirm】On the evening of the 18th local time, South Korean military sources said the ROK‑US Ulchi Freedom Shield joint exercise schedule would be shortened by half and end early after defensive operations conclude. South Korea's Defense Ministry on the 19th said it could not confirm the report.
 
 ---
 
@@ -19838,137 +19880,5 @@ Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day.
 ### 2026-08-17 22:54:34  #MKT News
 
 Iranian Students' News Agency reported Saudi artillery struck the village of Al-Shawarq near Razih in Yemen's Saada province, on the Saudi–Yemen border.
-
----
-
-### 2026-08-17 22:54:01  #其他
-
-市場訊息：沙烏地阿拉伯襲擊葉門邊境地區 。
-
----
-
-### 2026-08-17 22:53:44  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian Students' News Agency said Saudi Arabia attacked areas along the Yemen border.
-
----
-
-### 2026-08-17 22:53:31  #其他
-
-市場訊息：南非任命弗朗斯・巴萊尼擔任政府僱員養老基金（GEPF）主席。
-
----
-
-### 2026-08-17 22:53:09  #MKT News
-
-Panama Canal Authority recorded 10,623 vessel transits from October 2025 through July 2026, up 6.12% year-on-year.
-
----
-
-### 2026-08-17 22:52:46  #MKT News
-
-Israel said it will address the disarmament of Hamas and public health and sanitation conditions in Gaza.
-
----
-
-### 2026-08-17 22:52:43  #國際
-
-【以色列方面：加沙和平斡旋方將設立兩個工作組】以色列總理辦公室：以色列總理與‘和平委員會’開展了深入且富有建設性的磋商。雙方同意設立兩個工作組：第一個工作組將聚焦加沙地帶的解除武裝與非軍事化工作。以色列與‘和平委員會’均決心快速推進該程序，並要求在加沙地帶啟動任何重建工作之前完成此項工作。第二個工作組將處理加沙居民的環境衛生、潔淨水供應以及其他公共衛生問題 —— 這些問題同樣會對以色列居民造成影響。
-
----
-
-### 2026-08-17 22:52:14  #MKT News
-
-Israel says Gaza peace mediators will form two working groups.
-
----
-
-### 2026-08-17 22:52:00  #MKT News #Important #NKE.N #Impact bearish
-
-Nike (NKE.N) shares fell 2.9% to a nearly 12-year low.
-
----
-
-### 2026-08-17 22:51:39  #MKT News #Important #SNDK.O #Impact bullish #MU.O #WDC.O
-
-SanDisk (SNDK.O) shares rose more than 10%, Micron Technology (MU.O) gained 5.6%, and SK Hynix (SKHY.O) and Western Digital Corp (WDC.O) climbed over 6%.
-
----
-
-### 2026-08-17 22:51:38  #國際
-
-市場訊息：以色列表示，加沙和平斡旋方將設立兩個工作組。
-
----
-
-### 2026-08-17 22:51:22  #其他
-
-巴拿馬運河管理局：2025年10月至2026年7月共記錄到10623艘次通行，同比增加6.12%。
-
----
-
-### 2026-08-17 22:49:26  #市場
-
-美股儲存板塊進一步擴大漲幅，SK海力士股價上漲6.5%，美光科技股價上漲5.7%，閃迪股價上漲10.5%。
-
----
-
-### 2026-08-17 22:47:28  #宏觀 #國際
-
-市場訊息：美國財政部提出《GENIUS 法案》穩定幣監管規則。
-
----
-
-### 2026-08-17 22:47:10  #國際
-
-【伊朗官員：已為美國履行諒解備忘錄設定最後期限】一名伊朗高階官員17日在接受路透社採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了數週的最後期限，伊朗不會無限期等待美國繼續實施海上封鎖。該官員表示，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”。該官員說，如果外交努力失敗，“伊朗人已準備好將升級霍爾木茲海峽及（中東）地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。”美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿，由於在霍爾木茲海峽等問題上存在嚴重分歧，美伊談判陷入僵局，沒有取得實質性進展。（新華社）
-
----
-
-### 2026-08-17 22:47:06  #央行 #市場
-
-巴西央行續作全部 50000 份外匯互換合約。
-
----
-
-### 2026-08-17 22:46:41  #Trading Economics #Markets #commodity #Importance 0
-
-Heating Oil Hits 18-week High — Heating Oil increased to 4.38 USD/Gal, the highest since April 2026. Over the past 4 weeks, Heating Oil gained 6.18%, and in the last 12 months, it increased 95.21%.
-
----
-
-### 2026-08-17 22:46:32  #MKT News #DXY #Impact bearish
-
-Central Bank of Chile sold USD 64 mln of FX forward contracts at an average rate of 914.04 CLP per USD.
-
----
-
-### 2026-08-17 22:46:13  #市場 #國際
-
-【美國8月住宅建築商信心僅小幅改善 高成本繼續壓制樓市】美國住宅建築商信心8月僅小幅改善，高企的建築和借貸成本繼續壓制住房市場。美國全國住宅建築商協會（NAHB）和富國銀行週一公佈的資料顯示，整體住宅市場指數（HMI）本月上升1點至35。指數低於50意味著認為市場狀況不佳的建築商多於認為狀況良好的建築商，該指數自2024年5月以來一直低於50。“我們最新的建築商調查繼續顯示住宅建築市場疲軟，”NAHB首席經濟學家Robert Dietz在宣告中表示，“8月是連續第16個月至少有30%的建築商表示透過降價來支撐需求，同時也是HMI連續第16個月低於40。”分項指標中，一項當前銷售指標上升2點至39。未來銷售預期指標和潛在買家客流指標均與上月持平。建築商情緒低迷反映新房市場依賴各種優惠措施和抵押貸款利率補貼來刺激需求。30年期固定利率抵押貸款的合約利率徘徊在一年高點下方，該高點於7月底觸及。建築商一直透過各種優惠吸引潛在買家，這侵蝕了他們的利潤；與此同時，燃料價格上漲推高了材料成本。8月，63%的建築商表示使用了銷售優惠措施，與上月持平。35%的建築商表示降價，低於7月的37%。
-
----
-
-### 2026-08-17 22:43:28  #市場 #國際
-
-【日本國債遭遇拋售潮 日美聯手仍未扭轉日元跌勢】由於中東局勢再次緊張，加之近段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售。17 日，日本10年期國債收益率繼續上升，一度升至2.93%，創下近30年來的新高。與此同時，距離美國和日本聯手干預外匯市場僅過了兩週，日元匯率再度逼近1美元兌160日元的低位。業內分析稱，外匯干預可以暫時改變匯率，卻難以改變日本的經濟邏輯。在弱日元、低增長、高債務三大壓力下，日本經濟正面臨越來越嚴峻的考驗。有分析人士表示，日本越是試圖透過刺激託舉經濟，財政和匯率承受的壓力可能就越大。因此，能穩定日元匯率的，只有日本經濟增長模式、財政結構的最佳化。對日本政府而言，真正需要面對的，或許從來不只是“保衛日元”，而是日本經濟重新獲得持續增長的能力。（央視財經）
-
----
-
-### 2026-08-17 22:42:03  #市場 #國際
-
-【法國30年期國債收益率升至4.86% 重返近二十年最高水平】由於市場持續擔憂財政風險，超長期債券再次遭遇拋售，法國30年期國債收益率重新升至近20年來最高水平。法國30年期國債收益率上升1個基點，至4.86%，繼上週五觸及2008年以來最高水平後繼續攀升。其他歐洲國家的長期債券也受到衝擊。德國30年期國債收益率上漲1個基點，至3.74%，延續上週後段的升勢，至2011年以來最高水平。
-
----
-
-### 2026-08-17 22:41:43  #其他
-
-【理想汽車被曝或自研雲端推理晶片】近日，有訊息稱，理想汽車正在探索自研雲端推理晶片，專案仍處早期階段，並可能採用與其車端智駕晶片相近的資料流架構。對此，理想汽車方面表示：“暫時還沒有聽到這方面的訊息。”業內人士認為，隨著智慧駕駛大模型、車載智慧體和多模態互動功能持續演進，智慧汽車背後的雲端推理需求還會繼續增長。未來車企之間的智慧化競爭，或許不只取決於車上有多少算力，也取決於車企能否建立一套支撐模型持續迭代、低成本呼叫和規模化交付的雲端AI基礎設施。（每經）
-
----
-
-### 2026-08-17 22:41:39  #MKT News #Market Themes #AI Revolution #02015.HK
-
-【Li Auto reportedly exploring in-house cloud inference chip】Li Auto (02015.HK) is reportedly exploring an in-house cloud inference chip; the project is in an early stage and may adopt a dataflow architecture similar to its vehicle-side autonomous driving chip. Li Auto said: "We have not heard anything about this so far." Industry insiders say cloud inference demand will rise as autonomous-driving large models, in-car agents and multimodal interaction evolve. Future competition among automakers may hinge not only on in-vehicle compute but on the ability to build cloud AI infrastructure that supports continuous model iteration, low-cost invocation and scalable delivery.
 
 ---
