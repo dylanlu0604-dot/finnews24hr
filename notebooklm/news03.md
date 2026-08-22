@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 09:45:34_
-_本檔包含 3346 則快訊，約 655254 字_
+_更新時間：2026-08-22 11:04:02_
+_本檔包含 3328 則快訊，約 655394 字_
+
+---
+
+### 2026-08-20 05:01:28  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages.
+
+---
+
+### 2026-08-20 05:00:04  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Kyiv mayor says the city is under ballistic missile attack.
+
+---
+
+### 2026-08-20 04:59:42  #國際
+
+基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！
+
+---
+
+### 2026-08-20 04:58:43  #國際
+
+【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）
+
+---
+
+### 2026-08-20 04:57:53  #市場
+
+紐約期銀日內漲5%，現報67.28美元/盎司。
+
+---
+
+### 2026-08-20 04:55:46  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
+
+El Salvador Producer Price Growth Accelerates — Producer prices in El Salvador rose 3.5% year-on-year in July 2026, accelerating from a 3.2% increase in the previous month. The pickup was largely driven by higher electricity, gas, steam and air-conditioning costs (23% vs. 15.2% in June). Prices for transport and warehousing also rose sharply (8.35% vs. 8.71%), albeit at a slower pace than in June, amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices rose at a faster pace for manufacturing (3.1% vs. 2.8%), lodging and food services (2% vs. 1.9%) and real estate (1.8% vs. 1.7%). Meanwhile, producer prices continued to decline for water supply, sewerage and waste management (-0.15% vs. -0.15%) and swung to deflation in healthcare (-0.1% vs. 3.8%).
+
+---
+
+### 2026-08-20 04:54:31  #市場 #焦點
+
+紐約期銀突破67美元/盎司，日內漲4.72%。
+
+---
+
+### 2026-08-20 04:54:00  #MKT News #Commodities #Precious Metals
+
+Spot palladium was up as much as 4% intraday at $1,335.58/oz.
+
+---
+
+### 2026-08-20 04:51:44  #焦點 #國際
+
+美國擬將加拿大汽車關稅稅率由 25% 下調至 15%。美加貿易協議尚未最終敲定。
+
+---
+
+### 2026-08-20 04:51:13  #市場 #焦點
+
+以太坊升破2200美元，日內漲15.87%。
+
+---
+
+### 2026-08-20 04:50:34  #Trading Economics #Markets #commodity #Importance 0
+
+Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%.
+
+---
+
+### 2026-08-20 04:44:19  #其他
+
+哥倫比亞天然氣行業協會（NATURGAS）：預計 2026 年哥倫比亞天然氣行業投資將增長 17%，達到 10.3 億美元。
+
+---
+
+### 2026-08-20 04:43:33  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rebounds After Eleven-Day Losing Streak — The Ibovespa rose 0.9% to close at 167,830 on Wednesday, rebounding from eleven consecutive days of losses amid a stabilization in global bond yields. Yields in major economies declined after the US Treasury said it would double long-term security buybacks. Financials were mostly higher, with Itaú up 0.5%, Banco do Brasil adding 1.6% and B3 rising 0.8%. Petrobras gained 1.2% as oil futures rose for a fourth consecutive session amid fading prospects for a deal to end the conflict in the Middle East. Vale rose 0.8% amid iron ore supply concerns following failed wage negotiations between BHP and workers in Port Hedland, while CSN Mineração gained 2.2%. Meanwhile, steelmakers posted losses, with Gerdau tumbling 5.2% and CSN down 2.4%. Axia added 1.8% following its share buyback results and a buy recommendation from Itaú BBA. Embraer erased earlier gains after Itaú BBA raised its price target, closing 0.2% lower. Other notable performers included Rede D’Or (+2.6%) and Sabesp (+1%).
+
+---
+
+### 2026-08-20 04:40:45  #宏觀 #公司 #市場 #觀點 #國際
+
+【花旗稱貝森特出手令美元付出代價 建議客戶採用這些策略加以應對】花旗集團認為，美國財政部長斯科特·貝森特為壓低長期借貸成本而採取的最新舉措可能會導致美元在短期內走弱。財政部週三擴大10至30年期國債回購規模的公告導致長債收益率走低並推動美元跌至5月中以來的最低水平。花旗策略師Dirk Willer等人在研報中指出，遏制收益率的努力可能會使美元承受壓力。 “以如此方式降低利率的主要代價就是貨幣走弱，” 他們寫道。花旗建議客戶面對此舉利用美元為押注高收益新興市場貨幣融資，因後者“在當前環境下也應表現不錯”。該行此前青睞用加元和瑞士法郎作為融資貨幣。
+
+---
+
+### 2026-08-20 04:35:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index rose 89 points or 0.17 percent on Wednesday to close at 53433 points. Leading the gains are Merck (12.68%), Salesforce (4.80%) and Amgen (3.08%). Top losers were Caterpillar (-3.09%), Goldman Sachs (-1.78%) and Honeywell International (-1.66%).
+
+---
+
+### 2026-08-20 04:33:41  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Higher as Miners Rally — The S&P/TSX Composite Index edged 0.1% higher to close at 36,402 on Wednesday, lifted by a rally in mining stocks. Gold prices rose to their highest level since early June, tracking a rally in long-dated US Treasuries after the Treasury Department doubled its buyback of notes and bonds for the upcoming financial quarter. Major gold miners gained up to 12%, with Agnico Eagle surging 10.5%, Barrick adding 6.7% and WPM soaring 10.4%. Meanwhile, financials weighed on the index as oil prices extended gains, fueling inflation concerns. RBC shed 3.1%, TD Bank lost 3.5%, BMO fell 4.4%, CIBC retreated 3.7% and Scotiabank dropped 3.3%. Energy stocks posted losses despite higher oil prices, with Canadian Natural down 0.7% and Suncor losing 1%. Elsewhere, US President Trump paused 50% tariffs on select Canadian goods and signaled a trade deal with Canada was near. Still, reports indicated metals would remain tariffed. Industrials posted losses, with Enbridge down 2.7%.
+
+---
+
+### 2026-08-20 04:32:54  #MKT News #Important
+
+【US federal debt tops $40 trillion】US federal debt topped $40.0 trillion on Tuesday, the Treasury Department said on Wednesday. Debt rose about $3.0 trillion in the past year — the fastest annual increase outside the pandemic — as federal borrowing accelerated. The total has climbed from under $6.0 trillion at the turn of the century and has roughly doubled over the past decade. The Congressional Budget Office projects publicly held federal debt-to-GDP will exceed the post‑war peak of 106% around 2030 and reach about 120% by 2036. A senior director at the Committee for a Responsible Federal Budget said the pace is a clear signal the situation is out of control.
+
+---
+
+### 2026-08-20 04:27:04  #公司 #市場 #國際
+
+【美國商品期貨交易委員會（CFTC）就算力期貨合約公開徵求意見】美國商品期貨交易委員會（CFTC）正式啟動算力期貨監管意見徵集程式。CME芝商所、洲際交易所及金融科技公司Architect Financial Technologies等多家機構已宣佈，計劃在獲批後推出相關合約，助力AI開發者對沖能源短缺等風險。CFTC主席邁克爾·塞利格表示：”沒有強大的算力衍生品市場，美國就無法贏得AI競賽。” 並稱此次徵詢意見是建立算力市場明確規則的第一步。本次徵詢重點關注算力期貨與現有衍生品的差異，及結算價格指數等關鍵變數的統一標準問題。
+
+---
+
+### 2026-08-20 04:26:42  #市場 #焦點
+
+紐約期金突破4580美元/盎司，日內漲3.61%。
+
+---
+
+### 2026-08-20 04:26:29  #市場 #焦點
+
+現貨黃金突破4520美元/盎司，日內漲4.30%。
+
+---
+
+### 2026-08-20 04:25:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed above $4,520/oz, up 4.29% on the day.
+
+---
+
+### 2026-08-20 04:25:14  #MKT News #Commodities #Precious Metals
+
+Spot silver jumped 5% intraday to $66.51/oz.
+
+---
+
+### 2026-08-20 04:25:06  #市場
+
+現貨白銀日內漲5%，現報66.51美元/盎司。
+
+---
+
+### 2026-08-20 04:24:58  #市場
+
+紐約期銀日內漲4%，現報66.61美元/盎司。
+
+---
+
+### 2026-08-20 04:23:22  #MKT News
+
+Al Jazeera: A U.S. State Department spokesperson said the Trump administration has discussed Syrian sovereignty and Israel's right to self-defense.
+
+---
+
+### 2026-08-20 04:21:22  #MKT News #Market Themes #AI Revolution
+
+【CFTC seeks comment on compute-power futures】The U.S. Commodity Futures Trading Commission has opened a public comment on futures for compute power as industry players including CME, ICE and fintech Architect Financial Technologies plan contracts pending regulatory approval. Exchanges say compute futures would let end users and speculators hedge risks that could disrupt AI development, notably energy shortages. CFTC Chair Michael Selig said without a robust derivatives market for compute the U.S. cannot win the AI race and called the request for comment a first step to set clear rules for a U.S. compute market. The CFTC is soliciting input on how compute futures differ from other regulated derivatives and whether listing on CFTC-regulated venues would require standardizing variables affecting compute prices, including settlement reference price indices.
 
 ---
 
@@ -19897,271 +20053,5 @@ USD/CAD briefly fell over 10 pips, now 1.3896.
 ### 2026-08-19 03:16:01  #MKT News #Important #Market Themes #The Trump Trade
 
 Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada.
-
----
-
-### 2026-08-19 03:15:27  #宏觀 #國際
-
-【特朗普正考量是否給予加拿大關稅暫緩豁免】知情人士透露，美加之間一份旨在避免對加拿大商品加徵新關稅的協議，現已交由美國總統特朗普定奪。目前，是否於午夜按計劃正式開徵50%關稅，決定權掌握在特朗普手中。美、加官員連日展開不間斷談判。美方政府施壓，要求加拿大取消去年針對特朗普關稅出臺的報復性舉措，包括加拿大各省對美國酒類實施的禁令、針對美國汽車徵收的關稅；渥太華方面則希望美方下調針對汽車及其他商品的關稅。其中兩名知情人士稱，這份逐步成型的潛在協議，還包含加拿大在乳製品關稅配額方面作出讓步，該議題頻繁出現在特朗普批評加拿大貿易政策的公開表態中。
-
----
-
-### 2026-08-19 03:14:56  #MKT News
-
-Dutch foreign minister says the Netherlands opposes recent US sanctions on officials and staff of the International Criminal Court.
-
----
-
-### 2026-08-19 03:14:13  #MKT News
-
-IRNA reported Iran's ambassador to Kuwait met four Iranians who have been detained in Kuwait for three months.
-
----
-
-### 2026-08-19 03:13:53  #國際
-
-伊朗駐科威特大使會見了三個月前被扣留在科威特的四名伊朗公民。
-
----
-
-### 2026-08-19 03:13:07  #國際
-
-荷蘭外交大臣：荷蘭不認可美國近期針對國際刑事法院官員及工作人員實施的制裁。
-
----
-
-### 2026-08-19 03:13:00  #其他
-
-英國海上貿易行動辦公室：葉門穆哈港東南40海里海域一艘貨船遭多枚炮彈擊中，事發時該貨船船上無船員，船隻受損嚴重。有關部門正在開展調查。
-
----
-
-### 2026-08-19 03:11:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Officials say Trump threatened Oman over proposed Iran-Oman Strait of Hormuz deal】Two regional officials told CBS on Tuesday that President Trump threatened to bomb Oman over a proposed Oman-Iran agreement to manage ship transit through the Strait of Hormuz. The officials said the Trump administration informed Oman it opposed parts of the not-yet-public deal, including arrangements for Iran and Oman to jointly manage exit lanes from the strait. U.S. officials viewed Oman as insufficiently tough in negotiations and objected to Oman's agreement to levy voluntary fees on vessels purportedly for security and marine-environment protection.
-
----
-
-### 2026-08-19 03:11:33  #國際
-
-市場資訊：特朗普正在考慮暫緩對加拿大徵收關稅。
-
----
-
-### 2026-08-19 03:11:14  #國際
-
-特朗普本週正在面試美國食品藥品監督管理局（FDA）最高職位的候選人。
-
----
-
-### 2026-08-19 03:08:38  #MKT News
-
-WHO director-general TEDROS said the Ebola outbreak in the Democratic Republic of the Congo remains a public health emergency of international concern.
-
----
-
-### 2026-08-19 03:07:37  #MKT News
-
-Former Ukrainian defense minister Fedorov called for wartime elections in Ukraine.
-
----
-
-### 2026-08-19 03:06:34  #其他
-
-世衛組織總幹事譚德塞：剛果（金）埃博拉疫情仍構成國際關注的突發公共衛生事件。
-
----
-
-### 2026-08-19 03:05:51  #國際
-
-被解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉。
-
----
-
-### 2026-08-19 03:03:15  #國際
-
-【美加關稅談判進入最後關頭 特朗普政府淡化達成協議預期】據知情人士透露，特朗普政府正淡化外界對美加兩國在最後一刻達成協議以避免將於週三生效的新關稅的預期。美方私下表示，雙方週二達成協議的可能性只有五五開甚至更低。兩國需要在午夜截止期限前達成協議，否則美國將對價值數十億美元的加拿大商品徵收50%的關稅。
-
----
-
-### 2026-08-19 03:02:44  #MKT News #Commodities #Energy #WTI
-
-U.S. Deputy Energy Secretary Haositeweit said roughly half of Venezuela's oil production is currently being exported to the United States.
-
----
-
-### 2026-08-19 03:02:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Politico reports several US independent oil producers are expected to sign production contracts with Venezuela's state oil company PDVSA on Tuesday; three people familiar with the matter said the signing ceremony is scheduled for Tuesday evening in Houston.
-
----
-
-### 2026-08-19 03:01:52  #公司 #國際
-
-【美國石油企業即將敲定委內瑞拉相關協議】數家美國獨立石油生產商預計將於週二同委內瑞拉國有石油公司PDVSA簽署生產合同。三名知情人士透露，簽約儀式定於週二晚間在休斯頓舉行。該系列協議或將標誌著美國在委內瑞拉的能源參與力度大幅提升。
-
----
-
-### 2026-08-19 03:01:27  #國際
-
-美國能源部副部長豪斯特維特表示，委內瑞拉目前約有一半的石油產量出口至美國。
-
----
-
-### 2026-08-19 03:01:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures night session closed down 0.28% at 25,371, trading 100 points below the cash index.
-
----
-
-### 2026-08-19 03:00:02  #市場
-
-恒指期貨夜盤收跌0.29%，報25368.39點，低水102.76點。
-
----
-
-### 2026-08-19 02:59:15  #公司 #國際
-
-【蓋茨支援的TerraPower將於今年宣佈第二座核電站】TerraPower LLC是美國唯一一家正在建設公用事業級核電站的公司，該公司預計將於今年宣佈其下一個專案——該專案計劃服務於一座資料中心。該公司執行長克里斯·勒貝克（Chris Levesque）表示，這將使這家由比爾·蓋茨支援的公司有望在2027年為其第二個專案破土動工。他拒絕透露客戶身份。
-
----
-
-### 2026-08-19 02:54:52  #市場
-
-加元兌美元下跌0.3%，至日內低點1.3910加元兌1美元。
-
----
-
-### 2026-08-19 02:54:15  #MKT News
-
-Colombian government statistics show the earthquake death toll has risen to 304.
-
----
-
-### 2026-08-19 02:51:51  #MKT News #Important #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-【U.S.-Canada tariff talks stall; chances of deal waning】Sources say the Trump administration is lowering market expectations that a last-minute deal will avert new tariffs due to take effect Wednesday. U.S. officials privately put the odds of a Tuesday agreement at about 50/50 or lower as negotiators head to a midnight deadline when billions of dollars of Canadian goods would face 50% tariffs. It is unclear whether the signals reflect genuine progress or a U.S. tactic to gain leverage; Trump is expected to speak again with Canadian Prime Minister Carney on Tuesday after a Monday call.
-
----
-
-### 2026-08-19 02:49:40  #市場
-
-【芝加哥小麥期貨跌約1.8%，大豆油跌1.7%】週二（8月18日）紐約尾盤，彭博穀物分類指數跌0.55%，報32.2859點，美股開盤之前維持小幅上漲的狀態、之後持續下挫。CBOT玉米期貨跌0.36%，CBOT小麥期貨跌1.78%。CBOT大豆期貨跌0.06%，報12.1525美元/蒲式耳，豆粕期貨跌0.19%，豆油期貨跌1.71%。CBOT瘦肉豬期貨跌1.22%，活牛期貨漲0.17%，飼牛期貨漲0.44%。
-
----
-
-### 2026-08-19 02:47:13  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $91.02 a barrel, up $0.15, or 0.17%.
-
----
-
-### 2026-08-19 02:46:52  #市場 #國際
-
-【通脹、赤字與AI融資齊襲 多國長期主權債收益率升至十餘年高位】從通脹到債務驅動的人工智慧投資熱潮，長期債券正成為投資者各種擔憂的震中，各國政府因此付出更高融資成本。全球主權債的借貸成本都在飆升。本週，30年期美國國債收益率升至2007年以來的最高水平，法國30年期國債收益率重新整理2008年以來的紀錄，德國國債收益率升至2011年水平。英國國債收益率接近6%，類似期限的日本國債收益率也接近歷史最高。儘管這種走勢背後有各國市場自身的因素，但推動收益率上升的結構性力量具有全球性。
-
----
-
-### 2026-08-19 02:46:29  #市場 #國際
-
-美國證券交易委員會：擬議規則設定一項附條件安全港，豁免 1933 年《證券法》及 1934 年《證券交易法》中 “證券” 定義項下的 “投資合約” 認定。
-
----
-
-### 2026-08-19 02:46:10  #市場 #國際
-
-美國證券交易委員會：擬議規則包含兩項針對 1933 年《證券法》註冊要求的豁免條款，專門適用於部分涉及加密資產的投資合約。第一項為一次性豁免，允許四年期限內開展最高 500 萬美元的發行活動。第二項豁免將允許每 12 個月內開展最高 7500 萬美元的發行活動。
-
----
-
-### 2026-08-19 02:45:04  #公司
-
-OpenAI執行長Sam Altman：我們已暫停部分前沿模型強化學習訓練，以確保能夠針對當前全新能力水平，達到相應的對齊、安全與監控標準。模型迭代如今發展極快，我們此前便表態過，一旦認為模型能力的發展超出安全與對齊工作的推進速度，就會採取行動。
-我們高度重視人工智慧安全。我們認為整個行業必須就通用安全標準開展協同，但在此期間我們也會採取單邊行動。
-我們預計，安全層面的信心將愈發決定人工智慧的發展節奏。我們對正在開展的對齊工作持樂觀態度，同時依舊致力於讓前沿技術能力得到廣泛應用。
-
----
-
-### 2026-08-19 02:43:06  #國際
-
-美國證券交易委員會：相關措施旨在消除國內加密資產市場中負責任資本形成與創新面臨的阻礙。
-
----
-
-### 2026-08-19 02:42:17  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #XAUUSD
-
-Insiders say the US has lowered expectations that a US-Canada trade agreement will be reached on Tuesday. President Trump and Canadian Prime Minister Carney are expected to speak again on Tuesday.
-
----
-
-### 2026-08-19 02:42:07  #國際
-
-【以軍持續打擊加沙地帶 巴方稱襲擊致多人死傷】以色列國防軍18日發表多份宣告稱，持續對加沙地帶巴勒斯坦武裝人員發動打擊。巴方衛生部門當天也發表宣告表示，以軍在加沙城西部港口區發動的空襲導致20人死傷。以軍在宣告中稱，當天對身處加沙地帶沙提地區的“數名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）指揮官發動打擊”，具體目標是哈馬斯“努赫巴”部隊的一次會議。巴勒斯坦加沙地帶衛生部門同日發表宣告說，以軍在加沙城西部港口區發動空襲，導致包括一名兒童在內的6人死亡、14人受傷。另據加沙城希法醫院訊息人士和當地目擊者稱，以軍襲擊的是港口區一家咖啡館。由於爆炸威力巨大，一些遇難者的遺體落入海中。 (央視新聞)
-
----
-
-### 2026-08-19 02:40:30  #MKT News
-
-The International Criminal Court said its position is firm and unwavering and that it resolutely supports its staff.
-
----
-
-### 2026-08-19 02:40:09  #MKT News
-
-International Criminal Court said US measures targeting judges, prosecutors and staff carrying out ICC duties undermine the rule of law.
-
----
-
-### 2026-08-19 02:39:23  #國際
-
-知情人士：特朗普與卡尼預計將於週二再次會談。
-
----
-
-### 2026-08-19 02:38:44  #國際
-
-市場訊息：美國週二淡化了與加拿大達成貿易協議的預期。
-
----
-
-### 2026-08-19 02:37:51  #MKT News
-
-Bolivia's congress passed a censure motion against the economy minister, forcing his resignation.
-
----
-
-### 2026-08-19 02:37:23  #其他
-
-玻利維亞國會投票透過對經濟部長的譴責決議，迫使其卸任。
-
----
-
-### 2026-08-19 02:37:07  #國際
-
-美國國務卿魯比奧同哥倫比亞總統就美方支援事宜舉行會談。
-
----
-
-### 2026-08-19 02:36:41  #國際
-
-美國證券交易委員會發布數字資產監管提案。
-
----
-
-### 2026-08-19 02:35:02  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran security official says US rebuffed at Strait of Hormuz; Persian Gulf entering 'post‑American era'】Rezai, secretary of Iran’s Supreme National Security Council, said Washington cannot reopen the Strait of Hormuz, exposing a gap between US claims of control and its actual capability and marking the start of a Persian Gulf “post‑American order.” He wrote the gap “is greater than the 7,000‑mile distance between Washington and the Strait” and added “welcome to the Persian Gulf’s ‘post‑American order’” and “some dreams are too far from reality.” The remarks followed a social‑media image posted by US President Trump that labeled the Strait of Hormuz “US new territory.”
-
----
-
-### 2026-08-19 02:32:07  #MKT News
-
-【Major eastern Belgium wildfire preliminarily contained】A wildfire that started on the 14th in eastern Belgium has been preliminarily contained, the Liège provincial governor's office said on the 18th; about 3,000 hectares burned. The fire occurred in a nature reserve with peat wetlands, so underground smouldering may persist; fire services have reinforced ground firefighting resources.
-
----
-
-### 2026-08-19 02:31:20  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.95% to 949 yuan/gram, Shanghai silver main contract fell 2.95% to 15,620 yuan/kg, and SC crude oil main contract rose 0.85% to 580 yuan/barrel.
 
 ---
