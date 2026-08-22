@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-23 01:18:23",
-  "count": 16143,
+  "updated": "2026-08-23 01:22:35",
+  "count": 16139,
   "items": [
+    {
+      "id": "5053328",
+      "time": "2026-08-23 01:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：08月23日01時00分在日本本州島（北緯35.90度，東經140.25度）發生5.8級地震，震源深度70千米。"
+    },
+    {
+      "id": "5053327",
+      "time": "2026-08-23 01:19:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度海岸警衛隊：已救起2名倖存者。"
+    },
     {
       "id": "5053324",
       "time": "2026-08-23 01:14:39",
@@ -147506,65 +147522,6 @@
         "其他"
       ],
       "text": "【中國隊在第38屆國際資訊學奧賽斬獲3金1銀】第38屆國際資訊學奧林匹克競賽（IOI 2026）15日在烏茲別克首都塔什干落下帷幕。中國代表隊斬獲3金1銀，並取得團體第一名的優異成績。"
-    },
-    {
-      "id": "mkt:01a00671-65a2-7aab-904a-3f971694c4d6",
-      "time": "2026-08-16 01:21:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel will not remain silent about any attacks on its soldiers and will take tough measures against all threats."
-    },
-    {
-      "id": "mkt:01a00670-e929-7aab-904a-3071c243d2e5",
-      "time": "2026-08-16 01:20:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said the military is operating as directed and is eliminating threats to Israel in Lebanon and Gaza."
-    },
-    {
-      "id": "mkt:01a00670-8c17-7aab-904a-2c8356938ddc",
-      "time": "2026-08-16 01:20:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Hezbollah violated the Lebanese ceasefire and attacked Israeli forces inside the \"Yellow Line\"."
-    },
-    {
-      "id": "5042408",
-      "time": "2026-08-16 01:20:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：真主黨今日早晨破壞了黎巴嫩停火協議。"
-    },
-    {
-      "id": "mkt:01a0066f-8c9c-7aab-904a-21b509b589c1",
-      "time": "2026-08-16 01:19:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources in Yemen said Houthi forces launched three missiles at Marib."
-    },
-    {
-      "id": "mkt:01a0066f-01db-7aab-904a-1d6665b1066e",
-      "time": "2026-08-16 01:18:53",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Al Arabiya reported Yemeni military sources said government forces destroyed a Houthi weapons depot in Sarwah, Marib province, Yemen."
     }
   ]
 }
