@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 19:54:34_
-_本檔包含 3043 則快訊，約 652058 字_
+_更新時間：2026-08-22 20:54:05_
+_本檔包含 3042 則快訊，約 651288 字_
+
+---
+
+### 2026-08-17 21:37:42  #國際
+
+【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 21:35:50  #公司 #市場
+
+【華住美股開盤上漲8%】華住美股開盤上漲8%，華住集團2026年第二季度營收同比增長10.8%至71億元。
+
+---
+
+### 2026-08-17 21:35:47  #MKT News #LUNR.O #Impact bullish
+
+Intuitive Machines shares rose 5.7% after the company was awarded a multi-satellite project contract worth more than $600m.
+
+---
+
+### 2026-08-17 21:35:43  #公司 #市場
+
+直覺機器公司股價上漲5.7%，此前該公司獲授權開展價值超6億美元的多衛星專案。
+
+---
+
+### 2026-08-17 21:35:38  #其他
+
+美股盤初，主要行業ETF漲跌不一，半導體ETF漲超1%，全球科技股指數ETF漲1%，日常消費品ETF跌近1%。
+
+---
+
+### 2026-08-17 21:34:10  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises on Energy Gains — The Ibovespa rose more than 0.5% to trade close to 168,000 on Monday, rebounding from a seven-month low with support from the energy sector. Petrobras added over 1% as oil prices rose amid persistent tensions in the Middle East. Prio (+1%) and Brava (+1%) also gained. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round. Heavyweight shares also supported the index, with Axia and Sabesp rising over 1% and WEG adding nearly 1%. In contrast, financials traded lower amid energy-driven inflation concerns. Itaú, Banco do Brasil and Itaúsa shed about 0.5%, while Bradesco lost 1%. Vale edged lower despite higher iron ore prices.
+
+---
+
+### 2026-08-17 21:33:47  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+Fullgoal Investment Research Institute cut its gold price targets, lowering the end-2026 target to $4,900–$5,100 per ounce from $5,300–$5,500 and the 2027 target to $5,400–$5,600 per ounce from $5,800–$6,000, while still forecasting long-term upside for gold.
+
+---
+
+### 2026-08-17 21:33:09  #國際
+
+以色列媒體：內塔尼亞胡與庫什納已達成協議，以色列軍隊將保持"行動自由”。
+
+---
+
+### 2026-08-17 21:33:06  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
+
+S&P 500 opened down 0.93 points (-0.01%) at 7,784.80 on Monday, Aug. 17; Dow Jones Industrial Average opened down 135.27 points (-0.25%) at 53,597.14; Nasdaq Composite opened up 47.27 points (0.18%) at 26,776.43.
+
+---
+
+### 2026-08-17 21:32:39  #其他
+
+富國銀行投資研究所將2027年末金價目標區間從此前預測的每盎司5800-6000美元下調至每盎司5400-5600美元。
+
+---
+
+### 2026-08-17 21:31:59  #其他
+
+費城半導體指數漲1.5%，報12610.92點。
+
+---
+
+### 2026-08-17 21:31:54  #公司 #國際
+
+市場訊息：泛大西洋投資集團近期已向美國證券交易委員會更新 IPO 申報檔案。
+
+---
+
+### 2026-08-17 21:31:52  #MKT News
+
+The US Supreme Court declined to hear Trump’s renewed bid to review his appeal of a $5 million judgment in favor of E. Jean Carroll.
+
+---
+
+### 2026-08-17 21:31:48  #市場
+
+英偉達(NVDA.O)上漲0.8%，OpenAI承諾將在2030年前大規模部署英偉達AI基礎設施。
+
+---
+
+### 2026-08-17 21:31:45  #市場 #焦點
+
+納斯達克中國金龍指數漲超0.5%，華住酒店集團漲8.78%，亞朵集團漲2.19%，新東方漲2.23%，世紀互聯漲2.11%，小鵬汽車漲2.14%。
+
+---
+
+### 2026-08-17 21:31:42  #市場
+
+禮來以3.7億美元達成藥物發現合作，Omniab股價大漲19.5%。
+
+---
+
+### 2026-08-17 21:31:28  #MKT News #Star Stocks #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) shares rose 0.8%. OpenAI pledged to deploy NVIDIA AI infrastructure at scale by 2030.
+
+---
+
+### 2026-08-17 21:31:25  #國際
+
+市場訊息：美國最高法院駁回特朗普關於就陪審團裁定伊·讓·卡羅爾獲賠500萬美元一案提起上訴的再次申請。
+
+---
+
+### 2026-08-17 21:30:51  #MKT News #Important #Dow #Impact bearish #Nasdaq100 #Impact bullish #MU.O
+
+U.S. open: Dow down 0.3%, S&P 500 near flat, Nasdaq +0.2%. Storage stocks led gains: Micron Technology (MU.O) +3.6%, SanDisk (SNDK.O) +4.5%. Alphabet (GOOG.O) +0.2%; Berkshire Hathaway continued adding to its Alphabet stake in Q2. Alibaba (BABA.N) +1.6% after agreeing to sell its gaming unit for $1.5 bln.
+
+---
+
+### 2026-08-17 21:30:49  #市場
+
+道瓊斯工業平均指數開盤後下跌122.81點，跌幅0.23%，報53609.60點。
+
+---
+
+### 2026-08-17 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指跌0.24%，標普500指數漲0.04%，納指漲0.19%。閃迪漲4.61%，美光漲3.76%，L3 HARRIS TECHNOLOGIES INC跌3.15%，工時公司跌2.42%。“七姐妹”方面：亞馬遜漲0.80%，英偉達漲0.79%，蘋果漲0.39%，谷歌漲0.20%，Meta Platforms跌0.70%，特斯拉跌1.00%，微軟跌1.04%。
+
+---
+
+### 2026-08-17 21:30:30  #市場
+
+多倫多S&P/TSX綜合股指開盤下跌42.89點，跌幅0.12%，報36687.38點。
+
+---
+
+### 2026-08-17 21:29:34  #公司 #國際
+
+【4家深企獲美國蓋倫獎提名】近日，享有“醫藥界諾貝爾獎”之稱的美國蓋倫獎（PrixGalienUSA）公佈2026年提名名單。深圳新銳科技企業萊芒生物、默達生物、瑞圖生物、深信生物入圍“最佳初創公司（BestStartup）”獎項。值得一提的是，萊芒生物、默達生物這兩家企業都是由晶泰科技孵化，也是繼2025年晶泰孵化企業希格生科獲得“最佳生物技術產品獎”提名後，晶泰生態圈企業連續第二年登上蓋倫獎榜單。（深圳釋出）
+
+---
+
+### 2026-08-17 21:29:12  #MKT News #Commodities #Energy
+
+Fullgoal Investment Research Institute upgraded its rating on the global energy sector to Neutral from Unfavorable.
+
+---
+
+### 2026-08-17 21:27:15  #市場
+
+【Evercore ISI：標普 500 指數或觸及 9000 點】Evercore ISI 策略師朱利安・伊曼紐爾表示，標普 500 指數有望在 12 個月內達到 9000 點，較當前水平大約有 16% 的上行空間。他認為，經濟衰退、長期收益率飆升、投資者極度追漲情緒這些傳統牛市終結因素目前尚未顯現。伊曼紐爾還指出，人工智慧熱潮、企業低槓桿水平以及投資者多元化持倉將帶來進一步上漲動力。其基準情景下標普 500 指數目標位仍為 7750 點。
+
+---
+
+### 2026-08-17 21:26:32  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #AUDUSD #Impact bullish #GOOG.O
+
+Alphabet (GOOG.O) plans to raise $3.6 billion in its inaugural Australian bond offering.
+
+---
+
+### 2026-08-17 21:25:33  #央行 #國際
+
+富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。美聯儲將在2027年加息25個基點，使基準利率升至4.00%-4.25%區間，此前預測為維持利率不變。
 
 ---
 
@@ -18186,173 +18348,5 @@ Russia's foreign ministry said its spokesman has asked the United States and Tur
 ### 2026-08-15 20:59:49  #國際
 
 【美國弗吉尼亞州立大學槍擊事件致5人受傷】當地時間8月15日，美國弗吉尼亞州立大學發生槍擊事件，造成5人受傷，其中1人情況危急。據悉，槍擊事件發生在當天凌晨1時30分左右，地點位於該校一棟學生宿舍樓外。校方表示，事件涉及多名嫌疑人。警方趕到現場後發現5人遭槍擊，傷者隨後被送往附近醫院接受治療，其中1人情況危急，其餘4人傷勢沒有生命危險。事件發生後，校方一度對校園實施封鎖。目前警方仍在現場展開調查，校園內有大批執法人員部署。截至目前，尚不清楚是否已有嫌疑人被捕。（央視新聞）
-
----
-
-### 2026-08-15 20:53:04  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-【Iran says it reached agreement with Oman on Strait of Hormuz transit plan】On Aug 15 local time, Iranian foreign ministry spokesperson BAGHAEI said talks with Oman continued despite US obstruction and the two sides have reached an agreement on a transit plan for the Strait of Hormuz shipping lane.
-
----
-
-### 2026-08-15 20:52:00  #公司
-
-【華天科技：公司與智元進行業務專案合作】有投資者向華天科技(002185)提問：公司與智元機器人有合作？華天科技8月15日在互動平臺回覆，公司與智元進行業務專案合作。
-
----
-
-### 2026-08-15 20:50:55  #國際
-
-【伊朗稱已與阿曼就霍爾木茲海峽通行方案達成協議】伊朗外交部發言人巴加埃表示，儘管美國從中阻撓，伊朗和阿曼之間的會談仍在積極推進，雙方已就霍爾木茲海峽航道通行方案達成協議。
-
----
-
-### 2026-08-15 20:48:26  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-HEZBOLLAH said Israel's attacks in southern Lebanon will be met with a corresponding response.
-
----
-
-### 2026-08-15 20:45:27  #MKT News
-
-Indonesia's West disaster management agency said deaths from an earthquake in eastern Indonesia have risen to 47.
-
----
-
-### 2026-08-15 20:45:21  #國際
-
-印尼災害管理機構：印尼東部地震死亡人數已上升至47人。
-
----
-
-### 2026-08-15 20:42:07  #國際
-
-【韓國西江大學18萬條個人資訊洩露 朴槿惠或在其中】韓國西江大學15日確認，該校約18萬條個人資訊洩露，涉及在校學生、畢業生、教職員和其他人員，據信包括韓國前總統朴槿惠的個人資訊。（新華社）
-
----
-
-### 2026-08-15 20:41:00  #其他
-
-【聯合國追加資金應對埃博拉疫情】聯合國分管人道主義事務的副秘書長托馬斯·弗萊徹14日說，埃博拉病毒正在剛果（金）“佔據上風”。聯合國將追加3050萬美元撥款，增派工作人員，擴大應對疫情行動。弗萊徹14日主持了聯合國的機構間常設委員會緊急會議。他當天發表宣告說，本次埃博拉疫情是有記錄以來蔓延最快的一次，目前“每30分鐘就有一人在這次疫情中死亡”。（新華社）
-
----
-
-### 2026-08-15 20:35:42  #MKT News #Important
-
-Yemen's military vows a strong response to a Houthi attack on the port city of Mocha, Al Arabiya reports.
-
----
-
-### 2026-08-15 20:35:17  #MKT News #Commodities #Energy
-
-Oman News Agency (ONA) said oil contamination has reached about 12 km of shoreline near Ras Madrakah; Masirah Island has not been affected. Cleanup operations on the leaking oil tanker have progressed.
-
----
-
-### 2026-08-15 20:34:04  #MKT News #Market Regions #Greater China
-
-【China's Henan seals 117m breach on Jialu River east‑bank levee in Zhoukou】Emergency teams working day and night sealed a 117‑meter breach on the east‑bank levee of the Jialu River in Chuanhui District, Zhoukou, Henan at 20:29 on Aug. 15.
-
----
-
-### 2026-08-15 20:32:04  #國際
-
-美國地質調查局：印尼ENDE西北 78 公里處發生 5.2 級地震。
-
----
-
-### 2026-08-15 20:30:34  #其他
-
-【河南周口川匯區賈魯河東岸堤防潰口成功合龍】記者瞭解到，經過多方應急搶險力量晝夜不停努力，8月15日晚上8時29分，河南省周口市川匯區賈魯河東岸堤防117米潰口成功合龍。（央視新聞）
-
----
-
-### 2026-08-15 20:18:31  #公司
-
-【中國海誠中標雲南沃森生物能碳管理平臺專案】據中國海誠訊息，近日，中國海誠中標雲南沃森生物能碳管理平臺專案。此次中標是公司在生物醫藥能碳服務領域的重要突破，也進一步拓寬了公司在生物疫苗賽道的新業務佈局。
-
----
-
-### 2026-08-15 20:16:45  #國際
-
-【美國弗吉尼亞州立大學發生槍擊事件，多人中槍】據美國媒體15日報道，美國弗吉尼亞州立大學發生槍擊事件，多人中槍，校園隨即進入封鎖狀態。（新華社）
-
----
-
-### 2026-08-15 20:14:29  #國際
-
-以色列國防軍：我們對黎巴嫩的空襲是對真主黨違反停火協議的回應。
-
----
-
-### 2026-08-15 20:13:33  #國際
-
-【印尼7.7級地震中三名中國遊客受輕傷】從中國駐登巴薩總領館獲悉，在印尼發生的7.7級地震中，有3名中國遊客受輕傷，目前均無大礙。據瞭解，其中一名中國遊客在地震發生後緊急避險過程中，因慌亂不慎頭部撞到牆壁。另外兩名遊客是腰部扭傷。目前，3名遊客傷勢均較輕。（央視新聞）
-
----
-
-### 2026-08-15 20:11:16  #其他
-
-【2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇崑山舉辦】15日，2026兩岸青年企業家菁英論壇暨兩岸青年研學交流活動在江蘇省崑山市開幕。此次活動由兩岸企業家峰會主辦，主題是“青創成就夢想 AI賦能未來”，約450名兩岸青年企業家代表、青年學生等嘉賓參加活動。（新華社）
-
----
-
-### 2026-08-15 20:10:40  #其他
-
-【粵港澳大灣區首開至鎮江方向快速班列】8月15日，隨著一聲汽笛長鳴，一趟滿載著汽車零部件、日用百貨的棚車班列從廣州東部公鐵聯運樞紐(增城西站)緩緩啟動，預計將於8月17日上午直達江蘇鎮江上隍站。這標誌著粵港澳大灣區至江蘇鎮江方向的物流新通道正式打通。
-
----
-
-### 2026-08-15 20:07:32  #MKT News
-
-State media reported Omani authorities said about 12 km of coastline in the Ras Madrakah area has been affected by oil pollution.
-
----
-
-### 2026-08-15 20:06:12  #其他
-
-阿曼稱拉斯馬德拉卡地區約12公里海岸線受石油汙染影響。
-
----
-
-### 2026-08-15 20:03:44  #國際
-
-【自然資源部海嘯預警中心：印尼6.8級地震不會引發海嘯】2026年08月15日18時54分（北京時間），印尼蘇門答臘島北部海域（2.95°N,99.05°E）發生6.8級地震，震源深度為170千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。
-
----
-
-### 2026-08-15 20:02:11  #MKT News
-
-【Commemoration of Jiang Zemin’s 100th birth anniversary set for Aug. 17; Xi Jinping to attend and speak】A state ceremony marking the 100th anniversary of former leader Jiang Zemin’s birth will be held at 10:00 a.m. on August 17 at the Great Hall of the People in Beijing. Xi Jinping, General Secretary of the Communist Party, President and CMC chairman, will attend and deliver a major address. Chinese state broadcasters will provide live coverage.
-
----
-
-### 2026-08-15 20:01:15  #其他
-
-【紀念江澤民同志誕辰100週年大會17日上午在京隆重舉行 習近平將出席大會並發表重要講話】紀念江澤民同志誕辰100週年大會將於8月17日上午10時在人民大會堂隆重舉行。中共中央總書記、國家主席、中央軍委主席習近平將出席大會並發表重要講話。屆時，中央廣播電視總檯、新華網將對大會進行現場直播，人民網、央視網、中國網等中央重點新聞網站和人民日報客戶端、新華社客戶端、央視新聞客戶端等新媒體平臺同步轉播。（央視新聞）
-
----
-
-### 2026-08-15 20:00:54  #市場
-
-【多部門會商部署重點地區防汛搶險工作】8月15日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房和城鄉建設部、交通運輸部等部門以及黑龍江、江蘇、浙江、安徽、河南、廣東等重點省份聯合會商，研判近期強降雨影響，研究部署重點地區防汛搶險工作。國家防總針對太湖流域汛情提升針對江蘇的防汛應急響應至三級，啟動針對浙江的防汛四級應急響應，增派工作組趕赴江蘇協助指導抗洪搶險工作；繼續維持針對河南的防汛三級應急響應、針對安徽的防汛四級應急響應。國家防減救災委維持針對浙江、河南、陝西、黑龍江的國家四級救災應急響應。應急管理部維持針對浙江、安徽、河南、湖北的地質災害四級應急響應。會商指出，太湖流域發生流域性較大洪水，太湖水位上漲較快，周邊河網多個站點水位超警戒、超保證；淮河流域沙潁河和長江滁河等部分河段維持高水位執行，堤防防守壓力大；浙江、福建、廣東等地仍有強暴雨，局地發生山洪、地質災害的風險較高，防汛救災形勢嚴峻複雜。
-
----
-
-### 2026-08-15 20:00:03  #國際 #原創
-
-【伊朗稱3名飛行員被卡達扣押六個月】伊朗方面稱，3月針對美軍基地的空襲行動中伊朗一架蘇‑24 戰鬥機墜毀後，三名飛行員被卡達部隊生擒，已在該國被扣押約六個月。伊朗武裝部隊總參謀部失蹤人員委員會負責人穆罕默德・巴蓋爾扎德在致紅十字國際委員會主席的一封信中披露了上述情況。信中列明三名飛行員為賈瓦德・薩利希、阿卜杜勒馬吉德・達什蒂安、奧姆蘭・貝赫拉維西安。巴蓋爾扎德表示，在扣押期間，卡達不允許這三人與家人會面、通話，也拒絕伊朗官員瞭解他們的相關情況。伊朗官員此前曾表示，三名飛行員下落不明，現有相關資訊並不完整，僅稱在針對卡達的行動過後，另一名飛行員馬吉德・卡澤米的遺體已運回伊朗。
-
----
-
-### 2026-08-15 19:57:39  #國際
-
-【印尼7.7級地震中2名中國公民受輕傷】記者從中國駐登巴薩總領館瞭解到，暫未接到中國公民死亡的報告。地震造成2名中國公民受輕傷，總領館已為其提供必要領事協助。印尼外交部領事司通報說，此次地震暫未導致外國公民死亡。（新華社）
-
----
-
-### 2026-08-15 19:56:01  #MKT News #Brent #Impact bullish #WTI
-
-【UAE vows to defend freedom of navigation in Strait of Hormuz after attacks on ADNOC tankers】Abu Dhabi-based Arab Sky News quoted UAE presidential foreign policy adviser Anwar Gargash saying repeated attacks on ADNOC tankers will not deter the UAE from pursuing a steady, measured policy. Gargash said UAE policy is built on deterrence, diplomacy and adherence to international law and that it will, under international law, protect freedom of navigation and access through the Strait of Hormuz. He added the UAE will defend its sovereignty and interests while prioritizing dialogue and diplomatic solutions and will push to strengthen a unified Gulf position to safeguard regional security and national interests.
 
 ---

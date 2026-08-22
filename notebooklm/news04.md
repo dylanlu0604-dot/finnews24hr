@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 19:54:34_
-_本檔包含 3334 則快訊，約 651918 字_
+_更新時間：2026-08-22 20:54:05_
+_本檔包含 3322 則快訊，約 651793 字_
+
+---
+
+### 2026-08-19 07:26:24  #其他
+
+【多重因素推升成本 儲能產業鏈“漲”聲響起】受原材料價格波動、電池消費稅新政落地、市場需求景氣等因素影響，近期多家儲能產業鏈企業宣佈漲價，電芯、PCS、儲能系統等產品價格普遍上調，最高幅度達30%。記者採訪獲悉，成本壓力沿產業鏈向下傳導，各環節承壓程度分化，整合環節壓力凸顯。多位專家認為，本輪儲能產品漲價實質為成本修復與價值重估，有望推動行業轉向高質量價值競爭。（上海證券報）
+
+---
+
+### 2026-08-19 07:25:47  #其他
+
+【經濟日報：房地產拉動投資方式轉向城市更新】當前，房地產市場中的積極因素仍在不斷累積。與過去增量時代密切相關的房地產開發投資、房屋施工面積、新開工面積、竣工面積、新建商品房銷售等指標逐漸下降，對此應理性看待。1月份至7月份，全國房地產開發投資43009億元，同比下降19.2%。房地產開發投資下降、新增供給減少，既是各地落實嚴控增量的反映，也是市場自發調整的結果。從發達國家房地產發展經驗看，房地產進入存量時代後，依然是產業鏈長、帶動面廣的國民經濟重要產業乃至支柱產業，仍將對經濟增長作出舉足輕重的貢獻。進入存量時代，房地產對宏觀經濟的貢獻將從大規模增量建設為主轉向存量提質增效和相關服務為主。其中，房地產拉動投資的方式將轉向城市更新，城市更新中的城中村、危舊房、老舊小區更新改造等將成為穩投資的重要力量。
+
+---
+
+### 2026-08-19 07:25:09  #公司
+
+【國產創新藥迎三重業績拐點 CXO龍頭利潤與訂單同步創出歷史新高】創新藥上市公司2026年半年報、業績預告集中披露，行業正式迎來商業化單品放量、出海BD（商務拓展）兌現、上游CXO（醫藥研發生產外包）全鏈條高景氣三重業績拐點。既有澤布替尼、瑪仕度肽等爆款產品實現規模化盈利，還有石藥集團、恆瑞醫藥、信達生物接連落地百億級出海BD大單，CXO龍頭利潤與訂單同步創出歷史新高。在業內專家看來，創新藥上半年的業績表現並非短期脈衝，而是從單一產品出海、單一管線授權邁向全產業鏈體系化的轉折點；但對標強生、禮來等跨國藥企，國內企業還存在著顯著的差距，產業追趕仍需長期耕耘。
+
+---
+
+### 2026-08-19 07:24:40  #國際
+
+【美國俄亥俄州一工業建築爆炸起火 兩人死亡】當地時間18日，美國俄亥俄州托萊多一家工業回收企業發生爆炸起火，導致兩名工人死亡。托萊多消防隊長艾莉森·阿姆斯特朗表示，已經發現了兩名員工的遺體，另外有兩三名員工受了輕傷。阿姆斯特朗表示，截至當天下午，大火仍在燃燒。目前尚無初步跡象表明爆炸的原因。
+
+---
+
+### 2026-08-19 07:23:35  #宏觀
+
+【經濟日報金觀平：支援基礎研究貴在長期穩定】文章指出，近日召開的中央政治局會議強調“加強對基礎研究的長期穩定支援”。這一決策體現了對基礎研究長期性、艱鉅性、探索性的深刻認識。推進基礎研究不能急於求成，須保持戰略定力和歷史耐心，以長期穩定的支援為基礎研究保駕護航，夯實建設科技強國的根基。當前，我國在一些關鍵核心技術領域長期受制於人，很多困境都源於基礎理論研究儲備不足。關鍵技術買不來、要不來，唯有依靠基礎研究自主突破才能從根本上解決問題。實現高水平科技自立自強，必須重視基礎研究，鍛造過硬的原始創新能力。要逐步提高基礎研究經費佔比，體系化佈局建設重大科技基礎設施，健全符合基礎研究特點的分類評價體系。
+
+---
+
+### 2026-08-19 07:22:47  #國際
+
+【人民日報：歐洲對華電動汽車認知逆轉的背後】法國BFM商業頻道今年播出的專題節目《汽車行業：中國的崛起》，在歐洲產業界引發廣泛而深刻的討論。節目嘉賓普遍認為，中國電動汽車已憑藉全產業鏈優勢與高效迭代能力在歐洲市場站穩腳跟，全球汽車產業重心東移的態勢愈發清晰。 從“後來者”到“超越者”，一場關於中國汽車的認知逆轉，正在歐洲悄然發生。歐洲汽車製造商協會統計顯示，今年上半年，中國車企在歐洲市場的整體份額已攀升至9.5%，6月單月更是觸及10.9%，遠早於此前行業普遍預估的“2030年突破10%”的時間節點。今年5月，中國品牌在西歐主要市場的新車註冊量首次超越日本車企，躍居亞洲品牌首位。銷量數字的快速重新整理，成為扭轉歐洲固有印象的第一推動力。
+
+---
+
+### 2026-08-19 07:22:00  #公司
+
+【雙第一！深圳年內新增境內外上市公司28家，首發募資總額962.11億元】Wind資料顯示，截至8月18日，深圳今年新增境內外上市公司28家，首發募資總額達962.11億元，雙雙位居全國城市第一。深企密集上市背後，一條清晰的產業邏輯線逐漸浮現——赴港上市開啟國際融資通道，以優質專案對接資本活水，用硬科技底色托起創新底氣，三重力量交織，共同鑄就了深圳領跑的實力與成色。
+
+---
+
+### 2026-08-19 07:21:30  #公司
+
+【Anthropic上市前信貸安排料突破100億美元，銀行藉機爭奪IPO角色】8月19日，據報道，Anthropic的迴圈信貸安排預計將超過約100億美元的目標規模。Anthropic擬擴大的迴圈信貸安排吸引到多家銀行參與。據悉，Anthropic已要求在這筆信貸安排中最積極參與的牽頭行各提供約12.5億美元貸款，下一層級的活躍銀行則被鼓勵提供約10億美元貸款。參與程度較低的銀行承諾金額約7.5億美元或更低。通常在銀團貸款中，銀行承諾的金額越高，從借款人獲得的費用也越高。如果借款人預計將進行大型資本市場交易，銀行在貸款中的排名越靠前，往往也意味著其有可能在後續交易中獲得更重要的角色。
+
+---
+
+### 2026-08-19 07:21:09  #公司
+
+【向上遊挺進 光模組產業“嬗變”】日前，中際旭創宣佈擬17.47億元協議受讓中石科技10.47%股權，成為光模組公司向產業鏈上游佈局的又一案例。記者梳理發現，國內外光通訊公司普遍在沿著光元件、光晶片、外延片、襯底材料、高純金屬原材料的產業路線，加速往產業鏈上游佈局。有業內人士在接受記者採訪時表示，光通訊公司紛紛往上游延伸佈局的直接原因是，隨著智算中心（AIDC）對光模組需求的快速增長、技術高速迭代，光晶片成為整個產業鏈的產能瓶頸，也直接決定光模組效能，向上遊佈局的本質是鎖定晶片產能、縮短研發週期，以保障交付能力。從產業鏈價值角度來看，隨著光模組向800G、1.6T甚至3.2T迭代，光晶片的成本佔比快速上升，利潤快速向產業鏈中游的晶片環節集中，向上遊佈局、IDM模式，成為構建長期競爭力的護城河。（上海證券報）
+
+---
+
+### 2026-08-19 07:20:28  #其他
+
+【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。（上海證券報）
+
+---
+
+### 2026-08-19 07:20:01  #其他
+
+【澳大利亞交易報告與分析中心發現多家大型貸款機構存在協同房貸欺詐】據一份宣告，監管機構澳大利亞交易報告與分析中心（AUSTRAC）旗下金融情報聯盟（Fintel Alliance），偵破澳大利亞信貸行業存在協同房貸欺詐行為以及系統性漏洞。該機構對澳大利亞 10 家主要銀行的資料開展聯合分析，發現數億澳元規模的可疑欺詐貸款，相關涉案房產大多位於悉尼。涉嫌房貸欺詐手段包括虛報收入、偽造就職資訊，以及編造、無法核實的經營活動，以此騙取貸款審批。該專項專案還發現，有案件利用境外資金或第三方資金完成房產交割以及償還房貸。此類違規行為並非集中於某一家貸款機構或是某一類借款人群體。反覆出現的風險警示訊號包括：偽造、具有誤導性的檔案；多份貸款申請反覆使用同一批房貸經紀人、會計師以及律所。金融情報聯盟已經將涉嫌涉案的個人及機構名單移交執法部門與監管機構。
+
+---
+
+### 2026-08-19 07:19:44  #國際
+
+【全球資管巨頭二季度持倉“大洗牌” 科技股操作分歧顯著】隨著美國證券交易委員會（SEC）13F持倉檔案披露完成，全球頂級資管機構的投資“路線圖”浮出水面。最新資料顯示，以貝萊德、橋水為代表的華爾街巨頭在科技股，尤其是半導體產業鏈上，展開了激烈的多空博弈，調倉方向涇渭分明。與此同時，太空經濟以及多個AI產業鏈細分賽道正獲得越來越多長線資金的關注。（上海證券報）
+
+---
+
+### 2026-08-19 07:19:04  #其他
+
+【奮達科技聯合銀河通用打造的過載機器人實現量產落地】近日，奮達科技聯合具身智慧企業銀河通用官宣：雙方共同打造的S1過載具身智慧機器人已完成產業化批次交付，正式入駐製造業巨頭動力電池產線。目前，奮達科技與銀河通用正全力推進後續產能擴建與自動化產線升級，共同向更深層次的規模化交付發起衝擊。未來，雙方將繼續深化在硬體工程化、技術標準共建及供應鏈等方面的合作。
+
+---
+
+### 2026-08-19 07:18:41  #國際
+
+【國產動漫加速出海 中國VR體驗走向東南亞】本週，CMG電影文化嘉年華天津專場精彩繼續。今年暑期檔，《八仙！》等多部國產動畫電影上映以來票房穩步走高，口碑持續發酵，並先後登陸海外市場。在天津國家動漫產業綜合示範園，不少動漫企業正透過多元途徑，拓展動漫出海新空間。一家企業的VR裝置體驗專案已經在馬來西亞、越南、印度尼西亞等國落地運營，累計接待人數超過3萬人次，海外營收達500萬元。（央視）
+
+---
+
+### 2026-08-19 07:17:54  #公司
+
+【逾百家A股公司釋出半年度利潤分配方案 合計分紅金額超1000億元】隨著半年報披露步入高峰期，A股上市公司中期分紅預案密集出爐。截至目前，已有上百家公司釋出2026年半年度利潤分配方案，合計分紅金額達1018億元，高於去年同期水平。越來越多上市公司加入中期分紅行列，分紅規模同步走高。南開大學金融學教授田利輝認為，中期分紅走向常態化，將為投資者帶來持股體驗與估值邏輯的雙重變化。推行多次分紅機制，是上市公司用實際行動彰顯對自身現金流穩健性的充足信心，有助於引導市場調整價值評判標尺，逐步擺脫單純追逐淨利潤指標的慣性，更加聚焦企業真實分紅能力與現金回報水平。
 
 ---
 
@@ -19994,167 +20084,5 @@ Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index
 ### 2026-08-17 21:38:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
-
----
-
-### 2026-08-17 21:37:42  #國際
-
-【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）
-
----
-
-### 2026-08-17 21:35:50  #公司 #市場
-
-【華住美股開盤上漲8%】華住美股開盤上漲8%，華住集團2026年第二季度營收同比增長10.8%至71億元。
-
----
-
-### 2026-08-17 21:35:47  #MKT News #LUNR.O #Impact bullish
-
-Intuitive Machines shares rose 5.7% after the company was awarded a multi-satellite project contract worth more than $600m.
-
----
-
-### 2026-08-17 21:35:43  #公司 #市場
-
-直覺機器公司股價上漲5.7%，此前該公司獲授權開展價值超6億美元的多衛星專案。
-
----
-
-### 2026-08-17 21:35:38  #其他
-
-美股盤初，主要行業ETF漲跌不一，半導體ETF漲超1%，全球科技股指數ETF漲1%，日常消費品ETF跌近1%。
-
----
-
-### 2026-08-17 21:34:10  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises on Energy Gains — The Ibovespa rose more than 0.5% to trade close to 168,000 on Monday, rebounding from a seven-month low with support from the energy sector. Petrobras added over 1% as oil prices rose amid persistent tensions in the Middle East. Prio (+1%) and Brava (+1%) also gained. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round. Heavyweight shares also supported the index, with Axia and Sabesp rising over 1% and WEG adding nearly 1%. In contrast, financials traded lower amid energy-driven inflation concerns. Itaú, Banco do Brasil and Itaúsa shed about 0.5%, while Bradesco lost 1%. Vale edged lower despite higher iron ore prices.
-
----
-
-### 2026-08-17 21:33:47  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-Fullgoal Investment Research Institute cut its gold price targets, lowering the end-2026 target to $4,900–$5,100 per ounce from $5,300–$5,500 and the 2027 target to $5,400–$5,600 per ounce from $5,800–$6,000, while still forecasting long-term upside for gold.
-
----
-
-### 2026-08-17 21:33:09  #國際
-
-以色列媒體：內塔尼亞胡與庫什納已達成協議，以色列軍隊將保持"行動自由”。
-
----
-
-### 2026-08-17 21:33:06  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
-
-S&P 500 opened down 0.93 points (-0.01%) at 7,784.80 on Monday, Aug. 17; Dow Jones Industrial Average opened down 135.27 points (-0.25%) at 53,597.14; Nasdaq Composite opened up 47.27 points (0.18%) at 26,776.43.
-
----
-
-### 2026-08-17 21:32:39  #其他
-
-富國銀行投資研究所將2027年末金價目標區間從此前預測的每盎司5800-6000美元下調至每盎司5400-5600美元。
-
----
-
-### 2026-08-17 21:31:59  #其他
-
-費城半導體指數漲1.5%，報12610.92點。
-
----
-
-### 2026-08-17 21:31:54  #公司 #國際
-
-市場訊息：泛大西洋投資集團近期已向美國證券交易委員會更新 IPO 申報檔案。
-
----
-
-### 2026-08-17 21:31:52  #MKT News
-
-The US Supreme Court declined to hear Trump’s renewed bid to review his appeal of a $5 million judgment in favor of E. Jean Carroll.
-
----
-
-### 2026-08-17 21:31:48  #市場
-
-英偉達(NVDA.O)上漲0.8%，OpenAI承諾將在2030年前大規模部署英偉達AI基礎設施。
-
----
-
-### 2026-08-17 21:31:45  #市場 #焦點
-
-納斯達克中國金龍指數漲超0.5%，華住酒店集團漲8.78%，亞朵集團漲2.19%，新東方漲2.23%，世紀互聯漲2.11%，小鵬汽車漲2.14%。
-
----
-
-### 2026-08-17 21:31:42  #市場
-
-禮來以3.7億美元達成藥物發現合作，Omniab股價大漲19.5%。
-
----
-
-### 2026-08-17 21:31:28  #MKT News #Star Stocks #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) shares rose 0.8%. OpenAI pledged to deploy NVIDIA AI infrastructure at scale by 2030.
-
----
-
-### 2026-08-17 21:31:25  #國際
-
-市場訊息：美國最高法院駁回特朗普關於就陪審團裁定伊·讓·卡羅爾獲賠500萬美元一案提起上訴的再次申請。
-
----
-
-### 2026-08-17 21:30:51  #MKT News #Important #Dow #Impact bearish #Nasdaq100 #Impact bullish #MU.O
-
-U.S. open: Dow down 0.3%, S&P 500 near flat, Nasdaq +0.2%. Storage stocks led gains: Micron Technology (MU.O) +3.6%, SanDisk (SNDK.O) +4.5%. Alphabet (GOOG.O) +0.2%; Berkshire Hathaway continued adding to its Alphabet stake in Q2. Alibaba (BABA.N) +1.6% after agreeing to sell its gaming unit for $1.5 bln.
-
----
-
-### 2026-08-17 21:30:49  #市場
-
-道瓊斯工業平均指數開盤後下跌122.81點，跌幅0.23%，報53609.60點。
-
----
-
-### 2026-08-17 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指跌0.24%，標普500指數漲0.04%，納指漲0.19%。閃迪漲4.61%，美光漲3.76%，L3 HARRIS TECHNOLOGIES INC跌3.15%，工時公司跌2.42%。“七姐妹”方面：亞馬遜漲0.80%，英偉達漲0.79%，蘋果漲0.39%，谷歌漲0.20%，Meta Platforms跌0.70%，特斯拉跌1.00%，微軟跌1.04%。
-
----
-
-### 2026-08-17 21:30:30  #市場
-
-多倫多S&P/TSX綜合股指開盤下跌42.89點，跌幅0.12%，報36687.38點。
-
----
-
-### 2026-08-17 21:29:34  #公司 #國際
-
-【4家深企獲美國蓋倫獎提名】近日，享有“醫藥界諾貝爾獎”之稱的美國蓋倫獎（PrixGalienUSA）公佈2026年提名名單。深圳新銳科技企業萊芒生物、默達生物、瑞圖生物、深信生物入圍“最佳初創公司（BestStartup）”獎項。值得一提的是，萊芒生物、默達生物這兩家企業都是由晶泰科技孵化，也是繼2025年晶泰孵化企業希格生科獲得“最佳生物技術產品獎”提名後，晶泰生態圈企業連續第二年登上蓋倫獎榜單。（深圳釋出）
-
----
-
-### 2026-08-17 21:29:12  #MKT News #Commodities #Energy
-
-Fullgoal Investment Research Institute upgraded its rating on the global energy sector to Neutral from Unfavorable.
-
----
-
-### 2026-08-17 21:27:15  #市場
-
-【Evercore ISI：標普 500 指數或觸及 9000 點】Evercore ISI 策略師朱利安・伊曼紐爾表示，標普 500 指數有望在 12 個月內達到 9000 點，較當前水平大約有 16% 的上行空間。他認為，經濟衰退、長期收益率飆升、投資者極度追漲情緒這些傳統牛市終結因素目前尚未顯現。伊曼紐爾還指出，人工智慧熱潮、企業低槓桿水平以及投資者多元化持倉將帶來進一步上漲動力。其基準情景下標普 500 指數目標位仍為 7750 點。
-
----
-
-### 2026-08-17 21:26:32  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #AUDUSD #Impact bullish #GOOG.O
-
-Alphabet (GOOG.O) plans to raise $3.6 billion in its inaugural Australian bond offering.
-
----
-
-### 2026-08-17 21:25:33  #央行 #國際
-
-富國投資研究所預計，美聯儲今年將加息25個基點，之前的預測為維持利率不變。美聯儲將在2027年加息25個基點，使基準利率升至4.00%-4.25%區間，此前預測為維持利率不變。
 
 ---

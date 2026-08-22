@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 19:54:34_
-_本檔包含 3371 則快訊，約 652182 字_
+_更新時間：2026-08-22 20:54:05_
+_本檔包含 3380 則快訊，約 652306 字_
+
+---
+
+### 2026-08-21 08:26:12  #其他
+
+【19號颱風“紫檀”或將生成】南海熱帶低壓的中心已經來到北部灣上，未來路徑要編起麻花來了。預計該熱帶低壓8月21日夜間至22日在北部灣海面迴旋少動並加強為熱帶風暴級。（中國天氣）
+
+---
+
+### 2026-08-21 08:25:54  #其他
+
+【江蘇省政府召開常務會議暨經濟執行排程會】據新華日報，8月18日，江蘇省政府召開常務會議暨經濟執行排程會。會議審議了《關於緊抓當前提質增效推動經濟持續向新向優向好發展的若干政策措施》，強調要推動增量政策與存量政策有效銜接，細化政策檔案出臺、實施細則制定、具體舉措落實，做好政策釋出和宣傳解讀，大力推行“免申即享”“即申即享”“直達快享”，切實增強企業和群眾獲得感和滿意度。會議審議了《江蘇省城市基礎設施生命線安全工程建設執行管理辦法》《2026—2027年江蘇省宜居韌性智慧城市建設示範建立培育物件名單》，指出要科學規劃建設標準、規模和時序進度，完善城市基礎設施，探索可持續的城市更新模式，推進城市治理“一網統管”，以點帶面推動全省城市高質量發展。
+
+---
+
+### 2026-08-21 08:25:48  #國際
+
+【韓媒：赴韓消費轉向醫美，皮膚科開進酒店】隨著赴韓外國遊客的旅行目的從以購物為主轉向韓流體驗和醫療美容，首爾酒店市場也在悄然改變。據《韓國時報》8月20日報道，不少業內人士稱，為爭奪這批消費能力較強、住宿期待更高的遊客，首爾酒店業正從追求“多賣房”轉向讓客人“住得更久、消費更多”。（環球網）
+
+---
+
+### 2026-08-21 08:23:19  #其他
+
+【澳大利亞要求滅火器供應商修正鋰電滅火器宣傳】澳大利亞競爭與消費者委員會（ACCC）：滅火器供應商修正其鋰離子電池滅火器相關宣傳宣告。本次修訂是在ACCC就安全標準合規性與合理使用方面可能存在虛假或誤導性陳述提出關切後進行的。已與鋰離子電池滅火器供應商接洽，以確保向消費者提供的資訊準確無誤。
+
+---
+
+### 2026-08-21 08:21:20  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+【Russia cuts gold holdings by 1.6 mln oz this year; reserves at lowest since Jan 2020】The Bank of Russia said on Thursday that as of Aug. 1 its gold reserves had fallen by 1.6 mln oz since the start of the year to 73.2 mln oz, the lowest level since January 2020. Over the past seven months the value of the reserves declined by $33.7 bln.
+
+---
+
+### 2026-08-21 08:18:20  #MKT News
+
+【4.2-magnitude quake offshore Okinawa main island, Japan】Japan Meteorological Agency said a 4.2-magnitude earthquake struck offshore the Okinawa main island at about 09:01 local time on the 21st. Maximum seismic intensity was 3 and the hypocenter depth was 40 km.
+
+---
+
+### 2026-08-21 08:18:08  #MKT News
+
+【Live-fire exercises in parts of southern Yellow Sea; entry prohibited Aug 21-24】China Maritime Safety Administration said the Yancheng Maritime Safety Bureau issued a navigation warning: live-fire exercises will be conducted in parts of the southern Yellow Sea Aug. 21–24, daily from 07:30 to 01:00 the following day; vessels are prohibited from entering the designated sea areas.
+
+---
+
+### 2026-08-21 08:18:03  #國際
+
+【日本沖繩本島近海發生4.2級地震】據日本氣象廳訊息，當地時間21日9時01分左右，日本沖繩本島近海發生4.2級地震，最大震感為震度3，震源深度40公里。（央視新聞）
+
+---
+
+### 2026-08-21 08:17:44  #其他
+
+【2026年8月20日ETF資金整體淨流出78.29億元】2026年8月20日，ETF資金整體淨流出78.29億元，股票型淨流出32.94億元，寬基型淨流出43.74億元。當日ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出17.06億元，廣發中證1000ETF（560010）淨流出14.99億元，廣發中證香港創新藥(QDII-ETF)（513120）淨流出10.54億元。
+
+---
+
+### 2026-08-21 08:15:36  #其他
+
+市場訊息：AI資料初創企業Micro1的年度總營收達到5億美元。
+
+---
+
+### 2026-08-21 08:15:15  #其他
+
+【航行警告 黃海南部實彈射擊】據中國海事局網站訊息，鹽城海事局釋出航行警告，8月21日至24日每天7時30分至次日1時，黃海南部部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-08-21 08:13:33  #央行 #公司 #市場 #國際
+
+【俄羅斯今年減持160萬盎司黃金 儲備降至2020年以來最低水平】俄羅斯央行繼續出售黃金儲備。截至7月底，其黃金持有量已降至六年多來的最低水平。俄羅斯央行週四公佈的資料顯示，截至8月1日，該國黃金儲備較年初減少160萬盎司，降至7,320萬盎司，為2020年1月以來最低水平。資料顯示，過去七個月，該行黃金儲備價值減少337億美元。
+
+---
+
+### 2026-08-21 08:12:45  #公司 #市場
+
+迅銷集團股價下跌3.8%。
+
+---
+
+### 2026-08-21 08:12:27  #MKT News #9983.T
+
+Fast Retailing shares fell 3.8%.
+
+---
+
+### 2026-08-21 08:12:05  #MKT News
+
+【China Merchants Securities: Hang Seng TECH index expansion, industry trends favor cloud providers】China Merchants Securities said in a strategy note that two developments boost the Hong Kong market outlook: the Hang Seng TECH Index methodology was revised—constituent count expanded and revenue growth added to selection criteria—addressing concerns about the index’s tech content; and AI-sector profits are shifting from hardware and large models toward cloud providers, a dynamic that should favor Hong Kong-listed cloud names. The firm remains positive on Hong Kong equity opportunities.
 
 ---
 
@@ -20337,41 +20427,5 @@ Japan 10-year bond yield fell 4.5 bps to 2.845%.
 ### 2026-08-20 08:06:22  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
 
 【China International Capital Co: A-share recovery since end-July likely to continue】China International Capital Co said external narratives driving the market remain short-term and stage-specific, and the A-share recovery that began in late July is likely to continue. Market volatility has risen from external shocks; dividend-yielding stocks outperformed on the 19th. As risk appetite gradually recovers and the earnings peak approaches, focus on areas and companies with higher earnings certainty. Two main themes: 1) Selective growth exposure in technology: post-correction crowding in tech has eased. High-growth subsectors where revenue-side expansion can offset denominator pressure—AI infrastructure-related links such as optical communications and PCB—retain strong near-term visibility; semiconductor and compute names require careful alignment of fundamentals and valuations, and tech growth may increasingly diverge. Innovation-stage drugmakers entering clinical-data validation merit bottom-up selection. 2) Cyclical recovery: an expanding set of sectors are rebounding from cycle troughs; factor in geopolitics and capacity-cycle positions and favour areas with improving earnings and tighter supply-demand, including power-grid equipment, petrochemicals/chemicals, construction machinery, and non-bank financials that benefit from stronger capital markets. Nonferrous metals, after heavy adjustment, also deserve attention. Pure domestic-demand sectors show slower recovery and require further observation.
-
----
-
-### 2026-08-20 08:05:04  #觀點
-
-【中信建投：繼續看好鋰電裝置與固態電池板塊配置價值】中信建投研報稱，鋰電裝置方面，鋰電排產創新高，固態邁入裝車新階段。一是鋰電排產景氣高，8月中國鋰電全市場總排產約304GWh、環比+7.4%，超出月初預判3%—5%區間，儲能電芯排產125GWh、環比淨增約10GWh，海外大儲專案集中備貨推動儲能躍升第一增長引擎。二是固態產業化加速，多項里程碑密集落地。三是裝置兌現端，先惠技術與清陶能源聯合研發的全固態幹法輥壓裝置已完成交付，固態裝備前瞻卡位開啟第二增長曲線。產業化節奏上，2026年為全固態驗證元年，廣汽啟動混合固液電池裝車驗證，寧德時代、比亞迪分別規劃2027年全固態小批次生產與示範裝車，硫化物電解質成本已下降超35%，推動從“技術可行”走向“經濟可行”。當前板塊處於“排產高景氣+固態裝車驗證+裝置兌現”三重共振視窗期，繼續看好鋰電裝置與固態電池板塊配置價值。
-
----
-
-### 2026-08-20 08:04:28  #Trading Economics #Economy #Japan #Balance of Trade #Importance 2
-
-Japan Trade Gap Widens Sharply — Japan's trade deficit widened sharply to JPY 634.5 billion in July 2026 from JPY 156.3 billion in the same month a year earlier, but was below market forecasts of JPY 680 billion. It was the third straight month of deficit and the largest since January as imports grew faster than exports. Imports surged 27.8% yoy to a new record JPY 12,146.3 billion, accelerating from June's 25.4% rise, beating estimates of 26.5%, and posting the strongest growth since November 2022. The sharp rise reflected solid domestic demand, boosted by the government's late-2025 stimulus. Crude oil imports jumped 53.5% as Japan diversified energy buying away from the Strait of Hormuz amid ongoing tensions. Exports rose at a softer 23.2% to a new peak of JPY 11,511.8 billion, the strongest gain since October 2022, topping consensus of 19.9%. Exports rose for the 11th month, lifted by a weaker yen and robust demand for AI-related chips, despite risks from supply chain disruptions due to the Middle East conflict.
-
----
-
-### 2026-08-20 08:04:13  #經濟數據 #日本
-
-【日本7月份出口同比增長23.2%】日本7月份出口同比增長23.2%，預期為20.1%，前值為19.3%；日本7月份進口同比增長27.8%，預期為25.1%，前值為25.4%。
-
----
-
-### 2026-08-20 08:03:58  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Holds Gains on Lower Treasury Yields — Silver traded around $67 an ounce on Thursday after surging nearly 6% in the previous session, underpinned by a sharp retreat in US Treasury yields as the government moved to rein-in long-term borrowing costs. The US Treasury Department announced it will more than double repurchases of 10-, 20- and 30-year debt in the next few months as the 30-year yield surged to its highest level since 2007 earlier this week. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons, making them more attractive to investors. Meanwhile, minutes of the Federal Reserve's July meeting confirmed that some policymakers argued in favor of raising interest rates this year to prevent sharper inflationary pressure later on. Elsewhere, heightened uncertainty in the Middle East as the US and Iran remain at a stalemate kept inflationary risks in focus.
-
----
-
-### 2026-08-20 08:03:35  #MKT News
-
-U.S. State Department: U.S. Secretary of State Rubio will meet with Canada’s foreign minister on Thursday.
-
----
-
-### 2026-08-20 08:03:27  #公司
-
-【聯創電子：2026年上半年營收31.93億元 淨虧損3.58億元】聯創電子公告稱，2026年上半年實現營業收入31.93億元，同比下降24.34%；歸屬於上市公司股東的淨虧損3.58億元，同比下降1585.66%；扣除非經常性損益的淨虧損3.71億元，同比下降1060.43%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。此外，公司控股股東江西鑫盛擬向壽縣新橋轉讓7.27%公司股份，轉讓完成後公司控股股東及實際控制人將發生變更。
 
 ---
