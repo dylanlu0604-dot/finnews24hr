@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 04:59:29",
-  "count": 16125,
+  "updated": "2026-08-23 05:08:34",
+  "count": 16124,
   "items": [
+    {
+      "id": "5053462",
+      "time": "2026-08-23 05:01:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊： 英國一家發電廠因駭客攻擊而停產4天。"
+    },
     {
       "id": "5053455",
       "time": "2026-08-23 04:54:06",
@@ -147355,24 +147363,6 @@
         "國際"
       ],
       "text": "市場資訊：特斯拉在美國最本土化生產的車輛中佔據前兩名，超越了福特和通用汽車。"
-    },
-    {
-      "id": "mkt:01a00741-0491-7aab-904b-29f5a0c20a38",
-      "time": "2026-08-16 05:08:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Severe storms and floods in Indiana kill at least five】As of Aug. 15 local time, Indiana officials said storms and flooding that swept the U.S. state this week have killed at least five people. Heavy rain over the past week pushed several rivers to record highs and forced residents onto higher ground. More than a dozen counties have declared local disaster; the latest damage is concentrated along the river corridor from Hamilton County into Indianapolis’s northern suburbs."
-    },
-    {
-      "id": "mkt:01a0073a-2114-7aab-904b-247e4019cfb0",
-      "time": "2026-08-16 05:00:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Head of Iran's Energy Optimization Organization outlined three gasoline allocation options: 1) keep pump prices unchanged but cap total allocation at 121 mln litres; once the cap is reached pumps will close; 2) allocate daily production of 121 mln litres to vehicles, with any demand above quotas charged at free-market prices; 3) issue 30 litres per person per month quotas to the public, with quotas transferable and tradable."
     }
   ]
 }
