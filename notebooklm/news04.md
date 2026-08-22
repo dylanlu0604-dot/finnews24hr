@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:04:02_
-_本檔包含 3383 則快訊，約 655379 字_
+_更新時間：2026-08-22 11:50:01_
+_本檔包含 3385 則快訊，約 655451 字_
+
+---
+
+### 2026-08-19 03:31:46  #國際
+
+美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。
+
+---
+
+### 2026-08-19 03:31:45  #國際
+
+美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。
+
+---
+
+### 2026-08-19 03:30:43  #國際
+
+伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。
+
+---
+
+### 2026-08-19 03:27:33  #國際
+
+阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。
+
+---
+
+### 2026-08-19 03:27:08  #MKT News
+
+【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight.
+
+---
+
+### 2026-08-19 03:27:01  #國際
+
+【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）
+
+---
+
+### 2026-08-19 03:26:51  #國際
+
+市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。
+
+---
+
+### 2026-08-19 03:25:46  #國際
+
+【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。
+
+---
+
+### 2026-08-19 03:25:20  #MKT News
+
+Venezuelan central bank said oil-related activity rose 9.10% in Q2, while the non-oil sector expanded 5.79%.
+
+---
+
+### 2026-08-19 03:24:55  #MKT News #Commodities #Energy
+
+【Venezuela industry hit by severe power outages; recovery under pressure】Manufacturers in Venezuela were without power for nearly half of working hours in Q2, the country’s largest industrial group, the Industrial Federation, said in a Tuesday survey. Firms averaged 488 working hours in the quarter, of which 214 hours lacked electricity, and reported 57 unplanned outages on average—about five per week—an 18% increase from Q1. The federation said years of underinvestment and poor maintenance in the power sector, compounded by U.S. sanctions, are constraining the industrial sector and hampering the economic recovery.
+
+---
+
+### 2026-08-19 03:24:05  #央行 #其他
+
+委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。
+
+---
+
+### 2026-08-19 03:24:04  #MKT News
+
+【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment.
+
+---
+
+### 2026-08-19 03:20:50  #國際
+
+遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。
+
+---
+
+### 2026-08-19 03:20:26  #MKT News
+
+Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026.
+
+---
+
+### 2026-08-19 03:20:03  #央行 #其他
+
+委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。
+
+---
+
+### 2026-08-19 03:19:40  #國際
+
+伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。
+
+---
+
+### 2026-08-19 03:18:02  #國際
+
+【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。
+
+---
+
+### 2026-08-19 03:17:29  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again.
+
+---
+
+### 2026-08-19 03:16:51  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
+
+USD/CAD briefly fell over 10 pips, now 1.3896.
+
+---
+
+### 2026-08-19 03:16:15  #市場
+
+現貨鉑金價格下跌3%，至每盎司1717.90美元。
+
+---
+
+### 2026-08-19 03:16:01  #其他
+
+市場資訊：OpenAI因AI代理入侵Hugging Face事件放緩模型開發。
+
+---
+
+### 2026-08-19 03:16:01  #MKT News #Important #Market Themes #The Trump Trade
+
+Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada.
 
 ---
 
@@ -20298,125 +20430,5 @@ Canada | National Economic Confidence Index (Aug.14) | actual 53.4 | previous 53
 ### 2026-08-17 19:58:32  #公司
 
 【上海合晶：多名董監高擬合計減持不超0.033%股份】上海合晶公告稱，公司收到董事長毛瑞源、董事焦平海、董事邰中和、職工董事兼總經理兼核心技術人員陳建綱、董事會秘書莊子祊出具的減持股份計劃告知函，五人因自身資金需求，計劃於2026年9月8日至2026年12月7日期間，透過集中競價交易方式合計減持不超過219664股，合計佔公司總股本不超過0.033%。本次減持股份來源均為股權激勵取得，減持價格將根據減持時的市場價格確定。
-
----
-
-### 2026-08-17 19:57:15  #公司
-
-【瑞芯微：2026年上半年淨利潤8.59億元，同比增長61.73%】瑞芯微公告，2026年上半年營業收入28.77億元，同比增長40.60%。歸屬於上市公司股東的淨利潤8.59億元，同比增長61.73%。歸屬於上市公司股東的扣除非經常性損益的淨利潤8.39億元，同比增長62.77%。本報告期利潤分配預案為無。
-
----
-
-### 2026-08-17 19:56:58  #公司
-
-【新巨豐：下屬子公司紛美包裝復牌進展存不確定性】新巨豐公告稱，公司要約收購紛美包裝完成後，其公眾持股量不足25%，紛美包裝股票自2025年2月19日起停牌。紛美包裝預計於2026年8月18日將連續停牌滿18個月，若未能在該日前履行全部復牌指引並獲香港聯交所同意恢復買賣，其上市地位可能被取消。目前紛美包裝尚未完成全部復牌要求，擬申請延長履行復牌指引的期限，該申請能否獲批存在不確定性。紛美包裝日常經營正常，其上市地位變動不會對公司及自身主營業務造成重大不利影響。
-
----
-
-### 2026-08-17 19:56:53  #公司
-
-科威特航空與Al Muzaini兌換公司簽署合作協議，以提升客戶服務。
-
----
-
-### 2026-08-17 19:56:48  #其他
-
-德國復興信貸銀行3年期綠色債券歐元基準發行。
-
----
-
-### 2026-08-17 19:56:38  #其他
-
-市場訊息：截至上週四，巴西中南部地區2026年第二輪玉米收割面積預計佔種植面積的85%。
-
----
-
-### 2026-08-17 19:55:35  #公司 #市場
-
-【南華期貨：2026年上半年淨利潤3.88億元，同比增67.91%】南華期貨公告，2026年上半年營業收入8.79億元，同比增長48.18%；歸屬於上市公司股東的淨利潤3.88億元，同比增長67.91%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.84億元，同比增長65.88%。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-17 19:55:07  #其他
-
-【四川啟動四級防汛應急響應】根據當前防汛形勢，四川省防汛抗旱指揮部研究決定8月17日17時啟動四級防汛應急響應，四川省水利廳同步啟動洪水災害防禦四級響應。（新華社）
-
----
-
-### 2026-08-17 19:54:47  #公司
-
-【智翔金泰：GR2302注射液獲臨床試驗批准通知書，用於乙肝病毒相關肝細胞癌】智翔金泰公告，公司近日收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，在研產品GR2302注射液（皮下注射）臨床試驗申請獲得批准，適應症為乙肝病毒相關肝細胞癌。
-
----
-
-### 2026-08-17 19:54:27  #公司
-
-【比亞迪：公司海外業務保持良好增長態勢】比亞迪8月17日在互動平臺表示，公司海外業務保持良好增長態勢，物流運力作為出海產業鏈的重要環節，公司始終在積極統籌規劃，持續最佳化全球供應鏈與運輸資源的配置效率。目前自有出海船隊已有八艘滾裝船投入運營，在複雜外部環境下持續強化供應保障能力，有效提升全球交付效率與供應鏈韌性。
-
----
-
-### 2026-08-17 19:54:22  #公司
-
-【曝三星計劃明年推出全新闊摺疊手機】據報道，三星電子計劃在明年推出一款全新闊摺疊手機。業內認為，今年上市的Galaxy Z Fold8市場反饋較好，從而讓三星“嚐到了甜頭”，希望繼續探索摺疊屏手機新形態。（EtNews）
-
----
-
-### 2026-08-17 19:52:39  #其他
-
-葉門胡塞武裝稱在紅海摩卡海岸用彈道導彈襲擊了沙特軍事登陸艦及四艘護航艦艇，沙特方面未予證實。
-
----
-
-### 2026-08-17 19:52:26  #公司
-
-【達實智慧：Das Agent產品已實現商業化落地】達實智慧接受機構調研時表示，Das Agent產品已實現商業化落地，目前正在服務某新能源車企研發園區、某大型電力集團等專案。公司主要圍繞智慧辦公、高效物業運維和節能降耗等場景，推動AI能力在企業園區中的實際落地。除了近兩年推出的Das Agent，公司在2019年就開始佈局的判別式AI應用很早就已經實現商業化落地，包括建築冷量預測、中央空調調優、能耗與裝置異常識別等，目前已應用於近百個實際專案中。
-
----
-
-### 2026-08-17 19:51:52  #公司 #市場
-
-EYEPOINT股價盤前暴跌64.8%，因公司眼疾藥物在後期試驗中未達主要目標。
-
----
-
-### 2026-08-17 19:51:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A Houthi armed forces spokesperson said they are closely monitoring all actions and military movements by Saudi forces and will strike those actions and movements, whether on land or at sea.
-
----
-
-### 2026-08-17 19:51:44  #其他
-
-法國總理勒科爾尼：政府將增加撥款，幫助城鎮為因山火房屋被毀的居民提供搬遷資金。
-
----
-
-### 2026-08-17 19:51:37  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-A Houthi armed group spokesman said forces fired multiple ballistic missiles at a Saudi military landing ship and four accompanying military vessels near the Markhah coast in the Red Sea. The spokesman said the landing ship was engulfed in flames, several escort vessels sank and the remaining ships caught fire.
-
----
-
-### 2026-08-17 19:51:19  #公司
-
-【中信海直：選舉董事長等並聘任多名高管人員】中信海直公告稱，公司第九屆董事會第一次會議於2026年8月14日召開，選舉張堅為董事長，霍明明、王飛、閆增軍為副董事長，同步確定四個董事會專門委員會的組成人員。聘任閆增軍為總經理，劉建新、井學軍、李剛為副總經理，關頤為財務總監；聘任歐陽銘志為董事會秘書，劉蔚然為證券事務代表，上述人員任期均至第九屆董事會屆滿之日止。
-
----
-
-### 2026-08-17 19:49:55  #公司
-
-香港交易所：董事會批准集團行政總裁陳翊庭續約三年。
-
----
-
-### 2026-08-17 19:48:29  #公司 #國際
-
-【海西新藥：HX9428獲美國FDA快速通道資格用於治療nAMD】海西新藥公告，公司自主研發的創新藥HX9428獲美國FDA授予快速通道資格(FTD)，用於治療新生血管性年齡相關性黃斑變性(nAMD)。該資格有助於公司與FDA就臨床開發開展更緊密溝通，推進全球臨床開發程序。目前，HX9428國內已順利完成I期臨床研究，正開展II期研究；海外已獲FDA批准在美國開展II期臨床試驗。
-
----
-
-### 2026-08-17 19:48:24  #Trading Economics #Markets #Commodity #Importance 2
-
-US Natgas Prices Fall Toward 4-Month Low — US natural gas prices fell more than 3% to around $2.64 per million British thermal units on Monday, approaching the lowest levels seen in mid-April, weighed down by robust production and comfortable inventory levels. An EIA report last week showed energy firms injected 36 bcf of gas into storage in the week ended August 7, larger than market expectations of a 31 bcf build and the five-year average increase of 33 bcf. On top of that, production in the Lower 48 states averaged a record 111.3 bcfd in August so far, up from 110.7 bcfd in July, keeping inventories above their five-year average since March. Adding to the downward pressure, gas flows to the nine major LNG export facilities eased to 17.1 bcfd so far this month from 17.2 bcfd in July, reducing the volume of gas processed for export and leaving more supply available to the domestic market. These factors offset support from weather-driven demand, with forecasts calling for hotter-than-normal weather through the end of August.
 
 ---

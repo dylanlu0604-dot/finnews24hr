@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:04:02_
-_本檔包含 3328 則快訊，約 655394 字_
+_更新時間：2026-08-22 11:50:01_
+_本檔包含 3329 則快訊，約 655244 字_
+
+---
+
+### 2026-08-20 05:44:39  #其他
+
+牙買加中央銀行將貸款利率維持在5.5%的水平。
+
+---
+
+### 2026-08-20 05:42:14  #國際
+
+巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。
+
+---
+
+### 2026-08-20 05:41:09  #MKT News
+
+Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit.
+
+---
+
+### 2026-08-20 05:39:30  #公司
+
+谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。
+
+---
+
+### 2026-08-20 05:38:55  #市場
+
+週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。
+
+---
+
+### 2026-08-20 05:38:08  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London.
+
+---
+
+### 2026-08-20 05:36:43  #公司 #國際
+
+英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。
+
+---
+
+### 2026-08-20 05:34:29  #國際
+
+據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。
+
+---
+
+### 2026-08-20 05:34:05  #MKT News #XAUUSD #Impact bullish #WTI
+
+According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base.
+
+---
+
+### 2026-08-20 05:30:31  #MKT News #Market Regions #Japan & APAC #8002.T #Impact bullish
+
+【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency.
+
+---
+
+### 2026-08-20 05:26:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment.
+
+---
+
+### 2026-08-20 05:21:35  #MKT News
+
+Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks.
+
+---
+
+### 2026-08-20 05:20:52  #公司 #其他 #國際
+
+COGNITION：有關 SPACEX 試圖收購 COGNITION 的報道不實；COGNITION 不出售，雙方並未開展談判。
+
+---
+
+### 2026-08-20 05:20:20  #國際
+
+市場訊息：伊藤忠商事進軍資料中心領域，計劃在日本建設10座資料中心。
+
+---
+
+### 2026-08-20 05:20:02  #MKT News #8001.T #Impact bullish
+
+Nikkei reports Itochu Corporation is entering the data-center sector and plans to build 10 data centers in Japan.
+
+---
+
+### 2026-08-20 05:16:47  #市場
+
+週三（8月19日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.73082元，較週二紐約尾盤漲155點，創月內新高，日內整體交投於6.7279-6.7486元區間。
+
+---
+
+### 2026-08-20 05:16:39  #市場
+
+富時中國A50指數期貨夜盤收漲0.39%。
+
+---
+
+### 2026-08-20 05:16:06  #其他
+
+虛擬貨幣持續走高，行情顯示，比特幣漲至69415.6美元，過去24小時內漲7.41%；以太坊漲至2259.59美元，過去24小時內漲18.06%。
+
+---
+
+### 2026-08-20 05:14:38  #MKT News
+
+Australia's foreign minister will summon the Israeli ambassador over Israel's decision not to pursue criminal charges in the death of an Australian aid worker.
+
+---
+
+### 2026-08-20 05:12:31  #國際
+
+澳大利亞外交部長：將就以色列決定不對遇難澳大利亞援助工作者提起刑事訴訟一事召見以色列大使 。
+
+---
+
+### 2026-08-20 05:07:29  #公司
+
+得克薩斯州州長：亞馬遜於奧斯汀新建機器人生產工廠。
+
+---
+
+### 2026-08-20 05:07:23  #市場 #焦點
+
+以太坊升破2300美元，日內漲20.00%。
+
+---
+
+### 2026-08-20 05:05:22  #國際
+
+美國食品藥品監督管理局（FDA）：截至 8 月 19 日，與墨西哥錫那羅亞州哈瓦那辣椒相關的沙門氏菌疫情已造成美國 32 個州共計 431 人感染，57 人住院。
 
 ---
 
@@ -19921,137 +20059,5 @@ U.S. special envoy for Syria Tom Barrack said the situation underscores the need
 ### 2026-08-19 03:32:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
 
 U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term.
-
----
-
-### 2026-08-19 03:31:46  #國際
-
-美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。
-
----
-
-### 2026-08-19 03:31:45  #國際
-
-美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。
-
----
-
-### 2026-08-19 03:30:43  #國際
-
-伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。
-
----
-
-### 2026-08-19 03:27:33  #國際
-
-阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。
-
----
-
-### 2026-08-19 03:27:08  #MKT News
-
-【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight.
-
----
-
-### 2026-08-19 03:27:01  #國際
-
-【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）
-
----
-
-### 2026-08-19 03:26:51  #國際
-
-市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。
-
----
-
-### 2026-08-19 03:25:46  #國際
-
-【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。
-
----
-
-### 2026-08-19 03:25:20  #MKT News
-
-Venezuelan central bank said oil-related activity rose 9.10% in Q2, while the non-oil sector expanded 5.79%.
-
----
-
-### 2026-08-19 03:24:55  #MKT News #Commodities #Energy
-
-【Venezuela industry hit by severe power outages; recovery under pressure】Manufacturers in Venezuela were without power for nearly half of working hours in Q2, the country’s largest industrial group, the Industrial Federation, said in a Tuesday survey. Firms averaged 488 working hours in the quarter, of which 214 hours lacked electricity, and reported 57 unplanned outages on average—about five per week—an 18% increase from Q1. The federation said years of underinvestment and poor maintenance in the power sector, compounded by U.S. sanctions, are constraining the industrial sector and hampering the economic recovery.
-
----
-
-### 2026-08-19 03:24:05  #央行 #其他
-
-委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。
-
----
-
-### 2026-08-19 03:24:04  #MKT News
-
-【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment.
-
----
-
-### 2026-08-19 03:20:50  #國際
-
-遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。
-
----
-
-### 2026-08-19 03:20:26  #MKT News
-
-Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026.
-
----
-
-### 2026-08-19 03:20:03  #央行 #其他
-
-委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。
-
----
-
-### 2026-08-19 03:19:40  #國際
-
-伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。
-
----
-
-### 2026-08-19 03:18:02  #國際
-
-【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。
-
----
-
-### 2026-08-19 03:17:29  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again.
-
----
-
-### 2026-08-19 03:16:51  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
-
-USD/CAD briefly fell over 10 pips, now 1.3896.
-
----
-
-### 2026-08-19 03:16:15  #市場
-
-現貨鉑金價格下跌3%，至每盎司1717.90美元。
-
----
-
-### 2026-08-19 03:16:01  #其他
-
-市場資訊：OpenAI因AI代理入侵Hugging Face事件放緩模型開發。
-
----
-
-### 2026-08-19 03:16:01  #MKT News #Important #Market Themes #The Trump Trade
-
-Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada.
 
 ---

@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:04:02_
-_本檔包含 3030 則快訊，約 655445 字_
+_更新時間：2026-08-22 11:50:01_
+_本檔包含 3047 則快訊，約 655489 字_
+
+---
+
+### 2026-08-22 11:49:20  #其他
+
+【香港特區政府強烈譴責外部勢力就“支聯會”案的誤導及抹黑言論】香港特別行政區（特區）政府今日（22日）就多個美西方國家、反華媒體、組織及政客，借法庭於昨日（21日）就“支聯會煽動顛覆國家政權”案的定罪裁決，針對香港特區作出毫無事實根據的詆譭抹黑，表示強烈不滿和堅決反對，並予以強烈譴責。（大灣區之聲）
+
+---
+
+### 2026-08-22 11:48:33  #焦點 #國際
+
+【美對部分加拿大商品加徵50%關稅】美國貿易代表格里爾當地時間8月21日深夜表示，加拿大拒絕在最後期限前與美國最終敲定貿易協議，並仍在繼續對美國採取報復性措施。加拿大總理卡尼表示，已決定暫停與美國的貿易談判。卡尼稱，談判進展還不足以實現為加拿大國民設定的目標。 格里爾稱，美國已向加拿大提供了“更為優惠的市場準入條件”，若達成協議，本可“大幅降低關稅”。但他指責加方拒絕接受，導致談判破裂。 美國海關與邊境保護局隨後釋出指引，宣佈依據第338條款，對特定加拿大進口商品加徵額外關稅。一名特朗普政府高階官員證實，對部分加拿大商品加徵50%關稅的措施，將於美東時間8月22日凌晨00:01正式生效。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 11:47:02  #其他
+
+中國地震臺網正式測定：08月22日11時40分在臺灣宜蘭縣海域（北緯24.38度，東經122.08度）發生4.5級地震，震源深度28千米。
+
+---
+
+### 2026-08-22 11:46:29  #焦點 #國際
+
+【加拿大總理稱暫停與美國的貿易談判】當地時間8月21日午夜，加拿大總理卡尼表示，已決定暫停與美國的貿易談判。（央視新聞）
+
+---
+
+### 2026-08-22 11:45:48  #國際
+
+特朗普政府高階官員：我們的唯一利益是保護美國就業、保障供應鏈安全以及推動製造業迴流。僅在少數領域，加拿大要求獲得比美國願意給予的更多的《1962年貿易擴充套件法》第232節關稅減免。
+
+---
+
+### 2026-08-22 11:44:17  #其他
+
+卡尼稱，目前取得的進展仍不足以實現我們為加拿大民眾設定的目標。
+
+---
+
+### 2026-08-22 11:43:55  #國際
+
+特朗普政府高階官員：若當初能達成這份協議，我們本就會與加拿大開展《美墨加協定》談判。
+
+---
+
+### 2026-08-22 11:43:28  #其他
+
+中國地震臺網自動測定：08月22日11時40分在臺灣宜蘭縣海域附近（北緯24.39度，東經122.10度）發生4.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-22 11:43:02  #國際
+
+特朗普政府高階官員：該協議本應解決加拿大此前的報復行動問題。
+
+---
+
+### 2026-08-22 11:42:01  #國際
+
+特朗普政府高階官員：我們預計加拿大不會針對新關稅採取報復行動。
+
+---
+
+### 2026-08-22 11:41:59  #焦點 #國際
+
+加拿大總理卡尼：已暫停與美國進行貿易談判。
+
+---
+
+### 2026-08-22 11:41:31  #公司
+
+【優衣庫衣物回收服務擴充套件至全國門店】8月21日，優衣庫宣佈RE.UNIQLO衣物回收服務擴充套件至全國門店，並同步上線飛螞蟻小程式，將回收渠道從線下延伸至線上。回收範圍涵蓋優衣庫、GU、Theory等迅銷集團旗下品牌的衣物（鞋類、貼身內衣褲類及襪類商品除外）。與此同時，優衣庫華北首個RE.UNIQLO STUDIO衣物新生工坊亮相北京三里屯全球旗艦店。
+
+---
+
+### 2026-08-22 11:41:09  #國際
+
+特朗普政府高階官員：美加會談非常坦誠，並未針鋒相對。
+
+---
+
+### 2026-08-22 11:39:29  #行業 #焦點 #國際
+
+美國官員：加拿大在汽車出口至美國方面享有優厚待遇。
+
+---
+
+### 2026-08-22 11:39:11  #焦點 #國際
+
+【美稱加拿大拒絕敲定貿易協議】總檯記者當地時間21日獲悉，美國貿易代表格里爾表示，加拿大已拒絕敲定貿易協議。（央視新聞）
+
+---
+
+### 2026-08-22 11:36:54  #國際
+
+美國官員：美國此前的提議本會讓加拿大成為所有對美出口國中處於最有利地位的出口國。
+
+---
+
+### 2026-08-22 11:36:09  #國際
+
+特朗普政府高階官員：原協定本將大幅降低關稅。
+
+---
+
+### 2026-08-22 11:34:27  #其他
+
+【上海靜安警方：一男子釋出涉企不實資訊被行政拘留】8月22日，上海市公安局靜安分局通報：一男子釋出涉企不實資訊被行政拘留。經警方調查，2026年8月19日，沈某某（男，26歲）為博取關注，採取張冠李戴的方式，將網上下載的圖片釋出在多個聊天群內，並編造“陝西南路某飯店將低價飲料盛裝高腳杯後，以398元一杯出售”的不實資訊，造成惡劣影響。目前，沈某某已被警方依法處以行政拘留。
+
+---
+
+### 2026-08-22 11:34:21  #國際
+
+美國海關指導意見顯示， 對部分加拿大進口商品加徵的5% 338條款關稅將於美國東部時間週六凌晨00:01（北京時間週六中午12:01）生效。
+
+---
+
+### 2026-08-22 11:32:21  #焦點 #國際
+
+美國貿易代表格里爾：加拿大拒絕與美國最終敲定貿易協議，正繼續對美國採取報復措施。
+
+---
+
+### 2026-08-22 11:27:30  #其他
+
+【星海圖機器人2027年目標交付萬臺以上】2026世界機器人大會期間，星海圖合夥人兼COO李天威表示，截至目前，星海圖已交付千臺級模型驅動的真實生產力訂單，明年的交付目標為萬臺以上。
+
+---
+
+### 2026-08-22 11:27:18  #國際
+
+美國海關與邊境保護局指引：對加拿大特定商品加徵第338條款附加關稅。
+
+---
+
+### 2026-08-22 11:25:45  #國際
+
+【特朗普吐槽伊朗：世界上唯一一個沒人想當總統的國家】據報道，在支援參議員林賽·格雷厄姆的南卡羅來納州競選集會上，美國總統特朗普表示：“當一個國家不再擁有海軍、空軍、雷達、技術裝置和製造能力，其領導人已經被消滅，第二梯隊領導人也被消滅，第三梯隊領導人中也有一部分被消滅。事實上，這反而成了我的一大難題，因為我壓根不知道到底該和誰打交道，這是個問題。這是世界上唯一一個沒人想當總統的國家。所以，這確實有點麻煩。”
+
+---
+
+### 2026-08-22 11:24:21  #其他
+
+【水利部針對廣東、廣西、海南啟動洪水防禦Ⅳ級應急響應】受19號颱風“紫檀”影響，預計8月22日至24日，廣西西部南部、廣東、海南將有大到暴雨，部分地區將有大暴雨。廣西鬱江干支流及桂南沿海欽江、防城河、南流江，廣東東江、韓江及沿海榕江、鑑江，海南南渡江、昌化江、萬泉河等河流將出現漲水過程，其中廣西鬱江支流左江、明江可能發生超警洪水，暴雨區內部分中小河流可能發生超警以上洪水。（新華社）
+
+---
+
+### 2026-08-22 11:22:13  #公司
+
+【北京現代艾尼氪V開啟預售】8月22日，北汽集團宣佈，北京現代艾尼氪V開啟預售，預售價11.99萬元起。
+
+---
+
+### 2026-08-22 11:20:40  #國際
+
+【內塔尼亞胡稱埃爾多安為“反猶獨裁者”】據法新社8月21日報道，以色列總理內塔尼亞胡的辦公室21日將土耳其總統埃爾多安稱為“反猶獨裁者”，並表示以色列將採取行動應對“土耳其破壞地區穩定的企圖”。 據報道，此番表態之前，以色列18日對敘利亞西北部伊德利卜省的一座空軍基地發動空襲，該基地距土耳其邊境僅數十公里，內塔尼亞胡本人暗示對此襲擊負責。（參考訊息）
+
+---
+
+### 2026-08-22 11:16:17  #公司
+
+【錦龍股份徹底清倉東莞證券 接盤方則極有可能指向東莞國資】昨日（8月21日）晚間，錦龍股份（000712）公告擬清倉所持東莞證券全部20%股權（3億股）。經初步測算，本次交易將構成重大資產重組，交易對方須以現金支付交易價款。值得一提的是，除了持有東莞證券20%股權，錦龍股份還持有中山證券67.78%股權。該公司此前就謀求向算力、新質生產力等領域轉型，但目前尚未看到起色。此番“斷腕”的直接原因，是錦龍股份自身沉重的財務壓力——2026年半年報顯示，其歸母淨利潤同比暴跌88.59%至1424.89萬元，資產負債率攀升至80.85%。記者注意到，接盤方則極有可能指向東莞國資。根據2024年8月股權轉讓時簽署的協議，東莞金控不僅享有優先購買權，還擁有在特定條件下要求錦龍必須轉讓剩餘股權的強制購買權。若此次再度出手，東莞國資委對東莞證券的持股比例將從75.4%升至95.4%，幾乎實現完全控股。（券商中國）
+
+---
+
+### 2026-08-22 11:15:13  #其他
+
+【廣汽埃安UT 530寧德版車型上市】8月22日，廣汽埃安宣佈，2027款埃安UT 530寧德版車型上市，官方指導價8.68萬元。
+
+---
+
+### 2026-08-22 11:13:33  #其他
+
+【比亞迪第三代唐亮相成都車展：純電續航850公里 預計四季度上市】成都車展首日，比亞迪第三代唐正式亮相。新車定位大五座科技旗艦SUV，車身尺寸為5045×1980×1740毫米，軸距2950毫米，搭載星際雙屏、雲輦-A雙腔空氣懸架、智慧四驅及天神之眼B輔助駕駛系統，產品技術具象化。純電續航里程為850公里，預計今年第四季度上市。
+
+---
+
+### 2026-08-22 11:08:55  #公司
+
+【國泰集團：未來10年計劃接收150架新飛機，已落實訂單100架】在8月21日的國泰航空80週年慶典上，國泰集團行政總裁林紹波接受採訪時表示，未來10年預計覆蓋150個全球客運目的地，目前已經覆蓋103個目的地。國泰已承諾投資約1500億港元，用於機隊、機艙產品、貴賓室及數字化創新。未來10年，計劃接收150架新飛機，目前已落實訂單100架。在網路發展方面，國泰航空跟香港快運將進一步推進北京、上海、東京及臺北等一線樞紐市場。在差異化分工層面，國泰航空將側重於商旅及貨運需求突出的航點，香港快運則聚焦二三線城市或休閒旅遊目的地。國泰集團中國內地董事鄭家駒提到，國泰集團目前有超4000名內地員工，包括乘務員、飛行員及工程技術人員等崗位。其中，廣州和深圳設有IT辦公室，已有約200名IT人才。
+
+---
+
+### 2026-08-22 11:04:40  #市場 #國際
+
+【日媒：支援率連續下跌，高市早苗著急發文，還引用《論語》】綜合關西電視臺等日媒8月21日報道，近日，日本首相高市早苗連番在社交媒體X上髮長文為她面臨的質疑辯解，還引用《論語》內容急求民眾支援。日本政治評論員稱，可以從高市這一系列舉動中看出她的焦急。然而面對高市嘴上一套、行動另一套的做法，日本輿論並不為此買賬。（環球網）
+
+---
+
+### 2026-08-22 11:04:27  #公司
+
+【嚴夢竹獲批擔任民生人壽保險股份有限公司北京分公司總經理】8月21日，北京金融監管局網站釋出批覆，核准嚴夢竹民生人壽保險股份有限公司北京分公司總經理的任職資格。該行應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起2個月內到任，並按要求及時報告到任情況。
 
 ---
 
@@ -18217,97 +18409,5 @@ UK GfK consumer confidence major purchases index rose to its highest level since
 ### 2026-08-21 07:01:32  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
 
 UK GfK consumer confidence index for August was -14, the highest level since August 2024.
-
----
-
-### 2026-08-21 07:01:31  #其他
-
-英國 GFK 消費者信心大額採購指數升至 2021 年 12 月以來最高水平。
-
----
-
-### 2026-08-21 07:01:08  #資料
-
-英國8月Gfk消費者信心指數 -14，預期-18，前值-17。
-
----
-
-### 2026-08-21 07:01:07  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK August GfK consumer confidence index -14; expected -18; prior -17.
-
----
-
-### 2026-08-21 07:01:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | GfK Consumer Confidence Index (Aug) | actual -14 | consensus -18 | previous -17
-
----
-
-### 2026-08-21 07:00:16  #資料
-
-澳大利亞8月標普全球綜合PMI初值 52.5，前值53.2。
-澳大利亞8月標普全球製造業PMI初值 52，前值52。
-澳大利亞8月標普全球服務業PMI初值 52.9，前值53.6。
-
----
-
-### 2026-08-21 07:00:08  #MKT News #AUDUSD #Impact bearish
-
-Australia Aug S&P Global services PMI preliminary 52.9, prior 53.6.
-
----
-
-### 2026-08-21 07:00:08  #MKT News #DXY
-
-Australia Aug S&P Global Composite PMI (flash) 52.5, down from 53.2 previously.
-
----
-
-### 2026-08-21 07:00:08  #MKT News #DXY #Impact bearish
-
-Australia August S&P Global manufacturing PMI (preliminary) 52, unchanged from previous 52.
-
----
-
-### 2026-08-21 06:59:38  #MKT News #Commodities #Energy
-
-【APEC Energy Think Tank Forum Held in Dalian】Aug 20, Dalian — The APEC Energy Think Tank Forum brought together more than 100 delegates from 16 APEC economies, international organizations, think tanks and research institutes to discuss energy security, regional resilience, energy technology and innovation cooperation, and multilateral think‑tank networks. Participants called for institutionalized cooperation to remove barriers, coordinate energy security with the green transition, pursue coordinated innovation in key core technologies, and advance regional energy market interconnectivity to build an open, resilient Asia‑Pacific energy security framework. The 16th APEC Energy Ministers’ Meeting is scheduled for Sept. 10‑11 in Beijing.
-
----
-
-### 2026-08-21 06:58:18  #MKT News #Important
-
-【Trump signs memo to expand U.S. launch infrastructure, targets 1,000+ annual launches by 2030】On Aug. 20 the White House said President Trump signed a memorandum directing U.S. spaceports and related facilities should be capable of supporting more than 1,000 launches and re-entries per year by 2030. The memo instructs agencies to expand and upgrade launch and re-entry infrastructure, open federal launch ranges to commercial users, encourage private investment and public‑private partnerships and joint infrastructure development, and accelerate facility permitting and environmental reviews. NASA is tasked with developing a commercial lunar logistics architecture, exploring commercial robotic Mars landings, and outlining architectures for commercial crewed round‑trip Mars missions.
-
----
-
-### 2026-08-21 06:57:19  #其他
-
-【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。（央視新聞）
-
----
-
-### 2026-08-21 06:57:03  #Trading Economics #Economy #New Zealand #Exports #Importance 1
-
-New Zealand Exports Rise 13.5% in July — Exports increased 13.5% yoy to NZD 7.39 billion in July 2026, mainly driven by higher sales of milk powder, butter, and cheese (6.4%); meat and edible offal (34.0%); aluminum and aluminum articles (43.0%); and fruit (15.0%).
-
----
-
-### 2026-08-21 06:55:56  #MKT News #Market Regions #Japan & APAC #000660.KS
-
-【Report: SK Hynix to build memory fab in Miyagi, Japan】South Korea's SK Hynix is reportedly seeking to build a memory-chip manufacturing plant in Miyagi prefecture, Japan, marking the first production base by a South Korean chipmaker in Japan. Investment could reach tens of trillions of won. Industry sources said SK Group chairman Chey Tae-won recently visited the area. SK Hynix said any site with necessary infrastructure could be a candidate but no decision has been made.
-
----
-
-### 2026-08-21 06:55:28  #國際
-
-【特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星】當地時間8月20日，白宮表示，美國總統特朗普已簽署一份備忘錄，提出到2030年，美國太空運輸靶場和相關設施應具備支援每年超過1000次發射和再入任務的能力。備忘錄稱，美國將擴大和改善太空發射及再入基礎設施，要求有關部門推動聯邦發射場向商業使用者開放，鼓勵商業投資、公私合作以及基礎設施共同開發，並加快設施許可和環境審查。NASA還被要求制定商業化月球物流架構，探索商業機器人登陸火星，以及商業載人往返火星的相關架構。（央視新聞）
-
----
-
-### 2026-08-21 06:53:24  #Trading Economics #Economy #New Zealand #Balance of Trade #Importance 2
-
-New Zealand Trade Gap Largest in Near 2 Years — New Zealand's trade deficit widened to NZD 1.94 billion in July 2026, up from NZD 0.76 billion in the same month a year earlier and surpassing estimates of NZD 0.32 billion. It was the largest trade deficit since September 2024, as exports grew less than imports.
 
 ---

@@ -1,7 +1,99 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:04:02_
-_本檔包含 3418 則快訊，約 655376 字_
+_更新時間：2026-08-22 11:50:01_
+_本檔包含 3410 則快訊，約 655587 字_
+
+---
+
+### 2026-08-21 07:01:31  #其他
+
+英國 GFK 消費者信心大額採購指數升至 2021 年 12 月以來最高水平。
+
+---
+
+### 2026-08-21 07:01:08  #資料
+
+英國8月Gfk消費者信心指數 -14，預期-18，前值-17。
+
+---
+
+### 2026-08-21 07:01:07  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK August GfK consumer confidence index -14; expected -18; prior -17.
+
+---
+
+### 2026-08-21 07:01:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | GfK Consumer Confidence Index (Aug) | actual -14 | consensus -18 | previous -17
+
+---
+
+### 2026-08-21 07:00:16  #資料
+
+澳大利亞8月標普全球綜合PMI初值 52.5，前值53.2。
+澳大利亞8月標普全球製造業PMI初值 52，前值52。
+澳大利亞8月標普全球服務業PMI初值 52.9，前值53.6。
+
+---
+
+### 2026-08-21 07:00:08  #MKT News #AUDUSD #Impact bearish
+
+Australia Aug S&P Global services PMI preliminary 52.9, prior 53.6.
+
+---
+
+### 2026-08-21 07:00:08  #MKT News #DXY
+
+Australia Aug S&P Global Composite PMI (flash) 52.5, down from 53.2 previously.
+
+---
+
+### 2026-08-21 07:00:08  #MKT News #DXY #Impact bearish
+
+Australia August S&P Global manufacturing PMI (preliminary) 52, unchanged from previous 52.
+
+---
+
+### 2026-08-21 06:59:38  #MKT News #Commodities #Energy
+
+【APEC Energy Think Tank Forum Held in Dalian】Aug 20, Dalian — The APEC Energy Think Tank Forum brought together more than 100 delegates from 16 APEC economies, international organizations, think tanks and research institutes to discuss energy security, regional resilience, energy technology and innovation cooperation, and multilateral think‑tank networks. Participants called for institutionalized cooperation to remove barriers, coordinate energy security with the green transition, pursue coordinated innovation in key core technologies, and advance regional energy market interconnectivity to build an open, resilient Asia‑Pacific energy security framework. The 16th APEC Energy Ministers’ Meeting is scheduled for Sept. 10‑11 in Beijing.
+
+---
+
+### 2026-08-21 06:58:18  #MKT News #Important
+
+【Trump signs memo to expand U.S. launch infrastructure, targets 1,000+ annual launches by 2030】On Aug. 20 the White House said President Trump signed a memorandum directing U.S. spaceports and related facilities should be capable of supporting more than 1,000 launches and re-entries per year by 2030. The memo instructs agencies to expand and upgrade launch and re-entry infrastructure, open federal launch ranges to commercial users, encourage private investment and public‑private partnerships and joint infrastructure development, and accelerate facility permitting and environmental reviews. NASA is tasked with developing a commercial lunar logistics architecture, exploring commercial robotic Mars landings, and outlining architectures for commercial crewed round‑trip Mars missions.
+
+---
+
+### 2026-08-21 06:57:19  #其他
+
+【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。（央視新聞）
+
+---
+
+### 2026-08-21 06:57:03  #Trading Economics #Economy #New Zealand #Exports #Importance 1
+
+New Zealand Exports Rise 13.5% in July — Exports increased 13.5% yoy to NZD 7.39 billion in July 2026, mainly driven by higher sales of milk powder, butter, and cheese (6.4%); meat and edible offal (34.0%); aluminum and aluminum articles (43.0%); and fruit (15.0%).
+
+---
+
+### 2026-08-21 06:55:56  #MKT News #Market Regions #Japan & APAC #000660.KS
+
+【Report: SK Hynix to build memory fab in Miyagi, Japan】South Korea's SK Hynix is reportedly seeking to build a memory-chip manufacturing plant in Miyagi prefecture, Japan, marking the first production base by a South Korean chipmaker in Japan. Investment could reach tens of trillions of won. Industry sources said SK Group chairman Chey Tae-won recently visited the area. SK Hynix said any site with necessary infrastructure could be a candidate but no decision has been made.
+
+---
+
+### 2026-08-21 06:55:28  #國際
+
+【特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星】當地時間8月20日，白宮表示，美國總統特朗普已簽署一份備忘錄，提出到2030年，美國太空運輸靶場和相關設施應具備支援每年超過1000次發射和再入任務的能力。備忘錄稱，美國將擴大和改善太空發射及再入基礎設施，要求有關部門推動聯邦發射場向商業使用者開放，鼓勵商業投資、公私合作以及基礎設施共同開發，並加快設施許可和環境審查。NASA還被要求制定商業化月球物流架構，探索商業機器人登陸火星，以及商業載人往返火星的相關架構。（央視新聞）
+
+---
+
+### 2026-08-21 06:53:24  #Trading Economics #Economy #New Zealand #Balance of Trade #Importance 2
+
+New Zealand Trade Gap Largest in Near 2 Years — New Zealand's trade deficit widened to NZD 1.94 billion in July 2026, up from NZD 0.76 billion in the same month a year earlier and surpassing estimates of NZD 0.32 billion. It was the largest trade deficit since September 2024, as exports grew less than imports.
 
 ---
 
@@ -20528,143 +20620,5 @@ HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest s
 ### 2026-08-20 05:46:24  #宏觀 #市場 #國際
 
 【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。
-
----
-
-### 2026-08-20 05:44:39  #其他
-
-牙買加中央銀行將貸款利率維持在5.5%的水平。
-
----
-
-### 2026-08-20 05:42:14  #國際
-
-巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。
-
----
-
-### 2026-08-20 05:41:09  #MKT News
-
-Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit.
-
----
-
-### 2026-08-20 05:39:30  #公司
-
-谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。
-
----
-
-### 2026-08-20 05:38:55  #市場
-
-週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。
-
----
-
-### 2026-08-20 05:38:08  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London.
-
----
-
-### 2026-08-20 05:36:43  #公司 #國際
-
-英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。
-
----
-
-### 2026-08-20 05:34:29  #國際
-
-據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。
-
----
-
-### 2026-08-20 05:34:05  #MKT News #XAUUSD #Impact bullish #WTI
-
-According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base.
-
----
-
-### 2026-08-20 05:30:31  #MKT News #Market Regions #Japan & APAC #8002.T #Impact bullish
-
-【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency.
-
----
-
-### 2026-08-20 05:26:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment.
-
----
-
-### 2026-08-20 05:21:35  #MKT News
-
-Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks.
-
----
-
-### 2026-08-20 05:20:52  #公司 #其他 #國際
-
-COGNITION：有關 SPACEX 試圖收購 COGNITION 的報道不實；COGNITION 不出售，雙方並未開展談判。
-
----
-
-### 2026-08-20 05:20:20  #國際
-
-市場訊息：伊藤忠商事進軍資料中心領域，計劃在日本建設10座資料中心。
-
----
-
-### 2026-08-20 05:20:02  #MKT News #8001.T #Impact bullish
-
-Nikkei reports Itochu Corporation is entering the data-center sector and plans to build 10 data centers in Japan.
-
----
-
-### 2026-08-20 05:16:47  #市場
-
-週三（8月19日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.73082元，較週二紐約尾盤漲155點，創月內新高，日內整體交投於6.7279-6.7486元區間。
-
----
-
-### 2026-08-20 05:16:39  #市場
-
-富時中國A50指數期貨夜盤收漲0.39%。
-
----
-
-### 2026-08-20 05:16:06  #其他
-
-虛擬貨幣持續走高，行情顯示，比特幣漲至69415.6美元，過去24小時內漲7.41%；以太坊漲至2259.59美元，過去24小時內漲18.06%。
-
----
-
-### 2026-08-20 05:14:38  #MKT News
-
-Australia's foreign minister will summon the Israeli ambassador over Israel's decision not to pursue criminal charges in the death of an Australian aid worker.
-
----
-
-### 2026-08-20 05:12:31  #國際
-
-澳大利亞外交部長：將就以色列決定不對遇難澳大利亞援助工作者提起刑事訴訟一事召見以色列大使 。
-
----
-
-### 2026-08-20 05:07:29  #公司
-
-得克薩斯州州長：亞馬遜於奧斯汀新建機器人生產工廠。
-
----
-
-### 2026-08-20 05:07:23  #市場 #焦點
-
-以太坊升破2300美元，日內漲20.00%。
-
----
-
-### 2026-08-20 05:05:22  #國際
-
-美國食品藥品監督管理局（FDA）：截至 8 月 19 日，與墨西哥錫那羅亞州哈瓦那辣椒相關的沙門氏菌疫情已造成美國 32 個州共計 431 人感染，57 人住院。
 
 ---

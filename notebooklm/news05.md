@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 11:04:02_
-_本檔包含 2991 則快訊，約 655306 字_
+_更新時間：2026-08-22 11:50:01_
+_本檔包含 2991 則快訊，約 655246 字_
+
+---
+
+### 2026-08-17 19:57:15  #公司
+
+【瑞芯微：2026年上半年淨利潤8.59億元，同比增長61.73%】瑞芯微公告，2026年上半年營業收入28.77億元，同比增長40.60%。歸屬於上市公司股東的淨利潤8.59億元，同比增長61.73%。歸屬於上市公司股東的扣除非經常性損益的淨利潤8.39億元，同比增長62.77%。本報告期利潤分配預案為無。
+
+---
+
+### 2026-08-17 19:56:58  #公司
+
+【新巨豐：下屬子公司紛美包裝復牌進展存不確定性】新巨豐公告稱，公司要約收購紛美包裝完成後，其公眾持股量不足25%，紛美包裝股票自2025年2月19日起停牌。紛美包裝預計於2026年8月18日將連續停牌滿18個月，若未能在該日前履行全部復牌指引並獲香港聯交所同意恢復買賣，其上市地位可能被取消。目前紛美包裝尚未完成全部復牌要求，擬申請延長履行復牌指引的期限，該申請能否獲批存在不確定性。紛美包裝日常經營正常，其上市地位變動不會對公司及自身主營業務造成重大不利影響。
+
+---
+
+### 2026-08-17 19:56:53  #公司
+
+科威特航空與Al Muzaini兌換公司簽署合作協議，以提升客戶服務。
+
+---
+
+### 2026-08-17 19:56:48  #其他
+
+德國復興信貸銀行3年期綠色債券歐元基準發行。
+
+---
+
+### 2026-08-17 19:56:38  #其他
+
+市場訊息：截至上週四，巴西中南部地區2026年第二輪玉米收割面積預計佔種植面積的85%。
+
+---
+
+### 2026-08-17 19:55:35  #公司 #市場
+
+【南華期貨：2026年上半年淨利潤3.88億元，同比增67.91%】南華期貨公告，2026年上半年營業收入8.79億元，同比增長48.18%；歸屬於上市公司股東的淨利潤3.88億元，同比增長67.91%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.84億元，同比增長65.88%。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-17 19:55:07  #其他
+
+【四川啟動四級防汛應急響應】根據當前防汛形勢，四川省防汛抗旱指揮部研究決定8月17日17時啟動四級防汛應急響應，四川省水利廳同步啟動洪水災害防禦四級響應。（新華社）
+
+---
+
+### 2026-08-17 19:54:47  #公司
+
+【智翔金泰：GR2302注射液獲臨床試驗批准通知書，用於乙肝病毒相關肝細胞癌】智翔金泰公告，公司近日收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，在研產品GR2302注射液（皮下注射）臨床試驗申請獲得批准，適應症為乙肝病毒相關肝細胞癌。
+
+---
+
+### 2026-08-17 19:54:27  #公司
+
+【比亞迪：公司海外業務保持良好增長態勢】比亞迪8月17日在互動平臺表示，公司海外業務保持良好增長態勢，物流運力作為出海產業鏈的重要環節，公司始終在積極統籌規劃，持續最佳化全球供應鏈與運輸資源的配置效率。目前自有出海船隊已有八艘滾裝船投入運營，在複雜外部環境下持續強化供應保障能力，有效提升全球交付效率與供應鏈韌性。
+
+---
+
+### 2026-08-17 19:54:22  #公司
+
+【曝三星計劃明年推出全新闊摺疊手機】據報道，三星電子計劃在明年推出一款全新闊摺疊手機。業內認為，今年上市的Galaxy Z Fold8市場反饋較好，從而讓三星“嚐到了甜頭”，希望繼續探索摺疊屏手機新形態。（EtNews）
+
+---
+
+### 2026-08-17 19:52:39  #其他
+
+葉門胡塞武裝稱在紅海摩卡海岸用彈道導彈襲擊了沙特軍事登陸艦及四艘護航艦艇，沙特方面未予證實。
+
+---
+
+### 2026-08-17 19:52:26  #公司
+
+【達實智慧：Das Agent產品已實現商業化落地】達實智慧接受機構調研時表示，Das Agent產品已實現商業化落地，目前正在服務某新能源車企研發園區、某大型電力集團等專案。公司主要圍繞智慧辦公、高效物業運維和節能降耗等場景，推動AI能力在企業園區中的實際落地。除了近兩年推出的Das Agent，公司在2019年就開始佈局的判別式AI應用很早就已經實現商業化落地，包括建築冷量預測、中央空調調優、能耗與裝置異常識別等，目前已應用於近百個實際專案中。
+
+---
+
+### 2026-08-17 19:51:52  #公司 #市場
+
+EYEPOINT股價盤前暴跌64.8%，因公司眼疾藥物在後期試驗中未達主要目標。
+
+---
+
+### 2026-08-17 19:51:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+A Houthi armed forces spokesperson said they are closely monitoring all actions and military movements by Saudi forces and will strike those actions and movements, whether on land or at sea.
+
+---
+
+### 2026-08-17 19:51:44  #其他
+
+法國總理勒科爾尼：政府將增加撥款，幫助城鎮為因山火房屋被毀的居民提供搬遷資金。
+
+---
+
+### 2026-08-17 19:51:37  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+A Houthi armed group spokesman said forces fired multiple ballistic missiles at a Saudi military landing ship and four accompanying military vessels near the Markhah coast in the Red Sea. The spokesman said the landing ship was engulfed in flames, several escort vessels sank and the remaining ships caught fire.
+
+---
+
+### 2026-08-17 19:51:19  #公司
+
+【中信海直：選舉董事長等並聘任多名高管人員】中信海直公告稱，公司第九屆董事會第一次會議於2026年8月14日召開，選舉張堅為董事長，霍明明、王飛、閆增軍為副董事長，同步確定四個董事會專門委員會的組成人員。聘任閆增軍為總經理，劉建新、井學軍、李剛為副總經理，關頤為財務總監；聘任歐陽銘志為董事會秘書，劉蔚然為證券事務代表，上述人員任期均至第九屆董事會屆滿之日止。
+
+---
+
+### 2026-08-17 19:49:55  #公司
+
+香港交易所：董事會批准集團行政總裁陳翊庭續約三年。
+
+---
+
+### 2026-08-17 19:48:29  #公司 #國際
+
+【海西新藥：HX9428獲美國FDA快速通道資格用於治療nAMD】海西新藥公告，公司自主研發的創新藥HX9428獲美國FDA授予快速通道資格(FTD)，用於治療新生血管性年齡相關性黃斑變性(nAMD)。該資格有助於公司與FDA就臨床開發開展更緊密溝通，推進全球臨床開發程序。目前，HX9428國內已順利完成I期臨床研究，正開展II期研究；海外已獲FDA批准在美國開展II期臨床試驗。
+
+---
+
+### 2026-08-17 19:48:24  #Trading Economics #Markets #Commodity #Importance 2
+
+US Natgas Prices Fall Toward 4-Month Low — US natural gas prices fell more than 3% to around $2.64 per million British thermal units on Monday, approaching the lowest levels seen in mid-April, weighed down by robust production and comfortable inventory levels. An EIA report last week showed energy firms injected 36 bcf of gas into storage in the week ended August 7, larger than market expectations of a 31 bcf build and the five-year average increase of 33 bcf. On top of that, production in the Lower 48 states averaged a record 111.3 bcfd in August so far, up from 110.7 bcfd in July, keeping inventories above their five-year average since March. Adding to the downward pressure, gas flows to the nine major LNG export facilities eased to 17.1 bcfd so far this month from 17.2 bcfd in July, reducing the volume of gas processed for export and leaving more supply available to the domestic market. These factors offset support from weather-driven demand, with forecasts calling for hotter-than-normal weather through the end of August.
 
 ---
 
@@ -17920,127 +18040,5 @@ UKMTO said it received reports that a bulk carrier in the Strait of Hormuz was s
 ### 2026-08-15 11:53:58  #國際
 
 【韓國執政黨與在野黨對日本官員參拜靖國神社表示“深切遺憾”】8月15日是日本無條件投降日，也是韓國的光復節。日本防衛大臣小泉進次郎等內閣成員以及執政的自民黨高層參拜靖國神社後，韓國執政黨及在野黨一致對此進行批評並表達了遺憾。（央視新聞）
-
----
-
-### 2026-08-15 11:47:39  #國際
-
-【專家：巴西與阿根廷關係降級或影響整個南美洲】阿總統米萊7月25日在巴西自由黨於聖保羅舉行的全國大會上強烈批評巴西總統盧拉，並抗議巴西聯邦最高法院法官阻止其探望服刑中的巴前總統博索納羅。本月4日，巴西外交部表示，巴西政府決定將巴阿外交關係降至代辦級，並要求阿根廷駐巴西大使雷蒙迪返回阿根廷。近日，巴西國際關係專家克里斯蒂娜在接受總檯記者採訪時表示，此次巴阿外交關係降級或將對整個南美洲造成影響。（央視新聞）
-
----
-
-### 2026-08-15 11:47:32  #MKT News #HII.O #Impact bearish #GD.O #LMT.O
-
-【Politico: Trump's demands threaten US Navy shipbuilding gains】Politico reports Trump's demands peaked this month, risking further weakening of a US Navy already under fiscal and logistical strain. USS Abraham Lincoln has been continuously deployed for a record nine months, and sailors' families warn crew are near exhaustion. A government report says Trump's proposed "golden fleet" of new battleships would cost tens of billions of dollars more than expected. Experts say orders to reintroduce outdated technology could disrupt shipbuilding production schedules. These pressures are compounding long‑standing Navy problems — schedule delays, cost overruns and a shrinking fleet — and could impair its ability to defend US interests, a US official said.
-
----
-
-### 2026-08-15 11:43:41  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI #XAUUSD
-
-MODI said some countries' weaponization of resources and strategic sea lanes poses a risk to India's economic security, and urged greater energy self-sufficiency to reduce vulnerability to overseas supplies.
-
----
-
-### 2026-08-15 11:32:48  #MKT News
-
-Iran's foreign minister said Iran has not yet decided to resume talks with the US.
-
----
-
-### 2026-08-15 11:32:03  #焦點 #國際
-
-伊朗外交部長表示，德黑蘭尚未決定恢復與美國的談判。
-
----
-
-### 2026-08-15 11:27:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign minister said the US must meet Iran's conditions to restore shipping through the Strait of Hormuz.
-
----
-
-### 2026-08-15 11:27:23  #焦點 #國際
-
-伊朗外長表示，美國必須滿足相關條件，霍爾木茲海峽航運才能恢復。
-
----
-
-### 2026-08-15 11:27:04  #MKT News
-
-Iran's foreign minister said Qatar and Pakistan are exchanging information with Iran but are not engaged in negotiations; separate talks with Oman focus on shipping routes in the Strait of Hormuz.
-
----
-
-### 2026-08-15 11:26:51  #焦點 #國際
-
-伊朗外交部長表示，伊朗與阿曼的會談是單獨舉行的，會談核心聚焦霍爾木茲海峽航道問題。
-
----
-
-### 2026-08-15 11:25:54  #焦點 #國際
-
-伊朗外交部長表示，卡達和巴基斯坦正在與德黑蘭互傳資訊，但這並非談判。
-
----
-
-### 2026-08-15 11:20:54  #MKT News
-
-【SOUTH KOREA'S LEE proposes 'inclusive, stable' blueprint for peaceful coexistence with N. KOREA】On the 15th, SOUTH KOREA'S LEE proposed an "inclusive, stable blueprint for peaceful coexistence" and said he would begin a process to transform the Korean Peninsula's unstable armistice system into a peace regime.
-
----
-
-### 2026-08-15 11:20:41  #國際
-
-【伊拉克原油出口創海峽封鎖以來新高 日均200萬桶】伊拉克石油部14日說，8月初以來，該國日均原油出口量回升至200萬桶，創下2月28日中東戰事爆發、霍爾木茲海峽航運受阻以來的最高水平。伊拉克石油部長巴西姆·穆罕默德·胡達伊爾在新聞釋出會上說，“本月初以來，原油出口達到每日200萬桶”，累計出口約2600萬桶。中東戰事爆發前，伊拉克日均原油產量約400萬桶，月均出口約1.05億桶，大部分從伊南部巴士拉石油終端、經霍爾木茲海峽外運。（新華社）
-
----
-
-### 2026-08-15 11:19:32  #國際
-
-韓國總統李在明15日提出“包容穩定的對朝和平共處藍圖”，表示將開啟把朝鮮半島不穩定的停戰體制轉變為和平體制的程序。（新華社）
-
----
-
-### 2026-08-15 11:16:48  #國際
-
-印度總理莫迪：印度將建立現代化的志願民防網路。
-
----
-
-### 2026-08-15 11:14:43  #其他
-
-【提前一月破億 內蒙古陸路口岸貨運量穩居全國首位】據內蒙古自治區商務廳（口岸辦）訊息，截至8月14日，內蒙古全區陸路口岸2026年進出境貨運量突破1億噸，較去年提前一個月邁入“億噸大關”，貨運規模保持全國第一，區域向北開放樞紐作用進一步夯實。（央視新聞）
-
----
-
-### 2026-08-15 11:11:55  #公司
-
-【國內唯一通用光量子計算整機企業完成超億融資，韋豪創芯、共達電聲聯合領投】合肥矽臻晶片技術有限公司（以下簡稱“矽臻晶片”）近日完成超億元B輪融資。本輪融資由韋豪創芯、共達電聲聯合領投，華策影視、蘇創投、蘇金控、創領資本、後浪資本等機構跟投。融資資金將主要用於萬位元專用光計算叢集與通用量子計算晶片組的研發。
-
----
-
-### 2026-08-15 11:10:59  #國際
-
-【高市早苗稱日本將成為燈塔】據日本富士電視臺報道，日本首相高市早苗在今天（8月15日）舉行的所謂“戰歿者追悼儀式”上致辭稱，“絕不讓戰爭的慘禍再次發生，無論歲月如何流逝，都將把這一堅定的誓言跨越世代傳承下去，貫徹到底。”高市還稱，“日本能夠為解決各國面臨的各種問題發揮重要作用，日本將成為印度-太平洋地區一座閃耀的燈塔，成為值得各國信賴的國家。”值得注意的是，“反省戰爭”這一表述並未出現在高市的致辭中。（CCTV國際時訊）
-
----
-
-### 2026-08-15 11:10:10  #公司 #市場 #焦點 #A股
-
-【宇樹科技未上市先瘋搶 部分中介出價520元/股】記者獲悉，宇樹科技場外“暗盤交易”悄然興起。目前多家中介透過各類渠道收購該股新股，報價分歧較大，部分中介出價520元/股（發行價150.8元/股），亦有中介報價410元/股；不少中籤者也主動上網尋覓買家。值得注意的是，這類“暗盤交易”以往常見於北交所新股，近期正向科創板明星股擴散。記者此前注意到，在長鑫科技上市前，也有中介高價回收該股新股，當時中介的報價是36元/股（發行價8.66元/股）。
-
-“從制度層面來看，這折射出A股打新機制下特有的套利生態。極低的中籤率催生籌碼稀缺性，場外溢價收購新股，本質上是一級市場制度性紅利的私下轉讓。這類行為不僅觸碰合規邊界，同時扭曲市場價格發現功能。”南開大學金融研究院院長田利輝向記者表示。京都律所合夥人王嘉銘也向記者表示，這種行為可能違反了賬戶實名制要求。（券商中國）
-
----
-
-### 2026-08-15 11:05:37  #國際
-
-印度總理莫迪：印度計劃在一年內對1000萬青年進行人工智慧（AI）技能培訓。
-
----
-
-### 2026-08-15 11:05:22  #國際
-
-【澳研究人員利用幹細胞培育出人類心臟瓣膜組織】澳大利亞研究人員日前利用幹細胞在實驗室培育出人類心臟瓣膜組織，可用於研究心臟瓣膜的發育和病變過程，並可用於測試相關疾病的治療方法。研究成果已發表在美國《細胞－幹細胞》雜誌上。澳大利亞默多克兒童研究所釋出訊息說，由該機構牽頭的研究團隊培育出的組織能夠再現人類心臟瓣膜的分子特徵和複雜結構。研究團隊成員霍莉·福格斯說，這項成果解決了心臟瓣膜生物學研究中的一項重要難題。此次培育出的組織有助於研究心臟瓣膜如何發育、成熟併發生病變，也可用於在實驗室中測試潛在治療方法。（新華社）
 
 ---
