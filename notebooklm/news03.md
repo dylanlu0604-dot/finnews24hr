@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 02:42:40_
-_本檔包含 3254 則快訊，約 650411 字_
+_更新時間：2026-08-23 03:30:24_
+_本檔包含 3248 則快訊，約 650483 字_
+
+---
+
+### 2026-08-20 08:44:40  #公司
+
+【澄天偉業：液冷業務當前訂單能見度較前期有所提升】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務源於在半導體封裝材料領域的技術積累，憑藉在精密金屬加工領域的工藝能力，在行業需求興起之初，公司就與臺灣核心客戶持續進行共同開發、持續打樣等小批次生產，當前業務處於從驗證匯入向規模化交付過渡的關鍵階段。公司主要為客戶提供GPU液冷模組及機櫃內部歧管等核心部件，目前該產品線將跟隨客戶量產節奏推進，整體放量節奏與客戶的交付排期高度關聯。當前訂單能見度較前期有所提升。
+
+---
+
+### 2026-08-20 08:43:03  #MKT News
+
+【Samsung to unveil new Galaxy S26 model on Aug. 27】Samsung Electronics said on Thursday it will hold an online launch for its Galaxy S26 smartphone line on Aug. 27. The firm did not name the product; leaks identify it as the Galaxy S26 FE. Leaked specs include a 6.7-inch Dynamic AMOLED 2X display, an Exynos 2500 SoC, up to 50 hours battery life per charge (about 7.5 hours longer than the Galaxy S25 FE) and a rear camera array of 50MP main, 12MP ultrawide and 8MP telephoto.
+
+---
+
+### 2026-08-20 08:41:17  #公司 #國際
+
+【三星宣佈將於下週釋出Galaxy S26最新機型】韓國三星電子公司週四表示，將於下週釋出其Galaxy S26智慧手機系列的最新機型。 該公司表示，釋出會將於8月27日線上舉行。 三星未直接公佈該產品的名稱，但據傳即將釋出的裝置為Galaxy S26 FE。 有洩露資訊顯示，Galaxy S26 FE將配備一塊6.7英寸的Dynamic AMOLED 2X顯示屏。 這款智慧手機預計將搭載三星Exynos 2500移動應用處理器，單次充電續航時間最長可達50小時，比Galaxy S25 FE多出約7.5小時。 後置攝像頭系統預計包括一枚5000萬畫素主攝、一枚1200萬畫素超廣角鏡頭和一枚800萬畫素長焦鏡頭。
+
+---
+
+### 2026-08-20 08:40:12  #MKT News
+
+【Dier Laser expands TGV lineup to etch and AOI; integrated orders start to appear】Dier Laser told investors on Aug. 19 that its TGV (through‑glass via) strategy now covers etching and AOI inspection equipment alongside its laser‑modification machines. Laser‑modification units continue to win orders and generate revenue; bundled orders for laser modification plus etch have begun to appear and AOI systems are under active validation. The company said it will supply standalone or matched equipment suites based on customer process flow, via geometry, substrate size and capacity needs as it broadens its TGV product matrix.
 
 ---
 
@@ -19552,65 +19576,5 @@ Australia's S&P/ASX 200 index opened down 42.10 points, or 0.46%, at 9,027.90 on
 ### 2026-08-19 08:08:31  #觀點
 
 【華泰證券：看好具備端到端供需閉環能力的中國服裝跨境電商龍頭持續擴大全球份額】華泰證券研報表示，中國服裝跨境電商依託產業叢集優勢及全球線上渠道快速崛起紅利，近年來進一步夯實柔性供應鏈、本地化履約、數字化及品牌運營能力，以資料組織全球供需。以SHEIN為代表的龍頭打造大規模自動化小單快返（LATR）體系，建立深厚壁壘。伴隨美、歐低值包裹取消或收緊免稅政策，競爭要素重新排列，更考驗品牌沉澱、本地履約等綜合能力，龍頭亦走向平臺化賦能及多區域佈局。看好具備端到端供需閉環能力的中國龍頭持續擴大全球份額。
-
----
-
-### 2026-08-19 08:08:21  #MKT News #8035.T #Impact bearish
-
-Tokyo Electron shares fell 4%.
-
----
-
-### 2026-08-19 08:07:54  #市場 #國際
-
-日本東京電子股價下跌4%。
-
----
-
-### 2026-08-19 08:07:48  #公司 #市場
-
-三星電子股價早盤下跌7.3%，至249,000韓元。
-
----
-
-### 2026-08-19 08:07:41  #市場
-
-愛德萬測試股價下跌4%。
-
----
-
-### 2026-08-19 08:07:36  #市場 #國際
-
-日本東證指數下跌2.1%，至4054.19點。
-
----
-
-### 2026-08-19 08:07:18  #市場 #國際
-
-10年期日本國債收益率下跌1個基點至2.925%。
-
----
-
-### 2026-08-19 08:07:15  #MKT News #Important #Market Regions #Japan & APAC
-
-Korea Exchange activated the KOSPI sidecar mechanism, suspending programmatic sell orders for 5 minutes.
-
----
-
-### 2026-08-19 08:07:06  #觀點
-
-【中信建投：穩健者加大算力投入力度，應用飛輪閉環優於預期】中信建投研報稱，2026年以來，AI產業投資邏輯正從模型能力與資本開支競賽，逐步轉向訂單、收入及盈利的商業化驗證。海外Agent產品率先形成收入增量，雲廠商高強度算力投入仍有云收入和在手訂單支撐；國內模型在Coding及Agent任務上的能力差距快速收窄，推理效率、Token呼叫量及產品收入同步提升。展望未來一至兩個季度，國產模型迭代、Agent產品升級和旗艦模型重新定價有望共同推進，建議持續關注算力服務、國產晶片與超節點，以及具備場景、資料和企業交付能力的B端AI應用廠商。
-
----
-
-### 2026-08-19 08:06:29  #焦點 #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。
-
----
-
-### 2026-08-19 08:06:15  #Trading Economics #Economy #Japan #Machinery Orders #Importance 2
-
-Japan Machinery Orders Rebound More than Expected — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric utilities, jumped 9.7% month-on-month to JPY 1.06 trillion in June 2026, shifting from a 12.4% drop in the prior month and exceeding market forecasts of a 7.8% gain. It was the third time of increase so far this year, also marking the fastest pace since February, reflecting broad-based recovery in business investment. Orders from manufacturers bounced back 19.9% (vs -14.9% in May), while non-manufacturing orders improved (4.5% vs 9.3%). Among manufacturers, the strongest growth came from non-ferrous metals (225.3%), shipbuilding (94.9%), chemicals (39.0%), and petroleum and coal (32.9%). In the non-manufacturing sector, orders strengthened in real estate (253.1%), agriculture (33.0%), and mining, quarrying (23.7%). On an annual basis, machinery orders expanded 16.9%, swinging from May's 1.9% decline and topping estimates for a 10.8% rise and pointing to the fastest rise in four months.
 
 ---

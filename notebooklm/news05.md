@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 02:42:40_
-_本檔包含 3018 則快訊，約 650627 字_
+_更新時間：2026-08-23 03:30:24_
+_本檔包含 3015 則快訊，約 650466 字_
+
+---
+
+### 2026-08-17 22:27:16  #MKT News
+
+Iran's foreign ministry said Uzbekistan's deputy foreign minister met with Iran's foreign minister Araghchi on Monday afternoon local time.
+
+---
+
+### 2026-08-17 22:26:35  #MKT News #SKX.O #Impact bearish
+
+Market sources: mutual fund FMI named lead plaintiff in lawsuit challenging Skechers' $9.4 billion take-private transaction.
+
+---
+
+### 2026-08-17 22:25:55  #其他
+
+據 BLAW 訊息，斯凱奇 94 億美元私有化訴訟已確定首席原告。
+
+---
+
+### 2026-08-17 22:24:32  #MKT News #Commodities #Industrial Metals #NXE.TO #Impact bullish #BHP.N #Impact mixed
+
+Refinitiv: Uranium miner NexGen Energy said it is sharing technical information with BHP (BHP.N) as it seeks to raise more than $1 billion to finance its Rook I project. BHP last year evaluated NexGen as a potential takeover target.
+
+---
+
+### 2026-08-17 22:24:30  #市場
+
+紐約期銀日內漲2%，現報66.41美元/盎司。
+
+---
+
+### 2026-08-17 22:24:12  #公司
+
+【*ST明德：收購必凱爾100%股權已完成過戶】*ST明德(002932)8月17日公告，8月14日，公司購買藍帆醫療持有的武漢必凱爾救助用品有限公司（簡稱“必凱爾”）100%股權工商變更登記辦理完畢，必凱爾取得了新的營業執照。截至目前，必凱爾100%股權已全部過戶登記至公司名下。
+
+---
+
+### 2026-08-17 22:23:36  #其他
+
+厄瓜多7月消費者價格環比下降0.09%。
+
+---
+
+### 2026-08-17 22:23:24  #市場
+
+紐約期金日內漲1%，現報4481.81美元/盎司。
+
+---
+
+### 2026-08-17 22:23:19  #市場 #焦點
+
+紐約期金突破4480美元/盎司，日內漲0.96%。
+
+---
+
+### 2026-08-17 22:23:11  #國際
+
+【以色列總理與庫什納會晤 討論加沙下階段安排】當地時間17日，以色列總理內塔尼亞胡與來訪的美國總統特朗普的女婿庫什納、“和平委員會”高階官員會晤。據悉，雙方的會談持續了約4個小時。相關政治訊息人士稱，雙方重點討論了加沙下一階段的安排。雙方同意：在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）完全解除武裝之前，加沙地帶不會進行任何重建；哈馬斯必須在監督下交出所有武器並進行銷燬，同時以色列國防軍仍有行動自由，以持續進行針對性打擊，這是實現加沙地帶非軍事化的第一步；此外，在加沙實施必要衛生措施，以防止疫情蔓延。（央視新聞）
+
+---
+
+### 2026-08-17 22:23:02  #MKT News
+
+The Jerusalem Post, citing sources, reported Israel and the US have agreed that in the initial phase of disarming Hamas, weapons surrendered by Hamas will be destroyed by an international stabilization force led by US Major General Jasper Jeffers, rather than handed to the proposed Palestinian technocratic government (NCAG).
 
 ---
 
@@ -18120,89 +18186,5 @@ Sources at Libya's electricity company said some generating units at the Harsha 
 ### 2026-08-16 03:46:55  #MKT News
 
 【Institutional note: bond traders worry about 'shadow' credit guarantees for AI firms】Investors were already concerned about roughly $70 billion of off‑balance‑sheet "shadow liabilities" that could surface ahead of NVIDIA's announcement this week of a high‑profile $500 billion financing partnership. NVIDIA may provide tens of billions of dollars in residual‑value support to back debt tied to AI infrastructure, effectively using its stronger credit to lower customers' financing costs; Broadcom and other chipmakers are using similar guarantee structures. These deals typically use an SPV to borrow to buy chips, with loans secured by cash flows from contracts; assets are re‑leased or sold if a borrower stops paying and the guarantor fills any deficit. Some investors say the arrangements amount to financial engineering that can mask true liabilities. DoubleLine portfolio manager Mariya Entina warned the structures seek favorable treatment from ratings agencies and can obscure companies' real financial positions.
-
----
-
-### 2026-08-16 03:28:19  #MKT News
-
-Al Arabiya TV cited Hamas sources saying a delegation led by Khaled al-Hayya will travel to Cairo tonight for consultations.
-
----
-
-### 2026-08-16 03:16:32  #公司 #焦點
-
-【英偉達洽談向SB Energy投資30億美元，系OpenAI資料中心交易組成部分】據知情人士透露，英偉達正洽談向SB Energy最高投資30億美元。SB Energy由軟銀集團支援，負責為OpenAI開發俄亥俄州大型資料中心專案。這筆投資談判，是英偉達與OpenAI、SB Energy談判的一部分；英偉達擬為規劃中的俄亥俄資料中心園區提供約1000億美元信貸支援。這類交易越來越多，英偉達憑藉自身雄厚財力扶持AI相關企業與專案，以此推動各家企業採購、使用英偉達硬體。
-
----
-
-### 2026-08-16 03:15:44  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-The Information reports NVIDIA (NVDA.O) is in talks to invest $3 bln in SB Energy as part of an OpenAI data-center deal.
-
----
-
-### 2026-08-16 03:15:14  #其他
-
-英偉達正洽談向SB Energy投資30億美元，作為OpenAI資料中心交易的一部分。
-
----
-
-### 2026-08-16 03:07:31  #國際
-
-卡達外交部發言人：外交斡旋仍在推進之際，有關伊朗飛行員的誤導性言論令我方感到意外。
-
----
-
-### 2026-08-16 03:04:07  #MKT News
-
-Al Arabiya TV quoted Marib local authorities saying an attack injured people and damaged civilians' homes, vehicles and other property.
-
----
-
-### 2026-08-16 03:03:35  #MKT News
-
-Al Arabiya reported Marib, Yemen local authorities said Houthi forces fired four ballistic missiles and four drones at residential areas.
-
----
-
-### 2026-08-16 02:46:12  #央行 #國際
-
-伊朗央行：由於美國與以色列的敵對軍事及網路行動，某境外服務商撤銷了部分網站的安全證書，導致使用者端出現 SSL 安全警告。自身基礎設施未遭到網路攻擊。
-
----
-
-### 2026-08-16 02:45:05  #MKT News
-
-Qatar's foreign ministry said it was surprised by the emergence of such misleading remarks during this sensitive period.
-
----
-
-### 2026-08-16 02:44:49  #MKT News
-
-Qatar's foreign ministry said it invited an Iranian delegation in April to visit Qatar to be briefed on details of a search-and-rescue operation, but Iran has not yet responded.
-
----
-
-### 2026-08-16 02:43:13  #國際
-
-美國參議員班克斯：特朗普將向印第安納州撥付災害援助，應對惡劣天氣災情。
-
----
-
-### 2026-08-16 02:42:49  #國際
-
-卡達外交部：搜救隊伍已找到一名伊朗飛行員的遺體，目前已與伊朗方面協調移交事宜。
-
----
-
-### 2026-08-16 02:42:43  #國際
-
-卡達外交部表示，在伊朗飛行員侵犯卡達領空後，卡達已採取必要措施捍衛本國領土。伊朗飛行員當時侵犯了卡達領空，且未回應卡達方面的聯絡嘗試。
-
----
-
-### 2026-08-16 02:42:40  #MKT News
-
-Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation.
 
 ---

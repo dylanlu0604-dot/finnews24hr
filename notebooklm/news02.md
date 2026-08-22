@@ -1,7 +1,57 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 02:42:40_
-_本檔包含 3392 則快訊，約 651261 字_
+_更新時間：2026-08-23 03:30:24_
+_本檔包含 3396 則快訊，約 650520 字_
+
+---
+
+### 2026-08-21 09:03:25  #觀點 #國際
+
+【分析人士：美國對伊朗“經濟戰”推行有難度】針對美方宣佈的對伊朗“經濟戰和經濟孤立”，以及阿聯酋宣佈暫停與伊朗的一切貿易、商業往來和金融交易，美國輿論分析稱，美國政府因美伊局勢陷入僵局而轉變策略，試圖以經濟施壓方式迫使伊朗屈服。然而，在實際操作中，徹底切斷阿聯酋與伊朗的金融和貿易往來難度不小。
+
+多名知情人士稱，美國政府數週來一直“勸誘”阿聯酋打擊該國境內執行的伊朗金融網路，聲稱與美國海軍封鎖伊朗港口相比，阿聯酋遏制伊朗伊斯蘭革命衛隊的現金流動對伊朗影響更大。分析人士認為，阿聯酋政府即便關閉官方金融渠道和主要港口交通，也無法監管7個酋長國“每個當地合作伙伴、每個自由貿易區或每條小型船隻的移動”。同時知情人士稱，阿聯酋決策層擔憂，美方用經濟手段向伊朗施壓的策略可能傷害那些依賴旅遊業和貿易的海灣國家經濟，甚至可能招致伊朗進一步軍事打擊。（央視新聞）
+
+---
+
+### 2026-08-21 09:03:05  #國際
+
+【今年第18號颱風“沙德爾”繼續向北偏西方向移動，強度逐漸增強】中國氣象局訊息，今年第18號颱風“沙德爾”（熱帶風暴級）的中心今天（8月21日）早晨5點鐘位於美國關島阿加尼亞偏東方向約515公里的西北太平洋洋麵上，就是北緯14.0度，東經149.5度，中心附近最大風力有9級（23米/秒），中心最低氣壓為990百帕，七級風圈半徑150-280公里。預計，“沙德爾”將以每小時10-15公里的速度向北偏西方向移動，強度逐漸增強，趨向琉球群島以東洋麵，25日夜間之前對我國海域無影響。
+
+---
+
+### 2026-08-21 09:03:00  #國際
+
+【外交部部長助理蔡偉會見加勒比國家聯盟秘書長埃斯皮諾薩】2026年8月20日，外交部部長助理蔡偉會見來華訪問的加勒比國家聯盟秘書長埃斯皮諾薩。
+
+---
+
+### 2026-08-21 09:02:41  #國際
+
+蓋洛普：韓國總統李在明支援率由 44% 升至 45%。
+
+---
+
+### 2026-08-21 09:02:03  #市場 #焦點
+
+白銀連續主力合約日內漲3%，現報16596.00元。
+
+---
+
+### 2026-08-21 09:01:34  #市場
+
+新加坡海峽時報指數開盤下跌0.4%，至5646.56點。
+
+---
+
+### 2026-08-21 09:01:17  #市場 #國際
+
+馬來西亞吉隆坡綜合指數開盤變化不大，報1736.08點。
+
+---
+
+### 2026-08-21 09:01:11  #MKT News #Market Regions #Greater China
+
+Taiwan Stock Exchange weighted index opened down 34.46 points, or 0.08%, at 44,899.28 on Friday, Aug. 21.
 
 ---
 
@@ -20475,29 +20525,5 @@ China's one-year Loan Prime Rate (LPR) for Aug. 20 will be released in 10 minute
 ### 2026-08-20 08:45:57  #Trading Economics #Markets #Japan #Stock Market #Importance 2
 
 Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1.3% to above 66,000 while the broader Topix Index advanced 0.8% to 4,045 on Thursday, snapping a two-day decline as Japanese shares tracked a positive lead from Wall Street amid a pullback in global bond yields from multi-year highs. The US Treasury Department said it will more than double repurchases of 10-, 20- and 30-year debt over the coming months after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Japan’s 10-year government bond yield also eased to around 2.84% after hitting a 30-year high of 2.95% earlier this week. Meanwhile, data showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips. Notable gains came from index heavyweights including Kioxia Holdings (3.8%), Advantest (1.8%), SoftBank Group (3.2%), Nintendo (3.2%) and Toyota Motor (3%).
-
----
-
-### 2026-08-20 08:44:40  #公司
-
-【澄天偉業：液冷業務當前訂單能見度較前期有所提升】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務源於在半導體封裝材料領域的技術積累，憑藉在精密金屬加工領域的工藝能力，在行業需求興起之初，公司就與臺灣核心客戶持續進行共同開發、持續打樣等小批次生產，當前業務處於從驗證匯入向規模化交付過渡的關鍵階段。公司主要為客戶提供GPU液冷模組及機櫃內部歧管等核心部件，目前該產品線將跟隨客戶量產節奏推進，整體放量節奏與客戶的交付排期高度關聯。當前訂單能見度較前期有所提升。
-
----
-
-### 2026-08-20 08:43:03  #MKT News
-
-【Samsung to unveil new Galaxy S26 model on Aug. 27】Samsung Electronics said on Thursday it will hold an online launch for its Galaxy S26 smartphone line on Aug. 27. The firm did not name the product; leaks identify it as the Galaxy S26 FE. Leaked specs include a 6.7-inch Dynamic AMOLED 2X display, an Exynos 2500 SoC, up to 50 hours battery life per charge (about 7.5 hours longer than the Galaxy S25 FE) and a rear camera array of 50MP main, 12MP ultrawide and 8MP telephoto.
-
----
-
-### 2026-08-20 08:41:17  #公司 #國際
-
-【三星宣佈將於下週釋出Galaxy S26最新機型】韓國三星電子公司週四表示，將於下週釋出其Galaxy S26智慧手機系列的最新機型。 該公司表示，釋出會將於8月27日線上舉行。 三星未直接公佈該產品的名稱，但據傳即將釋出的裝置為Galaxy S26 FE。 有洩露資訊顯示，Galaxy S26 FE將配備一塊6.7英寸的Dynamic AMOLED 2X顯示屏。 這款智慧手機預計將搭載三星Exynos 2500移動應用處理器，單次充電續航時間最長可達50小時，比Galaxy S25 FE多出約7.5小時。 後置攝像頭系統預計包括一枚5000萬畫素主攝、一枚1200萬畫素超廣角鏡頭和一枚800萬畫素長焦鏡頭。
-
----
-
-### 2026-08-20 08:40:12  #MKT News
-
-【Dier Laser expands TGV lineup to etch and AOI; integrated orders start to appear】Dier Laser told investors on Aug. 19 that its TGV (through‑glass via) strategy now covers etching and AOI inspection equipment alongside its laser‑modification machines. Laser‑modification units continue to win orders and generate revenue; bundled orders for laser modification plus etch have begun to appear and AOI systems are under active validation. The company said it will supply standalone or matched equipment suites based on customer process flow, via geometry, substrate size and capacity needs as it broadens its TGV product matrix.
 
 ---

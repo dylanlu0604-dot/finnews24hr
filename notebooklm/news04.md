@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 02:42:40_
-_本檔包含 3294 則快訊，約 650264 字_
+_更新時間：2026-08-23 03:30:24_
+_本檔包含 3293 則快訊，約 650493 字_
+
+---
+
+### 2026-08-19 08:08:21  #MKT News #8035.T #Impact bearish
+
+Tokyo Electron shares fell 4%.
+
+---
+
+### 2026-08-19 08:07:54  #市場 #國際
+
+日本東京電子股價下跌4%。
+
+---
+
+### 2026-08-19 08:07:48  #公司 #市場
+
+三星電子股價早盤下跌7.3%，至249,000韓元。
+
+---
+
+### 2026-08-19 08:07:41  #市場
+
+愛德萬測試股價下跌4%。
+
+---
+
+### 2026-08-19 08:07:36  #市場 #國際
+
+日本東證指數下跌2.1%，至4054.19點。
+
+---
+
+### 2026-08-19 08:07:18  #市場 #國際
+
+10年期日本國債收益率下跌1個基點至2.925%。
+
+---
+
+### 2026-08-19 08:07:15  #MKT News #Important #Market Regions #Japan & APAC
+
+Korea Exchange activated the KOSPI sidecar mechanism, suspending programmatic sell orders for 5 minutes.
+
+---
+
+### 2026-08-19 08:07:06  #觀點
+
+【中信建投：穩健者加大算力投入力度，應用飛輪閉環優於預期】中信建投研報稱，2026年以來，AI產業投資邏輯正從模型能力與資本開支競賽，逐步轉向訂單、收入及盈利的商業化驗證。海外Agent產品率先形成收入增量，雲廠商高強度算力投入仍有云收入和在手訂單支撐；國內模型在Coding及Agent任務上的能力差距快速收窄，推理效率、Token呼叫量及產品收入同步提升。展望未來一至兩個季度，國產模型迭代、Agent產品升級和旗艦模型重新定價有望共同推進，建議持續關注算力服務、國產晶片與超節點，以及具備場景、資料和企業交付能力的B端AI應用廠商。
+
+---
+
+### 2026-08-19 08:06:29  #焦點 #國際
+
+韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。
+
+---
+
+### 2026-08-19 08:06:15  #Trading Economics #Economy #Japan #Machinery Orders #Importance 2
+
+Japan Machinery Orders Rebound More than Expected — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric utilities, jumped 9.7% month-on-month to JPY 1.06 trillion in June 2026, shifting from a 12.4% drop in the prior month and exceeding market forecasts of a 7.8% gain. It was the third time of increase so far this year, also marking the fastest pace since February, reflecting broad-based recovery in business investment. Orders from manufacturers bounced back 19.9% (vs -14.9% in May), while non-manufacturing orders improved (4.5% vs 9.3%). Among manufacturers, the strongest growth came from non-ferrous metals (225.3%), shipbuilding (94.9%), chemicals (39.0%), and petroleum and coal (32.9%). In the non-manufacturing sector, orders strengthened in real estate (253.1%), agriculture (33.0%), and mining, quarrying (23.7%). On an annual basis, machinery orders expanded 16.9%, swinging from May's 1.9% decline and topping estimates for a 10.8% rise and pointing to the fastest rise in four months.
 
 ---
 
@@ -19850,71 +19910,5 @@ Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures rose above
 ### 2026-08-17 22:27:28  #其他
 
 【我國創新藥市場加速爆發】上半年，我國38個“全球新”創新藥獲批，與此同時，今年上半年，我國創新藥對外授權交易總額約1100億美元，已達到2025年全年總額的80%，創下歷史同期新高。從全球首款實體瘤CAR-T細胞藥獲批上市，到創新藥海外授權交易額創歷史同期新高，中國創新藥正在迎來新的發展階段。資料顯示，截至6月底，國家藥監局今年共批准藥品上市註冊申請2318件，其中“全球新”創新藥38個。今年上半年我國創新藥對外授權交易總額約1100億美元，已達到2025年全年總額的80%。從“跟跑”到“並跑”，從單個產品走向全產業鏈能力，中國創新藥正在加速走向世界。一款創新藥從實驗室走向市場，既需要源頭創新，也需要規模化、低成本的生產製造能力。如今，人工智慧已經深度嵌入藥物研發流程。在上海神經與腫瘤藥物研發全國重點實驗室，從靶點發現、分子設計到活性預測、毒理評估，AI正在幫助研發人員降低試錯成本。企業研發人員介紹，以往生成1000個小分子需要大約10天，如今藉助AI輔助藥物設計平臺，只需約2分鐘，篩選效率提高近30倍。如果說實驗室的創新是新藥誕生的源頭，那麼規模化、低成本的生產製造，就是創新藥惠及患者的“最後一公里”。 正如業內人士所說：中國創新藥正在從全球創新的跟隨者，走向可以與全球頂尖藥企並肩同行的共建者。 （央視財經）
-
----
-
-### 2026-08-17 22:27:16  #MKT News
-
-Iran's foreign ministry said Uzbekistan's deputy foreign minister met with Iran's foreign minister Araghchi on Monday afternoon local time.
-
----
-
-### 2026-08-17 22:26:35  #MKT News #SKX.O #Impact bearish
-
-Market sources: mutual fund FMI named lead plaintiff in lawsuit challenging Skechers' $9.4 billion take-private transaction.
-
----
-
-### 2026-08-17 22:25:55  #其他
-
-據 BLAW 訊息，斯凱奇 94 億美元私有化訴訟已確定首席原告。
-
----
-
-### 2026-08-17 22:24:32  #MKT News #Commodities #Industrial Metals #NXE.TO #Impact bullish #BHP.N #Impact mixed
-
-Refinitiv: Uranium miner NexGen Energy said it is sharing technical information with BHP (BHP.N) as it seeks to raise more than $1 billion to finance its Rook I project. BHP last year evaluated NexGen as a potential takeover target.
-
----
-
-### 2026-08-17 22:24:30  #市場
-
-紐約期銀日內漲2%，現報66.41美元/盎司。
-
----
-
-### 2026-08-17 22:24:12  #公司
-
-【*ST明德：收購必凱爾100%股權已完成過戶】*ST明德(002932)8月17日公告，8月14日，公司購買藍帆醫療持有的武漢必凱爾救助用品有限公司（簡稱“必凱爾”）100%股權工商變更登記辦理完畢，必凱爾取得了新的營業執照。截至目前，必凱爾100%股權已全部過戶登記至公司名下。
-
----
-
-### 2026-08-17 22:23:36  #其他
-
-厄瓜多7月消費者價格環比下降0.09%。
-
----
-
-### 2026-08-17 22:23:24  #市場
-
-紐約期金日內漲1%，現報4481.81美元/盎司。
-
----
-
-### 2026-08-17 22:23:19  #市場 #焦點
-
-紐約期金突破4480美元/盎司，日內漲0.96%。
-
----
-
-### 2026-08-17 22:23:11  #國際
-
-【以色列總理與庫什納會晤 討論加沙下階段安排】當地時間17日，以色列總理內塔尼亞胡與來訪的美國總統特朗普的女婿庫什納、“和平委員會”高階官員會晤。據悉，雙方的會談持續了約4個小時。相關政治訊息人士稱，雙方重點討論了加沙下一階段的安排。雙方同意：在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）完全解除武裝之前，加沙地帶不會進行任何重建；哈馬斯必須在監督下交出所有武器並進行銷燬，同時以色列國防軍仍有行動自由，以持續進行針對性打擊，這是實現加沙地帶非軍事化的第一步；此外，在加沙實施必要衛生措施，以防止疫情蔓延。（央視新聞）
-
----
-
-### 2026-08-17 22:23:02  #MKT News
-
-The Jerusalem Post, citing sources, reported Israel and the US have agreed that in the initial phase of disarming Hamas, weapons surrendered by Hamas will be destroyed by an international stabilization force led by US Major General Jasper Jeffers, rather than handed to the proposed Palestinian technocratic government (NCAG).
 
 ---
