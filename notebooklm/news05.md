@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 17:31:50_
-_本檔包含 3038 則快訊，約 652904 字_
+_更新時間：2026-08-22 17:47:49_
+_本檔包含 3045 則快訊，約 652741 字_
+
+---
+
+### 2026-08-17 21:00:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+Night session opened; China’s main futures were mostly higher. Ethylene glycol (EG) rose >3%. Benzene, PTA and Shanghai crude (SC) gained >2%. Asphalt up ~2%. Fuel oil, PET flakes, LPG, propylene, plastics and BR rubber rose >1%. Starch fell nearly 1%.
+
+---
+
+### 2026-08-17 21:00:12  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2743.00元。
+
+---
+
+### 2026-08-17 21:00:03  #市場 #焦點
+
+乙二醇連續主力合約日內漲3%，現報5217.00元。
+
+---
+
+### 2026-08-17 21:00:02  #市場
+
+【國內期貨夜盤開盤】集運指數歐線期貨連續漲10.89%，鉑連續漲3.37%，乙二醇連續漲3.12%，純苯連續漲2.22%，鈀連續漲2.03%。
+
+---
+
+### 2026-08-17 20:59:50  #公司
+
+【聚和材料：釋出股票交易風險提示公告】聚和材料公告稱，公司近期生產經營狀況正常，內外部經營環境未發生重大變化，股價短期漲幅較大，或存在市場情緒過熱及非理性炒作情形，短期股價或有較大回撥風險。2026年3月31日公司已完成對SKE旗下空白掩模版相關業務的收購，標的業務處於虧損狀態，國內生產基地尚在建設，短期內不會對公司業績產生較大影響。公司擬與關聯人共同向國聚同輝新增出資，該事項尚無實質性進展，尚需提交股東會審議，存在未獲透過風險。公司光伏導電漿料核心原材料銀的價格中長期波動不確定性較強，將直接影響生產成本。
+
+---
+
+### 2026-08-17 20:59:30  #國際
+
+美國聯邦基金有效利率8月14日報3.63%，成交量為990億美元，8月13日為3.63%，成交量為1,060億美元。
+
+---
+
+### 2026-08-17 20:59:13  #國際
+
+美國地質調查局：俄羅斯彼得羅巴甫洛夫斯克-堪察加東南偏東75公里處發生5.3級地震。
+
+---
+
+### 2026-08-17 20:58:57  #MKT News
+
+USGS reports a magnitude 5.3 earthquake 75 km ESE of Petropavlovsk-Kamchatsky, Russia.
+
+---
+
+### 2026-08-17 20:58:28  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+【OpenAI signs 10 GW Ohio data‑center deal with SB Energy; NVIDIA to back financing】OpenAI has signed a 10 GW data‑center lease with SB Energy in Ohio. People familiar with the matter say NVIDIA has committed support to help raise debt financing by guaranteeing part of the value of completed data‑center assets, starting with the first phase (about 5 GW). In return NVIDIA will be the exclusive chip supplier for the first half of the project and will take an equity stake in SB Energy. NVIDIA may later expand its guarantees to the entire campus. The guarantees are structured against asset value rather than OpenAI’s ongoing rent, a design intended to limit NVIDIA’s risk while boosting lender confidence and lowering financing costs.
+
+---
+
+### 2026-08-17 20:58:14  #市場 #國際
+
+【紐約州製造業活動在8月份出現2021年底以來最快擴張】由於訂單增長和積壓訂單保持強勁，8月份紐約州製造業活動出現2021年底以來的最快擴張。週一公佈的資料顯示，紐約聯邦儲備銀行8月份的製造業整體企業狀況指數上升5點，達到20.6。該資料高於零表明製造業在擴張。之前接受彭博新聞社調查的經濟學家的預測中值為10。對未來六個月整體企業狀況的展望指數也出現上升，對新訂單的預期指數達到2022年以來最高。今年美國製造業發展勢頭增強，消費者需求展現任性，企業投資也保持穩健，尤其是在人工智慧建設相關的領域。不過，企業也面臨著伊朗衝突導致的原材料價格上漲以及衝突持續時間不確定性的挑戰。衡量當前未交貨訂單的指標躍升10.5點，達到15.5，為2022年4月以來最高水平。衡量當前原材料支付價格的指標自5月以來首次上漲，而接收價格指數出現下降。
+
+---
+
+### 2026-08-17 20:57:02  #市場
+
+BLUE RIDGE BANKSHARES 恢復交易，股價盤前上漲 5%。
+
+---
+
+### 2026-08-17 20:56:34  #其他
+
+市場訊息：維瑞塔斯資本宣佈以11億美元出售Epiq Solutions。
+
+---
+
+### 2026-08-17 20:56:16  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Lower After CPI — Futures tracking Canadian stocks edged lower on Monday following the release of CPI data, after the S&P/TSX Composite Index reached a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. July’s inflation report also showed fuel prices rising at a faster pace. Elsewhere, Abaxx Technologies’ net loss widened in the second quarter. OceanaGold plans to acquire Ausgold in a deal valued at A$776 million. Canada and the US remain far from reaching a draft trade deal despite regular meetings, Canadian Trade Minister Dominic LeBlanc told an advisory committee on Friday.
 
 ---
 
@@ -18279,41 +18357,5 @@ UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is usi
 ### 2026-08-15 17:50:02  #國際
 
 【伊朗總統稱絕不會違抗最高領袖】當地時間8月14日，伊朗總統佩澤希齊揚表示，敵人如今破壞伊朗國家穩定的方式不僅僅是軍事手段，還企圖在伊朗內部製造分裂，破壞內部團結。他強調，無論他個人的想法如何，但他絕不會違抗伊朗最高領袖，因為團結遠比個人想法更為重要，他還表示，伊朗會繼續抗爭，絕不屈服於敵人的暴政與侵略。 （CCTV國際時訊）
-
----
-
-### 2026-08-15 17:43:41  #MKT News #Important #Market Regions #Japan & APAC #XAUUSD #Impact bullish #Nikkei 225 #Impact bearish #Hang Seng Index
-
-【China defense ministry warns Japan over Yasukuni visits, 'new militarism'】China Defense Ministry spokesman Jiang Bin said Japan must confront its history and deeply reflect on wartime crimes, urging Tokyo to draw lessons on the 80th anniversary of the Tokyo Trials. He warned that persistence in promoting a "new militarism" and actions that harm regional peace — including visits to Yasukuni Shrine — would again face justice and historical reckoning.
-
----
-
-### 2026-08-15 17:41:27  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-【Shanghai property trading hotline: no new policy on replacement home purchases for non-residents or foreigners】Shanghai Real Estate Trading Center hotline said no new policy has been issued and clarified existing replacement-purchase rules. For non-Shanghai household families: selling their only property allows replacement with one dwelling anywhere in the city; buyer and seller must be the same person and no social insurance or individual income tax proof is required. This rule has been in effect since 28 May 2024. For households or adult single buyers owning two or more properties who sell some units: replacement purchases must match the sold units in both number and location—units sold outside the Outer Ring Road may only be replaced with units outside the Outer Ring Road; units sold inside the Outer Ring Road may only be replaced with units inside the Outer Ring Road—also exempt from social insurance or individual tax proof. This took effect 26 Feb 2026. For foreign nationals: after selling all Shanghai properties, a foreign individual may replace and purchase one dwelling in the city without submitting a foreigner residence permit (work category), a one‑year local labor contract prior to purchase, or one year of local social insurance/individual tax payment proof; the buyer must sign a foreign individual owner‑occupancy commitment. This rule took effect 29 Jul 2026.
-
----
-
-### 2026-08-15 17:40:18  #焦點 #國際
-
-【國防部新聞發言人蔣斌就日本政要參拜靖國神社答記者問】記者：據報道，在日本戰敗投降日當天，日本首相高市早苗向靖國神社供奉祭祀費，日本防衛大臣小泉進次郎等前往參拜。請問對此有何評論？蔣斌：靖國神社是日本軍國主義發動對外侵略戰爭的精神工具和象徵，供奉有雙手沾滿亞太國家人民鮮血的戰犯。日本政客有關行徑公然褻瀆歷史正義，嚴重傷害亞太受害國人民感情，本質上是掩蓋否定侵略罪責，挑戰世界反法西斯戰爭勝利成果與戰後國際秩序。一邊嘴上標榜追求和平，一邊向戰爭罪魁禍首頂禮膜拜，這種虛偽的作派，充分暴露出日本右翼勢力嚴重扭曲的歷史觀和為軍國主義揚幡招魂的危險圖謀。（新華社）
-
----
-
-### 2026-08-15 17:36:08  #市場 #國際
-
-【美退役上將：美軍中東後勤保障體系已失效】眼下，圍繞美國“林肯”號航母超期部署引發的船員身心危機與後勤保障失效‌的問題，依舊是美國媒體關注的焦點。美媒報道指出，此次航母事件暴露出的美國海軍後勤保障體系存在嚴重問題。美國海軍退役四星上將、前海軍作戰部長加里·拉夫黑德上將13日在接受美國公共廣播電視網（PBS）採訪時表示，近期美軍在中東地區部署艦船的後勤保障工作難度極大，因為美軍沿用數十年的中東艦船後勤保障體系已徹底失效。（央視新聞）
-
----
-
-### 2026-08-15 17:34:25  #其他
-
-【皇崗口岸港方口岸區舉行第二次大型演練和反恐及重大事故演習】香港特區政府今日（15日）於皇崗口岸港方口岸區舉行第二次大型演練，並進行跨部門反恐及重大事故演習，進一步測試口岸聯檢大樓和公共運輸交匯處的人流和車流整體管理，以及加強各部門面對突發事故的應變能力。 此次演練動員超過5000名來自共約30個政策局和部門的公務員參與。他們按指示乘搭不同的公共交通工具抵達口岸，隨後前往聯檢大樓的離境大堂及入境大堂，再按指示乘搭公共交通工具離開口岸。參與人員乘坐由各公共交通營辦商派出的車輛進行超過250發車班次的迴圈測試，以模擬人流和車流進出口岸的情況。 保安局局長鄧炳強到場視察，並於演練後與各參與部門舉行會議，即時檢視流程和參與人士回饋的意見，以在後續演練中加以最佳化。（大灣區之聲）
-
----
-
-### 2026-08-15 17:34:14  #宏觀
-
-【非滬籍居民及境外人士置換性購房政策微調？上海房地產交易中心熱線回應】針對市場傳出上海更新置換購房相關執行口徑，8月15日，記者致電上海房地產交易中心熱線“962269”進行諮詢。針對非本市戶籍居民置換性購房的問題，上海房地產交易中心熱線工作人員表示，並未出臺新政。據熱線工作人員介紹，非本市戶籍居民家庭，出售名下唯一房產，可在全市範圍內建換一套住房，前後產權人需保持一致，無需提供社保或個稅證明。該口徑已於2024年5月28日起執行。針對多套住房，非本市戶籍居民家庭或成年單身人士出售名下部分房產（即名下有兩套及以上的），再次購房時，購買住房的套數與位置要與售出房屋一致——賣掉外環外房屋只能外環外買；賣掉外環內房屋，只能外環內買，免於提交社保或個稅證明。該口徑已於2026年2月26日起執行。針對境外人士的購房置換，熱線工作人員表示，境外個人出售名下上海全部房產後，可在本市置換併購買一套住房，免於提交外國人居留許可證（工作類）、自購房之日前連續滿一年的本市勞動合同，以及購房之日前連續滿一年的社保、個稅繳納證明，但仍需簽署境外個人購房自住承諾書。該口徑於2026年7月29日起執行。 (澎湃新聞)
 
 ---

@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 17:31:50_
-_本檔包含 3091 則快訊，約 653980 字_
+_更新時間：2026-08-22 17:47:49_
+_本檔包含 3091 則快訊，約 652999 字_
+
+---
+
+### 2026-08-22 17:42:13  #公司
+
+【特斯拉客服回應近300萬輛召回具體做法：不用都進店，三項提示分級處理，貼紙9月底到店領，給車主3年時間】8月21日，國家市場監管總局釋出公告，特斯拉、小米、零跑、小鵬、吉利、奇瑞、東風汽車、北汽藍谷、中國一汽等9家車企因車內應急機械拉手相關問題召回多款汽車，涉及總量超400萬輛。其中，特斯拉召回數量最多，達到近300萬輛，涉及Model 3、Model Y、Model S、Model X等車型。記者向特斯拉中國官方客服詢問瞭解到，此次特斯拉召回主要涉及兩類處理方式。一部分特斯拉車主會收到三項相關提示，包括“增加車門應急拉手標識”“更新車輛軟體以增加車輛事故後降窗策略”以及“更新車輛軟體以改善駕駛員注意力檢測功能”。收到這三項提示的車主，軟體部分等待車輛OTA（遠端空中升級）即可；涉及車門應急拉手標識的車輛，則可以在有保養或檢修需求時，前往特斯拉各服務中心領取貼紙。特斯拉客服表示，相關貼紙預計9月底發放至各服務中心，加貼實施週期為3年，在此期間車主均可領取貼紙。對於部分已經配備警示標識的車輛則無需再次加貼。（每經網）
+
+---
+
+### 2026-08-22 17:39:14  #其他
+
+【榴蓮價格下降近3成】榴蓮是我國第一大進口水果品類。近期，進口榴蓮大量上市，一些品種的鮮榴蓮降價近三成。 近期，貓山王榴蓮、黑刺榴蓮、幹堯榴蓮有明顯降價，環比4月，降價幅度在10%-30%之間不等。近期進口榴蓮大量上市、供應量大增是目前榴蓮降價的主要原因。隨著近期更多越南榴蓮上市，市場內榴蓮批發價格進一步下降，如干堯榴蓮批發均價已下降至15-18元/斤。 (央視網)
+
+---
+
+### 2026-08-22 17:37:10  #公司
+
+【牧原股份與華為簽署戰略合作協議】據牧原集團公眾號，近日，華為技術有限公司（簡稱“華為”） 與牧原食品集團股份有限公司（簡稱“牧原股份”）正式簽署戰略合作協議。雙方將聚焦生豬養殖真實生產場景，深化戰略協同，共同推動數智技術與綠色能源在產業鏈中的融合應用。
 
 ---
 
@@ -18633,23 +18651,5 @@ Japan's Nikkei 225 opened down 639.56 points, or 0.97%, at 65,577.23 on Friday, 
 ### 2026-08-21 07:57:52  #其他
 
 李寧：上半年營收152.35億元人民幣，上年同期為148.2億元人民幣。
-
----
-
-### 2026-08-21 07:56:13  #MKT News #005930.KS #Impact bullish
-
-【Samsung to unveil shareholder return plan potentially up to 110 trillion won ($79bn)】People familiar with the matter said Samsung Electronics will announce on Friday a shareholder return plan that could reach 110 trillion won (about $79 billion). The board is scheduled to meet after the KOSPI close at around 4:00 p.m. local time, with details expected shortly after. The plan’s size is said to be likely between 90 trillion and 110 trillion won.
-
----
-
-### 2026-08-21 07:54:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-【Japan core inflation accelerates for second month, reinforces BOJ near-term rate-hike bets】Japan's key inflation gauges accelerated for a second month, boosting expectations the Bank of Japan may tighten policy soon. July core CPI rose 1.8% YoY, up from 1.6% in June and in line with economists' median. The BOJ's preferred core-core measure (ex fresh food and energy) rose 1.9% YoY; headline CPI also climbed 1.9%. Energy prices contributed to the pickup, with July energy up 0.6% YoY after a small decline in June. Governor UEDA has signaled policymakers could speed up normalization; with yen weakness adding upside inflation risk, markets have increased bets on BOJ action as soon as September despite a rare US-Japan coordinated FX intervention at end-July.
-
----
-
-### 2026-08-21 07:53:12  #公司 #市場 #國際
-
-【目前已有22家煤炭上市公司披露2026年半年度業績相關公告 報喜比例近七成】近期，焦炭期貨、現貨價格持續上漲。生意社資料顯示，截至8月20日，焦炭基準價達到1868.75元/噸，較5月20日上漲11.40%；期貨方面，焦炭2701主力合約8月以來持續上漲，累計漲幅已達到12.85%。焦煤近期亦有明顯漲幅。生意社資料顯示，煉焦煤8月18日價格為1923.75元/噸，較5月18日上漲23.42%；期貨方面，8月以來，焦煤2701主力合約累計上漲18.99%。需求方面，今年上半年，全國用電需求保持旺盛增長態勢，算力、充換電等行業高速發展，疊加持續高溫天氣，全社會用電量增速加快。據證券時報·資料寶統計，截至8月20日，已有22家煤炭上市公司披露2026年半年度業績相關公告。按半年報淨利潤、業績預告下限順序計算，3家公司扭虧為盈，6家同比減虧，6家實現淨利潤同比增長，報喜比例近七成。扭虧為盈的3家公司中，甘肅能化淨利潤最高，公司預計實現歸母淨利潤1.66億元，主要由於煤炭銷售均價同比上漲。從估值上來看，上述扭虧、減虧、預增的15只煤炭股中，4股最新市淨率不足1倍，處於“破淨”狀態，包括山西焦化、蘭花科創、甘肅能化、恆源煤電，最新市淨率分別為0.6倍、0.71倍、0.84倍、0.9倍。
 
 ---

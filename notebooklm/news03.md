@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 17:31:50_
-_本檔包含 3245 則快訊，約 653458 字_
+_更新時間：2026-08-22 17:47:49_
+_本檔包含 3244 則快訊，約 653858 字_
+
+---
+
+### 2026-08-20 07:46:25  #國際
+
+【日本擬研發潛射高超聲速導彈】綜合共同社、《東京新聞》等多家日媒19日報道，日本防衛省2027年度預算要求整體內容日前曝光。多名相關人士18日透露，作為強化所謂“反擊能力”（即所謂對敵基地攻擊能力）的手段之一，日本防衛省計劃研發潛射高超聲速導彈，並推進為無人潛航器配備遠端導彈發射功能的相關研究。接受記者採訪的軍事問題專家19日表示，日本已徹底撕下其長期以來標榜的“和平國家”的偽裝，在極其危險的軍事擴張道路上狂飆。（環球時報）
+
+---
+
+### 2026-08-20 07:45:59  #觀點
+
+【中金：預計伺服器液冷泵作為核心動力元件有望迎來放量週期】中金研報指出，全球AI算力晶片功耗加速突破風冷散熱極限，資料中心向液冷架構演進，預計伺服器液冷泵作為核心動力元件有望迎來放量週期。國內汽車熱管理龍頭依託精密電子電機控制、高壓全密封等底層工藝跨界入局，展現競爭優勢。
+
+---
+
+### 2026-08-20 07:45:58  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged higher on Thursday after posting a modest rebound in the previous session, as a sharp decline in Treasury yields helped improve investor sentiment. In regular trading on Wednesday, the Dow and S&P 500 rose 0.22% and 0.21%, respectively, while the Nasdaq Composite advanced 0.16%, with all three benchmarks snapping a three-day losing streak. The consumer discretionary, materials and consumer staples sectors outperformed the broader market, while industrial, technology and financial stocks lagged. Yields on longer-dated US Treasurys pulled back from multi-year highs after the government announced plans to more than double repurchases of 10-, 20- and 30-year debt over the coming months. The move came after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Investors now turn their attention to retail giant Walmart’s earnings later in the global day, along with the latest weekly jobless claims data.
+
+---
+
+### 2026-08-20 07:40:29  #其他
+
+【多隻REITs產品原始權益人相繼披露增持計劃】在公募REITs二級市場持續震盪調整的背景下，近日多隻REITs產品原始權益人相繼披露增持計劃。有分析指出，增持計劃帶來的增量資金，有助於平抑二級市場波動，緩解階段性流動性壓力，引導價格向資產內在價值合理迴歸。在估值經歷深度出清後，部分REITs高企的現金分派率與走闊的利差空間，也令此類產品配置價效比再度顯現，併為追求穩健現金流的長期資金鋪設了厚實的安全墊。
+
+---
+
+### 2026-08-20 07:39:46  #其他
+
+【新股提示：格林生物今日申購】今日可申購格林生物，格林生物發行總數約3333萬股，網上發行約為700萬股，發行市盈率19.80倍，申購程式碼為：301688，申購價格：26.33元，單一賬戶申購上限0.7萬股。
+
+---
+
+### 2026-08-20 07:39:29  #觀點
+
+【華泰證券：中長期仍看好交執行業景氣底部回暖，左側佈局具備較高價效比】華泰證券研報指出，7月傳統暑運旺季疊加航煤出廠價回落，航司加大運力投放。三大航（國航/東航/南航，下同）+春秋+吉祥ASK/RPK分別同增4.6%/7.8%（6月為同降2.5%/1.7%），客座率同增2.6pct至86.2%，不過量增價弱，國內線含油票價第27周-31周（6/29-8/2）同降3.2%（6/1-6/28為同增11.5%，航班管家）。8月上旬進入暑運高峰，民航票價表現邊際改善，第32周-33周（8/3-8/16）同增2.6%，不過考慮基數不高，暑運並未產生明顯旺季效應，板塊關注度較低。往後展望，繼續關注國際油價和高頻資料走勢，中長期仍看好行業景氣底部回暖，左側佈局具備較高價效比。
 
 ---
 
@@ -19538,47 +19574,5 @@ NZX 50 Extends Gains on Healthcare Stocks Boost — New Zealand's stocks rose 33
 ### 2026-08-19 07:04:04  #Trading Economics #Economy #United States #API Crude Oil Stock Change #Importance 1
 
 US Crude Inventories Barely Decline — US crude oil inventories fell by 328,000 barrels in the week ending August 14th, following a 9.07 million-barrel increase in the previous week. Commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 18 weeks, while inventories are up 1.88 million barrels year-to-date. Another 5.3 million barrels left the SPR, bringing total reserves to 293.4 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories fell by 1.44 million barrels after rising 1.57 million barrels in the previous week. Meanwhile, US crude production edged up to 13.805 million bpd from 13.804 million bpd, up 521,000 bpd from a year earlier. Gasoline inventories increased by 1.08 million barrels, while distillate stocks fell by 2.80 million barrels, extending their decline to 3.39 million barrels over the past two weeks.
-
----
-
-### 2026-08-19 07:02:04  #公司
-
-【看好AI投資機遇，QFII資金“廣撒網”】今年二季度，QFII資金積極關注AI投資機遇。根據目前已披露的A股上市公司2026年半年報，QFII資金二季度新增持有國瓷材料、宏發股份、中材科技的市值均在10億元以上，二季度國瓷材料、中材科技分別漲超230%、130%。同時，QFII資金也在持續挖掘中小市值個股的投資機會，外資機構二季度扎堆持有的美諾華、曉程科技等，7月以來均有明顯的反彈。
-
----
-
-### 2026-08-19 06:59:38  #Trading Economics #Economy #New Zealand #Producer Price Inflation MoM #Importance 1
-
-New Zealand PPI Output Prices Rise More than Expected — Producer output prices in New Zealand increased 1.6% quarter-on-quarter in the June quarter of 2026, exceeding both the previous quarter’s 0.8% rise and market expectations of a 0.8% increase. It marked the fastest pace since the first quarter of 2025, boosted mainly by three sectors, with the largest contributions coming from electricity and gas supply (11.0%), dairy product manufacturing (3.9%), and road transport (8.4%).
-
----
-
-### 2026-08-19 06:58:49  #其他
-
-中國地震臺網正式測定：08月19日06時53分在新疆克孜勒蘇州阿合奇縣（北緯40.85度，東經78.75度）發生3.7級地震，震源深度10千米。
-
----
-
-### 2026-08-19 06:56:55  #其他
-
-韓媒：美韓聯合軍演日程預計將縮減一半。
-
----
-
-### 2026-08-19 06:56:38  #MKT News #S&P500 #Impact bullish #USDJPY #Impact bearish #XAUUSD
-
-According to South Korean media, the planned scale of US-South Korea joint military exercises is expected to be halved.
-
----
-
-### 2026-08-19 06:55:51  #其他
-
-【我國執業醫師達529萬人 居民主要健康指標達歷史最好水平】今天是第九個中國醫師節，各地醫療機構和醫務工作者舉行了形式多樣的紀念活動。記者今天從國家衛生健康委瞭解到，截至2025年底，全國執業（助理）醫師達到529萬人，超額完成“十四五”衛生健康人才發展規劃設定目標。醫師隊伍中研究生學歷佔比、本科以上學歷佔比、高階技術職務佔比等指標，較2012年均有提升。2025年，我國醫療衛生機構總診療人次超106億，我國居民主要健康指標跨入中高收入和人口過億國家前列，達到歷史最好水平。 (央視新聞)
-
----
-
-### 2026-08-19 06:50:41  #Trading Economics #Economy #New Zealand #PPI Input #Importance 1
-
-New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%).
 
 ---

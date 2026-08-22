@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 17:31:50_
-_本檔包含 3400 則快訊，約 653249 字_
+_更新時間：2026-08-22 17:47:49_
+_本檔包含 3397 則快訊，約 652996 字_
+
+---
+
+### 2026-08-21 07:56:13  #MKT News #005930.KS #Impact bullish
+
+【Samsung to unveil shareholder return plan potentially up to 110 trillion won ($79bn)】People familiar with the matter said Samsung Electronics will announce on Friday a shareholder return plan that could reach 110 trillion won (about $79 billion). The board is scheduled to meet after the KOSPI close at around 4:00 p.m. local time, with details expected shortly after. The plan’s size is said to be likely between 90 trillion and 110 trillion won.
+
+---
+
+### 2026-08-21 07:54:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【Japan core inflation accelerates for second month, reinforces BOJ near-term rate-hike bets】Japan's key inflation gauges accelerated for a second month, boosting expectations the Bank of Japan may tighten policy soon. July core CPI rose 1.8% YoY, up from 1.6% in June and in line with economists' median. The BOJ's preferred core-core measure (ex fresh food and energy) rose 1.9% YoY; headline CPI also climbed 1.9%. Energy prices contributed to the pickup, with July energy up 0.6% YoY after a small decline in June. Governor UEDA has signaled policymakers could speed up normalization; with yen weakness adding upside inflation risk, markets have increased bets on BOJ action as soon as September despite a rare US-Japan coordinated FX intervention at end-July.
+
+---
+
+### 2026-08-21 07:53:12  #公司 #市場 #國際
+
+【目前已有22家煤炭上市公司披露2026年半年度業績相關公告 報喜比例近七成】近期，焦炭期貨、現貨價格持續上漲。生意社資料顯示，截至8月20日，焦炭基準價達到1868.75元/噸，較5月20日上漲11.40%；期貨方面，焦炭2701主力合約8月以來持續上漲，累計漲幅已達到12.85%。焦煤近期亦有明顯漲幅。生意社資料顯示，煉焦煤8月18日價格為1923.75元/噸，較5月18日上漲23.42%；期貨方面，8月以來，焦煤2701主力合約累計上漲18.99%。需求方面，今年上半年，全國用電需求保持旺盛增長態勢，算力、充換電等行業高速發展，疊加持續高溫天氣，全社會用電量增速加快。據證券時報·資料寶統計，截至8月20日，已有22家煤炭上市公司披露2026年半年度業績相關公告。按半年報淨利潤、業績預告下限順序計算，3家公司扭虧為盈，6家同比減虧，6家實現淨利潤同比增長，報喜比例近七成。扭虧為盈的3家公司中，甘肅能化淨利潤最高，公司預計實現歸母淨利潤1.66億元，主要由於煤炭銷售均價同比上漲。從估值上來看，上述扭虧、減虧、預增的15只煤炭股中，4股最新市淨率不足1倍，處於“破淨”狀態，包括山西焦化、蘭花科創、甘肅能化、恆源煤電，最新市淨率分別為0.6倍、0.71倍、0.84倍、0.9倍。
 
 ---
 
@@ -20516,41 +20534,5 @@ Japan | Annualized Adjusted Merchandise Trade Exports (Jul) | actual 23.2% | con
 ### 2026-08-20 07:47:05  #市場 #國際
 
 日本日經平均指數期貨早盤上漲1.3%。
-
----
-
-### 2026-08-20 07:46:25  #國際
-
-【日本擬研發潛射高超聲速導彈】綜合共同社、《東京新聞》等多家日媒19日報道，日本防衛省2027年度預算要求整體內容日前曝光。多名相關人士18日透露，作為強化所謂“反擊能力”（即所謂對敵基地攻擊能力）的手段之一，日本防衛省計劃研發潛射高超聲速導彈，並推進為無人潛航器配備遠端導彈發射功能的相關研究。接受記者採訪的軍事問題專家19日表示，日本已徹底撕下其長期以來標榜的“和平國家”的偽裝，在極其危險的軍事擴張道路上狂飆。（環球時報）
-
----
-
-### 2026-08-20 07:45:59  #觀點
-
-【中金：預計伺服器液冷泵作為核心動力元件有望迎來放量週期】中金研報指出，全球AI算力晶片功耗加速突破風冷散熱極限，資料中心向液冷架構演進，預計伺服器液冷泵作為核心動力元件有望迎來放量週期。國內汽車熱管理龍頭依託精密電子電機控制、高壓全密封等底層工藝跨界入局，展現競爭優勢。
-
----
-
-### 2026-08-20 07:45:58  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged higher on Thursday after posting a modest rebound in the previous session, as a sharp decline in Treasury yields helped improve investor sentiment. In regular trading on Wednesday, the Dow and S&P 500 rose 0.22% and 0.21%, respectively, while the Nasdaq Composite advanced 0.16%, with all three benchmarks snapping a three-day losing streak. The consumer discretionary, materials and consumer staples sectors outperformed the broader market, while industrial, technology and financial stocks lagged. Yields on longer-dated US Treasurys pulled back from multi-year highs after the government announced plans to more than double repurchases of 10-, 20- and 30-year debt over the coming months. The move came after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Investors now turn their attention to retail giant Walmart’s earnings later in the global day, along with the latest weekly jobless claims data.
-
----
-
-### 2026-08-20 07:40:29  #其他
-
-【多隻REITs產品原始權益人相繼披露增持計劃】在公募REITs二級市場持續震盪調整的背景下，近日多隻REITs產品原始權益人相繼披露增持計劃。有分析指出，增持計劃帶來的增量資金，有助於平抑二級市場波動，緩解階段性流動性壓力，引導價格向資產內在價值合理迴歸。在估值經歷深度出清後，部分REITs高企的現金分派率與走闊的利差空間，也令此類產品配置價效比再度顯現，併為追求穩健現金流的長期資金鋪設了厚實的安全墊。
-
----
-
-### 2026-08-20 07:39:46  #其他
-
-【新股提示：格林生物今日申購】今日可申購格林生物，格林生物發行總數約3333萬股，網上發行約為700萬股，發行市盈率19.80倍，申購程式碼為：301688，申購價格：26.33元，單一賬戶申購上限0.7萬股。
-
----
-
-### 2026-08-20 07:39:29  #觀點
-
-【華泰證券：中長期仍看好交執行業景氣底部回暖，左側佈局具備較高價效比】華泰證券研報指出，7月傳統暑運旺季疊加航煤出廠價回落，航司加大運力投放。三大航（國航/東航/南航，下同）+春秋+吉祥ASK/RPK分別同增4.6%/7.8%（6月為同降2.5%/1.7%），客座率同增2.6pct至86.2%，不過量增價弱，國內線含油票價第27周-31周（6/29-8/2）同降3.2%（6/1-6/28為同增11.5%，航班管家）。8月上旬進入暑運高峰，民航票價表現邊際改善，第32周-33周（8/3-8/16）同增2.6%，不過考慮基數不高，暑運並未產生明顯旺季效應，板塊關注度較低。往後展望，繼續關注國際油價和高頻資料走勢，中長期仍看好行業景氣底部回暖，左側佈局具備較高價效比。
 
 ---

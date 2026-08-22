@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 17:31:50_
-_本檔包含 3362 則快訊，約 653764 字_
+_更新時間：2026-08-22 17:47:49_
+_本檔包含 3356 則快訊，約 652354 字_
+
+---
+
+### 2026-08-19 07:02:04  #公司
+
+【看好AI投資機遇，QFII資金“廣撒網”】今年二季度，QFII資金積極關注AI投資機遇。根據目前已披露的A股上市公司2026年半年報，QFII資金二季度新增持有國瓷材料、宏發股份、中材科技的市值均在10億元以上，二季度國瓷材料、中材科技分別漲超230%、130%。同時，QFII資金也在持續挖掘中小市值個股的投資機會，外資機構二季度扎堆持有的美諾華、曉程科技等，7月以來均有明顯的反彈。
+
+---
+
+### 2026-08-19 06:59:38  #Trading Economics #Economy #New Zealand #Producer Price Inflation MoM #Importance 1
+
+New Zealand PPI Output Prices Rise More than Expected — Producer output prices in New Zealand increased 1.6% quarter-on-quarter in the June quarter of 2026, exceeding both the previous quarter’s 0.8% rise and market expectations of a 0.8% increase. It marked the fastest pace since the first quarter of 2025, boosted mainly by three sectors, with the largest contributions coming from electricity and gas supply (11.0%), dairy product manufacturing (3.9%), and road transport (8.4%).
+
+---
+
+### 2026-08-19 06:58:49  #其他
+
+中國地震臺網正式測定：08月19日06時53分在新疆克孜勒蘇州阿合奇縣（北緯40.85度，東經78.75度）發生3.7級地震，震源深度10千米。
+
+---
+
+### 2026-08-19 06:56:55  #其他
+
+韓媒：美韓聯合軍演日程預計將縮減一半。
+
+---
+
+### 2026-08-19 06:56:38  #MKT News #S&P500 #Impact bullish #USDJPY #Impact bearish #XAUUSD
+
+According to South Korean media, the planned scale of US-South Korea joint military exercises is expected to be halved.
+
+---
+
+### 2026-08-19 06:55:51  #其他
+
+【我國執業醫師達529萬人 居民主要健康指標達歷史最好水平】今天是第九個中國醫師節，各地醫療機構和醫務工作者舉行了形式多樣的紀念活動。記者今天從國家衛生健康委瞭解到，截至2025年底，全國執業（助理）醫師達到529萬人，超額完成“十四五”衛生健康人才發展規劃設定目標。醫師隊伍中研究生學歷佔比、本科以上學歷佔比、高階技術職務佔比等指標，較2012年均有提升。2025年，我國醫療衛生機構總診療人次超106億，我國居民主要健康指標跨入中高收入和人口過億國家前列，達到歷史最好水平。 (央視新聞)
+
+---
+
+### 2026-08-19 06:50:41  #Trading Economics #Economy #New Zealand #PPI Input #Importance 1
+
+New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%).
 
 ---
 
@@ -20228,83 +20270,5 @@ Paramount (PSKY.O) said it has extended the deadline for its previously announce
 ### 2026-08-17 21:00:22  #Trading Economics #Economy #Canada #Foreign Stock Investment #Importance 1
 
 Foreign Investment in Canadian Securities Surges — Foreign investors added C$40.8 billion of Canadian securities to their holdings in June 2026, sharply higher than C$8.8 billion in May and well above market expectations of C$15 billion. The increase was led by strong foreign purchases of debt securities, which totaled C$39.9 billion. Federal government debt securities accounted for most of the increase, with non-resident investors acquiring C$25.4 billion. Non-resident investors also purchased C$16.2 billion of private corporate bonds, mainly instruments issued by Canadian chartered banks and denominated in US dollars and euros. Foreign investors acquired C$901 million of Canadian shares after divesting C$16.1 billion in May. By sector, investors mainly acquired shares in manufacturing, partly offset by divestments in the trade and transportation, and finance and insurance sectors. Foreign investors acquired a record C$100.6 billion of Canadian securities in the second quarter.
-
----
-
-### 2026-08-17 21:00:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Night session opened; China’s main futures were mostly higher. Ethylene glycol (EG) rose >3%. Benzene, PTA and Shanghai crude (SC) gained >2%. Asphalt up ~2%. Fuel oil, PET flakes, LPG, propylene, plastics and BR rubber rose >1%. Starch fell nearly 1%.
-
----
-
-### 2026-08-17 21:00:12  #市場 #焦點
-
-甲醇連續主力合約日內漲1%，現報2743.00元。
-
----
-
-### 2026-08-17 21:00:03  #市場 #焦點
-
-乙二醇連續主力合約日內漲3%，現報5217.00元。
-
----
-
-### 2026-08-17 21:00:02  #市場
-
-【國內期貨夜盤開盤】集運指數歐線期貨連續漲10.89%，鉑連續漲3.37%，乙二醇連續漲3.12%，純苯連續漲2.22%，鈀連續漲2.03%。
-
----
-
-### 2026-08-17 20:59:50  #公司
-
-【聚和材料：釋出股票交易風險提示公告】聚和材料公告稱，公司近期生產經營狀況正常，內外部經營環境未發生重大變化，股價短期漲幅較大，或存在市場情緒過熱及非理性炒作情形，短期股價或有較大回撥風險。2026年3月31日公司已完成對SKE旗下空白掩模版相關業務的收購，標的業務處於虧損狀態，國內生產基地尚在建設，短期內不會對公司業績產生較大影響。公司擬與關聯人共同向國聚同輝新增出資，該事項尚無實質性進展，尚需提交股東會審議，存在未獲透過風險。公司光伏導電漿料核心原材料銀的價格中長期波動不確定性較強，將直接影響生產成本。
-
----
-
-### 2026-08-17 20:59:30  #國際
-
-美國聯邦基金有效利率8月14日報3.63%，成交量為990億美元，8月13日為3.63%，成交量為1,060億美元。
-
----
-
-### 2026-08-17 20:59:13  #國際
-
-美國地質調查局：俄羅斯彼得羅巴甫洛夫斯克-堪察加東南偏東75公里處發生5.3級地震。
-
----
-
-### 2026-08-17 20:58:57  #MKT News
-
-USGS reports a magnitude 5.3 earthquake 75 km ESE of Petropavlovsk-Kamchatsky, Russia.
-
----
-
-### 2026-08-17 20:58:28  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-【OpenAI signs 10 GW Ohio data‑center deal with SB Energy; NVIDIA to back financing】OpenAI has signed a 10 GW data‑center lease with SB Energy in Ohio. People familiar with the matter say NVIDIA has committed support to help raise debt financing by guaranteeing part of the value of completed data‑center assets, starting with the first phase (about 5 GW). In return NVIDIA will be the exclusive chip supplier for the first half of the project and will take an equity stake in SB Energy. NVIDIA may later expand its guarantees to the entire campus. The guarantees are structured against asset value rather than OpenAI’s ongoing rent, a design intended to limit NVIDIA’s risk while boosting lender confidence and lowering financing costs.
-
----
-
-### 2026-08-17 20:58:14  #市場 #國際
-
-【紐約州製造業活動在8月份出現2021年底以來最快擴張】由於訂單增長和積壓訂單保持強勁，8月份紐約州製造業活動出現2021年底以來的最快擴張。週一公佈的資料顯示，紐約聯邦儲備銀行8月份的製造業整體企業狀況指數上升5點，達到20.6。該資料高於零表明製造業在擴張。之前接受彭博新聞社調查的經濟學家的預測中值為10。對未來六個月整體企業狀況的展望指數也出現上升，對新訂單的預期指數達到2022年以來最高。今年美國製造業發展勢頭增強，消費者需求展現任性，企業投資也保持穩健，尤其是在人工智慧建設相關的領域。不過，企業也面臨著伊朗衝突導致的原材料價格上漲以及衝突持續時間不確定性的挑戰。衡量當前未交貨訂單的指標躍升10.5點，達到15.5，為2022年4月以來最高水平。衡量當前原材料支付價格的指標自5月以來首次上漲，而接收價格指數出現下降。
-
----
-
-### 2026-08-17 20:57:02  #市場
-
-BLUE RIDGE BANKSHARES 恢復交易，股價盤前上漲 5%。
-
----
-
-### 2026-08-17 20:56:34  #其他
-
-市場訊息：維瑞塔斯資本宣佈以11億美元出售Epiq Solutions。
-
----
-
-### 2026-08-17 20:56:16  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Lower After CPI — Futures tracking Canadian stocks edged lower on Monday following the release of CPI data, after the S&P/TSX Composite Index reached a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. On the geopolitical front, tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. July’s inflation report also showed fuel prices rising at a faster pace. Elsewhere, Abaxx Technologies’ net loss widened in the second quarter. OceanaGold plans to acquire Ausgold in a deal valued at A$776 million. Canada and the US remain far from reaching a draft trade deal despite regular meetings, Canadian Trade Minister Dominic LeBlanc told an advisory committee on Friday.
 
 ---
