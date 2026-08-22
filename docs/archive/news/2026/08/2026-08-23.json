@@ -1,7 +1,39 @@
 {
   "date": "2026-08-23",
-  "count": 70,
+  "count": 73,
   "items": [
+    {
+      "id": "5053497",
+      "time": "2026-08-23 06:28:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：德國默茨政府將敦促內閣推動更快的促增長改革。"
+    },
+    {
+      "id": "te:markets:577377",
+      "time": "2026-08-23 06:26:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sinopec earnings below expectations at 0.08 CNY — Sinopec (600028) released earnings per share at 0.08 CNY, compared to market expectations of 0.09 CNY."
+    },
+    {
+      "id": "te:markets:577376",
+      "time": "2026-08-23 06:26:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cathay Financial earnings above expectations at 2.38 TWD — Cathay Financial (2882) released earnings per share at 2.38 TWD, compared to market expectations of 2.21 TWD."
+    },
     {
       "id": "5053496",
       "time": "2026-08-23 06:13:12",

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-23 06:22:39",
-  "count": 16112,
+  "updated": "2026-08-23 06:32:06",
+  "count": 16114,
   "items": [
+    {
+      "id": "5053497",
+      "time": "2026-08-23 06:28:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：德國默茨政府將敦促內閣推動更快的促增長改革。"
+    },
+    {
+      "id": "te:markets:577377",
+      "time": "2026-08-23 06:26:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sinopec earnings below expectations at 0.08 CNY — Sinopec (600028) released earnings per share at 0.08 CNY, compared to market expectations of 0.09 CNY."
+    },
+    {
+      "id": "te:markets:577376",
+      "time": "2026-08-23 06:26:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cathay Financial earnings above expectations at 2.38 TWD — Cathay Financial (2882) released earnings per share at 2.38 TWD, compared to market expectations of 2.21 TWD."
+    },
     {
       "id": "5053496",
       "time": "2026-08-23 06:13:12",
@@ -147253,14 +147285,6 @@
         "國際"
       ],
       "text": "美國海軍第二艘傑拉爾德·R·福特級航空母艦——尚未正式服役的約翰·F·肯尼迪號，已完成接收試驗。"
-    },
-    {
-      "id": "5042448",
-      "time": "2026-08-16 06:24:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【摩洛哥加強邊境管控 攔截294名企圖非法越境人員】摩洛哥當地媒體15日援引摩安全部門訊息人士的話報道，截至當地時間14時45分，摩安全部隊在靠近西班牙北非飛地休達的邊境地區攔截294名企圖非法越境人員，其中248人來自撒哈拉以南非洲國家，46人為摩洛哥人。（新華社）"
     }
   ]
 }
