@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 05:51:20_
-_本檔包含 3006 則快訊，約 649834 字_
+_更新時間：2026-08-23 06:32:06_
+_本檔包含 2995 則快訊，約 649542 字_
+
+---
+
+### 2026-08-17 22:41:01  #國際
+
+【伊朗指責卡達扣押3名伊朗飛行員】近日，伊朗指責三名伊方飛行員遭到卡達方面的扣押，而卡達對此予以否認，雙方爭執不下。8月17日，伊朗外交部發言人巴加埃稱，伊朗正透過外交渠道關注伊朗飛行員的下落，在事情明朗前，伊朗仍然認為失蹤的三名飛行員是被卡達方面俘獲。巴加埃同時表示，伊朗與卡達的外交關係並不與追查伊朗軍方飛行員的下落相沖突。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 22:40:23  #公司 #國際
+
+【英偉達聯手OpenAI鎖定12吉瓦算力基建，黃仁勳：即便OpenAI不續租，還可以給其他客戶】AI（人工智慧）晶片龍頭英偉達披露了在AI基礎設施戰略佈局上的最新動作。8月17日，英偉達CEO黃仁勳發表題為《保障智慧基礎設施安全》（Securing the Infrastructure of Intelligence）的署名文章稱，英偉達已與能源開發商SB Energy達成合作，鎖定位於美國俄亥俄州波特斯茅斯PORTS-Pike科技園區的土地、電力與廠房（LPS）資源。該場地將專門用於承載英偉達算力系統，而OpenAI將作為租戶在此建造並運營AI工廠。黃仁勳在文中指出，AI工廠是AI時代的決定性基礎設施。當前，基礎設施的競爭焦點已從先進晶片與封裝，延伸到了土地、電力與廠房。AI實驗室對訓練和推理算力的需求極其驚人，“更多的算力意味著更高的智慧、更多的產品、更多的使用者以及更高的收入”，但其發展正受到算力供給不足的嚴重製約。如果未來OpenAI無法繼續使用該園區，其算力可以轉售給英偉達全球生態系統中其他符合條件的租戶。黃仁勳強調，英偉達算力具備通用性與可互換性：“可互換性驅動了利用率和永續性，使英偉達算力成為一種可出租、可融資的生產性資產。”因此，PORTS-Pike這種優質場地的價值絕不侷限於單一客戶或單代算力。在文章的最後，黃仁勳梳理了英偉達的戰略進化路徑：從最初製造加速計算晶片，到擴充套件至系統、網路、CUDA軟體，再到全棧AI工廠，如今進一步延伸至幫助客戶鎖定建造這些工廠所需的關鍵底層資源。黃仁勳表示，英偉達未來在LPS上的佈局仍將保持“戰略性與自律性”，絕大多數客戶將繼續獨立獲取LPS資源，英偉達僅會選擇性地鎖定那些具備明確、持久需求且能承載多代算力升級的卓越場地。 隨後，黃仁勳為這項融資計劃正名，回應外界對“迴圈融資”的質疑。他指出，公司可能會為相關合作提供“最高達專案規模25%”的融資支援：“我們的作用是幫助解鎖龐大的獨立資本池，同時保持自律的風險敞口。”（澎湃）
+
+---
+
+### 2026-08-17 22:40:16  #MKT News
+
+Sources say US private equity firm General Atlantic has hired JP Morgan to lead a new IPO and is working with Goldman Sachs and Morgan Stanley; the share sale could take place as early as this year.
+
+---
+
+### 2026-08-17 22:38:21  #其他
+
+市場訊息：阿富汗喀布林一所私立學校在學生離校期間發生爆炸。
+
+---
+
+### 2026-08-17 22:37:28  #宏觀 #國際
+
+印度市場監管機構：就社交媒體平臺展示實時交易策略向投資者發出警示。
+
+---
+
+### 2026-08-17 22:37:01  #公司 #市場
+
+【耐克股價跌至 2014 年以來最低，最大跌幅達 3.2%】耐克股價面臨跌破 4 月以來形成的交易區間的風險。該股自 2021 年高點以來便處於長期下行通道，目前交易價格跌至 2014 年 9 月以來的最低水平。耐克公司今年以來總回報率為‑36.95%，而標普 500 指數總回報率為 14.33%。分析師對耐克公司給出 17 個買入評級、23 個持有評級、4 個賣出評級；平均目標價：50.65 美元。
+
+---
+
+### 2026-08-17 22:36:18  #MKT News #Market Themes #The Trump Trade
+
+Israel's president met in Jerusalem today with US envoy Jared Kushner, Gaza Peace Committee senior representative Mladenov and their team, who are advancing implementation of the next Gaza phase based on former President Donald Trump's 20-point plan. He said the next phase must ensure the security of Israel and its citizens and deliver stability and a better future for all peoples in the region.
 
 ---
 
@@ -18024,113 +18066,5 @@ Colombian president asked U.S. President Trump on a call to temporarily suspend 
 ### 2026-08-16 06:42:28  #國際
 
 美國海軍第二艘傑拉爾德·R·福特級航空母艦——尚未正式服役的約翰·F·肯尼迪號，已完成接收試驗。
-
----
-
-### 2026-08-16 06:24:02  #其他
-
-【摩洛哥加強邊境管控 攔截294名企圖非法越境人員】摩洛哥當地媒體15日援引摩安全部門訊息人士的話報道，截至當地時間14時45分，摩安全部隊在靠近西班牙北非飛地休達的邊境地區攔截294名企圖非法越境人員，其中248人來自撒哈拉以南非洲國家，46人為摩洛哥人。（新華社）
-
----
-
-### 2026-08-16 06:20:23  #公司
-
-市場資訊：英國水務公司計劃在乾旱時期提高水費。
-
----
-
-### 2026-08-16 06:18:59  #國際
-
-哥倫比亞總統稱，他與特朗普通話時表示，已請求美國在地震後暫停對哥倫比亞產品加徵關稅。
-
----
-
-### 2026-08-16 06:17:11  #國際
-
-伊朗資深議員易卜拉欣·阿齊茲：美國總統與其就霍爾木茲海峽不斷虛張聲勢，不如操心自身安全，免得最後躲進食品卡車裡避難。
-
----
-
-### 2026-08-16 06:15:05  #國際
-
-以色列再度轟炸黎巴嫩南部。
-
----
-
-### 2026-08-16 06:11:16  #國際
-
-醫療部門訊息：加沙地帶遭以色列火力打擊，造成1名巴勒斯坦人死亡，7人受傷。
-
----
-
-### 2026-08-16 06:10:08  #其他
-
-英國首相伯納姆呼籲（英國）社會展開反思，此前一名遭抄襲指控的劍橋大學前教授離世。
-
----
-
-### 2026-08-16 06:06:04  #國際
-
-美國緊急事務官員表示，印第安納州遭遇風暴和洪水後已造成六人死亡。
-
----
-
-### 2026-08-16 06:01:42  #MKT News #Market Regions #Japan & APAC
-
-【Heavy rain in Chiba kills nine, floods over 1,000 homes】As of the 16th, heavy rain that began on the 13th in Chiba Prefecture, Japan, has killed nine people and flooded more than 1,000 homes, the prefectural government and police said.
-
----
-
-### 2026-08-16 06:00:22  #國際
-
-【日本千葉縣暴雨已致9人死亡 超千棟房屋被淹】據日本千葉縣政府和警方16日公佈的訊息，截至目前，千葉縣13日開始的暴雨已導致9人死亡，受淹房屋超過1000棟。
-
----
-
-### 2026-08-16 05:59:29  #國際
-
-美國中央司令部發布一張地圖，將加沙地帶與約旦河西岸標註為以色列領土。
-
----
-
-### 2026-08-16 05:58:42  #MKT News #WTI #Impact bullish #Brent
-
-CENTCOM said San Diego-based carrier USS Abraham Lincoln departed in November and arrived in the Middle East in January. The carrier strike group has flown thousands of combat sorties to support "Epic Rage", regional security missions and the U.S. maritime blockade against Iran.
-
----
-
-### 2026-08-16 05:57:48  #MKT News
-
-CENTCOM said Adm. Brad Cooper described the USS Lincoln carrier strike group as a highly capable, accomplished U.S. team and said history will record this deployment as among the most intense and consequential in modern history.
-
----
-
-### 2026-08-16 05:56:15  #MKT News
-
-CENTCOM said Admiral Brad Cooper recently visited the USS Lincoln, thanked the crew for their dedication and courage, met with junior sailors and presented awards to outstanding personnel.
-
----
-
-### 2026-08-16 05:55:36  #MKT News
-
-CENTCOM said Admiral Brad Cooper met with sailors and Marines aboard the USS Abraham Lincoln at sea, his second such meeting this year.
-
----
-
-### 2026-08-16 05:54:48  #MKT News
-
-CENTCOM said Admiral Brad Cooper met senior military and political leaders in Bahrain, Iraq, Israel, Jordan, Saudi Arabia and the UAE and visited U.S. service members stationed there. More than 50,000 U.S. service members are currently carrying out missions across the Middle East.
-
----
-
-### 2026-08-16 05:54:13  #MKT News
-
-CENTCOM said its commander ended a 10-day Middle East visit on Aug. 15, during which he visited six countries and inspected a U.S. Navy aircraft carrier operating in the Arabian Sea.
-
----
-
-### 2026-08-16 05:53:55  #國際
-
-【美國中央司令部指揮官完成為期10天的中東之行】美國中央司令部指揮官於8月15日結束為期10天的中東行程，此行到訪六個國家，並登上部署於阿拉伯海的美國海軍航空母艦。布拉德·庫珀上將先後會見巴林、伊拉克、以色列、約旦、沙烏地阿拉伯、阿聯酋的軍政高層，同時慰問駐外美軍。目前有超5萬名美軍部署在中東地區，執行多項任務。
 
 ---

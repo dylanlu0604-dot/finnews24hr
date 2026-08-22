@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 05:51:20_
-_本檔包含 3183 則快訊，約 650170 字_
+_更新時間：2026-08-23 06:32:06_
+_本檔包含 3176 則快訊，約 649723 字_
+
+---
+
+### 2026-08-23 06:28:50  #其他
+
+市場資訊：德國默茨政府將敦促內閣推動更快的促增長改革。
+
+---
+
+### 2026-08-23 06:26:53  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Sinopec earnings below expectations at 0.08 CNY — Sinopec (600028) released earnings per share at 0.08 CNY, compared to market expectations of 0.09 CNY.
+
+---
+
+### 2026-08-23 06:26:52  #Trading Economics #Markets #Taiwan #Earnings #Importance 0
+
+Cathay Financial earnings above expectations at 2.38 TWD — Cathay Financial (2882) released earnings per share at 2.38 TWD, compared to market expectations of 2.21 TWD.
+
+---
+
+### 2026-08-23 06:13:12  #國際
+
+【上週有近200艘船隻通行霍爾木茲海峽】英國海上貿易行動辦公室的資料：上週有近200艘船隻通行霍爾木茲海峽，高於前一週的150艘，而兩週前通行量僅約40艘。海事情報機構Kpler的資料顯示，過去兩週，該海峽超過80%的液貨運輸船舶，要麼選擇美國支援、獲得聯合國國際海事組織許可的阿曼繞行航線，要麼關閉船舶自動識別系統隱匿航行。
+
+---
+
+### 2026-08-23 05:59:10  #國際
+
+印度官員稱，一艘散貨船在印度東海岸沉沒，印度海岸警衛隊已救出14名船員，目前正在搜尋另外四名失蹤船員。
 
 ---
 
@@ -19127,77 +19157,5 @@ US Treasury Yields Hold Rebound — The 10-year US Treasury yield traded around 
 ### 2026-08-21 09:15:55  #MKT News #Market Regions #Greater China
 
 【China synthesizes world's longest single-atom-diameter "metal wire"】Researchers at the Beijing High Pressure Science Research Center led by Li Kuo have for the first time synthesized a structurally stable, carbon-encapsulated single-metal-atom chain with micrometer-scale length and single-atom diameter using a novel high-pressure solid-state topological polymerization technique. Scaled by diameter, the micrometer length is equivalent to about a 4-metre copper wire. The result was published in Science on Aug. 21.
-
----
-
-### 2026-08-21 09:15:29  #MKT News #Hang Seng Index
-
-Hang Seng Index futures opened the day session up 0.02% at 25,700, trading 2 points above the cash index.
-
----
-
-### 2026-08-21 09:15:23  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲7%，現報1879.50點。
-
----
-
-### 2026-08-21 09:15:11  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲6%，現報1859.00點。
-
----
-
-### 2026-08-21 09:15:02  #市場
-
-恒指期貨日盤開盤跌0.10%，報25605.40點，低水93.09點。
-
----
-
-### 2026-08-21 09:14:45  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲5%，現報1844.00點。
-
----
-
-### 2026-08-21 09:14:18  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude traded above $92.00/bbl, up 0.32% on the day.
-
----
-
-### 2026-08-21 09:14:08  #MKT News #Market Regions #Emerging Markets #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Bank of Korea deputy governor said the Korean won will fundamentally trend lower.
-
----
-
-### 2026-08-21 09:13:20  #央行 #國際
-
-韓國央行副行長權泰亨：美元兌韓元匯率基本面將下行。
-
----
-
-### 2026-08-21 09:12:36  #MKT News #035720.KS
-
-South Korean internet giant Kakao announced a corporate restructuring plan.
-
----
-
-### 2026-08-21 09:12:29  #MKT News #USDJPY #Impact bearish #Nikkei 225
-
-Japan 30-year government bond yield rose 5.5 bps to 4.06%.
-
----
-
-### 2026-08-21 09:12:28  #其他
-
-【我國合成世界上最長單原子直徑“金屬線”】我國科學家首次將單原子直徑的“金屬線”的合成長度突破微米級。按直徑和長度同比例縮放，這相當於一條4米的家用銅線。北京高壓科學研究中心李闊團隊創新應用高壓固相拓撲聚合新策略，在國際上首次合成微米級長度、原子級粗細且結構穩定的碳包裹單金屬原子鏈。該成果8月21日發表於國際學術期刊《科學》。（新華社）
-
----
-
-### 2026-08-21 09:12:16  #公司
-
-【海爾集團與中國雄安集團簽署戰略合作】據海爾集團，8月19日，海爾集團公司（簡稱“海爾集團”）與中國雄安集團有限公司（簡稱“雄安集團”）正式簽署戰略合作協議。雙方將緊扣雄安新區“綠色、創新、智慧”發展導向，聚焦四大戰略方向深化協同合作。共創未來之城方面，雙方將深耕智慧住居，探索打造“好房子”標準平臺與樣板，共創智慧社群與安全運維標杆；共建零碳園區方面，將積極整合雙方資源與節能技術優勢，透過打造零碳園區與綠色建築，助力新區綠色發展；城市運營服務方面，將聚焦大健康等民生保障領域，持續提升城市精細化運營水平；產業場景共創方面，雙方將圍繞AI產融數科開展協同，推動產業資源深度嵌入新區產業鏈與創新鏈，賦能雄安未來城市建設。
 
 ---
