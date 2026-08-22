@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 04:19:37",
+  "updated": "2026-08-23 04:23:37",
   "count": 16130,
   "items": [
+    {
+      "id": "5053437",
+      "time": "2026-08-23 04:19:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門官方稱，曼德海峽發現一枚胡塞武裝佈設的水雷。"
+    },
     {
       "id": "5053423",
       "time": "2026-08-23 04:02:00",
@@ -147411,14 +147419,6 @@
         "MKT News"
       ],
       "text": "Trump posted a photo on social media showing him wearing a 'Trump 2028' hat, captioned 'We are going to win'."
-    },
-    {
-      "id": "mkt:01a00717-1928-7aab-904a-fa03da68e41f",
-      "time": "2026-08-16 04:22:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit."
     }
   ]
 }
