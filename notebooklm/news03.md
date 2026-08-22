@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 07:29:15_
-_本檔包含 3242 則快訊，約 649520 字_
+_更新時間：2026-08-23 07:49:16_
+_本檔包含 3254 則快訊，約 649453 字_
+
+---
+
+### 2026-08-20 09:02:52  #市場 #國際
+
+韓國KOSPI指數站上6800點，日內漲5.24%。
+
+---
+
+### 2026-08-20 09:02:52  #MKT News #CSI300 #Impact bearish
+
+【ACFTU '15th Five-Year' plan targets delivery riders and gig workers' rights】The All-China Federation of Trade Unions on the 20th released its '15th Five-Year' work plan, directing sustained efforts over the next five years to organize, enroll and protect workers in new forms of employment—notably delivery riders—and provide targeted services. The plan orders unions to strengthen rights protection and employment management for gig workers and to promote platform companies' participation in collective bargaining to achieve mutually beneficial outcomes between platforms and new-form workers.
+
+---
+
+### 2026-08-20 09:02:49  #MKT News
+
+South Korea's KOSPI rose above 6,800 points, up 5.24% intraday.
+
+---
+
+### 2026-08-20 09:02:17  #市場 #焦點
+
+現貨黃金失守4500美元/盎司，日內跌0.55%。
+
+---
+
+### 2026-08-20 09:01:43  #市場 #焦點
+
+紐約期金失守4560美元/盎司，日內漲0.32%。
+
+---
+
+### 2026-08-20 09:01:33  #MKT News #Commodities #Energy
+
+China fuel oil front-month futures rallied 4.00% intraday to 4,383 yuan/ton.
+
+---
+
+### 2026-08-20 09:01:20  #市場 #國際
+
+馬來西亞吉隆坡綜合指數開盤變化不大，報1732.11。
+
+---
+
+### 2026-08-20 09:01:14  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index (TAIEX) opened up 372.73 points, or 0.83%, at 45,092.08 on Aug. 20 (Thursday).
+
+---
+
+### 2026-08-20 09:01:09  #市場
+
+新加坡海峽時報指數開盤下跌0.4%，至5670.24點。
+
+---
+
+### 2026-08-20 09:01:00  #資料 #其他 #焦點
+
+中國7月Swift人民幣在全球支付中佔比 3.1%，前值3.10%。
+
+---
+
+### 2026-08-20 09:00:58  #MKT News #Important #Market Regions #Greater China
+
+China's renminbi accounted for 3.1% of global SWIFT payments in July, versus 3.10% previously.
+
+---
+
+### 2026-08-20 09:00:39  #MKT News #Important
+
+【One-year and five-year LPR unchanged】The PBOC left the one-year and five-year loan prime rates (LPR) unchanged at 3.00% and 3.50%, respectively.
+
+---
+
+### 2026-08-20 09:00:37  #央行 #中國央行
+
+中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。
+
+---
+
+### 2026-08-20 09:00:35  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+On Thursday Aug. 20, Shanghai Gold Exchange gold T+D rose 3.11% to 973.28 yuan/gram in early trade; silver T+D gained 5.15% to 16,204.0 yuan/kg.
+
+---
+
+### 2026-08-20 09:00:34  #央行 #焦點
+
+【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。
+
+---
+
+### 2026-08-20 09:00:26  #市場 #焦點
+
+【富時中國A50指數期貨盤初漲0.50%】富時中國A50指數期貨在上一交易日夜盤收漲0.39%的基礎上高開，盤初漲0.50%。
 
 ---
 
@@ -19524,29 +19620,5 @@ MSCI Asia Pacific Index fell 2%, its largest decline since July 29.
 ### 2026-08-19 08:33:53  #Trading Economics #Markets #Japan #Stock Market #Importance 1
 
 Japanese Shares Drop as Tech Selloff Intensifies — The Nikkei 225 Index fell 2.9% to around 65,500, while the broader Topix Index declined 2.4% to 4,040 on Wednesday, with Japanese shares sliding for a second consecutive session as the selloff in semiconductor and other technology stocks intensified. Local equities also tracked losses on Wall Street overnight, where AI-linked chipmakers came under heavy selling pressure. Meanwhile, elevated global bond yields and rising oil prices further dampened investor sentiment, with Japan’s 10-year bond yield climbing to 30-year highs this week. Notable declines were recorded among Japanese companies heavily exposed to the global AI supply chain, including Kioxia Holdings (-10%), Furukawa Electric (-9.8%), Advantest (-4.4%), Tokyo Electron (-4.7%) and Fujikura (-8.4%). Financial and consumer stocks also fell, with Mitsubishi UFJ losing 4% and Toyota Motor dropping 2%.
-
----
-
-### 2026-08-19 08:33:52  #其他
-
-【朱雀三號副總設計師：藍箭有自己的 “臭鼬工廠”，朱雀三核心技術全自研】朱雀三號副總設計師董鍇表示，藍箭有個部門叫天馬實驗室，它的定位類似於洛馬的臭鼬工廠（全球航空航天領域最著名的秘密尖端技術研發機構之一，曾研製出 F-22 猛禽戰鬥機），就是集結先鋒部隊專門解決不鏽鋼工藝的問題。現在我們用鐳射焊，基本是機器自動化。目前整個火箭焊接的自動化生產都是藍箭自己解決的。供應商能做的事我們不重複造輪子，但火箭焊接這件事外包供應鏈沒有優勢。（晚點LatePost）
-
----
-
-### 2026-08-19 08:32:00  #公司 #市場 #國際
-
-【MSCI亞太指數創三週最大跌幅 三星和SK海力士拖累最大】MSCI亞太指數跌幅高達2%，創7月29日以來最大跌幅，追隨隔夜遭遇拋售的美國半導體股票下跌。韓國Kospi指數一度下跌6.8%，創7月29日以來最大跌幅。三星電子下跌7.6%，SK海力士下跌9.5%。日本東證指數下跌2.7%。
-
----
-
-### 2026-08-19 08:31:07  #市場
-
-【今年上半年醫保輔助生殖惠及約170萬人次】記者8月19日從國家醫保局獲悉，2026年上半年，全國使用醫保輔助生殖的各專案累計達170.96萬人次，就診總量穩步上漲，醫保輔助生殖專案支援誕生的新生兒數量達13.97萬人，按此數量進行推算，2026年全年有望近30萬名寶寶在醫保政策守護下降生。同期，輔助生殖專案直接費用29.7億元，醫保基金累計支出超19億元。（新華社）
-
----
-
-### 2026-08-19 08:30:40  #MKT News
-
-【CITIC Securities: Interest in compute-power tech, micro-cap crossovers, new power-supply architecture and lithium batteries likely to reheat】CITIC Securities says after last week's broad rally the market rotated into high-level, differentiated consolidation, marking a second style switch. The Shanghai Composite fell as formerly defensive large-cap blue chips weakened; the ChiNext Index rose against the trend while STAR 50 and Beijing 50 softened. Earlier leaders in nonferrous metals gave back the most ground; only communications outperformed, supported by overseas validation of the compute-power chain. Average daily turnover slipped to CNY 2.35 trillion; incremental flows rotated into bond ETFs for hedging, and a rebound from low levels is still building. Based on catalysts and timing, compute-power technologies, micro-cap crossovers, new power-supply architecture and lithium batteries are likely to heat up; CITIC Securities recommends focusing on these four themes given the market environment, catalysts and composite quant indicators.
 
 ---

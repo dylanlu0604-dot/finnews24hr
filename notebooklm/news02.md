@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 07:29:15_
-_本檔包含 3399 則快訊，約 648959 字_
+_更新時間：2026-08-23 07:49:16_
+_本檔包含 3388 則快訊，約 648870 字_
+
+---
+
+### 2026-08-21 09:21:03  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+HSI opened up 109.12 pts (+0.42%) at 25,807.61 on Aug 21 (Fri); Hang Seng TECH Index opened up 9.88 pts (+0.21%) at 4,710.41; HSCEI opened up 31.80 pts (+0.37%) at 8,579.64; Red Chip Index opened up 21.14 pts (+0.50%) at 4,232.01.
+
+---
+
+### 2026-08-21 09:20:58  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #09992.HK #Impact bearish #02259.HK
+
+Hong Kong market opened firmer: Hang Seng Index up 0.42%, Hang Seng TECH up 0.21%. Pop Mart (09992.HK) fell 8.2% after results; 1H revenue and net profit missed expectations. Gold shares led gains: Zijin Gold International (02259.HK) up about 4%, Shandong Gold (01787.HK) up over 3%.
+
+---
+
+### 2026-08-21 09:20:19  #其他
+
+【浙江省“十五五”財政規劃：實施科技創新和產業創新深度融合財政專項激勵】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，支援推進科技創新和產業創新深度融合。實施科技創新和產業創新深度融合財政專項激勵。強化企業創新主體地位，最佳化中小企業發展專項支援方向。支援製造業創新中心建設，推進首臺（套）產品應用。支援重點領域關鍵核心技術攻關與產業化，推進專利密集型產品推廣應用。加大政府採購自主創新產品力度。
+
+---
+
+### 2026-08-21 09:20:03  #其他
+
+【《浙江省“十五五”財政規劃》印發】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出發展目標：財政綜合實力穩步提升，服務全國大局能力進一步增強。地方財源培育能力持續增強，高質量發展動能持續轉化，財政收支高質量可持續執行體系建立完善，財政綜合實力進一步躍升。積極財政政策更加有力有效，服務重大戰略的財政保障體系進一步完善。“8+4”經濟政策財政要素支援體系更加完善，保障重大戰略任務和基本民生能力持續提升。財政政策與貨幣、就業、產業、區域、貿易等政策的協調聯動更加充分，資源配置更加最佳化，政策導向更加精準。財政科學管理取得突破性進展，財政治理效能進一步躍升。財政資源和預算統籌能力持續增強，省與市縣財政關係最佳化完善，零基預算改革持續深化，過緊日子長效機制不斷完善，預算管理鏈條進一步健全，預算績效管理改革不斷深化。財政風險防控體系更加健全，財政可持續發展能力進一步提升。同高質量發展相適應的政府債務管理長效機制加快構建，基層“三保”底線切實兜牢，財政執行平穩可持續，社會保險基金執行平穩。
+
+---
+
+### 2026-08-21 09:19:54  #其他
+
+【浙江省“十五五”財政規劃：支援深化教育科技人才一體改革發展】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，支援深化教育科技人才一體改革發展。保障一體推進教育強省、科技強省、人才強省。支援實施“雙一流196工程”、高校基礎設施提質工程、“一流學科建設工程”。探索建立以產業為導向的高校生均撥款制度，推動普通高校高質量發展。支援高能級科創平臺提能造峰，配合完善省實驗室、省技術創新中心動態調整機制，最佳化分檔補助與績效評價評估結果掛鉤機制。支援深入實施“135”人才強省體系建設工程，協同建立人才支援政策定期調整機制，落實人才待遇保障。
 
 ---
 
@@ -20441,101 +20471,5 @@ Spot gold slipped below $4,500/oz, down 0.51% intraday.
 ### 2026-08-20 09:03:20  #國際
 
 【不滿高市消極應對，日本前防衛大臣要求高市嚴正抗議美國製裁赤根智子】據日本共同社、《朝日新聞》8月20日報道，針對美國政府制裁國際刑事法院（ICC）院長赤根智子一事，日本首相高市早苗的消極態度受到日本輿論抨擊。自民黨籍眾議員、前防衛大臣中谷元就此發表緊急宣告，要求高市就制裁赤根智子一事向美國政府提出嚴正抗議。（環球網）
-
----
-
-### 2026-08-20 09:02:52  #市場 #國際
-
-韓國KOSPI指數站上6800點，日內漲5.24%。
-
----
-
-### 2026-08-20 09:02:52  #MKT News #CSI300 #Impact bearish
-
-【ACFTU '15th Five-Year' plan targets delivery riders and gig workers' rights】The All-China Federation of Trade Unions on the 20th released its '15th Five-Year' work plan, directing sustained efforts over the next five years to organize, enroll and protect workers in new forms of employment—notably delivery riders—and provide targeted services. The plan orders unions to strengthen rights protection and employment management for gig workers and to promote platform companies' participation in collective bargaining to achieve mutually beneficial outcomes between platforms and new-form workers.
-
----
-
-### 2026-08-20 09:02:49  #MKT News
-
-South Korea's KOSPI rose above 6,800 points, up 5.24% intraday.
-
----
-
-### 2026-08-20 09:02:17  #市場 #焦點
-
-現貨黃金失守4500美元/盎司，日內跌0.55%。
-
----
-
-### 2026-08-20 09:01:43  #市場 #焦點
-
-紐約期金失守4560美元/盎司，日內漲0.32%。
-
----
-
-### 2026-08-20 09:01:33  #MKT News #Commodities #Energy
-
-China fuel oil front-month futures rallied 4.00% intraday to 4,383 yuan/ton.
-
----
-
-### 2026-08-20 09:01:20  #市場 #國際
-
-馬來西亞吉隆坡綜合指數開盤變化不大，報1732.11。
-
----
-
-### 2026-08-20 09:01:14  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index (TAIEX) opened up 372.73 points, or 0.83%, at 45,092.08 on Aug. 20 (Thursday).
-
----
-
-### 2026-08-20 09:01:09  #市場
-
-新加坡海峽時報指數開盤下跌0.4%，至5670.24點。
-
----
-
-### 2026-08-20 09:01:00  #資料 #其他 #焦點
-
-中國7月Swift人民幣在全球支付中佔比 3.1%，前值3.10%。
-
----
-
-### 2026-08-20 09:00:58  #MKT News #Important #Market Regions #Greater China
-
-China's renminbi accounted for 3.1% of global SWIFT payments in July, versus 3.10% previously.
-
----
-
-### 2026-08-20 09:00:39  #MKT News #Important
-
-【One-year and five-year LPR unchanged】The PBOC left the one-year and five-year loan prime rates (LPR) unchanged at 3.00% and 3.50%, respectively.
-
----
-
-### 2026-08-20 09:00:37  #央行 #中國央行
-
-中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。
-
----
-
-### 2026-08-20 09:00:35  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-On Thursday Aug. 20, Shanghai Gold Exchange gold T+D rose 3.11% to 973.28 yuan/gram in early trade; silver T+D gained 5.15% to 16,204.0 yuan/kg.
-
----
-
-### 2026-08-20 09:00:34  #央行 #焦點
-
-【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。
-
----
-
-### 2026-08-20 09:00:26  #市場 #焦點
-
-【富時中國A50指數期貨盤初漲0.50%】富時中國A50指數期貨在上一交易日夜盤收漲0.39%的基礎上高開，盤初漲0.50%。
 
 ---

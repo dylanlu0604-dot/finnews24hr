@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 07:29:15_
-_本檔包含 3288 則快訊，約 648698 字_
+_更新時間：2026-08-23 07:49:16_
+_本檔包含 3283 則快訊，約 648298 字_
+
+---
+
+### 2026-08-19 08:33:52  #其他
+
+【朱雀三號副總設計師：藍箭有自己的 “臭鼬工廠”，朱雀三核心技術全自研】朱雀三號副總設計師董鍇表示，藍箭有個部門叫天馬實驗室，它的定位類似於洛馬的臭鼬工廠（全球航空航天領域最著名的秘密尖端技術研發機構之一，曾研製出 F-22 猛禽戰鬥機），就是集結先鋒部隊專門解決不鏽鋼工藝的問題。現在我們用鐳射焊，基本是機器自動化。目前整個火箭焊接的自動化生產都是藍箭自己解決的。供應商能做的事我們不重複造輪子，但火箭焊接這件事外包供應鏈沒有優勢。（晚點LatePost）
+
+---
+
+### 2026-08-19 08:32:00  #公司 #市場 #國際
+
+【MSCI亞太指數創三週最大跌幅 三星和SK海力士拖累最大】MSCI亞太指數跌幅高達2%，創7月29日以來最大跌幅，追隨隔夜遭遇拋售的美國半導體股票下跌。韓國Kospi指數一度下跌6.8%，創7月29日以來最大跌幅。三星電子下跌7.6%，SK海力士下跌9.5%。日本東證指數下跌2.7%。
+
+---
+
+### 2026-08-19 08:31:07  #市場
+
+【今年上半年醫保輔助生殖惠及約170萬人次】記者8月19日從國家醫保局獲悉，2026年上半年，全國使用醫保輔助生殖的各專案累計達170.96萬人次，就診總量穩步上漲，醫保輔助生殖專案支援誕生的新生兒數量達13.97萬人，按此數量進行推算，2026年全年有望近30萬名寶寶在醫保政策守護下降生。同期，輔助生殖專案直接費用29.7億元，醫保基金累計支出超19億元。（新華社）
+
+---
+
+### 2026-08-19 08:30:40  #MKT News
+
+【CITIC Securities: Interest in compute-power tech, micro-cap crossovers, new power-supply architecture and lithium batteries likely to reheat】CITIC Securities says after last week's broad rally the market rotated into high-level, differentiated consolidation, marking a second style switch. The Shanghai Composite fell as formerly defensive large-cap blue chips weakened; the ChiNext Index rose against the trend while STAR 50 and Beijing 50 softened. Earlier leaders in nonferrous metals gave back the most ground; only communications outperformed, supported by overseas validation of the compute-power chain. Average daily turnover slipped to CNY 2.35 trillion; incremental flows rotated into bond ETFs for hedging, and a rebound from low levels is still building. Based on catalysts and timing, compute-power technologies, micro-cap crossovers, new power-supply architecture and lithium batteries are likely to heat up; CITIC Securities recommends focusing on these four themes given the market environment, catalysts and composite quant indicators.
 
 ---
 
@@ -19826,59 +19850,5 @@ FX Updates: Brazilian Real Appreciates by 0.62% — Top currency gainers are Bra
 ### 2026-08-17 22:59:36  #MKT News
 
 【Goldman Sachs: Global bond issuance down 16% YoY last week】Goldman Sachs data show global bond issuance fell 16% YoY last week, though year-to-date issuance is 9% higher than the same period a year ago. By segment, investment-grade corporate issuance rose 60% YoY, high-yield fell 41% YoY and leveraged loan issuance plunged 88% YoY. Financial-sector bond issuance increased 38% YoY while structured finance issuance dropped 64% YoY. Assets in ETFs tracking the S&P and MSCI indices continued to expand, up 32% and 36%, respectively.
-
----
-
-### 2026-08-17 22:58:30  #國際
-
-【美媒稱美政府縮減對伊朗戰爭目標】美國有線電視新聞網在8月16日的一篇報道中分析稱，美國政府已進一步縮減對伊朗戰爭的目標，這表明美國可能準備退而求其次，甚至大幅降低預期。隨著美國中期選舉的臨近，伊朗戰事正在嚴重拖累共和黨的選情。共和黨的一些高階競選顧問私下承認，共和黨保住參眾兩院控制權的可能性正在變小。有知情人士透露，美國總統特朗普已經批准從自己的政治行動委員會撥出數百萬美元，用於支援共和黨候選人。（CCTV國際時訊）
-
----
-
-### 2026-08-17 22:58:00  #市場 #觀點
-
-【高盛：全球債券發行規模下滑 16%】高盛資料顯示，上週全球債務發行規模同比下降 16%，但年初至今發行規模仍高出 9%。投資級企業債券發行規模激增 60%，高收益債券發行下滑 41%，槓桿貸款大幅下跌 88%。金融行業債券發行規模上漲 38%，結構性金融產品發行下降 64%。與此同時，跟蹤標普以及明晟指數的 ETF 資產規模持續強勁增長，分別上漲 32% 和 36%。
-
----
-
-### 2026-08-17 22:57:24  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Falls for 6th Session — The FTSE 100 edged lower on Monday, extending its decline to a sixth consecutive session as weakness in consumer staples weighed on the index. Unilever fell nearly 2%, while British American Tobacco and Diageo dropped 1.6% and 2.8%, respectively. Tesco also lost almost 3%. In contrast, mining stocks benefited from stronger metals prices. Fresnillo and Endeavour Mining gained around 2% and 2.6%, supported by higher gold prices, while Antofagasta, Anglo American and Glencore also advanced as copper prices continued to rise. Pharmaceuticals provided some support, with AstraZeneca gaining about 1% and GSK rising more than 2%. Meanwhile, oil prices moved higher as renewed violence in the Middle East raised concerns about further escalation. Hopes for a diplomatic resolution weakened after President Donald Trump reportedly indicated he was in no rush to end the conflict with Iran, while fighting intensified again in Lebanon.
-
----
-
-### 2026-08-17 22:56:56  #其他
-
-德國聯邦鐵路表示，相關談判目前仍處於非常初期的非約束性階段。
-
----
-
-### 2026-08-17 22:56:49  #其他
-
-西班牙IBEX35指數失守20000點，日內跌幅0.78%。
-
----
-
-### 2026-08-17 22:56:49  #MKT News #Market Regions #Europe & UK
-
-Spain's IBEX 35 slipped below 20,000 points, down 0.78% on the day.
-
----
-
-### 2026-08-17 22:56:40  #公司
-
-德鐵發言人表示，我們確認正在就出售英國子公司德鐵信可英國(DB Cargo UK)的可能性進行討論。
-
----
-
-### 2026-08-17 22:55:24  #國際
-
-【海事分析機構 MarineTraffic：上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次】全球船舶追蹤與海事分析機構 MarineTraffic 週一表示，上週霍爾木茲海峽船舶通行量從 118 艘次降至 95 艘次，降幅 19.5%。資料顯示，日通行量從 8 月 11 日 19 艘次的峰值，跌至 8 月 16 日僅 3 艘次。MarineTraffic 稱，在 95 艘次通行船舶中，51 艘採用伊朗單邊通行方案，44 艘歸為路線未定類別。未記錄到船舶使用霍爾木茲通航分道方案或阿曼航線通行。與之形成對比，曼德海峽通行量由 238 艘次增至 254 艘次，漲幅 6.7%，其中 150 艘船舶駛入紅海，104 艘駛出紅海。
-
----
-
-### 2026-08-17 22:54:34  #MKT News
-
-Iranian Students' News Agency reported Saudi artillery struck the village of Al-Shawarq near Razih in Yemen's Saada province, on the Saudi–Yemen border.
 
 ---
