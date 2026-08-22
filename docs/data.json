@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-22 12:10:41",
+  "updated": "2026-08-22 12:14:44",
   "count": 16163,
   "items": [
+    {
+      "id": "5053015",
+      "time": "2026-08-22 12:13:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國國際貿易委員會調查伊芙能源公司（Eve Energy），因該公司涉嫌專利侵權。"
+    },
     {
       "id": "5053013",
       "time": "2026-08-22 12:06:17",
@@ -147844,18 +147853,6 @@
         "國際"
       ],
       "text": "【印尼東努沙登加拉省發生5.0級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日11時54分，印尼東努沙登加拉省納克縣姆拜鎮東北42公里處發生5.0級地震，震源深度10公里。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0039f-d149-7aab-9047-664fb9de4e66",
-      "time": "2026-08-15 12:13:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【NYT: Bahrain base strike crippled logistics hub, caused early supply shortfalls on USS Lincoln】The New York Times reports supply shortages aboard the carrier Lincoln began shortly after day one of the war, when Iranian missiles and attack drones struck a US Navy base in Bahrain. The strike, described as Iran’s reprisal for a joint US-Israeli attack on Tehran, destroyed most base facilities and hit a primary naval logistics hub. The Navy implemented contingency plans to keep round-the-clock flight operations supplied and to sustain a blockade of Iranian ports. Loss of the Bahrain hub generated numerous problem reports aboard the carrier; Democratic senators voiced concern for roughly 5,000 sailors and the ship’s nearly nine-month deployment."
     }
   ]
 }
