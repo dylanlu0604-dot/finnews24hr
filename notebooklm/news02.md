@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 18:25:30_
-_本檔包含 3395 則快訊，約 652591 字_
+_更新時間：2026-08-22 18:49:34_
+_本檔包含 3381 則快訊，約 652146 字_
+
+---
+
+### 2026-08-21 08:04:26  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish
+
+South Korean customs data showed Aug 1-20 exports up 56.0% YoY, imports up 19.0% YoY; trade surplus $13.98bn.
+
+---
+
+### 2026-08-21 08:04:25  #MKT News
+
+【Changchun High & New: equity-investee's pan-tumor mRNA vaccine TMT101 in IIT at Peking Union Medical College Hospital】Changchun High & New said on Aug. 20 in an investor call that Baike Biotech has established multiple R&D platforms including an mRNA vaccine platform and is expanding its applications. As of end-June 2026, Baike’s self-developed HSV-2 vaccine is in Phase I. Baike’s equity-investee, Chuanxin Biopharma (Suzhou) — which Baike will acquire up to 100% subject to milestone conditions under the parties’ agreement — is conducting an investigator-initiated trial (IIT) of a pan-tumor mRNA vaccine, TMT101, at Peking Union Medical College Hospital.
+
+---
+
+### 2026-08-21 08:02:57  #其他
+
+【銀河證券：超節點重塑網路架構 關注國內交換機+交換晶片領域龍頭】銀河證券研報認為，AI時代算力叢集的前後端網路組網均拉動大量交換機需求，1.6T埠交換機有望在2027年開始放量，WAIC 2026超節點成為絕對主角，內部互聯頻寬快速演進，埠速率每迭代一次，單臺交換機價值量便有所提升，支撐盈利能力。同時Scale-Up交換機對時延的要求自μs級壓縮至百ns級，設計難度與驗證週期遠超傳統產品，賦予存量玩家持續的議價能力，倒逼產業鏈“卡脖子”環節——交換晶片國產替代加速，疊加海外交換機龍頭業績兌現催化，建議關注國內交換機+交換晶片領域龍頭。
 
 ---
 
@@ -20415,107 +20433,5 @@ Japan 20-year government bond yield fell 6 bps to 3.715%.
 ### 2026-08-20 07:56:15  #MKT News #Market Themes #AI Revolution #SNOW.O #Impact bullish #MSFT.O #NVDA.O
 
 【CSC Financial: Physical AI seen as core variable for next-phase AI growth】A CSC Financial research note says physical AI is set to become the core driver of the next phase of AI growth. Physical-world data — the perception-to-feedback engine — faces a large, inelastic demand shortfall. Constrained by a fidelity–scale–cost trilemma, data acquisition is likely to prompt three market shifts: business models toward crowdsourced data collection, technical paradigms toward world-model–based synthetic data generation, and the reclassification of physical data as high-value intangible corporate assets. The supply–demand imbalance should reprice physical-data assets and accelerate capital into data infrastructure and evaluation datasets. Market leadership is unresolved; firms that control scarce physical data and closed-loop synthetic-data capabilities are likely to capture premium valuations.
-
----
-
-### 2026-08-20 07:53:42  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
-
-Japan 10-year bond yield fell 3.5 bps to 2.855%.
-
----
-
-### 2026-08-20 07:53:02  #MKT News #Commodities #Energy
-
-Japan's Finance Ministry said July thermal coal imports fell 9.1% YoY to 8.816 mln tonnes.
-
----
-
-### 2026-08-20 07:52:55  #公司
-
-【中國華能與招商局集團簽署戰略合作協議】中國華能集團有限公司與招商局集團在深圳簽署戰略合作協議。根據協議，雙方本著開放公平、優勢互補、互利共贏、市場化運作及長期穩定合作的原則，圍繞交通物流、清潔能源、綜合金融、科技創新、產業協同等領域開展戰略合作，採用高效務實、創新的合作模式，構建雙贏、可持續發展的戰略合作伙伴關係。
-
----
-
-### 2026-08-20 07:52:42  #MKT News #WTI #Impact bullish #Brent
-
-Japan's Ministry of Finance said July crude oil imports rose 5.5% YoY, while LNG imports fell 4.8% YoY to 5.014 million tonnes.
-
----
-
-### 2026-08-20 07:52:28  #經濟數據 #日本
-
-日本至8月14日當週外資買進日債-12499億日元，前值由-587億日元修正為-567億日元。
-
----
-
-### 2026-08-20 07:51:50  #經濟數據 #日本
-
-日本至8月14日當週外資買進日股6212億日元，前值由-3685億日元修正為-3686億日元。
-
----
-
-### 2026-08-20 07:51:45  #MKT News #Market Regions #Wall Street (US) #Europe & UK #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
-
-Japan's Finance Ministry reported July exports to the US rose 22% YoY, to the EU rose 19.1% YoY and to Asia rose 24.5% YoY.
-
----
-
-### 2026-08-20 07:51:27  #經濟數據 #日本
-
-日本7月份出口同比增長23.2%，預估為20.1%。日本7月份進口同比增長27.8%，預估為25.1%。
-
----
-
-### 2026-08-20 07:51:08  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-Japan bought foreign equities worth ¥1.3913 tln in the week to Aug. 14; the prior week's figure was revised down from ¥963.5 bln to ¥927.4 bln.
-
----
-
-### 2026-08-20 07:51:08  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-Foreign investors were net sellers of Japanese government bonds by 1.25 tln yen in the week to Aug. 14; the prior week's net sale was revised from 58.7 bln yen to 56.7 bln yen.
-
----
-
-### 2026-08-20 07:50:56  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Stocks Buying (Aug.14) | actual 1391300000000B | previous 963500000000B
-
----
-
-### 2026-08-20 07:50:55  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Bonds (Aug.14) | actual -1249900000000B | previous -58700000000B
-
----
-
-### 2026-08-20 07:50:53  #國際
-
-日本財務省（MOF）資料顯示，7月日本動力煤進口量為881.6萬噸，同比下降9.1%。
-
----
-
-### 2026-08-20 07:50:48  #國際
-
-日本財務省：日本7月進口熱能煤881.6萬噸，同比減少9.1%。
-
----
-
-### 2026-08-20 07:50:45  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY #Nikkei 225 #Impact bearish
-
-Japan July seasonally adjusted merchandise trade deficit 686.0 bln yen, versus forecast deficit 407.6 bln; prior deficit 881.9 bln.
-
----
-
-### 2026-08-20 07:50:44  #國際
-
-日本財務省資料顯示，7月液化天然氣進口量同比下降4.8%，至501.4萬噸。
-
----
-
-### 2026-08-20 07:50:34  #國際
-
-日本財務省公佈：7月初步原油進口量同比增加5.5%。
 
 ---

@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 18:25:30_
-_本檔包含 3087 則快訊，約 652914 字_
+_更新時間：2026-08-22 18:49:34_
+_本檔包含 3088 則快訊，約 653115 字_
+
+---
+
+### 2026-08-22 18:47:11  #國際
+
+【朝媒稱防衛外衣難掩日軍國主義本性】針對日本防衛省擬向財務省申請的2027財年防衛預算再創歷史新高，朝鮮中央通訊社今天（8月22日）發表評論文章指出，這明顯意味著擴張危險的戰爭預算，給地區與世界帶來新的動盪。文章表示，日本妄圖用“防衛”、“自衛”的外衣，掩蓋侵略、戰爭這種兇惡的軍國主義本性，是愚蠢的妄想。地區社會絕不會容忍威脅全球和平安全的軍事進化過程，必將以團結的力量予以堅決反擊。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 18:39:06  #其他
+
+【停業、拆違、追責，內蒙古推進重大事故隱患整改】8月19日，總檯報道了中央安全生產考核巡查組在內蒙古赤峰、通遼等地開展的明查暗訪中，發現的燃氣、消防等領域重大事故隱患。內蒙古自治區黨委、政府高度重視，自治區安委辦對曝光及反饋的問題隱患，實行全程跟蹤督辦，確保整改閉環。同時，堅持舉一反三，推動進一步壓緊壓實安全生產責任，全面排查整治同類風險，堅決防範遏制事故發生。（央視新聞）
+
+---
+
+### 2026-08-22 18:27:32  #其他
+
+【報告顯示：我國算力全鏈條綠色化成效初顯】當前，我國算力規模快速增長，算力裝置向高能效方向升級，算力載體綠色化轉型進展積極，算電協同從理念走向實踐，算力網、詞元經濟、算力出海等新模式新業態成為新增長極。 這是記者22日從內蒙古自治區呼和浩特市舉行的2026綠色算力（人工智慧）大會上獲得的最新訊息。大會開幕式上，中國資訊通訊研究院副院長敖立釋出《綠色算力發展研究報告（2026年）》。 報告指出，在算力裝置綠色化方面，我國算力裝置加速向高能效方向迭代升級。截至2026年6月底，我國智慧算力規模達2185EFLOPS。液冷散熱、高速光互聯、新型儲存架構等新技術已成為高密度智算中心建設的必備條件，支撐算力產業規模、效能與能效協同發展。 報告指出，我國算力載體集約化佈局與綠色化轉型協同推進。截至2025年底，全國投運標準機架超1373萬架，已建成42個萬卡級智算叢集，八大國家樞紐節點集聚的智慧算力規模佔全國總量八成以上。綠色低碳水平提升取得積極進展，全國已有160餘座資料中心獲評4A級及以上綠色資料中心。 算能協同綠色化方面，算電協同從理念走向實踐。頂層政策體系持續完善，算電協同納入2026年政府工作報告。目前，建成一批算電協同標杆工程，技術與市場機制創新持續突破，電碳算一體化排程技術推動算力負荷柔性參與電網調峰，綠電直連等機制試點落地。2025年我國算力設施用電量達1700億千瓦時，同比增長約30%。 算用協同綠色化方面，算力網、詞元經濟、算力出海等成為新增長極。全國一體化算力網加速成形。大模型驅動詞元經濟加速興起，截至2026年3月，我國日均詞元呼叫量從2024年初約1000億激增至約140萬億，增長超千倍。（新華社）
+
+---
+
+### 2026-08-22 18:24:44  #國際
+
+伊朗議會議長卡利巴夫：我們收到了來自鄰國的大量資訊，希望在該地區構建新的安全安排和經濟合作。美國為了以色列的利益，肆意欺凌和漠視所有盟友的利益，將他們的安全置於極大的風險之中，以至於這些盟友一度面臨生死存亡的威脅。唯有建立本土的、獨立的秩序，才能真正帶來和平與安全。
 
 ---
 
@@ -18609,23 +18633,5 @@ Gold Heads for Third Straight Weekly Gain — Gold traded above $4,500 an ounce 
 ### 2026-08-21 08:05:40  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish
 
 【Galaxy Securities: supernodes reshape network architecture; favor domestic switch and switch‑chip leaders】Galaxy Securities research: AI-era compute clusters are boosting demand for both front- and back-end networking. 1.6T port switches are expected to ramp from 2027, and WAIC 2026 highlighted supernodes as the dominant architecture. Rapid internal interconnect bandwidth upgrades raise per-switch value and support margins; Scale-Up switches compress latency from microsecond to ~100ns levels, increasing design and validation complexity versus legacy products and sustaining incumbents’ pricing power, creating industry chokepoints that accelerate domestic switch‑chip substitution. With overseas switch leaders' earnings catalysts, the report recommends focusing on leading domestic switch and switch‑chip names.
-
----
-
-### 2026-08-21 08:04:26  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish
-
-South Korean customs data showed Aug 1-20 exports up 56.0% YoY, imports up 19.0% YoY; trade surplus $13.98bn.
-
----
-
-### 2026-08-21 08:04:25  #MKT News
-
-【Changchun High & New: equity-investee's pan-tumor mRNA vaccine TMT101 in IIT at Peking Union Medical College Hospital】Changchun High & New said on Aug. 20 in an investor call that Baike Biotech has established multiple R&D platforms including an mRNA vaccine platform and is expanding its applications. As of end-June 2026, Baike’s self-developed HSV-2 vaccine is in Phase I. Baike’s equity-investee, Chuanxin Biopharma (Suzhou) — which Baike will acquire up to 100% subject to milestone conditions under the parties’ agreement — is conducting an investigator-initiated trial (IIT) of a pan-tumor mRNA vaccine, TMT101, at Peking Union Medical College Hospital.
-
----
-
-### 2026-08-21 08:02:57  #其他
-
-【銀河證券：超節點重塑網路架構 關注國內交換機+交換晶片領域龍頭】銀河證券研報認為，AI時代算力叢集的前後端網路組網均拉動大量交換機需求，1.6T埠交換機有望在2027年開始放量，WAIC 2026超節點成為絕對主角，內部互聯頻寬快速演進，埠速率每迭代一次，單臺交換機價值量便有所提升，支撐盈利能力。同時Scale-Up交換機對時延的要求自μs級壓縮至百ns級，設計難度與驗證週期遠超傳統產品，賦予存量玩家持續的議價能力，倒逼產業鏈“卡脖子”環節——交換晶片國產替代加速，疊加海外交換機龍頭業績兌現催化，建議關注國內交換機+交換晶片領域龍頭。
 
 ---
