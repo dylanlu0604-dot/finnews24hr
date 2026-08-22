@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 01:58:08",
-  "count": 16138,
+  "updated": "2026-08-23 02:02:00",
+  "count": 16137,
   "items": [
+    {
+      "id": "5053360",
+      "time": "2026-08-23 01:58:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙與加州將於8月24日就華納兄弟交易舉行初步會談。"
+    },
     {
       "id": "5053359",
       "time": "2026-08-23 01:56:56",
@@ -147484,30 +147492,6 @@
         "國際"
       ],
       "text": "【受美國海上封鎖影響，伊朗實際上已經停止汽油進口】伊朗議會能源委員會發言人禮薩·塞帕萬週六表示，受美國海上封鎖影響，伊朗實際上已經停止汽油進口。“我們目前面臨海上封鎖，汽油進口已經中斷。”塞帕萬警告，如果推行擬議中的國民身份證燃油配給方案，政府後續或將被迫按照國際市場及波斯灣離岸價進口汽油，進而推高成本，擴大財政赤字。他稱，受機動車保有量影響，伊朗正遭遇燃油供應難題。塞帕萬表示，伊朗汽油日產量已達峰值1.3億升，但日消耗量為1.37億升。他稱：“即便達到這一產出水平，我們依舊面臨燃油供應缺口。”"
-    },
-    {
-      "id": "mkt:01a00694-7550-7aab-904a-7529a74a6319",
-      "time": "2026-08-16 01:59:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Gulf Cooperation Council secretary-general said Iran's attack was an unacceptable escalation that seriously infringed freedom of navigation."
-    },
-    {
-      "id": "mkt:01a00694-28e5-7aab-904a-6ea65e7c4103",
-      "time": "2026-08-16 01:59:28",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz."
     }
   ]
 }
