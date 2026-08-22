@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 18:49:34_
-_本檔包含 3088 則快訊，約 653115 字_
+_更新時間：2026-08-22 19:30:07_
+_本檔包含 3100 則快訊，約 653339 字_
+
+---
+
+### 2026-08-22 19:23:59  #國際
+
+巴勒斯坦副總統：沒有加沙和耶路撒冷就沒有選舉。
+
+---
+
+### 2026-08-22 19:23:34  #國際
+
+巴勒斯坦副總統：歐洲國家強烈支援舉行選舉，我們已請求他們幫助在西岸、加沙地帶和耶路撒冷舉行選舉。
+
+---
+
+### 2026-08-22 19:22:50  #國際
+
+巴勒斯坦副總統：我們正經歷一場令人窒息的金融危機，這場危機嚴重影響了服務業，包括醫療衛生領域，該領域正處於崩潰的邊緣。
+
+---
+
+### 2026-08-22 19:22:38  #國際
+
+巴勒斯坦副總統：以色列迄今已扣留巴勒斯坦70億美元的稅款，並且在過去18個月裡沒有轉移任何資金。
+
+---
+
+### 2026-08-22 19:20:49  #國際
+
+【萊維特透露離職後去向】美國白宮新聞秘書卡羅琳·萊維特21日說，她將在本月底離職後，加入美國總統特朗普的超級政治行動委員會——“讓美國再次偉大”委員會。萊維特在 “空軍一號” 總統專機上向隨行記者透露了上述計劃。特朗普當天在南卡羅來納州的一場活動中對萊維特的工作表現給予高度評價，同時對其離職表示惋惜。他調侃道，在得知萊維特更愛孩子而非自己後，感到“非常生氣”。（新華社）
+
+---
+
+### 2026-08-22 19:18:33  #其他
+
+【外資加速湧入中國高技術產業】中國商務部最新資料顯示，今年1至7月，中國高技術產業吸引外資繼續保持較快增長，佔全國實際使用外資的比重較去年明顯提升，引資結構進一步最佳化。今年1至7月，全國實際使用外資金額4383.3億元人民幣，新設立外商投資企業超3.7萬家，同比增長4.4%。從行業看，製造業實際使用外資1094.3億元人民幣，服務業實際使用外資3199.5億元人民幣。高技術產業實際使用外資1823.1億元人民幣，同比增長32.7%，佔全國實際使用外資的41.6%，較去年同期提升12.2個百分點。其中，研發與設計服務、科技成果轉化服務、電子及通訊裝置製造業實際使用外資繼續保持較快增長。（央視財經）
+
+---
+
+### 2026-08-22 19:17:11  #國際
+
+【一艘油輪在葉門附近遭索馬利亞海盜劫持】索馬利亞一名海事安全官員21日說，一艘運輸石油產品的船隻20日在葉門近海遭海盜劫持。據美聯社報道，遭劫持的“西布1號”油輪懸掛厄利垂亞國旗，由總部位於阿聯酋的一家船舶管理公司運營，20日在葉門港口城市穆卡拉以東約136海里處遭6名武裝海盜劫持，之後駛向索馬利亞邦特蘭地區沿岸。船上有20名船員，其中包括16名印度人。（新華社）
+
+---
+
+### 2026-08-22 19:15:57  #國際
+
+以色列無人機襲擊敘利亞西南部一輛汽車，導致一人受傷。
+
+---
+
+### 2026-08-22 19:15:16  #國際
+
+【伊朗武裝部隊總參謀長視察地下基地】伊朗武裝部隊總參謀長阿卜杜拉希今天（8月22日）視察了一處地下國防工業生產基地。他表示，過去一年，伊朗國防工業在生產速度和質量上“取得了令人矚目的進步”，在相關專業人員的努力下，“伊朗生產出效能更優、質量更高的裝備，且產量遠超以往”。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 19:14:50  #公司
+
+【宇樹科技回應縮減世界人形機器人運動會參賽專案】今日，第二屆世界人形機器人運動會將在北京開幕。宇樹科技釋出宣告，預祝第二屆世界人形機器人運動會圓滿成功。宇樹表示，本次大會上將有多款宇樹人形機器人亮相賽場，其中部分為宇樹自有團隊參賽，其餘則由宇樹的客戶或合作伙伴基於宇樹機器人平臺進行二次開發後參與賽事。 值得注意的是，宇樹在宣告中主動透露，受限於時間精力以及新款機器人數量和測試的限制，公司已縮減幾項已報名參賽專案。宇樹坦言，公司過往精力主要在量產產品上，“很抱歉沒能顧全賽事準備”。
+
+---
+
+### 2026-08-22 19:12:17  #國際
+
+以色列軍方領導人警告說，西岸定居者的持續暴力行為可能會對以色列的安全產生負面影響。
+
+---
+
+### 2026-08-22 19:12:14  #國際
+
+以色列軍方在與國防部長的一次會議上警告稱，由於猶太恐怖主義的抬頭，西岸地區存在局勢全面升級的風險。軍方認為，無法應對定居者襲擊可能導致西岸局勢升級。
+
+---
+
+### 2026-08-22 19:09:34  #其他
+
+【國家防總、應急管理部針對福建啟動防汛防颱風四級應急響應】今年第20號颱風“簡拉維”（熱帶風暴級）已於8月22日下午在西北太平洋洋麵上生成，預計其將以每小時5至10公里的速度向偏西方向緩慢移動，強度變化不大。受其影響，未來三天，福建省將有大到暴雨，局地大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月22日18時針對福建啟動防汛防颱風四級應急響應。
+
+---
+
+### 2026-08-22 19:05:18  #其他
+
+【網路音訊及播客業務高質量發展座談會召開】8月21日，國家廣播電視總局網路視聽節目管理司召開網路音訊及播客業務高質量發展座談會。會上，廣電總局發展研究中心釋出《2026年網路音訊發展報告》，中國傳媒大學課題組釋出《中國視音訊播客發展現狀及監管政策調研報告》，與會代表圍繞網路音訊和播客業務繁榮發展與規範管理進行了座談交流。兩份行業報告顯示，2025年我國網際網路音訊年度付費使用者1.88億戶，有聲閱讀市場營收達到134億元；播客成為近年來網路音訊的增量賽道，聽眾規模超過1.5億。行業整體呈現出“平臺整合加速、業務形態融合、使用者規模提升”的發展態勢，正在朝著精品化、規範化、數智化的新階段邁進。
+
+---
+
+### 2026-08-22 19:03:34  #其他
+
+【2026綠色算力大會簽約13個專案 總投資1361億元】2026綠色算力(人工智慧)大會22日在內蒙古自治區呼和浩特市舉行，院士專家、產業鏈企業代表等500餘人參會，大會集中籤約13個專案，簽約專案總投資額1361億元(人民幣)。 內蒙古是全國一體化算力網路國家樞紐節點。本次簽約的13個專案分落呼和浩特、烏蘭察布兩地，其中呼和浩特簽約8個專案，包括火山引擎GW級園區、寒武紀晶片實驗室、海悟算力裝備產業園等；烏蘭察布簽約5個專案，包括火山引擎GW級算力中心、協鑫能科算電協同一體化專案、中國電信資料中心等。（中新社）
+
+---
+
+### 2026-08-22 19:02:06  #公司
+
+【日用消費品“零關稅”政策加速惠及海南居民】海口市第二批島內居民日用消費品免稅店22日開業迎客，日用消費品“零關稅”政策加速惠及本地居民。 今日開業的海口市中免日月日用消費品免稅店由中免集團旗下海免(海口)免稅店有限公司運營，經營品類涵蓋母嬰用品、休閒食品、家居日化等民生剛需商品，所有零關稅商品全程接受海關監管、正品可溯源。（中新網）
 
 ---
 
@@ -18609,29 +18705,5 @@ Australia's S&P/ASX 200 opened down 11.8 points (-0.13%) at 9,072.00 on Friday, 
 ### 2026-08-21 08:10:48  #Trading Economics #Markets #Commodity #Importance 0
 
 Silver Set for Third Straight Weekly Gain — Silver traded above $68 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 5% this week after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Silver also pushed higher even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran, with the two sides locked in a standoff over the Strait of Hormuz.
-
----
-
-### 2026-08-21 08:10:31  #公司
-
-【格林生物網上發行最終中籤率為0.0144%】據交易所公告，格林生物公佈網上申購情況及中籤率，本次網上發行有效申購戶數為14861576戶，有效申購股數為86910915500股。回撥機制啟動後，網下最終發行數量為1498.75萬股，佔扣除最終戰略配售後發行數量的54.53%，網上最終發行數量為1249.7萬股，佔扣除最終戰略配售數量後發行數量的45.47%。回撥機制啟動後，本次網上發行最終中籤率為0.0143790914%。
-
----
-
-### 2026-08-21 08:07:54  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Heads for Third Straight Weekly Gain — Gold traded above $4,500 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 4% on Wednesday after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Gold held on to those gains even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran. Elsewhere, gold remained supported by robust investment demand and continued central bank purchases, particularly from China.
-
----
-
-### 2026-08-21 08:06:09  #市場
-
-澳大利亞標普/澳證200指數<.AXJO>早盤下跌0.1%，報9072.60點。
-
----
-
-### 2026-08-21 08:05:40  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish
-
-【Galaxy Securities: supernodes reshape network architecture; favor domestic switch and switch‑chip leaders】Galaxy Securities research: AI-era compute clusters are boosting demand for both front- and back-end networking. 1.6T port switches are expected to ramp from 2027, and WAIC 2026 highlighted supernodes as the dominant architecture. Rapid internal interconnect bandwidth upgrades raise per-switch value and support margins; Scale-Up switches compress latency from microsecond to ~100ns levels, increasing design and validation complexity versus legacy products and sustaining incumbents’ pricing power, creating industry chokepoints that accelerate domestic switch‑chip substitution. With overseas switch leaders' earnings catalysts, the report recommends focusing on leading domestic switch and switch‑chip names.
 
 ---
