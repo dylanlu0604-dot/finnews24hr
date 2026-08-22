@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23 03:26:25",
-  "count": 16128,
+  "updated": "2026-08-23 03:30:24",
+  "count": 16127,
   "items": [
     {
       "id": "5053402",
@@ -147394,14 +147394,6 @@
         "MKT News"
       ],
       "text": "【Institutional note: bond traders worry about 'shadow' credit guarantees for AI firms】Investors were already concerned about roughly $70 billion of off‑balance‑sheet \"shadow liabilities\" that could surface ahead of NVIDIA's announcement this week of a high‑profile $500 billion financing partnership. NVIDIA may provide tens of billions of dollars in residual‑value support to back debt tied to AI infrastructure, effectively using its stronger credit to lower customers' financing costs; Broadcom and other chipmakers are using similar guarantee structures. These deals typically use an SPV to borrow to buy chips, with loans secured by cash flows from contracts; assets are re‑leased or sold if a borrower stops paying and the guarantor fills any deficit. Some investors say the arrangements amount to financial engineering that can mask true liabilities. DoubleLine portfolio manager Mariya Entina warned the structures seek favorable treatment from ratings agencies and can obscure companies' real financial positions."
-    },
-    {
-      "id": "mkt:01a006e5-84ad-7aab-904a-e3e068087d2a",
-      "time": "2026-08-16 03:28:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV cited Hamas sources saying a delegation led by Khaled al-Hayya will travel to Cairo tonight for consultations."
     }
   ]
 }
