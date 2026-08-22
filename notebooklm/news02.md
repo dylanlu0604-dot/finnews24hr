@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 03:51:47_
-_本檔包含 3403 則快訊，約 651322 字_
+_更新時間：2026-08-23 04:35:26_
+_本檔包含 3403 則快訊，約 650152 字_
+
+---
+
+### 2026-08-21 09:07:38  #A股
+
+【A股停牌提示：7股今日停牌】Wind資料顯示，8月21日，藍盾光電、瓦軸B、湖南黃金等7只個股停牌。
+
+---
+
+### 2026-08-21 09:07:24  #公司
+
+國盛證券有限責任公司將中信泰富特鋼集團股份有限公司評級下調至增持。
 
 ---
 
@@ -20555,17 +20567,5 @@ China's one-year Loan Prime Rate (LPR) for Aug. 20 will be released in 10 minute
 ### 2026-08-20 08:46:51  #其他 #焦點 #A股
 
 【兩市融資餘額較上日減少296.69億元】截至8月19日，上交所融資餘額報13536.56億元，較前一交易日減少136.11億元；深交所融資餘額報12791.91億元，較前一交易日減少160.58億元；兩市合計26328.47億元，較前一交易日減少296.69億元。
-
----
-
-### 2026-08-20 08:46:31  #公司
-
-【澄天偉業：公司液冷散熱業務生產基地位於廣東惠州，已啟動了第二期擴產計劃】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務生產基地位於廣東惠州，目前完成了第一期的產能建設。為應對市場需求增長和客戶的產能規劃指引，公司已啟動了第二期擴產計劃，包括廠房裝修、電力擴容以及關鍵裝置的預定等。一期與二期產能全部建成後，將能有效滿足核心客戶的階段性交付需求。後續公司將根據市場情況和客戶訂單的進一步明確，審慎規劃後續產能擴張，整體產能建設與客戶放量節奏保持匹配。
-
----
-
-### 2026-08-20 08:45:57  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1.3% to above 66,000 while the broader Topix Index advanced 0.8% to 4,045 on Thursday, snapping a two-day decline as Japanese shares tracked a positive lead from Wall Street amid a pullback in global bond yields from multi-year highs. The US Treasury Department said it will more than double repurchases of 10-, 20- and 30-year debt over the coming months after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Japan’s 10-year government bond yield also eased to around 2.84% after hitting a 30-year high of 2.95% earlier this week. Meanwhile, data showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips. Notable gains came from index heavyweights including Kioxia Holdings (3.8%), Advantest (1.8%), SoftBank Group (3.2%), Nintendo (3.2%) and Toyota Motor (3%).
 
 ---

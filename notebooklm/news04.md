@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 03:51:47_
-_本檔包含 3296 則快訊，約 650734 字_
+_更新時間：2026-08-23 04:35:26_
+_本檔包含 3299 則快訊，約 650612 字_
+
+---
+
+### 2026-08-19 08:11:45  #公司 #市場 #國際
+
+【韓國Kospi指數跌超6% 半導體股票追隨隔夜美股下跌】韓國股市Kospi基準指數一度下跌6.3%，受隔夜美股行情影響，半導體股票也隨之下跌。三星電子、SK海力士和SK Square拖累最大，均下跌至少7%。美國晶片股週二大跌，由於通脹擔憂和政府債務上升，債券收益率居高不下。韓國Kosdaq小盤股指數跌超3%。
+
+---
+
+### 2026-08-19 08:11:26  #公司
+
+SK海力士工會與公司達成初步薪資協議。
+
+---
+
+### 2026-08-19 08:11:13  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.5%，報9,026.60點。
+
+---
+
+### 2026-08-19 08:10:26  #其他
+
+【俄鋁上半年營收83.4億美元 上年同期75.2億美元】俄鋁上半年營收83.4億美元，同比增長11%，上年同期75.2億美元。上半年調整後EBITDA為12.3億美元，而去年同期為7.48億美元。上半年調整後利潤為1.96億美元，而去年同期虧損為1.94億美元。
+
+---
+
+### 2026-08-19 08:10:11  #市場 #觀點
+
+【中信建投：單月銷售量價跌幅均收窄，北京新政有望提升樓市活力】中信建投研報稱，7月新房銷售面積及金額同比跌幅較6月均有所收窄，竣工面積跌幅顯著收窄。70個大中城市二手房價分化，核心城市率先企穩；7月70城整體二手房價環比下降0.3%，上海、廣深環比均上漲，其中上海已連續5個月上漲，廣深為4個月。北京推出樓市新政，公積金貸款額度大幅提升，北京樓市新政有望提高樓市活躍度。土地方面，一線城市供給領先，房企補倉核心城市意願較高，7月一/二/三線城市宅地成交溢價率分別為18%/9%/3%。隨著去庫存持續推進，截至7月末全國商品房待售面積同比下降0.8%，已連續5個月下降。
 
 ---
 
@@ -19916,17 +19946,5 @@ U.S. House Speaker Johnson said no illegal immigrants have been permitted to ent
 ### 2026-08-17 22:28:09  #MKT News #WTI #Impact bullish #Brent
 
 【Trump threatens to declare Strait of Hormuz US territory; experts say unlikely】President Trump last week said that after defeating Iran he would declare the Strait of Hormuz US territory and has previously asserted the US “owns” the waterway, despite parts lying within Iranian and Omani territorial seas. Maritime law experts say such a claim faces major legal obstacles. A City, University of London maritime-law professor said under US law a presidential proclamation or order alone would be insufficient to claim territory and would have to meet constitutional requirements. Under international law, annexation would violate the UN Charter; territory, including maritime areas, can only be acquired by treaty or cession. Occupation may give de facto control but does not confer legal title, a Swansea shipping-law professor said, and any transfer would require Iran’s consent, which is highly unlikely. The professor added a hypothetical US–Iran–Oman deal to open the strait and levy transit fees would also conflict with international law and UNCLOS. Experts emphasized Iran and Oman do not have absolute property rights over the strait; freedom of navigation is the governing legal principle and military control does not equal legal ownership.
-
----
-
-### 2026-08-17 22:27:46  #國際
-
-伊朗外交部：烏茲別克外交部副部長與伊朗外交部長阿拉格齊於當地時間週一下午舉行會晤。
-
----
-
-### 2026-08-17 22:27:31  #Trading Economics #Markets #Commodity #Importance 0
-
-Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures rose above $3.2 per pound, hovering near their highest since late July, supported by the slower pace of the Brazilian harvest and concerns about supply. Safras & Mercado reported on August 14 that the Brazil 2026/27 coffee harvest was 90% completed as of August 12, behind 97% last year and the 5-year average of 94%. Brazil's arabica coffee harvest was 86% complete, behind last year's 95%. In the meantime, latest data showed ICE arabica coffee inventories fell to a 2.75-year low of 231,445 bags. Meanwhile, market participants continued to assess the extent of disruptions to coffee exports from Colombia due to a devastating earthquake.
 
 ---

@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 03:51:47_
-_本檔包含 3014 則快訊，約 649949 字_
+_更新時間：2026-08-23 04:35:26_
+_本檔包含 3011 則快訊，約 650089 字_
+
+---
+
+### 2026-08-17 22:27:46  #國際
+
+伊朗外交部：烏茲別克外交部副部長與伊朗外交部長阿拉格齊於當地時間週一下午舉行會晤。
+
+---
+
+### 2026-08-17 22:27:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Arabica Coffee Futures at Over 2-Week High — Arabica coffee futures rose above $3.2 per pound, hovering near their highest since late July, supported by the slower pace of the Brazilian harvest and concerns about supply. Safras & Mercado reported on August 14 that the Brazil 2026/27 coffee harvest was 90% completed as of August 12, behind 97% last year and the 5-year average of 94%. Brazil's arabica coffee harvest was 86% complete, behind last year's 95%. In the meantime, latest data showed ICE arabica coffee inventories fell to a 2.75-year low of 231,445 bags. Meanwhile, market participants continued to assess the extent of disruptions to coffee exports from Colombia due to a devastating earthquake.
 
 ---
 
@@ -18150,35 +18162,5 @@ Head of Iran's Energy Optimization Organization said Iran, as part of three gaso
 ### 2026-08-16 04:38:12  #國際
 
 伊朗譴責以色列持續襲擊黎巴嫩。
-
----
-
-### 2026-08-16 04:33:05  #MKT News
-
-OpenAI CODEX product head said Sol can run an efficient Luna agent team, with the models highly familiar with one another and able to cooperate to achieve objectives at striking speed and efficiency.
-
----
-
-### 2026-08-16 04:28:11  #MKT News
-
-Trump posted a photo on social media showing him wearing a 'Trump 2028' hat, captioned 'We are going to win'.
-
----
-
-### 2026-08-16 04:22:29  #MKT News
-
-Canadian Prime Minister Carney said the government is providing support to more than 12 million Canadians through a Canada Grocery and Essentials Benefit.
-
----
-
-### 2026-08-16 04:17:50  #其他
-
-利比亞發電站附近發生爆炸，多臺發電機組停止執行。
-
----
-
-### 2026-08-16 04:09:56  #MKT News #Commodities #Energy
-
-Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion.
 
 ---

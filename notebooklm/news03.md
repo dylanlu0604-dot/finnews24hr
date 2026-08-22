@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 03:51:47_
-_本檔包含 3244 則快訊，約 649677 字_
+_更新時間：2026-08-23 04:35:26_
+_本檔包含 3241 則快訊，約 650303 字_
+
+---
+
+### 2026-08-20 08:46:31  #公司
+
+【澄天偉業：公司液冷散熱業務生產基地位於廣東惠州，已啟動了第二期擴產計劃】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務生產基地位於廣東惠州，目前完成了第一期的產能建設。為應對市場需求增長和客戶的產能規劃指引，公司已啟動了第二期擴產計劃，包括廠房裝修、電力擴容以及關鍵裝置的預定等。一期與二期產能全部建成後，將能有效滿足核心客戶的階段性交付需求。後續公司將根據市場情況和客戶訂單的進一步明確，審慎規劃後續產能擴張，整體產能建設與客戶放量節奏保持匹配。
+
+---
+
+### 2026-08-20 08:45:57  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1.3% to above 66,000 while the broader Topix Index advanced 0.8% to 4,045 on Thursday, snapping a two-day decline as Japanese shares tracked a positive lead from Wall Street amid a pullback in global bond yields from multi-year highs. The US Treasury Department said it will more than double repurchases of 10-, 20- and 30-year debt over the coming months after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Japan’s 10-year government bond yield also eased to around 2.84% after hitting a 30-year high of 2.95% earlier this week. Meanwhile, data showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips. Notable gains came from index heavyweights including Kioxia Holdings (3.8%), Advantest (1.8%), SoftBank Group (3.2%), Nintendo (3.2%) and Toyota Motor (3%).
 
 ---
 
@@ -19522,35 +19534,5 @@ Japan's Kioxia shares fell 9%.
 ### 2026-08-19 08:12:53  #MKT News #000660.KS #Impact bullish
 
 South Korean media report that SK Hynix and its union have reached a preliminary wage agreement.
-
----
-
-### 2026-08-19 08:11:45  #公司 #市場 #國際
-
-【韓國Kospi指數跌超6% 半導體股票追隨隔夜美股下跌】韓國股市Kospi基準指數一度下跌6.3%，受隔夜美股行情影響，半導體股票也隨之下跌。三星電子、SK海力士和SK Square拖累最大，均下跌至少7%。美國晶片股週二大跌，由於通脹擔憂和政府債務上升，債券收益率居高不下。韓國Kosdaq小盤股指數跌超3%。
-
----
-
-### 2026-08-19 08:11:26  #公司
-
-SK海力士工會與公司達成初步薪資協議。
-
----
-
-### 2026-08-19 08:11:13  #市場
-
-澳大利亞S&P/ASX 200指數早盤下跌0.5%，報9,026.60點。
-
----
-
-### 2026-08-19 08:10:26  #其他
-
-【俄鋁上半年營收83.4億美元 上年同期75.2億美元】俄鋁上半年營收83.4億美元，同比增長11%，上年同期75.2億美元。上半年調整後EBITDA為12.3億美元，而去年同期為7.48億美元。上半年調整後利潤為1.96億美元，而去年同期虧損為1.94億美元。
-
----
-
-### 2026-08-19 08:10:11  #市場 #觀點
-
-【中信建投：單月銷售量價跌幅均收窄，北京新政有望提升樓市活力】中信建投研報稱，7月新房銷售面積及金額同比跌幅較6月均有所收窄，竣工面積跌幅顯著收窄。70個大中城市二手房價分化，核心城市率先企穩；7月70城整體二手房價環比下降0.3%，上海、廣深環比均上漲，其中上海已連續5個月上漲，廣深為4個月。北京推出樓市新政，公積金貸款額度大幅提升，北京樓市新政有望提高樓市活躍度。土地方面，一線城市供給領先，房企補倉核心城市意願較高，7月一/二/三線城市宅地成交溢價率分別為18%/9%/3%。隨著去庫存持續推進，截至7月末全國商品房待售面積同比下降0.8%，已連續5個月下降。
 
 ---
