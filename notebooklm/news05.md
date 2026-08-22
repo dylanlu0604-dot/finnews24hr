@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 16:41:40_
-_本檔包含 3050 則快訊，約 653971 字_
+_更新時間：2026-08-22 16:59:04_
+_本檔包含 3047 則快訊，約 652874 字_
+
+---
+
+### 2026-08-17 20:52:18  #其他
+
+【上半年雄安新區外貿進出口總值同比增長6.2倍】據石家莊海關統計，今年上半年，雄安新區實現外貿進出口總值462.4億元，同比增長6.2倍。其中，雄安綜合保稅區增長態勢尤為突出，進出口總值達242.5億元，同比增長52.5倍。
+
+---
+
+### 2026-08-17 20:51:44  #MKT News
+
+Saudi Arabia TV reported Iran's foreign ministry said the Islamabad agreement has not collapsed and could still be restored.
+
+---
+
+### 2026-08-17 20:51:20  #其他
+
+【禮來1類新藥在中國啟動新III期臨床】藥物臨床試驗登記與資訊公示平臺官網顯示，禮來登記了一項Brenipatide注射液在成人抑鬱症參與者中的III期臨床研究。Insight資料庫顯示，Brenipatide是全球首個啟動抑鬱症III期臨床的GLP-1類產品。
+
+---
+
+### 2026-08-17 20:50:06  #公司
+
+【好利科技：股東孫劍波減持後持股降至5%以下】好利科技公告稱，孫劍波於2026年8月13日至2026年8月14日透過集中競價方式減持公司股份5700股，佔公司總股本的0.00311%。截至權益變動報告書籤署日，孫劍波持有公司股份9148455股，佔公司總股本的4.99998%，不再是公司持股5%以上股東。本次減持在其此前披露的減持計劃範圍內，不觸及要約收購，不會導致公司控股股東和實際控制人發生變化，該減持計劃尚未實施完畢。
+
+---
+
+### 2026-08-17 20:50:01  #公司
+
+【多氟多：2026年上半年淨利潤5.12億元，同比增長897.19%】多氟多公告，2026年上半年營業收入70.36億元，同比增長62.55%。歸屬於上市公司股東的淨利潤5.12億元，同比增長897.19%；扣非淨利潤4.96億元，上年同期為-480.93萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 20:49:54  #其他
+
+阿聯酋國民銀行率先推出專項轉型融資框架，推動阿聯酋脫碳程序。
+
+---
+
+### 2026-08-17 20:49:47  #其他
+
+Groq已以35億美元的估值融資3.5億美元。
+
+---
+
+### 2026-08-17 20:49:47  #MKT News
+
+South Africa's finance minister to present medium-term budget on Oct. 21.
 
 ---
 
@@ -18321,71 +18369,5 @@ UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is usi
 ### 2026-08-15 17:01:19  #MKT News
 
 Israeli airstrikes in southern Lebanon killed seven and wounded three, Iran's Press TV reported.
-
----
-
-### 2026-08-15 16:54:10  #國際
-
-【韓國總統李在明：將追繳親日反民族行為者財產】韓國總統李在明15日表示，韓國政府將調查、追繳親日反民族行為者不當聚斂的財產，並追究其歷史責任。李在明當天在世宗文化會館舉行的光復節81週年慶祝儀式上說，隨著6月2日《親日反民族行為者財產的國家歸屬等相關特別法》正式頒佈，韓國政府將更加負責地管理收歸國家所有的親日財產，確保相關財產能夠完整用於對獨立有功者及其遺屬的禮遇和支援。（新華社）
-
----
-
-### 2026-08-15 16:53:50  #MKT News #Market Regions #Japan & APAC
-
-【South Korea denounces Japanese officials' Yasukuni Shrine visit】On the 15th, the South Korean government and ruling and opposition parties denounced Japanese officials for making offerings and visiting Yasukuni Shrine, which enshrines Class-A WWII war criminals, and urged Japanese leaders to reflect on history and offer sincere remorse.
-
----
-
-### 2026-08-15 16:52:09  #其他
-
-【《生態環境法典的中國創新與世界貢獻》智庫報告發布】8月15日，《中華人民共和國生態環境法典》施行。當天，新華社國家高階智庫釋出《生態環境法典的中國創新與世界貢獻》智庫報告。
-
----
-
-### 2026-08-15 16:50:51  #市場 #焦點
-
-美國天然氣暗盤跌破2.8美元，日內跌幅1.1%。
-
----
-
-### 2026-08-15 16:50:49  #國際
-
-【以軍稱空襲黎巴嫩真主黨多處基礎設施】當地時間15日，以色列國防軍釋出宣告稱，以軍在黎巴嫩南部所謂“安全區”內的阿里·塔希爾高地遭黎巴嫩真主黨襲擊。作為回應，以軍於15日凌晨對黎南部納巴蒂耶和安薩爾地區的真主黨基礎設施發動了空襲。 （央視新聞）
-
----
-
-### 2026-08-15 16:49:28  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-ZELENSKIY said Ukrainian forces struck a Russian military airbase in Nizhny Novgorod.
-
----
-
-### 2026-08-15 16:46:52  #MKT News
-
-Ukrainian President Zelenskiy said Ukrainian forces struck a Russian missile factory in Samara.
-
----
-
-### 2026-08-15 16:45:46  #公司 #國際
-
-烏克蘭總統澤連斯基：使用“火烈鳥”（Flamingo）導彈打擊了俄羅斯薩馬拉州俄羅斯航天集團旗下的一家關鍵企業——“進步中心”（Progress Center），該中心主要從事電子產品生產等業務；還襲擊了薩瓦斯列伊卡空軍基地，那裡駐紮著俄羅斯導彈運載機，此外，我們還確認了對烏斯季盧加（Ust-Luga）一處石油設施的打擊。
-
----
-
-### 2026-08-15 16:43:48  #MKT News
-
-An official at Indonesia's disaster management agency said the earthquake death toll has risen to 38.
-
----
-
-### 2026-08-15 16:43:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says US claims on Strait of Hormuz are politically driven, asserts military primacy】IRNA reports Hossein Noushabadi, director-general for parliamentary and legal affairs at Iran’s Foreign Ministry, said Washington’s assertions about control of the Strait of Hormuz are politically motivated and a passive response to Iran’s demonstration of strength and strategic plans. He said US presidential claims lack basis and conflict with international shipping rules and the UN Convention on the Law of the Sea. Noushabadi added Iran holds political and military primacy over the Strait of Hormuz, the global energy chokepoint, giving Tehran leverage against external threats.
-
----
-
-### 2026-08-15 16:42:46  #國際
-
-【印尼地震死亡人數升至38人】印尼國家抗災署今天（8月15日）下午表示，今天凌晨發生的印尼強震已造成38人死亡，另有2人重傷，11人輕傷。（CCTV國際時訊）
 
 ---
