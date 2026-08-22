@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-23 02:42:40",
-  "count": 16132,
+  "updated": "2026-08-23 02:46:34",
+  "count": 16127,
   "items": [
+    {
+      "id": "5053395",
+      "time": "2026-08-23 02:45:02",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【英偉達通知客戶AI相關產品漲價超15%】英偉達部分大客戶收到通知，多數情況下搭載其人工智慧晶片的伺服器價格漲幅將超過15%。知情人士稱，此次漲價將針對明年初交付的伺服器產品，涉及搭載Vera Rubin和Grace Blackwell旗艦晶片的機型，具體漲幅視晶片代次與記憶體配置而定。相關溝通尚未對外公開。知情人士表示，為微軟、谷歌、甲骨文等大型資料中心運營商代工伺服器的企業，近期已向客戶通報漲價事宜。"
+    },
+    {
+      "id": "5053394",
+      "time": "2026-08-23 02:42:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達已通知客戶，AI相關產品漲價幅度超過15%。"
+    },
     {
       "id": "5053393",
       "time": "2026-08-23 02:41:07",
@@ -147382,63 +147400,6 @@
         "MKT News"
       ],
       "text": "Al Arabiya reported Marib, Yemen local authorities said Houthi forces fired four ballistic missiles and four drones at residential areas."
-    },
-    {
-      "id": "5042423",
-      "time": "2026-08-16 02:46:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "伊朗央行：由於美國與以色列的敵對軍事及網路行動，某境外服務商撤銷了部分網站的安全證書，導致使用者端出現 SSL 安全警告。自身基礎設施未遭到網路攻擊。"
-    },
-    {
-      "id": "mkt:01a006bd-ef37-7aab-904a-c1fd1c5ab7c2",
-      "time": "2026-08-16 02:45:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said it was surprised by the emergence of such misleading remarks during this sensitive period."
-    },
-    {
-      "id": "mkt:01a006bd-b12a-7aab-904a-bab446259c07",
-      "time": "2026-08-16 02:44:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said it invited an Iranian delegation in April to visit Qatar to be briefed on details of a search-and-rescue operation, but Iran has not yet responded."
-    },
-    {
-      "id": "5042422",
-      "time": "2026-08-16 02:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員班克斯：特朗普將向印第安納州撥付災害援助，應對惡劣天氣災情。"
-    },
-    {
-      "id": "5042421",
-      "time": "2026-08-16 02:42:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：搜救隊伍已找到一名伊朗飛行員的遺體，目前已與伊朗方面協調移交事宜。"
-    },
-    {
-      "id": "5042420",
-      "time": "2026-08-16 02:42:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部表示，在伊朗飛行員侵犯卡達領空後，卡達已採取必要措施捍衛本國領土。伊朗飛行員當時侵犯了卡達領空，且未回應卡達方面的聯絡嘗試。"
-    },
-    {
-      "id": "mkt:01a006bb-b895-7aab-904a-b6626f5cde27",
-      "time": "2026-08-16 02:42:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said search-and-rescue teams found the remains of an Iranian pilot and has contacted Iranian authorities to discuss repatriation."
     }
   ]
 }
