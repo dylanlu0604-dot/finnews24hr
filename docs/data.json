@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-22 10:26:15",
-  "count": 16159,
+  "updated": "2026-08-22 10:30:44",
+  "count": 16158,
   "items": [
+    {
+      "id": "5052957",
+      "time": "2026-08-22 10:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代商城正式上線：儲能電芯3箱起訂】8月21日晚，寧德時代宣佈商城官網、小程式雙端正式上線，官方直採，儲能電芯3箱起訂。"
+    },
     {
       "id": "5052955",
       "time": "2026-08-22 10:19:48",
@@ -147832,22 +147840,6 @@
         "國際"
       ],
       "text": "印度總理莫迪：印度必須尋求替代能源。"
-    },
-    {
-      "id": "mkt:01a00340-35a2-7aab-9047-1a644fdb529a",
-      "time": "2026-08-15 10:28:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Q2 fund duration-extension trades persist, but ultra-long end risk-reward has shifted】CITIC Securities says funds' Q2 pattern of extending duration has continued, but the risk-reward at the ultra-long end has shifted marginally. The 30Y-10Y yield spread has tightened further since end-Q2 to about 47bp; trading activity in Chinese government bonds beyond 10 years remains at high historical percentiles. With limited remaining room for further spread compression, if long-end absolute yields lack further downward momentum marginal buying from funds and broker-dealers could weaken, increasing the risk of a phased pullback from crowded positions."
-    },
-    {
-      "id": "5042113",
-      "time": "2026-08-15 10:28:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪：印度計劃啟動5座核反應堆。"
     }
   ]
 }
