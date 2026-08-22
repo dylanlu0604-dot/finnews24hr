@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 12:51:35",
-  "count": 16159,
+  "updated": "2026-08-22 12:55:37",
+  "count": 16160,
   "items": [
+    {
+      "id": "5053028",
+      "time": "2026-08-22 12:54:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中建環能與群核科技舉行技術座談交流會】據中建環能訊息，近日，群核科技與中建環能舉行技術座談交流會。雙方圍繞人工智慧、空間智慧等技術在環保行業中的創新應用展開深入交流，並就數字化場景建設、智慧裝備升級及業務融合方向進行了研討。"
+    },
+    {
+      "id": "5053027",
+      "time": "2026-08-22 12:53:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐西蘭總理被當面斥責縱容以色列】近日，紐西蘭總理拉克森在克賴斯特徹奇發表演講，現場遭多人接連抗議。其中一名抗議者斥責紐西蘭政府“縱容發生在巴勒斯坦加沙地帶的種族滅絕”、“向以色列輸送資金”、“手上沾滿鮮血”、“讓紐西蘭蒙羞”。抗議者最後被帶離現場。（CCTV國際時訊）"
+    },
     {
       "id": "5053026",
       "time": "2026-08-22 12:43:03",
@@ -147808,14 +147824,6 @@
         "國際"
       ],
       "text": "【印尼7.7級地震已造成至少20人死亡】印度尼西亞救援部門官員15日對媒體表示，印尼東部弗洛勒斯島附近海域當天早上發生的7.7級地震及多次強餘震已造成至少20人死亡。（新華社）"
-    },
-    {
-      "id": "mkt:01a003c3-a335-7aab-9047-82a34ce8df6a",
-      "time": "2026-08-15 12:52:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【More than 50 WWII unexploded shells found in central Warsaw】Construction workers found more than 50 suspected World War II-era unexploded shells during excavation at the intersection of Grzybowska and Zelazna streets in central Warsaw on the 13th. Bomb disposal teams attended on the 14th and cleared the ordnance that afternoon; authorities imposed a cordon of roughly 400m, evacuated about 4,000 people from eight nearby buildings and closed the area to pedestrians and vehicles. Two other WWII-era explosive finds were reported in central Warsaw last week."
     }
   ]
 }
