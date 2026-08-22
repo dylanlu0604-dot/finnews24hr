@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 15:16:33",
-  "count": 16153,
+  "updated": "2026-08-22 15:20:40",
+  "count": 16154,
   "items": [
+    {
+      "id": "5053086",
+      "time": "2026-08-22 15:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機襲擊俄羅斯薩馬拉州，造成新古比雪夫斯克煉油廠起火，同時襲擊了Ozon電商履約中心。這座佔地 7.5 萬平方米的設施是該零售巨頭規模最大的配送中心之一。"
+    },
+    {
+      "id": "5053085",
+      "time": "2026-08-22 15:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澳大利亞首都加入槍支回購計劃】澳大利亞總理阿爾巴尼斯22日宣佈，首都堪培拉所屬的澳大利亞首都直轄區將加入槍支回購計劃，以進一步落實去年悉尼邦迪灘槍擊事件後政府收緊槍支管控的相關舉措。阿爾巴尼斯在宣告中說，感謝首都直轄區同意加入回購計劃，配合政府落實“將槍支清除出街頭，更好保護澳大利亞人”的目標，避免再次發生類似邦迪灘恐襲的悲劇。在澳首都直轄區，超過7000名持槍許可持有人將受到新規影響，涉及槍支約2.3萬支。回購計劃的啟動日期暫未公佈。（央視新聞）"
+    },
     {
       "id": "5053084",
       "time": "2026-08-22 15:14:58",
@@ -147763,14 +147779,6 @@
         "國際"
       ],
       "text": "當地官員稱，烏克蘭襲擊導致俄羅斯薩馬拉州一處工業場地受損。"
-    },
-    {
-      "id": "mkt:01a00447-9198-7aab-9047-feecc8ccd1a5",
-      "time": "2026-08-15 15:16:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Magnitude-5.0 earthquake strikes Granada province, Spain; no casualties reported】A magnitude-5.0 earthquake struck Granada province in southern Spain on the 15th local time. Local authorities said there were no casualties. The Andalusia regional government activated its emergency contingency plan at the warning stage to address potential secondary hazards and aftershocks. Strong shaking was reported across the affected area and neighboring provinces; some residents evacuated outdoors. Emergency services received multiple reports of minor structural cracks and falling debris; safety inspections and damage assessments are underway."
     }
   ]
 }
