@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 16:59:04_
-_本檔包含 3087 則快訊，約 654457 字_
+_更新時間：2026-08-22 17:31:50_
+_本檔包含 3091 則快訊，約 653980 字_
+
+---
+
+### 2026-08-22 17:26:53  #國際
+
+烏克蘭總統澤連斯基：過去24小時內，烏軍襲擊了距離前線1000公里的新古比雪夫斯克煉油廠，還襲擊了薩馬拉地區的一個物流樞紐和黑海沿岸的目標。先前的打擊已取得確鑿成果：在薩基機場，一架蘇-24M飛機和四件機場裝置被摧毀，而在布良斯克地區，我們摧毀了用來引導攻擊無人機飛向烏克蘭城市和村莊的無人機控制中繼站。
+
+---
+
+### 2026-08-22 17:15:39  #國際
+
+【事涉兒童線上隱私保護，TikTok支付4億美元和解】當地時間8月21日，美國司法部宣佈與TikTok、位元組跳動及其關聯實體（統稱“TikTok”）達成一項金額為4億美元的和解協議，以解決有關其遵守《兒童線上隱私保護法》及其實施細則（COPPA）的訴訟。 根據和解協議，TikTok將立即支付3億美元，並在法院撤銷此前針對TikTok前身Musical.ly作出的同意令後，再支付1億美元。該和解協議是COPPA案件中迄今獲得的最大賠償金額之一。這起訴訟始於2024年8月。當時，美國司法部與美國聯邦貿易委員會共同起訴 TikTok Inc.、ByteDance Ltd. 及其關聯實體，指控其在明知使用者未滿13歲的情況下，仍允許兒童建立普通TikTok賬戶，並在未通知父母、也未獲得父母同意的情況下收集和保留個人資訊。（第一財經）
+
+---
+
+### 2026-08-22 17:15:22  #其他
+
+【天風證券：AI4S加速科研正規化變革，中國CXO有望迎來產業與估值共振】天風證券研報指出，AI4S邁入3.0階段，科研智慧體+無人實驗室推動科研正規化加速升級。AI製藥從模型創新走向乾溼閉環，上游科研服務率先迎來需求放量。創新藥融資與外包率同步改善，中國CXO新一輪景氣週期逐步確立。頭部化+新分子+全球化構築競爭力，CXO板塊有望迎來業績與估值共振。
+
+---
+
+### 2026-08-22 17:14:36  #國際
+
+伊朗官員：我們呼籲紅十字會派遣救護飛機將我們的飛行員從卡達送回伊朗。
+
+---
+
+### 2026-08-22 17:13:49  #市場
+
+【全球債市現拋售潮 熊貓債發行規模創新高】近期，全球主要經濟體長期國債收益率持續走高，債市拋售壓力升溫。而中國債市與匯率卻保持較平穩執行，熊貓債發行規模更創下歷史同期新高。資料顯示，截至8月21日，2026年熊貓債累計發行規模達2099.75億元，同比增幅超73%。在全球債市劇烈波動的背景下，國際機構加碼境內人民幣融資引發關注。業內人士介紹：“我們和海外處於完全不同的經濟與貨幣週期。外資佔我國債券市場比重僅5%—8%左右，內資佔據絕對定價權。疊加我們的貨幣政策堅持以我為主，海外衝擊無法扭轉國內債市整體趨勢。”展望後市，業內人士認為，海外債券收益率大機率維持高波動，人民幣債券配置價值凸顯，中長期或迎外資持續增配。但也需注意，美債收益率走高抬升了全球配置型資金的回報門檻，或對境外機構增持人民幣債券的意願形成一定擾動。此外，海外發達國家債券收益率快速上行也可能約束國內風險資產估值。（央視財經）
+
+---
+
+### 2026-08-22 17:08:39  #國際
+
+【伊拉克總統：已有部分裝載伊拉克石油船隻獲准透過霍爾木茲海峽】當地時間22日，伊拉克總統阿米迪表示，伊拉克方面此前已與到訪的伊朗伊斯蘭議會議長卡利巴夫進行了溝通，並向伊朗方面轉達了關於重新審視兩伊關係的訊息。阿米迪還表示，已有部分裝載伊拉克石油的船隻獲准透過霍爾木茲海峽。阿米迪強調，伊拉克政府必須與民兵組織進行對話、實現互諒，透過符合伊拉克國家和民族利益的方案解決武器管控問題。他表示，伊朗方面沒有要求伊拉克推遲國家武器管控程序。（央視）
 
 ---
 
@@ -18615,17 +18651,5 @@ Japan's Nikkei 225 opened down 639.56 points, or 0.97%, at 65,577.23 on Friday, 
 ### 2026-08-21 07:53:12  #公司 #市場 #國際
 
 【目前已有22家煤炭上市公司披露2026年半年度業績相關公告 報喜比例近七成】近期，焦炭期貨、現貨價格持續上漲。生意社資料顯示，截至8月20日，焦炭基準價達到1868.75元/噸，較5月20日上漲11.40%；期貨方面，焦炭2701主力合約8月以來持續上漲，累計漲幅已達到12.85%。焦煤近期亦有明顯漲幅。生意社資料顯示，煉焦煤8月18日價格為1923.75元/噸，較5月18日上漲23.42%；期貨方面，8月以來，焦煤2701主力合約累計上漲18.99%。需求方面，今年上半年，全國用電需求保持旺盛增長態勢，算力、充換電等行業高速發展，疊加持續高溫天氣，全社會用電量增速加快。據證券時報·資料寶統計，截至8月20日，已有22家煤炭上市公司披露2026年半年度業績相關公告。按半年報淨利潤、業績預告下限順序計算，3家公司扭虧為盈，6家同比減虧，6家實現淨利潤同比增長，報喜比例近七成。扭虧為盈的3家公司中，甘肅能化淨利潤最高，公司預計實現歸母淨利潤1.66億元，主要由於煤炭銷售均價同比上漲。從估值上來看，上述扭虧、減虧、預增的15只煤炭股中，4股最新市淨率不足1倍，處於“破淨”狀態，包括山西焦化、蘭花科創、甘肅能化、恆源煤電，最新市淨率分別為0.6倍、0.71倍、0.84倍、0.9倍。
-
----
-
-### 2026-08-21 07:53:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Pressured by Rebounding Yields — US stock futures hovered near weekly lows on Friday after major averages faced heavy selling pressure in the previous session, as Treasury yields rebounded amid concerns that the government’s plan to lower borrowing costs may offer only a temporary solution. Rising oil prices, as the US and Iran remain deadlocked over the Strait of Hormuz, also stoked inflation concerns. In regular trading on Thursday, the Dow fell 1.32%, the S&P 500 declined 0.87% and the Nasdaq Composite dropped 1%. Nine of the 11 S&P sectors finished lower, with consumer staples, health care and consumer discretionary stocks leading the declines. Long-term Treasury yields reversed Wednesday’s drop following the Treasury Department’s announcement of larger debt buybacks. In corporate news, Ross Stores jumped more than 8% in extended trading after the retailer posted stronger-than-expected second-quarter results.
-
----
-
-### 2026-08-21 07:51:16  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
-
-【Iran official says plans attacks on crude export facilities to hurt Trump ahead of US midterms】A senior Iranian official said Tehran plans an economic offensive including attacks on Gulf oil reroute export facilities to push up US gasoline prices and damage support for Trump’s party before the November midterms. Targets would include the two main alternatives used to bypass the Strait of Hormuz — Saudi Arabia’s Yanbu pipeline and the UAE’s Fujairah oil terminal — which together handle about 5.5 mln bpd. The official said if Iran also cut the US‑supported “shadow fleet” flows currently transiting the Strait, roughly 5.0 mln bpd, it would significantly reduce the alternate transport capacity that sustains Gulf exports under a wider blockade. With Brent near $93/bbl, any credible strike on Yanbu or Fujairah could be seen by traders as a supply shock larger than prior disruptions.
 
 ---

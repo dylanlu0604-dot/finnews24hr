@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 16:59:04_
-_本檔包含 3047 則快訊，約 652874 字_
+_更新時間：2026-08-22 17:31:50_
+_本檔包含 3038 則快訊，約 652904 字_
+
+---
+
+### 2026-08-17 20:56:02  #其他
+
+【第七屆中非媒體合作論壇將在京舉行】由國家廣播電視總局、北京市人民政府、非洲廣播聯盟共同主辦的第七屆中非媒體合作論壇將於8月19日至21日在北京舉行。（新華社）
+
+---
+
+### 2026-08-17 20:55:14  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) spokesman said Trump's claim that the US held secret backchannel talks with IRGC officials about war is "a delusion born of failure".
+
+---
+
+### 2026-08-17 20:54:36  #其他
+
+【OpenAI與英偉達擴大計算機會 到2030年計算規模或達6000億美元】根據英偉達釋出的新聞稿，OpenAI將在PORTS-Pike建設並運營一座世界級的人工智慧工廠。AI工廠將採用英偉達的全棧DSX AI工廠平臺，包括GPU、CPU、網路和基礎設施軟體。 初步部署預計將提供4.25吉瓦的AI工廠產能。PORTS-Pike部署的每代NVIDIA AI工廠系統約可代表150萬塊NVIDIA GPU，約佔1500億美元至2000億美元的NVIDIA收入。經過20年的發展，該站點支援多次升級週期。 NVIDIA也可能選擇將PORTS-Pike的安排延長至初始4.25吉瓦以上，以確保剩餘的3.75吉瓦容量。 OpenAI承諾將在2030年前大規模部署NVIDIA AI基礎設施。OpenAI現有和計劃中的承諾約佔NVIDIA計算12吉瓦，如果NVIDIA將PORTS-Pike協議擴充套件至約16吉瓦，將有機會擴充套件至約16吉瓦。 英偉達表示，在這些層面上，這一機會代表到2030年NVIDIA計算量約為6000億美元。
+
+---
+
+### 2026-08-17 20:54:32  #公司
+
+【泰恩康與普羅凱融達成戰略合作】據泰恩康訊息，近日，泰恩康已完成對廣東普羅凱融生物醫藥科技有限公司（簡稱“普羅凱融”）的增資，並與普羅凱融及其實際控制人曾皓宇簽署《戰略合作協議》。增資交割完成後，泰恩康取得全球首創眼表細胞治療產品MSCohiO鏡片專案（SZ018）在中國區域的獨家商業推廣服務權益，雙方將共同推動眼表重症細胞治療創新成果實現商業化落地。
+
+---
+
+### 2026-08-17 20:54:06  #公司 #國際
+
+【美軍宣佈與雷神公司簽訂229億美元“戰斧”導彈合同】當地時間8月17日，美國海軍方面宣佈已與美國雷神公司簽訂一份價值229億美元的合同，以提高“戰斧”巡航導彈的產量。據悉，美海軍代理部長表示，將“透過與業界的密切合作，擴大彈藥工業基地的產能”，海軍部門“正在利用一切可用手段來滿足當前行動的需求”。美海軍方面尚未詳細透露“戰斧”導彈具體增產幅度及合同期限。（央視新聞）
+
+---
+
+### 2026-08-17 20:53:22  #公司
+
+【泰凌微：原一致行動協議到期解除 部分股東續簽】泰凌微公告稱，公司原一致行動關係將於2026年8月24日到期，王維航及華勝天成、盛文軍、鄭明劍、金海鵬、凌析微於2026年8月14日簽署新一致行動協議，自2026年8月25日起生效，期限1年。中域昭拓因進入清算期不再續簽，其所持1.53%公司股份不再合併計算。本次權益變動後，王維航控制公司股權比例為28.57%，公司實際控制人未發生變更，不涉及各方實際持股數量增減，不會影響公司治理結構和持續經營。
+
+---
+
+### 2026-08-17 20:52:58  #公司
+
+【芯原股份：2026年上半年營收18.64億元 同比增長91.37%】芯原股份公告稱，2026年上半年公司實現營業收入18.64億元，同比增長91.37%；歸屬於上市公司股東的淨虧損61212.50萬元，上年同期淨虧損31984.86萬元。經營活動產生的現金流量淨額6.26億元，上年同期為-3.65億元。報告期內研發投入佔營業收入比例為50.49%，較上年同期減少15.22個百分點。截至報告期末公司股東總數為53346戶，前十大股東中VeriSilicon Limited持股比例11.39%，為第一大股東。
+
+---
+
+### 2026-08-17 20:52:56  #Trading Economics #Economy #Sri Lanka #Manufacturing PMI #Importance 1
+
+Sri Lanka Manufacturing Activity Picks Up in July — Sri Lanka’s Manufacturing PMI rose to 55 in July 2026, up from 53 in June, indicating a faster expansion in manufacturing activity. New orders (55.9 vs 50) and production (54.5 vs 52) increased, driven by robust performance in the food and beverage manufacturing sector. Reflecting positive expectations for activity, employment rose to 51 from 50.5, while stocks of purchases remained in expansionary territory at 51.5, despite easing from 56.6. Meanwhile, suppliers’ delivery times remained extended at 61.5, little changed from 61.6, pointing to persistent supply-chain pressures as geopolitical tensions persist. Overall, manufacturers remained optimistic about activity over the next three months, while maintaining caution amid global uncertainties.
 
 ---
 
@@ -18267,107 +18315,5 @@ UAE Foreign Ministry said Iran's Islamic Revolutionary Guard Corps (IRGC) is usi
 ### 2026-08-15 17:34:14  #宏觀
 
 【非滬籍居民及境外人士置換性購房政策微調？上海房地產交易中心熱線回應】針對市場傳出上海更新置換購房相關執行口徑，8月15日，記者致電上海房地產交易中心熱線“962269”進行諮詢。針對非本市戶籍居民置換性購房的問題，上海房地產交易中心熱線工作人員表示，並未出臺新政。據熱線工作人員介紹，非本市戶籍居民家庭，出售名下唯一房產，可在全市範圍內建換一套住房，前後產權人需保持一致，無需提供社保或個稅證明。該口徑已於2024年5月28日起執行。針對多套住房，非本市戶籍居民家庭或成年單身人士出售名下部分房產（即名下有兩套及以上的），再次購房時，購買住房的套數與位置要與售出房屋一致——賣掉外環外房屋只能外環外買；賣掉外環內房屋，只能外環內買，免於提交社保或個稅證明。該口徑已於2026年2月26日起執行。針對境外人士的購房置換，熱線工作人員表示，境外個人出售名下上海全部房產後，可在本市置換併購買一套住房，免於提交外國人居留許可證（工作類）、自購房之日前連續滿一年的本市勞動合同，以及購房之日前連續滿一年的社保、個稅繳納證明，但仍需簽署境外個人購房自住承諾書。該口徑於2026年7月29日起執行。 (澎湃新聞)
-
----
-
-### 2026-08-15 17:30:02  #國際
-
-俄羅斯方面稱，夏季攻勢已攻佔烏克蘭東南部19個定居點。
-
----
-
-### 2026-08-15 17:27:19  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-【Jensen Huang offers up to 25% residual-value support as NVIDIA, six Wall Street asset managers back AI compute as standalone asset class】Jensen Huang, joined by six Wall Street asset managers, endorsed treating AI compute as a standalone asset class. Investors raised concerns about circular financing and elevated debt risk; Huang said NVIDIA may provide up to 25% residual-value support for individual projects and will prudently assess each deal. The remarks eased market concern modestly.
-
----
-
-### 2026-08-15 17:25:44  #其他
-
-【黃仁勳出手安撫AI算力市場：英偉達可能會“為單個投資專案提供最高25%的殘值支援機制”】本週十分罕見的一大場景就是黃仁勳攜手六位華爾街資管巨頭，一起為“將AI算力打造為獨立資產類別”背書，分析認為這是黃仁勳在踐行自己提出的詞元經濟學，而這也標誌著AI熱潮正在從技術競賽延伸至資本競賽。但最新計劃也引發了投資者對“迴圈融資”和債務風險的擔憂，面對質疑，黃仁勳再次親自出面安撫市場。他表示，英偉達可能會“為單個投資專案提供最高25%的殘值支援機制”，並會審慎評估每個專案。此後市場情緒稍微得到緩解。（央視財經）
-
----
-
-### 2026-08-15 17:21:09  #MKT News
-
-【South Korea's Lee says government will recover assets of pro-Japanese collaborators】President Lee said on the 15th the government will investigate and recover assets improperly amassed by pro-Japanese, anti-national actors and pursue their historical accountability. Following the June 2 enactment of the Special Act on State Ownership of Property of Pro-Japanese Anti-National Actors, the government will more tightly manage seized pro-Japanese assets and ensure proceeds are fully used to honor and support independence contributors and their heirs.
-
----
-
-### 2026-08-15 17:19:39  #國際
-
-黎巴嫩總理：以色列必須停止局勢升級；保障黎巴嫩人民的安全和他們在自己土地上生存的權利，不是談判或討價還價的話題。
-
----
-
-### 2026-08-15 17:19:17  #公司
-
-阿聯酋總統外交顧問安瓦爾·加爾加什表示：阿布扎比國家石油公司油輪屢遭襲擊，但這並不會阻止阿聯酋繼續奉行平衡理性的政策。我們將捍衛我們的主權和利益，同時繼續走對話道路，優先考慮外交途徑。
-
----
-
-### 2026-08-15 17:18:17  #國際
-
-黎巴嫩總理：即便黎巴嫩境記憶體在任何軍事設施，處置這些設施的責任完全屬於我國政府。
-
----
-
-### 2026-08-15 17:17:28  #國際
-
-黎巴嫩總理：黎巴嫩境記憶體在任何軍事設施，都不能賦予以色列侵犯我國領土的權利。
-
----
-
-### 2026-08-15 17:15:05  #MKT News #Market Regions #Greater China
-
-【August 2026 box office tops 3.0 bln yuan】Dengta Pro data showed China's August 2026 box office, including presales, surpassed 3.0 bln yuan as of Aug 15. Top five titles by box office are Spider-Man: A New Day; Welcome to Long Restaurant; Eight Immortals!; Odyssey; and Kung Fu Women's Football.
-
----
-
-### 2026-08-15 17:11:11  #其他
-
-【今年暑期檔電影票房已超96億】據網路平臺資料，截至8月15日15時，2026暑期檔票房已超96億元。今年暑期檔影片型別豐富、題材多元，吸引觀眾走進影廳，觀影活力持續釋放。（央視新聞）
-
----
-
-### 2026-08-15 17:09:36  #其他
-
-【2026年8月票房破30億】據燈塔專業版，截至8月15日，2026年8月總票房（含預售）突破30億，《蜘蛛俠：嶄新之日》《歡迎來龍餐館》《八仙！》《奧德賽》《功夫女足》暫列8月票房榜前五。
-
----
-
-### 2026-08-15 17:07:34  #國際
-
-黎巴嫩總理：黎巴嫩境內的軍事設施是國家的專屬職責。
-
----
-
-### 2026-08-15 17:07:00  #公司
-
-法國電力公司將於8月10日至17日暫停格拉沃利訥3號核電站的執行。
-
----
-
-### 2026-08-15 17:02:58  #國際
-
-黎巴嫩總理：以色列對黎南部地區的猛烈轟炸破壞了穩定。
-
----
-
-### 2026-08-15 17:01:38  #其他
-
-【原煤炭工業合肥設計研究院黨委書記曹榮平接受紀律審查和監察調查】據安徽省紀委監委訊息：原煤炭工業合肥設計研究院黨委書記曹榮平涉嫌嚴重違紀違法，目前正接受安徽省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-15 17:01:19  #國際
-
-黎巴嫩總理：以色列自黎明以來不斷升級的行動已達到“極其嚴重的程度”。
-
----
-
-### 2026-08-15 17:01:19  #MKT News
-
-Israeli airstrikes in southern Lebanon killed seven and wounded three, Iran's Press TV reported.
 
 ---

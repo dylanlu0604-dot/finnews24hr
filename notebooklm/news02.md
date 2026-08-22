@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 16:59:04_
-_本檔包含 3404 則快訊，約 653195 字_
+_更新時間：2026-08-22 17:31:50_
+_本檔包含 3400 則快訊，約 653249 字_
+
+---
+
+### 2026-08-21 07:53:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Pressured by Rebounding Yields — US stock futures hovered near weekly lows on Friday after major averages faced heavy selling pressure in the previous session, as Treasury yields rebounded amid concerns that the government’s plan to lower borrowing costs may offer only a temporary solution. Rising oil prices, as the US and Iran remain deadlocked over the Strait of Hormuz, also stoked inflation concerns. In regular trading on Thursday, the Dow fell 1.32%, the S&P 500 declined 0.87% and the Nasdaq Composite dropped 1%. Nine of the 11 S&P sectors finished lower, with consumer staples, health care and consumer discretionary stocks leading the declines. Long-term Treasury yields reversed Wednesday’s drop following the Treasury Department’s announcement of larger debt buybacks. In corporate news, Ross Stores jumped more than 8% in extended trading after the retailer posted stronger-than-expected second-quarter results.
+
+---
+
+### 2026-08-21 07:51:16  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Iran official says plans attacks on crude export facilities to hurt Trump ahead of US midterms】A senior Iranian official said Tehran plans an economic offensive including attacks on Gulf oil reroute export facilities to push up US gasoline prices and damage support for Trump’s party before the November midterms. Targets would include the two main alternatives used to bypass the Strait of Hormuz — Saudi Arabia’s Yanbu pipeline and the UAE’s Fujairah oil terminal — which together handle about 5.5 mln bpd. The official said if Iran also cut the US‑supported “shadow fleet” flows currently transiting the Strait, roughly 5.0 mln bpd, it would significantly reduce the alternate transport capacity that sustains Gulf exports under a wider blockade. With Brent near $93/bbl, any credible strike on Yanbu or Fujairah could be seen by traders as a supply shock larger than prior disruptions.
 
 ---
 
@@ -20540,43 +20552,5 @@ US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged hig
 ### 2026-08-20 07:39:29  #觀點
 
 【華泰證券：中長期仍看好交執行業景氣底部回暖，左側佈局具備較高價效比】華泰證券研報指出，7月傳統暑運旺季疊加航煤出廠價回落，航司加大運力投放。三大航（國航/東航/南航，下同）+春秋+吉祥ASK/RPK分別同增4.6%/7.8%（6月為同降2.5%/1.7%），客座率同增2.6pct至86.2%，不過量增價弱，國內線含油票價第27周-31周（6/29-8/2）同降3.2%（6/1-6/28為同增11.5%，航班管家）。8月上旬進入暑運高峰，民航票價表現邊際改善，第32周-33周（8/3-8/16）同增2.6%，不過考慮基數不高，暑運並未產生明顯旺季效應，板塊關注度較低。往後展望，繼續關注國際油價和高頻資料走勢，中長期仍看好行業景氣底部回暖，左側佈局具備較高價效比。
-
----
-
-### 2026-08-20 07:38:57  #觀點
-
-【華泰證券：縣域市場已從快消品行業的“補充市場”升級為“核心增量引擎”】華泰證券研報指出，近日，商務部等9部門聯合印發《關於進一步激發下沉市場活力、活躍縣域消費的意見》，提出6方面18條措施，核心舉措包括支援縣域消費渠道升級，深化“千集萬店”改造，支援鄉鎮商貿中心、集貿市場等建設升級，引進國內外品牌開設區域首店；推動縣域商業業態創新和品牌打造，推行同一縣域連鎖企業“一照多址”，支援國貨潮品下沉至縣域市場；最佳化縣域商品和服務供給，促進同品同款商品城鄉“同質同享”；進一步提升縣域流通的現代化水平，引導線上&線下渠道協同發展。華泰判斷縣域市場已從快消品行業的“補充市場”升級為“核心增量引擎”，對於具備品牌認知、供應鏈效率和渠道管理能力的龍頭企業而言，下沉能力正從可選項變為必選項。
-
----
-
-### 2026-08-20 07:38:23  #公司
-
-【公募基金年內累計分紅1094.63億元】近期，公募基金密集釋出分紅公告。資料顯示，截至8月19日，本月內公募基金已釋出99份分紅公告。今年以來公募基金累計分紅4124次，分紅總額達1094.63億元。（證券日報）
-
----
-
-### 2026-08-20 07:37:56  #其他
-
-【從沉睡資源到搶手硬通貨 海洋資料成為一門“大生意”】近期，海南、福建、浙江、廣西、遼寧等省份已釋出省級“十五五”海洋經濟發展規劃，全部對海洋資料、數字海洋建設作出系統部署。這意味著海洋資料不再是躺在伺服器裡的“沉睡資源”，而是一筆可以認真去做、值得長期經營的“大生意”。可以預見，“十五五”期間，誰能率先把海洋資料做成一門好生意，誰就能在藍色經濟的新賽道上搶佔先機。（證券日報）
-
----
-
-### 2026-08-20 07:37:48  #宏觀 #公司
-
-【48家央企攜263件展品亮相2026世界機器人大會 中央企業機器人創新聯合體正式成立】8月19日，2026世界機器人大會在京啟幕。值得一提的是，為加快構建機器人領域產學研用協同創新體系，本屆大會上，在國務院國資委指導下，中國兵器工業集團有限公司牽頭，聯合中央企業、高校及科研院所、民營企業、行業學會等百餘家單位組建中央企業機器人創新聯合體。此外，中央企業機器人十大創新成果和十大高價值應用場景同步釋出，也成為本屆大會的一大亮點。（證券日報）
-
----
-
-### 2026-08-20 07:35:59  #宏觀 #公司 #觀點
-
-【華泰證券：重點關注在核心城市擁有較多佈局且具備產品力優勢的優質房企，以及部分低估值房企、頭部港資房企和物管/商管公司】華泰證券研報指出，8月18日，國務院總理簽署國務院令，正式公佈《國務院關於修改〈住房公積金管理條例〉的決定》。除了拓寬用途、提升效能、強化風控、擴大覆蓋面四大部分的修改之外，我們認為亦需重視公積金利率形成機制的變化，或潛在帶來公積金利率結構性下調的可能性。今年以來上海低總價二手房率先企穩印證了公積金政策的作用，若未來公積金迎來結構性降息，疊加核心城市住房租金逐步企穩甚至反彈，或將催生更多“由租轉買”需求，助力房地產市場加速回穩。重點關注在核心城市擁有較多佈局且具備產品力優勢的優質房企，以及部分低估值房企、頭部港資房企和物管/商管公司。
-
----
-
-### 2026-08-20 07:33:54  #其他
-
-【北京市委常委會召開會議，研究透過“十五五”時期推進國際科技創新中心建設規劃等事項】會議強調，“十五五”時期是科技強國建設的關鍵攻堅期，黨中央作出將北京國際科技創新中心擴圍至京津冀的重大部署，我們要認真貫徹落實，不斷鞏固提升原始創新策源地優勢，深入實施基礎研究領先行動，強化國家戰略科技力量建設和協同，努力在前沿領域取得引領性顛覆性突破。全面拓展科技創新應用場景，培育壯大戰略性新興產業和未來產業，大力發展新質生產力。深入促進科技與文化融合創新，全面提升城市管理數智化水平。深化產學研協同育人，健全戰略科學家、科技領軍人才和創新團隊發現、引進機制，全力打造高水平人才高地。加快建設中關村世界領先科技園區，完善科技金融服務體系，強化國際科技交流合作，擴大中關村論壇等品牌活動影響力，培育世界一流創新生態。
-
-會議要求，要持續推進綜合監管規範化、精細化、智慧化，為首都高質量發展和高水平安全提供有力保障。結合中央安全生產考核巡查反饋問題整改，持續深化重點領域隱患整治，推動監管模式從“事後處置”向“事前預警、事中管控”轉變。持續深化監管改革、最佳化監管方式，最大限度為經營主體鬆綁減負、賦能增效，圍繞企業和群眾反映強烈的問題最佳化服務，增強群眾獲得感。堅持現場檢查和非現場監管兩手抓，完善部門協同、上下聯動機制，深化人工智慧等前沿技術應用，不斷提升監管質效。（北京日報）
 
 ---
