@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-22 14:32:15",
+  "updated": "2026-08-22 14:36:14",
   "count": 16155,
   "items": [
+    {
+      "id": "5053067",
+      "time": "2026-08-22 14:33:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：印度外長蘇傑生將於8月23日至24日對俄羅斯進行正式訪問，出訪期間還將會見俄羅斯外交部長謝爾蓋·拉夫羅夫。"
+    },
     {
       "id": "5053066",
       "time": "2026-08-22 14:30:26",
@@ -147775,14 +147783,6 @@
         "MKT News"
       ],
       "text": "【sheinbaum says US visa revocation of ex-president's son is interference】On Aug. 14 Mexico President sheinbaum said the US decision to revoke the U.S. visa of the son of former Mexican president Lopez was politically motivated and constituted interference in Mexico's internal affairs. Sheinbaum said Mexico must remain firm and that bilateral ties should be based on mutual respect. The remarks follow US revocations in 2026 of visas for at least six ruling-party officials and US requests to extradite alleged drug-trafficking collaborators — including four current governors, mayors and legislators and six former officials — to stand trial in the US; Mexico has rejected the extradition requests, citing insufficient evidence."
-    },
-    {
-      "id": "mkt:01a0041f-0245-7aab-9047-c553acaa18f2",
-      "time": "2026-08-15 14:32:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hainan Airlines flight HU753 diverts to Krasnoyarsk after mechanical fault; lands safely】Hainan Airlines flight HU753 (Beijing–Manchester) diverted to Krasnoyarsk International Airport, Russia, on Aug. 15, 2026 after a mechanical fault and landed safely at 07:28 Beijing time. The airline said it will swap aircraft to operate subsequent sectors and provide passenger assistance."
     }
   ]
 }
