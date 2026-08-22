@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 13:54:37_
-_本檔包含 3374 則快訊，約 654604 字_
+_更新時間：2026-08-22 14:56:08_
+_本檔包含 3382 則快訊，約 654730 字_
+
+---
+
+### 2026-08-19 04:44:17  #國際
+
+伊朗外交部發言人警告稱存在"假旗行動"，並指責（阿聯酋）相關指控"毫無根據"。
+
+---
+
+### 2026-08-19 04:44:09  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M
+
+---
+
+### 2026-08-19 04:44:07  #MKT News
+
+API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #WTI #Impact bullish #Brent
+
+US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl.
+
+---
+
+### 2026-08-19 04:43:56  #MKT News #Economic Calendar
+
+United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M
+
+---
+
+### 2026-08-19 04:43:46  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M
+
+---
+
+### 2026-08-19 04:43:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:41  #國際
+
+美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。
+
+---
+
+### 2026-08-19 04:43:33  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-19 04:43:31  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M
+
+---
+
+### 2026-08-19 04:43:23  #MKT News #Important #Commodities #Energy
+
+US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels.
+
+---
+
+### 2026-08-19 04:43:19  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M
+
+---
+
+### 2026-08-19 04:43:14  #國際
+
+惠譽評級：美國醫療保健網路風險日益增加。
+
+---
+
+### 2026-08-19 04:43:08  #MKT News #Economic Calendar #Important
+
+United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M
+
+---
+
+### 2026-08-19 04:42:50  #國際
+
+【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）
+
+---
+
+### 2026-08-19 04:42:30  #國際
+
+伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。
+
+---
+
+### 2026-08-19 04:41:37  #市場
+
+諾福克南方鐵路盤後上漲2.4%。
+
+---
+
+### 2026-08-19 04:41:28  #MKT News #XAUUSD #Impact bearish #DXY
+
+Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles.
+
+---
+
+### 2026-08-19 04:39:55  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls for Eleventh Straight Session — The Ibovespa fell 0.2% to close at 166,334 on Tuesday, erasing earlier gains to end its eleventh consecutive session of losses amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with Itaú shedding 0.5%, Bradesco losing 0.6% and Banco do Brasil retreating 0.8%. Utilities also posted losses, with Axia down 0.6% after gaining earlier in the session on the results of its share buyback operation and a buy recommendation from Itaú BBA. Steelmakers posted losses despite higher iron ore prices, with Gerdau down 2.3% and CSN losing 0.7%, while Vale edged 0.2% higher. Petrobras gained 0.3% on higher oil prices. WEG (+1%), Embraer (+0.8%) and Suzano (+1.4%) outperformed.
+
+---
+
+### 2026-08-19 04:38:45  #國際
+
+【敘過渡政府譴責以色列空襲敘空軍基地】敘利亞過渡政府外交部18日發表宣告，強烈譴責以軍空襲阿布祖胡爾空軍基地，稱這是“毫無正當理由的侵略行徑”。宣告說，此次襲擊是對敘利亞及其領土完整的公然侵犯，也是威脅地區安全與穩定的危險升級。敘利亞將持續捍衛自身合法權利、國家利益以及國際法與國際公約賦予的各項權益。（新華社）
+
+---
+
+### 2026-08-19 04:37:59  #MKT News #Market Themes #AI Revolution
+
+【Anthropic plans super-voting shares to preserve founders' control】Anthropic is preparing a class of super-voting shares for CEO Dario Amodei and other co-founders to shield the founding team from external shareholder pressure, The Information reports. The move would be the company's first use of enhanced voting rights; founders' relatively low equity stakes are cited as the rationale. Anthropic also plans to retain its non-shareholder trustee framework and use the special share class to elect a majority of the board, further limiting outside shareholders' influence on governance.
+
+---
+
+### 2026-08-19 04:35:43  #國際
+
+以色列：同意與敘利亞在安全方面維持現狀。
+
+---
+
+### 2026-08-19 04:35:00  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.22% Lower — The Dow Jones Index dropped 116 points or 0.22 percent on Tuesday to close at 53344 points. Losses were led by Caterpillar (-4.31%), Nvidia (-2.37%) and Boeing (-1.36%). Offsetting the fall, top gainers were Salesforce (4.05%), J&J (3.30%) and Nike (2.46%).
+
+---
+
+### 2026-08-19 04:33:38  #MKT News
+
+Central Bank of Uruguay kept its policy rate at 5.75%, unchanged from the previous setting.
+
+---
+
+### 2026-08-19 04:33:34  #公司 #焦點
+
+【Anthropic籌備超級投票權，為IPO鋪路】據兩名知情人士透露，Anthropic計劃授予執行長達里奧·阿莫迪及其他聯合創始人一類具備超額投票權的股份，幫助他們抵禦外部股東施加的壓力。這將是Anthropic管理層首次獲得超級投票權；該機制在科技企業創始人中已十分普遍。另有訊息人士表示，對Anthropic而言此舉意義特殊：相比其他科技企業創始人，該公司創始人所持股權佔比相對較低。公司還計劃依託特殊類別的股票，保留現有的非股東受託人團體，由其選舉董事會多數席位，以此構建一道非傳統屏障，抵禦外部股東干預。
+
+---
+
+### 2026-08-19 04:32:48  #MKT News
+
+According to The Information, Anthropic has been preparing to grant CEO Dario Amodei and other co-founders a new class of stock carrying additional voting rights.
+
+---
+
+### 2026-08-19 04:32:01  #央行 #其他
+
+烏拉圭央行維持關鍵利率在5.75%不變。
+
+---
+
+### 2026-08-19 04:31:46  #國際
+
+【阿聯酋宣佈暫停與伊朗的貿易金融往來】阿聯酋外交部19日發表宣告表示，阿聯酋暫停與伊朗的所有貿易、商業往來和金融交易。（新華社）
+
+---
+
+### 2026-08-19 04:31:31  #其他
+
+【AI事故風險加劇：2025年前十月事件數已超2024全年】人工智慧造成危害的潛在風險正愈發凸顯。人工智慧事故資料庫（AI Incident Database）的資料顯示，2022‑2024年間，有記錄的AI相關事故同比上升50%；而截至2025年10月的前10個月，事故數量就已經超過2024年全年水平。
+
+---
+
+### 2026-08-19 04:30:28  #MKT News #HE.O #Impact bearish
+
+Hawaiian Electric Co.: As of 7:00 AM local time, roughly 57,000 customers are without power due to tropical storm 'Lala'.
+
+---
+
+### 2026-08-19 04:28:08  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Drops on Banking and Mining Losses — The S&P/TSX Composite Index fell 0.8% to close at 36,368 on Tuesday, weighed down by losses in the mining and financial sectors amid elevated global bond yields and uncertainty surrounding the Middle East conflict. Global bond yields traded near multi-decade highs, as fading hopes for a peace deal between the US and Iran and rising energy costs rekindled inflation concerns. Major banks closed lower, with RBC losing 1.3%, TD Bank shedding 1.7%, BMO down 1.2%, CIBC losing 1.3% and Scotiabank retreating 1.1%. Miners also declined as gold prices slipped, with Agnico Eagle down 0.8%, Barrick losing 0.9% and WPM shedding 2.8%. Most technology stocks tumbled, tracking a selloff in US chipmakers, with Shopify losing 1.2% and Celestica sinking 8.4%. In contrast, energy stocks gained on rising oil prices, with Canadian Natural up 0.9% and Suncor adding 1.7%. NexGen Energy (-4.4%) is discussing a potential equity stake with BHP in its Rook I mining project in Saskatchewan, CEO Leigh Curyer said.
 
 ---
 
@@ -20226,143 +20412,5 @@ Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | p
 ### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
 
 Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6
-
----
-
-### 2026-08-17 20:29:33  #公司
-
-【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）
-
----
-
-### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
-
-A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
-
----
-
-### 2026-08-17 20:28:47  #國際
-
-【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）
-
----
-
-### 2026-08-17 20:28:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl.
-
----
-
-### 2026-08-17 20:27:22  #MKT News #Important #WTI #Impact bullish #Brent
-
-Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to "fully offensive".
-
----
-
-### 2026-08-17 20:27:01  #MKT News #Market Themes #The Trump Trade
-
-Hamas told Al Jazeera that Trump's comments confirm his commitment to the ceasefire process and urged him to pressure the Israeli government to comply with the agreement and implement the second phase of the peace plan.
-
----
-
-### 2026-08-17 20:25:53  #公司
-
-【睿創微納：2026年半年度淨利潤12.59億元，同比增長258.78%】睿創微納公告，2026年半年度營業收入43.97億元，同比增長72.84%；歸屬於上市公司股東的淨利潤12.59億元，同比增長258.78%；歸屬於上市公司股東的扣除非經常性損益的淨利潤12.33億元，同比增長275.38%。公司擬向全體股東每10股派發現金紅利5元（含稅）。
-
----
-
-### 2026-08-17 20:23:15  #國際
-
-【特朗普要求伊朗舉白旗投降】據美國福克斯新聞今天（8月17日）報道，美國總統特朗普在接受其採訪時稱，結束與伊朗的戰爭“沒有時間表”，他“並不著急”，並要求伊朗“舉起白旗投降”。福克斯新聞記者稱，特朗普表示，他在解決這場戰爭問題上的考慮“與美國中期選舉無關”。（CCTV國際時訊）
-
----
-
-### 2026-08-17 20:22:31  #公司
-
-【寒武紀：調整2026年限制性股票激勵計劃首次授予名單】寒武紀公告稱，因1名激勵物件離職失去激勵資格，公司對2026年限制性股票激勵計劃首次授予激勵物件名單及授予人數作出調整，首次授予激勵物件人數由945人調整為944人，該離職人員原獲配股份數將調整至其他首次授予激勵物件，首次授予的限制性股票總數量保持不變。本次調整已履行相關審議程式，調整後的激勵物件仍屬於此前股東會審議透過的激勵物件範圍，不會對公司財務狀況和經營成果產生實質性影響。
-
----
-
-### 2026-08-17 20:22:21  #MKT News #UBER.N
-
-Uber (UBER.N) CEO said Uber and Zipline plan to achieve 1 million drone deliveries per day by end-2029.
-
----
-
-### 2026-08-17 20:21:53  #MKT News #UBER.N #Impact bullish
-
-Uber (UBER.N) CEO said Uber Eats will partner with Zipline on delivery services by year-end.
-
----
-
-### 2026-08-17 20:21:38  #MKT News #RTX.N #Impact bullish
-
-Raytheon Technologies (RTX.N) said its US Navy Tomahawk missile contract has a seven-year term.
-
----
-
-### 2026-08-17 20:21:32  #公司
-
-【盈新發展：擬募資17.79億元投向半導體相關專案】盈新發展公告稱，公司擬向特定物件發行股票，募集資金不超過17.79億元，扣除發行費用後，10.53億元用於先進封測及儲存模組製造專案，2.06億元用於儲存器主控晶片研發專案，5.20億元用於補充流動資金及償還銀行貸款。其中前兩個專案由公司控股子公司長興半導體實施，公司擬以向其提供借款的方式推進。募集資金到位前，公司可根據專案進度以自籌資金先行投入，後續按規定置換。若實際募集資金淨額少於擬使用金額，不足部分由公司自籌解決。
-
----
-
-### 2026-08-17 20:21:11  #其他
-
-優步與無人機初創企業Zipline展開合作。
-
----
-
-### 2026-08-17 20:21:11  #MKT News #UBER.N #Impact bullish
-
-Uber (UBER.N) CEO said the company will partner with drone startup Zipline.
-
----
-
-### 2026-08-17 20:20:53  #公司 #國際
-
-【中國國際商會將於9月組團出訪馬來西亞，深度對接東南亞綠色發展機遇】9月8日至11日，中國國際商會將組織代表團出訪馬來西亞，搭建中馬政企對接橋樑，為國內企業開闢東南亞合作新渠道，助力國內綠色技術與產品出海佈局東盟市場。本次出訪核心活動為馬來西亞國際可持續發展周（ISW）。該活動是馬來西亞國家級權威綠色產業平臺，設國際綠色創新展、國際綠色建築大會等板塊，匯聚各國政策制定者、產業開發商、金融機構與頭部企業，馬來西亞副總理、相關部長及多國政商領袖、行業學者將現場參會。出訪期間，代表團將出席ISW開幕式，舉辦中馬綠色發展論壇，拜會馬來西亞相關政府部門，與在馬中資企業座談交流，並開展B2B商務洽談。代表團還將實地走訪調研馬來西亞國家能源集團TNB白金總部、ALP OMEGA智慧零碳倉儲等綠色標杆專案，覆蓋能源園區、智慧物流、超高層地標、企業總部四大業態，相關技術專家將深度講解低碳建造、綠色運維實操經驗。（中國國際商會）
-
----
-
-### 2026-08-17 20:20:49  #MKT News #Important #300750.SZ
-
-【CATL Yichun lithium mine EIA set for acceptance; public consultation opens】Yichun Ecological Environment Bureau has proposed to accept the environmental impact assessment (EIA) filing for CATL’s Yichun New Energy Mining Co. Zhenkouli (Yifeng County)–Jianxiawo (Fengxin County), Jiangxi lithium mining project. The EIA report and public participation statement are in a pre-acceptance public notice from Aug. 17 to Aug. 28, 2026 (10 working days). The filing discloses an annual mining plan of 30 mln t of ceramic clay containing lithium, down from 45 mln t pre-shutdown, a roughly 30% reduction. Proposed acceptance does not equal approval; the project still requires approval-stage publicity, expert review and may be affected by public comments.
-
----
-
-### 2026-08-17 20:20:27  #MKT News
-
-【Over 200,000 Canadians petition to expel U.S. ambassador】The Canadian House of Commons website shows more than 200,000 Canadians have signed a real-name petition calling for the expulsion of U.S. ambassador to Canada Pete Hoekstra. As of the 16th, the petition accuses Hoekstra of repeatedly making remarks that damage Canada-U.S. relations and of interfering in Canadian domestic affairs, including normalizing President Trump's comment threatening to annex Canada as the '51st state.'
-
----
-
-### 2026-08-17 20:20:22  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Inch Mostly Higher — Futures tracking US equities were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. Contracts for the S&P 500 and the Nasdaq 100 inched higher to extend their gains from the previous week. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron extended their sharp increases from the previous week in premarket trade, while Nvidia and Amazon inched up. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
 
 ---

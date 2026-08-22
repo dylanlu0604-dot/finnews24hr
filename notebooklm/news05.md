@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 13:54:37_
-_本檔包含 3012 則快訊，約 654451 字_
+_更新時間：2026-08-22 14:56:08_
+_本檔包含 3008 則快訊，約 654720 字_
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6
+
+---
+
+### 2026-08-17 20:29:33  #公司
+
+【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）
+
+---
+
+### 2026-08-17 20:28:51  #MKT News #Important #WTI #Impact bullish #Brent
+
+A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region.
+
+---
+
+### 2026-08-17 20:28:47  #國際
+
+【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）
+
+---
+
+### 2026-08-17 20:28:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl.
+
+---
+
+### 2026-08-17 20:27:22  #MKT News #Important #WTI #Impact bullish #Brent
+
+Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to "fully offensive".
+
+---
+
+### 2026-08-17 20:27:01  #MKT News #Market Themes #The Trump Trade
+
+Hamas told Al Jazeera that Trump's comments confirm his commitment to the ceasefire process and urged him to pressure the Israeli government to comply with the agreement and implement the second phase of the peace plan.
+
+---
+
+### 2026-08-17 20:25:53  #公司
+
+【睿創微納：2026年半年度淨利潤12.59億元，同比增長258.78%】睿創微納公告，2026年半年度營業收入43.97億元，同比增長72.84%；歸屬於上市公司股東的淨利潤12.59億元，同比增長258.78%；歸屬於上市公司股東的扣除非經常性損益的淨利潤12.33億元，同比增長275.38%。公司擬向全體股東每10股派發現金紅利5元（含稅）。
+
+---
+
+### 2026-08-17 20:23:15  #國際
+
+【特朗普要求伊朗舉白旗投降】據美國福克斯新聞今天（8月17日）報道，美國總統特朗普在接受其採訪時稱，結束與伊朗的戰爭“沒有時間表”，他“並不著急”，並要求伊朗“舉起白旗投降”。福克斯新聞記者稱，特朗普表示，他在解決這場戰爭問題上的考慮“與美國中期選舉無關”。（CCTV國際時訊）
+
+---
+
+### 2026-08-17 20:22:31  #公司
+
+【寒武紀：調整2026年限制性股票激勵計劃首次授予名單】寒武紀公告稱，因1名激勵物件離職失去激勵資格，公司對2026年限制性股票激勵計劃首次授予激勵物件名單及授予人數作出調整，首次授予激勵物件人數由945人調整為944人，該離職人員原獲配股份數將調整至其他首次授予激勵物件，首次授予的限制性股票總數量保持不變。本次調整已履行相關審議程式，調整後的激勵物件仍屬於此前股東會審議透過的激勵物件範圍，不會對公司財務狀況和經營成果產生實質性影響。
+
+---
+
+### 2026-08-17 20:22:21  #MKT News #UBER.N
+
+Uber (UBER.N) CEO said Uber and Zipline plan to achieve 1 million drone deliveries per day by end-2029.
+
+---
+
+### 2026-08-17 20:21:53  #MKT News #UBER.N #Impact bullish
+
+Uber (UBER.N) CEO said Uber Eats will partner with Zipline on delivery services by year-end.
+
+---
+
+### 2026-08-17 20:21:38  #MKT News #RTX.N #Impact bullish
+
+Raytheon Technologies (RTX.N) said its US Navy Tomahawk missile contract has a seven-year term.
+
+---
+
+### 2026-08-17 20:21:32  #公司
+
+【盈新發展：擬募資17.79億元投向半導體相關專案】盈新發展公告稱，公司擬向特定物件發行股票，募集資金不超過17.79億元，扣除發行費用後，10.53億元用於先進封測及儲存模組製造專案，2.06億元用於儲存器主控晶片研發專案，5.20億元用於補充流動資金及償還銀行貸款。其中前兩個專案由公司控股子公司長興半導體實施，公司擬以向其提供借款的方式推進。募集資金到位前，公司可根據專案進度以自籌資金先行投入，後續按規定置換。若實際募集資金淨額少於擬使用金額，不足部分由公司自籌解決。
+
+---
+
+### 2026-08-17 20:21:11  #其他
+
+優步與無人機初創企業Zipline展開合作。
+
+---
+
+### 2026-08-17 20:21:11  #MKT News #UBER.N #Impact bullish
+
+Uber (UBER.N) CEO said the company will partner with drone startup Zipline.
+
+---
+
+### 2026-08-17 20:20:53  #公司 #國際
+
+【中國國際商會將於9月組團出訪馬來西亞，深度對接東南亞綠色發展機遇】9月8日至11日，中國國際商會將組織代表團出訪馬來西亞，搭建中馬政企對接橋樑，為國內企業開闢東南亞合作新渠道，助力國內綠色技術與產品出海佈局東盟市場。本次出訪核心活動為馬來西亞國際可持續發展周（ISW）。該活動是馬來西亞國家級權威綠色產業平臺，設國際綠色創新展、國際綠色建築大會等板塊，匯聚各國政策制定者、產業開發商、金融機構與頭部企業，馬來西亞副總理、相關部長及多國政商領袖、行業學者將現場參會。出訪期間，代表團將出席ISW開幕式，舉辦中馬綠色發展論壇，拜會馬來西亞相關政府部門，與在馬中資企業座談交流，並開展B2B商務洽談。代表團還將實地走訪調研馬來西亞國家能源集團TNB白金總部、ALP OMEGA智慧零碳倉儲等綠色標杆專案，覆蓋能源園區、智慧物流、超高層地標、企業總部四大業態，相關技術專家將深度講解低碳建造、綠色運維實操經驗。（中國國際商會）
+
+---
+
+### 2026-08-17 20:20:49  #MKT News #Important #300750.SZ
+
+【CATL Yichun lithium mine EIA set for acceptance; public consultation opens】Yichun Ecological Environment Bureau has proposed to accept the environmental impact assessment (EIA) filing for CATL’s Yichun New Energy Mining Co. Zhenkouli (Yifeng County)–Jianxiawo (Fengxin County), Jiangxi lithium mining project. The EIA report and public participation statement are in a pre-acceptance public notice from Aug. 17 to Aug. 28, 2026 (10 working days). The filing discloses an annual mining plan of 30 mln t of ceramic clay containing lithium, down from 45 mln t pre-shutdown, a roughly 30% reduction. Proposed acceptance does not equal approval; the project still requires approval-stage publicity, expert review and may be affected by public comments.
+
+---
+
+### 2026-08-17 20:20:27  #MKT News
+
+【Over 200,000 Canadians petition to expel U.S. ambassador】The Canadian House of Commons website shows more than 200,000 Canadians have signed a real-name petition calling for the expulsion of U.S. ambassador to Canada Pete Hoekstra. As of the 16th, the petition accuses Hoekstra of repeatedly making remarks that damage Canada-U.S. relations and of interfering in Canadian domestic affairs, including normalizing President Trump's comment threatening to annex Canada as the '51st state.'
+
+---
+
+### 2026-08-17 20:20:22  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Inch Mostly Higher — Futures tracking US equities were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. Contracts for the S&P 500 and the Nasdaq 100 inched higher to extend their gains from the previous week. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron extended their sharp increases from the previous week in premarket trade, while Nvidia and Amazon inched up. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week.
 
 ---
 
@@ -17997,167 +18135,5 @@ Iran's communications minister says more than 500 telecommunications sites were 
 ### 2026-08-15 15:00:40  #MKT News
 
 【National flood agency raises Jiangsu emergency to Level-3; Zhejiang starts Level-4】The National Flood and Drought Control Headquarters and Ministry of Emergency Management said they raised Jiangsu’s flood-control emergency from Level-4 to Level-3 effective 12:00 Aug. 15, and activated a Level-4 response for Zhejiang. The move follows Typhoon No.13 White Dolphin and recent heavy rainfall; the Taihu basin has seen a significant basin-wide flood and lake levels are forecast to continue rising slowly. Forecasts show heavy to very heavy rain in parts of eastern and southern Zhejiang on Aug. 15–16.
-
----
-
-### 2026-08-15 14:47:24  #市場
-
-【兩部門將針對江蘇的防汛四級應急響應提升至三級】受今年第13號颱風“白海豚”和近期強降雨共同影響，太湖發生流域性較大洪水，據預測，太湖水位後期仍將緩慢上漲。8月15至16日浙江東部和南部部分地區有暴雨，局地大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月15日12時，將針對江蘇的防汛四級應急響應提升至三級，針對浙江啟動防汛四級應急響應。（新華社）
-
----
-
-### 2026-08-15 14:46:39  #MKT News
-
-【Interstellar Glory SQX-3 fairing static test successful】On Aug. 14, Interstellar Glory Aerospace Technology Group Co., Ltd. completed a static-load test of the SQX-3 launcher's fairing at a test site. Test metrics met design requirements, the fairing remained in good condition and passed evaluation. With separation and static verification now complete, the fairing is cleared for flight testing, advancing preparations for upcoming SQX-3 launch missions.
-
----
-
-### 2026-08-15 14:45:48  #公司
-
-【星際榮耀SQX-3運載火箭整流罩靜力試驗取得成功】8月14日，星際榮耀航天科技集團股份有限公司在某試驗場組織開展了SQX-3運載火箭整流罩靜力試驗，產品各項指標滿足設計要求，試驗後產品狀態良好，成功透過考核。至此，整流罩完成了分離試驗及靜力試驗全剖面驗證，標誌著整流罩已具備飛行試驗條件，為後續SQX-3運載火箭飛行任務的圓滿成功奠定堅實基礎。
-
----
-
-### 2026-08-15 14:45:46  #國際
-
-【伊朗外交部發言人：美國外交因謊言而喪失尊重】伊朗外交部發言人巴加埃在社交媒體發文稱，俄作家陀思妥耶夫斯基《卡拉馬佐夫兄弟》中的這段話，恰如其分地描繪出美國在對伊朗及中東治理體系與外交政策上，因極度依賴 “謊言” 而陷入的處境：“一個對自己說謊、還聽信自己謊言的人，終將落到這般地步：再也分辨不清自己內心和周遭的真相，進而徹底喪失對自己、對他人的全部尊重。”
-
----
-
-### 2026-08-15 14:42:30  #其他
-
-【真健康醫療：中標器官常溫灌注系統專案】雲南省政府採購網訊息，雲南農業大學雲南省小型豬基因編輯與異種器官移植重點實驗室科研裝置採購專案2026-73號專案的器官常溫灌注系統由真健康醫療（02697.HK）中標，金額為280萬元。真健康醫療於今年6月在香港上市，主營業務涵蓋穿刺及消融手術機器人業務和高階器官保護與異種移植裝備業務。
-
----
-
-### 2026-08-15 14:41:33  #國際
-
-據日本時事通訊社報道，日本首相高市早苗今天（8月15日）朝著靖國神社的方向遙拜。（CCTV國際時訊）
-
----
-
-### 2026-08-15 14:38:15  #MKT News #Commodities #Energy
-
-Hungary's prime minister magyar said authorities will sink two barges on Saturday to raise the Danube's water level and prevent a nuclear power plant shutdown after levels fell again.
-
----
-
-### 2026-08-15 14:38:04  #其他
-
-匈牙利總理表示，由於多瑙河水位再次下降，當局將於週六沉下兩艘駁船抬高水位，以避免核電站停運。
-
----
-
-### 2026-08-15 14:37:27  #MKT News
-
-【sheinbaum says US visa revocation of ex-president's son is interference】On Aug. 14 Mexico President sheinbaum said the US decision to revoke the U.S. visa of the son of former Mexican president Lopez was politically motivated and constituted interference in Mexico's internal affairs. Sheinbaum said Mexico must remain firm and that bilateral ties should be based on mutual respect. The remarks follow US revocations in 2026 of visas for at least six ruling-party officials and US requests to extradite alleged drug-trafficking collaborators — including four current governors, mayors and legislators and six former officials — to stand trial in the US; Mexico has rejected the extradition requests, citing insufficient evidence.
-
----
-
-### 2026-08-15 14:32:16  #MKT News
-
-【Hainan Airlines flight HU753 diverts to Krasnoyarsk after mechanical fault; lands safely】Hainan Airlines flight HU753 (Beijing–Manchester) diverted to Krasnoyarsk International Airport, Russia, on Aug. 15, 2026 after a mechanical fault and landed safely at 07:28 Beijing time. The airline said it will swap aircraft to operate subsequent sectors and provide passenger assistance.
-
----
-
-### 2026-08-15 14:30:52  #其他
-
-【克羅埃西亞山火已造成40人受傷】克羅埃西亞南部小城奧米什附近13日晚發生大規模山火，造成40人受傷。目前，這一地區的火勢已大幅減弱。（央視新聞）
-
----
-
-### 2026-08-15 14:27:21  #其他
-
-【強化競爭力 我國科技期刊向世界舞臺邁進】主刊收到投稿400餘篇，已出版60篇，其中包括多個我國科研團隊的最新重要原創成果……在日前舉行的Vita期刊首期釋出暨生命科學開放聯盟一週年交流會上，Vita（《生命》）系列期刊正式亮相。業內專家表示，越來越多中國科技期刊積極探索創新，努力提升學術水準、增強國際影響力，逐步引導科研人員在創新性和治學嚴謹性上向一流成果看齊，為形成屬於中國的科技資料平臺和創新風向標積蓄力量。（新華社）
-
----
-
-### 2026-08-15 14:22:01  #其他
-
-【北京舉辦消費節促“機器人買賣”】北京經濟技術開發區(下稱經開區)15日啟動“2026 E-Town機器人消費節”，以“買賣機器人，到北京亦莊”為主題，打通從技術到市場的“最後一公里”。今年消費節從資金投入、場景佈局、消費體驗三個維度進行升級。促消費專項資金從首屆的1500萬元(人民幣，下同)提升至1800萬元，重點向人工智慧、具身智慧產業傾斜。（中新網）
-
----
-
-### 2026-08-15 14:13:36  #公司
-
-市場訊息：布魯可股東以每股67.50港元的價格出售股份，透過大宗交易籌集3200萬美元。
-
----
-
-### 2026-08-15 14:12:49  #其他
-
-【澳大利亞出現萬事達卡支付遭拒情況】澳大利亞聯邦銀行稱，受萬事達卡全球性故障影響，澳大利亞使用者的萬事達卡支付出現交易被拒情況。 使用者可上報服務故障的網站Downdetector在週六下午3點收到超過1700條關於萬事達卡的故障反饋。 Downdetector上上報最多的故障集中在資金轉賬與手機銀行業務。 聯邦銀行在官網宣告中表示：“如客戶遇到交易被拒，請插入銀行卡，選擇儲蓄賬戶，透過澳洲電子支付系統eftpos完成付款。” “聯邦銀行其餘全部服務，包括自動櫃員機，均可正常使用。”
-
----
-
-### 2026-08-15 14:11:13  #MKT News
-
-【Bulk carrier struck by unidentified flying object in Strait of Hormuz】Local time Aug 15, the UK Maritime Trade Operations (UKMTO) reported a maritime incident in the Strait of Hormuz. UKMTO said it received a verified report that a bulk carrier's hull was struck by an unidentified flying object. Crew are safe and no property damage has been reported.
-
----
-
-### 2026-08-15 14:07:25  #其他
-
-【霍爾木茲海峽發生海事事故 一艘散貨船被不明飛行物擊中】當地時間8月15日，據英國海事貿易行動處（UKMTO）釋出的訊息，霍爾木茲海峽發生一起海事事故。該機構表示已收到一份經核實的報告，稱一艘散貨船被不明飛行物擊中船體。目前船員安全，尚未收到財產損失的報告。（央視新聞）
-
----
-
-### 2026-08-15 14:06:17  #市場
-
-【二育熱度再起，本週豬價反彈】本週國內生豬價格呈現震盪上漲走勢。據中國養豬網的資料，8月14日，生豬（外三元）價格為10.87元/公斤，與上週五（8月7日）的10.36元/公斤相比，上漲4.9%。從一週均價來看，本週生豬均價為10.77元/公斤，與上週10.42元/公斤的均價相比，上漲3.4%。
-
----
-
-### 2026-08-15 14:05:08  #市場
-
-【李錄大舉加倉拼多多，持倉僅剩8只】李錄掌管的喜馬拉雅基金，則大手筆清倉美國銀行、西方石油、穆迪、標普全球、MSCI、H&R Block等6只個股，同時大舉加倉拼多多和伯克希爾B股。其中，拼多多更是被翻倍增持。截至二季度末，喜馬拉雅基金總持倉市值由上季末的32億美元升至37億美元，持倉數量則進一步壓縮至8只。
-
----
-
-### 2026-08-15 14:04:22  #其他
-
-市場訊息： 澳大利亞出現萬事達卡支付遭拒情況。
-
----
-
-### 2026-08-15 14:03:54  #市場
-
-【段永平繼續加倉拼多多，大幅減持英偉達、谷歌】截至二季度末，由段永平管理的H&H International Investment基金總持倉市值約191億美元，約合人民幣1370億元，較去年四季度末的200億美元有所下降。二季度，段永平繼續增持拼多多，重新買入阿里巴巴，同時減持蘋果、英偉達、谷歌、微軟等，清倉臺積電、CrowdStrike等個股。
-
----
-
-### 2026-08-15 13:58:02  #國際
-
-【墨西哥總統：美撤銷墨前總統之子美國簽證的行為干涉內政】當地時間8月14日，墨西哥總統辛鮑姆在晨間新聞釋出會上表示，針對美方撤銷前墨西哥總統洛佩斯之子的美國簽證的決定帶有政治目的，屬於干涉墨西哥內政。辛鮑姆強調，面對此類事件墨西哥要保持堅定，墨美兩國應當維持互相尊重的雙邊關係。（央視新聞）
-
----
-
-### 2026-08-15 13:57:35  #市場
-
-【甘肅將5市乾旱防禦Ⅳ級應急響應調整為Ⅲ級】甘肅省水利廳於15日11時，對甘肅省酒泉市、張掖市、金昌市、武威市、白銀市的乾旱防禦Ⅳ級應急響應調整為乾旱防禦Ⅲ級應急響應，對嘉峪關市啟動乾旱防禦Ⅲ級應急響應。 受近期氣溫持續偏高、降水偏少、河流來水偏枯、水庫蓄水不足等影響，甘肅省酒泉市、嘉峪關市、張掖市、金昌市、武威市、白銀市等地旱情進一步發展，預計未來一段時間旱情仍將持續。（新華社）
-
----
-
-### 2026-08-15 13:57:03  #MKT News
-
-UKMTO: no damage assessment reported; environmental impact unknown.
-
----
-
-### 2026-08-15 13:57:00  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-UKMTO reports a projectile struck a vessel's hull; crew reported safe.
-
----
-
-### 2026-08-15 13:56:55  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-UKMTO said it received reports that a bulk carrier in the Strait of Hormuz was struck by an unidentified object on Friday.
-
----
-
-### 2026-08-15 13:54:54  #其他 #焦點 #國際
-
-英國海事貿易行動辦公室（UKMTO）稱，週五收到報告稱，一艘散貨船在霍爾木茲海峽被不明拋射物擊中，船員報告安全，目前尚無船舶受損報告，環境影響尚不明確。
 
 ---
