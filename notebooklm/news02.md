@@ -1,7 +1,21 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 04:35:26_
-_本檔包含 3403 則快訊，約 650152 字_
+_更新時間：2026-08-23 04:55:29_
+_本檔包含 3403 則快訊，約 650332 字_
+
+---
+
+### 2026-08-21 09:08:07  #MKT News #Important #Market Regions #Europe & UK
+
+Container shipping index (Europe route) front-month contract up over 4.00% intraday at 1,824.0 points.
+
+---
+
+### 2026-08-21 09:07:54  #行業 #公司
+
+【五糧液普五八代、古井貢古20逆勢大漲 飛天精品茅臺高位回落】新浪財經“酒價內參”過去24小時收集的資料顯示，8月21日中國白酒業11大單品四漲六跌一平，盤面休整特徵凸顯。上漲方面，五糧液普五八代上漲7元，終端零售均價來到808元，二連漲站穩800元大關；古井貢古20大漲10元至541元，逆勢走高緩解前期回撥壓力；青花汾20小漲1元至394元，高位區間震盪；洋河夢之藍M6+上漲2元至611元，短暫回落後再度走升。下跌方面，飛天茅臺下跌3元至1785元，昨日大漲後技術性回落；精品茅臺跌4元至2474元，連續七日小幅走低；五糧液1618小跌1元至825元，二連陽結束延續區間震盪；習酒君品下跌7元至636元，四連漲告終，跌破近期區間中樞；青花郎大跌9元至702元，短期大漲行情結束，後市能否堅守700元大關值得關注；水晶劍南春下跌1元至405元，自月內高位回撥。國窖1573價盤持平，終端零售均價維持在876元。
+
+今日11大單品的終端零售總價連續第七天下行，僅少數酒品逆勢上行，多數名酒步入價格回撥，盤面分化格局延續。如果11大單品各取一瓶整體打包售賣，今日總售價為10057元，較昨日下跌5元，創八天以來新低。
 
 ---
 
@@ -20555,17 +20569,5 @@ Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic bu
 ### 2026-08-20 08:50:11  #MKT News #Important #Macro & Rates #Market Regions #Greater China #CNH #Impact mixed
 
 China's one-year Loan Prime Rate (LPR) for Aug. 20 will be released in 10 minutes; July figures for RMB's share of global SWIFT payments are also being reported.
-
----
-
-### 2026-08-20 08:47:06  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【Margin financing across Shanghai and Shenzhen down 29.67 bln yuan】As of Aug 19, Shanghai Stock Exchange margin financing stood at 1,353.66 bln yuan, down 13.61 bln from the prior trading day; Shenzhen stood at 1,279.19 bln yuan, down 16.06 bln; combined balance 2,632.85 bln yuan, down 29.67 bln.
-
----
-
-### 2026-08-20 08:46:51  #其他 #焦點 #A股
-
-【兩市融資餘額較上日減少296.69億元】截至8月19日，上交所融資餘額報13536.56億元，較前一交易日減少136.11億元；深交所融資餘額報12791.91億元，較前一交易日減少160.58億元；兩市合計26328.47億元，較前一交易日減少296.69億元。
 
 ---

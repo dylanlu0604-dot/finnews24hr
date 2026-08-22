@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 04:35:26_
-_本檔包含 3241 則快訊，約 650303 字_
+_更新時間：2026-08-23 04:55:29_
+_本檔包含 3238 則快訊，約 650262 字_
+
+---
+
+### 2026-08-20 08:47:06  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【Margin financing across Shanghai and Shenzhen down 29.67 bln yuan】As of Aug 19, Shanghai Stock Exchange margin financing stood at 1,353.66 bln yuan, down 13.61 bln from the prior trading day; Shenzhen stood at 1,279.19 bln yuan, down 16.06 bln; combined balance 2,632.85 bln yuan, down 29.67 bln.
+
+---
+
+### 2026-08-20 08:46:51  #其他 #焦點 #A股
+
+【兩市融資餘額較上日減少296.69億元】截至8月19日，上交所融資餘額報13536.56億元，較前一交易日減少136.11億元；深交所融資餘額報12791.91億元，較前一交易日減少160.58億元；兩市合計26328.47億元，較前一交易日減少296.69億元。
 
 ---
 
@@ -19504,35 +19516,5 @@ Japan's Nikkei 225 slid 3.00% intraday to 65,422.31 points.
 ### 2026-08-19 08:14:14  #宏觀
 
 【國家電網與南方電網就加快新型電網建設簽署戰略合作框架協議】8月18日，國家電網與南方電網舉行會談，並簽署《落實“十五五”規劃 加快新型電網建設戰略合作框架協議》。雙方表示，要落實黨中央、國務院關於加快建設新型能源體系、新型電力系統、新型電網的決策部署，錨定“十五五”發展目標，共同做好電力供應保障，共同推進新型電力系統建設和重大電力工程建設，共同推進全國統一電力市場建設，共同推進能源電力科技創新。
-
----
-
-### 2026-08-19 08:13:49  #Trading Economics #Markets #China #Earnings #Importance 0
-
-GigaDevice Semiconductor earnings above expectations at 4.76 CNY — GigaDevice Semiconductor (603986) released earnings per share at 4.76 CNY, compared to market expectations of 2.18 CNY.
-
----
-
-### 2026-08-19 08:13:48  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
-
-Xiaomi earnings above expectations at 0.36 CNY — Xiaomi (XMGP) released earnings per share at 0.36 CNY, compared to market expectations of 0.22 CNY.
-
----
-
-### 2026-08-19 08:13:26  #MKT News
-
-Japan's Kioxia shares fell 9%.
-
----
-
-### 2026-08-19 08:13:12  #市場
-
-鎧俠控股股價下跌9%。
-
----
-
-### 2026-08-19 08:12:53  #MKT News #000660.KS #Impact bullish
-
-South Korean media report that SK Hynix and its union have reached a preliminary wage agreement.
 
 ---

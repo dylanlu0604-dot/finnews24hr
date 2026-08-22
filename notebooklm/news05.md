@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 04:35:26_
-_本檔包含 3011 則快訊，約 650089 字_
+_更新時間：2026-08-23 04:55:29_
+_本檔包含 3008 則快訊，約 649152 字_
 
 ---
 
@@ -18144,23 +18144,5 @@ Head of Iran's Energy Optimization Organization said Iran, as part of three gaso
 ### 2026-08-16 04:56:12  #焦點 #國際
 
 伊朗能源最佳化組織負責人：伊朗正在審議三套汽油供應管理方案，其中一項提案計劃向每位公民每月分配 30 升汽油配額，配額允許流轉、交易。
-
----
-
-### 2026-08-16 04:54:12  #國際
-
-【特朗普釋放可能參與2028年大選的訊號】美國總統特朗普在真相社交平臺釋出一張疑似AI生成的圖片，圖中他頭戴印有“特朗普2028”字樣的帽子。圖片配文寫道：“我們必將取勝。”該帖再次公開釋放訊號，特朗普有意角逐2028年總統的又一屆任期。
-
----
-
-### 2026-08-16 04:53:30  #MKT News #Market Themes #Chip Wars #AI Revolution #GBPUSD #Impact mixed
-
-【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices.
-
----
-
-### 2026-08-16 04:38:12  #國際
-
-伊朗譴責以色列持續襲擊黎巴嫩。
 
 ---

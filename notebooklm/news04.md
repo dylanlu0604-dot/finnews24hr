@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 04:35:26_
-_本檔包含 3299 則快訊，約 650612 字_
+_更新時間：2026-08-23 04:55:29_
+_本檔包含 3304 則快訊，約 651083 字_
+
+---
+
+### 2026-08-19 08:13:49  #Trading Economics #Markets #China #Earnings #Importance 0
+
+GigaDevice Semiconductor earnings above expectations at 4.76 CNY — GigaDevice Semiconductor (603986) released earnings per share at 4.76 CNY, compared to market expectations of 2.18 CNY.
+
+---
+
+### 2026-08-19 08:13:48  #Trading Economics #Markets #Hong Kong #Earnings #Importance 0
+
+Xiaomi earnings above expectations at 0.36 CNY — Xiaomi (XMGP) released earnings per share at 0.36 CNY, compared to market expectations of 0.22 CNY.
+
+---
+
+### 2026-08-19 08:13:26  #MKT News
+
+Japan's Kioxia shares fell 9%.
+
+---
+
+### 2026-08-19 08:13:12  #市場
+
+鎧俠控股股價下跌9%。
+
+---
+
+### 2026-08-19 08:12:53  #MKT News #000660.KS #Impact bullish
+
+South Korean media report that SK Hynix and its union have reached a preliminary wage agreement.
 
 ---
 
