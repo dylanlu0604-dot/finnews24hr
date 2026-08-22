@@ -1,7 +1,26 @@
 {
   "date": "2026-08-22",
-  "count": 652,
+  "count": 654,
   "items": [
+    {
+      "id": "5053193",
+      "time": "2026-08-22 21:31:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 南海海域實彈射擊】據中國海事局網站訊息，揭陽海事局釋出航行警告，8月24日至8月27日，每天6時30分至18時30分，南海部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "te:markets:577375",
+      "time": "2026-08-22 21:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 3.53% — Top crypto losers are Ether (-3.53%) and Bitcoin (-1.49%). Gains are led by XRP (3.18%) and Binance (1.11%)."
+    },
     {
       "id": "5053192",
       "time": "2026-08-22 21:29:41",
