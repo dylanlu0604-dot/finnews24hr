@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 04:55:29_
-_本檔包含 3304 則快訊，約 651083 字_
+_更新時間：2026-08-23 05:31:51_
+_本檔包含 3305 則快訊，約 649555 字_
+
+---
+
+### 2026-08-19 08:16:46  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 slid 3.00% intraday to 65,422.31 points.
+
+---
+
+### 2026-08-19 08:16:37  #市場
+
+標普500股指期貨下跌0.1%，納斯達克股指期貨下跌0.4%。
+
+---
+
+### 2026-08-19 08:16:32  #市場 #國際
+
+歐洲斯托克50指數期貨下滑0.1%，德國DAX指數期貨下跌0.1%，英國富時指數期貨回落0.1%。
+
+---
+
+### 2026-08-19 08:16:26  #市場 #國際
+
+日本日經指數下跌3%，至65412.42點。
+
+---
+
+### 2026-08-19 08:15:54  #國際
+
+【特朗普據悉選定白宮顧問Heidi Overton領導美國食品藥品監督管理局】據知情人士透露，美國總統唐納德・特朗普選定白宮政策顧問海迪・奧弗頓（Heidi Overton）出任美國食品藥品監督管理局（FDA）局長。此前該機構經歷動盪一年，多名高層高調離職，同時遭到行業方面的諸多投訴。奧弗頓擔任白宮總統國內政策副助理，負責醫療衛生相關事務。她曾就職於智庫美國優先政策研究所。奧弗頓擁有醫學博士學位，同時持有約翰・霍普金斯大學臨床調查專業博士學位，並且在特朗普第一屆政府任期內擔任過白宮學者。
+
+---
+
+### 2026-08-19 08:15:45  #觀點
+
+【中信證券：建議關注DPU頭部第三方供應商】中信證券研報稱，DPU分為AI DPU與全功能DPU，分別實現伺服器組網與CPU部分任務的解除安裝，是資料中心支柱晶片之一。中信證券測算，2028年國內需求配套市場合計912億元，相較2026年有近70%增長；用量上，用量隨算力需求提升而不斷增長；價格上，隨著AI推動單埠通訊速率升級，代際價格有50%提升，呈現量價齊升趨勢。當前，國產替代正逐步推進，除了雲服務商的自研外，第三方供應商正逐步崛起。其以合作形式深度繫結雲廠商、運營商以確保收入下限，並憑藉技術領先不斷拓展客戶、開啟收入上限。建議關注頭部第三方供應商。
+
+---
+
+### 2026-08-19 08:15:00  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少5.42噸】截至2026年08月18日，全球最大的黃金ETF SPDR Gold Trust持倉量為1025.24噸，較前一個交易日減少5.42噸。
+
+---
+
+### 2026-08-19 08:14:14  #宏觀
+
+【國家電網與南方電網就加快新型電網建設簽署戰略合作框架協議】8月18日，國家電網與南方電網舉行會談，並簽署《落實“十五五”規劃 加快新型電網建設戰略合作框架協議》。雙方表示，要落實黨中央、國務院關於加快建設新型能源體系、新型電力系統、新型電網的決策部署，錨定“十五五”發展目標，共同做好電力供應保障，共同推進新型電力系統建設和重大電力工程建設，共同推進全國統一電力市場建設，共同推進能源電力科技創新。
 
 ---
 
@@ -19934,47 +19982,5 @@ Interfax reports a Japanese special envoy will visit Russia's Foreign Ministry o
 ### 2026-08-17 22:34:00  #市場
 
 Nexgen Energy 股價大幅衝高，盤中最大漲幅達 4.9%。
-
----
-
-### 2026-08-17 22:33:17  #MKT News #Hang Seng Index #Impact bullish
-
-Market sources say Xiyin plans to seek a valuation of up to $27 bln in a Hong Kong IPO.
-
----
-
-### 2026-08-17 22:32:30  #其他
-
-市場訊息：據訊息稱希音（SHEIN） IPO 目標估值最高達 270 億美元。
-
----
-
-### 2026-08-17 22:32:17  #MKT News
-
-U.S. House Speaker Johnson said no illegal immigrants have been permitted to enter the country for 15 consecutive months and credited Republican policies with restoring security and stability.
-
----
-
-### 2026-08-17 22:31:13  #MKT News
-
-【Trump says secret channels with Iran's Revolutionary Guard open; IRGC calls claim a 'hallucination'】On the 17th, US President Trump said secret communications between US officials and Iran's Islamic Revolutionary Guard Corps (IRGC) remain open and urged Iran to "raise the white flag and surrender." He told Fox News the private channel persists despite Iran's public confrontational posture, said his approach is unrelated to the US midterm elections, and added "I have no timetable, I'm not in a hurry." The IRGC rejected the claim as a "hallucination," saying its officials have not held secret talks and calling Trump's statements a "lie" born of "war failures and despair."
-
----
-
-### 2026-08-17 22:29:27  #國際
-
-【颶風掠過夏威夷 22萬戶斷電】一場颶風上週末掠過美國夏威夷州南部近海，強風和暴雨造成洪水，至少100棟住宅受損，部分道路、橋樑和電力設施遭到破壞。根據當地電力供應網站16日資料，全州一度超過22萬戶斷電。（新華社）
-
----
-
-### 2026-08-17 22:28:31  #國際
-
-【韓美軍演引發韓國民間團體抗議】韓美軍方17日正式啟動“乙支自由之盾”聯合軍演，韓國民間團體當天在首爾示威抗議，呼籲停止韓美聯合軍演。韓國民間團體“和平統一開創者”當天在位於首爾市中心光化門廣場的美國駐韓國大使館前舉行抗議集會。該團體表示，韓國政府應立即、全面收回戰時作戰指揮權，並廢止美國對韓國提供的所謂“延伸威懾”安排。（新華社）
-
----
-
-### 2026-08-17 22:28:09  #MKT News #WTI #Impact bullish #Brent
-
-【Trump threatens to declare Strait of Hormuz US territory; experts say unlikely】President Trump last week said that after defeating Iran he would declare the Strait of Hormuz US territory and has previously asserted the US “owns” the waterway, despite parts lying within Iranian and Omani territorial seas. Maritime law experts say such a claim faces major legal obstacles. A City, University of London maritime-law professor said under US law a presidential proclamation or order alone would be insufficient to claim territory and would have to meet constitutional requirements. Under international law, annexation would violate the UN Charter; territory, including maritime areas, can only be acquired by treaty or cession. Occupation may give de facto control but does not confer legal title, a Swansea shipping-law professor said, and any transfer would require Iran’s consent, which is highly unlikely. The professor added a hypothetical US–Iran–Oman deal to open the strait and levy transit fees would also conflict with international law and UNCLOS. Experts emphasized Iran and Oman do not have absolute property rights over the strait; freedom of navigation is the governing legal principle and military control does not equal legal ownership.
 
 ---

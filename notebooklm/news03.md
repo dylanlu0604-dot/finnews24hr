@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 04:55:29_
-_本檔包含 3238 則快訊，約 650262 字_
+_更新時間：2026-08-23 05:31:51_
+_本檔包含 3233 則快訊，約 650276 字_
+
+---
+
+### 2026-08-20 08:51:54  #MKT News #Market Themes #AI Revolution
+
+【Xiyu Technology launches MiniMax Design to operationalize multimodal models for video production】Xiyu Technology launched MiniMax Design, a production harness that orchestrates multimodal models and skills to parse user briefs, decompose tasks, process assets, generate and edit content, and deliver final outputs. The system is built on MiniMax’s native multimodal video model H3, which Xiyu says has demonstrated multimodal understanding, video generation, editing and reference-control capabilities, with specific suitability for high-control video editing workflows.
+
+---
+
+### 2026-08-20 08:51:00  #公司
+
+【稀宇科技推出MiniMax Design】據稀宇科技訊息，公司推出MiniMax Design。MiniMax Design是一款把多模態模型能力變成真實可用的生產力的Harness。使用者提出創作需求後，它能夠理解目標、拆解任務、呼叫相應的模型與Skills，完成從素材處理、生成和編輯到最終交付的完整過程。MiniMax原生多模態影片模型H3為MiniMax Design提供了新的能力基礎，它已經驗證了MiniMax在多模態理解、影片生成、影片編輯、參考控制等方面的模型能力，尤其適合Video Editing等對理解、控制與修改要求更高的場景。
+
+---
+
+### 2026-08-20 08:50:11  #MKT News #Important #Macro & Rates #Market Regions #Greater China #CNH #Impact mixed
+
+China's one-year Loan Prime Rate (LPR) for Aug. 20 will be released in 10 minutes; July figures for RMB's share of global SWIFT payments are also being reported.
 
 ---
 
@@ -19468,53 +19486,5 @@ Gold Holds Decline on Bond Jitters — Gold traded below $4,350 an ounce on Wedn
 ### 2026-08-19 08:16:56  #宏觀 #觀點
 
 【華泰證券：存量商業地產迎制度性重估視窗】華泰證券研報表示，2026年以來，廣州（5月）、上海（7月31日）相繼出臺工商業用地續期新政，標誌著非居住用地續期正從原則性法律條款走向系統化、可執行的常態化制度安排。華泰證券認為，此輪政策的核心價值在於把此前長期懸而未決的“續期期權”顯性化、可計價化，其對存量商業不動產估值修復，尤其是對公募REITs資產端的邊際影響，是本輪政策最值得關注的看點。投資邏輯：多地土地續期新政的密集落地，使得商業地產年限不確定性轉化為可計劃、可定價的制度變數，有望為公募及機構間REITs等證券化資產打通基金存續期限和土地剩餘年限錯配的堵點，解決存在年限問題的優質資產進入REITs申報流程的難題，推動REITs擴容。目前尚在試點環節，續期的具體操作和定價仍是地方政府因城施策，具體推進節奏尚待觀察。建議重點關注持有大量剩餘年限臨近REITs門檻、但資產經營狀況良好的持有型平臺，以及在續期申報與REITs發行流程管理上具備精細化資管能力的商業地產運營商與商管服務企業。
-
----
-
-### 2026-08-19 08:16:46  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 slid 3.00% intraday to 65,422.31 points.
-
----
-
-### 2026-08-19 08:16:37  #市場
-
-標普500股指期貨下跌0.1%，納斯達克股指期貨下跌0.4%。
-
----
-
-### 2026-08-19 08:16:32  #市場 #國際
-
-歐洲斯托克50指數期貨下滑0.1%，德國DAX指數期貨下跌0.1%，英國富時指數期貨回落0.1%。
-
----
-
-### 2026-08-19 08:16:26  #市場 #國際
-
-日本日經指數下跌3%，至65412.42點。
-
----
-
-### 2026-08-19 08:15:54  #國際
-
-【特朗普據悉選定白宮顧問Heidi Overton領導美國食品藥品監督管理局】據知情人士透露，美國總統唐納德・特朗普選定白宮政策顧問海迪・奧弗頓（Heidi Overton）出任美國食品藥品監督管理局（FDA）局長。此前該機構經歷動盪一年，多名高層高調離職，同時遭到行業方面的諸多投訴。奧弗頓擔任白宮總統國內政策副助理，負責醫療衛生相關事務。她曾就職於智庫美國優先政策研究所。奧弗頓擁有醫學博士學位，同時持有約翰・霍普金斯大學臨床調查專業博士學位，並且在特朗普第一屆政府任期內擔任過白宮學者。
-
----
-
-### 2026-08-19 08:15:45  #觀點
-
-【中信證券：建議關注DPU頭部第三方供應商】中信證券研報稱，DPU分為AI DPU與全功能DPU，分別實現伺服器組網與CPU部分任務的解除安裝，是資料中心支柱晶片之一。中信證券測算，2028年國內需求配套市場合計912億元，相較2026年有近70%增長；用量上，用量隨算力需求提升而不斷增長；價格上，隨著AI推動單埠通訊速率升級，代際價格有50%提升，呈現量價齊升趨勢。當前，國產替代正逐步推進，除了雲服務商的自研外，第三方供應商正逐步崛起。其以合作形式深度繫結雲廠商、運營商以確保收入下限，並憑藉技術領先不斷拓展客戶、開啟收入上限。建議關注頭部第三方供應商。
-
----
-
-### 2026-08-19 08:15:00  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少5.42噸】截至2026年08月18日，全球最大的黃金ETF SPDR Gold Trust持倉量為1025.24噸，較前一個交易日減少5.42噸。
-
----
-
-### 2026-08-19 08:14:14  #宏觀
-
-【國家電網與南方電網就加快新型電網建設簽署戰略合作框架協議】8月18日，國家電網與南方電網舉行會談，並簽署《落實“十五五”規劃 加快新型電網建設戰略合作框架協議》。雙方表示，要落實黨中央、國務院關於加快建設新型能源體系、新型電力系統、新型電網的決策部署，錨定“十五五”發展目標，共同做好電力供應保障，共同推進新型電力系統建設和重大電力工程建設，共同推進全國統一電力市場建設，共同推進能源電力科技創新。
 
 ---

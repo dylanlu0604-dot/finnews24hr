@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 04:55:29_
-_本檔包含 3403 則快訊，約 650332 字_
+_更新時間：2026-08-23 05:31:51_
+_本檔包含 3403 則快訊，約 649791 字_
+
+---
+
+### 2026-08-21 09:12:11  #公司
+
+【具身智慧企業無界動力在世界機器人大會上展示機器人咖啡服務】具身智慧企業無界動力在2026世界機器人大會上展示了其自研的具身通用大腦MWA™和機器人本體K15等成果。在展會上，無界動力與韓國KG集團旗下連鎖咖啡品牌HOLLYS合作，打造了一個人機共生的沉浸式機器人咖啡空間。機器人K15在開放區域內連續完成了飲品端送、桌面清理、垃圾回收、手部消毒和座椅歸位等複雜服務，驗證了多角色協同的人機共生、面向業務目標的長程任務規劃、複雜物理互動中的靈巧操作以及開放環境下的動態感知四大核心能力。
+
+---
+
+### 2026-08-21 09:10:00  #公司
+
+【中遠通：公司光網路電源產品下游客戶主要為境外客戶 收入佔比小】中遠通(301516)在互動平臺表示，公司的電源產品是相關裝置的核心組成部分，可根據特定需求進行電能轉換並提供穩定供電，下游應用廣泛。光網路電源為使用光纖通訊的網路裝置供電的電源，產品的具體應用場景取決於終端客戶的需求。光網路電源產品下游客戶主要為境外客戶，該產品收入佔比小，請投資者注意投資風險。
+
+---
+
+### 2026-08-21 09:09:47  #公司
+
+Kakao：董事會批准將基於KakaoTalk的平臺業務分拆為獨立子公司KakaoAI。
 
 ---
 
@@ -20551,23 +20569,5 @@ Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic bu
 ### 2026-08-20 08:52:24  #公司
 
 【直擊WRC丨京東釋出機器人戰略：投入百億資源，建立80個RoboBase機器人基地】2026世界機器人大會（WRC 2026）期間，京東出任WRC全球戰略合作伙伴，併發布機器人戰略佈局。其中，供應鏈層面，截至2028年，京東將在機器人領域投入百億資源，助力100個品牌獨立銷售額破10億。目前，京東已透過自營形式合作200餘家機器人品牌及大量核心機器人零部件企業，服務個人與家庭消費，同時覆蓋零售、健康、工業、物流等多個行業賽道；京東歐洲Joybuy已與50餘家中國機器人品牌建立合作，讓海外消費者也能體驗中國智慧科技。（新浪科技）
-
----
-
-### 2026-08-20 08:51:54  #MKT News #Market Themes #AI Revolution
-
-【Xiyu Technology launches MiniMax Design to operationalize multimodal models for video production】Xiyu Technology launched MiniMax Design, a production harness that orchestrates multimodal models and skills to parse user briefs, decompose tasks, process assets, generate and edit content, and deliver final outputs. The system is built on MiniMax’s native multimodal video model H3, which Xiyu says has demonstrated multimodal understanding, video generation, editing and reference-control capabilities, with specific suitability for high-control video editing workflows.
-
----
-
-### 2026-08-20 08:51:00  #公司
-
-【稀宇科技推出MiniMax Design】據稀宇科技訊息，公司推出MiniMax Design。MiniMax Design是一款把多模態模型能力變成真實可用的生產力的Harness。使用者提出創作需求後，它能夠理解目標、拆解任務、呼叫相應的模型與Skills，完成從素材處理、生成和編輯到最終交付的完整過程。MiniMax原生多模態影片模型H3為MiniMax Design提供了新的能力基礎，它已經驗證了MiniMax在多模態理解、影片生成、影片編輯、參考控制等方面的模型能力，尤其適合Video Editing等對理解、控制與修改要求更高的場景。
-
----
-
-### 2026-08-20 08:50:11  #MKT News #Important #Macro & Rates #Market Regions #Greater China #CNH #Impact mixed
-
-China's one-year Loan Prime Rate (LPR) for Aug. 20 will be released in 10 minutes; July figures for RMB's share of global SWIFT payments are also being reported.
 
 ---
