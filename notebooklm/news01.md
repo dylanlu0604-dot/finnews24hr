@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-22 14:56:08_
-_本檔包含 3068 則快訊，約 655139 字_
+_更新時間：2026-08-22 15:40:36_
+_本檔包含 3076 則快訊，約 654555 字_
+
+---
+
+### 2026-08-22 15:39:05  #其他
+
+【今年第20號颱風“簡拉維”已於西北太平洋洋麵上生成】今年第20號颱風“簡拉維”（熱帶風暴級；英文名稱：Gaenari）已於今天（8月22日）下午在西北太平洋洋麵上生成，14點鐘其中心位於距離臺灣台北市東偏北方向約320公里的洋麵上（北緯26.2度、東經124.5度），中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑東北方向80公里，東南方向100公里，西南方向50公里，西北方向50公里。預計，“簡拉維”將以每小時35-40公里的速度向西北方向快速移動，強度變化不大。（央視新聞）
+
+---
+
+### 2026-08-22 15:37:57  #宏觀 #國際
+
+【王毅會見印尼國家經濟委員會主席盧胡特】中共中央政治局委員、外交部長王毅22日在雅加達會見印尼國家經濟委員會主席盧胡特。王毅表示，中方願同印尼充分發揮全面戰略對話機制和“2+2”對話機制作用，排除干擾，增進互信，進一步挖掘潛力，推動各領域合作與時俱進、提質升級。中國真心誠意幫助印尼加快發展程序，鼓勵支援中國企業繼續在印尼投資興業，助力印尼將資源優勢轉化為發展動能和人民福祉，更好提升自主發展能力，加速推進工業化程序。希望並相信印尼政府會為中企提供安全、穩定、良好的營商環境。（新華社）
+
+---
+
+### 2026-08-22 15:35:56  #其他
+
+捷豹路虎據悉推遲推出全電動Defender的計劃。
+
+---
+
+### 2026-08-22 15:35:26  #宏觀
+
+【廣東省發展改革委出臺推動信用服務業擴能提質若干措施】近日，廣東省發展改革委印發《推動信用服務業擴能提質的若干措施》（簡稱《若干措施》），圍繞場景拓展、主體培育、跨境合作、環境最佳化四大方向推出21項具體舉措，進一步激發信用服務市場活力，推動行業擴規模、提質量、增效能，助力全省營商環境持續最佳化。《若干措施》構建梯度化發展格局，做強本土頭部信用服務機構、支援開拓國際市場，積極引進國內外知名徵信評級機構在粵佈局；培育垂直領域專業中小機構，支援細分場景技術創新；引導小微信用服務機構聚焦基層普惠領域，發揮貼近市場優勢。同時，補齊信用科技、資料合規等配套服務短板，推進行業數智化轉型，培育智慧風控等新業態，形成大中小企業融通發展的良好生態。下一步，廣東省發展改革委將加強統籌協調，強化部門協同與政策保障，厚植誠信文化社會氛圍，推動各項措施落地見效，持續釋放信用要素價值，為全省經濟高質量發展築牢信用支撐。
+
+---
+
+### 2026-08-22 15:33:21  #宏觀 #公司
+
+【多家銀行釋出公告 單人在同家銀行貼息上限提升到5000元】今天（22日）從工商銀行、農業銀行、中國銀行、建設銀行、交通銀行、郵儲銀行等六大銀行瞭解到，各家銀行已經根據財政部、中國人民銀行、金融監管總局《關於進一步做好財政金融協同促內需政策有關工作的通知》，陸續釋出公告，明確了最新的信用卡分期貼息政策執行要點。多家銀行明確，根據三部門通知要求，每名借款人在同一家銀行可享受的個人消費貸款和信用卡分期業務累計貼息上限由每年3000元提高至每年5000元。這5000元的貼息額度既可以全部用於個人消費貸款，也可以全部用於信用卡分期業務，也可以根據個人需求分配二者的比例。（央視新聞）
+
+---
+
+### 2026-08-22 15:32:18  #國際
+
+烏克蘭總統澤連斯基：昨天俄羅斯對克里沃伊羅格一家購物中心的襲擊目前已確認造成16人死亡，130人受傷，其中包括23名兒童。當晚還發生了導彈和無人機襲擊。在基輔，彈道導彈襲擊損壞了鐵路基礎設施，導致一人死亡，一人受傷。在扎波羅熱，一輛城市小巴遭到FPV無人機襲擊，三人受傷。敖德薩、第聶伯羅彼得羅夫斯克、哈爾科夫、頓涅茨克、蘇梅、赫爾松、切爾尼戈夫和尼古拉耶夫地區也遭到攻擊。居民樓、能源和鐵路基礎設施設施以及民用企業均受損。
+
+---
+
+### 2026-08-22 15:30:49  #國際
+
+【伊朗稱國防產能已翻倍】伊朗國防部發言人禮薩·塔拉埃-尼克8月21日接受伊朗國家電視臺採訪時表示，儘管部分國防工業設施遭到襲擊，但伊朗國防裝備與武器產能在過去一年已實現翻番，能夠在戰場持續消耗武器裝備的同時迅速補充生產。塔拉埃-尼克表示，這種“邊打邊造”的同步生產模式，已使國防工業成為伊朗武裝力量防禦體系的支柱之一。 （CCTV國際時訊）
+
+---
+
+### 2026-08-22 15:28:53  #公司
+
+【淄博光學二期專案正式開工 海泰新光精密光學產能再擴容】據海泰新光訊息，8月22日，海泰新光子公司淄博光學二期專案正式開工建設，專案建設面積共約33000平方米，首棟廠房建築面積約15000平方米，計劃建設週期6個月，預計2027年3月竣工，將佈局先進微小光學產品加工及自動化產線，擴充光學器件生產產能。
+
+---
+
+### 2026-08-22 15:18:11  #國際
+
+烏克蘭無人機襲擊俄羅斯薩馬拉州，造成新古比雪夫斯克煉油廠起火，同時襲擊了Ozon電商履約中心。這座佔地 7.5 萬平方米的設施是該零售巨頭規模最大的配送中心之一。
+
+---
+
+### 2026-08-22 15:16:49  #國際
+
+【澳大利亞首都加入槍支回購計劃】澳大利亞總理阿爾巴尼斯22日宣佈，首都堪培拉所屬的澳大利亞首都直轄區將加入槍支回購計劃，以進一步落實去年悉尼邦迪灘槍擊事件後政府收緊槍支管控的相關舉措。阿爾巴尼斯在宣告中說，感謝首都直轄區同意加入回購計劃，配合政府落實“將槍支清除出街頭，更好保護澳大利亞人”的目標，避免再次發生類似邦迪灘恐襲的悲劇。在澳首都直轄區，超過7000名持槍許可持有人將受到新規影響，涉及槍支約2.3萬支。回購計劃的啟動日期暫未公佈。（央視新聞）
+
+---
+
+### 2026-08-22 15:14:58  #其他
+
+梵蒂岡將投資1億歐元建設可再生能源電站。
+
+---
+
+### 2026-08-22 15:11:21  #其他
+
+【世界海拔最高光熱電站熔鹽儲罐透過充水試驗】據中國電建訊息，近日，由中國電建承建的西藏開投安多光熱專案熔鹽儲罐充水試驗一次性圓滿成功，標誌著專案儲熱系統核心裝置安裝質量全面核驗合格，這座世界海拔最高、西藏首個塔式光熱工程向全容量併網發電目標又邁出了關鍵一步。
+
+---
+
+### 2026-08-22 15:10:13  #公司
+
+【直擊WRC丨上緯新材彭文正：行業已不在“能不能造機器人”時代，而在“敢不敢進消費級”時代】2026世界機器人大會（WRC 2026）期間，上緯新材啟元Q1研發負責人彭文正展示了團隊在C端消費級智慧領域的探索，並介紹了個人機器人產品啟元Q1。 彭文正判斷，當前具身智慧領域“本體已經不是比較大的一個瓶頸”，更大的痛點在於“本體強、智慧弱”以及生態內容匱乏。他指出，全球機器人構型已逐漸趨同，行業“並不在一個能不能造機器人的時代，反而在一個敢不敢進入到消費型的時代”。對於機器人進入消費級的路徑，彭文正提出三條曲線：第一階段是技術練習與新鮮感，第二階段是內容創作及B端迎賓、商演，第三階段是真實應用場景的探索與實用價值的實現，“真正的終局是要往第三條曲線來去共同去探索”。（新浪科技）
+
+---
+
+### 2026-08-22 15:01:55  #公司 #國際
+
+【歐洲多條河流水位下降 法國航運企業宣佈徵收“內陸緊急運輸費”】受持續高溫和乾旱影響，歐洲多條重要河流水位下降。法國航運企業達飛海運集團宣佈，由於萊茵河及歐洲其他河流水位持續處於異常低位，內河運輸受到嚴重影響，將對經過三個港口運輸的貨物徵收“內陸緊急運輸費”。三個港口分別是比利時安特衛普港、比利時澤布呂赫港以及荷蘭鹿特丹港。（央視新聞）
+
+---
+
+### 2026-08-22 14:59:54  #國際
+
+【西班牙巴倫西亞自治區突發林火 居民緊急撤離】據西班牙方面21日訊息，西班牙巴倫西亞自治區塞戈爾韋等地突發森林火災。由於火勢蔓延迅速並威脅周邊居民區，當地應急部門已緊急請求派遣軍事應急部隊趕赴現場支援，並對部分居民實施緊急撤離。歐洲今夏遭遇多輪熱浪侵襲，西班牙、法國、希臘等國頻發大型山火。據西班牙環境部統計，該國今年過火面積已達20萬公頃左右，比去年同期多5倍。（央視）
+
+---
+
+### 2026-08-22 14:56:06  #公司 #市場 #國際
+
+【Vingroup等越南股票將納入富時新興市場指數】Vingroup等100餘家越南企業被納入富時羅素全球股票指數，這是越南從前沿市場向次級新興市場升級的關鍵一步。 此次納入，使越南股市與印度等同屬新興市場行列。在經歷長期外資流出之後，此舉有望吸引新的外資流入。 富時羅素已於4月確認越南達到次級新興市場標準，本次升級將分四批實施，自9月21日起持續至2027年。
 
 ---
 
@@ -18465,53 +18561,5 @@ Japan | CPI (MoM) (Jul) | actual 0.4% | previous 0%
 ### 2026-08-21 07:36:30  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Set for Second Straight Weekly Rise — Brent crude traded above $93 per barrel on Friday and was on track to post a second consecutive weekly gain, rising more than 5% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an "economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets.
-
----
-
-### 2026-08-21 07:36:12  #公司 #市場
-
-【A股限售股解禁一覽：10.46億元市值限售股今日解禁】Wind資料顯示，週五（8月21日），共有1家公司限售股解禁，合計解禁量為6319.19萬股，按最新收盤價計算，合計解禁市值為10.46億元。從解禁量來看，1家公司解禁股數超千萬股。志高機械解禁量居前，解禁股數分別為6319.19萬股。從解禁市值來看，1家公司解禁市值超億元。志高機械解禁市值居前，解禁市值分別為10.46億元。從解禁股數佔總股本比例來看，1家公司解禁比例超10%。志高機械解禁比例居前，解禁比例分別為50.63%。
-
----
-
-### 2026-08-21 07:36:06  #公司
-
-【A股股票回購一覽：35家公司披露回購進展】Wind資料顯示，8月21日，35家公司共釋出35個股票回購相關進展。其中，11家公司首次披露股票回購預案，4家公司回購方案獲股東大會透過，10家公司披露股票回購實施進展，10家公司回購方案已實施完畢。從首次披露回購預案來看，當日共6家公司股票回購預案金額超千萬。格力電器、新華百貨、ST絕味回購預案金額最高，分別擬回購不超100.0億元、4.0億元、2.0億元。從股東大會透過回購預案來看，當日共3家公司回購預案超千萬。兆易創新、大秦鐵路、山東高速回購金額最高，分別擬回購不超20.0億元、5.0億元、2.0億元。從回購實施進展來看，凱普生物、海程邦達、永和股份回購金額最高，分別回購1.25億元、7399.32萬元、6999.28萬元。從已完成回購來看，當日共7家公司回購金額超千萬。ST能特、聚光科技、學大教育已完成回購金額最高，分別回購3.0億元、1.33億元、9894.89萬元。
-
----
-
-### 2026-08-21 07:36:02  #央行 #國際
-
-【AI焦慮滲透美聯儲 牽動對就業、通脹的預測及金融穩定】AI引發的焦慮無所不在：從擔心飯碗不保的勞工，到示警金融泡沫風險的投資人。如今，AI也開始主導美聯儲的討論。美國央行最近一次政策會議的會議紀錄顯示，決策官員在思考經濟幾乎任何一個面向時，這項科技的重要性都日益凸顯。在官員討論當前經濟情勢與經濟展望的15個段落中，提及AI不下18次。Monetary Policy Analytics經濟學家Derek Tang表示，有關AI的討論不僅篇幅很長，涵蓋面也非常廣。AI現在正從不同角度影響他們，其中包括對通脹的預測、對就業的預測，以及金融穩定。現在看來，AI似乎已經無所不在。
-
----
-
-### 2026-08-21 07:35:50  #其他
-
-【股票私募倉位指數維持高位 大型機構加倉意願強烈】近期，股票私募倉位指數持續穩居年內高點。最新資料顯示，截至2026年8月14日，股票私募倉位指數為83.97%，較前一統計周（8月3日至8月7日）微升0.09個百分點，且該指數已連續第七週維持在83%以上的年內高位，反映出私募機構整體持股意願較強。
-
----
-
-### 2026-08-21 07:35:32  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Set for Second Straight Weekly Rise — Crude oil traded above $86 per barrel on Friday and was on track to post a second consecutive weekly gain, rising nearly 6% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an "economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets.
-
----
-
-### 2026-08-21 07:35:30  #宏觀 #市場 #觀點 #國際
-
-【中信建投：此次美債財政回購真正目的在穩定美股】據中信建投，財政回購是美國財政部一種常見管理方式，管理國債老券流動性以及國庫現金。回購制度本身並無新意，理論上應該掀不起市場水花。但這次財政回購有兩處操作細節，一是距離本季回購日程公佈只有兩週；二是美國債市的老券交易流動性正常。說明這次回購針對的就是美債利率波動。可以這樣下判斷，這不是一次常規的財政回購，而是針對性管理美債利率預期的操作，真正目的在穩定美股。對於美債，美債利率中樞上行的底層宏觀敘事沒有終結，回購加碼壓制美債利率治標不治本。對於美股，此次回購針對性穩定預期，有利於緩解短期美股恐慌情緒。針對黃金，美國財政貨幣操作已被繫結在科技之上，美元信用一再透支，利好黃金等去主權貨幣的資產敘事。
-
----
-
-### 2026-08-21 07:34:37  #MKT News
-
-【Yushu Technology's Wang Xingxing unveils "physical AI robot self-evolution"】At the World Robot Conference on Aug. 20, 2026, Yushu Technology chairman, general manager and chief technology officer Wang Xingxing said the firm is concentrating its largest current capital and headcount investment on AI models and publicly outlined a "physical AI robot self-evolution" initiative. The program seeks to build a self-evolving physical-robot model system that leverages frontier large models to define rules, experience constraints and tool boundaries; the models will autonomously retrieve leading papers, high-quality research and open-source solutions and automatically generate robot control code. Wang noted AI is widely used in programming and development but remains underutilized in robotics, motivating the effort.
-
----
-
-### 2026-08-21 07:34:35  #Trading Economics #Economy #Japan #Inflation Rate #Importance 3
-
-Japan Inflation Rate Hits 7-Month High — Japan's annual inflation rate accelerated to 2.0% in July 2026 from a marginally revised 1.6% in the prior month, marking the highest reading since December 2025. Core inflation, which excludes fresh food, rose to 1.8% from 1.6%, matching market consensus and reaching its highest since March. However, core inflation remained below the Bank of Japan's 2% target for a sixth straight month.
 
 ---

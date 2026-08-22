@@ -1,7 +1,116 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 14:56:08_
-_本檔包含 3288 則快訊，約 653862 字_
+_更新時間：2026-08-22 15:40:36_
+_本檔包含 3285 則快訊，約 654509 字_
+
+---
+
+### 2026-08-20 07:13:56  #國際
+
+敘利亞國家電視臺稱，德拉省西部鄉村地區傳出爆炸聲。
+
+---
+
+### 2026-08-20 07:12:38  #公司
+
+【滬市化工企業交亮眼“成績單” 行業景氣度有望延續】2026年半年報正在密集披露，滬市化工企業交出了一份份亮眼“成績單”。Wind資料顯示，截至目前，74家預告或已披露業績的滬市化工企業中，淨利潤增加的公司為51家，佔比68.92%。其中，淨利潤增幅上限超過100%的為34家。在已披露業績的公司中，主營業務盈利能力明顯改善。多位受訪人士認為，化工行業景氣度回升，是需求端韌性提升和供給側“反內卷”政策約束疊加的結果，預計下半年行業景氣度將延續。
+
+---
+
+### 2026-08-20 07:10:31  #央行 #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、湖南補齊生物製造成果轉化短板 中試平臺助更多樣品走向量產（經濟新方位·從“0”到“1”，把“1”拉長）
+2、世界機器人大會開幕
+3、國家鐵路前7月傳送貨物23.5億噸 同比增長0.7%
+4、百日千萬招聘專項行動推出人工智慧等線上招聘專場
+5、中澳兩國央行續簽雙邊本幣互換協議
+6、多式聯運國家標準持續完善
+7、 智慧物流網，這樣建起來（大資料觀察·“六張網”裡的新動能
+8、全民醫保“十五五”規劃釋出 未來5年全面建成多層次醫療保障體系（民生一線）
+9、雄安新區空天資訊和衛星網際網路產業實現全流程閉環 太空中多了一顆“雄安星”（經濟聚焦）
+10、我國與10個APEC經濟體實現AEO互認
+11、商業秘密保護制度建設日臻完備
+12、嫦娥七號計劃近日擇機實施發射 器箭組合體完成垂直轉運
+13、巴西新能源汽車銷量創新高 混動、純電汽車銷量前三名均為中國品牌。
+
+---
+
+### 2026-08-20 07:10:15  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、公平正義的抵達——新時代新徵程人民法庭建設紀實
+2、習近平致電祝賀鮑卡就任匈牙利總統
+3、上海自貿試驗區臨港新片區——讓資料跨境流動又快又好（深入實施自由貿易試驗區提升戰略）
+4、李強趙樂際分別會見厄瓜多總統諾沃亞
+5、情緒消費，“新”在哪裡（讀者點題·共同關注）
+6、我國首次實現火箭陸地回收 首顆雄安造衛星成功入軌。
+
+---
+
+### 2026-08-20 07:08:33  #公司 #其他
+
+市場訊息：儘管出現洩密訊息，蘋果帶攝像頭的 AirPods 仍計劃於 2027 年推出。
+
+---
+
+### 2026-08-20 07:07:00  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Trump announces toughest-ever economic sanctions on Iran】U.S. President Trump announced the toughest-ever economic sanctions on Iran and urged allies to join in isolating the country. He warned any state that allows its banks, companies, airports or government entities to provide any form of assistance to Iran will face severe economic consequences. He specifically said oil smuggling, swap lines, cash transfers, currency-exchange firms, vessel registration and shell companies must stop. Trump reiterated that Iran will not be allowed to develop nuclear weapons.
+
+---
+
+### 2026-08-20 07:02:56  #焦點 #國際
+
+【特朗普：宣佈對伊朗實施最嚴厲的經濟行動】美國總統特朗普在真相社交平臺發文：沒有人比我給伊朗提供過更好的談判機會。可悲的是，他們沒有把握住。因此，今天，我宣佈將實施有史以來針對任何國家的最具毀滅性的經濟行動！這將是一場規模空前的經濟戰與封鎖孤立行動。伊朗的海軍已不復存在，空軍遭到摧毀，軍工廠淪為廢墟，本國貨幣一文不值，國家命懸一線。今天我同時宣佈：任何國家，如果放任本國金融機構、企業、機場或政府機構向伊朗提供任何形式的生存支援，該國自身將面臨極其嚴重的經濟後果。石油走私、貨幣互換額度、現金轉賬、匯兌機構、船舶註冊、殼公司 —— 所有這類活動必須立刻停止。相關各方心知肚明。這將是經濟層面的諾曼底登陸日。我們需要所有盟友同美國站在一起，孤立並挫敗伊朗帶來的威脅。
+
+---
+
+### 2026-08-20 07:01:59  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+U.S. President Trump announced the toughest-ever economic sanctions on Iran, saying the measures amount to unprecedented economic warfare and isolation.
+
+---
+
+### 2026-08-20 07:00:59  #焦點 #國際
+
+特朗普：我同時宣佈，任何國家若放任本國金融機構、企業等向伊朗提供任何續命支援，該國自身也將承受極其嚴重的經濟後果。
+
+---
+
+### 2026-08-20 07:00:04  #國際
+
+特朗普：實施規模前所未有的經濟戰與孤立封鎖。
+
+---
+
+### 2026-08-20 06:59:53  #國際
+
+特朗普：伊朗未能接受協議。
+
+---
+
+### 2026-08-20 06:59:41  #焦點 #國際
+
+特朗普：宣佈對伊朗實施最嚴厲的經濟制裁。
+
+---
+
+### 2026-08-20 06:59:37  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks rose 58 points, or 0.4%, to 13,987 in Thursday morning trading, up for the third consecutive session and marking their highest level since August 5, when the index reached a record high, mainly supported by gains in communication services, energy, and real estate. Optimism over earnings results continued to fuel sentiment while traders braced for further releases from some companies later today. Communication services surged 2.3% after Spark New Zealand, New Zealand's largest telecommunications company, surged 5.0%, following a 91.9% jump in net profit for H2 2026. Meanwhile, Wall Street mostly closed in the green overnight due to easing Treasury yields, which offset weakness in tech stocks and also lifted sentiment. Other early gainers were Channel Infrastructure (1.5%) and Skellerup Holdings (0.7%). EBOS Group continued to gain (0.8%) after posting a 4.7% rise in net profit for the full year ended June 30, 2026.
+
+---
+
+### 2026-08-20 06:56:49  #國際
+
+【特朗普預計今年晚些時候會見金正恩】#特朗普說同金正恩相處得很好#美國總統特朗普19日在白宮對媒體表示，他預計今年晚些時候將會見朝鮮領導人金正恩。 特朗普當天視察了正在白宮南草坪新建的直升機停機坪工地。被問及今秋是否會與金正恩會晤時，特朗普作出肯定回答，並稱“非常瞭解金正恩”，“同他相處得很好”。 據美國《華爾街日報》18日報道，特朗普正敦促助手推動最早在今年秋季與金正恩舉行會晤，時間可能選在11月。 特朗普16日在社交媒體發文說，考慮到他與金正恩有著“非常良好的關係”，他對於“美國很久以前同意參加與韓國的聯合軍演”感到不滿，表示已要求美國防部大幅縮減美韓聯合軍演規模。特朗普17日還在白宮對媒體稱，金正恩已回應他提出的“對話”請求，但他沒有透露回應的內容。（新華國際）
+
+---
+
+### 2026-08-20 06:52:37  #MKT News #Macro & Rates
+
+【Senators demand Kevin Warsh disclose calls with Trump despite blank schedule】Four Senate Democrats led by Chris Van Hollen have asked Fed Chair Kevin Warsh to publicly disclose his communications with President Trump after the Wall Street Journal reported multiple calls despite no entries on Warsh’s official schedule. The senators said nondisclosure could create the impression the White House is directing monetary policy and asked Warsh to confirm in writing whether he has had any contact with Trump since taking office or to amend his schedule to show such calls. Warsh did not directly answer Van Hollen last month. White House NEC Director Kevin Hassett said in early August that Trump did not press Warsh on rate decisions; Trump has said he spoke to Warsh only once briefly. By contrast, former Fed Chair Jerome Powell documented and disclosed several calls and face-to-face meetings with Trump.
 
 ---
 
@@ -19723,113 +19832,5 @@ Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowi
 ### 2026-08-19 05:12:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
 
 【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase.
-
----
-
-### 2026-08-19 05:06:43  #MKT News #Market Regions #Wall Street (US) #CSAN.N #Impact bearish
-
-According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS).
-
----
-
-### 2026-08-19 05:03:14  #國際
-
-【阿官員稱阿聯酋已暫停與伊朗貿易往來】當地時間19日，阿聯酋外交部戰略溝通司司長阿芙拉·哈梅利稱，由於地區局勢升級，已暫停與伊朗的一切貿易、商業和金融交易，直至另行通知。哈梅利重申，阿聯酋仍然致力於“對話、合作和區域一體化，將其視為加強地區和平、穩定與繁榮的重要途徑”。（央視新聞）
-
----
-
-### 2026-08-19 05:01:23  #其他
-
-【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。
-
----
-
-### 2026-08-19 04:57:56  #國際
-
-【法國宣佈兩名伊朗駐法使館人員為“不受歡迎的人”】當地時間8月18日，法國外長巴羅宣佈兩名伊朗駐法國大使館工作人員為“不受歡迎的人”。法國外交部表示，此舉是對7月19日兩名法國駐伊朗使館工作人員遭伊朗安全部門“嚴重侵害”事件的回應。（央視新聞）
-
----
-
-### 2026-08-19 04:53:32  #MKT News
-
-RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector.
-
----
-
-### 2026-08-19 04:51:16  #MKT News #Market Regions #Europe & UK
-
-【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions "extremely serious and unacceptable" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention.
-
----
-
-### 2026-08-19 04:49:08  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran.
-
----
-
-### 2026-08-19 04:48:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,330/oz, down nearly 2% intraday.
-
----
-
-### 2026-08-19 04:47:55  #市場
-
-紐約期金日內跌2%，現報4384.16美元/盎司。
-
----
-
-### 2026-08-19 04:47:42  #焦點 #國際
-
-以色列戰鬥機飛越伊德利卜及敘利亞沙漠上空。
-
----
-
-### 2026-08-19 04:47:17  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran foreign ministry spokesman BAGHAEI urged regional actors not to make baseless accusations against Iran and warned they should be wary of what he described as ongoing US and Israeli actions that undermine regional peace and a history of false-flag operations.
-
----
-
-### 2026-08-19 04:46:44  #國際
-
-美國副總統萬斯將於週五訪問俄亥俄州並發表經濟演講。
-
----
-
-### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
-
-Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
-
----
-
-### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
-
----
-
-### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
-
----
-
-### 2026-08-19 04:44:36  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
-
----
-
-### 2026-08-19 04:44:27  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
-
----
-
-### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
-
-US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
 
 ---

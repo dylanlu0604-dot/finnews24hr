@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 14:56:08_
-_本檔包含 3411 則快訊，約 655178 字_
+_更新時間：2026-08-22 15:40:36_
+_本檔包含 3404 則快訊，約 654552 字_
+
+---
+
+### 2026-08-21 07:36:12  #公司 #市場
+
+【A股限售股解禁一覽：10.46億元市值限售股今日解禁】Wind資料顯示，週五（8月21日），共有1家公司限售股解禁，合計解禁量為6319.19萬股，按最新收盤價計算，合計解禁市值為10.46億元。從解禁量來看，1家公司解禁股數超千萬股。志高機械解禁量居前，解禁股數分別為6319.19萬股。從解禁市值來看，1家公司解禁市值超億元。志高機械解禁市值居前，解禁市值分別為10.46億元。從解禁股數佔總股本比例來看，1家公司解禁比例超10%。志高機械解禁比例居前，解禁比例分別為50.63%。
+
+---
+
+### 2026-08-21 07:36:06  #公司
+
+【A股股票回購一覽：35家公司披露回購進展】Wind資料顯示，8月21日，35家公司共釋出35個股票回購相關進展。其中，11家公司首次披露股票回購預案，4家公司回購方案獲股東大會透過，10家公司披露股票回購實施進展，10家公司回購方案已實施完畢。從首次披露回購預案來看，當日共6家公司股票回購預案金額超千萬。格力電器、新華百貨、ST絕味回購預案金額最高，分別擬回購不超100.0億元、4.0億元、2.0億元。從股東大會透過回購預案來看，當日共3家公司回購預案超千萬。兆易創新、大秦鐵路、山東高速回購金額最高，分別擬回購不超20.0億元、5.0億元、2.0億元。從回購實施進展來看，凱普生物、海程邦達、永和股份回購金額最高，分別回購1.25億元、7399.32萬元、6999.28萬元。從已完成回購來看，當日共7家公司回購金額超千萬。ST能特、聚光科技、學大教育已完成回購金額最高，分別回購3.0億元、1.33億元、9894.89萬元。
+
+---
+
+### 2026-08-21 07:36:02  #央行 #國際
+
+【AI焦慮滲透美聯儲 牽動對就業、通脹的預測及金融穩定】AI引發的焦慮無所不在：從擔心飯碗不保的勞工，到示警金融泡沫風險的投資人。如今，AI也開始主導美聯儲的討論。美國央行最近一次政策會議的會議紀錄顯示，決策官員在思考經濟幾乎任何一個面向時，這項科技的重要性都日益凸顯。在官員討論當前經濟情勢與經濟展望的15個段落中，提及AI不下18次。Monetary Policy Analytics經濟學家Derek Tang表示，有關AI的討論不僅篇幅很長，涵蓋面也非常廣。AI現在正從不同角度影響他們，其中包括對通脹的預測、對就業的預測，以及金融穩定。現在看來，AI似乎已經無所不在。
+
+---
+
+### 2026-08-21 07:35:50  #其他
+
+【股票私募倉位指數維持高位 大型機構加倉意願強烈】近期，股票私募倉位指數持續穩居年內高點。最新資料顯示，截至2026年8月14日，股票私募倉位指數為83.97%，較前一統計周（8月3日至8月7日）微升0.09個百分點，且該指數已連續第七週維持在83%以上的年內高位，反映出私募機構整體持股意願較強。
+
+---
+
+### 2026-08-21 07:35:32  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Set for Second Straight Weekly Rise — Crude oil traded above $86 per barrel on Friday and was on track to post a second consecutive weekly gain, rising nearly 6% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an "economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets.
+
+---
+
+### 2026-08-21 07:35:30  #宏觀 #市場 #觀點 #國際
+
+【中信建投：此次美債財政回購真正目的在穩定美股】據中信建投，財政回購是美國財政部一種常見管理方式，管理國債老券流動性以及國庫現金。回購制度本身並無新意，理論上應該掀不起市場水花。但這次財政回購有兩處操作細節，一是距離本季回購日程公佈只有兩週；二是美國債市的老券交易流動性正常。說明這次回購針對的就是美債利率波動。可以這樣下判斷，這不是一次常規的財政回購，而是針對性管理美債利率預期的操作，真正目的在穩定美股。對於美債，美債利率中樞上行的底層宏觀敘事沒有終結，回購加碼壓制美債利率治標不治本。對於美股，此次回購針對性穩定預期，有利於緩解短期美股恐慌情緒。針對黃金，美國財政貨幣操作已被繫結在科技之上，美元信用一再透支，利好黃金等去主權貨幣的資產敘事。
+
+---
+
+### 2026-08-21 07:34:37  #MKT News
+
+【Yushu Technology's Wang Xingxing unveils "physical AI robot self-evolution"】At the World Robot Conference on Aug. 20, 2026, Yushu Technology chairman, general manager and chief technology officer Wang Xingxing said the firm is concentrating its largest current capital and headcount investment on AI models and publicly outlined a "physical AI robot self-evolution" initiative. The program seeks to build a self-evolving physical-robot model system that leverages frontier large models to define rules, experience constraints and tool boundaries; the models will autonomously retrieve leading papers, high-quality research and open-source solutions and automatically generate robot control code. Wang noted AI is widely used in programming and development but remains underutilized in robotics, motivating the effort.
+
+---
+
+### 2026-08-21 07:34:35  #Trading Economics #Economy #Japan #Inflation Rate #Importance 3
+
+Japan Inflation Rate Hits 7-Month High — Japan's annual inflation rate accelerated to 2.0% in July 2026 from a marginally revised 1.6% in the prior month, marking the highest reading since December 2025. Core inflation, which excludes fresh food, rose to 1.8% from 1.6%, matching market consensus and reaching its highest since March. However, core inflation remained below the Bank of Japan's 2% target for a sixth straight month.
 
 ---
 
@@ -20530,114 +20578,5 @@ Oil Holds Firm on Middle East Uncertainty — Crude oil held near $86 per barrel
 ### 2026-08-20 07:17:57  #其他
 
 【從單向展示到雙向奔赴 機器人產業迎質變拐點】8月19日，2026世界機器人大會在北京經濟技術開發區北人亦創國際會展中心開幕。對比去年的大會，一個清晰的訊號浮現：機器人產業正從“秀肌肉”轉向“接訂單”，從供給側的單向展示走向產需兩端的雙向奔赴。工業和資訊化部副部長辛國斌在開幕式上披露了一組關鍵資料：2025年機器人產業規模以上企業營業收入突破3000億元，近五年年均增速超過20%，今年上半年達到1655億元，同比增長24.5%。“機器人技術和產品已廣泛應用於國民經濟和社會發展的方方面面，成為推動高質量發展的重要力量。”辛國斌說。（上海證券報）
-
----
-
-### 2026-08-20 07:13:56  #國際
-
-敘利亞國家電視臺稱，德拉省西部鄉村地區傳出爆炸聲。
-
----
-
-### 2026-08-20 07:12:38  #公司
-
-【滬市化工企業交亮眼“成績單” 行業景氣度有望延續】2026年半年報正在密集披露，滬市化工企業交出了一份份亮眼“成績單”。Wind資料顯示，截至目前，74家預告或已披露業績的滬市化工企業中，淨利潤增加的公司為51家，佔比68.92%。其中，淨利潤增幅上限超過100%的為34家。在已披露業績的公司中，主營業務盈利能力明顯改善。多位受訪人士認為，化工行業景氣度回升，是需求端韌性提升和供給側“反內卷”政策約束疊加的結果，預計下半年行業景氣度將延續。
-
----
-
-### 2026-08-20 07:10:31  #央行 #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、湖南補齊生物製造成果轉化短板 中試平臺助更多樣品走向量產（經濟新方位·從“0”到“1”，把“1”拉長）
-2、世界機器人大會開幕
-3、國家鐵路前7月傳送貨物23.5億噸 同比增長0.7%
-4、百日千萬招聘專項行動推出人工智慧等線上招聘專場
-5、中澳兩國央行續簽雙邊本幣互換協議
-6、多式聯運國家標準持續完善
-7、 智慧物流網，這樣建起來（大資料觀察·“六張網”裡的新動能
-8、全民醫保“十五五”規劃釋出 未來5年全面建成多層次醫療保障體系（民生一線）
-9、雄安新區空天資訊和衛星網際網路產業實現全流程閉環 太空中多了一顆“雄安星”（經濟聚焦）
-10、我國與10個APEC經濟體實現AEO互認
-11、商業秘密保護制度建設日臻完備
-12、嫦娥七號計劃近日擇機實施發射 器箭組合體完成垂直轉運
-13、巴西新能源汽車銷量創新高 混動、純電汽車銷量前三名均為中國品牌。
-
----
-
-### 2026-08-20 07:10:15  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、公平正義的抵達——新時代新徵程人民法庭建設紀實
-2、習近平致電祝賀鮑卡就任匈牙利總統
-3、上海自貿試驗區臨港新片區——讓資料跨境流動又快又好（深入實施自由貿易試驗區提升戰略）
-4、李強趙樂際分別會見厄瓜多總統諾沃亞
-5、情緒消費，“新”在哪裡（讀者點題·共同關注）
-6、我國首次實現火箭陸地回收 首顆雄安造衛星成功入軌。
-
----
-
-### 2026-08-20 07:08:33  #公司 #其他
-
-市場訊息：儘管出現洩密訊息，蘋果帶攝像頭的 AirPods 仍計劃於 2027 年推出。
-
----
-
-### 2026-08-20 07:07:00  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Trump announces toughest-ever economic sanctions on Iran】U.S. President Trump announced the toughest-ever economic sanctions on Iran and urged allies to join in isolating the country. He warned any state that allows its banks, companies, airports or government entities to provide any form of assistance to Iran will face severe economic consequences. He specifically said oil smuggling, swap lines, cash transfers, currency-exchange firms, vessel registration and shell companies must stop. Trump reiterated that Iran will not be allowed to develop nuclear weapons.
-
----
-
-### 2026-08-20 07:02:56  #焦點 #國際
-
-【特朗普：宣佈對伊朗實施最嚴厲的經濟行動】美國總統特朗普在真相社交平臺發文：沒有人比我給伊朗提供過更好的談判機會。可悲的是，他們沒有把握住。因此，今天，我宣佈將實施有史以來針對任何國家的最具毀滅性的經濟行動！這將是一場規模空前的經濟戰與封鎖孤立行動。伊朗的海軍已不復存在，空軍遭到摧毀，軍工廠淪為廢墟，本國貨幣一文不值，國家命懸一線。今天我同時宣佈：任何國家，如果放任本國金融機構、企業、機場或政府機構向伊朗提供任何形式的生存支援，該國自身將面臨極其嚴重的經濟後果。石油走私、貨幣互換額度、現金轉賬、匯兌機構、船舶註冊、殼公司 —— 所有這類活動必須立刻停止。相關各方心知肚明。這將是經濟層面的諾曼底登陸日。我們需要所有盟友同美國站在一起，孤立並挫敗伊朗帶來的威脅。
-
----
-
-### 2026-08-20 07:01:59  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-U.S. President Trump announced the toughest-ever economic sanctions on Iran, saying the measures amount to unprecedented economic warfare and isolation.
-
----
-
-### 2026-08-20 07:00:59  #焦點 #國際
-
-特朗普：我同時宣佈，任何國家若放任本國金融機構、企業等向伊朗提供任何續命支援，該國自身也將承受極其嚴重的經濟後果。
-
----
-
-### 2026-08-20 07:00:04  #國際
-
-特朗普：實施規模前所未有的經濟戰與孤立封鎖。
-
----
-
-### 2026-08-20 06:59:53  #國際
-
-特朗普：伊朗未能接受協議。
-
----
-
-### 2026-08-20 06:59:41  #焦點 #國際
-
-特朗普：宣佈對伊朗實施最嚴厲的經濟制裁。
-
----
-
-### 2026-08-20 06:59:37  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks rose 58 points, or 0.4%, to 13,987 in Thursday morning trading, up for the third consecutive session and marking their highest level since August 5, when the index reached a record high, mainly supported by gains in communication services, energy, and real estate. Optimism over earnings results continued to fuel sentiment while traders braced for further releases from some companies later today. Communication services surged 2.3% after Spark New Zealand, New Zealand's largest telecommunications company, surged 5.0%, following a 91.9% jump in net profit for H2 2026. Meanwhile, Wall Street mostly closed in the green overnight due to easing Treasury yields, which offset weakness in tech stocks and also lifted sentiment. Other early gainers were Channel Infrastructure (1.5%) and Skellerup Holdings (0.7%). EBOS Group continued to gain (0.8%) after posting a 4.7% rise in net profit for the full year ended June 30, 2026.
-
----
-
-### 2026-08-20 06:56:49  #國際
-
-【特朗普預計今年晚些時候會見金正恩】#特朗普說同金正恩相處得很好#美國總統特朗普19日在白宮對媒體表示，他預計今年晚些時候將會見朝鮮領導人金正恩。 特朗普當天視察了正在白宮南草坪新建的直升機停機坪工地。被問及今秋是否會與金正恩會晤時，特朗普作出肯定回答，並稱“非常瞭解金正恩”，“同他相處得很好”。 據美國《華爾街日報》18日報道，特朗普正敦促助手推動最早在今年秋季與金正恩舉行會晤，時間可能選在11月。 特朗普16日在社交媒體發文說，考慮到他與金正恩有著“非常良好的關係”，他對於“美國很久以前同意參加與韓國的聯合軍演”感到不滿，表示已要求美國防部大幅縮減美韓聯合軍演規模。特朗普17日還在白宮對媒體稱，金正恩已回應他提出的“對話”請求，但他沒有透露回應的內容。（新華國際）
-
----
-
-### 2026-08-20 06:52:37  #MKT News #Macro & Rates
-
-【Senators demand Kevin Warsh disclose calls with Trump despite blank schedule】Four Senate Democrats led by Chris Van Hollen have asked Fed Chair Kevin Warsh to publicly disclose his communications with President Trump after the Wall Street Journal reported multiple calls despite no entries on Warsh’s official schedule. The senators said nondisclosure could create the impression the White House is directing monetary policy and asked Warsh to confirm in writing whether he has had any contact with Trump since taking office or to amend his schedule to show such calls. Warsh did not directly answer Van Hollen last month. White House NEC Director Kevin Hassett said in early August that Trump did not press Warsh on rate decisions; Trump has said he spoke to Warsh only once briefly. By contrast, former Fed Chair Jerome Powell documented and disclosed several calls and face-to-face meetings with Trump.
 
 ---

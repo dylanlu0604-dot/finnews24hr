@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 14:56:08_
-_本檔包含 3382 則快訊，約 654730 字_
+_更新時間：2026-08-22 15:40:36_
+_本檔包含 3358 則快訊，約 654695 字_
+
+---
+
+### 2026-08-19 05:06:43  #MKT News #Market Regions #Wall Street (US) #CSAN.N #Impact bearish
+
+According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS).
+
+---
+
+### 2026-08-19 05:03:14  #國際
+
+【阿官員稱阿聯酋已暫停與伊朗貿易往來】當地時間19日，阿聯酋外交部戰略溝通司司長阿芙拉·哈梅利稱，由於地區局勢升級，已暫停與伊朗的一切貿易、商業和金融交易，直至另行通知。哈梅利重申，阿聯酋仍然致力於“對話、合作和區域一體化，將其視為加強地區和平、穩定與繁榮的重要途徑”。（央視新聞）
+
+---
+
+### 2026-08-19 05:01:23  #其他
+
+【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。
+
+---
+
+### 2026-08-19 04:57:56  #國際
+
+【法國宣佈兩名伊朗駐法使館人員為“不受歡迎的人”】當地時間8月18日，法國外長巴羅宣佈兩名伊朗駐法國大使館工作人員為“不受歡迎的人”。法國外交部表示，此舉是對7月19日兩名法國駐伊朗使館工作人員遭伊朗安全部門“嚴重侵害”事件的回應。（央視新聞）
+
+---
+
+### 2026-08-19 04:53:32  #MKT News
+
+RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector.
+
+---
+
+### 2026-08-19 04:51:16  #MKT News #Market Regions #Europe & UK
+
+【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions "extremely serious and unacceptable" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention.
+
+---
+
+### 2026-08-19 04:49:08  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran.
+
+---
+
+### 2026-08-19 04:48:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,330/oz, down nearly 2% intraday.
+
+---
+
+### 2026-08-19 04:47:55  #市場
+
+紐約期金日內跌2%，現報4384.16美元/盎司。
+
+---
+
+### 2026-08-19 04:47:42  #焦點 #國際
+
+以色列戰鬥機飛越伊德利卜及敘利亞沙漠上空。
+
+---
+
+### 2026-08-19 04:47:17  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran foreign ministry spokesman BAGHAEI urged regional actors not to make baseless accusations against Iran and warned they should be wary of what he described as ongoing US and Israeli actions that undermine regional peace and a history of false-flag operations.
+
+---
+
+### 2026-08-19 04:46:44  #國際
+
+美國副總統萬斯將於週五訪問俄亥俄州並發表經濟演講。
+
+---
+
+### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
+
+Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
+
+---
+
+### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
+
+---
+
+### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
+
+---
+
+### 2026-08-19 04:44:36  #MKT News #Economic Calendar
+
+United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
+
+---
+
+### 2026-08-19 04:44:27  #MKT News #Economic Calendar
+
+United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
+
+---
+
+### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
+
+US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
 
 ---
 
@@ -20160,257 +20268,5 @@ TASNIM News reported the Islamic Revolutionary Guard Corps (IRGC) said it will d
 ### 2026-08-17 20:38:05  #Trading Economics #Economy #Canada #Inflation Rate #Importance 3
 
 Canada Inflation Rate Rebounds — The headline inflation rate in Canada inched higher to 2.9% in July of 2026 from 2.8% in the previous month, slightly above market expectations of 2.9%, but remaining below the post-Iran-war peak of 3.2% from two months prior. Gasoline price inflation accelerated to 25.7% from 20.5% in the previous month, tracking wholesale oil and refined product markets globally as strikes between Iran and the US reignited in the period and triggered blockades on tankers in the key region. In turn, core inflation rates tracked by the Bank of Canada inched slightly higher, with the median core rate up at 2% and the trimmed-mean rate at 1.9%.
-
----
-
-### 2026-08-17 20:37:15  #其他
-
-【中國能建與中國海油共商深化合作】據中國能建訊息，8月17日，中國能建黨委書記、董事長倪真在京與中國海油黨組書記、董事長張傳江舉行會談。雙方圍繞深化海洋能源、氣電、氫基能源、海外業務、科技創新等領域合作進行深入交流。
-
----
-
-### 2026-08-17 20:36:04  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
-
-German 10-year bond yield rose 1.5 bps intraday to 3.2138%, its highest level since May 2011.
-
----
-
-### 2026-08-17 20:36:03  #市場
-
-德國10年期國債收益率<DE10YT=RR>攀升至3.2138%，上漲1.5個基點，創下2011年5月以來新高。
-
----
-
-### 2026-08-17 20:35:39  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): SB Energy will operate the data center under a 20-year lease agreement with OpenAI.
-
----
-
-### 2026-08-17 20:35:14  #其他
-
-英偉達：SB能源將根據20年租約運營資料中心，租予OpenAI。
-
----
-
-### 2026-08-17 20:35:14  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): OpenAI will make an additional $40m contribution to a community welfare fund.
-
----
-
-### 2026-08-17 20:35:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): Ports-Pike project will create tens of thousands of jobs and establish an $80 mln community fund.
-
----
-
-### 2026-08-17 20:34:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): OpenAI will be a customer for 8 IT-GW of IT capacity at the Ports-Pike project.
-
----
-
-### 2026-08-17 20:34:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O) will provide credit support for the initial 4.25 IT-GW project and holds an option to add a further 3.75 IT-GW of capacity.
-
----
-
-### 2026-08-17 20:34:26  #MKT News #NVDA.O
-
-NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy.
-
----
-
-### 2026-08-17 20:34:20  #其他
-
-市場訊息：英偉達擬向SB Energy投資15億美元。在與英偉達達成交易後，Groq在一輪融資中的估值達到35億美元。
-
----
-
-### 2026-08-17 20:34:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA.
-
----
-
-### 2026-08-17 20:34:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business.
-
----
-
-### 2026-08-17 20:33:56  #國際
-
-8月17日，國內基金淨買入印度股票510億印度盧比。
-
----
-
-### 2026-08-17 20:33:50  #資料 #市場 #國際
-
-加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。
-
----
-
-### 2026-08-17 20:33:45  #國際
-
-8月17日，全球基金淨賣出價值254億印度盧比的印度股票。
-
----
-
-### 2026-08-17 20:33:29  #公司
-
-【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-17 20:32:48  #其他
-
-【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）
-
----
-
-### 2026-08-17 20:32:38  #其他
-
-【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。
-
----
-
-### 2026-08-17 20:32:15  #公司
-
-【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
-
----
-
-### 2026-08-17 20:31:22  #央行 #其他
-
-紐約聯儲隔夜回購操作未收到任何投標。
-
----
-
-### 2026-08-17 20:31:04  #經濟數據 #加拿大
-
-加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。
-
----
-
-### 2026-08-17 20:31:02  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #US10Y #S&P500
-
-US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously.
-
----
-
-### 2026-08-17 20:30:50  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6
-
----
-
-### 2026-08-17 20:30:46  #MKT News #Macro & Rates #US Economy
-
-US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4.
-
----
-
-### 2026-08-17 20:30:38  #MKT News #Economic Calendar #Important
-
-United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4
-
----
-
-### 2026-08-17 20:30:36  #經濟數據 #美國
-
-美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
-
-New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2.
-
----
-
-### 2026-08-17 20:30:25  #MKT News #Economic Calendar #Important
-
-United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2
-
----
-
-### 2026-08-17 20:30:22  #央行 #國際
-
-美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。
-
----
-
-### 2026-08-17 20:30:22  #MKT News
-
-Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln.
-
----
-
-### 2026-08-17 20:30:19  #MKT News #DXY #Impact bearish
-
-Canada July core CPI YoY 2.3% vs prev 2.1%.
-
----
-
-### 2026-08-17 20:30:16  #資料
-
-加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。
-
----
-
-### 2026-08-17 20:30:15  #MKT News
-
-Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish
-
-Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June.
-
----
-
-### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish #Brent
-
-Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior.
-
----
-
-### 2026-08-17 20:30:14  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%.
-
----
-
-### 2026-08-17 20:30:13  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6.
-
----
-
-### 2026-08-17 20:30:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade.
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B
-
----
-
-### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
-
-Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
 
 ---

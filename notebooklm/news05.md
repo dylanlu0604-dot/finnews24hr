@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 14:56:08_
-_本檔包含 3008 則快訊，約 654720 字_
+_更新時間：2026-08-22 15:40:36_
+_本檔包含 3033 則快訊，約 654336 字_
+
+---
+
+### 2026-08-17 20:37:15  #其他
+
+【中國能建與中國海油共商深化合作】據中國能建訊息，8月17日，中國能建黨委書記、董事長倪真在京與中國海油黨組書記、董事長張傳江舉行會談。雙方圍繞深化海洋能源、氣電、氫基能源、海外業務、科技創新等領域合作進行深入交流。
+
+---
+
+### 2026-08-17 20:36:04  #MKT News #Important #Macro & Rates #EURUSD #Impact bullish #DAX #Impact bearish #XAUUSD
+
+German 10-year bond yield rose 1.5 bps intraday to 3.2138%, its highest level since May 2011.
+
+---
+
+### 2026-08-17 20:36:03  #市場
+
+德國10年期國債收益率<DE10YT=RR>攀升至3.2138%，上漲1.5個基點，創下2011年5月以來新高。
+
+---
+
+### 2026-08-17 20:35:39  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): SB Energy will operate the data center under a 20-year lease agreement with OpenAI.
+
+---
+
+### 2026-08-17 20:35:14  #其他
+
+英偉達：SB能源將根據20年租約運營資料中心，租予OpenAI。
+
+---
+
+### 2026-08-17 20:35:14  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): OpenAI will make an additional $40m contribution to a community welfare fund.
+
+---
+
+### 2026-08-17 20:35:03  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): Ports-Pike project will create tens of thousands of jobs and establish an $80 mln community fund.
+
+---
+
+### 2026-08-17 20:34:56  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): OpenAI will be a customer for 8 IT-GW of IT capacity at the Ports-Pike project.
+
+---
+
+### 2026-08-17 20:34:36  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O) will provide credit support for the initial 4.25 IT-GW project and holds an option to add a further 3.75 IT-GW of capacity.
+
+---
+
+### 2026-08-17 20:34:26  #MKT News #NVDA.O
+
+NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy.
+
+---
+
+### 2026-08-17 20:34:20  #其他
+
+市場訊息：英偉達擬向SB Energy投資15億美元。在與英偉達達成交易後，Groq在一輪融資中的估值達到35億美元。
+
+---
+
+### 2026-08-17 20:34:09  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA.
+
+---
+
+### 2026-08-17 20:34:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business.
+
+---
+
+### 2026-08-17 20:33:56  #國際
+
+8月17日，國內基金淨買入印度股票510億印度盧比。
+
+---
+
+### 2026-08-17 20:33:50  #資料 #市場 #國際
+
+加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。
+
+---
+
+### 2026-08-17 20:33:45  #國際
+
+8月17日，全球基金淨賣出價值254億印度盧比的印度股票。
+
+---
+
+### 2026-08-17 20:33:29  #公司
+
+【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-17 20:32:48  #其他
+
+【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）
+
+---
+
+### 2026-08-17 20:32:38  #其他
+
+【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。
+
+---
+
+### 2026-08-17 20:32:15  #公司
+
+【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）
+
+---
+
+### 2026-08-17 20:31:22  #央行 #其他
+
+紐約聯儲隔夜回購操作未收到任何投標。
+
+---
+
+### 2026-08-17 20:31:04  #經濟數據 #加拿大
+
+加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。
+
+---
+
+### 2026-08-17 20:31:02  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #US10Y #S&P500
+
+US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously.
+
+---
+
+### 2026-08-17 20:30:50  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6
+
+---
+
+### 2026-08-17 20:30:46  #MKT News #Macro & Rates #US Economy
+
+US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4.
+
+---
+
+### 2026-08-17 20:30:38  #MKT News #Economic Calendar #Important
+
+United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4
+
+---
+
+### 2026-08-17 20:30:36  #經濟數據 #美國
+
+美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。
+
+---
+
+### 2026-08-17 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #US10Y #Impact bullish
+
+New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2.
+
+---
+
+### 2026-08-17 20:30:25  #MKT News #Economic Calendar #Important
+
+United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2
+
+---
+
+### 2026-08-17 20:30:22  #央行 #國際
+
+美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。
+
+---
+
+### 2026-08-17 20:30:22  #MKT News
+
+Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln.
+
+---
+
+### 2026-08-17 20:30:19  #MKT News #DXY #Impact bearish
+
+Canada July core CPI YoY 2.3% vs prev 2.1%.
+
+---
+
+### 2026-08-17 20:30:16  #資料
+
+加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。
+
+---
+
+### 2026-08-17 20:30:15  #MKT News
+
+Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln.
+
+---
+
+### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish
+
+Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June.
+
+---
+
+### 2026-08-17 20:30:15  #MKT News #DXY #Impact bearish #Brent
+
+Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior.
+
+---
+
+### 2026-08-17 20:30:14  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%.
+
+---
+
+### 2026-08-17 20:30:13  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6.
+
+---
+
+### 2026-08-17 20:30:08  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade.
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B
+
+---
+
+### 2026-08-17 20:30:00  #MKT News #Economic Calendar #Important
+
+Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%
 
 ---
 
@@ -18033,107 +18285,5 @@ Israeli military said it struck Hezbollah infrastructure in southern Lebanon on 
 ### 2026-08-15 15:42:39  #國際
 
 【印尼7.7級地震已造成至少33人死亡】當地時間15日，根據東努沙登加拉省省長的說法，印尼7.7級地震造成的死亡人數已達到33人。中國地震臺網正式測定：8月15日5時58分在印尼弗洛勒斯島附近海域（南緯8.40度，東經121.40度）發生7.7級地震，震源深度20千米。（央視新聞）
-
----
-
-### 2026-08-15 15:39:01  #其他
-
-【生態環境法典施行後人民法院第一案在浙江衢州開庭】記者8月15日從最高人民法院獲悉，在生態環境法典施行當天，浙江省衢州市衢江區人民法院公開開庭審理生態環境法典施行後人民法院第一案——商鋪噪聲汙染責任糾紛案。（新華社）
-
----
-
-### 2026-08-15 15:38:12  #其他
-
-【國內文創領域首個人像資料智慧財產權登記實踐落地深圳】據深圳市智慧財產權局謝謝，日前，成都OST傳媒簽約創作者形象、影片、聲音等人像資料在深圳已完成資料智慧財產權登記確權實踐，該案例是國內文創領域首個人像資料智慧財產權確權實踐，實現了文創領域人像資料確權、流通、保護的全鏈條突破性探索，補齊了行業人像資料合規保護短板，被作為我國智慧財產權保護特色亮點，面向海內外廣泛推介。 (21財經)
-
----
-
-### 2026-08-15 15:34:17  #其他
-
-英國首相伯納姆：將額外投入6500萬英鎊來支援農民度過這場乾旱，併為未來的夏季做好準備。
-
----
-
-### 2026-08-15 15:26:48  #其他
-
-中國向哥倫比亞提供緊急人道主義地震救災援助。（新華社）
-
----
-
-### 2026-08-15 15:25:45  #MKT News #Commodities #Energy
-
-【Iran's oil minister meets Tajikistan transport and energy ministers】Iran Oil Minister Mohsen Paknejad met Tajikistan Transport Minister Azim Ibrohim and Energy and Water Resources Minister Daler Juma on Saturday; talks focused on cooperation in the energy sector.
-
----
-
-### 2026-08-15 15:24:06  #國際
-
-當地官員稱，烏克蘭襲擊導致俄羅斯薩馬拉州一處工業場地受損。
-
----
-
-### 2026-08-15 15:16:34  #MKT News
-
-【Magnitude-5.0 earthquake strikes Granada province, Spain; no casualties reported】A magnitude-5.0 earthquake struck Granada province in southern Spain on the 15th local time. Local authorities said there were no casualties. The Andalusia regional government activated its emergency contingency plan at the warning stage to address potential secondary hazards and aftershocks. Strong shaking was reported across the affected area and neighboring provinces; some residents evacuated outdoors. Emergency services received multiple reports of minor structural cracks and falling debris; safety inspections and damage assessments are underway.
-
----
-
-### 2026-08-15 15:16:14  #其他
-
-【西班牙格拉納達省發生5.0級地震 暫無人員傷亡】當地時間15日，西班牙南部格拉納達省發生5.0級地震。當地政府部門表示，本次地震暫未造成人員傷亡，安達盧西亞大區政府已緊急啟用應急預案預警階段，以應對可能發生的次生災害與後續餘震。
-
----
-
-### 2026-08-15 15:14:45  #其他
-
-萬事達卡：系統更新短暫造成交易遭拒，目前問題已解決，所有系統執行正常。
-
----
-
-### 2026-08-15 15:12:56  #公司 #國際
-
-美國國家公路交通安全管理局：戴姆勒卡車北美有限公司提交召回申請，涉及22,778輛美國車輛。
-
----
-
-### 2026-08-15 15:10:09  #國際
-
-烏克蘭總統澤連斯基表示，烏克蘭正在加大力度爭取獲得更多愛國者系統，並擴大國內武器製造。
-
----
-
-### 2026-08-15 15:09:05  #MKT News
-
-Iran's communications minister says more than 500 telecommunications sites were attacked during the war; some facilities were hit again after being repaired and service restored.
-
----
-
-### 2026-08-15 15:07:54  #其他
-
-小鵬汽車：本週上新 36 座小鵬超充站，其中9 座 S5 超快充站、21 座 S4 超快充站、3 座超快充站、3 座超充站。
-
----
-
-### 2026-08-15 15:07:08  #其他
-
-【中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通】8月15日，中國二連浩特至蒙古國扎門烏德跨境一日遊正式開通，首批108名遊客開啟跨境之旅，為共建“一帶一路”、中蒙俄經濟走廊人文交流增添全新載體。此次跨境一日遊大幅最佳化手續，遊客無需提前辦理護照簽證，僅憑身份證即可參團，中國公民邊境旅遊團隊名單表的規範填報、人員資訊篩查、通行證明出具等全部流程均由有正規邊境旅遊經營資質的旅行社統一代辦，二連浩特公安局、出入境管理大隊並聯審批、高效出證。二連出入境邊防檢查站最佳化查驗舉措，實行團隊“團進團出”快速通關，大幅縮短候檢時間。（央視新聞）
-
----
-
-### 2026-08-15 15:02:53  #MKT News
-
-【Qiushi to publish Xi article 'Improving Disaster Prevention, Mitigation and Relief Capacity'】Qiushi magazine's Aug. 16 issue will publish an article by General Secretary Xi Jinping, Improving Disaster Prevention, Mitigation and Relief Capacity. Xi warns China's large, geographically complex territory and varied climate make natural disasters frequent. He says since the 18th Party Congress the central leadership has treated disaster prevention, mitigation and relief as a major national priority, implementing shifts in thinking, institutional reforms, system building and capacity upgrades that have helped minimize casualties and property losses. He calls for continued adherence to Party leadership, people- and life-first priorities, respect for natural laws, prevention-first policy, reform and innovation, a systemic approach and social co-governance, and urges these practices be maintained and adapted to new conditions.
-
----
-
-### 2026-08-15 15:02:20  #宏觀 #其他
-
-【《求是》雜誌發表習近平總書記重要文章《提高防災減災救災能力》】8月16日出版的第16期《求是》雜誌將發表中共中央總書記、國家主席、中央軍委主席習近平的重要文章《提高防災減災救災能力》。文章強調，我國國土廣袤、地理複雜、氣候多樣，自然災害易發多發。黨的十八大以來，黨中央堅持把防災減災救災工作作為關係人民安危和國家安全的大事來抓，在理念轉變、體制改革、體系建設、能力提升等方面作出許多部署，帶領廣大幹部群眾戰勝一系列重特大自然災害，最大限度減少人員傷亡和財產損失，成效舉世公認。做好防災減災救災工作，必須堅持黨的全面領導，堅持人民至上、生命至上，堅持尊重自然規律，堅持預防為主，堅持改革創新，堅持系統觀念，堅持社會共治。這些寶貴經驗要堅持好運用好，並結合新的實際不斷豐富和發展。文章指出，當前，我國防災減災救災工作面臨不少新情況新問題。要站在統籌高質量發展和高水平安全的戰略高度，充分認識做好防災減災救災工作的極端重要性，著力揚優勢、補短板、強弱項，不斷提高防範應對各類自然災害的能力和水平，切實維護人民群眾生命財產安全和社會穩定，確保中國式現代化行穩致遠。（新華社）
-
----
-
-### 2026-08-15 15:00:40  #MKT News
-
-【National flood agency raises Jiangsu emergency to Level-3; Zhejiang starts Level-4】The National Flood and Drought Control Headquarters and Ministry of Emergency Management said they raised Jiangsu’s flood-control emergency from Level-4 to Level-3 effective 12:00 Aug. 15, and activated a Level-4 response for Zhejiang. The move follows Typhoon No.13 White Dolphin and recent heavy rainfall; the Taihu basin has seen a significant basin-wide flood and lake levels are forecast to continue rising slowly. Forecasts show heavy to very heavy rain in parts of eastern and southern Zhejiang on Aug. 15–16.
 
 ---
