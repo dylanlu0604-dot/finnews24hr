@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-22 16:41:40",
+  "updated": "2026-08-22 16:46:20",
   "count": 16151,
   "items": [
+    {
+      "id": "5053116",
+      "time": "2026-08-22 16:44:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總統：政府陣容即將確定。"
+    },
+    {
+      "id": "5053115",
+      "time": "2026-08-22 16:42:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方稱被扣留在船隻上的飛行員“身體狀況不佳”。"
+    },
+    {
+      "id": "5053114",
+      "time": "2026-08-22 16:41:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方呼籲卡達將被扣押的伊朗飛行員轉移至陸上醫院。"
+    },
+    {
+      "id": "5053113",
+      "time": "2026-08-22 16:40:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美政府欲撤銷美國律協“法學院認證權”】美國教育部21日釋出報告，建議撤銷美國律師協會70多年來對美國法學院“官方認證”的權力，理由是美國律協負責認證事務的下設機構缺乏“獨立性”，且律協沒有按聯邦政府要求，修訂要求法學院執行“多元化、平等、包容”(DEI)政策的認證標準。聯邦政府將在數月後作出最終決定。（新華社）"
+    },
     {
       "id": "5053112",
       "time": "2026-08-22 16:39:35",
@@ -147706,43 +147738,6 @@
         "MKT News"
       ],
       "text": "Ukrainian President Zelenskiy said Ukrainian forces struck a Russian missile factory in Samara."
-    },
-    {
-      "id": "5042241",
-      "time": "2026-08-15 16:45:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：使用“火烈鳥”（Flamingo）導彈打擊了俄羅斯薩馬拉州俄羅斯航天集團旗下的一家關鍵企業——“進步中心”（Progress Center），該中心主要從事電子產品生產等業務；還襲擊了薩瓦斯列伊卡空軍基地，那裡駐紮著俄羅斯導彈運載機，此外，我們還確認了對烏斯季盧加（Ust-Luga）一處石油設施的打擊。"
-    },
-    {
-      "id": "mkt:01a00497-6fb1-7aab-9048-43a16ecc8099",
-      "time": "2026-08-15 16:43:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An official at Indonesia's disaster management agency said the earthquake death toll has risen to 38."
-    },
-    {
-      "id": "mkt:01a00497-5c48-7aab-9048-3d6e02f21196",
-      "time": "2026-08-15 16:43:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran says US claims on Strait of Hormuz are politically driven, asserts military primacy】IRNA reports Hossein Noushabadi, director-general for parliamentary and legal affairs at Iran’s Foreign Ministry, said Washington’s assertions about control of the Strait of Hormuz are politically motivated and a passive response to Iran’s demonstration of strength and strategic plans. He said US presidential claims lack basis and conflict with international shipping rules and the UN Convention on the Law of the Sea. Noushabadi added Iran holds political and military primacy over the Strait of Hormuz, the global energy chokepoint, giving Tehran leverage against external threats."
-    },
-    {
-      "id": "5042240",
-      "time": "2026-08-15 16:42:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼地震死亡人數升至38人】印尼國家抗災署今天（8月15日）下午表示，今天凌晨發生的印尼強震已造成38人死亡，另有2人重傷，11人輕傷。（CCTV國際時訊）"
     }
   ]
 }
