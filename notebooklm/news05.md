@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 13:38:13_
-_本檔包含 3012 則快訊，約 654540 字_
+_更新時間：2026-08-22 13:54:37_
+_本檔包含 3012 則快訊，約 654451 字_
+
+---
+
+### 2026-08-17 20:20:06  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #EURUSD #Impact bearish #USDJPY #Impact bullish
+
+US Aug New York Fed manufacturing index and Canada July CPI (MoM) due in 10 minutes.
+
+---
+
+### 2026-08-17 20:19:51  #其他
+
+【利比亞再次遭遇大範圍停電】的黎波里訊息：據利比亞媒體報道，由於多家發電廠17日凌晨停運，該國西部、中部和南部地區遭遇大範圍停電。這是繼15日首都的黎波里和該國西部地區發生停電後的第二次大範圍停電。當地媒體報道說，位於利比亞西部的扎維亞發電廠和霍姆斯發電廠以及南部的奧巴里燃氣發電廠均停止執行，引發大規模斷電，但具體原因尚不清楚。（新華社）
+
+---
+
+### 2026-08-17 20:19:46  #MKT News #Commodities #Energy
+
+【Libya hit by second widespread blackout in days】Libya's western, central and southern regions experienced a large-scale power outage in the early hours of the 17th after several plants went offline, Libyan media reported. This is the second major blackout since outages hit Tripoli and western Libya on the 15th. Zawiya, Khoms and the Ubari gas-fired plant reportedly stopped generating; causes remain unclear. Libya's national electricity company (GECOL) said technical teams are assessing the situation and working to restore supply progressively.
 
 ---
 
@@ -18141,23 +18159,5 @@ UKMTO said it received reports that a bulk carrier in the Strait of Hormuz was s
 ### 2026-08-15 13:54:54  #其他 #焦點 #國際
 
 英國海事貿易行動辦公室（UKMTO）稱，週五收到報告稱，一艘散貨船在霍爾木茲海峽被不明拋射物擊中，船員報告安全，目前尚無船舶受損報告，環境影響尚不明確。
-
----
-
-### 2026-08-15 13:53:35  #國際
-
-受印尼地震影響，飛往東努沙登加拉省的多趟境內航班被取消。（新華社）
-
----
-
-### 2026-08-15 13:51:57  #MKT News
-
-【Indonesian foreign ministry consular department: no foreign casualties reported after quake】On Aug 15 the Consular Affairs Department of the Indonesian Ministry of Foreign Affairs said no foreign casualties have been reported following a 7.7 magnitude earthquake at 04:58:24 local time off Nagekeo regency, East Nusa Tenggara (NTT). The epicenter was about 38 km northeast of Mbay at a depth of 15 km. The quake briefly carried a tsunami risk and prompted coastal evacuations. The Indonesian Meteorology, Climatology and Geophysics Agency (BMKG) said that as of 11:00 Central Indonesia Time (WITA) 111 aftershocks had been recorded, the latest magnitude 3.8, and seismic activity is continuing. The tsunami warning was lifted at 07:31. Remaining risks are aftershocks and damage to buildings.
-
----
-
-### 2026-08-15 13:51:19  #國際
-
-【印尼外交部領事司：地震暫未導致外國公民傷亡】當地時間15日，印尼外交部領事司通報地震有關訊息，稱截至目前無外國公民傷亡。（央視新聞）
 
 ---
