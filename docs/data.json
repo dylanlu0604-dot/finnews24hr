@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 22:39:34",
-  "count": 16100,
+  "updated": "2026-08-22 22:43:47",
+  "count": 16098,
   "items": [
+    {
+      "id": "5053214",
+      "time": "2026-08-22 22:41:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：烏克蘭對（俄）經濟目標的打擊開啟了“潘多拉魔盒”。"
+    },
+    {
+      "id": "5053213",
+      "time": "2026-08-22 22:41:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：向烏克蘭提供一切必要手段以守護其領空、挫敗此次戰事至關重要。我向澤連斯基總統宣佈加大我方支援力度，將交付攔截裝置，並延續雙方合作，此前已於去年7月13日在巴黎舉行反導彈聯盟啟動會議，且於2025年11月17日簽署意向書。"
+    },
     {
       "id": "5053212",
       "time": "2026-08-22 22:38:23",
@@ -147196,40 +147212,6 @@
         "MKT News"
       ],
       "text": "【Iran's PEZESHKIAN convenes meeting of executive, legislative and judicial leaders】President PEZESHKIAN met with parliament speaker Ghalibaf and judiciary chief Gholam‑Hossein Mohseni‑Eje'i to review domestic developments and priority work. The leaders called for strengthened coordination among the executive, legislature and judiciary and a unified, coordinated approach to advance state affairs and safeguard public and national interests."
-    },
-    {
-      "id": "5042380",
-      "time": "2026-08-15 22:42:45",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【以色列正試圖操控人工智慧關於加沙議題的輸出內容】以色列已發起一場公關宣傳活動，目的是引導ChatGPT等人工智慧系統在回答有關以色列、加沙以及以色列國防軍相關問題時的表述傾向。多家受以色列委託的公關公司成立了漢諾威公共政策研究所，該機構釋出大量設問式報告，例如《以色列國防軍是全球最講道義的軍隊嗎？》《加沙是否存在刻意製造饑荒的政策？》。這些文稿是以色列出資、總投入10萬美元宣傳專案的組成部分。相關測試顯示，當使用者提出中立問題時，ChatGPT與Perplexity人工智慧模型會引用這家研究所釋出的資料。以色列還資助了另一項總額4650萬美元的輿論干預專案，該專案專門搭建各類網站、產出定製內容，以此干預“GPT模型的內容輸出導向”。"
-    },
-    {
-      "id": "mkt:01a005de-08f7-7aab-9049-93c75a06b866",
-      "time": "2026-08-15 22:40:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The office of the Israeli prime minister said HEZBOLLAH launched an attack in Lebanon's \"security zone\", wounding three soldiers."
-    },
-    {
-      "id": "5042379",
-      "time": "2026-08-15 22:40:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理辦公室：真主黨在黎巴嫩“安全區”發動襲擊，造成三名士兵受傷。"
-    },
-    {
-      "id": "5042378",
-      "time": "2026-08-15 22:39:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：《麥加協議》向世界傳遞了重要訊號。《麥加協議》規定，若任一簽署國遭受外部襲擊，所有簽約國都將採取統一行動。該協議未來允許其他國家加入，埃及也有望參與其中。"
     }
   ]
 }
