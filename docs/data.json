@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 14:10:55",
-  "count": 16156,
+  "updated": "2026-08-22 14:14:55",
+  "count": 16155,
   "items": [
+    {
+      "id": "5053063",
+      "time": "2026-08-22 14:13:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "二十屆中央紀委六次全會公報釋出。（新華社）"
+    },
+    {
+      "id": "5053062",
+      "time": "2026-08-22 14:11:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特斯拉無人駕駛電動車Cybercab釋出會定檔】8月22日，特斯拉在社交平臺宣佈，將於2026年9月3日在美國得州奧斯汀舉行Cybercab釋出會。據瞭解，今年4月，特斯拉無人駕駛電動車Cybercab在北美正式投產，稱該車由AI驅動，無需方向盤、踏板和後視鏡。"
+    },
     {
       "id": "5053061",
       "time": "2026-08-22 14:05:53",
@@ -147766,30 +147782,6 @@
         "其他"
       ],
       "text": "【北京舉辦消費節促“機器人買賣”】北京經濟技術開發區(下稱經開區)15日啟動“2026 E-Town機器人消費節”，以“買賣機器人，到北京亦莊”為主題，打通從技術到市場的“最後一公里”。今年消費節從資金投入、場景佈局、消費體驗三個維度進行升級。促消費專項資金從首屆的1500萬元(人民幣，下同)提升至1800萬元，重點向人工智慧、具身智慧產業傾斜。（中新網）"
-    },
-    {
-      "id": "5042201",
-      "time": "2026-08-15 14:13:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：布魯可股東以每股67.50港元的價格出售股份，透過大宗交易籌集3200萬美元。"
-    },
-    {
-      "id": "5042200",
-      "time": "2026-08-15 14:12:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞出現萬事達卡支付遭拒情況】澳大利亞聯邦銀行稱，受萬事達卡全球性故障影響，澳大利亞使用者的萬事達卡支付出現交易被拒情況。 使用者可上報服務故障的網站Downdetector在週六下午3點收到超過1700條關於萬事達卡的故障反饋。 Downdetector上上報最多的故障集中在資金轉賬與手機銀行業務。 聯邦銀行在官網宣告中表示：“如客戶遇到交易被拒，請插入銀行卡，選擇儲蓄賬戶，透過澳洲電子支付系統eftpos完成付款。” “聯邦銀行其餘全部服務，包括自動櫃員機，均可正常使用。”"
-    },
-    {
-      "id": "mkt:01a0040b-bdbb-7aab-9047-b8e88565bdcc",
-      "time": "2026-08-15 14:11:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bulk carrier struck by unidentified flying object in Strait of Hormuz】Local time Aug 15, the UK Maritime Trade Operations (UKMTO) reported a maritime incident in the Strait of Hormuz. UKMTO said it received a verified report that a bulk carrier's hull was struck by an unidentified flying object. Crew are safe and no property damage has been reported."
     }
   ]
 }
