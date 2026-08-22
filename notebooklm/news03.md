@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:32:06_
-_本檔包含 3231 則快訊，約 649788 字_
+_更新時間：2026-08-23 06:52:27_
+_本檔包含 3231 則快訊，約 649479 字_
+
+---
+
+### 2026-08-20 08:54:36  #公司
+
+【獨家丨前理想總裁創辦企業棲息地再獲7億元融資，常州新北區科創基金領投】新浪科技獨家獲悉，智慧住宅企業棲息地已完成A輪融資，本輪融資資金規模7億元人民幣，由常州新北區科創基金領投。公開資料顯示，棲息地品牌由前理想汽車聯合創始人、總裁沈亞楠創立，定位生活智慧科技公司。據知情人士透露，目前，棲息地已在北京、上海、杭州、深圳、廣州、成都、武漢七城建立直營網路，年度簽約規模超10億元。（新浪科技）
+
+---
+
+### 2026-08-20 08:54:23  #國際
+
+【國家發展改革委副主任周海兵會見智利外交部長佩雷斯】據國家發展改革委訊息，8月19日下午，國家發展改革委副主任周海兵在委內會見智利外交部長佩雷斯，雙方就推進中智雙邊關係、拓展中智務實合作等議題進行了交流。周海兵表示，中智在綠色發展、高科技等領域合作前景廣闊。中方願與智方共同謀劃好務實合作，為兩國發展提供更多助力，推動兩國重點領域合作邁上新臺階。佩雷斯表示，中國是智利的重要合作伙伴，智方願同中方加強對話溝通，深化相關領域合作，實現互利共贏、共同發展。
+
+---
+
+### 2026-08-20 08:54:23  #MKT News
+
+【MOFCOM Department of Consumption Promotion on China's July 2026 consumer market】Jan–Jul 2026, China’s total retail sales of consumer goods and services rose 2.6% YoY. Retail sales of consumer goods totaled 28.77 trillion yuan, up 1.2%; retail sales excluding autos rose 2.7%.
 
 ---
 
@@ -19464,23 +19482,5 @@ Sources say the SK Hynix union is finalizing the wording of a temporary wage agr
 ### 2026-08-19 08:22:21  #MKT News
 
 【Sources say ROK‑US Ulchi Freedom Shield schedule to be halved; South Korea's Defense Ministry cannot confirm】On the evening of the 18th local time, South Korean military sources said the ROK‑US Ulchi Freedom Shield joint exercise schedule would be shortened by half and end early after defensive operations conclude. South Korea's Defense Ministry on the 19th said it could not confirm the report.
-
----
-
-### 2026-08-19 08:21:54  #其他
-
-委內瑞拉石油部長：委內瑞拉與斯倫貝謝（SLB）簽署合同。
-
----
-
-### 2026-08-19 08:21:01  #市場 #國際
-
-40年期日本國債收益率下跌1.5個基點，至4.190%。
-
----
-
-### 2026-08-19 08:19:49  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Decline on Bond Jitters — Gold traded below $4,350 an ounce on Wednesday after dropping nearly 2% in the previous session, pressured by elevated global bond yields amid growing fiscal concerns and persistent inflationary pressures. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades. The precious metal also faced pressure from rising oil prices as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. President Donald Trump said there were no ongoing talks with Tehran, while Iranian forces have intensified attacks on shipping in the Strait of Hormuz. Investors now await minutes from the Federal Reserve’s July meeting and remarks from Chairman Kevin Warsh at the annual Jackson Hole symposium for fresh clues on the monetary policy outlook.
 
 ---

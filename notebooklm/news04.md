@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:32:06_
-_本檔包含 3300 則快訊，約 649185 字_
+_更新時間：2026-08-23 06:52:27_
+_本檔包含 3303 則快訊，約 650192 字_
+
+---
+
+### 2026-08-19 08:21:54  #其他
+
+委內瑞拉石油部長：委內瑞拉與斯倫貝謝（SLB）簽署合同。
+
+---
+
+### 2026-08-19 08:21:01  #市場 #國際
+
+40年期日本國債收益率下跌1.5個基點，至4.190%。
+
+---
+
+### 2026-08-19 08:19:49  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Decline on Bond Jitters — Gold traded below $4,350 an ounce on Wednesday after dropping nearly 2% in the previous session, pressured by elevated global bond yields amid growing fiscal concerns and persistent inflationary pressures. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades. The precious metal also faced pressure from rising oil prices as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. President Donald Trump said there were no ongoing talks with Tehran, while Iranian forces have intensified attacks on shipping in the Strait of Hormuz. Investors now await minutes from the Federal Reserve’s July meeting and remarks from Chairman Kevin Warsh at the annual Jackson Hole symposium for fresh clues on the monetary policy outlook.
 
 ---
 

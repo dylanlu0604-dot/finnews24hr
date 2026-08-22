@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:32:06_
-_本檔包含 3176 則快訊，約 649723 字_
+_更新時間：2026-08-23 06:52:27_
+_本檔包含 3177 則快訊，約 650015 字_
+
+---
+
+### 2026-08-23 06:51:30  #其他
+
+【經濟日報金觀平：企業應成為科技創新“出題人”】推動科技創新和產業創新深度融合，是以高水平科技自立自強引領發展新質生產力的關鍵。其中，科技創新需突出應用導向，支援高校、科研院所對接企業開展科研攻關和人才培養；產業創新需強化企業創新主體地位，支援企業與高校、科研院所共建平臺、共克難題。發揮好企業創新主體作用是推動二者深度融合的重要抓手。科研決策缺少企業參與，容易導致創新與產業脫節。企業參與“出題”，能夠讓科技創新更加貼近產業實際，助力教育科技人才協調發展。企業真正“出題”，還需加快完善制度機制。當科研方向源於產業需求、創新資源圍繞企業配置、科技成果服務產業發展，才能實現科技創新與產業創新同頻共振。面向“十五五”，進一步強化企業科技創新主體地位，讓企業從技術應用者成長為創新組織者、科研“出題人”，助力提升國家創新體系整體效能，為發展新質生產力、建設科技強國注入更加強勁的動力。
+
+---
+
+### 2026-08-23 06:35:03  #公司 #國際
+
+【霍爾果斯壓氣首站累計輸氣突破6000億立方米】8月22日，記者從國家管網集團獲悉，西氣東輸二線三線首站——霍爾果斯壓氣首站累計輸送天然氣突破6000億立方米，為國內天然氣市場穩定供應、能源結構低碳轉型提供了保障。霍爾果斯壓氣首站位於“一帶一路”重要樞紐節點，負責將中亞跨國天然氣和伊犁煤制氣輸送至我國中東部地區，年輸氣能力達600億立方米，單站裝機容量居亞洲首位。自2009年投產以來，累計安全平穩執行超6000天，單日最高輸氣量可達1.63億立方米。（央視新聞）
+
+---
+
+### 2026-08-23 06:32:38  #公司 #焦點
+
+【DeepSeek再次調價】DeepSeek網站8月22日顯示，DeepSeek API開放平臺將於2026年8月23日（週日）00:00起，最佳化峰谷計費規則。調整後，週末（週六及週日）全天將不再區分峰谷時段，統一按低谷時段價格計費。 此前，DeepSeek釋出API調價公告，自北京時間8月17日0:00起，DeepSeek全面上調API價格並執行峰谷定價，閒時價格為高峰時段價格的一半。高峰時段為北京時間9:00—12:00、14:00—18:00（其餘為空閒時段）。
 
 ---
 
@@ -19145,17 +19163,5 @@ Deputy governor of the BANK OF KOREA said the bank will make policy decisions ca
 ### 2026-08-21 09:17:07  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
 
 US Treasury Yields Hold Rebound — The 10-year US Treasury yield traded around 4.7% on Friday after rebounding sharply in the previous session amid concerns that the government’s plan to reduce borrowing costs may provide only a temporary solution. The 30-year yield also climbed to around 5.25%, nearly erasing Wednesday’s decline after the US Treasury Department announced larger debt buybacks. The moves came despite Treasury Secretary Scott Bessent saying that accelerated debt buybacks could exceed the announced $4 billion per issue and highlighting an upcoming fiscal plan, while adding that the US budget deficit has likely peaked under President Donald Trump. Longer-dated Treasury yields have surged since July amid increased debt issuance by AI companies and rising federal deficit spending. Meanwhile, higher oil prices as the US prepares sweeping new economic sanctions against Iran also added to inflation concerns.
-
----
-
-### 2026-08-21 09:16:09  #市場
-
-【人民幣兌美元中間價報6.7817，較上日調低9點】人民幣兌美元中間價報6.7817，較上日調低9點。
-
----
-
-### 2026-08-21 09:15:55  #MKT News #Market Regions #Greater China
-
-【China synthesizes world's longest single-atom-diameter "metal wire"】Researchers at the Beijing High Pressure Science Research Center led by Li Kuo have for the first time synthesized a structurally stable, carbon-encapsulated single-metal-atom chain with micrometer-scale length and single-atom diameter using a novel high-pressure solid-state topological polymerization technique. Scaled by diameter, the micrometer length is equivalent to about a 4-metre copper wire. The result was published in Science on Aug. 21.
 
 ---

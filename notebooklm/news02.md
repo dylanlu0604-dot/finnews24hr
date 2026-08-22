@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 06:32:06_
-_本檔包含 3412 則快訊，約 649625 字_
+_更新時間：2026-08-23 06:52:27_
+_本檔包含 3411 則快訊，約 649496 字_
+
+---
+
+### 2026-08-21 09:16:09  #市場
+
+【人民幣兌美元中間價報6.7817，較上日調低9點】人民幣兌美元中間價報6.7817，較上日調低9點。
+
+---
+
+### 2026-08-21 09:15:55  #MKT News #Market Regions #Greater China
+
+【China synthesizes world's longest single-atom-diameter "metal wire"】Researchers at the Beijing High Pressure Science Research Center led by Li Kuo have for the first time synthesized a structurally stable, carbon-encapsulated single-metal-atom chain with micrometer-scale length and single-atom diameter using a novel high-pressure solid-state topological polymerization technique. Scaled by diameter, the micrometer length is equivalent to about a 4-metre copper wire. The result was published in Science on Aug. 21.
 
 ---
 
@@ -20597,23 +20609,5 @@ Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic bu
 ### 2026-08-20 08:55:02  #MKT News #Commodities #Energy #USO #Impact bullish #BNO
 
 【Crude ETF holdings report launches; USO and BNO exposures rise】Aug 19 — WTI (USO) notional exposure was about 24.277 mln barrels, up 157,000 barrels on the day. Brent (BNO) futures holdings were about 7.819 mln barrels, up 126,000 barrels on the day.
-
----
-
-### 2026-08-20 08:54:36  #公司
-
-【獨家丨前理想總裁創辦企業棲息地再獲7億元融資，常州新北區科創基金領投】新浪科技獨家獲悉，智慧住宅企業棲息地已完成A輪融資，本輪融資資金規模7億元人民幣，由常州新北區科創基金領投。公開資料顯示，棲息地品牌由前理想汽車聯合創始人、總裁沈亞楠創立，定位生活智慧科技公司。據知情人士透露，目前，棲息地已在北京、上海、杭州、深圳、廣州、成都、武漢七城建立直營網路，年度簽約規模超10億元。（新浪科技）
-
----
-
-### 2026-08-20 08:54:23  #國際
-
-【國家發展改革委副主任周海兵會見智利外交部長佩雷斯】據國家發展改革委訊息，8月19日下午，國家發展改革委副主任周海兵在委內會見智利外交部長佩雷斯，雙方就推進中智雙邊關係、拓展中智務實合作等議題進行了交流。周海兵表示，中智在綠色發展、高科技等領域合作前景廣闊。中方願與智方共同謀劃好務實合作，為兩國發展提供更多助力，推動兩國重點領域合作邁上新臺階。佩雷斯表示，中國是智利的重要合作伙伴，智方願同中方加強對話溝通，深化相關領域合作，實現互利共贏、共同發展。
-
----
-
-### 2026-08-20 08:54:23  #MKT News
-
-【MOFCOM Department of Consumption Promotion on China's July 2026 consumer market】Jan–Jul 2026, China’s total retail sales of consumer goods and services rose 2.6% YoY. Retail sales of consumer goods totaled 28.77 trillion yuan, up 1.2%; retail sales excluding autos rose 2.7%.
 
 ---
