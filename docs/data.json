@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 01:54:08",
-  "count": 16139,
+  "updated": "2026-08-23 01:58:08",
+  "count": 16138,
   "items": [
+    {
+      "id": "5053359",
+      "time": "2026-08-23 01:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普整個6月持續買賣Coinbase股票。"
+    },
     {
       "id": "5053353",
       "time": "2026-08-23 01:53:28",
@@ -147500,22 +147508,6 @@
         "DXY"
       ],
       "text": "Gulf Cooperation Council secretary-general condemned Iran's repeated attacks on the UAE's Abu Dhabi National Oil Company (ADNOC) tankers and other vessels in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:01a00690-6cf8-7aab-904a-6486afc797b3",
-      "time": "2026-08-16 01:55:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tajikistan’s energy and water resources minister and transport minister visited Tehran for talks with Iranian counterparts and met Iranian foreign minister Araghchi on Saturday evening, the Iranian foreign ministry said. Araghchi urged leveraging the countries’ existing diversified potential to develop and strengthen bilateral relations, particularly in economic and trade cooperation."
-    },
-    {
-      "id": "5042412",
-      "time": "2026-08-16 01:54:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙和平委員會認為，在特朗普特使庫什納訪問以色列前夕，加沙相關協議已觸手可及。"
     }
   ]
 }
