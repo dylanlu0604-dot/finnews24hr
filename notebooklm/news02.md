@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 00:35:51_
-_本檔包含 3391 則快訊，約 651362 字_
+_更新時間：2026-08-23 00:53:44_
+_本檔包含 3390 則快訊，約 650989 字_
+
+---
+
+### 2026-08-21 08:58:08  #公司
+
+【博俊科技：目前有小鵬汽車部分車型產品正在專案開發階段】博俊科技(300926)在互動平臺表示，公司為小鵬汽車的車身件供應商，目前供貨的量產車型為MONA M03，公司對所供貨的小鵬汽車的車身件產品均為獨供。目前，公司有小鵬汽車部分車型的產品正在專案開發階段，部分專案將於今年內量產，具體量產時間以客戶釋出時間為準。
 
 ---
 
@@ -20481,17 +20487,5 @@ Kyiv authorities said a Russian airstrike killed five people and injured 23.
 ### 2026-08-20 08:29:07  #觀點
 
 【開源證券：資料中心電力裝置迎來增量機遇】開源證券研報表示，2025年10月英偉達釋出800V白皮書1.0，系統論證了高壓直流配電的技術必要性與可行性；白皮書2.0進一步明確，隨著GPU機櫃功率由數百kw向MW級演進，傳統415/480VAC供電在電纜數量、機櫃介面、轉換層級和佔地等方面逐步承壓，且800VDC並非替代現有交流架構而是與其長期共存、按需匯入的新增部署選項。開源證券認為，AI資料中心功率密度升級將同時拉動高壓直流裝置、儲能變流及系統整合、直流保護、液冷散熱與高壓連線部件的技術迭代，具備高壓大功率產品能力、可靠性驗證與頭部客戶匯入優勢的企業有望優先受益。
-
----
-
-### 2026-08-20 08:28:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,510/oz, down 0.29% on the day.
-
----
-
-### 2026-08-20 08:28:34  #MKT News #Star Stocks #Tencent #0700.HK #Impact bullish #CSI300 #Hang Seng Index
-
-【CITIC Securities: Visibility on China’s domestic compute orders set to improve; focus on leading supply‑chain names】CITIC Securities says Tencent’s Q2 2026 Capex ran well above expectations and the company will continue to ramp AI infrastructure and procure domestic compute. Into H2 2026, order visibility for China’s domestic compute is expected to strengthen and supply‑chain stocking to accelerate. Firm recommends monitoring leading domestic compute supply‑chain vendors.
 
 ---

@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 00:35:51_
-_本檔包含 3305 則快訊，約 651427 字_
+_更新時間：2026-08-23 00:53:44_
+_本檔包含 3297 則快訊，約 650487 字_
+
+---
+
+### 2026-08-19 07:55:17  #市場 #央行 #國際
+
+【分析師：下半年人民幣對美元匯率再現上半年持續較快升值的可能性較小 全年可能呈現“先升後穩”的執行態勢】東方金誠首席宏觀分析師王青分析稱，近期美元指數跌破100，帶動包括人民幣在內的非美貨幣普遍升值。此外，7月份我國出口延續高增狀態，外部經貿環境保持穩定，這意味著近期支撐人民幣匯率走強的核心動力沒有變化。 “後期人民幣匯率將主要取決於我國出口走勢，以及美聯儲貨幣政策調整等因素對美元指數帶來的影響。”王青預計，下半年人民幣對美元匯率再現上半年持續較快升值的可能性較小，會更多處於雙向波動狀態，全年可能呈現“先升後穩”的執行態勢。
 
 ---
 
@@ -19928,59 +19934,5 @@ SoftBank has invested $200 million in construction startup Gravis Robotics.
 ### 2026-08-17 22:12:44  #其他
 
 市場訊息：軟銀向建築初創企業 Gravis Robotics 投資 2 億美元。
-
----
-
-### 2026-08-17 22:11:53  #公司
-
-Equinor 將以 9.4 億美元收購拉克萬納能源中心 87.71% 的 A 類股份。
-
----
-
-### 2026-08-17 22:11:34  #MKT News #Commodities #Energy
-
-EQUINOR to acquire a partial stake in Lackawanna Energy Center.
-
----
-
-### 2026-08-17 22:11:30  #市場
-
-捷藍航空股價在海港研究將其股票評級下調至“中性”後下跌約3.5%。
-
----
-
-### 2026-08-17 22:11:17  #國際
-
-據知情人士透露，內塔尼亞胡在與庫什納會晤時，攜辛貝特（以色列國家安全總局）局長戴維・齊尼以及軍事情報局局長什洛米・賓德一同參會，向庫什納通報哈馬斯在加沙地帶的違規行為。
-
----
-
-### 2026-08-17 22:10:45  #MKT News
-
-Axios cited a source saying that during a meeting with Jared Kushner, Netanyahu brought Israel's Shin Bet chief David Zeni and Military Intelligence chief Shlomi Binder to brief Kushner on Hamas's violations in Gaza.
-
----
-
-### 2026-08-17 22:09:35  #其他
-
-加拿大總理卡尼：到2050年，加拿大的電力需求預計將翻倍。因此我們必須將電網的容量也翻倍。
-
----
-
-### 2026-08-17 22:09:15  #MKT News #Commodities #Energy #Copper #Impact bullish
-
-Canada's Prime Minister Carney said electricity demand is expected to double by 2050 and that grid capacity must be doubled accordingly.
-
----
-
-### 2026-08-17 22:08:34  #國際
-
-市場訊息：內塔尼亞胡‑庫什納會晤後，以色列與美國達成一致，哈馬斯第一階段上繳的武器將直接交由美軍銷燬。
-
----
-
-### 2026-08-17 22:07:46  #MKT News
-
-【Baltic Dry Index rises for second day】The Baltic Dry Index (BDI) rose for a second session, up 15 points (0.52%) to 2,878 as gains in Capesize freight outweighed weakness in Panamax rates. The Capesize index (BCI) climbed 52 points (1.2%) to 4,590; Capesize daily earnings rose $470 to $38,122. The Panamax index (BPI) fell 22 points (1%) to 2,206, its lowest since Aug. 4; Panamax daily earnings dropped $202 to $19,853. Supramax (BSI) added 6 points (0.4%) to 1,628, a high since July 28. Handysize (BHSI) slipped 2 points to 864.
 
 ---

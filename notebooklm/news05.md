@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 00:35:51_
-_本檔包含 3029 則快訊，約 651057 字_
+_更新時間：2026-08-23 00:53:44_
+_本檔包含 3030 則快訊，約 650952 字_
+
+---
+
+### 2026-08-17 22:11:53  #公司
+
+Equinor 將以 9.4 億美元收購拉克萬納能源中心 87.71% 的 A 類股份。
+
+---
+
+### 2026-08-17 22:11:34  #MKT News #Commodities #Energy
+
+EQUINOR to acquire a partial stake in Lackawanna Energy Center.
+
+---
+
+### 2026-08-17 22:11:30  #市場
+
+捷藍航空股價在海港研究將其股票評級下調至“中性”後下跌約3.5%。
+
+---
+
+### 2026-08-17 22:11:17  #國際
+
+據知情人士透露，內塔尼亞胡在與庫什納會晤時，攜辛貝特（以色列國家安全總局）局長戴維・齊尼以及軍事情報局局長什洛米・賓德一同參會，向庫什納通報哈馬斯在加沙地帶的違規行為。
+
+---
+
+### 2026-08-17 22:10:45  #MKT News
+
+Axios cited a source saying that during a meeting with Jared Kushner, Netanyahu brought Israel's Shin Bet chief David Zeni and Military Intelligence chief Shlomi Binder to brief Kushner on Hamas's violations in Gaza.
+
+---
+
+### 2026-08-17 22:09:35  #其他
+
+加拿大總理卡尼：到2050年，加拿大的電力需求預計將翻倍。因此我們必須將電網的容量也翻倍。
+
+---
+
+### 2026-08-17 22:09:15  #MKT News #Commodities #Energy #Copper #Impact bullish
+
+Canada's Prime Minister Carney said electricity demand is expected to double by 2050 and that grid capacity must be doubled accordingly.
+
+---
+
+### 2026-08-17 22:08:34  #國際
+
+市場訊息：內塔尼亞胡‑庫什納會晤後，以色列與美國達成一致，哈馬斯第一階段上繳的武器將直接交由美軍銷燬。
+
+---
+
+### 2026-08-17 22:07:46  #MKT News
+
+【Baltic Dry Index rises for second day】The Baltic Dry Index (BDI) rose for a second session, up 15 points (0.52%) to 2,878 as gains in Capesize freight outweighed weakness in Panamax rates. The Capesize index (BCI) climbed 52 points (1.2%) to 4,590; Capesize daily earnings rose $470 to $38,122. The Panamax index (BPI) fell 22 points (1%) to 2,206, its lowest since Aug. 4; Panamax daily earnings dropped $202 to $19,853. Supramax (BSI) added 6 points (0.4%) to 1,628, a high since July 28. Handysize (BHSI) slipped 2 points to 864.
 
 ---
 
@@ -18222,53 +18276,5 @@ Yemen's electricity minister said the ministry is working to establish service-d
 ### 2026-08-16 00:59:57  #市場 #焦點
 
 布倫特原油暗盤跌破86美元，日內跌超0.1%。
-
----
-
-### 2026-08-16 00:46:42  #MKT News
-
-Israel Defense Forces said the incidents constitute violations of the ceasefire agreement and strongly condemned them.
-
----
-
-### 2026-08-16 00:46:17  #MKT News
-
-cenc reports a magnitude-5.9 earthquake at 00:25 on Aug 16 in Tomini Bay, Indonesia (0.20°N, 120.25°E); hypocenter depth 80 km.
-
----
-
-### 2026-08-16 00:45:26  #國際
-
-中國地震臺網正式測定：08月16日00時25分在印尼托米尼灣（北緯0.20度，東經120.25度）發生5.9級地震，震源深度80千米。
-
----
-
-### 2026-08-16 00:45:06  #MKT News
-
-Israeli Defense Forces (IDF) said soldiers shot and killed two terrorists after they crossed the "yellow line" and approached troops in a threatening manner while attempting to sabotage IDF weapons.
-
----
-
-### 2026-08-16 00:44:24  #MKT News
-
-Israel Defense Forces said a tank recently ran over an explosive device planted by Hamas during operations in the "Yellow Line" area of southern Gaza; no IDF personnel were reported injured.
-
----
-
-### 2026-08-16 00:42:15  #MKT News
-
-Israel's Channel 12, citing security sources, said an Israeli tank in the southern Gaza Strip was hit by an explosive device; no casualties were reported. The Israeli military subsequently carried out a retaliatory strike.
-
----
-
-### 2026-08-16 00:37:01  #MKT News
-
-【6.2 magnitude earthquake offshore Central Sulawesi, Indonesia】Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a 6.2 magnitude earthquake offshore Central Sulawesi at 23:25 local time on Aug 15, with a focal depth of 44 km. BMKG said no tsunami risk is expected.
-
----
-
-### 2026-08-16 00:36:07  #國際
-
-【印尼中蘇拉威西省附近海域發生6.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月15日23時25分，印尼中蘇拉威西省附近海域發生6.2級地震， 震源深度44公里。預計不會有海嘯風險。
 
 ---
