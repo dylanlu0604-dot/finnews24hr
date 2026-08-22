@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 04:51:29",
-  "count": 16129,
+  "updated": "2026-08-23 04:55:29",
+  "count": 16128,
   "items": [
+    {
+      "id": "5053455",
+      "time": "2026-08-23 04:54:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：本次停電事故未對英國整體電力供應造成影響。"
+    },
     {
       "id": "5053443",
       "time": "2026-08-23 04:36:20",
@@ -147390,27 +147398,6 @@
         "國際"
       ],
       "text": "伊朗能源最佳化組織負責人：伊朗正在審議三套汽油供應管理方案，其中一項提案計劃向每位公民每月分配 30 升汽油配額，配額允許流轉、交易。"
-    },
-    {
-      "id": "5042430",
-      "time": "2026-08-16 04:54:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普釋放可能參與2028年大選的訊號】美國總統特朗普在真相社交平臺釋出一張疑似AI生成的圖片，圖中他頭戴印有“特朗普2028”字樣的帽子。圖片配文寫道：“我們必將取勝。”該帖再次公開釋放訊號，特朗普有意角逐2028年總統的又一屆任期。"
-    },
-    {
-      "id": "mkt:01a00733-7f00-7aab-904b-147e314135ed",
-      "time": "2026-08-16 04:53:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Institution: AI-driven chip inflation pressures UK economy】Next week's UK CPI will be market focus; AI-driven memory-chip shortages and higher energy costs are keeping the Bank of England cautious. Wednesday's print is expected to show CPI accelerating for the first time in four months; economists' median forecast is July CPI 2.9% YoY. Forecasts indicate this may mark the start of an upward trend into H2, reversing earlier easing. With the Iran conflict increasingly feeding into prices and domestic activity still firm, the data could unsettle BoE rate-setters. The Bank of England warns rapid expansion of AI compute is pushing up memory-chip costs for phones, laptops and game consoles, and British Retail Consortium July data shows chip-cost increases are passing through to electronics prices."
     }
   ]
 }
