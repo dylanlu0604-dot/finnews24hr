@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-22 22:31:10",
-  "count": 16108,
+  "updated": "2026-08-22 22:35:19",
+  "count": 16105,
   "items": [
+    {
+      "id": "5053209",
+      "time": "2026-08-22 22:34:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍隊對黎巴嫩南部瓦迪·斯雷賓發動新一輪空襲，這是最新一起違反停火協議的行為。"
+    },
+    {
+      "id": "5053208",
+      "time": "2026-08-22 22:31:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度南部一製藥廠爆炸致2死9傷】據印度媒體22日報道，印南部特倫甘納邦一家製藥廠21日深夜發生爆炸並引發火災，造成2人死亡、9人受傷。（新華社）"
+    },
     {
       "id": "5053207",
       "time": "2026-08-22 22:29:58",
@@ -147259,46 +147275,6 @@
         "Emerging Markets"
       ],
       "text": "【Indonesia advances plan for financial and investment centre to attract global capital】Indonesia is advancing plans to establish an Indonesia Financial and Investment Center (IIFC) to attract global capital and leverage the country's rising appeal to investors, the government said. Officials described Indonesia as a high-potential market with substantial growth space and said the IIFC would act as a support mechanism to draw capital from multiple countries and capitalise on those opportunities."
-    },
-    {
-      "id": "5042372",
-      "time": "2026-08-15 22:34:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統：以色列持續襲擊黎巴嫩是我們重大關切所在。"
-    },
-    {
-      "id": "5042371",
-      "time": "2026-08-15 22:34:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部：戰鬥機從阿拉伯海的喬治·H·W·布什號航空母艦起飛，以維護中東地區的安全與穩定。"
-    },
-    {
-      "id": "5042370",
-      "time": "2026-08-15 22:33:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：我們已收到特朗普關於F‑35戰鬥機的承諾，我們正等待他兌現該承諾。"
-    },
-    {
-      "id": "5042369",
-      "time": "2026-08-15 22:33:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，預計颶風赫南今日將減弱為殘留低氣壓。"
-    },
-    {
-      "id": "5042368",
-      "time": "2026-08-15 22:32:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：我將於近期訪問敘利亞。敘利亞不會被拋下，我們將盡一切力量維護該國穩定。"
     }
   ]
 }
