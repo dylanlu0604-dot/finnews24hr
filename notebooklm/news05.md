@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-22 15:57:05_
-_本檔包含 3032 則快訊，約 653973 字_
+_更新時間：2026-08-22 16:41:40_
+_本檔包含 3050 則快訊，約 653971 字_
+
+---
+
+### 2026-08-17 20:49:41  #宏觀
+
+南非財政部長將於10月21日提交中期預算案。
+
+---
+
+### 2026-08-17 20:49:36  #MKT News
+
+Groq raised $350 mln at a $3.5 bln valuation.
+
+---
+
+### 2026-08-17 20:49:28  #公司
+
+據悉，BDT出售Alliance Laundry股份的交易將於週二定價。
+
+---
+
+### 2026-08-17 20:47:17  #國際
+
+【OpenAI宣佈加入位於俄亥俄州派克縣的PORTS-Pike專案】OpenAI宣佈，已與SB Energy、NVIDIA及美國能源部合作，在俄亥俄州派克縣的PORTS-Pike技術園區獲得約8吉瓦的IT裝置。該專案預計在建設期至2032年的六年內創造35,000個建築崗位，以及2,500個長期運營崗位。SB Energy將根據與OpenAI簽訂的20年租賃協議，建設、擁有並運營該資料中心，並逐步交付容量。 OpenAI將成為客戶，利用該站點的容量，該站點將專門託管NVIDIA AI計算基礎設施。
+
+---
+
+### 2026-08-17 20:47:08  #其他
+
+【渝昆高鐵昭通段車站建設進展順利】目前，渝昆高鐵雲貴站房一標專案正在加緊施工，多個車站工程進展順利。渝（重慶）昆（昆明）高鐵是國家“八縱八橫”高鐵網京昆高鐵的重要組成部分，設計行車時速350公里。（新華社）
+
+---
+
+### 2026-08-17 20:46:16  #MKT News #Market Regions #Europe & UK #BCS.N
+
+Financial Times reports Barclays (BCS.N) has hired Mike Joo as co-CEO of its investment bank.
+
+---
+
+### 2026-08-17 20:45:56  #市場
+
+義大利30年期國債收益率<IT30YT=RR>升至4.8185%，創下2023年11月以來新高。
+
+---
+
+### 2026-08-17 20:45:43  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #DAX
+
+Italy's 30-year bond yield reached 4.8185%, the highest since November 2023.
+
+---
+
+### 2026-08-17 20:45:27  #MKT News
+
+NVIDIA (NVDA.O): OpenAI's commitments by 2030 would correspond to roughly $600 billion of NVIDIA compute business.
+
+---
+
+### 2026-08-17 20:45:19  #公司
+
+英偉達公司：OpenAI的相關承諾意味著，截至2030年，將產生約6000億美元的英偉達算力採購規模。
+
+---
+
+### 2026-08-17 20:44:35  #MKT News #Market Regions #Europe & UK #BCS.N
+
+Financial Times reports Adeel Khan will be promoted to co-chief executive of Barclays (BCS.N), responsible for global markets.
+
+---
+
+### 2026-08-17 20:44:31  #Trading Economics #Markets #Russia #currency #Importance 0
+
+Russian Ruble Hits 16-month Low — The Russian Ruble touched 87.09 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Russian Ruble gained 8.19%, and in the last 12 months, it increased 5.92%.
+
+---
+
+### 2026-08-17 20:43:57  #其他
+
+英偉達：OPENAI將支付租金。
+
+---
+
+### 2026-08-17 20:43:40  #市場
+
+匈牙利審查政府合同後，4IG股價下跌高達5.8%。
+
+---
+
+### 2026-08-17 20:43:11  #國際
+
+英偉達：初始承諾的支付義務上限為1050億美元。
+
+---
+
+### 2026-08-17 20:43:04  #MKT News #Market Regions #Greater China
+
+【Guangzhou Baiyunshan Zhongyi receives NMPA approval to trial Zhangyanming tablets for dry‑eye indication】Guangzhou Baiyunshan Zhongyi Pharmaceutical’s exclusive flagship product Zhangyanming tablets has received approval from the National Medical Products Administration (NMPA) to initiate clinical trials for a new "dry eye" indication. The program is registered as category 2.3 (modified new drug).
+
+---
+
+### 2026-08-17 20:42:55  #其他
+
+OpenAI將透過ChatGPT提供8400萬美元的Codex額度。
+
+---
+
+### 2026-08-17 20:42:28  #其他
+
+OpenAI承諾至2030年前大規模部署英偉達基礎設施。
+
+---
+
+### 2026-08-17 20:42:15  #其他
+
+市場訊息：巴克萊銀行對投行部門高層進行大改組。阿迪爾·汗（Adeel Khan）將晉升為巴克萊(BCS.N)聯席執行長，負責全球市場業務。
+
+---
+
+### 2026-08-17 20:42:13  #MKT News #BCS.N
+
+Financial Times reports Barclays (BCS.N) has significantly reshuffled senior leadership in its investment bank.
+
+---
+
+### 2026-08-17 20:41:50  #其他
+
+【廣州白雲山中一藥業障眼明片獲批開展乾眼適應症臨床試驗】據廣藥白雲山公眾號訊息，近日，廣州白雲山中一藥業獨家核心品種——障眼明片正式獲得國家藥品監督管理局核發《藥物臨床試驗批准通知書》，批准開展新增“乾眼”適應症臨床試驗（註冊分類2.3類改良型新藥）。
+
+---
+
+### 2026-08-17 20:41:31  #MKT News #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) said AI systems in its Ports‑Pike project could generate $150–200 billion in revenue; its Ohio factory could equip roughly 1.5 million GPUs per system generation.
+
+---
+
+### 2026-08-17 20:41:25  #市場
+
+法國10年期國債收益率上升1個基點，至2009年6月以來的最高水平4.0516%。
+
+---
+
+### 2026-08-17 20:41:18  #其他
+
+【國家醫保局：首批31個DRG基層病組確定 將以醫保支付引導常見病治療下沉】經過多輪專家論證，在即將印發的按病種付費3.0版分組方案中，DRG技術指導組最終確定首批31個DRG基層病組推薦名單，包含27個內科病種和4個手術操作病種，包括高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病、等27個內科病組，以及4個手術操作病組。國家醫保局方面表示，基層病組主要針對適宜在符合條件的二級及以下醫療機構收治，適合基層診治的常見病、多發病、康復期病種及病情穩定的慢性病，篩選重點考察臨床路徑是否清晰、基層診治佔比以及不同層級醫療機構次均費用差異等。基層病組核心特徵是“同病同付”，即在一個統籌區內，同一病組在三級醫院與一、二級醫院的醫保支付標準一致，以支付槓桿引導常見病、多發病合理下沉基層治療。31個DRG病組只是開始，後續將動態監測並適時調整。 (財聯社)
+
+---
+
+### 2026-08-17 20:40:51  #MKT News #Important #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish
+
+France's 10-year bond yield rose 1bp to 4.0516%, its highest level since June 2009.
+
+---
+
+### 2026-08-17 20:40:41  #其他
+
+英偉達：俄亥俄工廠每一代系統或將配備約150萬顆GPU。
+
+---
+
+### 2026-08-17 20:40:34  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): OpenAI commits to large-scale deployment of NVIDIA AI infrastructure by 2030.
+
+---
+
+### 2026-08-17 20:40:28  #其他
+
+英偉達：Ports‑Pike專案的AI系統有望實現1500‑2000億美元營收。
+
+---
+
+### 2026-08-17 20:40:17  #MKT News #Market Themes #AI Revolution
+
+OpenAI will continue investing in safety architecture and control measures.
+
+---
+
+### 2026-08-17 20:40:00  #公司
+
+【瑞聯新材：與華星印刷簽署技術許可協議，開展印刷OLED材料業務】瑞聯新材公告，公司與廣州華星光電印刷顯示技術有限公司於近日簽署《技術許可協議》，華星印刷將其在印刷OLED材料領域的相關專利及技術秘密許可給公司使用，公司及子公司在許可範圍內開展印刷OLED材料的研發、生產與銷售活動。協議有效期內，公司可在前期專案開發階段無償使用相關專利及技術秘密；若實現量產，許可費用按許可產品銷售額的一定比例計算。本次合作標誌著公司正式切入印刷OLED終端材料賽道。
+
+---
+
+### 2026-08-17 20:39:49  #MKT News #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
+
+U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.3%, Nasdaq futures' gains narrowed to 0.2%.
+
+---
+
+### 2026-08-17 20:39:17  #Trading Economics #Economy #United States #NY Empire State Manufacturing Index #Importance 2
+
+New York Manufacturing Activity Surprisingly Accelerates — The New York Fed’s Empire State Manufacturing Index rose to 20.6 in August 2026 from 15.6 in July and largely beating market forecasts of 11. The lates data showed that New York State manufacturing activity grew for a second month and to the greatest extent since late 2021, as both new orders and shipments continued to strengthen. Meanwhile, unfilled orders climbed notably amid substantially longer delivery times. Falling inventories suggested further deterioration in supply availability. Employment and the average workweek rose modestly, while input price pressures accelerated. Selling price growth remained elevated but moderated for a second consecutive month. Despite these cost and supply pressures, firms maintained an optimistic outlook for business activity.
 
 ---
 
@@ -18195,89 +18387,5 @@ An official at Indonesia's disaster management agency said the earthquake death 
 ### 2026-08-15 16:42:46  #國際
 
 【印尼地震死亡人數升至38人】印尼國家抗災署今天（8月15日）下午表示，今天凌晨發生的印尼強震已造成38人死亡，另有2人重傷，11人輕傷。（CCTV國際時訊）
-
----
-
-### 2026-08-15 16:39:18  #MKT News
-
-【Japanese PM Takaichi offers remote worship toward Yasukuni Shrine】Japanese Prime Minister Takaichi on the 15th, ahead of a national memorial ceremony, performed a remote worship facing Yasukuni Shrine from the Budokan parking lot, following the shrine ritual of two bows, two claps and one bow—an action treated as a substitute for an in-person visit. She also, in her capacity as LDP president, presented a tamagushi offering to the shrine. Japan’s defense minister and several other politicians visited Yasukuni the same day. The acts drew strong opposition from domestic peace advocates. Yasukuni Shrine in Tokyo’s Chiyoda ward enshrines 14 Class-A World War II war criminals, including former prime minister Hideki Tojo.
-
----
-
-### 2026-08-15 16:38:32  #國際
-
-印度尼西亞災害管理局官員表示，地震死亡人數已上升至38人。
-
----
-
-### 2026-08-15 16:38:18  #國際
-
-【韓國政府及朝野政黨抨擊日本政要參拜靖國神社】韓國政府及朝野政黨15日抨擊日本政要當天向供奉有二戰甲級戰犯的靖國神社供奉祭祀費及進行參拜，敦促日本領導人反思歷史、真誠反省。韓國外交部以發言人名義發表評論說，韓國政府對日本政要“忘卻歷史、違背時代潮流之舉”深感遺憾，強烈敦促日本領導人正視歷史，以實際行動展現對歷史的虛心反思和真誠反省。發言人強調，這是構建基於互信、面向未來的兩國關係的重要基礎。韓國執政黨共同民主黨發表書面宣告說，高市內閣在光復節當天參拜靖國神社，表明高市內閣與執政黨沆瀣一氣，否認戰爭罪行和戰敗歷史，是“違背時代潮流的挑釁”和“極其不負責任的行為”。韓國最大在野黨國民力量黨議員、國會外交統一委員會在野黨幹事金大植在社交媒體上表示，日本領導人應正視侵略歷史，以實際行動而非口頭表態展現真正的反省。（新華社）
-
----
-
-### 2026-08-15 16:37:27  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran foreign minister says Iran will not extend ceasefire with US】Aug 15 — Iran's foreign minister Araghchi told Iranian media he does not intend to extend the ceasefire agreement with the United States and has not decided whether to resume talks. He said the U.S. violated the Iran–U.S. memorandum of understanding and that hostilities have resumed, so there is no extension of the ceasefire. He added that Qatar and Pakistan, acting as mediators, are exchanging information and remain in contact with Iran, but that does not mean Washington and Tehran are negotiating.
-
----
-
-### 2026-08-15 16:36:10  #公司 #國際
-
-【大疆被列入“黑名單”，美法院裁定重審】據俄羅斯衛星社網站8月15日援引路透社訊息報道，美國聯邦上訴法院日前裁定，下級法院需重新審理中國無人機企業大疆公司被列入五角大樓“中國軍工企業”黑名單一案，認為此前判決依據非保密資訊，存在瑕疵。報道說，哥倫比亞特區巡迴上訴法院裁定指出，下級法院僅依賴公開資料就認定大疆“為中國國防工業基礎作出貢獻”，該判斷有誤。法院要求重審時，下級法院可審查機密檔案，並據此決定是否支援國防部的認定。（參考訊息）
-
----
-
-### 2026-08-15 16:33:35  #焦點 #國際
-
-【伊朗外長說無意延長停火協議】伊朗外交部長阿拉格齊今天（8月15日）在接受伊朗媒體採訪時表示，伊朗無意延長與美方的停火協議，且尚未決定是否重啟與美國的談判。美國已違反伊美諒解備忘錄，戰火已重燃，不存在所謂的“延長停火協議”。阿拉格齊還說，卡達和巴基斯坦作為調解方正開展交換資訊的工作，並與伊朗保持聯絡，但這並不意味著伊美雙方正在進行談判。此前，美國和伊朗方面6月17日公佈諒解備忘錄正式文字。根據這份檔案，美伊承諾在60天內進行談判並達成最終協議。（CCTV國際時訊）
-
----
-
-### 2026-08-15 16:31:26  #MKT News #Market Themes #AI Revolution
-
-【Lazard survey: AI threat to software prompts PE secondary-market investors to shift capital】Lazard's survey shows private equity secondary-market investors are reassessing software investments and reallocating capital while awaiting clearer evidence of AI-driven disruption to business models and valuations. 91% of respondents said the main moat against AI replacing software products is "proprietary data advantages and network effects difficult for AI to replicate." Only 4% reported no change to their software investment approach as of June.
-
----
-
-### 2026-08-15 16:27:01  #國際
-
-【伊朗稱霍爾木茲海峽歸屬無可爭議】伊朗司法總監埃傑伊今天（8月15日）表示，美國總統針對霍爾木茲海峽發表的荒謬言論，完全源於其個人幻覺。在現實世界中，這道重要國際水道的真正所有者和主導者是伊朗。埃傑伊強調，伊朗已在軍事層面證明，霍爾木茲海峽是伊朗領土與主權不可分割的一部分。 他補充道，無論從國際法角度還是國家主權準則來看，霍爾木茲海峽屬於伊朗都是明確且毫無爭議的客觀事實。 埃傑伊表示，特朗普及其顧問必須明白，霸權主義的靴子絕不可能踏上霍爾木茲海峽。（CCTV國際時訊）
-
----
-
-### 2026-08-15 16:17:36  #其他
-
-【頤和園、天壇等北京11家市屬公園加入京津冀旅遊景區聯票】記者從北京市公園管理中心瞭解到，近日，11家北京市屬公園正式納入京津冀旅遊景區聯票合作體系，具體為：頤和園、天壇公園、北海公園、中山公園、香山公園、景山公園、國家植物園（北園）、北京動物園、陶然亭公園、玉淵潭公園、百望山森林公園，進一步深化京津冀三地文旅資源互聯互通、共建共享，為遊客提供更多高品質、標誌性的北京旅遊精品選擇。此外，天津大沽口炮臺博物館、楊柳青石家大院等4家特色景區，河北天下第一關、長壽山等15家知名文旅點位也於近日相繼加入聯票體系，構建起京津冀全域聯動的文旅出遊新格局。（央視新聞）
-
----
-
-### 2026-08-15 16:03:25  #國際
-
-據黎巴嫩國家媒體報道，以色列在黎巴嫩南部發動的襲擊造成七人死亡。
-
----
-
-### 2026-08-15 16:01:27  #市場
-
-【雞蛋價格同比漲幅明顯 專家預測後市將趨於穩定】記者從北京新發地農產品批發市場瞭解到，這兩天普通雞蛋批發價比上月同期上漲約5.5%，較去年同期上漲約48%，日交易量為540噸，同比增加128噸。中國農業科學院農學經濟與發展研究所副研究員朱寧表示，就後市來看，因為臨近中秋國慶“雙節”以及大中小學開學，雞蛋的消費潛力將完全釋放，蛋價將規律性偏強執行，雞蛋供應則受二季度補欄較多的影響，近期新開產蛋雞較多，雞蛋市場供應有增長預期，有利於穩定蛋價，雞蛋價格大幅上漲的可能性不大。（央視新聞）
-
----
-
-### 2026-08-15 15:58:48  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-【IRGC says Iran forced 'most heavily armed army' to submit after six months of operations】Press TV quoted Islamic Revolutionary Guard Corps commander Major General Ahmad Vahidi on Saturday saying Iran’s offensive and defensive operations under heavy fire have forced "the most heavily armed army in history" to submit. Vahidi thanked the armed forces for six months of "unprecedented holy war," and described Iran’s conduct against what he called "the most bloodthirsty enemy in human history."
-
----
-
-### 2026-08-15 15:58:09  #國際
-
-【印尼東努沙登加拉省發生5.1級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼中部當地時間8月15日15時39分，東努沙登加拉省芒加萊縣魯滕鎮東北82公里處發生5.1級地震，震源深度10公里。（央視新聞）
-
----
-
-### 2026-08-15 15:57:46  #國際
-
-以色列軍方：對黎巴嫩南部納巴蒂耶和安薩爾的空襲是對阿里·塔赫爾高地我軍遭到襲擊的回應。
 
 ---

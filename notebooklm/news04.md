@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-22 15:57:05_
-_本檔包含 3355 則快訊，約 654686 字_
+_更新時間：2026-08-22 16:41:40_
+_本檔包含 3361 則快訊，約 653780 字_
+
+---
+
+### 2026-08-19 06:36:34  #其他
+
+OpenAI第二季度營收增長18%至67億美元，但虧損進一步擴大，業務增速落後於Anthropic。
+
+---
+
+### 2026-08-19 06:36:25  #其他
+
+Anthropic營收翻倍，達到116億美元。受Claude程式碼業務驅動，其實現高速擴張，營收規模首次超越OpenAI。
+
+---
+
+### 2026-08-19 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Falls by 4.04% — Top commodity losers are Platinum (-4.04%), Silver (-3.86%), Copper (-2.46%) and Gold (-1.83%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%).
+
+---
+
+### 2026-08-19 06:32:00  #國際
+
+土耳其總統府：以色列總理提出的指控缺乏嚴肅性，其目的是為以色列針對敘利亞主權和領土完整的非法空襲合法化。
+
+---
+
+### 2026-08-19 06:31:48  #MKT News #Market Themes #AI Revolution
+
+OpenAI said revenue rose to $6.7 bln in the three months to June, the Wall Street Journal reports.
+
+---
+
+### 2026-08-19 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Rises by 3.97% — Top commodity gainers are Natural Gas EU (3.97%), Natural gas (3.72%), Propane (3.48%), Crude Oil WTI (0.93%) and Brent Crude Oil (0.43%).
+
+---
+
+### 2026-08-19 06:29:33  #國際
+
+伊朗副外長加里巴巴迪：伊朗掌握自身命運，不會在壓力面前後退，本國人民將堅定反抗“脅迫與威脅”。
+
+---
+
+### 2026-08-19 06:25:25  #國際
+
+【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。（新華社）
+
+---
+
+### 2026-08-19 06:22:30  #其他
+
+OpenAI第二季度營收67億美元。
+
+---
+
+### 2026-08-19 06:21:59  #MKT News #Important
+
+Market sources say ANTHROPIC is expected to launch an IPO process within weeks.
+
+---
+
+### 2026-08-19 06:21:38  #其他
+
+OpenAI向投資者表示，第三季度業務增長已經提速。
+
+---
+
+### 2026-08-19 06:21:32  #其他
+
+Anthropic（二季度）營收較一季度實現翻倍以上增長。
+
+---
+
+### 2026-08-19 06:20:15  #其他 #焦點
+
+Anthropic預計將在數週內啟動IPO流程。
+
+---
+
+### 2026-08-19 06:18:12  #國際
+
+韓國LG新能源正與美方洽談無人機電池合作事宜。
+
+---
+
+### 2026-08-19 06:15:04  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Zealand Dollar (-0.47%), Australian Dollar (-0.29%), Polish Zloty (-0.26%), Japanese Yen (-0.12%) and British Pound (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile, Euro and Dollar Index were little changed.
+
+---
+
+### 2026-08-19 06:14:56  #其他
+
+【朝中社發文譴責韓美“乙支自由護盾”聯合軍演】當地時間19日，朝中社發表評論文章，譴責美韓17日起進行“乙支自由護盾”大規模聯合軍演。文章稱，針對敵人日趨進化的威脅行動，朝鮮需要用進一步升級的新力量作出應對。侵害和威脅朝鮮主權安全的敵人將時刻被鎖定在殲滅性報復手段的瞄準範圍內。（央視新聞）
+
+---
+
+### 2026-08-19 06:14:24  #宏觀
+
+英國首相伯納姆表示，作為權力移交的一部分，北部唐寧街10號將從財政部手中接管經濟增長相關權責。
+
+---
+
+### 2026-08-19 06:07:09  #國際
+
+以色列再次轟炸黎巴嫩南部地區。
+
+---
+
+### 2026-08-19 06:03:15  #市場
+
+現貨白銀日內跌1%，現報62.17美元/盎司。
+
+---
+
+### 2026-08-19 06:03:08  #其他
+
+中通快遞：第二季度包裹量為104.86億件，第二季度營收21.4億美元，第二季度每股收益56美分。
+
+---
+
+### 2026-08-19 06:02:01  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
+
+---
+
+### 2026-08-19 06:01:56  #市場
+
+紐約期銀日內跌1%，現報63.39美元/盎司。
+
+---
+
+### 2026-08-19 06:00:45  #市場 #焦點
+
+現貨白銀突破63美元/盎司，日內跌0.51%。
+
+---
+
+### 2026-08-19 06:00:08  #公司 #國際
+
+美國地面運輸委員會：決定啟動評估聯合太平洋鐵路公司與諾福克南方鐵路公司擬議合併交易價值的程式。
+
+---
+
+### 2026-08-19 05:58:28  #公司 #焦點 #國際
+
+美國地面運輸委員會：採納聯合太平洋鐵路公司與諾福克南方鐵路公司合併審議程式時間表，將該合併程式移出擱置狀態。
+
+---
+
+### 2026-08-19 05:48:18  #其他
+
+中國地震臺網正式測定：08月19日05時36分在青海海西州直轄區（北緯37.81度，東經95.63度）發生5.6級地震，震源深度10千米。
+
+---
+
+### 2026-08-19 05:48:12  #國際
+
+美國商務部長盧特尼克：美國商務部人口普查局剛剛釋出的分析報告顯示，2020年大選中有超過24000名非公民非法投票。這批人不只是完成選民登記，而是確確實實進行了非法投票。而這僅僅是開始。未來數週內，還有超過3200萬條選民記錄將接受分析，這些記錄很可能還會查出數萬名額外的非法投票者。
+
+---
+
+### 2026-08-19 05:41:36  #國際
+
+伊朗警告，在霍爾木茲海峽隱匿身份的船隻將面臨安全處置。
+
+---
+
+### 2026-08-19 05:40:20  #其他 #焦點
+
+中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-19 05:33:23  #公司
+
+【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”
+
+---
+
+### 2026-08-19 05:33:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'.
+
+---
+
+### 2026-08-19 05:31:52  #MKT News #GOOG.O
+
+According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers.
+
+---
+
+### 2026-08-19 05:30:46  #其他
+
+穆迪確認英偉達Aa1評級，展望維持正面。
+
+---
+
+### 2026-08-19 05:29:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook.
+
+---
+
+### 2026-08-19 05:25:54  #公司
+
+宣告顯示：伊拉克批准從9月1日起透過本地和國際公司出口原油的三個月機制。
+
+---
+
+### 2026-08-19 05:25:50  #MKT News
+
+Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations.
+
+---
+
+### 2026-08-19 05:25:11  #國際
+
+加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。
+
+---
+
+### 2026-08-19 05:19:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil.
 
 ---
 
@@ -20058,197 +20286,5 @@ Groq已以35億美元的估值融資3.5億美元。
 ### 2026-08-17 20:49:47  #MKT News
 
 South Africa's finance minister to present medium-term budget on Oct. 21.
-
----
-
-### 2026-08-17 20:49:41  #宏觀
-
-南非財政部長將於10月21日提交中期預算案。
-
----
-
-### 2026-08-17 20:49:36  #MKT News
-
-Groq raised $350 mln at a $3.5 bln valuation.
-
----
-
-### 2026-08-17 20:49:28  #公司
-
-據悉，BDT出售Alliance Laundry股份的交易將於週二定價。
-
----
-
-### 2026-08-17 20:47:17  #國際
-
-【OpenAI宣佈加入位於俄亥俄州派克縣的PORTS-Pike專案】OpenAI宣佈，已與SB Energy、NVIDIA及美國能源部合作，在俄亥俄州派克縣的PORTS-Pike技術園區獲得約8吉瓦的IT裝置。該專案預計在建設期至2032年的六年內創造35,000個建築崗位，以及2,500個長期運營崗位。SB Energy將根據與OpenAI簽訂的20年租賃協議，建設、擁有並運營該資料中心，並逐步交付容量。 OpenAI將成為客戶，利用該站點的容量，該站點將專門託管NVIDIA AI計算基礎設施。
-
----
-
-### 2026-08-17 20:47:08  #其他
-
-【渝昆高鐵昭通段車站建設進展順利】目前，渝昆高鐵雲貴站房一標專案正在加緊施工，多個車站工程進展順利。渝（重慶）昆（昆明）高鐵是國家“八縱八橫”高鐵網京昆高鐵的重要組成部分，設計行車時速350公里。（新華社）
-
----
-
-### 2026-08-17 20:46:16  #MKT News #Market Regions #Europe & UK #BCS.N
-
-Financial Times reports Barclays (BCS.N) has hired Mike Joo as co-CEO of its investment bank.
-
----
-
-### 2026-08-17 20:45:56  #市場
-
-義大利30年期國債收益率<IT30YT=RR>升至4.8185%，創下2023年11月以來新高。
-
----
-
-### 2026-08-17 20:45:43  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #DAX
-
-Italy's 30-year bond yield reached 4.8185%, the highest since November 2023.
-
----
-
-### 2026-08-17 20:45:27  #MKT News
-
-NVIDIA (NVDA.O): OpenAI's commitments by 2030 would correspond to roughly $600 billion of NVIDIA compute business.
-
----
-
-### 2026-08-17 20:45:19  #公司
-
-英偉達公司：OpenAI的相關承諾意味著，截至2030年，將產生約6000億美元的英偉達算力採購規模。
-
----
-
-### 2026-08-17 20:44:35  #MKT News #Market Regions #Europe & UK #BCS.N
-
-Financial Times reports Adeel Khan will be promoted to co-chief executive of Barclays (BCS.N), responsible for global markets.
-
----
-
-### 2026-08-17 20:44:31  #Trading Economics #Markets #Russia #currency #Importance 0
-
-Russian Ruble Hits 16-month Low — The Russian Ruble touched 87.09 against the USD, the lowest since April 2025. Over the past 4 weeks, US Dollar Russian Ruble gained 8.19%, and in the last 12 months, it increased 5.92%.
-
----
-
-### 2026-08-17 20:43:57  #其他
-
-英偉達：OPENAI將支付租金。
-
----
-
-### 2026-08-17 20:43:40  #市場
-
-匈牙利審查政府合同後，4IG股價下跌高達5.8%。
-
----
-
-### 2026-08-17 20:43:11  #國際
-
-英偉達：初始承諾的支付義務上限為1050億美元。
-
----
-
-### 2026-08-17 20:43:04  #MKT News #Market Regions #Greater China
-
-【Guangzhou Baiyunshan Zhongyi receives NMPA approval to trial Zhangyanming tablets for dry‑eye indication】Guangzhou Baiyunshan Zhongyi Pharmaceutical’s exclusive flagship product Zhangyanming tablets has received approval from the National Medical Products Administration (NMPA) to initiate clinical trials for a new "dry eye" indication. The program is registered as category 2.3 (modified new drug).
-
----
-
-### 2026-08-17 20:42:55  #其他
-
-OpenAI將透過ChatGPT提供8400萬美元的Codex額度。
-
----
-
-### 2026-08-17 20:42:28  #其他
-
-OpenAI承諾至2030年前大規模部署英偉達基礎設施。
-
----
-
-### 2026-08-17 20:42:15  #其他
-
-市場訊息：巴克萊銀行對投行部門高層進行大改組。阿迪爾·汗（Adeel Khan）將晉升為巴克萊(BCS.N)聯席執行長，負責全球市場業務。
-
----
-
-### 2026-08-17 20:42:13  #MKT News #BCS.N
-
-Financial Times reports Barclays (BCS.N) has significantly reshuffled senior leadership in its investment bank.
-
----
-
-### 2026-08-17 20:41:50  #其他
-
-【廣州白雲山中一藥業障眼明片獲批開展乾眼適應症臨床試驗】據廣藥白雲山公眾號訊息，近日，廣州白雲山中一藥業獨家核心品種——障眼明片正式獲得國家藥品監督管理局核發《藥物臨床試驗批准通知書》，批准開展新增“乾眼”適應症臨床試驗（註冊分類2.3類改良型新藥）。
-
----
-
-### 2026-08-17 20:41:31  #MKT News #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) said AI systems in its Ports‑Pike project could generate $150–200 billion in revenue; its Ohio factory could equip roughly 1.5 million GPUs per system generation.
-
----
-
-### 2026-08-17 20:41:25  #市場
-
-法國10年期國債收益率上升1個基點，至2009年6月以來的最高水平4.0516%。
-
----
-
-### 2026-08-17 20:41:18  #其他
-
-【國家醫保局：首批31個DRG基層病組確定 將以醫保支付引導常見病治療下沉】經過多輪專家論證，在即將印發的按病種付費3.0版分組方案中，DRG技術指導組最終確定首批31個DRG基層病組推薦名單，包含27個內科病種和4個手術操作病種，包括高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病、等27個內科病組，以及4個手術操作病組。國家醫保局方面表示，基層病組主要針對適宜在符合條件的二級及以下醫療機構收治，適合基層診治的常見病、多發病、康復期病種及病情穩定的慢性病，篩選重點考察臨床路徑是否清晰、基層診治佔比以及不同層級醫療機構次均費用差異等。基層病組核心特徵是“同病同付”，即在一個統籌區內，同一病組在三級醫院與一、二級醫院的醫保支付標準一致，以支付槓桿引導常見病、多發病合理下沉基層治療。31個DRG病組只是開始，後續將動態監測並適時調整。 (財聯社)
-
----
-
-### 2026-08-17 20:40:51  #MKT News #Important #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish
-
-France's 10-year bond yield rose 1bp to 4.0516%, its highest level since June 2009.
-
----
-
-### 2026-08-17 20:40:41  #其他
-
-英偉達：俄亥俄工廠每一代系統或將配備約150萬顆GPU。
-
----
-
-### 2026-08-17 20:40:34  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): OpenAI commits to large-scale deployment of NVIDIA AI infrastructure by 2030.
-
----
-
-### 2026-08-17 20:40:28  #其他
-
-英偉達：Ports‑Pike專案的AI系統有望實現1500‑2000億美元營收。
-
----
-
-### 2026-08-17 20:40:17  #MKT News #Market Themes #AI Revolution
-
-OpenAI will continue investing in safety architecture and control measures.
-
----
-
-### 2026-08-17 20:40:00  #公司
-
-【瑞聯新材：與華星印刷簽署技術許可協議，開展印刷OLED材料業務】瑞聯新材公告，公司與廣州華星光電印刷顯示技術有限公司於近日簽署《技術許可協議》，華星印刷將其在印刷OLED材料領域的相關專利及技術秘密許可給公司使用，公司及子公司在許可範圍內開展印刷OLED材料的研發、生產與銷售活動。協議有效期內，公司可在前期專案開發階段無償使用相關專利及技術秘密；若實現量產，許可費用按許可產品銷售額的一定比例計算。本次合作標誌著公司正式切入印刷OLED終端材料賽道。
-
----
-
-### 2026-08-17 20:39:49  #MKT News #S&P500 #Impact bearish #Dow #Nasdaq100 #Impact bullish
-
-U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.3%, Nasdaq futures' gains narrowed to 0.2%.
-
----
-
-### 2026-08-17 20:39:17  #Trading Economics #Economy #United States #NY Empire State Manufacturing Index #Importance 2
-
-New York Manufacturing Activity Surprisingly Accelerates — The New York Fed’s Empire State Manufacturing Index rose to 20.6 in August 2026 from 15.6 in July and largely beating market forecasts of 11. The lates data showed that New York State manufacturing activity grew for a second month and to the greatest extent since late 2021, as both new orders and shipments continued to strengthen. Meanwhile, unfilled orders climbed notably amid substantially longer delivery times. Falling inventories suggested further deterioration in supply availability. Employment and the average workweek rose modestly, while input price pressures accelerated. Selling price growth remained elevated but moderated for a second consecutive month. Despite these cost and supply pressures, firms maintained an optimistic outlook for business activity.
 
 ---

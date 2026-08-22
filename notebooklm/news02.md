@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-22 15:57:05_
-_本檔包含 3400 則快訊，約 653718 字_
+_更新時間：2026-08-22 16:41:40_
+_本檔包含 3407 則快訊，約 653981 字_
+
+---
+
+### 2026-08-21 07:51:15  #焦點 #國際
+
+【伊朗官員：計劃襲擊原油出口設施，意在美國中期選舉前打擊特朗普】一名伊朗高階官員表示，德黑蘭正計劃發動經濟戰，包括襲擊海灣地區的石油繞行出口設施，意在推高美國汽油價格，並在美國11月中期選舉前打擊特朗普所在政黨的支援率。據該官員描述，這項計劃的目標將包括航運商為避開霍爾木茲海峽而使用的兩條主要替代路線：沙烏地阿拉伯的延布輸油管道以及阿聯酋富查伊拉石油碼頭。這兩處設施合計每天處理約550萬桶石油。如果伊朗同時切斷美國支援的“影子艦隊”目前仍經霍爾木茲海峽運輸的約500萬桶/日石油供應，那麼一旦行動成功，將削弱相當大一部分替代運輸能力，而正是這些渠道在更廣泛的封鎖背景下維持了部分海灣石油出口。考慮到在當前緊張局勢下，布倫特原油價格已經接近每桶93美元，任何針對延布或富查伊拉的可信行動，都可能被交易員視為規模遠大於此前供應中斷的衝擊。
+
+---
+
+### 2026-08-21 07:50:56  #公司
+
+【8月以來融資淨買入居前的“六張網”建設產業鏈相關上市公司梳理】作為“十五五”重大建設工程，“六張網”拉動投資效應持續顯現。“十五五”時期，僅國家水網、新型電網、城市地下管網3項投資合計就超16萬億元，上市公司也在各自領域積極佈局，搶抓市場紅利。據證券時報·資料寶統計，A股上市公司中涉及“六張網”建設產業鏈的上市公司超過百家，涵蓋通訊、計算機、電力裝置、交通運輸、建築裝飾等行業。從機構關注度來看，8月以來，有7股獲機構調研，密爾克衛、偉星新材、天孚通訊獲機構調研家數居前，分別達到84家、84家、67家。從資金面上來看，8月以來，18股獲得融資淨買入超過1億元，協創資料、寒武紀、浪潮資訊獲淨買入金額居前，分別達到6.95億元、6.84億元、6.24億元。
+
+---
+
+### 2026-08-21 07:50:19  #公司 #市場
+
+【新股提示：馬礦股份今日申購】今日可申購滬市主機板馬礦股份。馬礦股份發行市盈率13.81倍，申購程式碼為780123，申購價格為6.65元/股。公司主營鐵礦石的採選、綜合利用及鐵精粉、鉬精礦銷售。
+
+---
+
+### 2026-08-21 07:47:47  #市場 #國際
+
+基準10年期日本公債期貨早盤下跌0.28點。
+
+---
+
+### 2026-08-21 07:47:36  #市場 #國際
+
+日本日經平均指數期貨早盤下跌1.6%。
+
+---
+
+### 2026-08-21 07:47:20  #行業 #觀點
+
+【中信建投：燃機市場高景氣延續，堅定看好國產燃機出海】中信建投研報表示，2026年第二季度全球燃機訂單約38GW，創單季度歷史新高，美國貢獻接近一半；同時遠期聯合迴圈專案報價顯著上升，2030年前後交付槽位仍高度稀缺。PJM提出大型資料中心需同步匹配新增電源，否則可能面臨限電及容量市場約束，進一步增強AIDC自備電源建設的緊迫性與確定性。此外，傑瑞股份半年報披露燃機機組及配套裝置自2025年11月起累計新增訂單超過31億美元，全球燃氣輪機高景氣度延續。二季度全球燃機訂單創歷史新高，三巨頭訂單、收入、利潤率、產能、指引同步高增並集體上修，在手訂單規模為未來交付提供極強可見度。當前全球燃機需求高景氣與交付槽位緊張並存，行業供需缺口仍將延續。國產燃機憑藉更短的交付週期、較高的價效比及不斷增強的產品競爭力，有望加快獲取海外市場份額。堅定看好國產燃機出海。
+
+---
+
+### 2026-08-21 07:43:18  #國際
+
+【印度古吉拉特邦發生假酒中毒事件，致9人死亡】據印度方面8月21日訊息，印度西部古吉拉特邦發生假酒中毒事件，已造成9人死亡，另有39人在醫院接受治療。訊息稱，此次事件發生在該邦包納加爾地區，陸續有多地居民在飲用假酒後死亡，死者血液樣本檢測結果顯示含有甲醇。警方隨後展開調查，將21人列為嫌疑人。當地警方表示，目前已逮捕13名嫌疑人，包括一名被指主謀的男子。有一名嫌疑人飲用涉事假酒後死亡。（央視新聞）
+
+---
+
+### 2026-08-21 07:42:59  #公司 #焦點
+
+三星計劃最高向股東返還790億美元。
+
+---
+
+### 2026-08-21 07:39:15  #資料 #市場 #央行 #國際
+
+【日本通脹加速，為日本央行加息提供依據】日本核心物價指標連續第二個月加速上行，日本央行有望在短期內再度加息，市場愈發猜測央行最早將於9月採取加息行動。日本總務省週五公佈，7月剔除生鮮食品的消費者物價指數同比上漲1.8%，高於上月1.6%的漲幅，該資料與經濟學家預期中值一致。同時剔除生鮮食品與能源的物價指數是日本央行密切關注的核心通脹指標，同比上漲1.9%；整體CPI同樣同比上漲1.9%。此次通脹抬升部分受能源推動，能源價格同比上漲0.6%，扭轉了6月小幅下滑的態勢。數週前日本央行行長植田和男釋放訊號，稱政策當局或將加快政策正常化步伐，本次通脹資料為央行加息提供支撐。儘管美日兩國7月底罕見實施聯合匯市干預，但日元持續走弱仍帶來物價上行風險，市場投資者愈發確信日本央行將於下月啟動加息。
+
+---
+
+### 2026-08-21 07:37:50  #Trading Economics #Economy #Japan #Core Inflation Rate #Importance 2
+
+Japan Core Inflation Rate Hits 4-Month High — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.8% year-on-year in July 2026, following a 1.6% rise in June. It was the highest core inflation rate since March and was in line with market forecasts of 1.8%. Still, the latest reading remained below the Bank of Japan’s 2% target for a sixth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict.
+
+---
+
+### 2026-08-21 07:37:23  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
+
+Japan July national CPI (unadjusted) MoM +0.4%, prior 0.0%.
+
+---
+
+### 2026-08-21 07:37:16  #MKT News #Economic Calendar #Important
+
+Japan | CPI (MoM) (Jul) | actual 0.4% | previous 0%
+
+---
+
+### 2026-08-21 07:36:30  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Set for Second Straight Weekly Rise — Brent crude traded above $93 per barrel on Friday and was on track to post a second consecutive weekly gain, rising more than 5% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an "economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets.
 
 ---
 
@@ -20518,41 +20596,5 @@ US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged hig
 ### 2026-08-20 07:31:47  #觀點
 
 【中信建投：市場格局尚未定局，掌控稀缺資料與造數閉環能力的企業有望迎來核心溢價】中信建投研報指出，物理AI正接棒成為下一階段AI增長的核心變數。物理世界資料作為貫穿感知至反饋的關鍵引擎，面臨巨大需求剛性缺口。受制於保真、規模與成本的“不可能三角”，物理世界資料獲取倒逼行業有望迎來三重變革：商業模式端透過社會化眾包採數，技術正規化端依託世界模型虛擬造數，資產屬性端躍升為企業高溢價核心無形資產。供需失衡驅動物理資料資產價值重估，資本加速向資料基礎設施與評測集聚。市場格局尚未定局，掌控稀缺資料與造數閉環能力的企業有望迎來核心溢價。
-
----
-
-### 2026-08-20 07:31:23  #其他
-
-【結束11日淨流出 昨日ETF資金整體大幅淨流入557.28億元】8月19日，ETF資金整體淨流入557.28億元，股票型淨流入529.07億元，寬基型淨流入394.09億元。當日ETF資金淨流入榜單排名前10中有8只為寬基ETF,前3依次為：華泰柏瑞滬深300ETF（510300）淨流入54.31億元，華夏上證科創板50成份ETF（588000）淨流入44.18億元，易方達創業板ETF（159915）淨流入43.38億元。
-
----
-
-### 2026-08-20 07:26:28  #公司
-
-【科技賽道企業密集使用 定向可轉債併購受青睞】在近年來不斷活躍的併購市場中，定向可轉債作為兼具債底保護與股性彈性的創新支付工具，越來越受上市公司青睞。8月15日，精測電子披露公告，擬以發行股份、可轉債搭配支付現金的方式，收購上海精測半導體技術有限公司41.17%股權。截至目前，該交易涉及的審計、評估、法律盡調等工作仍在推進。據證券時報記者不完全統計，今年以來已有至少12家上市公司釋出將定向可轉債作為併購支付工具相關預案或最新進展，電子資訊等領域相關案例居多。業內人士表示，定向可轉債透過“債底保護+股性彈性”的雙重設計，既能滿足交易對手對本金安全的需求，又可透過轉股條款分享企業成長紅利，尤其適用於輕資產、高研發投入的科技企業併購。
-
----
-
-### 2026-08-20 07:24:45  #公司
-
-【支援措施落地 中小公募差異化突圍】近日，面向中小公募機構重啟的新一批15只攤餘成本法基金正式上報，產品均為63個月封閉期的債券基金，目前證監會已接收申報材料。在業內看來，此舉是支援中小基金公司規範健康發展一攬子措施的實質性落地，為中小基金公司從“基礎規模積累”向“工具化產品轉型”的戰略定位提供了重要鋪墊。近年來，包括外資、內資在內的部分中小基金公司立足於自身稟賦，在探索差異化發展的道路上已卓有成效。比如，一些外資公募機構著力發展跨境業務、一些內資公募機構深耕定增業務等，都已打造成為業內“招牌”。業內人士認為，中小公募機構由於資源投入能力有限，需要集中力量深耕少數擅長的領域，把細分方向的研究能力做深做實，持續打磨投研體系，積累長期業績，把特色產品優勢沉澱為市場品牌認知。（中國證券報）
-
----
-
-### 2026-08-20 07:23:08  #其他
-
-【“為情緒價值買單”成消費新口號 “悅己經濟”有望成為消費市場新引擎】從LABUBU（拉布布）火爆全球，到各大品牌IP聯名款頻頻出圈，“為情緒價值買單”成為年輕一代的消費口號，IP衍生消費品蘊藏廣闊空間，“悅己經濟”有望成為消費市場新引擎。暑期消費市場正值旺季。近期，證券時報記者走訪多地商圈發現，依託IP衍生的消費持續升溫，二次元穀子經濟、各類品牌“IP+消費”等新興消費業態表現亮眼，為線下消費注入新活力。
-
----
-
-### 2026-08-20 07:22:42  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Firm on Middle East Uncertainty — Brent crude held near $92 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month.
-
----
-
-### 2026-08-20 07:21:20  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Firm on Middle East Uncertainty — Crude oil held near $86 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month.
 
 ---

@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-22 15:57:05_
-_本檔包含 3285 則快訊，約 654186 字_
+_更新時間：2026-08-22 16:41:40_
+_本檔包含 3253 則快訊，約 654120 字_
+
+---
+
+### 2026-08-20 07:31:23  #其他
+
+【結束11日淨流出 昨日ETF資金整體大幅淨流入557.28億元】8月19日，ETF資金整體淨流入557.28億元，股票型淨流入529.07億元，寬基型淨流入394.09億元。當日ETF資金淨流入榜單排名前10中有8只為寬基ETF,前3依次為：華泰柏瑞滬深300ETF（510300）淨流入54.31億元，華夏上證科創板50成份ETF（588000）淨流入44.18億元，易方達創業板ETF（159915）淨流入43.38億元。
+
+---
+
+### 2026-08-20 07:26:28  #公司
+
+【科技賽道企業密集使用 定向可轉債併購受青睞】在近年來不斷活躍的併購市場中，定向可轉債作為兼具債底保護與股性彈性的創新支付工具，越來越受上市公司青睞。8月15日，精測電子披露公告，擬以發行股份、可轉債搭配支付現金的方式，收購上海精測半導體技術有限公司41.17%股權。截至目前，該交易涉及的審計、評估、法律盡調等工作仍在推進。據證券時報記者不完全統計，今年以來已有至少12家上市公司釋出將定向可轉債作為併購支付工具相關預案或最新進展，電子資訊等領域相關案例居多。業內人士表示，定向可轉債透過“債底保護+股性彈性”的雙重設計，既能滿足交易對手對本金安全的需求，又可透過轉股條款分享企業成長紅利，尤其適用於輕資產、高研發投入的科技企業併購。
+
+---
+
+### 2026-08-20 07:24:45  #公司
+
+【支援措施落地 中小公募差異化突圍】近日，面向中小公募機構重啟的新一批15只攤餘成本法基金正式上報，產品均為63個月封閉期的債券基金，目前證監會已接收申報材料。在業內看來，此舉是支援中小基金公司規範健康發展一攬子措施的實質性落地，為中小基金公司從“基礎規模積累”向“工具化產品轉型”的戰略定位提供了重要鋪墊。近年來，包括外資、內資在內的部分中小基金公司立足於自身稟賦，在探索差異化發展的道路上已卓有成效。比如，一些外資公募機構著力發展跨境業務、一些內資公募機構深耕定增業務等，都已打造成為業內“招牌”。業內人士認為，中小公募機構由於資源投入能力有限，需要集中力量深耕少數擅長的領域，把細分方向的研究能力做深做實，持續打磨投研體系，積累長期業績，把特色產品優勢沉澱為市場品牌認知。（中國證券報）
+
+---
+
+### 2026-08-20 07:23:08  #其他
+
+【“為情緒價值買單”成消費新口號 “悅己經濟”有望成為消費市場新引擎】從LABUBU（拉布布）火爆全球，到各大品牌IP聯名款頻頻出圈，“為情緒價值買單”成為年輕一代的消費口號，IP衍生消費品蘊藏廣闊空間，“悅己經濟”有望成為消費市場新引擎。暑期消費市場正值旺季。近期，證券時報記者走訪多地商圈發現，依託IP衍生的消費持續升溫，二次元穀子經濟、各類品牌“IP+消費”等新興消費業態表現亮眼，為線下消費注入新活力。
+
+---
+
+### 2026-08-20 07:22:42  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Firm on Middle East Uncertainty — Brent crude held near $92 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month.
+
+---
+
+### 2026-08-20 07:21:20  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Firm on Middle East Uncertainty — Crude oil held near $86 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month.
 
 ---
 
@@ -19604,233 +19640,5 @@ Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainer
 ### 2026-08-19 06:37:17  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
 
 【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic.
-
----
-
-### 2026-08-19 06:36:34  #其他
-
-OpenAI第二季度營收增長18%至67億美元，但虧損進一步擴大，業務增速落後於Anthropic。
-
----
-
-### 2026-08-19 06:36:25  #其他
-
-Anthropic營收翻倍，達到116億美元。受Claude程式碼業務驅動，其實現高速擴張，營收規模首次超越OpenAI。
-
----
-
-### 2026-08-19 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 4.04% — Top commodity losers are Platinum (-4.04%), Silver (-3.86%), Copper (-2.46%) and Gold (-1.83%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%).
-
----
-
-### 2026-08-19 06:32:00  #國際
-
-土耳其總統府：以色列總理提出的指控缺乏嚴肅性，其目的是為以色列針對敘利亞主權和領土完整的非法空襲合法化。
-
----
-
-### 2026-08-19 06:31:48  #MKT News #Market Themes #AI Revolution
-
-OpenAI said revenue rose to $6.7 bln in the three months to June, the Wall Street Journal reports.
-
----
-
-### 2026-08-19 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Rises by 3.97% — Top commodity gainers are Natural Gas EU (3.97%), Natural gas (3.72%), Propane (3.48%), Crude Oil WTI (0.93%) and Brent Crude Oil (0.43%).
-
----
-
-### 2026-08-19 06:29:33  #國際
-
-伊朗副外長加里巴巴迪：伊朗掌握自身命運，不會在壓力面前後退，本國人民將堅定反抗“脅迫與威脅”。
-
----
-
-### 2026-08-19 06:25:25  #國際
-
-【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。（新華社）
-
----
-
-### 2026-08-19 06:22:30  #其他
-
-OpenAI第二季度營收67億美元。
-
----
-
-### 2026-08-19 06:21:59  #MKT News #Important
-
-Market sources say ANTHROPIC is expected to launch an IPO process within weeks.
-
----
-
-### 2026-08-19 06:21:38  #其他
-
-OpenAI向投資者表示，第三季度業務增長已經提速。
-
----
-
-### 2026-08-19 06:21:32  #其他
-
-Anthropic（二季度）營收較一季度實現翻倍以上增長。
-
----
-
-### 2026-08-19 06:20:15  #其他 #焦點
-
-Anthropic預計將在數週內啟動IPO流程。
-
----
-
-### 2026-08-19 06:18:12  #國際
-
-韓國LG新能源正與美方洽談無人機電池合作事宜。
-
----
-
-### 2026-08-19 06:15:04  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Zealand Dollar (-0.47%), Australian Dollar (-0.29%), Polish Zloty (-0.26%), Japanese Yen (-0.12%) and British Pound (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile, Euro and Dollar Index were little changed.
-
----
-
-### 2026-08-19 06:14:56  #其他
-
-【朝中社發文譴責韓美“乙支自由護盾”聯合軍演】當地時間19日，朝中社發表評論文章，譴責美韓17日起進行“乙支自由護盾”大規模聯合軍演。文章稱，針對敵人日趨進化的威脅行動，朝鮮需要用進一步升級的新力量作出應對。侵害和威脅朝鮮主權安全的敵人將時刻被鎖定在殲滅性報復手段的瞄準範圍內。（央視新聞）
-
----
-
-### 2026-08-19 06:14:24  #宏觀
-
-英國首相伯納姆表示，作為權力移交的一部分，北部唐寧街10號將從財政部手中接管經濟增長相關權責。
-
----
-
-### 2026-08-19 06:07:09  #國際
-
-以色列再次轟炸黎巴嫩南部地區。
-
----
-
-### 2026-08-19 06:03:15  #市場
-
-現貨白銀日內跌1%，現報62.17美元/盎司。
-
----
-
-### 2026-08-19 06:03:08  #其他
-
-中通快遞：第二季度包裹量為104.86億件，第二季度營收21.4億美元，第二季度每股收益56美分。
-
----
-
-### 2026-08-19 06:02:01  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
-
----
-
-### 2026-08-19 06:01:56  #市場
-
-紐約期銀日內跌1%，現報63.39美元/盎司。
-
----
-
-### 2026-08-19 06:00:45  #市場 #焦點
-
-現貨白銀突破63美元/盎司，日內跌0.51%。
-
----
-
-### 2026-08-19 06:00:08  #公司 #國際
-
-美國地面運輸委員會：決定啟動評估聯合太平洋鐵路公司與諾福克南方鐵路公司擬議合併交易價值的程式。
-
----
-
-### 2026-08-19 05:58:28  #公司 #焦點 #國際
-
-美國地面運輸委員會：採納聯合太平洋鐵路公司與諾福克南方鐵路公司合併審議程式時間表，將該合併程式移出擱置狀態。
-
----
-
-### 2026-08-19 05:48:18  #其他
-
-中國地震臺網正式測定：08月19日05時36分在青海海西州直轄區（北緯37.81度，東經95.63度）發生5.6級地震，震源深度10千米。
-
----
-
-### 2026-08-19 05:48:12  #國際
-
-美國商務部長盧特尼克：美國商務部人口普查局剛剛釋出的分析報告顯示，2020年大選中有超過24000名非公民非法投票。這批人不只是完成選民登記，而是確確實實進行了非法投票。而這僅僅是開始。未來數週內，還有超過3200萬條選民記錄將接受分析，這些記錄很可能還會查出數萬名額外的非法投票者。
-
----
-
-### 2026-08-19 05:41:36  #國際
-
-伊朗警告，在霍爾木茲海峽隱匿身份的船隻將面臨安全處置。
-
----
-
-### 2026-08-19 05:40:20  #其他 #焦點
-
-中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-19 05:33:23  #公司
-
-【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”
-
----
-
-### 2026-08-19 05:33:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'.
-
----
-
-### 2026-08-19 05:31:52  #MKT News #GOOG.O
-
-According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers.
-
----
-
-### 2026-08-19 05:30:46  #其他
-
-穆迪確認英偉達Aa1評級，展望維持正面。
-
----
-
-### 2026-08-19 05:29:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook.
-
----
-
-### 2026-08-19 05:25:54  #公司
-
-宣告顯示：伊拉克批准從9月1日起透過本地和國際公司出口原油的三個月機制。
-
----
-
-### 2026-08-19 05:25:50  #MKT News
-
-Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations.
-
----
-
-### 2026-08-19 05:25:11  #國際
-
-加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。
-
----
-
-### 2026-08-19 05:19:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil.
 
 ---
