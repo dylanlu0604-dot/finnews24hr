@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23 04:07:44",
-  "count": 16132,
+  "updated": "2026-08-23 04:11:39",
+  "count": 16131,
   "items": [
     {
       "id": "5053423",
@@ -147427,16 +147427,6 @@
         "其他"
       ],
       "text": "利比亞發電站附近發生爆炸，多臺發電機組停止執行。"
-    },
-    {
-      "id": "mkt:01a0070b-9b75-7aab-904a-f498d8e2e026",
-      "time": "2026-08-16 04:09:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sources at Libya's electricity company said some generating units at the Harsha power plant went offline after an explosion."
     }
   ]
 }
