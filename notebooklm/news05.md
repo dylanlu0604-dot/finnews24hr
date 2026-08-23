@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:56:19_
-_本檔包含 3047 則快訊，約 636776 字_
+_更新時間：2026-08-23 22:25:48_
+_本檔包含 3051 則快訊，約 636365 字_
+
+---
+
+### 2026-08-18 08:15:58  #MKT News #9984.T #Impact bullish
+
+SoftBank Group shares rose 5.5%.
+
+---
+
+### 2026-08-18 08:15:28  #公司 #市場
+
+軟銀集團股價上漲5.5%。
+
+---
+
+### 2026-08-18 08:14:41  #其他
+
+哥倫比亞總統：初步資料估算地震損失達30萬億比索。
+
+---
+
+### 2026-08-18 08:13:51  #其他
+
+【雲南：全學段普及人工智慧通識教育】 日前，雲南省教育廳等部門聯合印發《雲南省“人工智慧+教育”行動方案》，方案提出，全學段普及人工智慧通識教育。構建中小學人工智慧通識教育課程體系，編制和推廣使用人工智慧通識教育讀本和教材，指導各地各校開好人工智慧通識課程，確保四年級、七年級每週1課時，其他年級每學年不少於8個課時。鼓勵各地各校因地制宜，開發融入生物多樣性、綠色能源等本土元素的特色人工智慧融合課程。推動職業院校將人工智慧納入公共基礎課與專業拓展課，中職側重基礎認知與工具應用，高職側重場景應用與方案設計，課程實踐教學內容不低於50%。推動高校分類建設人工智慧公共基礎課模組，覆蓋文、理、工、農、醫等全學科，原則上不少於2學分或32學時。
+
+---
+
+### 2026-08-18 08:13:39  #公司
+
+微軟、Salesforce與ADP意向收購人力資源科技公司Darwinbox。
+
+---
+
+### 2026-08-18 08:13:11  #其他
+
+【雲南：到2030年實現人工智慧通識教育全學段覆蓋】 日前，雲南省教育廳等部門聯合印發《雲南省“人工智慧+教育”行動方案》，方案提出，到2030年，實現人工智慧通識教育全學段覆蓋，建成專兼結合的人工智慧通識教育師資隊伍，全面提升師生人工智慧素養和應用能力，推動人工智慧人才培養規模和質量顯著提升，賦能學生學習、教師教學、教育治理，支撐科研創新與國際合作，構建適配需求的基礎設施與服務支撐體系。
+
+---
+
+### 2026-08-18 08:11:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Flat After Weak Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, pressured by persistent tensions in the Middle East and rising Treasury yields. In regular trading on Monday, the Dow fell 0.51%, the S&P 500 declined 0.52% and the Nasdaq Composite lost 0.32%. Ten of the 11 S&P sectors ended lower, led to the downside by communication services, consumer staples and financials. The declines came as oil prices climbed higher on fading prospects for a new peace agreement between the US and Iran, while efforts to reopen the Strait of Hormuz remained deadlocked. The 30-year Treasury yield also climbed to its highest level since 2007, reflecting concerns over inflation and rising government spending. Investors now turn their attention to retail earnings due this week from Home Depot, Lowe’s and Walmart for fresh insights on consumer strength.
+
+---
+
+### 2026-08-18 08:11:22  #MKT News #Important #Macro & Rates #USDJPY #Impact bearish #Nikkei 225 #DXY
+
+Japan 5-year government bond yield rose 2 bps to 2.18%, a record high.
+
+---
+
+### 2026-08-18 08:11:21  #MKT News #ASX200 #Impact bearish
+
+Australia's S&P/ASX 200 opened down 8.00 points (-0.09%) at 9,065.20 on Aug 18 (Tuesday).
+
+---
+
+### 2026-08-18 08:11:14  #市場 #國際
+
+5年期日本國債收益率上升2個基點至2.18%，創歷史新高。
+
+---
+
+### 2026-08-18 08:10:59  #其他
+
+【公安部網安局公佈14起涉企網路謠言典型案例】 據公安部網安局訊息，公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。
+
+---
+
+### 2026-08-18 08:08:34  #其他
+
+哥倫比亞地震已造成289人死亡。
+
+---
+
+### 2026-08-18 08:07:56  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.06%，報9,067.70點。
+
+---
+
+### 2026-08-18 08:07:38  #公司
+
+【編造智駕事故、AI生成假車禍影片，多人因編造涉企謠言被罰】公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。8月18日，公佈14起典型案例。其中包括，內蒙古呼和浩特公安網安部門查明，網民樊某棟（男，34歲）為博取關注、吸粉引流，在抖音平臺直播時編造“**品牌汽車撞死橋上維修工後衝下遊輪，燒死外國人”“哈爾濱**品牌汽車衝入大樓爆炸起火，燒死3名環衛工”“雲南昆明**品牌汽車後胎爆炸撞死少數民族人員”“武漢**品牌汽車衝入長江”等多條謠言資訊，惡意詆譭相關企業及產品，引發該品牌使用者恐慌，擾亂網路空間秩序，產生不良影響。目前，屬地公安機關已依法對該樊處以行政處罰。
+
+---
+
+### 2026-08-18 08:07:27  #公司 #國際
+
+【賽默飛任命Dan Rosen為中國區總裁】8月18日，賽默飛宣佈，現任賽默飛東南亞地區副總裁兼總經理Dan Rosen已獲任命為中國區總裁，接任方明傑（Miguel Faustino）。未來幾個月，Dan將逐步交接並履新，並於第四季度與Miguel密切協作，確保客戶、團隊及業務各方面的平穩過渡。Miguel將與家人返回美國，並在賽默飛內部擔任新的領導職務。
+
+---
+
+### 2026-08-18 08:07:12  #其他
+
+【尚比亞總統希奇萊馬贏得連任】當地時間8月17日，尚比亞選舉委員會公佈的計票結果顯示，現任總統哈凱恩德·希奇萊馬獲得超過半數的選票，贏得本次總統選舉。尚比亞於當地時間8月13日舉行大選投票，選舉新一任總統及國會議員等職位。
+
+---
+
+### 2026-08-18 08:06:58  #MKT News #Market Regions #Emerging Markets
+
+【Zambia's Hakainde Hichilema wins re-election】Zambia’s Electoral Commission said on Aug 17 that incumbent President Hakainde Hichilema secured more than 50% of the vote to win the presidential election. Zambia held polls on Aug 13 for president and parliament.
 
 ---
 
@@ -18309,83 +18411,5 @@ Saudi outlet Alhadath, citing Israeli sources, reports Israel does not want the 
 ### 2026-08-16 22:27:06  #MKT News
 
 Israeli media reported Kushner discussed maintaining a Gaza ceasefire with officials from the Peace Committee.
-
----
-
-### 2026-08-16 22:25:44  #MKT News #Market Regions #Wall Street (US) #JPM.O #Impact bullish #XLF #S&P500
-
-【Wells Fargo: JP Morgan poised to become first $1 trillion bank】Wells Fargo says JP Morgan is likely to become the first bank with a market value above $1 trillion, and it maintained an overweight rating while raising its price target to $390 from $375, implying more than 7% upside to last Friday’s close. Analyst Mike Mayo wrote in a Thursday client note that JP Morgan’s “top-tier investment capabilities” could not only help it pass $1 trillion but could see it reach $2 trillion in about 7–8 years. Mayo cited share gains across major businesses, operational optimization, steadier profitability versus global peers, and the CEO-defined “robust balance sheet” as supporting factors.
-
----
-
-### 2026-08-16 22:20:42  #國際
-
-以色列國防軍：消滅一名巴勒斯坦伊斯蘭聖戰組織（傑哈德）武裝人員和一名哈馬斯武裝人員。
-
----
-
-### 2026-08-16 22:15:41  #其他
-
-【聯合海事中心資料：8月14日以來共有三艘油輪在穿越霍爾木茲海峽時遭到襲擊】根據最新的聯合海事資訊中心通報，自上次報告以來，有三艘船隻在穿越霍爾木茲海峽時遭到襲擊。 兩艘船隻在穿越阿曼領海時向外航行期間遭到襲擊。另一艘船隻在向內航行時，在海峽一處未公開地點遭到襲擊。未報告人員受傷，船隻繼續其航程。
-
----
-
-### 2026-08-16 22:14:07  #公司 #國際
-
-【58%的美國招聘經理表示，已經難以找到適格員工】根據資料統計，約有58%的美國招聘經理表示，已經難以找到合適員工，他們普遍認為對應技能工的短缺正在延誤專案，並迫使公司為獲得合適的人才而付出更多成本。
-
----
-
-### 2026-08-16 22:12:20  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-【Chan Mo‑po to further consolidate Hong Kong's international aviation hub status】Hong Kong Financial Secretary Chan Mo‑po said on 16th the city will further consolidate and enhance its role as an international aviation hub. In 1H aircraft movements exceeded 200,000, up 4.4% YoY, and passenger traffic reached 32.8m, up 11.7% YoY. Around 140 carriers now serve Hong Kong to more than 225 destinations. Jan–Jul visitor arrivals totalled 31.22m, up 12% YoY, with resumed exhibitions and events cited as drawing additional business and leisure travellers. Chan said the aviation hub underpins the local aviation industry and Hong Kong’s function as a super‑connector, supporting trade, logistics, MICE and tourism.
-
----
-
-### 2026-08-16 22:10:44  #國際
-
-以色列與宏都拉斯簽署諒解備忘錄，深化防務合作。
-
----
-
-### 2026-08-16 22:10:29  #其他
-
-黎巴嫩衛生部在其今日釋出的統計資料中宣佈，自3月2日以來，已有4346人死於以黎衝突當中，另有12301名傷者。
-
----
-
-### 2026-08-16 22:09:23  #公司
-
-【陳茂波：鞏固提升香港國際航空樞紐地位】香港特區政府財政司司長陳茂波16日發表網誌表示，今年上半年，香港國際機場的飛機升降量超過20萬架次，同比上升4.4%，機場客運量為3280萬人次，同比增加11.7%。香港將進一步鞏固提升國際航空樞紐的地位。 陳茂波說，目前約有140家航空公司提供航班往來香港與全球超過225個航點。香港高效便捷的國際聯絡與今年以來接連舉行的各類展覽等盛事，成功吸引更多商務及觀光旅客訪港。今年前七個月，已有3122萬訪港旅客人次，同比上升12%，往來不斷的人流為香港注入更大的活力、帶來更多商機。 陳茂波認為，香港國際航空樞紐的地位，不僅是本地航空業的命脈，更是香港發揮“超級增值人”和“超級聯絡人”功能的硬體底座，促進更蓬勃興旺的貿易、物流、會展、旅遊，以至更廣泛的人文交流。 陳茂波說，兩年前啟用的機場三跑道系統將逐步擴大飛機升降容量，今年5月啟用的二號客運大樓離境設施，亦已有15家航空公司進駐，預計第一年可以分流約800萬人次的旅客，提升機場處理出境客流的能力。 他說，香港會不斷努力，進一步鞏固提升國際航空樞紐的地位，併為其他相關經濟環節的聯動發展注入新活力。（新華社）
-
----
-
-### 2026-08-16 22:09:01  #其他
-
-【王祺揚與深圳市產業園區協會企業代表座談】據三亞日報，8月16日，三亞市委書記王祺揚在三亞與深圳市產業園區協會企業代表舉行座談，共商合作良策，共謀發展新篇。王祺揚指出，希望各位企業家充分發揮自身優勢，與三亞在推動高階文旅升級、總部經濟及園區經濟發展、現代服務業提質等領域深化合作，助推三亞產業轉型升級、擴大高水平對外開放，為三亞經濟社會高質量發展注入新動能。三亞將以市場化、法治化、國際化一流營商環境和“無事不擾、有求必應”的“店小二”貼心服務，積極為落地三亞的企業排憂解難，與企業攜手並肩、共謀發展、共創未來。
-
----
-
-### 2026-08-16 22:08:17  #公司
-
-【“凹公酒”為賈平凹授權？公司回應】8月16日，山東楊湖酒業有限公司、西安曲江凹凹文化傳播有限公司釋出關於近期惡意誤傷賈平凹先生及詆譭“凹公酒”事件的聯合宣告：近日，網路上出現大量針對我司產品“凹公酒”的不實言論，部分網民藉此強行關聯並惡意攻擊著名作家賈平凹先生，對其個人進行人格侮辱，言辭惡劣。賈平凹先生從未以授權、題字、代言、入股、合作等任何形式參與“凹公酒”專案，與本兩公司不存在商業合作、業務往來及相關利益約定。網路流傳的“賈平凹授權”“賈平凹題名”“賈平凹入股”等說法，均與客觀事實不符，屬於不實資訊。西安曲江凹凹文化傳播有限公司字號中的“凹凹”，為我司獨立構思的文化命名，取自企業自身文化理念，與賈平凹先生無關聯。“凹公酒”的品牌名稱、標識設計、文化定位以及全部產品創意，均為本兩公司獨立創作、自主運營。
-
----
-
-### 2026-08-16 22:01:05  #其他
-
-市場訊息：巴基斯坦和卡達的中間人仍在華盛頓與德黑蘭之間傳遞資訊，但尚未取得明顯進展。
-
----
-
-### 2026-08-16 21:56:35  #MKT News
-
-Kushner said Egypt is an important U.S. partner in the Middle East.
-
----
-
-### 2026-08-16 21:56:21  #MKT News
-
-Egyptian President Sisi and Kushner confirmed the need to resolve the current regional crisis and reiterated that parties must commit to fulfilling their obligations under the Gaza ceasefire agreement.
 
 ---

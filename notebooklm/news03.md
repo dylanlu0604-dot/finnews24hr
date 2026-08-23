@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:56:19_
-_本檔包含 3176 則快訊，約 636861 字_
+_更新時間：2026-08-23 22:25:48_
+_本檔包含 3169 則快訊，約 637037 字_
+
+---
+
+### 2026-08-20 11:27:48  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #CNH #Impact mixed
+
+【JLL: APAC commercial property investment rebounds; liquidity in China core assets improves】JLL said in an Aug. 20 report Q2 2026 APAC commercial property investment reached US$45.5bn, up 38% YoY; 1H investment totaled US$92.5bn, up 35%, the strongest first-half transaction volume on record despite energy-driven inflation, currency volatility and supply-chain disruption. Mainland China Q2 commercial investment was US$4.8bn, down 6% YoY; 1H US$8.5bn, down 8%; office transactions were the most active sub-sector. Hong Kong investment rebounded sharply: Q2 US$3.1bn, up 129% YoY; 1H US$4.7bn, up 90%. Domestic investors continue to dominate and liquidity for prime assets in major Chinese cities is gradually improving.
+
+---
+
+### 2026-08-20 11:26:33  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10Y Yield Falls on Soft Jobs Data — Australia’s 10-year government bond yield fell below 5%, reaching a one-week low after weak labor market data dampened the outlook for further RBA rate increases. Employment declined by 15,800 in July, reversing June’s upwardly revised gain of 80,300 and defying expectations of a 15,000 increase. This marked the first monthly drop since April. Meanwhile, the unemployment rate rose to 4.5%, above both market expectations and the previous month's 4.4%, reaching its highest level in three months. In its latest forecasts, the central bank projected the unemployment rate would rise to 4.8% by mid-2028 and remain around that level through the second half of the year, above the government's 4.5% estimate. While still relatively tight, Australia's labor market is showing signs of easing. The RBA raised the cash rate to 4.35% through three rate hikes earlier this year but kept policy unchanged at its June and August meetings while assessing the impact of previous tightening on the economy.
 
 ---
 
@@ -19104,59 +19116,5 @@ Canadian prime minister Carney said the US has agreed to postpone implementation
 ### 2026-08-19 11:09:17  #Trading Economics #Markets #Indonesia #Currency #Importance 1
 
 Rupiah Strengthens Ahead of Bank Indonesia Rate Decision — The Indonesian rupiah firmed to below IDR 17,850 per U.S. dollar on Wednesday, rebounding after briefly touching 17,950 in the prior session as traders positioned ahead of Bank Indonesia’s policy decision later today. Markets anticipate policy continuity, with the board expected to leave rates unchanged at its first meeting under acting Governor Destry Damayanti. Focus is on how she navigates the balance between supporting currency stability and advancing President Prabowo’s growth agenda. Her nomination, after years as senior deputy to Perry Warjiyo, alongside a conservative 2027 budget proposal, has eased policy uncertainty and supported a recovery in Indonesian assets. However, strength was capped by caution ahead of Q2 current account data later this week, after Q1’s gap hit its largest since 2019 on weaker trade. Globally, the dollar index steadied after sliding to two-month lows, with investors awaiting minutes from the Fed’s July meeting for signals on U.S. monetary policy.
-
----
-
-### 2026-08-19 11:08:26  #MKT News #Important #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-South Korean won weakened, the exchange rate rising above 1,400 won per U.S. dollar for the first time since October last year.
-
----
-
-### 2026-08-19 11:06:43  #宏觀 #國際
-
-【國臺辦：嚴厲譴責民進黨當局背叛民族、背叛歷史】國務院臺辦舉行例行新聞釋出會。有記者問：今年8月15日是日本宣佈無條件投降81週年，島內多家民間團體近日舉辦多場活動，紀念抗戰勝利、臺灣重回祖國懷抱，抗議民進黨當局淡化抗戰歷史、割裂兩岸共同歷史記憶，並呼籲兩岸同胞應警惕日本新型軍國主義危害臺海安全。請問對此有何評論？發言人朱鳳蓮表示，臺灣統派團體透過舉辦研討會和論壇、開展集會等多種方式紀念抗戰勝利和臺灣光復，反對民進黨當局淡化抗戰歷史、美化日本殖民統治，抗議日本再次介入臺灣問題，呼籲臺灣民眾反對和制止“臺獨”勢力勾連日本阻撓祖國統一、破壞臺海和平。我們對於這些正義行動表示高度讚賞，並嚴厲譴責民進黨當局背叛民族、背叛歷史的醜惡行徑。
-
----
-
-### 2026-08-19 11:06:24  #其他
-
-【1至7月份國家鐵路傳送貨物23.5億噸 同比增長0.7%】今年1至7月，國家鐵路累計傳送貨物23.5億噸，同比增長0.7%；日均裝車18.7萬車，同比增長2.1%。（中國鐵路）
-
----
-
-### 2026-08-19 11:06:22  #MKT News
-
-Korea Development Institute (KDI) forecasts average inf of 2.7% in 2026 and 2.2% in 2027, both unchanged from its prior estimates.
-
----
-
-### 2026-08-19 11:06:15  #宏觀
-
-【廈門釋出促進對臺交流合作12項措施 國臺辦介紹有關情況】國務院臺辦舉行例行新聞釋出會。有記者問：為落實十項促進兩岸交流合作的政策措施，福建廈門近日推出促進對臺交流合作十二條措施，得到臺胞好評。請介紹有關情況。發言人朱鳳蓮表示，福建省廈門市於8月18日釋出《廈門市促進對臺交流合作十二條措施》，聚焦對臺經貿合作、文化交流、青年工作、平臺建設、服務保障等多個方面，包括打造臺灣農漁產品集散中心，拓展臺灣農漁產品銷售渠道；最佳化提升“首來臺胞廈門服務包”，豐富權益內涵，拓展服務場景；舉辦兩岸非物質文化遺產保護傳承交流活動；搭建兩岸視聽產業交流合作服務平臺，引導臺灣青年參與數字內容創作人才實訓，推動臺灣業者參與大陸微短劇創作等。這些措施覆蓋面廣、針對性強、落地見效快，有利於為廈臺兩地經貿合作、青年和文化交流等注入新動能。
-
----
-
-### 2026-08-19 11:06:08  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
-
-USD/KRW fell nearly 1% to 1,398.90.
-
----
-
-### 2026-08-19 11:05:42  #市場
-
-美元兌韓元下跌近1%，報1398.90。
-
----
-
-### 2026-08-19 11:05:30  #國際 #原創
-
-【韓國智庫上調今年經濟增長預期至3.2%，因AI需求強勁】韓國一個國營智庫上調了今年的經濟增長預期，超過了政府的預期。預計人工智慧推動的全球半導體行業繁榮將強於預期，從而帶動出口和投資。韓國開發研究院報告稱，預計2026年經濟增長率為3.2%，高於5月份預測的2.5%，理由是全球晶片需求強勁，預計將對當地經濟產生積極影響。這一修正後的預測高於政府此前預測的3%和國際貨幣基金組織上個月釋出的2.6%的預測值。在經濟學家和政策制定者紛紛調整經濟增長預期之際，韓國開發研究院（KDI）釋出了最新預測，試圖將人工智慧需求的強勁增長納入考量，並評估這種增長勢頭能夠持續多久。KDI表示，自去年下半年以來韓國經濟的擴張勢頭預計將保持，因為人工智慧需求將繼續推動半導體出口，抵消中東衝突導致的進口成本上升。KDI預計，今年韓國半導體出口將增長8.7%，明年將增長5%。
-
----
-
-### 2026-08-19 11:05:02  #MKT News
-
-Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% and its 2027 forecast to 2.2% from 1.7%.
 
 ---

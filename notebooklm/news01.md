@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:56:19_
-_本檔包含 3206 則快訊，約 637410 字_
+_更新時間：2026-08-23 22:25:48_
+_本檔包含 3208 則快訊，約 636790 字_
+
+---
+
+### 2026-08-23 22:12:27  #國際
+
+【伊朗稱針對美國各種敵對行動均已制定應對方案】伊朗塔斯尼姆通訊社23日報道，伊朗伊斯蘭革命衛隊發言人穆赫比當天表示，伊朗針對美國各種敵對行動均已制定應對方案，包括應對經濟施壓。穆赫比在伊朗北部城市卡拉季舉行的新聞釋出會上說，美國日前宣佈對伊朗發動“最嚴厲的經濟戰”，這一表態實際上表明美方在軍事領域未能實現目標。他說，美國對伊朗實施經濟制裁已有47年，當前有關“經濟戰”的表態意在對伊朗民眾施加心理影響。（新華社）
+
+---
+
+### 2026-08-23 22:05:00  #其他
+
+【駐沙特大使館提醒在沙中國公民遵守出入境大額現金申報規定並謹防各類詐騙】據“中國駐沙特大使館”公眾號訊息，近日，有數名中國公民因未按照沙特新修訂《反洗錢法執行條例》要求在出入境時申報攜帶的大額現金，被沙有關部門拘押。此外，針對中國公民的電信詐騙和私下換匯詐騙盜搶案件頻發。中國駐沙特大使館鄭重提醒在沙中國公民遵守當地法規並謹防各類詐騙。
+
+---
+
+### 2026-08-23 21:58:07  #國際
+
+內塔尼亞胡：加沙方面正試圖使用武器化無人機。
+
+---
+
+### 2026-08-23 21:57:40  #其他
+
+【孟加拉國今年以來已有82人死於登革熱】孟加拉國衛生服務總局最新資料顯示，截至8月23日，今年該國登革熱死亡人數已升至82人。資料顯示，目前孟加拉國全國仍有1951名登革熱患者在不同醫院接受治療。今年1月1日以來，全國累計有28929名登革熱患者住院治療，其中26896人已經康復出院。（央視新聞）
 
 ---
 
@@ -19340,17 +19364,5 @@ China's Ministry of Finance said year-to-date it has allocated 187.5 bln yuan fo
 ### 2026-08-21 11:05:06  #MKT News #Nasdaq100 #Impact mixed #S&P500
 
 【Goldman: AI stocks volatile but positions remain far from extremes】Goldman One Delta head Rich Privorotsky said AI and momentum trades swung sharply over the past 48 hours; Goldman’s GSPUMOMO momentum portfolio has fallen nearly 7%. Goldman Prime data show the move in positions has been much milder: momentum exposure is close to neutral and recent increases are chiefly in net exposure rather than gross leverage. That is material after a sizeable July de‑risking—investors still hold meaningful AI and semiconductors exposure but remain well below prior position peaks. Semiconductor internal leverage has already fallen, though residual system leverage could trigger passive de‑risking and forced selling if prices drop quickly. Lower market liquidity in August may further amplify AI swings; intraday price action looks “fundamental” but may overstate underlying fundamental change. Watch total leverage, Prime positions and semiconductor fund flows to judge whether this volatility will broaden into wider de‑risking.
-
----
-
-### 2026-08-21 11:04:55  #MKT News #CNH #Impact bullish #CSI300 #DXY #Impact bearish
-
-China's Ministry of Finance said it will expand the pool of implementing banks for interest-subsidy schemes on small-, medium- and micro-enterprise loans and for service-sector business loans to include 21 national banks and city commercial banks, rural cooperative financial institutions, private banks and foreign banks with financial-regulatory ratings of 3A or above.
-
----
-
-### 2026-08-21 11:04:47  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #CNH
-
-【China Ministry of Finance to include new credit-card installment loans in consumer loan interest-subsidy program at 1 percentage point annualized】In a notice on fiscal-financial coordination to boost domestic demand, China’s Ministry of Finance said newly originated credit-card installment products — special-purpose installments, consumer installments and cash-advance installments — will be eligible for the personal consumer loan fiscal interest-subsidy program with a subsidy of 1 percentage point annualized. The notice also said newly issued working-capital loans to eligible small, micro and private enterprises will be covered by the SME loan interest-subsidy scheme; central fiscal authorities will subsidize interest at 1 percentage point annualized on principal for up to two years.
 
 ---

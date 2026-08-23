@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:56:19_
-_本檔包含 3323 則快訊，約 636644 字_
+_更新時間：2026-08-23 22:25:48_
+_本檔包含 3323 則快訊，約 636048 字_
+
+---
+
+### 2026-08-21 11:04:55  #MKT News #CNH #Impact bullish #CSI300 #DXY #Impact bearish
+
+China's Ministry of Finance said it will expand the pool of implementing banks for interest-subsidy schemes on small-, medium- and micro-enterprise loans and for service-sector business loans to include 21 national banks and city commercial banks, rural cooperative financial institutions, private banks and foreign banks with financial-regulatory ratings of 3A or above.
+
+---
+
+### 2026-08-21 11:04:47  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #CNH
+
+【China Ministry of Finance to include new credit-card installment loans in consumer loan interest-subsidy program at 1 percentage point annualized】In a notice on fiscal-financial coordination to boost domestic demand, China’s Ministry of Finance said newly originated credit-card installment products — special-purpose installments, consumer installments and cash-advance installments — will be eligible for the personal consumer loan fiscal interest-subsidy program with a subsidy of 1 percentage point annualized. The notice also said newly issued working-capital loans to eligible small, micro and private enterprises will be covered by the SME loan interest-subsidy scheme; central fiscal authorities will subsidize interest at 1 percentage point annualized on principal for up to two years.
 
 ---
 
@@ -20060,17 +20072,5 @@ By the morning close China's main futures were mixed: Shanghai silver up nearly 
 ### 2026-08-20 11:29:07  #其他
 
 【法國官方：7月熱浪期間全因超額死亡1243例】法國公共衛生署19日釋出公報說，初步估算顯示，法國今年7月3日至22日熱浪期間，共出現1243例全因超額死亡。據此前估算，法國6月17日至7月2日熱浪期間的全因超額死亡數為5764例。(新華社)
-
----
-
-### 2026-08-20 11:27:48  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish #CNH #Impact mixed
-
-【JLL: APAC commercial property investment rebounds; liquidity in China core assets improves】JLL said in an Aug. 20 report Q2 2026 APAC commercial property investment reached US$45.5bn, up 38% YoY; 1H investment totaled US$92.5bn, up 35%, the strongest first-half transaction volume on record despite energy-driven inflation, currency volatility and supply-chain disruption. Mainland China Q2 commercial investment was US$4.8bn, down 6% YoY; 1H US$8.5bn, down 8%; office transactions were the most active sub-sector. Hong Kong investment rebounded sharply: Q2 US$3.1bn, up 129% YoY; 1H US$4.7bn, up 90%. Domestic investors continue to dominate and liquidity for prime assets in major Chinese cities is gradually improving.
-
----
-
-### 2026-08-20 11:26:33  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Falls on Soft Jobs Data — Australia’s 10-year government bond yield fell below 5%, reaching a one-week low after weak labor market data dampened the outlook for further RBA rate increases. Employment declined by 15,800 in July, reversing June’s upwardly revised gain of 80,300 and defying expectations of a 15,000 increase. This marked the first monthly drop since April. Meanwhile, the unemployment rate rose to 4.5%, above both market expectations and the previous month's 4.4%, reaching its highest level in three months. In its latest forecasts, the central bank projected the unemployment rate would rise to 4.8% by mid-2028 and remain around that level through the second half of the year, above the government's 4.5% estimate. While still relatively tight, Australia's labor market is showing signs of easing. The RBA raised the cash rate to 4.35% through three rate hikes earlier this year but kept policy unchanged at its June and August meetings while assessing the impact of previous tightening on the economy.
 
 ---
