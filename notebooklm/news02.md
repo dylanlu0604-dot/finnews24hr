@@ -1,7 +1,75 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 18:32:02_
-_本檔包含 3338 則快訊，約 639555 字_
+_更新時間：2026-08-23 18:54:53_
+_本檔包含 3343 則快訊，約 639116 字_
+
+---
+
+### 2026-08-21 10:44:02  #MKT News
+
+EMSC reported a magnitude-4.3 earthquake in Flores, Indonesia, at a depth of 10.0 km.
+
+---
+
+### 2026-08-21 10:43:57  #市場
+
+現貨白銀日內漲1%，現報68.81美元/盎司。
+
+---
+
+### 2026-08-21 10:43:43  #MKT News #Commodities #Precious Metals
+
+Spot silver's intraday gain widened to 1.0%, trading at $68.77/oz.
+
+---
+
+### 2026-08-21 10:43:34  #公司
+
+【中國通號低空公司聯合中標太原市低空政務“一網統飛”作業平臺專案】據中國通號訊息，近日，中國通號低空公司以聯合體形式，成功中標太原市低空飛行管控服務平臺（一期）——太原市低空政務“一網統飛”作業平臺專案。中國通號將為專案提供自研低空感知裝置，感知資料可實時接入“一網統飛”平臺，為市政巡查、應急處置等城市治理場景提供技術支撐。
+
+---
+
+### 2026-08-21 10:42:17  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+A-share precious metals sector extended gains; Hunan Silver hit the daily limit. Zhaojin Gold, Xiaocheng Technology, Zhongjin Gold, Shandong Gold and Xingye Silver-Tin also rose.
+
+---
+
+### 2026-08-21 10:41:32  #市場 #觀點
+
+【貴金屬板塊持續走高，湖南白銀漲停】貴金屬板塊持續走高，湖南白銀漲停，招金黃金、曉程科技、中金黃金、山東黃金、興業銀錫等紛紛走高。
+
+---
+
+### 2026-08-21 10:41:18  #Trading Economics #Markets #other #currency #Importance 1
+
+Bitcoin Eyes Best Week in Over 2 Years — Bitcoin continued its bullish run toward $75,000 in August, hitting its highest level since late May and poised for a weekly gain of about 19%, its strongest since February 2024, after President Donald Trump urged Congress to pass a key regulatory bill. Trump called on lawmakers to advance a “fair version” of the Clarity Act, legislation backed by the crypto industry that aims to establish a comprehensive regulatory framework for digital assets in the US. The rally triggered more than $1 billion in Bitcoin short-position liquidations within about an hour, while total crypto short liquidations reached a record $2.7 billion. Meanwhile, US spot Bitcoin ETFs recorded $517 million in net inflows, their highest since May. Elsewhere, the US Treasury’s decision to substantially expand its purchases of 20-year and 30-year bonds pushed yields sharply lower, further boosting the appeal of riskier assets such as Bitcoin.
+
+---
+
+### 2026-08-21 10:41:02  #市場
+
+【國內多家金店金飾價格多數上漲，最高報1365元/克】今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日多數上漲，最高報1365元/克。
+
+---
+
+### 2026-08-21 10:40:03  #市場
+
+【主力資金：中際旭創淨買入超21億】截至目前，今日主力資金淨流入62.82億；淨流入晶片概念、CPO概念、5G等板塊，其中晶片概念板塊淨流入106.92億；淨流出醫藥生物、生物醫藥、創新藥等板塊，其中醫藥生物板塊淨流出60.03億。
+  
+個股方面，中際旭創淨買入21.30億元位居首位，新易盛、士蘭微、東山精密主力資金淨流入居前；恆瑞醫藥淨賣出5.16億元位居首位，通鼎互聯、貴州茅臺、中國巨石淨流出額居前。
+
+---
+
+### 2026-08-21 10:40:00  #國際
+
+【外國企業對特定可穿戴吸奶器、配套的奶儲存容器及其部件提起337調查申請】8月20日，美國Willow Innovations, Inc.、美國Willow Blossom HoldCo Ltd.根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定可穿戴吸奶器、配套的奶儲存容器及其部件（Certain Wearable Breast Pumps, Associated Milk Storage Containers, and Components Thereof）違反了美國337條款。
+
+---
+
+### 2026-08-21 10:39:54  #公司 #國際
+
+【美國ITC釋出對小型微波爐-抽油煙機組合的337部分終裁】8月20日，美國國際貿易委員會（ITC）釋出公告稱，對特定小型微波爐-抽油煙機組合作出337部分終裁：對本案行政法官於2026年7月22日作出的初裁（No.29）不予複審，即基於申請方撤回，部分終止本案調查，具體為美國註冊專利號11,079,118第3項權利要求，美國註冊專利號11,979,967第1-3、8、12、13項權利要求，美國註冊專利號12,101,865第4項權利要求，美國註冊專利號12,133,317第1、2、3、5、8項權利要求，美國註冊專利號12,289,819第2、4-7、11、13-16、24、26、28項權利要求。
 
 ---
 
@@ -20124,43 +20192,5 @@ China A-share fiber-optic sector surged; Wanlong Optoelectronics and Changyingto
 ### 2026-08-20 10:44:19  #公司
 
 【陝西省人民政府：同意李嘉輝為長安銀行行長人選，葉瑛不再擔任長安銀行行長職務】8月20日，陝西省人民政府網站釋出的一則任免通知顯示，省政府2026年8月15日決定，任命李嘉輝為長安銀行股份有限公司董事。免去葉瑛長安銀行股份有限公司董事職務。同意李嘉輝為長安銀行股份有限公司行長人選；葉瑛不再擔任長安銀行股份有限公司行長職務。
-
----
-
-### 2026-08-20 10:42:46  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Asian Stocks Rise as Global Yields Retreat — Asian equity markets rebounded on Thursday as global bond yields pulled back from multi-year highs after the US government moved to rein in long-term borrowing costs by expanding its buyback program. The US Treasury Department announced it would more than double repurchases of 10-, 20- and 30-year debt over the coming months after the US 30-year Treasury yield surged to its highest level since 2007 earlier this week. Sovereign yields across major Asian economies also eased, with Japan’s 10-year yield retreating from a 30-year high. South Korea’s KOSPI surged around 6% as chipmakers rebounded sharply, while Japan’s Nikkei gained 1%. Shares in Australia, China and Hong Kong also advanced.
-
----
-
-### 2026-08-20 10:42:19  #其他
-
-【MatriQ原子矩陣完成數億元A+輪融資】8月20日，MatriQ原子矩陣宣佈近期完成數億元人民幣A+輪融資。本輪融資由雲鋒基金、三七互娛、普華資本、財通資本、上海半導體產投、唐興資本、博睿資本、合創資本、海邦投資等多家機構共同參與，老股東民銀國際持續加註，融資陣容覆蓋頭部財投、產業資本、國有資本等多元資本。介面新聞瞭解到，自2025年下半年啟動首輪融資至今，原子矩陣在一年內密集完成四輪，累計融資近10億元。
-
----
-
-### 2026-08-20 10:40:14  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Equities Rally After BI Rate Decision — Indonesian shares surged 69 points, or 1.1%, to 6,465 in early Thursday trade, rebounding from the prior session’s weakness with broad gains across major sectors. Sentiment was lifted after Bank Indonesia held its benchmark rate steady at 5.75% for a second month on Wednesday, in line with estimates, following cumulative hikes of 100bps since May. In main trading partner China, lending benchmarks were also left unchanged for a 15th straight month, with one- and five-year LPRs kept at record lows to support growth. However, caution lingered ahead of Q2 current account data due later this week, after Q1’s deficit widened to its largest since 2019 on weaker trade. Meanwhile, FTSE Russell said it will delay additions, upgrades, and weight increases for Indonesian stocks until at least its December review as it evaluates market reforms. Early standouts included Hartadinata Abadi (8.3%), Amman Mineral International (7.2%), Vale Indonesia (3.4%), and Aneka Tambang (3.3%).
-
----
-
-### 2026-08-20 10:40:02  #市場
-
-【主力資金：紫金礦業淨買入超18億】截至目前，今日主力資金淨流入82.85億；淨流入醫藥生物、生物醫藥、融資融券等板塊，其中醫藥生物板塊淨流入94.89億；淨流出東數西算、晶片概念、商業航天（航天航空）等板塊，其中東數西算板塊淨流出37.98億。
-  
-個股方面，紫金礦業淨買入18.89億元位居首位，通鼎互聯、藥明康德、赤峰黃金主力資金淨流入居前；中際旭創淨賣出8.83億元位居首位，C宇樹、金風科技、長鑫科技淨流出額居前。
-
----
-
-### 2026-08-20 10:38:27  #國際
-
-【研究發現：南極冰蓋損失有所放緩】從中國科學院海洋研究所獲悉，中國、美國、匈牙利、日本等多國科學家透過合作觀測研究發現，南極冰蓋長期質量損失的趨勢有所放緩。自2021年7月至2023年4月，南極冰蓋質量增加約6950億噸，創下近20年重力衛星觀測時期的最大質量增幅。 研究還表明，造成這種情況的原因是熱帶海洋驅動大氣過程改變了水汽輸送通道，並增強南極的降雪。相關研究成果19日線上發表於國際學術期刊《自然》。
-
----
-
-### 2026-08-20 10:37:28  #公司 #市場 #觀點 #國際
-
-【據悉銀行大幅下調SK海力士韓股槓桿投資成本】在SK海力士赴美上市以及AI相關股票經歷暴跌後，全球投資者對SK海力士韓股進行槓桿投資的融資成本在最近幾周內已減半。據知情人士透露，包括美國銀行、花旗集團、高盛集團和摩根大通在內的多家銀行，正向客戶報價在擔保隔夜融資利率（SOFR）基礎上加價約150至300個基點，以透過互換交易獲得SK海力士韓股的敞口。今年6月中旬，一些銀行針對希望新建SK海力士互換合約或續約的客戶，報價一度超過SOFR上浮1000個基點。自5月1日以來，SOFR一直在3.50%至3.69%之間波動。此前，銀行為在客戶之間分配有限的額度，以滿足新增SK海力士互換交易的需求，曾報出極高的融資利率，甚至在某些情況下直接拒絕客戶請求。當時，AI熱潮推動SK海力士韓股在截至6月22日的12個月內累計上漲11倍。隨著市場情緒變得極度看漲，銀行擔心自身投資組合過度集中於這類股票，進而推高其在回購市場的融資成本。知情人士稱，一些此前拒絕客戶請求的銀行如今已開始主動尋求新的業務。
 
 ---
