@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-23 12:12:59",
-  "count": 16003,
+  "updated": "2026-08-23 12:22:45",
+  "count": 16000,
   "items": [
+    {
+      "id": "5053560",
+      "time": "2026-08-23 12:19:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：以色列正在與土耳其進行秘密接觸，以防止發生衝突。"
+    },
+    {
+      "id": "5053559",
+      "time": "2026-08-23 12:16:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大三省長力挺反制美國關稅】當地時間8月22日，加拿大總理卡尼宣佈，鑑於美國對價值200億美元的加拿大商品徵收50%的關稅，加拿大的等額報復性關稅計劃於9月8日正式生效執行。對此，加拿大安大略省、大不列顛哥倫比亞省以及魁北克省省長均發言力挺。安大略省省長道格·福特呼籲加拿大各省團結一致，組成“加拿大隊”，動用一切手段回擊美國。大不列顛哥倫比亞省省長戴維·伊比表示，當前美國政府不可信，加拿大必須挺身而出直麵霸凌者。（CCTV國際時訊）"
+    },
     {
       "id": "5053558",
       "time": "2026-08-23 12:05:21",
@@ -146306,51 +146322,6 @@
         "國際"
       ],
       "text": "【伊朗指控兩名法國外交官從事“非法干涉”活動】據新加坡《聯合早報》網站8月16日報道，伊朗情報部門指控兩名法國外交官從事“非法干涉”活動，警告法國政府不要“非法干涉”伊朗內政。 據報道，伊朗情報部門8月15日發表宣告稱，兩名法國外交官7月在德黑蘭與涉嫌“重大外國滲透和干涉案件”的人員舉行了一次秘密會晤。經調查，這兩名外交官“有大量違反伊朗國內法和外交義務的記錄”。 伊朗政府強調，絕不允許外國駐伊朗外交官從事“非法干涉”活動，並警告任何此類行為的再次發生都將招致“相應的”回應。 報道稱，法國外長巴羅7月20日說，兩名法國外交官在德黑蘭遭到拘留和虐待。他說這一事件“令人震驚”，並已警告伊朗外長阿拉格齊，此事“絕不能不了了之”。 阿拉格齊隨後在與巴羅的通話中提出抗議，稱這兩名法國外交官的“非常規”行為“違反外交規範，是不可接受的”。 （參考訊息）"
-    },
-    {
-      "id": "5042597",
-      "time": "2026-08-16 12:21:48",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發言人就黎巴嫩局勢近期升級向以色列表示：試點區域方案仍是黎巴嫩與以色列實現長期和平與安全唯一可行的途徑。解除真主黨武裝是該程序不可或缺的組成部分。"
-    },
-    {
-      "id": "mkt:01a008cd-e188-7aab-904c-4f574f050513",
-      "time": "2026-08-16 12:21:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【US-mediated ceasefire effectively gives Israel de facto impunity to strike Lebanon, analyst says】Ziad Abu Rish, associate professor of Middle East studies at Bard College, said most observers believe Netanyahu is escalating strikes on Lebanon to demonstrate unstoppable resolve—seeking to occupy southern Lebanon and to hit Hezbollah and Lebanese civilians. Saturday’s attack that killed 11 continues a pattern since the ceasefire: Israel, with perceived US acquiescence, attacking Hezbollah and Lebanese civilians without consequences. The ceasefire was largely nominal and only briefly held June 19-23 after Iran pressed for a US understanding to halt Israeli strikes. In US-mediated talks with Israel and Lebanon, Washington proposed Israel limit its operations and occupation to southern Lebanon and the Bekaa Valley in exchange for refraining from strikes on Beirut. The result, Abu Rish said, is that southern Lebanese civilians continue to live under Israeli occupation and air strikes, and most destruction of civilian infrastructure in the south—homes, hospitals, schools, fortifications and farmland—occurred in Israeli-controlled areas during the ceasefire."
-    },
-    {
-      "id": "mkt:01a008c9-e3fd-7aab-904c-47792029b4ea",
-      "time": "2026-08-16 12:17:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX said teams in Florida and California completed consecutive Falcon 9 launches spanning both U.S. coasts."
-    },
-    {
-      "id": "5042596",
-      "time": "2026-08-16 12:16:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：團隊分別從佛羅里達州、加利福尼亞州完成獵鷹 9 號火箭跨海岸連續發射任務。"
-    },
-    {
-      "id": "5042595",
-      "time": "2026-08-16 12:14:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼7.7級地震致5000餘人疏散避難 多縣應急響應】當地時間8月16日，印尼國家抗災署釋出訊息稱，東努沙登加拉省7.7級地震已致5000餘人疏散避難。目前，應急救援工作的重點之一是保障安置點災民的基本生活需求和救災物資供應。（央視新聞）"
     }
   ]
 }
