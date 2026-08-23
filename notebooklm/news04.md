@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 14:00:31_
-_本檔包含 3207 則快訊，約 642644 字_
+_更新時間：2026-08-23 14:54:17_
+_本檔包含 3186 則快訊，約 641932 字_
+
+---
+
+### 2026-08-19 09:44:20  #市場
+
+兆易創新A股下跌4.7%，港股下跌3.5%。
+
+---
+
+### 2026-08-19 09:43:55  #公司
+
+【國機集團與北大荒集團簽署戰略合作框架協議 將加快推進高階農業裝備的推廣應用】8月18日，中國機械工業集團有限公司（簡稱“國機集團”）黨委書記、董事長張曉侖一行到訪北大荒集團，與北大荒農墾集團黨委書記、董事長王兆成座談，雙方圍繞數字農業發展、高階農機裝備研發應用等事宜進行深入交流。座談後，雙方簽署戰略合作框架協議，表示將發揮各自優勢、深化強強聯合，加快推進高階農業裝備的推廣應用。
+
+---
+
+### 2026-08-19 09:43:52  #公司 #市場
+
+機器人概念股震盪走低，正裕工業、秦安股份雙雙跌停，上緯新材、風光精密跌超10%，巨輪智慧、中大力德、綠的諧波跌超9%。
+
+---
+
+### 2026-08-19 09:43:35  #公司 #市場
+
+【宇樹科技盤中市值超3500億元，空降科創板前10名】8月19日，被稱為“A股人形機器人第一股”的宇樹科技登陸科創板正式掛牌交易，開盤後盤中漲超500%，市值超3500億元。該市值水平在科創板上市公司中排到前10名。據此前發行價格150.8元/股計算，宇樹科技估值近610億元，科創板排名50多名左右。（第一財經）
+
+---
+
+### 2026-08-19 09:43:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Extends Advance — US heating oil futures climbed above $4.50 per gallon on Wednesday, extending gains to their highest level since March, as the deadlock over the Strait of Hormuz heightened concerns about prolonged supply disruptions. President Donald Trump said that no talks with Iran were taking place or planned, asserting that the US naval blockade remained active and that the strait was open after mines were cleared. Iran, however, countered that the waterway would remain closed until the US fulfilled its prior conditions. Traffic through the critical chokepoint came to a standstill over the weekend following attacks on vessels, underscoring persistent security risks to energy shipments. Meanwhile, Ukrainian strikes on Russian oil refineries have disrupted domestic fuel supplies, resulting in gasoline rationing in at least two regions and tighter controls on refined-product exports, with Russia extending its ban on petrol exports until January 2027 and diesel exports until August 2026.
+
+---
+
+### 2026-08-19 09:43:12  #MKT News #Important
+
+Newly listed N Shuangying jumped 143.9%, triggering an intraday trading halt. Shuangying Group’s core business is R&D, production and sales of automotive seats and interior and exterior trim.
+
+---
+
+### 2026-08-19 09:42:21  #公司
+
+【雷軍打新宇樹科技狂賺152億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。經梳理發現，雷軍創辦的順為資本關聯方Astrend IV持有1610.6萬股，浮盈超152億元。（中新經緯）
+
+---
+
+### 2026-08-19 09:42:08  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量208億元。
+
+---
+
+### 2026-08-19 09:41:40  #市場
+
+【創新藥概念表現活躍 西點藥業4天2板】創新藥概念表現活躍，西點藥業4天2板，九典制藥漲超10%，漢森製藥、哈三聯漲停，新贛江、金陵藥業、特寶生物跟漲。
+
+---
+
+### 2026-08-19 09:41:30  #公司
+
+【宇樹創始人王興興身家超1300億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。 招股書顯示：創始人王興興直接持股21.43%，透過員工持股平臺間接持股9.84%，合計31.29%。以此計算，創始人王興興身家超1300億元。（每經）
+
+---
+
+### 2026-08-19 09:40:47  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China A-share beverage manufacturing sector slipped intraday; Yiming Food hit the daily limit down, with Huangshi Group, Western Animal Husbandry, Weilong, Juneyao Health and Sanyuan following lower.
+
+---
+
+### 2026-08-19 09:40:42  #市場 #國際
+
+40年期日本國債收益率指數下跌3.0個基點至4.175%。
+
+---
+
+### 2026-08-19 09:40:16  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Plunge — The benchmark KOSPI fell more than 4% to around 6,560 on Wednesday, extending losses from the previous session, as a global bond selloff weighed on investor sentiment. The US 30-year Treasury yield climbed to its highest level since 2007, while long-term bond yields also reached multi-year highs in Japan and Europe, raising concerns over higher borrowing costs and pressuring growth and technology stocks. The global technology selloff hit Korean chipmakers particularly hard, with Samsung Electronics and SK hynix falling around 6% and 7%, respectively, as they tracked losses in US semiconductor stocks. Losses were also recorded in SK Square (-9.6%), Hyundai Motor (-3.5%), KB Financial Group (-2.3%), Kia Corporation (-3.4%), and Doosan Enerbility (-3.3%). At the same time, higher oil prices added to inflation concerns after President Donald Trump said the US is not in talks with Iran, while stalled peace efforts raised fears of further disruptions to oil supplies from the Middle East.
+
+---
+
+### 2026-08-19 09:40:11  #公司 #市場
+
+【飲料製造板塊短線走低，一鳴食品跌停】飲料製造板塊短線走低，一鳴食品跌停，皇氏集團、西部牧業、威龍股份、均瑤健康、三元股份等跟跌。
 
 ---
 
@@ -19187,215 +19271,5 @@ Brent crude futures settled at $90.87 a barrel, up $2.35 or 2.65%.
 ### 2026-08-18 02:47:37  #MKT News
 
 A Ukrainian lawmaker said President Zelenskiy has not yet submitted nominees for defense minister or foreign minister to the Verkhovna Rada (parliament).
-
----
-
-### 2026-08-18 02:47:01  #國際
-
-民調顯示：64%美國人不認可特朗普在白宮的施政表現。
-
----
-
-### 2026-08-18 02:46:29  #MKT News #WTI #Impact bullish
-
-Refinitiv/Ipsos poll shows 80% of Americans expect U.S. involvement in Iran to be prolonged.
-
----
-
-### 2026-08-18 02:46:24  #國際
-
-民調顯示：特朗普支援率跌至33%，創下其第二任期新低。
-
----
-
-### 2026-08-18 02:46:21  #MKT News
-
-A Reuters/Ipsos poll shows 64% of Americans disapprove of Trump's performance in the White House.
-
----
-
-### 2026-08-18 02:46:08  #國際
-
-民調顯示：80%美國人預計美國對伊朗的介入行動將長期持續。
-
----
-
-### 2026-08-18 02:45:47  #MKT News
-
-Reuters/Ipsos poll shows U.S. President Trump’s approval rating fell to 33%, a new low in his second term.
-
----
-
-### 2026-08-18 02:44:55  #MKT News
-
-US investment-grade corporates issued $145.2bn of bonds in August.
-
----
-
-### 2026-08-18 02:44:37  #國際
-
-烏克蘭議員：截至目前，澤連斯基尚未向最高拉達（議會）提交國防部長與外交部長的人選提名。
-
----
-
-### 2026-08-18 02:43:53  #MKT News #US10Y #Impact bearish
-
-US blue-chip corporate bond issuance hit a record high in August.
-
----
-
-### 2026-08-18 02:41:07  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Russia says it struck Ukrainian targets at Odesa port; Ukraine says it hit factory in Russia's Rostov region】On the 17th, Russia said it struck Ukrainian military targets at Odesa port. Ukraine said it struck a factory in Russia’s Rostov region.
-
----
-
-### 2026-08-18 02:39:17  #公司 #國際
-
-菲亞特克萊斯勒美國公司擬在美國市場召回約848511輛汽車。
-
----
-
-### 2026-08-18 02:39:08  #國際
-
-美國高等級企業8月發行1452億美元債務。
-
----
-
-### 2026-08-18 02:38:32  #國際
-
-美國藍籌企業8月債券發行規模創下歷史新高。
-
----
-
-### 2026-08-18 02:37:42  #國際
-
-【俄稱襲擊敖德薩港烏軍目標 烏稱打擊俄工廠】當地時間17日，俄羅斯方面稱襲擊了敖德薩港的烏軍目標。烏克蘭方面稱打擊俄羅斯羅斯托夫州的工廠。
-
----
-
-### 2026-08-18 02:35:37  #公司 #國際
-
-【派拉蒙要求各州總檢察長提供18.8億美元保證金，用於承擔與華納兄弟探索公司合併案延期產生的相關成本】派拉蒙天舞集團在週一提交的反壟斷案件檔案中表示，將申請迫使阻礙其與華納兄弟探索合並交易的各州，賠償本次合併延期帶來的各項費用與損失。派拉蒙要求發起訴訟的各州繳納18.8億美元保證金。7月，由加州總檢察長羅布·邦塔牽頭，共計12個州的總檢察長提起訴訟，對這筆規模1100億美元的合併交易提出異議。派拉蒙已經取得美國司法部反壟斷局以及全球其餘全部必要司法轄區的合併審批。但在上月，因各州總檢察長的案件將進入庭審，派拉蒙同意將收購交易最晚推遲至2027年6月完成。派拉蒙原本計劃在9月底完成交易，延期將給派拉蒙帶來高額成本。
-
----
-
-### 2026-08-18 02:33:59  #MKT News #Important #Macro & Rates #Treasury Yields #The Fed (FOMC) #WTI #Impact bullish #US10Y #Impact bearish
-
-【U.S.-Iran tensions add risk; 30-year Treasury yield at 19-year high】U.S. Treasury yields rose across the curve on Monday as renewed U.S.-Iran uncertainty lifted oil prices. The 30-year Treasury yield, typically sensitive to geopolitical risk, rose over 4 bps to 5.311%, its highest since June 2007. The 10-year yield, a benchmark for mortgages and consumer loans, climbed just over 2 bps to 4.724%. The 2-year yield, which tracks Fed policy expectations, gained just over 1 bp to 4.182%. A 60-day window tied to a U.S.-Iran peace accord expired on Monday and Iran ruled out extending it, supporting crude. Investors await this week’s Fed minutes for further clues on policy and the rate path; the Fed voted 9-3 on July 29 to keep rates at 3.50–3.75%, with three members preferring a 25-bp hike.
-
----
-
-### 2026-08-18 02:31:34  #MKT News #WTI #Impact bullish
-
-US crude futures settled at $84.50/bbl, up $2.10 or 2.55%.
-
----
-
-### 2026-08-18 02:31:21  #MKT News
-
-【Night session most-active contracts close】As of 02:30, Shanghai gold most-active contract rose 0.41% to 958 yuan/gram; Shanghai silver most-active contract rose 0.82% to 16,134 yuan/kg; Shanghai crude oil (SC) most-active contract rose 4.91% to 597 yuan/barrel.
-
----
-
-### 2026-08-18 02:31:14  #MKT News #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D closed up 0.37% at 955.07 yuan/gram in the Aug. 17 evening session; silver T+D closed up 0.49% at 16,080 yuan/kg.
-
----
-
-### 2026-08-18 02:30:59  #市場 #焦點 #國際
-
-美國原油期貨結算價報每桶84.50美元，上漲2.10美元，漲幅2.55%。
-
----
-
-### 2026-08-18 02:30:04  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Rises by 2.55% — Top crypto gainers are Bitcoin (2.55%) and Ether (1.86%).
-
----
-
-### 2026-08-18 02:30:02  #市場
-
-上期所原油期貨夜盤收漲3.11%，報577.00元人民幣/桶。滬金夜盤收漲0.41%，滬銀收漲0.82%。
-
----
-
-### 2026-08-18 02:28:39  #焦點 #國際
-
-【特朗普稱不尋求延長與伊朗的諒解備忘錄】當地時間8月17日，美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿，由於在霍爾木茲海峽等問題上存在嚴重分歧，美伊談判陷入僵局，沒有取得實質性進展。
-
----
-
-### 2026-08-18 02:27:58  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-Fox News reports Jared Kushner said a Gaza demilitarization roadmap has reached a breakthrough.
-
----
-
-### 2026-08-18 02:27:39  #公司
-
-市場資訊：派拉蒙在收購（華納探索公司）訴訟中向各州索要19億美元保證金。
-
----
-
-### 2026-08-18 02:25:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rallies by 5.19% — Top commodity gainers are Cocoa (5.19%) and Oat (2.18%). Biggest loser is Rubber (-0.68%).
-
----
-
-### 2026-08-18 02:24:48  #MKT News
-
-Iraq's foreign minister spoke by phone with Iran's foreign minister to exchange views on the latest regional situation and matters of mutual concern.
-
----
-
-### 2026-08-18 02:23:17  #國際
-
-美國暫停大本德（Big Bend）國家公園內的邊境工程建設。
-
----
-
-### 2026-08-18 02:22:14  #MKT News #Important #WTI #Impact bearish #Brent
-
-【Trump says US not seeking extension of MOU with Iran】Trump said the United States is not seeking to extend its memorandum of understanding with Iran. He said Iran wants a deal but would not accept what he called "necessary" terms. Trump again floated declaring the Strait of Hormuz US territory and reiterated US control of the waterway. He said the strait remains open and that oil prices are falling.
-
----
-
-### 2026-08-18 02:22:00  #其他
-
-朗與伊拉克兩國外長通電話，就地區最新局勢以及雙方共同關切的議題交換意見。
-
----
-
-### 2026-08-18 02:21:24  #國際
-
-特朗普談及伊朗：伊朗處境十分艱難，國家一團糟。其軍隊已被徹底擊潰。
-
----
-
-### 2026-08-18 02:20:49  #國際
-
-美國特使庫什納就與哈馬斯會面一事表示：會給他們一個機會。
-
----
-
-### 2026-08-18 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 2.02% — Top commodity gainers are Silver (2.02%), Platinum (1.61%), Lithium Carbonate (0.99%) and Gold (0.91%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.77%) and Iron Ore CNY (-0.56%).
-
----
-
-### 2026-08-18 02:18:50  #國際
-
-伊朗方面稱，針對伊拉克庫爾德地區的襲擊並非從伊朗領土發起。
-
----
-
-### 2026-08-18 02:16:29  #焦點 #國際
-
-特朗普稱美國不尋求延長伊朗協議備忘錄。
 
 ---

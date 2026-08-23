@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 14:00:31_
-_本檔包含 3375 則快訊，約 643411 字_
+_更新時間：2026-08-23 14:54:17_
+_本檔包含 3361 則快訊，約 642363 字_
+
+---
+
+### 2026-08-21 10:03:33  #市場 #焦點
+
+科創50日內漲幅達1.06%，成分股中，華潤微漲6.89%，寒武紀漲4.16%，盛科通訊漲3.39%，源傑科技漲3.24%。
+
+---
+
+### 2026-08-21 10:01:48  #其他
+
+【湖北省武漢市委常委、市委秘書長曾晟接受紀律審查和監察調查】據湖北省紀委監委訊息：湖北省武漢市委常委、市委秘書長曾晟涉嫌嚴重違紀違法，目前正接受湖北省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-21 10:01:28  #公司 #國際
+
+【巴基斯坦對華葡萄糖一水合物作出反傾銷初裁】據中國貿易救濟資訊網訊息，2026年7月15日，巴基斯坦國家關稅委員會發布第ADC72號案件的最新公告，對原產於或進口自中國的葡萄糖一水合物（Dextrose Monohydrate）作出反傾銷肯定性初裁，初步決定對涉案產品徵收10.79%的臨時反傾銷稅。涉案產品的巴基斯坦稅號為1702.3000。措施自公告發布之日起生效，有效期為四個月。預計終裁將於初裁公告發布之日起180日內作出。
+
+---
+
+### 2026-08-21 10:01:15  #MKT News
+
+【China delivers domestically developed 115,000-dwt product tanker】China State Shipbuilding Corporation said on the 21st it delivered a domestically developed and built 115,000-dwt product tanker. Core equipment, including the main engine, is domestically sourced. The 249.8m-long, 44m-beam vessel has a full-load capacity of 115,000 tonnes and can carry about 830,000 barrels of refined products. CSSC says the ship’s cargo capacity, service speed and fuel consumption meet international advanced standards and it can dock at most major oil terminals to serve international energy-trade trunk routes.
+
+---
+
+### 2026-08-21 10:01:07  #公司
+
+【先進數通：公司IT基礎設施建設業務涵蓋交換機相關實施業務】先進數通(300541)在互動平臺表示，公司IT基礎設施建設業務涵蓋交換機相關實施業務。在該業務領域，公司面向以大中型金融、網際網路企業為主的客戶，承接算力中心、資料中心核心網、廣域網等IT基礎設施建設專案，提供包括資料中心SDN網路、資料中心互聯光網路等一系列解決方案，其中包含交換機等網路裝置的規劃、部署與實施服務。
+
+---
+
+### 2026-08-21 10:00:49  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Mixed, Headed for Weekly Losses — The Shanghai Composite fell 0.3% to 3,891 on Friday, while the Shenzhen Component rose 0.3% to 14,021, as investors remained on the sidelines amid a lack of fresh market catalysts. Attention is now turning to the National People's Congress Standing Committee meeting in Beijing on August 25–28, where investors hope for additional policy guidance following a string of weak economic data reported for July. On the corporate front, Hua Hong Semiconductor, Kingboard Laminates, and Zijin Gold International are set to be added to the Hang Seng Index as it expands the benchmark to 100 constituents from 93 in an effort to improve market representation and sector balance. Financial stocks weighed on the market, with Industrial and Commercial Bank of China (-0.4%), Agricultural Bank of China (-0.3%), and China Construction Bank (-0.2%) declining. In contrast, CATL (0.6%), Eoptolink Technology (1.7%), and Sungrow Power Supply (1%) gained. For the week, both benchmarks are on track to post losses.
+
+---
+
+### 2026-08-21 10:00:45  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share liquid-cooled server sector jumped; Bohui Shares hit a 20% limit-up, Feilong Shares, Jinfu Technology and Yilida had earlier hit limit-ups. Rike Chemical, Ruikeda and Dayuan Pump were among the top gainers.
 
 ---
 
@@ -20258,131 +20300,5 @@ China A-share vaccine/biotech sector extended gains, with Shiyao Innovation hitt
 ### 2026-08-20 09:54:20  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite
 
 【Beijing Yizhuang to accelerate 100,000‑unit scale mass production of embodied‑intelligence robots】At the World Robot Conference in Beijing Yizhuang on Aug. 19, Li Quan, committee member and deputy director of the Beijing Economic‑Technological Development Area management committee, unveiled "Beijing Jiyu," a plan for a human‑machine integrated embodied‑intelligence society. Beijing Yizhuang said it will speed development of 100 commercially deployable specialist robot models and push applications across 1,000 niche use cases; accelerate mass production of embodied‑intelligence robots at a 100,000‑unit scale; and build production capacity for 1 million sets of key core components.
-
----
-
-### 2026-08-20 09:54:12  #市場 #觀點
-
-黃金概念持續走高，赤峰黃金漲停，興業銀錫、寶鼎科技、深中華A此前漲停，盛達資源、招金黃金、山東黃金漲超9%，曉程科技、潮宏基、中金黃金等跟漲。
-
----
-
-### 2026-08-20 09:54:10  #MKT News #Important #Market Regions #Greater China #Commodities #Precious Metals
-
-China A-share gold sector continued to rally. Chifeng Gold hit the daily limit; Xingye Silver-Tin, Baoding Technology and Shen Zhonghua A earlier hit the limit. Shengda Resources, Zhaojin Gold and Shandong Gold rose more than 9%. Xiaocheng Technology, Chaohongji and Zhongjin Gold also gained.
-
----
-
-### 2026-08-20 09:53:44  #其他
-
-【北京亦莊：將加快實現10萬臺套級具身智慧機器人規模量產】據“北京亦莊”公眾號訊息，8月19日，2026世界機器人大會在北京亦莊開幕。在“開放合作”主論壇上，北京經開區工委委員、管委會副主任李全釋出“北京機域”——人機共融具身智慧新社會建設構想。北京亦莊將加快打造100款可實際落地的特色機器人產品，推動其在1000種細分領域實現應用；加快實現10萬臺套級具身智慧機器人規模量產，形成100萬套關鍵核心零部件生產能力。
-
----
-
-### 2026-08-20 09:53:41  #市場
-
-【藥明康德盤中漲超5%】A股藥明康德盤中漲5.0%，現報172.20元。
-
----
-
-### 2026-08-20 09:53:27  #經濟數據 #日本
-
-【日本7月晶片等電子部件出口同比增長49.1%】日本財務省資料顯示，日本7月晶片等電子部件出口同比增長49.1%，半導體制造裝置出口同比增長40.9%。
-
----
-
-### 2026-08-20 09:52:40  #其他
-
-王興興：在生產線上已實現“用機器人生產機器人”。
-
----
-
-### 2026-08-20 09:52:09  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bearish #SSE Composite
-
-China A-share humanoid-robot theme weakened again: Zhongda Lide and Zhengyu Industrial hit daily down-limits for a second straight day, Yushu Technology fell more than 15%, and Jintuo, Wolong Electric Drive, Estun and Shangwei New Materials each tumbled over 7%.
-
----
-
-### 2026-08-20 09:50:00  #公司 #其他
-
-【直擊WRC丨宇樹科技王興興：目前人形機器人的效能相對較低，技術精進後會大規模推廣】2026世界機器人大會（WRC 2026）期間，宇樹科技創始人、董事長髮布主題演講。王興興現場解答為什麼其產品沒有進行在工廠，家庭等場景大規模推廣，“其實最主要的原因就是目前整體的效率和它的能力還是不夠，簡單來說就是雖然目前我們機器人能做一些工作，但是它的效率其實跟人比起來還是低一些。”此外，他還表示，現在人形機器人當有一些新任務時，要重新進行訓練，導致效率相對更低一點，“所以我們還是希望把技術做到更加泛化，能力更加精準，再在具體場景中進行大規模推進。”（新浪科技）
-
----
-
-### 2026-08-20 09:49:52  #市場 #焦點
-
-現貨黃金失守4490美元/盎司，日內跌0.74%。
-
----
-
-### 2026-08-20 09:49:52  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,490/oz, down 0.73% on the day.
-
----
-
-### 2026-08-20 09:49:52  #MKT News
-
-Unitree Robotics chairman, general manager and CTO Wang Xingxing said robotics development may accelerate beyond his prior estimates, representing a fresh starting point for the industry.
-
----
-
-### 2026-08-20 09:49:40  #公司 #市場
-
-【人形機器人概念再度走弱 中大力德2連跌停】早盤人形機器人概念再度走弱，中大力德、正裕工業連續2日跌停，宇樹科技跌超14%，晉拓股份、臥龍電驅、埃斯頓、上緯新材均跌超7%。
-
----
-
-### 2026-08-20 09:49:12  #公司
-
-【鈦動科技宣佈完成新一輪融資】8月20日，AI營銷科技公司鈦動科技宣佈完成新一輪融資。本輪融資由華泰泛大西洋基金領投，鯤鵬光遠、廣汽資本、金沙江創投等機構跟投。鈦動科技也是華泰泛大西洋基金的首個人民幣投資專案。據悉，本輪融資資金將重點用於鈦動科技鈦極專業大模型和Navos多智慧體等AI技術的打磨，以及AI人才的引進。未來鈦動科技將圍繞智慧體商業（Agentic Commerce）、智慧體協作（Agent-to-Agent, A2A）與生成式引擎最佳化（GEO）全面佈局。
-
----
-
-### 2026-08-20 09:48:33  #其他
-
-王興興：可能未來機器人發展比我預估的還會更快一點，是一個全新的起點，全新的開始。
-
----
-
-### 2026-08-20 09:48:24  #MKT News #Market Themes #AI Revolution
-
-Unitree Robotics chairman, general manager and CTO Wang Xingxing said the company expects a new era of rapid autonomous evolution in humanoid robots.
-
----
-
-### 2026-08-20 09:48:08  #其他
-
-【哥倫比亞西南部一礦井發生爆炸，至少3人死亡】當地時間8月19日晚，哥倫比亞國家災害風險管理局納里尼奧省負責人加夫列爾·奧卡尼亞表示，該省波利卡爾帕市一處礦井發生爆炸事故，根據初步統計，目前已造成3人死亡、7人受傷，另有8人失蹤。納里尼奧省省長路易斯·阿方索·埃斯科瓦爾在其社交媒體表示，正協調波利卡爾帕市政府調動相關部門力量處置事故，並安排災害風險管理局人員趕赴現場。（央視新聞）
-
----
-
-### 2026-08-20 09:47:44  #其他
-
-王興興：未來十年，在人工智慧熱潮的推動下，機器人的進化程序將加速。
-
----
-
-### 2026-08-20 09:47:28  #其他
-
-王興興：人形機器人將迎來自主快速進化的新時代。
-
----
-
-### 2026-08-20 09:46:31  #MKT News #Market Themes #China EV Leaders #09866.HK #Impact bullish #02015.HK #09868.HK
-
-Hong Kong-listed new-energy vehicle stocks advanced: Nio (09866.HK) and Li Auto (02015.HK) climbed over 5%; XPeng (09868.HK) +3.7%; Xiaomi (01810.HK) +3.6%; Leapmotor (09863.HK) +3.2%.
-
----
-
-### 2026-08-20 09:46:06  #公司
-
-港股創新藥板塊走高，雲頂新耀現漲48%，中國生物製藥漲17%，石藥集團漲超13%，復星醫藥漲7%。
-
----
-
-### 2026-08-20 09:45:45  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Yen Strengthens as Dollar, Yields Retreat — The Japanese yen traded near 158 per dollar on Thursday after gaining nearly 1% in the previous session, supported by a sharp decline in the dollar and retreating Treasury yields as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Still, the yen remained under pressure over the longer term due to wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. Latest data also showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips.
 
 ---

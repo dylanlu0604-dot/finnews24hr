@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 14:00:31_
-_本檔包含 3123 則快訊，約 642834 字_
+_更新時間：2026-08-23 14:54:17_
+_本檔包含 3129 則快訊，約 642381 字_
+
+---
+
+### 2026-08-23 14:47:21  #國際
+
+市場訊息：科威特譴責以色列對大馬士革郊外民用車輛實施無人機襲擊。
+
+---
+
+### 2026-08-23 14:44:36  #公司 #市場
+
+【百亞股份：近期主要材料價格已較二季度高點明顯回落 預計將呈逐步下行趨勢】百亞股份8月21日在投資者電話會議上表示，2026年二季度公司核心原材料價格上漲幅度較大，對二季度毛利率有直接影響。從近期來看，主要材料價格已較二季度高點明顯回落，預計將呈逐步下行趨勢。隨著產品結構持續升級、營收規模效應逐步釋放和電商業務持續改善，公司綜合毛利率預計將保持穩中有升的態勢。
+
+---
+
+### 2026-08-23 14:35:36  #其他
+
+市場訊息：沙特能源部簽署卡哈法電池儲能系統獨立儲能專案的儲能服務協議。
+
+---
+
+### 2026-08-23 14:33:37  #國際
+
+【烏克蘭利沃夫市一藥店發生爆炸 2人死亡】當地時間8月23日，烏克蘭利沃夫市一處藥店發生爆炸，初步確認有2人死亡。目前，執法人員正在現場開展工作。爆炸原因尚不清楚。（央視新聞）
+
+---
+
+### 2026-08-23 14:28:57  #其他
+
+【世界人形機器人運動會400米大型組田徑決賽：天工隊以38.15秒位列第一】第二屆世界人形機器人運動會進行期間，在400米田徑大型組決賽中，天工機器人以38.15秒的成績位列第一。值得注意的是，今日天工機器人的成績再次創下新高，在昨日的400米田徑大型組預賽中，天工機器人成績為39.70秒。此外，追風仔仔隊以39.45秒位列第二，驚鴻動力隊39.66秒位列第三，榮耀雙馳戰隊40.08秒位列第四。（新浪科技）
+
+---
+
+### 2026-08-23 14:26:53  #宏觀
+
+【海南食品出口上半年增長超四成】隨著海南自由貿易港全島封關運作深入推進，海南持續完善食品安全全鏈條監管體系，為食品產業拓展國際市場提供支撐。今年上半年，海南企業出口食品總額達31.89億元，同比增長41.2%。21日海南省市場監管局副局長黎運達在相關釋出會上介紹，海南強化農業農村、海關、商務、市場監管、教育、郵政管理等部門協同監管，圍繞食用農產品、食品生產、貯存運輸、跨境進口等環節加強風險防控。數字化手段加快應用於食品安全監管。截至目前，海南全省獲證且在產在營食品生產經營主體實現“網際網路+AI監管”22984家。全省中小學校食堂“網際網路+明廚亮灶”覆蓋率達100%。海南省市場監管部門介紹，相關部門已建立和落實36項重點機制制度，加強食品安全資訊共享、風險會商和協同處置，推動監管由單環節向全鏈條延伸。從保障群眾“舌尖上的安全”，到服務食品產業拓展國際市場，海南持續提升食品安全治理能力，為食品產業高質量發展和自貿港高水平開放提供保障。（新華社）
+
+---
+
+### 2026-08-23 14:24:02  #國際
+
+市場訊息：伊朗議會經濟委員會一名議員週日表示，伊朗必須取締德黑蘭境內的非正式貨幣交易據點，以此穩定外匯市場。
+
+---
+
+### 2026-08-23 14:16:24  #其他
+
+【小米玄戒晶片新進展】8月23日，小米官宣，將在明天 14 點以圖文直播形式舉辦玄戒晶片技術溝通會。屆時，晶片負責人朱丹將帶來最新進展。
+
+---
+
+### 2026-08-23 14:14:57  #公司 #國際
+
+【俄羅斯奧倫堡市遭無人機襲擊 電商平臺倉庫起火】當地時間8月23日，俄羅斯奧倫堡州奧倫堡市長尤馬迪洛夫通報，該市當日凌晨遭無人機襲擊。數架無人機在工業區上空被擊落，無人員傷亡。無人機碎片墜落在電商平臺Ozon倉庫區域起火，已被迅速撲滅。另據Ozon公司新聞處通報，因無人機襲擊，奧倫堡州Ozon倉庫夜間疏散了300多名員工。無人機碎片墜落引發火災。該倉庫內的商品已在平臺頁面上暫時隱藏，無法訂購。部分訂單將被取消。Ozon公司表示，目前也無法從倉庫運出商品。（央視新聞）
+
+---
+
+### 2026-08-23 14:14:12  #國際
+
+伊朗總統佩澤希基揚週日稱，伊朗所有當局都應當支援並執行《德黑蘭‑華盛頓諒解備忘錄》，並針對國內的批評意見為該協議進行辯護。
+
+---
+
+### 2026-08-23 14:00:24  #其他
+
+【水利部：全國29條河流仍維持超警】截至今天9時，黑龍江、浙江、江蘇、廣西、雲南等地29條河流仍維持超警，最大超警幅度6.07米。據預報，8月23日至25日，受降雨影響，廣西鬱江幹流可能發生超警洪水；暴雨區內部分中小河流可能發生超警以上洪水。受上游來水影響，黑龍江中游幹流同江江段將超警；黑龍江上游幹流呼瑪至三道卡江段、中游幹流東極江段，烏蘇里江下游海青江段，太湖將維持超警。水利部維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。（央視新聞）
+
+---
+
+### 2026-08-23 14:00:00  #其他
+
+【中阿啟動乾旱、荒漠化和土地退化防治五年行動計劃】22日晚，在《聯合國防治荒漠化公約》第十七次締約方大會期間，中阿乾旱、荒漠化和土地退化國際研究中心指導委員會第二次擴大會議暨中阿合作研討會在蒙古國首都烏蘭巴托召開。會議透過並正式釋出《中阿乾旱、荒漠化和土地退化防治五年行動計劃》。（新華社）
 
 ---
 
@@ -50,6 +122,12 @@ _本檔包含 3123 則快訊，約 642834 字_
 ### 2026-08-23 13:18:45  #國際
 
 【北美產業因貿易摩擦壓力越來越大】美國對加拿大徵收的關稅原定於當地時間8月19日正式生效，涉及價值約200億美元的加拿大商品。就在關稅生效最後時限前幾個小時，美國總統特朗普8月18日宣佈，推遲三天對加拿大商品加徵50%關稅。有分析指出，美方在關稅生效前最後時刻按下“暫停鍵”，顯示持續的貿易摩擦已經給兩國企業和高度融合的北美產業鏈帶來越來越大壓力。（CCTV國際時訊）
+
+---
+
+### 2026-08-23 13:18:19  #其他
+
+【華為雲聯合上海市科技藝術教育中心等共同釋出“開發者成長中心”，為青少年提供AI程式設計等實踐活動】華為雲AI創新峰會・華為雲少年開發者盛典近日舉辦。華為中國雲Marketing與解決方案銷售部部長郭婷在致辭中表示：孩子們看世界的角度和成年人不同。一些我們習以為常的事，他們會停下來想一想。這份對生活的感知、對未知的好奇，就是最珍貴的創造力。我們不需要過早定義孩子的未來，而是讓他們擁有認識世界、改變世界的能力。（新浪科技）
 
 ---
 
@@ -18810,47 +18888,5 @@ China's Sci-Tech Innovation Board 50 Index rose 1%; constituent Cambricon gained
 ### 2026-08-21 10:03:34  #Trading Economics #Markets #Commodity #Importance 1
 
 European Gas Remains Near Multi-Year Highs — European natural gas prices slipped below €65 per MWh on Friday but remained near their highest level since January 2023, as the stalemate in the US-Iran conflict muddied the outlook for Gulf LNG supplies. The two sides continued to clash over the Strait of Hormuz, with the conflict entering a new phase of economic pressure. Traders are concerned about Europe’s readiness for the upcoming winter as the maritime blockade has stranded Qatari LNG cargoes, forcing European utilities into more intense and costly competition with Asian buyers for available cargoes. Heatwave-driven demand for cooling is also limiting gas injections into storage. Europe's storage levels are at just 62%, the lowest seasonal level in records dating back to 2009, leaving the region with limited time to replenish inventories before the heating season begins. Despite this, the European Commission said that gas supplies in the bloc are not immediately at risk. Prices are up more than 5% this week.
-
----
-
-### 2026-08-21 10:03:33  #市場 #焦點
-
-科創50日內漲幅達1.06%，成分股中，華潤微漲6.89%，寒武紀漲4.16%，盛科通訊漲3.39%，源傑科技漲3.24%。
-
----
-
-### 2026-08-21 10:01:48  #其他
-
-【湖北省武漢市委常委、市委秘書長曾晟接受紀律審查和監察調查】據湖北省紀委監委訊息：湖北省武漢市委常委、市委秘書長曾晟涉嫌嚴重違紀違法，目前正接受湖北省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-21 10:01:28  #公司 #國際
-
-【巴基斯坦對華葡萄糖一水合物作出反傾銷初裁】據中國貿易救濟資訊網訊息，2026年7月15日，巴基斯坦國家關稅委員會發布第ADC72號案件的最新公告，對原產於或進口自中國的葡萄糖一水合物（Dextrose Monohydrate）作出反傾銷肯定性初裁，初步決定對涉案產品徵收10.79%的臨時反傾銷稅。涉案產品的巴基斯坦稅號為1702.3000。措施自公告發布之日起生效，有效期為四個月。預計終裁將於初裁公告發布之日起180日內作出。
-
----
-
-### 2026-08-21 10:01:15  #MKT News
-
-【China delivers domestically developed 115,000-dwt product tanker】China State Shipbuilding Corporation said on the 21st it delivered a domestically developed and built 115,000-dwt product tanker. Core equipment, including the main engine, is domestically sourced. The 249.8m-long, 44m-beam vessel has a full-load capacity of 115,000 tonnes and can carry about 830,000 barrels of refined products. CSSC says the ship’s cargo capacity, service speed and fuel consumption meet international advanced standards and it can dock at most major oil terminals to serve international energy-trade trunk routes.
-
----
-
-### 2026-08-21 10:01:07  #公司
-
-【先進數通：公司IT基礎設施建設業務涵蓋交換機相關實施業務】先進數通(300541)在互動平臺表示，公司IT基礎設施建設業務涵蓋交換機相關實施業務。在該業務領域，公司面向以大中型金融、網際網路企業為主的客戶，承接算力中心、資料中心核心網、廣域網等IT基礎設施建設專案，提供包括資料中心SDN網路、資料中心互聯光網路等一系列解決方案，其中包含交換機等網路裝置的規劃、部署與實施服務。
-
----
-
-### 2026-08-21 10:00:49  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Mixed, Headed for Weekly Losses — The Shanghai Composite fell 0.3% to 3,891 on Friday, while the Shenzhen Component rose 0.3% to 14,021, as investors remained on the sidelines amid a lack of fresh market catalysts. Attention is now turning to the National People's Congress Standing Committee meeting in Beijing on August 25–28, where investors hope for additional policy guidance following a string of weak economic data reported for July. On the corporate front, Hua Hong Semiconductor, Kingboard Laminates, and Zijin Gold International are set to be added to the Hang Seng Index as it expands the benchmark to 100 constituents from 93 in an effort to improve market representation and sector balance. Financial stocks weighed on the market, with Industrial and Commercial Bank of China (-0.4%), Agricultural Bank of China (-0.3%), and China Construction Bank (-0.2%) declining. In contrast, CATL (0.6%), Eoptolink Technology (1.7%), and Sungrow Power Supply (1%) gained. For the week, both benchmarks are on track to post losses.
-
----
-
-### 2026-08-21 10:00:45  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share liquid-cooled server sector jumped; Bohui Shares hit a 20% limit-up, Feilong Shares, Jinfu Technology and Yilida had earlier hit limit-ups. Rike Chemical, Ruikeda and Dayuan Pump were among the top gainers.
 
 ---

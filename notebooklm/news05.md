@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 14:00:31_
-_本檔包含 3063 則快訊，約 642637 字_
+_更新時間：2026-08-23 14:54:17_
+_本檔包含 3077 則快訊，約 641998 字_
+
+---
+
+### 2026-08-18 02:47:01  #國際
+
+民調顯示：64%美國人不認可特朗普在白宮的施政表現。
+
+---
+
+### 2026-08-18 02:46:29  #MKT News #WTI #Impact bullish
+
+Refinitiv/Ipsos poll shows 80% of Americans expect U.S. involvement in Iran to be prolonged.
+
+---
+
+### 2026-08-18 02:46:24  #國際
+
+民調顯示：特朗普支援率跌至33%，創下其第二任期新低。
+
+---
+
+### 2026-08-18 02:46:21  #MKT News
+
+A Reuters/Ipsos poll shows 64% of Americans disapprove of Trump's performance in the White House.
+
+---
+
+### 2026-08-18 02:46:08  #國際
+
+民調顯示：80%美國人預計美國對伊朗的介入行動將長期持續。
+
+---
+
+### 2026-08-18 02:45:47  #MKT News
+
+Reuters/Ipsos poll shows U.S. President Trump’s approval rating fell to 33%, a new low in his second term.
+
+---
+
+### 2026-08-18 02:44:55  #MKT News
+
+US investment-grade corporates issued $145.2bn of bonds in August.
+
+---
+
+### 2026-08-18 02:44:37  #國際
+
+烏克蘭議員：截至目前，澤連斯基尚未向最高拉達（議會）提交國防部長與外交部長的人選提名。
+
+---
+
+### 2026-08-18 02:43:53  #MKT News #US10Y #Impact bearish
+
+US blue-chip corporate bond issuance hit a record high in August.
+
+---
+
+### 2026-08-18 02:41:07  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Russia says it struck Ukrainian targets at Odesa port; Ukraine says it hit factory in Russia's Rostov region】On the 17th, Russia said it struck Ukrainian military targets at Odesa port. Ukraine said it struck a factory in Russia’s Rostov region.
+
+---
+
+### 2026-08-18 02:39:17  #公司 #國際
+
+菲亞特克萊斯勒美國公司擬在美國市場召回約848511輛汽車。
+
+---
+
+### 2026-08-18 02:39:08  #國際
+
+美國高等級企業8月發行1452億美元債務。
+
+---
+
+### 2026-08-18 02:38:32  #國際
+
+美國藍籌企業8月債券發行規模創下歷史新高。
+
+---
+
+### 2026-08-18 02:37:42  #國際
+
+【俄稱襲擊敖德薩港烏軍目標 烏稱打擊俄工廠】當地時間17日，俄羅斯方面稱襲擊了敖德薩港的烏軍目標。烏克蘭方面稱打擊俄羅斯羅斯托夫州的工廠。
+
+---
+
+### 2026-08-18 02:35:37  #公司 #國際
+
+【派拉蒙要求各州總檢察長提供18.8億美元保證金，用於承擔與華納兄弟探索公司合併案延期產生的相關成本】派拉蒙天舞集團在週一提交的反壟斷案件檔案中表示，將申請迫使阻礙其與華納兄弟探索合並交易的各州，賠償本次合併延期帶來的各項費用與損失。派拉蒙要求發起訴訟的各州繳納18.8億美元保證金。7月，由加州總檢察長羅布·邦塔牽頭，共計12個州的總檢察長提起訴訟，對這筆規模1100億美元的合併交易提出異議。派拉蒙已經取得美國司法部反壟斷局以及全球其餘全部必要司法轄區的合併審批。但在上月，因各州總檢察長的案件將進入庭審，派拉蒙同意將收購交易最晚推遲至2027年6月完成。派拉蒙原本計劃在9月底完成交易，延期將給派拉蒙帶來高額成本。
+
+---
+
+### 2026-08-18 02:33:59  #MKT News #Important #Macro & Rates #Treasury Yields #The Fed (FOMC) #WTI #Impact bullish #US10Y #Impact bearish
+
+【U.S.-Iran tensions add risk; 30-year Treasury yield at 19-year high】U.S. Treasury yields rose across the curve on Monday as renewed U.S.-Iran uncertainty lifted oil prices. The 30-year Treasury yield, typically sensitive to geopolitical risk, rose over 4 bps to 5.311%, its highest since June 2007. The 10-year yield, a benchmark for mortgages and consumer loans, climbed just over 2 bps to 4.724%. The 2-year yield, which tracks Fed policy expectations, gained just over 1 bp to 4.182%. A 60-day window tied to a U.S.-Iran peace accord expired on Monday and Iran ruled out extending it, supporting crude. Investors await this week’s Fed minutes for further clues on policy and the rate path; the Fed voted 9-3 on July 29 to keep rates at 3.50–3.75%, with three members preferring a 25-bp hike.
+
+---
+
+### 2026-08-18 02:31:34  #MKT News #WTI #Impact bullish
+
+US crude futures settled at $84.50/bbl, up $2.10 or 2.55%.
+
+---
+
+### 2026-08-18 02:31:21  #MKT News
+
+【Night session most-active contracts close】As of 02:30, Shanghai gold most-active contract rose 0.41% to 958 yuan/gram; Shanghai silver most-active contract rose 0.82% to 16,134 yuan/kg; Shanghai crude oil (SC) most-active contract rose 4.91% to 597 yuan/barrel.
+
+---
+
+### 2026-08-18 02:31:14  #MKT News #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 0.37% at 955.07 yuan/gram in the Aug. 17 evening session; silver T+D closed up 0.49% at 16,080 yuan/kg.
+
+---
+
+### 2026-08-18 02:30:59  #市場 #焦點 #國際
+
+美國原油期貨結算價報每桶84.50美元，上漲2.10美元，漲幅2.55%。
+
+---
+
+### 2026-08-18 02:30:04  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Rises by 2.55% — Top crypto gainers are Bitcoin (2.55%) and Ether (1.86%).
+
+---
+
+### 2026-08-18 02:30:02  #市場
+
+上期所原油期貨夜盤收漲3.11%，報577.00元人民幣/桶。滬金夜盤收漲0.41%，滬銀收漲0.82%。
+
+---
+
+### 2026-08-18 02:28:39  #焦點 #國際
+
+【特朗普稱不尋求延長與伊朗的諒解備忘錄】當地時間8月17日，美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿，由於在霍爾木茲海峽等問題上存在嚴重分歧，美伊談判陷入僵局，沒有取得實質性進展。
+
+---
+
+### 2026-08-18 02:27:58  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Fox News reports Jared Kushner said a Gaza demilitarization roadmap has reached a breakthrough.
+
+---
+
+### 2026-08-18 02:27:39  #公司
+
+市場資訊：派拉蒙在收購（華納探索公司）訴訟中向各州索要19億美元保證金。
+
+---
+
+### 2026-08-18 02:25:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rallies by 5.19% — Top commodity gainers are Cocoa (5.19%) and Oat (2.18%). Biggest loser is Rubber (-0.68%).
+
+---
+
+### 2026-08-18 02:24:48  #MKT News
+
+Iraq's foreign minister spoke by phone with Iran's foreign minister to exchange views on the latest regional situation and matters of mutual concern.
+
+---
+
+### 2026-08-18 02:23:17  #國際
+
+美國暫停大本德（Big Bend）國家公園內的邊境工程建設。
+
+---
+
+### 2026-08-18 02:22:14  #MKT News #Important #WTI #Impact bearish #Brent
+
+【Trump says US not seeking extension of MOU with Iran】Trump said the United States is not seeking to extend its memorandum of understanding with Iran. He said Iran wants a deal but would not accept what he called "necessary" terms. Trump again floated declaring the Strait of Hormuz US territory and reiterated US control of the waterway. He said the strait remains open and that oil prices are falling.
+
+---
+
+### 2026-08-18 02:22:00  #其他
+
+朗與伊拉克兩國外長通電話，就地區最新局勢以及雙方共同關切的議題交換意見。
+
+---
+
+### 2026-08-18 02:21:24  #國際
+
+特朗普談及伊朗：伊朗處境十分艱難，國家一團糟。其軍隊已被徹底擊潰。
+
+---
+
+### 2026-08-18 02:20:49  #國際
+
+美國特使庫什納就與哈馬斯會面一事表示：會給他們一個機會。
+
+---
+
+### 2026-08-18 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Rises by 2.02% — Top commodity gainers are Silver (2.02%), Platinum (1.61%), Lithium Carbonate (0.99%) and Gold (0.91%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.77%) and Iron Ore CNY (-0.56%).
+
+---
+
+### 2026-08-18 02:18:50  #國際
+
+伊朗方面稱，針對伊拉克庫爾德地區的襲擊並非從伊朗領土發起。
+
+---
+
+### 2026-08-18 02:16:29  #焦點 #國際
+
+特朗普稱美國不尋求延長伊朗協議備忘錄。
 
 ---
 
@@ -18315,131 +18525,5 @@ TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps said Qatar should allow an
 ### 2026-08-16 14:56:06  #國際
 
 當地時間8月16日，烏克蘭基輔市響起爆炸聲。（央視新聞）
-
----
-
-### 2026-08-16 14:50:00  #MKT News
-
-TASNIM News reported Iran's official responsible for missing military personnel said Qatar must allow an Iranian air force investigative team to enter Qatar.
-
----
-
-### 2026-08-16 14:49:36  #其他
-
-【重慶釋出“森林草原火險橙色預警訊號”】重慶市森林草原防滅火指揮部、重慶市應急管理局、重慶市林業局、重慶市氣象局8月16日14時30分聯合釋出“森林草原火險橙色預警訊號”。重慶市兩江新區、大渡口、沙坪壩、九龍坡、南岸、北碚、巴南、高新區、潼南、合川、銅梁、大足、榮昌、永川、璧山、江津、綦江、萬盛、南川、長壽、涪陵、墊江、豐都、梁平、忠縣、萬州、開州、雲陽、奉節、巫溪、巫山、武隆等32個區縣已出現高森林草原火險氣象等級。預計8月16日到20日上述區縣仍將持續高或極高森林草原火險氣象等級，發生森林草原火災的風險高。
-
----
-
-### 2026-08-16 14:49:04  #國際
-
-【波蘭旅遊大巴在匈牙利發生重大交通事故 已致12人死亡】當地時間8月16日凌晨，一輛波蘭旅遊大巴在匈牙利東北部M3高速公路發生交通事故，已造成12人死亡、至少10人重傷。事故發生後，匈牙利救援部門迅速展開救援，傷者已被送往醫院接受治療。據匈牙利方面通報，事故發生於當地時間16日凌晨1時左右。一輛載有57名乘客和2名司機的波蘭旅遊大巴在行駛過程中駛離路面，衝入路邊溝渠。事故具體原因目前仍在調查中。匈牙利總理毛焦爾當天透過社交媒體向遇難者家屬表示慰問，並感謝參與救援的消防、醫療和警務人員。（央視新聞）
-
----
-
-### 2026-08-16 14:43:02  #其他
-
-【皇崗口岸港方口岸區舉行第二次大型演練】15日，香港特別行政區政府於皇崗口岸港方口岸區舉行第二次大型演練並進行跨部門反恐及重大事故演習，進一步測試口岸聯檢大樓和公共運輸交匯處的人流和車流整體管理，以及加強各部門面對突發事故的應變能力。此次演練動員超過5000名來自共約30個政策局和部門的人員參與。此前，香港特區政府曾於13日在皇崗口岸港方口岸區舉行首次大型演練。（央視新聞）
-
----
-
-### 2026-08-16 14:42:38  #國際
-
-【伊朗外交部強烈譴責以色列對黎襲擊】當地時間15日，伊朗外交部發言人巴加埃強烈譴責以色列當天對黎巴嫩南部的襲擊。巴加埃指出，以色列持續對黎巴嫩進行襲擊，侵犯該國的國家主權和領土完整。他強調，伊朗將與黎巴嫩團結一致，共同捍衛該國的國家主權、獨立和尊嚴。（央視新聞）
-
----
-
-### 2026-08-16 14:42:30  #MKT News
-
-【Iran's foreign ministry condemns Israeli strike on southern Lebanon】On the 15th (local time), Iran's foreign ministry spokesman Baghaei strongly condemned an Israeli strike on southern Lebanon, saying Israel's continued attacks violate Lebanon's sovereignty and territorial integrity. Baghaei said Iran will stand with Lebanon to defend its sovereignty, independence and dignity.
-
----
-
-### 2026-08-16 14:42:08  #國際
-
-伊朗最高領袖穆傑塔巴・哈梅內伊辦公室週日宣佈，伊朗前最高領袖阿里・哈梅內伊及其家屬的四十日悼念儀式將在德黑蘭、庫姆與馬什哈德舉辦。相關活動是為紀念阿里・哈梅內伊下葬滿四十天。
-
----
-
-### 2026-08-16 14:41:22  #國際
-
-伊朗軍方失蹤事務主管稱，卡達應當允許伊朗空軍真相調查團入境。
-
----
-
-### 2026-08-16 14:38:21  #其他
-
-據燈塔專業版，截至8月16日，影片《去你的島》票房突破1億。
-
----
-
-### 2026-08-16 14:35:25  #其他
-
-【中國電建設計承建的西北兩座抽蓄電站透過驗收】據中國電建訊息，近日，中國電建設計承建的西北地區兩座百萬千瓦級抽水蓄能電站接連迎來重大節點，新疆阜康抽蓄電站透過工程竣工驗收，陝西鎮安抽蓄電站透過樞紐工程專項驗收。
-
----
-
-### 2026-08-16 14:30:27  #國際
-
-當地時間8月16日，烏克蘭基輔拉響防空警報。（央視新聞）
-
----
-
-### 2026-08-16 14:27:23  #MKT News #Market Themes #AI Revolution
-
-【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry.
-
----
-
-### 2026-08-16 14:24:30  #公司
-
-【固德威與深算院達成戰略合作 共建AI+智慧能源聯合創新中心】據固德威訊息，8月16日，固德威技術股份有限公司（簡稱“固德威”）與深圳計算科學研究院（簡稱“深算院”）在蘇州固德威智慧能源大廈簽署戰略合作協議。同期，還舉行了“AI+智慧能源”聯合創新中心揭牌儀式，中心圍繞AI+資料+新型電力系統深度融合展開長期聯合研發，著力推進智慧能源行業的正規化躍遷。
-
----
-
-### 2026-08-16 14:17:19  #其他
-
-莫斯科市長：從週六晚間至週日莫斯科時間6時30分，共有600架無人機飛向莫斯科地區，其中201架在莫斯科地區被摧毀。
-
----
-
-### 2026-08-16 14:16:41  #國際
-
-【烏稱基輔遭導彈襲擊 3人受傷】烏克蘭首都基輔市市長克利奇科16日通報稱，俄軍當天凌晨使用彈道導彈襲擊了烏克蘭首都基輔，導致奧博隆區和霍洛西伊夫區發生火災，截至當地時間7時20分，已有3人受傷。（央視新聞）
-
----
-
-### 2026-08-16 14:16:10  #公司
-
-【機械傷害事故致1死，深圳龍崗釋出調查報告：存在瞞報，建議對5人追究刑責】龍崗區應急管理局日前公佈《龍崗南灣“3·4”一般機械傷害死亡事故調查報告》。3月4日14時38分許，深圳市龍崗區南灣街道下李朗社群深圳國際綜合物流樞紐中心（C2）一標段專案發生一起機械傷害事故，造成1人死亡，直接經濟損失200萬元。經調查認定，上述事故是一起因施工人員違章作業，施工單位安全生產主體責任不落實，現場安全管理不到位，監理單位疏於監理造成的生產安全責任事故，且存在瞞報事故情形。調查報告顯示，國際物流中心（C2）一標段總承包專案執行經理卿某文等5人被建議追究刑事責任。中鐵二十五局集團有限公司廣東省專案主要負責人王某新、國際物流中心（C2）一標段總承包專案專案經理周某平等22人對事故發生負有責任，建議由相關部門對其進行調查處理。
-
----
-
-### 2026-08-16 14:15:18  #MKT News
-
-【Six killed in Indiana storms and flooding】The U.S. state of Indiana emergency operations center and state officials said on Aug. 15 that consecutive strong storms and flooding have killed at least six people. Heavy rain over the past week raised river levels across multiple waterways and forced several hundred residents to evacuate. Indianapolis Mayor Joe Hogsett said the city is experiencing its worst flooding in more than 30 years. More than a dozen Indiana counties have declared local disaster; emergency crews and the National Guard are conducting rescue and relief operations. Earlier this week severe storms across the U.S. Midwest, also affecting Illinois, Kentucky and Ohio, spawned tornadoes, heavy rain and flash floods and temporarily cut power to nearly 1 million customers.
-
----
-
-### 2026-08-16 14:11:55  #公司 #觀點
-
-【外資“喜好”變了，最新調倉動向揭曉】三季度以來，高盛、摩根士丹利、摩根大通、瑞銀、巴克萊等國際機構旗下QFII賬戶，明顯扎堆中小盤硬科技與高階製造。據已披露公告，高盛公司三季度新進大恆科技（機器視覺）、金智科技（智慧電網）、浩辰軟體（工業軟體）、鴻富瀚（消費電子）、朗坤科技（生物質能發電）、常潤股份（汽車維保裝置）等多家公司的十大流通股東。高盛國際則出現在熊貓乳品、中恆集團、蓮花控股、潤建股份、三友聯眾、鋒龍股份、寧波韻升等公司名單中。值得關注的是，多家機構集中出現在一批並不算“大白馬”的中小市值公司股東名單中。其中，摩根士丹利、瑞銀與高盛同步新進大恆科技十大流通股東；瑞銀、巴克萊與高盛同步新進常潤股份；摩根大通、瑞銀與高盛國際同步新進通合科技；摩根士丹利、巴克萊和高盛新進唯萬密封；摩根士丹利、摩根大通和瑞銀新進科安達。（21財經）
-
----
-
-### 2026-08-16 14:08:27  #公司 #國際
-
-【韓國股市反彈 韓國投資者再度融資買入】市場資料週日顯示，隨著韓國股市自深度低點反彈，本土投資者再度大舉融資買入本國股票。 韓國金融投資協會（KOFIA）統計資料顯示，截至週四，用於買入股票的融資融券餘額（即保證金債務）達到30.93萬億韓元（摺合218億美元），高於8月3日的27.44萬億韓元。 此番融資規模攀升，背景是三星電子、SK海力士等市場權重股，從AI相關投資盈利擔憂引發的震盪行情中大幅回升。 分析師認為，鑑於AI投資相關憂慮有所緩解，韓國股市暫無即刻降溫跡象，融資規模或將在一段時間內繼續走高，有望創下新高。
-
----
-
-### 2026-08-16 14:02:06  #國際
-
-【俄政治學者：日本走軍國主義道路 俄無需顧及日方感受】俄羅斯總統普京日前首次登上俄日爭議島嶼——俄稱南千島群島（日本稱北方四島）的伊圖魯普島（日本稱擇捉島）。對此，俄羅斯政治學者表示，俄方意在告訴日本，日方再次走上軍國主義道路，俄方無需向日本展示善意。據俄羅斯方面近日訊息，俄羅斯政治學者盧基揚諾夫表示，普京此次登島在某種意義上劃下了一條界線，同時，向日本釋放出一個訊號：如果日本不願對俄奉行獨立於西方的自主政策，那麼俄羅斯方面將不再顧及日方的感受。更何況，俄羅斯總統對國內任何地區的視察都是完全正常的行為。（央視新聞）
-
----
-
-### 2026-08-16 14:01:03  #宏觀 #國際
-
-【朱鎔基同志遺體18日火化 天安門等地將下半旗誌哀】中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，傑出的無產階級革命家、政治家，黨和國家的卓越領導人，中國共產黨第十四屆、十五屆中央政治局常委，國務院原總理朱鎔基同志的遺體，將於18日在北京火化。為悼念朱鎔基同志，18日，首都天安門、新華門、人民大會堂、外交部，各省、自治區、直轄市黨委和政府所在地，香港特別行政區、澳門特別行政區，各邊境口岸，對外海空港口，中國駐外使領館將下半旗誌哀。（新華社）
 
 ---
