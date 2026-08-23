@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 11:55:53_
-_本檔包含 3376 則快訊，約 644443 字_
+_更新時間：2026-08-23 12:47:48_
+_本檔包含 3371 則快訊，約 643694 字_
+
+---
+
+### 2026-08-21 09:50:37  #其他
+
+【具身智慧企業“靈犀智湧”創立，推出工業具身Harness系統ROSS】8月21日，介面新聞獲悉，具身智慧企業“靈犀智湧”近期於上海創立，創始人為中科大博士段逸凡，中科大教授吉建民擔任聯合創始人、首席科學家。針對具身模型在產線部署成功率低、運維成本高等落地難題，團隊提出“模型+Harness”技術架構，並推出工業具身執行系統ROSS，主打技能抽象、分層安全監控與異常恢復能力。
+
+---
+
+### 2026-08-21 09:50:30  #市場
+
+【深藍航天：130噸級雷霆RS發動機首次100秒長程試車成功】據深藍航天訊息，近期，深藍航天在液體火箭發動機及動力系統試車基地，成功完成“雷霆-RS”130噸級液氧煤油發動機100秒長程熱試車考核。該發動機為深藍航天大型可回收火箭“星雲二號”的配套主力發動機。試車實測推力達1297.5千牛(約132.3噸力)，各項引數全面達到設計預期，充分驗證了發動機整機系統可靠性與推力室熱防護效能。本次試車成功，標誌著國內推力最大的燃氣發生器迴圈針栓式液氧煤油發動機實現重大技術跨越，國內商業航天大推力火箭發動機再上新臺階。
+
+---
+
+### 2026-08-21 09:50:19  #公司
+
+【阿根廷對原產於中國的汽車傳動軸產品啟動反傾銷日落合併情勢變遷複審調查】據中國貿易救濟資訊網訊息，2026年8月19日，  阿根廷經濟部發布2026年第1291號公告，對原產於中國的汽車傳動軸產品即十字萬向節和球籠三叉啟動反傾銷第三次日落複審調查，同時啟動情勢變遷複審調查。本案傾銷調查期為2025年5月至2026年4月，損害調查期為2023年1月至2026年4月。涉案產品的南共市稅號為8708.99.90。案件調查期間，暫停對涉案產品徵收反傾銷稅。公告自發布之日起生效。
+
+---
+
+### 2026-08-21 09:50:02  #市場
+
+富時中國A50指數期貨上漲1%。
+
+---
+
+### 2026-08-21 09:49:53  #公司 #市場
+
+【液冷伺服器概念表現活躍 飛龍股份漲停】液冷伺服器概念表現活躍，飛龍股份漲停，大元泵業、冰輪環境、川環科技、騰龍股份跟漲。
+
+---
+
+### 2026-08-21 09:49:40  #公司 #市場
+
+【多隻高位人氣股持續走弱 一鳴食品等多股跌停】早盤多隻高位人氣股持續走弱，一鳴食品、紅四方、哈藥股份、開開實業、百合花跌停，桂發祥、澳洋健康、譽衡藥業、愛麗家居等跟跌。
+
+---
+
+### 2026-08-21 09:48:58  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量824億元。
+
+---
+
+### 2026-08-21 09:48:24  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Extend Gains — The benchmark KOSPI rose 0.5% to around 6,890 on Friday, extending gains from the previous session, as strength in major chipmakers and robust semiconductor exports supported investor sentiment. Samsung Electronics and SK hynix climbed about 1% and 4%, respectively, helped by continued expectations for shareholder returns. Strong semiconductor exports provided further support, with chip shipments nearly tripling to $26 billion in the first 20 days of August, reinforcing expectations that AI-driven demand will continue to support Korea's key technology sector. Gains were also recorded in KB Financial Group (2.0%), Shinhan Financial Group (3.0%), and SK Inc (2.3%). Meanwhile, renewed gains in US Treasury yields limited the upside, as investors grew skeptical that the Treasury's expanded bond buyback plan would provide lasting relief from elevated borrowing costs. Brent crude also rose more than 2% amid renewed US-Iran tensions, raising concerns over inflation and higher energy costs.
+
+---
+
+### 2026-08-21 09:48:06  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Poised for Weekly Drop — The dollar index traded around 98.8 on Friday and was on track to lose nearly 1% for the week, as the US government’s bond buyback plan heightened market volatility and boosted demand for safe-haven metals and other currencies at the expense of the greenback. The dollar index fell sharply on Wednesday after the US Treasury Department announced larger debt buybacks aimed at containing borrowing costs. Long-term Treasury yields initially declined on Wednesday before rebounding a day after amid concerns that the government’s plan may provide only a temporary solution. The market moves underscored concerns over rising US government debt, making the dollar less attractive to investors. Meanwhile, higher oil prices as the US prepares sweeping new economic sanctions against Iran also added to inflation concerns.
 
 ---
 
@@ -20306,89 +20360,5 @@ South Korean Shares Rebound — The benchmark KOSPI climbed more than 5% to arou
 ### 2026-08-20 09:42:04  #Trading Economics #Economy #Australia #Employment Change #Importance 1
 
 Australia Employment Unexpectedly Falls — Employment in Australia dropped by 15,800 to 14.81 million in July 2026, shifting from an upwardly revised 80,300 jump in the previous month and missing market expectations for a 15,000 gain. It marked the first monthly decline since April, driven by a 32,200 decline in part-time employment to a three-month low of 4.60 million. Meanwhile, full-time employment rose by 16,300 to a new peak of 10.21 million. The employment-to-population ratio fell to 63.9% from 64.1%, marking the first drop in three months. The participation rate slipped to 66.9% from 67.1%. Compared with a year earlier, total employment was up by 191,900, or 1.3%.
-
----
-
-### 2026-08-20 09:42:01  #公司
-
-宇樹科技CEO王興興：最大的瓶頸是人工智慧模型的輸入與輸出。
-
----
-
-### 2026-08-20 09:41:30  #其他
-
-【自然資源部：加快實施新一輪找礦突破戰略行動，推動戰略性礦產資源增儲上產】8月19日，自然資源部黨組召開會議。會議要求，圍繞有效擴大國內需求，強化自然資源要素保障。充分發揮國土空間規劃基礎作用，加快建設自然資源管理和國土空間規劃“一張圖”，統籌重大工程專案空間佈局，加強用地用林用草用海保障，確保重點專案早落地、早開工、早見效。圍繞加快現代化產業體系建設，不斷增強發展內生動力。加快實施新一輪找礦突破戰略行動，推動戰略性礦產資源增儲上產；推動印發海洋經濟高質量發展的政策檔案，拓展海洋經濟發展空間；突出科學保護、系統治理、合理利用，加強生態系統保護，堅決打好“三北”工程攻堅戰，壯大林草產業；推動地理資訊新型基礎設施建設，促進地理資訊產業發展。
-
----
-
-### 2026-08-20 09:41:11  #其他
-
-【棲息地完成7億元A輪融資】8月20日，棲息地宣佈成功完成A輪融資，融資規模7億元人民幣。這是棲息地智慧新住宅繼2024年完成6.53億元首輪融資後再一次融資，也是三年內中國最大的一級市場大家居產業融資。據悉，本輪融資由常州新北區科創基金領投，資金將重點用於在常州投資建設智慧住宅全球總部及研發中心、具身智慧實驗室與生產級AI設計與交付系統，加速AI原生智慧住宅的深度研發與生態化平臺增長戰略落地。
-
----
-
-### 2026-08-20 09:40:58  #公司
-
-宇樹科技CEO王興興：我們最大的投資是全球人工智慧模型。
-
----
-
-### 2026-08-20 09:40:29  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields #USDJPY #Impact bearish
-
-Japan 40-year bond yield falls 9.5 bps to 4.055%.
-
----
-
-### 2026-08-20 09:39:41  #公司 #市場
-
-【化纖概念盤初走強，尤夫股份直線漲停】化纖概念盤初走強，尤夫股份直線漲停，恆逸石化、匯隆新材、蒙泰高新、東方盛虹、桐昆股份、榮盛石化等跟漲。
-
----
-
-### 2026-08-20 09:39:26  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Languishes at 3-Month Low — The dollar index held around 98.8 on Thursday, hovering near its lowest level in three months as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. The move signaled that the US Treasury was prepared to take a more active role in the bond market to limit long-term yields, potentially improving dollar liquidity across the global financial system. Meanwhile, minutes from the Federal Reserve’s July meeting confirmed that some policymakers favored raising interest rates this year to prevent stronger inflationary pressures from emerging later. Elsewhere, heightened uncertainty in the Middle East, with the US and Iran remaining at a stalemate, kept inflation risks in focus.
-
----
-
-### 2026-08-20 09:39:01  #國際
-
-【普京：俄羅斯經濟溫和增長】俄羅斯總統普京19日說，俄羅斯經濟呈現溫和增長，2026年國內生產總值（GDP）預計增長約1%。普京當天在戰略發展和國家專案委員會會議上表示，俄經濟增長受到工業設施、基礎設施遭襲等外部因素影響。儘管如此，俄貿易基礎設施依然高效穩健運轉。關於亟需恢復的俄物流和倉儲能力，俄政府應制定相應方案。（新華社）
-
----
-
-### 2026-08-20 09:38:58  #公司 #市場
-
-【玻璃基板概念快速回落 紅星發展跌停】玻璃基板概念快速回落，紅星發展跌停，沃格光電、京東方A、彩虹股份、金瑞礦業、艾森股份跟跌。
-
----
-
-### 2026-08-20 09:38:25  #公司 #市場
-
-【電網裝置板塊異動拉昇 風範股份14天8板】早盤電網裝置板塊異動拉昇，風範股份14天8板，正泰電器逼近漲停，三暉電氣、揚電科技、萬馬股份、泓淋電力等跟漲。
-
----
-
-### 2026-08-20 09:38:15  #公司 #市場
-
-【航運概念震盪反彈，鳳凰航運漲停】航運概念震盪反彈，鳳凰航運漲停，中遠海能、海通發展、招商輪船、中谷物流、盛航股份、興通股份等跟漲。
-
----
-
-### 2026-08-20 09:38:05  #MKT News
-
-Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the company has not deployed humanoid robots at scale because their overall efficiency and general-purpose capabilities remain insufficient.
-
----
-
-### 2026-08-20 09:37:41  #Trading Economics #Economy #Australia #Unemployment Rate #Importance 2
-
-Australia Jobless Rate Above Forecasts — Australia’s seasonally adjusted unemployment edged up to 4.5% in July, surpassing both market expectations and June’s figure of 4.4%. It was the highest reading in three months, with the number of unemployed rising by 4,200 to 691,500 from 687,400 in June, while employment fell unexpectedly by 15,800 to 14.81 million, defying expectations for a 15,000 increase.
-
----
-
-### 2026-08-20 09:37:41  #MKT News #SMH #Impact mixed #Nasdaq100
-
-【JPMorgan: Tech sell-off appears driven by quant/liquidity flows, not structural de-risking】JPMorgan, reviewing the prior day’s tech retreat, said the move looked more like a low-volume, catalyst-free, post-earnings momentum reversal driven by quant/liquidity flows than a structural de-risking tied to higher long-end yields or AI funding stress. Traders rated intraday flow activity about 3/10; semiconductors showed localized de-risking but on limited scale. The firm’s composite positioning indicator sits near the 40th percentile (neutral), and the Philadelphia Semiconductor ETF remains roughly 18% above its July low despite the pullback. JPMorgan retains a technical bull-market view and notes buybacks, retail investors and systematic funds have room to rebuild positions or increase leverage.
 
 ---

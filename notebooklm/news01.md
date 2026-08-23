@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 11:55:53_
-_本檔包含 3122 則快訊，約 645146 字_
+_更新時間：2026-08-23 12:47:48_
+_本檔包含 3124 則快訊，約 643608 字_
+
+---
+
+### 2026-08-23 12:41:16  #其他
+
+【聯影、天津大學聯合釋出全球首個磁共振腦機介面全棧式解決方案uMR神觀】全國首屆磁共振腦機介面大會今日在天津召開。會議期間，聯影醫療攜手天津大學釋出了全球首個磁共振腦機介面全棧式解決方案uMR神觀，並聯合發起成立磁共振腦機介面創新聯盟。聯影醫療磁共振事業部、聯合創新部總監袁健閔介紹，uMR神觀打通“成像-模擬-調控-評估-演算法迭代”完整閉環，使磁共振從影像工具升級為腦機互動核心中樞。天津大學醫學院副院長範秋筠表示，磁共振腦機介面創新聯盟旨在打通“採集-解碼-調控-評估”全鏈條，推動我國在這一戰略性前沿方向搶佔國際制高點。
+
+---
+
+### 2026-08-23 12:39:26  #其他
+
+【北京啟動防汛四級應急響應 注意防範】8月23日，北京市多部門接連發布暴雨、雷電、山洪、地質災害氣象風險預警，並啟動防汛四級應急響應。（央視新聞）
+
+---
+
+### 2026-08-23 12:38:07  #其他
+
+【300MW級F級首臺套示範電站專案落地廣東】據中國能源報，近日，廣東省發展改革委釋出《關於中國重燃自主研製300MW級F級重型燃氣輪機首臺套示範電站專案核准的批覆》（粵發改核准〔2026〕6號），正式核准國家電投中國重燃自主研製300MW級F級重型燃氣輪機首臺套示範電站專案建設。“300MW級F級重型燃氣輪機是我國自主研製的功率最大、技術等級最高的燃氣輪機”概括了這臺裝備的分量。
+
+---
+
+### 2026-08-23 12:38:03  #公司
+
+【國內最大糖肽產業化生產基地落地新疆】8月22日，在崑崙健源（新疆）生物科技有限責任公司（簡稱“崑崙健源”）生產車間，一筐紅棗被倒入清洗池。經過酶解、提取、膜分離、純化、濃縮、凍乾等工序，24小時後，這批紅棗變成淡黃色糖肽凍乾粉或液體原料。當日，新疆特色生物糖肽生產線正式投產，這意味著國內最大糖肽產業化生產基地落地新疆。該專案由崑崙健源聯合中國科學院煙臺海岸帶研究所等13家高校院所7年協同攻關，累計投入超1億元，搭建起“研發—中試—量產—展示”完整產業閉環。（新疆日報）
+
+---
+
+### 2026-08-23 12:32:13  #其他
+
+阿里巴巴：配售總對價 800 億港元。
+
+---
+
+### 2026-08-23 12:31:29  #其他
+
+阿里巴巴：宣佈擬在香港配售新股。
+
+---
+
+### 2026-08-23 12:24:13  #國際
+
+市場訊息：伊朗敦促英國、法國聽取資深外交官就以色列問題發出的警告。
+
+---
+
+### 2026-08-23 12:19:46  #國際
+
+訊息人士：以色列正在與土耳其進行秘密接觸，以防止發生衝突。
+
+---
+
+### 2026-08-23 12:16:46  #國際
+
+【加拿大三省長力挺反制美國關稅】當地時間8月22日，加拿大總理卡尼宣佈，鑑於美國對價值200億美元的加拿大商品徵收50%的關稅，加拿大的等額報復性關稅計劃於9月8日正式生效執行。對此，加拿大安大略省、大不列顛哥倫比亞省以及魁北克省省長均發言力挺。安大略省省長道格·福特呼籲加拿大各省團結一致，組成“加拿大隊”，動用一切手段回擊美國。大不列顛哥倫比亞省省長戴維·伊比表示，當前美國政府不可信，加拿大必須挺身而出直麵霸凌者。（CCTV國際時訊）
+
+---
+
+### 2026-08-23 12:05:21  #其他
+
+市場訊息：Blank Street已從投資者處融資 7500 萬美元。
+
+---
+
+### 2026-08-23 12:04:56  #其他
+
+【渝昆高鐵鹽津南站進入衝刺階段】8月22日，渝昆高鐵鹽津南站掛牌，標誌著渝昆高鐵鹽津南站建設進入衝刺階段。鹽津南站位於雲南省昭通市鹽津縣廟壩鎮黃草村，是渝昆高鐵“出川入滇”第一站。（新華社）
 
 ---
 
@@ -18792,59 +18858,5 @@ CPO theme in China A-shares extended gains: Chongda Technology hit the daily lim
 ### 2026-08-21 09:50:58  #MKT News #01952.HK #Impact bearish #06185.HK #02325.HK
 
 Hong Kong-listed biotech stocks pulled back: Yunding Xinyao (01952.HK) fell nearly 10%, CanSino Biologics (06185.HK) fell over 8%, Yunkang Group (02325.HK) fell over 7%.
-
----
-
-### 2026-08-21 09:50:37  #其他
-
-【具身智慧企業“靈犀智湧”創立，推出工業具身Harness系統ROSS】8月21日，介面新聞獲悉，具身智慧企業“靈犀智湧”近期於上海創立，創始人為中科大博士段逸凡，中科大教授吉建民擔任聯合創始人、首席科學家。針對具身模型在產線部署成功率低、運維成本高等落地難題，團隊提出“模型+Harness”技術架構，並推出工業具身執行系統ROSS，主打技能抽象、分層安全監控與異常恢復能力。
-
----
-
-### 2026-08-21 09:50:30  #市場
-
-【深藍航天：130噸級雷霆RS發動機首次100秒長程試車成功】據深藍航天訊息，近期，深藍航天在液體火箭發動機及動力系統試車基地，成功完成“雷霆-RS”130噸級液氧煤油發動機100秒長程熱試車考核。該發動機為深藍航天大型可回收火箭“星雲二號”的配套主力發動機。試車實測推力達1297.5千牛(約132.3噸力)，各項引數全面達到設計預期，充分驗證了發動機整機系統可靠性與推力室熱防護效能。本次試車成功，標誌著國內推力最大的燃氣發生器迴圈針栓式液氧煤油發動機實現重大技術跨越，國內商業航天大推力火箭發動機再上新臺階。
-
----
-
-### 2026-08-21 09:50:19  #公司
-
-【阿根廷對原產於中國的汽車傳動軸產品啟動反傾銷日落合併情勢變遷複審調查】據中國貿易救濟資訊網訊息，2026年8月19日，  阿根廷經濟部發布2026年第1291號公告，對原產於中國的汽車傳動軸產品即十字萬向節和球籠三叉啟動反傾銷第三次日落複審調查，同時啟動情勢變遷複審調查。本案傾銷調查期為2025年5月至2026年4月，損害調查期為2023年1月至2026年4月。涉案產品的南共市稅號為8708.99.90。案件調查期間，暫停對涉案產品徵收反傾銷稅。公告自發布之日起生效。
-
----
-
-### 2026-08-21 09:50:02  #市場
-
-富時中國A50指數期貨上漲1%。
-
----
-
-### 2026-08-21 09:49:53  #公司 #市場
-
-【液冷伺服器概念表現活躍 飛龍股份漲停】液冷伺服器概念表現活躍，飛龍股份漲停，大元泵業、冰輪環境、川環科技、騰龍股份跟漲。
-
----
-
-### 2026-08-21 09:49:40  #公司 #市場
-
-【多隻高位人氣股持續走弱 一鳴食品等多股跌停】早盤多隻高位人氣股持續走弱，一鳴食品、紅四方、哈藥股份、開開實業、百合花跌停，桂發祥、澳洋健康、譽衡藥業、愛麗家居等跟跌。
-
----
-
-### 2026-08-21 09:48:58  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量824億元。
-
----
-
-### 2026-08-21 09:48:24  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Extend Gains — The benchmark KOSPI rose 0.5% to around 6,890 on Friday, extending gains from the previous session, as strength in major chipmakers and robust semiconductor exports supported investor sentiment. Samsung Electronics and SK hynix climbed about 1% and 4%, respectively, helped by continued expectations for shareholder returns. Strong semiconductor exports provided further support, with chip shipments nearly tripling to $26 billion in the first 20 days of August, reinforcing expectations that AI-driven demand will continue to support Korea's key technology sector. Gains were also recorded in KB Financial Group (2.0%), Shinhan Financial Group (3.0%), and SK Inc (2.3%). Meanwhile, renewed gains in US Treasury yields limited the upside, as investors grew skeptical that the Treasury's expanded bond buyback plan would provide lasting relief from elevated borrowing costs. Brent crude also rose more than 2% amid renewed US-Iran tensions, raising concerns over inflation and higher energy costs.
-
----
-
-### 2026-08-21 09:48:06  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Poised for Weekly Drop — The dollar index traded around 98.8 on Friday and was on track to lose nearly 1% for the week, as the US government’s bond buyback plan heightened market volatility and boosted demand for safe-haven metals and other currencies at the expense of the greenback. The dollar index fell sharply on Wednesday after the US Treasury Department announced larger debt buybacks aimed at containing borrowing costs. Long-term Treasury yields initially declined on Wednesday before rebounding a day after amid concerns that the government’s plan may provide only a temporary solution. The market moves underscored concerns over rising US government debt, making the dollar less attractive to investors. Meanwhile, higher oil prices as the US prepares sweeping new economic sanctions against Iran also added to inflation concerns.
 
 ---
