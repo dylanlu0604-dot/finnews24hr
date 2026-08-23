@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 02:44:09_
-_本檔包含 2998 則快訊，約 634146 字_
+_更新時間：2026-08-24 03:23:04_
+_本檔包含 2983 則快訊，約 633591 字_
+
+---
+
+### 2026-08-18 08:52:51  #其他
+
+【離境退稅2.0版政策上線，鄭州海關離境退稅業務量暴漲】隨著中國免籤“朋友圈”持續擴容和離境退稅2.0版新政正式落地實施，“中國遊”“中國購”持續升溫。據鄭州海關統計，今年1-7月，該關辦理離境退稅驗核申請單285票，同比增長150%，境外旅客入境消費潛力持續釋放。 （鄭州釋出）
+
+---
+
+### 2026-08-18 08:52:15  #國際
+
+【美國電影協會與位元組跳動達成協議，加強生成式AI智慧財產權保護】當地時間8月17日，美國電影協會（MPA）與位元組跳動宣佈達成諒解備忘錄，就加強Seedance、Seedream等生成式AI影片和影象模型的智慧財產權保護建立合作框架。雙方表示，將繼續完善相關智慧財產權保護措施，以保護影視行業創意內容。
+
+---
+
+### 2026-08-18 08:52:10  #公司
+
+【上海電氣與中國一重共商深化產業鏈協同】據上海電氣訊息，8月17日上午，上海電氣集團黨委書記、董事長吳磊率隊拜訪中國一重集團有限公司，與中國一重黨委書記、董事長呂智強舉行座談，雙方圍繞深化央地合作、強化產業鏈協同、拓寬新能源、高階裝備領域合作等議題進行了交流。
+
+---
+
+### 2026-08-18 08:52:00  #公司 #國際
+
+【微軟、賽富時有意在 Darwinbox 計劃 IPO 之前收購該公司】據印度媒體Mint，三位知情人士透露，由 KKR 投資的人力資源與薪資服務提供商 Darwinbox 正收到收購邀約，與此同時該公司計劃未來數年推進潛在上市。現有投資方賽富時、微軟，以及美國人力資源薪資服務商 ADP，已接觸公司創始人和董事會，意圖收購其他股東所持股份。
+
+---
+
+### 2026-08-18 08:51:14  #國際
+
+【聯合國敦促美伊儘快恢復談判 避免採取軍事行動】當地時間17日，聯合國秘書長發言人迪雅裡克在例行釋出會上表示，近日黎巴嫩南部暴力活動明顯加劇，黎巴嫩一側出現平民傷亡，一些剛剛返回家園的家庭再次被迫流離失所。聯合國駐黎巴嫩臨時部隊報告稱，上週末以軍發起多次空襲。聯合國敦促各方保持最大限度剋制，遵守停火安排，透過對話推動局勢降級。迪雅裡克還就美國和伊朗此前達成的諒解備忘錄所設定的60天談判視窗期期滿一事表示，聯合國秘書長古特雷斯一直強調，當前衝突不存在軍事解決方案，敦促美伊儘快恢復談判，避免採取軍事行動。
+
+---
+
+### 2026-08-18 08:50:46  #央行 #歐洲央行
+
+【歐央行專欄預警：AI估值極度樂觀 是否將重演網際網路泡沫？】歐洲央行研究員承認，當前科技股高估值，有可能反映市場對AI真實生產力潛力的理性預期。但文章同時提出另一種偏悲觀的解讀：歷史上每一輪科技繁榮，往往都遵循一套可預見的發展軌跡：初期市場狂熱、估值飆升、投資者風險認知逐步發生轉變，隨後迎來回撥，讓過度樂觀的投資者猝不及防。
+
+---
+
+### 2026-08-18 08:50:38  #其他
+
+【西南華南東北等地降雨頻繁 江南持續高溫悶熱】今天（8月18日），我國西南、華南和東北部分地區雨勢較強，四川、廣西、黑龍江等地部分地區有暴雨或大暴雨，需注意防範降雨可能引發的次生災害。在降水較少、較弱的江南等地，未來幾天高溫悶熱天氣盛行，需注意防暑。
+
+---
+
+### 2026-08-18 08:48:18  #央行 #美聯儲
+
+【鷹派還不夠多！高盛最新預測：美聯儲9月不加息】美聯儲貨幣政策正走到十字路口：聯邦公開市場委員會（FOMC）對於是否需要加息以遏制通脹意見分裂，而美國總統特朗普則要求降息來刺激經濟。在上月美聯儲會議紀要釋出前夕，高盛認為，結合最新的經濟資料，下月聯邦公開市場委員會不會有足夠多委員轉向鷹派立場，不足以觸發加息。
+
+---
+
+### 2026-08-18 08:48:07  #公司
+
+【小米入股影像科技公司海寧奕都視】企查查APP顯示，近日，海寧奕都視影像科技有限公司發生工商變更，新增北京小米智造股權投資基金合夥企業（有限合夥）等為股東，同時註冊資本增至1258萬元。企查查資訊顯示，該公司成立於2024年，經營範圍包含：電子專用裝置製造；光電子器件製造；電子真空器件製造；電子真空器件銷售等。
+
+---
+
+### 2026-08-18 08:47:45  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Margin financing at Chinese exchanges rises CNY17.765 bln】As of Aug 17, margin financing balances were CNY1,364.85 bln on the Shanghai Stock Exchange, up CNY9.852 bln from the prior session; CNY1,292.443 bln on the Shenzhen Stock Exchange, up CNY7.913 bln; combined CNY2,657.293 bln, up CNY17.765 bln.
+
+---
+
+### 2026-08-18 08:46:46  #其他
+
+【兩市融資餘額較上日增加177.64億元】截至8月17日，上交所融資餘額報13648.50億元，較前一交易日增加98.52億元；深交所融資餘額報12924.43億元，較前一交易日增加79.12億元；兩市合計26572.93億元，較前一交易日增加177.64億元。
+
+---
+
+### 2026-08-18 08:46:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Hits Over 4-Month High — US heating oil futures rose to around $4.45 per gallon on Tuesday, reaching their highest level since early April, as fading hopes for a near-term resolution to the US-Iran conflict heightened expectations of prolonged supply disruptions from the region. President Donald Trump said he was not interested in extending an agreement with Tehran that technically expired on Monday, while disagreements over the Strait of Hormuz continue to complicate negotiations. Iran is holding separate talks with Oman on managing the waterway, with Trump threatening to bomb Oman if it interferes with a US blockade. Still, continued crude shipments through the Persian Gulf waterway have eased some supply concerns. Elsewhere, frequent Ukrainian strikes on Russian oil refineries have disrupted fuel supplies, prompting gasoline rationing in at least two regions and restrictions on refined-product exports. Russia has since extended its existing diesel export ban until January 2027.
 
 ---
 
@@ -17931,167 +18003,5 @@ cenc reported a magnitude 3.6 earthquake at 03:23 on Aug 17 in Longchang, Neijia
 ### 2026-08-17 03:24:13  #國際
 
 美伊諒解備忘錄將於週一到期，目前幾乎沒有達成最終協議的跡象。伊朗首席談判代表卡利巴夫稱這是一次外交上的“勝利”，並表示美國和以色列未能實現其戰爭目標。
-
----
-
-### 2026-08-17 03:22:01  #國際
-
-哈馬斯：讚賞美國總統特朗普所發揮的作用，希望他繼續努力，以結束我們人民的苦難併為地區帶來安全。
-
----
-
-### 2026-08-17 03:21:23  #MKT News
-
-Hamas urged mediators and the peace committee to fulfill their duties and compel Israel to honor its commitments and cease violations.
-
----
-
-### 2026-08-17 03:20:51  #MKT News
-
-Hamas said it had fully complied with the first phase of the ceasefire agreement while Israel did not comply.
-
----
-
-### 2026-08-17 03:20:10  #MKT News
-
-Hamas said it has agreed to a plan intended to secure a permanent ceasefire, the full withdrawal of occupying forces and the activation of a governing committee.
-
----
-
-### 2026-08-17 03:19:26  #國際
-
-哈馬斯：（我方）在第一階段已全面履行停火協議，而以色列方面卻未予遵守。
-
----
-
-### 2026-08-17 03:19:00  #其他
-
-哈馬斯：呼籲調解方與和平委員會履行其職責，迫使佔領方落實各項義務並停止侵權行為。
-
----
-
-### 2026-08-17 03:18:12  #國際
-
-哈馬斯：為達成永久停火、以色列全面撤軍並啟動行政委員會工作，我們已同意該方案（特朗普計劃的第二階段路線圖）。
-
----
-
-### 2026-08-17 03:17:50  #MKT News
-
-【Sisi meets Kushner, urges implementation of Gaza ceasefire】Egyptian President Sisi met Jared Kushner in Alamein on the 16th and urged parties to implement the Gaza ceasefire and deliver on the outcomes of last October’s Sharm el‑Sheikh summit. The presidential office said they exchanged views on the Palestinian issue and broader Middle East developments and called for Egypt-US cooperation to resolve the regional crisis and preserve stability.
-
----
-
-### 2026-08-17 03:15:39  #國際
-
-【埃及總統塞西會見庫什納 呼籲各方落實加沙停火】埃及總統塞西16日在埃及阿拉曼會見美國總統特朗普的女婿庫什納，呼籲有關各方推動落實加沙停火協議。埃及總統府當天發表宣告說，會見期間，雙方就巴勒斯坦問題等中東局勢發展交換意見，強調有關各方應履行去年10月在埃及舉行的沙姆沙伊赫峰會成果，推動落實加沙停火協議。塞西還表示，埃美兩國應協作推動解決地區危機，維護地區穩定。（新華社）
-
----
-
-### 2026-08-17 03:14:35  #MKT News #Market Themes #The Trump Trade
-
-Hamas said it highly valued Trump's role in facilitating the Gaza ceasefire agreement.
-
----
-
-### 2026-08-17 03:14:10  #MKT News
-
-Hamas said its agreement to phase two of Trump's plan hinges on achieving a permanent ceasefire and Israeli withdrawal.
-
----
-
-### 2026-08-17 03:12:29  #國際
-
-哈馬斯宣佈同意特朗普計劃的第二階段，旨在實現永久停火、完全撤出以色列從加沙地帶、提供緊急和永久援助、啟動行政委員會活動、重建以及執行其他商定的承諾。
-
----
-
-### 2026-08-17 03:09:31  #公司 #觀點
-
-市場資訊：摩根大通執行長傑米·戴蒙週四透過電話與英國財政大臣希利進行了交談，他警告英國財政大臣，切勿提高銀行業稅收。
-
----
-
-### 2026-08-17 03:07:27  #MKT News
-
-Hamas said a leadership delegation led by Khaled al-Hayya met mediators and guarantors of the Gaza agreement in Egypt today and told guarantors it had agreed to the second phase of Trump's plan.
-
----
-
-### 2026-08-17 03:07:08  #國際
-
-【以軍襲擊已致黎巴嫩4346人死亡】據黎巴嫩公共衛生部緊急行動中心16日訊息，3月2日至8月16日期間，以色列在黎巴嫩發動的持續不斷的空襲和襲擊已造成4346人死亡，12301人受傷。
-
----
-
-### 2026-08-17 03:05:23  #國際
-
-科威特外交部在一份宣告中譴責以色列公開反對特朗普全面計劃的路線圖，該計劃旨在完成結束加沙衝突的執行。
-
----
-
-### 2026-08-17 02:57:18  #MKT News
-
-Tasnim News reported Iranian parliament speaker Ghalibaf said this is the US and Israeli regimes' most painful defeat.
-
----
-
-### 2026-08-17 02:57:04  #國際
-
-【伊朗議長：美以未能實現任何既定目標，伊朗已贏得這場戰爭】伊朗議長卡利巴夫表示：“在這場戰爭中，我們確實在軍事和政治兩條戰線上都取得了真正的勝利。這並不意味著我們摧毀了美軍。美國和以色列帶著九個明確的、公開宣佈的目標來攻擊我們，但他們在任何層面上都未能實現這九個目標中的任何一個。這是美國和以色列遭遇的最徹底的絕對失敗。在外交領域，同樣如此。”
-
----
-
-### 2026-08-17 02:56:49  #MKT News
-
-TASNIM NEWS reported Iranian parliament speaker Ghalibaf said Iran has won the war militarily and politically, adding this does not mean Iran destroyed the US military; rather, he said the US and Israel attacked with nine publicly stated objectives and failed to achieve any of them at any level.
-
----
-
-### 2026-08-17 02:55:10  #MKT News
-
-Qatar's foreign ministry said the prime minister spoke by phone with Syria's foreign minister to discuss recent regional developments and efforts to de-escalate tensions.
-
----
-
-### 2026-08-17 02:53:48  #MKT News
-
-Qatar's foreign ministry said the prime minister reiterated Doha's full support for efforts to de-escalate tensions and to reach a comprehensive agreement aimed at securing lasting regional peace.
-
----
-
-### 2026-08-17 02:53:41  #國際
-
-卡達外交部：首相在與敘利亞外交部長的通話中討論了地區最新局勢及緩和局勢的努力。
-
----
-
-### 2026-08-17 02:53:24  #MKT News #WTI #Impact bearish #Brent
-
-Qatar's foreign ministry said the prime minister urged all parties to pursue dialogue and diplomacy and to implement the understandings in the US-Iran memorandum, including ensuring freedom of navigation in the Strait of Hormuz, to safeguard regional security, preserve gains and bolster stability.
-
----
-
-### 2026-08-17 02:52:37  #國際
-
-卡達外交部：首相在與沙特外交部長的通話中討論了地區最新局勢及緩和緊張局勢的努力。
-
----
-
-### 2026-08-17 02:52:27  #MKT News
-
-Qatar's foreign ministry said the prime minister spoke with Jordan's foreign minister and discussed diplomatic efforts aimed at easing regional tensions.
-
----
-
-### 2026-08-17 02:51:51  #國際
-
-卡達外交部：首相強調各方必須堅持對話，並落實諒解備忘錄中達成的各項共識。
-
----
-
-### 2026-08-17 02:51:40  #國際
-
-卡達外交部：首相在與約旦外交部長的通話中商討了旨在緩解地區局勢的外交努力。
 
 ---

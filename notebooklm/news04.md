@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 02:44:09_
-_本檔包含 3138 則快訊，約 634123 字_
+_更新時間：2026-08-24 03:23:04_
+_本檔包含 3130 則快訊，約 633639 字_
+
+---
+
+### 2026-08-19 11:32:25  #Trading Economics #Markets #Commodity #Importance 2
+
+Copper Extends Fall as Supply Squeeze Eases — Copper futures slipped to around $6.45 per pound on Wednesday, extending the previous session’s losses as a pickup in metal deliveries to London Metal Exchange warehouses helped relieve a historic supply squeeze. LME copper inventories climbed by 20,000 tons on Tuesday, marking their biggest daily increase since April, with Trafigura Group reportedly responsible for a substantial portion of the inflows. Copper had rallied to record highs earlier this month as tightening global supply fueled gains, largely reflecting an arbitrage trade ahead of potential US import tariffs. Meanwhile, top producer Chile expects copper output to decline this year as ongoing disruptions continue to affect mines and development projects. The broader metals complex also faced pressure from elevated global bond yields and firmer oil prices, keeping inflationary pressures and interest rate risks at the forefront of investor concerns.
+
+---
+
+### 2026-08-19 11:32:15  #公司
+
+【上港能源、達飛集團、上海電氣攜手重新整理單次生物質甲醇加註量世界紀錄】據“上海臨港”訊息，上港能源、達飛集團與上海電氣三方通力協作，在上海港為“達飛歐斯米姆”輪成功加註8016噸國產生物質甲醇。此次作業重新整理了單次船舶生物質甲醇加註量的世界紀錄，超越了2026年3月上港能源為達飛集團全球首船生物質甲醇3643噸的加註紀錄。
+
+---
+
+### 2026-08-19 11:31:58  #MKT News
+
+Mexico's economy minister said he met with U.S. Trade Representative Greer to discuss an upcoming new round of USMCA negotiations and Section 301 investigations, describing the meeting as productive.
+
+---
+
+### 2026-08-19 11:31:42  #MKT News #Market Regions #Japan & APAC #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
+
+【Japan becomes a case study of global long-end rates dilemma】Goldman Sachs trading desk head Rich Privorotsky says long-end rate pressure has taken on global characteristics: soft economic data can push down short rates while long-term bond yields remain under sustained pressure. Japan is the clearest example — the 10-year JGB yield has risen to about 2.94%, a 30-year high, and markets are pricing faster BOJ tightening. Tokyo is trying to sustain growth and equities, stabilize the currency, pursue fiscal expansion and keep the yield curve anchored; Privorotsky says those aims are increasingly incompatible. Fiscal loosening and higher nominal growth push long rates up, while more aggressive central bank tightening would raise economic and financial stress. He concludes Japan may ultimately need stronger monetary tightening, but political and structural constraints after decades of deflation make that path difficult; markets are already pricing the broader risk that central banks lose control of long-end yields when fiscal expansion and capital demand rise.
 
 ---
 
@@ -18871,77 +18895,5 @@ Japanese Shares Slip on Surging Bond Yields — The Nikkei 225 Index fell 0.4% t
 ### 2026-08-18 08:54:23  #國際
 
 【伊朗農業部長：將全力確保糧食安全】當地時間17日，伊朗農業部長古拉姆雷扎·努裡表示，有證據顯示，美國將糧食等生活物資也納入到對伊朗的戰爭範疇當中，伊朗將使用一切必要措施，確保本國糧食安全。努裡指出，長期以來，美國在人權、糧食安全、醫療等方面，均採取了雙重標準政策。近年來，伊朗始終受到敵對國家的惡意干擾，且美國等國將糧食安全也納入到對伊朗的戰爭範疇中。儘管目前美國對伊朗的封鎖還在持續，但伊朗將利用一切必要措施，確保本國糧食安全。
-
----
-
-### 2026-08-18 08:52:51  #其他
-
-【離境退稅2.0版政策上線，鄭州海關離境退稅業務量暴漲】隨著中國免籤“朋友圈”持續擴容和離境退稅2.0版新政正式落地實施，“中國遊”“中國購”持續升溫。據鄭州海關統計，今年1-7月，該關辦理離境退稅驗核申請單285票，同比增長150%，境外旅客入境消費潛力持續釋放。 （鄭州釋出）
-
----
-
-### 2026-08-18 08:52:15  #國際
-
-【美國電影協會與位元組跳動達成協議，加強生成式AI智慧財產權保護】當地時間8月17日，美國電影協會（MPA）與位元組跳動宣佈達成諒解備忘錄，就加強Seedance、Seedream等生成式AI影片和影象模型的智慧財產權保護建立合作框架。雙方表示，將繼續完善相關智慧財產權保護措施，以保護影視行業創意內容。
-
----
-
-### 2026-08-18 08:52:10  #公司
-
-【上海電氣與中國一重共商深化產業鏈協同】據上海電氣訊息，8月17日上午，上海電氣集團黨委書記、董事長吳磊率隊拜訪中國一重集團有限公司，與中國一重黨委書記、董事長呂智強舉行座談，雙方圍繞深化央地合作、強化產業鏈協同、拓寬新能源、高階裝備領域合作等議題進行了交流。
-
----
-
-### 2026-08-18 08:52:00  #公司 #國際
-
-【微軟、賽富時有意在 Darwinbox 計劃 IPO 之前收購該公司】據印度媒體Mint，三位知情人士透露，由 KKR 投資的人力資源與薪資服務提供商 Darwinbox 正收到收購邀約，與此同時該公司計劃未來數年推進潛在上市。現有投資方賽富時、微軟，以及美國人力資源薪資服務商 ADP，已接觸公司創始人和董事會，意圖收購其他股東所持股份。
-
----
-
-### 2026-08-18 08:51:14  #國際
-
-【聯合國敦促美伊儘快恢復談判 避免採取軍事行動】當地時間17日，聯合國秘書長發言人迪雅裡克在例行釋出會上表示，近日黎巴嫩南部暴力活動明顯加劇，黎巴嫩一側出現平民傷亡，一些剛剛返回家園的家庭再次被迫流離失所。聯合國駐黎巴嫩臨時部隊報告稱，上週末以軍發起多次空襲。聯合國敦促各方保持最大限度剋制，遵守停火安排，透過對話推動局勢降級。迪雅裡克還就美國和伊朗此前達成的諒解備忘錄所設定的60天談判視窗期期滿一事表示，聯合國秘書長古特雷斯一直強調，當前衝突不存在軍事解決方案，敦促美伊儘快恢復談判，避免採取軍事行動。
-
----
-
-### 2026-08-18 08:50:46  #央行 #歐洲央行
-
-【歐央行專欄預警：AI估值極度樂觀 是否將重演網際網路泡沫？】歐洲央行研究員承認，當前科技股高估值，有可能反映市場對AI真實生產力潛力的理性預期。但文章同時提出另一種偏悲觀的解讀：歷史上每一輪科技繁榮，往往都遵循一套可預見的發展軌跡：初期市場狂熱、估值飆升、投資者風險認知逐步發生轉變，隨後迎來回撥，讓過度樂觀的投資者猝不及防。
-
----
-
-### 2026-08-18 08:50:38  #其他
-
-【西南華南東北等地降雨頻繁 江南持續高溫悶熱】今天（8月18日），我國西南、華南和東北部分地區雨勢較強，四川、廣西、黑龍江等地部分地區有暴雨或大暴雨，需注意防範降雨可能引發的次生災害。在降水較少、較弱的江南等地，未來幾天高溫悶熱天氣盛行，需注意防暑。
-
----
-
-### 2026-08-18 08:48:18  #央行 #美聯儲
-
-【鷹派還不夠多！高盛最新預測：美聯儲9月不加息】美聯儲貨幣政策正走到十字路口：聯邦公開市場委員會（FOMC）對於是否需要加息以遏制通脹意見分裂，而美國總統特朗普則要求降息來刺激經濟。在上月美聯儲會議紀要釋出前夕，高盛認為，結合最新的經濟資料，下月聯邦公開市場委員會不會有足夠多委員轉向鷹派立場，不足以觸發加息。
-
----
-
-### 2026-08-18 08:48:07  #公司
-
-【小米入股影像科技公司海寧奕都視】企查查APP顯示，近日，海寧奕都視影像科技有限公司發生工商變更，新增北京小米智造股權投資基金合夥企業（有限合夥）等為股東，同時註冊資本增至1258萬元。企查查資訊顯示，該公司成立於2024年，經營範圍包含：電子專用裝置製造；光電子器件製造；電子真空器件製造；電子真空器件銷售等。
-
----
-
-### 2026-08-18 08:47:45  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Margin financing at Chinese exchanges rises CNY17.765 bln】As of Aug 17, margin financing balances were CNY1,364.85 bln on the Shanghai Stock Exchange, up CNY9.852 bln from the prior session; CNY1,292.443 bln on the Shenzhen Stock Exchange, up CNY7.913 bln; combined CNY2,657.293 bln, up CNY17.765 bln.
-
----
-
-### 2026-08-18 08:46:46  #其他
-
-【兩市融資餘額較上日增加177.64億元】截至8月17日，上交所融資餘額報13648.50億元，較前一交易日增加98.52億元；深交所融資餘額報12924.43億元，較前一交易日增加79.12億元；兩市合計26572.93億元，較前一交易日增加177.64億元。
-
----
-
-### 2026-08-18 08:46:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Hits Over 4-Month High — US heating oil futures rose to around $4.45 per gallon on Tuesday, reaching their highest level since early April, as fading hopes for a near-term resolution to the US-Iran conflict heightened expectations of prolonged supply disruptions from the region. President Donald Trump said he was not interested in extending an agreement with Tehran that technically expired on Monday, while disagreements over the Strait of Hormuz continue to complicate negotiations. Iran is holding separate talks with Oman on managing the waterway, with Trump threatening to bomb Oman if it interferes with a US blockade. Still, continued crude shipments through the Persian Gulf waterway have eased some supply concerns. Elsewhere, frequent Ukrainian strikes on Russian oil refineries have disrupted fuel supplies, prompting gasoline rationing in at least two regions and restrictions on refined-product exports. Russia has since extended its existing diesel export ban until January 2027.
 
 ---

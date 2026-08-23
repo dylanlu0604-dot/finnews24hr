@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-24 02:44:09_
-_本檔包含 3240 則快訊，約 634849 字_
+_更新時間：2026-08-24 03:23:04_
+_本檔包含 3244 則快訊，約 633770 字_
+
+---
+
+### 2026-08-24 03:17:42  #國際
+
+黎巴嫩：以色列戰機對“阿爾杜布沙”高地發動了空襲。
+
+---
+
+### 2026-08-24 03:15:22  #國際
+
+伊朗最高國家安全委員會秘書雷扎伊：如果經濟戰持續，將不會有一滴石油得以出口，無論是經由霍爾木茲海峽，還是波斯灣其他出口通道。伊朗將把任何參與或支援美國針對伊朗民眾發動經濟戰的國家，視作戰爭行為。
+
+---
+
+### 2026-08-24 03:11:13  #國際
+
+【俄國防部：擊落269架烏克蘭無人機】俄羅斯國防部23日晚釋出通報說，莫斯科時間當天8時至20時，俄防空部隊在阿爾漢格爾斯克州、別爾哥羅德州、布良斯克州以及莫斯科地區等俄多地攔截並擊落269架烏克蘭無人機。
+
+---
+
+### 2026-08-24 03:10:56  #其他
+
+出口民調顯示：哈薩克阿迪萊特黨（Adilet）在議會選舉中得票率達71.8%。
+
+---
+
+### 2026-08-24 03:09:49  #市場
+
+美加貿易緊張局勢升溫，加元匯率下跌0.5%。
+
+---
+
+### 2026-08-24 03:06:10  #其他
+
+出口民調顯示，哈薩克支援總統的阿達勒特黨在提前選舉中贏得絕大多數席位。
+
+---
+
+### 2026-08-24 03:05:03  #其他
+
+Hugging Face正收到多起併購意向，潛在交易價值為130億美元。
+
+---
+
+### 2026-08-24 03:02:57  #國際
+
+沙特王儲穆罕默德·本·薩勒曼與法國總統馬克龍出席巴黎電競世界盃閉幕式。
+
+---
+
+### 2026-08-24 02:48:33  #公司
+
+【英偉達遠期市盈率跌至多年低位，財報將檢驗AI行情持續性】儘管英偉達毛利率接近75%，但其遠期市盈率已經跌至五年多來、相對於自身十年曆史區間的低位；市場對客戶集中度風險以及AI迴圈融資模式的擔憂不斷升溫。英偉達即將釋出的財報將檢驗本輪AI交易行情，投資者重點關注超大規模雲廠商資本開支、記憶體短缺問題以及AI泡沫風險。
 
 ---
 
@@ -19526,35 +19580,5 @@ China and Indonesia held the inaugural meeting of their Comprehensive Strategic 
 ### 2026-08-21 11:19:27  #公司
 
 【東方精工、深圳國資等成立私募股權投資基金】企查查APP顯示，近日，深圳市富海重產私募股權投資基金合夥企業（有限合夥）成立，出資額2.5億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該公司由東方精工全資子公司海南省億能投資有限公司、深圳市重投資本管理有限公司等共同持股。
-
----
-
-### 2026-08-21 11:16:44  #國際
-
-【中國印尼全面戰略對話機制首次會議在雅加達舉行】】當地時間8月21日上午，中國印尼全面戰略對話機制首次會議在雅加達舉行。
-
----
-
-### 2026-08-21 11:15:57  #MKT News #CSI300 #Impact bullish #SSE Composite #CNH #Impact mixed
-
-【Finance Ministry to plan practical incremental policies in H2】Vice Finance Minister Liao Min said at an Aug. 21 State Council Information Office briefing that in H2 fiscal policy will prioritize faster fund deployment, stronger measures to expand domestic demand, and strengthened fiscal reform and management. The ministry said it will, depending on macro conditions, timely design and roll out practical, effective incremental measures to support qualitative improvement and reasonable growth of the economy.
-
----
-
-### 2026-08-21 11:15:53  #公司
-
-【瀾存科技：完成數千萬元Pre-A輪融資 半年內估值翻番】上海瀾存科技有限公司（以下簡稱“瀾存科技”）宣佈完成數千萬元Pre-A輪股權融資，本輪投資方為錫創投，拓界資本擔任獨家財務顧問。繼2026年4月完成天使輪融資後，公司僅隔三個月再獲資本加註，實現半年兩輪融資落地。本輪投後估值達到1.5億元，半年內實現翻番。（新浪科技）
-
----
-
-### 2026-08-21 11:15:38  #宏觀
-
-【財政部：下半年 更加積極的財政政策重點從三方面發力】今天（21日），國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，財政部有關負責人介紹了今年積極財政政策的作用，並對下半年政策發力重點進行了介紹。財政部副部長廖岷介紹，今年以來，財政部堅定實施更加積極的財政政策：今年財政支出預算安排首次超過30萬億元。新增政府債券規模達到11.89萬億元，為歷年來力度最大。中央對地方轉移支付連續第四年超過10萬億元，達到10.42萬億元。下半年，財政政策將重點在三個方面繼續發力顯效：加快資金使用加力擴大內需加強財政改革管理關於增量政策，下半年根據宏觀經濟執行情況，財政部將及時謀劃出臺務實管用的增量政策，為實現經濟質的有效提升和量的合理增長提供有力支撐。
-
----
-
-### 2026-08-21 11:13:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Nikkei 225 #Impact bearish #US10Y
-
-【Japan's Nikkei set for biggest weekly drop since week ending July 17 as Middle East uncertainty lifts oil, yields】Japan's Nikkei index slipped 0.3% by Friday midday and is on track for about a 4% weekly decline, its largest weekly fall since the week ending July 17, as uncertainty around the Middle East conflict pushed oil higher and heightened inflation concerns. The broader TOPIX fell 0.1% and is set for a roughly 3.4% weekly drop. Nomura strategist Maki Sawada said profit-taking is likely into the weekend as oil and bond yields rise amid Middle East uncertainty.
 
 ---

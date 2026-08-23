@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 02:44:09_
-_本檔包含 3157 則快訊，約 634246 字_
+_更新時間：2026-08-24 03:23:04_
+_本檔包含 3157 則快訊，約 633442 字_
+
+---
+
+### 2026-08-20 12:02:06  #市場
+
+【港股午評：恒生指數漲1.14%，恒生科技指數漲1.54%】港股午間收盤，恒生指數漲1.14%，恒生科技指數漲1.54%。恒指港股通ETF銀華（159318）漲0.45%，港股通科技ETF鵬華（159751）漲1.67%。板塊方面，抗感染藥、休閒設施板塊漲幅靠前；其他計算機裝置、電機Ⅲ板塊跌幅靠前。個股方面，雲頂新耀漲68.07%，嘉耀控股漲36.71%，劑泰科技-P漲32.17%，德適-B漲24.4%，中國生物製藥漲16.18%；快手-W跌9.74%，時代電氣跌7.83%，樂動機器人跌6.0%，平安好醫生跌5.96%，應星控股跌5.88%。
+
+---
+
+### 2026-08-20 12:01:42  #MKT News #Market Regions
+
+Malaysia Department of Statistics said July trade surplus was 22.46 billion Ringgit, versus a Reuters survey of 17.5 billion Ringgit.
+
+---
+
+### 2026-08-20 12:01:35  #MKT News #Market Regions #Emerging Markets
+
+Department of Statistics Malaysia: July exports rose 38.0% (REUTERS SURVEY 34.3%).
+
+---
+
+### 2026-08-20 12:01:31  #MKT News #Important #CSI300 #Impact bearish #Hang Seng Index
+
+【Xu Jiayin sentenced to life; first-instance verdicts in Evergrande Group and Evergrande Real Estate cases】On the morning of Aug 20, 2026, the Shenzhen Intermediate People’s Court issued first-instance verdicts in cases against Evergrande Group Co., Ltd., Evergrande Real Estate Group Co., Ltd. and Xu Jiayin. Evergrande Group was fined RMB 8.82 bln following combined convictions; Evergrande Real Estate was fined RMB 7.0 bln. Xu Jiayin was sentenced to life imprisonment, deprived of political rights for life, and ordered to forfeit all personal property; illicit gains will continue to be recovered and any shortfall will be ordered repaid. The Shenzhen Intermediate Court and Nanshan District People’s Court also sentenced 56 Evergrande-related defendants for illegal public deposit-taking, fundraising fraud and illegal use of funds to fixed-term prison terms ranging from 18 years to 1 year 10 months, and imposed fines or property confiscation; illicit gains will be recovered and shortfalls ordered repaid. Named defendants include Zhen Litao, Ke Peng, Xu Tenghe, Xu Zhijian, Du Liang and Liang Dong.
 
 ---
 
@@ -19026,29 +19050,5 @@ Thailand Federation of Industries says industrial confidence index rose to 90.0 
 ### 2026-08-19 11:32:43  #MKT News #3988.HK #Impact bullish #1398.HK #3328.HK
 
 【Henan superhard‑materials firms seek targeted financing at Xuchang industry‑bank matchmaking】Local superhard‑materials manufacturers pitched financing needs at an industry‑finance matchmaking event in Xuchang hosted by Huanghe Xuanfeng Co., Ltd. Zhongyuan Bank, Bank of China, Industrial & Commercial Bank of China (ICBC), Bank of Communications and asset manager Zhongding Kaiyuan Fund promoted sci‑tech loans and manufacturing‑specific lending, conducted one‑on‑one project meetings, and signalled intent to expand cooperation with participating firms.
-
----
-
-### 2026-08-19 11:32:25  #Trading Economics #Markets #Commodity #Importance 2
-
-Copper Extends Fall as Supply Squeeze Eases — Copper futures slipped to around $6.45 per pound on Wednesday, extending the previous session’s losses as a pickup in metal deliveries to London Metal Exchange warehouses helped relieve a historic supply squeeze. LME copper inventories climbed by 20,000 tons on Tuesday, marking their biggest daily increase since April, with Trafigura Group reportedly responsible for a substantial portion of the inflows. Copper had rallied to record highs earlier this month as tightening global supply fueled gains, largely reflecting an arbitrage trade ahead of potential US import tariffs. Meanwhile, top producer Chile expects copper output to decline this year as ongoing disruptions continue to affect mines and development projects. The broader metals complex also faced pressure from elevated global bond yields and firmer oil prices, keeping inflationary pressures and interest rate risks at the forefront of investor concerns.
-
----
-
-### 2026-08-19 11:32:15  #公司
-
-【上港能源、達飛集團、上海電氣攜手重新整理單次生物質甲醇加註量世界紀錄】據“上海臨港”訊息，上港能源、達飛集團與上海電氣三方通力協作，在上海港為“達飛歐斯米姆”輪成功加註8016噸國產生物質甲醇。此次作業重新整理了單次船舶生物質甲醇加註量的世界紀錄，超越了2026年3月上港能源為達飛集團全球首船生物質甲醇3643噸的加註紀錄。
-
----
-
-### 2026-08-19 11:31:58  #MKT News
-
-Mexico's economy minister said he met with U.S. Trade Representative Greer to discuss an upcoming new round of USMCA negotiations and Section 301 investigations, describing the meeting as productive.
-
----
-
-### 2026-08-19 11:31:42  #MKT News #Market Regions #Japan & APAC #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
-
-【Japan becomes a case study of global long-end rates dilemma】Goldman Sachs trading desk head Rich Privorotsky says long-end rate pressure has taken on global characteristics: soft economic data can push down short rates while long-term bond yields remain under sustained pressure. Japan is the clearest example — the 10-year JGB yield has risen to about 2.94%, a 30-year high, and markets are pricing faster BOJ tightening. Tokyo is trying to sustain growth and equities, stabilize the currency, pursue fiscal expansion and keep the yield curve anchored; Privorotsky says those aims are increasingly incompatible. Fiscal loosening and higher nominal growth push long rates up, while more aggressive central bank tightening would raise economic and financial stress. He concludes Japan may ultimately need stronger monetary tightening, but political and structural constraints after decades of deflation make that path difficult; markets are already pricing the broader risk that central banks lose control of long-end yields when fiscal expansion and capital demand rise.
 
 ---

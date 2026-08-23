@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 02:44:09_
-_本檔包含 3306 則快訊，約 634085 字_
+_更新時間：2026-08-24 03:23:04_
+_本檔包含 3307 則快訊，約 634117 字_
+
+---
+
+### 2026-08-21 11:16:44  #國際
+
+【中國印尼全面戰略對話機制首次會議在雅加達舉行】】當地時間8月21日上午，中國印尼全面戰略對話機制首次會議在雅加達舉行。
+
+---
+
+### 2026-08-21 11:15:57  #MKT News #CSI300 #Impact bullish #SSE Composite #CNH #Impact mixed
+
+【Finance Ministry to plan practical incremental policies in H2】Vice Finance Minister Liao Min said at an Aug. 21 State Council Information Office briefing that in H2 fiscal policy will prioritize faster fund deployment, stronger measures to expand domestic demand, and strengthened fiscal reform and management. The ministry said it will, depending on macro conditions, timely design and roll out practical, effective incremental measures to support qualitative improvement and reasonable growth of the economy.
+
+---
+
+### 2026-08-21 11:15:53  #公司
+
+【瀾存科技：完成數千萬元Pre-A輪融資 半年內估值翻番】上海瀾存科技有限公司（以下簡稱“瀾存科技”）宣佈完成數千萬元Pre-A輪股權融資，本輪投資方為錫創投，拓界資本擔任獨家財務顧問。繼2026年4月完成天使輪融資後，公司僅隔三個月再獲資本加註，實現半年兩輪融資落地。本輪投後估值達到1.5億元，半年內實現翻番。（新浪科技）
+
+---
+
+### 2026-08-21 11:15:38  #宏觀
+
+【財政部：下半年 更加積極的財政政策重點從三方面發力】今天（21日），國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，財政部有關負責人介紹了今年積極財政政策的作用，並對下半年政策發力重點進行了介紹。財政部副部長廖岷介紹，今年以來，財政部堅定實施更加積極的財政政策：今年財政支出預算安排首次超過30萬億元。新增政府債券規模達到11.89萬億元，為歷年來力度最大。中央對地方轉移支付連續第四年超過10萬億元，達到10.42萬億元。下半年，財政政策將重點在三個方面繼續發力顯效：加快資金使用加力擴大內需加強財政改革管理關於增量政策，下半年根據宏觀經濟執行情況，財政部將及時謀劃出臺務實管用的增量政策，為實現經濟質的有效提升和量的合理增長提供有力支撐。
+
+---
+
+### 2026-08-21 11:13:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Nikkei 225 #Impact bearish #US10Y
+
+【Japan's Nikkei set for biggest weekly drop since week ending July 17 as Middle East uncertainty lifts oil, yields】Japan's Nikkei index slipped 0.3% by Friday midday and is on track for about a 4% weekly decline, its largest weekly fall since the week ending July 17, as uncertainty around the Middle East conflict pushed oil higher and heightened inflation concerns. The broader TOPIX fell 0.1% and is set for a roughly 3.4% weekly drop. Nomura strategist Maki Sawada said profit-taking is likely into the weekend as oil and bond yields rise amid Middle East uncertainty.
 
 ---
 
@@ -19940,29 +19970,5 @@ Malaysia Imports Rise More than Expected — Malaysia's imports rose 36.4% year-
 ### 2026-08-20 12:03:41  #MKT News #Important #Market Themes #China EV Leaders #Market Regions #Greater China #01952.HK #Impact bullish #06185.HK #01177.HK
 
 【Hong Kong midday: Hang Seng Tech +1.54% as biopharma rallies; CanSino +51%】Hong Kong stocks opened higher, recovered after an early dip; Hang Seng +1.14% at 25,786.32, Hang Seng Tech +1.54% at 4,754.13. Biopharma and oncology names led gains alongside gold and selective NEV names; shale gas and casual gaming lagged. Biggest moves: 01952.HK +68%; CanSino Biologics (06185.HK) +51%; China Biologic Products (01177.HK) +16%; CSPC PHARMA (01093.HK) +13.5%; Laopu Gold (06181.HK) +11%; MINIMAX-W (00100.HK), Cambridge Technology (06166.HK), Shandong Gold (01787.HK) > +8%; Chow Tai Fook (01929.HK) +7%; Li Auto (02015.HK) ~+6%. Kuaishou Technology (01024.HK) fell ~10% after results; 06683.HK down ~5%.
-
----
-
-### 2026-08-20 12:02:06  #市場
-
-【港股午評：恒生指數漲1.14%，恒生科技指數漲1.54%】港股午間收盤，恒生指數漲1.14%，恒生科技指數漲1.54%。恒指港股通ETF銀華（159318）漲0.45%，港股通科技ETF鵬華（159751）漲1.67%。板塊方面，抗感染藥、休閒設施板塊漲幅靠前；其他計算機裝置、電機Ⅲ板塊跌幅靠前。個股方面，雲頂新耀漲68.07%，嘉耀控股漲36.71%，劑泰科技-P漲32.17%，德適-B漲24.4%，中國生物製藥漲16.18%；快手-W跌9.74%，時代電氣跌7.83%，樂動機器人跌6.0%，平安好醫生跌5.96%，應星控股跌5.88%。
-
----
-
-### 2026-08-20 12:01:42  #MKT News #Market Regions
-
-Malaysia Department of Statistics said July trade surplus was 22.46 billion Ringgit, versus a Reuters survey of 17.5 billion Ringgit.
-
----
-
-### 2026-08-20 12:01:35  #MKT News #Market Regions #Emerging Markets
-
-Department of Statistics Malaysia: July exports rose 38.0% (REUTERS SURVEY 34.3%).
-
----
-
-### 2026-08-20 12:01:31  #MKT News #Important #CSI300 #Impact bearish #Hang Seng Index
-
-【Xu Jiayin sentenced to life; first-instance verdicts in Evergrande Group and Evergrande Real Estate cases】On the morning of Aug 20, 2026, the Shenzhen Intermediate People’s Court issued first-instance verdicts in cases against Evergrande Group Co., Ltd., Evergrande Real Estate Group Co., Ltd. and Xu Jiayin. Evergrande Group was fined RMB 8.82 bln following combined convictions; Evergrande Real Estate was fined RMB 7.0 bln. Xu Jiayin was sentenced to life imprisonment, deprived of political rights for life, and ordered to forfeit all personal property; illicit gains will continue to be recovered and any shortfall will be ordered repaid. The Shenzhen Intermediate Court and Nanshan District People’s Court also sentenced 56 Evergrande-related defendants for illegal public deposit-taking, fundraising fraud and illegal use of funds to fixed-term prison terms ranging from 18 years to 1 year 10 months, and imposed fines or property confiscation; illicit gains will be recovered and shortfalls ordered repaid. Named defendants include Zhen Litao, Ke Peng, Xu Tenghe, Xu Zhijian, Du Liang and Liang Dong.
 
 ---
