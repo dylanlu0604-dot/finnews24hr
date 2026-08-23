@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-24 03:14:48",
-  "count": 15828,
+  "updated": "2026-08-24 03:18:57",
+  "count": 15827,
   "items": [
+    {
+      "id": "5053874",
+      "time": "2026-08-24 03:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩：以色列戰機對“阿爾杜布沙”高地發動了空襲。"
+    },
+    {
+      "id": "5053868",
+      "time": "2026-08-24 03:15:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊：如果經濟戰持續，將不會有一滴石油得以出口，無論是經由霍爾木茲海峽，還是波斯灣其他出口通道。伊朗將把任何參與或支援美國針對伊朗民眾發動經濟戰的國家，視作戰爭行為。"
+    },
     {
       "id": "5053864",
       "time": "2026-08-24 03:11:13",
@@ -144734,30 +144750,6 @@
         "其他"
       ],
       "text": "哈馬斯：呼籲調解方與和平委員會履行其職責，迫使佔領方落實各項義務並停止侵權行為。"
-    },
-    {
-      "id": "5042943",
-      "time": "2026-08-17 03:18:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯：為達成永久停火、以色列全面撤軍並啟動行政委員會工作，我們已同意該方案（特朗普計劃的第二階段路線圖）。"
-    },
-    {
-      "id": "mkt:01a00c02-469e-7aab-9050-3b2ac932b1d8",
-      "time": "2026-08-17 03:17:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sisi meets Kushner, urges implementation of Gaza ceasefire】Egyptian President Sisi met Jared Kushner in Alamein on the 16th and urged parties to implement the Gaza ceasefire and deliver on the outcomes of last October’s Sharm el‑Sheikh summit. The presidential office said they exchanged views on the Palestinian issue and broader Middle East developments and called for Egypt-US cooperation to resolve the regional crisis and preserve stability."
-    },
-    {
-      "id": "5042942",
-      "time": "2026-08-17 03:15:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及總統塞西會見庫什納 呼籲各方落實加沙停火】埃及總統塞西16日在埃及阿拉曼會見美國總統特朗普的女婿庫什納，呼籲有關各方推動落實加沙停火協議。埃及總統府當天發表宣告說，會見期間，雙方就巴勒斯坦問題等中東局勢發展交換意見，強調有關各方應履行去年10月在埃及舉行的沙姆沙伊赫峰會成果，推動落實加沙停火協議。塞西還表示，埃美兩國應協作推動解決地區危機，維護地區穩定。（新華社）"
     }
   ]
 }
