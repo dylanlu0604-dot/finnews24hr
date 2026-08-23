@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:51:24_
-_本檔包含 3041 則快訊，約 635561 字_
+_更新時間：2026-08-24 00:34:51_
+_本檔包含 3024 則快訊，約 634741 字_
+
+---
+
+### 2026-08-18 08:33:47  #其他
+
+【商務部等9部門：引導線上線下協同發展 深化農村電商高質量發展工程，深入實施“數商興農”】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導線上線下協同發展。深化農村電商高質量發展工程，深入實施“數商興農”。加強電商供應鏈建設，拓展鄉情民俗、非遺技藝、鄉村美食等農村電商應用場景。鼓勵供應鏈企業為縣域零售主體提供需求預測、物流最佳化、庫存管理等服務，開展批次集採訂製。引導平臺企業自覺規範價格和平臺補貼行為，對縣域新入駐商戶、小微商戶等合理降低佣金、技術服務等費用。統籌縣域電商公共服務資源，建設一批“村播學院”，加大公益培訓力度。
+
+---
+
+### 2026-08-18 08:33:11  #公司 #國際
+
+【韓國綜指漲幅擴大至3%】韓國綜指漲幅擴大至3%，現報7188.14點。個股方面，SK海力士漲超7%，三星電子漲超4%。
+
+---
+
+### 2026-08-18 08:32:40  #市場 #國際
+
+2年期日本國債收益率上升1個基點至1.7%，為1995年5月以來最高。
+
+---
+
+### 2026-08-18 08:32:16  #其他
+
+【九部門：標準化、規範化建設改造新型便利店、村級寄遞物流綜合服務站】商務部等9部門釋出《關於進一步激發下沉市場活力 活躍縣域消費的意見》提出，加快存量商業設施更新。支援傳統百貨、老舊購物中心等升級改造，推動品牌連鎖店、折扣零售店、生鮮電商門店等最佳化佈局。深化“千集萬店”改造提升，支援鄉鎮商貿中心、集（農）貿市場、鄉鎮特色大集等建設升級，標準化、規範化建設改造新型便利店、村級寄遞物流綜合服務站。
+
+---
+
+### 2026-08-18 08:31:57  #其他
+
+【商務部等9部門：加強財政資金保障 支援符合條件的個人消費貸款、服務業經營主體貸款享受財政貼息支援】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。施啟用下沉市場消費行動，重點面向縣域地區支援消費渠道升級、場景創新和效率提升，補齊生活服務短板。最佳化資源佈局，統籌中央和地方等相關資金渠道，整合利用存量資源，因地制宜建設縣域養老、托育、教育、醫療、體育等領域服務設施。支援符合條件的個人消費貸款、服務業經營主體貸款享受財政貼息支援。
+
+---
+
+### 2026-08-18 08:31:56  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #Copper
+
+【Nine ministries urge unlocking idle assets, accelerate redevelopment of existing land】MOFCOM and eight other ministries issued guidance to boost lower-tier market activity and county-level consumption, calling for activation of idle assets. Projects that reuse existing properties or land to develop county social services such as elderly care and childcare may receive up to five years of transitional support without requiring changes to the land-use holder or planning conditions. Subject to national land‑space planning, authorities encourage stock‑land redevelopment through self-operation, joint ventures or transfers to raise local commercial service capacity. County governments are supported to convert vacated office buildings and other idle state assets into convenience commercial outlets. Rural collective commercial construction land may be lawfully brought to market to develop county commerce, and idle rural housing is encouraged to be repurposed for new, village‑appropriate industries and business formats.
 
 ---
 
@@ -18213,143 +18249,5 @@ Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy
 ### 2026-08-17 00:47:12  #MKT News
 
 Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Nikolay Mladenov rejected a Hamas proposal to "store weapons".
-
----
-
-### 2026-08-17 00:32:26  #國際
-
-黎巴嫩：以色列炮擊黎巴嫩南部拜特亞胡恩與巴拉希特兩鎮之間的地區。
-
----
-
-### 2026-08-17 00:32:15  #MKT News
-
-Prime Minister Carney said the government is committed to building more affordable housing nationwide and has launched Maisons Canada, the Canadian Housing Plan, to rapidly scale construction using Canadian workers, materials and technology.
-
----
-
-### 2026-08-17 00:30:46  #國際
-
-中東和平委員會：絕不允許加沙再度成為針對以色列發動襲擊的策源地。
-
----
-
-### 2026-08-17 00:30:16  #國際
-
-中東和平委員會提出要求：若哈馬斯啟動上繳銷燬武器的程序，以色列必須在加沙開展對等撤軍行動。
-
----
-
-### 2026-08-17 00:29:06  #國際
-
-中東和平委員會要求哈馬斯著手拆除武器以及軍事基礎設施。
-
----
-
-### 2026-08-17 00:26:22  #MKT News
-
-Iraq's finance minister said the government will continue to strengthen non-oil revenues to offset the impact of a blockade of the Strait of Hormuz.
-
----
-
-### 2026-08-17 00:24:11  #國際
-
-阿拉伯和伊斯蘭國家外長發表宣告：呼籲支援和平委員會為落實路線圖及其第二階段所作的努力，呼籲和平理事會採取緊急措施，維護加沙計劃並防止其受阻。
-
----
-
-### 2026-08-17 00:23:48  #MKT News #WTI #Impact bullish #Brent
-
-Iraq's finance minister said the closure of the Strait of Hormuz has directly affected the Iraqi economy.
-
----
-
-### 2026-08-17 00:23:30  #MKT News
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement urging support for the peace committee’s efforts to implement the roadmap and advance to a second phase.
-
----
-
-### 2026-08-17 00:22:34  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Ukraine strikes major Russian logistics hub; Russia hits Ukrainian military-industrial sites, refineries】Ukraine's defence ministry said on social media that early on the 16th its forces launched a large-scale drone strike on a logistics hub in Moscow region operated by e-commerce platform Wildberries. Russia's defence ministry said its forces struck Ukrainian military-industrial facilities and refineries the same day.
-
----
-
-### 2026-08-17 00:19:43  #公司 #國際
-
-【烏軍襲擊俄大型物流樞紐 俄打擊烏軍工企業和煉油廠】烏克蘭國防部16日在社交媒體發文稱，當天凌晨，烏軍對俄大型電商平臺野莓公司位於莫斯科州的物流樞紐發動了大規模無人機襲擊。另據俄國防部16日釋出的訊息，俄軍當天打擊了烏克蘭的軍工企業和煉油廠等設施。
-
----
-
-### 2026-08-17 00:18:38  #國際
-
-哈馬斯表示，其高階代表團在開羅與埃及官員舉行的會談，重點在於鞏固加沙地帶的停火，並確保以色列履行美國支援的所謂“和平計劃”所作出的各項承諾。
-
----
-
-### 2026-08-17 00:17:04  #市場 #國際
-
-【原材料物流成本大幅抬升，伊朗三分之二藥品兩輪漲價】伊朗食品藥品管理局局長週日表示，自3月21日以來，伊朗約三分之二的藥品已經經歷兩輪漲價。邁赫迪·皮爾薩萊希稱，原材料、運輸以及生產成本上漲是推高藥價的部分原因。他表示，部分進口藥品的海運運費約3000美元，如今改為空運後運費已漲至30000美元。他補充，此番漲價旨在避免製藥企業虧損經營。皮爾薩萊希稱，伊朗今年已劃撥45億美元外匯用於採購藥品和醫療裝置，其中已有13億美元按照補貼匯率撥付到位。
-
----
-
-### 2026-08-17 00:12:44  #MKT News
-
-Market sources: French Prime Minister Lecornu will hold a crisis meeting on Monday to respond to a cyberattack disclosed last week that targeted the country's tax authority.
-
----
-
-### 2026-08-17 00:10:42  #其他
-
-巴西總統盧拉開啟連任競選。
-
----
-
-### 2026-08-17 00:08:48  #國際
-
-伊朗總統：那些在我國境內挑起紛爭的人應當明白，這隻會有利於美國和以色列。
-
----
-
-### 2026-08-17 00:07:57  #MKT News
-
-According to Al Jazeera, Iran's president said those stirring domestic divisions must realize this only benefits the United States and Israel.
-
----
-
-### 2026-08-17 00:01:52  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-IRNA quoted Iran's army general staff as saying it is confident the USS Abraham Lincoln was struck at least once by munitions fired by Iran, temporarily preventing all embarked fighters from launching.
-
----
-
-### 2026-08-17 00:00:34  #國際
-
-伊朗：儘管遭受戰時損毀，伊朗航天工業仍在繼續推進發展。
-
----
-
-### 2026-08-16 23:59:06  #國際
-
-伊朗陸軍總司令：我們確信林肯號航空母艦至少遭到過一次伊朗彈藥打擊，受此影響，該艦艦載戰鬥機曾有一段時間完全無法起飛。
-
----
-
-### 2026-08-16 23:57:47  #其他
-
-法國總理勒科爾尼將於週一召開危機會議，以應對上週曝光的針對該國稅務總局的網路攻擊事件。
-
----
-
-### 2026-08-16 23:55:09  #其他
-
-【巴西發生一起旅遊大巴翻車事故 已致9人死亡】當地時間8月16日凌晨，巴西里約熱內盧州發生一起交通事故，一輛旅遊大巴在行駛途中翻車，目前已造成至少9人死亡，包括8名成人和1名兒童。
-
----
-
-### 2026-08-16 23:51:41  #MKT News
-
-Al Arabiya TV reported Kushner, a senior adviser to Trump, has concluded a meeting with the Gaza Peace Committee.
 
 ---

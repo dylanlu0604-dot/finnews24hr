@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:51:24_
-_本檔包含 3136 則快訊，約 635636 字_
+_更新時間：2026-08-24 00:34:51_
+_本檔包含 3137 則快訊，約 636006 字_
+
+---
+
+### 2026-08-19 11:24:07  #公司
+
+【河南省超硬材料產業鏈產融對接活動在許昌市舉辦】據許昌日報，近日，河南省超硬材料產業鏈產融對接活動在黃河旋風股份有限公司舉辦。座談交流環節，黃河旋風股份有限公司、河南風優創材料技術有限公司、卓工新材料有限公司、凱利達金剛石工具有限公司、鴻泰鑽石科技有限公司等企業分別介紹其核心產品、經營現狀及融資需求。中原銀行、中國銀行、工商銀行、交通銀行、中鼎開源基金等機構現場推介科創貸、製造業專項貸等惠企政策，並圍繞企業專案前景一對一答疑洽談，多家銀行現場表達了進一步合作意向。
+
+---
+
+### 2026-08-19 11:23:57  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Remains Firm — The Australian dollar fell below $0.71, but remained near a ten-week high as investors weighed the Reserve Bank of Australia's latest remarks and soft quarterly wages data. Australian wages rose at a moderate pace for a fifth straight quarter in the June quarter, as annual growth in the private sector slowed to its lowest level in four years. The softer private wage growth could ease some pressure on the RBA to tighten policy, although Deputy Governor Andrew Hauser warned that the central bank may need to raise rates again if upside inflation risks crystallize. He highlighted the Middle East conflict, the global AI boom and weak productivity as key risks to inflation. The RBA kept its cash rate at 4.35% last week after raising rates by 75 basis points since February to contain persistent price pressures. Meanwhile, the greenback remained broadly weaker, as markets pared back expectations of further Federal Reserve interest rate hikes following a series of weak US economic data.
+
+---
+
+### 2026-08-19 11:23:51  #市場
+
+【港口航運板塊異動走高，南京港漲停】港口航運板塊異動走高，南京港漲停，中谷物流、招商輪船、連雲港、中遠海能、國航遠洋跟漲。
+
+---
+
+### 2026-08-19 11:23:16  #MKT News
+
+EMSC reported a magnitude 5.3 earthquake in Indonesia's Flores region.
+
+---
+
+### 2026-08-19 11:23:07  #市場 #焦點
+
+科創50日內跌幅達6％，成分股中，盛科通訊跌11.47％，盛美上海跌11.25％，芯原股份跌11.25％，華虹宏力跌10.23％。
+
+---
+
+### 2026-08-19 11:22:39  #央行
+
+澳洲聯儲副行長豪澤：家庭緩衝資金有助於支撐消費支出。
+
+---
+
+### 2026-08-19 11:22:20  #Trading Economics #Economy #Australia #Interest Rate #Importance 1
+
+RBA Flags Inflation Risks, Keeps Hike Option Open — The Reserve Bank of Australia (RBA) will need to raise interest rates again if upside risks to inflation materialize, Deputy Governor Andrew Hauser warned in a Wednesday speech. He said inflation remains “too high” and highlighted three key risks: the Middle East conflict, the global AI boom, and weak productivity. The central bank has already lifted rates by 75 basis points since the start of the year to curb stubborn price pressures, but held steady at 4.35% for a second consecutive meeting last week. Hauser’s remarks underscore the Bank’s readiness to act further should these risks intensify, keeping policy firmly focused on restraining inflation.
 
 ---
 
@@ -18895,41 +18937,5 @@ South Korea's KOSPI jumped 3.00% intraday to 7,188.14.
 ### 2026-08-18 08:34:20  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
 
 【Nine ministries roll out measures to boost county-level consumption; eligible consumer and service loans to get fiscal interest subsidies】MOFCOM and eight other ministries issued guidance to stimulate lower-tier and county-level consumption, prioritizing fiscal support. The plan calls for activating sinking-market consumption by upgrading retail channels, promoting scenario innovation, improving efficiency and filling gaps in life services. It directs coordination of central and local funding, integration of existing resources, and targeted construction of county-level eldercare, childcare, education, medical and sports service facilities. The guidance says eligible personal consumer loans and loans to service-sector operators will be supported to receive fiscal interest subsidies.
-
----
-
-### 2026-08-18 08:33:47  #其他
-
-【商務部等9部門：引導線上線下協同發展 深化農村電商高質量發展工程，深入實施“數商興農”】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導線上線下協同發展。深化農村電商高質量發展工程，深入實施“數商興農”。加強電商供應鏈建設，拓展鄉情民俗、非遺技藝、鄉村美食等農村電商應用場景。鼓勵供應鏈企業為縣域零售主體提供需求預測、物流最佳化、庫存管理等服務，開展批次集採訂製。引導平臺企業自覺規範價格和平臺補貼行為，對縣域新入駐商戶、小微商戶等合理降低佣金、技術服務等費用。統籌縣域電商公共服務資源，建設一批“村播學院”，加大公益培訓力度。
-
----
-
-### 2026-08-18 08:33:11  #公司 #國際
-
-【韓國綜指漲幅擴大至3%】韓國綜指漲幅擴大至3%，現報7188.14點。個股方面，SK海力士漲超7%，三星電子漲超4%。
-
----
-
-### 2026-08-18 08:32:40  #市場 #國際
-
-2年期日本國債收益率上升1個基點至1.7%，為1995年5月以來最高。
-
----
-
-### 2026-08-18 08:32:16  #其他
-
-【九部門：標準化、規範化建設改造新型便利店、村級寄遞物流綜合服務站】商務部等9部門釋出《關於進一步激發下沉市場活力 活躍縣域消費的意見》提出，加快存量商業設施更新。支援傳統百貨、老舊購物中心等升級改造，推動品牌連鎖店、折扣零售店、生鮮電商門店等最佳化佈局。深化“千集萬店”改造提升，支援鄉鎮商貿中心、集（農）貿市場、鄉鎮特色大集等建設升級，標準化、規範化建設改造新型便利店、村級寄遞物流綜合服務站。
-
----
-
-### 2026-08-18 08:31:57  #其他
-
-【商務部等9部門：加強財政資金保障 支援符合條件的個人消費貸款、服務業經營主體貸款享受財政貼息支援】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。施啟用下沉市場消費行動，重點面向縣域地區支援消費渠道升級、場景創新和效率提升，補齊生活服務短板。最佳化資源佈局，統籌中央和地方等相關資金渠道，整合利用存量資源，因地制宜建設縣域養老、托育、教育、醫療、體育等領域服務設施。支援符合條件的個人消費貸款、服務業經營主體貸款享受財政貼息支援。
-
----
-
-### 2026-08-18 08:31:56  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #Copper
-
-【Nine ministries urge unlocking idle assets, accelerate redevelopment of existing land】MOFCOM and eight other ministries issued guidance to boost lower-tier market activity and county-level consumption, calling for activation of idle assets. Projects that reuse existing properties or land to develop county social services such as elderly care and childcare may receive up to five years of transitional support without requiring changes to the land-use holder or planning conditions. Subject to national land‑space planning, authorities encourage stock‑land redevelopment through self-operation, joint ventures or transfers to raise local commercial service capacity. County governments are supported to convert vacated office buildings and other idle state assets into convenience commercial outlets. Rural collective commercial construction land may be lawfully brought to market to develop county commerce, and idle rural housing is encouraged to be repurposed for new, village‑appropriate industries and business formats.
 
 ---

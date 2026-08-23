@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:51:24_
-_本檔包含 3230 則快訊，約 635780 字_
+_更新時間：2026-08-24 00:34:51_
+_本檔包含 3231 則快訊，約 635444 字_
+
+---
+
+### 2026-08-24 00:31:21  #央行 #其他
+
+土耳其央行：決定重啟一週期回購拍賣。
+
+---
+
+### 2026-08-24 00:22:16  #公司 #觀點 #國際
+
+【阿里新股配售定價完成，獲長線投資者超額認購】8月24日，阿里巴巴宣佈完成800億港元（約102億美元）新股配售定價，發行價為每股普通股112.70港元，共配售7.1億股。配售所得款項淨額將100%用於投資全棧AI能力，加強AI基礎設施建設，進一步鞏固阿里在AI領域的領先地位。據悉，本次配售自啟動後不到一小時即獲超額認購，最終配售份額以主權財富基金等高質量長線做多投資者為主，是全球長線資本對阿里AI投資回報前景投出的信任票。長線投資者的踴躍認購，源於阿里AI投入清晰可見的回報路徑。阿里最新財報顯示，AI相關產品年化收入（ARR）已突破495億元人民幣（73億美元），預計下季度達到100億美元；阿里雲2030自然年外部商業化收入預計達1000億美元，利潤率有望突破20%。在算力持續供不應求、AI相關產品收入和毛利持續提升的支撐下，阿里管理層預計資本開支3年內、甚至2.5年到2年即可收回。因此，相比短期攤薄，AI增長的確定性、投資回報的可見性推動了本次認購熱情和高位定價。中金公司（CICC）、滙豐（HSBC）、摩根士丹利（Morgan Stanley）、瑞銀（UBS）參與了本輪新股配售。中東、歐洲、亞洲等地區的主要主權基金積極參與了此次認購。（新浪科技）
+
+---
+
+### 2026-08-23 23:55:00  #國際
+
+【部分日本民眾集會 抗議高市政府危險動向】23日，部分日本民眾在東京舉行集會，抗議高市早苗政府的修憲企圖以及一系列擴軍備武動向。對於政府推動修訂“安保三檔案”，試圖修改“無核三原則”，集會參加者表示強烈反對。（央視新聞）
+
+---
+
+### 2026-08-23 23:54:42  #公司
+
+【中際旭創：2027年1.6T和800G的訂單需求相較2026年仍保持快速增長】中際旭創(300308.SZ)釋出投資者關係活動記錄表公告，目前主要客戶已給出2027年的指引和訂單，2027年1.6T和800G的訂單需求相較2026年仍保持快速增長。新產品如2.4T、NPO、XPO等將適用於scale-out、scale-up等應用場景。根據大客戶定製要求，公司正在積極開發或送樣，新產品有望於27年下半年量產，28年有望實現更大規模出貨。公司也在積極建設新產能，做好光晶片、電晶片、PCB等核心物料的準備，為27年更大規模上量做好準備。
+
+---
+
+### 2026-08-23 23:53:43  #公司 #市場
+
+【中際旭創：公司的產品價格降幅相對理性】中際旭創(300308.SZ)釋出投資者關係活動記錄表公告，物料供給目前比較緊張，主要由於下游需求增長太快，上游擴產速度偏慢。部分物料確實出現漲價，但公司供應量較大的產品漲價幅度並不大，主要是因為公司已鎖定較強合約，訂單量也較大，拿到的價格較有優勢。在後續客戶交付上，公司的產品價格降幅相對理性，並非市場傳言的劇烈下降。整體而言，公司透過技術手段（包括矽光比例和良率提升）、27年新產品放量等方式，均有利於把控成本，進一步提高整體毛利率水平。
 
 ---
 
@@ -19472,29 +19502,5 @@ Oppenheimer raised its PT on MARVELL (MRVL.O) to $300 from $250.
 ### 2026-08-21 11:10:19  #Trading Economics #Markets #Commodity #Importance 1
 
 Palladium Extends Gains to One-Week High — Palladium futures gained to around 1,350 per ounce, extending gains to a one-week high, as a weaker US dollar and renewed demand for precious metals supported prices. The dollar weakened after the US Treasury unexpectedly increased long-dated debt buybacks, with Treasury Secretary Scott Bessent signaling purchases could exceed $4 billion per issue, initially easing yield pressures and supporting non-yielding metals. Palladium also benefited from broader precious-metals gains, with gold on track for a third straight weekly gain. However, rebounding Treasury yields and higher energy prices could limit gains by keeping inflation risks and rate-hike expectations elevated. Meanwhile, heightened tensions between the US and Iran, including threats of tougher economic measures, supported safe-haven demand. On the supply side, concerns over lower Russian palladium output and reduced refined production from South African processing disruptions continued to provide underlying support.
-
----
-
-### 2026-08-21 11:10:19  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
-
-China's Ministry of Finance said year-to-date it has allocated 187.5 bln yuan for consumer-goods trade-in subsidies, spurring about 1.32 tln yuan in related sales and benefiting 178 mln person-times.
-
----
-
-### 2026-08-21 11:09:33  #宏觀 #市場
-
-【財政部：“十五五”時期中央財政將進一步聚焦基礎研究、應用基礎研究和國家戰略科技任務 繼續加大投入力度】財政部綜合司司長李先忠8月21日在國新辦新聞釋出會上表示，“十五五”時期是科技強國建設的關鍵攻堅期。財政部將堅決貫徹落實黨中央、國務院決策部署，更加有力有效支援科技自強自立。一是加大投入。中央財政將進一步聚焦基礎研究、應用基礎研究和國家戰略科技任務，繼續加大投入力度，同時引導地方和社會力量加大研發投入。二是提升效能。完善財政科技經費的分配和管理使用機制，會同有關部門完善制度機制，改進管理辦法，確保真金白銀投到位、用得好。三是促進融合。進一步深化職務科技成果賦權和資產單列管理改革。持續推進政府採購合作創新採購方式，支援科技成果轉化和應用。同時，我們還將發揮政府投資基金的帶動作用，實施好中小企業發展專項資金政策，支援“小巨人”企業發展、優質企業梯度培育、中小企業數智化轉型，進一步促進中小企業高質量發展。
-
----
-
-### 2026-08-21 11:08:49  #MKT News
-
-【Cuba condemns new U.S. sanctions】The U.S. on the 20th announced a new round of sanctions on Cuba, which Cuban President Miguel Díaz‑Canel condemned and said Havana will resist. Díaz‑Canel said Washington issues a weekly blacklist on Thursdays that targets individuals and entities for serving Cuba or opposing the U.S. blockade. Foreign Minister Bruno Rodríguez accused U.S. Secretary of State Rubio of deliberately targeting Cuban firms to damage the economy and impede the government’s provision of basic services. Cuban officials said the sanctions have notably obstructed shipments of food, medicines and medical devices, most of which are procured by private small and micro enterprises.
-
----
-
-### 2026-08-21 11:08:17  #行業 #其他
-
-【中汽協：2026年7月，中國品牌乘用車共銷售175.4萬輛，環比下降3.2%】據中汽協，據中國汽車工業協會統計分析，2026年7月，中國品牌乘用車共銷售175.4萬輛，環比下降3.2%，同比增長9.3%，佔乘用車銷售總量的77.4%，銷量佔有率比去年同期提升7.2個百分點。2026年1-7月，中國品牌乘用車共銷售1089.2萬輛，同比增長0.2%，佔乘用車銷售總量的72.7%，銷量佔有率比與去年同期提升4個百分點。
 
 ---

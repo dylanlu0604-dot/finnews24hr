@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:51:24_
-_本檔包含 3170 則快訊，約 635783 字_
+_更新時間：2026-08-24 00:34:51_
+_本檔包含 3171 則快訊，約 635006 字_
+
+---
+
+### 2026-08-20 11:52:39  #公司
+
+【國家能源集團、奇瑞汽車在碭山成立新能源公司 註冊資本1.55億】天眼查App顯示，近日，國華（碭山）新能源有限公司成立，法定代表人為蘇志國，註冊資本1.55億人民幣，經營範圍包含太陽能發電技術服務、風力發電技術服務、儲能技術服務等，由國家能源集團旗下國華（江蘇）新能源有限公司、奇瑞汽車旗下安徽奇瑞綠能生態科技有限公司共同持股。
+
+---
+
+### 2026-08-20 11:52:03  #公司 #其他
+
+【宇樹科技推出仿生7軸靈巧機械臂，售價9900元起】宇樹科技今日宣佈推出仿生7軸靈巧機械臂，售價9900元起。
+
+---
+
+### 2026-08-20 11:51:11  #其他
+
+【臨港“十五五”：3個千億級產業叢集，一座國際科創城】8月20日，臨港新片區迎來成立七週年。這也是臨港步入“十五五”的第一年，按照規劃，到2030年，臨港新片區將形成3個千億級產業叢集，“十五五”期間地區生產總值年均增長7.5%。這也意味著，2030年臨港新片區的GDP要達到2000億元左右。2025年，臨港新片區的GDP為1366億元，是成立之初的3.3倍。（第一財經）
+
+---
+
+### 2026-08-20 11:50:47  #國際
+
+【日媒：駐日美軍士兵在路上衝撞行人致4人受傷，美日政府承擔1650萬日元賠償金】據日本共同社8月20日報道，一名駐日美軍士兵此前在神奈川縣街道上無差別衝撞行人導致4人受傷，由於該士兵在宣判前就被美軍調走，日本政府被迫與美國政府共同承擔1650萬日元（約合70萬元人民幣）賠償金。（環球網）
+
+---
+
+### 2026-08-20 11:45:30  #觀點
+
+花旗稱今年在亞太區已延攬10名高階銀行家，年底前將繼續招聘。
+
+---
+
+### 2026-08-20 11:45:10  #市場 #國際
+
+印度Nifty IT指數<.NIFTYIT>盤前交易上漲1.37%。
+
+---
+
+### 2026-08-20 11:43:42  #焦點 #A股
+
+【8月20日午間漲停分析】創業板指半日漲超1%，醫藥概念全線爆發，全市上漲個股超4300只。金健米業4連板，一圖看懂>>
+
+---
+
+### 2026-08-20 11:42:23  #Trading Economics #Economy #Serbia #Current Account #Importance 0
+
+Serbia Current Account Deficit Largest in 6 Months — Serbia’s current account deficit widened sharply to $1,022 million in June 2026 from $231 million in the same month last year. This marked the largest deficit since December 2025, as the goods account deficit increased to $687 million from $326 million, while the services surplus narrowed to $225 million from $297 million. At the same time, the primary income deficit expanded to $1,118 million from $690 million. On the other hand, the secondary income surplus rose to $557 million from $488 million. Over the first half of the year, Serbia posted a current account deficit of $1,616 million, smaller than the $2,204 million recorded in the corresponding period of the previous year.
 
 ---
 
@@ -19080,47 +19128,5 @@ A-share bank stocks outperformed the broader market, with CITIC Bank up more tha
 ### 2026-08-19 11:24:28  #MKT News #Important
 
 ChiNext Index fell 5%, Shenzhen Composite Index fell nearly 4%, Shanghai Composite fell 1.98% and STAR 50 Index fell 6%. MLCC, CPO and memory-chip sectors led the declines.
-
----
-
-### 2026-08-19 11:24:07  #公司
-
-【河南省超硬材料產業鏈產融對接活動在許昌市舉辦】據許昌日報，近日，河南省超硬材料產業鏈產融對接活動在黃河旋風股份有限公司舉辦。座談交流環節，黃河旋風股份有限公司、河南風優創材料技術有限公司、卓工新材料有限公司、凱利達金剛石工具有限公司、鴻泰鑽石科技有限公司等企業分別介紹其核心產品、經營現狀及融資需求。中原銀行、中國銀行、工商銀行、交通銀行、中鼎開源基金等機構現場推介科創貸、製造業專項貸等惠企政策，並圍繞企業專案前景一對一答疑洽談，多家銀行現場表達了進一步合作意向。
-
----
-
-### 2026-08-19 11:23:57  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Remains Firm — The Australian dollar fell below $0.71, but remained near a ten-week high as investors weighed the Reserve Bank of Australia's latest remarks and soft quarterly wages data. Australian wages rose at a moderate pace for a fifth straight quarter in the June quarter, as annual growth in the private sector slowed to its lowest level in four years. The softer private wage growth could ease some pressure on the RBA to tighten policy, although Deputy Governor Andrew Hauser warned that the central bank may need to raise rates again if upside inflation risks crystallize. He highlighted the Middle East conflict, the global AI boom and weak productivity as key risks to inflation. The RBA kept its cash rate at 4.35% last week after raising rates by 75 basis points since February to contain persistent price pressures. Meanwhile, the greenback remained broadly weaker, as markets pared back expectations of further Federal Reserve interest rate hikes following a series of weak US economic data.
-
----
-
-### 2026-08-19 11:23:51  #市場
-
-【港口航運板塊異動走高，南京港漲停】港口航運板塊異動走高，南京港漲停，中谷物流、招商輪船、連雲港、中遠海能、國航遠洋跟漲。
-
----
-
-### 2026-08-19 11:23:16  #MKT News
-
-EMSC reported a magnitude 5.3 earthquake in Indonesia's Flores region.
-
----
-
-### 2026-08-19 11:23:07  #市場 #焦點
-
-科創50日內跌幅達6％，成分股中，盛科通訊跌11.47％，盛美上海跌11.25％，芯原股份跌11.25％，華虹宏力跌10.23％。
-
----
-
-### 2026-08-19 11:22:39  #央行
-
-澳洲聯儲副行長豪澤：家庭緩衝資金有助於支撐消費支出。
-
----
-
-### 2026-08-19 11:22:20  #Trading Economics #Economy #Australia #Interest Rate #Importance 1
-
-RBA Flags Inflation Risks, Keeps Hike Option Open — The Reserve Bank of Australia (RBA) will need to raise interest rates again if upside risks to inflation materialize, Deputy Governor Andrew Hauser warned in a Wednesday speech. He said inflation remains “too high” and highlighted three key risks: the Middle East conflict, the global AI boom, and weak productivity. The central bank has already lifted rates by 75 basis points since the start of the year to curb stubborn price pressures, but held steady at 4.35% for a second consecutive meeting last week. Hauser’s remarks underscore the Bank’s readiness to act further should these risks intensify, keeping policy firmly focused on restraining inflation.
 
 ---

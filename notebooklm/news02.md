@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:51:24_
-_本檔包含 3310 則快訊，約 635773 字_
+_更新時間：2026-08-24 00:34:51_
+_本檔包含 3306 則快訊，約 635867 字_
+
+---
+
+### 2026-08-21 11:10:19  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish
+
+China's Ministry of Finance said year-to-date it has allocated 187.5 bln yuan for consumer-goods trade-in subsidies, spurring about 1.32 tln yuan in related sales and benefiting 178 mln person-times.
+
+---
+
+### 2026-08-21 11:09:33  #宏觀 #市場
+
+【財政部：“十五五”時期中央財政將進一步聚焦基礎研究、應用基礎研究和國家戰略科技任務 繼續加大投入力度】財政部綜合司司長李先忠8月21日在國新辦新聞釋出會上表示，“十五五”時期是科技強國建設的關鍵攻堅期。財政部將堅決貫徹落實黨中央、國務院決策部署，更加有力有效支援科技自強自立。一是加大投入。中央財政將進一步聚焦基礎研究、應用基礎研究和國家戰略科技任務，繼續加大投入力度，同時引導地方和社會力量加大研發投入。二是提升效能。完善財政科技經費的分配和管理使用機制，會同有關部門完善制度機制，改進管理辦法，確保真金白銀投到位、用得好。三是促進融合。進一步深化職務科技成果賦權和資產單列管理改革。持續推進政府採購合作創新採購方式，支援科技成果轉化和應用。同時，我們還將發揮政府投資基金的帶動作用，實施好中小企業發展專項資金政策，支援“小巨人”企業發展、優質企業梯度培育、中小企業數智化轉型，進一步促進中小企業高質量發展。
+
+---
+
+### 2026-08-21 11:08:49  #MKT News
+
+【Cuba condemns new U.S. sanctions】The U.S. on the 20th announced a new round of sanctions on Cuba, which Cuban President Miguel Díaz‑Canel condemned and said Havana will resist. Díaz‑Canel said Washington issues a weekly blacklist on Thursdays that targets individuals and entities for serving Cuba or opposing the U.S. blockade. Foreign Minister Bruno Rodríguez accused U.S. Secretary of State Rubio of deliberately targeting Cuban firms to damage the economy and impede the government’s provision of basic services. Cuban officials said the sanctions have notably obstructed shipments of food, medicines and medical devices, most of which are procured by private small and micro enterprises.
+
+---
+
+### 2026-08-21 11:08:17  #行業 #其他
+
+【中汽協：2026年7月，中國品牌乘用車共銷售175.4萬輛，環比下降3.2%】據中汽協，據中國汽車工業協會統計分析，2026年7月，中國品牌乘用車共銷售175.4萬輛，環比下降3.2%，同比增長9.3%，佔乘用車銷售總量的77.4%，銷量佔有率比去年同期提升7.2個百分點。2026年1-7月，中國品牌乘用車共銷售1089.2萬輛，同比增長0.2%，佔乘用車銷售總量的72.7%，銷量佔有率比與去年同期提升4個百分點。
 
 ---
 
@@ -19946,53 +19970,5 @@ Palm Oil Hovers Near 5-Month High — Malaysian palm oil futures extended their 
 ### 2026-08-20 11:53:41  #Trading Economics #Markets #India #Currency #Importance 1
 
 Rupee Rises on Dollar Weakness — The Indian rupee strengthened to around 95.62 per dollar, after a three-week low as the weaker dollar and US Treasury yields supported the currency. The dollar index fell 0.88% on Wednesday, its biggest drop since mid-March, after the US Treasury planned to double liquidity-support buybacks for longer-dated bonds to at least $4 billion per operation, easing pressure in the US bond market. However, the rupee's recovery is likely to remain limited as Brent crude hovers near $92 a barrel, as markets assess the US-Iran conflict and shipping disruption through the Strait of Hormuz. Meanwhile, RBI Governor Sanjay Malhotra said the central bank's net short forward-dollar position remains “very manageable,” as the RBI expects at least $80 billion in inflows from FCNR(B) deposits and foreign-currency borrowing. He said intervention will focus on curbing volatility and speculation, while the earlier FCNR(B) swap closure reflected stronger inflows and rising sterilisation costs.
-
----
-
-### 2026-08-20 11:52:39  #公司
-
-【國家能源集團、奇瑞汽車在碭山成立新能源公司 註冊資本1.55億】天眼查App顯示，近日，國華（碭山）新能源有限公司成立，法定代表人為蘇志國，註冊資本1.55億人民幣，經營範圍包含太陽能發電技術服務、風力發電技術服務、儲能技術服務等，由國家能源集團旗下國華（江蘇）新能源有限公司、奇瑞汽車旗下安徽奇瑞綠能生態科技有限公司共同持股。
-
----
-
-### 2026-08-20 11:52:03  #公司 #其他
-
-【宇樹科技推出仿生7軸靈巧機械臂，售價9900元起】宇樹科技今日宣佈推出仿生7軸靈巧機械臂，售價9900元起。
-
----
-
-### 2026-08-20 11:51:11  #其他
-
-【臨港“十五五”：3個千億級產業叢集，一座國際科創城】8月20日，臨港新片區迎來成立七週年。這也是臨港步入“十五五”的第一年，按照規劃，到2030年，臨港新片區將形成3個千億級產業叢集，“十五五”期間地區生產總值年均增長7.5%。這也意味著，2030年臨港新片區的GDP要達到2000億元左右。2025年，臨港新片區的GDP為1366億元，是成立之初的3.3倍。（第一財經）
-
----
-
-### 2026-08-20 11:50:47  #國際
-
-【日媒：駐日美軍士兵在路上衝撞行人致4人受傷，美日政府承擔1650萬日元賠償金】據日本共同社8月20日報道，一名駐日美軍士兵此前在神奈川縣街道上無差別衝撞行人導致4人受傷，由於該士兵在宣判前就被美軍調走，日本政府被迫與美國政府共同承擔1650萬日元（約合70萬元人民幣）賠償金。（環球網）
-
----
-
-### 2026-08-20 11:45:30  #觀點
-
-花旗稱今年在亞太區已延攬10名高階銀行家，年底前將繼續招聘。
-
----
-
-### 2026-08-20 11:45:10  #市場 #國際
-
-印度Nifty IT指數<.NIFTYIT>盤前交易上漲1.37%。
-
----
-
-### 2026-08-20 11:43:42  #焦點 #A股
-
-【8月20日午間漲停分析】創業板指半日漲超1%，醫藥概念全線爆發，全市上漲個股超4300只。金健米業4連板，一圖看懂>>
-
----
-
-### 2026-08-20 11:42:23  #Trading Economics #Economy #Serbia #Current Account #Importance 0
-
-Serbia Current Account Deficit Largest in 6 Months — Serbia’s current account deficit widened sharply to $1,022 million in June 2026 from $231 million in the same month last year. This marked the largest deficit since December 2025, as the goods account deficit increased to $687 million from $326 million, while the services surplus narrowed to $225 million from $297 million. At the same time, the primary income deficit expanded to $1,118 million from $690 million. On the other hand, the secondary income surplus rose to $557 million from $488 million. Over the first half of the year, Serbia posted a current account deficit of $1,616 million, smaller than the $2,204 million recorded in the corresponding period of the previous year.
 
 ---
