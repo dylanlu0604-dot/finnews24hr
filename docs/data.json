@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-24 06:55:00",
-  "count": 15783,
+  "updated": "2026-08-24 06:59:02",
+  "count": 15784,
   "items": [
+    {
+      "id": "5053963",
+      "time": "2026-08-24 06:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯南部克拉斯諾達爾遭無人機襲擊，州長稱兩名兒童死亡，倉庫受損。"
+    },
+    {
+      "id": "te:economy:577380",
+      "time": "2026-08-24 06:55:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Retail Sales Fall for 1st Time in 7 Quarters — Retail sales in New Zealand unexpectedly dropped 0.5% quarter-on-quarter in Q2 2026, reversing an upwardly revised 1.0% growth in the previous quarter and defying market expectations of a 0.1% rise. It was the first quarterly decline in retail sales since Q3 2024, with the figures adjusted for inflation and seasonal effects. The decline was broad-based, with eight of the 15 retail industries recording lower sales volumes, with notable declines in fuel (-13%), motor vehicles and parts (-2.3%), accommodation (-8.0%), and food and beverage services (-2.8%)."
+    },
     {
       "id": "5053962",
       "time": "2026-08-24 06:49:43",
@@ -144338,18 +144358,6 @@
         "宏觀"
       ],
       "text": "【經濟日報金觀平：把握好貨幣政策的力度與節奏】文章指出，實現“十五五”良好開局，需要宏觀政策更加積極有為。接下來，繼續實施好適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，推動經濟持續向新向優向好發展。"
-    },
-    {
-      "id": "te:economy:575556",
-      "time": "2026-08-17 06:57:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "New Zealand Services Growth Hits 7-Month High — New Zealand’s BusinessNZ Performance of Services Index increased to 50.9 in July 2026 from 50.6 in June, marking the first expansion in the services sector since December 2025. Three of the five sub-indices returned to expansion territory, with new orders (52.6 vs. 53.3) recording the strongest reading, although at a softer pace."
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "date": "2026-08-24",
-  "count": 71,
+  "count": 73,
   "items": [
+    {
+      "id": "5053963",
+      "time": "2026-08-24 06:58:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯南部克拉斯諾達爾遭無人機襲擊，州長稱兩名兒童死亡，倉庫受損。"
+    },
+    {
+      "id": "te:economy:577380",
+      "time": "2026-08-24 06:55:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Retail Sales Fall for 1st Time in 7 Quarters — Retail sales in New Zealand unexpectedly dropped 0.5% quarter-on-quarter in Q2 2026, reversing an upwardly revised 1.0% growth in the previous quarter and defying market expectations of a 0.1% rise. It was the first quarterly decline in retail sales since Q3 2024, with the figures adjusted for inflation and seasonal effects. The decline was broad-based, with eight of the 15 retail industries recording lower sales volumes, with notable declines in fuel (-13%), motor vehicles and parts (-2.3%), accommodation (-8.0%), and food and beverage services (-2.8%)."
+    },
     {
       "id": "5053962",
       "time": "2026-08-24 06:49:43",
