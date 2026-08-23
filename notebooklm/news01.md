@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:57:04_
-_本檔包含 3219 則快訊，約 636577 字_
+_更新時間：2026-08-23 23:30:52_
+_本檔包含 3228 則快訊，約 636888 字_
+
+---
+
+### 2026-08-23 23:27:33  #國際
+
+俄羅斯總統普京表示，烏克蘭針對俄羅斯開展的為期40天的“影響力行動”未能對戰局產生影響，並稱俄軍仍在持續推進。
+
+---
+
+### 2026-08-23 23:25:04  #市場 #央行 #國際
+
+【美聯儲卡什卡利：國債市場仍在“正常運轉”】明尼阿波利斯聯邦儲備銀行行長卡什卡利淡化市場對美國國債收益率上行的擔憂，表示市場執行狀況良好。卡什卡利稱，當前國債收益率相較於近期歷史水平處於高位，但上世紀90年代收益率曾顯著更高。卡什卡利對通脹無法在短期內回落至目標水平表達擔憂，但並未明確表態會在9月會議上主張加息。
+
+---
+
+### 2026-08-23 23:24:01  #公司 #國際
+
+【印度進口俄羅斯原油創新高】受霍爾木茲海峽航運持續受阻影響，印度近期大幅增加進口俄羅斯原油，6月和7月進口量創下新高。據英國《金融時報》23日援引船舶追蹤機構克普勒公司首席分析師蘇米特·裡託利亞的話報道，印度6月和7月日均進口俄羅斯原油逾260萬桶，較2月低點的約100萬桶大幅增加，佔該國日均原油進口總量的一半以上。（央視新聞）
+
+---
+
+### 2026-08-23 23:19:30  #其他
+
+【“紫檀”造成廣西10條河流15個站超警 緊急轉移安置8087人】受今年第19號颱風“紫檀”影響，廣西多地出現暴雨到大暴雨、局地特大暴雨，多條河流超警戒水位，防城港市、崇左市等部分鄉鎮遭遇洪水險情。8月23日，廣西召開防汛防颱影片會商排程會，據統計，截至8月23日18時，防城港、崇左、南寧等6個市的17個縣（市、區）的64個鄉鎮（街道）出現大暴雨，局地特大暴雨，10個市的30個縣（市、區）的92個鄉鎮（街道）出現暴雨。明江及支流公安河、派連河，左江及上游平而河等10條河流15個站超警，颱風已造成受災人口6.1萬人，因災轉移5.4萬人，緊急轉移安置8087人，各項防汛救災工作正有序紮實開展。（央視新聞）
+
+---
+
+### 2026-08-23 23:19:13  #其他
+
+【瑞士東部一建築火災致4人死亡】瑞士警方23日表示，搜救人員在瑞士東部格勞賓登州圖西斯火災現場發現4名火災失蹤者遺體。
+
+---
+
+### 2026-08-23 23:13:51  #國際
+
+敘利亞外交部長阿薩德·沙伊巴尼今日在約旦會見以色列摩薩德局長羅曼·戈夫曼，意在緩和以色列近期空襲敘利亞空軍基地之後的雙方緊張局勢。
+
+---
+
+### 2026-08-23 23:10:07  #其他
+
+【突尼西亞附近海域非法移民船傾覆已致11人死亡】突尼西亞國民警衛隊23日釋出宣告稱，突尼西亞東南部海域21日發生的非法移民船傾覆事件已導致11人死亡。
+
+---
+
+### 2026-08-23 23:08:16  #國際
+
+美國眾議院議長邁克·約翰遜：如果伊朗衝突能在期中選舉前結束，那就太好了。
+
+---
+
+### 2026-08-23 23:07:57  #國際
+
+敘利亞、以色列官員週日舉行會晤，旨在緩和緊張局勢。
+
+---
+
+### 2026-08-23 23:06:27  #國際
+
+美國眾議院議長邁克·約翰遜：最好不要押注共和黨會輸。
 
 ---
 
@@ -19424,11 +19484,5 @@ China's Ministry of Finance said year-to-date it has allocated 187.5 bln yuan fo
 ### 2026-08-21 11:05:29  #MKT News
 
 【S. Korea finance minister says will closely monitor impact of rising global bond yields】YONHAP reported S. Korea’s finance minister said on Friday the government will closely monitor the domestic government bond market as long-term government bond yields in major economies, including the US, Japan and Europe, have risen to multi-decade highs amid higher fiscal spending and Middle East uncertainty. He said authorities will track issuance and trading activity and seek to lower corporate and household funding costs. The minister noted the won weakened to 1,300 per USD this week for the first time; it had earlier weakened to around 1,550 in early July, a move attributed to a record current-account surplus. He warned the exchange rate faces two-way risks from Middle East geopolitical tensions and major central banks’ policies and said the government will stay vigilant and respond to market moves.
-
----
-
-### 2026-08-21 11:05:22  #MKT News #CSI300 #Impact bullish #SSE Composite #CNH #Impact mixed
-
-【China Ministry of Finance raises annual per-lender cap on interest‑subsidised SME loans to 75 mln yuan from 50 mln】China's Ministry of Finance issued a notice on further fiscal‑financial coordination to boost domestic demand. The annual cap on interest‑subsidised SME loans per borrower at a single lender is raised to 75 mln yuan from 50 mln yuan. The annual cap for service‑sector business loans per borrower at a single lender is raised to 20 mln yuan from 10 mln yuan. The annual cap on cumulative interest subsidies for personal consumer loans and credit‑card installment plans per borrower at a single lender is raised to 5,000 yuan from 3,000 yuan.
 
 ---

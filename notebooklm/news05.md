@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:57:04_
-_本檔包含 3051 則快訊，約 635880 字_
+_更新時間：2026-08-23 23:30:52_
+_本檔包含 3048 則快訊，約 635735 字_
+
+---
+
+### 2026-08-18 08:28:57  #其他 #焦點
+
+【商務部等9部門關於進一步激發下沉市場活力 活躍縣域消費的意見】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見，充分發揮下沉市場在拓展內需增量空間、建設強大國內市場中的戰略支撐作用，學習運用“千萬工程”經驗，分類施策最佳化消費渠道、豐富品牌供給、提升服務能力，因地制宜打造各具特色的消費場景，持續繁榮縣域消費市場，更好滿足人民群眾多樣化、品質化需求。
+
+---
+
+### 2026-08-18 08:28:37  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+MOFCOM and eight other Chinese ministries issued guidance to further stimulate lower-tier market activity and boost county-level consumption.
+
+---
+
+### 2026-08-18 08:26:35  #MKT News
+
+Market sources: South Korea denied reports it discussed making semiconductors its first US investment.
+
+---
+
+### 2026-08-18 08:25:56  #MKT News
+
+【Yemen armed forces say 133 strikes against Houthi fighters in past 24 hours】Yemen armed forces said they carried out 133 strikes against Houthi fighters in the past 24 hours, targeting combat capabilities and personnel. The forces used rocket launchers, artillery and drones, with operations executed by units deployed on front-line positions.
+
+---
+
+### 2026-08-18 08:24:57  #國際
+
+【韓國否認有關正將晶片列為對美首項投資候選的報道】韓國總統府否認此前一則媒體報道，該報道稱儲存晶片正被商討作為韓國對美首項投資候選專案。韓國總統府發來簡訊表示，將晶片列為首個候選專案進行討論的說法 “並不屬實”；對於韓美之間的戰略投資磋商，總統府稱 “無法披露具體細節”。據韓國《中央日報》報道，韓國政府原計劃於本月晚些時候公佈的韓國對美首個投資專案，因美方突然提出要求韓方投資儲存晶片工廠，該專案前景陷入不確定性。該報援引多名未具名執政黨官員訊息稱，8 月 13 日在韓國總統府舉行的閉門貿易會議上，美方提出的儲存晶片投資要求是會議核心議題。
+
+---
+
+### 2026-08-18 08:24:16  #市場 #焦點
+
+現貨黃金突破4430美元/盎司，日內漲0.33%。
+
+---
+
+### 2026-08-18 08:23:22  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Fast Retailing Stock Price Hits 12-week Low — Fast Retailing shares decreased to 75420.00 JPY, the lowest since May 2026. Over the past 4 weeks, Fast Retailing lost 6.54%, and in the last 12 months, it increased 53.43%.
 
 ---
 
@@ -18351,65 +18393,5 @@ Following a Russian missile strike on Kyiv, firefighters battled a blaze at a bo
 ### 2026-08-16 23:30:57  #公司
 
 【上市前夕 OpenAI高層劇烈震盪】在準備IPO之際，正在進入一個關鍵節點。2026年以來，至少13名高管和業務負責人離開OpenAI。一邊是業務繼續快速增長，年化營收已經超過400億美元，企業業務收入首次超過消費者業務；另一邊，公司核心管理層卻在持續調整。對於一家正在衝刺上市、同時業務規模快速擴張的公司來說，核心高管密集離開，自然引發了外界對管理層穩定性的關注。
-
----
-
-### 2026-08-16 23:29:28  #國際
-
-特朗普特使庫什納與哈馬斯高層之間的會晤旨在“將哈馬斯在加沙裁軍路線圖中所做出的承諾轉化為具體步驟”。庫什納強調，以色列的進一步撤軍將以哈馬斯解除武裝作為交換條件。
-
----
-
-### 2026-08-16 23:21:30  #國際
-
-伊朗陸軍總司令阿米爾·哈塔米少將表示，特朗普宣稱霍爾木茲海峽屬於美國的說法“大錯特錯”，並稱即便是拿這一說法開玩笑，也“完全出格”。
-
----
-
-### 2026-08-16 23:18:42  #國際
-
-俄羅斯國防部：打擊了敖德薩西部一處烏克蘭無人艇生產設施。
-
----
-
-### 2026-08-16 23:14:14  #MKT News
-
-The chairman of Iran's Chamber of Commerce said on state broadcaster Press TV that the Iranian economy has emerged from the 'war shock'.
-
----
-
-### 2026-08-16 23:13:26  #國際
-
-伊朗商工礦農業商會主席薩馬德·哈桑扎德表示，該國經濟已擺脫近期戰爭帶來的嚴重衰退，經濟活動正在恢復。
-
----
-
-### 2026-08-16 23:11:11  #國際
-
-託德·布蘭奇拒絕承諾，若出任特朗普政府司法部長將保持獨立於白宮。
-
----
-
-### 2026-08-16 23:06:39  #焦點 #國際
-
-【伊朗軍方稱美軍已被驅逐 不得進入霍爾木茲海峽】當地時間16日，伊朗伊斯蘭共和國軍隊總司令哈塔米表示，美國今後不得進入波斯灣、阿曼灣和霍爾木茲海峽。哈塔米在參加公開活動時表示，“美國被驅逐已成事實”，今後其“將不再獲得進入波斯灣、阿曼灣和霍爾木茲海峽的許可”。他還強調，美軍基地不可能恢復到此前狀態，伊朗“絕不允許這種情況發生”。（央視新聞）
-
----
-
-### 2026-08-16 23:05:44  #其他
-
-【高階特效廳成為暑期檔頂流 中國銀幕數量穩居全球首位】據網路平臺資料，截至今天16時59分，2026年暑期檔總票房（含預售）突破100億元，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》《歡迎來龍餐館》《給阿嬤的情書》暫列檔期票房前5名。能夠最大化釋放影片魅力的IMAX、杜比影院等高階特效廳，成為影迷們的首選，乃至“必爭之地”。根據國家電影局2026年1月釋出的官方統計，2025年全國城市院線銀幕總數達93187塊，較2024年淨增2219塊，持續穩居全球銀幕數量首位。今年以來，CLED螢幕在全國的落地安裝明顯提速，上半年已有多家影院完成部署。此外，依託CINITY完整自主智慧財產權高格式技術體系，中國高格式電影實現從單純內容輸出，邁向技術、裝置、製版服務、標準體系協同出海。
-
----
-
-### 2026-08-16 23:01:25  #MKT News
-
-Saudi outlet Alhadath, citing Israeli sources, reports Israel does not want the US plan for Gaza to succeed but also does not want to damage it. The Israeli military is monitoring Hamas's reconstruction capabilities. Sources say US restrictions are preventing the Israeli military from being able to "take further action" against Hamas.
-
----
-
-### 2026-08-16 23:00:07  #資料 #市場
-
-【方舟投資： 在9月議息會議前值得關注的幾件事】方舟投資發文列出了五件在8月份需要緊盯那些能預示年底通脹走向的先行指標和最新資料 ：核心消費者物價指數（CPI）是否會在12月前降至2%以下？美元指數是否會攀升至102.6？隨著阿聯酋（UAE）主導的供應過剩增加，油價是否會繼續下跌？16至24歲年輕人的失業率是否會在今年降至7.5%以下？密歇根大學消費者信心指數是否會回升至65以上？
 
 ---

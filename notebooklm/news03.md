@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:57:04_
-_本檔包含 3174 則快訊，約 636699 字_
+_更新時間：2026-08-23 23:30:52_
+_本檔包含 3173 則快訊，約 635918 字_
+
+---
+
+### 2026-08-20 11:35:14  #公司
+
+【聯創光電持股公司成立超導技術公司】企查查APP顯示，近日，江西星磁超導技術有限公司成立，法定代表人為伍晅，註冊資本為1000萬元，經營範圍包含：技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，超導材料製造，超導材料銷售。企查查股權穿透顯示，該公司由江西聯創超導技術有限公司全資持股，後者由江西省電子集團有限公司、聯創光電等共同持股。
+
+---
+
+### 2026-08-20 11:35:05  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #XAUUSD #DAX #Impact bearish
+
+Romanian Defence Ministry says a drone crashed into Romanian territory during Russia's attack on neighboring Ukraine.
+
+---
+
+### 2026-08-20 11:34:37  #國際
+
+羅馬尼亞國防部表示，在俄羅斯襲擊鄰國烏克蘭期間，一架無人機墜落在羅馬尼亞領土上。
+
+---
+
+### 2026-08-20 11:33:15  #市場 #國際
+
+印度5年期國債收益率上漲5個基點至6.50%。
+
+---
+
+### 2026-08-20 11:32:18  #市場 #央行 #國際
+
+印度10年期國債收益率在印度央行會議紀要公佈後上漲4個基點至6.86%。
+
+---
+
+### 2026-08-20 11:31:22  #MKT News #Market Regions #Greater China
+
+【China government bond futures morning session close】China government bond futures closed lower in the morning session: 2-year (TS) main contract down 0.02%, 5-year (TF) down 0.05%, 10-year (T) down 0.08%, 30-year (TL) down 0.15%.
+
+---
+
+### 2026-08-20 11:31:15  #MKT News #CSI300 #Impact bullish #CSI500 #CSI1000
+
+【China index futures morning close】CSI 300 futures (IF) main contract +0.30%; SSE 50 futures (IH) main contract +0.24%; CSI 500 futures (IC) main contract +0.95%; CSI 1000 futures (IM) main contract +1.28%.
 
 ---
 
@@ -19098,53 +19140,5 @@ China's CSI 500 index futures (IC) most-active contract fell 3.00% intraday to 7
 ### 2026-08-19 11:16:47  #MKT News #Important
 
 【Chang'e-7 launch to be timed in coming days】At Wenchang spaceport, the Chang'e-7 probe and its Long March-5 Y14 carrier rocket completed technical-zone operations and were vertically transferred to the launch pad. The probe and rocket arrived in April and July and have finished assembly and testing; launch facilities are reported in good condition. Pre-launch function checks, joint tests and propellant loading will proceed as planned, with launch to be conducted in the coming days when conditions permit.
-
----
-
-### 2026-08-19 11:16:36  #國際
-
-加拿大總理卡尼：美國已同意將根據《1930年美國關稅法》第338條對一系列加拿大商品徵收50%關稅的實施推遲至8月21日結束。
-
----
-
-### 2026-08-19 11:16:29  #國際
-
-加拿大總理辦公室：儘管仍有重要工作有待完成，但與美國的談判已取得重大進展。
-
----
-
-### 2026-08-19 11:16:29  #MKT News
-
-CARNEY said Canada and the US have held intensive talks in recent weeks to resolve outstanding trade issues.
-
----
-
-### 2026-08-19 11:16:12  #MKT News
-
-Canada's Prime Minister's Office said negotiations with the United States have made significant progress but important work remains to be done.
-
----
-
-### 2026-08-19 11:16:12  #MKT News #DXY #Impact bearish
-
-Canadian prime minister Carney said the US has agreed to postpone implementation of 50% tariffs on a range of Canadian goods under Section 338 of the Tariff Act of 1930 until August 21.
-
----
-
-### 2026-08-19 11:16:07  #其他
-
-【嫦娥七號器箭組合體完成垂直轉運】今天，嫦娥七號探測器和長征五號遙十四運載火箭在中國文昌航天發射場完成技術區相關工作，器箭組合體已垂直轉運至發射區。 嫦娥七號探測器、長征五號遙十四運載火箭分別於4月、7月運抵發射場，先後完成了總裝、測試等準備工作。目前，發射場設施裝置狀態良好，後續將按計劃開展發射前各項功能檢查、聯合測試、推進劑加註等工作，計劃近日擇機實施發射。（央視新聞）
-
----
-
-### 2026-08-19 11:15:43  #其他
-
-【鴻鵠03星成功入軌 探索“批次產”衛星】2026年8月19日，由鴻擎科技自主研製的技術驗證衛星鴻鵠03星搭乘朱雀三號遙二運載火箭成功發射升空。衛星成功入軌後，衛星太陽翼順利展開，各項遙測引數正常，發射任務取得圓滿成功。隨著可回收火箭技術日益成熟，全球低軌星座規模化建設加速。衛星“批次化”生產有助於更好滿足高密度發射和快速組網需求。鴻擎科技董事長萬軍表示，鴻鵠03星的研發瞄準這一產業趨勢，從核心單機到整星系統，這顆衛星在設計階段便積極探索適合批次複製的技術路徑。（新華社）
-
----
-
-### 2026-08-19 11:13:48  #MKT News #Market Themes #AI Revolution #Chip Wars
-
-【South Korea think‑tank KDI raises 2026 growth forecast to 3.2%, above government and IMF estimates】South Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% in May, citing strong global chip demand and AI-driven spillovers to the domestic economy. The projection exceeds the government’s 3.0% estimate and the IMF’s 2.6% forecast. KDI said expansion since H2 last year should continue as AI demand supports semiconductor exports, offsetting higher import costs from the Middle East war. KDI expects exports to rise 8.7% this year and 5.0% next year and is assessing how long elevated AI demand will persist.
 
 ---

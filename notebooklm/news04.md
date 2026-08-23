@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:57:04_
-_本檔包含 3136 則快訊，約 635654 字_
+_更新時間：2026-08-23 23:30:52_
+_本檔包含 3137 則快訊，約 635973 字_
+
+---
+
+### 2026-08-19 11:16:36  #國際
+
+加拿大總理卡尼：美國已同意將根據《1930年美國關稅法》第338條對一系列加拿大商品徵收50%關稅的實施推遲至8月21日結束。
+
+---
+
+### 2026-08-19 11:16:29  #國際
+
+加拿大總理辦公室：儘管仍有重要工作有待完成，但與美國的談判已取得重大進展。
+
+---
+
+### 2026-08-19 11:16:29  #MKT News
+
+CARNEY said Canada and the US have held intensive talks in recent weeks to resolve outstanding trade issues.
+
+---
+
+### 2026-08-19 11:16:12  #MKT News
+
+Canada's Prime Minister's Office said negotiations with the United States have made significant progress but important work remains to be done.
+
+---
+
+### 2026-08-19 11:16:12  #MKT News #DXY #Impact bearish
+
+Canadian prime minister Carney said the US has agreed to postpone implementation of 50% tariffs on a range of Canadian goods under Section 338 of the Tariff Act of 1930 until August 21.
+
+---
+
+### 2026-08-19 11:16:07  #其他
+
+【嫦娥七號器箭組合體完成垂直轉運】今天，嫦娥七號探測器和長征五號遙十四運載火箭在中國文昌航天發射場完成技術區相關工作，器箭組合體已垂直轉運至發射區。 嫦娥七號探測器、長征五號遙十四運載火箭分別於4月、7月運抵發射場，先後完成了總裝、測試等準備工作。目前，發射場設施裝置狀態良好，後續將按計劃開展發射前各項功能檢查、聯合測試、推進劑加註等工作，計劃近日擇機實施發射。（央視新聞）
+
+---
+
+### 2026-08-19 11:15:43  #其他
+
+【鴻鵠03星成功入軌 探索“批次產”衛星】2026年8月19日，由鴻擎科技自主研製的技術驗證衛星鴻鵠03星搭乘朱雀三號遙二運載火箭成功發射升空。衛星成功入軌後，衛星太陽翼順利展開，各項遙測引數正常，發射任務取得圓滿成功。隨著可回收火箭技術日益成熟，全球低軌星座規模化建設加速。衛星“批次化”生產有助於更好滿足高密度發射和快速組網需求。鴻擎科技董事長萬軍表示，鴻鵠03星的研發瞄準這一產業趨勢，從核心單機到整星系統，這顆衛星在設計階段便積極探索適合批次複製的技術路徑。（新華社）
+
+---
+
+### 2026-08-19 11:13:48  #MKT News #Market Themes #AI Revolution #Chip Wars
+
+【South Korea think‑tank KDI raises 2026 growth forecast to 3.2%, above government and IMF estimates】South Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% in May, citing strong global chip demand and AI-driven spillovers to the domestic economy. The projection exceeds the government’s 3.0% estimate and the IMF’s 2.6% forecast. KDI said expansion since H2 last year should continue as AI demand supports semiconductor exports, offsetting higher import costs from the Middle East war. KDI expects exports to rise 8.7% this year and 5.0% next year and is assessing how long elevated AI demand will persist.
 
 ---
 
@@ -18889,47 +18937,5 @@ Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Aug) | a
 ### 2026-08-18 08:29:25  #其他
 
 【9部門發文活躍縣域消費】《商務部等9部門關於進一步激發下沉市場活力 活躍縣域消費的意見》8月18日對外發布。在支援縣域消費渠道升級方面，意見提出，深化“千集萬店”改造提升，支援鄉鎮商貿中心、集（農）貿市場、鄉鎮特色大集等建設升級；引進國內外品牌開設區域首店；鼓勵多種方式推進存量土地改造開發等。在推動縣域商業業態創新和品牌打造方面，意見提出，在符合條件的同一縣域地區推行連鎖企業和商貿個體工商戶“一照多址”；支援國貨潮品下沉縣域市場；創新一二三產業融合的消費鏈條等。在最佳化縣域商品和服務供給方面，意見提出，促進同品同款商品城鄉“同質同享”；推動“一刻鐘便民生活圈”向縣域延伸；促進商農文旅體融合發展等。意見還圍繞進一步提升縣域流通現代化水平、增強消費保障能力、強化要素整合和營商環境建設等方面，提出加強財政資金保障、提升金融服務質效等舉措。
-
----
-
-### 2026-08-18 08:28:57  #其他 #焦點
-
-【商務部等9部門關於進一步激發下沉市場活力 活躍縣域消費的意見】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見，充分發揮下沉市場在拓展內需增量空間、建設強大國內市場中的戰略支撐作用，學習運用“千萬工程”經驗，分類施策最佳化消費渠道、豐富品牌供給、提升服務能力，因地制宜打造各具特色的消費場景，持續繁榮縣域消費市場，更好滿足人民群眾多樣化、品質化需求。
-
----
-
-### 2026-08-18 08:28:37  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-MOFCOM and eight other Chinese ministries issued guidance to further stimulate lower-tier market activity and boost county-level consumption.
-
----
-
-### 2026-08-18 08:26:35  #MKT News
-
-Market sources: South Korea denied reports it discussed making semiconductors its first US investment.
-
----
-
-### 2026-08-18 08:25:56  #MKT News
-
-【Yemen armed forces say 133 strikes against Houthi fighters in past 24 hours】Yemen armed forces said they carried out 133 strikes against Houthi fighters in the past 24 hours, targeting combat capabilities and personnel. The forces used rocket launchers, artillery and drones, with operations executed by units deployed on front-line positions.
-
----
-
-### 2026-08-18 08:24:57  #國際
-
-【韓國否認有關正將晶片列為對美首項投資候選的報道】韓國總統府否認此前一則媒體報道，該報道稱儲存晶片正被商討作為韓國對美首項投資候選專案。韓國總統府發來簡訊表示，將晶片列為首個候選專案進行討論的說法 “並不屬實”；對於韓美之間的戰略投資磋商，總統府稱 “無法披露具體細節”。據韓國《中央日報》報道，韓國政府原計劃於本月晚些時候公佈的韓國對美首個投資專案，因美方突然提出要求韓方投資儲存晶片工廠，該專案前景陷入不確定性。該報援引多名未具名執政黨官員訊息稱，8 月 13 日在韓國總統府舉行的閉門貿易會議上，美方提出的儲存晶片投資要求是會議核心議題。
-
----
-
-### 2026-08-18 08:24:16  #市場 #焦點
-
-現貨黃金突破4430美元/盎司，日內漲0.33%。
-
----
-
-### 2026-08-18 08:23:22  #Trading Economics #Markets #Japan #stocks #Importance 1
-
-Fast Retailing Stock Price Hits 12-week Low — Fast Retailing shares decreased to 75420.00 JPY, the lowest since May 2026. Over the past 4 weeks, Fast Retailing lost 6.54%, and in the last 12 months, it increased 53.43%.
 
 ---
