@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 06:55:00_
-_本檔包含 3144 則快訊，約 631585 字_
+_更新時間：2026-08-24 07:30:06_
+_本檔包含 3133 則快訊，約 630938 字_
+
+---
+
+### 2026-08-20 12:53:20  #宏觀 #行業 #其他 #焦點
+
+【上海：推行房票安置 加快推進收購二手住房用作保障性租賃住房】上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。《通知》明確進一步加大房票實施力度，在徵收拆遷補償安置中增加房票安置方式，重點聚焦城中村改造和舊城區改建專案等，統籌平衡現有徵收拆遷補償標準，多種方式滿足居民多元化安置需求。《通知》規定，以需求為導向，結合“十五五”時期保障性租賃住房發展要求，各中心城區（含浦東外環內區域）推進二手住房收購工作，並加快改造出租，切實增加中心城區保障性租賃住房供應。
+
+---
+
+### 2026-08-20 12:52:08  #宏觀 #焦點
+
+【上海出臺階段性購房補貼政策】上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。為支援居民置換改善需求，《通知》提出實施以下階段性購房補貼政策。一是實施“以舊換新”購房貸款補貼。在本《通知》實施之日起至2027年3月31日，居民家庭在本市外環外購買新建商品住房並完成合同網籤備案，且在網籤備案日前後1年內出售本市二手住房的，可向購入新建商品住房所在區房地產交易中心申請補貼。補貼金額按購買新建商品住房貸款總額的1%計算，單套住房最高補貼5萬元；補貼總金額2億元，用完即止。二是最佳化“以舊換新”補貼。最佳化2024年5月“滬九條”出臺的“以舊換新”補貼政策，自本《通知》實施之日起至2027年3月31日，居民家庭在本市外環外購買新建商品住房並完成合同網籤備案，且在網籤備案日前後1年內出售本市外環內二手住房的，可向購入新建商品住房所在區房地產交易中心申請補貼3萬元。同時符合上述購房貸款補貼適用範圍，且出售二手住房位於本市外環內的居民家庭，可疊加享受兩項購房補貼（最高補貼8萬元）。
+
+---
+
+### 2026-08-20 12:51:21  #MKT News
+
+【Nanjing Bank says 1H credit impairment losses rose YoY mainly due to stepped-up risk clean-up】As of end-June, Nanjing Bank's nonperforming loan ratio fell 0.01 ppt from end-2025 to 0.82%; provision coverage declined 7.51 ppt to 306.11%. 1H credit impairment losses increased 34.77% YoY. Independent director Qiang Ying told the 2026 interim briefing the YoY rise mainly reflected the bank’s decision to step up risk disposal and clean-up. The bank said it will continue a long-term, prudent, high-quality strategy to maintain an adequate risk buffer and moderate profitability; Qiang said she will take an active role in governance to oversee compliance, conflict-of-interest issues and protection of minority shareholders.
+
+---
+
+### 2026-08-20 12:50:47  #公司
+
+【南京銀行回應上半年信用減值損失同比上升：主要是考慮加大風險處置出清力度】資料顯示，截至6月末，南京銀行不良貸款率較上年末下降0.01個百分點至0.82%；撥備覆蓋率較上年末下降了7.51個百分點至306.11%；上半年信用減值損失同比增加34.77%。對此，南京銀行獨立董事強瑩在2026年半年度業績說明會上回應，上半年信用減值損失同比上升主要是考慮加大風險處置出清力度。未來公司將繼續堅持長期穩健和高質量發展，以保持足夠的風險安全墊與適度的盈利水平。作為公司獨立董事，強瑩表示，將積極參與公司科學決策，督促公司遵守國家法規政策，推進高質量轉型，監督大股東與公司的利益衝突，保護中小股東權益，切實履行忠實和勤勉職責義務。
+
+---
+
+### 2026-08-20 12:50:10  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Gulf producers seek export options after vessel attacks; tanker demand, prices jump】FT: Gulf oil producers seeking ways to export cargoes amid continued vessel attacks have driven a surge in crude tanker demand and pushed sale prices and charter rates to record highs, broker Braemar reports. Last quarter prices for new and newer second‑hand largest tankers rose to over $130m, the highest since 2008, while one‑year timecharter rates for supertankers reached historic highs. Producers moving to build or control their own fleets has tightened supply, lifting second‑hand and charter prices; Braemar’s head of S&P David Holland said exporters want stronger control over their shipments. Iraq and other producers without fleets have recently offered larger discounts to persuade buyers to risk transiting the Strait of Hormuz.
+
+---
+
+### 2026-08-20 12:50:09  #MKT News #Important #Market Regions #Greater China
+
+【Shanghai to speed purchase of second‑hand homes for affordable rental housing】Six Shanghai agencies — the Municipal Housing and Urban‑Rural Development Commission, Municipal Housing Management Bureau, Municipal Finance Bureau, PBOC Shanghai Branch, Shanghai Financial Regulatory Bureau and the Shanghai Housing Provident Fund Management Center — issued a joint notice effective Aug. 21, 2026. The notice directs a demand‑led program, aligned with the 15th Five‑Year Plan for affordable rental housing, to accelerate acquisition of second‑hand residential units in central city districts (including inside the Pudong Outer Ring) and convert them to affordable rental housing to increase supply in central districts.
+
+---
+
+### 2026-08-20 12:49:58  #MKT News #Market Regions #Greater China
+
+【Shanghai to further expand use of housing vouchers】On Aug 20, six Shanghai agencies — the Municipal Commission of Housing and Urban‑Rural Development, Municipal Housing Administration Bureau, Municipal Finance Bureau, PBOC Shanghai branch, Shanghai Financial Regulatory Bureau and Municipal Housing Provident Fund Center — issued a notice effective Aug 21, 2026 to expand use of housing vouchers. The notice adds a housing‑voucher option to compensation and resettlement for land expropriation and demolition, prioritizes urban‑village redevelopment and old‑city reconstruction projects, and instructs authorities to reconcile existing compensation standards and offer multiple resettlement options to meet residents’ diversified needs.
+
+---
+
+### 2026-08-20 12:49:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Impact mixed
+
+【Shanghai relaxes housing provident fund withdrawal frequency and limits for home purchases】On Aug. 20 six Shanghai municipal departments jointly issued a notice, effective Aug. 21, 2026, loosening rules on housing provident fund withdrawals for home purchases. Eligible depositors who have purchased housing in the city and either do not have a housing provident fund personal mortgage in the city or have not used the fund to offset mortgage repayments may withdraw for home-purchase purposes once per calendar year (previously once within five years from property-right certificate issuance); the withdrawal amount is limited to no more than the portion of the purchase price paid with the depositor’s own funds.
+
+---
+
+### 2026-08-20 12:49:32  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Shanghai expands housing provident fund withdrawals for down payments; preserves "withdraw-and-loan" support】Six Shanghai municipal agencies, including the finance bureau, PBOC Shanghai branch, Shanghai Financial Regulatory Bureau and the municipal housing provident fund center, issued a notice to optimize local real estate measures, effective Aug. 21, 2026. The notice expands housing provident fund withdrawal eligibility for down payments to cover purchases of completed newly built housing, extending support beyond the pre‑sale new homes allowed under the Aug. 2025 "Shanghai Six" measures. It confirms that withdrawals to pay down payments will not affect calculation of an individual’s housing provident fund loan amount.
+
+---
+
+### 2026-08-20 12:49:01  #MKT News #Important #Market Regions #Greater China
+
+【Shanghai to implement 'trade-in' mortgage subsidy】Shanghai will launch a 'trade-in' home-purchase mortgage subsidy effective Aug. 21, 2026, through Mar. 31, 2027. Residents who buy a newly built commodity home located outside the city’s Outer Ring Road and complete contract online registration, and who sell a Shanghai second‑hand home within one year before or after that registration, may apply to the district real estate transaction center for the subsidy. The subsidy equals 1% of the new-purchase mortgage amount, capped at 50,000 yuan per unit. The program is funded at 200 mln yuan total and will operate until funds are exhausted.
+
+---
+
+### 2026-08-20 12:48:25  #Trading Economics #Economy #Netherlands #Unemployment Rate #Importance 1
+
+Dutch Jobless Rate Rises to 4% — The Netherlands’ seasonally adjusted unemployment rate rose to 4.0% in July 2026 from 3.8% in June, marking the highest level in four months. The number of unemployed people increased by 11 thousand from a month ago to 404 thousand, while 3.2 million people were outside the labor force, mainly consisting of retirees and individuals unable to work due to illness or disability. Unemployment increased primarily among men, rising from 3.8% to 4.0%, while the rate among women fell from 4.0% to 3.9%. Over the past three months, unemployment increased by an average of 2 thousand per month as the inflow into unemployment exceeded the outflow. At the end of July, the number of ongoing unemployment benefits stood at 200 thousand. Meanwhile, employment decreased by 10 thousand to 9.821 million, while the labor force remained unchanged at 10.225 million. The gross labor force participation rate held at 76.0%, while the net participation rate edged down to 73.0% from 73.1%.
+
+---
+
+### 2026-08-20 12:48:24  #行業 #其他 #焦點
+
+【上海：最佳化房地產政策措施】8月20日，上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。《通知》明確最佳化二套房貸首付款比例。對購買外環外（包括原實施差異化政策區域）住房的，二套住房商業性個人住房貸款最低首付款比例從“不低於20%”調整為“不低於15%”。
+
+---
+
+### 2026-08-20 12:48:21  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+【Shanghai eases second‑home down‑payment to 15% outside Outer Ring Road】Six Shanghai agencies, including the municipal housing and urban‑rural development commission, municipal finance bureau, PBOC Shanghai branch, Shanghai financial regulator and the municipal housing provident fund center, issued a notice on Aug 20 effective Aug 21, 2026, to optimize local property measures. The notice lowers the minimum down payment for second‑home commercial individual housing loans for purchases outside the Outer Ring Road (including areas previously under differential policies) from not less than 20% to not less than 15%.
+
+---
+
+### 2026-08-20 12:47:56  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+Polish military says it has ended military aviation operations and did not violate airspace.
+
+---
+
+### 2026-08-20 12:47:10  #國際
+
+波蘭武裝部隊在社交平臺X上表示：波軍已結束軍用航空飛行行動，並未發生領空侵犯事件。
+
+---
+
+### 2026-08-20 12:46:00  #市場 #觀點 #國際
+
+【摩根大通警告：全球糧食危機或明年爆發 化肥供應缺乏緩衝】摩根大通（JPMorgan Chase）最新警告，全球化肥供應中斷與超強厄爾尼諾的風險正在疊加，全球食品價格可能在2027年上半年上漲5%。能源領域尚有戰略石油儲備可以緩衝衝擊，化肥供應沒有類似的後備方案。一旦錯過施肥期，即使供應隨後恢復，農作物減產也難以挽回。摩根大通在題為《糧食安全就是國家安全：多重風險疊加》的報告中指出，美國目前的食品通脹率為3%，已經給家庭開支帶來不小壓力。美國並非糧食安全風險最高的國家，但是進口依賴仍會將漲價壓力傳導至國內。美國消費的咖啡、可可和糖等商品主要依賴進口，其主要供應國可能受到直接衝擊。
+
+---
+
+### 2026-08-20 12:43:15  #行業 #其他
+
+【鐵路行業成為人工智慧落地應用的先行領域】8月20日，交通運輸部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。國家鐵路局科技與法制司副司長劉燕表示，鐵路行業已成為人工智慧落地應用的先行領域。（新華社）
+
+---
+
+### 2026-08-20 12:43:06  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Recovers After 4-Day Decline — India’s BSE Sensex rose about 0.7% to 77,449 on Thursday, rebounding from a fourth consecutive session of losses as global bond markets steadied after the US Treasury announced steps to bring down rising borrowing rates. The US Treasury said overnight it would double buyback sizes for long-duration debt, seeking to ease upward pressure on yields after the 30-year Treasury yield climbed to its highest level since 2007 earlier this week. The move helped push the dollar lower and supported risk assets globally. However, gains in Indian equities were capped by elevated crude oil prices and persistent tensions in the Middle East. On the corporate front, Lohia Corp reported a four-fold jump in profit for the June quarter, while revenue rose 59.5%. In the broader market, newly listed IT solutions firm Xtranet Technologies reported higher first-quarter revenue and profit. Notable gainers included Shiprocket (6.4%), Behari (7.4%), Netweb (4.9%), Eternal (2.3%), and HDFC Bank (1.0%).
+
+---
+
+### 2026-08-20 12:42:30  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Kyiv mayor says a Russian airstrike killed 8 and injured 33 in Kyiv, Ukraine.
+
+---
+
+### 2026-08-20 12:42:10  #國際
+
+烏克蘭基輔市長稱，俄羅斯空襲造成8人死亡，33人受傷。
+
+---
+
+### 2026-08-20 12:41:22  #其他
+
+【聯想官宣ThinkBook全球銷量破2000萬】日前，ThinkBook“星耀熱AI感恩回饋盛典”在北京聯想未來中心啟幕。自2019年品牌誕生至今，聯想ThinkBook全系產品全球累計銷量突破2000萬臺、國內市場銷量達800萬臺。（新浪科技）
+
+---
+
+### 2026-08-20 12:38:54  #宏觀 #資料 #其他
+
+【多地公佈今年七夕結婚領證資料】今年8月19日（農曆七月初七）是傳統節日七夕節，多地迎來結婚登記小高峰。根據河南媒體8月19日晚報道，全省辦理結婚登記7025對，其中，全國通辦結婚51對；鄭州市辦理結婚登記1164對，其中全國通辦結婚20對。截至七夕當日17：00，江蘇全省共辦理結婚登記4422對，其中跨省登記1009對。各地婚姻登記處不僅迎來業務高峰，更透過移步換景的儀式場景與簡約莊重的集體婚禮，讓“甜蜜事業”在文旅融合中持續升溫。七夕當天，廣東全省迎來結婚登記小高峰。截至當日17時，全省共辦理結婚登記6056對。廣東全省各地婚姻登記處緊扣節日契機，將中華優秀傳統婚俗文化融入登記全過程。8月19日七夕佳節，河北省迎來婚姻登記熱潮。截至當天17時，全省共有4306對新人在這個傳統節日裡完成結婚登記。（第一財經）
+
+---
+
+### 2026-08-20 12:35:07  #其他
+
+【廣西海事局啟動防禦颱風二級應急響應】南海熱帶低壓今天（8月20日）早晨5時的中心位於海南省文昌市偏東方向約65公里的南海西北部海面上，就是北緯19.6度，東經111.4度，外圍最大風力有7級（15米/秒），中心最低氣壓為998百帕。預計，南海熱帶低壓將以每小時15公里左右的速度向偏西方向移動，穿過海南島後移入北部灣海面，強度變化不大。為及時組織轄區船舶做好防禦工作，廣西海事局已於8月20日9時啟動防禦颱風二級應急響應。（央視新聞）
+
+---
+
+### 2026-08-20 12:32:53  #公司
+
+【友發集團等成立新公司，含金屬材料製造業務】企查查APP顯示，近日，四川友發管道科技有限公司成立，法定代表人為蘇九川，註冊資本為1億元，經營範圍包含：鋼壓延加工；有色金屬壓延加工；金屬材料製造；塑膠製品製造；金屬製品研發等。企查查股權穿透顯示，該公司由友發集團全資子公司天津友發管道科技有限公司等共同持股。
+
+---
+
+### 2026-08-20 12:31:40  #MKT News #EURUSD #Impact bearish
+
+Netherlands' seasonally adjusted unemployment rate rose to 4.0% in July from 3.8% in June.
+
+---
+
+### 2026-08-20 12:28:59  #國際
+
+烏克蘭官方訊息：基輔遭導彈襲擊已致6人死亡、33人受傷。
+
+---
+
+### 2026-08-20 12:28:20  #Trading Economics #Economy #Malaysia #Exports YoY #Importance 1
+
+Malaysia Export Growth Beats Forecasts — Malaysia's exports jumped 38.0% year-on-year to MYR 193.6 billion in July 2026, more than market expectations of a 34.3% growth but slowing from a revised 45.5% surge in June. The increase was largely driven by a 42.6% rise in manufactured goods, which accounted for 89.8% of total exports, particularly electrical and electronics products (51%). By destination, exports rose sharply to the US (79.8%), Singapore (16.7%), China (30.2%), Taiwan (96%), and the EU (37%).
+
+---
+
+### 2026-08-20 12:28:00  #市場
+
+財通福鑫定開混合：將於2026年8月20日下午開盤起至當日收盤停牌。
+
+---
+
+### 2026-08-20 12:27:31  #MKT News #Important
+
+Caitong Fuxin periodic-open mixed fund will be suspended from the start of afternoon trading on Aug 20, 2026 until market close that day.
+
+---
+
+### 2026-08-20 12:24:10  #其他
+
+【南京銀行：2026年下半年存款付息率有望持續改善】南京銀行舉行2026年半年度業績說明會。會上，該行業務部門負責人表示，今年以來，面對低利率、低息差的市場環境，南京銀行堅持資產負債兩端協同發力，統籌最佳化資產配置、調優負債結構、強化定價管理，多措並舉穩息差、提質效，淨息差整體趨穩，淨利差較上年末上升0.02個百分點。展望下半年，南京銀行將繼續把握高成本存款到期重定價契機調優結構，同時透過“三年降成本行動”縱深推進及客戶倍增、代發工程、場景金融等專案，多渠道拓展低成本存款來源，預計全年存款付息率改善幅度將超過2025年。
+
+---
+
+### 2026-08-20 12:22:51  #Trading Economics #Economy #Malaysia #Balance of Trade #Importance 1
+
+Malaysia Trade Surplus Expands in June — Malaysia’s trade surplus amounted to MYR 22.5 billion in July 2026, widening from MYR 14.8 billion in the same month a year earlier and exceeding market expectations of MYR 17.5 billion, as exports rose more than imports. Exports jumped 38.0% year-on-year to MYR 193.6 billion, mainly driven by a 42.6% surge in manufactured goods, which accounted for 89.8% of total exports, particularly E&E products (51%). By destination, exports rose sharply to the US (79.8%), Singapore (16.7%), China (30.2%), Taiwan (96%), and the EU (37%). Imports increased 36.4% to MYR 171.1 billion, primarily due to a sharp increase in intermediate goods (40.8%) and capital goods (24%), while consumption goods (5.2%) also posted gains. China (60.1%) and Singapore (53.8%) remained Malaysia’s two major sources of imports. In January–July, the trade surplus widened sharply to MYR 170.5 billion, more than double the MYR 71.4 billion recorded last year, as export growth (29.2%) outpaced the rise in imports (19.8%).
 
 ---
 
@@ -18720,257 +18906,5 @@ Japan's Nikkei 225 index fell more than 3%.
 ### 2026-08-19 12:42:14  #國際
 
 【日本要搞潛射高超音速導彈】環球時報援引共同社、《東京新聞》等多家日媒19日報道，日本防衛省2027年度預算要求整體內容曝光。多名相關人士18日透露稱，作為強化所謂“反擊能力”（即所謂對敵基地攻擊能力）的手段之一，日本防衛省計劃研發潛射高超音速導彈，並推進為無人潛航器配備遠端導彈發射功能的相關研究。報道稱，日本防衛省認為，水下發射平臺相對不易遭受敵方攻擊，因此計劃將其作為強化遠端打擊能力的重要手段。此次預算要求還明確提出，將利用民用產品和技術，開發成本較低、可在短期內實現大批次生產，並具備遠距離飛行能力的攻擊型無人機。上述專案均被列為暫不明確具體金額的“事項要求”。
-
----
-
-### 2026-08-19 12:39:33  #公司 #國際
-
-【和譽-B：口服小分子pan-KRAS抑制劑ABSK211新藥臨床試驗申請獲NMPA批准】和譽-B(02256)釋出公告，中國國家藥品監督管理局(NMPA)已批准ABSK211的新藥臨床試驗(IND)申請。ABSK211是一款口服、高效力小分子pan-KRAS抑制劑，對多種KRAS基因改變具有廣譜活性，用於治療攜帶KRAS基因改變的晚期實體瘤患者。此前， ABSK211已於7月8日獲得美國食品藥品監督管理局(FDA)的IND批准。在中國及美國均獲得IND批准是ABSK211全球臨床開發計劃的關鍵里程碑。
-
----
-
-### 2026-08-19 12:38:06  #其他
-
-三菱化學將在福岡建設膠體二氧化矽生產設施。
-
----
-
-### 2026-08-19 12:34:32  #市場
-
-巴基斯坦KSE-100指數開盤後上漲0.2%，至178,274點。
-
----
-
-### 2026-08-19 12:33:30  #國際
-
-【伊朗議會議長率團訪問伊拉克 旨在加強兩國戰略合作】當地時間8月19日，伊朗議會議長卡利巴夫率領代表團啟程前往伊拉克。此次訪問旨在就地區局勢進行對話，加強德黑蘭與巴格達之間的戰略合作，並探討共同的解決方案，以幫助維護西亞地區的穩定和安全。出發前，卡利巴夫在社交媒體表示，在這次訪問中，兩國將採取切實有效的措施，加強兩國共同的安全和福祉，並促進兩國的繁榮。（央視新聞）
-
----
-
-### 2026-08-19 12:33:21  #公司
-
-【Revolut 擬允許執行長斯托龍斯基以所持股權質押借款 2.5 億美元】英國《金融時報》援引其獲取的檔案報道，金融科技公司 Revolut 提議，將執行長尼克・斯托龍斯基（ Nik Storonsky）可透過所持公司股權質押獲得的借款額度提高五倍，最高至 2.5 億美元。這家金融科技企業上週致信投資者，申請批准該額度上調。同時提議取消大額股權質押需經董事會批准的相關要求。本次調整還將擴大可用於質押擔保的股份類別範圍。報道援引一位不願具名的知情人士稱，斯托龍斯基持有該集團約 29% 的股份。Revolut 表示，公司會定期修訂公司章程，確保其 “公司治理及管理條款匹配企業當前規模與估值水平”。
-
----
-
-### 2026-08-19 12:32:35  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Extends Losing Streak to Fourth Day — India’s BSE Sensex fell about 0.3% to 77,018 on Wednesday, extending losses to a fourth consecutive session and reaching its lowest level since July 28, as investors remained cautious amid elevated oil prices, rising global bond yields, and persistent foreign outflows. Brent crude hovered around $92 a barrel, raising concerns over India’s import bill and inflation, while higher US Treasury yields continued to pressure emerging-market assets. Foreign investors have sold a record $25 billion of Indian equities this year, despite returning to buying on Tuesday. Among individual stocks, Netweb (-4.5%), Himadri (-5.2%), Cupid (-1.8%), Paras Defence (-1.4%), and L&T Finance (-3.1%) declined. On the upside, RailTel gained 3.3% after securing a ?1.67 billion order from the Employees' Provident Fund Organisation. Mangalore Refinery & Petrochemicals (1.6%), Chennai Petroleum (3.4%), Milky Mist (10%), and Zaggle (10.4%) posted strong gains.
-
----
-
-### 2026-08-19 12:31:56  #公司
-
-【香港交易所第二季度淨利潤創紀錄 受惠於IPO及交易熱潮】受交易量強勁及首次公開募股(IPO)激增的推動，香港交易所第二季度淨利潤增長21%，超出市場預期。香港交易所週三釋出宣告稱，截至6月的三個月內，其淨利潤達到創紀錄的53.8億港元（6.86億美元）。資料顯示，這一數字高於市場普遍預期的49.1億港元。該交易所表示，由於交易和IPO延續了強勁勢頭，本季度核心業務收入增長了17%。“展望未來，儘管宏觀經濟和地緣政治的不確定性依然存在，但隨著全球資本日益尋求進入中國的創新經濟並把握亞洲的增長前景，香港交易所及香港的長期機遇依然充滿吸引力，”執行長陳翊庭表示。她本週已獲續簽，任期三年，自2027年3月起生效。
-
----
-
-### 2026-08-19 12:30:47  #其他
-
-【廣西南丹山體滑坡被困5人已確認遇難 】記者19日從廣西南丹縣相關部門獲悉，在南丹縣芒場鎮拉麻村黃祥坡屯17日發生的山體滑坡中被困5人已全部找到，均已無生命體徵。善後處置等後續工作正在推進，山體滑坡原因正在進一步調查。
-
----
-
-### 2026-08-19 12:30:46  #MKT News #Market Regions #Japan & APAC
-
-HSBC upgraded its rating on South Korea's equity market to overweight.
-
----
-
-### 2026-08-19 12:28:38  #國際
-
-滙豐將韓國股市評級上調至超配。
-
----
-
-### 2026-08-19 12:27:24  #公司
-
-博泰車聯釋出自願公告，公司收到某頭部OEM新能源車企的專案定點通知，被選定為下一代全新車型8397座艙平臺供應商。
-
----
-
-### 2026-08-19 12:26:22  #其他
-
-恆安國際上半年營收110.9億元人民幣，預估114.2億元；恆安國際上半年淨利潤12.5億元人民幣。恆安國際每股中期派息0.70元人民幣。
-
----
-
-### 2026-08-19 12:25:51  #MKT News
-
-【2026 summer box office tops RMB10.5 bln】Maoyan Pro data show China’s 2026 summer box office (June 1–Aug 31) exceeded RMB10.5 bln as of 11:00 on Aug 19; Kung Fu Women's Football, Eight Immortals!, and Spider-Man: A New Day ranked first through third.
-
----
-
-### 2026-08-19 12:24:14  #公司 #國際
-
-【美歐宇航員太空行走完成部分更換通訊天線工作】美國航空航天局18日表示，國際空間站兩名宇航員當天完成歷時6個多小時的太空行走任務，旨在為空間站更換地空通訊天線。由於作業耗時超出預期，替換天線在此次太空行走中未被安裝。兩名出艙宇航員分別為美航空航天局的阿尼爾·梅農和歐洲航天局的索菲·阿德諾。兩人於美國東部時間18日8時29分（北京時間18日20時29分）開始此次太空行走，持續6小時23分鐘。據介紹，梅農和阿德諾拆除了一副發生故障的地空通訊天線，並將其長期固定在國際空間站桁架結構上。由於斷開電纜和鬆開螺栓所需時間超出預期，宇航員未能按原計劃安裝替換天線。相關安裝工作預計將在下一次太空行走中完成，目前計劃於本月25日進行。此外，兩名宇航員還完成了空間站清理工作，並對“探索”號實驗艙附近的一套行動式固定裝置進行了檢查和更換。美航空航天局表示，目前空間站仍有一副地空通訊天線正常執行。這是阿德諾的首次太空行走，也是梅農的第二次太空行走。阿德諾成為首位進行太空行走的法國女性宇航員。阿德諾於今年2月搭乘美太空探索技術公司“龍”飛船抵達國際空間站，梅農於今年7月搭乘俄“聯盟MS-29”載人飛船抵達國際空間站。（新華社）
-
----
-
-### 2026-08-19 12:23:38  #其他
-
-【2026年暑期檔票房破105億元】據貓眼專業版資料，截至8月19日11時，2026年暑期檔（6月1日—8月31日）總票房超105億元，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》分列暑期檔票房榜前三位。
-
----
-
-### 2026-08-19 12:19:37  #其他
-
-華潤啤酒上半年營收242.4億元，上半年淨利潤51.7億元。華潤啤酒每股中期派息0.446元。
-
----
-
-### 2026-08-19 12:18:45  #其他
-
-【青海海西州發生5.6級地震 水利部迅即啟動水利抗震救災排程指揮機制】據水利部訊息，2026年8月19日5時36分，青海海西州發生5.6級地震，震源深度10千米。水利部迅即啟動水利抗震救災排程指揮機制，組織專題會商，分析研判地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。水利部根據全國“水利一張圖”，迅即排查震區河流湖泊以及水利工程分佈情況，並及時通報青海省水利廳，督促地方水利部門抓緊摸排震區水利工程震損情況，確保人員安全。經初步排查，震區江河水情平穩，在建工程施工人員已全部安全避險，暫未收到水利工程震損情況報告。
-
----
-
-### 2026-08-19 12:18:16  #其他
-
-【全民醫療保障“十五五”規劃：深化醫保支付方式改革】國家醫保局印發《全民醫療保障“十五五”規劃》。其中提出，深化醫保支付方式改革。持續推進以按病種付費為主的多元複合式醫保支付方式改革，強化區域總額管理。動態調整病種分組方案和支付標準，健全核心要素管理機制和配套管理機制。將異地就醫直接結算住院費用納入按病種付費範圍，促進支付銜接。完善按病種付費結餘留用政策，推動按病組（DRG）和病種分值（DIP）付費融合發展。探索對精神疾病、醫療康復等需要長期住院治療且日均費用較穩定的疾病實施按床日等多種支付方式。推進門診支付方式改革試點。落實符合條件的緊密型縣域醫共體總額付費，對中醫醫療機構牽頭組建的緊密型縣域醫共體在總額上適當傾斜。逐步完善符合中醫藥特點的醫保支付方式。
-
----
-
-### 2026-08-19 12:14:41  #其他
-
-Alphabet 準備以接近 7% 的創紀錄利率發行長期澳元債券。
-
----
-
-### 2026-08-19 12:13:58  #其他
-
-【國家醫保局：將長期護理保險制度覆蓋統籌地區數量等納入“十五五”時期發展指標】國家醫保局解讀《全民醫療保障“十五五”規劃》。其中提到，將基本醫療保險參保率、基本醫療保險目錄內住院費用基金支付比例、公立醫療機構透過省級平臺採購藥品和高值醫用耗材金額佔比繼續納入“十五五”時期發展目標，確保規劃實施的連續性。同時，結合“十五五”時期改革發展任務和基金可持續發展要求，將長期護理保險制度覆蓋統籌地區數量、職工和居民基本醫療保險基金累計結餘可支付月數納入“十五五”時期發展指標。
-
----
-
-### 2026-08-19 12:13:35  #其他
-
-【國家醫保局：提升生育醫療費用保障水平，全面建立長期護理保險制度】國家醫保局解讀《全民醫療保障“十五五”規劃》。其中提出，“十五五”時期是健全多層次醫療保障體系的關鍵階段，我們立足當前醫保發展現狀、民生就醫保障需求以及中長期改革任務，統籌接續“十四五”時期各項改革安排，對標新階段新形勢，整體工作思路概括為四個“更加註重”。一是更加註重強體系、補短板。持續織密築牢全民醫保制度框架，提升生育醫療費用保障水平，全面建立長期護理保險制度，最佳化多層次醫療保障體系，縮小區域、群體之間保障差距。二是更加註重推改革、促協同。縱深推進支付方式改革、醫藥價格治理、醫保目錄動態調整等重點改革，賦能醫藥機構發展，支援醫藥創新。三是更加註重精管理、優服務。常態化開展基金飛行檢查、日常核查和智慧監控，嚴厲打擊欺詐騙保行為，確保醫保基金安全。四是更加註重夯基礎、強支撐。強化法治建設、標準化建設等基礎工作，完善醫保資訊系統，延伸醫保公共服務觸角，夯實醫保事業長遠發展的硬體底座和能力支撐。
-
----
-
-### 2026-08-19 12:12:46  #公司 #國際
-
-【韓國AI初創公司稱其新模型可媲美阿里巴巴的Qwen 3.7 Max】韓國人工智慧(AI)初創公司Motif Technologies執行長Junghwan Lim稱，該公司利用價值2500萬美元的、由政府支援的英偉達B200 GPU開發出了其最新的大語言模型Motif 3。Motif 3在Artificial Analysis Intelligence Index中獲得47分，這一成績遠高於同類模型的平均水平，並與阿里巴巴的Qwen 3.7 Max持平。Motif正探索一種新型的代幣即服務(token-as-a-service)商業模式，該模式允許基礎設施提供商管理GPU叢集，而終端使用者只需根據其產生的輸入和輸出量付費。
-
----
-
-### 2026-08-19 12:11:06  #國際
-
-泰國將發行至多 150 億泰銖可持續發展掛鉤債券。
-
----
-
-### 2026-08-19 12:10:32  #公司
-
-據英國金融時報，加拿大養老基金投資公司（CPP Investments）正透過向黑石集團、KKR及殷拓集團等巨頭注資，以共同出資人身份鎖定大型基礎設施交易。這一策略標誌著養老基金在基建領域從單打獨鬥轉向與私有資本巨頭“抱團”合作的模式。
-
----
-
-### 2026-08-19 12:09:31  #其他
-
-TD考恩將路威酩軒目標價從525歐元下調至510歐元。
-
----
-
-### 2026-08-19 12:08:17  #國際
-
-據英國金融時報，伊朗軍方內部人士透露，如果美國總統唐納德·特朗普進一步升級美伊戰爭，伊朗已評估並將目標瞄準位於歐洲的美國及西方軍事資產。 隨著今年2月爆發的2026年美伊戰爭陷入僵局、停火協議失效，德黑蘭已轉向“全面進攻”的最高威懾姿態。報道引述伊朗政權內部人士，伊朗軍方已經完成了相關襲擊評估。
-
----
-
-### 2026-08-19 12:06:31  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-Financial Times, citing people familiar with the matter, reports Iran may consider including military targets in Europe in its strike plans if Trump escalates the conflict.
-
----
-
-### 2026-08-19 12:06:23  #公司
-
-首程控股在港交所公告，本公司董事會欣然宣佈，本集團所屬首程資本旗下公司（本公司之全資附屬公司）所管理的基金投資之宇樹科技股份有限公司（「宇樹科技」，股份代號：688836.SH），已於 2026 年 8 月 19 日在上海證券交易所科創板（「科創板」）完成首次公開發行股票並正式上市。
-
----
-
-### 2026-08-19 12:04:40  #MKT News
-
-【NHSA: to gradually include high-use, overpriced drugs and consumables in collective procurement】The NHSA, in its explanation of the universal medical security ’15th Five-Year Plan’, said it will steadily expand national collective procurement of drugs and high-value medical consumables and promote province-led, nationwide-alliance purchasing. It will deepen procurement coverage in traditional Chinese medicine, biologics and medical consumables and gradually bring high-clinical-volume, excessively priced drugs and consumables into procurement to lower patient costs. The agency said it will optimize procurement rules, improve alignment between procured products and clinical demand, coordinate with drug regulators on quality assurance for winning products, promote fair competition and crack down on bid-rigging and collusion.
-
----
-
-### 2026-08-19 12:04:21  #公司
-
-據英國《金融時報》：貝萊德旗下部門、橡樹資本取得 MBS 集團控制權。
-
----
-
-### 2026-08-19 12:04:13  #MKT News #Commodities #Energy #Market Regions #Emerging Markets #WTI #Impact bullish #Brent #XAUUSD
-
-【Oil-price shock pushes Asian bond inflows to four-month low in July】Foreign inflows into major Asian local-currency bond markets fell to a four-month low in July as an oil-price shock from the Middle East conflict prompted investor caution, regulators and bond-market associations said. Net foreign purchases of local bonds in India, Indonesia, Malaysia, South Korea and Thailand totaled $2.03 billion in July, the smallest monthly net buy since March. IIF data showed emerging-market debt still drew $26.7 billion in July on high yields, improving fundamentals and diversification demand, while EM equities saw $7.8 billion of outflows. Analysts and participants cited Asian economies’ sensitivity to rising energy costs as weighing on the region’s bond appeal.
-
----
-
-### 2026-08-19 12:04:11  #MKT News #Important #Market Regions #Greater China #Star Stocks #Tencent #Meituan #Xiaomi #09888.HK #Impact bearish #01810.HK #Impact bullish #00700.HK
-
-【Hong Kong midday: Hang Seng +0.24%; Baidu down ~12% after results】Hong Kong stocks recovered from an early dip; the Hang Seng Index was up 0.24% at 25,533.38 at mid-session while the Hang Seng TECH Index fell 0.82% to 4,700.55. Semiconductors led sector declines; electronic components and communications shares were weaker. High-dividend names, oil & gas and mainland property stocks outperformed. Big movers: Baidu (09888.HK) fell nearly 12% after results; China Unicom (00762.HK) dropped 7.8% post-results. Larger declines included Juxing Legend (06683.HK) -13.3%, Huahong Hongli (01347.HK) and Cambridge Technology (06166.HK) down over 12%, UBTECH (09880.HK) -10%, Zhongji Xuchuang (03308.HK) and Yangtze Optical Fibre & Cable (06869.HK) down over 9%, GigaDevice (03986.HK), MINIMAX-W (00100.HK) and Kingboard Laminates (01888.HK) down more than 7%. On the upside, Xiaomi Group (01810.HK) rose about 7%, Meituan (03690.HK) gained over 3%, Agricultural Bank of China (01288.HK), CITIC Bank (00998.HK) and PetroChina (00857.HK) were up around 2%, while Pop Mart (09992.HK) and Tencent Holdings (00700.HK) rose just over 1%.
-
----
-
-### 2026-08-19 12:03:53  #MKT News #Market Regions #Greater China
-
-【China NHSA to push commercial medical insurance development】The National Healthcare Security Administration, in its interpretation of the 15th Five-Year Plan for universal medical security, said it will vigorously promote commercial medical insurance to complement basic medical insurance. It will guide differentiated development, support insurers in expanding product supply focused on unmet needs outside the basic medical insurance catalogue, prioritize broadly inclusive products and coverage that backs pharmaceutical innovation, and position commercial insurance as a supplementary tier within China’s multi-level medical security system.
-
----
-
-### 2026-08-19 12:02:48  #MKT News
-
-【China NHSA to add long-term care coverage and fund-reserve metrics to 15th Five-Year targets】China's National Healthcare Security Administration, in its interpretation of the national health security 15th Five-Year plan, said it will carry forward several existing indicators into the 15th Five-Year development targets — basic medical insurance participation rate; fund payment ratio for inpatient expenses within the basic medical insurance catalogue; and share of drugs and high‑value medical consumables procured by public medical institutions via provincial platforms — to ensure continuity of implementation. It said, given reform tasks and fund sustainability requirements, it will also include the number of jurisdictions covered by long‑term care insurance pooling and the number of months of cumulative reserves payable by employee and resident basic medical insurance funds as development indicators.
-
----
-
-### 2026-08-19 12:02:40  #公司 #市場
-
-【港股午評：恒生指數漲0.24%，恒生科技指數跌0.82%】港股午間收盤，恒生指數漲0.24%，恒生科技指數跌0.82%。恒指港股通ETF銀華（159318）漲0.23%，港股通科技ETF鵬華（159751）跌0.77%。板塊方面，環保裝置、手機板塊漲幅靠前；航空貨運、儀器儀表板塊跌幅靠前。個股方面，香港中華煤氣漲7.22%，小米集團-W漲6.95%，再鼎醫藥漲5.03%，珞石機器人漲5.01%，新東方-S漲4.27%；嘉耀控股跌21.69%，天數智芯跌12.85%，真健康醫療-B跌12.77%，華虹宏力跌12.72%，劍橋科技跌12.18%。
-
----
-
-### 2026-08-19 12:02:34  #其他
-
-【拓竹科技組建團隊，進軍消費級UV印表機賽道】從拓竹科技獲悉，拓竹已啟動消費級UV印表機（紫外線光固化噴墨印表機）專案，已規劃十餘個崗位方向，覆蓋從噴頭驅動、波形與墨路，到材料驗證和軟體協同的完整研發鏈路。首批招聘崗位已上線官網。8月13日，拓竹已預熱鐳射產品R1。此次UV印表機專案的正式啟動，意味著拓竹將同時推動3D列印、鐳射加工、UV列印三大技術路線的發展，向個人智造版圖進發。 (科創板日報)
-
----
-
-### 2026-08-19 12:02:23  #其他
-
-【強降雨引發四川2處地質災害 提前避險轉移21784人】從四川省地質災害防治指揮部辦公室獲悉，8月18日8時至8月19日8時，四川成都、自貢等地降大到暴雨，區域性大暴雨，最大降雨量為眉山市東坡區舒林村六組舒林站118毫米。強降雨引發2處地質災害，其中甘孜州九龍縣1處，受災道路已恢復通行；阿壩州汶川縣1處，造成國道350中斷，屬地交通運輸部門已落實管控措施，仍在開展搶通作業。截至今天（19日）7時，24小時內四川13個市（州）64個縣（市、區）共提前轉移避險21784人（其中比較多的有：涼山7346人、綿陽3174人、雅安2400人）。至此，入汛以來，四川全省共提前轉移避險1102694人次。
-
----
-
-### 2026-08-19 12:02:00  #其他
-
-香港交易所上半年收入及其他收益167.0億港元，預估161.5億港元。香港交易所 上半年淨利潤105.7億港元，預估101.5億港元。
-
----
-
-### 2026-08-19 12:01:41  #其他
-
-香港交易所第二季度收入及其他收益85.0億港元，預估79.1億港元。香港交易所 第二季度淨利潤53.8億港元，預估49.1億港元。
-
----
-
-### 2026-08-19 12:01:19  #MKT News
-
-【Zhao Leji meets Ecuador President Noboa】Chairman of the National People’s Congress Standing Committee Zhao Leji met Ecuador President Daniel Noboa in Beijing on Aug. 19. Zhao said China will work with Ecuador to implement leaders’ agreements, deepen pragmatic cooperation and strengthen multi-level parliamentary exchanges to enhance legislative, oversight and governance cooperation and provide legal guarantees for bilateral practical cooperation.
-
----
-
-### 2026-08-19 12:00:53  #MKT News #Market Regions #Greater China
-
-【China NHSA to boost maternity coverage, establish nationwide long-term care insurance in 15th Five-Year plan】The National Healthcare Security Administration (NHSA) set four priorities for the '15th Five-Year' universal healthcare plan. 1) Strengthen system and close gaps: tighten the universal medical insurance framework, raise maternity medical expense coverage and fully establish a nationwide long-term care insurance scheme to reduce regional and group disparities. 2) Push reform and coordination: deepen payment-method reform, drug price governance and dynamic adjustment of the medical insurance reimbursement list; enable medical institutions and support pharmaceutical innovation. 3) Tighten management and service: institutionalize spot inspections, routine audits and intelligent monitoring, and intensify crackdowns on insurance fraud to protect the medical insurance fund. 4) Reinforce foundations and support: strengthen legal and standards work, upgrade medical insurance information systems and extend public-service reach to underpin long-term development.
-
----
-
-### 2026-08-19 12:00:38  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Hovers at 20-Week High — Malaysian palm oil futures extended gains, trading near MYR?4,900 per tonne and reaching their highest level since early April. Support came from firmer edible oils in Dalian and Chicago markets, alongside stronger crude oil prices amid continued uncertainty over shipping through the Strait of Hormuz and potential disruptions to global trade flows. Meanwhile, the Malaysian Palm Oil Council projected prices to stay firm above MYR?4,600 in September, citing tightening supply and trade disruptions. However, upside momentum was capped by elevated inventories, with July stocks climbing to a five-month high. In India, record soyoil imports expected in August could dent palm oil demand, as refiners may favor cheaper soyoil ahead of festive-season consumption. Export signals were mixed: Intertek reported shipments down 7.9% during August?1–15 from the same period in July, while AmSpec estimated a 3.2% rise, leaving traders cautious on near-term direction.
 
 ---

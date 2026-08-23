@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 06:55:00_
-_本檔包含 3305 則快訊，約 631404 字_
+_更新時間：2026-08-24 07:30:06_
+_本檔包含 3317 則快訊，約 631280 字_
+
+---
+
+### 2026-08-21 12:01:46  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+【Tesla halts Solar Roof tile production, product deemed financially unviable】Electrek, citing two people familiar with the project, reports Tesla (TSLA.O) has stopped production of its Solar Roof tiles, notified third-party installers, and will sell only conventional solar panels going forward. One source said Tesla internally concluded the product was not financially viable. Tesla’s Solar Roof page now redirects to Solar Panels and the energy menu no longer lists Solar Roof; the company stopped disclosing standalone Solar Roof installation figures in quarterly results in early 2024, confirming a multi‑year wind‑down of the product.
+
+---
+
+### 2026-08-21 12:01:23  #其他
+
+【美莎克致廣西兩地159死10失聯】21日從廣西南寧市、貴港市分別召開的颱風“美莎克”災後恢復重建工作會議獲悉，截至8月21日0時，災害共致兩市16個縣（市、區）165萬多人受災，不幸因災遇難159人、失聯10人。目前，兩地全面轉入災後恢復重建階段。受颱風“美莎克”影響，7月上旬，廣西遭遇歷史罕見的大範圍持續性強降雨，引發系列嚴重災情。（新華社）
+
+---
+
+### 2026-08-21 11:59:38  #MKT News
+
+【Preview: State Council Information Office to brief on 26th China International Fair for Investment and Trade】The State Council Information Office will hold a press briefing at 15:00 on Tuesday, Aug. 25, 2026. MOFCOM spokesperson and Vice Minister and deputy chief international trade negotiator Ling Ji, Fujian Vice Governor Zhao Zenglian and Xiamen city officials will brief on the 26th China International Fair for Investment and Trade and take questions.
+
+---
+
+### 2026-08-21 11:59:06  #其他
+
+【上海：推動再保險跨境分入業務收入境外投資便利化試點落地】上海市政府新聞釋出會8月21日舉行，解讀《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》。上海市委金融辦副主任陶昌盛表示，推動臨港新片區與上海國際金融中心更好聯動發展。加快推動再保險跨境分入業務收入境外投資便利化試點落地，研究探索新型風險轉移工具。
+
+---
+
+### 2026-08-21 11:58:35  #宏觀
+
+【預告】國務院新聞辦公室將於2026年8月25日（星期二）下午3時舉行新聞釋出會，請商務部新聞發言人、副部長兼國際貿易談判副代表凌激，福建省副省長趙增連和福建省廈門市有關負責人介紹第二十六屆中國國際投資貿易洽談會有關情況，並答記者問。
+
+---
+
+### 2026-08-21 11:57:53  #公司
+
+【滙豐保險經紀公司增資至27.8億 增幅約5%】天眼查App顯示，近日，滙豐保險經紀有限公司發生工商變更，註冊資本由約26.5億人民幣增至約27.8億人民幣，增幅約5%。滙豐保險經紀有限公司成立於2012年4月，法定代表人為陸文穎，經營範圍為保險經紀業務、公募證券投資基金銷售，由滙豐保險經紀大中華有限公司全資持股。
+
+---
+
+### 2026-08-21 11:57:22  #其他
+
+【上海自貿試驗區臨港新片區：“十五五”期間全社會研發經費佔GDP比重保持在6%以上，實現GDP年均增長7.5%】上海市政府新聞辦舉行“開局起步‘十五五’”系列主題市政府新聞釋出會，臨港新片區管委會專職副主任唐浩介紹《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》有關內容。目標定位上，將以“五個重要”為統領，突出“兩區一城”發展定位，即：加快建設國家高水平開放壓力測試的先行示範區、全市“五個中心”建設的重要功能區以及海內外創新創業人才集聚的臨港科創城。“十五五”期間，全國首創性制度創新案例新增達70項，全社會研發經費佔GDP比重保持在6%以上，實現GDP年均增長7.5%。
+
+---
+
+### 2026-08-21 11:57:10  #公司
+
+【臨港新片區：探索跨國公司內部個人資訊跨境傳輸便捷化安排】8月21日，《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》正式釋出。根據規劃，“十五五”期間，臨港新片區將推動跨境資料流動擴圍放量：深化“負面清單+操作指引”資料跨境管理模式，持續推動負面清單和操作指引迭代擴容。探索跨國公司內部個人資訊跨境傳輸便捷化安排。持續擴大增值電信業務對外開放試點規模。健全國際資料業務安全管理機制，建設國際資料服務管理平臺。加強跨境功能數字化賦能，促進跨境資料安全有序流動。深化航貿數字化轉型，推進電子提單多元場景運用。鼓勵離岸貿易企業依託區塊鏈基礎設施使用電子單證，推廣全球法人識別編碼應用。
+
+---
+
+### 2026-08-21 11:54:53  #MKT News
+
+【Ministry of Finance: APEC finance ministers' meeting to be held in Hong Kong in October】The Ministry of Finance said at a press briefing it will host the APEC finance ministers' meeting in Hong Kong in October to prepare financial deliverables for an informal APEC leaders' meeting. The ministry noted this year is APEC China Year and it is China’s third time hosting APEC.
+
+---
+
+### 2026-08-21 11:54:35  #Trading Economics #Economy #Indonesia #Current Account #Importance 1
+
+Indonesia Posts Record Current Account Deficit — Indonesia’s current account deficit widened sharply to USD 12.49 billion in Q2 2026 from USD 2.89 billion in the same period a year earlier. It marked the largest current account deficit on record and was equivalent to 3.3% of the country’s GDP, as the trade surplus narrowed sharply to USD 1.32 billion from USD 10.52 billion in Q2 2025, mainly due to a surge in imports amid higher oil prices linked to the Middle East conflict. Meanwhile, the services deficit increased to USD 5.98 billion from USD 5.30 billion a year earlier, while the primary income deficit inched down to USD 9.67 billion from USD 9.79 billion. The secondary income surplus climbed slightly to USD 1.75 billion from USD 1.68 billion. Last year, the current account gap fell sharply to USD 1.25 billion or 0.1% from GDP from USD 8.58 billion in 2024.
+
+---
+
+### 2026-08-21 11:54:23  #宏觀
+
+【財政部：10月將在香港舉辦APEC財長會】在今天上午國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上，財政部有關負責人介紹，我國國際財經交流合作取得新成效。財政部國際經濟關係司司長程智軍表示，今年是APEC“中國年”，也是中國第三次擔任APEC東道主。10月我們將在香港舉辦APEC財長會，為APEC領導人非正式會議做好財金成果的準備。（央視新聞）
+
+---
+
+### 2026-08-21 11:53:24  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bearish
+
+Electrek reports Tesla (TSLA.O) has halted production of Solar Roof tiles, saying the product is not economically viable.
+
+---
+
+### 2026-08-21 11:53:12  #公司
+
+【萬科增資至約119.3億】天眼查App顯示，近日，萬科企業股份有限公司發生工商變更，註冊資本由約110億人民幣增至約119.3億人民幣。該公司成立於1984年5月，法定代表人為徐恩利，經營範圍包括興辦實業、進出口業務、房地產開發等。
+
+---
+
+### 2026-08-21 11:52:58  #其他
+
+特斯拉已停產太陽能屋頂瓦，該產品不具備經濟可行性。
+
+---
+
+### 2026-08-21 11:52:30  #公司
+
+【小馬智行在中山成立新公司 註冊資本2000萬】天眼查工商資訊顯示，近日，中山小馬智行科技有限公司成立，註冊資本2000萬人民幣，經營範圍包括人工智慧應用軟體開發、智慧機器人的研發、軟體開發等，由廣州小馬智行科技有限公司全資持股。
+
+---
+
+### 2026-08-21 11:51:47  #公司
+
+【新和成：萊茵河低水位造成一定擾動 市場詢盤及關注度有所提升】新和成(002001)在互動平臺表示，公司高度關注海外市場供給端變化及物流運輸情況。近期萊茵河低水位等因素對歐洲部分化工企業生產及物流運輸造成一定擾動，市場詢盤及關注度有所提升，公司將密切跟蹤市場動態，積極把握市場機遇，保障全球客戶產品供應。
+
+---
+
+### 2026-08-21 11:51:33  #公司
+
+【旺旺集團裁員要求員工反思，最高主管無需參與】8月上旬，中國旺旺集團董事長蔡衍明發布的內部信不脛而走，蔡衍明在信中稱公司遇到了“重大經營危機”，且要淘汰沒有貢獻的幹部。訊息一出，引發公眾與行業對旺旺集團的廣泛討論。
+
+8月20日，多名接近旺旺集團的人士告訴財新，集團在近期採取了裁員計劃。一名離職員工表示，他聽說集團計劃的裁員目標是1000人左右，目前已經裁員約400人；另一名離職員工表示，其所在的部門計劃最佳化8%的員工，這意味著約有近20人面臨裁員。截至發稿，旺旺集團未回覆問詢。
+
+此外，多名員工表示，旺旺集團在近期要求內部員工撰寫自評報告，“這是第一次公司因為淨利潤大幅下滑，讓所有員工來反思，”一名接近旺旺的人士說。具體而言，旺旺集團要求，公司總部全體人員須圍繞過去一年的實際結果，開展“確實認識自己•切實反思自己”的回顧；但單位最高主管無需參與。
+
+集團還要求，員工自評報告應該秉持“確實認識自己、切實反思自己、隨時提醒自己、篤實把握自己、絕對發揮自己”的原則，“真實、客觀地剖析自己的不足”，且要“以事實為依據、資料為支撐”；員工自評後，由直屬主管（N+1）、隔級主管（N+2）按回顧表所列維度逐項評分，評分鏈條最高至單位最高主管。（財新）
+
+---
+
+### 2026-08-21 11:50:04  #市場 #焦點 #A股
+
+【8月21日午間漲停分析】創業板指半日漲超1%，小金屬、算力硬體概念全線走強。漢森製藥3連板，一圖看懂>>
+
+---
+
+### 2026-08-21 11:49:40  #公司
+
+【益客食品：向特定物件發行股票申請獲深交所受理】益客食品公告，公司於近日收到深圳證券交易所出具的《關於受理江蘇益客食品集團股份有限公司向特定物件發行股票申請檔案的通知》，深交所對公司報送的向特定物件發行股票的申請檔案進行了核對，認為申請檔案齊備，決定予以受理。該事項尚需透過深交所稽核，並獲得中國證監會同意註冊的批覆後方可實施。
+
+---
+
+### 2026-08-21 11:47:58  #其他
+
+傑富瑞將泡泡瑪特國際目標價從227.60港元下調至146.00港元。
+
+---
+
+### 2026-08-21 11:47:24  #央行 #宏觀
+
+【財政部：正在繼續研究制訂財政金融協同的新政策和新舉措】財政部副部長廖岷21日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上透露，結合經濟發展需要，財政部正在繼續研究制訂財政金融協同的新政策和新舉措，並於今年下半年推出。同時，財政部強化統籌協調，將與央行等金融管理部門一道，推動財政金融聯動常態化和長效化，期待這些政策能夠進一步增加企業和居民的獲得感。
+
+---
+
+### 2026-08-21 11:47:05  #宏觀
+
+【財政部：聚焦就業、增收、社保等方面要求 系統謀劃提升居民消費能力的戰略舉措】財政部副部長廖岷21日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上表示，下一步，財政部將按照規劃聚焦就業、增收、社保等方面的要求，系統謀劃提升居民消費能力的戰略舉措。短期看，主要是充分發揮當前各項政策效能，推動各項政策措施能夠更好更快落地見效，增加大家的獲得感。中長期看，主要還是透過持續提升社會保障能力，深化收入分配製度改革，強化稅收、轉移支付等再分配調節，不斷夯實居民能消費、敢消費和願消費的基礎，釋放我國超大消費市場的內生動力。
+
+---
+
+### 2026-08-21 11:45:52  #MKT News
+
+【Shanghai FTZ Lingang to expand cross‑border data negative list, pilot offshore finance under 15th Five‑Year Plan】Shanghai municipal government held a press briefing on Aug. 21 to outline the China (Shanghai) Free Trade Zone Lingang New Area 15th Five‑Year Plan. Targets include 100 billion yuan in bonded repair import‑export and US$50 billion in offshore resale trading turnover by the end of the plan. The area will pilot offshore finance measures, iterate and expand the negative list and operational guidance for cross‑border data flows, develop a global shipping hub and build an international green‑energy bunkering center.
+
+---
+
+### 2026-08-21 11:44:57  #其他
+
+【上海自貿試驗區臨港新片區：推動資料跨境的負面清單和操作指引迭代擴容】上海市政府新聞釋出會8月21日舉行，解讀《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》。臨港新片區管委會專職副主任唐浩表示，《臨港新片區發展“十五五”規劃》提出，力爭“十五五”末，實現保稅維修進出口額1000億元，離岸轉手買賣交易額500億美元。率先開展離岸金融先行先試，推動資料跨境的負面清單和操作指引迭代擴容，建設全球航運樞紐，打造國際航運綠色能源加註中心。
+
+---
+
+### 2026-08-21 11:44:54  #公司
+
+【一品紅：子公司APH03867片臨床試驗獲批】一品紅8月21日公告，近日，公司全資子公司廣州一品紅製藥有限公司自主研發的創新藥物APH03867片的藥物臨床試驗申請已獲得國家藥品監督管理局批准，並收到《藥物臨床試驗批准通知書》，將於近期開展臨床試驗。本品擬用於痛風伴高尿酸血癥患者的治療。
+
+---
+
+### 2026-08-21 11:44:49  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Hits 11-Week High — Platinum futures climbed above $1,870 an ounce, hitting an eleven-week high, as a weaker US dollar and renewed demand for precious metals lifted the market. The greenback came under pressure amid concerns over the US fiscal outlook and skepticism about the Treasury’s expanded bond-buyback program, which investors viewed as unlikely to provide a lasting solution to elevated borrowing costs. Lower yields earlier in the week also boosted demand for non-yielding assets, while expectations that the Federal Reserve could keep rates unchanged in September further supported precious metals. Platinum was additionally underpinned by a tight global supply-demand balance, with persistent supply deficits and low inventories limiting available metal. Meanwhile, geopolitical tensions in the Middle East and elevated oil prices continued to fuel inflation and economic uncertainty, encouraging demand for precious metals as a hedge.
+
+---
+
+### 2026-08-21 11:43:56  #兩會
+
+【耕地保護法草案擬三審：嚴禁截留挪用高標準農田建設資金】全國人大常委會法制工作委員會舉行記者會，發言人黃海華介紹，三次審議稿擬作以下主要修改：一是鼓勵高等學校、科研院所、農業技術推廣機構、企業等協同開展人才培養；二是根據中央檔案精神，增加規定，河湖管理範圍內的土地，原則上不作為補充耕地來源；三是強化對高標準農田建設資金的監督管理，禁止任何單位和個人截留、擠佔或者挪用高標準農田建設資金；四是增加對沙化、風蝕、水蝕耕地開展綜合治理，以及預防和治理水土流失的規定；五是加大對黑土地的保護力度，增加規定保護黑土地的優良生產能力；六是明確國家健全糧食主產區利益補償機制，完善對糧食主產區和產糧大縣的財政轉移支付制度，健全糧食產銷區省際橫向利益補償機制。
+
+---
+
+### 2026-08-21 11:43:40  #Trading Economics #Markets #Commodity #Importance 1
+
+Copper Rises as Supply Concerns Persist — Copper futures climbed above $6.5 per pound on Friday, recovering losses from earlier in the week as tight physical supply continued to underpin prices. The copper market remains vulnerable after months of outflows, partly due to metal being diverted to the US ahead of anticipated tariffs. Top producer Chile also expects copper output to decline this year as ongoing disruptions continue to weigh on mines and development projects. However, a recent increase in metal deliveries to London Metal Exchange warehouses helped ease a historic supply squeeze. Elsewhere, copper prices were supported by a weaker dollar as skepticism over the US government’s bond buyback plan reduced the greenback’s appeal, boosting demand for metals and other currencies. Meanwhile, investors continued to monitor geopolitical developments as the US prepares sweeping new economic sanctions against Iran, pushing oil prices higher and adding to inflation concerns.
+
+---
+
+### 2026-08-21 11:43:02  #其他
+
+【香港國安處：歡迎法庭對反中亂港分子作出裁決】反中亂港團體支聯會煽動顛覆國家政權案今日（21日）裁決，法庭經審訊後裁定支聯會、反中亂港分子李卓人、鄒幸彤“煽動顛覆國家政權”罪名成立。香港警務處國家安全處總警司李桂華表示，國安處歡迎法庭裁定上述被告罪成。（大灣區之聲）
+
+---
+
+### 2026-08-21 11:41:38  #MKT News #Star Stocks #Alibaba #09988.HK #Impact bullish
+
+Jefferies raises Alibaba (09988.HK) PT to $190 from $185.
+
+---
+
+### 2026-08-21 11:41:20  #MKT News #Macro & Rates #Treasury Yields #USDJPY #Impact bearish
+
+Japan 5-year government bond yield rose 2.5 bps to 2.125%.
+
+---
+
+### 2026-08-21 11:41:02  #市場 #國際
+
+5年期日本國債收益率上升2.5個基點至2.125%。
+
+---
+
+### 2026-08-21 11:40:25  #公司
+
+【兆龍互連：公司具備高速有源銅纜相關產品開發及供貨能力】兆龍互連(300913)在互動平臺表示，公司具備高速有源銅纜相關產品開發及供貨能力。目前公司單通道112Gb/s高速線纜實現批次穩定供貨，單通道224Gb/s高速線纜實現小批次交付，1.6Tb/s高速元件產品有序推進客戶驗證。公司持續開發搭載行業主流晶片的有源銅纜方案，匹配不同客戶的定製化需求。有源銅纜傳輸距離受訊號處理晶片效能、線纜結構、傳輸速率等多重因素影響。公司將持續開展有源銅纜相關技術迭代研發，持續改善訊號完整性，探索傳輸距離的提升空間。
+
+---
+
+### 2026-08-21 11:39:01  #國際
+
+印尼第二季度經常賬戶赤字125億美元，預估117.2億美元。
+
+---
+
+### 2026-08-21 11:38:11  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+Traders say the Reserve Bank of India may be selling dollars to defend the rupee.
+
+---
+
+### 2026-08-21 11:38:03  #公司
+
+【賢豐控股等成立科技公司 含積體電路設計業務】企查查APP顯示，近日，廣東賢豐盈碩科技有限公司成立，法定代表人為潘康超，註冊資本為1.18億元，經營範圍包含：積體電路製造；積體電路晶片設計及服務；積體電路設計；工業設計服務；電子元器件製造等。企查查股權穿透顯示，該公司由賢豐控股全資子公司賢豐電子科技（東莞）有限公司、廣東盈碩電子有限公司共同持股。
+
+---
+
+### 2026-08-21 11:37:31  #央行 #國際
+
+印尼央行：第二季經常帳赤字相當於GDP的3.3%。
+
+---
+
+### 2026-08-21 11:36:45  #央行 #國際
+
+印尼央行：印尼第二季度國際收支逆差為9億美元。
+
+---
+
+### 2026-08-21 11:36:29  #其他
+
+【“十四五”時期上海自貿區臨港新片區形成全國首創制度創新案例60個】8月21日上午，上海市政府舉行新聞釋出會，解讀《中國（上海）自由貿易試驗區臨港新片區發展“十五五”規劃》。臨港新片區管委會專職副主任唐浩表示，“十四五”時期，臨港新片區形成全國首創制度創新案例60個，進出口總值年均增長35.1%，累計實到外資超73億美元，2025年離岸貿易規模達到327億美元，建成國內首個的國際再保險登記交易中心並在去年交易保費突破百億元。洋山港國際船舶液化天然氣和甲醇加註規模躋身全球前三。
+
+---
+
+### 2026-08-21 11:36:09  #宏觀 #兩會
+
+【銀監法修訂草案二審稿：擬強化消費者權益保護與監管職責】全國人大常委會法制工作委員會今天舉行記者會，發言人黃海華介紹立法工作有關情況並回答記者提問。十四屆全國人大常委會第二十四次會議8月25日至28日在北京舉行，銀行業監督管理法修訂草案將提請二次審議。如何強化銀行業消費者權益保護？黃海華表示，近年來發生了銀行業金融機構從業人員挪用客戶資金等違法行為，社會各界高度關注，希望進一步壓實銀行業監管機構保護銀行業消費者的職責，完善消費者權益保護制度。銀行業監督管理法修訂草案二次審議稿，堅持問題導向，回應社會關切，主要從以下幾個方面強化銀行業消費者權益保護：一是增加規定國務院銀行業監督管理機構負責統籌銀行業消費者權益保護工作的要求；二是增加規定銀行業金融機構及其從業人員不得實施侵害消費者合法權益的行為種類，包括不得透過挪用資金等方式侵害存款人和其他客戶合法權益等；三是增加規定銀行業金融機構從業人員違反本法規定，造成存款人和其他客戶損害的，銀行業金融機構應當依法承擔民事責任。 (澎湃新聞)
+
+---
+
+### 2026-08-21 11:35:23  #公司
+
+【航天電器：CPU SOCKET相關產品已透過驗證】航天電器8月21日在互動平臺表示，公司CPU SOCKET相關產品已透過驗證，具體應用事項因與客戶簽署商業保密條款，合作細節不便公開。
+
+---
+
+### 2026-08-21 11:34:03  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bullish
+
+【A-share midday: ChiNext +1.2%; gold names lead, grain sector slides】A-shares opened lower then rallied; at midday the Shanghai Composite was unchanged, the Shenzhen Composite Index rose 0.63% and the ChiNext Index gained 1.21%. Shanghai- and Shenzhen-listed turnover was 1.25 tln yuan in the first half, down 117.9 bln from the prior session. More than 3,500 stocks fell. Gold-related names outperformed: Shen Zhonghua A posted a second straight daily limit-up, Hunan Baiyin, Fuda Alloy and Baiyin Nonferrous hit limit-up. CPO-related names recovered, with Tianyang New Materials, Xingwang Ruijie and Kechuan Technology among the top movers. BC battery names advanced; Fuda Alloy led, with Huamin, Jinfu Technology and Ruike Laser also higher. Oil & gas extraction, salt-lake lithium, minor metals and MLCC concepts were among other gainers. Grain-related stocks continued to pull back: Qiule Seed and Shennong Seed fell over 11%, Jingliang Holdings and Wanxiang Denong dropped more than 9%. Innovative-drug names retreated; Ha Sanlian hit limit-down, while Boteng, Anke Biotech and Xidian Pharma were among the laggards.
+
+---
+
+### 2026-08-21 11:33:44  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Extends Gains to 11-Month High — The South Korean won traded toward 1,382 per dollar, extending gains to its strongest level since mid-September 2025, as a weaker US dollar and strong domestic fundamentals supported the currency. The dollar index remained near multi-month lows as concerns over US fiscal deficits and the Treasury's bond-buyback efforts weighed on the greenback. At the same time, Bank of Korea Senior Deputy Governor Kwon Min-soo said economic fundamentals suggest the won could strengthen further, noting stronger-than-expected growth and inflation above target. Exports jumped 56% year-on-year in the first 20 days of August, while semiconductor shipments nearly tripled to $26 billion, generating a $14 billion trade surplus and supporting exporter dollar-selling. The strong data could bolster expectations for another BOK rate hike on August 27, after the central bank raised its policy rate to 2.75% last month. However, renewed gains in US Treasury yields and geopolitical risks remained potential headwinds.
 
 ---
 
@@ -19772,191 +20036,5 @@ Russian Defence Ministry said Russian forces carried out overnight strikes on Ky
 ### 2026-08-20 12:53:26  #Trading Economics #Markets #Commodity #Importance 1
 
 Iron Ore Falls on Weak Fundamentals — Iron ore futures fell toward CNY 700 per ton, approaching 14-month lows amid signs of persistently weak steel demand and abundant global supply. Chinese steelmakers continued to face deteriorating margins and a prolonged property sector downturn, weighing on demand for the key steelmaking ingredient. Industry data showed that China’s daily crude steel output fell 11% in July from the previous month to 2.48 million tons, while daily hot metal production declined 2.2% to 2.2 million tons. Meanwhile, Australian mining giant Fortescue reported higher annual profit, supported by increased iron ore shipments and stronger realized prices. The company posted a record annual shipment of 201.3 million metric tons of iron ore. Elsewhere, Singaporean authorities said they had received reports concerning Radiant World, one of the world’s largest iron ore traders, although no further details were provided.
-
----
-
-### 2026-08-20 12:53:20  #宏觀 #行業 #其他 #焦點
-
-【上海：推行房票安置 加快推進收購二手住房用作保障性租賃住房】上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。《通知》明確進一步加大房票實施力度，在徵收拆遷補償安置中增加房票安置方式，重點聚焦城中村改造和舊城區改建專案等，統籌平衡現有徵收拆遷補償標準，多種方式滿足居民多元化安置需求。《通知》規定，以需求為導向，結合“十五五”時期保障性租賃住房發展要求，各中心城區（含浦東外環內區域）推進二手住房收購工作，並加快改造出租，切實增加中心城區保障性租賃住房供應。
-
----
-
-### 2026-08-20 12:52:08  #宏觀 #焦點
-
-【上海出臺階段性購房補貼政策】上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。為支援居民置換改善需求，《通知》提出實施以下階段性購房補貼政策。一是實施“以舊換新”購房貸款補貼。在本《通知》實施之日起至2027年3月31日，居民家庭在本市外環外購買新建商品住房並完成合同網籤備案，且在網籤備案日前後1年內出售本市二手住房的，可向購入新建商品住房所在區房地產交易中心申請補貼。補貼金額按購買新建商品住房貸款總額的1%計算，單套住房最高補貼5萬元；補貼總金額2億元，用完即止。二是最佳化“以舊換新”補貼。最佳化2024年5月“滬九條”出臺的“以舊換新”補貼政策，自本《通知》實施之日起至2027年3月31日，居民家庭在本市外環外購買新建商品住房並完成合同網籤備案，且在網籤備案日前後1年內出售本市外環內二手住房的，可向購入新建商品住房所在區房地產交易中心申請補貼3萬元。同時符合上述購房貸款補貼適用範圍，且出售二手住房位於本市外環內的居民家庭，可疊加享受兩項購房補貼（最高補貼8萬元）。
-
----
-
-### 2026-08-20 12:51:21  #MKT News
-
-【Nanjing Bank says 1H credit impairment losses rose YoY mainly due to stepped-up risk clean-up】As of end-June, Nanjing Bank's nonperforming loan ratio fell 0.01 ppt from end-2025 to 0.82%; provision coverage declined 7.51 ppt to 306.11%. 1H credit impairment losses increased 34.77% YoY. Independent director Qiang Ying told the 2026 interim briefing the YoY rise mainly reflected the bank’s decision to step up risk disposal and clean-up. The bank said it will continue a long-term, prudent, high-quality strategy to maintain an adequate risk buffer and moderate profitability; Qiang said she will take an active role in governance to oversee compliance, conflict-of-interest issues and protection of minority shareholders.
-
----
-
-### 2026-08-20 12:50:47  #公司
-
-【南京銀行回應上半年信用減值損失同比上升：主要是考慮加大風險處置出清力度】資料顯示，截至6月末，南京銀行不良貸款率較上年末下降0.01個百分點至0.82%；撥備覆蓋率較上年末下降了7.51個百分點至306.11%；上半年信用減值損失同比增加34.77%。對此，南京銀行獨立董事強瑩在2026年半年度業績說明會上回應，上半年信用減值損失同比上升主要是考慮加大風險處置出清力度。未來公司將繼續堅持長期穩健和高質量發展，以保持足夠的風險安全墊與適度的盈利水平。作為公司獨立董事，強瑩表示，將積極參與公司科學決策，督促公司遵守國家法規政策，推進高質量轉型，監督大股東與公司的利益衝突，保護中小股東權益，切實履行忠實和勤勉職責義務。
-
----
-
-### 2026-08-20 12:50:10  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-【Gulf producers seek export options after vessel attacks; tanker demand, prices jump】FT: Gulf oil producers seeking ways to export cargoes amid continued vessel attacks have driven a surge in crude tanker demand and pushed sale prices and charter rates to record highs, broker Braemar reports. Last quarter prices for new and newer second‑hand largest tankers rose to over $130m, the highest since 2008, while one‑year timecharter rates for supertankers reached historic highs. Producers moving to build or control their own fleets has tightened supply, lifting second‑hand and charter prices; Braemar’s head of S&P David Holland said exporters want stronger control over their shipments. Iraq and other producers without fleets have recently offered larger discounts to persuade buyers to risk transiting the Strait of Hormuz.
-
----
-
-### 2026-08-20 12:50:09  #MKT News #Important #Market Regions #Greater China
-
-【Shanghai to speed purchase of second‑hand homes for affordable rental housing】Six Shanghai agencies — the Municipal Housing and Urban‑Rural Development Commission, Municipal Housing Management Bureau, Municipal Finance Bureau, PBOC Shanghai Branch, Shanghai Financial Regulatory Bureau and the Shanghai Housing Provident Fund Management Center — issued a joint notice effective Aug. 21, 2026. The notice directs a demand‑led program, aligned with the 15th Five‑Year Plan for affordable rental housing, to accelerate acquisition of second‑hand residential units in central city districts (including inside the Pudong Outer Ring) and convert them to affordable rental housing to increase supply in central districts.
-
----
-
-### 2026-08-20 12:49:58  #MKT News #Market Regions #Greater China
-
-【Shanghai to further expand use of housing vouchers】On Aug 20, six Shanghai agencies — the Municipal Commission of Housing and Urban‑Rural Development, Municipal Housing Administration Bureau, Municipal Finance Bureau, PBOC Shanghai branch, Shanghai Financial Regulatory Bureau and Municipal Housing Provident Fund Center — issued a notice effective Aug 21, 2026 to expand use of housing vouchers. The notice adds a housing‑voucher option to compensation and resettlement for land expropriation and demolition, prioritizes urban‑village redevelopment and old‑city reconstruction projects, and instructs authorities to reconcile existing compensation standards and offer multiple resettlement options to meet residents’ diversified needs.
-
----
-
-### 2026-08-20 12:49:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Impact mixed
-
-【Shanghai relaxes housing provident fund withdrawal frequency and limits for home purchases】On Aug. 20 six Shanghai municipal departments jointly issued a notice, effective Aug. 21, 2026, loosening rules on housing provident fund withdrawals for home purchases. Eligible depositors who have purchased housing in the city and either do not have a housing provident fund personal mortgage in the city or have not used the fund to offset mortgage repayments may withdraw for home-purchase purposes once per calendar year (previously once within five years from property-right certificate issuance); the withdrawal amount is limited to no more than the portion of the purchase price paid with the depositor’s own funds.
-
----
-
-### 2026-08-20 12:49:32  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Shanghai expands housing provident fund withdrawals for down payments; preserves "withdraw-and-loan" support】Six Shanghai municipal agencies, including the finance bureau, PBOC Shanghai branch, Shanghai Financial Regulatory Bureau and the municipal housing provident fund center, issued a notice to optimize local real estate measures, effective Aug. 21, 2026. The notice expands housing provident fund withdrawal eligibility for down payments to cover purchases of completed newly built housing, extending support beyond the pre‑sale new homes allowed under the Aug. 2025 "Shanghai Six" measures. It confirms that withdrawals to pay down payments will not affect calculation of an individual’s housing provident fund loan amount.
-
----
-
-### 2026-08-20 12:49:01  #MKT News #Important #Market Regions #Greater China
-
-【Shanghai to implement 'trade-in' mortgage subsidy】Shanghai will launch a 'trade-in' home-purchase mortgage subsidy effective Aug. 21, 2026, through Mar. 31, 2027. Residents who buy a newly built commodity home located outside the city’s Outer Ring Road and complete contract online registration, and who sell a Shanghai second‑hand home within one year before or after that registration, may apply to the district real estate transaction center for the subsidy. The subsidy equals 1% of the new-purchase mortgage amount, capped at 50,000 yuan per unit. The program is funded at 200 mln yuan total and will operate until funds are exhausted.
-
----
-
-### 2026-08-20 12:48:25  #Trading Economics #Economy #Netherlands #Unemployment Rate #Importance 1
-
-Dutch Jobless Rate Rises to 4% — The Netherlands’ seasonally adjusted unemployment rate rose to 4.0% in July 2026 from 3.8% in June, marking the highest level in four months. The number of unemployed people increased by 11 thousand from a month ago to 404 thousand, while 3.2 million people were outside the labor force, mainly consisting of retirees and individuals unable to work due to illness or disability. Unemployment increased primarily among men, rising from 3.8% to 4.0%, while the rate among women fell from 4.0% to 3.9%. Over the past three months, unemployment increased by an average of 2 thousand per month as the inflow into unemployment exceeded the outflow. At the end of July, the number of ongoing unemployment benefits stood at 200 thousand. Meanwhile, employment decreased by 10 thousand to 9.821 million, while the labor force remained unchanged at 10.225 million. The gross labor force participation rate held at 76.0%, while the net participation rate edged down to 73.0% from 73.1%.
-
----
-
-### 2026-08-20 12:48:24  #行業 #其他 #焦點
-
-【上海：最佳化房地產政策措施】8月20日，上海市住房城鄉建設管理委、市房屋管理局、市財政局、人民銀行上海市分行、上海金融監管局、市公積金管理中心等六部門聯合印發《關於最佳化本市房地產政策措施的通知》，自2026年8月21日起施行。《通知》明確最佳化二套房貸首付款比例。對購買外環外（包括原實施差異化政策區域）住房的，二套住房商業性個人住房貸款最低首付款比例從“不低於20%”調整為“不低於15%”。
-
----
-
-### 2026-08-20 12:48:21  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-【Shanghai eases second‑home down‑payment to 15% outside Outer Ring Road】Six Shanghai agencies, including the municipal housing and urban‑rural development commission, municipal finance bureau, PBOC Shanghai branch, Shanghai financial regulator and the municipal housing provident fund center, issued a notice on Aug 20 effective Aug 21, 2026, to optimize local property measures. The notice lowers the minimum down payment for second‑home commercial individual housing loans for purchases outside the Outer Ring Road (including areas previously under differential policies) from not less than 20% to not less than 15%.
-
----
-
-### 2026-08-20 12:47:56  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Polish military says it has ended military aviation operations and did not violate airspace.
-
----
-
-### 2026-08-20 12:47:10  #國際
-
-波蘭武裝部隊在社交平臺X上表示：波軍已結束軍用航空飛行行動，並未發生領空侵犯事件。
-
----
-
-### 2026-08-20 12:46:00  #市場 #觀點 #國際
-
-【摩根大通警告：全球糧食危機或明年爆發 化肥供應缺乏緩衝】摩根大通（JPMorgan Chase）最新警告，全球化肥供應中斷與超強厄爾尼諾的風險正在疊加，全球食品價格可能在2027年上半年上漲5%。能源領域尚有戰略石油儲備可以緩衝衝擊，化肥供應沒有類似的後備方案。一旦錯過施肥期，即使供應隨後恢復，農作物減產也難以挽回。摩根大通在題為《糧食安全就是國家安全：多重風險疊加》的報告中指出，美國目前的食品通脹率為3%，已經給家庭開支帶來不小壓力。美國並非糧食安全風險最高的國家，但是進口依賴仍會將漲價壓力傳導至國內。美國消費的咖啡、可可和糖等商品主要依賴進口，其主要供應國可能受到直接衝擊。
-
----
-
-### 2026-08-20 12:43:15  #行業 #其他
-
-【鐵路行業成為人工智慧落地應用的先行領域】8月20日，交通運輸部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。國家鐵路局科技與法制司副司長劉燕表示，鐵路行業已成為人工智慧落地應用的先行領域。（新華社）
-
----
-
-### 2026-08-20 12:43:06  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Recovers After 4-Day Decline — India’s BSE Sensex rose about 0.7% to 77,449 on Thursday, rebounding from a fourth consecutive session of losses as global bond markets steadied after the US Treasury announced steps to bring down rising borrowing rates. The US Treasury said overnight it would double buyback sizes for long-duration debt, seeking to ease upward pressure on yields after the 30-year Treasury yield climbed to its highest level since 2007 earlier this week. The move helped push the dollar lower and supported risk assets globally. However, gains in Indian equities were capped by elevated crude oil prices and persistent tensions in the Middle East. On the corporate front, Lohia Corp reported a four-fold jump in profit for the June quarter, while revenue rose 59.5%. In the broader market, newly listed IT solutions firm Xtranet Technologies reported higher first-quarter revenue and profit. Notable gainers included Shiprocket (6.4%), Behari (7.4%), Netweb (4.9%), Eternal (2.3%), and HDFC Bank (1.0%).
-
----
-
-### 2026-08-20 12:42:30  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Kyiv mayor says a Russian airstrike killed 8 and injured 33 in Kyiv, Ukraine.
-
----
-
-### 2026-08-20 12:42:10  #國際
-
-烏克蘭基輔市長稱，俄羅斯空襲造成8人死亡，33人受傷。
-
----
-
-### 2026-08-20 12:41:22  #其他
-
-【聯想官宣ThinkBook全球銷量破2000萬】日前，ThinkBook“星耀熱AI感恩回饋盛典”在北京聯想未來中心啟幕。自2019年品牌誕生至今，聯想ThinkBook全系產品全球累計銷量突破2000萬臺、國內市場銷量達800萬臺。（新浪科技）
-
----
-
-### 2026-08-20 12:38:54  #宏觀 #資料 #其他
-
-【多地公佈今年七夕結婚領證資料】今年8月19日（農曆七月初七）是傳統節日七夕節，多地迎來結婚登記小高峰。根據河南媒體8月19日晚報道，全省辦理結婚登記7025對，其中，全國通辦結婚51對；鄭州市辦理結婚登記1164對，其中全國通辦結婚20對。截至七夕當日17：00，江蘇全省共辦理結婚登記4422對，其中跨省登記1009對。各地婚姻登記處不僅迎來業務高峰，更透過移步換景的儀式場景與簡約莊重的集體婚禮，讓“甜蜜事業”在文旅融合中持續升溫。七夕當天，廣東全省迎來結婚登記小高峰。截至當日17時，全省共辦理結婚登記6056對。廣東全省各地婚姻登記處緊扣節日契機，將中華優秀傳統婚俗文化融入登記全過程。8月19日七夕佳節，河北省迎來婚姻登記熱潮。截至當天17時，全省共有4306對新人在這個傳統節日裡完成結婚登記。（第一財經）
-
----
-
-### 2026-08-20 12:35:07  #其他
-
-【廣西海事局啟動防禦颱風二級應急響應】南海熱帶低壓今天（8月20日）早晨5時的中心位於海南省文昌市偏東方向約65公里的南海西北部海面上，就是北緯19.6度，東經111.4度，外圍最大風力有7級（15米/秒），中心最低氣壓為998百帕。預計，南海熱帶低壓將以每小時15公里左右的速度向偏西方向移動，穿過海南島後移入北部灣海面，強度變化不大。為及時組織轄區船舶做好防禦工作，廣西海事局已於8月20日9時啟動防禦颱風二級應急響應。（央視新聞）
-
----
-
-### 2026-08-20 12:32:53  #公司
-
-【友發集團等成立新公司，含金屬材料製造業務】企查查APP顯示，近日，四川友發管道科技有限公司成立，法定代表人為蘇九川，註冊資本為1億元，經營範圍包含：鋼壓延加工；有色金屬壓延加工；金屬材料製造；塑膠製品製造；金屬製品研發等。企查查股權穿透顯示，該公司由友發集團全資子公司天津友發管道科技有限公司等共同持股。
-
----
-
-### 2026-08-20 12:31:40  #MKT News #EURUSD #Impact bearish
-
-Netherlands' seasonally adjusted unemployment rate rose to 4.0% in July from 3.8% in June.
-
----
-
-### 2026-08-20 12:28:59  #國際
-
-烏克蘭官方訊息：基輔遭導彈襲擊已致6人死亡、33人受傷。
-
----
-
-### 2026-08-20 12:28:20  #Trading Economics #Economy #Malaysia #Exports YoY #Importance 1
-
-Malaysia Export Growth Beats Forecasts — Malaysia's exports jumped 38.0% year-on-year to MYR 193.6 billion in July 2026, more than market expectations of a 34.3% growth but slowing from a revised 45.5% surge in June. The increase was largely driven by a 42.6% rise in manufactured goods, which accounted for 89.8% of total exports, particularly electrical and electronics products (51%). By destination, exports rose sharply to the US (79.8%), Singapore (16.7%), China (30.2%), Taiwan (96%), and the EU (37%).
-
----
-
-### 2026-08-20 12:28:00  #市場
-
-財通福鑫定開混合：將於2026年8月20日下午開盤起至當日收盤停牌。
-
----
-
-### 2026-08-20 12:27:31  #MKT News #Important
-
-Caitong Fuxin periodic-open mixed fund will be suspended from the start of afternoon trading on Aug 20, 2026 until market close that day.
-
----
-
-### 2026-08-20 12:24:10  #其他
-
-【南京銀行：2026年下半年存款付息率有望持續改善】南京銀行舉行2026年半年度業績說明會。會上，該行業務部門負責人表示，今年以來，面對低利率、低息差的市場環境，南京銀行堅持資產負債兩端協同發力，統籌最佳化資產配置、調優負債結構、強化定價管理，多措並舉穩息差、提質效，淨息差整體趨穩，淨利差較上年末上升0.02個百分點。展望下半年，南京銀行將繼續把握高成本存款到期重定價契機調優結構，同時透過“三年降成本行動”縱深推進及客戶倍增、代發工程、場景金融等專案，多渠道拓展低成本存款來源，預計全年存款付息率改善幅度將超過2025年。
-
----
-
-### 2026-08-20 12:22:51  #Trading Economics #Economy #Malaysia #Balance of Trade #Importance 1
-
-Malaysia Trade Surplus Expands in June — Malaysia’s trade surplus amounted to MYR 22.5 billion in July 2026, widening from MYR 14.8 billion in the same month a year earlier and exceeding market expectations of MYR 17.5 billion, as exports rose more than imports. Exports jumped 38.0% year-on-year to MYR 193.6 billion, mainly driven by a 42.6% surge in manufactured goods, which accounted for 89.8% of total exports, particularly E&E products (51%). By destination, exports rose sharply to the US (79.8%), Singapore (16.7%), China (30.2%), Taiwan (96%), and the EU (37%). Imports increased 36.4% to MYR 171.1 billion, primarily due to a sharp increase in intermediate goods (40.8%) and capital goods (24%), while consumption goods (5.2%) also posted gains. China (60.1%) and Singapore (53.8%) remained Malaysia’s two major sources of imports. In January–July, the trade surplus widened sharply to MYR 170.5 billion, more than double the MYR 71.4 billion recorded last year, as export growth (29.2%) outpaced the rise in imports (19.8%).
 
 ---
