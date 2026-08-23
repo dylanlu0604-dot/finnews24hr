@@ -1,7 +1,331 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 14:54:17_
-_本檔包含 3186 則快訊，約 641932 字_
+_更新時間：2026-08-23 15:41:44_
+_本檔包含 3168 則快訊，約 642191 字_
+
+---
+
+### 2026-08-19 10:08:43  #國際
+
+【智元全尺寸人形機器人遠征A3獲中、歐雙重認證】8月19日，介面新聞獲悉，智元旗下遠征A3全尺寸雙足人形機器人取得已取得中國CR及歐盟CE系列產品認證。此次認證由國家機器人檢測與評定中心（總部）與德國萊茵TÜV分別頒發，考核指標覆蓋電氣安全、機械安全、功能安全、網路安全等全球化市場準入核心維度。這一進展標誌著國產全尺寸人形機器人的整機安全性與可靠性獲得國際第三方評估體系認可，為其後續的出海及跨區域商業化落地解決了基礎合規問題。
+
+---
+
+### 2026-08-19 10:08:39  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Fall on Semiconductor Selloff — The Shanghai Composite slipped 1% to 3,953 on Wednesday, while the Shenzhen Component lost 2.2% to 14,301, as a broad selloff in semiconductor stocks weighed heavily on both benchmarks. Chipmakers came under pressure worldwide as government bond yields surged amid persistent inflation, elevated fiscal spending, and heavy debt issuance. At the same time, geopolitical tensions raised concerns about energy supply disruptions, adding to fears that inflation and financing costs may stay elevated for an extended period. The decline came despite strong earnings from GigaDevice, which reported H1 2026 revenue of RMB 11.57 billion, up 178.7% from a year earlier, while net profit attributable to shareholders surged 1,091.5% to RMB 6.86 billion. Investors continued to rotate out of the sector, with SMIC (-1.3%), Hygon Information Technology (-3%), GigaDevice (-1.6%), Hua Hong Semiconductor (-2%), Zhongji Innolight (-1.3%), and Eoptolink Technology (-3.1%) among the session’s biggest decliners.
+
+---
+
+### 2026-08-19 10:07:22  #MKT News #Market Themes #AI Revolution
+
+【VeriSilicon: YTD new orders CNY15.142 bln; 90% AI compute-related, 89% data-processing】VeriSilicon told an Aug. 17 conference call that new orders signed from Jan. 1–Aug. 17, 2026 totaled CNY15.142 bln. AI compute-related orders account for 90% and data-processing orders 89%. The company said the orders have clear conversion visibility but revenue conversion will take time: design-service contracts typically require a 9–12 month R&D cycle; mass-production service orders depend on customer shipment plans and foundry capacity scheduling and typically require a 6–18 month end-to-end production and delivery cycle from signing.
+
+---
+
+### 2026-08-19 10:07:07  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.4%, or 96 points, to 25,372 on Wednesday, as investors remained cautious following a selloff in US technology shares, elevated bond yields, rising oil prices and renewed Middle East tensions. Meanwhile, China’s financial regulator approved allowing mainland insurance funds to invest in Hong Kong-listed ETFs through Stock Connect, potentially providing an additional source of mainland institutional capital for Hong Kong equities. On the corporate front, China Unicom is down around 10% after reported first-half net profit attributable to shareholders of RMB9.5 billion, down 34.6% year-on-year, while operating revenue rose 0.6% to RMB201.4 billion. Tencent (-0.7%), SMIC (-1.4%), Lenovo (-1.2%), and Kingboard Laminates (-3.4%) led declines, while Xiaomi gained 4.4%. Investors are also awaiting HKEX’s interim results announcement today, with the exchange’s shares among the stocks to watch.
+
+---
+
+### 2026-08-19 10:07:04  #市場 #焦點
+
+科創50日內跌幅達4％，成分股中，芯原股份跌7.64％，華虹宏力跌6.86％，盛美上海跌6.35％，瀾起科技跌5.75％。
+
+---
+
+### 2026-08-19 10:06:56  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+CSI 500 index futures (IC) front contract down 2.00% intraday at 7,854.4 points. CSI 1000 index futures (IM) front contract fell below 7,600 points, down 2.58% intraday.
+
+---
+
+### 2026-08-19 10:05:54  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+China's CSI 300 index futures (IF) main contract touched 4,600, down 1.40% intraday.
+
+---
+
+### 2026-08-19 10:05:33  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌2%，現報7862.00點。
+
+---
+
+### 2026-08-19 10:05:14  #公司
+
+【芯原股份：今年目前新簽訂單增長至151.42億元，AI算力相關訂單佔比90%】芯原股份8月17日在電話會議表示，2026年1月1日至8月17日，公司新簽訂單進一步增長至151.42億元，AI算力相關訂單佔比90%，資料處理領域訂單佔比89%。上述訂單具備明確轉化預期，但收入轉化需要一定時間週期。其中，設計服務訂單通常需9—12個月設計研發週期；量產服務業務訂單受客戶產品出貨規劃、合作晶圓廠產能排期等因素影響，從簽約開始通常需6—18個月完整生產交付週期。
+
+---
+
+### 2026-08-19 10:05:03  #市場
+
+華虹半導體港股下跌8.0%，A股下跌6.2%。
+
+---
+
+### 2026-08-19 10:04:23  #MKT News
+
+【GCL System Integration ramps mass shipments of BC modules overseas】GCL System Integration has started mass production shipments of BC modules to overseas markets. Since May, efficient BC module orders have continued to land abroad; cumulative contracts in Germany have exceeded 100 MW, and high-end, high-efficiency modules are expanding in Europe’s distributed-generation segment. As of June 30, 2026, the company has 30 GW of high-efficiency N-type module capacity; Hefei and Funing bases have completed partial upgrades to BC production lines.
+
+---
+
+### 2026-08-19 10:03:44  #其他
+
+【胖東來澄清：對刑滿釋放人員招聘不包含性侵犯罪者】近日，胖東來針對“無門檻招聘刑滿釋放人員”作出澄清。胖東來表示，並非無門檻接納，明確排除性侵、嚴重暴力等惡性犯罪前科人員，且刑釋人員需與其他應聘者走完全相同的報名面試流程，並設定6個月的雙向選擇試用期。首批入職人員也被優先安排在倉儲、物流等後臺崗位，以兼顧就業幫扶與安全管理。
+
+---
+
+### 2026-08-19 10:03:40  #其他
+
+【河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒接受審查調查】據河南省紀委監委訊息，河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-19 10:03:35  #國際
+
+【協鑫整合BC元件海外市場批次出貨】據悉，協鑫整合BC元件海外訂單已實現量產出貨。據瞭解，自今年5月以來，協鑫整合高效BC元件訂單在海外持續落地，其中德國市場累計簽約規模突破100兆瓦，高階高效產品在歐洲分散式賽道實現穩步放量。截至2026年6月底，協鑫整合擁有30GW高效N型元件產能，其中合肥基地與阜寧基地已完成部分BC產線的升級改造。
+
+---
+
+### 2026-08-19 10:02:54  #市場
+
+【減速器板塊大幅調整，巨輪智慧等多股跌停】減速器板塊大幅調整，巨輪智慧、中大力德、襄陽軸承跌停，豐光精密、綠的諧波、昊志機電等跌超10%。
+
+---
+
+### 2026-08-19 10:02:46  #市場 #國際
+
+印尼股指下跌1%至6384.12點。
+
+---
+
+### 2026-08-19 10:02:34  #其他
+
+8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行 兩岸青年交流季”上海站活動。（日月譚天）
+
+---
+
+### 2026-08-19 10:01:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SZSE Component
+
+Beijing Stock Exchange 50 Index fell more than 3%, with only 2 constituents advancing.
+
+---
+
+### 2026-08-19 10:01:04  #市場 #焦點
+
+北證50日內跌幅達3.00%，成分股中，三協電機跌10.77%，萬達軸承跌8.27%，鼎智科技跌7.62%，國子軟體跌6.02%。
+
+---
+
+### 2026-08-19 10:00:07  #公司
+
+【宇樹科技核心技術人員身家過億元】8月19日，宇樹科技登陸科創板，開盤後漲超500%，市值超3500億元。在發行前，宇樹科技設有股權激勵平臺上海宇翼。招股書顯示，發行前上海宇翼持有公司股份3982.86萬股，持股比例為10.9414%。機械結構負責人楊知雨、銷服體系負責人陳立、演算法與軟體負責人張陽光透過上海宇翼間接持有公司股份比例分別為0.49%、0.26%、0.15%。若按照3500億元市值計算，他們持有的公司市值分別達到17.15億元、9.1億元、5.25億元。（第一財經）
+
+---
+
+### 2026-08-19 09:59:39  #其他
+
+【雞蛋市場行情上行，山姆調價保障日常採購】8月19日，山姆會員商店釋出通知，將調整一款精選鮮雞蛋1.59kg售價，由18.9元/盒調整至21.8元/盒。受多重客觀市場因素帶動，近幾個月雞蛋整體價格行情呈上行趨勢，此前數月山姆一直維持該商品原有售價，也因此出現供貨緊張、貨量不足的情況。為進一步擴大商品供給、保障穩定供貨，自8月19日起對精選鮮雞蛋進行調價。山姆方面表示，後續會密切關注市場行情，適時調整價格策略。同時門店將採取分時段補貨、適度限購等舉措，盡力保障會員家庭日常採購。（每經）
+
+---
+
+### 2026-08-19 09:59:30  #公司
+
+【多位90後宇樹員工身價超千萬】8月19日，宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。 據悉，2017年9月至2021年12月，宇樹科技先後與楊知雨等17名員工簽訂了《期權協議書》，授予該等員工按照1元/註冊資本的價格認購公司股權的權利。按發行價150.80元/股測算，這批最早選擇與公司共擔風險的核心員工，賬面浮盈超過150倍。 需要注意的是，包括創始人王興興（1990年生）在內，宇樹科技的高管是一支極具代表性的90後創業團隊，研發軟體總監張陽光（1993年）、研發結構總監楊知雨（1991年）、銷售總監陳立（1990年）均為90後。 隨著公司上市，多位青年高管的賬戶紙面收益有望超千萬，高的甚至將過億。 （南方日報）
+
+---
+
+### 2026-08-19 09:57:08  #公司 #市場
+
+【港股內房股繼續上漲，金輝控股漲超8%領銜】港股內房股繼續上漲，其中，金輝控股漲超8%領銜，融信中國漲超5%，雅居樂集團、建發國際集團、中國金茂漲超3%，旭輝控股、中國海外發展、中國海外宏洋集團漲2.8%，華潤置地、碧桂園、綠城中國、越秀地產、新城發展跟漲。
+
+---
+
+### 2026-08-19 09:53:58  #市場
+
+【功率半導體概念震盪拉昇 斯達半導漲停】功率半導體概念震盪拉昇，斯達半導漲停，士蘭微、新潔能、揚傑科技、華潤微跟漲。
+
+---
+
+### 2026-08-19 09:53:24  #MKT News #SHEL.N #Impact bullish
+
+Shell (SHEL.N) is investing in a new supply chain in Queensland, Australia; its QGC project will begin supplying gas in 2027.
+
+---
+
+### 2026-08-19 09:52:45  #國際
+
+馬來西亞棕櫚油委員會（MPOC）預測，9月份棕櫚油價格將維持在4600 RGT/噸以上。
+
+---
+
+### 2026-08-19 09:52:07  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-08-19 09:51:58  #公司
+
+【賽意資訊成立智慧科技公司，含物聯網業務】企查查APP顯示，近日，廣州瀚曜智慧科技有限公司成立，經營範圍包含：工業控制計算機及系統銷售；工業網際網路資料服務；數字技術服務；物聯網技術服務等。企查查股權穿透顯示，該公司由賽意資訊全資持股。
+
+---
+
+### 2026-08-19 09:51:38  #公司
+
+【中國中煤成立新能源公司，含生物質能技術業務】企查查APP顯示，近日，中煤電力（射陽）新能源有限公司成立，經營範圍包含：發電技術服務；風力發電技術服務；太陽能發電技術服務；生物質能技術服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。
+
+---
+
+### 2026-08-19 09:51:31  #MKT News #Important #Market Regions #Greater China
+
+N Shuangying rallied more than 200%, triggering a second intraday trading suspension; turnover exceeded 350 million yuan.
+
+---
+
+### 2026-08-19 09:51:29  #公司 #焦點
+
+N雙英漲超200%，觸發二次臨停，成交額超3.5億元。
+
+---
+
+### 2026-08-19 09:51:20  #市場
+
+小馬智行港股公佈上半年業績後下跌4.8%。
+
+---
+
+### 2026-08-19 09:51:03  #市場 #國際
+
+日本兩年期國債<JP2YTN=JBTC>收益率下跌0.5個基點至1.680%。
+
+---
+
+### 2026-08-19 09:50:58  #市場 #國際
+
+五年期日本國債<JP5YTN=JBTC>收益率下跌1個基點，至2.140%。
+
+---
+
+### 2026-08-19 09:50:52  #公司
+
+【三峽能源四座光熱電站累計發電量突破1億千瓦時】三峽集團8月19日訊息， 截至2026年8月8日，三峽能源旗下位於甘肅、青海、新疆三省區的安懷、新燁、燎原、伊州四座百兆瓦級光熱電站累計發電量突破1億千瓦時大關。這一成績充分驗證了光熱發電作為穩定可調清潔電源的獨特價值，為電網調峰和新能源消納提供了有力支撐。據瞭解，四座電站分佈在甘肅、青海、新疆的戈壁荒漠地帶，所處環境高海拔、強風沙、寒暑極端，建設運維條件極為艱苦。專案採用雙技術路線並行佈局，多儲能模式協同發力，構建起規模化光熱儲能產業矩陣。（中證金牛座）
+
+---
+
+### 2026-08-19 09:50:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Venezuela signs contracts with Schlumberger and Hunt Oil to boost production】Venezuela oil minister Paula Henao said on Tuesday the government signed oil-related contracts with Schlumberger and U.S. independent Hunt Oil to attract investment and raise crude output. The deals include an oil-and-gas production participation agreement with two field-development partners; Henao did not disclose expected investment or incremental production. Caracas also signed a framework agreement with Schlumberger for nationwide integrated reservoir studies. Politico reported several more U.S. independents are expected to sign production contracts with state company PDVSA in the coming days.
+
+---
+
+### 2026-08-19 09:50:31  #MKT News #Market Themes #AI Revolution
+
+【Goldman Sachs: AI revenue still surging; market now trading the second derivative of growth】Goldman Sachs reports Anthropic's ARR topped $65bln in July 2026, versus $47bln in May and $9bln at end‑2025. ARR is still expanding at about 18% MoM despite the larger base. Goldman says markets have begun trading the "second derivative" — whether growth can further accelerate or will slow as the base rises. It warns that once ARR moves from sub‑$10bln into the hundreds‑of‑bln range, simply sustaining high percentage growth may deliver less marginal valuation support than earlier.
+
+---
+
+### 2026-08-19 09:50:14  #MKT News
+
+【Yushu Technology pop on Sci‑Tech debut lifts founder Wang’s stake above 100 billion yuan】Aug. 19 — Yushu Technology began trading on the Sci‑Tech Innovation Board, opening up more than 500% and valuing the company at over 350 billion yuan. The company prospectus shows chairman/GM/CTO Wang Xingxing directly holds 86.714964 million shares, equivalent to 21.4395% of post‑issue equity; he also held 9.5367% indirectly via equity‑incentive vehicle Shanghai Yuyi before the offering. Combined direct and indirect holdings are roughly 30%, worth in excess of 100 billion yuan, making Wang the richest entrepreneur born in the 1990s.
+
+---
+
+### 2026-08-19 09:48:44  #其他
+
+【功夫女足票房破23億】據貓眼專業版資料，電影 《功夫女足》 上映40天， 總票房破23億。
+
+---
+
+### 2026-08-19 09:48:32  #MKT News #Important #CSI300 #Impact bearish #SSE Composite
+
+A-share humanoid-robot sector extended losses; Qin'an Co. hit its daily limit down. Lude Xiebo, Fengguang Precision, Haozhi Jidian and Shangwei New Materials dropped more than 10%; Zhongda Lide, Julun Intelligent, Changsheng Bearing, Jintuo and Siling Zhiqu also fell.
+
+---
+
+### 2026-08-19 09:48:11  #MKT News #02525.HK #Impact bearish
+
+Hesai-W (02525.HK) fell more than 7% after reporting earnings.
+
+---
+
+### 2026-08-19 09:48:07  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Japanese Yen Stays Range-Bound — The Japanese yen traded around 159.5 per dollar on Wednesday, remaining range-bound for more than a week now after giving back about half of the gains made following the joint intervention by Tokyo and Washington at the end of July. The currency continues to face persistent weakness due to wide interest rate differentials, growing fiscal concerns and elevated energy and import costs. On the monetary policy front, traders are increasingly speculating on a Bank of Japan interest rate hike in September to support the yen and curb inflation. Japan’s 10-year bond yield reached 30-year highs this week, reflecting expectations of an imminent BOJ rate increase and mounting fiscal concerns. Meanwhile, the latest data showed core machinery orders in Japan jumped 9.7% in June, exceeding forecasts and pointing to stronger capital spending among companies.
+
+---
+
+### 2026-08-19 09:47:00  #市場 #焦點
+
+甲醇連續主力合約日內漲4%，現報2875.00元。
+
+---
+
+### 2026-08-19 09:46:29  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌2%，現報7649.80點。
+
+---
+
+### 2026-08-19 09:46:22  #其他
+
+禾賽科技港股在半年報公佈後跌7.3%。
+
+---
+
+### 2026-08-19 09:46:07  #市場
+
+【人形機器人概念震盪下挫 上緯新材多股跌超10%】早盤人形機器人概念震盪下挫，中大力德、巨輪智慧觸及跌停，上緯新材、豐光精密、綠的諧波、昊志機電多股跌超10%。
+
+---
+
+### 2026-08-19 09:45:59  #MKT News #Important
+
+N Yushu trading value topped CNY10 bln; shares at CNY900.8, gains pulled back to below 500%.
+
+---
+
+### 2026-08-19 09:45:46  #其他
+
+N宇樹-W成交額達100億元，現漲496.29%。
+
+---
+
+### 2026-08-19 09:45:32  #MKT News #Market Themes #AI Revolution #FFIE.O #Impact bullish
+
+FARADAY FUTURE (FFIE.O) said it supports an AIxC strategic transformation, focusing on physical AI and robot shared-leasing operations; RoboShare has completed its first paid commercial order and its initial robot fleet exceeds 80 units.
+
+---
+
+### 2026-08-19 09:45:06  #公司
+
+【雅化集團與中建西部建設簽署戰略合作協議】據雅化集團訊息，8月18日，雅化集團與中建西部建設簽署戰略合作協議，雅化集團將與中建西部建設加強多領域協同發展，共同探索高質量可持續發展的新路徑。
+
+---
+
+### 2026-08-19 09:44:59  #公司
+
+【杭蕭鋼構等投資成立生物製藥公司】企查查APP顯示，近日，杭州瑞龍堂生物製藥有限公司成立，經營範圍包含：保健食品（預包裝）銷售；地產中草藥（不含中藥飲片）購銷；中草藥種植等。企查查股權穿透顯示，該公司由杭蕭鋼構等共同持股。
+
+---
+
+### 2026-08-19 09:44:35  #MKT News #Important
+
+【Multiple robot ETFs fall more than 5%】Humanoid-robot-themed ETFs weakened; several robot ETFs managed by Fullgoal, GF Fund and Penghua fell more than 5%.
+
+---
+
+### 2026-08-19 09:44:27  #其他
+
+【多隻機器人ETF跌超5%】人形機器人板塊走弱。機器人ETF富國（159272）、機器人ETF廣發（159050）、機器人ETF鵬華（159278）等多隻機器人ETF跌超5%。
+
+---
+
+### 2026-08-19 09:44:21  #MKT News #Market Regions #Greater China
+
+【Yushutech intraday market cap tops CNY350 bln, jumps into STAR Market top 10】Yushutech, billed as the A-share humanoid-robot pioneer, began trading on the STAR Market on Aug. 19. Shares surged more than 500% intraday, lifting market capitalization above CNY350 billion and into the STAR Market’s top 10 by size. At the IPO price of CNY150.80/share, the company’s implied valuation was about CNY61 billion, which would have ranked roughly in the 50s on the board.
 
 ---
 
@@ -18837,439 +19161,5 @@ US equities closed lower on Monday, Aug. 17: Dow Jones Industrial Average fell 2
 ### 2026-08-18 04:13:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Drop as Middle East Risks Escalate — US stock indices closed lower on Monday amid concerns that elevated oil prices will fuel inflation as hopes for a deal to end the war in the Middle East faded. The S&P 500 fell 0.5%, the Nasdaq lost 0.2% and the Dow shed 273 points. Prospects for peace suffered a setback, with fighting flaring anew and rhetoric escalating. Oil prices rose, rasing concerns that inflation could prompt the Fed to raise rates before the year is over. The 30-year Treasury yield hit its highest level since 2007, reflecting concerns over surging government spending. Credit-sensitive stocks, including financials and hyperscalers, closed lower. Google lost 0.6%, Microsoft was down 3% and Meta shed 3.5%. Berkshire Hathaway lost 1.1%, Visa shed 1.5% and Amex retreated 1.8%. Meanwhile, chipmakers posted gains after strong revenue growth from Anthropic. The company is meeting with banks over a potential IPO, which could be the biggest on record. Micron added 4.1%, Intel gained 1% and Sandisk soared 9%.
-
----
-
-### 2026-08-18 04:12:51  #MKT News
-
-【FIFA dismisses COO after criticism of Infantino's plan to sell World Cup stakes】FIFA confirmed on Aug. 17 it has terminated the employment of chief operating officer Kevin Lamour. British media, including Sky News, reported the dismissal followed Lamour's public criticism of FIFA president Gianni Infantino's proposal to sell portions of World Cup and other tournament stakes to private investors.
-
----
-
-### 2026-08-18 04:10:13  #MKT News #Important #US10Y #Impact bearish #DXY #EURUSD #Impact bullish
-
-【China, UK, Japan reduced US Treasury holdings in June】U.S. Treasury data showed holdings of U.S. Treasuries by Japan, the United Kingdom and China fell month-on-month in June. Japan held $1.117 trillion, down $26.4 billion; the UK held $939.9 billion, down $8.7 billion; China held $633.4 billion, down $26.0 billion.
-
----
-
-### 2026-08-18 04:10:12  #宏觀 #公司 #市場 #焦點 #國際
-
-【中英日在6月均減持美債】美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。
-
----
-
-### 2026-08-18 04:03:56  #其他
-
-【FIFA解僱批評因凡蒂諾的營運長】國際足聯（FIFA）當地時間8月17日在一份宣告中證實，國際足聯與其營運長、法國人凱文·拉穆爾的工作關係已於當天終止。據英國天空新聞等媒體報道，拉穆爾遭解僱的原因是他曾公開批評國際足聯主席因凡蒂諾“將世界盃等賽事部分股權出售給投資者”的計劃。 拉穆爾曾是因凡蒂諾的“核心圈”成員，曾在2016年助其競選，助其爆冷贏得國際足聯主席選舉。2024年11月，拉穆爾出任國際足聯營運長。 拉穆爾今年7月曾撰文稱，因凡蒂諾近幾個月來在籌劃出售世界盃等賽事股權計劃時“缺乏透明度”，國際足聯的工作人員遭到了“欺騙”，他們“理應得到尊重，而非蔑視與恐嚇”。拉穆爾稱，“這只是‘某一個人’的專案，絕不可推進。”（CCTV國際時訊）
-
----
-
-### 2026-08-18 04:03:21  #公司
-
-杜克能源感謝大辛辛那提地區使用者的耐心與支援，公司搶修人員已在罕見的直線風暴過後完成電力恢復工作。
-
----
-
-### 2026-08-18 04:02:43  #MKT News #Important #Market Regions #Greater China #Market Themes #China EV Leaders #MU.O #Impact bullish #SKHY.O #SNDK.O
-
-【US close: major indices down; storage stocks rally】Dow Jones -0.5%, S&P 500 -0.5%, Nasdaq -0.32% at Monday close. Storage/memory names outperformed: SK Hynix (SKHY.O) +3%, Micron Technology (MU.O) +4%, SanDisk (SNDK.O) +8.8%. Nike (NKE.N) -4%. Nasdaq Golden Dragon China Index +0.37%; XPeng (XPEV.N) +4%, Miniso (MNSO.N) -8%.
-
----
-
-### 2026-08-18 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.51%，標普500指數跌0.52%，納指跌0.32%。Carvana Co.跌7.26%，特許通訊跌6.59%，星座跌6.20%，阿萊技術公司跌5.60%，The Trade Desk跌5.23%，現在服務跌5.08%。“七姐妹”方面：英偉達跌0.07%，蘋果跌0.11%，亞馬遜跌0.51%，谷歌跌0.61%，特斯拉跌0.87%，微軟跌3.04%，Meta Platforms跌3.54%。
-
----
-
-### 2026-08-18 04:00:22  #國際
-
-美國6月國際資本淨流入 1335億美元，前值由1322億美元修正為1315億美元。
-美國6月外資淨買入美國公債 68億美元，前值566億美元。
-美國6月長期資本淨流入 1727億美元，前值由2327億美元修正為2312億美元。
-
----
-
-### 2026-08-18 04:00:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish
-
-US net long-term capital inflows were $172.7bln in June; the prior reading was revised from $232.7bln to $231.2bln.
-
----
-
-### 2026-08-18 04:00:12  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
-
-Foreign net purchases of US Treasuries in June were $6.8bn, versus $56.6bn previously.
-
----
-
-### 2026-08-18 04:00:10  #MKT News
-
-U.S. net international capital inflows were $133.5 billion in June; prior reading revised from $132.2 billion to $131.5 billion.
-
----
-
-### 2026-08-18 04:00:01  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.35%】華住酒店集團漲11.32%，Tims中國漲6.92%，盛豐物流漲5.86%，老虎證券漲5.11%，小鵬汽車漲4.32%。
-
----
-
-### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net LongTerm TIC Flows (Jun) | actual 172700000000B | previous 232700000000B
-
----
-
-### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net Foreign Purchases of Treasury Securities (Jun) | actual 6800000000B | previous 56600000000B
-
----
-
-### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net LongTerm International Capital Flows (Jun) | actual 133500000000B | previous 132200000000B
-
----
-
-### 2026-08-18 03:57:26  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact mixed
-
-Nasdaq will add a trading session from 9:00 p.m. to 4:00 a.m. U.S. Eastern Time, effective Dec. 6, 2026.
-
----
-
-### 2026-08-18 03:56:17  #MKT News #Nasdaq100 #Impact bullish
-
-Nasdaq is in talks with regulators to offer near-continuous trading on the Nasdaq Stock Market, five days a week, 23 hours a day.
-
----
-
-### 2026-08-18 03:54:36  #公司
-
-納斯達克公司：將於 2026 年 12 月 6 日推出全新交易時段，美東時間晚 9 點至凌晨 4 點。
-
----
-
-### 2026-08-18 03:54:19  #其他
-
-納斯達克：正與監管機構溝通，擬在納斯達克股票市場推出每週 5 天、每日近 23 小時的近乎連續交易服務。
-
----
-
-### 2026-08-18 03:51:18  #MKT News #WTI #Impact bullish
-
-【Trump approval falls to 33%, lowest in current term】A Reuters/Ipsos poll concluded Monday found President Trump's approval rating at 33%, the lowest of his current term, with 64% disapproving. The four-day survey also found a large majority of Americans said they fear a prolonged U.S.-Iran war. The 33% reading is down from 35% in an earlier poll this month and matches his previous term low in December 2017.
-
----
-
-### 2026-08-18 03:41:42  #MKT News
-
-【Trump criticizes Lee Jae‑myung after South Korea declines participation in Iran action】Former President Trump told South Korean media he is frustrated Seoul refused to participate in a U.S. operation related to Iran and raised issues of defense cost-sharing. He said South Korea agreed during his first term to pay about $3 billion annually for U.S. protection; he sought $10 billion, and the short‑term deal was $3 billion with planned increases in subsequent years. Trump said President Biden later withdrew the $3 billion “for reasons I don’t know.” In a recent call with South Korean president Lee Jae‑myung, Trump said he asked if Seoul would “help a little” on Iran; Lee declined. Trump noted roughly 39,000 U.S. troops are deployed in South Korea and called Seoul’s refusal to assist in what he described as a “very easy” military action “strange.”
-
----
-
-### 2026-08-18 03:40:18  #MKT News #Important #Market Themes #AI Revolution
-
-Market sources say Anthropic's annualized revenue exceeded $65 bln ahead of its IPO.
-
----
-
-### 2026-08-18 03:38:25  #MKT News
-
-Insiders said some North American auto industry officials view any of the options as an improvement on the current 25% U.S. tariff on Canadian auto imports, noting Japan, South Korea and the EU apply 15% car tariffs.
-
----
-
-### 2026-08-18 03:37:51  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish
-
-Sources said US officials proposed that, under a proposed 15% tariff on Canadian autos, only US-origin value be excluded from the tariff base; Canadian officials want all North American-origin content excluded.
-
----
-
-### 2026-08-18 03:37:29  #公司 #其他 #焦點 #國際
-
-Anthropic 在 IPO 之前的年化營收突破 650 億美元。
-
----
-
-### 2026-08-18 03:37:08  #國際
-
-【美國投資級債券8月發行創歷年同月新高 AI基建推動企業舉債】隨著人工智慧基礎設施建設支出推動企業舉債，美國投資級債券發行規模連續第三個月創歷年同月紀錄新高，創紀錄的發債速度仍在延續。資料顯示，截至週一，8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。今年1月、6月和7月也分別創下歷年同月最高紀錄，另有三個月的發行規模為歷年同月第二高。大量債券湧入市場已經讓投資者在買什麼債、以什麼價格買入方面變得更加挑剔。上週，初始認購訂單最終被撤回的比例大幅上升，就體現了這一點。不過，企業並未因此而止步，週一發行人合計擬發行91億美元債券。當日12筆交易中，有兩筆來自私募信貸基金。
-
----
-
-### 2026-08-18 03:36:38  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-Sources said the United States and Canada are negotiating a possible reduction in U.S. auto tariffs from 25% to 15% after excluding certain value components from the tariff calculation.
-
----
-
-### 2026-08-18 03:35:39  #國際
-
-伊朗官員：如今，革命領袖與人民都對我們寄予厚望。為注入新動力、實現轉型，我們將推行改革。這些改革將在與所有監督機構代表以及司法系統內外專家磋商的基礎上予以落實。
-
----
-
-### 2026-08-18 03:34:44  #國際
-
-市場訊息：據知情談判訊息人士稱，美加雙方正在磋商，在扣除部分價值成分後，美國對加拿大汽車現行 25% 的關稅有可能下調至 15%。部分北美汽車行業官員認為，以上兩種方案均優於美國目前對加拿大汽車徵收 25% 關稅的現狀，日本、韓國及歐盟的汽車關稅稅率為 15%。
-
----
-
-### 2026-08-18 03:34:08  #國際
-
-市場訊息：美國官員提議僅將美國本土價值部分從加拿大車輛 15% 關稅中予以扣除，但加拿大官員希望全部北美地區價值部分都獲得扣除。
-
----
-
-### 2026-08-18 03:33:17  #市場 #觀點
-
-摩根大通將東方財富評級下調至中性，之前的評級為超配，現目標價22元人民幣，即上漲12%。
-
----
-
-### 2026-08-18 03:33:11  #公司
-
-市場訊息：巴斯家族決定出售所持湖人隊剩餘股份，將出售給庫什納與艾格。
-
----
-
-### 2026-08-18 03:32:16  #MKT News #GBPUSD
-
-The Times reports that when asked whether the UK would face a deadline to repeal its digital services tax, US Trade Representative Greer said the US would not set an artificial timetable.
-
----
-
-### 2026-08-18 03:32:13  #MKT News
-
-【Trump says Kim Jong Un responded to his request for talks】On Aug. 17 ET at the White House, President Trump said North Korean leader Kim Jong Un had responded to his request for talks but provided no further details.
-
----
-
-### 2026-08-18 03:32:07  #其他
-
-市場訊息：國際足聯已解僱營運長凱文・拉穆爾
-
----
-
-### 2026-08-18 03:31:35  #焦點 #國際
-
-【特朗普稱金正恩回應其對話請求】美國東部時間8月17日下午，美國總統特朗普在白宮被媒體問及朝鮮最高領導人金正恩“為何未回應其對話請求”。特朗普對此回答道：“他回應了。”但未透露更多細節。此前一天，特朗普在社交媒體發帖稱，已下令美國縮減與韓國的聯合軍演規模。 特朗普還稱：“金正恩一直對我非常尊重，我們有過兩次重要的會晤，談了話，共度了時光。我瞭解他，他也瞭解我。” 此外，特朗普還向媒體抱怨韓國不願按他要求的金額支付所謂“保護費”，即防衛費分攤。（ CCTV國際時訊）
-
----
-
-### 2026-08-18 03:29:28  #其他
-
-據《泰晤士報》：當被問及英國廢除數字服務稅是否設有最後期限時，格里爾表示：“我不會設定人為劃定的時間期限。”
-
----
-
-### 2026-08-18 03:29:06  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-According to The Information, Tesla (TSLA.O) is preparing to launch a driverless taxi without a steering wheel, called Cybercab, in August.
-
----
-
-### 2026-08-18 03:28:12  #其他
-
-市場訊息：特斯拉準備於 8 月推出 Cybercab 無人駕駛計程車。
-
----
-
-### 2026-08-18 03:27:39  #國際
-
-據《泰晤士報》：美國貿易代表格里爾稱，特朗普揚言對英國徵收 100% 關稅並非虛張聲勢。
-
----
-
-### 2026-08-18 03:27:16  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index falls on 17th】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.03% to 99.636 at the New York close. At the close the euro was $1.1572 (prior $1.1566); the pound $1.3538 (prior $1.3533). The dollar was 159.59 yen (prior 159.38); 0.8115 Swiss franc (prior 0.8131); 1.3877 Canadian dollar (unchanged); and 9.5193 Swedish krona (prior 9.5246).
-
----
-
-### 2026-08-18 03:27:13  #市場
-
-【美元指數17日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.03%，在匯市尾市收於99.636。截至紐約匯市尾市，1歐元兌換1.1572美元，高於前一交易日的1.1566美元；1英鎊兌換1.3538美元，高於前一交易日的1.3533美元。1美元兌換159.59日元，高於前一交易日的159.38日元；1美元兌換0.8115瑞士法郎，低於前一交易日的0.8131瑞士法郎；1美元兌換1.3877加元，與前一交易日持平；1美元兌換9.5193瑞典克朗，低於前一交易日的9.5246瑞典克朗。
-
----
-
-### 2026-08-18 03:24:26  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Global oil prices rise on 17th】At the close on the 17th, WTI September futures rose $2.10 to $84.50/bbl (+2.55%); Brent October futures rose $2.35 to $90.87/bbl (+2.65%).
-
----
-
-### 2026-08-18 03:23:48  #市場
-
-【國際油價17日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。
-
----
-
-### 2026-08-18 03:22:18  #MKT News
-
-U.S. airport authority to vote on $19.9 bln redevelopment plan for Washington Dulles International Airport.
-
----
-
-### 2026-08-18 03:21:41  #其他
-
-機場管理局將投票表決一項價值 199 億美元的華盛頓杜勒斯機場改造方案。
-
----
-
-### 2026-08-18 03:15:12  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact mixed
-
-【AI-driven borrowing pushes US investment-grade bond issuance to August record】US investment-grade bond issuance hit an August record and marked the third consecutive month of monthly records, maintaining the fastest issuance pace on record. As of Monday, August issuance reached $145.2bn, exceeding the prior August record of $136.0bn in 2020. Heavy corporate spending on AI infrastructure has boosted borrowing demand; this month’s volume was led by Alphabet (GOOG.O)’s $25bn deal. This was the eighth $25bn-or-larger offering so far this year, and all eight came from technology companies.
-
----
-
-### 2026-08-18 03:14:49  #MKT News #WBD.O #Impact bearish #PARA.O
-
-【Paramount-Skydance seeks $1.88bn bond from states over delays to $110bn Warner Bros. Discovery takeover】Paramount-Skydance on Monday asked a U.S. judge to require about a dozen states suing to block its $110bn acquisition of Warner Bros. Discovery (WBD.O) to post a $1.88bn bond to cover costs from the delayed close. The company says it would incur $7m of delay costs per day if the merger fails to close by Sept. 30. The states’ challenges are expected to be tried in March; Paramount-Skydance warned that by the time trial concludes and final briefs are filed it will have paid $1.3bn in non-recoverable ticking fees to WBD shareholders.
-
----
-
-### 2026-08-18 03:12:17  #其他
-
-法院裁決：紐約州法官要求檢方於 10 月 9 日前對路易吉·曼焦內申請撤銷州級訴訟的請求作出回應，原定於 9 月的庭審因此推遲。
-
----
-
-### 2026-08-18 03:10:44  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-Kushner said the US would be willing to strike a deal if Iran completed the previously discussed agreement and relinquished the capability to build nuclear weapons, but Iran has so far not shown willingness to take steps consistent with US interests.
-
----
-
-### 2026-08-18 03:08:57  #國際
-
-伊朗總統佩澤希齊揚： 我們自由的國民在被俘歲月裡所遭受的一切，絕非僅僅是戰爭史的片段；這是一群歷經苦難卻絕不捨棄伊朗尊嚴之人的堅毅敘事。面對日益加劇的外部壓力與威脅，忍耐、團結與希望，是伊朗堅守不屈的關鍵。
-
----
-
-### 2026-08-18 03:08:28  #MKT News
-
-Kushner said Trump will remain patient in pursuing an agreement with Iran.
-
----
-
-### 2026-08-18 03:07:53  #市場
-
-【芝加哥大豆期貨漲約2%，大豆油漲超2.6%】週一（8月17日）紐約尾盤，彭博穀物分類指數漲1.14%，報32.4651點，美股開盤以來持續走高，最近兩個交易日累計上漲3.50%。CBOT玉米期貨漲1.19%，報4.89美元/蒲式耳。CBOT小麥期貨跌0.04%，報6.8925美元/蒲式耳。CBOT大豆期貨漲1.97%，報12.16美元/蒲式耳，最近四天累計上漲4.04%；豆粕期貨漲0.79%，豆油期貨漲2.62%。CBOT瘦肉豬期貨跌0.09%，活牛期貨跌0.10%，飼牛期貨跌0.05%。
-
----
-
-### 2026-08-18 03:06:00  #MKT News #Important
-
-Kushner says talks are currently positive and proactive.
-
----
-
-### 2026-08-18 03:05:41  #MKT News #Important
-
-Kushner: we have not yet reached a consensus.
-
----
-
-### 2026-08-18 03:05:36  #國際
-
-庫什納：特朗普會在伊朗相關協議問題上保持耐心。
-
----
-
-### 2026-08-18 03:05:27  #MKT News #WTI #Impact bearish #Brent
-
-Kushner, Trump's son-in-law, said US–Iranian government dialogue across multiple channels is more active than ever.
-
----
-
-### 2026-08-18 03:05:08  #MKT News #Market Themes #The Trump Trade #GBPUSD #Impact bearish #FTSE100
-
-The Times reports U.S. Trade Representative Greer said Trump's threat to impose 100% tariffs on the UK "is not bluster."
-
----
-
-### 2026-08-18 03:04:55  #其他 #焦點 #國際
-
-庫什納：我們尚未達成共識。
-
----
-
-### 2026-08-18 03:04:42  #其他
-
-庫什納：對話積極且富有成效。
-
----
-
-### 2026-08-18 03:04:33  #國際
-
-庫什納：美國與伊朗政府不同部門之間的對話，比以往任何時候都更為深入。
-
----
-
-### 2026-08-18 03:03:37  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7417元，較上週五夜盤收盤漲5點。成交量311.47億美元。
-
----
-
-### 2026-08-18 03:01:10  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures night session closed down 0.27% at 25,355, trading 98 points below the cash index.
-
----
-
-### 2026-08-18 03:00:02  #市場
-
-恒指期貨夜盤收跌0.28%，報25352.93點，低水100.30點。
-
----
-
-### 2026-08-18 02:55:56  #國際
-
-美國能源部長賴特表示，美國政府將在未來幾日公佈若干舉措，助力煉油企業提高燃料產量。
-
----
-
-### 2026-08-18 02:55:51  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary Wright said the U.S. Strategic Petroleum Reserve still holds 300 mln barrels and will be higher than pre-conflict levels once the Iran conflict ends.
-
----
-
-### 2026-08-18 02:54:51  #國際
-
-美國能源部長賴特表示，（美國）戰略石油儲備目前仍保有3億桶庫存，伊朗衝突結束後，其儲備量將高於衝突前水平。
-
----
-
-### 2026-08-18 02:52:36  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Energy Secretary Wright said the government will announce measures in the coming days to help refineries boost fuel production.
-
----
-
-### 2026-08-18 02:48:54  #市場
-
-布倫特原油期貨結算價報每桶90.87美元，上漲2.35美元，漲幅2.65%。
-
----
-
-### 2026-08-18 02:47:59  #國際
-
-【日駐俄大使一度未接受俄方召見】俄羅斯外長拉夫羅夫8月17日在評論日本方面針對俄羅斯總統普京登上俄日爭議島嶼的表態時證實，俄羅斯外交部近日連續召見日本駐俄羅斯大使武藤顯，可日本駐俄大使館卻以武藤“不在莫斯科”或“身體不適”等理由回應，稱武藤無法接受召見。（CCTV國際時訊）
-
----
-
-### 2026-08-18 02:47:51  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $90.87 a barrel, up $2.35 or 2.65%.
-
----
-
-### 2026-08-18 02:47:37  #MKT News
-
-A Ukrainian lawmaker said President Zelenskiy has not yet submitted nominees for defense minister or foreign minister to the Verkhovna Rada (parliament).
 
 ---
