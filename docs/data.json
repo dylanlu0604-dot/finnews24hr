@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 09:47:54",
+  "updated": "2026-08-23 09:51:56",
   "count": 16051,
   "items": [
+    {
+      "id": "5053533",
+      "time": "2026-08-23 09:50:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Spotify 執行長埃克表示，Neko Health 正與腦機介面公司 Neuralink 開展合作。 Neko 將協助篩選 Neuralink 下一輪試驗的候選受試者。"
+    },
     {
       "id": "5053532",
       "time": "2026-08-23 09:41:07",
@@ -146741,15 +146749,6 @@
         "Energy"
       ],
       "text": "【Explosion near Zawiya power station knocks out power in Tripoli, western Libya】Libya's National Electricity Company said on the 15th an explosion near the Zawiya power station forced multiple plants offline and caused a grid collapse, leaving Tripoli and large parts of western Libya without power. Maintenance crews are isolating faults and have begun gradual restoration of supply to affected areas. Technical teams are investigating the cause and technical details of the blast."
-    },
-    {
-      "id": "5042533",
-      "time": "2026-08-16 09:50:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國每五名成年人中就有一人持有三星電子股票】今年上半年，三星電子個人小股東數量逼近800萬。這一數字大幅攀升，源於股市空前火熱，疊加市場對半導體企業價值預期抬升，大量個人投資者湧入這隻藍籌股。 韓國金融監督院電子披露系統（DART）8月15日資料顯示，截至6月末，三星電子小股東數量達7971242人，創下歷史新高，較去年同期5049085人增加約292萬人。韓國成年人口約4300萬，換算下來，每五名韓國成年人當中就有一人持有三星電子股票。"
     }
   ]
 }
