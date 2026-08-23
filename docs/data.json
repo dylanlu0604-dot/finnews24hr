@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-24 01:35:31",
+  "updated": "2026-08-24 01:39:36",
   "count": 15856,
   "items": [
+    {
+      "id": "5053835",
+      "time": "2026-08-24 01:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美內華達州山火迅速蔓延 近1.4萬戶居民被要求撤離】美國內華達州北部裡諾市郊的“霍克”山火當日清晨從內華達山脈山麓向裡諾市中心方向迅速蔓延，過火面積已超過1.05萬英畝，近1.4萬戶居民收到強制撤離令。"
+    },
     {
       "id": "5053834",
       "time": "2026-08-24 01:28:11",
@@ -144985,14 +144993,6 @@
         "USDJPY"
       ],
       "text": "【US weighs sanctions on Brazilian Supreme Court justice Alexandre de Moraes, FT reports】The US government is discussing renewed sanctions on Brazilian Supreme Court justice Alexandre de Moraes, the Financial Times reports. Sources say the Trump administration is again considering action after sanctions were imposed last year on human-rights grounds and later lifted. Renewed measures could push US‑Brazil ties to their lowest level in decades, exacerbate trade and political tensions and increase uncertainty ahead of Brazil’s election."
-    },
-    {
-      "id": "mkt:01a00ba8-4216-7aab-904f-5e8c2fa4b4e0",
-      "time": "2026-08-17 01:39:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian Defence Ministry said Russian air-defence systems intercepted and destroyed 72 Ukrainian drones."
     }
   ]
 }
