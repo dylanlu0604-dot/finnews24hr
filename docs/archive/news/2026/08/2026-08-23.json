@@ -1,7 +1,27 @@
 {
   "date": "2026-08-23",
-  "count": 261,
+  "count": 263,
   "items": [
+    {
+      "id": "5053690",
+      "time": "2026-08-23 16:43:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：拉拉颶風正在開闊洋麵上向西北方向移動。"
+    },
+    {
+      "id": "te:markets:577378",
+      "time": "2026-08-23 16:35:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ping An Insurance earnings below expectations at 3.47 CNY — Ping An Insurance (601318) released earnings per share at 3.47 CNY, compared to market expectations of 3.69 CNY."
+    },
     {
       "id": "5053687",
       "time": "2026-08-23 16:33:11",
