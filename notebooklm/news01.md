@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-24 03:51:10_
-_本檔包含 3240 則快訊，約 633348 字_
+_更新時間：2026-08-24 04:33:26_
+_本檔包含 3240 則快訊，約 633001 字_
+
+---
+
+### 2026-08-24 04:28:05  #國際
+
+歐盟外交與安全政策高階代表就以色列約旦河西岸E1定居點計劃表態：敦促以色列政府撤回招標，停止推進E1定居點計劃。
+
+---
+
+### 2026-08-24 04:27:51  #國際
+
+歐盟：約旦河西岸及 E1 區域以色列定居點違反國際法，損害兩國方案前景。
 
 ---
 
@@ -19544,17 +19556,5 @@ At the morning close, China’s front-month futures were mostly higher. Containe
 ### 2026-08-21 11:27:07  #MKT News #Important #CSI300 #Impact bullish #CNH #Impact mixed #Hang Seng Index
 
 【MoF: Over CNY2.0 tln of local government special bonds and ultra‑long special sovereign bonds to be issued in H2】At an Aug. 21 press briefing, Ministry of Finance Deputy Minister Liao Min said more than CNY2.0 tln of local government special bonds and ultra‑long‑term special sovereign bonds remain to be issued and deployed in H2. He added the pending issuance is large versus the same period in prior years and will help sustain policy intensity.
-
----
-
-### 2026-08-21 11:26:36  #MKT News #CNH #Impact bullish #Copper #CSI300
-
-【Finance Ministry: 2.4 tln yuan of new special bonds issued by end-July; supported 18,000 projects】China's Finance Ministry Vice Minister Liao Min said at a State Council Information Office briefing on Aug. 21 that as of end-July China had issued 2.4 trillion yuan of 2026 new special-purpose bonds, supporting 18,000 construction projects.
-
----
-
-### 2026-08-21 11:25:24  #國際
-
-【一8人包機在美阿拉斯加州西部墜毀】當地時間8月20日，美國國家運輸安全委員會的訊息稱，一架載有8人的包機在阿拉斯加州西部一處偏遠的雷達站附近墜毀。目前，搜救行動正在進行中，尚不清楚事件發生的原因。
 
 ---

@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 03:51:10_
-_本檔包含 3157 則快訊，約 633299 字_
+_更新時間：2026-08-24 04:33:26_
+_本檔包含 3154 則快訊，約 632384 字_
+
+---
+
+### 2026-08-20 12:07:08  #其他
+
+瑞聲科技上半年淨利潤9.013億元人民幣，上年同期8.76億元人民幣。
+
+---
+
+### 2026-08-20 12:06:54  #公司
+
+【永嘉集團：2026年上半年虧損941.9萬港元，同比減虧83.2%】永嘉集團公告，2026年上半年持續經營業務收益16.31億港元，同比增長3.0%。期內虧損941.9萬港元，上年同期虧損5605.5萬港元，同比減虧83.2%。每股基本盈利0.5港仙（上年同期虧損3.4港仙）。董事會不建議派付中期股息。
 
 ---
 
@@ -19020,35 +19032,5 @@ Iran parliament speaker Ghalibaf said ties with Iraq are rooted in wartime broth
 ### 2026-08-19 11:38:55  #MKT News #Market Regions #Japan & APAC
 
 Japan 10-year government bond yield fell 4 bps to 2.895%.
-
----
-
-### 2026-08-19 11:38:47  #MKT News #Macro & Rates #DXY #Impact bearish
-
-【RBA deputy Hauser: inflation still too high, policy must continue to restrain demand】Reserve Bank of Australia deputy governor Hauser said inflation remains too high and monetary policy must continue to restrain demand until it returns to target. He warned further rate hikes remain on the table if inflation fails to decline. Hauser said the RBA board is not forecasting a recession, describing the economy as slowing rather than sharply contracting, but flagged upside risks to inflation. He reiterated that the RBA raised the cash rate to 4.35% through three hikes earlier this year, reflecting policymakers’ view that demand exceeded supply and that tightening would limit the eventual rise in unemployment.
-
----
-
-### 2026-08-19 11:38:45  #市場 #國際
-
-10年期日本國債收益率<JP10YTN=JBTC>下跌4.0個基點，至2.895%。
-
----
-
-### 2026-08-19 11:38:32  #其他
-
-【廣西南丹山體滑坡5人遇難】記者19日從廣西南丹縣相關部門獲悉，17日在南丹縣芒場鎮拉麻村黃祥坡屯發生的山體滑坡，5名被困人員已全部找到，均已無生命體徵。目前，善後處置等後續工作有序推進，山體滑坡原因正在進一步深入調查。（新華社）
-
----
-
-### 2026-08-19 11:38:22  #MKT News #Market Regions #Emerging Markets
-
-Indian media reported on the 19th that an early-morning fire at a hotel in Kolkata, eastern India, killed 9 and injured several.
-
----
-
-### 2026-08-19 11:38:13  #MKT News
-
-Thailand Federation of Industries says industrial confidence index rose to 90.0 in July from 88.2 in June.
 
 ---
