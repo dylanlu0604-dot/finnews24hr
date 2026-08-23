@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 18:54:53_
-_本檔包含 3343 則快訊，約 639116 字_
+_更新時間：2026-08-23 19:16:04_
+_本檔包含 3340 則快訊，約 638958 字_
+
+---
+
+### 2026-08-21 10:45:10  #公司
+
+【成渝中線高鐵全線首條接觸網導線成功架設】8月21日，由中國中鐵電氣化局集團承建的成渝中線高鐵全線首條接觸網導線成功架設，標誌著成渝中線高鐵“四電”工程正式進入攻堅階段。成渝中線高鐵是我國“八縱八橫”高鐵網沿江通道的重要組成部分，正線全長292公里，設計時速350公里。
+
+---
+
+### 2026-08-21 10:44:48  #MKT News #Market Regions #Greater China
+
+【China Railway Signal & Communication low‑altitude unit in consortium wins Taiyuan 'One‑Net Unified Flight' platform (phase I)】China Railway Signal & Communication's low‑altitude unit, as part of a consortium, won the contract to deliver phase I of Taiyuan's low‑altitude flight‑control service platform — the municipal 'One‑Net Unified Flight' operations platform. The company will provide its self‑developed low‑altitude sensing equipment and stream perception data in real time to the platform to support municipal inspections, emergency response and other urban governance functions.
+
+---
+
+### 2026-08-21 10:44:27  #公司
+
+【MINIMAX漲超7% 公司近日推出MiniMaxDesign】截至發稿，MINIMAX-W(00100.HK)漲7.09%。訊息方面，該公司近日推出MiniMaxDesign。MiniMaxDesign是一款把多模態模型能力變成真實可用的生產力的Harness。
 
 ---
 
@@ -20156,41 +20174,5 @@ GFZ reported a magnitude-5.84 earthquake in Indonesia’s Flores region.
 ### 2026-08-20 10:50:48  #其他
 
 【《中國工運事業和工會工作“十五五”規劃》印發】從中華全國總工會獲悉，近日，全國總工會印發《中國工運事業和工會工作“十五五”規劃》。規劃是“十五五”時期推動工會工作高質量發展的指導性檔案。規劃堅持正確方向、堅持服務大局、堅持守正創新、堅持求真務實，從牢牢把握工會工作正確政治方向、加強職工群眾思想政治引領、動員激勵廣大職工群眾建功立業創新創造、推動產業工人隊伍建設改革走深走實、提升工會維權服務工作質效、用心用情用力解決重點群體急難愁盼問題、加強工會工作法治化建設、堅決維護勞動領域政治安全、健全縱橫交織覆蓋廣泛的工會組織體系、加強工會外事和港澳臺工作、深化工會改革和建設等11個方面，分領域部署“十五五”時期工會重點工作任務，並明確了大國工匠人才培育、勞模工匠創新工作室、工會就業服務、建會入會等8個方面12項具體指標。規劃對貫徹落實提出要求，強調要加強組織領導，強化宣傳引導、總結推廣，定期評估工作進展成效，以釘釘子精神抓好規劃落地實施。
-
----
-
-### 2026-08-20 10:48:32  #MKT News #Market Regions #Greater China
-
-China A-share fiber-optic sector surged; Wanlong Optoelectronics and Changyingtong hit 20% limit-up, Tongding Interconnect earlier hit the daily limit, and Taichen Photonics, Tengjing Technology, Dekoli, Sanwang Communications and Youlide rose over 10%.
-
----
-
-### 2026-08-20 10:46:50  #公司
-
-【友邦人壽2026年上半年新業務價值增長20%】友邦保險控股有限公司公佈2026年中期業績顯示，其全資子公司友邦人壽上半年新業務價值增長20%，年化新保費增長30%。
-
----
-
-### 2026-08-20 10:46:34  #其他
-
-【MiniMax釋出Agent工作臺MiniMax Design，推動H3模型商業化】8月20日，MiniMax釋出多模態創作Agent工作臺MiniMax Design。作為H3開源後首個官方Harness，該產品在H3基礎上進一步解決任務規劃與協作問題，推動模型走向商業內容生產。系統以自然語言為介面，由Agent拆解任務。亮點功能“3D導演臺”支援前置3D分鏡與機位調整，將試錯提前；結合自動剪輯裝配，實現從構思到交付全過程。該產品聚焦電商、教育及創意短片場景。同時相容ComfyUI工作流與本地部署，支援Agent輔助調整節點，進一步整合了開源創作者生態。
-
----
-
-### 2026-08-20 10:45:15  #市場
-
-【3D列印概念震盪走高 華曙高科20cm漲停】3D列印概念盤中震盪走高，華曙高科20cm漲停，鉑力特漲超10%，捷邦科技、蘇大維格、思看科技、愛司凱等跟漲。
-
----
-
-### 2026-08-20 10:44:40  #其他
-
-【西康高鐵啟動按圖試執行】從國鐵西安局獲悉，8月20日，隨著55301次試執行動車組列車從西安東站駛出，標誌著西安至安康高速鐵路（簡稱“西康高鐵”）正式進入按圖試執行階段。西康高鐵是國家中長期鐵路網規劃“八縱八橫”高鐵通道中包（銀）海通道、京昆通道的重要組成部分。新建正線全長約171公里，設計時速350公里。
-
----
-
-### 2026-08-20 10:44:19  #公司
-
-【陝西省人民政府：同意李嘉輝為長安銀行行長人選，葉瑛不再擔任長安銀行行長職務】8月20日，陝西省人民政府網站釋出的一則任免通知顯示，省政府2026年8月15日決定，任命李嘉輝為長安銀行股份有限公司董事。免去葉瑛長安銀行股份有限公司董事職務。同意李嘉輝為長安銀行股份有限公司行長人選；葉瑛不再擔任長安銀行股份有限公司行長職務。
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 18:54:53_
-_本檔包含 3067 則快訊，約 638449 字_
+_更新時間：2026-08-23 19:16:04_
+_本檔包含 3062 則快訊，約 638610 字_
+
+---
+
+### 2026-08-18 07:17:28  #其他
+
+【醫藥創新邁入深耕期 全球化與造血能力成關鍵考題】近日，多款創新藥相繼迎來上市與臨床突破，國內藥企海外授權合作熱度攀升。業內專家與藥企負責人分析認為，未來行業競爭不再侷限於管線數量比拼，源頭創新能力、全球專利佈局、海內外商業化運營以及靈活的商務拓展（BD）資產運作策略，將成為創新藥企穿越週期的核心抓手。（中國證券報）
+
+---
+
+### 2026-08-18 07:16:52  #公司
+
+【寧德時代宜春鋰礦專案復產迎重要進展】備受關注的寧德時代(300750)梘下窩鋰礦的復產，迎來重要進展。8月17日，證券時報記者獲悉，宜春市生態環境局擬受理宜春時代新能源礦業有限公司（下稱“宜春時代”）江西省宜豐縣圳口裡—奉新縣梘下窩鋰礦採礦專案環境影響評價檔案。目前，上述專案的環評檔案及公眾參與說明，正處於擬受理前公示環節。公示期為2026年8月17日—2026年8月28日（10個工作日）。宜豐縣圳口裡—奉新縣梘下窩礦區採礦權為宜春時代所有，採礦權有效期為2022年8月9日至2025年8月9日，礦區由18個拐點圈定，面積2.5平方千米。2025年8月9日採礦證到期後礦山處於停產狀態。梘下窩鋰礦是全球已探明最大的鋰雲母礦，設計滿產年碳酸鋰產能約10萬噸。停產前，產出約佔全國總產量的8%—10%。因此，何時復產，備受社會關注。此次擬受理，也是寧德時代梘下窩鋰礦復產程序中的重要一步。
+
+---
+
+### 2026-08-18 07:16:02  #公司 #市場
+
+【長鑫科技市值突破四萬億元】8月17日，長鑫科技股價大漲12%，市值達到4.13萬億元，成為繼中國石油之後A股歷史上第二家市值突破4萬億元的上市公司。據統計，2000年以來，共有8只股票先後榮登A股市值冠軍，工商銀行、貴州茅臺、中國石油登頂次數分列前三，分別為29次、14次和13次。而今，這一接力棒交到了一家科創板儲存器製造公司手中。2025年，全球人工智慧（AI）建設浪潮推升半導體、算力需求井噴，電子行業A股市值首次登頂。截至昨日收盤，電子行業市值達24.81萬億元，佔A股總市值的比例為21.05%，均創歷年新高。若將電子與計算機、通訊、傳媒行業合併計算，這四大行業市值合計36.11萬億元，佔A股比重升至30.63%。從銀行、石油石化到食品飲料，從電力裝置再到電子行業登頂，這條市值結構變遷的軌跡，清晰對映出中國經濟動能從基建地產、傳統制造向科技創新的歷史性切換。長鑫科技市值破4萬億元，不只是資本市場的一次估值重排，更是新質生產力從政策敘事走向市場定價的里程碑式節點。（證券時報）
+
+---
+
+### 2026-08-18 07:15:25  #央行 #中國央行
+
+【7天期逆回購連續5日“零投放”】8月17日，央行根據公開市場業務一級交易商的需求，將7天期逆回購操作量設為零，同時開展5655億元隔夜逆回購操作。當日有3670億元逆回購到期，公開市場實現淨投放1985億元。這是自8月11日以來，央行連續第5個工作日未開展7天期逆回購操作。受訪人士認為，7天期逆回購“零投放”主要與銀行體系流動性較為充裕、一級交易商短期資金需求較弱有關。
+
+---
+
+### 2026-08-18 07:15:13  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【1bp rise signals phase recovery in Chinese banks' net interest margins】China's National Financial Regulatory Administration data show commercial banks' net interest margin rose to 1.41% in Q2, up 0.01 percentage point QoQ — the first quarterly increase since 2022. Margin moves were mixed by bank type: state-owned big banks, city commercial banks, rural commercial banks and private banks reported QoQ increases; joint-stock banks were flat; foreign banks fell. Regulators and market participants attribute the stabilization to the liability side — maturing high-yield deposits repriced lower and banks actively optimized funding mixes to reduce interest cost — while regulatory guidance and an interest-rate self-discipline mechanism helped curb irrational loan-rate cuts and supported asset-side pricing, propping up NIMs.
 
 ---
 
@@ -18447,65 +18477,5 @@ SenseTime (00020.HK) said it expects to record a 1H net profit of about RMB 500-
 ### 2026-08-16 19:21:29  #國際
 
 美國地質調查局：巴布亞紐幾內亞馬當東南偏東 105 公里處發生 5.3 級地震。
-
----
-
-### 2026-08-16 19:14:38  #公司 #觀點
-
-【中國梅卡曼德機器人公司獲港交所批准】中國機器人公司梅卡曼德機器人向港交所提交了聆訊後的上市檔案。根據檔案，此次發行的聯席保薦人為中信建投國際和中信證券。
-
----
-
-### 2026-08-16 19:09:33  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Iran army chief offers $30,000 bounty for capturing or killing US service members】IRIB said on Sunday Iran army chief Amir Hatami announced a $30,000 bounty for capturing or killing US service members. The broadcaster said the payment will be made to any Iranian soldier acting "from the Iranian people".
-
----
-
-### 2026-08-16 19:09:02  #公司 #市場
-
-【金斯瑞生物科技(01548)釋出中期業績，股東應占虧損1.29億美元 同比收窄29.25%】金斯瑞生物科技(01548)釋出截至2026年6月30日止6個月中期業績，該集團取得收益4.04億美元，同比增加27.35%;本公司擁有人應占虧損1.29億美元，同比收窄29.25%;每股虧損5.92美分。公告稱，收益增加主要由於(i)AI驅動藥物發現及抗體藥發現的行業需求持續上漲，加速“基因至蛋白”業務增長;(ii)CRDMO行業上游需求強勁復蘇，帶動專案承接量增加，產能利用率提升;及(iii)工業酶業務持續擴張，為報告期內銷售額平穩增長作出貢獻。
-
----
-
-### 2026-08-16 19:08:19  #其他
-
-德國地學研究中心（GFZ）：巴布亞紐幾內亞附近海域發生5.8級地震。
-
----
-
-### 2026-08-16 19:01:37  #其他
-
-【深汕特別合作區解除雷電預警訊號】雷暴雲團已移出，深圳市氣象臺2026年08月16日19時00分解除深汕特別合作區、深汕海域雷電預警訊號。
-
----
-
-### 2026-08-16 19:01:27  #宏觀
-
-【“今日籤明日字”作假追蹤：湖南成立調查組 全面排查整改問題隱患 對涉事單位及責任人員依法依規嚴肅追責問責】今年6月，紅星新聞記者隨中央安全生產考核巡查第六組在湖南衡陽開展明查暗訪時，發現並曝光了衡陽市中心老城區雨汙分流改造工程專案道源路施工段存在有限空間作業警示標誌缺失、氣體檢測及作業許可造假等突出問題，發表報道《今日籤明日字，多人簽名筆跡雷同 中央安全生產考核巡查現場揭露弄虛作假》，引發社會廣泛關注。 近日，紅星新聞記者從國務院安委會辦公室獲悉，湖南省已迅速啟動調查處置工作，借鑑事故調查方式開展調查處理，相關問題隱患已全部整改完畢，涉事單位及責任人員被依法依規嚴肅追責問責，同時全省舉一反三開展專項整治，築牢安全生產防線。 （應急管理部）
-
----
-
-### 2026-08-16 18:59:52  #國際
-
-伊朗議長卡利巴夫：我們在戰爭的軍事和政治層面都取得了勝利，伊朗與美國之間的諒解備忘錄，是我們在外交戰場上鞏固勝利的榮譽與勝利證明。
-
----
-
-### 2026-08-16 18:58:12  #其他
-
-市場訊息：德國8月17日電價穩定在176.73歐元/兆瓦時。
-
----
-
-### 2026-08-16 18:56:01  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Walla: U.S. pressure limits Israel's room to respond to Hezbollah, Hamas】Israeli outlet Walla News, citing a security source, said U.S. pressure is constraining Israel’s ability to respond to Hezbollah and Hamas amid ongoing clashes with Lebanon. Israel assesses Hezbollah and Hamas are coordinating with Iran to try to escalate tensions further. Hezbollah is attempting to resupply fighters sheltered in underground positions; Israel’s Northern Command is running a complex intelligence operation to map covert supply routes and monitor drone activity used to deliver supplies to Hezbollah personnel.
-
----
-
-### 2026-08-16 18:55:22  #其他
-
-【去你的島票房逆跌】據貓眼專業版資料，電影《去你的島》單日票房突破579.19萬，超昨日票房成績，週末票房實現逆跌！截至目前票房已超1.01億。
 
 ---

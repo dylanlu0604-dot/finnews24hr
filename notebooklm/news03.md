@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 18:54:53_
-_本檔包含 3180 則快訊，約 639139 字_
+_更新時間：2026-08-23 19:16:04_
+_本檔包含 3181 則快訊，約 639006 字_
+
+---
+
+### 2026-08-20 10:48:32  #MKT News #Market Regions #Greater China
+
+China A-share fiber-optic sector surged; Wanlong Optoelectronics and Changyingtong hit 20% limit-up, Tongding Interconnect earlier hit the daily limit, and Taichen Photonics, Tengjing Technology, Dekoli, Sanwang Communications and Youlide rose over 10%.
+
+---
+
+### 2026-08-20 10:46:50  #公司
+
+【友邦人壽2026年上半年新業務價值增長20%】友邦保險控股有限公司公佈2026年中期業績顯示，其全資子公司友邦人壽上半年新業務價值增長20%，年化新保費增長30%。
+
+---
+
+### 2026-08-20 10:46:34  #其他
+
+【MiniMax釋出Agent工作臺MiniMax Design，推動H3模型商業化】8月20日，MiniMax釋出多模態創作Agent工作臺MiniMax Design。作為H3開源後首個官方Harness，該產品在H3基礎上進一步解決任務規劃與協作問題，推動模型走向商業內容生產。系統以自然語言為介面，由Agent拆解任務。亮點功能“3D導演臺”支援前置3D分鏡與機位調整，將試錯提前；結合自動剪輯裝配，實現從構思到交付全過程。該產品聚焦電商、教育及創意短片場景。同時相容ComfyUI工作流與本地部署，支援Agent輔助調整節點，進一步整合了開源創作者生態。
+
+---
+
+### 2026-08-20 10:45:15  #市場
+
+【3D列印概念震盪走高 華曙高科20cm漲停】3D列印概念盤中震盪走高，華曙高科20cm漲停，鉑力特漲超10%，捷邦科技、蘇大維格、思看科技、愛司凱等跟漲。
+
+---
+
+### 2026-08-20 10:44:40  #其他
+
+【西康高鐵啟動按圖試執行】從國鐵西安局獲悉，8月20日，隨著55301次試執行動車組列車從西安東站駛出，標誌著西安至安康高速鐵路（簡稱“西康高鐵”）正式進入按圖試執行階段。西康高鐵是國家中長期鐵路網規劃“八縱八橫”高鐵通道中包（銀）海通道、京昆通道的重要組成部分。新建正線全長約171公里，設計時速350公里。
+
+---
+
+### 2026-08-20 10:44:19  #公司
+
+【陝西省人民政府：同意李嘉輝為長安銀行行長人選，葉瑛不再擔任長安銀行行長職務】8月20日，陝西省人民政府網站釋出的一則任免通知顯示，省政府2026年8月15日決定，任命李嘉輝為長安銀行股份有限公司董事。免去葉瑛長安銀行股份有限公司董事職務。同意李嘉輝為長安銀行股份有限公司行長人選；葉瑛不再擔任長安銀行股份有限公司行長職務。
 
 ---
 
@@ -19152,37 +19188,5 @@ U.S. Trade Representative Greer said the agreement with Canada will include full
 ### 2026-08-19 10:40:59  #Trading Economics #Markets #Philippines #Currency #Importance 1
 
 Philippine Peso Hits New All-Time Low — The Philippine peso weakened past 61.8 per dollar, hitting a new all-time low as rising oil prices put renewed pressure on the currency. The peso surpassed the previous record low of 61.850 set in July, as Brent crude jumped more than 5% over the past four days amid renewed Middle East tensions and concerns over energy supplies. The Philippines is particularly vulnerable to higher oil prices as it imports almost all of its oil requirements, raising the risk of stronger inflationary pressures. The Bangko Sentral ng Pilipinas has already raised its policy rate to 4.75% and intervened in the foreign-exchange market, but continued oil gains and elevated global bond yields could keep pressure on the currency. President Ferdinand Marcos Jr. also indicated that they will not use all of the country’s reserves to defend the peso. The currency has now lost more than 5% this year, ranking among Asia’s weakest performers, while foreign-exchange reserves have fallen nearly 7% to $103 billion.
-
----
-
-### 2026-08-19 10:40:52  #MKT News #Important #Market Themes #Chip Wars #CSI300 #Impact bearish #SZSE Component #SSE Composite
-
-A-share storage-chip sector extended losses; Tuolunsi, Jingzhida, Maijie Technology, Jingyi Equipment, Shengmei Shanghai, Maiwei, Xice Testing, Xiangnong Xinchuang, Huahong Hongli, Goke Microelectronics and Shengong fell more than 10%. Jingsheng, Defu Technology, Wantong Development, Shenkeda and Yake Technology also declined.
-
----
-
-### 2026-08-19 10:40:39  #市場
-
-【MLCC板塊走弱，博遷新材跌停】MLCC板塊走弱，博遷新材跌停，斯迪克、信維通訊、國瓷材料跌超10%，潔美科技、火炬電子、利和興等跟跌。
-
----
-
-### 2026-08-19 10:40:33  #宏觀
-
-【國臺辦回應民進黨當局阻撓臺胞來大陸】國務院臺辦舉行例行新聞釋出會。有記者問：民進黨當局要求臺灣公務員赴大陸探親需向所屬單位遞交申請表，並附上大陸親友名單和在大陸聯絡電話，島內輿論批評，這是把公務員當匪諜。臺陸委會卻稱相關規定已執行多年，請問對此有何評論？發言人朱鳳蓮表示，民進黨當局此前是阻撓工作人員來大陸探親奔喪，現在又肆意侵犯臺胞的個人隱私，為的是阻撓臺胞前來大陸，怕的是他們靠謊話欺騙煽動“反中抗中”謀取政治私利的真實面目被更多的臺胞看穿，島內的批評聲音已經表明了廣大臺灣民眾的強烈不滿。
-
----
-
-### 2026-08-19 10:40:03  #市場
-
-【主力資金：兆易創新淨賣出超25億】截至目前，今日主力資金淨流出729.25億；淨流入體育產業、機器人、黃金等板塊，其中體育產業板塊淨流入11.17億；淨流出轉融券標的、融資融券、TMT等板塊，其中轉融券標的板塊淨流出636.73億。
-  
-個股方面，N宇樹淨買入19.08億元位居首位，金風科技、山東黃金、多氟多主力資金淨流入居前；兆易創新淨賣出25.60億元位居首位，中際旭創、長鑫科技、生益科技淨流出額居前。
-
----
-
-### 2026-08-19 10:39:39  #公司
-
-【奇安信與伊利集團達成戰略合作，推進乳品全產業鏈“AI+安全”落地】8月18日，奇安信集團與伊利集團在呼和浩特簽署戰略合作協議，伊利集團董事長兼總裁潘剛、奇安信董事長齊向東出席見證。根據協議，雙方將圍繞網路安全體系建設、常態化安全運營、AI安全賦能及國際化業務合規等展開深度合作。依託奇安信在安全垂域大模型、AI安全閘道器等領域的技術儲備，伊利將構建貫穿牧場、智慧製造工廠至消費端全鏈條的AI安全防護體系，並聯合推進跨境資料合規與隱私保護。作為企業級網安龍頭與全球乳業領軍者的跨界合作，此次聯動標誌著網安核心能力向消費品全產業鏈深度下沉，為傳統實體產業的智慧化升級與出海佈局築牢安全底座。
 
 ---
