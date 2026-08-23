@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-24 06:42:55",
-  "count": 15793,
+  "updated": "2026-08-24 06:47:04",
+  "count": 15787,
   "items": [
+    {
+      "id": "5053961",
+      "time": "2026-08-24 06:45:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗的經濟末日即將到來。"
+    },
+    {
+      "id": "5053960",
+      "time": "2026-08-24 06:44:47",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 美國財長貝森特介紹加大對伊制裁具體行動；\n② 19:30 拼多多財報電話會；\n③ 20:30 美國7月芝加哥聯儲全國活動指數。"
+    },
     {
       "id": "5053959",
       "time": "2026-08-24 06:32:14",
@@ -144369,80 +144387,6 @@
         "MKT News"
       ],
       "text": "Spot silver climbed above $65/oz, up 0.53% intraday."
-    },
-    {
-      "id": "mkt:01a00cc1-53b6-7aab-9051-0846b17ab533",
-      "time": "2026-08-17 06:46:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand July food price index YoY 1.9%, previous 2.5%."
-    },
-    {
-      "id": "mkt:01a00cc1-34d2-7aab-9051-07c4869262c1",
-      "time": "2026-08-17 06:46:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Food Price Index (YoY) (Jul) | actual 1.9% | previous 2.5%"
-    },
-    {
-      "id": "5043001",
-      "time": "2026-08-17 06:45:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭統計局：紐西蘭7月食品價格通脹指數較上月上漲0.1%。"
-    },
-    {
-      "id": "mkt:01a00cc0-21dc-7aab-9050-fa3e559a5dfc",
-      "time": "2026-08-17 06:45:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "【This week: China July data; Fed minutes; US signals economic measures on Iran】Monday — China releases July retail sales, industrial production (above‑scale) and total electricity consumption; PBOC overnight reverse repo operations scheduled Aug 17–19; Canada July CPI; US NY Fed manufacturing and NAHB housing index. Bessent warned this week of “unprecedented” US economic measures against Iran. Earnings: Geely. Tuesday — UK three‑month ILO unemployment and July jobless claims; Germany and eurozone ZEW surveys; US ADP payrolls, housing starts, building permits, import PPI, industrial production, pending home‑sales index. Earnings: China Unicom, Xiaomi (results call), Baidu (results call). Wednesday — US API and EIA crude inventories; UK July CPI and RPI; eurozone June current account and final July CPI. ECB President Lagarde speaks at WEF. Earnings: Kuaishou (results call), ZTO, Kingsoft, HKEX, Weibo. Thursday — China: July Swift RMB share of global payments and one‑year LPR; Australia July unemployment; Germany July PPI; Swiss trade balance; UK CBI industrial orders; US initial jobless claims, Philly Fed index, Conference Board leading indicators, EIA gas stocks. Fed minutes released. Earnings: Ping An, China Telecom, NetEase, Alibaba, AIA, Li‑Ning, Pop Mart, Futu. Friday — UK consumer confidence, July retail sales, public sector net borrowing, Aug services PMI prelim; Japan July core CPI; preliminary Aug manufacturing PMIs for France, Germany, eurozone and UK; Canada June retail sales; US preliminary Aug S&P Global manufacturing and services PMIs; eurozone consumer confidence prelim. Events: Hang Seng index quarterly review results; NYMEX September crude roll. Earnings: ZTE, Sinopec, Beike. Saturday — US Baker Hughes rig count for week to Aug 21."
-    },
-    {
-      "id": "mkt:01a00cc0-1014-7aab-9050-f72b7281b91c",
-      "time": "2026-08-17 06:45:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand July food price index MoM +0.1% vs +0.6% prior."
-    },
-    {
-      "id": "mkt:01a00cbf-f162-7aab-9050-e8a275b9ab20",
-      "time": "2026-08-17 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Food Price Index (MoM) (Jul) | actual 0.1% | previous 0.60%"
-    },
-    {
-      "id": "5043000",
-      "time": "2026-08-17 06:43:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國國防部表示，與美國的聯合軍演將如期舉行。"
-    },
-    {
-      "id": "5042999",
-      "time": "2026-08-17 06:43:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：亞洲煉油商正提前鎖定原油貨源，印度採購方已在尋找11月船貨；受烏克蘭襲擊俄煉油設施影響，俄羅斯面臨燃料短缺。原油實物供應韌性尚存，但價格上行風險高企。"
     }
   ]
 }
