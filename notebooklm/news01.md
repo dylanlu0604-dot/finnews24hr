@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:08:34_
-_本檔包含 3197 則快訊，約 637798 字_
+_更新時間：2026-08-23 21:56:19_
+_本檔包含 3206 則快訊，約 637410 字_
+
+---
+
+### 2026-08-23 21:54:50  #國際
+
+【日本浦河附近海域發生6.0級地震】當地時間23日22時00分左右，日本浦河附近海域發生6.0級地震，最大震感為震度4，震源深度40公里。（央視新聞）
+
+---
+
+### 2026-08-23 21:53:33  #國際
+
+美國知名價值投資者Michael Burry：不會將該部分任何頭寸調回阿里巴巴。
+
+---
+
+### 2026-08-23 21:52:23  #焦點 #國際
+
+日本北海道近海發生6.0級地震。（新華社）
+
+---
+
+### 2026-08-23 21:52:03  #國際
+
+美國知名價值投資者Michael Burry： 數月前已將阿里巴巴持倉調轉為京東頭寸。
+
+---
+
+### 2026-08-23 21:43:20  #國際
+
+俄羅斯方面訊息：美國特使威特科夫和庫什納訪問基輔和莫斯科被推遲。
+
+---
+
+### 2026-08-23 21:25:58  #公司
+
+【派林生物：上半年淨利潤同比下降64.25% 擬10派1.5元】派林生物(000403)8月23日披露半年報，2026年上半年，公司實現營業收入8.3億元，同比下降15.88%；歸屬於上市公司股東的淨利潤8430.10萬元，同比下降64.25%；基本每股收益0.09元。公司擬每10股派發現金紅利1.5元(含稅)。血液製品行業受集採擴圍、DRG/DIP改革、醫保控費、藥品重點監控合理用藥等因素影響，使得臨床處方量減少，市場需求端景氣度滑，致報告期公司血液製品業務毛利率同比下降。此外，受增值稅徵收模式變化的影響，血液製品從2026年1月1日起不再納入3%增值稅簡易徵收的範圍（除納入罕見病藥品清單的血液製品），執行13%的一般計稅模式，致報告期公司血液製品業務毛利率進一步同比下降。2026年下半年，根據公司生產及產品批簽發計劃，下半年產品供應較上半年充足，同時增值稅徵收模式變化短期影響降低，預計2026年全年業績將呈現前低後高趨勢。
+
+---
+
+### 2026-08-23 21:23:38  #公司
+
+【“來晚了，但回來了”！安世中國張秋明：將以周為節奏持續釋出新品】8月23日晚間訊息，在安世中國新品全球釋出會上，安世中國執行長張秋明發表演講。張秋明表示，“過去這段時間，很多客戶因為斷供吃了太多虧，所以今天我可以承諾，安世中國有貨、有量、有品質、有價格優勢，您需要的我們都能給，您擔心的我們都已經解決。雖然來晚了，但是我們回來了。”（新浪科技）
+
+---
+
+### 2026-08-23 21:19:42  #國際
+
+【以色列空襲敘利亞引發與美方“罕見衝突”】據以色列《國土報》23日披露，以軍上週空襲毗鄰土耳其邊境的敘利亞軍事設施後，美國與以色列之間發生“罕見衝突”。以方稱，土耳其在該地部署軍事力量，對以構成威脅，但美方認為，以方出於國內政治需要，試圖“故意激怒土耳其”。（新華社）
+
+---
+
+### 2026-08-23 21:17:23  #其他
+
+【廣西啟動自然災害救助四級應急響應】據廣西壯族自治區防災減災救災委員會辦公室訊息，針對今年第19號颱風“紫檀”造成的災情，根據《廣西自然災害救助應急預案》有關規定，廣西壯族自治區防災減災救災委員會辦公室決定於8月23日19時啟動廣西壯族自治區自然災害救助四級應急響應，請各市、各有關單位按照預案要求做好救災救助工作。
+
+---
+
+### 2026-08-23 21:16:51  #其他
+
+達菲：我預計卡尼（加拿大總理）會迅速前來參與談判。
+
+---
+
+### 2026-08-23 21:16:13  #國際
+
+美國交通部長達菲：貿易戰對加拿大打擊巨大。
+
+---
+
+### 2026-08-23 21:15:33  #其他
+
+新加坡總理黃循財：新加坡正在研究海底隧道的可行性。
+
+---
+
+### 2026-08-23 21:13:21  #國際
+
+美國交通部長達菲 ：加拿大若以為能在與特朗普的貿易戰中取勝是很不明智的。
+
+---
+
+### 2026-08-23 21:08:55  #國際
+
+美國國防部：赫格塞思將支援國防採辦的新方案。
+
+---
+
+### 2026-08-23 21:08:13  #宏觀 #公司 #市場 #國際
+
+【分析師：貝森特需要“做更多”來讓市場相信美政府在認真對待財政問題】債券市場最近幾天向財政部長貝森特發出的訊號是，別想把40萬億美元的美國國債往地毯底下一掃就假裝沒事。貝森特公佈了今秋加大長期國債回購規模的計劃，承諾動用財政部的龐大“工具箱”來支援市場，並談到即將推出新措施以遏制不斷膨脹的美國債務負擔。前安然公司能源交易員、億萬富翁、慈善機構阿諾德風險投資公司創始人約翰·阿諾德表示，今年夏天的債市動盪最終可能只是“又一個迅速平息的插曲”，但更大的擔憂在於，美國財政狀況缺乏改變的局面將持續下去，直到最終引爆危機。布蘭迪溫全球投資組合經理特蕾西·陳表示她感到非常緊張，因為貝森特未能遏制長期國債收益率。債市的表現表明，債券義警們仍然不信任他。貝森特需要做更多來說服投資者，讓他們相信特朗普政府正在認真對待美國財政問題，但在11月中期選舉前談論透過增稅或緊縮來增加收入將不得人心。
+
+---
+
+### 2026-08-23 21:08:04  #其他
+
+新加坡總理黃循財：新加坡將整合多個島嶼，用於發展先進製造業。
 
 ---
 
@@ -19256,47 +19352,5 @@ China's Ministry of Finance said it will expand the pool of implementing banks f
 ### 2026-08-21 11:04:47  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #CNH
 
 【China Ministry of Finance to include new credit-card installment loans in consumer loan interest-subsidy program at 1 percentage point annualized】In a notice on fiscal-financial coordination to boost domestic demand, China’s Ministry of Finance said newly originated credit-card installment products — special-purpose installments, consumer installments and cash-advance installments — will be eligible for the personal consumer loan fiscal interest-subsidy program with a subsidy of 1 percentage point annualized. The notice also said newly issued working-capital loans to eligible small, micro and private enterprises will be covered by the SME loan interest-subsidy scheme; central fiscal authorities will subsidize interest at 1 percentage point annualized on principal for up to two years.
-
----
-
-### 2026-08-21 11:03:30  #宏觀
-
-財政部印發關於進一步做好財政金融協同促內需政策有關工作的通知。
-
----
-
-### 2026-08-21 11:03:27  #國際
-
-【古巴譴責美國對古新一輪制裁】針對美國政府20日宣佈對古巴新一輪制裁，古巴國家主席迪亞斯-卡內爾當天對此予以譴責，說古巴將堅持抵抗並取得勝利，美國終將被列入種族滅絕者名單。迪亞斯-卡內爾當天在社交媒體上說，美方“劊子手”每週四公佈“黑名單”，制裁古巴的個人和機構。受制裁者唯一的“罪名”，就是為古巴服務、反對針對古巴的“種族滅絕式封鎖”。古巴外交部長羅德里格斯當天在社交媒體發文譴責美國國務卿魯比奧，指其持續打壓古巴企業，企圖蓄意損害古巴經濟，阻礙古巴政府向民眾提供基本公共服務。美方制裁對食品、藥品及醫療器械的運輸造成了尤其顯著的阻礙，這些物資大部分由古巴私營中小微企業採購。
-
----
-
-### 2026-08-21 11:03:26  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Copper
-
-China's Ministry of Finance issued a notice calling for further fiscal-financial coordination to implement policies that boost domestic demand.
-
----
-
-### 2026-08-21 11:02:41  #公司
-
-【跨境清算公司董事長汪洪波會見香港金管局副總裁李達志、迅清結算控股集團行政總裁陳達強一行】據跨境清算公司訊息，2026年8月20日，跨境清算公司董事長汪洪波會見香港金管局副總裁李達志、迅清結算控股集團行政總裁陳達強一行。雙方圍繞深化金融市場互聯互通合作，加強業務協同和場景創新，支援和服務香港離岸人民幣中心建設等內容進行了深入交流。
-
----
-
-### 2026-08-21 11:01:43  #央行
-
-紐西蘭聯儲商業調查顯示，兩年期通脹預期為2.55%。
-
----
-
-### 2026-08-21 11:01:38  #MKT News
-
-【Moore Threads' Zhang Jianzhong: AI compute clusters set to scale to 100,000 accelerator cards】Aug. 21 — Chinese AI chipmaker Moore Threads founder Zhang Jianzhong said at the 2026 World Robot Conference that the embodied-intelligence sector is entering a ChatGPT-style inflection and that compute capacity is the critical constraint. Language models have passed the trillion-parameter threshold, and driven by scaling laws embodied-intelligence models are advancing from billions and tens of billions to hundreds of billions and trillions of parameters. AI compute clusters will expand from thousands of accelerator cards to tens of thousands, and a move toward 100,000-card scale has become inevitable.
-
----
-
-### 2026-08-21 11:01:04  #MKT News #Market Regions #Greater China #09992.HK #Impact bearish
-
-【JP Morgan cuts Pop Mart to Reduce, trims target to HK$120】JP Morgan downgraded Pop Mart (09992.HK) to Reduce from Neutral and cut its target price to HK$120 from HK$165. The bank says Q2 was a structural inflection: revenue fell 11% YoY — the first quarterly decline since 2023 — marking a shift from hypergrowth to normalization. H1 revenue was RMB 17.2 bln, up 24% YoY but 11% below JP Morgan’s estimate. Overseas operating margin contracted 14 ppt YoY to 30%, adding pressure on H2 results. JP Morgan now forecasts Q3 revenue down >35% YoY and Q4 down ~20%, saying its prior downside scenario has effectively become the base case as weak demand and deleveraging emerge.
 
 ---

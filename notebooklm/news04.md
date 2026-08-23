@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:08:34_
-_本檔包含 3165 則快訊，約 637680 字_
+_更新時間：2026-08-23 21:56:19_
+_本檔包含 3150 則快訊，約 637026 字_
+
+---
+
+### 2026-08-19 11:03:59  #MKT News #Market Regions #Greater China #Copper #Impact bullish #WTI #Brent
+
+【Jan–Jul China's national railway freight 2.35 billion tonnes, up 0.7% YoY】China's national railway freight totaled 2.35 billion tonnes in Jan–Jul, up 0.7% YoY; average daily loaded wagons 187,000, up 2.1% YoY.
+
+---
+
+### 2026-08-19 11:03:21  #MKT News #Market Regions #Greater China
+
+【China's Taiwan Affairs Office says 'Taiwan independence' greatest threat to cross‑strait peace after Han Kuang 42 drill】Aug. 19 — At a regular briefing the Taiwan Affairs Office was asked about Taiwan's Han Kuang 42 military exercise, which reporters said for the first time included a mobile‑network slowdown drill island sources have blamed for disrupting food delivery and card payments. Spokesperson Zhu Fenglian accused the Democratic Progressive Party authorities of persisting in a Taiwan‑independence stance and 'relying on force' to pursue independence, saying their actions have damaged social order and residents' welfare; she said the drills demonstrate, in Beijing's view, that 'Taiwan independence' is the greatest threat to cross‑strait peace and urged adherence to the 1992 Consensus and opposition to independence to preserve stability.
+
+---
+
+### 2026-08-19 11:02:28  #MKT News #Market Themes #AI Revolution #Chip Wars #Nasdaq100 #Impact bullish #SOXX #Impact bearish
+
+【JP Morgan: Tech flows intact, semiconductor ETFs facing concentrated selling】JP Morgan data show a clear bifurcation within US tech flows over the past week. QQQ drew about $3.0bn and Nasdaq-100 futures saw roughly $7.5bn net buying, while broad tech ETFs had about $3.4bn of outflows; semiconductor ETFs SOXL, SMH and SOXX together shed roughly $3.9bn. The split is larger over four weeks: QQQ cumulative inflows total $15.4bn versus $5.6bn of outflows from SOXX; last week SOXX and SMH lost $2.1bn and $1.3bn respectively. Investors are keeping exposure to large-cap Nasdaq names while trimming semiconductor positions — semiconductors remain central to the AI theme but crowded positioning and prior gains have prompted de-risking. If QQQ continues to attract funds while semiconductor outflows persist, intra-tech performance dispersion could widen.
+
+---
+
+### 2026-08-19 11:01:41  #MKT News
+
+Bank of Korea: household credit rose 1.3% MoM as of end-June, versus 0.7% at end-March.
+
+---
+
+### 2026-08-19 11:01:31  #MKT News
+
+Bank of Korea: Household credit rose 3.6% YoY at end-June, unchanged from end-March.
+
+---
+
+### 2026-08-19 11:01:13  #宏觀
+
+【國臺辦回應臺“漢光”演習：“臺獨”分裂是臺海和平穩定的最大威脅】國務院臺辦舉行例行新聞釋出會。有記者問：近期民進黨當局舉行所謂“漢光42號演習”，首度納入行動電話網路降速演練。島內社會質疑這種“斷網”演練導致民眾不能叫外賣，也無法使用支付卡消費，正常生活受到影響。請問發言人對此有何評論？發言人朱鳳蓮表示，民進黨當局頑固堅持“臺獨”分裂立場，大肆推動“倚武謀獨”濫權妄為，已經嚴重破壞臺灣的社會安寧，影響臺灣民眾的日常生活和利益福祉。所謂“演練”只會讓臺灣民眾進一步看清楚，“臺獨”分裂是臺海和平穩定的最大威脅，是臺灣民眾福祉的最大禍害。只有堅持“九二共識”，反對“臺獨”，才能維護和平安寧，實現安居樂業。
+
+---
+
+### 2026-08-19 11:01:06  #市場 #焦點
+
+純鹼連續主力合約日內跌2%，現報1017.00元。
+
+---
+
+### 2026-08-19 11:00:56  #市場
+
+【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.82%】TrendForce資料顯示，8月19日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.82%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.75%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。
+
+---
+
+### 2026-08-19 11:00:30  #宏觀
+
+【國家釋出城市公共設施管理標準】市場監管總局（國家標準委）批准釋出國家標準《城市公共設施管理通用要求》，將自2027年2月1日起實施。該標準將為全國城市公共設施全生命週期治理建立統一通用規範，助力我國城市公共設施標準化、智慧化、精細化管理。
+
+---
+
+### 2026-08-19 11:00:13  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars
+
+【Bosch MPC4 based on Horizon Journey 6B cleared for large-scale production】Bosch’s fourth-generation multi-purpose camera (MPC4), developed around Horizon Robotics’ Journey 6B chip, has been qualified for large-scale production. The platform is fixed on more than 40 models and the order book is at roughly 10 mln sets. The first qualified program is scheduled to enter mass production in Q3 2026, with further China and overseas OEM projects to follow. The Journey 6B entered production in May on GAC Toyota’s Bozhi 3X; Tier-1 suppliers including Bosch and Denso are developing ADAS solutions around the 6B.
+
+---
+
+### 2026-08-19 11:00:01  #其他
+
+【博世基於地平線征程6B研發的MPC4獲大規模量產定點】據博世官方訊息，其基於地平線征程6B晶片研發的第四代多功能攝像頭（MPC4）已獲大規模量產定點。截至目前，該平臺定點已覆蓋40餘款車型、整體訂單規模達到千萬套級別，首個定點專案將於2026年第三季度正式量產，後續中國及海外多個車企客戶專案依次投產。地平線征程6B晶片已於今年5月搭載廣汽豐田鉑智3X實現量產，博世、電裝、歐摩威等Tier1供應商均基於征程6B開發相關輔助駕駛方案。
+
+---
+
+### 2026-08-19 10:59:53  #其他
+
+【波士頓科學新一代房顫介入治療裝置FARASTAR™在中國獲批】波士頓科學在上海臨港工廠生產的新一代FARASTAR™心臟脈衝電場消融系統正式獲得國家藥監局批准。FARASTAR™是波士頓科學FARAPULSE™脈衝電場消融（PFA）平臺的核心能量發生裝置，用於房顫治療，當前獲批的國產FARASTAR™採用了全球最新一代裝置平臺，擁有更加完善的安全設計和更強的平臺相容能力，如支援多型別導管方案。
+
+---
+
+### 2026-08-19 10:57:16  #宏觀
+
+【國臺辦：民進黨當局阻撓兩岸高校交流 令人不齒】國務院臺辦舉行例行新聞釋出會。有記者問：民進黨當局持續限縮兩岸教育交流，臺教育主管部門要求校方提供大陸研修生在臺的每日行程、課程主題、參訪地點等，並計劃收緊稽核大陸研究生和教師赴臺申請，不少大陸研究生赴臺專案被迫中斷或徹底取消，請問發言人對此有何評論？發言人朱鳳蓮表示，這是民進黨當局阻撓禁限兩岸正常交流交往的又一惡行。兩岸高校互派研修生行之有年，是兩岸教育交流的重要組成部分，有利於推動兩岸學術成果互學互鑑，促進兩岸教育共同發展。民進黨當局濫權妄為，無視島內高校參與兩岸交流的強烈願望與現實需求，頻繁將黑手伸向兩岸教育交流，強行限縮大陸學生赴臺研修，對臺灣教育界威逼利誘，嚴重損害兩岸教育交流和學生的正當權益，令人不齒。
 
 ---
 
@@ -18937,173 +19015,5 @@ Australia's S&P/ASX 200 opened down 8.00 points (-0.09%) at 9,065.20 on Aug 18 (
 ### 2026-08-18 08:06:58  #MKT News #Market Regions #Emerging Markets
 
 【Zambia's Hakainde Hichilema wins re-election】Zambia’s Electoral Commission said on Aug 17 that incumbent President Hakainde Hichilema secured more than 50% of the vote to win the presidential election. Zambia held polls on Aug 13 for president and parliament.
-
----
-
-### 2026-08-18 08:06:08  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #AUDUSD
-
-【Alphabet launches AUD bond sale】Alphabet is offering Australian dollar bonds in four maturities, including a 20-year tranche, seeking about AUD 5 bln (~$3.6 bln), sources said. The move follows Alphabet raising its full-year capital expenditure forecast to as much as $205 bln, renewing focus on how big tech will monetize AI investments. Alphabet is second only to Amazon among U.S. corporates in tapping global debt markets to finance AI projects. The company also plans bond issues in 2026 in CHF, GBP, EUR, CAD and JPY.
-
----
-
-### 2026-08-18 08:05:44  #MKT News #Market Regions #Japan & APAC #8035.T #Impact bearish
-
-Tokyo Electron shares fell 4%.
-
----
-
-### 2026-08-18 08:05:05  #市場
-
-東京電子股價下跌4%。
-
----
-
-### 2026-08-18 08:02:17  #市場
-
-必和必拓股價上漲2.9%，此前公佈的財年基本利潤超出預期。
-
----
-
-### 2026-08-18 08:01:57  #市場
-
-SK海力士股價上漲逾5%。
-
----
-
-### 2026-08-18 08:01:54  #公司 #市場
-
-三星電子股價上漲超過3%。
-
----
-
-### 2026-08-18 08:01:49
-
-三星電子漲3％，SK海力士漲5.8％。
-
----
-
-### 2026-08-18 08:01:47  #其他
-
-【編造智駕事故、AI生成假車禍影片 多人因編造涉企謠言被罰】公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。
-
----
-
-### 2026-08-18 08:01:45  #MKT News #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 opened down 375.98 points (-0.54%) at 68,844.27 on Tuesday, Aug. 18.
-
----
-
-### 2026-08-18 08:01:42  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-【KOSPI opens up 2.25%】South Korea's KOSPI opened up 156.82 points, or 2.25%, at 7,134.76 on Tuesday, Aug. 18; Samsung Electronics rose 3%, SK Hynix rose 5.8%.
-
----
-
-### 2026-08-18 08:00:41  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲2.1%，至7127.77點。
-
----
-
-### 2026-08-18 08:00:23  #市場
-
-【日韓股市開盤】日經225指數上午開盤報68847.35點，跌幅0.54％。韓國綜合股價指數（KOSPI）開盤上漲2.1％，至7127.77點。
-
----
-
-### 2026-08-18 07:59:20  #其他
-
-【國內最大尺寸電致變色玻璃預計明年3月在哈爾濱下線】據哈爾濱日報，走進哈爾濱新區新材料產業園，景爍智慧科技的廠房裡工人正在有序地進行著裝修改造。國內首條超大尺寸全固態電致變色電子薄膜生產線將於今年11月啟動裝置安裝，預計明年3月，國內最大尺寸（1.9米×3.1米）電致變色玻璃將在此下線。該專案的落地投產，將打破國外技術對高階電致變色玻璃領域的長期壟斷，填補國內相關產業空白。
-
----
-
-### 2026-08-18 07:58:29  #觀點
-
-【華泰證券：箱板瓦楞“淡季不淡”、景氣可期】華泰證券研報稱，淡季紙企提價階段性落地，7月箱板及瓦楞紙價格、出貨情況及庫存同比皆有改善。進口再生漿縮量、國廢成本上行，短期紙價下方空間有限，箱板瓦楞紙週期築底訊號顯著。建議關注旺季需求表現及8月紙企提價落地節奏。
-
----
-
-### 2026-08-18 07:58:08  #國際
-
-韓國否認了有關討論將晶片作為其首筆美國投資的報道。韓國總統府表示無法確認詳情。
-
----
-
-### 2026-08-18 07:57:11  #其他
-
-【兩岸人工智慧產業發展聯盟在崑山成立】2026年兩岸(崑山)人工智慧產業發展大會日前在江蘇崑山舉行。會上，兩岸人工智慧產業發展聯盟正式成立，將兩岸互補優勢轉化為創新發展持久動能。作為大陸臺商投資最活躍、臺企最密集、兩岸經貿文化交流最頻繁的城市之一，崑山依託兩岸創新融合聚力，構築了深厚的產業根基，是全球電子資訊產業重鎮，臺灣前100大製造業企業超70%在崑山落戶。
-
----
-
-### 2026-08-18 07:56:36  #公司
-
-必和必拓執行長：銅礦併購門檻很高。
-
----
-
-### 2026-08-18 07:55:59  #公司 #國際
-
-【Stellantis因倒車影像故障召回近100萬輛汽車，主要涉及北美市場】當地時間8月17日，Stellantis宣佈將在美國召回約84.85萬輛克萊斯勒、道奇、Jeep和Ram品牌汽車，以修復可能導致倒車影像無法顯示在車載媒體螢幕上的軟體問題。此次召回涉及部分2026至2027年款克萊斯勒Pacifica、Voyager、道奇Charger，以及2026年款Jeep和Ram多款車型。公司表示，將推送軟體更新，目前尚未獲悉與該問題相關的事故或人員受傷報告。此外，加拿大、墨西哥及北美以外部分市場預計分別有約8.29萬輛、7969輛和1.57萬輛汽車受到召回影響。
-
----
-
-### 2026-08-18 07:55:14  #公司 #國際
-
-【樂天化學擬出售馬來西亞、印尼業務股權】《韓國經濟日報》援引匿名政府官員訊息稱，樂天化學近期向債權人及韓國產業部透露計劃，擬剝離其位於馬來西亞、印度尼西亞及美國的部分基礎化工業務。樂天目前正研判市場風向、物色潛在收購方，同時制定具體出售方案。樂天計劃剝離盈利不佳的海外業務，聚焦高附加值特種化學品，以此完成業務重組。樂天旗下馬來西亞子公司樂天化學泰坦被視作首要出售標的；樂天 2010 年斥資約 1.5 萬億韓元收購該企業，持有其 74.7% 股權。公司同時擬向印尼主權財富基金 BPI Danantara，部分出讓 LCI 的股權。LCI 為樂天在印尼投建石化工廠的業務主體，專案投資額達 5.7 萬億韓元。
-
----
-
-### 2026-08-18 07:53:09  #公司
-
-【A股定增一覽：9家公司披露定增進展】Wind資料顯示，8月18日，A股共9家公司釋出定增相關公告。其中2家公司披露股票定增預案，5家定增預案獲股東大會透過，1家定增預案獲交易所透過，1家定增方案停止實施。從當日最新披露定增預案來看，斯菱智驅、盈新發展定增募資預案金額最高，分別擬定增不超18.0億元、17.79億元。今年以來，已有117家公司公告定增方案已完成，39家公司定增金額超10億元。具體來看，中國國航、中國神華、松發股份定增募資金額最高，募資總額分別為200.0億元、200.0億元、70.0億元。
-
----
-
-### 2026-08-18 07:52:32  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Firm as Fed Rate Hike Bets Ease — Gold held above $4,400 an ounce on Tuesday after advancing for two straight sessions, supported by fading expectations for a Federal Reserve rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Investors are now awaiting the minutes of the Fed’s July meeting and comments from Chairman Kevin Warsh at the annual Jackson Hole symposium for further clues on the policy outlook. Meanwhile, traders remained wary of inflation risks as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Elsewhere, gold continued to benefit from stronger investment demand and ongoing central bank purchases, particularly from China.
-
----
-
-### 2026-08-18 07:51:36  #觀點
-
-【中信建投：化工逐漸進入旺季 關注三季度環比改善的板塊和個股】中信建投證券研報指出，化工逐漸進入旺季，關注三季度環比改善的板塊和個股。在經歷4、5月下游的去庫之後，當前下游庫存偏低，從去庫轉向正常採購的過程表觀需求會有所改善，而9—10月的真實需求也會偏高。不過考慮到目前油價依然處於高價格和高波動期，下游進行補庫的意願不會太強，維持今年秋季弱補庫的觀點。長期看化工龍頭在週期底部的盈利底已經非常優秀，擁有足夠的價值，但是短期依然面臨二季度高基數和三季度弱補庫導致的業績環比下滑風險。建議重點關注三季度業績有望進一步上行的行業和個股，包括：保持高景氣的海外成品油、量價齊升的氟化工製冷劑、新產能持續放量的鉀肥、以及成本端下行顯著的輪胎。
-
----
-
-### 2026-08-18 07:51:19  #國際
-
-【美加貿易談判受阻 汽車關稅成為主要障礙】在美國對加拿大新一輪關稅即將生效之際，兩國貿易談判仍未取得突破，據悉汽車關稅成為主要分歧。因涉及未公開資訊而不願具名的知情人士表示，加拿大希望汽車關稅稅率降至10%，或擴大目前對於包含美國零部件的汽車予以關稅減免的措施。但特朗普政府堅持稅率至少為15%。美國總統特朗普去年對外國汽車和卡車徵收25%的關稅，但根據供應鏈中美國零部件所佔比例，對加拿大和墨西哥給予部分減免。例如，一輛在安大略省組裝、美國零部件佔比50%的汽車，實際適用的關稅稅率為12.5%。美國貿易代表格里爾要求加拿大取消所有貿易報復措施，包括去年針對美國汽車加徵的反制關稅，以及加拿大一些省份禁止美國製造酒類產品進入當地零售市場的措施。
-
----
-
-### 2026-08-18 07:49:21  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's 10-year government bond yield rose 2.5 bps to 2.945%, its highest level since September 1996.
-
----
-
-### 2026-08-18 07:48:28  #市場 #國際
-
-日本10年期國債收益率上升2.5個基點至2.945%，為1996年9月以來最高。
-
----
-
-### 2026-08-18 07:48:22  #觀點
-
-【中信建投：礦區自動駕駛行業有望進入S型加速階段】中信建投證券研報認為，礦區自動駕駛區別於Robotaxi，封閉場景、剛性用工需求與明確的降本增效價值使其商業化路徑更清晰，行業在滲透率突破10%後有望進入S型加速階段。國內近10萬臺礦卡存量提供持續改造空間，大型煤礦車隊擴容、金屬礦專案複製及中小礦山下沉將支撐國內市場增長；海外澳大利亞等高人工成本市場單車服務價值顯著高於國內，有望開啟第二增長曲線。
-
----
-
-### 2026-08-18 07:47:21  #市場 #國際
-
-10年期日本國債收益率上漲2.5個基點，至2.945%。
-
----
-
-### 2026-08-18 07:47:06  #觀點
-
-【華泰證券：新食品原料從“概念驗證”走向“產業替代”】華泰證券研報指出，政策紅利、技術突破與需求拉動共振，新食品原料正從邊緣創新走向產業主流。據植提橋，20年至26H1末，國家衛健委已累計批准68種新食品原料，數量較上一階段增長47.8%；25年全年批准15種，創近年新高，受理申報達53種、同比+77%；26H1已有12種新食品原料獲批，預計全年將超20種。審批提速的背後，是“健康中國2030”戰略深入推進與合成生物學技術快速突破的雙重驅動。新食品原料的競爭邏輯已從“誰先申報”升級為“誰的工藝更硬”，微生物發酵、精準生物合成等技術的成熟，使過去難以規模化生產的原料具備了商業化條件，產業鏈正從“概念驗證”走向“產業落地”。
 
 ---

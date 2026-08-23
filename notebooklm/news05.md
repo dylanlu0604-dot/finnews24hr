@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:08:34_
-_本檔包含 3042 則快訊，約 637487 字_
+_更新時間：2026-08-23 21:56:19_
+_本檔包含 3047 則快訊，約 636776 字_
+
+---
+
+### 2026-08-18 08:06:08  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #AUDUSD
+
+【Alphabet launches AUD bond sale】Alphabet is offering Australian dollar bonds in four maturities, including a 20-year tranche, seeking about AUD 5 bln (~$3.6 bln), sources said. The move follows Alphabet raising its full-year capital expenditure forecast to as much as $205 bln, renewing focus on how big tech will monetize AI investments. Alphabet is second only to Amazon among U.S. corporates in tapping global debt markets to finance AI projects. The company also plans bond issues in 2026 in CHF, GBP, EUR, CAD and JPY.
+
+---
+
+### 2026-08-18 08:05:44  #MKT News #Market Regions #Japan & APAC #8035.T #Impact bearish
+
+Tokyo Electron shares fell 4%.
+
+---
+
+### 2026-08-18 08:05:05  #市場
+
+東京電子股價下跌4%。
+
+---
+
+### 2026-08-18 08:02:17  #市場
+
+必和必拓股價上漲2.9%，此前公佈的財年基本利潤超出預期。
+
+---
+
+### 2026-08-18 08:01:57  #市場
+
+SK海力士股價上漲逾5%。
+
+---
+
+### 2026-08-18 08:01:54  #公司 #市場
+
+三星電子股價上漲超過3%。
+
+---
+
+### 2026-08-18 08:01:49
+
+三星電子漲3％，SK海力士漲5.8％。
+
+---
+
+### 2026-08-18 08:01:47  #其他
+
+【編造智駕事故、AI生成假車禍影片 多人因編造涉企謠言被罰】公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。
+
+---
+
+### 2026-08-18 08:01:45  #MKT News #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 opened down 375.98 points (-0.54%) at 68,844.27 on Tuesday, Aug. 18.
+
+---
+
+### 2026-08-18 08:01:42  #MKT News #Important #005930.KS #Impact bullish #000660.KS
+
+【KOSPI opens up 2.25%】South Korea's KOSPI opened up 156.82 points, or 2.25%, at 7,134.76 on Tuesday, Aug. 18; Samsung Electronics rose 3%, SK Hynix rose 5.8%.
+
+---
+
+### 2026-08-18 08:00:41  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤上漲2.1%，至7127.77點。
+
+---
+
+### 2026-08-18 08:00:23  #市場
+
+【日韓股市開盤】日經225指數上午開盤報68847.35點，跌幅0.54％。韓國綜合股價指數（KOSPI）開盤上漲2.1％，至7127.77點。
+
+---
+
+### 2026-08-18 07:59:20  #其他
+
+【國內最大尺寸電致變色玻璃預計明年3月在哈爾濱下線】據哈爾濱日報，走進哈爾濱新區新材料產業園，景爍智慧科技的廠房裡工人正在有序地進行著裝修改造。國內首條超大尺寸全固態電致變色電子薄膜生產線將於今年11月啟動裝置安裝，預計明年3月，國內最大尺寸（1.9米×3.1米）電致變色玻璃將在此下線。該專案的落地投產，將打破國外技術對高階電致變色玻璃領域的長期壟斷，填補國內相關產業空白。
+
+---
+
+### 2026-08-18 07:58:29  #觀點
+
+【華泰證券：箱板瓦楞“淡季不淡”、景氣可期】華泰證券研報稱，淡季紙企提價階段性落地，7月箱板及瓦楞紙價格、出貨情況及庫存同比皆有改善。進口再生漿縮量、國廢成本上行，短期紙價下方空間有限，箱板瓦楞紙週期築底訊號顯著。建議關注旺季需求表現及8月紙企提價落地節奏。
+
+---
+
+### 2026-08-18 07:58:08  #國際
+
+韓國否認了有關討論將晶片作為其首筆美國投資的報道。韓國總統府表示無法確認詳情。
+
+---
+
+### 2026-08-18 07:57:11  #其他
+
+【兩岸人工智慧產業發展聯盟在崑山成立】2026年兩岸(崑山)人工智慧產業發展大會日前在江蘇崑山舉行。會上，兩岸人工智慧產業發展聯盟正式成立，將兩岸互補優勢轉化為創新發展持久動能。作為大陸臺商投資最活躍、臺企最密集、兩岸經貿文化交流最頻繁的城市之一，崑山依託兩岸創新融合聚力，構築了深厚的產業根基，是全球電子資訊產業重鎮，臺灣前100大製造業企業超70%在崑山落戶。
+
+---
+
+### 2026-08-18 07:56:36  #公司
+
+必和必拓執行長：銅礦併購門檻很高。
+
+---
+
+### 2026-08-18 07:55:59  #公司 #國際
+
+【Stellantis因倒車影像故障召回近100萬輛汽車，主要涉及北美市場】當地時間8月17日，Stellantis宣佈將在美國召回約84.85萬輛克萊斯勒、道奇、Jeep和Ram品牌汽車，以修復可能導致倒車影像無法顯示在車載媒體螢幕上的軟體問題。此次召回涉及部分2026至2027年款克萊斯勒Pacifica、Voyager、道奇Charger，以及2026年款Jeep和Ram多款車型。公司表示，將推送軟體更新，目前尚未獲悉與該問題相關的事故或人員受傷報告。此外，加拿大、墨西哥及北美以外部分市場預計分別有約8.29萬輛、7969輛和1.57萬輛汽車受到召回影響。
+
+---
+
+### 2026-08-18 07:55:14  #公司 #國際
+
+【樂天化學擬出售馬來西亞、印尼業務股權】《韓國經濟日報》援引匿名政府官員訊息稱，樂天化學近期向債權人及韓國產業部透露計劃，擬剝離其位於馬來西亞、印度尼西亞及美國的部分基礎化工業務。樂天目前正研判市場風向、物色潛在收購方，同時制定具體出售方案。樂天計劃剝離盈利不佳的海外業務，聚焦高附加值特種化學品，以此完成業務重組。樂天旗下馬來西亞子公司樂天化學泰坦被視作首要出售標的；樂天 2010 年斥資約 1.5 萬億韓元收購該企業，持有其 74.7% 股權。公司同時擬向印尼主權財富基金 BPI Danantara，部分出讓 LCI 的股權。LCI 為樂天在印尼投建石化工廠的業務主體，專案投資額達 5.7 萬億韓元。
+
+---
+
+### 2026-08-18 07:53:09  #公司
+
+【A股定增一覽：9家公司披露定增進展】Wind資料顯示，8月18日，A股共9家公司釋出定增相關公告。其中2家公司披露股票定增預案，5家定增預案獲股東大會透過，1家定增預案獲交易所透過，1家定增方案停止實施。從當日最新披露定增預案來看，斯菱智驅、盈新發展定增募資預案金額最高，分別擬定增不超18.0億元、17.79億元。今年以來，已有117家公司公告定增方案已完成，39家公司定增金額超10億元。具體來看，中國國航、中國神華、松發股份定增募資金額最高，募資總額分別為200.0億元、200.0億元、70.0億元。
+
+---
+
+### 2026-08-18 07:52:32  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Holds Firm as Fed Rate Hike Bets Ease — Gold held above $4,400 an ounce on Tuesday after advancing for two straight sessions, supported by fading expectations for a Federal Reserve rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Investors are now awaiting the minutes of the Fed’s July meeting and comments from Chairman Kevin Warsh at the annual Jackson Hole symposium for further clues on the policy outlook. Meanwhile, traders remained wary of inflation risks as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Elsewhere, gold continued to benefit from stronger investment demand and ongoing central bank purchases, particularly from China.
+
+---
+
+### 2026-08-18 07:51:36  #觀點
+
+【中信建投：化工逐漸進入旺季 關注三季度環比改善的板塊和個股】中信建投證券研報指出，化工逐漸進入旺季，關注三季度環比改善的板塊和個股。在經歷4、5月下游的去庫之後，當前下游庫存偏低，從去庫轉向正常採購的過程表觀需求會有所改善，而9—10月的真實需求也會偏高。不過考慮到目前油價依然處於高價格和高波動期，下游進行補庫的意願不會太強，維持今年秋季弱補庫的觀點。長期看化工龍頭在週期底部的盈利底已經非常優秀，擁有足夠的價值，但是短期依然面臨二季度高基數和三季度弱補庫導致的業績環比下滑風險。建議重點關注三季度業績有望進一步上行的行業和個股，包括：保持高景氣的海外成品油、量價齊升的氟化工製冷劑、新產能持續放量的鉀肥、以及成本端下行顯著的輪胎。
+
+---
+
+### 2026-08-18 07:51:19  #國際
+
+【美加貿易談判受阻 汽車關稅成為主要障礙】在美國對加拿大新一輪關稅即將生效之際，兩國貿易談判仍未取得突破，據悉汽車關稅成為主要分歧。因涉及未公開資訊而不願具名的知情人士表示，加拿大希望汽車關稅稅率降至10%，或擴大目前對於包含美國零部件的汽車予以關稅減免的措施。但特朗普政府堅持稅率至少為15%。美國總統特朗普去年對外國汽車和卡車徵收25%的關稅，但根據供應鏈中美國零部件所佔比例，對加拿大和墨西哥給予部分減免。例如，一輛在安大略省組裝、美國零部件佔比50%的汽車，實際適用的關稅稅率為12.5%。美國貿易代表格里爾要求加拿大取消所有貿易報復措施，包括去年針對美國汽車加徵的反制關稅，以及加拿大一些省份禁止美國製造酒類產品進入當地零售市場的措施。
+
+---
+
+### 2026-08-18 07:49:21  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's 10-year government bond yield rose 2.5 bps to 2.945%, its highest level since September 1996.
+
+---
+
+### 2026-08-18 07:48:28  #市場 #國際
+
+日本10年期國債收益率上升2.5個基點至2.945%，為1996年9月以來最高。
+
+---
+
+### 2026-08-18 07:48:22  #觀點
+
+【中信建投：礦區自動駕駛行業有望進入S型加速階段】中信建投證券研報認為，礦區自動駕駛區別於Robotaxi，封閉場景、剛性用工需求與明確的降本增效價值使其商業化路徑更清晰，行業在滲透率突破10%後有望進入S型加速階段。國內近10萬臺礦卡存量提供持續改造空間，大型煤礦車隊擴容、金屬礦專案複製及中小礦山下沉將支撐國內市場增長；海外澳大利亞等高人工成本市場單車服務價值顯著高於國內，有望開啟第二增長曲線。
+
+---
+
+### 2026-08-18 07:47:21  #市場 #國際
+
+10年期日本國債收益率上漲2.5個基點，至2.945%。
+
+---
+
+### 2026-08-18 07:47:06  #觀點
+
+【華泰證券：新食品原料從“概念驗證”走向“產業替代”】華泰證券研報指出，政策紅利、技術突破與需求拉動共振，新食品原料正從邊緣創新走向產業主流。據植提橋，20年至26H1末，國家衛健委已累計批准68種新食品原料，數量較上一階段增長47.8%；25年全年批准15種，創近年新高，受理申報達53種、同比+77%；26H1已有12種新食品原料獲批，預計全年將超20種。審批提速的背後，是“健康中國2030”戰略深入推進與合成生物學技術快速突破的雙重驅動。新食品原料的競爭邏輯已從“誰先申報”升級為“誰的工藝更硬”，微生物發酵、精準生物合成等技術的成熟，使過去難以規模化生產的原料具備了商業化條件，產業鏈正從“概念驗證”走向“產業落地”。
 
 ---
 
@@ -18219,143 +18387,5 @@ Kushner said Egypt is an important U.S. partner in the Middle East.
 ### 2026-08-16 21:56:21  #MKT News
 
 Egyptian President Sisi and Kushner confirmed the need to resolve the current regional crisis and reiterated that parties must commit to fulfilling their obligations under the Gaza ceasefire agreement.
-
----
-
-### 2026-08-16 21:52:21  #其他
-
-【國產大郵輪首次在大灣區啟航 產業鏈發展迎來新機遇】近日，首艘國產大型郵輪“愛達·魔都號”從深圳招商蛇口國際郵輪母港鳴笛啟航，開啟粵港澳大灣區（以下簡稱“大灣區”）航季，這也是該國產大郵輪首次落地大灣區開展國際運營，標誌著國產大型郵輪正式深度佈局華南市場，我國郵輪製造、港口運營、文旅消費全產業鏈迎來新的發展視窗。
-
----
-
-### 2026-08-16 21:51:15  #市場
-
-【貨運eVTOL率先領跑低空產業化 配套鋰電迎來成長空間】2026年新版《民用航空法》正式落地實施後，國內低空空域開放程序明顯提速。8月10日，高工產研鋰電研究院（GGII）釋出行業洞察報告指出，低空產業將遵循先貨運、後載人，先遠郊、後城區，先試點、再全國鋪開的發展路徑推進商業化，貨運eVTOL將率先實現規模化量產，上游配套低空鋰電池賽道同步迎來長期增長機遇，2029—2035年或將成為整個低空經濟產業高速發展的黃金週期。 行業內對eVTOL有著清晰統一界定，該類飛行器依靠電力作為主動力，搭載3臺及以上獨立分散式電機旋翼，可完成垂直起降作業，通用判定標準為最大起飛重量不低於150公斤。現階段能夠實現小批次出貨的機型大多僅支援同點位往返作業，主要分為過載吊運、觀光載人兩大型別，跨區域貨運飛行仍處於試點探索階段。2026年7月1日新版《民用航空法》實施後，跨點位低空空域管控有序放開，行業發展節奏被明確劃定，只有貨運eVTOL運營模式經過市場驗證成熟後，載人跨區域飛行的空域使用許可權才會逐步放開。（中國經營報）
-
----
-
-### 2026-08-16 21:47:32  #宏觀 #國際
-
-市場訊息：特朗普尋求對伊朗實施陸地封鎖，但成功機率渺茫，他後續將出臺上千項針對伊朗的新制裁措施。
-
----
-
-### 2026-08-16 21:45:53  #其他
-
-【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月17日0時至8月19日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
-
----
-
-### 2026-08-16 21:45:46  #MKT News
-
-【Kushner visits Egypt to press Gaza agreement implementation; to meet Hamas and mediators】Saudi outlet Alhadath reported Egyptian President received Trump envoy Jared Kushner in Al Alamein, where they discussed the need for parties to fulfil obligations under the Gaza agreement. Al Arabiya, citing sources, said Kushner will meet Hamas today to push the Gaza administrative committee to assume responsibilities; the committee’s Gaza senior representative Maladinov and delegations from Turkey, Egypt and Qatar will attend. Kushner and the Hamas delegation will discuss an international stabilization force, Israeli withdrawal and humanitarian aid; the stated goal is to implement the Trump plan, not to renegotiate it, with emphasis on ending the cycle of violence in Gaza.
-
----
-
-### 2026-08-16 21:35:20  #其他
-
-有訊息來源報道稱，在胡塞武裝的打擊之後，吉贊省“阿布阿里什”地區聽到了數聲爆炸聲。
-
----
-
-### 2026-08-16 21:33:52  #公司 #國際
-
-【印度一乘客欲攜槍登機 槍支走火擊傷安檢員】16日，印度一名男子攜帶槍支欲登機，在接受安檢時槍支意外擊發，兩名機場安檢員受傷。 據印度媒體援引印度民用航空部的宣告報道，這名55歲男子和其妻子當天上午打算乘坐印度航空公司旗下印度航空快運公司航班從北方邦瓦拉納西前往孟買。該男子攜帶一支經過註冊登記的手槍，在瓦拉納西機場接受安檢時，一發子彈“意外射出”，擊中一名安檢員腿部和另一名安檢員手部。（新華社）
-
----
-
-### 2026-08-16 21:32:49  #國際
-
-市場訊息：伊朗稱霍爾木茲海峽是結束戰爭的籌碼、
-
----
-
-### 2026-08-16 21:32:38  #國際
-
-伊朗總統：我們與國內任何一方均無分歧，各方正在尋求能夠解決國家問題。
-
----
-
-### 2026-08-16 21:30:34  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Market Regions #Greater China #Star Stocks #Alibaba #Market Themes #China Tech Giants #WTI #Impact mixed #DXY #EURUSD
-
-【Weekly preview: China July economic 'report card'; Alibaba, Baidu earnings; Fed minutes; US warned of 'unprecedented' economic strike on Iran】Key market-moving items next week: China releases July retail sales, industrial output and total electricity consumption (Monday) — the closest thing to a July economic 'report card' for asset and policy watchers. The PBOC will conduct overnight reverse repos Aug 17–19, and China publishes Swift RMB global payments share and the 1-year LPR on Thursday. The Fed releases meeting minutes on Thursday. US energy inventories (API and EIA crude) are due Wednesday; NYMEX September crude contract rolls on Friday. US labor and activity data include ADP payrolls, housing starts/permits and pending home sales (Tuesday), initial jobless claims and the Philadelphia Fed index (Thursday), and S&P Global August manufacturing and services PMIs (Friday, flash). Europe and UK: German/euro-area ZEW (Tue), UK and euro-area CPI (UK on Wed; euro-area final CPI Wed), and preliminary Aug manufacturing PMIs across major European economies and UK on Friday. Other data: Canada July CPI (Mon), Japan July core CPI (Fri), Australia July unemployment (Thu), euro-area current account (Wed), and US leading indicators (Thu). Corporate calendar: major China/HK earnings include Geely (Mon); Baidu and Xiaomi (Tue); Kuaishou, ZTO, Kingsoft, HKEX and Weibo (Wed); Ping An, China Telecom, NetEase, Alibaba, AIA, Li Ning, Pop Mart and Futu (Thu); ZTE, Sinopec and Beike (Fri). Events and policy signals: ECB President Lagarde speaks at a WEF panel on global economic outlook (Wed); Seoul AI Summit runs Aug 19–21 and the World Robot Conference Aug 19–23 (sector sentiment). Geopolitical risk: market commentary flagged by Bessent warning of a possible 'unprecedented' US economic strike on Iran this week — presented as a forecast/preview, not an official action.
-
----
-
-### 2026-08-16 21:29:26  #公司
-
-挪威加斯科公司計劃於8月17日04:00至8月18日04:00停運卡爾斯托氣田，天然氣日供氣量減少500萬立方米。
-
----
-
-### 2026-08-16 21:29:09  #國際
-
-伊朗總統：我們本應擁有足以令敵人不敢膽敢襲擊我國領土的軍事能力。
-
----
-
-### 2026-08-16 21:26:25  #其他
-
-【辛巴威船隻傾覆已致80人死亡 搜救工作仍在持續】當地時間16日，辛巴威警方公佈，該國北部卡里巴湖11日下午發生的船隻傾覆事故死亡人數上升到80人。辛巴威政府方面說，事故發生時，船上載有119名成人，另有數量不明的兒童。事發後已有77人獲救。目前，搜救工作仍在進行中。隨著搜救工作的推進，更多遇難者遺體被打撈，船上乘客實際數量已遠超登記人數。辛巴威總統姆南加古瓦已宣佈這起事故為“國家災難”。（央視新聞）
-
----
-
-### 2026-08-16 21:21:47  #其他
-
-環球星確認全部8顆HIBLEO-4替代衛星成功發射。
-
----
-
-### 2026-08-16 21:21:04  #公司
-
-法國電力公司將特里卡斯廷4號反應堆的輸出功率從915兆瓦削減至180兆瓦。
-
----
-
-### 2026-08-16 21:17:58  #市場 #國際
-
-【五角大樓公佈的傷亡資料“翻車”】據巴西247新聞網8月12日報道，五角大樓在公佈其2025年度傷亡估算報告後，面臨低估和掩蓋美國軍事行動致平民傷亡人數的指控。該檔案承認有153名平民死亡、243人受傷。這些數字遠低於跟蹤美國軍事行動的獨立組織所提供的資料。報道指出，圍繞該報告的主要爭議不僅涉及官方數字與獨立調查之間的差異，還涉及未將美軍在加勒比海和東太平洋針對涉嫌販毒船隻的行動所致的平民傷亡納入統計。根據五角大樓的評估，2025年所有平民傷亡事件均發生在美國對葉門胡塞武裝的轟炸行動中。除官方傷亡資料外，另有15名可能的受害者仍在美軍當局的審查中。然而，獨立組織提供的資料顯示，葉門的人員損失規模更大。據報道，空中戰爭跟蹤組織估計，在美國對葉門的軍事行動期間，至少有258名平民喪生。（參考訊息）
-
----
-
-### 2026-08-16 21:16:32  #其他
-
-【新能源冷藏車銷量快速增長，冷鏈綠色轉型提速】中國物流與採購聯合會今天（16日）釋出上半年冷鏈物流執行資料。在宏觀經濟回升向好、物流執行韌性增長的背景下，上半年冷鏈物流保持穩步發展態勢，冷鏈消費需求溫和回升，綠色低碳轉型加速推進。在生鮮電商與城配需求增長、新能源政策強力推動等因素驅動下，新能源冷藏車銷量繼續保持快速增長。上半年新能源冷藏車銷量為20285輛，同比增長92.3%，保持高速增長態勢。新能源冷藏車滲透率達48.2%，較上年同期提升12.4個百分點。二季度滲透率升至54.7%，首次超越傳統燃料車型，冷鏈運輸綠色化程序進入加速發展階段。（央視財經）
-
----
-
-### 2026-08-16 21:14:58  #國際
-
-白宮新聞秘書：經濟學家稱，伊朗在封鎖下面臨經濟“嚴重崩潰”。
-
----
-
-### 2026-08-16 21:13:37  #央行 #國際
-
-【招商證券： 市場將更加聚焦於業績主線的結構性機會 】招商證券釋出研報指出，近期市場快速反彈後轉為震盪，本質上是基於美聯儲TACO與非農、就業資料，交易寬鬆流動性與降息預期。對於市場而言，8月以來由宏微觀流動性改善共振帶來的風險偏好回升和市場系統性修復或已進入尾聲，疊加中報業績集中披露視窗臨近，市場將更加聚焦於業績主線的結構性機會。配置上建議沿科技創新+企業出海+傳統低估值再平衡三線均衡佈局，重點關注電子、電力裝置、化學制藥、有色金屬、煤炭。
-
----
-
-### 2026-08-16 21:13:11  #MKT News
-
-Hamas said a delegation arrived in Egypt at midday local time on Sunday and held talks with the head of the Egyptian General Intelligence Directorate, IRNA reported.
-
----
-
-### 2026-08-16 21:12:37  #公司
-
-【越南GELEXIMCO集團到訪萬德斯並舉行座談】據萬德斯訊息，8月16日，越南GELEXIMCO集團高層代表團到訪萬德斯並舉行座談。雙方圍繞環保產業深度合作、資源迴圈利用及綠色低碳發展等議題深入交流，共話中越環保合作新機遇。
-
----
-
-### 2026-08-16 21:10:36  #公司 #國際
-
-【烏稱已使俄電商巨頭“野莓”多個物流中心停運】烏克蘭國防部16日通報，烏方已使俄羅斯大型電商平臺“野莓”公司規模最大的10個物流中心中的7個停止運營。烏克蘭國防部稱，在16日凌晨俄羅斯莫斯科州遭到大規模無人機襲擊後，除多莫傑多沃的“野莓”公司倉庫外，該公司位於“克列迪諾”工業園區的物流樞紐也停止了運營。烏方表示，“克列迪諾”物流樞紐是“野莓”公司佔地面積最大的倉庫，面積達25萬平方米。（央視新聞）
-
----
-
-### 2026-08-16 21:09:56  #國際
-
-白宮新聞秘書：特朗普總統任內的FBI犯罪報告顯示，暴力犯罪率創紀錄以來的新低！
 
 ---

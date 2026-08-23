@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:08:34_
-_本檔包含 3325 則快訊，約 637767 字_
+_更新時間：2026-08-23 21:56:19_
+_本檔包含 3323 則快訊，約 636644 字_
+
+---
+
+### 2026-08-21 11:03:30  #宏觀
+
+財政部印發關於進一步做好財政金融協同促內需政策有關工作的通知。
+
+---
+
+### 2026-08-21 11:03:27  #國際
+
+【古巴譴責美國對古新一輪制裁】針對美國政府20日宣佈對古巴新一輪制裁，古巴國家主席迪亞斯-卡內爾當天對此予以譴責，說古巴將堅持抵抗並取得勝利，美國終將被列入種族滅絕者名單。迪亞斯-卡內爾當天在社交媒體上說，美方“劊子手”每週四公佈“黑名單”，制裁古巴的個人和機構。受制裁者唯一的“罪名”，就是為古巴服務、反對針對古巴的“種族滅絕式封鎖”。古巴外交部長羅德里格斯當天在社交媒體發文譴責美國國務卿魯比奧，指其持續打壓古巴企業，企圖蓄意損害古巴經濟，阻礙古巴政府向民眾提供基本公共服務。美方制裁對食品、藥品及醫療器械的運輸造成了尤其顯著的阻礙，這些物資大部分由古巴私營中小微企業採購。
+
+---
+
+### 2026-08-21 11:03:26  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Copper
+
+China's Ministry of Finance issued a notice calling for further fiscal-financial coordination to implement policies that boost domestic demand.
+
+---
+
+### 2026-08-21 11:02:41  #公司
+
+【跨境清算公司董事長汪洪波會見香港金管局副總裁李達志、迅清結算控股集團行政總裁陳達強一行】據跨境清算公司訊息，2026年8月20日，跨境清算公司董事長汪洪波會見香港金管局副總裁李達志、迅清結算控股集團行政總裁陳達強一行。雙方圍繞深化金融市場互聯互通合作，加強業務協同和場景創新，支援和服務香港離岸人民幣中心建設等內容進行了深入交流。
+
+---
+
+### 2026-08-21 11:01:43  #央行
+
+紐西蘭聯儲商業調查顯示，兩年期通脹預期為2.55%。
+
+---
+
+### 2026-08-21 11:01:38  #MKT News
+
+【Moore Threads' Zhang Jianzhong: AI compute clusters set to scale to 100,000 accelerator cards】Aug. 21 — Chinese AI chipmaker Moore Threads founder Zhang Jianzhong said at the 2026 World Robot Conference that the embodied-intelligence sector is entering a ChatGPT-style inflection and that compute capacity is the critical constraint. Language models have passed the trillion-parameter threshold, and driven by scaling laws embodied-intelligence models are advancing from billions and tens of billions to hundreds of billions and trillions of parameters. AI compute clusters will expand from thousands of accelerator cards to tens of thousands, and a move toward 100,000-card scale has become inevitable.
+
+---
+
+### 2026-08-21 11:01:04  #MKT News #Market Regions #Greater China #09992.HK #Impact bearish
+
+【JP Morgan cuts Pop Mart to Reduce, trims target to HK$120】JP Morgan downgraded Pop Mart (09992.HK) to Reduce from Neutral and cut its target price to HK$120 from HK$165. The bank says Q2 was a structural inflection: revenue fell 11% YoY — the first quarterly decline since 2023 — marking a shift from hypergrowth to normalization. H1 revenue was RMB 17.2 bln, up 24% YoY but 11% below JP Morgan’s estimate. Overseas operating margin contracted 14 ppt YoY to 30%, adding pressure on H2 results. JP Morgan now forecasts Q3 revenue down >35% YoY and Q4 down ~20%, saying its prior downside scenario has effectively become the base case as weak demand and deleveraging emerge.
 
 ---
 
@@ -20030,59 +20072,5 @@ By the morning close China's main futures were mixed: Shanghai silver up nearly 
 ### 2026-08-20 11:26:33  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
 
 Australia 10Y Yield Falls on Soft Jobs Data — Australia’s 10-year government bond yield fell below 5%, reaching a one-week low after weak labor market data dampened the outlook for further RBA rate increases. Employment declined by 15,800 in July, reversing June’s upwardly revised gain of 80,300 and defying expectations of a 15,000 increase. This marked the first monthly drop since April. Meanwhile, the unemployment rate rose to 4.5%, above both market expectations and the previous month's 4.4%, reaching its highest level in three months. In its latest forecasts, the central bank projected the unemployment rate would rise to 4.8% by mid-2028 and remain around that level through the second half of the year, above the government's 4.5% estimate. While still relatively tight, Australia's labor market is showing signs of easing. The RBA raised the cash rate to 4.35% through three rate hikes earlier this year but kept policy unchanged at its June and August meetings while assessing the impact of previous tightening on the economy.
-
----
-
-### 2026-08-20 11:26:29  #市場
-
-【仲量聯行：亞太區商業地產投資市場回暖 中國核心資產流動性持續改善】仲量聯行8月20日釋出的報告顯示，2026年第二季度亞太地區商業地產投資額達455億美元，同比增長38%；上半年投資總量達925億美元，同比增長35%。仲量聯行中國區投資及資本市場部負責人龐樹東表示，2026年上半年，中國內地及香港商業地產投資市場活躍度提升，核心資產流動性持續改善。當前資本配置邏輯已深度轉向兼顧穩定收益與抵禦風險的雙重驅動，投資者正積極把握估值修正視窗，更加註重資產在長期經濟轉型中的現金流穩定性與戰略價值，持續聚焦並加碼配置優質辦公樓及零售等類別資產。（證券時報）
-
----
-
-### 2026-08-20 11:25:54  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Retreats After Jobs Report — The Australian dollar weakened to around $0.71, retreating from a ten-week high reached in the previous session as softer labor market data reduced expectations of another RBA rate hike. Employment fell by 15,800 in July, reversing June’s upwardly revised gain of 80,300 and defying forecasts for a 15,000 increase. It marked the first monthly decline since April. Meanwhile, the unemployment rate rose to 4.5%, slightly above both market expectations and June’s 4.4%, reaching its highest level in three months. In its latest forecasts, the RBA projected unemployment would rise to 4.8% by mid-2028 and remain at that level through the second half of the year, above the government's 4.5% forecast. While policymakers continue to view the labor market as relatively tight, recent data suggest employment growth and demand are gradually moderating. The RBA recently held rates steady at its June and August meetings as it assessed the impact of earlier policy tightening on economic activity.
-
----
-
-### 2026-08-20 11:23:25  #其他
-
-【黑河東居延海已實現連續22年不幹涸】從水利部獲悉，截至今天（20日），黑河東居延海已實現連續22年不幹涸。黑河是我國西北地區重要的生態屏障，河流終點東居延海曾於1992年乾涸，曾是我國主要沙塵暴策源地之一。透過二十多年的治理和保護，東居延海及其周邊生態重現生機。（央視新聞）
-
----
-
-### 2026-08-20 11:22:27  #公司
-
-【中偉新材成立金屬資源公司，註冊資本10億元】企查查APP顯示，近日，中偉恆通金屬資源（上海）有限公司成立，法定代表人為孫亞弟，註冊資本為10億元，經營範圍包含：有色金屬合金銷售；金屬材料銷售；金屬製品銷售；金屬礦石銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由中偉新材全資持股。
-
----
-
-### 2026-08-20 11:21:17  #MKT News
-
-【China science minister Yin Hejun meets Chilean foreign minister Perez】On Aug. 19 in Beijing, China’s science minister Yin Hejun met Chilean foreign minister Perez to discuss deepening China–Chile science and innovation cooperation. Yin said the two countries’ science strategies are highly aligned, creating broad scope for expanded, institutionalized cooperation that has developed under bilateral leadership. China expects technology cooperation to support both countries’ economic and social development. Perez affirmed the partnership’s results, called tech cooperation a core element of the comprehensive strategic relationship, and said Chile is willing to increase researcher exchanges and deepen practical collaboration.
-
----
-
-### 2026-08-20 11:18:42  #公司
-
-【江蘇光伏裝機容量突破1億千瓦】江蘇省電力有限公司最新統計資料顯示，截至2026年7月底，江蘇省光伏發電累計裝機容量突破1億千瓦，達10008萬千瓦，佔全省電力總裝機的比重超38%，超過煤電、氣電和風電等，成為全省第一大電源。
-
----
-
-### 2026-08-20 11:17:55  #國際
-
-【科技部部長陰和俊會見智利外長佩雷斯】據科技部訊息，8月19日，科技部部長陰和俊在北京會見智利外長佩雷斯一行。雙方就深化中智科技創新合作深入交換意見。陰和俊表示，中智兩國科技發展戰略高度契合，為深化雙方科技創新合作提供了廣闊空間和強勁動力。近年來，在兩國元首戰略引領下，中智科技創新合作保持平穩發展勢頭，已形成多層次、寬領域、機制化的良好格局。中方期待與智方一道，以科技創新合作為重要紐帶，推動兩國經濟社會發展，造福兩國人民。佩雷斯充分肯定兩國科技合作成果，並表示科技合作是兩國全面戰略伙伴關係的重要組成部分，承載著推動兩國經濟社會發展和增進人民福祉的重要使命。智方願與中方加強科研人員往來，深化務實合作，為智中雙邊關係發展作出貢獻。
-
----
-
-### 2026-08-20 11:17:50  #其他
-
-【山西首例侵入式腦機介面植入術完成 截癱患者有望重塑運動功能】三年前從高處跌落造成頸髓損傷後，39歲的山西男子便再沒能站起來，吃飯、翻身、如廁，全憑母親和妻子照料。8月19日，山西醫科大學第一醫院腦機介面臨床研究中心主任郭庚帶領神經外科團隊，為這名創傷後高位截癱患者，完成山西首例侵入式腦機介面手部運動功能代償系統植入手術。
-
----
-
-### 2026-08-20 11:16:46  #公司 #國際
-
-【日本成田機場一客機“冒黑煙” 相關跑道已關閉】據日本廣播協會報道，20日上午，日本成田機場一架飛機“發動機附近冒出黑煙”。目前，相關跑道已關閉。 日本廣播協會引述警方訊息稱，事件發生在當地時間10時40分左右，涉事飛機是一架馬來西亞航空公司客機，當時正準備起飛。尚不清楚是否有人員受傷。現場畫面顯示，上午11時左右，涉事飛機停在現場，周圍停有數輛消防車和救護車，工作人員正在現場作相應處理。 成田機場方面表示，受此事影響，機場A跑道已關閉，目前正在進行檢查。（新華社）
 
 ---

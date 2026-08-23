@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 21:08:34_
-_本檔包含 3180 則快訊，約 637789 字_
+_更新時間：2026-08-23 21:56:19_
+_本檔包含 3176 則快訊，約 636861 字_
+
+---
+
+### 2026-08-20 11:26:29  #市場
+
+【仲量聯行：亞太區商業地產投資市場回暖 中國核心資產流動性持續改善】仲量聯行8月20日釋出的報告顯示，2026年第二季度亞太地區商業地產投資額達455億美元，同比增長38%；上半年投資總量達925億美元，同比增長35%。仲量聯行中國區投資及資本市場部負責人龐樹東表示，2026年上半年，中國內地及香港商業地產投資市場活躍度提升，核心資產流動性持續改善。當前資本配置邏輯已深度轉向兼顧穩定收益與抵禦風險的雙重驅動，投資者正積極把握估值修正視窗，更加註重資產在長期經濟轉型中的現金流穩定性與戰略價值，持續聚焦並加碼配置優質辦公樓及零售等類別資產。（證券時報）
+
+---
+
+### 2026-08-20 11:25:54  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Retreats After Jobs Report — The Australian dollar weakened to around $0.71, retreating from a ten-week high reached in the previous session as softer labor market data reduced expectations of another RBA rate hike. Employment fell by 15,800 in July, reversing June’s upwardly revised gain of 80,300 and defying forecasts for a 15,000 increase. It marked the first monthly decline since April. Meanwhile, the unemployment rate rose to 4.5%, slightly above both market expectations and June’s 4.4%, reaching its highest level in three months. In its latest forecasts, the RBA projected unemployment would rise to 4.8% by mid-2028 and remain at that level through the second half of the year, above the government's 4.5% forecast. While policymakers continue to view the labor market as relatively tight, recent data suggest employment growth and demand are gradually moderating. The RBA recently held rates steady at its June and August meetings as it assessed the impact of earlier policy tightening on economic activity.
+
+---
+
+### 2026-08-20 11:23:25  #其他
+
+【黑河東居延海已實現連續22年不幹涸】從水利部獲悉，截至今天（20日），黑河東居延海已實現連續22年不幹涸。黑河是我國西北地區重要的生態屏障，河流終點東居延海曾於1992年乾涸，曾是我國主要沙塵暴策源地之一。透過二十多年的治理和保護，東居延海及其周邊生態重現生機。（央視新聞）
+
+---
+
+### 2026-08-20 11:22:27  #公司
+
+【中偉新材成立金屬資源公司，註冊資本10億元】企查查APP顯示，近日，中偉恆通金屬資源（上海）有限公司成立，法定代表人為孫亞弟，註冊資本為10億元，經營範圍包含：有色金屬合金銷售；金屬材料銷售；金屬製品銷售；金屬礦石銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由中偉新材全資持股。
+
+---
+
+### 2026-08-20 11:21:17  #MKT News
+
+【China science minister Yin Hejun meets Chilean foreign minister Perez】On Aug. 19 in Beijing, China’s science minister Yin Hejun met Chilean foreign minister Perez to discuss deepening China–Chile science and innovation cooperation. Yin said the two countries’ science strategies are highly aligned, creating broad scope for expanded, institutionalized cooperation that has developed under bilateral leadership. China expects technology cooperation to support both countries’ economic and social development. Perez affirmed the partnership’s results, called tech cooperation a core element of the comprehensive strategic relationship, and said Chile is willing to increase researcher exchanges and deepen practical collaboration.
+
+---
+
+### 2026-08-20 11:18:42  #公司
+
+【江蘇光伏裝機容量突破1億千瓦】江蘇省電力有限公司最新統計資料顯示，截至2026年7月底，江蘇省光伏發電累計裝機容量突破1億千瓦，達10008萬千瓦，佔全省電力總裝機的比重超38%，超過煤電、氣電和風電等，成為全省第一大電源。
+
+---
+
+### 2026-08-20 11:17:55  #國際
+
+【科技部部長陰和俊會見智利外長佩雷斯】據科技部訊息，8月19日，科技部部長陰和俊在北京會見智利外長佩雷斯一行。雙方就深化中智科技創新合作深入交換意見。陰和俊表示，中智兩國科技發展戰略高度契合，為深化雙方科技創新合作提供了廣闊空間和強勁動力。近年來，在兩國元首戰略引領下，中智科技創新合作保持平穩發展勢頭，已形成多層次、寬領域、機制化的良好格局。中方期待與智方一道，以科技創新合作為重要紐帶，推動兩國經濟社會發展，造福兩國人民。佩雷斯充分肯定兩國科技合作成果，並表示科技合作是兩國全面戰略伙伴關係的重要組成部分，承載著推動兩國經濟社會發展和增進人民福祉的重要使命。智方願與中方加強科研人員往來，深化務實合作，為智中雙邊關係發展作出貢獻。
+
+---
+
+### 2026-08-20 11:17:50  #其他
+
+【山西首例侵入式腦機介面植入術完成 截癱患者有望重塑運動功能】三年前從高處跌落造成頸髓損傷後，39歲的山西男子便再沒能站起來，吃飯、翻身、如廁，全憑母親和妻子照料。8月19日，山西醫科大學第一醫院腦機介面臨床研究中心主任郭庚帶領神經外科團隊，為這名創傷後高位截癱患者，完成山西首例侵入式腦機介面手部運動功能代償系統植入手術。
+
+---
+
+### 2026-08-20 11:16:46  #公司 #國際
+
+【日本成田機場一客機“冒黑煙” 相關跑道已關閉】據日本廣播協會報道，20日上午，日本成田機場一架飛機“發動機附近冒出黑煙”。目前，相關跑道已關閉。 日本廣播協會引述警方訊息稱，事件發生在當地時間10時40分左右，涉事飛機是一架馬來西亞航空公司客機，當時正準備起飛。尚不清楚是否有人員受傷。現場畫面顯示，上午11時左右，涉事飛機停在現場，周圍停有數輛消防車和救護車，工作人員正在現場作相應處理。 成田機場方面表示，受此事影響，機場A跑道已關閉，目前正在進行檢查。（新華社）
 
 ---
 
@@ -19104,83 +19158,5 @@ USD/KRW fell nearly 1% to 1,398.90.
 ### 2026-08-19 11:05:02  #MKT News
 
 Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% and its 2027 forecast to 2.2% from 1.7%.
-
----
-
-### 2026-08-19 11:03:59  #MKT News #Market Regions #Greater China #Copper #Impact bullish #WTI #Brent
-
-【Jan–Jul China's national railway freight 2.35 billion tonnes, up 0.7% YoY】China's national railway freight totaled 2.35 billion tonnes in Jan–Jul, up 0.7% YoY; average daily loaded wagons 187,000, up 2.1% YoY.
-
----
-
-### 2026-08-19 11:03:21  #MKT News #Market Regions #Greater China
-
-【China's Taiwan Affairs Office says 'Taiwan independence' greatest threat to cross‑strait peace after Han Kuang 42 drill】Aug. 19 — At a regular briefing the Taiwan Affairs Office was asked about Taiwan's Han Kuang 42 military exercise, which reporters said for the first time included a mobile‑network slowdown drill island sources have blamed for disrupting food delivery and card payments. Spokesperson Zhu Fenglian accused the Democratic Progressive Party authorities of persisting in a Taiwan‑independence stance and 'relying on force' to pursue independence, saying their actions have damaged social order and residents' welfare; she said the drills demonstrate, in Beijing's view, that 'Taiwan independence' is the greatest threat to cross‑strait peace and urged adherence to the 1992 Consensus and opposition to independence to preserve stability.
-
----
-
-### 2026-08-19 11:02:28  #MKT News #Market Themes #AI Revolution #Chip Wars #Nasdaq100 #Impact bullish #SOXX #Impact bearish
-
-【JP Morgan: Tech flows intact, semiconductor ETFs facing concentrated selling】JP Morgan data show a clear bifurcation within US tech flows over the past week. QQQ drew about $3.0bn and Nasdaq-100 futures saw roughly $7.5bn net buying, while broad tech ETFs had about $3.4bn of outflows; semiconductor ETFs SOXL, SMH and SOXX together shed roughly $3.9bn. The split is larger over four weeks: QQQ cumulative inflows total $15.4bn versus $5.6bn of outflows from SOXX; last week SOXX and SMH lost $2.1bn and $1.3bn respectively. Investors are keeping exposure to large-cap Nasdaq names while trimming semiconductor positions — semiconductors remain central to the AI theme but crowded positioning and prior gains have prompted de-risking. If QQQ continues to attract funds while semiconductor outflows persist, intra-tech performance dispersion could widen.
-
----
-
-### 2026-08-19 11:01:41  #MKT News
-
-Bank of Korea: household credit rose 1.3% MoM as of end-June, versus 0.7% at end-March.
-
----
-
-### 2026-08-19 11:01:31  #MKT News
-
-Bank of Korea: Household credit rose 3.6% YoY at end-June, unchanged from end-March.
-
----
-
-### 2026-08-19 11:01:13  #宏觀
-
-【國臺辦回應臺“漢光”演習：“臺獨”分裂是臺海和平穩定的最大威脅】國務院臺辦舉行例行新聞釋出會。有記者問：近期民進黨當局舉行所謂“漢光42號演習”，首度納入行動電話網路降速演練。島內社會質疑這種“斷網”演練導致民眾不能叫外賣，也無法使用支付卡消費，正常生活受到影響。請問發言人對此有何評論？發言人朱鳳蓮表示，民進黨當局頑固堅持“臺獨”分裂立場，大肆推動“倚武謀獨”濫權妄為，已經嚴重破壞臺灣的社會安寧，影響臺灣民眾的日常生活和利益福祉。所謂“演練”只會讓臺灣民眾進一步看清楚，“臺獨”分裂是臺海和平穩定的最大威脅，是臺灣民眾福祉的最大禍害。只有堅持“九二共識”，反對“臺獨”，才能維護和平安寧，實現安居樂業。
-
----
-
-### 2026-08-19 11:01:06  #市場 #焦點
-
-純鹼連續主力合約日內跌2%，現報1017.00元。
-
----
-
-### 2026-08-19 11:00:56  #市場
-
-【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.82%】TrendForce資料顯示，8月19日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.82%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.75%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。
-
----
-
-### 2026-08-19 11:00:30  #宏觀
-
-【國家釋出城市公共設施管理標準】市場監管總局（國家標準委）批准釋出國家標準《城市公共設施管理通用要求》，將自2027年2月1日起實施。該標準將為全國城市公共設施全生命週期治理建立統一通用規範，助力我國城市公共設施標準化、智慧化、精細化管理。
-
----
-
-### 2026-08-19 11:00:13  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars
-
-【Bosch MPC4 based on Horizon Journey 6B cleared for large-scale production】Bosch’s fourth-generation multi-purpose camera (MPC4), developed around Horizon Robotics’ Journey 6B chip, has been qualified for large-scale production. The platform is fixed on more than 40 models and the order book is at roughly 10 mln sets. The first qualified program is scheduled to enter mass production in Q3 2026, with further China and overseas OEM projects to follow. The Journey 6B entered production in May on GAC Toyota’s Bozhi 3X; Tier-1 suppliers including Bosch and Denso are developing ADAS solutions around the 6B.
-
----
-
-### 2026-08-19 11:00:01  #其他
-
-【博世基於地平線征程6B研發的MPC4獲大規模量產定點】據博世官方訊息，其基於地平線征程6B晶片研發的第四代多功能攝像頭（MPC4）已獲大規模量產定點。截至目前，該平臺定點已覆蓋40餘款車型、整體訂單規模達到千萬套級別，首個定點專案將於2026年第三季度正式量產，後續中國及海外多個車企客戶專案依次投產。地平線征程6B晶片已於今年5月搭載廣汽豐田鉑智3X實現量產，博世、電裝、歐摩威等Tier1供應商均基於征程6B開發相關輔助駕駛方案。
-
----
-
-### 2026-08-19 10:59:53  #其他
-
-【波士頓科學新一代房顫介入治療裝置FARASTAR™在中國獲批】波士頓科學在上海臨港工廠生產的新一代FARASTAR™心臟脈衝電場消融系統正式獲得國家藥監局批准。FARASTAR™是波士頓科學FARAPULSE™脈衝電場消融（PFA）平臺的核心能量發生裝置，用於房顫治療，當前獲批的國產FARASTAR™採用了全球最新一代裝置平臺，擁有更加完善的安全設計和更強的平臺相容能力，如支援多型別導管方案。
-
----
-
-### 2026-08-19 10:57:16  #宏觀
-
-【國臺辦：民進黨當局阻撓兩岸高校交流 令人不齒】國務院臺辦舉行例行新聞釋出會。有記者問：民進黨當局持續限縮兩岸教育交流，臺教育主管部門要求校方提供大陸研修生在臺的每日行程、課程主題、參訪地點等，並計劃收緊稽核大陸研究生和教師赴臺申請，不少大陸研究生赴臺專案被迫中斷或徹底取消，請問發言人對此有何評論？發言人朱鳳蓮表示，這是民進黨當局阻撓禁限兩岸正常交流交往的又一惡行。兩岸高校互派研修生行之有年，是兩岸教育交流的重要組成部分，有利於推動兩岸學術成果互學互鑑，促進兩岸教育共同發展。民進黨當局濫權妄為，無視島內高校參與兩岸交流的強烈願望與現實需求，頻繁將黑手伸向兩岸教育交流，強行限縮大陸學生赴臺研修，對臺灣教育界威逼利誘，嚴重損害兩岸教育交流和學生的正當權益，令人不齒。
 
 ---
