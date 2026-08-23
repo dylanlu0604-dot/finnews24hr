@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 19:16:04_
-_本檔包含 3181 則快訊，約 639006 字_
+_更新時間：2026-08-23 19:49:17_
+_本檔包含 3175 則快訊，約 638159 字_
+
+---
+
+### 2026-08-20 10:55:58  #國際
+
+【菜鳥在歐洲再新開兩座海外倉】記者從菜鳥獲悉，菜鳥和4PX(遞四方)海外供應鏈在法國巴黎和德國曼海姆開設兩座新倉，支援大件儲存和本地配送，首櫃貨物均已入倉。今年4月起，菜鳥在歐洲已新開7座新倉，分佈在荷蘭、法國、西班牙、波蘭、英國和德國，其中法國兩座。（介面新聞）
+
+---
+
+### 2026-08-20 10:55:16  #市場
+
+【摺疊屏概念震盪拉昇 科森科技漲停】摺疊屏概念盤中震盪拉昇，科森科技漲停，榮旗科技漲超15%，宜安科技、統聯精密、聯得裝備、福蓉科技等漲幅靠前。
+
+---
+
+### 2026-08-20 10:54:12  #國際
+
+【菲律賓近期惡劣天氣已致29人死亡】菲律賓國家減災委釋出訊息稱，截至8月20日上午6時，受近期颱風“白海豚”和“鯨魚”的影響，以及西南季風增強導致的降雨，菲律賓共有29人死亡，19人受傷，另有3人失蹤。受災人口超過651萬。基礎設施方面的損失超過46億比索，約合人民幣5億元，農業方面的損失超過14億比索，約合人民幣1.5億元。
+
+---
+
+### 2026-08-20 10:54:12  #MKT News
+
+GFZ reported a magnitude-5.84 earthquake in Indonesia’s Flores region.
+
+---
+
+### 2026-08-20 10:53:34  #MKT News #Market Themes #China Tech Giants #JD.O
+
+【JD.com to create 100,000+ robot maintenance-engineer jobs over next five years】At the 2026 World Robot Conference, JD.com said it will build an after-sales robot maintenance network across more than 100 countries over the next five years and create over 100,000 robot maintenance-engineer jobs, JD Logistics bulletin said.
+
+---
+
+### 2026-08-20 10:53:02  #市場
+
+棕櫚油期貨價格飆升至2024年12月以來的最高水平。
+
+---
+
+### 2026-08-20 10:52:52  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #NVDA.O #Impact bearish #MU.O #Impact bullish #000660.KS
+
+【JP Morgan: Next AI-chip bottleneck may shift to HBM allocations】JP Morgan's markets intelligence team says that as AI compute demand expands over the next few years, shipment capacity for Nvidia GPUs, Google TPUs and similar AI chips could increasingly be constrained by HBM and memory supply. Micron recently said customer demand remains materially higher than supply even at current memory prices, and vendors often meet less than half of demand. SK Hynix, Samsung and Micron control limited HBM capacity, reinforcing large buyers' long-term procurement ties; buyers who exit long-term contracts may face lower allocation priority in the next capacity crunch. HBM allocations are directly limiting how many GPUs and TPUs can be delivered.
+
+---
+
+### 2026-08-20 10:52:06  #其他
+
+【京東：未來5年將創造超10萬個機器人維修工程師就業崗位】據“京東物流黑板報”，在2026世界機器人大會（WRC 2026）舉辦之際，京東釋出機器人戰略佈局，未來5年將構建覆蓋全球超過100個國家的機器人售後維修網路，並創造超10萬個機器人維修工程師就業崗位。
+
+---
+
+### 2026-08-20 10:51:10  #央行 #澳洲聯儲
+
+【澳大利亞7月就業人數減少1.58萬人 市場預計增加1.2萬人】澳大利亞統計局資料顯示，7月就業人數減少1.58萬人，市場預計增加1.2萬人。貨幣市場目前預計，澳儲行在12月前加息的機率約為60%，低於資料公佈前的68%。
+
+---
+
+### 2026-08-20 10:51:10  #經濟數據 #澳洲
+
+【澳大利亞7月就業人數減少1.58萬人 市場預計增加1.2萬人】澳大利亞統計局資料顯示，7月就業人數減少1.58萬人，市場預計增加1.2萬人。貨幣市場目前預計，澳儲行在12月前加息的機率約為60%，低於資料公佈前的68%。
+
+---
+
+### 2026-08-20 10:50:48  #其他
+
+【《中國工運事業和工會工作“十五五”規劃》印發】從中華全國總工會獲悉，近日，全國總工會印發《中國工運事業和工會工作“十五五”規劃》。規劃是“十五五”時期推動工會工作高質量發展的指導性檔案。規劃堅持正確方向、堅持服務大局、堅持守正創新、堅持求真務實，從牢牢把握工會工作正確政治方向、加強職工群眾思想政治引領、動員激勵廣大職工群眾建功立業創新創造、推動產業工人隊伍建設改革走深走實、提升工會維權服務工作質效、用心用情用力解決重點群體急難愁盼問題、加強工會工作法治化建設、堅決維護勞動領域政治安全、健全縱橫交織覆蓋廣泛的工會組織體系、加強工會外事和港澳臺工作、深化工會改革和建設等11個方面，分領域部署“十五五”時期工會重點工作任務，並明確了大國工匠人才培育、勞模工匠創新工作室、工會就業服務、建會入會等8個方面12項具體指標。規劃對貫徹落實提出要求，強調要加強組織領導，強化宣傳引導、總結推廣，定期評估工作進展成效，以釘釘子精神抓好規劃落地實施。
 
 ---
 
@@ -19086,107 +19152,5 @@ hauser, deputy governor of the RESERVE BANK OF AUSTRALIA, said the economy will 
 ### 2026-08-19 10:45:03  #MKT News #AUDUSD #Impact bullish
 
 Reserve Bank of Australia deputy governor Hauser said he is concerned about inflation and that upside risks to inflation have increased.
-
----
-
-### 2026-08-19 10:44:52  #公司
-
-【中創新航聯合中外運完成純電卡車首發落地】據中創新航訊息，8月18日，中創新航聯合中外運，在中創新航合肥基地完成純電卡車首發落地。新一代純電貨運運力正式投入生產物流場景。本次投用的純電重卡，搭載中創新航自主研發的“至遠”商用動力電池產品，以零排放、低能耗的純電運力，全面替代傳統燃油車輛用於公司產品的廠際轉運與物流配送。
-
----
-
-### 2026-08-19 10:44:44  #其他
-
-豪澤：未看到經濟衰退，只是放緩。
-
----
-
-### 2026-08-19 10:44:27  #公司
-
-【建發股份等成立農業公司，註冊資本4500萬元】企查查APP顯示，近日，廈門鎮坤農業有限公司成立，法定代表人為吳欣欣，註冊資本為4500萬元，經營範圍包含：農副產品銷售；飼料原料銷售；豆及薯類銷售；穀物銷售；食用農產品批發；畜牧漁業飼料銷售等。企查查股權穿透顯示，該公司由廈門鎮海供應鏈管理有限公司、建發股份旗下廈門建發物產農業有限公司共同持股。
-
----
-
-### 2026-08-19 10:44:23  #公司
-
-【上海張江高新技術產業開發區發展“十五五”規劃：支援符合標準的優質科技企業登陸科創板上市融資】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，完善科技投融資體系，強化專業化天使投資服務平臺功能，最佳化早期投資生態。健全創業投資退出渠道，大力佈局私募股權二級市場基金（S基金）、併購基金。支援打造股權投資集聚區。支援符合標準的優質科技企業登陸科創板上市融資。鼓勵企業利用併購貸款試點政策實施產業鏈併購，用好科技創新和技術改造再貸款等結構性貨幣政策。鼓勵科技企業發行創新創業公司債，投資機構發行科技創新債。推動金融科技產業融合示範區域建設。鼓勵民資、外資等各類社會資本參與園區建設與產業創新。
-
----
-
-### 2026-08-19 10:44:19  #MKT News #AUDUSD #Impact bullish
-
-hauser, deputy governor at the Reserve Bank of Australia, said monetary policy must reduce inflation, which requires cutting demand in the economy.
-
----
-
-### 2026-08-19 10:44:16  #其他
-
-豪澤：澳大利亞面臨產能過剩壓力。
-
----
-
-### 2026-08-19 10:43:52  #MKT News
-
-Indonesia's benchmark stock index turned positive intraday.
-
----
-
-### 2026-08-19 10:43:46  #宏觀
-
-【國臺辦：對充當“臺獨”打手幫兇迫害陸配的人 將依法終身追責】國務院臺辦舉行例行新聞釋出會。有記者問：近日，民眾黨新住民委員會前主委、陸配徐春鶯涉所謂“違反‘反滲透法’”等罪，被判刑7年。臺灣地區內部事務主管部門聲稱正在辦理撤銷或廢止其在臺定居或永久居留資格。請問對此有何評論?發言人朱鳳蓮表示，徐春鶯案近日才宣判，但是大家看到民進黨的一些政客卻早在數個月之前就已經公然宣稱要在其服刑結束後將其強制遣送出境，這充分說明陸配被以所謂的安全理由起訴，完全是民進黨當局先射箭再畫靶的司法迫害。其羅列的所謂罪狀完全是欲加之罪，何患無辭。臺灣地區所謂的司法已經成為民進黨當局搞恐怖政治、綠色獨裁的工具。我們堅決反對民進黨當局以任何的形式迫害大陸配偶，支援兩岸婚姻家庭團結起來，維護自身的權益。希望廣大臺灣同胞反對民進黨當局的惡行，對充當“臺獨”打手幫兇，迫害陸配的人，我們將依法終身追責，絕不寬待。
-
----
-
-### 2026-08-19 10:43:33  #其他
-
-澳大利亞儲備銀行副行長豪澤：通脹水平仍然過高。
-
----
-
-### 2026-08-19 10:43:26  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
-
-Reserve Bank of Australia deputy governor hauser says inflation is too high.
-
----
-
-### 2026-08-19 10:43:10  #公司
-
-【Momenta、XHEART與QNX宣佈合作共建全球安全標準自動駕駛平臺】8月19日訊息，Momenta近日與新芯航途（XHEART）、BlackBerry有限公司旗下QNX業務部門宣佈，將共同建造面向量產的全球安全標準自動駕駛平臺。此次合作中，Momenta提供全棧自動駕駛演算法能力，新芯航途提供車規級SoC（系統級晶片）X7，QNX則提供基於QNX® SDP 8.0的安全作業系統。
-
----
-
-### 2026-08-19 10:43:01  #市場 #國際
-
-印尼基準股指逆轉走勢，最新上漲0.3%。
-
----
-
-### 2026-08-19 10:42:38  #其他
-
-天孚通訊成交額達100億元，現跌3.37%。
-
----
-
-### 2026-08-19 10:42:34  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-U.S. Trade Representative Greer said the agreement with Canada will include full market access for all U.S. goods, commitments on economic security and alignment on digital trade.
-
----
-
-### 2026-08-19 10:42:00  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：增強聚變裝置/堆總體設計能力 推進共性技術專用材料裝置研製與衍生技術應用】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，圍繞託卡馬克等裝置，強化高溫超導強場磁體、全域智慧控制、高重頻鐳射器等關鍵技術攻關。探索多元技術路線，增強聚變裝置/堆總體設計能力，推進共性技術專用材料裝置研製與衍生技術應用。建設共性技術研發服務平臺，推動科研設施與試驗能力共享。支援臨港園構建全產業鏈核聚變產業生態，閔行園探索“核心研發+配套製造+服務支撐”的商業化應用模式。
-
----
-
-### 2026-08-19 10:41:39  #國際
-
-美國貿易代表格里爾表示：與加拿大達成的協議將涵蓋所有美國商品的全面市場準入、經濟安全承諾以及數字貿易規則對接。
-
----
-
-### 2026-08-19 10:40:59  #Trading Economics #Markets #Philippines #Currency #Importance 1
-
-Philippine Peso Hits New All-Time Low — The Philippine peso weakened past 61.8 per dollar, hitting a new all-time low as rising oil prices put renewed pressure on the currency. The peso surpassed the previous record low of 61.850 set in July, as Brent crude jumped more than 5% over the past four days amid renewed Middle East tensions and concerns over energy supplies. The Philippines is particularly vulnerable to higher oil prices as it imports almost all of its oil requirements, raising the risk of stronger inflationary pressures. The Bangko Sentral ng Pilipinas has already raised its policy rate to 4.75% and intervened in the foreign-exchange market, but continued oil gains and elevated global bond yields could keep pressure on the currency. President Ferdinand Marcos Jr. also indicated that they will not use all of the country’s reserves to defend the peso. The currency has now lost more than 5% this year, ranking among Asia’s weakest performers, while foreign-exchange reserves have fallen nearly 7% to $103 billion.
 
 ---

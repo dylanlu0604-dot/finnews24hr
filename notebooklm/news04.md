@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 19:16:04_
-_本檔包含 3159 則快訊，約 638812 字_
+_更新時間：2026-08-23 19:49:17_
+_本檔包含 3166 則快訊，約 638858 字_
+
+---
+
+### 2026-08-19 10:44:52  #公司
+
+【中創新航聯合中外運完成純電卡車首發落地】據中創新航訊息，8月18日，中創新航聯合中外運，在中創新航合肥基地完成純電卡車首發落地。新一代純電貨運運力正式投入生產物流場景。本次投用的純電重卡，搭載中創新航自主研發的“至遠”商用動力電池產品，以零排放、低能耗的純電運力，全面替代傳統燃油車輛用於公司產品的廠際轉運與物流配送。
+
+---
+
+### 2026-08-19 10:44:44  #其他
+
+豪澤：未看到經濟衰退，只是放緩。
+
+---
+
+### 2026-08-19 10:44:27  #公司
+
+【建發股份等成立農業公司，註冊資本4500萬元】企查查APP顯示，近日，廈門鎮坤農業有限公司成立，法定代表人為吳欣欣，註冊資本為4500萬元，經營範圍包含：農副產品銷售；飼料原料銷售；豆及薯類銷售；穀物銷售；食用農產品批發；畜牧漁業飼料銷售等。企查查股權穿透顯示，該公司由廈門鎮海供應鏈管理有限公司、建發股份旗下廈門建發物產農業有限公司共同持股。
+
+---
+
+### 2026-08-19 10:44:23  #公司
+
+【上海張江高新技術產業開發區發展“十五五”規劃：支援符合標準的優質科技企業登陸科創板上市融資】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，完善科技投融資體系，強化專業化天使投資服務平臺功能，最佳化早期投資生態。健全創業投資退出渠道，大力佈局私募股權二級市場基金（S基金）、併購基金。支援打造股權投資集聚區。支援符合標準的優質科技企業登陸科創板上市融資。鼓勵企業利用併購貸款試點政策實施產業鏈併購，用好科技創新和技術改造再貸款等結構性貨幣政策。鼓勵科技企業發行創新創業公司債，投資機構發行科技創新債。推動金融科技產業融合示範區域建設。鼓勵民資、外資等各類社會資本參與園區建設與產業創新。
+
+---
+
+### 2026-08-19 10:44:19  #MKT News #AUDUSD #Impact bullish
+
+hauser, deputy governor at the Reserve Bank of Australia, said monetary policy must reduce inflation, which requires cutting demand in the economy.
+
+---
+
+### 2026-08-19 10:44:16  #其他
+
+豪澤：澳大利亞面臨產能過剩壓力。
+
+---
+
+### 2026-08-19 10:43:52  #MKT News
+
+Indonesia's benchmark stock index turned positive intraday.
+
+---
+
+### 2026-08-19 10:43:46  #宏觀
+
+【國臺辦：對充當“臺獨”打手幫兇迫害陸配的人 將依法終身追責】國務院臺辦舉行例行新聞釋出會。有記者問：近日，民眾黨新住民委員會前主委、陸配徐春鶯涉所謂“違反‘反滲透法’”等罪，被判刑7年。臺灣地區內部事務主管部門聲稱正在辦理撤銷或廢止其在臺定居或永久居留資格。請問對此有何評論?發言人朱鳳蓮表示，徐春鶯案近日才宣判，但是大家看到民進黨的一些政客卻早在數個月之前就已經公然宣稱要在其服刑結束後將其強制遣送出境，這充分說明陸配被以所謂的安全理由起訴，完全是民進黨當局先射箭再畫靶的司法迫害。其羅列的所謂罪狀完全是欲加之罪，何患無辭。臺灣地區所謂的司法已經成為民進黨當局搞恐怖政治、綠色獨裁的工具。我們堅決反對民進黨當局以任何的形式迫害大陸配偶，支援兩岸婚姻家庭團結起來，維護自身的權益。希望廣大臺灣同胞反對民進黨當局的惡行，對充當“臺獨”打手幫兇，迫害陸配的人，我們將依法終身追責，絕不寬待。
+
+---
+
+### 2026-08-19 10:43:33  #其他
+
+澳大利亞儲備銀行副行長豪澤：通脹水平仍然過高。
+
+---
+
+### 2026-08-19 10:43:26  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
+
+Reserve Bank of Australia deputy governor hauser says inflation is too high.
+
+---
+
+### 2026-08-19 10:43:10  #公司
+
+【Momenta、XHEART與QNX宣佈合作共建全球安全標準自動駕駛平臺】8月19日訊息，Momenta近日與新芯航途（XHEART）、BlackBerry有限公司旗下QNX業務部門宣佈，將共同建造面向量產的全球安全標準自動駕駛平臺。此次合作中，Momenta提供全棧自動駕駛演算法能力，新芯航途提供車規級SoC（系統級晶片）X7，QNX則提供基於QNX® SDP 8.0的安全作業系統。
+
+---
+
+### 2026-08-19 10:43:01  #市場 #國際
+
+印尼基準股指逆轉走勢，最新上漲0.3%。
+
+---
+
+### 2026-08-19 10:42:38  #其他
+
+天孚通訊成交額達100億元，現跌3.37%。
+
+---
+
+### 2026-08-19 10:42:34  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+U.S. Trade Representative Greer said the agreement with Canada will include full market access for all U.S. goods, commitments on economic security and alignment on digital trade.
+
+---
+
+### 2026-08-19 10:42:00  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：增強聚變裝置/堆總體設計能力 推進共性技術專用材料裝置研製與衍生技術應用】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，圍繞託卡馬克等裝置，強化高溫超導強場磁體、全域智慧控制、高重頻鐳射器等關鍵技術攻關。探索多元技術路線，增強聚變裝置/堆總體設計能力，推進共性技術專用材料裝置研製與衍生技術應用。建設共性技術研發服務平臺，推動科研設施與試驗能力共享。支援臨港園構建全產業鏈核聚變產業生態，閔行園探索“核心研發+配套製造+服務支撐”的商業化應用模式。
+
+---
+
+### 2026-08-19 10:41:39  #國際
+
+美國貿易代表格里爾表示：與加拿大達成的協議將涵蓋所有美國商品的全面市場準入、經濟安全承諾以及數字貿易規則對接。
+
+---
+
+### 2026-08-19 10:40:59  #Trading Economics #Markets #Philippines #Currency #Importance 1
+
+Philippine Peso Hits New All-Time Low — The Philippine peso weakened past 61.8 per dollar, hitting a new all-time low as rising oil prices put renewed pressure on the currency. The peso surpassed the previous record low of 61.850 set in July, as Brent crude jumped more than 5% over the past four days amid renewed Middle East tensions and concerns over energy supplies. The Philippines is particularly vulnerable to higher oil prices as it imports almost all of its oil requirements, raising the risk of stronger inflationary pressures. The Bangko Sentral ng Pilipinas has already raised its policy rate to 4.75% and intervened in the foreign-exchange market, but continued oil gains and elevated global bond yields could keep pressure on the currency. President Ferdinand Marcos Jr. also indicated that they will not use all of the country’s reserves to defend the peso. The currency has now lost more than 5% this year, ranking among Asia’s weakest performers, while foreign-exchange reserves have fallen nearly 7% to $103 billion.
 
 ---
 
@@ -19009,65 +19111,5 @@ Oil Extends Gains as Peace Prospects Dim — Crude oil climbed toward $85 per ba
 ### 2026-08-18 07:28:35  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
 
 【BHP FY underlying profit up 30% as copper strength boosts earnings】BHP said underlying profit for the year to June rose 30% to $13.2bn, beating analysts, as higher commodity prices—notably record-high copper—lifted earnings. Copper revenue exceeded iron ore revenue for the first time. The group declared a final dividend of $0.99 per share, implying a 72% payout ratio. BHP projects global copper demand will rise from about 34 mln tonnes today to 50 mln t by 2050, but said copper output at its Chile operations is falling due to grade decline and ageing mines, forcing billions of dollars of sustaining capital to maintain production.
-
----
-
-### 2026-08-18 07:26:15  #央行
-
-【專家料隔夜逆回購有可能成中國央行短期流動性核心政策工具】東方金誠首席宏觀分析師王青對記者表示，近幾個交易日7天期逆回購操作量均為零，且於8月中旬開展隔夜逆回購操作，都表明當前中國人民銀行對市場利率的調控更加精準。這意味著後期市場利率執行會更加平穩；同時，這也意味著未來隔夜逆回購有可能逐步替代7天期逆回購，成為中國人民銀行短期流動性調節的核心政策工具。（證券日報）
-
----
-
-### 2026-08-18 07:25:48  #MKT News
-
-【European banks commit £300m to Scottish data centre】DataVita has secured £300m (about $407m) from ING, ABN AMRO and other European banks to expand an existing Scottish data centre and build a new facility. The UK government guaranteed 80% of a £252m tranche provided by the two Dutch banks and Banco Santander; the remainder is unsecured financing from the Scottish National Investment Bank and Siemens Financial Services. Dell will relocate its Scotland headquarters to the site. The investment is being cited as a key signal of a revival for the UK’s AI growth zones under new Prime Minister Burnham; the zones were a central plank of the previous Labour government’s AI policy under Starmer.
-
----
-
-### 2026-08-18 07:25:04  #公司 #市場
-
-【滾動市盈率相對較低的腦機介面概念股梳理】近日，腦機介面技術在國內醫療領域密集落地，多項臨床突破接連公佈。A股市場佈局腦機介面的上市公司超30家。麥瀾德圍繞AI與非侵入式腦機介面技術的融合開展研發，初步構建了基於“腦訊號採集—智慧解析—狀態識別—閉環反饋”的技術體系。美好醫療在腦機介面領域已協助客戶實現從實驗室研發到批次出貨的商業化轉化，相關元件產品已進入小批次供貨階段。偉思醫療在腦機介面領域聚焦“非侵入式”技術路線，致力於構建“診斷—治療—康復”的全週期閉環體系。二級市場方面，據證券時報·資料寶統計，截至8月17日收盤，腦機介面概念股今年以來平均下跌8.55%，跑輸同期上證指數。4只概念股累計漲幅超10%，分別為盛視科技、盈趣科技、達瑞電子、博拓生物。
-
----
-
-### 2026-08-18 07:23:33  #市場
-
-【上半年業績翻倍的人形機器人概念股一覽】8月17日，人形機器人概念股持續走高。8月以來人形機器人概念股平均上漲10.99%，多股漲超40%。近期，行業迎來多重利好催化，機構加緊調研產業鏈個股，一批績優概念股獲得主力資金集中加倉。訊息面上，8月19日至23日，2026世界機器人大會將在北京舉行。宇樹科技董事長王興興將亮相主論壇，展望人形機器人產業的下一個十年。目前40餘隻人形機器人概念股釋出上半年業績資料，綜合業績預告下限、快報和半年報來看，江蘇北人、航天智裝扭虧。埃斯頓、凱爾達、昊志機電、拓斯達等10只概念股的淨利潤同比均翻倍。8月17日多隻人形機器人概念股獲得主力加倉，其中寧德時代、埃斯頓、比亞迪、全志科技、領益智造等9股的主力資金淨流入額超億元。11只績優人形機器人概念股獲得主力資金淨流入，包含埃斯頓、昊志機電、拓斯達、全志科技、東方鋯業等股。
-
----
-
-### 2026-08-18 07:23:10  #公司
-
-【特斯拉據悉準備8月面向公眾推出CyberCab】媒體援引知情人士報道稱，特斯拉已告知員工正為Cybercab面向公眾推出做準備。這是特斯拉首款沒有方向盤和剎車踏板的車型。報道稱，特斯拉計劃首先在德克薩斯州奧斯汀向公眾推出Cybercab，最快可能本月啟動。近幾周，公司一直在為推出Cybercab做準備，包括開展試駕、在私人道路上安排員工乘坐，並與當地急救人員進行相關培訓。特斯拉已告知員工，計劃先讓員工在公共道路上乘坐Cybercab，隨後在數日內將這款車納入奧斯汀的Robotaxi服務。報道稱，特斯拉目前內部目標是在8月底前面向公眾推出Cybercab，時間表仍可能調整。
-
----
-
-### 2026-08-18 07:21:43  #公司
-
-【銀行理財市場規模再攀新高 中小銀行自營理財卻加速退場】銀行理財市場規模再攀新高之際，中小銀行自營理財卻在加速退場。近日，證券時報記者從業內可信渠道彙總的獨家資料顯示，管理規模超1萬億元的14家理財公司，今年前7個月淨增規模達1.7萬億元。在此基礎上，當前銀行理財市場規模站穩了35萬億元大關，再次創下新高。與行業總量連創新高形成鮮明反差的是，未獲理財公司牌照的中小銀行，自營理財規模卻持續收縮。證券時報記者梳理2026年銀行理財業務半年報發現，已披露自營理財資料的65家中小銀行中，多達58家銀行的存續規模同比下降，合計壓降1722.67億元，部分銀行自營理財已逼近“清零”。
-
----
-
-### 2026-08-18 07:21:03  #公司
-
-【行業景氣度上行 鋰電隔膜行業龍頭密集報喜】隨著下游動力電池與儲能需求持續放量，歷經深度價格調整的鋰電隔膜行業在2026年上半年迎來全面回暖。已披露的半年報及業績預告顯示，今年上半年恩捷股份扭虧為盈，中材科技隔膜業務淨利潤同比增長近20倍，滄州明珠、佛塑科技淨利潤大幅預增。在儲能電池出貨量接近翻倍的帶動下，隔膜行業量價齊升、盈利中樞系統性抬升，行業景氣上行週期正獲得業績驗證。
-
----
-
-### 2026-08-18 07:19:08  #公司
-
-【儲存與邏輯晶片迭代升級 CMP市場迎來新風口】隨著半年報陸續釋出，以鼎龍股份為代表的國內CMP（化學機械拋光）公司成績單引人關注。長鑫科技的上市，更讓儲存晶片技術路線轉型的信心倍增。CMP作為積體電路製造的關鍵工藝之一，正站在新風口。記者調研獲悉，晶圓製造向高密度、三維化演進，直接拉動了拋光步驟和耗材更換頻率，CMP材料的市場彈性大幅釋放。在本土供應鏈需求增長和國產替代浪潮的雙重驅動下，這一關鍵工藝環節正迎來前所未有的發展良機。（上海證券報）
-
----
-
-### 2026-08-18 07:18:19  #公司 #市場
-
-【A股中期分紅熱度攀升 千億元真金白銀回饋投資者】Wind資料顯示，截至8月17日17時，A股共有124家上市公司釋出現金分紅的2026年半年度利潤分配方案，合計擬派發現金紅利1018.85億元（含稅）。其中，中國移動以擬派現544.26億元（含稅）的金額高居榜首，寧德時代、海康威視緊隨其後，擬派現金額均超50億元（含稅）。從行業看，化工板塊最為踴躍，機械裝置、電子等緊隨其後。整體看，上市公司回報股東意願顯著增強，現金分紅意願較強。（中國證券報）
-
----
-
-### 2026-08-18 07:18:13  #公司 #市場
-
-【必和必拓基礎利潤大漲30%，受益於銅價與鐵礦石產量】受大宗商品價格向好提振盈利，必和必拓集團利潤大漲近三分之一，全年銅業務營收首次超過鐵礦石業務。這家全球最大礦業企業表示，截至6月的過去12個月，基礎利潤攀升至132億美元，同比增長30%，高於分析師預期。公司於週二公告檔案中披露，將派發末期股息99美分，派息率72%。報告期內銅價飆升至歷史高位；必和必拓另一核心產品鐵礦石依舊保持強勢。執行長布蘭登・克雷格在宣告中表示：“生產運營穩定性疊加高企的產品價格，推動盈利大幅提升。銅是驅動必和必拓增長的引擎。”必和必拓預測，全球銅需求將從當前約3400萬噸/年，在2050年增至5000萬噸/年。
 
 ---
