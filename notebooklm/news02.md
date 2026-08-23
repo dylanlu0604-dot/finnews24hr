@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:47:24_
-_本檔包含 3306 則快訊，約 632432 字_
+_更新時間：2026-08-24 06:34:46_
+_本檔包含 3310 則快訊，約 633023 字_
+
+---
+
+### 2026-08-21 11:32:35  #公司
+
+【憶月啟函儲存晶片研發專案落地海口】據海口日報，近日，憶月啟函（YiMoon科技）旗下的儲存晶片研發主體——憶芯存（海南）科技有限公司正式落地海口綜保區。據悉，該專案將依託海南自貿港政策優勢，專注開展NAND/DRAM儲存晶片定製化研發方案交付與相關運營業務。
+
+---
+
+### 2026-08-21 11:31:22  #MKT News #Market Regions #Greater China
+
+【China government bond futures morning close】China government bond futures at morning close: 2-year (TS) main contract -0.01%, 5-year (TF) main contract -0.02%, 10-year (T) main contract -0.03%, 30-year (TL) main contract -0.03%.
+
+---
+
+### 2026-08-21 11:31:20  #MKT News #Market Regions #Greater China #IF #Impact bullish #IH #IC #Impact bearish
+
+【Equity index futures morning session close】China equity index futures morning session close: CSI 300 futures (IF) lead contract +0.69%; SSE 50 futures (IH) lead contract +0.36%; CSI 500 futures (IC) lead contract -0.06%; CSI 1000 futures (IM) lead contract unchanged.
+
+---
+
+### 2026-08-21 11:31:17  #宏觀
+
+【財政部：推進存量稅收優惠政策清理規範，抓好地方財政補貼負面清單管理機制落地見效】8月21日，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，財政部副部長廖岷在會上強調，下一步，財政部門將紮實推進存量稅收優惠政策的清理規範，抓好地方財政補貼負面清單管理機制的落地見效，持續深化政府採購市場秩序的整治，為構建高效規範、公平競爭、充分開放的大市場貢獻財政的力量。（澎湃新聞）
+
+---
+
+### 2026-08-21 11:31:03  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #WTI #Impact bullish
+
+At the morning close, China’s front-month futures were mostly higher. Container shipping — Europe route — led gains, up nearly 9%; Shanghai silver rose over 4%. Platinum and lithium carbonate each gained more than 3%; pulp rose about 3%. Polysilicon, palladium and fuel oil advanced over 2%. On the downside, rapeseed meal and rapeseed oil fell nearly 2%; apples, Soybean No.1, stainless steel (SS), red dates and PVC were down more than 1%.
+
+---
+
+### 2026-08-21 11:30:04  #市場
+
+【商品期貨早盤收盤】集運指數歐線期貨連續漲8.96%，白銀連續漲4.07%，碳酸鋰連續漲3.61%，鉑連續漲3.58%，線材連續漲2.89%，紙漿連續漲2.83%，多晶矽連續漲2.28%，燃料油連續漲2.04%，液化石油氣連續漲2.03%。
+
+---
+
+### 2026-08-21 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約跌0.03%， 10年期主力合約漲0.02%， 5年期主力合約基本持平， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-08-21 11:30:02  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續基本持平， 滬深300指數期貨連續漲0.69%， 中證500指數期貨連續跌0.06%， 上證50指數期貨連續漲0.36%。
+
+---
+
+### 2026-08-21 11:29:56  #其他
+
+【諶貽琴在北京市調研時強調 加快建設足球青訓體系 提升競技體育後備人才培養水平】國務委員諶貽琴20日到北京市調研足球青訓體系建設工作。她強調，要深入學習貫徹習近平總書記關於體育工作的重要論述，認真落實全國足球工作會議精神，加快建設足球青訓體系，提升競技體育後備人才培養水平。（新華社）
+
+---
+
+### 2026-08-21 11:29:31  #公司
+
+【北大荒集團與中國農再座談交流】據北大荒農墾集團訊息，8月20日下午，中國農業再保險股份有限公司黨委書記、董事長李有祥一行到訪北大荒集團，與北大荒農墾集團黨委副書記、副董事長、總經理陳有方座談，雙方圍繞深化農業保險合作、農業保險資料資訊系統共建共享、提升糧食安全風險保障水平等事宜進行深入交流。
+
+---
+
+### 2026-08-21 11:28:25  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+【RBC: Japan inflation data bolster expectation of BOJ September hike】Abbas Keshvani, RBC head of Asia macro strategy, said Japan’s inflation data support expectations the Bank of Japan will raise rates in September. He said the BOJ’s July meeting language was more hawkish and markets now expect a faster tightening, pricing roughly a 20bp September hike. He added the BOJ knows disappointing markets could prompt further yen weakness.
 
 ---
 
@@ -19922,47 +19988,5 @@ Iran's Tehran governor said the province views renewable energy development as a
 ### 2026-08-20 12:20:15  #Trading Economics #Markets #Commodity #Importance 1
 
 Corn Extends Rally to 3-Month High — Corn futures climbed above $4.70 per bushel, extending their rally to the highest level since May 18, as disappointing US crop-tour results deepened concerns over tightening global corn supplies. According to the Pro Farmer Crop Tour, corn yields in Western Iowa and Illinois, the nation’s two largest corn-producing states, fell below last year’s levels. The findings followed weaker-than-expected yield estimates from four other key Midwestern states surveyed earlier in the week, with results also trailing the tour’s three-year average. Supply concerns have been amplified by adverse weather, as severe storms and extreme summer heat affected crops across the US Corn Belt. Beyond the US, Europe has endured successive heat waves, with France projected to record its smallest corn harvest since 1980. Meanwhile, ongoing attacks in the Black Sea region have disrupted grain shipments from Ukraine, further fueling concerns over global supplies.
-
----
-
-### 2026-08-20 12:18:29  #公司
-
-【石藥集團：2026年上半年公司股東應占溢利60.94億元 同比增長139.2%】石藥集團(01093.HK)在港公告，2026年上半年，本集團錄得收入185.94億元及本公司股東應占呈報溢利60.94億元，分別較去年同期增加40.1%及139.2%。撇除按公平值計入損益之金融資產之公平值變動及以股份為基礎之僱員酬金開支後，本公司股東應占基本溢利為人民幣61.64億元，較去年同期增加165.8%。每股基本盈利為人民幣53.45分，較去年同期增加139.8%。
-
----
-
-### 2026-08-20 12:14:55  #公司
-
-【正榮地產：境外重組方案條款書已送交部分債權人】正榮地產公告，公司於2026年8月20日，已將一份載有境外整體債務管理方案建議條款的條款書送交若干債權人。該條款書關鍵條款包括登出債務並全面解除相關方義務、向批准計劃安排的債權人按比例發行公司新股份等。境外重組計劃及計劃安排仍須待與債權人達成協議並達致若干先決條件後方可作實。
-
----
-
-### 2026-08-20 12:14:48  #其他
-
-【西班牙擬將500名滯留休達的未成年移民送至本土】西班牙包容、社會保障與移民大臣埃爾瑪·賽斯19日說，政府計劃將滯留在北非飛地休達的大約500名無人陪伴未成年移民送至西班牙本土。賽斯在接受採訪時說，中央政府正與休達地方政府及西班牙各自治區政府合作制定安置計劃，以便將這些兒童交由西班牙本土的兒童保護組織照料。據悉，該計劃設想由西班牙“所有地區”對未成年人進行接收，並安排他們入住寄養家庭。500人為暫定數，可能會有變動。（央視新聞）
-
----
-
-### 2026-08-20 12:14:12  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-Traders say the Reserve Bank of India may be selling dollars to defend the rupee.
-
----
-
-### 2026-08-20 12:13:20  #公司
-
-【億帆醫藥在合肥成立醫藥科技公司】企查查APP顯示，近日，合肥洹升醫藥科技有限公司成立，法定代表人為張新，經營範圍包含：健康諮詢服務（不含診療服務）；企業管理諮詢；科技中介服務；市場營銷策劃；諮詢策劃服務等。企查查股權穿透顯示，該公司由億帆醫藥間接全資持股。
-
----
-
-### 2026-08-20 12:11:42  #MKT News #02018.HK #Impact bullish
-
-【AAC Technologies 1H2026 net profit up 2.9% YoY】AAC Technologies (02018.HK) reported 1H2026 revenue at a record 14.51 bln yuan, up 8.9% YoY, led by acoustics and electromagnetic drive, automotive acoustics and thermal-management businesses. Gross margin rose to 22.4%, +170bps YoY, driven by improved product mix and higher operating efficiency. Reported net profit was 901 mln yuan, up 2.9% YoY; adjusted net profit excluding fair-value-related other gains/losses rose 37.4% YoY. Optical business revenue fell 22.7% YoY to 2.05 bln yuan, hit by lower global smartphone shipments reducing optical-module and lens volumes.
-
----
-
-### 2026-08-20 12:11:41  #其他
-
-【張永偉：本輪汽車全球化視窗期不會太長，秉持觀望態度的車企可能會錯失良機】8月20日，車百會研究院理事長、車百國際首席專家張永偉在2026新能源汽車全球合作發展論壇上表示，近年來中國汽車全球化進展迅速，海外市場看待中國汽車出海的態度變得尤為重要。其中有擁抱中國汽車的、有觀望顧慮的，但也不乏對中國汽車採取限制措施的。中國出海企業數量龐大，海外市場存在諸多不確定因素，他判斷，本輪全球化的視窗期並不會太長，秉持觀望態度的中國車企很可能會錯失良機。
 
 ---

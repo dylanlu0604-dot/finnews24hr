@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:47:24_
-_本檔包含 3133 則快訊，約 633079 字_
+_更新時間：2026-08-24 06:34:46_
+_本檔包含 3125 則快訊，約 632449 字_
+
+---
+
+### 2026-08-19 11:53:34  #其他
+
+【2026暑期檔票房破105億】據貓眼專業版資料，截至8月19日11時，2026年暑期檔（6月1日-8月31日）總票房超105億，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》分列暑期檔票房榜前三位。
+
+---
+
+### 2026-08-19 11:53:25  #公司
+
+【雙英集團登陸北交所 聚焦智慧座艙賽道】汽車座艙整體解決方案提供商雙英集團（920059.BJ）今日登陸北交所。公司繫上汽通用五菱第一大座椅供應商，深度配套比亞迪、賽力斯、理想、吉利等頭部車企，產品覆蓋問界、阿維塔等數十款主流新能源車型。2023-2025年新能源產品收入佔比從42.87%躍升至70.85%，三年複合增長率67.51%。公司擁有專利523項，模具精度達±0.002mm，具備與整車廠"三同步"開發能力。本次募資約5億元投向新能源座椅及研發中心升級，戰配比例30%，獲東風資產、重慶渝富等產業資本認購。
+
+---
+
+### 2026-08-19 11:51:56  #MKT News #Commodities #Energy #DXY #Impact bullish #Brent
+
+【Philippine peso hits record low as oil prices rise】Philippine peso fell to a record low against the dollar as rising oil prices renewed pressure on the currency. The Philippines imports almost all its oil, leaving the peso sensitive to energy-cost swings; Brent has risen over 5% in the past four days. The peso is down more than 5% YTD, making it one of Asia's weakest currencies. BNY MELLON Asia market strategist Wee Khoon Chong said PHILIPPINE C.BANK may "be inclined to hike again to defend the peso," but that the effectiveness of rate increases in stemming FX weakness is waning. Foreign exchange reserves have fallen about 7% YTD to $103.0bn.
+
+---
+
+### 2026-08-19 11:51:23  #MKT News #Market Regions #Japan & APAC
+
+Japan 5-year bond yield fell 2.5bps to 2.125%.
+
+---
+
+### 2026-08-19 11:51:11  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Nikkei 225
+
+【Pentagon confirms Ulchi Freedom Shield drills to end on 21st; scale sharply reduced】A Pentagon official on the 18th confirmed US–South Korea Ulchi Freedom Shield exercises will end on the 21st, nearly a week earlier than planned. The official said the drills were sharply scaled back on instructions from President Trump and Defense Secretary Hegseth, with live troop training reduced and some events cancelled or converted to simulations. South Korea’s Joint Chiefs said on the 19th the exercise, originally set for the 17th–27th, will end six days early on the 21st, shortening the schedule by more than half. Both sides agreed, at the US proposal, to adjust timing and scope and to cut certain joint field maneuvers; specific adjustments remain under negotiation.
+
+---
+
+### 2026-08-19 11:50:43  #市場 #國際
+
+5年期日本國債收益率<JP5YTN=JBTC>下跌2.5個基點，至2.125%。
+
+---
+
+### 2026-08-19 11:49:29  #公司
+
+【旺能環境：控股股東美欣達集團解除質押900.00萬股】旺能環境公告，公司於2026年8月19日接到大股東美欣達集團有限公司函告，其在中國工商銀行股份有限公司湖州分行質押的公司部分股份已於2026年8月18日解除質押，本次解除質押股份數量為900.00萬股。
+
+---
+
+### 2026-08-19 11:49:15  #MKT News
+
+【Henan Jan–Jul industrial value added of firms above designated size +7.5% YoY】Henan's industrial value added of firms above designated size rose 7.5% YoY in Jan–Jul. By sector, mining +3.9% YoY, manufacturing +9.3%, and electricity/heat/gas/water production and supply -1.6%. By product, output of lithium‑ion batteries +101.3%, new energy vehicles +32.9%, service robots +13.6%, and electronic components +11.8% YoY. High‑tech manufacturing value added +26.1% and industrial strategic emerging industries +12.6%; they contributed 38.3% and 40.7% of provincial above‑designated‑size industrial growth respectively. Leading industries’ value added +11.5%; electronics information +28.0% and automobiles & parts +11.2%. July industrial value added rose 6.8% YoY.
 
 ---
 
@@ -18815,103 +18863,5 @@ China is continuing its push to boost consumption in lower-tier markets, MOFCOM 
 ### 2026-08-18 09:10:54  #Trading Economics #Markets #Commodity #Importance 1
 
 Soybeans Hit 3-Week High — Soybean futures rose above $12 per bushel, hitting a three-week high as stronger soybean crushing activity and higher crude oil prices supported the market. The National Oilseed Processors Association data showed members crushed 216.647 million bushels of US soybeans in July, up 1.1% from June and 10.7% from a year earlier. However, the daily crush rate eased to 6.989 million bushels from 7.145 million a month earlier. Traders now await the Pro Farmer field tour for fresh indications on US soybean yields after the USDA lowered its official yield forecasts last week. Heavy Midwest rainfall has also raised concerns over excess moisture and crop conditions. Elsewhere, Chinese demand continued to provide support, with traders reporting that China had already purchased around 7 million metric tons of US soybeans. Meanwhile, disruptions to Russian and Ukrainian grain shipments through the Black Sea, including reduced loadings at Russian ports, added broader support to agricultural markets.
-
----
-
-### 2026-08-18 09:08:26  #MKT News
-
-South Korea's Lee said the U.S.-South Korea alliance and an independent defense capability are complementary.
-
----
-
-### 2026-08-18 09:07:40  #市場
-
-【國產算力巨頭晶片賣爆了】8月中旬，海光資訊披露成績單，1—6月，收入約91億元，淨利約18億元；尤其二季度，利潤超過11億元，創下單季盈利新高。 賣晶片的海光，搭上兩班快車：CPU重新變得重要，其恰處國產第一梯隊；DCU受益於AI推理需求爆發，其忙著跟前沿大模型實現Day0適配。 截至8月17日收盤，其股價較年初漲了28.8%，總市值超過6700億元。（21財經）
-
----
-
-### 2026-08-18 09:06:33  #MKT News
-
-South Korea's Lee said a strong national defense is the cornerstone of building an irreplaceable Korea.
-
----
-
-### 2026-08-18 09:05:53  #其他
-
-【高血壓、糖尿病等158個病種入選“同病同付”】國家醫保局、國家衛生健康委等部門昨天透露，在即將印發的DRG/DIP3.0版分組方案中，首次推薦設定基層病種。其中，DRG基層病種31個，DIP基層病種127個。未來，各地將在同一醫保統籌區內，對基層病種探索實行“同病同付”。此次31個DRG基層病種中，覆蓋了基層日常診療中最常面對的高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病等27種內科疾病和4類技術成熟、基層具備開展條件的一、二級手術。按病種分值（DIP）付費的127個病種覆蓋了呼吸、消化、迴圈、泌尿、骨骼肌肉等多個系統的常見疾病。北京市醫保局副局長顏冰表示，遴選標準首先是“適宜”。定位“常見病、多發病”，意味著受益面更廣，大量參保群眾能夠在基層滿足就醫需求。（央視）
-
----
-
-### 2026-08-18 09:04:43  #市場 #國際
-
-【日本10年期國債收益率持續走高】當地時間18日，在日本國債市場上，作為長期利率指標的新發10年期國債收益率繼續上升，一度升至2.945%。這一數值是自1996年10月以來的新高。據悉，由於中東局勢再次緊張，加之近一段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售，收益率持續上升。（央視）
-
----
-
-### 2026-08-18 09:04:31  #MKT News #Important
-
-ProFarmer, part of U.S. Farm Futures magazine, estimates Ohio corn yield at 180.18 bu/acre for the 2026 crop; its 2025 crop tour estimated 185.69 bu/acre.
-
----
-
-### 2026-08-18 09:04:18  #MKT News #Important
-
-ProFarmer, part of U.S. Farm Futures magazine, said its crop tour forecasts Ohio soybeans to average 1,197.25 pods in 2026, down from 1,287.28 pods in its 2025 tour.
-
----
-
-### 2026-08-18 09:04:12  #MKT News #Important
-
-ProFarmer, the crop‑tour unit of Farm Futures magazine, estimates South Dakota corn yields at 149.09 bu/acre for 2026 and 174.18 bu/acre for 2025.
-
----
-
-### 2026-08-18 09:04:07  #MKT News #Important
-
-Pro Farmer, part of Farm Futures magazine, estimates South Dakota soybeans will average 945.98 pods per plant in 2026, versus 1,188.45 pods per plant in its 2025 crop tour.
-
----
-
-### 2026-08-18 09:03:47  #市場
-
-【青花汾20青花郎逆勢走高 茅臺五糧液等高階名酒多數回撥 】新浪財經“酒價內參”過去24小時收集的資料顯示，8月18日中國白酒業11大單品三漲七跌一平，輸家佔據明顯上風。上漲方面，青花汾20大幅上漲7元，終端零售均價來到398元，扭轉高位短期回撥態勢，再創近一個月新高；習酒君品上漲4元至644元，三連漲後價格平近一個月最高紀錄；青花郎上漲3元至707元，繼昨日站上700元關口後繼續擴大戰果。下跌方面，飛天茅臺下跌2元，終端零售均價來到1782元，高位區間振盪行情延續；精品茅臺下跌4元至2488元，前期連續大漲的強勢結束；五糧液普五八代下跌2元至805元，自近期最高點小幅回落；五糧液1618下跌2元至821元，連續兩日自高位回撥；國窖1573下跌3元至886元，兩連陰進一步脫離月內高點；洋河夢之藍M6+下跌4元至611元，四連陽上漲行情宣告結束；古井貢古20下跌5元至532元，二連跌價格中樞溫和下移。水晶劍南春今日仍持平於405元，連續三日平盤表現平穩。
-
-今日11大單品的終端零售總價持續承壓，大盤價格重心進一步下移，如果11大單品各取一瓶整體打包售賣，今日總售價為10079元，較昨日小幅下跌8元，創近五天以來價格新低。
-
----
-
-### 2026-08-18 09:03:35  #市場 #焦點
-
-燃料油連續主力合約日內漲4%，現報3733.00元。
-
----
-
-### 2026-08-18 09:02:48  #公司
-
-【444股獲融資買入超億元，中際旭創穫買入58.47億元居首】Wind資料顯示，A股8月17日共有3838只個股獲融資資金買入，有444股買入金額超億元。其中，中際旭創、長鑫科技、兆易創新融資買入金額排名前三，分別獲買入58.47億元、42.83億元、42.34億元。從融資買入額佔當日總成交金額比重來看，有1只個股融資買入額佔比超30%。其中香溢融通、安乃達、英科再生融資買入額佔成交額比重排名前三，分別為30.24%、29.2%、27.62%。從融資淨買入金額來看，有54只個股獲融資淨買入超億元。其中，中際旭創、新易盛、長鑫科技融資淨買入金額排名前三，分別獲淨買入9.29億元、8.05億元、5.47億元。
-
----
-
-### 2026-08-18 09:02:34  #公司
-
-【冰山冷熱：公司主要研究資料中心液冷的冷源部分 部分產品已經小批次交付】冰山冷熱(000530)在互動平臺表示，公司主要研究資料中心液冷的冷源部分，現在著重研發的冷源有：乾冷器、氟泵系統、冷水系統，部分產品已經小批次交付。冷水系統方面，公司積極推進磁懸浮冷水機組的研發，開發過程存在不確定性，可以投入商用時間暫不確定。
-
----
-
-### 2026-08-18 09:02:32  #市場
-
-新加坡海峽時報指數下跌1%，至5710.73。
-
----
-
-### 2026-08-18 09:01:52  #其他
-
-【田灣核電7號機組裝料完成 進入帶核除錯階段】8月18日，隨著堆芯裝載正確性核查完成、保護管元件回裝工作開始，位於江蘇連雲港的田灣核電7號機組首次核燃料裝載工作圓滿結束，進入帶核除錯階段，為機組後續反應堆臨界、併網發電、商運等奠定了堅實的基礎。
-
----
-
-### 2026-08-18 09:01:49  #MKT News #Commodities #Energy
-
-【Tianwan unit 7 completes fuel loading, enters fueled commissioning】Aug. 18 — Tianwan nuclear plant unit 7 in Lianyungang, Jiangsu completed initial fuel loading and has entered fueled commissioning, advancing toward reactor criticality, grid connection and commercial operation. Units 7 and 8 under construction are 1.265 GW each with a 60‑year design life; the project targets commercial operation in 2026 and 2027 respectively. Tianwan plans eight units in total; units 1–6 are already operational and have supplied over 500 billion kWh. With all eight online, total capacity will exceed 9 GW, annual output about 70 billion kWh and CO2 emissions would be cut by roughly 57.4 million tonnes per year.
 
 ---

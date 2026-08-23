@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:47:24_
-_本檔包含 3247 則快訊，約 632898 字_
+_更新時間：2026-08-24 06:34:46_
+_本檔包含 3261 則快訊，約 632170 字_
+
+---
+
+### 2026-08-24 06:32:14  #國際
+
+SHEIN：正積極配合美國聯邦貿易委員會針對美國業務運營的調查。
+
+---
+
+### 2026-08-24 06:31:03  #宏觀
+
+美財政部長貝森特：將於24日正式對外公佈對伊“前所未有的經濟孤立”措施的具體行動內容。
+
+---
+
+### 2026-08-24 06:30:38  #其他
+
+國藥控股：上半年毛利率6.74％。
+
+---
+
+### 2026-08-24 06:30:18  #其他
+
+國藥控股：上半年營收2,828億元人民幣，上半年營業利潤71.5億元人民幣，上半年淨利潤34.0億元人民幣。
+
+---
+
+### 2026-08-24 06:28:09  #公司
+
+SHEIN：將繼續審視並考慮將董事長與執行長職責分離。
+
+---
+
+### 2026-08-24 06:25:23  #公司
+
+SHEIN：全球發行後，執行長許仰天將持有並控制總計7.99億股A類股份及4.871億股B類股份。
+
+---
+
+### 2026-08-24 06:23:33  #其他
+
+SHEIN：約40%的所得款項淨額（約52.49億港元）預計將用於提升品牌知名度及強化全球佈局。
+
+---
+
+### 2026-08-24 06:23:22  #其他
+
+SHEIN：約40%的所得款項淨額（約52.49億港元）預計將用於提升技術能力。
+
+---
+
+### 2026-08-24 06:23:02  #其他
+
+SHEIN：估計將從全球發售中獲得約131.23億港元的淨收益。
+
+---
+
+### 2026-08-24 06:22:09  #國際
+
+俄羅斯南部斯塔夫羅波爾地區州長稱，俄方正在擊退對涅溫諾梅斯克工業區發動的無人機襲擊。
+
+---
+
+### 2026-08-24 06:21:47  #宏觀 #國際
+
+【美欲打空前經濟戰 伊朗亮出“石油出口反制牌”】美國總統特朗普宣佈將對伊朗實施“史無前例”的經濟戰後，美財政部長貝森特證實，將於24日正式對外公佈對伊“前所未有的經濟孤立”措施的具體行動內容。伊朗方面則在23日亮出了“石油出口反制牌”：若美打經濟戰，霍爾木茲海峽乃至波斯灣地區將再無石油出口。當前，距離美方公佈制裁詳情的時間已不足24小時。輿論普遍認為，這是美國在目前美伊之間戰事拖延、談判亦無果現實下的無奈之舉。儘管具體舉措還未公佈，已有分析認為此番行動恐最終走向“多輸”局面。（央視新聞）
+
+---
+
+### 2026-08-24 06:14:50  #國際
+
+【美軍稱在中東地區海域開展艦艇補給作業】當地時間8月23日，美國中央司令部稱，美國海軍一架MH-60S“海鷹”直升機在中東地區海域為“拳師”號兩棲攻擊艦執行垂直補給任務，物資由“北極”號快速戰鬥支援艦提供。
+
+---
+
+### 2026-08-24 06:13:26  #其他
+
+SHEIN：聯席賬簿管理人和聯席牽頭經辦人包括滙豐銀行和美銀證券。
+
+---
+
+### 2026-08-24 06:10:20  #觀點
+
+SHEIN：聯席保薦人、保薦人兼整體協調人、聯席全球協調人包括高盛、摩根士丹利、摩根大通。
+
+---
+
+### 2026-08-24 06:09:20  #其他
+
+SHEIN：香港公開發售期將於8月24日上午9時開始，並於8月27日中午12時結束。
+
+---
+
+### 2026-08-24 06:09:01  #宏觀 #市場 #焦點 #國際
+
+【標普500期貨與原油下挫，黃金走高】週一盤初，美國股指期貨與原油價格走弱，投資者靜待美國針對伊朗出臺經濟措施的更多細節。一則有關英偉達上調部分AI晶片價格的報道，可能給納指期貨帶來壓力；阿里巴巴正透過港股配售進行融資。美債期貨走勢平穩，比特幣站穩77000美元上方。受美加貿易風險衝擊，加元在G10貨幣中表現墊底。
+
+---
+
+### 2026-08-24 06:08:03  #公司
+
+SHEIN香港IPO擬發行約2.8億股股份。
+
+---
+
+### 2026-08-24 06:01:11  #市場 #焦點
+
+現貨黃金突破4620美元/盎司，日內漲0.41%。
+
+---
+
+### 2026-08-24 06:00:46  #市場 #焦點
+
+紐約期金突破4680美元/盎司，日內跌0.02%。
+
+---
+
+### 2026-08-24 06:00:27  #其他
+
+中央氣象臺8月24日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-08-24 05:55:14  #國際
+
+【為緩和緊張局勢 敘過渡政府外長會見以色列摩薩德局長】據以色列第12頻道23日報道，知情人士透露，敘利亞過渡政府外長希巴尼當天與以色列情報和特勤局（摩薩德）局長戈夫曼舉行會面。報道稱此次會面“效果良好”，旨在平息兩國之間的緊張局勢。此前，以軍18日曾對位於敘利亞西北部伊德利卜省的阿布祖胡爾空軍基地實施空襲，敘利亞過渡政府外交部對此強烈譴責，稱這是“毫無正當理由的侵略行徑”。（央視新聞）
+
+---
+
+### 2026-08-24 05:53:47  #國際
+
+日本每日新聞民調：日本高市內閣支援率41%。
+
+---
+
+### 2026-08-24 05:51:49  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為59.0%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.0%，累計加息25個基點的機率為41.0%。美聯儲到10月維持利率不變的機率為46.6%，累計加息25個基點的機率為44.8%，累計加息50個基點的機率為8.6%
+
+---
+
+### 2026-08-24 05:51:03  #公司
+
+SHEIN給出香港IPO發行價區間：每股47.6‑49.5港元；公司預計9月1日於港股開始交易。
+
+---
+
+### 2026-08-24 05:47:46  #國際
+
+日本讀賣民調：日本高市內閣支援率56%。
 
 ---
 
@@ -19532,71 +19682,5 @@ South Korean Won Extends Gains to 11-Month High — The South Korean won traded 
 ### 2026-08-21 11:33:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【US-Iran talks stall; Strait of Hormuz transits drop to 7 from 14】With US-Iran peace talks stalled and regional security deteriorating, Kpler preliminary data show 7 vessels transited the Strait of Hormuz on Thursday versus 14 on Wednesday — 4 inbound, 3 outbound. No VLCCs or LNG carriers transited; one VLGC carrying propane and butane exited via an Iran-linked route.
-
----
-
-### 2026-08-21 11:32:35  #公司
-
-【憶月啟函儲存晶片研發專案落地海口】據海口日報，近日，憶月啟函（YiMoon科技）旗下的儲存晶片研發主體——憶芯存（海南）科技有限公司正式落地海口綜保區。據悉，該專案將依託海南自貿港政策優勢，專注開展NAND/DRAM儲存晶片定製化研發方案交付與相關運營業務。
-
----
-
-### 2026-08-21 11:31:22  #MKT News #Market Regions #Greater China
-
-【China government bond futures morning close】China government bond futures at morning close: 2-year (TS) main contract -0.01%, 5-year (TF) main contract -0.02%, 10-year (T) main contract -0.03%, 30-year (TL) main contract -0.03%.
-
----
-
-### 2026-08-21 11:31:20  #MKT News #Market Regions #Greater China #IF #Impact bullish #IH #IC #Impact bearish
-
-【Equity index futures morning session close】China equity index futures morning session close: CSI 300 futures (IF) lead contract +0.69%; SSE 50 futures (IH) lead contract +0.36%; CSI 500 futures (IC) lead contract -0.06%; CSI 1000 futures (IM) lead contract unchanged.
-
----
-
-### 2026-08-21 11:31:17  #宏觀
-
-【財政部：推進存量稅收優惠政策清理規範，抓好地方財政補貼負面清單管理機制落地見效】8月21日，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，財政部副部長廖岷在會上強調，下一步，財政部門將紮實推進存量稅收優惠政策的清理規範，抓好地方財政補貼負面清單管理機制的落地見效，持續深化政府採購市場秩序的整治，為構建高效規範、公平競爭、充分開放的大市場貢獻財政的力量。（澎湃新聞）
-
----
-
-### 2026-08-21 11:31:03  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #WTI #Impact bullish
-
-At the morning close, China’s front-month futures were mostly higher. Container shipping — Europe route — led gains, up nearly 9%; Shanghai silver rose over 4%. Platinum and lithium carbonate each gained more than 3%; pulp rose about 3%. Polysilicon, palladium and fuel oil advanced over 2%. On the downside, rapeseed meal and rapeseed oil fell nearly 2%; apples, Soybean No.1, stainless steel (SS), red dates and PVC were down more than 1%.
-
----
-
-### 2026-08-21 11:30:04  #市場
-
-【商品期貨早盤收盤】集運指數歐線期貨連續漲8.96%，白銀連續漲4.07%，碳酸鋰連續漲3.61%，鉑連續漲3.58%，線材連續漲2.89%，紙漿連續漲2.83%，多晶矽連續漲2.28%，燃料油連續漲2.04%，液化石油氣連續漲2.03%。
-
----
-
-### 2026-08-21 11:30:03  #市場
-
-【國債期貨早盤收盤】 30年期主力合約跌0.03%， 10年期主力合約漲0.02%， 5年期主力合約基本持平， 2年期主力合約跌0.01%。
-
----
-
-### 2026-08-21 11:30:02  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續基本持平， 滬深300指數期貨連續漲0.69%， 中證500指數期貨連續跌0.06%， 上證50指數期貨連續漲0.36%。
-
----
-
-### 2026-08-21 11:29:56  #其他
-
-【諶貽琴在北京市調研時強調 加快建設足球青訓體系 提升競技體育後備人才培養水平】國務委員諶貽琴20日到北京市調研足球青訓體系建設工作。她強調，要深入學習貫徹習近平總書記關於體育工作的重要論述，認真落實全國足球工作會議精神，加快建設足球青訓體系，提升競技體育後備人才培養水平。（新華社）
-
----
-
-### 2026-08-21 11:29:31  #公司
-
-【北大荒集團與中國農再座談交流】據北大荒農墾集團訊息，8月20日下午，中國農業再保險股份有限公司黨委書記、董事長李有祥一行到訪北大荒集團，與北大荒農墾集團黨委副書記、副董事長、總經理陳有方座談，雙方圍繞深化農業保險合作、農業保險資料資訊系統共建共享、提升糧食安全風險保障水平等事宜進行深入交流。
-
----
-
-### 2026-08-21 11:28:25  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-【RBC: Japan inflation data bolster expectation of BOJ September hike】Abbas Keshvani, RBC head of Asia macro strategy, said Japan’s inflation data support expectations the Bank of Japan will raise rates in September. He said the BOJ’s July meeting language was more hawkish and markets now expect a faster tightening, pricing roughly a 20bp September hike. He added the BOJ knows disappointing markets could prompt further yen weakness.
 
 ---

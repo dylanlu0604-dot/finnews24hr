@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:47:24_
-_本檔包含 3146 則快訊，約 632558 字_
+_更新時間：2026-08-24 06:34:46_
+_本檔包含 3145 則快訊，約 631469 字_
+
+---
+
+### 2026-08-20 12:18:29  #公司
+
+【石藥集團：2026年上半年公司股東應占溢利60.94億元 同比增長139.2%】石藥集團(01093.HK)在港公告，2026年上半年，本集團錄得收入185.94億元及本公司股東應占呈報溢利60.94億元，分別較去年同期增加40.1%及139.2%。撇除按公平值計入損益之金融資產之公平值變動及以股份為基礎之僱員酬金開支後，本公司股東應占基本溢利為人民幣61.64億元，較去年同期增加165.8%。每股基本盈利為人民幣53.45分，較去年同期增加139.8%。
+
+---
+
+### 2026-08-20 12:14:55  #公司
+
+【正榮地產：境外重組方案條款書已送交部分債權人】正榮地產公告，公司於2026年8月20日，已將一份載有境外整體債務管理方案建議條款的條款書送交若干債權人。該條款書關鍵條款包括登出債務並全面解除相關方義務、向批准計劃安排的債權人按比例發行公司新股份等。境外重組計劃及計劃安排仍須待與債權人達成協議並達致若干先決條件後方可作實。
+
+---
+
+### 2026-08-20 12:14:48  #其他
+
+【西班牙擬將500名滯留休達的未成年移民送至本土】西班牙包容、社會保障與移民大臣埃爾瑪·賽斯19日說，政府計劃將滯留在北非飛地休達的大約500名無人陪伴未成年移民送至西班牙本土。賽斯在接受採訪時說，中央政府正與休達地方政府及西班牙各自治區政府合作制定安置計劃，以便將這些兒童交由西班牙本土的兒童保護組織照料。據悉，該計劃設想由西班牙“所有地區”對未成年人進行接收，並安排他們入住寄養家庭。500人為暫定數，可能會有變動。（央視新聞）
+
+---
+
+### 2026-08-20 12:14:12  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
+
+Traders say the Reserve Bank of India may be selling dollars to defend the rupee.
+
+---
+
+### 2026-08-20 12:13:20  #公司
+
+【億帆醫藥在合肥成立醫藥科技公司】企查查APP顯示，近日，合肥洹升醫藥科技有限公司成立，法定代表人為張新，經營範圍包含：健康諮詢服務（不含診療服務）；企業管理諮詢；科技中介服務；市場營銷策劃；諮詢策劃服務等。企查查股權穿透顯示，該公司由億帆醫藥間接全資持股。
+
+---
+
+### 2026-08-20 12:11:42  #MKT News #02018.HK #Impact bullish
+
+【AAC Technologies 1H2026 net profit up 2.9% YoY】AAC Technologies (02018.HK) reported 1H2026 revenue at a record 14.51 bln yuan, up 8.9% YoY, led by acoustics and electromagnetic drive, automotive acoustics and thermal-management businesses. Gross margin rose to 22.4%, +170bps YoY, driven by improved product mix and higher operating efficiency. Reported net profit was 901 mln yuan, up 2.9% YoY; adjusted net profit excluding fair-value-related other gains/losses rose 37.4% YoY. Optical business revenue fell 22.7% YoY to 2.05 bln yuan, hit by lower global smartphone shipments reducing optical-module and lens volumes.
+
+---
+
+### 2026-08-20 12:11:41  #其他
+
+【張永偉：本輪汽車全球化視窗期不會太長，秉持觀望態度的車企可能會錯失良機】8月20日，車百會研究院理事長、車百國際首席專家張永偉在2026新能源汽車全球合作發展論壇上表示，近年來中國汽車全球化進展迅速，海外市場看待中國汽車出海的態度變得尤為重要。其中有擁抱中國汽車的、有觀望顧慮的，但也不乏對中國汽車採取限制措施的。中國出海企業數量龐大，海外市場存在諸多不確定因素，他判斷，本輪全球化的視窗期並不會太長，秉持觀望態度的中國車企很可能會錯失良機。
 
 ---
 
@@ -18936,53 +18978,5 @@ Per Refinitiv, US Tungsten & Antimony Co. was selected by the DOE to negotiate a
 ### 2026-08-19 11:54:22  #焦點
 
 【《全民醫療保障“十五五”規劃》釋出】國家醫保局今天（19日）釋出《全面醫療保障“十五五”規劃》。“十五五”期間基本醫療保險參保率每年保持在95%左右；長期護理保險制度覆蓋所有統籌地區；基本醫療保險目錄內住院費用基金支付比例職工基本醫療保險穩定在80%左右，城鄉居民基本醫療保險穩定在70%左右；即時結算基本醫療保險基金支出覆蓋率從2025年的70%左右提高到80%以上；所有統籌地區將實現生育津貼直接發放到個人。
-
----
-
-### 2026-08-19 11:53:34  #其他
-
-【2026暑期檔票房破105億】據貓眼專業版資料，截至8月19日11時，2026年暑期檔（6月1日-8月31日）總票房超105億，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》分列暑期檔票房榜前三位。
-
----
-
-### 2026-08-19 11:53:25  #公司
-
-【雙英集團登陸北交所 聚焦智慧座艙賽道】汽車座艙整體解決方案提供商雙英集團（920059.BJ）今日登陸北交所。公司繫上汽通用五菱第一大座椅供應商，深度配套比亞迪、賽力斯、理想、吉利等頭部車企，產品覆蓋問界、阿維塔等數十款主流新能源車型。2023-2025年新能源產品收入佔比從42.87%躍升至70.85%，三年複合增長率67.51%。公司擁有專利523項，模具精度達±0.002mm，具備與整車廠"三同步"開發能力。本次募資約5億元投向新能源座椅及研發中心升級，戰配比例30%，獲東風資產、重慶渝富等產業資本認購。
-
----
-
-### 2026-08-19 11:51:56  #MKT News #Commodities #Energy #DXY #Impact bullish #Brent
-
-【Philippine peso hits record low as oil prices rise】Philippine peso fell to a record low against the dollar as rising oil prices renewed pressure on the currency. The Philippines imports almost all its oil, leaving the peso sensitive to energy-cost swings; Brent has risen over 5% in the past four days. The peso is down more than 5% YTD, making it one of Asia's weakest currencies. BNY MELLON Asia market strategist Wee Khoon Chong said PHILIPPINE C.BANK may "be inclined to hike again to defend the peso," but that the effectiveness of rate increases in stemming FX weakness is waning. Foreign exchange reserves have fallen about 7% YTD to $103.0bn.
-
----
-
-### 2026-08-19 11:51:23  #MKT News #Market Regions #Japan & APAC
-
-Japan 5-year bond yield fell 2.5bps to 2.125%.
-
----
-
-### 2026-08-19 11:51:11  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Nikkei 225
-
-【Pentagon confirms Ulchi Freedom Shield drills to end on 21st; scale sharply reduced】A Pentagon official on the 18th confirmed US–South Korea Ulchi Freedom Shield exercises will end on the 21st, nearly a week earlier than planned. The official said the drills were sharply scaled back on instructions from President Trump and Defense Secretary Hegseth, with live troop training reduced and some events cancelled or converted to simulations. South Korea’s Joint Chiefs said on the 19th the exercise, originally set for the 17th–27th, will end six days early on the 21st, shortening the schedule by more than half. Both sides agreed, at the US proposal, to adjust timing and scope and to cut certain joint field maneuvers; specific adjustments remain under negotiation.
-
----
-
-### 2026-08-19 11:50:43  #市場 #國際
-
-5年期日本國債收益率<JP5YTN=JBTC>下跌2.5個基點，至2.125%。
-
----
-
-### 2026-08-19 11:49:29  #公司
-
-【旺能環境：控股股東美欣達集團解除質押900.00萬股】旺能環境公告，公司於2026年8月19日接到大股東美欣達集團有限公司函告，其在中國工商銀行股份有限公司湖州分行質押的公司部分股份已於2026年8月18日解除質押，本次解除質押股份數量為900.00萬股。
-
----
-
-### 2026-08-19 11:49:15  #MKT News
-
-【Henan Jan–Jul industrial value added of firms above designated size +7.5% YoY】Henan's industrial value added of firms above designated size rose 7.5% YoY in Jan–Jul. By sector, mining +3.9% YoY, manufacturing +9.3%, and electricity/heat/gas/water production and supply -1.6%. By product, output of lithium‑ion batteries +101.3%, new energy vehicles +32.9%, service robots +13.6%, and electronic components +11.8% YoY. High‑tech manufacturing value added +26.1% and industrial strategic emerging industries +12.6%; they contributed 38.3% and 40.7% of provincial above‑designated‑size industrial growth respectively. Leading industries’ value added +11.5%; electronics information +28.0% and automobiles & parts +11.2%. July industrial value added rose 6.8% YoY.
 
 ---

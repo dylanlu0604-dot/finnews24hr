@@ -1,7 +1,105 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:47:24_
-_本檔包含 2960 則快訊，約 631990 字_
+_更新時間：2026-08-24 06:34:46_
+_本檔包含 2957 則快訊，約 631694 字_
+
+---
+
+### 2026-08-18 09:08:26  #MKT News
+
+South Korea's Lee said the U.S.-South Korea alliance and an independent defense capability are complementary.
+
+---
+
+### 2026-08-18 09:07:40  #市場
+
+【國產算力巨頭晶片賣爆了】8月中旬，海光資訊披露成績單，1—6月，收入約91億元，淨利約18億元；尤其二季度，利潤超過11億元，創下單季盈利新高。 賣晶片的海光，搭上兩班快車：CPU重新變得重要，其恰處國產第一梯隊；DCU受益於AI推理需求爆發，其忙著跟前沿大模型實現Day0適配。 截至8月17日收盤，其股價較年初漲了28.8%，總市值超過6700億元。（21財經）
+
+---
+
+### 2026-08-18 09:06:33  #MKT News
+
+South Korea's Lee said a strong national defense is the cornerstone of building an irreplaceable Korea.
+
+---
+
+### 2026-08-18 09:05:53  #其他
+
+【高血壓、糖尿病等158個病種入選“同病同付”】國家醫保局、國家衛生健康委等部門昨天透露，在即將印發的DRG/DIP3.0版分組方案中，首次推薦設定基層病種。其中，DRG基層病種31個，DIP基層病種127個。未來，各地將在同一醫保統籌區內，對基層病種探索實行“同病同付”。此次31個DRG基層病種中，覆蓋了基層日常診療中最常面對的高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病等27種內科疾病和4類技術成熟、基層具備開展條件的一、二級手術。按病種分值（DIP）付費的127個病種覆蓋了呼吸、消化、迴圈、泌尿、骨骼肌肉等多個系統的常見疾病。北京市醫保局副局長顏冰表示，遴選標準首先是“適宜”。定位“常見病、多發病”，意味著受益面更廣，大量參保群眾能夠在基層滿足就醫需求。（央視）
+
+---
+
+### 2026-08-18 09:04:43  #市場 #國際
+
+【日本10年期國債收益率持續走高】當地時間18日，在日本國債市場上，作為長期利率指標的新發10年期國債收益率繼續上升，一度升至2.945%。這一數值是自1996年10月以來的新高。據悉，由於中東局勢再次緊張，加之近一段時間市場擔憂日本財政狀況可能進一步惡化，日本國債遭投資者拋售，收益率持續上升。（央視）
+
+---
+
+### 2026-08-18 09:04:31  #MKT News #Important
+
+ProFarmer, part of U.S. Farm Futures magazine, estimates Ohio corn yield at 180.18 bu/acre for the 2026 crop; its 2025 crop tour estimated 185.69 bu/acre.
+
+---
+
+### 2026-08-18 09:04:18  #MKT News #Important
+
+ProFarmer, part of U.S. Farm Futures magazine, said its crop tour forecasts Ohio soybeans to average 1,197.25 pods in 2026, down from 1,287.28 pods in its 2025 tour.
+
+---
+
+### 2026-08-18 09:04:12  #MKT News #Important
+
+ProFarmer, the crop‑tour unit of Farm Futures magazine, estimates South Dakota corn yields at 149.09 bu/acre for 2026 and 174.18 bu/acre for 2025.
+
+---
+
+### 2026-08-18 09:04:07  #MKT News #Important
+
+Pro Farmer, part of Farm Futures magazine, estimates South Dakota soybeans will average 945.98 pods per plant in 2026, versus 1,188.45 pods per plant in its 2025 crop tour.
+
+---
+
+### 2026-08-18 09:03:47  #市場
+
+【青花汾20青花郎逆勢走高 茅臺五糧液等高階名酒多數回撥 】新浪財經“酒價內參”過去24小時收集的資料顯示，8月18日中國白酒業11大單品三漲七跌一平，輸家佔據明顯上風。上漲方面，青花汾20大幅上漲7元，終端零售均價來到398元，扭轉高位短期回撥態勢，再創近一個月新高；習酒君品上漲4元至644元，三連漲後價格平近一個月最高紀錄；青花郎上漲3元至707元，繼昨日站上700元關口後繼續擴大戰果。下跌方面，飛天茅臺下跌2元，終端零售均價來到1782元，高位區間振盪行情延續；精品茅臺下跌4元至2488元，前期連續大漲的強勢結束；五糧液普五八代下跌2元至805元，自近期最高點小幅回落；五糧液1618下跌2元至821元，連續兩日自高位回撥；國窖1573下跌3元至886元，兩連陰進一步脫離月內高點；洋河夢之藍M6+下跌4元至611元，四連陽上漲行情宣告結束；古井貢古20下跌5元至532元，二連跌價格中樞溫和下移。水晶劍南春今日仍持平於405元，連續三日平盤表現平穩。
+
+今日11大單品的終端零售總價持續承壓，大盤價格重心進一步下移，如果11大單品各取一瓶整體打包售賣，今日總售價為10079元，較昨日小幅下跌8元，創近五天以來價格新低。
+
+---
+
+### 2026-08-18 09:03:35  #市場 #焦點
+
+燃料油連續主力合約日內漲4%，現報3733.00元。
+
+---
+
+### 2026-08-18 09:02:48  #公司
+
+【444股獲融資買入超億元，中際旭創穫買入58.47億元居首】Wind資料顯示，A股8月17日共有3838只個股獲融資資金買入，有444股買入金額超億元。其中，中際旭創、長鑫科技、兆易創新融資買入金額排名前三，分別獲買入58.47億元、42.83億元、42.34億元。從融資買入額佔當日總成交金額比重來看，有1只個股融資買入額佔比超30%。其中香溢融通、安乃達、英科再生融資買入額佔成交額比重排名前三，分別為30.24%、29.2%、27.62%。從融資淨買入金額來看，有54只個股獲融資淨買入超億元。其中，中際旭創、新易盛、長鑫科技融資淨買入金額排名前三，分別獲淨買入9.29億元、8.05億元、5.47億元。
+
+---
+
+### 2026-08-18 09:02:34  #公司
+
+【冰山冷熱：公司主要研究資料中心液冷的冷源部分 部分產品已經小批次交付】冰山冷熱(000530)在互動平臺表示，公司主要研究資料中心液冷的冷源部分，現在著重研發的冷源有：乾冷器、氟泵系統、冷水系統，部分產品已經小批次交付。冷水系統方面，公司積極推進磁懸浮冷水機組的研發，開發過程存在不確定性，可以投入商用時間暫不確定。
+
+---
+
+### 2026-08-18 09:02:32  #市場
+
+新加坡海峽時報指數下跌1%，至5710.73。
+
+---
+
+### 2026-08-18 09:01:52  #其他
+
+【田灣核電7號機組裝料完成 進入帶核除錯階段】8月18日，隨著堆芯裝載正確性核查完成、保護管元件回裝工作開始，位於江蘇連雲港的田灣核電7號機組首次核燃料裝載工作圓滿結束，進入帶核除錯階段，為機組後續反應堆臨界、併網發電、商運等奠定了堅實的基礎。
+
+---
+
+### 2026-08-18 09:01:49  #MKT News #Commodities #Energy
+
+【Tianwan unit 7 completes fuel loading, enters fueled commissioning】Aug. 18 — Tianwan nuclear plant unit 7 in Lianyungang, Jiangsu completed initial fuel loading and has entered fueled commissioning, advancing toward reactor criticality, grid connection and commercial operation. Units 7 and 8 under construction are 1.265 GW each with a 60‑year design life; the project targets commercial operation in 2026 and 2027 respectively. Tianwan plans eight units in total; units 1–6 are already operational and have supplied over 500 billion kWh. With all eight online, total capacity will exceed 9 GW, annual output about 70 billion kWh and CO2 emissions would be cut by roughly 57.4 million tonnes per year.
 
 ---
 
@@ -17744,126 +17842,5 @@ New Zealand | Performance of Services Index (Jul) | actual 50.6 | previous 50.6
 ### 2026-08-17 06:36:04  #國際
 
 【紐約曼哈頓下東區發生警察開槍事件 多人受傷】當地時間8月16日下午，美國紐約曼哈頓下東區發生一起警察開槍事件，造成多人受傷。目前警方正在展開調查。紐約市警察局表示，事件發生在當天16時左右，有六人被送往醫院治療，目前傷情暫不清楚。目前，警方尚未公佈開槍事件的具體經過、受傷人員身份以及是否有人被拘捕。事件仍在調查中。（央視新聞）
-
----
-
-### 2026-08-17 06:34:07  #其他
-
-【哥倫比亞強震已致289人死亡 逾18萬人受災】哥倫比亞總統德拉埃斯普列亞16日說，該國10日發生的強震已造成289人死亡、143人失蹤、4187人受傷，受災人口超過18萬。（新華社）
-
----
-
-### 2026-08-17 06:30:53  #央行 #資料 #國際
-
-【週一重要財經資訊提醒（以下均為北京時間）】 
-① 07:01 英國8月Rightmove平均房屋要價指數；
-② 07:50 日本二季度實際GDP初值；
-③ 全天 韓國股市因假期休市；
-④ 15:00 中國7月規模以上工業增加值、社會消費品零售總額、1至7月城鎮固定資產投資、1至7月全國房地產開發投資、7月70個大中城市房價報告，國新辦就國民經濟執行情況舉行新聞釋出會；
-⑤ 20:30 美國8月紐約聯儲製造業指數，加拿大7月CPI；
-⑥ 22:00 美國8月NAHB房產市場指數；
-⑦ 次日04:00 美國6月國際資本淨流入。
-
----
-
-### 2026-08-17 06:27:31  #MKT News
-
-【ANTHROPIC CEO: Best way to counter AI skeptics is to deliver on hype】Dario Amodei, CEO of ANTHROPIC, said on Saturday the best way to counter public skepticism about AI is to deliver on the technology’s promises, acknowledging widespread distrust and calling for concrete scientific breakthroughs. He said claims that AI will cure cancer have become clichés and are seen as misleading, and conceded the fairest critique of AI firms, including ANTHROPIC, is that they have not yet delivered on their grand promises — genuinely effective progress would be curing cancer. Amodei has previously warned about AI risks; some industry figures have criticized his tone. Demis Hassabis of DeepMind earlier urged peers to retract overly certain pessimistic predictions. With OpenAI and ANTHROPIC seen as potential IPO candidates, market sentiment has moved from pessimism toward optimism, though Amodei said he does not believe his warnings are the root cause of public distrust.
-
----
-
-### 2026-08-17 06:19:49  #市場
-
-【A股科技修復行情延續 機構：結構性輪動或成主旋律】8月以來，A股科技主線輪動修復，人形機器人、腦機介面、CPO、光纖光纜等多個細分賽道均有所表現。對於科技主線的後市演繹，券商策略展望報告認為，AI產業鏈基本面具備確定性，科技板塊的修復趨勢並未終結。但板塊上漲仍受制於資金面壓力及AI產業敘事能否出現重大變革，後續科技行情或將由普漲轉向結構性機會。（上證報）
-
----
-
-### 2026-08-17 06:18:55  #市場 #國際
-
-【半年回撥壓力釋放 專家：黃金步入築底向上階段】“一個星期‘回血’一萬多元。”上週，積存金投資者徐若安（化名）高位套現部分持倉，打算擇時再度入場。這或許是全球眾多黃金投資者的縮影。美國7月非農就業資料爆冷，點燃了8月金市，倫敦現貨黃金自4000美元/盎司接連突破，13日盤中逼近4450美元/盎司後，獲利了結盤湧入導致跳水，失守4400美元/盎司。不過，資金並未轉向，次日即小幅反彈。不少“淘金客”在這半年的回撤中感嘆“鈍刀割肉最磨人”，而資產配置型投資者則從容以對。對比此前的焦灼心態，多數受訪投資者開始期待黃金後市表現。市場專家普遍認為，黃金大幅拋壓基本釋放，當前已步入築底向上階段，後市有望緩漲。（上證報）
-
----
-
-### 2026-08-17 06:17:44  #行業
-
-【醫藥基金淨值大幅攀升 機構配置尚處歷史低位】近期A股市場風格迎來切換，前期強勢的科技板塊迎來調整，沉寂已久的醫藥板塊開啟強勢反彈行情，多隻主動醫藥基金淨值大幅攀升，成為市場亮眼主線。 據Wind資料統計，截至8月14日，多隻主動權益類醫藥基金區間漲幅突破30%，頭部產品收益表現尤為突出。其中，招商前沿醫療保健、招商醫藥健康產業、華泰柏瑞醫療健康漲幅分別超54%、53%、52%，領跑同類醫藥基金；嘉實醫療保健、廣發醫藥精選等產品漲幅超40%；建信高階醫療、中歐醫療創新、國泰創新醫藥、中歐醫療健康等十餘隻醫藥主題基金漲幅均突破30%，整體賺錢效應顯著。業內機構分析指出，當前醫藥行情由產業趨勢和結構性機會主導，尚未進入資金抱團、行情擁擠的階段。基金淨值率先反彈，但ETF資金、機構整體持倉尚未跟進補倉，行業低位特徵明顯。若行業基本面催化持續落地、企業業績持續兌現，當前偏低的機構配置比例，將為後續增量資金迴流、板塊行情持續上行預留充足空間。（證券時報）
-
----
-
-### 2026-08-17 06:12:51  #其他
-
-中國地震臺網正式測定：08月17日06時09分在四川內江市隆昌市（北緯29.23度，東經105.21度）發生3.0級地震，震源深度8千米。
-
----
-
-### 2026-08-17 06:12:02  #其他
-
-*北京君正：全球發售項下H股最高發售價為每股102.80港元。
-
----
-
-### 2026-08-17 06:07:29  #市場 #焦點 #國際
-
-【納斯達克期貨與原油同步小幅走高】納斯達克期貨與原油合約小幅上漲，投資者正等待華盛頓方面公佈針對伊朗實施“經濟封鎖”計劃的細節。美債期貨走勢平穩，黃金小幅下挫。美元兌日元匯率處於159關口，日本GDP資料即將公佈。韓國股市休市。
-
----
-
-### 2026-08-17 06:06:49  #焦點 #國際
-
-【油價持穩，市場聚焦黎巴嫩局勢與霍爾木茲海峽風險】受黎巴嫩新一輪衝突爆發、霍爾木茲海峽船隻遇襲事件影響，結束美伊戰爭的協議前景不明，國際油價保持震盪持穩。布倫特原油小幅波動，低於89美元/桶；WTI原油約83美元/桶，上週兩類原油均錄得6%漲幅。美國對伊朗的戰爭現已進入第六個月，原油年內累計漲幅超40%。
-
----
-
-### 2026-08-17 06:04:57  #其他
-
-資料顯示：剛果埃博拉疫情已成為該國歷史上致死人數最多的一次疫情。
-
----
-
-### 2026-08-17 06:04:44  #其他
-
-剛果稱，埃博拉確診病例升至4945例，其中死亡2325例。
-
----
-
-### 2026-08-17 06:01:31  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
-
-Spot gold opened slightly higher on Monday at $4,380.58/oz. WTI crude opened higher at $81.66/bbl.
-
----
-
-### 2026-08-17 06:01:05  #MKT News #Nasdaq100 #Impact bullish
-
-Nasdaq futures opened 0.1% higher on Monday.
-
----
-
-### 2026-08-17 06:00:39  #市場 #焦點
-
-現貨黃金突破4380美元/盎司，日內漲0.09%。
-
----
-
-### 2026-08-17 06:00:04  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為66.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為66.9%，累計加息25個基點的機率為33.1%。美聯儲到10月維持利率不變的機率為53.6%，累計加息25個基點的機率為39.8%，累計加息50個基點的機率為6.6%。
-
----
-
-### 2026-08-17 05:58:42  #其他
-
-【辛巴威船隻傾覆事故死亡人數升至84人】辛巴威警方16日發表宣告說，該國北部卡里巴湖11日發生的船隻傾覆事故死亡人數已升至84人。據悉，事故發生後已有77人獲救。警方表示，目前仍有人員失蹤，搜尋工作仍在繼續。
-
----
-
-### 2026-08-17 05:58:29  #其他
-
-【巴西大選法定競選活動正式開啟】當日，巴西大選法定競選活動正式開啟，宣佈參加2026年巴西總統選舉的巴西現任總統、左翼領袖盧拉和右翼總統候選人弗拉維奧·博索納羅分別舉行首場競選集會。（新華社）
-
----
-
-### 2026-08-17 05:48:26  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-【Trump says he will sharply scale back US-South Korea joint military exercises】US President Trump said on social media on Aug. 16 ET that, citing his good relationship with North Korean leader Kim Jong Un and that the drills are costly and largely paid for by the US, he has instructed the US defense secretary to sharply scale back upcoming US-South Korea joint military exercises. He added he recently asked South Korea's president to join US efforts to push Iran to denuclearize, and that Seoul declined.
 
 ---
