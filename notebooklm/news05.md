@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 04:53:41_
-_本檔包含 2966 則快訊，約 632777 字_
+_更新時間：2026-08-24 05:31:06_
+_本檔包含 2964 則快訊，約 632712 字_
+
+---
+
+### 2026-08-18 09:01:10  #MKT News
+
+Taiwan's TAIEX opened 172.37 points higher at 46,029.64 on Tuesday, up 0.38%.
+
+---
+
+### 2026-08-18 09:01:10  #MKT News #Market Regions #Greater China
+
+FTSE China A50 index futures opened 0.14% lower.
+
+---
+
+### 2026-08-18 09:00:45  #其他
+
+【暑運期間 廣州地鐵客流量破千萬成日常】常暑運期間（7月1日至8月31日），廣州地鐵線網客流迎來較大增幅。據記者統計，7月1日至8月16日，廣州地鐵已有26個工作日單日客流量超千萬人次。7月1日至8月16日，廣州地鐵累計運送乘客4.6億人次。其中，線網工作日日均客運量達1030萬人次，較暑運前增長5.4%；週六日日均客運量839萬人次，較暑運前增長3.2%。最高單日客流達1128萬人次。（廣州日報）
+
+---
+
+### 2026-08-18 09:00:26  #MKT News
+
+【Navigation warning: military exercise in northern Bohai Sea】Yingkou Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: from Aug 19 08:00 to Aug 21 18:00, sections of the northern Bohai Sea will conduct military exercises; vessels are prohibited from entering the area.
+
+---
+
+### 2026-08-18 09:00:21  #MKT News #Important
+
+At the morning open, China’s main futures contracts were mostly higher: Shanghai crude (SC) up about 5%; fuel oil and ethylene glycol (EG) up nearly 4%; Europe-route container freight futures rose over 3%; synthetic rubber and liquefied petroleum gas (LPG) up around 3%; asphalt and low‑sulfur fuel oil (LU) climbed over 2%. Lagging were Shanghai tin and starch, down more than 1%; international copper, eggs and Shanghai copper fell about 1%.
+
+---
+
+### 2026-08-18 09:00:19  #其他
+
+臺灣證交所加權股價指數開高0.1%報45,922.40。
+
+---
+
+### 2026-08-18 09:00:11  #其他
+
+【航行警告！渤海北部執行軍事任務】據中國海事局網站訊息，營口海事局釋出航行警告，8月19日8時至8月21日18時，渤海北部部分海域進行軍事演習，禁止駛入。
+
+---
+
+### 2026-08-18 09:00:08  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內漲4%，現報1792.00點。
+
+---
+
+### 2026-08-18 09:00:03  #市場 #焦點
+
+乙二醇連續主力合約日內漲4%，現報5280.00元。
+
+---
+
+### 2026-08-18 09:00:03  #市場
+
+【商品期貨開盤】乙二醇連續漲4.17%，集運指數歐線期貨連續漲3.46%，燃料油連續漲3.20%，上海原油連續漲3.06%，丁二烯橡膠連續漲2.90%，液化石油氣連續漲2.82%，瓶片連續漲2.38%，低硫燃料油連續漲2.25%，甲醇連續漲2.25%，純苯連續漲2.04%。
 
 ---
 
@@ -17829,77 +17889,5 @@ Nasdaq futures opened 0.1% higher on Monday.
 ### 2026-08-17 05:33:08  #MKT News
 
 【Trump welcomes Saudi-Turkey-Pakistan mutual defense pact】On Aug 16, U.S. President Trump posted on Truth Social welcoming a newly signed mutual defense agreement among Saudi Arabia, Turkey and Pakistan. He said the pact signals greater Middle East unity and will enable the countries to defend themselves "in a more tangible and effective way", congratulated their leaders, and called the deal "a bold and important first step."
-
----
-
-### 2026-08-17 05:25:12  #其他
-
-【投資結構持續最佳化 新質生產力加速成長 高頻資料傳遞經濟平穩執行積極訊號】7月國民經濟執行情況即將釋出，作為研判三季度及下半年經濟走勢的重要觀測視窗，市場對7月經濟表現高度關注。從多項高頻資料與先行指標來看，線下消費、基建、先進製造等領域釋放積極訊號，經濟總體保持平穩執行，但穩增長壓力依然存在，宏觀政策仍需加力提效，著力擴內需穩增長。
-
----
-
-### 2026-08-17 05:23:50  #國際
-
-特朗普：我詢問了韓國總統，他們是否願意加入我們，共同推動解除伊朗的核武裝，他的回答是不。
-
----
-
-### 2026-08-17 05:13:06  #MKT News #Important
-
-【Trump says he has ordered sharp cuts to US-South Korea joint drills】President Trump said he is unhappy the US agreed long ago to joint military drills with South Korea, calling them costly and largely paid for by the US. He said it is too late to cancel and has instructed the defense secretary to sharply reduce the scale of the exercises. Trump added he asked the South Korean president about joining US action to denuclearize Iran; the reply was "No, thank you."
-
----
-
-### 2026-08-17 05:12:28  #國際
-
-特朗普：（美韓）聯合軍演向一個態度友善的國家釋放出敵對訊號。
-
----
-
-### 2026-08-17 05:11:06  #國際
-
-特朗普：與韓國舉行的軍演耗資巨大。
-
----
-
-### 2026-08-17 05:10:33  #國際
-
-特朗普：對於美國很早之前就同意參與美韓聯合軍事演習這件事，我感到不滿。
-
----
-
-### 2026-08-17 05:09:37  #國際
-
-特朗普：很高興看到沙烏地阿拉伯、土耳其以及巴基斯坦近期終於簽署了《麥加聯合防務協議》。這表明中東地區正在走向團結，各國終於能夠以更具實質意義的方式實現自衛。向上述三國卓越的領導層表示祝賀。這是重大、果敢且意義深遠的第一步，太棒了。
-
----
-
-### 2026-08-17 05:08:58  #國際
-
-【傳奇投資人Stanley Druckenmiller買入美國上市的中概股】華爾街傳奇投資大亨、億萬富豪Stanley Druckenmiller幾年來首次重返美國交易的中國股票。彭博對其主要投資平臺Duquesne Family Office LLC最新的13F檔案的分析發現，該家族辦公室第二季建倉百度ADR，買入8.8萬份，僅佔其投資組合的0.2%。彙總的資料顯示，Duquesne自2023年第四季清倉阿里巴巴ADR後至本次披露期間再無持有中概股。
-
----
-
-### 2026-08-17 05:07:57  #國際
-
-特朗普稱，已要求五角大樓削減與韓國的軍事演習。
-
----
-
-### 2026-08-17 05:07:57  #MKT News #Important
-
-Trump said he is unhappy he long ago agreed to joint military exercises with South Korea and has instructed Defense Secretary Hegseth to sharply curtail them.
-
----
-
-### 2026-08-17 04:58:48  #觀點
-
-東方證券給予中信證券A股買進的初始評級，目標價35.36元人民幣。
-
----
-
-### 2026-08-17 04:58:43  #MKT News
-
-Brazil's Rio de Janeiro state firefighters said on the 16th that a tourist coach overturned near Petrópolis in the early hours, killing at least 10.
 
 ---

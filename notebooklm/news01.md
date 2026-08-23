@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-24 04:53:41_
-_本檔包含 3241 則快訊，約 633036 字_
+_更新時間：2026-08-24 05:31:06_
+_本檔包含 3244 則快訊，約 632734 字_
+
+---
+
+### 2026-08-24 05:28:38  #市場 #焦點
+
+比特幣升破78000美元，日內漲1.20%。
+
+---
+
+### 2026-08-24 05:23:49  #其他
+
+【南京眾彩：對場內大白菜開展地毯式抽檢 未檢出甲醛等有害物質；全面暫停張家口康保縣大白菜入場】據“江蘇新聞廣播”微信公眾號訊息，針對網路曝光河北張家口康保縣大白菜違規使用甲醛保鮮一事，南京眾彩蔬菜市場立即開展應急排查處置。市場白菜日均到貨約150噸，貨源涵蓋山東、甘肅、內蒙、河北等產區。8月22日起對場內在售、待售大白菜開展地毯式排查及抽樣檢測，累計檢測53批次，均未檢出甲醛等有害物質。市場已全面禁止張家口康保縣大白菜入場；其餘產區大白菜升級為關注品種，甲醛納入必檢專案，嚴格執行“先檢後進”，檢測合格方可銷售。同時督促商戶落實索證索票，強化食品安全宣教，壓實進貨主體責任。目前，市場山東、甘肅、內蒙古等地大白菜貨源充足、價格平穩，請市民放心選購。
+
+---
+
+### 2026-08-24 05:14:56  #國際
+
+英國海上貿易行動辦公室（UKMTO）稱，過去48小時霍爾木茲海峽商業航運量大幅銳減，兩個航行方向過境船隻均僅為個位數。通報暫未確認發生襲擊事件，但伊朗無人機飛越、監視活動仍在持續。
+
+---
+
+### 2026-08-24 05:02:47  #國際
+
+敘利亞：當前第一要務是以色列軍隊撤回至2024年12月8日前的控制線，並全面落實1974年脫離接觸協議。
+
+---
+
+### 2026-08-24 05:01:50  #國際
+
+敘利亞重申戈蘭高地為被佔領的敘利亞領土，稱討論其最終地位為時尚早。
+
+---
+
+### 2026-08-24 05:01:27  #國際
+
+敘利亞稱，（與以色列官員）討論的核心在於建立機制以停止以色列的襲擊、抓捕行動以及定點打擊行動。
 
 ---
 
@@ -19544,23 +19580,5 @@ At the morning close, China’s front-month futures were mostly higher. Containe
 ### 2026-08-21 11:28:25  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
 
 【RBC: Japan inflation data bolster expectation of BOJ September hike】Abbas Keshvani, RBC head of Asia macro strategy, said Japan’s inflation data support expectations the Bank of Japan will raise rates in September. He said the BOJ’s July meeting language was more hawkish and markets now expect a faster tightening, pricing roughly a 20bp September hike. He added the BOJ knows disappointing markets could prompt further yen weakness.
-
----
-
-### 2026-08-21 11:28:16  #公司
-
-【富達國際回應“退出中國”傳聞：在華戰略和市場佈局沒有變化】近日有訊息稱，富達國際正考慮退出其全資控股的中國境內公募基金公司，相關安排仍處於討論階段，並需獲得監管批准。對此，富達國際回應記者稱，富達國際仍將中國視為一個重要市場，並始終相信中國無論對其業務還是對投資者而言，都是頗具吸引力的長期機遇。在戰略或市場佈局方面，目前沒有任何需要彙報的變化。富達國際表示，公司致力於將全球和本土最佳的投資能力帶給中國投資者，包括近期在內地與香港基金互認機制下發行的跨境投資解決方案。公開資料顯示，富達基金管理（中國）有限公司於2022年12月獲批開展公募基金管理業務，由富達國際間接全資持股。今年7月底，富達基金還宣佈旗下首隻內地互認基金獲批，並於8月10日正式開售。 (財聯社)
-
----
-
-### 2026-08-21 11:27:49  #公司
-
-【榮耀機器人新外觀設計專利獲授權】企查查APP顯示，近日，榮耀終端股份有限公司“機器人”外觀設計專利獲授權。專利摘要顯示，本外觀設計產品的用途為一種可執行多種任務的機器人裝置。
-
----
-
-### 2026-08-21 11:27:07  #MKT News #Important #CSI300 #Impact bullish #CNH #Impact mixed #Hang Seng Index
-
-【MoF: Over CNY2.0 tln of local government special bonds and ultra‑long special sovereign bonds to be issued in H2】At an Aug. 21 press briefing, Ministry of Finance Deputy Minister Liao Min said more than CNY2.0 tln of local government special bonds and ultra‑long‑term special sovereign bonds remain to be issued and deployed in H2. He added the pending issuance is large versus the same period in prior years and will help sustain policy intensity.
 
 ---

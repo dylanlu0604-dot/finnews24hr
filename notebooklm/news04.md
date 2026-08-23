@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 04:53:41_
-_本檔包含 3130 則快訊，約 632849 字_
+_更新時間：2026-08-24 05:31:06_
+_本檔包含 3130 則快訊，約 632716 字_
+
+---
+
+### 2026-08-19 11:44:56  #其他
+
+PAG尋求為其亞洲基金募集高達50億美元資金。
+
+---
+
+### 2026-08-19 11:44:17  #市場 #原創
+
+【8月19日午間漲停分析】創業板指半日大跌近5%，科創50跌超6%，算力硬體、人形機器人概念全線重挫，全市下跌個股超4900只。紅四方、金健米業、京糧控股3連板，一圖看懂>>
+
+---
+
+### 2026-08-19 11:43:31  #MKT News #DXY #Impact bearish #USDJPY #XAUUSD #Impact bullish
+
+Traders said the Reserve Bank of India sold dollars in the FX market to support the rupee.
+
+---
+
+### 2026-08-19 11:41:03  #市場
+
+富時中國A50指數期貨下跌2%。
+
+---
+
+### 2026-08-19 11:40:53  #央行 #國際
+
+交易員：印度央行在外匯市場拋售美元以支撐盧比匯率。
+
+---
+
+### 2026-08-19 11:40:25  #宏觀
+
+【萬家基金黃海：紅利資產可能在下半年迎來超額收益】萬家基金投資總監、基金經理黃海表示，近期科技板塊的反彈，更多是前期調整後的籌碼結構修復，尚不具備基本面系統性反轉的條件，後續市場風格可能在紅利價值與科技成長之間反覆輪動，紅利資產可能在下半年迎來超額收益。整體來看，黃海認為，具備穩定現金流和較高股息率的資產仍是下半年重要的關注方向，如煤炭、有色和石化，若地緣政治局勢出現新的變化，利好能源板塊。
+
+---
+
+### 2026-08-19 11:40:14  #其他
+
+重慶市第六屆人民代表大會第五次會議8月19日選舉陳新武為重慶市人民政府市長。（新華社）
+
+---
+
+### 2026-08-19 11:40:06  #MKT News
+
+Iranian parliament speaker Ghalibaf said during the visit they will take concrete, significant steps to consolidate the two countries' internal and shared security and to improve the welfare of both populations.
+
+---
+
+### 2026-08-19 11:40:00  #國際
+
+【五角大樓官員證實美韓聯合軍演將提前結束】美國國防部一名官員證實，美韓“乙支自由之盾”聯合軍演將於21日結束，比原定計劃提前近一週。這名國防部官員說，根據美國總統特朗普和國防部長赫格塞思的指示，此次聯合演習的規模已“大幅縮減”，“相關實兵演練活動有所減少，部分專案被取消或改為模擬演練”。韓國聯合參謀本部當地時間19日發表宣告說，原定於17日至27日舉行的韓美“乙支自由之盾”聯合軍演將提前6天於21日結束，日程縮短過半。宣告說，根據美方提議，韓美雙方決定對演習的時間和規模等部分內容進行調整。雙方決定縮減部分聯合野外機動訓練，具體調整內容目前仍在協商。特朗普16日在社交媒體發文說，他已要求美國防部大幅縮減美韓聯合軍演規模。他稱，這些軍演“耗資巨大”，其中很大一部分由美國負擔，同時對朝鮮釋放出“完全不恰當和敵對的訊號”。（新華社）
+
+---
+
+### 2026-08-19 11:39:55  #MKT News
+
+Iran parliament speaker Ghalibaf said ties with Iraq are rooted in wartime brotherhood, joint resistance to external interference and belief in a shared destiny, and that this past will guide future relations.
 
 ---
 
@@ -18835,65 +18895,5 @@ Pro Farmer, part of Farm Futures magazine, estimates South Dakota soybeans will 
 ### 2026-08-18 09:01:12  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
 
 On Tuesday Aug 18 early trade, Shanghai Gold Exchange's Gold T+D rose 0.94% to 960.5 yuan/gram; Silver T+D rose 1.18% to 16,190 yuan/kg.
-
----
-
-### 2026-08-18 09:01:10  #MKT News
-
-Taiwan's TAIEX opened 172.37 points higher at 46,029.64 on Tuesday, up 0.38%.
-
----
-
-### 2026-08-18 09:01:10  #MKT News #Market Regions #Greater China
-
-FTSE China A50 index futures opened 0.14% lower.
-
----
-
-### 2026-08-18 09:00:45  #其他
-
-【暑運期間 廣州地鐵客流量破千萬成日常】常暑運期間（7月1日至8月31日），廣州地鐵線網客流迎來較大增幅。據記者統計，7月1日至8月16日，廣州地鐵已有26個工作日單日客流量超千萬人次。7月1日至8月16日，廣州地鐵累計運送乘客4.6億人次。其中，線網工作日日均客運量達1030萬人次，較暑運前增長5.4%；週六日日均客運量839萬人次，較暑運前增長3.2%。最高單日客流達1128萬人次。（廣州日報）
-
----
-
-### 2026-08-18 09:00:26  #MKT News
-
-【Navigation warning: military exercise in northern Bohai Sea】Yingkou Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning: from Aug 19 08:00 to Aug 21 18:00, sections of the northern Bohai Sea will conduct military exercises; vessels are prohibited from entering the area.
-
----
-
-### 2026-08-18 09:00:21  #MKT News #Important
-
-At the morning open, China’s main futures contracts were mostly higher: Shanghai crude (SC) up about 5%; fuel oil and ethylene glycol (EG) up nearly 4%; Europe-route container freight futures rose over 3%; synthetic rubber and liquefied petroleum gas (LPG) up around 3%; asphalt and low‑sulfur fuel oil (LU) climbed over 2%. Lagging were Shanghai tin and starch, down more than 1%; international copper, eggs and Shanghai copper fell about 1%.
-
----
-
-### 2026-08-18 09:00:19  #其他
-
-臺灣證交所加權股價指數開高0.1%報45,922.40。
-
----
-
-### 2026-08-18 09:00:11  #其他
-
-【航行警告！渤海北部執行軍事任務】據中國海事局網站訊息，營口海事局釋出航行警告，8月19日8時至8月21日18時，渤海北部部分海域進行軍事演習，禁止駛入。
-
----
-
-### 2026-08-18 09:00:08  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲4%，現報1792.00點。
-
----
-
-### 2026-08-18 09:00:03  #市場 #焦點
-
-乙二醇連續主力合約日內漲4%，現報5280.00元。
-
----
-
-### 2026-08-18 09:00:03  #市場
-
-【商品期貨開盤】乙二醇連續漲4.17%，集運指數歐線期貨連續漲3.46%，燃料油連續漲3.20%，上海原油連續漲3.06%，丁二烯橡膠連續漲2.90%，液化石油氣連續漲2.82%，瓶片連續漲2.38%，低硫燃料油連續漲2.25%，甲醇連續漲2.25%，純苯連續漲2.04%。
 
 ---
