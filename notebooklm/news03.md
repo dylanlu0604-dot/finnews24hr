@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 09:55:58_
-_本檔包含 3257 則快訊，約 646888 字_
+_更新時間：2026-08-23 11:10:48_
+_本檔包含 3248 則快訊，約 644983 字_
+
+---
+
+### 2026-08-20 09:31:36  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【China equity index futures open】CSI 300 index futures (IF) main contract up 0.55%; SSE 50 index futures (IH) main contract up 0.40%; CSI 500 index futures (IC) main contract up 0.84%; CSI 1000 index futures (IM) main contract up 0.86%.
+
+---
+
+### 2026-08-20 09:31:35  #MKT News #Market Regions #Greater China
+
+【China government bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) most-active contract down 0.01%, 5-year (TF) down 0.03%, 10-year (T) down 0.05%, 30-year (TL) down 0.13%.
+
+---
+
+### 2026-08-20 09:31:31  #市場
+
+澳大利亞ASX 200指數在就業資料公佈後上漲0.4%。
+
+---
+
+### 2026-08-20 09:31:24  #MKT News
+
+【Money-market yield tracker】Tencent Licaitong (Current+) 7-day annualized yield ranged 0.7050%–1.4020%; WeChat Lingqiantong 7-day annualized yield ranged 0.8780%–1.0010%; Alipay Yu'ebao 7-day annualized yield ranged 0.9010%–1.0600%.
+
+---
+
+### 2026-08-20 09:31:22  #MKT News
+
+【South China Sea tropical depression makes landfall in Wenchang, Hainan】A tropical depression in the South China Sea made landfall near Longlou town, Wenchang, Hainan at about 05:40 on the 20th, with maximum winds near the center of 6 on the scale (12 m/s) and central pressure 997 hPa. The system is forecast to move westward across Wenchang, Haikou, Chengmai, Lingao and Danzhou and enter the Beibu Gulf by the afternoon to evening of the 20th, bringing heavy rain to northern and western Hainan.
+
+---
+
+### 2026-08-20 09:31:17  #經濟數據 #澳洲
+
+【澳大利亞7月季調後失業率為4.5%】澳大利亞7月季調後失業率為4.5%，預期為4.40%，前值為4.40%。
+
+---
+
+### 2026-08-20 09:31:15  #MKT News #Important
+
+C Yushu shares fell over 10%, hitting a low of 750 yuan, on turnover above 600 mln yuan.
+
+---
+
+### 2026-08-20 09:31:13  #其他
+
+C宇樹跌超10%，股價最低觸及750元，成交額超6億元。
+
+---
+
+### 2026-08-20 09:30:49  #其他
+
+【南海熱帶低壓在海南文昌登陸】從海南省氣象局瞭解到，南海熱帶低壓已於20日5時40分前後在海南省文昌市龍樓鎮沿海登陸，登陸時中心附近最大風力6級（12m/s），中心附近最低氣壓997hPa。預計，該低壓將向偏西方向移動，先後穿過文昌、海口、澄邁、臨高、儋州等市縣，於20日下午到夜間移入北部灣海面。受其影響，海南島北部和西部將有強降水。
+
+---
+
+### 2026-08-20 09:30:41  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Precious-metals thematic ETFs opened higher; Guotou Silver LOF rose more than 4%, gold-themed LOF and Harvest Gold LOF each gained over 3%, and Gold LOF was up nearly 3%. Earlier, spot gold topped $4,500 for the first time since June 4.
+
+---
+
+### 2026-08-20 09:30:35  #MKT News
+
+Australia July part-time employment +32,200, prior +47,000.
+
+---
+
+### 2026-08-20 09:30:33  #市場 #焦點
+
+北證50日內漲幅達1.27%，成分股中，森萱醫藥漲24.75%，諾思蘭德漲7.38%，德源藥業漲5.35%，錦波生物漲4.82%。
+
+---
+
+### 2026-08-20 09:30:27  #MKT News #Economic Calendar #Important
+
+Australia | Part-Time Employment (Jul) | actual -32200.000000000004K | previous 47000K
+
+---
+
+### 2026-08-20 09:30:16  #其他
+
+澳大利亞7月份就業人數下降15,800人；預估12,000。
+
+---
+
+### 2026-08-20 09:30:14  #MKT News
+
+A-share grain sector opened lower; Wanxiang Denong and Nongfa Seed hit limit-down, while Qiule Seed, Jingliang Holdings, Kangnong Seed, Beidahuang and Heizhima declined.
+
+---
+
+### 2026-08-20 09:30:12  #MKT News #AUDUSD
+
+Australia July seasonally adjusted labour force participation rate 66.9% vs 66.9% expected, 67.0% prior.
+
+---
+
+### 2026-08-20 09:30:09  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
+
+Australia July employment change -15.8k vs est. +15.0k; prior +76.3k.
+
+---
+
+### 2026-08-20 09:30:08  #其他
+
+澳大利亞7月季調後失業率 4.5%，預期4.40%，前值4.40%。
+
+---
+
+### 2026-08-20 09:30:07  #MKT News #Important #DXY #Impact bullish
+
+Australia July seasonally adjusted unemployment rate 4.5% (consensus 4.4%; June 4.4%).
+
+---
+
+### 2026-08-20 09:30:07  #MKT News
+
+Australia July full-time employment +16.3k jobs, prior +29.3k.
+
+---
+
+### 2026-08-20 09:30:04  #市場 #焦點
+
+科創50日內漲幅達1.08%，成分股中，惠泰醫療漲9.99%，百利天恆漲3.52%，艾力斯漲2.59%，生益電子漲2.51%。
+
+---
+
+### 2026-08-20 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲1.09%， 滬深300指數期貨連續漲0.77%， 中證500指數期貨連續漲1.09%， 上證50指數期貨連續漲0.60%。
+
+---
+
+### 2026-08-20 09:30:02  #市場
+
+【國債期貨開盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.05%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Labour Force Participation Rate SA (Jul) | actual 66.9% | consensus 66.90% | previous 67.00%
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Full-Time Employment (Jul) | actual 16299.999999999998K | previous 29300K
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Employment (Jul) | actual -15800K | consensus 15000K | previous 76300K
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Unemployment Rate SA (Jul) | actual 4.5% | consensus 4.40% | previous 4.40%
+
+---
+
+### 2026-08-20 09:29:23  #市場
+
+中證轉債指數開盤上漲0.28%。三鑫轉債、微芯轉債、皓元轉債、奧銳轉債、天準轉債漲幅居前，分別漲11.25%、5.60%、5.00%、4.89%、4.18%。億田轉債、美錦轉債、江農轉債、平煤轉債、曉鳴轉債跌幅居前，分別跌4.08%、1.82%、0.81%、0.44%、0.36%。
+
+---
+
+### 2026-08-20 09:29:00  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲1%，現報7789.60點。
+
+---
+
+### 2026-08-20 09:29:00  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內漲1%，現報7550.00點。
+
+---
+
+### 2026-08-20 09:29:00  #MKT News #Important #MRNA.O #Impact bullish #MRK.N
+
+【China innovative-drug stocks surge; Hansen Pharma, Ha Sanlian notch second straight limit-ups】A-share innovative-drug sector opened sharply higher after Moderna jumped 177% overnight when it and Merck said a melanoma vaccine met the primary endpoint in a large trial. Hansen Pharma and Ha Sanlian posted second straight daily limit-ups. Haixin, Zhongguancun, Laimei Pharma, Watson Bio, Jiankai Technology, Shuanglu Pharma, Kangchen Pharma and Yuekang hit daily price limits. Sanyuan Gene rose >20%; Zhifei Bio and Shiyao Innovation gained >15%; Xinkaiyuan, Anke Biotech and Kangtai Biotech rallied >10%.
+
+---
+
+### 2026-08-20 09:28:46  #央行 #國際
+
+馬爾霍特拉稱印度央行的政策仍旨在抑制過度波動。
+
+---
+
+### 2026-08-20 09:28:28  #市場
+
+【糧食概念板塊低開，萬向德農、農發種業觸及跌停】糧食概念板塊低開，萬向德農、農發種業觸及跌停，秋樂種業、京糧控股、康農種業、北大荒、黑芝麻跟跌。
+
+---
+
+### 2026-08-20 09:28:20  #市場
+
+【疫苗主題ETF大漲】疫苗主題ETF大漲，疫苗ETF鵬華、疫苗ETF招商均漲停，疫苗ETF嘉實、疫苗ETF富國雙雙漲超9%，疫苗ETF國泰漲超7%；訊息面上，默沙東(MRK.N)與莫德納(MRNA.O)週三宣佈，聯合研發的黑色素瘤皮膚癌疫苗在首次晚期臨床試驗中取得積極初步結果。
+
+---
+
+### 2026-08-20 09:28:19  #MKT News #Important #Market Regions #Greater China #MRK.N #Impact bullish #MRNA.O
+
+【Vaccine-themed ETFs surge】China vaccine-themed ETFs jumped: Penghua and China Merchants vaccine ETFs hit daily limit; Harvest and Fullgoal vaccine ETFs rose over 9%; Guotai vaccine ETF climbed more than 7%. Merck (MRK.N) and Moderna (MRNA.O) on Wednesday said their jointly developed melanoma skin‑cancer vaccine produced positive preliminary results in the first late‑stage trial.
+
+---
+
+### 2026-08-20 09:28:16  #公司 #市場
+
+【創新藥板塊大幅高開，漢森製藥、哈三聯2連板】創新藥板塊大幅高開，漢森製藥、哈三聯2連板，海欣股份、中關村、萊美藥業、沃森生物、鍵凱科技、雙鷺藥業、康辰藥業、悅康藥業漲停，三元基因漲超20%，智飛生物、石藥創新漲超15%，新開源、安科生物、康泰生物漲超10%。
+
+---
+
+### 2026-08-20 09:27:52  #MKT News
+
+Aili Home shares opened and remained locked at the daily down-limit; turnover exceeded 200 million yuan.
+
+---
+
+### 2026-08-20 09:27:47  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+At the open on Aug 20 (Thu), China’s Shanghai Composite Index rose 12.78 pts (+0.33%) to 3,907.21; Shenzhen Composite Index up 142.81 pts (+1.03%) to 14,032.97; CSI 300 Index up 24.60 pts (+0.54%) to 4,613.30; ChiNext Index up 44.16 pts (+1.27%) to 3,517.65; SSE STAR 50 Index up 17.96 pts (+1.08%) to 1,685.48.
+
+---
+
+### 2026-08-20 09:27:26  #市場
+
+【創新藥、疫苗板塊大幅高開 沃森生物等多股漲停】早盤創新藥、疫苗板塊大幅高開，萊美藥業、沃森生物、康希諾、鍵凱科技、悅康藥業、雙鷺藥業、百克生物等一字漲停，智飛生物、石藥創新、康泰生物等漲超10%。
+
+---
+
+### 2026-08-20 09:27:12  #公司
+
+【瑞豐光電：公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節 技術方向存在差異】瑞豐光電(300241)8月20日在互動平臺表示，公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節，技術方向存在差異：彩虹股份主營液晶顯示用基板玻璃，屬於面板上游材料端；公司的玻璃基業務屬於Mini/Micro LED顯示封裝環節，核心是在基板上完成LED封裝與光學整合。
 
 ---
 
@@ -19350,302 +19590,5 @@ China fuel oil front-month contract rose 6.00% intraday to 4,281 yuan/ton.
 ### 2026-08-19 09:22:34  #MKT News #Important #CNH #Impact bullish
 
 【PBOC nets CNY 142.3 bln liquidity drain via reverse repos】The PBOC did not conduct standard reverse repo operations today but injected CNY 327.4 bln via overnight reverse repos; with CNY 469.7 bln of overnight reverse repos maturing, the net liquidity withdrawal was CNY 142.3 bln.
-
----
-
-### 2026-08-19 09:22:32  #公司 #市場
-
-百度港股開盤大跌12%，此前該公司公佈第二季度銷售額下滑，且資本支出增加。
-
----
-
-### 2026-08-19 09:22:06  #央行 #其他
-
-央行公開市場今日淨回籠1,423億元人民幣。
-
----
-
-### 2026-08-19 09:21:44
-
-港股恒指低開跌0.49％，國企指數跌0.53％，科指跌1.27%。
-
----
-
-### 2026-08-19 09:21:43  #MKT News #Market Regions #Greater China #HSI #Impact bearish #Hang Seng Tech Index #HSCEI
-
-Hong Kong open Aug 19 (Wed): HSI opened down 124.25 pts (-0.49%) at 25,346.9; Hang Seng Tech Index opened down 60.38 pts (-1.27%) at 4,678.8; Hang Seng China Enterprises Index (HSCEI) opened down 44.7 pts (-0.53%) at 8,408.5; Hang Seng Red Chip Index opened down 23.12 pts (-0.55%) at 4,159.92.
-
----
-
-### 2026-08-19 09:21:38  #MKT News #Important #Market Regions #Greater China #09888.HK #Impact bearish #00762.HK #Hang Seng Index
-
-Hong Kong stocks opened lower: Hang Seng down 0.49%, Hang Seng Tech down 1.27%. Baidu (09888.HK) fell more than 12% after earnings; China Unicom (00762.HK) dropped 7.7% after reporting 1H net profit down 34.6% YoY.
-
----
-
-### 2026-08-19 09:21:18  #MKT News
-
-PBOC said that, based on primary dealers' demand, the 7-day reverse repo operation on Aug 19, 2026 was zero. It conducted 327.4 bln yuan of overnight reverse repos.
-
----
-
-### 2026-08-19 09:21:15  #央行 #其他
-
-央行：根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
-
----
-
-### 2026-08-19 09:19:35  #國際
-
-特朗普將於美東時間週三下午2:30在科技領袖陪同下發表講話。
-
----
-
-### 2026-08-19 09:17:08  #市場
-
-【華泰期貨：市場風險情緒有所滋生，對於黃金投資的需求或略有減弱】由於地緣局勢再次出現升溫跡象，目前市場風險情緒有所滋生，對於黃金投資的需求或略有減弱；但看多邏輯並未出現明顯變化，美伊局勢或將從短期高烈度衝突轉向長期對抗，但並不對黃金作為美元資產替代邏輯產生影響；當下白銀與黃金邏輯類似，維持謹慎偏多觀點。（華泰期貨）
-
----
-
-### 2026-08-19 09:16:57  #國際
-
-【外媒：烏克蘭前防長呼籲舉行戰時選舉，澤連斯基面臨“最大內部挑戰”】據英國路透社、《衛報》等媒體報道，烏克蘭前國防部長米哈伊洛·費多羅夫當地時間18日發表重磅講話，呼籲舉行戰時選舉，並稱烏克蘭正面臨治理危機。路透社稱，這是自俄烏衝突爆發以來，烏克蘭總統澤連斯基面臨的“最大內部挑戰”。報道稱，費多羅夫在影片平臺優兔（YouTube）上釋出的影片講話中發出上述呼籲，這是自2022年俄烏衝突爆發以來，首次有烏克蘭主要政治人物公開提出此類要求。烏克蘭現行法律禁止在國家戰時狀態下舉行選舉。
-
----
-
-### 2026-08-19 09:15:36  #市場 #觀點
-
-【中金財富期貨：短期內黃金維持高位震盪的機率較大】債市收益率大幅上行，長端收益率仍處高位抬升持有無息資產的機會成本，疊加金價前期漲幅的獲利了結，昨日黃金出現明顯的調整。短期內密切關注債市的走勢以及利率的變化，考慮到債市收益率難以持續大幅回升，短期內黃金維持高位震盪的機率較大。
-
----
-
-### 2026-08-19 09:15:33  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures opened down 0.6% at 25,289, trading 182 points below the cash index.
-
----
-
-### 2026-08-19 09:15:18  #市場
-
-人民幣兌美元中間價報6.7854元，較上日調高51點。
-
----
-
-### 2026-08-19 09:15:01  #市場
-
-恒指期貨日盤開盤跌0.42%，報25334.00點，低水137.15點。
-
----
-
-### 2026-08-19 09:13:58  #國際
-
-日經225指數跌幅收窄至不到2%，此前一度跌超3%。韓國首爾綜指跌幅收窄至4.2%，此前一度跌超6%。
-
----
-
-### 2026-08-19 09:13:43  #市場 #焦點
-
-甲醇連續主力合約日內漲3%，現報2847.00元。
-
----
-
-### 2026-08-19 09:12:55  #MKT News #Important
-
-【Yangtze Memory IPO counseling status moves to 'counseling acceptance'】CSRC website shows Yangtze Memory Holdings Co.'s IPO counseling status changed to 'counseling acceptance'; sponsoring brokers are Citic Securities and CSC Financial.
-
----
-
-### 2026-08-19 09:12:42  #公司 #觀點
-
-【長江儲存IPO輔導狀態變更為“輔導驗收”】據證監會網站披露，長江儲存控股股份有限公司IPO輔導狀態變更為“輔導驗收”，輔導券商為中信證券和中信建投。
-
----
-
-### 2026-08-19 09:12:17  #市場 #國際
-
-【菲律賓比索兌美元跌至紀錄新低 受油價上漲拖累】菲律賓比索兌美元跌至紀錄新低，油價上漲給比索匯率帶來壓力。
-美元/比索一度漲0.3%至61.985，突破了7月底創下的前紀錄高點61.85。
-
----
-
-### 2026-08-19 09:11:17  #市場
-
-新加坡海峽時報指數下跌1%至5645點。
-
----
-
-### 2026-08-19 09:11:17  #MKT News #Market Themes #AI Revolution
-
-【Zhipu launches GLM-5.3 API】Zhipu said the GLM-5.3 API is live. The model is optimized for complex coding, defensive cybersecurity and long-horizon tasks. GLM-5.3 has been integrated with ZCode and included in the GLM Coding Plan. API access is open and pricing remains unchanged from GLM-5.2. Model weights will be open-sourced next Friday.
-
----
-
-### 2026-08-19 09:09:58  #其他
-
-【智譜：GLM-5.3 API即日起正式上線】 據智譜訊息，GLM-5.3 API即日起正式上線。模型擅長複雜編碼、防禦性網路安全以及長程任務。目前，GLM-5.3已接入ZCode等編碼平臺，並納入GLM Coding Plan。API已開放呼叫，定價與GLM-5.2保持不變。模型權重將於下週五開源。
-
----
-
-### 2026-08-19 09:08:33  #國際
-
-【烏克蘭被爆“愛國者”導彈即將耗盡，俄媒：基輔發現處境非常艱難，甚至有些“絕望”】烏戰事膠著之際，美國有線電視新聞網（CNN）17日獨家披露，烏克蘭向CNN透露其致命弱點——“愛國者”導彈即將耗盡。烏克蘭一直不願透露其究竟還剩下多少攔截導彈，烏總統澤連斯基上週表示，烏克蘭目前擁有的攔截導彈數量，僅為其急需從美國獲得數量的1%。俄新社17日稱，由於美國武庫耗盡、烏克蘭缺乏生產許可證以及成本上升，華盛頓近期內不可能向基輔交付“愛國者”導彈。 烏方透露“致命弱點” CNN是首家獲准進入烏克蘭境內檢視“愛國者”導彈防禦系統的媒體。烏克蘭官員向該媒體披露了一個事實：該國的導彈已基本耗盡。俄羅斯《莫斯科晚報》17日稱，由於冬季到來之前“愛國者”導彈數量不足，基輔發現自己處境非常艱難，甚至有些“絕望”。 （環球網）
-
----
-
-### 2026-08-19 09:07:45  #市場
-
-【洋河夢之藍M6+青花郎大漲創新高 茅臺五糧液等高階酒多數走弱】新浪財經“酒價內參”過去24小時收集的資料顯示，8月19日中國白酒業11大單品六漲五跌，贏家數量略佔上風。上漲方面，五糧液1618上漲2元至823元，在近期價格中樞位小幅修復；洋河夢之藍M6+大漲7元至618元，昨日回撥後價格再度回升，力創月新高；古井貢古20上漲6元至538元，結束兩日回撥；習酒君品小漲1元至645元，四連漲平近一個月最高紀錄；青花郎大漲6元，終端零售均價來到713元，四連陽重返近一個月次高位；水晶劍南春漲1元至406元，結束三連平亦創近一個月最高。下跌方面，飛天茅臺下跌2元，終端零售均價來到1780元，高位振盪行情延續；精品茅臺下跌6元至2482元，五連陰前期大漲行情終結；五糧液普五八代下跌8元至797元，三連跌掉落800元大關；青花汾20下跌4元至394元，昨日短期漲勢止步，上探400元關口未果；國窖1573下跌6元至880元，三連陰價格重心明顯下移。
-
-今日11大單品的終端零售總價持續下探，大盤價格重心繼續走低，如果11大單品各取一瓶整體打包售賣，今日總售價為10076元，較昨日小幅下跌3元，創出六天以來新低。
-
----
-
-### 2026-08-19 09:07:31  #市場 #焦點
-
-甲醇連續主力合約日內漲2%，現報2820.00元。
-
----
-
-### 2026-08-19 09:07:16  #公司
-
-人工智慧初創公司Temporal正開展 5 億美元融資，融資計劃將使其估值翻一番以上。這家 AI 初創企業洽談融資時目標估值至少達 120 億美元。
-
----
-
-### 2026-08-19 09:07:09  #市場 #焦點
-
-玉米連續主力合約日內漲2%，現報2259.00元。
-
----
-
-### 2026-08-19 09:06:10  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Iran denies launching missiles at UAE; UAE suspends trade and financial ties】Iran foreign ministry spokesman Baghaei on the 19th denied UAE allegations that Iran launched ballistic missiles, calling the claims unfounded and urging states to avoid baseless accusations while saying the situation is complicated by what he described as ongoing malicious actions and a history of false‑flag operations by the United States and Israel. The UAE defence ministry said on the 18th its air-defence systems detected two ballistic missiles launched from Iran, with one falling outside and one inside UAE territorial waters; the UAE foreign ministry early on the 19th said it will suspend all trade, commercial and financial transactions with Iran until further notice, citing a regional escalation that undermines regional and international peace and security.
-
----
-
-### 2026-08-19 09:05:04  #市場 #國際
-
-菲律賓比索因油價上漲而跌至歷史新低。
-
----
-
-### 2026-08-19 09:04:37  #其他
-
-【四川長寧縣一升學宴突發牆體倒塌事故，已致5死17傷】記者19日從四川省長寧縣應急管理局獲悉，8月18日17時30分許，長寧縣硐底鎮新堡村一村民在家中院壩為子女舉辦升學宴，因臨時搭建的雨棚積水過多，繩索拉力過大，導致用於固定雨棚的一樓房頂女兒牆牆體倒塌，造成3人現場死亡，2人送醫後搶救無效死亡，另有17名傷者正在醫院接受治療。目前，當地正全力救治傷員並開展善後處置工作。（新華社）
-
----
-
-### 2026-08-19 09:03:49  #其他
-
-【朱雀三號總指揮談回收成功感受】8月19日，朱雀三號重複使用運載火箭在東風商業航天創新試驗區發射升空，在甘肅民勤成功實現回收目標，成為中國第一枚實施軌道級一級回收的民營火箭。近日，人民日報“在場”欄目專訪朱雀三號總指揮戴政。談到朱雀三號回收成功，戴政說心情很激動。戴政主動談及此前朱雀三號遙一運載火箭入軌成功回收失敗，“遙一火箭離回收還差最後一步，我們團隊很快從遺憾中走出來，開展大量的實驗，去尋找原因”。戴政認為，遙二火箭成功回收，正是因為此前回收實驗獲得的寶貴資料，奠定了後續產品改進和迭代的基礎。談到未來目標，戴政說：“將來有一天我們能夠實現高頻次的複用，為我們國家低軌網際網路星座的高密度組網提供一個強有力的支撐。”（人民日報）
-
----
-
-### 2026-08-19 09:02:26  #宏觀 #國際
-
-【王毅將訪問韓國、印尼】外交部發言人宣佈：應韓國外長趙顯、印尼外長蘇吉約諾邀請，中共中央政治局委員、外交部長王毅將於8月19日至22日訪問韓國、印尼。訪問印尼期間，王毅將主持中國印尼全面戰略對話機制首次會議，與國防部長董軍共同出席中印尼外長防長“2＋2”對話機制第二次部長級會議。
-
----
-
-### 2026-08-19 09:02:04  #MKT News #Important #Market Regions #Greater China
-
-Taiwan Weighted Index opened down 989.12 points, or 2.18%, at 44,319.56 on Wednesday, Aug. 19.
-
----
-
-### 2026-08-19 09:01:47  #其他
-
-【深汕特別合作區釋出強季風藍色預警訊號】受偏東急流影響，深圳市氣象臺2026年08月19日09時00分在深汕特別合作區、深汕海域釋出強季風藍色預警訊號，預計今天白天到夜間深汕區最大陣風將達到8級或以上，訊號可能從今天白天持續到夜間。請落實各項防風措施。
-
----
-
-### 2026-08-19 09:01:36  #市場
-
-紐約期銀日內跌2%，現報62.75美元/盎司。
-
----
-
-### 2026-08-19 09:01:22  #MKT News #Market Regions #Greater China
-
-【China's foreign minister to visit South Korea, Indonesia Aug. 19-22】China's foreign minister will visit South Korea and Indonesia from Aug. 19-22, the foreign ministry said. In Indonesia he will chair the inaugural China-Indonesia comprehensive strategic dialogue and, with defense minister Dong Jun, co-attend the second ministerial-level 2+2 meeting of foreign and defense ministers.
-
----
-
-### 2026-08-19 09:01:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange Gold T+D fell 1.32% in early trade on Wednesday, Aug 19, to 941.59 yuan/gram; Silver T+D fell 3.62% to 15,418.0 yuan/kg.
-
----
-
-### 2026-08-19 09:00:55  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Most-active fuel oil contract rose 4.00% intraday to 4,200 yuan/ton.
-
----
-
-### 2026-08-19 09:00:43  #MKT News #Important #Commodities #Precious Metals
-
-SHFE main silver contract fell 4.00% intraday to 15,451.00 yuan/kg.
-
----
-
-### 2026-08-19 09:00:35  #市場 #焦點
-
-白銀連續主力合約日內跌4%，現報15451.00元。
-
----
-
-### 2026-08-19 09:00:33  #市場
-
-MSCI亞太指數下跌2.1%至270.22點。
-
----
-
-### 2026-08-19 09:00:27  #市場
-
-臺灣證交所加權股價指數下跌2.1%至44,367.36點。
-
----
-
-### 2026-08-19 09:00:21  #市場
-
-臺灣證交所加權股價指數下跌1.5%至44,623.24點。
-
----
-
-### 2026-08-19 09:00:17  #MKT News #Important #CSI300 #Impact bearish #SSE Composite
-
-FTSE China A50 index futures opened down 0.5%.
-
----
-
-### 2026-08-19 09:00:15  #其他
-
-臺灣證交所加權股價指數開低0.5%報45,071.34。
-
----
-
-### 2026-08-19 09:00:12  #市場 #焦點
-
-燃料油連續主力合約日內漲3%，現報3815.00元。
-
----
-
-### 2026-08-19 09:00:02  #市場
-
-富時中國A50指數期貨開盤下跌0.52%。
-
----
-
-### 2026-08-19 09:00:02  #市場
-
-【商品期貨開盤】白銀連續跌3.90%，低硫燃料油連續漲2.72%，燃料油連續漲2.59%，鈀連續跌2.58%，鉑連續跌2.45%。
-
----
-
-### 2026-08-19 08:59:31  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Rises Further as Supply Risks Mount — European natural gas prices rose further above €64 per MWh on Wednesday, the highest since January 2023, as concerns over a potential winter supply crunch intensified amid a lack of progress on a deal to reopen the Strait of Hormuz. President Donald Trump said that no talks with Iran are currently taking place or scheduled and that the US naval blockade remains in full force. He added that the strait is open and operating, in contrast to Iran’s position that the key waterway will remain closed until Washington meets its conditions. Traffic through the waterway has fallen to a standstill, stranding Qatari LNG tankers and delaying deliveries to Europe. The reduced inflow, combined with summer heatwaves that have boosted demand for gas-fired power generation for cooling, is slowing the seasonal buildup of gas inventories. As a result, traders are increasingly concerned that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices.
 
 ---

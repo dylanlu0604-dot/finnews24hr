@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 09:55:58_
-_本檔包含 3394 則快訊，約 646192 字_
+_更新時間：2026-08-23 11:10:48_
+_本檔包含 3383 則快訊，約 644789 字_
+
+---
+
+### 2026-08-21 09:43:41  #公司 #市場
+
+【黃金概念逆勢走強 白銀有色觸及漲停】早盤黃金概念逆勢走強，白銀有色觸及漲停，此前深中華A2連板，株冶集團、赤峰黃金、曉程科技、西部黃金跟漲。
+
+---
+
+### 2026-08-21 09:43:37  #MKT News #Important
+
+China's total electricity consumption in July rose to 1,040 billion kWh, up from 898.1 billion kWh previously.
+
+---
+
+### 2026-08-21 09:43:24  #MKT News #Economic Calendar #Important
+
+China | Total Electricity Consumption (Jul) | actual 1040000000000B | previous 898100000000B
+
+---
+
+### 2026-08-21 09:43:19  #公司 #國際
+
+HD現代重工集團：正考慮包括收購美國造船廠或收購其股權在內的多項方案。
+
+---
+
+### 2026-08-21 09:43:17  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #Copper #Impact bearish #CNH #CSI300
+
+China's total electricity consumption rose 1.7% YoY in July, down from 3.7% in June.
+
+---
+
+### 2026-08-21 09:43:11  #MKT News #Economic Calendar #Important
+
+China | Total Electricity Consumption (YoY) (Jul) | actual 1.7% | previous 3.7%
+
+---
+
+### 2026-08-21 09:42:57  #國際
+
+紐西蘭與泰國啟動戰略伙伴關係。
+
+---
+
+### 2026-08-21 09:42:14  #國際
+
+【美媒：美國前國務卿基辛格的妻子南希·基辛格去世，終年92歲】據《紐約時報》等美媒報道，美國前國務卿亨利·基辛格的妻子南希·基辛格20日在位於康涅狄格州的家中去世，終年92歲。（環球網）
+
+---
+
+### 2026-08-21 09:42:00  #市場 #焦點
+
+【A股疫苗板塊短線走低】金迪克跌12.45%，沃森生物、康希諾跟跌。
+
+---
+
+### 2026-08-21 09:42:00  #市場 #焦點
+
+【A股精準醫療板塊短線走低】安科生物跌11.53%，華邦健康、迪安診斷、金域醫學、貝瑞基因、華大智造跟跌。
+
+---
+
+### 2026-08-21 09:40:52  #公司
+
+正榮地產(06158.HK)漲超120%，訊息面上，公司境外重組計劃條款書已送交若干債權人，擬登出債務併發行新股份。
+
+---
+
+### 2026-08-21 09:40:45  #市場 #原創
+
+【比特幣升破7萬美元或步入寒冬末期 83%籌碼落入長期持有者手中】比特幣升破7萬美元，助力之一是市場底層一個較不受注目的變化：越來越多比特幣落入歷來惜售的長期投資者手中。根據Compass Point彙編的資料，長期持有者目前控制比特幣籌碼的83%，為2023年12月以來最高佔比。與接近高點時相比，籌碼分佈也不再那麼集中於高價區。目前在買進後持有的投資人掌握的比特幣中，僅14%的持有成本是在10萬美元以上，低於去年10月的30%；另有19%的取得成本介於6萬至7萬美元。Compass Point表示，約19%的比特幣籌碼成本落在6萬至7萬美元，過往熊市觸底時，在相近價格區間的籌碼佔比約為15%。Compass的Ed Engel和Michael Donovan寫道，“我們追蹤的每個指標都表明，比特幣正處於加密貨幣寒冬的最後階段，”並補充說，一旦突破7萬美元，短線交易者便可擺脫虧損，轉為獲利，進而可能形成足夠的上漲動能，挑戰上一輪週期7.6萬美元的平均持倉成本。
+
+---
+
+### 2026-08-21 09:40:36  #MKT News #Market Regions #Greater China #06158.HK #Impact bullish
+
+Zhengrong Real Estate (06158.HK) rose over 120% after the company delivered terms of an offshore restructuring plan to certain creditors proposing to cancel debt and issue new shares.
+
+---
+
+### 2026-08-21 09:39:15  #MKT News #Market Themes #Crypto Concepts #00434.HK #Impact bullish #08005.HK #08267.HK
+
+Hong Kong-listed blockchain stocks rose: 00434.HK up nearly 13%, 08005.HK up nearly 12%, 08267.HK up 11.5%, 01499.HK up over 9%.
+
+---
+
+### 2026-08-21 09:38:40  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌1%，現報7683.00點。
+
+---
+
+### 2026-08-21 09:38:13  #市場
+
+【功率半導體概念表現活躍 士蘭微漲停】功率半導體概念表現活躍，士蘭微漲停，斯達半導、揚傑科技、華潤微、新潔能、宏微科技跟漲。
+
+---
+
+### 2026-08-21 09:37:55  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share gas sector surged, with Shuifa Gas hitting the daily limit-up; Guizhou Gas, Tianhao Energy, Hongtong Gas, Kaitian Gas and Shengli Co. also rose.
+
+---
+
+### 2026-08-21 09:37:41  #市場
+
+【港股黃金股延續漲勢 山東黃金漲近5%】截至發稿，山東黃金(01787.HK)漲4.67%，靈寶黃金(03330.HK)漲4.45%，赤峰黃金(06693.HK)漲3.92%。
+
+---
+
+### 2026-08-21 09:37:33  #公司
+
+【樂山國融基金等新設算電協同股權投資企業】企查查APP顯示，近日，嘉興綏山算電協同股權投資合夥企業（有限合夥）成立，經營範圍包含：股權投資；以私募基金從事創業投資活動。企查查股權穿透顯示，該企業由樂山國融股權投資基金管理有限公司等共同出資。
+
+---
+
+### 2026-08-21 09:37:06  #其他
+
+【廣西水利廳啟動洪水防禦四級應急響應】廣西壯族自治區水利廳訊息，8月21日早上，南海低壓已進入北部灣，根據氣象水文部門監測預報，受其影響，未來幾天桂西及桂南沿海部分地區將有一次持續性強降雨過程，部分江河可能出現超警洪水；山洪災害、岩溶內澇致災風險較高，影響水庫安全度汛。根據自治區水利廳洪水防禦工作預案，經綜合分析研判，決定自8月21日9時啟動自治區水利廳洪水防禦四級應急響應。
+
+---
+
+### 2026-08-21 09:36:25  #市場
+
+【電子特氣概念震盪反彈 和遠氣體漲停】早盤電子特氣概念震盪反彈，和遠氣體漲停，昊華科技、蜀道裝備、正帆科技、華特氣體、金宏氣體跟漲。
+
+---
+
+### 2026-08-21 09:36:15  #MKT News
+
+Shanghai silver front-month (most-active) contract rose 4.00% intraday to 16,756.00 yuan per kilogram.
+
+---
+
+### 2026-08-21 09:36:11  #市場 #焦點
+
+現貨黃金突破4540美元/盎司，日內漲0.47%。
+
+---
+
+### 2026-08-21 09:36:09  #MKT News #CEO.O #Impact bullish
+
+【China completes, delivers domestically developed next-generation deepwater multipurpose marine engineering vessel】CNOOC said on Aug 21 its domestically developed next-generation deepwater multipurpose marine engineering vessel "Haiyang Shiyou 292" was completed and delivered at a Jiangsu shipyard, boosting China’s underwater engineering and offshore facility servicing capacity and providing critical equipment to accelerate deep-sea energy resource development.
+
+---
+
+### 2026-08-21 09:36:00  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌1%，現報7440.40點。
+
+---
+
+### 2026-08-21 09:35:51  #MKT News #Market Regions #Greater China #02318.HK #Impact bullish #02328.HK #02628.HK
+
+Hong Kong-listed insurers advanced: Ping An (02318.HK) rose more than 3%; PICC P&C (02328.HK), PICC Group (01339.HK), China Life (02628.HK) and China Pacific Insurance (02601.HK) each gained over 2%.
+
+---
+
+### 2026-08-21 09:35:41  #MKT News #Commodities #Energy #Copper #Impact bullish #CSI300 #CNH
+
+【China NEA: July total power consumption up 1.7% YoY】China's National Energy Administration said July total power consumption was 1,040 bln kWh, up 1.7% YoY. By sector: primary 16.7 bln kWh (-2.0%); secondary 611.6 bln kWh (+3.0%), including industrial use 605.5 bln kWh (+3.3%) and high‑tech & equipment manufacturing 122.0 bln kWh (+8.9%). Tertiary 218.3 bln kWh (+4.8%), with EV charging and battery‑swap services 16.4 bln kWh (+50.3%) and internet data services 9.9 bln kWh (+40.1%). Urban and rural residential use 193.5 bln kWh (-5.1%).
+
+---
+
+### 2026-08-21 09:35:33  #公司
+
+【北部灣港等在廣西成立江海聯運碼頭公司】企查查APP顯示，近日，廣西江海聯運碼頭有限公司成立，經營範圍包含：船舶港口服務；港口貨物裝卸搬運活動；以自有資金從事投資活動等。企查查股權穿透顯示，該公司由北部灣港等共同持股。
+
+---
+
+### 2026-08-21 09:35:07  #其他
+
+【國家統計局：2026年我國早稻生產保持穩定】國家統計局農村司司長魏鋒華解讀早稻生產情況時表示，根據10省（區）早稻實割實測抽樣調查結果推算，全國早稻播種面積略有增加，單產有所下降，早稻產量565.8億斤，連續6年穩定在560億斤以上，總體保持穩定。今年各地加力推進糧油作物大面積單產提升行動，大力推廣機插機拋、合理增密、側深施肥等技術措施，促進早稻單產水平提升。早稻播種以來，主產區大部光溫水比較匹配，早稻長勢良好。抽穗揚花期，江南、華南等主產區出現持續性強降水，部分地區早稻遭遇“雨洗禾花”，影響授粉結實，空癟率增加，結實率下降。成熟收穫期，華南等主產區遭受多輪臺風影響，部分低窪農田出現漬澇，區域性地塊早稻出現倒伏，影響早稻灌漿和成熟收穫。
 
 ---
 
@@ -20258,245 +20432,5 @@ Kuaishou (01024.HK) shares fell over 10% after the company reported 1H adjusted 
 ### 2026-08-20 09:32:03  #公司
 
 【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局批准三生國健藥業（上海）股份有限公司申報的安弗利奇塔單抗注射液（皮下注射）（商品名：益賽那）上市，適用於對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的，以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該品種的上市為相關患者提供了新的治療選擇。近日，國家藥品監督管理局透過優先審評審批程式，批准成都盛迪醫藥有限公司申報的1類創新藥富馬酸立康可泮膠囊（商品名稱：恆優達）上市，該藥用於治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。該藥品上市為患者提供了新的治療選擇。
-
----
-
-### 2026-08-20 09:31:36  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【China equity index futures open】CSI 300 index futures (IF) main contract up 0.55%; SSE 50 index futures (IH) main contract up 0.40%; CSI 500 index futures (IC) main contract up 0.84%; CSI 1000 index futures (IM) main contract up 0.86%.
-
----
-
-### 2026-08-20 09:31:35  #MKT News #Market Regions #Greater China
-
-【China government bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) most-active contract down 0.01%, 5-year (TF) down 0.03%, 10-year (T) down 0.05%, 30-year (TL) down 0.13%.
-
----
-
-### 2026-08-20 09:31:31  #市場
-
-澳大利亞ASX 200指數在就業資料公佈後上漲0.4%。
-
----
-
-### 2026-08-20 09:31:24  #MKT News
-
-【Money-market yield tracker】Tencent Licaitong (Current+) 7-day annualized yield ranged 0.7050%–1.4020%; WeChat Lingqiantong 7-day annualized yield ranged 0.8780%–1.0010%; Alipay Yu'ebao 7-day annualized yield ranged 0.9010%–1.0600%.
-
----
-
-### 2026-08-20 09:31:22  #MKT News
-
-【South China Sea tropical depression makes landfall in Wenchang, Hainan】A tropical depression in the South China Sea made landfall near Longlou town, Wenchang, Hainan at about 05:40 on the 20th, with maximum winds near the center of 6 on the scale (12 m/s) and central pressure 997 hPa. The system is forecast to move westward across Wenchang, Haikou, Chengmai, Lingao and Danzhou and enter the Beibu Gulf by the afternoon to evening of the 20th, bringing heavy rain to northern and western Hainan.
-
----
-
-### 2026-08-20 09:31:17  #經濟數據 #澳洲
-
-【澳大利亞7月季調後失業率為4.5%】澳大利亞7月季調後失業率為4.5%，預期為4.40%，前值為4.40%。
-
----
-
-### 2026-08-20 09:31:15  #MKT News #Important
-
-C Yushu shares fell over 10%, hitting a low of 750 yuan, on turnover above 600 mln yuan.
-
----
-
-### 2026-08-20 09:31:13  #其他
-
-C宇樹跌超10%，股價最低觸及750元，成交額超6億元。
-
----
-
-### 2026-08-20 09:30:49  #其他
-
-【南海熱帶低壓在海南文昌登陸】從海南省氣象局瞭解到，南海熱帶低壓已於20日5時40分前後在海南省文昌市龍樓鎮沿海登陸，登陸時中心附近最大風力6級（12m/s），中心附近最低氣壓997hPa。預計，該低壓將向偏西方向移動，先後穿過文昌、海口、澄邁、臨高、儋州等市縣，於20日下午到夜間移入北部灣海面。受其影響，海南島北部和西部將有強降水。
-
----
-
-### 2026-08-20 09:30:41  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Precious-metals thematic ETFs opened higher; Guotou Silver LOF rose more than 4%, gold-themed LOF and Harvest Gold LOF each gained over 3%, and Gold LOF was up nearly 3%. Earlier, spot gold topped $4,500 for the first time since June 4.
-
----
-
-### 2026-08-20 09:30:35  #MKT News
-
-Australia July part-time employment +32,200, prior +47,000.
-
----
-
-### 2026-08-20 09:30:33  #市場 #焦點
-
-北證50日內漲幅達1.27%，成分股中，森萱醫藥漲24.75%，諾思蘭德漲7.38%，德源藥業漲5.35%，錦波生物漲4.82%。
-
----
-
-### 2026-08-20 09:30:27  #MKT News #Economic Calendar #Important
-
-Australia | Part-Time Employment (Jul) | actual -32200.000000000004K | previous 47000K
-
----
-
-### 2026-08-20 09:30:16  #其他
-
-澳大利亞7月份就業人數下降15,800人；預估12,000。
-
----
-
-### 2026-08-20 09:30:14  #MKT News
-
-A-share grain sector opened lower; Wanxiang Denong and Nongfa Seed hit limit-down, while Qiule Seed, Jingliang Holdings, Kangnong Seed, Beidahuang and Heizhima declined.
-
----
-
-### 2026-08-20 09:30:12  #MKT News #AUDUSD
-
-Australia July seasonally adjusted labour force participation rate 66.9% vs 66.9% expected, 67.0% prior.
-
----
-
-### 2026-08-20 09:30:09  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
-
-Australia July employment change -15.8k vs est. +15.0k; prior +76.3k.
-
----
-
-### 2026-08-20 09:30:08  #其他
-
-澳大利亞7月季調後失業率 4.5%，預期4.40%，前值4.40%。
-
----
-
-### 2026-08-20 09:30:07  #MKT News #Important #DXY #Impact bullish
-
-Australia July seasonally adjusted unemployment rate 4.5% (consensus 4.4%; June 4.4%).
-
----
-
-### 2026-08-20 09:30:07  #MKT News
-
-Australia July full-time employment +16.3k jobs, prior +29.3k.
-
----
-
-### 2026-08-20 09:30:04  #市場 #焦點
-
-科創50日內漲幅達1.08%，成分股中，惠泰醫療漲9.99%，百利天恆漲3.52%，艾力斯漲2.59%，生益電子漲2.51%。
-
----
-
-### 2026-08-20 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲1.09%， 滬深300指數期貨連續漲0.77%， 中證500指數期貨連續漲1.09%， 上證50指數期貨連續漲0.60%。
-
----
-
-### 2026-08-20 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.05%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Labour Force Participation Rate SA (Jul) | actual 66.9% | consensus 66.90% | previous 67.00%
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Full-Time Employment (Jul) | actual 16299.999999999998K | previous 29300K
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Employment (Jul) | actual -15800K | consensus 15000K | previous 76300K
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Unemployment Rate SA (Jul) | actual 4.5% | consensus 4.40% | previous 4.40%
-
----
-
-### 2026-08-20 09:29:23  #市場
-
-中證轉債指數開盤上漲0.28%。三鑫轉債、微芯轉債、皓元轉債、奧銳轉債、天準轉債漲幅居前，分別漲11.25%、5.60%、5.00%、4.89%、4.18%。億田轉債、美錦轉債、江農轉債、平煤轉債、曉鳴轉債跌幅居前，分別跌4.08%、1.82%、0.81%、0.44%、0.36%。
-
----
-
-### 2026-08-20 09:29:00  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報7789.60點。
-
----
-
-### 2026-08-20 09:29:00  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內漲1%，現報7550.00點。
-
----
-
-### 2026-08-20 09:29:00  #MKT News #Important #MRNA.O #Impact bullish #MRK.N
-
-【China innovative-drug stocks surge; Hansen Pharma, Ha Sanlian notch second straight limit-ups】A-share innovative-drug sector opened sharply higher after Moderna jumped 177% overnight when it and Merck said a melanoma vaccine met the primary endpoint in a large trial. Hansen Pharma and Ha Sanlian posted second straight daily limit-ups. Haixin, Zhongguancun, Laimei Pharma, Watson Bio, Jiankai Technology, Shuanglu Pharma, Kangchen Pharma and Yuekang hit daily price limits. Sanyuan Gene rose >20%; Zhifei Bio and Shiyao Innovation gained >15%; Xinkaiyuan, Anke Biotech and Kangtai Biotech rallied >10%.
-
----
-
-### 2026-08-20 09:28:46  #央行 #國際
-
-馬爾霍特拉稱印度央行的政策仍旨在抑制過度波動。
-
----
-
-### 2026-08-20 09:28:28  #市場
-
-【糧食概念板塊低開，萬向德農、農發種業觸及跌停】糧食概念板塊低開，萬向德農、農發種業觸及跌停，秋樂種業、京糧控股、康農種業、北大荒、黑芝麻跟跌。
-
----
-
-### 2026-08-20 09:28:20  #市場
-
-【疫苗主題ETF大漲】疫苗主題ETF大漲，疫苗ETF鵬華、疫苗ETF招商均漲停，疫苗ETF嘉實、疫苗ETF富國雙雙漲超9%，疫苗ETF國泰漲超7%；訊息面上，默沙東(MRK.N)與莫德納(MRNA.O)週三宣佈，聯合研發的黑色素瘤皮膚癌疫苗在首次晚期臨床試驗中取得積極初步結果。
-
----
-
-### 2026-08-20 09:28:19  #MKT News #Important #Market Regions #Greater China #MRK.N #Impact bullish #MRNA.O
-
-【Vaccine-themed ETFs surge】China vaccine-themed ETFs jumped: Penghua and China Merchants vaccine ETFs hit daily limit; Harvest and Fullgoal vaccine ETFs rose over 9%; Guotai vaccine ETF climbed more than 7%. Merck (MRK.N) and Moderna (MRNA.O) on Wednesday said their jointly developed melanoma skin‑cancer vaccine produced positive preliminary results in the first late‑stage trial.
-
----
-
-### 2026-08-20 09:28:16  #公司 #市場
-
-【創新藥板塊大幅高開，漢森製藥、哈三聯2連板】創新藥板塊大幅高開，漢森製藥、哈三聯2連板，海欣股份、中關村、萊美藥業、沃森生物、鍵凱科技、雙鷺藥業、康辰藥業、悅康藥業漲停，三元基因漲超20%，智飛生物、石藥創新漲超15%，新開源、安科生物、康泰生物漲超10%。
-
----
-
-### 2026-08-20 09:27:52  #MKT News
-
-Aili Home shares opened and remained locked at the daily down-limit; turnover exceeded 200 million yuan.
-
----
-
-### 2026-08-20 09:27:47  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-At the open on Aug 20 (Thu), China’s Shanghai Composite Index rose 12.78 pts (+0.33%) to 3,907.21; Shenzhen Composite Index up 142.81 pts (+1.03%) to 14,032.97; CSI 300 Index up 24.60 pts (+0.54%) to 4,613.30; ChiNext Index up 44.16 pts (+1.27%) to 3,517.65; SSE STAR 50 Index up 17.96 pts (+1.08%) to 1,685.48.
-
----
-
-### 2026-08-20 09:27:26  #市場
-
-【創新藥、疫苗板塊大幅高開 沃森生物等多股漲停】早盤創新藥、疫苗板塊大幅高開，萊美藥業、沃森生物、康希諾、鍵凱科技、悅康藥業、雙鷺藥業、百克生物等一字漲停，智飛生物、石藥創新、康泰生物等漲超10%。
-
----
-
-### 2026-08-20 09:27:12  #公司
-
-【瑞豐光電：公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節 技術方向存在差異】瑞豐光電(300241)8月20日在互動平臺表示，公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節，技術方向存在差異：彩虹股份主營液晶顯示用基板玻璃，屬於面板上游材料端；公司的玻璃基業務屬於Mini/Micro LED顯示封裝環節，核心是在基板上完成LED封裝與光學整合。
 
 ---

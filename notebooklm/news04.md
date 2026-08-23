@@ -1,7 +1,304 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 09:55:58_
-_本檔包含 3215 則快訊，約 645631 字_
+_更新時間：2026-08-23 11:10:48_
+_本檔包含 3237 則快訊，約 644875 字_
+
+---
+
+### 2026-08-19 09:22:32  #公司 #市場
+
+百度港股開盤大跌12%，此前該公司公佈第二季度銷售額下滑，且資本支出增加。
+
+---
+
+### 2026-08-19 09:22:06  #央行 #其他
+
+央行公開市場今日淨回籠1,423億元人民幣。
+
+---
+
+### 2026-08-19 09:21:44
+
+港股恒指低開跌0.49％，國企指數跌0.53％，科指跌1.27%。
+
+---
+
+### 2026-08-19 09:21:43  #MKT News #Market Regions #Greater China #HSI #Impact bearish #Hang Seng Tech Index #HSCEI
+
+Hong Kong open Aug 19 (Wed): HSI opened down 124.25 pts (-0.49%) at 25,346.9; Hang Seng Tech Index opened down 60.38 pts (-1.27%) at 4,678.8; Hang Seng China Enterprises Index (HSCEI) opened down 44.7 pts (-0.53%) at 8,408.5; Hang Seng Red Chip Index opened down 23.12 pts (-0.55%) at 4,159.92.
+
+---
+
+### 2026-08-19 09:21:38  #MKT News #Important #Market Regions #Greater China #09888.HK #Impact bearish #00762.HK #Hang Seng Index
+
+Hong Kong stocks opened lower: Hang Seng down 0.49%, Hang Seng Tech down 1.27%. Baidu (09888.HK) fell more than 12% after earnings; China Unicom (00762.HK) dropped 7.7% after reporting 1H net profit down 34.6% YoY.
+
+---
+
+### 2026-08-19 09:21:18  #MKT News
+
+PBOC said that, based on primary dealers' demand, the 7-day reverse repo operation on Aug 19, 2026 was zero. It conducted 327.4 bln yuan of overnight reverse repos.
+
+---
+
+### 2026-08-19 09:21:15  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
+
+---
+
+### 2026-08-19 09:19:35  #國際
+
+特朗普將於美東時間週三下午2:30在科技領袖陪同下發表講話。
+
+---
+
+### 2026-08-19 09:17:08  #市場
+
+【華泰期貨：市場風險情緒有所滋生，對於黃金投資的需求或略有減弱】由於地緣局勢再次出現升溫跡象，目前市場風險情緒有所滋生，對於黃金投資的需求或略有減弱；但看多邏輯並未出現明顯變化，美伊局勢或將從短期高烈度衝突轉向長期對抗，但並不對黃金作為美元資產替代邏輯產生影響；當下白銀與黃金邏輯類似，維持謹慎偏多觀點。（華泰期貨）
+
+---
+
+### 2026-08-19 09:16:57  #國際
+
+【外媒：烏克蘭前防長呼籲舉行戰時選舉，澤連斯基面臨“最大內部挑戰”】據英國路透社、《衛報》等媒體報道，烏克蘭前國防部長米哈伊洛·費多羅夫當地時間18日發表重磅講話，呼籲舉行戰時選舉，並稱烏克蘭正面臨治理危機。路透社稱，這是自俄烏衝突爆發以來，烏克蘭總統澤連斯基面臨的“最大內部挑戰”。報道稱，費多羅夫在影片平臺優兔（YouTube）上釋出的影片講話中發出上述呼籲，這是自2022年俄烏衝突爆發以來，首次有烏克蘭主要政治人物公開提出此類要求。烏克蘭現行法律禁止在國家戰時狀態下舉行選舉。
+
+---
+
+### 2026-08-19 09:15:36  #市場 #觀點
+
+【中金財富期貨：短期內黃金維持高位震盪的機率較大】債市收益率大幅上行，長端收益率仍處高位抬升持有無息資產的機會成本，疊加金價前期漲幅的獲利了結，昨日黃金出現明顯的調整。短期內密切關注債市的走勢以及利率的變化，考慮到債市收益率難以持續大幅回升，短期內黃金維持高位震盪的機率較大。
+
+---
+
+### 2026-08-19 09:15:33  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened down 0.6% at 25,289, trading 182 points below the cash index.
+
+---
+
+### 2026-08-19 09:15:18  #市場
+
+人民幣兌美元中間價報6.7854元，較上日調高51點。
+
+---
+
+### 2026-08-19 09:15:01  #市場
+
+恒指期貨日盤開盤跌0.42%，報25334.00點，低水137.15點。
+
+---
+
+### 2026-08-19 09:13:58  #國際
+
+日經225指數跌幅收窄至不到2%，此前一度跌超3%。韓國首爾綜指跌幅收窄至4.2%，此前一度跌超6%。
+
+---
+
+### 2026-08-19 09:13:43  #市場 #焦點
+
+甲醇連續主力合約日內漲3%，現報2847.00元。
+
+---
+
+### 2026-08-19 09:12:55  #MKT News #Important
+
+【Yangtze Memory IPO counseling status moves to 'counseling acceptance'】CSRC website shows Yangtze Memory Holdings Co.'s IPO counseling status changed to 'counseling acceptance'; sponsoring brokers are Citic Securities and CSC Financial.
+
+---
+
+### 2026-08-19 09:12:42  #公司 #觀點
+
+【長江儲存IPO輔導狀態變更為“輔導驗收”】據證監會網站披露，長江儲存控股股份有限公司IPO輔導狀態變更為“輔導驗收”，輔導券商為中信證券和中信建投。
+
+---
+
+### 2026-08-19 09:12:17  #市場 #國際
+
+【菲律賓比索兌美元跌至紀錄新低 受油價上漲拖累】菲律賓比索兌美元跌至紀錄新低，油價上漲給比索匯率帶來壓力。
+美元/比索一度漲0.3%至61.985，突破了7月底創下的前紀錄高點61.85。
+
+---
+
+### 2026-08-19 09:11:17  #市場
+
+新加坡海峽時報指數下跌1%至5645點。
+
+---
+
+### 2026-08-19 09:11:17  #MKT News #Market Themes #AI Revolution
+
+【Zhipu launches GLM-5.3 API】Zhipu said the GLM-5.3 API is live. The model is optimized for complex coding, defensive cybersecurity and long-horizon tasks. GLM-5.3 has been integrated with ZCode and included in the GLM Coding Plan. API access is open and pricing remains unchanged from GLM-5.2. Model weights will be open-sourced next Friday.
+
+---
+
+### 2026-08-19 09:09:58  #其他
+
+【智譜：GLM-5.3 API即日起正式上線】 據智譜訊息，GLM-5.3 API即日起正式上線。模型擅長複雜編碼、防禦性網路安全以及長程任務。目前，GLM-5.3已接入ZCode等編碼平臺，並納入GLM Coding Plan。API已開放呼叫，定價與GLM-5.2保持不變。模型權重將於下週五開源。
+
+---
+
+### 2026-08-19 09:08:33  #國際
+
+【烏克蘭被爆“愛國者”導彈即將耗盡，俄媒：基輔發現處境非常艱難，甚至有些“絕望”】烏戰事膠著之際，美國有線電視新聞網（CNN）17日獨家披露，烏克蘭向CNN透露其致命弱點——“愛國者”導彈即將耗盡。烏克蘭一直不願透露其究竟還剩下多少攔截導彈，烏總統澤連斯基上週表示，烏克蘭目前擁有的攔截導彈數量，僅為其急需從美國獲得數量的1%。俄新社17日稱，由於美國武庫耗盡、烏克蘭缺乏生產許可證以及成本上升，華盛頓近期內不可能向基輔交付“愛國者”導彈。 烏方透露“致命弱點” CNN是首家獲准進入烏克蘭境內檢視“愛國者”導彈防禦系統的媒體。烏克蘭官員向該媒體披露了一個事實：該國的導彈已基本耗盡。俄羅斯《莫斯科晚報》17日稱，由於冬季到來之前“愛國者”導彈數量不足，基輔發現自己處境非常艱難，甚至有些“絕望”。 （環球網）
+
+---
+
+### 2026-08-19 09:07:45  #市場
+
+【洋河夢之藍M6+青花郎大漲創新高 茅臺五糧液等高階酒多數走弱】新浪財經“酒價內參”過去24小時收集的資料顯示，8月19日中國白酒業11大單品六漲五跌，贏家數量略佔上風。上漲方面，五糧液1618上漲2元至823元，在近期價格中樞位小幅修復；洋河夢之藍M6+大漲7元至618元，昨日回撥後價格再度回升，力創月新高；古井貢古20上漲6元至538元，結束兩日回撥；習酒君品小漲1元至645元，四連漲平近一個月最高紀錄；青花郎大漲6元，終端零售均價來到713元，四連陽重返近一個月次高位；水晶劍南春漲1元至406元，結束三連平亦創近一個月最高。下跌方面，飛天茅臺下跌2元，終端零售均價來到1780元，高位振盪行情延續；精品茅臺下跌6元至2482元，五連陰前期大漲行情終結；五糧液普五八代下跌8元至797元，三連跌掉落800元大關；青花汾20下跌4元至394元，昨日短期漲勢止步，上探400元關口未果；國窖1573下跌6元至880元，三連陰價格重心明顯下移。
+
+今日11大單品的終端零售總價持續下探，大盤價格重心繼續走低，如果11大單品各取一瓶整體打包售賣，今日總售價為10076元，較昨日小幅下跌3元，創出六天以來新低。
+
+---
+
+### 2026-08-19 09:07:31  #市場 #焦點
+
+甲醇連續主力合約日內漲2%，現報2820.00元。
+
+---
+
+### 2026-08-19 09:07:16  #公司
+
+人工智慧初創公司Temporal正開展 5 億美元融資，融資計劃將使其估值翻一番以上。這家 AI 初創企業洽談融資時目標估值至少達 120 億美元。
+
+---
+
+### 2026-08-19 09:07:09  #市場 #焦點
+
+玉米連續主力合約日內漲2%，現報2259.00元。
+
+---
+
+### 2026-08-19 09:06:10  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Iran denies launching missiles at UAE; UAE suspends trade and financial ties】Iran foreign ministry spokesman Baghaei on the 19th denied UAE allegations that Iran launched ballistic missiles, calling the claims unfounded and urging states to avoid baseless accusations while saying the situation is complicated by what he described as ongoing malicious actions and a history of false‑flag operations by the United States and Israel. The UAE defence ministry said on the 18th its air-defence systems detected two ballistic missiles launched from Iran, with one falling outside and one inside UAE territorial waters; the UAE foreign ministry early on the 19th said it will suspend all trade, commercial and financial transactions with Iran until further notice, citing a regional escalation that undermines regional and international peace and security.
+
+---
+
+### 2026-08-19 09:05:04  #市場 #國際
+
+菲律賓比索因油價上漲而跌至歷史新低。
+
+---
+
+### 2026-08-19 09:04:37  #其他
+
+【四川長寧縣一升學宴突發牆體倒塌事故，已致5死17傷】記者19日從四川省長寧縣應急管理局獲悉，8月18日17時30分許，長寧縣硐底鎮新堡村一村民在家中院壩為子女舉辦升學宴，因臨時搭建的雨棚積水過多，繩索拉力過大，導致用於固定雨棚的一樓房頂女兒牆牆體倒塌，造成3人現場死亡，2人送醫後搶救無效死亡，另有17名傷者正在醫院接受治療。目前，當地正全力救治傷員並開展善後處置工作。（新華社）
+
+---
+
+### 2026-08-19 09:03:49  #其他
+
+【朱雀三號總指揮談回收成功感受】8月19日，朱雀三號重複使用運載火箭在東風商業航天創新試驗區發射升空，在甘肅民勤成功實現回收目標，成為中國第一枚實施軌道級一級回收的民營火箭。近日，人民日報“在場”欄目專訪朱雀三號總指揮戴政。談到朱雀三號回收成功，戴政說心情很激動。戴政主動談及此前朱雀三號遙一運載火箭入軌成功回收失敗，“遙一火箭離回收還差最後一步，我們團隊很快從遺憾中走出來，開展大量的實驗，去尋找原因”。戴政認為，遙二火箭成功回收，正是因為此前回收實驗獲得的寶貴資料，奠定了後續產品改進和迭代的基礎。談到未來目標，戴政說：“將來有一天我們能夠實現高頻次的複用，為我們國家低軌網際網路星座的高密度組網提供一個強有力的支撐。”（人民日報）
+
+---
+
+### 2026-08-19 09:02:26  #宏觀 #國際
+
+【王毅將訪問韓國、印尼】外交部發言人宣佈：應韓國外長趙顯、印尼外長蘇吉約諾邀請，中共中央政治局委員、外交部長王毅將於8月19日至22日訪問韓國、印尼。訪問印尼期間，王毅將主持中國印尼全面戰略對話機制首次會議，與國防部長董軍共同出席中印尼外長防長“2＋2”對話機制第二次部長級會議。
+
+---
+
+### 2026-08-19 09:02:04  #MKT News #Important #Market Regions #Greater China
+
+Taiwan Weighted Index opened down 989.12 points, or 2.18%, at 44,319.56 on Wednesday, Aug. 19.
+
+---
+
+### 2026-08-19 09:01:47  #其他
+
+【深汕特別合作區釋出強季風藍色預警訊號】受偏東急流影響，深圳市氣象臺2026年08月19日09時00分在深汕特別合作區、深汕海域釋出強季風藍色預警訊號，預計今天白天到夜間深汕區最大陣風將達到8級或以上，訊號可能從今天白天持續到夜間。請落實各項防風措施。
+
+---
+
+### 2026-08-19 09:01:36  #市場
+
+紐約期銀日內跌2%，現報62.75美元/盎司。
+
+---
+
+### 2026-08-19 09:01:22  #MKT News #Market Regions #Greater China
+
+【China's foreign minister to visit South Korea, Indonesia Aug. 19-22】China's foreign minister will visit South Korea and Indonesia from Aug. 19-22, the foreign ministry said. In Indonesia he will chair the inaugural China-Indonesia comprehensive strategic dialogue and, with defense minister Dong Jun, co-attend the second ministerial-level 2+2 meeting of foreign and defense ministers.
+
+---
+
+### 2026-08-19 09:01:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange Gold T+D fell 1.32% in early trade on Wednesday, Aug 19, to 941.59 yuan/gram; Silver T+D fell 3.62% to 15,418.0 yuan/kg.
+
+---
+
+### 2026-08-19 09:00:55  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Most-active fuel oil contract rose 4.00% intraday to 4,200 yuan/ton.
+
+---
+
+### 2026-08-19 09:00:43  #MKT News #Important #Commodities #Precious Metals
+
+SHFE main silver contract fell 4.00% intraday to 15,451.00 yuan/kg.
+
+---
+
+### 2026-08-19 09:00:35  #市場 #焦點
+
+白銀連續主力合約日內跌4%，現報15451.00元。
+
+---
+
+### 2026-08-19 09:00:33  #市場
+
+MSCI亞太指數下跌2.1%至270.22點。
+
+---
+
+### 2026-08-19 09:00:27  #市場
+
+臺灣證交所加權股價指數下跌2.1%至44,367.36點。
+
+---
+
+### 2026-08-19 09:00:21  #市場
+
+臺灣證交所加權股價指數下跌1.5%至44,623.24點。
+
+---
+
+### 2026-08-19 09:00:17  #MKT News #Important #CSI300 #Impact bearish #SSE Composite
+
+FTSE China A50 index futures opened down 0.5%.
+
+---
+
+### 2026-08-19 09:00:15  #其他
+
+臺灣證交所加權股價指數開低0.5%報45,071.34。
+
+---
+
+### 2026-08-19 09:00:12  #市場 #焦點
+
+燃料油連續主力合約日內漲3%，現報3815.00元。
+
+---
+
+### 2026-08-19 09:00:02  #市場
+
+富時中國A50指數期貨開盤下跌0.52%。
+
+---
+
+### 2026-08-19 09:00:02  #市場
+
+【商品期貨開盤】白銀連續跌3.90%，低硫燃料油連續漲2.72%，燃料油連續漲2.59%，鈀連續跌2.58%，鉑連續跌2.45%。
+
+---
+
+### 2026-08-19 08:59:31  #Trading Economics #Markets #Commodity #Importance 1
+
+European Gas Rises Further as Supply Risks Mount — European natural gas prices rose further above €64 per MWh on Wednesday, the highest since January 2023, as concerns over a potential winter supply crunch intensified amid a lack of progress on a deal to reopen the Strait of Hormuz. President Donald Trump said that no talks with Iran are currently taking place or scheduled and that the US naval blockade remains in full force. He added that the strait is open and operating, in contrast to Iran’s position that the key waterway will remain closed until Washington meets its conditions. Traffic through the waterway has fallen to a standstill, stranding Qatari LNG tankers and delaying deliveries to Europe. The reduced inflow, combined with summer heatwaves that have boosted demand for gas-fired power generation for cooling, is slowing the seasonal buildup of gas inventories. As a result, traders are increasingly concerned that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices.
 
 ---
 
@@ -19280,167 +19577,5 @@ European Stocks Ease Further — European stocks closed marginally lower on Mond
 ### 2026-08-18 00:33:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
 
 i24News cited a peace committee official saying Israel and the committee agreed Israeli forces will remain in Gaza until Hamas is disarmed and will retain the right to strike any rearmament attempts.
-
----
-
-### 2026-08-18 00:33:09  #國際
-
-中東和平委員會一名官員表示，哈馬斯全部輕重武器以及地下隧道都將被拆除。
-
----
-
-### 2026-08-18 00:32:20  #國際
-
-美國駐敘利亞和伊拉克特使湯姆·布拉克：我們支援總理阿里·扎伊迪恢復伊拉克的主權，並確保武器與安全部隊始終處於國家權威之下。
-
----
-
-### 2026-08-18 00:30:40  #其他
-
-阿聯酋6月M3貨幣供應量同比增長14.3%。
-
----
-
-### 2026-08-18 00:30:33  #國際
-
-美國駐敘利亞和伊拉克特使湯姆·布拉克：譴責針對庫爾德斯坦地區總理及其在埃爾比勒辦公室的襲擊。
-
----
-
-### 2026-08-18 00:27:13  #MKT News
-
-【Kushner meets Netanyahu to push Gaza peace plan】Jared Kushner, President Trump's son-in-law, met in Jerusalem on the 17th with Prime Minister Netanyahu and a member of a Gaza peace committee to advance a Gaza peace plan. Netanyahu agreed to establish two working groups: one to oversee disarmament and demilitarization of the Palestinian Islamic Resistance Movement (Hamas), which both sides said should be completed as soon as possible and before Gaza reconstruction begins; the other to address health, clean water and related basic services.
-
----
-
-### 2026-08-18 00:26:36  #公司
-
-英國切爾西俱樂部股東馬克·沃爾特與託德·伯利正就向克萊爾萊克出售所持股份進行談判。
-
----
-
-### 2026-08-18 00:24:54  #國際
-
-【庫什納見內塔尼亞胡 尋求推進“加沙和平計劃”】據以色列多家媒體17日報道，美國總統特朗普的女婿庫什納以及加沙地帶“和平委員會”成員當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，以期進一步推進所謂“加沙和平計劃”。以總理辦公室在會後發表宣告說，內塔尼亞胡與“和平委員會”討論後，同意成立兩個工作組，一個負責巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的裁軍和非軍事化，雙方認為這項工作須在加沙重建工作開始前儘快完成；另一個將重點關注加沙地帶的衛生、清潔水源等問題。（新華社）
-
----
-
-### 2026-08-18 00:24:37  #國際
-
-上週美國戰略石油儲備的原油庫存下降約530萬桶，降至2.934億桶，為1982年以來最低水平。
-
----
-
-### 2026-08-18 00:24:32  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Strategic Petroleum Reserve crude stocks fell about 5.3 million barrels last week to 293.4 million barrels, the lowest level since 1982.
-
----
-
-### 2026-08-18 00:24:25  #公司 #焦點 #國際
-
-【谷歌收購精神航空資料，助力AI技術升級】谷歌在破產拍賣中勝出，拿下破產廉價航司精神航空控股的大批脫敏業務資料、軟體程式碼與運營記錄，表示將利用該批資產改進人工智慧。紐約南區美國破產法院8月14日公告顯示，谷歌1000萬美元報價涵蓋該倒閉航司海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。法庭檔案顯示，本次交易不包含個人資訊與特權資料，例如精神航空9750萬份乘客檔案，以及約5020萬份自由忠誠會員專案記錄。法庭卷宗表明，全部資料會經過處理，消除與特定客戶的關聯。谷歌週一宣告稱，公司不會獲取任何個人資訊，資料在移交前將由第三方嚴格清除全部個人可識別資訊。
-
----
-
-### 2026-08-18 00:22:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【U.S.-Israel rift: Trump urges Israel to stop Gaza strikes】President Trump said on Monday Israel should stop strikes in the Gaza Strip. His envoy Jared Kushner met Netanyahu on Monday to try to revive a U.S. plan to disarm Hamas and end the Gaza war after Netanyahu rejected a phased disarmament proposal last week. After a brief pause Israel has resumed near-daily strikes on Palestinian militants; Trump told Fox News he believes Israel should not be carrying out those strikes because, he said, Hamas has agreed to lay down its arms.
-
----
-
-### 2026-08-18 00:17:43  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Finishes on Negative Note — The DAX 40 closed about 0.4% down at 26,339 on Monday, reversing gains from the prior session, despite remaining close to record highs. Heightened Middle East tensions offset growing investor optimism over artificial intelligence.The 60-day Washington-Tehran truce expires today, with the standoff over Hormuz continuing and threats from both sides escalating. Meanwhile, investors continued to adjust their expectations for US interest rates following a series of weaker-than-expected economic data. Several sectors faced selling pressure, particularly retailers and autos, while tech and financials provided support. Among single stocks, Zalando, Adidas, Scout24, Beiersdorf, Henkel and Symrise posted the largest declines, ranging between 1.9%-3.4%. On the upside, top gainers included Deutsche Borse (1.8%), Rheinmetall (1.3%), Siemens Energy (1.1%) and Infineon Technologies (0.9%).
-
----
-
-### 2026-08-18 00:17:14  #MKT News
-
-【Explosion outside private school in Kabul injures multiple】Kabul police spokesman Khalid Zadran said on the evening of the 17th that an explosion hit the gate of a private school at about 5 p.m. local time, seriously wounding multiple students. Local media reported most victims were girls and that students were leaving school when the blast occurred. A witness said about 30 wounded were taken to local hospitals. An investigative team is on site.
-
----
-
-### 2026-08-18 00:16:37  #央行 #國際
-
-城堡證券表示，通脹長期高於目標水平，但美聯儲不願收緊貨幣政策，這使得長期債券收益率維持在多年高位，給各類市場帶來更廣泛風險。
-
----
-
-### 2026-08-18 00:16:03  #其他
-
-【Stripe將於年底把多幣種結算拓展至37個市場】Stripe宣佈向更多市場拓展多幣種結算業務，並推出即時貨幣兌換功能。到2026年末，分佈於37個市場的企業，可依據自身經營所在地，選擇最多18種貨幣完成收款收益結算。即時貨幣兌換功能支援企業在15種貨幣之間劃轉資金，報價透明，具備市場領先水平。2026年還計劃新增更多幣種。
-
----
-
-### 2026-08-18 00:15:17  #其他
-
-【阿富汗喀布林一學校門前發生爆炸 多人受傷】阿富汗喀布林警察局發言人哈立德·扎德蘭17日晚證實，當地時間當天下午5時許喀布林一所私立學校門前發生爆炸，致多名學生受重傷。 據阿富汗當地媒體報道，爆炸發生時學生們正在離校，其中多數為女生。有目擊者說，約30名傷者已被送往當地醫院。 扎德蘭說，相關工作組已經抵達現場，正在對事件展開調查。
-
----
-
-### 2026-08-18 00:12:23  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 53,587 on Monday, as positive corporate news offset a mostly negative session for banks. Technology stocks led gains, tracking broader sector strength following strong second-quarter revenue from Anthropic. STMicroelectronics rose 5%, while Prysmian added 2.4%. Ferrari gained 1.4% following the auction of its first fully electric vehicle for $40 million. Meanwhile, with markets largely ruling out a September Fed rate hike, Italian financials remained under pressure from ongoing consolidation prospects. MPS CEO reiterated over the weekend the need to preserve the bank’s independence amid a takeover bid from Intesa Sanpaolo (-0.5%). UniCredit declined 0.7% amid reports that Berlin could sell its 12% stake in Commerzbank to the lender. On the downside, Nexi fell 4.3%, and Stellantis dropped 4.1% after recalling 955,000 vehicles worldwide.
-
----
-
-### 2026-08-18 00:12:17  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.01% Higher — The FTSE MIB Index went up by 3 points or 0.01 percent on Monday to close at 53587 points. The rise was led by STMicroelectronics (5.04%), Prysmian (2.66%) and Finecobank (2.08%). On the downside, the weakerst performers were Stellantis N.V. (-3.90%), Fincantieri (-3.66%) and Nexi (-3.58%).
-
----
-
-### 2026-08-18 00:11:17  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.38% Lower — The DAX Index fell 102 points or 0.38 percent on Monday to close at 26339 points. Leading the losses are Zalando (-3.90%), Adidas (-3.14%) and Beiersdorf (-2.66%). Top gainers were Deutsche Boerse (1.76%), Rheinmetall (1.30%) and Siemens Energy (1.29%).
-
----
-
-### 2026-08-18 00:10:24  #MKT News
-
-【Lebanese president says UNIFIL presence in south Lebanon essential】On the 17th President Aoun welcomed parliament’s call to extend UNIFIL’s mandate in southern Lebanon, saying the force is essential for civilian security, close coordination with the Lebanese army and regional stability. He said extending the mandate is the preferred option; if that cannot be achieved, Lebanon seeks a framework to ensure international forces operate alongside and coordinate with the Lebanese army to fulfill their duties. Aoun noted Israel has opposed UNIFIL and has for nearly a year urged its withdrawal, while Lebanon presses for continued deployment.
-
----
-
-### 2026-08-18 00:10:23  #其他
-
-初步計劃顯示：安哥拉10月份原油出口量預計為93.2萬桶/日。
-
----
-
-### 2026-08-18 00:10:17  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.64% Lower — The CAC 40 Index dropped 55 points or 0.64 percent on Monday to close at 8582 points. Losses were led by Kering (-4.34%), Stellantis NV (-3.73%) and Saint-Gobain (-3.00%). Offsetting the fall, top gainers were STMicroelectronics (3.25%), Sanofi (1.17%) and Schneider Electric (0.66%).
-
----
-
-### 2026-08-18 00:09:39  #其他
-
-【黎巴嫩總統：聯黎部隊在黎南部的存在至關重要】當地時間17日，黎巴嫩總統奧恩對議會呼籲延長聯黎部隊在黎南部任務期限的倡議表示歡迎。奧恩表示，聯黎部隊在黎南部的存在至關重要，不僅能協助當地居民安居樂業，也有利於與黎軍隊密切協調、共同維護地區穩定。
-
----
-
-### 2026-08-18 00:09:34  #MKT News
-
-【Mitsubishi UFJ: Sustained, material decline in ultra-long JGB yields unlikely】German and Italian experience suggests a sustained, significant drop in ultra-long JGB yields is unlikely. If market concern that the BOJ is behind the curve abates, 30-year JGB yields may fall, but such declines are likely temporary. Fiscal worries that widen JGB ASW spreads can push ultra-long yields back up. Even with stable inflation expectations and ASW, uncertainty over the terminal BOJ policy rate can prevent a sustained downtrend—European 30-year yields rose until ECB rates topped out. Near term, easing BOJ-behind-the-curve fears could shave yields briefly, but year-end debate on the next fiscal-year budget and relatively rich JGB ASW versus peers argue against a durable, trend decline in ultra-long JGB yields.
-
----
-
-### 2026-08-18 00:07:17  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.21% Lower — The FTSE 100 Index decreased 22 points or 0.21 percent on Monday to close at 10728 points. The decline was led by Howden Joinery (-3.63%), Diageo (-3.33%) and J Sainsbury (-3.11%). On the upside, the strongest performers were Endeavour (2.63%), Anglo American (2.03%) and GlaxoSmithKline (2.02%).
-
----
-
-### 2026-08-18 00:07:01  #其他 #焦點
-
-市場資訊：英國首相安迪·伯納姆曾與冒充白宮幕僚長蘇西·懷爾斯的人員互發訊息，但雙方並未傳遞重要資訊。
-
----
-
-### 2026-08-18 00:05:38  #Trading Economics #Economy #Ecuador #Inflation Rate #Importance 1
-
-Ecuador Inflation Eases in July — Ecuador’s annual inflation rate eased to 1.39% in July 2026 from 1.65% in June. The strongest price pressures were recorded in goods, with prices rising 1.44%. Non-food prices drove inflation, increasing 2.01%, while services costs rose 1.33%. Meanwhile, food prices fell 0.7%. On a monthly basis, consumer prices declined 0.09% after rising 0.8% in June. Year-to-date inflation reached 1.30%.
 
 ---
