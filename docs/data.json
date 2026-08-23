@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 08:58:30",
-  "count": 16070,
+  "updated": "2026-08-23 09:03:02",
+  "count": 16064,
   "items": [
+    {
+      "id": "5053520",
+      "time": "2026-08-23 09:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【洋河夢之藍M6+、古井貢古20創30天最高價 習酒君品、青花郎持續大跌】新浪財經“酒價內參”過去24小時收集的資料顯示，8月23日中國白酒業11大單品四漲七跌，盤面分化特徵尤為突出。上漲方面，五糧液普五八代上漲7元，終端零售均價來到810元，前期回撥後價格中樞步入波浪抬升；洋河夢之藍M6+小漲1元至619元，三連陽創下近30天新高；古井貢古20上漲5元至553元，三連漲亦創下近一個月最高紀錄；水晶劍南春上漲1元至407元，小步抬升也來到月高點。下跌方面，飛天茅臺下跌3元至1780元，延續技術性回落；精品茅臺下跌5元至2465元，多日下行自高點持續回探；五糧液1618下跌4元至822元，M型回撥跌至近期區間低點；青花汾20下跌3元至394元，進入高位休整區間；國窖1573下跌2元至879元，短暫衝高後再度回落，震盪幅度縮減；習酒君品大跌7元至628元，四連陰回撥，價格創下近30天新低；青花郎大跌7元至685元，連續四天急速下行，創下本月最低價。今日11大單品的終端零售總價明顯走弱，僅少數頭部次高階酒品維持漲勢，多數酒品出現不同程度回撥，整體盤面承壓。如果11大單品各取一瓶整體打包售賣，今日總售價為10042元，較昨日下跌17元，創出10天以來總價新低。"
+    },
     {
       "id": "5053519",
       "time": "2026-08-23 08:56:39",
@@ -146859,63 +146867,6 @@
         "國際"
       ],
       "text": "伊朗總統將本國經濟困境歸咎於美國對伊朗港口的封鎖以及石油收入下滑，他表示工業設施遭轟炸同樣重創了政府財政。"
-    },
-    {
-      "id": "mkt:01a00816-b8e8-7aab-904b-c0229c5a9752",
-      "time": "2026-08-16 09:01:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A CNN poll found 71% say President Trump has not done enough to lower prices of everyday goods, up from 58% a year earlier."
-    },
-    {
-      "id": "5042511",
-      "time": "2026-08-16 09:01:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美銅暗盤跌破6.8美元，日內跌幅0.6%。"
-    },
-    {
-      "id": "mkt:01a00816-89ad-7aab-904b-bae1c32b593e",
-      "time": "2026-08-16 09:01:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Harvard discloses $2.2 bln SpaceX stake】Harvard Management Company disclosed a $2.2 bln stake in SpaceX in a Friday regulatory filing, making SpaceX the largest single-stock holding in its $4.3 bln U.S. equity portfolio. SpaceX’s record June IPO delivered substantial gains to university endowments that held earlier VC positions. The University of California’s investment office this week disclosed roughly $1 bln in SpaceX holdings; the University of North Carolina and Washington University in St. Louis also report stakes."
-    },
-    {
-      "id": "5042510",
-      "time": "2026-08-16 09:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "蔚來汽車：截至今日，蔚來全國建成9,210座充換電站，其中換電站4,020座，充電站5,190座、充電樁29,915根，累計提供超1.2億次換電。"
-    },
-    {
-      "id": "5042509",
-      "time": "2026-08-16 09:00:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江調整水旱災害防禦應急響應至三級】記者從浙江省水利廳瞭解到，當前，浙江苕溪流域瓶窯站水位6.64米，已降至保證水位以下，杭嘉湖東部平原嘉興站水位高位波動，緩慢回落。根據《浙江省水利廳水旱災害防禦應急工作預案》，浙江省水利廳決定於今日8時30分將水旱災害防禦應急響應調整至Ⅲ級（三級）。"
-    },
-    {
-      "id": "5042508",
-      "time": "2026-08-16 08:59:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：葉門攔截邁哈市上空的胡塞武裝無人機。"
-    },
-    {
-      "id": "5042507",
-      "time": "2026-08-16 08:58:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高瓴旗下HHLR披露最新美股持倉 二季度增持英偉達】近日，高瓴旗下專注二級市場投資的基金管理平臺HHLR Advisors（簡稱“HHLR”）公佈的最新美股持倉情況顯示，截至二季度末，HHLR美股持倉總市值約為8.32億美元，持倉數量為35只，生物科技繼續佔據組合重要位置。從加減倉動作來看，HHLR二季度增持了英偉達、Coherent、Corning及Lumentum等半導體和光通訊相關標的。"
     }
   ]
 }
