@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-24 00:21:57",
-  "count": 15877,
+  "updated": "2026-08-24 00:26:06",
+  "count": 15874,
   "items": [
+    {
+      "id": "5053827",
+      "time": "2026-08-24 00:22:16",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【阿里新股配售定價完成，獲長線投資者超額認購】8月24日，阿里巴巴宣佈完成800億港元（約102億美元）新股配售定價，發行價為每股普通股112.70港元，共配售7.1億股。配售所得款項淨額將100%用於投資全棧AI能力，加強AI基礎設施建設，進一步鞏固阿里在AI領域的領先地位。據悉，本次配售自啟動後不到一小時即獲超額認購，最終配售份額以主權財富基金等高質量長線做多投資者為主，是全球長線資本對阿里AI投資回報前景投出的信任票。長線投資者的踴躍認購，源於阿里AI投入清晰可見的回報路徑。阿里最新財報顯示，AI相關產品年化收入（ARR）已突破495億元人民幣（73億美元），預計下季度達到100億美元；阿里雲2030自然年外部商業化收入預計達1000億美元，利潤率有望突破20%。在算力持續供不應求、AI相關產品收入和毛利持續提升的支撐下，阿里管理層預計資本開支3年內、甚至2.5年到2年即可收回。因此，相比短期攤薄，AI增長的確定性、投資回報的可見性推動了本次認購熱情和高位定價。中金公司（CICC）、滙豐（HSBC）、摩根士丹利（Morgan Stanley）、瑞銀（UBS）參與了本輪新股配售。中東、歐洲、亞洲等地區的主要主權基金積極參與了此次認購。（新浪科技）"
+    },
     {
       "id": "5053826",
       "time": "2026-08-23 23:55:00",
@@ -145134,45 +145144,6 @@
         "MKT News"
       ],
       "text": "Iraq's finance minister said the government will continue to strengthen non-oil revenues to offset the impact of a blockade of the Strait of Hormuz."
-    },
-    {
-      "id": "5042909",
-      "time": "2026-08-17 00:24:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿拉伯和伊斯蘭國家外長發表宣告：呼籲支援和平委員會為落實路線圖及其第二階段所作的努力，呼籲和平理事會採取緊急措施，維護加沙計劃並防止其受阻。"
-    },
-    {
-      "id": "mkt:01a00b62-efc6-7aab-904e-fe2a6eac92c3",
-      "time": "2026-08-17 00:23:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iraq's finance minister said the closure of the Strait of Hormuz has directly affected the Iraqi economy."
-    },
-    {
-      "id": "mkt:01a00b62-a9c4-7aab-904e-f13360cbc36b",
-      "time": "2026-08-17 00:23:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement urging support for the peace committee’s efforts to implement the roadmap and advance to a second phase."
-    },
-    {
-      "id": "mkt:01a00b61-d0b1-7aab-904e-ed518e6d3711",
-      "time": "2026-08-17 00:22:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Ukraine strikes major Russian logistics hub; Russia hits Ukrainian military-industrial sites, refineries】Ukraine's defence ministry said on social media that early on the 16th its forces launched a large-scale drone strike on a logistics hub in Moscow region operated by e-commerce platform Wildberries. Russia's defence ministry said its forces struck Ukrainian military-industrial facilities and refineries the same day."
     }
   ]
 }
