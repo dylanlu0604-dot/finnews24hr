@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 00:55:15_
-_本檔包含 3305 則快訊，約 634852 字_
+_更新時間：2026-08-24 01:24:35_
+_本檔包含 3304 則快訊，約 634563 字_
 
 ---
 
@@ -19958,11 +19958,5 @@ Department of Statistics Malaysia: July exports rose 38.0% (REUTERS SURVEY 34.3%
 ### 2026-08-20 11:55:30  #Trading Economics #Markets #Commodity #Importance 1
 
 Palm Oil Hovers Near 5-Month High — Malaysian palm oil futures extended their upward momentum, hovering around MYR 4,920 per tonne and holding near their highest level since early April. Firmer edible oils on the Dalian Commodity Exchange supported sentiment, while elevated crude oil prices provided additional support amid sporadic attacks in the Middle East. Meanwhile, the Malaysian Palm Oil Council projected palm oil prices to remain firm above MYR 4,600 in September, citing tightening supply and trade disruptions. However, high inventories could limit further gains, with Malaysian palm oil stocks climbing to a five-month high in July. In India, record soyoil imports expected in August could weigh on palm oil demand, as refiners may favor cheaper soyoil ahead of the festive season. Export signals were also mixed. Intertek estimated shipments fell 7.9% during August 1–15 from the same period in July, while AmSpec reported a 3.2% increase, underscoring uncertainty over near-term demand and keeping traders cautious.
-
----
-
-### 2026-08-20 11:54:11  #公司
-
-【紫光國微：公司對商業航天業務帶來的業績增量持樂觀態度】紫光國微8月19日在業績說明會上表示，公司在商業航天領域已佈局多年。2025年是公司商業航天業務進入批次供貨狀態的關鍵節點，後續各產品譜系持續豐富，開始貢獻收入。產品佈局方面，公司前期以DDR、Flash等儲存器產品為主，在商業航天儲存領域佔據絕對份額。目前公司正逐步匯入FPGA及配套的回讀重新整理等產品，且相關產品已實現在軌飛行，這為後續大規模批次匯入奠定了有利基礎。同時，公司還在豐富電源、匯流排介面等其他品類的產品系列，公司在商業航天領域已具備完整的系統解決方案的能力。公司對商業航天業務帶來的業績增量持樂觀態度。
 
 ---

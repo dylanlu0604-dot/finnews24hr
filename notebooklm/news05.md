@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 00:55:15_
-_本檔包含 3021 則快訊，約 634683 字_
+_更新時間：2026-08-24 01:24:35_
+_本檔包含 3018 則快訊，約 635020 字_
+
+---
+
+### 2026-08-18 08:36:41  #其他
+
+【商務部等9部門：發展承載地方文化的小店、老字號、作坊式品牌，支援國貨潮品下沉縣域市場】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導連鎖企業加速下沉。促進本地品牌守正創新。發展承載地方文化的小店、老字號、作坊式品牌，支援國貨潮品下沉縣域市場。分級打造中國消費名品方陣。支援縣域本土品牌與連鎖品牌跨界聯名。深入實施農業品牌精品培育計劃，最佳化農業品牌目錄體系。深化廣告助農行動，支援優質廣告資源下沉。進一步最佳化縣域“個轉企”證照聯辦等審批流程。因地制宜發展新興業態。鼓勵有條件的地方發展虛擬現實、沉浸式體驗、“人工智慧+消費”等，推廣二手交易、商品租賃等綠色消費模式。深化實施促進健康消費專項行動。創新一二三產業融合的消費鏈條。
+
+---
+
+### 2026-08-18 08:35:53  #MKT News #Important
+
+South Korea's KOSPI jumped 3.00% intraday to 7,188.14.
+
+---
+
+### 2026-08-18 08:35:53  #MKT News #Market Themes #AI Revolution
+
+【MOFCOM and eight ministries urge local development of VR, immersive experiences and AI+consumption】MOFCOM and eight other ministries issued guidance to boost county-level consumption, urging eligible localities to develop emerging formats such as virtual reality, immersive experiences and AI+consumption; promote green consumption models including second-hand trading and goods rental; deepen a special campaign to expand health-related consumption; and foster integrated consumption chains across primary, secondary and tertiary industries.
 
 ---
 
@@ -18195,41 +18213,5 @@ Financial Times reports the US government has discussed imposing new sanctions o
 ### 2026-08-17 01:27:31  #MKT News
 
 Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline.
-
----
-
-### 2026-08-17 01:24:32  #國際
-
-【WTT歐洲大滿貫：王曼昱奪得女單冠軍】當地時間8月16日，在瑞典馬爾默舉行的WTT歐洲大滿貫女單決賽中，中國選手王曼昱4:2戰勝隊友王藝迪，獲得冠軍。（央視新聞）
-
----
-
-### 2026-08-17 01:17:25  #市場
-
-【今年A股再融資規模已超過4700億元】整體來看，年內再融資市場熱度持續攀升。據統計，截至8月17日，年內186個再融資專案上市，同比增長超50%。其中包括139個定增專案、47個可轉債專案。年內再融資專案合計募集資金超4700億元，其中7個專案募集資金超百億元，還有75個專案超10億元。
-
----
-
-### 2026-08-17 01:15:56  #市場 #國際
-
-伊朗第一副總統：敵方企圖透過經濟戰來彌補其在軍事上的失敗，我們必須予以應對；物價上漲已達到令人惱火的程度，敵方的戰略正是企圖利用這一點。
-
----
-
-### 2026-08-17 01:13:47  #國際
-
-以色列：軍隊正準備可能返回黎巴嫩進行數天的戰鬥。
-
----
-
-### 2026-08-17 01:09:30  #MKT News
-
-Iran's first vice president said rising prices have reached an alarming level and that enemies are exploiting the situation.
-
----
-
-### 2026-08-17 01:08:26  #MKT News
-
-Iran's first vice president said the enemy is attempting to compensate for military defeats through economic warfare and that Iran must respond.
 
 ---

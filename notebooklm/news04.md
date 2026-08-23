@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 00:55:15_
-_本檔包含 3137 則快訊，約 635520 字_
+_更新時間：2026-08-24 01:24:35_
+_本檔包含 3138 則快訊，約 635104 字_
+
+---
+
+### 2026-08-19 11:27:51  #MKT News #Market Regions #Emerging Markets
+
+The Indian rupee was around 95.70 per US dollar on the interbank order-matching system ahead of the local spot market open.
+
+---
+
+### 2026-08-19 11:27:40  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish
+
+Traders said the Reserve Bank of India may be selling dollars to limit rupee depreciation.
+
+---
+
+### 2026-08-19 11:27:35  #市場 #焦點
+
+創業板指跌5.01%，現報3519.888點；上證指數跌1.96%，現報3912.040點；深證成指跌4.00%，現報14038.153點。
+
+---
+
+### 2026-08-19 11:27:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+A-share bank stocks outperformed the broader market, with CITIC Bank up more than 4% and Agricultural Bank of China, Bank of Nanjing, Bank of Chengdu, Chongqing Rural Commercial Bank and Bank of Chongqing each rising over 2%.
 
 ---
 
@@ -18919,23 +18943,5 @@ Australia Consumer Sentiment Hits 9-Month High — Australia’s Westpac–Melbo
 ### 2026-08-18 08:37:33  #公司 #觀點
 
 【中信證券：預計三季度銀行板塊基本面預期穩定，全年絕對收益空間仍將延續】中信證券研報表示，二季度監管資料顯示，上市銀行息差表現樂觀，資產質量穩定，資本持續夯實，盈利增速企穩回升。7月金融資料一方面具備季節性特徵，另一方面對映實體K型加劇。投資視角看，銀行板塊7-8月受市場風格影響，前期流入的彈性資金已經大幅流出，指數反彈後回撥，上週表現開始走穩。下週開始進入財報季，上市銀行經營格局穩定，盈利增速小幅修復，基本面超預期空間不大，隱含板塊表現短時仍將保持低波格局。展望三季度，預計盈利趨勢仍保持穩定，宏觀敘事等長邏輯仍在繼續演繹，全年絕對收益空間仍將延續。
-
----
-
-### 2026-08-18 08:36:41  #其他
-
-【商務部等9部門：發展承載地方文化的小店、老字號、作坊式品牌，支援國貨潮品下沉縣域市場】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導連鎖企業加速下沉。促進本地品牌守正創新。發展承載地方文化的小店、老字號、作坊式品牌，支援國貨潮品下沉縣域市場。分級打造中國消費名品方陣。支援縣域本土品牌與連鎖品牌跨界聯名。深入實施農業品牌精品培育計劃，最佳化農業品牌目錄體系。深化廣告助農行動，支援優質廣告資源下沉。進一步最佳化縣域“個轉企”證照聯辦等審批流程。因地制宜發展新興業態。鼓勵有條件的地方發展虛擬現實、沉浸式體驗、“人工智慧+消費”等，推廣二手交易、商品租賃等綠色消費模式。深化實施促進健康消費專項行動。創新一二三產業融合的消費鏈條。
-
----
-
-### 2026-08-18 08:35:53  #MKT News #Important
-
-South Korea's KOSPI jumped 3.00% intraday to 7,188.14.
-
----
-
-### 2026-08-18 08:35:53  #MKT News #Market Themes #AI Revolution
-
-【MOFCOM and eight ministries urge local development of VR, immersive experiences and AI+consumption】MOFCOM and eight other ministries issued guidance to boost county-level consumption, urging eligible localities to develop emerging formats such as virtual reality, immersive experiences and AI+consumption; promote green consumption models including second-hand trading and goods rental; deepen a special campaign to expand health-related consumption; and foster integrated consumption chains across primary, secondary and tertiary industries.
 
 ---

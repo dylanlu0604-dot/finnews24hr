@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 00:55:15_
-_本檔包含 3168 則快訊，約 635118 字_
+_更新時間：2026-08-24 01:24:35_
+_本檔包含 3165 則快訊，約 634899 字_
+
+---
+
+### 2026-08-20 11:54:11  #公司
+
+【紫光國微：公司對商業航天業務帶來的業績增量持樂觀態度】紫光國微8月19日在業績說明會上表示，公司在商業航天領域已佈局多年。2025年是公司商業航天業務進入批次供貨狀態的關鍵節點，後續各產品譜系持續豐富，開始貢獻收入。產品佈局方面，公司前期以DDR、Flash等儲存器產品為主，在商業航天儲存領域佔據絕對份額。目前公司正逐步匯入FPGA及配套的回讀重新整理等產品，且相關產品已實現在軌飛行，這為後續大規模批次匯入奠定了有利基礎。同時，公司還在豐富電源、匯流排介面等其他品類的產品系列，公司在商業航天領域已具備完整的系統解決方案的能力。公司對商業航天業務帶來的業績增量持樂觀態度。
 
 ---
 
@@ -19086,29 +19092,5 @@ South Korean Won Hits Over 10-Month High — The South Korean won traded around 
 ### 2026-08-19 11:27:55  #市場 #國際 #原創
 
 【比特幣巨鯨重返市場 兩個月增持27.5億美元】比特幣連續數月低迷期間，不僅散戶交易員紛紛離場，加密貨幣基金流失數十億美元資金，就連市場上最大的買家之一也轉為賣家。如今，苦苦尋覓市場觸底跡象的投資者終於看到一絲久違的曙光：比特幣“巨鯨”又開始買入了。根據CryptoQuant的資料，過去60天持倉大戶增持約43,000枚比特幣，按當前價格計算價值約27.5億美元。CryptoQuant的統計剔除了交易所和礦池持倉。資料顯示，比特幣價格回升至60,000美元左右時，這些持倉大戶經歷數月拋售後重新買入，被稱為“海豚”的小戶持倉也在增長。
-
----
-
-### 2026-08-19 11:27:51  #MKT News #Market Regions #Emerging Markets
-
-The Indian rupee was around 95.70 per US dollar on the interbank order-matching system ahead of the local spot market open.
-
----
-
-### 2026-08-19 11:27:40  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish
-
-Traders said the Reserve Bank of India may be selling dollars to limit rupee depreciation.
-
----
-
-### 2026-08-19 11:27:35  #市場 #焦點
-
-創業板指跌5.01%，現報3519.888點；上證指數跌1.96%，現報3912.040點；深證成指跌4.00%，現報14038.153點。
-
----
-
-### 2026-08-19 11:27:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-A-share bank stocks outperformed the broader market, with CITIC Bank up more than 4% and Agricultural Bank of China, Bank of Nanjing, Bank of Chengdu, Chongqing Rural Commercial Bank and Bank of Chongqing each rising over 2%.
 
 ---
