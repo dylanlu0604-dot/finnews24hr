@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 09:51:56",
+  "updated": "2026-08-23 09:55:58",
   "count": 16051,
   "items": [
+    {
+      "id": "5053534",
+      "time": "2026-08-23 09:55:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省釋出地質災害橙色預警】浙江省自然資源廳、浙江省氣象局2026年08月23日08時21分聯合更新發布地質災害氣象風險橙色預警：08月23日08時至08月24日08時，溫州市（平陽縣、蒼南縣、龍港市）、台州市（玉環市）等2市4縣部分地區地質災害氣象風險高（橙色預警）；溫州市（鹿城區、龍灣區、甌海區、永嘉縣、文成縣、泰順縣、瑞安市、樂清市）、台州市（三門縣、溫嶺市）、麗水市（景寧畲族自治縣）等3市11縣部分地區地質災害氣象風險較高（黃色預警）。"
+    },
     {
       "id": "5053533",
       "time": "2026-08-23 09:50:27",
@@ -146739,16 +146747,6 @@
         "國際"
       ],
       "text": "【強震已致近300人死亡，哥倫比亞總統呼籲特朗普暫停加徵關稅】據法新社、美國哥倫比亞廣播公司（CBS）等媒體報道，哥倫比亞總統德拉埃斯普列亞8月15日公開表示，已呼籲美國總統特朗普暫時停止對哥倫比亞產品加徵的關稅，以緩解強震對當地企業造成的經濟衝擊。德拉埃斯普列亞在社交媒體X上發文稱，與特朗普進行了約10分鐘的通話，提出上述呼籲是為了“幫助我們的企業主減輕一些負擔，他們正因地震的影響而面臨非常艱難的時期”。（環球網）"
-    },
-    {
-      "id": "mkt:01a00848-13a7-7aab-904b-e629c632b7e7",
-      "time": "2026-08-16 09:55:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Explosion near Zawiya power station knocks out power in Tripoli, western Libya】Libya's National Electricity Company said on the 15th an explosion near the Zawiya power station forced multiple plants offline and caused a grid collapse, leaving Tripoli and large parts of western Libya without power. Maintenance crews are isolating faults and have begun gradual restoration of supply to affected areas. Technical teams are investigating the cause and technical details of the blast."
     }
   ]
 }
