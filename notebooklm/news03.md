@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:53:17_
-_本檔包含 3204 則快訊，約 640728 字_
+_更新時間：2026-08-23 18:32:02_
+_本檔包含 3196 則快訊，約 639586 字_
+
+---
+
+### 2026-08-20 10:37:08  #MKT News #Macro & Rates #000660.KS #Impact bullish
+
+【Banks sharply cut financing costs for leveraged SK Hynix Korea exposure, sources say】Global banks including BofA, Citigroup, Goldman and JP Morgan have halved financing costs for leveraged exposure to Korean-listed SK Hynix in recent weeks, sources say, after the stock’s US listing and a rout in AI-related names. Banks are now offering clients exposure via swaps at roughly SOFR +150–300bps. In mid‑June some banks had been quoting above SOFR +1,000bps for new or renewed SK Hynix swap positions. SOFR has traded between 3.50% and 3.69% since May 1. Earlier, as an AI-driven surge pushed SK Hynix about 11x in the 12 months to June 22, banks constrained capacity, priced repo financing extremely high or declined requests over concentration and repo-cost concerns; several that previously refused are now seeking new swap business.
+
+---
+
+### 2026-08-20 10:36:57  #公司 #市場
+
+【盧偉冰稱記憶體漲價超出團隊預料】近日小米集團合夥人兼總裁盧偉冰在接受採訪時坦言，其實小米早在去年就已經預判到記憶體成本的上漲會是長週期趨勢，後續漲幅也會逐步拉大，但坦率來說，去年第四季度到今年第一、第二季度的這波猛漲，幅度之誇張還是完全超出了團隊之前的預料。 面對居高不下的記憶體採購成本，小米不會選擇簡單粗暴地把這部分額外壓力全部轉嫁給消費者，接下來團隊要做的核心動作，就是重新梳理全價位段的產品線架構，從底層重新定義每一款新品的配置組合，而從規劃、打磨到最終落地上市，整個流程註定會需要比較長的週期，不會倉促應對成本波動推出體驗縮水的產品。（快科技）
+
+---
+
+### 2026-08-20 10:35:56  #MKT News #Market Regions #Greater China
+
+【China shipped over 40,000 humanoid robots in 1H2026; global share rises to 97%】A 2026 Humanoid Robot Industry Development Report released at the World Robot Conference on Aug 20 said China shipped more than 40,000 humanoid robots in 1H2026, pushing its share of global shipments to 97%.
+
+---
+
+### 2026-08-20 10:35:22  #宏觀 #市場 #國際
+
+【美國擴大長期國債回購規模推動金價大漲】美國財政部8月19日宣佈將大幅增加長期國債回購規模後，美國長期國債收益率明顯回落，美元走弱，國際金價大幅上漲。當天，紐約商品交易所黃金期貨價格突破每盎司4500美元。每盎司4500美元。美國貴金屬分析師羅伯特·戈特利布說，美國財政部擴大長期國債回購規模“完全出乎市場預料”，長期美債收益率下降以及美元可能進一步走弱，對黃金構成明顯利好。（央視新聞）
+
+---
+
+### 2026-08-20 10:35:02  #公司
+
+【大連萬達商管等被執行2.5億】天眼查法律訴訟資訊顯示，近日，大連萬達商業管理集團股份有限公司等新增一條被執行人資訊，執行標的2.5億餘元，執行法院為江蘇省南通市中級人民法院。該公司成立於2002年9月，法定代表人為陳洪濤，註冊資本約271.6億人民幣，經營範圍包括商業綜合體管理服務、非居住房地產租賃、物業管理等。
+
+---
+
+### 2026-08-20 10:34:33  #MKT News #Nasdaq100 #Impact mixed
+
+【Goldman: short- and long-term winners diverging; US equity leadership beginning to rotate】Goldman’s trading desk says the internal structure of the US equity momentum factor is shifting. Overlap between 12-month and 3-month winners has dropped to multi-year lows, while overlap of 12-month winners with 3-month losers is near multi-year highs, causing the 3-month momentum portfolio to diverge from the 12-month portfolio. Sector weights illustrate the shift: software is the biggest weight on the 3-month momentum long side and the biggest weight on the 12-month momentum short side. On the same trading day, semiconductors fell about 6.5% while software rose about 1%, underscoring a reassessment of short-term winners within tech.
+
+---
+
+### 2026-08-20 10:34:24  #其他
+
+【今年上半年中國人形機器人出貨量已超過4萬臺】8月20日，在2026世界機器人大會上，中國電子學會理事會黨委書記、中國人形機器人與具身智慧百人會理事長張峰釋出《2026年人形機器人產業發展報告》。《報告》中提到，2026年上半年，中國人形機器人出貨量已超過4萬臺，全球佔比進一步提升至97%。
+
+---
+
+### 2026-08-20 10:34:08  #公司 #市場 #國際
+
+【新加坡當局開始調查鐵礦石貿易商Radiant World】新加坡警方一位發言人週四表示，在收到有關鐵礦石貿易商Radiant World的報告後，當局已開始對該公司展開調查。據知情人士此前透露，由於部分交易對手擔心Radiant World曾向銀行提供與鐵礦石交易相關的偽造檔案，美國司法部正在調查該公司的業務。部分知情人士稱，美國商品期貨交易委員會也在審查涉及Radiant World及其債權人的交易。Radiant World尚未被指控存在任何不當行為，而調查也不一定會導致正式指控。該公司上週晚些時候表示，尚未獲悉美國方面正在進行的任何調查。
+
+---
+
+### 2026-08-20 10:33:03  #公司 #市場
+
+【文化傳媒概念板塊短線拉昇，百納千成漲超10%】文化傳媒概念板塊短線拉昇，百納千成漲超10%，凱撒文化、吉視傳媒、歡瑞世紀、因賽集團、天龍集團等跟漲。
+
+---
+
+### 2026-08-20 10:32:42  #市場
+
+截至早盤收盤，日經225指數漲1%，東證指數漲0.9%。
+
+---
+
+### 2026-08-20 10:31:46  #Trading Economics #Markets #Australia #Earnings #Importance 0
+
+Fortescue Metals earnings above expectations at 0.55 USD — Fortescue Metals (FMG) released earnings per share at 0.55 USD, compared to market expectations of 0.54 USD.
 
 ---
 
@@ -19212,119 +19278,5 @@ EU Gas Hits 21-week High — EU Gas increased to 64.55 EUR/MWh, the highest sinc
 ### 2026-08-19 10:31:09  #其他
 
 【上海張江高新技術產業開發區發展“十五五”規劃：推進自主可控整車作業系統與人工智慧汽車大模型研發】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》，其中提出，聚焦整車智造轉型與智慧網聯創新應用，協同“三電”、攻關“三智”，強化晶片與作業系統自主可控。推動組合駕駛輔助（L2）+全覆蓋及有條件自動駕駛（L3）/高度自動駕駛（L4）量產，佈局新一代動力電池，推進自主可控整車作業系統與人工智慧汽車大模型研發，落地動力電池智造基地，量產智慧座艙人工智慧系統與一體化智慧底盤，促進車規晶片、車載軟體與整車系統整合，實現軟硬體協同，加大出行多域融合。支援嘉定園、臨港園聚焦智慧網聯新能源汽車全產業鏈佈局，金山園聚焦整車製造及智慧出行，推動產業叢集發展。
-
----
-
-### 2026-08-19 10:30:50  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌2%，現報4576.20點。
-
----
-
-### 2026-08-19 10:30:18  #MKT News #Important
-
-Sci‑Tech Innovation Board 50 Index fell more than 5%; among constituents, Xinyuan and Hua Hong Hongli each dropped over 9%.
-
----
-
-### 2026-08-19 10:29:36  #市場 #焦點
-
-科創50日內跌幅達5.08%，成分股中，芯原股份跌9.46%，華虹宏力跌9.01%，盛美上海跌8.68%，瀾起科技跌6.95%。
-
----
-
-### 2026-08-19 10:29:31  #MKT News #WTI #Impact bearish #Brent
-
-Refinitiv preliminary data show ship transits through the Strait of Hormuz remain low; six vessels transited on Tuesday.
-
----
-
-### 2026-08-19 10:29:28  #市場
-
-【化工板塊逆勢拉昇 中毅達直線漲停】化工板塊盤中逆勢拉昇，化肥、農藥方向領漲，中毅達直線漲停，此前紅四方3連板，江天化學、迪爾化工、紅寶麗、美邦科技、聯盛化學、紅太陽等紛紛衝高。
-
----
-
-### 2026-08-19 10:29:16  #其他
-
-船舶追蹤資料顯示，霍爾木茲海峽船隻通行量持續低迷，週二僅有六艘船隻透過。
-
----
-
-### 2026-08-19 10:28:50  #國際
-
-美國總統特朗普18日晚宣佈，推遲三天對加拿大部分商品加徵50%關稅。該關稅原定於美東時間19日正式生效。（新華社）
-
----
-
-### 2026-08-19 10:28:08  #宏觀
-
-【民進黨當局封鎖“臺青e家” 國臺辦：本質是懼怕種種抹黑大陸的謊言被戳穿】國務院臺辦舉行例行新聞釋出會。有記者就民進黨當局封鎖大陸推出的公益性綜合服務平臺“臺青e家”相關內容提問。發言人朱鳳蓮表示，“臺青e家”是為了幫助更多的臺灣青年便捷地獲取大陸發展機遇而打造的公益性服務平臺，是服務臺灣青年來大陸求學、實習、就業的便民視窗，是助力臺灣青年在大陸追夢、築夢、圓夢的務實載體。目前已經有不少的臺灣青年透過平臺查閱資訊、投遞簡歷，並且也有青年已經透過這個平臺找到了心儀的工作。民進黨當局的相關說辭完全顛倒黑白，是徹頭徹尾的惡意抹黑，他們不去思考如何為臺灣青年開拓發展空間，反而大搞資訊封鎖，他們無視兩岸青年交流的時代潮流，不斷地編造謊言。不顧臺灣青年尋找發展機遇的現實需求，炮製不實說法，恐嚇打壓臺青。究其本質，他們就是懼怕兩岸青年走近交心，增進了解，懼怕越來越多的臺灣青年看清“臺獨”的虛妄，懼怕種種抹黑大陸的謊言被戳穿。
-
----
-
-### 2026-08-19 10:27:52  #公司
-
-【智元機器人、恆工精密持股公司成立具身智慧科技公司】企查查APP顯示，近日，恆元智啟具身智慧科技（湖北）有限公司成立，法定代表人為魏劍秋，註冊資本為1000萬元，經營範圍包含：智慧機器人的研發；人工智慧硬體銷售；智慧基礎製造裝備銷售；智慧機器人銷售等。企查查股權穿透顯示，該公司由恆元智啟具身智慧科技（上海）有限公司全資持股，後者由智元機器人關聯公司智元創新（上海）科技股份有限公司、恆工精密全資子公司恆工偉創具身智慧科技（上海）有限公司共同持股。
-
----
-
-### 2026-08-19 10:27:03  #市場
-
-【美團打新宇樹猛賺333億】宇樹科技今日登入科創板，開盤暴漲629.44%，以發行價150.80元/股計算，網上打新中一簽賣出可賺47.46萬元。以此計算，美團系是宇樹科技持股比例最高的外部股東，透過漢海資訊、成都龍珠、Galaxy Z合計持股數量約3512.36萬股，浮盈超333億元。（中新經緯）
-
----
-
-### 2026-08-19 10:26:57  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
-
-【Yushu Technology jumps 629% at STAR Market; Meituan stake up CNY33.3bn】Yushu Technology debuted on the STAR Market, surging 629.44% at the open from an IPO price of CNY150.80 per share; an online one-lot allocation sold at the open would net about CNY474,600. Meituan is the largest external shareholder in Yushu, holding roughly 35.12 million shares via Hanhai Information, Chengdu Longzhu and Galaxy Z, with unrealized gains exceeding CNY33.3bn.
-
----
-
-### 2026-08-19 10:26:54  #市場
-
-恒指拉昇轉漲，此前一度跌0.6%。小米漲超4%。
-
----
-
-### 2026-08-19 10:26:17  #宏觀
-
-【國臺辦：暑假期間兩岸體育賽事及活動十分火爆】國務院臺辦舉行例行新聞釋出會。有記者問：儘管臺陸委會抹黑兩岸單純的體育交流，但今年暑期兩岸體育交流格外熱絡，想請發言人介紹相關情況。發言人朱鳳蓮表示，體育是促進兩岸交流交融的重要紐帶，暑假期間兩岸體育賽事及活動如火如荼，十分火爆，棒球運動已經在大陸的多個城市流行，8月3日至10日，2026年東森杯海峽兩岸連城青少年棒球邀請賽在福建省連城縣舉辦。兩岸15支隊伍共276人參賽交流活動，自2024年開辦以來，已經累計吸引了近300名臺灣青少年來閩參賽交流。8月7日至8日，2026第二屆崑山媽祖杯少年棒球賽在江蘇省崑山市舉辦，兩岸12支少年棒球隊約300人參賽。
-
----
-
-### 2026-08-19 10:25:31  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：增強生物醫藥全鏈條創新能力】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，堅持高商業轉化潛力重磅創新藥為引領，增強生物醫藥全鏈條創新能力，形成以張江核心園為創新策源高地，閔行園、嘉定園等協同的產業體系。創新藥械研發，支援新靶點、新機制創新藥研發，開發影像診斷、微創手術、植入介入、體外診斷等高階醫療器械，建設藥物靶標科學設施，推動神經與代謝藥物研發中心等技術平臺建設。臨床研究與轉化，支援上海臨床創新轉化研究院建設，提升張江藥谷服務能級，完善醫療器械專業孵化與檢驗檢測服務體系。生產製造與應用推廣，推進抗體偶聯藥物（ADC）生產基地、生物製品跨境分段生產基地等產業化專案建設，加快落地嘉定影像裝置生產研發基地，鼓勵創新產品入院配備使用，舉辦“張江藥谷國際創新大會”，加速創新成果轉化應用。
-
----
-
-### 2026-08-19 10:25:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-China A-share precious metals sector climbed amid volatile trading; Shandong Gold jumped more than 7%, while Chifeng Gold, Shanjin International, Xiaocheng Technology and Western Gold also advanced.
-
----
-
-### 2026-08-19 10:24:58  #市場
-
-【貴金屬板塊震盪走高，山東黃金漲超7%】貴金屬板塊震盪走高，山東黃金漲超7%，赤峰黃金、山金國際、曉程科技、西部黃金跟漲。
-
----
-
-### 2026-08-19 10:24:13  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：大力發展人工智慧手機和電腦等新型智慧終端】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦智慧終端、新型通訊裝置、智慧感測、下一代顯示及超高畫質視聽等方向，大力發展人工智慧手機和電腦等新型智慧終端，加快第五代行動通訊演進技術（5G-A）/第六代行動通訊（6G）及衛星通訊創新，支援微型發光二極體（Micro-LED）等新型顯示技術發展。加快推進智慧工業軟體等重點專案，建設流程製造智慧調控技術創新中心，支援聯合開發與核心零部件代工新模式。圍繞AI智慧體完善晶片、終端與內容服務生態，突破關鍵環節，培育新物種、新品牌。支援松江園聚焦智慧終端與新型通訊裝置，青浦園聚焦空間資訊與導航，西岑園聚焦晶片研發，打造特色園區。
-
----
-
-### 2026-08-19 10:24:05  #MKT News #Nasdaq100 #Impact bullish #S&P500
-
-ARK Invest founder Cathie Wood said productivity and intelligence gains have produced an extremely large price elasticity of demand, initiating a virtuous cycle that remains in its early stages.
-
----
-
-### 2026-08-19 10:23:21  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Stocks Ease Ahead of BI Rate Decision — Indonesian shares slipped 39 points or 0.6% to 6,410 in early Wednesday trade, reversing gains from the prior two sessions as Wall Street’s overnight selloff in semiconductors, elevated bond yields, and rising oil prices weighed on sentiment. Domestic caution deepened amid recent natural disasters, doubts over 2027 budget assumptions, and delays in electric motorcycle incentives. Market focus vigilantly turned to Bank Indonesia’s policy decision later today, its first under Acting Governor Destry Damayanti, with interest rates expected to stay unchanged after a cumulative 100 bps of hikes since May. However, traders remain increasingly watchful of how she balances currency stability against President Prabowo Subianto’s growth agenda. Sectoral losses were broad, led by energy, cyclicals, and basic materials, though property gains helped limit declines. Notable laggards included MNC Tourism (-2.9%), Bank Jago (-2.6%), Pertamina Geothermal Energy (-2.3%), and Alamtri Minerals (-2.1%).
 
 ---

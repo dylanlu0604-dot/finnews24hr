@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:53:17_
-_本檔包含 3076 則快訊，約 639675 字_
+_更新時間：2026-08-23 18:32:02_
+_本檔包含 3070 則快訊，約 638827 字_
+
+---
+
+### 2026-08-18 07:05:24  #公司
+
+【中國政府援助哥倫比亞緊急人道主義地震救災物資啟運】8月18日凌晨，中國政府向哥倫比亞提供的緊急人道主義地震救災物資從北京首都國際機場啟運。 據瞭解，該批物資主要包括發電機、淨水車、消毒機、太陽能照明裝置、帳篷和毯子等救災急需物資，共約80噸，搭乘中國國際貨運航空公司包機運往哥首都波哥大，計劃於當地時間18日中午運抵。 哥倫比亞西部當地時間10日發生7.4級地震，造成嚴重人員傷亡和財產損失。中國政府還決定向哥方提供緊急現匯援助，支援哥方救災和災後重建。
+
+---
+
+### 2026-08-18 07:05:15  #公司
+
+【巴斯夫因萊茵河低水位致部分產品供應受阻】德國化工巨頭巴斯夫（BASF）執行長 Markus Kamieth 週一證實，持續乾旱引發的萊茵河低水位已導致部分產品無法足額供應。儘管目前公司財務未受明顯波及，但若干旱持續，生產受干擾的風險將逐周遞增。Kamieth 強調，得益於應對極端天氣準備工作的提升，目前整體局勢依舊可控，面臨的挑戰遠小於2018年。
+
+---
+
+### 2026-08-18 06:57:54  #公司 #市場 #國際
+
+【報道：美國要求韓國將儲存晶片作為首個對美投資重點】據韓國中央日報報道，韓國政府原計劃於本月晚些時候公佈的首個對美投資專案，因美國突然要求韓國投資儲存晶片生產設施而面臨不確定性。報道援引多名未具名執政黨人士報道稱，美國要求韓國投資儲存晶片專案，是8月13日韓國總統府閉門貿易會議討論的核心議題。報道指出，韓國政府最初將能源領域作為首個重大對美投資專案的優先方向。與會人士普遍認為，鑑於三星電子和SK海力士已承諾在韓國Honam地區進行大規模投資，在美國投資儲存晶片專案實際上會很困難。
+
+---
+
+### 2026-08-18 06:57:48  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Moves Away from Near 4-Week Low — New Zealand's stocks rose 56 points, or 0.4%, to 13,779 in Tuesday morning trade, erasing losses from the previous session, mainly supported by gains in real estate, utilities, and consumer staples. The broader index moved up from its lowest level since July 21, touched a day earlier amid a plunge in consumer staples. Traders engaged in bargain hunting, with real estate (+1.0%) and consumer staples (+0.6%) rebounding after plunging in the previous session. Monday's data continued to lift sentiment as food inflation eased to a 19-month low while credit card spending rebounded. However, a downbeat session on Wall Street overnight due to escalating Middle East tensions limited gains ahead of the release of the FOMC meeting minutes later this week. Among the early losers were Gentrack Group (-1.5%), ANZ Group (-0.9%), A2 Milk (-0.5%), and Mainfreight (-0.4%). Meanwhile, Mercury NZ rose 1.6% after Mercury Energy posted a jump in operating earnings for the 12 months ended June.
+
+---
+
+### 2026-08-18 06:53:44  #公司
+
+市場訊息：三星Samsung Display將建設額外的OLED顯示設施。
+
+---
+
+### 2026-08-18 06:48:32  #公司
+
+【年內289只基金提前結束募集，同比增長逾17%】8月17日，在農銀滬深300質量ETF、寶盈裕安增利6個月持有期債券等多隻基金公告發行提前收官後，今年以來宣佈提前結束募集的基金數量已達289只，同比增長逾17%。在受訪人士看來，這一由權益類基金與含權類債券基金主導的“搶跑”現象，折射出資金借道公募產品加速流入權益市場的訊號。（證券日報）
+
+---
+
+### 2026-08-18 06:45:16  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Increases by 2.28% — Top crypto gainers are Bitcoin (2.28%) and Ether (1.54%).
+
+---
+
+### 2026-08-18 06:45:01  #MKT News #BHP.AX #Impact bearish #Brent #Impact bullish #XAUUSD
+
+BHP said the Middle East conflict has "materially changed" its cost environment.
+
+---
+
+### 2026-08-18 06:44:30  #公司 #觀點
+
+【提振投資者信心，多家券商權益分派實施中】8月份，上市券商2025年年度權益分派實施進入尾期。截至8月17日發稿時，8月以來包括東吳證券、申萬宏源、中金公司在內的8家上市券商（含券商母公司）釋出分紅相關公告，已完成2025年年度權益分派或明確實施日期，金額合計98.09億元。在業內人士看來，在經營業績穩健增長與監管層持續強化回報導向的雙重驅動下，證券公司正積極踐行“以投資者為本”理念，透過提高分紅頻率、最佳化分紅預案等方式，切實將經營成果轉化為股東可獲得的實際回報，進一步增強投資者的持有信心與獲得感。（中證報）
+
+---
+
+### 2026-08-18 06:42:07  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+BHP said copper is the engine of its growth, forecasting copper demand alone to rise from about 34 mln tonnes a year now to more than 50 mln tonnes a year by 2050.
+
+---
+
+### 2026-08-18 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Surges by 5.18% — Top commodity gainers are Cocoa (5.18%), Oat (2.63%) and Soybeans (1.85%). Biggest loser is Rubber (-0.68%).
+
+---
+
+### 2026-08-18 06:39:04  #MKT News #BHP.O #Impact bullish
+
+BHP reported fiscal‑year revenue of $58.76 billion, up 15% YoY. Fiscal‑year capital and exploration expenditure totaled $10.26 billion, up 5% YoY.
+
+---
+
+### 2026-08-18 06:37:13  #公司 #其他 #焦點 #國際
+
+必和必拓本財年營收 587.6 億美元，同比增長 15%。
+
+---
+
+### 2026-08-18 06:36:43  #MKT News #BHP.O #Impact bullish
+
+BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying profit was $13.2 bln, up 30% YoY, beating market expectation of $12.66 bln.
+
+---
+
+### 2026-08-18 06:36:12  #公司 #國際
+
+必和必拓：儘管中東衝突持續，本集團大宗商品需求在 26 財年仍保持韌性。
+
+---
+
+### 2026-08-18 06:36:02  #其他
+
+必和必拓：銅是驅動必和必拓業務增長的核心引擎。
+
+---
+
+### 2026-08-18 06:35:31  #其他
+
+必和必拓：僅銅的需求量就將從當前約 3400 萬噸 / 年增長至 2050 年超 5000 萬噸 / 年。
+
+---
+
+### 2026-08-18 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%).
 
 ---
 
@@ -18396,149 +18504,5 @@ SenseTime (00020.HK) said it expects to record a 1H net profit of about RMB 500-
 ### 2026-08-16 18:32:11  #觀點
 
 【中信證券：產業趨勢仍然向上，節奏有所放緩】中信證券研報稱，將行情劃分為北美AI鏈、對非美市場出海和內需三條業績線索：1）對北美AI鏈而言，經過半個月的修復，漲價鏈條的賠率明顯下降，近期AI敘事上有一些邊際變化，但尚不足以帶動整個板塊重估，還需要耐心等遠期新敘事的出現；2）對非美市場出海而言，中歐貿易爭端在未來一段時間可能會繼續焦灼，壓制不少高階製造板塊估值，同時臨近半年報密集披露期，匯兌損失的影響亦不容小覷；3）對於純內需品種，國產算力景氣相對優勢明顯，但考慮到估值對於遠期敘事的樂觀反映，板塊資金情緒或無法獨立於北美AI鏈。整體而言，不少板塊的產業趨勢仍然向上，但制約估值擴張的因素在增多，上行節奏可能放緩，二季度動輒翻倍的情況在十年維度上都極為罕見，投資者需要回歸合理預期回報。市場機會或將更多體現為具備業績支撐品種的估值修復，後續市場降波的過程也是籌碼結構最佳化、優質資產被重新定價的過程，為中長期行情的延續夯實基礎。
-
----
-
-### 2026-08-16 18:31:16  #公司
-
-【中石化煉化工程釋出中期業績：股東應占利潤11.37億元 同比減少18%】中石化煉化工程釋出截至2026年6月30日止6個月中期業績，該集團取得收入人民幣356.24億元(單位下同)，同比增加12.7%;本公司權益持有人應占利潤11.37億元，同比減少18%;基本每股盈利0.26元;擬派中期股息每股0.127元。公告稱，收入增加主要是工程總承包業務在執行合同增長所致。
-
----
-
-### 2026-08-16 18:25:30  #MKT News #Important
-
-【US reportedly bypassed Iranian negotiators to contact IRGC via Nechirvan Barzani】Axios, citing three people, reports mid‑May US envoys seeking an agreement to end hostilities could not verify whether Iranian negotiators represented the Islamic Revolutionary Guard Corps (IRGC). The Trump administration therefore bypassed Iran’s negotiators and opened a secret channel to IRGC leaders through Iraqi Kurdistan president Nechirvan Barzani, who reportedly has the trust of both Washington and IRGC leadership. A memorandum of understanding was reportedly reached but quickly collapsed, underscoring US difficulty in identifying who holds decision authority inside Iran.
-
----
-
-### 2026-08-16 18:22:22  #其他
-
-【水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至8月17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-08-16 18:20:40  #國際
-
-【美媒：美從西太平洋撤出最後一艘航母】據美聯社8月15日報道，美國總統唐納德·特朗普對伊朗的戰爭正在挑戰美國航空母艦的極限，並使西太平洋沒有一艘這種關鍵的美國軍艦。 在對“亞伯拉罕·林肯”號這艘長期部署的航空母艦上官兵的心理健康和補給問題的擔憂日益加劇之際，“喬治·華盛頓”號航空母艦即將離開太平洋，預計將取代目前在中東的“林肯”號。最初計劃於5月返航的“林肯”號的在航時間已經延長，以支援對伊朗的行動。 如果美國海軍在未來數月部署另一艘航母，那麼，美國在太平洋沒有航母的局面可能是短暫的。但分析人士表示，這表明，在特朗普政府進一步從亞太地區抽身、把重點放在西半球之際，對伊朗的無限期行動已讓一些美國水兵精疲力竭。（參考訊息）
-
----
-
-### 2026-08-16 18:16:56  #公司
-
-【兆威機電：2026年上半年淨利潤7464.57萬元，同比減少34.10%】兆威機電公告，2026年上半年營業收入8.16億元，同比增長3.80%。淨利潤7464.57萬元，上年同期淨利潤1.13億元，同比減少34.10%。
-
----
-
-### 2026-08-16 18:11:14  #其他
-
-據燈塔專業版實時資料，截至8月16日18時9分，影片《八仙！》票房突破16億。
-
----
-
-### 2026-08-16 18:10:40  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Saudi media, citing Yemen’s armed forces, reported strikes on Houthi positions across the contact line. Yemen’s forces said they have the capability and readiness to strike and neutralize Houthi threat sources and that the strikes destroyed dozens of devices and weapons depots.
-
----
-
-### 2026-08-16 18:09:23  #國際
-
-【俄稱一日擊落近1500架烏無人機】俄羅斯國防部今天（8月16日）釋出24小時戰報稱，俄軍已控制頓涅茨克地區的佩爾紹馬裡耶夫卡和哈爾科夫地區的庫迪耶夫卡兩處居民點。俄防空力量擊落14枚航空制導炸彈、1枚美製“海馬斯”火箭彈、9枚“火烈鳥”遠端巡航導彈和1478架固定翼無人機。據總檯記者瞭解，這是截至目前俄國防部公佈的單日擊落烏無人機數量最高記錄。（CCTV國際時訊）
-
----
-
-### 2026-08-16 18:08:19  #其他
-
-水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部部分地區發生山洪災害可能性大（橙色預警）。（國家預警釋出）
-
----
-
-### 2026-08-16 18:07:47  #國際
-
-【菲律賓極端降雨天氣已致23人死亡】據菲律賓國家減災委員會16日釋出的最新資料，截至當日6時，本輪惡劣天氣已造成全國23人死亡、17人受傷，另有3人失蹤，受災人口超過490萬。據菲減災委通報，受颱風“白海豚”和“鯨魚”疊加西南季風影響，菲律賓近期多地遭受持續強降雨侵襲，引發嚴重洪澇和泥石流等災害。受災嚴重的地區包括呂宋島北部、西部及首都大馬尼拉地區。地方政府部門已設立數百處臨時避難所，集中安置轉移民眾。（新華社）
-
----
-
-### 2026-08-16 18:06:47  #其他
-
-自然資源部與中國氣象局8月16日18時聯合釋出黃色地質災害氣象風險預警：預計，8月16日20時至17日20時，四川中北部、雲南西部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。（國家預警釋出）
-
----
-
-### 2026-08-16 18:03:59  #市場 #焦點
-
-布倫特原油暗盤突破86美元，日內漲超0.6%。
-
----
-
-### 2026-08-16 18:01:56  #國際
-
-【特朗普再促參議院透過全年採用夏令時法案】美國總統特朗普15日在社交媒體再度發文，敦促國會參議院儘快表決透過全年採用夏令時的相關法案。特朗普說，參議院“必須儘快投票”，並“把它辦成”。他說，一天中較晚時段有更多陽光會更好，包括有助於打擊犯罪，但更重要的是，別再每年兩次調整時鐘和手錶了，這帶來的全是干擾和混亂。此前，特朗普4日在社交媒體發文，敦促國會參議院儘快透過全年採用夏令時的相關法案，稱絕大多數美國人都要求將夏令時永久化。（新華社）
-
----
-
-### 2026-08-16 18:01:44  #MKT News #XAUUSD #Impact bullish #DXY #USDJPY #Impact bearish
-
-【South Korean military fires warning shots at N. Korea soldiers after crossing eastern military demarcation line】Yonhap, citing South Korean government sources on the 16th, reported several N. Korea soldiers crossed the eastern military demarcation line and ROK forces fired warning shots. Yonhap said it was the first time this year the South fired warning shots in response to a North Korean incursion.
-
----
-
-### 2026-08-16 18:01:37  #國際
-
-【韓軍向越過東部軍事分界線朝鮮軍人鳴槍警告】據韓聯社8月16日援引韓國政府人士訊息報道，數名朝鮮軍人日前越過東部地區軍事分界線，韓軍隨後鳴槍警告。據稱，這是今年以來韓軍首次因朝軍越界實施警告射擊。（新華社）
-
----
-
-### 2026-08-16 18:00:25  #資料 #國際
-
-以色列中央統計局修正資料顯示，以色列第一季度國內生產總值按年率計算下滑2.2%。
-
----
-
-### 2026-08-16 18:00:19  #資料 #國際
-
-以色列統計局公佈：該國第二季度人均國內生產總值按年率計算增長14%。
-
----
-
-### 2026-08-16 18:00:08  #資料 #國際
-
-以色列第二季度GDP按年率計算環比增長15.4%；此前預期增長8.3%。
-
----
-
-### 2026-08-16 18:00:02  #市場
-
-未來一週將有杭蕭鋼構、皇馬科技等1052家AB股公司披露業績。
-
----
-
-### 2026-08-16 17:59:34  #國際
-
-阿拉伯媒體：在伊朗伊斯蘭共和國與阿曼當前對話方塊架內，船隻透過霍爾木茲海峽南部航道的通行將被取消（這部分原屬於阿曼領海）。
-
----
-
-### 2026-08-16 17:57:56  #市場 #國際
-
-【厄爾尼諾致糖期貨大漲價】近期，強厄爾尼諾事件發生機率持續增大，暴雨、乾旱等極端天氣，在全球多地肆虐。多個食糖生產國和出口國的甘蔗種植產業受到衝擊。隨著市場對主要甘蔗產區產量將下降的擔憂升溫，全球糖期貨價格日前也升至年內高點。美國國家海洋和大氣管理局釋出報告顯示，今年10月至12月出現強厄爾尼諾事件的機率為81%，其強度可能躋身1950年以來最強厄爾尼諾事件之列。荷蘭合作銀行釋出的最新報告顯示，厄爾尼諾事件還會造成印度及東南亞地區降雨量低於常年水平，放大糖產量的下行風險，進而導致全球供應預期收緊。印度已禁止食糖出口直至9月底。足夠大的減產衝擊可能迫使印度轉向進口。最近一個月，紐約原糖期貨和倫敦白糖期貨主力合約價格分別累計上漲約12%和8.8%。同期，國內白糖期貨價格雖然跟隨外盤上漲，但漲幅有限。（央視財經）
-
----
-
-### 2026-08-16 17:57:04  #其他
-
-中國地震臺網正式測定：08月16日17時48分在河北唐山市豐南區（北緯39.36度，東經117.90度）發生2.1級地震，震源深度27千米。
-
----
-
-### 2026-08-16 17:54:59  #MKT News
-
-Yemeni armed forces told Saudi Al Arabiya TV they conducted 181 military operations against Houthi targets and threat sources over the past 24 hours.
-
----
-
-### 2026-08-16 17:53:31  #公司 #國際
-
-【近800萬韓國人持有三星股票】根據三星電子向韓國金融監督院電子披露系統（DART）提交的半年報，截至6月底，該公司散戶股東人數達到創紀錄的7971242人，逼近800萬，較去年6月底的5049985人增加了約292萬人。 鑑於韓國成年人口為4300萬，這意味著每五名成年人中就有一人持有三星電子股票。散戶股東合計持有三星電子已發行股份的66.24%。與去年底4195927名散戶股東相比，半年內增加了約377萬人。
 
 ---

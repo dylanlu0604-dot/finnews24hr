@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:53:17_
-_本檔包含 3148 則快訊，約 639245 字_
+_更新時間：2026-08-23 18:32:02_
+_本檔包含 3149 則快訊，約 640232 字_
+
+---
+
+### 2026-08-19 10:30:50  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌2%，現報4576.20點。
+
+---
+
+### 2026-08-19 10:30:18  #MKT News #Important
+
+Sci‑Tech Innovation Board 50 Index fell more than 5%; among constituents, Xinyuan and Hua Hong Hongli each dropped over 9%.
+
+---
+
+### 2026-08-19 10:29:36  #市場 #焦點
+
+科創50日內跌幅達5.08%，成分股中，芯原股份跌9.46%，華虹宏力跌9.01%，盛美上海跌8.68%，瀾起科技跌6.95%。
+
+---
+
+### 2026-08-19 10:29:31  #MKT News #WTI #Impact bearish #Brent
+
+Refinitiv preliminary data show ship transits through the Strait of Hormuz remain low; six vessels transited on Tuesday.
+
+---
+
+### 2026-08-19 10:29:28  #市場
+
+【化工板塊逆勢拉昇 中毅達直線漲停】化工板塊盤中逆勢拉昇，化肥、農藥方向領漲，中毅達直線漲停，此前紅四方3連板，江天化學、迪爾化工、紅寶麗、美邦科技、聯盛化學、紅太陽等紛紛衝高。
+
+---
+
+### 2026-08-19 10:29:16  #其他
+
+船舶追蹤資料顯示，霍爾木茲海峽船隻通行量持續低迷，週二僅有六艘船隻透過。
+
+---
+
+### 2026-08-19 10:28:50  #國際
+
+美國總統特朗普18日晚宣佈，推遲三天對加拿大部分商品加徵50%關稅。該關稅原定於美東時間19日正式生效。（新華社）
+
+---
+
+### 2026-08-19 10:28:08  #宏觀
+
+【民進黨當局封鎖“臺青e家” 國臺辦：本質是懼怕種種抹黑大陸的謊言被戳穿】國務院臺辦舉行例行新聞釋出會。有記者就民進黨當局封鎖大陸推出的公益性綜合服務平臺“臺青e家”相關內容提問。發言人朱鳳蓮表示，“臺青e家”是為了幫助更多的臺灣青年便捷地獲取大陸發展機遇而打造的公益性服務平臺，是服務臺灣青年來大陸求學、實習、就業的便民視窗，是助力臺灣青年在大陸追夢、築夢、圓夢的務實載體。目前已經有不少的臺灣青年透過平臺查閱資訊、投遞簡歷，並且也有青年已經透過這個平臺找到了心儀的工作。民進黨當局的相關說辭完全顛倒黑白，是徹頭徹尾的惡意抹黑，他們不去思考如何為臺灣青年開拓發展空間，反而大搞資訊封鎖，他們無視兩岸青年交流的時代潮流，不斷地編造謊言。不顧臺灣青年尋找發展機遇的現實需求，炮製不實說法，恐嚇打壓臺青。究其本質，他們就是懼怕兩岸青年走近交心，增進了解，懼怕越來越多的臺灣青年看清“臺獨”的虛妄，懼怕種種抹黑大陸的謊言被戳穿。
+
+---
+
+### 2026-08-19 10:27:52  #公司
+
+【智元機器人、恆工精密持股公司成立具身智慧科技公司】企查查APP顯示，近日，恆元智啟具身智慧科技（湖北）有限公司成立，法定代表人為魏劍秋，註冊資本為1000萬元，經營範圍包含：智慧機器人的研發；人工智慧硬體銷售；智慧基礎製造裝備銷售；智慧機器人銷售等。企查查股權穿透顯示，該公司由恆元智啟具身智慧科技（上海）有限公司全資持股，後者由智元機器人關聯公司智元創新（上海）科技股份有限公司、恆工精密全資子公司恆工偉創具身智慧科技（上海）有限公司共同持股。
+
+---
+
+### 2026-08-19 10:27:03  #市場
+
+【美團打新宇樹猛賺333億】宇樹科技今日登入科創板，開盤暴漲629.44%，以發行價150.80元/股計算，網上打新中一簽賣出可賺47.46萬元。以此計算，美團系是宇樹科技持股比例最高的外部股東，透過漢海資訊、成都龍珠、Galaxy Z合計持股數量約3512.36萬股，浮盈超333億元。（中新經緯）
+
+---
+
+### 2026-08-19 10:26:57  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
+
+【Yushu Technology jumps 629% at STAR Market; Meituan stake up CNY33.3bn】Yushu Technology debuted on the STAR Market, surging 629.44% at the open from an IPO price of CNY150.80 per share; an online one-lot allocation sold at the open would net about CNY474,600. Meituan is the largest external shareholder in Yushu, holding roughly 35.12 million shares via Hanhai Information, Chengdu Longzhu and Galaxy Z, with unrealized gains exceeding CNY33.3bn.
+
+---
+
+### 2026-08-19 10:26:54  #市場
+
+恒指拉昇轉漲，此前一度跌0.6%。小米漲超4%。
+
+---
+
+### 2026-08-19 10:26:17  #宏觀
+
+【國臺辦：暑假期間兩岸體育賽事及活動十分火爆】國務院臺辦舉行例行新聞釋出會。有記者問：儘管臺陸委會抹黑兩岸單純的體育交流，但今年暑期兩岸體育交流格外熱絡，想請發言人介紹相關情況。發言人朱鳳蓮表示，體育是促進兩岸交流交融的重要紐帶，暑假期間兩岸體育賽事及活動如火如荼，十分火爆，棒球運動已經在大陸的多個城市流行，8月3日至10日，2026年東森杯海峽兩岸連城青少年棒球邀請賽在福建省連城縣舉辦。兩岸15支隊伍共276人參賽交流活動，自2024年開辦以來，已經累計吸引了近300名臺灣青少年來閩參賽交流。8月7日至8日，2026第二屆崑山媽祖杯少年棒球賽在江蘇省崑山市舉辦，兩岸12支少年棒球隊約300人參賽。
+
+---
+
+### 2026-08-19 10:25:31  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：增強生物醫藥全鏈條創新能力】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，堅持高商業轉化潛力重磅創新藥為引領，增強生物醫藥全鏈條創新能力，形成以張江核心園為創新策源高地，閔行園、嘉定園等協同的產業體系。創新藥械研發，支援新靶點、新機制創新藥研發，開發影像診斷、微創手術、植入介入、體外診斷等高階醫療器械，建設藥物靶標科學設施，推動神經與代謝藥物研發中心等技術平臺建設。臨床研究與轉化，支援上海臨床創新轉化研究院建設，提升張江藥谷服務能級，完善醫療器械專業孵化與檢驗檢測服務體系。生產製造與應用推廣，推進抗體偶聯藥物（ADC）生產基地、生物製品跨境分段生產基地等產業化專案建設，加快落地嘉定影像裝置生產研發基地，鼓勵創新產品入院配備使用，舉辦“張江藥谷國際創新大會”，加速創新成果轉化應用。
+
+---
+
+### 2026-08-19 10:25:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+China A-share precious metals sector climbed amid volatile trading; Shandong Gold jumped more than 7%, while Chifeng Gold, Shanjin International, Xiaocheng Technology and Western Gold also advanced.
+
+---
+
+### 2026-08-19 10:24:58  #市場
+
+【貴金屬板塊震盪走高，山東黃金漲超7%】貴金屬板塊震盪走高，山東黃金漲超7%，赤峰黃金、山金國際、曉程科技、西部黃金跟漲。
+
+---
+
+### 2026-08-19 10:24:13  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：大力發展人工智慧手機和電腦等新型智慧終端】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦智慧終端、新型通訊裝置、智慧感測、下一代顯示及超高畫質視聽等方向，大力發展人工智慧手機和電腦等新型智慧終端，加快第五代行動通訊演進技術（5G-A）/第六代行動通訊（6G）及衛星通訊創新，支援微型發光二極體（Micro-LED）等新型顯示技術發展。加快推進智慧工業軟體等重點專案，建設流程製造智慧調控技術創新中心，支援聯合開發與核心零部件代工新模式。圍繞AI智慧體完善晶片、終端與內容服務生態，突破關鍵環節，培育新物種、新品牌。支援松江園聚焦智慧終端與新型通訊裝置，青浦園聚焦空間資訊與導航，西岑園聚焦晶片研發，打造特色園區。
+
+---
+
+### 2026-08-19 10:24:05  #MKT News #Nasdaq100 #Impact bullish #S&P500
+
+ARK Invest founder Cathie Wood said productivity and intelligence gains have produced an extremely large price elasticity of demand, initiating a virtuous cycle that remains in its early stages.
+
+---
+
+### 2026-08-19 10:23:21  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesian Stocks Ease Ahead of BI Rate Decision — Indonesian shares slipped 39 points or 0.6% to 6,410 in early Wednesday trade, reversing gains from the prior two sessions as Wall Street’s overnight selloff in semiconductors, elevated bond yields, and rising oil prices weighed on sentiment. Domestic caution deepened amid recent natural disasters, doubts over 2027 budget assumptions, and delays in electric motorcycle incentives. Market focus vigilantly turned to Bank Indonesia’s policy decision later today, its first under Acting Governor Destry Damayanti, with interest rates expected to stay unchanged after a cumulative 100 bps of hikes since May. However, traders remain increasingly watchful of how she balances currency stability against President Prabowo Subianto’s growth agenda. Sectoral losses were broad, led by energy, cyclicals, and basic materials, though property gains helped limit declines. Notable laggards included MNC Tourism (-2.9%), Bank Jago (-2.6%), Pertamina Geothermal Energy (-2.3%), and Alamtri Minerals (-2.1%).
 
 ---
 
@@ -18914,113 +19028,5 @@ Oil Extends Gains as Peace Prospects Dim — Crude oil climbed toward $85 per ba
 ### 2026-08-18 07:06:09  #MKT News #US10Y #Impact bearish #USDJPY #Impact bullish #DXY
 
 【June: Japan cuts U.S. Treasuries sharply; strategist says unlikely to sell again】Foreign holdings of U.S. Treasuries fell $72.1bn in June to $9.3tln, U.S. Treasury data showed, led by reductions from Japan and China. Holdings have dropped in three of the past four months since a February peak. Treasuries declined amid concerns over large fiscal deficits and inflation remaining above target. Japan, the largest foreign holder, sold about $26.4bn in June, trimming its position to $1.12tln. Prolonged yen weakness prompted Japanese FX intervention, with the U.S. also involved in late July. Strategist Paresh Upadhyay said Japan’s moves were clearly driven by FX intervention needs; U.S. Treasury Secretary Bessent participated in July and signalled Tokyo could use Fed tools to avoid direct Treasury sales, and Upadhyay does not expect Japan to resume Treasury selling.
-
----
-
-### 2026-08-18 07:05:24  #公司
-
-【中國政府援助哥倫比亞緊急人道主義地震救災物資啟運】8月18日凌晨，中國政府向哥倫比亞提供的緊急人道主義地震救災物資從北京首都國際機場啟運。 據瞭解，該批物資主要包括發電機、淨水車、消毒機、太陽能照明裝置、帳篷和毯子等救災急需物資，共約80噸，搭乘中國國際貨運航空公司包機運往哥首都波哥大，計劃於當地時間18日中午運抵。 哥倫比亞西部當地時間10日發生7.4級地震，造成嚴重人員傷亡和財產損失。中國政府還決定向哥方提供緊急現匯援助，支援哥方救災和災後重建。
-
----
-
-### 2026-08-18 07:05:15  #公司
-
-【巴斯夫因萊茵河低水位致部分產品供應受阻】德國化工巨頭巴斯夫（BASF）執行長 Markus Kamieth 週一證實，持續乾旱引發的萊茵河低水位已導致部分產品無法足額供應。儘管目前公司財務未受明顯波及，但若干旱持續，生產受干擾的風險將逐周遞增。Kamieth 強調，得益於應對極端天氣準備工作的提升，目前整體局勢依舊可控，面臨的挑戰遠小於2018年。
-
----
-
-### 2026-08-18 06:57:54  #公司 #市場 #國際
-
-【報道：美國要求韓國將儲存晶片作為首個對美投資重點】據韓國中央日報報道，韓國政府原計劃於本月晚些時候公佈的首個對美投資專案，因美國突然要求韓國投資儲存晶片生產設施而面臨不確定性。報道援引多名未具名執政黨人士報道稱，美國要求韓國投資儲存晶片專案，是8月13日韓國總統府閉門貿易會議討論的核心議題。報道指出，韓國政府最初將能源領域作為首個重大對美投資專案的優先方向。與會人士普遍認為，鑑於三星電子和SK海力士已承諾在韓國Honam地區進行大規模投資，在美國投資儲存晶片專案實際上會很困難。
-
----
-
-### 2026-08-18 06:57:48  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Moves Away from Near 4-Week Low — New Zealand's stocks rose 56 points, or 0.4%, to 13,779 in Tuesday morning trade, erasing losses from the previous session, mainly supported by gains in real estate, utilities, and consumer staples. The broader index moved up from its lowest level since July 21, touched a day earlier amid a plunge in consumer staples. Traders engaged in bargain hunting, with real estate (+1.0%) and consumer staples (+0.6%) rebounding after plunging in the previous session. Monday's data continued to lift sentiment as food inflation eased to a 19-month low while credit card spending rebounded. However, a downbeat session on Wall Street overnight due to escalating Middle East tensions limited gains ahead of the release of the FOMC meeting minutes later this week. Among the early losers were Gentrack Group (-1.5%), ANZ Group (-0.9%), A2 Milk (-0.5%), and Mainfreight (-0.4%). Meanwhile, Mercury NZ rose 1.6% after Mercury Energy posted a jump in operating earnings for the 12 months ended June.
-
----
-
-### 2026-08-18 06:53:44  #公司
-
-市場訊息：三星Samsung Display將建設額外的OLED顯示設施。
-
----
-
-### 2026-08-18 06:48:32  #公司
-
-【年內289只基金提前結束募集，同比增長逾17%】8月17日，在農銀滬深300質量ETF、寶盈裕安增利6個月持有期債券等多隻基金公告發行提前收官後，今年以來宣佈提前結束募集的基金數量已達289只，同比增長逾17%。在受訪人士看來，這一由權益類基金與含權類債券基金主導的“搶跑”現象，折射出資金借道公募產品加速流入權益市場的訊號。（證券日報）
-
----
-
-### 2026-08-18 06:45:16  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Increases by 2.28% — Top crypto gainers are Bitcoin (2.28%) and Ether (1.54%).
-
----
-
-### 2026-08-18 06:45:01  #MKT News #BHP.AX #Impact bearish #Brent #Impact bullish #XAUUSD
-
-BHP said the Middle East conflict has "materially changed" its cost environment.
-
----
-
-### 2026-08-18 06:44:30  #公司 #觀點
-
-【提振投資者信心，多家券商權益分派實施中】8月份，上市券商2025年年度權益分派實施進入尾期。截至8月17日發稿時，8月以來包括東吳證券、申萬宏源、中金公司在內的8家上市券商（含券商母公司）釋出分紅相關公告，已完成2025年年度權益分派或明確實施日期，金額合計98.09億元。在業內人士看來，在經營業績穩健增長與監管層持續強化回報導向的雙重驅動下，證券公司正積極踐行“以投資者為本”理念，透過提高分紅頻率、最佳化分紅預案等方式，切實將經營成果轉化為股東可獲得的實際回報，進一步增強投資者的持有信心與獲得感。（中證報）
-
----
-
-### 2026-08-18 06:42:07  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-BHP said copper is the engine of its growth, forecasting copper demand alone to rise from about 34 mln tonnes a year now to more than 50 mln tonnes a year by 2050.
-
----
-
-### 2026-08-18 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Surges by 5.18% — Top commodity gainers are Cocoa (5.18%), Oat (2.63%) and Soybeans (1.85%). Biggest loser is Rubber (-0.68%).
-
----
-
-### 2026-08-18 06:39:04  #MKT News #BHP.O #Impact bullish
-
-BHP reported fiscal‑year revenue of $58.76 billion, up 15% YoY. Fiscal‑year capital and exploration expenditure totaled $10.26 billion, up 5% YoY.
-
----
-
-### 2026-08-18 06:37:13  #公司 #其他 #焦點 #國際
-
-必和必拓本財年營收 587.6 億美元，同比增長 15%。
-
----
-
-### 2026-08-18 06:36:43  #MKT News #BHP.O #Impact bullish
-
-BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying profit was $13.2 bln, up 30% YoY, beating market expectation of $12.66 bln.
-
----
-
-### 2026-08-18 06:36:12  #公司 #國際
-
-必和必拓：儘管中東衝突持續，本集團大宗商品需求在 26 財年仍保持韌性。
-
----
-
-### 2026-08-18 06:36:02  #其他
-
-必和必拓：銅是驅動必和必拓業務增長的核心引擎。
-
----
-
-### 2026-08-18 06:35:31  #其他
-
-必和必拓：僅銅的需求量就將從當前約 3400 萬噸 / 年增長至 2050 年超 5000 萬噸 / 年。
-
----
-
-### 2026-08-18 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%).
 
 ---

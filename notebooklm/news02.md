@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:53:17_
-_本檔包含 3339 則快訊，約 639647 字_
+_更新時間：2026-08-23 18:32:02_
+_本檔包含 3338 則快訊，約 639555 字_
+
+---
+
+### 2026-08-21 10:38:57  #市場 #焦點
+
+碳酸鋰連續主力合約日內漲4%，現報158500.00元。
+
+---
+
+### 2026-08-21 10:38:40  #宏觀
+
+【政策出臺6個月以來約622萬家企業獲得支援】財政部副部長廖岷介紹說，今年推出的財政金融協同促內需一攬子政策，出臺6個月以來，大約有1.13億人次、622萬家企業（絕大多數是中小微企業），獲得了政策的支援。（新華財經）
+
+---
+
+### 2026-08-21 10:38:27  #其他
+
+【傑富瑞：阿里巴巴雲業務加速趨勢持續，目標價升至184港元】傑富瑞發表研報指，阿里巴巴截至今年6月底首財季收入同比增長9%，符合市場及該行預期；經調整EBITA為273億元，高於市場預期的256億元及該行預測的262億元。管理層預期雲業務收入將於未來數季持續加速增長，次財季AI相關產品年度經常性收入(ARR)將接近100億美元，AI運算投資回報期約為三年，隨著產品組合最佳化、自研平頭哥晶片應用及多元化變現措施，回報期可進一步縮短至2.5年。管理層亦透露平頭哥自研晶片已實現廣泛商業化，最新一代平頭哥晶片真武M890已透過阿里雲服務獲來自網際網路、自動駕駛及金融服務等20多個行業的超過650家外部客戶採用。該行認為阿里巴巴雲業務增長加快的趨勢將持續，維持“買入”評級，港股目標價由179港元上調至184港元，美股目標價由185美元升至190美元。
+
+---
+
+### 2026-08-21 10:37:21  #宏觀
+
+【財政部：“十五五”時期 加快構建完善現代財政宏觀調控機制】今天上午，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，針對有媒體提問的“‘十五五’時期，如何進一步提升財政宏觀調控效能？”財政部有關負責人進行了回應 。財政部副部長廖岷表示，“十五五”時期，財政部將按照黨中央、國務院的相關部署，加大財政逆週期調節力度，更加註重提升財政宏觀調控的有效性精準性，為穩定宏觀經濟大盤、促進經濟結構調整、推動經濟社會高質量發展行穩致遠奠定堅實基礎。總的看，就是要加快構建完善政策精準、工具多樣、引導有力、協同高效的現代財政宏觀調控機制。廖岷介紹，“十五五”時期，財政宏觀調控將注重把握穩中求進工作總基調，一方面，保持宏觀政策連續性、穩定性；另一方面，及時謀劃、適時推出增量政策，更好發揮存量政策和增量政策整合效應。同時，將注重總量與結構並重，更加聚焦投資於人，合理提高公共服務支出佔財政支出比重。此外，還將注重供給側和需求側協同發力，注重政策工具統籌協調，將聚焦制約經濟迴圈暢通的堵點難點，推動財政金融聯動常態長效，以財政資金牽引金融資源，更好激發消費潛力和投資活力。廖岷介紹，在謀劃實施財政宏觀調控的同時，還將堅持以改革增動力、以管理提效能、以化險保安全，提升財政資源配置效率和資金使用效益，更好保增長、促轉型，實現經濟高質量發展與財政可持續的良性迴圈。
+
+---
+
+### 2026-08-21 10:37:16  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+Australia 10Y Yield Remains Above 5% — Australia’s 10-year government bond yield remained above 5%, trading near its highest level since late May as expectations for further policy tightening remained despite weak jobs data. Figures showed employment fell by 15,800 in June against expectations for a 15,000 increase, while the unemployment rate rose to a near five-year high of 4.5%, signaling a softening labor market. However, the data was not considered weak enough to fully eliminate expectations for further RBA tightening, with markets pricing around a 70% chance of a rate hike to 4.60% by early next year. Meanwhile, Australian bond yields tracked the reversal in US Treasuries, as investors questioned whether the US Treasury’s expanded buyback program could provide lasting reprieve from elevated long-term borrowing costs. The fading rally in US bonds pushed yields higher and kept pressure on global bond markets, while renewed concerns over the widening US fiscal deficit and heavy debt burden weighed on the dollar.
+
+---
+
+### 2026-08-21 10:36:59  #公司 #國際
+
+【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報6924.61點。個股方面，SK海力士漲超4%，三星電子漲超3%。
+
+---
+
+### 2026-08-21 10:36:53  #市場
+
+【醫藥生物板塊區域性回暖 近岸蛋白20cm2連板】醫藥生物板塊日內區域性回暖，近岸蛋白20cm2連板，此前鍵凱科技、漢森製藥、雙鷺藥業漲停，康希諾逼近20cm漲停，三元基因、沃森生物、三生國健、歐林生物等跟漲。
+
+---
+
+### 2026-08-21 10:36:46  #其他
+
+長鑫科技成交額達100億元，現漲1.65%。
+
+---
+
+### 2026-08-21 10:36:19  #公司
+
+【永輝追債王健林案裁決被申請撤銷】天眼查司法案件資訊顯示，近日，原告大連御錦貿易有限公司與被告大連一方集團有限公司、孫喜雙、永輝超市股份有限公司、王健林新增一則開庭公告，涉及申請撤銷仲裁裁決案件，該案件將於9月2日在上海市第一中級人民法院開庭審理。據媒體報道，此前，永輝超市公告稱，其與大連御錦貿易有限公司、王健林、孫喜雙、大連一方集團有限公司之間的仲裁裁決已經生效，其已向法院申請執行，涉案金額為剩餘股份轉讓價款36.39億元，以及違約金、律師費、仲裁費等費用。
+
+---
+
+### 2026-08-21 10:35:48  #MKT News
+
+【Ministry of Finance to expand institutions handling SME and service‑sector loan interest subsidies】China’s Ministry of Finance will expand the pool of institutions authorized to process interest‑subsidized loans for small‑and‑micro enterprises and service‑sector operators to about 400 from roughly 100. The list will include 21 nationwide banks and additional city commercial banks, rural cooperative finance institutions, private banks and foreign banks with a regulatory rating of 3A or above, widening coverage across urban and rural borrowers.
 
 ---
 
@@ -20102,71 +20162,5 @@ Indonesian Equities Rally After BI Rate Decision — Indonesian shares surged 69
 ### 2026-08-20 10:37:28  #公司 #市場 #觀點 #國際
 
 【據悉銀行大幅下調SK海力士韓股槓桿投資成本】在SK海力士赴美上市以及AI相關股票經歷暴跌後，全球投資者對SK海力士韓股進行槓桿投資的融資成本在最近幾周內已減半。據知情人士透露，包括美國銀行、花旗集團、高盛集團和摩根大通在內的多家銀行，正向客戶報價在擔保隔夜融資利率（SOFR）基礎上加價約150至300個基點，以透過互換交易獲得SK海力士韓股的敞口。今年6月中旬，一些銀行針對希望新建SK海力士互換合約或續約的客戶，報價一度超過SOFR上浮1000個基點。自5月1日以來，SOFR一直在3.50%至3.69%之間波動。此前，銀行為在客戶之間分配有限的額度，以滿足新增SK海力士互換交易的需求，曾報出極高的融資利率，甚至在某些情況下直接拒絕客戶請求。當時，AI熱潮推動SK海力士韓股在截至6月22日的12個月內累計上漲11倍。隨著市場情緒變得極度看漲，銀行擔心自身投資組合過度集中於這類股票，進而推高其在回購市場的融資成本。知情人士稱，一些此前拒絕客戶請求的銀行如今已開始主動尋求新的業務。
-
----
-
-### 2026-08-20 10:37:08  #MKT News #Macro & Rates #000660.KS #Impact bullish
-
-【Banks sharply cut financing costs for leveraged SK Hynix Korea exposure, sources say】Global banks including BofA, Citigroup, Goldman and JP Morgan have halved financing costs for leveraged exposure to Korean-listed SK Hynix in recent weeks, sources say, after the stock’s US listing and a rout in AI-related names. Banks are now offering clients exposure via swaps at roughly SOFR +150–300bps. In mid‑June some banks had been quoting above SOFR +1,000bps for new or renewed SK Hynix swap positions. SOFR has traded between 3.50% and 3.69% since May 1. Earlier, as an AI-driven surge pushed SK Hynix about 11x in the 12 months to June 22, banks constrained capacity, priced repo financing extremely high or declined requests over concentration and repo-cost concerns; several that previously refused are now seeking new swap business.
-
----
-
-### 2026-08-20 10:36:57  #公司 #市場
-
-【盧偉冰稱記憶體漲價超出團隊預料】近日小米集團合夥人兼總裁盧偉冰在接受採訪時坦言，其實小米早在去年就已經預判到記憶體成本的上漲會是長週期趨勢，後續漲幅也會逐步拉大，但坦率來說，去年第四季度到今年第一、第二季度的這波猛漲，幅度之誇張還是完全超出了團隊之前的預料。 面對居高不下的記憶體採購成本，小米不會選擇簡單粗暴地把這部分額外壓力全部轉嫁給消費者，接下來團隊要做的核心動作，就是重新梳理全價位段的產品線架構，從底層重新定義每一款新品的配置組合，而從規劃、打磨到最終落地上市，整個流程註定會需要比較長的週期，不會倉促應對成本波動推出體驗縮水的產品。（快科技）
-
----
-
-### 2026-08-20 10:35:56  #MKT News #Market Regions #Greater China
-
-【China shipped over 40,000 humanoid robots in 1H2026; global share rises to 97%】A 2026 Humanoid Robot Industry Development Report released at the World Robot Conference on Aug 20 said China shipped more than 40,000 humanoid robots in 1H2026, pushing its share of global shipments to 97%.
-
----
-
-### 2026-08-20 10:35:22  #宏觀 #市場 #國際
-
-【美國擴大長期國債回購規模推動金價大漲】美國財政部8月19日宣佈將大幅增加長期國債回購規模後，美國長期國債收益率明顯回落，美元走弱，國際金價大幅上漲。當天，紐約商品交易所黃金期貨價格突破每盎司4500美元。每盎司4500美元。美國貴金屬分析師羅伯特·戈特利布說，美國財政部擴大長期國債回購規模“完全出乎市場預料”，長期美債收益率下降以及美元可能進一步走弱，對黃金構成明顯利好。（央視新聞）
-
----
-
-### 2026-08-20 10:35:02  #公司
-
-【大連萬達商管等被執行2.5億】天眼查法律訴訟資訊顯示，近日，大連萬達商業管理集團股份有限公司等新增一條被執行人資訊，執行標的2.5億餘元，執行法院為江蘇省南通市中級人民法院。該公司成立於2002年9月，法定代表人為陳洪濤，註冊資本約271.6億人民幣，經營範圍包括商業綜合體管理服務、非居住房地產租賃、物業管理等。
-
----
-
-### 2026-08-20 10:34:33  #MKT News #Nasdaq100 #Impact mixed
-
-【Goldman: short- and long-term winners diverging; US equity leadership beginning to rotate】Goldman’s trading desk says the internal structure of the US equity momentum factor is shifting. Overlap between 12-month and 3-month winners has dropped to multi-year lows, while overlap of 12-month winners with 3-month losers is near multi-year highs, causing the 3-month momentum portfolio to diverge from the 12-month portfolio. Sector weights illustrate the shift: software is the biggest weight on the 3-month momentum long side and the biggest weight on the 12-month momentum short side. On the same trading day, semiconductors fell about 6.5% while software rose about 1%, underscoring a reassessment of short-term winners within tech.
-
----
-
-### 2026-08-20 10:34:24  #其他
-
-【今年上半年中國人形機器人出貨量已超過4萬臺】8月20日，在2026世界機器人大會上，中國電子學會理事會黨委書記、中國人形機器人與具身智慧百人會理事長張峰釋出《2026年人形機器人產業發展報告》。《報告》中提到，2026年上半年，中國人形機器人出貨量已超過4萬臺，全球佔比進一步提升至97%。
-
----
-
-### 2026-08-20 10:34:08  #公司 #市場 #國際
-
-【新加坡當局開始調查鐵礦石貿易商Radiant World】新加坡警方一位發言人週四表示，在收到有關鐵礦石貿易商Radiant World的報告後，當局已開始對該公司展開調查。據知情人士此前透露，由於部分交易對手擔心Radiant World曾向銀行提供與鐵礦石交易相關的偽造檔案，美國司法部正在調查該公司的業務。部分知情人士稱，美國商品期貨交易委員會也在審查涉及Radiant World及其債權人的交易。Radiant World尚未被指控存在任何不當行為，而調查也不一定會導致正式指控。該公司上週晚些時候表示，尚未獲悉美國方面正在進行的任何調查。
-
----
-
-### 2026-08-20 10:33:03  #公司 #市場
-
-【文化傳媒概念板塊短線拉昇，百納千成漲超10%】文化傳媒概念板塊短線拉昇，百納千成漲超10%，凱撒文化、吉視傳媒、歡瑞世紀、因賽集團、天龍集團等跟漲。
-
----
-
-### 2026-08-20 10:32:42  #市場
-
-截至早盤收盤，日經225指數漲1%，東證指數漲0.9%。
-
----
-
-### 2026-08-20 10:31:46  #Trading Economics #Markets #Australia #Earnings #Importance 0
-
-Fortescue Metals earnings above expectations at 0.55 USD — Fortescue Metals (FMG) released earnings per share at 0.55 USD, compared to market expectations of 0.54 USD.
 
 ---
