@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 12:47:48_
-_本檔包含 3034 則快訊，約 643049 字_
+_更新時間：2026-08-23 13:38:24_
+_本檔包含 3043 則快訊，約 642987 字_
+
+---
+
+### 2026-08-18 02:02:09  #MKT News #WTI #Impact bearish #Brent
+
+Turkish diplomatic sources said Turkey's foreign minister spoke with Iran's foreign minister to discuss efforts to reopen the Strait of Hormuz and to extend the U.S.-Iran ceasefire.
+
+---
+
+### 2026-08-18 01:59:41  #MKT News
+
+President Trump said Oman has not performed well and that the US will deal with them.
+
+---
+
+### 2026-08-18 01:59:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude rose above $84/bbl for the first time since July 31, gaining 2.93% intraday. Brent crude rose 3% intraday to $89.83/bbl.
+
+---
+
+### 2026-08-18 01:58:23  #國際
+
+土耳其外交部長與伊朗外長通話，討論了開放霍爾木茲海峽、繼續美伊停火等事宜。
+
+---
+
+### 2026-08-18 01:58:00  #國際
+
+特朗普：阿曼的表現不太好，但我們會處理好他們。
+
+---
+
+### 2026-08-18 01:57:30  #國際
+
+特朗普談及阿曼：我認為他們的表現並不理想。
+
+---
+
+### 2026-08-18 01:56:54  #市場
+
+布倫特原油日內漲3%，現報91.18美元/桶。
+
+---
+
+### 2026-08-18 01:56:47  #市場 #焦點
+
+WTI原油突破84美元/桶，日內漲3.12%。
+
+---
+
+### 2026-08-18 01:56:18  #市場 #焦點
+
+布倫特原油突破91美元/桶，日內漲2.87%。
+
+---
+
+### 2026-08-18 01:56:13  #市場
+
+WTI原油日內漲3%，現報83.92美元/桶。
+
+---
+
+### 2026-08-18 01:55:02  #MKT News #Market Regions #Japan & APAC
+
+【Russian FM Lavrov says Japan using criticism of Russia to mask its own military moves】Russian Foreign Minister Lavrov said on July 17 that Tokyo’s criticism of President Putin’s visit to Iturup Island appears aimed at diverting attention from Japan’s “openly aggressive” military trajectory. He urged Japan to focus on domestic issues, accused Tokyo of coordinating with the United States to “rewrite” international law, and warned that Japan is evading historical responsibility and breaching constitutional limits to expand Self-Defense Force operations overseas—developments he described as “very concerning.”
+
+---
+
+### 2026-08-18 01:54:22  #國際
+
+特朗普談及Flock車牌識別監控攝像頭：這件事有利有弊，我們很快會公佈對於Flock攝像頭的官方立場。
+
+---
+
+### 2026-08-18 01:52:48  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+Iran's foreign minister, responding to Iraq's foreign minister, said Iran has no reason to strike the Kurdistan Regional Government leader's official residence.
+
+---
+
+### 2026-08-18 01:50:33  #國際
+
+【俄外長：日本企圖借抨擊俄羅斯掩蓋自身軍事動向】俄羅斯外交部長拉夫羅夫17日在評論日本方面針對俄總統普京登上伊圖魯普島（日本稱擇捉島）的表態時對俄媒表示，建議日本領導層集中精力處理國內事務，而非對俄進行“攻擊”。拉夫羅夫說，如果日本企圖透過抨擊俄羅斯來轉移國際社會對其“公然帶有侵略性質的”軍事路線的注意，那麼“我建議他們管好自己的事，他們國內有很多問題需要解決”。拉夫羅夫表示，日本試圖聯合與其關係緊密的盟友美國，按照雙方意願“改寫”國際法。日本企圖逃避自身犯下罪行的歷史責任，當下還在突破憲法約束，謀求拓展自衛隊海外活動，種種動向“非常令人擔憂”。（新華社）
+
+---
+
+### 2026-08-18 01:50:01  #國際
+
+伊拉克外交部長與伊朗外長討論針對庫爾德斯坦地區政府主席官邸的無人機襲擊事件。
+
+---
+
+### 2026-08-18 01:50:00  #MKT News #Brent #Impact bullish #WTI
+
+【Iranian media: UAE-owned tanker seized in Strait of Hormuz】Fars News, citing maritime data, reports a tanker owned by a UAE company was seized in the Strait of Hormuz after being intercepted near Qeshm Island. Iranian officials have said all vessels must use Tehran-designated routes and comply with related regulations.
+
+---
+
+### 2026-08-18 01:46:40  #MKT News
+
+【US sell-off continues; 30-year Treasury yield highest since 2007】The 30-year Treasury yield rose 3bp on Monday to 5.29%, its highest level since 2007 and closing in on the 2007 peak of 5.44%. The rise reflects investor concern over a rapidly expanding US debt stock, heavy long-term issuance and inflation running above the Fed’s target for the past five years. Higher long-term yields are lifting US government financing costs as investors demand greater compensation against rising debt and persistent inflation that could keep short-term rates elevated for longer. Barclays US rates strategist Anshul Pradhan said the bank remains sceptical the long-end sell-off will soon abate; a constructive view on long Treasuries would likely require some combination of fiscal relief, a slowdown in AI-related bond issuance, a revised Treasury issuance strategy, or sustained weakness in economic activity.
+
+---
+
+### 2026-08-18 01:45:19  #Trading Economics #Markets #commodity #Importance 0
+
+Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%.
+
+---
+
+### 2026-08-18 01:34:40  #MKT News
+
+【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity.
+
+---
+
+### 2026-08-18 01:32:07  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude futures are up 2.0% intraday at $84.05/bbl.
+
+---
+
+### 2026-08-18 01:28:16  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Exxon Mobil Stock Price Hits 12-week High — Exxon Mobil shares increased to 161.68 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 8.94%, and in the last 12 months, it increased 51.44%.
+
+---
+
+### 2026-08-18 01:27:00  #市場
+
+WTI原油日內漲2%，現報83.10美元/桶。
+
+---
+
+### 2026-08-18 01:26:56  #MKT News #Important #Brent #Impact bullish
+
+Brent crude up 2% intraday at $88.95/bbl.
+
+---
+
+### 2026-08-18 01:26:31  #市場
+
+布倫特原油日內漲2%，現報90.29美元/桶。
+
+---
+
+### 2026-08-18 01:25:52  #市場 #焦點
+
+WTI原油突破83美元/桶，日內漲1.88%。
+
+---
+
+### 2026-08-18 01:25:15  #其他
+
+葉門政府武裝稱，其對馬裡卜南部戰線的胡塞武裝陣地實施了打擊。
+
+---
+
+### 2026-08-18 01:22:46  #央行 #美聯儲
+
+美聯儲隔夜逆回購協議（RRP）週一使用規模為25.5億美元，交易對手6家。
+
+---
+
+### 2026-08-18 01:22:20  #Trading Economics #Markets #Commodity #Importance 1
+
+Gasoline Climbs to 3-Week High — US gasoline futures traded above $3.20 per gallon, reaching a three-week high as Middle East peace talks stalled. Iran warned of further escalation if the US fails to fully implement an interim deal, while the US threatened military action against Oman and demanded Iran’s surrender. At the pump, the average US gasoline price reached $4.06 per gallon, more than $1 above its level a year earlier. Elsewhere, repeated Ukrainian strikes on Russian oil refineries triggered a fresh wave of fuel shortages, while Moscow extended its fuel export restrictions. However, continued crude shipments through the Persian Gulf waterway despite the conflict eased some supply concerns. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, stating refiners are operating at record high. Meanwhile, Russia received at least one gasoline shipment from India, seeking to alleviate domestic shortages.
 
 ---
 
@@ -18153,123 +18321,5 @@ TASNIM News reported Iran's official responsible for missing military personnel 
 ### 2026-08-16 13:40:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
 
 According to the Jerusalem Post, the Israel Defense Forces killed senior Hezbollah commander Abu Hassan Ara in a weekend strike in the Der Zahrani area of southern Lebanon.
-
----
-
-### 2026-08-16 13:38:18  #觀點
-
-【摩根大通：明年或爆發全球糧食危機】摩根大通日前警告稱，下一輪全球糧食危機可能正在醞釀之中，或於明年爆發。該行分析師將驅動因素歸結為“五個W”：戰爭（War）、天氣（Weather）、倉儲（Warehousing）、水（Water）和浪費（Waste）。 在一份題為《糧食安全即國家安全：一場不斷疊加的風暴》（Food Security Is National Security: A Compounding Storm）的新報告中，由駐倫敦資深全球經濟學家Nora Szentivanyi領銜的團隊警告稱，霍爾木茲海峽航運中斷，以及潛在的歷史級超強厄爾尼諾現象的出現，可能會削弱農作物產量、制約農業生產，並使食品通脹在2027年上半年持續居高不下。
-
----
-
-### 2026-08-16 13:38:00  #MKT News
-
-【2026 Wenchang International Aerospace Forum to run Aug. 24-26 in Hainan】The 2026 Wenchang International Aerospace Forum will be held Aug. 24-26 in Wenchang, Hainan, showcasing recent advances in Hainan’s aerospace industry. The forum aims to accelerate commercialization of reusable rockets, attract global aerospace resources, and scale rocket, satellite and data supply chains plus ‘aerospace+’ sectors to build a multi-layered aerospace ecosystem. Hainan says it will push key projects to rapidly develop high-density, high-reliability, low-cost commercial launch capacity to support ‘hundreds of rockets, thousands of satellites’ deployment.
-
----
-
-### 2026-08-16 13:37:45  #市場 #國際
-
-【多隻美股ETF加倉中國晶片股】多隻海外ETF聚焦中國晶片股，釋放出國際資本增配中國科技資產的積極訊號。近日，聚焦儲存晶片產業鏈的Roundhill Memory ETF（DRAM）調整持倉。截至8月14日收盤，A股儲存企業長鑫科技在該基金中的權重為4.52%，位列第六大重倉股。今年6月首次被納入基金的兆易創新，權重為1.16%。美國主動管理型ETF機構Tema ETFs近期宣佈，已將長鑫科技納入旗下聚焦儲存晶片行業的產品Tema記憶體ETF（DISK），截至8月14日收盤持倉比例為7.54%。（央視財經）
-
----
-
-### 2026-08-16 13:36:17  #國際
-
-【以部長稱每晚都應殺掉加沙數十人】以色列國家安全部長、極右翼政治人士本-格維爾在今天（8月16日）播出的一檔播客節目中表示，應該每晚在加沙定點清除30個、40個人。他表示，那裡有些人本不該活著，稱他們為“人”已經算慷慨了。本-格維爾說，有人說他“瘋了”，他承認這一點，但是“在中東你必須得瘋”。（CCTV國際時訊）
-
----
-
-### 2026-08-16 13:31:02  #國際
-
-【美國關稅壓力之下 韓國產業部長再度前往華盛頓】訊息人士週日透露，在多項雙邊貿易懸而未決、韓國面臨美國與日俱增的關稅壓力背景下，韓國產業部長已於當日早些時候啟程前往華盛頓。產業部長金正官此次訪美正值雙邊貿易關係敏感節點，美國不斷施壓，要求韓國加快落實雙邊關稅協議項下的投資承諾。
-
----
-
-### 2026-08-16 13:28:02  #其他
-
-【中國紅十字會總會向河南洪澇災區追加調撥救災物資】8月16日，針對河南洪澇災害救助進一步需求，中國紅十字會總會追加調撥賑濟家庭包、毛巾被等救災物資5500件，支援災區做好群眾轉移安置和生活保障工作。目前，中國紅十字會總會已累計向河南洪澇災區調撥救災物資9000件。（新華社）
-
----
-
-### 2026-08-16 13:25:55  #國際
-
-【美媒體人：“海峽吞併言論”只是“政治止損口號”】8月16日，英國《泰晤士報》旗下播客欄目“TIMES NEWS”播出對美國《國會山報》（The Hill）副主編兼白宮專欄作家尼爾·斯坦納奇（Niall Stanage）的專訪。在被問及對美國總統特朗普近日在一次演講中聲稱“在擊敗伊朗後將宣佈霍爾木茲海峽為美國領土”這一言論的評價時，尼爾·斯坦納奇認為，上述言論只是“表演式的口號”。（央視）
-
----
-
-### 2026-08-16 13:23:55  #國際
-
-印尼7.7級地震死亡人數升至51人。（央視新聞）
-
----
-
-### 2026-08-16 13:14:10  #公司
-
-【電影《牛來》宣告：多平臺出現冒充賬號 嚴重損害影片與觀眾權益】電影《牛來》透過官方賬號釋出宣告。宣告內容提到，近期，我們發現多個社交平臺上出現冒充電影《牛來》官方團隊的賬號，這些賬號未經授權，擅自發布不實資訊、誤導大家，甚至進行商業活動，嚴重損害了影片與觀眾的權益。
-
-宣告稱，“為此，我們鄭重宣告：電影《牛來》官方團隊僅在以下平臺擁有唯一官方賬號(平臺名稱：抖音/微博/公眾號/小紅書：牛來電影官方團隊)。除以上認證賬號外，其他平臺的所有賬號均為冒充，與我們無任何關聯，所釋出的內容均不代表官方立場。”
-
-宣告指出，“請大家提高警惕，認準官方賬號，避免受到誤導，保護好自身的合法權益。對於任何冒用我方名義的行為，我們保留追究其法律責任的權利。”（新浪科技）
-
----
-
-### 2026-08-16 13:12:12  #國際
-
-以色列軍方：對代爾阿扎拉尼實施打擊，擊斃黎巴嫩南部與真主黨有關聯的巴德爾部隊指揮官。
-
----
-
-### 2026-08-16 13:11:48  #市場
-
-【Sorry勒索病毒發起攻擊】近日，國家計算機病毒應急處理中心、計算機病毒防治技術國家工程實驗室聯合釋出安全預警：我國境內已出現多起“Sorry”勒索病毒攻擊案例。該病毒入侵後會加密使用者裝置內全部重要檔案，統一追加“Sorry”字尾，同時留存勒索信。專家表示，這次的勒索病毒，與以往大多數需要欺騙網民主動安裝的程式不同，而是透過系統漏洞，直接登入伺服器，入侵過程使用者毫無感知。據網路安全專家表示，“Sorry”勒索病毒重點瞄準的是各類“資料量大”的企業主體。其中防護能力薄弱、資料資產密集的中小企業成為主要受害群體。同時該病毒採用高強度加密技術，一旦中招，資料破解恢復難度極大。當前全球勒索軟體攻擊態勢持續高發，資料顯示，今年上半年，全球勒索軟體攻擊索賠案例同比上漲25%，總數達4544起，活躍勒索軟體團伙多達146個。（央視財經）
-
----
-
-### 2026-08-16 13:05:28  #國際
-
-【美媒稱特朗普再次要求修改新航母設計】美國《華盛頓郵報》15日援引多名美國官員訊息報道說，應美國總統特朗普要求，美國海軍再次考慮對“福特”級航母作出重大設計調整，將艦島向艦體中部移動，此舉預計將耗費數十億美元並延長交付週期。此前，特朗普要求新航母棄用電磁彈射系統。據知情官員透露，由於特朗普對“福特”級航母的外觀“存在擔憂”，希望其更接近二戰時期的航母設計，美國海軍正考慮將新航母上艦島位置從原來的位於後方調整為更靠近艦體中部。報道說，美國海軍方面認為這一改動可能花費高昂且耗時漫長。實際上，特朗普第一任期內美海軍已就該問題進行過研究。評估顯示，移動艦島位置預計將增加數十億美元的重新設計成本，並導致航母交付週期大幅延長。報道援引美官員的話說，艦島靠後可以為艦載機提供更多停放空間，縮短其起飛時間，並降低返航時遭遇的風險，提高著艦安全性。美國智庫哈得孫研究所專家布賴恩·克拉克說，改動艦島位置屬於“重大設計調整”，將影響航母的浮力和重量。這是特朗普推動的第二項重大航母設計改動。13日，他下令要求第四艘“福特”級航母棄用電磁彈射系統，恢復老式的蒸汽彈射。（新華社）
-
----
-
-### 2026-08-16 13:01:19  #MKT News #HII.O #Impact bearish
-
-【US Navy weighing Ford‑class carrier redesign at Trump’s request, Washington Post says】The US Navy is considering redesigning upcoming Ford‑class aircraft carriers to reflect former President Trump’s aesthetic preferences, the Washington Post reports. Proposed changes include relocating the carriers’ multi‑level island command center to the ship’s midsection. Officials say the alteration could cost billions of dollars, exacerbate existing construction delays and forfeit three operational advantages: increased deck parking capacity, shorter intervals between catapult launches, and reduced turbulence on landings. The moves remain under study and could extend build timelines as the conflict with Iran has pushed carrier demand higher.
-
----
-
-### 2026-08-16 12:59:47  #國際
-
-伊朗官員阿里・內赫班達尼警告，美國、以色列以及地區敵對勢力的挑釁行為，將招致代價更為沉重的報復。
-
----
-
-### 2026-08-16 12:54:59  #MKT News
-
-According to Maoyan Pro data, the film Welcome to Long Restaurant has grossed over CNY 800 mln in its first six days of release.
-
----
-
-### 2026-08-16 12:54:50  #公司 #市場
-
-【本週南向資金淨買入騰訊控股超70億港元 14股南向資金持股量環比增長超15%】本週（8月10日至14日）港股市場主要股指集體下跌，恒生指數累計跌2.15%，恒生科技指數跌3.1%，恒生中國企業指數跌2.24%。據證券時報·資料寶統計，本週南向資金合計成交淨買入0.89億港元。從本週上榜成交活躍股名單來看，本週共有19只個股上榜，騰訊控股本週港股通合計買賣總額最高，達到356.59億港元；智譜緊隨其後，為343.04億港元；其他還有MINIMAX-W、中芯國際、建滔積層板本周港股通買賣總額超過200億港元。從成交淨買入金額來看，本週南向資金對網際網路巨頭買賣不一，騰訊控股獲南向資金淨買入77.29億港元，小米集團-W獲南向資金淨買入9.65億港元，阿里巴巴-W淨賣出26.14億港元。其他還有美團-W遭南向資金淨賣出3.2億港元。從持股量變化來看，本週14股獲得南向資金持股量環比增長超15%，芯碁微裝居首，環比增長69.62%，其他還有南華期貨股份、明略科技-W、滬上阿姨持股量環比增幅居前，持股量環比增幅分別為55.26%、38.49%、33.61%。
-
----
-
-### 2026-08-16 12:53:04  #其他
-
-據貓眼專業版資料，電影 《歡迎來龍餐館》 上映6天， 總票房破8億。
-
----
-
-### 2026-08-16 12:51:29  #國際
-
-印度總理莫迪：感謝內塔尼亞胡總理的美好祝願。祝願印以特殊戰略伙伴關係進一步鞏固，挖掘新機遇，推動兩國人文交往更加緊密。
-
----
-
-### 2026-08-16 12:48:22  #國際
-
-【上海迪士尼正擴建“飛越地平線”，第九大主題園區建設迎新進展】記者從上海迪士尼度假區獲悉，第九大主題園區——蜘蛛俠主題園區建設迎來又一重要里程碑。繼今年6月主題園區遊樂裝置軌道安裝完成後，首批乘騎裝置已於數日前就位，乘騎裝置除錯工作即將啟動。上述訊息於正在美國加利福尼亞州召開的迪士尼終極粉絲大會D23（以下簡稱“D23 粉絲大會”）公佈。此外，上海迪士尼樂園內標誌性主題景點“翱翔·飛越地平線”的擴建工作正在同步推進；毗鄰樂園的兩座全新主題酒店的擴建工作也在進行中；為演職人員打造的全新居住社群也正在建設，旨在更好地支援一線演職人員為遊客創造難忘回憶。（澎湃）
 
 ---

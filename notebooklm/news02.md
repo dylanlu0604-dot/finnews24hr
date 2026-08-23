@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 12:47:48_
-_本檔包含 3371 則快訊，約 643694 字_
+_更新時間：2026-08-23 13:38:24_
+_本檔包含 3373 則快訊，約 642740 字_
+
+---
+
+### 2026-08-21 10:00:14  #公司
+
+【愛康AI生命展重磅呈現"職場健務室"，重新定義職場健康管理】8月19-22日，由北京廣播電視臺與愛康集團聯合主辦的"愛康AI生命展"在北京首創·郎園Station展出。愛康職場健康展區以“健務室”為設計藍本，搭建了一座涵蓋智慧檢測、健康管理平臺、急救演練、健康諮詢、心理關愛、康復理療六大功能區的“職場健康加油站”。構建起"風險篩查—日常監測—智慧評估—精準干預—持續隨訪"一體化服務模式，讓職場健康管理從"一年一次"變為"持續線上”。
+
+---
+
+### 2026-08-21 10:00:11  #市場 #焦點
+
+純鹼連續主力合約日內跌1%，現報1022.00元。
+
+---
+
+### 2026-08-21 09:59:51  #公司 #市場 #觀點
+
+【Counterpoint ：三星有望重奪智慧手機市場領先地位】Counterpoint Research預測，三星電子今年將重奪智慧手機市場的領先地位。這表明其對記憶體晶片價格上漲的抵禦能力更強。今年以來，記憶體供應短缺問題日益嚴重，Counterpoint目前預計 2026 年全球手機出貨量將下降14.3%。而三星憑藉其高度整合的供應鏈和成熟的分銷網路將成為例外，預計出貨量將增長 0.8%，略高於其他廠商。 Counterpoint表示，預計2027年智慧手機市場整體將再次下滑，然後在次年復甦。蘋果和三星一樣，預計能夠抵禦零部件價格上漲帶來的價格壓力，但Counterpoint研究人員對這家iPhone製造商持更為謹慎的態度。除三星外，只有中國的華為建立了自己的硬體供應體系，預計將保持顯著增長。“三星重返榜首的關鍵在於其內部零部件製造能力、豐富的產品線以及與運營商和零售商建立的穩固關係，”Counterpoint首席分析師表示，“預計中國領先的智慧手機製造商將面臨更大的出貨壓力。在經濟下行週期中，行業整合加速仍是Counterpoint的基本預測。”
+
+---
+
+### 2026-08-21 09:58:39  #國際
+
+特朗普將於週五晚7點（美國東部時間）在南卡羅來納州發表講話。
+
+---
+
+### 2026-08-21 09:58:26  #國際
+
+【烏克蘭首都遭空襲死亡人數升至15人】烏克蘭首都基輔市市長克利奇科20日下午在社交媒體發文說，俄羅斯軍方19日深夜至20日凌晨對基輔市發動的大規模空襲致死人數已升至15人，另有39人受傷。
+
+---
+
+### 2026-08-21 09:56:54  #公司
+
+【假Labubu風波後，奕境汽車亮相成都車展，現場打卡送Labubu盲盒】成都車展今日開幕，剛剛經歷假Labubu風波的奕境汽車，亮相10號展館。新浪科技看到，正式開展前，奕境汽車展臺就出動了大量銷量，為現場接待和賣車做準備。另外，奕境汽車現場還推出了打卡送Labubu盲盒的活動。根據官方介紹，完成App註冊後，帶#奕境X9成都造#話題，分享現場圖片到小紅書/抖音等社媒平臺，即可抽取見面禮一份，包括熊貓蛋撻咖啡套餐或者Labubu盲盒，數量有限，抽完即止。（新浪科技）
+
+---
+
+### 2026-08-21 09:54:47  #MKT News #Commodities #Energy #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+A-share coal-mining sector slipped intraday; Baotailong hit the daily limit-down. Peers including Dayou Energy, Liaoning Energy, Zhengzhou Coal Power, Hengyuan Coal Power and Xindazhou A also fell.
+
+---
+
+### 2026-08-21 09:54:36  #市場
+
+CPO概念持續拉昇，崇達技術漲停，星網銳捷、瑞斯康達、可川科技此前漲停，東田微漲近14%，劍橋科技、華潤微、華源控股等跟漲。
+
+---
+
+### 2026-08-21 09:54:31  #MKT News #Market Regions #Greater China
+
+CPO theme in China A-shares extended gains: Chongda Technology hit the daily limit; Xingwang Ruijie, Ruisikangda and Kechuan Technology earlier hit limit-ups. Dongtian Micro rallied about 14%; Cambridge Technology, China Resources Microelectronics and Huayuan Holdings also rose.
+
+---
+
+### 2026-08-21 09:53:46  #市場
+
+【煤炭開採板塊短線走低，寶泰隆跌停】煤炭開採板塊短線走低，寶泰隆跌停，大有能源、遼寧能源、鄭州煤電、恆源煤電、新大洲A等跟跌。
+
+---
+
+### 2026-08-21 09:52:53  #公司 #國際
+
+【巴基斯坦對華純鹼作出反傾銷初裁】據中國貿易救濟資訊網訊息，2026年8月15日，巴基斯坦國家關稅委員會發布第ADC75號案件的最新公告，對原產於或進口自中國的純鹼（Disodium Carbonate/Soda Ash）作出反傾銷肯定性初裁，初步裁定對涉案產品徵收10.85%臨時反傾銷稅。涉案產品的巴基斯坦稅號為2836.2000。措施自公告發布之日起生效，有效期為四個月。預計終裁將於初裁公告發布之日起180日內作出。
+
+---
+
+### 2026-08-21 09:52:19  #公司 #國際
+
+【巴基斯坦對華精對苯二甲酸作出反傾銷終裁】據中國貿易救濟資訊網訊息，2026年6月12日，巴基斯坦國家關稅委員會發布ADC70號案件的最新公告，對原產於或進口自中國的精對苯二甲酸（Pure Terephthalic Acid）作出反傾銷肯定性終裁，正式徵收反傾銷稅，其中，出口商英力士芳烴亞洲有限公司及其生產商珠海英力士化工有限公司稅率均為4.17%、出口商浙江獨山能源有限公司和其他出口商/生產商稅率均為9.50%。涉案產品的巴基斯坦稅號為2917.3610。措施自2026年1月4日起生效，有效期為五年。
+
+---
+
+### 2026-08-21 09:51:37  #市場
+
+澳元兌美元匯率升至兩個半月高點0.71345。
+
+---
+
+### 2026-08-21 09:51:19  #公司 #國際
+
+【巴基斯坦維持對華雙向拉伸聚丙烯自粘膠帶卷反傾銷終裁結果】據中國貿易救濟資訊網訊息，2026年7月29日， 巴基斯坦國家關稅委員會發布第ADC66號案件的最新公告，重新審查對原產於或進口自中國的寬度超過200毫米的雙向拉伸聚丙烯自粘膠帶卷作出的反傾銷終裁，決定維持原審終裁結果不變，即對涉案產品徵收26.76%的反傾銷稅。措施自2025年1月31日起生效，有效期為五年。涉案產品的巴基斯坦稅號為3919.9010和3919.9090。
+
+---
+
+### 2026-08-21 09:50:58  #MKT News #01952.HK #Impact bearish #06185.HK #02325.HK
+
+Hong Kong-listed biotech stocks pulled back: Yunding Xinyao (01952.HK) fell nearly 10%, CanSino Biologics (06185.HK) fell over 8%, Yunkang Group (02325.HK) fell over 7%.
 
 ---
 
@@ -20282,83 +20372,5 @@ Yen Strengthens as Dollar, Yields Retreat — The Japanese yen traded near 158 p
 ### 2026-08-20 09:45:43  #市場 #國際
 
 韓國KOSPI指數日內大漲6.00%。個股方面，SK海力士漲超12%，三星電子漲超8%。
-
----
-
-### 2026-08-20 09:45:40  #MKT News #Important #Market Regions #Emerging Markets
-
-South Korea's KOSPI index rose 6.00% intraday to 6,861.17.
-
----
-
-### 2026-08-20 09:45:08  #市場
-
-在岸人民幣兌美元<CNY=CFXS>走強至6.7212元，創2023年2月2日以來新高。
-
----
-
-### 2026-08-20 09:44:30  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量651億元。
-
----
-
-### 2026-08-20 09:44:09  #MKT News
-
-Chinese robotics firm Yushu Technology chairman, general manager and CTO Wang Xingxing said the company is behind in developing robots for real-world applications.
-
----
-
-### 2026-08-20 09:44:01  #其他
-
-王興興：我們在機器人實際場景應用開發方面滯後。
-
----
-
-### 2026-08-20 09:43:56  #MKT News
-
-Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the main global bottleneck for embodied intelligence is that model inputs and outputs diverge from the real world.
-
----
-
-### 2026-08-20 09:43:21  #公司
-
-宇樹科技CEO王興興：希望幾年內能將能完成80%家務的機器人帶入家庭。
-
----
-
-### 2026-08-20 09:42:57  #公司 #市場
-
-【模擬晶片概念震盪走高 思瑞浦漲超10%】早盤模擬晶片概念震盪走高，思瑞浦漲超10%，納芯微、聖邦股份、康希通訊、南芯科技、敏芯股份、卓勝微漲幅靠前。
-
----
-
-### 2026-08-20 09:42:43  #MKT News #Important #Market Regions #Greater China #01952.HK #Impact bullish #01093.HK #02196.HK
-
-Hong Kong innovative drug stocks rallied: 01952.HK surged 47%, 01177.HK rose 17%, CSPC PHARMA (01093.HK) climbed over 13%, and Fosun Pharma (02196.HK) gained 7%.
-
----
-
-### 2026-08-20 09:42:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #XAUUSD #DXY #Impact bullish
-
-【JP Morgan: US Treasury bond buybacks risk credibility】JP Morgan strategists warned markets may view the US Treasury’s surprise effort to suppress long-term financing costs via expanded bond buybacks as lacking credibility, which could lift the term premium and Treasury yields over time. The Treasury on Wednesday said it would at least double buyback size to provide “greater liquidity support,” a move intended to lower long-term yields. JP Morgan called the measure a stopgap, noting the US is near full employment while running roughly a 6% fiscal deficit; strategists including Jay Barry wrote that without genuine fiscal consolidation, the market may find the action not credible and that any shift away from a “regular and predictable” debt-management posture could push term premia and yields higher. US Treasury debt has topped $40 trillion, complicating control of funding costs amid ongoing issuance. A market survey showed about 60% of respondents expect US debt conditions to worsen until a major crisis.
-
----
-
-### 2026-08-20 09:42:11  #其他
-
-墨西哥索諾拉州州長稱，在發現首例螺旋蠅蛆病例後已啟動應急機制。
-
----
-
-### 2026-08-20 09:42:05  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Rebound — The benchmark KOSPI climbed more than 5% to around 6,830 on Thursday, rebounding sharply from the previous session’s 5.8% plunge as easing US Treasury yields helped restore risk appetite. The retreat in long-term Treasury yields followed the US Treasury’s announcement that it would significantly increase debt buybacks, easing concerns over rising borrowing costs that had weighed heavily on global equities. At the same time, Wall Street closed higher overnight, with the S&P 500 and Nasdaq advancing, providing further support for Korean shares. Chipmakers led the recovery, with Samsung Electronics rising around 7% and SK hynix jumping nearly 11% after announcing a record KRW 40 trillion share buyback and cancellation plan, which is expected to enhance shareholder returns and support its valuation. Other notable performers included SK Square (6.9%), LG Energy Solution (2.2%), Samsung C&T (5.3%), Samsung SDI (5.3%), Celltrion (2.2%), LG Electronics (1.2%), and SK Inc (4.7%).
-
----
-
-### 2026-08-20 09:42:04  #Trading Economics #Economy #Australia #Employment Change #Importance 1
-
-Australia Employment Unexpectedly Falls — Employment in Australia dropped by 15,800 to 14.81 million in July 2026, shifting from an upwardly revised 80,300 jump in the previous month and missing market expectations for a 15,000 gain. It marked the first monthly decline since April, driven by a 32,200 decline in part-time employment to a three-month low of 4.60 million. Meanwhile, full-time employment rose by 16,300 to a new peak of 10.21 million. The employment-to-population ratio fell to 63.9% from 64.1%, marking the first drop in three months. The participation rate slipped to 66.9% from 67.1%. Compared with a year earlier, total employment was up by 191,900, or 1.3%.
 
 ---

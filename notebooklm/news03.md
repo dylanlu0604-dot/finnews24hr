@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 12:47:48_
-_本檔包含 3233 則快訊，約 643952 字_
+_更新時間：2026-08-23 13:38:24_
+_本檔包含 3220 則快訊，約 643031 字_
+
+---
+
+### 2026-08-20 09:45:40  #MKT News #Important #Market Regions #Emerging Markets
+
+South Korea's KOSPI index rose 6.00% intraday to 6,861.17.
+
+---
+
+### 2026-08-20 09:45:08  #市場
+
+在岸人民幣兌美元<CNY=CFXS>走強至6.7212元，創2023年2月2日以來新高。
+
+---
+
+### 2026-08-20 09:44:30  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量651億元。
+
+---
+
+### 2026-08-20 09:44:09  #MKT News
+
+Chinese robotics firm Yushu Technology chairman, general manager and CTO Wang Xingxing said the company is behind in developing robots for real-world applications.
+
+---
+
+### 2026-08-20 09:44:01  #其他
+
+王興興：我們在機器人實際場景應用開發方面滯後。
+
+---
+
+### 2026-08-20 09:43:56  #MKT News
+
+Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the main global bottleneck for embodied intelligence is that model inputs and outputs diverge from the real world.
+
+---
+
+### 2026-08-20 09:43:21  #公司
+
+宇樹科技CEO王興興：希望幾年內能將能完成80%家務的機器人帶入家庭。
+
+---
+
+### 2026-08-20 09:42:57  #公司 #市場
+
+【模擬晶片概念震盪走高 思瑞浦漲超10%】早盤模擬晶片概念震盪走高，思瑞浦漲超10%，納芯微、聖邦股份、康希通訊、南芯科技、敏芯股份、卓勝微漲幅靠前。
+
+---
+
+### 2026-08-20 09:42:43  #MKT News #Important #Market Regions #Greater China #01952.HK #Impact bullish #01093.HK #02196.HK
+
+Hong Kong innovative drug stocks rallied: 01952.HK surged 47%, 01177.HK rose 17%, CSPC PHARMA (01093.HK) climbed over 13%, and Fosun Pharma (02196.HK) gained 7%.
+
+---
+
+### 2026-08-20 09:42:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #XAUUSD #DXY #Impact bullish
+
+【JP Morgan: US Treasury bond buybacks risk credibility】JP Morgan strategists warned markets may view the US Treasury’s surprise effort to suppress long-term financing costs via expanded bond buybacks as lacking credibility, which could lift the term premium and Treasury yields over time. The Treasury on Wednesday said it would at least double buyback size to provide “greater liquidity support,” a move intended to lower long-term yields. JP Morgan called the measure a stopgap, noting the US is near full employment while running roughly a 6% fiscal deficit; strategists including Jay Barry wrote that without genuine fiscal consolidation, the market may find the action not credible and that any shift away from a “regular and predictable” debt-management posture could push term premia and yields higher. US Treasury debt has topped $40 trillion, complicating control of funding costs amid ongoing issuance. A market survey showed about 60% of respondents expect US debt conditions to worsen until a major crisis.
+
+---
+
+### 2026-08-20 09:42:11  #其他
+
+墨西哥索諾拉州州長稱，在發現首例螺旋蠅蛆病例後已啟動應急機制。
+
+---
+
+### 2026-08-20 09:42:05  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Rebound — The benchmark KOSPI climbed more than 5% to around 6,830 on Thursday, rebounding sharply from the previous session’s 5.8% plunge as easing US Treasury yields helped restore risk appetite. The retreat in long-term Treasury yields followed the US Treasury’s announcement that it would significantly increase debt buybacks, easing concerns over rising borrowing costs that had weighed heavily on global equities. At the same time, Wall Street closed higher overnight, with the S&P 500 and Nasdaq advancing, providing further support for Korean shares. Chipmakers led the recovery, with Samsung Electronics rising around 7% and SK hynix jumping nearly 11% after announcing a record KRW 40 trillion share buyback and cancellation plan, which is expected to enhance shareholder returns and support its valuation. Other notable performers included SK Square (6.9%), LG Energy Solution (2.2%), Samsung C&T (5.3%), Samsung SDI (5.3%), Celltrion (2.2%), LG Electronics (1.2%), and SK Inc (4.7%).
+
+---
+
+### 2026-08-20 09:42:04  #Trading Economics #Economy #Australia #Employment Change #Importance 1
+
+Australia Employment Unexpectedly Falls — Employment in Australia dropped by 15,800 to 14.81 million in July 2026, shifting from an upwardly revised 80,300 jump in the previous month and missing market expectations for a 15,000 gain. It marked the first monthly decline since April, driven by a 32,200 decline in part-time employment to a three-month low of 4.60 million. Meanwhile, full-time employment rose by 16,300 to a new peak of 10.21 million. The employment-to-population ratio fell to 63.9% from 64.1%, marking the first drop in three months. The participation rate slipped to 66.9% from 67.1%. Compared with a year earlier, total employment was up by 191,900, or 1.3%.
 
 ---
 
@@ -19344,161 +19422,5 @@ South Korean Shares Plunge — The benchmark KOSPI fell more than 4% to around 6
 ### 2026-08-19 09:38:39  #其他
 
 【港股光通訊股走弱 劍橋科技跌超6%】截至發稿，劍橋科技(06166.HK)跌6.04%，長飛光纖光纜(06869.HK)跌5.27%，匯聚科技(01729.HK)跌5.20%。
-
----
-
-### 2026-08-19 09:38:32  #市場
-
-【地產產業鏈逆勢活躍 志邦家居等多股漲停】早盤地產產業鏈逆勢活躍，家居、建材方向領漲，志邦家居、中交發展、羅普斯金、好太太漲停，尚品宅配、兔寶寶、三棵樹等跟漲。
-
----
-
-### 2026-08-19 09:38:32  #Trading Economics #Economy #Australia #Wage Growth #Importance 1
-
-Australia Q2 Annual Wage Growth Remains at 5-Quarter Low — Australia’s seasonally adjusted Wage Price Index increased 3.2% year-on-year in Q2 2025, unchanged from the revised figure in Q1 and matching market expectations of 3.2%. The growth was driven by gains in both sectors, with private-sector wages advancing 3.1% (vs 3.2% in Q1), the lowest since Q2 2022, and public-sector pay increasing 3.4% (vs 3.4%), the weakest increase since Q4 2024. On a quarterly basis, wages grew 0.8%, unchanged from the previous four quarters and in line with market expectations.
-
----
-
-### 2026-08-19 09:38:10  #市場 #國際
-
-菲律賓股市指數下跌1.1%，至6198.21點。
-
----
-
-### 2026-08-19 09:37:57  #市場
-
-【上緯新材盤中跌超15%】A股上緯新材盤中跌15.33%，現報160.01元。
-
----
-
-### 2026-08-19 09:37:47  #MKT News #Commodities #Precious Metals #00815.HK #Impact bearish #01815.HK #03939.HK
-
-Hong Kong gold stocks slid: China Silver Group (00815.HK), Zhufeng Gold (01815.HK) and Wanguo Gold (03939.HK) fell over 3%; Tongguan Gold (00340.HK) and Zijin Gold International (02259.HK) were down more than 2%.
-
----
-
-### 2026-08-19 09:37:33  #公司 #市場
-
-【動物保健板塊走弱，聖達生物跌停】動物保健板塊走弱，聖達生物跌停，蔚藍生物、賢豐控股、美農生物、康華生物、天邦食品、亨通股份等跟跌。
-
----
-
-### 2026-08-19 09:37:04  #市場
-
-醫藥股快速反彈，亨迪藥業、哈三聯直線漲停，萬邦醫藥、九典制藥、特寶生物、金陵藥業等跟漲。
-
----
-
-### 2026-08-19 09:36:57  #市場
-
-【梁文峰打新宇樹科技浮盈11億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。梁文鋒旗下深度求索、幻方量化和九章資產透過戰略配售、網下打新合計獲配約119.16萬股。以發行價計算，梁文鋒打新宇樹科技浮盈超11億元。（中新經緯）
-
----
-
-### 2026-08-19 09:36:39  #MKT News #Star Stocks #Xiaomi #1810.HK #Impact bullish
-
-Xiaomi Corp (01810.HK) shares rose more than 5% after earnings; Q2 revenue 108.92 billion yuan, adjusted net profit 6.22 billion yuan.
-
----
-
-### 2026-08-19 09:35:41  #MKT News
-
-【2026 APEC customs series meeting opens in Dalian】The 2026 APEC customs series meeting opened in Dalian today (19th), drawing customs officials from 13 APEC economies, representatives of international organisations and Authorized Economic Operator firms. Aligned with APEC’s 2026 theme and the priorities of openness, innovation and cooperation, the forum aims to provide a high-level dialogue platform to strengthen Asia‑Pacific customs governance capacity.
-
----
-
-### 2026-08-19 09:35:30  #公司 #市場
-
-【深交所：“三鑫轉債”盤中臨時停牌】深交所公告，“三鑫轉債”(123280)盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，深交所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
-
----
-
-### 2026-08-19 09:35:22  #MKT News #Important #Market Regions #Greater China
-
-China A-share genetically modified (GM) seeds sector remained active: Nongfa Seed posted a third consecutive limit-up; Jingliang Holding and Wanxiang Denong hit daily limits; Dunhuang Seed, Qiule Seed and Shennong Seed also rose.
-
----
-
-### 2026-08-19 09:35:03  #市場 #焦點
-
-北證50日內跌幅達2.03%，成分股中，萬達軸承跌6.81%，三協電機跌6.66%，駿創科技跌4.19%，戈碧迦跌4.10%。
-
----
-
-### 2026-08-19 09:34:30  #市場
-
-【現貨黃金站上4350美元/盎司】現貨黃金站上4350美元/盎司，日內漲0.38%。
-
----
-
-### 2026-08-19 09:34:27  #市場 #焦點
-
-現貨黃金突破4350美元/盎司，日內漲0.37%。
-
----
-
-### 2026-08-19 09:34:21  #公司 #市場
-
-【PCB板塊盤初走弱，賢豐控股觸及跌停】PCB板塊盤初走弱，賢豐控股觸及跌停，強達電路、中材科技、方邦股份、景旺電子、國際復材、芯碁微裝等跟跌。
-
----
-
-### 2026-08-19 09:34:09  #公司 #國際
-
-AI晶片初創公司Rebellions稱正在準備在韓國進行IPO。
-
----
-
-### 2026-08-19 09:34:00  #市場 #焦點
-
-豆粕連續主力合約日內漲1%，現報3251.00元。
-
----
-
-### 2026-08-19 09:33:55  #公司 #市場
-
-【農業板塊繼續逆勢活躍 金健米業3連板】早盤農業板塊繼續逆勢活躍，金健米業、農發種業、京糧控股3連板，萬向德農、亞盛集團、登海種業等跟漲。
-
----
-
-### 2026-08-19 09:33:52  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300
-
-China's STAR 50 Index fell over 3% as semiconductor stocks weakened; Baiwei Storage slid nearly 5%.
-
----
-
-### 2026-08-19 09:33:52  #MKT News
-
-【Where to park spare cash? Money-market yield snapshot】Licaitong Current+ 7-day annualized yield ranged 0.7070%–1.4040%. WeChat Lingqiantong 7-day annualized yield ranged 0.8940%–1.0060%. Alipay Yu'e Bao 7-day annualized yield ranged 0.9010%–1.0530%.
-
----
-
-### 2026-08-19 09:33:44  #其他
-
-【2026APEC海關係列會議在大連舉辦】今年是APEC“中國年”，中國海關擔任APEC海關手續分委會主席。今天（19日），2026年亞太經合組織（APEC）海關係列會議將在大連舉辦，來自13個APEC經濟體的海關、相關國際組織、AEO企業的代表將參加今天的研討會。據瞭解，此次活動緊扣“建設亞太共同體，促進共同繁榮”年度主題及“開放、創新、合作”三大優先領域，旨在搭建高水平對話平臺，助力提升亞太區域海關治理能力。（央視新聞）
-
----
-
-### 2026-08-19 09:33:43  #市場 #焦點
-
-上證指數跌1.01%，現報3950.141點；深證成指跌2.37%，現報14276.488點；創業板指跌3.04%，現報3592.817點。
-
----
-
-### 2026-08-19 09:33:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share real estate sector staged a brief intraday rally; Nandu Property hit the daily limit. I Love My Home, Zhongtian Service, Shibei Hi‑Tech, Jinke and Greenland Holdings also rose.
-
----
-
-### 2026-08-19 09:32:49  #市場
-
-【多隻人氣股下挫 愛麗家居、一鳴食品雙雙跌停】早盤高位人氣股批次調整，愛麗家居、一鳴食品跌停。欣天科技、桂發祥、中石科技、天洋新材、金螳螂等跟跌。
-
----
-
-### 2026-08-19 09:32:46  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Steadies Ahead of FOMC Minutes — The dollar index steadied around 99.6 on Wednesday after touching more than two-month lows earlier this week, as investors turned their attention to minutes from the Federal Reserve’s July meeting for fresh clues on the monetary policy outlook. The Fed left interest rates unchanged last month, although three officials dissented in favor of a rate hike, with traders looking for more details on the division within the central bank. Markets currently see a 65% chance that policymakers will keep rates unchanged in September following a string of weak US economic data, while expectations for a rate increase later this year have also faded. Investors will also watch Chairman Kevin Warsh’s remarks at the Fed’s annual Jackson Hole symposium later this month, where he could seek to reassure markets amid a global bond selloff. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades.
 
 ---

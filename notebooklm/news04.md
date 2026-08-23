@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 12:47:48_
-_本檔包含 3231 則快訊，約 643331 字_
+_更新時間：2026-08-23 13:38:24_
+_本檔包含 3229 則快訊，約 642957 字_
+
+---
+
+### 2026-08-19 09:38:32  #市場
+
+【地產產業鏈逆勢活躍 志邦家居等多股漲停】早盤地產產業鏈逆勢活躍，家居、建材方向領漲，志邦家居、中交發展、羅普斯金、好太太漲停，尚品宅配、兔寶寶、三棵樹等跟漲。
+
+---
+
+### 2026-08-19 09:38:32  #Trading Economics #Economy #Australia #Wage Growth #Importance 1
+
+Australia Q2 Annual Wage Growth Remains at 5-Quarter Low — Australia’s seasonally adjusted Wage Price Index increased 3.2% year-on-year in Q2 2025, unchanged from the revised figure in Q1 and matching market expectations of 3.2%. The growth was driven by gains in both sectors, with private-sector wages advancing 3.1% (vs 3.2% in Q1), the lowest since Q2 2022, and public-sector pay increasing 3.4% (vs 3.4%), the weakest increase since Q4 2024. On a quarterly basis, wages grew 0.8%, unchanged from the previous four quarters and in line with market expectations.
+
+---
+
+### 2026-08-19 09:38:10  #市場 #國際
+
+菲律賓股市指數下跌1.1%，至6198.21點。
+
+---
+
+### 2026-08-19 09:37:57  #市場
+
+【上緯新材盤中跌超15%】A股上緯新材盤中跌15.33%，現報160.01元。
+
+---
+
+### 2026-08-19 09:37:47  #MKT News #Commodities #Precious Metals #00815.HK #Impact bearish #01815.HK #03939.HK
+
+Hong Kong gold stocks slid: China Silver Group (00815.HK), Zhufeng Gold (01815.HK) and Wanguo Gold (03939.HK) fell over 3%; Tongguan Gold (00340.HK) and Zijin Gold International (02259.HK) were down more than 2%.
+
+---
+
+### 2026-08-19 09:37:33  #公司 #市場
+
+【動物保健板塊走弱，聖達生物跌停】動物保健板塊走弱，聖達生物跌停，蔚藍生物、賢豐控股、美農生物、康華生物、天邦食品、亨通股份等跟跌。
+
+---
+
+### 2026-08-19 09:37:04  #市場
+
+醫藥股快速反彈，亨迪藥業、哈三聯直線漲停，萬邦醫藥、九典制藥、特寶生物、金陵藥業等跟漲。
+
+---
+
+### 2026-08-19 09:36:57  #市場
+
+【梁文峰打新宇樹科技浮盈11億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。梁文鋒旗下深度求索、幻方量化和九章資產透過戰略配售、網下打新合計獲配約119.16萬股。以發行價計算，梁文鋒打新宇樹科技浮盈超11億元。（中新經緯）
+
+---
+
+### 2026-08-19 09:36:39  #MKT News #Star Stocks #Xiaomi #1810.HK #Impact bullish
+
+Xiaomi Corp (01810.HK) shares rose more than 5% after earnings; Q2 revenue 108.92 billion yuan, adjusted net profit 6.22 billion yuan.
+
+---
+
+### 2026-08-19 09:35:41  #MKT News
+
+【2026 APEC customs series meeting opens in Dalian】The 2026 APEC customs series meeting opened in Dalian today (19th), drawing customs officials from 13 APEC economies, representatives of international organisations and Authorized Economic Operator firms. Aligned with APEC’s 2026 theme and the priorities of openness, innovation and cooperation, the forum aims to provide a high-level dialogue platform to strengthen Asia‑Pacific customs governance capacity.
+
+---
+
+### 2026-08-19 09:35:30  #公司 #市場
+
+【深交所：“三鑫轉債”盤中臨時停牌】深交所公告，“三鑫轉債”(123280)盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，深交所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
+
+---
+
+### 2026-08-19 09:35:22  #MKT News #Important #Market Regions #Greater China
+
+China A-share genetically modified (GM) seeds sector remained active: Nongfa Seed posted a third consecutive limit-up; Jingliang Holding and Wanxiang Denong hit daily limits; Dunhuang Seed, Qiule Seed and Shennong Seed also rose.
+
+---
+
+### 2026-08-19 09:35:03  #市場 #焦點
+
+北證50日內跌幅達2.03%，成分股中，萬達軸承跌6.81%，三協電機跌6.66%，駿創科技跌4.19%，戈碧迦跌4.10%。
+
+---
+
+### 2026-08-19 09:34:30  #市場
+
+【現貨黃金站上4350美元/盎司】現貨黃金站上4350美元/盎司，日內漲0.38%。
+
+---
+
+### 2026-08-19 09:34:27  #市場 #焦點
+
+現貨黃金突破4350美元/盎司，日內漲0.37%。
+
+---
+
+### 2026-08-19 09:34:21  #公司 #市場
+
+【PCB板塊盤初走弱，賢豐控股觸及跌停】PCB板塊盤初走弱，賢豐控股觸及跌停，強達電路、中材科技、方邦股份、景旺電子、國際復材、芯碁微裝等跟跌。
+
+---
+
+### 2026-08-19 09:34:09  #公司 #國際
+
+AI晶片初創公司Rebellions稱正在準備在韓國進行IPO。
+
+---
+
+### 2026-08-19 09:34:00  #市場 #焦點
+
+豆粕連續主力合約日內漲1%，現報3251.00元。
+
+---
+
+### 2026-08-19 09:33:55  #公司 #市場
+
+【農業板塊繼續逆勢活躍 金健米業3連板】早盤農業板塊繼續逆勢活躍，金健米業、農發種業、京糧控股3連板，萬向德農、亞盛集團、登海種業等跟漲。
+
+---
+
+### 2026-08-19 09:33:52  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300
+
+China's STAR 50 Index fell over 3% as semiconductor stocks weakened; Baiwei Storage slid nearly 5%.
+
+---
+
+### 2026-08-19 09:33:52  #MKT News
+
+【Where to park spare cash? Money-market yield snapshot】Licaitong Current+ 7-day annualized yield ranged 0.7070%–1.4040%. WeChat Lingqiantong 7-day annualized yield ranged 0.8940%–1.0060%. Alipay Yu'e Bao 7-day annualized yield ranged 0.9010%–1.0530%.
+
+---
+
+### 2026-08-19 09:33:44  #其他
+
+【2026APEC海關係列會議在大連舉辦】今年是APEC“中國年”，中國海關擔任APEC海關手續分委會主席。今天（19日），2026年亞太經合組織（APEC）海關係列會議將在大連舉辦，來自13個APEC經濟體的海關、相關國際組織、AEO企業的代表將參加今天的研討會。據瞭解，此次活動緊扣“建設亞太共同體，促進共同繁榮”年度主題及“開放、創新、合作”三大優先領域，旨在搭建高水平對話平臺，助力提升亞太區域海關治理能力。（央視新聞）
+
+---
+
+### 2026-08-19 09:33:43  #市場 #焦點
+
+上證指數跌1.01%，現報3950.141點；深證成指跌2.37%，現報14276.488點；創業板指跌3.04%，現報3592.817點。
+
+---
+
+### 2026-08-19 09:33:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share real estate sector staged a brief intraday rally; Nandu Property hit the daily limit. I Love My Home, Zhongtian Service, Shibei Hi‑Tech, Jinke and Greenland Holdings also rose.
+
+---
+
+### 2026-08-19 09:32:49  #市場
+
+【多隻人氣股下挫 愛麗家居、一鳴食品雙雙跌停】早盤高位人氣股批次調整，愛麗家居、一鳴食品跌停。欣天科技、桂發祥、中石科技、天洋新材、金螳螂等跟跌。
+
+---
+
+### 2026-08-19 09:32:46  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Steadies Ahead of FOMC Minutes — The dollar index steadied around 99.6 on Wednesday after touching more than two-month lows earlier this week, as investors turned their attention to minutes from the Federal Reserve’s July meeting for fresh clues on the monetary policy outlook. The Fed left interest rates unchanged last month, although three officials dissented in favor of a rate hike, with traders looking for more details on the division within the central bank. Markets currently see a 65% chance that policymakers will keep rates unchanged in September following a string of weak US economic data, while expectations for a rate increase later this year have also faded. Investors will also watch Chairman Kevin Warsh’s remarks at the Fed’s annual Jackson Hole symposium later this month, where he could seek to reassure markets amid a global bond selloff. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades.
 
 ---
 
@@ -19373,173 +19529,5 @@ President Trump said South Korea's president told him he would rather not get in
 ### 2026-08-18 02:03:11  #公司 #觀點
 
 花旗集團：截至7月底信用卡拖欠率為1.32%。
-
----
-
-### 2026-08-18 02:02:09  #MKT News #WTI #Impact bearish #Brent
-
-Turkish diplomatic sources said Turkey's foreign minister spoke with Iran's foreign minister to discuss efforts to reopen the Strait of Hormuz and to extend the U.S.-Iran ceasefire.
-
----
-
-### 2026-08-18 01:59:41  #MKT News
-
-President Trump said Oman has not performed well and that the US will deal with them.
-
----
-
-### 2026-08-18 01:59:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI crude rose above $84/bbl for the first time since July 31, gaining 2.93% intraday. Brent crude rose 3% intraday to $89.83/bbl.
-
----
-
-### 2026-08-18 01:58:23  #國際
-
-土耳其外交部長與伊朗外長通話，討論了開放霍爾木茲海峽、繼續美伊停火等事宜。
-
----
-
-### 2026-08-18 01:58:00  #國際
-
-特朗普：阿曼的表現不太好，但我們會處理好他們。
-
----
-
-### 2026-08-18 01:57:30  #國際
-
-特朗普談及阿曼：我認為他們的表現並不理想。
-
----
-
-### 2026-08-18 01:56:54  #市場
-
-布倫特原油日內漲3%，現報91.18美元/桶。
-
----
-
-### 2026-08-18 01:56:47  #市場 #焦點
-
-WTI原油突破84美元/桶，日內漲3.12%。
-
----
-
-### 2026-08-18 01:56:18  #市場 #焦點
-
-布倫特原油突破91美元/桶，日內漲2.87%。
-
----
-
-### 2026-08-18 01:56:13  #市場
-
-WTI原油日內漲3%，現報83.92美元/桶。
-
----
-
-### 2026-08-18 01:55:02  #MKT News #Market Regions #Japan & APAC
-
-【Russian FM Lavrov says Japan using criticism of Russia to mask its own military moves】Russian Foreign Minister Lavrov said on July 17 that Tokyo’s criticism of President Putin’s visit to Iturup Island appears aimed at diverting attention from Japan’s “openly aggressive” military trajectory. He urged Japan to focus on domestic issues, accused Tokyo of coordinating with the United States to “rewrite” international law, and warned that Japan is evading historical responsibility and breaching constitutional limits to expand Self-Defense Force operations overseas—developments he described as “very concerning.”
-
----
-
-### 2026-08-18 01:54:22  #國際
-
-特朗普談及Flock車牌識別監控攝像頭：這件事有利有弊，我們很快會公佈對於Flock攝像頭的官方立場。
-
----
-
-### 2026-08-18 01:52:48  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's foreign minister, responding to Iraq's foreign minister, said Iran has no reason to strike the Kurdistan Regional Government leader's official residence.
-
----
-
-### 2026-08-18 01:50:33  #國際
-
-【俄外長：日本企圖借抨擊俄羅斯掩蓋自身軍事動向】俄羅斯外交部長拉夫羅夫17日在評論日本方面針對俄總統普京登上伊圖魯普島（日本稱擇捉島）的表態時對俄媒表示，建議日本領導層集中精力處理國內事務，而非對俄進行“攻擊”。拉夫羅夫說，如果日本企圖透過抨擊俄羅斯來轉移國際社會對其“公然帶有侵略性質的”軍事路線的注意，那麼“我建議他們管好自己的事，他們國內有很多問題需要解決”。拉夫羅夫表示，日本試圖聯合與其關係緊密的盟友美國，按照雙方意願“改寫”國際法。日本企圖逃避自身犯下罪行的歷史責任，當下還在突破憲法約束，謀求拓展自衛隊海外活動，種種動向“非常令人擔憂”。（新華社）
-
----
-
-### 2026-08-18 01:50:01  #國際
-
-伊拉克外交部長與伊朗外長討論針對庫爾德斯坦地區政府主席官邸的無人機襲擊事件。
-
----
-
-### 2026-08-18 01:50:00  #MKT News #Brent #Impact bullish #WTI
-
-【Iranian media: UAE-owned tanker seized in Strait of Hormuz】Fars News, citing maritime data, reports a tanker owned by a UAE company was seized in the Strait of Hormuz after being intercepted near Qeshm Island. Iranian officials have said all vessels must use Tehran-designated routes and comply with related regulations.
-
----
-
-### 2026-08-18 01:46:40  #MKT News
-
-【US sell-off continues; 30-year Treasury yield highest since 2007】The 30-year Treasury yield rose 3bp on Monday to 5.29%, its highest level since 2007 and closing in on the 2007 peak of 5.44%. The rise reflects investor concern over a rapidly expanding US debt stock, heavy long-term issuance and inflation running above the Fed’s target for the past five years. Higher long-term yields are lifting US government financing costs as investors demand greater compensation against rising debt and persistent inflation that could keep short-term rates elevated for longer. Barclays US rates strategist Anshul Pradhan said the bank remains sceptical the long-end sell-off will soon abate; a constructive view on long Treasuries would likely require some combination of fiscal relief, a slowdown in AI-related bond issuance, a revised Treasury issuance strategy, or sustained weakness in economic activity.
-
----
-
-### 2026-08-18 01:45:19  #Trading Economics #Markets #commodity #Importance 0
-
-Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%.
-
----
-
-### 2026-08-18 01:34:40  #MKT News
-
-【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity.
-
----
-
-### 2026-08-18 01:32:07  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures are up 2.0% intraday at $84.05/bbl.
-
----
-
-### 2026-08-18 01:28:16  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Exxon Mobil Stock Price Hits 12-week High — Exxon Mobil shares increased to 161.68 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 8.94%, and in the last 12 months, it increased 51.44%.
-
----
-
-### 2026-08-18 01:27:00  #市場
-
-WTI原油日內漲2%，現報83.10美元/桶。
-
----
-
-### 2026-08-18 01:26:56  #MKT News #Important #Brent #Impact bullish
-
-Brent crude up 2% intraday at $88.95/bbl.
-
----
-
-### 2026-08-18 01:26:31  #市場
-
-布倫特原油日內漲2%，現報90.29美元/桶。
-
----
-
-### 2026-08-18 01:25:52  #市場 #焦點
-
-WTI原油突破83美元/桶，日內漲1.88%。
-
----
-
-### 2026-08-18 01:25:15  #其他
-
-葉門政府武裝稱，其對馬裡卜南部戰線的胡塞武裝陣地實施了打擊。
-
----
-
-### 2026-08-18 01:22:46  #央行 #美聯儲
-
-美聯儲隔夜逆回購協議（RRP）週一使用規模為25.5億美元，交易對手6家。
-
----
-
-### 2026-08-18 01:22:20  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Climbs to 3-Week High — US gasoline futures traded above $3.20 per gallon, reaching a three-week high as Middle East peace talks stalled. Iran warned of further escalation if the US fails to fully implement an interim deal, while the US threatened military action against Oman and demanded Iran’s surrender. At the pump, the average US gasoline price reached $4.06 per gallon, more than $1 above its level a year earlier. Elsewhere, repeated Ukrainian strikes on Russian oil refineries triggered a fresh wave of fuel shortages, while Moscow extended its fuel export restrictions. However, continued crude shipments through the Persian Gulf waterway despite the conflict eased some supply concerns. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, stating refiners are operating at record high. Meanwhile, Russia received at least one gasoline shipment from India, seeking to alleviate domestic shortages.
 
 ---
