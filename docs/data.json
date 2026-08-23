@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-24 02:19:40",
-  "count": 15851,
+  "updated": "2026-08-24 02:23:43",
+  "count": 15849,
   "items": [
+    {
+      "id": "5053842",
+      "time": "2026-08-24 02:22:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【幾內亞首都一垃圾填埋場垮塌造成至少30人死亡】幾內亞政府23日釋出通報說，該國首都科納克里郊區一處垃圾填埋場當天發生垮塌事故，已造成30人死亡、22人受傷，其中6人重傷。"
+    },
+    {
+      "id": "5053841",
+      "time": "2026-08-24 02:19:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯即將迎來來自土耳其的首批海運汽油，約20萬桶油料正運往俄羅斯。自7月下旬以來，俄羅斯海運汽油進口量已突破100萬桶。"
+    },
     {
       "id": "5053840",
       "time": "2026-08-24 02:04:47",
@@ -144917,38 +144933,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party."
-    },
-    {
-      "id": "mkt:01a00bd0-2eed-7aab-904f-9eaee0b0735d",
-      "time": "2026-08-17 02:23:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours."
-    },
-    {
-      "id": "mkt:01a00bcf-a9b5-7aab-904f-91302e88f563",
-      "time": "2026-08-17 02:22:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip."
-    },
-    {
-      "id": "mkt:01a00bcf-3610-7aab-904f-89ce98a40ffd",
-      "time": "2026-08-17 02:22:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip."
-    },
-    {
-      "id": "mkt:01a00bce-d49a-7aab-904f-81d077c43b8e",
-      "time": "2026-08-17 02:21:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera, citing Palestinian sources, reported that Kushner told Hamas leaders not to rely on the outcome of the Israeli election."
     }
   ]
 }
