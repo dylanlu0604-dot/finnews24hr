@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-23 18:18:52",
+  "updated": "2026-08-23 18:23:12",
   "count": 15937,
   "items": [
+    {
+      "id": "5053722",
+      "time": "2026-08-23 18:19:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【揭秘天工Omni“嬌羞捂臉跑”：是機器人自己學習到的跑步姿勢】8月23日晚間訊息，第二屆世界人形機器人運動會期間，天工Omni以45.66秒奪得小型組400米金牌。比賽期間，其一邊捂臉一邊奮力奔跑的獨特姿勢一度引發關注和熱議。賽後，在與包括新浪科技在內的媒體交流中，天工Omni研發團隊表示，這個姿勢並非人為控制的，而是在訓練其跑步時，天工Omni自己學會的“認為省力的姿勢。”（新浪科技）"
+    },
+    {
+      "id": "5053721",
+      "time": "2026-08-23 18:19:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【直擊WRC丨諾亦騰機器人釋出HiPHI，開源617.5小時高精度人體運動資料】8月23日下午訊息，2026世界機器人大會（WRC）期間，諾亦騰機器人釋出HiPHI（讀音同“hi-fi”）。據悉，HiPHI是一套面向人形機器人學習、數字人與計算機圖形學領域研究人員及工程師的高精度光學動作捕捉資料集，此資料總時長617.5小時，包含左右映象資料：371.8小時的全身人體運動資料，以及245.7小時的人—物互動資料。在人—物互動資料中，每件物體的運動軌跡與三維網格體（3D Mesh）均與動捕演員的動作同步記錄。 目前，該資料集現已在Hugging Face公開上線。（新浪科技）"
+    },
     {
       "id": "5053720",
       "time": "2026-08-23 18:17:44",
@@ -145720,22 +145736,6 @@
         "Important"
       ],
       "text": "【US reportedly bypassed Iranian negotiators to contact IRGC via Nechirvan Barzani】Axios, citing three people, reports mid‑May US envoys seeking an agreement to end hostilities could not verify whether Iranian negotiators represented the Islamic Revolutionary Guard Corps (IRGC). The Trump administration therefore bypassed Iran’s negotiators and opened a secret channel to IRGC leaders through Iraqi Kurdistan president Nechirvan Barzani, who reportedly has the trust of both Washington and IRGC leadership. A memorandum of understanding was reportedly reached but quickly collapsed, underscoring US difficulty in identifying who holds decision authority inside Iran."
-    },
-    {
-      "id": "5042782",
-      "time": "2026-08-16 18:22:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局8月16日18時聯合釋出橙色山洪災害氣象預警：預計，8月16日20時至8月17日20時，廣東東南部、四川中部、甘肅中部等地部分地區發生山洪災害可能性較大（黃色預警），其中，四川中部局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
-    },
-    {
-      "id": "5042781",
-      "time": "2026-08-16 18:20:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美從西太平洋撤出最後一艘航母】據美聯社8月15日報道，美國總統唐納德·特朗普對伊朗的戰爭正在挑戰美國航空母艦的極限，並使西太平洋沒有一艘這種關鍵的美國軍艦。 在對“亞伯拉罕·林肯”號這艘長期部署的航空母艦上官兵的心理健康和補給問題的擔憂日益加劇之際，“喬治·華盛頓”號航空母艦即將離開太平洋，預計將取代目前在中東的“林肯”號。最初計劃於5月返航的“林肯”號的在航時間已經延長，以支援對伊朗的行動。 如果美國海軍在未來數月部署另一艘航母，那麼，美國在太平洋沒有航母的局面可能是短暫的。但分析人士表示，這表明，在特朗普政府進一步從亞太地區抽身、把重點放在西半球之際，對伊朗的無限期行動已讓一些美國水兵精疲力竭。（參考訊息）"
     }
   ]
 }
