@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:30:52_
-_本檔包含 3137 則快訊，約 635973 字_
+_更新時間：2026-08-23 23:51:24_
+_本檔包含 3136 則快訊，約 635636 字_
+
+---
+
+### 2026-08-19 11:21:25  #國際
+
+【美駐以大使：哈馬斯“完全解除武裝”前以軍無需撤出】美國駐以色列大使邁克·赫卡比18日稱，在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）“完全解除武裝”前，以色列軍隊無需撤出加沙地帶。在接受以色列第12頻道電視臺採訪時，赫卡比否認有關以色列總理內塔尼亞胡同美國總統特朗普的女婿庫什納17日就“加沙和平計劃”下一階段內容發生衝突的報道，稱在哈馬斯仍持有武器的情況下，以色列就不會從加沙地帶撤軍，美方“並不期望以色列撤軍”。他還稱，美以達成了一項“很好的”協議。特朗普已明確表示，哈馬斯必須解除武裝，且不得參與未來加沙治理。（新華社）
+
+---
+
+### 2026-08-19 11:19:33  #其他
+
+【哥倫比亞強震死亡人數升至312人】哥倫比亞國家災害風險管理局18日晚公佈的最新資料顯示，截至當地時間18日19時，該國西部強震已造成312人死亡、4611人受傷、290人失蹤，另有358人獲救。資料顯示，哥倫比亞全國有15個省的470個市鎮受到此次地震影響，受災人數達29.4萬人。
+
+---
+
+### 2026-08-19 11:19:15  #其他
+
+【臺灣火箭發射失敗嚇壞居民】據參考訊息援引臺灣聯合新聞網8月19日報道，屏東縣滿州鄉中山科學研究院九鵬基地19日清晨6時許進行衛星運載火箭測試時，疑因不明原因發生失控，未按照預定軌跡飛向外海，反而偏離航道直接飛向內陸山區墜毀，讓附近居民直呼“可怕”。屏東縣政府要求中山科學研究院儘速調查並給民眾說明。 （參考訊息）
+
+---
+
+### 2026-08-19 11:18:27  #其他
+
+卡尼：加美貿易談判“仍有重要工作要做”。
+
+---
+
+### 2026-08-19 11:17:43  #MKT News
+
+【Honghu-03 satellite reaches orbit; firm aims for mass-production design】Aug 19, 2026 — Hongqing Technology’s technology-demonstration satellite Honghu-03, launched on a Zhuque-3 Yao-2 carrier rocket, successfully reached orbit. Solar arrays deployed and telemetry is normal. Hongqing says Honghu-03 was developed to validate technologies and production pathways that enable batch manufacturing — from core single-unit components to whole-satellite systems — to meet high-density launch and rapid networking needs. The company noted this follows maturation of reusable-rocket technology and accelerating global low-Earth-orbit constellation deployment.
+
+---
+
+### 2026-08-19 11:17:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+China's CSI 500 index futures (IC) most-active contract fell 3.00% intraday to 7,774.2 points.
+
+---
+
+### 2026-08-19 11:16:47  #MKT News #Important
+
+【Chang'e-7 launch to be timed in coming days】At Wenchang spaceport, the Chang'e-7 probe and its Long March-5 Y14 carrier rocket completed technical-zone operations and were vertically transferred to the launch pad. The probe and rocket arrived in April and July and have finished assembly and testing; launch facilities are reported in good condition. Pre-launch function checks, joint tests and propellant loading will proceed as planned, with launch to be conducted in the coming days when conditions permit.
 
 ---
 
@@ -18889,53 +18931,5 @@ South Korea's KOSPI jumped 3.00% intraday to 7,188.14.
 ### 2026-08-18 08:31:56  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #Copper
 
 【Nine ministries urge unlocking idle assets, accelerate redevelopment of existing land】MOFCOM and eight other ministries issued guidance to boost lower-tier market activity and county-level consumption, calling for activation of idle assets. Projects that reuse existing properties or land to develop county social services such as elderly care and childcare may receive up to five years of transitional support without requiring changes to the land-use holder or planning conditions. Subject to national land‑space planning, authorities encourage stock‑land redevelopment through self-operation, joint ventures or transfers to raise local commercial service capacity. County governments are supported to convert vacated office buildings and other idle state assets into convenience commercial outlets. Rural collective commercial construction land may be lawfully brought to market to develop county commerce, and idle rural housing is encouraged to be repurposed for new, village‑appropriate industries and business formats.
-
----
-
-### 2026-08-18 08:31:06  #市場 #國際
-
-2年期日本國債收益率上升1個基點至1.7%。
-
----
-
-### 2026-08-18 08:30:57  #其他
-
-【99000立方米超大型乙烷乙烯運輸船今日交付 】今天（18日），我國自主研發建造的99000立方米超大型乙烷乙烯運輸船正式交付使用者，綜合技術指標達到國際領先水平。 今天交付的99000立方米超大型乙烷乙烯運輸船總長230米，適用於裝運乙烷、乙烯和液化石油氣等多種液化工業氣體、能源氣體，具有油耗低、維護成本低等優勢，能適應長途運輸，是一艘經濟環保型船舶。 中船江南造船99000立方米超大型乙烷運輸船系列船總建造師袁世振表示，這艘船主要是為國內石化企業的乙烷運輸提供保障，同時配備了軸帶發電機，還有乙烷主機發動機，可以減少99%的硫化物排放，以及18%的碳氫化合物排放，為綠色航運提供有力幫助。
-
----
-
-### 2026-08-18 08:30:37  #MKT News #Important #Market Regions #CNH #Impact bullish #CSI300
-
-{"title":"MOFCOM and eight ministries unveil measures to boost county-level consumption","content":"MOFCOM and eight other ministries on Aug. 18 issued guidance to stimulate lower-tier market activity and county-level consumption. Measures target retail channel upgrades — deepening the "thousand markets, ten‑thousand stores" renovation, upgrading township trade centers, farmers' markets and large township fairs, and encouraging domestic and foreign brands to open regional first stores; promote redevelopment of existing land. The guidance calls for piloting one‑license, multiple‑locations for chain firms and individual traders within the same county where conditions permit, supporting domestic trendy brands' expansion into counties, and innovating consumption chains integrating primary, secondary and tertiary industries. It also seeks to improve county goods and services supply — promote urban‑rural parity on same‑spec goods, extend the 15‑minute convenience service circle to county areas, and advance commercial‑agricultural‑cultural‑tourism‑sports integration."}
-
----
-
-### 2026-08-18 08:30:22  #MKT News
-
-Australia Westpac-Melbourne Institute consumer confidence index for August 88.9; previous 83.9.
-
----
-
-### 2026-08-18 08:30:14  #MKT News #Economic Calendar #Important
-
-Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Aug) | actual 88.9 | previous 83.9
-
----
-
-### 2026-08-18 08:30:07  #MKT News #DXY #Impact bearish
-
-Australia Westpac-Melbourne Institute consumer confidence index MoM +6.0% in August; previous +4.1%.
-
----
-
-### 2026-08-18 08:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Aug) | actual 6% | previous 4.10%
-
----
-
-### 2026-08-18 08:29:25  #其他
-
-【9部門發文活躍縣域消費】《商務部等9部門關於進一步激發下沉市場活力 活躍縣域消費的意見》8月18日對外發布。在支援縣域消費渠道升級方面，意見提出，深化“千集萬店”改造提升，支援鄉鎮商貿中心、集（農）貿市場、鄉鎮特色大集等建設升級；引進國內外品牌開設區域首店；鼓勵多種方式推進存量土地改造開發等。在推動縣域商業業態創新和品牌打造方面，意見提出，在符合條件的同一縣域地區推行連鎖企業和商貿個體工商戶“一照多址”；支援國貨潮品下沉縣域市場；創新一二三產業融合的消費鏈條等。在最佳化縣域商品和服務供給方面，意見提出，促進同品同款商品城鄉“同質同享”；推動“一刻鐘便民生活圈”向縣域延伸；促進商農文旅體融合發展等。意見還圍繞進一步提升縣域流通現代化水平、增強消費保障能力、強化要素整合和營商環境建設等方面，提出加強財政資金保障、提升金融服務質效等舉措。
 
 ---

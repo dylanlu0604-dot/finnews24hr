@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:30:52_
-_本檔包含 3173 則快訊，約 635918 字_
+_更新時間：2026-08-23 23:51:24_
+_本檔包含 3170 則快訊，約 635783 字_
+
+---
+
+### 2026-08-20 11:39:25  #MKT News #Market Themes #AI Revolution
+
+【China's Ministry of Transport to accelerate AI integration into transport sector】Aug 20 — China's Ministry of Transport held a briefing on "AI + transport" application scenarios. Xu Wenqiang, director-general of the ministry's Science and Technology Department, said transport is a major economic artery and a large-scale real-world testbed for AI, and that the ministry has stepped up efforts in recent years to deepen AI integration with the transport sector.
+
+---
+
+### 2026-08-20 11:38:02  #其他
+
+【交通運輸部：加快推進人工智慧與交通運輸深度融合】8月20日，交通運輸部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。交通運輸部科技司司長徐文強表示，交通是國民經濟的大動脈，也是人工智慧落地的超級實景試驗場和規模化應用主陣地。近年來，交通運輸部加快推進人工智慧與交通運輸深度融合。（新華社）
+
+---
+
+### 2026-08-20 11:36:25  #市場 #國際
+
+日本20年期國債拍賣認購倍數3.98，過去12個月均值為3.66。
+
+---
+
+### 2026-08-20 11:35:49  #MKT News #Important #Market Regions #Greater China #MRNA.O #Impact bullish #SZSE Component #XAUUSD
+
+【A-share midday: ChiNext +1% as biotech/vaccine names surge to multiple limit-ups】Shanghai Composite +0.28% at midday, Shenzhen Composite +0.97%, ChiNext +1.03%. Shanghai- and Shenzhen-listed turnover 1.37 tln yuan, down 246.9 bln vs prior session. About 4,400 stocks advanced. Moderna (MRNA.O) cancer vaccine news lifted the vaccine/biotech and innovative drug complex and CROs, with more than 20 stocks hitting daily limit-ups, including Sanyuan Gene, Shiyao Chuangxin, Watson Biotech, Shuanglu Pharmaceutical and Wantai Biological. Gold-related names rallied, several to limit-up (Nankuang Group, Baoding Technology, Shen Zhonghua A); Xinye Silver-Tin, Chifeng Gold and Shandong Gold also gained. Palm oil (CPO) names recovered, with Changyingtong and Zhongjing Electronics on limit-up. Planting and forestry sectors pulled back; Hualv Biotech fell over 13% intraday while Wanxiang Denong, Agricultural Development Seeds and Beidahuang were among the largest decliners. Fluorochemical, coal and phosphate chemical sectors led losses.
 
 ---
 
@@ -19098,47 +19122,5 @@ EMSC reported a magnitude 5.3 earthquake in Indonesia's Flores region.
 ### 2026-08-19 11:22:20  #Trading Economics #Economy #Australia #Interest Rate #Importance 1
 
 RBA Flags Inflation Risks, Keeps Hike Option Open — The Reserve Bank of Australia (RBA) will need to raise interest rates again if upside risks to inflation materialize, Deputy Governor Andrew Hauser warned in a Wednesday speech. He said inflation remains “too high” and highlighted three key risks: the Middle East conflict, the global AI boom, and weak productivity. The central bank has already lifted rates by 75 basis points since the start of the year to curb stubborn price pressures, but held steady at 4.35% for a second consecutive meeting last week. Hauser’s remarks underscore the Bank’s readiness to act further should these risks intensify, keeping policy firmly focused on restraining inflation.
-
----
-
-### 2026-08-19 11:21:25  #國際
-
-【美駐以大使：哈馬斯“完全解除武裝”前以軍無需撤出】美國駐以色列大使邁克·赫卡比18日稱，在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）“完全解除武裝”前，以色列軍隊無需撤出加沙地帶。在接受以色列第12頻道電視臺採訪時，赫卡比否認有關以色列總理內塔尼亞胡同美國總統特朗普的女婿庫什納17日就“加沙和平計劃”下一階段內容發生衝突的報道，稱在哈馬斯仍持有武器的情況下，以色列就不會從加沙地帶撤軍，美方“並不期望以色列撤軍”。他還稱，美以達成了一項“很好的”協議。特朗普已明確表示，哈馬斯必須解除武裝，且不得參與未來加沙治理。（新華社）
-
----
-
-### 2026-08-19 11:19:33  #其他
-
-【哥倫比亞強震死亡人數升至312人】哥倫比亞國家災害風險管理局18日晚公佈的最新資料顯示，截至當地時間18日19時，該國西部強震已造成312人死亡、4611人受傷、290人失蹤，另有358人獲救。資料顯示，哥倫比亞全國有15個省的470個市鎮受到此次地震影響，受災人數達29.4萬人。
-
----
-
-### 2026-08-19 11:19:15  #其他
-
-【臺灣火箭發射失敗嚇壞居民】據參考訊息援引臺灣聯合新聞網8月19日報道，屏東縣滿州鄉中山科學研究院九鵬基地19日清晨6時許進行衛星運載火箭測試時，疑因不明原因發生失控，未按照預定軌跡飛向外海，反而偏離航道直接飛向內陸山區墜毀，讓附近居民直呼“可怕”。屏東縣政府要求中山科學研究院儘速調查並給民眾說明。 （參考訊息）
-
----
-
-### 2026-08-19 11:18:27  #其他
-
-卡尼：加美貿易談判“仍有重要工作要做”。
-
----
-
-### 2026-08-19 11:17:43  #MKT News
-
-【Honghu-03 satellite reaches orbit; firm aims for mass-production design】Aug 19, 2026 — Hongqing Technology’s technology-demonstration satellite Honghu-03, launched on a Zhuque-3 Yao-2 carrier rocket, successfully reached orbit. Solar arrays deployed and telemetry is normal. Hongqing says Honghu-03 was developed to validate technologies and production pathways that enable batch manufacturing — from core single-unit components to whole-satellite systems — to meet high-density launch and rapid networking needs. The company noted this follows maturation of reusable-rocket technology and accelerating global low-Earth-orbit constellation deployment.
-
----
-
-### 2026-08-19 11:17:38  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-China's CSI 500 index futures (IC) most-active contract fell 3.00% intraday to 7,774.2 points.
-
----
-
-### 2026-08-19 11:16:47  #MKT News #Important
-
-【Chang'e-7 launch to be timed in coming days】At Wenchang spaceport, the Chang'e-7 probe and its Long March-5 Y14 carrier rocket completed technical-zone operations and were vertically transferred to the launch pad. The probe and rocket arrived in April and July and have finished assembly and testing; launch facilities are reported in good condition. Pre-launch function checks, joint tests and propellant loading will proceed as planned, with launch to be conducted in the coming days when conditions permit.
 
 ---

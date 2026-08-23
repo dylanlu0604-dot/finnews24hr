@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:30:52_
-_本檔包含 3048 則快訊，約 635735 字_
+_更新時間：2026-08-23 23:51:24_
+_本檔包含 3041 則快訊，約 635561 字_
+
+---
+
+### 2026-08-18 08:31:06  #市場 #國際
+
+2年期日本國債收益率上升1個基點至1.7%。
+
+---
+
+### 2026-08-18 08:30:57  #其他
+
+【99000立方米超大型乙烷乙烯運輸船今日交付 】今天（18日），我國自主研發建造的99000立方米超大型乙烷乙烯運輸船正式交付使用者，綜合技術指標達到國際領先水平。 今天交付的99000立方米超大型乙烷乙烯運輸船總長230米，適用於裝運乙烷、乙烯和液化石油氣等多種液化工業氣體、能源氣體，具有油耗低、維護成本低等優勢，能適應長途運輸，是一艘經濟環保型船舶。 中船江南造船99000立方米超大型乙烷運輸船系列船總建造師袁世振表示，這艘船主要是為國內石化企業的乙烷運輸提供保障，同時配備了軸帶發電機，還有乙烷主機發動機，可以減少99%的硫化物排放，以及18%的碳氫化合物排放，為綠色航運提供有力幫助。
+
+---
+
+### 2026-08-18 08:30:37  #MKT News #Important #Market Regions #CNH #Impact bullish #CSI300
+
+{"title":"MOFCOM and eight ministries unveil measures to boost county-level consumption","content":"MOFCOM and eight other ministries on Aug. 18 issued guidance to stimulate lower-tier market activity and county-level consumption. Measures target retail channel upgrades — deepening the "thousand markets, ten‑thousand stores" renovation, upgrading township trade centers, farmers' markets and large township fairs, and encouraging domestic and foreign brands to open regional first stores; promote redevelopment of existing land. The guidance calls for piloting one‑license, multiple‑locations for chain firms and individual traders within the same county where conditions permit, supporting domestic trendy brands' expansion into counties, and innovating consumption chains integrating primary, secondary and tertiary industries. It also seeks to improve county goods and services supply — promote urban‑rural parity on same‑spec goods, extend the 15‑minute convenience service circle to county areas, and advance commercial‑agricultural‑cultural‑tourism‑sports integration."}
+
+---
+
+### 2026-08-18 08:30:22  #MKT News
+
+Australia Westpac-Melbourne Institute consumer confidence index for August 88.9; previous 83.9.
+
+---
+
+### 2026-08-18 08:30:14  #MKT News #Economic Calendar #Important
+
+Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Aug) | actual 88.9 | previous 83.9
+
+---
+
+### 2026-08-18 08:30:07  #MKT News #DXY #Impact bearish
+
+Australia Westpac-Melbourne Institute consumer confidence index MoM +6.0% in August; previous +4.1%.
+
+---
+
+### 2026-08-18 08:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Aug) | actual 6% | previous 4.10%
+
+---
+
+### 2026-08-18 08:29:25  #其他
+
+【9部門發文活躍縣域消費】《商務部等9部門關於進一步激發下沉市場活力 活躍縣域消費的意見》8月18日對外發布。在支援縣域消費渠道升級方面，意見提出，深化“千集萬店”改造提升，支援鄉鎮商貿中心、集（農）貿市場、鄉鎮特色大集等建設升級；引進國內外品牌開設區域首店；鼓勵多種方式推進存量土地改造開發等。在推動縣域商業業態創新和品牌打造方面，意見提出，在符合條件的同一縣域地區推行連鎖企業和商貿個體工商戶“一照多址”；支援國貨潮品下沉縣域市場；創新一二三產業融合的消費鏈條等。在最佳化縣域商品和服務供給方面，意見提出，促進同品同款商品城鄉“同質同享”；推動“一刻鐘便民生活圈”向縣域延伸；促進商農文旅體融合發展等。意見還圍繞進一步提升縣域流通現代化水平、增強消費保障能力、強化要素整合和營商環境建設等方面，提出加強財政資金保障、提升金融服務質效等舉措。
 
 ---
 
@@ -18303,95 +18351,5 @@ IRNA quoted Iran's army general staff as saying it is confident the USS Abraham 
 ### 2026-08-16 23:51:41  #MKT News
 
 Al Arabiya TV reported Kushner, a senior adviser to Trump, has concluded a meeting with the Gaza Peace Committee.
-
----
-
-### 2026-08-16 23:50:56  #MKT News
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan said in a joint statement that Israel's refusal threatens Trump's intensified efforts to end the Gaza war.
-
----
-
-### 2026-08-16 23:50:45  #國際
-
-埃及、約旦、阿聯酋、卡達、印度尼西亞、沙烏地阿拉伯、土耳其和巴基斯坦聯合宣告譴責以色列拒絕特朗普關於加沙的計劃，並表示以色列需為阻礙加沙及巴勒斯坦領土的和平程序承擔責任，以色列的拒絕令特朗普加大力度終結加沙戰爭的行動面臨威脅。
-
----
-
-### 2026-08-16 23:50:04  #MKT News
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement saying Israel is responsible for obstructing peace efforts in Gaza and the Palestinian territories.
-
----
-
-### 2026-08-16 23:49:48  #國際
-
-伊朗議會議長卡利巴夫：伊朗在同美國、以色列的戰爭中，于軍事與政治兩條戰線均取得“真正勝利”。
-
----
-
-### 2026-08-16 23:49:15  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Egypt, Jordan, the UAE, Qatar, Indonesia, Saudi Arabia, Turkey and Pakistan issued a joint statement condemning Israel's rejection of President Trump's plan for Gaza.
-
----
-
-### 2026-08-16 23:47:52  #國際
-
-【庫什納會見哈馬斯領導人，敦促其推進加沙非軍事化】特朗普特使賈裡德·庫什納週日在埃及會見了哈馬斯領導人，敦促他們履行解除武裝的承諾。這是自去年10月簽署結束加沙戰爭的協議以來，庫什納首次與哈馬斯領導人會面。此次會晤的目標是將哈馬斯關於加沙非軍事化的義務“轉化為具體、可核查的步驟”。為維持加沙停火，這些措施包括將執政權移交給巴勒斯坦技術官僚政府，並確保哈馬斯在加沙未來的治理中不扮演任何角色。和平委員會希望哈馬斯開始解除武器和軍事基礎設施的武裝，允許國際穩定部隊部署並協助加沙的恢復和重建工作，且不得對參與重建的巴勒斯坦人進行盜竊或恐嚇。該委員會還希望，如果哈馬斯開始解除武裝，以色列也應在加沙進行“相應的撤軍”，並加快向加沙地帶提供人道主義援助。訊息人士稱，庫什納預計將於週一訪問以色列，並與以色列總理內塔尼亞胡會面，討論以色列必須採取的“相應步驟”。
-
----
-
-### 2026-08-16 23:46:12  #MKT News
-
-Sources said Trump senior adviser Jared Kushner and 'Peace Committee' Gaza affairs representative Nikolay Mladenov promised Hamas that Israeli forces would withdraw from Gaza in tandem with the group's disarmament.
-
----
-
-### 2026-08-16 23:43:35  #MKT News
-
-Al Arabiya reported Kushner told Hamas that peace can be achieved only if all parties fulfill their commitments.
-
----
-
-### 2026-08-16 23:42:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Russian Defence Ministry said it struck three warships and two tankers used to deliver military supplies and fuel to Ukrainian forces based at the port of Odesa.
-
----
-
-### 2026-08-16 23:40:05  #MKT News
-
-【Forest fire on Greece's Salamis Island kills 2, injures 9】Greece's fire service says a forest fire on Salamis Island, about 20 km west of Athens, has killed 2 people and injured 9; roughly 90 people were evacuated.
-
----
-
-### 2026-08-16 23:39:50  #國際
-
-俄羅斯國防部：打擊了3艘船隻和2艘油輪，這些船隻正用於向烏克蘭軍隊在敖德薩港運送軍事物資和燃料。
-
----
-
-### 2026-08-16 23:39:31  #MKT News
-
-Following a Russian missile strike on Kyiv, firefighters battled a blaze at a book market; emergency services reported two people injured.
-
----
-
-### 2026-08-16 23:35:59  #其他
-
-【希臘薩拉米斯島森林火災已致2死9傷】希臘媒體16日援引該國消防部門訊息報道，位於希臘首都雅典以西約20公里的薩拉米斯島當天發生森林火災，已造成2人死亡、9人受傷，約90人被迫撤離。（新華社）
-
----
-
-### 2026-08-16 23:33:27  #其他
-
-市場資訊：針對多次延期的新一代Roadster跑車，特斯拉已研究過多種設計方案，包括改造Model S Plaid，以及借鑑蘭博基尼Countach與SR‑71“黑鳥”偵察機的外觀造型。
-
----
-
-### 2026-08-16 23:30:57  #公司
-
-【上市前夕 OpenAI高層劇烈震盪】在準備IPO之際，正在進入一個關鍵節點。2026年以來，至少13名高管和業務負責人離開OpenAI。一邊是業務繼續快速增長，年化營收已經超過400億美元，企業業務收入首次超過消費者業務；另一邊，公司核心管理層卻在持續調整。對於一家正在衝刺上市、同時業務規模快速擴張的公司來說，核心高管密集離開，自然引發了外界對管理層穩定性的關注。
 
 ---

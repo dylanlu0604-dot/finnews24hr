@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 23:30:52_
-_本檔包含 3310 則快訊，約 635428 字_
+_更新時間：2026-08-23 23:51:24_
+_本檔包含 3310 則快訊，約 635773 字_
+
+---
+
+### 2026-08-21 11:07:56  #其他
+
+【剛果（金）埃博拉確診病例超5200例】剛果（金）衛生部19日釋出的報告顯示，截至18日，該國累計報告埃博拉確診病例5208例，其中死亡2476例，病死率47.5%，另有1115人治癒。
+
+---
+
+### 2026-08-21 11:06:20  #公司
+
+【上海國投公司與靈睿智芯座談交流】據上海國投公司訊息，8月19日下午，上海靈睿智芯計算技術有限公司（簡稱“靈睿智芯”）創始人劉洋一行到訪上海國投公司。上海國投公司黨委書記、董事長袁國華接待並主持座談。雙方圍繞RISC－V產業戰略、前沿算力技術創新、後續融資安排及多維度生態協同等議題展開了深入探討與交流。
+
+---
+
+### 2026-08-21 11:05:58  #宏觀 #焦點
+
+【三部門釋出《關於進一步做好財政金融協同促內需政策有關工作的通知》】財政部、中國人民銀行、金融監管總局印發《關於進一步做好財政金融協同促內需政策有關工作的通知》，具體內容如下。關於進一步做好財政金融協同促內需政策有關工作的通知財金〔2026〕71號各省、自治區、直轄市、計劃單列市財政廳（局），新疆生產建設兵團財政局，中國人民銀行上海總部及各省、自治區、直轄市、計劃單列市分行，各金融監管局，有關金融機構：為貫徹落實黨中央、國務院關於擴大內需的決策部署，激發民間投資，促進居民消費，更好發揮財政金融協同促內需一攬子政策作用，現就有關事項通知如下：一、擴大貼息範圍將符合條件的中小微民營企業的新發放流動資金貸款納入中小微企業貸款貼息政策支援範圍，中央財政按照流動資金貸款本金給予年化1個百分點、期限不超過2年的貼息支援。將信用卡專項分期、消費分期、預借現金分期等新發生信用卡各類分期業務納入個人消費貸款財政貼息政策支援範圍，貼息比例為年化1個百分點。二、增加經辦機構將中小微企業貸款貼息政策、服務業經營主體貸款貼息政策經辦機構範圍擴大至21家全國性銀行和金融監管評級3A及以上的城市商業銀行、農村合作金融機構、民營銀行、外資銀行。三、適當提高額度單戶在單家經辦機構可享受中小微企業貸款貼息的貸款規模上限由每年5000萬元提高至7500萬元。單戶在單家經辦機構可享受服務業經營主體貸款貼息的貸款規模上限由每年1000萬元提高至2000萬元。每名借款人在單家經辦機構可享受的個人消費貸款和信用卡分期業務累計貼息上限由每年3000元提高至每年5000元。四、其他事項本通知自2026年8月1日起施行。其他未盡事項按照《財政部 中國人民銀行 金融監管總局關於最佳化實施個人消費貸款財政貼息政策有關事項的通知》（財金〔2026〕1號）、《財政部 國家發展改革委 工業和資訊化部 中國人民銀行 金融監管總局關於實施中小微企業貸款貼息政策的通知》（財金〔2026〕4號）、《財政部 商務部 中國人民銀行 金融監管總局關於最佳化實施服務業經營主體貸款貼息政策的通知》（財金〔2026〕5號）等相關規定執行。
+
+---
+
+### 2026-08-21 11:05:29  #MKT News
+
+【S. Korea finance minister says will closely monitor impact of rising global bond yields】YONHAP reported S. Korea’s finance minister said on Friday the government will closely monitor the domestic government bond market as long-term government bond yields in major economies, including the US, Japan and Europe, have risen to multi-decade highs amid higher fiscal spending and Middle East uncertainty. He said authorities will track issuance and trading activity and seek to lower corporate and household funding costs. The minister noted the won weakened to 1,300 per USD this week for the first time; it had earlier weakened to around 1,550 in early July, a move attributed to a record current-account surplus. He warned the exchange rate faces two-way risks from Middle East geopolitical tensions and major central banks’ policies and said the government will stay vigilant and respond to market moves.
 
 ---
 
@@ -19970,29 +19994,5 @@ Rupee Rises on Dollar Weakness — The Indian rupee strengthened to around 95.62
 ### 2026-08-20 11:42:23  #Trading Economics #Economy #Serbia #Current Account #Importance 0
 
 Serbia Current Account Deficit Largest in 6 Months — Serbia’s current account deficit widened sharply to $1,022 million in June 2026 from $231 million in the same month last year. This marked the largest deficit since December 2025, as the goods account deficit increased to $687 million from $326 million, while the services surplus narrowed to $225 million from $297 million. At the same time, the primary income deficit expanded to $1,118 million from $690 million. On the other hand, the secondary income surplus rose to $557 million from $488 million. Over the first half of the year, Serbia posted a current account deficit of $1,616 million, smaller than the $2,204 million recorded in the corresponding period of the previous year.
-
----
-
-### 2026-08-20 11:39:25  #MKT News #Market Themes #AI Revolution
-
-【China's Ministry of Transport to accelerate AI integration into transport sector】Aug 20 — China's Ministry of Transport held a briefing on "AI + transport" application scenarios. Xu Wenqiang, director-general of the ministry's Science and Technology Department, said transport is a major economic artery and a large-scale real-world testbed for AI, and that the ministry has stepped up efforts in recent years to deepen AI integration with the transport sector.
-
----
-
-### 2026-08-20 11:38:02  #其他
-
-【交通運輸部：加快推進人工智慧與交通運輸深度融合】8月20日，交通運輸部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。交通運輸部科技司司長徐文強表示，交通是國民經濟的大動脈，也是人工智慧落地的超級實景試驗場和規模化應用主陣地。近年來，交通運輸部加快推進人工智慧與交通運輸深度融合。（新華社）
-
----
-
-### 2026-08-20 11:36:25  #市場 #國際
-
-日本20年期國債拍賣認購倍數3.98，過去12個月均值為3.66。
-
----
-
-### 2026-08-20 11:35:49  #MKT News #Important #Market Regions #Greater China #MRNA.O #Impact bullish #SZSE Component #XAUUSD
-
-【A-share midday: ChiNext +1% as biotech/vaccine names surge to multiple limit-ups】Shanghai Composite +0.28% at midday, Shenzhen Composite +0.97%, ChiNext +1.03%. Shanghai- and Shenzhen-listed turnover 1.37 tln yuan, down 246.9 bln vs prior session. About 4,400 stocks advanced. Moderna (MRNA.O) cancer vaccine news lifted the vaccine/biotech and innovative drug complex and CROs, with more than 20 stocks hitting daily limit-ups, including Sanyuan Gene, Shiyao Chuangxin, Watson Biotech, Shuanglu Pharmaceutical and Wantai Biological. Gold-related names rallied, several to limit-up (Nankuang Group, Baoding Technology, Shen Zhonghua A); Xinye Silver-Tin, Chifeng Gold and Shandong Gold also gained. Palm oil (CPO) names recovered, with Changyingtong and Zhongjing Electronics on limit-up. Planting and forestry sectors pulled back; Hualv Biotech fell over 13% intraday while Wanxiang Denong, Agricultural Development Seeds and Beidahuang were among the largest decliners. Fluorochemical, coal and phosphate chemical sectors led losses.
 
 ---
