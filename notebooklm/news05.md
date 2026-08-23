@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 15:41:44_
-_本檔包含 3091 則快訊，約 640927 字_
+_更新時間：2026-08-23 16:45:12_
+_本檔包含 3082 則快訊，約 641322 字_
+
+---
+
+### 2026-08-18 05:17:03  #MKT News #Commodities #Energy #PETR4.SA
+
+Petrobras top executive said drilling at the mouth of the Amazon has cost about $300 mln to date.
+
+---
+
+### 2026-08-18 05:15:31  #市場
+
+富時A50期指連續夜盤收跌0.23%，報15131點。
+
+---
+
+### 2026-08-18 05:13:24  #公司
+
+高管稱，巴西國家石油公司在亞馬遜河口的鑽井作業迄今已耗資約 3 億美元。
+
+---
+
+### 2026-08-18 05:13:04  #Trading Economics #Economy #United States #Capital Flows #Importance 1
+
+US TIC Inflows Reach $133.5 Billion in June — Net foreign acquisitions of long-term securities, short-term US securities and banking flows resulted in a net TIC inflow of $133.5 billion in June 2026. Net foreign private inflows totaled $85.0 billion, while official inflows reached $48.4 billion. Foreign residents increased their holdings of long-term US securities, with net purchases totaling $207.1 billion. Private foreign investors accounted for $169.8 billion, while official institutions purchased $37.3 billion. US residents also increased their holdings of long-term foreign securities, with net purchases of $34.4 billion. After adjustments, overall net foreign purchases of long-term securities were estimated at $172.7 billion in June. Foreign residents reduced their holdings of US Treasury bills by $29.0 billion, while holdings of dollar-denominated short-term US securities and other custody liabilities fell $4.9 billion.
+
+---
+
+### 2026-08-18 05:11:58  #市場
+
+週一（8月17日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7431元，較上週五紐約尾盤漲15點，日內整體交投於6.7439-6.7376元區間，整體衝高回落、北京時間16:30創2023年2月3日（最高達到6.7342元）以來盤中新高，逼近當年1月16日頂部6.6975元。
+
+---
+
+### 2026-08-18 05:11:17  #國際
+
+ROCKET LAB 加入美國太空部隊價值 9.81 億美元的 NITE‑STAR 專案，推進太空測試與訓練基礎設施建設。
+
+---
+
+### 2026-08-18 05:06:18  #MKT News
+
+【Kushner says U.S. and Iran have not yet reached consensus】On Aug. 17 local time, Jared Kushner, President Trump’s son-in-law, said dialogue between U.S. and Iranian government departments had reached "unprecedented" levels but that the sides had "not yet reached consensus".
+
+---
+
+### 2026-08-18 05:05:17  #國際
+
+【庫什納稱美伊雙方尚未達成共識】當地時間8月17日，美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。（央視新聞）
+
+---
+
+### 2026-08-18 05:02:58  #MKT News
+
+Venezuela interim president Rodriguez said the earthquake death toll has risen to 6,438.
+
+---
+
+### 2026-08-18 05:01:28  #市場
+
+【國際金價漲0.9%，白銀漲1.7%】週一（8月17日）紐約尾盤，現貨黃金漲0.91%，報4416.25美元/盎司，絕大部分時間處於上漲狀態，交投於4367.32-4428.88美元，最近數日持穩於4400美元附近——100日均線近期也膠著於這一水平附近。現貨白銀漲1.72%，報65.7945美元/盎司，已於8月7日漲穿50日均線（該技術指標目前報61.2981美元）。COMEX銅期貨跌0.11%，報6.7070美元/磅，亞太尾盤曾達到6.8420美元，持穩於8月6日頂部6.96美元附近。
+
+---
+
+### 2026-08-18 04:59:23  #市場
+
+牙買加7月消費者價格環比上漲1.2%。
+
+---
+
+### 2026-08-18 04:56:28  #國際
+
+哥倫比亞總統與特朗普舉行通話，並對美方援助表示感謝。
+
+---
+
+### 2026-08-18 04:52:35  #國際
+
+法國總統馬克龍：軍事規劃法案將於明日頒佈。我國軍隊預算將實現翻倍，2026 至 2030 年間軍隊將獲得 360 億歐元新增投資。
+
+---
+
+### 2026-08-18 04:51:11  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls for Tenth Straight Session — The Ibovespa edged 0.1% lower to close at 166,784 on Monday, marking a tenth consecutive session of losses. Tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. Itaú shed 1.6%, Bradesco lost 1.9% and Banco do Brasil retreated 2.3%. The IBC-Br showed a slightly larger-than-expected decline, falling 0.6%, its biggest drop since May 2025. The data added to evidence of a slowing economy. Casas Bahia (-33.3%) filed for judicial recovery following a multibillion-real loss in 2Q26. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round.
+
+---
+
+### 2026-08-18 04:48:13  #MKT News
+
+The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the midterm elections.
+
+---
+
+### 2026-08-18 04:44:57  #公司
+
+明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。
+
+---
+
+### 2026-08-18 04:42:34  #MKT News #LHX.O #Impact bullish
+
+NASA has selected four firms to provide mission payload processing facility services, including Blue Origin, Firefly Aerospace and L3Harris. The contract value is up to $100 million.
+
+---
+
+### 2026-08-18 04:38:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Retreats from Record High — The S&P/TSX Composite Index edged 0.2% lower to close at 36,668 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices rose, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, tracking a surge in long-term US Treasury yields. Financials lost ground, with RBC, TD Bank and BMO edging lower. Software and tech-services stocks traded lower, tracking losses among US software infrastructure shares, with Shopify shedding 3.7% and Constellation Software falling 3.2%. Retail stocks also posted losses ahead of retail data on Friday, with ATD (-1.6%), Loblaw (-1.8%) and Dollarama (-2.1%) declining.
+
+---
+
+### 2026-08-18 04:37:23  #MKT News
+
+UAE state news agency said the UAE foreign minister spoke by phone with Kuwait’s foreign minister to discuss recent regional developments and measures to bolster security and stability in the Middle East.
+
+---
+
+### 2026-08-18 04:35:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index decreased 273 points or 0.51 percent on Monday to close at 53460 points. The decline was led by Nike (-4.05%), Salesforce (-3.06%) and Walt Disney (-3.02%). On the upside, the strongest performers were Caterpillar (3.13%), Chevron (1.41%) and Goldman Sachs (1.18%).
+
+---
+
+### 2026-08-18 04:31:45  #國際
+
+美國國家航空航天局：OPS 合同總上限金額為 1 億美元。
+
+---
+
+### 2026-08-18 04:31:13  #國際
+
+美國國家航空航天局：遴選多家企業提供有效載荷處理服務，入選企業包括 BLUE ORIGIN、FIREFLY AEROSPACE、L3HARRIS。
+
+---
+
+### 2026-08-18 04:16:58  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+US equities closed lower on Monday, Aug. 17: Dow Jones Industrial Average fell 272.39 points (-0.51%) to 53,460.02; S&P 500 fell 40.39 points (-0.52%) to 7,745.37; Nasdaq Composite fell 84.25 points (-0.32%) to 26,644.91.
+
+---
+
+### 2026-08-18 04:15:09  #MKT News #Market Regions #Wall Street (US)
+
+【Anthropic's annualized revenue tops $65 billion ahead of IPO】People familiar said Anthropic's current performance implies annualized recurring revenue (ARR) above $65 billion, more than a sevenfold increase versus year-end. One source said Anthropic reported the figure to investors in routine updates; ARR stood at $65 billion as of end-July. The revenue acceleration has strengthened the company's confidence in pursuing an IPO. Anthropic and OpenAI have privately filed listing documents; Anthropic could debut on Wall Street as soon as this fall, potentially ahead of OpenAI.
+
+---
+
+### 2026-08-18 04:13:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Drop as Middle East Risks Escalate — US stock indices closed lower on Monday amid concerns that elevated oil prices will fuel inflation as hopes for a deal to end the war in the Middle East faded. The S&P 500 fell 0.5%, the Nasdaq lost 0.2% and the Dow shed 273 points. Prospects for peace suffered a setback, with fighting flaring anew and rhetoric escalating. Oil prices rose, rasing concerns that inflation could prompt the Fed to raise rates before the year is over. The 30-year Treasury yield hit its highest level since 2007, reflecting concerns over surging government spending. Credit-sensitive stocks, including financials and hyperscalers, closed lower. Google lost 0.6%, Microsoft was down 3% and Meta shed 3.5%. Berkshire Hathaway lost 1.1%, Visa shed 1.5% and Amex retreated 1.8%. Meanwhile, chipmakers posted gains after strong revenue growth from Anthropic. The company is meeting with banks over a potential IPO, which could be the biggest on record. Micron added 4.1%, Intel gained 1% and Sandisk soared 9%.
 
 ---
 
@@ -18407,209 +18557,5 @@ Fars News reported the mayor of Mahshahr said explosions heard in Mahshahr minut
 ### 2026-08-16 16:47:39  #國際
 
 【專家：普京登島 俄日關係或處於長期緊張狀態】中國現代國際關係研究院歐亞研究所副所長 陳宇：長期以來南千島群島，也就是日本所稱的北方四島歸屬的爭議，一直是俄日兩國幾十年來的結構性障礙。但過去由於雙方在經貿層面還有一定的相互需求，雙邊關係沒有達到很僵的程度，包括持續存在關於領土問題的一些對話。這也是為什麼普京此前一直沒有去南千島群島，也就是日本所稱北方四島的原因。但俄烏衝突後，俄羅斯和西方的關係破裂了，日本作為美國的盟友，緊跟著西方，對俄羅斯進行了全方位的制裁。包括其自身也不斷加速防務擴張，不斷強化美日同盟，俄日關係也因此迅速惡化。雙方原有的合作與對話也趨於停滯。去年，俄方也正式宣佈已經看不到俄日締結和平協議的可能性。本次普京正式登上了南千島群島，也是日本所稱的北方四島，說明過去曾經存在的和平條約的談判空間，目前已經凍結了。短期內不存在妥協的現實基礎，締結和平條約也遙遙無期。同時，由於長期存在此種制裁的原因，雙方經貿人文的往來也不斷萎縮，原本就有限的能源和漁業合作空間也持續壓縮，民間交流的渠道也在不斷收窄，過去的經濟紐帶也已經不復存在。此外，兩國間軍事安全對立的加劇，也決定了俄日關係在可預見的未來，將始終處於一個緊張的狀態。（央視新聞）
-
----
-
-### 2026-08-16 16:45:11  #國際
-
-【比利時發生大規模野火 數百居民被疏散】比利時東部地區日前發生大規模野火，截至15日晚，過火面積已超過2700公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。 這場野火14日在靠近德國邊境的一個自然保護區開始燒起，後迅速蔓延。當地政府說，過火面積已從14日的約80公頃迅速擴大至15日晚的2700多公頃。 歐洲森林火災資訊系統的資料顯示，此次火災過火面積幾乎兩倍於比利時2011年大火時近1400公頃的過火面積，為該國有記錄以來最大規模的野火。 （新華社）
-
----
-
-### 2026-08-16 16:43:47  #MKT News
-
-【Niu Lai cumulative box office tops 5 mln yuan】According to Lighthouse Professional, on its 12th day the film Niu Lai has a cumulative box office exceeding 5 mln yuan.
-
----
-
-### 2026-08-16 16:39:05  #國際
-
-【俄羅斯火箭航天中心遭襲】據德國新聞電影片道網站8月15日報道，烏克蘭軍方聲稱襲擊了位於俄羅斯薩馬拉的火箭航天中心。烏克蘭總統澤連斯基在“電報”軟體上宣佈，烏軍使用“火烈鳥”巡航導彈擊中了距離俄烏邊境約900公里、位於薩馬拉的火箭工廠。澤連斯基稱，此舉旨在進一步對俄羅斯政府施壓，以迫使其停戰。他在社交平臺X上寫道：“削弱俄羅斯的戰爭潛力至關重要。和平是必要的，必須透過對特定設施的具體破壞行動讓俄羅斯感受到這點。”烏克蘭武裝部隊總參謀部稱，位於俄羅斯薩馬拉州的“進步”火箭航天中心被擊中並起火。有關損失的更多細節尚未公佈。其首府薩馬拉市是俄羅斯航空航天業最重要的中心之一。這座城市在蘇聯時期發展成為生產運載火箭和衛星的航天技術基地。 （參考訊息）
-
----
-
-### 2026-08-16 16:36:53  #國際
-
-【印尼東努沙登加拉省宣佈進入災害緊急響應狀態】據印度尼西亞媒體16日報道，印尼東努沙登加拉省省長萊納簽署省長令，宣佈全省因15日發生的7.7級地震及多次餘震進入為期14天的災害緊急響應狀態。萊納表示，宣佈進入災害緊急響應狀態旨在提高災後處置效率、統籌調配資源、加強各部門協調溝通。災害緊急響應狀態從8月15日持續至8月28日。（新華社）
-
----
-
-### 2026-08-16 16:34:53  #國際
-
-伊朗陸軍總司令：伊朗軍人逮捕或者擊斃一名美國士兵可獲得3萬美元的獎勵。
-
----
-
-### 2026-08-16 16:31:39  #公司 #國際
-
-【烏克蘭克里沃羅格一鋼鐵廠遭襲，致2死13傷】烏克蘭克里沃羅格安賽樂米塔爾鋼鐵廠8月16日通報稱，該企業當天凌晨遭俄羅斯導彈襲擊，截至目前，已有2人死亡、13人受傷。襲擊導致企業主要設施受損，工廠部分生產流程暫停。目前，相關專家正在評估損失程度以及恢復生產的可能性。通報還稱，2022年該企業曾遭受俄軍導彈襲擊，當時軋鋼車間被摧毀，一名員工死亡。公司強調，該企業屬於冶金工業民用設施。（央視新聞）
-
----
-
-### 2026-08-16 16:28:35  #國際
-
-【日政要參拜靖國神社遭國際社會強烈反對】在日本宣佈無條件投降81週年之際，日本首相高市早苗15日以“自民黨總裁”身份，向供奉有二戰甲級戰犯的靖國神社供奉“玉串料”（祭祀費），並在出席日本政府舉辦的“全國戰歿者追悼儀式”前從會場停車場朝靖國神社所在方向“遙拜”。此外，日本防衛大臣小泉進次郎等多名政客分別前往靖國神社參拜，這是日本連續第7年有現任閣僚在這一天參拜靖國神社。日方錯誤行徑引發國際社會和日本國內愛好和平人士強烈反對。（新華社）
-
----
-
-### 2026-08-16 16:28:01  #國際
-
-【脫離民眾、部署混亂 航母風波凸顯美軍困境】美國“亞伯拉罕·林肯”號核動力航空母艦因長期部署被媒體曝出諸多問題後，許多輿論認為這艘航母的困境是美軍在伊朗戰事中陷入僵局的象徵。有媒體認為，美國政府的決策與士兵家屬的感受及民眾對戰事的態度脫節，同時也暴露出美國軍事資源快速消耗這一重大問題。 （新華社）
-
----
-
-### 2026-08-16 16:26:43  #國際
-
-【俄媒稱莫斯科遭最大規模無人機襲擊】俄羅斯莫斯科市長索比亞寧今天（8月16日）稱，當地時間15日晚至16日6時30分，飛向莫斯科的無人機數量達到600架塔斯社報道稱，這是近兩年來莫斯科遭到的規模最大的一次無人機襲擊。（CCTV國際時訊）
-
----
-
-### 2026-08-16 16:24:41  #公司
-
-【豐林集團：收到稅務通知 或繳回約2700萬元已退稅款】豐林集團公告稱，8月14日收到稅務機關《稅務事項通知書》，要求繳回2022年1月1日至2025年12月31日期間，不符合即徵即退增值稅優惠政策的已退稅款。公司初步估算繳回稅費約2700萬元，後續將進一步核算。該事項不涉及行政處罰和前期財務資料追溯調整，相關財務影響將計入2026年當期損益。公司將與稅務機關積極溝通，必要時申請行政複議或訴訟。
-
----
-
-### 2026-08-16 16:24:26  #其他
-
-【南海開漁季來了】今天（8月16日）中午12點，為期三個半月的南海伏季休漁結束。在廣東陽江，閘坡國家級中心漁港的800多艘漁船陸續出港，奔赴南海。 開漁後的第一網海鮮什麼時候能吃到？ 按照往年的作業節奏，近海漁船最快今晚到明天凌晨就會陸續返港，帶回海蝦、海蟹以及當地其他海魚。這些漁獲上岸後，一邊是進入港口市場、餐館和景區商鋪，另一邊則可能會進入預冷、鎖鮮、冷藏和加工環節，再透過冷鏈運往更遠的市場。 今天的開漁現場，不只是漁船集中出港。開漁令釋出前這裡還有非常豐富的表演活動，來自陽江各縣區以及港澳地區的13艘特色彩船在港池裡巡遊，昨天碼頭邊還舉行了漁家婚嫁非遺表演等15項系列活動，活動規模和種類均為歷屆最多。本屆開漁季活動期間，預計吸引客流將達100萬人次左右。（央視財經）
-
----
-
-### 2026-08-16 16:22:05  #MKT News #Market Regions #Europe & UK
-
-ZELENSKIY said Europe must not leave interceptor missiles sitting in warehouses.
-
----
-
-### 2026-08-16 16:22:01  #國際
-
-【俄羅斯在烏克蘭全境實施大規模夜間打擊】俄羅斯國防部通報稱，部隊打擊了基輔的火力點設施，該設施生產火烈鳥導彈，以及製造無人機的基輔-111工廠；克列緬丘格最大的煉油廠也被列為目標，克里沃羅格的鋼鐵廠亦然。
-
----
-
-### 2026-08-16 16:21:16  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-ZELENSKIY said 13 Ukrainian regions were attacked this week; Russia launched more than 1,550 attack drones, about 1,560 guided aerial bombs and 62 missiles at Ukrainian cities and communities.
-
----
-
-### 2026-08-16 16:17:15  #其他
-
-【長江儲存產投基金2026年已出手4次】長存產業投資基金累計投資成本2.70億元，最新持股價值12.10億元，當前賬面回報倍數4.48倍。長存鴻圖基金累計投資成本2.32億元，最新持股價值合計約15.74億元，當前賬面回報倍數6.78倍。
-
----
-
-### 2026-08-16 16:16:19  #MKT News
-
-【Iran chamber of commerce head says economy has emerged from war shock】IRNA cited the head of the Iran Chamber of Commerce, Industries, Mines and Agriculture saying the latest economic report shows improving signals, indicating Iran has largely moved past the sharp post-war downturn and economic activity is beginning to recover.
-
----
-
-### 2026-08-16 16:13:58  #公司
-
-【ChatGPT新功能更新】OpenAI 為 ChatGPT 訂閱使用者推出新功能，可將谷歌雲盤檔案直接新增到對話中並編輯，無需頻繁切換應用。此外，本週還新增了 AI 互動測驗工具及 Yelp 餐廳推薦整合。
-
----
-
-### 2026-08-16 16:13:29  #公司
-
-【華聯控股：收到加拿大FIRES對鋰鹽湖專案投資審查通知】華聯控股公告稱，2026年8月14日收到加拿大外國投資審查及經濟安全主管機構（FIRES）《通知函》，其認為公司對阿根廷阿里扎羅鋰鹽湖專案投資可能影響加拿大國家安全，或在45日內啟動進一步審查。公司於2025年12月擬1.75億美元受讓Argentum Lithium S.A.100%股份獲專案80%權益。目前公司與賣方將積極溝通應對，暫無法評估影響，交易存在不確定性。
-
----
-
-### 2026-08-16 16:09:37  #其他
-
-【《牛來》發文回應爭議：承認“粗糙稚嫩”，虛心接納“各類批評”】8月16日下午，針對近期動畫電影《牛來》上映並引發廣泛爭議與批評，《牛來》微博官方賬號最新發布長文，就影片質量爭議及意外走紅作出正式回應。 《牛來》官方坦言，影片上映之初幾乎沒有任何宣傳鋪墊，這部在有限條件下完成的作品能獲得如此多目光，完全在意料之外。對於觀眾自發走進影院、真誠分享以及大量直接坦率的批評，團隊均已逐條閱覽，並進行了冷靜覆盤。 針對外界對影片質量的質疑，官方坦誠道：“對照成熟院線動畫工業標準，本片在畫面、敘事等方面確實留有遺憾。”回應稱，好評值得感恩，各類批評意見同樣值得虛心接納，可視為寶貴的提醒。
-
----
-
-### 2026-08-16 16:06:27  #其他
-
-【電影《牛來》進入2026年國產動畫票房榜前10】據燈塔專業版，電影《牛來》進入2026年國產動畫票房榜前10。
-
----
-
-### 2026-08-16 16:04:10  #國際
-
-【俄國防部稱攔截822架烏克蘭無人機】俄羅斯首都莫斯科市長索比亞寧今天（8月16日）通報說，從當地時間15日晚到16日清晨6點30分，共有600架無人機飛向莫斯科地區，其中201架在莫斯科地區範圍內被擊落。莫斯科州州長通報稱，烏方無人機襲擊造成1人死亡，還造成該州至少2處倉庫發生火災。俄羅斯國防部今天通報說，自當地時間15日20時至16日8時，俄防空力量共攔截並摧毀822架烏克蘭固定翼無人機。（CCTV國際時訊）
-
----
-
-### 2026-08-16 16:03:55  #國際
-
-市場訊息：以色列軍隊在黎巴嫩南部馬吉德爾祖恩鎮執行一次爆破行動。
-
----
-
-### 2026-08-16 16:02:18  #公司 #市場 #國際
-
-【華爾街多頭信心大振：標普500盈利增速創30年新高】標普500二季度盈利同比增長31%，為1992年以來剔除衰退復甦期後的最強增速，遠超23%的預期。AI驅動利潤率從14%躍升至接近16%，估值從26倍回落至22倍以下完成“重置”。盈利擴張已蔓延至中小盤股及歐洲、亞太市場。Nationwide Funds Group首席市場策略師Mark Hackett直接點明轉折：“過去五年，AI對大多數企業而言是成本中心，只有超大規模雲廠商從股價層面受益。今年是一個拐點——AI開始真正充當利潤中心。”22V Research測算，AI對利潤率的提振約達150個基點。科技板塊依然擁有標普500中最高的利潤率，但越來越多其他行業的企業也開始在財報電話會上明確量化AI帶來的效益。這一趨勢並非美國獨有。據德意志銀行資料，歐洲企業二季度淨利潤率飆升至創紀錄的12%。BI資料顯示，歐洲企業高管在財報電話會上提及AI的平均次數超過4次，創歷史峰值，遠高於2016年以來0.5次的均值。巴克萊策略師Emmanuel Cau等人指出：“可量化的成本與效率收益已成為核心議題，越來越多的管理層開始談及已實現的收益。”
-
----
-
-### 2026-08-16 15:55:58  #國際
-
-【俄國防部：俄防空系統夜間在俄上空擊落822架烏克蘭無人機】俄羅斯國防部16日表示，俄防空系統夜間在俄羅斯上空攔截並摧毀822架烏克蘭無人機。俄國防部表示：“隔夜，執勤防空系統在別爾哥羅德州、布良斯克州、弗拉基米爾州、伏爾加格勒州、沃羅涅日州、卡盧加州、庫爾斯克州、利佩茨克州、下諾夫哥羅德州、奧廖爾州、羅斯托夫州、梁贊州、坦波夫州、圖拉州、莫斯科地區、克拉斯諾達爾邊疆區、克里米亞共和國、黑海和亞速海水域上空攔截並摧毀822架烏克蘭固定翼無人機。”
-
----
-
-### 2026-08-16 15:55:55  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Russian Defence Ministry says air-defence systems shot down 822 Ukrainian drones overnight over Russian airspace】Russian Defence Ministry said on the 16th that Russian air-defence systems intercepted and destroyed 822 Ukrainian fixed-wing drones overnight across Russian airspace, including over Belgorod, Bryansk, Vladimir, Volgograd, Voronezh, Kaluga, Kursk, Lipetsk, Nizhny Novgorod, Oryol, Rostov, Ryazan, Tambov, Tula, Moscow region, Krasnodar Krai, the Republic of Crimea and the Black Sea and Sea of Azov.
-
----
-
-### 2026-08-16 15:54:57  #其他
-
-【廣州地質災害氣象風險預警】經廣州市規劃和自然資源局與市氣象局聯合會商，預計未來24小時，白雲區黃石街道、景泰街道、雲城街道、同和街道，花都區花山鎮、梯面鎮，黃埔區九佛街道、聯和街道、龍湖街道、長嶺街道、新龍鎮，天河區長興街道、鳳凰街道、龍洞街道、興華街道、五山街道、元崗街道地質災害氣象風險預警級別為3級，請有關單位做好防禦。廣州預警釋出中心2026年8月16日15時30分發布 。（廣州天氣）
-
----
-
-### 2026-08-16 15:51:15  #MKT News #DXY #Impact bullish #Brent #EURUSD #Impact bearish
-
-A NATO military headquarters spokesman said the drone shot down in Romanian airspace appears to be Russian.
-
----
-
-### 2026-08-16 15:51:03  #MKT News
-
-Al Arabiya TV cited Yemeni military sources saying government air defenses successfully intercepted a Houthi drone over Mokha, Yemen.
-
----
-
-### 2026-08-16 15:49:17  #國際
-
-北約軍事總部發言人就早前羅馬尼亞領空被擊落的無人機發表講話：該無人機疑似為俄羅斯所有。
-
----
-
-### 2026-08-16 15:48:54  #其他
-
-葉門政府軍：防空部隊擊落一架胡塞武裝無人機，第二枚彈道導彈在穆哈墜落。
-
----
-
-### 2026-08-16 15:48:18  #公司
-
-【前7月全國鐵路傳送旅客28億人次】記者從中國國家鐵路集團有限公司獲悉，今年前7個月，全國鐵路傳送旅客28億人次，同比增長4.1%，再創歷史同期新高。前7個月，鐵路部門統籌用好武漢至西安高鐵西安東至十堰東段、金華至建德高鐵蘭溪東至建德段等新線新站資源，加大運力投放，全國鐵路日均安排開行旅客列車11462列，同比增加571列、增長5.2%。跨境旅客運輸方面，廣深港高鐵傳送跨境旅客2004.9萬人次，中老鐵路傳送跨境旅客21.4萬人次，同比分別增長11.5%、38.2%。鐵路部門積極適應國家過境免籤政策帶來的客流增長，為外籍旅客出行提供便利，全國鐵路傳送外籍旅客1485.2萬人次，同比增長32.5%。與此同時，鐵旅融合發展成效顯著。鐵路部門積極對接各地文旅部門，強化與景區、酒店的銜接，催生“鐵路+旅遊”新場景、新業態，有效拉動文旅消費。前7個月，全國鐵路累計開行旅遊列車2159列，其中旅遊專列1184列、旅遊專線975列。（經濟日報）
-
----
-
-### 2026-08-16 15:46:36  #MKT News
-
-【Bohai Strait, northern Yellow Sea closed for military tasks; navigation prohibited】China Maritime Safety Administration posted that the Dalian Maritime Safety Administration issued a navigational warning: parts of the Bohai Strait and northern Yellow Sea will be closed for military tasks and are off-limits to vessels from 16:00 on Aug 16 until 16:00 on Aug 30.
-
----
-
-### 2026-08-16 15:44:01  #其他
-
-葉門政府軍：胡塞武裝再次以導彈和無人機襲擊摩卡港。
-
----
-
-### 2026-08-16 15:43:35  #其他
-
-【航行警告！渤海海峽黃海北部執行軍事任務 禁止駛入】據中國海事局網站訊息，大連海事局釋出航行警告，8月16日16時至30日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。
 
 ---

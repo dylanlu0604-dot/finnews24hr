@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 15:41:44_
-_本檔包含 3345 則快訊，約 641650 字_
+_更新時間：2026-08-23 16:45:12_
+_本檔包含 3341 則快訊，約 641310 字_
+
+---
+
+### 2026-08-21 10:27:35  #公司
+
+【九州通等成立醫療器械公司，註冊資本3000萬元】企查查APP顯示，近日，湖北九州通碩寧醫療器械有限公司成立，法定代表人為羅昌，註冊資本為3000萬元，經營範圍包含：第一類醫療器械銷售；第二類醫療器械銷售；普通機械裝置安裝服務；供應鏈管理服務等。企查查股權穿透顯示，該公司由九州通旗下九州通醫療器械集團有限公司等共同持股。
+
+---
+
+### 2026-08-21 10:27:22  #公司
+
+Kakao：將於12月尋求股東批准，1月將分拆後的新公司上市。
+
+---
+
+### 2026-08-21 10:26:51  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10Y Yield Tracks US Treasury Yields Higher — Japan’s 10-year government bond yield rose to around 2.88% on Friday, ending a two-day decline and tracking a rebound in US Treasury yields amid concerns that the US government’s plan to reduce borrowing costs may provide only a temporary solution. Global bond yields dropped earlier this week after the US Treasury Department announced larger debt buybacks aimed at containing borrowing costs, with Secretary Scott Bessent saying accelerated buybacks could exceed the announced $4 billion per issue while highlighting an upcoming long-term fiscal plan. Meanwhile, data showed Japan’s inflation rate accelerated for the second consecutive month, strengthening the case for a Bank of Japan interest rate hike in the near term. Markets are speculating on a possible move in September, with Governor Kazuo Ueda indicating that authorities could begin normalizing policy at a faster pace.
+
+---
+
+### 2026-08-21 10:25:16  #宏觀 #兩會
+
+【十四屆全國人大常委會第二十四次會議8月25日至28日在北京舉行】從今天（21日）全國人大常委會法制工作委員會舉行的記者會上瞭解到，十四屆全國人大常委會第七十一次委員長會議決定，十四屆全國人大常委會第二十四次會議8月25日至28日在北京舉行。委員長會議建議，十四屆全國人大常委會第二十四次會議審議醫療保障法、耕地保護和質量提升法、農業法（修訂）、國防動員法（修訂）、律師法（修正）、企業破產法（修訂）、銀行業監督管理法（修訂）、水法（修訂）草案；審議國務院關於提請審議道路交通安全法（修訂）、國家監察委員會關於提請審議反跨境腐敗法草案的議案。（央視新聞）
+
+---
+
+### 2026-08-21 10:25:15  #MKT News #Market Regions #Greater China #09992.HK #Impact bearish
+
+【HSBC cuts Pop Mart PT 19%, trims 2027/28 profit forecasts 16%/18%】HSBC cut its PT for Pop Mart (09992.HK) to HK$136.5 from HK$168.9, a 19% reduction, and retained a Hold rating after lowering EPS forecasts. The bank cited disappointing 1H results, limited earnings visibility following adjustments to Labubu IP products, and Q2 FY2026 revenue and overseas sales that missed expectations. HSBC said its post-adjustment revenue/earnings CAGRs for 2026 and 2028 remain roughly unchanged at 16% and 20%, but it trimmed 2027 and 2028 profit forecasts by 16% and 18%. HSBC’s 2026 and 2027 earnings estimates are now about 27% and 23% below consensus.
+
+---
+
+### 2026-08-21 10:23:56  #經濟數據 #中國
+
+【浙江：7月份規模以上工業增加值同比增長7.4%】浙江省統計局公佈7月份浙江經濟執行情況，7月份，規模以上工業增加值同比增長7.4%。37個工業大類行業中，27個行業增加值增長，增長面為73.0%，其中，計算機通訊電子、汽車、通用裝置、電力、電氣機械等行業增加值分別增長27.8%、18.5%、11.7%、10.1%、7.8%，合計拉動規模以上工業增加值增長6.7個百分點。
+
+---
+
+### 2026-08-21 10:23:31  #MKT News #Market Regions #Greater China #Copper #Impact bullish #WTI #CNH #Impact mixed
+
+【China finance ministry to prioritise ‘investment in people’, raise public‑service share during 15th Five‑Year Plan】Aug 21 — Vice Minister Liao Min told a State Council Information Office briefing that during the 15th Five‑Year Plan period the Ministry of Finance will boost the effectiveness and precision of fiscal macro‑management. To stabilise growth, employment and expectations it will step up counter‑cyclical and cross‑cycle adjustments and keep a necessary deficit scale and spending intensity while optimising spending composition and concentrating funds on major national strategic tasks. The ministry said it will place greater emphasis on investment in people, reasonably raise the share of public‑service spending in total fiscal outlays, and expand development space by prioritising livelihood needs.
+
+---
+
+### 2026-08-21 10:23:24  #其他
+
+【中國與阿聯酋將舉行“獵鷹盾牌-2026”空軍聯合訓練】記者21日從國防部獲悉，8月下旬至9月中旬，中國與阿聯酋兩國空軍將在新疆和田舉行中阿“獵鷹盾牌-2026”空軍聯合訓練，開展指揮推演、飛行訓練、實兵混編演練等活動。這是中阿兩國空軍第4次舉辦該系列聯訓，旨在提升參訓部隊技戰術水平，深化兩軍傳統友誼與務實合作。（新華社）
+
+---
+
+### 2026-08-21 10:22:11  #其他
+
+【浙江：7月份社會消費品零售總額同比增長0.2%】浙江省統計局公佈7月份浙江經濟執行情況，7月份，社會消費品零售總額3014億元，同比增長0.2%。線上消費增長較快，限額以上單位透過公共網路實現的零售額增長15.8%。生活品質類消費持續活躍，限額以上單位可穿戴智慧裝置、智慧手機、化妝品等商品零售額分別增長57.8%、43.5%、25.9%。基本生活類消費平穩增長，限額以上單位日用品類、糧油食品類、飲料類等商品零售額分別增長13.4%、11.7%、11.2%。1—7月，社會消費品零售總額22553億元，增長2.6%。
+
+---
+
+### 2026-08-21 10:21:42  #其他
+
+【浙江：7月份規模以上工業增加值同比增長7.4%】浙江省統計局公佈7月份浙江經濟執行情況，7月份，規模以上工業增加值同比增長7.4%。37個工業大類行業中，27個行業增加值增長，增長面為73.0%，其中，計算機通訊電子、汽車、通用裝置、電力、電氣機械等行業增加值分別增長27.8%、18.5%、11.7%、10.1%、7.8%，合計拉動規模以上工業增加值增長6.7個百分點。新興產業引領增長，規模以上高技術製造業、數字經濟核心產業製造業、裝備製造業增加值分別增長20.3%、20.3%、14.0%，分別拉動規模以上工業增加值增長3.4、3.6、7.1個百分點。規模以上民營工業企業增加值增長7.6%，拉動規模以上工業增加值增長6.1個百分點，增長貢獻率達77.6%。1—7月，規模以上工業增加值增長7.9%。
+
+---
+
+### 2026-08-21 10:21:36  #MKT News #Important #Market Regions #Greater China
+
+China's Ministry of Finance says more than 25 million infants and young children and their families have received the 2026 childcare subsidy.
+
+---
+
+### 2026-08-21 10:21:27  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Gain for Second Session — The Hang Seng Index rose 0.7%, or 171 points, to 25,868 on Friday, extending gains from the previous session as investors welcomed softer local inflation. Hong Kong's annual inflation rate eased to 1.7% in July from 2.0% in each of the previous two months. Electronic technology, producer manufacturing, and financial shares led the advance. Investors assessed reports that fast-fashion retailer Shein had postponed its Hong Kong IPO to September following a delay in taking investor orders. Among individual stocks, J&T Global Express was among the strongest performers after reporting a 124% year-on-year jump in first-half adjusted net profit to US$350.6 million, driven by robust parcel growth and expanding international operations. Xiaomi (1.4%), MiniMax (4.5%), AIA (1.8%), Z.AI Co. (1.5%), and Kuaishou (0.7%) advanced. However, gains were tempered by elevated oil prices, with Brent crude holding above US$93 per barrel, keeping investors cautious about the inflation outlook.
+
+---
+
+### 2026-08-21 10:20:51  #宏觀
+
+【財政部：“十五五”時期更加聚焦“投資於人” 合理提高公共服務支出佔比】8月21日，財政部副部長廖岷在國新辦新聞釋出會上表示，“十五五”時期，財政部將更加註重提升財政宏觀調控的有效性、精準性。圍繞穩增長、穩就業、穩預期的政策目標，要加大逆週期和跨週期調節，在保持必要赤字規模和支出強度的同時，也要下力氣最佳化支出結構，集中財力保證國家重大戰略任務。我們將更加聚焦投資於人，合理提高公共服務支出佔財政支出的比重，特別是在滿足民生需求中來拓展發展空間。
+
+---
+
+### 2026-08-21 10:20:45  #宏觀
+
+【12.4萬億元！一組資料看我國民生投入不斷加大】在今天上午國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會上，財政部有關負責人介紹，我國不斷加大保障和改善民生力度，持續增進民生福祉。資料顯示，2026年，全國一般公共預算安排教育、社保、衛生、住房等方面的資金12.4萬億元，較上年增長5.4%，高於全國一般公共預算支出增幅1個百分點。相關負責人介紹：社會保障網越織越密。預計今年全年超4400萬人領取低保、特困人員供養等基本生活救助。“一老一小”服務保障更加有力。今年專門安排資金，支援農村地區65歲及以上老年人等群體免費接種流感疫苗。超過2500萬名嬰幼兒及其家庭領到了2026年度育兒補貼。在基本醫療衛生服務方面，今年居民醫保財政補助標準進一步提高，減輕人民群眾看病費用負擔。支援落實將雙價HPV疫苗納入國家免疫規劃。在教育方面，下達學生資助資金超1600億元，預計全年將有1.5億人次受益。針對“一人失能、全家失衡”的長期護理難題，中央財政推動加快建立長期護理保險制度。同時，安排資金超120億元，在全國範圍內實施向中度以上失能老年人發放養老服務消費補貼專案，惠及失能老年人近200萬人。
 
 ---
 
@@ -20096,113 +20180,5 @@ Offshore Yuan Strongest Since 2023 — The offshore yuan strengthened to around 
 ### 2026-08-20 10:26:29  #MKT News #000625.SZ #Impact bearish #LI.O
 
 【INDUSTRY ASSOCIATION: China's top 10 SUV makers sold 6.155 million vehicles Jan–Jul 2026】INDUSTRY ASSOCIATION data show China's top 10 SUV manufacturers sold 6.155 million vehicles in January–July 2026, accounting for 67.5% of SUV sales. Changan Automobile and Li Auto recorded year-on-year declines; the other eight companies posted year-on-year increases.
-
----
-
-### 2026-08-20 10:26:28  #市場
-
-【旅遊景區板塊震盪走強，南京商旅漲停】旅遊景區板塊震盪走強，南京商旅漲停，九華旅遊、陝西旅遊、西域旅遊、三峽旅遊、宋城演藝等跟漲。
-
----
-
-### 2026-08-20 10:25:48  #其他
-
-【中汽協：1—7月銷量排名前十位的SUV生產企業共銷售615.5萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的SUV生產企業共銷售615.5萬輛，佔SUV銷售總量的67.5%。在上述十家企業中，與去年同期相比，長安汽車和理想汽車銷量呈不同程度下降，其他企業銷量呈不同程度增長。
-
----
-
-### 2026-08-20 10:25:01  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japanese Yields Follow Treasury Yields Lower — Japan’s 10-year government bond yield fell to around 2.83% on Thursday after reaching a 30-year high of 2.95% earlier this week, tracking Treasury yields lower as the US government moved to rein in long-term borrowing costs through an expanded buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Meanwhile, traders are increasingly speculating that the Bank of Japan could raise interest rates as soon as September, with a growing number of policymakers calling for a stronger response to mounting inflationary pressures. On the data front, Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips.
-
----
-
-### 2026-08-20 10:23:29  #公司
-
-【豪恩汽電新設子公司，含積體電路銷售業務】企查查APP顯示，近日，深圳市豪恩匯科技有限公司成立，經營範圍包含：積體電路銷售；電子專用材料銷售；密封件銷售；橡膠製品銷售等。企查查股權穿透顯示，該公司由豪恩汽電全資持股。
-
----
-
-### 2026-08-20 10:23:23  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Advances as Hormuz Remains Shut — European natural gas prices rose above €64 per MWh on Thursday as restrictions on shipping through the Strait of Hormuz continued to raise concerns over global LNG supplies. President Donald Trump vowed on Wednesday to impose “tremendous punishment” on countries that help or do business with Iran, ramping up economic pressure on Tehran to reopen the critical waterway. His threats came a day after he said there were no ongoing talks and that the naval blockade of Iran remained in force, while Tehran maintained that the waterway remained closed. The blockade has halted Qatari LNG deliveries, forcing European utilities to compete aggressively for available cargoes in an already tight global market. Reduced LNG inflows, combined with heatwave-driven cooling demand, have slowed Europe’s seasonal gas storage injections. This has amplified concerns that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices.
-
----
-
-### 2026-08-20 10:23:21  #其他
-
-【思特威與奧比中光深化戰略合作】8月20日，思特威與奧比中光簽署深化戰略合作協議。根據此次戰略合作協議，雙方將繼續深化在3D視覺感知領域的合作，並全面佈局具身智慧領域。
-
----
-
-### 2026-08-20 10:23:14  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share travel and hotel sector rallied intraday; Nanjing Business Travel hit the daily upper price limit, while Jiuhua Tourism, Shaanxi Tourism, Zhongxin Tourism and Xiyu Tourism also advanced.
-
----
-
-### 2026-08-20 10:22:30  #國際
-
-韓國國防部長：將於明年推出義務兵役制改革後的志願役徵兵體系。
-
----
-
-### 2026-08-20 10:22:24  #MKT News
-
-South Korea's defense minister said a voluntary military enlistment system will be introduced next year.
-
----
-
-### 2026-08-20 10:22:22  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量1463億元。
-
----
-
-### 2026-08-20 10:21:31  #Trading Economics #Economy #Morocco #Inflation Rate #Importance 1
-
-Morocco Consumer Prices Fall for 1st Time in 5 Months — Consumer prices in Morocco fell 0.6% from a year earlier in July 2026, reversing a 0.3% rise in June 2026 and marking the first decline since February. The decline came as food prices fell 3.7% year-on-year, deepening from a 2.5% drop in the previous month, while non-food inflation slowed to 1.9% from 2.3%. Among major components, prices decreased for communication (-0.2% vs -0.3% in June), while prices moderated for transport (4.1% vs 6.7%), clothing and footwear (0.7% vs 0.8%), and furnishings (0.9% vs 1.2%). Meanwhile, inflation remained unchanged for education (2.1%) and health (0.3%). By contrast, inflation accelerated for housing and utilities (1.5% vs 1.4%) and restaurants and hotels (2.4% vs 2.1%), while recreation and culture was unchanged after shrinking 0.2% in June. On a monthly basis, consumer prices dropped 1.0%, following a 0.4% decrease in June, marking the steepest decline since April 2011.
-
----
-
-### 2026-08-20 10:19:29  #觀點
-
-【摩根士丹利據悉挖角巴克萊大將 出任科技業投資銀行部門副董事長】據知情人士透露，摩根士丹利正在延攬巴克萊的科技業投資銀行家Tim Luke。知情人士透露，Luke將以科技投資銀行部門副董事長的身份加入，專注於半導體和硬體領域。
-
----
-
-### 2026-08-20 10:18:06  #國際
-
-印尼股指漲幅達1.5%，報6486.855點。
-
----
-
-### 2026-08-20 10:17:54  #MKT News
-
-【Counterpoint Research: Global humanoid robot shipments up almost 300% YoY in 1H 2026】Counterpoint Research says global humanoid robot shipments exceeded 22,000 units in 1H 2026, up nearly 300% YoY. It forecasts full-year 2026 shipments above 50,000 units, +210% YoY. Over the next five years service and industrial deployments will follow entertainment/live-performance and education/data-collection use cases as the main demand drivers. Manufacturers’ competitive edge is shifting from model capability and capacity expansion to building closed-loop capabilities across advanced models, vertical scenario deployment, data systems and rapid model iteration.
-
----
-
-### 2026-08-20 10:17:46  #其他
-
-【機構：2026年上半年全球人形機器人出貨量同比增長近300%】Counterpoint Research的人形機器人研究表明，2026年上半年，全球人形機器人出貨量突破2.2萬臺，相比2025年同期增長接近300%，保持高速增長的良好勢頭。Counterpoint Research預計2026年全球人形機器人出貨量將突破5萬臺，同比增長210%。展望未來五年，服務業與工業場景將接續文娛商演、科教數採，成為驅動人形機器人需求增長的核心引擎。同時，人形機器人廠商的核心競爭力，將從單純角逐模型能力、產能擴張速度，轉向打造覆蓋先進模型、垂直場景落地、資料體系構建、模型快速迭代的閉環能力。
-
----
-
-### 2026-08-20 10:17:23  #公司
-
-【碩貝德成立前沿工程技術公司，含AI及積體電路晶片業務】企查查APP顯示，近日，碩貝德前沿（上海）工程技術有限公司成立，經營範圍包含：衛星技術綜合應用系統整合；物聯網技術研發；積體電路晶片設計及服務；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由碩貝德全資持股。
-
----
-
-### 2026-08-20 10:16:28  #公司
-
-宇樹科技CEO王興興：資料與實景對齊是公司機器人發展的“最大瓶頸” 。
-
----
-
-### 2026-08-20 10:15:47  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Rise on Healthcare, Tech Gains — The Hang Seng Index rose 0.8%, or 188 points, to 25,685 on Thursday, as gains in healthcare and technology stocks lifted the market. Healthcare and biotechnology stocks were among the strongest performers. Everest was the standout after reporting a 157.3% year-on-year increase in first-half revenue to RMB1.15 billion and a swing to RMB97.2 million in non-IFRS net profit, driven largely by its NEFECON kidney-disease treatment. Technology stocks also advanced, with Tencent reporting a 176% year-on-year jump in second-quarter capex to RMB52.8 billion on AI investment, while revenue rose 11% and adjusted earnings gained 9%. Sentiment was further supported by China keeping its one-year and five-year LPRs unchanged at 3.00% and 3.50%. Global bond yields also eased after the US Treasury doubled its long-term debt buybacks, supporting risk appetite. Notable movers included Tencent (0.8%), Xiaomi (2.7%), GenScript Biotech (8.3%), SMIC (1.5%) and WuXi Biologics (4.6%).
 
 ---

@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 15:41:44_
-_本檔包含 3214 則快訊，約 641360 字_
+_更新時間：2026-08-23 16:45:12_
+_本檔包含 3213 則快訊，約 641343 字_
+
+---
+
+### 2026-08-20 10:26:28  #市場
+
+【旅遊景區板塊震盪走強，南京商旅漲停】旅遊景區板塊震盪走強，南京商旅漲停，九華旅遊、陝西旅遊、西域旅遊、三峽旅遊、宋城演藝等跟漲。
+
+---
+
+### 2026-08-20 10:25:48  #其他
+
+【中汽協：1—7月銷量排名前十位的SUV生產企業共銷售615.5萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的SUV生產企業共銷售615.5萬輛，佔SUV銷售總量的67.5%。在上述十家企業中，與去年同期相比，長安汽車和理想汽車銷量呈不同程度下降，其他企業銷量呈不同程度增長。
+
+---
+
+### 2026-08-20 10:25:01  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japanese Yields Follow Treasury Yields Lower — Japan’s 10-year government bond yield fell to around 2.83% on Thursday after reaching a 30-year high of 2.95% earlier this week, tracking Treasury yields lower as the US government moved to rein in long-term borrowing costs through an expanded buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Meanwhile, traders are increasingly speculating that the Bank of Japan could raise interest rates as soon as September, with a growing number of policymakers calling for a stronger response to mounting inflationary pressures. On the data front, Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips.
+
+---
+
+### 2026-08-20 10:23:29  #公司
+
+【豪恩汽電新設子公司，含積體電路銷售業務】企查查APP顯示，近日，深圳市豪恩匯科技有限公司成立，經營範圍包含：積體電路銷售；電子專用材料銷售；密封件銷售；橡膠製品銷售等。企查查股權穿透顯示，該公司由豪恩汽電全資持股。
+
+---
+
+### 2026-08-20 10:23:23  #Trading Economics #Markets #Commodity #Importance 1
+
+European Gas Advances as Hormuz Remains Shut — European natural gas prices rose above €64 per MWh on Thursday as restrictions on shipping through the Strait of Hormuz continued to raise concerns over global LNG supplies. President Donald Trump vowed on Wednesday to impose “tremendous punishment” on countries that help or do business with Iran, ramping up economic pressure on Tehran to reopen the critical waterway. His threats came a day after he said there were no ongoing talks and that the naval blockade of Iran remained in force, while Tehran maintained that the waterway remained closed. The blockade has halted Qatari LNG deliveries, forcing European utilities to compete aggressively for available cargoes in an already tight global market. Reduced LNG inflows, combined with heatwave-driven cooling demand, have slowed Europe’s seasonal gas storage injections. This has amplified concerns that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices.
+
+---
+
+### 2026-08-20 10:23:21  #其他
+
+【思特威與奧比中光深化戰略合作】8月20日，思特威與奧比中光簽署深化戰略合作協議。根據此次戰略合作協議，雙方將繼續深化在3D視覺感知領域的合作，並全面佈局具身智慧領域。
+
+---
+
+### 2026-08-20 10:23:14  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share travel and hotel sector rallied intraday; Nanjing Business Travel hit the daily upper price limit, while Jiuhua Tourism, Shaanxi Tourism, Zhongxin Tourism and Xiyu Tourism also advanced.
+
+---
+
+### 2026-08-20 10:22:30  #國際
+
+韓國國防部長：將於明年推出義務兵役制改革後的志願役徵兵體系。
+
+---
+
+### 2026-08-20 10:22:24  #MKT News
+
+South Korea's defense minister said a voluntary military enlistment system will be introduced next year.
+
+---
+
+### 2026-08-20 10:22:22  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時縮量1463億元。
+
+---
+
+### 2026-08-20 10:21:31  #Trading Economics #Economy #Morocco #Inflation Rate #Importance 1
+
+Morocco Consumer Prices Fall for 1st Time in 5 Months — Consumer prices in Morocco fell 0.6% from a year earlier in July 2026, reversing a 0.3% rise in June 2026 and marking the first decline since February. The decline came as food prices fell 3.7% year-on-year, deepening from a 2.5% drop in the previous month, while non-food inflation slowed to 1.9% from 2.3%. Among major components, prices decreased for communication (-0.2% vs -0.3% in June), while prices moderated for transport (4.1% vs 6.7%), clothing and footwear (0.7% vs 0.8%), and furnishings (0.9% vs 1.2%). Meanwhile, inflation remained unchanged for education (2.1%) and health (0.3%). By contrast, inflation accelerated for housing and utilities (1.5% vs 1.4%) and restaurants and hotels (2.4% vs 2.1%), while recreation and culture was unchanged after shrinking 0.2% in June. On a monthly basis, consumer prices dropped 1.0%, following a 0.4% decrease in June, marking the steepest decline since April 2011.
+
+---
+
+### 2026-08-20 10:19:29  #觀點
+
+【摩根士丹利據悉挖角巴克萊大將 出任科技業投資銀行部門副董事長】據知情人士透露，摩根士丹利正在延攬巴克萊的科技業投資銀行家Tim Luke。知情人士透露，Luke將以科技投資銀行部門副董事長的身份加入，專注於半導體和硬體領域。
+
+---
+
+### 2026-08-20 10:18:06  #國際
+
+印尼股指漲幅達1.5%，報6486.855點。
+
+---
+
+### 2026-08-20 10:17:54  #MKT News
+
+【Counterpoint Research: Global humanoid robot shipments up almost 300% YoY in 1H 2026】Counterpoint Research says global humanoid robot shipments exceeded 22,000 units in 1H 2026, up nearly 300% YoY. It forecasts full-year 2026 shipments above 50,000 units, +210% YoY. Over the next five years service and industrial deployments will follow entertainment/live-performance and education/data-collection use cases as the main demand drivers. Manufacturers’ competitive edge is shifting from model capability and capacity expansion to building closed-loop capabilities across advanced models, vertical scenario deployment, data systems and rapid model iteration.
+
+---
+
+### 2026-08-20 10:17:46  #其他
+
+【機構：2026年上半年全球人形機器人出貨量同比增長近300%】Counterpoint Research的人形機器人研究表明，2026年上半年，全球人形機器人出貨量突破2.2萬臺，相比2025年同期增長接近300%，保持高速增長的良好勢頭。Counterpoint Research預計2026年全球人形機器人出貨量將突破5萬臺，同比增長210%。展望未來五年，服務業與工業場景將接續文娛商演、科教數採，成為驅動人形機器人需求增長的核心引擎。同時，人形機器人廠商的核心競爭力，將從單純角逐模型能力、產能擴張速度，轉向打造覆蓋先進模型、垂直場景落地、資料體系構建、模型快速迭代的閉環能力。
+
+---
+
+### 2026-08-20 10:17:23  #公司
+
+【碩貝德成立前沿工程技術公司，含AI及積體電路晶片業務】企查查APP顯示，近日，碩貝德前沿（上海）工程技術有限公司成立，經營範圍包含：衛星技術綜合應用系統整合；物聯網技術研發；積體電路晶片設計及服務；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由碩貝德全資持股。
+
+---
+
+### 2026-08-20 10:16:28  #公司
+
+宇樹科技CEO王興興：資料與實景對齊是公司機器人發展的“最大瓶頸” 。
+
+---
+
+### 2026-08-20 10:15:47  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Rise on Healthcare, Tech Gains — The Hang Seng Index rose 0.8%, or 188 points, to 25,685 on Thursday, as gains in healthcare and technology stocks lifted the market. Healthcare and biotechnology stocks were among the strongest performers. Everest was the standout after reporting a 157.3% year-on-year increase in first-half revenue to RMB1.15 billion and a swing to RMB97.2 million in non-IFRS net profit, driven largely by its NEFECON kidney-disease treatment. Technology stocks also advanced, with Tencent reporting a 176% year-on-year jump in second-quarter capex to RMB52.8 billion on AI investment, while revenue rose 11% and adjusted earnings gained 9%. Sentiment was further supported by China keeping its one-year and five-year LPRs unchanged at 3.00% and 3.50%. Global bond yields also eased after the US Treasury doubled its long-term debt buybacks, supporting risk appetite. Notable movers included Tencent (0.8%), Xiaomi (2.7%), GenScript Biotech (8.3%), SMIC (1.5%) and WuXi Biologics (4.6%).
 
 ---
 
@@ -19272,119 +19380,5 @@ Hong Kong-listed chip stocks slid: 09903.HK down 11%, 01347.HK off more than 10%
 ### 2026-08-19 10:15:17  #Trading Economics #Markets #Currency #Importance 1
 
 Asia FX Updates: South Korean Won Increases by 0.46% — Top currency gainers are South Korean Won (0.46%) and Japanese Yen (0.14%). Meanwhile Chinese Yuan was little changed.
-
----
-
-### 2026-08-19 10:14:56  #市場
-
-滬深300指數下跌2%至4,631.22點。
-
----
-
-### 2026-08-19 10:14:41  #宏觀
-
-【臺陸委會稱其工作是“抵禦中共統戰” 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，臺陸委會近日稱，“統戰是中共奪取中國大陸政權的三大法寶之一，陸委會的工作從來不是搞統戰，而是抵禦中共統戰”。請問對此有何評論？國務院臺辦發言人朱鳳蓮表示，統一戰線簡稱統戰，其本質是大團結大聯合，是交朋友促團結，是求同存異、共謀發展。從抗日戰爭時期凝聚全民族力量，共禦外侮到今天團結海內外同胞共促民族復興，統戰工作始終堅守初心。臺灣同胞是我們的親人、家人。密切交流，促進加強團結，為他們謀利造福，天經地義，光明正大。她指出，民進黨當局企圖加深兩岸隔閡對立，阻撓破壞兩岸交流合作，為其“臺獨”分裂服務，行為卑劣、用心險惡。祖國統一、民族復興的大勢浩浩蕩蕩，不可阻擋。兩岸同胞走近走親、走到一起的大潮滾滾向前，不可逆轉。民進黨當局違背歷史大勢，違逆民心民意，必將遭到越來越多臺灣民眾的反對和唾棄。（新華社）
-
----
-
-### 2026-08-19 10:14:26  #MKT News #Market Themes #AI Revolution
-
-【AI chip competition heats up, Japanese startup pivots to advanced materials】Tokyo University spin‑off Gaianixx is accelerating capacity expansion to capture rising AI-driven demand for chip materials. CEO Kento Nakao said the company will enlarge its Yamanashi technical centre southwest of Tokyo, which currently processes about 15,000 8‑inch wafers a year. Nakao said the firm’s most advanced project could enter trial production by year‑end, and that one Japanese customer and one overseas customer have committed to use Gaianixx materials to develop devices. The expansion comes as chipmakers increasingly seek performance gains from advanced materials amid slowing transistor‑scaling improvements.
-
----
-
-### 2026-08-19 10:13:40  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量92億元。
-
----
-
-### 2026-08-19 10:13:36  #宏觀
-
-【國務院臺辦介紹國共兩黨青年雙向交流機制化平臺情況】國務院臺辦舉行例行新聞釋出會。發言人朱鳳蓮表示，為了貫徹落實習近平總書記會見中國國民黨主席鄭麗文時的重要講話精神，中共中央臺辦受權釋出10項促進兩岸交流合作的政策措施，其中包括建立國共兩黨青年雙向交流機制化平臺。8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行兩岸青年交流季”上海站活動。屆時兩岸青年將在主論壇上圍繞新興科技、中華文化、兩岸青年交流等主題進行深入交流研討。在潮流集市上打卡美食潮玩，一站式體驗夏夜閒適氣息，在聯歡晚會上與兩岸演藝明星們一起歡歌起舞，盡情展示青春的熱烈與昂揚。之後，兩岸青年還將赴上海、浙江等地參訪研習，走進學校鄉村企業等，探尋詩畫江南綠水青山，觸控AI機器人等前沿科技。（央視新聞）
-
----
-
-### 2026-08-19 10:13:26  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌3%，現報7572.00點。
-
----
-
-### 2026-08-19 10:13:08  #公司
-
-【國內AI高階覆銅板龍頭企業耀鴻電子完成超2億元戰略融資】8月19日，據泰合資本訊息，近日，國內AI高階覆銅板（CCL）龍頭企業江蘇耀鴻電子有限公司完成了由東瑞投資、沃衍資本、粵開資本、普華資本、嘉溢創投、金舵投資、黃海金控、好買股權母基金、華義創投等聯合參與的超2億元人民幣戰略融資，泰合資本擔任財務顧問。
-
----
-
-### 2026-08-19 10:13:08  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-Shenzhen Composite Index fell more than 3%, the ChiNext Index dropped 3.6% and the Shanghai Composite fell 1.62%; stocks tied to humanoid robots, memory chips and MLCCs led the declines.
-
----
-
-### 2026-08-19 10:13:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Zinc Hovers Near 4-Year High — Zinc futures traded around $3,700 per tonne, near a four-year high, supported by tightening near-term supply, production disruptions, and low inventories. Heavy rainfall and flooding across parts of China, the world’s largest zinc producer, have threatened mining and smelting operations. On top of that, production adjustments at a mine in Southwest China are expected to reduce August zinc concentrate output by around 1,000 tonnes, while maintenance at a smelter in Central China could cut refined production by another 1,000–1,500 tonnes. Supply concerns have also spread to other major producers. Glencore’s own-sourced zinc production fell in the first half of 2026, while Boliden’s zinc concentrate output declined quarter-on-quarter and MMG’s production decreased year-on-year in Q2. Moreover, LME zinc inventories have dropped to their lowest level since December, while high canceled warrants and falling on-warrant stocks signal that less metal is readily available for immediate delivery.
-
----
-
-### 2026-08-19 10:12:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Eases Ahead of FOMC Minutes — The yield on the 10-year US Treasury note eased toward 4.7% on Wednesday, retreating from recent highs as investors awaited the minutes of the Federal Reserve’s July meeting for fresh insights into the monetary policy outlook. The Fed left interest rates unchanged last month, though three officials dissented in favor of a rate hike, a split that traders will scrutinize for further details. Earlier this week, Treasury yields surged, with the 30-year US Treasury yield reaching a 19-year high, as rising debt issuance and concerns about persistent inflation fueled a selloff in longer-dated bonds. US corporate bond issuance has also remained in focus, with estimates suggesting AI-related companies could issue as much as $1.5 trillion in debt this year. The surge in dollar-denominated fixed-income supply has added to concerns over expanding fiscal deficits in the US and other G10 economies, prompting investors to demand higher term premiums across global bond markets.
-
----
-
-### 2026-08-19 10:12:55  #公司 #市場
-
-【紐約大學教授：SpaceX估值過高 只值10至30美元】紐約大學教授兼科技分析師、《紐約時報》的暢銷書作者斯科特·加洛韋（Scott Galloway）最新表示，SpaceX的股票交易價格遠高於其應有的價格，即使從峰值大幅下跌，也未能使其成為一項有吸引力的投資。他在週一釋出的播客節目中表示，SpaceX的股票價值在10美元到30美元之間。截至週二美股收盤，該股收跌1.98%，報143.34美元。加洛韋認為， SpaceX的估值部分是由異常有利的市場機制推動的。最初，SpaceX僅有約4%至5%的股票可供公開交易，供應有限。他還表示，SpaceX被納入納斯達克100指數也刺激了追蹤該指數的基金的需求。他還質疑投資者是否應該將SpaceX主要視為一家火箭和衛星公司。SpaceX上市不到兩週，就發行了250億美元的債券，儘管該公司此前披露的現金及現金等價物高達1008億美元。該公司表示，募集資金將主要用於償還一筆過渡貸款。加洛韋表示，此次債券發行表明投資者正在押注與SpaceX發射業務相關的AI基礎設施，而未來的擴張將越來越依賴於借貸。
-
----
-
-### 2026-08-19 10:12:50  #市場 #焦點
-
-深證成指跌3.00%，現報14183.760點；上證指數跌1.61%，現報3926.058點；創業板指跌3.60%，現報3572.347點。
-
----
-
-### 2026-08-19 10:11:25  #MKT News #Macro & Rates #Treasury Yields #S&P500 #Impact mixed #US10Y #Impact bearish #WTI #Impact bullish
-
-【Goldman Sachs TMT desk: US implied equity vol near five-year low; dealer positive gamma and buybacks dampen volatility】Goldman Sachs TMT trading desk says weekly implied US equity volatility is about 89bp, near a five-year low, with its panic reading at 0.36/10. The desk estimates option market makers hold roughly $15bn of positive-gamma hedges, near the 99th percentile, which biases dealers to sell into rallies and buy into dips and thus mutes short-term moves. It also estimates 96% of S&P 500 firms are in open repurchase windows and announced buyback authorizations exceed $1trln, implying corporate repurchases could absorb selling in summer’s thin liquidity. Macro risks remain—long-end yields are still rising and oil has resumed an uptrend—but derivatives markets are pricing very low near-term volatility. If dealer positive gamma and buybacks persist, US equity short-term volatility may stay suppressed; if those supports weaken, the current ultra-low vol will increase sensitivity to price re-expansion.
-
----
-
-### 2026-08-19 10:11:24  #MKT News #Market Regions #Japan & APAC
-
-Japan 10-year government bond yield fell 2.5 bps to 2.910%.
-
----
-
-### 2026-08-19 10:11:04  #市場 #國際
-
-10年期日本政府債券（JGB）收益率<JP10YTN=JBTC>下跌2.5個基點，至2.910%。
-
----
-
-### 2026-08-19 10:09:59  #公司
-
-【微納核芯研發中心落戶武漢未來科技城】近日，微納核芯電子科技有限公司（簡稱“微納核芯”）研發中心落戶武漢未來科技城，圍繞存算一體、近存計算等新型架構開展晶片研發。
-
----
-
-### 2026-08-19 10:09:40  #公司
-
-【瀾存科技完成數千萬元Pre-A輪股權融資】8月19日，介面新聞獲悉，上海瀾存科技有限公司宣佈完成數千萬元Pre-A輪股權融資，本輪投資方為錫創投，拓界資本擔任獨家財務顧問。本輪投後估值達到1.5億元。據悉，本輪資金將重點投入下一代AI具身智慧基座研發、核心人才擴充與產品矩陣升級，加快瀾卡LC-1.7系列標準模組、瀾存智慧平臺（Hardware AI Runtime）及核心技術體系的產業化迭代。
-
----
-
-### 2026-08-19 10:09:29  #公司
-
-【美好醫療：公司MT插芯產品尚處於樣品研發階段】美好醫療近日在電話會議中表示，公司MT插芯產品目前尚處於樣品研發階段，按照當前研發計劃，預計於2026年三季度末推出首批樣品。
-
----
-
-### 2026-08-19 10:09:28  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish #SZSE Component
-
-Sci-Tech Innovation Board 50 Index fell more than 4% as chip stocks slid; Xinyuan Co. down 7.7% and Hua Hong Hongli down 6.7%.
 
 ---

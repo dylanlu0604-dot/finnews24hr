@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 15:41:44_
-_本檔包含 3168 則快訊，約 642191 字_
+_更新時間：2026-08-23 16:45:12_
+_本檔包含 3162 則快訊，約 641324 字_
+
+---
+
+### 2026-08-19 10:14:56  #市場
+
+滬深300指數下跌2%至4,631.22點。
+
+---
+
+### 2026-08-19 10:14:41  #宏觀
+
+【臺陸委會稱其工作是“抵禦中共統戰” 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，臺陸委會近日稱，“統戰是中共奪取中國大陸政權的三大法寶之一，陸委會的工作從來不是搞統戰，而是抵禦中共統戰”。請問對此有何評論？國務院臺辦發言人朱鳳蓮表示，統一戰線簡稱統戰，其本質是大團結大聯合，是交朋友促團結，是求同存異、共謀發展。從抗日戰爭時期凝聚全民族力量，共禦外侮到今天團結海內外同胞共促民族復興，統戰工作始終堅守初心。臺灣同胞是我們的親人、家人。密切交流，促進加強團結，為他們謀利造福，天經地義，光明正大。她指出，民進黨當局企圖加深兩岸隔閡對立，阻撓破壞兩岸交流合作，為其“臺獨”分裂服務，行為卑劣、用心險惡。祖國統一、民族復興的大勢浩浩蕩蕩，不可阻擋。兩岸同胞走近走親、走到一起的大潮滾滾向前，不可逆轉。民進黨當局違背歷史大勢，違逆民心民意，必將遭到越來越多臺灣民眾的反對和唾棄。（新華社）
+
+---
+
+### 2026-08-19 10:14:26  #MKT News #Market Themes #AI Revolution
+
+【AI chip competition heats up, Japanese startup pivots to advanced materials】Tokyo University spin‑off Gaianixx is accelerating capacity expansion to capture rising AI-driven demand for chip materials. CEO Kento Nakao said the company will enlarge its Yamanashi technical centre southwest of Tokyo, which currently processes about 15,000 8‑inch wafers a year. Nakao said the firm’s most advanced project could enter trial production by year‑end, and that one Japanese customer and one overseas customer have committed to use Gaianixx materials to develop devices. The expansion comes as chipmakers increasingly seek performance gains from advanced materials amid slowing transistor‑scaling improvements.
+
+---
+
+### 2026-08-19 10:13:40  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時放量92億元。
+
+---
+
+### 2026-08-19 10:13:36  #宏觀
+
+【國務院臺辦介紹國共兩黨青年雙向交流機制化平臺情況】國務院臺辦舉行例行新聞釋出會。發言人朱鳳蓮表示，為了貫徹落實習近平總書記會見中國國民黨主席鄭麗文時的重要講話精神，中共中央臺辦受權釋出10項促進兩岸交流合作的政策措施，其中包括建立國共兩黨青年雙向交流機制化平臺。8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行兩岸青年交流季”上海站活動。屆時兩岸青年將在主論壇上圍繞新興科技、中華文化、兩岸青年交流等主題進行深入交流研討。在潮流集市上打卡美食潮玩，一站式體驗夏夜閒適氣息，在聯歡晚會上與兩岸演藝明星們一起歡歌起舞，盡情展示青春的熱烈與昂揚。之後，兩岸青年還將赴上海、浙江等地參訪研習，走進學校鄉村企業等，探尋詩畫江南綠水青山，觸控AI機器人等前沿科技。（央視新聞）
+
+---
+
+### 2026-08-19 10:13:26  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌3%，現報7572.00點。
+
+---
+
+### 2026-08-19 10:13:08  #公司
+
+【國內AI高階覆銅板龍頭企業耀鴻電子完成超2億元戰略融資】8月19日，據泰合資本訊息，近日，國內AI高階覆銅板（CCL）龍頭企業江蘇耀鴻電子有限公司完成了由東瑞投資、沃衍資本、粵開資本、普華資本、嘉溢創投、金舵投資、黃海金控、好買股權母基金、華義創投等聯合參與的超2億元人民幣戰略融資，泰合資本擔任財務顧問。
+
+---
+
+### 2026-08-19 10:13:08  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+Shenzhen Composite Index fell more than 3%, the ChiNext Index dropped 3.6% and the Shanghai Composite fell 1.62%; stocks tied to humanoid robots, memory chips and MLCCs led the declines.
+
+---
+
+### 2026-08-19 10:13:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Zinc Hovers Near 4-Year High — Zinc futures traded around $3,700 per tonne, near a four-year high, supported by tightening near-term supply, production disruptions, and low inventories. Heavy rainfall and flooding across parts of China, the world’s largest zinc producer, have threatened mining and smelting operations. On top of that, production adjustments at a mine in Southwest China are expected to reduce August zinc concentrate output by around 1,000 tonnes, while maintenance at a smelter in Central China could cut refined production by another 1,000–1,500 tonnes. Supply concerns have also spread to other major producers. Glencore’s own-sourced zinc production fell in the first half of 2026, while Boliden’s zinc concentrate output declined quarter-on-quarter and MMG’s production decreased year-on-year in Q2. Moreover, LME zinc inventories have dropped to their lowest level since December, while high canceled warrants and falling on-warrant stocks signal that less metal is readily available for immediate delivery.
+
+---
+
+### 2026-08-19 10:12:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Eases Ahead of FOMC Minutes — The yield on the 10-year US Treasury note eased toward 4.7% on Wednesday, retreating from recent highs as investors awaited the minutes of the Federal Reserve’s July meeting for fresh insights into the monetary policy outlook. The Fed left interest rates unchanged last month, though three officials dissented in favor of a rate hike, a split that traders will scrutinize for further details. Earlier this week, Treasury yields surged, with the 30-year US Treasury yield reaching a 19-year high, as rising debt issuance and concerns about persistent inflation fueled a selloff in longer-dated bonds. US corporate bond issuance has also remained in focus, with estimates suggesting AI-related companies could issue as much as $1.5 trillion in debt this year. The surge in dollar-denominated fixed-income supply has added to concerns over expanding fiscal deficits in the US and other G10 economies, prompting investors to demand higher term premiums across global bond markets.
+
+---
+
+### 2026-08-19 10:12:55  #公司 #市場
+
+【紐約大學教授：SpaceX估值過高 只值10至30美元】紐約大學教授兼科技分析師、《紐約時報》的暢銷書作者斯科特·加洛韋（Scott Galloway）最新表示，SpaceX的股票交易價格遠高於其應有的價格，即使從峰值大幅下跌，也未能使其成為一項有吸引力的投資。他在週一釋出的播客節目中表示，SpaceX的股票價值在10美元到30美元之間。截至週二美股收盤，該股收跌1.98%，報143.34美元。加洛韋認為， SpaceX的估值部分是由異常有利的市場機制推動的。最初，SpaceX僅有約4%至5%的股票可供公開交易，供應有限。他還表示，SpaceX被納入納斯達克100指數也刺激了追蹤該指數的基金的需求。他還質疑投資者是否應該將SpaceX主要視為一家火箭和衛星公司。SpaceX上市不到兩週，就發行了250億美元的債券，儘管該公司此前披露的現金及現金等價物高達1008億美元。該公司表示，募集資金將主要用於償還一筆過渡貸款。加洛韋表示，此次債券發行表明投資者正在押注與SpaceX發射業務相關的AI基礎設施，而未來的擴張將越來越依賴於借貸。
+
+---
+
+### 2026-08-19 10:12:50  #市場 #焦點
+
+深證成指跌3.00%，現報14183.760點；上證指數跌1.61%，現報3926.058點；創業板指跌3.60%，現報3572.347點。
+
+---
+
+### 2026-08-19 10:11:25  #MKT News #Macro & Rates #Treasury Yields #S&P500 #Impact mixed #US10Y #Impact bearish #WTI #Impact bullish
+
+【Goldman Sachs TMT desk: US implied equity vol near five-year low; dealer positive gamma and buybacks dampen volatility】Goldman Sachs TMT trading desk says weekly implied US equity volatility is about 89bp, near a five-year low, with its panic reading at 0.36/10. The desk estimates option market makers hold roughly $15bn of positive-gamma hedges, near the 99th percentile, which biases dealers to sell into rallies and buy into dips and thus mutes short-term moves. It also estimates 96% of S&P 500 firms are in open repurchase windows and announced buyback authorizations exceed $1trln, implying corporate repurchases could absorb selling in summer’s thin liquidity. Macro risks remain—long-end yields are still rising and oil has resumed an uptrend—but derivatives markets are pricing very low near-term volatility. If dealer positive gamma and buybacks persist, US equity short-term volatility may stay suppressed; if those supports weaken, the current ultra-low vol will increase sensitivity to price re-expansion.
+
+---
+
+### 2026-08-19 10:11:24  #MKT News #Market Regions #Japan & APAC
+
+Japan 10-year government bond yield fell 2.5 bps to 2.910%.
+
+---
+
+### 2026-08-19 10:11:04  #市場 #國際
+
+10年期日本政府債券（JGB）收益率<JP10YTN=JBTC>下跌2.5個基點，至2.910%。
+
+---
+
+### 2026-08-19 10:09:59  #公司
+
+【微納核芯研發中心落戶武漢未來科技城】近日，微納核芯電子科技有限公司（簡稱“微納核芯”）研發中心落戶武漢未來科技城，圍繞存算一體、近存計算等新型架構開展晶片研發。
+
+---
+
+### 2026-08-19 10:09:40  #公司
+
+【瀾存科技完成數千萬元Pre-A輪股權融資】8月19日，介面新聞獲悉，上海瀾存科技有限公司宣佈完成數千萬元Pre-A輪股權融資，本輪投資方為錫創投，拓界資本擔任獨家財務顧問。本輪投後估值達到1.5億元。據悉，本輪資金將重點投入下一代AI具身智慧基座研發、核心人才擴充與產品矩陣升級，加快瀾卡LC-1.7系列標準模組、瀾存智慧平臺（Hardware AI Runtime）及核心技術體系的產業化迭代。
+
+---
+
+### 2026-08-19 10:09:29  #公司
+
+【美好醫療：公司MT插芯產品尚處於樣品研發階段】美好醫療近日在電話會議中表示，公司MT插芯產品目前尚處於樣品研發階段，按照當前研發計劃，預計於2026年三季度末推出首批樣品。
+
+---
+
+### 2026-08-19 10:09:28  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish #SZSE Component
+
+Sci-Tech Innovation Board 50 Index fell more than 4% as chip stocks slid; Xinyuan Co. down 7.7% and Hua Hong Hongli down 6.7%.
 
 ---
 
@@ -19011,155 +19125,5 @@ A top Petrobras executive said oil recovered from Amazon-region drilling appears
 ### 2026-08-18 05:22:57  #公司
 
 勘探生產部門主管表示，巴西國家石油公司（Petrobras） 在亞馬遜河口鑽井發現的石油前景十分可觀，但仍需開展進一步分析。
-
----
-
-### 2026-08-18 05:17:03  #MKT News #Commodities #Energy #PETR4.SA
-
-Petrobras top executive said drilling at the mouth of the Amazon has cost about $300 mln to date.
-
----
-
-### 2026-08-18 05:15:31  #市場
-
-富時A50期指連續夜盤收跌0.23%，報15131點。
-
----
-
-### 2026-08-18 05:13:24  #公司
-
-高管稱，巴西國家石油公司在亞馬遜河口的鑽井作業迄今已耗資約 3 億美元。
-
----
-
-### 2026-08-18 05:13:04  #Trading Economics #Economy #United States #Capital Flows #Importance 1
-
-US TIC Inflows Reach $133.5 Billion in June — Net foreign acquisitions of long-term securities, short-term US securities and banking flows resulted in a net TIC inflow of $133.5 billion in June 2026. Net foreign private inflows totaled $85.0 billion, while official inflows reached $48.4 billion. Foreign residents increased their holdings of long-term US securities, with net purchases totaling $207.1 billion. Private foreign investors accounted for $169.8 billion, while official institutions purchased $37.3 billion. US residents also increased their holdings of long-term foreign securities, with net purchases of $34.4 billion. After adjustments, overall net foreign purchases of long-term securities were estimated at $172.7 billion in June. Foreign residents reduced their holdings of US Treasury bills by $29.0 billion, while holdings of dollar-denominated short-term US securities and other custody liabilities fell $4.9 billion.
-
----
-
-### 2026-08-18 05:11:58  #市場
-
-週一（8月17日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7431元，較上週五紐約尾盤漲15點，日內整體交投於6.7439-6.7376元區間，整體衝高回落、北京時間16:30創2023年2月3日（最高達到6.7342元）以來盤中新高，逼近當年1月16日頂部6.6975元。
-
----
-
-### 2026-08-18 05:11:17  #國際
-
-ROCKET LAB 加入美國太空部隊價值 9.81 億美元的 NITE‑STAR 專案，推進太空測試與訓練基礎設施建設。
-
----
-
-### 2026-08-18 05:06:18  #MKT News
-
-【Kushner says U.S. and Iran have not yet reached consensus】On Aug. 17 local time, Jared Kushner, President Trump’s son-in-law, said dialogue between U.S. and Iranian government departments had reached "unprecedented" levels but that the sides had "not yet reached consensus".
-
----
-
-### 2026-08-18 05:05:17  #國際
-
-【庫什納稱美伊雙方尚未達成共識】當地時間8月17日，美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。（央視新聞）
-
----
-
-### 2026-08-18 05:02:58  #MKT News
-
-Venezuela interim president Rodriguez said the earthquake death toll has risen to 6,438.
-
----
-
-### 2026-08-18 05:01:28  #市場
-
-【國際金價漲0.9%，白銀漲1.7%】週一（8月17日）紐約尾盤，現貨黃金漲0.91%，報4416.25美元/盎司，絕大部分時間處於上漲狀態，交投於4367.32-4428.88美元，最近數日持穩於4400美元附近——100日均線近期也膠著於這一水平附近。現貨白銀漲1.72%，報65.7945美元/盎司，已於8月7日漲穿50日均線（該技術指標目前報61.2981美元）。COMEX銅期貨跌0.11%，報6.7070美元/磅，亞太尾盤曾達到6.8420美元，持穩於8月6日頂部6.96美元附近。
-
----
-
-### 2026-08-18 04:59:23  #市場
-
-牙買加7月消費者價格環比上漲1.2%。
-
----
-
-### 2026-08-18 04:56:28  #國際
-
-哥倫比亞總統與特朗普舉行通話，並對美方援助表示感謝。
-
----
-
-### 2026-08-18 04:52:35  #國際
-
-法國總統馬克龍：軍事規劃法案將於明日頒佈。我國軍隊預算將實現翻倍，2026 至 2030 年間軍隊將獲得 360 億歐元新增投資。
-
----
-
-### 2026-08-18 04:51:11  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls for Tenth Straight Session — The Ibovespa edged 0.1% lower to close at 166,784 on Monday, marking a tenth consecutive session of losses. Tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. Itaú shed 1.6%, Bradesco lost 1.9% and Banco do Brasil retreated 2.3%. The IBC-Br showed a slightly larger-than-expected decline, falling 0.6%, its biggest drop since May 2025. The data added to evidence of a slowing economy. Casas Bahia (-33.3%) filed for judicial recovery following a multibillion-real loss in 2Q26. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round.
-
----
-
-### 2026-08-18 04:48:13  #MKT News
-
-The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the midterm elections.
-
----
-
-### 2026-08-18 04:44:57  #公司
-
-明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。
-
----
-
-### 2026-08-18 04:42:34  #MKT News #LHX.O #Impact bullish
-
-NASA has selected four firms to provide mission payload processing facility services, including Blue Origin, Firefly Aerospace and L3Harris. The contract value is up to $100 million.
-
----
-
-### 2026-08-18 04:38:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Retreats from Record High — The S&P/TSX Composite Index edged 0.2% lower to close at 36,668 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices rose, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, tracking a surge in long-term US Treasury yields. Financials lost ground, with RBC, TD Bank and BMO edging lower. Software and tech-services stocks traded lower, tracking losses among US software infrastructure shares, with Shopify shedding 3.7% and Constellation Software falling 3.2%. Retail stocks also posted losses ahead of retail data on Friday, with ATD (-1.6%), Loblaw (-1.8%) and Dollarama (-2.1%) declining.
-
----
-
-### 2026-08-18 04:37:23  #MKT News
-
-UAE state news agency said the UAE foreign minister spoke by phone with Kuwait’s foreign minister to discuss recent regional developments and measures to bolster security and stability in the Middle East.
-
----
-
-### 2026-08-18 04:35:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index decreased 273 points or 0.51 percent on Monday to close at 53460 points. The decline was led by Nike (-4.05%), Salesforce (-3.06%) and Walt Disney (-3.02%). On the upside, the strongest performers were Caterpillar (3.13%), Chevron (1.41%) and Goldman Sachs (1.18%).
-
----
-
-### 2026-08-18 04:31:45  #國際
-
-美國國家航空航天局：OPS 合同總上限金額為 1 億美元。
-
----
-
-### 2026-08-18 04:31:13  #國際
-
-美國國家航空航天局：遴選多家企業提供有效載荷處理服務，入選企業包括 BLUE ORIGIN、FIREFLY AEROSPACE、L3HARRIS。
-
----
-
-### 2026-08-18 04:16:58  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-US equities closed lower on Monday, Aug. 17: Dow Jones Industrial Average fell 272.39 points (-0.51%) to 53,460.02; S&P 500 fell 40.39 points (-0.52%) to 7,745.37; Nasdaq Composite fell 84.25 points (-0.32%) to 26,644.91.
-
----
-
-### 2026-08-18 04:15:09  #MKT News #Market Regions #Wall Street (US)
-
-【Anthropic's annualized revenue tops $65 billion ahead of IPO】People familiar said Anthropic's current performance implies annualized recurring revenue (ARR) above $65 billion, more than a sevenfold increase versus year-end. One source said Anthropic reported the figure to investors in routine updates; ARR stood at $65 billion as of end-July. The revenue acceleration has strengthened the company's confidence in pursuing an IPO. Anthropic and OpenAI have privately filed listing documents; Anthropic could debut on Wall Street as soon as this fall, potentially ahead of OpenAI.
-
----
-
-### 2026-08-18 04:13:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Drop as Middle East Risks Escalate — US stock indices closed lower on Monday amid concerns that elevated oil prices will fuel inflation as hopes for a deal to end the war in the Middle East faded. The S&P 500 fell 0.5%, the Nasdaq lost 0.2% and the Dow shed 273 points. Prospects for peace suffered a setback, with fighting flaring anew and rhetoric escalating. Oil prices rose, rasing concerns that inflation could prompt the Fed to raise rates before the year is over. The 30-year Treasury yield hit its highest level since 2007, reflecting concerns over surging government spending. Credit-sensitive stocks, including financials and hyperscalers, closed lower. Google lost 0.6%, Microsoft was down 3% and Meta shed 3.5%. Berkshire Hathaway lost 1.1%, Visa shed 1.5% and Amex retreated 1.8%. Meanwhile, chipmakers posted gains after strong revenue growth from Anthropic. The company is meeting with banks over a potential IPO, which could be the biggest on record. Micron added 4.1%, Intel gained 1% and Sandisk soared 9%.
 
 ---
