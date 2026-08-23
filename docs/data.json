@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 14:21:17",
-  "count": 15980,
+  "updated": "2026-08-23 14:25:30",
+  "count": 15981,
   "items": [
+    {
+      "id": "5053591",
+      "time": "2026-08-23 14:24:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗議會經濟委員會一名議員週日表示，伊朗必須取締德黑蘭境內的非正式貨幣交易據點，以此穩定外匯市場。"
+    },
     {
       "id": "5053590",
       "time": "2026-08-23 14:16:24",
@@ -108,6 +116,14 @@
         "國際"
       ],
       "text": "【北美產業因貿易摩擦壓力越來越大】美國對加拿大徵收的關稅原定於當地時間8月19日正式生效，涉及價值約200億美元的加拿大商品。就在關稅生效最後時限前幾個小時，美國總統特朗普8月18日宣佈，推遲三天對加拿大商品加徵50%關稅。有分析指出，美方在關稅生效前最後時刻按下“暫停鍵”，顯示持續的貿易摩擦已經給兩國企業和高度融合的北美產業鏈帶來越來越大壓力。（CCTV國際時訊）"
+    },
+    {
+      "id": "5053577",
+      "time": "2026-08-23 13:18:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為雲聯合上海市科技藝術教育中心等共同釋出“開發者成長中心”，為青少年提供AI程式設計等實踐活動】華為雲AI創新峰會・華為雲少年開發者盛典近日舉辦。華為中國雲Marketing與解決方案銷售部部長郭婷在致辭中表示：孩子們看世界的角度和成年人不同。一些我們習以為常的事，他們會停下來想一想。這份對生活的感知、對未知的好奇，就是最珍貴的創造力。我們不需要過早定義孩子的未來，而是讓他們擁有認識世界、改變世界的能力。（新浪科技）"
     },
     {
       "id": "5053576",
@@ -146136,14 +146152,6 @@
         "AI Revolution"
       ],
       "text": "【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry."
-    },
-    {
-      "id": "5042637",
-      "time": "2026-08-16 14:24:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【固德威與深算院達成戰略合作 共建AI+智慧能源聯合創新中心】據固德威訊息，8月16日，固德威技術股份有限公司（簡稱“固德威”）與深圳計算科學研究院（簡稱“深算院”）在蘇州固德威智慧能源大廈簽署戰略合作協議。同期，還舉行了“AI+智慧能源”聯合創新中心揭牌儀式，中心圍繞AI+資料+新型電力系統深度融合展開長期聯合研發，著力推進智慧能源行業的正規化躍遷。"
     }
   ]
 }
