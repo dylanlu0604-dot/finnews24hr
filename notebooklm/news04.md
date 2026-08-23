@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 00:34:51_
-_本檔包含 3137 則快訊，約 636006 字_
+_更新時間：2026-08-24 00:55:15_
+_本檔包含 3137 則快訊，約 635520 字_
+
+---
+
+### 2026-08-19 11:25:56  #市場
+
+【玻纖板塊大幅調整，中材科技跌停】玻纖板塊大幅調整，中材科技跌停，宏和科技、再升科技、金安國紀、卓郎智慧、中國巨石、國際復材等跟跌。
+
+---
+
+### 2026-08-19 11:25:32  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【U.S. ambassador: Israeli forces need not withdraw from Gaza until Hamas "completely disarmed"】The U.S. ambassador to Israel said on the 18th that Israeli forces need not withdraw from the Gaza Strip until Hamas is "completely disarmed." He denied reports of a clash on the 17th between Prime Minister Netanyahu and Jared Kushner over the next phase of a Gaza peace plan, saying the U.S. does not expect Israel to withdraw while Hamas still holds weapons. He added the U.S. and Israel have reached a "good" agreement. President Trump has said Hamas must be disarmed and barred from future Gaza governance.
+
+---
+
+### 2026-08-19 11:25:03
+
+創業板指跌5％，深證成指跌近4％，滬指跌1.98％，科創50指數跌6％，MLCC概念、CPO板塊、儲存晶片板塊跌幅居前。
+
+---
+
+### 2026-08-19 11:24:28  #MKT News #Important
+
+ChiNext Index fell 5%, Shenzhen Composite Index fell nearly 4%, Shanghai Composite fell 1.98% and STAR 50 Index fell 6%. MLCC, CPO and memory-chip sectors led the declines.
 
 ---
 
@@ -18913,29 +18937,5 @@ South Korea's KOSPI jumped 3.00% intraday to 7,188.14.
 ### 2026-08-18 08:35:53  #MKT News #Market Themes #AI Revolution
 
 【MOFCOM and eight ministries urge local development of VR, immersive experiences and AI+consumption】MOFCOM and eight other ministries issued guidance to boost county-level consumption, urging eligible localities to develop emerging formats such as virtual reality, immersive experiences and AI+consumption; promote green consumption models including second-hand trading and goods rental; deepen a special campaign to expand health-related consumption; and foster integrated consumption chains across primary, secondary and tertiary industries.
-
----
-
-### 2026-08-18 08:35:51  #公司
-
-【國創中心成功完成全新端側AI推理晶片的深度效能測試】近日，國家新能源汽車技術創新中心（簡稱“國創中心”）成功完成對原粒（北京）半導體技術有限公司（簡稱“原粒半導體”）全新端側AI推理晶片的深度效能測試。標誌著國創中心在端側應用評估體系建設與下一代人工智慧及AI基礎設施佈局上取得關鍵突破，加速AI及機器人晶片的場景賦能。
-
----
-
-### 2026-08-18 08:35:23  #宏觀
-
-【商務部等9部門：引導連鎖企業加速下沉 不得對連鎖企業跨區域經營設定顯性隱性障礙】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導連鎖企業加速下沉。對開辦超市、便利店等簡化審批流程，推進“高效辦成一件事”。在符合條件的同一縣域地區推行連鎖企業和商貿個體工商戶“一照多址”。規範和最佳化消防、市場監管等領域審批流程。鼓勵國有物業適度延長商業專案租賃期限。不得對連鎖企業跨區域經營設定顯性隱性障礙。
-
----
-
-### 2026-08-18 08:34:29  #其他
-
-【商務部等9部門：大力支援新能源汽車、綠色智慧產品、綠色建材等下鄉，擴大農村充電設施覆蓋範圍】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。擴大優質優價商品供應。鼓勵企業積極引入優質商品進入縣域市場，在有條件的縣域同步上市新品，促進同品同款商品城鄉“同質同享”。引導企業開發符合縣域消費特點的優質產品，支援商貿流通企業以“自有品牌+以需定產”構建柔性供應鏈。大力支援新能源汽車、綠色智慧產品、綠色建材等下鄉，擴大農村充電設施覆蓋範圍。
-
----
-
-### 2026-08-18 08:34:20  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【Nine ministries roll out measures to boost county-level consumption; eligible consumer and service loans to get fiscal interest subsidies】MOFCOM and eight other ministries issued guidance to stimulate lower-tier and county-level consumption, prioritizing fiscal support. The plan calls for activating sinking-market consumption by upgrading retail channels, promoting scenario innovation, improving efficiency and filling gaps in life services. It directs coordination of central and local funding, integration of existing resources, and targeted construction of county-level eldercare, childcare, education, medical and sports service facilities. The guidance says eligible personal consumer loans and loans to service-sector operators will be supported to receive fiscal interest subsidies.
 
 ---

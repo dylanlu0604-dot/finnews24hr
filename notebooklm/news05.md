@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 00:34:51_
-_本檔包含 3024 則快訊，約 634741 字_
+_更新時間：2026-08-24 00:55:15_
+_本檔包含 3021 則快訊，約 634683 字_
+
+---
+
+### 2026-08-18 08:35:51  #公司
+
+【國創中心成功完成全新端側AI推理晶片的深度效能測試】近日，國家新能源汽車技術創新中心（簡稱“國創中心”）成功完成對原粒（北京）半導體技術有限公司（簡稱“原粒半導體”）全新端側AI推理晶片的深度效能測試。標誌著國創中心在端側應用評估體系建設與下一代人工智慧及AI基礎設施佈局上取得關鍵突破，加速AI及機器人晶片的場景賦能。
+
+---
+
+### 2026-08-18 08:35:23  #宏觀
+
+【商務部等9部門：引導連鎖企業加速下沉 不得對連鎖企業跨區域經營設定顯性隱性障礙】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。引導連鎖企業加速下沉。對開辦超市、便利店等簡化審批流程，推進“高效辦成一件事”。在符合條件的同一縣域地區推行連鎖企業和商貿個體工商戶“一照多址”。規範和最佳化消防、市場監管等領域審批流程。鼓勵國有物業適度延長商業專案租賃期限。不得對連鎖企業跨區域經營設定顯性隱性障礙。
+
+---
+
+### 2026-08-18 08:34:29  #其他
+
+【商務部等9部門：大力支援新能源汽車、綠色智慧產品、綠色建材等下鄉，擴大農村充電設施覆蓋範圍】商務部等9部門釋出關於進一步激發下沉市場活力 活躍縣域消費的意見。擴大優質優價商品供應。鼓勵企業積極引入優質商品進入縣域市場，在有條件的縣域同步上市新品，促進同品同款商品城鄉“同質同享”。引導企業開發符合縣域消費特點的優質產品，支援商貿流通企業以“自有品牌+以需定產”構建柔性供應鏈。大力支援新能源汽車、綠色智慧產品、綠色建材等下鄉，擴大農村充電設施覆蓋範圍。
+
+---
+
+### 2026-08-18 08:34:20  #MKT News #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【Nine ministries roll out measures to boost county-level consumption; eligible consumer and service loans to get fiscal interest subsidies】MOFCOM and eight other ministries issued guidance to stimulate lower-tier and county-level consumption, prioritizing fiscal support. The plan calls for activating sinking-market consumption by upgrading retail channels, promoting scenario innovation, improving efficiency and filling gaps in life services. It directs coordination of central and local funding, integration of existing resources, and targeted construction of county-level eldercare, childcare, education, medical and sports service facilities. The guidance says eligible personal consumer loans and loans to service-sector operators will be supported to receive fiscal interest subsidies.
 
 ---
 
@@ -18207,47 +18231,5 @@ Iran's first vice president said rising prices have reached an alarming level an
 ### 2026-08-17 01:08:26  #MKT News
 
 Iran's first vice president said the enemy is attempting to compensate for military defeats through economic warfare and that Iran must respond.
-
----
-
-### 2026-08-17 00:54:55  #MKT News #Market Regions #Europe & UK
-
-【U.S. denies shift in stance on Malvinas (Falklands) sovereignty dispute】U.S. ambassador to Argentina Peter Lamelas on the 15th denied the U.S. government had changed its position on the Malvinas (Falklands) sovereignty dispute. In an interview with Argentine broadcaster TN he said the U.S. remains "neutral" in the dispute and "that has not changed." Media reports said a leaked U.S. Defense Department email in April indicated President Trump was considering no longer backing the U.K.'s position on the islands. Lamelas said he had heard of the "internal email" but was not aware of its contents.
-
----
-
-### 2026-08-17 00:54:27  #國際
-
-【美方否認在馬島主權爭端中改變立場】美國駐阿根廷大使彼得·拉梅拉斯15日否認美國政府改變了在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權爭端中的立場。拉梅拉斯在接受阿根廷媒體TN電視臺採訪時聲稱，美國政府仍在馬爾維納斯群島主權爭端中“保持中立”，“這一點沒有改變”。（新華社）
-
----
-
-### 2026-08-17 00:51:37  #其他
-
-【雲南就低價遊宰客問題展開調查】8月16日晚，總檯《財經調查》曝光低價遊宰客陷阱 。其中，雲南昆明、西雙版納等地一些旅遊行程豐富、標註純玩無購物、無自費的跟團遊產品，頻頻出現消費糾紛。旅遊實際行程與商家宣傳嚴重不符，隱性購物、強制消費、臨時加價等問題時有發生。針對節目曝光問題，雲南省文化和旅遊廳高度重視，通報立即組織有關州市對涉事的旅行社、導遊、購物場所開展調查。一經查實，將依法依規嚴肅處理。
-
----
-
-### 2026-08-17 00:48:20  #MKT News
-
-Al Arabiya TV reported Trump senior adviser Jared Kushner confirmed to Hamas leaders that Hamas weapons would be removed from Gaza and not stored there.
-
----
-
-### 2026-08-17 00:48:12  #宏觀
-
-伊拉克財政部長法利赫·薩里宣佈，霍爾木茲海峽的關閉對伊拉克經濟產生了直接影響。透過加強非石油收入，將克服當前的形勢。
-
----
-
-### 2026-08-17 00:47:36  #MKT News #Market Themes #The Trump Trade
-
-Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Mladenov insisted Hamas hand over weapons and dismantle its infrastructure.
-
----
-
-### 2026-08-17 00:47:12  #MKT News
-
-Al Arabiya reported that Trump senior adviser Jared Kushner and Gaza peace envoy Nikolay Mladenov rejected a Hamas proposal to "store weapons".
 
 ---
