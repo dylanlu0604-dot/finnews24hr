@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-24 06:59:02",
-  "count": 15784,
+  "updated": "2026-08-24 07:03:08",
+  "count": 15782,
   "items": [
+    {
+      "id": "5053965",
+      "time": "2026-08-24 07:02:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半年報業績成調研“發令槍”，券商錨定主線佈局下半場】隨著A股半年報進入集中披露視窗期，上市公司經營成績單成為券商機構調研的“發令槍”。資料顯示，近一個月內（7月23日至8月23日），137家券商累計調研402家A股上市公司。記者梳理發現，獲調研企業大多具備紮實基本面與清晰的技術落地場景，調研過程中券商圍繞業績持續性、產能擴張、成果轉化等關鍵問題深挖企業長期價值。（上證報）"
+    },
+    {
+      "id": "5053964",
+      "time": "2026-08-24 07:01:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美債擾動不改A股中期執行邏輯，券商建議錨定盈利修復主線】過去一週，美債長端利率快速上行，成為壓制市場風險偏好的核心變數。其中，成長風格受到的影響尤為顯著。券商策略展望報告認為，短期來看，市場或仍受海外波動、籌碼結構擾動而出現震盪反覆，但外部衝擊並未改變A股中期執行的核心邏輯，後續隨著國內政策效果逐步顯現、企業盈利持續修復，反彈行情有望延續。（上證報）"
+    },
     {
       "id": "5053963",
       "time": "2026-08-24 06:58:07",
@@ -144322,42 +144338,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Credit Card Spending Rebounds — Seasonally adjusted electronic card transactions in New Zealand rose 1.3% month over month in July 2026, recovering from a downwardly revised 1.3% decline in the previous month. The rebound was driven by a recovery in spending on hospitality (3.2% vs. -2.4% in June), durables (2.5% vs. -3.8%), and apparel (3.2% vs. -2.1%)."
-    },
-    {
-      "id": "5043007",
-      "time": "2026-08-17 07:02:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國8月房價環比下跌2%，英國8月房價同比下跌1%。"
-    },
-    {
-      "id": "te:economy:575557",
-      "time": "2026-08-17 07:01:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "New Zealand Private Sector Growth Eases — The BusinessNZ Performance of Composite Index declined to 52.6 in July 2026 from an upwardly revised 53.8 in the previous month, which was the fastest expansion in six months. It marked the second consecutive month of expansion in the private sector, as the services sector recorded its strongest growth in seven months while manufacturing growth eased."
-    },
-    {
-      "id": "5043006",
-      "time": "2026-08-17 07:01:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國慶尚南道泥石流致20餘人被困】據韓聯社17日報道，韓國慶尚南道巨濟市發生泥石流，20餘人被困，現場搜救工作正在進行中。 韓聯社在另一則報道里說，已有兩人獲救，其中一人“心臟驟停”。（新華社）"
-    },
-    {
-      "id": "5043005",
-      "time": "2026-08-17 07:00:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【經濟日報金觀平：把握好貨幣政策的力度與節奏】文章指出，實現“十五五”良好開局，需要宏觀政策更加積極有為。接下來，繼續實施好適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，推動經濟持續向新向優向好發展。"
     }
   ]
 }
