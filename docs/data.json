@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 20:05:42",
+  "updated": "2026-08-23 20:10:46",
   "count": 15916,
   "items": [
+    {
+      "id": "5053752",
+      "time": "2026-08-23 20:06:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘過渡政府：預計很快與以色列恢復安全協議談判】敘利亞過渡政府外交部長希巴尼22日在接受路透社採訪時表示，敘利亞預計將很快與以色列恢復關於安全協議的談判，希望該協議能推動以色列從敘領土撤軍。（新華社）"
+    },
     {
       "id": "5053751",
       "time": "2026-08-23 20:02:26",
@@ -145513,14 +145521,6 @@
         "其他"
       ],
       "text": "據燈塔專業版實時資料，截至8月16日20時11分，影片《歡迎來龍餐館》票房突破9億。"
-    },
-    {
-      "id": "mkt:01a00a79-7e22-7aab-904d-f2810eaec425",
-      "time": "2026-08-16 20:08:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24News reports Israeli prime minister NETANYAHU will meet in Israel tomorrow with U.S. envoy Kushner and senior officials from the High-Level Peace Committee."
     }
   ]
 }
