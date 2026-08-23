@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:32:01_
-_本檔包含 3345 則快訊，約 640710 字_
+_更新時間：2026-08-23 17:53:17_
+_本檔包含 3339 則快訊，約 639647 字_
+
+---
+
+### 2026-08-21 10:35:31  #MKT News #Market Regions #Greater China #CNH #Impact bullish #SSE Composite #DXY #Impact bearish
+
+【Ministry of Finance to raise interest-subsidized loan cap for small, medium and micro enterprises to 75 mln yuan】China's Ministry of Finance announced at a State Council Information Office briefing that the cap on interest-subsidized loans for small, medium and micro enterprises will be raised from 50 mln yuan to 75 mln yuan; the cap for service-sector operating entities will be increased from 10 mln yuan to 20 mln yuan; and the subsidy cap on individual consumer loans will be raised from 3,000 yuan to 5,000 yuan to better meet business investment and household consumption needs.
+
+---
+
+### 2026-08-21 10:35:12  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時縮量1011億元。
+
+---
+
+### 2026-08-21 10:35:11  #國際
+
+【外國企業對特定可穿戴吸奶器、配套的奶儲存容器及其部件提起337調查申請】8月20日，美國國際貿易委員會（ITC）投票決定對特定二次圓柱形電池、電池元件及包含該元件的產品（Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same）啟動337調查（調查編碼：337-TA-1518）。
 
 ---
 
@@ -20150,59 +20168,5 @@ Indonesian Equities Rally After BI Rate Decision — Indonesian shares surged 69
 ### 2026-08-20 10:31:46  #Trading Economics #Markets #Australia #Earnings #Importance 0
 
 Fortescue Metals earnings above expectations at 0.55 USD — Fortescue Metals (FMG) released earnings per share at 0.55 USD, compared to market expectations of 0.54 USD.
-
----
-
-### 2026-08-20 10:31:43  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Yield Lingers Near 1-Year Low — China's 10-year government bond yield rose toward 1.69% on Thursday but remained near its lowest level since July 2025 after the People's Bank of China left its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The central bank left the one-year loan prime rate (LPR) at 3.0% and the five-year LPR at 3.5%, signaling a measured policy approach as it reiterated its commitment to maintaining an accommodative monetary stance. Meanwhile, expectations for additional stimulus measures remain elevated following a string of weak July economic indicators, including softer industrial output, retail sales, and fixed-asset investment data. Looking ahead, markets are turning their attention to the National People's Congress Standing Committee meeting in Beijing from August 25 to 28, where investors will watch closely for fresh policy guidance and potential stimulus measures to support economic recovery.
-
----
-
-### 2026-08-20 10:31:22  #其他
-
-【哥倫比亞強震死亡人數升至319人】哥倫比亞國家災害風險管理局19日晚公佈的最新資料顯示，截至當地時間19日18時30分，該國西部強震已造成319人死亡、4469人受傷、260人失蹤，另有364人獲救。資料顯示，哥倫比亞全國有15個省的476個市鎮受到此次地震影響，受災人數達27.2萬人。
-
----
-
-### 2026-08-20 10:30:52  #MKT News
-
-Al Arabiya TV quoted the U.S. ambassador to Israel as saying he did not believe the Mecca Defense Agreement signed by Saudi Arabia, Turkey and Pakistan would undermine regional stability, noting the three countries view enhanced security cooperation as beneficial and appear to have no intent to provoke conflict.
-
----
-
-### 2026-08-20 10:30:51  #其他
-
-哥倫比亞總統簽署法令，宣佈進入為期30天的經濟緊急狀態。
-
----
-
-### 2026-08-20 10:30:16  #MKT News
-
-EMSC reports a magnitude 4.2 earthquake in Chiapas, Mexico.
-
----
-
-### 2026-08-20 10:29:57  #MKT News #DXY #Impact bullish
-
-Indonesian rupiah weakened to 17,790 per USD.
-
----
-
-### 2026-08-20 10:29:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Refinitiv shipping-traffic data for the Strait of Hormuz show the US-Iran geopolitical stalemate has not improved.
-
----
-
-### 2026-08-20 10:29:29  #市場 #國際
-
-印尼盾兌美元走強至17,790。
-
----
-
-### 2026-08-20 10:29:23  #公司 #觀點
-
-【大摩：維持小米“增持”評級，預期下半年智慧手機毛利率將保持韌性】摩根士丹利發表報告指，小米集團次季經調整純利62.19億元，環比升2%。智慧手機業務收入及毛利率均顯著優於該行預期。管理層表示儲存器價格升幅於下半年將趨於正常化，有望減少對智慧手機毛利率的負面影響。該行預期下半年智慧手機毛利率將保持韌性，成為正面驚喜及重估催化劑。大摩維持小米“增持”評級，目標價32港元。
 
 ---

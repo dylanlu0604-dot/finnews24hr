@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:32:01_
-_本檔包含 3200 則快訊，約 640828 字_
+_更新時間：2026-08-23 17:53:17_
+_本檔包含 3204 則快訊，約 640728 字_
+
+---
+
+### 2026-08-20 10:31:43  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
+
+China 10Y Yield Lingers Near 1-Year Low — China's 10-year government bond yield rose toward 1.69% on Thursday but remained near its lowest level since July 2025 after the People's Bank of China left its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The central bank left the one-year loan prime rate (LPR) at 3.0% and the five-year LPR at 3.5%, signaling a measured policy approach as it reiterated its commitment to maintaining an accommodative monetary stance. Meanwhile, expectations for additional stimulus measures remain elevated following a string of weak July economic indicators, including softer industrial output, retail sales, and fixed-asset investment data. Looking ahead, markets are turning their attention to the National People's Congress Standing Committee meeting in Beijing from August 25 to 28, where investors will watch closely for fresh policy guidance and potential stimulus measures to support economic recovery.
+
+---
+
+### 2026-08-20 10:31:22  #其他
+
+【哥倫比亞強震死亡人數升至319人】哥倫比亞國家災害風險管理局19日晚公佈的最新資料顯示，截至當地時間19日18時30分，該國西部強震已造成319人死亡、4469人受傷、260人失蹤，另有364人獲救。資料顯示，哥倫比亞全國有15個省的476個市鎮受到此次地震影響，受災人數達27.2萬人。
+
+---
+
+### 2026-08-20 10:30:52  #MKT News
+
+Al Arabiya TV quoted the U.S. ambassador to Israel as saying he did not believe the Mecca Defense Agreement signed by Saudi Arabia, Turkey and Pakistan would undermine regional stability, noting the three countries view enhanced security cooperation as beneficial and appear to have no intent to provoke conflict.
+
+---
+
+### 2026-08-20 10:30:51  #其他
+
+哥倫比亞總統簽署法令，宣佈進入為期30天的經濟緊急狀態。
+
+---
+
+### 2026-08-20 10:30:16  #MKT News
+
+EMSC reports a magnitude 4.2 earthquake in Chiapas, Mexico.
+
+---
+
+### 2026-08-20 10:29:57  #MKT News #DXY #Impact bullish
+
+Indonesian rupiah weakened to 17,790 per USD.
+
+---
+
+### 2026-08-20 10:29:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Refinitiv shipping-traffic data for the Strait of Hormuz show the US-Iran geopolitical stalemate has not improved.
+
+---
+
+### 2026-08-20 10:29:29  #市場 #國際
+
+印尼盾兌美元走強至17,790。
+
+---
+
+### 2026-08-20 10:29:23  #公司 #觀點
+
+【大摩：維持小米“增持”評級，預期下半年智慧手機毛利率將保持韌性】摩根士丹利發表報告指，小米集團次季經調整純利62.19億元，環比升2%。智慧手機業務收入及毛利率均顯著優於該行預期。管理層表示儲存器價格升幅於下半年將趨於正常化，有望減少對智慧手機毛利率的負面影響。該行預期下半年智慧手機毛利率將保持韌性，成為正面驚喜及重估催化劑。大摩維持小米“增持”評級，目標價32港元。
 
 ---
 
@@ -19272,35 +19326,5 @@ ARK Invest founder Cathie Wood said productivity and intelligence gains have pro
 ### 2026-08-19 10:23:21  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
 
 Indonesian Stocks Ease Ahead of BI Rate Decision — Indonesian shares slipped 39 points or 0.6% to 6,410 in early Wednesday trade, reversing gains from the prior two sessions as Wall Street’s overnight selloff in semiconductors, elevated bond yields, and rising oil prices weighed on sentiment. Domestic caution deepened amid recent natural disasters, doubts over 2027 budget assumptions, and delays in electric motorcycle incentives. Market focus vigilantly turned to Bank Indonesia’s policy decision later today, its first under Acting Governor Destry Damayanti, with interest rates expected to stay unchanged after a cumulative 100 bps of hikes since May. However, traders remain increasingly watchful of how she balances currency stability against President Prabowo Subianto’s growth agenda. Sectoral losses were broad, led by energy, cyclicals, and basic materials, though property gains helped limit declines. Notable laggards included MNC Tourism (-2.9%), Bank Jago (-2.6%), Pertamina Geothermal Energy (-2.3%), and Alamtri Minerals (-2.1%).
-
----
-
-### 2026-08-19 10:23:15  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：提升智慧計算能力 突破光計算、類腦等顛覆性晶片架構】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。打通語料匯聚與共享體系，建設科學資料中心、高質量語料公共服務平臺，完善語料庫與資料集，推進青浦資料中心等平臺建設。發展科學智慧新正規化，加強多學科專業工具模型開發，打造通用科研基座，推動科學智慧在多領域應用。實施“模力聚申”行動，推進具身智慧技術熟化與實訓場建設，加速在製造、物流、零售、康養、家政等場景落地。
-
----
-
-### 2026-08-19 10:22:47  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：加快第三/四代半導體材料技術攻關和產業化落地】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦高階晶片設計、工藝製造、核心裝備與材料等產業鏈關鍵環節，圍繞“一體兩翼”（張江核心園、臨港園、嘉定園）核心區建設，強化產業協同，打造積體電路先導產業叢集。高階晶片設計，支援電子設計自動化（EDA）工具與智慧化升級等先進封裝技術體系構建，加快電子設計自動化及積體電路設計模組創新中心和第五代指令集（RISC-V）創新中心建設。工藝製造，重點推進一批重大產業化專案建設，打造工藝平臺。核心裝備與材料，加快建設半導體高階裝備示範園，推進積體電路檢測裝備、先進封裝裝置等關鍵裝備研發及產業化，加快第三/四代半導體材料技術攻關和產業化落地。
-
----
-
-### 2026-08-19 10:22:35  #MKT News #Important #Star Stocks #Tencent #Market Regions #Greater China #Hang Seng Index #Impact bullish #Hang Seng Tech Index #Impact bearish #00700.HK
-
-Hong Kong stocks tick higher; the Hang Seng Index has turned positive and the Hang Seng Tech Index’s decline narrows to about 1.1%. Tencent Holdings (00700.HK) briefly rallied and is trading up nearly 1%.
-
----
-
-### 2026-08-19 10:22:00  #其他
-
-長鑫科技成交額達100億元，現跌2.55%。
-
----
-
-### 2026-08-19 10:21:58  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
-
-【Shanghai to build AI pilot industry cluster centered on Zhangjiang, prioritizing compute and large models】Shanghai Science and Technology Commission issued a development plan for the Zhangjiang High‑Tech Zone outlining an AI pilot industry cluster led by Zhangjiang core park with Xuhui and Caohejing parks as demonstration zones. Policy targets include boosting compute, large models, corpora/data, scientific intelligence and applications; priorities are advancing intelligent computing via optical and neuromorphic chip architectures, creating an autonomous compute stack that integrates supercomputing and AI computing with cloud‑edge‑end coordination, and building the Pujiang public compute service platform. The plan also backs next‑generation large models (including brain‑inspired computing), establishes a model‑acceleration facility and a Zhangjiang AI innovation town, and supports domestic compute adaptation and ecosystem integration for multimodal models.
 
 ---

@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:32:01_
-_本檔包含 3174 則快訊，約 640639 字_
+_更新時間：2026-08-23 17:53:17_
+_本檔包含 3174 則快訊，約 640256 字_
+
+---
+
+### 2026-08-23 17:40:06  #其他
+
+【自然資源部對雲南啟動地質災害防禦Ⅳ級響應】8月23日，雲南省臨滄市鳳慶縣鳳山鎮發生2起邊坡垮塌，造成4人失聯。自然資源部於23日14時對雲南啟動地質災害防禦Ⅳ級響應，並派工作組赴現場指導開展搶險救援等工作。自然資源部要求雲南省自然資源廳立即先行派出專家工作組前往現場，協助地方做好人員搜救、搶險救援期間技術支撐等工作，並舉一反三，做好類似情況下地質災害巡查排查、監測預警和防範應對等工作；中國地質調查局、自然資源部地質災害技術指導中心加強專家排程、組織協調、會商研判，全力協助指導做好技術支撐等工作。（央視新聞）
+
+---
+
+### 2026-08-23 17:39:39  #國際
+
+【俄羅斯測試新一輪軍事動員準備情況】據報道，美國和歐洲情報官員稱俄羅斯軍方近期在全國多地開展動員準備演練，以評估接收、安置、補給及裝備新兵的能力。其中包括軍官前往加里寧格勒地區進行相關規劃演練。克里姆林宮目前尚未作出是否實施新一輪動員的決定，相關討論或將在9月底議會選舉後再行推進。據稱目前俄軍招募仍以自願方式為主。
+
+---
+
+### 2026-08-23 17:35:19  #國際
+
+市場訊息：西方官員稱俄羅斯開展動員戰備測試。
 
 ---
 
@@ -19144,23 +19162,5 @@ Australia 10Y Yield Remains Above 5% — Australia’s 10-year government bond y
 ### 2026-08-21 10:35:48  #MKT News
 
 【Ministry of Finance to expand institutions handling SME and service‑sector loan interest subsidies】China’s Ministry of Finance will expand the pool of institutions authorized to process interest‑subsidized loans for small‑and‑micro enterprises and service‑sector operators to about 400 from roughly 100. The list will include 21 nationwide banks and additional city commercial banks, rural cooperative finance institutions, private banks and foreign banks with a regulatory rating of 3A or above, widening coverage across urban and rural borrowers.
-
----
-
-### 2026-08-21 10:35:31  #MKT News #Market Regions #Greater China #CNH #Impact bullish #SSE Composite #DXY #Impact bearish
-
-【Ministry of Finance to raise interest-subsidized loan cap for small, medium and micro enterprises to 75 mln yuan】China's Ministry of Finance announced at a State Council Information Office briefing that the cap on interest-subsidized loans for small, medium and micro enterprises will be raised from 50 mln yuan to 75 mln yuan; the cap for service-sector operating entities will be increased from 10 mln yuan to 20 mln yuan; and the subsidy cap on individual consumer loans will be raised from 3,000 yuan to 5,000 yuan to better meet business investment and household consumption needs.
-
----
-
-### 2026-08-21 10:35:12  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量1011億元。
-
----
-
-### 2026-08-21 10:35:11  #國際
-
-【外國企業對特定可穿戴吸奶器、配套的奶儲存容器及其部件提起337調查申請】8月20日，美國國際貿易委員會（ITC）投票決定對特定二次圓柱形電池、電池元件及包含該元件的產品（Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same）啟動337調查（調查編碼：337-TA-1518）。
 
 ---

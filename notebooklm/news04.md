@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 17:32:01_
-_本檔包含 3155 則快訊，約 640779 字_
+_更新時間：2026-08-23 17:53:17_
+_本檔包含 3148 則快訊，約 639245 字_
+
+---
+
+### 2026-08-19 10:23:15  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：提升智慧計算能力 突破光計算、類腦等顛覆性晶片架構】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。打通語料匯聚與共享體系，建設科學資料中心、高質量語料公共服務平臺，完善語料庫與資料集，推進青浦資料中心等平臺建設。發展科學智慧新正規化，加強多學科專業工具模型開發，打造通用科研基座，推動科學智慧在多領域應用。實施“模力聚申”行動，推進具身智慧技術熟化與實訓場建設，加速在製造、物流、零售、康養、家政等場景落地。
+
+---
+
+### 2026-08-19 10:22:47  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：加快第三/四代半導體材料技術攻關和產業化落地】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦高階晶片設計、工藝製造、核心裝備與材料等產業鏈關鍵環節，圍繞“一體兩翼”（張江核心園、臨港園、嘉定園）核心區建設，強化產業協同，打造積體電路先導產業叢集。高階晶片設計，支援電子設計自動化（EDA）工具與智慧化升級等先進封裝技術體系構建，加快電子設計自動化及積體電路設計模組創新中心和第五代指令集（RISC-V）創新中心建設。工藝製造，重點推進一批重大產業化專案建設，打造工藝平臺。核心裝備與材料，加快建設半導體高階裝備示範園，推進積體電路檢測裝備、先進封裝裝置等關鍵裝備研發及產業化，加快第三/四代半導體材料技術攻關和產業化落地。
+
+---
+
+### 2026-08-19 10:22:35  #MKT News #Important #Star Stocks #Tencent #Market Regions #Greater China #Hang Seng Index #Impact bullish #Hang Seng Tech Index #Impact bearish #00700.HK
+
+Hong Kong stocks tick higher; the Hang Seng Index has turned positive and the Hang Seng Tech Index’s decline narrows to about 1.1%. Tencent Holdings (00700.HK) briefly rallied and is trading up nearly 1%.
+
+---
+
+### 2026-08-19 10:22:00  #其他
+
+長鑫科技成交額達100億元，現跌2.55%。
+
+---
+
+### 2026-08-19 10:21:58  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
+
+【Shanghai to build AI pilot industry cluster centered on Zhangjiang, prioritizing compute and large models】Shanghai Science and Technology Commission issued a development plan for the Zhangjiang High‑Tech Zone outlining an AI pilot industry cluster led by Zhangjiang core park with Xuhui and Caohejing parks as demonstration zones. Policy targets include boosting compute, large models, corpora/data, scientific intelligence and applications; priorities are advancing intelligent computing via optical and neuromorphic chip architectures, creating an autonomous compute stack that integrates supercomputing and AI computing with cloud‑edge‑end coordination, and building the Pujiang public compute service platform. The plan also backs next‑generation large models (including brain‑inspired computing), establishes a model‑acceleration facility and a Zhangjiang AI innovation town, and supports domestic compute adaptation and ecosystem integration for multimodal models.
 
 ---
 
@@ -18992,87 +19022,5 @@ BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying pr
 ### 2026-08-18 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%).
-
----
-
-### 2026-08-18 06:34:17  #其他
-
-必和必拓全年基礎盈利132.0億美元，預估126.9億美元。
-
----
-
-### 2026-08-18 06:33:42  #公司
-
-【險資股票和基金持倉規模半年增加近7000億元】根據金融監管總局近日披露的最新的保險公司資金運用情況表，截至今年二季度末，險資股票和證券投資基金投資規模達到6.4萬億元，較年初增加近0.7萬億元，其中二季度單季增加近0.5萬億元。分析人士認為，二季度險資權益配置提速，主要是其主動增配權益類資產和權益類資產公允價值抬升共同作用的結果。在增配的權益類資產中，主要分為FVOCI（以公允價值計量且其變動計入其他綜合收益）類和FVTPL（以公允價值計量且其變動計入當期損益）類，前者以獲取高股息為主，後者則以獲取資本利得為主。業內人士透露，未來險資還將繼續同時擁抱確定性與可能性，密切跟蹤資產的風險收益比變化。（中證報）
-
----
-
-### 2026-08-18 06:32:56  #其他
-
-必和必拓全年淨利潤98.3億美元，預估109.5億美元。
-
----
-
-### 2026-08-18 06:31:35  #市場 #央行 #國際
-
-【週二重要財經資訊提醒（以下均為北京時間）】
-① 09:00 澳洲聯儲助理主席瓊斯講話；
-② 14:00 英國6月三個月ILO就業人數、失業率；
-③ 15:00 國新辦舉行新聞釋出會，介紹激發下沉市場活力活躍縣域消費有關情況；
-④ 港股收盤之後 百度、小米釋出業績報告，禾賽、愛奇藝、小鵬也將釋出業績報告；
-⑤ 17:00 歐元區8月ZEW經濟景氣指數，德國8月ZEW經濟景氣指數；
-⑥ 美股盤前 家得寶等釋出業績報告；
-⑦ 19:45 歐洲央行首席經濟學家Philip Lane參加在都柏林舉辦的一個關於“全球地緣政治破碎化中貨幣政策”的研討會；
-⑧ 20:30 美國7月新屋開工、營建許可，7月進口價格指數；
-⑨ 21:15 美國7月工業產出；
-⑩ 22:00 美國7月成屋簽約銷售指數。
-
----
-
-### 2026-08-18 06:30:50  #公司
-
-【0.01個百分點的訊號，銀行業淨息差迎來階段性修復】日前，國家金融監督管理總局釋出的2026年二季度銀行業保險業主要監管指標資料顯示，二季度商業銀行淨息差為1.41%，較一季度的1.40%上升0.01個百分點，是自2022年以來首次單季環比上升。但不同型別銀行走勢分化，其中國有大行、城商行、農商行、民營銀行二季度淨息差實現環比上行，股份行環比持平，外資銀行環比下降。 業內人士分析，本輪息差企穩的核心動力來自負債端：存量高息存款集中到期重定價，疊加銀行主動最佳化負債結構，有效壓降了付息成本。在監管引導下，利率自律機制發揮作用，遏制信貸利率非理性降價競爭，助力穩定資產端定價，託舉淨息差。（中證報）
-
----
-
-### 2026-08-18 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Heating Oil Rises by 3.83% — Top commodity gainers are Heating Oil (3.83%), Crude Oil WTI (3.26%) and Brent Crude Oil (3.08%). Biggest losers are Methanol (-1.59%) and Natural gas (-1.17%).
-
----
-
-### 2026-08-18 06:28:22  #公司
-
-【PCB產業鏈半年報亮眼，高階產品供需偏緊或延續至2028年】近期，多家PCB產業鏈企業披露2026年半年報，大多數公司營收、淨利潤實現較快增長。梳理發現，AI算力需求增長、產品結構升級及產能釋放等成為推動企業業績增長的重要因素。與此同時，當前PCB行業仍處於結構性漲價過程中，高階HDI、高多層PCB等高階產品持續處於供需偏緊狀態。展望後市，有行業人士表示，AI伺服器持續迭代、ASIC加速器加快放量將繼續支撐高階PCB需求，而高階產能釋放仍需要時間，預計高階PCB供需偏緊格局或延續至2028年。（上證報）
-
----
-
-### 2026-08-18 06:27:01  #MKT News #WTI #Impact bullish
-
-【Poll shows Trump approval at second-term low】Reuters/Ipsos poll on Aug. 17 found US President Trump’s approval rating at 33%, a second-term low. The survey showed 64% disapprove of his White House performance and roughly 80% expect fighting between the US and Iran to continue for a long time. The online poll sampled 1,166 US adults.
-
----
-
-### 2026-08-18 06:26:39  #MKT News #Macro & Rates #Treasury Yields #The Fed (FOMC) #Market Regions #Japan & APAC #WTI #Impact bearish #US10Y #Nikkei 225
-
-【Asian stocks set to open lower; oil, bond yields pose headwinds】Asian equities were set to open lower after US losses as rising oil prices raised inf concerns and hopes for an end to the US‑Iran conflict dimmed. Futures for Australia, Japan and Hong Kong fell on Tuesday. Market participants are focused on oil and government bond yields for signs of a sustained inf shock that could push up Fed rate expectations and pressure high‑valuation stocks. US 10‑year Treasury yields rose above 4.7% and remain elevated despite last week’s subdued inf data, a persistent headwind for investors, said Matt Maley, chief market strategist at Miller Tabak+Co.
-
----
-
-### 2026-08-18 06:24:22  #公司 #國際
-
-【民調顯示特朗普支援率創第二任期內新低】當地時間8月17日，路透社與益普索集團釋出的一項民意調查結果顯示，美國總統特朗普的支援率降至33%，創下其第二任期內新低。民調顯示，64%的美國人不認可特朗普在白宮的表現，約80%的美國人預計美國和伊朗之間的戰事“將會持續很長時間”。本次調查在全美以線上方式進行，收集了1166名美國成年人的反饋。（央視新聞）
-
----
-
-### 2026-08-18 06:23:20  #公司 #觀點
-
-【主動退出與被動處置並行，今年以來多家中小券商股權被擺上“貨架”】近日，開源證券的一筆股權轉讓引發關注。開源證券的中小股東西安曲江文化金融控股（集團）有限公司，將其持有的開源證券股份（4784.60萬股）全部掛牌轉讓，轉讓底價2.10億元。據統計，今年以來，東海證券、大通證券等多家中小券商股權被擺上轉讓“貨架”。中小券商股權流轉的背後，是主動退出與被動處置兩條主線並行。主動退出方面，股東財務狀況是驅動因素之一。被動處置方面，股東債務觸發司法拍賣的案例持續增加。（上證報）
-
----
-
-### 2026-08-18 06:21:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【U.S.-Iran standoff persists; oil up about 3% on bleak talks outlook】International crude rose about 3% on Monday as prospects for a U.S.-Iran deal dimmed. President Trump said he does not intend to extend a U.S.-Iran memorandum of understanding signed in June that technically expired on Monday. Major disagreements remain, including over the Strait of Hormuz. Other U.S. officials signaled Washington is not in a hurry to end the nearly six-month confrontation. The U.S. Energy Secretary described U.S. policy toward the Islamic Republic as a long-term game, and senior adviser Jared Kushner said Trump will be patient on any agreement.
 
 ---
