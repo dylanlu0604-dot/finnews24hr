@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-24 01:24:35",
-  "count": 15861,
+  "updated": "2026-08-24 01:35:31",
+  "count": 15856,
   "items": [
+    {
+      "id": "5053834",
+      "time": "2026-08-24 01:28:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【幾內亞首都垃圾場坍塌事故死亡人數升至22人】當地時間23日凌晨，幾內亞首都科納克里一處垃圾填埋場發生坍塌，大量垃圾衝向附近居民區，多處房屋受影響，已造成至少22人死亡。目前搜救工作仍在持續，傷亡人數可能進一步增加。"
+    },
     {
       "id": "5053833",
       "time": "2026-08-24 01:21:29",
@@ -144985,58 +144993,6 @@
         "MKT News"
       ],
       "text": "Russian Defence Ministry said Russian air-defence systems intercepted and destroyed 72 Ukrainian drones."
-    },
-    {
-      "id": "mkt:01a00ba3-9791-7aab-904f-55043fe55ac3",
-      "time": "2026-08-17 01:34:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Israeli security sources said the Israeli military is preparing for a possible escalation in Lebanon following recent incidents on the Ali Taher Heights."
-    },
-    {
-      "id": "mkt:01a00ba0-5694-7aab-904f-48d1cab3e39e",
-      "time": "2026-08-17 01:30:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reports the US government has discussed imposing new sanctions on a judge of Brazil's Supreme Court as a diplomatic crisis could push bilateral ties to their lowest point in decades."
-    },
-    {
-      "id": "5042924",
-      "time": "2026-08-17 01:30:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國已就針對巴西最高法院法官德莫賴斯實施新制裁一事進行了討論。"
-    },
-    {
-      "id": "5042923",
-      "time": "2026-08-17 01:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列安全訊息人士：鑑於阿里塔赫爾高地發生的事件，以軍正為黎巴嫩可能出現的局勢升級做好準備。"
-    },
-    {
-      "id": "5042922",
-      "time": "2026-08-17 01:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統府：外交部長阿拉格齊在政府會議上就與阿曼的談判進展提交了報告。"
-    },
-    {
-      "id": "mkt:01a00b9d-47bb-7aab-904f-439e486a96d5",
-      "time": "2026-08-17 01:27:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline."
     }
   ]
 }
