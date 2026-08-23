@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 03:23:04_
-_本檔包含 3307 則快訊，約 634117 字_
+_更新時間：2026-08-24 03:51:10_
+_本檔包含 3311 則快訊，約 633322 字_
+
+---
+
+### 2026-08-21 11:24:38  #MKT News
+
+China and Indonesia held the inaugural meeting of their Comprehensive Strategic Dialogue in Jakarta on the morning of Aug 21 (local time).
+
+---
+
+### 2026-08-21 11:23:57  #公司
+
+【智度德正：法定代表人確定為陸宏達】8月20日，智度德正釋出宣告稱，公司近日獲悉，關於我司母公司北京智度德正投資有限公司法定代表人變更的610決議糾紛，經北京市第二中級人民法院依法審理，已於2026年8月7日作出終審判決。該生效判決明確認定610決議合法有效，再次確認陸宏達為智度德正合法的法定代表人，蘭佳無權代表智度德正。
+
+---
+
+### 2026-08-21 11:23:38  #宏觀
+
+【財政部：截至7月底已發行新增專項債2.4萬億元，支援建設專案1.8萬個】8月21日，財政部副部長廖岷在國新辦新聞釋出會上表示，截至7月底，全國已發行2026年新增專項債券2.4萬億元，支援建設專案1.8萬個。
+
+---
+
+### 2026-08-21 11:23:26  #宏觀 #市場
+
+【截至7月底各地發行隱性債務置換債券1.73萬億元】財政部副部長廖岷表示，截至7月底，各地發行隱性債務置換債券1.73萬億元，完成今年2萬元額度的86.7%，下半年還有2萬多億元的地方政府專項債和超長期特別國債待發行使用，能夠保障政策的強度。（新華財經）
+
+---
+
+### 2026-08-21 11:22:13  #其他
+
+塔塔汽車乘用車部門：不同車型及配置的漲價幅度將有所不同。
+
+---
+
+### 2026-08-21 11:21:33  #其他
+
+塔塔汽車乘用車部門：將從2026年9月1日起上調轎車與SUV售價。
+
+---
+
+### 2026-08-21 11:21:20  #其他
+
+塔塔汽車乘用車部門：燃油車和電動車型價格自2026年9月1日起上調至多25000盧比。
+
+---
+
+### 2026-08-21 11:19:27  #公司
+
+【東方精工、深圳國資等成立私募股權投資基金】企查查APP顯示，近日，深圳市富海重產私募股權投資基金合夥企業（有限合夥）成立，出資額2.5億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該公司由東方精工全資子公司海南省億能投資有限公司、深圳市重投資本管理有限公司等共同持股。
 
 ---
 
@@ -19946,29 +19994,5 @@ Jefferies raises Estée Lauder PT to $100 from $88.
 ### 2026-08-20 12:06:54  #公司
 
 【永嘉集團：2026年上半年虧損941.9萬港元，同比減虧83.2%】永嘉集團公告，2026年上半年持續經營業務收益16.31億港元，同比增長3.0%。期內虧損941.9萬港元，上年同期虧損5605.5萬港元，同比減虧83.2%。每股基本盈利0.5港仙（上年同期虧損3.4港仙）。董事會不建議派付中期股息。
-
----
-
-### 2026-08-20 12:05:08  #公司
-
-【中國電氣裝備集團西南公司成立，註冊資本20億元】企查查APP顯示，近日，中國電氣裝備集團西南有限公司成立，法定代表人為杜文釗，註冊資本為20億元，經營範圍包含：發電業務、輸電業務、供（配）電業務；電力設施器材製造；電工器材製造；電力電子元器件製造等。企查查股權穿透顯示，該公司由中國電氣裝備集團有限公司全資持股。
-
----
-
-### 2026-08-20 12:05:04  #Trading Economics #Economy #Malaysia #Imports YoY #Importance 1
-
-Malaysia Imports Rise More than Expected — Malaysia's imports rose 36.4% year-on-year to a record MYR 171.1 billion in July 2026, following a 43.9% jump in June, which marked the fastest growth since August 2022. The latest increase extended the streak of annual growth to 11 consecutive months, surpassing market estimates of a 32.4% rise, amid resilient domestic demand as economic activity stayed firm and business spending continued to support imports.
-
----
-
-### 2026-08-20 12:04:55  #公司
-
-【直擊WRC丨北京人形機器人正式釋出天工Omni，熊友軍此前表示Omni不會和其他廠商直接競爭】2026世界機器人大會（WRC 2026）期間，北京人形機器人創新中心正式釋出輕量化人形機器人天工Omni。據瞭解，其打通硬體本體與端側智慧，是全球首個兼具感知移動與全身通用控制的Humanoid Native開放底座。談及人形機器人在工廠等場景中的投入產出比問題，北京人形機器人創新中心CEO熊友軍坦言，現在人形機器人走入工廠等場景處於剛開始的階段。“當前人形機器人的ROI確實比工業機器人或者比人有一定差距，但是這個差距在很快速的縮小。”（新浪科技）
-
----
-
-### 2026-08-20 12:03:41  #MKT News #Important #Market Themes #China EV Leaders #Market Regions #Greater China #01952.HK #Impact bullish #06185.HK #01177.HK
-
-【Hong Kong midday: Hang Seng Tech +1.54% as biopharma rallies; CanSino +51%】Hong Kong stocks opened higher, recovered after an early dip; Hang Seng +1.14% at 25,786.32, Hang Seng Tech +1.54% at 4,754.13. Biopharma and oncology names led gains alongside gold and selective NEV names; shale gas and casual gaming lagged. Biggest moves: 01952.HK +68%; CanSino Biologics (06185.HK) +51%; China Biologic Products (01177.HK) +16%; CSPC PHARMA (01093.HK) +13.5%; Laopu Gold (06181.HK) +11%; MINIMAX-W (00100.HK), Cambridge Technology (06166.HK), Shandong Gold (01787.HK) > +8%; Chow Tai Fook (01929.HK) +7%; Li Auto (02015.HK) ~+6%. Kuaishou Technology (01024.HK) fell ~10% after results; 06683.HK down ~5%.
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 03:23:04_
-_本檔包含 2983 則快訊，約 633591 字_
+_更新時間：2026-08-24 03:51:10_
+_本檔包含 2972 則快訊，約 633300 字_
+
+---
+
+### 2026-08-18 08:56:56  #國際
+
+【超21萬加拿大民眾請願驅逐美國駐加大使】據加拿大國會眾議院網站公佈的資料，截至當地時間17日，超過21萬加拿大民眾實名聯署一項請願，要求驅逐美國駐加大使皮特·胡克斯特拉。請願書指認胡克斯特拉屢次發表損害加美關係的言論並干涉加拿大內政，包括將美國總統特朗普威脅吞併加拿大為美國“第51州”的言論“正常化”。請願書呼籲加拿大政府正式宣佈胡克斯特拉為“不受歡迎的人”，同時指派一個國會委員會對美國外交干涉加拿大內政的情況展開調查。請願書還要求就胡克斯特拉不符合《維也納外交關係公約》的行為模式向美方提出交涉。這項請願由來自加拿大卡爾加里的民眾發起。請願自7月21日開放簽署以來，聯署人數不到一個月就突破20萬人，成為國會自2015年設立電子請願系統以來關注度最高、簽名人數最多的請願之一。聯署時間定於11月18日截止。
+
+---
+
+### 2026-08-18 08:55:54  #MKT News #Commodities #Energy
+
+【China delivers 99,000 cbm ultra-large ethane/ethylene carrier】China has delivered a domestically developed and built 99,000 cubic metre ultra-large ethane/ethylene carrier to its owner on the 18th. The 230-metre vessel is configured to carry ethane, ethylene and liquefied petroleum gas (LPG); its technical specifications meet international-leading standards. Designed for long-haul voyages, the ship features lower fuel consumption and maintenance costs and is positioned as an economical, environmentally friendly transport solution for liquefied industrial and energy gases.
+
+---
+
+### 2026-08-18 08:55:31  #其他
+
+【8月17日444股獲融資買入超億元 中際旭創穫買入58.47億元居首】8月17日共有3518只個股獲融資資金買入，有444股買入金額超億元。其中，中際旭創、長鑫科技、兆易創新融資買入金額排名前三，分別獲買入58.47億元、42.83億元、42.34億元。
+
+---
+
+### 2026-08-18 08:54:38  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Slip on Surging Bond Yields — The Nikkei 225 Index fell 0.4% to below 69,000 on Tuesday, giving back some of the previous session’s gains as global bond yields surged amid persistent concerns over inflation and rising government spending. Japan’s benchmark 10-year government bond yield climbed to around 2.95%, its highest level in three decades, as mounting fiscal concerns and growing expectations of an imminent Bank of Japan interest rate hike weighed on sentiment. Notable declines came from technology and consumer stocks, including Tokyo Electron (-2.9%), Advantest (-1.7%), Lasertec (-1.6%), Fast Retailing (-1.3%) and Nintendo (-2.4%). In corporate news, Nvidia agreed to invest as much as $105 billion to support SB Energy, a SoftBank Group subsidiary developing a major data center project in Ohio for OpenAI.
+
+---
+
+### 2026-08-18 08:54:23  #國際
+
+【伊朗農業部長：將全力確保糧食安全】當地時間17日，伊朗農業部長古拉姆雷扎·努裡表示，有證據顯示，美國將糧食等生活物資也納入到對伊朗的戰爭範疇當中，伊朗將使用一切必要措施，確保本國糧食安全。努裡指出，長期以來，美國在人權、糧食安全、醫療等方面，均採取了雙重標準政策。近年來，伊朗始終受到敵對國家的惡意干擾，且美國等國將糧食安全也納入到對伊朗的戰爭範疇中。儘管目前美國對伊朗的封鎖還在持續，但伊朗將利用一切必要措施，確保本國糧食安全。
 
 ---
 
@@ -17907,101 +17937,5 @@ Al Jazeera reported Iran's parliament speaker said Iran must reach a level of de
 ### 2026-08-17 03:53:05  #MKT News
 
 【Attorney General Todd Blanch says he will disagree with president on legal matters, declines to promise DOJ will always be independent of White House】Politico reported Attorney General Todd Blanch said on Sunday he is willing to disagree with the president on legal matters and that Trump expects cabinet members to differ when necessary. Asked whether he would refuse the president’s preferred course if his legal view differed, Blanch said, "I think he would expect me to tell him 'no.'" He declined to commit that the Justice Department will "always act independent of the White House," adding, "No, I will not make that promise, and no attorney general should make that promise."
-
----
-
-### 2026-08-17 03:45:23  #國際
-
-【布蘭奇拒絕承諾司法部將獨立於特朗普運作】美國司法部長託德·布蘭奇拒絕承諾司法部將獨立於白宮運作，並表示他會將特朗普總統對個別起訴案件的觀點納入考量。在週日接受採訪被問及司法部是否會“始終獨立於”白宮行事時，布蘭奇回答：“不，我不會做出這種承諾。”他補充道：“沒有任何一位司法部長應該做出這種承諾。”
-
----
-
-### 2026-08-17 03:40:59  #公司
-
-【Stripe接近達成超70億美元收購AI公司OpenRouter的協議】據知情人士透露，支付處理公司Stripe Inc.已敲定協議，將以超過70億美元的價格收購OpenRouter Inc.。這筆交易凸顯了企業尋找最具成本效益的AI解決方案的迫切需求，同時也可能為Stripe在快速發展的AI領域奠定更堅實的基礎。OpenRouter提供數百種AI模型的訪問許可權，旨在為開發者匹配最高效、最經濟適用的模型選項。
-
----
-
-### 2026-08-17 03:37:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Fars News: Iran’s Islamic Revolutionary Guard Corps political deputy commander said IRGC actions so far have been defensive but could shift to offensive in future. He said Iran’s armed forces will adopt a transformative strategy and will take any measures necessary to defend the country.
-
----
-
-### 2026-08-17 03:36:48  #市場
-
-美元在悉尼早盤交易中兌主要貨幣走勢趨於穩定。
-
----
-
-### 2026-08-17 03:34:58  #其他
-
-阿曼國家通訊社：阿曼拉斯馬德拉卡地區約有12公里的海岸線受到了石油汙染的影響。
-
----
-
-### 2026-08-17 03:34:38  #國際
-
-以色列軍方：為回應以軍在“安全區”內計程車兵遭襲，以軍對黎巴嫩南部的真主黨基礎設施發動了打擊。
-
----
-
-### 2026-08-17 03:34:24  #國際
-
-烏克蘭總統澤連斯基：烏軍襲擊了位於烏斯季盧加的一處俄羅斯石油設施。
-
----
-
-### 2026-08-17 03:33:40  #其他
-
-英國海事貿易行動辦公室（UKMTO）表示，週五在霍爾木茲海峽，一艘散貨船被擊中。船員均報告安全，但目前尚未收到損失評估報告，環境影響尚不明確。
-
----
-
-### 2026-08-17 03:32:30  #其他
-
-訊息人士透露，Anthropic預計2028年營收將達到1900億至2000億美元。華爾街正利用2028年的營收預測以及企業價值/營收倍數（EV-to-Revenue）來為其IPO進行估值。
-
----
-
-### 2026-08-17 03:28:22  #MKT News
-
-cenc reported a magnitude 3.6 earthquake at 03:23 on Aug 17 in Longchang, Neijiang, Sichuan (29.22N, 105.21E); depth 8 km.
-
----
-
-### 2026-08-17 03:26:10  #宏觀 #國際
-
-【哈馬斯政治局主席訪問埃及 討論加沙地帶局勢】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）16日發表宣告稱，哈馬斯政治局主席哈利勒·哈亞當天在埃及開羅與埃及情報總局局長哈桑·拉沙德舉行會晤。雙方重點討論了約旦河西岸和加沙地帶的最新動態。宣告還稱，哈馬斯向埃及方面通報了以色列近期的違規行為，指責以方不斷採取行動升級局勢。哈馬斯重申必須制止以方此類行動，並呼籲地區及國際社會立即採取緊急干預措施。（央視新聞）
-
----
-
-### 2026-08-17 03:26:04  #MKT News
-
-【Hamas political bureau chief meets Egypt intelligence chief in Cairo to discuss Gaza, West Bank】Hamas said on the 16th its political bureau chief Khalil al-Hayya met in Cairo with Egyptian General Intelligence chief Hassan Rashad to discuss recent developments in the West Bank and Gaza. Hamas informed Egyptian officials of what it described as recent Israeli violations, accused Israel of escalating the situation and called for immediate regional and international intervention.
-
----
-
-### 2026-08-17 03:25:03  #國際
-
-【韓國將重啟親日反民族行為者財產追繳】據韓國方面16日訊息，法律界訊息人士稱，韓國《親日反民族行為者財產的國家歸屬等相關特別法》將於12月正式施行。這是韓國時隔16年後，重啟在國家層面上對親日反民族行為者財產進行追繳的工作。據相關訊息，負責追繳工作的“親日反民族行為者財產調查委員會”已於今年6月開始籌備組建，並將於12月正式啟動追繳工作。2005年，韓國國會曾透過相關法律，將反民族行為者在日本殖民統治時期透過親日行為取得的財產納入國家追繳範圍。隨後成立“親日反民族行為者財產調查委員會”，但該委員會在2010年任期屆滿後被解散。（央視新聞）
-
----
-
-### 2026-08-17 03:24:53  #其他
-
-中國地震臺網自動測定：08月17日03時23分在四川內江市隆昌市附近（北緯29.23度，東經105.22度）發生3.6級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-17 03:24:23  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-【Israeli strikes have killed 4,346 in Lebanon】Lebanon's Public Health Ministry emergency operations center said on Aug 16 that Israeli airstrikes and attacks from March 2 through Aug 16 have killed 4,346 people and injured 12,301.
-
----
-
-### 2026-08-17 03:24:13  #國際
-
-美伊諒解備忘錄將於週一到期，目前幾乎沒有達成最終協議的跡象。伊朗首席談判代表卡利巴夫稱這是一次外交上的“勝利”，並表示美國和以色列未能實現其戰爭目標。
 
 ---

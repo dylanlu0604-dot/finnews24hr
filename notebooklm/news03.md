@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 03:23:04_
-_本檔包含 3157 則快訊，約 633442 字_
+_更新時間：2026-08-24 03:51:10_
+_本檔包含 3157 則快訊，約 633299 字_
+
+---
+
+### 2026-08-20 12:05:08  #公司
+
+【中國電氣裝備集團西南公司成立，註冊資本20億元】企查查APP顯示，近日，中國電氣裝備集團西南有限公司成立，法定代表人為杜文釗，註冊資本為20億元，經營範圍包含：發電業務、輸電業務、供（配）電業務；電力設施器材製造；電工器材製造；電力電子元器件製造等。企查查股權穿透顯示，該公司由中國電氣裝備集團有限公司全資持股。
+
+---
+
+### 2026-08-20 12:05:04  #Trading Economics #Economy #Malaysia #Imports YoY #Importance 1
+
+Malaysia Imports Rise More than Expected — Malaysia's imports rose 36.4% year-on-year to a record MYR 171.1 billion in July 2026, following a 43.9% jump in June, which marked the fastest growth since August 2022. The latest increase extended the streak of annual growth to 11 consecutive months, surpassing market estimates of a 32.4% rise, amid resilient domestic demand as economic activity stayed firm and business spending continued to support imports.
+
+---
+
+### 2026-08-20 12:04:55  #公司
+
+【直擊WRC丨北京人形機器人正式釋出天工Omni，熊友軍此前表示Omni不會和其他廠商直接競爭】2026世界機器人大會（WRC 2026）期間，北京人形機器人創新中心正式釋出輕量化人形機器人天工Omni。據瞭解，其打通硬體本體與端側智慧，是全球首個兼具感知移動與全身通用控制的Humanoid Native開放底座。談及人形機器人在工廠等場景中的投入產出比問題，北京人形機器人創新中心CEO熊友軍坦言，現在人形機器人走入工廠等場景處於剛開始的階段。“當前人形機器人的ROI確實比工業機器人或者比人有一定差距，但是這個差距在很快速的縮小。”（新浪科技）
+
+---
+
+### 2026-08-20 12:03:41  #MKT News #Important #Market Themes #China EV Leaders #Market Regions #Greater China #01952.HK #Impact bullish #06185.HK #01177.HK
+
+【Hong Kong midday: Hang Seng Tech +1.54% as biopharma rallies; CanSino +51%】Hong Kong stocks opened higher, recovered after an early dip; Hang Seng +1.14% at 25,786.32, Hang Seng Tech +1.54% at 4,754.13. Biopharma and oncology names led gains alongside gold and selective NEV names; shale gas and casual gaming lagged. Biggest moves: 01952.HK +68%; CanSino Biologics (06185.HK) +51%; China Biologic Products (01177.HK) +16%; CSPC PHARMA (01093.HK) +13.5%; Laopu Gold (06181.HK) +11%; MINIMAX-W (00100.HK), Cambridge Technology (06166.HK), Shandong Gold (01787.HK) > +8%; Chow Tai Fook (01929.HK) +7%; Li Auto (02015.HK) ~+6%. Kuaishou Technology (01024.HK) fell ~10% after results; 06683.HK down ~5%.
 
 ---
 
@@ -19026,29 +19050,5 @@ Indian media reported on the 19th that an early-morning fire at a hotel in Kolka
 ### 2026-08-19 11:38:13  #MKT News
 
 Thailand Federation of Industries says industrial confidence index rose to 90.0 in July from 88.2 in June.
-
----
-
-### 2026-08-19 11:37:29  #資料 #國際
-
-泰國工業聯合會：7月泰國工業信心指數為90.0，6月為88.2。
-
----
-
-### 2026-08-19 11:35:20  #MKT News #Important #Market Themes #Chip Wars #SSE Composite #Impact bearish #SZSE Component
-
-【A-shares midday: ChiNext down nearly 5%; over 4,900 stocks decline】Shanghai Composite -1.96% at midday, Shenzhen Composite -3.97%, ChiNext Index -4.98%. STAR 50 Index tumbled 6.07%. Shanghai- and Shenzhen-listed turnover was CNY1.62 trillion, down CNY18.2 billion from the previous session. More than 4,900 stocks fell. IPO Yushu Technology surged 486.12% on debut, with turnover above CNY17.7 billion. Humanoid-robot names led losses: Shangwei New Materials -18.75%; Jiangsu Beiren, Phoenix Precision, Lvde Xiebo, Changsheng Bearing and more than 20 others fell over 10%. MLCC, CPO and memory-chip sectors underperformed; multiple names including Shengke Communication, Xinyuan Co., Shengong, Xice Testing, Shengmei Shanghai and Huahong Hongli dropped more than 10%. Coal stocks rallied — Baotailong, Shaanxi Black Cat, Suda, Dayou Energy and Meijin Energy hit the daily upper limit. Banks bucked the market: China CITIC Bank +4%; Agricultural Bank of China, Bank of Nanjing, Bank of Chengdu, Chongqing Rural Commercial Bank and Bank of Chongqing also rose. Shandong Gold jumped about 6%.
-
----
-
-### 2026-08-19 11:33:11  #國際
-
-據印度媒體19日報道，印度東部城市加爾各答一家酒店當天凌晨發生火災，已造成9人死亡，另有數人受傷。（新華社）
-
----
-
-### 2026-08-19 11:32:43  #MKT News #3988.HK #Impact bullish #1398.HK #3328.HK
-
-【Henan superhard‑materials firms seek targeted financing at Xuchang industry‑bank matchmaking】Local superhard‑materials manufacturers pitched financing needs at an industry‑finance matchmaking event in Xuchang hosted by Huanghe Xuanfeng Co., Ltd. Zhongyuan Bank, Bank of China, Industrial & Commercial Bank of China (ICBC), Bank of Communications and asset manager Zhongding Kaiyuan Fund promoted sci‑tech loans and manufacturing‑specific lending, conducted one‑on‑one project meetings, and signalled intent to expand cooperation with participating firms.
 
 ---
