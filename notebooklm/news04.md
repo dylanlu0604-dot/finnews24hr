@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 16:45:12_
-_本檔包含 3162 則快訊，約 641324 字_
+_更新時間：2026-08-23 17:32:01_
+_本檔包含 3155 則快訊，約 640779 字_
+
+---
+
+### 2026-08-19 10:21:51  #其他 #焦點
+
+【上海：聚焦算力等重點領域創新，形成以張江核心園等為示範引領的人工智慧先導產業叢集】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。
+
+---
+
+### 2026-08-19 10:21:13  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+USD/CAD fell to 1.3877 after Trump suspended additional tariffs.
+
+---
+
+### 2026-08-19 10:20:17  #其他
+
+【東方證券：AI4S正賦能多學科與產業 從基礎模型、算力底座到產業落地 】東方證券釋出研報稱，目前AI4S已覆蓋生命科學、地球科學、能源材料等領域，但行業滲透率偏低，未來有望邁入規模化價值變現新階段。AI4S正賦能多學科與產業，包括生物醫藥、材料能源、工業模擬、氣象環境、農業育種等賽道。AI4S的快速發展和迭代進步，在科學模型側、算力基礎設施建設與運營、以及產業應用側帶來了投資機會。AI4S是指以人工智慧手段輔助或獨立完成科學研究任務的一種新模式，可全流程重塑科研體系、突破傳統科研瓶頸，被視作繼實驗、理論、計算、資料科學之後的科研第五正規化。
+
+---
+
+### 2026-08-19 10:20:07  #宏觀
+
+【國臺辦：臺灣民眾來大陸完全不需要擔心有什麼風險】國務院臺辦舉行例行新聞釋出會。有記者問：《國務院關於出境入境管理的規定》將於9月15日施行。陸委會對此稱，這類規定可能影響在大陸投資或工作的科技業及半導體業臺商、臺籍幹部、從業者，應做好風險評估。有少數臺灣民眾受其誤導，擔心進出大陸會有風險。請問對此有何評論？發言人朱鳳蓮表示，臺灣民眾來大陸完全不需要擔心有什麼風險。國務院關於出境入境管理的規定是為了規範出境入境管理，保障出境入境人員的合法權益，維護國家主權、安全、發展利益。《規定》主要是健全出境安全風險防範制度，明確出境入境申請事由應當真實合法，規範出境入境中介服務等。該規定有利於維護兩岸民眾往來的合法權益，為臺灣同胞來大陸營造更好的法治環境。
+
+---
+
+### 2026-08-19 10:20:01  #MKT News #Market Regions #Greater China
+
+【Shanghai issues Zhangjiang High‑Tech Park 15th Five‑Year plan】Shanghai Science and Technology Commission issued the Zhangjiang High‑Tech Industrial Development Zone 15th Five‑Year Plan, targeting decisive progress by 2030 toward a world‑leading science park. The plan keeps a high‑tech orientation and aims to significantly strengthen Zhangjiang’s role as a source of technological innovation, improve mechanisms for high‑tech transfer and industrialization, and incubate three innovation‑source hubs. Zhangjiang Science City is targeted to become an international‑class science city with concentrated tech factors, a strong scientific profile and a vibrant innovation ecosystem. Policy will push specialty development: strengthen high‑end industry leadership, implement “one park, one specialty” sub‑park differentiation, and cultivate a set of benchmark tech leaders. The three leading industries’ industrial gross output is set to remain above 80% of the city’s total; emerging pillar industries are to scale and cluster, and future industries are expected to become new growth drivers. The plan targets park industrial value added to exceed 20% of the park’s GDP.
+
+---
+
+### 2026-08-19 10:19:51  #其他
+
+【《上海張江高新技術產業開發區發展“十五五”規劃》釋出】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，到2030年，世界領先科技園區建設取得決定性進展，成為主導產業凸顯、專業服務完善、空間相對集中、生態充滿活力的高質量園區。堅持高新定位，科技創新策源功能顯著增強，高新技術成果轉化和產業化機制更加完善，湧現3個具有創新策源意義的科創“核爆點”。張江科學城成為科學特徵明顯、科技要素集聚、環境人文生態、充滿創新活力的國際一流科學城。堅持特色發展，高階產業引領功能顯著增強，“一園一特色”進一步凸顯，培育一批具有標杆示範意義的科技領軍企業，三大先導產業工業總產值全市佔比保持在80%以上，新興支柱產業規模化、叢集化發展，未來產業成為新的經濟增長點，園區工業增加值佔園區地區生產總值比重超過20%。
+
+---
+
+### 2026-08-19 10:19:44  #市場 #國際
+
+特朗普暫停加徵關稅後，美元兌加元下跌0.2%，至1.3877。
+
+---
+
+### 2026-08-19 10:18:49  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #DXY #Impact bullish #XAUUSD
+
+ChiNext Index fell 4.0%, Shenzhen Composite fell 3.3%, Shanghai Composite fell 1.79% and the STAR 50 Index fell 4.8%. More than 4,900 stocks declined, led by losses in MLCC, CPO, memory-chip and humanoid robotics sectors.
+
+---
+
+### 2026-08-19 10:18:47  #市場 #焦點
+
+現貨黃金突破4360美元/盎司，日內漲0.60%。
+
+---
+
+### 2026-08-19 10:18:32  #市場 #焦點
+
+創業板指跌4％，上證指數跌1.79％，深證成指跌3.33％。全市場超4900只個股下跌，MLCC概念、CPO板塊、儲存晶片、人形機器人板塊跌幅居前。
+
+---
+
+### 2026-08-19 10:18:11  #MKT News
+
+President Trump says Canada and the United States have reached an agreement, pending finalization of the documentation.
+
+---
+
+### 2026-08-19 10:17:33  #公司
+
+【通鼎互聯等成立科技新公司，含半導體器件相關業務】企查查APP顯示，近日，四川鼎啟芯測科技有限公司成立，經營範圍包含：智慧儀器儀表製造；智慧儀器儀表銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由通鼎互聯等共同持股。
+
+---
+
+### 2026-08-19 10:17:32  #MKT News #Important #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
+
+President Trump said he has suspended plans to impose a 50% tariff on Canada.
+
+---
+
+### 2026-08-19 10:17:17  #國際
+
+特朗普：基斯通XL輸油管道或可“起死回生”。
+
+---
+
+### 2026-08-19 10:17:06  #焦點 #國際
+
+特朗普暫停對加拿大加徵50%關稅三天時間。
+
+---
+
+### 2026-08-19 10:16:57  #國際
+
+特朗普表示：加拿大與美國已達成協議，有待最終敲定文字。
+
+---
+
+### 2026-08-19 10:16:55  #MKT News
+
+China A-share coal mining and processing sector advanced; Shaanxi Black Cat hit limit-up. Meijin Energy, Dayou Energy and Baotailong earlier hit limit-up. Antai Group, Yunmei Energy, Zhengzhou Coal & Power, Shanxi Coking and Haohua Energy also gained.
+
+---
+
+### 2026-08-19 10:16:38  #公司 #市場
+
+【煤炭開採加工板塊走高，陝西黑貓漲停】煤炭開採加工板塊走高，陝西黑貓漲停，美錦能源、大有能源、寶泰隆此前封板，安泰集團、雲煤能源、鄭州煤電、山西焦化、昊華能源等跟漲。
+
+---
+
+### 2026-08-19 10:16:30  #其他
+
+港股晶片股走低，天數智芯、華虹宏力跌超10%，芯智控股跌超7%，兆易創新跌近7%。
+
+---
+
+### 2026-08-19 10:15:28  #MKT News #Important #Market Themes #Chip Wars #09903.HK #Impact bearish #01347.HK #Hang Seng Index
+
+Hong Kong-listed chip stocks slid: 09903.HK down 11%, 01347.HK off more than 10%, 02166.HK down over 7%, and 03986.HK down 6.8%.
+
+---
+
+### 2026-08-19 10:15:17  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Increases by 0.46% — Top currency gainers are South Korean Won (0.46%) and Japanese Yen (0.14%). Meanwhile Chinese Yuan was little changed.
 
 ---
 
@@ -18948,182 +19074,5 @@ Energy Commodities Updates: Heating Oil Rises by 3.83% — Top commodity gainers
 ### 2026-08-18 06:21:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
 
 【U.S.-Iran standoff persists; oil up about 3% on bleak talks outlook】International crude rose about 3% on Monday as prospects for a U.S.-Iran deal dimmed. President Trump said he does not intend to extend a U.S.-Iran memorandum of understanding signed in June that technically expired on Monday. Major disagreements remain, including over the Strait of Hormuz. Other U.S. officials signaled Washington is not in a hurry to end the nearly six-month confrontation. The U.S. Energy Secretary described U.S. policy toward the Islamic Republic as a long-term game, and senior adviser Jared Kushner said Trump will be patient on any agreement.
-
----
-
-### 2026-08-18 06:20:24  #宏觀 #公司 #市場 #國際
-
-【8月18日隔夜要聞一覽】
-1、美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。
-2、美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。
-3、美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。
-4、8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。
-5、國際油價17日上漲。紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。
-6、海事資料顯示，一艘屬於阿聯酋公司的油輪在穿越霍爾木茲海峽時，在格什姆島附近被攔截。
-7、一名伊朗高階官員說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。
-8、美國總統特朗普的女婿庫什納見內塔尼亞胡，尋求推進“加沙和平計劃”。
-9、谷歌以1000萬美元報價收購精神航空海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。
-
----
-
-### 2026-08-18 06:19:31  #國際
-
-市場訊息：美國要求韓國首輪投資投向儲存晶片。
-
----
-
-### 2026-08-18 06:18:23  #公司
-
-【權益類公募倉位再抬升，電子行業獲增持幅度最大】近期A股市場震盪分化，權益類公募基金在保持較高倉位的同時，行業配置進一步調整。資料顯示，截至8月14日，公募權益類基金整體倉位升至94.42%，較前一週提高0.08個百分點，保持歷史中位偏高水平。從行業變化來看，電子成為當週主動增持幅度最大的行業，而通訊、電力裝置、建築材料等板塊受到不同程度的主動減持。 多家基金公司認為，隨著8月下旬進入半年報密集披露期，市場定價重心正逐步從情緒和估值修復轉向業績兌現。在高倉位背景下，公募後續操作或更多體現為持倉結構最佳化。科技仍是機構關注的重要方向，但配置範圍正在進一步收斂，逐步聚焦至儲存、光通訊、半導體裝置、電源及液冷等細分環節。（上證報）
-
----
-
-### 2026-08-18 06:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Rises by 0.38% — Top currency gainers are Brazilian Real (0.38%), Norwegian Krone (0.31%), Australian Dollar (0.30%), Euro (0.08%) and British Pound (0.07%). Biggest losers are Japanese Yen (-0.09%) and Dollar Index (-0.08%).
-
----
-
-### 2026-08-18 06:15:10  #國際
-
-【資料顯示霍爾木茲海峽和曼德海峽航運活動持續低迷】當地時間8月17日獲悉，在美伊衝突持續數月後，中東兩條重要航運通道的船舶通行量仍處於低位。全球船舶實時追蹤與海事資料平臺“海事交通”（MarineTraffic）的資料顯示，過去24小時內，至少有3艘商業船舶透過霍爾木茲海峽。戰爭爆發前，平均每天約有110艘船透過該水道。此外，過去24小時內，至少有37艘商業船舶透過曼德海峽。（央視新聞）
-
----
-
-### 2026-08-18 06:14:11  #其他
-
-【8月以來兩融餘額回升700多億元，機構：市場進入情緒修復通道】8月以來，滬深北三市兩融餘額一度連續8個交易日回升，累計反彈超過700億元。8月14日，兩融餘額微降18.59億元，連增態勢暫告段落。與7月相比，兩融資金回補節奏相對溫和，結構上較此前科技板塊集中出逃前更趨均衡。業內普遍認為，槓桿資金快速撤離的階段已過，市場處於情緒修復初期，中長期配置型資金並未離場，後續反彈需要賺錢效應進一步催化。（上證報）
-
----
-
-### 2026-08-18 06:11:00  #公司 #國際
-
-【嘉吉年度收益上升，市場波動利好交易業務】美國最大的私營企業嘉吉公司（Cargill）報告年度調整後收益上升，這家糧食貿易商在地緣政治動盪引發的市場波動中獲益。經審計年度賬目顯示，這家總部位於明尼阿波利斯的公司報告，截至5月31日的財年中，調整後營業利潤同比增長10%至38億美元。由於資產減值和重組費用等一次性專案，淨利潤出現下滑。該公司還將支付給股東的股息縮減至8.65億美元，而去年曾創下近15億美元的歷史最高分紅紀錄。營收同比增長6.5%至1640億美元。
-
----
-
-### 2026-08-18 06:08:36  #央行
-
-紐西蘭聯儲圍繞支付系統建議公開徵求意見。該央行將考慮系統結構性現代化的必要性。
-
----
-
-### 2026-08-18 06:05:31  #公司
-
-嘉吉集團年度營業利潤在市場動盪背景下實現增長。
-
----
-
-### 2026-08-18 06:00:36  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
-
----
-
-### 2026-08-18 05:56:54  #MKT News
-
-Iran's Fars News reports a fuel tank fire and explosion in Sulaymaniyah, Iraq's Kurdistan Region.
-
----
-
-### 2026-08-18 05:56:39  #宏觀
-
-巴西財政部長：認為市場對財政方面的擔憂合乎情理，盧拉政府若當選，需解決財政方面的擔憂。
-
----
-
-### 2026-08-18 05:44:43  #公司
-
-布魯克菲爾德提出以每股 4.75 澳元現金收購信實環球公司。
-
----
-
-### 2026-08-18 05:40:15  #MKT News #S&P500 #Impact mixed #DXY #US10Y
-
-【US, Canada working to bridge differences on potential auto-tariff cut, sources say】Three sources said on Monday the US and Canada are negotiating a possible cut to US auto tariffs from 25% to 15% after deducting some value content. If no deal is reached by a Wednesday deadline, the US will impose heavy new tariffs on US$20 billion of other Canadian goods. US officials propose the 15% tariff would exclude only US domestic value; Canadian officials want to exclude all North American content, including parts from Canada and Mexico. Auto industry officials said a broader regional-content deduction could cut the effective tariff on North American-made cars to the low single digits, well below the 15% applied to imports from Japan, Korea and the EU and the 10% tariff on most UK cars.
-
----
-
-### 2026-08-18 05:39:14  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Turkish President Erdogan told U.S. President Trump that Israel is attacking Palestinians in Gaza and that the second phase of the peace plan was supposed to take effect now.
-
----
-
-### 2026-08-18 05:37:44  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-ERDOGAN told US President Trump that continued dialogue with Iran to make full use of diplomatic channels is important, and that Turkey is prepared to contribute.
-
----
-
-### 2026-08-18 05:37:38  #國際
-
-土耳其總統埃爾多安告知特朗普，本應啟動和平計劃第二階段之際，以色列卻正在加沙地帶襲擊巴勒斯坦民眾。
-
----
-
-### 2026-08-18 05:37:11  #國際
-
-土耳其總統埃爾多安告知特朗普，繼續與伊朗對話以發揮外交手段的作用十分重要，土耳其願意為此出力。
-
----
-
-### 2026-08-18 05:36:48  #MKT News
-
-Turkish President Erdogan and U.S. President Trump discussed bilateral relations, the conflicts in Iran and Gaza, and defense agreements with Pakistan and Saudi Arabia.
-
----
-
-### 2026-08-18 05:35:33  #MKT News
-
-Turkish President Erdogan held a phone call with U.S. President Trump; they discussed bilateral ties and regional and global developments.
-
----
-
-### 2026-08-18 05:35:20  #國際
-
-土耳其埃爾多安與特朗普討論雙邊關係、伊朗及加沙戰事，以及同巴基斯坦、沙烏地阿拉伯的防務協議。
-
----
-
-### 2026-08-18 05:26:33  #MKT News
-
-A U.S. judge blocked the Trump administration’s plan to relocate the new FBI headquarters from Maryland to Washington, D.C.
-
----
-
-### 2026-08-18 05:26:07  #國際
-
-美國法官阻止特朗普政府將聯邦調查局新總部選址從馬里蘭州遷至華盛頓特區的計劃。
-
----
-
-### 2026-08-18 05:25:53  #其他
-
-【委內瑞拉強震已致6438人死亡】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯在社交媒體發文稱，在6月24日地震中遇難的人數已升至6438人。羅德里格斯在社交媒體上釋出的訊息顯示，已有6462人獲救，超過8.6萬人曾在醫院接受治療。6月24日晚，委內瑞拉發生百餘年來最強地震，一分鐘內出現兩次7級以上強震。 (央視新聞)
-
----
-
-### 2026-08-18 05:24:54  #MKT News #Commodities #Energy
-
-A top Petrobras executive said oil recovered from Amazon-region drilling appears to be of high quality but requires further analysis. The company has identified locations for the next three wells in the Amazon region.
-
----
-
-### 2026-08-18 05:23:59  #其他
-
-美加貿易談判因汽車關稅問題陷入僵局。
-
----
-
-### 2026-08-18 05:23:45  #公司
-
-勘探生產部門主管表示，巴西國家石油公司（Petrobras）已確定亞馬遜河口後續三口鑽井的選址。
-
----
-
-### 2026-08-18 05:22:57  #公司
-
-勘探生產部門主管表示，巴西國家石油公司（Petrobras） 在亞馬遜河口鑽井發現的石油前景十分可觀，但仍需開展進一步分析。
 
 ---

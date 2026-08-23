@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 16:45:12_
-_本檔包含 3341 則快訊，約 641310 字_
+_更新時間：2026-08-23 17:32:01_
+_本檔包含 3345 則快訊，約 640710 字_
+
+---
+
+### 2026-08-21 10:34:52  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+【China finance ministry broadens interest-subsidy coverage to include credit-card installments for car purchases, renovations】China's Ministry of Finance said fiscal-financial measures to boost domestic demand have been refined and will take effect Aug. 1. The interest-subsidy scheme will now cover newly issued working-capital loans within the existing loan-subsidy framework for small and micro enterprises, and will extend subsidies to newly incurred credit-card installment consumption — explicitly including car purchases and home renovations — allowing consumers using credit-card installment plans to receive interest subsidies.
+
+---
+
+### 2026-08-21 10:34:42  #公司
+
+市場訊息：君正股份擬將香港IPO定價為每股100港元。
+
+---
+
+### 2026-08-21 10:34:10  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+A-share battery sector rallied; Tianhua New Energy rose more than 10%, while Tianhong Lithium, Liwang Co., Wuhan Landian, Hunan Yuneng and Lijia Technology also advanced.
+
+---
+
+### 2026-08-21 10:33:07  #公司
+
+【電池板塊異動走高，天華新能漲超10%】電池板塊異動走高，天華新能漲超10%，天宏鋰電、力王股份、武漢藍電、湖南裕能、力佳科技等跟漲。
+
+---
+
+### 2026-08-21 10:32:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Data show vessel transits through the Strait of Hormuz slowed from the previous day and remain at single-digit levels.
+
+---
+
+### 2026-08-21 10:32:37  #公司
+
+【神火集團等在雲南成立礦業公司】企查查APP顯示，近日，雲南神鋁礦業有限公司成立，法定代表人為李世雙，註冊資本為1000萬元，經營範圍包含：礦產資源勘查；非煤礦山礦產資源開採；金屬與非金屬礦產資源地質勘探；礦物洗選加工等。企查查股權穿透顯示，該公司由河南神火集團有限公司、雲南有色三0六勘察工程有限公司等共同持股。
+
+---
+
+### 2026-08-21 10:32:24  #央行 #宏觀
+
+【財政部：財政金融協同促內需政策已經最佳化完善 8月1日起實施】今天上午，國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會。財政部有關負責人介紹，財政金融協同促內需政策已經最佳化完善，並從8月1日開始實施。據介紹，最佳化完善後的財政金融協同促內需政策，主要包括三個新舉措：第一，拓寬貼息範圍。在先前固定資金貸款基礎上，將新發放的流動資金貸款納入中小微企業貸款貼息政策範圍；更好貼近大眾消費習慣，將包括購車、裝修在內新發生的各類信用卡分期消費都納入政策支援範圍，按此，消費者只要是用信用卡分期方式進行消費，都可以享受貼息優惠。第二，增加經辦機構。進一步擴大中小微企業貸款貼息、服務業經營主體貸款貼息經辦機構範圍，從此前的約100家增加至約400家，包括21家全國性銀行和金融監管評級3A及以上的城商行、農村合作金融機構、民營銀行、外資銀行，廣泛覆蓋城鄉經營主體。第三，提高額度上限。將享受政策的中小微企業貼息貸款規模上限由5000萬元提高至7500萬元，將享受政策的服務業經營主體貼息貸款規模上限由1000萬元提高至2000萬元；將享受政策的個人消費貸款貼息上限由3000元提高至5000元，以更好滿足經營主體投資、消費需求。財政部副部長廖岷表示，結合經濟發展需要，我們正在繼續研究制定新政策新舉措，並於今年下半年推出。同時，強化統籌協調，我們將與央行、金融管理部門一道，推動財政金融聯動的常態化、長效化。我們期待，這些政策能夠進一步增加企業和居民的獲得感。
+
+---
+
+### 2026-08-21 10:31:32  #市場
+
+紐約期銀日內漲1%，現報69.59美元/盎司。
+
+---
+
+### 2026-08-21 10:30:06  #MKT News #Important #CSI300 #Impact bullish #Copper #Hang Seng Index
+
+【China optimizes fiscal-financial policies to boost domestic demand】China's Ministry of Finance vice minister Liao Min said at a State Council Information Office briefing on Aug 21 that fiscal-financial coordination policies to stimulate domestic demand have been optimized. The package includes three changes: widening interest-subsidy coverage, increasing implementing agencies, and raising ceiling limits. The ministry is studying further measures and plans to roll them out in H2.
+
+---
+
+### 2026-08-21 10:29:00  #宏觀
+
+【財政金融協同促內需政策已最佳化完善】財政部副部長廖岷8月21日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，按照7月30日召開的中共中央政治局會議部署，結合前期政策執行情況和調研中各方意見，已對財政金融協同促內需政策作了最佳化完善。具體來說，主要是三個新的舉措：拓寬貼息範圍、增加經辦機構、提高額度上限。結合經濟發展需要，財政部正在繼續研究制定新政策新舉措，並於今年下半年推出。（新華社）
+
+---
+
+### 2026-08-21 10:28:45  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish
+
+NZD/USD up 0.5% at 0.5973.
+
+---
+
+### 2026-08-21 10:27:46  #公司
+
+【WRC期間智平方達成兩項簽約合作】WRC期間，具身智慧企業智平方達成兩項簽約合作。8月20日，智平方與康龍化成（300759.SZ / 3759.HK）正式簽署戰略合作協議，雙方將圍繞具身智慧在生命科學與醫藥研發領域的應用展開合作。此外，智平方與北京三元食品股份有限公司、中億（深圳）具身智慧科技有限公司三方在大會現場簽署戰略合作框架協議，探索將具身智慧愛寶機器人應用於三元食品的生產車間、倉儲庫房等核心工業場景，承擔物料分揀、搬運等高重複性要求的工作。
 
 ---
 
@@ -20132,53 +20204,5 @@ Refinitiv shipping-traffic data for the Strait of Hormuz show the US-Iran geopol
 ### 2026-08-20 10:29:23  #公司 #觀點
 
 【大摩：維持小米“增持”評級，預期下半年智慧手機毛利率將保持韌性】摩根士丹利發表報告指，小米集團次季經調整純利62.19億元，環比升2%。智慧手機業務收入及毛利率均顯著優於該行預期。管理層表示儲存器價格升幅於下半年將趨於正常化，有望減少對智慧手機毛利率的負面影響。該行預期下半年智慧手機毛利率將保持韌性，成為正面驚喜及重估催化劑。大摩維持小米“增持”評級，目標價32港元。
-
----
-
-### 2026-08-20 10:29:03  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Strongest Since 2023 — The offshore yuan strengthened to around 6.72 per dollar on Thursday, extending overnight gains and reaching its strongest level since February 2023, as persistent weakness in the US dollar continued to support Asian currencies. The greenback remained under pressure as expectations for further Fed rate hikes eased, while the announcement of expanded bond buybacks boosted demand for longer-dated Treasuries and weighed on the dollar. However, gains in the yuan were tempered by a softer-than-expected fixing, with the PBOC setting the daily midpoint at 6.7808 per dollar, signaling authorities' continued preference for a measured pace of currency appreciation. On the monetary policy front, the central bank kept its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The one-year loan prime rate (LPR) was held at 3.0%, while the five-year LPR remained at 3.5%, reflecting policymakers' cautious approach amid lingering domestic and external uncertainties.
-
----
-
-### 2026-08-20 10:29:01  #其他
-
-【網路資料安全新規今起施行 公安部有關負責人答問】由國家網際網路資訊辦公室、工業和資訊化部、公安部三部門制定的《網路資料安全風險評估辦法》於2026年8月20日起施行，公安部有關負責人就其實施有關事項回答了記者提問。問1：如何申請網路資料安全風險評估服務認證？答：《網路資料安全風險評估辦法》第八條規定：“鼓勵相關評估機構透過認證。評估機構的認證按照《中華人民共和國認證認可條例》的有關規定執行”。國家網信辦資料與技術保障中心、公安部第三研究所、泰爾認證中心有限公司等認證機構，已向國家認證認可監督管理委員會備案《資料安全風險評估服務認證規則》，相關認證機構將依據認證規則和有關標準規範實施認證。評估機構可向上述認證機構申請服務認證。問2：公安機關在網路資料安全風險評估工作中承擔哪些法定職責？具體有哪些落實舉措？答：依照有關法律法規規定，在國家資料安全工作協調機制指導下，公安部將會同中央網信辦、工業和資訊化部等有關部門，建立網路資料安全風險評估專項工作機制，指導、監督網路資料安全風險評估工作。為確保《網路資料安全風險評估辦法》落地見效，公安機關將立足法定職責，建立全流程監管機制。依託網路安全等級保護備案等基礎工作，掌握轄區內網路資料處理者相關情況，建立並完善動態監管臺賬。對重要資料處理者的風險評估報告真實性、準確性進行檢查核驗。對發現存在較大安全風險、發生資料安全事件等情形的，依法督促網路資料處理者委託透過認證的第三方評估機構開展風險評估。發現重要資料處理者的重要資料處理活動可能危害國家安全、公共利益的，依法責令整改；對拒不整改或未達到整改要求的，依法採取責令其停止處理重要資料等措施。對未按規定開展風險評估的網路資料處理者，將依據《中華人民共和國資料安全法》《網路資料安全管理條例》等有關法律、行政法規予以處理；第三方評估機構違反《網路資料安全風險評估辦法》開展風險評估的，公安機關將依法予以處理。
-
----
-
-### 2026-08-20 10:28:55  #MKT News #2333.HK #Impact bullish #0175.HK
-
-【China Association of Automobile Manufacturers: Top 10 MPV makers sold 464,000 units Jan–Jul, 79.6% of MPV sales】China Association of Automobile Manufacturers data show Jan–Jul 2026 sales by the top 10 MPV producers totaled 464,000 units, accounting for 79.6% of MPV sales. Among the ten, GAC Trumpchi, Great Wall Motor, Geely and Dongfeng posted YoY sales gains of varying degrees; the other six firms recorded YoY declines.
-
----
-
-### 2026-08-20 10:28:08  #其他
-
-【北京市大興區人大常委會原黨組副書記、副主任張德廣受賄案一審宣判】據“京法網事”，2026年8月20日，北京市第二中級人民法院依法公開宣判北京市大興區人大常委會原黨組副書記、副主任張德廣受賄一案，對被告人張德廣以受賄罪判處有期徒刑十三年，並處罰金人民幣二百萬元。對被告人張德廣犯罪所得及收益予以沒收，上繳國庫。
-
----
-
-### 2026-08-20 10:27:48  #公司
-
-【中汽協：1—7月銷量排名前十位的MPV生產企業共銷售46.4萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的MPV生產企業共銷售46.4萬輛，佔MPV銷售總量的79.6%。在上述十家企業中，與去年同期相比，廣汽傳祺、長城汽車、吉利汽車和東風公司銷量呈不同程度增長，其他企業銷量呈不同程度下降。
-
----
-
-### 2026-08-20 10:26:59  #國際
-
-韓國國防部長：韓國既不能發展核武器，也不會接受美國部署戰術核武器。
-
----
-
-### 2026-08-20 10:26:41  #公司 #國際 #原創
-
-【SK海力士股票回購登出計劃不會影響ADR轉換空間】據韓國證券存管機構（KSD）一位官員稱，他向SK海力士核實過，該公司回購並登出2400萬股股票的計劃不會影響投資者將其首爾上市股票轉換為美國存託憑證（ADR）的空間。 該官員稱，SK海力士首爾上市股票可轉換為美國存託憑證的數量上限是固定的，而非浮動比例，因此不會受到股票回購和登出計劃的影響。根據KSD網站的資訊，自SK海力士的美國存託憑證（ADR）上市以來，轉換上限一直維持在17,790,000股首爾上市普通股，目前已全部用完。這正是美國存託憑證（ADR）相對於首爾上市股票溢價大幅上漲的關鍵原因之一，週三該溢價高達44%。該官員稱：“由於美國證券交易委員會（SEC）規定的存託憑證上限是固定的股份數量，登出約3.3%的本地股份並不會實際減少原始轉換空間。溢價方面，預計未來三個月會出現一些短期壓縮，因為海力士在本地的大量買入會加速推高本地價格。”
-
----
-
-### 2026-08-20 10:26:29  #MKT News #000625.SZ #Impact bearish #LI.O
-
-【INDUSTRY ASSOCIATION: China's top 10 SUV makers sold 6.155 million vehicles Jan–Jul 2026】INDUSTRY ASSOCIATION data show China's top 10 SUV manufacturers sold 6.155 million vehicles in January–July 2026, accounting for 67.5% of SUV sales. Changan Automobile and Li Auto recorded year-on-year declines; the other eight companies posted year-on-year increases.
 
 ---

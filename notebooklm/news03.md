@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 16:45:12_
-_本檔包含 3213 則快訊，約 641343 字_
+_更新時間：2026-08-23 17:32:01_
+_本檔包含 3200 則快訊，約 640828 字_
+
+---
+
+### 2026-08-20 10:29:03  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Strongest Since 2023 — The offshore yuan strengthened to around 6.72 per dollar on Thursday, extending overnight gains and reaching its strongest level since February 2023, as persistent weakness in the US dollar continued to support Asian currencies. The greenback remained under pressure as expectations for further Fed rate hikes eased, while the announcement of expanded bond buybacks boosted demand for longer-dated Treasuries and weighed on the dollar. However, gains in the yuan were tempered by a softer-than-expected fixing, with the PBOC setting the daily midpoint at 6.7808 per dollar, signaling authorities' continued preference for a measured pace of currency appreciation. On the monetary policy front, the central bank kept its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The one-year loan prime rate (LPR) was held at 3.0%, while the five-year LPR remained at 3.5%, reflecting policymakers' cautious approach amid lingering domestic and external uncertainties.
+
+---
+
+### 2026-08-20 10:29:01  #其他
+
+【網路資料安全新規今起施行 公安部有關負責人答問】由國家網際網路資訊辦公室、工業和資訊化部、公安部三部門制定的《網路資料安全風險評估辦法》於2026年8月20日起施行，公安部有關負責人就其實施有關事項回答了記者提問。問1：如何申請網路資料安全風險評估服務認證？答：《網路資料安全風險評估辦法》第八條規定：“鼓勵相關評估機構透過認證。評估機構的認證按照《中華人民共和國認證認可條例》的有關規定執行”。國家網信辦資料與技術保障中心、公安部第三研究所、泰爾認證中心有限公司等認證機構，已向國家認證認可監督管理委員會備案《資料安全風險評估服務認證規則》，相關認證機構將依據認證規則和有關標準規範實施認證。評估機構可向上述認證機構申請服務認證。問2：公安機關在網路資料安全風險評估工作中承擔哪些法定職責？具體有哪些落實舉措？答：依照有關法律法規規定，在國家資料安全工作協調機制指導下，公安部將會同中央網信辦、工業和資訊化部等有關部門，建立網路資料安全風險評估專項工作機制，指導、監督網路資料安全風險評估工作。為確保《網路資料安全風險評估辦法》落地見效，公安機關將立足法定職責，建立全流程監管機制。依託網路安全等級保護備案等基礎工作，掌握轄區內網路資料處理者相關情況，建立並完善動態監管臺賬。對重要資料處理者的風險評估報告真實性、準確性進行檢查核驗。對發現存在較大安全風險、發生資料安全事件等情形的，依法督促網路資料處理者委託透過認證的第三方評估機構開展風險評估。發現重要資料處理者的重要資料處理活動可能危害國家安全、公共利益的，依法責令整改；對拒不整改或未達到整改要求的，依法採取責令其停止處理重要資料等措施。對未按規定開展風險評估的網路資料處理者，將依據《中華人民共和國資料安全法》《網路資料安全管理條例》等有關法律、行政法規予以處理；第三方評估機構違反《網路資料安全風險評估辦法》開展風險評估的，公安機關將依法予以處理。
+
+---
+
+### 2026-08-20 10:28:55  #MKT News #2333.HK #Impact bullish #0175.HK
+
+【China Association of Automobile Manufacturers: Top 10 MPV makers sold 464,000 units Jan–Jul, 79.6% of MPV sales】China Association of Automobile Manufacturers data show Jan–Jul 2026 sales by the top 10 MPV producers totaled 464,000 units, accounting for 79.6% of MPV sales. Among the ten, GAC Trumpchi, Great Wall Motor, Geely and Dongfeng posted YoY sales gains of varying degrees; the other six firms recorded YoY declines.
+
+---
+
+### 2026-08-20 10:28:08  #其他
+
+【北京市大興區人大常委會原黨組副書記、副主任張德廣受賄案一審宣判】據“京法網事”，2026年8月20日，北京市第二中級人民法院依法公開宣判北京市大興區人大常委會原黨組副書記、副主任張德廣受賄一案，對被告人張德廣以受賄罪判處有期徒刑十三年，並處罰金人民幣二百萬元。對被告人張德廣犯罪所得及收益予以沒收，上繳國庫。
+
+---
+
+### 2026-08-20 10:27:48  #公司
+
+【中汽協：1—7月銷量排名前十位的MPV生產企業共銷售46.4萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的MPV生產企業共銷售46.4萬輛，佔MPV銷售總量的79.6%。在上述十家企業中，與去年同期相比，廣汽傳祺、長城汽車、吉利汽車和東風公司銷量呈不同程度增長，其他企業銷量呈不同程度下降。
+
+---
+
+### 2026-08-20 10:26:59  #國際
+
+韓國國防部長：韓國既不能發展核武器，也不會接受美國部署戰術核武器。
+
+---
+
+### 2026-08-20 10:26:41  #公司 #國際 #原創
+
+【SK海力士股票回購登出計劃不會影響ADR轉換空間】據韓國證券存管機構（KSD）一位官員稱，他向SK海力士核實過，該公司回購並登出2400萬股股票的計劃不會影響投資者將其首爾上市股票轉換為美國存託憑證（ADR）的空間。 該官員稱，SK海力士首爾上市股票可轉換為美國存託憑證的數量上限是固定的，而非浮動比例，因此不會受到股票回購和登出計劃的影響。根據KSD網站的資訊，自SK海力士的美國存託憑證（ADR）上市以來，轉換上限一直維持在17,790,000股首爾上市普通股，目前已全部用完。這正是美國存託憑證（ADR）相對於首爾上市股票溢價大幅上漲的關鍵原因之一，週三該溢價高達44%。該官員稱：“由於美國證券交易委員會（SEC）規定的存託憑證上限是固定的股份數量，登出約3.3%的本地股份並不會實際減少原始轉換空間。溢價方面，預計未來三個月會出現一些短期壓縮，因為海力士在本地的大量買入會加速推高本地價格。”
+
+---
+
+### 2026-08-20 10:26:29  #MKT News #000625.SZ #Impact bearish #LI.O
+
+【INDUSTRY ASSOCIATION: China's top 10 SUV makers sold 6.155 million vehicles Jan–Jul 2026】INDUSTRY ASSOCIATION data show China's top 10 SUV manufacturers sold 6.155 million vehicles in January–July 2026, accounting for 67.5% of SUV sales. Changan Automobile and Li Auto recorded year-on-year declines; the other eight companies posted year-on-year increases.
 
 ---
 
@@ -19254,131 +19302,5 @@ Hong Kong stocks tick higher; the Hang Seng Index has turned positive and the Ha
 ### 2026-08-19 10:21:58  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
 
 【Shanghai to build AI pilot industry cluster centered on Zhangjiang, prioritizing compute and large models】Shanghai Science and Technology Commission issued a development plan for the Zhangjiang High‑Tech Zone outlining an AI pilot industry cluster led by Zhangjiang core park with Xuhui and Caohejing parks as demonstration zones. Policy targets include boosting compute, large models, corpora/data, scientific intelligence and applications; priorities are advancing intelligent computing via optical and neuromorphic chip architectures, creating an autonomous compute stack that integrates supercomputing and AI computing with cloud‑edge‑end coordination, and building the Pujiang public compute service platform. The plan also backs next‑generation large models (including brain‑inspired computing), establishes a model‑acceleration facility and a Zhangjiang AI innovation town, and supports domestic compute adaptation and ecosystem integration for multimodal models.
-
----
-
-### 2026-08-19 10:21:51  #其他 #焦點
-
-【上海：聚焦算力等重點領域創新，形成以張江核心園等為示範引領的人工智慧先導產業叢集】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。
-
----
-
-### 2026-08-19 10:21:13  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
-
-USD/CAD fell to 1.3877 after Trump suspended additional tariffs.
-
----
-
-### 2026-08-19 10:20:17  #其他
-
-【東方證券：AI4S正賦能多學科與產業 從基礎模型、算力底座到產業落地 】東方證券釋出研報稱，目前AI4S已覆蓋生命科學、地球科學、能源材料等領域，但行業滲透率偏低，未來有望邁入規模化價值變現新階段。AI4S正賦能多學科與產業，包括生物醫藥、材料能源、工業模擬、氣象環境、農業育種等賽道。AI4S的快速發展和迭代進步，在科學模型側、算力基礎設施建設與運營、以及產業應用側帶來了投資機會。AI4S是指以人工智慧手段輔助或獨立完成科學研究任務的一種新模式，可全流程重塑科研體系、突破傳統科研瓶頸，被視作繼實驗、理論、計算、資料科學之後的科研第五正規化。
-
----
-
-### 2026-08-19 10:20:07  #宏觀
-
-【國臺辦：臺灣民眾來大陸完全不需要擔心有什麼風險】國務院臺辦舉行例行新聞釋出會。有記者問：《國務院關於出境入境管理的規定》將於9月15日施行。陸委會對此稱，這類規定可能影響在大陸投資或工作的科技業及半導體業臺商、臺籍幹部、從業者，應做好風險評估。有少數臺灣民眾受其誤導，擔心進出大陸會有風險。請問對此有何評論？發言人朱鳳蓮表示，臺灣民眾來大陸完全不需要擔心有什麼風險。國務院關於出境入境管理的規定是為了規範出境入境管理，保障出境入境人員的合法權益，維護國家主權、安全、發展利益。《規定》主要是健全出境安全風險防範制度，明確出境入境申請事由應當真實合法，規範出境入境中介服務等。該規定有利於維護兩岸民眾往來的合法權益，為臺灣同胞來大陸營造更好的法治環境。
-
----
-
-### 2026-08-19 10:20:01  #MKT News #Market Regions #Greater China
-
-【Shanghai issues Zhangjiang High‑Tech Park 15th Five‑Year plan】Shanghai Science and Technology Commission issued the Zhangjiang High‑Tech Industrial Development Zone 15th Five‑Year Plan, targeting decisive progress by 2030 toward a world‑leading science park. The plan keeps a high‑tech orientation and aims to significantly strengthen Zhangjiang’s role as a source of technological innovation, improve mechanisms for high‑tech transfer and industrialization, and incubate three innovation‑source hubs. Zhangjiang Science City is targeted to become an international‑class science city with concentrated tech factors, a strong scientific profile and a vibrant innovation ecosystem. Policy will push specialty development: strengthen high‑end industry leadership, implement “one park, one specialty” sub‑park differentiation, and cultivate a set of benchmark tech leaders. The three leading industries’ industrial gross output is set to remain above 80% of the city’s total; emerging pillar industries are to scale and cluster, and future industries are expected to become new growth drivers. The plan targets park industrial value added to exceed 20% of the park’s GDP.
-
----
-
-### 2026-08-19 10:19:51  #其他
-
-【《上海張江高新技術產業開發區發展“十五五”規劃》釋出】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，到2030年，世界領先科技園區建設取得決定性進展，成為主導產業凸顯、專業服務完善、空間相對集中、生態充滿活力的高質量園區。堅持高新定位，科技創新策源功能顯著增強，高新技術成果轉化和產業化機制更加完善，湧現3個具有創新策源意義的科創“核爆點”。張江科學城成為科學特徵明顯、科技要素集聚、環境人文生態、充滿創新活力的國際一流科學城。堅持特色發展，高階產業引領功能顯著增強，“一園一特色”進一步凸顯，培育一批具有標杆示範意義的科技領軍企業，三大先導產業工業總產值全市佔比保持在80%以上，新興支柱產業規模化、叢集化發展，未來產業成為新的經濟增長點，園區工業增加值佔園區地區生產總值比重超過20%。
-
----
-
-### 2026-08-19 10:19:44  #市場 #國際
-
-特朗普暫停加徵關稅後，美元兌加元下跌0.2%，至1.3877。
-
----
-
-### 2026-08-19 10:18:49  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #DXY #Impact bullish #XAUUSD
-
-ChiNext Index fell 4.0%, Shenzhen Composite fell 3.3%, Shanghai Composite fell 1.79% and the STAR 50 Index fell 4.8%. More than 4,900 stocks declined, led by losses in MLCC, CPO, memory-chip and humanoid robotics sectors.
-
----
-
-### 2026-08-19 10:18:47  #市場 #焦點
-
-現貨黃金突破4360美元/盎司，日內漲0.60%。
-
----
-
-### 2026-08-19 10:18:32  #市場 #焦點
-
-創業板指跌4％，上證指數跌1.79％，深證成指跌3.33％。全市場超4900只個股下跌，MLCC概念、CPO板塊、儲存晶片、人形機器人板塊跌幅居前。
-
----
-
-### 2026-08-19 10:18:11  #MKT News
-
-President Trump says Canada and the United States have reached an agreement, pending finalization of the documentation.
-
----
-
-### 2026-08-19 10:17:33  #公司
-
-【通鼎互聯等成立科技新公司，含半導體器件相關業務】企查查APP顯示，近日，四川鼎啟芯測科技有限公司成立，經營範圍包含：智慧儀器儀表製造；智慧儀器儀表銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由通鼎互聯等共同持股。
-
----
-
-### 2026-08-19 10:17:32  #MKT News #Important #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
-
-President Trump said he has suspended plans to impose a 50% tariff on Canada.
-
----
-
-### 2026-08-19 10:17:17  #國際
-
-特朗普：基斯通XL輸油管道或可“起死回生”。
-
----
-
-### 2026-08-19 10:17:06  #焦點 #國際
-
-特朗普暫停對加拿大加徵50%關稅三天時間。
-
----
-
-### 2026-08-19 10:16:57  #國際
-
-特朗普表示：加拿大與美國已達成協議，有待最終敲定文字。
-
----
-
-### 2026-08-19 10:16:55  #MKT News
-
-China A-share coal mining and processing sector advanced; Shaanxi Black Cat hit limit-up. Meijin Energy, Dayou Energy and Baotailong earlier hit limit-up. Antai Group, Yunmei Energy, Zhengzhou Coal & Power, Shanxi Coking and Haohua Energy also gained.
-
----
-
-### 2026-08-19 10:16:38  #公司 #市場
-
-【煤炭開採加工板塊走高，陝西黑貓漲停】煤炭開採加工板塊走高，陝西黑貓漲停，美錦能源、大有能源、寶泰隆此前封板，安泰集團、雲煤能源、鄭州煤電、山西焦化、昊華能源等跟漲。
-
----
-
-### 2026-08-19 10:16:30  #其他
-
-港股晶片股走低，天數智芯、華虹宏力跌超10%，芯智控股跌超7%，兆易創新跌近7%。
-
----
-
-### 2026-08-19 10:15:28  #MKT News #Important #Market Themes #Chip Wars #09903.HK #Impact bearish #01347.HK #Hang Seng Index
-
-Hong Kong-listed chip stocks slid: 09903.HK down 11%, 01347.HK off more than 10%, 02166.HK down over 7%, and 03986.HK down 6.8%.
-
----
-
-### 2026-08-19 10:15:17  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Increases by 0.46% — Top currency gainers are South Korean Won (0.46%) and Japanese Yen (0.14%). Meanwhile Chinese Yuan was little changed.
 
 ---
