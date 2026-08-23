@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 20:57:49_
-_本檔包含 3321 則快訊，約 637969 字_
+_更新時間：2026-08-23 21:08:34_
+_本檔包含 3325 則快訊，約 637767 字_
+
+---
+
+### 2026-08-21 10:59:47  #其他
+
+【GLM-5.3、DeepSeek-V4-Pro正式版接入千問AI平臺】8月21日，據阿里雲訊息，阿里雲MaaS擴充模型服務矩陣，GLM-5.3和DeepSeek-V4-Pro正式版現已接入千問AI平臺，相關API服務同步開放，開發者可直接呼叫。據介紹，DeepSeek-V4-Pro、Qwen3.8-Max和Qwen-Audio系列模型已陸續開放訂閱使用，使用者訂閱套餐後，可在Qoder、Codex等AI工具中按需切換模型。
+
+---
+
+### 2026-08-21 10:59:42  #MKT News #WMT.N #Impact bearish
+
+RBC lowers Walmart (WMT.N) PT to $131 from $137.
+
+---
+
+### 2026-08-21 10:58:58  #公司
+
+【華碩組建AI LAB 上調AI伺服器收入增長目標至150%】華碩組建數十人的“AI LAB”團隊，成為其驗證和開發AI伺服器的秘密基地。該公司決定將今年AI伺服器收入增長目標從原定的100%提高到150%。
+
+---
+
+### 2026-08-21 10:58:50  #公司
+
+【愛奇藝CEO龔宇：將堅定All in AI戰略】在愛奇藝創作者大會上，愛奇藝創始人、CEO龔宇表示，平臺將堅定All in AI戰略，深耕AI賦能實拍與AIGC影視長片創作，同時全力推進非中心化社交媒體轉型，持續降低內容創作門檻。
+
+---
+
+### 2026-08-21 10:57:54  #宏觀 #國際
+
+【晶片行業景氣高漲 韓國擬利用“意外超額財政收入”設立“未來基金”】韓國企劃財政部週五表示，韓國將設立“未來基金”，依託本輪人工智慧產業繁榮帶來的稅收增量——政府稱之為意外超額財政收入，推動本國經濟長期增長。 企劃財政部聯合相關政府部門公佈該方案，稱人工智慧產業帶來的不只是一場技術革命，更推動經濟、社會制度等諸多領域發生重大轉型。 企劃財政部表示：“受全球晶片行業繁榮帶動，企業稅收入增加，國內稅收預計將大幅攀升。” 該部門補充道：“我們應當把當前形勢下獲得的財政財力，當作寶貴籌碼，在全球科技制高點競爭中搶佔先機。”
+
+---
+
+### 2026-08-21 10:57:38  #其他
+
+【摩爾執行緒張建中：智算叢集向十萬卡規模演進已成必然趨勢】8月21日，摩爾執行緒創始人張建中在2026世界機器人大會上表示，具身智慧產業正迎來類似大模型的“ChatGPT 時刻”，算力底座是發展關鍵。語言模型已跨越萬億引數門檻，在縮放定律（Scaling Law）驅動下，具身智慧模型也正從十億、百億級向千億、萬億級引數進化，智算叢集隨之從千卡邁向萬卡，向十萬卡規模演進已成必然趨勢。
 
 ---
 
@@ -20048,17 +20084,5 @@ Australian Dollar Retreats After Jobs Report — The Australian dollar weakened 
 ### 2026-08-20 11:16:46  #公司 #國際
 
 【日本成田機場一客機“冒黑煙” 相關跑道已關閉】據日本廣播協會報道，20日上午，日本成田機場一架飛機“發動機附近冒出黑煙”。目前，相關跑道已關閉。 日本廣播協會引述警方訊息稱，事件發生在當地時間10時40分左右，涉事飛機是一架馬來西亞航空公司客機，當時正準備起飛。尚不清楚是否有人員受傷。現場畫面顯示，上午11時左右，涉事飛機停在現場，周圍停有數輛消防車和救護車，工作人員正在現場作相應處理。 成田機場方面表示，受此事影響，機場A跑道已關閉，目前正在進行檢查。（新華社）
-
----
-
-### 2026-08-20 11:16:41  #MKT News #S&P500 #Impact mixed #Nasdaq100
-
-【Goldman Sachs: ETF and index options PCR hits YTD high, flows point to stock-picking with market insurance】Goldman Sachs trading-desk data show July ETF and index options put/call ratio (PCR) rose to 112%, a year-to-date high. Since March the PCR gap between ETF+index options and single-stock options has widened to 53 percentage points, signaling investors are selectively buying individual names while materially increasing market-level hedging. Goldman says traders may continue to hold favored stocks and use ETF and index options to protect against market, interest-rate and macro-driven drawdowns. If demand for index puts continues to climb while single-stock buying stays resilient, markets could move further into a stock-selection, lower-aggregate-beta regime.
-
----
-
-### 2026-08-20 11:16:19  #國際
-
-【世界機器人大會外國採購商扎堆 中國機器人全球爆單】從搬箱碼垛到上下料分揀，近10臺機器人共同還原出工廠裡機器人配合作業的微縮場景。這些機器人在工業領域的應用前景，成為今年世界機器人大會現場許多外國採購商最為感興趣的內容。比利時採購商表示：“能在中國看到來自許多廠家、各種各樣的機器人，覺得特別棒，走在世界前列。”墨西哥採購商說：“令人印象深刻，對機器人非常感興趣，可以把它們送到工業環境中工作。有些機器人可以在工廠中做質量檢測。”海關總署資料顯示，今年上半年我國工業機器人出口62.9億元，增長18.6%，智慧仿生機器人出口超萬臺，遍及全球90多個國家和地區。在此次世界機器人大會上，來自英國的企業代表還對外發布了歐洲機器人採購需求的最新情況，其中建築業、物流、倉儲與製造、酒店餐飲業等領域都是未來採購的重點方向。（央視財經）
 
 ---

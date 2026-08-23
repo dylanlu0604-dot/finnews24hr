@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 20:57:49_
-_本檔包含 3045 則快訊，約 637691 字_
+_更新時間：2026-08-23 21:08:34_
+_本檔包含 3042 則快訊，約 637487 字_
+
+---
+
+### 2026-08-18 07:47:03  #公司
+
+必和必拓執行長：必和必拓對目前的商品組合感到滿意。
+
+---
+
+### 2026-08-18 07:46:40  #市場 #國際
+
+基準10年期日本公債期貨早盤下跌0.22點。
+
+---
+
+### 2026-08-18 07:46:23  #市場 #國際
+
+日本日經指數期貨早盤下跌0.4%。
+
+---
+
+### 2026-08-18 07:45:34  #市場 #央行 #國際
+
+【機構：金價今年將觸及7150美元】17日晚，在經歷數月震盪回撥後，國際金價一舉突破4400美元/盎司關口。對於金價的反攻，廣發期貨貴金屬研究員葉倩寧對21世紀經濟報道記者分析稱，由於宏觀與地緣局勢利空逐步落地，資金情緒改善帶動貴金屬價格修復。瑞銀首席投資官Ulrike Hoffmann-Burchardi表示，黃金價格具備支撐，預計黃金價格將在2027年上半年升至每盎司5000美元。通脹或將逐步回落，使美聯儲今年保持利率穩定，並在2027年重新啟動寬鬆政策。ICBC Standard Bank大宗商品策略師Julia Du甚至預計，金價今年將觸及7150美元/盎司，全年均價目標為6050美元/盎司。 （中新經緯）
+
+---
+
+### 2026-08-18 07:43:47  #MKT News #BHP.AX
+
+BHP CEO: We do not expect the strike at Port Hedland to have any material adverse impact on our results.
+
+---
+
+### 2026-08-18 07:43:46  #MKT News
+
+BHP CEO said the company intends to remain committed to its metallurgical coal business.
+
+---
+
+### 2026-08-18 07:42:12  #公司
+
+【惠譽將英特爾評級展望上調至“穩定”】當地時間8月17日，惠譽確認英特爾長期發行人違約評級及高階無抵押債務評級為“BBB”，短期發行人違約評級及商業票據評級為“F2”，並將評級展望由“負面”調整為“穩定”。惠譽表示，英特爾在技術和產品路線圖執行方面取得進展，運營表現好於預期。英特爾近期完成230億美元股權融資，用於支援提高資本支出以滿足強勁需求，惠譽預計公司將於2027年開始降低淨債務，並在未來約12個月內將EBITDA槓桿率降至2.5倍以下。
+
+---
+
+### 2026-08-18 07:41:40  #公司
+
+必和必拓執行長：預計黑德蘭港的勞工行動不會對我們的業績造成任何明顯負面影響。
+
+---
+
+### 2026-08-18 07:39:20  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Kushner says Gaza 'demilitarization' process could start within 30 days】Jared Kushner, after meeting Israeli Prime Minister Netanyahu in Jerusalem, told Fox News he expects a Gaza demilitarization process could begin within 30 days, with partial weapons removal immediately and tunnel removal/burial over the following 60–90 days. He warned that if Hamas fails to meet commitments, the U.S. and other parties would provide stronger support to Israel. Kushner said the U.S. will not permit Gaza reconstruction before demilitarization and would not restrict Israeli self‑defense if faced with an imminent threat.
+
+---
+
+### 2026-08-18 07:38:44  #MKT News #Market Regions #Greater China #CNH #Impact bullish
+
+【Wang Qing: Overnight reverse repos could become PBOC's core short-term liquidity tool】Wang Qing, chief macro analyst at Orient Jincheng, said recent zero 7-day reverse repo operations and the PBOC's use of overnight reverse repos in mid‑August signal more precise control of market rates. He expects market-rate volatility to ease and says overnight reverse repos could gradually supplant 7-day reverse repos as the PBOC's primary short-term liquidity management tool.
 
 ---
 
@@ -18297,83 +18357,5 @@ Hamas said a delegation arrived in Egypt at midday local time on Sunday and held
 ### 2026-08-16 21:09:56  #國際
 
 白宮新聞秘書：特朗普總統任內的FBI犯罪報告顯示，暴力犯罪率創紀錄以來的新低！
-
----
-
-### 2026-08-16 21:08:19  #國際
-
-據統計，烏克蘭已摧毀了物流野莓10 個最大物流中心中的 7 個，俄羅斯最大電子商務平臺前 30 名倉庫中有 21 個遭到無人機襲擊。
-
----
-
-### 2026-08-16 21:06:31  #MKT News
-
-Al Arabiya TV cited Saudi civil defence saying a danger alert for the Jazan region was lifted after the warning system was activated.
-
----
-
-### 2026-08-16 21:05:36  #其他
-
-沙特民防部門：吉贊地區此前空襲警報已經解除。
-
----
-
-### 2026-08-16 21:04:43  #MKT News #WTI #Impact bullish #Brent
-
-Saudi state news agency said air-raid sirens were activated in the Jazan region. Earlier, TASNIM NEWS reported explosions near the Jazan refinery in Saudi Arabia.
-
----
-
-### 2026-08-16 21:04:04  #其他
-
-環球聯合保險季度保險合同收入為1340萬美元。
-
----
-
-### 2026-08-16 21:03:13  #其他
-
-沙特民防部門發文，對吉贊省潛在安全風險發出警報。
-
----
-
-### 2026-08-16 21:02:58  #公司
-
-【微信下架多部違規微短劇並處置違規小程式】近日，微信釋出關於違規微短劇的處置公告（2026年7月），根據國家廣播電視總局和廣東省廣播電視局的部署要求，平臺不斷加大對低俗有害微短劇的巡查稽核和違規侵權微短劇小程式的運營管理。平臺也持續規範真人類微短劇、其他動畫類微短劇和AI真人類微短劇的管理標準、創作要求與傳播秩序，切實保障使用者權益和未成年人身心健康。近期，平臺透過巡查稽核發現，部分微短劇存在不良價值觀導向內容或侵權等行為。根據國家相關法律法規要求以及《騰訊微信軟體許可服務協議》《微信小程式運營規範》的相關規定，平臺下架了數十部違規微短劇，包含部分價值觀導向不正、內容粗製濫造的內容。同時，平臺對存在違規行為的小程式也進行了處置。（每日經濟新聞）
-
----
-
-### 2026-08-16 21:02:58  #MKT News
-
-【Houthi forces release prisoners en masse conditioned on joining frontlines】Arab satellite TV’s English channel, citing military sources, reports Yemen’s Houthi forces have freed hundreds of prisoners on the condition they join the militia and fight on nationwide fronts. Sources say 850 detainees were released from prisons in Saada, Hajjah and Sana’a on that condition, and the Houthis are preparing to free about 1,400 more from Zamar province for deployment across multiple battlefronts.
-
----
-
-### 2026-08-16 21:01:15  #其他 #焦點
-
-市場訊息：沙烏地阿拉伯吉贊煉油廠周邊傳出爆炸聲。
-
----
-
-### 2026-08-16 21:00:53  #其他
-
-【深圳機場暑期通關客流創新高】今年暑期以來，深圳機場已增加了至新加坡、吉隆坡、河內、雅加達等城市的航班頻次，出入境人員86.4萬人次，同比增長5%，創歷史同期新高。（新華社）
-
----
-
-### 2026-08-16 20:59:05  #國際
-
-【烏克蘭多地遭空襲 烏海軍打擊俄導彈系統】烏克蘭軍方16日稱，俄軍15日晚至16日凌晨使用導彈和無人機對烏多地發動空襲，烏軍當天打擊俄軍“稜堡”導彈系統，造成裝備和人員損失。第聶伯羅彼得羅夫斯克州軍事管理局局長甘扎16日在社交媒體發文稱，俄軍當天凌晨對該州發動的空襲已造成1人死亡，另有14人受傷。該州工業城市克里沃伊羅格和尼科波爾均遭到襲擊。烏克蘭海軍16日在社交媒體發文稱，烏海軍當天凌晨打擊了俄軍部署在克里米亞的“稜堡”導彈系統及發射陣地，俄軍裝備和人員損失嚴重。（新華社）
-
----
-
-### 2026-08-16 20:58:45  #其他
-
-沙烏地阿拉伯稱已在吉贊釋出預警。
-
----
-
-### 2026-08-16 20:58:11  #公司 #國際
-
-【全球開源AI大洗牌 中國開源模型加速崛起】全球最大AI開源平臺Hugging Face近日釋出的最新觀察報告顯示，全球開源人工智慧生態正在快速擴張，而中國模型正在成為其中的重要力量。Hugging Face的報告指出，2026年以來的大部分月份，中國AI企業釋出的最大開源模型在引數規模上顯著超越美國同行：中國模型的月度引數上限在7540億至2.78萬億之間，而美國模型在同期多數月份則低於1300億。不僅規模領先，中國模型在開放生態建設方面同樣表現突出。Hugging Face的資料顯示，在引數超過200億的中國模型中，超八成採用了較為寬鬆的授權協議，允許企業和開發者進行二次開發和商業部署。其中，Qwen已經成為Hugging Face開源生態的重要基礎模型。資料顯示，基於Qwen的衍生模型數量已超過15萬個，遠超谷歌和Meta等競爭對手。Hugging Face的報告還指出，今年以來，美國推出新開源模型最多的兩家公司，不再是谷歌和Meta，而是AMD和英偉達。英偉達推出Nemotron系列模型，透過開放模型展示GPU的硬體協同能力；AMD則更多參與模型轉換和效能調優。 (央視財經)
 
 ---

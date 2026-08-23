@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 20:57:49_
-_本檔包含 3184 則快訊，約 638031 字_
+_更新時間：2026-08-23 21:08:34_
+_本檔包含 3180 則快訊，約 637789 字_
+
+---
+
+### 2026-08-20 11:16:41  #MKT News #S&P500 #Impact mixed #Nasdaq100
+
+【Goldman Sachs: ETF and index options PCR hits YTD high, flows point to stock-picking with market insurance】Goldman Sachs trading-desk data show July ETF and index options put/call ratio (PCR) rose to 112%, a year-to-date high. Since March the PCR gap between ETF+index options and single-stock options has widened to 53 percentage points, signaling investors are selectively buying individual names while materially increasing market-level hedging. Goldman says traders may continue to hold favored stocks and use ETF and index options to protect against market, interest-rate and macro-driven drawdowns. If demand for index puts continues to climb while single-stock buying stays resilient, markets could move further into a stock-selection, lower-aggregate-beta regime.
+
+---
+
+### 2026-08-20 11:16:19  #國際
+
+【世界機器人大會外國採購商扎堆 中國機器人全球爆單】從搬箱碼垛到上下料分揀，近10臺機器人共同還原出工廠裡機器人配合作業的微縮場景。這些機器人在工業領域的應用前景，成為今年世界機器人大會現場許多外國採購商最為感興趣的內容。比利時採購商表示：“能在中國看到來自許多廠家、各種各樣的機器人，覺得特別棒，走在世界前列。”墨西哥採購商說：“令人印象深刻，對機器人非常感興趣，可以把它們送到工業環境中工作。有些機器人可以在工廠中做質量檢測。”海關總署資料顯示，今年上半年我國工業機器人出口62.9億元，增長18.6%，智慧仿生機器人出口超萬臺，遍及全球90多個國家和地區。在此次世界機器人大會上，來自英國的企業代表還對外發布了歐洲機器人採購需求的最新情況，其中建築業、物流、倉儲與製造、酒店餐飲業等領域都是未來採購的重點方向。（央視財經）
 
 ---
 
@@ -19170,41 +19182,5 @@ Bank of Korea: Household credit rose 3.6% YoY at end-June, unchanged from end-Ma
 ### 2026-08-19 10:57:16  #宏觀
 
 【國臺辦：民進黨當局阻撓兩岸高校交流 令人不齒】國務院臺辦舉行例行新聞釋出會。有記者問：民進黨當局持續限縮兩岸教育交流，臺教育主管部門要求校方提供大陸研修生在臺的每日行程、課程主題、參訪地點等，並計劃收緊稽核大陸研究生和教師赴臺申請，不少大陸研究生赴臺專案被迫中斷或徹底取消，請問發言人對此有何評論？發言人朱鳳蓮表示，這是民進黨當局阻撓禁限兩岸正常交流交往的又一惡行。兩岸高校互派研修生行之有年，是兩岸教育交流的重要組成部分，有利於推動兩岸學術成果互學互鑑，促進兩岸教育共同發展。民進黨當局濫權妄為，無視島內高校參與兩岸交流的強烈願望與現實需求，頻繁將黑手伸向兩岸教育交流，強行限縮大陸學生赴臺研修，對臺灣教育界威逼利誘，嚴重損害兩岸教育交流和學生的正當權益，令人不齒。
-
----
-
-### 2026-08-19 10:55:44  #公司
-
-【海大集團等成立水產養殖公司，註冊資本1.2億元】企查查APP顯示，台山海晟源水產養殖有限公司成立，法定代表人為王豪傑，註冊資本為1.2億元，經營範圍包含：水產養殖；水產苗種生產；水產苗種進出口；食用農產品批發；水產品收購；生物飼料研發等。企查查股權穿透顯示，該公司由海大集團旗下廣東海智慧水產養殖技術有限公司等共同持股。
-
----
-
-### 2026-08-19 10:55:29  #MKT News #Market Regions #Greater China
-
-【Taiwan Affairs Office urges DPP to lift unreasonable restrictions on cross‑strait air transport】Aug. 19 — China’s Taiwan Affairs Office urged the Democratic Progressive Party authorities to promptly remove unreasonable restrictions on cross‑strait air transport to meet demand for normalizing direct passenger links. The office said calls from Taiwan officials and private citizens for more direct routes reflect strong public demand and noted a Taiwan civil aviation authority rejected a charter application on the grounds it fell outside the scope of holiday charters.
-
----
-
-### 2026-08-19 10:55:03  #宏觀
-
-【國臺辦：民進黨當局應儘快取消對兩岸航空運輸的不合理限制】國務院臺辦舉行例行新聞釋出會。有記者問：據臺媒報道，臺灣有關方面呼籲爭取恢復兩岸更多直航點，請問發言人是否瞭解相關進展？發言人朱鳳蓮表示，臺灣有關方面和熱心人士，為爭取恢復兩岸更多的直航點四處奔走呼籲，充分反映了兩岸同胞熱切期盼全面恢復空中客運直航正常化的共同心願。但是據瞭解，臺民航主管部門以不在節日包機範圍為由，拒絕了包機申請。民進黨當局應當正視兩岸空中客運直航的現實需求，順應民心，儘快取消對兩岸航空運輸的不合理限制。
-
----
-
-### 2026-08-19 10:54:43  #其他
-
-【龍旗科技與南昌高新區簽約 具身智慧機器人研發製造基地正式落地】據龍旗科技訊息，近日，龍旗科技與南昌高新區簽約，具身智慧機器人研發製造基地正式落地。未來，龍旗具身智慧機器人研發製造基地專案將以此次簽約為契機，構建一體化業務格局，形成從產品定義到工程交付的端到端服務能力，為行業客戶提供專業化、規模化的具身智慧產品ODM解決方案。
-
----
-
-### 2026-08-19 10:54:27  #國際
-
-印度加爾各答一家酒店發生火災，至少9人死亡。
-
----
-
-### 2026-08-19 10:53:10  #公司 #市場
-
-【焦炭概念強勢拉昇 河北、山西等地主流焦企對焦炭價格發函提漲|異動情報】8月19日，焦炭板塊盤中上漲3.55%，相關成分股中，寶泰隆（601011）上漲10.14%，美錦能源（000723）上漲9.89%，陝西黑貓（601015）上漲5.34%，安泰集團（600408）上漲4.88%，雲煤能源（600792）上漲3.01%。訊息面上，8月18日，河北、山西等地主流焦企對焦炭價格發函提漲，漲幅為50-55元/噸，計劃於20日0時起執行。
 
 ---
