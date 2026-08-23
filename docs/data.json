@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 14:25:30",
+  "updated": "2026-08-23 14:29:35",
   "count": 15981,
   "items": [
+    {
+      "id": "5053592",
+      "time": "2026-08-23 14:26:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【海南食品出口上半年增長超四成】隨著海南自由貿易港全島封關運作深入推進，海南持續完善食品安全全鏈條監管體系，為食品產業拓展國際市場提供支撐。今年上半年，海南企業出口食品總額達31.89億元，同比增長41.2%。21日海南省市場監管局副局長黎運達在相關釋出會上介紹，海南強化農業農村、海關、商務、市場監管、教育、郵政管理等部門協同監管，圍繞食用農產品、食品生產、貯存運輸、跨境進口等環節加強風險防控。數字化手段加快應用於食品安全監管。截至目前，海南全省獲證且在產在營食品生產經營主體實現“網際網路+AI監管”22984家。全省中小學校食堂“網際網路+明廚亮灶”覆蓋率達100%。海南省市場監管部門介紹，相關部門已建立和落實36項重點機制制度，加強食品安全資訊共享、風險會商和協同處置，推動監管由單環節向全鏈條延伸。從保障群眾“舌尖上的安全”，到服務食品產業拓展國際市場，海南持續提升食品安全治理能力，為食品產業高質量發展和自貿港高水平開放提供保障。（新華社）"
+    },
     {
       "id": "5053591",
       "time": "2026-08-23 14:24:02",
@@ -146142,16 +146150,6 @@
         "國際"
       ],
       "text": "當地時間8月16日，烏克蘭基輔拉響防空警報。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a00940-e66a-7aab-904c-a389fb77fcfe",
-      "time": "2026-08-16 14:27:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【GoodWe and Shenzhen Institute of Computing Science form strategic partnership to launch AI+Smart Energy joint innovation center】GoodWe Technology Co., Ltd and the Shenzhen Institute of Computing Science signed a strategic cooperation agreement on August 16 at GoodWe’s Suzhou Smart Energy Tower. They unveiled an AI+Smart Energy joint innovation center to conduct long-term joint R&D on deep integration of AI, data and new-type power systems, aiming to accelerate a paradigm shift in the smart energy industry."
     }
   ]
 }
