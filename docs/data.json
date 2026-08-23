@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-24 07:34:07",
-  "count": 15796,
+  "updated": "2026-08-24 07:38:04",
+  "count": 15798,
   "items": [
+    {
+      "id": "te:markets:577385",
+      "time": "2026-08-24 07:37:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Slips Ahead of Tougher Iran Sanctions — Crude oil slipped to around $86 per barrel following a sharp weekly rally, as investors took profits ahead of an expected announcement from Washington on additional sanctions against Iran. US Treasury Secretary Scott Bessent said Washington would impose the “toughest” sanctions in history, describing the measures as an unprecedented campaign of economic isolation designed to pressure Iran and its trading partners into compliance. The threat comes as tensions around the Strait of Hormuz remain elevated, with Iran still capable of disrupting shipping and energy infrastructure in the region. Tehran dismissed the sanctions threat, saying it could counter the measures’ effects while maintaining economic ties with other countries. Meanwhile, markets remain uncertain whether additional economic pressure would change Iran’s behavior, noting that the country still has significant capabilities to disrupt regional flows."
+    },
+    {
+      "id": "5054031",
+      "time": "2026-08-24 07:36:15",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【黃金價格逼近三個月高點】美國財政部對債券市場採取大膽干預舉措後，黃金價格逼近三個月高點，市場重新擔憂美元走弱，促使投資者轉向其他資產。早盤黃金最高上漲0.5%，突破每盎司4620美元，延續連續第三週上漲的勢頭。上週美國財政部意外宣佈加大長期國債回購力度，推動收益率與美元走低，黃金因此大漲超5%。透過直接干預來管控借貸成本的做法引發擔憂：美國相關政策可能削弱市場對美元的信心，抬升其他投資的吸引力。所謂的貨幣貶值論調再度抬頭，這一因素曾助推黃金在2025年大漲65%。美元走軟，對以美元計價的大宗商品形成利好。"
+    },
+    {
+      "id": "5054030",
+      "time": "2026-08-24 07:35:14",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【人民日報鍾才文：上半年經濟增長4.7%說明了什麼？】人民日報鍾才文撰文稱，展望未來，4.7%是富有後勁的經濟增速。我國經濟發展具有廣闊迴旋空間、巨大市場潛力和強大韌性活力。增長有潛力。隨著研發投入持續加碼，我國原始創新能力日益增強，科技創新和產業創新深度融合，創新驅動正在成為中國經濟增長的強大引擎。我國人才存量規模全球領先，人力資本穩步從數量紅利轉向質量紅利，資料、算力等新生產要素持續賦能傳統要素，共同支撐經濟高質量發展。改革有紅利。我們注重用改革辦法破解發展難題，經濟內生動力在不斷增強。全國統一大市場建設向縱深推進，地方違規招商引資、市場準入壁壘、招標投標等領域突出問題正在得到整治，將拓展我國市場廣度和深度，進一步釋放超大規模市場潛力。繼續綜合整治“內卷式”競爭，將塑造更加良性的市場環境，倒逼企業擺脫對價格單一維度的競爭，加快從規模擴張、價格競爭轉向質量提升、價值競爭。政策有空間。相比於部分經濟體依靠高債務、高赤字刺激經濟，我國沒有走過度依賴政策強刺激的路子，總量政策保持積極有為，結構政策“點穴”發力，避免形成政策“依賴症”。總的看，我國經濟長期向好的支撐條件和基本趨勢沒有改變，宏觀政策工具箱充足，逆週期調節空間依然較大，有條件根據形勢變化出臺務實管用的增量政策，有能力實現全年經濟社會發展目標任務。"
+    },
+    {
+      "id": "5054029",
+      "time": "2026-08-24 07:34:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“精準滴灌”提振消費 多家銀行積極響應信用卡分期貼息】為深入貫徹落實擴內需、促消費的國家戰略，財政部、中國人民銀行、金融監管總局近日聯合印發《關於進一步做好財政金融協同促內需政策有關工作的通知》，將單人在同家銀行累計年貼息上限提至5000元，貼息範圍擴充套件至“信用卡專項分期、消費分期、預借現金分期等新發生信用卡各類分期業務”。政策釋出後，各家銀行迅速響應，第一時間釋出操作細則與客戶問答。業內人士分析認為，信用卡憑藉其龐大的持卡使用者基礎、覆蓋全國的合作商戶網路以及便捷的線上辦理體驗，正成為財政貼息政策“精準滴灌”消費端的關鍵金融工具，有望對家電家裝、汽車消費、文旅出行等大宗消費領域產生提振效應。（上海證券報）"
+    },
+    {
+      "id": "5054027",
+      "time": "2026-08-24 07:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：北交所華匯智慧今日申購】今日可申購北交所新股華匯智慧，華匯智慧發行總數約1700萬股，發行市盈率14.99倍，申購程式碼920289，申購價格17.71元。"
+    },
     {
       "id": "5054026",
       "time": "2026-08-24 07:33:12",
@@ -144386,34 +144432,6 @@
         "公司"
       ],
       "text": "【壁仞科技：預計2026年上半年調整後虧損約2.9億至3.6億元】壁仞科技在港交所公告，基於對本集團截至 2026 年 6 月 30 日止六個月（“報告期”）未經稽核綜合管理賬目的初步測算，以及對目前可獲取最新資料的評估，本集團預計報告期將錄得：(i) 收入約人民幣 11.50 億元至人民幣 13.00 億元；對比截至 2025 年 6 月 30 日止六個月的約人民幣 0.589 億元，同期增長率約介於 1852%‑2107%；(ii) 期內虧損及本公司擁有人應占虧損約人民幣 3.20 億元至人民幣 4.00 億元；對比截至 2025 年 6 月 30 日止六個月的期內虧損及本公司擁有人應占虧損約人民幣 16.005 億元，同比大幅收窄約 75%‑80%；(iii) 經調整期內虧損（非國際財務報告準則計量）約人民幣 2.90 億元至人民幣 3.60 億元；對比截至 2025 年 6 月 30 日止六個月的約人民幣 5.516 億元，同比收窄約 35%‑47%。"
-    },
-    {
-      "id": "te:economy:575569",
-      "time": "2026-08-17 07:37:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Current Account",
-        "Importance 0"
-      ],
-      "text": "Russia Current Account Surplus Jumps in Q2 — Russia recorded a current account surplus of USD 21.4 billion in the second quarter of 2026, widening sharply from USD 2.2 billion in the corresponding period of the previous year. This marked the largest surplus since the first quarter of 2024, driven mainly by a stronger goods surplus, which rose to USD 38.3 billion from USD 23.6 billion, as exports jumped to USD 125.7 billion from USD 98.7 billion, outpacing the increase in imports to USD 87.4 billion from USD 75.1 billion. The stronger export performance reflected higher prices and increased demand for Russian goods, as the Middle East conflict disrupted regional energy supplies and pushed up global energy prices. Meanwhile, the services deficit was broadly unchanged at USD 12.5 billion from USD 12.6 billion, while the deficit in primary and secondary income narrowed substantially to USD 4.5 billion from USD 8.9 billion."
-    },
-    {
-      "id": "5043045",
-      "time": "2026-08-17 07:37:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【風語築參與共建全國首個具身智慧人才培養與考試認證中心】8月16日，杭州具身智慧人才培養與考試認證中心及宇樹科技機器人（具身智慧）職業技能培訓中心在杭州釋出，風語築作為共建單位參與。活動期間，杭州具身智慧中試基地科技有限公司、宇樹科技與杭州高新科創集團簽署戰略合作協議；風語築與宇樹科技、浙江大學控制學院等共建單位共同釋出首期實踐課程。"
-    },
-    {
-      "id": "5043044",
-      "time": "2026-08-17 07:35:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【提醒】韓國金融市場週一因光復節補休休市一日，週二恢復正常交易。"
     }
   ]
 }
