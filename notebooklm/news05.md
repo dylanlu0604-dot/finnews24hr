@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 13:38:24_
-_本檔包含 3043 則快訊，約 642987 字_
+_更新時間：2026-08-23 14:00:31_
+_本檔包含 3063 則快訊，約 642637 字_
+
+---
+
+### 2026-08-18 02:15:52  #MKT News #Important
+
+U.S. President Trump said the United States does not seek to extend its memorandum of understanding with Iran.
+
+---
+
+### 2026-08-18 02:15:05  #MKT News #WTI #Impact bearish #Brent
+
+President Trump said the Strait of Hormuz remains open and oil prices are retreating.
+
+---
+
+### 2026-08-18 02:15:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Heating Oil Rises by 3.73% — Top commodity gainers are Heating Oil (3.73%), Brent Crude Oil (2.75%) and Crude Oil WTI (2.67%). Biggest loser is Natural gas (-1.56%).
+
+---
+
+### 2026-08-18 02:14:49  #國際
+
+特朗普：伊朗麻煩大了。
+
+---
+
+### 2026-08-18 02:14:37  #市場 #國際
+
+美國30年期國債收益率達到5.31%，創最近十九年新高。
+
+---
+
+### 2026-08-18 02:14:14  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US 30-year Treasury yield climbed above 5.31%, hitting a 19-year high.
+
+---
+
+### 2026-08-18 02:14:09  #市場 #國際
+
+特朗普：霍爾木茲海峽是開放的，油價在下跌。
+
+---
+
+### 2026-08-18 02:13:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Trump said the US ships several million barrels of oil per week through the Strait of Hormuz and that the waterway is open.
+
+---
+
+### 2026-08-18 02:13:12  #MKT News #WTI #Impact bullish #XAUUSD
+
+U.S. President Trump said Iran is facing a major crisis.
+
+---
+
+### 2026-08-18 02:13:01  #國際
+
+特朗普：在我看來，反對宴會廳專案的這些人，對我們國家極度不忠。對我們國家極其不忠。
+
+---
+
+### 2026-08-18 02:12:31  #公司
+
+【一艘阿聯酋油輪在霍爾木茲海峽被攔截】海事資料顯示，一艘屬於阿聯酋公司的油輪在穿越霍爾木茲海峽時，在格什姆島附近被攔截。（央視新聞）
+
+---
+
+### 2026-08-18 02:12:25  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed
+
+Trump says the US controls the Strait of Hormuz.
+
+---
+
+### 2026-08-18 02:12:15  #國際
+
+特朗普重申將霍爾木茲海峽劃為美國領土的“想法”。
+
+---
+
+### 2026-08-18 02:12:10  #國際
+
+特朗普重申美國控制霍爾木茲海峽。
+
+---
+
+### 2026-08-18 02:08:31  #MKT News
+
+U.S. President Trump said the primary U.S. objective is to prevent Iran from acquiring nuclear weapons.
+
+---
+
+### 2026-08-18 02:07:26  #MKT News #Commodities #Energy #Market Themes #The Trump Trade
+
+U.S. President Trump said the UK prime minister faces immigration and energy issues.
+
+---
+
+### 2026-08-18 02:07:21  #國際
+
+特朗普就英國首相發表看法：他面臨移民和能源問題。
+
+---
+
+### 2026-08-18 02:07:20  #MKT News #Market Regions #Europe & UK #Brent #Impact bearish
+
+US President Trump said he believes the UK prime minister will open up the North Sea.
+
+---
+
+### 2026-08-18 02:07:03  #MKT News #Market Regions #Japan & APAC
+
+TRUMP on South Korea: If Seoul does not help the United States, the U.S. cannot protect it.
+
+---
+
+### 2026-08-18 02:06:45  #國際
+
+特朗普就英國首相表態：我認為他將開放北海。
+
+---
+
+### 2026-08-18 02:05:17  #MKT News
+
+U.S. President Trump said he gets on well with South Korea.
+
+---
+
+### 2026-08-18 02:05:00  #MKT News
+
+President Trump said Iran wants a deal but will not agree to the kind of deal he deems necessary.
+
+---
+
+### 2026-08-18 02:04:32  #國際
+
+特朗普：伊朗不會擁有核武器。
+
+---
+
+### 2026-08-18 02:04:30  #國際
+
+特朗普談及韓國：如果韓國不提供協助，我們就無法為其提供保護。
+
+---
+
+### 2026-08-18 02:04:26  #國際
+
+特朗普：伊朗想要達成協議，但他們不會接受我認為必要的協議。
+
+---
+
+### 2026-08-18 02:03:57  #焦點 #國際
+
+特朗普談伊朗：他們不會達成我認為有必要的協議。
+
+---
+
+### 2026-08-18 02:03:42  #MKT News
+
+President Trump said South Korea's president told him he would rather not get involved in the Iran issue.
+
+---
+
+### 2026-08-18 02:03:11  #公司 #觀點
+
+花旗集團：截至7月底信用卡拖欠率為1.32%。
 
 ---
 
@@ -18273,53 +18441,5 @@ TASNIM News reported Iran's official responsible for missing military personnel 
 ### 2026-08-16 14:01:03  #宏觀 #國際
 
 【朱鎔基同志遺體18日火化 天安門等地將下半旗誌哀】中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，傑出的無產階級革命家、政治家，黨和國家的卓越領導人，中國共產黨第十四屆、十五屆中央政治局常委，國務院原總理朱鎔基同志的遺體，將於18日在北京火化。為悼念朱鎔基同志，18日，首都天安門、新華門、人民大會堂、外交部，各省、自治區、直轄市黨委和政府所在地，香港特別行政區、澳門特別行政區，各邊境口岸，對外海空港口，中國駐外使領館將下半旗誌哀。（新華社）
-
----
-
-### 2026-08-16 13:58:56  #MKT News
-
-【US Navy finds unidentified drone at largest Italian base; base-wide security measures enacted】Stars and Stripes reported on 14 that the US Navy discovered an unidentified small drone at its largest base in Italy and implemented base-wide security measures. The drone was found on 13 at a support site, prompting precautionary action. Separately, a brief shelter-in-place order was issued at a garrison about 13 miles (21 km) from the discovery; officials have not confirmed whether the order was related to the drone or whether similar orders were issued at the support site.
-
----
-
-### 2026-08-16 13:57:56  #國際
-
-【美媒：美海軍在義大利最大基地內發現無人機，並採取全基地安全措施】據美國《星條旗報》當地時間14日報道，美國海軍在義大利最大基地內日前發現一架身份不明的無人機，並採取了全基地安全措施。報道稱，該小型無人機於13日在美海軍基地一支援點中被發現，促使安全部隊採取預防措施。在發現該無人機前後，美海軍基地在其位於距離事發地點約13英里（約21千米）的一個駐地釋出了短暫的就地避險令。目前尚不清楚這項避險令是否與發現了無人機有關，也不清楚支援點中是否也釋出了類似的命令。（環球網）
-
----
-
-### 2026-08-16 13:52:36  #國際
-
-匈牙利總理：一輛波蘭巴士在匈牙利發生事故，已造成12人死亡，至少10人受傷。
-
----
-
-### 2026-08-16 13:52:18  #公司 #市場 #央行 #國際
-
-【“恐慌指數”跌至年內低位 科技股高位震盪】本週美股各大指數表現分化，標普500迎來7800點里程碑的同時道指結束周線兩連陽。美國通脹資料疊加零售銷售下滑，提升了美聯儲9月暫停加息的機率；與此同時，特朗普政府對中東局勢釋放的訊號，成為打壓風險偏好的理由。 未來一週，隨著財報季臨近尾聲，地緣政治因素和美聯儲貨幣政策預期或重新主導市場，而衡量市場波動性的芝商所“恐慌指數”VIX跌至年內低位，可能醞釀著新一輪波動的風險。 牛津經濟研究院高階經濟學家鮑勃·施瓦茨在接受記者採訪時表示，美國物價最大的不確定性變數仍是能源價格，中東衝突可以把通脹推向完全不同的方向。核心通脹已經回落至2.5%，但自 2021年之後就很難進一步跌破該水平，這也給美聯儲鷹派提供了支援繼續加息的論據。他認為，長期來看，AI帶來的生產率提升有望抑制通脹；但短期，資料中心、半導體、儲存晶片的鉅額需求，已經推高科技板塊部分環節的價格，對AI長期抗通脹的前景形成短期對沖。（第一財經）
-
----
-
-### 2026-08-16 13:48:55  #MKT News #Market Regions #Greater China
-
-【China launches batch of 24 LEO satellites for satellite internet】At 12:10 Beijing time on Aug 16, 2026, China launched a batch of 24 low‑Earth‑orbit satellites for a satellite internet constellation from its Hainan commercial spaceport aboard a Long March‑12 rocket; the satellites reached their planned orbit and the launch was successful.
-
----
-
-### 2026-08-16 13:46:12  #其他
-
-【我國成功發射衛星網際網路低軌24組衛星】北京時間2026年8月16日12時10分，我國在海南商業航天發射場使用長征十二號運載火箭，成功將衛星網際網路低軌24組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（央視新聞）
-
----
-
-### 2026-08-16 13:43:58  #公司
-
-【雲南約談通報投訴量排名前50旅行社：將實施重點監管】近日，雲南省文化和旅遊廳召開全省投訴較多旅行社負責人影片約談通報會，對昆明康輝旅行社有限公司、雲南中青國際旅行社（集團）有限公司、西雙版納怡程國際旅行社有限公司等全省投訴量排名前50的旅行社進行通報。
-
----
-
-### 2026-08-16 13:40:13  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-According to the Jerusalem Post, the Israel Defense Forces killed senior Hezbollah commander Abu Hassan Ara in a weekend strike in the Der Zahrani area of southern Lebanon.
 
 ---

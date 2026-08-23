@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 13:38:24_
-_本檔包含 3373 則快訊，約 642740 字_
+_更新時間：2026-08-23 14:00:31_
+_本檔包含 3375 則快訊，約 643411 字_
+
+---
+
+### 2026-08-21 10:00:37  #其他
+
+【北京經開區釋出產教融合計劃 十大核心舉措推動校地企社協同育才】據“北京亦莊”公眾號訊息，近日，在2026首都僑智大會分場活動—北京亦莊人才發展大會上，北京經開區正式釋出產教融合計劃。該計劃面向新質生產力發展需求，依託未來產業研究院總平臺，推出“百校協同、百企共創、全鏈育才、成果挖潛、聯合攻關、導師領航、平臺築基、政策賦能、金融助力、生態營造”十大核心舉措，推動教育鏈、人才鏈、創新鏈、產業鏈深度融合，加快構建校地企社協同育人、協同創新、協同轉化的產教融合新格局。
+
+---
+
+### 2026-08-21 10:00:33  #公司
+
+【我國自研11.5萬噸成品油輪今日正式交付】從中船集團獲悉，今天（21日）我國自主研發建造的11.5萬噸成品油輪正式交付使用者。船舶發動機等核心裝置實現國產化，載貨量、航速、油耗指標均達到國際先進水平。
+
+---
+
+### 2026-08-21 10:00:20  #其他
+
+【重慶市原副市長江敦濤被提起公訴】從最高人民檢察院獲悉，重慶市政府原黨組成員、副市長江敦濤涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對江敦濤作出逮捕決定，並指定由四川省樂山市人民檢察院審查起訴。近日，樂山市人民檢察院已向樂山市中級人民法院提起公訴。檢察機關在審查起訴階段，依法告知了被告人江敦濤享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人江敦濤利用擔任共青團青島市委常委、組織部部長，青島市城陽區委常委、副區長，青島市委組織部副部長，青島市嶗山區區長、青島高科技工業園管委會主任，青島市嶗山區委書記，淄博市委書記，濰坊市委書記，重慶市政府黨組成員、副市長等職務上的便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。
 
 ---
 
@@ -20366,11 +20384,5 @@ Hong Kong-listed new-energy vehicle stocks advanced: Nio (09866.HK) and Li Auto 
 ### 2026-08-20 09:45:45  #Trading Economics #Markets #Japan #Currency #Importance 1
 
 Yen Strengthens as Dollar, Yields Retreat — The Japanese yen traded near 158 per dollar on Thursday after gaining nearly 1% in the previous session, supported by a sharp decline in the dollar and retreating Treasury yields as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Still, the yen remained under pressure over the longer term due to wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. Latest data also showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips.
-
----
-
-### 2026-08-20 09:45:43  #市場 #國際
-
-韓國KOSPI指數日內大漲6.00%。個股方面，SK海力士漲超12%，三星電子漲超8%。
 
 ---

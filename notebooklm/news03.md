@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 13:38:24_
-_本檔包含 3220 則快訊，約 643031 字_
+_更新時間：2026-08-23 14:00:31_
+_本檔包含 3215 則快訊，約 641708 字_
+
+---
+
+### 2026-08-20 09:45:43  #市場 #國際
+
+韓國KOSPI指數日內大漲6.00%。個股方面，SK海力士漲超12%，三星電子漲超8%。
 
 ---
 
@@ -19386,41 +19392,5 @@ South Korean Shares Plunge — The benchmark KOSPI fell more than 4% to around 6
 ### 2026-08-19 09:40:11  #公司 #市場
 
 【飲料製造板塊短線走低，一鳴食品跌停】飲料製造板塊短線走低，一鳴食品跌停，皇氏集團、西部牧業、威龍股份、均瑤健康、三元股份等跟跌。
-
----
-
-### 2026-08-19 09:40:04  #公司 #市場
-
-【新股N雙英漲超143% 觸發臨停】新股N雙英擴大漲幅至143%，觸發臨停，成交超2.6億元。資料顯示，公司主營汽車座椅、汽車內外飾件研發、生產和銷售。
-
----
-
-### 2026-08-19 09:39:42  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #NVDA.O #Impact bullish #AMD.O #GOOGL.O
-
-【Liquid cooling for AI servers moving from optional to mainstream】TrendForce projects liquid-cooling penetration in AI servers will rise from about 38% in 2025 to 53% in 2026 and near 60% in 2027. The rise is driven by broader adoption of liquid cooling in next‑generation AI platforms from NVIDIA, AMD and Google; as chip power and rack density increase, liquid cooling is shifting from an optional add‑on for high‑power servers to mainstream AI infrastructure. Penetration topping 50% in 2026 implies incremental AI capex will increasingly flow into cooling, power and data‑center support equipment.
-
----
-
-### 2026-08-19 09:39:17  #MKT News #Market Regions #Greater China
-
-【Liang Wenfeng’s Yushu Technology allocation shows >1.1 bln yuan unrealized gain】On Aug. 19 Yushu Technology debuted on the STAR Market, surging 629.44% at 1,100 yuan/share and valuing the company at about 444.9 bln yuan. Investment vehicles linked to Liang Wenfeng — Deep Quest, Magic Square Quant and Nine Chapters Asset — were allocated roughly 1.1916 mln shares via strategic allotments and offline subscriptions; at the offering price the position carries an unrealized gain of more than 1.1 bln yuan.
-
----
-
-### 2026-08-19 09:38:50  #市場
-
-【影視院線板塊盤初走弱，北京文化跌停】影視院線板塊盤初走弱，北京文化跌停，中廣天擇、儒意電影、華智數媒、華策影視、百納千成、歡瑞世紀等跟跌。
-
----
-
-### 2026-08-19 09:38:50  #市場 #焦點
-
-紐約期金突破4410美元/盎司，日內跌0.24%。
-
----
-
-### 2026-08-19 09:38:39  #其他
-
-【港股光通訊股走弱 劍橋科技跌超6%】截至發稿，劍橋科技(06166.HK)跌6.04%，長飛光纖光纜(06869.HK)跌5.27%，匯聚科技(01729.HK)跌5.20%。
 
 ---

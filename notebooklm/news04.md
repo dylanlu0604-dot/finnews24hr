@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 13:38:24_
-_本檔包含 3229 則快訊，約 642957 字_
+_更新時間：2026-08-23 14:00:31_
+_本檔包含 3207 則快訊，約 642644 字_
+
+---
+
+### 2026-08-19 09:40:04  #公司 #市場
+
+【新股N雙英漲超143% 觸發臨停】新股N雙英擴大漲幅至143%，觸發臨停，成交超2.6億元。資料顯示，公司主營汽車座椅、汽車內外飾件研發、生產和銷售。
+
+---
+
+### 2026-08-19 09:39:42  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #NVDA.O #Impact bullish #AMD.O #GOOGL.O
+
+【Liquid cooling for AI servers moving from optional to mainstream】TrendForce projects liquid-cooling penetration in AI servers will rise from about 38% in 2025 to 53% in 2026 and near 60% in 2027. The rise is driven by broader adoption of liquid cooling in next‑generation AI platforms from NVIDIA, AMD and Google; as chip power and rack density increase, liquid cooling is shifting from an optional add‑on for high‑power servers to mainstream AI infrastructure. Penetration topping 50% in 2026 implies incremental AI capex will increasingly flow into cooling, power and data‑center support equipment.
+
+---
+
+### 2026-08-19 09:39:17  #MKT News #Market Regions #Greater China
+
+【Liang Wenfeng’s Yushu Technology allocation shows >1.1 bln yuan unrealized gain】On Aug. 19 Yushu Technology debuted on the STAR Market, surging 629.44% at 1,100 yuan/share and valuing the company at about 444.9 bln yuan. Investment vehicles linked to Liang Wenfeng — Deep Quest, Magic Square Quant and Nine Chapters Asset — were allocated roughly 1.1916 mln shares via strategic allotments and offline subscriptions; at the offering price the position carries an unrealized gain of more than 1.1 bln yuan.
+
+---
+
+### 2026-08-19 09:38:50  #市場
+
+【影視院線板塊盤初走弱，北京文化跌停】影視院線板塊盤初走弱，北京文化跌停，中廣天擇、儒意電影、華智數媒、華策影視、百納千成、歡瑞世紀等跟跌。
+
+---
+
+### 2026-08-19 09:38:50  #市場 #焦點
+
+紐約期金突破4410美元/盎司，日內跌0.24%。
+
+---
+
+### 2026-08-19 09:38:39  #其他
+
+【港股光通訊股走弱 劍橋科技跌超6%】截至發稿，劍橋科技(06166.HK)跌6.04%，長飛光纖光纜(06869.HK)跌5.27%，匯聚科技(01729.HK)跌5.20%。
 
 ---
 
@@ -19361,173 +19397,5 @@ Metals Commodities Updates: Silver Rises by 2.02% — Top commodity gainers are 
 ### 2026-08-18 02:16:29  #焦點 #國際
 
 特朗普稱美國不尋求延長伊朗協議備忘錄。
-
----
-
-### 2026-08-18 02:15:52  #MKT News #Important
-
-U.S. President Trump said the United States does not seek to extend its memorandum of understanding with Iran.
-
----
-
-### 2026-08-18 02:15:05  #MKT News #WTI #Impact bearish #Brent
-
-President Trump said the Strait of Hormuz remains open and oil prices are retreating.
-
----
-
-### 2026-08-18 02:15:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Heating Oil Rises by 3.73% — Top commodity gainers are Heating Oil (3.73%), Brent Crude Oil (2.75%) and Crude Oil WTI (2.67%). Biggest loser is Natural gas (-1.56%).
-
----
-
-### 2026-08-18 02:14:49  #國際
-
-特朗普：伊朗麻煩大了。
-
----
-
-### 2026-08-18 02:14:37  #市場 #國際
-
-美國30年期國債收益率達到5.31%，創最近十九年新高。
-
----
-
-### 2026-08-18 02:14:14  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-US 30-year Treasury yield climbed above 5.31%, hitting a 19-year high.
-
----
-
-### 2026-08-18 02:14:09  #市場 #國際
-
-特朗普：霍爾木茲海峽是開放的，油價在下跌。
-
----
-
-### 2026-08-18 02:13:41  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Trump said the US ships several million barrels of oil per week through the Strait of Hormuz and that the waterway is open.
-
----
-
-### 2026-08-18 02:13:12  #MKT News #WTI #Impact bullish #XAUUSD
-
-U.S. President Trump said Iran is facing a major crisis.
-
----
-
-### 2026-08-18 02:13:01  #國際
-
-特朗普：在我看來，反對宴會廳專案的這些人，對我們國家極度不忠。對我們國家極其不忠。
-
----
-
-### 2026-08-18 02:12:31  #公司
-
-【一艘阿聯酋油輪在霍爾木茲海峽被攔截】海事資料顯示，一艘屬於阿聯酋公司的油輪在穿越霍爾木茲海峽時，在格什姆島附近被攔截。（央視新聞）
-
----
-
-### 2026-08-18 02:12:25  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed
-
-Trump says the US controls the Strait of Hormuz.
-
----
-
-### 2026-08-18 02:12:15  #國際
-
-特朗普重申將霍爾木茲海峽劃為美國領土的“想法”。
-
----
-
-### 2026-08-18 02:12:10  #國際
-
-特朗普重申美國控制霍爾木茲海峽。
-
----
-
-### 2026-08-18 02:08:31  #MKT News
-
-U.S. President Trump said the primary U.S. objective is to prevent Iran from acquiring nuclear weapons.
-
----
-
-### 2026-08-18 02:07:26  #MKT News #Commodities #Energy #Market Themes #The Trump Trade
-
-U.S. President Trump said the UK prime minister faces immigration and energy issues.
-
----
-
-### 2026-08-18 02:07:21  #國際
-
-特朗普就英國首相發表看法：他面臨移民和能源問題。
-
----
-
-### 2026-08-18 02:07:20  #MKT News #Market Regions #Europe & UK #Brent #Impact bearish
-
-US President Trump said he believes the UK prime minister will open up the North Sea.
-
----
-
-### 2026-08-18 02:07:03  #MKT News #Market Regions #Japan & APAC
-
-TRUMP on South Korea: If Seoul does not help the United States, the U.S. cannot protect it.
-
----
-
-### 2026-08-18 02:06:45  #國際
-
-特朗普就英國首相表態：我認為他將開放北海。
-
----
-
-### 2026-08-18 02:05:17  #MKT News
-
-U.S. President Trump said he gets on well with South Korea.
-
----
-
-### 2026-08-18 02:05:00  #MKT News
-
-President Trump said Iran wants a deal but will not agree to the kind of deal he deems necessary.
-
----
-
-### 2026-08-18 02:04:32  #國際
-
-特朗普：伊朗不會擁有核武器。
-
----
-
-### 2026-08-18 02:04:30  #國際
-
-特朗普談及韓國：如果韓國不提供協助，我們就無法為其提供保護。
-
----
-
-### 2026-08-18 02:04:26  #國際
-
-特朗普：伊朗想要達成協議，但他們不會接受我認為必要的協議。
-
----
-
-### 2026-08-18 02:03:57  #焦點 #國際
-
-特朗普談伊朗：他們不會達成我認為有必要的協議。
-
----
-
-### 2026-08-18 02:03:42  #MKT News
-
-President Trump said South Korea's president told him he would rather not get involved in the Iran issue.
-
----
-
-### 2026-08-18 02:03:11  #公司 #觀點
-
-花旗集團：截至7月底信用卡拖欠率為1.32%。
 
 ---
