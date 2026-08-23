@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:51:44_
-_本檔包含 3304 則快訊，約 634722 字_
+_更新時間：2026-08-24 02:44:09_
+_本檔包含 3306 則快訊，約 634085 字_
+
+---
+
+### 2026-08-21 11:13:04  #經濟數據 #中國
+
+【中汽協：7月中國品牌乘用車共銷售175.4萬輛 環比下降3.2%】據中國汽車工業協會統計分析，2026年7月，中國品牌乘用車共銷售175.4萬輛，環比下降3.2%，同比增長9.3%，佔乘用車銷售總量的77.4%，銷量佔有率比去年同期提升7.2個百分點。2026年1-7月，中國品牌乘用車共銷售1089.2萬輛，同比增長0.2%，佔乘用車銷售總量的72.7%，銷量佔有率比與去年同期提升4個百分點。
+
+---
+
+### 2026-08-21 11:12:16  #公司
+
+【蘇美達：機電公司交付中國移動、中國聯通多地備用電源專案】據蘇美達訊息，近日，蘇美達所屬機電公司成功交付中國移動、中國聯通多地備用電源專案，為客戶提供一批FIRMAN柴油發電機組。
+
+---
+
+### 2026-08-21 11:12:15  #MKT News #MRVL.O #Impact bullish
+
+Oppenheimer raised its PT on MARVELL (MRVL.O) to $300 from $250.
+
+---
+
+### 2026-08-21 11:12:11  #MKT News #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Impact bullish
+
+【Industry Association: July 2026 China-brand passenger-vehicle sales 1.754 mln, down 3.2% MoM】The Industry Association said China-brand passenger-vehicle sales were 1.754 mln units in July 2026, down 3.2% MoM and up 9.3% YoY, representing 77.4% of passenger-vehicle sales, up 7.2 percentage points YoY. Jan–Jul 2026 cumulative China-brand passenger-vehicle sales were 10.892 mln units, up 0.2% YoY and accounting for 72.7% of passenger-vehicle sales, up 4.0 percentage points YoY.
+
+---
+
+### 2026-08-21 11:11:14  #公司
+
+【華誼兄弟電影被貓眼申請限消】天眼查法律訴訟資訊顯示，近日，華誼兄弟電影有限公司及王忠磊新增一則限制消費令，申請人為天津貓眼微影文化傳媒有限公司，執行法院為北京市朝陽區人民法院，案件流程資訊顯示，此前，該公司已因此案被執行708萬餘元。華誼兄弟電影有限公司成立於2015年12月，法定代表人為王忠磊，註冊資本1億人民幣，經營範圍包括電影、網路劇製作、發行等，由華誼兄弟傳媒股份有限公司全資持股。
 
 ---
 
@@ -19934,29 +19964,5 @@ Department of Statistics Malaysia: July exports rose 38.0% (REUTERS SURVEY 34.3%
 ### 2026-08-20 12:01:31  #MKT News #Important #CSI300 #Impact bearish #Hang Seng Index
 
 【Xu Jiayin sentenced to life; first-instance verdicts in Evergrande Group and Evergrande Real Estate cases】On the morning of Aug 20, 2026, the Shenzhen Intermediate People’s Court issued first-instance verdicts in cases against Evergrande Group Co., Ltd., Evergrande Real Estate Group Co., Ltd. and Xu Jiayin. Evergrande Group was fined RMB 8.82 bln following combined convictions; Evergrande Real Estate was fined RMB 7.0 bln. Xu Jiayin was sentenced to life imprisonment, deprived of political rights for life, and ordered to forfeit all personal property; illicit gains will continue to be recovered and any shortfall will be ordered repaid. The Shenzhen Intermediate Court and Nanshan District People’s Court also sentenced 56 Evergrande-related defendants for illegal public deposit-taking, fundraising fraud and illegal use of funds to fixed-term prison terms ranging from 18 years to 1 year 10 months, and imposed fines or property confiscation; illicit gains will be recovered and shortfalls ordered repaid. Named defendants include Zhen Litao, Ke Peng, Xu Tenghe, Xu Zhijian, Du Liang and Liang Dong.
-
----
-
-### 2026-08-20 12:00:16  #公司 #其他 #焦點
-
-【許家印被判處無期徒刑 恒大集團、恒大地產等案一審宣判】2026年8月20日上午，廣東省深圳市中級人民法院對被告單位恒大集團有限公司（以下簡稱恒大集團）、被告單位恒大地產集團有限公司（以下簡稱恒大地產）、被告人許家印案進行一審公開宣判。對恒大集團數罪併罰，判處罰金人民幣88.2億元；對恒大地產判處罰金人民幣70億元；對許家印數罪併罰，判處無期徒刑，剝奪政治權利終身，並處沒收個人全部財產；對違法所得繼續追繳，不足部分責令退賠。
-
-法院經審理查明，被告人許家印系被告單位恒大集團的實際控制人，全面負責集團運營活動，管理、控制被告單位恒大地產及恒大財富、恒大南昌等多家企業，投資地產、物業、金融等領域。2016年至2021年間，恒大集團、恒大地產及許家印違反國家法律規定，以持續性、大規模財務造假等手段，虛增資產、隱瞞負債，分別實施了非法吸收公眾存款、集資詐騙、欺詐發行證券、違規披露重要資訊等犯罪行為；恒大集團及許家印透過行賄等手段取得金融機構控制權，違法套取信貸資金、保險資金歸恒大集團使用，實施了單位行賄、違法發放貸款、違法運用資金等犯罪行為。許家印還利用作為恒大地產董事長的職務便利，組織財務造假，以分紅名義侵佔公司財產。
-
-法院認為，被告單位恒大集團、被告人許家印的行為已構成非法吸收公眾存款罪、集資詐騙罪、違法發放貸款罪、欺詐發行證券罪、違規披露重要資訊罪、單位行賄罪；許家印的行為還構成違法運用資金罪、職務侵佔罪；被告單位恒大地產的行為已構成欺詐發行證券罪。對恒大集團、許家印應依法數罪併罰。恒大集團、恒大地產及許家印的犯罪行為嚴重破壞社會主義市場經濟秩序，侵犯公私財產權益，侵害國家工作人員職務行為的廉潔性，犯罪數額特別巨大，情節特別惡劣，造成特別重大經濟損失，社會危害特別嚴重，應當依法嚴懲。法院根據被告單位、被告人的犯罪事實、性質、情節和對於社會的危害程度，依法作出上述判決。根據法律及司法解釋規定，退賠損失優先於罰金刑、沒收財產刑的執行。
-
-同日，深圳市中級人民法院、深圳市南山區人民法院還公開宣判了恒大集團相關涉案人員非法吸收公眾存款、集資詐騙、違法運用資金等案，依法對甄立濤、柯鵬、許騰鶴、許智健、杜亮、樑棟等56人判處有期徒刑十八年至一年十個月不等的刑罰，並處罰金或沒收財產；對違法所得繼續追繳，不足部分責令退賠。（央視新聞）
-
----
-
-### 2026-08-20 11:59:59  #公司
-
-【拼多多雄安公司員工規模突破4000人】8月20日訊息，拼多多雄安公司員工規模正式突破4000人，專項招聘計劃已完成逾80%。
-
----
-
-### 2026-08-20 11:57:32  #MKT News
-
-【Unigroup Guowei optimistic on revenue upside from commercial space business】At an Aug. 19 results briefing, Unigroup Guowei said its commercial space unit—built over several years—is expected to enter volume shipments in 2025, marking a potential revenue inflection. The company said it currently holds a dominant share in commercial-space storage with DDR and Flash products, is rolling out FPGA and associated readback/refresh products that are already flight‑proven in orbit, and is expanding power and bus‑interface lines to offer full system solutions, underpinning its optimism about incremental revenue from the segment.
 
 ---

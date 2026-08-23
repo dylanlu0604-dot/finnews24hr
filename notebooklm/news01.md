@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:51:44_
-_本檔包含 3236 則快訊，約 634877 字_
+_更新時間：2026-08-24 02:44:09_
+_本檔包含 3240 則快訊，約 634849 字_
+
+---
+
+### 2026-08-24 02:33:25  #公司 #國際
+
+埃及正與阿布扎比國家石油鑽井公司（ADNOC DRILLING）洽談戰略鑽井合作，以拓展陸上及海上油氣勘探業務。
+
+---
+
+### 2026-08-24 02:32:00  #其他
+
+【巴西左右翼陣營在里約熱內盧舉行競選集會】當日，巴西左翼與右翼陣營在里約熱內盧舉行競選集會，宣佈參加2026年巴西總統選舉的巴西現任總統、左翼領袖盧拉和右翼總統候選人弗拉維奧·博索納羅分別現身，為競選造勢。（新華社）
+
+---
+
+### 2026-08-24 02:22:16  #其他
+
+【幾內亞首都一垃圾填埋場垮塌造成至少30人死亡】幾內亞政府23日釋出通報說，該國首都科納克里郊區一處垃圾填埋場當天發生垮塌事故，已造成30人死亡、22人受傷，其中6人重傷。
+
+---
+
+### 2026-08-24 02:19:03  #國際
+
+俄羅斯即將迎來來自土耳其的首批海運汽油，約20萬桶油料正運往俄羅斯。自7月下旬以來，俄羅斯海運汽油進口量已突破100萬桶。
+
+---
+
+### 2026-08-24 02:04:47  #公司 #國際
+
+日本綠色轉型加速機構投資兩家初創企業，分別聚焦核聚變與塑膠回收領域。兩家投資物件為京都聚變工程公司和JEPLAN公司。
+
+---
+
+### 2026-08-24 02:02:54  #國際
+
+市場資訊：日本透過公私合作基金向核聚變和回收初創企業提供1.25億美元支援。
+
+---
+
+### 2026-08-24 01:54:55  #國際
+
+【伊朗總統稱應擺脫非戰非和狀態】據伊朗官方通訊社伊通社8月23日報道，伊朗總統佩澤希齊揚當地時間8月22日晚在德黑蘭出席一場活動時表示，伊朗最高國家安全委員會成員均認為，此前與美國達成的諒解備忘錄是基於尊嚴、智慧及國家利益所能達成的最佳方案。這份備忘錄中“找不到任何一項條款表明伊朗投降或作出退讓”，相關承諾均由對方承擔。但伊朗也應以理性方式，使國家擺脫眼下這種“既非戰爭、也非和平”的狀態，在戰爭或“非戰非和”的狀態下，伊朗難以吸引投資。他還提及已故最高領袖阿里·哈梅內伊也曾明確表示必須擺脫“非戰非和”狀態。 佩澤希齊揚還表示，伊朗最高領袖穆傑塔巴·哈梅內伊制定國家政策，政府將按照相關政策繼續推進有關工作。 （CCTV國際時訊）
+
+---
+
+### 2026-08-24 01:54:27  #其他
+
+幾內亞政府稱，垃圾填埋場坍塌事故已致30人死亡。
+
+---
+
+### 2026-08-24 01:51:32  #國際
+
+【美眾議院議長：伊朗衝突或將很快進入新階段，期待盟國協助收尾】美國眾議院議長邁克·約翰遜表示，他預計伊朗衝突很快將進入新階段，並相信盟國將協助美國結束這場衝突。約翰遜在接受採訪時稱：“我認為局勢很快就會進入一個全新階段。我相信我們的盟國將在下一階段提供協助，我們終將了結此事。”他表示：“我們必須確保伊朗無法獲得核武器。過去美國政府都將此作為目標，而特朗普做到了。”約翰遜同時稱，石油仍經霍爾木茲海峽外運，但談判過程中對德黑蘭方面的不信任構成一大難題。“談判桌上你無法信任伊朗人，這就是癥結所在。”他說道。
 
 ---
 
@@ -19502,35 +19556,5 @@ China and Indonesia held the inaugural meeting of their Comprehensive Strategic 
 ### 2026-08-21 11:13:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Nikkei 225 #Impact bearish #US10Y
 
 【Japan's Nikkei set for biggest weekly drop since week ending July 17 as Middle East uncertainty lifts oil, yields】Japan's Nikkei index slipped 0.3% by Friday midday and is on track for about a 4% weekly decline, its largest weekly fall since the week ending July 17, as uncertainty around the Middle East conflict pushed oil higher and heightened inflation concerns. The broader TOPIX fell 0.1% and is set for a roughly 3.4% weekly drop. Nomura strategist Maki Sawada said profit-taking is likely into the weekend as oil and bond yields rise amid Middle East uncertainty.
-
----
-
-### 2026-08-21 11:13:04  #經濟數據 #中國
-
-【中汽協：7月中國品牌乘用車共銷售175.4萬輛 環比下降3.2%】據中國汽車工業協會統計分析，2026年7月，中國品牌乘用車共銷售175.4萬輛，環比下降3.2%，同比增長9.3%，佔乘用車銷售總量的77.4%，銷量佔有率比去年同期提升7.2個百分點。2026年1-7月，中國品牌乘用車共銷售1089.2萬輛，同比增長0.2%，佔乘用車銷售總量的72.7%，銷量佔有率比與去年同期提升4個百分點。
-
----
-
-### 2026-08-21 11:12:16  #公司
-
-【蘇美達：機電公司交付中國移動、中國聯通多地備用電源專案】據蘇美達訊息，近日，蘇美達所屬機電公司成功交付中國移動、中國聯通多地備用電源專案，為客戶提供一批FIRMAN柴油發電機組。
-
----
-
-### 2026-08-21 11:12:15  #MKT News #MRVL.O #Impact bullish
-
-Oppenheimer raised its PT on MARVELL (MRVL.O) to $300 from $250.
-
----
-
-### 2026-08-21 11:12:11  #MKT News #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Impact bullish
-
-【Industry Association: July 2026 China-brand passenger-vehicle sales 1.754 mln, down 3.2% MoM】The Industry Association said China-brand passenger-vehicle sales were 1.754 mln units in July 2026, down 3.2% MoM and up 9.3% YoY, representing 77.4% of passenger-vehicle sales, up 7.2 percentage points YoY. Jan–Jul 2026 cumulative China-brand passenger-vehicle sales were 10.892 mln units, up 0.2% YoY and accounting for 72.7% of passenger-vehicle sales, up 4.0 percentage points YoY.
-
----
-
-### 2026-08-21 11:11:14  #公司
-
-【華誼兄弟電影被貓眼申請限消】天眼查法律訴訟資訊顯示，近日，華誼兄弟電影有限公司及王忠磊新增一則限制消費令，申請人為天津貓眼微影文化傳媒有限公司，執行法院為北京市朝陽區人民法院，案件流程資訊顯示，此前，該公司已因此案被執行708萬餘元。華誼兄弟電影有限公司成立於2015年12月，法定代表人為王忠磊，註冊資本1億人民幣，經營範圍包括電影、網路劇製作、發行等，由華誼兄弟傳媒股份有限公司全資持股。
 
 ---

@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:51:44_
-_本檔包含 3135 則快訊，約 634067 字_
+_更新時間：2026-08-24 02:44:09_
+_本檔包含 3138 則快訊，約 634123 字_
+
+---
+
+### 2026-08-19 11:31:33  #MKT News #Market Regions #Greater China
+
+【China government bond futures morning session close】China government bond futures morning close: 2-year (TS) main contract +0.01%, 5-year (TF) main contract flat, 10-year (T) main contract -0.01%, 30-year (TL) main contract -0.10%.
+
+---
+
+### 2026-08-19 11:31:28  #其他
+
+【2026七夕檔票房破億】據貓眼專業版資料，截至11時30分，2026年七夕檔（8月19日）累計票房破億，《歡迎來龍餐館》《空槍》《奧德賽》暫列七夕檔票房榜前三位。
+
+---
+
+### 2026-08-19 11:31:26  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #CSI500 #SSE Composite
+
+【China equity index futures morning session close】CSI 300 index futures (IF) most-active contract fell 2.17% at the morning close; SSE 50 index futures (IH) down 1.54%; CSI 500 index futures (IC) down 3.14%; CSI 1000 index futures (IM) down 3.58%.
+
+---
+
+### 2026-08-19 11:31:13  #公司 #市場 #A股
+
+【午評：科創50指數低開低走大跌6.07%，算力硬體股集體回撥】A股三大指數早盤集體下跌，截至午盤，上證指數跌1.96%，深證成指跌3.97%，創業板指跌4.98%，北證50跌3.7%，科創50指數跌6.07%。全市場成交額16311億元，較上日縮量182億元，全市場超4900只個股下跌。板塊題材上，廚衛電器、煤炭開採加工、銀行、油氣開採及服務、港口航運板塊漲幅居前；電子化學品、CPO、儲存晶片、半導體、元件板塊跌幅居前。盤面上，廚衛電器板塊異動拉昇，日出東方漲停，億田智慧一度逼近20cm漲停，萬和電器、老闆電器、華帝股份跟漲。煤炭開採加工板塊高開高走，寶泰隆、陝西黑貓、大有能源、美錦能源漲停，安泰集團、鄭州煤電、遼寧能源漲幅居前。銀行板塊震盪走高，中信銀行、成都銀行、南京銀行漲幅居前。CPO板塊低開低走，天洋新材跌停，富信科技、泰金新能、德科立、深科達、通富微電等多股大幅下跌。半導體板塊亦大幅下挫，盛美上海、芯原股份、華虹宏力、芯朋微、傑華特等多股盤中跌超10%。元件板塊亦表現疲軟，賢豐控股跌停，麥捷科技、科翔股份、泰晶科技、興森科技、南亞新材跌幅居前。
+
+---
+
+### 2026-08-19 11:31:02  #MKT News #Important #Commodities #Energy #Industrial Metals #Precious Metals #WTI #Impact bullish #Brent
+
+At the morning-session close, China's most-active futures contracts were mixed with gains outnumbering losses: fuel oil jumped over 5%; methanol and starch rose nearly 3%; synthetic rubber, asphalt, low-sulfur fuel oil (LU), coke, coking coal and SC crude oil gained more than 2%. Shanghai silver fell over 4%; palladium, lithium carbonate, platinum, soda ash and container-shipping Europe-route futures declined more than 2%.
+
+---
+
+### 2026-08-19 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約跌0.10%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。
+
+---
+
+### 2026-08-19 11:30:03  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續跌3.56%， 滬深300指數期貨連續跌2.15%， 中證500指數期貨連續跌3.11%， 上證50指數期貨連續跌1.57%。
+
+---
+
+### 2026-08-19 11:30:03  #市場
+
+【商品期貨早盤收盤】白銀連續跌4.13%，甲醇連續漲2.89%，燃料油連續漲2.84%，鈀連續跌2.82%，澱粉連續漲2.72%。
+
+---
+
+### 2026-08-19 11:29:39  #國際
+
+【印尼東努沙登加拉省發生5.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼西部時間8月19日10時13分，印尼東努沙登加拉省納格克縣姆拜鎮東北54公里處發生5.2級地震，震源深度10公里，沒有海嘯風險。
+
+---
+
+### 2026-08-19 11:29:02  #國際
+
+貝恩資本旗下Proterial擬透過出售日本線材企業籌資13億美元。
+
+---
+
+### 2026-08-19 11:28:34  #其他
+
+【我國深遠海風電領域多個專案建造完成關鍵節點】據中國船舶工業行業協會訊息，近日，我國深遠海風電裝備在海纜敷設、構件運輸、浮式發電、直流輸電等全產業鏈關鍵環節建設取得重要進展。啟東象嶼建造的國內最大自航式純電驅海纜敷設船“藍海領航”號下水，載纜量16000噸、最大作業水深3000米；大金重工KING系列二號船命名交付，甲板面積達12000平方米，可承運25MW級超大型海上風電構件；海油工程承建的全球首座16兆瓦張力腿浮式風電平臺“海油安瀾號”投產，年供電5400萬度綠色電力；上海振華重工承建的世界最大規模海上換流站“海風之心”與±500千伏柔性直流海纜完成對接，可年輸電60億度。
+
+---
+
+### 2026-08-19 11:28:24  #Trading Economics #Markets #South Korea #Currency #Importance 1
+
+South Korean Won Hits Over 10-Month High — The South Korean won traded around 1,399 per dollar, reaching its strongest level since late September 2025, as a softer US dollar supported demand for the local currency. The dollar index remained near multi-month lows as Treasury yields eased from recent highs, while investors scaled back expectations for further Fed rate hikes following softer US economic data, narrowing the dollar's yield advantage. Additionally, persistent dollar-selling flows from Korean exporters continued to support the won amid strong semiconductor-related export receipts. The conversion of SK hynix's ADR proceeds into won has also been a key factor behind the currency's sharp appreciation in recent weeks, boosting domestic dollar supply. Meanwhile, higher oil prices near three-week highs and renewed US-Iran tensions could pose a headwind for the won, as the lack of progress in peace efforts raises concerns over potential disruptions to Middle Eastern oil supplies and higher import costs for South Korea.
 
 ---
 
@@ -18871,59 +18943,5 @@ Japanese Shares Slip on Surging Bond Yields — The Nikkei 225 Index fell 0.4% t
 ### 2026-08-18 08:46:03  #Trading Economics #Markets #Commodity #Importance 1
 
 Heating Oil Hits Over 4-Month High — US heating oil futures rose to around $4.45 per gallon on Tuesday, reaching their highest level since early April, as fading hopes for a near-term resolution to the US-Iran conflict heightened expectations of prolonged supply disruptions from the region. President Donald Trump said he was not interested in extending an agreement with Tehran that technically expired on Monday, while disagreements over the Strait of Hormuz continue to complicate negotiations. Iran is holding separate talks with Oman on managing the waterway, with Trump threatening to bomb Oman if it interferes with a US blockade. Still, continued crude shipments through the Persian Gulf waterway have eased some supply concerns. Elsewhere, frequent Ukrainian strikes on Russian oil refineries have disrupted fuel supplies, prompting gasoline rationing in at least two regions and restrictions on refined-product exports. Russia has since extended its existing diesel export ban until January 2027.
-
----
-
-### 2026-08-18 08:46:01  #MKT News #Market Themes #Chip Wars
-
-【South Korea denies report that semiconductors were chosen as first US investment】South Korea denied a report that Seoul and Washington had discussed naming semiconductors as Seoul’s first strategic investment in the United States. The presidential office said Tuesday the claim “is not true” and gave no details on any investment talks with Washington. Korea JoongAng had reported Seoul’s planned announcement of a first US investment later this month was uncertain after Washington reportedly sought Korean investment in US memory-chip facilities; the request was said to dominate a closed-door trade meeting on Aug. 13. Attendees told the paper Seoul had initially prioritized energy for its first major US investment and viewed investing in US memory-chip plants as unrealistic given commitments by Samsung Electronics and SK Hynix of at least $880 billion to build chips and data centers.
-
----
-
-### 2026-08-18 08:44:03  #MKT News #Commodities #Energy #WTI #Brent
-
-【Crude ETF holdings report launched; USO and BNO positions (Aug 17)】Aug 17 — Newly launched crude ETF holdings report: WTI (USO) nominal exposure ~24.58 mln bbl, up ~1,000 bbl on the day; Brent (BNO) futures holdings ~7.66 mln bbl, up ~39,000 bbl on the day.
-
----
-
-### 2026-08-18 08:43:43  #其他
-
-【湖北省委書記關志鷗主持召開省委專題會議 推進文體旅融合發展持續激發消費活力】 據湖北釋出，8月17日，湖北省委書記關志鷗主持召開省委專題會議，聽取全省文化、旅遊、體育產業發展和促消費工作情況彙報，研究部署下一步重點任務。在認真聽取大家發言後，關志鷗指出，提振消費是促進經濟增長、產業升級、民生改善的重要抓手，推動文體旅融合發展是拓展消費空間的重要內容。近年來，湖北文化、旅遊、體育產業持續發展，帶動消費市場活力不斷增強。要把文體旅深度融合和促消費工作擺在重要位置，持續擴大優質產品和服務供給，豐富消費業態和場景，切實將文體旅產業培育成為重要經濟增長點，加快建設世界知名文化旅遊目的地。
-
----
-
-### 2026-08-18 08:42:39  #MKT News #Market Regions #Greater China
-
-【Nine departments including MOFCOM back bond issuance and listings for eligible wholesale, retail and service firms】MOFCOM and eight other departments issued guidance to boost lower-tier market activity and county-level consumption, directing financial institutions to improve service quality and expand finance for lower-tier consumption and consumer commercial facility projects. The guidance supports eligible wholesale, retail and service consumption enterprises issuing bonds and pursuing listings for financing. Trade and distribution firms that meet conditions and open new county-level chain stores may apply for entrepreneurship guaranteed loans and receive interest subsidies.
-
----
-
-### 2026-08-18 08:42:11  #其他
-
-【商務部等9部門：支援農村集體經營性建設用地依法入市發展縣域商業】 商務部等9部門釋出《關於進一步激發下沉市場活力 活躍縣域消費的意見》，其中提出，盤活閒置資源資產。對於利用存量房產或土地發展養老、托育等縣域民生類產業的，可享受在5年內不改變用地主體和規劃條件的過渡期支援政策。在符合國土空間規劃的前提下，鼓勵透過自主、聯營、轉讓等多種方式推進存量土地改造開發，提高本地商業服務水平。支援縣級政府利用騰退辦公樓等閒置國有資產改建為便民商業網點。支援農村集體經營性建設用地依法入市發展縣域商業，鼓勵利用閒置農房發展符合鄉村特點的新產業、新業態。
-
----
-
-### 2026-08-18 08:41:19  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan 30-year government bond yield rose 4.5 bps to 4.12%.
-
----
-
-### 2026-08-18 08:41:16  #公司
-
-【芯長征集團、中持股份與寧波軌道交通集團舉行交流會】 據中持股份訊息，日前，江蘇芯長征微電子集團、中持水務股份有限公司與寧波市軌道交通集團在南京中持股份會議室舉行交流會，圍繞各方企業業務板塊、發展戰略進行深入溝通，聚焦半導體裝備等領域的協同發展與產業機遇展開務實探討。此次交流會搭建了協同對接的平臺，為後續在半導體產業服務領域探尋合作空間奠定了良好基礎。芯長征成立於2017年，是一家集功率半導體器件設計研發與封裝製造為一體的企業，是中持股份的控股股東。
-
----
-
-### 2026-08-18 08:40:53  #市場 #國際
-
-日本30年期國債收益率上漲4.5個基點，升至4.12%。
-
----
-
-### 2026-08-18 08:40:31  #Trading Economics #Economy #Australia #Consumer Confidence MoM #Importance 2
-
-Australia Consumer Sentiment Hits 9-Month High — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index jumped 6.0% to a five-month high of o 88.9 in August 2026, accelerating from a 4.1% rise in the prior month and marking the fastest pace since November 2025. Sentiment strengthened as mortgage holders became less concerned about the risk of further increases in interest rates.
 
 ---

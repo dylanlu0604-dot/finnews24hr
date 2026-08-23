@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:51:44_
-_本檔包含 3166 則快訊，約 635740 字_
+_更新時間：2026-08-24 02:44:09_
+_本檔包含 3157 則快訊，約 634246 字_
+
+---
+
+### 2026-08-20 12:00:16  #公司 #其他 #焦點
+
+【許家印被判處無期徒刑 恒大集團、恒大地產等案一審宣判】2026年8月20日上午，廣東省深圳市中級人民法院對被告單位恒大集團有限公司（以下簡稱恒大集團）、被告單位恒大地產集團有限公司（以下簡稱恒大地產）、被告人許家印案進行一審公開宣判。對恒大集團數罪併罰，判處罰金人民幣88.2億元；對恒大地產判處罰金人民幣70億元；對許家印數罪併罰，判處無期徒刑，剝奪政治權利終身，並處沒收個人全部財產；對違法所得繼續追繳，不足部分責令退賠。
+
+法院經審理查明，被告人許家印系被告單位恒大集團的實際控制人，全面負責集團運營活動，管理、控制被告單位恒大地產及恒大財富、恒大南昌等多家企業，投資地產、物業、金融等領域。2016年至2021年間，恒大集團、恒大地產及許家印違反國家法律規定，以持續性、大規模財務造假等手段，虛增資產、隱瞞負債，分別實施了非法吸收公眾存款、集資詐騙、欺詐發行證券、違規披露重要資訊等犯罪行為；恒大集團及許家印透過行賄等手段取得金融機構控制權，違法套取信貸資金、保險資金歸恒大集團使用，實施了單位行賄、違法發放貸款、違法運用資金等犯罪行為。許家印還利用作為恒大地產董事長的職務便利，組織財務造假，以分紅名義侵佔公司財產。
+
+法院認為，被告單位恒大集團、被告人許家印的行為已構成非法吸收公眾存款罪、集資詐騙罪、違法發放貸款罪、欺詐發行證券罪、違規披露重要資訊罪、單位行賄罪；許家印的行為還構成違法運用資金罪、職務侵佔罪；被告單位恒大地產的行為已構成欺詐發行證券罪。對恒大集團、許家印應依法數罪併罰。恒大集團、恒大地產及許家印的犯罪行為嚴重破壞社會主義市場經濟秩序，侵犯公私財產權益，侵害國家工作人員職務行為的廉潔性，犯罪數額特別巨大，情節特別惡劣，造成特別重大經濟損失，社會危害特別嚴重，應當依法嚴懲。法院根據被告單位、被告人的犯罪事實、性質、情節和對於社會的危害程度，依法作出上述判決。根據法律及司法解釋規定，退賠損失優先於罰金刑、沒收財產刑的執行。
+
+同日，深圳市中級人民法院、深圳市南山區人民法院還公開宣判了恒大集團相關涉案人員非法吸收公眾存款、集資詐騙、違法運用資金等案，依法對甄立濤、柯鵬、許騰鶴、許智健、杜亮、樑棟等56人判處有期徒刑十八年至一年十個月不等的刑罰，並處罰金或沒收財產；對違法所得繼續追繳，不足部分責令退賠。（央視新聞）
+
+---
+
+### 2026-08-20 11:59:59  #公司
+
+【拼多多雄安公司員工規模突破4000人】8月20日訊息，拼多多雄安公司員工規模正式突破4000人，專項招聘計劃已完成逾80%。
+
+---
+
+### 2026-08-20 11:57:32  #MKT News
+
+【Unigroup Guowei optimistic on revenue upside from commercial space business】At an Aug. 19 results briefing, Unigroup Guowei said its commercial space unit—built over several years—is expected to enter volume shipments in 2025, marking a potential revenue inflection. The company said it currently holds a dominant share in commercial-space storage with DDR and Flash products, is rolling out FPGA and associated readback/refresh products that are already flight‑proven in orbit, and is expanding power and bus‑interface lines to offer full system solutions, underpinning its optimism about incremental revenue from the segment.
 
 ---
 
@@ -19026,77 +19050,5 @@ Mexico's economy minister said he met with U.S. Trade Representative Greer to di
 ### 2026-08-19 11:31:42  #MKT News #Market Regions #Japan & APAC #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
 
 【Japan becomes a case study of global long-end rates dilemma】Goldman Sachs trading desk head Rich Privorotsky says long-end rate pressure has taken on global characteristics: soft economic data can push down short rates while long-term bond yields remain under sustained pressure. Japan is the clearest example — the 10-year JGB yield has risen to about 2.94%, a 30-year high, and markets are pricing faster BOJ tightening. Tokyo is trying to sustain growth and equities, stabilize the currency, pursue fiscal expansion and keep the yield curve anchored; Privorotsky says those aims are increasingly incompatible. Fiscal loosening and higher nominal growth push long rates up, while more aggressive central bank tightening would raise economic and financial stress. He concludes Japan may ultimately need stronger monetary tightening, but political and structural constraints after decades of deflation make that path difficult; markets are already pricing the broader risk that central banks lose control of long-end yields when fiscal expansion and capital demand rise.
-
----
-
-### 2026-08-19 11:31:33  #MKT News #Market Regions #Greater China
-
-【China government bond futures morning session close】China government bond futures morning close: 2-year (TS) main contract +0.01%, 5-year (TF) main contract flat, 10-year (T) main contract -0.01%, 30-year (TL) main contract -0.10%.
-
----
-
-### 2026-08-19 11:31:28  #其他
-
-【2026七夕檔票房破億】據貓眼專業版資料，截至11時30分，2026年七夕檔（8月19日）累計票房破億，《歡迎來龍餐館》《空槍》《奧德賽》暫列七夕檔票房榜前三位。
-
----
-
-### 2026-08-19 11:31:26  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #CSI500 #SSE Composite
-
-【China equity index futures morning session close】CSI 300 index futures (IF) most-active contract fell 2.17% at the morning close; SSE 50 index futures (IH) down 1.54%; CSI 500 index futures (IC) down 3.14%; CSI 1000 index futures (IM) down 3.58%.
-
----
-
-### 2026-08-19 11:31:13  #公司 #市場 #A股
-
-【午評：科創50指數低開低走大跌6.07%，算力硬體股集體回撥】A股三大指數早盤集體下跌，截至午盤，上證指數跌1.96%，深證成指跌3.97%，創業板指跌4.98%，北證50跌3.7%，科創50指數跌6.07%。全市場成交額16311億元，較上日縮量182億元，全市場超4900只個股下跌。板塊題材上，廚衛電器、煤炭開採加工、銀行、油氣開採及服務、港口航運板塊漲幅居前；電子化學品、CPO、儲存晶片、半導體、元件板塊跌幅居前。盤面上，廚衛電器板塊異動拉昇，日出東方漲停，億田智慧一度逼近20cm漲停，萬和電器、老闆電器、華帝股份跟漲。煤炭開採加工板塊高開高走，寶泰隆、陝西黑貓、大有能源、美錦能源漲停，安泰集團、鄭州煤電、遼寧能源漲幅居前。銀行板塊震盪走高，中信銀行、成都銀行、南京銀行漲幅居前。CPO板塊低開低走，天洋新材跌停，富信科技、泰金新能、德科立、深科達、通富微電等多股大幅下跌。半導體板塊亦大幅下挫，盛美上海、芯原股份、華虹宏力、芯朋微、傑華特等多股盤中跌超10%。元件板塊亦表現疲軟，賢豐控股跌停，麥捷科技、科翔股份、泰晶科技、興森科技、南亞新材跌幅居前。
-
----
-
-### 2026-08-19 11:31:02  #MKT News #Important #Commodities #Energy #Industrial Metals #Precious Metals #WTI #Impact bullish #Brent
-
-At the morning-session close, China's most-active futures contracts were mixed with gains outnumbering losses: fuel oil jumped over 5%; methanol and starch rose nearly 3%; synthetic rubber, asphalt, low-sulfur fuel oil (LU), coke, coking coal and SC crude oil gained more than 2%. Shanghai silver fell over 4%; palladium, lithium carbonate, platinum, soda ash and container-shipping Europe-route futures declined more than 2%.
-
----
-
-### 2026-08-19 11:30:03  #市場
-
-【國債期貨早盤收盤】 30年期主力合約跌0.10%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。
-
----
-
-### 2026-08-19 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續跌3.56%， 滬深300指數期貨連續跌2.15%， 中證500指數期貨連續跌3.11%， 上證50指數期貨連續跌1.57%。
-
----
-
-### 2026-08-19 11:30:03  #市場
-
-【商品期貨早盤收盤】白銀連續跌4.13%，甲醇連續漲2.89%，燃料油連續漲2.84%，鈀連續跌2.82%，澱粉連續漲2.72%。
-
----
-
-### 2026-08-19 11:29:39  #國際
-
-【印尼東努沙登加拉省發生5.2級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼西部時間8月19日10時13分，印尼東努沙登加拉省納格克縣姆拜鎮東北54公里處發生5.2級地震，震源深度10公里，沒有海嘯風險。
-
----
-
-### 2026-08-19 11:29:02  #國際
-
-貝恩資本旗下Proterial擬透過出售日本線材企業籌資13億美元。
-
----
-
-### 2026-08-19 11:28:34  #其他
-
-【我國深遠海風電領域多個專案建造完成關鍵節點】據中國船舶工業行業協會訊息，近日，我國深遠海風電裝備在海纜敷設、構件運輸、浮式發電、直流輸電等全產業鏈關鍵環節建設取得重要進展。啟東象嶼建造的國內最大自航式純電驅海纜敷設船“藍海領航”號下水，載纜量16000噸、最大作業水深3000米；大金重工KING系列二號船命名交付，甲板面積達12000平方米，可承運25MW級超大型海上風電構件；海油工程承建的全球首座16兆瓦張力腿浮式風電平臺“海油安瀾號”投產，年供電5400萬度綠色電力；上海振華重工承建的世界最大規模海上換流站“海風之心”與±500千伏柔性直流海纜完成對接，可年輸電60億度。
-
----
-
-### 2026-08-19 11:28:24  #Trading Economics #Markets #South Korea #Currency #Importance 1
-
-South Korean Won Hits Over 10-Month High — The South Korean won traded around 1,399 per dollar, reaching its strongest level since late September 2025, as a softer US dollar supported demand for the local currency. The dollar index remained near multi-month lows as Treasury yields eased from recent highs, while investors scaled back expectations for further Fed rate hikes following softer US economic data, narrowing the dollar's yield advantage. Additionally, persistent dollar-selling flows from Korean exporters continued to support the won amid strong semiconductor-related export receipts. The conversion of SK hynix's ADR proceeds into won has also been a key factor behind the currency's sharp appreciation in recent weeks, boosting domestic dollar supply. Meanwhile, higher oil prices near three-week highs and renewed US-Iran tensions could pose a headwind for the won, as the lack of progress in peace efforts raises concerns over potential disruptions to Middle Eastern oil supplies and higher import costs for South Korea.
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:51:44_
-_本檔包含 3012 則快訊，約 634527 字_
+_更新時間：2026-08-24 02:44:09_
+_本檔包含 2998 則快訊，約 634146 字_
+
+---
+
+### 2026-08-18 08:46:01  #MKT News #Market Themes #Chip Wars
+
+【South Korea denies report that semiconductors were chosen as first US investment】South Korea denied a report that Seoul and Washington had discussed naming semiconductors as Seoul’s first strategic investment in the United States. The presidential office said Tuesday the claim “is not true” and gave no details on any investment talks with Washington. Korea JoongAng had reported Seoul’s planned announcement of a first US investment later this month was uncertain after Washington reportedly sought Korean investment in US memory-chip facilities; the request was said to dominate a closed-door trade meeting on Aug. 13. Attendees told the paper Seoul had initially prioritized energy for its first major US investment and viewed investing in US memory-chip plants as unrealistic given commitments by Samsung Electronics and SK Hynix of at least $880 billion to build chips and data centers.
+
+---
+
+### 2026-08-18 08:44:03  #MKT News #Commodities #Energy #WTI #Brent
+
+【Crude ETF holdings report launched; USO and BNO positions (Aug 17)】Aug 17 — Newly launched crude ETF holdings report: WTI (USO) nominal exposure ~24.58 mln bbl, up ~1,000 bbl on the day; Brent (BNO) futures holdings ~7.66 mln bbl, up ~39,000 bbl on the day.
+
+---
+
+### 2026-08-18 08:43:43  #其他
+
+【湖北省委書記關志鷗主持召開省委專題會議 推進文體旅融合發展持續激發消費活力】 據湖北釋出，8月17日，湖北省委書記關志鷗主持召開省委專題會議，聽取全省文化、旅遊、體育產業發展和促消費工作情況彙報，研究部署下一步重點任務。在認真聽取大家發言後，關志鷗指出，提振消費是促進經濟增長、產業升級、民生改善的重要抓手，推動文體旅融合發展是拓展消費空間的重要內容。近年來，湖北文化、旅遊、體育產業持續發展，帶動消費市場活力不斷增強。要把文體旅深度融合和促消費工作擺在重要位置，持續擴大優質產品和服務供給，豐富消費業態和場景，切實將文體旅產業培育成為重要經濟增長點，加快建設世界知名文化旅遊目的地。
+
+---
+
+### 2026-08-18 08:42:39  #MKT News #Market Regions #Greater China
+
+【Nine departments including MOFCOM back bond issuance and listings for eligible wholesale, retail and service firms】MOFCOM and eight other departments issued guidance to boost lower-tier market activity and county-level consumption, directing financial institutions to improve service quality and expand finance for lower-tier consumption and consumer commercial facility projects. The guidance supports eligible wholesale, retail and service consumption enterprises issuing bonds and pursuing listings for financing. Trade and distribution firms that meet conditions and open new county-level chain stores may apply for entrepreneurship guaranteed loans and receive interest subsidies.
+
+---
+
+### 2026-08-18 08:42:11  #其他
+
+【商務部等9部門：支援農村集體經營性建設用地依法入市發展縣域商業】 商務部等9部門釋出《關於進一步激發下沉市場活力 活躍縣域消費的意見》，其中提出，盤活閒置資源資產。對於利用存量房產或土地發展養老、托育等縣域民生類產業的，可享受在5年內不改變用地主體和規劃條件的過渡期支援政策。在符合國土空間規劃的前提下，鼓勵透過自主、聯營、轉讓等多種方式推進存量土地改造開發，提高本地商業服務水平。支援縣級政府利用騰退辦公樓等閒置國有資產改建為便民商業網點。支援農村集體經營性建設用地依法入市發展縣域商業，鼓勵利用閒置農房發展符合鄉村特點的新產業、新業態。
+
+---
+
+### 2026-08-18 08:41:19  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan 30-year government bond yield rose 4.5 bps to 4.12%.
+
+---
+
+### 2026-08-18 08:41:16  #公司
+
+【芯長征集團、中持股份與寧波軌道交通集團舉行交流會】 據中持股份訊息，日前，江蘇芯長征微電子集團、中持水務股份有限公司與寧波市軌道交通集團在南京中持股份會議室舉行交流會，圍繞各方企業業務板塊、發展戰略進行深入溝通，聚焦半導體裝備等領域的協同發展與產業機遇展開務實探討。此次交流會搭建了協同對接的平臺，為後續在半導體產業服務領域探尋合作空間奠定了良好基礎。芯長征成立於2017年，是一家集功率半導體器件設計研發與封裝製造為一體的企業，是中持股份的控股股東。
+
+---
+
+### 2026-08-18 08:40:53  #市場 #國際
+
+日本30年期國債收益率上漲4.5個基點，升至4.12%。
+
+---
+
+### 2026-08-18 08:40:31  #Trading Economics #Economy #Australia #Consumer Confidence MoM #Importance 2
+
+Australia Consumer Sentiment Hits 9-Month High — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index jumped 6.0% to a five-month high of o 88.9 in August 2026, accelerating from a 4.1% rise in the prior month and marking the fastest pace since November 2025. Sentiment strengthened as mortgage holders became less concerned about the risk of further increases in interest rates.
 
 ---
 
@@ -18039,143 +18093,5 @@ Qatar's foreign ministry said the prime minister spoke with Jordan's foreign min
 ### 2026-08-17 02:51:40  #國際
 
 卡達外交部：首相在與約旦外交部長的通話中商討了旨在緩解地區局勢的外交努力。
-
----
-
-### 2026-08-17 02:43:06  #MKT News
-
-CENTCOM commander Brad Cooper praised USS Lincoln leadership for stepping up and making crew mental health and resilience a leadership priority.
-
----
-
-### 2026-08-17 02:42:48  #MKT News
-
-CENTCOM commander Brad Cooper said he has long regarded psychological and mental health as components of personal health, equal to physical health and deserving of attention.
-
----
-
-### 2026-08-17 02:42:13  #MKT News
-
-CENTCOM commander Brad Cooper said the USS Abraham Lincoln currently has one of the lowest counts of mental-health-related cases among the US Navy's 11 active aircraft carriers.
-
----
-
-### 2026-08-17 02:41:18  #MKT News
-
-CENTCOM commander Brad Cooper said his recent visit aboard the aircraft carrier USS Abraham Lincoln was "stunning" and he hopes every American can see the crew’s performance while carrying out their duties.
-
----
-
-### 2026-08-17 02:34:58  #國際
-
-美國中央司令部指揮官布拉德·庫珀：在美國海軍11艘現役航母中，亞伯拉罕·林肯號目前是（士兵）心理健康相關問題最少的一艘。
-
----
-
-### 2026-08-17 02:27:05  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation the group will not be included in any political process until Gaza is fully disarmed.
-
----
-
-### 2026-08-17 02:26:40  #MKT News
-
-Al Jazeera cited Palestinian sources saying a Hamas delegation told Kushner it would refuse to undertake any new measures that could not obtain Israel's prior consent.
-
----
-
-### 2026-08-17 02:25:48  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Hamas leadership briefed Kushner in detail on alleged Israeli violations of the ceasefire in the Gaza Strip.
-
----
-
-### 2026-08-17 02:25:30  #MKT News #Market Themes #The Trump Trade
-
-Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders Trump views disarming armed factions as a prerequisite to any further action in Gaza.
-
----
-
-### 2026-08-17 02:25:21  #國際
-
-【庫什納在開羅會晤哈馬斯領導層，強調解除武裝為先決條件】據巴勒斯坦訊息人士透露，特朗普特使庫什納與哈馬斯領導層在開羅進行了逾兩小時的會晤。庫什納向哈馬斯明確傳達，解除武裝是融入未來政治程序的關鍵前提；同時，美方堅決反對驅逐加沙居民，並建議哈馬斯不要寄望於以色列選舉結果。哈馬斯方面則向庫什納詳細通報了以色列違反停火協議的情況，並強調反對任何未獲以色列事先同意的新舉措。當前談判的核心死結仍在於行動順序：哈馬斯要求以色列先撤軍，而以色列堅持哈馬斯必須先全面繳械。庫什納此行旨在推動落實加沙和平計劃，試圖彌合各方分歧。
-
----
-
-### 2026-08-17 02:25:03  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner emphasized that Israel's position on the Gaza Strip is consistent.
-
----
-
-### 2026-08-17 02:23:48  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner told a Hamas delegation Washington would, after completion of disarmament, pursue a political track that does not exclude any party.
-
----
-
-### 2026-08-17 02:23:07  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported Kushner's meeting with Hamas leadership in Cairo lasted more than two hours.
-
----
-
-### 2026-08-17 02:22:33  #MKT News
-
-Al Jazeera, citing Palestinian sources, said Jared Kushner told Hamas leadership the United States rejects any plan to expel residents of the Gaza Strip.
-
----
-
-### 2026-08-17 02:22:04  #MKT News
-
-Al Jazeera cited Palestinian sources saying Kushner told Hamas leaders that Trump was determined to press ahead with his plan for the Gaza Strip.
-
----
-
-### 2026-08-17 02:21:39  #MKT News
-
-Al Jazeera, citing Palestinian sources, reported that Kushner told Hamas leaders not to rely on the outcome of the Israeli election.
-
----
-
-### 2026-08-17 02:18:05  #MKT News
-
-A spokesperson said Canada’s minister responsible for trade with the US, Dominic LeBlanc, will hold a video meeting with US Trade Representative Greer at 16:30 ET on Sunday (04:30 Beijing Monday).
-
----
-
-### 2026-08-17 02:17:10  #國際
-
-負責美國貿易事務的加拿大部長多米尼克·勒布朗將於美國東部時間週日下午4點30分與美國貿易代表格里爾舉行視訊會議。
-
----
-
-### 2026-08-17 02:14:37  #其他
-
-【巴西發生旅遊巴士翻車事故 至少10人死亡】據巴西里約熱內盧州消防部門16日確認，當日凌晨，該州彼得羅波利斯市附近發生一起旅遊大巴翻車事故，已造成至少10人死亡。
-
----
-
-### 2026-08-17 02:14:17  #公司
-
-【多家銀行助力落地全市場首單非金融企業自貿離岸債】近日，中國銀行、建設銀行、交通銀行、民生銀行等多家銀行協助上海電氣環球資本有限公司（以下簡稱“上海電氣環球”）成功發行15億元人民幣綠色自貿離岸債，期限三年，票面利率1.8%。據悉，該筆債券是全市場首單非金融企業自貿離岸債，即首單企業類自貿離岸債，進一步豐富了上海自貿離岸債市場生態，拓展了人民幣跨境投融資應用場景，標誌著自貿離岸債市場金融活水首次精準直達實體經濟。
-
----
-
-### 2026-08-17 02:12:55  #MKT News
-
-Saudi state TV reported the Saudi foreign minister met Yemen's foreign minister in Riyadh; the Saudi foreign ministry said Riyadh reiterated its firm support for Yemen's security and stability.
-
----
-
-### 2026-08-17 02:12:26  #國際
-
-以色列空襲黎巴嫩，造成包括一名真主黨高階指揮官在內的11人死亡。
-
----
-
-### 2026-08-17 01:56:19  #其他
-
-【比利時東南部野火持續蔓延 過火面積約3000公頃】16日，比利時東南部一處自然保護區發生的野火持續蔓延。目前過火面積已達約3000公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。據當地消防部門訊息，目前部分火勢已得到控制，但消防部門仍面臨較大壓力。目前已有超過250名消防員及應急人員，約50輛車輛加入滅火救援行動。（央視新聞）
 
 ---
