@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-24 06:47:04",
-  "count": 15787,
+  "updated": "2026-08-24 06:51:08",
+  "count": 15786,
   "items": [
+    {
+      "id": "5053962",
+      "time": "2026-08-24 06:49:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本ANN民調：日本高市內閣支援率上升6.2個百分點，至55.4%。"
+    },
     {
       "id": "5053961",
       "time": "2026-08-24 06:45:08",
@@ -144371,22 +144379,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Food Inflation at 20-Month Low — Annual food inflation in New Zealand eased to 1.9% in July 2026 from 2.5% in June, marking the softest increase since November 2024."
-    },
-    {
-      "id": "5043002",
-      "time": "2026-08-17 06:49:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普政府建立了與伊朗革命衛隊的秘密溝通渠道，特朗普藉助伊拉克庫爾德地區領導人巴爾扎尼聯絡到一名革命衛隊指揮官；巴爾扎尼主動提出協助重啟美伊談判。"
-    },
-    {
-      "id": "mkt:01a00cc2-a973-7aab-9051-14f8e4f644d5",
-      "time": "2026-08-17 06:47:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot silver climbed above $65/oz, up 0.53% intraday."
     }
   ]
 }
