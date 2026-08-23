@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:24:35_
-_本檔包含 3018 則快訊，約 635020 字_
+_更新時間：2026-08-24 01:51:44_
+_本檔包含 3012 則快訊，約 634527 字_
+
+---
+
+### 2026-08-18 08:39:58  #其他
+
+【商務部等9部門：支援符合條件的批發零售和服務消費企業發行債券和上市融資】 商務部等9部門釋出《關於進一步激發下沉市場活力 活躍縣域消費的意見》，其中提出，提升金融服務質效。引導金融機構最佳化下沉市場消費領域金融服務，加強對符合條件的消費商業設施專案的金融支援。支援符合條件的批發零售和服務消費企業發行債券和上市融資。對符合條件的在縣域新開設連鎖門店的商貿流通企業，可申請創業擔保貸款政策並給予貼息支援。
+
+---
+
+### 2026-08-18 08:39:05  #MKT News
+
+【Nine ministries including MOFCOM push to expand premium goods supply, back NEVs and green products for rural markets】MOFCOM and eight other ministries issued guidance to boost county-level consumption, directing firms to expand supply of higher-quality/higher-priced goods into county markets and, where conditions permit, launch new products in counties simultaneously to promote urban-rural parity of models and quality. The guidance urges development of products tailored to county consumption and supports trade/distribution firms building flexible supply chains via own-brand and demand-driven production. It also calls for strong support for new-energy vehicles, green smart products and green building materials going to rural areas and for expansion of rural charging infrastructure coverage.
+
+---
+
+### 2026-08-18 08:37:54  #市場 #焦點
+
+紐約期金突破4490美元/盎司，日內漲0.36%。
+
+---
+
+### 2026-08-18 08:37:33  #公司 #觀點
+
+【中信證券：預計三季度銀行板塊基本面預期穩定，全年絕對收益空間仍將延續】中信證券研報表示，二季度監管資料顯示，上市銀行息差表現樂觀，資產質量穩定，資本持續夯實，盈利增速企穩回升。7月金融資料一方面具備季節性特徵，另一方面對映實體K型加劇。投資視角看，銀行板塊7-8月受市場風格影響，前期流入的彈性資金已經大幅流出，指數反彈後回撥，上週表現開始走穩。下週開始進入財報季，上市銀行經營格局穩定，盈利增速小幅修復，基本面超預期空間不大，隱含板塊表現短時仍將保持低波格局。展望三季度，預計盈利趨勢仍保持穩定，宏觀敘事等長邏輯仍在繼續演繹，全年絕對收益空間仍將延續。
 
 ---
 
@@ -18153,65 +18177,5 @@ Saudi state TV reported the Saudi foreign minister met Yemen's foreign minister 
 ### 2026-08-17 01:56:19  #其他
 
 【比利時東南部野火持續蔓延 過火面積約3000公頃】16日，比利時東南部一處自然保護區發生的野火持續蔓延。目前過火面積已達約3000公頃，附近多個村莊數百名居民已被要求疏散。有資料顯示，此次火災是比利時有記錄以來規模最大的野火。據當地消防部門訊息，目前部分火勢已得到控制，但消防部門仍面臨較大壓力。目前已有超過250名消防員及應急人員，約50輛車輛加入滅火救援行動。（央視新聞）
-
----
-
-### 2026-08-17 01:49:59  #MKT News
-
-【Hurricane Lala weakens to tropical storm】On Aug 16 local time, Hurricane Lala weakened to a tropical storm near Hawaii, but heavy rain and strong winds may still trigger flooding, landslides and hazardous marine conditions. Lala struck the southern coast of the Big Island as a Category 1 hurricane on Aug 15 and was downgraded by the U.S. National Weather Service. Hawaii’s governor said the storm caused at least one death.
-
----
-
-### 2026-08-17 01:49:19  #國際
-
-【颶風“拉拉”減弱為熱帶風暴】當地時間8月16日，颶風“拉拉”在美國夏威夷附近海域減弱為熱帶風暴，但強降雨和大風仍可能引發洪水、山體滑坡及危險海況。“拉拉”15日以一級颶風強度襲擊夏威夷大島南部海岸，隨後被美國國家氣象局降級為熱帶風暴。不過，部分地區仍可能出現強降雨。夏威夷州州長表示，風暴15日造成至少1人死亡。（央視新聞）
-
----
-
-### 2026-08-17 01:46:07  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #USDJPY
-
-【US weighs sanctions on Brazilian Supreme Court justice Alexandre de Moraes, FT reports】The US government is discussing renewed sanctions on Brazilian Supreme Court justice Alexandre de Moraes, the Financial Times reports. Sources say the Trump administration is again considering action after sanctions were imposed last year on human-rights grounds and later lifted. Renewed measures could push US‑Brazil ties to their lowest level in decades, exacerbate trade and political tensions and increase uncertainty ahead of Brazil’s election.
-
----
-
-### 2026-08-17 01:39:31  #MKT News
-
-Russian Defence Ministry said Russian air-defence systems intercepted and destroyed 72 Ukrainian drones.
-
----
-
-### 2026-08-17 01:34:25  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Israeli security sources said the Israeli military is preparing for a possible escalation in Lebanon following recent incidents on the Ali Taher Heights.
-
----
-
-### 2026-08-17 01:30:52  #MKT News
-
-Financial Times reports the US government has discussed imposing new sanctions on a judge of Brazil's Supreme Court as a diplomatic crisis could push bilateral ties to their lowest point in decades.
-
----
-
-### 2026-08-17 01:30:47  #國際
-
-美國已就針對巴西最高法院法官德莫賴斯實施新制裁一事進行了討論。
-
----
-
-### 2026-08-17 01:28:55  #國際
-
-以色列安全訊息人士：鑑於阿里塔赫爾高地發生的事件，以軍正為黎巴嫩可能出現的局勢升級做好準備。
-
----
-
-### 2026-08-17 01:28:35  #國際
-
-伊朗總統府：外交部長阿拉格齊在政府會議上就與阿曼的談判進展提交了報告。
-
----
-
-### 2026-08-17 01:27:31  #MKT News
-
-Yemen News Agency said Yemeni government forces repelled a Houthi massing on the northern Taiz frontline.
 
 ---

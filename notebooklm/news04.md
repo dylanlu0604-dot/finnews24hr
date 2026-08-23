@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:24:35_
-_本檔包含 3138 則快訊，約 635104 字_
+_更新時間：2026-08-24 01:51:44_
+_本檔包含 3135 則快訊，約 634067 字_
+
+---
+
+### 2026-08-19 11:27:55  #市場 #國際 #原創
+
+【比特幣巨鯨重返市場 兩個月增持27.5億美元】比特幣連續數月低迷期間，不僅散戶交易員紛紛離場，加密貨幣基金流失數十億美元資金，就連市場上最大的買家之一也轉為賣家。如今，苦苦尋覓市場觸底跡象的投資者終於看到一絲久違的曙光：比特幣“巨鯨”又開始買入了。根據CryptoQuant的資料，過去60天持倉大戶增持約43,000枚比特幣，按當前價格計算價值約27.5億美元。CryptoQuant的統計剔除了交易所和礦池持倉。資料顯示，比特幣價格回升至60,000美元左右時，這些持倉大戶經歷數月拋售後重新買入，被稱為“海豚”的小戶持倉也在增長。
 
 ---
 
@@ -18919,29 +18925,5 @@ Japan 30-year government bond yield rose 4.5 bps to 4.12%.
 ### 2026-08-18 08:40:31  #Trading Economics #Economy #Australia #Consumer Confidence MoM #Importance 2
 
 Australia Consumer Sentiment Hits 9-Month High — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index jumped 6.0% to a five-month high of o 88.9 in August 2026, accelerating from a 4.1% rise in the prior month and marking the fastest pace since November 2025. Sentiment strengthened as mortgage holders became less concerned about the risk of further increases in interest rates.
-
----
-
-### 2026-08-18 08:39:58  #其他
-
-【商務部等9部門：支援符合條件的批發零售和服務消費企業發行債券和上市融資】 商務部等9部門釋出《關於進一步激發下沉市場活力 活躍縣域消費的意見》，其中提出，提升金融服務質效。引導金融機構最佳化下沉市場消費領域金融服務，加強對符合條件的消費商業設施專案的金融支援。支援符合條件的批發零售和服務消費企業發行債券和上市融資。對符合條件的在縣域新開設連鎖門店的商貿流通企業，可申請創業擔保貸款政策並給予貼息支援。
-
----
-
-### 2026-08-18 08:39:05  #MKT News
-
-【Nine ministries including MOFCOM push to expand premium goods supply, back NEVs and green products for rural markets】MOFCOM and eight other ministries issued guidance to boost county-level consumption, directing firms to expand supply of higher-quality/higher-priced goods into county markets and, where conditions permit, launch new products in counties simultaneously to promote urban-rural parity of models and quality. The guidance urges development of products tailored to county consumption and supports trade/distribution firms building flexible supply chains via own-brand and demand-driven production. It also calls for strong support for new-energy vehicles, green smart products and green building materials going to rural areas and for expansion of rural charging infrastructure coverage.
-
----
-
-### 2026-08-18 08:37:54  #市場 #焦點
-
-紐約期金突破4490美元/盎司，日內漲0.36%。
-
----
-
-### 2026-08-18 08:37:33  #公司 #觀點
-
-【中信證券：預計三季度銀行板塊基本面預期穩定，全年絕對收益空間仍將延續】中信證券研報表示，二季度監管資料顯示，上市銀行息差表現樂觀，資產質量穩定，資本持續夯實，盈利增速企穩回升。7月金融資料一方面具備季節性特徵，另一方面對映實體K型加劇。投資視角看，銀行板塊7-8月受市場風格影響，前期流入的彈性資金已經大幅流出，指數反彈後回撥，上週表現開始走穩。下週開始進入財報季，上市銀行經營格局穩定，盈利增速小幅修復，基本面超預期空間不大，隱含板塊表現短時仍將保持低波格局。展望三季度，預計盈利趨勢仍保持穩定，宏觀敘事等長邏輯仍在繼續演繹，全年絕對收益空間仍將延續。
 
 ---

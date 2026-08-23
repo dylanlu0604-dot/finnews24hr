@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:24:35_
-_本檔包含 3236 則快訊，約 635936 字_
+_更新時間：2026-08-24 01:51:44_
+_本檔包含 3236 則快訊，約 634877 字_
+
+---
+
+### 2026-08-24 01:38:12  #國際
+
+【美內華達州山火迅速蔓延 近1.4萬戶居民被要求撤離】美國內華達州北部裡諾市郊的“霍克”山火當日清晨從內華達山脈山麓向裡諾市中心方向迅速蔓延，過火面積已超過1.05萬英畝，近1.4萬戶居民收到強制撤離令。
+
+---
+
+### 2026-08-24 01:28:11  #其他
+
+【幾內亞首都垃圾場坍塌事故死亡人數升至22人】當地時間23日凌晨，幾內亞首都科納克里一處垃圾填埋場發生坍塌，大量垃圾衝向附近居民區，多處房屋受影響，已造成至少22人死亡。目前搜救工作仍在持續，傷亡人數可能進一步增加。
 
 ---
 
@@ -19520,17 +19532,5 @@ Oppenheimer raised its PT on MARVELL (MRVL.O) to $300 from $250.
 ### 2026-08-21 11:11:14  #公司
 
 【華誼兄弟電影被貓眼申請限消】天眼查法律訴訟資訊顯示，近日，華誼兄弟電影有限公司及王忠磊新增一則限制消費令，申請人為天津貓眼微影文化傳媒有限公司，執行法院為北京市朝陽區人民法院，案件流程資訊顯示，此前，該公司已因此案被執行708萬餘元。華誼兄弟電影有限公司成立於2015年12月，法定代表人為王忠磊，註冊資本1億人民幣，經營範圍包括電影、網路劇製作、發行等，由華誼兄弟傳媒股份有限公司全資持股。
-
----
-
-### 2026-08-21 11:10:26  #宏觀
-
-【今年以來消費品以舊換新政策惠及1.78億人次】財政部副部長廖岷8月21日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年以來，財政部多措並舉繼續支援鼓勵消費。下達消費品以舊換新資金1875億元，帶動相關商品銷售額約1.32萬億元，惠及1.78億人次。創新推出財政金融協同促內需一攬子政策，定向支援居民消費和消費行業經營主體，從供需兩端同時發力，此項政策已惠及居民1.13億人次。在50個試點城市開展有獎發票活動，帶動相關領域銷售額超3700億元。（新華社）
-
----
-
-### 2026-08-21 11:10:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Palladium Extends Gains to One-Week High — Palladium futures gained to around 1,350 per ounce, extending gains to a one-week high, as a weaker US dollar and renewed demand for precious metals supported prices. The dollar weakened after the US Treasury unexpectedly increased long-dated debt buybacks, with Treasury Secretary Scott Bessent signaling purchases could exceed $4 billion per issue, initially easing yield pressures and supporting non-yielding metals. Palladium also benefited from broader precious-metals gains, with gold on track for a third straight weekly gain. However, rebounding Treasury yields and higher energy prices could limit gains by keeping inflation risks and rate-hike expectations elevated. Meanwhile, heightened tensions between the US and Iran, including threats of tougher economic measures, supported safe-haven demand. On the supply side, concerns over lower Russian palladium output and reduced refined production from South African processing disruptions continued to provide underlying support.
 
 ---

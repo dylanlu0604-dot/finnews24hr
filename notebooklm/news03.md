@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:24:35_
-_本檔包含 3165 則快訊，約 634899 字_
+_更新時間：2026-08-24 01:51:44_
+_本檔包含 3166 則快訊，約 635740 字_
+
+---
+
+### 2026-08-20 11:56:03  #其他
+
+上海市氣象臺2026年08月20日11時50分發布中心城區雷電黃色預警訊號：預計未來12小時內，中心城區大部將發生雷電活動，可能會造成雷電災害事故，請注意防範。
+
+---
+
+### 2026-08-20 11:55:30  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Hovers Near 5-Month High — Malaysian palm oil futures extended their upward momentum, hovering around MYR 4,920 per tonne and holding near their highest level since early April. Firmer edible oils on the Dalian Commodity Exchange supported sentiment, while elevated crude oil prices provided additional support amid sporadic attacks in the Middle East. Meanwhile, the Malaysian Palm Oil Council projected palm oil prices to remain firm above MYR 4,600 in September, citing tightening supply and trade disruptions. However, high inventories could limit further gains, with Malaysian palm oil stocks climbing to a five-month high in July. In India, record soyoil imports expected in August could weigh on palm oil demand, as refiners may favor cheaper soyoil ahead of the festive season. Export signals were also mixed. Intertek estimated shipments fell 7.9% during August 1–15 from the same period in July, while AmSpec reported a 3.2% increase, underscoring uncertainty over near-term demand and keeping traders cautious.
 
 ---
 
@@ -19086,11 +19098,5 @@ At the morning-session close, China's most-active futures contracts were mixed w
 ### 2026-08-19 11:28:24  #Trading Economics #Markets #South Korea #Currency #Importance 1
 
 South Korean Won Hits Over 10-Month High — The South Korean won traded around 1,399 per dollar, reaching its strongest level since late September 2025, as a softer US dollar supported demand for the local currency. The dollar index remained near multi-month lows as Treasury yields eased from recent highs, while investors scaled back expectations for further Fed rate hikes following softer US economic data, narrowing the dollar's yield advantage. Additionally, persistent dollar-selling flows from Korean exporters continued to support the won amid strong semiconductor-related export receipts. The conversion of SK hynix's ADR proceeds into won has also been a key factor behind the currency's sharp appreciation in recent weeks, boosting domestic dollar supply. Meanwhile, higher oil prices near three-week highs and renewed US-Iran tensions could pose a headwind for the won, as the lack of progress in peace efforts raises concerns over potential disruptions to Middle Eastern oil supplies and higher import costs for South Korea.
-
----
-
-### 2026-08-19 11:27:55  #市場 #國際 #原創
-
-【比特幣巨鯨重返市場 兩個月增持27.5億美元】比特幣連續數月低迷期間，不僅散戶交易員紛紛離場，加密貨幣基金流失數十億美元資金，就連市場上最大的買家之一也轉為賣家。如今，苦苦尋覓市場觸底跡象的投資者終於看到一絲久違的曙光：比特幣“巨鯨”又開始買入了。根據CryptoQuant的資料，過去60天持倉大戶增持約43,000枚比特幣，按當前價格計算價值約27.5億美元。CryptoQuant的統計剔除了交易所和礦池持倉。資料顯示，比特幣價格回升至60,000美元左右時，這些持倉大戶經歷數月拋售後重新買入，被稱為“海豚”的小戶持倉也在增長。
 
 ---

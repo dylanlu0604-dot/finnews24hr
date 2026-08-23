@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 01:24:35_
-_本檔包含 3304 則快訊，約 634563 字_
+_更新時間：2026-08-24 01:51:44_
+_本檔包含 3304 則快訊，約 634722 字_
+
+---
+
+### 2026-08-21 11:10:26  #宏觀
+
+【今年以來消費品以舊換新政策惠及1.78億人次】財政部副部長廖岷8月21日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，今年以來，財政部多措並舉繼續支援鼓勵消費。下達消費品以舊換新資金1875億元，帶動相關商品銷售額約1.32萬億元，惠及1.78億人次。創新推出財政金融協同促內需一攬子政策，定向支援居民消費和消費行業經營主體，從供需兩端同時發力，此項政策已惠及居民1.13億人次。在50個試點城市開展有獎發票活動，帶動相關領域銷售額超3700億元。（新華社）
+
+---
+
+### 2026-08-21 11:10:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Palladium Extends Gains to One-Week High — Palladium futures gained to around 1,350 per ounce, extending gains to a one-week high, as a weaker US dollar and renewed demand for precious metals supported prices. The dollar weakened after the US Treasury unexpectedly increased long-dated debt buybacks, with Treasury Secretary Scott Bessent signaling purchases could exceed $4 billion per issue, initially easing yield pressures and supporting non-yielding metals. Palladium also benefited from broader precious-metals gains, with gold on track for a third straight weekly gain. However, rebounding Treasury yields and higher energy prices could limit gains by keeping inflation risks and rate-hike expectations elevated. Meanwhile, heightened tensions between the US and Iran, including threats of tougher economic measures, supported safe-haven demand. On the supply side, concerns over lower Russian palladium output and reduced refined production from South African processing disruptions continued to provide underlying support.
 
 ---
 
@@ -19946,17 +19958,5 @@ Department of Statistics Malaysia: July exports rose 38.0% (REUTERS SURVEY 34.3%
 ### 2026-08-20 11:57:32  #MKT News
 
 【Unigroup Guowei optimistic on revenue upside from commercial space business】At an Aug. 19 results briefing, Unigroup Guowei said its commercial space unit—built over several years—is expected to enter volume shipments in 2025, marking a potential revenue inflection. The company said it currently holds a dominant share in commercial-space storage with DDR and Flash products, is rolling out FPGA and associated readback/refresh products that are already flight‑proven in orbit, and is expanding power and bus‑interface lines to offer full system solutions, underpinning its optimism about incremental revenue from the segment.
-
----
-
-### 2026-08-20 11:56:03  #其他
-
-上海市氣象臺2026年08月20日11時50分發布中心城區雷電黃色預警訊號：預計未來12小時內，中心城區大部將發生雷電活動，可能會造成雷電災害事故，請注意防範。
-
----
-
-### 2026-08-20 11:55:30  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Hovers Near 5-Month High — Malaysian palm oil futures extended their upward momentum, hovering around MYR 4,920 per tonne and holding near their highest level since early April. Firmer edible oils on the Dalian Commodity Exchange supported sentiment, while elevated crude oil prices provided additional support amid sporadic attacks in the Middle East. Meanwhile, the Malaysian Palm Oil Council projected palm oil prices to remain firm above MYR 4,600 in September, citing tightening supply and trade disruptions. However, high inventories could limit further gains, with Malaysian palm oil stocks climbing to a five-month high in July. In India, record soyoil imports expected in August could weigh on palm oil demand, as refiners may favor cheaper soyoil ahead of the festive season. Export signals were also mixed. Intertek estimated shipments fell 7.9% during August 1–15 from the same period in July, while AmSpec reported a 3.2% increase, underscoring uncertainty over near-term demand and keeping traders cautious.
 
 ---
