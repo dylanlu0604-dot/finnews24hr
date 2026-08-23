@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 04:33:26_
-_本檔包含 3132 則快訊，約 633908 字_
+_更新時間：2026-08-24 04:53:41_
+_本檔包含 3130 則快訊，約 632849 字_
+
+---
+
+### 2026-08-19 11:39:15  #市場 #焦點
+
+南向資金淨賣出額達10億港元。
+
+---
+
+### 2026-08-19 11:38:55  #MKT News #Market Regions #Japan & APAC
+
+Japan 10-year government bond yield fell 4 bps to 2.895%.
 
 ---
 
@@ -18883,29 +18895,5 @@ At the morning open, China’s main futures contracts were mostly higher: Shangh
 ### 2026-08-18 09:00:03  #市場
 
 【商品期貨開盤】乙二醇連續漲4.17%，集運指數歐線期貨連續漲3.46%，燃料油連續漲3.20%，上海原油連續漲3.06%，丁二烯橡膠連續漲2.90%，液化石油氣連續漲2.82%，瓶片連續漲2.38%，低硫燃料油連續漲2.25%，甲醇連續漲2.25%，純苯連續漲2.04%。
-
----
-
-### 2026-08-18 09:00:02  #市場
-
-富時中國A50指數期貨開盤下跌0.12%。
-
----
-
-### 2026-08-18 08:59:29  #市場
-
-現貨白銀日內漲1%，現報66.43美元/盎司。
-
----
-
-### 2026-08-18 08:59:17  #其他
-
-【陝國投等成立商業航天創投基金】企查查APP顯示，近日，陝西匯新白相商業航天創業投資基金合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由陝國投等共同出資。
-
----
-
-### 2026-08-18 08:58:24  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Extends Gains on Easing Fed Hike Bets — Silver climbed above $66 an ounce on Tuesday, rising for the third straight session amid fading expectations for a Federal Reserve interest rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Investors now look ahead to the minutes of the Fed’s July meeting and comments from Chairman Kevin Warsh at the annual Jackson Hole symposium for further clues on the policy outlook. Meanwhile, traders remained wary of inflation risks as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Elsewhere, silver remains supported by solid industrial demand from the green energy transition, photovoltaic solar panels, electric vehicles, and artificial intelligence data center infrastructure.
 
 ---

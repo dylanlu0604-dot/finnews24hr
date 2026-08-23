@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 04:33:26_
-_本檔包含 3154 則快訊，約 632384 字_
+_更新時間：2026-08-24 04:53:41_
+_本檔包含 3153 則快訊，約 633092 字_
+
+---
+
+### 2026-08-20 12:09:01  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact mixed #DXY
+
+【JP Morgan: BOJ hike path pulled forward; sees year-end policy rate at 1.5%】JP Morgan now expects the BOJ’s next rate hike in September (previously October), adds a further move in December and raises its 2026 year‑end policy rate forecast to 1.5%. If the government’s fiscal stance does not change materially, JP Morgan projects additional hikes in April, July and December 2027, taking the year‑end policy rate to 2.25%. Markets have largely priced a September hike; a BOJ delay could raise volatility. JP Morgan’s underlying inflation gauge has risen into the mid‑2% range and fiscal expansion increases concern the BOJ is falling behind the curve; current policy rates remain low relative to economic fundamentals, implying a faster normalization path than previously assumed.
 
 ---
 
@@ -19020,17 +19026,5 @@ Iranian parliament speaker Ghalibaf said during the visit they will take concret
 ### 2026-08-19 11:39:55  #MKT News
 
 Iran parliament speaker Ghalibaf said ties with Iraq are rooted in wartime brotherhood, joint resistance to external interference and belief in a shared destiny, and that this past will guide future relations.
-
----
-
-### 2026-08-19 11:39:15  #市場 #焦點
-
-南向資金淨賣出額達10億港元。
-
----
-
-### 2026-08-19 11:38:55  #MKT News #Market Regions #Japan & APAC
-
-Japan 10-year government bond yield fell 4 bps to 2.895%.
 
 ---

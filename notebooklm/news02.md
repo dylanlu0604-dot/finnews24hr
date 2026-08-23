@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 04:33:26_
-_本檔包含 3311 則快訊，約 633573 字_
+_更新時間：2026-08-24 04:53:41_
+_本檔包含 3310 則快訊，約 632793 字_
 
 ---
 
@@ -19988,11 +19988,5 @@ Jefferies raises Estée Lauder PT to $100 from $88.
 ### 2026-08-20 12:09:23  #公司 #市場
 
 【紫光國微：受晶圓等上游原材料成本上漲影響 未來不排除儲存產品漲價的可能】紫光國微8月19日在業績說明會上表示，公司在特種積體電路領域，除市場較為熟知的FPGA產品外，產品佈局還涵蓋AI+視覺感知、處理器、可程式設計器件、儲存器、網路與介面、模擬器件、ASIC/SoPC等多個專業領域。其中，公司在特種儲存領域的市場佔有率達80%左右。價格策略方面，出於國家戰略考慮及公司長期客戶關係，公司儲存產品此前基本未漲價。目前受晶圓等上游原材料成本上漲影響，未來不排除漲價的可能。未來，隨著下游應用逐步向智慧化演進，資料儲存需求持續增長，公司對特種儲存晶片市場的長期發展前景持樂觀態度。
-
----
-
-### 2026-08-20 12:09:01  #MKT News #USDJPY #Impact bearish #Nikkei 225 #Impact mixed #DXY
-
-【JP Morgan: BOJ hike path pulled forward; sees year-end policy rate at 1.5%】JP Morgan now expects the BOJ’s next rate hike in September (previously October), adds a further move in December and raises its 2026 year‑end policy rate forecast to 1.5%. If the government’s fiscal stance does not change materially, JP Morgan projects additional hikes in April, July and December 2027, taking the year‑end policy rate to 2.25%. Markets have largely priced a September hike; a BOJ delay could raise volatility. JP Morgan’s underlying inflation gauge has risen into the mid‑2% range and fiscal expansion increases concern the BOJ is falling behind the curve; current policy rates remain low relative to economic fundamentals, implying a faster normalization path than previously assumed.
 
 ---

@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 04:33:26_
-_本檔包含 2965 則快訊，約 632014 字_
+_更新時間：2026-08-24 04:53:41_
+_本檔包含 2966 則快訊，約 632777 字_
+
+---
+
+### 2026-08-18 09:00:02  #市場
+
+富時中國A50指數期貨開盤下跌0.12%。
+
+---
+
+### 2026-08-18 08:59:29  #市場
+
+現貨白銀日內漲1%，現報66.43美元/盎司。
+
+---
+
+### 2026-08-18 08:59:17  #其他
+
+【陝國投等成立商業航天創投基金】企查查APP顯示，近日，陝西匯新白相商業航天創業投資基金合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由陝國投等共同出資。
+
+---
+
+### 2026-08-18 08:58:24  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Extends Gains on Easing Fed Hike Bets — Silver climbed above $66 an ounce on Tuesday, rising for the third straight session amid fading expectations for a Federal Reserve interest rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Investors now look ahead to the minutes of the Fed’s July meeting and comments from Chairman Kevin Warsh at the annual Jackson Hole symposium for further clues on the policy outlook. Meanwhile, traders remained wary of inflation risks as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Elsewhere, silver remains supported by solid industrial demand from the green energy transition, photovoltaic solar panels, electric vehicles, and artificial intelligence data center infrastructure.
 
 ---
 
@@ -17877,23 +17901,5 @@ Trump said he is unhappy he long ago agreed to joint military exercises with Sou
 ### 2026-08-17 04:58:43  #MKT News
 
 Brazil's Rio de Janeiro state firefighters said on the 16th that a tourist coach overturned near Petrópolis in the early hours, killing at least 10.
-
----
-
-### 2026-08-17 04:49:17  #公司 #國際
-
-【美國針對馬克·沃爾特的調查聚焦四家中介機構】美國聯邦調查人員調查馬克·沃爾特，重點鎖定四家機構。這四家機構充當中介，處理古根海姆合夥公司執行長旗下保險企業，向其商業版圖內其他公司發放的貸款。美國聯邦檢察官與美國證券交易委員會正在調查，沃爾特及其控制的企業是否存在欺詐行為：即在從保險機構借入數十億美元的過程中隱瞞資金關聯關係。調查人員現已將調查範圍收縮至總部位於邁阿密的ABS Capital、投資機構Amistad Financial、商業地產經紀商布拉德福德·艾倫以及哈德遜貿易公司。
-
----
-
-### 2026-08-17 04:44:55  #國際
-
-美國媒體：由於特朗普政府未能妥善應對其對伊朗發動的戰爭，美國在波斯灣地區的盟友日益感到憤怒與失望。
-
----
-
-### 2026-08-17 04:33:40  #MKT News
-
-US President Trump said he had "a great weekend" and held "many meetings."
 
 ---
