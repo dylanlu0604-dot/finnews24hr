@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-23 12:31:06",
+  "updated": "2026-08-23 12:35:13",
   "count": 15998,
   "items": [
+    {
+      "id": "5053563",
+      "time": "2026-08-23 12:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴：配售總對價 800 億港元。"
+    },
+    {
+      "id": "5053562",
+      "time": "2026-08-23 12:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴：宣佈擬在香港配售新股。"
+    },
     {
       "id": "5053561",
       "time": "2026-08-23 12:24:13",
@@ -146287,24 +146303,6 @@
         "國際"
       ],
       "text": "【厄爾尼諾致糖期貨大漲價】近期，強厄爾尼諾事件發生機率持續增大，暴雨、乾旱等極端天氣，在全球多地肆虐。多個食糖生產國和出口國的甘蔗種植產業受到衝擊。隨著市場對主要甘蔗產區產量將下降的擔憂升溫，全球糖期貨價格日前也升至年內高點。美國國家海洋和大氣管理局釋出報告顯示，今年10月至12月出現強厄爾尼諾事件的機率為81%，其強度可能躋身1950年以來最強厄爾尼諾事件之列。荷蘭合作銀行釋出的最新報告顯示，厄爾尼諾事件還會造成印度及東南亞地區降雨量低於常年水平，放大糖產量的下行風險，進而導致全球供應預期收緊。印度已禁止食糖出口直至9月底。足夠大的減產衝擊可能迫使印度轉向進口。最近一個月，紐約原糖期貨和倫敦白糖期貨主力合約價格分別累計上漲約12%和8.8%。同期，國內白糖期貨價格雖然跟隨外盤上漲，但漲幅有限。 （央視財經）"
-    },
-    {
-      "id": "mkt:01a008d9-a0ac-7aab-904c-50d972e91795",
-      "time": "2026-08-16 12:34:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Poll: Majority of US voters say life has worsened under Trump】An FT-published Focaldata national poll finds more than 53% of registered US voters say their finances have worsened since Donald Trump returned to the White House in January 2025. Nearly 57% of independents and about 25% of self-identified Republicans also report deterioration. With under three months to the November midterms, respondents were more likely to view Democrats than Republicans as better able to handle inflation and cost-of-living issues; Democrats also hold a slight edge on jobs and the economy."
-    },
-    {
-      "id": "5042601",
-      "time": "2026-08-16 12:32:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長：以色列將採取強硬回應以捍衛自身安全。"
     }
   ]
 }
