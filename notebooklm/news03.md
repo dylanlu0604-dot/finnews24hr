@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 11:10:48_
-_本檔包含 3248 則快訊，約 644983 字_
+_更新時間：2026-08-23 11:55:53_
+_本檔包含 3251 則快訊，約 644840 字_
+
+---
+
+### 2026-08-20 09:37:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【Multiple Chinese gold-stock ETFs rise more than 6%】Chinese gold-stock ETFs including Guotai, Huaxia and ICBC rose more than 6% as gold equities continued to strengthen.
+
+---
+
+### 2026-08-20 09:37:25  #市場 #觀點
+
+【貴金屬板塊開盤強勢，興業銀錫漲停】貴金屬板塊開盤強勢，興業銀錫漲停，中金黃金、赤峰黃金、山東黃金、曉程科技、山金國際等漲超6%。
+
+---
+
+### 2026-08-20 09:37:02  #市場
+
+【多支黃金股ETF漲超6%】黃金股持續走強，黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲超6%,訊息面上，黃金突破4500美元大關。
+
+---
+
+### 2026-08-20 09:36:58  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+Al Arabiya reports US ambassador to Israel Mike Hekabi said Trump could consider military action against Iran if Tehran refuses to abandon its nuclear and uranium-enrichment ambitions and to reopen the Strait of Hormuz.
+
+---
+
+### 2026-08-20 09:36:57  #國際
+
+美國駐以色列大使表示，若伊朗拒絕放棄核與濃縮鈾野心並拒絕重新開放霍爾木茲海峽，特朗普可能會考慮對其採取軍事行動。
+
+---
+
+### 2026-08-20 09:35:50  #MKT News #Important
+
+SK Hynix gains widened to 11%; Samsung Electronics gains widened to 7%.
+
+---
+
+### 2026-08-20 09:35:20  #公司
+
+三星電子股價漲幅擴大至7%，SK海力士股價漲幅擴大至11%。
+
+---
+
+### 2026-08-20 09:34:59  #市場
+
+【煤炭開採加工板塊衝高，寶泰隆觸及漲停】煤炭開採加工板塊衝高，寶泰隆觸及漲停，淮北礦業、昊華能源、蘭花科創、新大洲A、甘肅能化跟漲。
+
+---
+
+### 2026-08-20 09:34:47  #央行 #中國央行
+
+【LPR連續15個月“按兵不動” 降息還有戲嗎？】中國人民銀行授權全國銀行間同業拆借中心公佈，2026年8月20日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。
+
+---
+
+### 2026-08-20 09:34:43  #市場
+
+【宇樹科技盤中一度跌超17%】宇樹科技短線走低，盤中一度跌超17%。
+
+---
+
+### 2026-08-20 09:33:45  #MKT News
+
+Malaysian Ringgit rose to 4.04 per US dollar, the strongest level since mid-June.
+
+---
+
+### 2026-08-20 09:33:26  #市場 #國際
+
+馬來西亞林吉特<MYR=>兌美元升至4.04，創6月中旬以來新高。
+
+---
+
+### 2026-08-20 09:33:16  #市場 #國際
+
+日本40年期國債收益率下跌9.5個基點至4.055%。
+
+---
+
+### 2026-08-20 09:33:00  #市場 #焦點
+
+【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、派林生物、上海萊士跟漲。
+
+---
+
+### 2026-08-20 09:33:00  #市場 #焦點
+
+【A股病毒檢測板塊異動拉昇】貝瑞基因、達安基因觸及漲停，新開源、安科生物、華大基因、博暉創新、艾德生物跟漲。
+
+---
+
+### 2026-08-20 09:33:00  #市場 #焦點
+
+【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、科華生物、華蘭生物、派林生物、健帆生物跟漲。
+
+---
+
+### 2026-08-20 09:32:48  #MKT News
+
+【China NMPA approves two innovative drugs】China’s National Medical Products Administration approved two new drugs: 1) Anfuliqita monoclonal antibody injection (subcutaneous), marketed as Yisaina, from Sansheng Guojian Pharmaceutical (Shanghai) Co., Ltd., for acute gouty arthritis in adults who are contraindicated, intolerant of, or unresponsive to NSAIDs and/or colchicine, or who are unsuitable for repeated steroid use. 2) Fumarate likangkepan capsules, marketed as HengYouDa, from Chengdu Shengdi Pharmaceutical Co., Ltd., approved under the NMPA’s priority review for treatment of adult paroxysmal nocturnal hemoglobinuria (PNH) patients not previously treated with complement inhibitors.
+
+---
+
+### 2026-08-20 09:32:42  #市場
+
+快手<1024.HK>股價下跌逾10%。
+
+---
+
+### 2026-08-20 09:32:35  #公司
+
+宇樹科技創始人兼CEO王興興：我們尚未對人形機器人進行大規模推廣，因為這類機器人的效率與通用能力仍不夠完善。
+
+---
+
+### 2026-08-20 09:32:21  #MKT News #Important #Market Regions #Greater China #01024.HK #Impact bearish
+
+Kuaishou (01024.HK) shares fell over 10% after the company reported 1H adjusted net profit of 7.287 bln yuan, down 28.5% YoY.
+
+---
+
+### 2026-08-20 09:32:03  #公司
+
+【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局批准三生國健藥業（上海）股份有限公司申報的安弗利奇塔單抗注射液（皮下注射）（商品名：益賽那）上市，適用於對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的，以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該品種的上市為相關患者提供了新的治療選擇。近日，國家藥品監督管理局透過優先審評審批程式，批准成都盛迪醫藥有限公司申報的1類創新藥富馬酸立康可泮膠囊（商品名稱：恆優達）上市，該藥用於治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。該藥品上市為患者提供了新的治療選擇。
 
 ---
 
@@ -19482,113 +19608,5 @@ Commercial aerospace-themed ETFs opened higher; satellite ETFs from E Fund and G
 ### 2026-08-19 09:27:10  #公司 #國際
 
 【歐委會批准賓士、寶馬、賽力斯共同控股超充合資公司逸安啟】歐盟中國商會訊息，據歐委會網站，8月13日，歐委會宣佈根據歐盟併購法規，正式批准梅賽德斯-賓士中國集團、華晨寶馬和賽力斯集團共同控股北京逸安啟新能源科技有限公司（逸安啟）。今年4月，寶馬與梅賽德斯-賓士在中國合資設立的超充公司逸安啟宣佈股權擴容：賽力斯集團以對等持股方式成為新投資方，旗下品牌問界正式加入。交易完成後，寶馬、梅賽德斯-賓士、賽力斯三方各持33.3%股份，共同推進國內超充網路建設與運營。
-
----
-
-### 2026-08-19 09:26:36  #公司 #市場
-
-【愛麗家居競價跌停】愛麗家居競價跌停，此前走出13天12板，兩度停牌核查；上交所日前公告，部分投資者在交易該股過程中存在影響股票交易正常秩序的異常交易行為，上交所依規對相關投資者採取了暫停賬戶交易等自律監管措施。
-
----
-
-### 2026-08-19 09:26:21  #公司 #市場
-
-【雙英集團上市首日開盤大漲超87%】雙英集團上市首日開盤漲87.6%，現報20.88元，該股發行價為11.13元。
-
----
-
-### 2026-08-19 09:26:07  #市場
-
-【宇樹科技高開629% 總市值達4449億】宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。
-
----
-
-### 2026-08-19 09:25:45  #MKT News #Market Regions #Greater China
-
-【Yushu Technology IPO: 8,000x retail demand; offshore pricing ~176% above issue】Yushu Technology debuted on Shanghai’s STAR Market today at an issue price of 150.8 yuan, implying a post-issue market value of about 61 billion yuan. Based on 2025 estimates the IPO implies roughly 219x P/E and 36x P/S. Retail subscriptions exceeded 8,000x. Pre-listing offshore private trading priced the stock about 176% above the issue price, with derivatives priced even more aggressively, indicating initial trading is focused on the scarcity value of a leading humanoid-robot name. Refinitiv also noted large-scale replacement by humanoid robots remains constrained by cost and reliability: to achieve a two-year payback total cost would need to fall to roughly 160,000 yuan, while current prices are typically 300,000–500,000 yuan; 50–70% of humanoid robots this year may be deployed for training data collection rather than direct production value.
-
----
-
-### 2026-08-19 09:25:35  #焦點
-
-三大股指低開，滬指跌0.96％，深成指跌2.09％，創業板跌2.7％。
-
----
-
-### 2026-08-19 09:25:29
-
-N宇樹上市首日開漲629.44％，股價現報1100元，發行價為150.80元/股。
-
----
-
-### 2026-08-19 09:25:26  #其他
-
-N宇樹上市首日開漲629.44%，股價現報1100元，發行價為150.80元/股。
-
----
-
-### 2026-08-19 09:25:25  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-A-share market opened: Shanghai Composite down 0.96%, Shenzhen Composite Index down 2.09%, ChiNext Index down 2.70%. N Yushu surged 629.44% on its debut; stock at 1,100 yuan, IPO price 150.80 yuan per share.
-
----
-
-### 2026-08-19 09:25:22  #MKT News
-
-Pentagon says US training objectives will not be affected.
-
----
-
-### 2026-08-19 09:25:14  #MKT News
-
-South Korea's foreign minister said South Korean and U.S. officials were previously unaware that the joint military exercises would be scaled back.
-
----
-
-### 2026-08-19 09:25:03  #MKT News
-
-PENTAGON says adjustments to joint exercises with South Korea aim to maintain readiness and training objectives.
-
----
-
-### 2026-08-19 09:24:41  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #WTI #Impact bullish #Brent
-
-China fuel oil front-month contract rose 6.00% intraday to 4,281 yuan/ton.
-
----
-
-### 2026-08-19 09:24:40  #國際
-
-韓國外交部長：韓美官員此前對縮減聯合軍事演習一事毫不知情。
-
----
-
-### 2026-08-19 09:24:24  #國際
-
-美國國防部官員：調整美韓聯合演習可保持戰備狀態與訓練目標。
-
----
-
-### 2026-08-19 09:24:15  #市場
-
-小米港股開盤漲3%，其第二季度智慧手機銷量超預期。
-
----
-
-### 2026-08-19 09:23:58  #央行 #中國央行
-
-央行公告，根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
-
----
-
-### 2026-08-19 09:23:48  #MKT News #Market Themes #AI Revolution
-
-【AI startup Temporal could be valued at at least $12 billion】Temporal is in talks for a new financing round of about $500m that would more than double its February valuation to at least $12bn. The round has not closed and terms remain subject to change.
-
----
-
-### 2026-08-19 09:22:34  #MKT News #Important #CNH #Impact bullish
-
-【PBOC nets CNY 142.3 bln liquidity drain via reverse repos】The PBOC did not conduct standard reverse repo operations today but injected CNY 327.4 bln via overnight reverse repos; with CNY 469.7 bln of overnight reverse repos maturing, the net liquidity withdrawal was CNY 142.3 bln.
 
 ---

@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 11:10:48_
-_本檔包含 3383 則快訊，約 644789 字_
+_更新時間：2026-08-23 11:55:53_
+_本檔包含 3376 則快訊，約 644443 字_
+
+---
+
+### 2026-08-21 09:47:31  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Shares Set for 2nd Straight Weekly Losses — Australian equities inched lower around midday on Friday, hovering around 9,071 after closing modestly higher in the prior session, heading for the second straight weekly decline. A sharp drop on Wall Street overnight weighed on sentiment as long-dated U.S. Treasury yields resumed their march higher, after the government's moves to stem the recent bond market rout failed to ease investor fears about inflation. Locally, private sector activity slowed in August, with the flash Composite PMI slipping from July's 6-month high amid a decline in manufacturing output. Caution also grew ahead of July inflation readings next week. Meanwhile, July employment unexpectedly fell, pushing the jobless rate to a three-month high. Tech, healthcare, and commercial services weighed though gains in energy minerals, utilities, and communications capped the downside. Steep losses were seen for Charter Hall (-6.3%), Pro Medicus (-3.3%), Wisetech Global (-2.9%), and Lynas Rare Earths (-2.2%).
+
+---
+
+### 2026-08-21 09:46:23  #公司 #市場
+
+【超節點概念震盪拉昇 瑞斯康達直線漲停】超節點概念震盪拉昇，瑞斯康達直線漲停，星網銳捷、共進股份、紫光股份、菲菱科思跟漲。
+
+---
+
+### 2026-08-21 09:46:16  #公司 #市場
+
+CPO概念股異動拉昇，可川科技、瑞斯康達、星網銳捷漲停，共進股份、銳捷網路、新易盛跟漲。
+
+---
+
+### 2026-08-21 09:45:58  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bullish #CSI300
+
+Mainland A-shares opened lower then rallied; ChiNext rose 1.0%, the Shenzhen Composite Index added 0.4% and the Shanghai Composite neared flat/turning positive. Leading gains were in gold, shale gas, MLCC (multilayer ceramic capacitors) and crude palm oil-related stocks.
+
+---
+
+### 2026-08-21 09:45:53  #公司
+
+【明陽智慧、唐山國控投資成立綠色能源公司】企查查APP顯示，近日，唐山國控綠色能源有限公司成立，經營範圍包含：氣體、液體分離及純淨裝置銷售；生物化工產品技術研發；生物質液體燃料生產工藝研發等。企查查股權穿透顯示，該公司由唐山國控集團有限公司、明陽智慧共同持股。
+
+---
+
+### 2026-08-21 09:45:38  #市場 #焦點
+
+創業板指漲1.02%，現報3531.139點；上證指數跌0.04%，現報3902.340點；深證成指漲0.40%，現報14029.288點。
+
+---
+
+### 2026-08-21 09:44:56  #MKT News
+
+New Zealand and Thailand launch a strategic partnership.
+
+---
+
+### 2026-08-21 09:44:50  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index
+
+FTSE China A50 futures surged over 1%.
+
+---
+
+### 2026-08-21 09:44:44  #市場 #焦點
+
+富時中國A50指數期貨漲幅擴大至1%。
+
+---
+
+### 2026-08-21 09:44:38  #公司 #市場
+
+【乳業奶粉板塊下挫，一鳴食品跌停】乳業奶粉板塊下挫，一鳴食品跌停，李子園、三元股份、燕塘乳業、ST嘉必優、天潤乳業、均瑤健康等跟跌。
+
+---
+
+### 2026-08-21 09:44:19  #市場 #焦點
+
+甲醇連續主力合約日內漲2%，現報2887.00元。
+
+---
+
+### 2026-08-21 09:44:06  #公司 #市場
+
+【化肥板塊持續調整，紅四方跌停】化肥板塊持續調整，紅四方跌停，農大科技、赤天化、星湖科技、川金諾、史丹利、冠農股份等跟跌。
+
+---
+
+### 2026-08-21 09:44:03  #市場 #焦點
+
+瀝青連續主力合約日內漲3%，現報4564.00元。
+
+---
+
+### 2026-08-21 09:43:46  #MKT News #Important
+
+A-share CPO-related stocks saw selective strength; Ruisikangda and Kechuan Technology hit daily limits, while Dongtian Micro, Shenkeda and StarNet Ruijie also advanced.
 
 ---
 
@@ -20306,131 +20390,5 @@ Australia Jobless Rate Above Forecasts — Australia’s seasonally adjusted une
 ### 2026-08-20 09:37:41  #MKT News #SMH #Impact mixed #Nasdaq100
 
 【JPMorgan: Tech sell-off appears driven by quant/liquidity flows, not structural de-risking】JPMorgan, reviewing the prior day’s tech retreat, said the move looked more like a low-volume, catalyst-free, post-earnings momentum reversal driven by quant/liquidity flows than a structural de-risking tied to higher long-end yields or AI funding stress. Traders rated intraday flow activity about 3/10; semiconductors showed localized de-risking but on limited scale. The firm’s composite positioning indicator sits near the 40th percentile (neutral), and the Philadelphia Semiconductor ETF remains roughly 18% above its July low despite the pullback. JPMorgan retains a technical bull-market view and notes buybacks, retail investors and systematic funds have room to rebuild positions or increase leverage.
-
----
-
-### 2026-08-20 09:37:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-【Multiple Chinese gold-stock ETFs rise more than 6%】Chinese gold-stock ETFs including Guotai, Huaxia and ICBC rose more than 6% as gold equities continued to strengthen.
-
----
-
-### 2026-08-20 09:37:25  #市場 #觀點
-
-【貴金屬板塊開盤強勢，興業銀錫漲停】貴金屬板塊開盤強勢，興業銀錫漲停，中金黃金、赤峰黃金、山東黃金、曉程科技、山金國際等漲超6%。
-
----
-
-### 2026-08-20 09:37:02  #市場
-
-【多支黃金股ETF漲超6%】黃金股持續走強，黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲超6%,訊息面上，黃金突破4500美元大關。
-
----
-
-### 2026-08-20 09:36:58  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Al Arabiya reports US ambassador to Israel Mike Hekabi said Trump could consider military action against Iran if Tehran refuses to abandon its nuclear and uranium-enrichment ambitions and to reopen the Strait of Hormuz.
-
----
-
-### 2026-08-20 09:36:57  #國際
-
-美國駐以色列大使表示，若伊朗拒絕放棄核與濃縮鈾野心並拒絕重新開放霍爾木茲海峽，特朗普可能會考慮對其採取軍事行動。
-
----
-
-### 2026-08-20 09:35:50  #MKT News #Important
-
-SK Hynix gains widened to 11%; Samsung Electronics gains widened to 7%.
-
----
-
-### 2026-08-20 09:35:20  #公司
-
-三星電子股價漲幅擴大至7%，SK海力士股價漲幅擴大至11%。
-
----
-
-### 2026-08-20 09:34:59  #市場
-
-【煤炭開採加工板塊衝高，寶泰隆觸及漲停】煤炭開採加工板塊衝高，寶泰隆觸及漲停，淮北礦業、昊華能源、蘭花科創、新大洲A、甘肅能化跟漲。
-
----
-
-### 2026-08-20 09:34:47  #央行 #中國央行
-
-【LPR連續15個月“按兵不動” 降息還有戲嗎？】中國人民銀行授權全國銀行間同業拆借中心公佈，2026年8月20日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。
-
----
-
-### 2026-08-20 09:34:43  #市場
-
-【宇樹科技盤中一度跌超17%】宇樹科技短線走低，盤中一度跌超17%。
-
----
-
-### 2026-08-20 09:33:45  #MKT News
-
-Malaysian Ringgit rose to 4.04 per US dollar, the strongest level since mid-June.
-
----
-
-### 2026-08-20 09:33:26  #市場 #國際
-
-馬來西亞林吉特<MYR=>兌美元升至4.04，創6月中旬以來新高。
-
----
-
-### 2026-08-20 09:33:16  #市場 #國際
-
-日本40年期國債收益率下跌9.5個基點至4.055%。
-
----
-
-### 2026-08-20 09:33:00  #市場 #焦點
-
-【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、派林生物、上海萊士跟漲。
-
----
-
-### 2026-08-20 09:33:00  #市場 #焦點
-
-【A股病毒檢測板塊異動拉昇】貝瑞基因、達安基因觸及漲停，新開源、安科生物、華大基因、博暉創新、艾德生物跟漲。
-
----
-
-### 2026-08-20 09:33:00  #市場 #焦點
-
-【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、科華生物、華蘭生物、派林生物、健帆生物跟漲。
-
----
-
-### 2026-08-20 09:32:48  #MKT News
-
-【China NMPA approves two innovative drugs】China’s National Medical Products Administration approved two new drugs: 1) Anfuliqita monoclonal antibody injection (subcutaneous), marketed as Yisaina, from Sansheng Guojian Pharmaceutical (Shanghai) Co., Ltd., for acute gouty arthritis in adults who are contraindicated, intolerant of, or unresponsive to NSAIDs and/or colchicine, or who are unsuitable for repeated steroid use. 2) Fumarate likangkepan capsules, marketed as HengYouDa, from Chengdu Shengdi Pharmaceutical Co., Ltd., approved under the NMPA’s priority review for treatment of adult paroxysmal nocturnal hemoglobinuria (PNH) patients not previously treated with complement inhibitors.
-
----
-
-### 2026-08-20 09:32:42  #市場
-
-快手<1024.HK>股價下跌逾10%。
-
----
-
-### 2026-08-20 09:32:35  #公司
-
-宇樹科技創始人兼CEO王興興：我們尚未對人形機器人進行大規模推廣，因為這類機器人的效率與通用能力仍不夠完善。
-
----
-
-### 2026-08-20 09:32:21  #MKT News #Important #Market Regions #Greater China #01024.HK #Impact bearish
-
-Kuaishou (01024.HK) shares fell over 10% after the company reported 1H adjusted net profit of 7.287 bln yuan, down 28.5% YoY.
-
----
-
-### 2026-08-20 09:32:03  #公司
-
-【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局批准三生國健藥業（上海）股份有限公司申報的安弗利奇塔單抗注射液（皮下注射）（商品名：益賽那）上市，適用於對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的，以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該品種的上市為相關患者提供了新的治療選擇。近日，國家藥品監督管理局透過優先審評審批程式，批准成都盛迪醫藥有限公司申報的1類創新藥富馬酸立康可泮膠囊（商品名稱：恆優達）上市，該藥用於治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。該藥品上市為患者提供了新的治療選擇。
 
 ---

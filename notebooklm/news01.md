@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 11:10:48_
-_本檔包含 3126 則快訊，約 645008 字_
+_更新時間：2026-08-23 11:55:53_
+_本檔包含 3122 則快訊，約 645146 字_
+
+---
+
+### 2026-08-23 11:47:18  #國際
+
+市場訊息：在美國貿易談判暫停後，加拿大總理卡尼與各省地區行政首長舉行線上會議，研討反制關稅對策。
+
+---
+
+### 2026-08-23 11:46:32  #其他
+
+【北京新發地緊急排查甲醛白菜】8月23日，據北京豐臺訊息，針對8月22日網曝河北張家口康保縣部分白菜收購商違規使用甲醛溶液保鮮一事，北京新發地農產品批發市場第一時間啟動全鏈條溯源排查。截至8月22日當晚，新發地經全面核查，涉事康保縣問題白菜未流入新發地市場，首都“菜籃子”供應安全穩定。 事件曝光後，新發地市場立即對所有入場白菜的產地證明、運輸車輛及進貨渠道進行逐一核對。新發地相關負責人表示，市場長期實行嚴格的農產品准入制度和抽樣檢測機制，確認涉事車輛和批次並未進入新發地交易。新發地同時加密蔬菜農藥殘留及非法新增物的快檢頻次，杜絕任何不合格農產品流入市場，全力守護首都市民“菜籃子”安全。 當前新發地市場白菜供應充足，均有規範的產地證明和合格檢測報告。（北京日報）
+
+---
+
+### 2026-08-23 11:42:55  #國際
+
+市場訊息：受中東戰爭影響石油企業利潤暴漲，德國、義大利、奧地利、波蘭、葡萄牙及西班牙正加大呼籲力度，要求在全歐盟範圍內對石油企業徵收暴利稅。
+
+---
+
+### 2026-08-23 11:39:42  #其他
+
+【廣西升級釋出洪水紅色預警 鬱江將出現編號洪水】8月22日8時至23日8時，據廣西壯族自治區水文中心監測，崇左、防城港、百色及南寧等市部分地區降暴雨到大暴雨，局地特大暴雨，日雨量較大的有崇左市寧明縣那堪鎮303毫米，防城港市上思縣平福鄉290.5毫米。受強降雨影響，左江及支流明江、黑水河等江河出現4～11米的漲水過程，其中明江及支流公安河、派連河、思州河，左江及上游平而河、支流憑祥河，北侖河等13條河流19個站出現超警0.03～6.03米的洪水。廣西壯族自治區水文中心預測，未來24小時：明江上思縣在妙鎮河段（警戒水位135.0米）將出現超警5米左右的洪水；明江寧明縣那堪鎮河段（警戒水位131.9米）將出現超警7.1米左右的洪水；明江寧明縣東安鄉河段（警戒水位117.9米）將出現超警5.6米左右的洪水；明江寧明縣城河段（警戒水位116.0米）將出現超警6.0米左右的洪水；左江上游平而河憑祥市友誼鎮河段（警戒水位138.0米）將出現超警3.5米左右的洪水；左江龍州縣城區河段（警戒水位117.2米）將出現超警4.3米左右的洪水。廣西壯族自治區水文中心於8月23日0時升級釋出洪水紅色預警。未來1至3天，左江崇左城區河段（警戒水位101.2米）可能出現超警6.5米左右的洪水，左江扶綏縣城河段（警戒水位81.8米）可能出現超警6米左右的洪水。崇左、防城港、南寧及欽州等市部分中小河流可能出現較大洪水。（央視新聞）
+
+---
+
+### 2026-08-23 11:24:39  #公司 #國際
+
+【日本茨城縣地震致37人受傷】據中國地震臺網正式測定，當地時間今天（8月23日）2點，北京時間1點，在日本本州島發生5.8級地震。據日本氣象廳訊息，地震發生在日本茨城縣南部，東京震感明顯，不過無需擔心此次地震會引發海嘯。據日本總務省消防廳訊息，目前地震已造成37人受傷。日本廣播協會引述電力公司方面訊息稱，地震發生後，位於震中附近的福島第一和第二核電站、東海核電站和東海第二核電站目前暫未發現異常，核電站周邊輻射監測點的數值也未發生明顯變化。（CCTV國際時訊）
+
+---
+
+### 2026-08-23 11:24:23  #其他
+
+【雷鳥iO正式釋出：支援兩天續航、整機重量34g，首發到手價1996元起】雷鳥創新正式釋出全新產品系列——雷鳥 iO 系列，首發到手價 1996 元起，提供 0 至 1000 度近視配鏡方案，讓 AI 眼鏡從“科技嚐鮮品”真正走向全天候日常佩戴。（新浪科技）
+
+---
+
+### 2026-08-23 11:23:25  #國際
+
+市場訊息：法國總統馬克龍將與沙特王儲在巴黎會晤，商討霍爾木茲海峽局勢。
+
+---
+
+### 2026-08-23 11:13:01  #宏觀 #公司 #市場 #國際
+
+【美債收益率走高 歐洲債市承壓加劇】近日，美國長期國債收益率升至近20年高位，致使歐洲債券市場持續受到影響。儘管美國財政部出手干預一度緩解美債拋售壓力，但歐洲債市仍普遍承壓。21日，作為美國財政部回購目標之一的30年期美國國債收益率上行至5.273%；當週早些時候，這一收益率一度升至5.34%，創下2007年以來新高。歐洲主要國家國債收益率也同步走高。截至21日，德國10年期國債收益率徘徊在3.25%左右，逼近15年高位；法國10年期國債收益率升破4.13%，為2008年以來最高；義大利10年期國債收益率升至4.08%。多家歐洲市場機構認為，美債市場波動可能繼續影響歐洲金融市場。英國安本投資公司認為，美國財政部出手干預是一個明確訊號，表明美政府願意壓低美債長期收益率，但這一做法“並未延伸至英國或其他歐洲國家”，歐洲債券將“幅度有限地走弱”。蘇黎世保險集團首席市場策略師蓋伊·米勒說，美債收益率走向“不僅對債券市場，而且對歐洲等市場的其他金融資產至關重要”，任何進一步向上突破都可能削弱市場信心。（央視新聞）
+
+---
+
+### 2026-08-23 11:12:16  #其他
+
+據燈塔專業版實時資料，截至8月23日11時10分，影片《歡迎來龍餐館》票房突破15億。
+
+---
+
+### 2026-08-23 11:12:13  #其他
+
+【颱風“紫檀”已造成廣西13條河流19個站超警】記者從廣西壯族自治區水文中心瞭解到，受第19號颱風“紫檀”影響，8月22日8時至23日8時，崇左、防城港、百色及南寧等市部分地區降暴雨到大暴雨，局地特大暴雨，日雨量較大的有崇左市寧明縣那堪鎮303.0毫米，防城港市上思縣平福鄉290.5毫米。受強降雨影響，左江及支流明江、黑水河等江河出現4米至11米的漲水過程，其中明江及支流公安河、派連河、思州河，左江及上游平而河、支流憑祥河，北侖河等13條河流19個站出現超警0.03米至6.03米的洪水。（央視新聞）
 
 ---
 
@@ -18786,89 +18846,5 @@ South Korean Shares Extend Gains — The benchmark KOSPI rose 0.5% to around 6,8
 ### 2026-08-21 09:48:06  #Trading Economics #Markets #United States #Currency #Importance 1
 
 Dollar Poised for Weekly Drop — The dollar index traded around 98.8 on Friday and was on track to lose nearly 1% for the week, as the US government’s bond buyback plan heightened market volatility and boosted demand for safe-haven metals and other currencies at the expense of the greenback. The dollar index fell sharply on Wednesday after the US Treasury Department announced larger debt buybacks aimed at containing borrowing costs. Long-term Treasury yields initially declined on Wednesday before rebounding a day after amid concerns that the government’s plan may provide only a temporary solution. The market moves underscored concerns over rising US government debt, making the dollar less attractive to investors. Meanwhile, higher oil prices as the US prepares sweeping new economic sanctions against Iran also added to inflation concerns.
-
----
-
-### 2026-08-21 09:47:31  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Shares Set for 2nd Straight Weekly Losses — Australian equities inched lower around midday on Friday, hovering around 9,071 after closing modestly higher in the prior session, heading for the second straight weekly decline. A sharp drop on Wall Street overnight weighed on sentiment as long-dated U.S. Treasury yields resumed their march higher, after the government's moves to stem the recent bond market rout failed to ease investor fears about inflation. Locally, private sector activity slowed in August, with the flash Composite PMI slipping from July's 6-month high amid a decline in manufacturing output. Caution also grew ahead of July inflation readings next week. Meanwhile, July employment unexpectedly fell, pushing the jobless rate to a three-month high. Tech, healthcare, and commercial services weighed though gains in energy minerals, utilities, and communications capped the downside. Steep losses were seen for Charter Hall (-6.3%), Pro Medicus (-3.3%), Wisetech Global (-2.9%), and Lynas Rare Earths (-2.2%).
-
----
-
-### 2026-08-21 09:46:23  #公司 #市場
-
-【超節點概念震盪拉昇 瑞斯康達直線漲停】超節點概念震盪拉昇，瑞斯康達直線漲停，星網銳捷、共進股份、紫光股份、菲菱科思跟漲。
-
----
-
-### 2026-08-21 09:46:16  #公司 #市場
-
-CPO概念股異動拉昇，可川科技、瑞斯康達、星網銳捷漲停，共進股份、銳捷網路、新易盛跟漲。
-
----
-
-### 2026-08-21 09:45:58  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bullish #CSI300
-
-Mainland A-shares opened lower then rallied; ChiNext rose 1.0%, the Shenzhen Composite Index added 0.4% and the Shanghai Composite neared flat/turning positive. Leading gains were in gold, shale gas, MLCC (multilayer ceramic capacitors) and crude palm oil-related stocks.
-
----
-
-### 2026-08-21 09:45:53  #公司
-
-【明陽智慧、唐山國控投資成立綠色能源公司】企查查APP顯示，近日，唐山國控綠色能源有限公司成立，經營範圍包含：氣體、液體分離及純淨裝置銷售；生物化工產品技術研發；生物質液體燃料生產工藝研發等。企查查股權穿透顯示，該公司由唐山國控集團有限公司、明陽智慧共同持股。
-
----
-
-### 2026-08-21 09:45:38  #市場 #焦點
-
-創業板指漲1.02%，現報3531.139點；上證指數跌0.04%，現報3902.340點；深證成指漲0.40%，現報14029.288點。
-
----
-
-### 2026-08-21 09:44:56  #MKT News
-
-New Zealand and Thailand launch a strategic partnership.
-
----
-
-### 2026-08-21 09:44:50  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index
-
-FTSE China A50 futures surged over 1%.
-
----
-
-### 2026-08-21 09:44:44  #市場 #焦點
-
-富時中國A50指數期貨漲幅擴大至1%。
-
----
-
-### 2026-08-21 09:44:38  #公司 #市場
-
-【乳業奶粉板塊下挫，一鳴食品跌停】乳業奶粉板塊下挫，一鳴食品跌停，李子園、三元股份、燕塘乳業、ST嘉必優、天潤乳業、均瑤健康等跟跌。
-
----
-
-### 2026-08-21 09:44:19  #市場 #焦點
-
-甲醇連續主力合約日內漲2%，現報2887.00元。
-
----
-
-### 2026-08-21 09:44:06  #公司 #市場
-
-【化肥板塊持續調整，紅四方跌停】化肥板塊持續調整，紅四方跌停，農大科技、赤天化、星湖科技、川金諾、史丹利、冠農股份等跟跌。
-
----
-
-### 2026-08-21 09:44:03  #市場 #焦點
-
-瀝青連續主力合約日內漲3%，現報4564.00元。
-
----
-
-### 2026-08-21 09:43:46  #MKT News #Important
-
-A-share CPO-related stocks saw selective strength; Ruisikangda and Kechuan Technology hit daily limits, while Dongtian Micro, Shenkeda and StarNet Ruijie also advanced.
 
 ---

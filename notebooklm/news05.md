@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 11:10:48_
-_本檔包含 3025 則快訊，約 644783 字_
+_更新時間：2026-08-23 11:55:53_
+_本檔包含 3015 則快訊，約 644245 字_
+
+---
+
+### 2026-08-18 00:41:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran official says 'weeks' deadline for US on MOU, warns possible Strait of Hormuz escalation】A senior Iranian official told Refinitiv on Aug. 17 that Iran has set a deadline of several weeks for the US to fully implement a US-Iran memorandum of understanding and will not allow an indefinite US maritime blockade. The official said efforts to secure a permanent ceasefire have stalled and Iran has decided to shift its posture "from defensive to full offensive" — if diplomacy fails Tehran is prepared to escalate tensions in the Strait of Hormuz and the wider Middle East. Iran said its timeline will be conveyed to the US via mediators.
+
+---
+
+### 2026-08-18 00:39:07  #焦點 #國際
+
+【伊朗官員稱已為美設定最後期限】據路透社報道，一名伊朗高階官員8月17日在接受採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。該官員稱，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”——如果外交努力失敗，伊朗已準備好將升級霍爾木茲海峽及中東地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。” （CCTV國際時訊）
+
+---
+
+### 2026-08-18 00:38:51  #MKT News
+
+Canadian Prime Minister Carney said Canada will ensure financing support for the "Seagull Island power project".
+
+---
+
+### 2026-08-18 00:37:26  #其他
+
+加拿大總理卡尼表示，渥太華將為鷗島電力專案落實資金保障。
+
+---
+
+### 2026-08-18 00:36:38  #國際
+
+海事追蹤資料證實，一艘油輪因違反霍爾木茲海峽的有關規定而在伊朗的格什姆島附近被攔截。
+
+---
+
+### 2026-08-18 00:35:46  #MKT News
+
+Ukrainian President Zelenskiy said he is working with relevant task forces to push for a new prisoner exchange and hopes to see results soon.
+
+---
+
+### 2026-08-18 00:35:17  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Ease Further — European stocks closed marginally lower on Monday as the sustained increase in energy prices added to macroeconomic headwinds for the European economy. The Euro STOXX 50 eased 0.1% to 6,530 and the STOXX Europe 600 dropped 0.2% to 656. European natural gas prices extended their surge toward multi-year highs as the prolonged blockade of LNG tankers from the Middle East magnified shortages in renewable power generation in the central part of the continent, as low river-tides forced multiple nuclear power plants to shut down. Yields in major economies rose to multi-decade highs, pressuring banks consumer-sensitive luxury companies. Santander, Deutsche Bank, LVMH, and Adidas lost between 1% and 3.4%. On the other hand, ASML rose 2.6%, tracking US AI companies following strong results from Anthropic. Also, Argenx surged 1% after reporting a successful trial for its drug Vyvgart.
+
+---
+
+### 2026-08-18 00:33:59  #國際
+
+烏克蘭總統澤連斯基：我方正協同團隊推動新一輪戰俘交換，期待很快取得進展。
+
+---
+
+### 2026-08-18 00:33:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+i24News cited a peace committee official saying Israel and the committee agreed Israeli forces will remain in Gaza until Hamas is disarmed and will retain the right to strike any rearmament attempts.
 
 ---
 
@@ -18107,119 +18161,5 @@ Israel's defense minister said the military will not leave any unresolved issues
 ### 2026-08-16 11:56:27  #MKT News
 
 【Afghans urge US to promptly return Afghan central bank assets】Five years after US troop withdrawal, Washington has frozen tens of billions of dollars of the Afghan central bank’s overseas assets under unilateral sanctions, causing an FX shortage and economic deterioration in Afghanistan. Afghan authorities have repeatedly requested the assets’ return; the US has refused. US actions before and after the conflict have triggered strong public anger.
-
----
-
-### 2026-08-16 11:55:41  #央行 #國際
-
-【阿富汗民眾呼籲美國應儘快歸還阿央行資產】美軍撤離阿富汗已過去5年，但美軍撤離後對阿富汗實施單邊制裁，凍結阿富汗中央銀行數十億美元海外資產，直接導致阿富汗外匯緊缺，經濟惡化。儘管阿富汗官方多次要求美方歸還相關資產，但美方一直拒絕歸還。美國戰爭前後的種種做法，引發阿富汗民眾強烈不滿。布朗大學此前的一份報告顯示，阿富汗戰爭導致超過4.6萬名阿富汗平民死亡。對此，有當地民眾表示，這些傷亡中，相當一部分是由美軍的直接軍事行動所造成的，美國也理應對這些受害者進行賠償。（央視新聞）
-
----
-
-### 2026-08-16 11:55:18  #其他
-
-市場訊息：新加坡企業界寄望依託本土可使用頂尖 AI 大模型的優勢，遏制大批資管人才外流。
-
----
-
-### 2026-08-16 11:52:26  #其他
-
-【陝西首批農業生態產品價值轉化專案落地】據陝西日報，8月15日，全國生態日當天，陝西首批農業生態產品價值轉化專案交易雙方正式簽約，省公共資源交易中心為各方頒發交易憑證。陝西省公共資源交易中心副主任胡陽介紹，本批專案於8月12日成交，總成交額約145萬元。這是陝西首次將農產品供給、農田固碳調節和生態文旅經營權益分類設計為標準化標的，並透過陝西省公共資源交易平臺完成市場化交易。
-
----
-
-### 2026-08-16 11:51:25  #公司
-
-【周口：嚴禁借災情隨意漲價、虛報故障，拖車救援機構必須明碼標價】周口市交通運輸局釋出《關於嚴厲整治洪澇災害期間車輛救援維修企業哄抬價格問題的公告》指出，近期周口市遭遇嚴重洪澇災害，部分割槽域積水嚴重，大量車輛被洪水浸泡受淹。接群眾反映，個別拖車救援、機動車維修企業趁災哄抬價格，現場就地起價、漫天要價，不執行明碼標價，維修專案虛高報價，嚴重侵害受災群眾合法權益，造成惡劣社會影響。公告明確，各拖車救援機構必須嚴格執行明碼標價制度，施救前主動向車主告知收費專案、計費標準、預估總費用，經車主確認後方可開展作業。嚴禁借災情隨意漲價、現場臨時加價，不得巧立名目收取額外費用。維修企業承接水淹車輛維修業務，要如實檢測車況，提前告知維修方案、配件清單、預估維修費用，增加維修專案必須徵得車主同意。嚴禁虛報故障、以次充好、虛列維修專案、哄抬維修價格。
-
----
-
-### 2026-08-16 11:50:49  #國際
-
-【指兩外交官非法介入 伊朗警告法國勿干涉內政】伊朗情報部指兩名法國外交官從事“非法干涉”活動，警告法國政府不要“非法干涉”伊朗內政。伊朗情報部星期六（8月15日）在網站發宣告稱，兩名法國外交官7月在德黑蘭與涉嫌“重大外國滲透和干涉案件”的人員舉行一次秘密會晤。
-
----
-
-### 2026-08-16 11:50:14  #其他
-
-【國產電動挖掘機全球下單】目前，我國已成為全球工程機械第一產銷大國。今年上半年，我國工程機械出口金額同比增長21.7%，出口規模持續擴大。在柳工挖掘機智慧工廠，一批電動挖掘機正在加緊生產，即將發往海外礦山。相比燃油裝置，這些電動工程機械能耗僅為三分之一。今年前7個月，工廠單月下線挖掘機同比增長超40%，產品已遠銷170多個國家和地區。智慧化、綠色化正成為中國工程機械拓展海外市場的新優勢。（央視財經）
-
----
-
-### 2026-08-16 11:48:34  #其他
-
-中國地震臺網正式測定：08月16日11時20分在萬那杜群島（南緯14.50度，東經167.15度）發生6.1級地震，震源深度150千米。
-
----
-
-### 2026-08-16 11:45:24  #公司
-
-東方證券給予賽輪集團股份有限公司買進的初始評級。
-
----
-
-### 2026-08-16 11:42:31  #MKT News
-
-CENC automatic determination: at 11:20 on Aug 16 a magnitude ~6.0 earthquake occurred near Vanuatu (14.33°S, 167.56°E); final determination subject to official rapid report.
-
----
-
-### 2026-08-16 11:41:26  #其他
-
-【河南調整防汛應急響應等級】據“河南應急”公眾號訊息，颱風“白海豚”對河南省的影響已結束，大範圍降雨過程已停止，河道、水庫水位明顯下降，各地險情得到有效控制，經會商研判，按照《河南省防汛應急預案》有關規定，河南省防指決定自8月16日11時將針對許昌市、漯河市、周口市的防汛應急響應等級調整為四級，其他省轄市（區）終止防汛應急響應。
-
----
-
-### 2026-08-16 11:39:52  #公司
-
-【應急管理部調派13支排澇隊伍在河南周口開展排澇作業】為協助做好河南周口市區排澇工作，應急管理部從河南、陝西、江蘇、安徽、山東、湖南等地，調派應急管理部自然災害工程應急救援中心（中國安能）、8支國家安全生產應急救援排澇力量、陝西機動排澇隊及徐工集團、焦作華禹、湖南迪沃等共計13支排澇力量，總排澇能力約22萬立方米/小時，緊急趕赴河南周口。以上救援力量已於16日上午9時全部抵達並投入排澇作業。（央視新聞）
-
----
-
-### 2026-08-16 11:39:21  #其他
-
-【空間站週記上新 多項科學實（試）驗有序推進】目前，神舟二十三號乘組三名航天員朱楊柱、張志遠、黎家盈已在軌駐留80余天。上週，空間科學實（試）驗、在軌訓練及演練等工作有序推進。在軌腦電測試、微重力直覺物理專案行為實驗等同步完成，分別探究長期空間飛行環境對航天員腦功能網路影響和直覺物理表徵能力的影響；圍繞骨代謝互動調控、航天整合組學等多項實驗，乘組完成了血液樣本的採集與處理，開展長期飛行中航天員骨骼、神經等生理系統變化規律相關研究；此外，乘組進行了運動學特性實驗，為工效學設計與評價等工作提供支撐。（央視新聞）
-
----
-
-### 2026-08-16 11:35:43  #其他
-
-【萬那杜附近發生6.0級左右地震】中國地震臺網自動測定：08月16日11時20分在萬那杜附近（南緯14.33度，東經167.56度）發生6.0級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-16 11:30:17  #其他
-
-【中國銀幕數量世界第一 “龍餐館”“奧德賽”特效廳一票難求】這個暑期，電影市場持續火熱。截至目前，2026年度電影票房已突破255億元，暑期檔連續37天單日票房過億；今年暑期檔票房（含預售）已突破98億元，觀影人次超2.6億。市場熱度的背後，既有優質內容點燃的觀影熱潮，也離不開影院持續升級影廳、豐富觀影體驗的助力。根據國家電影局2026年1月釋出的官方統計，2025年全國城市院線銀幕總數達93187塊，較2024年淨增2219塊，持續穩居全球銀幕數量首位。（央視新聞）
-
----
-
-### 2026-08-16 11:29:58  #其他
-
-【“千問辦公”首發上線GLM-5.3、DeepSeek V4 Pro兩款模型】阿里巴巴旗下Agent產品“千問辦公”首發上線GLM-5.3和DeepSeek V4 Pro兩款前沿模型。即日起，使用者可在產品首頁的“前沿模型”檔位直接選用。加上此前首發上線的Qwen3.8-Max，千問辦公目前已支援三款國產旗艦模型。（新浪科技）
-
----
-
-### 2026-08-16 11:26:48  #其他
-
-德國地球科學研究中心（GFZ）：萬那杜群島發生6.04級地震。
-
----
-
-### 2026-08-16 11:21:09  #國際
-
-市場訊息：當地時間週六，伊朗‑伊拉克邊境附近發生 3.8 級地震，震源深度 6.2 英里（10 公里），震中位於伊朗西亞塞拜然省薩爾達什特附近。
-
----
-
-### 2026-08-16 11:15:22  #MKT News
-
-EMSC reports a M4.4 earthquake in Indonesia's Flores region; depth 4.0 km.
-
----
-
-### 2026-08-16 11:13:45  #國際
-
-【韓國首爾首次購房人數創四年多來新高】一份報告顯示，韓國首爾首次購房人群數量創下四年八個月新高。 韓國法院不動產登記資訊廣場16日資料，上月首爾共有7552名購房者辦理首套住宅（集合住宅）所有權轉移登記。該數值為2021年11月樓市火熱時期（7886人）之後，四年八個月以來的最高水平。
 
 ---

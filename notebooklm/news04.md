@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 11:10:48_
-_本檔包含 3237 則快訊，約 644875 字_
+_更新時間：2026-08-23 11:55:53_
+_本檔包含 3246 則快訊，約 645106 字_
+
+---
+
+### 2026-08-19 09:26:36  #公司 #市場
+
+【愛麗家居競價跌停】愛麗家居競價跌停，此前走出13天12板，兩度停牌核查；上交所日前公告，部分投資者在交易該股過程中存在影響股票交易正常秩序的異常交易行為，上交所依規對相關投資者採取了暫停賬戶交易等自律監管措施。
+
+---
+
+### 2026-08-19 09:26:21  #公司 #市場
+
+【雙英集團上市首日開盤大漲超87%】雙英集團上市首日開盤漲87.6%，現報20.88元，該股發行價為11.13元。
+
+---
+
+### 2026-08-19 09:26:07  #市場
+
+【宇樹科技高開629% 總市值達4449億】宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。
+
+---
+
+### 2026-08-19 09:25:45  #MKT News #Market Regions #Greater China
+
+【Yushu Technology IPO: 8,000x retail demand; offshore pricing ~176% above issue】Yushu Technology debuted on Shanghai’s STAR Market today at an issue price of 150.8 yuan, implying a post-issue market value of about 61 billion yuan. Based on 2025 estimates the IPO implies roughly 219x P/E and 36x P/S. Retail subscriptions exceeded 8,000x. Pre-listing offshore private trading priced the stock about 176% above the issue price, with derivatives priced even more aggressively, indicating initial trading is focused on the scarcity value of a leading humanoid-robot name. Refinitiv also noted large-scale replacement by humanoid robots remains constrained by cost and reliability: to achieve a two-year payback total cost would need to fall to roughly 160,000 yuan, while current prices are typically 300,000–500,000 yuan; 50–70% of humanoid robots this year may be deployed for training data collection rather than direct production value.
+
+---
+
+### 2026-08-19 09:25:35  #焦點
+
+三大股指低開，滬指跌0.96％，深成指跌2.09％，創業板跌2.7％。
+
+---
+
+### 2026-08-19 09:25:29
+
+N宇樹上市首日開漲629.44％，股價現報1100元，發行價為150.80元/股。
+
+---
+
+### 2026-08-19 09:25:26  #其他
+
+N宇樹上市首日開漲629.44%，股價現報1100元，發行價為150.80元/股。
+
+---
+
+### 2026-08-19 09:25:25  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+A-share market opened: Shanghai Composite down 0.96%, Shenzhen Composite Index down 2.09%, ChiNext Index down 2.70%. N Yushu surged 629.44% on its debut; stock at 1,100 yuan, IPO price 150.80 yuan per share.
+
+---
+
+### 2026-08-19 09:25:22  #MKT News
+
+Pentagon says US training objectives will not be affected.
+
+---
+
+### 2026-08-19 09:25:14  #MKT News
+
+South Korea's foreign minister said South Korean and U.S. officials were previously unaware that the joint military exercises would be scaled back.
+
+---
+
+### 2026-08-19 09:25:03  #MKT News
+
+PENTAGON says adjustments to joint exercises with South Korea aim to maintain readiness and training objectives.
+
+---
+
+### 2026-08-19 09:24:41  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #WTI #Impact bullish #Brent
+
+China fuel oil front-month contract rose 6.00% intraday to 4,281 yuan/ton.
+
+---
+
+### 2026-08-19 09:24:40  #國際
+
+韓國外交部長：韓美官員此前對縮減聯合軍事演習一事毫不知情。
+
+---
+
+### 2026-08-19 09:24:24  #國際
+
+美國國防部官員：調整美韓聯合演習可保持戰備狀態與訓練目標。
+
+---
+
+### 2026-08-19 09:24:15  #市場
+
+小米港股開盤漲3%，其第二季度智慧手機銷量超預期。
+
+---
+
+### 2026-08-19 09:23:58  #央行 #中國央行
+
+央行公告，根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
+
+---
+
+### 2026-08-19 09:23:48  #MKT News #Market Themes #AI Revolution
+
+【AI startup Temporal could be valued at at least $12 billion】Temporal is in talks for a new financing round of about $500m that would more than double its February valuation to at least $12bn. The round has not closed and terms remain subject to change.
+
+---
+
+### 2026-08-19 09:22:34  #MKT News #Important #CNH #Impact bullish
+
+【PBOC nets CNY 142.3 bln liquidity drain via reverse repos】The PBOC did not conduct standard reverse repo operations today but injected CNY 327.4 bln via overnight reverse repos; with CNY 469.7 bln of overnight reverse repos maturing, the net liquidity withdrawal was CNY 142.3 bln.
 
 ---
 
@@ -19523,59 +19631,5 @@ Fitch Ratings said the US corporate default rate was broadly unchanged in July, 
 ### 2026-08-18 00:41:14  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US Economy #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
 
 {"title":"US Treasury yields stay elevated; Castle Securities flags Fed as market risk","content":"Castle Securities said the Fed's reluctance to tighten further despite prolonged above-target inflation has left long-term Treasury yields at multi-year highs, posing broader market risk. Noshad Shah, head of EMEA fixed-income sales at Castle Securities, noted policy rates are roughly 175 bps below their peak while long-term Treasuries remain near 20-year highs. On Monday the 30-year Treasury yield rose above 5.28% to a 19-year high. Last week's data showing softer inflation and weaker consumer demand lowered market odds of a September Fed rate cut. Shah warned recent easing in inflation and labor-market cooling should not be taken as the removal of rate risk, noting more than 55% of core goods prices are still rising. He called next month's Fed meeting "a close contest.""}
-
----
-
-### 2026-08-18 00:41:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran official says 'weeks' deadline for US on MOU, warns possible Strait of Hormuz escalation】A senior Iranian official told Refinitiv on Aug. 17 that Iran has set a deadline of several weeks for the US to fully implement a US-Iran memorandum of understanding and will not allow an indefinite US maritime blockade. The official said efforts to secure a permanent ceasefire have stalled and Iran has decided to shift its posture "from defensive to full offensive" — if diplomacy fails Tehran is prepared to escalate tensions in the Strait of Hormuz and the wider Middle East. Iran said its timeline will be conveyed to the US via mediators.
-
----
-
-### 2026-08-18 00:39:07  #焦點 #國際
-
-【伊朗官員稱已為美設定最後期限】據路透社報道，一名伊朗高階官員8月17日在接受採訪時說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。該官員稱，由於“與美國達成永久停戰協議的努力陷入僵局”，伊朗已決定將其政策“從防禦性轉向全面進攻性”——如果外交努力失敗，伊朗已準備好將升級霍爾木茲海峽及中東地區的緊張局勢。伊朗的時間表將透過調解國傳遞給美國。” （CCTV國際時訊）
-
----
-
-### 2026-08-18 00:38:51  #MKT News
-
-Canadian Prime Minister Carney said Canada will ensure financing support for the "Seagull Island power project".
-
----
-
-### 2026-08-18 00:37:26  #其他
-
-加拿大總理卡尼表示，渥太華將為鷗島電力專案落實資金保障。
-
----
-
-### 2026-08-18 00:36:38  #國際
-
-海事追蹤資料證實，一艘油輪因違反霍爾木茲海峽的有關規定而在伊朗的格什姆島附近被攔截。
-
----
-
-### 2026-08-18 00:35:46  #MKT News
-
-Ukrainian President Zelenskiy said he is working with relevant task forces to push for a new prisoner exchange and hopes to see results soon.
-
----
-
-### 2026-08-18 00:35:17  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Ease Further — European stocks closed marginally lower on Monday as the sustained increase in energy prices added to macroeconomic headwinds for the European economy. The Euro STOXX 50 eased 0.1% to 6,530 and the STOXX Europe 600 dropped 0.2% to 656. European natural gas prices extended their surge toward multi-year highs as the prolonged blockade of LNG tankers from the Middle East magnified shortages in renewable power generation in the central part of the continent, as low river-tides forced multiple nuclear power plants to shut down. Yields in major economies rose to multi-decade highs, pressuring banks consumer-sensitive luxury companies. Santander, Deutsche Bank, LVMH, and Adidas lost between 1% and 3.4%. On the other hand, ASML rose 2.6%, tracking US AI companies following strong results from Anthropic. Also, Argenx surged 1% after reporting a successful trial for its drug Vyvgart.
-
----
-
-### 2026-08-18 00:33:59  #國際
-
-烏克蘭總統澤連斯基：我方正協同團隊推動新一輪戰俘交換，期待很快取得進展。
-
----
-
-### 2026-08-18 00:33:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-i24News cited a peace committee official saying Israel and the committee agreed Israeli forces will remain in Gaza until Hamas is disarmed and will retain the right to strike any rearmament attempts.
 
 ---
