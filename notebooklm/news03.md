@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:31:06_
-_本檔包含 3148 則快訊，約 632646 字_
+_更新時間：2026-08-24 05:47:24_
+_本檔包含 3146 則快訊，約 632558 字_
+
+---
+
+### 2026-08-20 12:11:30  #公司 #國際
+
+【長安汽車：價格實惠是中國汽車品牌在海外唯一被廣泛認知的標籤】8月20日，長安汽車副總裁狄智睿在2026新能源汽車全球合作發展論壇上表示，中國汽車品牌出海面臨三重挑戰：第一重挑戰是品牌溢價短板，價格實惠是中國品牌在海外唯一被廣泛認知的標籤；第二重挑戰為量利失衡困局，企業經營生存力完全取決於單車盈虧平衡而非出貨量；第三重挑戰是本地化根基薄弱，中國企業在海外的生產比例遠低於日本和歐洲競爭對手。
+
+---
+
+### 2026-08-20 12:11:15  #其他
+
+【中國信通院聯合淘寶閃購釋出首份即時零售智慧體可信規範】近日，中國人工智慧產業發展聯盟第十八次全體會議上，中國資訊通訊研究院聯合淘寶閃購正式釋出《即時零售智慧體可信基本要求》。這是即時零售領域首份針對AI Agent的系統性可信規範，標誌著即時零售智慧體應用邁入“有規可依”的新階段。據悉，該規範由中國人工智慧產業發展聯盟安全治理委員會發起，中國信通院與淘寶閃購牽頭起草，螞蟻、百度、階躍星辰、MiniMax、同盾等企業共同參編。
 
 ---
 
@@ -18972,29 +18984,5 @@ Japan 5-year bond yield fell 2.5bps to 2.125%.
 ### 2026-08-19 11:49:15  #MKT News
 
 【Henan Jan–Jul industrial value added of firms above designated size +7.5% YoY】Henan's industrial value added of firms above designated size rose 7.5% YoY in Jan–Jul. By sector, mining +3.9% YoY, manufacturing +9.3%, and electricity/heat/gas/water production and supply -1.6%. By product, output of lithium‑ion batteries +101.3%, new energy vehicles +32.9%, service robots +13.6%, and electronic components +11.8% YoY. High‑tech manufacturing value added +26.1% and industrial strategic emerging industries +12.6%; they contributed 38.3% and 40.7% of provincial above‑designated‑size industrial growth respectively. Leading industries’ value added +11.5%; electronics information +28.0% and automobiles & parts +11.2%. July industrial value added rose 6.8% YoY.
-
----
-
-### 2026-08-19 11:47:54  #其他
-
-【河南：1—7月規模以上工業增加值同比增長7.5%】河南省統計局、國家統計局河南調查總隊釋出2026年1—7月份河南省經濟執行情況，1—7月，全省規模以上工業增加值同比增長7.5%。分三大門類看，採礦業增加值增長3.9%，製造業增長9.3%，電力、熱力、燃氣及水生產和供應業同比下降1.6%。分產品看，鋰離子電池、新能源汽車、服務機器人、電子元件等產品產量分別增長101.3%、32.9%、13.6%、11.8%。高技術製造業、工業戰略性新興產業增加值分別增長26.1%、12.6%，對全省規上工業增長貢獻率分別為38.3%、40.7%。主導產業增加值增長11.5%，其中電子資訊產業、汽車及零部件產業增加值分別增長28.0%、11.2%。7月份，規模以上工業增加值增長6.8%。
-
----
-
-### 2026-08-19 11:47:33  #MKT News #Market Regions #Emerging Markets #DXY #Impact bullish
-
-The Philippine peso weakened 0.3% to 61.952 per US dollar, hitting a record low.
-
----
-
-### 2026-08-19 11:46:41  #市場 #國際
-
-菲律賓比索兌美元匯率一度下跌0.3%，觸及61.952的歷史新低。
-
----
-
-### 2026-08-19 11:45:42  #其他
-
-澳大利亞競爭與消費者委員會（ACCC）證實，今日已對WiseTech的經營場所執行了搜查令。
 
 ---

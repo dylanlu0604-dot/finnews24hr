@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:31:06_
-_本檔包含 3130 則快訊，約 632716 字_
+_更新時間：2026-08-24 05:47:24_
+_本檔包含 3133 則快訊，約 633079 字_
+
+---
+
+### 2026-08-19 11:47:54  #其他
+
+【河南：1—7月規模以上工業增加值同比增長7.5%】河南省統計局、國家統計局河南調查總隊釋出2026年1—7月份河南省經濟執行情況，1—7月，全省規模以上工業增加值同比增長7.5%。分三大門類看，採礦業增加值增長3.9%，製造業增長9.3%，電力、熱力、燃氣及水生產和供應業同比下降1.6%。分產品看，鋰離子電池、新能源汽車、服務機器人、電子元件等產品產量分別增長101.3%、32.9%、13.6%、11.8%。高技術製造業、工業戰略性新興產業增加值分別增長26.1%、12.6%，對全省規上工業增長貢獻率分別為38.3%、40.7%。主導產業增加值增長11.5%，其中電子資訊產業、汽車及零部件產業增加值分別增長28.0%、11.2%。7月份，規模以上工業增加值增長6.8%。
+
+---
+
+### 2026-08-19 11:47:33  #MKT News #Market Regions #Emerging Markets #DXY #Impact bullish
+
+The Philippine peso weakened 0.3% to 61.952 per US dollar, hitting a record low.
+
+---
+
+### 2026-08-19 11:46:41  #市場 #國際
+
+菲律賓比索兌美元匯率一度下跌0.3%，觸及61.952的歷史新低。
+
+---
+
+### 2026-08-19 11:45:42  #其他
+
+澳大利亞競爭與消費者委員會（ACCC）證實，今日已對WiseTech的經營場所執行了搜查令。
 
 ---
 
@@ -18889,11 +18913,5 @@ Pro Farmer, part of Farm Futures magazine, estimates South Dakota soybeans will 
 ### 2026-08-18 09:01:49  #MKT News #Commodities #Energy
 
 【Tianwan unit 7 completes fuel loading, enters fueled commissioning】Aug. 18 — Tianwan nuclear plant unit 7 in Lianyungang, Jiangsu completed initial fuel loading and has entered fueled commissioning, advancing toward reactor criticality, grid connection and commercial operation. Units 7 and 8 under construction are 1.265 GW each with a 60‑year design life; the project targets commercial operation in 2026 and 2027 respectively. Tianwan plans eight units in total; units 1–6 are already operational and have supplied over 500 billion kWh. With all eight online, total capacity will exceed 9 GW, annual output about 70 billion kWh and CO2 emissions would be cut by roughly 57.4 million tonnes per year.
-
----
-
-### 2026-08-18 09:01:12  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-On Tuesday Aug 18 early trade, Shanghai Gold Exchange's Gold T+D rose 0.94% to 960.5 yuan/gram; Silver T+D rose 1.18% to 16,190 yuan/kg.
 
 ---

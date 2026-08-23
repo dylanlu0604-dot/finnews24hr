@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-24 05:31:06_
-_本檔包含 2964 則快訊，約 632712 字_
+_更新時間：2026-08-24 05:47:24_
+_本檔包含 2960 則快訊，約 631990 字_
+
+---
+
+### 2026-08-18 09:01:12  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+On Tuesday Aug 18 early trade, Shanghai Gold Exchange's Gold T+D rose 0.94% to 960.5 yuan/gram; Silver T+D rose 1.18% to 16,190 yuan/kg.
 
 ---
 
@@ -17859,35 +17865,5 @@ Nasdaq futures opened 0.1% higher on Monday.
 ### 2026-08-17 05:48:26  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
 
 【Trump says he will sharply scale back US-South Korea joint military exercises】US President Trump said on social media on Aug. 16 ET that, citing his good relationship with North Korean leader Kim Jong Un and that the drills are costly and largely paid for by the US, he has instructed the US defense secretary to sharply scale back upcoming US-South Korea joint military exercises. He added he recently asked South Korea's president to join US efforts to push Iran to denuclearize, and that Seoul declined.
-
----
-
-### 2026-08-17 05:46:22  #市場
-
-【多家銀行競推“算力貸” “算力證明信用”能走多遠】近日，廣東省首個詞元經濟專項金融產品“Token貸”的推出引發熱議，該產品以企業算力Token產出消耗、算力服務合約價值、算力業務產生的應收賬款、Token佣金結算量等作為核心授信依據，為企業提供授信額度。
-
----
-
-### 2026-08-17 05:44:05  #其他
-
-馬拉維統計局資料顯示，該國7月消費者通脹率按年計算為20.8%。
-
----
-
-### 2026-08-17 05:36:00  #國際
-
-【特朗普：歡迎沙土巴三國簽署共同防務協議】美國總統特朗普在其社交媒體平臺“真實社交”上發文，對沙烏地阿拉伯、土耳其和巴基斯坦近期簽署共同防務協議表示歡迎。特朗普表示，這一協議表明中東地區正在加強團結，各國將能夠以“更加切實有效的方式”保衛自身。他同時向沙特、土耳其和巴基斯坦三國領導人表示祝賀，並稱這一協議是“大膽而重要的第一步”。（央視新聞）
-
----
-
-### 2026-08-17 05:34:33  #焦點 #國際
-
-【特朗普：“不滿”美國早前同意參加與韓國的聯合軍演】美國總統特朗普16日在社交媒體發文稱，鑑於他與朝鮮領導人金正恩的良好關係，他對於美國很早之前同意參加與韓國的聯合軍演“感到不滿”。（新華社）
-
----
-
-### 2026-08-17 05:33:08  #MKT News
-
-【Trump welcomes Saudi-Turkey-Pakistan mutual defense pact】On Aug 16, U.S. President Trump posted on Truth Social welcoming a newly signed mutual defense agreement among Saudi Arabia, Turkey and Pakistan. He said the pact signals greater Middle East unity and will enable the countries to defend themselves "in a more tangible and effective way", congratulated their leaders, and called the deal "a bold and important first step."
 
 ---
