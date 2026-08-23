@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-24 06:34:46_
-_本檔包含 3145 則快訊，約 631469 字_
+_更新時間：2026-08-24 06:55:00_
+_本檔包含 3144 則快訊，約 631585 字_
+
+---
+
+### 2026-08-20 12:22:30  #宏觀 #市場 #國際
+
+【Yardeni：美國財長釋放“不惜一切”遏制美債收益率上行的訊號】Yardeni Research在報告中指出，美國財政部長貝森特是在暗示他將不惜一切代價遏制美國國債收益率上行。Ed Yardeni牽頭的策略師團隊在報告中指出，貝森特向“債券衛士”傳遞的資訊是：“債券市場並不是只有你們這些玩家”。美國財政部擁有多種工具，可以在一定程度上影響美債收益率曲線的形態和水平。“貝森特打算動用這些工具，對抗債券衛士任何試圖大幅推高收益率的行動”。
+
+---
+
+### 2026-08-20 12:21:48  #公司
+
+君樂寶乳業集團股份有限公司向港交所提交上市申請。
+
+---
+
+### 2026-08-20 12:21:21  #央行 #國際
+
+【美國民主黨議員敦促美聯儲主席沃什披露與特朗普的通話情況】一些民主黨議員敦促美聯儲主席凱文·沃什披露他自5月執掌美聯儲以來，與總統唐納德·特朗普的所有談話。據知情人士透露，他們以書信形式提出這一要求，是因為有報道稱，沃什自上任以來不時與特朗普通電話。特朗普已一再呼籲美聯儲下調利率，而且白宮本月再次嘗試罷免美聯儲理事麗莎·庫克。四位民主黨參議員表示，有效的貨幣政策依賴透明度和問責機制。“美聯儲有必要對這些交流保持透明，以展示自己獨立於白宮，而這正是你曾表示打算堅持的一項原則，”這封有參議員Chris Van Hollen、Jack Reed、Angela Alsobrooks和Elizabeth Warren簽字的信寫道。
+
+---
+
+### 2026-08-20 12:20:58  #MKT News #Commodities #Energy
+
+Governor of Tehran province said nationwide solar power plant capacity construction has accelerated significantly in recent years, and further advancing this build-out is a government priority to help alleviate energy imbalances.
+
+---
+
+### 2026-08-20 12:20:50  #MKT News #Commodities #Energy
+
+Iran's Tehran governor said the province views renewable energy development as a key measure to address energy imbalances, and urged faster solar project deployment and removal of various obstacles hindering projects.
+
+---
+
+### 2026-08-20 12:20:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Corn Extends Rally to 3-Month High — Corn futures climbed above $4.70 per bushel, extending their rally to the highest level since May 18, as disappointing US crop-tour results deepened concerns over tightening global corn supplies. According to the Pro Farmer Crop Tour, corn yields in Western Iowa and Illinois, the nation’s two largest corn-producing states, fell below last year’s levels. The findings followed weaker-than-expected yield estimates from four other key Midwestern states surveyed earlier in the week, with results also trailing the tour’s three-year average. Supply concerns have been amplified by adverse weather, as severe storms and extreme summer heat affected crops across the US Corn Belt. Beyond the US, Europe has endured successive heat waves, with France projected to record its smallest corn harvest since 1980. Meanwhile, ongoing attacks in the Black Sea region have disrupted grain shipments from Ukraine, further fueling concerns over global supplies.
 
 ---
 
@@ -18936,47 +18972,5 @@ Financial Times, citing people familiar with the matter, reports Iran may consid
 ### 2026-08-19 12:00:38  #Trading Economics #Markets #Commodity #Importance 1
 
 Palm Oil Hovers at 20-Week High — Malaysian palm oil futures extended gains, trading near MYR?4,900 per tonne and reaching their highest level since early April. Support came from firmer edible oils in Dalian and Chicago markets, alongside stronger crude oil prices amid continued uncertainty over shipping through the Strait of Hormuz and potential disruptions to global trade flows. Meanwhile, the Malaysian Palm Oil Council projected prices to stay firm above MYR?4,600 in September, citing tightening supply and trade disruptions. However, upside momentum was capped by elevated inventories, with July stocks climbing to a five-month high. In India, record soyoil imports expected in August could dent palm oil demand, as refiners may favor cheaper soyoil ahead of festive-season consumption. Export signals were mixed: Intertek reported shipments down 7.9% during August?1–15 from the same period in July, while AmSpec estimated a 3.2% rise, leaving traders cautious on near-term direction.
-
----
-
-### 2026-08-19 12:00:23  #國際 #兩會
-
-【趙樂際會見厄瓜多總統諾沃亞 】全國人大常委會委員長趙樂際8月19日上午在北京會見厄瓜多總統諾沃亞。趙樂際表示，昨天，習近平主席同總統先生舉行會談，共同擘畫雙邊關係發展新藍圖。今年是中厄建立全面戰略伙伴關係10週年。中方願同厄方一道，落實好兩國元首達成的重要共識，賡續傳統友誼，深化務實合作，不斷提升雙邊關係水平，給兩國人民帶來更多福祉。中國全國人大願同厄瓜多國會加強多層級、多領域友好交往，深化立法、監督和治國理政經驗交流，為兩國務實合作提供法律保障。諾沃亞表示，厄瓜多視中國為好朋友、好夥伴，支援中方維護主權和領土完整，願同中方深化貿易、投資等領域合作，加強立法機構互學互鑑。肖捷參加會見。
-
----
-
-### 2026-08-19 11:58:56  #公司
-
-傑富瑞將 百度公司   目標價從174美元下調至167美元。
-
----
-
-### 2026-08-19 11:58:12  #公司
-
-【美銀：兆易創新上半年業績強勁，A股目標價升至663元】美銀證券發表報告指，兆易創新上半年業績強勁，收入116億元，同比升179%；經調整純利49億元，同比升797%，均符合公司盈利預告。第二季收入74億元，同比升229%；經調整純利35億元，同比升983%；毛利率同比升29.6個百分點(按季升9.5個百分點)至66.6%，受惠DRAM及SLC NAND價格上調。管理層預期儲存器產品及MCU價格將溫和上調，各業務毛利率在上游成本上升下料逐步趨穩。美銀上調2026至2028年盈利預測15%至31%，A股目標價由627元上調至663元，基於25倍12個月預測市盈率(此前為30倍，因行業近期估值下調)，評級“買入”。
-
----
-
-### 2026-08-19 11:56:48  #MKT News
-
-Refinitiv reported that Asia-focused investor PAG plans a new buyout fund; the firm's fifth Asia buyout fund is expected to target about $4 billion.
-
----
-
-### 2026-08-19 11:55:14  #MKT News #Commodities #Industrial Metals
-
-Per Refinitiv, US Tungsten & Antimony Co. was selected by the DOE to negotiate a potential ASCEND-SB contract worth up to 18 mln dlr.
-
----
-
-### 2026-08-19 11:54:44  #MKT News #Important #Market Regions #Greater China
-
-【NHSA issues comprehensive medical security "15th Five-Year" plan】China’s National Healthcare Security Administration released the comprehensive medical security 15th Five-Year plan. Targets include keeping basic medical insurance participation at about 95% annually during the plan period; extending long-term care insurance coverage to all pooled jurisdictions; maintaining inpatient reimbursement within the basic medical insurance catalogue at roughly 80% for employee schemes and 70% for urban and rural resident schemes; increasing real-time settlement coverage of basic medical insurance fund expenditures from about 70% in 2025 to above 80%; and ensuring maternity allowances are paid directly to individuals across all pooled jurisdictions.
-
----
-
-### 2026-08-19 11:54:22  #焦點
-
-【《全民醫療保障“十五五”規劃》釋出】國家醫保局今天（19日）釋出《全面醫療保障“十五五”規劃》。“十五五”期間基本醫療保險參保率每年保持在95%左右；長期護理保險制度覆蓋所有統籌地區；基本醫療保險目錄內住院費用基金支付比例職工基本醫療保險穩定在80%左右，城鄉居民基本醫療保險穩定在70%左右；即時結算基本醫療保險基金支出覆蓋率從2025年的70%左右提高到80%以上；所有統籌地區將實現生育津貼直接發放到個人。
 
 ---

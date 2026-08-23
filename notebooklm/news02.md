@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-24 06:34:46_
-_本檔包含 3310 則快訊，約 633023 字_
+_更新時間：2026-08-24 06:55:00_
+_本檔包含 3305 則快訊，約 631404 字_
+
+---
+
+### 2026-08-21 11:33:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【US-Iran talks stall; Strait of Hormuz transits drop to 7 from 14】With US-Iran peace talks stalled and regional security deteriorating, Kpler preliminary data show 7 vessels transited the Strait of Hormuz on Thursday versus 14 on Wednesday — 4 inbound, 3 outbound. No VLCCs or LNG carriers transited; one VLGC carrying propane and butane exited via an Iran-linked route.
 
 ---
 
@@ -19952,41 +19958,5 @@ Caitong Fuxin periodic-open mixed fund will be suspended from the start of after
 ### 2026-08-20 12:22:51  #Trading Economics #Economy #Malaysia #Balance of Trade #Importance 1
 
 Malaysia Trade Surplus Expands in June — Malaysia’s trade surplus amounted to MYR 22.5 billion in July 2026, widening from MYR 14.8 billion in the same month a year earlier and exceeding market expectations of MYR 17.5 billion, as exports rose more than imports. Exports jumped 38.0% year-on-year to MYR 193.6 billion, mainly driven by a 42.6% surge in manufactured goods, which accounted for 89.8% of total exports, particularly E&E products (51%). By destination, exports rose sharply to the US (79.8%), Singapore (16.7%), China (30.2%), Taiwan (96%), and the EU (37%). Imports increased 36.4% to MYR 171.1 billion, primarily due to a sharp increase in intermediate goods (40.8%) and capital goods (24%), while consumption goods (5.2%) also posted gains. China (60.1%) and Singapore (53.8%) remained Malaysia’s two major sources of imports. In January–July, the trade surplus widened sharply to MYR 170.5 billion, more than double the MYR 71.4 billion recorded last year, as export growth (29.2%) outpaced the rise in imports (19.8%).
-
----
-
-### 2026-08-20 12:22:30  #宏觀 #市場 #國際
-
-【Yardeni：美國財長釋放“不惜一切”遏制美債收益率上行的訊號】Yardeni Research在報告中指出，美國財政部長貝森特是在暗示他將不惜一切代價遏制美國國債收益率上行。Ed Yardeni牽頭的策略師團隊在報告中指出，貝森特向“債券衛士”傳遞的資訊是：“債券市場並不是只有你們這些玩家”。美國財政部擁有多種工具，可以在一定程度上影響美債收益率曲線的形態和水平。“貝森特打算動用這些工具，對抗債券衛士任何試圖大幅推高收益率的行動”。
-
----
-
-### 2026-08-20 12:21:48  #公司
-
-君樂寶乳業集團股份有限公司向港交所提交上市申請。
-
----
-
-### 2026-08-20 12:21:21  #央行 #國際
-
-【美國民主黨議員敦促美聯儲主席沃什披露與特朗普的通話情況】一些民主黨議員敦促美聯儲主席凱文·沃什披露他自5月執掌美聯儲以來，與總統唐納德·特朗普的所有談話。據知情人士透露，他們以書信形式提出這一要求，是因為有報道稱，沃什自上任以來不時與特朗普通電話。特朗普已一再呼籲美聯儲下調利率，而且白宮本月再次嘗試罷免美聯儲理事麗莎·庫克。四位民主黨參議員表示，有效的貨幣政策依賴透明度和問責機制。“美聯儲有必要對這些交流保持透明，以展示自己獨立於白宮，而這正是你曾表示打算堅持的一項原則，”這封有參議員Chris Van Hollen、Jack Reed、Angela Alsobrooks和Elizabeth Warren簽字的信寫道。
-
----
-
-### 2026-08-20 12:20:58  #MKT News #Commodities #Energy
-
-Governor of Tehran province said nationwide solar power plant capacity construction has accelerated significantly in recent years, and further advancing this build-out is a government priority to help alleviate energy imbalances.
-
----
-
-### 2026-08-20 12:20:50  #MKT News #Commodities #Energy
-
-Iran's Tehran governor said the province views renewable energy development as a key measure to address energy imbalances, and urged faster solar project deployment and removal of various obstacles hindering projects.
-
----
-
-### 2026-08-20 12:20:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Corn Extends Rally to 3-Month High — Corn futures climbed above $4.70 per bushel, extending their rally to the highest level since May 18, as disappointing US crop-tour results deepened concerns over tightening global corn supplies. According to the Pro Farmer Crop Tour, corn yields in Western Iowa and Illinois, the nation’s two largest corn-producing states, fell below last year’s levels. The findings followed weaker-than-expected yield estimates from four other key Midwestern states surveyed earlier in the week, with results also trailing the tour’s three-year average. Supply concerns have been amplified by adverse weather, as severe storms and extreme summer heat affected crops across the US Corn Belt. Beyond the US, Europe has endured successive heat waves, with France projected to record its smallest corn harvest since 1980. Meanwhile, ongoing attacks in the Black Sea region have disrupted grain shipments from Ukraine, further fueling concerns over global supplies.
 
 ---

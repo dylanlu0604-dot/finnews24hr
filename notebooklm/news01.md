@@ -1,7 +1,28 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-24 06:34:46_
-_本檔包含 3261 則快訊，約 632170 字_
+_更新時間：2026-08-24 06:55:00_
+_本檔包含 3263 則快訊，約 631946 字_
+
+---
+
+### 2026-08-24 06:49:43  #國際
+
+日本ANN民調：日本高市內閣支援率上升6.2個百分點，至55.4%。
+
+---
+
+### 2026-08-24 06:45:08  #國際
+
+美國財長貝森特：伊朗的經濟末日即將到來。
+
+---
+
+### 2026-08-24 06:44:47  #央行 #公司 #國際
+
+【週一重要財經資訊提醒（以下均為北京時間）】 
+① 待定 美國財長貝森特介紹加大對伊制裁具體行動；
+② 19:30 拼多多財報電話會；
+③ 20:30 美國7月芝加哥聯儲全國活動指數。
 
 ---
 
@@ -19676,11 +19697,5 @@ Traders say the Reserve Bank of India may be selling dollars to defend the rupee
 ### 2026-08-21 11:33:44  #Trading Economics #Markets #South Korea #Currency #Importance 1
 
 South Korean Won Extends Gains to 11-Month High — The South Korean won traded toward 1,382 per dollar, extending gains to its strongest level since mid-September 2025, as a weaker US dollar and strong domestic fundamentals supported the currency. The dollar index remained near multi-month lows as concerns over US fiscal deficits and the Treasury's bond-buyback efforts weighed on the greenback. At the same time, Bank of Korea Senior Deputy Governor Kwon Min-soo said economic fundamentals suggest the won could strengthen further, noting stronger-than-expected growth and inflation above target. Exports jumped 56% year-on-year in the first 20 days of August, while semiconductor shipments nearly tripled to $26 billion, generating a $14 billion trade surplus and supporting exporter dollar-selling. The strong data could bolster expectations for another BOK rate hike on August 27, after the central bank raised its policy rate to 2.75% last month. However, renewed gains in US Treasury yields and geopolitical risks remained potential headwinds.
-
----
-
-### 2026-08-21 11:33:10  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【US-Iran talks stall; Strait of Hormuz transits drop to 7 from 14】With US-Iran peace talks stalled and regional security deteriorating, Kpler preliminary data show 7 vessels transited the Strait of Hormuz on Thursday versus 14 on Wednesday — 4 inbound, 3 outbound. No VLCCs or LNG carriers transited; one VLGC carrying propane and butane exited via an Iran-linked route.
 
 ---
