@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:25:48_
-_本檔包含 3142 則快訊，約 635829 字_
+_更新時間：2026-08-23 22:57:04_
+_本檔包含 3136 則快訊，約 635654 字_
+
+---
+
+### 2026-08-19 11:10:53  #MKT News #005930.KS
+
+【Samsung Electronics union stages rally, seeks 1,000 treasury shares for 49,345 DX staff】Donghaeng Union, composed mainly of Device eXperience (DX) employees, will hold a mass rally outside Samsung Electronics' Seocho, Seoul headquarters less than three months after a wage agreement. The union demands the company grant 1,000 treasury shares to each DX employee, arguing May’s wage deal widened performance-pay gaps between DS (semiconductors) and DX (smartphones, TVs, appliances) and left DX staff relatively disadvantaged. The union says 49,345 DX employees who were on the payroll last month would be eligible, totaling 49.345 million shares; at an assumed ~250,000 won per share, the stock value would exceed 12 trillion won.
+
+---
+
+### 2026-08-19 11:09:18  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時縮量193億元。
+
+---
+
+### 2026-08-19 11:09:17  #Trading Economics #Markets #Indonesia #Currency #Importance 1
+
+Rupiah Strengthens Ahead of Bank Indonesia Rate Decision — The Indonesian rupiah firmed to below IDR 17,850 per U.S. dollar on Wednesday, rebounding after briefly touching 17,950 in the prior session as traders positioned ahead of Bank Indonesia’s policy decision later today. Markets anticipate policy continuity, with the board expected to leave rates unchanged at its first meeting under acting Governor Destry Damayanti. Focus is on how she navigates the balance between supporting currency stability and advancing President Prabowo’s growth agenda. Her nomination, after years as senior deputy to Perry Warjiyo, alongside a conservative 2027 budget proposal, has eased policy uncertainty and supported a recovery in Indonesian assets. However, strength was capped by caution ahead of Q2 current account data later this week, after Q1’s gap hit its largest since 2019 on weaker trade. Globally, the dollar index steadied after sliding to two-month lows, with investors awaiting minutes from the Fed’s July meeting for signals on U.S. monetary policy.
 
 ---
 
@@ -18913,59 +18931,5 @@ Market sources: South Korea denied reports it discussed making semiconductors it
 ### 2026-08-18 08:23:22  #Trading Economics #Markets #Japan #stocks #Importance 1
 
 Fast Retailing Stock Price Hits 12-week Low — Fast Retailing shares decreased to 75420.00 JPY, the lowest since May 2026. Over the past 4 weeks, Fast Retailing lost 6.54%, and in the last 12 months, it increased 53.43%.
-
----
-
-### 2026-08-18 08:21:08  #MKT News
-
-【M&G boosts Korean government bond holdings, says market has priced in too much Bank of Korea tightening】M&G Investments has increased holdings of Korean government bonds, saying markets have priced in excessive Bank of Korea tightening. Low Guan Yi, head of Asian fixed income at M&G, said easing inflation and a surge in AI-driven revenue for Korean chipmakers and hardware suppliers should enable the government to cut borrowing and reduce future bond supply. We believe the Korean yield curve is pricing in too much tightening, she said, adding M&G has added Korea bonds over the past two months. The view mirrors a growing cohort of Korea observers who expect geopolitical factors and sustained AI momentum to help ease near-term bond-market pressure, even as foreign investors net sold about $1.2bn in July and the 10-year yield has risen roughly 22bp since end-June.
-
----
-
-### 2026-08-18 08:21:02  #其他
-
-哥倫比亞總統德拉埃斯普列亞：重申哥倫比亞將宣佈經濟緊急狀態。
-
----
-
-### 2026-08-18 08:20:48  #其他
-
-哥倫比亞總統德拉埃斯普列亞：哥倫比亞的財政狀況“糟糕”。
-
----
-
-### 2026-08-18 08:20:35  #其他
-
-哥倫比亞總統德拉埃斯普列亞：敦促銀行降低地震災區的利率。
-
----
-
-### 2026-08-18 08:19:39  #公司
-
-【遇見小面連續4年降價 上半年客單下降11.5%】8月17日，廣州遇見小面餐飲股份有限公司釋出2026年上半年中期業績公告。公告顯示，2026年上半年公司同店訂單平均消費額（客單價）由上年同期的人民幣31.3元降至人民幣27.7元，同比下降11.5%。這是遇見小面自2022年以來連續第四年主動下調菜品價格，持續踐行“為顧客提供更實惠用餐體驗”的承諾。
-
----
-
-### 2026-08-18 08:17:12  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【China expands fund advisory licenses as pilot moves toward regularization】With the end‑of‑August filing deadline approaching, a new round of approvals for fund advisory licenses has entered its final sprint. Since the pilot began in 2019 the number of licensed fund advisers has risen from 5 to 60; industry participants say the expansion, coinciding with the window to convert the pilot into a routine regime, marks a key transition toward normalizing fund advisory services.
-
----
-
-### 2026-08-18 08:17:03  #公司
-
-【胡慶餘堂藥業年產22億粒膠囊劑生產車間建設專案開工】據上海醫藥訊息，8月15日上午，上海醫藥旗下杭州胡慶餘堂藥業有限公司年產22億粒膠囊劑生產車間建設專案開工。據介紹，本次年產22億粒膠囊劑智慧車間專案是突破產能瓶頸、落地公司大品種戰略的關鍵舉措。
-
----
-
-### 2026-08-18 08:16:20  #其他
-
-【基金投顧牌照持續擴容 行業發展迎新機遇】隨著8月末申報節點臨近，基金投顧牌照新一輪擴容進入衝刺階段。自2019年基金投顧試點啟動以來，試點機構已從首批5家擴容至60家。本次擴容恰逢試點轉常規的關鍵視窗期，業內人士判斷，這是基金投顧從試點探索邁向常規化發展的重要過渡階段。（經濟參考報）
-
----
-
-### 2026-08-18 08:16:09  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加7.13噸】截至2026年08月17日，全球最大的黃金ETF SPDR Gold Trust持倉量為1030.66噸，較前一個交易日增加7.13噸。
 
 ---

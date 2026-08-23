@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:25:48_
-_本檔包含 3323 則快訊，約 636048 字_
+_更新時間：2026-08-23 22:57:04_
+_本檔包含 3316 則快訊，約 635597 字_
+
+---
+
+### 2026-08-21 11:05:06  #MKT News #Nasdaq100 #Impact mixed #S&P500
+
+【Goldman: AI stocks volatile but positions remain far from extremes】Goldman One Delta head Rich Privorotsky said AI and momentum trades swung sharply over the past 48 hours; Goldman’s GSPUMOMO momentum portfolio has fallen nearly 7%. Goldman Prime data show the move in positions has been much milder: momentum exposure is close to neutral and recent increases are chiefly in net exposure rather than gross leverage. That is material after a sizeable July de‑risking—investors still hold meaningful AI and semiconductors exposure but remain well below prior position peaks. Semiconductor internal leverage has already fallen, though residual system leverage could trigger passive de‑risking and forced selling if prices drop quickly. Lower market liquidity in August may further amplify AI swings; intraday price action looks “fundamental” but may overstate underlying fundamental change. Watch total leverage, Prime positions and semiconductor fund flows to judge whether this volatility will broaden into wider de‑risking.
 
 ---
 
@@ -20024,53 +20030,5 @@ Romanian Defence Ministry says a drone crashed into Romanian territory during Ru
 ### 2026-08-20 11:31:15  #MKT News #CSI300 #Impact bullish #CSI500 #CSI1000
 
 【China index futures morning close】CSI 300 futures (IF) main contract +0.30%; SSE 50 futures (IH) main contract +0.24%; CSI 500 futures (IC) main contract +0.95%; CSI 1000 futures (IM) main contract +1.28%.
-
----
-
-### 2026-08-20 11:31:02  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bullish
-
-By the morning close China's main futures were mixed: Shanghai silver up nearly 5%, platinum up over 4%, Shanghai gold and palladium up just over 2%; rapeseed oil up nearly 2%, Shanghai tin, palm oil and 20# rubber up more than 1%. On the downside, low-sulfur fuel oil (LU) and iron ore fell over 2%; p-xylene, synthetic rubber, PTA and plastics were down roughly 2% on a monthly-average basis.
-
----
-
-### 2026-08-20 11:30:59  #公司 #市場 #A股
-
-【午評：創業板指衝高回落漲1.04%，創新藥、貴金屬板塊大漲】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.28%，深證成指漲0.97%，創業板指漲1.03%，北證50漲0.79%，科創50指數跌0.01%。全市場成交額13809億元，較上日縮量2503億元，全市場超4300只個股上漲。板塊題材上，生物製品、生物疫苗、貴金屬、創新藥、CRO概念漲幅居前；轉基因、種植業與林業、糧食概念、磷化工、氟化工概念板塊跌幅居前。盤面上，創新藥板塊高開高走掀漲停潮，三元基因、石藥創新、沃森生物、智飛生物、昂立康等近20股漲停，康泰生物、安科生物、華蘭股份、藥石科技、科興製藥等多股漲超10%。貴金屬板塊表現強勢，興業銀錫漲停，赤峰黃金、山東黃金、曉程科技、招金黃金漲幅居前。光纖概念板塊震盪走強，萬隆光電、通鼎互聯漲停，長盈通、太辰光、蘅東光漲幅居前。種植業與林業板塊回撥，華綠生物盤中跌超13%，萬向德農、農發種業、北大荒跌幅居前。
-
----
-
-### 2026-08-20 11:30:26  #公司
-
-【天工股份投資成立鈦業科技公司】企查查APP顯示，近日，江蘇天工鈦業科技有限公司成立，法定代表人為朱斌，註冊資本為1000萬元，經營範圍包含：有色金屬合金銷售；高效能有色金屬及合金材料銷售；有色金屬合金製造；金屬材料製造等。企查查股權穿透顯示，該公司由天工股份全資持股。
-
----
-
-### 2026-08-20 11:30:05  #公司
-
-【中性原子量子計算企業“原子矩陣”宣佈完成數億元A+輪融資】近日，杭州原子矩陣計算有限公司（MatriQ，下稱 “原子矩陣”）宣佈完成數億元A+輪融資。本輪融資由雲鋒基金、三七互娛、普華資本、財通資本、上海半導體產投、唐興資本、博睿資本、合創資本、海邦投資等共同參與，老股東民銀國際持續加註。自2025年下半年啟動首輪融資至今，原子矩陣在一年內密集完成四輪，累計融資近10億元。
-
----
-
-### 2026-08-20 11:30:04  #市場
-
-【國債期貨早盤收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.08%， 5年期主力合約跌0.05%， 2年期主力合約跌0.02%。
-
----
-
-### 2026-08-20 11:30:03  #市場
-
-【商品期貨早盤收盤】白銀連續漲4.93%，鉑連續漲4.52%，線材連續漲2.89%，黃金連續漲2.47%，鈀連續漲2.44%。
-
----
-
-### 2026-08-20 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續漲1.28%， 滬深300指數期貨連續漲0.30%， 中證500指數期貨連續漲0.95%， 上證50指數期貨連續漲0.24%。
-
----
-
-### 2026-08-20 11:29:07  #其他
-
-【法國官方：7月熱浪期間全因超額死亡1243例】法國公共衛生署19日釋出公報說，初步估算顯示，法國今年7月3日至22日熱浪期間，共出現1243例全因超額死亡。據此前估算，法國6月17日至7月2日熱浪期間的全因超額死亡數為5764例。(新華社)
 
 ---

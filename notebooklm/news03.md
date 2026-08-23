@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:25:48_
-_本檔包含 3169 則快訊，約 637037 字_
+_更新時間：2026-08-23 22:57:04_
+_本檔包含 3174 則快訊，約 636699 字_
+
+---
+
+### 2026-08-20 11:31:02  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bullish
+
+By the morning close China's main futures were mixed: Shanghai silver up nearly 5%, platinum up over 4%, Shanghai gold and palladium up just over 2%; rapeseed oil up nearly 2%, Shanghai tin, palm oil and 20# rubber up more than 1%. On the downside, low-sulfur fuel oil (LU) and iron ore fell over 2%; p-xylene, synthetic rubber, PTA and plastics were down roughly 2% on a monthly-average basis.
+
+---
+
+### 2026-08-20 11:30:59  #公司 #市場 #A股
+
+【午評：創業板指衝高回落漲1.04%，創新藥、貴金屬板塊大漲】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.28%，深證成指漲0.97%，創業板指漲1.03%，北證50漲0.79%，科創50指數跌0.01%。全市場成交額13809億元，較上日縮量2503億元，全市場超4300只個股上漲。板塊題材上，生物製品、生物疫苗、貴金屬、創新藥、CRO概念漲幅居前；轉基因、種植業與林業、糧食概念、磷化工、氟化工概念板塊跌幅居前。盤面上，創新藥板塊高開高走掀漲停潮，三元基因、石藥創新、沃森生物、智飛生物、昂立康等近20股漲停，康泰生物、安科生物、華蘭股份、藥石科技、科興製藥等多股漲超10%。貴金屬板塊表現強勢，興業銀錫漲停，赤峰黃金、山東黃金、曉程科技、招金黃金漲幅居前。光纖概念板塊震盪走強，萬隆光電、通鼎互聯漲停，長盈通、太辰光、蘅東光漲幅居前。種植業與林業板塊回撥，華綠生物盤中跌超13%，萬向德農、農發種業、北大荒跌幅居前。
+
+---
+
+### 2026-08-20 11:30:26  #公司
+
+【天工股份投資成立鈦業科技公司】企查查APP顯示，近日，江蘇天工鈦業科技有限公司成立，法定代表人為朱斌，註冊資本為1000萬元，經營範圍包含：有色金屬合金銷售；高效能有色金屬及合金材料銷售；有色金屬合金製造；金屬材料製造等。企查查股權穿透顯示，該公司由天工股份全資持股。
+
+---
+
+### 2026-08-20 11:30:05  #公司
+
+【中性原子量子計算企業“原子矩陣”宣佈完成數億元A+輪融資】近日，杭州原子矩陣計算有限公司（MatriQ，下稱 “原子矩陣”）宣佈完成數億元A+輪融資。本輪融資由雲鋒基金、三七互娛、普華資本、財通資本、上海半導體產投、唐興資本、博睿資本、合創資本、海邦投資等共同參與，老股東民銀國際持續加註。自2025年下半年啟動首輪融資至今，原子矩陣在一年內密集完成四輪，累計融資近10億元。
+
+---
+
+### 2026-08-20 11:30:04  #市場
+
+【國債期貨早盤收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.08%， 5年期主力合約跌0.05%， 2年期主力合約跌0.02%。
+
+---
+
+### 2026-08-20 11:30:03  #市場
+
+【商品期貨早盤收盤】白銀連續漲4.93%，鉑連續漲4.52%，線材連續漲2.89%，黃金連續漲2.47%，鈀連續漲2.44%。
+
+---
+
+### 2026-08-20 11:30:03  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續漲1.28%， 滬深300指數期貨連續漲0.30%， 中證500指數期貨連續漲0.95%， 上證50指數期貨連續漲0.24%。
+
+---
+
+### 2026-08-20 11:29:07  #其他
+
+【法國官方：7月熱浪期間全因超額死亡1243例】法國公共衛生署19日釋出公報說，初步估算顯示，法國今年7月3日至22日熱浪期間，共出現1243例全因超額死亡。據此前估算，法國6月17日至7月2日熱浪期間的全因超額死亡數為5764例。(新華社)
 
 ---
 
@@ -19098,23 +19146,5 @@ Canadian prime minister Carney said the US has agreed to postpone implementation
 ### 2026-08-19 11:13:48  #MKT News #Market Themes #AI Revolution #Chip Wars
 
 【South Korea think‑tank KDI raises 2026 growth forecast to 3.2%, above government and IMF estimates】South Korea Development Institute (KDI) raised its 2026 GDP growth forecast to 3.2% from 2.5% in May, citing strong global chip demand and AI-driven spillovers to the domestic economy. The projection exceeds the government’s 3.0% estimate and the IMF’s 2.6% forecast. KDI said expansion since H2 last year should continue as AI demand supports semiconductor exports, offsetting higher import costs from the Middle East war. KDI expects exports to rise 8.7% this year and 5.0% next year and is assessing how long elevated AI demand will persist.
-
----
-
-### 2026-08-19 11:10:53  #MKT News #005930.KS
-
-【Samsung Electronics union stages rally, seeks 1,000 treasury shares for 49,345 DX staff】Donghaeng Union, composed mainly of Device eXperience (DX) employees, will hold a mass rally outside Samsung Electronics' Seocho, Seoul headquarters less than three months after a wage agreement. The union demands the company grant 1,000 treasury shares to each DX employee, arguing May’s wage deal widened performance-pay gaps between DS (semiconductors) and DX (smartphones, TVs, appliances) and left DX staff relatively disadvantaged. The union says 49,345 DX employees who were on the payroll last month would be eligible, totaling 49.345 million shares; at an assumed ~250,000 won per share, the stock value would exceed 12 trillion won.
-
----
-
-### 2026-08-19 11:09:18  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量193億元。
-
----
-
-### 2026-08-19 11:09:17  #Trading Economics #Markets #Indonesia #Currency #Importance 1
-
-Rupiah Strengthens Ahead of Bank Indonesia Rate Decision — The Indonesian rupiah firmed to below IDR 17,850 per U.S. dollar on Wednesday, rebounding after briefly touching 17,950 in the prior session as traders positioned ahead of Bank Indonesia’s policy decision later today. Markets anticipate policy continuity, with the board expected to leave rates unchanged at its first meeting under acting Governor Destry Damayanti. Focus is on how she navigates the balance between supporting currency stability and advancing President Prabowo’s growth agenda. Her nomination, after years as senior deputy to Perry Warjiyo, alongside a conservative 2027 budget proposal, has eased policy uncertainty and supported a recovery in Indonesian assets. However, strength was capped by caution ahead of Q2 current account data later this week, after Q1’s gap hit its largest since 2019 on weaker trade. Globally, the dollar index steadied after sliding to two-month lows, with investors awaiting minutes from the Fed’s July meeting for signals on U.S. monetary policy.
 
 ---

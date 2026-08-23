@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:25:48_
-_本檔包含 3208 則快訊，約 636790 字_
+_更新時間：2026-08-23 22:57:04_
+_本檔包含 3219 則快訊，約 636577 字_
+
+---
+
+### 2026-08-23 22:48:30  #國際
+
+美國國家颶風中心：熱帶風暴伊塞爾在墨西哥遠海海域形成。
+
+---
+
+### 2026-08-23 22:46:45  #公司
+
+【英國縱貫鐵路公司稱因停電取消英全境大部分列車服務】據英國天空新聞頻道8月23日報道，英國縱貫鐵路公司稱，因其位於伯明翰的控制中心發生停電，導致23日上午開始該公司中斷運營，“幾乎所有”線路的列車均被取消或延誤，恢復時間另行通知。（新華社）
+
+---
+
+### 2026-08-23 22:40:55  #央行 #國際
+
+美聯儲卡什卡利：對通脹迴歸目標水平沒有信心。
+
+---
+
+### 2026-08-23 22:39:04  #央行 #國際
+
+美聯儲卡什卡利：收益率上行並未增加美聯儲的工作難度。
+
+---
+
+### 2026-08-23 22:38:35  #央行 #國際
+
+美聯儲卡什卡利：如何削減債務是國會的職責。
+
+---
+
+### 2026-08-23 22:38:08  #市場 #央行 #國際
+
+美聯儲卡什卡利：美國債務走勢正處於不可持續的軌道。
+
+---
+
+### 2026-08-23 22:37:40  #央行 #國際
+
+美聯儲卡什卡利：很難判斷債券收益率的主要驅動因素。
+
+---
+
+### 2026-08-23 22:36:07  #宏觀 #國際
+
+【王毅會見約旦副首相兼外交大臣薩法迪】中共中央政治局委員、外交部長王毅23日在北京會見陪同阿卜杜拉二世國王訪華的約旦副首相兼外交大臣薩法迪。王毅表示，習近平主席珍視同阿卜杜拉二世國王建立的友誼與互信。這是阿卜杜拉二世國王時隔11年再次訪華，相信此訪將取得圓滿成功。中方讚賞約方堅定奉行對華友好政策，恪守一箇中國原則。（新華社）
+
+---
+
+### 2026-08-23 22:34:38  #市場 #央行 #國際
+
+美聯儲卡什卡利：未見國債市場出現功能失調跡象。
+
+---
+
+### 2026-08-23 22:33:41  #國際
+
+美國國家颶風中心：拉拉颶風在開闊海域上空強度略有減弱。
+
+---
+
+### 2026-08-23 22:33:10  #其他
+
+【突尼西亞海岸警衛隊稱已找到8具沉船事故遇難者遺體】當地時間8月23日，突尼西亞海岸警衛隊宣佈已找到8具沉船事故的遇難者遺體，搜尋其他失蹤人員的工作仍在繼續。（央視新聞）
+
+---
+
+### 2026-08-23 22:31:08  #其他
+
+【廣西南寧市鬱江防洪四級應急響應提升為三級應急響應】8月23日，記者從廣西南寧市應急管理委員會瞭解到，8月23日20時，邕江南寧水文站水位已達71.41米，預計8月24日上午鬱江南寧城區河段將出現超警戒水位（73.0米）的洪水。按照《南寧市鬱江防洪應急預案》規定，經南寧市應急管理委員會領導批准，決定於8月23日20時將南寧市鬱江防洪四級應急響應提升為三級應急響應。請各縣（市、區）、開發區和相關成員單位按照預案的有關規定和職責分工，做好江河洪水防禦工作，確保人民群眾生命財產安全。（央視新聞）
 
 ---
 
@@ -19358,11 +19430,5 @@ China's Ministry of Finance said year-to-date it has allocated 187.5 bln yuan fo
 ### 2026-08-21 11:05:22  #MKT News #CSI300 #Impact bullish #SSE Composite #CNH #Impact mixed
 
 【China Ministry of Finance raises annual per-lender cap on interest‑subsidised SME loans to 75 mln yuan from 50 mln】China's Ministry of Finance issued a notice on further fiscal‑financial coordination to boost domestic demand. The annual cap on interest‑subsidised SME loans per borrower at a single lender is raised to 75 mln yuan from 50 mln yuan. The annual cap for service‑sector business loans per borrower at a single lender is raised to 20 mln yuan from 10 mln yuan. The annual cap on cumulative interest subsidies for personal consumer loans and credit‑card installment plans per borrower at a single lender is raised to 5,000 yuan from 3,000 yuan.
-
----
-
-### 2026-08-21 11:05:06  #MKT News #Nasdaq100 #Impact mixed #S&P500
-
-【Goldman: AI stocks volatile but positions remain far from extremes】Goldman One Delta head Rich Privorotsky said AI and momentum trades swung sharply over the past 48 hours; Goldman’s GSPUMOMO momentum portfolio has fallen nearly 7%. Goldman Prime data show the move in positions has been much milder: momentum exposure is close to neutral and recent increases are chiefly in net exposure rather than gross leverage. That is material after a sizeable July de‑risking—investors still hold meaningful AI and semiconductors exposure but remain well below prior position peaks. Semiconductor internal leverage has already fallen, though residual system leverage could trigger passive de‑risking and forced selling if prices drop quickly. Lower market liquidity in August may further amplify AI swings; intraday price action looks “fundamental” but may overstate underlying fundamental change. Watch total leverage, Prime positions and semiconductor fund flows to judge whether this volatility will broaden into wider de‑risking.
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-23 22:25:48_
-_本檔包含 3051 則快訊，約 636365 字_
+_更新時間：2026-08-23 22:57:04_
+_本檔包含 3051 則快訊，約 635880 字_
+
+---
+
+### 2026-08-18 08:21:08  #MKT News
+
+【M&G boosts Korean government bond holdings, says market has priced in too much Bank of Korea tightening】M&G Investments has increased holdings of Korean government bonds, saying markets have priced in excessive Bank of Korea tightening. Low Guan Yi, head of Asian fixed income at M&G, said easing inflation and a surge in AI-driven revenue for Korean chipmakers and hardware suppliers should enable the government to cut borrowing and reduce future bond supply. We believe the Korean yield curve is pricing in too much tightening, she said, adding M&G has added Korea bonds over the past two months. The view mirrors a growing cohort of Korea observers who expect geopolitical factors and sustained AI momentum to help ease near-term bond-market pressure, even as foreign investors net sold about $1.2bn in July and the 10-year yield has risen roughly 22bp since end-June.
+
+---
+
+### 2026-08-18 08:21:02  #其他
+
+哥倫比亞總統德拉埃斯普列亞：重申哥倫比亞將宣佈經濟緊急狀態。
+
+---
+
+### 2026-08-18 08:20:48  #其他
+
+哥倫比亞總統德拉埃斯普列亞：哥倫比亞的財政狀況“糟糕”。
+
+---
+
+### 2026-08-18 08:20:35  #其他
+
+哥倫比亞總統德拉埃斯普列亞：敦促銀行降低地震災區的利率。
+
+---
+
+### 2026-08-18 08:19:39  #公司
+
+【遇見小面連續4年降價 上半年客單下降11.5%】8月17日，廣州遇見小面餐飲股份有限公司釋出2026年上半年中期業績公告。公告顯示，2026年上半年公司同店訂單平均消費額（客單價）由上年同期的人民幣31.3元降至人民幣27.7元，同比下降11.5%。這是遇見小面自2022年以來連續第四年主動下調菜品價格，持續踐行“為顧客提供更實惠用餐體驗”的承諾。
+
+---
+
+### 2026-08-18 08:17:12  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【China expands fund advisory licenses as pilot moves toward regularization】With the end‑of‑August filing deadline approaching, a new round of approvals for fund advisory licenses has entered its final sprint. Since the pilot began in 2019 the number of licensed fund advisers has risen from 5 to 60; industry participants say the expansion, coinciding with the window to convert the pilot into a routine regime, marks a key transition toward normalizing fund advisory services.
+
+---
+
+### 2026-08-18 08:17:03  #公司
+
+【胡慶餘堂藥業年產22億粒膠囊劑生產車間建設專案開工】據上海醫藥訊息，8月15日上午，上海醫藥旗下杭州胡慶餘堂藥業有限公司年產22億粒膠囊劑生產車間建設專案開工。據介紹，本次年產22億粒膠囊劑智慧車間專案是突破產能瓶頸、落地公司大品種戰略的關鍵舉措。
+
+---
+
+### 2026-08-18 08:16:20  #其他
+
+【基金投顧牌照持續擴容 行業發展迎新機遇】隨著8月末申報節點臨近，基金投顧牌照新一輪擴容進入衝刺階段。自2019年基金投顧試點啟動以來，試點機構已從首批5家擴容至60家。本次擴容恰逢試點轉常規的關鍵視窗期，業內人士判斷，這是基金投顧從試點探索邁向常規化發展的重要過渡階段。（經濟參考報）
+
+---
+
+### 2026-08-18 08:16:09  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加7.13噸】截至2026年08月17日，全球最大的黃金ETF SPDR Gold Trust持倉量為1030.66噸，較前一個交易日增加7.13噸。
 
 ---
 
@@ -18357,59 +18411,5 @@ Saudi outlet Alhadath, citing Israeli sources, reports Israel does not want the 
 ### 2026-08-16 23:00:07  #資料 #市場
 
 【方舟投資： 在9月議息會議前值得關注的幾件事】方舟投資發文列出了五件在8月份需要緊盯那些能預示年底通脹走向的先行指標和最新資料 ：核心消費者物價指數（CPI）是否會在12月前降至2%以下？美元指數是否會攀升至102.6？隨著阿聯酋（UAE）主導的供應過剩增加，油價是否會繼續下跌？16至24歲年輕人的失業率是否會在今年降至7.5%以下？密歇根大學消費者信心指數是否會回升至65以上？
-
----
-
-### 2026-08-16 22:55:57  #MKT News
-
-【Israel, Honduras sign MoU to deepen defense cooperation】Israel's Defense Ministry announced it signed a memorandum of understanding with Honduras to deepen defense cooperation and establish a framework for long-term collaboration based on shared interests.
-
----
-
-### 2026-08-16 22:55:33  #國際
-
-美國國家颶風中心：夏威夷大島和毛伊縣部分地區持續遭受危及生命的洪水侵襲。
-
----
-
-### 2026-08-16 22:48:23  #市場 #觀點 #國際
-
-【華泰證券：向上趨勢基礎未變，關注三季度政策視窗和盈利修復廣度的訊號】華泰證券研報指出，上週海外擾動升溫，日本加息預期推動全球流動性預期收緊，港股尤其恒生科技指數承壓，A股震盪分化，主線持續性不強。短期看，雙創超跌反彈接近尾聲，市場進入震盪築底和再平衡階段。中期看，7月經濟資料外需偏強內需階段性偏弱、有效需求待催化，但中觀景氣改善面在擴散，盈利預期上修方向與景氣改善線索一致，向上趨勢基礎未變，關注三季度政策視窗和盈利修復廣度的訊號。配置上，AI鏈仍是首選，其中通訊裝置居首，其次國產算力鏈、AI電力；其他方向關注盈利預期不弱的CXO龍頭、有色和出海鏈龍頭；紅利底倉繼續持有，配置低波型的銀行和交運。
-
----
-
-### 2026-08-16 22:45:55  #其他
-
-市場消挪威GASSCO：KOLLSNES天然氣處理廠8月16日至17日非計劃停產，影響產量1200萬立方米/日。
-
----
-
-### 2026-08-16 22:39:16  #國際
-
-【俄軍持續打擊烏克蘭港口及海上目標】俄羅斯國防部16日釋出通報稱，俄武裝力量繼續對烏克蘭港口基礎設施及參與烏軍行動的海上艦艇實施打擊。通報指出，俄軍在此次行動中重點摧毀了以下目標：在別爾哥羅德-德涅斯特羅夫斯基鎮，擊中了一家生產車間及存放無人艇戰鬥部和零部件的倉庫；在維爾科沃鎮，摧毀了烏克蘭海軍巡邏艇的停泊點；在敖德薩港，擊中了3艘散貨船和2艘油輪，這些船隻此前被用於向烏軍運送軍用物資和燃料，此外還有儲油罐和存放軍事物資的倉庫。此外，俄軍在黑海海域敖德薩以東擊中了一艘向烏克蘭運送西方武器的散貨船。俄方強調，此類打擊旨在系統性切斷烏克蘭的海上後勤補給線。
-
----
-
-### 2026-08-16 22:34:29  #公司 #國際
-
-【梅卡曼德機器人透過聆訊：收入CAGR46.6%、毛利率64.6%、全球市佔率27% 】梅卡曼德(Mech-Mind Robotics)今日釋出聆訊後資料集，這意味著該公司已透過港交所IPO聆訊。梅卡曼德是一家智慧機器人元件供應商，公司的系統利用3D視覺技術捕捉點雲資料，並採用基於深度學習的AI演算法。產品已部署於客戶生產及運營流程所使用的裝置中，主要服務來自汽車、新能源、消費電子、物流、教育及通用製造行業的終端客戶。公司產品已在北美、歐洲等近50個國家及地區銷售，客戶遍佈全球。是全球少數透過智慧機器人技術，實現通用智慧機器人跨行業、跨場景、跨地域規模化落地的科技企業之一。據招股書顯示，於往績記錄期間，梅卡曼德實現穩健的業務和財務增長。2023年至2025年度，公司收入分別為1.808億、2.688億及3.888億元（人民幣，下同），年複合增長率為46.6%；期內毛利率分別錄得39.1%、51.1%、64.6%；毛利由2023年7060萬元增至2025年的2.511億元，年複合增長率為88.5%。與此同時，公司經調整淨虧損由2023年的3.34億元快速收窄至2025年的1.09億元，三年收窄近七成；2025年經營虧損已低於同期研發費用（1.13億元），核心業務自身已接近盈虧平衡。收入持續增長、毛利率顯著改善及虧損快速收窄，帶來整體盈利能力不斷提升。梅卡曼德的海外業務亦快速增長。按出貨量計，2025年，公司斬獲了全球逾27%的市場份額，超越其後四位最大競爭對手的市場份額總和。此外，公司在中國、日本及北美市場佔有率位居第一，並在東南亞、歐洲及韓國位居市場領導者之列。2023年至2025年度，公司海外業務收入分別為5860萬、9770萬及1.955億元，年複合增長率為82.7%；海外業務收入佔比亦大幅增長，分別為32.4%、36.4%及50.3%。
-
----
-
-### 2026-08-16 22:30:11  #公司 #市場
-
-【中銀證券：A股硬科技由超跌修復切換向趨勢行情的條件正加速成熟】中銀證券釋出研報稱，以科創50為代表的硬科技板塊正由超跌修復切換向趨勢行情。整個6–8月中旬週期，硬科技走勢的形態敘事可分為兩層看。第一層是指數層面，硬科技代表性指數科創50在6月30日見到階段性收盤高點2207.86點後深度回撤，7月整月下跌約25.9%，8月3日收盤低點下探至1552.89點。其後反彈開啟， 8月14日收於1717.68點，略低於20日均線但較低點累計反彈10.6%，指數已脫離極端殺跌區間，低點修復明確，反彈中樞抬升。第二層是行業層面，申萬電子、通訊7月分別大跌約34.7%、31.9%，是上一輪極化估值消化與海外敘事擾動的重災區；進入8月，截至8月14日當月累計漲幅分別約13.2%、15.3%，收盤均重新站上20日均線上方，兩個標杆行業的快速反彈推動短線形態修復成立。成交額方面，科創50在8月14日首次跌破千億，如果硬科技行情只是槓桿與題材資金主導下的弱修復，行情很難與縮量背景並存，因而我們判斷恐慌出清後的趨勢資金與產業資金正逐步掌握主導權，資金行為上更接近去偽存真後的縮圈。總體來看，本輪大小云的良好財報披露使得AI從訂單到資本開支最後向收入轉化的邏輯鏈條進一步夯實，AI基建敘事從反彈主題交易歸位到資本開支上行大主線的條件正加速成熟。
-
----
-
-### 2026-08-16 22:27:44  #國際
-
-美國司法部長託德·布蘭奇為珍妮·皮羅辯護，稱她駁回一起聯邦破壞案件的決定激怒了唐納德·特朗普總統，他表示華盛頓特區最高檢察官應得到公正對待。（皮羅為倒影池案的檢察官）
-
----
-
-### 2026-08-16 22:27:06  #MKT News
-
-Israeli media reported Kushner discussed maintaining a Gaza ceasefire with officials from the Peace Committee.
 
 ---
