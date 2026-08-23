@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-23 19:49:17_
-_本檔包含 3186 則快訊，約 638887 字_
+_更新時間：2026-08-23 20:57:49_
+_本檔包含 3195 則快訊，約 638031 字_
+
+---
+
+### 2026-08-23 20:53:48  #公司
+
+【安世中國CEO張秋明：過去11個月已交付超400億顆晶片】8月23日晚間訊息，在安世中國新品全球釋出會上，安世中國執行長張秋明發表演講。張秋明透露，過去11個月以來，安世中國已經向全球上千家客戶交付超過400億顆晶片。張秋明表示，作為全球功率半導體龍頭之一，我們的核心業務和持續創新讓安世的產品組合在工藝和效能效率上被公認為行業標杆，但百年老店也意味著我們要直面歷史的包袱。當全球供應鏈的變局如海嘯般襲來，當技術封鎖的陰霾籠罩，安世中國沒有選擇退縮，更沒有選擇被動等待，我們選擇了一條最艱難的路，主動重建。（新浪科技）
+
+---
+
+### 2026-08-23 20:40:04  #其他
+
+突尼西亞海岸警衛隊稱已打撈起八具沉船移民遺體。
+
+---
+
+### 2026-08-23 20:36:09  #公司 #觀點
+
+【洛軸股份：將舉行創業板IPO網上路演】洛軸股份公告稱，公司首次公開發行股票並在創業板上市申請已獲證監會同意註冊，本次公開發行新股12400.00萬股，約佔發行後總股本的17.13%。發行採用戰略配售、網下發行、網上發行相結合的方式，初始戰略配售4960.00萬股，佔發行總量40%；回撥前網下初始發行5952.00萬股、網上初始發行1488.00萬股，分別佔扣除初始戰略配售後發行量的80%、20%。公司及保薦人中信建投證券定於2026年8月25日14:00-17:00在全景路演舉行網上路演。
+
+---
+
+### 2026-08-23 20:33:05  #公司
+
+【格林生物：披露創業板IPO網上搖號中籤結果】格林生物公告稱，公司首次公開發行3333.33萬股A股並在創業板上市的申請已獲證監會註冊，本次網上發行搖號抽籤儀式已完成，中籤號碼共24994個，每個中籤號碼可認購500股公司A股股票。網上中籤投資者需於2026年8月24日（T+2日）日終確保資金賬戶有足額新股認購資金，不足部分視為放棄認購，對應股份由保薦人（主承銷商）包銷。本次網上發行股票無流通限制及限售期安排，自上市之日起即可流通。
+
+---
+
+### 2026-08-23 20:30:34  #公司
+
+【報告顯示中國CAD市場在AI驅動下延續增長】近年來，全球CAD市場保持穩健增長，中國CAD市場增速高於全球平均，國產廠商份額持續提升。國際資料公司(IDC)近日釋出《中國設計研發類工業軟體之CAD市場份額，2025——大盤穩固，智變新生》，這份報告剖析了2025年中國研發設計類工業軟體CAD市場的競爭格局與發展趨勢。其中，中國研發設計類工業軟體之CAD2025年份額排名前三者分別為達索系統、西門子、中望軟體。中國3D CAD2025年份額排名前列的包括達索系統、西門子、PTC、中望軟體等。（中新網）
+
+---
+
+### 2026-08-23 20:27:09  #其他
+
+【世界人形機器人運動會1500米決賽：天卓隊以2分21秒64奪得第一】8月23日晚間訊息，第二屆世界人形機器人運動會進行期間，在1500米田徑決賽中，天卓隊以2分21秒64的成績奪得第一。資料顯示，目前1500米田徑世界記錄為3分26秒（男子），而此次天卓隊的天工Ultra再次突破了人類記錄。此外，第二名與第三名分別為飛雷神隊（2分30秒）與風火閃電隊（2分30秒22）。（新浪科技）
+
+---
+
+### 2026-08-23 20:26:53  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Zijin Mining earnings below expectations at 0.76 CNY — Zijin Mining (601899) released earnings per share at 0.76 CNY, compared to market expectations of 0.77 CNY.
+
+---
+
+### 2026-08-23 20:26:34  #其他
+
+新加坡總理：要求社交媒體平臺增設更多保障措施。
+
+---
+
+### 2026-08-23 20:25:15  #宏觀 #市場 #觀點 #國際
+
+【中信建投：海外風險可控 科技等待出清】中信建投發文稱，A股兩融與ETF資金此消彼長，出清未完但波動收斂，前期抄底資金的回本賣壓或制約反彈斜率。10Y美債在4.7%高位波動，隱含通脹與AI債務融資抬升長端利率的雙重因素；美國財政部加大國債回購，顯示出政策不願金融條件硬緊縮傷及AI與整體經濟，利率對權益的壓制相對可控。策略層面修復行情下有底上有頂，政策託底意願明確，但增量資金尚未形成合力，存量博弈特徵明顯，指數向上突破需要更強的催化。配置層面兼顧景氣與平衡，等待科技板塊出清。行業重點關注：AI（上游材料裝置、國產算力等）、創新藥、有色、機械、新能源、紅利等。
+
+---
+
+### 2026-08-23 20:22:49  #其他
+
+【安徽省委常委覃衛國任合肥市委書記】據“安徽先鋒”微信公眾號訊息，日前省委決定：覃衛國同志任合肥市委書記。（澎湃）
+
+---
+
+### 2026-08-23 20:21:13  #其他
+
+新加坡總理黃循財：將 “逐步” 擴大自動駕駛車輛的應用規模。
+
+---
+
+### 2026-08-23 20:20:02  #市場
+
+本週兩融餘額增幅最大：重慶銀行兩融餘額：0.36億元，餘額增幅：132.81%；金健米業兩融餘額：2.97億元，餘額增幅：82.88%
+
+---
+
+### 2026-08-23 20:18:23  #公司
+
+【百度：不會透過增發配售融資】8月23日晚間訊息，據百度相關負責人最新透露，百度沒有增發配售計劃，現有資金及經營現金流足以支援既定業務發展。截至二季度末，百度現金及投資總額達2831億元，經營現金流連續四個季度為正。從最新財報看，百度當前AI投入的資金使用效率和商業化承接能力正在得到驗證。與此同時，百度AI雲基礎設施收入同比增長50%，GPU雲收入同比增長283%，AI業務收入已佔一般業務收入的50%。（新浪科技）
+
+---
+
+### 2026-08-23 20:16:30  #國際
+
+【以防長：將對來自加沙地帶的“風箏”予以強硬回擊】當地時間23日，針對近期從加沙地帶向以色列境內放飛“風箏”的現象，以色列國防部長卡茨表示，已指示以色列國防軍“立即採取強硬行動”，包括直接打擊負責放飛的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）指揮官及操作人員，並摧毀相關基礎設施。卡茨稱：“我已指示以色列國防軍，針對任何從加沙向內蓋夫西部社群發射（飛行物）的現象，必須立即予以強硬回擊。”卡茨表示，每一次此類發射均被視為戰爭行為。不論發射物是氣球還是風箏，不論是否攜帶爆炸物，均將被等同於無人機對待。卡茨警告稱，任何組織、發射或協助此類行動的人員，都將“立刻受到最嚴厲的懲處”。（央視新聞）
+
+---
+
+### 2026-08-23 20:16:05  #國際
+
+【伊朗總統：伊朗應擺脫“既非戰爭、也非和平”狀態】據伊朗伊斯蘭共和國通訊社23日報道，伊朗總統佩澤希齊揚22日晚表示，伊朗應以理性方式，使國家擺脫“既非戰爭、也非和平”狀態。據報道，佩澤希齊揚在首都德黑蘭出席“醫生日”紀念活動時說，伊朗“不可能永遠依靠戰爭走下去。總有一天必須作出決定，使國家擺脫‘既非戰爭、也非和平’的狀態”，在戰爭或“非戰非和”狀態下伊朗難以吸引投資。他還提及已故最高領袖哈梅內伊也曾明確表示伊朗必須擺脫“非戰非和”狀態。（新華社）
+
+---
+
+### 2026-08-23 20:12:22  #其他
+
+【榮耀機器人閃電1500米跑出2分30秒22，再打破人類世界紀錄】8月23日，第二屆世界機器人運動會1500米決賽，榮耀機器人閃電錄得淨時成績2分30秒22，展現出強悍的瞬時爆發和穩定輸出能力。此次大賽，榮耀機器人閃電展現出極強的綜合實力，100米、400米、1500米均打破人類世界紀錄。
+
+---
+
+### 2026-08-23 20:06:20  #國際
+
+【敘過渡政府：預計很快與以色列恢復安全協議談判】敘利亞過渡政府外交部長希巴尼22日在接受路透社採訪時表示，敘利亞預計將很快與以色列恢復關於安全協議的談判，希望該協議能推動以色列從敘領土撤軍。（新華社）
+
+---
+
+### 2026-08-23 20:02:26  #其他
+
+【嫦娥七號任務不滿足發射條件 不能在今年預定視窗實施】記者23日從中國載人航天工程辦公室瞭解到，本著穩妥可靠、萬無一失的原則，經綜合研判，嫦娥七號任務不滿足發射條件，不能在今年預定視窗實施。(新華社)
+
+---
+
+### 2026-08-23 20:00:24  #宏觀
+
+【三部門指導地方快速處置“白菜收購環節蘸取甲醛溶液”問題】記者今天瞭解到，針對輿論關注的河北省張家口市康保縣“白菜收購環節蘸取甲醛溶液”問題，國務院食安辦、農業農村部、市場監管總局高度重視，第一時間指導屬地調查核實，依法從嚴從快處置，對涉事白菜流向進行追查，嚴防問題產品流入市場。同時舉一反三，組織各地立即開展白菜等易腐蔬菜專項抽檢和市場排查，一旦發現違法違規行為，將嚴懲重處、決不姑息，切實維護人民群眾飲食安全。（央視新聞）
+
+---
+
+### 2026-08-23 19:55:05  #焦點 #國際
+
+【8月23日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】用好紅色資源 賡續紅色血脈； 2.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】青海：完善生態保護修復體系 築牢“中華水塔”生態屏障； 3.1—7月我國電子商務穩定創新發展； 4.多家商業銀行釋出最佳化後的消費貸貼息政策執行方案； 5.我國礦山生態保護修復向綠向新； 6.國產農機“新裝”上陣； 7.第二屆世界人形機器人運動會在北京開幕； 8.中國第16次北冰洋考察冰站調查全部完成； 9.國內聯播快訊： （1）金融監管總局強化非車險業務綜合治理； （2）前7個月中國與APEC其他經濟體進出口超18萬億元； （3）三臺風同時影響 東南沿海多地有強降雨； （4）第48屆世界技能大賽中國代表團成立； （5）第二十五屆“漢語橋”世界大學生中文比賽全球總決賽舉行； 10.伊朗稱參與美對伊“經濟戰”的國家將被視為敵人 伊朗再次要求卡達將扣留的伊朗飛行員送回； 11.加拿大宣佈對美等額反制關稅將於9月8日生效； 12.國際聯播快訊： （1）中國參建坦尚尼亞最大水電專案正式啟用； （2）敘利亞譴責以色列製造襲擊侵犯其主權； （3）美法官推翻美暫停發75國移民簽證政策； （4）日本茨城縣5.8級地震 數十人受傷； 13.二十四節氣·處暑。
+
+---
+
+### 2026-08-23 19:51:10  #公司 #國際
+
+【美國海軍測試新型先進空對空導彈，射程近300英里】據報道，美國海軍正在測試一款新型空對空導彈，該導彈能夠打擊超過290英里（465公里）外的目標，射程明顯超過目前已知的其他同類武器。據美國海軍稱，由RTX公司旗下子公司雷神（Raytheon）研發的AIM-424“Malice”導彈，尺寸大致與現役AIM-120“先進中程空對空導彈”（AMRAAM）相當。這意味著該導彈可以裝入F-35和F-22隱身戰鬥機的內部武器艙。澳大利亞皇家空軍前軍官、格里菲斯亞洲研究所訪問學者彼得·萊頓（Peter Layton）表示，儘管擁有這一射程的導彈可以用於打擊指揮機或加油機等高價值航空目標，但它們在防禦艦艇方面可能更具價值。
 
 ---
 
@@ -19160,77 +19286,5 @@ RBC lowers Walmart (WMT.N) PT to $131 from $137.
 ### 2026-08-21 10:57:38  #其他
 
 【摩爾執行緒張建中：智算叢集向十萬卡規模演進已成必然趨勢】8月21日，摩爾執行緒創始人張建中在2026世界機器人大會上表示，具身智慧產業正迎來類似大模型的“ChatGPT 時刻”，算力底座是發展關鍵。語言模型已跨越萬億引數門檻，在縮放定律（Scaling Law）驅動下，具身智慧模型也正從十億、百億級向千億、萬億級引數進化，智算叢集隨之從千卡邁向萬卡，向十萬卡規模演進已成必然趨勢。
-
----
-
-### 2026-08-21 10:57:35  #MKT News
-
-【South Korea to set up Future Fund using chip-boom windfall, Budget Office says】YONHAP — South Korea's Budget Office said on Friday it will use windfall tax revenue from an AI-driven chip boom to establish a Future Fund to support long-term growth. The office said AI-driven change is reshaping economic and social systems and, propelled by a global chip upswing and higher corporate tax receipts, domestic tax revenue is expected to rise sharply. The fund will operate as a strategic investment platform to raise Korea's potential growth rate and help secure a leading position in global technology competition.
-
----
-
-### 2026-08-21 10:57:25  #宏觀
-
-【財政部：將動態調整進口暫定稅率，自主最佳化完善關稅稅目，支援進出口貿易】8月21日，財政部國際經濟關係司司長程智軍在國新辦新聞釋出會上表示，“十五五”時期，財政部門將加快建立科學高效的現代關稅制度，支援建設更高水平開放型經濟新體制。在擴大全球優質商品進口方面，根據國內高質量發展的需要和國際經貿形勢的變化，財政部會動態調整進口暫定稅率，更好滿足國內生產發展所需、人民美好生活所盼，也將適應科技進步和產業發展需求，自主最佳化完善關稅稅目，支援進出口貿易。
-
----
-
-### 2026-08-21 10:57:16  #宏觀
-
-【財政部：今年將建立全國統一地方財政補貼負面清單管理機制】財政部副部長廖岷介紹說，今年，財政部已經會同國家發展改革委、工信部、商務部、海關總署、稅務總局、市場監管總局等部門建立全國統一的地方財政補貼負面清單管理機制，清晰劃定違規補貼的具體情形，堅決杜絕違規補貼增量，分類規範違規補貼存量。（新華財經）
-
----
-
-### 2026-08-21 10:54:46  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #CNH #Hang Seng Index
-
-【Ministry of Finance: fiscal‑financial package to boost domestic demand has benefited 6.22 mln firms】Deputy Minister Liao Min said the demand‑support package, rolled out just over six months ago, is proceeding as expected; about 113 million resident person‑times and 6.22 million enterprises have received support. From Jan–Jul, six loan‑subsidy tools (SME, equipment renewal, service‑sector operators, consumer loans, etc.) helped channel more than CNY20 trillion of new lending into targeted fields, up CNY880 billion YoY (+4.5%). Support spans traditional sectors (agriculture, forestry, animal husbandry and fisheries, cultural tourism, health and elderly care) and emerging industries (high‑end equipment, AI, green/low‑carbon, biomanufacturing). Two consumption measures have supported roughly CNY1.88 trillion of household spending by boosting service‑sector supply (restaurants, accommodation, culture, health/elderly care) and strengthening demand via subsidies, trade‑in and invoice‑lottery incentives.
-
----
-
-### 2026-08-21 10:54:45  #其他
-
-【管濤出任華福證券首席經濟學家】管濤8月21日正式出任華福證券首席經濟學家。管濤深耕宏觀金融領域數十年，曾任中銀證券全球首席經濟學家，現任武漢大學經濟學博導、中國證券業協會首席經濟學家專業委員會主任委員。據瞭解，他將全面賦能華福證券宏觀研究、政策研判與大類資產配置體系建設。值得關注的是，2025年華福證券佣金分倉收入突破2.2億元，同比增超186%，行業排名升至第21位；2026年1-7月收入達2.98億元，同比增129%。此次引入管濤，將進一步提升華福證券投研品牌影響力。 (財聯社)
-
----
-
-### 2026-08-21 10:54:04  #宏觀
-
-【財政部：一攬子政策引導金融資源流向實體經濟，降低融資成本激發企業活力，助力億萬百姓共享政策紅利】財政部副部長廖岷介紹，一攬子政策有力發揮了財政資金乘數效應，支援重點投資和消費領域信貸投放逆勢增長。今年1-7月，透過中小微企業貸款貼息、裝置更新貸款貼息、服務業經營主體貸款貼息、個人消費貸款貼息等6項政策工具，累計支援相關領域新發放信貸超20萬億元，較上年同期增加超8800億元、增幅為4.5%，不僅惠及農林牧副漁、文旅康養等傳統產業，也支援了高階裝備、人工智慧、綠色低碳、生物製造等新興產業和未來產業。與此同時，政策聚焦於打通民間投資中的難點和堵點。1-7月，4項促投資政策累計支援民間投資約1.51萬億元。此外，政策還有力促進了居民消費。1-7月，2項促消費政策累計支援居民消費約1.88萬億元，既從供給側賦能服務業經營主體，全面支援餐飲住宿、文化娛樂、健康養老等服務消費領域，增加優質服務供給；又從需求側增強居民消費能力，與消費補貼、以舊換新、有獎發票等促消費政策疊加共振，有力支援廣大居民日常消費。
-
----
-
-### 2026-08-21 10:53:32  #MKT News #MRNA.O #Impact bullish
-
-JP Morgan raises PT on Moderna (MRNA.O) to $77 from $40.
-
----
-
-### 2026-08-21 10:53:04  #MKT News #Important #Commodities #Precious Metals
-
-Platinum front-month contract up more than 4.00% intraday, trading at 460.65 yuan/gram.
-
----
-
-### 2026-08-21 10:52:55  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Equities Poised for Solid Weekly Gains — Indonesian stocks rose 26 points or 0.4% to 6,527 in Friday’s morning trade, extending gains to a three-month high after Thursday’s advance. Sentiment was lifted by stronger U.S. equity futures despite Wall Street’s overnight losses on rebounding Treasury yields and surging oil prices. Locally, July credit growth remained firm though businesses slowed borrowing amid uncertainty. Upside was capped by caution ahead of Q2 current account data due later today, after Q1’s deficit widened to its largest since 2019 on weak trade. Risks also linger from potential El Niño-driven food inflation, threatening purchasing power and confidence. Gains were broad-based, led by financials, infrastructure, and property, with Bank Rakyat Indonesia (2.2%), Sumber Alfaria Trijaya (1.8%), Indosat (1.5%), and Bank Mandiri (1.2%) among key movers. For the week, the market is on track for solid gains of about 1.9%, rebounding from last week’s modest decline.
-
----
-
-### 2026-08-21 10:52:21  #市場 #焦點
-
-南向資金淨賣出額達10億港元。
-
----
-
-### 2026-08-21 10:52:02  #宏觀
-
-【財政部：財政金融協同促內需一攬子政策已惠及企業622萬家】今年，我國創新推出了財政金融協同促內需一攬子政策，這是更加積極財政政策的重頭戲之一。在今天上午國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會上，財政部“曬”出了一攬子政策的成績單。據介紹，今年，財政金融協同促內需6項政策工具，中央財政安排1000億元，透過財政引導、金融放大、市場運作的傳導鏈條，實現“1+1＞2”的政策效果。財政部副部長廖岷表示，一攬子政策出臺6個多月以來，實施進展符合預期，政策效能逐步顯現，大約有居民1.13億人次，包括有622萬家企業，獲得了政策支援。
-
----
-
-### 2026-08-21 10:52:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Copper
-
-【China's Ministry of Finance says medium-to-long-term measures to boost household consumption will include social security upgrades, income-distribution reform and tax-transfer redistribution】China's Ministry of Finance Deputy Minister Liao Min said at a State Council Information Office briefing on Aug. 21 that, under the 'Expand Consumption' 15th Five-Year Plan, the near-term priority is fully implementing existing policies to speed their impact, with emphasis on employment and income growth. Over the medium-to-long term the ministry plans to raise household consumption capacity by strengthening social security, deepening income-distribution reforms and enhancing tax-transfer redistribution.
 
 ---
