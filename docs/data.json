@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 23:14:03",
+  "updated": "2026-08-23 23:18:18",
   "count": 15894,
   "items": [
+    {
+      "id": "5053812",
+      "time": "2026-08-23 23:13:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外交部長阿薩德·沙伊巴尼今日在約旦會見以色列摩薩德局長羅曼·戈夫曼，意在緩和以色列近期空襲敘利亞空軍基地之後的雙方緊張局勢。"
+    },
     {
       "id": "5053811",
       "time": "2026-08-23 23:10:07",
@@ -145310,14 +145318,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部：打擊了敖德薩西部一處烏克蘭無人艇生產設施。"
-    },
-    {
-      "id": "mkt:01a00b23-4133-7aab-904e-8127ee706f62",
-      "time": "2026-08-16 23:14:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The chairman of Iran's Chamber of Commerce said on state broadcaster Press TV that the Iranian economy has emerged from the 'war shock'."
     }
   ]
 }
