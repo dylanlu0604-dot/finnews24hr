@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 23:55:40",
-  "count": 15887,
+  "updated": "2026-08-24 00:05:41",
+  "count": 15884,
   "items": [
+    {
+      "id": "5053826",
+      "time": "2026-08-23 23:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【部分日本民眾集會 抗議高市政府危險動向】23日，部分日本民眾在東京舉行集會，抗議高市早苗政府的修憲企圖以及一系列擴軍備武動向。對於政府推動修訂“安保三檔案”，試圖修改“無核三原則”，集會參加者表示強烈反對。（央視新聞）"
+    },
     {
       "id": "5053825",
       "time": "2026-08-23 23:54:42",
@@ -145223,42 +145231,6 @@
         "MKT News"
       ],
       "text": "According to Al Jazeera, Iran's president said those stirring domestic divisions must realize this only benefits the United States and Israel."
-    },
-    {
-      "id": "mkt:01a00b4e-db6b-7aab-904e-d218a06c9931",
-      "time": "2026-08-17 00:01:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "IRNA quoted Iran's army general staff as saying it is confident the USS Abraham Lincoln was struck at least once by munitions fired by Iran, temporarily preventing all embarked fighters from launching."
-    },
-    {
-      "id": "5042903",
-      "time": "2026-08-17 00:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：儘管遭受戰時損毀，伊朗航天工業仍在繼續推進發展。"
-    },
-    {
-      "id": "5042902",
-      "time": "2026-08-16 23:59:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗陸軍總司令：我們確信林肯號航空母艦至少遭到過一次伊朗彈藥打擊，受此影響，該艦艦載戰鬥機曾有一段時間完全無法起飛。"
-    },
-    {
-      "id": "5042901",
-      "time": "2026-08-16 23:57:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國總理勒科爾尼將於週一召開危機會議，以應對上週曝光的針對該國稅務總局的網路攻擊事件。"
     }
   ]
 }
