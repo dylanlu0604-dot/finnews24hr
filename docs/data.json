@@ -1,7 +1,151 @@
 {
-  "updated": "2026-08-24 20:26:54",
-  "count": 15816,
+  "updated": "2026-08-24 20:35:03",
+  "count": 15787,
   "items": [
+    {
+      "id": "mkt:01a033c3-08fa-7aab-90f7-8e70963374c4",
+      "time": "2026-08-24 20:33:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "NIO.O",
+        "Impact mixed"
+      ],
+      "text": "【NIO to invest in embodied-AI startup founded by autonomous-driving chief; Ren to remain unit head】At an internal autonomous-driving all-hands, NIO CEO Li Bin said Ren Shaoqing, head of NIO’s autonomous-driving unit, has founded an independent company focused on physics-based AI foundation models and embodied intelligence. NIO will make a strategic investment and cooperate with the new firm. Li and Ren said Ren will continue to lead NIO’s autonomous-driving business. The new company has completed registration and is reportedly valued at unicorn scale. How Ren allocates time between NIO and the new company is a potential governance and operational question for investors."
+    },
+    {
+      "id": "te:markets:577612",
+      "time": "2026-08-24 20:32:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds at Over Two-Month High as Markets Await Fed Signals — Silver traded above $69 an ounce on Monday, hovering near its highest level since mid-June, as a subdued dollar supported demand for precious metals, while investors await US inflation data and comments from Federal Reserve Chair Kevin Warsh this week for further clues on the interest-rate outlook. Silver gained more than 6% last week after a US Treasury buyback support plan pushed the dollar to multi-month lows. Markets are focused on the July PCE price index due Wednesday and Warsh’s speech at the Jackson Hole Symposium on Friday. Traders are currently pricing in roughly a 40% chance of a rate hike in September, compared with a 60% probability of rates remaining unchanged, according to CME FedWatch. On the geopolitical front, the US threatened Iran with what it called “the greatest financial offensive ever marshalled,” as Washington prepares to impose economic sanctions targeting Iran’s trade partners."
+    },
+    {
+      "id": "5055751",
+      "time": "2026-08-24 20:31:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽意資訊：2026年上半年淨利潤5602.19萬元，同比增長207.70%】賽意資訊公告，2026年上半年營業收入10.33億元，同比增長14.43%；歸屬於上市公司股東的淨利潤5602.19萬元，同比增長207.70%，上年同期1820.66萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5138.16萬元，同比增長274.42%，上年同期1372.3萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a033c1-5020-7aab-90f7-8049c66f9a2b",
+      "time": "2026-08-24 20:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Mexico is constructive on trade."
+    },
+    {
+      "id": "5055750",
+      "time": "2026-08-24 20:31:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓邦股份：2026年上半年淨利潤1.29億元，同比下降60.98%】拓邦股份公告，2026年上半年營業收入58.09億元，同比增長5.57%；歸屬於上市公司股東的淨利潤1.29億元，同比下降60.98%，2025年上半年為3.3億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.11億元，同比下降64.14%，2025年上半年為3.1億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5055749",
+      "time": "2026-08-24 20:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里爾：墨西哥在貿易方面表現建設性。"
+    },
+    {
+      "id": "5055748",
+      "time": "2026-08-24 20:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "BITMINE IMMERSION TECHNOLOGIES (BMNR)宣佈，其持有的以太幣達到585萬枚，加密貨幣及現金總持有量達149億美元。"
+    },
+    {
+      "id": "5055747",
+      "time": "2026-08-24 20:30:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國7月芝加哥聯儲全國活動指數 -0.08，前值 -0.02。"
+    },
+    {
+      "id": "mkt:01a033bf-e2e9-7aab-90f7-7cb78d73f5eb",
+      "time": "2026-08-24 20:30:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US Chicago Fed National Activity Index (CFNAI) -0.08 in July; June revised from -0.02 to 0.06."
+    },
+    {
+      "id": "5055746",
+      "time": "2026-08-24 20:30:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英飛凌收購C2I半導體公司。"
+    },
+    {
+      "id": "mkt:01a033bf-c231-7aab-90f7-76a121ac3163",
+      "time": "2026-08-24 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Chicago Fed National Activity Index (Jul) | actual -0.08 | previous -0.02"
+    },
+    {
+      "id": "5055745",
+      "time": "2026-08-24 20:28:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【快意電梯：2026年上半年淨利潤1759.88萬元，同比下降48.33%】快意電梯公告，2026年上半年營業收入6.09億元，同比下降2.48%；歸屬於上市公司股東的淨利潤1759.88萬元，同比下降48.33%，2025年同期為3405.87萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損130.47萬元，2025年同期為2426.77萬元，同比由盈轉虧。"
+    },
+    {
+      "id": "5055744",
+      "time": "2026-08-24 20:28:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼強震死亡人數升至100人】印度尼西亞國家抗災署24日說，8月15日發生在東努沙登加拉省附近海域的7.7級地震已造成100人死亡、1603人受傷，目前仍有逾18萬人處於避難狀態。（新華社）"
+    },
+    {
+      "id": "mkt:01a033bd-72ce-7aab-90f7-697c01b9ed14",
+      "time": "2026-08-24 20:27:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia quake death toll rises to 100】Indonesia's National Disaster Management Agency said on Aug. 24 that the Aug. 15 7.7-magnitude earthquake off the coast of East Nusa Tenggara province has killed 100 people, injured 1,603 and left more than 180,000 displaced or in shelters."
+    },
+    {
+      "id": "5055743",
+      "time": "2026-08-24 20:26:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安井食品：2026年半年度淨利潤8.22億元，同比增長21.62%】安井食品公告，2026年半年度營業收入92.66億元，同比增長21.85%；歸屬於上市公司股東的淨利潤8.22億元，同比增長21.62%，2025年同期為6.76億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7.53億元，同比增長24.81%，2025年同期為6.03億元。公司擬每股派發現金紅利人民幣1.73元（含稅），擬派發現金紅利約5.76億元（含稅）。"
+    },
+    {
+      "id": "5055742",
+      "time": "2026-08-24 20:26:27",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【文化和旅遊部公佈國家級非物質文化遺產代表性專案保護單位調整名單】為貫徹落實中共中央辦公廳、國務院辦公廳《關於進一步加強非物質文化遺產保護工作的意見》，加強國家級非物質文化遺產代表性專案保護單位動態管理，根據《國家級非物質文化遺產保護與管理暫行辦法》等有關規定，文化和旅遊部組織開展了國家級非物質文化遺產代表性專案保護單位調整工作。此次對389個國家級非物質文化遺產代表性專案的保護單位進行調整，另有3個專案因暫無合適保護單位不作認定。現公佈國家級非物質文化遺產代表性專案保護單位調整名單。（央視新聞）"
+    },
     {
       "id": "5055741",
       "time": "2026-08-24 20:25:34",
@@ -142969,470 +143113,6 @@
         "Impact bullish"
       ],
       "text": "NVIDIA (NVDA.O): Ports-Pike project will create tens of thousands of jobs and establish an $80 mln community fund."
-    },
-    {
-      "id": "mkt:01a00fb7-c24c-7aab-9061-df451e3cf347",
-      "time": "2026-08-17 20:34:56",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O): OpenAI will be a customer for 8 IT-GW of IT capacity at the Ports-Pike project."
-    },
-    {
-      "id": "mkt:01a00fb7-7528-7aab-9061-d3415b8317a0",
-      "time": "2026-08-17 20:34:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O) will provide credit support for the initial 4.25 IT-GW project and holds an option to add a further 3.75 IT-GW of capacity."
-    },
-    {
-      "id": "mkt:01a00fb7-5069-7aab-9061-c87722073259",
-      "time": "2026-08-17 20:34:26",
-      "tags": [
-        "MKT News",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O) to invest $1.5 billion in SB Energy."
-    },
-    {
-      "id": "5044374",
-      "time": "2026-08-17 20:34:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英偉達擬向SB Energy投資15億美元。在與英偉達達成交易後，Groq在一輪融資中的估值達到35億美元。"
-    },
-    {
-      "id": "mkt:01a00fb7-0d6e-7aab-9061-c54291251d2e",
-      "time": "2026-08-17 20:34:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "Groq was valued at $3.5 billion in a funding round after reaching a deal with NVIDIA."
-    },
-    {
-      "id": "mkt:01a00fb6-ee14-7aab-9061-b9019f6c6087",
-      "time": "2026-08-17 20:34:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) says SB Energy's site at the Ports-Pike Technology Park in Ohio will be dedicated to hosting NVIDIA's AI compute business."
-    },
-    {
-      "id": "5044373",
-      "time": "2026-08-17 20:33:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "8月17日，國內基金淨買入印度股票510億印度盧比。"
-    },
-    {
-      "id": "5044372",
-      "time": "2026-08-17 20:33:50",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "加拿大債券收益率在CPI資料公佈後延續上漲勢頭，落後於美國同類債券。"
-    },
-    {
-      "id": "5044371",
-      "time": "2026-08-17 20:33:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "8月17日，全球基金淨賣出價值254億印度盧比的印度股票。"
-    },
-    {
-      "id": "5044370",
-      "time": "2026-08-17 20:33:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達瑞電子：2026年上半年淨利潤1.62億元，同比增長23.02%】達瑞電子公告，2026年上半年營業收入17.26億元，同比增長22.86%。歸母淨利潤1.62億元，同比增長23.02%。扣非淨利潤1.51億元，同比增長22.98%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5044369",
-      "time": "2026-08-17 20:32:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美團正式啟動2027屆校園招聘 新增十餘種AI原生崗位】美團啟動2027屆校園招聘，面向2026年11月至2027年10月畢業的海內外應屆生，開放技術、產品、商業分析、運營、零售、銷售等10大類、100餘種崗位，覆蓋北京、上海、深圳、成都、廣州、香港、利雅得等全球幾十個城市。與往年相比，美團今年新增AI全棧工程師、AI產品經理、智慧商業分析師等十餘種AI原生崗位。在人才畫像上，超過80%的崗位描述明確提出對AI相關能力的要求。（新浪科技）"
-    },
-    {
-      "id": "5044368",
-      "time": "2026-08-17 20:32:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東省新增14款已完成登記的生成式人工智慧服務】據網信廣東公眾號訊息，截至8月17日，廣東省新增14款已完成登記的生成式人工智慧服務，累計已完成78款生成式人工智慧服務登記。"
-    },
-    {
-      "id": "5044367",
-      "time": "2026-08-17 20:32:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OPPO副總裁唐凱：AI出現以來最焦慮的點在於如何將自身產品的定位和願景變成現實】支付寶AI生態合作伙伴大會在杭州舉行。會上，螞蟻集團CEO韓歆毅、阿里巴巴集團副總裁、千問事業部總裁吳嘉、OPPO副總裁、軟體工程系統總裁唐凱及vivo副總裁、AI全球研究院院長周圍等嘉賓進行對談。OPPO副總裁、軟體工程系統總裁唐凱表示，AI出現以來最焦慮的點在於自身產品的定位，“我們希望透過手機這個載體去在人和數字世界這麼多服務之間去做橋樑。而我們這個系統用AI能做什麼，我們希望透過持續的個人化的建設，去為人們打造個人化的產品。”唐凱指出：“我們焦慮的是怎麼把這個定位和願景變成現實。”（新浪科技）"
-    },
-    {
-      "id": "5044366",
-      "time": "2026-08-17 20:31:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲隔夜回購操作未收到任何投標。"
-    },
-    {
-      "id": "em:jjsj_jndsj:202608173843425242",
-      "time": "2026-08-17 20:31:04",
-      "tags": [
-        "經濟數據",
-        "加拿大"
-      ],
-      "text": "加拿大7月份通脹率同比上漲3.0%，預估增幅為2.9%。"
-    },
-    {
-      "id": "mkt:01a00fb4-32c2-7aab-9061-b023c67a0535",
-      "time": "2026-08-17 20:31:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US New York Fed manufacturing prices received index fell to 22.7 in August from 27.6 previously."
-    },
-    {
-      "id": "mkt:01a00fb4-03b9-7aab-9061-af9f9e45dee0",
-      "time": "2026-08-17 20:30:50",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Prices Received Index (Aug) | actual 22.7 | previous 27.6"
-    },
-    {
-      "id": "mkt:01a00fb3-f510-7aab-9061-a6682da0dcba",
-      "time": "2026-08-17 20:30:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US New York Fed manufacturing employment index (Aug) 9.3, prior 11.4."
-    },
-    {
-      "id": "mkt:01a00fb3-d470-7aab-9061-9ca506c27641",
-      "time": "2026-08-17 20:30:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Employment Index (Aug) | actual 9.3 | previous 11.4"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608173843424260",
-      "time": "2026-08-17 20:30:36",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國8月紐約聯儲製造業指數為20.6，預期11，前值15.6。"
-    },
-    {
-      "id": "mkt:01a00fb3-c33f-7aab-9061-9249bee93a03",
-      "time": "2026-08-17 20:30:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "New York Fed Empire State manufacturing new orders index (Aug) 17.3; prior 22.2."
-    },
-    {
-      "id": "mkt:01a00fb3-a2da-7aab-9061-88bd9634a757",
-      "time": "2026-08-17 20:30:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed New Orders Index (Aug) | actual 17.3 | previous 22.2"
-    },
-    {
-      "id": "5044365",
-      "time": "2026-08-17 20:30:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國8月紐約聯儲製造業指數 20.6，預期11，前值15.6。"
-    },
-    {
-      "id": "mkt:01a00fb3-94d8-7aab-9061-85575f629526",
-      "time": "2026-08-17 20:30:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian investors' net purchases of foreign securities totalled C$35.43 bln in June; the previous reading was revised from C$22.27 bln to C$21.89 bln."
-    },
-    {
-      "id": "mkt:01a00fb3-890b-7aab-9061-7806bd3397cc",
-      "time": "2026-08-17 20:30:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada July core CPI YoY 2.3% vs prev 2.1%."
-    },
-    {
-      "id": "5044364",
-      "time": "2026-08-17 20:30:16",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大7月CPI同比 3%，預期 3%，前值 2.8%。七月核心CPI月率 0.2%，前值0.1%。7月核心CPI年率 2.3%，前值2.1%。"
-    },
-    {
-      "id": "mkt:01a00fb3-7974-7aab-9061-7671bd27d4a5",
-      "time": "2026-08-17 20:30:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign investors net bought CAD 40.83 bln of Canadian securities in June; May’s figure was revised up to CAD 8.8 bln from CAD 7.9 bln."
-    },
-    {
-      "id": "mkt:01a00fb3-7919-7aab-9061-683b2931157e",
-      "time": "2026-08-17 20:30:15",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada core CPI rose 0.2% MoM in July, after a 0.1% gain in June."
-    },
-    {
-      "id": "mkt:01a00fb3-7908-7aab-9061-63440377b931",
-      "time": "2026-08-17 20:30:15",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Canada July CPI YoY 3.0% vs. 2.9% expected, 2.8% prior."
-    },
-    {
-      "id": "mkt:01a00fb3-78a5-7aab-9061-5e5957462d10",
-      "time": "2026-08-17 20:30:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Canada July CPI MoM 0.5% (consensus 0.4%); prior -0.4%."
-    },
-    {
-      "id": "mkt:01a00fb3-784b-7aab-9061-568915c7c119",
-      "time": "2026-08-17 20:30:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US New York Fed manufacturing index (Aug) 20.6; consensus 11; prior 15.6."
-    },
-    {
-      "id": "mkt:01a00fb3-633e-7aab-9061-4c25ab4c069c",
-      "time": "2026-08-17 20:30:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A senior Iranian official said Iran's set timeframe will be relayed to the US and regional states via intermediaries, and Iran will not wait indefinitely while the US maintains a maritime blockade."
-    },
-    {
-      "id": "mkt:01a00fb3-41b9-7aab-9061-370629b387f9",
-      "time": "2026-08-17 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | CPI (YoY) (Jul) | actual 3% | consensus 2.90% | previous 2.80%"
-    },
-    {
-      "id": "mkt:01a00fb3-4260-7aab-9061-44a9dd89a34e",
-      "time": "2026-08-17 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Canadian Holdings Of Foreign Securities (Jun) | actual 35430000000B | previous 22270000000B"
-    },
-    {
-      "id": "mkt:01a00fb3-41ba-7aab-9061-3b224f2d1b59",
-      "time": "2026-08-17 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Core CPI (MoM) (Jul) | actual 0.2% | previous 0.1%"
-    },
-    {
-      "id": "mkt:01a00fb3-4150-7aab-9061-1e13e372b6e6",
-      "time": "2026-08-17 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Core CPI (YoY) (Jul) | actual 2.3% | previous 2.1%"
-    },
-    {
-      "id": "mkt:01a00fb3-41b7-7aab-9061-2887dbde48af",
-      "time": "2026-08-17 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Foreign Holdings Of Canada Securities (Jun) | actual 40830000000B | previous 7900000000B"
-    },
-    {
-      "id": "mkt:01a00fb3-4191-7aab-9061-268b9ed40d8e",
-      "time": "2026-08-17 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | CPI (MoM) (Jul) | actual 0.5% | consensus 0.40% | previous -0.40%"
-    },
-    {
-      "id": "mkt:01a00fb3-3e2b-7aab-9061-1408a447cf1b",
-      "time": "2026-08-17 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Manufacturing Index (Aug) | actual 20.6 | consensus 11 | previous 15.6"
-    },
-    {
-      "id": "5044363",
-      "time": "2026-08-17 20:29:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世界最長海底高鐵隧道完成帶壓盾構換刀】記者從中鐵十四局集團有限公司瞭解到，17日，在甬舟鐵路金塘海底隧道寧波側80米深處，建設者在7.8巴水壓下歷時21天完成104把盾構刀具檢查和更換，標誌著我國自主研發的飽和帶壓進倉技術成功完成長時間、超高壓實戰檢驗，我國深埋跨海隧道施工能力再提升。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a00fb2-3062-7aab-9061-0dc8d5b08ffb",
-      "time": "2026-08-17 20:28:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "A senior Iranian official told Reuters that pressing the US or relying on mediators to secure lasting peace is unrealistic. Iran has given the US a deadline of weeks to fully implement a memorandum of understanding and warned that if diplomacy fails all Iranian entities are prepared to escalate tensions in the Strait of Hormuz and the wider region."
-    },
-    {
-      "id": "5044362",
-      "time": "2026-08-17 20:28:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱若阿曼阻礙美方重開霍爾木茲海峽 將對其實施轟炸】當地時間8月17日，美國總統特朗普在接受採訪時表示，如果阿曼“阻礙美國重新開放霍爾木茲海峽、結束伊朗戰爭的努力”，美國將對阿曼實施轟炸。據悉，特朗普表示：“如果阿曼阻礙我們，我們將狠狠轟炸他們。”此外，特朗普還證實他與伊朗伊斯蘭革命衛隊官員之間存在秘密溝通渠道，並稱他“不著急”解決伊朗問題。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a00fb1-a05c-7aab-9061-02723c8763c3",
-      "time": "2026-08-17 20:28:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent crude briefly rose nearly $0.80 intraday; currently WTI $81.81/bbl, Brent $87.50/bbl."
-    },
-    {
-      "id": "mkt:01a00fb0-d5b6-7aab-9060-fdcb972687dd",
-      "time": "2026-08-17 20:27:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Refinitiv reports a senior Iranian official said Iran has decided to shift its policy from defensive to \"fully offensive\"."
-    },
-    {
-      "id": "mkt:01a00fb0-833d-7aab-9060-f6b3e8d498a0",
-      "time": "2026-08-17 20:27:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Hamas told Al Jazeera that Trump's comments confirm his commitment to the ceasefire process and urged him to pressure the Israeli government to comply with the agreement and implement the second phase of the peace plan."
     }
   ]
 }

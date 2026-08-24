@@ -1,7 +1,151 @@
 {
   "date": "2026-08-24",
-  "count": 2052,
+  "count": 2068,
   "items": [
+    {
+      "id": "mkt:01a033c3-08fa-7aab-90f7-8e70963374c4",
+      "time": "2026-08-24 20:33:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "NIO.O",
+        "Impact mixed"
+      ],
+      "text": "【NIO to invest in embodied-AI startup founded by autonomous-driving chief; Ren to remain unit head】At an internal autonomous-driving all-hands, NIO CEO Li Bin said Ren Shaoqing, head of NIO’s autonomous-driving unit, has founded an independent company focused on physics-based AI foundation models and embodied intelligence. NIO will make a strategic investment and cooperate with the new firm. Li and Ren said Ren will continue to lead NIO’s autonomous-driving business. The new company has completed registration and is reportedly valued at unicorn scale. How Ren allocates time between NIO and the new company is a potential governance and operational question for investors."
+    },
+    {
+      "id": "te:markets:577612",
+      "time": "2026-08-24 20:32:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds at Over Two-Month High as Markets Await Fed Signals — Silver traded above $69 an ounce on Monday, hovering near its highest level since mid-June, as a subdued dollar supported demand for precious metals, while investors await US inflation data and comments from Federal Reserve Chair Kevin Warsh this week for further clues on the interest-rate outlook. Silver gained more than 6% last week after a US Treasury buyback support plan pushed the dollar to multi-month lows. Markets are focused on the July PCE price index due Wednesday and Warsh’s speech at the Jackson Hole Symposium on Friday. Traders are currently pricing in roughly a 40% chance of a rate hike in September, compared with a 60% probability of rates remaining unchanged, according to CME FedWatch. On the geopolitical front, the US threatened Iran with what it called “the greatest financial offensive ever marshalled,” as Washington prepares to impose economic sanctions targeting Iran’s trade partners."
+    },
+    {
+      "id": "5055751",
+      "time": "2026-08-24 20:31:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽意資訊：2026年上半年淨利潤5602.19萬元，同比增長207.70%】賽意資訊公告，2026年上半年營業收入10.33億元，同比增長14.43%；歸屬於上市公司股東的淨利潤5602.19萬元，同比增長207.70%，上年同期1820.66萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5138.16萬元，同比增長274.42%，上年同期1372.3萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a033c1-5020-7aab-90f7-8049c66f9a2b",
+      "time": "2026-08-24 20:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Mexico is constructive on trade."
+    },
+    {
+      "id": "5055750",
+      "time": "2026-08-24 20:31:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓邦股份：2026年上半年淨利潤1.29億元，同比下降60.98%】拓邦股份公告，2026年上半年營業收入58.09億元，同比增長5.57%；歸屬於上市公司股東的淨利潤1.29億元，同比下降60.98%，2025年上半年為3.3億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.11億元，同比下降64.14%，2025年上半年為3.1億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5055749",
+      "time": "2026-08-24 20:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里爾：墨西哥在貿易方面表現建設性。"
+    },
+    {
+      "id": "5055748",
+      "time": "2026-08-24 20:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "BITMINE IMMERSION TECHNOLOGIES (BMNR)宣佈，其持有的以太幣達到585萬枚，加密貨幣及現金總持有量達149億美元。"
+    },
+    {
+      "id": "mkt:01a033bf-e2e9-7aab-90f7-7cb78d73f5eb",
+      "time": "2026-08-24 20:30:08",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US Chicago Fed National Activity Index (CFNAI) -0.08 in July; June revised from -0.02 to 0.06."
+    },
+    {
+      "id": "5055747",
+      "time": "2026-08-24 20:30:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國7月芝加哥聯儲全國活動指數 -0.08，前值 -0.02。"
+    },
+    {
+      "id": "5055746",
+      "time": "2026-08-24 20:30:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：英飛凌收購C2I半導體公司。"
+    },
+    {
+      "id": "mkt:01a033bf-c231-7aab-90f7-76a121ac3163",
+      "time": "2026-08-24 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Chicago Fed National Activity Index (Jul) | actual -0.08 | previous -0.02"
+    },
+    {
+      "id": "5055745",
+      "time": "2026-08-24 20:28:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【快意電梯：2026年上半年淨利潤1759.88萬元，同比下降48.33%】快意電梯公告，2026年上半年營業收入6.09億元，同比下降2.48%；歸屬於上市公司股東的淨利潤1759.88萬元，同比下降48.33%，2025年同期為3405.87萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損130.47萬元，2025年同期為2426.77萬元，同比由盈轉虧。"
+    },
+    {
+      "id": "5055744",
+      "time": "2026-08-24 20:28:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼強震死亡人數升至100人】印度尼西亞國家抗災署24日說，8月15日發生在東努沙登加拉省附近海域的7.7級地震已造成100人死亡、1603人受傷，目前仍有逾18萬人處於避難狀態。（新華社）"
+    },
+    {
+      "id": "mkt:01a033bd-72ce-7aab-90f7-697c01b9ed14",
+      "time": "2026-08-24 20:27:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia quake death toll rises to 100】Indonesia's National Disaster Management Agency said on Aug. 24 that the Aug. 15 7.7-magnitude earthquake off the coast of East Nusa Tenggara province has killed 100 people, injured 1,603 and left more than 180,000 displaced or in shelters."
+    },
+    {
+      "id": "5055743",
+      "time": "2026-08-24 20:26:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安井食品：2026年半年度淨利潤8.22億元，同比增長21.62%】安井食品公告，2026年半年度營業收入92.66億元，同比增長21.85%；歸屬於上市公司股東的淨利潤8.22億元，同比增長21.62%，2025年同期為6.76億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7.53億元，同比增長24.81%，2025年同期為6.03億元。公司擬每股派發現金紅利人民幣1.73元（含稅），擬派發現金紅利約5.76億元（含稅）。"
+    },
+    {
+      "id": "5055742",
+      "time": "2026-08-24 20:26:27",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【文化和旅遊部公佈國家級非物質文化遺產代表性專案保護單位調整名單】為貫徹落實中共中央辦公廳、國務院辦公廳《關於進一步加強非物質文化遺產保護工作的意見》，加強國家級非物質文化遺產代表性專案保護單位動態管理，根據《國家級非物質文化遺產保護與管理暫行辦法》等有關規定，文化和旅遊部組織開展了國家級非物質文化遺產代表性專案保護單位調整工作。此次對389個國家級非物質文化遺產代表性專案的保護單位進行調整，另有3個專案因暫無合適保護單位不作認定。現公佈國家級非物質文化遺產代表性專案保護單位調整名單。（央視新聞）"
+    },
     {
       "id": "5055741",
       "time": "2026-08-24 20:25:34",
