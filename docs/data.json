@@ -1,7 +1,270 @@
 {
-  "updated": "2026-08-24 23:52:28",
-  "count": 15808,
+  "updated": "2026-08-25 00:14:07",
+  "count": 15806,
   "items": [
+    {
+      "id": "mkt:01a0348b-4da2-7aab-90fb-a8f0cb018a3d",
+      "time": "2026-08-25 00:12:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guyana's Ministry of Natural Resources said relevant regulators will carry out necessary follow-up investigations to determine the circumstances of a fire aboard an ExxonMobil (XOM.N) floating production vessel."
+    },
+    {
+      "id": "te:markets:577671",
+      "time": "2026-08-25 00:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.24% Lower — The FTSE MIB Index decreased 126 points or 0.24 percent on Monday to close at 52542 points. The decline was led by Prysmian (-4.76%), Avio (-4.73%) and Stellantis N.V. (-4.50%). On the upside, the strongest performers were Nexi (4.68%), Moncler (2.10%) and Infrastrutture Wire (1.78%)."
+    },
+    {
+      "id": "mkt:01a0348b-0623-7aab-90fb-a118424c1e02",
+      "time": "2026-08-25 00:12:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney says the Canadian government will invest $11 billion to build six new icebreakers for the Coast Guard."
+    },
+    {
+      "id": "5056038",
+      "time": "2026-08-25 00:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：政府將投入 110 億加元，為海岸警衛隊建造六艘新型破冰船。"
+    },
+    {
+      "id": "te:markets:577670",
+      "time": "2026-08-25 00:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.11% Lower — The DAX Index fell 30 points or 0.11 percent on Monday to close at 26107 points. Leading the losses are Qiagen NV (-3.74%), Infineon (-3.52%) and Siemens Energy (-3.01%). Top gainers were Beiersdorf (2.11%), Deutsche Bank (2.10%) and Daimler Truck Holding AG (2.07%)."
+    },
+    {
+      "id": "te:markets:577669",
+      "time": "2026-08-25 00:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.37% Lower — The CAC 40 Index dropped 31 points or 0.37 percent on Monday to close at 8453 points. Losses were led by Stellantis NV (-4.60%), STMicroelectronics (-1.97%) and TotalEnergies SE (-1.82%). Offsetting the fall, top gainers were Edenred (2.39%), Publicis (1.91%) and L'Oréal (1.69%)."
+    },
+    {
+      "id": "mkt:01a03488-7de8-7aab-90fb-9c5c76d3de5c",
+      "time": "2026-08-25 00:09:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Wall Street (US)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Fox Business cited Wall Street executives saying US Treasury Secretary Bessent is prepared to take aggressive measures to push the 10-year US Treasury yield toward about 5%."
+    },
+    {
+      "id": "5056037",
+      "time": "2026-08-25 00:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據福克斯商業頻道記者：華爾街高管表示，預計特朗普政府不會推行緊縮政策，而是希望依靠增加稅收收入，借經濟增長化解債務問題。"
+    },
+    {
+      "id": "5056036",
+      "time": "2026-08-25 00:08:06",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "據福克斯商業頻道記者：華爾街高管表示，美國財政部長貝森特准備採取激進舉措，推動 10 年期美債收益率向 5% 靠攏。正在考量的方案包括財政部回購債券、增加短期國債發行，以及可能取消 20 年期國債。"
+    },
+    {
+      "id": "te:markets:577668",
+      "time": "2026-08-25 00:07:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.39% Higher — The FTSE 100 Index went up by 42 points or 0.39 percent on Monday to close at 10859 points. The rise was led by Diageo (3.43%), Airtel Africa (2.69%) and Endeavour (2.44%). On the downside, the weakerst performers were BP (-2.86%), Babcock International (-1.99%) and Melrose (-1.74%)."
+    },
+    {
+      "id": "5056035",
+      "time": "2026-08-25 00:03:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lancium：英偉達已對本公司進行了戰略投資。"
+    },
+    {
+      "id": "mkt:01a03483-600f-7aab-90fb-912ae6f76ea6",
+      "time": "2026-08-25 00:03:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Lancium says NVIDIA (NVDA.O) has made a strategic investment in the company."
+    },
+    {
+      "id": "mkt:01a03482-cc2f-7aab-90fb-8a12e01ac433",
+      "time": "2026-08-25 00:03:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Lancium, a data-center developer, said it has partnered with NVIDIA (NVDA.O) to accelerate development of gigawatt-scale AI factories across its portfolio of more than 15 GW."
+    },
+    {
+      "id": "5056034",
+      "time": "2026-08-25 00:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lancium宣佈與英偉達達成合作，依託其超 15 吉瓦的專案資產，推進吉瓦級 AI 工廠建設。"
+    },
+    {
+      "id": "mkt:01a03481-4c1b-7aab-90fb-87d8bb18b755",
+      "time": "2026-08-25 00:01:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Sources said the Japanese government’s proposal is expected to be submitted as part of a tax reform request due at the end of the month."
+    },
+    {
+      "id": "mkt:01a03480-f777-7aab-90fb-7fa1de2feeb1",
+      "time": "2026-08-25 00:01:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Sources say the Japanese government is considering tax relief on gains from sales of non-core businesses, conditional on companies reinvesting the proceeds into acquisitions."
+    },
+    {
+      "id": "5056033",
+      "time": "2026-08-25 00:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破99關口，日內漲0.16%。"
+    },
+    {
+      "id": "5056032",
+      "time": "2026-08-24 23:57:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（8月6日）歐市尾盤，英國10年期國債收益率跌0.5個基點，報5.055%。兩年期英債收益率漲2.2個基點，報4.379%。30年期英債收益率跌1.5個基點，50年期英債收益率跌1.2個基點。2/10年期英債收益率利差跌2.672個基點，報+67.543個基點。"
+    },
+    {
+      "id": "5056031",
+      "time": "2026-08-24 23:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普將於 9 月 12‑13 日借愛爾蘭高爾夫公開賽之機訪問愛爾蘭。"
+    },
+    {
+      "id": "5056030",
+      "time": "2026-08-24 23:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦陸軍參謀長於今日下午會見伊朗議會議長卡利巴夫並舉行會談。本次會晤是巴基斯坦助力加強地區和平與安全所做努力的一部分。"
+    },
+    {
+      "id": "mkt:01a0347c-4578-7aab-90fb-710382913ca9",
+      "time": "2026-08-24 23:55:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【German finance minister: spike in bond yields should be blamed on Trump】Germany's vice-chancellor and finance minister said the recent surge in global bond yields stems from uncertainty caused by U.S. President Trump's war in Iran, which has disrupted the global energy supply balance. He warned higher yields are worsening Europe's economic strain, including higher gas prices, and placed responsibility on the White House. In May he said Germany now expects more than €50bn less tax revenue by the end of the decade, blaming Trump's \"reckless war\" and the ensuing global energy price shock."
+    },
+    {
+      "id": "te:markets:577661",
+      "time": "2026-08-24 23:55:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips Amid US-Iran Tensions — The CAC 40 fell 0.4% to close at 8,453 on Monday, extending losses from the previous week amid uncertainty surrounding imminent US sanctions against Iran. The measures could further restrict Iranian oil flows and push oil prices higher, creating renewed inflationary pressures. In Europe, investors continued to price in a 25-basis-point ECB rate hike in September following the central bank’s tightening move in June. Industrial stocks fell, with Safran down 1.1%, Thales losing 0.8%, Sanofi shedding 0.8% and EssilorLuxottica retreating 0.9%. Financials closed mixed, with BNP Paribas and Société Générale each losing 0.6%, while AXA added 0.9%. Meanwhile, TotalEnergies lost 1.9% as oil prices pulled back as investors booked profits ahead of the US sanctions announcement. The tech sector tracked losses in Wall Street chipmakers, with Schneider Electric down 1.7% and STMicroelectronics losing 2%. Luxury stocks posted gains as companies saw the first signs of a demand rebound in China."
+    },
+    {
+      "id": "te:markets:577660",
+      "time": "2026-08-24 23:54:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB edged down 0.2% to 52,542 on Monday, as macroeconomic developments weighed on the index. US Treasury Secretary Scott Bessent is set to outline details of the latest US pressure campaign against Iran, while the US President has threatened sanctions on Iran’s trading partners. Meanwhile, six EU countries proposed discussions in September on a mechanism to tax oil companies’ windfall profits, weighing on Eni (-2.5%). The collapse of the US-Canada trade deal also pressured Stellantis (-4.8%), after Washington pledged to double tariffs on Canadian vehicles and parts from January 2027. Prysmian (-5.2%) and STMicroelectronics (-2%) fell ahead of Nvidia’s earnings. Banks mostly advanced, with MPS's (0.4%) bid remaining in focus, while Banco BPM (-2.3%) declined ahead of a meeting tomorrow to discuss MPS’s offer. Utilities also outperformed, led by A2A (0.8%), while TotalEnergies is considering projects in Norway that could potentially increase Europe's natural gas supply."
+    },
+    {
+      "id": "5056029",
+      "time": "2026-08-24 23:54:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "美豆油日內大跌4.00%，現報66.71美分/磅。"
+    },
+    {
+      "id": "mkt:01a03478-a875-7aab-90fb-6fa77fd0202c",
+      "time": "2026-08-24 23:51:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US soybean oil fell 4.00% intraday to 66.71 cents/lb."
+    },
     {
       "id": "te:markets:577658",
       "time": "2026-08-24 23:49:48",
@@ -143054,258 +143317,6 @@
         "其他"
       ],
       "text": "【阿富汗喀布林一學校門前發生爆炸 多人受傷】阿富汗喀布林警察局發言人哈立德·扎德蘭17日晚證實，當地時間當天下午5時許喀布林一所私立學校門前發生爆炸，致多名學生受重傷。 據阿富汗當地媒體報道，爆炸發生時學生們正在離校，其中多數為女生。有目擊者說，約30名傷者已被送往當地醫院。 扎德蘭說，相關工作組已經抵達現場，正在對事件展開調查。"
-    },
-    {
-      "id": "te:markets:575913",
-      "time": "2026-08-18 00:12:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 53,587 on Monday, as positive corporate news offset a mostly negative session for banks. Technology stocks led gains, tracking broader sector strength following strong second-quarter revenue from Anthropic. STMicroelectronics rose 5%, while Prysmian added 2.4%. Ferrari gained 1.4% following the auction of its first fully electric vehicle for $40 million. Meanwhile, with markets largely ruling out a September Fed rate hike, Italian financials remained under pressure from ongoing consolidation prospects. MPS CEO reiterated over the weekend the need to preserve the bank’s independence amid a takeover bid from Intesa Sanpaolo (-0.5%). UniCredit declined 0.7% amid reports that Berlin could sell its 12% stake in Commerzbank to the lender. On the downside, Nexi fell 4.3%, and Stellantis dropped 4.1% after recalling 955,000 vehicles worldwide."
-    },
-    {
-      "id": "te:markets:575912",
-      "time": "2026-08-18 00:12:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.01% Higher — The FTSE MIB Index went up by 3 points or 0.01 percent on Monday to close at 53587 points. The rise was led by STMicroelectronics (5.04%), Prysmian (2.66%) and Finecobank (2.08%). On the downside, the weakerst performers were Stellantis N.V. (-3.90%), Fincantieri (-3.66%) and Nexi (-3.58%)."
-    },
-    {
-      "id": "te:markets:575911",
-      "time": "2026-08-18 00:11:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.38% Lower — The DAX Index fell 102 points or 0.38 percent on Monday to close at 26339 points. Leading the losses are Zalando (-3.90%), Adidas (-3.14%) and Beiersdorf (-2.66%). Top gainers were Deutsche Boerse (1.76%), Rheinmetall (1.30%) and Siemens Energy (1.29%)."
-    },
-    {
-      "id": "mkt:01a0107d-090a-7aab-9066-5ec30a007828",
-      "time": "2026-08-18 00:10:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lebanese president says UNIFIL presence in south Lebanon essential】On the 17th President Aoun welcomed parliament’s call to extend UNIFIL’s mandate in southern Lebanon, saying the force is essential for civilian security, close coordination with the Lebanese army and regional stability. He said extending the mandate is the preferred option; if that cannot be achieved, Lebanon seeks a framework to ensure international forces operate alongside and coordinate with the Lebanese army to fulfill their duties. Aoun noted Israel has opposed UNIFIL and has for nearly a year urged its withdrawal, while Lebanon presses for continued deployment."
-    },
-    {
-      "id": "5044632",
-      "time": "2026-08-18 00:10:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "初步計劃顯示：安哥拉10月份原油出口量預計為93.2萬桶/日。"
-    },
-    {
-      "id": "te:markets:575910",
-      "time": "2026-08-18 00:10:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.64% Lower — The CAC 40 Index dropped 55 points or 0.64 percent on Monday to close at 8582 points. Losses were led by Kering (-4.34%), Stellantis NV (-3.73%) and Saint-Gobain (-3.00%). Offsetting the fall, top gainers were STMicroelectronics (3.25%), Sanofi (1.17%) and Schneider Electric (0.66%)."
-    },
-    {
-      "id": "5044631",
-      "time": "2026-08-18 00:09:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黎巴嫩總統：聯黎部隊在黎南部的存在至關重要】當地時間17日，黎巴嫩總統奧恩對議會呼籲延長聯黎部隊在黎南部任務期限的倡議表示歡迎。奧恩表示，聯黎部隊在黎南部的存在至關重要，不僅能協助當地居民安居樂業，也有利於與黎軍隊密切協調、共同維護地區穩定。"
-    },
-    {
-      "id": "mkt:01a0107c-45c9-7aab-9066-57fe3152f6fc",
-      "time": "2026-08-18 00:09:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mitsubishi UFJ: Sustained, material decline in ultra-long JGB yields unlikely】German and Italian experience suggests a sustained, significant drop in ultra-long JGB yields is unlikely. If market concern that the BOJ is behind the curve abates, 30-year JGB yields may fall, but such declines are likely temporary. Fiscal worries that widen JGB ASW spreads can push ultra-long yields back up. Even with stable inflation expectations and ASW, uncertainty over the terminal BOJ policy rate can prevent a sustained downtrend—European 30-year yields rose until ECB rates topped out. Near term, easing BOJ-behind-the-curve fears could shave yields briefly, but year-end debate on the next fiscal-year budget and relatively rich JGB ASW versus peers argue against a durable, trend decline in ultra-long JGB yields."
-    },
-    {
-      "id": "te:markets:575909",
-      "time": "2026-08-18 00:07:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.21% Lower — The FTSE 100 Index decreased 22 points or 0.21 percent on Monday to close at 10728 points. The decline was led by Howden Joinery (-3.63%), Diageo (-3.33%) and J Sainsbury (-3.11%). On the upside, the strongest performers were Endeavour (2.63%), Anglo American (2.03%) and GlaxoSmithKline (2.02%)."
-    },
-    {
-      "id": "5044630",
-      "time": "2026-08-18 00:07:01",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場資訊：英國首相安迪·伯納姆曾與冒充白宮幕僚長蘇西·懷爾斯的人員互發訊息，但雙方並未傳遞重要資訊。"
-    },
-    {
-      "id": "te:economy:575908",
-      "time": "2026-08-18 00:05:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ecuador",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Ecuador Inflation Eases in July — Ecuador’s annual inflation rate eased to 1.39% in July 2026 from 1.65% in June. The strongest price pressures were recorded in goods, with prices rising 1.44%. Non-food prices drove inflation, increasing 2.01%, while services costs rose 1.33%. Meanwhile, food prices fell 0.7%. On a monthly basis, consumer prices declined 0.09% after rising 0.8% in June. Year-to-date inflation reached 1.30%."
-    },
-    {
-      "id": "5044629",
-      "time": "2026-08-18 00:05:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國運通公佈7月壞賬沖銷率為1.7%，7月逾期率為1.1%。"
-    },
-    {
-      "id": "5044628",
-      "time": "2026-08-18 00:04:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國運通：截至7月底，美國小企業信用卡會員貸款中逾期30天貸款佔貸款總額的比例為1.3%。"
-    },
-    {
-      "id": "5044627",
-      "time": "2026-08-18 00:04:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列炮擊位於汗尤尼斯市東部的佔領軍控制區。"
-    },
-    {
-      "id": "5044626",
-      "time": "2026-08-18 00:03:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "Stripe推出即時貨幣兌換功能。"
-    },
-    {
-      "id": "mkt:01a01076-daa8-7aab-9066-4d3cc1861593",
-      "time": "2026-08-18 00:03:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Lighthouse Pro real-time data, as of 00:00 on Aug 18 the film Welcome to Long Restaurant has surpassed 1 billion yuan in cumulative box office."
-    },
-    {
-      "id": "5044625",
-      "time": "2026-08-18 00:02:14",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "據燈塔專業版實時資料，截至8月18日0時0分，影片《歡迎來龍餐館》票房突破10億。"
-    },
-    {
-      "id": "5044624",
-      "time": "2026-08-18 00:00:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國媒體：烏克蘭幾乎已耗盡“愛國者”導彈儲備。"
-    },
-    {
-      "id": "5044623",
-      "time": "2026-08-18 00:00:08",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "市場定價顯示，美聯儲9月維持利率不變的機率為69%。"
-    },
-    {
-      "id": "5044622",
-      "time": "2026-08-17 23:56:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖高階顧問批評了美國政府對伊朗的威脅性言辭，稱美國家庭最終將承受華盛頓敵對政策帶來的後果。"
-    },
-    {
-      "id": "mkt:01a01070-0779-7aab-9066-42ecb1a34bbf",
-      "time": "2026-08-17 23:56:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Jerusalem Post, Israeli officials say Netanyahu criticized Jared Kushner for meeting Hamas leaders, calling Hamas the mastermind of the Oct. 7 attack; Kushner did not respond."
-    },
-    {
-      "id": "5044621",
-      "time": "2026-08-17 23:54:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：內塔尼亞胡批評庫什納與哈馬斯領導人的會面，因為他們（後者）是10月7日事件的策劃者，而庫什納未予回應。"
-    },
-    {
-      "id": "mkt:01a0106e-3c19-7aab-9066-3ae60aa4b628",
-      "time": "2026-08-17 23:54:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Ukraine says it struck multiple Russian attack-drone facilities】On the 17th the General Staff of the Armed Forces of Ukraine said on social media that in the early hours Ukrainian forces struck Russian storage, launch and control facilities for attack drones in Crimea and Kherson. The statement said a storage and launch site near Gvardeyskoye village in Crimea caught fire; a ground control station in western Crimea was hit; and communications and power equipment at a drone relay station southwest of Kherson were struck. Ukraine said it will continue targeting key Russian military assets."
-    },
-    {
-      "id": "5044620",
-      "time": "2026-08-17 23:54:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭稱襲擊俄軍多處攻擊型無人機配套設施】烏克蘭武裝部隊總參謀部17日在社交媒體發文稱，當天凌晨，烏國防軍對俄軍位於克里米亞和赫爾松地區多處攻擊型無人機的儲存、發射和控制設施發動了襲擊。烏武裝部隊總參謀部稱，位於克里米亞近衛軍村的俄軍攻擊型無人機的儲存和發射地點被烏軍襲擊後起火。此外，烏國防軍還襲擊了位於克里米亞西部地區的攻擊型無人機地面控制站，以及位於赫爾松西南地區的無人機中繼站的通訊和發電裝置。烏方稱，烏國防軍將繼續對俄軍關鍵軍事目標發動襲擊。（新華社）"
-    },
-    {
-      "id": "te:markets:575906",
-      "time": "2026-08-17 23:53:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls on Geopolitical Risks — The CAC 40 shed 0.7% to close at 8,580 on Monday amid geopolitical risks and a lack of progress in diplomatic efforts to resolve the Iran war, as tensions in the region escalated. Iran has decided to shift its policy from defensive to “fully offensive” due to the deadlock in efforts to reach a permanent end to the war with the US, a senior Iranian official said, while US President Donald Trump further escalated his rhetoric. Oil prices moved higher amid the ongoing conflict near Hormuz. Luxury stocks posted losses amid heightened risk aversion, with LVMH shedding 2.7%, L’Oréal down 2.5%, Hermes losing 1.6% and Kering tumbling 4.3%. Industrials traded mostly lower, with Airbus shedding 0.5%, Air Liquide down 0.9% and Thales losing 1.3%. Financials fell on energy-driven inflationary pressures, with BNP Paribas down 0.9% and AXA shedding 1%. In contrast, tech stocks gained, tracking strength in US chipmakers, with STMicroelectronics jumping 5.1% and Schneider Electric up 0.8%."
-    },
-    {
-      "id": "5044619",
-      "time": "2026-08-17 23:52:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一貨船在索馬利亞附近海域遭劫持】英國海上貿易行動辦公室17日釋出通報說，索馬利亞馬雷約以南海域的一艘貨船遭一夥武裝人員劫持。通報說，事發地點位於馬雷約以南4海里（約合7.4公里）處。貨船方面稱，8名武裝人員登上並控制了該貨船。英國海上貿易行動辦公室表示，有關部門正在調查這起事件。建議相關海域上的船隻謹慎通行，並向該辦公室報告任何可疑活動。（新華社）"
-    },
-    {
-      "id": "mkt:01a0106c-fccc-7aab-9066-366d2b3329ce",
-      "time": "2026-08-17 23:52:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Cargo vessel hijacked off Somalia】UK Maritime Trade Operations (UKMTO) said on the 17th a cargo vessel was boarded and seized by eight armed men about 4 nautical miles (7.4 km) south of Mareyo, Somalia. Authorities are investigating; UKMTO urged ships in the area to exercise caution and report any suspicious activity."
     }
   ]
 }

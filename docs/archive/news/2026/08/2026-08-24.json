@@ -1,7 +1,86 @@
 {
   "date": "2026-08-24",
-  "count": 2493,
+  "count": 2501,
   "items": [
+    {
+      "id": "5056032",
+      "time": "2026-08-24 23:57:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（8月6日）歐市尾盤，英國10年期國債收益率跌0.5個基點，報5.055%。兩年期英債收益率漲2.2個基點，報4.379%。30年期英債收益率跌1.5個基點，50年期英債收益率跌1.2個基點。2/10年期英債收益率利差跌2.672個基點，報+67.543個基點。"
+    },
+    {
+      "id": "5056031",
+      "time": "2026-08-24 23:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普將於 9 月 12‑13 日借愛爾蘭高爾夫公開賽之機訪問愛爾蘭。"
+    },
+    {
+      "id": "5056030",
+      "time": "2026-08-24 23:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦陸軍參謀長於今日下午會見伊朗議會議長卡利巴夫並舉行會談。本次會晤是巴基斯坦助力加強地區和平與安全所做努力的一部分。"
+    },
+    {
+      "id": "mkt:01a0347c-4578-7aab-90fb-710382913ca9",
+      "time": "2026-08-24 23:55:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【German finance minister: spike in bond yields should be blamed on Trump】Germany's vice-chancellor and finance minister said the recent surge in global bond yields stems from uncertainty caused by U.S. President Trump's war in Iran, which has disrupted the global energy supply balance. He warned higher yields are worsening Europe's economic strain, including higher gas prices, and placed responsibility on the White House. In May he said Germany now expects more than €50bn less tax revenue by the end of the decade, blaming Trump's \"reckless war\" and the ensuing global energy price shock."
+    },
+    {
+      "id": "te:markets:577661",
+      "time": "2026-08-24 23:55:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips Amid US-Iran Tensions — The CAC 40 fell 0.4% to close at 8,453 on Monday, extending losses from the previous week amid uncertainty surrounding imminent US sanctions against Iran. The measures could further restrict Iranian oil flows and push oil prices higher, creating renewed inflationary pressures. In Europe, investors continued to price in a 25-basis-point ECB rate hike in September following the central bank’s tightening move in June. Industrial stocks fell, with Safran down 1.1%, Thales losing 0.8%, Sanofi shedding 0.8% and EssilorLuxottica retreating 0.9%. Financials closed mixed, with BNP Paribas and Société Générale each losing 0.6%, while AXA added 0.9%. Meanwhile, TotalEnergies lost 1.9% as oil prices pulled back as investors booked profits ahead of the US sanctions announcement. The tech sector tracked losses in Wall Street chipmakers, with Schneider Electric down 1.7% and STMicroelectronics losing 2%. Luxury stocks posted gains as companies saw the first signs of a demand rebound in China."
+    },
+    {
+      "id": "te:markets:577660",
+      "time": "2026-08-24 23:54:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB edged down 0.2% to 52,542 on Monday, as macroeconomic developments weighed on the index. US Treasury Secretary Scott Bessent is set to outline details of the latest US pressure campaign against Iran, while the US President has threatened sanctions on Iran’s trading partners. Meanwhile, six EU countries proposed discussions in September on a mechanism to tax oil companies’ windfall profits, weighing on Eni (-2.5%). The collapse of the US-Canada trade deal also pressured Stellantis (-4.8%), after Washington pledged to double tariffs on Canadian vehicles and parts from January 2027. Prysmian (-5.2%) and STMicroelectronics (-2%) fell ahead of Nvidia’s earnings. Banks mostly advanced, with MPS's (0.4%) bid remaining in focus, while Banco BPM (-2.3%) declined ahead of a meeting tomorrow to discuss MPS’s offer. Utilities also outperformed, led by A2A (0.8%), while TotalEnergies is considering projects in Norway that could potentially increase Europe's natural gas supply."
+    },
+    {
+      "id": "5056029",
+      "time": "2026-08-24 23:54:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "美豆油日內大跌4.00%，現報66.71美分/磅。"
+    },
+    {
+      "id": "mkt:01a03478-a875-7aab-90fb-6fa77fd0202c",
+      "time": "2026-08-24 23:51:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US soybean oil fell 4.00% intraday to 66.71 cents/lb."
+    },
     {
       "id": "te:markets:577658",
       "time": "2026-08-24 23:49:48",

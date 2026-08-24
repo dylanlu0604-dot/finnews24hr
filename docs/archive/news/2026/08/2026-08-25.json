@@ -1,0 +1,190 @@
+{
+  "date": "2026-08-25",
+  "count": 17,
+  "items": [
+    {
+      "id": "mkt:01a0348b-4da2-7aab-90fb-a8f0cb018a3d",
+      "time": "2026-08-25 00:12:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guyana's Ministry of Natural Resources said relevant regulators will carry out necessary follow-up investigations to determine the circumstances of a fire aboard an ExxonMobil (XOM.N) floating production vessel."
+    },
+    {
+      "id": "te:markets:577671",
+      "time": "2026-08-25 00:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.24% Lower — The FTSE MIB Index decreased 126 points or 0.24 percent on Monday to close at 52542 points. The decline was led by Prysmian (-4.76%), Avio (-4.73%) and Stellantis N.V. (-4.50%). On the upside, the strongest performers were Nexi (4.68%), Moncler (2.10%) and Infrastrutture Wire (1.78%)."
+    },
+    {
+      "id": "mkt:01a0348b-0623-7aab-90fb-a118424c1e02",
+      "time": "2026-08-25 00:12:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney says the Canadian government will invest $11 billion to build six new icebreakers for the Coast Guard."
+    },
+    {
+      "id": "5056038",
+      "time": "2026-08-25 00:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：政府將投入 110 億加元，為海岸警衛隊建造六艘新型破冰船。"
+    },
+    {
+      "id": "te:markets:577670",
+      "time": "2026-08-25 00:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.11% Lower — The DAX Index fell 30 points or 0.11 percent on Monday to close at 26107 points. Leading the losses are Qiagen NV (-3.74%), Infineon (-3.52%) and Siemens Energy (-3.01%). Top gainers were Beiersdorf (2.11%), Deutsche Bank (2.10%) and Daimler Truck Holding AG (2.07%)."
+    },
+    {
+      "id": "te:markets:577669",
+      "time": "2026-08-25 00:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.37% Lower — The CAC 40 Index dropped 31 points or 0.37 percent on Monday to close at 8453 points. Losses were led by Stellantis NV (-4.60%), STMicroelectronics (-1.97%) and TotalEnergies SE (-1.82%). Offsetting the fall, top gainers were Edenred (2.39%), Publicis (1.91%) and L'Oréal (1.69%)."
+    },
+    {
+      "id": "mkt:01a03488-7de8-7aab-90fb-9c5c76d3de5c",
+      "time": "2026-08-25 00:09:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Wall Street (US)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Fox Business cited Wall Street executives saying US Treasury Secretary Bessent is prepared to take aggressive measures to push the 10-year US Treasury yield toward about 5%."
+    },
+    {
+      "id": "5056037",
+      "time": "2026-08-25 00:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據福克斯商業頻道記者：華爾街高管表示，預計特朗普政府不會推行緊縮政策，而是希望依靠增加稅收收入，借經濟增長化解債務問題。"
+    },
+    {
+      "id": "5056036",
+      "time": "2026-08-25 00:08:06",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "據福克斯商業頻道記者：華爾街高管表示，美國財政部長貝森特准備採取激進舉措，推動 10 年期美債收益率向 5% 靠攏。正在考量的方案包括財政部回購債券、增加短期國債發行，以及可能取消 20 年期國債。"
+    },
+    {
+      "id": "te:markets:577668",
+      "time": "2026-08-25 00:07:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.39% Higher — The FTSE 100 Index went up by 42 points or 0.39 percent on Monday to close at 10859 points. The rise was led by Diageo (3.43%), Airtel Africa (2.69%) and Endeavour (2.44%). On the downside, the weakerst performers were BP (-2.86%), Babcock International (-1.99%) and Melrose (-1.74%)."
+    },
+    {
+      "id": "5056035",
+      "time": "2026-08-25 00:03:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lancium：英偉達已對本公司進行了戰略投資。"
+    },
+    {
+      "id": "mkt:01a03483-600f-7aab-90fb-912ae6f76ea6",
+      "time": "2026-08-25 00:03:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Lancium says NVIDIA (NVDA.O) has made a strategic investment in the company."
+    },
+    {
+      "id": "mkt:01a03482-cc2f-7aab-90fb-8a12e01ac433",
+      "time": "2026-08-25 00:03:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Lancium, a data-center developer, said it has partnered with NVIDIA (NVDA.O) to accelerate development of gigawatt-scale AI factories across its portfolio of more than 15 GW."
+    },
+    {
+      "id": "5056034",
+      "time": "2026-08-25 00:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lancium宣佈與英偉達達成合作，依託其超 15 吉瓦的專案資產，推進吉瓦級 AI 工廠建設。"
+    },
+    {
+      "id": "mkt:01a03481-4c1b-7aab-90fb-87d8bb18b755",
+      "time": "2026-08-25 00:01:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Sources said the Japanese government’s proposal is expected to be submitted as part of a tax reform request due at the end of the month."
+    },
+    {
+      "id": "mkt:01a03480-f777-7aab-90fb-7fa1de2feeb1",
+      "time": "2026-08-25 00:01:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Sources say the Japanese government is considering tax relief on gains from sales of non-core businesses, conditional on companies reinvesting the proceeds into acquisitions."
+    },
+    {
+      "id": "5056033",
+      "time": "2026-08-25 00:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破99關口，日內漲0.16%。"
+    }
+  ]
+}
