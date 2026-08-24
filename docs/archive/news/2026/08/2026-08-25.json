@@ -1,7 +1,39 @@
 {
   "date": "2026-08-25",
-  "count": 203,
+  "count": 206,
   "items": [
+    {
+      "id": "te:economy:577689",
+      "time": "2026-08-25 03:00:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Chile 10Y Bond Yield Hits 14-month High — Chile 10 Year Government Bond Yield increased to 5.75%, the highest since June 2025. Over the past 4 weeks, Chile 10Y Bond Yield gained 6.50 basis points, and in the last 12 months, it increased 14.50 basis points."
+    },
+    {
+      "id": "5056130",
+      "time": "2026-08-25 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.63%，報25547.92點，高水30.59點。"
+    },
+    {
+      "id": "te:economy:577688",
+      "time": "2026-08-25 02:57:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Eases as Oil Prices Fall, but Remains Elevated — The yield on the 10-year US Treasury note eased to 4.7% on Monday, tracking lower crude prices, but remained close to the 20-month high of 4.75% reached in the previous session. Persistent concerns over wider fiscal deficits and heavy corporate debt issuance continued to put upward pressure on long-term yields. The US Treasury said it would double liquidity-support buyback operations for longer-dated bonds. CNBC reported that Treasury Secretary Scott Bessent could use nearly $1 trillion from the Treasury’s General Account to help fund the buybacks rather than issue short-term bills, raising concerns over further dollar weakness. On the geopolitical front, the US expanded secondary sanctions targeting entities and countries maintaining business ties with Iran. Bessent warned that a major financial institution could face sanctions this week and suggested China would not be exempt."
+    },
     {
       "id": "5056129",
       "time": "2026-08-25 02:55:46",
