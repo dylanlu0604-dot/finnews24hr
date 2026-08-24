@@ -1,7 +1,134 @@
 {
-  "updated": "2026-08-25 01:20:03",
-  "count": 15834,
+  "updated": "2026-08-25 01:24:24",
+  "count": 15846,
   "items": [
+    {
+      "id": "mkt:01a034cc-1fcd-7aab-90fd-516f1bc05303",
+      "time": "2026-08-25 01:23:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT concluded remarks."
+    },
+    {
+      "id": "mkt:01a034cb-cb0c-7aab-90fd-4ddf0f7fcc93",
+      "time": "2026-08-25 01:22:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the United Arab Emirates has been a good partner and has borne the brunt of the impact from Iranian attacks."
+    },
+    {
+      "id": "5056097",
+      "time": "2026-08-25 01:22:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美副總統：與加拿大的貿易談判仍在進行】當地時間24日，美國副總統萬斯在談及美國與加拿大的貿易談判時表示，“加拿大最後一刻提出了一堆不合理的要求”“我認為應該達成協議，但我們需要向加拿大總理發出一個響亮而明確的資訊：停止佔緬因州人民的便宜。停止佔美國的便宜。一切都結束了。我們希望貿易政策公平公正。”萬斯稱，談判仍在進行，“美國將力爭在貿易中實現公平”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a034cb-0cc7-7aab-90fd-44eb6a6eabad",
+      "time": "2026-08-25 01:21:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's prime minister Carney said retaliatory tariffs will be highly targeted."
+    },
+    {
+      "id": "mkt:01a034ca-cb0f-7aab-90fd-3d0161152fae",
+      "time": "2026-08-25 01:21:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said issuing a warning and recalibrating would be appropriate."
+    },
+    {
+      "id": "mkt:01a034ca-6759-7aab-90fd-34930a358ff5",
+      "time": "2026-08-25 01:21:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Treasury Secretary Bessent said secondary sanctions should not be underestimated and are a very powerful tool."
+    },
+    {
+      "id": "mkt:01a034ca-1c04-7aab-90fd-2e460a40c88c",
+      "time": "2026-08-25 01:20:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said the Treasury has not yet purchased any bonds and that its next operation is scheduled for Sept. 9."
+    },
+    {
+      "id": "5056096",
+      "time": "2026-08-25 01:20:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "提醒：美國財長貝森特結束講話。"
+    },
+    {
+      "id": "mkt:01a034c9-728e-7aab-90fd-2650c0887be4",
+      "time": "2026-08-25 01:20:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury said the State Department on Monday local time removed Syria's designation as a \"state sponsor of terrorism\"."
+    },
+    {
+      "id": "5056095",
+      "time": "2026-08-25 01:20:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國國務院當地時間週一取消了對敘利亞“支援恐怖主義國家”的認定。"
+    },
+    {
+      "id": "5056094",
+      "time": "2026-08-25 01:20:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：今日本次會議結束後，你們將見證一波制裁來襲。"
+    },
+    {
+      "id": "5056093",
+      "time": "2026-08-25 01:19:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們認為，發出警示訊號並統一各方預期是恰當的舉措。"
+    },
+    {
+      "id": "mkt:01a034c8-f308-7aab-90fd-1ef0a3732d45",
+      "time": "2026-08-25 01:19:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US Treasury Secretary announces multiple economic sanctions on Iran】US Treasury Secretary Bessent held a press conference on the afternoon of the 24th to announce multiple economic sanctions targeting Iran aimed at increasing pressure."
+    },
+    {
+      "id": "5056092",
+      "time": "2026-08-25 01:19:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美稱已與多家法國企業簽署諒解備忘錄（MOU），潛在總價值超 37 億美元。"
+    },
     {
       "id": "mkt:01a034c8-8509-7aab-90fd-12e276304a74",
       "time": "2026-08-25 01:19:11",
@@ -143538,26 +143665,6 @@
         "其他"
       ],
       "text": "葉門政府武裝稱，其對馬裡卜南部戰線的胡塞武裝陣地實施了打擊。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608183843620472",
-      "time": "2026-08-18 01:22:46",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲隔夜逆回購協議（RRP）週一使用規模為25.5億美元，交易對手6家。"
-    },
-    {
-      "id": "te:markets:575918",
-      "time": "2026-08-18 01:22:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Climbs to 3-Week High — US gasoline futures traded above $3.20 per gallon, reaching a three-week high as Middle East peace talks stalled. Iran warned of further escalation if the US fails to fully implement an interim deal, while the US threatened military action against Oman and demanded Iran’s surrender. At the pump, the average US gasoline price reached $4.06 per gallon, more than $1 above its level a year earlier. Elsewhere, repeated Ukrainian strikes on Russian oil refineries triggered a fresh wave of fuel shortages, while Moscow extended its fuel export restrictions. However, continued crude shipments through the Persian Gulf waterway despite the conflict eased some supply concerns. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, stating refiners are operating at record high. Meanwhile, Russia received at least one gasoline shipment from India, seeking to alleviate domestic shortages."
     }
   ]
 }
