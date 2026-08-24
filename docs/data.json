@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-25 02:19:35",
-  "count": 15837,
+  "updated": "2026-08-25 02:23:47",
+  "count": 15836,
   "items": [
+    {
+      "id": "5056121",
+      "time": "2026-08-25 02:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國總統馬克龍會見沙特王儲穆罕默德】8月24日，在位於巴黎的法國總統府愛麗捨宮，法國總統馬克龍（右）迎接來訪的沙烏地阿拉伯王儲兼首相穆罕默德。（新華社）"
+    },
+    {
+      "id": "mkt:01a03502-483a-7aab-90fe-14b19a5b3140",
+      "time": "2026-08-25 02:22:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【France may ban mobile phones in high schools from start of autumn term】The French government said after a cabinet meeting on the 24th that a ban on mobile phone use in high schools could be implemented from the start of this autumn’s school term."
+    },
+    {
+      "id": "te:markets:577682",
+      "time": "2026-08-25 02:21:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Slides as US Tightens Iran Sanctions — Brent crude oil extended losses to trade below $92 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the measures are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could face sanctions this week and indicated that China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly."
+    },
+    {
+      "id": "5056120",
+      "time": "2026-08-25 02:21:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國或從今秋開學起實施高中手機禁令】法國政府發言人莫德·佈雷容24日在部長會議後通報說，高中禁止使用手機的措施可能從今年秋季開學起實施。（新華社）"
+    },
+    {
+      "id": "te:markets:577681",
+      "time": "2026-08-25 02:20:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Surges by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.20%) and Gold (0.44%). Biggest losers are Silver (-0.70%) and Silicon (-0.63%)."
+    },
     {
       "id": "te:markets:577680",
       "time": "2026-08-25 02:18:14",
@@ -143508,61 +143554,6 @@
         "MKT News"
       ],
       "text": "Iraq's foreign minister spoke by phone with Iran's foreign minister to exchange views on the latest regional situation and matters of mutual concern."
-    },
-    {
-      "id": "5044710",
-      "time": "2026-08-18 02:23:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國暫停大本德（Big Bend）國家公園內的邊境工程建設。"
-    },
-    {
-      "id": "mkt:01a010f5-bbd5-7aab-9067-fe9377ba4558",
-      "time": "2026-08-18 02:22:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says US not seeking extension of MOU with Iran】Trump said the United States is not seeking to extend its memorandum of understanding with Iran. He said Iran wants a deal but would not accept what he called \"necessary\" terms. Trump again floated declaring the Strait of Hormuz US territory and reiterated US control of the waterway. He said the strait remains open and that oil prices are falling."
-    },
-    {
-      "id": "5044709",
-      "time": "2026-08-18 02:22:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "朗與伊拉克兩國外長通電話，就地區最新局勢以及雙方共同關切的議題交換意見。"
-    },
-    {
-      "id": "5044708",
-      "time": "2026-08-18 02:21:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：伊朗處境十分艱難，國家一團糟。其軍隊已被徹底擊潰。"
-    },
-    {
-      "id": "5044707",
-      "time": "2026-08-18 02:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使庫什納就與哈馬斯會面一事表示：會給他們一個機會。"
-    },
-    {
-      "id": "te:markets:575925",
-      "time": "2026-08-18 02:20:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 2.02% — Top commodity gainers are Silver (2.02%), Platinum (1.61%), Lithium Carbonate (0.99%) and Gold (0.91%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.77%) and Iron Ore CNY (-0.56%)."
     }
   ]
 }
