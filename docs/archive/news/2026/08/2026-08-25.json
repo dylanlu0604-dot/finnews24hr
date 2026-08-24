@@ -1,7 +1,40 @@
 {
   "date": "2026-08-25",
-  "count": 369,
+  "count": 372,
   "items": [
+    {
+      "id": "5056227",
+      "time": "2026-08-25 06:45:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta計劃於未來數週推出“Hatch”AI智慧體平臺】內部檔案顯示，Meta平臺公司計劃最快在未來幾周推出OpenClaw AI智慧體的消費版（內部專案名為Hatch，是Instagram端的智慧購物工具），並將最新AI模型“Watermelon”的釋出時間定在10月。Hatch是Meta執行長馬克·扎克伯格戰略規劃的一部分，目的是為公司鉅額的AI投資實現商業化變現，讓收入來源不再過度依賴廣告業務。Meta已考慮採用分級定價體系，其中該產品高階版月度訂閱費最高可達199.99美元，高階版會提供更高的使用額度。"
+    },
+    {
+      "id": "te:markets:577700",
+      "time": "2026-08-25 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 2.86% — Top crypto loser is XRP (-2.86%). Gains are led by Bitcoin (1.27%) and Ether (0.51%)."
+    },
+    {
+      "id": "mkt:01a035f1-a128-7aab-9100-451136aad70b",
+      "time": "2026-08-25 06:43:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "According to The Information, Meta Platforms (META.O) plans to launch its 'HATCH' AI agent platform in the coming weeks."
+    },
     {
       "id": "5056226",
       "time": "2026-08-25 06:41:26",
