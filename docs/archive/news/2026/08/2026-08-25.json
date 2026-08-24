@@ -1,7 +1,163 @@
 {
   "date": "2026-08-25",
-  "count": 99,
+  "count": 117,
   "items": [
+    {
+      "id": "mkt:01a034c8-8509-7aab-90fd-12e276304a74",
+      "time": "2026-08-25 01:19:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said a major financial institution will be sanctioned by the end of this week over Iran-related activity."
+    },
+    {
+      "id": "5056091",
+      "time": "2026-08-25 01:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： 我們尚未購入任何債券，下一輪操作定於 9 月 9 日。"
+    },
+    {
+      "id": "mkt:01a034c8-19d8-7aab-90fd-0b001b4dde82",
+      "time": "2026-08-25 01:18:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said President Trump hopes Canada will sit down for good-faith negotiations."
+    },
+    {
+      "id": "5056090",
+      "time": "2026-08-25 01:18:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財長稱特朗普正就制裁伊朗致電各國領導人】當地時間8月24日，美國財政部長貝森特召開新聞釋出會。貝森特表示，美國總統特朗普正致電各國領導人，明確要求其停止與伊朗的往來。（央視新聞）"
+    },
+    {
+      "id": "5056089",
+      "time": "2026-08-25 01:18:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普希望加拿大能夠坐到談判桌前，秉持誠意展開談判。"
+    },
+    {
+      "id": "mkt:01a034c7-533f-7aab-90fd-00dfdb240225",
+      "time": "2026-08-25 01:17:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Treasury Secretary Bessent said the old policy of offering benefits to Iran in exchange for its restraint no longer works."
+    },
+    {
+      "id": "5056088",
+      "time": "2026-08-25 01:17:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：加方在能源領域對特朗普政府擁有報復選項。"
+    },
+    {
+      "id": "5056087",
+      "time": "2026-08-25 01:17:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：本週末前，將有一家大型金融機構因涉伊朗問題遭到制裁。"
+    },
+    {
+      "id": "5056086",
+      "time": "2026-08-25 01:17:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙 “準備繼續秉持誠意開展磋商”，與加州方面進行溝通。"
+    },
+    {
+      "id": "5056085",
+      "time": "2026-08-25 01:16:52",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國財長公佈多項針對伊朗的經濟制裁措施 】美國財政部長貝森特24日下午召開新聞釋出會，公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。（新華社）"
+    },
+    {
+      "id": "5056084",
+      "time": "2026-08-25 01:16:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（8月24日），美聯儲隔夜逆回購協議（RRP）使用規模為3.80億美元（交易對手2家）。"
+    },
+    {
+      "id": "5056083",
+      "time": "2026-08-25 01:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：阿聯酋一直是很好的合作伙伴，承受了伊朗襲擊帶來的主要衝擊。"
+    },
+    {
+      "id": "mkt:01a034c5-9e20-7aab-90fc-fa56d9da9717",
+      "time": "2026-08-25 01:16:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he expects other countries will take similar actions to isolate Iran."
+    },
+    {
+      "id": "5056082",
+      "time": "2026-08-25 01:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：期望其他國家採取同類行動孤立伊朗。"
+    },
+    {
+      "id": "mkt:01a034c5-7080-7aab-90fc-f2d38efe3f48",
+      "time": "2026-08-25 01:15:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "BESSENT said the US Treasury will continue its regular auction schedule."
+    },
+    {
+      "id": "mkt:01a034c4-ceb5-7aab-90fc-eafec22e27d8",
+      "time": "2026-08-25 01:15:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury is communicating with every country to convey its expectations."
+    },
+    {
+      "id": "5056081",
+      "time": "2026-08-25 01:15:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：在伊朗政權被徹底孤立前，美國的努力不會停止。"
+    },
+    {
+      "id": "5056080",
+      "time": "2026-08-25 01:14:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：所有國家若支援伊朗，都應當做好面臨美國製裁的準備。"
+    },
     {
       "id": "5056079",
       "time": "2026-08-25 01:14:12",
