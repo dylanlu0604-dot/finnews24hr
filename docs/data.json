@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-25 01:28:27",
-  "count": 15851,
+  "updated": "2026-08-25 01:32:40",
+  "count": 15856,
   "items": [
+    {
+      "id": "mkt:01a034d3-9cb0-7aab-90fd-a76d7f43c2d1",
+      "time": "2026-08-25 01:31:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said the design is substantially simpler than traditional racks, with lower cost, higher density and lighter weight."
+    },
+    {
+      "id": "mkt:01a034d2-44de-7aab-90fd-992a9cdf14e0",
+      "time": "2026-08-25 01:29:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu says Iran 'had attempted to assassinate' his son】On Aug. 24 local time, Israeli Prime Minister Netanyahu told Channel 14 that Iran \"had attempted to assassinate\" his son. He provided no details and did not say whether he was referring to his elder son Yair or his younger son Avner."
+    },
+    {
+      "id": "mkt:01a034d1-b5f0-7aab-90fd-9026150d78e4",
+      "time": "2026-08-25 01:29:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran parliament speaker Ghalibaf dismisses U.S. sanction threats as nonsense】On the evening of the 24th, Iran parliament speaker Ghalibaf said on social media that no one believes U.S. nonsense and that the U.S. no longer has the economic capacity to further restrict other countries' relationships; he said Iran's trade partners have signalled via media and messages that they do not take the statements seriously. On the afternoon of the 24th, U.S. Treasury Secretary Bessent held a press conference announcing multiple new economic sanctions on Iran to increase pressure."
+    },
+    {
+      "id": "5056104",
+      "time": "2026-08-25 01:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：絕不接受把加拿大視作美國附屬的態度。"
+    },
+    {
+      "id": "mkt:01a034d1-0e53-7aab-90fd-89e469d566dd",
+      "time": "2026-08-25 01:28:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Musk said NVIDIA (NVDA.O)'s space-optimized Vera Rubin chip platform will reach meaningful scale by 2028, and the Vera Rubin NVL72 system is scheduled for orbital launch in Q4 next year."
+    },
+    {
+      "id": "5056103",
+      "time": "2026-08-25 01:28:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：實施等額對等報復存在難度，加拿大或採取 “更具針對性” 的反制關稅策略。"
+    },
     {
       "id": "5056102",
       "time": "2026-08-25 01:27:07",
@@ -143690,18 +143748,6 @@
         "MKT News"
       ],
       "text": "【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity."
-    },
-    {
-      "id": "mkt:01a010c7-d7ce-7aab-9067-4ea793200793",
-      "time": "2026-08-18 01:32:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures are up 2.0% intraday at $84.05/bbl."
     }
   ]
 }
