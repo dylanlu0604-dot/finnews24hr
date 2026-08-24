@@ -1,7 +1,87 @@
 {
   "date": "2026-08-24",
-  "count": 2368,
+  "count": 2377,
   "items": [
+    {
+      "id": "5055968",
+      "time": "2026-08-24 22:31:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "賓夕法尼亞美國水務公司：計劃投資3.21億美元，用於擴大賓夕法尼亞州全氟和多氟烷基物質處理能力。"
+    },
+    {
+      "id": "mkt:01a0342e-c998-7aab-90f9-ef4ffd3fca7c",
+      "time": "2026-08-24 22:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Zhejiang Rongtai Electrical Equipment Co., Ltd. has filed a listing application with HKEX; CITIC Securities is sole sponsor."
+    },
+    {
+      "id": "5055967",
+      "time": "2026-08-24 22:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：08月24日22時10分在印尼班達海（南緯6.74度，東經127.44度）發生5.9級地震，震源深度10千米。"
+    },
+    {
+      "id": "5055966",
+      "time": "2026-08-24 22:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "高市早苗：關於烏克蘭，為了儘早實現公正且持久的和平，國際社會團結一致支援烏克蘭是不可或缺的。 我國迄今為止，包括公私部門共同開展的重建與復興援助在內，為增強烏克蘭的社會與經濟韌性做出了貢獻。"
+    },
+    {
+      "id": "te:economy:577642",
+      "time": "2026-08-24 22:30:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Above 4.7% — The yield on the 10-year US Treasury note was above 4.7% on Monday, remaining close to the 20-month high of 4.75% last session as wider deficit spending and soaring supply of corporate debt continued to lift long-term bond yields. The Treasury stated it would use its general account balance to increase the buyback of long-term securities. This added to efforts to compress yields after the joint intervention on the Japanese yen by selling euros and the request for the Fed to increase the limit on its FIMA facility. Yields on the longer end of the curve had surged since July amid soaring debt issuance from AI companies and higher deficit spending by the federal government. Long-term yields also rose after Fed Chairman Warsh signaled that a rate hike may not be his preferred tool to combat higher inflation, increasing the stakes of his speech in Jackson Hole. Concerns of unanchored inflation were magnified by high energy prices during the US-Iran blockade of tankers in the Persian Gulf."
+    },
+    {
+      "id": "5055965",
+      "time": "2026-08-24 22:29:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：立陶宛已在維爾紐斯附近部署了NASAMS防空系統。"
+    },
+    {
+      "id": "5055964",
+      "time": "2026-08-24 22:28:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報道：拼多多回到買菜的 “基本盤”】新的消費環境下，拼多多轉向必需品找增長，多位Temu一二級主管轉回國內做多多買菜。其核心管理層也開始直接關注這個老業務。多多買菜今年營收有望超過4000億元，創造上百億元利潤。（晚點 LatePost）"
+    },
+    {
+      "id": "5055963",
+      "time": "2026-08-24 22:28:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Hims & Hers股價暴跌，其減肥套餐遭處罰】遠端醫療平臺Hims & Hers Health股價一度暴跌10%。此前，Visa公司發出警告，稱該公司在減肥訂閱業務中收到了過多的客戶投訴。彭博社查閱的檔案顯示，由於7月份客戶信用卡爭議激增，這家遠端醫療公司已被納入Visa的收單機構監控計劃。該股今年以來累計下跌約4.3%。彭博社彙編的資料顯示，HIMS獲5個買入評級、12個持有評級、0個賣出評級；平均目標價為31.77美元。"
+    },
+    {
+      "id": "5055962",
+      "time": "2026-08-24 22:28:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "富士山電力系統有限公司：獲批在哈特拉斯建立1吉瓦時管式電池製造工廠。"
+    },
     {
       "id": "5055961",
       "time": "2026-08-24 22:27:11",
