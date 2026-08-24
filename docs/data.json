@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-24 08:34:48",
+  "updated": "2026-08-24 08:38:49",
   "count": 15806,
   "items": [
+    {
+      "id": "5054121",
+      "time": "2026-08-24 08:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶大力轉向“軟體定義汽車”新賽道】8月19日，2026汽車新質生產力發展論壇在渝舉行，長安、賽力斯等重慶本土龍頭車企，聯合全國主流車企共話行業新趨勢，“重新定義汽車”成為全場共識。 參會嘉賓紛紛表示，電動化、智慧化浪潮之下，汽車的核心價值已經從硬體製造，轉向軟體服務、智慧體驗。汽車行業的發展邏輯、使用者體驗、供應鏈模式，都迎來全方位重塑，而正打造智慧網聯新能源汽車之都的重慶，要走在這場變革的最前沿。 長安汽車副總裁賀剛在論壇上丟擲一組消費資料：目前國內車型領航輔助駕駛滲透率達34.2%，L2級輔助駕駛滲透率高達70.5%。這足以看出，消費者以前看重的百米加速、底盤引數等硬體優勢，已經不再是購車的核心標準，智慧化軟體功能成為選車第一標尺。（重慶日報）"
+    },
+    {
+      "id": "5054120",
+      "time": "2026-08-24 08:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西、海南等局地有大暴雨 北方多地悶熱將緩解】未來三天（8月24日至26日），颱風持續影響華南沿海，廣西、海南等地仍有強降雨，局地有大暴雨，需注意防範次生災害的發生。氣溫方面，長江中下游一帶高溫悶熱持久，需注意防暑；北方多地悶熱將緩解。"
+    },
+    {
+      "id": "5054119",
+      "time": "2026-08-24 08:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月24日08時26分在四川宜賓市長寧縣（北緯28.33度，東經104.98度）發生4.7級地震，震源深度5千米。"
+    },
+    {
+      "id": "5054118",
+      "time": "2026-08-24 08:34:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報69.64美元/盎司。"
+    },
+    {
+      "id": "5054117",
+      "time": "2026-08-24 08:34:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：AI算力驅動散熱升級 建議把握兩條投資主線】中信證券研報認為，AI算力需求增長與先進封裝演進持續推升晶片功耗和熱流密度，推動TIM向高導熱、低熱阻和高可靠性升級。AI伺服器與新能源汽車將成為主要增量來源，預計全球TIM市場規模將由2025年的96.7億元增至2030年的221.2億元。海外廠商憑藉配方積累、量產經驗和客戶認證佔據中高階市場，國內企業正依託本土晶片、封測及終端產業鏈加快產品匯入。建議把握兩條投資主線：（1）晶片級TIM國產突破，關注德邦科技；（2）電子級有機矽材料升級及熱管理應用拓展，關注潤禾材料。"
+    },
+    {
+      "id": "5054115",
+      "time": "2026-08-24 08:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "民調顯示，美國前副總統卡瑪拉・哈里斯在 2028 年民主黨初選早期意向支援率中位居首位，支援率約為 30%。"
+    },
     {
       "id": "5054114",
       "time": "2026-08-24 08:32:27",
@@ -144370,65 +144418,6 @@
         "其他"
       ],
       "text": "檔案：梅卡曼德機器人將評估投資者對香港IPO的需求。"
-    },
-    {
-      "id": "5043101",
-      "time": "2026-08-17 08:38:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【AI融資需求不斷攀升 Alphabet考慮首次發行澳元債券】隨著美國科技巨頭競相為人工智慧(AI)投資募集資金，谷歌母公司Alphabet已聘請銀行準備首次發行澳元債券。承銷行之一的澳新銀行在電郵宣告中稱，Alphabet可能發行四個期限的債券，最長達20年。Alphabet本月早些時候已在美元市場發行250億美元債券，2026年還分別發行了瑞士法郎、英鎊、歐元、加元和日元債券。該公司近期還透過股權融資籌集近850億美元。"
-    },
-    {
-      "id": "te:markets:575589",
-      "time": "2026-08-17 08:37:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Rise Amid Soft GDP Data — The Nikkei 225 Index rose 0.4% toward 69,000 on Monday, extending last week’s gains after preliminary data showed Japan’s economy expanded less than expected in the second quarter, as weak domestic demand offset robust exports. Still, strong demand related to artificial intelligence continued to support the outlook for Japanese companies deeply integrated into the global semiconductor supply chain. Chip and AI-linked stocks mostly advanced, including Kioxia Holdings (2.9%), Advantest (3.9%), Fujikura (3%), Tokyo Electron (1.6%) and Furukawa Electric (4.1%). Meanwhile, financial and consumer stocks mostly declined. In corporate news, Nvidia is reportedly planning to invest up to $3 billion in SB Energy, a SoftBank Group subsidiary developing a major data center project in Ohio for OpenAI."
-    },
-    {
-      "id": "te:economy:575588",
-      "time": "2026-08-17 08:36:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Domestic Exports of Non Oil (nodx) (%yoy)",
-        "Importance 1"
-      ],
-      "text": "Singapore NODX Growth Accelerates in July — Singapore’s non-oil domestic exports (NODX) jumped 24.2% year-on-year in July 2026, accelerating from an upwardly revised 20.8% rise in June. It was the eleventh straight month of expansion, driven by electronics exports (112.1% vs. 105.1% in June), supported by robust AI-related demand."
-    },
-    {
-      "id": "5043100",
-      "time": "2026-08-17 08:36:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英矽智慧：將獲納入MSCI全球小盤股指數】英矽智慧在港交所公告，英矽智慧將獲納入MSCI（明晟公司）全球小盤股指數，該指數旨在反映發達市場及新興市場小型股公司涵蓋各多元化行業及產業的表現。此次納入將於2026年8月31日（星期一）收市後生效。"
-    },
-    {
-      "id": "mkt:01a00d25-7802-7aab-9052-0b816dd9bfca",
-      "time": "2026-08-17 08:35:54",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【Eight ministries issue notice tightening industrial wastewater controls near farmland】The Ministry of Ecology and Environment, jointly with the Ministry of Industry and Information Technology, Ministry of Public Security, Ministry of Natural Resources, Ministry of Water Resources, Ministry of Agriculture and Rural Affairs, the Supreme People’s Court and the Supreme People’s Procuratorate issued a notice to strengthen prevention of industrial and other wastewater pollution risks and to safeguard agricultural irrigation water safety. The notice directs upgrades and retrofits of centralized wastewater treatment facilities in industrial parks bordering farmland; inspections and remediation of industrial and livestock‑farming water‑related problems; and requires localities to revise local pollutant discharge standards and tighten emission controls where industrial discharge of characteristic pollutants could threaten downstream irrigation water safety."
-    },
-    {
-      "id": "5043099",
-      "time": "2026-08-17 08:35:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【針對工業園區汙水汙染等問題 八部門聯合印發通知】近日，生態環境部聯合工業和資訊化部、公安部、自然資源部、水利部、農業農村部、最高人民法院、最高人民檢察院印發《關於進一步加強工業等汙水汙染風險防範 保障農業灌溉用水安全的通知》（以下簡稱《通知》）。按照《群眾身邊水體保護治理行動方案》有關規定，本《通知》作為其配套制度檔案，堅持問題導向、系統治理，針對當前工業企業及園區、畜禽養殖場空間佈局不夠合理，汙水排放管控要求不夠完善，農業灌溉用水水質保障機制不夠健全等突出問題，從最佳化空間佈局、加強汙水排放管控、強化農業灌溉用水水質保障、加強環境執法與宣傳培訓等四方面明確相關舉措，推動構建跨部門、全週期的風險防控體系。《通知》明確，在國土空間規劃管控、生態環境分割槽管控、建設專案環境影響評價等環節，進一步規範農田周邊、喀斯特地貌等風險較高地區，以及排放全鹽量、重金屬、有毒有害汙染物等特徵汙染物的建設專案准入要求，嚴防化工園區轉移帶來的環境風險。"
     }
   ]
 }
