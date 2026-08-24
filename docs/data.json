@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-25 01:58:34",
-  "count": 15853,
+  "updated": "2026-08-25 02:02:54",
+  "count": 15851,
   "items": [
+    {
+      "id": "5056111",
+      "time": "2026-08-25 01:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：貝萊德向同業資管機構推介 TCP 私募信貸資產。"
+    },
     {
       "id": "5056110",
       "time": "2026-08-25 01:56:10",
@@ -143694,39 +143702,6 @@
         "觀點"
       ],
       "text": "花旗集團：截至7月底信用卡拖欠率為1.32%。"
-    },
-    {
-      "id": "mkt:01a010e3-96bf-7aab-9067-8eb4e43359f5",
-      "time": "2026-08-18 02:02:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Turkish diplomatic sources said Turkey's foreign minister spoke with Iran's foreign minister to discuss efforts to reopen the Strait of Hormuz and to extend the U.S.-Iran ceasefire."
-    },
-    {
-      "id": "mkt:01a010e1-15a2-7aab-9067-861e2a8d3c7d",
-      "time": "2026-08-18 01:59:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Oman has not performed well and that the US will deal with them."
-    },
-    {
-      "id": "mkt:01a010e0-9eb0-7aab-9067-7bf8173f3ddb",
-      "time": "2026-08-18 01:59:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude rose above $84/bbl for the first time since July 31, gaining 2.93% intraday. Brent crude rose 3% intraday to $89.83/bbl."
     }
   ]
 }
