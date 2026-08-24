@@ -1,7 +1,210 @@
 {
   "date": "2026-08-24",
-  "count": 238,
+  "count": 261,
   "items": [
+    {
+      "id": "5054142",
+      "time": "2026-08-24 08:55:27",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗上調紫金礦業目標價】鑑於紫金礦業2026年上半年業績亮眼，花旗上調其目標價，業績向好源於金屬價格上漲以及產量提升。包括Jack Shang在內的分析師在研報中寫道：“2026年上半年淨利潤同比走高，主要得益於金屬價格上行，以及黃金、鋰礦銷量增長。”花旗維持買入評級，目標價由51.8港元上調至60.5港元。"
+    },
+    {
+      "id": "5054141",
+      "time": "2026-08-24 08:54:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代在雅安成立新材料科技公司】企查查APP顯示，近日，寧德時代（雅安）新材料科技有限公司成立，註冊資本4億元，經營範圍包含：常用有色金屬冶煉；有色金屬合金製造；有色金屬合金銷售；礦物洗選加工；選礦等。企查查股權穿透顯示，該公司由寧德時代(300750)全資持股。"
+    },
+    {
+      "id": "5054140",
+      "time": "2026-08-24 08:54:22",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【匿名模型“牛來”引爆全球開發者圈】近日，匿名模型Ox Alpha（中文社群稱“牛來”）上線OpenRouter後呼叫量迅速攀升，短時間內衝至該平臺榜首，並重新整理單日模型用量紀錄。 OpenRouter最新資料顯示，僅Hermes Agent、Claude Code等前五大應用對其累計呼叫就已超過4萬億Token，其熱度正從社群嚐鮮快速擴散至全球開發者及Agent真實工作流。 Ox Alpha的廠商身份仍未揭曉，技術指紋更多指向智譜GLM系列，與此同時，多名谷歌DeepMind研究員發帖暗示其為Gemini新版，目前尚無廠商正式認領。（每經）"
+    },
+    {
+      "id": "te:markets:577400",
+      "time": "2026-08-24 08:54:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Trades Near 2-Month High — Silver traded near $69 an ounce on Monday, hovering close to a two-month high, as concerns over US debt management and fiscal sustainability persisted after the Treasury unexpectedly ramped up buybacks of longer-dated government debt. The intervention pushed bond yields and the dollar lower, reviving the so-called debasement trade and supporting demand for precious metals, including silver. Treasury Secretary Scott Bessent has signaled that further buybacks could follow and said the administration plans to soon introduce measures aimed at tackling borrowing costs, which are at their highest levels in years. Meanwhile, oil prices slipped but remained elevated, which could curb further gains by fueling inflation and dampening expectations for interest-rate cuts. Markets now await the US announcement on additional sanctions against Iran. Silver has gained about 18% so far this month."
+    },
+    {
+      "id": "5054139",
+      "time": "2026-08-24 08:52:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞媒體：敘以舉行會談推動局勢緩和】據敘利亞國家通訊社23日援引一名訊息人士的話報道，敘利亞與以色列兩國代表團當天在美國斡旋下於約旦舉行會談，以推動敘以局勢緩和，支援敘利亞及地區穩定。 這名敘過渡政府外交部訊息人士透露，敘方強調不會接受任何可能限制主權權利的安排或機制。敘方重申戈蘭高地是敘利亞領土，但現階段討論其最終安排“為時過早”，當前優先事項是以色列軍隊撤至2024年12月8日之前的控制線，並全面重啟和執行1974年《部隊脫離接觸協議》。 該訊息人士還說，此次討論提到支援敘利亞穩定和維護地區安全的重要性，提出需努力拉近土耳其與以色列立場，確保兩國緊張局勢不會反映在敘利亞領土上。 （新華社）"
+    },
+    {
+      "id": "te:markets:577398",
+      "time": "2026-08-24 08:52:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Start Week Lower — The Nikkei 225 Index fell 0.2% to below 65,900 on Monday, extending losses from the previous session as investors remained cautious amid elevated global bond yields and persistent tensions in the Middle East. Global yields remained near multi-year highs as the US Treasury’s surprise bond buyback announcement last week failed to ease concerns over inflation and rising government debt. Geopolitical risks also remained in focus, with the US expected to announce new sanctions on Iran later in the day, although Iranian leaders said the measures would fail to weaken Tehran. Investors are also turning their attention to Nvidia’s upcoming earnings and guidance for clues about whether the AI-driven rally in equities can be sustained. Technology and AI-linked stocks were among the main decliners, with Kioxia Holdings down 0.6%, Advantest falling 1.1%, Fujikura dropping 3.1%, SoftBank Group declining 1.4%, and Furukawa Electric losing 1.7%."
+    },
+    {
+      "id": "5054138",
+      "time": "2026-08-24 08:51:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【民德電子：目前晶睿電子的SOI業務收入佔比較小】民德電子(300656)在互動平臺表示，公司參股的晶圓原材料企業晶睿電子（持股比例20.76%）是國內為數不多具備SOI量產能力的廠商，且具備獨立自主智慧財產權，產品在具身智慧感測器（慣性感測器、壓力感測器等）和光電路交換機OCS（MEMS微鏡陣列）領域陸續驗證透過並穩步放量。目前晶睿電子的SOI業務收入佔比較小，對整體經營業績尚不構成重大影響，請投資者謹慎決策，注意投資風險。"
+    },
+    {
+      "id": "5054137",
+      "time": "2026-08-24 08:51:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "大和證券高階經濟學家Kento Minami：日本央行可能不會明確表示下一次加息將在9月進行。相反，官員們可能會透過強調通脹上行風險來暗示有必要儘早加息。"
+    },
+    {
+      "id": "5054136",
+      "time": "2026-08-24 08:51:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率持平於4.065%。"
+    },
+    {
+      "id": "5054135",
+      "time": "2026-08-24 08:50:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率持平於3.76%。"
+    },
+    {
+      "id": "5054134",
+      "time": "2026-08-24 08:50:41",
+      "tags": [
+        "公司",
+        "資料",
+        "觀點"
+      ],
+      "text": "【光大證券：市場或將反彈】光大證券認為，向後看，市場或將反彈，8月中報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季或將是下半年最好的配置視窗。當前國內外科技盈利均保持高增長，同時整體盈利增速也在PPI的帶動下持續回升，全A非金融中報盈利增速有望達15%左右。疊加政策層面的系統性支援以及A股對海外衝擊敏感性持續下降，8月中報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季或將是下半年最好的配置視窗。配置上建議圍繞三條業績主線展開。首先是科技硬體（半導體/AI算力/儲存），這是本輪業績改善最強的方向；其次為漲價鏈（有色/化工/煤炭），直接受益於PPI回升，業績兌現確定性高；第三條主線為出口製造（儲能/電力裝置/汽車），受益於全球製造業補庫與供應鏈優勢。此外，非銀金融、醫藥/CRO（創新藥出海）、軍工（訂單拐點）等方向中報景氣度同樣值得關注，整體呈現多條業績主線並行的格局。"
+    },
+    {
+      "id": "te:markets:577397",
+      "time": "2026-08-24 08:50:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Decline — The dollar index held its decline around 98.8 on Monday, remaining under pressure after posting significant losses last week, as a sharp rise in Treasury yields heightened concerns over the US government’s mounting debt burden and weighed on the dollar’s appeal. The greenback's decline came as Treasury Secretary Bessent outlined a debt-buyback strategy he described as a “Treasury twist,” under which the government would buy back longer-dated Treasury securities to help influence the yield curve and manage borrowing costs. Meanwhile, investors continued to monitor tensions in the Middle East, with the US expected to announce new sanctions against Tehran. Iran, which has already faced decades of US sanctions, said the new measures were “bound to fail.” Investors are now turning their attention to key US economic data and Federal Reserve policy signals, including the July PCE inflation report and remarks from Fed Chair Kevin Warsh at the Jackson Hole economic symposium later this week."
+    },
+    {
+      "id": "5054133",
+      "time": "2026-08-24 08:50:18",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【國信證券：市場或將進入新一輪結構性上行階段】國信證券認為，向後看，市場或將迎來反彈，8月中報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季有望是下半年相對不錯的配置視窗。市場當前的核心擔憂在於海外AI capex可持續性，但2020年以來至少兩輪類似辯論最終均由下一期業績資料終結，每次辯論都會伴隨板塊10%-20%的回撥，隨後行情在數月內完成修復。當前國內外科技盈利均保持高增長，同時整體盈利增速也在PPI的帶動下持續回升，全A非金融中報盈利增速有望達兩位數。疊加政策層面的系統性支援以及A股對海外衝擊的敏感性持續下降，市場或將進入新一輪結構性上行階段。"
+    },
+    {
+      "id": "5054132",
+      "time": "2026-08-24 08:48:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【招商證券：短期A股波動可能加大】招商證券認為，長端美債利率上行反映了AI融資擠出、財政赤字和期限溢價抬升等結構性問題，美財政部回購只能緩解區域性流動性壓力；外部利率和地緣風險將壓制短期風險偏好，使A股進入更重業績、重結構的階段。國內擴內需、“六張網”和地產政策正加速落地，但經濟仍處於總量偏弱、新舊動能分化的K型格局，因此市場機會更集中於科技創新、高階裝備出海及受益於政策落地的低估值方向。短期A股波動可能加大，配置上繼續沿科技創新、製造出海、低估值政策發力三條線索均衡佈局，重點關注電子、機械裝置、電力裝置、有色金屬、煤炭等方向。"
+    },
+    {
+      "id": "5054131",
+      "time": "2026-08-24 08:48:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【申萬宏源證券：反彈可能延續到9月下旬】申萬宏源證券認為，短期市場走勢符合AI產業鏈重拾強勢“四步走”推演。超跌反彈後，AI產業擾動再次出現，疊加了對美債收益率高企擔憂，出現了二次探底行情。中短期判斷不變，反彈可能延續到9月下旬，行穩致遠政策發力，長中短期樂觀預期可能集中發酵，這可能才是本輪反彈行情的高點。配置方面，9月反彈延續，結構選擇重點是尋找在超跌反彈中，能夠更大程度上修復跌幅的方向。AI鏈內部更加關注非機構重倉方向，國產算力鏈和AI小盤股“中期掩護短期”。另外，全球算力鏈中，景氣向下拐點出現較晚，短期有新增催化的方向，也容易兌現高彈性，典型是儲存和PCB，這些產業鏈也需挖掘新的算力通脹細分和新標的。"
+    },
+    {
+      "id": "5054130",
+      "time": "2026-08-24 08:47:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華利集團：未來幾年仍會按照既定節奏進行產能擴張】華利集團(300979)日前在機構調研時表示，考慮到客戶訂單的需求，未來幾年公司仍會按照既定節奏進行產能擴張。未來3—5年，公司主要將在印尼新建工廠並儘快投產，具體的工廠投產進度公司將及時披露。公司的產能除了透過新建工廠、裝置更新提升產能外，還可以透過員工人數和加班時間的控制保持一定的彈性，每年具體的產能的配置將根據當年訂單情況進行調整。"
+    },
+    {
+      "id": "5054129",
+      "time": "2026-08-24 08:47:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【區域性暴雨 廣西崇左市寧明縣釋出防汛緊急公告】記者從廣西崇左市寧明縣防汛抗旱指揮部獲悉，根據氣象和水文部門預測，受今年第19號颱風“紫檀”影響，2026年8月23日至24日，寧明縣將出現中到大雨、區域性暴雨天氣。鑑於強降雨疊加影響，極易引發大風災害及江河洪水、地質災害、城鄉積澇等次生災害，對交通運輸、假期旅遊和農業生產造成不利影響，嚴重威脅人民群眾生命財產安全。"
+    },
+    {
+      "id": "5054128",
+      "time": "2026-08-24 08:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少61.58億元】截至8月21日，上交所融資餘額報13488.16億元，較前一交易日減少36.19億元；深交所融資餘額報12761.84億元，較前一交易日減少25.39億元；兩市合計26250.0億元，較前一交易日減少61.58億元。"
+    },
+    {
+      "id": "5054127",
+      "time": "2026-08-24 08:45:55",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【方正證券：美財政部加大長債回購力度 貴金屬邏輯持續增強】方正證券研報稱，美國財政部加大長債回購力度，弱化遠端收益率上行動能，疊加美國經濟資料疲軟打壓美聯儲加息預期及美元走強動能，金價順勢突破4600美元/盎司，貴金屬權益市場頗具彈性。靜待年內加息預期及美元走強邏輯進一步鬆動，帶來貴金屬權益市場的結構性機會；往後看，AI通脹和美國財政端有望繼續創造黃金的利多環境，對後續的市場流動性保持樂觀，並建議持續關注貴金屬板塊的高配置價值。"
+    },
+    {
+      "id": "5054126",
+      "time": "2026-08-24 08:44:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超強颱風“沙德爾”25日前對我國近海海域無影響 最新路徑研判】據中央氣象臺訊息，今年第18號颱風“沙德爾”（超強颱風級）的中心今天（24日）早晨5時位於距離臺灣台北市偏東方向約1600公里的西北太平洋洋麵上，就是北緯23.5度，東經137.3度，中心附近最大風力16級（52米/秒），中心最低氣壓為935百帕，七級風圈半徑350-400公里，十級風圈半徑120-150公里，十二級風圈半徑50-60公里。預計，“沙德爾”將以每小時30公里左右的速度向西偏北方向快速移動，強度逐漸增強，25日前對我國近海海域無影響。（央視新聞）"
+    },
+    {
+      "id": "5054125",
+      "time": "2026-08-24 08:42:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國# 韓華集團擬斥資4150億韓元加碼美國防務市場佈局】據報道，韓華集團計劃向其美國子公司投資約 4150 億韓元，這家韓國綜合企業希望擴大在全球最大防務市場的業務佈局。韓華將參與旗下美國防務子公司韓華防務美國以及戰略投資主體韓華 Futureproof 的股份發售。韓華航空航天將向全資子公司韓華防務美國的增資專案投入約 1.49 億美元。"
+    },
+    {
+      "id": "te:markets:577396",
+      "time": "2026-08-24 08:42:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Hovers Near 3-Month High — Gold traded around $4,600 an ounce on Monday, holding near its highest level since mid-May, as concerns over US debt management and fiscal sustainability persisted after the Treasury unexpectedly ramped up buybacks of longer-dated government debt. The intervention pushed bond yields and the dollar lower, reviving the so-called debasement trade and strengthening demand for gold as an alternative store of value. Treasury Secretary Scott Bessent has signaled that further buybacks could follow and said the administration plans to soon introduce measures aimed at tackling borrowing costs, which are at their highest levels in years. Meanwhile, oil prices slipped but remained elevated, which could curb further gains by fueling inflation and dampening expectations for interest-rate cuts. Markets now await the US announcement on additional sanctions against Iran. Gold has gained about 13% so far this month."
+    },
     {
       "id": "5054124",
       "time": "2026-08-24 08:40:55",
@@ -65,6 +268,14 @@
         "觀點"
       ],
       "text": "【中信證券：AI算力驅動散熱升級 建議把握兩條投資主線】中信證券研報認為，AI算力需求增長與先進封裝演進持續推升晶片功耗和熱流密度，推動TIM向高導熱、低熱阻和高可靠性升級。AI伺服器與新能源汽車將成為主要增量來源，預計全球TIM市場規模將由2025年的96.7億元增至2030年的221.2億元。海外廠商憑藉配方積累、量產經驗和客戶認證佔據中高階市場，國內企業正依託本土晶片、封測及終端產業鏈加快產品匯入。建議把握兩條投資主線：（1）晶片級TIM國產突破，關注德邦科技；（2）電子級有機矽材料升級及熱管理應用拓展，關注潤禾材料。"
+    },
+    {
+      "id": "5054116",
+      "time": "2026-08-24 08:34:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【有銀行罕見拉平定存利率：一年期及以上統一1.65%】近日，上海松江富明村鎮銀行一則人民幣存款利率調整公告引發市場關注。 公告顯示，自8月21日起，該行兩年期、三年期整存整取利率分別在原有基礎上下調10個基點（BP）。這一調整，使得其一年期以上存款利率直降至一年期水平，兩年、三年與一年期存款利率罕見“並軌”，齊步定格在1.65%。 “這種情況屬於業內倒掛現象的極端化延伸。”中國企業資本聯盟副理事長柏文喜對記者表示。在他看來，未來直接拉平一年、兩年、三年期存款利率只是少數機構的選擇，但不容忽視的是，期限溢價持續收窄仍是大方向。（每經）"
     },
     {
       "id": "5054115",
