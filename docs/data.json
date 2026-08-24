@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-24 09:18:29",
-  "count": 15784,
+  "updated": "2026-08-24 09:22:55",
+  "count": 15782,
   "items": [
+    {
+      "id": "5054191",
+      "time": "2026-08-24 09:21:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "阿里巴巴港股開盤跌超8%。"
+    },
+    {
+      "id": "5054190",
+      "time": "2026-08-24 09:21:04",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "中國央行：今日開展3400億元7天逆回購操作，投標量3400億元，中標量3400億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5054189",
+      "time": "2026-08-24 09:21:03",
+      "tags": [],
+      "text": "港股恒指低開跌0.88％，國企指數跌0.98％，恒生科技指數跌1.11%；阿里巴巴跌8.05%。"
+    },
+    {
+      "id": "5054188",
+      "time": "2026-08-24 09:20:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5624.00元。"
+    },
+    {
+      "id": "5054187",
+      "time": "2026-08-24 09:19:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股復牌提示：4股今日復牌】8月24日，海鷗住工、中南文化、華陽集團等4只個股復牌。"
+    },
+    {
+      "id": "5054186",
+      "time": "2026-08-24 09:18:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌3%，現報3734.00元。"
+    },
+    {
+      "id": "5054185",
+      "time": "2026-08-24 09:18:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印尼魯滕東北方向 61 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "5054184",
+      "time": "2026-08-24 09:18:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股停牌提示：6股今日停牌】8月24日，瓦軸B、湖南黃金、建設機械等6只個股停牌。"
+    },
     {
       "id": "5054183",
       "time": "2026-08-24 09:17:19",
@@ -144079,111 +144145,6 @@
         "中國央行"
       ],
       "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月17日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "mkt:01a00d50-6b5e-7aab-9052-eea6ca810250",
-      "time": "2026-08-17 09:22:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【PBOC skips reverse repos; net open-market liquidity withdrawal CNY367 bln】PBOC did not conduct reverse-repo operations today. CNY18 bln of 7-day and CNY349 bln of overnight reverse repos matured, resulting in a net open-market liquidity withdrawal of CNY367 bln."
-    },
-    {
-      "id": "5043174",
-      "time": "2026-08-17 09:21:53",
-      "tags": [
-        "央行"
-      ],
-      "text": "中國央行：根據公開市場業務一級交易商的需求，2026年8月17日7天期逆回購操作量為零。"
-    },
-    {
-      "id": "mkt:01a00d4f-92f2-7aab-9052-e33ff8d4854b",
-      "time": "2026-08-17 09:21:53",
-      "tags": [
-        "MKT News",
-        "CNH"
-      ],
-      "text": "PBOC said that, based on primary dealers' demand in open-market operations, it will conduct no 7-day reverse repo on Aug. 17, 2026."
-    },
-    {
-      "id": "mkt:01a00d4f-0b9e-7aab-9052-dc1cfba22b3b",
-      "time": "2026-08-17 09:21:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "At the open on Monday Aug 17, Hong Kong's Hang Seng Index (HSI) rose 186.56 points (+0.74%) to 25,303.41; the Hang Seng TECH Index gained 53.58 points (+1.14%) to 4,761.20; the Hang Seng China Enterprises Index (HSCEI) added 71.04 points (+0.85%) to 8,411.87; the Hang Seng Red Chip Index was up 18.92 points (+0.46%) at 4,151.61."
-    },
-    {
-      "id": "mkt:01a00d4f-008b-7aab-9052-d70dd15d1936",
-      "time": "2026-08-17 09:21:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "JD.com",
-        "Hang Seng Index",
-        "Impact bullish",
-        "00020.HK",
-        "09618.HK"
-      ],
-      "text": "Hong Kong shares opened higher: the Hang Seng rose 0.74% and the Hang Seng TECH index gained 1.14% at the open. Gold and semiconductor stocks were broadly higher. SenseTime (00020.HK) jumped more than 7%; JD.com (09618.HK) rose over 3%."
-    },
-    {
-      "id": "5043173",
-      "time": "2026-08-17 09:20:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破66美元/盎司，日內漲2.06%。"
-    },
-    {
-      "id": "5043172",
-      "time": "2026-08-17 09:19:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報65.98美元/盎司。"
-    },
-    {
-      "id": "mkt:01a00d4c-dbe8-7aab-9052-caa1787a5dbf",
-      "time": "2026-08-17 09:18:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver rose 2.00% intraday to $65.96/oz."
-    },
-    {
-      "id": "5043171",
-      "time": "2026-08-17 09:18:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科達利：當前大部分生產基地基本滿產 預計下半年有望延續向好態勢】科達利8月14日在業績說明會上表示，公司上半年經營狀況良好，結合客戶端交付規劃，當前大部分生產基地基本滿產，預計下半年有望延續向好態勢。展望明年，鋰電池行業前景保持樂觀，有望帶動精密結構件需求持續釋放。"
-    },
-    {
-      "id": "mkt:01a00d4c-a454-7aab-9052-c1950e11852b",
-      "time": "2026-08-17 09:18:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kedali: Most plants near full capacity; expects H2 improvement to continue】At an Aug. 14 earnings briefing, Kedali said H1 operations were solid and, given client delivery schedules, most production bases are now near full capacity. The company expects the improving trend to continue in H2. Looking to next year, Kedali said the lithium‑battery industry outlook remains positive and should sustain demand for precision structural components."
     }
   ]
 }
