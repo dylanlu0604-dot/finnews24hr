@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-25 02:52:57",
-  "count": 15822,
+  "updated": "2026-08-25 02:57:15",
+  "count": 15821,
   "items": [
+    {
+      "id": "5056129",
+      "time": "2026-08-25 02:55:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "Mistral 與 Humain 宣佈開展戰略合作，助力沙烏地阿拉伯及中東地區發展主權人工智慧。"
+    },
+    {
+      "id": "te:markets:577687",
+      "time": "2026-08-25 02:54:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Near Three-Month Low as Risks Persist — The dollar index edged up to 99.0 on Monday but remained near three-month lows after its third weekly decline in four. The greenback stayed under pressure following the US Treasury’s decision to double buyback operations for longer-dated bonds, with reports suggesting Secretary Scott Bessent could use nearly $1 trillion from the Treasury’s General Account to help fund them. Meanwhile, trade tensions with Canada intensified after Washington imposed 50% tariffs on Canadian goods, with Ottawa pledging dollar-for-dollar retaliation. President Donald Trump also said tariffs on cars, trucks, auto parts and steel would rise to 50% from January 1, 2027. On the geopolitical front, the US expanded secondary sanctions targeting entities and countries maintaining business ties with Iran. Bessent warned that a major financial institution could be sanctioned this week and suggested China would not be exempt."
+    },
     {
       "id": "mkt:01a0351c-a299-7aab-90fe-52a7715f456b",
       "time": "2026-08-25 02:51:04",
@@ -143406,35 +143426,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.28%，報25352.93點，低水100.30點。"
-    },
-    {
-      "id": "5044727",
-      "time": "2026-08-18 02:55:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特表示，美國政府將在未來幾日公佈若干舉措，助力煉油企業提高燃料產量。"
-    },
-    {
-      "id": "mkt:01a01114-81ad-7aab-9068-7c462f53e6ab",
-      "time": "2026-08-18 02:55:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said the U.S. Strategic Petroleum Reserve still holds 300 mln barrels and will be higher than pre-conflict levels once the Iran conflict ends."
-    },
-    {
-      "id": "5044726",
-      "time": "2026-08-18 02:54:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特表示，（美國）戰略石油儲備目前仍保有3億桶庫存，伊朗衝突結束後，其儲備量將高於衝突前水平。"
     }
   ]
 }
