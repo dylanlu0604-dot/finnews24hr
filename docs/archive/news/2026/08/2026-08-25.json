@@ -1,7 +1,39 @@
 {
   "date": "2026-08-25",
-  "count": 235,
+  "count": 239,
   "items": [
+    {
+      "id": "5056149",
+      "time": "2026-08-25 03:29:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：亞馬遜自動化倉庫專案預估投資超5.3億美元。"
+    },
+    {
+      "id": "5056148",
+      "time": "2026-08-25 03:28:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：亞馬遜計劃新建自動化倉庫，旨在實現配送站自動化。"
+    },
+    {
+      "id": "5056147",
+      "time": "2026-08-25 03:27:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯稱，委內瑞拉與巴貝多簽署包括能源協議在內的多項合作協議。"
+    },
+    {
+      "id": "mkt:01a0353d-3d3e-7aab-90fe-c243ab7242da",
+      "time": "2026-08-25 03:26:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Army chief of staff Munir said diplomatic progress must undergo careful discussion and review to advance shared interests and ultimately reach a comprehensive agreement."
+    },
     {
       "id": "mkt:01a0353c-4e38-7aab-90fe-bec43ccd9487",
       "time": "2026-08-25 03:25:39",
