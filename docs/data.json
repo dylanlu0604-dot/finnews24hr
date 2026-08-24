@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-25 05:15:00",
-  "count": 15857,
+  "updated": "2026-08-25 05:19:04",
+  "count": 15859,
   "items": [
+    {
+      "id": "5056201",
+      "time": "2026-08-25 05:18:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通、桑坦德銀行牽頭為阿根廷液化天然氣專案提供最高150億美元融資。"
+    },
+    {
+      "id": "mkt:01a035a2-907e-7aab-90ff-da9a3d5db076",
+      "time": "2026-08-25 05:17:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry says US threat of new sanctions violates international law】Aug 24 — Iran foreign ministry spokesman BAGHAEI said US threats to impose a new round of sanctions against Iran would \"seriously violate international law.\" He said Iran has the right to strike all sources of aggression. BAGHAEI said Tehran views current domestic economic pressure and business distress as part of decades-long US pressure on the Iranian people and that the government has assessed the situation and is taking all measures to counter economic sanctions. He criticised Washington calling the measures an \"economic war,\" saying it showed disregard for free trade and state sovereignty."
+    },
+    {
+      "id": "mkt:01a035a1-374a-7aab-90ff-d48616029efb",
+      "time": "2026-08-25 05:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Supreme Court allows Trump to press mail‑voting restrictions】The U.S. Supreme Court on Monday granted the Justice Department's emergency request to stay a lower-court injunction that had blocked Trump's March executive order limiting mail voting in 23 Democratic‑run states and Washington, D.C., clearing a path for the administration to pursue the measures while other judicial constraints remain. The order directs agencies to compile citizenship lists, prioritize prosecutions of officials who send ballots to ineligible voters, and restrict USPS delivery of ballots to qualified voters. A Boston federal judge had ruled in June the president lacks authority to alter state election administration; DOJ argued the lawsuits were premature. Trump has long questioned mail‑voting security and pledged to end the practice; because Democrats use mail ballots at higher rates, the restrictions could advantage Republicans. Further legal challenges are expected ahead of the midterms."
+    },
+    {
+      "id": "5056199",
+      "time": "2026-08-25 05:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：美威脅對伊發起新一輪制裁違反國際法】8月24日，伊朗外交部發言人巴加埃就地區問題、伊美關係等熱點議題舉行新聞釋出會。巴加埃強調，伊朗有權對所有侵略的源頭實施打擊，此外，美國威脅對伊朗發起新一輪制裁嚴重違反國際法。（央視新聞）"
+    },
     {
       "id": "5056198",
       "time": "2026-08-25 05:11:36",
@@ -143706,25 +143738,6 @@
         "公司"
       ],
       "text": "勘探生產部門主管表示，巴西國家石油公司（Petrobras） 在亞馬遜河口鑽井發現的石油前景十分可觀，但仍需開展進一步分析。"
-    },
-    {
-      "id": "mkt:01a01195-c845-7aab-9069-b90574c50e86",
-      "time": "2026-08-18 05:17:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PETR4.SA"
-      ],
-      "text": "Petrobras top executive said drilling at the mouth of the Amazon has cost about $300 mln to date."
-    },
-    {
-      "id": "5044771",
-      "time": "2026-08-18 05:15:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.23%，報15131點。"
     }
   ]
 }
