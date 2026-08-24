@@ -1,7 +1,97 @@
 {
   "date": "2026-08-24",
-  "count": 817,
+  "count": 827,
   "items": [
+    {
+      "id": "5054674",
+      "time": "2026-08-24 14:31:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數收盤下跌0.7%，報65528.09點。"
+    },
+    {
+      "id": "5054673",
+      "time": "2026-08-24 14:30:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【新國標為小微型企業量身打造安全生產“極簡實用”管理體系】記者瞭解到，市場監管總局（國家標準委）近日批准釋出《小微型企業安全生產標準化管理體系要求》國家標準，將自9月1日起實施。新國標緊密結合小微型企業特點和實際，借鑑企業可持續發展（SCORE）專案等先進經驗，為我國小微型企業安全生產工作提供了可借鑑的、系統化的基本管理框架，實現“他律”向“自律”轉變。（央視新聞）"
+    },
+    {
+      "id": "te:markets:577505",
+      "time": "2026-08-24 14:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.60% Lower — The Nikkei 225 Index decreased 393 points or 0.60 percent on Monday to close at 65623 points. The decline was led by Mercari Inc (-5.48%), Furukawa Electric (-5.29%) and Fujikura (-5.17%). On the upside, the strongest performers were Hitachi Construction Machinery (6.57%), Sumitomo Metal Mining (6.13%) and Furukawa (5.17%)."
+    },
+    {
+      "id": "5054672",
+      "time": "2026-08-24 14:29:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東肥城：無處方箋違規銷售購買處方獸藥 2家門店被立案調查】媒體報道肥城市厚朴農牧等兩家獸藥經營門店及個別養殖戶無處方箋違規銷售、購買處方獸藥問題，肥城市委市政府高度重視，立即成立聯合調查組連夜開展執法檢查，現已對涉事兩家門店購銷經營臺賬和留存處方箋當場封存，依法立案調查。"
+    },
+    {
+      "id": "5054671",
+      "time": "2026-08-24 14:29:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國政府：正努力恢復燃油援助。"
+    },
+    {
+      "id": "5054670",
+      "time": "2026-08-24 14:29:15",
+      "tags": [
+        "公司",
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【阿里配售獲近3倍超額認購 主權和長線基金最終認購比例超40%】8月24日，阿里巴巴宣佈完成800億港元（約102億美元）新股配售定價，配售所得款項淨額將100%用於投資全棧AI能力，加強AI基礎設施建設。據接近交易的訊息人士稱，本次配售獲近3倍超額認購，超2000億港元。主權和長線基金最終認購比例超40%。（上證報）"
+    },
+    {
+      "id": "te:markets:577504",
+      "time": "2026-08-24 14:27:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Coal Rises to 3-Week High — Coal prices rose above $131 per ton in late August, reaching their highest level since early August, amid firm Asian energy demand and ongoing supply risks. China’s latest stimulus signals could offer some additional support, as measures aimed at boosting domestic demand and accelerating infrastructure investment may help strengthen industrial activity and electricity consumption. A more sustained recovery in economic activity could, in turn, support power generation and coal demand. Meanwhile, Japan’s power prices have climbed to their highest level since 2023 as a heatwave drives higher cooling demand, potentially lifting thermal generation and providing some support to coal demand. The outlook will ultimately depend on power demand, generation levels, coal inventories, and broader supply conditions."
+    },
+    {
+      "id": "5054668",
+      "time": "2026-08-24 14:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓正會見科威特外交大臣傑拉赫】8月24日，國家副主席韓正在北京會見科威特外交大臣傑拉赫。韓正表示，中國和科威特傳統友誼深厚。近年來，在習近平主席和米沙勒埃米爾戰略引領下，中科關係保持良好發展勢頭，各領域交流合作不斷取得進展。今年是中科建交55週年，中方願同科方共同落實兩國元首重要共識，夯實政治互信，拓展務實合作，密切多邊協作，推動中科戰略伙伴關係邁上更高水平。中方願繼續勸和促談，為早日恢復中東地區和平安寧作出努力。（新華社）"
+    },
+    {
+      "id": "5054666",
+      "time": "2026-08-24 14:25:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "【東京二手公寓價格連續三月下跌，釋放市場調整訊號】7月東京核心區二手公寓價格連續第三個月走低，部分專家認為市場已經進入調整階段。據東京Kantei（東京建物）資料，東京六大核心區均價為1.8195億日元，較6月下跌1.7%。今年早些時候東京房價創下歷史新高，超越上世紀80年代末至90年代初資產泡沫時期的峰值，此後房價開始回落。"
+    },
+    {
+      "id": "5054665",
+      "time": "2026-08-24 14:24:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【橡鹿機器人連發三款新品，讓機器人“看見”並“理解烹飪”】2026世界機器人大會（WRC）期間，橡鹿機器人（北京）有限公司（簡稱“橡鹿機器人”）釋出多模態烹飪AI基座CookingMuse廚啟、3K視覺AI炒菜機器人和具身烹飪機器人“現炒方舟”三款新品，完整呈現了AI進入廚房、解決真實問題的技術路徑。（新浪科技）"
+    },
     {
       "id": "te:economy:577503",
       "time": "2026-08-24 14:22:48",
