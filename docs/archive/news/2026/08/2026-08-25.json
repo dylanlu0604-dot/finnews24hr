@@ -1,7 +1,42 @@
 {
   "date": "2026-08-25",
-  "count": 350,
+  "count": 354,
   "items": [
+    {
+      "id": "5056219",
+      "time": "2026-08-25 06:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國提議協助化肥經霍爾木茲海峽過境運輸。"
+    },
+    {
+      "id": "5056218",
+      "time": "2026-08-25 06:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國宣佈正式撤銷敘利亞“支恐國家”認定】美國國務卿魯比奧24日發表宣告說，他當天批准正式撤銷美國對敘利亞為“支援恐怖主義國家”的認定。敘利亞過渡政府對美方這一決定表示歡迎。（新華社）"
+    },
+    {
+      "id": "te:markets:577696",
+      "time": "2026-08-25 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Canadian Dollar Depreciates by 0.62% — Top currency losers are Canadian Dollar (-0.62%), New Zealand Dollar (-0.36%), Brazilian Real (-0.35%), Euro (-0.13%), Japanese Yen (-0.07%) and British Pound (-0.07%). Gains are led by South Korean Won (0.31%) and Dollar Index (0.19%)."
+    },
+    {
+      "id": "5056217",
+      "time": "2026-08-25 06:15:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本考慮廢除股票交易單位制度（按整手買賣）。"
+    },
     {
       "id": "5056216",
       "time": "2026-08-25 06:13:03",
