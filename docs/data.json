@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-24 23:01:17",
-  "count": 15825,
+  "updated": "2026-08-24 23:05:33",
+  "count": 15827,
   "items": [
+    {
+      "id": "mkt:01a0344d-0ce6-7aab-90fa-7553b32ebcfd",
+      "time": "2026-08-24 23:04:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA's Groq 3 LPX output speed reaches 3,400 tokens per second."
+    },
+    {
+      "id": "mkt:01a0344c-9606-7aab-90fa-695d4e2761b6",
+      "time": "2026-08-24 23:03:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA says SpaceXAI will expand GROK on the Vera Rubin platform."
+    },
+    {
+      "id": "mkt:01a0344b-d480-7aab-90fa-603231840f44",
+      "time": "2026-08-24 23:02:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceXAI will adopt NVIDIA's Vera CPU to accelerate large-scale agent AI."
+    },
+    {
+      "id": "5055994",
+      "time": "2026-08-24 23:02:36",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceXAI採用英偉達Vera CPU來加速Agentic AI。英偉達旗下AI推理加速器Groq 3 LPX已全面投入生產。"
+    },
+    {
+      "id": "mkt:01a0344b-39b1-7aab-90fa-5a3f26901d76",
+      "time": "2026-08-24 23:02:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HKEX filings show Shanghai Yixin Communication Technology Co., Ltd. has submitted a listing application."
+    },
+    {
+      "id": "mkt:01a0344a-c2f3-7aab-90fa-51fe61c81b2e",
+      "time": "2026-08-24 23:01:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources: NVIDIA's AI inference accelerator Groq 3 LPX has entered full production."
+    },
+    {
+      "id": "5055993",
+      "time": "2026-08-24 23:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：SpaceXAI 將藉助英偉達 Vera Rubin NVL72 系統發射Starmind人工智慧衛星。"
+    },
     {
       "id": "mkt:01a03449-abe7-7aab-90fa-4ad1bb60d365",
       "time": "2026-08-24 23:00:38",
@@ -143348,49 +143436,6 @@
         "其他"
       ],
       "text": "【多部門發文進一步保障農業灌溉用水安全】生態環境部會同工業和資訊化部、農業農村部等部門近日聯合印發通知，進一步加強工業、畜禽養殖等企業汙水汙染風險防範，保障農業灌溉用水安全。 生態環境部水生態環境司有關負責人17日介紹，近年來，一些工業企業及園區、畜禽養殖場等與農田相鄰，汙水排放管控不到位，農業灌溉用水安全隱患不容忽視。此次印發的通知以保障農業灌溉用水安全為核心，以源頭預防、過程把控、末端監管為主線，推動構建跨部門、全週期的風險防控體系。（新華社）"
-    },
-    {
-      "id": "5044563",
-      "time": "2026-08-17 23:05:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱襲擊了烏克蘭港口的兩艘貨船。"
-    },
-    {
-      "id": "5044562",
-      "time": "2026-08-17 23:05:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月13日當週大豆出口檢驗量270201噸（前值399201噸），玉米出口檢驗量191.1萬噸（前值174.0萬噸），小麥出口檢驗量493401噸（前值421277噸）。"
-    },
-    {
-      "id": "mkt:01a01040-d22c-7aab-9065-357fe7136824",
-      "time": "2026-08-17 23:04:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "RIA reported Russia said it struck two cargo ships at a Ukrainian port."
-    },
-    {
-      "id": "5044561",
-      "time": "2026-08-17 23:04:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【荷蘭報告一例本土西尼羅病毒感染病例】荷蘭國家公共衛生與環境研究所17日通報，近日從一名獻血者的血液內檢測出西尼羅病毒，這是該國2020年以來首例確診的本土感染病例。(新華社)"
-    },
-    {
-      "id": "mkt:01a0103f-ca65-7aab-9065-2c0ba028f508",
-      "time": "2026-08-17 23:03:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS reports a magnitude 5.0 earthquake 32 km north of Ruteng, Indonesia."
     }
   ]
 }
