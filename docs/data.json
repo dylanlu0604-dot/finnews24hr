@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-25 02:48:48",
-  "count": 15821,
+  "updated": "2026-08-25 02:52:57",
+  "count": 15822,
   "items": [
+    {
+      "id": "mkt:01a0351c-a299-7aab-90fe-52a7715f456b",
+      "time": "2026-08-25 02:51:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $92.17/bbl, down $2.22 (-2.35%)."
+    },
+    {
+      "id": "mkt:01a0351c-8cd2-7aab-90fe-4b660de048c2",
+      "time": "2026-08-25 02:50:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Iran's economy minister said Tehran is fully prepared for a new round of U.S. economic pressure and that cutting off Iran's financial and commercial lifelines would not be easy."
+    },
+    {
+      "id": "5056128",
+      "time": "2026-08-25 02:48:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：切斷（我方）金融與商業命脈並非易事。"
+    },
     {
       "id": "5056127",
       "time": "2026-08-25 02:48:08",
@@ -143405,27 +143435,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特表示，（美國）戰略石油儲備目前仍保有3億桶庫存，伊朗衝突結束後，其儲備量將高於衝突前水平。"
-    },
-    {
-      "id": "mkt:01a01111-8978-7aab-9068-700909d0178e",
-      "time": "2026-08-18 02:52:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said the government will announce measures in the coming days to help refineries boost fuel production."
-    },
-    {
-      "id": "5044725",
-      "time": "2026-08-18 02:48:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶90.87美元，上漲2.35美元，漲幅2.65%。"
     }
   ]
 }

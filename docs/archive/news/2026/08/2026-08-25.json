@@ -1,7 +1,37 @@
 {
   "date": "2026-08-25",
-  "count": 198,
+  "count": 201,
   "items": [
+    {
+      "id": "mkt:01a0351c-a299-7aab-90fe-52a7715f456b",
+      "time": "2026-08-25 02:51:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $92.17/bbl, down $2.22 (-2.35%)."
+    },
+    {
+      "id": "mkt:01a0351c-8cd2-7aab-90fe-4b660de048c2",
+      "time": "2026-08-25 02:50:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Iran's economy minister said Tehran is fully prepared for a new round of U.S. economic pressure and that cutting off Iran's financial and commercial lifelines would not be easy."
+    },
+    {
+      "id": "5056128",
+      "time": "2026-08-25 02:48:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：切斷（我方）金融與商業命脈並非易事。"
+    },
     {
       "id": "5056127",
       "time": "2026-08-25 02:48:08",
