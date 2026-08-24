@@ -1,7 +1,61 @@
 {
   "date": "2026-08-25",
-  "count": 364,
+  "count": 369,
   "items": [
+    {
+      "id": "5056226",
+      "time": "2026-08-25 06:41:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本計劃2027財年國債利息支出達到創紀錄的16.6萬億日元（合1043 億美元）。"
+    },
+    {
+      "id": "mkt:01a035ef-8403-7aab-9100-3b129957b70a",
+      "time": "2026-08-25 06:41:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Australia's South32 said its fourth grinding line at Sierra Gorda will lift copper production by about 30% from 2031."
+    },
+    {
+      "id": "mkt:01a035ef-801a-7aab-9100-3570b071af45",
+      "time": "2026-08-25 06:41:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish",
+        "S32.AX",
+        "Impact bullish"
+      ],
+      "text": "Australian miner South32 said it expects the Sierra Gorda deposit to be an important source of copper over the coming decades."
+    },
+    {
+      "id": "te:markets:577699",
+      "time": "2026-08-25 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Rallies by 5.93% — Top commodity gainers are Coffee (5.93%) and Corn (1.30%). Biggest losers are Canola (-3.40%), Rapeseed (-3.16%) and Cocoa (-1.74%)."
+    },
+    {
+      "id": "5056225",
+      "time": "2026-08-25 06:40:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大將於週二公佈針對美國的報復性關稅。"
+    },
     {
       "id": "mkt:01a035eb-8dc7-7aab-9100-2a1a7c0c9fd5",
       "time": "2026-08-25 06:37:04",
