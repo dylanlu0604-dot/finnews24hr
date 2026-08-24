@@ -1,7 +1,101 @@
 {
   "date": "2026-08-24",
-  "count": 843,
+  "count": 854,
   "items": [
+    {
+      "id": "5054698",
+      "time": "2026-08-24 14:57:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博主曝料甲醛白菜事件後漲粉23萬】據媒體報道，近日，博主“漁獵齊哥”釋出影片稱，在河北張家口市康保縣屯墾鎮，隨機挑選多個大白菜裝載掛車，均存在裝車前蘸取甲醛溶液用於保鮮的情況。第三方資料顯示，漁獵齊哥影片賬號近30日漲粉33.2萬，曝光甲醛白菜事件後漲粉超23萬。天眼查App顯示，漁獵齊哥影片賬號關聯公司武漢三個魚科技有限公司成立於2026年3月，餘子齊（即博主“漁獵齊哥”）為法定代表人並全資持股該公司，註冊資本5萬人民幣，經營範圍包含物聯網技術服務、物聯網應用服務、網際網路銷售等。"
+    },
+    {
+      "id": "5054697",
+      "time": "2026-08-24 14:55:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影 《歡迎來龍餐館》 上映14天， 總票房破16億。"
+    },
+    {
+      "id": "5054696",
+      "time": "2026-08-24 14:55:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其兩年期國債收益率下跌52個基點至40.33%。"
+    },
+    {
+      "id": "5054695",
+      "time": "2026-08-24 14:53:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新易盛成交額達200億元】8月24日下午，新易盛成交額達200億元，現跌6.66%。"
+    },
+    {
+      "id": "5054694",
+      "time": "2026-08-24 14:52:40",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通策略師：全球股市年底前將緩步上行】摩根大通策略師表示，全球股市在年底前大機率小幅走高，不會出現大幅反彈行情。 法比奧·巴西領銜的團隊稱，半導體板塊反彈，代表風險偏好出現戰術性“修復”。 團隊在研報中寫道：“美聯儲保持政策耐心抑制了市場波動，我們認為倉位水平與板塊分化將主導下一階段行情。” 看多優質成長股與超大規模雲服務商，同時也看好半導體板塊。 儘管近期債券市場波動加劇，但策略師預計期限溢價僅會溫和上行，不會觸發大範圍避險拋售。"
+    },
+    {
+      "id": "te:markets:577513",
+      "time": "2026-08-24 14:50:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Bounces Back on Miners, Ampol Surge — The ASX 200 rose 44 points, or 0.5%, to end at 9,103 on Monday, rebounding from prior losses as non-energy minerals, manufacturing, consumer services, and logistics led gains. Traders looked past softer U.S. stock futures, turning attention to Fed Chair Warsh’s upcoming Jackson Hole remarks for rate signals amid elevated oil prices and multi-decade highs in global bond yields. Locally, focus shifted to Australia’s July inflation print due Wednesday, after June's readings eased to 3.8% from the prior 4%. Fuel retailer Ampol surged 4.3% to a two-year high as refining margins linked to Middle East supply disruptions boosted earnings nearly five-fold. Miners also advanced, with BHP up 3.0% and Rio Tinto 1.2% on strong copper prices. Higher bullion lifted Northern Star Resources (1.7%) and Evolution Mining (2.5%). In contrast, energy lagged, with Santos down 1.8% and Woodside off 0.9%. The big four banks fell between 0.3% and 0.7%, and Endeavour Group tumbled 4.7% after a sharp profit drop."
+    },
+    {
+      "id": "5054693",
+      "time": "2026-08-24 14:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：（駁斥前以色列總理貝內特關於伊朗軍事力量被瓦解的說法）為了對付伊朗，美國卻需要發起“史上最大規模的金融攻擊”，並動員“美國所有機構和部門”？這究竟是勝利，還是對失敗的苦澀承認！？"
+    },
+    {
+      "id": "5054692",
+      "time": "2026-08-24 14:48:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股晶片股集體下挫 中芯國際跌8%】港股市場晶片股集體下挫，天數智芯跌超10%，中芯國際跌8%，英諾賽科、瀾起科技跌7%，宏光半導體、上海復旦跌超6%，兆易創新、華虹宏力跌超5%。"
+    },
+    {
+      "id": "5054691",
+      "time": "2026-08-24 14:47:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國內華達州野火系“人為因素”引發】美國消防部門官員23日通報，在內華達州里諾市西北部迅速蔓延的野火系“人為因素”引發，不過暫不清楚火災起因是無心之失還是蓄意縱火。目前，這場野火的過火面積超過60平方公里，火勢依然未受控制，當局敦促約9萬人緊急撤離。據美政府官員通報，野火始於22日，因持續大風和乾燥天氣而快速蔓延，波及靠近加利福尼亞州的洪堡-託伊亞比國家森林，直抵內華達大學校區邊緣，並導致連線南北的395號高速公路部分路段關閉。火災還導致大面積停電，高峰時期近6萬戶斷電，目前仍有約1萬戶未恢復。（新華社）"
+    },
+    {
+      "id": "5054690",
+      "time": "2026-08-24 14:46:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐巴布亞紐幾內亞使館：提醒中國公民和機構注意消防安全】據媒體報道，8月24日凌晨，巴新新愛爾蘭省卡維恩當地華人商鋪遭遇火災，造成人員傷亡和經濟損失。近期巴新天氣乾旱，火災風險較前增大。中國駐巴布亞紐幾內亞使館提醒中國公民和機構增強風險防範意識，嚴格排查隱患，提高自我保護能力和消防應急處置能力。"
+    },
+    {
+      "id": "5054689",
+      "time": "2026-08-24 14:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國總理承諾不會提議提高稅收。"
+    },
     {
       "id": "5054688",
       "time": "2026-08-24 14:39:15",
