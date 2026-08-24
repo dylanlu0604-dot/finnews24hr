@@ -1,7 +1,63 @@
 {
   "date": "2026-08-25",
-  "count": 318,
+  "count": 324,
   "items": [
+    {
+      "id": "5056196",
+      "time": "2026-08-25 05:08:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美官員稱美政府正準備撤銷多達20萬個商務和旅遊簽證】美政府正準備撤銷多達20萬名外國人的商務和旅遊簽證，這些外國人曾在美國申請或目前正在尋求庇護身份。如果實施，此舉將成為美國歷史上規模最大的一次性簽證集體撤銷行動，並可能面臨法律挑戰。據被曝光的美國務院檔案及兩名美國官員透露，除非受到法律挑戰或計劃有所修改，否則國務院預計將在未來幾周內宣佈撤銷那些在2016年至2026年間簽發且持有人曾尋求或正在尋求庇護的所謂B1和B2類簽證。這項行動將與國土安全部協同進行。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0359a-5e8e-7aab-90ff-cee3f4e5bd03",
+      "time": "2026-08-25 05:08:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: smart-ring maker Oura plans to raise up to $3 billion in an IPO."
+    },
+    {
+      "id": "5056195",
+      "time": "2026-08-25 05:08:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【SpaceX AI為Grok Build新增Browser‑Use瀏覽器外掛】SpaceX AI剛剛為Grok Build新增功能強大的Browser Use外掛。該外掛讓Grok可以呼叫真實瀏覽器，既可以使用使用者本機已儲存登入狀態的Chrome瀏覽器，也可以呼叫隔離的Browser Use雲端瀏覽器。現在Grok Build能夠瀏覽網頁、抓取提取資料、填寫表單、測試網頁應用、擷取螢幕截圖，還可以完成整套網頁自動化工作流。同時支援透過uvx在本地執行，如果呼叫本地Chrome，無需提供API金鑰。"
+    },
+    {
+      "id": "5056194",
+      "time": "2026-08-25 05:06:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "智慧戒指廠商Oura計劃透過IPO最多募資30億美元，目標估值超過160億美元。"
+    },
+    {
+      "id": "te:economy:577695",
+      "time": "2026-08-25 05:06:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Consumer Sentiment Falls in August — South Korea’s Composite Consumer Sentiment Index fell 2.3 points to 104.5 in August 2026 from the previous month. Consumer sentiment regarding current living standards declined one point to 92, while sentiment about the future outlook fell one point to 97. Sentiment regarding future household income dropped one point to 100, while that concerning future household spending declined one point to 109. Consumer sentiment about current domestic economic conditions fell five points to 79, while sentiment regarding future domestic economic conditions declined three points to 89. Expected inflation over the next year was 2.7%, while three- and five-year inflation expectations were both 2.6%."
+    },
+    {
+      "id": "5056193",
+      "time": "2026-08-25 05:06:15",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美宣佈對伊朗實施“經濟孤立”新措施加大施壓】美國財政部長貝森特24日下午召開新聞釋出會，宣佈美國當日發起對伊朗“經濟孤立”的新一輪制裁措施，以進一步加大對伊施壓。據美財政部外國資產控制辦公室24日釋出的公告，美國從當日起把對伊朗經濟制裁範圍擴大到航空、數字資產、黃金、航運和技術行業等5個領域。公告稱，美國還將暫停多項涉伊朗的許可，涉及部分教育活動和服務、個人匯款、體育和學術交流等。此外，約60個伊朗相關實體、個人和船隻被列入制裁清單，覆蓋核與導彈技術、網路行動、石油貿易等。（新華社）"
+    },
     {
       "id": "5056192",
       "time": "2026-08-25 05:05:51",
