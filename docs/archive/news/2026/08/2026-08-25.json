@@ -1,7 +1,37 @@
 {
   "date": "2026-08-25",
-  "count": 357,
+  "count": 360,
   "items": [
+    {
+      "id": "5056223",
+      "time": "2026-08-25 06:27:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺8月25日06時繼續釋出颱風黃色預警。"
+    },
+    {
+      "id": "mkt:01a035e2-6c3d-7aab-9100-24d83c16ff78",
+      "time": "2026-08-25 06:27:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【OECD: G7 Q2 growth slows to 0.3%】Aug 24 — The OECD said preliminary data show GDP for OECD members rose 0.5% QoQ in Q2 2026, up from 0.4% in Q1. G7 GDP slowed to 0.3% QoQ in Q2 from 0.4% in Q1. Germany and Italy each grew 0.2% QoQ; Japan 0.3%; the UK and US 0.4%. Canada accelerated to 0.8% from 0.0%; France moved from -0.1% to 0.2%. Of 30 OECD members with data, 27 posted QoQ growth and three were flat. OECD-member GDP rose 2.3% YoY in Q2 versus 1.7% in Q1."
+    },
+    {
+      "id": "5056222",
+      "time": "2026-08-25 06:25:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車與工會達成臨時薪資協議。"
+    },
     {
       "id": "5056221",
       "time": "2026-08-25 06:25:16",
