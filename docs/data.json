@@ -1,7 +1,100 @@
 {
-  "updated": "2026-08-25 01:24:24",
-  "count": 15846,
+  "updated": "2026-08-25 01:28:27",
+  "count": 15851,
   "items": [
+    {
+      "id": "5056102",
+      "time": "2026-08-25 01:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理稱伊朗企圖暗殺其子】當地時間8月24日晚，以色列總理內塔尼亞胡在接受第14頻道電視臺採訪時稱，伊朗“曾企圖暗殺”他的兒子。內塔尼亞胡並未在採訪中透露相關細節，也未提及涉及的是其長子亞伊爾還是次子阿夫納。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a034cf-0921-7aab-90fd-8276b4c99181",
+      "time": "2026-08-25 01:26:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said he will not accept the United States treating Canada as its subordinate."
+    },
+    {
+      "id": "mkt:01a034ce-da1d-7aab-90fd-7a2e557decb9",
+      "time": "2026-08-25 01:26:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said Canada will only return to the negotiating table if the US adopts the right approach toward Canadian industry."
+    },
+    {
+      "id": "mkt:01a034ce-8dbd-7aab-90fd-73285b00dada",
+      "time": "2026-08-25 01:25:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $380 million from two counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "5056101",
+      "time": "2026-08-25 01:25:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：只有美國對加拿大本國產業拿出正確態度，加拿大才會坐到談判桌前。"
+    },
+    {
+      "id": "5056100",
+      "time": "2026-08-25 01:24:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會議長回應美製裁威脅：沒人相信美國胡言亂語】當地時間24日晚，伊朗議會議長卡利巴夫就美國的制裁威脅在社交媒體發文稱，美國知道沒人會相信他們的胡言亂語，美國在經濟上已無力進一步限制其他國家的關係。伊朗的貿易伙伴已透過媒體和發來的資訊明確表示，他們並不把這些言論當回事。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a034cd-65da-7aab-90fd-6e14683e1e68",
+      "time": "2026-08-25 01:24:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ARAMCO said it signed agreements and memoranda of understanding with French firms with potential total value exceeding $3.7 billion."
+    },
+    {
+      "id": "mkt:01a034cc-e601-7aab-90fd-65d171271c51",
+      "time": "2026-08-25 01:23:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. vice president: trade talks with Canada ongoing】Vice President Vance said talks with Canada remain ongoing, accusing Canada of making a bundle of unreasonable 11th-hour demands. He said a deal should be possible but the U.S. must send the Canadian prime minister a clear message to stop taking advantage of Maine and the United States. Negotiations continue and the U.S. will press for fair trade."
+    },
+    {
+      "id": "5056099",
+      "time": "2026-08-25 01:23:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國撤銷了對努斯拉陣線（也稱為沙姆解放陣線，HTS）的“特別指定全球恐怖分子”認定。"
+    },
+    {
+      "id": "5056098",
+      "time": "2026-08-25 01:23:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX與英偉達合作，研發了針對太空環境最佳化的Vera Rubin NVL72系統，計劃於明年第四季度發射入軌，2028 年實現大規模部署。我們的設計相比傳統機架，結構大幅簡化、成本更低、整合度更高且重量更輕。"
+    },
+    {
+      "id": "mkt:01a034cc-8d62-7aab-90fd-5e4d14e58cc5",
+      "time": "2026-08-25 01:23:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury said it revoked the Specially Designated Global Terrorist (SDGT) designation for Jabhat al-Nusra, also known as Hayat Tahrir al-Sham (HTS)."
+    },
     {
       "id": "mkt:01a034cc-1fcd-7aab-90fd-516f1bc05303",
       "time": "2026-08-25 01:23:07",
@@ -143609,62 +143702,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude futures are up 2.0% intraday at $84.05/bbl."
-    },
-    {
-      "id": "te:markets:575921",
-      "time": "2026-08-18 01:28:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Exxon Mobil Stock Price Hits 12-week High — Exxon Mobil shares increased to 161.68 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 8.94%, and in the last 12 months, it increased 51.44%."
-    },
-    {
-      "id": "5044679",
-      "time": "2026-08-18 01:27:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報83.10美元/桶。"
-    },
-    {
-      "id": "mkt:01a010c3-19be-7aab-9067-46a57a40c78c",
-      "time": "2026-08-18 01:26:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude up 2% intraday at $88.95/bbl."
-    },
-    {
-      "id": "5044678",
-      "time": "2026-08-18 01:26:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報90.29美元/桶。"
-    },
-    {
-      "id": "5044677",
-      "time": "2026-08-18 01:25:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破83美元/桶，日內漲1.88%。"
-    },
-    {
-      "id": "5044676",
-      "time": "2026-08-18 01:25:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門政府武裝稱，其對馬裡卜南部戰線的胡塞武裝陣地實施了打擊。"
     }
   ]
 }
