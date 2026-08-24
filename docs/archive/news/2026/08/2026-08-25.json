@@ -1,7 +1,19 @@
 {
   "date": "2026-08-25",
-  "count": 193,
+  "count": 194,
   "items": [
+    {
+      "id": "mkt:01a0350f-686b-7aab-90fe-4675aa8a82c6",
+      "time": "2026-08-25 02:36:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Yemen's Houthi movement said all units and branches are at highest combat readiness. It warned Saudi Arabia, Israel, the United States and their allies that their previous rules have failed, urged them not to take 'stupid actions', and said it would respond militarily and alter the regional balance of power if they do."
+    },
     {
       "id": "mkt:01a0350d-3ebe-7aab-90fe-3eddb81784c6",
       "time": "2026-08-25 02:34:15",

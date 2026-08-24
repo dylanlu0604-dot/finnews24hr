@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-25 02:36:12",
-  "count": 15833,
+  "updated": "2026-08-25 02:40:33",
+  "count": 15830,
   "items": [
+    {
+      "id": "mkt:01a0350f-686b-7aab-90fe-4675aa8a82c6",
+      "time": "2026-08-25 02:36:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Yemen's Houthi movement said all units and branches are at highest combat readiness. It warned Saudi Arabia, Israel, the United States and their allies that their previous rules have failed, urged them not to take 'stupid actions', and said it would respond militarily and alter the regional balance of power if they do."
+    },
     {
       "id": "mkt:01a0350d-3ebe-7aab-90fe-3eddb81784c6",
       "time": "2026-08-25 02:34:15",
@@ -143489,39 +143501,6 @@
         "WTI"
       ],
       "text": "【Russia says it struck Ukrainian targets at Odesa port; Ukraine says it hit factory in Russia's Rostov region】On the 17th, Russia said it struck Ukrainian military targets at Odesa port. Ukraine said it struck a factory in Russia’s Rostov region."
-    },
-    {
-      "id": "5044719",
-      "time": "2026-08-18 02:39:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "菲亞特克萊斯勒美國公司擬在美國市場召回約848511輛汽車。"
-    },
-    {
-      "id": "5044718",
-      "time": "2026-08-18 02:39:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高等級企業8月發行1452億美元債務。"
-    },
-    {
-      "id": "5044717",
-      "time": "2026-08-18 02:38:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國藍籌企業8月債券發行規模創下歷史新高。"
-    },
-    {
-      "id": "5044716",
-      "time": "2026-08-18 02:37:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱襲擊敖德薩港烏軍目標 烏稱打擊俄工廠】當地時間17日，俄羅斯方面稱襲擊了敖德薩港的烏軍目標。烏克蘭方面稱打擊俄羅斯羅斯托夫州的工廠。"
     }
   ]
 }
