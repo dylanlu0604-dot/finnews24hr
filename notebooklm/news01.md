@@ -1,7 +1,621 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-25 00:49:12_
-_本檔包含 3495 則快訊，約 620295 字_
+_更新時間：2026-08-25 01:40:56_
+_本檔包含 3526 則快訊，約 621185 字_
+
+---
+
+### 2026-08-25 01:39:20  #MKT News
+
+Sources said Italy will not participate in the "Voluntary Alliance" exercises.
+
+---
+
+### 2026-08-25 01:38:24  #宏觀 #國際
+
+【美國財長：任何為伊朗洗錢的實體將被移出美元體系】美國財政部長貝森特24日在新聞釋出會上表示，任何為伊朗洗錢的實體將被移出美元體系。（新華社）
+
+---
+
+### 2026-08-25 01:38:11  #MKT News #DXY #Impact bullish
+
+【U.S. Treasury Secretary Bessent: Any entity laundering money for Iran will be removed from the dollar system】U.S. Treasury Secretary Bessent said at a press conference on the 24th that any entity laundering money for Iran will be removed from the U.S. dollar system.
+
+---
+
+### 2026-08-25 01:33:43  #MKT News #XAUUSD #Impact bullish #Bitcoin #Impact mixed #WTI
+
+【US Treasury's Bessent announces economic offensive to sever Iran's global ties】US Treasury Secretary Bessent announced an unprecedented economic offensive aimed at severing Iran’s links to the global economy and warned countries that continue commercial ties could face US sanctions. The campaign will focus on five Iranian “lifelines”: digital assets, technology, gold, aviation and shipping. President Trump is pressing foreign leaders to halt economic engagement; affected countries will be given a deadline and, if they do not comply, the Treasury said it will act unilaterally. Bessent gave no implementation timetable or measure details and reiterated earlier threats of “economic wrath,” including secondary sanctions on foreign financial institutions, saying no one is beyond US sanctions. Analysts note Iran has endured years of sanctions and it is uncertain whether additional measures will force Tehran to yield on Strait of Hormuz issues.
+
+---
+
+### 2026-08-25 01:33:16  #其他
+
+市場訊息：義大利將不參與 “自願聯盟” 的演習。
+
+---
+
+### 2026-08-25 01:31:18  #MKT News
+
+Musk said the design is substantially simpler than traditional racks, with lower cost, higher density and lighter weight.
+
+---
+
+### 2026-08-25 01:29:50  #MKT News
+
+【Netanyahu says Iran 'had attempted to assassinate' his son】On Aug. 24 local time, Israeli Prime Minister Netanyahu told Channel 14 that Iran "had attempted to assassinate" his son. He provided no details and did not say whether he was referring to his elder son Yair or his younger son Avner.
+
+---
+
+### 2026-08-25 01:29:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran parliament speaker Ghalibaf dismisses U.S. sanction threats as nonsense】On the evening of the 24th, Iran parliament speaker Ghalibaf said on social media that no one believes U.S. nonsense and that the U.S. no longer has the economic capacity to further restrict other countries' relationships; he said Iran's trade partners have signalled via media and messages that they do not take the statements seriously. On the afternoon of the 24th, U.S. Treasury Secretary Bessent held a press conference announcing multiple new economic sanctions on Iran to increase pressure.
+
+---
+
+### 2026-08-25 01:28:54  #國際
+
+加拿大總理卡尼：絕不接受把加拿大視作美國附屬的態度。
+
+---
+
+### 2026-08-25 01:28:30  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Musk said NVIDIA (NVDA.O)'s space-optimized Vera Rubin chip platform will reach meaningful scale by 2028, and the Vera Rubin NVL72 system is scheduled for orbital launch in Q4 next year.
+
+---
+
+### 2026-08-25 01:28:18  #其他
+
+加拿大總理卡尼：實施等額對等報復存在難度，加拿大或採取 “更具針對性” 的反制關稅策略。
+
+---
+
+### 2026-08-25 01:27:07  #國際
+
+【以色列總理稱伊朗企圖暗殺其子】當地時間8月24日晚，以色列總理內塔尼亞胡在接受第14頻道電視臺採訪時稱，伊朗“曾企圖暗殺”他的兒子。內塔尼亞胡並未在採訪中透露相關細節，也未提及涉及的是其長子亞伊爾還是次子阿夫納。（CCTV國際時訊）
+
+---
+
+### 2026-08-25 01:26:18  #MKT News
+
+Prime Minister Carney said he will not accept the United States treating Canada as its subordinate.
+
+---
+
+### 2026-08-25 01:26:06  #MKT News
+
+Canada's Prime Minister Carney said Canada will only return to the negotiating table if the US adopts the right approach toward Canadian industry.
+
+---
+
+### 2026-08-25 01:25:46  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $380 million from two counterparties in its fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-08-25 01:25:20  #國際
+
+加拿大總理卡尼：只有美國對加拿大本國產業拿出正確態度，加拿大才會坐到談判桌前。
+
+---
+
+### 2026-08-25 01:24:39  #國際
+
+【伊朗議會議長回應美製裁威脅：沒人相信美國胡言亂語】當地時間24日晚，伊朗議會議長卡利巴夫就美國的制裁威脅在社交媒體發文稱，美國知道沒人會相信他們的胡言亂語，美國在經濟上已無力進一步限制其他國家的關係。伊朗的貿易伙伴已透過媒體和發來的資訊明確表示，他們並不把這些言論當回事。（央視新聞）
+
+---
+
+### 2026-08-25 01:24:31  #MKT News #Commodities #Energy
+
+ARAMCO said it signed agreements and memoranda of understanding with French firms with potential total value exceeding $3.7 billion.
+
+---
+
+### 2026-08-25 01:23:58  #MKT News
+
+【U.S. vice president: trade talks with Canada ongoing】Vice President Vance said talks with Canada remain ongoing, accusing Canada of making a bundle of unreasonable 11th-hour demands. He said a deal should be possible but the U.S. must send the Canadian prime minister a clear message to stop taking advantage of Maine and the United States. Negotiations continue and the U.S. will press for fair trade.
+
+---
+
+### 2026-08-25 01:23:41  #宏觀 #國際
+
+美國財政部：美國撤銷了對努斯拉陣線（也稱為沙姆解放陣線，HTS）的“特別指定全球恐怖分子”認定。
+
+---
+
+### 2026-08-25 01:23:36  #其他
+
+馬斯克：SpaceX與英偉達合作，研發了針對太空環境最佳化的Vera Rubin NVL72系統，計劃於明年第四季度發射入軌，2028 年實現大規模部署。我們的設計相比傳統機架，結構大幅簡化、成本更低、整合度更高且重量更輕。
+
+---
+
+### 2026-08-25 01:23:35  #MKT News
+
+U.S. Treasury said it revoked the Specially Designated Global Terrorist (SDGT) designation for Jabhat al-Nusra, also known as Hayat Tahrir al-Sham (HTS).
+
+---
+
+### 2026-08-25 01:23:07  #MKT News
+
+U.S. Treasury Secretary BESSENT concluded remarks.
+
+---
+
+### 2026-08-25 01:22:46  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Treasury Secretary Bessent said the United Arab Emirates has been a good partner and has borne the brunt of the impact from Iranian attacks.
+
+---
+
+### 2026-08-25 01:22:31  #國際
+
+【美副總統：與加拿大的貿易談判仍在進行】當地時間24日，美國副總統萬斯在談及美國與加拿大的貿易談判時表示，“加拿大最後一刻提出了一堆不合理的要求”“我認為應該達成協議，但我們需要向加拿大總理發出一個響亮而明確的資訊：停止佔緬因州人民的便宜。停止佔美國的便宜。一切都結束了。我們希望貿易政策公平公正。”萬斯稱，談判仍在進行，“美國將力爭在貿易中實現公平”。（央視新聞）
+
+---
+
+### 2026-08-25 01:21:57  #MKT News
+
+Canada's prime minister Carney said retaliatory tariffs will be highly targeted.
+
+---
+
+### 2026-08-25 01:21:40  #MKT News
+
+U.S. Treasury Secretary Bessent said issuing a warning and recalibrating would be appropriate.
+
+---
+
+### 2026-08-25 01:21:14  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+Treasury Secretary Bessent said secondary sanctions should not be underestimated and are a very powerful tool.
+
+---
+
+### 2026-08-25 01:20:55  #MKT News #Important #US10Y
+
+U.S. Treasury Secretary BESSENT said the Treasury has not yet purchased any bonds and that its next operation is scheduled for Sept. 9.
+
+---
+
+### 2026-08-25 01:20:36  #國際
+
+提醒：美國財長貝森特結束講話。
+
+---
+
+### 2026-08-25 01:20:12  #MKT News
+
+US Treasury said the State Department on Monday local time removed Syria's designation as a "state sponsor of terrorism".
+
+---
+
+### 2026-08-25 01:20:11  #宏觀 #國際
+
+美國財政部：美國國務院當地時間週一取消了對敘利亞“支援恐怖主義國家”的認定。
+
+---
+
+### 2026-08-25 01:20:03  #國際
+
+美國財長貝森特：今日本次會議結束後，你們將見證一波制裁來襲。
+
+---
+
+### 2026-08-25 01:19:44  #國際
+
+美國財長貝森特：我們認為，發出警示訊號並統一各方預期是恰當的舉措。
+
+---
+
+### 2026-08-25 01:19:39  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+【US Treasury Secretary announces multiple economic sanctions on Iran】US Treasury Secretary Bessent held a press conference on the afternoon of the 24th to announce multiple economic sanctions targeting Iran aimed at increasing pressure.
+
+---
+
+### 2026-08-25 01:19:25  #其他
+
+沙特阿美稱已與多家法國企業簽署諒解備忘錄（MOU），潛在總價值超 37 億美元。
+
+---
+
+### 2026-08-25 01:19:11  #MKT News
+
+U.S. Treasury Secretary Bessent said a major financial institution will be sanctioned by the end of this week over Iran-related activity.
+
+---
+
+### 2026-08-25 01:19:07  #國際
+
+美國財長貝森特： 我們尚未購入任何債券，下一輪操作定於 9 月 9 日。
+
+---
+
+### 2026-08-25 01:18:44  #MKT News
+
+US Treasury Secretary Bessent said President Trump hopes Canada will sit down for good-faith negotiations.
+
+---
+
+### 2026-08-25 01:18:37  #宏觀 #國際
+
+【美財長稱特朗普正就制裁伊朗致電各國領導人】當地時間8月24日，美國財政部長貝森特召開新聞釋出會。貝森特表示，美國總統特朗普正致電各國領導人，明確要求其停止與伊朗的往來。（央視新聞）
+
+---
+
+### 2026-08-25 01:18:19  #國際
+
+美國財長貝森特：特朗普希望加拿大能夠坐到談判桌前，秉持誠意展開談判。
+
+---
+
+### 2026-08-25 01:17:53  #國際
+
+加拿大總理卡尼：加方在能源領域對特朗普政府擁有報復選項。
+
+---
+
+### 2026-08-25 01:17:53  #MKT News
+
+Treasury Secretary Bessent said the old policy of offering benefits to Iran in exchange for its restraint no longer works.
+
+---
+
+### 2026-08-25 01:17:40  #國際
+
+美國財長貝森特：本週末前，將有一家大型金融機構因涉伊朗問題遭到制裁。
+
+---
+
+### 2026-08-25 01:17:21  #其他
+
+派拉蒙 “準備繼續秉持誠意開展磋商”，與加州方面進行溝通。
+
+---
+
+### 2026-08-25 01:16:52  #宏觀 #焦點 #國際
+
+【美國財長公佈多項針對伊朗的經濟制裁措施 】美國財政部長貝森特24日下午召開新聞釋出會，公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。（新華社）
+
+---
+
+### 2026-08-25 01:16:34  #央行 #國際
+
+週一（8月24日），美聯儲隔夜逆回購協議（RRP）使用規模為3.80億美元（交易對手2家）。
+
+---
+
+### 2026-08-25 01:16:20  #國際
+
+美國財長貝森特：阿聯酋一直是很好的合作伙伴，承受了伊朗襲擊帶來的主要衝擊。
+
+---
+
+### 2026-08-25 01:16:01  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Treasury Secretary Bessent said he expects other countries will take similar actions to isolate Iran.
+
+---
+
+### 2026-08-25 01:15:56  #國際
+
+美國財長貝森特：期望其他國家採取同類行動孤立伊朗。
+
+---
+
+### 2026-08-25 01:15:49  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+BESSENT said the US Treasury will continue its regular auction schedule.
+
+---
+
+### 2026-08-25 01:15:08  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury Secretary Bessent said the Treasury is communicating with every country to convey its expectations.
+
+---
+
+### 2026-08-25 01:15:03  #國際
+
+美國財長貝森特：在伊朗政權被徹底孤立前，美國的努力不會停止。
+
+---
+
+### 2026-08-25 01:14:50  #國際
+
+美國財長貝森特：所有國家若支援伊朗，都應當做好面臨美國製裁的準備。
+
+---
+
+### 2026-08-25 01:14:12  #宏觀 #市場 #國際
+
+美國財長貝森特： 我們將繼續執行財政部的常規國債拍賣計劃。
+
+---
+
+### 2026-08-25 01:14:07  #MKT News
+
+U.S. Treasury Secretary BESSENT said he would not set a specific timetable to sever ties with Iran and warned the U.S. does not have unlimited patience.
+
+---
+
+### 2026-08-25 01:13:56  #國際
+
+美國財長貝森特：我們正與各國統一立場，告知各方我們的預期。
+
+---
+
+### 2026-08-25 01:13:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. Treasury Secretary Bessent said world leaders must make decisions; action on Iran will begin today.
+
+---
+
+### 2026-08-25 01:13:32  #國際
+
+美國財長貝森特：不會設定切斷與伊朗往來的具體時限，但我們的耐心並非無限。
+
+---
+
+### 2026-08-25 01:12:52  #國際
+
+美國財長貝森特：世界各國領導人該做出抉擇了，針對伊朗的行動今日正式啟動。
+
+---
+
+### 2026-08-25 01:12:49  #MKT News #DXY #Impact bullish
+
+U.S. Treasury Secretary Bessent said entities that facilitate money laundering for Iran will be removed from the U.S. dollar system.
+
+---
+
+### 2026-08-25 01:12:17  #MKT News
+
+U.S. Treasury Secretary Bessent said no one can escape U.S. sanctions.
+
+---
+
+### 2026-08-25 01:12:06  #國際
+
+美國財長貝森特：任何人都無法逃脫美國製裁的打擊範圍。
+
+---
+
+### 2026-08-25 01:12:03  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #Copper
+
+Carney said on Trump's latest tariff threat that U.S. retaliation in some form would not be surprising.
+
+---
+
+### 2026-08-25 01:11:51  #國際
+
+加拿大總理卡尼：關注美國總統特朗普的50%汽車關稅威脅。加拿大與美國之間有望達成一份公平協議。
+
+---
+
+### 2026-08-25 01:11:30  #國際
+
+【以軍襲擊加沙地帶多地 造成至少7人死亡】自當地時間24日凌晨以來，以色列國防軍對加沙地帶多處區域發動空襲，已造成至少7名巴勒斯坦人死亡。死者中包括一名女童，另有多人受傷。（央視新聞）
+
+---
+
+### 2026-08-25 01:11:30  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish
+
+Canada's Prime Minister Carney said he is monitoring President Trump's threat to impose a 50% tariff on autos.
+
+---
+
+### 2026-08-25 01:11:22  #MKT News
+
+Canadian prime minister Carney said US president Trump wants to destroy Canada's key industries under his negotiating terms.
+
+---
+
+### 2026-08-25 01:10:29  #焦點 #國際
+
+美國財長貝森特：美國將剝奪洗錢伊朗資金相關主體使用美元的許可權。
+
+---
+
+### 2026-08-25 01:10:25  #MKT News #WTI #Impact bullish #Brent #DXY
+
+U.S. Treasury Secretary Bessent said any economic engagement with Iran would expose those involved to comprehensive U.S. sanctions using the full power of the United States.
+
+---
+
+### 2026-08-25 01:10:16  #MKT News #WTI #Impact bullish #Brent
+
+U.S. Treasury Secretary Bessent said Washington will launch an "economic isolation operation" to cut off all remaining options for the Iranian regime.
+
+---
+
+### 2026-08-25 01:10:08  #國際
+
+加拿大總理卡尼就特朗普最新關稅威脅表態：美國採取某種形式的報復並不出人意料。
+
+---
+
+### 2026-08-25 01:09:47  #國際
+
+美國財長貝森特：發起 “經濟棄民行動”，徹底封鎖伊朗政權可動用的其餘所有選項。（也被美方稱作經濟 D 日 / 經濟諾曼底登陸）
+
+---
+
+### 2026-08-25 01:09:09  #MKT News #DXY #Impact bullish #WTI #Brent
+
+US Treasury Secretary Bessent said countries must, within a specified timeframe, close Treasury-designated activities, including Iranian overseas bank branches.
+
+---
+
+### 2026-08-25 01:08:43  #MKT News #DXY #S&P500 #XAUUSD
+
+Treasury Secretary Bessent said each country has a clear timetable to shut down activities the Treasury has identified; if they do not act, the U.S. will unilaterally use fiscal powers to do so.
+
+---
+
+### 2026-08-25 01:08:14  #MKT News
+
+US Treasury Secretary Bessent said Washington will enforce sanctions on Iran under a "zero leakage" policy.
+
+---
+
+### 2026-08-25 01:08:11  #宏觀 #國際
+
+美國財長貝森特：每個國家都有明確時限，終止我方所認定的相關活動。若有關國家不採取行動，我們將動用財政部許可權單方面採取措施。
+
+---
+
+### 2026-08-25 01:07:58  #MKT News
+
+U.S. Treasury Secretary Bessent said this lays the groundwork for President Trump's goal of preventing Iran from acquiring nuclear weapons.
+
+---
+
+### 2026-08-25 01:07:56  #國際
+
+美國財長貝森特：已為達成總統阻止伊朗獲取核武器的目標做好鋪墊。
+
+---
+
+### 2026-08-25 01:07:39  #國際
+
+美國財長貝森特：美國“期望”其他國家採取行動。
+
+---
+
+### 2026-08-25 01:07:04  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+U.S. Treasury Secretary Bessent said President Trump is calling world leaders to urge them to sever economic ties with Iran.
+
+---
+
+### 2026-08-25 01:06:53  #國際
+
+美國財長貝森特：特朗普正致電多個特定國家，要求其停止與伊朗開展往來。
+
+---
+
+### 2026-08-25 01:06:24  #國際
+
+美國財長貝森特：美國將對伊朗制裁執行 “零漏洞” 原則。
+
+---
+
+### 2026-08-25 01:05:54  #MKT News #Important #Macro & Rates #US Economy #WTI #Impact bullish #DXY
+
+US Treasury Secretary Bessent said the US is mounting an economic offensive targeting Iran's global financial links.
+
+---
+
+### 2026-08-25 01:05:49  #國際
+
+美國財長貝森特：伊朗有兩條路，要麼恢復正常，要麼徹底被孤立。美國將切斷伊朗伊斯蘭革命衛隊的一切潛在收入來源。
+
+---
+
+### 2026-08-25 01:05:05  #宏觀 #國際
+
+美國財政部：財政部撤銷此前允許向伊朗開展部分匯款業務的通用許可。
+
+---
+
+### 2026-08-25 01:05:04  #MKT News #Important #XAUUSD #Impact bullish #DXY
+
+US Treasury said it will impose potential secondary sanctions targeting five sectors—digital assets, technology, gold, aviation and shipping—and has suspended a general license authorizing certain remittance payments to Iran.
+
+---
+
+### 2026-08-25 01:04:24  #國際
+
+美國財長貝森特：在特朗普執政下，我們將消除伊朗帶來的威脅。
+
+---
+
+### 2026-08-25 01:04:07  #宏觀 #市場 #焦點 #國際
+
+美國財政部：財政部將五大行業列為次級制裁潛在目標，分別為數字資產、科技、黃金、航空以及航運。
+
+---
+
+### 2026-08-25 01:03:55  #宏觀 #焦點 #國際
+
+美國財政部：美國財政部對近60個與伊朗相關的實體、個人和船隻實施制裁，涉及核、導彈、網路和石油網路。
+
+---
+
+### 2026-08-25 01:03:50  #宏觀 #焦點 #國際
+
+美國財政部長貝森特宣佈對伊朗實施進一步制裁。
+
+---
+
+### 2026-08-25 01:03:43  #MKT News #Important #WTI #Impact bullish #Brent
+
+U.S. Treasury sanctioned nearly 60 Iran-linked entities, individuals and vessels for roles in nuclear, missile, cyber and oil networks.
+
+---
+
+### 2026-08-25 01:01:30  #國際
+
+市場訊息：英國與烏克蘭簽署人工智慧防務夥伴關係協議，合作聚焦戰場技術。
+
+---
+
+### 2026-08-25 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.67%，滬銅收漲0.37%，滬鋁收漲0.13%，滬鋅收漲0.19%，滬鉛收跌0.43%，滬鎳收跌0.53%，滬錫收跌0.17%。氧化鋁夜盤收跌0.22%，鋁合金收漲0.76%。不鏽鋼夜盤收跌0.35%。
+
+---
+
+### 2026-08-25 00:53:57  #國際
+
+伊朗議會媒體中心：這位謊話連篇的美國總統，據稱其虛假言論多達 32000 條，如今又企圖藉助編造的新聞以及卑劣的媒體手段，掩蓋軍事失利，修復自己在美國民眾與世界公眾面前的形象。
+特朗普刻意在個人社交賬號釋出假借伊朗議會議長名義的虛假資訊，意在繼續大肆撒謊，同時逃避由他一手製造的危機。 此前，特朗普就曾憑藉同樣站不住腳的虛假新聞，配合內塔尼亞胡的算計，將美國外交政策拖入危機，讓本國民眾付出沉重代價，近期的燃油危機、前所未有的通脹皆屬此列。
+伊朗議會議長卡利巴夫影片已對外公開，其講話真實內容和虛假新聞媒體編造的標題存在明顯出入，這也成為美國總統虛假資訊宣傳行動的又一樁醜聞。
+
+---
+
+### 2026-08-25 00:53:25  #MKT News
+
+Iranian parliament media office said Trump must understand social-media posts will not change regional realities or the emerging regional order, and that he wrongly attributed the remarks to parliament speaker Ghalibaf.
+
+---
+
+### 2026-08-25 00:51:28  #其他
+
+LME期銅收漲58美元，報14273美元/噸。LME期鋁收跌9美元，報3228美元/噸。LME期鋅收漲12美元，報3835美元/噸。LME期鉛收漲13美元，報1911美元/噸。LME期鎳收跌32美元，報17026美元/噸。LME期錫收跌143美元，報55748美元/噸。LME期鈷收平，報56290美元/噸。
+
+---
+
+### 2026-08-25 00:51:24  #MKT News
+
+Iran parliament speaker Ghalibaf said the US knows no one is buying its bluster and that the US economy no longer allows it to further restrict ties with other countries. He said Iran's trade partners, both via media and direct communications, have made clear they will ignore such statements.
+
+---
+
+### 2026-08-25 00:50:02  #國際
+
+伊朗議會媒體中心：特朗普必須明白，社交媒體發帖無法改變該地區的現實，也無法撼動正在形成的地區新秩序。
+
+---
+
+### 2026-08-25 00:49:52  #MKT News
+
+【Iranian media release earlier video of Mojtaba Khamenei】On Aug. 24, Iranian outlets including Fars news agency released a video of Mojtaba Khamenei recorded before he assumed the role of Supreme Leader. The clip was said to be 'first public' footage and was filmed prior to the outbreak of the war; time and location were not specified. It appears to show Mojtaba presiding over a religious study session.
+
+---
+
+### 2026-08-25 00:49:32  #國際
+
+市場訊息：以色列總理內塔尼亞胡稱，伊朗曾企圖暗殺我的一名家人。
+
+---
+
+### 2026-08-25 00:48:37  #國際
+
+伊朗議會議長卡利巴夫： 美國人心裡清楚，沒人會相信他們的虛張聲勢。美國當前的經濟狀況，使其無力進一步限制與其他國家的往來。伊朗的各貿易伙伴無論是透過媒體表態，還是向我方傳遞的訊息，都明確表示根本不會理會美國的這些言論。
 
 ---
 
@@ -20682,431 +21296,5 @@ BITARI申請將其普通股在納斯達克全球市場掛牌上市，股票程�
 ### 2026-08-22 05:08:00  #其他
 
 SpaceX： 準備開展第 14 次飛行測試的星艦完成全時長靜態點火，六臺猛禽發動機全部點火，持續 60 秒。
-
----
-
-### 2026-08-22 05:06:58  #國際
-
-【特朗普：宴會廳我自有金主】特朗普表示新白宮舞廳的造價將接近4億美元，但他堅稱納稅人不會為此買單。 特朗普說，這個專案完全由“愛國者和愛國企業”的私人捐款資助。
-
----
-
-### 2026-08-22 05:04:30  #其他
-
-惠譽確認馬耳他評級為“A+”，展望穩定。
-
----
-
-### 2026-08-22 05:03:40  #公司 #國際
-
-阿拉斯加航空集團：根據美國證券交易委員會（SEC）檔案披露，執行長貝尼託·米努奇於8月20日以每股40.06美元的平均價格買入了2.5萬股公司普通股。
-
----
-
-### 2026-08-22 05:02:57  #國際
-
-惠譽確認波蘭主權信用評級為 “A‑”，展望負面。
-
----
-
-### 2026-08-22 05:02:02  #國際
-
-特朗普：我只做划算的交易。
-
----
-
-### 2026-08-22 05:01:04  #國際
-
-白宮記者Kellie Meyer：我問特朗普總統誰將接替卡羅琳·萊維特擔任新聞秘書，他說：“我不知道，也許是你。”
-
----
-
-### 2026-08-22 04:59:41  #國際
-
-提示：特朗普講話結束（特朗普本次講話發表於空軍一號前，非常簡短，不過十分鐘就上了飛機）。
-
----
-
-### 2026-08-22 04:58:40  #國際
-
-特朗普談加美協議：進展順利。
-
----
-
-### 2026-08-22 04:58:13  #國際
-
-特朗普：我方也將啟動與墨西哥的新協議談判。
-
----
-
-### 2026-08-22 04:58:06  #國際
-
-特朗普：還將與墨西哥達成一項新協議。
-
----
-
-### 2026-08-22 04:58:00  #國際
-
-特朗普：我們理應能夠與加拿大達成協議。
-
----
-
-### 2026-08-22 04:57:52  #國際
-
-特朗普談伊朗：伊方願意達成協議，但尚未準備好簽署一份合適的協議。
-
----
-
-### 2026-08-22 04:57:45  #國際
-
-特朗普談伊朗：他們想達成協議。
-
----
-
-### 2026-08-22 04:57:31  #國際
-
-特朗普談伊朗：我們完全控制了整個地區。
-
----
-
-### 2026-08-22 04:54:53  #市場 #國際
-
-特朗普：經濟增長將自行化解美國國債問題。
-
----
-
-### 2026-08-22 04:54:13  #國際
-
-巴西工業與貿易部長羅薩表示，他將於下週與美國貿易代表格里爾舉行會晤。
-
----
-
-### 2026-08-22 04:54:07  #國際
-
-提示：特朗普開始講話。
-
----
-
-### 2026-08-22 04:53:48  #焦點 #國際
-
-特朗普稱他沒有指示貝森特干預債券市場。
-
----
-
-### 2026-08-22 04:52:19  #公司
-
-【Anthropic聘請谷歌晶片定製晶片專案創始人 為進軍自研半導體做準備】Anthropic PBC已聘請谷歌定製晶片專案創始人Amir Salek，為這家AI實驗室進軍自研半導體領域做準備。這家Claude平臺開發商週五表示，Salek將加入Anthropic的算力團隊，並向James Bradbury彙報。Salek曾負責谷歌的張量處理單元(TPU)業務直至2022年，並參與推出了前七代TPU晶片。Anthropic目前從英偉達、谷歌和亞馬遜等多個供應商採購晶片，但近期已釋放出建立自有晶片業務的意願。這家總部位於舊金山的公司已開始為相關專案招聘，併發布職位資訊。與其他AI巨頭一樣，Anthropic正加緊獲得足夠的資料中心基礎設施，以支撐其發展目標。自研晶片有望幫助公司應對供應短缺，同時根據自身需求定製晶片設計。競爭對手OpenAI也在採取類似行動。這家ChatGPT開發商已釋出與博通共同開發的Jalapeno晶片，並計劃今年晚些時候開始使用。
-
----
-
-### 2026-08-22 04:49:45  #其他
-
-市場訊息： HIMS 的減重方案因信用卡糾紛遭到處罰。
-
----
-
-### 2026-08-22 04:49:27  #其他
-
-SpaceXAI：我們的孟菲斯和南埃文站點將由世界上最大的併網電池組供電，從而降低當地社群的電力成本，並提高其本地電力系統的可靠性。
-
----
-
-### 2026-08-22 04:47:51  #其他
-
-市場訊息：巴西農民已收割84.4%的2026年第二輪玉米作物面積，去年同期為87.8% 。
-
----
-
-### 2026-08-22 04:47:08  #Trading Economics #Economy #Peru #GDP Annual Growth Rate #Importance 1
-
-Peru’s GDP Growth Slows to 2.6% in Q2 — Peru’s economy expanded 2.6% year-on-year in Q2 2026, slowing from 3.6% in Q1. Growth was supported by non-primary sectors, which increased 5.0%, while primary sectors contracted 5.2%. Construction remained the main driver, rising 8.9%, followed by commerce, which grew 7.3%, and electricity and water, up 5.6%. Services increased 4.7%. In contrast, manufacturing fell 5.0%, while mining and fuel declined 0.9%. Agriculture and livestock contracted 2.0%, after growing 1.5% in Q1, while fishing plunged 48.9%, following a 6.4% decline in the previous quarter. On a quarterly basis, GDP growth slowed from 3.6% in Q1 to 2.6% in Q2.
-
----
-
-### 2026-08-22 04:45:18  #國際
-
-穆迪點評愛爾蘭：政策制定者預計將有效緩解外部衝擊，其中包括美國貿易、稅收及產業政策變動帶來的影響。
-
----
-
-### 2026-08-22 04:45:09  #國際
-
-市場訊息：美國陸軍部長德里斯科爾預計將於年底卸任。
-
----
-
-### 2026-08-22 04:44:48  #宏觀 #國際
-
-美國國務院發言人：約旦河西岸的穩定有助於加強以色列的安全，並符合華盛頓實現和平的目標。
-
----
-
-### 2026-08-22 04:44:21  #宏觀 #焦點 #國際
-
-美國國務院發言人：特朗普總統已明確指出，華盛頓不支援以色列吞併約旦河西岸。
-
----
-
-### 2026-08-22 04:43:56  #公司 #國際
-
-據美國證券交易委員會披露檔案顯示，OS Therapeutics公司計劃透過傑富瑞集團發售最高規模為7500萬美元的普通股。
-
----
-
-### 2026-08-22 04:43:40  #其他
-
-穆迪：上調愛爾蘭信用評級反映出該國經濟與財政實力持續改善，我們預計這一向好趨勢將延續。
-
----
-
-### 2026-08-22 04:42:30  #其他
-
-穆迪：愛爾蘭債務負擔預計將進一步下降，因潛在趨勢增長高於此前預期，將持續支撐政府財政收入。
-
----
-
-### 2026-08-22 04:38:43  #其他
-
-ENVVENO MEDICAL CORP：提交至多1億美元混合儲架發行申請。
-
----
-
-### 2026-08-22 04:37:21  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Jumps Ahead of Datafolha Poll — The Ibovespa jumped 1.8% to close at 171,032 on Friday, supported by a broad rally in financial stocks. The political landscape remained in focus ahead of a new Datafolha poll on Brazil’s October presidential election, due after the close. On Monday, a BTG/Nexus poll showed President Lula and Senator Flávio Bolsonaro, viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity, in a technical tie in a potential runoff. Bond yields fell on expectations of a tighter presidential race and broad-based weakness in the US dollar. Itaú rose 2.9%, Bradesco added 3.1%, Itaúsa gained 2.5%, and B3 jumped 5.2%. Utilities also advanced, with Axia up 1.4% and Sabesp rising 1.9%. Vale added 1.4% as iron ore prices firmed, while CSN Mineração (+4.8%), CSN (+7.6%) and Usiminas (+7.9%) rallied. Embraer (-1%) and Petrobras (-0.1%) were among the few laggards.
-
----
-
-### 2026-08-22 04:36:00  #國際
-
-美國國家颶風中心：熱帶低氣壓可能在未來幾天內給夏威夷群島帶來降雨和大風。
-
----
-
-### 2026-08-22 04:35:13  #觀點
-
-科沃爾特能源（Covolt Power）：摩根大通、傑富瑞、加拿大皇家銀行資本市場、瑞銀投資銀行以及凱基資本市場為此次首次公開募股的承銷商。
-
----
-
-### 2026-08-22 04:35:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 1.05% Higher — The Dow Jones Index gained 555 points or 1.05 percent on Friday to close at 53315 points. Gains were led by Goldman Sachs (3.94%), Merck (2.27%) and Salesforce (1.91%).
-
----
-
-### 2026-08-22 04:33:13  #國際
-
-美國國家颶風中心：拉拉颶風仍保持強颶風強度。
-
----
-
-### 2026-08-22 04:33:01  #其他
-
-COVOLT POWER INC. 擬在紐約證券交易所上市，股票程式碼為“KVLT”。
-
----
-
-### 2026-08-22 04:32:46  #其他
-
-REAL與RE/MAX HOLDINGS宣佈，REAL已就擬議合併交易中的擬議安排方案獲得法院批准。
-
----
-
-### 2026-08-22 04:31:10  #國際
-
-COLUMBUS CIRCLE CAPITAL CORP II宣佈，ELROY AIR獲得美國陸軍一份價值高達4600萬美元的合同。
-
----
-
-### 2026-08-22 04:28:16  #市場
-
-北美科技軟體股指數ETF漲1.43%，報103.37美元，本週累跌0.68%，結束之前連續三週上漲的趨勢（先後漲7.5%、8.57%、1.35%）。
-
----
-
-### 2026-08-22 04:26:57  #其他
-
-智利銀行發行 130 萬智利發展單位本地債券。
-
----
-
-### 2026-08-22 04:26:42  #公司
-
-波音公司工程師及工會技術部門拒絕合同提議。
-
----
-
-### 2026-08-22 04:25:41  #公司 #市場 #國際
-
-【美國CFTC：資產管理公司在貝森特意外回購宣佈前增持美債敞口】根據美國商品期貨交易委員會（CFTC）截至8月18日當週的資料，在美國政府週三意外宣佈回購計劃之前，資產管理公司增加了其美國國債的敞口。資料顯示，投機者則削減了敞口。
-
----
-
-### 2026-08-22 04:24:53  #國際
-
-特朗普： 我們對美國最高法院的這項裁決表示感謝。正在白宮這片神聖土地上修建的軍事宴會廳綜合體，對國家安全至關重要，它將成為同類設施中的巔峰之作！150 年來多屆美國總統一直期盼建成該設施，軍方過去百年也一直在爭取。他們的願望很快就會實現！專案建設成本低於預算，進度也快於計劃。
-
----
-
-### 2026-08-22 04:23:49  #國際
-
-特朗普：我對美國聯邦最高法院的裁決表示感激。軍事/宴會廳綜合體正建於白宮的聖地之上。
-
----
-
-### 2026-08-22 04:23:03  #國際
-
-歐盟安全政策高階代表卡拉斯：歐盟的外交和國防部長們將在不到兩週後於都柏林會晤中討論如何擴大我們對烏克蘭的支援，包括防空和導彈防禦。
-
----
-
-### 2026-08-22 04:18:50  #市場 #國際
-
-美國商品期貨交易委員會（CFTC）：8月18日當週，槓桿基金開始重建日元空頭倉位。
-
----
-
-### 2026-08-22 04:18:22  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds at $97 — Brent crude oil was little changed around $97 a barrel on Friday, as investors assessed signs that Iran may be seeking an end to the conflict with the US. Iranian President Masoud Pezeshkian said Tehran would prefer to conclude the war while it remains in a position of strength, describing the existing memorandum with Washington as a victory for Iran. The comments provided some relief after Treasury Secretary Scott Bessent said the US would impose its toughest-ever sanctions on Tehran and intensify economic pressure on the Iranian regime. Amidst the conflicting signals, oil prices rose more than 5% for the second week. Meanwhile, the US military said it had helped tankers transport more than 660 million barrels of crude through the Strait of Hormuz since early May, suggesting that substantial volumes continue to move through the critical energy corridor despite the conflict and heightened geopolitical risks.
-
----
-
-### 2026-08-22 04:18:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Closes Higher on Miners and Banks Gains — The S&P/TSX Composite Index rose 0.7% to close at 36,620 on Friday, supported by gains in mining and banking stocks. Gold prices held onto their gains after the US signaled it would increase Treasury note and bond buybacks in the secondary market. Agnico Eagle gained 2.3%, Barrick rose 2.9%, and WPM jumped 4.9%. Financials also traded mostly higher following weaker-than-expected retail sales data, as softer consumer spending reinforced expectations that the Bank of Canada will keep interest rates unchanged next week. BMO gained 0.6%, while Scotiabank added 1%. Fairfax Financial (+0.2%), a frontrunner to acquire the Indian government’s stake in IDBI Bank, is set to be given up to two years to consolidate its Indian banking holdings, potentially easing the acquisition process. Retailers traded mostly lower, with ARD down 0.4%, Loblaw shedding 0.7%, and Dollarama losing 0.5%.
-
----
-
-### 2026-08-22 04:17:58  #Trading Economics #Markets #Commodity #Importance 1
-
-Oil Holds Near Highs as Iran Conflict Uncertainty Persists — Crude oil was little changed around $94 a barrel on Friday, as investors assessed signs that Iran may be seeking an end to the conflict with the US. Iranian President Masoud Pezeshkian said Tehran would prefer to conclude the war while it remains in a position of strength, describing the existing memorandum with Washington as a victory for Iran. The comments provided some relief after Treasury Secretary Scott Bessent said the US would impose its toughest-ever sanctions on Tehran and intensify economic pressure on the Iranian regime. Amidst the conflicting signals, oil prices rose more than 5% for the second week. Meanwhile, the US military said it had helped tankers transport more than 660 million barrels of crude through the Strait of Hormuz since early May, suggesting that substantial volumes continue to move through the critical energy corridor despite the conflict and heightened geopolitical risks.
-
----
-
-### 2026-08-22 04:16:31  #央行 #國際
-
-美聯儲：美國銀行存款從前一週的19.496萬億美元增至19.532萬億美元。
-
----
-
-### 2026-08-22 04:15:31  #市場 #國際
-
-【美股大類資產類ETF多數收漲，黃金ETF漲超1.9%領跑】週五（8月21日），黃金ETF收漲1.95%，道指ETF漲0.98%，羅素2000指數ETF漲0.77%，新興市場ETF漲0.75%，美國布倫特油價基金漲0.58%，標普500 ETF、納斯達克100 ETF、大豆基金、巴克萊美國可轉債ETF、日元做多至多漲0.41%；歐元做多收平，做多美元指數、美國房地產ETF、農產品基金、美國國債20+年ETF至多跌0.35%，恐慌指數做多跌1.5%。2026年迄今，布油基金累計上漲89.97%，新興市場ETF、羅素2000指數ETF、大豆基金等至多漲23.32%，納指ETF漲16.41%，標普500 ETF漲12.89%，農產品基金漲10.97%，黃金ETF漲6.83%，做多美元指數漲3.22%。
-
----
-
-### 2026-08-22 04:14:40  #其他
-
-NOODLES & CO 提交 1 億美元混合證券儲架發行申請。
-
----
-
-### 2026-08-22 04:13:55  #國際
-
-【阿巴斯呼籲以色列停止並取消“E1區”定居點招標】據巴勒斯坦通訊社21日報道，巴勒斯坦總統阿巴斯當天發表宣告，呼籲以色列政府立即停止並取消“E1區”定居點建設專案招標計劃，指出此舉直接威脅巴勒斯坦建國程序。阿巴斯在宣告中強調，“E1區”定居點計劃將把約旦河西岸切割為南北兩部分，同時割裂東耶路撒冷與其周邊巴勒斯坦地區的地理聯絡，嚴重損害以1967年邊界為基礎、以東耶路撒冷為首都、擁有主權的獨立巴勒斯坦國的建國前景。阿巴斯指出，該計劃公然違反國際法和聯合國相關決議，尤其是安理會第2334號決議，是以色列持續推進定居點擴建、實施吞併政策、製造既成事實的危險步驟。（新華社）
-
----
-
-### 2026-08-22 04:13:21  #市場
-
-APPLIED OPTO股價盤後下跌3.5%。
-
----
-
-### 2026-08-22 04:13:16  #其他
-
-第二聯邦銀行將承接蒂奧加‑富蘭克林儲蓄銀行的全部存款。
-
----
-
-### 2026-08-22 04:13:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rise on Strong Business Activity — US stock indices closed higher on Friday, pausing the week’s losses on solid economic data. The S&P 500 gained 0.4%, the Nasdaq rose 0.3%, and the Dow added 518 points. Equities advanced after a report showed US business activity grew at its fastest pace in more than four years. Meanwhile, markets continued to assess a recent surge in bond yields driven by inflation and fiscal concerns. Long-dated Treasury yields remained near levels seen before the Treasury announced a larger bond buyback, while the dollar extended its decline. Hyperscalers gained, with Alphabet up 1.2%, Microsoft adding 0.4% and Meta rising 0.7%. Chipmakers traded mixed, with Nvidia down 1%, Micron losing 0.8% and Intel retreating 2.2%. Walmart fell over 10% on the week after a rare earnings miss weighed on its outlook and raised concerns over US consumers.
-
----
-
-### 2026-08-22 04:12:59  #公司 #國際
-
-美國聯邦存款保險公司：賓夕法尼亞州監管機構關閉費城蒂奧加‑富蘭克林儲蓄銀行。
-
----
-
-### 2026-08-22 04:11:31  #市場
-
-【生物科技指數ETF收漲約1.3%，領跑美股行業ETF】週五（8月21日），美股行業ETF普遍收漲，生物科技指數ETF、醫療業ETF漲1.29%，可選消費ETF漲1.15%，全球航空業ETF漲1.06%，網路股指數ETF、金融業ETF、全球科技股指數ETF、科技行業ETF至多漲0.94%，能源業ETF跌0.17%，半導體ETF跌0.4%，公用事業ETF跌2.31%。2026年迄今，半導體ETF累計上漲55.62%，能源業ETF漲44.30%，全球科技股指數ETF漲32.98%，科技行業ETF、生物科技指數ETF至少漲26.65%，可選消費ETF跌0.77%。
-
----
-
-### 2026-08-22 04:11:22  #其他
-
-應用光電簽訂 6 億美元 ATM 股權配售協議。
-
----
-
-### 2026-08-22 04:10:13  #公司
-
-夏威夷電力公司預計，夏威夷島幾乎所有使用者的供電服務都將在2026年8月21日前恢復。
-
----
-
-### 2026-08-22 04:09:42  #國際
-
-美國貿易代表團將於8月24日至25日訪問智利，就關稅問題進行談判。
-
----
-
-### 2026-08-22 04:08:28  #宏觀
-
-巴西財政部長稱預演算法案將於下週提交國會。
-
----
-
-### 2026-08-22 04:06:57  #國際
-
-市場訊息：特朗普總統將前往南卡羅來納州，為格雷厄姆造勢，迎接週二共和黨初選第二輪選舉，參選雙方為格雷厄姆與拉爾夫・諾曼眾議員。此次第二輪選舉的獲勝者，將接替已故參議員林賽・格雷厄姆，成為 11 月選票上的共和黨參議員候選人。
-
----
-
-### 2026-08-22 04:06:22  #其他
-
-INSTEEL 將於 2026 年 10 月底關閉俄亥俄州上桑達斯基工廠。
-
----
-
-### 2026-08-22 04:05:59  #其他
-
-科斯塔以 8 億美元現金完成對 Zonda 的收購  。
-
----
-
-### 2026-08-22 04:03:44  #公司 #市場
-
-南方銅業公司漲8.7%，創收盤歷史新高。自由港漲7.7%，創2025年4月份以來最佳單日表現。
-
----
-
-### 2026-08-22 04:02:59  #其他
-
-納斯達克 100 指數終結五連跌。
-
----
-
-### 2026-08-22 04:02:39  #Trading Economics #Economy #Argentina #Retail Sales YoY #Importance 1
-
-Argentina Retail Sales Rise in June — Argentina’s retail sales at current prices rose 13.4% year on year to ARS 685.4 billion in June 2026. Sales in clothing, footwear and leather goods totaled ARS 231.0 billion, followed by sporting goods and clothing (ARS 116.6 billion) and food courts, food stores and kiosks (ARS 116.4 billion). Electronics, home appliances and computers generated ARS 65.3 billion, while sales in furniture, home decoration and household textiles reached ARS 35.8 billion. By region, sales in the City of Buenos Aires increased 18.5% year on year to ARS 193.6 billion, while those in the 24 districts of Greater Buenos Aires rose 8.3% to ARS 224.1 billion. Sales in the Pampeana Region increased 13.2% to ARS 145.8 billion, while Cuyo rose 18.3% to ARS 49.1 billion. The Northern Region and Patagonia recorded gains of 11.0% and 17.2%, respectively.
-
----
-
-### 2026-08-22 04:01:20  #市場
-
-STATE STREET 金屬與礦業 ETF 上漲 4.1%，創 6 月以來新高。
-
----
-
-### 2026-08-22 04:01:09  #公司 #國際
-
-【Anthropic聘請谷歌晶片老將，加速推進自研硬體業務】Anthropic近日宣佈，已聘請Alphabet旗下谷歌定製晶片專案的創始人之一阿米爾·薩萊克（Amir Salek）加入其計算團隊，向詹姆斯·布拉德伯裡（James Bradbury）彙報。薩萊克曾負責谷歌張量處理單元（TPU）業務直至2022年，併成功交付了前七代晶片。在加入Anthropic之前，他曾擔任由美國國防部副部長聯合創辦的私募股權公司Cerberus Capital Management的高階董事總經理，並曾在英偉達任職。此次人事任命標誌著Anthropic正在為進軍自主半導體制造領域奠定基礎。該公司目前從英偉達、谷歌和亞馬遜等多個渠道採購晶片，但近期已明確表示有意建立內部矽晶片業務，並已開始釋出相關職位資訊。與其他人工智慧巨頭一樣，Anthropic正努力獲取足夠的資料中心基礎設施以支援其發展，定製晶片有望幫助其應對供應短缺問題，並根據自身需求最佳化硬體設計。
 
 ---

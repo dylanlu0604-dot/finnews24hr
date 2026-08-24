@@ -1,7 +1,433 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-25 00:49:12_
-_本檔包含 2814 則快訊，約 620127 字_
+_更新時間：2026-08-25 01:40:56_
+_本檔包含 2836 則快訊，約 621481 字_
+
+---
+
+### 2026-08-22 05:06:58  #國際
+
+【特朗普：宴會廳我自有金主】特朗普表示新白宮舞廳的造價將接近4億美元，但他堅稱納稅人不會為此買單。 特朗普說，這個專案完全由“愛國者和愛國企業”的私人捐款資助。
+
+---
+
+### 2026-08-22 05:04:30  #其他
+
+惠譽確認馬耳他評級為“A+”，展望穩定。
+
+---
+
+### 2026-08-22 05:03:40  #公司 #國際
+
+阿拉斯加航空集團：根據美國證券交易委員會（SEC）檔案披露，執行長貝尼託·米努奇於8月20日以每股40.06美元的平均價格買入了2.5萬股公司普通股。
+
+---
+
+### 2026-08-22 05:02:57  #國際
+
+惠譽確認波蘭主權信用評級為 “A‑”，展望負面。
+
+---
+
+### 2026-08-22 05:02:02  #國際
+
+特朗普：我只做划算的交易。
+
+---
+
+### 2026-08-22 05:01:04  #國際
+
+白宮記者Kellie Meyer：我問特朗普總統誰將接替卡羅琳·萊維特擔任新聞秘書，他說：“我不知道，也許是你。”
+
+---
+
+### 2026-08-22 04:59:41  #國際
+
+提示：特朗普講話結束（特朗普本次講話發表於空軍一號前，非常簡短，不過十分鐘就上了飛機）。
+
+---
+
+### 2026-08-22 04:58:40  #國際
+
+特朗普談加美協議：進展順利。
+
+---
+
+### 2026-08-22 04:58:13  #國際
+
+特朗普：我方也將啟動與墨西哥的新協議談判。
+
+---
+
+### 2026-08-22 04:58:06  #國際
+
+特朗普：還將與墨西哥達成一項新協議。
+
+---
+
+### 2026-08-22 04:58:00  #國際
+
+特朗普：我們理應能夠與加拿大達成協議。
+
+---
+
+### 2026-08-22 04:57:52  #國際
+
+特朗普談伊朗：伊方願意達成協議，但尚未準備好簽署一份合適的協議。
+
+---
+
+### 2026-08-22 04:57:45  #國際
+
+特朗普談伊朗：他們想達成協議。
+
+---
+
+### 2026-08-22 04:57:31  #國際
+
+特朗普談伊朗：我們完全控制了整個地區。
+
+---
+
+### 2026-08-22 04:54:53  #市場 #國際
+
+特朗普：經濟增長將自行化解美國國債問題。
+
+---
+
+### 2026-08-22 04:54:13  #國際
+
+巴西工業與貿易部長羅薩表示，他將於下週與美國貿易代表格里爾舉行會晤。
+
+---
+
+### 2026-08-22 04:54:07  #國際
+
+提示：特朗普開始講話。
+
+---
+
+### 2026-08-22 04:53:48  #焦點 #國際
+
+特朗普稱他沒有指示貝森特干預債券市場。
+
+---
+
+### 2026-08-22 04:52:19  #公司
+
+【Anthropic聘請谷歌晶片定製晶片專案創始人 為進軍自研半導體做準備】Anthropic PBC已聘請谷歌定製晶片專案創始人Amir Salek，為這家AI實驗室進軍自研半導體領域做準備。這家Claude平臺開發商週五表示，Salek將加入Anthropic的算力團隊，並向James Bradbury彙報。Salek曾負責谷歌的張量處理單元(TPU)業務直至2022年，並參與推出了前七代TPU晶片。Anthropic目前從英偉達、谷歌和亞馬遜等多個供應商採購晶片，但近期已釋放出建立自有晶片業務的意願。這家總部位於舊金山的公司已開始為相關專案招聘，併發布職位資訊。與其他AI巨頭一樣，Anthropic正加緊獲得足夠的資料中心基礎設施，以支撐其發展目標。自研晶片有望幫助公司應對供應短缺，同時根據自身需求定製晶片設計。競爭對手OpenAI也在採取類似行動。這家ChatGPT開發商已釋出與博通共同開發的Jalapeno晶片，並計劃今年晚些時候開始使用。
+
+---
+
+### 2026-08-22 04:49:45  #其他
+
+市場訊息： HIMS 的減重方案因信用卡糾紛遭到處罰。
+
+---
+
+### 2026-08-22 04:49:27  #其他
+
+SpaceXAI：我們的孟菲斯和南埃文站點將由世界上最大的併網電池組供電，從而降低當地社群的電力成本，並提高其本地電力系統的可靠性。
+
+---
+
+### 2026-08-22 04:47:51  #其他
+
+市場訊息：巴西農民已收割84.4%的2026年第二輪玉米作物面積，去年同期為87.8% 。
+
+---
+
+### 2026-08-22 04:47:08  #Trading Economics #Economy #Peru #GDP Annual Growth Rate #Importance 1
+
+Peru’s GDP Growth Slows to 2.6% in Q2 — Peru’s economy expanded 2.6% year-on-year in Q2 2026, slowing from 3.6% in Q1. Growth was supported by non-primary sectors, which increased 5.0%, while primary sectors contracted 5.2%. Construction remained the main driver, rising 8.9%, followed by commerce, which grew 7.3%, and electricity and water, up 5.6%. Services increased 4.7%. In contrast, manufacturing fell 5.0%, while mining and fuel declined 0.9%. Agriculture and livestock contracted 2.0%, after growing 1.5% in Q1, while fishing plunged 48.9%, following a 6.4% decline in the previous quarter. On a quarterly basis, GDP growth slowed from 3.6% in Q1 to 2.6% in Q2.
+
+---
+
+### 2026-08-22 04:45:18  #國際
+
+穆迪點評愛爾蘭：政策制定者預計將有效緩解外部衝擊，其中包括美國貿易、稅收及產業政策變動帶來的影響。
+
+---
+
+### 2026-08-22 04:45:09  #國際
+
+市場訊息：美國陸軍部長德里斯科爾預計將於年底卸任。
+
+---
+
+### 2026-08-22 04:44:48  #宏觀 #國際
+
+美國國務院發言人：約旦河西岸的穩定有助於加強以色列的安全，並符合華盛頓實現和平的目標。
+
+---
+
+### 2026-08-22 04:44:21  #宏觀 #焦點 #國際
+
+美國國務院發言人：特朗普總統已明確指出，華盛頓不支援以色列吞併約旦河西岸。
+
+---
+
+### 2026-08-22 04:43:56  #公司 #國際
+
+據美國證券交易委員會披露檔案顯示，OS Therapeutics公司計劃透過傑富瑞集團發售最高規模為7500萬美元的普通股。
+
+---
+
+### 2026-08-22 04:43:40  #其他
+
+穆迪：上調愛爾蘭信用評級反映出該國經濟與財政實力持續改善，我們預計這一向好趨勢將延續。
+
+---
+
+### 2026-08-22 04:42:30  #其他
+
+穆迪：愛爾蘭債務負擔預計將進一步下降，因潛在趨勢增長高於此前預期，將持續支撐政府財政收入。
+
+---
+
+### 2026-08-22 04:38:43  #其他
+
+ENVVENO MEDICAL CORP：提交至多1億美元混合儲架發行申請。
+
+---
+
+### 2026-08-22 04:37:21  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Jumps Ahead of Datafolha Poll — The Ibovespa jumped 1.8% to close at 171,032 on Friday, supported by a broad rally in financial stocks. The political landscape remained in focus ahead of a new Datafolha poll on Brazil’s October presidential election, due after the close. On Monday, a BTG/Nexus poll showed President Lula and Senator Flávio Bolsonaro, viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity, in a technical tie in a potential runoff. Bond yields fell on expectations of a tighter presidential race and broad-based weakness in the US dollar. Itaú rose 2.9%, Bradesco added 3.1%, Itaúsa gained 2.5%, and B3 jumped 5.2%. Utilities also advanced, with Axia up 1.4% and Sabesp rising 1.9%. Vale added 1.4% as iron ore prices firmed, while CSN Mineração (+4.8%), CSN (+7.6%) and Usiminas (+7.9%) rallied. Embraer (-1%) and Petrobras (-0.1%) were among the few laggards.
+
+---
+
+### 2026-08-22 04:36:00  #國際
+
+美國國家颶風中心：熱帶低氣壓可能在未來幾天內給夏威夷群島帶來降雨和大風。
+
+---
+
+### 2026-08-22 04:35:13  #觀點
+
+科沃爾特能源（Covolt Power）：摩根大通、傑富瑞、加拿大皇家銀行資本市場、瑞銀投資銀行以及凱基資本市場為此次首次公開募股的承銷商。
+
+---
+
+### 2026-08-22 04:35:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.05% Higher — The Dow Jones Index gained 555 points or 1.05 percent on Friday to close at 53315 points. Gains were led by Goldman Sachs (3.94%), Merck (2.27%) and Salesforce (1.91%).
+
+---
+
+### 2026-08-22 04:33:13  #國際
+
+美國國家颶風中心：拉拉颶風仍保持強颶風強度。
+
+---
+
+### 2026-08-22 04:33:01  #其他
+
+COVOLT POWER INC. 擬在紐約證券交易所上市，股票程式碼為“KVLT”。
+
+---
+
+### 2026-08-22 04:32:46  #其他
+
+REAL與RE/MAX HOLDINGS宣佈，REAL已就擬議合併交易中的擬議安排方案獲得法院批准。
+
+---
+
+### 2026-08-22 04:31:10  #國際
+
+COLUMBUS CIRCLE CAPITAL CORP II宣佈，ELROY AIR獲得美國陸軍一份價值高達4600萬美元的合同。
+
+---
+
+### 2026-08-22 04:28:16  #市場
+
+北美科技軟體股指數ETF漲1.43%，報103.37美元，本週累跌0.68%，結束之前連續三週上漲的趨勢（先後漲7.5%、8.57%、1.35%）。
+
+---
+
+### 2026-08-22 04:26:57  #其他
+
+智利銀行發行 130 萬智利發展單位本地債券。
+
+---
+
+### 2026-08-22 04:26:42  #公司
+
+波音公司工程師及工會技術部門拒絕合同提議。
+
+---
+
+### 2026-08-22 04:25:41  #公司 #市場 #國際
+
+【美國CFTC：資產管理公司在貝森特意外回購宣佈前增持美債敞口】根據美國商品期貨交易委員會（CFTC）截至8月18日當週的資料，在美國政府週三意外宣佈回購計劃之前，資產管理公司增加了其美國國債的敞口。資料顯示，投機者則削減了敞口。
+
+---
+
+### 2026-08-22 04:24:53  #國際
+
+特朗普： 我們對美國最高法院的這項裁決表示感謝。正在白宮這片神聖土地上修建的軍事宴會廳綜合體，對國家安全至關重要，它將成為同類設施中的巔峰之作！150 年來多屆美國總統一直期盼建成該設施，軍方過去百年也一直在爭取。他們的願望很快就會實現！專案建設成本低於預算，進度也快於計劃。
+
+---
+
+### 2026-08-22 04:23:49  #國際
+
+特朗普：我對美國聯邦最高法院的裁決表示感激。軍事/宴會廳綜合體正建於白宮的聖地之上。
+
+---
+
+### 2026-08-22 04:23:03  #國際
+
+歐盟安全政策高階代表卡拉斯：歐盟的外交和國防部長們將在不到兩週後於都柏林會晤中討論如何擴大我們對烏克蘭的支援，包括防空和導彈防禦。
+
+---
+
+### 2026-08-22 04:18:50  #市場 #國際
+
+美國商品期貨交易委員會（CFTC）：8月18日當週，槓桿基金開始重建日元空頭倉位。
+
+---
+
+### 2026-08-22 04:18:22  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds at $97 — Brent crude oil was little changed around $97 a barrel on Friday, as investors assessed signs that Iran may be seeking an end to the conflict with the US. Iranian President Masoud Pezeshkian said Tehran would prefer to conclude the war while it remains in a position of strength, describing the existing memorandum with Washington as a victory for Iran. The comments provided some relief after Treasury Secretary Scott Bessent said the US would impose its toughest-ever sanctions on Tehran and intensify economic pressure on the Iranian regime. Amidst the conflicting signals, oil prices rose more than 5% for the second week. Meanwhile, the US military said it had helped tankers transport more than 660 million barrels of crude through the Strait of Hormuz since early May, suggesting that substantial volumes continue to move through the critical energy corridor despite the conflict and heightened geopolitical risks.
+
+---
+
+### 2026-08-22 04:18:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Closes Higher on Miners and Banks Gains — The S&P/TSX Composite Index rose 0.7% to close at 36,620 on Friday, supported by gains in mining and banking stocks. Gold prices held onto their gains after the US signaled it would increase Treasury note and bond buybacks in the secondary market. Agnico Eagle gained 2.3%, Barrick rose 2.9%, and WPM jumped 4.9%. Financials also traded mostly higher following weaker-than-expected retail sales data, as softer consumer spending reinforced expectations that the Bank of Canada will keep interest rates unchanged next week. BMO gained 0.6%, while Scotiabank added 1%. Fairfax Financial (+0.2%), a frontrunner to acquire the Indian government’s stake in IDBI Bank, is set to be given up to two years to consolidate its Indian banking holdings, potentially easing the acquisition process. Retailers traded mostly lower, with ARD down 0.4%, Loblaw shedding 0.7%, and Dollarama losing 0.5%.
+
+---
+
+### 2026-08-22 04:17:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Oil Holds Near Highs as Iran Conflict Uncertainty Persists — Crude oil was little changed around $94 a barrel on Friday, as investors assessed signs that Iran may be seeking an end to the conflict with the US. Iranian President Masoud Pezeshkian said Tehran would prefer to conclude the war while it remains in a position of strength, describing the existing memorandum with Washington as a victory for Iran. The comments provided some relief after Treasury Secretary Scott Bessent said the US would impose its toughest-ever sanctions on Tehran and intensify economic pressure on the Iranian regime. Amidst the conflicting signals, oil prices rose more than 5% for the second week. Meanwhile, the US military said it had helped tankers transport more than 660 million barrels of crude through the Strait of Hormuz since early May, suggesting that substantial volumes continue to move through the critical energy corridor despite the conflict and heightened geopolitical risks.
+
+---
+
+### 2026-08-22 04:16:31  #央行 #國際
+
+美聯儲：美國銀行存款從前一週的19.496萬億美元增至19.532萬億美元。
+
+---
+
+### 2026-08-22 04:15:31  #市場 #國際
+
+【美股大類資產類ETF多數收漲，黃金ETF漲超1.9%領跑】週五（8月21日），黃金ETF收漲1.95%，道指ETF漲0.98%，羅素2000指數ETF漲0.77%，新興市場ETF漲0.75%，美國布倫特油價基金漲0.58%，標普500 ETF、納斯達克100 ETF、大豆基金、巴克萊美國可轉債ETF、日元做多至多漲0.41%；歐元做多收平，做多美元指數、美國房地產ETF、農產品基金、美國國債20+年ETF至多跌0.35%，恐慌指數做多跌1.5%。2026年迄今，布油基金累計上漲89.97%，新興市場ETF、羅素2000指數ETF、大豆基金等至多漲23.32%，納指ETF漲16.41%，標普500 ETF漲12.89%，農產品基金漲10.97%，黃金ETF漲6.83%，做多美元指數漲3.22%。
+
+---
+
+### 2026-08-22 04:14:40  #其他
+
+NOODLES & CO 提交 1 億美元混合證券儲架發行申請。
+
+---
+
+### 2026-08-22 04:13:55  #國際
+
+【阿巴斯呼籲以色列停止並取消“E1區”定居點招標】據巴勒斯坦通訊社21日報道，巴勒斯坦總統阿巴斯當天發表宣告，呼籲以色列政府立即停止並取消“E1區”定居點建設專案招標計劃，指出此舉直接威脅巴勒斯坦建國程序。阿巴斯在宣告中強調，“E1區”定居點計劃將把約旦河西岸切割為南北兩部分，同時割裂東耶路撒冷與其周邊巴勒斯坦地區的地理聯絡，嚴重損害以1967年邊界為基礎、以東耶路撒冷為首都、擁有主權的獨立巴勒斯坦國的建國前景。阿巴斯指出，該計劃公然違反國際法和聯合國相關決議，尤其是安理會第2334號決議，是以色列持續推進定居點擴建、實施吞併政策、製造既成事實的危險步驟。（新華社）
+
+---
+
+### 2026-08-22 04:13:21  #市場
+
+APPLIED OPTO股價盤後下跌3.5%。
+
+---
+
+### 2026-08-22 04:13:16  #其他
+
+第二聯邦銀行將承接蒂奧加‑富蘭克林儲蓄銀行的全部存款。
+
+---
+
+### 2026-08-22 04:13:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise on Strong Business Activity — US stock indices closed higher on Friday, pausing the week’s losses on solid economic data. The S&P 500 gained 0.4%, the Nasdaq rose 0.3%, and the Dow added 518 points. Equities advanced after a report showed US business activity grew at its fastest pace in more than four years. Meanwhile, markets continued to assess a recent surge in bond yields driven by inflation and fiscal concerns. Long-dated Treasury yields remained near levels seen before the Treasury announced a larger bond buyback, while the dollar extended its decline. Hyperscalers gained, with Alphabet up 1.2%, Microsoft adding 0.4% and Meta rising 0.7%. Chipmakers traded mixed, with Nvidia down 1%, Micron losing 0.8% and Intel retreating 2.2%. Walmart fell over 10% on the week after a rare earnings miss weighed on its outlook and raised concerns over US consumers.
+
+---
+
+### 2026-08-22 04:12:59  #公司 #國際
+
+美國聯邦存款保險公司：賓夕法尼亞州監管機構關閉費城蒂奧加‑富蘭克林儲蓄銀行。
+
+---
+
+### 2026-08-22 04:11:31  #市場
+
+【生物科技指數ETF收漲約1.3%，領跑美股行業ETF】週五（8月21日），美股行業ETF普遍收漲，生物科技指數ETF、醫療業ETF漲1.29%，可選消費ETF漲1.15%，全球航空業ETF漲1.06%，網路股指數ETF、金融業ETF、全球科技股指數ETF、科技行業ETF至多漲0.94%，能源業ETF跌0.17%，半導體ETF跌0.4%，公用事業ETF跌2.31%。2026年迄今，半導體ETF累計上漲55.62%，能源業ETF漲44.30%，全球科技股指數ETF漲32.98%，科技行業ETF、生物科技指數ETF至少漲26.65%，可選消費ETF跌0.77%。
+
+---
+
+### 2026-08-22 04:11:22  #其他
+
+應用光電簽訂 6 億美元 ATM 股權配售協議。
+
+---
+
+### 2026-08-22 04:10:13  #公司
+
+夏威夷電力公司預計，夏威夷島幾乎所有使用者的供電服務都將在2026年8月21日前恢復。
+
+---
+
+### 2026-08-22 04:09:42  #國際
+
+美國貿易代表團將於8月24日至25日訪問智利，就關稅問題進行談判。
+
+---
+
+### 2026-08-22 04:08:28  #宏觀
+
+巴西財政部長稱預演算法案將於下週提交國會。
+
+---
+
+### 2026-08-22 04:06:57  #國際
+
+市場訊息：特朗普總統將前往南卡羅來納州，為格雷厄姆造勢，迎接週二共和黨初選第二輪選舉，參選雙方為格雷厄姆與拉爾夫・諾曼眾議員。此次第二輪選舉的獲勝者，將接替已故參議員林賽・格雷厄姆，成為 11 月選票上的共和黨參議員候選人。
+
+---
+
+### 2026-08-22 04:06:22  #其他
+
+INSTEEL 將於 2026 年 10 月底關閉俄亥俄州上桑達斯基工廠。
+
+---
+
+### 2026-08-22 04:05:59  #其他
+
+科斯塔以 8 億美元現金完成對 Zonda 的收購  。
+
+---
+
+### 2026-08-22 04:03:44  #公司 #市場
+
+南方銅業公司漲8.7%，創收盤歷史新高。自由港漲7.7%，創2025年4月份以來最佳單日表現。
+
+---
+
+### 2026-08-22 04:02:59  #其他
+
+納斯達克 100 指數終結五連跌。
+
+---
+
+### 2026-08-22 04:02:39  #Trading Economics #Economy #Argentina #Retail Sales YoY #Importance 1
+
+Argentina Retail Sales Rise in June — Argentina’s retail sales at current prices rose 13.4% year on year to ARS 685.4 billion in June 2026. Sales in clothing, footwear and leather goods totaled ARS 231.0 billion, followed by sporting goods and clothing (ARS 116.6 billion) and food courts, food stores and kiosks (ARS 116.4 billion). Electronics, home appliances and computers generated ARS 65.3 billion, while sales in furniture, home decoration and household textiles reached ARS 35.8 billion. By region, sales in the City of Buenos Aires increased 18.5% year on year to ARS 193.6 billion, while those in the 24 districts of Greater Buenos Aires rose 8.3% to ARS 224.1 billion. Sales in the Pampeana Region increased 13.2% to ARS 145.8 billion, while Cuyo rose 18.3% to ARS 49.1 billion. The Northern Region and Patagonia recorded gains of 11.0% and 17.2%, respectively.
+
+---
+
+### 2026-08-22 04:01:20  #市場
+
+STATE STREET 金屬與礦業 ETF 上漲 4.1%，創 6 月以來新高。
+
+---
+
+### 2026-08-22 04:01:09  #公司 #國際
+
+【Anthropic聘請谷歌晶片老將，加速推進自研硬體業務】Anthropic近日宣佈，已聘請Alphabet旗下谷歌定製晶片專案的創始人之一阿米爾·薩萊克（Amir Salek）加入其計算團隊，向詹姆斯·布拉德伯裡（James Bradbury）彙報。薩萊克曾負責谷歌張量處理單元（TPU）業務直至2022年，併成功交付了前七代晶片。在加入Anthropic之前，他曾擔任由美國國防部副部長聯合創辦的私募股權公司Cerberus Capital Management的高階董事總經理，並曾在英偉達任職。此次人事任命標誌著Anthropic正在為進軍自主半導體制造領域奠定基礎。該公司目前從英偉達、谷歌和亞馬遜等多個渠道採購晶片，但近期已明確表示有意建立內部矽晶片業務，並已開始釋出相關職位資訊。與其他人工智慧巨頭一樣，Anthropic正努力獲取足夠的資料中心基礎設施以支援其發展，定製晶片有望幫助其應對供應短缺問題，並根據自身需求最佳化硬體設計。
 
 ---
 
@@ -16661,317 +17087,5 @@ Australia Factory Growth Steady in August — The S&P Global Flash Australia Man
 ### 2026-08-21 07:12:22  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 NZX 50 Falls, but Poised for 3rd Weekly Gain — New Zealand stocks inched down 18 points, or 0.1%, to 13,901 in Friday morning deals, extending losses from the previous session, tracking a downbeat session on Wall Street overnight amid rising US Treasury yields. The decline was mainly weighed down by healthcare, materials, and industrials. However, gains in consumer staples, tech sectors, and real estate capped the fall. Traders were also anticipating the release of US July PMIs and New Zealand's retail sales for Q2 due next week. On the data front, New Zealand's trade deficit widened in July, as exports rose less than imports. Among early losers were Fisher & Paykel (-1.1%), F&C Investment (-0.7%), EBOS Group (-0.6%), Mercury NZ (-0.6%), and Freightways Group (-0.5%). However, for the week, the index rose 0.3%, marking the third consecutive weekly gain.
-
----
-
-### 2026-08-21 07:12:05  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、中共中央 國務院 中央軍委 關於給張陸頒發“二級航天功勳獎章” 授予武飛、張洪章“英雄航天員”榮譽稱號並頒發“三級航天功勳獎章”的決定（2026年8月20日）
-2、習近平致電祝賀希奇萊馬當選連任尚比亞總統
-3、宏觀政策發力提效
-4、趙樂際同薩爾瓦多立法大會主席卡斯特羅舉行會談
-5、“三北”工程攻堅戰年均完成建設任務8000萬畝以上
-6、蘇州以科技創新驅動高質量發展
-7、火箭回收海陸雙捷的啟示（今日談）。
-
----
-
-### 2026-08-21 07:11:56  #央行 #中國央行
-
-【LPR連續15個月持穩 “雙錨”並行助推貸款定價質效提升】貸款市場報價利率（LPR）連續15個月維持不變。中國人民銀行8月20日授權全國銀行間同業拆借中心公佈：1年期LPR為3.0%，5年期以上LPR為3.5%。分析人士認為，綜合當前政策利率、銀行淨息差等現實情況，LPR“按兵不動”符合預期。7月下旬以來，DR（存款類金融機構債券回購利率）基準利率貸款持續落地，未來LPR報價效率有望進一步提升。
-
----
-
-### 2026-08-21 07:10:39  #公司 #國際
-
-【訊息稱SpaceX、AST擬收購價值60億美元頻譜資產】SpaceX以及ASTSpacemobile公司等企業，均已表達有意收購GrainManagement有限責任公司所持有的大片頻譜資源。這批800兆赫茲頻段許可，是Grain與美國T‑Mobile完成頻譜置換後獲得。該頻譜被認為極具價值，能夠助力衛星運營商搭建語音業務的地面鏈路。Grain已要求意向方在9月第一週前提交初步報價，希望透過出售這批許可獲得約60億美元，不過該公司也考慮採取頻譜容量出租的方案。
-
----
-
-### 2026-08-21 07:10:19  #Trading Economics #Economy #United Kingdom #Consumer Confidence #Importance 2
-
-UK Consumer Confidence Hits 2-Year High — The UK GfK Consumer Confidence Index rose to -14 in August 2026 from -17 in the previous month, marking the highest level in two years despite lingering geopolitical and economic uncertainty. Consumers became more optimistic about the economy and their personal finances over the next 12 months, while more households viewed the current period as a good time to make major purchases. Confidence has rebounded over the past two months, supported by the appointment of new Prime Minister Andy Burnham and easing energy prices. However, rapidly rising inflation is threatening to weigh on sentiment, with consumer prices climbing sharply in July to 2.9%, the highest in four months, driven by higher household energy costs. GfK warned that continued uncertainty surrounding the Middle East and elsewhere, along with persistent cost-of-living pressures, could test consumer confidence in the months ahead.
-
----
-
-### 2026-08-21 07:07:56  #國際
-
-【烏克蘭首都遭空襲 死亡人數升至15人】烏克蘭首都基輔市市長克利奇科20日下午在社交媒體發文說，俄羅斯軍方19日深夜至20日凌晨對基輔市發動的大規模空襲致死人數已升至15人，另有39人受傷。（央視新聞）
-
----
-
-### 2026-08-21 07:06:48  #MKT News #GBPUSD #Impact bullish #FTSE100 #Impact mixed
-
-【UK consumer confidence rises to two-year high】GfK's UK consumer confidence index rose to -14 in August, its highest since Aug 2024, aided by continued good weather and a new prime minister's "Burnham effect." The index had climbed 6 pts in July under the same influences. GfK head of consumer insights Neil Bellamy warned the uptick may be short-lived as resurgent inf and persistent Middle East and other geopolitical risks will test household resilience.
-
----
-
-### 2026-08-21 07:06:45  #Trading Economics #Economy #Australia #Services PMI #Importance 2
-
-Australia Services Growth Eases — The S&P Global Flash Australia Services PMI Business Activity Index declined to 52.9 in August 2026 from July’s six-month high of a final 53.6. The latest reading marked a third consecutive month of growth, as activity and new business continued to grow, though at slightly softer rates.
-
----
-
-### 2026-08-21 07:04:44  #經濟數據 #英國
-
-英國8月Gfk消費者信心指數為-14，為2024年8月以來最高水平。
-
----
-
-### 2026-08-21 07:04:14  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
-
-Australia Composite PMI Slips from 6-Month High — Australia’s S&P Global Composite PMI fell to 52.5 in August 2026 from a final 53.2 in July, flash data showed. Still, private sector activity rose for the fourth time in five months, with the expansion concentrating in the service sector amid a slight dip in manufacturing output
-
----
-
-### 2026-08-21 07:02:04  #Trading Economics #Economy #New Zealand #Imports #Importance 1
-
-New Zealand Imports Jump 28.4% — Imports to New Zealand surged 28.4% year-on-year to NZD 9.34 billion in July 2026, following a downwardly revised 27.5% jump in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 127.0%).
-
----
-
-### 2026-08-21 07:01:36  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK GfK consumer confidence major purchases index rose to its highest level since December 2021.
-
----
-
-### 2026-08-21 07:01:32  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK GfK consumer confidence index for August was -14, the highest level since August 2024.
-
----
-
-### 2026-08-21 07:01:31  #其他
-
-英國 GFK 消費者信心大額採購指數升至 2021 年 12 月以來最高水平。
-
----
-
-### 2026-08-21 07:01:08  #資料
-
-英國8月Gfk消費者信心指數 -14，預期-18，前值-17。
-
----
-
-### 2026-08-21 07:01:07  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK August GfK consumer confidence index -14; expected -18; prior -17.
-
----
-
-### 2026-08-21 07:01:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | GfK Consumer Confidence Index (Aug) | actual -14 | consensus -18 | previous -17
-
----
-
-### 2026-08-21 07:00:16  #資料
-
-澳大利亞8月標普全球綜合PMI初值 52.5，前值53.2。
-澳大利亞8月標普全球製造業PMI初值 52，前值52。
-澳大利亞8月標普全球服務業PMI初值 52.9，前值53.6。
-
----
-
-### 2026-08-21 07:00:08  #MKT News #AUDUSD #Impact bearish
-
-Australia Aug S&P Global services PMI preliminary 52.9, prior 53.6.
-
----
-
-### 2026-08-21 07:00:08  #MKT News #DXY
-
-Australia Aug S&P Global Composite PMI (flash) 52.5, down from 53.2 previously.
-
----
-
-### 2026-08-21 07:00:08  #MKT News #DXY #Impact bearish
-
-Australia August S&P Global manufacturing PMI (preliminary) 52, unchanged from previous 52.
-
----
-
-### 2026-08-21 06:59:38  #MKT News #Commodities #Energy
-
-【APEC Energy Think Tank Forum Held in Dalian】Aug 20, Dalian — The APEC Energy Think Tank Forum brought together more than 100 delegates from 16 APEC economies, international organizations, think tanks and research institutes to discuss energy security, regional resilience, energy technology and innovation cooperation, and multilateral think‑tank networks. Participants called for institutionalized cooperation to remove barriers, coordinate energy security with the green transition, pursue coordinated innovation in key core technologies, and advance regional energy market interconnectivity to build an open, resilient Asia‑Pacific energy security framework. The 16th APEC Energy Ministers’ Meeting is scheduled for Sept. 10‑11 in Beijing.
-
----
-
-### 2026-08-21 06:58:18  #MKT News #Important
-
-【Trump signs memo to expand U.S. launch infrastructure, targets 1,000+ annual launches by 2030】On Aug. 20 the White House said President Trump signed a memorandum directing U.S. spaceports and related facilities should be capable of supporting more than 1,000 launches and re-entries per year by 2030. The memo instructs agencies to expand and upgrade launch and re-entry infrastructure, open federal launch ranges to commercial users, encourage private investment and public‑private partnerships and joint infrastructure development, and accelerate facility permitting and environmental reviews. NASA is tasked with developing a commercial lunar logistics architecture, exploring commercial robotic Mars landings, and outlining architectures for commercial crewed round‑trip Mars missions.
-
----
-
-### 2026-08-21 06:57:19  #其他
-
-【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。（央視新聞）
-
----
-
-### 2026-08-21 06:57:03  #Trading Economics #Economy #New Zealand #Exports #Importance 1
-
-New Zealand Exports Rise 13.5% in July — Exports increased 13.5% yoy to NZD 7.39 billion in July 2026, mainly driven by higher sales of milk powder, butter, and cheese (6.4%); meat and edible offal (34.0%); aluminum and aluminum articles (43.0%); and fruit (15.0%).
-
----
-
-### 2026-08-21 06:55:56  #MKT News #Market Regions #Japan & APAC #000660.KS
-
-【Report: SK Hynix to build memory fab in Miyagi, Japan】South Korea's SK Hynix is reportedly seeking to build a memory-chip manufacturing plant in Miyagi prefecture, Japan, marking the first production base by a South Korean chipmaker in Japan. Investment could reach tens of trillions of won. Industry sources said SK Group chairman Chey Tae-won recently visited the area. SK Hynix said any site with necessary infrastructure could be a candidate but no decision has been made.
-
----
-
-### 2026-08-21 06:55:28  #國際
-
-【特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星】當地時間8月20日，白宮表示，美國總統特朗普已簽署一份備忘錄，提出到2030年，美國太空運輸靶場和相關設施應具備支援每年超過1000次發射和再入任務的能力。備忘錄稱，美國將擴大和改善太空發射及再入基礎設施，要求有關部門推動聯邦發射場向商業使用者開放，鼓勵商業投資、公私合作以及基礎設施共同開發，並加快設施許可和環境審查。NASA還被要求制定商業化月球物流架構，探索商業機器人登陸火星，以及商業載人往返火星的相關架構。（央視新聞）
-
----
-
-### 2026-08-21 06:53:24  #Trading Economics #Economy #New Zealand #Balance of Trade #Importance 2
-
-New Zealand Trade Gap Largest in Near 2 Years — New Zealand's trade deficit widened to NZD 1.94 billion in July 2026, up from NZD 0.76 billion in the same month a year earlier and surpassing estimates of NZD 0.32 billion. It was the largest trade deficit since September 2024, as exports grew less than imports.
-
----
-
-### 2026-08-21 06:51:04  #MKT News #Important #GBPUSD #Impact mixed #FTSE100
-
-U.K. August GfK consumer confidence index due in 10 minutes.
-
----
-
-### 2026-08-21 06:45:17  #MKT News #Market Regions #Japan & APAC #DXY #Impact bullish
-
-New Zealand July trade balance: deficit NZD 1.949 bln; June balance revised from a NZD 23 mln surplus to a NZD 237 mln deficit.
-
----
-
-### 2026-08-21 06:45:11  #其他
-
-紐西蘭7月12個月貿易帳 -52.36億紐元，前值 -37.46億紐元。
-
----
-
-### 2026-08-21 06:45:11  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-New Zealand 12-month trade balance for July: -NZD5.24bln; prior -NZD3.746bln revised to -NZD4.05bln.
-
----
-
-### 2026-08-21 06:45:10  #MKT News #DXY #Impact bullish #USDJPY
-
-New Zealand July exports NZD 7.39 bln; previous value revised from NZD 8.09 bln to NZD 7.83 bln.
-
----
-
-### 2026-08-21 06:45:10  #MKT News
-
-New Zealand July imports NZ$9.34 bln, previous NZ$8.07 bln.
-
----
-
-### 2026-08-21 06:45:05  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Surges by 14.00% — Top crypto gainers are XRP (14%), Bitcoin (5.05%), Binance (4.59%) and Ether (2.87%).
-
----
-
-### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Exports (Jul) | actual 7390000000.000001B | previous 8090000000.000001B
-
----
-
-### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Imports (Jul) | actual 9340000000B | previous 8070000000B
-
----
-
-### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | 12-Month Trade Balance (Jul) | actual -5240000000B | previous -3746000000B
-
----
-
-### 2026-08-21 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Trade Balance (Jul) | actual -1949000000B | previous 23000000B
-
----
-
-### 2026-08-21 06:43:00  #市場 #焦點
-
-紐約期金突破4580美元/盎司，日內漲0.17%。
-
----
-
-### 2026-08-21 06:40:49  #MKT News #WTI #Impact bullish #Brent
-
-U.S. President Trump said Iran possesses some missiles and drones but has limited production capacity.
-
----
-
-### 2026-08-21 06:40:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Oat Falls by 2.79% — Top commodity losers are Oat (-2.79%) and Rapeseed (-1.26%). Gains are led by Rubber (1.51%) and Palm Oil (1.39%).
-
----
-
-### 2026-08-21 06:36:45  #國際
-
-市場訊息：SK 海力士將在日本宮城縣興建儲存晶片工廠。
-
----
-
-### 2026-08-21 06:35:59  #其他
-
-市場訊息：巴西希望將汽油補貼延長 30 天。
-
----
-
-### 2026-08-21 06:35:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Gains by 1.78% — Top commodity gainers are Silver (1.78%) and Platinum (1.58%). Biggest losers are Silicon (-0.74%) and Iron Ore CNY (-0.70%). Meanwhile Gold was little changed.
-
----
-
-### 2026-08-21 06:34:41  #其他
-
-Lemssouguer管理的對沖基金規模在7月份縮水8%。
-
----
-
-### 2026-08-21 06:34:14  #MKT News
-
-Trump said he had no choice and even if he had to do it 100 times he would do the same. He said Iran must never possess nuclear weapons. He accused Iran of attacking Saudi Arabia, Qatar, the UAE, Kuwait and Bahrain — countries he described as "to some extent semi-neutral".
-
----
-
-### 2026-08-21 06:33:33  #公司 #觀點 #央行 #國際
-
-【8月21日隔夜要聞一覽】
-1、貝森特稱可能進一步加大美債回購力度 並將公佈新的財政舉措.
-2、特朗普：就伊朗而言，我們實際上很快控制了海峽。
-3、美國副總統萬斯談伊朗：我們如今進入了一個新階段，對伊朗施加經濟壓力是我們手中最有效的手段。
-4、ANTHROPICO預計將與SPACEX創紀錄的IPO規模持平，據稱 Anthropic 最快將於 8 月底準備 IPO 申報檔案，Anthropic 擬將花旗集團納入其大型 IPO 的主要承銷銀行之列。
-5、Moderna股價創下歷史最大單日漲幅後，投資者開始消化利好訊息並調整倉位，收跌23.55%。
-6、沃爾瑪股價收跌9.2%，創下2022年5月以來最大單日跌幅。
-7、Anthropic 擬將花旗集團納入其大型 IPO 的主要承銷銀行之列。
-8、花旗集團外匯策略師對美元的短期看法轉為看空。
-9、美聯儲稱主席沃什將於美東時間8月28日上午10點在傑克遜霍爾講話。
-
----
-
-### 2026-08-21 06:33:32  #MKT News #005930.KS #Impact bullish
-
-Samsung will hold a board meeting on Friday to announce a shareholder-return plan.
-
----
-
-### 2026-08-21 06:32:34  #國際
-
-特朗普談及伊朗：我們別無選擇。就算重來一百次，我還是會這麼做。他們絕不能擁有核武器。伊朗襲擊了沙烏地阿拉伯、卡達、阿聯酋、科威特以及巴林這類 “某種程度上屬於半中立” 的國家。
 
 ---

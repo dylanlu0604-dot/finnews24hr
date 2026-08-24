@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 00:49:12_
-_本檔包含 3124 則快訊，約 619636 字_
+_更新時間：2026-08-25 01:40:56_
+_本檔包含 3098 則快訊，約 620899 字_
+
+---
+
+### 2026-08-19 08:46:13  #其他
+
+【內蒙古：支援有條件的高校開設詞元經濟相關課程和交叉學科專業】《內蒙古自治區促進詞元經濟高質量發展的若干措施》近日印發，其中提出，深化產教融合。鼓勵企業與高校、職業院校共建人才實訓基地，面向算力運維、大模型調優、智慧體開發、資料標註等緊缺崗位開展訂單式培養。支援用人企業開展數字技能急需人才培訓，按規定落實職業技能培訓補貼。支援有條件的高校開設詞元經濟相關課程和交叉學科專業。
+
+---
+
+### 2026-08-19 08:45:29  #公司
+
+【藍箭航天：計劃在半年內實施朱雀三號回收箭體復飛】今日，藍箭航天朱雀三號遙二順利完成一子級完整回收試驗。藍箭航天相關負責人告訴記者，公司明確計劃半年內開展回收箭體復飛試驗，搭建“發射‑回收‑檢測‑複用”完整閉環，堅持液氧甲烷可回收路線，持續打磨高頻次複用能力，為低成本規模化商業發射鋪路。 (科創板日報)
+
+---
+
+### 2026-08-19 08:44:29  #公司
+
+【長江財險擬增資2.5億元引入新國資股東】8月18日，長江財險披露的變更註冊資本公告顯示，公司擬以每股1.004元的價格，透過非公開協議方式向湖北省水利水電規劃勘測設計院有限公司（下稱湖北水院）增發2.49億股，募集資金總額2.49996億元。此次增資完成後，湖北水院將持有長江財險2.49億股股份，持股比例為8.17%，成為後者的第六大股東。該方案尚待國家金融監督管理總局湖北監管局批覆後方可落地生效。
+
+---
+
+### 2026-08-19 08:44:02  #市場
+
+【國泰海通：光伏行業漲價趨勢開始顯現】國泰海通證券研報表示，根據矽業分會資料，上週多晶矽價格不變，2.0玻璃上漲0.5元至9.75元/平米，3.2玻璃上漲0.75元至17元/平米；根據Infolink，182矽片上漲0.03元至0.83元/片，182電池片上漲0.02元至0.29元/W，201R電池片上漲0.02元至0.28元/W，210電池片上漲0.02元至0.285元/W，行業漲價趨勢開始顯現，具備成本和技術優勢的企業有望率先迎來盈利拐點。光伏板塊整體上處於歷史低位，供需側也在持續邊際改善，隨著政策和業績拐點的臨近，光伏行業估值也有望迎來改善，當前位置處於歷史底部，值得重點關注。
+
+---
+
+### 2026-08-19 08:42:56  #其他
+
+【內蒙古：打造一批詞元工廠】《內蒙古自治區促進詞元經濟高質量發展的若干措施》近日印發，其中提出，夯實綠色算力底座。支援企業採用國產化算力建設超大規模智算中心，在專案用地、綠電、能耗指標等方面給予保障。打造一批詞元工廠，形成大規模、低成本、綠色化、高安全的詞元生產能力。支援產業帶動性強的模型企業優先採購國產算力，推動形成全鏈路國產化適配能力。探索開展公共算力彈性供給，為中小微企業提供低成本、標準化算力服務。
+
+---
+
+### 2026-08-19 08:42:50  #國際
+
+馬來西亞棕櫚油委員會稱，預計第四季棕櫚油產量同比下降，年末供應將收緊。
+
+---
+
+### 2026-08-19 08:42:12  #公司 #國際
+
+委內瑞拉石油部長：委內瑞拉與美國亨特石油公司簽署了陸上石油區塊的產品分成合同，並與美國石油服務公司斯倫貝謝達成油藏研究合作協議。
+
+---
+
+### 2026-08-19 08:41:56  #公司
+
+【徐工集團與焦耳階躍簽署協議 將聚焦下一代智慧裝備等領域開展戰略合作】據徐工集團訊息，8月18日，徐工集團與焦耳階躍簽署戰略合作協議。根據合作協議，雙方將聚焦資料底座、專屬模型、下一代智慧裝備等領域開展戰略合作，透過優勢互補、協同共創，打造可落地、可複用、可迭代的行業智慧化成果。
+
+---
+
+### 2026-08-19 08:41:44  #國際
+
+【中國駐韓國大使戴兵：在人工智慧、高階製造、生物醫藥、綠色低碳、銀髮經濟等領域探索合作】8月19日，戴兵大使在中韓建交34週年前夕，在《韓國日報》《韓國時報》以韓英雙語發表題為《共同推動中韓關係健康穩定、向上向好發展》的署名文章。文中提到，雙方應著眼長遠推動合作提質升級。中韓經貿合作規模大、程度深，極大惠及兩國民眾。隨著兩國經貿合作格局由“垂直分工”轉變為“水平協作”，“在競爭中合作，在合作中競爭”正成為新常態，雙方合作的戰略性、互惠性沒有改變。中國正以高質量發展推進中國式現代化，擴大高水平對外開放。有韓國企業界朋友坦言，“沒有中國佈局，就談不上有全球戰略”。面對新一輪科技革命和產業革新，中韓應繼續做大做強既有傳統領域合作，同時在人工智慧、高階製造、生物醫藥、綠色低碳、銀髮經濟等新興領域探索強強聯合。在搶抓創新發展機遇方面，時間不等人，形勢不等人。
+
+---
+
+### 2026-08-19 08:41:29  #國際
+
+【美韓聯合軍演縮短日程 】韓國聯合參謀本部今天（8月19日）宣佈，“乙支自由之盾”美韓聯合軍演將於8月21日提前結束。這比原定計劃的結束時間提早了6天。
+
+---
+
+### 2026-08-19 08:40:53  #市場 #國際
+
+【美SEC擬推出加密資產新規，為部分相關融資設立註冊豁免】當地時間8月18日，美國證券交易委員會（SEC）宣佈擬推出“加密資產監管規則”，為涉及加密資產的部分投資合約建立專門的證券發行監管框架。SEC稱，該提案旨在為加密資產市場融資和創新提供更明確的路徑，同時保留聯邦證券法規定的投資者保護措施。根據提案，SEC擬針對部分涉及加密資產的投資合約設定兩項證券註冊豁免：一項允許發行人在4年內累計發行不超過500萬美元，另一項允許發行人在每12個月內發行不超過7500萬美元。兩類發行均須向投資者提供原則性敘述披露，適用7500萬美元豁免的發行人還須提供財務報表並履行持續報告義務。此外，SEC擬設立有條件的“安全港”，符合條件的加密資產將不被視為相關證券法定義中的“投資合約”。該提案公開徵求意見期為60天。
+
+---
+
+### 2026-08-19 08:40:45  #其他
+
+【“強達轉債”今日申購】資料顯示，8月19日，“強達轉債”今日申購，申購程式碼為371628，可頂格申購10000張。此外，“N奧普轉”、“N三鑫轉”今日上市。
+
+---
+
+### 2026-08-19 08:40:34  #公司 #國際
+
+【俄學者：普京登島向日本政府傳遞明確訊號】俄羅斯歷史學者表示，俄總統普京登上俄日爭議島嶼，向日本政府傳遞了明確訊號：即日本不應再對該領土抱有不切實際的主權訴求，這也是針對日本對俄不友好政策的直接且有力的回應。俄羅斯太平洋國立大學歷史學教授 尤里·皮卡洛夫：1945年8月，第二次世界大戰在亞洲以日本軍國主義的潰敗而告終。蘇聯依據國際條約，獲得了南千島群島的主權。因此，俄羅斯總統普京視察自己國家的領土完全合法。同時，他也藉此讓日本領導層明白，這是對日本所推行的對俄不友好政策。包括加入各類聯盟集團，參與對俄製裁等行為的回應，普京總統藉此表明南千島群島是俄羅斯的島嶼，俄方不會將其中任何一個島嶼交給日本。日本可以死心了，不要再對這些領土提出主權訴求。（央視）
+
+---
+
+### 2026-08-19 08:40:00  #MKT News #Market Regions #Japan & APAC #Market Themes #AI Revolution #Chip Wars #Nikkei 225 #Impact bearish
+
+【Japan shares fall as bond sell-off cools AI risk appetite; 10‑yr JGB at 1996 highs】Japan's Nikkei 225 fell for a second session as a bond sell-off dented risk appetite for AI-linked trades. The index dropped more than 3% at the open, with chip-related names pressured; Kioxia Holdings and Furukawa Electric were among the heaviest decliners. Topix slid as much as 2.8%, led lower by electronics and banks. Japan's 10‑year JGB yield rose to its highest level since 1996, prompting market pricing of a possible BOJ rate hike next month. The 10‑year UST yield is near its highest since early 2025. Daiwa Asset Management's chief strategist said: "Rising yields will increase borrowing costs for hyperscalers, clouding capex prospects and potentially hurting infrastructure firms that have benefited from the AI investment boom."
+
+---
+
+### 2026-08-19 08:38:34  #市場 #焦點
+
+紐約期金突破4400美元/盎司，日內跌0.47%。
+
+---
+
+### 2026-08-19 08:38:08  #公司 #觀點
+
+摩根士丹利將百度ADR評級下調至減持，目標價80美元。
+
+---
+
+### 2026-08-19 08:37:57  #MKT News
+
+South Korea's Joint Chiefs of Staff said it will adjust the schedule and scale of the Ulchi Freedom Shield (UFS) military exercises, shortening the exercise period to Aug. 17-21.
+
+---
+
+### 2026-08-19 08:37:24  #國際
+
+【日本打“機床牌”是“自戕式豪賭”】8月16日，日本新修訂的《輸出貿易管理令》正式生效。從高階五軸數控機床整機、高精度迴轉轉檯，到五軸數控系統設計製造技術，全鏈條都被劃入了第二類管制清單。這意味著，這些精密機床對華出口從批次許可變為“一事一議”，審批週期最長可能被拉至半年，尤其是在航空航天、軍工、半導體等重點行業，被駁回率可能將超過80%。 在業界，高階機床被稱為“工業母機”，例如航空發動機葉片、精密模具、半導體裝置，五軸聯動能力決定了這些產品的精度上限。在這一領域，日本話語權很重。全球高階五軸機床出口份額中，日本獨佔四成以上，在中國高階市場最高甚至曾拿下約七成份額。 明眼人都能看出，這既是對中國依法實施兩用物項出口管制、限制日本右翼“再軍事化”的還擊，也是向美國對華遏制戰略遞上的“投名狀”。日本指望打出這張“機床牌”卡住中國脖子，換取稀土供應等談判籌碼。然而，這注定是一場“自損一千”的戰略誤判，不僅沒法威脅到中國，還會自斷經脈、自食其果。歷史反覆證明，“卡脖子”卡不住中國。無論是天河、神威系列超算，還是刻蝕機、薄膜沉積等半導體技術，任何試圖透過技術封鎖遏制中國發展的企圖，最終都是倒逼中國完成自主可控，最終失去中國市場。病急亂投醫，日方不反思自身的病灶，反而在錯誤道路上狂飆突進，這場“自戕式豪賭”，其結果早已註定。（環球時報）
+
+---
+
+### 2026-08-19 08:37:09  #MKT News #Market Regions #Japan & APAC
+
+Japan 10-year government bond yield fell 1.5 bps to 2.920%.
+
+---
+
+### 2026-08-19 08:35:16  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Extends Fall on Bond Jitters — Silver fell below $63 an ounce on Wednesday, extending losses from the previous session, pressured by elevated global bond yields amid growing fiscal concerns and persistent inflationary pressures. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades. The precious metal also faced pressure from rising oil prices as the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. President Donald Trump said there were no ongoing talks with Tehran, while Iranian forces have intensified attacks on shipping in the Strait of Hormuz. Investors now await minutes from the Federal Reserve’s July meeting and remarks from Chairman Kevin Warsh at the annual Jackson Hole symposium for fresh clues on the monetary policy outlook.
+
+---
+
+### 2026-08-19 08:35:13  #其他
+
+【超70家訓練場建成啟用 具身智慧加速產業落地】中國資訊通訊研究院昨天（18日）釋出《具身智慧訓練場研究報告（2026年）》。報告顯示，隨著各部門密集部署人形機器人中試基地和訓練場建設，我國具身智慧訓練場已經成為關鍵基礎設施，形成規模化叢集化佈局。報告顯示，目前，全國共建成啟用超過70傢俱身智慧訓練場，在建或規劃中的訓練場也有40多家，訓練場產業鏈已初步成形。訓練場建設依託具身智慧產業優勢形成長三角、京津冀、珠三角三大核心叢集，已覆蓋全國過半的省級行政區，並突破傳統人工智慧產業高度集聚一線城市的模式，向三線及以下城市延伸。
+
+---
+
+### 2026-08-19 08:34:06  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #Hang Seng Index #CSI300
+
+MSCI Asia Pacific Index fell 2%, its largest decline since July 29.
+
+---
+
+### 2026-08-19 08:33:57  #公司 #國際
+
+三星電子：將投資2400億韓元在韓國光州建設新的暖通空調生產線。
+
+---
+
+### 2026-08-19 08:33:53  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Drop as Tech Selloff Intensifies — The Nikkei 225 Index fell 2.9% to around 65,500, while the broader Topix Index declined 2.4% to 4,040 on Wednesday, with Japanese shares sliding for a second consecutive session as the selloff in semiconductor and other technology stocks intensified. Local equities also tracked losses on Wall Street overnight, where AI-linked chipmakers came under heavy selling pressure. Meanwhile, elevated global bond yields and rising oil prices further dampened investor sentiment, with Japan’s 10-year bond yield climbing to 30-year highs this week. Notable declines were recorded among Japanese companies heavily exposed to the global AI supply chain, including Kioxia Holdings (-10%), Furukawa Electric (-9.8%), Advantest (-4.4%), Tokyo Electron (-4.7%) and Fujikura (-8.4%). Financial and consumer stocks also fell, with Mitsubishi UFJ losing 4% and Toyota Motor dropping 2%.
+
+---
+
+### 2026-08-19 08:33:52  #其他
+
+【朱雀三號副總設計師：藍箭有自己的 “臭鼬工廠”，朱雀三核心技術全自研】朱雀三號副總設計師董鍇表示，藍箭有個部門叫天馬實驗室，它的定位類似於洛馬的臭鼬工廠（全球航空航天領域最著名的秘密尖端技術研發機構之一，曾研製出 F-22 猛禽戰鬥機），就是集結先鋒部隊專門解決不鏽鋼工藝的問題。現在我們用鐳射焊，基本是機器自動化。目前整個火箭焊接的自動化生產都是藍箭自己解決的。供應商能做的事我們不重複造輪子，但火箭焊接這件事外包供應鏈沒有優勢。（晚點LatePost）
+
+---
+
+### 2026-08-19 08:32:00  #公司 #市場 #國際
+
+【MSCI亞太指數創三週最大跌幅 三星和SK海力士拖累最大】MSCI亞太指數跌幅高達2%，創7月29日以來最大跌幅，追隨隔夜遭遇拋售的美國半導體股票下跌。韓國Kospi指數一度下跌6.8%，創7月29日以來最大跌幅。三星電子下跌7.6%，SK海力士下跌9.5%。日本東證指數下跌2.7%。
+
+---
+
+### 2026-08-19 08:31:07  #市場
+
+【今年上半年醫保輔助生殖惠及約170萬人次】記者8月19日從國家醫保局獲悉，2026年上半年，全國使用醫保輔助生殖的各專案累計達170.96萬人次，就診總量穩步上漲，醫保輔助生殖專案支援誕生的新生兒數量達13.97萬人，按此數量進行推算，2026年全年有望近30萬名寶寶在醫保政策守護下降生。同期，輔助生殖專案直接費用29.7億元，醫保基金累計支出超19億元。（新華社）
+
+---
+
+### 2026-08-19 08:30:40  #MKT News
+
+【CITIC Securities: Interest in compute-power tech, micro-cap crossovers, new power-supply architecture and lithium batteries likely to reheat】CITIC Securities says after last week's broad rally the market rotated into high-level, differentiated consolidation, marking a second style switch. The Shanghai Composite fell as formerly defensive large-cap blue chips weakened; the ChiNext Index rose against the trend while STAR 50 and Beijing 50 softened. Earlier leaders in nonferrous metals gave back the most ground; only communications outperformed, supported by overseas validation of the compute-power chain. Average daily turnover slipped to CNY 2.35 trillion; incremental flows rotated into bond ETFs for hedging, and a rebound from low levels is still building. Based on catalysts and timing, compute-power technologies, micro-cap crossovers, new power-supply architecture and lithium batteries are likely to heat up; CITIC Securities recommends focusing on these four themes given the market environment, catalysts and composite quant indicators.
 
 ---
 
@@ -18572,329 +18740,5 @@ Iran's foreign minister, responding to Iraq's foreign minister, said Iran has no
 ### 2026-08-18 01:45:19  #Trading Economics #Markets #commodity #Importance 0
 
 Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%.
-
----
-
-### 2026-08-18 01:34:40  #MKT News
-
-【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity.
-
----
-
-### 2026-08-18 01:32:07  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude futures are up 2.0% intraday at $84.05/bbl.
-
----
-
-### 2026-08-18 01:28:16  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Exxon Mobil Stock Price Hits 12-week High — Exxon Mobil shares increased to 161.68 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 8.94%, and in the last 12 months, it increased 51.44%.
-
----
-
-### 2026-08-18 01:27:00  #市場
-
-WTI原油日內漲2%，現報83.10美元/桶。
-
----
-
-### 2026-08-18 01:26:56  #MKT News #Important #Brent #Impact bullish
-
-Brent crude up 2% intraday at $88.95/bbl.
-
----
-
-### 2026-08-18 01:26:31  #市場
-
-布倫特原油日內漲2%，現報90.29美元/桶。
-
----
-
-### 2026-08-18 01:25:52  #市場 #焦點
-
-WTI原油突破83美元/桶，日內漲1.88%。
-
----
-
-### 2026-08-18 01:25:15  #其他
-
-葉門政府武裝稱，其對馬裡卜南部戰線的胡塞武裝陣地實施了打擊。
-
----
-
-### 2026-08-18 01:22:46  #央行 #美聯儲
-
-美聯儲隔夜逆回購協議（RRP）週一使用規模為25.5億美元，交易對手6家。
-
----
-
-### 2026-08-18 01:22:20  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Climbs to 3-Week High — US gasoline futures traded above $3.20 per gallon, reaching a three-week high as Middle East peace talks stalled. Iran warned of further escalation if the US fails to fully implement an interim deal, while the US threatened military action against Oman and demanded Iran’s surrender. At the pump, the average US gasoline price reached $4.06 per gallon, more than $1 above its level a year earlier. Elsewhere, repeated Ukrainian strikes on Russian oil refineries triggered a fresh wave of fuel shortages, while Moscow extended its fuel export restrictions. However, continued crude shipments through the Persian Gulf waterway despite the conflict eased some supply concerns. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, stating refiners are operating at record high. Meanwhile, Russia received at least one gasoline shipment from India, seeking to alleviate domestic shortages.
-
----
-
-### 2026-08-18 01:18:37  #市場 #焦點
-
-布倫特原油突破90美元/桶，日內漲1.71%。
-
----
-
-### 2026-08-18 01:17:59  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted dlr 255 mln from six counterparties in a fixed-rate reverse repo operation.
-
----
-
-### 2026-08-18 01:17:22  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-U.S. Energy Secretary Wright, commenting on U.S. military operations in the Strait of Hormuz, said the U.S. is exporting about 8–9 million barrels of oil per day.
-
----
-
-### 2026-08-18 01:17:03  #焦點 #國際
-
-美國能源部長賴特談及美軍在霍爾木茲海峽的行動：美國目前保障每日800‑900萬桶石油外運。
-
----
-
-### 2026-08-18 01:16:47  #央行 #國際
-
-週一（8月17日），美聯儲隔夜逆回購協議（RRP）使用規模為25.5億美元，交易對手6家。
-
----
-
-### 2026-08-18 01:16:42  #MKT News
-
-Iraqi prime minister says authorities will publicly announce findings from the investigation into the attack on the Kurdistan Regional Government prime minister's office.
-
----
-
-### 2026-08-18 01:15:47  #市場
-
-納斯達克100指數轉跌，抹去了高達0.5%的漲幅。
-
----
-
-### 2026-08-18 01:15:24  #MKT News
-
-Canadian Prime Minister Carney said Ottawa is engaged in tense, delicate negotiations with the United States that will not be conducted publicly.
-
----
-
-### 2026-08-18 01:14:56  #市場 #央行 #國際
-
-【美國30年期國債收益率觸及2007年以來高位】美國30年期國債收益率攀升至5.29%，創下2007年以來新高。投資者擔憂美國債務規模膨脹、國債大量發行以及通脹持續頑固，推動收益率上行。AI相關企業舉債融資，疊加長期債券需求走弱，進一步帶來壓力。儘管就業、通脹與零售資料走弱，市場下調美聯儲短期加息預期，但美債拋售仍在延續。與此同時，長端收益率上行、短端收益率回落，收益率曲線陡峭化。
-
----
-
-### 2026-08-18 01:14:40  #國際
-
-加拿大總理卡尼：正與美國進行緊張而微妙的談判，不會公開進行對話。
-
----
-
-### 2026-08-18 01:14:02  #國際
-
-美國司法部對安德森·霍洛維茨基金董事會成員展開調查。
-
----
-
-### 2026-08-18 01:13:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Press TV: Pentagon assessment says current military plans cannot guarantee Strait of Hormuz security】Iran's Press TV, citing a regional intelligence source, reported the Pentagon has concluded existing military plans cannot guarantee safe passage through the Strait of Hormuz or the stability of regional energy supplies. The source said the assessment reflects a strategic impasse in the Gulf, that no current military plan has sufficient political or security capacity to keep the strait open, protect shipping, and maintain energy stability. The source added the U.S. cannot control the waterway, dealing a serious blow to Washington's regional posture and exposing U.S. military limits against Iran's growing asymmetric capabilities.
-
----
-
-### 2026-08-18 01:12:37  #MKT News #GBPUSD
-
-Carney said an opportunity will arise over the next 48 hours to discuss the progress of negotiations in greater detail.
-
----
-
-### 2026-08-18 01:12:03  #MKT News
-
-US Energy Secretary Wright said the US is pursuing a long-term strategy on Iran.
-
----
-
-### 2026-08-18 01:11:38  #MKT News #WTI #Impact mixed #Brent
-
-U.S. Energy Secretary Wright said the U.S. will continue to enhance its ability to escort shipping through the Strait of Hormuz.
-
----
-
-### 2026-08-18 01:11:13  #其他
-
-加拿大總理卡尼：隨著談判推進，未來48小時內我們將有機會展開更詳細的討論。
-
----
-
-### 2026-08-18 01:10:56  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US Energy Secretary Wright said Middle East oil supplies have not fully recovered.
-
----
-
-### 2026-08-18 01:10:42  #國際
-
-美國能源部長賴特談及伊朗問題：美國正在打持久戰。
-
----
-
-### 2026-08-18 01:10:20  #MKT News #Market Themes #The Trump Trade
-
-Canadian Prime Minister Carney said he expects to speak with U.S. President Trump before the tariff deadline on Aug. 19 local time.
-
----
-
-### 2026-08-18 01:09:56  #MKT News
-
-Yemen's military said it used artillery in southwest Taiz province to strike one Houthi tank, one military vehicle and six patrol positions.
-
----
-
-### 2026-08-18 01:09:46  #國際
-
-加拿大總理卡尼表示，他預計會在8月19日關稅截止日期前與特朗普通話。
-
----
-
-### 2026-08-18 01:09:34  #國際
-
-美國能源部長賴特：在霍爾木茲海峽航運護航方面，我們的能力還將繼續提升。
-
----
-
-### 2026-08-18 01:09:08  #國際
-
-美國能源部長賴特：中東的石油產量還沒有完全恢復到正常水平。
-
----
-
-### 2026-08-18 01:08:06  #國際
-
-美國中央司令部：截至8月17日，中央司令部部隊已迫使64艘商船改道，癱瘓3艘船隻，並登船檢查2艘，以確保各方遵守封鎖要求。
-
----
-
-### 2026-08-18 01:08:04  #MKT News
-
-【Iranian media: regional states see US as 'paralyzed', seek bilateral deals with Iran】Press TV quoted an Arab diplomat saying regional states view US President Trump’s "reckless" decisions and "condescending" posture as eroding trust in Washington. The diplomat said they believe the US has not only failed militarily against Iran but also lacks the ability and confidence to secure diplomatic understandings with Tehran, prompting some countries to pursue urgent bilateral negotiations with Iran rather than rely on US decision-making.
-
----
-
-### 2026-08-18 01:08:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Central Command said on Aug. 17 it had forced 64 merchant vessels attempting to breach the blockade to divert, rendered three non‑compliant ships inoperable, and boarded and inspected two vessels to ensure compliance with requirements.
-
----
-
-### 2026-08-18 01:05:55  #公司
-
-奈飛聘請華納兄弟高管凱蒂·馬丁·凱利擔任傳播副總裁。
-
----
-
-### 2026-08-18 01:04:02  #MKT News #GD.O #Impact bullish #HII.O
-
-US Navy says Virginia-class nuclear-powered attack submarine USS Massachusetts has completed sea trials, is ready for fleet operations and has been granted an exemption from post-trial maintenance due to its good condition.
-
----
-
-### 2026-08-18 01:03:27  #公司 #國際
-
-【伊朗：阿聯酋油輪在霍爾木茲海峽遭截停】船舶航行追蹤資料顯示，一艘阿聯酋公司所屬油輪在穿越霍爾木茲海峽途中被截停。這艘阿聯酋油輪是在格什姆島附近被攔停。
-
----
-
-### 2026-08-18 01:00:42  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Iranian outlet Fars News reports Iran detained a UAE-owned oil tanker in the Strait of Hormuz.
-
----
-
-### 2026-08-18 01:00:25  #焦點 #國際
-
-伊朗在霍爾木茲海峽扣押了一艘阿聯酋油輪。
-
----
-
-### 2026-08-18 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收跌0.97%，滬銅收跌0.84%，滬鋁收跌0.15%，滬鋅收跌0.48%，滬鉛收漲0.09%，滬鎳收跌0.06%，滬錫收跌1.47%。氧化鋁夜盤收跌0.56%，鋁合金收跌0.71%。不鏽鋼夜盤收漲0.32%。
-
----
-
-### 2026-08-18 00:59:08  #其他
-
-【中國政府援助哥倫比亞緊急人道主義救災物資啟運】18日凌晨，中國政府向哥倫比亞提供的緊急人道主義地震救災援助物資從北京首都國際機場啟運。此次發運的物資包括發電機、淨水車、消毒機、太陽能照明裝置、帳篷和毯子等，裝機結束後，包機將飛往哥倫比亞首都波哥大，計劃在當地時間18日中午運抵。（央視新聞）
-
----
-
-### 2026-08-18 00:57:44  #市場
-
-倫敦可可期貨上漲超4.5%，報每噸4360英鎊。
-
----
-
-### 2026-08-18 00:57:04  #市場
-
-洲際交易所紐約可可期貨上漲近5%，報每噸6,048美元。
-
----
-
-### 2026-08-18 00:56:46  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #EURUSD #Impact bearish #DAX
-
-Fitch Ratings says overdue payments are driving an increase in corporate defaults in Europe.
-
----
-
-### 2026-08-18 00:54:54  #MKT News
-
-IMF staff will visit Dakar, Senegal from Aug 19 to Sep 1.
-
----
-
-### 2026-08-18 00:54:49  #其他
-
-國際貨幣基金組織：基金組織工作人員團隊將於8月19日至9月1日訪問塞內加爾達喀爾。
-
----
-
-### 2026-08-18 00:54:40  #MKT News
-
-A Ukrainian official said the Odesa region was struck again in a Russian attack, injuring four people including two children. The strike caused partial damage, ignited the roof of a private home and nearby hay, and its shockwave damaged surrounding buildings.
-
----
-
-### 2026-08-18 00:53:35  #國際
-
-惠譽評級：支付違約導致歐洲違約事件增多。
-
----
-
-### 2026-08-18 00:52:01  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #XAUUSD
-
-Fitch Ratings said the US corporate default rate was broadly unchanged in July, but the overall volume of defaults is expected to increase going forward.
-
----
-
-### 2026-08-18 00:51:17  #公司
-
-維多集團稱，其可再生能源子公司從Meridan Gridworks手中收購南卡羅來納州一處資料中心園區，這也是大型大宗商品交易商涉足人工智慧基礎設施領域的早期案例之一。
-
----
-
-### 2026-08-18 00:50:06  #焦點 #國際
-
-惠譽評級：7月美國企業違約率基本持平，違約規模將上升。
-
----
-
-### 2026-08-18 00:49:24  #宏觀 #國際
-
-【伊朗最高領袖顧問：美國的未來將由“家庭餐桌”而非“作戰室”決定】伊朗革命最高領袖一名高階顧問韋拉亞提批評美國政府針對伊朗民眾的威脅言論，表示美國的未來最終將由國內經濟現狀決定，而非軍事規劃室做出的決策。他援引美國官員近期表態：美國財政部長談及對伊朗實施經濟制裁，美國總統則重申“所有選項均擺在檯面上”。但韋拉亞提表示，美國民眾正在為本屆政府的敵對政策承擔代價。
 
 ---
