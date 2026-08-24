@@ -1,7 +1,322 @@
 {
-  "updated": "2026-08-24 21:32:38",
-  "count": 15781,
+  "updated": "2026-08-24 21:40:27",
+  "count": 15802,
   "items": [
+    {
+      "id": "mkt:01a033ff-b332-7aab-90f8-9a141b55d619",
+      "time": "2026-08-24 21:39:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump will raise tariffs on Canadian autos and steel to 50%."
+    },
+    {
+      "id": "5055877",
+      "time": "2026-08-24 21:39:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國南蘇丹特派團24日發表宣告說，兩名聯合國維和人員當天遭伏擊身亡。（新華社）"
+    },
+    {
+      "id": "5055876",
+      "time": "2026-08-24 21:39:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在美國本土建廠，關稅全免。"
+    },
+    {
+      "id": "5055875",
+      "time": "2026-08-24 21:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱：2027年1月1日起，所有轎車、卡車（無論大小）、汽車零部件以及鋼鐵的關稅將上調至50%。"
+    },
+    {
+      "id": "5055874",
+      "time": "2026-08-24 21:39:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不需要加拿大，是他們需要我們。"
+    },
+    {
+      "id": "5055873",
+      "time": "2026-08-24 21:39:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大將不再被視為一個州。"
+    },
+    {
+      "id": "5055872",
+      "time": "2026-08-24 21:38:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.04%，現報11383.41點。英偉達跌1.05%，博通跌1.65%，美光跌6.14%，英特爾跌4.04%，AMD跌3.40%，高通跌1.82%，臺積電跌2.32%，阿斯麥跌1.18%。"
+    },
+    {
+      "id": "5055871",
+      "time": "2026-08-24 21:38:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【截至2026年7月底 期貨市場資金總量2.64萬億元】中國期貨市場監控中心釋出的資料顯示，近年來，期貨市場資金穩步增長。截至2026年7月底，期貨市場資金總量2.64萬億元，較2025年底增長23%；期貨公司客戶權益合計2.49萬億元，較2025年底增長24%，其中，一般單位及特殊法人客戶權益增幅分別為29%、28%。與此同時，期貨公司客戶結構持續最佳化，截至2026年7月底，機構客戶權益佔比73%，自2024年以來呈持續提升態勢。"
+    },
+    {
+      "id": "5055870",
+      "time": "2026-08-24 21:37:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 安大略省省長福特稱加拿大應當做好向美國斷電的準備。"
+    },
+    {
+      "id": "5055869",
+      "time": "2026-08-24 21:37:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "TERAWULF股價上漲3%，此前肯塔基州公共服務委員會批准了該公司Justified資料園區的482兆瓦電力協議。"
+    },
+    {
+      "id": "5055868",
+      "time": "2026-08-24 21:36:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國對加拿大商品加徵關稅生效，龐巴迪、麥格納等加拿大製造商股價下跌。"
+    },
+    {
+      "id": "5055867",
+      "time": "2026-08-24 21:36:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：利比亞與雪佛龍簽署產量分成協議。"
+    },
+    {
+      "id": "5055866",
+      "time": "2026-08-24 21:36:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "鋼鐵動力公司股價上漲6.3%，美國紐柯公司股價上漲4.9%，克利夫蘭-克利夫斯公司股價上漲8%，世紀鋁業股價上漲4.7%。"
+    },
+    {
+      "id": "5055865",
+      "time": "2026-08-24 21:35:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1383.50美元/盎司。"
+    },
+    {
+      "id": "5055864",
+      "time": "2026-08-24 21:35:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【立訊精密：擬註冊發行不超過人民幣250億元債券】立訊精密公告，公司於2026年8月24日召開第六屆董事會第二十八次會議，審議透過擬註冊發行不超過人民幣250億元（含250億元）的債券，包含公司債券和銀行間市場非金融企業債務融資工具；本次發行期限不超過10年（含10年），議案需提交股東會審議，取得相關注冊或稽核同意後方可實施。"
+    },
+    {
+      "id": "5055863",
+      "time": "2026-08-24 21:35:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4680美元/盎司，日內漲1.64%。"
+    },
+    {
+      "id": "5055862",
+      "time": "2026-08-24 21:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度孟買證券交易所（BSE）資料顯示，軟銀透過大宗交易以每股641.75盧比的價格出售了倫斯卡（Lenskart）4500萬股股票。"
+    },
+    {
+      "id": "te:markets:577630",
+      "time": "2026-08-24 21:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "NextEra Energy Stock Price Hits 10-week Low — NextEra Energy shares decreased to 83.45 USD, the lowest since June 2026. Over the past 4 weeks, NextEra Energy lost 6.49%, and in the last 12 months, it increased 9.55%."
+    },
+    {
+      "id": "mkt:01a033fb-072f-7aab-90f8-97013e202590",
+      "time": "2026-08-24 21:34:44",
+      "tags": [
+        "MKT News",
+        "PDD.O",
+        "Impact bullish"
+      ],
+      "text": "Pinduoduo (PDD.O) shares rose over 2% after Q2 adjusted profit beat expectations."
+    },
+    {
+      "id": "mkt:01a033fa-8281-7aab-90f8-89c404480f2b",
+      "time": "2026-08-24 21:34:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "S&P 1500 Steel Index up 4.2%, poised for its biggest gain since July 28."
+    },
+    {
+      "id": "5055861",
+      "time": "2026-08-24 21:34:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【越南國會批准增設廣寧和北寧為直轄市】據越通社8月24日報道，越南國會當天透過決議，批准增設廣寧和北寧為直轄市。報道說，增設的兩個直轄市由廣寧省和北寧省升格而來，分別位於越南北部沿海與紅河三角洲腹地。越南現有7個直轄市，此次增設後升至9個。（新華社）"
+    },
+    {
+      "id": "mkt:01a033fa-53d9-7aab-90f8-87f10c99e325",
+      "time": "2026-08-24 21:33:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bearish"
+      ],
+      "text": "Alibaba (BABA.N) shares fell more than 1% after the company completed a $10 billion placement of shares in Hong Kong."
+    },
+    {
+      "id": "5055860",
+      "time": "2026-08-24 21:33:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "在美國對加拿大商品加徵50%關稅後，美國鋼鐵與鋁業企業股價上漲。"
+    },
+    {
+      "id": "5055859",
+      "time": "2026-08-24 21:33:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普1500鋼鐵指數上漲4.2%，有望創下7月28日以來最大單日漲幅。"
+    },
+    {
+      "id": "5055858",
+      "time": "2026-08-24 21:33:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局建立“一帶一路”能源合作伙伴關係合作網路“人工智慧+能源”工作組】國家能源局綜合司釋出關於建立“一帶一路”能源合作伙伴關係合作網路“人工智慧+能源”工作組的通知。加強成員國在人工智慧助力能源轉型、綠色能源支撐算力可持續發展等領域的政策溝通與經驗分享，研判技術趨勢與治理議題，凝聚多邊合作共識。聚焦新能源功率預測、電力系統最佳化執行、新型儲能調控、多能協同最佳化等場景，以及綠色能源支撐算力基礎設施建設等方向，推動聯合研發、技術交流與示範合作。針對數字能源標準規範、技術認證、綠色算力評價、能源資料合作治理等前沿議題開展聯合研究，推動能源與數字領域規則標準銜接協同。面向成員國開展專題培訓、研討交流與人才培養，提升各國能源數字化、智慧化發展的技術能力與治理水平。（國家能源局）"
+    },
+    {
+      "id": "5055857",
+      "time": "2026-08-24 21:33:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "加利福尼亞州總檢察長：指控派拉蒙洩露和解磋商核心內容，並對磋商內容作虛假陳述。"
+    },
+    {
+      "id": "5055856",
+      "time": "2026-08-24 21:33:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "拼多多（PDD Holdings）股價上漲2.6%，此前該公司公佈的第二季度調整後利潤超出市場預期。"
+    },
+    {
+      "id": "mkt:01a033f9-658f-7aab-90f8-792a14d7e30e",
+      "time": "2026-08-24 21:32:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks opened mixed on Monday, Aug 24: Dow Jones Industrial Average +71.54 pts (+0.13%) at 53,348.55; S&P 500 -18.34 pts (-0.24%) at 7,655.96; Nasdaq Composite -141.76 pts (-0.54%) at 26,038.69."
+    },
+    {
+      "id": "5055855",
+      "time": "2026-08-24 21:32:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度擬出售印度斯坦銅業最多6%的股份。"
+    },
+    {
+      "id": "5055854",
+      "time": "2026-08-24 21:32:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "REGENXBIO股價下跌24%，此前美國食品藥品監督管理局(FDA)暫停了該公司針對亨特綜合徵的基因療法的臨床試驗。"
+    },
+    {
+      "id": "5055853",
+      "time": "2026-08-24 21:32:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧比中光與釐清智慧達成戰略合作 提升世界模型資料質量】“奧比中光”公眾號訊息，近日，世界機器人大會期間，奧比中光與物理AI智慧基礎設施提供商釐清智慧達成戰略合作。雙方將圍繞世界模型的資料採集與訓練，針對高質量3D深度資料供給、視覺感測器與模擬世界雙向對齊與統一等方向展開深度合作，推進“3D視覺感知+物理世界模型”解決方案落地，提升世界模型訓練資料質量。"
+    },
+    {
+      "id": "5055852",
+      "time": "2026-08-24 21:32:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "RUM GROUP與雲客戶簽署價值137億美元的六年GPU服務合同後，股價上漲4%。"
+    },
+    {
+      "id": "5055851",
+      "time": "2026-08-24 21:32:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "NAPCO安全科技公司股價上漲32%，此前該公司第四季度調整後利潤及收入均超出市場預期。"
+    },
+    {
+      "id": "5055850",
+      "time": "2026-08-24 21:32:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，小馬智行跌5.10%，百勝中國跌4.81%，文遠知行跌3.88%，金山雲跌3.99%，禾賽科技跌3.68%。"
+    },
+    {
+      "id": "5055849",
+      "time": "2026-08-24 21:32:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "小鵬汽車在美上市股份下跌2.4%，此前該公司第二季度營收不及市場預期。"
+    },
     {
       "id": "5055848",
       "time": "2026-08-24 21:31:47",
@@ -142877,148 +143192,6 @@
         "國際"
       ],
       "text": "俄羅斯 7 月工業產出同比增長 4.9%。"
-    },
-    {
-      "id": "te:markets:575878",
-      "time": "2026-08-17 21:40:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.29% Lower — The Dow Jones Index is falling 158 points. Losses were driven by McDonalds (-1.81%), UnitedHealth (-1.63%) and Microsoft (-1.09%). Biggest rises came from Cisco Systems (1.49%), Caterpillar (0.70%) and Goldman Sachs (0.31%)."
-    },
-    {
-      "id": "te:markets:575877",
-      "time": "2026-08-17 21:39:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a second session on Monday, rising about 0.5% to 2,878 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the second day, up 1.2% to 4,590 points; and the supramax index went up 0.4% to its highest level since July 28 at 1,628 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 1% to its lowest since August 4 at 2,206 points."
-    },
-    {
-      "id": "5044469",
-      "time": "2026-08-17 21:38:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "約旦國王阿卜杜拉二世接受新華社專訪。（新華社）"
-    },
-    {
-      "id": "te:markets:575876",
-      "time": "2026-08-17 21:38:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Start Week Muted — US stock indices were muted on Monday as fresh confidence in the AI trade weighed against macroeconomic headwinds. The S&P 500 was flat, while the Dow inched down and the Nasdaq 100 inched up. AI hyperscalers and infrastructure companies alike rose after strong revenue growth from Anthropic supported the case that AI model development and capital expenditure on datacenters will be sustained in the medium term. The company posted $11.5 billion in revenue during the second quarter and is meeting with banks for a potential IPO, likely to be the biggest on record. Memory chip producers Sandisk and Micron jumped 5% and 6%, respectively, while Nvidia and Amazon were slightly higher. In turn, traditional economic sectors extended the underperformance from last week, with the Dow hovering below the flatline. Walmart and Home Depot were muted ahead of their earnings this week."
-    },
-    {
-      "id": "5044468",
-      "time": "2026-08-17 21:37:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外長奉勸日本】俄羅斯外長拉夫羅夫今天（8月17日）在與迦納外長會談後舉行的記者會上，就“日本抗議俄羅斯總統普京登上俄日爭議島嶼”一事指出，日方正試圖按自身和其盟友美國的利益改寫國際法，逃避歷史責任，並違反日本本國憲法。從其目前的相關表態來看，日本正試圖背棄“無核三原則”，日本自衛隊也企圖違反日本現行憲法、在海外開展行動，所有這些都引發極大的擔憂。拉夫羅夫警告說，如果日方想借攻擊俄羅斯來轉移外界對日本侵略性軍國主義路線的注意力，那麼俄方奉勸日方還是先管好自己的事，處理好日本國內需要處理的諸多問題。 據拉夫羅夫介紹，俄羅斯外交部已就日方抗議普京登島提出召見日本大使，但日本大使館以“大使不在莫斯科”或“身體不適”為由，拒絕其在8月14日或17日前往俄羅斯外交部。（CCTV國際時訊）"
-    },
-    {
-      "id": "5044467",
-      "time": "2026-08-17 21:35:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華住美股開盤上漲8%】華住美股開盤上漲8%，華住集團2026年第二季度營收同比增長10.8%至71億元。"
-    },
-    {
-      "id": "mkt:01a00fef-7a41-7aab-9063-5c61b517642c",
-      "time": "2026-08-17 21:35:47",
-      "tags": [
-        "MKT News",
-        "LUNR.O",
-        "Impact bullish"
-      ],
-      "text": "Intuitive Machines shares rose 5.7% after the company was awarded a multi-satellite project contract worth more than $600m."
-    },
-    {
-      "id": "5044466",
-      "time": "2026-08-17 21:35:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "直覺機器公司股價上漲5.7%，此前該公司獲授權開展價值超6億美元的多衛星專案。"
-    },
-    {
-      "id": "5044465",
-      "time": "2026-08-17 21:35:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股盤初，主要行業ETF漲跌不一，半導體ETF漲超1%，全球科技股指數ETF漲1%，日常消費品ETF跌近1%。"
-    },
-    {
-      "id": "te:markets:575875",
-      "time": "2026-08-17 21:34:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises on Energy Gains — The Ibovespa rose more than 0.5% to trade close to 168,000 on Monday, rebounding from a seven-month low with support from the energy sector. Petrobras added over 1% as oil prices rose amid persistent tensions in the Middle East. Prio (+1%) and Brava (+1%) also gained. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round. Heavyweight shares also supported the index, with Axia and Sabesp rising over 1% and WEG adding nearly 1%. In contrast, financials traded lower amid energy-driven inflation concerns. Itaú, Banco do Brasil and Itaúsa shed about 0.5%, while Bradesco lost 1%. Vale edged lower despite higher iron ore prices."
-    },
-    {
-      "id": "mkt:01a00fed-a6b4-7aab-9063-53f373c56586",
-      "time": "2026-08-17 21:33:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "Fullgoal Investment Research Institute cut its gold price targets, lowering the end-2026 target to $4,900–$5,100 per ounce from $5,300–$5,500 and the 2027 target to $5,400–$5,600 per ounce from $5,800–$6,000, while still forecasting long-term upside for gold."
-    },
-    {
-      "id": "5044464",
-      "time": "2026-08-17 21:33:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：內塔尼亞胡與庫什納已達成協議，以色列軍隊將保持\"行動自由”。"
-    },
-    {
-      "id": "mkt:01a00fed-03e7-7aab-9063-4ea5abfb8823",
-      "time": "2026-08-17 21:33:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 opened down 0.93 points (-0.01%) at 7,784.80 on Monday, Aug. 17; Dow Jones Industrial Average opened down 135.27 points (-0.25%) at 53,597.14; Nasdaq Composite opened up 47.27 points (0.18%) at 26,776.43."
-    },
-    {
-      "id": "5044463",
-      "time": "2026-08-17 21:32:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行投資研究所將2027年末金價目標區間從此前預測的每盎司5800-6000美元下調至每盎司5400-5600美元。"
     }
   ]
 }
