@@ -1,7 +1,24 @@
 {
   "date": "2026-08-25",
-  "count": 225,
+  "count": 228,
   "items": [
+    {
+      "id": "mkt:01a03538-3675-7aab-90fe-987a2d1852aa",
+      "time": "2026-08-25 03:21:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News: Iran's president said the US should change its tone and approach in dealings with Iran, warning reliance on hard pressure and bullying will only complicate implementation."
+    },
+    {
+      "id": "5056143",
+      "time": "2026-08-25 03:18:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "拖拉機供應公司成交量大幅放大，股價上漲，最新漲3%。"
+    },
     {
       "id": "mkt:01a03535-1dba-7aab-90fe-92e577f9c9db",
       "time": "2026-08-25 03:17:48",
@@ -9,6 +26,14 @@
         "MKT News"
       ],
       "text": "【Dollar index up 0.2% to 99.003 on the 24th】The dollar index, which measures the greenback against six major currencies, rose 0.2% to 99.003 at the New York FX close on the 24th. EUR/USD 1.1663, down from 1.1683; GBP/USD 1.3631, down from 1.3652. USD/JPY 159.19, up from 159.02; USD/CHF 0.8026, up from 0.8008; USD/CAD 1.3850, up from 1.3761; USD/SEK 9.4973, up from 9.4626."
+    },
+    {
+      "id": "5056142",
+      "time": "2026-08-25 03:17:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於99.003。截至紐約匯市尾市，1歐元兌換1.1663美元，低於前一交易日的1.1683美元；1英鎊兌換1.3631美元，低於前一交易日的1.3652美元。1美元兌換159.19日元，高於前一交易日的159.02日元；1美元兌換0.8026瑞士法郎，高於前一交易日的0.8008瑞士法郎；1美元兌換1.3850加元，高於前一交易日的1.3761加元；1美元兌換9.4973瑞典克朗，高於前一交易日的9.4626瑞典克朗。"
     },
     {
       "id": "mkt:01a03534-5cb1-7aab-90fe-8a97e8d6a808",
