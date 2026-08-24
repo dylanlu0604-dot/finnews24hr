@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-25 01:32:40",
-  "count": 15856,
+  "updated": "2026-08-25 01:36:42",
+  "count": 15857,
   "items": [
+    {
+      "id": "mkt:01a034d5-d471-7aab-90fd-ac8ee2eb507b",
+      "time": "2026-08-25 01:33:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Bitcoin",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【US Treasury's Bessent announces economic offensive to sever Iran's global ties】US Treasury Secretary Bessent announced an unprecedented economic offensive aimed at severing Iran’s links to the global economy and warned countries that continue commercial ties could face US sanctions. The campaign will focus on five Iranian “lifelines”: digital assets, technology, gold, aviation and shipping. President Trump is pressing foreign leaders to halt economic engagement; affected countries will be given a deadline and, if they do not comply, the Treasury said it will act unilaterally. Bessent gave no implementation timetable or measure details and reiterated earlier threats of “economic wrath,” including secondary sanctions on foreign financial institutions, saying no one is beyond US sanctions. Analysts note Iran has endured years of sanctions and it is uncertain whether additional measures will force Tehran to yield on Strait of Hormuz issues."
+    },
+    {
+      "id": "5056105",
+      "time": "2026-08-25 01:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：義大利將不參與 “自願聯盟” 的演習。"
+    },
     {
       "id": "mkt:01a034d3-9cb0-7aab-90fd-a76d7f43c2d1",
       "time": "2026-08-25 01:31:18",
@@ -143740,14 +143761,6 @@
         "Importance 0"
       ],
       "text": "Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%."
-    },
-    {
-      "id": "mkt:01a010ca-2fae-7aab-9067-53784ba2523a",
-      "time": "2026-08-18 01:34:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Large wildfire in eastern Belgium still uncontrolled】A large wildfire in eastern Belgium entered its fourth day on the 17th. Emergency services say the blaze has stopped spreading toward the German border but remains uncontrolled, and changing weather could trigger renewed fire activity."
     }
   ]
 }
