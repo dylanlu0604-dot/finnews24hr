@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-25 02:44:46",
-  "count": 15829,
+  "updated": "2026-08-25 02:48:48",
+  "count": 15821,
   "items": [
+    {
+      "id": "5056127",
+      "time": "2026-08-25 02:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗經濟部長：伊朗已 “做好充分準備” 應對美國新一輪經濟攻勢。"
+    },
+    {
+      "id": "5056126",
+      "time": "2026-08-25 02:46:50",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特未釋放更多美債措施訊號 此前報道稱財政部或動用現金回購債券】美國財政部長斯科特·貝森特週一沒有進一步釋放有關調整美國債務管理方式的訊號。此前有報道稱，美國財政部可能動用部分現金儲備，為回購收益率較高的存量國債提供資金。貝森特週一在新聞釋出會上被問及是否很快會擴大回購時表示，“我們甚至還一隻債券都沒買。”在長期美債收益率升至多年最高水平後，貝森特上週宣佈了擴大後的國債回購計劃。週一被問及是否也在考慮縮減國債拍賣規模時，他表示，財政部將“繼續執行常規發行計劃”。他示意，在11月初下一次所謂的季度再融資公告發布之前，不會作出調整。"
+    },
     {
       "id": "te:markets:577686",
       "time": "2026-08-25 02:42:32",
@@ -143407,92 +143426,6 @@
         "市場"
       ],
       "text": "布倫特原油期貨結算價報每桶90.87美元，上漲2.35美元，漲幅2.65%。"
-    },
-    {
-      "id": "5044724",
-      "time": "2026-08-18 02:47:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日駐俄大使一度未接受俄方召見】俄羅斯外長拉夫羅夫8月17日在評論日本方面針對俄羅斯總統普京登上俄日爭議島嶼的表態時證實，俄羅斯外交部近日連續召見日本駐俄羅斯大使武藤顯，可日本駐俄大使館卻以武藤“不在莫斯科”或“身體不適”等理由回應，稱武藤無法接受召見。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a0110d-2ee0-7aab-9068-6d18db9c1009",
-      "time": "2026-08-18 02:47:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $90.87 a barrel, up $2.35 or 2.65%."
-    },
-    {
-      "id": "mkt:01a0110c-f854-7aab-9068-6091c547e086",
-      "time": "2026-08-18 02:47:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Ukrainian lawmaker said President Zelenskiy has not yet submitted nominees for defense minister or foreign minister to the Verkhovna Rada (parliament)."
-    },
-    {
-      "id": "5044723",
-      "time": "2026-08-18 02:47:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "民調顯示：64%美國人不認可特朗普在白宮的施政表現。"
-    },
-    {
-      "id": "mkt:01a0110b-ef67-7aab-9068-5f4814b8784f",
-      "time": "2026-08-18 02:46:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "Refinitiv/Ipsos poll shows 80% of Americans expect U.S. involvement in Iran to be prolonged."
-    },
-    {
-      "id": "5044722",
-      "time": "2026-08-18 02:46:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "民調顯示：特朗普支援率跌至33%，創下其第二任期新低。"
-    },
-    {
-      "id": "mkt:01a0110b-d0be-7aab-9068-51c61bf50033",
-      "time": "2026-08-18 02:46:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Reuters/Ipsos poll shows 64% of Americans disapprove of Trump's performance in the White House."
-    },
-    {
-      "id": "5044721",
-      "time": "2026-08-18 02:46:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "民調顯示：80%美國人預計美國對伊朗的介入行動將長期持續。"
-    },
-    {
-      "id": "mkt:01a0110b-4a0e-7aab-9068-4b1e877960cc",
-      "time": "2026-08-18 02:45:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reuters/Ipsos poll shows U.S. President Trump’s approval rating fell to 33%, a new low in his second term."
-    },
-    {
-      "id": "mkt:01a0110a-7e21-7aab-9068-44c3301d030c",
-      "time": "2026-08-18 02:44:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US investment-grade corporates issued $145.2bn of bonds in August."
     }
   ]
 }
