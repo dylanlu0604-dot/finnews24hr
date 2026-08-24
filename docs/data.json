@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-25 04:26:32",
-  "count": 15843,
+  "updated": "2026-08-25 04:30:30",
+  "count": 15845,
   "items": [
+    {
+      "id": "mkt:01a03576-95bc-7aab-90ff-69c16028085b",
+      "time": "2026-08-25 04:29:19",
+      "tags": [
+        "MKT News",
+        "AGKO.N"
+      ],
+      "text": "Modular power provider Aggreko files IPO application, seeking a New York Stock Exchange listing under ticker \"AGKO\"."
+    },
+    {
+      "id": "5056181",
+      "time": "2026-08-25 04:27:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱摧毀兩處哈馬斯武器庫】以色列國防軍和以國家安全總局（辛貝特）24日發表聯合宣告稱，以軍當日打擊加沙地帶兩處巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的武器庫。（新華社）"
+    },
     {
       "id": "te:markets:577691",
       "time": "2026-08-25 04:24:06",
