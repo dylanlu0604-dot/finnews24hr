@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-25 01:53:55",
-  "count": 15859,
+  "updated": "2026-08-25 01:58:34",
+  "count": 15853,
   "items": [
+    {
+      "id": "5056110",
+      "time": "2026-08-25 01:56:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大總理講話要點總結】\n加拿大總理卡尼表示，他與美方談判代表的會談讓他看清，特朗普意圖以不公平的條件摧毀加拿大的支柱產業——鋼鐵、鋁和汽車。\n然而，他表示兩國之間仍有可能達成一項公平的協議——並重申，雙方已有現成的協議可以在此基礎上加以完善，即特朗普於2020年簽署的所謂美國墨西哥加拿大貿易協議（USMCA）。\n當被追問是否會利用加拿大對美國的能源和關鍵礦產供應作為籌碼時——這一策略已有許多人呼籲採用——卡尼過去曾對此持謹慎態度，但今天他並未斷然排除這一可能性。\n卡尼描述了在啟動他此前已承諾的對美關稅報復措施之前所面臨的複雜考量。由於美國經濟”遠比加拿大龐大得多”，他可能不得不採取更有針對性的反制路徑。\n他嚴厲抨擊了美方在談判桌上所持的不可接受的態度——即”把加拿大當作美國的子公司”，意圖隨著時間推移使加拿大處於不利地位。"
+    },
+    {
+      "id": "mkt:01a034e9-05c0-7aab-90fd-d1076f43f7b3",
+      "time": "2026-08-25 01:54:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department said Secretary of State Rubio spoke on Monday local time with the German foreign minister about a shared commitment to freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "5056109",
+      "time": "2026-08-25 01:53:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧同德國外交部長通電話，討論了俄羅斯和烏克蘭問題，還討論了霍爾木茲海峽的航行自由問題。"
+    },
     {
       "id": "te:economy:577678",
       "time": "2026-08-25 01:50:11",
@@ -143702,82 +143727,6 @@
         "Brent"
       ],
       "text": "WTI crude rose above $84/bbl for the first time since July 31, gaining 2.93% intraday. Brent crude rose 3% intraday to $89.83/bbl."
-    },
-    {
-      "id": "5044690",
-      "time": "2026-08-18 01:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部長與伊朗外長通話，討論了開放霍爾木茲海峽、繼續美伊停火等事宜。"
-    },
-    {
-      "id": "5044689",
-      "time": "2026-08-18 01:58:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：阿曼的表現不太好，但我們會處理好他們。"
-    },
-    {
-      "id": "5044688",
-      "time": "2026-08-18 01:57:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及阿曼：我認為他們的表現並不理想。"
-    },
-    {
-      "id": "5044687",
-      "time": "2026-08-18 01:56:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報91.18美元/桶。"
-    },
-    {
-      "id": "5044686",
-      "time": "2026-08-18 01:56:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破84美元/桶，日內漲3.12%。"
-    },
-    {
-      "id": "5044685",
-      "time": "2026-08-18 01:56:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破91美元/桶，日內漲2.87%。"
-    },
-    {
-      "id": "5044684",
-      "time": "2026-08-18 01:56:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報83.92美元/桶。"
-    },
-    {
-      "id": "mkt:01a010dc-d4bd-7aab-9067-77c06007b099",
-      "time": "2026-08-18 01:55:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Russian FM Lavrov says Japan using criticism of Russia to mask its own military moves】Russian Foreign Minister Lavrov said on July 17 that Tokyo’s criticism of President Putin’s visit to Iturup Island appears aimed at diverting attention from Japan’s “openly aggressive” military trajectory. He urged Japan to focus on domestic issues, accused Tokyo of coordinating with the United States to “rewrite” international law, and warned that Japan is evading historical responsibility and breaching constitutional limits to expand Self-Defense Force operations overseas—developments he described as “very concerning.”"
-    },
-    {
-      "id": "5044683",
-      "time": "2026-08-18 01:54:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及Flock車牌識別監控攝像頭：這件事有利有弊，我們很快會公佈對於Flock攝像頭的官方立場。"
     }
   ]
 }
