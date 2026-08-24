@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-24 10:59:16",
-  "count": 15747,
+  "updated": "2026-08-24 11:03:25",
+  "count": 15742,
   "items": [
+    {
+      "id": "5054401",
+      "time": "2026-08-24 11:02:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報2004.50點。"
+    },
+    {
+      "id": "5054400",
+      "time": "2026-08-24 11:02:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普成首位任內其子女創辦銀行的美國總統 華府監管為近20年最寬鬆】唐納德·特朗普家族即將擁有自己的銀行。總統的家族成員及商業夥伴已獲得初步批准，可以成立一家銀行。他們正搭上一波難得一見的浪潮：在特朗普政府推動放鬆監管之下，如今要取得全國性銀行執照，比過去近20年任何時候都更容易。在特朗普第二任期的頭19個月裡，貨幣監理署(OCC)批准了22份銀行執照申請，超過此前五年批准數量的總和。OCC資料顯示，這一波新申請者當中，許多是金融科技和數位資產公司。自2008年金融危機以來，如此龐大的批准數量十分罕見。當年金融危機後，銀行執照申請數量驟降，銀行監管機構也收緊審查。正如特朗普任命的OCC負責人Jonathan Gould在6月於國會作證時說的，“OCC再次開門做生意了。”"
+    },
+    {
+      "id": "te:markets:577449",
+      "time": "2026-08-24 11:01:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in China Hit 5-week Low — SHANGHAI 50 decreased to 2868.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Shanghai 50 lost 2.78%, and in the last 12 months, it decreased 4.06%."
+    },
+    {
+      "id": "5054398",
+      "time": "2026-08-24 11:00:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國 SET 指數開盤下跌 0.2%，報 1609.94 點。"
+    },
+    {
+      "id": "5054397",
+      "time": "2026-08-24 11:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列軍車駛入敘利亞南部的馬阿里亞村。"
+    },
+    {
+      "id": "5054396",
+      "time": "2026-08-24 10:59:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：上調貝殼目標價至23美元，維持“增持”評級】摩根士丹利發表報告指，貝殼持續擴大市場份額，加上強勁的第二季業績，證明其不斷提高的營運效率和超越市場基準的收益能力，可以轉化為長期可持續效益，維持“增持”評級，目標價由22美元升至23美元。該行預計貝殼全年非公認會計准則經營利潤103億元，同比升143%，經營利潤率11.8%；非公認會計准則淨利潤86億元，同比增72%，淨利潤率9.9%。由於次季業績超出預期，該行將2026年盈利預測上調15%、2027年上調12%、2028年上調10%，以及2029年及2030年各上調8%。"
+    },
+    {
+      "id": "5054395",
+      "time": "2026-08-24 10:58:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【璇璣動力：首款工業級過載四足機器人已實現量產並交付】記者從具身智慧獨角獸企業璇璣動力獲悉，該公司首款工業級過載四足機器人Hypertron T01已實現量產，並已批次交付頭部電網企業投入常態化執行。目前，璇璣動力已實現包括軸向磁通電機在內的高效能機器人本體及核心零部件全棧自研，形成“研發—量產—落地”全鏈路閉環。"
+    },
     {
       "id": "5054394",
       "time": "2026-08-24 10:58:20",
@@ -143593,107 +143656,6 @@
         "SZSE Component"
       ],
       "text": "China A-share memory-chip sector extended gains. Debang Technology hit a 20% limit-up and Tongfu Microelectronics hit the daily limit. Tianzun Technology, Gailun Electronics, Zhongwei Semiconductor and Puran Co. each rose more than 10%."
-    },
-    {
-      "id": "5043359",
-      "time": "2026-08-17 11:03:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4667.00點。"
-    },
-    {
-      "id": "5043358",
-      "time": "2026-08-17 11:02:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國在稀土檢測關鍵技術領域取得重要進展】今天瞭解到，近日，我國在稀土檢測關鍵技術領域取得重要進展。長期以來，高純稀土中稀土雜質含量準確測定面臨基體干擾的難題，並嚴重製約稀土產品質量的精準把控。為突破這一技術瓶頸，依託江西理工大學建立的國家市場監督管理總局重點實驗室（稀土產品檢測與溯源）開展專項技術攻關，經過研究團隊的不懈努力，檢測技術取得突破，整體技術能力邁上新臺階。研究團隊成功研發出多項稀土檢測關鍵技術，其中電感耦合等離子體串聯質譜法直接測定高純稀土中的稀土雜質含量技術尤為突出。該技術成功突破了傳統檢測方法需要提前對基體進行分離、存在檢出限高等瓶頸，具備高靈敏度、高準確性和快速檢測等顯著優勢，能夠直接精準測定高純稀土中的痕量稀土雜質，為稀土產品質量控制提供了堅實有力的技術支撐。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a00dab-4db9-7aab-9054-f079b2a3b878",
-      "time": "2026-08-17 11:02:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China advances key rare‑earth testing technology】China has reported a breakthrough in rare‑earth testing. A SAMR‑designated key laboratory for rare‑earth product testing and traceability at Jiangxi University of Science and Technology developed several detection techniques, notably an inductively coupled plasma tandem mass spectrometry (ICP‑MS/MS) method that directly measures trace rare‑earth impurities in high‑purity materials. The ICP‑MS/MS approach overcomes matrix‑interference limits and the need for prior matrix separation, lowers detection limits, and delivers higher sensitivity, accuracy and faster turnaround, providing stronger technical support for rare‑earth product quality control."
-    },
-    {
-      "id": "5043357",
-      "time": "2026-08-17 11:01:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【積體電路封測板塊走高，通富微電漲停】積體電路封測板塊走高，通富微電漲停，盛合晶微、長電科技、華天科技跟漲。"
-    },
-    {
-      "id": "5043356",
-      "time": "2026-08-17 11:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026中國國際摩托車技術論壇將於10月舉行】據中國摩托車商會訊息，2026第七屆中國國際摩托車技術論壇將於10月在深圳舉行，論壇將匯聚行業內外專家、學者及企業代表，深入探討燃油/電動兩輪車的技術創新與發展，推動行業技術進步與產業升級。"
-    },
-    {
-      "id": "5043355",
-      "time": "2026-08-17 11:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "受季風降雨影響，菲律賓下令政府部門自中午起轉為線上辦公。"
-    },
-    {
-      "id": "mkt:01a00daa-9c36-7aab-9054-eebe3d1662ef",
-      "time": "2026-08-17 11:01:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Eight foreign ministers condemn Israel's rejection of Gaza peace plan】Foreign ministers of Egypt, Qatar, Jordan, the UAE, Indonesia, Pakistan, Turkey and Saudi Arabia issued a joint statement on the 16th condemning Israel’s recent rejection of a Gaza peace plan. They said the plan had been accepted by Palestinian factions and represented a key product of mediators’ efforts, and that Israel’s public refusal amounts to a direct repudiation that undermines collective efforts for a just, lasting peace. The ministers said Israel should bear direct and full responsibility for any consequences, including local deterioration and obstruction of the Gaza peace process, and urged the United States to remain actively engaged to ensure Israeli compliance and prevent further impediments to implementation."
-    },
-    {
-      "id": "5043354",
-      "time": "2026-08-17 11:01:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正海生物：ECM材料在醫美相關領域的應用潛力受到市場較多關注】正海生物(300653)8月17日在互動平臺表示，ECM材料在醫美相關領域的應用潛力受到市場較多關注，相關討論逐漸增多。目前公司皮膚修復膜適應症為用於真皮層缺損的創面修復。"
-    },
-    {
-      "id": "5043353",
-      "time": "2026-08-17 11:01:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流入超100億。"
-    },
-    {
-      "id": "5043352",
-      "time": "2026-08-17 11:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【八國外長譴責以色列拒絕接受加沙和平計劃】埃及、卡達、約旦、阿聯酋、印度尼西亞、巴基斯坦、土耳其和沙烏地阿拉伯等8個國家的外長16日發表聯合宣告，強烈譴責以色列日前拒絕接受加沙和平計劃。宣告說，該計劃已獲巴勒斯坦各派別接受，是各斡旋方經過廣泛努力推動形成的重要成果。以色列公開拒絕落實加沙和平計劃，是對該計劃的直接否定，並從根本上破壞了為實現公正持久和平所做的集體努力。宣告同時指出，以色列應對由此產生的一切後果，包括當地局勢惡化以及加沙和平程序受阻，承擔直接和全部責任。（新華社）"
-    },
-    {
-      "id": "5043351",
-      "time": "2026-08-17 11:00:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國SET指數開盤上漲0.4%，報1614.76點。"
-    },
-    {
-      "id": "5043350",
-      "time": "2026-08-17 10:59:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【人工智慧盛宴正酣 華爾街緊盯利率風險攪局】投資者對大型科技公司及其在人工智慧領域的鉅額投資熱情高漲，再次推動股市創下歷史新高。在經濟韌性十足、需求旺盛的大背景下，這波上漲行情似乎只有一個攔路虎：利率上行。科技公司歷來對美債收益率十分敏感，因為其高市值是基於增長預期，寄希望於總有一天會實現更高利潤。人工智慧相關的資本支出尤其如此，因為這些支出預計需要數年時間才能完全實現回報。在這個著眼未來的等式中，利率決定了華爾街衡量未來利潤折算成當前價值的水平。從本質上看，若通脹走高推動利率上升，這些未來收益的現值就會下降，從而帶來股票拋售壓力。“估值倍數較高的股票通常會在利率上升時遭遇拋售，”Domini Impact Investments的金融研究主管Maria Llerena表示。"
     }
   ]
 }
