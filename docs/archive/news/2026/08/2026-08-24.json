@@ -1,7 +1,129 @@
 {
   "date": "2026-08-24",
-  "count": 2068,
+  "count": 2081,
   "items": [
+    {
+      "id": "5055759",
+      "time": "2026-08-24 20:37:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅創電子：2026年上半年淨利潤2.43億元，同比增長495.76%】雅創電子公告，2026年上半年營業收入62.26億元，同比增長118.68%；歸屬於上市公司股東的淨利潤2.43億元，同比增長495.76%，2025年上半年為4081.67萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.34億元，同比增長524.54%。公司發行股份及支付現金購買資產事項中，2025年年度權益分派實施後，股份發行價格由30.68元/股調整為23.59元/股。"
+    },
+    {
+      "id": "te:economy:577614",
+      "time": "2026-08-24 20:37:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing Sales",
+        "Importance 1"
+      ],
+      "text": "Canada Manufacturing Sales Seen Falling in July — Canada’s manufacturing sales advance estimate indicates that total manufacturing sales edged down 0.2% month-over-month in July 2026, after rising 0.1% in June. The largest declines were recorded in the chemical and fabricated metal product subsectors."
+    },
+    {
+      "id": "mkt:01a033c6-7c53-7aab-90f7-b1aa45931b90",
+      "time": "2026-08-24 20:37:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said he will meet with a Mexican delegation this week to discuss trade issues."
+    },
+    {
+      "id": "mkt:01a033c6-4321-7aab-90f7-ad4817e46703",
+      "time": "2026-08-24 20:37:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Refinitiv cites sources saying the US Treasury will impose secondary sanctions on any activity involving specified Iranian industries."
+    },
+    {
+      "id": "5055758",
+      "time": "2026-08-24 20:36:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海國投與上海市浙江商會簽署戰略合作協議】據上海國投公司訊息，8月23日，上海國投公司與上海市浙江商會簽署戰略合作協議。雙方將圍繞產業投資、科技成果轉化、產業鏈協同，打通“國有戰略資本+浙商產業縱深”通道，推動科技—產業—金融良性迴圈。"
+    },
+    {
+      "id": "mkt:01a033c5-2bb6-7aab-90f7-a293705e4939",
+      "time": "2026-08-24 20:35:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid as much as $16 intraday and has partially recovered to $4,657/oz."
+    },
+    {
+      "id": "5055756",
+      "time": "2026-08-24 20:35:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西南證券：2026年上半年淨利潤6.05億元，同比增長42.86%】西南證券公告，2026年上半年營業收入20.69億元，同比增長37.67%；歸屬於上市公司股東的淨利潤6.05億元，同比增長42.86%，2025年同期為4.23億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5.86億元，同比增長47.10%，2025年同期為3.98億元。公司擬以2026年6月30日總股本66.45億股為基數，每10股派發現金紅利0.2元（含稅），實際分配現金利潤1.33億元。"
+    },
+    {
+      "id": "5055755",
+      "time": "2026-08-24 20:35:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【久立特材：上半年歸母淨利潤3.93億元，同比下降52.55%】久立特材8月24日披露半年報，公司上半年實現營業收入38.84億元，同比下降36.38%；歸屬於上市公司股東的淨利潤3.93億元，同比下降52.55%；基本每股收益0.41元/股。"
+    },
+    {
+      "id": "mkt:01a033c4-66dc-7aab-90f7-9ab68527caa3",
+      "time": "2026-08-24 20:35:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mexico Q2 GDP rebounds, services and construction drive recovery】Despite ongoing trade tensions with the United States, Mexico's economy rebounded in Q2, driven by expansion in services and construction and resilient exports. Final data released Monday by Mexico's national statistics agency showed GDP rose 1.4% q/q and 2.1% YoY, marginally below consensus of 2.2% YoY."
+    },
+    {
+      "id": "5055754",
+      "time": "2026-08-24 20:34:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月24日，國內基金淨買入249億印度盧比印度股票。"
+    },
+    {
+      "id": "5055753",
+      "time": "2026-08-24 20:34:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里爾：本週將與墨西哥代表團會面，討論貿易問題。"
+    },
+    {
+      "id": "mkt:01a033c3-a17a-7aab-90f7-91ae55a08c3c",
+      "time": "2026-08-24 20:34:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Refinitiv sources say the U.S. Treasury is expected to announce an expansion of secondary sanctions targeting countries and entities that conduct commercial transactions with Iran."
+    },
+    {
+      "id": "5055752",
+      "time": "2026-08-24 20:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月24日，全球基金淨買入118億印度盧比的印度股票。"
+    },
     {
       "id": "mkt:01a033c3-08fa-7aab-90f7-8e70963374c4",
       "time": "2026-08-24 20:33:34",
