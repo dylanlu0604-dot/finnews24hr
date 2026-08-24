@@ -1,7 +1,78 @@
 {
   "date": "2026-08-25",
-  "count": 171,
+  "count": 178,
   "items": [
+    {
+      "id": "te:markets:577680",
+      "time": "2026-08-25 02:18:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Slide as US Expands Sanctions on Iran — Crude oil extended losses to trade below $85 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the sanctions are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly."
+    },
+    {
+      "id": "mkt:01a034fd-21b2-7aab-90fe-093c5f53b36e",
+      "time": "2026-08-25 02:16:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Pakistan's army chief also met Iran's president and held talks."
+    },
+    {
+      "id": "5056119",
+      "time": "2026-08-25 02:15:49",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美公佈多項針對伊朗經濟制裁】當地時間8月24日下午，北京時間今天（8月25日）凌晨，美國財長貝森特公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。特朗普政府宣佈擴大次級制裁範圍，將針對全球範圍內仍與伊朗保持商業往來的實體及國家實施制裁。在新聞釋出會上，貝森特推出了他所謂的“經濟諾曼底”行動。貝森特稱，“我們正在對伊朗的全球金融網路發動一場經濟猛攻。我們的目標是切斷維繫這個政權的每一條經濟命脈，直至德黑蘭陷入孤立。” 美國財政部稱“已摸清伊朗用於走私石油和規避制裁的網路、中間人及金融渠道”，並表示將與合作伙伴聯手，打擊伊朗任何“非法收入”來源。 美國財政部稱，已針對伊朗政權用以支撐經濟的五大領域——數字資產、技術、黃金、航空和航運——釋出相關制裁決定。美國財政部還對近60個實體、個人及船隻實施了制裁。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:577679",
+      "time": "2026-08-25 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-5.07%), Propane (-2.89%), Brent Crude Oil (-2.58%) and Crude Oil WTI (-2.54%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.95%) and Germany Natural Gas THE (3.61%)."
+    },
+    {
+      "id": "mkt:01a034fa-bdc5-7aab-90fe-05a8a46eb5ff",
+      "time": "2026-08-25 02:14:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Iran says Trump's economic pressure campaign is \"psychological warfare\"】Tasnim quoted a senior Iranian intelligence official saying Trump’s economic pressure campaign is largely a media-driven \"psychological warfare\" aimed at increasing domestic pressure. The official said the US has already used all available tools, including primary and secondary sanctions and maritime blockades, and characterized Trump’s remarks about striking infrastructure and \"opening the Strait of Hormuz\" as propaganda rather than imminent action. He added such moves are often timed before market open to influence energy prices and are subsequently followed by conciliatory statements or regional mediation; Iran sees the campaign’s concurrence with a Pakistani mediator visit as a recurring public-pressure pattern, not evidence of substantive new measures."
+    },
+    {
+      "id": "mkt:01a034f8-1e48-7aab-90fd-fe07cd16f3f0",
+      "time": "2026-08-25 02:11:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "CENTCOM said as of Aug. 24 it had forced 71 commercial vessels to divert, disabled three vessels, and boarded and inspected two to ensure compliance. More than 40 vessels carrying humanitarian aid were permitted to proceed."
+    },
+    {
+      "id": "mkt:01a034f7-c44e-7aab-90fd-f44a26e83a9a",
+      "time": "2026-08-25 02:10:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says \"will no longer allow Canada to take advantage of the U.S.\", warns of tougher measures】U.S. President Trump, on Truth Social, criticized Ontario Premier Doug Ford and accused Canada of decades of relying on U.S. support, saying the U.S. \"will always be bigger, richer, stronger\" and that Canada could not survive without it. He accused Prime Minister Carney and Ford of prompting corporate outflows, said Canadian power, oil and gas rely on transport through the U.S., and warned Canada would face \"more serious consequences\" if it does not \"play by the rules.\" Trump also claimed Canadian unemployment has risen to 10% and is still climbing, asserted businesses are moving to the U.S., and said \"the days of hurting U.S. farmers and businesses are over.\""
+    },
     {
       "id": "5056117",
       "time": "2026-08-25 02:09:24",
