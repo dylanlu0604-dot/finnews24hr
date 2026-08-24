@@ -1,7 +1,330 @@
 {
-  "updated": "2026-08-24 16:00:48",
-  "count": 15571,
+  "updated": "2026-08-24 16:10:43",
+  "count": 15564,
   "items": [
+    {
+      "id": "5054879",
+      "time": "2026-08-24 16:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌1.892%，恒生科技指數跌3.611%】極兔速遞-W跌5.086%，華虹宏力跌5.488%，翰森製藥跌6.348%，中芯國際跌8.069%，阿里巴巴-W跌8.943%，智譜跌10.452%，MINIMAX-W跌11.002%。"
+    },
+    {
+      "id": "5054878",
+      "time": "2026-08-24 16:08:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇有線：擬以3.38億元參與組建徐州農商行】江蘇有線公告稱，公司第六屆董事會第二十四次會議審議透過2026年半年度報告及摘要、對外投資相關議案。公司曾於2020年6月投資徐州農村商業銀行股份有限公司，總投資額3.38億元，此次擬以原投資額3.38億元參與發起組建江蘇徐州農村商業銀行股份有限公司（籌），該行擬在徐州地區6家農商行基礎上組建。"
+    },
+    {
+      "id": "5054877",
+      "time": "2026-08-24 16:08:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金徽股份：子公司取得采礦許可證及變更探礦權】金徽股份公告稱，公司全資子公司甘肅金徽西成礦業有限公司將原持有的“甘肅省徽縣楊家山-袁家坪鉛鋅金多金屬礦普查”探礦權部分割槽域轉為採礦權，取得徽縣楊家山鉛鋅礦採礦許可證及對應不動產權證書，礦區面積3.6451平方公里，開採礦種為鋅礦、鉛礦、銀礦，有效期限2026年8月22日至2040年8月9日，設計生產規模66萬噸/年。剩餘區域保留探礦權並取得對應不動產權證書，勘查面積52.9543平方公里，有效期限2026年8月9日至2028年6月9日。本次採礦權取得後，公司生產規模從178萬噸/年增至244萬噸/年。"
+    },
+    {
+      "id": "5054876",
+      "time": "2026-08-24 16:08:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇有線：2026年上半年營收36.52億元 淨利同比降48.69%】江蘇有線公告稱，2026年上半年實現營業收入36.52億元，同比下降11.87%；歸屬於上市公司股東的淨利潤1.04億元，同比下降48.69%；歸屬於上市公司股東的扣除非經常性損益的淨虧損1.68億元。基本每股收益0.02元，同比下降50.00%。本報告期無利潤分配預案或公積金轉增股本預案。"
+    },
+    {
+      "id": "5054875",
+      "time": "2026-08-24 16:08:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度政府公告：允許部分品類小麥出口、取消出口限制。"
+    },
+    {
+      "id": "5054874",
+      "time": "2026-08-24 16:07:45",
+      "tags": [
+        "公司",
+        "兩會"
+      ],
+      "text": "【檢察機關依法分別對張光親、田曉川、都新建、張深秋提起公訴】檢察機關依法分別對海南省高階人民法院審判委員會原專職委員張光親，內蒙古自治區呼倫貝爾市政協原黨組成員、副主席田曉川，原晉城無煙煤礦業集團有限責任公司副總經理都新建，內蒙古礦業（集團）有限責任公司原黨委委員、工會主席張深秋提起公訴。"
+    },
+    {
+      "id": "5054872",
+      "time": "2026-08-24 16:07:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦軍方：陸軍參謀長前往伊朗參與和平斡旋。"
+    },
+    {
+      "id": "5054871",
+      "time": "2026-08-24 16:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外貿總局將小麥出口政策修改為“自由出口”。"
+    },
+    {
+      "id": "5054870",
+      "time": "2026-08-24 16:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦陸軍參謀長穆尼爾啟程前往伊朗。"
+    },
+    {
+      "id": "5054869",
+      "time": "2026-08-24 16:06:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：將適時釋出約旦國王阿卜杜拉二世訪華的更多資訊】8月24日，外交部發言人林劍主持例行記者會。有記者提問，最近約旦國王阿卜杜拉二世正在訪華。我們注意到，近年來阿拉伯國家領導人對華訪問日益增多，中國在阿拉伯世界的影響不斷擴大，發揮的作用日益增強。請問這次的約旦國王訪華有什麼成果？中國如何看待未來幾年中阿合作的前景？林劍表示，中國同約旦傳統友好。在習近平主席和阿卜杜拉二世國王的戰略引領下，近年來中約關係保持發展勢頭，給兩國人民帶來實實在在的好處。中方願同約方一道以阿卜杜拉二世國王此訪為契機，推動中約戰略伙伴關係結出更加豐碩成果，為兩國關係發展開闢新前景、注入新動力。我們將適時釋出關於此訪的更多資訊，歡迎你保持關注。近年來，中國同阿拉伯國家的關係蓬勃發展，樹立了發展中國家團結合作的典範。中方願同阿拉伯國家一道努力，弘揚傳統友好，深化戰略互信，促進互利合作，密切人文交流，推動中阿關係和中阿集體合作不斷邁上新臺階。（澎湃新聞）"
+    },
+    {
+      "id": "5054868",
+      "time": "2026-08-24 16:05:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰和新材：2026年上半年淨利潤5525.32萬元，同比增長135.31%】泰和新材公告，2026年上半年營業收入21.21億元，同比增長11.42%；歸屬於上市公司股東的淨利潤5525.32萬元，同比增長135.31%，2025年同期為2348.1萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1101.03萬元，同比增長1,061.09%，2025年同期虧損114.56萬元。"
+    },
+    {
+      "id": "5054867",
+      "time": "2026-08-24 16:05:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：截至7月底，我國電動汽車充電基礎設施（槍）總數達到2368.3萬個】8月24日，國家能源局釋出2026年7月全國電動汽車充電設施資料。根據國家充電設施監測服務平臺資料，截至2026年7月底，我國電動汽車充電基礎設施（槍）總數達到2368.3萬個，同比增長41.9%。其中，公共充電設施（槍）509.9萬個，同比增長21.3%，額定總功率達到2.55億千瓦，單槍平均功率約為49.97千瓦；私人充電設施（槍）1858.4萬個，同比增長48.8%，私人充電設施報裝用電容量達到1.60億千伏安。"
+    },
+    {
+      "id": "te:markets:577550",
+      "time": "2026-08-24 16:05:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Surges by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.48%) and Gold (0.73%). Biggest loser is Silicon (-0.63%)."
+    },
+    {
+      "id": "5054866",
+      "time": "2026-08-24 16:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外匯市場將於8月27日因節假日休市。"
+    },
+    {
+      "id": "te:markets:577548",
+      "time": "2026-08-24 16:03:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Holds at Six-Month Highs — The British pound traded above $1.36 in the final full week of August, near its strongest level since mid-February, as the US dollar faced pressure following the US Treasury’s unexpected plan to at least double its purchases of longer-dated government bonds. Investors also awaited details on Iran sanctions, while Fed Chair Kevin Warsh’s remarks at Jackson Hole on Friday are expected to offer insights into the interest rate outlook. In the UK, money markets continue to price in one Bank of England rate hike by year-end, with another quarter-point increase fully anticipated by early 2027. Recent data showed UK inflation accelerating to 2.9% in July, the highest since March, while core inflation exceeded expectations at 2.6%. PMI readings indicated faster business activity expansion, and consumer confidence reached a two-year high in August, providing an early boost for new Prime Minister Andy Burnham. However, the UK remains vulnerable to high inflation driven by the Iran conflict."
+    },
+    {
+      "id": "5054865",
+      "time": "2026-08-24 16:03:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福瑞醫科：2026年上半年淨利潤6394.04萬元，同比增長23.12%】福瑞醫科公告，2026年上半年營業收入7.55億元，同比增長5.80%；歸屬於上市公司股東的淨利潤6394.04萬元，2025年同期為5193.4萬元，同比增長23.12%；歸屬於上市公司股東的扣除非經常性損益的淨利潤6478.16萬元，同比增長21.49%。"
+    },
+    {
+      "id": "5054864",
+      "time": "2026-08-24 16:03:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠而浦：2026年上半年營收19.17億元 淨利同比降17.79%】惠而浦公告稱，2026年上半年實現營業收入19.17億元，同比下降12.50%；歸屬於上市公司股東的淨利潤1.77億元，同比下降17.79%；歸屬於上市公司股東的扣除非經常性損益的淨利潤9698.49萬元，同比下降52.65%。基本每股收益0.28元，同比下降17.79%。本報告期不涉及利潤分配及公積金轉增股本預案。"
+    },
+    {
+      "id": "5054863",
+      "time": "2026-08-24 16:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【同程旅行：中秋國慶旅行產品“提前訂”熱度大增】同程旅行資料顯示，截至8月24日，平臺上“中秋”“國慶”等關鍵詞搜尋熱度月環比增長116%，中秋國慶旅行產品提前30天以上的預訂熱度較去年同期漲超20%。"
+    },
+    {
+      "id": "5054862",
+      "time": "2026-08-24 16:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部回應中伊副外長會見】外交部發言人林劍主持例行記者會，據媒體報道，關於中國外交部副部長苗得雨與伊朗外交部副部長加里布阿巴迪在北京的會見，外交部能否介紹詳細情況？考慮到中國與伊朗的經濟聯絡，中國對於美國孤立伊朗的計劃有何看法？林劍表示，中方在訊息稿中介紹了你關心的這場會見的具體情況，你可以查閱，我沒有更多補充。中方密切關注中東海灣局勢，積極致力於勸和促談，願秉持習近平主席就維護和促進中東和平穩定提出的四點主張精神，為早日恢復中東地區的和平安寧繼續作出努力。“關於你提到的第二個問題，我們此前作出過闡述。”林劍說。（北京日報）"
+    },
+    {
+      "id": "5054861",
+      "time": "2026-08-24 16:03:23",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股中概股盤前多數下跌，阿里巴巴跌4%】美股中概股盤前多數下跌，新東方、貝殼漲2%，蔚來跌1%，嗶哩嗶哩、百度跌2%，理想汽車、網易跌3%，阿里巴巴跌4%。"
+    },
+    {
+      "id": "5054860",
+      "time": "2026-08-24 16:03:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數下跌，美光科技跌3%】美股大型科技股盤前多數下跌，微軟漲0.1%，Meta、英偉達、蘋果持平，特斯拉跌0.2%，亞馬遜跌0.4%，谷歌A跌0.5%，SpaceX跌2%，SK海力士、美光科技跌3%。"
+    },
+    {
+      "id": "5054859",
+      "time": "2026-08-24 16:03:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維科技術：2026年上半年虧損3727.83萬元，上年同期虧損3914.87萬元】維科技術公告，2026年上半年營業收入8.38億元，同比增長31.35%；歸屬於上市公司股東的淨利潤虧損3727.83萬元，上年同期虧損3914.87萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3890.47萬元，上年同期虧損5315.9萬元。"
+    },
+    {
+      "id": "5054858",
+      "time": "2026-08-24 16:02:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存晶片板塊盤前下挫】SK海力士跌3.5％，美光科技跌近4％，閃迪跌超5％。"
+    },
+    {
+      "id": "5054857",
+      "time": "2026-08-24 16:02:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄別爾哥羅德州當局：烏克蘭無人機襲擊造成2人死亡、2人受傷。"
+    },
+    {
+      "id": "5054856",
+      "time": "2026-08-24 16:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方明珠：2026年上半年淨利潤4.22億元，同比增長22.65%】東方明珠公告，2026年上半年營業收入30.15億元，同比下降10.71%；歸屬於上市公司股東的淨利潤4.22億元，同比增長22.65%，2025年同期為3.44億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.28億元，同比下降14.31%。公司擬以2026年6月30日總股本33.62億股為基數，每10股派發現金股利人民幣0.50元（含稅），共計分配現金股利人民幣1.68億元（含稅）。"
+    },
+    {
+      "id": "5054855",
+      "time": "2026-08-24 16:02:23",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "倫敦金屬交易所（LME）銅訂單激增51400噸，創5月以來最高水平。"
+    },
+    {
+      "id": "5054854",
+      "time": "2026-08-24 16:01:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中印尼在全面戰略對話機制是否會推動更多旗艦專案？外交部回應】8月24日，外交部發言人林劍主持例行記者會。有記者提問，中國與印尼在高水平合作機制下實施了一些旗艦專案，比如雅萬高鐵專案。現在中國和印尼建立了全面戰略對話機制，在這一機制下，兩國是否會推動更多類似雅萬高鐵這樣的專案建設？林劍表示，中國印尼的全面戰略對話機制是雙方落實兩國元首共識的重要舉措，旨在深化各領域的務實合作，推進中印尼命運共同體建設，為兩國人民帶來實實在在的利益。雅萬高鐵自開通以來，保持安全暢通有序執行，累計傳送旅客超過了1600萬人次，有效地改善了當地的交通條件，便利了沿線民眾的出行，不斷釋放對印尼經濟社會發展和地區互聯互通的帶動。中方願同印尼一道，依託兩國全面戰略對話機制，持續推進高質量共建“一帶一路”合作，在基礎設施等領域打造更多的新成果，為各自的現代化程序注入新動力。"
+    },
+    {
+      "id": "5054853",
+      "time": "2026-08-24 16:01:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光大期貨：低庫存主導行情，乙二醇週一暴漲逾5%】後市而言，當前乙二醇價格的強勢上行，本質上是供給收縮引發的階段性行情，而非需求復甦驅動的趨勢性反轉。地緣擾動與國內裝置集中檢修在短期內形成共振，港口庫存降至近5年低位強化了近月合約支撐邏輯；然而，終端需求未能有效跟進，上下游傳導不暢或導致本輪行情的內生驅動力有限。隨著8月下旬國內檢修裝置的陸續重啟，供給或將逐步增加。此外，若霍爾木茲海峽通行恢復，前期計入盤面的地緣風險溢價也將面臨快速回吐風險。短期偏強格局延續，但在供需兩端均存在邊際變化可能的情況下，追高乙二醇價格需審慎。（光大期貨）"
+    },
+    {
+      "id": "5054852",
+      "time": "2026-08-24 16:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家體育總局體育基金管理中心副主任羅建彬接受審查調查】據中央紀委國家監委駐國家體育總局紀檢監察組、廣東省紀委監委訊息：國家體育總局體育基金管理中心副主任、紀委書記羅建彬涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家體育總局紀檢監察組紀律審查和廣東省韶關市監委監察調查。"
+    },
+    {
+      "id": "5054851",
+      "time": "2026-08-24 16:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鎳庫存持平，鋁庫存持平，鋅庫存增加125噸，鉛庫存減少1050噸，錫庫存減少155噸，銅庫存增加1675噸。"
+    },
+    {
+      "id": "5054850",
+      "time": "2026-08-24 16:01:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：卡利巴夫的伊拉克之行非常重要。"
+    },
+    {
+      "id": "5054849",
+      "time": "2026-08-24 16:01:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：美官員攻擊中國科技企業言論顛倒黑白】就近日美方個別官員在社交媒體攻擊中國科技企業，外交部發言人林劍24日在例行記者會上答問時表示，有關言論捏造事實、顛倒黑白，是赤裸裸的科技霸凌與單邊脅迫，中方對此堅決反對。中國科技企業是名副其實可信賴的供應商。倒是美方長期在拉美和加勒比地區搞監聽監控、網路攻擊，讓美洲國家感到不安全、不可信賴。我們奉勸美方停止政治操弄，停止干涉主權國家自主選擇合作伙伴的權利，多做有利於拉美和加勒比地區繁榮穩定的實事。（新華社）"
+    },
+    {
+      "id": "5054848",
+      "time": "2026-08-24 16:00:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今年以來新股發行募資1831.54億元，科創板佔比48.51%】資料寶統計顯示，以發行日期為基準，截至8月24日，今年以來共有106家公司首發募資，累計募資金額達1831.54億元，單家公司平均募集資金17.28億元。分割槽間來看，募資金額超10億元的有30家，其中，募資金額超百億元的有2家，募資金額5億元至10億元的有29家，募集資金在5億元以下的有47家。按不同板塊統計，今年以來滬市主機板發行新股9只，募資109.76億元；深市主機板發行新股9只，募資471.02億元；創業板發行新股16只，募資174.84億元；科創板發行新股17只，募資888.45億元；北交所發行新股55只，募資187.46億元。（證券時報）"
+    },
+    {
+      "id": "5054847",
+      "time": "2026-08-24 16:00:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其中央銀行透過傳統方式開展1週期黃金兌里拉賣方掉期拍賣，拍賣規模為6噸。"
+    },
+    {
+      "id": "5054846",
+      "time": "2026-08-24 16:00:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【悅安新材：2026年上半年淨利潤3640.61萬元，同比下降4.16%】悅安新材公告，2026年上半年營業收入2.33億元，同比增長14.79%；歸屬於上市公司股東的淨利潤3640.61萬元，同比下降4.16%，2025年同期3798.64萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3280.01萬元，同比下降6.47%。"
+    },
+    {
+      "id": "5054845",
+      "time": "2026-08-24 16:00:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰豪科技：泰豪集團減持計劃實施完畢，累計減持3.00%股份】泰豪科技公告，持股5%以上股東泰豪集團於2026年6月25日至2026年8月21日期間，透過集中競價交易減持852.86萬股、大宗交易減持1705.74萬股，合計減持2558.6萬股，佔公司總股本比例3.00%，減持計劃實施完畢。截至公告披露日，泰豪集團持有公司股份1.03億股，佔12.07%；與一致行動人黃代放先生合計持有1.06億股，佔12.38%。"
+    },
+    {
+      "id": "5054844",
+      "time": "2026-08-24 16:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠城環保：東粵化學20萬噸/年廢塑膠化學迴圈專案將於近期恢復生產】惠城環保8月24日在互動平臺表示，東粵化學20萬噸/年廢塑膠化學迴圈專案因園區電力故障導致公司被迫臨時停工。停工期間公司對裝置連續滿負荷執行後的狀態進行了檢查。經檢查，裝置裝置均狀態良好。公司將於近期恢復生產。"
+    },
+    {
+      "id": "te:markets:577547",
+      "time": "2026-08-24 16:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Drops by 2.31% — Top commodity losers are Gasoline (-2.31%), Heating Oil (-2.16%), Crude Oil WTI (-1.62%) and Brent Crude Oil (-1.21%)."
+    },
     {
       "id": "5054843",
       "time": "2026-08-24 15:59:59",
@@ -17,6 +340,15 @@
         "國際"
       ],
       "text": "【中方將支援參與聯合國氣候變化大會】8月24日，外交部發言人林劍主持例行記者會。 法新社記者提問，據報道，中國正考慮申辦2028年聯合國氣候變化大會（COP33）。請問中方對此有何評論？ 林劍表示，我們暫不掌握有關情況。《聯合國氣候變化框架公約》締約方會議是全球氣候治理的重要平臺，中方將繼續積極支援和參與。（北京日報）"
+    },
+    {
+      "id": "5054841",
+      "time": "2026-08-24 15:59:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【外交部回應中韓建交34週年】8月24日，外交部發言人林劍主持例行記者會。 韓聯社記者提問，今天是韓中建交34週年，對於兩國關係的意義以及今後的發展方向，中方有何期待？ 林劍表示，今天是中韓建交34週年紀念日。中韓是友好近鄰，34年來，兩國在政治、經貿、人文交流等領域實現全面快速發展，成為密不可分的戰略合作伙伴。事實證明，中韓關係發展符合時代潮流和兩國共同利益，也有利於促進地區和平與發展。 林劍指出，當前，中韓關係正在按照兩國元首指明的方向持續改善和發展。日前，中共中央政治局委員、外交部長王毅應邀訪問韓國，同韓方就推動兩國關係健康、可持續發展深入交換意見。中方始終將韓國置於周邊外交重要位置，願同韓方攜手努力，落實好兩國元首達成的重要共識，推動中韓戰略合作伙伴關係不斷邁上新臺階，造福兩國人民。（北京日報）"
     },
     {
       "id": "5054840",
@@ -141181,463 +141513,6 @@
         "公司"
       ],
       "text": "【孚日股份：2026年上半年淨利潤4.03億元，同比增長64.01%】孚日股份公告，2026年上半年營業收入29.18億元，同比增長12.78%。歸屬於上市公司股東的淨利潤4.03億元，同比增長64.01%。扣除非經常性損益的淨利潤3.95億元，同比增長57.67%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5043785",
-      "time": "2026-08-17 16:10:41",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【兩部門：以市場化、法治化方式，引導支援重點區域煉廠整合重組和淘汰落後產能】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》。其中提出，堅持煉油產能“減量置換”，最佳化存量，嚴控新增，持續推進“油轉化”“油轉特”“油轉材”，提升煉化行業集約化、精細化、綠色化水平。以市場化、法治化方式，引導支援重點區域煉廠整合重組和淘汰落後產能。加強過程降碳，結合實際實施綠電、清潔低碳氫替代。沿海區域重點打造煉化一體化產業叢集，提升高階化工材料供給能力，建設具有全球競爭力的生產基地。中西部地區立足本地需求和資源條件，保障油品穩定供應，適度發展符合區域特點的石化專案。有特色和競爭力的中小型煉廠突出“專精特新”。"
-    },
-    {
-      "id": "mkt:01a00ec5-b63c-7aab-905b-c2b9dc059d8d",
-      "time": "2026-08-17 16:10:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【NDRC, NEA to steer refinery consolidation and phase out outdated capacity via market-based, rule-of-law measures】The NDRC and NEA issued the 15th Five-Year Plan for oil and gas. Policy mandates adherence to a 'capacity reduction and replacement' approach for refining: optimize existing capacity, strictly limit new additions, and promote oil-to-chemicals, oil-to-specialties and oil-to-materials conversions to raise refining-petrochemical concentration, precision and green standards. Authorities will use market-based, rule-of-law measures to guide and support regional refinery consolidation, restructuring and elimination of outdated capacity. The plan requires stronger process decarbonization and targeted use of green power and low-carbon hydrogen. Coastal zones will prioritize integrated refining-chemical clusters and higher-end chemical-material output to build globally competitive bases; central and western regions will prioritize local-demand-aligned, resource-appropriate petrochemical projects to ensure stable fuel supply. Competitive small- and mid-sized refineries are to focus on specialized, high-value niche products."
-    },
-    {
-      "id": "te:markets:575779",
-      "time": "2026-08-17 16:10:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Falls by 1.51% — Top commodity losers are Rice (-1.51%) and Wheat (-0.52%). Gains are led by Oat (0.78%)."
-    },
-    {
-      "id": "mkt:01a00ec5-0f0b-7aab-905b-bce819c9373c",
-      "time": "2026-08-17 16:09:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "06869.HK",
-        "Impact bullish",
-        "03308.HK",
-        "01347.HK"
-      ],
-      "text": "Hong Kong close: Hang Seng Index +1.34%, Hang Seng TECH Index +1.58%. Optical-communications and semiconductor stocks led gains: 06869.HK +12.0%, 03308.HK +8.2%, 01347.HK +7.45%."
-    },
-    {
-      "id": "mkt:01a00ec4-8ca6-7aab-905b-b0ab2aa82122",
-      "time": "2026-08-17 16:09:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【China NDRC, NEA to bolster oil reserve system, step up supply‑demand monitoring】China's National Development and Reform Commission and National Energy Administration issued the Petroleum and Natural Gas Development \"15th Five‑Year Plan\", calling for an integrated national oil reserve system combining government strategic reserves, corporate social‑responsibility (CSR) reserves and enterprise operating inventories to materially strengthen risk resilience and energy security. The plan directs continued expansion of government strategic reserves, improvement of the CSR reserve framework, maintenance of reasonable operating inventories, encouragement of private capital to invest in and operate commercial storage facilities to expand reserve capacity, enhancement of reserve system and mechanisms, and stepped‑up monitoring of oil supply and demand."
-    },
-    {
-      "id": "mkt:01a00ec4-806a-7aab-905b-acd76882d6f2",
-      "time": "2026-08-17 16:09:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran will host a meeting of Caspian littoral states, Iranian foreign ministry spokesman Baghaei said."
-    },
-    {
-      "id": "5043784",
-      "time": "2026-08-17 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數漲1.339%，恒生科技指數漲1.581%】商湯-W漲8.897%，華虹宏力漲7.527%，東方海外國際漲7.292%，中芯國際漲6.215%，老鋪黃金漲5.636%，零跑汽車漲4.992%，吉利汽車漲4.770%。"
-    },
-    {
-      "id": "5043783",
-      "time": "2026-08-17 16:08:19",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【兩部門：研究完善成品油消費稅制度 完善成品油定價機制】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》。其中提出，推動上游供氣主體多元化。促進城鎮燃氣企業整合重組，規範化經營，落實好天然氣上下游價格聯動機制。規範供氣企業行為，更好發揮天然氣合同基礎性作用，完善儲氣調峰市場機制。加強民生用氣保障。研究完善成品油消費稅制度。完善成品油定價機制。定期校核跨省天然氣管道運輸價格。"
-    },
-    {
-      "id": "mkt:01a00ec3-530e-7aab-905b-a100ad965e74",
-      "time": "2026-08-17 16:07:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NDRC, NEA back provincial pipelines joining national trunk network】The National Development and Reform Commission and National Energy Administration issued the oil and natural gas 15th Five‑Year Plan, assigning State Pipeline Group primary responsibility for trunk‑line investment and construction while permitting private capital in non‑strategic pipelines and oil/gas storage. The plan requires all planned gas storage and LNG receiving terminals be connected to the national trunk network, signals active support for provincial energy plans’ pipelines to tie into the national trunk, seeks to compress pipeline transport tiers and foster market‑based integration of provincial networks, and allows direct trunk‑line supply to large users where conditions permit. It also calls for a unified nationwide pipeline operation and dispatch mechanism, exploration of market‑based gas balancing, and stronger fair‑access regulation to open pipeline facilities to eligible market participants."
-    },
-    {
-      "id": "5043782",
-      "time": "2026-08-17 16:07:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五洲醫療：股東鄒愛英部分股份解除質押】五洲醫療公告稱，公司控股股東、實控人一致行動人鄒愛英於2026年8月14日完成152萬股股份解除質押手續，該部分股份佔其所持股份比例37.25%，佔公司總股本比例2.24%。截至公告披露日，鄒愛英持股408萬股，持股比例6.00%，剩餘質押股份190萬股，佔其所持股份比例46.57%，佔公司總股本比例2.79%。鄒愛英資信狀況良好，本次解押不存在違約情況，平倉風險較低，不會對公司生產經營、治理產生不利影響。"
-    },
-    {
-      "id": "5043781",
-      "time": "2026-08-17 16:07:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電氣：子公司預中標南方電網約2.05億元配網裝置招標專案】三星電氣公告稱，公司下屬全資子公司寧波奧克斯智慧科技股份有限公司在南方電網公司2026年配網裝置第一批框架招標專案中被推薦為中標候選人，預計中標金額約為2.05億元。目前公司尚未收到正式中標通知書，合同履行相關事項存在不確定性，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "5043780",
-      "time": "2026-08-17 16:07:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中糧科工：連續十二月累計訴訟仲裁涉案金額2.41億元】中糧科工公告稱，截至公告披露日，公司及控股子公司連續十二個月內累計訴訟、仲裁案件涉案金額合計2.41億元，佔公司截至2025年12月31日經審計淨資產的10.46%。其中作為原告/申請人涉及涉案金額1.08億元，佔總金額44.84%；作為被告/被申請人/第三人涉及涉案金額1.33億元，佔總金額55.16%。不存在單項涉案金額超1000萬元且佔最近一期經審計淨資產絕對值10%以上的重大訴訟、仲裁事項，亦無其他應披露未披露的訴訟仲裁事項。部分案件尚未開庭或結案，對公司本期利潤或期後利潤的影響存在不確定性。"
-    },
-    {
-      "id": "5043779",
-      "time": "2026-08-17 16:07:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歌爾股份：2026年度第一期超短期融資券發行完成】歌爾股份公告稱，公司2026年度第一期超短期融資券實際發行總額10.00億元，發行利率1.44%，期限270日，募集資金已於2026年8月14日到賬。本次發行是在交易商協會註冊的不超過30.00億元超短期融資券額度內開展，此前該註冊額度下發行的25歌爾股份SCP001（科創債）10.00億元已完成兌付。"
-    },
-    {
-      "id": "mkt:01a00ec2-ef17-7aab-905b-9f8a24b33a7c",
-      "time": "2026-08-17 16:07:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NDRC, NEA push R&D on high‑pressure pure‑hydrogen pipeline materials and safe transport】The National Development and Reform Commission and National Energy Administration issued the \"15th Five-Year Plan for Petroleum and Natural Gas Development\", directing technology R&D across infrastructure and end‑use. Infrastructure priorities include intelligent pipeline construction and inspection, pipeline-network simulation and operational optimization, and smart design/control and digital-twin tech for pipelines and stations to accelerate industry digitalization. The plan mandates R&D on high‑pressure pure‑hydrogen pipeline materials and safe transport, large‑scale hydrogen blending and repurposing of pipelines for hydrogen, aquifer gas storage and deep underground hydrogen storage, multi‑medium transport (methanol, liquid ammonia) and CCS/CCUS. End‑use priorities include accelerating domestic heavy gas-turbine production, improving in-service gas-turbine maintenance technology, developing high‑efficiency low‑emission vehicle and marine gas engines and high-end gas wall‑hung boilers for localization, and researching optimized, green low‑carbon refinery–petrochemical integration."
-    },
-    {
-      "id": "mkt:01a00ec2-4cce-7aab-905b-91ba3172decd",
-      "time": "2026-08-17 16:06:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【NDRC, NEA push ultra‑deep and deepwater tech in China 15th Five‑Year oil and gas plan】China's National Development and Reform Commission and National Energy Administration issued the petroleum and natural gas development 15th Five‑Year Plan. The plan targets breakthroughs in ultra‑deep hydrocarbon generation and accumulation mechanisms and high‑precision geomechanical modelling, and core exploration and development technologies for ultra‑deep carbonate and clastic reservoirs. It mandates development of major equipment including 15,000m‑class smart drilling rigs, intelligent managed‑pressure drilling systems and logging tools upgraded for ultra‑high‑temperature, ultra‑high‑pressure wells to enable onshore exploration and production at 10,000m depths. For deepwater fields the plan calls for breakthroughs in deepwater drilling, intelligent completions and testing and safe, efficient field development, and targets development of 3,000m‑class deepwater marine node acquisition systems, 3,000m deepwater blowout preventers with multi‑variable composite control systems, and 1,500m full‑electric subsea control system equipment."
-    },
-    {
-      "id": "mkt:01a00ec2-35d7-7aab-905b-8bb53e89b0a8",
-      "time": "2026-08-17 16:06:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BAGHAEI, Iran's foreign ministry spokesman, said with regret that the United States has repeatedly reneged on its commitments and, as in the earlier Oman matter, has undermined Pakistan's role as mediator."
-    },
-    {
-      "id": "5043778",
-      "time": "2026-08-17 16:06:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【支付寶釋出國內首個智慧體商業底座】8月17日，支付寶方面透露，旗下超級服務智慧體“阿寶”已完成萬餘項服務AI化接入，服務跨端已支援5大手機品牌、16家主流車企；同時釋出首個全棧智慧體商業底座及多智慧體跨端互聯AHA協議體系，聯合千問、華為、OPPO、比亞迪、吉利等20餘家企業共建智慧體互聯生態。"
-    },
-    {
-      "id": "5043777",
-      "time": "2026-08-17 16:06:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《石油天然氣發展“十五五”規劃》：鼓勵社會資本加強商業儲備設施投資運營 進一步增加儲備規模】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，建成政府儲備、企業社會責任儲備和企業生產經營庫存有機結合、互為補充的大國石油儲備體系，風險抵禦和安全保障能力大幅提升。持續強化政府石油儲備建設，完善企業社會責任儲備體系，企業生產經營庫存保持合理水平。鼓勵社會資本加強商業儲備設施投資運營，進一步增加儲備規模。健全石油儲備體制機制。加強石油供需情況監測。"
-    },
-    {
-      "id": "mkt:01a00ec1-d37e-7aab-905b-86af3adbd24a",
-      "time": "2026-08-17 16:06:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【NDRC, NEA to study commercialization of carbon‑neutral tech and advance underground energy storage industry】The NDRC and NEA in the Petroleum and Natural Gas Development ’15th Five‑Year Plan’ call for CCUS scale industrialization and regional CCUS clusters, coordinating increased oil output with carbon reduction. The plan backs pilot low‑carbon transitions for oil‑and‑gas hubs such as Dongying and Yulin and seeks further market‑oriented, industrialized deployment of carbon‑neutral technologies. It also directs development of new underground energy storage—using depleted reservoirs, salt caverns and pipelines—and exploration of compressed air energy storage, to pair with nearby renewable plants for capacity support and frequency/peak‑shaving services, improving regional system flexibility and stability."
-    },
-    {
-      "id": "mkt:01a00ec1-b994-7aab-905b-7e6bbf4662da",
-      "time": "2026-08-17 16:06:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Foreign Ministry spokesman BAGHAEI said Iran and Pakistan, as neighboring countries, continue bilateral contacts. He said Pakistan is seeking to use its capabilities to mediate between Iran and the US."
-    },
-    {
-      "id": "mkt:01a00ec1-8277-7aab-905b-7343c861775a",
-      "time": "2026-08-17 16:05:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【NDRC, NEA issue 15th Five‑Year oil and gas plan; maintain capex intensity to back new capacity】The National Development and Reform Commission and the National Energy Administration issued the Fifteenth Five‑Year Plan for oil and gas development, directing sustained development investment intensity to support new capacity and accelerate scale‑efficient exploitation of deep and ultra‑deep oil and gas. The plan prioritises breakthroughs in unconventional resources, speeding reserve mobilisation and development to achieve scale efficiencies in shale oil, shale gas and deep coalbed methane. It mandates a marine oil and gas enhancement programme to lift marine output‑equivalent to the 100‑million‑tonne level, an old‑field stabilisation programme to sustain long‑term production at mature fields such as Daqing and Shengli, and accelerated commissioning and production at new fields including Bayannur and Jilantai."
-    },
-    {
-      "id": "mkt:01a00ec1-676f-7aab-905b-6bd27ee94bec",
-      "time": "2026-08-17 16:05:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman Baghaei said Iran will expand economic and commercial ties with Afghanistan."
-    },
-    {
-      "id": "mkt:01a00ec1-37d9-7aab-905b-67b0316f4181",
-      "time": "2026-08-17 16:05:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman BAGHAEI said Iran will not forget the crimes committed by the aggressors in Minab, Lamerd and Qeshm Island."
-    },
-    {
-      "id": "mkt:01a00ec1-0490-7aab-905b-5e4aff2f097e",
-      "time": "2026-08-17 16:05:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【NDRC, NEA set 2030 oil and gas targets: 440 mln t o.e. supply, 20,000 km added trunk pipeline】China’s National Development and Reform Commission and National Energy Administration issued the oil and gas development 15th Five-Year Plan, targeting by 2030 domestic oil and gas supply of 440 mln tonnes of oil equivalent; addition of 20,000 km of long-distance trunk pipeline to bring the national network to 220,000 km; gas storage capacity to exceed 13% of national consumption; LNG receiving capacity of 200 mln t/yr; onshore pipeline import capacity of 114 bcm/yr; and CCS/CCUS annual CO2 injection capacity of 10 mln tonnes."
-    },
-    {
-      "id": "5043776",
-      "time": "2026-08-17 16:05:19",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根士丹利：沙特股市持股改革視窗期正在收窄】摩根士丹利表示，隨著沙特資本市場管理局新任主席就任，該國擬放開外資持股上限的規則改革再度成為市場焦點。策略師馬修・阮在週一釋出的報告中指出，今年落地外資持股上限（FOL）改革的視窗期正在不斷收窄。若要讓 MSCI 在 11 月指數評估中納入外資持股上限調整的影響，相關政策必須在對應價格截止日之前生效，該截止日可能落在 10 月最後 10 個交易日中的任意一天。“即便政策如期生效，指數編制機構仍有可能推遲或分階段實施調整。”該行測算，若外資持股上限部分放寬至 75%，沙特股市將迎來 43 億美元被動資金流入；若完全取消該限制，則將流入 74 億美元被動資金。"
-    },
-    {
-      "id": "5043775",
-      "time": "2026-08-17 16:05:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千問辦公開源MyContext，為Agent打造全新上下文基礎設施】千問辦公於近日開源了全新的上下文基礎設施“MyContext”，它可以把海量異構的個人工作資料加工成Agent易理解的專屬工作檔案，讓Agent真正讀懂使用者和真實業務工作流，並最終在決策和執行等環節實現人機協同，提升Agent在工作場景下的表現。（新浪科技）"
-    },
-    {
-      "id": "te:markets:575778",
-      "time": "2026-08-17 16:05:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silicon Falls by 1.43% — Top commodity losers are Silicon (-1.43%) and Iron Ore CNY (-0.77%). Gains are led by Silver (1.42%), Lithium Carbonate (0.99%), Copper (0.92%) and Gold (0.57%)."
-    },
-    {
-      "id": "5043774",
-      "time": "2026-08-17 16:05:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《石油天然氣發展“十五五”規劃》：設立鄂爾多斯、渤海灣、川渝、塔里木、松遼、準噶爾、柴達木盆地等油氣戰略保障基地】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，設立鄂爾多斯、渤海灣、川渝、塔里木、松遼、準噶爾、柴達木盆地等油氣戰略保障基地，支撐完成國內油氣產量目標任務。"
-    },
-    {
-      "id": "5043773",
-      "time": "2026-08-17 16:04:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《石油天然氣發展“十五五”規劃》：加快深層超深層油氣規模效益開發】國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》，其中指出，保持開發投資強度支撐新建產能。加快深層超深層油氣規模效益開發。推動非常規油氣突破，加快儲量動用和開發建產，實現頁岩油、頁岩氣和深層煤層氣的規模效益開發。實施海洋油氣再提升工程，推動海洋油氣產量當量達億噸級規模。實施老油氣田壓艙石工程，推動大慶、勝利等老油田長期穩產。做好新區效益建產，推動巴彥、吉蘭泰等新油田加快上產。"
-    },
-    {
-      "id": "5043771",
-      "time": "2026-08-17 16:03:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華陽集團：光模組、高速聯結器等零部件業務已規模化生產】華陽集團8月17日在互動平臺表示，公司光模組、高速聯結器等零部件業務已規模化生產，且持續高速增長；正在不斷拓展資料中心伺服器機櫃、散熱等零部件業務，部分專案已量產。"
-    },
-    {
-      "id": "5043770",
-      "time": "2026-08-17 16:03:45",
-      "tags": [
-        "宏觀",
-        "其他",
-        "焦點"
-      ],
-      "text": "【國家統計局：居民消費重點從“買商品”到“享服務、重體驗”轉變】8月17日，國家統計局新聞發言人、國民經濟綜合統計司副司長王冠華在國新辦新聞釋出會上表示，7月份颱風、暴雨、高溫等極端天氣頻發，給部分地區的線下消費造成了一些影響。但總的來看，服務消費增長仍然表現出了較強的穩定性，增速持續快於商品零售額，1—7月份服務零售額增長5.0%，快於商品零售額3.9個百分點，居民消費重點從“買商品”到“享服務、重體驗”轉變。"
-    },
-    {
-      "id": "te:markets:575776",
-      "time": "2026-08-17 16:03:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Little Changed to Start the Week — The CAC 40 traded little changed around 8,641 on Monday, following previous week's decline as investors further pared expectations of a near-term Federal Reserve rate hike. Soft US economic data reinforced the view that the Fed may keep interest rates unchanged in September, with markets now pricing in roughly a 67% probability of a pause, up from less than 50% a month ago. In Europe, attention is turning to the release of the ECB’s latest Monetary Policy Meeting Accounts later this week after policymakers left key interest rates unchanged in July. Meanwhile, investors largely brushed aside renewed geopolitical tensions in the Middle East, where Israel launched fresh strikes on Lebanon while President Donald Trump prepared additional sanctions against Iran. On the corporate front, STMicroelectronics surged 3.6%, tracking strength in global technology stocks. In contrast, Danone (-1.3%), Saint-Gobain (-1.1%), and Dassault Systèmes (-1.0%) ranked among the worst laggards."
-    },
-    {
-      "id": "5043769",
-      "time": "2026-08-17 16:03:20",
-      "tags": [
-        "行業",
-        "其他",
-        "焦點"
-      ],
-      "text": "【國家發展改革委、國家能源局印發《石油天然氣發展“十五五”規劃》】2030年，國內油氣供應量4.4億噸油當量，新增油氣長輸管道2萬公里，全國油氣長輸管網規模達22萬公里，天然氣儲備規模持續增長，佔全國消費比重超過13％，液化天然氣接收站接卸能力2億噸/年，陸上管道進口天然氣能力1140億立方米/年，二氧化碳捕集與封存/二氧化碳捕集利用與封存（CCS/CCUS）年注入二氧化碳達1000萬噸。"
-    },
-    {
-      "id": "te:economy:575775",
-      "time": "2026-08-17 16:03:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kazakhstan",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Kazakhstan Industrial Output Growth Slows to 6-Month Low — Kazakhstan’s industrial production rose by 0.1% year-on-year in July 2026, easing sharply from an 8.2% jump in the previous month. This marked the lowest reading in six months, as growth slowed in the manufacturing industry to 4.2% from 13.7%. At the same time, activity fell in mining and quarrying, declining 7.1% after a 1.8% rise in June, driven largely by decreases in crude oil production (91.1% vs 91.6%) and natural gas production (94.5% vs 95.9%). In contrast, production increased in electricity, gas, steam, hot water, and air-conditioning, rising to 22.7% from 16.9%, while activity rebounded in water supply, water drainage, waste collection, treatment, and disposal, and pollution abatement services, to 7.8% from a 1.3% drop a month earlier. In the January–July period, industrial production rose by 3.0% compared with the same period a year earlier."
-    },
-    {
-      "id": "5043768",
-      "time": "2026-08-17 16:02:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前多數上漲，新東方漲2%】美股中概股盤前多數上漲，新東方漲2%，拼多多、理想汽車、蔚來、阿里巴巴漲1%，亞瑪芬體育漲0.9%，攜程漲0.8%，百度跌1%。"
-    },
-    {
-      "id": "5043767",
-      "time": "2026-08-17 16:02:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【璞源材料：2026年上半年營收7.72億元 同比增長104.25%】璞源材料公告稱，2026年上半年公司實現營業收入7.72億元，同比增長104.25%；歸屬於上市公司股東的淨利潤5916.13萬元，同比增長54.52%。截至報告期末公司總資產34.11億元，歸屬於上市公司股東的淨資產20.29億元。2026年1月底公司完成重大資產重組，新增鋰電池粘結劑業務，形成“鋰電池粘結劑+服裝”雙主業經營格局。"
-    },
-    {
-      "id": "5043766",
-      "time": "2026-08-17 16:01:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、據稱，特朗普尋求對伊朗實施陸地封鎖，但成功機率渺茫，他後續將出臺上千項針對伊朗的新制裁措施。\n2、特朗普於當地時間16日在社交媒體發文稱，鑑於他與朝鮮領導人金正恩的良好關係，他對於美國很早之前同意參加與韓國的聯合軍演“感到不滿”。並稱，已要求五角大樓削減與韓國的軍事演習。\n3、特朗普對沙特、土耳其、巴基斯坦簽署《麥加聯合防務協議》表示樂見其成，稱該協議體現中東走向團結，讓地區國家得以更實質地實現自衛，並祝賀三國領導層。\n4、特朗普於當地時間15日在社交媒體再度發文，敦促國會參議院儘快表決透過全年採用夏令時的相關法案。\n5、特朗普要求美國海軍再次考慮對“福特”級航母做出重大設計調整，將艦島向艦體中部移動，此舉預計將耗費數十億美元並延長交付週期。"
-    },
-    {
-      "id": "5043765",
-      "time": "2026-08-17 16:01:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：前7個月投資的促轉型、強基礎、惠民生關鍵作用凸顯】8月17日，國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉在國新辦新聞釋出會上表示，今年前7個月，固定資產投資同比下降，這既有部分地區高溫暴雨對專案施工的影響，也有外部環境複雜嚴峻，國內經濟轉型調整階段性的影響。付凌暉表示，看待當前投資形勢，不僅要看增速變化，也要關注投資的結構、質量和效益。今年以來，隨著創新引領作用的增強，政策效能的釋放，投資在促轉型、強基礎、惠民生方面的關鍵作用日益凸顯，表現為新賽道投資擴圍提質、重點領域投資持續增加和惠民生投入力度加大。我國投資結構持續最佳化、質量穩步提升，有利於增強經濟發展的後勁。"
-    },
-    {
-      "id": "5043764",
-      "time": "2026-08-17 16:01:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：谷歌公司與Pixel已宣佈與阿森納足球俱樂部、巴塞羅那足球俱樂部、拜仁慕尼黑足球俱樂部、利物浦足球俱樂部和巴黎聖日耳曼足球俱樂部建立新的長期合作伙伴關係。"
-    },
-    {
-      "id": "mkt:01a00ebd-399a-7aab-905b-54f458871f82",
-      "time": "2026-08-17 16:01:17",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow",
-        "Impact bearish"
-      ],
-      "text": "US S&P 500 E-mini futures rose 0.18%, Nasdaq-100 futures gained 0.54%, and Dow Jones futures fell 0.09%."
-    },
-    {
-      "id": "5043763",
-      "time": "2026-08-17 16:01:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你股指期貨上漲0.18%，納斯達克100股指期貨上漲0.54%，道瓊斯股指期貨下跌0.09%。"
-    },
-    {
-      "id": "mkt:01a00ebd-2816-7aab-905b-4d3c89890aa2",
-      "time": "2026-08-17 16:01:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's central bank opened a one-week gold-for-lira sell-side swap auction via the conventional method, size 4 tonnes."
-    },
-    {
-      "id": "mkt:01a00ebd-1fe8-7aab-905b-42fdd27820f4",
-      "time": "2026-08-17 16:01:10",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "【NBS: China's fixed‑asset investment down YoY in first seven months; structure and quality improving】China's fixed‑asset investment fell year‑on‑year in the first seven months, NBS spokesperson and chief economist Fu Linghui said at a State Council briefing on Aug 17. He attributed the decline to localized heat and heavy rain delaying construction, a complex external environment and a domestic economic transition and adjustment phase. Officials said assessment should emphasize investment structure, quality and efficiency as well as headline growth. Strengthened innovation and more effective policy implementation this year have pushed investment to play a larger role in promoting industrial transformation, shoring up infrastructure and supporting livelihoods, shown by wider, higher‑quality investment in new sectors, continued increases in key areas and bigger allocations to people‑focused spending. NBS said investment structure is steadily optimising and quality rising, which should help sustain growth momentum."
-    },
-    {
-      "id": "5043762",
-      "time": "2026-08-17 16:01:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃：禁止兩名法國駐伊朗大使館員工返回伊朗。"
-    },
-    {
-      "id": "5043761",
-      "time": "2026-08-17 16:00:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股盤前，儲存晶片股普漲，閃迪漲約6%，SK海力士漲約4%，希捷科技漲約3%，西部資料漲約4%，美光科技漲約3%。"
-    },
-    {
-      "id": "mkt:01a00ebc-e081-7aab-905b-3fa9f433f091",
-      "time": "2026-08-17 16:00:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish",
-        "Lead",
-        "Impact bullish",
-        "Aluminium"
-      ],
-      "text": "LME inventories: nickel +30t, copper +2,850t, lead -1,700t, tin -165t, aluminium -1,375t, zinc -1,175t."
     }
   ]
 }
