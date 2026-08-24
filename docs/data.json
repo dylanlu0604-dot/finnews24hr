@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-25 01:49:21",
-  "count": 15861,
+  "updated": "2026-08-25 01:53:55",
+  "count": 15859,
   "items": [
+    {
+      "id": "te:economy:577678",
+      "time": "2026-08-25 01:50:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Falls as Trade Risks Rise — The yield on Canada’s 10-year government bond fell to about 3.67% after touching a more than two-year high of 3.76% on August 21st, as a re-escalation in the trade war with the US put Canada’s economic recovery at risk. US President Donald Trump said tariffs on all Canadian cars, trucks, automotive parts and steel would rise to 50% on January 1, 2027. This came after Prime Minister Carney vowed to retaliate against the initial series of US tariffs imposed after trade talks fell through. Washington imposed 50% tariffs on furniture, plastics, plywood and electrical equipment, adding to existing 25% tariffs on steel, lumber and autos. Risks to growth from higher tariffs have reduced the case for a BoC rate hike this year. Growth is now expected to contract just as the economy has started to recover. In July, Canada added 75,000 jobs, while inflation edged up to 2.9%, largely due to gasoline prices rather than broad-based price pressures."
+    },
+    {
+      "id": "mkt:01a034e3-fa71-7aab-90fd-ca87dda031c9",
+      "time": "2026-08-25 01:49:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio spoke with South Korea's foreign minister on Monday about a range of US-South Korea alliance issues and said the two countries need to maintain close coordination."
+    },
     {
       "id": "5056108",
       "time": "2026-08-25 01:44:56",
@@ -143758,46 +143778,6 @@
         "國際"
       ],
       "text": "特朗普談及Flock車牌識別監控攝像頭：這件事有利有弊，我們很快會公佈對於Flock攝像頭的官方立場。"
-    },
-    {
-      "id": "mkt:01a010da-c9d3-7aab-9067-6945feabc88f",
-      "time": "2026-08-18 01:52:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign minister, responding to Iraq's foreign minister, said Iran has no reason to strike the Kurdistan Regional Government leader's official residence."
-    },
-    {
-      "id": "5044682",
-      "time": "2026-08-18 01:50:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外長：日本企圖借抨擊俄羅斯掩蓋自身軍事動向】俄羅斯外交部長拉夫羅夫17日在評論日本方面針對俄總統普京登上伊圖魯普島（日本稱擇捉島）的表態時對俄媒表示，建議日本領導層集中精力處理國內事務，而非對俄進行“攻擊”。拉夫羅夫說，如果日本企圖透過抨擊俄羅斯來轉移國際社會對其“公然帶有侵略性質的”軍事路線的注意，那麼“我建議他們管好自己的事，他們國內有很多問題需要解決”。拉夫羅夫表示，日本試圖聯合與其關係緊密的盟友美國，按照雙方意願“改寫”國際法。日本企圖逃避自身犯下罪行的歷史責任，當下還在突破憲法約束，謀求拓展自衛隊海外活動，種種動向“非常令人擔憂”。（新華社）"
-    },
-    {
-      "id": "5044681",
-      "time": "2026-08-18 01:50:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克外交部長與伊朗外長討論針對庫爾德斯坦地區政府主席官邸的無人機襲擊事件。"
-    },
-    {
-      "id": "mkt:01a010d8-36ed-7aab-9067-66fc7f645cc4",
-      "time": "2026-08-18 01:50:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Iranian media: UAE-owned tanker seized in Strait of Hormuz】Fars News, citing maritime data, reports a tanker owned by a UAE company was seized in the Strait of Hormuz after being intercepted near Qeshm Island. Iranian officials have said all vessels must use Tehran-designated routes and comply with related regulations."
     }
   ]
 }
