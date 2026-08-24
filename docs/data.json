@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-25 07:28:06",
-  "count": 15865,
+  "updated": "2026-08-25 07:32:14",
+  "count": 15864,
   "items": [
+    {
+      "id": "5056272",
+      "time": "2026-08-25 07:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌150點，報65350點。"
+    },
+    {
+      "id": "5056271",
+      "time": "2026-08-25 07:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海地首都附近遭幫派襲擊致40餘人死亡】海地媒體《海地公報》24日報道，海地首都太子港附近的肯斯科夫市23日晚遭反政府幫派組織 “共同生活”武裝襲擊，造成40餘人死亡。報道援引肯斯科夫市長的話說，武裝人員試圖控制該市中心，並縱火焚燒房屋、綁架多人。媒體記者在該市街頭清點到43具遺體。報道稱，海地安全部隊與武裝人員交火數小時後將其擊退。目前，當地衝突已經停止。（新華社）"
+    },
+    {
+      "id": "5056270",
+      "time": "2026-08-25 07:29:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "據房地產中介機構仲量聯行預測，2026年香港豪宅租金預計將上漲約5%，租金料將在2027年中進一步上漲。"
+    },
+    {
+      "id": "5056269",
+      "time": "2026-08-25 07:27:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美方分析稱美加碼對伊朗經濟制裁或作用有限】當地時間24日，美國財長公佈多項針對伊朗的經濟制裁措施。但美國方面分析指出，美國對伊朗的制裁加碼可能作用有限，衝突如果延宕下去甚至會反噬美國自身。美國《政治報》發表文章說，包括美國政府前官員、美國前駐外大使和中東問題專家在內的專業人士普遍懷疑，美國繼續收緊對伊朗的制裁，能否讓伊朗放棄對霍爾木茲海峽的控制，或者接受美國提出的條件。文章指出，伊朗已承受數十年美國製裁，擁有規避制裁的經驗，美國製裁加碼很難對局勢產生決定性的影響。美國方面還有分析稱，美國政府出臺新的針對伊朗的經濟制裁措施，標誌著美國政府在衝突中的戰略發生變化。分析指出，對伊朗經濟制裁是一場豪賭，美國政府將賭注全壓在伊朗迫於經濟壓力而屈服之上，寄望於實現軍事打擊沒能達成的目標。（央視新聞）"
+    },
     {
       "id": "5056268",
       "time": "2026-08-25 07:27:11",
@@ -143765,57 +143798,6 @@
         "MKT News"
       ],
       "text": "【CITIC Securities: OSATs that first scale mass production and expand capacity likely to gain first‑mover advantage】CITIC Securities says mainland China advanced packaging is at a stage of rapidly rising CoWoS penetration. Mainland foundries have not yet mass‑produced mid‑process steps such as RDL, while OSATs have active layouts in 2.5D/3D/CoWoS. OSATs that can first break through to mass production and expand capacity are likely to establish a first‑mover advantage and capture larger industry share. However, as the sector evolves, mainland foundries remain strategically important: their front‑end technology and equipment capacity could enable them to catch up with or even surpass OSATs in advanced packaging iterations, by analogy with TSMC’s role."
-    },
-    {
-      "id": "te:markets:575939",
-      "time": "2026-08-18 07:31:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Extends Gains as Peace Prospects Dim — Crude oil climbed toward $85 per barrel on Tuesday, rising for a third consecutive session as prospects for a new agreement between the US and Iran weakened after President Donald Trump said he was not interested in extending the interim peace deal. The memorandum of understanding signed in June, which was intended to give both sides 60 days to negotiate a longer-term peace agreement, officially expired on Monday. Meanwhile, Iran and Oman continue to negotiate an arrangement for managing shipping through the Strait of Hormuz, although the US is not involved in the talks. Washington is unlikely to back any deal that fails to ensure unrestricted passage through the strategically vital shipping route. At the same time, Middle Eastern producers appear to be becoming increasingly adept at covertly moving oil through Hormuz to global buyers while also supplying cargoes from outside the key chokepoint."
-    },
-    {
-      "id": "5044833",
-      "time": "2026-08-18 07:31:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤走低280點，報68970點。"
-    },
-    {
-      "id": "5044832",
-      "time": "2026-08-18 07:31:09",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：關注國內半導體材料企業加速進口替代的認證節奏以及投資機會】中信建投研報指出，當前AI通脹來到了材料端，而材料環節的標的更加分散，而且多數強勢公司在日本，2025年下半年以來雙邊關係的緊張更有加速跡象。供給端進口替代，需求端AI通脹成為幾乎完美的組合。我們判斷，對日本進口替代主題會有更多演繹空間，繼續關注半導體材料進口替代交易，關注國內半導體材料企業加速進口替代的認證節奏以及投資機會。"
-    },
-    {
-      "id": "5044831",
-      "time": "2026-08-18 07:29:13",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：原奶週期反轉訊號顯現，上下游共迎經營修復視窗】中信建投研報指出，近期散奶價格反超合同價，日噴粉生鮮乳減少至2年最低位，主產區奶價小幅回升，原奶週期反轉訊號明顯。隨著上游持續去化，預計原奶產量逐步緊縮，下游深加工產能投產增加需求，看好原奶價格開啟溫和上漲期，頭部牧業集團將具備業績彈性，推薦優然牧業。奶價上升期，中游乳企液奶競爭力增強，上游相關減值減少、投資收益增加，利好業績改善。"
-    },
-    {
-      "id": "mkt:01a0120e-314f-7aab-906a-52c07ff73c54",
-      "time": "2026-08-18 07:28:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【BHP FY underlying profit up 30% as copper strength boosts earnings】BHP said underlying profit for the year to June rose 30% to $13.2bn, beating analysts, as higher commodity prices—notably record-high copper—lifted earnings. Copper revenue exceeded iron ore revenue for the first time. The group declared a final dividend of $0.99 per share, implying a 72% payout ratio. BHP projects global copper demand will rise from about 34 mln tonnes today to 50 mln t by 2050, but said copper output at its Chile operations is falling due to grade decline and ageing mines, forcing billions of dollars of sustaining capital to maintain production."
     }
   ]
 }
