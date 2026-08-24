@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-25 05:53:23",
-  "count": 15851,
+  "updated": "2026-08-25 05:57:23",
+  "count": 15850,
   "items": [
+    {
+      "id": "mkt:01a035c3-34f5-7aab-90ff-fe52cb84d9ff",
+      "time": "2026-08-25 05:53:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei reports Japan plans to spend $630 million to purchase a submarine cable-laying vessel."
+    },
     {
       "id": "5056208",
       "time": "2026-08-25 05:51:56",
@@ -143656,22 +143666,6 @@
         "國際"
       ],
       "text": "【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。"
-    },
-    {
-      "id": "mkt:01a011ba-44ce-7aab-9069-feb2b46d94d0",
-      "time": "2026-08-18 05:56:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Fars News reports a fuel tank fire and explosion in Sulaymaniyah, Iraq's Kurdistan Region."
-    },
-    {
-      "id": "5044781",
-      "time": "2026-08-18 05:56:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長：認為市場對財政方面的擔憂合乎情理，盧拉政府若當選，需解決財政方面的擔憂。"
     }
   ]
 }

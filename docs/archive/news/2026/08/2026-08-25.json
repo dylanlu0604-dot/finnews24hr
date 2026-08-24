@@ -1,7 +1,17 @@
 {
   "date": "2026-08-25",
-  "count": 338,
+  "count": 339,
   "items": [
+    {
+      "id": "mkt:01a035c3-34f5-7aab-90ff-fe52cb84d9ff",
+      "time": "2026-08-25 05:53:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Nikkei reports Japan plans to spend $630 million to purchase a submarine cable-laying vessel."
+    },
     {
       "id": "5056208",
       "time": "2026-08-25 05:51:56",
