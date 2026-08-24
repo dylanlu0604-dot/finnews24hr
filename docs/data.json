@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-25 03:14:21",
-  "count": 15822,
+  "updated": "2026-08-25 03:18:22",
+  "count": 15825,
   "items": [
+    {
+      "id": "mkt:01a03535-1dba-7aab-90fe-92e577f9c9db",
+      "time": "2026-08-25 03:17:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dollar index up 0.2% to 99.003 on the 24th】The dollar index, which measures the greenback against six major currencies, rose 0.2% to 99.003 at the New York FX close on the 24th. EUR/USD 1.1663, down from 1.1683; GBP/USD 1.3631, down from 1.3652. USD/JPY 159.19, up from 159.02; USD/CHF 0.8026, up from 0.8008; USD/CAD 1.3850, up from 1.3761; USD/SEK 9.4973, up from 9.4626."
+    },
+    {
+      "id": "mkt:01a03534-5cb1-7aab-90fe-8a97e8d6a808",
+      "time": "2026-08-25 03:16:59",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O): NASA's Roman Space Telescope was loaded into a Falcon Heavy fairing last week and is scheduled to launch Sunday, Aug. 30, from pad 39A in Florida."
+    },
+    {
+      "id": "5056141",
+      "time": "2026-08-25 03:16:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "Gap股價放量上漲，最新漲3.2%。"
+    },
+    {
+      "id": "5056140",
+      "time": "2026-08-25 03:16:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：特朗普在第一任期重建了我們的軍隊。他正於第二任期再度推進軍隊重建工作。"
+    },
+    {
+      "id": "mkt:01a03531-bdb0-7aab-90fe-84b3e3bb6fdb",
+      "time": "2026-08-25 03:14:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon Web Services launched AWS Glue 6.0, offering faster, more cost-effective data integration; AWS said the upgrade cuts AWS Glue pricing by 30%."
+    },
     {
       "id": "5056139",
       "time": "2026-08-25 03:12:58",
@@ -143406,32 +143453,6 @@
         "其他"
       ],
       "text": "機場管理局將投票表決一項價值 199 億美元的華盛頓杜勒斯機場改造方案。"
-    },
-    {
-      "id": "mkt:01a01126-37a4-7aab-9068-c6611470d185",
-      "time": "2026-08-18 03:15:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O",
-        "Impact mixed"
-      ],
-      "text": "【AI-driven borrowing pushes US investment-grade bond issuance to August record】US investment-grade bond issuance hit an August record and marked the third consecutive month of monthly records, maintaining the fastest issuance pace on record. As of Monday, August issuance reached $145.2bn, exceeding the prior August record of $136.0bn in 2020. Heavy corporate spending on AI infrastructure has boosted borrowing demand; this month’s volume was led by Alphabet (GOOG.O)’s $25bn deal. This was the eighth $25bn-or-larger offering so far this year, and all eight came from technology companies."
-    },
-    {
-      "id": "mkt:01a01125-e09f-7aab-9068-b9c78c252e99",
-      "time": "2026-08-18 03:14:49",
-      "tags": [
-        "MKT News",
-        "WBD.O",
-        "Impact bearish",
-        "PARA.O"
-      ],
-      "text": "【Paramount-Skydance seeks $1.88bn bond from states over delays to $110bn Warner Bros. Discovery takeover】Paramount-Skydance on Monday asked a U.S. judge to require about a dozen states suing to block its $110bn acquisition of Warner Bros. Discovery (WBD.O) to post a $1.88bn bond to cover costs from the delayed close. The company says it would incur $7m of delay costs per day if the merger fails to close by Sept. 30. The states’ challenges are expected to be tried in March; Paramount-Skydance warned that by the time trial concludes and final briefs are filed it will have paid $1.3bn in non-recoverable ticking fees to WBD shareholders."
     }
   ]
 }
