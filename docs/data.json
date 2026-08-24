@@ -1,7 +1,152 @@
 {
-  "updated": "2026-08-24 21:40:27",
-  "count": 15802,
+  "updated": "2026-08-24 21:44:45",
+  "count": 15813,
   "items": [
+    {
+      "id": "mkt:01a03403-1e7b-7aab-90f8-c84df998571f",
+      "time": "2026-08-24 21:43:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Trump announces 50% tariffs on Canadian autos, parts and steel from Jan. 1, 2027】U.S. President Trump announced tariffs on Canadian cars, trucks (all sizes), auto parts and steel will be raised to 50% effective Jan. 1, 2027, and said goods produced in the United States would be exempt. He cited a $60bn bilateral trade deficit with Canada as justification."
+    },
+    {
+      "id": "5055884",
+      "time": "2026-08-24 21:42:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鉑力特：2026年上半年營收7.70億元 淨利同比降32.99%】鉑力特公告稱，2026年半年度實現營業收入7.70億元，同比增長15.46%；歸屬於上市公司股東的淨利潤5113.90萬元，同比下降32.99%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1616.61萬元，同比下降62.72%。公司擬向全體股東每10股派發現金紅利0.288元（含稅），合計擬派發現金紅利790.05萬元（含稅），不送紅股，不進行資本公積金轉增股本。"
+    },
+    {
+      "id": "5055883",
+      "time": "2026-08-24 21:42:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鉑力特：2026年上半年營收7.70億元 同比增15.46%】鉑力特公告稱，2026年上半年實現營業收入7.70億元，同比增長15.46%；歸屬於上市公司股東的淨利潤5113.90萬元。上半年研發投入1.36億元，同比增長8.74%，佔營收比例17.70%；新增申請專利26項，截至報告期末累計申請專利764項，擁有有效授權專利496項。報告期內完成2025年年度權益分派，每10股派發現金紅利0.8131元，合計派現2230.51萬元；同時擬實施2026年中期利潤分配，每10股派發現金紅利0.288元（含稅），合計擬派現790.05萬元（含稅）。"
+    },
+    {
+      "id": "5055882",
+      "time": "2026-08-24 21:42:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "OHB SE（股票程式碼：<OHBG.DE>）股價下跌約10%，跌至今年1月以來的最低位。"
+    },
+    {
+      "id": "5055881",
+      "time": "2026-08-24 21:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Tharisa 旗下 Karo 鉑金專案簽署辛巴威採礦租約。"
+    },
+    {
+      "id": "mkt:01a03401-af00-7aab-90f8-c4f5538bff32",
+      "time": "2026-08-24 21:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said companies that build factories in the U.S. would be eligible for zero tariffs."
+    },
+    {
+      "id": "mkt:01a03401-1c75-7aab-90f8-bd42ab9419c0",
+      "time": "2026-08-24 21:41:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran rial down nearly 10% in two weeks; central bank governor calls depreciation \"temporary\"】Iran's rial has fallen nearly 10% over the past two weeks and plunged earlier in the war as the US prepares to unveil an \"economic war\" plan targeting Tehran, Central Bank Governor Abdolnaser Hemmati said on state television. Hemmati described the recent depreciation as \"temporary\", said exchange rates will fluctuate, blamed US political pressure for economic damage and added he expects the situation to improve and the problem to be resolved."
+    },
+    {
+      "id": "5055880",
+      "time": "2026-08-24 21:41:19",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗貨幣兩週跌近10%，央行行長稱貶值屬“暫時現象”】伊朗央行行長阿卜杜勒納賽爾·赫馬蒂表示，雖然伊朗里亞爾持續貶值，但這種貶值只是“暫時的”。過去兩週，里亞爾已經貶值近10%。在戰爭初期，該貨幣就曾大幅下跌，而美國即將公佈針對德黑蘭的“經濟戰”計劃。赫馬蒂在國家電視臺播出的講話影片中表示：“這只是暫時的，也就是說它們會波動。”他將伊朗經濟遭受的損害歸咎於美國的“政治宣傳”，並補充說，他相信“情況會好轉，問題會得到解決”。"
+    },
+    {
+      "id": "mkt:01a03401-0780-7aab-90f8-b14afded557a",
+      "time": "2026-08-24 21:41:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said tariffs on all Canadian cars, trucks (heavy and light), auto parts and steel will be raised to 50% effective Jan. 1, 2027."
+    },
+    {
+      "id": "5055879",
+      "time": "2026-08-24 21:41:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "福特和通用汽車股價跌至日內低點。"
+    },
+    {
+      "id": "te:markets:577632",
+      "time": "2026-08-24 21:40:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Start Week Mixed — US stocks were mixed on Monday as losses for chip producers offset gains in broader sectors. The S&P 500 fell 0.3% and the Nasdaq 100 fell over 1%, although the Dow inched higher. AI infrastructure stocks led the losses on persistent uncertainty over the outlook on returns in the sector, with support from incoming LLM developer IPOs offsetting concerns that capital expenditure on chips has been overdone. Micron, Marvell, and Sandisk were between 6% and 10%. Meanwhile, Nvidia dropped 1% ahead of its earnings on Wednesday after the bell, the next catalyst for the AI trade. Meanwhile, energy prices eased but remained elevated as the US pledged to isolate Iran economically. This added to lingering concerns of elevated inflation as high energy prices magnified the impact of high deficit spending and Treasury intervention to buy back bonds. Still, credit services were higher following last week's pullback, with Visa and Mastercard adding 2%."
+    },
+    {
+      "id": "5055878",
+      "time": "2026-08-24 21:40:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：明年全部加拿大乘用車、卡車、汽車零部件以及鋼鐵的關稅將上調至50%】美國總統特朗普在社交媒體發文稱：多年來加拿大一直在佔美國的便宜。加拿大對我國農民及農產品徵收高得離譜的關稅，讓這些優秀的美國愛國從業者舉步維艱，也造成兩國之間長期600億美元的貿易逆差。這種局面難以為繼，今後絕不會再繼續！2027年1月1日起，針對全部大小乘用車、卡車、汽車零部件以及鋼鐵的關稅將上調至50%。如果在美國本土生產，則關稅為零。加拿大再也不能享受如同美國一個州般的待遇！無論是貿易還是其他領域，加拿大都是全球最難打交道的國家之一。他們總覺得自己理應享有優待，但事實是：**我們並不需要加拿大，是他們需要我們！加拿大95%的貿易業務都是和美國開展，情況完全反過來！"
+    },
+    {
+      "id": "mkt:01a03400-5100-7aab-90f8-ac424d99b2f9",
+      "time": "2026-08-24 21:40:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the US does not need Canada; Canada needs the US."
+    },
+    {
+      "id": "mkt:01a03400-0fdc-7aab-90f8-a181a1e3cd77",
+      "time": "2026-08-24 21:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USD/CAD little changed, quoted at 1.3826."
+    },
+    {
+      "id": "te:markets:577631",
+      "time": "2026-08-24 21:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.14% Higher — The Dow Jones Index is up by 76 points or 0.14 percent on Monday. Top gainers are Visa (2.06%), UnitedHealth (1.97%) and Walt Disney (1.71%). Biggest losses came from Caterpillar (-2.13%), Boeing (-1.55%) and Merck (-1.53%)."
+    },
     {
       "id": "mkt:01a033ff-b332-7aab-90f8-9a141b55d619",
       "time": "2026-08-24 21:39:50",
@@ -143158,40 +143303,6 @@
         "Impact bearish"
       ],
       "text": "Brazil's central bank sold $1 bln in a dollar auction backed by repurchase agreements."
-    },
-    {
-      "id": "5044472",
-      "time": "2026-08-17 21:44:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮新聞秘書：特朗普總統稱讚防務協議，稱中東地區正 “走向團結”。"
-    },
-    {
-      "id": "5044471",
-      "time": "2026-08-17 21:44:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美股光通訊板塊盤初走高】美股光通訊板塊盤初走高，邁威爾科技漲超6%，Coherent漲超4%，Lumentum漲超3%。"
-    },
-    {
-      "id": "mkt:01a00ff5-e089-7aab-9063-61aca9610487",
-      "time": "2026-08-17 21:42:47",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【CIBC economist says BoC likely to remain on hold】CIBC capital markets economist Andrew Grantham said the Bank of Canada is unlikely to rush to re-evaluate policy after July CPI accelerated to 3.0%, slightly above forecasts, driven by energy and World Cup-related travel costs. Core inflation excluding volatile items remained around 2%, and inflation excluding gasoline held at 2.2%. Grantham said the BoC has ample time to assess the impact of energy prices and US-Canada trade tensions before adjusting rates; the next decision is Sept. 2."
-    },
-    {
-      "id": "5044470",
-      "time": "2026-08-17 21:41:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯 7 月工業產出同比增長 4.9%。"
     }
   ]
 }
