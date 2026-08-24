@@ -1,7 +1,286 @@
 {
   "date": "2026-08-24",
-  "count": 2088,
+  "count": 2120,
   "items": [
+    {
+      "id": "5055787",
+      "time": "2026-08-24 20:55:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST正平：新增訴訟事項 涉案金額約1.10億元】*ST正平公告稱，公司就潁上縣高鐵新區路網及站前廣場專案工程款、設計費等支付爭議，向法院起訴潁上縣重點工程建設管理中心，案件已獲受理，尚未開庭審理。本次訴訟請求金額暫合計1.10億元，含工程款6085.15萬元、設計費184萬元及建設期利息、逾期付款損失等暫計4778.53萬元，訴訟費、保全費以法院最終確定金額為準。訴訟請求能否獲支援、判決結果及回款情況均存在不確定性，暫無法判斷對公司利潤的具體影響。"
+    },
+    {
+      "id": "5055786",
+      "time": "2026-08-24 20:54:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【白銀有色：股票交易異常波動 無應披露未披露事項】白銀有色公告稱，公司股票於2026年8月20日、8月21日、8月24日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。經自查並徵詢前兩大股東中信國安實業集團有限公司、甘肅省新業資產經營有限責任公司，截至2026年8月24日，不存在應披露而未披露的重大資訊。公司目前生產經營活動正常，內外部經營環境未發生重大調整。本次股價異常波動期間，公司股東中國中信集團有限公司、董事及高階管理人員均不存在買賣公司股票的情況。"
+    },
+    {
+      "id": "5055785",
+      "time": "2026-08-24 20:54:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部：根據中期財政計劃，今年債務水平將升至GDP的77.5%，之後將下降。"
+    },
+    {
+      "id": "mkt:01a033d4-1f94-7aab-90f7-f18a82b6d8f5",
+      "time": "2026-08-24 20:52:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's Finance Ministry said the government plans to begin reducing government debt from 2027."
+    },
+    {
+      "id": "mkt:01a033d3-ec68-7aab-90f7-ec59a03d3383",
+      "time": "2026-08-24 20:52:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary projects government debt-to-GDP will rise to 77.5% in 2026 from 74.6%."
+    },
+    {
+      "id": "5055784",
+      "time": "2026-08-24 20:51:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部：透過節約措施，到年底將累計減少7000億福林的財政缺口。"
+    },
+    {
+      "id": "5055783",
+      "time": "2026-08-24 20:51:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破79000美元，日內漲1.79%。"
+    },
+    {
+      "id": "5055782",
+      "time": "2026-08-24 20:50:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國土安全部提議將H-1B簽證費用提高至100,000美元。"
+    },
+    {
+      "id": "5055781",
+      "time": "2026-08-24 20:50:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯與烏克蘭各交換10名在押人員。"
+    },
+    {
+      "id": "mkt:01a033d2-9fe2-7aab-90f7-e18919e5adee",
+      "time": "2026-08-24 20:50:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CGTN reports the U.S. Department of Homeland Security has proposed raising H-1B visa fees to $100,000."
+    },
+    {
+      "id": "te:markets:577619",
+      "time": "2026-08-24 20:49:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Inch Down — Futures tracking US equity indices were lower on Monday, holding losses from the previous week amid tech weakness and persistent pressure from a deteriorating macroeconomic backdrop. Contracts for the S&P 500 dropped 0.3%, while the Nasdaq fell 1% and the Dow inched marginally lower. Oil prices eased but remained elevated as the US pledged to isolate Iran economically. This added to lingering concerns of elevated inflation as high energy prices magnified the impact of high deficit spending and Treasury intervention to buy back bonds. AI infrastructure stocks led the losses on persistent uncertainty over the outlook on returns in the sector, with support from incoming LLM developer IPOs offsetting concerns that capital expenditure on chips has been overdone. Micron, Marvell, and Sandisk were between 3.5% and 5% down premarket. Meanwhile, Nvidia was flat ahead of its earnings on Wednesday after the bell, the next catalyst for the AI trade."
+    },
+    {
+      "id": "5055780",
+      "time": "2026-08-24 20:49:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部：修訂2026年預算後，目標將預算赤字佔GDP比重控制在7.5%。"
+    },
+    {
+      "id": "5055779",
+      "time": "2026-08-24 20:49:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【滬八條落地首個週末：新盤再現日光，購房者“小跑進場”】“對於客戶而言，原本可能是走路進場，新政落地後，是小跑進場。”伴隨樓市新政紅利釋放，上海外環外改善型樓盤的市場熱度繼續傳導。“滬八條”新政落地首個週末，上海新房市場再次上演日光行情，位於青浦徐涇板塊的改善盤寶業·虹橋國展裡二批次推出的64套房源快速清盤，這也是近10天內上海第三個實現開盤售罄的樓盤。"
+    },
+    {
+      "id": "5055778",
+      "time": "2026-08-24 20:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：南大西洋中脊發生5.0級地震。"
+    },
+    {
+      "id": "5055777",
+      "time": "2026-08-24 20:49:05",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部將高額財政赤字歸咎於乾旱與能源危機。"
+    },
+    {
+      "id": "5055776",
+      "time": "2026-08-24 20:48:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國一汽與零跑汽車簽署深化戰略合作協議】據中國一汽訊息，8月24日，中國一汽與零跑汽車在長春舉行深化戰略合作協議簽署儀式。根據協議，雙方將圍繞資本合作、新能源整車、智慧駕駛、動力總成、動力電池、智慧底盤、車身工藝裝備、輕量化部件、具身智慧機器人、金融等領域開展深度協同。"
+    },
+    {
+      "id": "mkt:01a033d0-f14a-7aab-90f7-d99f6931406d",
+      "time": "2026-08-24 20:48:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【China FAW, Leapmotor sign agreement to deepen strategic cooperation】Aug 24, Changchun — FAW Group and Leapmotor signed an agreement to deepen strategic cooperation across capital cooperation, new-energy vehicles, intelligent/autonomous driving, powertrains and power batteries, intelligent chassis and body manufacturing equipment, lightweight components, embodied intelligent robots and financial services."
+    },
+    {
+      "id": "mkt:01a033d0-d916-7aab-90f7-d52871840b4a",
+      "time": "2026-08-24 20:48:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【U.S.-Canada tariff talks fail; Greer says Canada raised demands at 11th hour】U.S. Trade Representative Greer said negotiations with Canada collapsed after Ottawa altered its demands in the final hours, delaying completion of the final text despite prior near-agreement on a path to a deal. Following the breakdown, Washington has imposed new tariffs on certain Canadian goods and Ottawa has announced retaliatory measures, further escalating U.S.-Canada trade tensions."
+    },
+    {
+      "id": "5055775",
+      "time": "2026-08-24 20:48:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "英力士公司預測，12月原油產量為20萬桶/日，而11月為19.4萬桶/日。"
+    },
+    {
+      "id": "5055774",
+      "time": "2026-08-24 20:48:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，為滿足AI發展下急速擴張的電力需求，韓國考慮將核電站延役許可期限從10年延長為20年。"
+    },
+    {
+      "id": "5055773",
+      "time": "2026-08-24 20:47:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "匈牙利財政部表示，匈牙利將修訂2026年預算。"
+    },
+    {
+      "id": "te:economy:577617",
+      "time": "2026-08-24 20:47:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Chicago Fed National Activity Index",
+        "Importance 1"
+      ],
+      "text": "Chicago Fed Activity Index Falls in July — The Chicago Fed National Activity Index (CFNAI) edged down to -0.08 in July 2026 from 0.06 in June, signaling a slight deterioration in US economic activity. Three of the four broad categories of indicators used to construct the index decreased from June, and two categories made negative contributions in July. Production-related indicators contributed 0.01 points, down from 0.04 points in June, while the sales, orders and inventories category contributed 0.02 points, also easing from 0.04 points. Employment-related indicators improved to a negative 0.01-point contribution from negative 0.05 points in June. Meanwhile, the personal consumption and housing category weakened sharply, contributing negative 0.09 points after adding 0.04 points in June. The index's three-month moving average, CFNAI-MA3, decreased to –0.04 in July from +0.01 in June."
+    },
+    {
+      "id": "5055772",
+      "time": "2026-08-24 20:47:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "據香港交易所公告顯示，廣州富力地產預計截至6月30日的六個月將虧損50億元至55億元人民幣，而去年同期虧損為40.8億元人民幣。"
+    },
+    {
+      "id": "5055771",
+      "time": "2026-08-24 20:47:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行購入2500萬美元。"
+    },
+    {
+      "id": "5055770",
+      "time": "2026-08-24 20:46:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國伊利諾伊州尊嚴死亡法案目前遭到部分禁令限制。"
+    },
+    {
+      "id": "mkt:01a033ce-0710-7aab-90f7-cd109d01c0f1",
+      "time": "2026-08-24 20:45:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to SPA, Saudi Arabia and France’s public investment bank will set up a $5 billion credit line to promote trade."
+    },
+    {
+      "id": "5055769",
+      "time": "2026-08-24 20:45:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面訊息：沙特與法國公共投資銀行設立50億美元信貸額度以促進貿易。"
+    },
+    {
+      "id": "5055768",
+      "time": "2026-08-24 20:45:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "宣告顯示，利比亞國家石油公司與雪佛龍簽署產量分成協議，作為招標輪次的一部分。"
+    },
+    {
+      "id": "5055767",
+      "time": "2026-08-24 20:44:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海天國際：上半年股東應占純利15.81億元，同比下降7.70%】8月24日，海天國際在港交所公告，上半年營收91.02億元，同比增長0.90%；公司股東應占純利15.81億元，同比下降7.70%；每股基本盈利0.99元。"
+    },
+    {
+      "id": "mkt:01a033cd-2fba-7aab-90f7-c56226d39b6b",
+      "time": "2026-08-24 20:44:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation signed a production-sharing agreement with Chevron as part of a bidding round, the statement said."
+    },
+    {
+      "id": "5055766",
+      "time": "2026-08-24 20:43:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙象股份：2026年上半年營收12.02億元 淨利同比降39.58%】雙象股份公告稱，2026年上半年實現營業收入12.02億元，同比下降1.11%；歸屬於上市公司股東的淨利潤8120.70萬元，同比下降39.58%；扣非淨利潤6673.27萬元，同比下降44.97%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。截至2026年6月30日，控股股東江蘇雙象集團累計質押公司股份9100萬股，佔其所持股份的52.59%，佔公司總股本的33.93%。"
+    },
+    {
+      "id": "5055765",
+      "time": "2026-08-24 20:43:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華燦光電：2026年上半年營收41.82億元 同比增65.15%】華燦光電公告稱，2026年上半年實現營業收入41.82億元，同比增長65.15%；歸母淨利潤205.30萬元，同比扭虧為盈；扣非後淨虧損1.33億元，同比收窄37.90%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。持股5%以上股東義烏和諧芯光減持至4.99999%，珠海華髮減持0.7320%股份。公司擬向京東方定增募資不超過9.98億元補充流動資金，擬與合作方設合資公司投建新型高階顯示專案，總投資約9.70億元。"
+    },
     {
       "id": "mkt:01a033cb-723c-7aab-90f7-bb7d4a67957b",
       "time": "2026-08-24 20:42:46",
