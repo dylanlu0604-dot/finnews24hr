@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 03:38:11_
-_本檔包含 3059 則快訊，約 621854 字_
+_更新時間：2026-08-25 03:50:07_
+_本檔包含 3062 則快訊，約 622103 字_
+
+---
+
+### 2026-08-19 09:28:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+At the open on Aug 19 (Wednesday), China's CSI 300 Index fell 65.76 points (-1.39 pct) to 4,660.06; Shanghai Composite Index dropped 38.18 points (-0.96 pct) to 3,952.12; Shenzhen Composite Index slid 305.52 points (-2.09 pct) to 14,316.98; ChiNext Index declined 100.05 points (-2.70 pct) to 3,605.52; STAR 50 Index fell 51.96 points (-2.90 pct) to 1,738.91.
+
+---
+
+### 2026-08-19 09:27:50  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300 #CNH
+
+Commercial aerospace-themed ETFs opened higher; satellite ETFs from E Fund and GF Fund rose more than 3%, while Penghua and Fullgoal satellite ETFs climbed over 2%. The moves followed news China reported a major breakthrough in reusable-rocket technology as Zhuque-3 became the first Chinese orbital launch vehicle to reach orbit and be recovered on land.
+
+---
+
+### 2026-08-19 09:27:46  #市場
+
+商業航天主題ETF高開，衛星ETF易方達、衛星ETF廣發雙雙漲超3%，衛星ETF鵬華、衛星ETF富國漲超2%。訊息面上，我國在重複使用火箭關鍵技術上取得重大突破，朱雀三號成為我國首款成功入軌並實現陸地回收的運載火箭。
+
+---
+
+### 2026-08-19 09:27:39  #市場
+
+【CPO板塊大幅低開，天洋新材跌停】CPO板塊大幅低開，天洋新材跌停，富信科技、強達電路、中石科技、天孚通訊紛紛低開。
+
+---
+
+### 2026-08-19 09:27:14  #MKT News
+
+【President Trump's Wednesday schedule】Beijing time Aug 19 20:00 — White House: handle executive business; 23:00 — Oval Office: policy meeting; Beijing time Aug 20 00:30 — Oval Office: policy meeting; 02:30 — Roosevelt Room: remarks to tech industry leaders; 04:00 — Oval Office: policy meeting.
+
+---
+
+### 2026-08-19 09:27:10  #公司 #國際
+
+【歐委會批准賓士、寶馬、賽力斯共同控股超充合資公司逸安啟】歐盟中國商會訊息，據歐委會網站，8月13日，歐委會宣佈根據歐盟併購法規，正式批准梅賽德斯-賓士中國集團、華晨寶馬和賽力斯集團共同控股北京逸安啟新能源科技有限公司（逸安啟）。今年4月，寶馬與梅賽德斯-賓士在中國合資設立的超充公司逸安啟宣佈股權擴容：賽力斯集團以對等持股方式成為新投資方，旗下品牌問界正式加入。交易完成後，寶馬、梅賽德斯-賓士、賽力斯三方各持33.3%股份，共同推進國內超充網路建設與運營。
 
 ---
 
@@ -18491,23 +18527,5 @@ Nasdaq is in talks with regulators to offer near-continuous trading on the Nasda
 ### 2026-08-18 03:51:18  #MKT News #WTI #Impact bullish
 
 【Trump approval falls to 33%, lowest in current term】A Reuters/Ipsos poll concluded Monday found President Trump's approval rating at 33%, the lowest of his current term, with 64% disapproving. The four-day survey also found a large majority of Americans said they fear a prolonged U.S.-Iran war. The 33% reading is down from 35% in an earlier poll this month and matches his previous term low in December 2017.
-
----
-
-### 2026-08-18 03:41:42  #MKT News
-
-【Trump criticizes Lee Jae‑myung after South Korea declines participation in Iran action】Former President Trump told South Korean media he is frustrated Seoul refused to participate in a U.S. operation related to Iran and raised issues of defense cost-sharing. He said South Korea agreed during his first term to pay about $3 billion annually for U.S. protection; he sought $10 billion, and the short‑term deal was $3 billion with planned increases in subsequent years. Trump said President Biden later withdrew the $3 billion “for reasons I don’t know.” In a recent call with South Korean president Lee Jae‑myung, Trump said he asked if Seoul would “help a little” on Iran; Lee declined. Trump noted roughly 39,000 U.S. troops are deployed in South Korea and called Seoul’s refusal to assist in what he described as a “very easy” military action “strange.”
-
----
-
-### 2026-08-18 03:40:18  #MKT News #Important #Market Themes #AI Revolution
-
-Market sources say Anthropic's annualized revenue exceeded $65 bln ahead of its IPO.
-
----
-
-### 2026-08-18 03:38:25  #MKT News
-
-Insiders said some North American auto industry officials view any of the options as an improvement on the current 25% U.S. tariff on Canadian auto imports, noting Japan, South Korea and the EU apply 15% car tariffs.
 
 ---

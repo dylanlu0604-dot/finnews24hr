@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 03:38:11_
-_本檔包含 3101 則快訊，約 622083 字_
+_更新時間：2026-08-25 03:50:07_
+_本檔包含 3101 則快訊，約 622011 字_
+
+---
+
+### 2026-08-20 08:55:08  #經濟數據 #中國
+
+【商務部消費促進司負責人談2026年7月我國消費市場情況】今年以來，我國消費市場保持向新向優發展態勢，市場規模穩步擴大、發展質量不斷提升。1-7月，社會消費商品和服務零售總額同比（下同）增長2.6%；社會消費品零售總額28.77萬億元，增長1.2%，其中除汽車以外的消費品零售額增長2.7%。
+
+---
+
+### 2026-08-20 08:55:02  #MKT News #Commodities #Energy #USO #Impact bullish #BNO
+
+【Crude ETF holdings report launches; USO and BNO exposures rise】Aug 19 — WTI (USO) notional exposure was about 24.277 mln barrels, up 157,000 barrels on the day. Brent (BNO) futures holdings were about 7.819 mln barrels, up 126,000 barrels on the day.
+
+---
+
+### 2026-08-20 08:54:36  #公司
+
+【獨家丨前理想總裁創辦企業棲息地再獲7億元融資，常州新北區科創基金領投】新浪科技獨家獲悉，智慧住宅企業棲息地已完成A輪融資，本輪融資資金規模7億元人民幣，由常州新北區科創基金領投。公開資料顯示，棲息地品牌由前理想汽車聯合創始人、總裁沈亞楠創立，定位生活智慧科技公司。據知情人士透露，目前，棲息地已在北京、上海、杭州、深圳、廣州、成都、武漢七城建立直營網路，年度簽約規模超10億元。（新浪科技）
+
+---
+
+### 2026-08-20 08:54:23  #國際
+
+【國家發展改革委副主任周海兵會見智利外交部長佩雷斯】據國家發展改革委訊息，8月19日下午，國家發展改革委副主任周海兵在委內會見智利外交部長佩雷斯，雙方就推進中智雙邊關係、拓展中智務實合作等議題進行了交流。周海兵表示，中智在綠色發展、高科技等領域合作前景廣闊。中方願與智方共同謀劃好務實合作，為兩國發展提供更多助力，推動兩國重點領域合作邁上新臺階。佩雷斯表示，中國是智利的重要合作伙伴，智方願同中方加強對話溝通，深化相關領域合作，實現互利共贏、共同發展。
+
+---
+
+### 2026-08-20 08:54:23  #MKT News
+
+【MOFCOM Department of Consumption Promotion on China's July 2026 consumer market】Jan–Jul 2026, China’s total retail sales of consumer goods and services rose 2.6% YoY. Retail sales of consumer goods totaled 28.77 trillion yuan, up 1.2%; retail sales excluding autos rose 2.7%.
+
+---
+
+### 2026-08-20 08:53:27  #公司
+
+【蔚藍鋰芯：無法核實公司是否為宇樹科技獨家供應商】有投資者在互動平臺向蔚藍鋰芯(002245)提問：蔚藍鋰芯作為宇樹科技機器人電芯獨家供應商，迎來了全新的戰略發展機遇。目前公司機器人電芯產能能否滿足宇樹機器人的擴產需求？另外，目前人形機器人鋰電池續航時間普遍只有兩三個小時，成為制約人形機器人大規模普及運用的一大痛點，蔚藍鋰芯在這方面有無技術突破？對此，蔚藍鋰芯回覆：“我們無法核實公司是否為該客戶的獨家供應商。公司與該客戶之間的交易正常進行，公司產品符合該客戶的技術要求。”
 
 ---
 
@@ -18663,41 +18699,5 @@ China A-share CPO sector opened sharply lower; Tianyang New Materials hit the da
 ### 2026-08-19 09:28:07  #MKT News #Important #Market Regions #Greater China #02208.HK #Impact bullish
 
 Goldwind A-shares hit the daily limit; H-shares (02208.HK) opened up 6.68% after reports that Landspace's Zhuque-3 achieved a successful land recovery. Goldwind holds a stake in Landspace.
-
----
-
-### 2026-08-19 09:28:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-At the open on Aug 19 (Wednesday), China's CSI 300 Index fell 65.76 points (-1.39 pct) to 4,660.06; Shanghai Composite Index dropped 38.18 points (-0.96 pct) to 3,952.12; Shenzhen Composite Index slid 305.52 points (-2.09 pct) to 14,316.98; ChiNext Index declined 100.05 points (-2.70 pct) to 3,605.52; STAR 50 Index fell 51.96 points (-2.90 pct) to 1,738.91.
-
----
-
-### 2026-08-19 09:27:50  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #CSI300 #CNH
-
-Commercial aerospace-themed ETFs opened higher; satellite ETFs from E Fund and GF Fund rose more than 3%, while Penghua and Fullgoal satellite ETFs climbed over 2%. The moves followed news China reported a major breakthrough in reusable-rocket technology as Zhuque-3 became the first Chinese orbital launch vehicle to reach orbit and be recovered on land.
-
----
-
-### 2026-08-19 09:27:46  #市場
-
-商業航天主題ETF高開，衛星ETF易方達、衛星ETF廣發雙雙漲超3%，衛星ETF鵬華、衛星ETF富國漲超2%。訊息面上，我國在重複使用火箭關鍵技術上取得重大突破，朱雀三號成為我國首款成功入軌並實現陸地回收的運載火箭。
-
----
-
-### 2026-08-19 09:27:39  #市場
-
-【CPO板塊大幅低開，天洋新材跌停】CPO板塊大幅低開，天洋新材跌停，富信科技、強達電路、中石科技、天孚通訊紛紛低開。
-
----
-
-### 2026-08-19 09:27:14  #MKT News
-
-【President Trump's Wednesday schedule】Beijing time Aug 19 20:00 — White House: handle executive business; 23:00 — Oval Office: policy meeting; Beijing time Aug 20 00:30 — Oval Office: policy meeting; 02:30 — Roosevelt Room: remarks to tech industry leaders; 04:00 — Oval Office: policy meeting.
-
----
-
-### 2026-08-19 09:27:10  #公司 #國際
-
-【歐委會批准賓士、寶馬、賽力斯共同控股超充合資公司逸安啟】歐盟中國商會訊息，據歐委會網站，8月13日，歐委會宣佈根據歐盟併購法規，正式批准梅賽德斯-賓士中國集團、華晨寶馬和賽力斯集團共同控股北京逸安啟新能源科技有限公司（逸安啟）。今年4月，寶馬與梅賽德斯-賓士在中國合資設立的超充公司逸安啟宣佈股權擴容：賽力斯集團以對等持股方式成為新投資方，旗下品牌問界正式加入。交易完成後，寶馬、梅賽德斯-賓士、賽力斯三方各持33.3%股份，共同推進國內超充網路建設與運營。
 
 ---

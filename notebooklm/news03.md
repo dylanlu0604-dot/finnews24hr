@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 03:38:11_
-_本檔包含 3267 則快訊，約 622046 字_
+_更新時間：2026-08-25 03:50:07_
+_本檔包含 3265 則快訊，約 621996 字_
+
+---
+
+### 2026-08-21 07:57:59  #其他
+
+李寧上半年淨利潤18.2億元人民幣，上年同期淨利潤為17.4億元人民幣。
+
+---
+
+### 2026-08-21 07:57:52  #其他
+
+李寧：上半年營收152.35億元人民幣，上年同期為148.2億元人民幣。
+
+---
+
+### 2026-08-21 07:56:13  #MKT News #005930.KS #Impact bullish
+
+【Samsung to unveil shareholder return plan potentially up to 110 trillion won ($79bn)】People familiar with the matter said Samsung Electronics will announce on Friday a shareholder return plan that could reach 110 trillion won (about $79 billion). The board is scheduled to meet after the KOSPI close at around 4:00 p.m. local time, with details expected shortly after. The plan’s size is said to be likely between 90 trillion and 110 trillion won.
+
+---
+
+### 2026-08-21 07:54:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【Japan core inflation accelerates for second month, reinforces BOJ near-term rate-hike bets】Japan's key inflation gauges accelerated for a second month, boosting expectations the Bank of Japan may tighten policy soon. July core CPI rose 1.8% YoY, up from 1.6% in June and in line with economists' median. The BOJ's preferred core-core measure (ex fresh food and energy) rose 1.9% YoY; headline CPI also climbed 1.9%. Energy prices contributed to the pickup, with July energy up 0.6% YoY after a small decline in June. Governor UEDA has signaled policymakers could speed up normalization; with yen weakness adding upside inflation risk, markets have increased bets on BOJ action as soon as September despite a rare US-Japan coordinated FX intervention at end-July.
 
 ---
 
@@ -19705,41 +19729,5 @@ Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic bu
 ### 2026-08-20 08:55:51  #宏觀 #市場 #央行 #國際
 
 【中信期貨：紀要鷹派不及預期疊加長端利率快速回落，黃金重新獲得政策與實際利率共振支撐】FOMC會議紀要確認，美聯儲內部確有明顯鷹派聲音，但支援7月直接加息的僅為“數名”委員，距離多數仍有較大差距，弱於此前市場對鷹派廣泛擴散的預期。與此同時，“許多”委員仍擔憂持續高通脹可能影響通脹預期和工資定價，說明進一步加息並未完全退出政策選項。 更重要的變化來自長端利率。美國財政部意外宣佈至少翻倍10—30年期國債流動性回購規模，長期美債收益率隨即快速下降，美元同步走弱。黃金因此一度上漲近4%，突破4500美元關口。當前市場交易的核心已經從單純判斷美聯儲是否加息，轉向美國政策是否透過干預債券市場壓低實際融資成本。 地緣風險則進一步強化這一結構。美伊談判前景惡化使油價和通脹風險仍處高位，但財政部對長端債券市場的支援階段性削弱了“油價上漲—長端收益率上升”的傳導。黃金因此同時獲得低利率、弱美元以及地緣和政策不確定性溢價支撐。（中信期貨）
-
----
-
-### 2026-08-20 08:55:08  #經濟數據 #中國
-
-【商務部消費促進司負責人談2026年7月我國消費市場情況】今年以來，我國消費市場保持向新向優發展態勢，市場規模穩步擴大、發展質量不斷提升。1-7月，社會消費商品和服務零售總額同比（下同）增長2.6%；社會消費品零售總額28.77萬億元，增長1.2%，其中除汽車以外的消費品零售額增長2.7%。
-
----
-
-### 2026-08-20 08:55:02  #MKT News #Commodities #Energy #USO #Impact bullish #BNO
-
-【Crude ETF holdings report launches; USO and BNO exposures rise】Aug 19 — WTI (USO) notional exposure was about 24.277 mln barrels, up 157,000 barrels on the day. Brent (BNO) futures holdings were about 7.819 mln barrels, up 126,000 barrels on the day.
-
----
-
-### 2026-08-20 08:54:36  #公司
-
-【獨家丨前理想總裁創辦企業棲息地再獲7億元融資，常州新北區科創基金領投】新浪科技獨家獲悉，智慧住宅企業棲息地已完成A輪融資，本輪融資資金規模7億元人民幣，由常州新北區科創基金領投。公開資料顯示，棲息地品牌由前理想汽車聯合創始人、總裁沈亞楠創立，定位生活智慧科技公司。據知情人士透露，目前，棲息地已在北京、上海、杭州、深圳、廣州、成都、武漢七城建立直營網路，年度簽約規模超10億元。（新浪科技）
-
----
-
-### 2026-08-20 08:54:23  #國際
-
-【國家發展改革委副主任周海兵會見智利外交部長佩雷斯】據國家發展改革委訊息，8月19日下午，國家發展改革委副主任周海兵在委內會見智利外交部長佩雷斯，雙方就推進中智雙邊關係、拓展中智務實合作等議題進行了交流。周海兵表示，中智在綠色發展、高科技等領域合作前景廣闊。中方願與智方共同謀劃好務實合作，為兩國發展提供更多助力，推動兩國重點領域合作邁上新臺階。佩雷斯表示，中國是智利的重要合作伙伴，智方願同中方加強對話溝通，深化相關領域合作，實現互利共贏、共同發展。
-
----
-
-### 2026-08-20 08:54:23  #MKT News
-
-【MOFCOM Department of Consumption Promotion on China's July 2026 consumer market】Jan–Jul 2026, China’s total retail sales of consumer goods and services rose 2.6% YoY. Retail sales of consumer goods totaled 28.77 trillion yuan, up 1.2%; retail sales excluding autos rose 2.7%.
-
----
-
-### 2026-08-20 08:53:27  #公司
-
-【蔚藍鋰芯：無法核實公司是否為宇樹科技獨家供應商】有投資者在互動平臺向蔚藍鋰芯(002245)提問：蔚藍鋰芯作為宇樹科技機器人電芯獨家供應商，迎來了全新的戰略發展機遇。目前公司機器人電芯產能能否滿足宇樹機器人的擴產需求？另外，目前人形機器人鋰電池續航時間普遍只有兩三個小時，成為制約人形機器人大規模普及運用的一大痛點，蔚藍鋰芯在這方面有無技術突破？對此，蔚藍鋰芯回覆：“我們無法核實公司是否為該客戶的獨家供應商。公司與該客戶之間的交易正常進行，公司產品符合該客戶的技術要求。”
 
 ---

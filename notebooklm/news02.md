@@ -1,7 +1,51 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-25 03:38:11_
-_本檔包含 2905 則快訊，約 622160 字_
+_更新時間：2026-08-25 03:50:07_
+_本檔包含 2908 則快訊，約 622282 字_
+
+---
+
+### 2026-08-22 09:06:18  #國際
+
+美國郵政總局釋出最終規定，收緊11月大選郵寄投票要求，儘管法院命令阻止其生效。
+
+---
+
+### 2026-08-22 09:05:13  #國際
+
+【保隆科技泰國工廠開園，年規劃產能1.5億支氣門嘴】8月21日，保隆科技泰國Topseal Thailand生產園區舉行開園儀式。該園區坐落於泰國北柳府邦巴功縣塔坎鎮溫科斯特工業園，專注生產汽車橡膠氣門嘴與金屬氣門嘴，年規劃產能1.5億支氣門嘴。
+
+---
+
+### 2026-08-22 09:05:09  #市場 #觀點
+
+【基金經理注重投資價效比】在受訪人士看來，海外AI敘事承壓，投資者正在為AI鉅額資本開支背後的債務融資風險重新定價，導致市場維持震盪行情。當前正值上市公司半年報密集披露期，高估值板塊面臨業績檢驗，導致資金轉向價效比更高的方向，佈局新的投資機會。記者注意到，8月以來，易方達基金、中銀基金、鵬華基金等70餘家公募機構持續申報新產品，科創板晶片設計、中證人工智慧主題、創業板算力基礎設施等細分賽道成為重要的佈局方向。（中國基金報）
+
+---
+
+### 2026-08-22 09:04:35  #其他
+
+【“小而美”ETF規模增長翻倍】在1200餘隻股票ETF中，有近四成股票ETF規模在8月份實現正增長。相較於“大塊頭”ETF基金，“小而美”賽道ETF基金獲得資金持續流入。截至8月20日，科創晶片設計ETF易方達的基金份額、基金規模雙雙大增，分別達到8.41億份、9.47億元，較7月末的基金份額與基金規模，均實現翻倍增長。（中國基金報）
+
+---
+
+### 2026-08-22 09:03:48  #市場
+
+資料顯示，過去24小時加密貨幣市場共有超19萬人被爆倉，全網合約爆倉15.75億美元，其中多單爆倉3.1億美元，空單爆倉12.7億美元。
+
+---
+
+### 2026-08-22 09:01:46  #行業 #公司
+
+【洋河夢之藍M6+、古井貢古20零售價大漲 青花郎大跌】新浪財經“酒價內參”過去24小時收集的資料顯示，8月22日中國白酒業11大單品六漲五跌，盤面延續分化態勢。上漲方面，洋河夢之藍M6+上漲7元，終端零售均價來到618元，連日走強，平月內最高價紀錄；古井貢古20大漲7元至548元，二連漲創近一個月新高；五糧液1618小漲1元至826元，價格小幅抬升延續區間震盪；青花汾20漲3元至397元，二連陽再度叩關400元；國窖1573上漲5元至881元，結束四連陰價盤明顯修復；水晶劍南春上漲1元至406元，區間小幅抬升且平月最高紀錄。下跌方面，飛天茅臺下跌2元至1783元，持續技術性回落；精品茅臺跌4元至2470元，延續小幅走低弱勢；五糧液普五八代下跌5元至803元，二連漲走勢告終；習酒君品小跌1元至635元，三連陰持續區間休整；青花郎大跌10元至692元，急速跌破700元關口，後市動向值得關注。
+
+今日11大單品的終端零售總價止跌回升，次高階板塊成為主要拉動力量，頭部名酒延續小幅回撥，漲跌互現格局延續。如果11大單品各取一瓶整體打包售賣，今日總售價為10059元，較昨日小幅上漲2元，結束此前連續多日下行態勢。
+
+---
+
+### 2026-08-22 08:59:16  #其他
+
+【第二十六屆中國國際投資貿易洽談會組委會第二次工作會議在廈門召開】8月20日，第二十六屆中國國際投資貿易洽談會（以下簡稱投洽會）組委會第二次工作會議在福建省廈門市召開。商務部副部長兼國際貿易談判副代表凌激、福建省副省長趙增連出席會議並講話。投洽會籌備工作組相關部門、各成員單位代表分別彙報籌備工作進展。會議要求，要緊密圍繞“擴大雙向投資 共促全球發展”永久主題，深化投洽會“投資中國”標誌性展會和全球投資合作公共平臺的功能定位，進一步統籌活動安排、強化協同配合、加強專案對接、細化組織保障、做好新聞宣傳、提升活動質效，確保第二十六屆投洽會辦出新氣象、新水平。（商務部）
 
 ---
 
@@ -17488,29 +17532,5 @@ Japan's Nikkei 225 opened down 639.56 points, or 0.97%, at 65,577.23 on Friday, 
 ### 2026-08-21 07:58:11  #公司
 
 【萊寶高科：回覆定增稽核問詢函並更新申請檔案】萊寶高科公告稱，公司收到深交所出具的2026年度向特定物件發行A股股票的稽核問詢函後，已會同相關中介機構對問詢函所列問題逐項回覆說明，並對募集說明書等申請檔案進行補充更新，相關內容詳見同日登載於巨潮資訊網的公告。本次定增事項已經公司董事會及股東會審議透過，尚需透過深交所稽核並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。
-
----
-
-### 2026-08-21 07:57:59  #其他
-
-李寧上半年淨利潤18.2億元人民幣，上年同期淨利潤為17.4億元人民幣。
-
----
-
-### 2026-08-21 07:57:52  #其他
-
-李寧：上半年營收152.35億元人民幣，上年同期為148.2億元人民幣。
-
----
-
-### 2026-08-21 07:56:13  #MKT News #005930.KS #Impact bullish
-
-【Samsung to unveil shareholder return plan potentially up to 110 trillion won ($79bn)】People familiar with the matter said Samsung Electronics will announce on Friday a shareholder return plan that could reach 110 trillion won (about $79 billion). The board is scheduled to meet after the KOSPI close at around 4:00 p.m. local time, with details expected shortly after. The plan’s size is said to be likely between 90 trillion and 110 trillion won.
-
----
-
-### 2026-08-21 07:54:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-【Japan core inflation accelerates for second month, reinforces BOJ near-term rate-hike bets】Japan's key inflation gauges accelerated for a second month, boosting expectations the Bank of Japan may tighten policy soon. July core CPI rose 1.8% YoY, up from 1.6% in June and in line with economists' median. The BOJ's preferred core-core measure (ex fresh food and energy) rose 1.9% YoY; headline CPI also climbed 1.9%. Energy prices contributed to the pickup, with July energy up 0.6% YoY after a small decline in June. Governor UEDA has signaled policymakers could speed up normalization; with yen weakness adding upside inflation risk, markets have increased bets on BOJ action as soon as September despite a rare US-Japan coordinated FX intervention at end-July.
 
 ---

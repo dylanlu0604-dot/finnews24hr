@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-25 03:38:11_
-_本檔包含 3499 則快訊，約 622215 字_
+_更新時間：2026-08-25 03:50:07_
+_本檔包含 3496 則快訊，約 622135 字_
+
+---
+
+### 2026-08-25 03:45:59  #MKT News #Market Themes #Crypto Concepts
+
+【US Treasury forms Quantum Security Readiness Working Group to accelerate finance's transition to post-quantum cryptography】The US Treasury announced the formation of a Quantum Security Readiness Working Group to lead the financial industry's migration to post-quantum cryptography and strengthen protection of sensitive data, critical infrastructure and the digital economy. Treasury Secretary Bessent said the US must lead on technical security; the group will coordinate government agencies, financial firms and technology vendors and focus on three priorities: driving post-quantum crypto migration across finance, improving third-party supply‑chain security readiness, and assessing risks from digital assets and other emerging technologies. The Treasury warned that matured quantum computing could break current encryption, exposing financial data, payment systems, digital identities and market infrastructure, and said early deployment of post-quantum cryptography is essential to economic security and financial system resilience.
+
+---
+
+### 2026-08-25 03:39:34  #國際
+
+以色列總理內塔尼亞胡稱，伊朗曾企圖暗殺他兩個兒子中的一人，但並未指明遭針對的是哪個兒子，也沒有提供這起所謂陰謀的相關細節。
+
+---
+
+### 2026-08-25 03:38:55  #其他
+
+法國將於下月推進實施高中手機禁令。
+
+---
+
+### 2026-08-25 03:37:53  #MKT News
+
+Iran's economy minister told Fars News that the recent depreciation of the rial reflects heightened tensions in the media environment and that authorities are working to normalize the foreign-exchange market.
 
 ---
 
@@ -21061,49 +21085,5 @@ Crypto Updates: Ether Drops by 3.53% — Top crypto losers are Ether (-3.53%) an
 ### 2026-08-22 09:11:15  #其他
 
 澳大利亞總理阿爾巴尼斯表示，首都將加入槍支回購計劃以應對邦迪海灘襲擊事件。
-
----
-
-### 2026-08-22 09:06:18  #國際
-
-美國郵政總局釋出最終規定，收緊11月大選郵寄投票要求，儘管法院命令阻止其生效。
-
----
-
-### 2026-08-22 09:05:13  #國際
-
-【保隆科技泰國工廠開園，年規劃產能1.5億支氣門嘴】8月21日，保隆科技泰國Topseal Thailand生產園區舉行開園儀式。該園區坐落於泰國北柳府邦巴功縣塔坎鎮溫科斯特工業園，專注生產汽車橡膠氣門嘴與金屬氣門嘴，年規劃產能1.5億支氣門嘴。
-
----
-
-### 2026-08-22 09:05:09  #市場 #觀點
-
-【基金經理注重投資價效比】在受訪人士看來，海外AI敘事承壓，投資者正在為AI鉅額資本開支背後的債務融資風險重新定價，導致市場維持震盪行情。當前正值上市公司半年報密集披露期，高估值板塊面臨業績檢驗，導致資金轉向價效比更高的方向，佈局新的投資機會。記者注意到，8月以來，易方達基金、中銀基金、鵬華基金等70餘家公募機構持續申報新產品，科創板晶片設計、中證人工智慧主題、創業板算力基礎設施等細分賽道成為重要的佈局方向。（中國基金報）
-
----
-
-### 2026-08-22 09:04:35  #其他
-
-【“小而美”ETF規模增長翻倍】在1200餘隻股票ETF中，有近四成股票ETF規模在8月份實現正增長。相較於“大塊頭”ETF基金，“小而美”賽道ETF基金獲得資金持續流入。截至8月20日，科創晶片設計ETF易方達的基金份額、基金規模雙雙大增，分別達到8.41億份、9.47億元，較7月末的基金份額與基金規模，均實現翻倍增長。（中國基金報）
-
----
-
-### 2026-08-22 09:03:48  #市場
-
-資料顯示，過去24小時加密貨幣市場共有超19萬人被爆倉，全網合約爆倉15.75億美元，其中多單爆倉3.1億美元，空單爆倉12.7億美元。
-
----
-
-### 2026-08-22 09:01:46  #行業 #公司
-
-【洋河夢之藍M6+、古井貢古20零售價大漲 青花郎大跌】新浪財經“酒價內參”過去24小時收集的資料顯示，8月22日中國白酒業11大單品六漲五跌，盤面延續分化態勢。上漲方面，洋河夢之藍M6+上漲7元，終端零售均價來到618元，連日走強，平月內最高價紀錄；古井貢古20大漲7元至548元，二連漲創近一個月新高；五糧液1618小漲1元至826元，價格小幅抬升延續區間震盪；青花汾20漲3元至397元，二連陽再度叩關400元；國窖1573上漲5元至881元，結束四連陰價盤明顯修復；水晶劍南春上漲1元至406元，區間小幅抬升且平月最高紀錄。下跌方面，飛天茅臺下跌2元至1783元，持續技術性回落；精品茅臺跌4元至2470元，延續小幅走低弱勢；五糧液普五八代下跌5元至803元，二連漲走勢告終；習酒君品小跌1元至635元，三連陰持續區間休整；青花郎大跌10元至692元，急速跌破700元關口，後市動向值得關注。
-
-今日11大單品的終端零售總價止跌回升，次高階板塊成為主要拉動力量，頭部名酒延續小幅回撥，漲跌互現格局延續。如果11大單品各取一瓶整體打包售賣，今日總售價為10059元，較昨日小幅上漲2元，結束此前連續多日下行態勢。
-
----
-
-### 2026-08-22 08:59:16  #其他
-
-【第二十六屆中國國際投資貿易洽談會組委會第二次工作會議在廈門召開】8月20日，第二十六屆中國國際投資貿易洽談會（以下簡稱投洽會）組委會第二次工作會議在福建省廈門市召開。商務部副部長兼國際貿易談判副代表凌激、福建省副省長趙增連出席會議並講話。投洽會籌備工作組相關部門、各成員單位代表分別彙報籌備工作進展。會議要求，要緊密圍繞“擴大雙向投資 共促全球發展”永久主題，深化投洽會“投資中國”標誌性展會和全球投資合作公共平臺的功能定位，進一步統籌活動安排、強化協同配合、加強專案對接、細化組織保障、做好新聞宣傳、提升活動質效，確保第二十六屆投洽會辦出新氣象、新水平。（商務部）
 
 ---
