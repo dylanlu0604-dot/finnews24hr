@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-24 12:09:49",
+  "updated": "2026-08-24 12:14:29",
   "count": 15718,
   "items": [
+    {
+      "id": "5054494",
+      "time": "2026-08-24 12:12:39",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "泰國財政部長：將考慮對黃金貿易及黃金進口徵稅。"
+    },
+    {
+      "id": "te:markets:577466",
+      "time": "2026-08-24 12:11:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Holds Firm — European natural gas prices remained near multi-year highs, hovering around €65.8/MWh on Monday, as investors awaited details of a US plan to economically isolate Iran that could further disrupt energy supplies from the Middle East. Treasury Secretary Bessent is scheduled to hold a press conference later today and has threatened to impose “the toughest sanctions in history” on Iran. This follows President Trump’s threat last week to impose sanctions on countries that continue trading with Tehran. Iran, however, dismissed the threats as a sign of desperation, saying the new sanctions would fail to defeat Tehran. For Europe, concerns over gas inventories are becoming increasingly pressing, as ongoing tensions between the two sides have kept the Strait of Hormuz largely closed, delaying Qatari LNG deliveries to Europe. This, combined with heatwave-driven cooling demand, has slowed the pace of inventory replenishment, leaving European storage levels under greater pressure ahead of winter."
+    },
+    {
+      "id": "5054493",
+      "time": "2026-08-24 12:11:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉裡建設上半年淨利潤7.35億港元。"
+    },
+    {
+      "id": "5054492",
+      "time": "2026-08-24 12:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐西蘭擬立法禁止未滿16歲青少年使用社交媒體】當地時間24日，紐西蘭總理拉克森在一份宣告中表示，紐西蘭政府將於當天在議會提交法案，禁止16歲以下青少年使用社交媒體。據悉，該法案將要求社交媒體平臺採取合理措施核實使用者年齡，包括利用現有賬戶資訊、面部識別技術及數字身份證件等進行認證。此外，法案還提議對違規平臺處以最高達其全球營收10%的罰款。拉克森表示：“社交媒體正使紐西蘭兒童接觸到有害內容、成癮性技術以及各種他們無力應對的壓力，這正在嚴重影響他們的家庭生活、心理健康、睡眠及學業。”目前，社交媒體對未成年人的傷害已經在全球範圍內引起警覺，禁止低齡人群使用社交媒體的監管風暴正在迅速成形。去年12月，澳大利亞成為第一個禁止16歲以下青少年使用社交媒體的國家。此後，多國政府紛紛加入。馬來西亞、土耳其、希臘等國均已制定相關法規或提出同類議案等待議會表決。（央視新聞）"
+    },
     {
       "id": "5054491",
       "time": "2026-08-24 12:08:15",
@@ -143316,48 +143353,6 @@
         "觀點"
       ],
       "text": "【AI影片生成平臺Higgsfield 從高盛、英特爾等機構融資4億美元 估值達54億美元】據英國《金融時報》報道，人工智慧影片生成平臺 Higgsfield 已從包括 DST Global、高盛、Liberty Global 和英特爾在內的投資者處籌集資金。 公司估值較八個月前創下的13億美元高出四倍以上，當時融資8000萬美元。 今年8月，其年化收入達到7億美元，而一年前僅為2000萬美元。 其他投資方還包括 Tribe Capital、Smash Capital、Fifth Wall 和 NTT DOCOMO Ventures。"
-    },
-    {
-      "id": "5043452",
-      "time": "2026-08-17 12:13:55",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【高盛：市場對美聯儲加息押注過於鷹派】高盛集團表示，鑑於全球最大經濟體的通脹正在回落，市場押注美聯儲加息的預期依舊過於激進。該行首席經濟學家揚・哈祖斯（Jan Hatzius ）在一份客戶研報中寫道，受零售銷售資料走弱、就業資料不及預期以及通脹放緩等因素影響，美聯儲 9 月議息會議加息已變得 “可能性極低”。哈祖斯在週日釋出的研報中表示：“按照我們的基準經濟預測，隨著時間推移，通脹資料進一步改善的機率要高於再度惡化。我們仍然認為市場對聯邦基金利率的定價過於鷹派。”資料顯示，交易員已將美聯儲下一次 25 個基點加息的預期推遲至 1 月份，而一週前市場還完全定價 12 月將會加息。高盛稱，雖然市場定價的鷹派傾向已經有所弱化，但預期回撥仍有空間。"
-    },
-    {
-      "id": "mkt:01a00deb-0154-7aab-9055-ffe10639cb19",
-      "time": "2026-08-17 12:11:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "EUR/USD broke above 1.1585, its highest level since June 17."
-    },
-    {
-      "id": "5043451",
-      "time": "2026-08-17 12:11:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元兌美元升至1.15853美元上方，為6月17日以來最高。"
-    },
-    {
-      "id": "5043450",
-      "time": "2026-08-17 12:10:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【VinFast 與 Gowa Motor 簽署諒解備忘錄 佈局印尼電動汽車經銷合資專案】據企業公告，Vingroup 集團旗下 VinFast 與 Gowa 汽車集團簽署諒解備忘錄，擬成立合資企業，在印尼全國搭建電動汽車經銷網路。該合資企業目標是在印尼建成至少 30 家展廳及服務中心。簽署協議的代表包括 VinFast 東南亞區執行長安東尼奧・扎拉、Gowa 汽車集團專員薩迪金・阿克薩。"
     }
   ]
 }
