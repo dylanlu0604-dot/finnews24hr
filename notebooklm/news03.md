@@ -1,7 +1,135 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 06:38:12_
-_本檔包含 3229 則快訊，約 623182 字_
+_更新時間：2026-08-25 06:58:16_
+_本檔包含 3239 則快訊，約 623228 字_
+
+---
+
+### 2026-08-21 09:07:38  #A股
+
+【A股停牌提示：7股今日停牌】Wind資料顯示，8月21日，藍盾光電、瓦軸B、湖南黃金等7只個股停牌。
+
+---
+
+### 2026-08-21 09:07:24  #公司
+
+國盛證券有限責任公司將中信泰富特鋼集團股份有限公司評級下調至增持。
+
+---
+
+### 2026-08-21 09:06:35  #市場 #國際
+
+日本30年期國債收益率上升5.5個基點至4.06%.
+
+---
+
+### 2026-08-21 09:06:17  #市場
+
+【華泰期貨：黃金現階段定價模式更偏向於對於其非美資產的屬性進行重新定價】儘管地緣上美伊局勢出現惡化趨勢，但黃金現階段定價模式更偏向於對於其非美資產的屬性進行重新定價，對於黃金投資的需求或略有增強。當下白銀與黃金邏輯類似，滬銀本身價格預計同樣維持震盪偏強格局。（華泰期貨）
+
+---
+
+### 2026-08-21 09:06:16  #國際
+
+【挪威外交部：美關稅政策持續製造不確定性】挪威外交部20日發表宣告，強烈反對美國單方面向挪威商品徵收新關稅，認為美方關稅政策在持續製造新的不確定性。根據宣告，挪威外交部國務秘書克拉維克19日在美國首都華盛頓會見美國副貿易代表戈特曼，雙方討論了美國對挪威商品的關稅、挪美貿易談判等議題。挪威外交大臣艾德在宣告中說，挪方強烈反對美國單方面關稅措施。對於挪美達成貿易協議的可能性，艾德表示，相關協議必須符合挪威利益，挪方不會“不惜任何代價”達成協議。即便一些國家已經與美國達成貿易協議，但美方關稅政策仍在製造新的不確定性。（新華社）
+
+---
+
+### 2026-08-21 09:05:49  #MKT News
+
+Korea Exchange activated the sidecar mechanism on the KOSDAQ.
+
+---
+
+### 2026-08-21 09:05:36  #市場 #焦點 #國際
+
+韓國交易所啟動韓國創業板指（KOSDAQ） 的側車機制。
+
+---
+
+### 2026-08-21 09:03:58  #宏觀 #市場 #觀點 #央行 #國際
+
+【中金財富期貨：多重因素助攻黃金走強】多重因素助攻黃金走強，包括：美國財政部宣佈將10至30年期國債回購規模翻倍，預計將壓低收益率並引發金融壓制擔憂；美聯儲加息預期持續降溫；以及中期選舉臨近帶來的政治不確定性。目前黃金作為配置資產的地位再度迴歸，我們從4000美元以下位置開始推薦黃金的反彈機會，目前這一觀點不變。（中金財富期貨）
+
+---
+
+### 2026-08-21 09:03:51  #公司
+
+【濮耐股份成立國際貿易公司 含工業機器人銷售業務】企查查APP顯示，近日，濮陽濮耐國際貿易有限公司成立，經營範圍包含：工業自動控制系統裝置銷售；工業機器人銷售；智慧輸配電及控制裝置銷售；塗裝裝置銷售等。企查查股權穿透顯示，該公司由濮耐股份全資持股。
+
+---
+
+### 2026-08-21 09:03:25  #觀點 #國際
+
+【分析人士：美國對伊朗“經濟戰”推行有難度】針對美方宣佈的對伊朗“經濟戰和經濟孤立”，以及阿聯酋宣佈暫停與伊朗的一切貿易、商業往來和金融交易，美國輿論分析稱，美國政府因美伊局勢陷入僵局而轉變策略，試圖以經濟施壓方式迫使伊朗屈服。然而，在實際操作中，徹底切斷阿聯酋與伊朗的金融和貿易往來難度不小。
+
+多名知情人士稱，美國政府數週來一直“勸誘”阿聯酋打擊該國境內執行的伊朗金融網路，聲稱與美國海軍封鎖伊朗港口相比，阿聯酋遏制伊朗伊斯蘭革命衛隊的現金流動對伊朗影響更大。分析人士認為，阿聯酋政府即便關閉官方金融渠道和主要港口交通，也無法監管7個酋長國“每個當地合作伙伴、每個自由貿易區或每條小型船隻的移動”。同時知情人士稱，阿聯酋決策層擔憂，美方用經濟手段向伊朗施壓的策略可能傷害那些依賴旅遊業和貿易的海灣國家經濟，甚至可能招致伊朗進一步軍事打擊。（央視新聞）
+
+---
+
+### 2026-08-21 09:03:05  #國際
+
+【今年第18號颱風“沙德爾”繼續向北偏西方向移動，強度逐漸增強】中國氣象局訊息，今年第18號颱風“沙德爾”（熱帶風暴級）的中心今天（8月21日）早晨5點鐘位於美國關島阿加尼亞偏東方向約515公里的西北太平洋洋麵上，就是北緯14.0度，東經149.5度，中心附近最大風力有9級（23米/秒），中心最低氣壓為990百帕，七級風圈半徑150-280公里。預計，“沙德爾”將以每小時10-15公里的速度向北偏西方向移動，強度逐漸增強，趨向琉球群島以東洋麵，25日夜間之前對我國海域無影響。
+
+---
+
+### 2026-08-21 09:03:00  #國際
+
+【外交部部長助理蔡偉會見加勒比國家聯盟秘書長埃斯皮諾薩】2026年8月20日，外交部部長助理蔡偉會見來華訪問的加勒比國家聯盟秘書長埃斯皮諾薩。
+
+---
+
+### 2026-08-21 09:02:41  #國際
+
+蓋洛普：韓國總統李在明支援率由 44% 升至 45%。
+
+---
+
+### 2026-08-21 09:02:03  #市場 #焦點
+
+白銀連續主力合約日內漲3%，現報16596.00元。
+
+---
+
+### 2026-08-21 09:01:34  #市場
+
+新加坡海峽時報指數開盤下跌0.4%，至5646.56點。
+
+---
+
+### 2026-08-21 09:01:17  #市場 #國際
+
+馬來西亞吉隆坡綜合指數開盤變化不大，報1736.08點。
+
+---
+
+### 2026-08-21 09:01:11  #MKT News #Market Regions #Greater China
+
+Taiwan Stock Exchange weighted index opened down 34.46 points, or 0.08%, at 44,899.28 on Friday, Aug. 21.
+
+---
+
+### 2026-08-21 09:01:10
+
+國內期貨主力合約漲跌不一，滬銀漲近3％，紙漿、燃料油、液化石油氣（LPG）、瀝青漲近2％，滬鉛漲超1％，20號膠、低硫燃料油（LU）漲近1％。跌幅方面，焦煤、不鏽鋼（SS）、菜粕、玻璃、聚氯乙烯（PVC）跌超1％，菜油、滬鎳跌近1％。
+
+---
+
+### 2026-08-21 09:01:06  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D rose 1.02% to 976.38 yuan/gram in early trade on Friday, Aug 21; silver T+D rose 2.1% to 16506.0 yuan/kg.
+
+---
+
+### 2026-08-21 09:01:02  #公司
+
+【盛景微等成立智算科技公司 含AI相關業務】企查查APP顯示，近日，盛景智算（無錫）科技有限公司成立，經營範圍包含：雲端計算裝備技術服務；人工智慧基礎資源與技術平臺；網際網路裝置銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由盛景微等共同持股。
+
+---
+
+### 2026-08-21 09:00:41  #MKT News
+
+China's Lianyungang Maritime Safety Administration posted a navigation warning saying military activity will take place in parts of the southern Yellow Sea from Aug 21–25, daily 08:00–20:00, and the area is closed to navigation.
 
 ---
 
@@ -19438,71 +19566,5 @@ Japan 40-year bond yield falls 9.5 bps to 4.055%.
 ### 2026-08-20 09:39:26  #Trading Economics #Markets #United States #Currency #Importance 1
 
 Dollar Languishes at 3-Month Low — The dollar index held around 98.8 on Thursday, hovering near its lowest level in three months as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. The move signaled that the US Treasury was prepared to take a more active role in the bond market to limit long-term yields, potentially improving dollar liquidity across the global financial system. Meanwhile, minutes from the Federal Reserve’s July meeting confirmed that some policymakers favored raising interest rates this year to prevent stronger inflationary pressures from emerging later. Elsewhere, heightened uncertainty in the Middle East, with the US and Iran remaining at a stalemate, kept inflation risks in focus.
-
----
-
-### 2026-08-20 09:39:01  #國際
-
-【普京：俄羅斯經濟溫和增長】俄羅斯總統普京19日說，俄羅斯經濟呈現溫和增長，2026年國內生產總值（GDP）預計增長約1%。普京當天在戰略發展和國家專案委員會會議上表示，俄經濟增長受到工業設施、基礎設施遭襲等外部因素影響。儘管如此，俄貿易基礎設施依然高效穩健運轉。關於亟需恢復的俄物流和倉儲能力，俄政府應制定相應方案。（新華社）
-
----
-
-### 2026-08-20 09:38:58  #公司 #市場
-
-【玻璃基板概念快速回落 紅星發展跌停】玻璃基板概念快速回落，紅星發展跌停，沃格光電、京東方A、彩虹股份、金瑞礦業、艾森股份跟跌。
-
----
-
-### 2026-08-20 09:38:25  #公司 #市場
-
-【電網裝置板塊異動拉昇 風範股份14天8板】早盤電網裝置板塊異動拉昇，風範股份14天8板，正泰電器逼近漲停，三暉電氣、揚電科技、萬馬股份、泓淋電力等跟漲。
-
----
-
-### 2026-08-20 09:38:15  #公司 #市場
-
-【航運概念震盪反彈，鳳凰航運漲停】航運概念震盪反彈，鳳凰航運漲停，中遠海能、海通發展、招商輪船、中谷物流、盛航股份、興通股份等跟漲。
-
----
-
-### 2026-08-20 09:38:05  #MKT News
-
-Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the company has not deployed humanoid robots at scale because their overall efficiency and general-purpose capabilities remain insufficient.
-
----
-
-### 2026-08-20 09:37:41  #Trading Economics #Economy #Australia #Unemployment Rate #Importance 2
-
-Australia Jobless Rate Above Forecasts — Australia’s seasonally adjusted unemployment edged up to 4.5% in July, surpassing both market expectations and June’s figure of 4.4%. It was the highest reading in three months, with the number of unemployed rising by 4,200 to 691,500 from 687,400 in June, while employment fell unexpectedly by 15,800 to 14.81 million, defying expectations for a 15,000 increase.
-
----
-
-### 2026-08-20 09:37:41  #MKT News #SMH #Impact mixed #Nasdaq100
-
-【JPMorgan: Tech sell-off appears driven by quant/liquidity flows, not structural de-risking】JPMorgan, reviewing the prior day’s tech retreat, said the move looked more like a low-volume, catalyst-free, post-earnings momentum reversal driven by quant/liquidity flows than a structural de-risking tied to higher long-end yields or AI funding stress. Traders rated intraday flow activity about 3/10; semiconductors showed localized de-risking but on limited scale. The firm’s composite positioning indicator sits near the 40th percentile (neutral), and the Philadelphia Semiconductor ETF remains roughly 18% above its July low despite the pullback. JPMorgan retains a technical bull-market view and notes buybacks, retail investors and systematic funds have room to rebuild positions or increase leverage.
-
----
-
-### 2026-08-20 09:37:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-【Multiple Chinese gold-stock ETFs rise more than 6%】Chinese gold-stock ETFs including Guotai, Huaxia and ICBC rose more than 6% as gold equities continued to strengthen.
-
----
-
-### 2026-08-20 09:37:25  #市場 #觀點
-
-【貴金屬板塊開盤強勢，興業銀錫漲停】貴金屬板塊開盤強勢，興業銀錫漲停，中金黃金、赤峰黃金、山東黃金、曉程科技、山金國際等漲超6%。
-
----
-
-### 2026-08-20 09:37:02  #市場
-
-【多支黃金股ETF漲超6%】黃金股持續走強，黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲超6%,訊息面上，黃金突破4500美元大關。
-
----
-
-### 2026-08-20 09:36:58  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Al Arabiya reports US ambassador to Israel Mike Hekabi said Trump could consider military action against Iran if Tehran refuses to abandon its nuclear and uranium-enrichment ambitions and to reopen the Strait of Hormuz.
 
 ---

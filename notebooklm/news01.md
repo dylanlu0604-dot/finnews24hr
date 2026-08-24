@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-25 06:38:12_
-_本檔包含 3467 則快訊，約 623491 字_
+_更新時間：2026-08-25 06:58:16_
+_本檔包含 3465 則快訊，約 623404 字_
+
+---
+
+### 2026-08-25 06:55:42  #其他
+
+【委內瑞拉強震遇難人數上升至6509人】當地時間24日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報稱，該國此前發生的強震造成的遇難人數上升至6509人，另有6462人獲救。6月24日晚，委內瑞拉發生百餘年來最強地震，一分鐘內出現兩次7級以上強震，造成大量人員傷亡。（央視新聞）
+
+---
+
+### 2026-08-25 06:53:54  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bullish
+
+【Meta plans to launch 'Hatch' consumer AI agent in coming weeks】According to The Information, Meta Platforms (META.O) plans to roll out its consumer OpenClaw AI assistant (internal codename Hatch) as soon as the coming weeks and intends to release a new AI model called Watermelon in October. The product is part of CEO Mark Zuckerberg’s push to monetize Meta’s AI investment and diversify revenue beyond advertising; Meta has previously considered tiered pricing including a premium monthly subscription of up to $199.99 with higher usage allowances. Hatch has been trained to access DoorDash, Etsy, Reddit, Yelp and Outlook.
+
+---
+
+### 2026-08-25 06:52:24  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Edges Higher in Morning Trade — New Zealand stocks climbed 27 points, or 0.2%, to 13,908 in Tuesday morning trade, halting losses in the previous session, mainly buoyed by gains in consumer discretionary, healthcare, and energy. The broader index tracked a slight rise in US stock futures ahead of Nvidia earnings and US PCE price data later this week. Optimism over earnings season lifted sentiment, with some companies announcing their results this week, including Port of Tauranga and Channel Infrastructure. However, caution limited the gains ahead of the US PCE price data for guidance on the Fed's monetary policy decision at its upcoming meeting, as well as FOMC speeches at the Jackson Hole Symposium later this week. Among early gainers were Hallenstein Glassons (2.5%), Ryman Healthcare (1.4%), ANZ Group (0.7%), and Fisher & Paykel (0.5%). Air New Zealand, Port of Tauranga, and Channel Infrastructure each rose 0.6% ahead of the release of their earnings reports this week.
+
+---
+
+### 2026-08-25 06:50:07  #其他
+
+委內瑞拉地震遇難人數升至6509人。
+
+---
+
+### 2026-08-25 06:48:51  #市場 #焦點
+
+紐約期金突破4720美元/盎司，日內漲0.45%。
+
+---
+
+### 2026-08-25 06:45:21  #公司
+
+【Meta計劃於未來數週推出“Hatch”AI智慧體平臺】內部檔案顯示，Meta平臺公司計劃最快在未來幾周推出OpenClaw AI智慧體的消費版（內部專案名為Hatch，是Instagram端的智慧購物工具），並將最新AI模型“Watermelon”的釋出時間定在10月。Hatch是Meta執行長馬克·扎克伯格戰略規劃的一部分，目的是為公司鉅額的AI投資實現商業化變現，讓收入來源不再過度依賴廣告業務。Meta已考慮採用分級定價體系，其中該產品高階版月度訂閱費最高可達199.99美元，高階版會提供更高的使用額度。
+
+---
+
+### 2026-08-25 06:45:14  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Drops by 2.86% — Top crypto loser is XRP (-2.86%). Gains are led by Bitcoin (1.27%) and Ether (0.51%).
+
+---
+
+### 2026-08-25 06:43:42  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish
+
+According to The Information, Meta Platforms (META.O) plans to launch its 'HATCH' AI agent platform in the coming weeks.
+
+---
+
+### 2026-08-25 06:41:26  #市場 #國際
+
+日本計劃2027財年國債利息支出達到創紀錄的16.6萬億日元（合1043 億美元）。
+
+---
+
+### 2026-08-25 06:41:24  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Australia's South32 said its fourth grinding line at Sierra Gorda will lift copper production by about 30% from 2031.
+
+---
+
+### 2026-08-25 06:41:23  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #S32.AX #Impact bullish
+
+Australian miner South32 said it expects the Sierra Gorda deposit to be an important source of copper over the coming decades.
+
+---
+
+### 2026-08-25 06:40:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Rallies by 5.93% — Top commodity gainers are Coffee (5.93%) and Corn (1.30%). Biggest losers are Canola (-3.40%), Rapeseed (-3.16%) and Cocoa (-1.74%).
+
+---
+
+### 2026-08-25 06:40:00  #國際
+
+加拿大將於週二公佈針對美國的報復性關稅。
 
 ---
 
@@ -20809,95 +20887,5 @@ Crypto Updates: Ether Drops by 3.53% — Top crypto losers are Ether (-3.53%) an
 ### 2026-08-22 15:55:56  #其他
 
 【廣西升級釋出洪水黃色預警 部分河段將出現超警洪水】8月22日13時，廣西明江及支流派連河、思州河、憑祥河等4條河流5個站超警0.31～2.71米，其中派連河寧明縣寨安鄉河段出現2014年建站以來實測第二大洪水。廣西壯族自治區水文中心於8月22日13時升級釋出洪水黃色預警。廣西壯族自治區水文中心預測，未來24小時，明江將全線超警：明江寧明縣那堪鎮河段（當前水位130.72米，警戒水位131.9米）將出現超警0.5米左右的洪水；明江寧明縣東安鄉河段（當前水位118.44米，警戒水位117.9米）將出現超警2.5米左右的洪水；明江寧明縣城河段（當前水位116.59米，警戒水位116.0米）將出現超警2米左右的洪水。
-
----
-
-### 2026-08-22 15:54:10  #宏觀
-
-【官方回應白菜收購蘸取甲醛溶液問題】康保縣人民政府釋出情況通報：針對網上反映的“白菜收購環節蘸取甲醛溶液”相關問題，我縣第一時間組織農業農村、市場監管、公安等部門開展實地核查調查。經初步核查，影片反映情況屬實，系收購商為蔬菜運輸保鮮，在裝運過程中的違法行為。 目前，公安部門已對相關人員、車輛依法採取強制措施，案件正在進一步偵辦中。同時，對涉事白菜流向進行緊急追溯，並舉一反三，對全縣蔬菜收購、運輸、銷售環節開展全面深入排查，對發現的違法違規行為依法嚴肅查處，切實保障蔬菜供應安全。
-
----
-
-### 2026-08-22 15:50:19  #其他
-
-【克羅埃西亞一架輕型飛機墜毀 致2人死亡】當地時間8月22日，克羅埃西亞山地救援隊在社交媒體發文表示，21日22時左右，其在該國中部扎達爾縣的帕克萊尼察國家公園內發現一架輕型飛機殘骸，機上兩人均已無生命跡象。
-
----
-
-### 2026-08-22 15:39:05  #其他
-
-【今年第20號颱風“簡拉維”已於西北太平洋洋麵上生成】今年第20號颱風“簡拉維”（熱帶風暴級；英文名稱：Gaenari）已於今天（8月22日）下午在西北太平洋洋麵上生成，14點鐘其中心位於距離臺灣台北市東偏北方向約320公里的洋麵上（北緯26.2度、東經124.5度），中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑東北方向80公里，東南方向100公里，西南方向50公里，西北方向50公里。預計，“簡拉維”將以每小時35-40公里的速度向西北方向快速移動，強度變化不大。（央視新聞）
-
----
-
-### 2026-08-22 15:37:57  #宏觀 #國際
-
-【王毅會見印尼國家經濟委員會主席盧胡特】中共中央政治局委員、外交部長王毅22日在雅加達會見印尼國家經濟委員會主席盧胡特。王毅表示，中方願同印尼充分發揮全面戰略對話機制和“2+2”對話機制作用，排除干擾，增進互信，進一步挖掘潛力，推動各領域合作與時俱進、提質升級。中國真心誠意幫助印尼加快發展程序，鼓勵支援中國企業繼續在印尼投資興業，助力印尼將資源優勢轉化為發展動能和人民福祉，更好提升自主發展能力，加速推進工業化程序。希望並相信印尼政府會為中企提供安全、穩定、良好的營商環境。（新華社）
-
----
-
-### 2026-08-22 15:35:56  #其他
-
-捷豹路虎據悉推遲推出全電動Defender的計劃。
-
----
-
-### 2026-08-22 15:35:26  #宏觀
-
-【廣東省發展改革委出臺推動信用服務業擴能提質若干措施】近日，廣東省發展改革委印發《推動信用服務業擴能提質的若干措施》（簡稱《若干措施》），圍繞場景拓展、主體培育、跨境合作、環境最佳化四大方向推出21項具體舉措，進一步激發信用服務市場活力，推動行業擴規模、提質量、增效能，助力全省營商環境持續最佳化。《若干措施》構建梯度化發展格局，做強本土頭部信用服務機構、支援開拓國際市場，積極引進國內外知名徵信評級機構在粵佈局；培育垂直領域專業中小機構，支援細分場景技術創新；引導小微信用服務機構聚焦基層普惠領域，發揮貼近市場優勢。同時，補齊信用科技、資料合規等配套服務短板，推進行業數智化轉型，培育智慧風控等新業態，形成大中小企業融通發展的良好生態。下一步，廣東省發展改革委將加強統籌協調，強化部門協同與政策保障，厚植誠信文化社會氛圍，推動各項措施落地見效，持續釋放信用要素價值，為全省經濟高質量發展築牢信用支撐。
-
----
-
-### 2026-08-22 15:33:21  #宏觀 #公司
-
-【多家銀行釋出公告 單人在同家銀行貼息上限提升到5000元】今天（22日）從工商銀行、農業銀行、中國銀行、建設銀行、交通銀行、郵儲銀行等六大銀行瞭解到，各家銀行已經根據財政部、中國人民銀行、金融監管總局《關於進一步做好財政金融協同促內需政策有關工作的通知》，陸續釋出公告，明確了最新的信用卡分期貼息政策執行要點。多家銀行明確，根據三部門通知要求，每名借款人在同一家銀行可享受的個人消費貸款和信用卡分期業務累計貼息上限由每年3000元提高至每年5000元。這5000元的貼息額度既可以全部用於個人消費貸款，也可以全部用於信用卡分期業務，也可以根據個人需求分配二者的比例。（央視新聞）
-
----
-
-### 2026-08-22 15:32:18  #國際
-
-烏克蘭總統澤連斯基：昨天俄羅斯對克里沃伊羅格一家購物中心的襲擊目前已確認造成16人死亡，130人受傷，其中包括23名兒童。當晚還發生了導彈和無人機襲擊。在基輔，彈道導彈襲擊損壞了鐵路基礎設施，導致一人死亡，一人受傷。在扎波羅熱，一輛城市小巴遭到FPV無人機襲擊，三人受傷。敖德薩、第聶伯羅彼得羅夫斯克、哈爾科夫、頓涅茨克、蘇梅、赫爾松、切爾尼戈夫和尼古拉耶夫地區也遭到攻擊。居民樓、能源和鐵路基礎設施設施以及民用企業均受損。
-
----
-
-### 2026-08-22 15:30:49  #國際
-
-【伊朗稱國防產能已翻倍】伊朗國防部發言人禮薩·塔拉埃-尼克8月21日接受伊朗國家電視臺採訪時表示，儘管部分國防工業設施遭到襲擊，但伊朗國防裝備與武器產能在過去一年已實現翻番，能夠在戰場持續消耗武器裝備的同時迅速補充生產。塔拉埃-尼克表示，這種“邊打邊造”的同步生產模式，已使國防工業成為伊朗武裝力量防禦體系的支柱之一。 （CCTV國際時訊）
-
----
-
-### 2026-08-22 15:28:53  #公司
-
-【淄博光學二期專案正式開工 海泰新光精密光學產能再擴容】據海泰新光訊息，8月22日，海泰新光子公司淄博光學二期專案正式開工建設，專案建設面積共約33000平方米，首棟廠房建築面積約15000平方米，計劃建設週期6個月，預計2027年3月竣工，將佈局先進微小光學產品加工及自動化產線，擴充光學器件生產產能。
-
----
-
-### 2026-08-22 15:18:11  #國際
-
-烏克蘭無人機襲擊俄羅斯薩馬拉州，造成新古比雪夫斯克煉油廠起火，同時襲擊了Ozon電商履約中心。這座佔地 7.5 萬平方米的設施是該零售巨頭規模最大的配送中心之一。
-
----
-
-### 2026-08-22 15:16:49  #國際
-
-【澳大利亞首都加入槍支回購計劃】澳大利亞總理阿爾巴尼斯22日宣佈，首都堪培拉所屬的澳大利亞首都直轄區將加入槍支回購計劃，以進一步落實去年悉尼邦迪灘槍擊事件後政府收緊槍支管控的相關舉措。阿爾巴尼斯在宣告中說，感謝首都直轄區同意加入回購計劃，配合政府落實“將槍支清除出街頭，更好保護澳大利亞人”的目標，避免再次發生類似邦迪灘恐襲的悲劇。在澳首都直轄區，超過7000名持槍許可持有人將受到新規影響，涉及槍支約2.3萬支。回購計劃的啟動日期暫未公佈。（央視新聞）
-
----
-
-### 2026-08-22 15:14:58  #其他
-
-梵蒂岡將投資1億歐元建設可再生能源電站。
-
----
-
-### 2026-08-22 15:11:21  #其他
-
-【世界海拔最高光熱電站熔鹽儲罐透過充水試驗】據中國電建訊息，近日，由中國電建承建的西藏開投安多光熱專案熔鹽儲罐充水試驗一次性圓滿成功，標誌著專案儲熱系統核心裝置安裝質量全面核驗合格，這座世界海拔最高、西藏首個塔式光熱工程向全容量併網發電目標又邁出了關鍵一步。
-
----
-
-### 2026-08-22 15:10:13  #公司
-
-【直擊WRC丨上緯新材彭文正：行業已不在“能不能造機器人”時代，而在“敢不敢進消費級”時代】2026世界機器人大會（WRC 2026）期間，上緯新材啟元Q1研發負責人彭文正展示了團隊在C端消費級智慧領域的探索，並介紹了個人機器人產品啟元Q1。 彭文正判斷，當前具身智慧領域“本體已經不是比較大的一個瓶頸”，更大的痛點在於“本體強、智慧弱”以及生態內容匱乏。他指出，全球機器人構型已逐漸趨同，行業“並不在一個能不能造機器人的時代，反而在一個敢不敢進入到消費型的時代”。對於機器人進入消費級的路徑，彭文正提出三條曲線：第一階段是技術練習與新鮮感，第二階段是內容創作及B端迎賓、商演，第三階段是真實應用場景的探索與實用價值的實現，“真正的終局是要往第三條曲線來去共同去探索”。（新浪科技）
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 06:38:12_
-_本檔包含 3086 則快訊，約 622772 字_
+_更新時間：2026-08-25 06:58:16_
+_本檔包含 3085 則快訊，約 623118 字_
+
+---
+
+### 2026-08-19 10:07:22  #MKT News #Market Themes #AI Revolution
+
+【VeriSilicon: YTD new orders CNY15.142 bln; 90% AI compute-related, 89% data-processing】VeriSilicon told an Aug. 17 conference call that new orders signed from Jan. 1–Aug. 17, 2026 totaled CNY15.142 bln. AI compute-related orders account for 90% and data-processing orders 89%. The company said the orders have clear conversion visibility but revenue conversion will take time: design-service contracts typically require a 9–12 month R&D cycle; mass-production service orders depend on customer shipment plans and foundry capacity scheduling and typically require a 6–18 month end-to-end production and delivery cycle from signing.
+
+---
+
+### 2026-08-19 10:07:07  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.4%, or 96 points, to 25,372 on Wednesday, as investors remained cautious following a selloff in US technology shares, elevated bond yields, rising oil prices and renewed Middle East tensions. Meanwhile, China’s financial regulator approved allowing mainland insurance funds to invest in Hong Kong-listed ETFs through Stock Connect, potentially providing an additional source of mainland institutional capital for Hong Kong equities. On the corporate front, China Unicom is down around 10% after reported first-half net profit attributable to shareholders of RMB9.5 billion, down 34.6% year-on-year, while operating revenue rose 0.6% to RMB201.4 billion. Tencent (-0.7%), SMIC (-1.4%), Lenovo (-1.2%), and Kingboard Laminates (-3.4%) led declines, while Xiaomi gained 4.4%. Investors are also awaiting HKEX’s interim results announcement today, with the exchange’s shares among the stocks to watch.
+
+---
+
+### 2026-08-19 10:07:04  #市場 #焦點
+
+科創50日內跌幅達4％，成分股中，芯原股份跌7.64％，華虹宏力跌6.86％，盛美上海跌6.35％，瀾起科技跌5.75％。
+
+---
+
+### 2026-08-19 10:06:56  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+CSI 500 index futures (IC) front contract down 2.00% intraday at 7,854.4 points. CSI 1000 index futures (IM) front contract fell below 7,600 points, down 2.58% intraday.
+
+---
+
+### 2026-08-19 10:05:54  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
+
+China's CSI 300 index futures (IF) main contract touched 4,600, down 1.40% intraday.
+
+---
+
+### 2026-08-19 10:05:33  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌2%，現報7862.00點。
+
+---
+
+### 2026-08-19 10:05:14  #公司
+
+【芯原股份：今年目前新簽訂單增長至151.42億元，AI算力相關訂單佔比90%】芯原股份8月17日在電話會議表示，2026年1月1日至8月17日，公司新簽訂單進一步增長至151.42億元，AI算力相關訂單佔比90%，資料處理領域訂單佔比89%。上述訂單具備明確轉化預期，但收入轉化需要一定時間週期。其中，設計服務訂單通常需9—12個月設計研發週期；量產服務業務訂單受客戶產品出貨規劃、合作晶圓廠產能排期等因素影響，從簽約開始通常需6—18個月完整生產交付週期。
+
+---
+
+### 2026-08-19 10:05:03  #市場
+
+華虹半導體港股下跌8.0%，A股下跌6.2%。
+
+---
+
+### 2026-08-19 10:04:23  #MKT News
+
+【GCL System Integration ramps mass shipments of BC modules overseas】GCL System Integration has started mass production shipments of BC modules to overseas markets. Since May, efficient BC module orders have continued to land abroad; cumulative contracts in Germany have exceeded 100 MW, and high-end, high-efficiency modules are expanding in Europe’s distributed-generation segment. As of June 30, 2026, the company has 30 GW of high-efficiency N-type module capacity; Hefei and Funing bases have completed partial upgrades to BC production lines.
 
 ---
 
@@ -18590,65 +18644,5 @@ Oil Extends Gains as Peace Prospects Dim — Crude oil climbed toward $85 per ba
 ### 2026-08-18 07:05:15  #公司
 
 【巴斯夫因萊茵河低水位致部分產品供應受阻】德國化工巨頭巴斯夫（BASF）執行長 Markus Kamieth 週一證實，持續乾旱引發的萊茵河低水位已導致部分產品無法足額供應。儘管目前公司財務未受明顯波及，但若干旱持續，生產受干擾的風險將逐周遞增。Kamieth 強調，得益於應對極端天氣準備工作的提升，目前整體局勢依舊可控，面臨的挑戰遠小於2018年。
-
----
-
-### 2026-08-18 06:57:54  #公司 #市場 #國際
-
-【報道：美國要求韓國將儲存晶片作為首個對美投資重點】據韓國中央日報報道，韓國政府原計劃於本月晚些時候公佈的首個對美投資專案，因美國突然要求韓國投資儲存晶片生產設施而面臨不確定性。報道援引多名未具名執政黨人士報道稱，美國要求韓國投資儲存晶片專案，是8月13日韓國總統府閉門貿易會議討論的核心議題。報道指出，韓國政府最初將能源領域作為首個重大對美投資專案的優先方向。與會人士普遍認為，鑑於三星電子和SK海力士已承諾在韓國Honam地區進行大規模投資，在美國投資儲存晶片專案實際上會很困難。
-
----
-
-### 2026-08-18 06:57:48  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Moves Away from Near 4-Week Low — New Zealand's stocks rose 56 points, or 0.4%, to 13,779 in Tuesday morning trade, erasing losses from the previous session, mainly supported by gains in real estate, utilities, and consumer staples. The broader index moved up from its lowest level since July 21, touched a day earlier amid a plunge in consumer staples. Traders engaged in bargain hunting, with real estate (+1.0%) and consumer staples (+0.6%) rebounding after plunging in the previous session. Monday's data continued to lift sentiment as food inflation eased to a 19-month low while credit card spending rebounded. However, a downbeat session on Wall Street overnight due to escalating Middle East tensions limited gains ahead of the release of the FOMC meeting minutes later this week. Among the early losers were Gentrack Group (-1.5%), ANZ Group (-0.9%), A2 Milk (-0.5%), and Mainfreight (-0.4%). Meanwhile, Mercury NZ rose 1.6% after Mercury Energy posted a jump in operating earnings for the 12 months ended June.
-
----
-
-### 2026-08-18 06:53:44  #公司
-
-市場訊息：三星Samsung Display將建設額外的OLED顯示設施。
-
----
-
-### 2026-08-18 06:48:32  #公司
-
-【年內289只基金提前結束募集，同比增長逾17%】8月17日，在農銀滬深300質量ETF、寶盈裕安增利6個月持有期債券等多隻基金公告發行提前收官後，今年以來宣佈提前結束募集的基金數量已達289只，同比增長逾17%。在受訪人士看來，這一由權益類基金與含權類債券基金主導的“搶跑”現象，折射出資金借道公募產品加速流入權益市場的訊號。（證券日報）
-
----
-
-### 2026-08-18 06:45:16  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Increases by 2.28% — Top crypto gainers are Bitcoin (2.28%) and Ether (1.54%).
-
----
-
-### 2026-08-18 06:45:01  #MKT News #BHP.AX #Impact bearish #Brent #Impact bullish #XAUUSD
-
-BHP said the Middle East conflict has "materially changed" its cost environment.
-
----
-
-### 2026-08-18 06:44:30  #公司 #觀點
-
-【提振投資者信心，多家券商權益分派實施中】8月份，上市券商2025年年度權益分派實施進入尾期。截至8月17日發稿時，8月以來包括東吳證券、申萬宏源、中金公司在內的8家上市券商（含券商母公司）釋出分紅相關公告，已完成2025年年度權益分派或明確實施日期，金額合計98.09億元。在業內人士看來，在經營業績穩健增長與監管層持續強化回報導向的雙重驅動下，證券公司正積極踐行“以投資者為本”理念，透過提高分紅頻率、最佳化分紅預案等方式，切實將經營成果轉化為股東可獲得的實際回報，進一步增強投資者的持有信心與獲得感。（中證報）
-
----
-
-### 2026-08-18 06:42:07  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-BHP said copper is the engine of its growth, forecasting copper demand alone to rise from about 34 mln tonnes a year now to more than 50 mln tonnes a year by 2050.
-
----
-
-### 2026-08-18 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Surges by 5.18% — Top commodity gainers are Cocoa (5.18%), Oat (2.63%) and Soybeans (1.85%). Biggest loser is Rubber (-0.68%).
-
----
-
-### 2026-08-18 06:39:04  #MKT News #BHP.O #Impact bullish
-
-BHP reported fiscal‑year revenue of $58.76 billion, up 15% YoY. Fiscal‑year capital and exploration expenditure totaled $10.26 billion, up 5% YoY.
 
 ---

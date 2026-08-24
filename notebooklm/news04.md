@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 06:38:12_
-_本檔包含 3126 則快訊，約 623445 字_
+_更新時間：2026-08-25 06:58:16_
+_本檔包含 3128 則快訊，約 623057 字_
+
+---
+
+### 2026-08-20 09:39:01  #國際
+
+【普京：俄羅斯經濟溫和增長】俄羅斯總統普京19日說，俄羅斯經濟呈現溫和增長，2026年國內生產總值（GDP）預計增長約1%。普京當天在戰略發展和國家專案委員會會議上表示，俄經濟增長受到工業設施、基礎設施遭襲等外部因素影響。儘管如此，俄貿易基礎設施依然高效穩健運轉。關於亟需恢復的俄物流和倉儲能力，俄政府應制定相應方案。（新華社）
+
+---
+
+### 2026-08-20 09:38:58  #公司 #市場
+
+【玻璃基板概念快速回落 紅星發展跌停】玻璃基板概念快速回落，紅星發展跌停，沃格光電、京東方A、彩虹股份、金瑞礦業、艾森股份跟跌。
+
+---
+
+### 2026-08-20 09:38:25  #公司 #市場
+
+【電網裝置板塊異動拉昇 風範股份14天8板】早盤電網裝置板塊異動拉昇，風範股份14天8板，正泰電器逼近漲停，三暉電氣、揚電科技、萬馬股份、泓淋電力等跟漲。
+
+---
+
+### 2026-08-20 09:38:15  #公司 #市場
+
+【航運概念震盪反彈，鳳凰航運漲停】航運概念震盪反彈，鳳凰航運漲停，中遠海能、海通發展、招商輪船、中谷物流、盛航股份、興通股份等跟漲。
+
+---
+
+### 2026-08-20 09:38:05  #MKT News
+
+Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the company has not deployed humanoid robots at scale because their overall efficiency and general-purpose capabilities remain insufficient.
+
+---
+
+### 2026-08-20 09:37:41  #Trading Economics #Economy #Australia #Unemployment Rate #Importance 2
+
+Australia Jobless Rate Above Forecasts — Australia’s seasonally adjusted unemployment edged up to 4.5% in July, surpassing both market expectations and June’s figure of 4.4%. It was the highest reading in three months, with the number of unemployed rising by 4,200 to 691,500 from 687,400 in June, while employment fell unexpectedly by 15,800 to 14.81 million, defying expectations for a 15,000 increase.
+
+---
+
+### 2026-08-20 09:37:41  #MKT News #SMH #Impact mixed #Nasdaq100
+
+【JPMorgan: Tech sell-off appears driven by quant/liquidity flows, not structural de-risking】JPMorgan, reviewing the prior day’s tech retreat, said the move looked more like a low-volume, catalyst-free, post-earnings momentum reversal driven by quant/liquidity flows than a structural de-risking tied to higher long-end yields or AI funding stress. Traders rated intraday flow activity about 3/10; semiconductors showed localized de-risking but on limited scale. The firm’s composite positioning indicator sits near the 40th percentile (neutral), and the Philadelphia Semiconductor ETF remains roughly 18% above its July low despite the pullback. JPMorgan retains a technical bull-market view and notes buybacks, retail investors and systematic funds have room to rebuild positions or increase leverage.
+
+---
+
+### 2026-08-20 09:37:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【Multiple Chinese gold-stock ETFs rise more than 6%】Chinese gold-stock ETFs including Guotai, Huaxia and ICBC rose more than 6% as gold equities continued to strengthen.
+
+---
+
+### 2026-08-20 09:37:25  #市場 #觀點
+
+【貴金屬板塊開盤強勢，興業銀錫漲停】貴金屬板塊開盤強勢，興業銀錫漲停，中金黃金、赤峰黃金、山東黃金、曉程科技、山金國際等漲超6%。
+
+---
+
+### 2026-08-20 09:37:02  #市場
+
+【多支黃金股ETF漲超6%】黃金股持續走強，黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲超6%,訊息面上，黃金突破4500美元大關。
+
+---
+
+### 2026-08-20 09:36:58  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+Al Arabiya reports US ambassador to Israel Mike Hekabi said Trump could consider military action against Iran if Tehran refuses to abandon its nuclear and uranium-enrichment ambitions and to reopen the Strait of Hormuz.
 
 ---
 
@@ -18804,59 +18870,5 @@ Sci-Tech Innovation Board 50 Index fell more than 4% as chip stocks slid; Xinyua
 ### 2026-08-19 10:08:39  #Trading Economics #Markets #China #Stock Market #Importance 1
 
 China Stocks Fall on Semiconductor Selloff — The Shanghai Composite slipped 1% to 3,953 on Wednesday, while the Shenzhen Component lost 2.2% to 14,301, as a broad selloff in semiconductor stocks weighed heavily on both benchmarks. Chipmakers came under pressure worldwide as government bond yields surged amid persistent inflation, elevated fiscal spending, and heavy debt issuance. At the same time, geopolitical tensions raised concerns about energy supply disruptions, adding to fears that inflation and financing costs may stay elevated for an extended period. The decline came despite strong earnings from GigaDevice, which reported H1 2026 revenue of RMB 11.57 billion, up 178.7% from a year earlier, while net profit attributable to shareholders surged 1,091.5% to RMB 6.86 billion. Investors continued to rotate out of the sector, with SMIC (-1.3%), Hygon Information Technology (-3%), GigaDevice (-1.6%), Hua Hong Semiconductor (-2%), Zhongji Innolight (-1.3%), and Eoptolink Technology (-3.1%) among the session’s biggest decliners.
-
----
-
-### 2026-08-19 10:07:22  #MKT News #Market Themes #AI Revolution
-
-【VeriSilicon: YTD new orders CNY15.142 bln; 90% AI compute-related, 89% data-processing】VeriSilicon told an Aug. 17 conference call that new orders signed from Jan. 1–Aug. 17, 2026 totaled CNY15.142 bln. AI compute-related orders account for 90% and data-processing orders 89%. The company said the orders have clear conversion visibility but revenue conversion will take time: design-service contracts typically require a 9–12 month R&D cycle; mass-production service orders depend on customer shipment plans and foundry capacity scheduling and typically require a 6–18 month end-to-end production and delivery cycle from signing.
-
----
-
-### 2026-08-19 10:07:07  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.4%, or 96 points, to 25,372 on Wednesday, as investors remained cautious following a selloff in US technology shares, elevated bond yields, rising oil prices and renewed Middle East tensions. Meanwhile, China’s financial regulator approved allowing mainland insurance funds to invest in Hong Kong-listed ETFs through Stock Connect, potentially providing an additional source of mainland institutional capital for Hong Kong equities. On the corporate front, China Unicom is down around 10% after reported first-half net profit attributable to shareholders of RMB9.5 billion, down 34.6% year-on-year, while operating revenue rose 0.6% to RMB201.4 billion. Tencent (-0.7%), SMIC (-1.4%), Lenovo (-1.2%), and Kingboard Laminates (-3.4%) led declines, while Xiaomi gained 4.4%. Investors are also awaiting HKEX’s interim results announcement today, with the exchange’s shares among the stocks to watch.
-
----
-
-### 2026-08-19 10:07:04  #市場 #焦點
-
-科創50日內跌幅達4％，成分股中，芯原股份跌7.64％，華虹宏力跌6.86％，盛美上海跌6.35％，瀾起科技跌5.75％。
-
----
-
-### 2026-08-19 10:06:56  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-CSI 500 index futures (IC) front contract down 2.00% intraday at 7,854.4 points. CSI 1000 index futures (IM) front contract fell below 7,600 points, down 2.58% intraday.
-
----
-
-### 2026-08-19 10:05:54  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-China's CSI 300 index futures (IF) main contract touched 4,600, down 1.40% intraday.
-
----
-
-### 2026-08-19 10:05:33  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌2%，現報7862.00點。
-
----
-
-### 2026-08-19 10:05:14  #公司
-
-【芯原股份：今年目前新簽訂單增長至151.42億元，AI算力相關訂單佔比90%】芯原股份8月17日在電話會議表示，2026年1月1日至8月17日，公司新簽訂單進一步增長至151.42億元，AI算力相關訂單佔比90%，資料處理領域訂單佔比89%。上述訂單具備明確轉化預期，但收入轉化需要一定時間週期。其中，設計服務訂單通常需9—12個月設計研發週期；量產服務業務訂單受客戶產品出貨規劃、合作晶圓廠產能排期等因素影響，從簽約開始通常需6—18個月完整生產交付週期。
-
----
-
-### 2026-08-19 10:05:03  #市場
-
-華虹半導體港股下跌8.0%，A股下跌6.2%。
-
----
-
-### 2026-08-19 10:04:23  #MKT News
-
-【GCL System Integration ramps mass shipments of BC modules overseas】GCL System Integration has started mass production shipments of BC modules to overseas markets. Since May, efficient BC module orders have continued to land abroad; cumulative contracts in Germany have exceeded 100 MW, and high-end, high-efficiency modules are expanding in Europe’s distributed-generation segment. As of June 30, 2026, the company has 30 GW of high-efficiency N-type module capacity; Hefei and Funing bases have completed partial upgrades to BC production lines.
 
 ---
