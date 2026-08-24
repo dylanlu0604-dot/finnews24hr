@@ -1,7 +1,15 @@
 {
   "date": "2026-08-25",
-  "count": 354,
+  "count": 355,
   "items": [
+    {
+      "id": "mkt:01a035dc-1e11-7aab-9100-1922d1885b42",
+      "time": "2026-08-25 06:20:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. formally revokes Syria's state-sponsor-of-terrorism designation】U.S. Secretary of State Rubio said on the 24th he approved formally revoking Syria’s designation as a state sponsor of terrorism. Rubio said the Syrian transitional government has taken significant counterterrorism steps and that delisting removes the final major barrier to private-sector investment, facilitating Syria’s economic recovery and reintegration into the global economy. The Syrian transitional government welcomed the decision. Rubio also announced removal of the Sham Liberation Army from the U.S. list of designated terrorist organizations."
+    },
     {
       "id": "5056219",
       "time": "2026-08-25 06:16:44",
