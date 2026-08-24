@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-25 00:44:08",
-  "count": 15807,
+  "updated": "2026-08-25 00:49:12",
+  "count": 15812,
   "items": [
+    {
+      "id": "mkt:01a034ac-19b3-7aab-90fc-45c634d8a6c3",
+      "time": "2026-08-25 00:48:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French presidential office says Saudi Arabia will invest €6 bln to build a theme park near Paris, expected to directly create 22,000 jobs."
+    },
+    {
+      "id": "5056051",
+      "time": "2026-08-25 00:47:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體釋出穆傑塔巴早前影片】8月24日，伊朗法爾斯通訊社等媒體釋出一段穆傑塔巴·哈梅內伊出任最高領袖前的影片。這段影片據稱為“首次公開”的影像，拍攝於戰爭爆發前，但具體的時間地點不詳。拍攝內容據信為穆傑塔巴正主持一場宗教研學活動。（CCTV國際時訊）"
+    },
+    {
+      "id": "5056050",
+      "time": "2026-08-25 00:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大安大略省省長：是時候讓美國承受經濟痛苦了，需要限制向美國的能源、鉀肥和電力運輸。我們應該利用一切可以利用的影響力，我們並不支援美加正在逐步達成的初步協議。"
+    },
+    {
+      "id": "mkt:01a034ab-0c1d-7aab-90fc-38fcaaee4815",
+      "time": "2026-08-25 00:46:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ontario Premier said the province will use all available leverage and does not support the preliminary agreement the US and Canada are progressively reaching."
+    },
+    {
+      "id": "mkt:01a034aa-87a7-7aab-90fc-35965a0ec251",
+      "time": "2026-08-25 00:46:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ontario's premier said it is time to make the United States suffer economic pain and called for restrictions on shipments of energy, potash and electricity to the U.S."
+    },
+    {
+      "id": "mkt:01a034a8-8df7-7aab-90fc-2e03d9ecdd91",
+      "time": "2026-08-25 00:44:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "US Vice President Vance said Canada has been the worst country on trade policy, accusing it of imposing absurd tariffs on states including Maine and warning the US will retaliate against unfair trade measures."
+    },
+    {
+      "id": "5056049",
+      "time": "2026-08-25 00:43:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍與沙特王儲達成共識，將在巴黎周邊投資 60 億歐元建設漫畫主題公園專案。"
+    },
     {
       "id": "mkt:01a034a6-b311-7aab-90fc-2735a97f92ab",
       "time": "2026-08-25 00:42:15",
@@ -143298,22 +143364,6 @@
         "國際"
       ],
       "text": "【伊朗最高領袖顧問：美國的未來將由“家庭餐桌”而非“作戰室”決定】伊朗革命最高領袖一名高階顧問韋拉亞提批評美國政府針對伊朗民眾的威脅言論，表示美國的未來最終將由國內經濟現狀決定，而非軍事規劃室做出的決策。他援引美國官員近期表態：美國財政部長談及對伊朗實施經濟制裁，美國總統則重申“所有選項均擺在檯面上”。但韋拉亞提表示，美國民眾正在為本屆政府的敵對政策承擔代價。"
-    },
-    {
-      "id": "5044649",
-      "time": "2026-08-18 00:46:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "哥倫比亞任命瑪麗亞·C·阿勞霍出任駐美國大使。"
-    },
-    {
-      "id": "5044648",
-      "time": "2026-08-18 00:46:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟關聯 “奧德賽計劃” 債券以垃圾債級收益率吸引大量買家】代號為“奧德賽計劃”的企業債券發行規模有望上調至39億美元。這筆與微軟相關的資料中心融資債券，給出接近垃圾債的收益率，市場認購需求已超發行目標的兩倍。知情人士透露，該債券由黑石集團參股的QTS房地產信託有限責任公司旗下子公司發行，用於資助佐治亞州的一處專案。訊息人士稱，經過數日路演，市場需求突破80億美元，為這筆債券規模增加約10億美元創造條件。"
     }
   ]
 }

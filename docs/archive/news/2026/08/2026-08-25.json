@@ -1,7 +1,73 @@
 {
   "date": "2026-08-25",
-  "count": 44,
+  "count": 51,
   "items": [
+    {
+      "id": "mkt:01a034ac-19b3-7aab-90fc-45c634d8a6c3",
+      "time": "2026-08-25 00:48:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French presidential office says Saudi Arabia will invest €6 bln to build a theme park near Paris, expected to directly create 22,000 jobs."
+    },
+    {
+      "id": "5056051",
+      "time": "2026-08-25 00:47:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體釋出穆傑塔巴早前影片】8月24日，伊朗法爾斯通訊社等媒體釋出一段穆傑塔巴·哈梅內伊出任最高領袖前的影片。這段影片據稱為“首次公開”的影像，拍攝於戰爭爆發前，但具體的時間地點不詳。拍攝內容據信為穆傑塔巴正主持一場宗教研學活動。（CCTV國際時訊）"
+    },
+    {
+      "id": "5056050",
+      "time": "2026-08-25 00:47:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大安大略省省長：是時候讓美國承受經濟痛苦了，需要限制向美國的能源、鉀肥和電力運輸。我們應該利用一切可以利用的影響力，我們並不支援美加正在逐步達成的初步協議。"
+    },
+    {
+      "id": "mkt:01a034ab-0c1d-7aab-90fc-38fcaaee4815",
+      "time": "2026-08-25 00:46:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ontario Premier said the province will use all available leverage and does not support the preliminary agreement the US and Canada are progressively reaching."
+    },
+    {
+      "id": "mkt:01a034aa-87a7-7aab-90fc-35965a0ec251",
+      "time": "2026-08-25 00:46:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ontario's premier said it is time to make the United States suffer economic pain and called for restrictions on shipments of energy, potash and electricity to the U.S."
+    },
+    {
+      "id": "mkt:01a034a8-8df7-7aab-90fc-2e03d9ecdd91",
+      "time": "2026-08-25 00:44:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "US Vice President Vance said Canada has been the worst country on trade policy, accusing it of imposing absurd tariffs on states including Maine and warning the US will retaliate against unfair trade measures."
+    },
+    {
+      "id": "5056049",
+      "time": "2026-08-25 00:43:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍與沙特王儲達成共識，將在巴黎周邊投資 60 億歐元建設漫畫主題公園專案。"
+    },
     {
       "id": "mkt:01a034a6-b311-7aab-90fc-2735a97f92ab",
       "time": "2026-08-25 00:42:15",
