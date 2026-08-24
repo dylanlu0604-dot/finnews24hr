@@ -1,7 +1,123 @@
 {
-  "updated": "2026-08-24 22:12:22",
-  "count": 15835,
+  "updated": "2026-08-24 22:16:40",
+  "count": 15839,
   "items": [
+    {
+      "id": "mkt:01a03420-92dc-7aab-90f9-a9640b323252",
+      "time": "2026-08-24 22:15:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham will lead military exercises to ensure multinational forces are ready to deploy. Deployments can commence once the UK becomes the operational headquarters this autumn."
+    },
+    {
+      "id": "5055948",
+      "time": "2026-08-24 22:15:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩根資管：投資級債券發行井噴不足為懼，市場企穩料吸引大量買家迴歸】摩根資產管理投資組合經理Kelsey Berro表示，投資級債券市場9月將迎來繁忙的發行期，但企業債需求依然強勁，市場對大量供給的擔憂可能過度了。Berro表示，市場對9月發行規模的預期區間很寬，在1,750億-2,500億美元之間。她稱，信用債投資組合經理認為，即便供給達到2,500億美元，“也不是什麼問題”，不過最終發行規模存在不確定性，令市場參與者更難提前做好準備。"
+    },
+    {
+      "id": "5055947",
+      "time": "2026-08-24 22:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "TCL電子：截至8月24日，尚未向證券交易所提交潛在分拆上市的相關申請。"
+    },
+    {
+      "id": "5055946",
+      "time": "2026-08-24 22:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "TCL電子：潛在分拆仍處於初步商議階段，存在不確定性。"
+    },
+    {
+      "id": "5055945",
+      "time": "2026-08-24 22:14:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "TCL電子：考慮分拆光伏業務並單獨上市。"
+    },
+    {
+      "id": "mkt:01a0341e-eea4-7aab-90f9-a0e86638d0ea",
+      "time": "2026-08-24 22:13:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran blacklists 45 tankers over Strait of Hormuz transit violations】Iran said it has blacklisted 45 tankers for violating its Strait of Hormuz transit rules and will act against any vessels that transship cargo with them. The newly formed Persian Gulf Strait Management Bureau said the named ships could face fines, seizure and confiscation of cargo. The announcement on Sunday evening comes six months after the outbreak of war and further escalates threats to the key waterway."
+    },
+    {
+      "id": "mkt:01a0341e-b45c-7aab-90f9-9d7f5829448f",
+      "time": "2026-08-24 22:13:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Zelensky says Black Sea grain exports 'not completely blocked' — capacity limits and ceasefire probe】Ukraine still has alternative routes — rail, Danube ports and Romania’s Constanta — but their throughput is far below seaborne trade. Prior reports show rail and Danube routes currently each carry about 45% of export volumes; if Black Sea ports remain closed, alternative routes could sustain only roughly half of prior export capacity. ‘Not completely blocked’ therefore does not imply exports are not materially disrupted. Zelensky is also probing a limited, grain-focused ceasefire. Kyiv proposes sequencing: secure grain shipments first — Russia stops strikes on Ukrainian grain ports, vessels and export routes while Ukraine pauses attacks on Russian grain logistics — and has floated third‑country vessels with security guarantees to resume civilian grain shipping. Moscow wants any deal tied to Ukraine halting strikes on Russian energy infrastructure; that linkage is the current sticking point."
+    },
+    {
+      "id": "mkt:01a0341e-9bba-7aab-90f9-9378eaa04a97",
+      "time": "2026-08-24 22:13:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said negotiations must start from the contact line."
+    },
+    {
+      "id": "5055944",
+      "time": "2026-08-24 22:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基尋求就糧食出口進行談判，小麥價格抹去漲幅。"
+    },
+    {
+      "id": "mkt:01a0341e-6d36-7aab-90f9-8c158695b422",
+      "time": "2026-08-24 22:13:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Burnham said the clear message to Russian President Putin is that Ukraine will never cede territory Russia cannot win on the battlefield."
+    },
+    {
+      "id": "5055943",
+      "time": "2026-08-24 22:12:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數下跌3.8%，觸及三週低點。"
+    },
+    {
+      "id": "mkt:01a0341d-9973-7aab-90f9-85207e0c126c",
+      "time": "2026-08-24 22:12:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Prime Minister Burnham: more measures needed to curb Russian oil and LNG exports."
+    },
+    {
+      "id": "mkt:01a0341d-60dc-7aab-90f9-7a9f916e2726",
+      "time": "2026-08-24 22:12:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "British Prime Minister Burnham urged UK industry to back the FREYJA project to develop a lower-cost alternative to the US Patriot system for intercepting ballistic missiles."
+    },
     {
       "id": "mkt:01a0341c-9f49-7aab-90f9-702341505ef3",
       "time": "2026-08-24 22:11:26",
@@ -143401,86 +143517,6 @@
         "DXY"
       ],
       "text": "Ukraine's foreign minister said Russia's state nuclear company Rosatom is not a conventional energy firm but a tool Moscow uses to pursue monopoly in the global nuclear sector, and that new evidence has emerged demonstrating Rosatom is not a reliable partner."
-    },
-    {
-      "id": "5044509",
-      "time": "2026-08-17 22:15:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【搬運50公斤重物 香港科企釋出“生產力工具型”人形機器人】新一代產業級人形機器人“小睿G3”17日在香港釋出。該機器人對標成年人力作業能力，可完成過載搬運、物料轉運、精細操作等任務，具備產業價值。 據介紹，“小睿G3”依託香港公司九光技術全棧自研科技，產品搭載自研AI大腦和全身精密力控系統，突破傳統智慧裝置作業瓶頸，環境適配性與作業穩定性提升，適配各行業實體作業場景。 在釋出會的現場演示中，記者看到“小睿G3”響應語音指令，平穩完成50公斤槓鈴搬運、定點擺放等操作，全程動作流暢、姿態穩定。香港科技園公司行政總裁黃秉修表示，非常高興見證香港本土科技企業在具身智慧和人形機器人領域推出全新成果。人形機器人作為具身智慧的重要載體，是人工智慧和新材料等多學科交叉的前沿賽道，更是培育新生產力、推動新型工業化的關鍵方向。他期待九光立足香港，依託粵港澳大灣區完善的產業鏈，推動人形機器人走出實驗室，實現規模化、商業化應用。（新華社）"
-    },
-    {
-      "id": "mkt:01a01014-3355-7aab-9064-41b94e8bedfd",
-      "time": "2026-08-17 22:15:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chile's central bank sold $64 million of FX forwards at an average rate of 913.67 Chilean pesos per USD."
-    },
-    {
-      "id": "mkt:01a01013-8141-7aab-9064-3d06eeb26a24",
-      "time": "2026-08-17 22:15:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "France's 30-year government bond yield climbed to 4.86%, the highest level in 18 years."
-    },
-    {
-      "id": "5044508",
-      "time": "2026-08-17 22:14:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "比特幣ETFs在8月10日當週發生3.897億美元淨資金外流，創6月末以來最大單週外流。"
-    },
-    {
-      "id": "mkt:01a01013-05c8-7aab-9064-33c33ef876bd",
-      "time": "2026-08-17 22:14:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces (IDF) said overnight a Hamas explosive device detonated in the yellow-line area of the northern Gaza Strip and Hamas fired into the same sector; no Israeli personnel were injured. The IDF said it immediately struck the yellow-line area and called the incident a Hamas violation."
-    },
-    {
-      "id": "5044507",
-      "time": "2026-08-17 22:14:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "法國 30 年期國債收益率回升至 4.86%，創下 18 年新高。"
-    },
-    {
-      "id": "5044506",
-      "time": "2026-08-17 22:14:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭州地產酒局上涉事的招商蛇口高管已被免職】據第一財經8月17日報道，業內知情人士透露，招商蛇口已將其浙江公司總經理趙海峰免職。 在今年七月杭州的一個商務酒局上，趙海峰涉嫌傷害一名女性。目前，趙仍在接受相關部門的調查。"
-    },
-    {
-      "id": "mkt:01a01012-3f5b-7aab-9064-2f0a2e1a5017",
-      "time": "2026-08-17 22:13:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SoftBank has invested $200 million in construction startup Gravis Robotics."
-    },
-    {
-      "id": "5044505",
-      "time": "2026-08-17 22:12:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：軟銀向建築初創企業 Gravis Robotics 投資 2 億美元。"
     }
   ]
 }
