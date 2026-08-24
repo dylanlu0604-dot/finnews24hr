@@ -1,7 +1,61 @@
 {
   "date": "2026-08-24",
-  "count": 2408,
+  "count": 2413,
   "items": [
+    {
+      "id": "mkt:01a03445-dd7d-7aab-90fa-47c07409a865",
+      "time": "2026-08-24 22:56:28",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy kallas proposed imposing tougher sanctions on Russia this autumn."
+    },
+    {
+      "id": "5055990",
+      "time": "2026-08-24 22:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟高階安全代表卡拉斯：透過烏克蘭支援貸款，歐盟已向烏克蘭發放84.7億歐元的國防支援資金，並正在準備更多支援，包括防空援助。 我提議今年秋天對俄羅斯實施更嚴厲的制裁，並進一步收緊對俄羅斯影子船隊的限制。"
+    },
+    {
+      "id": "5055989",
+      "time": "2026-08-24 22:53:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊：威脅伊朗基礎設施，意味著將對美國的能源命脈和重要利益實施沉重打擊。"
+    },
+    {
+      "id": "5055988",
+      "time": "2026-08-24 22:52:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "橋水基金創始人達利歐：馬斯克最引人注目的是他在宏觀層面和細微細節層面都能遊刃有餘地運作。"
+    },
+    {
+      "id": "mkt:01a03442-6be6-7aab-90fa-3b28252c04e1",
+      "time": "2026-08-24 22:52:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Brent",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Deutsche Bank: Oil shock feeding forward inflation, long-end bond pressure returns】Brent rose 6.63% last week to $94.39/bbl and the forward curve is also moving higher. 12-month Brent futures climbed to $79.16/bbl on Friday, a two-month high and nearing the May Iran-conflict peak of $83.58/bbl as markets re-price the risk of a prolonged Strait of Hormuz shutdown and sustained higher energy prices. That has flowed into inflation pricing: U.S. 1‑year inflation swaps jumped 34.5bp last week to 2.24% (largest weekly rise since March); euro‑area 1‑year swaps rose 25bp to 2.71%. Concurrently, 10‑year U.S. Treasury yields rose 4.2bp to 4.73% and 10‑year German bund yields gained 5.4bp to 3.26%. Deutsche Bank notes the energy shock is moving from spot prices into next‑year inflation expectations. Treasury expansion of long‑bond buybacks may ease yield pressure temporarily, but if the oil forward curve remains elevated bond markets will need to price greater inflation uncertainty."
+    },
     {
       "id": "te:markets:577647",
       "time": "2026-08-24 22:51:56",
