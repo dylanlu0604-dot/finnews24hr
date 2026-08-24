@@ -1,7 +1,345 @@
 {
-  "updated": "2026-08-24 18:21:14",
-  "count": 15671,
+  "updated": "2026-08-24 18:32:47",
+  "count": 15737,
   "items": [
+    {
+      "id": "mkt:01a03353-7914-7aab-90f4-cc5bb9b16508",
+      "time": "2026-08-24 18:31:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XPEV.N"
+      ],
+      "text": "XPeng Inc (XPEV.N) reported Q2 revenue of RMB 19.7 billion."
+    },
+    {
+      "id": "5055449",
+      "time": "2026-08-24 18:31:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北斗系統應用廣度深度加快拓展 重點行業綜合應用滲透率約90%】記者從工業和資訊化部瞭解到，近年來，北斗系統在各行業的應用廣度和深度加快拓展，重點行業綜合應用滲透率約90%。據瞭解，工業和資訊化部從2024年正式啟動北斗規模應用試點工作。截至今年上半年，39個城市試點累計推廣北斗獨立定位應用終端超1200萬臺（套）。其中，大眾消費領域超720萬臺（套），工業製造領域超460萬臺（套），融合創新領域超100萬臺（套）。今年1—6月，39個城市在各領域新增北斗獨立定位應用296萬臺（套），同比增長約30%。多個城市在共享兩輪車、巡遊計程車、公務用車、農用機械等特定領域已實現100%應用北斗。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03352-fdda-7aab-90f4-c55387978c51",
+      "time": "2026-08-24 18:31:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "PDD.O",
+        "Impact bearish"
+      ],
+      "text": "Pinduoduo (PDD.O) Q2 revenue 112.4 bln yuan vs. est. 115.2 bln yuan."
+    },
+    {
+      "id": "5055448",
+      "time": "2026-08-24 18:31:00",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "小鵬汽車(XPEV.N)預計第三季度營收將在217億至234億元之間，市場預測為272.6億元。"
+    },
+    {
+      "id": "mkt:01a03352-a606-7aab-90f4-bf407cf7d72e",
+      "time": "2026-08-24 18:30:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.N",
+        "Impact bearish"
+      ],
+      "text": "Xpeng Inc (XPEV.N) said third-quarter revenue is expected at CNY21.7-23.4 billion, versus market consensus of CNY27.26 billion."
+    },
+    {
+      "id": "5055447",
+      "time": "2026-08-24 18:30:43",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【拼多多第二季度營收1,124億元人民幣，預估1,152億元人民幣】拼多多第二季度調整後每ADS收益 19.33元人民幣，預估18.51元人民幣。"
+    },
+    {
+      "id": "te:markets:577578",
+      "time": "2026-08-24 18:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.22% Lower — The SENSEX Index fell 172 points or 0.22 percent on Monday to close at 77369 points. Leading the losses are Bajaj Finance (-1.47%), Bajaj Finserv (-1.40%) and Tata Motors (-1.37%). Top gainers were Tata Steel (1.26%), HCL Tech (1.19%) and Indusind Bank (1.04%)."
+    },
+    {
+      "id": "5055446",
+      "time": "2026-08-24 18:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深天馬A：2026年上半年淨利潤虧損7.28億元，同比由盈轉虧】深天馬A公告，2026年上半年營業收入166.91億元，同比下降4.49%；歸屬於上市公司股東的淨利潤虧損7.28億元，2025年同期為2.06億元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損8.8億元，2025年同期虧損2.51億元。公司不派發現金紅利、不送紅股、不以公積金轉增股本。"
+    },
+    {
+      "id": "5055445",
+      "time": "2026-08-24 18:29:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深中華A：2026年上半年淨利潤1058.3萬元，同比下降43.01%】深中華A公告，2026年上半年營業收入3億元，同比下降6.11%；歸屬於上市公司股東的淨利潤1058.3萬元，同比下降43.01%，2025年上半年為1857.08萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤911.36萬元，同比下降49.19%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5055444",
+      "time": "2026-08-24 18:29:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱萊英：2026年上半年淨利潤5.2億元，同比下降15.71%】凱萊英公告，2026年上半年營業收入36.07億元，同比增長13.13%；歸屬於上市公司股東的淨利潤5.2億元，同比下降15.71%，2025年同期為6.17億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5.25億元，同比下降7.30%。"
+    },
+    {
+      "id": "mkt:01a03351-2f6f-7aab-90f4-b0552618f944",
+      "time": "2026-08-24 18:29:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India lifts wheat export ban, immediately approves shipments】India, one of the world’s largest wheat producers, has lifted a multi-year wheat export ban and immediately approved exports, the Directorate General of Foreign Trade said on Monday. The clearance covers durum wheat, flour and other related products; New Delhi had permitted limited exports in February. The move could ease global wheat supply strains linked to the escalation of the Russia-Ukraine conflict."
+    },
+    {
+      "id": "5055443",
+      "time": "2026-08-24 18:28:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "自然資源部與中國氣象局8月24日18時聯合釋出橙色地質災害氣象風險預警：預計，8月24日20時至25日20時，遼寧東部、浙江東南部、福建東部和南部、廣東東部和中北部、廣西南部、雲南西部、西藏東南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。"
+    },
+    {
+      "id": "5055442",
+      "time": "2026-08-24 18:28:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方路機：2026年上半年淨利潤3213.48萬元，同比下降44.37%】南方路機公告，2026年上半年營業收入4.2億元，同比下降15.84%；歸屬於上市公司股東的淨利潤3213.48萬元，同比下降44.37%，2025年同期5776.24萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2664.28萬元，同比下降41.31%。"
+    },
+    {
+      "id": "5055441",
+      "time": "2026-08-24 18:28:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃山旅遊：2026年上半年淨利潤1.3億元，同比增長2.94%】黃山旅遊公告，2026年上半年營業收入9.88億元，同比增長5.11%；歸屬於上市公司股東的淨利潤1.3億元，同比增長2.94%，2025年上半年為1.27億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.27億元，同比增長2.77%。"
+    },
+    {
+      "id": "5055440",
+      "time": "2026-08-24 18:28:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第五次中韓資訊通訊合作部長級戰略對話在京舉行】第五次中韓資訊通訊合作部長級戰略對話在北京舉行。雙方圍繞下一代資訊通訊技術發展方向、數字包容、無線電頻譜政策等議題進行深入交流。工業和資訊化部部長李樂成與韓國副總理兼科學技術資訊通訊部部長裴慶勳出席會議。"
+    },
+    {
+      "id": "5055439",
+      "time": "2026-08-24 18:26:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【望變電氣：完成向特定物件發行股票 募資淨額2.26億元】望變電氣公告稱，公司向重慶耀澤商業管理有限公司定向發行A股股票1949.32萬股，每股發行價11.71元，募集資金總額2.28億元，扣除不含稅發行費用228.62萬元後，募集資金淨額2.26億元，其中計入實收股本1949.32萬元，計入資本公積（股本溢價）2.06億元。截至2026年8月20日，公司註冊資本及實收股本均變更為3.49億元，其中有限售條件流通股佔比5.58%，無限售條件流通股佔比94.42%。"
+    },
+    {
+      "id": "5055438",
+      "time": "2026-08-24 18:26:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【肯特催化：2026年上半年營收3.35億元 同比增13.28%】肯特催化公告稱，2026年上半年實現營業收入3.35億元，同比增長13.28%；歸屬於上市公司股東的淨利潤4114.42萬元，同比增長4.56%；扣非淨利潤3799.14萬元，同比增長4.63%。公司擬以權益分派股權登記日總股本為基數，每股派發現金紅利0.40元（含稅），不送紅股，不以資本公積金轉增股本。"
+    },
+    {
+      "id": "5055437",
+      "time": "2026-08-24 18:26:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北芯生命：2026年上半年營收3.87億元 淨利同比增88.01%】北芯生命公告稱，2026年上半年實現營業收入3.87億元，同比增長49.35%；歸屬於上市公司股東的淨利潤9296.997萬元，同比增長88.01%；歸屬於上市公司股東的扣除非經常性損益的淨利潤8387.68萬元，同比增長108.00%。基本每股收益0.23元，同比增長64.29%。研發投入佔營業收入的比例為15.31%，同比減少3.94個百分點。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "mkt:01a0334e-5e1a-7aab-90f4-aa83b23c93a7",
+      "time": "2026-08-24 18:26:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Czech foreign minister urges closer ties with Asia to avoid missing economic shift】Czech Foreign Minister Peter Machinka told an annual ambassadors' meeting in Prague on Monday that Czech diplomats must deepen ties beyond traditional allies or risk missing opportunities from the global economic shift toward Asia. He described the world as increasingly multipolar, competitive and transactional and said Czech missions should prioritize economic diplomacy over a values-driven approach — a pragmatic stance that mirrors Prime Minister Andrej Babis’s post-election policy direction."
+    },
+    {
+      "id": "5055436",
+      "time": "2026-08-24 18:25:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金能科技：2026年第二季度精化產品銷量同比增長80.84%】金能科技公告，公司披露2026年第二季度主要經營資料，烯烴產品產量35.62萬噸，同比增長21.96%，銷量34.09萬噸，同比增長5.93%，銷售收入26.25億元，同比增長25.16%；炭黑產品產量14.97萬噸，同比下降14.04%，銷量17.73萬噸，同比下降9.58%，銷售收入11.77億元，同比增長3.28%；煤焦產品產量36.67萬噸，同比增長13.66%，銷量38.03萬噸，同比增長11.59%，銷售收入6.58億元，同比增長30.78%；精化產品產量8441.01噸，同比增長48.51%，銷量8728.24噸，同比增長80.84%，銷售收入1.4億元，同比增長71.32%。"
+    },
+    {
+      "id": "5055435",
+      "time": "2026-08-24 18:25:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金能科技：2026年上半年淨利潤虧損5.89億元，同比由盈轉虧】金能科技公告，2026年上半年營業收入85.24億元，同比下降0.28%；歸屬於上市公司股東的淨利潤虧損5.89億元，2025年同期淨利潤2643.49萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損6.1億元，2025年同期虧損3286.12萬元，同比不適用。"
+    },
+    {
+      "id": "5055434",
+      "time": "2026-08-24 18:24:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬機器人宣佈完成首輪融資，何小鵬：努力將第一個高階人形機器人帶入現實】8月24日晚間訊息，小鵬集團董事長、CEO何小鵬今日在朋友圈發文，談及小鵬機器人業務宣佈完成首輪融資一事。何小鵬表示，感謝所有投資人、領導、鵬友和同學們的信任和支援。不遠的將來，小鵬會努力將第一個高階人形機器人帶入到真正的現實，她會和市面上所有看到的機器人都不一樣。更擬人，更安全，不用遙控器，可自然互動，有自己的記憶，真正創造價值，不是演示而是真正量產，走到現實。今日，小鵬機器人業務宣佈完成首輪超9億美元融資，投後估值超63億美元（約430億元人民幣），重新整理中國具身智慧行業單輪私募股權融資紀錄。本輪融資由IDG資本領投，高榕創投參投，同時獲得騰訊和阿里巴巴兩家戰略投資者的支援；小鵬集團將繼續控股機器人業務。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a0334d-020e-7aab-90f4-a32e1c711a03",
+      "time": "2026-08-24 18:24:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Interbank quotes showed CZK/EUR climbed above 24.100, the highest level since Sep 2023."
+    },
+    {
+      "id": "5055433",
+      "time": "2026-08-24 18:24:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱賽生物：山西科創城投擬減持不超過2%】凱賽生物公告，山西科技創新城投資開發有限公司持有公司4014萬股，佔總股本5.57%，擬於2026年9月15日～2026年12月14日透過大宗交易方式減持不超過1442.58萬股，佔總股本不超過2%，減持原因為自身資金需求。"
+    },
+    {
+      "id": "5055432",
+      "time": "2026-08-24 18:23:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唯萬密封：擬投資不超1.5億元建設高效能聚氨酯專案】唯萬密封公告，公司擬以全資子公司浙江唯萬新材料有限公司為實施主體，建設高效能聚氨酯新材料研發生產專案，計劃投資總額不超過人民幣1.5億元，預計形成年產4000噸高效能聚氨酯新材料的生產能力，預計建設週期3年。"
+    },
+    {
+      "id": "5055431",
+      "time": "2026-08-24 18:23:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優博訊：2026年上半年淨利潤9483.88萬元，同比增長114.31%】優博訊公告，2026年上半年營業收入9.86億元，同比增長32.91%；歸屬於上市公司股東的淨利潤9483.88萬元，同比增長114.31%，2025年同期為4425.33萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤9212.3萬元，同比增長120.75%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5055430",
+      "time": "2026-08-24 18:23:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唯萬密封：2026年上半年淨利潤6859.03萬元，同比增長42.83%】唯萬密封公告，2026年上半年營業收入4.45億元，同比增長15.35%；歸屬於上市公司股東的淨利潤6859.03萬元，同比增長42.83%，2025年上半年為4802.31萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤6798.79萬元，同比增長50.20%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5055429",
+      "time": "2026-08-24 18:23:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部材料：2026年上半年淨利潤4479.1萬元，同比下降26.77%】西部材料公告，2026年上半年營業收入13.64億元，同比下降11.39%；歸屬於上市公司股東的淨利潤4479.1萬元，同比下降26.77%，2025年同期為6116.46萬元；扣非淨利潤2900.33萬元，同比下降39.53%。公司擬以4.88億股為基數，每10股派發現金紅利0.5元（含稅）。"
+    },
+    {
+      "id": "5055428",
+      "time": "2026-08-24 18:23:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電動汽車充電設施超2000萬個】8月24日，國家能源局釋出2026年7月全國電動汽車充電設施資料。根據國家充電設施監測服務平臺資料，截至2026年7月底，我國電動汽車充電基礎設施（槍）總數達到2368.3萬個，同比增長41.9%。其中，公共充電設施（槍）509.9萬個，同比增長21.3%，額定總功率達到2.55億千瓦，單槍平均功率約為49.97千瓦；私人充電設施（槍）1858.4萬個，同比增長48.8%，私人充電設施報裝用電容量達到1.60億千伏安。"
+    },
+    {
+      "id": "5055427",
+      "time": "2026-08-24 18:23:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印度尼西亞阿馬海東南偏南 207 公里處發生 5.5 級地震。"
+    },
+    {
+      "id": "5055426",
+      "time": "2026-08-24 18:22:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美迪西：2026年上半年淨利潤5160.24萬元，同比扭虧為盈】美迪西公告，2026年上半年營業收入7.61億元，同比增長40.91%；歸屬於上市公司股東的淨利潤5160.24萬元，2025年同期虧損1289.84萬元，實現扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤4302.68萬元，2025年同期虧損2673.04萬元。"
+    },
+    {
+      "id": "5055425",
+      "time": "2026-08-24 18:22:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九安醫療：2026年上半年淨利潤30.7億元，同比增長233.66%】九安醫療公告，2026年上半年營業收入5.31億元，同比下降30.58%；歸屬於上市公司股東的淨利潤30.7億元，同比增長233.66%，2025年同期為9.2億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤30.4億元，同比增長245.17%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5055424",
+      "time": "2026-08-24 18:21:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順豐控股：擬增資豐巢控股不超過3.05億元】順豐控股(002352.SZ)公告稱，公司境外全資子公司亮越有限擬行使優先認購權，以每股2.8489元認購豐巢控股4682.91萬股A類普通股，認購價款約1.33億元。同時，董事會同意亮越有限在總認購價款不超過3.05億元的前提下行使超額優先認購權。假設以授權上限行使，本次合計認購約1.07億股，交易後持股比例約10.03%。豐巢控股為公司實際控制人王衛控制的主體，本次交易構成關聯交易。"
+    },
+    {
+      "id": "5055423",
+      "time": "2026-08-24 18:20:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大有能源：2026年上半年淨利潤虧損6.43億元，2025年上半年虧損8.51億元】大有能源公告，2026年上半年營業收入21.6億元，同比增長12.51%；歸屬於上市公司股東的淨利潤虧損6.43億元，2025年上半年同期虧損8.51億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損6.44億元，2025年上半年同期虧損8.68億元。"
+    },
+    {
+      "id": "5055422",
+      "time": "2026-08-24 18:20:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【燕東微：2026年上半年淨利潤虧損4.35億元，同比由盈轉虧】燕東微公告，2026年上半年營業收入9.79億元，同比增長48.50%；歸屬於上市公司股東的淨利潤虧損4.35億元，2025年上半年淨利潤1.28億元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損5.39億元，2025年上半年虧損3.9億元。"
+    },
+    {
+      "id": "5055421",
+      "time": "2026-08-24 18:20:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華恒生物：2026年上半年淨利潤1.01億元，同比下降12.22%】華恒生物公告，2026年上半年營業收入16.32億元，同比增長9.61%；歸屬於上市公司股東的淨利潤1.01億元，同比下降12.22%，2025年同期為1.15億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤9640.55萬元，同比下降15.99%。"
+    },
+    {
+      "id": "5055420",
+      "time": "2026-08-24 18:20:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛克股份：2026年上半年淨利潤虧損2786.84萬元，上年同期虧損1203.36萬元】愛克股份公告，2026年上半年營業收入6.19億元，同比增長16.61%；歸屬於上市公司股東的淨利潤虧損2786.84萬元，虧損較2025年同期擴大131.59%；扣非淨利潤虧損3330.81萬元，虧損較2025年同期擴大140.93%。"
+    },
+    {
+      "id": "5055419",
+      "time": "2026-08-24 18:20:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大業股份：2026年上半年淨利潤虧損6399.14萬元，同比由盈轉虧】大業股份公告，2026年上半年營業收入24.63億元，同比下降2.31%；歸屬於上市公司股東的淨利潤虧損6399.14萬元，2025年同期為4239.79萬元，由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損7007.77萬元，虧損較2025年同期擴大373.49%。"
+    },
+    {
+      "id": "5055418",
+      "time": "2026-08-24 18:20:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九洲集團：2026年上半年淨利潤2334.76萬元，同比下降45.47%】九洲集團公告，2026年上半年營業收入6.13億元，同比下降10.58%；歸屬於上市公司股東的淨利潤2334.76萬元，同比下降45.47%，2025年同期為4281.5萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2101.66萬元，同比下降51.23%。"
+    },
+    {
+      "id": "5055417",
+      "time": "2026-08-24 18:20:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【粵高速Ａ：2026年上半年淨利潤8.5億元，同比下降19.58%】粵高速Ａ公告，2026年上半年營業收入21.19億元，同比增長0.05%；歸屬於上市公司股東的淨利潤8.5億元，2025年同期為10.57億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤8.47億元，同比增長5.99%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
     {
       "id": "5055416",
       "time": "2026-08-24 18:20:02",
@@ -25,6 +363,16 @@
         "公司"
       ],
       "text": "【東南電子：2026年上半年淨利潤1795.91萬元，同比下降16.81%】東南電子公告，2026年上半年營業收入2.04億元，同比增長31.76%；歸屬於上市公司股東的淨利潤1795.91萬元，同比下降16.81%，2025年同期為2158.86萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1441.94萬元，同比下降26.44%。"
+    },
+    {
+      "id": "mkt:01a03348-aae5-7aab-90f4-9ae821091876",
+      "time": "2026-08-24 18:19:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Fidelity International denies reports it will exit mainland China mutual fund business】Market reports said Fidelity International planned to exit its wholly owned mainland China mutual fund business, citing intense local competition, frequent leadership turnover and long-term difficulty scaling; any such arrangement was described as under discussion and would require regulatory approval. On Aug. 21 Fidelity International said it continues to view China as an important, attractive long-term market and has no reportable changes to its strategy or market footprint."
     },
     {
       "id": "5055413",
@@ -67,6 +415,16 @@
       "text": "【兩部門釋出山洪災害紅色預警】水利部和中國氣象局8月24日18時聯合釋出紅色山洪災害氣象預警：預計，8月24日20時至25日20時，內蒙古西部、黑龍江北部、福建東部等地部分地區發生山洪災害可能性大（橙色預警），其中，福建東部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）"
     },
     {
+      "id": "mkt:01a03347-8e5e-7aab-90f4-93d70074f39e",
+      "time": "2026-08-24 18:18:42",
+      "tags": [
+        "MKT News",
+        "MRVL.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raises MARVELL (MRVL.O) PT to $310 from $240."
+    },
+    {
       "id": "5055408",
       "time": "2026-08-24 18:18:36",
       "tags": [
@@ -89,6 +447,18 @@
         "公司"
       ],
       "text": "【雙一科技：2026年上半年營收5.98億元 淨利同比增34.40%】雙一科技公告稱，2026年上半年實現營業收入5.98億元，同比增長13.98%；歸屬於上市公司股東的淨利潤1.34億元，同比增長34.40%；扣非淨利潤7541.37萬元，同比下降12.44%。公司擬以165,348,919股為基數，向全體股東每10股派發現金紅利1.2元（含稅），不送紅股，不以公積金轉增股本。此外，公司透過雙一衡潤間接參股的琻捷電子於2026年6月17日在港交所主機板上市，截至2026年6月30日，對應持股公允價值為7613.88萬元，相關損益存在不確定性。"
+    },
+    {
+      "id": "mkt:01a03347-49a9-7aab-90f4-8988b52608e1",
+      "time": "2026-08-24 18:18:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "IEA says even if the Strait of Hormuz reopens, the global energy landscape will not return to its former state."
     },
     {
       "id": "5055405",
@@ -130,6 +500,14 @@
         "市場"
       ],
       "text": "【科達製造：擬投建非洲兩建材專案 總投資約4.63億元】科達製造公告稱，公司擬透過自籌資金投資迦納陶瓷潔具二期、塞內加爾建築陶瓷三期兩個非洲建材專案，預計總投資約6824.76萬美元，摺合約4.63億元。其中迦納專案投資約1.60億元，新建年產193萬件建築衛生陶瓷潔具生產線，建設期10個月；塞內加爾專案投資約3.04億元，新建年產1031萬平方米建築陶瓷磚生產線，建設期8個月，兩專案均預計2026年9月1日開工。本次投資已經公司董事會審議透過，無需提交股東會審議，不構成關聯交易及重大資產重組，尚需完成專案相關備案手續。"
+    },
+    {
+      "id": "mkt:01a03346-5a0a-7aab-90f4-87f136778300",
+      "time": "2026-08-24 18:17:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Khuzestan Steel Company, one of Iran's largest steelmakers, has resumed operations on a production line."
     },
     {
       "id": "5055400",
@@ -178,6 +556,19 @@
         "公司"
       ],
       "text": "【新潔能：2026年上半年淨利潤2.33億元，同比下降0.75%】新潔能公告，2026年上半年營業收入11.67億元，同比增長25.57%；歸屬於上市公司股東的淨利潤2.33億元，同比下降0.75%，2025年同期2.35億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.94億元，同比下降6.49%，2025年同期2.07億元。"
+    },
+    {
+      "id": "mkt:01a03345-2af2-7aab-90f4-7a56a55b37ef",
+      "time": "2026-08-24 18:16:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "XPEV.N",
+        "Impact mixed"
+      ],
+      "text": "XPeng (XPEV.N): its AI robot IRON is expected to enter mass production by end-2026."
     },
     {
       "id": "5055394",
@@ -422,6 +813,14 @@
       "text": "【立霸股份：蔣達偉擬減持公司不超過3%股份】立霸股份公告，控股股東、實控人及一致行動人蔣達偉持有公司1178.99萬股，佔總股本4.43%，擬於2026年9月16日～2026年12月15日透過集中競價及大宗交易減持不超過798.98萬股，佔總股本不超過3%。其中，集中競價減持不超過266.33萬股，大宗交易減持不超過532.66萬股，減持原因為個人資金需求。"
     },
     {
+      "id": "mkt:01a0333e-6097-7aab-90f4-77201122b108",
+      "time": "2026-08-24 18:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's central bank governor said over the past two difficult months authorities have successfully contained an acceleration in inflation, and the pace of liquidity growth has stopped rising."
+    },
+    {
       "id": "5055364",
       "time": "2026-08-24 18:08:32",
       "tags": [
@@ -492,6 +891,16 @@
         "公司"
       ],
       "text": "【聯合動力：2026年上半年營收95.12億元 淨虧損0.88億元】聯合動力公告稱，2026年上半年實現營業收入95.12億元，同比增長3.98%；歸屬於上市公司股東的淨虧損0.88億元，同比下降116.05%；扣除非經常性損益的淨虧損1.39億元，同比下降126.93%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。業績承壓主要受行業競爭加劇、核心原材料漲價、減值損失增加及全資子公司補繳稅款等因素影響。"
+    },
+    {
+      "id": "mkt:01a0333c-90eb-7aab-90f4-69973391d981",
+      "time": "2026-08-24 18:06:42",
+      "tags": [
+        "MKT News",
+        "OZON.O",
+        "Impact bearish"
+      ],
+      "text": "【Ukrainian drone strikes hit Ozon logistics centers in multiple Russian regions】In the early hours of Aug 24 local time, Ukraine launched large-scale drone strikes on several Russian regions, damaging Ozon logistics centers in Krasnodar Krai, the Republic of Adygea, the Republic of Dagestan and Stavropol Krai and sparking fires. Ozon said it has begun evacuating affected warehouse staff; some products have been removed from the platform and orders have been canceled or rerouted."
     },
     {
       "id": "5055355",
@@ -648,6 +1057,22 @@
       "text": "【寧波遠洋：完成向特定物件發行A股股票 募資10.86億元】寧波遠洋公告稱，公司完成2026年向特定物件發行A股股票，發行數量1.45億股，發行價格7.47元/股，募集資金總額10.86億元，募集資金淨額10.79億元。發行物件為寧波舟山港股份有限公司、北部灣港股份有限公司，各認購7270.19萬股，限售期均為36個月。新增股份已於2026年8月21日完成股份登記、託管及限售手續。本次發行完成後，公司總股本增至14.54億股，寧波舟山港持股比例降至70.61%，仍為控股股東，北部灣港持股比例為5.00%。"
     },
     {
+      "id": "mkt:01a03339-9757-7aab-90f4-6271ed1dbd0e",
+      "time": "2026-08-24 18:03:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Shanghai to boost intelligent computing capacity, explore heterogeneous, optical and quantum AI architectures】Shanghai issued its 15th Five-Year Plan to accelerate new industrialization and build a modern industrial system. The plan calls for rapidly expanding intelligent computing capacity: develop high-performance, low-power, efficient AI chips; strengthen cluster networking and cloud services; and explore heterogeneous computing, optical computing and quantum AI architectures. It directs optimisation of computing infrastructure and construction of an urban compute network. The plan prioritises next‑generation large-model R&D—targeting architecture design and training optimisation—and promotes coordinated development of chips, large models and compute-cloud to build an indigenous ecosystem. It also accelerates embodied-intelligence technology maturation and a full-chain layout for intelligent robotics, improving key components and pushing real-world deployment across industrial manufacturing, logistics and assembly, retail, healthcare and domestic services."
+    },
+    {
       "id": "5055337",
       "time": "2026-08-24 18:03:19",
       "tags": [
@@ -672,6 +1097,14 @@
       "text": "【上海：以“智慧+”啟用新要素空間 加快構建以先進製造業為骨幹的現代化產業體系】上海市人民政府印發《上海市加快推進新型工業化構建現代化產業體系“十五五”規劃》。其中提到，聚焦高質量發展主題，圍繞新質生產力發展主線，堅持製造強市，著力推動科技創新與產業創新深度融合、工業化與數智化深度融合、先進製造業與現代服務業深度融合，堅持以創新正規化開闢新技術空間，以“智慧+”啟用新要素空間，以產業生態開啟新增長空間，以開放合作贏得新市場空間，加快構建以先進製造業為骨幹的現代化產業體系，探索走出一條具有國際大都市特色的新型工業化道路，為製造強國建設貢獻上海力量。到2030年，與上海城市功能和高質量發展相適應的工業經濟綜合實力進一步增強，為提升國際經濟中心地位和全球影響力提供堅實支撐。智慧化、綠色化、融合化發展取得重大進展，先導產業和新興支柱產業構築新動能新優勢，未來產業加快成為新增長點，培育一批具有全球技術話語權的領軍企業、先鋒企業，輻射帶動長三角形成若干世界級先進製造業叢集，基本建成勇擔國家戰略、產品硬核高階、發展正規化引領、產業生態優越的卓越智造之城。"
     },
     {
+      "id": "mkt:01a03339-30e9-7aab-90f4-5b84039222a8",
+      "time": "2026-08-24 18:03:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Total CEO said the company will invest in Abu Dhabi to expand the Fujairah export pipeline."
+    },
+    {
       "id": "5055334",
       "time": "2026-08-24 18:02:48",
       "tags": [
@@ -686,6 +1119,29 @@
         "公司"
       ],
       "text": "【賽福天：2026年上半年淨利潤虧損3243.77萬元，同比由盈轉虧】賽福天公告，2026年上半年營業收入5.95億元，同比下降43.89%；歸屬於上市公司股東的淨利潤虧損3243.77萬元，2025年同期為308.29萬元。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3420.72萬元，2025年同期為179.25萬元。"
+    },
+    {
+      "id": "mkt:01a03338-a031-7aab-90f4-51275b942701",
+      "time": "2026-08-24 18:02:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "PBOC: At end-July 2026 the Shanghai Composite Index closed at 3,832.3, down 6.4% MoM; the Shenzhen Composite Index closed at 13,578.9, down 16.2% MoM. In July 2026 average daily turnover across the two exchanges was CNY 2,685.9 bln, down 13.8% MoM."
+    },
+    {
+      "id": "mkt:01a03338-92f6-7aab-90f4-4fe7281bd080",
+      "time": "2026-08-24 18:02:20",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【PBOC: July daily average interbank borrowing 323.29 bln yuan, -24.3% YoY】PBOC reported July 2026 financial-market data. Daily average interbank borrowing turnover was 323.29 bln yuan, down 24.3% YoY; interbank bond repo daily average turnover was 6.5 tln yuan, down 14.2% YoY. End-July outstanding balances: interbank borrowing 1.0 tln yuan; interbank bond repo 9.8 tln yuan. DR001 (overnight pledged repo among deposit-taking institutions) monthly weighted average rate 1.39%, +1 bp MoM; DR007 1.43%, -2 bps MoM; R001 (interbank overnight repo) 1.42%, broadly unchanged MoM. Daily average spreads: DR001 vs PBOC 7-day reverse repo -1 bp; R001 vs DR001 +3 bps."
     },
     {
       "id": "5055332",
@@ -808,12 +1264,42 @@
       "text": "【中使館提醒中國公民切勿前往南基伍省等剛果（金）東部地區】近期，剛果（金）東部南基伍省安全形勢持續惡化。8月以來，該省卡萊赫（Kalehe）、卡巴雷（Kabare）、瓦倫古（Walungu）、菲濟（Fizi）、米內姆布韋（Minembwe）等地多次發生軍事衝突。8月21日，瓦倫古地區倫相簿盧（Luntukulu）一帶爆發激烈交火，並造成當地人員傷亡和財產損失。有關地區戰事頻繁、局勢複雜多變，存在流彈、炮擊、無人機襲擊、道路受阻、通訊中斷及平民被裹挾等嚴重安全風險。駐剛果（金）使館再次提醒在剛中國公民和企業務必高度重視當前形勢，切勿前往南基伍、北基伍、伊圖裡、上韋萊等省，亦不得從盧安達、烏干達、蒲隆地、坦尚尼亞、尚比亞、中非等國越境前往上述地區，仍在剛果（金）東部地區駐留的中國公民和企業應儘快撤離。"
     },
     {
+      "id": "mkt:01a03333-e16e-7aab-90f4-4689cd67659c",
+      "time": "2026-08-24 17:57:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Total CEO said crude oil fundamentals are bearish, while refined products—particularly diesel—are bullish."
+    },
+    {
+      "id": "mkt:01a03333-a756-7aab-90f4-389a39ea503f",
+      "time": "2026-08-24 17:56:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09863.HK",
+        "Impact bullish"
+      ],
+      "text": "Leapmotor (09863.HK) reported 1H net profit of RMB 210 million, marking consecutive semiannual profitability."
+    },
+    {
       "id": "5055317",
       "time": "2026-08-24 17:56:53",
       "tags": [
         "公司"
       ],
       "text": "【吉視傳媒：2026年上半年淨利潤虧損2.2億元，2025年上半年虧損2.32億元】吉視傳媒公告，2026年上半年營業收入10.14億元，同比增長1.73%；歸屬於上市公司股東的淨利潤虧損2.2億元，2025年上半年虧損2.32億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2.25億元，虧損較2025年上半年收窄2.78%。"
+    },
+    {
+      "id": "mkt:01a03333-873a-7aab-90f4-3287bf57340b",
+      "time": "2026-08-24 17:56:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TotalEnergies CEO said a VLCC round-trip via the Strait of Hormuz carries roughly $20m in freight and insurance. He added that, with producers \"eager to find buyers\", TotalEnergies is buying crude inside the Persian Gulf at about $50-60/bbl, and those purchases remain profitable."
     },
     {
       "id": "5055316",
@@ -840,6 +1326,20 @@
       "text": "零跑汽車：上半年淨利潤2.084億元人民幣。"
     },
     {
+      "id": "mkt:01a03332-d192-7aab-90f4-2a20f796a20d",
+      "time": "2026-08-24 17:56:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran rial slump creates conditions for Trump's \"economic showdown\"】Iran’s rial tumbled to a record low on Monday, heightening inflationary pressure and household cost stress. Further depreciation would likely accelerate inflation and deepen economic strain; past shocks have triggered large protests that were ultimately suppressed, but a prolonged crisis could push Iran toward a dangerous tipping point. The UAE has suspended trade with Iran in recent days, removing a key sanctions-era trade buffer. Market signals to watch: Iranian oil exports, purchases by major consumers, and the rial exchange rate — simultaneous deterioration would support Washington’s claim that current pressure is more effective, while improvement would feed doubts about Trump’s Iran strategy."
+    },
+    {
       "id": "5055313",
       "time": "2026-08-24 17:55:59",
       "tags": [
@@ -856,6 +1356,16 @@
       "text": "【上證科創板電池主題指數將釋出】上海證券交易所和中證指數有限公司將於2026年8月25日正式釋出上證科創板電池主題指數，為市場提供更豐富的投資標的。上證科創板電池主題指數從科創板市場中選取業務涉及動力電池、儲能電池、消費電子電池以及新興技術電池相關產業鏈上下游的上市公司證券作為指數樣本，以反映科創板市場電池領域上市公司證券的整體表現。（上交所）"
     },
     {
+      "id": "mkt:01a03332-8a3b-7aab-90f4-231605b162d9",
+      "time": "2026-08-24 17:55:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai Stock Exchange, China Securities Index Co. to launch STAR Market Battery Theme Index on Aug 25, 2026】Shanghai Stock Exchange and China Securities Index Co. will publish the STAR Market Battery Theme Index on Aug 25, 2026, creating a new investable benchmark for battery-related securities on the STAR Market. The index will include STAR Market-listed companies whose businesses span power batteries, energy-storage batteries, consumer-electronics batteries and emerging battery technologies, covering upstream and downstream supply‑chain securities to reflect the sector’s overall performance."
+    },
+    {
       "id": "5055311",
       "time": "2026-08-24 17:55:36",
       "tags": [
@@ -863,6 +1373,14 @@
         "焦點"
       ],
       "text": "雷軍：我們設計了一款小米AI Cube 原型機，桌面AI高算力終端，搭載O3、O100和D100 三顆晶片，完成大模型本地計算。 部署了 120B和 3B 雙大模型，支援快慢系統切換，計算速度非常快。外觀採用航天鋁一體成型設計，透過CNC精密鏤空了超過33874個蜂窩散熱孔。 三款晶片已完成全部設計和驗證。玄戒O3在小米18 Fold上首發，O100和D100 明年量產應用。"
+    },
+    {
+      "id": "mkt:01a03332-1ad3-7aab-90f4-186fa2e2e462",
+      "time": "2026-08-24 17:55:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian sugar industry official says inventories are ample and supplies can meet festival-season demand."
     },
     {
       "id": "5055310",
@@ -879,6 +1397,14 @@
         "國際"
       ],
       "text": "印度糖業官員：庫存及供應充足，可滿足節日需求。"
+    },
+    {
+      "id": "mkt:01a03331-dd3a-7aab-90f4-113cd0a13548",
+      "time": "2026-08-24 17:55:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian sugar industry official says there is no sugar shortage in India and supply fundamentals remain strong."
     },
     {
       "id": "5055308",
@@ -1030,6 +1556,27 @@
       "text": "【華潤微：2026年上半年淨利潤7.22億元，同比增長113.23%】華潤微公告，2026年上半年營業收入61.28億元，同比增長17.44%；歸屬於上市公司股東的淨利潤7.22億元，同比增長113.23%，2025年同期為3.39億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.14億元，同比增長51.48%。公司擬每10股派發現金紅利0.56元（含稅），預計派發現金紅利總額為7437.98萬元（含稅）。"
     },
     {
+      "id": "mkt:01a0332e-6c54-7aab-90f4-0b696e1efccf",
+      "time": "2026-08-24 17:51:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's military said it struck a Russian military factory in Russia's Rostov region."
+    },
+    {
+      "id": "mkt:01a0332e-5c8d-7aab-90f4-03e2a42ead17",
+      "time": "2026-08-24 17:51:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bullish"
+      ],
+      "text": "【Joseph Tsai, Wu Yongming buy HKD120 mln of Alibaba stock】HKEX filings show that after Alibaba (09988.HK) announced a HKD80 billion new share placement, chairman Joseph Tsai and CEO Wu Yongming bought a combined ~HKD120 million of Hong Kong-listed Alibaba shares. Tsai bought 720,000 shares at an average HKD112, spending about HKD80 million; CEO Wu bought 350,000 shares at an average HKD111.6, spending about HKD40 million. Total purchases: 1,070,000 shares for roughly HKD120 million."
+    },
+    {
       "id": "5055288",
       "time": "2026-08-24 17:51:00",
       "tags": [
@@ -1044,6 +1591,15 @@
         "公司"
       ],
       "text": "【大宏立：2026年上半年淨利潤2863.31萬元，同比增長217.47%】大宏立公告，2026年上半年營業收入2.2億元，同比增長21.81%；歸屬於上市公司股東的淨利潤2863.31萬元，同比增長217.47%，2025年同期為901.92萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2535.81萬元，同比增長299.33%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a0332d-edcb-7aab-90f3-fec0bdb50e2a",
+      "time": "2026-08-24 17:50:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's state reserves website said the second 2026 competitive procurement of central reserve frozen beef and mutton will total 300 tonnes."
     },
     {
       "id": "5055286",
@@ -1142,6 +1698,18 @@
       "text": "據悉，希音 18 億美元香港 IPO 首日認購已足額覆蓋。"
     },
     {
+      "id": "mkt:01a0332b-ba5f-7aab-90f3-f5fa32048eb2",
+      "time": "2026-08-24 17:48:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "According to an HKEX filing, Tencent repurchased 680,000 shares on Aug 24 for HKD 300.2 mln."
+    },
+    {
       "id": "5055273",
       "time": "2026-08-24 17:48:07",
       "tags": [
@@ -1199,6 +1767,16 @@
       "text": "道達爾公司執行長：原油今天正“非常安靜地”透過霍爾木茲海峽。"
     },
     {
+      "id": "mkt:01a0332a-16a2-7aab-90f3-e848d9d136f0",
+      "time": "2026-08-24 17:46:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Total CEO says crude oil shipments through the Strait of Hormuz are currently being transported \"very quietly\"."
+    },
+    {
       "id": "5055266",
       "time": "2026-08-24 17:45:53",
       "tags": [
@@ -1239,6 +1817,16 @@
       "text": "【聚石化學：2026年上半年營收16.83億元 同比降14.88%】聚石化學公告稱，2026年上半年實現營業收入16.83億元，同比下降14.88%；歸屬於上市公司股東的淨虧損1.05億元，上年同期為盈利287.40萬元；歸屬於上市公司股東的扣除非經常性損益的淨虧損1.12億元。基本每股收益-0.8637元/股，加權平均淨資產收益率-9.58%。報告期內無利潤分配預案，公司控股股東及實際控制人於2026年1月25日變更為廣州市石磐石科技有限公司、陳鋼。"
     },
     {
+      "id": "mkt:01a03328-3bf5-7aab-90f3-e71f176ae107",
+      "time": "2026-08-24 17:44:29",
+      "tags": [
+        "MKT News",
+        "09903.HK",
+        "Impact bullish"
+      ],
+      "text": "Tianshu Zhixin (09903.HK) will be added to the Hang Seng TECH Index constituents, effective Sept 7, 2026."
+    },
+    {
       "id": "5055261",
       "time": "2026-08-24 17:44:21",
       "tags": [
@@ -1246,6 +1834,15 @@
         "市場"
       ],
       "text": "天數智芯(09903.HK)：公司被納入恒生科技指數成份股，於2026年9月7日起生效。"
+    },
+    {
+      "id": "mkt:01a03327-7b0b-7aab-90f3-d88aec5eab47",
+      "time": "2026-08-24 17:43:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "A French government spokesman said bond-market tensions require a serious approach to parliamentary budget negotiations."
     },
     {
       "id": "5055260",
@@ -1286,6 +1883,14 @@
         "國際"
       ],
       "text": "【歐盟新批准61億歐元對烏克蘭軍援】歐盟委員會24日批准向烏克蘭提供61億歐元國防援助，用於採購烏克蘭急需的導彈防禦系統、彈藥和雷達等。歐盟委員會當天發表宣告說，此次採購的大部分裝備來自歐盟防務企業。歐盟將透過調配庫存、調整訂單優先次序和擴大生產等方式，大幅增加對烏克蘭的裝備交付。宣告說，這筆資金出自歐盟向烏克蘭提供的900億歐元烏克蘭援助貸款。歐盟4月正式批准向烏克蘭提供900億歐元貸款，為烏提供2026年至2027年的財政與軍事支援。宣告說，自2022年以來，歐盟及其成員國已向烏克蘭提供總計2202億歐元支援，其中38億歐元來自被凍結俄羅斯資產產生的收益。（新華社）"
+    },
+    {
+      "id": "mkt:01a03326-2802-7aab-90f3-d252217f22ed",
+      "time": "2026-08-24 17:42:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry: UK ambassador and staff returned to Tehran】Aug 24 — At a press briefing, Iran's foreign ministry was asked whether the UK embassy in Tehran remained closed after reports the ambassador and staff had left. A ministry spokesman said they returned two weeks ago and appeared to have been on leave."
     },
     {
       "id": "5055255",
@@ -1401,6 +2006,14 @@
       "text": "【傑克科技：2026年上半年營收39.21億元 淨利同比增3.01%】傑克科技公告稱，2026年上半年實現營業收入39.21億元，同比增長16.24%；歸屬於上市公司股東的淨利潤4.92億元，同比增長3.01%；扣非淨利潤4.44億元，同比增長1.06%。公司擬以權益分派股權登記日總股本扣除回購專戶股份後的總數為基數，向全體股東每10股派發現金股利3.00元（含稅），不送紅股，不進行資本公積金轉增股本，合計擬派發現金紅利1.38億元（含稅）。"
     },
     {
+      "id": "mkt:01a03323-03f0-7aab-90f3-cab70770f4ba",
+      "time": "2026-08-24 17:38:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu urged voters not to waste votes on small parties likely to miss the electoral threshold, warning that wasted votes could allow the left to take power and urging support for Likud to protect the right."
+    },
+    {
       "id": "5055241",
       "time": "2026-08-24 17:38:25",
       "tags": [
@@ -1426,6 +2039,18 @@
         "中國央行"
       ],
       "text": "【央行：8月25日將開展5000億元MLF操作】為保持銀行體系流動性充裕，2026年8月25日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展5000億元MLF操作，期限為1年期。"
+    },
+    {
+      "id": "mkt:01a03322-2abd-7aab-90f3-c59b11f782d0",
+      "time": "2026-08-24 17:37:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "On Aug 25, 2026 the PBOC will conduct a 500 billion yuan, 1-year MLF via a fixed-quantity, interest-rate tender with multiple-price allotment."
     },
     {
       "id": "5055239",
@@ -1506,6 +2131,16 @@
         "公司"
       ],
       "text": "【一鳴食品：2026年上半年淨利潤3901.13萬元，同比增長21.09%】一鳴食品公告，2026年上半年營業收入13.9億元，同比下降0.85%；歸屬於上市公司股東的淨利潤3901.13萬元，同比增長21.09%，2025年同期3221.72萬元；扣非淨利潤3961.28萬元，同比增長22.89%。公司擬每10股派發現金股利0.3元，預計共分配利潤1203萬元。"
+    },
+    {
+      "id": "mkt:01a0331f-c5ca-7aab-90f3-b964dc3fd228",
+      "time": "2026-08-24 17:35:15",
+      "tags": [
+        "MKT News",
+        "01772.HK",
+        "Impact bearish"
+      ],
+      "text": "According to an HKEX filing, BlackRock's reported long position in Ganfeng Lithium (01772.HK) fell to 7.36% on Aug 19 from 8.52%."
     },
     {
       "id": "5055229",
@@ -1644,6 +2279,18 @@
       "text": "【習近平同約旦國王阿卜杜拉二世共同出席合作檔案簽字儀式】8月24日，國家主席習近平同約旦國王阿卜杜拉二世在北京共同出席合作檔案簽字儀式。（新華社）"
     },
     {
+      "id": "mkt:01a0331d-225f-7aab-90f3-b6249eb72206",
+      "time": "2026-08-24 17:32:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY: Over the past 24 hours, 'Eastern' forces inflicted losses exceeding 315 Ukrainian personnel."
+    },
+    {
       "id": "5055212",
       "time": "2026-08-24 17:32:13",
       "tags": [
@@ -1675,6 +2322,22 @@
         "公司"
       ],
       "text": "【聚光科技：2026年上半年虧損8608.98萬元，上年同期虧損5050.12萬元】聚光科技公告，2026年上半年營業收入12.44億元，同比下降3.91%；歸屬於上市公司股東的淨利潤虧損8608.98萬元，上年同期虧損5050.12萬元，虧損較上年同期擴大70.47%；扣除非經常性損益的淨利潤虧損1.04億元，虧損較上年同期擴大27.82%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a0331c-6d56-7aab-90f3-a8c4068da8ce",
+      "time": "2026-08-24 17:31:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Alibaba",
+        "0700.HK",
+        "Impact bullish",
+        "9988.HK",
+        "0981.HK",
+        "Impact bearish"
+      ],
+      "text": "Southbound Stock Connect net bought RMB 11.57 bln today. Shanghai Stock Connect: Tracker Fund of Hong Kong and Tencent Holdings were top net buys at HKD 2.91 bln and HKD 1.461 bln; Pop Mart was the largest net seller with HKD 426 mln sold. Shenzhen Stock Connect: Alibaba-W and China Southern Hang Seng Tech ETF were top net buys at HKD 1.24 bln and HKD 1.139 bln; SMIC was the largest net seller with HKD 2.133 bln sold."
     },
     {
       "id": "5055208",
@@ -1806,6 +2469,14 @@
       "text": "【博雲新材：2026年上半年淨利潤1.7億元，同比增長1,911.60%】博雲新材公告，2026年上半年營業收入7.45億元，同比增長88.33%；歸屬於上市公司股東的淨利潤1.7億元，同比增長1,911.60%，2025年上半年為846.17萬元；扣非淨利潤1.62億元，同比增長19,369.88%。"
     },
     {
+      "id": "mkt:01a03317-c247-7aab-90f3-a4fcbfb3d878",
+      "time": "2026-08-24 17:26:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya Business Channel reports France and Saudi institutions and corporates are set to sign deals totaling more than $10 billion."
+    },
+    {
       "id": "5055192",
       "time": "2026-08-24 17:26:28",
       "tags": [
@@ -1870,6 +2541,14 @@
         "公司"
       ],
       "text": "【海航科技：2026年上半年淨利潤4489.89萬元，同比下降37.20%】海航科技公告，2026年上半年營業收入9.14億元，同比增長35.35%；歸屬於上市公司股東的淨利潤4489.89萬元，同比下降37.20%，2025年同期為7149.57萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4314.04萬元，同比下降20.42%。"
+    },
+    {
+      "id": "mkt:01a03315-aeb4-7aab-90f3-9911730996e2",
+      "time": "2026-08-24 17:24:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russian forces have retaken three more settlements in Ukraine."
     },
     {
       "id": "5055184",
@@ -1948,6 +2627,14 @@
       "text": "【友好集團：2026年上半年淨利潤1295.71萬元，同比增長6.75%】友好集團公告，2026年上半年營業收入7.15億元，同比下降9.38%；歸屬於上市公司股東的淨利潤1295.71萬元，同比增長6.75%，2025年同期為1213.76萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1184.1萬元，同比增長234.49%。"
     },
     {
+      "id": "mkt:01a03313-628a-7aab-90f3-938ac770b578",
+      "time": "2026-08-24 17:21:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Putin will meet India's foreign minister today."
+    },
+    {
       "id": "5055176",
       "time": "2026-08-24 17:21:31",
       "tags": [
@@ -1962,6 +2649,19 @@
         "市場"
       ],
       "text": "新加坡海峽時報指數收盤下跌0.1%，報5680.46點。"
+    },
+    {
+      "id": "mkt:01a03312-ec03-7aab-90f3-8f0623647133",
+      "time": "2026-08-24 17:21:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian media report Russian attacks have forced postponement of planned Kyiv visits by the U.S. Middle East special envoy and Trump senior adviser Jared Kushner."
     },
     {
       "id": "5055174",
@@ -1986,6 +2686,18 @@
         "公司"
       ],
       "text": "【小鵬機器人業務首輪融資超9億美元，引領物理AI規模量產和應用】2026年8月24日，全球領先的物理AI公司小鵬集團於今日宣佈，旗下人形機器人業務已與多家投資者簽署股權融資協議。本輪為小鵬機器人業務首輪融資，融資金額超9億美元，投後估值超63億美元，重新整理中國具身智慧行業單輪私募股權融資紀錄。（小鵬汽車）"
+    },
+    {
+      "id": "mkt:01a03311-eef2-7aab-90f3-865cc67f4504",
+      "time": "2026-08-24 17:20:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【XPeng Group humanoid robotics unit raises over $900m in first funding round; post‑money valuation above $6.3bn】On Aug. 24, 2026, XPeng Group said its humanoid robotics unit signed equity financing agreements with multiple investors, raising more than $900m in its first funding round and achieving a post‑money valuation above $6.3bn, a record for single‑round private equity financing in China’s embodied‑intelligence sector."
     },
     {
       "id": "5055171",
@@ -2019,6 +2731,37 @@
         "公司"
       ],
       "text": "【ST東時：部分募集資金賬戶資金被凍結】ST東時公告稱，公司近日獲悉部分募集資金賬戶資金被凍結，涉及興業銀行北京西直門支行、交通銀行北京通州分行、交通銀行北京興華大街支行三個專用存款賬戶，凍結金額分別為13.88萬元、0.10萬元、0.00萬元。凍結原因系兩起糾紛被申請強制執行。目前公司生產經營正常開展，該事項不會對公司募集資金投資專案、資金週轉及正常經營活動產生重大不利影響。公司正積極溝通爭取儘快解決，恢復賬戶正常狀態。此外，公司是否進入重整程式尚存在重大不確定性，若法院受理重整申請，公司股票將被實施退市風險警示。"
+    },
+    {
+      "id": "mkt:01a03311-2646-7aab-90f3-7e445eb85bae",
+      "time": "2026-08-24 17:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Harvest Nasdaq ETF said it will suspend trading from market open on Aug 25, 2026 and resume at 10:30; redemption requests will be processed as normal during the suspension."
+    },
+    {
+      "id": "mkt:01a03310-aec2-7aab-90f3-7750514890cf",
+      "time": "2026-08-24 17:18:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CQQQ.O"
+      ],
+      "text": "Invesco China Nasdaq Technology ETF said trading will be suspended from market open on Aug 25, 2026 and will resume at 10:30 a.m. Beijing time the same day; redemptions will be processed as normal during the suspension."
+    },
+    {
+      "id": "mkt:01a03310-2fb1-7aab-90f3-6ce71cd00f9a",
+      "time": "2026-08-24 17:18:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The Kremlin said Russian armed forces are working to identify Ukrainian missile production sites and will take measures to destroy those facilities."
     },
     {
       "id": "5055167",
@@ -2144,6 +2887,14 @@
       "text": "【美軍首次公開“惡意”新型超遠端空空導彈，射程超460公里】美國海軍首次公開AIM-424“惡意”新型超遠端空空導彈。“多里斯·米勒”號可能改名為“特朗普”號、“林肯”號艦員生活環境惡劣、“本福德”號驅逐艦在南海斷電4天……近期，一系列關於美國海軍新聞將其推向輿論的中央。據環球網8月24日報道，美國海軍考慮將最新“福特”級航母4號艦“多里斯·米勒”號改名為“特朗普”號的訊息傳出後，美國輿論一片譁然。（澎湃）"
     },
     {
+      "id": "mkt:01a0330d-2e32-7aab-90f3-60d84d3fb981",
+      "time": "2026-08-24 17:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran stock market hits record 6.1 million points】Iran's composite stock index rose 30,000 points to close at an all-time high of 6.1 million points."
+    },
+    {
       "id": "5055152",
       "time": "2026-08-24 17:14:21",
       "tags": [
@@ -2160,6 +2911,26 @@
       "text": "【華茂股份：2026年上半年淨利潤虧損1366.39萬元，同比由盈轉虧】華茂股份公告，2026年上半年營業收入17.57億元，同比增長9.65%；歸屬於上市公司股東的淨利潤虧損1366.39萬元，上年同期淨利潤9650.48萬元，同比由盈轉虧；扣非淨利潤6156.83萬元，同比增長133.64%。"
     },
     {
+      "id": "mkt:01a0330c-8e26-7aab-90f3-593cfef1357f",
+      "time": "2026-08-24 17:14:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic asks candidates if they'd accept stock going to zero to preserve safety】Anthropic asks job candidates in culture interviews whether they would support abandoning the company’s AI ambitions for safety even if that drove the share price to zero. CEO Dario Amodei has questioned whether recent hires joined for the right reasons. The company previously declined a deal that would have given the U.S. government unrestricted use of its technology, losing some government contracts, and has restricted access to its most capable model, Mythos, on safety grounds. Anthropic is private, so the net revenue impact of these decisions is unclear."
+    },
+    {
+      "id": "mkt:01a0330c-883f-7aab-90f3-52e432b26e76",
+      "time": "2026-08-24 17:14:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P confirmed Vietnam's \"BB+/B\" rating; outlook stable."
+    },
+    {
       "id": "5055150",
       "time": "2026-08-24 17:14:01",
       "tags": [
@@ -2174,6 +2945,18 @@
         "其他"
       ],
       "text": "【麥當勞入駐美團拼好飯，全國超3000家門店上線套餐】8月24日，麥當勞上線美團拼好飯套餐，全國超3000家門店參與。此前，肯德基、漢堡王、必勝客、老鄉雞等國內國際一線品牌均已入駐美團拼好飯。"
+    },
+    {
+      "id": "mkt:01a0330c-486a-7aab-90f3-4b3ba71059e4",
+      "time": "2026-08-24 17:13:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "The Kremlin said it is extremely negative about London’s plan to transfer Storm Shadow cruise missile production technology to Kyiv."
     },
     {
       "id": "5055148",
@@ -2271,6 +3054,18 @@
         "公司"
       ],
       "text": "【揚農化工：2026年上半年淨利潤7.9億元，同比下降1.99%】揚農化工公告，2026年上半年營業收入66.06億元，同比增長5.97%；歸屬於上市公司股東的淨利潤7.9億元，同比下降1.99%，2025年同期為8.06億元；扣非淨利潤7.88億元，同比下降1.05%。董事會決定每10股派發現金紅利2.4元（含稅），擬派發現金紅利9698.69萬元（含稅）。"
+    },
+    {
+      "id": "mkt:01a03309-7618-7aab-90f3-45d4b75b39e7",
+      "time": "2026-08-24 17:10:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran military vows to fight '10 generations, 20 generations' to defend national security】TASNIM NEWS reported Iran's armed forces commander said: 'We are monitoring the enemy's short-, medium- and long-term objectives and are prepared to respond to any actions they may take. We will fight for 10 generations, 20 generations. Through force we will make the enemy understand they cannot act with impunity.'"
     },
     {
       "id": "5055136",
@@ -141960,160 +142755,6 @@
         "公司"
       ],
       "text": "【聯創光電：控股股東81.99%股份被司法凍結及輪候凍結】聯創光電公告，公司控股股東江西省電子集團有限公司持有的公司股份被司法凍結及輪候凍結。本次新增司法凍結4231.08萬股，佔其所持股份48.76%，佔公司總股本9.38%；累計被凍結股份7115.07萬股，佔其所持股份81.99%，佔公司總股本15.78%。此外，其持有的3304.39萬股股份被輪候凍結，佔其所持股份38.08%，佔公司總股本7.33%。"
-    },
-    {
-      "id": "5044133",
-      "time": "2026-08-17 18:31:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨漲幅升至0.5%。"
-    },
-    {
-      "id": "5044132",
-      "time": "2026-08-17 18:31:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨漲幅升至0.2%。"
-    },
-    {
-      "id": "mkt:01a00f46-0585-7aab-905e-a3ed42c387f9",
-      "time": "2026-08-17 18:30:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India's unemployment rate in July was 5.1%."
-    },
-    {
-      "id": "5044131",
-      "time": "2026-08-17 18:30:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度7月份失業率為5.1%。"
-    },
-    {
-      "id": "mkt:01a00f45-c3ed-7aab-905e-9c5e8ec65dcd",
-      "time": "2026-08-17 18:30:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OmniAb (OABI.O) shares rose more than 36% pre-market after the company announced a $370m drug R&D agreement with Eli Lilly."
-    },
-    {
-      "id": "te:markets:575846",
-      "time": "2026-08-17 18:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.36% Lower — The SENSEX Index fell 281 points or 0.36 percent on Monday to close at 77728 points. Leading the losses are Infosys (-2.83%), Sun Pharmaceuticals (-2.54%) and HCL Tech (-2.32%). Top gainers were Axis Bank (1.36%), Tata Steel (1.36%) and Kotak Mahindra Bank (1.11%)."
-    },
-    {
-      "id": "5044130",
-      "time": "2026-08-17 18:29:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "歐米尼AB（OMNIAB）股價盤前大漲36.3%，原因是公司與禮來製藥達成了金額為3.7億美元的藥物開發合作協議。"
-    },
-    {
-      "id": "5044129",
-      "time": "2026-08-17 18:29:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞南部庫奈特拉地區遭襲】當地時間8月17日，總檯記者自敘利亞方面獲悉，以色列發射炮彈襲擊了敘利亞南部庫奈特拉地區。（央視新聞）"
-    },
-    {
-      "id": "5044128",
-      "time": "2026-08-17 18:28:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "出口商預估：象牙海岸2025/26年度可可到貨量截至8月16日達199.6萬噸，去年同期為165.3萬噸。"
-    },
-    {
-      "id": "5044127",
-      "time": "2026-08-17 18:28:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【超20萬加拿大民眾請願驅逐美國大使】據加拿大國會眾議院網站公佈的資料，截至當地時間8月16日，超過20萬加拿大民眾實名聯署一項請願，要求驅逐美國駐加大使皮特·胡克斯特拉。（央視）"
-    },
-    {
-      "id": "5044126",
-      "time": "2026-08-17 18:27:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國聯邦卡特爾局——德國聯邦卡特爾局已批准默克集團（達姆施塔特）收購Bio-Techne公司。"
-    },
-    {
-      "id": "5044125",
-      "time": "2026-08-17 18:27:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中石科技：股票交易異常波動 不存在應披露未披露重大事項】中石科技公告稱，公司股票於2026年8月13日、8月14日、8月17日連續三個交易日收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。經核查，公司前期披露資訊無需更正補充，近期公共傳媒無未公開重大影響資訊，公司經營情況及內外部環境未發生重大變化。公司、控股股東及實控人不存在應披露而未披露或處於籌劃階段的重大事項。2026年8月13日，公司控股股東吳曉寧、葉露、HAN WU（吳憾）與中際旭創簽署《股份轉讓協議》，該事項已履行資訊披露義務，尚需深交所合規性確認及中國結算深圳分公司辦理過戶手續。股票異常波動期間，控股股東、實控人不存在買賣公司股票的行為，不存在違反資訊公平披露的情形。"
-    },
-    {
-      "id": "mkt:01a00f41-f016-7aab-905e-93d05992fc27",
-      "time": "2026-08-17 18:26:14",
-      "tags": [
-        "MKT News",
-        "BABA.N"
-      ],
-      "text": "【Alibaba launches AI music model Happy Shrimp 1.0】Alibaba launched an AI music model, Happy Shrimp 1.0, which it says converts natural‑language prompts — including mood, story, lyrics, genre, era and vocal requirements — into complete songs. The model is built to lower the creative threshold by understanding ordinary language rather than requiring music theory or arrangement expertise, can plan long‑form structure and generate full tracks, and is available on PC in China and internationally. New users are offered large free credit packages."
-    },
-    {
-      "id": "5044123",
-      "time": "2026-08-17 18:25:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普再稱伊朗絕不能擁有核武器】最新訊息：美國總統特朗普今天（8月17日）在社交媒體平臺發帖稱，“（美國的）首要目標始終都是伊朗絕不能以任何方式、任何形式擁有核武器。”（CCTV國際時訊）"
-    },
-    {
-      "id": "5044122",
-      "time": "2026-08-17 18:25:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST惠程：預重整第二次債權人會議表決透過重整計劃草案】ST惠程公告稱，截至2026年8月14日24:00，公司預重整第二次債權人會議表決期限屆滿，有財產擔保債權組、普通債權組均表決透過《重慶惠程資訊科技股份有限公司預重整重組協議暨重整計劃草案》。目前公司尚未收到法院受理重整申請的相關文書，重整事項尚需取得中國證監會無異議覆函、最高人民法院同意批覆函，該事項存在不確定性。若法院裁定受理重整申請，公司股票將被實施退市風險警示；若重整失敗公司被宣告破產，股票將面臨終止上市風險。"
-    },
-    {
-      "id": "5044121",
-      "time": "2026-08-17 18:25:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝斯特：2026年上半年淨利潤1.46億元，同比降1.53%】貝斯特公告，2026年上半年營業收入7.92億元，同比增長10.57%。歸屬於上市公司股東的淨利潤1.46億元，同比下降1.53%。扣非淨利潤1.36億元，同比下降2.32%。利潤分配預案為：以5.02億股為基數，每10股派發現金紅利0.3元（含稅）。"
-    },
-    {
-      "id": "5044120",
-      "time": "2026-08-17 18:25:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美伊諒解備忘錄60天談判到期】根據美國伊朗6月18日簽署的諒解備忘錄，雙方承諾在60天視窗期內進行談判以期達成最終協議。如今，60天視窗期已到期。伊朗外交部發言人巴加埃今天（8月17日）在例行記者會上表示，由於美國“公然且廣泛地違反了諒解備忘錄”，談判未能進行，因此，60天期限已“完全失去意義”——伊朗的政策制定也絕不會受到“最後通牒”或“最後期限”的影響。 (CCTV國際時訊)"
-    },
-    {
-      "id": "5044119",
-      "time": "2026-08-17 18:24:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【舒華體育：2026年半年度營收7.89億元 同比增28.37%】舒華體育公告稱，2026年半年度實現營業收入7.89億元，同比增長28.37%；歸屬於上市公司股東的淨利潤4642.34萬元，同比增長130.05%。截至報告期末公司總資產19.74億元，歸屬於上市公司股東的淨資產12.18億元。報告期內無利潤分配預案，控股股東及實際控制人未發生變更。"
     }
   ]
 }
