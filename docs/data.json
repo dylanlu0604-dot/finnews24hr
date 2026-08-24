@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-25 04:14:38",
-  "count": 15833,
+  "updated": "2026-08-25 04:18:30",
+  "count": 15836,
   "items": [
+    {
+      "id": "mkt:01a0356c-15cc-7aab-90ff-4e949c88dcf3",
+      "time": "2026-08-25 04:17:50",
+      "tags": [
+        "MKT News",
+        "SHEL.N",
+        "Impact bearish"
+      ],
+      "text": "Sources: Shell (SHEL.N) has shelved the \"Aphrodite\" offshore gas project in Trinidad and Tobago."
+    },
+    {
+      "id": "5056177",
+      "time": "2026-08-25 04:17:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AISI： 美國鋼鐵公司截至8月22日當週產能利用率為80%。"
+    },
+    {
+      "id": "mkt:01a0356a-f55d-7aab-90ff-4194f4c82e36",
+      "time": "2026-08-25 04:16:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports the U.S. Securities and Exchange Commission has subpoenaed major Wall Street banks seeking information on trading by AI hedge fund Situational Awareness."
+    },
+    {
+      "id": "mkt:01a03568-b4f4-7aab-90ff-3fc3480b0089",
+      "time": "2026-08-25 04:14:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US support for military action against Iran falls to 31%; Trump approval at historic low】A Refinitiv/Ipsos poll shows US support for military action against Iran at 31%, the lowest since the conflict began, down from 37% in March and 34% earlier this month. The decline was driven mainly by weaker support among self‑identified Republicans. President Trump’s approval rating stands at a historic low of 33% for the second consecutive poll. About 83% of Americans expect the war to last a long time, up from 80% earlier this month."
+    },
+    {
+      "id": "5056176",
+      "time": "2026-08-25 04:14:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會向多家銀行發出傳票，調取Situational Awareness相關交易細節。"
+    },
     {
       "id": "mkt:01a03564-4c91-7aab-90ff-306b64e94fa9",
       "time": "2026-08-25 04:09:20",
@@ -143482,30 +143529,6 @@
         "國際"
       ],
       "text": "美國國家航空航天局：遴選多家企業提供有效載荷處理服務，入選企業包括 BLUE ORIGIN、FIREFLY AEROSPACE、L3HARRIS。"
-    },
-    {
-      "id": "mkt:01a0115e-c57a-7aab-9069-8ee0dd9f2738",
-      "time": "2026-08-18 04:16:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "US equities closed lower on Monday, Aug. 17: Dow Jones Industrial Average fell 272.39 points (-0.51%) to 53,460.02; S&P 500 fell 40.39 points (-0.52%) to 7,745.37; Nasdaq Composite fell 84.25 points (-0.32%) to 26,644.91."
-    },
-    {
-      "id": "mkt:01a0115d-1a65-7aab-9069-823d89becc86",
-      "time": "2026-08-18 04:15:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "【Anthropic's annualized revenue tops $65 billion ahead of IPO】People familiar said Anthropic's current performance implies annualized recurring revenue (ARR) above $65 billion, more than a sevenfold increase versus year-end. One source said Anthropic reported the figure to investors in routine updates; ARR stood at $65 billion as of end-July. The revenue acceleration has strengthened the company's confidence in pursuing an IPO. Anthropic and OpenAI have privately filed listing documents; Anthropic could debut on Wall Street as soon as this fall, potentially ahead of OpenAI."
     }
   ]
 }

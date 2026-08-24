@@ -1,7 +1,54 @@
 {
   "date": "2026-08-25",
-  "count": 280,
+  "count": 285,
   "items": [
+    {
+      "id": "mkt:01a0356c-15cc-7aab-90ff-4e949c88dcf3",
+      "time": "2026-08-25 04:17:50",
+      "tags": [
+        "MKT News",
+        "SHEL.N",
+        "Impact bearish"
+      ],
+      "text": "Sources: Shell (SHEL.N) has shelved the \"Aphrodite\" offshore gas project in Trinidad and Tobago."
+    },
+    {
+      "id": "5056177",
+      "time": "2026-08-25 04:17:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AISI： 美國鋼鐵公司截至8月22日當週產能利用率為80%。"
+    },
+    {
+      "id": "mkt:01a0356a-f55d-7aab-90ff-4194f4c82e36",
+      "time": "2026-08-25 04:16:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports the U.S. Securities and Exchange Commission has subpoenaed major Wall Street banks seeking information on trading by AI hedge fund Situational Awareness."
+    },
+    {
+      "id": "mkt:01a03568-b4f4-7aab-90ff-3fc3480b0089",
+      "time": "2026-08-25 04:14:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US support for military action against Iran falls to 31%; Trump approval at historic low】A Refinitiv/Ipsos poll shows US support for military action against Iran at 31%, the lowest since the conflict began, down from 37% in March and 34% earlier this month. The decline was driven mainly by weaker support among self‑identified Republicans. President Trump’s approval rating stands at a historic low of 33% for the second consecutive poll. About 83% of Americans expect the war to last a long time, up from 80% earlier this month."
+    },
+    {
+      "id": "5056176",
+      "time": "2026-08-25 04:14:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會向多家銀行發出傳票，調取Situational Awareness相關交易細節。"
+    },
     {
       "id": "mkt:01a03564-4c91-7aab-90ff-306b64e94fa9",
       "time": "2026-08-25 04:09:20",
