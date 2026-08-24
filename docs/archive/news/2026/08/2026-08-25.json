@@ -1,7 +1,201 @@
 {
   "date": "2026-08-25",
-  "count": 258,
+  "count": 278,
   "items": [
+    {
+      "id": "5056175",
+      "time": "2026-08-25 04:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案顯示：截至2026年8月1日，黑石私人房地產信貸與收益基金已出售272642股普通股，交易金額713萬美元。"
+    },
+    {
+      "id": "mkt:01a03560-1bb6-7aab-90ff-2deeeace12c7",
+      "time": "2026-08-25 04:04:45",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "At Monday close Aug. 24, the Dow Jones Industrial Average rose 139.98 points (+0.26%) to 53,416.99; the S&P 500 fell 21.41 points (-0.28%) to 7,652.96; the Nasdaq Composite fell 200.26 points (-0.76%) to 25,980.19."
+    },
+    {
+      "id": "mkt:01a0355f-0ca3-7aab-90ff-20f96218396f",
+      "time": "2026-08-25 04:03:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O) shares fell for a seventh straight day, marking their longest losing streak since 2022."
+    },
+    {
+      "id": "5056174",
+      "time": "2026-08-25 04:03:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗政府發言人表示，伊朗將憑藉智慧與決心衝破美國製裁。"
+    },
+    {
+      "id": "5056173",
+      "time": "2026-08-25 04:02:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞聯邦快遞員工計劃於週五舉行兩小時停工。"
+    },
+    {
+      "id": "5056172",
+      "time": "2026-08-25 04:02:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達連跌七天，創2022年以來最長連跌天數。"
+    },
+    {
+      "id": "mkt:01a0355d-935c-7aab-90ff-1f94af051e69",
+      "time": "2026-08-25 04:01:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bearish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "【US close: major indices mixed as memory and storage names slip】At Monday close, the Dow Jones Industrial Average rose 0.26%, the S&P 500 fell 0.28% and the Nasdaq Composite fell 0.76%. SK Hynix (SKHY.O) slid 4.9%, Micron (MU.O) 5.8% and SanDisk (SNDK.O) 6.4%; NVIDIA (NVDA.O) and Intel (INTC.O) were down about 3%. The Nasdaq Golden Dragon China Index fell 1.67%; NetEase (NTES.O) dropped 4% and Alibaba (BABA.N) fell 0.7%."
+    },
+    {
+      "id": "5056171",
+      "time": "2026-08-25 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.26%，標普500指數跌0.28%，納指跌0.76%。希捷跌6.51%，閃迪跌6.45%，億客行漲5.44%，美元樹漲4.01%，丘奇＆德懷特漲3.76%。“七姐妹”方面：Meta Platforms漲1.66%，亞馬遜漲1.33%，微軟漲0.84%，谷歌漲0.83%，蘋果漲0.32%，英偉達跌2.91%，特斯拉跌3.83%。"
+    },
+    {
+      "id": "5056170",
+      "time": "2026-08-25 04:00:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美前大使說以軍暴行令有良知者震驚】美國前駐沙特大使查斯·弗里曼近日在接受採訪時指出，以色列普通民眾的立場未必與以軍一致，發生在約旦河西岸地區的暴行也令許多有良知的以色列人感到震驚。弗里曼還指出，以色列缺乏長期生存策略，想當然地認為“只要一直用槍指著所有人，就能在中東地區一直生存下去”——可如今越來越多人將以色列的處境比作只維持了大約百年甚至更短的基督教十字軍諸國，“猶太復國主義的結局未必圓滿”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5056169",
+      "time": "2026-08-25 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.60%】小鵬汽車跌8.57%，小馬智行跌8.20%，網易有道跌8.10%，文遠知行跌7.44%，金山雲跌6.51%。"
+    },
+    {
+      "id": "5056168",
+      "time": "2026-08-25 03:59:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX計劃明年將搭載英偉達人工智慧技術的衛星送入軌道。"
+    },
+    {
+      "id": "5056167",
+      "time": "2026-08-25 03:59:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院懸賞最高1000萬美元，並可提供安置機會，徵集有關伊朗革命衛隊高階指揮官的情報。"
+    },
+    {
+      "id": "5056166",
+      "time": "2026-08-25 03:56:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部長趙顯與美國國務卿魯比奧就美韓同盟、朝鮮半島局勢以及廣泛全球事務等一系列議題展開磋商。魯比奧強調，在戰略環境日趨複雜的背景下，兩國需要保持密切協調。"
+    },
+    {
+      "id": "5056165",
+      "time": "2026-08-25 03:55:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "百勝餐飲集團股價放量上漲，最新漲幅達2.8%。"
+    },
+    {
+      "id": "5056164",
+      "time": "2026-08-25 03:54:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達放量下跌，最新跌3.2%。"
+    },
+    {
+      "id": "mkt:01a03556-3a27-7aab-90ff-17476a5165db",
+      "time": "2026-08-25 03:53:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) U.S. shares fell more than 3% at the close."
+    },
+    {
+      "id": "mkt:01a03553-be81-7aab-90ff-0a25b590d613",
+      "time": "2026-08-25 03:51:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran finance minister says Tehran prepared for new U.S. sanctions, warns of retaliation】Iran’s minister of economic affairs and finance, Madanizadeh, said on the evening of the 24th (local time) that Tehran has long planned for U.S. sanctions and is fully prepared for new measures, adding the world’s financial and economic ties cannot be easily severed and the U.S. cannot \"completely cut off Iran's financial and trade links.\" He warned any U.S. action could prompt a response from Iran. On the afternoon of the 24th (U.S. Eastern time), U.S. Treasury Secretary Bessent held a press briefing unveiling sanctions targeting Iran’s global financial network — covering digital assets, technology, gold, aviation and shipping — aimed at severing Iran’s remaining economic lifelines."
+    },
+    {
+      "id": "5056163",
+      "time": "2026-08-25 03:50:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗經濟和財政部長: 已做好應對美製裁的充分準備】當地時間24日晚，伊朗經濟和財政部長馬達尼扎德表示，伊朗政府長期以來一直在籌劃應對美國製裁，並已做好應對新制裁的充分準備。他表示，世界金融和經濟命脈並非如此簡單，美國不可能“完全切斷伊朗的金融和貿易聯絡。”馬達尼扎德稱，如果美國膽敢採取任何行動，就應該預料到來自伊朗的反擊。（央視新聞）"
+    },
+    {
+      "id": "5056162",
+      "time": "2026-08-25 03:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至週一，美軍為執行針對伊朗的海上封鎖，已攔截改道71艘商船、使3艘船隻失去行動能力，並登船檢查2艘。已有40餘艘運送人道主義援助物資的船隻獲准通行。"
+    },
+    {
+      "id": "5056161",
+      "time": "2026-08-25 03:50:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗經濟部長：我們有針對敵人的經濟進攻計劃。"
+    },
     {
       "id": "mkt:01a0354e-ec7b-7aab-90ff-00547a6aef87",
       "time": "2026-08-25 03:45:59",
