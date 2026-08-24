@@ -1,7 +1,72 @@
 {
   "date": "2026-08-24",
-  "count": 2081,
+  "count": 2088,
   "items": [
+    {
+      "id": "mkt:01a033cb-723c-7aab-90f7-bb7d4a67957b",
+      "time": "2026-08-24 20:42:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Trump said Iran is in full collapse."
+    },
+    {
+      "id": "5055764",
+      "time": "2026-08-24 20:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗正在徹底崩潰。"
+    },
+    {
+      "id": "5055763",
+      "time": "2026-08-24 20:41:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強會見約旦國王阿卜杜拉二世】8月24日上午，國務院總理李強在北京人民大會堂會見來華進行國事訪問的約旦國王阿卜杜拉二世。李強表示，近年來，在兩國元首戰略引領下，中約關係保持健康穩定發展，務實合作成果豐碩。習近平主席將同國王陛下舉行會談，共同擘畫中約關係發展新藍圖。明年中約將迎來建交50週年，中方願同約方一道弘揚傳統友好，增進政治互信，在涉及彼此核心利益問題上堅定相互支援，不斷深化互利合作，在實現現代化的道路上攜手前行。（新華社）"
+    },
+    {
+      "id": "5055762",
+      "time": "2026-08-24 20:40:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬集團何小鵬：2027年小鵬IRON上市 月產能至數千臺】小鵬集團董事長何小鵬今日在公司半年報業績會上表示，小鵬IRON計劃從今年底開始進入規模量產階段，從小鵬門店和園區開始落地商業場景應用。2027年，小鵬IRON將正式上市，面向零售和服務業場景的外部客戶，在中國和海外開始規模交付，明年的月產能可以根據市場需求迅速提升至數千臺。小鵬IRON在全生命週期的收入和毛利貢獻，包含硬體銷售和軟體AI模型能力升級帶來的持續性收入，將會大幅高於當前汽車業務的單車均價和毛利。（財聯社）"
+    },
+    {
+      "id": "te:markets:577615",
+      "time": "2026-08-24 20:39:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Pare Some Losses — The DAX 40 trimmed early losses to trade marginally down around 26,120 on Monday, amid weakness in technology stocks and autos. Investors cautiously awaited details on new US sanctions on Iran due later in the day, given its possible impact on inflation and interest rates across the globe. Attention also turned to the Jackson Hole symposium later this week, where Fed Chair Kevin Warsh will make his first appearance at the event and is expected to face close scrutiny over the outlook for US monetary policy. Chipmaker Infineon Technologies and AI-retaled companies such as Siemens Energy fell more than 1%, on nervousness ahead of Nvidia’s earnings. Volkswagen slipped 1.6% as CEO Oliver Blume warned that mounting pressure on the automotive sector would require further cost-cutting, including significant workforce reductions. The German carmaker is preparing for weeks of negotiations over a restructuring programme."
+    },
+    {
+      "id": "5055761",
+      "time": "2026-08-24 20:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子：2026年上半年淨利潤5.4億元，同比增長113.61%】江豐電子公告，2026年上半年營業收入27.37億元，同比增長30.68%；歸屬於上市公司股東的淨利潤5.4億元，同比增長113.61%，2025年同期為2.53億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.06億元，同比增長17.15%。"
+    },
+    {
+      "id": "5055760",
+      "time": "2026-08-24 20:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【橙色預警！浙江東南、福建東部區域性發生地質災害風險高】自然資源部與中國氣象局8月24日18時聯合釋出橙色地質災害氣象風險預警：2026年8月24日20時至25日20時，遼寧東部區域性、浙江東南部、福建東部和南部區域性、廣東東部區域性和中北部區域性、廣西南部區域性、雲南西部區域性、西藏東南區域性發生地質災害的風險較高（黃色預警）；浙江東南區域性、福建東部區域性發生地質災害的風險高（橙色預警）。（央視新聞）"
+    },
     {
       "id": "5055759",
       "time": "2026-08-24 20:37:33",

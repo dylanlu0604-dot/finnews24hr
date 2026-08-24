@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-24 20:39:34",
-  "count": 15785,
+  "updated": "2026-08-24 20:43:53",
+  "count": 15774,
   "items": [
+    {
+      "id": "mkt:01a033cb-723c-7aab-90f7-bb7d4a67957b",
+      "time": "2026-08-24 20:42:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Trump said Iran is in full collapse."
+    },
+    {
+      "id": "5055764",
+      "time": "2026-08-24 20:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗正在徹底崩潰。"
+    },
+    {
+      "id": "5055763",
+      "time": "2026-08-24 20:41:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強會見約旦國王阿卜杜拉二世】8月24日上午，國務院總理李強在北京人民大會堂會見來華進行國事訪問的約旦國王阿卜杜拉二世。李強表示，近年來，在兩國元首戰略引領下，中約關係保持健康穩定發展，務實合作成果豐碩。習近平主席將同國王陛下舉行會談，共同擘畫中約關係發展新藍圖。明年中約將迎來建交50週年，中方願同約方一道弘揚傳統友好，增進政治互信，在涉及彼此核心利益問題上堅定相互支援，不斷深化互利合作，在實現現代化的道路上攜手前行。（新華社）"
+    },
+    {
+      "id": "5055762",
+      "time": "2026-08-24 20:40:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬集團何小鵬：2027年小鵬IRON上市 月產能至數千臺】小鵬集團董事長何小鵬今日在公司半年報業績會上表示，小鵬IRON計劃從今年底開始進入規模量產階段，從小鵬門店和園區開始落地商業場景應用。2027年，小鵬IRON將正式上市，面向零售和服務業場景的外部客戶，在中國和海外開始規模交付，明年的月產能可以根據市場需求迅速提升至數千臺。小鵬IRON在全生命週期的收入和毛利貢獻，包含硬體銷售和軟體AI模型能力升級帶來的持續性收入，將會大幅高於當前汽車業務的單車均價和毛利。（財聯社）"
+    },
+    {
+      "id": "te:markets:577615",
+      "time": "2026-08-24 20:39:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Pare Some Losses — The DAX 40 trimmed early losses to trade marginally down around 26,120 on Monday, amid weakness in technology stocks and autos. Investors cautiously awaited details on new US sanctions on Iran due later in the day, given its possible impact on inflation and interest rates across the globe. Attention also turned to the Jackson Hole symposium later this week, where Fed Chair Kevin Warsh will make his first appearance at the event and is expected to face close scrutiny over the outlook for US monetary policy. Chipmaker Infineon Technologies and AI-retaled companies such as Siemens Energy fell more than 1%, on nervousness ahead of Nvidia’s earnings. Volkswagen slipped 1.6% as CEO Oliver Blume warned that mounting pressure on the automotive sector would require further cost-cutting, including significant workforce reductions. The German carmaker is preparing for weeks of negotiations over a restructuring programme."
+    },
+    {
+      "id": "5055761",
+      "time": "2026-08-24 20:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子：2026年上半年淨利潤5.4億元，同比增長113.61%】江豐電子公告，2026年上半年營業收入27.37億元，同比增長30.68%；歸屬於上市公司股東的淨利潤5.4億元，同比增長113.61%，2025年同期為2.53億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.06億元，同比增長17.15%。"
+    },
+    {
+      "id": "5055760",
+      "time": "2026-08-24 20:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【橙色預警！浙江東南、福建東部區域性發生地質災害風險高】自然資源部與中國氣象局8月24日18時聯合釋出橙色地質災害氣象風險預警：2026年8月24日20時至25日20時，遼寧東部區域性、浙江東南部、福建東部和南部區域性、廣東東部區域性和中北部區域性、廣西南部區域性、雲南西部區域性、西藏東南區域性發生地質災害的風險較高（黃色預警）；浙江東南區域性、福建東部區域性發生地質災害的風險高（橙色預警）。（央視新聞）"
+    },
     {
       "id": "5055759",
       "time": "2026-08-24 20:37:33",
@@ -142908,176 +142973,6 @@
         "其他"
       ],
       "text": "英偉達：OPENAI將支付租金。"
-    },
-    {
-      "id": "5044392",
-      "time": "2026-08-17 20:43:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "匈牙利審查政府合同後，4IG股價下跌高達5.8%。"
-    },
-    {
-      "id": "5044391",
-      "time": "2026-08-17 20:43:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "英偉達：初始承諾的支付義務上限為1050億美元。"
-    },
-    {
-      "id": "mkt:01a00fbf-3500-7aab-9062-41af7efcc5bd",
-      "time": "2026-08-17 20:43:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangzhou Baiyunshan Zhongyi receives NMPA approval to trial Zhangyanming tablets for dry‑eye indication】Guangzhou Baiyunshan Zhongyi Pharmaceutical’s exclusive flagship product Zhangyanming tablets has received approval from the National Medical Products Administration (NMPA) to initiate clinical trials for a new \"dry eye\" indication. The program is registered as category 2.3 (modified new drug)."
-    },
-    {
-      "id": "5044390",
-      "time": "2026-08-17 20:42:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI將透過ChatGPT提供8400萬美元的Codex額度。"
-    },
-    {
-      "id": "5044389",
-      "time": "2026-08-17 20:42:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI承諾至2030年前大規模部署英偉達基礎設施。"
-    },
-    {
-      "id": "5044388",
-      "time": "2026-08-17 20:42:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴克萊銀行對投行部門高層進行大改組。阿迪爾·汗（Adeel Khan）將晉升為巴克萊(BCS.N)聯席執行長，負責全球市場業務。"
-    },
-    {
-      "id": "mkt:01a00fbe-6ed7-7aab-9062-3f2b07bb0ad7",
-      "time": "2026-08-17 20:42:13",
-      "tags": [
-        "MKT News",
-        "BCS.N"
-      ],
-      "text": "Financial Times reports Barclays (BCS.N) has significantly reshuffled senior leadership in its investment bank."
-    },
-    {
-      "id": "5044387",
-      "time": "2026-08-17 20:41:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州白雲山中一藥業障眼明片獲批開展乾眼適應症臨床試驗】據廣藥白雲山公眾號訊息，近日，廣州白雲山中一藥業獨家核心品種——障眼明片正式獲得國家藥品監督管理局核發《藥物臨床試驗批准通知書》，批准開展新增“乾眼”適應症臨床試驗（註冊分類2.3類改良型新藥）。"
-    },
-    {
-      "id": "mkt:01a00fbd-c94a-7aab-9062-34d022de9fe8",
-      "time": "2026-08-17 20:41:31",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O) said AI systems in its Ports‑Pike project could generate $150–200 billion in revenue; its Ohio factory could equip roughly 1.5 million GPUs per system generation."
-    },
-    {
-      "id": "5044386",
-      "time": "2026-08-17 20:41:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國10年期國債收益率上升1個基點，至2009年6月以來的最高水平4.0516%。"
-    },
-    {
-      "id": "5044385",
-      "time": "2026-08-17 20:41:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局：首批31個DRG基層病組確定 將以醫保支付引導常見病治療下沉】經過多輪專家論證，在即將印發的按病種付費3.0版分組方案中，DRG技術指導組最終確定首批31個DRG基層病組推薦名單，包含27個內科病種和4個手術操作病種，包括高血壓、糖尿病、呼吸系統感染、頸腰背疾病、冠心病、等27個內科病組，以及4個手術操作病組。國家醫保局方面表示，基層病組主要針對適宜在符合條件的二級及以下醫療機構收治，適合基層診治的常見病、多發病、康復期病種及病情穩定的慢性病，篩選重點考察臨床路徑是否清晰、基層診治佔比以及不同層級醫療機構次均費用差異等。基層病組核心特徵是“同病同付”，即在一個統籌區內，同一病組在三級醫院與一、二級醫院的醫保支付標準一致，以支付槓桿引導常見病、多發病合理下沉基層治療。31個DRG病組只是開始，後續將動態監測並適時調整。 (財聯社)"
-    },
-    {
-      "id": "mkt:01a00fbd-30ec-7aab-9062-2a3d7d8674ed",
-      "time": "2026-08-17 20:40:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "France's 10-year bond yield rose 1bp to 4.0516%, its highest level since June 2009."
-    },
-    {
-      "id": "5044384",
-      "time": "2026-08-17 20:40:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：俄亥俄工廠每一代系統或將配備約150萬顆GPU。"
-    },
-    {
-      "id": "mkt:01a00fbc-ecf3-7aab-9062-21b4750acadd",
-      "time": "2026-08-17 20:40:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O): OpenAI commits to large-scale deployment of NVIDIA AI infrastructure by 2030."
-    },
-    {
-      "id": "5044383",
-      "time": "2026-08-17 20:40:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：Ports‑Pike專案的AI系統有望實現1500‑2000億美元營收。"
-    },
-    {
-      "id": "mkt:01a00fbc-a833-7aab-9062-1cce7c71a2d7",
-      "time": "2026-08-17 20:40:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI will continue investing in safety architecture and control measures."
-    },
-    {
-      "id": "5044382",
-      "time": "2026-08-17 20:40:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞聯新材：與華星印刷簽署技術許可協議，開展印刷OLED材料業務】瑞聯新材公告，公司與廣州華星光電印刷顯示技術有限公司於近日簽署《技術許可協議》，華星印刷將其在印刷OLED材料領域的相關專利及技術秘密許可給公司使用，公司及子公司在許可範圍內開展印刷OLED材料的研發、生產與銷售活動。協議有效期內，公司可在前期專案開發階段無償使用相關專利及技術秘密；若實現量產，許可費用按許可產品銷售額的一定比例計算。本次合作標誌著公司正式切入印刷OLED終端材料賽道。"
-    },
-    {
-      "id": "mkt:01a00fbc-3e48-7aab-9062-11f064739688",
-      "time": "2026-08-17 20:39:49",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "U.S. stock futures slipped: S&P 500 futures turned negative, Dow futures down 0.3%, Nasdaq futures' gains narrowed to 0.2%."
     }
   ]
 }
