@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 01:40:56_
-_本檔包含 3126 則快訊，約 621294 字_
+_更新時間：2026-08-25 02:02:54_
+_本檔包含 3127 則快訊，約 620669 字_
+
+---
+
+### 2026-08-20 08:18:08  #其他
+
+DownDetector：使用者反饋顯示 OpenAI 出現故障。
+
+---
+
+### 2026-08-20 08:17:11  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #Hang Seng Index #CSI300
+
+MSCI Asia Pacific index rose 1%.
+
+---
+
+### 2026-08-20 08:17:00  #觀點
+
+【中信建投：當前保險板塊具備顯著配置價值】中信建投指出，當前保險板塊處於“負債端量增質優、資產端盈利修復確定性高、估值卻仍在低位”的錯配狀態，具備顯著配置價值。負債端來看，港險收益徵稅後部分需求可能迴流至內地，看好規模增長與結構最佳化共振。長期來看，地產財富效應弱化+資管新規推動理財淨值化+低利率共振驅動儲蓄險新單增長。
+
+---
+
+### 2026-08-20 08:15:50  #市場
+
+MSCI亞太指數上漲1%至273.27點。
+
+---
+
+### 2026-08-20 08:15:38  #市場
+
+日經225指數上漲1%，至65981.03點。
+
+---
+
+### 2026-08-20 08:13:34  #公司
+
+【合康新能：向特定物件發行股票申請獲深交所受理】合康新能公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。
+
+---
+
+### 2026-08-20 08:11:46  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Jiangsu Hengrui earnings above expectations at 0.39 CNY — Jiangsu Hengrui (600276) released earnings per share at 0.39 CNY, compared to market expectations of 0.38 CNY.
+
+---
+
+### 2026-08-20 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+China Molybdenum earnings above expectations at 0.36 CNY — China Molybdenum (603993) released earnings per share at 0.36 CNY, compared to market expectations of 0.35 CNY.
+
+---
+
+### 2026-08-20 08:11:36  #市場
+
+受疑似資料洩露事件影響，Sakura Internet股價下跌10%。
+
+---
+
+### 2026-08-20 08:11:18  #觀點
+
+【中信證券：預計耐心資本制度將持續夯實】中信證券研報指出，股權市場全鏈條生態正在發生顯著變化：LP結構演變，從“雙輪驅動”到“單極時代”，從“財務回報”到“耐心資本”；GP能力重構，從“財務投資人”到“產業組織者”，從“被動退出”到“主動管理”；投資正規化重塑，從“模式創新”到“科技創新”，從“IRR敘事”到“DPI指標”；退出渠道迭代，從“IPO獨木橋”到“多元退出試水”，從“名義退出”到“實際兌現”。展望未來，預計耐心資本制度將持續夯實，GP格局將持續優勝劣汰，政府投資基金進入存量最佳化階段，投資理念更趨穩健審慎，超額收益來源將從“主題共識博弈”轉向“產業鏈前瞻佈局”，退出端的多元格局也將日趨完善。
+
+---
+
+### 2026-08-20 08:11:01  #MKT News #Macro & Rates #Treasury Yields
+
+Japan's 20-year bond yield fell 7.5 bps to 3.700%.
+
+---
+
+### 2026-08-20 08:10:40  #MKT News #Market Themes #Chip Wars #AMAT.O #Impact bullish #LRCX.O #ASML.AS
+
+【CITIC Securities: global semiconductor equipment upcycle confirmed; monitor overseas expansion】CITIC Securities research says the global semiconductor equipment upcycle remains intact and flags Chinese suppliers’ overseas expansion. SEMI updated its outlook, forecasting sustained growth through 2026–28: global semiconductor manufacturing equipment sales are forecast at $165.9bn in 2026 (+23.2% YoY) and could reach a record $229.5bn by 2028, marking five consecutive years of growth. The industry is experiencing a rare, full-chain price upswing across equipment components, with pricing power structurally shifting from chips to equipment and parts. Component vendors, typically smaller with high fixed costs, should see price rises flow rapidly to margins, while capacity expansion lead times of 12–18 months leave supply relatively inelastic.
+
+---
+
+### 2026-08-20 08:10:35  #公司
+
+【帝爾鐳射：TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高】帝爾鐳射8月19日在機構電話會議表示，TGV相關應用目前主要包括先進封裝玻璃基板通孔、FAU及光通訊玻璃無源器件等方向。玻璃基板在表面平整度、熱膨脹匹配和高頻訊號傳輸等方面具備優勢，未來有望在先進封裝、RDL、CPO、新型顯示、射頻器件和功率器件等領域應用。從產業進展看，公司TGV裝置已覆蓋晶圓級和麵板級應用，並持續與不同區域、不同型別客戶開展合作。玻璃基板方向已有客戶復購需求。總體來看，TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高。
+
+---
+
+### 2026-08-20 08:10:29  #MKT News #Market Regions
+
+Australia's S&P/ASX 200 opened 41.50 points higher, up 0.46%, at 9,095.30 on Thursday, Aug. 20.
+
+---
+
+### 2026-08-20 08:10:06  #觀點
+
+【中信證券：優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期】中信證券研報指出，隨著公募REITs市場業態型別和底層資產持續擴容，中信證券認為市場將不斷湧現結構性的投資機會，透過對於底層資產供求、運營等方向的研究，可以有效提升投資勝率。當前時點，中信證券認為優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期。
 
 ---
 
@@ -18760,89 +18850,5 @@ Australian Shares Fall for 6th Session — Australian equities slipped 28 points
 ### 2026-08-19 08:56:30  #公司
 
 【452股獲融資買入超億元，兆易創新獲買入37.2億元居首】Wind資料顯示，A股8月18日共有3850只個股獲融資資金買入，有452股買入金額超億元。其中，兆易創新、長鑫科技、中際旭創融資買入金額排名前三，分別獲買入37.2億元、31.65億元、31.48億元。從融資買入額佔當日總成交金額比重來看，有1只個股融資買入額佔比超30%。其中騰達科技、光大銀行、陽光諾和融資買入額佔成交額比重排名前三，分別為30.64%、29.95%、29.84%。從融資淨買入金額來看，有28只個股獲融資淨買入超億元。其中，C頻準、中石科技、芯原股份融資淨買入金額排名前三，分別獲淨買入7.19億元、4.56億元、4.31億元。
-
----
-
-### 2026-08-19 08:56:24  #國際
-
-【伊朗否認向阿聯酋發射導彈】伊朗外交部發言人巴加埃19日否認伊朗向阿聯酋發射導彈，稱阿聯酋有關指控“毫無根據”。 巴加埃當天凌晨發表宣告表示，伊朗對阿聯酋提出的指控表示遺憾，阿聯酋的行為違背了睦鄰友好原則，損害了當前為加強地區國家間信任、防止不安全域性勢升級所做的努力。 巴加埃說，“考慮到美國和以色列持續針對地區和平與安全採取惡意行動，特別是其多次進行‘假旗行動’的歷史，當前局勢存在複雜性”，地區國家應避免對伊朗提出毫無根據的指控。 阿聯酋國防部18日稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。
-
----
-
-### 2026-08-19 08:55:52  #公司
-
-恆和珠寶集團有限公司在香港暫停交易。
-
----
-
-### 2026-08-19 08:55:37  #公司
-
-【露笑科技：8英寸碳化矽襯底片已形成銷售】露笑科技8月19日在互動平臺表示，公司已成功突破8英寸、12英寸碳化矽襯底關鍵技術瓶頸，8英寸碳化矽襯底片已形成銷售，12英寸碳化矽業務也在拓展中。
-
----
-
-### 2026-08-19 08:55:15  #公司
-
-【金楊精密在無錫成立國際貿易新公司】企查查APP顯示，近日，金楊國際貿易（無錫）有限公司成立，經營範圍包含：供應鏈管理服務；離岸貿易經營；機械裝置租賃；電子專用材料銷售等。企查查股權穿透顯示，該公司由金楊精密全資持股。
-
----
-
-### 2026-08-19 08:55:02  #國際
-
-澳大利亞總理阿爾巴尼斯：感謝泰國總理阿努廷提供航空燃油。
-
----
-
-### 2026-08-19 08:53:42  #其他
-
-【華海清科新一代雙工作臺劃切裝備Versatile-DT300D首臺出機】近日，華海清科新一代雙工作臺高效劃切裝備Versatile-DT300D首臺裝備正式出機，發往國內先進儲存龍頭企業。Versatile-DT300D面向儲存晶片、先進封裝與影象感測器領域。
-
----
-
-### 2026-08-19 08:53:23  #MKT News #Macro & Rates #Treasury Yields #Market Themes #Chip Wars #AI Revolution #Nasdaq100 #Impact bearish #DXY #Impact bullish #XAUUSD
-
-【Rising yields hit chip stocks; South Korea leads as investors 'unwilling to pay high premiums'】South Korean shares led declines in Asian chip names on Wednesday morning as rising bond yields intensified concern over heavy tech-sector capital spending. The KOSPI tumbled as much as 6.8% intraday and an Asian semiconductor index fell over 2%, mirroring selloffs in US semiconductor and other AI-related stocks. Bond yields stayed elevated on worries about inflation and rising government debt, raising the risk that borrowing costs could climb further; uncertainty from the ongoing Iran conflict added to caution. The CEO of Fibonacci Asset Management said the long-term AI case remains intact but rising rates and geopolitical risk are making investors unwilling to pay high premiums, and price falls also reflected profit-taking after an “exceptionally strong rally.”
-
----
-
-### 2026-08-19 08:52:51  #資料 #國際
-
-【物價高漲 日本家庭傾向減少消費】日本政府17日釋出的初步統計結果顯示，扣除物價變動因素，2026年第二季度日本實際國內生產總值（GDP）環比增長0.3%，按年率計算增長1.1%，遠低於市場預期。同時，佔日本經濟總量一半以上的個人消費在二季度基本停滯。日本方面訊息稱，在物價高漲令人擔憂的背景下，日本家庭更加傾向於減少消費、節約開支。訊息稱，日本政府最新調查顯示，反映未來半年消費者信心的消費者態度指數截至7月始終低於美以對伊朗發動軍事行動之前的水平。（央視）
-
----
-
-### 2026-08-19 08:50:23  #公司
-
-【澳大利亞監管機構發現大規模房貸欺詐 涉多家主要銀行和離岸資金】澳大利亞金融犯罪監管機構在審查該國主要銀行後發現，一起有組織的房貸欺詐活動規模可能高達數億澳元。澳大利亞交易報告與分析中心(Austrac)週三在宣告中稱，調查發現貸款申請中存在虛報收入、偽造就業資訊和捏造經營活動等行為。此次分析涵蓋10家銀行，並發現部分案例利用離岸資金完成房地產交割和償還住房抵押貸款。調查結果凸顯出澳大利亞規模達2.5萬億澳元（約1.8萬億美元）的住房貸款市場存在漏洞。Austrac執行長Brendan Thomas表示：“儘管該專案沒有發現廣泛存在的洗錢證據，但其暴露出的漏洞可能被試圖濫用澳大利亞金融體系的犯罪分子利用。”Thomas稱：“這類活動的規模應當為所有貸款機構敲響警鐘。在覆蓋澳大利亞絕大部分住房抵押貸款市場的銀行中，我們都發現了相同的預警訊號。”
-
----
-
-### 2026-08-19 08:49:17  #公司 #國際
-
-【三星擬投資2400億韓元在韓國建設暖通空調生產線】三星電子在一份宣告中表示，將投資約2400億韓元，於韓國光州廠區投建FläktGroup暖通空調生產線。新生產線計劃2028年建成並投產。該工廠將生產FläktGroup暖通空調系統，其中包含面向人工智慧資料中心的高階冷卻解決方案。三星計劃依託該工廠拓展本國暖通空調業務，重點瞄準人工智慧資料中心帶來的增長需求。三星目標是將暖通空調業務打造為全新增長引擎，並在2030年躋身該行業全球第一梯隊企業。
-
----
-
-### 2026-08-19 08:49:01  #MKT News #CSI300 #SSE Composite
-
-【Margin financing on China's two exchanges rises 5.223 bln yuan】As of Aug. 18, margin financing on the Shanghai Stock Exchange was 1.3673 tln yuan, up 2.417 bln yuan from the prior session; Shenzhen Stock Exchange was 1.2952 tln yuan, up 2.806 bln; combined total 2.6625 tln yuan, up 5.223 bln yuan.
-
----
-
-### 2026-08-19 08:48:35  #公司
-
-【捷成股份成立國際數字科技公司，含AI相關業務】企查查APP顯示，近日，捷成世紀（北京）國際數字科技有限公司成立，經營範圍包含：網際網路資料服務；資料處理和儲存支援服務；資訊系統整合服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由捷成股份全資持股。
-
----
-
-### 2026-08-19 08:48:01  #其他
-
-【兩市融資餘額增加52.23億元】截至8月18日，上交所融資餘額報13672.67億元，較前一交易日增加24.17億元；深交所融資餘額報12952.49億元，較前一交易日增加28.06億元；兩市合計26625.16億元，較前一交易日增加52.23億元。
-
----
-
-### 2026-08-19 08:47:40  #其他
-
-【Cerebras釋出CS-4 AI加速器，稱推理速度最高達GPU方案30倍】當地時間8月18日，Cerebras釋出新一代AI加速器CS-4，稱其推理速度最高可達基於GPU方案的30倍。CS-4採用三顆新型WSE-3 Turbo晶圓級引擎，AI算力達750 PFLOPS，記憶體頻寬達129.6 PB/s。Cerebras表示，在GPT-OSS-120B測試中，CS-4每使用者每秒生成超過4400個Token，最高達到GPU方案的30倍；其每瓦吞吐量最高為CS-3的10倍，並可支援超過50萬億引數的模型。CS-4預計將於今年第三季度開始出貨。
 
 ---

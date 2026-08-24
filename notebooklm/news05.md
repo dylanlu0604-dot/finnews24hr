@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 01:40:56_
-_本檔包含 3098 則快訊，約 620899 字_
+_更新時間：2026-08-25 02:02:54_
+_本檔包含 3094 則快訊，約 620976 字_
+
+---
+
+### 2026-08-19 08:56:24  #國際
+
+【伊朗否認向阿聯酋發射導彈】伊朗外交部發言人巴加埃19日否認伊朗向阿聯酋發射導彈，稱阿聯酋有關指控“毫無根據”。 巴加埃當天凌晨發表宣告表示，伊朗對阿聯酋提出的指控表示遺憾，阿聯酋的行為違背了睦鄰友好原則，損害了當前為加強地區國家間信任、防止不安全域性勢升級所做的努力。 巴加埃說，“考慮到美國和以色列持續針對地區和平與安全採取惡意行動，特別是其多次進行‘假旗行動’的歷史，當前局勢存在複雜性”，地區國家應避免對伊朗提出毫無根據的指控。 阿聯酋國防部18日稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。
+
+---
+
+### 2026-08-19 08:55:52  #公司
+
+恆和珠寶集團有限公司在香港暫停交易。
+
+---
+
+### 2026-08-19 08:55:37  #公司
+
+【露笑科技：8英寸碳化矽襯底片已形成銷售】露笑科技8月19日在互動平臺表示，公司已成功突破8英寸、12英寸碳化矽襯底關鍵技術瓶頸，8英寸碳化矽襯底片已形成銷售，12英寸碳化矽業務也在拓展中。
+
+---
+
+### 2026-08-19 08:55:15  #公司
+
+【金楊精密在無錫成立國際貿易新公司】企查查APP顯示，近日，金楊國際貿易（無錫）有限公司成立，經營範圍包含：供應鏈管理服務；離岸貿易經營；機械裝置租賃；電子專用材料銷售等。企查查股權穿透顯示，該公司由金楊精密全資持股。
+
+---
+
+### 2026-08-19 08:55:02  #國際
+
+澳大利亞總理阿爾巴尼斯：感謝泰國總理阿努廷提供航空燃油。
+
+---
+
+### 2026-08-19 08:53:42  #其他
+
+【華海清科新一代雙工作臺劃切裝備Versatile-DT300D首臺出機】近日，華海清科新一代雙工作臺高效劃切裝備Versatile-DT300D首臺裝備正式出機，發往國內先進儲存龍頭企業。Versatile-DT300D面向儲存晶片、先進封裝與影象感測器領域。
+
+---
+
+### 2026-08-19 08:53:23  #MKT News #Macro & Rates #Treasury Yields #Market Themes #Chip Wars #AI Revolution #Nasdaq100 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+【Rising yields hit chip stocks; South Korea leads as investors 'unwilling to pay high premiums'】South Korean shares led declines in Asian chip names on Wednesday morning as rising bond yields intensified concern over heavy tech-sector capital spending. The KOSPI tumbled as much as 6.8% intraday and an Asian semiconductor index fell over 2%, mirroring selloffs in US semiconductor and other AI-related stocks. Bond yields stayed elevated on worries about inflation and rising government debt, raising the risk that borrowing costs could climb further; uncertainty from the ongoing Iran conflict added to caution. The CEO of Fibonacci Asset Management said the long-term AI case remains intact but rising rates and geopolitical risk are making investors unwilling to pay high premiums, and price falls also reflected profit-taking after an “exceptionally strong rally.”
+
+---
+
+### 2026-08-19 08:52:51  #資料 #國際
+
+【物價高漲 日本家庭傾向減少消費】日本政府17日釋出的初步統計結果顯示，扣除物價變動因素，2026年第二季度日本實際國內生產總值（GDP）環比增長0.3%，按年率計算增長1.1%，遠低於市場預期。同時，佔日本經濟總量一半以上的個人消費在二季度基本停滯。日本方面訊息稱，在物價高漲令人擔憂的背景下，日本家庭更加傾向於減少消費、節約開支。訊息稱，日本政府最新調查顯示，反映未來半年消費者信心的消費者態度指數截至7月始終低於美以對伊朗發動軍事行動之前的水平。（央視）
+
+---
+
+### 2026-08-19 08:50:23  #公司
+
+【澳大利亞監管機構發現大規模房貸欺詐 涉多家主要銀行和離岸資金】澳大利亞金融犯罪監管機構在審查該國主要銀行後發現，一起有組織的房貸欺詐活動規模可能高達數億澳元。澳大利亞交易報告與分析中心(Austrac)週三在宣告中稱，調查發現貸款申請中存在虛報收入、偽造就業資訊和捏造經營活動等行為。此次分析涵蓋10家銀行，並發現部分案例利用離岸資金完成房地產交割和償還住房抵押貸款。調查結果凸顯出澳大利亞規模達2.5萬億澳元（約1.8萬億美元）的住房貸款市場存在漏洞。Austrac執行長Brendan Thomas表示：“儘管該專案沒有發現廣泛存在的洗錢證據，但其暴露出的漏洞可能被試圖濫用澳大利亞金融體系的犯罪分子利用。”Thomas稱：“這類活動的規模應當為所有貸款機構敲響警鐘。在覆蓋澳大利亞絕大部分住房抵押貸款市場的銀行中，我們都發現了相同的預警訊號。”
+
+---
+
+### 2026-08-19 08:49:17  #公司 #國際
+
+【三星擬投資2400億韓元在韓國建設暖通空調生產線】三星電子在一份宣告中表示，將投資約2400億韓元，於韓國光州廠區投建FläktGroup暖通空調生產線。新生產線計劃2028年建成並投產。該工廠將生產FläktGroup暖通空調系統，其中包含面向人工智慧資料中心的高階冷卻解決方案。三星計劃依託該工廠拓展本國暖通空調業務，重點瞄準人工智慧資料中心帶來的增長需求。三星目標是將暖通空調業務打造為全新增長引擎，並在2030年躋身該行業全球第一梯隊企業。
+
+---
+
+### 2026-08-19 08:49:01  #MKT News #CSI300 #SSE Composite
+
+【Margin financing on China's two exchanges rises 5.223 bln yuan】As of Aug. 18, margin financing on the Shanghai Stock Exchange was 1.3673 tln yuan, up 2.417 bln yuan from the prior session; Shenzhen Stock Exchange was 1.2952 tln yuan, up 2.806 bln; combined total 2.6625 tln yuan, up 5.223 bln yuan.
+
+---
+
+### 2026-08-19 08:48:35  #公司
+
+【捷成股份成立國際數字科技公司，含AI相關業務】企查查APP顯示，近日，捷成世紀（北京）國際數字科技有限公司成立，經營範圍包含：網際網路資料服務；資料處理和儲存支援服務；資訊系統整合服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由捷成股份全資持股。
+
+---
+
+### 2026-08-19 08:48:01  #其他
+
+【兩市融資餘額增加52.23億元】截至8月18日，上交所融資餘額報13672.67億元，較前一交易日增加24.17億元；深交所融資餘額報12952.49億元，較前一交易日增加28.06億元；兩市合計26625.16億元，較前一交易日增加52.23億元。
+
+---
+
+### 2026-08-19 08:47:40  #其他
+
+【Cerebras釋出CS-4 AI加速器，稱推理速度最高達GPU方案30倍】當地時間8月18日，Cerebras釋出新一代AI加速器CS-4，稱其推理速度最高可達基於GPU方案的30倍。CS-4採用三顆新型WSE-3 Turbo晶圓級引擎，AI算力達750 PFLOPS，記憶體頻寬達129.6 PB/s。Cerebras表示，在GPT-OSS-120B測試中，CS-4每使用者每秒生成超過4400個Token，最高達到GPU方案的30倍；其每瓦吞吐量最高為CS-3的10倍，並可支援超過50萬億引數的模型。CS-4預計將於今年第三季度開始出貨。
 
 ---
 
@@ -18632,113 +18716,5 @@ President Trump said South Korea's president told him he would rather not get in
 ### 2026-08-18 02:03:11  #公司 #觀點
 
 花旗集團：截至7月底信用卡拖欠率為1.32%。
-
----
-
-### 2026-08-18 02:02:09  #MKT News #WTI #Impact bearish #Brent
-
-Turkish diplomatic sources said Turkey's foreign minister spoke with Iran's foreign minister to discuss efforts to reopen the Strait of Hormuz and to extend the U.S.-Iran ceasefire.
-
----
-
-### 2026-08-18 01:59:41  #MKT News
-
-President Trump said Oman has not performed well and that the US will deal with them.
-
----
-
-### 2026-08-18 01:59:11  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI crude rose above $84/bbl for the first time since July 31, gaining 2.93% intraday. Brent crude rose 3% intraday to $89.83/bbl.
-
----
-
-### 2026-08-18 01:58:23  #國際
-
-土耳其外交部長與伊朗外長通話，討論了開放霍爾木茲海峽、繼續美伊停火等事宜。
-
----
-
-### 2026-08-18 01:58:00  #國際
-
-特朗普：阿曼的表現不太好，但我們會處理好他們。
-
----
-
-### 2026-08-18 01:57:30  #國際
-
-特朗普談及阿曼：我認為他們的表現並不理想。
-
----
-
-### 2026-08-18 01:56:54  #市場
-
-布倫特原油日內漲3%，現報91.18美元/桶。
-
----
-
-### 2026-08-18 01:56:47  #市場 #焦點
-
-WTI原油突破84美元/桶，日內漲3.12%。
-
----
-
-### 2026-08-18 01:56:18  #市場 #焦點
-
-布倫特原油突破91美元/桶，日內漲2.87%。
-
----
-
-### 2026-08-18 01:56:13  #市場
-
-WTI原油日內漲3%，現報83.92美元/桶。
-
----
-
-### 2026-08-18 01:55:02  #MKT News #Market Regions #Japan & APAC
-
-【Russian FM Lavrov says Japan using criticism of Russia to mask its own military moves】Russian Foreign Minister Lavrov said on July 17 that Tokyo’s criticism of President Putin’s visit to Iturup Island appears aimed at diverting attention from Japan’s “openly aggressive” military trajectory. He urged Japan to focus on domestic issues, accused Tokyo of coordinating with the United States to “rewrite” international law, and warned that Japan is evading historical responsibility and breaching constitutional limits to expand Self-Defense Force operations overseas—developments he described as “very concerning.”
-
----
-
-### 2026-08-18 01:54:22  #國際
-
-特朗普談及Flock車牌識別監控攝像頭：這件事有利有弊，我們很快會公佈對於Flock攝像頭的官方立場。
-
----
-
-### 2026-08-18 01:52:48  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's foreign minister, responding to Iraq's foreign minister, said Iran has no reason to strike the Kurdistan Regional Government leader's official residence.
-
----
-
-### 2026-08-18 01:50:33  #國際
-
-【俄外長：日本企圖借抨擊俄羅斯掩蓋自身軍事動向】俄羅斯外交部長拉夫羅夫17日在評論日本方面針對俄總統普京登上伊圖魯普島（日本稱擇捉島）的表態時對俄媒表示，建議日本領導層集中精力處理國內事務，而非對俄進行“攻擊”。拉夫羅夫說，如果日本企圖透過抨擊俄羅斯來轉移國際社會對其“公然帶有侵略性質的”軍事路線的注意，那麼“我建議他們管好自己的事，他們國內有很多問題需要解決”。拉夫羅夫表示，日本試圖聯合與其關係緊密的盟友美國，按照雙方意願“改寫”國際法。日本企圖逃避自身犯下罪行的歷史責任，當下還在突破憲法約束，謀求拓展自衛隊海外活動，種種動向“非常令人擔憂”。（新華社）
-
----
-
-### 2026-08-18 01:50:01  #國際
-
-伊拉克外交部長與伊朗外長討論針對庫爾德斯坦地區政府主席官邸的無人機襲擊事件。
-
----
-
-### 2026-08-18 01:50:00  #MKT News #Brent #Impact bullish #WTI
-
-【Iranian media: UAE-owned tanker seized in Strait of Hormuz】Fars News, citing maritime data, reports a tanker owned by a UAE company was seized in the Strait of Hormuz after being intercepted near Qeshm Island. Iranian officials have said all vessels must use Tehran-designated routes and comply with related regulations.
-
----
-
-### 2026-08-18 01:46:40  #MKT News
-
-【US sell-off continues; 30-year Treasury yield highest since 2007】The 30-year Treasury yield rose 3bp on Monday to 5.29%, its highest level since 2007 and closing in on the 2007 peak of 5.44%. The rise reflects investor concern over a rapidly expanding US debt stock, heavy long-term issuance and inflation running above the Fed’s target for the past five years. Higher long-term yields are lifting US government financing costs as investors demand greater compensation against rising debt and persistent inflation that could keep short-term rates elevated for longer. Barclays US rates strategist Anshul Pradhan said the bank remains sceptical the long-end sell-off will soon abate; a constructive view on long Treasuries would likely require some combination of fiscal relief, a slowdown in AI-related bond issuance, a revised Treasury issuance strategy, or sustained weakness in economic activity.
-
----
-
-### 2026-08-18 01:45:19  #Trading Economics #Markets #commodity #Importance 0
-
-Corn Hits 12-week High — Corn increased to 466.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 3.72%, and in the last 12 months, it increased 21.73%.
 
 ---

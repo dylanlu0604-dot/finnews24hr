@@ -1,7 +1,71 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 01:40:56_
-_本檔包含 3274 則快訊，約 620816 字_
+_更新時間：2026-08-25 02:02:54_
+_本檔包含 3266 則快訊，約 620861 字_
+
+---
+
+### 2026-08-21 07:16:44  #MKT News #Market Regions #Greater China #CNH
+
+【LPR unchanged for 15th month; 'dual-anchor' setup to boost loan-pricing efficiency】China's LPR was unchanged for the 15th consecutive month. On Aug 20 the PBOC authorized the National Interbank Funding Center to publish the rates: 1-year LPR 3.00%, 5-year-plus LPR 3.50%. Analysts say a steady LPR is consistent with current policy rates and banks' net interest margins. Since late July the DR (bond repo rate for deposit-taking financial institutions) benchmark lending mechanism has been implemented; the dual-anchor framework is expected to further improve LPR quoting efficiency and loan-pricing quality.
+
+---
+
+### 2026-08-21 07:16:26  #其他
+
+市場訊息： 永利波士頓賭場員工授權舉行罷工。
+
+---
+
+### 2026-08-21 07:15:04  #市場
+
+【LPR連續15個月持穩 “雙錨”並行助推貸款定價質效提升】貸款市場報價利率（LPR）連續15個月維持不變。中國人民銀行8月20日授權全國銀行間同業拆借中心公佈：1年期LPR為3.0%，5年期以上LPR為3.5%。分析人士認為，綜合當前政策利率、銀行淨息差等現實情況，LPR“按兵不動”符合預期。7月下旬以來，DR（存款類金融機構債券回購利率）基準利率貸款持續落地，未來LPR報價效率有望進一步提升。（上證報）
+
+---
+
+### 2026-08-21 07:13:50  #其他
+
+【年內分紅已破千億元 公募基金著力提升投資者獲得感】公募基金迎來分紅熱潮。資料顯示，年內公募基金分紅金額已經突破千億元大關，分紅頻次同比大增。在“以投資者為本”的監管導向下，公募基金高頻分紅已成常態。疊加費率下調、浮動費率創新、投顧陪伴升級等多維舉措，公募行業正在打響全週期、多維度的持有人體驗升級戰。（上海證券報）
+
+---
+
+### 2026-08-21 07:12:28  #市場 #焦點
+
+現貨黃金突破4530美元/盎司，日內漲0.24%。
+
+---
+
+### 2026-08-21 07:12:22  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、首批41個典型場景釋出，助力規模化創新應用 交通需求與人工智慧技術加速對接（政策解讀）
+2、社會消費商品和服務零售總額前7月同比增2.6% 服務零售額增速持續高於商品零售額
+3、我國與APEC其他經濟體進出口前7月同比增21% 增速高於貨物貿易整體水平
+4、進出口銀行前7月新發放製造業貸款近5000億元 先進製造業貸款佔40%
+5、深入實施數字人社建設行動 到2030年底，申領電子社保卡人口覆蓋率達90%
+6、中國已成為厄瓜多第二大貿易伙伴
+7、工業和資訊化部再次批覆開展衛星物聯網業務商用試驗
+8、認證體系建設持續完善 上半年綠色建材營收同比增長超10%
+9、連通京津冀長三角 電商多式聯運快速班列開行
+10、新疆立法促進棉花產業高質量發展
+11、蘇州以科技創新驅動高質量發展
+12、機械工業何以“長紅”（讀數）
+13、山東助力企業延鏈補鏈強鏈、轉型智慧製造 傳統工廠跑出兩種“加速度”
+14、中國茶飲品牌不斷拓展國際市場 海外年輕人愛上“中國茶”（中國品牌圈粉海外）
+15、中國240小時過境免籤“朋友圈”擴充套件至57國
+16、“快遞進村”的建制村新增2244個
+17、“機器人消費街”亮相2026世界機器人大會
+18、恒大集團、恒大地產、許家印等案一審宣判
+19、《網路資料安全風險評估辦法》8月20日施行 公安部有關負責人就其實施有關事項回答記者提問
+20、佔約旦進口電動汽車八成以上 中國電動汽車獲約旦民眾青睞（國際視點）
+21、加快基礎設施建設 推動關鍵礦產增值 南部非洲加速推進工業化程序
+22、歐盟及英國約半數土地遭遇不同程度乾旱 持續高溫乾旱重創歐洲農業。
+
+---
+
+### 2026-08-21 07:12:22  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Falls, but Poised for 3rd Weekly Gain — New Zealand stocks inched down 18 points, or 0.1%, to 13,901 in Friday morning deals, extending losses from the previous session, tracking a downbeat session on Wall Street overnight amid rising US Treasury yields. The decline was mainly weighed down by healthcare, materials, and industrials. However, gains in consumer staples, tech sectors, and real estate capped the fall. Traders were also anticipating the release of US July PMIs and New Zealand's retail sales for Q2 due next week. On the data front, New Zealand's trade deficit widened in July, as exports rose less than imports. Among early losers were Fisher & Paykel (-1.1%), F&C Investment (-0.7%), EBOS Group (-0.6%), Mercury NZ (-0.6%), and Freightways Group (-0.5%). However, for the week, the index rose 0.3%, marking the third consecutive weekly gain.
 
 ---
 
@@ -19677,95 +19741,5 @@ Japan Imports Hit Record High — Japan's imports surged 27.8% yoy to a new reco
 ### 2026-08-20 08:18:51  #MKT News #Market Regions #Japan & APAC #Market Themes #AI Revolution #USDJPY #Impact mixed #Brent #Impact bullish
 
 【Japan July exports +23.2% YoY, semiconductor equipment exports +49.1%; trade deficit ¥634.5bn】Japan July exports rose 23.2% YoY, above the 19.9% forecast, marking the fifth consecutive month of acceleration and the fastest pace since Oct 2022. Semiconductor equipment exports jumped 49.1% YoY, attributed to AI-driven demand. Imports climbed 27.8% YoY (vs. 26.5% expected), the highest since Nov 2022. The trade deficit stood at ¥634.5bn, below the ¥680.0bn forecast but wider than June’s ¥409.9bn. Petroleum imports surged 87.8% YoY amid higher oil prices linked to the Iran war.
-
----
-
-### 2026-08-20 08:18:08  #其他
-
-DownDetector：使用者反饋顯示 OpenAI 出現故障。
-
----
-
-### 2026-08-20 08:17:11  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #Hang Seng Index #CSI300
-
-MSCI Asia Pacific index rose 1%.
-
----
-
-### 2026-08-20 08:17:00  #觀點
-
-【中信建投：當前保險板塊具備顯著配置價值】中信建投指出，當前保險板塊處於“負債端量增質優、資產端盈利修復確定性高、估值卻仍在低位”的錯配狀態，具備顯著配置價值。負債端來看，港險收益徵稅後部分需求可能迴流至內地，看好規模增長與結構最佳化共振。長期來看，地產財富效應弱化+資管新規推動理財淨值化+低利率共振驅動儲蓄險新單增長。
-
----
-
-### 2026-08-20 08:15:50  #市場
-
-MSCI亞太指數上漲1%至273.27點。
-
----
-
-### 2026-08-20 08:15:38  #市場
-
-日經225指數上漲1%，至65981.03點。
-
----
-
-### 2026-08-20 08:13:34  #公司
-
-【合康新能：向特定物件發行股票申請獲深交所受理】合康新能公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核、獲得同意註冊的決定及其時間尚存在不確定性。
-
----
-
-### 2026-08-20 08:11:46  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Jiangsu Hengrui earnings above expectations at 0.39 CNY — Jiangsu Hengrui (600276) released earnings per share at 0.39 CNY, compared to market expectations of 0.38 CNY.
-
----
-
-### 2026-08-20 08:11:45  #Trading Economics #Markets #China #Earnings #Importance 0
-
-China Molybdenum earnings above expectations at 0.36 CNY — China Molybdenum (603993) released earnings per share at 0.36 CNY, compared to market expectations of 0.35 CNY.
-
----
-
-### 2026-08-20 08:11:36  #市場
-
-受疑似資料洩露事件影響，Sakura Internet股價下跌10%。
-
----
-
-### 2026-08-20 08:11:18  #觀點
-
-【中信證券：預計耐心資本制度將持續夯實】中信證券研報指出，股權市場全鏈條生態正在發生顯著變化：LP結構演變，從“雙輪驅動”到“單極時代”，從“財務回報”到“耐心資本”；GP能力重構，從“財務投資人”到“產業組織者”，從“被動退出”到“主動管理”；投資正規化重塑，從“模式創新”到“科技創新”，從“IRR敘事”到“DPI指標”；退出渠道迭代，從“IPO獨木橋”到“多元退出試水”，從“名義退出”到“實際兌現”。展望未來，預計耐心資本制度將持續夯實，GP格局將持續優勝劣汰，政府投資基金進入存量最佳化階段，投資理念更趨穩健審慎，超額收益來源將從“主題共識博弈”轉向“產業鏈前瞻佈局”，退出端的多元格局也將日趨完善。
-
----
-
-### 2026-08-20 08:11:01  #MKT News #Macro & Rates #Treasury Yields
-
-Japan's 20-year bond yield fell 7.5 bps to 3.700%.
-
----
-
-### 2026-08-20 08:10:40  #MKT News #Market Themes #Chip Wars #AMAT.O #Impact bullish #LRCX.O #ASML.AS
-
-【CITIC Securities: global semiconductor equipment upcycle confirmed; monitor overseas expansion】CITIC Securities research says the global semiconductor equipment upcycle remains intact and flags Chinese suppliers’ overseas expansion. SEMI updated its outlook, forecasting sustained growth through 2026–28: global semiconductor manufacturing equipment sales are forecast at $165.9bn in 2026 (+23.2% YoY) and could reach a record $229.5bn by 2028, marking five consecutive years of growth. The industry is experiencing a rare, full-chain price upswing across equipment components, with pricing power structurally shifting from chips to equipment and parts. Component vendors, typically smaller with high fixed costs, should see price rises flow rapidly to margins, while capacity expansion lead times of 12–18 months leave supply relatively inelastic.
-
----
-
-### 2026-08-20 08:10:35  #公司
-
-【帝爾鐳射：TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高】帝爾鐳射8月19日在機構電話會議表示，TGV相關應用目前主要包括先進封裝玻璃基板通孔、FAU及光通訊玻璃無源器件等方向。玻璃基板在表面平整度、熱膨脹匹配和高頻訊號傳輸等方面具備優勢，未來有望在先進封裝、RDL、CPO、新型顯示、射頻器件和功率器件等領域應用。從產業進展看，公司TGV裝置已覆蓋晶圓級和麵板級應用，並持續與不同區域、不同型別客戶開展合作。玻璃基板方向已有客戶復購需求。總體來看，TGV及其衍生應用仍處於產業匯入階段，但客戶關注度和市場活躍度較高。
-
----
-
-### 2026-08-20 08:10:29  #MKT News #Market Regions
-
-Australia's S&P/ASX 200 opened 41.50 points higher, up 0.46%, at 9,095.30 on Thursday, Aug. 20.
-
----
-
-### 2026-08-20 08:10:06  #觀點
-
-【中信證券：優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期】中信證券研報指出，隨著公募REITs市場業態型別和底層資產持續擴容，中信證券認為市場將不斷湧現結構性的投資機會，透過對於底層資產供求、運營等方向的研究，可以有效提升投資勝率。當前時點，中信證券認為優質資產基本面和二級市場的改善預期更加積極，已進入組合配置的機遇期。
 
 ---
