@@ -1,7 +1,273 @@
 {
   "date": "2026-08-25",
-  "count": 71,
+  "count": 99,
   "items": [
+    {
+      "id": "5056079",
+      "time": "2026-08-25 01:14:12",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財長貝森特： 我們將繼續執行財政部的常規國債拍賣計劃。"
+    },
+    {
+      "id": "mkt:01a034c3-e2c4-7aab-90fc-e72829ded507",
+      "time": "2026-08-25 01:14:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said he would not set a specific timetable to sever ties with Iran and warned the U.S. does not have unlimited patience."
+    },
+    {
+      "id": "5056078",
+      "time": "2026-08-25 01:13:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們正與各國統一立場，告知各方我們的預期。"
+    },
+    {
+      "id": "mkt:01a034c3-6929-7aab-90fc-db9d653bf325",
+      "time": "2026-08-25 01:13:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said world leaders must make decisions; action on Iran will begin today."
+    },
+    {
+      "id": "5056077",
+      "time": "2026-08-25 01:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：不會設定切斷與伊朗往來的具體時限，但我們的耐心並非無限。"
+    },
+    {
+      "id": "5056076",
+      "time": "2026-08-25 01:12:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：世界各國領導人該做出抉擇了，針對伊朗的行動今日正式啟動。"
+    },
+    {
+      "id": "mkt:01a034c2-b014-7aab-90fc-d5a501e6ca89",
+      "time": "2026-08-25 01:12:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said entities that facilitate money laundering for Iran will be removed from the U.S. dollar system."
+    },
+    {
+      "id": "mkt:01a034c2-344f-7aab-90fc-ce2d18ccdbe4",
+      "time": "2026-08-25 01:12:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said no one can escape U.S. sanctions."
+    },
+    {
+      "id": "5056075",
+      "time": "2026-08-25 01:12:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：任何人都無法逃脫美國製裁的打擊範圍。"
+    },
+    {
+      "id": "mkt:01a034c1-fcad-7aab-90fc-c35a885b4d6a",
+      "time": "2026-08-25 01:12:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Carney said on Trump's latest tariff threat that U.S. retaliation in some form would not be surprising."
+    },
+    {
+      "id": "5056074",
+      "time": "2026-08-25 01:11:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：關注美國總統特朗普的50%汽車關稅威脅。加拿大與美國之間有望達成一份公平協議。"
+    },
+    {
+      "id": "mkt:01a034c1-7d5f-7aab-90fc-b8e2cb9b0b9a",
+      "time": "2026-08-25 01:11:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Canada's Prime Minister Carney said he is monitoring President Trump's threat to impose a 50% tariff on autos."
+    },
+    {
+      "id": "5056073",
+      "time": "2026-08-25 01:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍襲擊加沙地帶多地 造成至少7人死亡】自當地時間24日凌晨以來，以色列國防軍對加沙地帶多處區域發動空襲，已造成至少7名巴勒斯坦人死亡。死者中包括一名女童，另有多人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a034c1-5b83-7aab-90fc-b508538e79c5",
+      "time": "2026-08-25 01:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian prime minister Carney said US president Trump wants to destroy Canada's key industries under his negotiating terms."
+    },
+    {
+      "id": "5056072",
+      "time": "2026-08-25 01:10:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國將剝奪洗錢伊朗資金相關主體使用美元的許可權。"
+    },
+    {
+      "id": "mkt:01a034c0-7ddf-7aab-90fc-afc5d1820dfe",
+      "time": "2026-08-25 01:10:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said any economic engagement with Iran would expose those involved to comprehensive U.S. sanctions using the full power of the United States."
+    },
+    {
+      "id": "mkt:01a034c0-5cac-7aab-90fc-a14fa335b4a8",
+      "time": "2026-08-25 01:10:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Washington will launch an \"economic isolation operation\" to cut off all remaining options for the Iranian regime."
+    },
+    {
+      "id": "5056071",
+      "time": "2026-08-25 01:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼就特朗普最新關稅威脅表態：美國採取某種形式的報復並不出人意料。"
+    },
+    {
+      "id": "5056070",
+      "time": "2026-08-25 01:09:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：發起 “經濟棄民行動”，徹底封鎖伊朗政權可動用的其餘所有選項。（也被美方稱作經濟 D 日 / 經濟諾曼底登陸）"
+    },
+    {
+      "id": "mkt:01a034bf-56cf-7aab-90fc-9c6caf978c1f",
+      "time": "2026-08-25 01:09:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "US Treasury Secretary Bessent said countries must, within a specified timeframe, close Treasury-designated activities, including Iranian overseas bank branches."
+    },
+    {
+      "id": "mkt:01a034be-f143-7aab-90fc-9067589db1d1",
+      "time": "2026-08-25 01:08:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "S&P500",
+        "XAUUSD"
+      ],
+      "text": "Treasury Secretary Bessent said each country has a clear timetable to shut down activities the Treasury has identified; if they do not act, the U.S. will unilaterally use fiscal powers to do so."
+    },
+    {
+      "id": "mkt:01a034be-7cfa-7aab-90fc-8cdf3b17942a",
+      "time": "2026-08-25 01:08:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said Washington will enforce sanctions on Iran under a \"zero leakage\" policy."
+    },
+    {
+      "id": "5056069",
+      "time": "2026-08-25 01:08:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：每個國家都有明確時限，終止我方所認定的相關活動。若有關國家不採取行動，我們將動用財政部許可權單方面採取措施。"
+    },
+    {
+      "id": "mkt:01a034be-405b-7aab-90fc-87914007a8ac",
+      "time": "2026-08-25 01:07:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said this lays the groundwork for President Trump's goal of preventing Iran from acquiring nuclear weapons."
+    },
+    {
+      "id": "5056068",
+      "time": "2026-08-25 01:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：已為達成總統阻止伊朗獲取核武器的目標做好鋪墊。"
+    },
+    {
+      "id": "5056067",
+      "time": "2026-08-25 01:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國“期望”其他國家採取行動。"
+    },
+    {
+      "id": "mkt:01a034bd-6be2-7aab-90fc-7a981322450c",
+      "time": "2026-08-25 01:07:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said President Trump is calling world leaders to urge them to sever economic ties with Iran."
+    },
+    {
+      "id": "5056066",
+      "time": "2026-08-25 01:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：特朗普正致電多個特定國家，要求其停止與伊朗開展往來。"
+    },
     {
       "id": "5056065",
       "time": "2026-08-25 01:06:24",
