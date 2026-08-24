@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-25 03:06:14",
-  "count": 15820,
+  "updated": "2026-08-25 03:10:15",
+  "count": 15821,
   "items": [
+    {
+      "id": "5056136",
+      "time": "2026-08-25 03:07:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部宣佈成立量子就緒特別工作組，助力向量子安全技術過渡。"
+    },
+    {
+      "id": "mkt:01a0352b-9d66-7aab-90fe-7a5a5188f5e0",
+      "time": "2026-08-25 03:07:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury announces formation of a quantum technology preparedness working group."
+    },
+    {
+      "id": "mkt:01a0352a-4c13-7aab-90fe-70620029a739",
+      "time": "2026-08-25 03:05:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv/Ipsos poll shows that as US public support for a war with Iran falls, Trump's approval remains at historic lows."
+    },
+    {
+      "id": "5056135",
+      "time": "2026-08-25 03:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-5.6模型系列現已在Refinitiv Knowledge.IQ（KIRO）平臺上線。"
+    },
     {
       "id": "mkt:01a03529-b088-7aab-90fe-685a2e7da482",
       "time": "2026-08-25 03:05:19",
@@ -143391,30 +143428,6 @@
         "Impact bullish"
       ],
       "text": "Kushner said the US would be willing to strike a deal if Iran completed the previously discussed agreement and relinquished the capability to build nuclear weapons, but Iran has so far not shown willingness to take steps consistent with US interests."
-    },
-    {
-      "id": "5044735",
-      "time": "2026-08-18 03:08:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚： 我們自由的國民在被俘歲月裡所遭受的一切，絕非僅僅是戰爭史的片段；這是一群歷經苦難卻絕不捨棄伊朗尊嚴之人的堅毅敘事。面對日益加劇的外部壓力與威脅，忍耐、團結與希望，是伊朗堅守不屈的關鍵。"
-    },
-    {
-      "id": "mkt:01a01120-0e84-7aab-9068-ae2c4f0c4eeb",
-      "time": "2026-08-18 03:08:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kushner said Trump will remain patient in pursuing an agreement with Iran."
-    },
-    {
-      "id": "5044734",
-      "time": "2026-08-18 03:07:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥大豆期貨漲約2%，大豆油漲超2.6%】週一（8月17日）紐約尾盤，彭博穀物分類指數漲1.14%，報32.4651點，美股開盤以來持續走高，最近兩個交易日累計上漲3.50%。CBOT玉米期貨漲1.19%，報4.89美元/蒲式耳。CBOT小麥期貨跌0.04%，報6.8925美元/蒲式耳。CBOT大豆期貨漲1.97%，報12.16美元/蒲式耳，最近四天累計上漲4.04%；豆粕期貨漲0.79%，豆油期貨漲2.62%。CBOT瘦肉豬期貨跌0.09%，活牛期貨跌0.10%，飼牛期貨跌0.05%。"
     }
   ]
 }

@@ -1,7 +1,44 @@
 {
   "date": "2026-08-25",
-  "count": 213,
+  "count": 217,
   "items": [
+    {
+      "id": "5056136",
+      "time": "2026-08-25 03:07:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部宣佈成立量子就緒特別工作組，助力向量子安全技術過渡。"
+    },
+    {
+      "id": "mkt:01a0352b-9d66-7aab-90fe-7a5a5188f5e0",
+      "time": "2026-08-25 03:07:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury announces formation of a quantum technology preparedness working group."
+    },
+    {
+      "id": "mkt:01a0352a-4c13-7aab-90fe-70620029a739",
+      "time": "2026-08-25 03:05:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv/Ipsos poll shows that as US public support for a war with Iran falls, Trump's approval remains at historic lows."
+    },
+    {
+      "id": "5056135",
+      "time": "2026-08-25 03:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-5.6模型系列現已在Refinitiv Knowledge.IQ（KIRO）平臺上線。"
+    },
     {
       "id": "mkt:01a03529-b088-7aab-90fe-685a2e7da482",
       "time": "2026-08-25 03:05:19",
