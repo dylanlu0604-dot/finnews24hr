@@ -1,7 +1,105 @@
 {
   "date": "2026-08-24",
-  "count": 486,
+  "count": 497,
   "items": [
+    {
+      "id": "5054367",
+      "time": "2026-08-24 10:41:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.00%，現報3439.207點；上證指數跌0.49%，現報3885.972點；深證成指跌2.01%，現報13811.295點。"
+    },
+    {
+      "id": "5054366",
+      "time": "2026-08-24 10:41:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.00%，現報13811.777點；上證指數跌0.49%，現報3886.168點；創業板指跌2.99%，現報3439.570點。"
+    },
+    {
+      "id": "5054365",
+      "time": "2026-08-24 10:40:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【種業概念震盪走強 秋樂種業漲超12%】種業概念震盪走強，秋樂種業漲超12%，登海種業此前漲停，神農種業、萬向德農、農發種業、敦煌種業等漲幅居前。"
+    },
+    {
+      "id": "5054364",
+      "time": "2026-08-24 10:40:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“紫檀”影響 廣西部分旅客列車停運】受今年第19號颱風“紫檀”影響，國鐵南寧局管內沿海路段及南部路段將有持續強風雨天氣，大部路段有大雨到暴雨、局地大暴雨或特大暴雨。為確保高鐵和旅客列車安全，國鐵南寧局提前啟動應急響應，對臺風影響線路、區段，採取降速執行、封鎖檢查、停運列車等主動避險措施，避免旅客列車涉險行車，最大限度保障鐵路運輸安全穩定。針對颱風、強降雨及洪水預警，國鐵南寧局自8月21日15時起，在欽防線、防東鐵路、邕北線欽州東高速場至北海、南防線馬皇至防城港、欽港線、欽州港東線、防城港企沙線、欽北線、湘桂線江西村至國境、南憑高鐵等路段啟動防洪Ⅳ級應急響應，安排8月23日、24日南寧至憑祥T8701次，24、25日憑祥至南寧T8702次，24、25日新鄉至三亞K457次，26、27日三亞至新鄉K458次旅客列車停運。（央視新聞）"
+    },
+    {
+      "id": "5054363",
+      "time": "2026-08-24 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：兆易創新淨賣出超19億】截至目前，今日主力資金淨流出355.94億；淨流入小金屬、有色金屬、稀缺資源等板塊，其中小金屬板塊淨流入28.08億；淨流出轉融券標的、融資融券、TMT等板塊，其中轉融券標的板塊淨流出325.17億。\n  \n個股方面，聖陽股份淨買入4.89億元位居首位，中國石化、盈新發展、風範股份主力資金淨流入居前；兆易創新淨賣出19.29億元位居首位，中際旭創、天孚通訊、新易盛淨流出額居前。"
+    },
+    {
+      "id": "5054362",
+      "time": "2026-08-24 10:39:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1618.50元。"
+    },
+    {
+      "id": "5054361",
+      "time": "2026-08-24 10:38:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "A股CRO概念持續走弱，海特生物跌超11%，泰格醫藥跌9.42%，義翹神州跌8.17%，近岸蛋白、奧浦邁、博騰股份跌超6%。"
+    },
+    {
+      "id": "5054360",
+      "time": "2026-08-24 10:37:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞洲赴美集裝箱運量7月降5.3%】美國調查公司笛卡爾資料（Descartes Datamyne）彙總的資料顯示，7月洲發往美國的海上集裝箱運輸量為181萬5087個（按20英尺標準集裝箱折算），同比下降5.3%。對美運輸量排名第2的越南發運量增長8.2%。日本發運量增長11.4%，泰國發運量增長0.2%。 按貨物品類來看，運輸量最大的傢俱類下降6.4%。除了機械類（下降8.1%）之外，電氣類（下降10.7%）和玩具類（下降10.5%）也出現下滑。在工業材料相關品類中，塑膠類增長3.3%，鋼鐵製品增長19.7%。"
+    },
+    {
+      "id": "5054359",
+      "time": "2026-08-24 10:37:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：AI交易遠未終結】高盛在最新發布的報告中指出，目前AI交易的敘事邏輯正經歷快速切換：隨著算力成本持續下行，市場的關注焦點已從“誰是大規模資本開支的贏家”轉向“誰是AI大規模普及浪潮中的真正受益者”。高盛表示，當前的倉位出清疊加依然強勁的AI基本面，為9月份市場重新承擔風險奠定了更為健康的基礎。高盛認為，AI交易遠未終結，但AI交易已經從過去的“普漲行情”，進入了一個更加依賴基本面、盈利預期和估值錯配的階段。在戰術層面，高盛建議圍繞“股價與每股盈利大幅背離”的機會進行交易，並指出儲存板塊和資料中心板塊的估值缺口最為突出，是目前最具吸引力的戰術性機會。從高盛編制的加權平均淨利潤預期與加權平均市值對比來看，上述兩個板塊的盈利修復尚未充分反映在股價之中。高盛表示，英偉達二季度財報是下一個關鍵催化劑，此後密集的9月行業會議季也將為市場提供重要支撐。"
+    },
+    {
+      "id": "te:economy:577440",
+      "time": "2026-08-24 10:37:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Retreats — The yield on the 10-year US Treasury note fell to 4.71% on Monday, retreating after two consecutive sessions of gains as investors turned their attention to Federal Reserve Governor Kevin Warsh's speech at the Jackson Hole symposium. Investors will be parsing Warsh’s remarks on Friday for clues about the Federal Reserve's response to persistent inflation, which remains above the central bank’s 2% target, alongside mounting fiscal concerns, with US federal debt surpassing $40 trillion. Last week, the Treasury Department unveiled plans to at least double buybacks of longer-dated securities in a bid to improve market functioning, though the move provided only temporary relief from the bond selloff. Meanwhile, investors will also closely watch Wednesday’s release of the July personal consumption expenditures (PCE) price index, the Fed’s preferred inflation gauge for fresh insight into underlying price pressures."
+    },
+    {
+      "id": "5054358",
+      "time": "2026-08-24 10:37:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達60億港元。"
+    },
     {
       "id": "5054357",
       "time": "2026-08-24 10:37:09",
