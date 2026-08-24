@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-25 05:19:04",
-  "count": 15859,
+  "updated": "2026-08-25 05:23:08",
+  "count": 15860,
   "items": [
+    {
+      "id": "mkt:01a035a4-8227-7aab-90ff-e38d67c4f014",
+      "time": "2026-08-25 05:19:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "JPM.O",
+        "Impact bullish",
+        "SAN.O"
+      ],
+      "text": "JP Morgan and Banco Santander are leading a financing package of up to $15 billion for an Argentine LNG project, sources said."
+    },
+    {
+      "id": "5056202",
+      "time": "2026-08-25 05:19:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.20%，報14623點。"
+    },
     {
       "id": "5056201",
       "time": "2026-08-25 05:18:13",
@@ -143730,14 +143751,6 @@
         "公司"
       ],
       "text": "勘探生產部門主管表示，巴西國家石油公司（Petrobras）已確定亞馬遜河口後續三口鑽井的選址。"
-    },
-    {
-      "id": "5044772",
-      "time": "2026-08-18 05:22:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "勘探生產部門主管表示，巴西國家石油公司（Petrobras） 在亞馬遜河口鑽井發現的石油前景十分可觀，但仍需開展進一步分析。"
     }
   ]
 }

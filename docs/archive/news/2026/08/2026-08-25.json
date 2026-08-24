@@ -1,7 +1,28 @@
 {
   "date": "2026-08-25",
-  "count": 330,
+  "count": 332,
   "items": [
+    {
+      "id": "mkt:01a035a4-8227-7aab-90ff-e38d67c4f014",
+      "time": "2026-08-25 05:19:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "JPM.O",
+        "Impact bullish",
+        "SAN.O"
+      ],
+      "text": "JP Morgan and Banco Santander are leading a financing package of up to $15 billion for an Argentine LNG project, sources said."
+    },
+    {
+      "id": "5056202",
+      "time": "2026-08-25 05:19:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.20%，報14623點。"
+    },
     {
       "id": "5056201",
       "time": "2026-08-25 05:18:13",
