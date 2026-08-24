@@ -1,7 +1,186 @@
 {
   "date": "2026-08-25",
-  "count": 17,
+  "count": 36,
   "items": [
+    {
+      "id": "te:markets:577673",
+      "time": "2026-08-25 00:33:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Futures Hold Steady — US gasoline futures traded near $3.25 per gallon, tracking weaker crude prices as markets awaited the announcement of US sanctions on Iran. Treasury Secretary Scott Bessent is set to outline the latest measures, while the US president has threatened sanctions against Iran’s trading partners. Despite heightened tensions, shipments through the waterway have remained robust, while demand concerns have also weighed on prices. China’s top refiner Sinopec reported that gasoline consumption fell 8% in the first half of 2026, amid increased use of electric vehicles and elevated prices amid lower refined-fuel availability. Meanwhile, tighter Canadian crude supplies could further lift refined-product prices, particularly in the US Midwest, where refiners source roughly 70% of their crude from Canada. Fuel supply concerns have also intensified after Ukrainian strikes on Russian refineries disrupted production and led to shortages in several regions."
+    },
+    {
+      "id": "mkt:01a0349a-9508-7aab-90fc-070e4c623783",
+      "time": "2026-08-25 00:29:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Tasnim News Agency, citing local Syrian sources, reported Israeli armored forces again entered Syrian territory from the southern outskirts of Quneitra."
+    },
+    {
+      "id": "mkt:01a03499-44f6-7aab-90fb-f8b37ba59ea6",
+      "time": "2026-08-25 00:27:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Canada's prime minister Carney said Canada will not agree to a trade deal with the U.S. 'at all costs'."
+    },
+    {
+      "id": "te:markets:577672",
+      "time": "2026-08-25 00:27:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Flat — European stocks closed with small changes on Monday, holding the losses from the previous week amid an adverse macroeconomic backdrop for major European sectors. The Euro STOXX 50 fell 0.1% to 6,455 and the STOXX Europe 600 closed flat at 654. Sovereign yields on longer maturity securities remained near multi-decade highs across major economies in the Eurozone, tracking those in the US to reflect concerns of higher deficit spending by Washington and concerns that the Federal Reserve may be complacent to high inflation. In the meantime, AI infrastructure stocks were lower ahead of Nvidia earnings after Wednesday's close, with Infineon and Siemens Energy dropping 3%, while ASML lost 1%. In turn, banks were mostly higher to trim losses from the earlier week."
+    },
+    {
+      "id": "mkt:01a03498-cec3-7aab-90fb-f622b4a7f3d9",
+      "time": "2026-08-25 00:27:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Iran attempted to assassinate one of his family members."
+    },
+    {
+      "id": "mkt:01a03498-aad6-7aab-90fb-efb1d057cac5",
+      "time": "2026-08-25 00:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Foreign Minister Araqchi attended a meeting between Pakistan Army chief Asim Munir and Iranian parliament speaker Mohammad Bagher Ghalibaf."
+    },
+    {
+      "id": "5056044",
+      "time": "2026-08-25 00:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聲稱其導彈擊中了烏克蘭敖德薩港的一艘貨船。"
+    },
+    {
+      "id": "mkt:01a03494-198f-7aab-90fb-e14140d2aab4",
+      "time": "2026-08-25 00:21:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Interfax reported the Russian Defence Ministry said Russian forces struck a cargo ship at the port of Odesa in the Black Sea."
+    },
+    {
+      "id": "5056043",
+      "time": "2026-08-25 00:20:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週一（8月24日）歐市尾盤，ICE英國天然氣期貨漲3.58%，TTF基準荷蘭天然氣期貨漲3.23%，ICE歐盟碳排放交易許可（期貨價格）漲1.71%。"
+    },
+    {
+      "id": "5056042",
+      "time": "2026-08-25 00:19:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：加拿大與歐盟將探討深化經濟與安全領域夥伴關係。"
+    },
+    {
+      "id": "mkt:01a03490-a511-7aab-90fb-d8d36ca4c967",
+      "time": "2026-08-25 00:18:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney will launch intensive talks with the EU in autumn to build a \"stronger, deeper economic and security partnership\"."
+    },
+    {
+      "id": "mkt:01a03490-3aa5-7aab-90fb-d082228338a1",
+      "time": "2026-08-25 00:17:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said he is ready to meet future challenges."
+    },
+    {
+      "id": "5056041",
+      "time": "2026-08-25 00:17:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大現在是全球連線性最強的經濟體。已準備好迎接未來的挑戰。"
+    },
+    {
+      "id": "mkt:01a0348f-6010-7aab-90fb-cb4e1d75ef1e",
+      "time": "2026-08-25 00:16:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney says Canada is now the world’s most connected economy."
+    },
+    {
+      "id": "5056040",
+      "time": "2026-08-25 00:16:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【佩洛西披露首次交易 Bloom Energy 股票，AI 電力熱潮下加倉英特爾】前美國眾議院議長南希・佩洛西申報買入 15000 股布魯姆能源股票以及 200 份布魯姆能源看漲期權，為其首次公開交易該公司股票。她同時購入 10000 股英特爾股票以及 50 份英特爾看漲期權，進一步加碼此前 5 月 29 日申報買入的 200 份英特爾行權價 50 美元、2027 年 3 月到期的看漲期權。 根據國會披露的區間，上述布魯姆能源與英特爾交易總金額介於 300 萬至 1200 萬美元之間；國會申報只披露金額區間，不會公開確切投資額。"
+    },
+    {
+      "id": "mkt:01a0348e-75b2-7aab-90fb-c6b6de739e57",
+      "time": "2026-08-25 00:15:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media: the Israeli military said the air force recently struck a \"terrorist infrastructure\" site in the central Gaza Strip."
+    },
+    {
+      "id": "mkt:01a0348d-b6cf-7aab-90fb-be5db6ed7884",
+      "time": "2026-08-25 00:14:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Bessent to deter bond shorts; Treasury may buy back debt, reshape issuance】Fox Business, citing Wall Street executives, says U.S. Treasury Secretary Bessent is prepared to do whatever it takes to deter traders shorting long-dated Treasuries and trying to push the 10‑year yield to 5%. Potential near-term measures include Treasury buybacks, increased short-term issuance and possible cancellation of 20‑year note auctions. Sources describe the steps as temporary, aimed at preventing further yield spikes and averting high rates ahead of the midterms. Wall Street sources caution the moves do not address fundamentals: U.S. debt is about $40 trillion and rising capital competition from AI infrastructure spending. They expect no fiscal tightening in the remainder of the administration; the stated plan is to grow out of the debt via growth and higher tax receipts, while acknowledging that real solutions—tax hikes or fiscal consolidation—would risk tipping the economy into recession."
+    },
+    {
+      "id": "mkt:01a0348d-5008-7aab-90fb-b08406bdd593",
+      "time": "2026-08-25 00:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan army chief meets Iran parliament speaker in Tehran; Iran says US breached Islamabad MoU】On 24 (local time) Pakistan Army chief Munir met Iran parliament speaker Ghalibaf in Tehran. Ghalibaf said the US has repeatedly failed to honor the Islamabad MoU, arguing those breaches have impeded regional stability and urging the US to fulfill its MoU commitments; he said Iran is working to implement the agreement's terms. Munir said Pakistan will continue efforts to restore regional stability."
+    },
+    {
+      "id": "5056039",
+      "time": "2026-08-25 00:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦陸軍總參謀長會見伊朗議會議長 討論地區局勢】當地時間24日，巴基斯坦陸軍總參謀長穆尼爾在伊朗首都德黑蘭會見伊朗議會議長卡利巴夫。此次會晤是巴基斯坦為加強地區和平與安全所做努力的延續。卡利巴夫回顧了美國在執行《伊斯蘭堡諒解備忘錄》方面屢次違約的案例，並表示諒解備忘錄中各方的承諾是明確的，正是美國的違約行為阻礙了地區穩定的建立，伊朗正在努力落實諒解備忘錄的各項條款，美國必須履行其基於該諒解備忘錄的承諾。穆尼爾在會晤中表示，巴方將繼續努力恢復該地區的穩定。（央視新聞）"
+    },
     {
       "id": "mkt:01a0348b-4da2-7aab-90fb-a8f0cb018a3d",
       "time": "2026-08-25 00:12:19",
