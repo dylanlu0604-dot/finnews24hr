@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 05:57:23_
-_本檔包含 3109 則快訊，約 623443 字_
+_更新時間：2026-08-25 06:38:12_
+_本檔包含 3126 則快訊，約 623445 字_
+
+---
+
+### 2026-08-20 09:36:57  #國際
+
+美國駐以色列大使表示，若伊朗拒絕放棄核與濃縮鈾野心並拒絕重新開放霍爾木茲海峽，特朗普可能會考慮對其採取軍事行動。
+
+---
+
+### 2026-08-20 09:35:50  #MKT News #Important
+
+SK Hynix gains widened to 11%; Samsung Electronics gains widened to 7%.
+
+---
+
+### 2026-08-20 09:35:20  #公司
+
+三星電子股價漲幅擴大至7%，SK海力士股價漲幅擴大至11%。
+
+---
+
+### 2026-08-20 09:34:59  #市場
+
+【煤炭開採加工板塊衝高，寶泰隆觸及漲停】煤炭開採加工板塊衝高，寶泰隆觸及漲停，淮北礦業、昊華能源、蘭花科創、新大洲A、甘肅能化跟漲。
+
+---
+
+### 2026-08-20 09:34:47  #央行 #中國央行
+
+【LPR連續15個月“按兵不動” 降息還有戲嗎？】中國人民銀行授權全國銀行間同業拆借中心公佈，2026年8月20日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。
+
+---
+
+### 2026-08-20 09:34:43  #市場
+
+【宇樹科技盤中一度跌超17%】宇樹科技短線走低，盤中一度跌超17%。
+
+---
+
+### 2026-08-20 09:33:45  #MKT News
+
+Malaysian Ringgit rose to 4.04 per US dollar, the strongest level since mid-June.
+
+---
+
+### 2026-08-20 09:33:26  #市場 #國際
+
+馬來西亞林吉特<MYR=>兌美元升至4.04，創6月中旬以來新高。
+
+---
+
+### 2026-08-20 09:33:16  #市場 #國際
+
+日本40年期國債收益率下跌9.5個基點至4.055%。
+
+---
+
+### 2026-08-20 09:33:00  #市場 #焦點
+
+【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、派林生物、上海萊士跟漲。
+
+---
+
+### 2026-08-20 09:33:00  #市場 #焦點
+
+【A股病毒檢測板塊異動拉昇】貝瑞基因、達安基因觸及漲停，新開源、安科生物、華大基因、博暉創新、艾德生物跟漲。
+
+---
+
+### 2026-08-20 09:33:00  #市場 #焦點
+
+【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、科華生物、華蘭生物、派林生物、健帆生物跟漲。
+
+---
+
+### 2026-08-20 09:32:48  #MKT News
+
+【China NMPA approves two innovative drugs】China’s National Medical Products Administration approved two new drugs: 1) Anfuliqita monoclonal antibody injection (subcutaneous), marketed as Yisaina, from Sansheng Guojian Pharmaceutical (Shanghai) Co., Ltd., for acute gouty arthritis in adults who are contraindicated, intolerant of, or unresponsive to NSAIDs and/or colchicine, or who are unsuitable for repeated steroid use. 2) Fumarate likangkepan capsules, marketed as HengYouDa, from Chengdu Shengdi Pharmaceutical Co., Ltd., approved under the NMPA’s priority review for treatment of adult paroxysmal nocturnal hemoglobinuria (PNH) patients not previously treated with complement inhibitors.
+
+---
+
+### 2026-08-20 09:32:42  #市場
+
+快手<1024.HK>股價下跌逾10%。
+
+---
+
+### 2026-08-20 09:32:35  #公司
+
+宇樹科技創始人兼CEO王興興：我們尚未對人形機器人進行大規模推廣，因為這類機器人的效率與通用能力仍不夠完善。
+
+---
+
+### 2026-08-20 09:32:21  #MKT News #Important #Market Regions #Greater China #01024.HK #Impact bearish
+
+Kuaishou (01024.HK) shares fell over 10% after the company reported 1H adjusted net profit of 7.287 bln yuan, down 28.5% YoY.
+
+---
+
+### 2026-08-20 09:32:03  #公司
+
+【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局批准三生國健藥業（上海）股份有限公司申報的安弗利奇塔單抗注射液（皮下注射）（商品名：益賽那）上市，適用於對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的，以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該品種的上市為相關患者提供了新的治療選擇。近日，國家藥品監督管理局透過優先審評審批程式，批准成都盛迪醫藥有限公司申報的1類創新藥富馬酸立康可泮膠囊（商品名稱：恆優達）上市，該藥用於治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。該藥品上市為患者提供了新的治療選擇。
+
+---
+
+### 2026-08-20 09:31:36  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+【China equity index futures open】CSI 300 index futures (IF) main contract up 0.55%; SSE 50 index futures (IH) main contract up 0.40%; CSI 500 index futures (IC) main contract up 0.84%; CSI 1000 index futures (IM) main contract up 0.86%.
+
+---
+
+### 2026-08-20 09:31:35  #MKT News #Market Regions #Greater China
+
+【China government bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) most-active contract down 0.01%, 5-year (TF) down 0.03%, 10-year (T) down 0.05%, 30-year (TL) down 0.13%.
+
+---
+
+### 2026-08-20 09:31:31  #市場
+
+澳大利亞ASX 200指數在就業資料公佈後上漲0.4%。
+
+---
+
+### 2026-08-20 09:31:24  #MKT News
+
+【Money-market yield tracker】Tencent Licaitong (Current+) 7-day annualized yield ranged 0.7050%–1.4020%; WeChat Lingqiantong 7-day annualized yield ranged 0.8780%–1.0010%; Alipay Yu'ebao 7-day annualized yield ranged 0.9010%–1.0600%.
+
+---
+
+### 2026-08-20 09:31:22  #MKT News
+
+【South China Sea tropical depression makes landfall in Wenchang, Hainan】A tropical depression in the South China Sea made landfall near Longlou town, Wenchang, Hainan at about 05:40 on the 20th, with maximum winds near the center of 6 on the scale (12 m/s) and central pressure 997 hPa. The system is forecast to move westward across Wenchang, Haikou, Chengmai, Lingao and Danzhou and enter the Beibu Gulf by the afternoon to evening of the 20th, bringing heavy rain to northern and western Hainan.
+
+---
+
+### 2026-08-20 09:31:17  #經濟數據 #澳洲
+
+【澳大利亞7月季調後失業率為4.5%】澳大利亞7月季調後失業率為4.5%，預期為4.40%，前值為4.40%。
+
+---
+
+### 2026-08-20 09:31:15  #MKT News #Important
+
+C Yushu shares fell over 10%, hitting a low of 750 yuan, on turnover above 600 mln yuan.
+
+---
+
+### 2026-08-20 09:31:13  #其他
+
+C宇樹跌超10%，股價最低觸及750元，成交額超6億元。
+
+---
+
+### 2026-08-20 09:30:49  #其他
+
+【南海熱帶低壓在海南文昌登陸】從海南省氣象局瞭解到，南海熱帶低壓已於20日5時40分前後在海南省文昌市龍樓鎮沿海登陸，登陸時中心附近最大風力6級（12m/s），中心附近最低氣壓997hPa。預計，該低壓將向偏西方向移動，先後穿過文昌、海口、澄邁、臨高、儋州等市縣，於20日下午到夜間移入北部灣海面。受其影響，海南島北部和西部將有強降水。
+
+---
+
+### 2026-08-20 09:30:41  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Precious-metals thematic ETFs opened higher; Guotou Silver LOF rose more than 4%, gold-themed LOF and Harvest Gold LOF each gained over 3%, and Gold LOF was up nearly 3%. Earlier, spot gold topped $4,500 for the first time since June 4.
+
+---
+
+### 2026-08-20 09:30:35  #MKT News
+
+Australia July part-time employment +32,200, prior +47,000.
+
+---
+
+### 2026-08-20 09:30:33  #市場 #焦點
+
+北證50日內漲幅達1.27%，成分股中，森萱醫藥漲24.75%，諾思蘭德漲7.38%，德源藥業漲5.35%，錦波生物漲4.82%。
+
+---
+
+### 2026-08-20 09:30:27  #MKT News #Economic Calendar #Important
+
+Australia | Part-Time Employment (Jul) | actual -32200.000000000004K | previous 47000K
+
+---
+
+### 2026-08-20 09:30:16  #其他
+
+澳大利亞7月份就業人數下降15,800人；預估12,000。
+
+---
+
+### 2026-08-20 09:30:14  #MKT News
+
+A-share grain sector opened lower; Wanxiang Denong and Nongfa Seed hit limit-down, while Qiule Seed, Jingliang Holdings, Kangnong Seed, Beidahuang and Heizhima declined.
+
+---
+
+### 2026-08-20 09:30:12  #MKT News #AUDUSD
+
+Australia July seasonally adjusted labour force participation rate 66.9% vs 66.9% expected, 67.0% prior.
+
+---
+
+### 2026-08-20 09:30:09  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
+
+Australia July employment change -15.8k vs est. +15.0k; prior +76.3k.
+
+---
+
+### 2026-08-20 09:30:08  #其他
+
+澳大利亞7月季調後失業率 4.5%，預期4.40%，前值4.40%。
+
+---
+
+### 2026-08-20 09:30:07  #MKT News #Important #DXY #Impact bullish
+
+Australia July seasonally adjusted unemployment rate 4.5% (consensus 4.4%; June 4.4%).
+
+---
+
+### 2026-08-20 09:30:07  #MKT News
+
+Australia July full-time employment +16.3k jobs, prior +29.3k.
+
+---
+
+### 2026-08-20 09:30:04  #市場 #焦點
+
+科創50日內漲幅達1.08%，成分股中，惠泰醫療漲9.99%，百利天恆漲3.52%，艾力斯漲2.59%，生益電子漲2.51%。
+
+---
+
+### 2026-08-20 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲1.09%， 滬深300指數期貨連續漲0.77%， 中證500指數期貨連續漲1.09%， 上證50指數期貨連續漲0.60%。
+
+---
+
+### 2026-08-20 09:30:02  #市場
+
+【國債期貨開盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.05%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Labour Force Participation Rate SA (Jul) | actual 66.9% | consensus 66.90% | previous 67.00%
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Full-Time Employment (Jul) | actual 16299.999999999998K | previous 29300K
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Employment (Jul) | actual -15800K | consensus 15000K | previous 76300K
+
+---
+
+### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Unemployment Rate SA (Jul) | actual 4.5% | consensus 4.40% | previous 4.40%
+
+---
+
+### 2026-08-20 09:29:23  #市場
+
+中證轉債指數開盤上漲0.28%。三鑫轉債、微芯轉債、皓元轉債、奧銳轉債、天準轉債漲幅居前，分別漲11.25%、5.60%、5.00%、4.89%、4.18%。億田轉債、美錦轉債、江農轉債、平煤轉債、曉鳴轉債跌幅居前，分別跌4.08%、1.82%、0.81%、0.44%、0.36%。
+
+---
+
+### 2026-08-20 09:29:00  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲1%，現報7789.60點。
+
+---
+
+### 2026-08-20 09:29:00  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內漲1%，現報7550.00點。
+
+---
+
+### 2026-08-20 09:29:00  #MKT News #Important #MRNA.O #Impact bullish #MRK.N
+
+【China innovative-drug stocks surge; Hansen Pharma, Ha Sanlian notch second straight limit-ups】A-share innovative-drug sector opened sharply higher after Moderna jumped 177% overnight when it and Merck said a melanoma vaccine met the primary endpoint in a large trial. Hansen Pharma and Ha Sanlian posted second straight daily limit-ups. Haixin, Zhongguancun, Laimei Pharma, Watson Bio, Jiankai Technology, Shuanglu Pharma, Kangchen Pharma and Yuekang hit daily price limits. Sanyuan Gene rose >20%; Zhifei Bio and Shiyao Innovation gained >15%; Xinkaiyuan, Anke Biotech and Kangtai Biotech rallied >10%.
 
 ---
 
@@ -18570,191 +18858,5 @@ China's CSI 300 index futures (IF) main contract touched 4,600, down 1.40% intra
 ### 2026-08-19 10:04:23  #MKT News
 
 【GCL System Integration ramps mass shipments of BC modules overseas】GCL System Integration has started mass production shipments of BC modules to overseas markets. Since May, efficient BC module orders have continued to land abroad; cumulative contracts in Germany have exceeded 100 MW, and high-end, high-efficiency modules are expanding in Europe’s distributed-generation segment. As of June 30, 2026, the company has 30 GW of high-efficiency N-type module capacity; Hefei and Funing bases have completed partial upgrades to BC production lines.
-
----
-
-### 2026-08-19 10:03:44  #其他
-
-【胖東來澄清：對刑滿釋放人員招聘不包含性侵犯罪者】近日，胖東來針對“無門檻招聘刑滿釋放人員”作出澄清。胖東來表示，並非無門檻接納，明確排除性侵、嚴重暴力等惡性犯罪前科人員，且刑釋人員需與其他應聘者走完全相同的報名面試流程，並設定6個月的雙向選擇試用期。首批入職人員也被優先安排在倉儲、物流等後臺崗位，以兼顧就業幫扶與安全管理。
-
----
-
-### 2026-08-19 10:03:40  #其他
-
-【河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒接受審查調查】據河南省紀委監委訊息，河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-19 10:03:35  #國際
-
-【協鑫整合BC元件海外市場批次出貨】據悉，協鑫整合BC元件海外訂單已實現量產出貨。據瞭解，自今年5月以來，協鑫整合高效BC元件訂單在海外持續落地，其中德國市場累計簽約規模突破100兆瓦，高階高效產品在歐洲分散式賽道實現穩步放量。截至2026年6月底，協鑫整合擁有30GW高效N型元件產能，其中合肥基地與阜寧基地已完成部分BC產線的升級改造。
-
----
-
-### 2026-08-19 10:02:54  #市場
-
-【減速器板塊大幅調整，巨輪智慧等多股跌停】減速器板塊大幅調整，巨輪智慧、中大力德、襄陽軸承跌停，豐光精密、綠的諧波、昊志機電等跌超10%。
-
----
-
-### 2026-08-19 10:02:46  #市場 #國際
-
-印尼股指下跌1%至6384.12點。
-
----
-
-### 2026-08-19 10:02:34  #其他
-
-8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行 兩岸青年交流季”上海站活動。（日月譚天）
-
----
-
-### 2026-08-19 10:01:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SZSE Component
-
-Beijing Stock Exchange 50 Index fell more than 3%, with only 2 constituents advancing.
-
----
-
-### 2026-08-19 10:01:04  #市場 #焦點
-
-北證50日內跌幅達3.00%，成分股中，三協電機跌10.77%，萬達軸承跌8.27%，鼎智科技跌7.62%，國子軟體跌6.02%。
-
----
-
-### 2026-08-19 10:00:07  #公司
-
-【宇樹科技核心技術人員身家過億元】8月19日，宇樹科技登陸科創板，開盤後漲超500%，市值超3500億元。在發行前，宇樹科技設有股權激勵平臺上海宇翼。招股書顯示，發行前上海宇翼持有公司股份3982.86萬股，持股比例為10.9414%。機械結構負責人楊知雨、銷服體系負責人陳立、演算法與軟體負責人張陽光透過上海宇翼間接持有公司股份比例分別為0.49%、0.26%、0.15%。若按照3500億元市值計算，他們持有的公司市值分別達到17.15億元、9.1億元、5.25億元。（第一財經）
-
----
-
-### 2026-08-19 09:59:39  #其他
-
-【雞蛋市場行情上行，山姆調價保障日常採購】8月19日，山姆會員商店釋出通知，將調整一款精選鮮雞蛋1.59kg售價，由18.9元/盒調整至21.8元/盒。受多重客觀市場因素帶動，近幾個月雞蛋整體價格行情呈上行趨勢，此前數月山姆一直維持該商品原有售價，也因此出現供貨緊張、貨量不足的情況。為進一步擴大商品供給、保障穩定供貨，自8月19日起對精選鮮雞蛋進行調價。山姆方面表示，後續會密切關注市場行情，適時調整價格策略。同時門店將採取分時段補貨、適度限購等舉措，盡力保障會員家庭日常採購。（每經）
-
----
-
-### 2026-08-19 09:59:30  #公司
-
-【多位90後宇樹員工身價超千萬】8月19日，宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。 據悉，2017年9月至2021年12月，宇樹科技先後與楊知雨等17名員工簽訂了《期權協議書》，授予該等員工按照1元/註冊資本的價格認購公司股權的權利。按發行價150.80元/股測算，這批最早選擇與公司共擔風險的核心員工，賬面浮盈超過150倍。 需要注意的是，包括創始人王興興（1990年生）在內，宇樹科技的高管是一支極具代表性的90後創業團隊，研發軟體總監張陽光（1993年）、研發結構總監楊知雨（1991年）、銷售總監陳立（1990年）均為90後。 隨著公司上市，多位青年高管的賬戶紙面收益有望超千萬，高的甚至將過億。 （南方日報）
-
----
-
-### 2026-08-19 09:57:08  #公司 #市場
-
-【港股內房股繼續上漲，金輝控股漲超8%領銜】港股內房股繼續上漲，其中，金輝控股漲超8%領銜，融信中國漲超5%，雅居樂集團、建發國際集團、中國金茂漲超3%，旭輝控股、中國海外發展、中國海外宏洋集團漲2.8%，華潤置地、碧桂園、綠城中國、越秀地產、新城發展跟漲。
-
----
-
-### 2026-08-19 09:53:58  #市場
-
-【功率半導體概念震盪拉昇 斯達半導漲停】功率半導體概念震盪拉昇，斯達半導漲停，士蘭微、新潔能、揚傑科技、華潤微跟漲。
-
----
-
-### 2026-08-19 09:53:24  #MKT News #SHEL.N #Impact bullish
-
-Shell (SHEL.N) is investing in a new supply chain in Queensland, Australia; its QGC project will begin supplying gas in 2027.
-
----
-
-### 2026-08-19 09:52:45  #國際
-
-馬來西亞棕櫚油委員會（MPOC）預測，9月份棕櫚油價格將維持在4600 RGT/噸以上。
-
----
-
-### 2026-08-19 09:52:07  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-08-19 09:51:58  #公司
-
-【賽意資訊成立智慧科技公司，含物聯網業務】企查查APP顯示，近日，廣州瀚曜智慧科技有限公司成立，經營範圍包含：工業控制計算機及系統銷售；工業網際網路資料服務；數字技術服務；物聯網技術服務等。企查查股權穿透顯示，該公司由賽意資訊全資持股。
-
----
-
-### 2026-08-19 09:51:38  #公司
-
-【中國中煤成立新能源公司，含生物質能技術業務】企查查APP顯示，近日，中煤電力（射陽）新能源有限公司成立，經營範圍包含：發電技術服務；風力發電技術服務；太陽能發電技術服務；生物質能技術服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。
-
----
-
-### 2026-08-19 09:51:31  #MKT News #Important #Market Regions #Greater China
-
-N Shuangying rallied more than 200%, triggering a second intraday trading suspension; turnover exceeded 350 million yuan.
-
----
-
-### 2026-08-19 09:51:29  #公司 #焦點
-
-N雙英漲超200%，觸發二次臨停，成交額超3.5億元。
-
----
-
-### 2026-08-19 09:51:20  #市場
-
-小馬智行港股公佈上半年業績後下跌4.8%。
-
----
-
-### 2026-08-19 09:51:03  #市場 #國際
-
-日本兩年期國債<JP2YTN=JBTC>收益率下跌0.5個基點至1.680%。
-
----
-
-### 2026-08-19 09:50:58  #市場 #國際
-
-五年期日本國債<JP5YTN=JBTC>收益率下跌1個基點，至2.140%。
-
----
-
-### 2026-08-19 09:50:52  #公司
-
-【三峽能源四座光熱電站累計發電量突破1億千瓦時】三峽集團8月19日訊息， 截至2026年8月8日，三峽能源旗下位於甘肅、青海、新疆三省區的安懷、新燁、燎原、伊州四座百兆瓦級光熱電站累計發電量突破1億千瓦時大關。這一成績充分驗證了光熱發電作為穩定可調清潔電源的獨特價值，為電網調峰和新能源消納提供了有力支撐。據瞭解，四座電站分佈在甘肅、青海、新疆的戈壁荒漠地帶，所處環境高海拔、強風沙、寒暑極端，建設運維條件極為艱苦。專案採用雙技術路線並行佈局，多儲能模式協同發力，構建起規模化光熱儲能產業矩陣。（中證金牛座）
-
----
-
-### 2026-08-19 09:50:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Venezuela signs contracts with Schlumberger and Hunt Oil to boost production】Venezuela oil minister Paula Henao said on Tuesday the government signed oil-related contracts with Schlumberger and U.S. independent Hunt Oil to attract investment and raise crude output. The deals include an oil-and-gas production participation agreement with two field-development partners; Henao did not disclose expected investment or incremental production. Caracas also signed a framework agreement with Schlumberger for nationwide integrated reservoir studies. Politico reported several more U.S. independents are expected to sign production contracts with state company PDVSA in the coming days.
-
----
-
-### 2026-08-19 09:50:31  #MKT News #Market Themes #AI Revolution
-
-【Goldman Sachs: AI revenue still surging; market now trading the second derivative of growth】Goldman Sachs reports Anthropic's ARR topped $65bln in July 2026, versus $47bln in May and $9bln at end‑2025. ARR is still expanding at about 18% MoM despite the larger base. Goldman says markets have begun trading the "second derivative" — whether growth can further accelerate or will slow as the base rises. It warns that once ARR moves from sub‑$10bln into the hundreds‑of‑bln range, simply sustaining high percentage growth may deliver less marginal valuation support than earlier.
-
----
-
-### 2026-08-19 09:50:14  #MKT News
-
-【Yushu Technology pop on Sci‑Tech debut lifts founder Wang’s stake above 100 billion yuan】Aug. 19 — Yushu Technology began trading on the Sci‑Tech Innovation Board, opening up more than 500% and valuing the company at over 350 billion yuan. The company prospectus shows chairman/GM/CTO Wang Xingxing directly holds 86.714964 million shares, equivalent to 21.4395% of post‑issue equity; he also held 9.5367% indirectly via equity‑incentive vehicle Shanghai Yuyi before the offering. Combined direct and indirect holdings are roughly 30%, worth in excess of 100 billion yuan, making Wang the richest entrepreneur born in the 1990s.
-
----
-
-### 2026-08-19 09:48:44  #其他
-
-【功夫女足票房破23億】據貓眼專業版資料，電影 《功夫女足》 上映40天， 總票房破23億。
-
----
-
-### 2026-08-19 09:48:32  #MKT News #Important #CSI300 #Impact bearish #SSE Composite
-
-A-share humanoid-robot sector extended losses; Qin'an Co. hit its daily limit down. Lude Xiebo, Fengguang Precision, Haozhi Jidian and Shangwei New Materials dropped more than 10%; Zhongda Lide, Julun Intelligent, Changsheng Bearing, Jintuo and Siling Zhiqu also fell.
-
----
-
-### 2026-08-19 09:48:11  #MKT News #02525.HK #Impact bearish
-
-Hesai-W (02525.HK) fell more than 7% after reporting earnings.
-
----
-
-### 2026-08-19 09:48:07  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Japanese Yen Stays Range-Bound — The Japanese yen traded around 159.5 per dollar on Wednesday, remaining range-bound for more than a week now after giving back about half of the gains made following the joint intervention by Tokyo and Washington at the end of July. The currency continues to face persistent weakness due to wide interest rate differentials, growing fiscal concerns and elevated energy and import costs. On the monetary policy front, traders are increasingly speculating on a Bank of Japan interest rate hike in September to support the yen and curb inflation. Japan’s 10-year bond yield reached 30-year highs this week, reflecting expectations of an imminent BOJ rate increase and mounting fiscal concerns. Meanwhile, the latest data showed core machinery orders in Japan jumped 9.7% in June, exceeding forecasts and pointing to stronger capital spending among companies.
 
 ---

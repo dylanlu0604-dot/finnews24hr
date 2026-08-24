@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 05:57:23_
-_本檔包含 3248 則快訊，約 623237 字_
+_更新時間：2026-08-25 06:38:12_
+_本檔包含 3229 則快訊，約 623182 字_
+
+---
+
+### 2026-08-21 09:00:40  #兩會
+
+【新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成接受審查調查】據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區伊犁哈薩克自治州政協原黨組成員張新成涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-21 09:00:28  #其他
+
+【航行警告 黃海南部軍事活動】據中國海事局網站訊息，連雲港海事局釋出航行警告，8月21日至25日，每日8時至20時，黃海南部部分海域進行軍事活動，禁止駛入。
+
+---
+
+### 2026-08-21 09:00:17  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+FTSE China A50 futures opened 0.23% higher.
+
+---
+
+### 2026-08-21 09:00:17  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy
+
+At the morning open, China’s main futures contracts were mixed. Shanghai silver led gains, up nearly 3%. Pulp, fuel oil, LPG and asphalt rose about 2%; SHFE lead gained just over 1%; 20# rubber and low-sulfur fuel oil (LU) were up around 1%. On the downside, coking coal, stainless steel, rapeseed meal, glass and PVC fell more than 1%; rapeseed oil and SHFE nickel were down about 1%.
+
+---
+
+### 2026-08-21 09:00:11  #其他
+
+【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。論壇釋出了《中國-APEC能源合作啟新程：以能源合作攜手共促亞太共同繁榮》報告。報告顯示，自1991年加入APEC以來，中國持續對接各經濟體能源發展戰略，合作覆蓋傳統能源、新能源、電力等多個領域，貫通投資、貿易、基礎設施全鏈條，形成供需互補、綠色賦能、互通穩鏈、協同善治的能源合作格局，為區域能源共同安全與可持續發展貢獻了中國力量。APEC第16次能源部長會議將於9月10日至11日在北京舉辦。
+
+---
+
+### 2026-08-21 09:00:04  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2858.00元。
+
+---
+
+### 2026-08-21 09:00:04  #市場 #焦點
+
+白銀連續主力合約日內漲2%，現報16546.00元。
+
+---
+
+### 2026-08-21 09:00:04  #市場
+
+富時中國A50指數期貨開盤上漲0.24%。
+
+---
+
+### 2026-08-21 09:00:03  #市場
+
+【商品期貨開盤】線材連續漲2.89%，白銀連續漲2.70%，紙漿連續漲2.11%，鉑連續漲1.93%，燃料油連續漲1.86%。
+
+---
+
+### 2026-08-21 08:59:55  #MKT News #Market Regions #Greater China #CNH #Impact mixed
+
+【Ministry of Finance issues CNY6 bln government bonds in Macau】On Aug 20, China's Ministry of Finance sold CNY6.0 bln government bonds in the Macau SAR to professional investors via a bookbuild; subscriptions totaled CNY38.591 bln (6.43x). Allocation and issue yields: 2-year CNY3.0 bln at 1.30%; 3-year CNY1.0 bln at 1.33%; 5-year CNY1.0 bln at 1.46%; 10-year CNY1.0 bln at 1.76%.
+
+---
+
+### 2026-08-21 08:59:22  #宏觀 #市場
+
+【財政部在澳門成功發行60億元人民幣國債】8月20日，中華人民共和國財政部在澳門特別行政區，面向專業投資者簿記發行60億元人民幣國債，受到投資者廣泛歡迎，認購總額385.91億元，約為發行規模的6.43倍。其中，2年期30億元，發行利率1.3%；3年期10億元，發行利率1.33%；5年期10億元，發行利率1.46%；10年期10億元，發行利率1.76%。(財政部)
+
+---
+
+### 2026-08-21 08:59:11  #宏觀 #市場 #觀點 #央行 #國際
+
+【國泰君安期貨：本輪黃金白銀的上漲是有明確的資訊推動疊加資金連續入場的共同結果】本輪黃金白銀的上漲是有明確的資訊推動疊加資金連續入場的共同結果。週三夜間日美國財政部將10 30年期長期國債單次回購規模由20億美元提升至40億美元，具體來說力度有限，該操作主體為財政部，並非美聯儲QE，不新增基礎貨幣。並且單次操作體量相對於整體存量佔比偏低，工具定位重在修復長債舊券的二級市場流動性，緩解遠端收益率脈衝上行風險，難以扭轉美債供給的大格局。訊息公佈後，30Y美債收益率快速下跌，金價也順利突破階段性前高並短暫站上4500。本身這個政策不足以獨立驅動金價趨勢行情，但訊號傳導和市場解讀樂觀。週四夜間貝森特加大“TACO”力度，表示債券回購上限或超40億美元，黃金白銀繼續快速拉漲，白銀突破周線級別上的阻力，順利站上年線，黃金也是穩居4500美元/盎司上方。疊加昨日單日ETF快速流入，資金及針對貴金屬的情緒已然給出了方向，短期黃金若站穩4500美元/盎司則進一步關注4600-4700區間，白銀在技術面破位之後則是進一步看向71.5美元/盎司附近，對應滬銀17300-17500元/千克。週三夜間突破4450美元后推薦順勢追入的黃金多頭繼續持有。（國泰君安期貨）
+
+---
+
+### 2026-08-21 08:58:08  #公司
+
+【博俊科技：目前有小鵬汽車部分車型產品正在專案開發階段】博俊科技(300926)在互動平臺表示，公司為小鵬汽車的車身件供應商，目前供貨的量產車型為MONA M03，公司對所供貨的小鵬汽車的車身件產品均為獨供。目前，公司有小鵬汽車部分車型的產品正在專案開發階段，部分專案將於今年內量產，具體量產時間以客戶釋出時間為準。
+
+---
+
+### 2026-08-21 08:56:51  #公司
+
+【中公教育成立陪伴學網路科技公司 含AI業務】企查查APP顯示，近日，北京陪伴學網路科技有限公司成立，經營範圍包含：人工智慧雙創服務平臺；人工智慧基礎軟體開發；人工智慧公共資料平臺；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由中公教育全資持股。
+
+---
+
+### 2026-08-21 08:56:21  #其他
+
+【北京市釋出雷電黃色預警】預計，8月21日午後至夜間，北京市有分散性雷陣雨天氣，局地短時雨強較大，並伴有6級左右陣風，請注意防範。
+
+---
+
+### 2026-08-21 08:55:15  #公司
+
+【三角防務：公司作為CJ-1000A系列發動機主要盤類件核心供應商 相關配套工作正常推進中】三角防務(300775)8月21日在互動平臺表示，公司作為CJ-1000A系列發動機主要盤類件核心供應商，相關配套工作按照總承單位專案計劃正常推進中。
+
+---
+
+### 2026-08-21 08:55:12  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Fall as Global Yields Rebound — The Nikkei 225 Index fell 0.7% to below 66,000 while the broader Topix Index declined 0.25% to around 4,050 on Friday, giving back gains from the previous session as global bond yields rebounded amid concerns that US efforts to curb borrowing costs through debt buybacks may provide only a temporary solution. The 10-year US Treasury yield traded around 4.7%, erasing its losses from earlier in the week, while Japan’s benchmark 10-year yield ended a two-day decline. Meanwhile, data showed Japan’s inflation rate accelerated for the second consecutive month, strengthening the case for a Bank of Japan interest rate hike in the near term. BOJ Governor Kazuo Ueda previously indicated that authorities could begin normalizing policy at a faster pace. Technology stocks led the declines, with notable losses from Advantest (-0.8%), Taiyo Yuden (-3.2%) and SoftBank Group (-2.3%). The Nikkei and Topix indexes were on track to lose more than 4% and 3% for the week, respectively.
+
+---
+
+### 2026-08-21 08:52:21  #MKT News #Market Regions #Japan & APAC
+
+Japan's 20-year government bond yield rose 6 bps to 3.77%.
+
+---
+
+### 2026-08-21 08:51:51  #市場 #國際
+
+日本20年期國債收益率上漲6個基點至3.77%。
+
+---
+
+### 2026-08-21 08:51:43  #其他
+
+【受南海熱帶低壓影響 海南部分進出島列車停運】記者從海南鐵路海口車務段瞭解到，受熱帶低壓影響，海南鐵路部分進出海南島列車停運：昨日，出海南島列車Z8008、Z112、K512、Z502次停運；今日，進海南島列車Z501、K511、Z8007、Z111次停運。（央視新聞）
+
+---
+
+### 2026-08-21 08:51:22  #央行 #國際
+
+【半導體提振韓國經濟增長 央行副行長強調維護物價與金融穩定】韓國央行新任副行長權珉秀在一次演講中表示，韓國經濟面臨複雜挑戰，當前需要採取審慎且靈活的政策決策。根據韓國央行公佈的演講稿，權珉秀表示：“儘管受益於半導體產業的強勁表現，經濟增長好於預期，但通脹率仍高於目標水平，同時以家庭債務和房價為核心的金融失衡風險依然存在”。權珉秀表示，韓國央行將更加忠實地履行維護物價穩定和金融穩定的核心職責，並將持續完善貨幣政策工具及市場溝通機制。
+
+---
+
+### 2026-08-21 08:50:14  #其他
+
+8月21日，鴻特科技復牌。
+
+---
+
+### 2026-08-21 08:48:52  #市場 #國際
+
+日本10年期國債收益率上升4個基點，至2.885%。
+
+---
+
+### 2026-08-21 08:48:50  #MKT News #USDJPY #Impact bearish
+
+Japan 10-year bond yield rose 4 bps to 2.885%.
+
+---
+
+### 2026-08-21 08:48:40  #國際
+
+韓國財長：韓國將密切關注長期利率上升的影響。
+
+---
+
+### 2026-08-21 08:48:17  #其他
+
+【中阿將舉行“獵鷹盾牌-2026”空軍聯合訓練】據國防部發布訊息，8月下旬至9月中旬，中國與阿聯酋兩國空軍將在新疆和田舉行中阿“獵鷹盾牌-2026”空軍聯合訓練，開展指揮推演、飛行訓練、實兵混編演練等活動。此係中阿兩國空軍第4次舉辦該系列聯訓，旨在提升參訓部隊技戰術水平，深化兩軍傳統友誼與務實合作。
+
+---
+
+### 2026-08-21 08:47:37  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【China margin balances across A-share exchanges down CNY1.688bn on Aug 20】As of Aug 20, Shanghai Stock Exchange margin balance stood at CNY1.3524 tln, down CNY1.22bn from the prior trading day; Shenzhen Stock Exchange margin balance was CNY1.2787 tln, down CNY468m. Combined margin balance across both exchanges was CNY2.6312 tln, down CNY1.688bn.
+
+---
+
+### 2026-08-21 08:47:27  #其他
+
+【兩市融資餘額減少16.88億元】截至8月20日，上交所融資餘額報13524.36億元，較前一交易日減少12.2億元；深交所融資餘額報12787.23億元，較前一交易日減少4.68億元；兩市合計26311.59億元，較前一交易日減少16.88億元。
+
+---
+
+### 2026-08-21 08:46:42  #MKT News
+
+【International Composite Materials: 2nd‑gen low‑dielectric LDK enters supply chains of multiple leading domestic and international copper‑clad laminate makers】On an Aug. 20 investor call, International Composite Materials said its second‑generation low‑dielectric LDK product has entered the supply chains of several leading domestic and overseas copper‑clad laminate manufacturers and is in stable commercial supply. Its low‑expansion LCTE product is in small‑batch supply and capacity expansion is being advanced in an orderly manner. Q‑cloth remains in R&D; the company aims to complete pilot construction and commissioning within 2026. Specialty electronic cloth already represents a material share of electronic‑cloth revenue. The firm said it will continue to refine high‑end products and steadily push capacity builds and client onboarding to expand its high‑end electronic materials business.
 
 ---
 
@@ -19330,293 +19504,5 @@ Australia Jobless Rate Above Forecasts — Australia’s seasonally adjusted une
 ### 2026-08-20 09:36:58  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
 
 Al Arabiya reports US ambassador to Israel Mike Hekabi said Trump could consider military action against Iran if Tehran refuses to abandon its nuclear and uranium-enrichment ambitions and to reopen the Strait of Hormuz.
-
----
-
-### 2026-08-20 09:36:57  #國際
-
-美國駐以色列大使表示，若伊朗拒絕放棄核與濃縮鈾野心並拒絕重新開放霍爾木茲海峽，特朗普可能會考慮對其採取軍事行動。
-
----
-
-### 2026-08-20 09:35:50  #MKT News #Important
-
-SK Hynix gains widened to 11%; Samsung Electronics gains widened to 7%.
-
----
-
-### 2026-08-20 09:35:20  #公司
-
-三星電子股價漲幅擴大至7%，SK海力士股價漲幅擴大至11%。
-
----
-
-### 2026-08-20 09:34:59  #市場
-
-【煤炭開採加工板塊衝高，寶泰隆觸及漲停】煤炭開採加工板塊衝高，寶泰隆觸及漲停，淮北礦業、昊華能源、蘭花科創、新大洲A、甘肅能化跟漲。
-
----
-
-### 2026-08-20 09:34:47  #央行 #中國央行
-
-【LPR連續15個月“按兵不動” 降息還有戲嗎？】中國人民銀行授權全國銀行間同業拆借中心公佈，2026年8月20日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。
-
----
-
-### 2026-08-20 09:34:43  #市場
-
-【宇樹科技盤中一度跌超17%】宇樹科技短線走低，盤中一度跌超17%。
-
----
-
-### 2026-08-20 09:33:45  #MKT News
-
-Malaysian Ringgit rose to 4.04 per US dollar, the strongest level since mid-June.
-
----
-
-### 2026-08-20 09:33:26  #市場 #國際
-
-馬來西亞林吉特<MYR=>兌美元升至4.04，創6月中旬以來新高。
-
----
-
-### 2026-08-20 09:33:16  #市場 #國際
-
-日本40年期國債收益率下跌9.5個基點至4.055%。
-
----
-
-### 2026-08-20 09:33:00  #市場 #焦點
-
-【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、派林生物、上海萊士跟漲。
-
----
-
-### 2026-08-20 09:33:00  #市場 #焦點
-
-【A股病毒檢測板塊異動拉昇】貝瑞基因、達安基因觸及漲停，新開源、安科生物、華大基因、博暉創新、艾德生物跟漲。
-
----
-
-### 2026-08-20 09:33:00  #市場 #焦點
-
-【A股血液製品板塊異動拉昇】博暉創新漲9.48%，博雅生物、衛光生物、科華生物、華蘭生物、派林生物、健帆生物跟漲。
-
----
-
-### 2026-08-20 09:32:48  #MKT News
-
-【China NMPA approves two innovative drugs】China’s National Medical Products Administration approved two new drugs: 1) Anfuliqita monoclonal antibody injection (subcutaneous), marketed as Yisaina, from Sansheng Guojian Pharmaceutical (Shanghai) Co., Ltd., for acute gouty arthritis in adults who are contraindicated, intolerant of, or unresponsive to NSAIDs and/or colchicine, or who are unsuitable for repeated steroid use. 2) Fumarate likangkepan capsules, marketed as HengYouDa, from Chengdu Shengdi Pharmaceutical Co., Ltd., approved under the NMPA’s priority review for treatment of adult paroxysmal nocturnal hemoglobinuria (PNH) patients not previously treated with complement inhibitors.
-
----
-
-### 2026-08-20 09:32:42  #市場
-
-快手<1024.HK>股價下跌逾10%。
-
----
-
-### 2026-08-20 09:32:35  #公司
-
-宇樹科技創始人兼CEO王興興：我們尚未對人形機器人進行大規模推廣，因為這類機器人的效率與通用能力仍不夠完善。
-
----
-
-### 2026-08-20 09:32:21  #MKT News #Important #Market Regions #Greater China #01024.HK #Impact bearish
-
-Kuaishou (01024.HK) shares fell over 10% after the company reported 1H adjusted net profit of 7.287 bln yuan, down 28.5% YoY.
-
----
-
-### 2026-08-20 09:32:03  #公司
-
-【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局批准三生國健藥業（上海）股份有限公司申報的安弗利奇塔單抗注射液（皮下注射）（商品名：益賽那）上市，適用於對非甾體類抗炎藥和/或秋水仙鹼禁忌、不耐受或缺乏療效的，以及不適合反覆使用類固醇激素的成人痛風性關節炎急性發作。該品種的上市為相關患者提供了新的治療選擇。近日，國家藥品監督管理局透過優先審評審批程式，批准成都盛迪醫藥有限公司申報的1類創新藥富馬酸立康可泮膠囊（商品名稱：恆優達）上市，該藥用於治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。該藥品上市為患者提供了新的治療選擇。
-
----
-
-### 2026-08-20 09:31:36  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-【China equity index futures open】CSI 300 index futures (IF) main contract up 0.55%; SSE 50 index futures (IH) main contract up 0.40%; CSI 500 index futures (IC) main contract up 0.84%; CSI 1000 index futures (IM) main contract up 0.86%.
-
----
-
-### 2026-08-20 09:31:35  #MKT News #Market Regions #Greater China
-
-【China government bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) most-active contract down 0.01%, 5-year (TF) down 0.03%, 10-year (T) down 0.05%, 30-year (TL) down 0.13%.
-
----
-
-### 2026-08-20 09:31:31  #市場
-
-澳大利亞ASX 200指數在就業資料公佈後上漲0.4%。
-
----
-
-### 2026-08-20 09:31:24  #MKT News
-
-【Money-market yield tracker】Tencent Licaitong (Current+) 7-day annualized yield ranged 0.7050%–1.4020%; WeChat Lingqiantong 7-day annualized yield ranged 0.8780%–1.0010%; Alipay Yu'ebao 7-day annualized yield ranged 0.9010%–1.0600%.
-
----
-
-### 2026-08-20 09:31:22  #MKT News
-
-【South China Sea tropical depression makes landfall in Wenchang, Hainan】A tropical depression in the South China Sea made landfall near Longlou town, Wenchang, Hainan at about 05:40 on the 20th, with maximum winds near the center of 6 on the scale (12 m/s) and central pressure 997 hPa. The system is forecast to move westward across Wenchang, Haikou, Chengmai, Lingao and Danzhou and enter the Beibu Gulf by the afternoon to evening of the 20th, bringing heavy rain to northern and western Hainan.
-
----
-
-### 2026-08-20 09:31:17  #經濟數據 #澳洲
-
-【澳大利亞7月季調後失業率為4.5%】澳大利亞7月季調後失業率為4.5%，預期為4.40%，前值為4.40%。
-
----
-
-### 2026-08-20 09:31:15  #MKT News #Important
-
-C Yushu shares fell over 10%, hitting a low of 750 yuan, on turnover above 600 mln yuan.
-
----
-
-### 2026-08-20 09:31:13  #其他
-
-C宇樹跌超10%，股價最低觸及750元，成交額超6億元。
-
----
-
-### 2026-08-20 09:30:49  #其他
-
-【南海熱帶低壓在海南文昌登陸】從海南省氣象局瞭解到，南海熱帶低壓已於20日5時40分前後在海南省文昌市龍樓鎮沿海登陸，登陸時中心附近最大風力6級（12m/s），中心附近最低氣壓997hPa。預計，該低壓將向偏西方向移動，先後穿過文昌、海口、澄邁、臨高、儋州等市縣，於20日下午到夜間移入北部灣海面。受其影響，海南島北部和西部將有強降水。
-
----
-
-### 2026-08-20 09:30:41  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Precious-metals thematic ETFs opened higher; Guotou Silver LOF rose more than 4%, gold-themed LOF and Harvest Gold LOF each gained over 3%, and Gold LOF was up nearly 3%. Earlier, spot gold topped $4,500 for the first time since June 4.
-
----
-
-### 2026-08-20 09:30:35  #MKT News
-
-Australia July part-time employment +32,200, prior +47,000.
-
----
-
-### 2026-08-20 09:30:33  #市場 #焦點
-
-北證50日內漲幅達1.27%，成分股中，森萱醫藥漲24.75%，諾思蘭德漲7.38%，德源藥業漲5.35%，錦波生物漲4.82%。
-
----
-
-### 2026-08-20 09:30:27  #MKT News #Economic Calendar #Important
-
-Australia | Part-Time Employment (Jul) | actual -32200.000000000004K | previous 47000K
-
----
-
-### 2026-08-20 09:30:16  #其他
-
-澳大利亞7月份就業人數下降15,800人；預估12,000。
-
----
-
-### 2026-08-20 09:30:14  #MKT News
-
-A-share grain sector opened lower; Wanxiang Denong and Nongfa Seed hit limit-down, while Qiule Seed, Jingliang Holdings, Kangnong Seed, Beidahuang and Heizhima declined.
-
----
-
-### 2026-08-20 09:30:12  #MKT News #AUDUSD
-
-Australia July seasonally adjusted labour force participation rate 66.9% vs 66.9% expected, 67.0% prior.
-
----
-
-### 2026-08-20 09:30:09  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
-
-Australia July employment change -15.8k vs est. +15.0k; prior +76.3k.
-
----
-
-### 2026-08-20 09:30:08  #其他
-
-澳大利亞7月季調後失業率 4.5%，預期4.40%，前值4.40%。
-
----
-
-### 2026-08-20 09:30:07  #MKT News #Important #DXY #Impact bullish
-
-Australia July seasonally adjusted unemployment rate 4.5% (consensus 4.4%; June 4.4%).
-
----
-
-### 2026-08-20 09:30:07  #MKT News
-
-Australia July full-time employment +16.3k jobs, prior +29.3k.
-
----
-
-### 2026-08-20 09:30:04  #市場 #焦點
-
-科創50日內漲幅達1.08%，成分股中，惠泰醫療漲9.99%，百利天恆漲3.52%，艾力斯漲2.59%，生益電子漲2.51%。
-
----
-
-### 2026-08-20 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲1.09%， 滬深300指數期貨連續漲0.77%， 中證500指數期貨連續漲1.09%， 上證50指數期貨連續漲0.60%。
-
----
-
-### 2026-08-20 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.05%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Labour Force Participation Rate SA (Jul) | actual 66.9% | consensus 66.90% | previous 67.00%
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Full-Time Employment (Jul) | actual 16299.999999999998K | previous 29300K
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Employment (Jul) | actual -15800K | consensus 15000K | previous 76300K
-
----
-
-### 2026-08-20 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Unemployment Rate SA (Jul) | actual 4.5% | consensus 4.40% | previous 4.40%
-
----
-
-### 2026-08-20 09:29:23  #市場
-
-中證轉債指數開盤上漲0.28%。三鑫轉債、微芯轉債、皓元轉債、奧銳轉債、天準轉債漲幅居前，分別漲11.25%、5.60%、5.00%、4.89%、4.18%。億田轉債、美錦轉債、江農轉債、平煤轉債、曉鳴轉債跌幅居前，分別跌4.08%、1.82%、0.81%、0.44%、0.36%。
-
----
-
-### 2026-08-20 09:29:00  #市場 #焦點
-
-中證500指數期貨連續主力合約日內漲1%，現報7789.60點。
-
----
-
-### 2026-08-20 09:29:00  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內漲1%，現報7550.00點。
-
----
-
-### 2026-08-20 09:29:00  #MKT News #Important #MRNA.O #Impact bullish #MRK.N
-
-【China innovative-drug stocks surge; Hansen Pharma, Ha Sanlian notch second straight limit-ups】A-share innovative-drug sector opened sharply higher after Moderna jumped 177% overnight when it and Merck said a melanoma vaccine met the primary endpoint in a large trial. Hansen Pharma and Ha Sanlian posted second straight daily limit-ups. Haixin, Zhongguancun, Laimei Pharma, Watson Bio, Jiankai Technology, Shuanglu Pharma, Kangchen Pharma and Yuekang hit daily price limits. Sanyuan Gene rose >20%; Zhifei Bio and Shiyao Innovation gained >15%; Xinkaiyuan, Anke Biotech and Kangtai Biotech rallied >10%.
 
 ---

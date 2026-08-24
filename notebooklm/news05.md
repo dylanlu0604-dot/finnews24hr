@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 05:57:23_
-_本檔包含 3083 則快訊，約 623036 字_
+_更新時間：2026-08-25 06:38:12_
+_本檔包含 3086 則快訊，約 622772 字_
+
+---
+
+### 2026-08-19 10:03:44  #其他
+
+【胖東來澄清：對刑滿釋放人員招聘不包含性侵犯罪者】近日，胖東來針對“無門檻招聘刑滿釋放人員”作出澄清。胖東來表示，並非無門檻接納，明確排除性侵、嚴重暴力等惡性犯罪前科人員，且刑釋人員需與其他應聘者走完全相同的報名面試流程，並設定6個月的雙向選擇試用期。首批入職人員也被優先安排在倉儲、物流等後臺崗位，以兼顧就業幫扶與安全管理。
+
+---
+
+### 2026-08-19 10:03:40  #其他
+
+【河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒接受審查調查】據河南省紀委監委訊息，河南省紀委監委駐省市場監督管理局紀檢監察組組長李鋒涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-19 10:03:35  #國際
+
+【協鑫整合BC元件海外市場批次出貨】據悉，協鑫整合BC元件海外訂單已實現量產出貨。據瞭解，自今年5月以來，協鑫整合高效BC元件訂單在海外持續落地，其中德國市場累計簽約規模突破100兆瓦，高階高效產品在歐洲分散式賽道實現穩步放量。截至2026年6月底，協鑫整合擁有30GW高效N型元件產能，其中合肥基地與阜寧基地已完成部分BC產線的升級改造。
+
+---
+
+### 2026-08-19 10:02:54  #市場
+
+【減速器板塊大幅調整，巨輪智慧等多股跌停】減速器板塊大幅調整，巨輪智慧、中大力德、襄陽軸承跌停，豐光精密、綠的諧波、昊志機電等跌超10%。
+
+---
+
+### 2026-08-19 10:02:46  #市場 #國際
+
+印尼股指下跌1%至6384.12點。
+
+---
+
+### 2026-08-19 10:02:34  #其他
+
+8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行 兩岸青年交流季”上海站活動。（日月譚天）
+
+---
+
+### 2026-08-19 10:01:43  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SZSE Component
+
+Beijing Stock Exchange 50 Index fell more than 3%, with only 2 constituents advancing.
+
+---
+
+### 2026-08-19 10:01:04  #市場 #焦點
+
+北證50日內跌幅達3.00%，成分股中，三協電機跌10.77%，萬達軸承跌8.27%，鼎智科技跌7.62%，國子軟體跌6.02%。
+
+---
+
+### 2026-08-19 10:00:07  #公司
+
+【宇樹科技核心技術人員身家過億元】8月19日，宇樹科技登陸科創板，開盤後漲超500%，市值超3500億元。在發行前，宇樹科技設有股權激勵平臺上海宇翼。招股書顯示，發行前上海宇翼持有公司股份3982.86萬股，持股比例為10.9414%。機械結構負責人楊知雨、銷服體系負責人陳立、演算法與軟體負責人張陽光透過上海宇翼間接持有公司股份比例分別為0.49%、0.26%、0.15%。若按照3500億元市值計算，他們持有的公司市值分別達到17.15億元、9.1億元、5.25億元。（第一財經）
+
+---
+
+### 2026-08-19 09:59:39  #其他
+
+【雞蛋市場行情上行，山姆調價保障日常採購】8月19日，山姆會員商店釋出通知，將調整一款精選鮮雞蛋1.59kg售價，由18.9元/盒調整至21.8元/盒。受多重客觀市場因素帶動，近幾個月雞蛋整體價格行情呈上行趨勢，此前數月山姆一直維持該商品原有售價，也因此出現供貨緊張、貨量不足的情況。為進一步擴大商品供給、保障穩定供貨，自8月19日起對精選鮮雞蛋進行調價。山姆方面表示，後續會密切關注市場行情，適時調整價格策略。同時門店將採取分時段補貨、適度限購等舉措，盡力保障會員家庭日常採購。（每經）
+
+---
+
+### 2026-08-19 09:59:30  #公司
+
+【多位90後宇樹員工身價超千萬】8月19日，宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。 據悉，2017年9月至2021年12月，宇樹科技先後與楊知雨等17名員工簽訂了《期權協議書》，授予該等員工按照1元/註冊資本的價格認購公司股權的權利。按發行價150.80元/股測算，這批最早選擇與公司共擔風險的核心員工，賬面浮盈超過150倍。 需要注意的是，包括創始人王興興（1990年生）在內，宇樹科技的高管是一支極具代表性的90後創業團隊，研發軟體總監張陽光（1993年）、研發結構總監楊知雨（1991年）、銷售總監陳立（1990年）均為90後。 隨著公司上市，多位青年高管的賬戶紙面收益有望超千萬，高的甚至將過億。 （南方日報）
+
+---
+
+### 2026-08-19 09:57:08  #公司 #市場
+
+【港股內房股繼續上漲，金輝控股漲超8%領銜】港股內房股繼續上漲，其中，金輝控股漲超8%領銜，融信中國漲超5%，雅居樂集團、建發國際集團、中國金茂漲超3%，旭輝控股、中國海外發展、中國海外宏洋集團漲2.8%，華潤置地、碧桂園、綠城中國、越秀地產、新城發展跟漲。
+
+---
+
+### 2026-08-19 09:53:58  #市場
+
+【功率半導體概念震盪拉昇 斯達半導漲停】功率半導體概念震盪拉昇，斯達半導漲停，士蘭微、新潔能、揚傑科技、華潤微跟漲。
+
+---
+
+### 2026-08-19 09:53:24  #MKT News #SHEL.N #Impact bullish
+
+Shell (SHEL.N) is investing in a new supply chain in Queensland, Australia; its QGC project will begin supplying gas in 2027.
+
+---
+
+### 2026-08-19 09:52:45  #國際
+
+馬來西亞棕櫚油委員會（MPOC）預測，9月份棕櫚油價格將維持在4600 RGT/噸以上。
+
+---
+
+### 2026-08-19 09:52:07  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-08-19 09:51:58  #公司
+
+【賽意資訊成立智慧科技公司，含物聯網業務】企查查APP顯示，近日，廣州瀚曜智慧科技有限公司成立，經營範圍包含：工業控制計算機及系統銷售；工業網際網路資料服務；數字技術服務；物聯網技術服務等。企查查股權穿透顯示，該公司由賽意資訊全資持股。
+
+---
+
+### 2026-08-19 09:51:38  #公司
+
+【中國中煤成立新能源公司，含生物質能技術業務】企查查APP顯示，近日，中煤電力（射陽）新能源有限公司成立，經營範圍包含：發電技術服務；風力發電技術服務；太陽能發電技術服務；生物質能技術服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。
+
+---
+
+### 2026-08-19 09:51:31  #MKT News #Important #Market Regions #Greater China
+
+N Shuangying rallied more than 200%, triggering a second intraday trading suspension; turnover exceeded 350 million yuan.
+
+---
+
+### 2026-08-19 09:51:29  #公司 #焦點
+
+N雙英漲超200%，觸發二次臨停，成交額超3.5億元。
+
+---
+
+### 2026-08-19 09:51:20  #市場
+
+小馬智行港股公佈上半年業績後下跌4.8%。
+
+---
+
+### 2026-08-19 09:51:03  #市場 #國際
+
+日本兩年期國債<JP2YTN=JBTC>收益率下跌0.5個基點至1.680%。
+
+---
+
+### 2026-08-19 09:50:58  #市場 #國際
+
+五年期日本國債<JP5YTN=JBTC>收益率下跌1個基點，至2.140%。
+
+---
+
+### 2026-08-19 09:50:52  #公司
+
+【三峽能源四座光熱電站累計發電量突破1億千瓦時】三峽集團8月19日訊息， 截至2026年8月8日，三峽能源旗下位於甘肅、青海、新疆三省區的安懷、新燁、燎原、伊州四座百兆瓦級光熱電站累計發電量突破1億千瓦時大關。這一成績充分驗證了光熱發電作為穩定可調清潔電源的獨特價值，為電網調峰和新能源消納提供了有力支撐。據瞭解，四座電站分佈在甘肅、青海、新疆的戈壁荒漠地帶，所處環境高海拔、強風沙、寒暑極端，建設運維條件極為艱苦。專案採用雙技術路線並行佈局，多儲能模式協同發力，構建起規模化光熱儲能產業矩陣。（中證金牛座）
+
+---
+
+### 2026-08-19 09:50:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Venezuela signs contracts with Schlumberger and Hunt Oil to boost production】Venezuela oil minister Paula Henao said on Tuesday the government signed oil-related contracts with Schlumberger and U.S. independent Hunt Oil to attract investment and raise crude output. The deals include an oil-and-gas production participation agreement with two field-development partners; Henao did not disclose expected investment or incremental production. Caracas also signed a framework agreement with Schlumberger for nationwide integrated reservoir studies. Politico reported several more U.S. independents are expected to sign production contracts with state company PDVSA in the coming days.
+
+---
+
+### 2026-08-19 09:50:31  #MKT News #Market Themes #AI Revolution
+
+【Goldman Sachs: AI revenue still surging; market now trading the second derivative of growth】Goldman Sachs reports Anthropic's ARR topped $65bln in July 2026, versus $47bln in May and $9bln at end‑2025. ARR is still expanding at about 18% MoM despite the larger base. Goldman says markets have begun trading the "second derivative" — whether growth can further accelerate or will slow as the base rises. It warns that once ARR moves from sub‑$10bln into the hundreds‑of‑bln range, simply sustaining high percentage growth may deliver less marginal valuation support than earlier.
+
+---
+
+### 2026-08-19 09:50:14  #MKT News
+
+【Yushu Technology pop on Sci‑Tech debut lifts founder Wang’s stake above 100 billion yuan】Aug. 19 — Yushu Technology began trading on the Sci‑Tech Innovation Board, opening up more than 500% and valuing the company at over 350 billion yuan. The company prospectus shows chairman/GM/CTO Wang Xingxing directly holds 86.714964 million shares, equivalent to 21.4395% of post‑issue equity; he also held 9.5367% indirectly via equity‑incentive vehicle Shanghai Yuyi before the offering. Combined direct and indirect holdings are roughly 30%, worth in excess of 100 billion yuan, making Wang the richest entrepreneur born in the 1990s.
+
+---
+
+### 2026-08-19 09:48:44  #其他
+
+【功夫女足票房破23億】據貓眼專業版資料，電影 《功夫女足》 上映40天， 總票房破23億。
+
+---
+
+### 2026-08-19 09:48:32  #MKT News #Important #CSI300 #Impact bearish #SSE Composite
+
+A-share humanoid-robot sector extended losses; Qin'an Co. hit its daily limit down. Lude Xiebo, Fengguang Precision, Haozhi Jidian and Shangwei New Materials dropped more than 10%; Zhongda Lide, Julun Intelligent, Changsheng Bearing, Jintuo and Siling Zhiqu also fell.
+
+---
+
+### 2026-08-19 09:48:11  #MKT News #02525.HK #Impact bearish
+
+Hesai-W (02525.HK) fell more than 7% after reporting earnings.
+
+---
+
+### 2026-08-19 09:48:07  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Japanese Yen Stays Range-Bound — The Japanese yen traded around 159.5 per dollar on Wednesday, remaining range-bound for more than a week now after giving back about half of the gains made following the joint intervention by Tokyo and Washington at the end of July. The currency continues to face persistent weakness due to wide interest rate differentials, growing fiscal concerns and elevated energy and import costs. On the monetary policy front, traders are increasingly speculating on a Bank of Japan interest rate hike in September to support the yen and curb inflation. Japan’s 10-year bond yield reached 30-year highs this week, reflecting expectations of an imminent BOJ rate increase and mounting fiscal concerns. Meanwhile, the latest data showed core machinery orders in Japan jumped 9.7% in June, exceeding forecasts and pointing to stronger capital spending among companies.
 
 ---
 
@@ -18464,192 +18650,5 @@ Agricultural Commodities Updates: Cocoa Surges by 5.18% — Top commodity gainer
 ### 2026-08-18 06:39:04  #MKT News #BHP.O #Impact bullish
 
 BHP reported fiscal‑year revenue of $58.76 billion, up 15% YoY. Fiscal‑year capital and exploration expenditure totaled $10.26 billion, up 5% YoY.
-
----
-
-### 2026-08-18 06:37:13  #公司 #其他 #焦點 #國際
-
-必和必拓本財年營收 587.6 億美元，同比增長 15%。
-
----
-
-### 2026-08-18 06:36:43  #MKT News #BHP.O #Impact bullish
-
-BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying profit was $13.2 bln, up 30% YoY, beating market expectation of $12.66 bln.
-
----
-
-### 2026-08-18 06:36:12  #公司 #國際
-
-必和必拓：儘管中東衝突持續，本集團大宗商品需求在 26 財年仍保持韌性。
-
----
-
-### 2026-08-18 06:36:02  #其他
-
-必和必拓：銅是驅動必和必拓業務增長的核心引擎。
-
----
-
-### 2026-08-18 06:35:31  #其他
-
-必和必拓：僅銅的需求量就將從當前約 3400 萬噸 / 年增長至 2050 年超 5000 萬噸 / 年。
-
----
-
-### 2026-08-18 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%).
-
----
-
-### 2026-08-18 06:34:17  #其他
-
-必和必拓全年基礎盈利132.0億美元，預估126.9億美元。
-
----
-
-### 2026-08-18 06:33:42  #公司
-
-【險資股票和基金持倉規模半年增加近7000億元】根據金融監管總局近日披露的最新的保險公司資金運用情況表，截至今年二季度末，險資股票和證券投資基金投資規模達到6.4萬億元，較年初增加近0.7萬億元，其中二季度單季增加近0.5萬億元。分析人士認為，二季度險資權益配置提速，主要是其主動增配權益類資產和權益類資產公允價值抬升共同作用的結果。在增配的權益類資產中，主要分為FVOCI（以公允價值計量且其變動計入其他綜合收益）類和FVTPL（以公允價值計量且其變動計入當期損益）類，前者以獲取高股息為主，後者則以獲取資本利得為主。業內人士透露，未來險資還將繼續同時擁抱確定性與可能性，密切跟蹤資產的風險收益比變化。（中證報）
-
----
-
-### 2026-08-18 06:32:56  #其他
-
-必和必拓全年淨利潤98.3億美元，預估109.5億美元。
-
----
-
-### 2026-08-18 06:31:35  #市場 #央行 #國際
-
-【週二重要財經資訊提醒（以下均為北京時間）】
-① 09:00 澳洲聯儲助理主席瓊斯講話；
-② 14:00 英國6月三個月ILO就業人數、失業率；
-③ 15:00 國新辦舉行新聞釋出會，介紹激發下沉市場活力活躍縣域消費有關情況；
-④ 港股收盤之後 百度、小米釋出業績報告，禾賽、愛奇藝、小鵬也將釋出業績報告；
-⑤ 17:00 歐元區8月ZEW經濟景氣指數，德國8月ZEW經濟景氣指數；
-⑥ 美股盤前 家得寶等釋出業績報告；
-⑦ 19:45 歐洲央行首席經濟學家Philip Lane參加在都柏林舉辦的一個關於“全球地緣政治破碎化中貨幣政策”的研討會；
-⑧ 20:30 美國7月新屋開工、營建許可，7月進口價格指數；
-⑨ 21:15 美國7月工業產出；
-⑩ 22:00 美國7月成屋簽約銷售指數。
-
----
-
-### 2026-08-18 06:30:50  #公司
-
-【0.01個百分點的訊號，銀行業淨息差迎來階段性修復】日前，國家金融監督管理總局釋出的2026年二季度銀行業保險業主要監管指標資料顯示，二季度商業銀行淨息差為1.41%，較一季度的1.40%上升0.01個百分點，是自2022年以來首次單季環比上升。但不同型別銀行走勢分化，其中國有大行、城商行、農商行、民營銀行二季度淨息差實現環比上行，股份行環比持平，外資銀行環比下降。 業內人士分析，本輪息差企穩的核心動力來自負債端：存量高息存款集中到期重定價，疊加銀行主動最佳化負債結構，有效壓降了付息成本。在監管引導下，利率自律機制發揮作用，遏制信貸利率非理性降價競爭，助力穩定資產端定價，託舉淨息差。（中證報）
-
----
-
-### 2026-08-18 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Heating Oil Rises by 3.83% — Top commodity gainers are Heating Oil (3.83%), Crude Oil WTI (3.26%) and Brent Crude Oil (3.08%). Biggest losers are Methanol (-1.59%) and Natural gas (-1.17%).
-
----
-
-### 2026-08-18 06:28:22  #公司
-
-【PCB產業鏈半年報亮眼，高階產品供需偏緊或延續至2028年】近期，多家PCB產業鏈企業披露2026年半年報，大多數公司營收、淨利潤實現較快增長。梳理發現，AI算力需求增長、產品結構升級及產能釋放等成為推動企業業績增長的重要因素。與此同時，當前PCB行業仍處於結構性漲價過程中，高階HDI、高多層PCB等高階產品持續處於供需偏緊狀態。展望後市，有行業人士表示，AI伺服器持續迭代、ASIC加速器加快放量將繼續支撐高階PCB需求，而高階產能釋放仍需要時間，預計高階PCB供需偏緊格局或延續至2028年。（上證報）
-
----
-
-### 2026-08-18 06:27:01  #MKT News #WTI #Impact bullish
-
-【Poll shows Trump approval at second-term low】Reuters/Ipsos poll on Aug. 17 found US President Trump’s approval rating at 33%, a second-term low. The survey showed 64% disapprove of his White House performance and roughly 80% expect fighting between the US and Iran to continue for a long time. The online poll sampled 1,166 US adults.
-
----
-
-### 2026-08-18 06:26:39  #MKT News #Macro & Rates #Treasury Yields #The Fed (FOMC) #Market Regions #Japan & APAC #WTI #Impact bearish #US10Y #Nikkei 225
-
-【Asian stocks set to open lower; oil, bond yields pose headwinds】Asian equities were set to open lower after US losses as rising oil prices raised inf concerns and hopes for an end to the US‑Iran conflict dimmed. Futures for Australia, Japan and Hong Kong fell on Tuesday. Market participants are focused on oil and government bond yields for signs of a sustained inf shock that could push up Fed rate expectations and pressure high‑valuation stocks. US 10‑year Treasury yields rose above 4.7% and remain elevated despite last week’s subdued inf data, a persistent headwind for investors, said Matt Maley, chief market strategist at Miller Tabak+Co.
-
----
-
-### 2026-08-18 06:24:22  #公司 #國際
-
-【民調顯示特朗普支援率創第二任期內新低】當地時間8月17日，路透社與益普索集團釋出的一項民意調查結果顯示，美國總統特朗普的支援率降至33%，創下其第二任期內新低。民調顯示，64%的美國人不認可特朗普在白宮的表現，約80%的美國人預計美國和伊朗之間的戰事“將會持續很長時間”。本次調查在全美以線上方式進行，收集了1166名美國成年人的反饋。（央視新聞）
-
----
-
-### 2026-08-18 06:23:20  #公司 #觀點
-
-【主動退出與被動處置並行，今年以來多家中小券商股權被擺上“貨架”】近日，開源證券的一筆股權轉讓引發關注。開源證券的中小股東西安曲江文化金融控股（集團）有限公司，將其持有的開源證券股份（4784.60萬股）全部掛牌轉讓，轉讓底價2.10億元。據統計，今年以來，東海證券、大通證券等多家中小券商股權被擺上轉讓“貨架”。中小券商股權流轉的背後，是主動退出與被動處置兩條主線並行。主動退出方面，股東財務狀況是驅動因素之一。被動處置方面，股東債務觸發司法拍賣的案例持續增加。（上證報）
-
----
-
-### 2026-08-18 06:21:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【U.S.-Iran standoff persists; oil up about 3% on bleak talks outlook】International crude rose about 3% on Monday as prospects for a U.S.-Iran deal dimmed. President Trump said he does not intend to extend a U.S.-Iran memorandum of understanding signed in June that technically expired on Monday. Major disagreements remain, including over the Strait of Hormuz. Other U.S. officials signaled Washington is not in a hurry to end the nearly six-month confrontation. The U.S. Energy Secretary described U.S. policy toward the Islamic Republic as a long-term game, and senior adviser Jared Kushner said Trump will be patient on any agreement.
-
----
-
-### 2026-08-18 06:20:24  #宏觀 #公司 #市場 #國際
-
-【8月18日隔夜要聞一覽】
-1、美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。
-2、美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。
-3、美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。
-4、8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。
-5、國際油價17日上漲。紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。
-6、海事資料顯示，一艘屬於阿聯酋公司的油輪在穿越霍爾木茲海峽時，在格什姆島附近被攔截。
-7、一名伊朗高階官員說，伊朗已為美國全面履行伊美諒解備忘錄設定了“數週的最後期限”，伊朗“不會無限期地任由美國持續實施海上封鎖”。
-8、美國總統特朗普的女婿庫什納見內塔尼亞胡，尋求推進“加沙和平計劃”。
-9、谷歌以1000萬美元報價收購精神航空海量資料：1億封郵件、5億條微軟Teams聊天及協作記錄，同時包含營收、航空器運營、員工產出、審計及欺詐相關資訊。
-
----
-
-### 2026-08-18 06:19:31  #國際
-
-市場訊息：美國要求韓國首輪投資投向儲存晶片。
-
----
-
-### 2026-08-18 06:18:23  #公司
-
-【權益類公募倉位再抬升，電子行業獲增持幅度最大】近期A股市場震盪分化，權益類公募基金在保持較高倉位的同時，行業配置進一步調整。資料顯示，截至8月14日，公募權益類基金整體倉位升至94.42%，較前一週提高0.08個百分點，保持歷史中位偏高水平。從行業變化來看，電子成為當週主動增持幅度最大的行業，而通訊、電力裝置、建築材料等板塊受到不同程度的主動減持。 多家基金公司認為，隨著8月下旬進入半年報密集披露期，市場定價重心正逐步從情緒和估值修復轉向業績兌現。在高倉位背景下，公募後續操作或更多體現為持倉結構最佳化。科技仍是機構關注的重要方向，但配置範圍正在進一步收斂，逐步聚焦至儲存、光通訊、半導體裝置、電源及液冷等細分環節。（上證報）
-
----
-
-### 2026-08-18 06:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Rises by 0.38% — Top currency gainers are Brazilian Real (0.38%), Norwegian Krone (0.31%), Australian Dollar (0.30%), Euro (0.08%) and British Pound (0.07%). Biggest losers are Japanese Yen (-0.09%) and Dollar Index (-0.08%).
-
----
-
-### 2026-08-18 06:15:10  #國際
-
-【資料顯示霍爾木茲海峽和曼德海峽航運活動持續低迷】當地時間8月17日獲悉，在美伊衝突持續數月後，中東兩條重要航運通道的船舶通行量仍處於低位。全球船舶實時追蹤與海事資料平臺“海事交通”（MarineTraffic）的資料顯示，過去24小時內，至少有3艘商業船舶透過霍爾木茲海峽。戰爭爆發前，平均每天約有110艘船透過該水道。此外，過去24小時內，至少有37艘商業船舶透過曼德海峽。（央視新聞）
-
----
-
-### 2026-08-18 06:14:11  #其他
-
-【8月以來兩融餘額回升700多億元，機構：市場進入情緒修復通道】8月以來，滬深北三市兩融餘額一度連續8個交易日回升，累計反彈超過700億元。8月14日，兩融餘額微降18.59億元，連增態勢暫告段落。與7月相比，兩融資金回補節奏相對溫和，結構上較此前科技板塊集中出逃前更趨均衡。業內普遍認為，槓桿資金快速撤離的階段已過，市場處於情緒修復初期，中長期配置型資金並未離場，後續反彈需要賺錢效應進一步催化。（上證報）
-
----
-
-### 2026-08-18 06:11:00  #公司 #國際
-
-【嘉吉年度收益上升，市場波動利好交易業務】美國最大的私營企業嘉吉公司（Cargill）報告年度調整後收益上升，這家糧食貿易商在地緣政治動盪引發的市場波動中獲益。經審計年度賬目顯示，這家總部位於明尼阿波利斯的公司報告，截至5月31日的財年中，調整後營業利潤同比增長10%至38億美元。由於資產減值和重組費用等一次性專案，淨利潤出現下滑。該公司還將支付給股東的股息縮減至8.65億美元，而去年曾創下近15億美元的歷史最高分紅紀錄。營收同比增長6.5%至1640億美元。
-
----
-
-### 2026-08-18 06:08:36  #央行
-
-紐西蘭聯儲圍繞支付系統建議公開徵求意見。該央行將考慮系統結構性現代化的必要性。
-
----
-
-### 2026-08-18 06:05:31  #公司
-
-嘉吉集團年度營業利潤在市場動盪背景下實現增長。
-
----
-
-### 2026-08-18 06:00:36  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
 
 ---
