@@ -1,7 +1,99 @@
 {
-  "updated": "2026-08-24 23:24:40",
-  "count": 15809,
+  "updated": "2026-08-24 23:29:59",
+  "count": 15810,
   "items": [
+    {
+      "id": "mkt:01a03463-00a4-7aab-90fa-b044bd435ed5",
+      "time": "2026-08-24 23:28:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports AI-driven development of new materials is one of 17 strategic areas in Prime Minister Takaichi's economic agenda."
+    },
+    {
+      "id": "5056013",
+      "time": "2026-08-24 23:28:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問穆赫貝爾：伊朗的回應將比以往任何時候都更加堅決。"
+    },
+    {
+      "id": "mkt:01a03462-9190-7aab-90fa-ae2cdd9f3cf1",
+      "time": "2026-08-24 23:27:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei says Japan's Ministry of Economy, Trade and Industry (METI) will seek several bln yen in the budget for the fiscal year beginning April 2027 to fund the project."
+    },
+    {
+      "id": "5056012",
+      "time": "2026-08-24 23:26:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "CD Projekt Red 執行長：《巫師 4》目標於 2028 年推出。"
+    },
+    {
+      "id": "5056011",
+      "time": "2026-08-24 23:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：該平臺利用人工智慧分析各製造商共享的資料，日本經濟產業省計劃為該專案在下一財年申請數十億日元預算。"
+    },
+    {
+      "id": "mkt:01a03460-3977-7aab-90fa-a1b3facda24e",
+      "time": "2026-08-24 23:25:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "According to Nikkei, Japan plans to use AI to boost materials R&D speed tenfold."
+    },
+    {
+      "id": "mkt:01a0345f-eafc-7aab-90fa-998ca6fc870e",
+      "time": "2026-08-24 23:24:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Castle Securities warns Treasury buybacks funded from TGA could weaken dollar, lift inflation】CNBC reported US Treasury Secretary BESSENT may use the Treasury General Account (TGA) at the Federal Reserve to fund Treasury buybacks. Castle Securities called such intervention “financial repression,” arguing it could lower long-term yields, weaken the dollar and raise imported inflation by altering market pricing of the US fiscal outlook and inflation risks. Shah said suppressing long yields will not remove upward pressure on yields amid tight labor and large AI-related investment; the bond market, he wrote, signals fiscal or monetary tightening is needed, and lasting solutions require tougher fiscal choices and central banks willing to act preemptively on inflation, including rate hikes when necessary."
+    },
+    {
+      "id": "5056010",
+      "time": "2026-08-24 23:24:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本將藉助人工智慧，把材料研發速度提升 10 倍。日本政府正推進相關計劃，搭建可將新材料研發速度提升 10 倍的平臺。"
+    },
+    {
+      "id": "mkt:01a0345e-f319-7aab-90fa-9367aa4552d9",
+      "time": "2026-08-24 23:23:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources: U.S. Strategic Petroleum Reserve crude stocks fell by about 3.7 mln barrels last week to 289.7 mln barrels, the lowest level since 1982."
+    },
     {
       "id": "5056009",
       "time": "2026-08-24 23:22:56",
@@ -143217,72 +143309,6 @@
         "Brent"
       ],
       "text": "Iranian sources reported the Pentagon concluded that no military plan can guarantee security and stability in the Strait of Hormuz."
-    },
-    {
-      "id": "5044596",
-      "time": "2026-08-17 23:29:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“出口中國”埃及專場活動在開羅舉行】“出口中國”埃及專場活動17日在埃及首都開羅舉行。中埃兩國企業在活動上籤署多項貿易協議，合同總額近1.7億美元。 埃及投資和外貿部亞洲司司長賽義德·福阿德感謝中方在埃舉辦“出口中國”專場活動。他表示，埃方願與中方建立更長期的合作，加強經貿交流，推動兩國經貿關係更好發展。（新華社）"
-    },
-    {
-      "id": "5044595",
-      "time": "2026-08-17 23:29:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破64000美元，日內漲1.83%。"
-    },
-    {
-      "id": "5044594",
-      "time": "2026-08-17 23:28:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍隊宣佈，週一晚間，一枚哈馬斯炸彈在加沙地帶北部“黃線”以色列一側引爆，哈馬斯武裝人員也在該地區開槍射擊。"
-    },
-    {
-      "id": "5044593",
-      "time": "2026-08-17 23:28:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "緬甸總統敏昂萊抵達莫斯科，開啟正式訪問。"
-    },
-    {
-      "id": "5044592",
-      "time": "2026-08-17 23:25:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國眾議員吉爾就職場歧視性招聘問題質詢麥肯錫公司。"
-    },
-    {
-      "id": "5044591",
-      "time": "2026-08-17 23:25:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀向瑞士初創企業Gravis Robotics投資2億美元，該公司主打工程機械自主作業軟體。"
-    },
-    {
-      "id": "5044590",
-      "time": "2026-08-17 23:25:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊誓言“堅決粉碎一切威脅與侵略”，伊美相關協議到期。"
-    },
-    {
-      "id": "5044589",
-      "time": "2026-08-17 23:24:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會副議長：《裡海公約》將送交國家安全委員會審議，我們將評估該公約是否維護伊朗的國家利益。"
     }
   ]
 }
