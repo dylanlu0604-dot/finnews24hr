@@ -1,7 +1,75 @@
 {
   "date": "2026-08-25",
-  "count": 183,
+  "count": 190,
   "items": [
+    {
+      "id": "mkt:01a0350a-66ac-7aab-90fe-2a75f8448746",
+      "time": "2026-08-25 02:31:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. crude futures settled at $85.01 per barrel, down $2.05, or 2.35%."
+    },
+    {
+      "id": "5056123",
+      "time": "2026-08-25 02:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報85.01美元/桶。NYMEX 9月天然氣期貨收報2.7820美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.2708美元/加侖，NYMEX 9月取暖油期貨收報4.2677美元/加侖。"
+    },
+    {
+      "id": "mkt:01a0350a-1492-7aab-90fe-247d7b4f47f7",
+      "time": "2026-08-25 02:30:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.09% at 1,000.78 yuan/gram in the Aug. 24 evening session; silver T+D closed down 0.74% at 16,655.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:577684",
+      "time": "2026-08-25 02:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 2.53% — Top crypto loser is XRP (-2.53%). Gains are led by Bitcoin (1.64%) and Ether (0.59%)."
+    },
+    {
+      "id": "5056122",
+      "time": "2026-08-25 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.98%，報587.80元人民幣/桶。滬金夜盤收漲0.61%，滬銀收跌0.65%。"
+    },
+    {
+      "id": "te:markets:577683",
+      "time": "2026-08-25 02:25:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Surges by 5.94% — Top commodity gainers are Coffee (5.94%) and Corn (1.49%). Biggest losers are Canola (-3.34%), Rapeseed (-2.92%) and Cocoa (-1.74%)."
+    },
+    {
+      "id": "mkt:01a03504-8613-7aab-90fe-1e3200065534",
+      "time": "2026-08-25 02:24:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Macron meets Saudi crown prince Mohammed in Paris】French President Macron met Saudi Crown Prince Mohammed, who also serves as prime minister, at the Élysée Palace in Paris on Aug 24."
+    },
     {
       "id": "5056121",
       "time": "2026-08-25 02:22:43",

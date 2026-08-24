@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-25 02:23:47",
-  "count": 15836,
+  "updated": "2026-08-25 02:31:53",
+  "count": 15832,
   "items": [
+    {
+      "id": "mkt:01a0350a-66ac-7aab-90fe-2a75f8448746",
+      "time": "2026-08-25 02:31:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. crude futures settled at $85.01 per barrel, down $2.05, or 2.35%."
+    },
+    {
+      "id": "5056123",
+      "time": "2026-08-25 02:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報85.01美元/桶。NYMEX 9月天然氣期貨收報2.7820美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.2708美元/加侖，NYMEX 9月取暖油期貨收報4.2677美元/加侖。"
+    },
+    {
+      "id": "mkt:01a0350a-1492-7aab-90fe-247d7b4f47f7",
+      "time": "2026-08-25 02:30:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.09% at 1,000.78 yuan/gram in the Aug. 24 evening session; silver T+D closed down 0.74% at 16,655.0 yuan/kg."
+    },
+    {
+      "id": "5056122",
+      "time": "2026-08-25 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.98%，報587.80元人民幣/桶。滬金夜盤收漲0.61%，滬銀收跌0.65%。"
+    },
+    {
+      "id": "te:markets:577684",
+      "time": "2026-08-25 02:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 2.53% — Top crypto loser is XRP (-2.53%). Gains are led by Bitcoin (1.64%) and Ether (0.59%)."
+    },
+    {
+      "id": "te:markets:577683",
+      "time": "2026-08-25 02:25:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Surges by 5.94% — Top commodity gainers are Coffee (5.94%) and Corn (1.49%). Biggest losers are Canola (-3.34%), Rapeseed (-2.92%) and Cocoa (-1.74%)."
+    },
+    {
+      "id": "mkt:01a03504-8613-7aab-90fe-1e3200065534",
+      "time": "2026-08-25 02:24:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Macron meets Saudi crown prince Mohammed in Paris】French President Macron met Saudi Crown Prince Mohammed, who also serves as prime minister, at the Élysée Palace in Paris on Aug 24."
+    },
     {
       "id": "5056121",
       "time": "2026-08-25 02:22:43",
@@ -143448,112 +143516,6 @@
         "Impact bearish"
       ],
       "text": "【U.S.-Iran tensions add risk; 30-year Treasury yield at 19-year high】U.S. Treasury yields rose across the curve on Monday as renewed U.S.-Iran uncertainty lifted oil prices. The 30-year Treasury yield, typically sensitive to geopolitical risk, rose over 4 bps to 5.311%, its highest since June 2007. The 10-year yield, a benchmark for mortgages and consumer loans, climbed just over 2 bps to 4.724%. The 2-year yield, which tracks Fed policy expectations, gained just over 1 bp to 4.182%. A 60-day window tied to a U.S.-Iran peace accord expired on Monday and Iran ruled out extending it, supporting crude. Investors await this week’s Fed minutes for further clues on policy and the rate path; the Fed voted 9-3 on July 29 to keep rates at 3.50–3.75%, with three members preferring a 25-bp hike."
-    },
-    {
-      "id": "mkt:01a010fe-44ab-7aab-9068-21ae707d89d6",
-      "time": "2026-08-18 02:31:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "US crude futures settled at $84.50/bbl, up $2.10 or 2.55%."
-    },
-    {
-      "id": "mkt:01a010fe-1497-7aab-9068-1cc0a7984128",
-      "time": "2026-08-18 02:31:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Night session most-active contracts close】As of 02:30, Shanghai gold most-active contract rose 0.41% to 958 yuan/gram; Shanghai silver most-active contract rose 0.82% to 16,134 yuan/kg; Shanghai crude oil (SC) most-active contract rose 4.91% to 597 yuan/barrel."
-    },
-    {
-      "id": "mkt:01a010fd-f7d2-7aab-9068-152118035e42",
-      "time": "2026-08-18 02:31:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 0.37% at 955.07 yuan/gram in the Aug. 17 evening session; silver T+D closed up 0.49% at 16,080 yuan/kg."
-    },
-    {
-      "id": "5044714",
-      "time": "2026-08-18 02:30:59",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶84.50美元，上漲2.10美元，漲幅2.55%。"
-    },
-    {
-      "id": "te:markets:575927",
-      "time": "2026-08-18 02:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Rises by 2.55% — Top crypto gainers are Bitcoin (2.55%) and Ether (1.86%)."
-    },
-    {
-      "id": "5044713",
-      "time": "2026-08-18 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲3.11%，報577.00元人民幣/桶。滬金夜盤收漲0.41%，滬銀收漲0.82%。"
-    },
-    {
-      "id": "5044712",
-      "time": "2026-08-18 02:28:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普稱不尋求延長與伊朗的諒解備忘錄】當地時間8月17日，美國總統特朗普表示，美國不尋求延長與伊朗的諒解備忘錄。美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿，由於在霍爾木茲海峽等問題上存在嚴重分歧，美伊談判陷入僵局，沒有取得實質性進展。"
-    },
-    {
-      "id": "mkt:01a010fa-fb4f-7aab-9068-08037b5560a4",
-      "time": "2026-08-18 02:27:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Fox News reports Jared Kushner said a Gaza demilitarization roadmap has reached a breakthrough."
-    },
-    {
-      "id": "5044711",
-      "time": "2026-08-18 02:27:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場資訊：派拉蒙在收購（華納探索公司）訴訟中向各州索要19億美元保證金。"
-    },
-    {
-      "id": "te:markets:575926",
-      "time": "2026-08-18 02:25:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Rallies by 5.19% — Top commodity gainers are Cocoa (5.19%) and Oat (2.18%). Biggest loser is Rubber (-0.68%)."
-    },
-    {
-      "id": "mkt:01a010f8-12a1-7aab-9068-012ed30d98a8",
-      "time": "2026-08-18 02:24:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's foreign minister spoke by phone with Iran's foreign minister to exchange views on the latest regional situation and matters of mutual concern."
     }
   ]
 }
