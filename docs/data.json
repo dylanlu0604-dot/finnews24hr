@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-25 03:46:08",
-  "count": 15831,
+  "updated": "2026-08-25 03:50:07",
+  "count": 15832,
   "items": [
+    {
+      "id": "mkt:01a0354e-ec7b-7aab-90ff-00547a6aef87",
+      "time": "2026-08-25 03:45:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【US Treasury forms Quantum Security Readiness Working Group to accelerate finance's transition to post-quantum cryptography】The US Treasury announced the formation of a Quantum Security Readiness Working Group to lead the financial industry's migration to post-quantum cryptography and strengthen protection of sensitive data, critical infrastructure and the digital economy. Treasury Secretary Bessent said the US must lead on technical security; the group will coordinate government agencies, financial firms and technology vendors and focus on three priorities: driving post-quantum crypto migration across finance, improving third-party supply‑chain security readiness, and assessing risks from digital assets and other emerging technologies. The Treasury warned that matured quantum computing could break current encryption, exposing financial data, payment systems, digital identities and market infrastructure, and said early deployment of post-quantum cryptography is essential to economic security and financial system resilience."
+    },
     {
       "id": "5056160",
       "time": "2026-08-25 03:39:34",
