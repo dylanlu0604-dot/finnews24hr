@@ -1,7 +1,131 @@
 {
   "date": "2026-08-24",
-  "count": 364,
+  "count": 378,
   "items": [
+    {
+      "id": "5054257",
+      "time": "2026-08-24 09:47:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【釀酒板塊走強 皇臺酒業漲超5%】釀酒板塊走強，皇臺酒業漲超5%，會稽山、捨得酒業、金徽酒、伊力特等漲幅居前。"
+    },
+    {
+      "id": "5054256",
+      "time": "2026-08-24 09:46:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美眾院議長淡化與伊朗衝突對選情影響】據俄羅斯衛星社8月24日報道，美國眾議院議長邁克·約翰遜表示，即使與伊朗的衝突持續，共和黨人仍將繼續控制眾議院。 美國國會選舉將於11月舉行。分析人士認為，共和黨有可能將眾議院的控制權拱手讓給民主黨。專家認為，共和黨可能失去多數席位的原因，包括特朗普政府在對伊朗軍事行動背景下支援率下降，以及物價上漲所致。 在回答美國福克斯新聞頻道關於如果與伊朗衝突持續共和黨是否能保住眾議院控制權的問題時，他說：“絕對可以”。（參考訊息）"
+    },
+    {
+      "id": "5054255",
+      "time": "2026-08-24 09:46:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3%，現報4622.870點；恒生指數現跌1.800%。"
+    },
+    {
+      "id": "5054254",
+      "time": "2026-08-24 09:46:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【元件板塊持續下挫】元件板塊持續下挫，中英科技跌超8%，金祿電子、興森科技、賢豐控股、金安國紀跟跌。"
+    },
+    {
+      "id": "5054253",
+      "time": "2026-08-24 09:45:44",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛給予長鑫科技“買入”評級，129元的目標價預示122%的上漲空間。"
+    },
+    {
+      "id": "5054252",
+      "time": "2026-08-24 09:45:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量492億元。"
+    },
+    {
+      "id": "5054251",
+      "time": "2026-08-24 09:44:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【開啟啟元機器人預訂，上緯新材開盤漲逾7%】8月24日，上緯新材開盤漲逾7%。訊息面上，上緯新材旗下啟元機器人於23日正式開啟啟元Q1、啟元T1預訂。"
+    },
+    {
+      "id": "te:markets:577418",
+      "time": "2026-08-24 09:44:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall on Profit-Taking — The benchmark KOSPI fell more than 1% to around 6,800 on Monday, reversing gains from the previous session, as investors took profits in chip stocks ahead of Nvidia's earnings this week. Samsung Electronics plunged more than 6%, while SK hynix gained nearly 2%, as investors remained cautious about the outlook for the AI-driven semiconductor rally. Additionally, rising global bond yields pressured equities, with the US 30-year Treasury yield reaching its highest level in nearly 20 years. Renewed Middle East tensions also pushed Brent crude toward $90 per barrel, raising concerns over higher inflation and keeping pressure on global risk appetite. Losses were also seen in SK Square (-1.7%), KB Financial Group (-1.6%), and Shinhan Financial Group (-1.4%). Meanwhile, Samsung Electronics' record shareholder-return plan earmarked up to KRW 110 trillion for shareholders this year, including KRW 30 trillion in third-quarter dividends, following SK hynix's KRW 40 trillion buyback."
+    },
+    {
+      "id": "5054249",
+      "time": "2026-08-24 09:44:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東外賣“寶藏小館”全國上線】8月24日上午訊息，京東外賣“寶藏小館”正式面向全國350個城市上線，首批匯聚8萬多家品質堂食餐飲小店。透過數字化能力，京東外賣正在幫助那些長期紮根街巷、擁有獨特手藝，卻未被廣泛看見的餐飲商家，連線更多消費者。（新浪科技）"
+    },
+    {
+      "id": "5054248",
+      "time": "2026-08-24 09:44:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5054247",
+      "time": "2026-08-24 09:44:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報3474.370點；上證指數跌0.40%，現報3889.581點；深證成指跌1.23%，現報13920.318點。"
+    },
+    {
+      "id": "5054246",
+      "time": "2026-08-24 09:43:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "澳大利亞聯邦銀行全球經濟與市場研究部門在研究報告中表示：“對政府債務可持續性的擔憂可能在本週對美元構成壓力。美國財政部長貝森特的表態提升了市場對本週公佈預算整固計劃的預期。如果整固力度有限，將令市場參與者的期待落空，並導致美元走弱。”"
+    },
+    {
+      "id": "5054245",
+      "time": "2026-08-24 09:43:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "5054244",
+      "time": "2026-08-24 09:43:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報13951.570點；上證指數跌0.30%，現報3893.564點；創業板指跌1.67%，現報3486.299點。"
+    },
     {
       "id": "5054243",
       "time": "2026-08-24 09:42:15",
