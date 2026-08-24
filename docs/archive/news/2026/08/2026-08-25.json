@@ -1,7 +1,23 @@
 {
   "date": "2026-08-25",
-  "count": 316,
+  "count": 318,
   "items": [
+    {
+      "id": "5056192",
+      "time": "2026-08-25 05:05:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "智慧戒指廠商Oura計劃透過IPO最多募資30億美元。"
+    },
+    {
+      "id": "mkt:01a03596-497d-7aab-90ff-c2c82cce53ac",
+      "time": "2026-08-25 05:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Times reports that Prime Minister Burnham has shelved plans for a government takeover of Thames Water, citing cost concerns."
+    },
     {
       "id": "mkt:01a03594-9943-7aab-90ff-ba053e60ae50",
       "time": "2026-08-25 05:02:05",
