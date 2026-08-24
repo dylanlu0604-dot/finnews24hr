@@ -1,7 +1,82 @@
 {
   "date": "2026-08-24",
-  "count": 177,
+  "count": 185,
   "items": [
+    {
+      "id": "te:markets:577391",
+      "time": "2026-08-24 08:05:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Stock Futures Edge Lower — US stock futures slipped on Monday as investors remained cautious following a sharp rise in Treasury yields that pressured major averages last week. The Dow dropped 0.8% last week for its second consecutive weekly decline, while the S&P 500 and Nasdaq Composite fell 1.4% and 2%, respectively, snapping three-week winning streaks. The selloff came as the 30-year US Treasury yield climbed above 5.3%, reaching its highest level in nearly two decades, while bond yields in Japan, France and Germany also rose to multi-year highs. Investors remained concerned that the prolonged US-Iran conflict could keep oil prices elevated and fuel inflation, limiting the scope for lower interest rates. Meanwhile, Treasury Secretary Scott Bessent is set to announce new sanctions on Iran, while markets await the July PCE inflation report and Federal Reserve Chair Kevin Warsh’s speech at the Jackson Hole symposium later this week. Nvidia and Marvell Technology earnings will also be closely watched this week."
+    },
+    {
+      "id": "5054071",
+      "time": "2026-08-24 08:05:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4630美元/盎司，日內漲0.65%。"
+    },
+    {
+      "id": "5054070",
+      "time": "2026-08-24 08:05:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4690美元/盎司，日內漲0.21%。"
+    },
+    {
+      "id": "5054069",
+      "time": "2026-08-24 08:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀將發行1萬億日元債券。"
+    },
+    {
+      "id": "5054068",
+      "time": "2026-08-24 08:03:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌1.2%，報6828.94點。"
+    },
+    {
+      "id": "5054067",
+      "time": "2026-08-24 08:02:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "三星電子公佈股東回報計劃後，股價下跌4.8%。"
+    },
+    {
+      "id": "5054066",
+      "time": "2026-08-24 08:02:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升1.5個基點，至2.89%。"
+    },
+    {
+      "id": "5054065",
+      "time": "2026-08-24 08:01:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【加拿大預計與美國的貿易戰可能持續到中期選舉之後 政府將出臺國內援助方案】據知情人士透露，貿易談判破裂之後，加拿大總理馬克·卡尼政府認為，在美國中期選舉之前，幾乎沒有機會重啟與唐納德·特朗普總統的談判。這些因可討論敏感內部研判而要求匿名的訊息人士補充稱，加拿大總理表示將出臺國內援助方案，幫扶受美國關稅衝擊的企業；相關政策的設計，已做好必要情況下撐過特朗普剩餘任期的準備。卡尼政府判斷，近期不會開啟新一輪談判，中期選舉前重啟談判的可能性也十分渺茫。但部分訊息人士提醒，局勢仍存在變數，美國並未排除重啟談判的可能。"
+    },
     {
       "id": "5054064",
       "time": "2026-08-24 08:01:00",

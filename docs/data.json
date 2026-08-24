@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-24 08:02:23",
-  "count": 15791,
+  "updated": "2026-08-24 08:06:26",
+  "count": 15796,
   "items": [
+    {
+      "id": "te:markets:577391",
+      "time": "2026-08-24 08:05:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Stock Futures Edge Lower — US stock futures slipped on Monday as investors remained cautious following a sharp rise in Treasury yields that pressured major averages last week. The Dow dropped 0.8% last week for its second consecutive weekly decline, while the S&P 500 and Nasdaq Composite fell 1.4% and 2%, respectively, snapping three-week winning streaks. The selloff came as the 30-year US Treasury yield climbed above 5.3%, reaching its highest level in nearly two decades, while bond yields in Japan, France and Germany also rose to multi-year highs. Investors remained concerned that the prolonged US-Iran conflict could keep oil prices elevated and fuel inflation, limiting the scope for lower interest rates. Meanwhile, Treasury Secretary Scott Bessent is set to announce new sanctions on Iran, while markets await the July PCE inflation report and Federal Reserve Chair Kevin Warsh’s speech at the Jackson Hole symposium later this week. Nvidia and Marvell Technology earnings will also be closely watched this week."
+    },
+    {
+      "id": "5054071",
+      "time": "2026-08-24 08:05:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4630美元/盎司，日內漲0.65%。"
+    },
+    {
+      "id": "5054070",
+      "time": "2026-08-24 08:05:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4690美元/盎司，日內漲0.21%。"
+    },
+    {
+      "id": "5054069",
+      "time": "2026-08-24 08:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀將發行1萬億日元債券。"
+    },
+    {
+      "id": "5054068",
+      "time": "2026-08-24 08:03:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌1.2%，報6828.94點。"
+    },
+    {
+      "id": "5054067",
+      "time": "2026-08-24 08:02:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "三星電子公佈股東回報計劃後，股價下跌4.8%。"
+    },
+    {
+      "id": "5054066",
+      "time": "2026-08-24 08:02:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升1.5個基點，至2.89%。"
+    },
+    {
+      "id": "5054065",
+      "time": "2026-08-24 08:01:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【加拿大預計與美國的貿易戰可能持續到中期選舉之後 政府將出臺國內援助方案】據知情人士透露，貿易談判破裂之後，加拿大總理馬克·卡尼政府認為，在美國中期選舉之前，幾乎沒有機會重啟與唐納德·特朗普總統的談判。這些因可討論敏感內部研判而要求匿名的訊息人士補充稱，加拿大總理表示將出臺國內援助方案，幫扶受美國關稅衝擊的企業；相關政策的設計，已做好必要情況下撐過特朗普剩餘任期的準備。卡尼政府判斷，近期不會開啟新一輪談判，中期選舉前重啟談判的可能性也十分渺茫。但部分訊息人士提醒，局勢仍存在變數，美國並未排除重啟談判的可能。"
+    },
     {
       "id": "5054064",
       "time": "2026-08-24 08:01:00",
@@ -144296,31 +144371,6 @@
         "市場"
       ],
       "text": "【算力市場格局分化：CoreWeave、Nebius衝刺短期高毛利，AWS深耕長約】上週，Nebius與CoreWeave均向投資者推介一項全新商業機會——短期算力合約。這兩家新興雲廠商表示，藉助此類合約，它們可以抓住GPU緊缺背景下AI算力價格暴漲的紅利。市場投資者對此表示認可，兩家公司股價均大幅走高。 就在新興雲廠商向投資者描繪短期交易帶來豐厚利潤率前景之際，雲端計算巨頭亞馬遜雲科技（AWS）在財報電話會上著重說明：其絕大多數AI算力採用五年期長約對外銷售。亞馬遜執行長安迪·賈西表示，長期合約能夠保障AWS產生充足收入，覆蓋資料中心擴建投入。投資者同樣認可這套邏輯，自7月30日財報會議以來，亞馬遜股價累計上漲超11%。目前，兩家新興雲廠商只是適度增加短期合約佈局。CoreWeave首席財務官尼廷·阿格拉瓦爾向分析師坦言，公司僅有“極小一部分”算力即將到期續約，限制了當下捕捉高價行情的空間。 據知情人士透露，CoreWeave將三年以內合約定義為短期合約，託管推理與其他按需服務均納入該範疇。知情者表示，短期合約當前僅佔公司總收入很小比重，主要因為大部分算力已被長期租出，但公司預計未來該佔比持續提升。"
-    },
-    {
-      "id": "5043071",
-      "time": "2026-08-17 08:04:16",
-      "tags": [
-        "央行",
-        "觀點"
-      ],
-      "text": "【中信證券：下階段央行或繼續加大金融對於實體經濟的支援力度】中信證券研報稱，央行2026年二季度貨政報告對國內經濟定調“穩定執行、向新向優”，國際方面強調對地緣風險和AI發展的關注。貨幣政策層面要求“綜合運用並適時調整貨幣政策工具”，定調略偏積極；流動性方面要求引導短端資金利率圍繞政策利率執行，而降成本層面則提及推動貸款定價基準多元化。總的來看，我們認為下階段央行或繼續加大金融對於實體經濟的支援力度。"
-    },
-    {
-      "id": "mkt:01a00d07-b700-7aab-9051-c67368f0e0dc",
-      "time": "2026-08-17 08:03:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's equity market is closed today for a substitute holiday for Liberation Day."
-    },
-    {
-      "id": "5043070",
-      "time": "2026-08-17 08:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【連續2周淨流出 上週ETF資金整體淨流出451.22億元】同花順iFinD資料顯示，8月10日-8月14日當週，ETF資金整體淨流出451.22億元，股票型淨流出525.44億元，寬基型淨流出424.38億元。當週ETF資金淨流出榜單排名前3依次為：華泰柏瑞滬深300ETF（510300）淨流出77.29億元，南方中證1000ETF（512100）淨流出71.80億元，華夏中證1000ETF（159845）淨流出43.08億元。"
     }
   ]
 }
