@@ -1,7 +1,38 @@
 {
   "date": "2026-08-25",
-  "count": 190,
+  "count": 193,
   "items": [
+    {
+      "id": "mkt:01a0350d-3ebe-7aab-90fe-3eddb81784c6",
+      "time": "2026-08-25 02:34:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract rose 0.61% to 1,006 yuan/gram; SHFE silver main contract fell 0.65% to 16,775 yuan/kg; SC crude oil main contract fell 0.98% to 588 yuan/barrel."
+    },
+    {
+      "id": "5056124",
+      "time": "2026-08-25 02:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司：旗下煉廠柴油加氫處理裝置的S-10柴油加工能力將達到每天5500立方米。已批准啟動REPAR煉油廠柴油加氫處理裝置採購競爭流程。批准啟動競爭性招標流程，並不代表最終決定實施該裝置建設。"
+    },
+    {
+      "id": "mkt:01a0350d-1cda-7aab-90fe-35d6d2ed3d09",
+      "time": "2026-08-25 02:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Petrobras said S-10 diesel hydrotreating capacity at one of its refineries will reach 5,500 cubic meters per day. The company approved launching a competitive procurement process for a hydrotreating unit at the REPAR refinery. Petrobras said approval to start competitive bidding does not constitute a final decision to build the unit."
+    },
     {
       "id": "mkt:01a0350a-66ac-7aab-90fe-2a75f8448746",
       "time": "2026-08-25 02:31:09",
