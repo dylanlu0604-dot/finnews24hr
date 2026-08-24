@@ -1,7 +1,168 @@
 {
   "date": "2026-08-24",
-  "count": 682,
+  "count": 701,
   "items": [
+    {
+      "id": "5054556",
+      "time": "2026-08-24 13:04:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海襲擊一艘貨輪。"
+    },
+    {
+      "id": "5054555",
+      "time": "2026-08-24 13:03:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌4.00%，現報3403.739點；上證指數跌0.95%，現報3868.225點；深證成指跌2.83%，現報13695.119點。"
+    },
+    {
+      "id": "5054554",
+      "time": "2026-08-24 13:02:36",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【比特幣ETF上週流入資金規模創10個月以來最大】隨著比特幣價格飆升，現貨比特幣交易所交易基金(ETF)上週錄得10個月以來最強勁的單週資金流入。資料顯示，13只在美國上市的基金淨吸引資金19.2億美元，創下去年10月以來的最高紀錄。資金流入正逢比特幣價格上週上漲約23%，創下三年多來最大單週漲幅。新加坡時間週一中午，比特幣交易價格約為77,000美元。“上週每個交易日我們都看到了淨資金流入，這表明投資者對比特幣的興趣重新燃起，”加密貨幣交易所OKX SG執行長Gracie Lin表示。“現在的問題是，這股勢頭能否持續。比特幣經歷瞭如此強勁的上漲之後，出現一些獲利回吐並不令人意外。”"
+    },
+    {
+      "id": "5054552",
+      "time": "2026-08-24 13:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威能源大臣：在電力出口方面，挪威不再謀求成為歐洲的“綠色電池”。。"
+    },
+    {
+      "id": "5054551",
+      "time": "2026-08-24 13:00:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威能源大臣：開發巴倫支海資源以保障穩定供應，符合挪威與歐盟雙方利益。"
+    },
+    {
+      "id": "5054550",
+      "time": "2026-08-24 13:00:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威能源大臣：歐洲應轉而將重點放在重建其基載發電容量上。"
+    },
+    {
+      "id": "5054549",
+      "time": "2026-08-24 13:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威能源大臣：挪威計劃至少在2035年之前維持當前的石油與天然氣生產及出口水平。"
+    },
+    {
+      "id": "5054548",
+      "time": "2026-08-24 13:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威能源大臣：無論歐盟是否暫停北極鑽井活動，我國都將繼續開發北極油氣資源。"
+    },
+    {
+      "id": "te:markets:577488",
+      "time": "2026-08-24 13:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Falls as Inventories Ease Supply Concerns — Copper futures fell to around $6.55 per pound on Monday, retreating from recent gains as a sharp build-up in exchange inventories eased concerns over near-term supply tightness. LME-monitored copper inventories stood at 238,575 tons on August 20, about 16% above their February low, while SHFE-monitored stocks jumped 28.4% last week to 89,548 tons. The rise in inventories, along with a sharp narrowing in the LME cash premium over three-month copper, pointed to improved near-term availability and weighed on prices. Meanwhile, Zijin Mining warned that flooding at the Kamoa-Kakula copper complex in the Democratic Republic of Congo could reduce its share of production by as much as 57,000 tons this year, highlighting continued risks to global supply. A weaker US dollar helped limit the decline, while investors await the Jackson Hole meeting and the Federal Reserve Chair’s speech for clues on interest rates."
+    },
+    {
+      "id": "5054547",
+      "time": "2026-08-24 13:00:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "新加坡7月CPI年率 2.2%，預期2.3%，前值1.90%。"
+    },
+    {
+      "id": "5054546",
+      "time": "2026-08-24 13:00:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐足聯主席稱對競選國際足聯主席一職“不感興趣”，但警告因凡蒂諾將面臨挑戰】據美聯社等媒體當地時間23日報道，歐洲足聯主席塞弗林在接受英國一檔部落格節目採訪時表示，自己對競選國際足聯主席一職“不感興趣”。但他同時警告“處境艱難”的現任國際足聯主席因凡蒂諾：要麼辭職，要麼將在明年3月面臨挑戰。（環球網）"
+    },
+    {
+      "id": "te:markets:577487",
+      "time": "2026-08-24 13:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Steel Drops to 4-Week Low — Steel rebar futures fell to around CNY 3,070, retreating from multi-week highs to four-week lows as weak construction activity and elevated rebar inventories continued to weigh on sentiment. China’s property market remained under pressure, with new home prices falling year-on-year in July, while rebar stockpiles stayed above year-ago levels. Weak mill profitability also limited buying appetite, with only about one-third of steelmakers profitable at the end of July. However, improving blast-furnace operating rates and expectations of seasonal restocking ahead of the September peak construction season offered some support. Beijing also signalled further measures to boost domestic demand, while the NDRC urged local governments to accelerate major projects, raising hopes for a gradual improvement in steel consumption."
+    },
+    {
+      "id": "5054545",
+      "time": "2026-08-24 12:59:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本總務省擬申請21.9萬億日元預算。"
+    },
+    {
+      "id": "5054544",
+      "time": "2026-08-24 12:59:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐華海軍武官將赴海軍航空大學參觀訪問】8月24日至25日，來自俄羅斯、塞爾維亞、汶萊、南非、阿根廷等22國駐華海軍武官或負責海軍事務的國防武官，將應邀赴海軍航空大學參觀訪問。其間，駐華海軍武官一行將參觀大學軍史長廊和教學訓練場所，體驗模擬飛行訓練，隨海軍“破浪”號風帆訓練艦航行訓練，在海上觀摩“未來·海軍國際學員領導力淬鋒營”帆船賽，加深對中國海軍航空兵人才教育培養的認識，更加全面瞭解中國海軍建設發展。（國防部發布）"
+    },
+    {
+      "id": "5054543",
+      "time": "2026-08-24 12:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建滔集團：2027年1月6日將派發股息0.73港元/股】建滔集團（00148.HK）公告，公司宣佈截至2026年6月30日止六個月之中期股息，每股派發0.73港元，股息派發日為2027年1月6日；除淨日為2026年12月11日；記錄日期為2026年12月16日。"
+    },
+    {
+      "id": "5054542",
+      "time": "2026-08-24 12:56:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克Pavlodar煉油廠的維護計劃已從2026年推遲至2027年。"
+    },
+    {
+      "id": "5054541",
+      "time": "2026-08-24 12:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈馬斯回應以色列警告：那只是加沙兒童的玩具】以色列總理內塔尼亞胡和國防部長卡茨23日警告巴勒斯坦伊斯蘭抵抗運動（哈馬斯），如果不立即停止從加沙地帶向以色列“放風箏”，以軍將加大對相關人員的打擊力度，並疏散加沙地帶相關區域居民。據以媒報道，本週末至少有4只從加沙地帶飛來的風箏落入以色列南部靠近加沙地帶的集體農莊。以軍表示，沒有在這些風箏上發現可疑物品，風箏也未對公眾構成危險。不過，這些風箏令人聯想到此前數年從加沙地帶放飛、攜帶燃燒裝置並曾導致以南部多地發生火災的風箏和氣球。哈馬斯發言人哈齊姆·卡西姆當天回應說，以方不要以所謂“放風箏”為由發出威脅，並稱這些風箏只是“加沙難民營裡兒童的玩具”。卡西姆稱，以方的威脅“建立在捏造的藉口之上”，試圖為繼續針對巴勒斯坦人的行動和“侵犯行為”尋找正當理由。（新華社）"
+    },
+    {
+      "id": "5054540",
+      "time": "2026-08-24 12:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯影醫療與天津大學釋出全球首個磁共振腦機介面全棧式解決方案】8月23日，聯影醫療與天津大學共同釋出全球首個磁共振腦機介面全棧式解決方案“uMR神觀”，並聯合發起成立磁共振腦機介面創新聯盟，旨在打通採集—解碼—調控—評估全鏈條。當日，由天津大學、聯影醫療聯合發起的磁共振腦機介面創新聯盟正式成立。"
+    },
+    {
+      "id": "5054539",
+      "time": "2026-08-24 12:53:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相安迪·伯納姆於週一上午抵達基輔。"
+    },
     {
       "id": "5054538",
       "time": "2026-08-24 12:51:07",
