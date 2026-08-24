@@ -1,7 +1,262 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 02:52:57_
-_本檔包含 3061 則快訊，約 621836 字_
+_更新時間：2026-08-25 03:38:11_
+_本檔包含 3059 則快訊，約 621854 字_
+
+---
+
+### 2026-08-19 09:26:36  #公司 #市場
+
+【愛麗家居競價跌停】愛麗家居競價跌停，此前走出13天12板，兩度停牌核查；上交所日前公告，部分投資者在交易該股過程中存在影響股票交易正常秩序的異常交易行為，上交所依規對相關投資者採取了暫停賬戶交易等自律監管措施。
+
+---
+
+### 2026-08-19 09:26:21  #公司 #市場
+
+【雙英集團上市首日開盤大漲超87%】雙英集團上市首日開盤漲87.6%，現報20.88元，該股發行價為11.13元。
+
+---
+
+### 2026-08-19 09:26:07  #市場
+
+【宇樹科技高開629% 總市值達4449億】宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。
+
+---
+
+### 2026-08-19 09:25:45  #MKT News #Market Regions #Greater China
+
+【Yushu Technology IPO: 8,000x retail demand; offshore pricing ~176% above issue】Yushu Technology debuted on Shanghai’s STAR Market today at an issue price of 150.8 yuan, implying a post-issue market value of about 61 billion yuan. Based on 2025 estimates the IPO implies roughly 219x P/E and 36x P/S. Retail subscriptions exceeded 8,000x. Pre-listing offshore private trading priced the stock about 176% above the issue price, with derivatives priced even more aggressively, indicating initial trading is focused on the scarcity value of a leading humanoid-robot name. Refinitiv also noted large-scale replacement by humanoid robots remains constrained by cost and reliability: to achieve a two-year payback total cost would need to fall to roughly 160,000 yuan, while current prices are typically 300,000–500,000 yuan; 50–70% of humanoid robots this year may be deployed for training data collection rather than direct production value.
+
+---
+
+### 2026-08-19 09:25:35  #焦點
+
+三大股指低開，滬指跌0.96％，深成指跌2.09％，創業板跌2.7％。
+
+---
+
+### 2026-08-19 09:25:29
+
+N宇樹上市首日開漲629.44％，股價現報1100元，發行價為150.80元/股。
+
+---
+
+### 2026-08-19 09:25:26  #其他
+
+N宇樹上市首日開漲629.44%，股價現報1100元，發行價為150.80元/股。
+
+---
+
+### 2026-08-19 09:25:25  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+A-share market opened: Shanghai Composite down 0.96%, Shenzhen Composite Index down 2.09%, ChiNext Index down 2.70%. N Yushu surged 629.44% on its debut; stock at 1,100 yuan, IPO price 150.80 yuan per share.
+
+---
+
+### 2026-08-19 09:25:22  #MKT News
+
+Pentagon says US training objectives will not be affected.
+
+---
+
+### 2026-08-19 09:25:14  #MKT News
+
+South Korea's foreign minister said South Korean and U.S. officials were previously unaware that the joint military exercises would be scaled back.
+
+---
+
+### 2026-08-19 09:25:03  #MKT News
+
+PENTAGON says adjustments to joint exercises with South Korea aim to maintain readiness and training objectives.
+
+---
+
+### 2026-08-19 09:24:41  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #WTI #Impact bullish #Brent
+
+China fuel oil front-month contract rose 6.00% intraday to 4,281 yuan/ton.
+
+---
+
+### 2026-08-19 09:24:40  #國際
+
+韓國外交部長：韓美官員此前對縮減聯合軍事演習一事毫不知情。
+
+---
+
+### 2026-08-19 09:24:24  #國際
+
+美國國防部官員：調整美韓聯合演習可保持戰備狀態與訓練目標。
+
+---
+
+### 2026-08-19 09:24:15  #市場
+
+小米港股開盤漲3%，其第二季度智慧手機銷量超預期。
+
+---
+
+### 2026-08-19 09:23:58  #央行 #中國央行
+
+央行公告，根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
+
+---
+
+### 2026-08-19 09:23:48  #MKT News #Market Themes #AI Revolution
+
+【AI startup Temporal could be valued at at least $12 billion】Temporal is in talks for a new financing round of about $500m that would more than double its February valuation to at least $12bn. The round has not closed and terms remain subject to change.
+
+---
+
+### 2026-08-19 09:22:34  #MKT News #Important #CNH #Impact bullish
+
+【PBOC nets CNY 142.3 bln liquidity drain via reverse repos】The PBOC did not conduct standard reverse repo operations today but injected CNY 327.4 bln via overnight reverse repos; with CNY 469.7 bln of overnight reverse repos maturing, the net liquidity withdrawal was CNY 142.3 bln.
+
+---
+
+### 2026-08-19 09:22:32  #公司 #市場
+
+百度港股開盤大跌12%，此前該公司公佈第二季度銷售額下滑，且資本支出增加。
+
+---
+
+### 2026-08-19 09:22:06  #央行 #其他
+
+央行公開市場今日淨回籠1,423億元人民幣。
+
+---
+
+### 2026-08-19 09:21:44
+
+港股恒指低開跌0.49％，國企指數跌0.53％，科指跌1.27%。
+
+---
+
+### 2026-08-19 09:21:43  #MKT News #Market Regions #Greater China #HSI #Impact bearish #Hang Seng Tech Index #HSCEI
+
+Hong Kong open Aug 19 (Wed): HSI opened down 124.25 pts (-0.49%) at 25,346.9; Hang Seng Tech Index opened down 60.38 pts (-1.27%) at 4,678.8; Hang Seng China Enterprises Index (HSCEI) opened down 44.7 pts (-0.53%) at 8,408.5; Hang Seng Red Chip Index opened down 23.12 pts (-0.55%) at 4,159.92.
+
+---
+
+### 2026-08-19 09:21:38  #MKT News #Important #Market Regions #Greater China #09888.HK #Impact bearish #00762.HK #Hang Seng Index
+
+Hong Kong stocks opened lower: Hang Seng down 0.49%, Hang Seng Tech down 1.27%. Baidu (09888.HK) fell more than 12% after earnings; China Unicom (00762.HK) dropped 7.7% after reporting 1H net profit down 34.6% YoY.
+
+---
+
+### 2026-08-19 09:21:18  #MKT News
+
+PBOC said that, based on primary dealers' demand, the 7-day reverse repo operation on Aug 19, 2026 was zero. It conducted 327.4 bln yuan of overnight reverse repos.
+
+---
+
+### 2026-08-19 09:21:15  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
+
+---
+
+### 2026-08-19 09:19:35  #國際
+
+特朗普將於美東時間週三下午2:30在科技領袖陪同下發表講話。
+
+---
+
+### 2026-08-19 09:17:08  #市場
+
+【華泰期貨：市場風險情緒有所滋生，對於黃金投資的需求或略有減弱】由於地緣局勢再次出現升溫跡象，目前市場風險情緒有所滋生，對於黃金投資的需求或略有減弱；但看多邏輯並未出現明顯變化，美伊局勢或將從短期高烈度衝突轉向長期對抗，但並不對黃金作為美元資產替代邏輯產生影響；當下白銀與黃金邏輯類似，維持謹慎偏多觀點。（華泰期貨）
+
+---
+
+### 2026-08-19 09:16:57  #國際
+
+【外媒：烏克蘭前防長呼籲舉行戰時選舉，澤連斯基面臨“最大內部挑戰”】據英國路透社、《衛報》等媒體報道，烏克蘭前國防部長米哈伊洛·費多羅夫當地時間18日發表重磅講話，呼籲舉行戰時選舉，並稱烏克蘭正面臨治理危機。路透社稱，這是自俄烏衝突爆發以來，烏克蘭總統澤連斯基面臨的“最大內部挑戰”。報道稱，費多羅夫在影片平臺優兔（YouTube）上釋出的影片講話中發出上述呼籲，這是自2022年俄烏衝突爆發以來，首次有烏克蘭主要政治人物公開提出此類要求。烏克蘭現行法律禁止在國家戰時狀態下舉行選舉。
+
+---
+
+### 2026-08-19 09:15:36  #市場 #觀點
+
+【中金財富期貨：短期內黃金維持高位震盪的機率較大】債市收益率大幅上行，長端收益率仍處高位抬升持有無息資產的機會成本，疊加金價前期漲幅的獲利了結，昨日黃金出現明顯的調整。短期內密切關注債市的走勢以及利率的變化，考慮到債市收益率難以持續大幅回升，短期內黃金維持高位震盪的機率較大。
+
+---
+
+### 2026-08-19 09:15:33  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures opened down 0.6% at 25,289, trading 182 points below the cash index.
+
+---
+
+### 2026-08-19 09:15:18  #市場
+
+人民幣兌美元中間價報6.7854元，較上日調高51點。
+
+---
+
+### 2026-08-19 09:15:01  #市場
+
+恒指期貨日盤開盤跌0.42%，報25334.00點，低水137.15點。
+
+---
+
+### 2026-08-19 09:13:58  #國際
+
+日經225指數跌幅收窄至不到2%，此前一度跌超3%。韓國首爾綜指跌幅收窄至4.2%，此前一度跌超6%。
+
+---
+
+### 2026-08-19 09:13:43  #市場 #焦點
+
+甲醇連續主力合約日內漲3%，現報2847.00元。
+
+---
+
+### 2026-08-19 09:12:55  #MKT News #Important
+
+【Yangtze Memory IPO counseling status moves to 'counseling acceptance'】CSRC website shows Yangtze Memory Holdings Co.'s IPO counseling status changed to 'counseling acceptance'; sponsoring brokers are Citic Securities and CSC Financial.
+
+---
+
+### 2026-08-19 09:12:42  #公司 #觀點
+
+【長江儲存IPO輔導狀態變更為“輔導驗收”】據證監會網站披露，長江儲存控股股份有限公司IPO輔導狀態變更為“輔導驗收”，輔導券商為中信證券和中信建投。
+
+---
+
+### 2026-08-19 09:12:17  #市場 #國際
+
+【菲律賓比索兌美元跌至紀錄新低 受油價上漲拖累】菲律賓比索兌美元跌至紀錄新低，油價上漲給比索匯率帶來壓力。
+美元/比索一度漲0.3%至61.985，突破了7月底創下的前紀錄高點61.85。
+
+---
+
+### 2026-08-19 09:11:17  #市場
+
+新加坡海峽時報指數下跌1%至5645點。
+
+---
+
+### 2026-08-19 09:11:17  #MKT News #Market Themes #AI Revolution
+
+【Zhipu launches GLM-5.3 API】Zhipu said the GLM-5.3 API is live. The model is optimized for complex coding, defensive cybersecurity and long-horizon tasks. GLM-5.3 has been integrated with ZCode and included in the GLM Coding Plan. API access is open and pricing remains unchanged from GLM-5.2. Model weights will be open-sourced next Friday.
+
+---
+
+### 2026-08-19 09:09:58  #其他
+
+【智譜：GLM-5.3 API即日起正式上線】 據智譜訊息，GLM-5.3 API即日起正式上線。模型擅長複雜編碼、防禦性網路安全以及長程任務。目前，GLM-5.3已接入ZCode等編碼平臺，並納入GLM Coding Plan。API已開放呼叫，定價與GLM-5.2保持不變。模型權重將於下週五開源。
+
+---
+
+### 2026-08-19 09:08:33  #國際
+
+【烏克蘭被爆“愛國者”導彈即將耗盡，俄媒：基輔發現處境非常艱難，甚至有些“絕望”】烏戰事膠著之際，美國有線電視新聞網（CNN）17日獨家披露，烏克蘭向CNN透露其致命弱點——“愛國者”導彈即將耗盡。烏克蘭一直不願透露其究竟還剩下多少攔截導彈，烏總統澤連斯基上週表示，烏克蘭目前擁有的攔截導彈數量，僅為其急需從美國獲得數量的1%。俄新社17日稱，由於美國武庫耗盡、烏克蘭缺乏生產許可證以及成本上升，華盛頓近期內不可能向基輔交付“愛國者”導彈。 烏方透露“致命弱點” CNN是首家獲准進入烏克蘭境內檢視“愛國者”導彈防禦系統的媒體。烏克蘭官員向該媒體披露了一個事實：該國的導彈已基本耗盡。俄羅斯《莫斯科晚報》17日稱，由於冬季到來之前“愛國者”導彈數量不足，基輔發現自己處境非常艱難，甚至有些“絕望”。 （環球網）
+
+---
+
+### 2026-08-19 09:07:45  #市場
+
+【洋河夢之藍M6+青花郎大漲創新高 茅臺五糧液等高階酒多數走弱】新浪財經“酒價內參”過去24小時收集的資料顯示，8月19日中國白酒業11大單品六漲五跌，贏家數量略佔上風。上漲方面，五糧液1618上漲2元至823元，在近期價格中樞位小幅修復；洋河夢之藍M6+大漲7元至618元，昨日回撥後價格再度回升，力創月新高；古井貢古20上漲6元至538元，結束兩日回撥；習酒君品小漲1元至645元，四連漲平近一個月最高紀錄；青花郎大漲6元，終端零售均價來到713元，四連陽重返近一個月次高位；水晶劍南春漲1元至406元，結束三連平亦創近一個月最高。下跌方面，飛天茅臺下跌2元，終端零售均價來到1780元，高位振盪行情延續；精品茅臺下跌6元至2482元，五連陰前期大漲行情終結；五糧液普五八代下跌8元至797元，三連跌掉落800元大關；青花汾20下跌4元至394元，昨日短期漲勢止步，上探400元關口未果；國窖1573下跌6元至880元，三連陰價格重心明顯下移。
+
+今日11大單品的終端零售總價持續下探，大盤價格重心繼續走低，如果11大單品各取一瓶整體打包售賣，今日總售價為10076元，較昨日小幅下跌3元，創出六天以來新低。
 
 ---
 
@@ -18254,269 +18509,5 @@ Market sources say Anthropic's annualized revenue exceeded $65 bln ahead of its 
 ### 2026-08-18 03:38:25  #MKT News
 
 Insiders said some North American auto industry officials view any of the options as an improvement on the current 25% U.S. tariff on Canadian auto imports, noting Japan, South Korea and the EU apply 15% car tariffs.
-
----
-
-### 2026-08-18 03:37:51  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish
-
-Sources said US officials proposed that, under a proposed 15% tariff on Canadian autos, only US-origin value be excluded from the tariff base; Canadian officials want all North American-origin content excluded.
-
----
-
-### 2026-08-18 03:37:29  #公司 #其他 #焦點 #國際
-
-Anthropic 在 IPO 之前的年化營收突破 650 億美元。
-
----
-
-### 2026-08-18 03:37:08  #國際
-
-【美國投資級債券8月發行創歷年同月新高 AI基建推動企業舉債】隨著人工智慧基礎設施建設支出推動企業舉債，美國投資級債券發行規模連續第三個月創歷年同月紀錄新高，創紀錄的發債速度仍在延續。資料顯示，截至週一，8月美國投資級債券發行規模已達1452億美元，超過2020年8月創下的1360億美元歷年同月紀錄。今年1月、6月和7月也分別創下歷年同月最高紀錄，另有三個月的發行規模為歷年同月第二高。大量債券湧入市場已經讓投資者在買什麼債、以什麼價格買入方面變得更加挑剔。上週，初始認購訂單最終被撤回的比例大幅上升，就體現了這一點。不過，企業並未因此而止步，週一發行人合計擬發行91億美元債券。當日12筆交易中，有兩筆來自私募信貸基金。
-
----
-
-### 2026-08-18 03:36:38  #MKT News #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-Sources said the United States and Canada are negotiating a possible reduction in U.S. auto tariffs from 25% to 15% after excluding certain value components from the tariff calculation.
-
----
-
-### 2026-08-18 03:35:39  #國際
-
-伊朗官員：如今，革命領袖與人民都對我們寄予厚望。為注入新動力、實現轉型，我們將推行改革。這些改革將在與所有監督機構代表以及司法系統內外專家磋商的基礎上予以落實。
-
----
-
-### 2026-08-18 03:34:44  #國際
-
-市場訊息：據知情談判訊息人士稱，美加雙方正在磋商，在扣除部分價值成分後，美國對加拿大汽車現行 25% 的關稅有可能下調至 15%。部分北美汽車行業官員認為，以上兩種方案均優於美國目前對加拿大汽車徵收 25% 關稅的現狀，日本、韓國及歐盟的汽車關稅稅率為 15%。
-
----
-
-### 2026-08-18 03:34:08  #國際
-
-市場訊息：美國官員提議僅將美國本土價值部分從加拿大車輛 15% 關稅中予以扣除，但加拿大官員希望全部北美地區價值部分都獲得扣除。
-
----
-
-### 2026-08-18 03:33:17  #市場 #觀點
-
-摩根大通將東方財富評級下調至中性，之前的評級為超配，現目標價22元人民幣，即上漲12%。
-
----
-
-### 2026-08-18 03:33:11  #公司
-
-市場訊息：巴斯家族決定出售所持湖人隊剩餘股份，將出售給庫什納與艾格。
-
----
-
-### 2026-08-18 03:32:16  #MKT News #GBPUSD
-
-The Times reports that when asked whether the UK would face a deadline to repeal its digital services tax, US Trade Representative Greer said the US would not set an artificial timetable.
-
----
-
-### 2026-08-18 03:32:13  #MKT News
-
-【Trump says Kim Jong Un responded to his request for talks】On Aug. 17 ET at the White House, President Trump said North Korean leader Kim Jong Un had responded to his request for talks but provided no further details.
-
----
-
-### 2026-08-18 03:32:07  #其他
-
-市場訊息：國際足聯已解僱營運長凱文・拉穆爾
-
----
-
-### 2026-08-18 03:31:35  #焦點 #國際
-
-【特朗普稱金正恩回應其對話請求】美國東部時間8月17日下午，美國總統特朗普在白宮被媒體問及朝鮮最高領導人金正恩“為何未回應其對話請求”。特朗普對此回答道：“他回應了。”但未透露更多細節。此前一天，特朗普在社交媒體發帖稱，已下令美國縮減與韓國的聯合軍演規模。 特朗普還稱：“金正恩一直對我非常尊重，我們有過兩次重要的會晤，談了話，共度了時光。我瞭解他，他也瞭解我。” 此外，特朗普還向媒體抱怨韓國不願按他要求的金額支付所謂“保護費”，即防衛費分攤。（ CCTV國際時訊）
-
----
-
-### 2026-08-18 03:29:28  #其他
-
-據《泰晤士報》：當被問及英國廢除數字服務稅是否設有最後期限時，格里爾表示：“我不會設定人為劃定的時間期限。”
-
----
-
-### 2026-08-18 03:29:06  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
-
-According to The Information, Tesla (TSLA.O) is preparing to launch a driverless taxi without a steering wheel, called Cybercab, in August.
-
----
-
-### 2026-08-18 03:28:12  #其他
-
-市場訊息：特斯拉準備於 8 月推出 Cybercab 無人駕駛計程車。
-
----
-
-### 2026-08-18 03:27:39  #國際
-
-據《泰晤士報》：美國貿易代表格里爾稱，特朗普揚言對英國徵收 100% 關稅並非虛張聲勢。
-
----
-
-### 2026-08-18 03:27:16  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
-
-【Dollar index falls on 17th】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.03% to 99.636 at the New York close. At the close the euro was $1.1572 (prior $1.1566); the pound $1.3538 (prior $1.3533). The dollar was 159.59 yen (prior 159.38); 0.8115 Swiss franc (prior 0.8131); 1.3877 Canadian dollar (unchanged); and 9.5193 Swedish krona (prior 9.5246).
-
----
-
-### 2026-08-18 03:27:13  #市場
-
-【美元指數17日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.03%，在匯市尾市收於99.636。截至紐約匯市尾市，1歐元兌換1.1572美元，高於前一交易日的1.1566美元；1英鎊兌換1.3538美元，高於前一交易日的1.3533美元。1美元兌換159.59日元，高於前一交易日的159.38日元；1美元兌換0.8115瑞士法郎，低於前一交易日的0.8131瑞士法郎；1美元兌換1.3877加元，與前一交易日持平；1美元兌換9.5193瑞典克朗，低於前一交易日的9.5246瑞典克朗。
-
----
-
-### 2026-08-18 03:24:26  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Global oil prices rise on 17th】At the close on the 17th, WTI September futures rose $2.10 to $84.50/bbl (+2.55%); Brent October futures rose $2.35 to $90.87/bbl (+2.65%).
-
----
-
-### 2026-08-18 03:23:48  #市場
-
-【國際油價17日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。
-
----
-
-### 2026-08-18 03:22:18  #MKT News
-
-U.S. airport authority to vote on $19.9 bln redevelopment plan for Washington Dulles International Airport.
-
----
-
-### 2026-08-18 03:21:41  #其他
-
-機場管理局將投票表決一項價值 199 億美元的華盛頓杜勒斯機場改造方案。
-
----
-
-### 2026-08-18 03:15:12  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact mixed
-
-【AI-driven borrowing pushes US investment-grade bond issuance to August record】US investment-grade bond issuance hit an August record and marked the third consecutive month of monthly records, maintaining the fastest issuance pace on record. As of Monday, August issuance reached $145.2bn, exceeding the prior August record of $136.0bn in 2020. Heavy corporate spending on AI infrastructure has boosted borrowing demand; this month’s volume was led by Alphabet (GOOG.O)’s $25bn deal. This was the eighth $25bn-or-larger offering so far this year, and all eight came from technology companies.
-
----
-
-### 2026-08-18 03:14:49  #MKT News #WBD.O #Impact bearish #PARA.O
-
-【Paramount-Skydance seeks $1.88bn bond from states over delays to $110bn Warner Bros. Discovery takeover】Paramount-Skydance on Monday asked a U.S. judge to require about a dozen states suing to block its $110bn acquisition of Warner Bros. Discovery (WBD.O) to post a $1.88bn bond to cover costs from the delayed close. The company says it would incur $7m of delay costs per day if the merger fails to close by Sept. 30. The states’ challenges are expected to be tried in March; Paramount-Skydance warned that by the time trial concludes and final briefs are filed it will have paid $1.3bn in non-recoverable ticking fees to WBD shareholders.
-
----
-
-### 2026-08-18 03:12:17  #其他
-
-法院裁決：紐約州法官要求檢方於 10 月 9 日前對路易吉·曼焦內申請撤銷州級訴訟的請求作出回應，原定於 9 月的庭審因此推遲。
-
----
-
-### 2026-08-18 03:10:44  #MKT News #WTI #Impact bearish #DXY #S&P500 #Impact bullish
-
-Kushner said the US would be willing to strike a deal if Iran completed the previously discussed agreement and relinquished the capability to build nuclear weapons, but Iran has so far not shown willingness to take steps consistent with US interests.
-
----
-
-### 2026-08-18 03:08:57  #國際
-
-伊朗總統佩澤希齊揚： 我們自由的國民在被俘歲月裡所遭受的一切，絕非僅僅是戰爭史的片段；這是一群歷經苦難卻絕不捨棄伊朗尊嚴之人的堅毅敘事。面對日益加劇的外部壓力與威脅，忍耐、團結與希望，是伊朗堅守不屈的關鍵。
-
----
-
-### 2026-08-18 03:08:28  #MKT News
-
-Kushner said Trump will remain patient in pursuing an agreement with Iran.
-
----
-
-### 2026-08-18 03:07:53  #市場
-
-【芝加哥大豆期貨漲約2%，大豆油漲超2.6%】週一（8月17日）紐約尾盤，彭博穀物分類指數漲1.14%，報32.4651點，美股開盤以來持續走高，最近兩個交易日累計上漲3.50%。CBOT玉米期貨漲1.19%，報4.89美元/蒲式耳。CBOT小麥期貨跌0.04%，報6.8925美元/蒲式耳。CBOT大豆期貨漲1.97%，報12.16美元/蒲式耳，最近四天累計上漲4.04%；豆粕期貨漲0.79%，豆油期貨漲2.62%。CBOT瘦肉豬期貨跌0.09%，活牛期貨跌0.10%，飼牛期貨跌0.05%。
-
----
-
-### 2026-08-18 03:06:00  #MKT News #Important
-
-Kushner says talks are currently positive and proactive.
-
----
-
-### 2026-08-18 03:05:41  #MKT News #Important
-
-Kushner: we have not yet reached a consensus.
-
----
-
-### 2026-08-18 03:05:36  #國際
-
-庫什納：特朗普會在伊朗相關協議問題上保持耐心。
-
----
-
-### 2026-08-18 03:05:27  #MKT News #WTI #Impact bearish #Brent
-
-Kushner, Trump's son-in-law, said US–Iranian government dialogue across multiple channels is more active than ever.
-
----
-
-### 2026-08-18 03:05:08  #MKT News #Market Themes #The Trump Trade #GBPUSD #Impact bearish #FTSE100
-
-The Times reports U.S. Trade Representative Greer said Trump's threat to impose 100% tariffs on the UK "is not bluster."
-
----
-
-### 2026-08-18 03:04:55  #其他 #焦點 #國際
-
-庫什納：我們尚未達成共識。
-
----
-
-### 2026-08-18 03:04:42  #其他
-
-庫什納：對話積極且富有成效。
-
----
-
-### 2026-08-18 03:04:33  #國際
-
-庫什納：美國與伊朗政府不同部門之間的對話，比以往任何時候都更為深入。
-
----
-
-### 2026-08-18 03:03:37  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7417元，較上週五夜盤收盤漲5點。成交量311.47億美元。
-
----
-
-### 2026-08-18 03:01:10  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures night session closed down 0.27% at 25,355, trading 98 points below the cash index.
-
----
-
-### 2026-08-18 03:00:02  #市場
-
-恒指期貨夜盤收跌0.28%，報25352.93點，低水100.30點。
-
----
-
-### 2026-08-18 02:55:56  #國際
-
-美國能源部長賴特表示，美國政府將在未來幾日公佈若干舉措，助力煉油企業提高燃料產量。
-
----
-
-### 2026-08-18 02:55:51  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. Energy Secretary Wright said the U.S. Strategic Petroleum Reserve still holds 300 mln barrels and will be higher than pre-conflict levels once the Iran conflict ends.
-
----
-
-### 2026-08-18 02:54:51  #國際
-
-美國能源部長賴特表示，（美國）戰略石油儲備目前仍保有3億桶庫存，伊朗衝突結束後，其儲備量將高於衝突前水平。
 
 ---

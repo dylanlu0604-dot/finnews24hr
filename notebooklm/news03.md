@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 02:52:57_
-_本檔包含 3264 則快訊，約 621838 字_
+_更新時間：2026-08-25 03:38:11_
+_本檔包含 3267 則快訊，約 622046 字_
+
+---
+
+### 2026-08-21 07:53:12  #公司 #市場 #國際
+
+【目前已有22家煤炭上市公司披露2026年半年度業績相關公告 報喜比例近七成】近期，焦炭期貨、現貨價格持續上漲。生意社資料顯示，截至8月20日，焦炭基準價達到1868.75元/噸，較5月20日上漲11.40%；期貨方面，焦炭2701主力合約8月以來持續上漲，累計漲幅已達到12.85%。焦煤近期亦有明顯漲幅。生意社資料顯示，煉焦煤8月18日價格為1923.75元/噸，較5月18日上漲23.42%；期貨方面，8月以來，焦煤2701主力合約累計上漲18.99%。需求方面，今年上半年，全國用電需求保持旺盛增長態勢，算力、充換電等行業高速發展，疊加持續高溫天氣，全社會用電量增速加快。據證券時報·資料寶統計，截至8月20日，已有22家煤炭上市公司披露2026年半年度業績相關公告。按半年報淨利潤、業績預告下限順序計算，3家公司扭虧為盈，6家同比減虧，6家實現淨利潤同比增長，報喜比例近七成。扭虧為盈的3家公司中，甘肅能化淨利潤最高，公司預計實現歸母淨利潤1.66億元，主要由於煤炭銷售均價同比上漲。從估值上來看，上述扭虧、減虧、預增的15只煤炭股中，4股最新市淨率不足1倍，處於“破淨”狀態，包括山西焦化、蘭花科創、甘肅能化、恆源煤電，最新市淨率分別為0.6倍、0.71倍、0.84倍、0.9倍。
+
+---
+
+### 2026-08-21 07:53:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Pressured by Rebounding Yields — US stock futures hovered near weekly lows on Friday after major averages faced heavy selling pressure in the previous session, as Treasury yields rebounded amid concerns that the government’s plan to lower borrowing costs may offer only a temporary solution. Rising oil prices, as the US and Iran remain deadlocked over the Strait of Hormuz, also stoked inflation concerns. In regular trading on Thursday, the Dow fell 1.32%, the S&P 500 declined 0.87% and the Nasdaq Composite dropped 1%. Nine of the 11 S&P sectors finished lower, with consumer staples, health care and consumer discretionary stocks leading the declines. Long-term Treasury yields reversed Wednesday’s drop following the Treasury Department’s announcement of larger debt buybacks. In corporate news, Ross Stores jumped more than 8% in extended trading after the retailer posted stronger-than-expected second-quarter results.
+
+---
+
+### 2026-08-21 07:51:16  #MKT News #Important #Commodities #Energy #Brent #Impact bullish #WTI
+
+【Iran official says plans attacks on crude export facilities to hurt Trump ahead of US midterms】A senior Iranian official said Tehran plans an economic offensive including attacks on Gulf oil reroute export facilities to push up US gasoline prices and damage support for Trump’s party before the November midterms. Targets would include the two main alternatives used to bypass the Strait of Hormuz — Saudi Arabia’s Yanbu pipeline and the UAE’s Fujairah oil terminal — which together handle about 5.5 mln bpd. The official said if Iran also cut the US‑supported “shadow fleet” flows currently transiting the Strait, roughly 5.0 mln bpd, it would significantly reduce the alternate transport capacity that sustains Gulf exports under a wider blockade. With Brent near $93/bbl, any credible strike on Yanbu or Fujairah could be seen by traders as a supply shock larger than prior disruptions.
+
+---
+
+### 2026-08-21 07:51:15  #焦點 #國際
+
+【伊朗官員：計劃襲擊原油出口設施，意在美國中期選舉前打擊特朗普】一名伊朗高階官員表示，德黑蘭正計劃發動經濟戰，包括襲擊海灣地區的石油繞行出口設施，意在推高美國汽油價格，並在美國11月中期選舉前打擊特朗普所在政黨的支援率。據該官員描述，這項計劃的目標將包括航運商為避開霍爾木茲海峽而使用的兩條主要替代路線：沙烏地阿拉伯的延布輸油管道以及阿聯酋富查伊拉石油碼頭。這兩處設施合計每天處理約550萬桶石油。如果伊朗同時切斷美國支援的“影子艦隊”目前仍經霍爾木茲海峽運輸的約500萬桶/日石油供應，那麼一旦行動成功，將削弱相當大一部分替代運輸能力，而正是這些渠道在更廣泛的封鎖背景下維持了部分海灣石油出口。考慮到在當前緊張局勢下，布倫特原油價格已經接近每桶93美元，任何針對延布或富查伊拉的可信行動，都可能被交易員視為規模遠大於此前供應中斷的衝擊。
+
+---
+
+### 2026-08-21 07:50:56  #公司
+
+【8月以來融資淨買入居前的“六張網”建設產業鏈相關上市公司梳理】作為“十五五”重大建設工程，“六張網”拉動投資效應持續顯現。“十五五”時期，僅國家水網、新型電網、城市地下管網3項投資合計就超16萬億元，上市公司也在各自領域積極佈局，搶抓市場紅利。據證券時報·資料寶統計，A股上市公司中涉及“六張網”建設產業鏈的上市公司超過百家，涵蓋通訊、計算機、電力裝置、交通運輸、建築裝飾等行業。從機構關注度來看，8月以來，有7股獲機構調研，密爾克衛、偉星新材、天孚通訊獲機構調研家數居前，分別達到84家、84家、67家。從資金面上來看，8月以來，18股獲得融資淨買入超過1億元，協創資料、寒武紀、浪潮資訊獲淨買入金額居前，分別達到6.95億元、6.84億元、6.24億元。
+
+---
+
+### 2026-08-21 07:50:19  #公司 #市場
+
+【新股提示：馬礦股份今日申購】今日可申購滬市主機板馬礦股份。馬礦股份發行市盈率13.81倍，申購程式碼為780123，申購價格為6.65元/股。公司主營鐵礦石的採選、綜合利用及鐵精粉、鉬精礦銷售。
+
+---
+
+### 2026-08-21 07:47:47  #市場 #國際
+
+基準10年期日本公債期貨早盤下跌0.28點。
+
+---
+
+### 2026-08-21 07:47:36  #市場 #國際
+
+日本日經平均指數期貨早盤下跌1.6%。
+
+---
+
+### 2026-08-21 07:47:20  #行業 #觀點
+
+【中信建投：燃機市場高景氣延續，堅定看好國產燃機出海】中信建投研報表示，2026年第二季度全球燃機訂單約38GW，創單季度歷史新高，美國貢獻接近一半；同時遠期聯合迴圈專案報價顯著上升，2030年前後交付槽位仍高度稀缺。PJM提出大型資料中心需同步匹配新增電源，否則可能面臨限電及容量市場約束，進一步增強AIDC自備電源建設的緊迫性與確定性。此外，傑瑞股份半年報披露燃機機組及配套裝置自2025年11月起累計新增訂單超過31億美元，全球燃氣輪機高景氣度延續。二季度全球燃機訂單創歷史新高，三巨頭訂單、收入、利潤率、產能、指引同步高增並集體上修，在手訂單規模為未來交付提供極強可見度。當前全球燃機需求高景氣與交付槽位緊張並存，行業供需缺口仍將延續。國產燃機憑藉更短的交付週期、較高的價效比及不斷增強的產品競爭力，有望加快獲取海外市場份額。堅定看好國產燃機出海。
+
+---
+
+### 2026-08-21 07:43:18  #國際
+
+【印度古吉拉特邦發生假酒中毒事件，致9人死亡】據印度方面8月21日訊息，印度西部古吉拉特邦發生假酒中毒事件，已造成9人死亡，另有39人在醫院接受治療。訊息稱，此次事件發生在該邦包納加爾地區，陸續有多地居民在飲用假酒後死亡，死者血液樣本檢測結果顯示含有甲醇。警方隨後展開調查，將21人列為嫌疑人。當地警方表示，目前已逮捕13名嫌疑人，包括一名被指主謀的男子。有一名嫌疑人飲用涉事假酒後死亡。（央視新聞）
+
+---
+
+### 2026-08-21 07:42:59  #公司 #焦點
+
+三星計劃最高向股東返還790億美元。
+
+---
+
+### 2026-08-21 07:39:15  #資料 #市場 #央行 #國際
+
+【日本通脹加速，為日本央行加息提供依據】日本核心物價指標連續第二個月加速上行，日本央行有望在短期內再度加息，市場愈發猜測央行最早將於9月採取加息行動。日本總務省週五公佈，7月剔除生鮮食品的消費者物價指數同比上漲1.8%，高於上月1.6%的漲幅，該資料與經濟學家預期中值一致。同時剔除生鮮食品與能源的物價指數是日本央行密切關注的核心通脹指標，同比上漲1.9%；整體CPI同樣同比上漲1.9%。此次通脹抬升部分受能源推動，能源價格同比上漲0.6%，扭轉了6月小幅下滑的態勢。數週前日本央行行長植田和男釋放訊號，稱政策當局或將加快政策正常化步伐，本次通脹資料為央行加息提供支撐。儘管美日兩國7月底罕見實施聯合匯市干預，但日元持續走弱仍帶來物價上行風險，市場投資者愈發確信日本央行將於下月啟動加息。
+
+---
+
+### 2026-08-21 07:37:50  #Trading Economics #Economy #Japan #Core Inflation Rate #Importance 2
+
+Japan Core Inflation Rate Hits 4-Month High — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.8% year-on-year in July 2026, following a 1.6% rise in June. It was the highest core inflation rate since March and was in line with market forecasts of 1.8%. Still, the latest reading remained below the Bank of Japan’s 2% target for a sixth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict.
+
+---
+
+### 2026-08-21 07:37:23  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
+
+Japan July national CPI (unadjusted) MoM +0.4%, prior 0.0%.
+
+---
+
+### 2026-08-21 07:37:16  #MKT News #Economic Calendar #Important
+
+Japan | CPI (MoM) (Jul) | actual 0.4% | previous 0%
+
+---
+
+### 2026-08-21 07:36:30  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Set for Second Straight Weekly Rise — Brent crude traded above $93 per barrel on Friday and was on track to post a second consecutive weekly gain, rising more than 5% so far this week. The gains came as the US-Iran conflict showed no signs of abating, with the two sides locked in a dispute over the Strait of Hormuz. The US is moving to isolate Iran’s economy in what President Donald Trump described as an "economic D-day,” with details of the initiative expected on Monday. The proposed measures are likely designed to cut Tehran off from international financial and commercial channels, including banks, businesses, shipping registries, cash transfers and smuggling networks. Washington aims to increase economic pressure on Iran and push Tehran toward negotiations over the conflict, its nuclear programme and control of Hormuz. Elsewhere, a series of Ukrainian strikes on Russian energy infrastructure has caused fuel shortages in some regions, adding further pressure to global oil markets.
+
+---
+
+### 2026-08-21 07:36:12  #公司 #市場
+
+【A股限售股解禁一覽：10.46億元市值限售股今日解禁】Wind資料顯示，週五（8月21日），共有1家公司限售股解禁，合計解禁量為6319.19萬股，按最新收盤價計算，合計解禁市值為10.46億元。從解禁量來看，1家公司解禁股數超千萬股。志高機械解禁量居前，解禁股數分別為6319.19萬股。從解禁市值來看，1家公司解禁市值超億元。志高機械解禁市值居前，解禁市值分別為10.46億元。從解禁股數佔總股本比例來看，1家公司解禁比例超10%。志高機械解禁比例居前，解禁比例分別為50.63%。
+
+---
+
+### 2026-08-21 07:36:06  #公司
+
+【A股股票回購一覽：35家公司披露回購進展】Wind資料顯示，8月21日，35家公司共釋出35個股票回購相關進展。其中，11家公司首次披露股票回購預案，4家公司回購方案獲股東大會透過，10家公司披露股票回購實施進展，10家公司回購方案已實施完畢。從首次披露回購預案來看，當日共6家公司股票回購預案金額超千萬。格力電器、新華百貨、ST絕味回購預案金額最高，分別擬回購不超100.0億元、4.0億元、2.0億元。從股東大會透過回購預案來看，當日共3家公司回購預案超千萬。兆易創新、大秦鐵路、山東高速回購金額最高，分別擬回購不超20.0億元、5.0億元、2.0億元。從回購實施進展來看，凱普生物、海程邦達、永和股份回購金額最高，分別回購1.25億元、7399.32萬元、6999.28萬元。從已完成回購來看，當日共7家公司回購金額超千萬。ST能特、聚光科技、學大教育已完成回購金額最高，分別回購3.0億元、1.33億元、9894.89萬元。
 
 ---
 
@@ -19633,103 +19741,5 @@ Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic bu
 ### 2026-08-20 08:53:27  #公司
 
 【蔚藍鋰芯：無法核實公司是否為宇樹科技獨家供應商】有投資者在互動平臺向蔚藍鋰芯(002245)提問：蔚藍鋰芯作為宇樹科技機器人電芯獨家供應商，迎來了全新的戰略發展機遇。目前公司機器人電芯產能能否滿足宇樹機器人的擴產需求？另外，目前人形機器人鋰電池續航時間普遍只有兩三個小時，成為制約人形機器人大規模普及運用的一大痛點，蔚藍鋰芯在這方面有無技術突破？對此，蔚藍鋰芯回覆：“我們無法核實公司是否為該客戶的獨家供應商。公司與該客戶之間的交易正常進行，公司產品符合該客戶的技術要求。”
-
----
-
-### 2026-08-20 08:53:09  #其他
-
-【商務部消費促進司負責人談2026年7月我國消費市場情況】今年以來，我國消費市場保持向新向優發展態勢，市場規模穩步擴大、發展質量不斷提升。1-7月，社會消費商品和服務零售總額同比（下同）增長2.6%；社會消費品零售總額28.77萬億元，增長1.2%，其中除汽車以外的消費品零售額增長2.7%。
-
-一是商品消費提質升級。7月份，商品零售額增長0.5%。基本生活類商品增長平穩，限額以上單位糧油食品、飲料、日用品零售額分別增長5.3%、3.5%、1.8%；部分升級類商品增長較快，限額以上單位通訊器材、文化辦公用品、化妝品零售分別增長20.4%、7.4%、6.8%。
-
-二是服務消費亮點紛呈。暑期服務消費潛力充分釋放。1-7月，服務零售額增長5.0%，持續高於商品零售額增速。其中，餐飲收入增長2.6%；旅遊諮詢租賃服務、文體休閒服務零售額增長超過10%。暑期檔電影火熱，7月份電影總票房超50億元，增長超過20%。
-
-三是新型消費蓬勃發展。消費品以舊換新帶動綠色、智慧消費增長。7月份，新能源乘用車零售滲透率65.1%，再創歷史新高。商務部商務大資料顯示，7月份重點平臺具身智慧機器人銷售額增長95.1%，外骨骼助力器銷售額增長39.5%，運動相機銷售額增長24.7%，掃地機器人銷售額增長19.4%。
-
-四是城鄉結構持續最佳化。1-7月，鄉村消費品零售額3.8萬億元，增長2.4%，增速比城鎮快1.3個百分點。縣域消費市場動能不斷加強，包含鎮區和鄉村的縣鄉消費品零售額佔社會消費品零售總額的比重達39.1%，比上年同期提高0.3個百分點。
-
----
-
-### 2026-08-20 08:52:24  #公司
-
-【直擊WRC丨京東釋出機器人戰略：投入百億資源，建立80個RoboBase機器人基地】2026世界機器人大會（WRC 2026）期間，京東出任WRC全球戰略合作伙伴，併發布機器人戰略佈局。其中，供應鏈層面，截至2028年，京東將在機器人領域投入百億資源，助力100個品牌獨立銷售額破10億。目前，京東已透過自營形式合作200餘家機器人品牌及大量核心機器人零部件企業，服務個人與家庭消費，同時覆蓋零售、健康、工業、物流等多個行業賽道；京東歐洲Joybuy已與50餘家中國機器人品牌建立合作，讓海外消費者也能體驗中國智慧科技。（新浪科技）
-
----
-
-### 2026-08-20 08:51:54  #MKT News #Market Themes #AI Revolution
-
-【Xiyu Technology launches MiniMax Design to operationalize multimodal models for video production】Xiyu Technology launched MiniMax Design, a production harness that orchestrates multimodal models and skills to parse user briefs, decompose tasks, process assets, generate and edit content, and deliver final outputs. The system is built on MiniMax’s native multimodal video model H3, which Xiyu says has demonstrated multimodal understanding, video generation, editing and reference-control capabilities, with specific suitability for high-control video editing workflows.
-
----
-
-### 2026-08-20 08:51:00  #公司
-
-【稀宇科技推出MiniMax Design】據稀宇科技訊息，公司推出MiniMax Design。MiniMax Design是一款把多模態模型能力變成真實可用的生產力的Harness。使用者提出創作需求後，它能夠理解目標、拆解任務、呼叫相應的模型與Skills，完成從素材處理、生成和編輯到最終交付的完整過程。MiniMax原生多模態影片模型H3為MiniMax Design提供了新的能力基礎，它已經驗證了MiniMax在多模態理解、影片生成、影片編輯、參考控制等方面的模型能力，尤其適合Video Editing等對理解、控制與修改要求更高的場景。
-
----
-
-### 2026-08-20 08:50:11  #MKT News #Important #Macro & Rates #Market Regions #Greater China #CNH #Impact mixed
-
-China's one-year Loan Prime Rate (LPR) for Aug. 20 will be released in 10 minutes; July figures for RMB's share of global SWIFT payments are also being reported.
-
----
-
-### 2026-08-20 08:47:06  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【Margin financing across Shanghai and Shenzhen down 29.67 bln yuan】As of Aug 19, Shanghai Stock Exchange margin financing stood at 1,353.66 bln yuan, down 13.61 bln from the prior trading day; Shenzhen stood at 1,279.19 bln yuan, down 16.06 bln; combined balance 2,632.85 bln yuan, down 29.67 bln.
-
----
-
-### 2026-08-20 08:46:51  #其他 #焦點 #A股
-
-【兩市融資餘額較上日減少296.69億元】截至8月19日，上交所融資餘額報13536.56億元，較前一交易日減少136.11億元；深交所融資餘額報12791.91億元，較前一交易日減少160.58億元；兩市合計26328.47億元，較前一交易日減少296.69億元。
-
----
-
-### 2026-08-20 08:46:31  #公司
-
-【澄天偉業：公司液冷散熱業務生產基地位於廣東惠州，已啟動了第二期擴產計劃】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務生產基地位於廣東惠州，目前完成了第一期的產能建設。為應對市場需求增長和客戶的產能規劃指引，公司已啟動了第二期擴產計劃，包括廠房裝修、電力擴容以及關鍵裝置的預定等。一期與二期產能全部建成後，將能有效滿足核心客戶的階段性交付需求。後續公司將根據市場情況和客戶訂單的進一步明確，審慎規劃後續產能擴張，整體產能建設與客戶放量節奏保持匹配。
-
----
-
-### 2026-08-20 08:45:57  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1.3% to above 66,000 while the broader Topix Index advanced 0.8% to 4,045 on Thursday, snapping a two-day decline as Japanese shares tracked a positive lead from Wall Street amid a pullback in global bond yields from multi-year highs. The US Treasury Department said it will more than double repurchases of 10-, 20- and 30-year debt over the coming months after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Japan’s 10-year government bond yield also eased to around 2.84% after hitting a 30-year high of 2.95% earlier this week. Meanwhile, data showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips. Notable gains came from index heavyweights including Kioxia Holdings (3.8%), Advantest (1.8%), SoftBank Group (3.2%), Nintendo (3.2%) and Toyota Motor (3%).
-
----
-
-### 2026-08-20 08:44:40  #公司
-
-【澄天偉業：液冷業務當前訂單能見度較前期有所提升】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務源於在半導體封裝材料領域的技術積累，憑藉在精密金屬加工領域的工藝能力，在行業需求興起之初，公司就與臺灣核心客戶持續進行共同開發、持續打樣等小批次生產，當前業務處於從驗證匯入向規模化交付過渡的關鍵階段。公司主要為客戶提供GPU液冷模組及機櫃內部歧管等核心部件，目前該產品線將跟隨客戶量產節奏推進，整體放量節奏與客戶的交付排期高度關聯。當前訂單能見度較前期有所提升。
-
----
-
-### 2026-08-20 08:43:03  #MKT News
-
-【Samsung to unveil new Galaxy S26 model on Aug. 27】Samsung Electronics said on Thursday it will hold an online launch for its Galaxy S26 smartphone line on Aug. 27. The firm did not name the product; leaks identify it as the Galaxy S26 FE. Leaked specs include a 6.7-inch Dynamic AMOLED 2X display, an Exynos 2500 SoC, up to 50 hours battery life per charge (about 7.5 hours longer than the Galaxy S25 FE) and a rear camera array of 50MP main, 12MP ultrawide and 8MP telephoto.
-
----
-
-### 2026-08-20 08:41:17  #公司 #國際
-
-【三星宣佈將於下週釋出Galaxy S26最新機型】韓國三星電子公司週四表示，將於下週釋出其Galaxy S26智慧手機系列的最新機型。 該公司表示，釋出會將於8月27日線上舉行。 三星未直接公佈該產品的名稱，但據傳即將釋出的裝置為Galaxy S26 FE。 有洩露資訊顯示，Galaxy S26 FE將配備一塊6.7英寸的Dynamic AMOLED 2X顯示屏。 這款智慧手機預計將搭載三星Exynos 2500移動應用處理器，單次充電續航時間最長可達50小時，比Galaxy S25 FE多出約7.5小時。 後置攝像頭系統預計包括一枚5000萬畫素主攝、一枚1200萬畫素超廣角鏡頭和一枚800萬畫素長焦鏡頭。
-
----
-
-### 2026-08-20 08:40:12  #MKT News
-
-【Dier Laser expands TGV lineup to etch and AOI; integrated orders start to appear】Dier Laser told investors on Aug. 19 that its TGV (through‑glass via) strategy now covers etching and AOI inspection equipment alongside its laser‑modification machines. Laser‑modification units continue to win orders and generate revenue; bundled orders for laser modification plus etch have begun to appear and AOI systems are under active validation. The company said it will supply standalone or matched equipment suites based on customer process flow, via geometry, substrate size and capacity needs as it broadens its TGV product matrix.
-
----
-
-### 2026-08-20 08:39:40  #其他
-
-【哥倫比亞強震已造成319人死亡】當地時間8月19日，哥倫比亞國家災害風險管理局（UNGRD）釋出截至當天18時30分的最新災情統計，目前地震已造成319人死亡，4469人受傷，260人失蹤，364人獲救。（央視新聞）
-
----
-
-### 2026-08-20 08:39:04  #MKT News #Market Themes #AI Revolution
-
-【Wuhan Optics Valley unveils six brain–computer interface R&D platforms】On Aug. 18 at a Tongji Hospital–Tianqin Bio signing event in Wuhan, six brain–machine interface (BCI) R&D platforms were inaugurated, including provincial BCI innovation and proof‑of‑concept centers, Tongji Hospital’s BCI institute and joint translational lab with Tianqin Bio, and two laboratory animal centers. A package of projects was launched, led by a National Data Bureau BCI high‑quality dataset project with total funding of 122 mln yuan and a 24‑month build window to create multimodal datasets across 10 disease categories (stroke rehabilitation, spinal‑cord injury, Parkinson’s, epilepsy, etc.). Hubei health authorities also greenlighted translational projects for closed‑loop neural modulation BCI key technologies and a Optics Valley BCI data and compute platform.
 
 ---

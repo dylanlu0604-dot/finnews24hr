@@ -1,7 +1,105 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 02:52:57_
-_本檔包含 3128 則快訊，約 621814 字_
+_更新時間：2026-08-25 03:38:11_
+_本檔包含 3101 則快訊，約 622083 字_
+
+---
+
+### 2026-08-20 08:53:09  #其他
+
+【商務部消費促進司負責人談2026年7月我國消費市場情況】今年以來，我國消費市場保持向新向優發展態勢，市場規模穩步擴大、發展質量不斷提升。1-7月，社會消費商品和服務零售總額同比（下同）增長2.6%；社會消費品零售總額28.77萬億元，增長1.2%，其中除汽車以外的消費品零售額增長2.7%。
+
+一是商品消費提質升級。7月份，商品零售額增長0.5%。基本生活類商品增長平穩，限額以上單位糧油食品、飲料、日用品零售額分別增長5.3%、3.5%、1.8%；部分升級類商品增長較快，限額以上單位通訊器材、文化辦公用品、化妝品零售分別增長20.4%、7.4%、6.8%。
+
+二是服務消費亮點紛呈。暑期服務消費潛力充分釋放。1-7月，服務零售額增長5.0%，持續高於商品零售額增速。其中，餐飲收入增長2.6%；旅遊諮詢租賃服務、文體休閒服務零售額增長超過10%。暑期檔電影火熱，7月份電影總票房超50億元，增長超過20%。
+
+三是新型消費蓬勃發展。消費品以舊換新帶動綠色、智慧消費增長。7月份，新能源乘用車零售滲透率65.1%，再創歷史新高。商務部商務大資料顯示，7月份重點平臺具身智慧機器人銷售額增長95.1%，外骨骼助力器銷售額增長39.5%，運動相機銷售額增長24.7%，掃地機器人銷售額增長19.4%。
+
+四是城鄉結構持續最佳化。1-7月，鄉村消費品零售額3.8萬億元，增長2.4%，增速比城鎮快1.3個百分點。縣域消費市場動能不斷加強，包含鎮區和鄉村的縣鄉消費品零售額佔社會消費品零售總額的比重達39.1%，比上年同期提高0.3個百分點。
+
+---
+
+### 2026-08-20 08:52:24  #公司
+
+【直擊WRC丨京東釋出機器人戰略：投入百億資源，建立80個RoboBase機器人基地】2026世界機器人大會（WRC 2026）期間，京東出任WRC全球戰略合作伙伴，併發布機器人戰略佈局。其中，供應鏈層面，截至2028年，京東將在機器人領域投入百億資源，助力100個品牌獨立銷售額破10億。目前，京東已透過自營形式合作200餘家機器人品牌及大量核心機器人零部件企業，服務個人與家庭消費，同時覆蓋零售、健康、工業、物流等多個行業賽道；京東歐洲Joybuy已與50餘家中國機器人品牌建立合作，讓海外消費者也能體驗中國智慧科技。（新浪科技）
+
+---
+
+### 2026-08-20 08:51:54  #MKT News #Market Themes #AI Revolution
+
+【Xiyu Technology launches MiniMax Design to operationalize multimodal models for video production】Xiyu Technology launched MiniMax Design, a production harness that orchestrates multimodal models and skills to parse user briefs, decompose tasks, process assets, generate and edit content, and deliver final outputs. The system is built on MiniMax’s native multimodal video model H3, which Xiyu says has demonstrated multimodal understanding, video generation, editing and reference-control capabilities, with specific suitability for high-control video editing workflows.
+
+---
+
+### 2026-08-20 08:51:00  #公司
+
+【稀宇科技推出MiniMax Design】據稀宇科技訊息，公司推出MiniMax Design。MiniMax Design是一款把多模態模型能力變成真實可用的生產力的Harness。使用者提出創作需求後，它能夠理解目標、拆解任務、呼叫相應的模型與Skills，完成從素材處理、生成和編輯到最終交付的完整過程。MiniMax原生多模態影片模型H3為MiniMax Design提供了新的能力基礎，它已經驗證了MiniMax在多模態理解、影片生成、影片編輯、參考控制等方面的模型能力，尤其適合Video Editing等對理解、控制與修改要求更高的場景。
+
+---
+
+### 2026-08-20 08:50:11  #MKT News #Important #Macro & Rates #Market Regions #Greater China #CNH #Impact mixed
+
+China's one-year Loan Prime Rate (LPR) for Aug. 20 will be released in 10 minutes; July figures for RMB's share of global SWIFT payments are also being reported.
+
+---
+
+### 2026-08-20 08:47:06  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【Margin financing across Shanghai and Shenzhen down 29.67 bln yuan】As of Aug 19, Shanghai Stock Exchange margin financing stood at 1,353.66 bln yuan, down 13.61 bln from the prior trading day; Shenzhen stood at 1,279.19 bln yuan, down 16.06 bln; combined balance 2,632.85 bln yuan, down 29.67 bln.
+
+---
+
+### 2026-08-20 08:46:51  #其他 #焦點 #A股
+
+【兩市融資餘額較上日減少296.69億元】截至8月19日，上交所融資餘額報13536.56億元，較前一交易日減少136.11億元；深交所融資餘額報12791.91億元，較前一交易日減少160.58億元；兩市合計26328.47億元，較前一交易日減少296.69億元。
+
+---
+
+### 2026-08-20 08:46:31  #公司
+
+【澄天偉業：公司液冷散熱業務生產基地位於廣東惠州，已啟動了第二期擴產計劃】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務生產基地位於廣東惠州，目前完成了第一期的產能建設。為應對市場需求增長和客戶的產能規劃指引，公司已啟動了第二期擴產計劃，包括廠房裝修、電力擴容以及關鍵裝置的預定等。一期與二期產能全部建成後，將能有效滿足核心客戶的階段性交付需求。後續公司將根據市場情況和客戶訂單的進一步明確，審慎規劃後續產能擴張，整體產能建設與客戶放量節奏保持匹配。
+
+---
+
+### 2026-08-20 08:45:57  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Rise as Global Yields Retreat — The Nikkei 225 Index climbed 1.3% to above 66,000 while the broader Topix Index advanced 0.8% to 4,045 on Thursday, snapping a two-day decline as Japanese shares tracked a positive lead from Wall Street amid a pullback in global bond yields from multi-year highs. The US Treasury Department said it will more than double repurchases of 10-, 20- and 30-year debt over the coming months after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Japan’s 10-year government bond yield also eased to around 2.84% after hitting a 30-year high of 2.95% earlier this week. Meanwhile, data showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips. Notable gains came from index heavyweights including Kioxia Holdings (3.8%), Advantest (1.8%), SoftBank Group (3.2%), Nintendo (3.2%) and Toyota Motor (3%).
+
+---
+
+### 2026-08-20 08:44:40  #公司
+
+【澄天偉業：液冷業務當前訂單能見度較前期有所提升】澄天偉業8月19日在機構調研時表示，公司液冷散熱業務源於在半導體封裝材料領域的技術積累，憑藉在精密金屬加工領域的工藝能力，在行業需求興起之初，公司就與臺灣核心客戶持續進行共同開發、持續打樣等小批次生產，當前業務處於從驗證匯入向規模化交付過渡的關鍵階段。公司主要為客戶提供GPU液冷模組及機櫃內部歧管等核心部件，目前該產品線將跟隨客戶量產節奏推進，整體放量節奏與客戶的交付排期高度關聯。當前訂單能見度較前期有所提升。
+
+---
+
+### 2026-08-20 08:43:03  #MKT News
+
+【Samsung to unveil new Galaxy S26 model on Aug. 27】Samsung Electronics said on Thursday it will hold an online launch for its Galaxy S26 smartphone line on Aug. 27. The firm did not name the product; leaks identify it as the Galaxy S26 FE. Leaked specs include a 6.7-inch Dynamic AMOLED 2X display, an Exynos 2500 SoC, up to 50 hours battery life per charge (about 7.5 hours longer than the Galaxy S25 FE) and a rear camera array of 50MP main, 12MP ultrawide and 8MP telephoto.
+
+---
+
+### 2026-08-20 08:41:17  #公司 #國際
+
+【三星宣佈將於下週釋出Galaxy S26最新機型】韓國三星電子公司週四表示，將於下週釋出其Galaxy S26智慧手機系列的最新機型。 該公司表示，釋出會將於8月27日線上舉行。 三星未直接公佈該產品的名稱，但據傳即將釋出的裝置為Galaxy S26 FE。 有洩露資訊顯示，Galaxy S26 FE將配備一塊6.7英寸的Dynamic AMOLED 2X顯示屏。 這款智慧手機預計將搭載三星Exynos 2500移動應用處理器，單次充電續航時間最長可達50小時，比Galaxy S25 FE多出約7.5小時。 後置攝像頭系統預計包括一枚5000萬畫素主攝、一枚1200萬畫素超廣角鏡頭和一枚800萬畫素長焦鏡頭。
+
+---
+
+### 2026-08-20 08:40:12  #MKT News
+
+【Dier Laser expands TGV lineup to etch and AOI; integrated orders start to appear】Dier Laser told investors on Aug. 19 that its TGV (through‑glass via) strategy now covers etching and AOI inspection equipment alongside its laser‑modification machines. Laser‑modification units continue to win orders and generate revenue; bundled orders for laser modification plus etch have begun to appear and AOI systems are under active validation. The company said it will supply standalone or matched equipment suites based on customer process flow, via geometry, substrate size and capacity needs as it broadens its TGV product matrix.
+
+---
+
+### 2026-08-20 08:39:40  #其他
+
+【哥倫比亞強震已造成319人死亡】當地時間8月19日，哥倫比亞國家災害風險管理局（UNGRD）釋出截至當天18時30分的最新災情統計，目前地震已造成319人死亡，4469人受傷，260人失蹤，364人獲救。（央視新聞）
+
+---
+
+### 2026-08-20 08:39:04  #MKT News #Market Themes #AI Revolution
+
+【Wuhan Optics Valley unveils six brain–computer interface R&D platforms】On Aug. 18 at a Tongji Hospital–Tianqin Bio signing event in Wuhan, six brain–machine interface (BCI) R&D platforms were inaugurated, including provincial BCI innovation and proof‑of‑concept centers, Tongji Hospital’s BCI institute and joint translational lab with Tianqin Bio, and two laboratory animal centers. A package of projects was launched, led by a National Data Bureau BCI high‑quality dataset project with total funding of 122 mln yuan and a 24‑month build window to create multimodal datasets across 10 disease categories (stroke rehabilitation, spinal‑cord injury, Parkinson’s, epilepsy, etc.). Hubei health authorities also greenlighted translational projects for closed‑loop neural modulation BCI key technologies and a Optics Valley BCI data and compute platform.
 
 ---
 
@@ -18601,260 +18699,5 @@ Commercial aerospace-themed ETFs opened higher; satellite ETFs from E Fund and G
 ### 2026-08-19 09:27:10  #公司 #國際
 
 【歐委會批准賓士、寶馬、賽力斯共同控股超充合資公司逸安啟】歐盟中國商會訊息，據歐委會網站，8月13日，歐委會宣佈根據歐盟併購法規，正式批准梅賽德斯-賓士中國集團、華晨寶馬和賽力斯集團共同控股北京逸安啟新能源科技有限公司（逸安啟）。今年4月，寶馬與梅賽德斯-賓士在中國合資設立的超充公司逸安啟宣佈股權擴容：賽力斯集團以對等持股方式成為新投資方，旗下品牌問界正式加入。交易完成後，寶馬、梅賽德斯-賓士、賽力斯三方各持33.3%股份，共同推進國內超充網路建設與運營。
-
----
-
-### 2026-08-19 09:26:36  #公司 #市場
-
-【愛麗家居競價跌停】愛麗家居競價跌停，此前走出13天12板，兩度停牌核查；上交所日前公告，部分投資者在交易該股過程中存在影響股票交易正常秩序的異常交易行為，上交所依規對相關投資者採取了暫停賬戶交易等自律監管措施。
-
----
-
-### 2026-08-19 09:26:21  #公司 #市場
-
-【雙英集團上市首日開盤大漲超87%】雙英集團上市首日開盤漲87.6%，現報20.88元，該股發行價為11.13元。
-
----
-
-### 2026-08-19 09:26:07  #市場
-
-【宇樹科技高開629% 總市值達4449億】宇樹科技高開629%，報1100元，單簽收益為47.46萬元，總市值達4449億。
-
----
-
-### 2026-08-19 09:25:45  #MKT News #Market Regions #Greater China
-
-【Yushu Technology IPO: 8,000x retail demand; offshore pricing ~176% above issue】Yushu Technology debuted on Shanghai’s STAR Market today at an issue price of 150.8 yuan, implying a post-issue market value of about 61 billion yuan. Based on 2025 estimates the IPO implies roughly 219x P/E and 36x P/S. Retail subscriptions exceeded 8,000x. Pre-listing offshore private trading priced the stock about 176% above the issue price, with derivatives priced even more aggressively, indicating initial trading is focused on the scarcity value of a leading humanoid-robot name. Refinitiv also noted large-scale replacement by humanoid robots remains constrained by cost and reliability: to achieve a two-year payback total cost would need to fall to roughly 160,000 yuan, while current prices are typically 300,000–500,000 yuan; 50–70% of humanoid robots this year may be deployed for training data collection rather than direct production value.
-
----
-
-### 2026-08-19 09:25:35  #焦點
-
-三大股指低開，滬指跌0.96％，深成指跌2.09％，創業板跌2.7％。
-
----
-
-### 2026-08-19 09:25:29
-
-N宇樹上市首日開漲629.44％，股價現報1100元，發行價為150.80元/股。
-
----
-
-### 2026-08-19 09:25:26  #其他
-
-N宇樹上市首日開漲629.44%，股價現報1100元，發行價為150.80元/股。
-
----
-
-### 2026-08-19 09:25:25  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-A-share market opened: Shanghai Composite down 0.96%, Shenzhen Composite Index down 2.09%, ChiNext Index down 2.70%. N Yushu surged 629.44% on its debut; stock at 1,100 yuan, IPO price 150.80 yuan per share.
-
----
-
-### 2026-08-19 09:25:22  #MKT News
-
-Pentagon says US training objectives will not be affected.
-
----
-
-### 2026-08-19 09:25:14  #MKT News
-
-South Korea's foreign minister said South Korean and U.S. officials were previously unaware that the joint military exercises would be scaled back.
-
----
-
-### 2026-08-19 09:25:03  #MKT News
-
-PENTAGON says adjustments to joint exercises with South Korea aim to maintain readiness and training objectives.
-
----
-
-### 2026-08-19 09:24:41  #MKT News #Important #Commodities #Energy #Market Regions #Greater China #WTI #Impact bullish #Brent
-
-China fuel oil front-month contract rose 6.00% intraday to 4,281 yuan/ton.
-
----
-
-### 2026-08-19 09:24:40  #國際
-
-韓國外交部長：韓美官員此前對縮減聯合軍事演習一事毫不知情。
-
----
-
-### 2026-08-19 09:24:24  #國際
-
-美國國防部官員：調整美韓聯合演習可保持戰備狀態與訓練目標。
-
----
-
-### 2026-08-19 09:24:15  #市場
-
-小米港股開盤漲3%，其第二季度智慧手機銷量超預期。
-
----
-
-### 2026-08-19 09:23:58  #央行 #中國央行
-
-央行公告，根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
-
----
-
-### 2026-08-19 09:23:48  #MKT News #Market Themes #AI Revolution
-
-【AI startup Temporal could be valued at at least $12 billion】Temporal is in talks for a new financing round of about $500m that would more than double its February valuation to at least $12bn. The round has not closed and terms remain subject to change.
-
----
-
-### 2026-08-19 09:22:34  #MKT News #Important #CNH #Impact bullish
-
-【PBOC nets CNY 142.3 bln liquidity drain via reverse repos】The PBOC did not conduct standard reverse repo operations today but injected CNY 327.4 bln via overnight reverse repos; with CNY 469.7 bln of overnight reverse repos maturing, the net liquidity withdrawal was CNY 142.3 bln.
-
----
-
-### 2026-08-19 09:22:32  #公司 #市場
-
-百度港股開盤大跌12%，此前該公司公佈第二季度銷售額下滑，且資本支出增加。
-
----
-
-### 2026-08-19 09:22:06  #央行 #其他
-
-央行公開市場今日淨回籠1,423億元人民幣。
-
----
-
-### 2026-08-19 09:21:44
-
-港股恒指低開跌0.49％，國企指數跌0.53％，科指跌1.27%。
-
----
-
-### 2026-08-19 09:21:43  #MKT News #Market Regions #Greater China #HSI #Impact bearish #Hang Seng Tech Index #HSCEI
-
-Hong Kong open Aug 19 (Wed): HSI opened down 124.25 pts (-0.49%) at 25,346.9; Hang Seng Tech Index opened down 60.38 pts (-1.27%) at 4,678.8; Hang Seng China Enterprises Index (HSCEI) opened down 44.7 pts (-0.53%) at 8,408.5; Hang Seng Red Chip Index opened down 23.12 pts (-0.55%) at 4,159.92.
-
----
-
-### 2026-08-19 09:21:38  #MKT News #Important #Market Regions #Greater China #09888.HK #Impact bearish #00762.HK #Hang Seng Index
-
-Hong Kong stocks opened lower: Hang Seng down 0.49%, Hang Seng Tech down 1.27%. Baidu (09888.HK) fell more than 12% after earnings; China Unicom (00762.HK) dropped 7.7% after reporting 1H net profit down 34.6% YoY.
-
----
-
-### 2026-08-19 09:21:18  #MKT News
-
-PBOC said that, based on primary dealers' demand, the 7-day reverse repo operation on Aug 19, 2026 was zero. It conducted 327.4 bln yuan of overnight reverse repos.
-
----
-
-### 2026-08-19 09:21:15  #央行 #其他
-
-央行：根據公開市場業務一級交易商的需求，2026年8月19日7天期逆回購操作量為零。同時，開展了3274億元隔夜逆回購操作。
-
----
-
-### 2026-08-19 09:19:35  #國際
-
-特朗普將於美東時間週三下午2:30在科技領袖陪同下發表講話。
-
----
-
-### 2026-08-19 09:17:08  #市場
-
-【華泰期貨：市場風險情緒有所滋生，對於黃金投資的需求或略有減弱】由於地緣局勢再次出現升溫跡象，目前市場風險情緒有所滋生，對於黃金投資的需求或略有減弱；但看多邏輯並未出現明顯變化，美伊局勢或將從短期高烈度衝突轉向長期對抗，但並不對黃金作為美元資產替代邏輯產生影響；當下白銀與黃金邏輯類似，維持謹慎偏多觀點。（華泰期貨）
-
----
-
-### 2026-08-19 09:16:57  #國際
-
-【外媒：烏克蘭前防長呼籲舉行戰時選舉，澤連斯基面臨“最大內部挑戰”】據英國路透社、《衛報》等媒體報道，烏克蘭前國防部長米哈伊洛·費多羅夫當地時間18日發表重磅講話，呼籲舉行戰時選舉，並稱烏克蘭正面臨治理危機。路透社稱，這是自俄烏衝突爆發以來，烏克蘭總統澤連斯基面臨的“最大內部挑戰”。報道稱，費多羅夫在影片平臺優兔（YouTube）上釋出的影片講話中發出上述呼籲，這是自2022年俄烏衝突爆發以來，首次有烏克蘭主要政治人物公開提出此類要求。烏克蘭現行法律禁止在國家戰時狀態下舉行選舉。
-
----
-
-### 2026-08-19 09:15:36  #市場 #觀點
-
-【中金財富期貨：短期內黃金維持高位震盪的機率較大】債市收益率大幅上行，長端收益率仍處高位抬升持有無息資產的機會成本，疊加金價前期漲幅的獲利了結，昨日黃金出現明顯的調整。短期內密切關注債市的走勢以及利率的變化，考慮到債市收益率難以持續大幅回升，短期內黃金維持高位震盪的機率較大。
-
----
-
-### 2026-08-19 09:15:33  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures opened down 0.6% at 25,289, trading 182 points below the cash index.
-
----
-
-### 2026-08-19 09:15:18  #市場
-
-人民幣兌美元中間價報6.7854元，較上日調高51點。
-
----
-
-### 2026-08-19 09:15:01  #市場
-
-恒指期貨日盤開盤跌0.42%，報25334.00點，低水137.15點。
-
----
-
-### 2026-08-19 09:13:58  #國際
-
-日經225指數跌幅收窄至不到2%，此前一度跌超3%。韓國首爾綜指跌幅收窄至4.2%，此前一度跌超6%。
-
----
-
-### 2026-08-19 09:13:43  #市場 #焦點
-
-甲醇連續主力合約日內漲3%，現報2847.00元。
-
----
-
-### 2026-08-19 09:12:55  #MKT News #Important
-
-【Yangtze Memory IPO counseling status moves to 'counseling acceptance'】CSRC website shows Yangtze Memory Holdings Co.'s IPO counseling status changed to 'counseling acceptance'; sponsoring brokers are Citic Securities and CSC Financial.
-
----
-
-### 2026-08-19 09:12:42  #公司 #觀點
-
-【長江儲存IPO輔導狀態變更為“輔導驗收”】據證監會網站披露，長江儲存控股股份有限公司IPO輔導狀態變更為“輔導驗收”，輔導券商為中信證券和中信建投。
-
----
-
-### 2026-08-19 09:12:17  #市場 #國際
-
-【菲律賓比索兌美元跌至紀錄新低 受油價上漲拖累】菲律賓比索兌美元跌至紀錄新低，油價上漲給比索匯率帶來壓力。
-美元/比索一度漲0.3%至61.985，突破了7月底創下的前紀錄高點61.85。
-
----
-
-### 2026-08-19 09:11:17  #市場
-
-新加坡海峽時報指數下跌1%至5645點。
-
----
-
-### 2026-08-19 09:11:17  #MKT News #Market Themes #AI Revolution
-
-【Zhipu launches GLM-5.3 API】Zhipu said the GLM-5.3 API is live. The model is optimized for complex coding, defensive cybersecurity and long-horizon tasks. GLM-5.3 has been integrated with ZCode and included in the GLM Coding Plan. API access is open and pricing remains unchanged from GLM-5.2. Model weights will be open-sourced next Friday.
-
----
-
-### 2026-08-19 09:09:58  #其他
-
-【智譜：GLM-5.3 API即日起正式上線】 據智譜訊息，GLM-5.3 API即日起正式上線。模型擅長複雜編碼、防禦性網路安全以及長程任務。目前，GLM-5.3已接入ZCode等編碼平臺，並納入GLM Coding Plan。API已開放呼叫，定價與GLM-5.2保持不變。模型權重將於下週五開源。
-
----
-
-### 2026-08-19 09:08:33  #國際
-
-【烏克蘭被爆“愛國者”導彈即將耗盡，俄媒：基輔發現處境非常艱難，甚至有些“絕望”】烏戰事膠著之際，美國有線電視新聞網（CNN）17日獨家披露，烏克蘭向CNN透露其致命弱點——“愛國者”導彈即將耗盡。烏克蘭一直不願透露其究竟還剩下多少攔截導彈，烏總統澤連斯基上週表示，烏克蘭目前擁有的攔截導彈數量，僅為其急需從美國獲得數量的1%。俄新社17日稱，由於美國武庫耗盡、烏克蘭缺乏生產許可證以及成本上升，華盛頓近期內不可能向基輔交付“愛國者”導彈。 烏方透露“致命弱點” CNN是首家獲准進入烏克蘭境內檢視“愛國者”導彈防禦系統的媒體。烏克蘭官員向該媒體披露了一個事實：該國的導彈已基本耗盡。俄羅斯《莫斯科晚報》17日稱，由於冬季到來之前“愛國者”導彈數量不足，基輔發現自己處境非常艱難，甚至有些“絕望”。 （環球網）
-
----
-
-### 2026-08-19 09:07:45  #市場
-
-【洋河夢之藍M6+青花郎大漲創新高 茅臺五糧液等高階酒多數走弱】新浪財經“酒價內參”過去24小時收集的資料顯示，8月19日中國白酒業11大單品六漲五跌，贏家數量略佔上風。上漲方面，五糧液1618上漲2元至823元，在近期價格中樞位小幅修復；洋河夢之藍M6+大漲7元至618元，昨日回撥後價格再度回升，力創月新高；古井貢古20上漲6元至538元，結束兩日回撥；習酒君品小漲1元至645元，四連漲平近一個月最高紀錄；青花郎大漲6元，終端零售均價來到713元，四連陽重返近一個月次高位；水晶劍南春漲1元至406元，結束三連平亦創近一個月最高。下跌方面，飛天茅臺下跌2元，終端零售均價來到1780元，高位振盪行情延續；精品茅臺下跌6元至2482元，五連陰前期大漲行情終結；五糧液普五八代下跌8元至797元，三連跌掉落800元大關；青花汾20下跌4元至394元，昨日短期漲勢止步，上探400元關口未果；國窖1573下跌6元至880元，三連陰價格重心明顯下移。
-
-今日11大單品的終端零售總價持續下探，大盤價格重心繼續走低，如果11大單品各取一瓶整體打包售賣，今日總售價為10076元，較昨日小幅下跌3元，創出六天以來新低。
 
 ---
