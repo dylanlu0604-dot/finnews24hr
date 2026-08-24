@@ -1,7 +1,46 @@
 {
   "date": "2026-08-24",
-  "count": 2404,
+  "count": 2408,
   "items": [
+    {
+      "id": "te:markets:577647",
+      "time": "2026-08-24 22:51:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Boeing Stock Price Hits 4-week Low — Boeing shares decreased to 209.33 USD, the lowest since July 2026. Over the past 4 weeks, Boeing lost 0.8%, and in the last 12 months, it decreased 7.52%."
+    },
+    {
+      "id": "5055987",
+      "time": "2026-08-24 22:49:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿里巴巴美股轉漲，此前蔡崇信、吳泳銘出手增持1.2億港元阿里股票】阿里巴巴美股轉漲。此前阿里巴巴夜盤一度下跌逾5%，受管理層增持利好提振，開盤後轉漲報119.36美元。"
+    },
+    {
+      "id": "te:markets:577644",
+      "time": "2026-08-24 22:49:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Futures at Over 1-1/2-Year Highs — Rice futures traded around $14.8 per hundredweight, their highest since January 2025, amd ongoing worries about next season’s supply outlook. Global supplies remain relatively comfortable for now, but weather risks are increasingly clouding the outlook for the 2026/27 crop, particularly across major Asian producers. Rainfall has been uneven across Asia, with heavy monsoon rains in some areas contrasting with persistent dryness in other key rice-producing regions. A strengthening El Niño could further shift weather patterns toward hotter and drier conditions, increasing risks to harvests and food supplies. Top exporter India is on course for its weakest monsoon in nearly two decades, with rainfall expected to end the season around 15% below the long-term average, which would make it the weakest since 2009. Demand is also providing support, with African buyers stepping up purchases and adding to pressure on available supplies."
+    },
+    {
+      "id": "mkt:01a0343e-c2ca-7aab-90fa-321129882db6",
+      "time": "2026-08-24 22:48:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: French President Macron shook hands with the Saudi crown prince at the Elysee Palace ahead of bilateral talks."
+    },
     {
       "id": "5055986",
       "time": "2026-08-24 22:47:55",
