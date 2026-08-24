@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-25 03:22:19",
-  "count": 15826,
+  "updated": "2026-08-25 03:26:23",
+  "count": 15831,
   "items": [
+    {
+      "id": "mkt:01a0353c-4e38-7aab-90fe-bec43ccd9487",
+      "time": "2026-08-25 03:25:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's army chief General Munir said Pakistan will steadfastly continue to act as a facilitator; ending the current crisis could open a new chapter of reconstruction, regional development and cooperative security."
+    },
+    {
+      "id": "5056146",
+      "time": "2026-08-25 03:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。這是美軍南方司令部時隔兩月後再次宣佈對所謂“販毒船”發動打擊。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“西半球聯合特遣部隊”對一艘“在東太平洋既定販毒路線上航行”的船隻實施打擊，“情報顯示該船正積極參與販毒活動”。船上兩名“毒品恐怖分子”被打死。（新華社）"
+    },
+    {
+      "id": "5056145",
+      "time": "2026-08-25 03:25:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：華盛頓方面必須改變對待德黑蘭的口吻與處事方式，依靠脅迫與霸凌只會讓推進相關程序變得更加複雜。"
+    },
+    {
+      "id": "mkt:01a0353b-8a6a-7aab-90fe-b4d100386d49",
+      "time": "2026-08-25 03:24:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil prices fall on 24th】By close on the 24th, NYMEX October light sweet crude futures fell $2.05 to $85.01/bbl, down 2.35%. ICE Brent October futures fell $2.22 to $92.17/bbl, down 2.35%."
+    },
+    {
+      "id": "5056144",
+      "time": "2026-08-25 03:24:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價24日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌2.05美元，收於每桶85.01美元，跌幅為2.35%；10月交貨的倫敦布倫特原油期貨價格下跌2.22美元，收於每桶92.17美元，跌幅為2.35%。"
+    },
+    {
+      "id": "mkt:01a0353a-9bd8-7aab-90fe-aa0af82a720d",
+      "time": "2026-08-25 03:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Iran's Press TV, Iran's president said unity among Islamic states is the strongest deterrent to Israeli plots and enemies of Islam and will prevent them from achieving their objectives."
+    },
+    {
+      "id": "mkt:01a03539-e857-7aab-90fe-a67953d9ff67",
+      "time": "2026-08-25 03:23:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian president says lasting regional peace and closer cooperation among Islamic states are essential; Iran is willing to work with Islamic countries and neighboring states on economic, political and security cooperation, Press TV reports."
+    },
     {
       "id": "mkt:01a03538-3675-7aab-90fe-987a2d1852aa",
       "time": "2026-08-25 03:21:11",
@@ -143441,27 +143502,6 @@
         "市場"
       ],
       "text": "【美元指數17日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.03%，在匯市尾市收於99.636。截至紐約匯市尾市，1歐元兌換1.1572美元，高於前一交易日的1.1566美元；1英鎊兌換1.3538美元，高於前一交易日的1.3533美元。1美元兌換159.59日元，高於前一交易日的159.38日元；1美元兌換0.8115瑞士法郎，低於前一交易日的0.8131瑞士法郎；1美元兌換1.3877加元，與前一交易日持平；1美元兌換9.5193瑞典克朗，低於前一交易日的9.5246瑞典克朗。"
-    },
-    {
-      "id": "mkt:01a0112e-ac72-7aab-9068-d0d05c8cd8b5",
-      "time": "2026-08-18 03:24:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Global oil prices rise on 17th】At the close on the 17th, WTI September futures rose $2.10 to $84.50/bbl (+2.55%); Brent October futures rose $2.35 to $90.87/bbl (+2.65%)."
-    },
-    {
-      "id": "5044738",
-      "time": "2026-08-18 03:23:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價17日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.10美元，收於每桶84.50美元，漲幅為2.55%；10月交貨的倫敦布倫特原油期貨價格上漲2.35美元，收於每桶90.87美元，漲幅為2.65%。"
     }
   ]
 }
