@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 04:42:40_
-_本檔包含 3084 則快訊，約 622430 字_
+_更新時間：2026-08-25 05:41:13_
+_本檔包含 3086 則快訊，約 623206 字_
+
+---
+
+### 2026-08-19 09:47:00  #市場 #焦點
+
+甲醇連續主力合約日內漲4%，現報2875.00元。
+
+---
+
+### 2026-08-19 09:46:29  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌2%，現報7649.80點。
+
+---
+
+### 2026-08-19 09:46:22  #其他
+
+禾賽科技港股在半年報公佈後跌7.3%。
+
+---
+
+### 2026-08-19 09:46:07  #市場
+
+【人形機器人概念震盪下挫 上緯新材多股跌超10%】早盤人形機器人概念震盪下挫，中大力德、巨輪智慧觸及跌停，上緯新材、豐光精密、綠的諧波、昊志機電多股跌超10%。
+
+---
+
+### 2026-08-19 09:45:59  #MKT News #Important
+
+N Yushu trading value topped CNY10 bln; shares at CNY900.8, gains pulled back to below 500%.
+
+---
+
+### 2026-08-19 09:45:46  #其他
+
+N宇樹-W成交額達100億元，現漲496.29%。
+
+---
+
+### 2026-08-19 09:45:32  #MKT News #Market Themes #AI Revolution #FFIE.O #Impact bullish
+
+FARADAY FUTURE (FFIE.O) said it supports an AIxC strategic transformation, focusing on physical AI and robot shared-leasing operations; RoboShare has completed its first paid commercial order and its initial robot fleet exceeds 80 units.
+
+---
+
+### 2026-08-19 09:45:06  #公司
+
+【雅化集團與中建西部建設簽署戰略合作協議】據雅化集團訊息，8月18日，雅化集團與中建西部建設簽署戰略合作協議，雅化集團將與中建西部建設加強多領域協同發展，共同探索高質量可持續發展的新路徑。
+
+---
+
+### 2026-08-19 09:44:59  #公司
+
+【杭蕭鋼構等投資成立生物製藥公司】企查查APP顯示，近日，杭州瑞龍堂生物製藥有限公司成立，經營範圍包含：保健食品（預包裝）銷售；地產中草藥（不含中藥飲片）購銷；中草藥種植等。企查查股權穿透顯示，該公司由杭蕭鋼構等共同持股。
+
+---
+
+### 2026-08-19 09:44:35  #MKT News #Important
+
+【Multiple robot ETFs fall more than 5%】Humanoid-robot-themed ETFs weakened; several robot ETFs managed by Fullgoal, GF Fund and Penghua fell more than 5%.
+
+---
+
+### 2026-08-19 09:44:27  #其他
+
+【多隻機器人ETF跌超5%】人形機器人板塊走弱。機器人ETF富國（159272）、機器人ETF廣發（159050）、機器人ETF鵬華（159278）等多隻機器人ETF跌超5%。
+
+---
+
+### 2026-08-19 09:44:21  #MKT News #Market Regions #Greater China
+
+【Yushutech intraday market cap tops CNY350 bln, jumps into STAR Market top 10】Yushutech, billed as the A-share humanoid-robot pioneer, began trading on the STAR Market on Aug. 19. Shares surged more than 500% intraday, lifting market capitalization above CNY350 billion and into the STAR Market’s top 10 by size. At the IPO price of CNY150.80/share, the company’s implied valuation was about CNY61 billion, which would have ranked roughly in the 50s on the board.
+
+---
+
+### 2026-08-19 09:44:20  #市場
+
+兆易創新A股下跌4.7%，港股下跌3.5%。
+
+---
+
+### 2026-08-19 09:43:55  #公司
+
+【國機集團與北大荒集團簽署戰略合作框架協議 將加快推進高階農業裝備的推廣應用】8月18日，中國機械工業集團有限公司（簡稱“國機集團”）黨委書記、董事長張曉侖一行到訪北大荒集團，與北大荒農墾集團黨委書記、董事長王兆成座談，雙方圍繞數字農業發展、高階農機裝備研發應用等事宜進行深入交流。座談後，雙方簽署戰略合作框架協議，表示將發揮各自優勢、深化強強聯合，加快推進高階農業裝備的推廣應用。
+
+---
+
+### 2026-08-19 09:43:52  #公司 #市場
+
+機器人概念股震盪走低，正裕工業、秦安股份雙雙跌停，上緯新材、風光精密跌超10%，巨輪智慧、中大力德、綠的諧波跌超9%。
+
+---
+
+### 2026-08-19 09:43:35  #公司 #市場
+
+【宇樹科技盤中市值超3500億元，空降科創板前10名】8月19日，被稱為“A股人形機器人第一股”的宇樹科技登陸科創板正式掛牌交易，開盤後盤中漲超500%，市值超3500億元。該市值水平在科創板上市公司中排到前10名。據此前發行價格150.8元/股計算，宇樹科技估值近610億元，科創板排名50多名左右。（第一財經）
+
+---
+
+### 2026-08-19 09:43:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Extends Advance — US heating oil futures climbed above $4.50 per gallon on Wednesday, extending gains to their highest level since March, as the deadlock over the Strait of Hormuz heightened concerns about prolonged supply disruptions. President Donald Trump said that no talks with Iran were taking place or planned, asserting that the US naval blockade remained active and that the strait was open after mines were cleared. Iran, however, countered that the waterway would remain closed until the US fulfilled its prior conditions. Traffic through the critical chokepoint came to a standstill over the weekend following attacks on vessels, underscoring persistent security risks to energy shipments. Meanwhile, Ukrainian strikes on Russian oil refineries have disrupted domestic fuel supplies, resulting in gasoline rationing in at least two regions and tighter controls on refined-product exports, with Russia extending its ban on petrol exports until January 2027 and diesel exports until August 2026.
+
+---
+
+### 2026-08-19 09:43:12  #MKT News #Important
+
+Newly listed N Shuangying jumped 143.9%, triggering an intraday trading halt. Shuangying Group’s core business is R&D, production and sales of automotive seats and interior and exterior trim.
+
+---
+
+### 2026-08-19 09:42:21  #公司
+
+【雷軍打新宇樹科技狂賺152億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。經梳理發現，雷軍創辦的順為資本關聯方Astrend IV持有1610.6萬股，浮盈超152億元。（中新經緯）
+
+---
+
+### 2026-08-19 09:42:08  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時放量208億元。
+
+---
+
+### 2026-08-19 09:41:40  #市場
+
+【創新藥概念表現活躍 西點藥業4天2板】創新藥概念表現活躍，西點藥業4天2板，九典制藥漲超10%，漢森製藥、哈三聯漲停，新贛江、金陵藥業、特寶生物跟漲。
+
+---
+
+### 2026-08-19 09:41:30  #公司
+
+【宇樹創始人王興興身家超1300億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。 招股書顯示：創始人王興興直接持股21.43%，透過員工持股平臺間接持股9.84%，合計31.29%。以此計算，創始人王興興身家超1300億元。（每經）
+
+---
+
+### 2026-08-19 09:40:47  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+China A-share beverage manufacturing sector slipped intraday; Yiming Food hit the daily limit down, with Huangshi Group, Western Animal Husbandry, Weilong, Juneyao Health and Sanyuan following lower.
+
+---
+
+### 2026-08-19 09:40:42  #市場 #國際
+
+40年期日本國債收益率指數下跌3.0個基點至4.175%。
+
+---
+
+### 2026-08-19 09:40:16  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Plunge — The benchmark KOSPI fell more than 4% to around 6,560 on Wednesday, extending losses from the previous session, as a global bond selloff weighed on investor sentiment. The US 30-year Treasury yield climbed to its highest level since 2007, while long-term bond yields also reached multi-year highs in Japan and Europe, raising concerns over higher borrowing costs and pressuring growth and technology stocks. The global technology selloff hit Korean chipmakers particularly hard, with Samsung Electronics and SK hynix falling around 6% and 7%, respectively, as they tracked losses in US semiconductor stocks. Losses were also recorded in SK Square (-9.6%), Hyundai Motor (-3.5%), KB Financial Group (-2.3%), Kia Corporation (-3.4%), and Doosan Enerbility (-3.3%). At the same time, higher oil prices added to inflation concerns after President Donald Trump said the US is not in talks with Iran, while stalled peace efforts raised fears of further disruptions to oil supplies from the Middle East.
+
+---
+
+### 2026-08-19 09:40:11  #公司 #市場
+
+【飲料製造板塊短線走低，一鳴食品跌停】飲料製造板塊短線走低，一鳴食品跌停，皇氏集團、西部牧業、威龍股份、均瑤健康、三元股份等跟跌。
+
+---
+
+### 2026-08-19 09:40:04  #公司 #市場
+
+【新股N雙英漲超143% 觸發臨停】新股N雙英擴大漲幅至143%，觸發臨停，成交超2.6億元。資料顯示，公司主營汽車座椅、汽車內外飾件研發、生產和銷售。
+
+---
+
+### 2026-08-19 09:39:42  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #NVDA.O #Impact bullish #AMD.O #GOOGL.O
+
+【Liquid cooling for AI servers moving from optional to mainstream】TrendForce projects liquid-cooling penetration in AI servers will rise from about 38% in 2025 to 53% in 2026 and near 60% in 2027. The rise is driven by broader adoption of liquid cooling in next‑generation AI platforms from NVIDIA, AMD and Google; as chip power and rack density increase, liquid cooling is shifting from an optional add‑on for high‑power servers to mainstream AI infrastructure. Penetration topping 50% in 2026 implies incremental AI capex will increasingly flow into cooling, power and data‑center support equipment.
+
+---
+
+### 2026-08-19 09:39:17  #MKT News #Market Regions #Greater China
+
+【Liang Wenfeng’s Yushu Technology allocation shows >1.1 bln yuan unrealized gain】On Aug. 19 Yushu Technology debuted on the STAR Market, surging 629.44% at 1,100 yuan/share and valuing the company at about 444.9 bln yuan. Investment vehicles linked to Liang Wenfeng — Deep Quest, Magic Square Quant and Nine Chapters Asset — were allocated roughly 1.1916 mln shares via strategic allotments and offline subscriptions; at the offering price the position carries an unrealized gain of more than 1.1 bln yuan.
+
+---
+
+### 2026-08-19 09:38:50  #市場
+
+【影視院線板塊盤初走弱，北京文化跌停】影視院線板塊盤初走弱，北京文化跌停，中廣天擇、儒意電影、華智數媒、華策影視、百納千成、歡瑞世紀等跟跌。
+
+---
+
+### 2026-08-19 09:38:50  #市場 #焦點
+
+紐約期金突破4410美元/盎司，日內跌0.24%。
+
+---
+
+### 2026-08-19 09:38:39  #其他
+
+【港股光通訊股走弱 劍橋科技跌超6%】截至發稿，劍橋科技(06166.HK)跌6.04%，長飛光纖光纜(06869.HK)跌5.27%，匯聚科技(01729.HK)跌5.20%。
+
+---
+
+### 2026-08-19 09:38:32  #市場
+
+【地產產業鏈逆勢活躍 志邦家居等多股漲停】早盤地產產業鏈逆勢活躍，家居、建材方向領漲，志邦家居、中交發展、羅普斯金、好太太漲停，尚品宅配、兔寶寶、三棵樹等跟漲。
 
 ---
 
@@ -18471,191 +18669,5 @@ Iran's Fars News reports a fuel tank fire and explosion in Sulaymaniyah, Iraq's 
 ### 2026-08-18 05:44:43  #公司
 
 布魯克菲爾德提出以每股 4.75 澳元現金收購信實環球公司。
-
----
-
-### 2026-08-18 05:40:15  #MKT News #S&P500 #Impact mixed #DXY #US10Y
-
-【US, Canada working to bridge differences on potential auto-tariff cut, sources say】Three sources said on Monday the US and Canada are negotiating a possible cut to US auto tariffs from 25% to 15% after deducting some value content. If no deal is reached by a Wednesday deadline, the US will impose heavy new tariffs on US$20 billion of other Canadian goods. US officials propose the 15% tariff would exclude only US domestic value; Canadian officials want to exclude all North American content, including parts from Canada and Mexico. Auto industry officials said a broader regional-content deduction could cut the effective tariff on North American-made cars to the low single digits, well below the 15% applied to imports from Japan, Korea and the EU and the 10% tariff on most UK cars.
-
----
-
-### 2026-08-18 05:39:14  #MKT News #XAUUSD #Impact bullish #Brent #S&P500 #Impact bearish
-
-Turkish President Erdogan told U.S. President Trump that Israel is attacking Palestinians in Gaza and that the second phase of the peace plan was supposed to take effect now.
-
----
-
-### 2026-08-18 05:37:44  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-ERDOGAN told US President Trump that continued dialogue with Iran to make full use of diplomatic channels is important, and that Turkey is prepared to contribute.
-
----
-
-### 2026-08-18 05:37:38  #國際
-
-土耳其總統埃爾多安告知特朗普，本應啟動和平計劃第二階段之際，以色列卻正在加沙地帶襲擊巴勒斯坦民眾。
-
----
-
-### 2026-08-18 05:37:11  #國際
-
-土耳其總統埃爾多安告知特朗普，繼續與伊朗對話以發揮外交手段的作用十分重要，土耳其願意為此出力。
-
----
-
-### 2026-08-18 05:36:48  #MKT News
-
-Turkish President Erdogan and U.S. President Trump discussed bilateral relations, the conflicts in Iran and Gaza, and defense agreements with Pakistan and Saudi Arabia.
-
----
-
-### 2026-08-18 05:35:33  #MKT News
-
-Turkish President Erdogan held a phone call with U.S. President Trump; they discussed bilateral ties and regional and global developments.
-
----
-
-### 2026-08-18 05:35:20  #國際
-
-土耳其埃爾多安與特朗普討論雙邊關係、伊朗及加沙戰事，以及同巴基斯坦、沙烏地阿拉伯的防務協議。
-
----
-
-### 2026-08-18 05:26:33  #MKT News
-
-A U.S. judge blocked the Trump administration’s plan to relocate the new FBI headquarters from Maryland to Washington, D.C.
-
----
-
-### 2026-08-18 05:26:07  #國際
-
-美國法官阻止特朗普政府將聯邦調查局新總部選址從馬里蘭州遷至華盛頓特區的計劃。
-
----
-
-### 2026-08-18 05:25:53  #其他
-
-【委內瑞拉強震已致6438人死亡】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯在社交媒體發文稱，在6月24日地震中遇難的人數已升至6438人。羅德里格斯在社交媒體上釋出的訊息顯示，已有6462人獲救，超過8.6萬人曾在醫院接受治療。6月24日晚，委內瑞拉發生百餘年來最強地震，一分鐘內出現兩次7級以上強震。 (央視新聞)
-
----
-
-### 2026-08-18 05:24:54  #MKT News #Commodities #Energy
-
-A top Petrobras executive said oil recovered from Amazon-region drilling appears to be of high quality but requires further analysis. The company has identified locations for the next three wells in the Amazon region.
-
----
-
-### 2026-08-18 05:23:59  #其他
-
-美加貿易談判因汽車關稅問題陷入僵局。
-
----
-
-### 2026-08-18 05:23:45  #公司
-
-勘探生產部門主管表示，巴西國家石油公司（Petrobras）已確定亞馬遜河口後續三口鑽井的選址。
-
----
-
-### 2026-08-18 05:22:57  #公司
-
-勘探生產部門主管表示，巴西國家石油公司（Petrobras） 在亞馬遜河口鑽井發現的石油前景十分可觀，但仍需開展進一步分析。
-
----
-
-### 2026-08-18 05:17:03  #MKT News #Commodities #Energy #PETR4.SA
-
-Petrobras top executive said drilling at the mouth of the Amazon has cost about $300 mln to date.
-
----
-
-### 2026-08-18 05:15:31  #市場
-
-富時A50期指連續夜盤收跌0.23%，報15131點。
-
----
-
-### 2026-08-18 05:13:24  #公司
-
-高管稱，巴西國家石油公司在亞馬遜河口的鑽井作業迄今已耗資約 3 億美元。
-
----
-
-### 2026-08-18 05:13:04  #Trading Economics #Economy #United States #Capital Flows #Importance 1
-
-US TIC Inflows Reach $133.5 Billion in June — Net foreign acquisitions of long-term securities, short-term US securities and banking flows resulted in a net TIC inflow of $133.5 billion in June 2026. Net foreign private inflows totaled $85.0 billion, while official inflows reached $48.4 billion. Foreign residents increased their holdings of long-term US securities, with net purchases totaling $207.1 billion. Private foreign investors accounted for $169.8 billion, while official institutions purchased $37.3 billion. US residents also increased their holdings of long-term foreign securities, with net purchases of $34.4 billion. After adjustments, overall net foreign purchases of long-term securities were estimated at $172.7 billion in June. Foreign residents reduced their holdings of US Treasury bills by $29.0 billion, while holdings of dollar-denominated short-term US securities and other custody liabilities fell $4.9 billion.
-
----
-
-### 2026-08-18 05:11:58  #市場
-
-週一（8月17日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7431元，較上週五紐約尾盤漲15點，日內整體交投於6.7439-6.7376元區間，整體衝高回落、北京時間16:30創2023年2月3日（最高達到6.7342元）以來盤中新高，逼近當年1月16日頂部6.6975元。
-
----
-
-### 2026-08-18 05:11:17  #國際
-
-ROCKET LAB 加入美國太空部隊價值 9.81 億美元的 NITE‑STAR 專案，推進太空測試與訓練基礎設施建設。
-
----
-
-### 2026-08-18 05:06:18  #MKT News
-
-【Kushner says U.S. and Iran have not yet reached consensus】On Aug. 17 local time, Jared Kushner, President Trump’s son-in-law, said dialogue between U.S. and Iranian government departments had reached "unprecedented" levels but that the sides had "not yet reached consensus".
-
----
-
-### 2026-08-18 05:05:17  #國際
-
-【庫什納稱美伊雙方尚未達成共識】當地時間8月17日，美國總統特朗普的女婿庫什納稱，美國與伊朗政府各部門之間的對話力度達到“前所未有”的水平，但他同時承認雙方“尚未達成共識”。（央視新聞）
-
----
-
-### 2026-08-18 05:02:58  #MKT News
-
-Venezuela interim president Rodriguez said the earthquake death toll has risen to 6,438.
-
----
-
-### 2026-08-18 05:01:28  #市場
-
-【國際金價漲0.9%，白銀漲1.7%】週一（8月17日）紐約尾盤，現貨黃金漲0.91%，報4416.25美元/盎司，絕大部分時間處於上漲狀態，交投於4367.32-4428.88美元，最近數日持穩於4400美元附近——100日均線近期也膠著於這一水平附近。現貨白銀漲1.72%，報65.7945美元/盎司，已於8月7日漲穿50日均線（該技術指標目前報61.2981美元）。COMEX銅期貨跌0.11%，報6.7070美元/磅，亞太尾盤曾達到6.8420美元，持穩於8月6日頂部6.96美元附近。
-
----
-
-### 2026-08-18 04:59:23  #市場
-
-牙買加7月消費者價格環比上漲1.2%。
-
----
-
-### 2026-08-18 04:56:28  #國際
-
-哥倫比亞總統與特朗普舉行通話，並對美方援助表示感謝。
-
----
-
-### 2026-08-18 04:52:35  #國際
-
-法國總統馬克龍：軍事規劃法案將於明日頒佈。我國軍隊預算將實現翻倍，2026 至 2030 年間軍隊將獲得 360 億歐元新增投資。
-
----
-
-### 2026-08-18 04:51:11  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Falls for Tenth Straight Session — The Ibovespa edged 0.1% lower to close at 166,784 on Monday, marking a tenth consecutive session of losses. Tensions in the Middle East persisted, with little sign of a near-term resolution. Inflationary pressures increased amid higher oil prices, weighing on financials and the broader index. Itaú shed 1.6%, Bradesco lost 1.9% and Banco do Brasil retreated 2.3%. The IBC-Br showed a slightly larger-than-expected decline, falling 0.6%, its biggest drop since May 2025. The data added to evidence of a slowing economy. Casas Bahia (-33.3%) filed for judicial recovery following a multibillion-real loss in 2Q26. Meanwhile, a Quaest poll released late Friday showed President Lula and Senator Flávio Bolsonaro in a technical tie in a potential second round of the October presidential election. The same scenario was indicated by the BTG/Nexus poll. Previous polls had shown Lula ahead of Flávio Bolsonaro, who is seen as more fiscally strict, in a potential second round.
-
----
-
-### 2026-08-18 04:48:13  #MKT News
-
-The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the midterm elections.
-
----
-
-### 2026-08-18 04:44:57  #公司
-
-明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。
 
 ---

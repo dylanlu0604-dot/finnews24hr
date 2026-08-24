@@ -1,7 +1,272 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 04:42:40_
-_本檔包含 3099 則快訊，約 622433 字_
+_更新時間：2026-08-25 05:41:13_
+_本檔包含 3109 則快訊，約 623443 字_
+
+---
+
+### 2026-08-20 09:28:46  #央行 #國際
+
+馬爾霍特拉稱印度央行的政策仍旨在抑制過度波動。
+
+---
+
+### 2026-08-20 09:28:28  #市場
+
+【糧食概念板塊低開，萬向德農、農發種業觸及跌停】糧食概念板塊低開，萬向德農、農發種業觸及跌停，秋樂種業、京糧控股、康農種業、北大荒、黑芝麻跟跌。
+
+---
+
+### 2026-08-20 09:28:20  #市場
+
+【疫苗主題ETF大漲】疫苗主題ETF大漲，疫苗ETF鵬華、疫苗ETF招商均漲停，疫苗ETF嘉實、疫苗ETF富國雙雙漲超9%，疫苗ETF國泰漲超7%；訊息面上，默沙東(MRK.N)與莫德納(MRNA.O)週三宣佈，聯合研發的黑色素瘤皮膚癌疫苗在首次晚期臨床試驗中取得積極初步結果。
+
+---
+
+### 2026-08-20 09:28:19  #MKT News #Important #Market Regions #Greater China #MRK.N #Impact bullish #MRNA.O
+
+【Vaccine-themed ETFs surge】China vaccine-themed ETFs jumped: Penghua and China Merchants vaccine ETFs hit daily limit; Harvest and Fullgoal vaccine ETFs rose over 9%; Guotai vaccine ETF climbed more than 7%. Merck (MRK.N) and Moderna (MRNA.O) on Wednesday said their jointly developed melanoma skin‑cancer vaccine produced positive preliminary results in the first late‑stage trial.
+
+---
+
+### 2026-08-20 09:28:16  #公司 #市場
+
+【創新藥板塊大幅高開，漢森製藥、哈三聯2連板】創新藥板塊大幅高開，漢森製藥、哈三聯2連板，海欣股份、中關村、萊美藥業、沃森生物、鍵凱科技、雙鷺藥業、康辰藥業、悅康藥業漲停，三元基因漲超20%，智飛生物、石藥創新漲超15%，新開源、安科生物、康泰生物漲超10%。
+
+---
+
+### 2026-08-20 09:27:52  #MKT News
+
+Aili Home shares opened and remained locked at the daily down-limit; turnover exceeded 200 million yuan.
+
+---
+
+### 2026-08-20 09:27:47  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+At the open on Aug 20 (Thu), China’s Shanghai Composite Index rose 12.78 pts (+0.33%) to 3,907.21; Shenzhen Composite Index up 142.81 pts (+1.03%) to 14,032.97; CSI 300 Index up 24.60 pts (+0.54%) to 4,613.30; ChiNext Index up 44.16 pts (+1.27%) to 3,517.65; SSE STAR 50 Index up 17.96 pts (+1.08%) to 1,685.48.
+
+---
+
+### 2026-08-20 09:27:26  #市場
+
+【創新藥、疫苗板塊大幅高開 沃森生物等多股漲停】早盤創新藥、疫苗板塊大幅高開，萊美藥業、沃森生物、康希諾、鍵凱科技、悅康藥業、雙鷺藥業、百克生物等一字漲停，智飛生物、石藥創新、康泰生物等漲超10%。
+
+---
+
+### 2026-08-20 09:27:12  #公司
+
+【瑞豐光電：公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節 技術方向存在差異】瑞豐光電(300241)8月20日在互動平臺表示，公司與彩虹股份的玻璃基板業務分屬產業鏈不同環節，技術方向存在差異：彩虹股份主營液晶顯示用基板玻璃，屬於面板上游材料端；公司的玻璃基業務屬於Mini/Micro LED顯示封裝環節，核心是在基板上完成LED封裝與光學整合。
+
+---
+
+### 2026-08-20 09:27:08  #央行 #國際
+
+印度央行行長馬爾霍特拉稱盧比匯率仍由市場決定。
+
+---
+
+### 2026-08-20 09:26:40  #MKT News #Important
+
+Newly listed Lvkong Transmission opened up 370.59% on its first trading day; issue price was 8.5 yuan per share.
+
+---
+
+### 2026-08-20 09:26:25  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Consolidates Near April Highs — US heating oil futures held above $4.40 per gallon, consolidating near their highest level since early April, on fading hopes of the reopening of the Strait of Hormuz. President Donald Trump unveiled a new package of measures, describing it as an unprecedented campaign targeting Iran’s economy. This came after Trump said no talks with Iran were taking place or planned, while asserting that the US naval blockade remained active and that the strait was open. Iran, however, countered that the waterway would remain closed until the US fulfilled its prior conditions. The lack of resolution heightened expectations of prolonged supply disruptions from the region. Tanker flows remained subdued, with limited vessels still passing through the strategic route as shipowners stayed cautious. Meanwhile, EIA data showed that distillate stockpiles, which include diesel and heating oil, fell by 1.53 million barrels in the week ended August 14.
+
+---
+
+### 2026-08-20 09:26:10  #其他
+
+C宇樹開跌6.51%，股價報790元，昨日收漲460%。
+
+---
+
+### 2026-08-20 09:26:10  #MKT News
+
+C Yushu opened down 6.51% at 790 yuan; it had closed up 460% yesterday.
+
+---
+
+### 2026-08-20 09:25:52  #MKT News #Market Regions #Japan & APAC #Market Themes #AI Revolution #USDJPY #Impact bullish #DXY
+
+【Mizuho: Japan trade deficit may persist short term】Mizuho economist Yasuhisa Irie said persistently high energy prices are keeping import costs elevated and could sustain Japan’s trade deficit in the near term. He added that until shipping via the Strait of Hormuz fully normalizes, import prices will remain high, and even if Middle East tensions ease a rebound in import volumes could raise import values faster than export gains from strong AI-related investment. Japan ran a ¥634.5 billion trade deficit in July, government data showed Thursday.
+
+---
+
+### 2026-08-20 09:25:48  #公司 #市場
+
+【綠控傳動上市首日開盤大漲超370%】綠控傳動上市首日開盤漲370.59%，現報40元，該股發行價為8.5元。按開盤價計算，投資者中一簽（500股）浮盈約1.57萬元。蘇州綠控傳動科技股份有限公司的主營業務是新能源商用車電驅動系統的研發、生產和銷售。
+
+---
+
+### 2026-08-20 09:25:44  #央行 #國際
+
+印度央行行長馬爾霍特拉稱該行的美元淨空頭頭寸“可控”。
+
+---
+
+### 2026-08-20 09:25:32  #央行 #歐洲央行
+
+【歐洲央行行長警告：歐洲不應再錯過“人工智慧革命”】歐洲央行行長拉加德當地時間19日表示，歐洲不能在人工智慧領域繼續落後，不應重蹈錯過上一輪“數字革命”的覆轍。
+
+---
+
+### 2026-08-20 09:25:28  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #XAUUSD
+
+China A-shares opened higher: Shanghai Composite +0.33%, Shenzhen Composite Index +1.03%, ChiNext Index +1.27%; innovative drug and gold sectors led gains.
+
+---
+
+### 2026-08-20 09:25:11  #焦點
+
+三大股指高開，滬指漲0.33％，深成指漲1.03％，創業板漲1.27％。
+
+---
+
+### 2026-08-20 09:24:33  #公司 #央行 #國際
+
+【歐洲央行行長警告：歐洲不應再錯過“人工智慧革命”】歐洲央行行長拉加德當地時間19日表示，歐洲不能在人工智慧領域繼續落後，不應重蹈錯過上一輪“數字革命”的覆轍。拉加德當天在世界經濟論壇的一場活動上指出，歐洲企業正在加大人工智慧投資，但美國和中國仍處於領先地位。她同時指出，歐盟市場存在“碎片化”問題，企業在融資、競爭以及擴大規模方面面臨困難，導致能夠成長為全球性企業的公司數量較少，新技術在經濟中的普及速度也較慢。拉加德還警告稱，隨著國際環境的變化，歐洲戰後經濟增長模式正面臨越來越大的挑戰。
+
+---
+
+### 2026-08-20 09:23:40  #其他
+
+【秦皇島一底商火災致8死】2026年8月20日3時40分左右，秦皇島市海港區一底商發生火災，消防、應急、衛健、公安等部門第一時間趕赴現場開展應急救援。4 時 30 分，現場明火被撲滅。事故造成8人死亡，3人送醫救治。傷者目前生命體徵平穩。事故原因調查及善後工作正在進一步開展。（秦皇島市海港區人民政府網站）
+
+---
+
+### 2026-08-20 09:23:04  #央行 #中國央行
+
+央行公告，根據公開市場業務一級交易商的需求，2026年8月20日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-20 09:22:33  #其他
+
+【港股人工智慧相關個股反彈 英矽智慧漲超6%】截至發稿，英矽智慧(03696.HK)漲6.54%，MINIMAX-W(00100.HK)漲3.69%，芯碁微裝(09630.HK)漲3.28%。
+
+---
+
+### 2026-08-20 09:22:06  #MKT News #Important #Macro & Rates
+
+【PBOC reverse repo nets CNY 327.4 bln withdrawal】PBOC did not conduct reverse repo operations today; CNY 327.4 bln of overnight reverse repos matured, leaving a net liquidity withdrawal of CNY 327.4 bln.
+
+---
+
+### 2026-08-20 09:21:54  #MKT News #Market Regions #Greater China #01024.HK #Impact bearish
+
+Kuaishou (01024.HK) shares opened 4.76% lower after the company reported 1H adjusted net profit of 7.287 bln yuan, down 28.5% YoY.
+
+---
+
+### 2026-08-20 09:21:33  #市場
+
+長和港股開盤漲2.4%。
+
+---
+
+### 2026-08-20 09:21:22  #焦點
+
+港股恒指高開漲1.11％，國企指數漲1.27％，科指漲1.69%。生物醫藥板塊、黃金股高開。
+
+---
+
+### 2026-08-20 09:21:17  #央行 #其他
+
+央行：根據公開市場業務一級交易商的需求，2026年8月20日7天期逆回購操作量為零。
+
+---
+
+### 2026-08-20 09:21:17  #MKT News #CNH
+
+PBOC said, based on demand from primary dealers in open market operations, it conducted zero 7-day reverse repo operations on Aug 20, 2026.
+
+---
+
+### 2026-08-20 09:21:04  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hong Kong open: Hang Seng Index opened 284.01 points higher (+1.11%) at 25,779.08; Hang Seng TECH Index opened 79.12 points higher (+1.69%) at 4,761.17; HSCEI opened 107.87 points higher (+1.27%) at 8,579.08; Hang Seng Redchip Index opened 50.21 points higher (+1.21%) at 4,203.42.
+
+---
+
+### 2026-08-20 09:21:02  #MKT News #Important #Market Regions #Greater China #Commodities #Precious Metals #02269.HK #Impact bullish #02259.HK #06181.HK
+
+Hong Kong open: Hang Seng +1.11%, Hang Seng Tech +1.69%. Biopharma and gold sectors led gains — WuXi Biologics (02269.HK) +7.5%, Zijin Gold International (02259.HK) +8.8%, Laopu Gold (06181.HK) +6.8%.
+
+---
+
+### 2026-08-20 09:20:04  #MKT News #Important #DXY #Impact mixed
+
+Australia's seasonally adjusted unemployment rate for July due in 10 minutes.
+
+---
+
+### 2026-08-20 09:19:49  #公司
+
+【智立方：公司產品暫未應用於MLCC領域】智立方(301312)8月20日在互動平臺表示，目前公司產品暫未應用於MLCC領域。
+
+---
+
+### 2026-08-20 09:19:20  #其他
+
+【中國中鐵總裁趙佃龍會見強腦科技客人】據中國中鐵訊息，8月17日，中國中鐵總裁、黨委副書記趙佃龍會見強腦科技合夥人何熙昱錦一行，雙方就加強推動傳統產業轉型升級、未來產業創新培育開展深入交流，並對企業數智化、融合化發展進行廣泛研討。
+
+---
+
+### 2026-08-20 09:19:02  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #Brent
+
+Polish military says it has launched precautionary military air operations after Russian air strikes on Ukraine.
+
+---
+
+### 2026-08-20 09:18:46  #國際
+
+波蘭軍方在X平臺表示，在俄羅斯對烏克蘭發動打擊期間，波蘭啟動預防性軍事航空行動。
+
+---
+
+### 2026-08-20 09:18:35  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Holds Firm — The New Zealand dollar hovered around $0.593 after rising 1% in the previous session to a two-and-a-half-month high, as the US dollar tumbled and Treasury yields retreated from multi-year highs. The U.S. Treasury announced plans to double its buybacks of longer-dated government debt, a move aimed at improving liquidity and stabilizing the bond market. The resulting decline in US yields helped ease pressure on risk-sensitive currencies despite ongoing uncertainty surrounding the Middle East conflict. Meanwhile, minutes from the Federal Reserve’s July meeting showed that policymakers remained concerned about persistent inflation, with several officials open to further interest-rate hikes. This could provide some support for the greenback and limit the kiwi's upside. Still, the kiwi remains supported by expectations of another rate hike from the Reserve Bank of New Zealand in September.
+
+---
+
+### 2026-08-20 09:17:31  #國際
+
+【烏稱基輔遭俄導彈襲擊 已致5死23傷】烏克蘭首都基輔市長克利奇科稱，當地時間8月19日深夜至20日凌晨，俄軍彈道導彈襲擊基輔，目前已造成5人死亡、23人受傷，部分地區斷電。有目擊者稱，較短時間內聽到了十餘次爆炸聲。
+
+---
+
+### 2026-08-20 09:15:59  #市場 #焦點
+
+【2026年8月20日銀行間外匯市場人民幣匯率中間價】
+人民幣兌美元中間價較上日調升46點至6.7808，中間價升值至2023年2月8日以來最高。
+美元/人民幣報6.7808，下調（人民幣升值）46點； 歐元/人民幣報7.8815，上調487點；
+港元/人民幣報0.86476，下調2.6點； 英鎊/人民幣報9.1793，上調207點；
+澳元/人民幣報4.8041，上調126點； 加元/人民幣報4.8840，上調182點；
+100日元/人民幣報4.2636，上調191點； 人民幣/俄羅斯盧布報12.5119，下調790點；
+紐西蘭元/人民幣報4.0016，上調285點； 人民幣/林吉特報0.59964，上調4.9點；
+瑞士法郎/人民幣報8.4634，上調1300點； 新加坡元/人民幣報5.3128，上調193點。
+
+---
+
+### 2026-08-20 09:15:37  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures opened the day session up 1.04% at 25,724, trading at a 229-point premium to the spot index.
+
+---
+
+### 2026-08-20 09:15:02  #市場
+
+恒指期貨日盤開盤漲1.09%，報25736.09點，高水241.02點。
+
+---
+
+### 2026-08-20 09:12:06  #公司
+
+【國安達等成立科技公司，含通用航空服務業務】企查查APP顯示，近日，施安康（上海）科技有限公司成立，經營範圍包含：民用航空器維修；通用航空服務；智慧無人飛行器銷售；衛星技術綜合應用系統整合等。企查查股權穿透顯示，該公司由國安達等共同持股。
 
 ---
 
@@ -18491,203 +18756,5 @@ Hesai-W (02525.HK) fell more than 7% after reporting earnings.
 ### 2026-08-19 09:48:07  #Trading Economics #Markets #Japan #Currency #Importance 1
 
 Japanese Yen Stays Range-Bound — The Japanese yen traded around 159.5 per dollar on Wednesday, remaining range-bound for more than a week now after giving back about half of the gains made following the joint intervention by Tokyo and Washington at the end of July. The currency continues to face persistent weakness due to wide interest rate differentials, growing fiscal concerns and elevated energy and import costs. On the monetary policy front, traders are increasingly speculating on a Bank of Japan interest rate hike in September to support the yen and curb inflation. Japan’s 10-year bond yield reached 30-year highs this week, reflecting expectations of an imminent BOJ rate increase and mounting fiscal concerns. Meanwhile, the latest data showed core machinery orders in Japan jumped 9.7% in June, exceeding forecasts and pointing to stronger capital spending among companies.
-
----
-
-### 2026-08-19 09:47:00  #市場 #焦點
-
-甲醇連續主力合約日內漲4%，現報2875.00元。
-
----
-
-### 2026-08-19 09:46:29  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌2%，現報7649.80點。
-
----
-
-### 2026-08-19 09:46:22  #其他
-
-禾賽科技港股在半年報公佈後跌7.3%。
-
----
-
-### 2026-08-19 09:46:07  #市場
-
-【人形機器人概念震盪下挫 上緯新材多股跌超10%】早盤人形機器人概念震盪下挫，中大力德、巨輪智慧觸及跌停，上緯新材、豐光精密、綠的諧波、昊志機電多股跌超10%。
-
----
-
-### 2026-08-19 09:45:59  #MKT News #Important
-
-N Yushu trading value topped CNY10 bln; shares at CNY900.8, gains pulled back to below 500%.
-
----
-
-### 2026-08-19 09:45:46  #其他
-
-N宇樹-W成交額達100億元，現漲496.29%。
-
----
-
-### 2026-08-19 09:45:32  #MKT News #Market Themes #AI Revolution #FFIE.O #Impact bullish
-
-FARADAY FUTURE (FFIE.O) said it supports an AIxC strategic transformation, focusing on physical AI and robot shared-leasing operations; RoboShare has completed its first paid commercial order and its initial robot fleet exceeds 80 units.
-
----
-
-### 2026-08-19 09:45:06  #公司
-
-【雅化集團與中建西部建設簽署戰略合作協議】據雅化集團訊息，8月18日，雅化集團與中建西部建設簽署戰略合作協議，雅化集團將與中建西部建設加強多領域協同發展，共同探索高質量可持續發展的新路徑。
-
----
-
-### 2026-08-19 09:44:59  #公司
-
-【杭蕭鋼構等投資成立生物製藥公司】企查查APP顯示，近日，杭州瑞龍堂生物製藥有限公司成立，經營範圍包含：保健食品（預包裝）銷售；地產中草藥（不含中藥飲片）購銷；中草藥種植等。企查查股權穿透顯示，該公司由杭蕭鋼構等共同持股。
-
----
-
-### 2026-08-19 09:44:35  #MKT News #Important
-
-【Multiple robot ETFs fall more than 5%】Humanoid-robot-themed ETFs weakened; several robot ETFs managed by Fullgoal, GF Fund and Penghua fell more than 5%.
-
----
-
-### 2026-08-19 09:44:27  #其他
-
-【多隻機器人ETF跌超5%】人形機器人板塊走弱。機器人ETF富國（159272）、機器人ETF廣發（159050）、機器人ETF鵬華（159278）等多隻機器人ETF跌超5%。
-
----
-
-### 2026-08-19 09:44:21  #MKT News #Market Regions #Greater China
-
-【Yushutech intraday market cap tops CNY350 bln, jumps into STAR Market top 10】Yushutech, billed as the A-share humanoid-robot pioneer, began trading on the STAR Market on Aug. 19. Shares surged more than 500% intraday, lifting market capitalization above CNY350 billion and into the STAR Market’s top 10 by size. At the IPO price of CNY150.80/share, the company’s implied valuation was about CNY61 billion, which would have ranked roughly in the 50s on the board.
-
----
-
-### 2026-08-19 09:44:20  #市場
-
-兆易創新A股下跌4.7%，港股下跌3.5%。
-
----
-
-### 2026-08-19 09:43:55  #公司
-
-【國機集團與北大荒集團簽署戰略合作框架協議 將加快推進高階農業裝備的推廣應用】8月18日，中國機械工業集團有限公司（簡稱“國機集團”）黨委書記、董事長張曉侖一行到訪北大荒集團，與北大荒農墾集團黨委書記、董事長王兆成座談，雙方圍繞數字農業發展、高階農機裝備研發應用等事宜進行深入交流。座談後，雙方簽署戰略合作框架協議，表示將發揮各自優勢、深化強強聯合，加快推進高階農業裝備的推廣應用。
-
----
-
-### 2026-08-19 09:43:52  #公司 #市場
-
-機器人概念股震盪走低，正裕工業、秦安股份雙雙跌停，上緯新材、風光精密跌超10%，巨輪智慧、中大力德、綠的諧波跌超9%。
-
----
-
-### 2026-08-19 09:43:35  #公司 #市場
-
-【宇樹科技盤中市值超3500億元，空降科創板前10名】8月19日，被稱為“A股人形機器人第一股”的宇樹科技登陸科創板正式掛牌交易，開盤後盤中漲超500%，市值超3500億元。該市值水平在科創板上市公司中排到前10名。據此前發行價格150.8元/股計算，宇樹科技估值近610億元，科創板排名50多名左右。（第一財經）
-
----
-
-### 2026-08-19 09:43:14  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Extends Advance — US heating oil futures climbed above $4.50 per gallon on Wednesday, extending gains to their highest level since March, as the deadlock over the Strait of Hormuz heightened concerns about prolonged supply disruptions. President Donald Trump said that no talks with Iran were taking place or planned, asserting that the US naval blockade remained active and that the strait was open after mines were cleared. Iran, however, countered that the waterway would remain closed until the US fulfilled its prior conditions. Traffic through the critical chokepoint came to a standstill over the weekend following attacks on vessels, underscoring persistent security risks to energy shipments. Meanwhile, Ukrainian strikes on Russian oil refineries have disrupted domestic fuel supplies, resulting in gasoline rationing in at least two regions and tighter controls on refined-product exports, with Russia extending its ban on petrol exports until January 2027 and diesel exports until August 2026.
-
----
-
-### 2026-08-19 09:43:12  #MKT News #Important
-
-Newly listed N Shuangying jumped 143.9%, triggering an intraday trading halt. Shuangying Group’s core business is R&D, production and sales of automotive seats and interior and exterior trim.
-
----
-
-### 2026-08-19 09:42:21  #公司
-
-【雷軍打新宇樹科技狂賺152億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。經梳理發現，雷軍創辦的順為資本關聯方Astrend IV持有1610.6萬股，浮盈超152億元。（中新經緯）
-
----
-
-### 2026-08-19 09:42:08  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時放量208億元。
-
----
-
-### 2026-08-19 09:41:40  #市場
-
-【創新藥概念表現活躍 西點藥業4天2板】創新藥概念表現活躍，西點藥業4天2板，九典制藥漲超10%，漢森製藥、哈三聯漲停，新贛江、金陵藥業、特寶生物跟漲。
-
----
-
-### 2026-08-19 09:41:30  #公司
-
-【宇樹創始人王興興身家超1300億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。 招股書顯示：創始人王興興直接持股21.43%，透過員工持股平臺間接持股9.84%，合計31.29%。以此計算，創始人王興興身家超1300億元。（每經）
-
----
-
-### 2026-08-19 09:40:47  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-China A-share beverage manufacturing sector slipped intraday; Yiming Food hit the daily limit down, with Huangshi Group, Western Animal Husbandry, Weilong, Juneyao Health and Sanyuan following lower.
-
----
-
-### 2026-08-19 09:40:42  #市場 #國際
-
-40年期日本國債收益率指數下跌3.0個基點至4.175%。
-
----
-
-### 2026-08-19 09:40:16  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Plunge — The benchmark KOSPI fell more than 4% to around 6,560 on Wednesday, extending losses from the previous session, as a global bond selloff weighed on investor sentiment. The US 30-year Treasury yield climbed to its highest level since 2007, while long-term bond yields also reached multi-year highs in Japan and Europe, raising concerns over higher borrowing costs and pressuring growth and technology stocks. The global technology selloff hit Korean chipmakers particularly hard, with Samsung Electronics and SK hynix falling around 6% and 7%, respectively, as they tracked losses in US semiconductor stocks. Losses were also recorded in SK Square (-9.6%), Hyundai Motor (-3.5%), KB Financial Group (-2.3%), Kia Corporation (-3.4%), and Doosan Enerbility (-3.3%). At the same time, higher oil prices added to inflation concerns after President Donald Trump said the US is not in talks with Iran, while stalled peace efforts raised fears of further disruptions to oil supplies from the Middle East.
-
----
-
-### 2026-08-19 09:40:11  #公司 #市場
-
-【飲料製造板塊短線走低，一鳴食品跌停】飲料製造板塊短線走低，一鳴食品跌停，皇氏集團、西部牧業、威龍股份、均瑤健康、三元股份等跟跌。
-
----
-
-### 2026-08-19 09:40:04  #公司 #市場
-
-【新股N雙英漲超143% 觸發臨停】新股N雙英擴大漲幅至143%，觸發臨停，成交超2.6億元。資料顯示，公司主營汽車座椅、汽車內外飾件研發、生產和銷售。
-
----
-
-### 2026-08-19 09:39:42  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #NVDA.O #Impact bullish #AMD.O #GOOGL.O
-
-【Liquid cooling for AI servers moving from optional to mainstream】TrendForce projects liquid-cooling penetration in AI servers will rise from about 38% in 2025 to 53% in 2026 and near 60% in 2027. The rise is driven by broader adoption of liquid cooling in next‑generation AI platforms from NVIDIA, AMD and Google; as chip power and rack density increase, liquid cooling is shifting from an optional add‑on for high‑power servers to mainstream AI infrastructure. Penetration topping 50% in 2026 implies incremental AI capex will increasingly flow into cooling, power and data‑center support equipment.
-
----
-
-### 2026-08-19 09:39:17  #MKT News #Market Regions #Greater China
-
-【Liang Wenfeng’s Yushu Technology allocation shows >1.1 bln yuan unrealized gain】On Aug. 19 Yushu Technology debuted on the STAR Market, surging 629.44% at 1,100 yuan/share and valuing the company at about 444.9 bln yuan. Investment vehicles linked to Liang Wenfeng — Deep Quest, Magic Square Quant and Nine Chapters Asset — were allocated roughly 1.1916 mln shares via strategic allotments and offline subscriptions; at the offering price the position carries an unrealized gain of more than 1.1 bln yuan.
-
----
-
-### 2026-08-19 09:38:50  #市場
-
-【影視院線板塊盤初走弱，北京文化跌停】影視院線板塊盤初走弱，北京文化跌停，中廣天擇、儒意電影、華智數媒、華策影視、百納千成、歡瑞世紀等跟跌。
-
----
-
-### 2026-08-19 09:38:50  #市場 #焦點
-
-紐約期金突破4410美元/盎司，日內跌0.24%。
-
----
-
-### 2026-08-19 09:38:39  #其他
-
-【港股光通訊股走弱 劍橋科技跌超6%】截至發稿，劍橋科技(06166.HK)跌6.04%，長飛光纖光纜(06869.HK)跌5.27%，匯聚科技(01729.HK)跌5.20%。
-
----
-
-### 2026-08-19 09:38:32  #市場
-
-【地產產業鏈逆勢活躍 志邦家居等多股漲停】早盤地產產業鏈逆勢活躍，家居、建材方向領漲，志邦家居、中交發展、羅普斯金、好太太漲停，尚品宅配、兔寶寶、三棵樹等跟漲。
 
 ---
