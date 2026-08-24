@@ -1,7 +1,411 @@
 {
   "date": "2026-08-24",
-  "count": 2451,
+  "count": 2493,
   "items": [
+    {
+      "id": "te:markets:577658",
+      "time": "2026-08-24 23:49:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls Below $93 Ahead of Further US Sanctions on Iran — Brent crude oil fell more than 2% to below $93 a barrel on Monday, ending a two-week rally as traders awaited details of the US plan to intensify economic pressure on Iran. Treasury Secretary Scott Bessent said the objective was to cut off Tehran’s economic lifelines, although the scope for further measures remains uncertain. Targeting China, the largest buyer of Iranian crude, could increase pressure on Tehran but also risk broader economic repercussions. Iran has previously demonstrated its ability to circumvent sanctions and has warned against countries supporting Washington’s efforts. Meanwhile, oil continues to move through the Strait of Hormuz, with shipments remaining relatively strong despite ongoing geopolitical risks. Reports suggested around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly."
+    },
+    {
+      "id": "te:markets:577656",
+      "time": "2026-08-24 23:49:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls Ahead of Further US Sanctions on Iran — Crude oil fell more than 2% to below $85 a barrel on Monday, ending a two-week rally as traders awaited details of the US plan to intensify economic pressure on Iran. Treasury Secretary Scott Bessent said the objective was to cut off Tehran’s economic lifelines, although the scope for further measures remains uncertain. Targeting China, the largest buyer of Iranian crude, could increase pressure on Tehran but also risk broader economic repercussions. Iran has previously demonstrated its ability to circumvent sanctions and has warned against countries supporting Washington’s efforts. Meanwhile, oil continues to move through the Strait of Hormuz, with shipments remaining relatively strong despite ongoing geopolitical risks. Reports suggested around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly."
+    },
+    {
+      "id": "mkt:01a03474-9bfe-7aab-90fb-64896ce14cd2",
+      "time": "2026-08-24 23:47:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "YONHAP reported South Korea's foreign minister held a phone call with U.S. Secretary of State Rubio on Monday."
+    },
+    {
+      "id": "5056028",
+      "time": "2026-08-24 23:46:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國外長與美國國務卿魯比奧於週一舉行電話會談。"
+    },
+    {
+      "id": "mkt:01a03471-85a4-7aab-90fb-5ba2b8272d19",
+      "time": "2026-08-24 23:44:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Fox News reports US Treasury Secretary Bessent will announce details of secondary sanctions on Iran."
+    },
+    {
+      "id": "te:markets:577654",
+      "time": "2026-08-24 23:43:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Monday — The FTSE 100 rose 0.4% on Monday, outperforming broader European markets. Mining stocks led the gains, with Endeavour rising more than 2%, Antofagasta 1.8%, Anglo American 1% and Rio Tinto 0.5%. The sector benefited from strong metal prices and gains in SSAB following the collapse of a proposed US-Canada trade agreement that would have lowered tariffs on Canadian steel. In contrast, energy stocks weighed on the index as oil prices started the week under pressure. BP fell nearly 3%, while Shell also edged lower despite reports that its US chemicals business has attracted interest from Exxon and Apollo, with the assets potentially valued at up to $8 billion. Healthcare stocks also declined, with AstraZeneca and GSK each down around 1%. Investors remained cautious ahead of the US plan to intensify economic pressure on Iran, with Treasury Secretary Scott Bessent expected to outline further measures later Monday."
+    },
+    {
+      "id": "mkt:01a03471-2c52-7aab-90fb-54e1f6b54692",
+      "time": "2026-08-24 23:43:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Fox News reports US Treasury Secretary Bessent will issue a final warning on severing economic ties with Iran."
+    },
+    {
+      "id": "5056027",
+      "time": "2026-08-24 23:42:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：據瞭解該策略的訊息人士透露，美國財政部長貝森特即將召開新聞釋出會，預計將詳細列出可觸發次級制裁的涉伊朗新行為，並向各國發出最後警告，要求切斷與這個 “無賴國家” 的經濟往來。"
+    },
+    {
+      "id": "5056026",
+      "time": "2026-08-24 23:41:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國財長貝森特將發出最後通牒，要求切斷與伊朗的經濟聯絡。"
+    },
+    {
+      "id": "mkt:01a0346c-ff32-7aab-90fb-4db756607d97",
+      "time": "2026-08-24 23:39:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Aug 24 (Mon) European close: Germany's DAX fell 24.26 pts (-0.09%) to 26,104.29; FTSE 100 rose 35.27 pts (+0.33%) to 10,851.83; France's CAC 40 fell 31.42 pts (-0.37%) to 8,453.01; Euro Stoxx 50 fell 16.50 pts (-0.26%) to 6,449.15; Spain's IBEX 35 rose 138.97 pts (+0.70%) to 20,100.47; Italy's FTSE MIB fell 123.04 pts (-0.23%) to 52,545.00."
+    },
+    {
+      "id": "5056025",
+      "time": "2026-08-24 23:39:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將歌爾股份評級上調至買進，目標價27元人民幣。"
+    },
+    {
+      "id": "5056024",
+      "time": "2026-08-24 23:38:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【比特幣價格自5月以來首次觸及8萬美元】行情顯示，比特幣觸及80000美元，過去24小時內漲3.6%，創5月15日以來新高。在過去的8天，比特幣累計上漲近30%。以太坊一度漲至2530.5美元，過去24小時內漲3.79%，創2月1日以來新高。"
+    },
+    {
+      "id": "5056023",
+      "time": "2026-08-24 23:36:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.18%，報26090.54點。法國股指初步收跌0.35%，義大利股指初步收跌0.29%、銀行指數漲0.57%，英國股指初步收漲0.36%。"
+    },
+    {
+      "id": "5056022",
+      "time": "2026-08-24 23:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.02%，報654.04點。歐元區STOXX 50指數初步收跌0.27%，報6444.77點。富時泛歐績優300指數初步收跌0.01%，報2614.42點。"
+    },
+    {
+      "id": "mkt:01a03468-3ee1-7aab-90fb-440f18bb7070",
+      "time": "2026-08-24 23:34:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 6-month Treasury auction on Aug. 24 — stop-out yield 3.79%, prior 3.78%."
+    },
+    {
+      "id": "mkt:01a03468-33c8-7aab-90fb-3eb12d27089b",
+      "time": "2026-08-24 23:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 6-month Treasury auction BID-COVER RATIO 3.05 on Aug 24; prior 2.97."
+    },
+    {
+      "id": "mkt:01a03468-2e10-7aab-90fb-37955b288b02",
+      "time": "2026-08-24 23:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 3-month Treasury auction as of Aug 24: bid-cover ratio 3.05, prior 2.86."
+    },
+    {
+      "id": "mkt:01a03468-2b5a-7aab-90fb-2fdd31a96f9a",
+      "time": "2026-08-24 23:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 3-month Treasury bill auction on Aug 24: 97.66% of awards at the stop-out yield, versus 44.68% previously."
+    },
+    {
+      "id": "mkt:01a03468-2afe-7aab-90fb-276a86cf9ce4",
+      "time": "2026-08-24 23:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 6-month Treasury auction as of Aug. 24: 59.64% of awards allocated at the stop-out yield, prior 18.55%."
+    },
+    {
+      "id": "mkt:01a03467-fdf4-7aab-90fb-1ba71259e609",
+      "time": "2026-08-24 23:33:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Aug.24) | actual 3.05 | previous 2.97"
+    },
+    {
+      "id": "mkt:01a03467-fde0-7aab-90fb-14df077cbcb9",
+      "time": "2026-08-24 23:33:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Aug.24) | actual 3.79% | previous 3.78%"
+    },
+    {
+      "id": "mkt:01a03467-fdd8-7aab-90fb-0eabdb92fc27",
+      "time": "2026-08-24 23:33:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Aug.24) | actual 59.64% | previous 18.55%"
+    },
+    {
+      "id": "mkt:01a03467-f90a-7aab-90fb-068b22bf75de",
+      "time": "2026-08-24 23:33:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Aug.24) | actual 97.66% | previous 44.68%"
+    },
+    {
+      "id": "mkt:01a03467-f498-7aab-90fa-fb78ca5a733a",
+      "time": "2026-08-24 23:33:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Aug.24) | actual 3.05 | previous 2.86"
+    },
+    {
+      "id": "mkt:01a03467-ea7e-7aab-90fa-f210e8a50226",
+      "time": "2026-08-24 23:33:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US 3-month Treasury auction on Aug. 24 stopped out at 3.79% (prior 3.72%)."
+    },
+    {
+      "id": "mkt:01a03467-d0f3-7aab-90fa-e93d145e6dbd",
+      "time": "2026-08-24 23:33:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Aug.24) | actual 3.79% | previous 3.72%"
+    },
+    {
+      "id": "5056021",
+      "time": "2026-08-24 23:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨西哥正努力爭取降低鋼鐵及汽車產品關稅。"
+    },
+    {
+      "id": "mkt:01a03467-20a3-7aab-90fa-e56b90a8f9a8",
+      "time": "2026-08-24 23:32:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent briefly slid $0.60 intraday; they trade at $84.30/bbl and $90.60/bbl, respectively."
+    },
+    {
+      "id": "5056020",
+      "time": "2026-08-24 23:32:32",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.715%，投標倍數3.08。拍賣六個月期國債，得標利率3.790%，投標倍數3.05。"
+    },
+    {
+      "id": "5056019",
+      "time": "2026-08-24 23:32:09",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國：非白宮渠道傳出的關稅公告相關訊息屬於猜測。"
+    },
+    {
+      "id": "mkt:01a03466-12a8-7aab-90fa-d9c29e52636c",
+      "time": "2026-08-24 23:31:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's President Sheinbaum said Mexico is working to lower tariffs on steel and autos."
+    },
+    {
+      "id": "5056018",
+      "time": "2026-08-24 23:31:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：希望 “如特朗普總統所言”，能與美國達成一項貿易協議。"
+    },
+    {
+      "id": "mkt:01a03465-7ed5-7aab-90fa-d566f673f13a",
+      "time": "2026-08-24 23:31:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Citigroup says physical demand needs to pick up to sustain the current gold rebound."
+    },
+    {
+      "id": "5056017",
+      "time": "2026-08-24 23:30:55",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗：將0-3個月黃金價格目標上調至每盎司4,800美元，之前為4,500美元。維持6-12個月目標不變，為每盎司5,000美元。 若要本輪漲勢得以持續，實物需求需要跟上。"
+    },
+    {
+      "id": "mkt:01a03465-5e23-7aab-90fa-cef920e36d0f",
+      "time": "2026-08-24 23:30:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico expects to reach a trade agreement with the United States, President Sheinbaum said."
+    },
+    {
+      "id": "mkt:01a03465-35e7-7aab-90fa-c02e9c9778a7",
+      "time": "2026-08-24 23:30:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP raises its 0-3 month gold price target to $4,800/oz from $4,500/oz and maintains the 6-12 month target at $5,000/oz."
+    },
+    {
+      "id": "mkt:01a03465-1e13-7aab-90fa-beec9153011d",
+      "time": "2026-08-24 23:30:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $84/bbl, down 2.71% intraday."
+    },
+    {
+      "id": "te:economy:577651",
+      "time": "2026-08-24 23:30:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 12 bps — Majority of government bonds yields are lower on Monday. Top losers are Brazil 10Y (-11.50bps), US 10Y (-3.70bps) and Germany 10Y (-1bps). Gains are led by Japan 10Y (0.53bps)."
+    },
+    {
+      "id": "5056016",
+      "time": "2026-08-24 23:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報84.44美元/桶。"
+    },
+    {
+      "id": "te:markets:577650",
+      "time": "2026-08-24 23:29:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 25.60 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 8.36%, and in the last 12 months, it increased 55.71%."
+    },
+    {
+      "id": "5056015",
+      "time": "2026-08-24 23:29:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普據報希望巴基斯坦促美伊復談】據路透社援引巴基斯坦多名訊息人士報道，美國總統特朗普在巴基斯坦陸軍參謀長穆尼爾今天（8月24日）啟程訪問伊朗前與其通電話。據訊息人士透露，美方的主要訴求是希望巴基斯坦利用自身影響力促使伊朗重返談判桌。 特朗普近日證實已沒有在和伊朗會談或對話，併發出警告稱，將對向伊朗提供“任何形式生命線”的國家實施制裁。伊朗方面則誓言將封鎖波斯灣的所有石油出口。（CCTV國際時訊）"
+    },
+    {
+      "id": "5056014",
+      "time": "2026-08-24 23:28:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全會議副主席德米特里·梅德韋傑夫：亞美尼亞永遠不會加入歐盟，但此舉將使其與俄羅斯的關係長期遭受嚴重破壞。"
+    },
     {
       "id": "mkt:01a03463-00a4-7aab-90fa-b044bd435ed5",
       "time": "2026-08-24 23:28:18",

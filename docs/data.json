@@ -1,7 +1,411 @@
 {
-  "updated": "2026-08-24 23:29:59",
-  "count": 15810,
+  "updated": "2026-08-24 23:52:28",
+  "count": 15808,
   "items": [
+    {
+      "id": "te:markets:577658",
+      "time": "2026-08-24 23:49:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls Below $93 Ahead of Further US Sanctions on Iran — Brent crude oil fell more than 2% to below $93 a barrel on Monday, ending a two-week rally as traders awaited details of the US plan to intensify economic pressure on Iran. Treasury Secretary Scott Bessent said the objective was to cut off Tehran’s economic lifelines, although the scope for further measures remains uncertain. Targeting China, the largest buyer of Iranian crude, could increase pressure on Tehran but also risk broader economic repercussions. Iran has previously demonstrated its ability to circumvent sanctions and has warned against countries supporting Washington’s efforts. Meanwhile, oil continues to move through the Strait of Hormuz, with shipments remaining relatively strong despite ongoing geopolitical risks. Reports suggested around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly."
+    },
+    {
+      "id": "te:markets:577656",
+      "time": "2026-08-24 23:49:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls Ahead of Further US Sanctions on Iran — Crude oil fell more than 2% to below $85 a barrel on Monday, ending a two-week rally as traders awaited details of the US plan to intensify economic pressure on Iran. Treasury Secretary Scott Bessent said the objective was to cut off Tehran’s economic lifelines, although the scope for further measures remains uncertain. Targeting China, the largest buyer of Iranian crude, could increase pressure on Tehran but also risk broader economic repercussions. Iran has previously demonstrated its ability to circumvent sanctions and has warned against countries supporting Washington’s efforts. Meanwhile, oil continues to move through the Strait of Hormuz, with shipments remaining relatively strong despite ongoing geopolitical risks. Reports suggested around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly."
+    },
+    {
+      "id": "mkt:01a03474-9bfe-7aab-90fb-64896ce14cd2",
+      "time": "2026-08-24 23:47:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "YONHAP reported South Korea's foreign minister held a phone call with U.S. Secretary of State Rubio on Monday."
+    },
+    {
+      "id": "5056028",
+      "time": "2026-08-24 23:46:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國外長與美國國務卿魯比奧於週一舉行電話會談。"
+    },
+    {
+      "id": "mkt:01a03471-85a4-7aab-90fb-5ba2b8272d19",
+      "time": "2026-08-24 23:44:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Fox News reports US Treasury Secretary Bessent will announce details of secondary sanctions on Iran."
+    },
+    {
+      "id": "te:markets:577654",
+      "time": "2026-08-24 23:43:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Monday — The FTSE 100 rose 0.4% on Monday, outperforming broader European markets. Mining stocks led the gains, with Endeavour rising more than 2%, Antofagasta 1.8%, Anglo American 1% and Rio Tinto 0.5%. The sector benefited from strong metal prices and gains in SSAB following the collapse of a proposed US-Canada trade agreement that would have lowered tariffs on Canadian steel. In contrast, energy stocks weighed on the index as oil prices started the week under pressure. BP fell nearly 3%, while Shell also edged lower despite reports that its US chemicals business has attracted interest from Exxon and Apollo, with the assets potentially valued at up to $8 billion. Healthcare stocks also declined, with AstraZeneca and GSK each down around 1%. Investors remained cautious ahead of the US plan to intensify economic pressure on Iran, with Treasury Secretary Scott Bessent expected to outline further measures later Monday."
+    },
+    {
+      "id": "mkt:01a03471-2c52-7aab-90fb-54e1f6b54692",
+      "time": "2026-08-24 23:43:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Fox News reports US Treasury Secretary Bessent will issue a final warning on severing economic ties with Iran."
+    },
+    {
+      "id": "5056027",
+      "time": "2026-08-24 23:42:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：據瞭解該策略的訊息人士透露，美國財政部長貝森特即將召開新聞釋出會，預計將詳細列出可觸發次級制裁的涉伊朗新行為，並向各國發出最後警告，要求切斷與這個 “無賴國家” 的經濟往來。"
+    },
+    {
+      "id": "5056026",
+      "time": "2026-08-24 23:41:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國財長貝森特將發出最後通牒，要求切斷與伊朗的經濟聯絡。"
+    },
+    {
+      "id": "mkt:01a0346c-ff32-7aab-90fb-4db756607d97",
+      "time": "2026-08-24 23:39:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Aug 24 (Mon) European close: Germany's DAX fell 24.26 pts (-0.09%) to 26,104.29; FTSE 100 rose 35.27 pts (+0.33%) to 10,851.83; France's CAC 40 fell 31.42 pts (-0.37%) to 8,453.01; Euro Stoxx 50 fell 16.50 pts (-0.26%) to 6,449.15; Spain's IBEX 35 rose 138.97 pts (+0.70%) to 20,100.47; Italy's FTSE MIB fell 123.04 pts (-0.23%) to 52,545.00."
+    },
+    {
+      "id": "5056025",
+      "time": "2026-08-24 23:39:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將歌爾股份評級上調至買進，目標價27元人民幣。"
+    },
+    {
+      "id": "5056024",
+      "time": "2026-08-24 23:38:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【比特幣價格自5月以來首次觸及8萬美元】行情顯示，比特幣觸及80000美元，過去24小時內漲3.6%，創5月15日以來新高。在過去的8天，比特幣累計上漲近30%。以太坊一度漲至2530.5美元，過去24小時內漲3.79%，創2月1日以來新高。"
+    },
+    {
+      "id": "5056023",
+      "time": "2026-08-24 23:36:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.18%，報26090.54點。法國股指初步收跌0.35%，義大利股指初步收跌0.29%、銀行指數漲0.57%，英國股指初步收漲0.36%。"
+    },
+    {
+      "id": "5056022",
+      "time": "2026-08-24 23:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.02%，報654.04點。歐元區STOXX 50指數初步收跌0.27%，報6444.77點。富時泛歐績優300指數初步收跌0.01%，報2614.42點。"
+    },
+    {
+      "id": "mkt:01a03468-3ee1-7aab-90fb-440f18bb7070",
+      "time": "2026-08-24 23:34:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 6-month Treasury auction on Aug. 24 — stop-out yield 3.79%, prior 3.78%."
+    },
+    {
+      "id": "mkt:01a03468-33c8-7aab-90fb-3eb12d27089b",
+      "time": "2026-08-24 23:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 6-month Treasury auction BID-COVER RATIO 3.05 on Aug 24; prior 2.97."
+    },
+    {
+      "id": "mkt:01a03468-2e10-7aab-90fb-37955b288b02",
+      "time": "2026-08-24 23:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 3-month Treasury auction as of Aug 24: bid-cover ratio 3.05, prior 2.86."
+    },
+    {
+      "id": "mkt:01a03468-2b5a-7aab-90fb-2fdd31a96f9a",
+      "time": "2026-08-24 23:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 3-month Treasury bill auction on Aug 24: 97.66% of awards at the stop-out yield, versus 44.68% previously."
+    },
+    {
+      "id": "mkt:01a03468-2afe-7aab-90fb-276a86cf9ce4",
+      "time": "2026-08-24 23:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 6-month Treasury auction as of Aug. 24: 59.64% of awards allocated at the stop-out yield, prior 18.55%."
+    },
+    {
+      "id": "mkt:01a03467-fdf4-7aab-90fb-1ba71259e609",
+      "time": "2026-08-24 23:33:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Aug.24) | actual 3.05 | previous 2.97"
+    },
+    {
+      "id": "mkt:01a03467-fdd8-7aab-90fb-0eabdb92fc27",
+      "time": "2026-08-24 23:33:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Aug.24) | actual 59.64% | previous 18.55%"
+    },
+    {
+      "id": "mkt:01a03467-fde0-7aab-90fb-14df077cbcb9",
+      "time": "2026-08-24 23:33:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Aug.24) | actual 3.79% | previous 3.78%"
+    },
+    {
+      "id": "mkt:01a03467-f90a-7aab-90fb-068b22bf75de",
+      "time": "2026-08-24 23:33:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Aug.24) | actual 97.66% | previous 44.68%"
+    },
+    {
+      "id": "mkt:01a03467-f498-7aab-90fa-fb78ca5a733a",
+      "time": "2026-08-24 23:33:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Aug.24) | actual 3.05 | previous 2.86"
+    },
+    {
+      "id": "mkt:01a03467-ea7e-7aab-90fa-f210e8a50226",
+      "time": "2026-08-24 23:33:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US 3-month Treasury auction on Aug. 24 stopped out at 3.79% (prior 3.72%)."
+    },
+    {
+      "id": "mkt:01a03467-d0f3-7aab-90fa-e93d145e6dbd",
+      "time": "2026-08-24 23:33:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Aug.24) | actual 3.79% | previous 3.72%"
+    },
+    {
+      "id": "5056021",
+      "time": "2026-08-24 23:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨西哥正努力爭取降低鋼鐵及汽車產品關稅。"
+    },
+    {
+      "id": "mkt:01a03467-20a3-7aab-90fa-e56b90a8f9a8",
+      "time": "2026-08-24 23:32:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude (WTI) and Brent briefly slid $0.60 intraday; they trade at $84.30/bbl and $90.60/bbl, respectively."
+    },
+    {
+      "id": "5056020",
+      "time": "2026-08-24 23:32:32",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.715%，投標倍數3.08。拍賣六個月期國債，得標利率3.790%，投標倍數3.05。"
+    },
+    {
+      "id": "5056019",
+      "time": "2026-08-24 23:32:09",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國：非白宮渠道傳出的關稅公告相關訊息屬於猜測。"
+    },
+    {
+      "id": "mkt:01a03466-12a8-7aab-90fa-d9c29e52636c",
+      "time": "2026-08-24 23:31:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's President Sheinbaum said Mexico is working to lower tariffs on steel and autos."
+    },
+    {
+      "id": "5056018",
+      "time": "2026-08-24 23:31:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：希望 “如特朗普總統所言”，能與美國達成一項貿易協議。"
+    },
+    {
+      "id": "mkt:01a03465-7ed5-7aab-90fa-d566f673f13a",
+      "time": "2026-08-24 23:31:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Citigroup says physical demand needs to pick up to sustain the current gold rebound."
+    },
+    {
+      "id": "5056017",
+      "time": "2026-08-24 23:30:55",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗：將0-3個月黃金價格目標上調至每盎司4,800美元，之前為4,500美元。維持6-12個月目標不變，為每盎司5,000美元。 若要本輪漲勢得以持續，實物需求需要跟上。"
+    },
+    {
+      "id": "mkt:01a03465-5e23-7aab-90fa-cef920e36d0f",
+      "time": "2026-08-24 23:30:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico expects to reach a trade agreement with the United States, President Sheinbaum said."
+    },
+    {
+      "id": "mkt:01a03465-35e7-7aab-90fa-c02e9c9778a7",
+      "time": "2026-08-24 23:30:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP raises its 0-3 month gold price target to $4,800/oz from $4,500/oz and maintains the 6-12 month target at $5,000/oz."
+    },
+    {
+      "id": "mkt:01a03465-1e13-7aab-90fa-beec9153011d",
+      "time": "2026-08-24 23:30:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $84/bbl, down 2.71% intraday."
+    },
+    {
+      "id": "te:economy:577651",
+      "time": "2026-08-24 23:30:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 12 bps — Majority of government bonds yields are lower on Monday. Top losers are Brazil 10Y (-11.50bps), US 10Y (-3.70bps) and Germany 10Y (-1bps). Gains are led by Japan 10Y (0.53bps)."
+    },
+    {
+      "id": "5056016",
+      "time": "2026-08-24 23:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報84.44美元/桶。"
+    },
+    {
+      "id": "te:markets:577650",
+      "time": "2026-08-24 23:29:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 25.60 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 8.36%, and in the last 12 months, it increased 55.71%."
+    },
+    {
+      "id": "5056015",
+      "time": "2026-08-24 23:29:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普據報希望巴基斯坦促美伊復談】據路透社援引巴基斯坦多名訊息人士報道，美國總統特朗普在巴基斯坦陸軍參謀長穆尼爾今天（8月24日）啟程訪問伊朗前與其通電話。據訊息人士透露，美方的主要訴求是希望巴基斯坦利用自身影響力促使伊朗重返談判桌。 特朗普近日證實已沒有在和伊朗會談或對話，併發出警告稱，將對向伊朗提供“任何形式生命線”的國家實施制裁。伊朗方面則誓言將封鎖波斯灣的所有石油出口。（CCTV國際時訊）"
+    },
+    {
+      "id": "5056014",
+      "time": "2026-08-24 23:28:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全會議副主席德米特里·梅德韋傑夫：亞美尼亞永遠不會加入歐盟，但此舉將使其與俄羅斯的關係長期遭受嚴重破壞。"
+    },
     {
       "id": "mkt:01a03463-00a4-7aab-90fa-b044bd435ed5",
       "time": "2026-08-24 23:28:18",
@@ -142902,413 +143306,6 @@
         "MKT News"
       ],
       "text": "【Cargo vessel hijacked off Somalia】UK Maritime Trade Operations (UKMTO) said on the 17th a cargo vessel was boarded and seized by eight armed men about 4 nautical miles (7.4 km) south of Mareyo, Somalia. Authorities are investigating; UKMTO urged ships in the area to exercise caution and report any suspicious activity."
-    },
-    {
-      "id": "5044618",
-      "time": "2026-08-17 23:52:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：我們在與庫什納的會晤中已明確表示，不會為建立巴勒斯坦國鋪平道路。"
-    },
-    {
-      "id": "5044617",
-      "time": "2026-08-17 23:51:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我科學家研發高效率三結太陽電池取得新進展】三結太陽電池廣泛應用於衛星、空間探測器等航天領域，如何利用低成本材料推動其在地面大規模應用，是當前光伏領域的重要研究方向。我國科學家近期在高效率三結太陽電池方面取得新進展，實現32.22%的認證穩態光電轉換效率。相關研究成果8月17日發表於《自然》雜誌。"
-    },
-    {
-      "id": "5044616",
-      "time": "2026-08-17 23:50:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大石油生產商因油價攀升至多年高位，其套期保值策略遭受損失，目前正效仿美國頁岩油企業，儘量不再採用該套保操作。"
-    },
-    {
-      "id": "mkt:01a01069-ab71-7aab-9066-2cfc6518ae37",
-      "time": "2026-08-17 23:49:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior Iranian official denied Iran's involvement in a drone attack on the office of the prime minister of Iraq's Kurdistan Region in Erbil, calling the incident a false-flag operation unrelated to Iran."
-    },
-    {
-      "id": "te:markets:575905",
-      "time": "2026-08-17 23:49:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Altria Stock Price Hits 16-week Low — Altria shares decreased to 64.33 USD, the lowest since April 2026. Over the past 4 weeks, Altria lost 13.77%, and in the last 12 months, it decreased 2.44%."
-    },
-    {
-      "id": "5044615",
-      "time": "2026-08-17 23:44:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特外交部：科威特外交大臣傑拉赫·賈比爾·艾哈邁德·薩巴赫週一與沙特外交大臣費薩爾·本·法爾漢親王通電話，雙方就地區局勢發展以及旨在緩和緊張局勢的外交斡旋交換意見。"
-    },
-    {
-      "id": "5044614",
-      "time": "2026-08-17 23:44:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊發言人侯賽因·穆哈比表示，特朗普所稱與革命衛隊進行幕後談判的說法，是戰敗催生的幻覺。"
-    },
-    {
-      "id": "5044613",
-      "time": "2026-08-17 23:43:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團、ABG、北歐斯安銀行（SEB）獲委任，透過大宗配售出售Mandatum公司股份。"
-    },
-    {
-      "id": "mkt:01a01063-fc03-7aab-9066-225b78308f4e",
-      "time": "2026-08-17 23:43:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow"
-      ],
-      "text": "S&P 500 losses widened to 0.2%, hitting an intraday low; the Dow fell 0.4%."
-    },
-    {
-      "id": "5044612",
-      "time": "2026-08-17 23:42:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數跌至盤中低點0.2%。"
-    },
-    {
-      "id": "5044611",
-      "time": "2026-08-17 23:42:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總理內塔尼亞胡與和平委員會達成協議】以色列總理內塔尼亞胡與和平委員會達成協議，將成立兩個工作組，專門處理加沙地帶事務。第一個工作組負責該地區的裁軍與非軍事化，第二個工作組則聚焦衛生、清潔用水及其他加沙居民的公共衛生問題。與此同時，以色列總理辦公室在內塔尼亞胡與庫什納會談結束後表示，該飛地的非軍事化工作須在其重建啟動前完成。"
-    },
-    {
-      "id": "5044610",
-      "time": "2026-08-17 23:41:17",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【滙豐：美聯儲縮減持倉將使美國國債更依賴價格敏感型買家】滙豐策略師Dhiraj Narula和經濟學家Ryan Wang在一份報告中表示，如果美聯儲縮減其持有的美國國債，美國國債市場可能會更加依賴對價格更為敏感的買家。"
-    },
-    {
-      "id": "5044609",
-      "time": "2026-08-17 23:40:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：霍爾木茲海峽僵局令特朗普大為受挫，白宮幕僚之間開始互相推諉，同時美方針對伊朗經濟開展心理戰。"
-    },
-    {
-      "id": "mkt:01a01060-46e9-7aab-9066-1d80244f1835",
-      "time": "2026-08-17 23:39:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL CENTRAL BANK governor galipolo said the monetary policy cycle is driven more by domestic factors than by global developments."
-    },
-    {
-      "id": "mkt:01a0105f-0c66-7aab-9066-1004ea3722b3",
-      "time": "2026-08-17 23:37:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL CENTRAL BANK governor galipolo said progress is needed on the supply side and the bank will seek productivity gains."
-    },
-    {
-      "id": "5044608",
-      "time": "2026-08-17 23:37:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【巴克萊任命Khan和美國銀行的Joo為投資銀行新任負責人】巴克萊為投資銀行業務任命新的領導人，晉升全球市場主管Adeel Khan，並延攬美國銀行前投行人士Mike Joo。電子郵件宣告顯示，Khan和Joo將出任投資銀行聯席執行長。Khan將在倫敦繼續負責全球市場業務，Joo則將駐紐約領導投資銀行業務，相關任命將於2027年2月生效。"
-    },
-    {
-      "id": "mkt:01a0105e-e91c-7aab-9066-08e870106493",
-      "time": "2026-08-17 23:37:30",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Aug 17 (Mon) European equities closed lower: Germany DAX fell 97.04 points (-0.37%) to 26,335.82; UK FTSE 100 down 30.96 points (-0.29%) at 10,719.15; France CAC 40 down 57.20 points (-0.66%) at 8,579.60; Euro Stoxx 50 down 10.24 points (-0.16%) at 6,529.35; Spain IBEX 35 down 183.06 points (-0.91%) at 19,973.54; Italy FTSE MIB down 9.61 points (-0.02%) at 53,574.00."
-    },
-    {
-      "id": "5044607",
-      "time": "2026-08-17 23:37:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "以色列極右翼財政部長貝扎萊爾·斯莫特里奇表示，消滅哈馬斯的目標與同其領導人談判相互矛盾，這些領導人“本就不該存活於世”。"
-    },
-    {
-      "id": "mkt:01a0105e-22de-7aab-9066-01dcb47ee6e7",
-      "time": "2026-08-17 23:36:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BRAZIL CENTRAL BANK governor galipolo said demand growth across components exceeds supply, and monetary policy’s task is to rebalance supply and demand via interest rates."
-    },
-    {
-      "id": "mkt:01a0105d-ee58-7aab-9065-fa8163c5903a",
-      "time": "2026-08-17 23:36:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Office of the Minister for Canada‑U.S. Trade said Minister Leblanc and chief negotiator Charette will meet U.S. Trade Representative Greer and Commerce Secretary Lutnick at the U.S. Commerce Department in Washington at 13:00 ET today (01:00 Beijing time tomorrow)."
-    },
-    {
-      "id": "5044606",
-      "time": "2026-08-17 23:36:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "負責美國貿易事務的加拿大部長勒布朗與首席談判代表沙雷特將於美國東部時間13:00，在華盛頓特區商務部與美國貿易代表格里爾及商務部長盧特尼克舉行會晤。"
-    },
-    {
-      "id": "5044605",
-      "time": "2026-08-17 23:34:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：一枚俄羅斯巡航導彈擊中摩爾多瓦境內。"
-    },
-    {
-      "id": "mkt:01a0105b-8767-7aab-9065-f47383f5210c",
-      "time": "2026-08-17 23:33:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. 6-month Treasury auction as of Aug 17 — percentage of awards at the stop-out yield 18.55%, prior 96.11%."
-    },
-    {
-      "id": "mkt:01a0105b-5482-7aab-9065-e98e6513bdf1",
-      "time": "2026-08-17 23:33:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. 3-month Treasury auction on Aug. 17: percentage of allotment awarded at the stop-out yield 44.68%, prior 82.94%."
-    },
-    {
-      "id": "mkt:01a0105b-53e2-7aab-9065-e110b4b891f9",
-      "time": "2026-08-17 23:33:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Accepted at High (Aug.17) | actual 18.55% | previous 96.11%"
-    },
-    {
-      "id": "mkt:01a0105b-2eb4-7aab-9065-deeb42cf22e6",
-      "time": "2026-08-17 23:33:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Accepted at High (Aug.17) | actual 44.68% | previous 82.94%"
-    },
-    {
-      "id": "mkt:01a0105a-da91-7aab-9065-d66430cf4c2a",
-      "time": "2026-08-17 23:33:04",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 6-month Treasury auction bid-cover ratio 2.97 on Aug. 17; prior 2.85."
-    },
-    {
-      "id": "5044604",
-      "time": "2026-08-17 23:33:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【五角大樓下令30所大學對與外國實體間的科研合作進行全面審查】美國國防部發布宣告稱，已要求30所高校“立即對與受關注外國實體之間的學術、資金和科研合作展開全面審查”。五角大樓沒有點名具體高校。宣告稱，此舉旨在保護美國科研投資，防止未經授權的技術轉移和智慧財產權盜竊。"
-    },
-    {
-      "id": "mkt:01a0105a-bcbe-7aab-9065-cecad594ba1b",
-      "time": "2026-08-17 23:32:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US 6-month Treasury auction on Aug 17: stop-out yield 3.78%, prior 3.83%."
-    },
-    {
-      "id": "mkt:01a0105a-b510-7aab-9065-c4129941bffc",
-      "time": "2026-08-17 23:32:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Aug.17) | actual 2.97 | previous 2.85"
-    },
-    {
-      "id": "mkt:01a0105a-9ca6-7aab-9065-bd30fc0f44b9",
-      "time": "2026-08-17 23:32:48",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction High Yield Rate (Aug.17) | actual 3.78% | previous 3.83%"
-    },
-    {
-      "id": "mkt:01a0105a-97e6-7aab-9065-b1ddecaacc57",
-      "time": "2026-08-17 23:32:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y"
-      ],
-      "text": "US 3-month Treasury auction on Aug. 17: bid-cover ratio 2.86, prior 2.88."
-    },
-    {
-      "id": "mkt:01a0105a-81a4-7aab-9065-aa3d4c495f75",
-      "time": "2026-08-17 23:32:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. 3-month Treasury bill auction settled Aug 17 — stop-out yield 3.715% vs 3.74% prior."
-    },
-    {
-      "id": "mkt:01a0105a-7a13-7aab-9065-a75e3f6d4b72",
-      "time": "2026-08-17 23:32:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Aug.17) | actual 2.86 | previous 2.88"
-    },
-    {
-      "id": "mkt:01a0105a-63b5-7aab-9065-9f65742e0306",
-      "time": "2026-08-17 23:32:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction High Yield Rate (Aug.17) | actual 3.715% | previous 3.74%"
-    },
-    {
-      "id": "5044603",
-      "time": "2026-08-17 23:32:29",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣三個月期國債，得標利率3.715%，投標倍數2.86。拍賣六個月期國債，得標利率3.780%，投標倍數2.97。"
-    },
-    {
-      "id": "5044602",
-      "time": "2026-08-17 23:32:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "L3Harris股價跌幅擴大至4.3%，創盤中新低，此前其執行長離職。"
-    },
-    {
-      "id": "5044601",
-      "time": "2026-08-17 23:31:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀上漲近3%，至每盎司66.54美元。"
-    },
-    {
-      "id": "5044600",
-      "time": "2026-08-17 23:31:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "禮來加拿大公司：不同意加拿大稅務局申請中的定性描述，將在適當時候透過法院程式正式回應。"
-    },
-    {
-      "id": "5044599",
-      "time": "2026-08-17 23:31:14",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.12%，歐洲斯托克指數上漲0.03%，歐元區藍籌股指數下跌0.02%。英國富時100指數下跌0.2%，德國DAX指數下跌0.27%，法國CAC 40指數下跌0.59%，西班牙IBEX指數下跌0.71%。"
-    },
-    {
-      "id": "mkt:01a01059-06b1-7aab-9065-933123bf0760",
-      "time": "2026-08-17 23:31:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SoftBank to invest $200 million in Gravis Robotics."
-    },
-    {
-      "id": "5044598",
-      "time": "2026-08-17 23:30:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：五角大樓研判，沒有任何軍事方案能夠保障霍爾木茲海峽的安全與穩定。"
-    },
-    {
-      "id": "5044597",
-      "time": "2026-08-17 23:30:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國俄克拉荷馬州格倫普爾天然氣儲罐發生大型火災，當局開展處置，當地居民已疏散。"
-    },
-    {
-      "id": "mkt:01a01058-0ea4-7aab-9065-8df6b20a3b22",
-      "time": "2026-08-17 23:30:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian sources reported the Pentagon concluded that no military plan can guarantee security and stability in the Strait of Hormuz."
     }
   ]
 }
