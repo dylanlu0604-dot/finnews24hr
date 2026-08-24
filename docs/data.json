@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-25 03:02:03",
-  "count": 15822,
+  "updated": "2026-08-25 03:06:14",
+  "count": 15820,
   "items": [
+    {
+      "id": "mkt:01a03529-b088-7aab-90fe-685a2e7da482",
+      "time": "2026-08-25 03:05:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI's GPT-5.6 model series is now live on software development platform KIRO."
+    },
+    {
+      "id": "5056134",
+      "time": "2026-08-25 03:04:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部宣佈成立量子就緒特別工作組。"
+    },
+    {
+      "id": "mkt:01a03528-b386-7aab-90fe-61a857c2bcf7",
+      "time": "2026-08-25 03:04:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll shows U.S. public support for war with Iran has fallen to 31%, the lowest level since the conflict began."
+    },
+    {
+      "id": "5056133",
+      "time": "2026-08-25 03:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社/益普索調查發現，特朗普支援率維持在33%，持平其總統任期最低水平。"
+    },
+    {
+      "id": "5056132",
+      "time": "2026-08-25 03:04:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社與益普索聯合開展的民調顯示，美國民眾對伊朗戰爭的支援率已降至31%，為衝突爆發初期以來的最低水平。"
+    },
+    {
+      "id": "5056131",
+      "time": "2026-08-25 03:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗經濟部長阿里·馬達尼扎德：我們已為美國製裁做好充分準備，他們（美國）無法切斷我們的金融命脈。"
+    },
+    {
+      "id": "mkt:01a03526-7160-7aab-90fe-5d48c3b6ffcf",
+      "time": "2026-08-25 03:01:46",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.57% at 25,599, trading 82 points premium to the cash index."
+    },
     {
       "id": "te:economy:577689",
       "time": "2026-08-25 03:00:04",
@@ -143354,90 +143415,6 @@
         "市場"
       ],
       "text": "【芝加哥大豆期貨漲約2%，大豆油漲超2.6%】週一（8月17日）紐約尾盤，彭博穀物分類指數漲1.14%，報32.4651點，美股開盤以來持續走高，最近兩個交易日累計上漲3.50%。CBOT玉米期貨漲1.19%，報4.89美元/蒲式耳。CBOT小麥期貨跌0.04%，報6.8925美元/蒲式耳。CBOT大豆期貨漲1.97%，報12.16美元/蒲式耳，最近四天累計上漲4.04%；豆粕期貨漲0.79%，豆油期貨漲2.62%。CBOT瘦肉豬期貨跌0.09%，活牛期貨跌0.10%，飼牛期貨跌0.05%。"
-    },
-    {
-      "id": "mkt:01a0111d-cd48-7aab-9068-a7afc7a8c12e",
-      "time": "2026-08-18 03:06:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Kushner says talks are currently positive and proactive."
-    },
-    {
-      "id": "mkt:01a0111d-8295-7aab-9068-9a139eaf6425",
-      "time": "2026-08-18 03:05:41",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Kushner: we have not yet reached a consensus."
-    },
-    {
-      "id": "5044733",
-      "time": "2026-08-18 03:05:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "庫什納：特朗普會在伊朗相關協議問題上保持耐心。"
-    },
-    {
-      "id": "mkt:01a0111d-49b0-7aab-9068-96d2ac549e07",
-      "time": "2026-08-18 03:05:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Kushner, Trump's son-in-law, said US–Iranian government dialogue across multiple channels is more active than ever."
-    },
-    {
-      "id": "mkt:01a0111d-01dc-7aab-9068-8f3fa516557a",
-      "time": "2026-08-18 03:05:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "The Times reports U.S. Trade Representative Greer said Trump's threat to impose 100% tariffs on the UK \"is not bluster.\""
-    },
-    {
-      "id": "5044732",
-      "time": "2026-08-18 03:04:55",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "庫什納：我們尚未達成共識。"
-    },
-    {
-      "id": "5044731",
-      "time": "2026-08-18 03:04:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "庫什納：對話積極且富有成效。"
-    },
-    {
-      "id": "5044730",
-      "time": "2026-08-18 03:04:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "庫什納：美國與伊朗政府不同部門之間的對話，比以往任何時候都更為深入。"
-    },
-    {
-      "id": "5044729",
-      "time": "2026-08-18 03:03:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7417元，較上週五夜盤收盤漲5點。成交量311.47億美元。"
     }
   ]
 }
