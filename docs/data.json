@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-24 13:55:30",
-  "count": 15687,
+  "updated": "2026-08-24 13:59:49",
+  "count": 15685,
   "items": [
+    {
+      "id": "5054636",
+      "time": "2026-08-24 13:58:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寶馬首次展示全新一代駕駛輔助系統：新世代BMW iX3率先全系標配，未來更多BMW車型將搭載】2026年成都車展期間，寶馬首次展示全新一代駕駛輔助系統——BMW智慧駕駛輔助。該系統面向中國真實出行場景打造，為中國使用者帶來全場景覆蓋、人車協同、安全為先的智慧駕駛輔助體驗。新世代BMW iX3全系標配BMW智慧駕駛輔助系統，實現城區及高速領航輔助的全場景覆蓋。未來更多全新寶馬車型將搭載BMW智慧駕駛輔助系統，實現“油電同智”。依託BMW與Momenta深度合作，系統採用Momenta R7強化學習與世界模型，基於150億公里中國道路資料進行AI訓練，並透過高畫質攝像頭與毫米波雷達組成的高效能感知硬體方案，實現多樣化場景下的穩健感知，推動系統從“感知環境”向“理解環境”升級。（新浪科技）"
+    },
+    {
+      "id": "te:markets:577497",
+      "time": "2026-08-24 13:58:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set to Open Lower — European equity markets were set to open flat to slightly lower on Monday as investors turned cautious ahead of a busy week. Investors will focus on Fed Chair Kevin Warsh’s first Jackson Hole speech, along with key US economic data, for clues on the outlook for inflation and interest rates. Treasury yields eased alongside oil prices, with Brent falling toward $93 a barrel, as investors awaited Bessent’s fiscal consolidation plans and details of his planned economic measures against Iran, which he described as the “single greatest financial offensive ever.” In corporate news, Nvidia’s earnings will be closely watched for signs of the sustainability of the AI spending boom. In premarket trading, Euro Stoxx 50 futures were down 0.1%, while Stoxx 600 futures were flat."
+    },
+    {
+      "id": "5054635",
+      "time": "2026-08-24 13:57:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中際旭創市值跌破1萬億元】8月24日盤中，光模組廠商中際旭創（300308.SZ）跌超9%，市值跌破1萬億元。訊息面上，中際旭創上週五晚間釋出了半年報。上半年該公司營收417.78億元，同比增長182.49%，淨利潤136.51億元，同比增長241.7%。不過，上半年中際旭創經營活動產生的現金流量淨額同比下降了44.08%至18億元。中際旭創解釋稱，經營性現金流支出絕大部分為購買原材料，包括大量提前備貨。"
+    },
+    {
+      "id": "5054634",
+      "time": "2026-08-24 13:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安證券：維持邁普醫學\"推薦\"評級，看好公司長期發展】平安證券研報指出，邁普醫學業績穩健增長，Q2環比顯著提速。2026H1實現歸母淨利潤5658萬元，yoy+19.62%，單Q2來看公司實現歸母淨利潤3587萬元，yoy+55.01%。公司是神經外科領域領軍企業，創新優勢顯著，國內外同步發展，新產品有望不斷開啟成長空間。考慮到集採落地節奏等問題，根據中報我們調整預測公司2026-28年分別實現歸母淨利潤1.45/1.81/2.21億元（原26-27年預測為1.54/2.15億元），由於公司國內外產品放量趨勢不變，經營趨勢持續向好，看好公司長期發展，維持\"推薦\"評級。"
+    },
+    {
+      "id": "5054633",
+      "time": "2026-08-24 13:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博古爾曼爆料，蘋果今年秋季會大規模重新調整線下零售店陳列布局，改造家庭裝置展示專區。除 Apple TV、HomePod mini 迭代產品之外，大規模改造更指向傳聞已久帶螢幕 HomePod 家庭中控。"
+    },
+    {
+      "id": "5054632",
+      "time": "2026-08-24 13:54:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "澳洲聯邦銀行外匯策略師Samara Hammoud表示，對美國財政主導風險、政府債務可持續性以及美元貶值的擔憂，預計本週將繼續對美元構成壓力。美國財政部長貝森特此前提高了市場對本週將公佈預算整固計劃的預期。如果整固措施力度有限，將令市場預期落空，並進一步打壓美元。"
+    },
     {
       "id": "5054631",
       "time": "2026-08-24 13:54:03",
@@ -17,6 +71,15 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨下跌2%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608243850995965",
+      "time": "2026-08-24 13:53:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【巴克萊：美聯儲主席沃什可能會主張減少美聯儲對前瞻指引的使用】巴克萊利率策略師在報告中表示，美聯儲主席沃什可能會主張減少美聯儲對前瞻指引的使用，因為他認為前瞻指引是過去政策失誤的一個來源；預計沃什還將強調經濟的長期驅動因素，尤其是生產率趨勢及其對潛在增長的影響；沃什不太可能提供近期政策指引，但市場將尋求瞭解FOMC計劃如何讓通脹回到2%目標的更多資訊。"
     },
     {
       "id": "5054629",
@@ -142896,92 +142959,6 @@
         "其他"
       ],
       "text": "【航行警告！溫州甌飛灘以東水域軍事活動】據中國海事局網站訊息，溫州海事局釋出航行警告，8月18日13時30分至15時30分、8月19日14時30分至16時30分、8月20日9時至16時30分，溫州甌飛灘以東水域開展軍事訓練，禁止駛入。"
-    },
-    {
-      "id": "5043574",
-      "time": "2026-08-17 13:59:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美媒：哈馬斯領導人與庫什納會談】據美國阿克西奧斯新聞網站16日援引知情人士的話報道，美國總統特朗普的女婿庫什納當天與巴勒斯坦伊斯蘭抵抗運動（哈馬斯）政治局主席哈利勒·哈亞在埃及舉行會談，重點談及哈馬斯解除武裝問題。這名知情人士稱，“庫什納告訴他們（哈馬斯），在解除武裝問題上沒有談判餘地，但如果他們拿出實際行動，美國將盡力確保以色列也採取相應步驟”。（新華社）"
-    },
-    {
-      "id": "5043573",
-      "time": "2026-08-17 13:58:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【宇樹科技釋出“超人”】宇樹科技：原地跳高2米，極限速度12.66m/s，（0.85米腿長），超越全世界全人類原地跳高和奔跑速度記錄。全新整機剛用3個多月研發出來，未來幾個月還有很大的完善空間。"
-    },
-    {
-      "id": "5043572",
-      "time": "2026-08-17 13:58:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念震盪回升 東方材料漲停】午後算力租賃概念震盪回升，東方材料漲停，此前鴻博股份、甘諮詢漲停，宇順電子、威星智慧、日科化學、朗科科技、弘信電子、邁信林等跟漲。"
-    },
-    {
-      "id": "mkt:01a00e4c-15cb-7aab-9057-9c6eb0626b83",
-      "time": "2026-08-17 13:57:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. to auction $16bn 20-year Treasury on Wednesday; will long-end pressure rise?】The U.S. Treasury will auction $16bn of 20-year notes on Wednesday. Pre-auction trading yield is around 5.27%; if the stop-out holds, it would be the highest since the tenor was reintroduced in 2020. Recent 10-year and 30-year auction stop-out yields were 4.683% and 5.216%, the highest since 2007 and 2001, respectively. High stop-out yields have not implied demand failure—last week's 30-year bid-cover ratio was 2.39. Market-watch items: whether the stop-out exceeds pre-auction trading (a tail), the share of indirect bidders, and the proportion taken by primary dealers. A clear tail and rising dealer uptake would indicate investors are demanding wider fiscal, inflation and term premia and the long end is decoupling from the Fed policy path; if high yields instead attract long-term buyers, it would signal markets are absorbing supply."
-    },
-    {
-      "id": "5043571",
-      "time": "2026-08-17 13:57:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【融創房地產集團等被恢復執行21.3億】天眼查法律訴訟資訊顯示，近日，融創房地產集團有限公司等新增一則恢復執行資訊，執行標的21.3億餘元，執行法院為江西省南昌市中級人民法院。該公司成立於2003年1月，法定代表人為汪孟德，註冊資本150.15億人民幣，經營範圍包括房地產開發及商品房銷售、物業管理、自有房屋租賃、房地產資訊諮詢等。"
-    },
-    {
-      "id": "5043570",
-      "time": "2026-08-17 13:57:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲6%，現報5166.00元。"
-    },
-    {
-      "id": "5043569",
-      "time": "2026-08-17 13:56:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“林肯”號水兵厭戰：一場不該打的仗】伊朗戰事延宕超過5個月，何時結束尚未可知。多家美國媒體爆料，美軍“林肯”號核動力航空母艦因在海上航行8個多月，部署期多次延長，加上物資短缺、生活條件糟糕，艦員士氣低落、厭戰情緒滋生，已有多人精神崩潰，試圖跳海。一些艦員表示，艦上士氣低落，他們有時不得不一天工作12至16小時，稱那樣的日子為“土撥鼠日”。有艦員說，比起生活條件差、工作強度大，最大的問題還是不知道何時能回家。“這次部署比以往糟糕得多，主要原因是我們本不該來這裡打這場仗。”一名不願公開姓名的水兵說。（新華社）"
-    },
-    {
-      "id": "mkt:01a00e4a-b523-7aab-9057-93ae613f05b0",
-      "time": "2026-08-17 13:56:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "【CATL says core operations carbon neutral by end-2025; 20 plants ISO14068-1 certified】CATL said at a press event in Ningde, Fujian that its core operations achieved carbon neutrality by end-2025, and it is the only battery maker at TWh-scale shipments to claim core-operational carbon neutrality. The company published its first value-chain carbon-neutral roadmap to 2035 and said the effort marks a shift from company-only measures to industry ecosystem co-construction. Chairman and CEO Zeng Yiqun said 20 battery plants have been certified under ISO14068-1 as zero-carbon factories and that 100% of core operational power use is zero-carbon."
-    },
-    {
-      "id": "mkt:01a00e4a-83c4-7aab-9057-8f1f7593810e",
-      "time": "2026-08-17 13:55:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister said the government will continue cooperating with Saudi Arabia and Turkey to play a constructive role in defending Pakistan's and the region's security."
     }
   ]
 }

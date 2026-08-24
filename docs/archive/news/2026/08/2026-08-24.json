@@ -1,7 +1,61 @@
 {
   "date": "2026-08-24",
-  "count": 780,
+  "count": 787,
   "items": [
+    {
+      "id": "5054636",
+      "time": "2026-08-24 13:58:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寶馬首次展示全新一代駕駛輔助系統：新世代BMW iX3率先全系標配，未來更多BMW車型將搭載】2026年成都車展期間，寶馬首次展示全新一代駕駛輔助系統——BMW智慧駕駛輔助。該系統面向中國真實出行場景打造，為中國使用者帶來全場景覆蓋、人車協同、安全為先的智慧駕駛輔助體驗。新世代BMW iX3全系標配BMW智慧駕駛輔助系統，實現城區及高速領航輔助的全場景覆蓋。未來更多全新寶馬車型將搭載BMW智慧駕駛輔助系統，實現“油電同智”。依託BMW與Momenta深度合作，系統採用Momenta R7強化學習與世界模型，基於150億公里中國道路資料進行AI訓練，並透過高畫質攝像頭與毫米波雷達組成的高效能感知硬體方案，實現多樣化場景下的穩健感知，推動系統從“感知環境”向“理解環境”升級。（新浪科技）"
+    },
+    {
+      "id": "te:markets:577497",
+      "time": "2026-08-24 13:58:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set to Open Lower — European equity markets were set to open flat to slightly lower on Monday as investors turned cautious ahead of a busy week. Investors will focus on Fed Chair Kevin Warsh’s first Jackson Hole speech, along with key US economic data, for clues on the outlook for inflation and interest rates. Treasury yields eased alongside oil prices, with Brent falling toward $93 a barrel, as investors awaited Bessent’s fiscal consolidation plans and details of his planned economic measures against Iran, which he described as the “single greatest financial offensive ever.” In corporate news, Nvidia’s earnings will be closely watched for signs of the sustainability of the AI spending boom. In premarket trading, Euro Stoxx 50 futures were down 0.1%, while Stoxx 600 futures were flat."
+    },
+    {
+      "id": "5054635",
+      "time": "2026-08-24 13:57:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中際旭創市值跌破1萬億元】8月24日盤中，光模組廠商中際旭創（300308.SZ）跌超9%，市值跌破1萬億元。訊息面上，中際旭創上週五晚間釋出了半年報。上半年該公司營收417.78億元，同比增長182.49%，淨利潤136.51億元，同比增長241.7%。不過，上半年中際旭創經營活動產生的現金流量淨額同比下降了44.08%至18億元。中際旭創解釋稱，經營性現金流支出絕大部分為購買原材料，包括大量提前備貨。"
+    },
+    {
+      "id": "5054634",
+      "time": "2026-08-24 13:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【平安證券：維持邁普醫學\"推薦\"評級，看好公司長期發展】平安證券研報指出，邁普醫學業績穩健增長，Q2環比顯著提速。2026H1實現歸母淨利潤5658萬元，yoy+19.62%，單Q2來看公司實現歸母淨利潤3587萬元，yoy+55.01%。公司是神經外科領域領軍企業，創新優勢顯著，國內外同步發展，新產品有望不斷開啟成長空間。考慮到集採落地節奏等問題，根據中報我們調整預測公司2026-28年分別實現歸母淨利潤1.45/1.81/2.21億元（原26-27年預測為1.54/2.15億元），由於公司國內外產品放量趨勢不變，經營趨勢持續向好，看好公司長期發展，維持\"推薦\"評級。"
+    },
+    {
+      "id": "5054633",
+      "time": "2026-08-24 13:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博古爾曼爆料，蘋果今年秋季會大規模重新調整線下零售店陳列布局，改造家庭裝置展示專區。除 Apple TV、HomePod mini 迭代產品之外，大規模改造更指向傳聞已久帶螢幕 HomePod 家庭中控。"
+    },
+    {
+      "id": "5054632",
+      "time": "2026-08-24 13:54:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "澳洲聯邦銀行外匯策略師Samara Hammoud表示，對美國財政主導風險、政府債務可持續性以及美元貶值的擔憂，預計本週將繼續對美元構成壓力。美國財政部長貝森特此前提高了市場對本週將公佈預算整固計劃的預期。如果整固措施力度有限，將令市場預期落空，並進一步打壓美元。"
+    },
     {
       "id": "5054631",
       "time": "2026-08-24 13:54:03",
@@ -17,6 +71,15 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨下跌2%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608243850995965",
+      "time": "2026-08-24 13:53:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【巴克萊：美聯儲主席沃什可能會主張減少美聯儲對前瞻指引的使用】巴克萊利率策略師在報告中表示，美聯儲主席沃什可能會主張減少美聯儲對前瞻指引的使用，因為他認為前瞻指引是過去政策失誤的一個來源；預計沃什還將強調經濟的長期驅動因素，尤其是生產率趨勢及其對潛在增長的影響；沃什不太可能提供近期政策指引，但市場將尋求瞭解FOMC計劃如何讓通脹回到2%目標的更多資訊。"
     },
     {
       "id": "5054629",
