@@ -1,7 +1,29 @@
 {
   "date": "2026-08-25",
-  "count": 194,
+  "count": 196,
   "items": [
+    {
+      "id": "te:markets:577686",
+      "time": "2026-08-25 02:42:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slips as Markets Await US Inflation and Fed Signals — Silver erased early gains to trade slightly lower at around $68.5 an ounce on Monday, remaining near its highest level since mid-June. Investors are awaiting US inflation data and comments from Federal Reserve Chair Kevin Warsh this week for further clues on the interest-rate outlook. Silver gained more than 6% last week after a US Treasury buyback support plan pushed the dollar to multi-month lows. Markets are focused on the July PCE price index due Wednesday and Warsh’s speech at the Jackson Hole Symposium on Friday. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries maintaining business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt."
+    },
+    {
+      "id": "te:markets:577685",
+      "time": "2026-08-25 02:39:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds Near Three-Month High as Dollar Remains Under Pressure — Gold pared earlier gains on Monday afternoon but remained around $4,640 an ounce, its highest level since May 14, as technical buying supported a rally fueled by a weaker dollar and the US Treasury’s recent buyback announcement. Bullion gained more than 5% last week after the buyback plan pushed the dollar to multi-month lows. Markets are now focused on the July PCE price index due Wednesday and Fed Chair Kevin Warsh’s speech at the Jackson Hole Symposium on Friday for clues on the interest-rate outlook. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries that maintain business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt."
+    },
     {
       "id": "mkt:01a0350f-686b-7aab-90fe-4675aa8a82c6",
       "time": "2026-08-25 02:36:37",
