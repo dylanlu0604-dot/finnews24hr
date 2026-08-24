@@ -1,7 +1,198 @@
 {
   "date": "2026-08-24",
-  "count": 854,
+  "count": 876,
   "items": [
+    {
+      "id": "te:economy:577518",
+      "time": "2026-08-24 15:05:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Czechia Business Confidence Holds Steady in August — The Czech business confidence indicator was unchanged at 100.2 in August 2026, as stronger sentiment in industry offset declines across construction and trade, while services confidence edged lower. Industrial confidence rose to 98.1 from 97.8 in July, marking the highest reading since March. Meanwhile, construction confidence fell to 112.6 from 113.2, while trade sentiment weakened to 92.2 from 93.3. Confidence in selected services eased to 102.2 from 102.4."
+    },
+    {
+      "id": "5054719",
+      "time": "2026-08-24 15:05:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "kpler追蹤資料顯示，經過霍爾木茲海峽的石油流量已降至670萬桶/日，船隻通行量顯著減少。"
+    },
+    {
+      "id": "5054718",
+      "time": "2026-08-24 15:05:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "波斯灣海峽管理局表示，違反伊朗霍爾木茲海峽通行規定的船隻可能面臨罰款、扣押或沒收。"
+    },
+    {
+      "id": "5054717",
+      "time": "2026-08-24 15:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西桂平通報“富航9689”船失控漂流事件：已安全停泊 無人員傷亡】8月24日，廣西桂平市應急管理局釋出情況通報：8月23日22時許，“富航9689”船在桂平市鬱江橋江段失控漂流。接報後，相關部門立即組織人員前往現場處置，22時40分左右，船隻已安全停泊，無人員傷亡。（央視新聞）"
+    },
+    {
+      "id": "5054715",
+      "time": "2026-08-24 15:04:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列航空獲得美國聯邦航空管理局批准，可以運營飛往美國的航班。"
+    },
+    {
+      "id": "5054714",
+      "time": "2026-08-24 15:03:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報4785.8億元，較昨日此時放量456.03億元】截至目前，ETF兩市成交額報4785.8億元，較昨日此時放量456.03億元，分型別來看，股票型ETF成交額1563.72億元，債券型ETF成交額2237.95億元，貨幣型ETF成交額243.13億元，商品型ETF成交額176.06億元，QDII型ETF成交額564.94億元。"
+    },
+    {
+      "id": "5054713",
+      "time": "2026-08-24 15:02:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國海證券：維持貴州茅臺“買入”評級，期待更多市場化成果顯現】國海證券研報指出，持續深化市場化，引導供需適配。2026年1月以來，貴州茅臺錨定消費者“公平、保真、便捷”的要求，主要從產品體系、價格機制、商業模式、渠道佈局、供應鏈組織等五個方面進行了改革。認為公司本屆領導班子團結務實、執行能力較強，2026年以市場化改革謀新局，產品體系、價格機制到渠道佈局全面向真實需求靠攏，過去積累的社會庫存、價格倒掛及投機性需求等歷史包袱逐步出清，最為困難的時期或已過去。管理班子團結務實，前期改革藍圖持續落地，期待更多市場化成果顯現，維持“買入”評級。"
+    },
+    {
+      "id": "5054712",
+      "time": "2026-08-24 15:02:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯泰蘭蒂斯米蘭上市股票早盤下跌2.6%。"
+    },
+    {
+      "id": "5054711",
+      "time": "2026-08-24 15:01:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【收評：雙創指數均跌超3%，貴金屬、煤炭板塊逆勢走強】市場全天震盪調整，雙創指數均跌超3%。貴金屬板塊逆勢走強，深中華A3連板，四川黃金、湖南白銀漲停。煤炭板塊集體拉昇，大有能源、上海能源、美錦能源漲停。下跌方面，生物醫藥板塊下挫，雙鷺藥業、麗珠集團跌停；CPO等算力硬體股下挫，共進股份跌停。個股跌多漲少，滬深京三市超3900股飄綠，今日成交2.02萬億。截止收盤滬指跌0.59%，深成指跌2.13%，創業板指跌3.21%。"
+    },
+    {
+      "id": "5054710",
+      "time": "2026-08-24 15:01:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：韓國股市上行面臨三道關卡】韓國綜合指數（KOSPI）本月迎來反彈，三星電子、SK海力士的股東回報方案、英偉達財報、美國利率，被視作決定股指能否繼續上行的幾大關鍵變數。 韓亞證券24日釋出分析稱，韓國綜合指數想要延續上漲動能，必須闖過這三道關卡。 韓亞證券預計，經歷7月大跌之後，韓國綜合指數將走出√型（根號形態）反彈行情。該指數從8月低點已經反彈31.4%。三星電子大規模現金回饋有望托住市場底部，但英偉達的高盈利預期、美國長期利率的波動風險，會限制指數進一步上行空間。"
+    },
+    {
+      "id": "5054709",
+      "time": "2026-08-24 15:01:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓證券交易委員會考慮提高股票經紀商的資本金要求。"
+    },
+    {
+      "id": "5054708",
+      "time": "2026-08-24 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.59%，深證成指跌2.13%，創業板指跌3.21%。"
+    },
+    {
+      "id": "5054707",
+      "time": "2026-08-24 15:01:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：煤炭ETF領漲2.43%，生物醫藥ETF領跌5.63%】ETF收盤漲跌不一，煤炭ETF（515220）領漲2.43%，有色ETF（159049）漲2.20%，紅利價值ETF（563700）漲2.17%，生物醫藥ETF（159508）領跌5.63%，生物醫藥ETF（159859）跌5.54%，科創創新藥ETF（589720）跌5.45%。"
+    },
+    {
+      "id": "5054706",
+      "time": "2026-08-24 15:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量1248億元。"
+    },
+    {
+      "id": "5054705",
+      "time": "2026-08-24 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續漲5.14%，乙二醇連續漲4.75%，焦炭連續漲2.92%，線材連續漲2.89%，黃金連續漲2.86%，鉑連續漲2.77%。"
+    },
+    {
+      "id": "5054704",
+      "time": "2026-08-24 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌1.38%， 滬深300指數期貨連續跌1.12%， 中證500指數期貨連續跌1.77%， 上證50指數期貨連續跌0.38%。"
+    },
+    {
+      "id": "5054703",
+      "time": "2026-08-24 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.59%，英國富時100指數漲0.64%，法國CAC40指數漲0.37%，歐洲斯托克50指數漲0.63%，義大利富時MIB指數持平。"
+    },
+    {
+      "id": "5054702",
+      "time": "2026-08-24 15:00:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【印度4‑6月航空客運服務價格同比大漲31.9%】印度商務部初步資料顯示，該國4‑6月航空客運服務價格指數同比上漲31.9%。據測算，航空客運服務價格指數環比上漲18.2%。4‑6月養老金基金管理服務價格同比上漲5.2%，鐵路客運服務價格上漲3.5%。4‑6月證券交易服務價格下跌1.32%。電信服務價格同比上漲0.72%；保險服務價格上漲0.98%。"
+    },
+    {
+      "id": "5054701",
+      "time": "2026-08-24 14:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江啟動海上防颱風應急響應】今年第18號颱風“沙德爾”8月24日8時位於臺灣台北市偏東方向約1520公里的洋麵上，中心附近最大風力16級（超強颱風級）。根據《浙江省防汛防颱抗旱應急預案》，經會商研判，省防指決定於8月24日14時啟動海上防颱風應急響應。沿海各地和省級有關成員單位要密切關注颱風發展趨勢，迅速啟用“1833”聯合指揮體系，按照防汛防颱應急預案和防禦工作方案，有序做好重點船舶避風、在港船舶錨固、海上航線停航、涉海旅遊景區關停、漁排養殖及海上施工專案人員撤離等各項海上防颱風工作。（杭州釋出）"
+    },
+    {
+      "id": "te:markets:577514",
+      "time": "2026-08-24 14:58:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Steady at Over Three-Month High — The euro held above $1.165 in the final full week of August, its strongest since mid-May, as investors anticipate a more hawkish ECB amid geopolitical tensions and await details on Iran sanctions. The ECB is widely expected to raise interest rates in September, following its June tightening to curb inflation pressures triggered by the US-Iran conflict and its impact on energy prices. Oil remains above $90 per barrel, with risks of further supply constraints for refined fuels, low gas inventories, and a prolonged conflict that could extend beyond November's US midterm elections. A September hike would lift the deposit rate to 2.5%, but bets on further tightening are rising. Markets see a 25% chance of 3% by March 2027 and 60% by September. Meanwhile, US Treasury Secretary Scott Bessent will hold a press conference after threatening \"the toughest sanctions in history\" on Iran, with markets watching for potential China targets. Iran’s foreign minister dismissed the sanctions as desperate."
+    },
+    {
+      "id": "5054700",
+      "time": "2026-08-24 14:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡馬錫支援的 Azalea 基金已獲得超 10 億美元出資承諾。"
+    },
+    {
+      "id": "5054699",
+      "time": "2026-08-24 14:57:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴克萊：歐洲房地產股估值應圍繞現金流展開】巴克萊分析師重新調整歐洲地產股估值方法，轉為以自由現金流為核心的估值框架，必要時輔以股息貼現模型。此次摒棄此前會計總回報估值方法，帶來多項評級調整：Safestore、Segro 上調評級；Big Yellow、Unite、Merlin Properties、Swiss Prime、Shurgard 遭下調。估值邏輯的轉變，體現分析師對該行業投資評估思路：“應當將其視作一批運營實體，依靠合同保障獲取收入、實現現金流增長，而非靜態地產資產組合，主要依靠估算的定期總資產價值進行定價。”"
+    },
     {
       "id": "5054698",
       "time": "2026-08-24 14:57:33",
