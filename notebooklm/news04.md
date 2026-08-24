@@ -1,7 +1,349 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 06:58:16_
-_本檔包含 3128 則快訊，約 623057 字_
+_更新時間：2026-08-25 07:32:14_
+_本檔包含 3143 則快訊，約 623553 字_
+
+---
+
+### 2026-08-20 10:01:52  #其他
+
+【工信部副部長辛國斌：推動機器人產業創新發展，聚焦農業、醫療、養老、應急等重點行業】工業和資訊化部副部長辛國斌在2026世界機器人大會上表示，工業和資訊化部推動機器人產業創新發展。一是強化創新合作，鼓勵中外科研機構、企業開展聯合攻關，打通產學研用創新鏈條，共同推動智慧化升級。二是深化應用聯動，聚焦農業、醫療、養老、應急等重點行業，分類組織開展產用結對攻關、實地應用驗證和成熟場景推廣，共同推動產業化程序。三是堅持以人為本，秉持向上向善理念，推動技術向善、科技為民，兼顧效率提升與就業保障，讓機器人更好服務人的生產生活。
+
+---
+
+### 2026-08-20 10:01:19  #市場
+
+【合成生物板塊掀漲停潮】合成生物板塊掀漲停潮，衛光生物、近岸蛋白、智飛生物、華大智造、康希諾、沃森生物等十餘股封漲停板。
+
+---
+
+### 2026-08-20 10:01:14  #其他
+
+【山東省菏澤市政府黨組成員、副市長楊新勝接受審查調查】中央紀委國家監委網站8月20日通報，據山東省紀委監委訊息：山東省菏澤市政府黨組成員、副市長，鄆城縣委書記楊新勝涉嫌嚴重違紀違法，目前正接受山東省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-20 10:00:55  #公司
+
+【今起吉爾吉斯斯坦、越南公民可適用240小時過境免籤政策】國家移民管理局今天釋出公告，自2026年8月20日起，吉爾吉斯斯坦、越南公民可適用240小時過境免籤政策和海南30天入境免籤政策來華，240小時過境免籤政策適用國家增至57國，海南30天入境免籤政策適用國家增至61國。（央視新聞）
+
+---
+
+### 2026-08-20 10:00:53  #其他
+
+【光纖概念板塊走高，長盈通漲超15%】光纖概念板塊走高，長盈通漲超15%，太辰光、三旺通訊漲超10%，通鼎互聯、優利德、仕佳光子、騰景科技、萬隆光電跟漲。
+
+---
+
+### 2026-08-20 10:00:20  #公司 #國際
+
+【日企被曝涉足武器裝備引發反對】日本媒體近日曝出，日本樂天集團將與德國赫爾辛公司合作，推動後者向日本自衛隊供應進攻型無人機，並爭取未來在日本國內實現量產。對此，日本一家經營商品目錄雜誌和購物網站等業務的企業8月18日對日本樂天集團的這一做法表示反對，並取消入駐日本樂天集團旗下電商平臺。該企業宣告強調，日本企業應當堅守日本憲法第九條的“不戰誓言”。此外，也有日本網民擔憂日企介入武器裝備領域可能加劇地區緊張局勢。（CCTV國際時訊）
+
+---
+
+### 2026-08-20 10:00:11  #市場
+
+蔚來汽車港股上漲4.8%，報36.44港元，小鵬汽車股價上漲3.7%，小米股價上漲3.4%。
+
+---
+
+### 2026-08-20 10:00:08  #市場
+
+大盤主力淨流入超100億。
+
+---
+
+### 2026-08-20 09:59:34  #MKT News #Important
+
+China A-share vaccine/biotech sector extended gains, with Shiyao Innovation hitting the daily price limit. Earlier Seili Medical, Haipure, Zhifei Biological, Jindike and Wantai Biopharm also hit limit-up; Dongfulong and Kangtai Biotech advanced more than 15%.
+
+---
+
+### 2026-08-20 09:59:08  #公司 #市場
+
+【醫藥生物板塊持續走高 石藥創新等近20股20cm漲停】醫藥生物板塊盤中持續走高，疫苗、細胞免疫、重組蛋白、基因編輯等方向均表現亮眼，石藥創新、博騰股份、和元生物、康希諾、鍵凱科技、華大智造等近20股錄得20cm漲停，森萱醫藥、東富龍、康泰生物、藥石科技等多股漲超10%。
+
+---
+
+### 2026-08-20 09:56:56  #市場
+
+【PCB概念震盪走強 寶鼎科技漲停】PCB概念震盪走強，寶鼎科技漲停，中英科技漲超11%，勝宏科技、迅捷興、生益科技、南亞新材跟漲。
+
+---
+
+### 2026-08-20 09:56:33  #公司
+
+【王興興：機器人兩三年內或迎關鍵突破】2026世界機器人大會論壇於8月19日-22日在北京舉辦，宇樹科技股份有限公司創始人、董事長王興興在演講中談到，對於通用機器人究竟何時能真正走進大眾生活、走進普通家庭的問題，他指出，目前全球範圍內，該領域最大的發展瓶頸是具身智慧的泛化能力不足。 “簡單來說，當前全球多數AI模型，在固定場景中經過充足的資料採集和專項訓練後，任務成功率基本可以接近100%。但只要更換操作物品、或是稍微改變環境，機器人的任務成功率就會出現大幅下降。”他說。 王興興表示，從發展週期來看，快則兩到三年，慢則五到十年，行業有望迎來關鍵突破。 他強調，未來的產業爆發臨界點十分明確：當我們可以將一臺機器人帶入任意陌生的家庭環境，它能夠依靠語音語言指令，自主完成80%左右的日常任務，這就意味著具身智慧實現了實質性突破，也是通用機器人產業迎來爆發的重要臨界點。
+
+---
+
+### 2026-08-20 09:55:42  #公司
+
+【上海家化退出絲芙蘭在中國的兩家聯營公司】上海家化公告，為進一步聚焦主營業務，擬以7000萬歐元（約合人民幣5.55億元）向Sephora Asia出售其持有的絲芙蘭上海19%股權和絲芙蘭北京19%股權。絲芙蘭上海和絲芙蘭北京分別在2004年和2006年成立，是上海家化和Sephora Asia的合資公司，負責運營絲芙蘭在中國的線上線下業務。兩家合資公司均由Sephora Asia持股81%，上海家化持股19%。Sephora Asia為LVMH集團的全資孫公司。2023年到2025年，上海家化對這兩家公司的投資損益連續三年虧損。截至公告日，上海家化對兩家公司的長期股權投資賬面價值已減記至零，即賬面上已無價值。此次交易完成後，上海家化不再持有其股權，預計將增加公司稅後投資收益約人民幣4.74億元。此次交易也產生了避免同業競爭的協議。上海家化及其子公司自交割日起兩年內，不得直接或間接參與或從事在中國境內開設或經營香化多品牌零售店，但可以透過單品牌化妝品零售店、百貨商店專櫃、公司自有且專門售賣自產產品的多品牌門店，分銷其自產的化妝品。（介面新聞記者 朱詠玲）
+
+---
+
+### 2026-08-20 09:54:33  #其他
+
+王興興：真實人類資料對訓練人形機器人至關重要。
+
+---
+
+### 2026-08-20 09:54:20  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #SSE Composite
+
+【Beijing Yizhuang to accelerate 100,000‑unit scale mass production of embodied‑intelligence robots】At the World Robot Conference in Beijing Yizhuang on Aug. 19, Li Quan, committee member and deputy director of the Beijing Economic‑Technological Development Area management committee, unveiled "Beijing Jiyu," a plan for a human‑machine integrated embodied‑intelligence society. Beijing Yizhuang said it will speed development of 100 commercially deployable specialist robot models and push applications across 1,000 niche use cases; accelerate mass production of embodied‑intelligence robots at a 100,000‑unit scale; and build production capacity for 1 million sets of key core components.
+
+---
+
+### 2026-08-20 09:54:12  #市場 #觀點
+
+黃金概念持續走高，赤峰黃金漲停，興業銀錫、寶鼎科技、深中華A此前漲停，盛達資源、招金黃金、山東黃金漲超9%，曉程科技、潮宏基、中金黃金等跟漲。
+
+---
+
+### 2026-08-20 09:54:10  #MKT News #Important #Market Regions #Greater China #Commodities #Precious Metals
+
+China A-share gold sector continued to rally. Chifeng Gold hit the daily limit; Xingye Silver-Tin, Baoding Technology and Shen Zhonghua A earlier hit the limit. Shengda Resources, Zhaojin Gold and Shandong Gold rose more than 9%. Xiaocheng Technology, Chaohongji and Zhongjin Gold also gained.
+
+---
+
+### 2026-08-20 09:53:44  #其他
+
+【北京亦莊：將加快實現10萬臺套級具身智慧機器人規模量產】據“北京亦莊”公眾號訊息，8月19日，2026世界機器人大會在北京亦莊開幕。在“開放合作”主論壇上，北京經開區工委委員、管委會副主任李全釋出“北京機域”——人機共融具身智慧新社會建設構想。北京亦莊將加快打造100款可實際落地的特色機器人產品，推動其在1000種細分領域實現應用；加快實現10萬臺套級具身智慧機器人規模量產，形成100萬套關鍵核心零部件生產能力。
+
+---
+
+### 2026-08-20 09:53:41  #市場
+
+【藥明康德盤中漲超5%】A股藥明康德盤中漲5.0%，現報172.20元。
+
+---
+
+### 2026-08-20 09:53:27  #經濟數據 #日本
+
+【日本7月晶片等電子部件出口同比增長49.1%】日本財務省資料顯示，日本7月晶片等電子部件出口同比增長49.1%，半導體制造裝置出口同比增長40.9%。
+
+---
+
+### 2026-08-20 09:52:40  #其他
+
+王興興：在生產線上已實現“用機器人生產機器人”。
+
+---
+
+### 2026-08-20 09:52:09  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bearish #SSE Composite
+
+China A-share humanoid-robot theme weakened again: Zhongda Lide and Zhengyu Industrial hit daily down-limits for a second straight day, Yushu Technology fell more than 15%, and Jintuo, Wolong Electric Drive, Estun and Shangwei New Materials each tumbled over 7%.
+
+---
+
+### 2026-08-20 09:50:00  #公司 #其他
+
+【直擊WRC丨宇樹科技王興興：目前人形機器人的效能相對較低，技術精進後會大規模推廣】2026世界機器人大會（WRC 2026）期間，宇樹科技創始人、董事長髮布主題演講。王興興現場解答為什麼其產品沒有進行在工廠，家庭等場景大規模推廣，“其實最主要的原因就是目前整體的效率和它的能力還是不夠，簡單來說就是雖然目前我們機器人能做一些工作，但是它的效率其實跟人比起來還是低一些。”此外，他還表示，現在人形機器人當有一些新任務時，要重新進行訓練，導致效率相對更低一點，“所以我們還是希望把技術做到更加泛化，能力更加精準，再在具體場景中進行大規模推進。”（新浪科技）
+
+---
+
+### 2026-08-20 09:49:52  #市場 #焦點
+
+現貨黃金失守4490美元/盎司，日內跌0.74%。
+
+---
+
+### 2026-08-20 09:49:52  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,490/oz, down 0.73% on the day.
+
+---
+
+### 2026-08-20 09:49:52  #MKT News
+
+Unitree Robotics chairman, general manager and CTO Wang Xingxing said robotics development may accelerate beyond his prior estimates, representing a fresh starting point for the industry.
+
+---
+
+### 2026-08-20 09:49:40  #公司 #市場
+
+【人形機器人概念再度走弱 中大力德2連跌停】早盤人形機器人概念再度走弱，中大力德、正裕工業連續2日跌停，宇樹科技跌超14%，晉拓股份、臥龍電驅、埃斯頓、上緯新材均跌超7%。
+
+---
+
+### 2026-08-20 09:49:12  #公司
+
+【鈦動科技宣佈完成新一輪融資】8月20日，AI營銷科技公司鈦動科技宣佈完成新一輪融資。本輪融資由華泰泛大西洋基金領投，鯤鵬光遠、廣汽資本、金沙江創投等機構跟投。鈦動科技也是華泰泛大西洋基金的首個人民幣投資專案。據悉，本輪融資資金將重點用於鈦動科技鈦極專業大模型和Navos多智慧體等AI技術的打磨，以及AI人才的引進。未來鈦動科技將圍繞智慧體商業（Agentic Commerce）、智慧體協作（Agent-to-Agent, A2A）與生成式引擎最佳化（GEO）全面佈局。
+
+---
+
+### 2026-08-20 09:48:33  #其他
+
+王興興：可能未來機器人發展比我預估的還會更快一點，是一個全新的起點，全新的開始。
+
+---
+
+### 2026-08-20 09:48:24  #MKT News #Market Themes #AI Revolution
+
+Unitree Robotics chairman, general manager and CTO Wang Xingxing said the company expects a new era of rapid autonomous evolution in humanoid robots.
+
+---
+
+### 2026-08-20 09:48:08  #其他
+
+【哥倫比亞西南部一礦井發生爆炸，至少3人死亡】當地時間8月19日晚，哥倫比亞國家災害風險管理局納里尼奧省負責人加夫列爾·奧卡尼亞表示，該省波利卡爾帕市一處礦井發生爆炸事故，根據初步統計，目前已造成3人死亡、7人受傷，另有8人失蹤。納里尼奧省省長路易斯·阿方索·埃斯科瓦爾在其社交媒體表示，正協調波利卡爾帕市政府調動相關部門力量處置事故，並安排災害風險管理局人員趕赴現場。（央視新聞）
+
+---
+
+### 2026-08-20 09:47:44  #其他
+
+王興興：未來十年，在人工智慧熱潮的推動下，機器人的進化程序將加速。
+
+---
+
+### 2026-08-20 09:47:28  #其他
+
+王興興：人形機器人將迎來自主快速進化的新時代。
+
+---
+
+### 2026-08-20 09:46:31  #MKT News #Market Themes #China EV Leaders #09866.HK #Impact bullish #02015.HK #09868.HK
+
+Hong Kong-listed new-energy vehicle stocks advanced: Nio (09866.HK) and Li Auto (02015.HK) climbed over 5%; XPeng (09868.HK) +3.7%; Xiaomi (01810.HK) +3.6%; Leapmotor (09863.HK) +3.2%.
+
+---
+
+### 2026-08-20 09:46:06  #公司
+
+港股創新藥板塊走高，雲頂新耀現漲48%，中國生物製藥漲17%，石藥集團漲超13%，復星醫藥漲7%。
+
+---
+
+### 2026-08-20 09:45:45  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Strengthens as Dollar, Yields Retreat — The Japanese yen traded near 158 per dollar on Thursday after gaining nearly 1% in the previous session, supported by a sharp decline in the dollar and retreating Treasury yields as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. Still, the yen remained under pressure over the longer term due to wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. Latest data also showed Japan’s trade deficit widened sharply in July as imports surged to a record high on increased crude oil purchases, while export growth remained robust, supported by strong demand for AI-related chips.
+
+---
+
+### 2026-08-20 09:45:43  #市場 #國際
+
+韓國KOSPI指數日內大漲6.00%。個股方面，SK海力士漲超12%，三星電子漲超8%。
+
+---
+
+### 2026-08-20 09:45:40  #MKT News #Important #Market Regions #Emerging Markets
+
+South Korea's KOSPI index rose 6.00% intraday to 6,861.17.
+
+---
+
+### 2026-08-20 09:45:08  #市場
+
+在岸人民幣兌美元<CNY=CFXS>走強至6.7212元，創2023年2月2日以來新高。
+
+---
+
+### 2026-08-20 09:44:30  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量651億元。
+
+---
+
+### 2026-08-20 09:44:09  #MKT News
+
+Chinese robotics firm Yushu Technology chairman, general manager and CTO Wang Xingxing said the company is behind in developing robots for real-world applications.
+
+---
+
+### 2026-08-20 09:44:01  #其他
+
+王興興：我們在機器人實際場景應用開發方面滯後。
+
+---
+
+### 2026-08-20 09:43:56  #MKT News
+
+Wang Xingxing, chairman, general manager and CTO of Yushu Technology, said the main global bottleneck for embodied intelligence is that model inputs and outputs diverge from the real world.
+
+---
+
+### 2026-08-20 09:43:21  #公司
+
+宇樹科技CEO王興興：希望幾年內能將能完成80%家務的機器人帶入家庭。
+
+---
+
+### 2026-08-20 09:42:57  #公司 #市場
+
+【模擬晶片概念震盪走高 思瑞浦漲超10%】早盤模擬晶片概念震盪走高，思瑞浦漲超10%，納芯微、聖邦股份、康希通訊、南芯科技、敏芯股份、卓勝微漲幅靠前。
+
+---
+
+### 2026-08-20 09:42:43  #MKT News #Important #Market Regions #Greater China #01952.HK #Impact bullish #01093.HK #02196.HK
+
+Hong Kong innovative drug stocks rallied: 01952.HK surged 47%, 01177.HK rose 17%, CSPC PHARMA (01093.HK) climbed over 13%, and Fosun Pharma (02196.HK) gained 7%.
+
+---
+
+### 2026-08-20 09:42:33  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #XAUUSD #DXY #Impact bullish
+
+【JP Morgan: US Treasury bond buybacks risk credibility】JP Morgan strategists warned markets may view the US Treasury’s surprise effort to suppress long-term financing costs via expanded bond buybacks as lacking credibility, which could lift the term premium and Treasury yields over time. The Treasury on Wednesday said it would at least double buyback size to provide “greater liquidity support,” a move intended to lower long-term yields. JP Morgan called the measure a stopgap, noting the US is near full employment while running roughly a 6% fiscal deficit; strategists including Jay Barry wrote that without genuine fiscal consolidation, the market may find the action not credible and that any shift away from a “regular and predictable” debt-management posture could push term premia and yields higher. US Treasury debt has topped $40 trillion, complicating control of funding costs amid ongoing issuance. A market survey showed about 60% of respondents expect US debt conditions to worsen until a major crisis.
+
+---
+
+### 2026-08-20 09:42:11  #其他
+
+墨西哥索諾拉州州長稱，在發現首例螺旋蠅蛆病例後已啟動應急機制。
+
+---
+
+### 2026-08-20 09:42:05  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Rebound — The benchmark KOSPI climbed more than 5% to around 6,830 on Thursday, rebounding sharply from the previous session’s 5.8% plunge as easing US Treasury yields helped restore risk appetite. The retreat in long-term Treasury yields followed the US Treasury’s announcement that it would significantly increase debt buybacks, easing concerns over rising borrowing costs that had weighed heavily on global equities. At the same time, Wall Street closed higher overnight, with the S&P 500 and Nasdaq advancing, providing further support for Korean shares. Chipmakers led the recovery, with Samsung Electronics rising around 7% and SK hynix jumping nearly 11% after announcing a record KRW 40 trillion share buyback and cancellation plan, which is expected to enhance shareholder returns and support its valuation. Other notable performers included SK Square (6.9%), LG Energy Solution (2.2%), Samsung C&T (5.3%), Samsung SDI (5.3%), Celltrion (2.2%), LG Electronics (1.2%), and SK Inc (4.7%).
+
+---
+
+### 2026-08-20 09:42:04  #Trading Economics #Economy #Australia #Employment Change #Importance 1
+
+Australia Employment Unexpectedly Falls — Employment in Australia dropped by 15,800 to 14.81 million in July 2026, shifting from an upwardly revised 80,300 jump in the previous month and missing market expectations for a 15,000 gain. It marked the first monthly decline since April, driven by a 32,200 decline in part-time employment to a three-month low of 4.60 million. Meanwhile, full-time employment rose by 16,300 to a new peak of 10.21 million. The employment-to-population ratio fell to 63.9% from 64.1%, marking the first drop in three months. The participation rate slipped to 66.9% from 67.1%. Compared with a year earlier, total employment was up by 191,900, or 1.3%.
+
+---
+
+### 2026-08-20 09:42:01  #公司
+
+宇樹科技CEO王興興：最大的瓶頸是人工智慧模型的輸入與輸出。
+
+---
+
+### 2026-08-20 09:41:30  #其他
+
+【自然資源部：加快實施新一輪找礦突破戰略行動，推動戰略性礦產資源增儲上產】8月19日，自然資源部黨組召開會議。會議要求，圍繞有效擴大國內需求，強化自然資源要素保障。充分發揮國土空間規劃基礎作用，加快建設自然資源管理和國土空間規劃“一張圖”，統籌重大工程專案空間佈局，加強用地用林用草用海保障，確保重點專案早落地、早開工、早見效。圍繞加快現代化產業體系建設，不斷增強發展內生動力。加快實施新一輪找礦突破戰略行動，推動戰略性礦產資源增儲上產；推動印發海洋經濟高質量發展的政策檔案，拓展海洋經濟發展空間；突出科學保護、系統治理、合理利用，加強生態系統保護，堅決打好“三北”工程攻堅戰，壯大林草產業；推動地理資訊新型基礎設施建設，促進地理資訊產業發展。
+
+---
+
+### 2026-08-20 09:41:11  #其他
+
+【棲息地完成7億元A輪融資】8月20日，棲息地宣佈成功完成A輪融資，融資規模7億元人民幣。這是棲息地智慧新住宅繼2024年完成6.53億元首輪融資後再一次融資，也是三年內中國最大的一級市場大家居產業融資。據悉，本輪融資由常州新北區科創基金領投，資金將重點用於在常州投資建設智慧住宅全球總部及研發中心、具身智慧實驗室與生產級AI設計與交付系統，加速AI原生智慧住宅的深度研發與生態化平臺增長戰略落地。
+
+---
+
+### 2026-08-20 09:40:58  #公司
+
+宇樹科技CEO王興興：我們最大的投資是全球人工智慧模型。
+
+---
+
+### 2026-08-20 09:40:29  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields #USDJPY #Impact bearish
+
+Japan 40-year bond yield falls 9.5 bps to 4.055%.
+
+---
+
+### 2026-08-20 09:39:41  #公司 #市場
+
+【化纖概念盤初走強，尤夫股份直線漲停】化纖概念盤初走強，尤夫股份直線漲停，恆逸石化、匯隆新材、蒙泰高新、東方盛虹、桐昆股份、榮盛石化等跟漲。
+
+---
+
+### 2026-08-20 09:39:26  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Languishes at 3-Month Low — The dollar index held around 98.8 on Thursday, hovering near its lowest level in three months as the US government moved to contain long-term borrowing costs by expanding its bond buyback program. The US Treasury Department said it would at least double the size of liquidity-support buyback operations covering securities with maturities from 10 to 30 years, as the recent surge in yields heightened concerns over market liquidity and stability. The move signaled that the US Treasury was prepared to take a more active role in the bond market to limit long-term yields, potentially improving dollar liquidity across the global financial system. Meanwhile, minutes from the Federal Reserve’s July meeting confirmed that some policymakers favored raising interest rates this year to prevent stronger inflationary pressures from emerging later. Elsewhere, heightened uncertainty in the Middle East, with the US and Iran remaining at a stalemate, kept inflation risks in focus.
 
 ---
 
@@ -18618,257 +18960,5 @@ Hong Kong stocks tick higher; the Hang Seng Index has turned positive and the Ha
 ### 2026-08-19 10:21:58  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
 
 【Shanghai to build AI pilot industry cluster centered on Zhangjiang, prioritizing compute and large models】Shanghai Science and Technology Commission issued a development plan for the Zhangjiang High‑Tech Zone outlining an AI pilot industry cluster led by Zhangjiang core park with Xuhui and Caohejing parks as demonstration zones. Policy targets include boosting compute, large models, corpora/data, scientific intelligence and applications; priorities are advancing intelligent computing via optical and neuromorphic chip architectures, creating an autonomous compute stack that integrates supercomputing and AI computing with cloud‑edge‑end coordination, and building the Pujiang public compute service platform. The plan also backs next‑generation large models (including brain‑inspired computing), establishes a model‑acceleration facility and a Zhangjiang AI innovation town, and supports domestic compute adaptation and ecosystem integration for multimodal models.
-
----
-
-### 2026-08-19 10:21:51  #其他 #焦點
-
-【上海：聚焦算力等重點領域創新，形成以張江核心園等為示範引領的人工智慧先導產業叢集】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。
-
----
-
-### 2026-08-19 10:21:13  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
-
-USD/CAD fell to 1.3877 after Trump suspended additional tariffs.
-
----
-
-### 2026-08-19 10:20:17  #其他
-
-【東方證券：AI4S正賦能多學科與產業 從基礎模型、算力底座到產業落地 】東方證券釋出研報稱，目前AI4S已覆蓋生命科學、地球科學、能源材料等領域，但行業滲透率偏低，未來有望邁入規模化價值變現新階段。AI4S正賦能多學科與產業，包括生物醫藥、材料能源、工業模擬、氣象環境、農業育種等賽道。AI4S的快速發展和迭代進步，在科學模型側、算力基礎設施建設與運營、以及產業應用側帶來了投資機會。AI4S是指以人工智慧手段輔助或獨立完成科學研究任務的一種新模式，可全流程重塑科研體系、突破傳統科研瓶頸，被視作繼實驗、理論、計算、資料科學之後的科研第五正規化。
-
----
-
-### 2026-08-19 10:20:07  #宏觀
-
-【國臺辦：臺灣民眾來大陸完全不需要擔心有什麼風險】國務院臺辦舉行例行新聞釋出會。有記者問：《國務院關於出境入境管理的規定》將於9月15日施行。陸委會對此稱，這類規定可能影響在大陸投資或工作的科技業及半導體業臺商、臺籍幹部、從業者，應做好風險評估。有少數臺灣民眾受其誤導，擔心進出大陸會有風險。請問對此有何評論？發言人朱鳳蓮表示，臺灣民眾來大陸完全不需要擔心有什麼風險。國務院關於出境入境管理的規定是為了規範出境入境管理，保障出境入境人員的合法權益，維護國家主權、安全、發展利益。《規定》主要是健全出境安全風險防範制度，明確出境入境申請事由應當真實合法，規範出境入境中介服務等。該規定有利於維護兩岸民眾往來的合法權益，為臺灣同胞來大陸營造更好的法治環境。
-
----
-
-### 2026-08-19 10:20:01  #MKT News #Market Regions #Greater China
-
-【Shanghai issues Zhangjiang High‑Tech Park 15th Five‑Year plan】Shanghai Science and Technology Commission issued the Zhangjiang High‑Tech Industrial Development Zone 15th Five‑Year Plan, targeting decisive progress by 2030 toward a world‑leading science park. The plan keeps a high‑tech orientation and aims to significantly strengthen Zhangjiang’s role as a source of technological innovation, improve mechanisms for high‑tech transfer and industrialization, and incubate three innovation‑source hubs. Zhangjiang Science City is targeted to become an international‑class science city with concentrated tech factors, a strong scientific profile and a vibrant innovation ecosystem. Policy will push specialty development: strengthen high‑end industry leadership, implement “one park, one specialty” sub‑park differentiation, and cultivate a set of benchmark tech leaders. The three leading industries’ industrial gross output is set to remain above 80% of the city’s total; emerging pillar industries are to scale and cluster, and future industries are expected to become new growth drivers. The plan targets park industrial value added to exceed 20% of the park’s GDP.
-
----
-
-### 2026-08-19 10:19:51  #其他
-
-【《上海張江高新技術產業開發區發展“十五五”規劃》釋出】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，到2030年，世界領先科技園區建設取得決定性進展，成為主導產業凸顯、專業服務完善、空間相對集中、生態充滿活力的高質量園區。堅持高新定位，科技創新策源功能顯著增強，高新技術成果轉化和產業化機制更加完善，湧現3個具有創新策源意義的科創“核爆點”。張江科學城成為科學特徵明顯、科技要素集聚、環境人文生態、充滿創新活力的國際一流科學城。堅持特色發展，高階產業引領功能顯著增強，“一園一特色”進一步凸顯，培育一批具有標杆示範意義的科技領軍企業，三大先導產業工業總產值全市佔比保持在80%以上，新興支柱產業規模化、叢集化發展，未來產業成為新的經濟增長點，園區工業增加值佔園區地區生產總值比重超過20%。
-
----
-
-### 2026-08-19 10:19:44  #市場 #國際
-
-特朗普暫停加徵關稅後，美元兌加元下跌0.2%，至1.3877。
-
----
-
-### 2026-08-19 10:18:49  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #DXY #Impact bullish #XAUUSD
-
-ChiNext Index fell 4.0%, Shenzhen Composite fell 3.3%, Shanghai Composite fell 1.79% and the STAR 50 Index fell 4.8%. More than 4,900 stocks declined, led by losses in MLCC, CPO, memory-chip and humanoid robotics sectors.
-
----
-
-### 2026-08-19 10:18:47  #市場 #焦點
-
-現貨黃金突破4360美元/盎司，日內漲0.60%。
-
----
-
-### 2026-08-19 10:18:32  #市場 #焦點
-
-創業板指跌4％，上證指數跌1.79％，深證成指跌3.33％。全市場超4900只個股下跌，MLCC概念、CPO板塊、儲存晶片、人形機器人板塊跌幅居前。
-
----
-
-### 2026-08-19 10:18:11  #MKT News
-
-President Trump says Canada and the United States have reached an agreement, pending finalization of the documentation.
-
----
-
-### 2026-08-19 10:17:33  #公司
-
-【通鼎互聯等成立科技新公司，含半導體器件相關業務】企查查APP顯示，近日，四川鼎啟芯測科技有限公司成立，經營範圍包含：智慧儀器儀表製造；智慧儀器儀表銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由通鼎互聯等共同持股。
-
----
-
-### 2026-08-19 10:17:32  #MKT News #Important #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
-
-President Trump said he has suspended plans to impose a 50% tariff on Canada.
-
----
-
-### 2026-08-19 10:17:17  #國際
-
-特朗普：基斯通XL輸油管道或可“起死回生”。
-
----
-
-### 2026-08-19 10:17:06  #焦點 #國際
-
-特朗普暫停對加拿大加徵50%關稅三天時間。
-
----
-
-### 2026-08-19 10:16:57  #國際
-
-特朗普表示：加拿大與美國已達成協議，有待最終敲定文字。
-
----
-
-### 2026-08-19 10:16:55  #MKT News
-
-China A-share coal mining and processing sector advanced; Shaanxi Black Cat hit limit-up. Meijin Energy, Dayou Energy and Baotailong earlier hit limit-up. Antai Group, Yunmei Energy, Zhengzhou Coal & Power, Shanxi Coking and Haohua Energy also gained.
-
----
-
-### 2026-08-19 10:16:38  #公司 #市場
-
-【煤炭開採加工板塊走高，陝西黑貓漲停】煤炭開採加工板塊走高，陝西黑貓漲停，美錦能源、大有能源、寶泰隆此前封板，安泰集團、雲煤能源、鄭州煤電、山西焦化、昊華能源等跟漲。
-
----
-
-### 2026-08-19 10:16:30  #其他
-
-港股晶片股走低，天數智芯、華虹宏力跌超10%，芯智控股跌超7%，兆易創新跌近7%。
-
----
-
-### 2026-08-19 10:15:28  #MKT News #Important #Market Themes #Chip Wars #09903.HK #Impact bearish #01347.HK #Hang Seng Index
-
-Hong Kong-listed chip stocks slid: 09903.HK down 11%, 01347.HK off more than 10%, 02166.HK down over 7%, and 03986.HK down 6.8%.
-
----
-
-### 2026-08-19 10:15:17  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Increases by 0.46% — Top currency gainers are South Korean Won (0.46%) and Japanese Yen (0.14%). Meanwhile Chinese Yuan was little changed.
-
----
-
-### 2026-08-19 10:14:56  #市場
-
-滬深300指數下跌2%至4,631.22點。
-
----
-
-### 2026-08-19 10:14:41  #宏觀
-
-【臺陸委會稱其工作是“抵禦中共統戰” 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，臺陸委會近日稱，“統戰是中共奪取中國大陸政權的三大法寶之一，陸委會的工作從來不是搞統戰，而是抵禦中共統戰”。請問對此有何評論？國務院臺辦發言人朱鳳蓮表示，統一戰線簡稱統戰，其本質是大團結大聯合，是交朋友促團結，是求同存異、共謀發展。從抗日戰爭時期凝聚全民族力量，共禦外侮到今天團結海內外同胞共促民族復興，統戰工作始終堅守初心。臺灣同胞是我們的親人、家人。密切交流，促進加強團結，為他們謀利造福，天經地義，光明正大。她指出，民進黨當局企圖加深兩岸隔閡對立，阻撓破壞兩岸交流合作，為其“臺獨”分裂服務，行為卑劣、用心險惡。祖國統一、民族復興的大勢浩浩蕩蕩，不可阻擋。兩岸同胞走近走親、走到一起的大潮滾滾向前，不可逆轉。民進黨當局違背歷史大勢，違逆民心民意，必將遭到越來越多臺灣民眾的反對和唾棄。（新華社）
-
----
-
-### 2026-08-19 10:14:26  #MKT News #Market Themes #AI Revolution
-
-【AI chip competition heats up, Japanese startup pivots to advanced materials】Tokyo University spin‑off Gaianixx is accelerating capacity expansion to capture rising AI-driven demand for chip materials. CEO Kento Nakao said the company will enlarge its Yamanashi technical centre southwest of Tokyo, which currently processes about 15,000 8‑inch wafers a year. Nakao said the firm’s most advanced project could enter trial production by year‑end, and that one Japanese customer and one overseas customer have committed to use Gaianixx materials to develop devices. The expansion comes as chipmakers increasingly seek performance gains from advanced materials amid slowing transistor‑scaling improvements.
-
----
-
-### 2026-08-19 10:13:40  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時放量92億元。
-
----
-
-### 2026-08-19 10:13:36  #宏觀
-
-【國務院臺辦介紹國共兩黨青年雙向交流機制化平臺情況】國務院臺辦舉行例行新聞釋出會。發言人朱鳳蓮表示，為了貫徹落實習近平總書記會見中國國民黨主席鄭麗文時的重要講話精神，中共中央臺辦受權釋出10項促進兩岸交流合作的政策措施，其中包括建立國共兩黨青年雙向交流機制化平臺。8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行兩岸青年交流季”上海站活動。屆時兩岸青年將在主論壇上圍繞新興科技、中華文化、兩岸青年交流等主題進行深入交流研討。在潮流集市上打卡美食潮玩，一站式體驗夏夜閒適氣息，在聯歡晚會上與兩岸演藝明星們一起歡歌起舞，盡情展示青春的熱烈與昂揚。之後，兩岸青年還將赴上海、浙江等地參訪研習，走進學校鄉村企業等，探尋詩畫江南綠水青山，觸控AI機器人等前沿科技。（央視新聞）
-
----
-
-### 2026-08-19 10:13:26  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌3%，現報7572.00點。
-
----
-
-### 2026-08-19 10:13:08  #公司
-
-【國內AI高階覆銅板龍頭企業耀鴻電子完成超2億元戰略融資】8月19日，據泰合資本訊息，近日，國內AI高階覆銅板（CCL）龍頭企業江蘇耀鴻電子有限公司完成了由東瑞投資、沃衍資本、粵開資本、普華資本、嘉溢創投、金舵投資、黃海金控、好買股權母基金、華義創投等聯合參與的超2億元人民幣戰略融資，泰合資本擔任財務顧問。
-
----
-
-### 2026-08-19 10:13:08  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
-
-Shenzhen Composite Index fell more than 3%, the ChiNext Index dropped 3.6% and the Shanghai Composite fell 1.62%; stocks tied to humanoid robots, memory chips and MLCCs led the declines.
-
----
-
-### 2026-08-19 10:13:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Zinc Hovers Near 4-Year High — Zinc futures traded around $3,700 per tonne, near a four-year high, supported by tightening near-term supply, production disruptions, and low inventories. Heavy rainfall and flooding across parts of China, the world’s largest zinc producer, have threatened mining and smelting operations. On top of that, production adjustments at a mine in Southwest China are expected to reduce August zinc concentrate output by around 1,000 tonnes, while maintenance at a smelter in Central China could cut refined production by another 1,000–1,500 tonnes. Supply concerns have also spread to other major producers. Glencore’s own-sourced zinc production fell in the first half of 2026, while Boliden’s zinc concentrate output declined quarter-on-quarter and MMG’s production decreased year-on-year in Q2. Moreover, LME zinc inventories have dropped to their lowest level since December, while high canceled warrants and falling on-warrant stocks signal that less metal is readily available for immediate delivery.
-
----
-
-### 2026-08-19 10:12:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Eases Ahead of FOMC Minutes — The yield on the 10-year US Treasury note eased toward 4.7% on Wednesday, retreating from recent highs as investors awaited the minutes of the Federal Reserve’s July meeting for fresh insights into the monetary policy outlook. The Fed left interest rates unchanged last month, though three officials dissented in favor of a rate hike, a split that traders will scrutinize for further details. Earlier this week, Treasury yields surged, with the 30-year US Treasury yield reaching a 19-year high, as rising debt issuance and concerns about persistent inflation fueled a selloff in longer-dated bonds. US corporate bond issuance has also remained in focus, with estimates suggesting AI-related companies could issue as much as $1.5 trillion in debt this year. The surge in dollar-denominated fixed-income supply has added to concerns over expanding fiscal deficits in the US and other G10 economies, prompting investors to demand higher term premiums across global bond markets.
-
----
-
-### 2026-08-19 10:12:55  #公司 #市場
-
-【紐約大學教授：SpaceX估值過高 只值10至30美元】紐約大學教授兼科技分析師、《紐約時報》的暢銷書作者斯科特·加洛韋（Scott Galloway）最新表示，SpaceX的股票交易價格遠高於其應有的價格，即使從峰值大幅下跌，也未能使其成為一項有吸引力的投資。他在週一釋出的播客節目中表示，SpaceX的股票價值在10美元到30美元之間。截至週二美股收盤，該股收跌1.98%，報143.34美元。加洛韋認為， SpaceX的估值部分是由異常有利的市場機制推動的。最初，SpaceX僅有約4%至5%的股票可供公開交易，供應有限。他還表示，SpaceX被納入納斯達克100指數也刺激了追蹤該指數的基金的需求。他還質疑投資者是否應該將SpaceX主要視為一家火箭和衛星公司。SpaceX上市不到兩週，就發行了250億美元的債券，儘管該公司此前披露的現金及現金等價物高達1008億美元。該公司表示，募集資金將主要用於償還一筆過渡貸款。加洛韋表示，此次債券發行表明投資者正在押注與SpaceX發射業務相關的AI基礎設施，而未來的擴張將越來越依賴於借貸。
-
----
-
-### 2026-08-19 10:12:50  #市場 #焦點
-
-深證成指跌3.00%，現報14183.760點；上證指數跌1.61%，現報3926.058點；創業板指跌3.60%，現報3572.347點。
-
----
-
-### 2026-08-19 10:11:25  #MKT News #Macro & Rates #Treasury Yields #S&P500 #Impact mixed #US10Y #Impact bearish #WTI #Impact bullish
-
-【Goldman Sachs TMT desk: US implied equity vol near five-year low; dealer positive gamma and buybacks dampen volatility】Goldman Sachs TMT trading desk says weekly implied US equity volatility is about 89bp, near a five-year low, with its panic reading at 0.36/10. The desk estimates option market makers hold roughly $15bn of positive-gamma hedges, near the 99th percentile, which biases dealers to sell into rallies and buy into dips and thus mutes short-term moves. It also estimates 96% of S&P 500 firms are in open repurchase windows and announced buyback authorizations exceed $1trln, implying corporate repurchases could absorb selling in summer’s thin liquidity. Macro risks remain—long-end yields are still rising and oil has resumed an uptrend—but derivatives markets are pricing very low near-term volatility. If dealer positive gamma and buybacks persist, US equity short-term volatility may stay suppressed; if those supports weaken, the current ultra-low vol will increase sensitivity to price re-expansion.
-
----
-
-### 2026-08-19 10:11:24  #MKT News #Market Regions #Japan & APAC
-
-Japan 10-year government bond yield fell 2.5 bps to 2.910%.
-
----
-
-### 2026-08-19 10:11:04  #市場 #國際
-
-10年期日本政府債券（JGB）收益率<JP10YTN=JBTC>下跌2.5個基點，至2.910%。
-
----
-
-### 2026-08-19 10:09:59  #公司
-
-【微納核芯研發中心落戶武漢未來科技城】近日，微納核芯電子科技有限公司（簡稱“微納核芯”）研發中心落戶武漢未來科技城，圍繞存算一體、近存計算等新型架構開展晶片研發。
-
----
-
-### 2026-08-19 10:09:40  #公司
-
-【瀾存科技完成數千萬元Pre-A輪股權融資】8月19日，介面新聞獲悉，上海瀾存科技有限公司宣佈完成數千萬元Pre-A輪股權融資，本輪投資方為錫創投，拓界資本擔任獨家財務顧問。本輪投後估值達到1.5億元。據悉，本輪資金將重點投入下一代AI具身智慧基座研發、核心人才擴充與產品矩陣升級，加快瀾卡LC-1.7系列標準模組、瀾存智慧平臺（Hardware AI Runtime）及核心技術體系的產業化迭代。
-
----
-
-### 2026-08-19 10:09:29  #公司
-
-【美好醫療：公司MT插芯產品尚處於樣品研發階段】美好醫療近日在電話會議中表示，公司MT插芯產品目前尚處於樣品研發階段，按照當前研發計劃，預計於2026年三季度末推出首批樣品。
-
----
-
-### 2026-08-19 10:09:28  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish #SZSE Component
-
-Sci-Tech Innovation Board 50 Index fell more than 4% as chip stocks slid; Xinyuan Co. down 7.7% and Hua Hong Hongli down 6.7%.
-
----
-
-### 2026-08-19 10:08:43  #國際
-
-【智元全尺寸人形機器人遠征A3獲中、歐雙重認證】8月19日，介面新聞獲悉，智元旗下遠征A3全尺寸雙足人形機器人取得已取得中國CR及歐盟CE系列產品認證。此次認證由國家機器人檢測與評定中心（總部）與德國萊茵TÜV分別頒發，考核指標覆蓋電氣安全、機械安全、功能安全、網路安全等全球化市場準入核心維度。這一進展標誌著國產全尺寸人形機器人的整機安全性與可靠性獲得國際第三方評估體系認可，為其後續的出海及跨區域商業化落地解決了基礎合規問題。
-
----
-
-### 2026-08-19 10:08:39  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Fall on Semiconductor Selloff — The Shanghai Composite slipped 1% to 3,953 on Wednesday, while the Shenzhen Component lost 2.2% to 14,301, as a broad selloff in semiconductor stocks weighed heavily on both benchmarks. Chipmakers came under pressure worldwide as government bond yields surged amid persistent inflation, elevated fiscal spending, and heavy debt issuance. At the same time, geopolitical tensions raised concerns about energy supply disruptions, adding to fears that inflation and financing costs may stay elevated for an extended period. The decline came despite strong earnings from GigaDevice, which reported H1 2026 revenue of RMB 11.57 billion, up 178.7% from a year earlier, while net profit attributable to shareholders surged 1,091.5% to RMB 6.86 billion. Investors continued to rotate out of the sector, with SMIC (-1.3%), Hygon Information Technology (-3%), GigaDevice (-1.6%), Hua Hong Semiconductor (-2%), Zhongji Innolight (-1.3%), and Eoptolink Technology (-3.1%) among the session’s biggest decliners.
 
 ---

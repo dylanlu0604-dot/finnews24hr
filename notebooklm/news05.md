@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 06:58:16_
-_本檔包含 3085 則快訊，約 623118 字_
+_更新時間：2026-08-25 07:32:14_
+_本檔包含 3093 則快訊，約 622962 字_
+
+---
+
+### 2026-08-19 10:21:51  #其他 #焦點
+
+【上海：聚焦算力等重點領域創新，形成以張江核心園等為示範引領的人工智慧先導產業叢集】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。
+
+---
+
+### 2026-08-19 10:21:13  #MKT News #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
+
+USD/CAD fell to 1.3877 after Trump suspended additional tariffs.
+
+---
+
+### 2026-08-19 10:20:17  #其他
+
+【東方證券：AI4S正賦能多學科與產業 從基礎模型、算力底座到產業落地 】東方證券釋出研報稱，目前AI4S已覆蓋生命科學、地球科學、能源材料等領域，但行業滲透率偏低，未來有望邁入規模化價值變現新階段。AI4S正賦能多學科與產業，包括生物醫藥、材料能源、工業模擬、氣象環境、農業育種等賽道。AI4S的快速發展和迭代進步，在科學模型側、算力基礎設施建設與運營、以及產業應用側帶來了投資機會。AI4S是指以人工智慧手段輔助或獨立完成科學研究任務的一種新模式，可全流程重塑科研體系、突破傳統科研瓶頸，被視作繼實驗、理論、計算、資料科學之後的科研第五正規化。
+
+---
+
+### 2026-08-19 10:20:07  #宏觀
+
+【國臺辦：臺灣民眾來大陸完全不需要擔心有什麼風險】國務院臺辦舉行例行新聞釋出會。有記者問：《國務院關於出境入境管理的規定》將於9月15日施行。陸委會對此稱，這類規定可能影響在大陸投資或工作的科技業及半導體業臺商、臺籍幹部、從業者，應做好風險評估。有少數臺灣民眾受其誤導，擔心進出大陸會有風險。請問對此有何評論？發言人朱鳳蓮表示，臺灣民眾來大陸完全不需要擔心有什麼風險。國務院關於出境入境管理的規定是為了規範出境入境管理，保障出境入境人員的合法權益，維護國家主權、安全、發展利益。《規定》主要是健全出境安全風險防範制度，明確出境入境申請事由應當真實合法，規範出境入境中介服務等。該規定有利於維護兩岸民眾往來的合法權益，為臺灣同胞來大陸營造更好的法治環境。
+
+---
+
+### 2026-08-19 10:20:01  #MKT News #Market Regions #Greater China
+
+【Shanghai issues Zhangjiang High‑Tech Park 15th Five‑Year plan】Shanghai Science and Technology Commission issued the Zhangjiang High‑Tech Industrial Development Zone 15th Five‑Year Plan, targeting decisive progress by 2030 toward a world‑leading science park. The plan keeps a high‑tech orientation and aims to significantly strengthen Zhangjiang’s role as a source of technological innovation, improve mechanisms for high‑tech transfer and industrialization, and incubate three innovation‑source hubs. Zhangjiang Science City is targeted to become an international‑class science city with concentrated tech factors, a strong scientific profile and a vibrant innovation ecosystem. Policy will push specialty development: strengthen high‑end industry leadership, implement “one park, one specialty” sub‑park differentiation, and cultivate a set of benchmark tech leaders. The three leading industries’ industrial gross output is set to remain above 80% of the city’s total; emerging pillar industries are to scale and cluster, and future industries are expected to become new growth drivers. The plan targets park industrial value added to exceed 20% of the park’s GDP.
+
+---
+
+### 2026-08-19 10:19:51  #其他
+
+【《上海張江高新技術產業開發區發展“十五五”規劃》釋出】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，到2030年，世界領先科技園區建設取得決定性進展，成為主導產業凸顯、專業服務完善、空間相對集中、生態充滿活力的高質量園區。堅持高新定位，科技創新策源功能顯著增強，高新技術成果轉化和產業化機制更加完善，湧現3個具有創新策源意義的科創“核爆點”。張江科學城成為科學特徵明顯、科技要素集聚、環境人文生態、充滿創新活力的國際一流科學城。堅持特色發展，高階產業引領功能顯著增強，“一園一特色”進一步凸顯，培育一批具有標杆示範意義的科技領軍企業，三大先導產業工業總產值全市佔比保持在80%以上，新興支柱產業規模化、叢集化發展，未來產業成為新的經濟增長點，園區工業增加值佔園區地區生產總值比重超過20%。
+
+---
+
+### 2026-08-19 10:19:44  #市場 #國際
+
+特朗普暫停加徵關稅後，美元兌加元下跌0.2%，至1.3877。
+
+---
+
+### 2026-08-19 10:18:49  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #DXY #Impact bullish #XAUUSD
+
+ChiNext Index fell 4.0%, Shenzhen Composite fell 3.3%, Shanghai Composite fell 1.79% and the STAR 50 Index fell 4.8%. More than 4,900 stocks declined, led by losses in MLCC, CPO, memory-chip and humanoid robotics sectors.
+
+---
+
+### 2026-08-19 10:18:47  #市場 #焦點
+
+現貨黃金突破4360美元/盎司，日內漲0.60%。
+
+---
+
+### 2026-08-19 10:18:32  #市場 #焦點
+
+創業板指跌4％，上證指數跌1.79％，深證成指跌3.33％。全市場超4900只個股下跌，MLCC概念、CPO板塊、儲存晶片、人形機器人板塊跌幅居前。
+
+---
+
+### 2026-08-19 10:18:11  #MKT News
+
+President Trump says Canada and the United States have reached an agreement, pending finalization of the documentation.
+
+---
+
+### 2026-08-19 10:17:33  #公司
+
+【通鼎互聯等成立科技新公司，含半導體器件相關業務】企查查APP顯示，近日，四川鼎啟芯測科技有限公司成立，經營範圍包含：智慧儀器儀表製造；智慧儀器儀表銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由通鼎互聯等共同持股。
+
+---
+
+### 2026-08-19 10:17:32  #MKT News #Important #Market Themes #The Trump Trade #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
+
+President Trump said he has suspended plans to impose a 50% tariff on Canada.
+
+---
+
+### 2026-08-19 10:17:17  #國際
+
+特朗普：基斯通XL輸油管道或可“起死回生”。
+
+---
+
+### 2026-08-19 10:17:06  #焦點 #國際
+
+特朗普暫停對加拿大加徵50%關稅三天時間。
+
+---
+
+### 2026-08-19 10:16:57  #國際
+
+特朗普表示：加拿大與美國已達成協議，有待最終敲定文字。
+
+---
+
+### 2026-08-19 10:16:55  #MKT News
+
+China A-share coal mining and processing sector advanced; Shaanxi Black Cat hit limit-up. Meijin Energy, Dayou Energy and Baotailong earlier hit limit-up. Antai Group, Yunmei Energy, Zhengzhou Coal & Power, Shanxi Coking and Haohua Energy also gained.
+
+---
+
+### 2026-08-19 10:16:38  #公司 #市場
+
+【煤炭開採加工板塊走高，陝西黑貓漲停】煤炭開採加工板塊走高，陝西黑貓漲停，美錦能源、大有能源、寶泰隆此前封板，安泰集團、雲煤能源、鄭州煤電、山西焦化、昊華能源等跟漲。
+
+---
+
+### 2026-08-19 10:16:30  #其他
+
+港股晶片股走低，天數智芯、華虹宏力跌超10%，芯智控股跌超7%，兆易創新跌近7%。
+
+---
+
+### 2026-08-19 10:15:28  #MKT News #Important #Market Themes #Chip Wars #09903.HK #Impact bearish #01347.HK #Hang Seng Index
+
+Hong Kong-listed chip stocks slid: 09903.HK down 11%, 01347.HK off more than 10%, 02166.HK down over 7%, and 03986.HK down 6.8%.
+
+---
+
+### 2026-08-19 10:15:17  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Increases by 0.46% — Top currency gainers are South Korean Won (0.46%) and Japanese Yen (0.14%). Meanwhile Chinese Yuan was little changed.
+
+---
+
+### 2026-08-19 10:14:56  #市場
+
+滬深300指數下跌2%至4,631.22點。
+
+---
+
+### 2026-08-19 10:14:41  #宏觀
+
+【臺陸委會稱其工作是“抵禦中共統戰” 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，臺陸委會近日稱，“統戰是中共奪取中國大陸政權的三大法寶之一，陸委會的工作從來不是搞統戰，而是抵禦中共統戰”。請問對此有何評論？國務院臺辦發言人朱鳳蓮表示，統一戰線簡稱統戰，其本質是大團結大聯合，是交朋友促團結，是求同存異、共謀發展。從抗日戰爭時期凝聚全民族力量，共禦外侮到今天團結海內外同胞共促民族復興，統戰工作始終堅守初心。臺灣同胞是我們的親人、家人。密切交流，促進加強團結，為他們謀利造福，天經地義，光明正大。她指出，民進黨當局企圖加深兩岸隔閡對立，阻撓破壞兩岸交流合作，為其“臺獨”分裂服務，行為卑劣、用心險惡。祖國統一、民族復興的大勢浩浩蕩蕩，不可阻擋。兩岸同胞走近走親、走到一起的大潮滾滾向前，不可逆轉。民進黨當局違背歷史大勢，違逆民心民意，必將遭到越來越多臺灣民眾的反對和唾棄。（新華社）
+
+---
+
+### 2026-08-19 10:14:26  #MKT News #Market Themes #AI Revolution
+
+【AI chip competition heats up, Japanese startup pivots to advanced materials】Tokyo University spin‑off Gaianixx is accelerating capacity expansion to capture rising AI-driven demand for chip materials. CEO Kento Nakao said the company will enlarge its Yamanashi technical centre southwest of Tokyo, which currently processes about 15,000 8‑inch wafers a year. Nakao said the firm’s most advanced project could enter trial production by year‑end, and that one Japanese customer and one overseas customer have committed to use Gaianixx materials to develop devices. The expansion comes as chipmakers increasingly seek performance gains from advanced materials amid slowing transistor‑scaling improvements.
+
+---
+
+### 2026-08-19 10:13:40  #市場 #焦點
+
+滬深兩市成交額超1萬億元，較上日此時放量92億元。
+
+---
+
+### 2026-08-19 10:13:36  #宏觀
+
+【國務院臺辦介紹國共兩黨青年雙向交流機制化平臺情況】國務院臺辦舉行例行新聞釋出會。發言人朱鳳蓮表示，為了貫徹落實習近平總書記會見中國國民黨主席鄭麗文時的重要講話精神，中共中央臺辦受權釋出10項促進兩岸交流合作的政策措施，其中包括建立國共兩黨青年雙向交流機制化平臺。8月24日至28日，兩岸有關青年組織將在上海共同舉辦“同心同行兩岸青年交流季”上海站活動。屆時兩岸青年將在主論壇上圍繞新興科技、中華文化、兩岸青年交流等主題進行深入交流研討。在潮流集市上打卡美食潮玩，一站式體驗夏夜閒適氣息，在聯歡晚會上與兩岸演藝明星們一起歡歌起舞，盡情展示青春的熱烈與昂揚。之後，兩岸青年還將赴上海、浙江等地參訪研習，走進學校鄉村企業等，探尋詩畫江南綠水青山，觸控AI機器人等前沿科技。（央視新聞）
+
+---
+
+### 2026-08-19 10:13:26  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌3%，現報7572.00點。
+
+---
+
+### 2026-08-19 10:13:08  #公司
+
+【國內AI高階覆銅板龍頭企業耀鴻電子完成超2億元戰略融資】8月19日，據泰合資本訊息，近日，國內AI高階覆銅板（CCL）龍頭企業江蘇耀鴻電子有限公司完成了由東瑞投資、沃衍資本、粵開資本、普華資本、嘉溢創投、金舵投資、黃海金控、好買股權母基金、華義創投等聯合參與的超2億元人民幣戰略融資，泰合資本擔任財務顧問。
+
+---
+
+### 2026-08-19 10:13:08  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component
+
+Shenzhen Composite Index fell more than 3%, the ChiNext Index dropped 3.6% and the Shanghai Composite fell 1.62%; stocks tied to humanoid robots, memory chips and MLCCs led the declines.
+
+---
+
+### 2026-08-19 10:13:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Zinc Hovers Near 4-Year High — Zinc futures traded around $3,700 per tonne, near a four-year high, supported by tightening near-term supply, production disruptions, and low inventories. Heavy rainfall and flooding across parts of China, the world’s largest zinc producer, have threatened mining and smelting operations. On top of that, production adjustments at a mine in Southwest China are expected to reduce August zinc concentrate output by around 1,000 tonnes, while maintenance at a smelter in Central China could cut refined production by another 1,000–1,500 tonnes. Supply concerns have also spread to other major producers. Glencore’s own-sourced zinc production fell in the first half of 2026, while Boliden’s zinc concentrate output declined quarter-on-quarter and MMG’s production decreased year-on-year in Q2. Moreover, LME zinc inventories have dropped to their lowest level since December, while high canceled warrants and falling on-warrant stocks signal that less metal is readily available for immediate delivery.
+
+---
+
+### 2026-08-19 10:12:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Eases Ahead of FOMC Minutes — The yield on the 10-year US Treasury note eased toward 4.7% on Wednesday, retreating from recent highs as investors awaited the minutes of the Federal Reserve’s July meeting for fresh insights into the monetary policy outlook. The Fed left interest rates unchanged last month, though three officials dissented in favor of a rate hike, a split that traders will scrutinize for further details. Earlier this week, Treasury yields surged, with the 30-year US Treasury yield reaching a 19-year high, as rising debt issuance and concerns about persistent inflation fueled a selloff in longer-dated bonds. US corporate bond issuance has also remained in focus, with estimates suggesting AI-related companies could issue as much as $1.5 trillion in debt this year. The surge in dollar-denominated fixed-income supply has added to concerns over expanding fiscal deficits in the US and other G10 economies, prompting investors to demand higher term premiums across global bond markets.
+
+---
+
+### 2026-08-19 10:12:55  #公司 #市場
+
+【紐約大學教授：SpaceX估值過高 只值10至30美元】紐約大學教授兼科技分析師、《紐約時報》的暢銷書作者斯科特·加洛韋（Scott Galloway）最新表示，SpaceX的股票交易價格遠高於其應有的價格，即使從峰值大幅下跌，也未能使其成為一項有吸引力的投資。他在週一釋出的播客節目中表示，SpaceX的股票價值在10美元到30美元之間。截至週二美股收盤，該股收跌1.98%，報143.34美元。加洛韋認為， SpaceX的估值部分是由異常有利的市場機制推動的。最初，SpaceX僅有約4%至5%的股票可供公開交易，供應有限。他還表示，SpaceX被納入納斯達克100指數也刺激了追蹤該指數的基金的需求。他還質疑投資者是否應該將SpaceX主要視為一家火箭和衛星公司。SpaceX上市不到兩週，就發行了250億美元的債券，儘管該公司此前披露的現金及現金等價物高達1008億美元。該公司表示，募集資金將主要用於償還一筆過渡貸款。加洛韋表示，此次債券發行表明投資者正在押注與SpaceX發射業務相關的AI基礎設施，而未來的擴張將越來越依賴於借貸。
+
+---
+
+### 2026-08-19 10:12:50  #市場 #焦點
+
+深證成指跌3.00%，現報14183.760點；上證指數跌1.61%，現報3926.058點；創業板指跌3.60%，現報3572.347點。
+
+---
+
+### 2026-08-19 10:11:25  #MKT News #Macro & Rates #Treasury Yields #S&P500 #Impact mixed #US10Y #Impact bearish #WTI #Impact bullish
+
+【Goldman Sachs TMT desk: US implied equity vol near five-year low; dealer positive gamma and buybacks dampen volatility】Goldman Sachs TMT trading desk says weekly implied US equity volatility is about 89bp, near a five-year low, with its panic reading at 0.36/10. The desk estimates option market makers hold roughly $15bn of positive-gamma hedges, near the 99th percentile, which biases dealers to sell into rallies and buy into dips and thus mutes short-term moves. It also estimates 96% of S&P 500 firms are in open repurchase windows and announced buyback authorizations exceed $1trln, implying corporate repurchases could absorb selling in summer’s thin liquidity. Macro risks remain—long-end yields are still rising and oil has resumed an uptrend—but derivatives markets are pricing very low near-term volatility. If dealer positive gamma and buybacks persist, US equity short-term volatility may stay suppressed; if those supports weaken, the current ultra-low vol will increase sensitivity to price re-expansion.
+
+---
+
+### 2026-08-19 10:11:24  #MKT News #Market Regions #Japan & APAC
+
+Japan 10-year government bond yield fell 2.5 bps to 2.910%.
+
+---
+
+### 2026-08-19 10:11:04  #市場 #國際
+
+10年期日本政府債券（JGB）收益率<JP10YTN=JBTC>下跌2.5個基點，至2.910%。
+
+---
+
+### 2026-08-19 10:09:59  #公司
+
+【微納核芯研發中心落戶武漢未來科技城】近日，微納核芯電子科技有限公司（簡稱“微納核芯”）研發中心落戶武漢未來科技城，圍繞存算一體、近存計算等新型架構開展晶片研發。
+
+---
+
+### 2026-08-19 10:09:40  #公司
+
+【瀾存科技完成數千萬元Pre-A輪股權融資】8月19日，介面新聞獲悉，上海瀾存科技有限公司宣佈完成數千萬元Pre-A輪股權融資，本輪投資方為錫創投，拓界資本擔任獨家財務顧問。本輪投後估值達到1.5億元。據悉，本輪資金將重點投入下一代AI具身智慧基座研發、核心人才擴充與產品矩陣升級，加快瀾卡LC-1.7系列標準模組、瀾存智慧平臺（Hardware AI Runtime）及核心技術體系的產業化迭代。
+
+---
+
+### 2026-08-19 10:09:29  #公司
+
+【美好醫療：公司MT插芯產品尚處於樣品研發階段】美好醫療近日在電話會議中表示，公司MT插芯產品目前尚處於樣品研發階段，按照當前研發計劃，預計於2026年三季度末推出首批樣品。
+
+---
+
+### 2026-08-19 10:09:28  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bearish #SZSE Component
+
+Sci-Tech Innovation Board 50 Index fell more than 4% as chip stocks slid; Xinyuan Co. down 7.7% and Hua Hong Hongli down 6.7%.
+
+---
+
+### 2026-08-19 10:08:43  #國際
+
+【智元全尺寸人形機器人遠征A3獲中、歐雙重認證】8月19日，介面新聞獲悉，智元旗下遠征A3全尺寸雙足人形機器人取得已取得中國CR及歐盟CE系列產品認證。此次認證由國家機器人檢測與評定中心（總部）與德國萊茵TÜV分別頒發，考核指標覆蓋電氣安全、機械安全、功能安全、網路安全等全球化市場準入核心維度。這一進展標誌著國產全尺寸人形機器人的整機安全性與可靠性獲得國際第三方評估體系認可，為其後續的出海及跨區域商業化落地解決了基礎合規問題。
+
+---
+
+### 2026-08-19 10:08:39  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Fall on Semiconductor Selloff — The Shanghai Composite slipped 1% to 3,953 on Wednesday, while the Shenzhen Component lost 2.2% to 14,301, as a broad selloff in semiconductor stocks weighed heavily on both benchmarks. Chipmakers came under pressure worldwide as government bond yields surged amid persistent inflation, elevated fiscal spending, and heavy debt issuance. At the same time, geopolitical tensions raised concerns about energy supply disruptions, adding to fears that inflation and financing costs may stay elevated for an extended period. The decline came despite strong earnings from GigaDevice, which reported H1 2026 revenue of RMB 11.57 billion, up 178.7% from a year earlier, while net profit attributable to shareholders surged 1,091.5% to RMB 6.86 billion. Investors continued to rotate out of the sector, with SMIC (-1.3%), Hygon Information Technology (-3%), GigaDevice (-1.6%), Hua Hong Semiconductor (-2%), Zhongji Innolight (-1.3%), and Eoptolink Technology (-3.1%) among the session’s biggest decliners.
 
 ---
 
@@ -18419,230 +18671,5 @@ Brent Extends Gains as Peace Prospects Dim — Brent crude climbed above $91 per
 ### 2026-08-18 07:32:37  #MKT News
 
 【CITIC Securities: OSATs that first scale mass production and expand capacity likely to gain first‑mover advantage】CITIC Securities says mainland China advanced packaging is at a stage of rapidly rising CoWoS penetration. Mainland foundries have not yet mass‑produced mid‑process steps such as RDL, while OSATs have active layouts in 2.5D/3D/CoWoS. OSATs that can first break through to mass production and expand capacity are likely to establish a first‑mover advantage and capture larger industry share. However, as the sector evolves, mainland foundries remain strategically important: their front‑end technology and equipment capacity could enable them to catch up with or even surpass OSATs in advanced packaging iterations, by analogy with TSMC’s role.
-
----
-
-### 2026-08-18 07:31:45  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Extends Gains as Peace Prospects Dim — Crude oil climbed toward $85 per barrel on Tuesday, rising for a third consecutive session as prospects for a new agreement between the US and Iran weakened after President Donald Trump said he was not interested in extending the interim peace deal. The memorandum of understanding signed in June, which was intended to give both sides 60 days to negotiate a longer-term peace agreement, officially expired on Monday. Meanwhile, Iran and Oman continue to negotiate an arrangement for managing shipping through the Strait of Hormuz, although the US is not involved in the talks. Washington is unlikely to back any deal that fails to ensure unrestricted passage through the strategically vital shipping route. At the same time, Middle Eastern producers appear to be becoming increasingly adept at covertly moving oil through Hormuz to global buyers while also supplying cargoes from outside the key chokepoint.
-
----
-
-### 2026-08-18 07:31:34  #市場
-
-日經指數期貨在新加坡交易所開盤走低280點，報68970點。
-
----
-
-### 2026-08-18 07:31:09  #公司 #觀點 #國際
-
-【中信建投：關注國內半導體材料企業加速進口替代的認證節奏以及投資機會】中信建投研報指出，當前AI通脹來到了材料端，而材料環節的標的更加分散，而且多數強勢公司在日本，2025年下半年以來雙邊關係的緊張更有加速跡象。供給端進口替代，需求端AI通脹成為幾乎完美的組合。我們判斷，對日本進口替代主題會有更多演繹空間，繼續關注半導體材料進口替代交易，關注國內半導體材料企業加速進口替代的認證節奏以及投資機會。
-
----
-
-### 2026-08-18 07:29:13  #公司 #市場 #觀點
-
-【中信建投：原奶週期反轉訊號顯現，上下游共迎經營修復視窗】中信建投研報指出，近期散奶價格反超合同價，日噴粉生鮮乳減少至2年最低位，主產區奶價小幅回升，原奶週期反轉訊號明顯。隨著上游持續去化，預計原奶產量逐步緊縮，下游深加工產能投產增加需求，看好原奶價格開啟溫和上漲期，頭部牧業集團將具備業績彈性，推薦優然牧業。奶價上升期，中游乳企液奶競爭力增強，上游相關減值減少、投資收益增加，利好業績改善。
-
----
-
-### 2026-08-18 07:28:35  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-【BHP FY underlying profit up 30% as copper strength boosts earnings】BHP said underlying profit for the year to June rose 30% to $13.2bn, beating analysts, as higher commodity prices—notably record-high copper—lifted earnings. Copper revenue exceeded iron ore revenue for the first time. The group declared a final dividend of $0.99 per share, implying a 72% payout ratio. BHP projects global copper demand will rise from about 34 mln tonnes today to 50 mln t by 2050, but said copper output at its Chile operations is falling due to grade decline and ageing mines, forcing billions of dollars of sustaining capital to maintain production.
-
----
-
-### 2026-08-18 07:26:15  #央行
-
-【專家料隔夜逆回購有可能成中國央行短期流動性核心政策工具】東方金誠首席宏觀分析師王青對記者表示，近幾個交易日7天期逆回購操作量均為零，且於8月中旬開展隔夜逆回購操作，都表明當前中國人民銀行對市場利率的調控更加精準。這意味著後期市場利率執行會更加平穩；同時，這也意味著未來隔夜逆回購有可能逐步替代7天期逆回購，成為中國人民銀行短期流動性調節的核心政策工具。（證券日報）
-
----
-
-### 2026-08-18 07:25:48  #MKT News
-
-【European banks commit £300m to Scottish data centre】DataVita has secured £300m (about $407m) from ING, ABN AMRO and other European banks to expand an existing Scottish data centre and build a new facility. The UK government guaranteed 80% of a £252m tranche provided by the two Dutch banks and Banco Santander; the remainder is unsecured financing from the Scottish National Investment Bank and Siemens Financial Services. Dell will relocate its Scotland headquarters to the site. The investment is being cited as a key signal of a revival for the UK’s AI growth zones under new Prime Minister Burnham; the zones were a central plank of the previous Labour government’s AI policy under Starmer.
-
----
-
-### 2026-08-18 07:25:04  #公司 #市場
-
-【滾動市盈率相對較低的腦機介面概念股梳理】近日，腦機介面技術在國內醫療領域密集落地，多項臨床突破接連公佈。A股市場佈局腦機介面的上市公司超30家。麥瀾德圍繞AI與非侵入式腦機介面技術的融合開展研發，初步構建了基於“腦訊號採集—智慧解析—狀態識別—閉環反饋”的技術體系。美好醫療在腦機介面領域已協助客戶實現從實驗室研發到批次出貨的商業化轉化，相關元件產品已進入小批次供貨階段。偉思醫療在腦機介面領域聚焦“非侵入式”技術路線，致力於構建“診斷—治療—康復”的全週期閉環體系。二級市場方面，據證券時報·資料寶統計，截至8月17日收盤，腦機介面概念股今年以來平均下跌8.55%，跑輸同期上證指數。4只概念股累計漲幅超10%，分別為盛視科技、盈趣科技、達瑞電子、博拓生物。
-
----
-
-### 2026-08-18 07:23:33  #市場
-
-【上半年業績翻倍的人形機器人概念股一覽】8月17日，人形機器人概念股持續走高。8月以來人形機器人概念股平均上漲10.99%，多股漲超40%。近期，行業迎來多重利好催化，機構加緊調研產業鏈個股，一批績優概念股獲得主力資金集中加倉。訊息面上，8月19日至23日，2026世界機器人大會將在北京舉行。宇樹科技董事長王興興將亮相主論壇，展望人形機器人產業的下一個十年。目前40餘隻人形機器人概念股釋出上半年業績資料，綜合業績預告下限、快報和半年報來看，江蘇北人、航天智裝扭虧。埃斯頓、凱爾達、昊志機電、拓斯達等10只概念股的淨利潤同比均翻倍。8月17日多隻人形機器人概念股獲得主力加倉，其中寧德時代、埃斯頓、比亞迪、全志科技、領益智造等9股的主力資金淨流入額超億元。11只績優人形機器人概念股獲得主力資金淨流入，包含埃斯頓、昊志機電、拓斯達、全志科技、東方鋯業等股。
-
----
-
-### 2026-08-18 07:23:10  #公司
-
-【特斯拉據悉準備8月面向公眾推出CyberCab】媒體援引知情人士報道稱，特斯拉已告知員工正為Cybercab面向公眾推出做準備。這是特斯拉首款沒有方向盤和剎車踏板的車型。報道稱，特斯拉計劃首先在德克薩斯州奧斯汀向公眾推出Cybercab，最快可能本月啟動。近幾周，公司一直在為推出Cybercab做準備，包括開展試駕、在私人道路上安排員工乘坐，並與當地急救人員進行相關培訓。特斯拉已告知員工，計劃先讓員工在公共道路上乘坐Cybercab，隨後在數日內將這款車納入奧斯汀的Robotaxi服務。報道稱，特斯拉目前內部目標是在8月底前面向公眾推出Cybercab，時間表仍可能調整。
-
----
-
-### 2026-08-18 07:21:43  #公司
-
-【銀行理財市場規模再攀新高 中小銀行自營理財卻加速退場】銀行理財市場規模再攀新高之際，中小銀行自營理財卻在加速退場。近日，證券時報記者從業內可信渠道彙總的獨家資料顯示，管理規模超1萬億元的14家理財公司，今年前7個月淨增規模達1.7萬億元。在此基礎上，當前銀行理財市場規模站穩了35萬億元大關，再次創下新高。與行業總量連創新高形成鮮明反差的是，未獲理財公司牌照的中小銀行，自營理財規模卻持續收縮。證券時報記者梳理2026年銀行理財業務半年報發現，已披露自營理財資料的65家中小銀行中，多達58家銀行的存續規模同比下降，合計壓降1722.67億元，部分銀行自營理財已逼近“清零”。
-
----
-
-### 2026-08-18 07:21:03  #公司
-
-【行業景氣度上行 鋰電隔膜行業龍頭密集報喜】隨著下游動力電池與儲能需求持續放量，歷經深度價格調整的鋰電隔膜行業在2026年上半年迎來全面回暖。已披露的半年報及業績預告顯示，今年上半年恩捷股份扭虧為盈，中材科技隔膜業務淨利潤同比增長近20倍，滄州明珠、佛塑科技淨利潤大幅預增。在儲能電池出貨量接近翻倍的帶動下，隔膜行業量價齊升、盈利中樞系統性抬升，行業景氣上行週期正獲得業績驗證。
-
----
-
-### 2026-08-18 07:19:08  #公司
-
-【儲存與邏輯晶片迭代升級 CMP市場迎來新風口】隨著半年報陸續釋出，以鼎龍股份為代表的國內CMP（化學機械拋光）公司成績單引人關注。長鑫科技的上市，更讓儲存晶片技術路線轉型的信心倍增。CMP作為積體電路製造的關鍵工藝之一，正站在新風口。記者調研獲悉，晶圓製造向高密度、三維化演進，直接拉動了拋光步驟和耗材更換頻率，CMP材料的市場彈性大幅釋放。在本土供應鏈需求增長和國產替代浪潮的雙重驅動下，這一關鍵工藝環節正迎來前所未有的發展良機。（上海證券報）
-
----
-
-### 2026-08-18 07:18:19  #公司 #市場
-
-【A股中期分紅熱度攀升 千億元真金白銀回饋投資者】Wind資料顯示，截至8月17日17時，A股共有124家上市公司釋出現金分紅的2026年半年度利潤分配方案，合計擬派發現金紅利1018.85億元（含稅）。其中，中國移動以擬派現544.26億元（含稅）的金額高居榜首，寧德時代、海康威視緊隨其後，擬派現金額均超50億元（含稅）。從行業看，化工板塊最為踴躍，機械裝置、電子等緊隨其後。整體看，上市公司回報股東意願顯著增強，現金分紅意願較強。（中國證券報）
-
----
-
-### 2026-08-18 07:18:13  #公司 #市場
-
-【必和必拓基礎利潤大漲30%，受益於銅價與鐵礦石產量】受大宗商品價格向好提振盈利，必和必拓集團利潤大漲近三分之一，全年銅業務營收首次超過鐵礦石業務。這家全球最大礦業企業表示，截至6月的過去12個月，基礎利潤攀升至132億美元，同比增長30%，高於分析師預期。公司於週二公告檔案中披露，將派發末期股息99美分，派息率72%。報告期內銅價飆升至歷史高位；必和必拓另一核心產品鐵礦石依舊保持強勢。執行長布蘭登・克雷格在宣告中表示：“生產運營穩定性疊加高企的產品價格，推動盈利大幅提升。銅是驅動必和必拓增長的引擎。”必和必拓預測，全球銅需求將從當前約3400萬噸/年，在2050年增至5000萬噸/年。
-
----
-
-### 2026-08-18 07:17:28  #其他
-
-【醫藥創新邁入深耕期 全球化與造血能力成關鍵考題】近日，多款創新藥相繼迎來上市與臨床突破，國內藥企海外授權合作熱度攀升。業內專家與藥企負責人分析認為，未來行業競爭不再侷限於管線數量比拼，源頭創新能力、全球專利佈局、海內外商業化運營以及靈活的商務拓展（BD）資產運作策略，將成為創新藥企穿越週期的核心抓手。（中國證券報）
-
----
-
-### 2026-08-18 07:16:52  #公司
-
-【寧德時代宜春鋰礦專案復產迎重要進展】備受關注的寧德時代(300750)梘下窩鋰礦的復產，迎來重要進展。8月17日，證券時報記者獲悉，宜春市生態環境局擬受理宜春時代新能源礦業有限公司（下稱“宜春時代”）江西省宜豐縣圳口裡—奉新縣梘下窩鋰礦採礦專案環境影響評價檔案。目前，上述專案的環評檔案及公眾參與說明，正處於擬受理前公示環節。公示期為2026年8月17日—2026年8月28日（10個工作日）。宜豐縣圳口裡—奉新縣梘下窩礦區採礦權為宜春時代所有，採礦權有效期為2022年8月9日至2025年8月9日，礦區由18個拐點圈定，面積2.5平方千米。2025年8月9日採礦證到期後礦山處於停產狀態。梘下窩鋰礦是全球已探明最大的鋰雲母礦，設計滿產年碳酸鋰產能約10萬噸。停產前，產出約佔全國總產量的8%—10%。因此，何時復產，備受社會關注。此次擬受理，也是寧德時代梘下窩鋰礦復產程序中的重要一步。
-
----
-
-### 2026-08-18 07:16:02  #公司 #市場
-
-【長鑫科技市值突破四萬億元】8月17日，長鑫科技股價大漲12%，市值達到4.13萬億元，成為繼中國石油之後A股歷史上第二家市值突破4萬億元的上市公司。據統計，2000年以來，共有8只股票先後榮登A股市值冠軍，工商銀行、貴州茅臺、中國石油登頂次數分列前三，分別為29次、14次和13次。而今，這一接力棒交到了一家科創板儲存器製造公司手中。2025年，全球人工智慧（AI）建設浪潮推升半導體、算力需求井噴，電子行業A股市值首次登頂。截至昨日收盤，電子行業市值達24.81萬億元，佔A股總市值的比例為21.05%，均創歷年新高。若將電子與計算機、通訊、傳媒行業合併計算，這四大行業市值合計36.11萬億元，佔A股比重升至30.63%。從銀行、石油石化到食品飲料，從電力裝置再到電子行業登頂，這條市值結構變遷的軌跡，清晰對映出中國經濟動能從基建地產、傳統制造向科技創新的歷史性切換。長鑫科技市值破4萬億元，不只是資本市場的一次估值重排，更是新質生產力從政策敘事走向市場定價的里程碑式節點。（證券時報）
-
----
-
-### 2026-08-18 07:15:25  #央行 #中國央行
-
-【7天期逆回購連續5日“零投放”】8月17日，央行根據公開市場業務一級交易商的需求，將7天期逆回購操作量設為零，同時開展5655億元隔夜逆回購操作。當日有3670億元逆回購到期，公開市場實現淨投放1985億元。這是自8月11日以來，央行連續第5個工作日未開展7天期逆回購操作。受訪人士認為，7天期逆回購“零投放”主要與銀行體系流動性較為充裕、一級交易商短期資金需求較弱有關。
-
----
-
-### 2026-08-18 07:15:13  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【1bp rise signals phase recovery in Chinese banks' net interest margins】China's National Financial Regulatory Administration data show commercial banks' net interest margin rose to 1.41% in Q2, up 0.01 percentage point QoQ — the first quarterly increase since 2022. Margin moves were mixed by bank type: state-owned big banks, city commercial banks, rural commercial banks and private banks reported QoQ increases; joint-stock banks were flat; foreign banks fell. Regulators and market participants attribute the stabilization to the liability side — maturing high-yield deposits repriced lower and banks actively optimized funding mixes to reduce interest cost — while regulatory guidance and an interest-rate self-discipline mechanism helped curb irrational loan-rate cuts and supported asset-side pricing, propping up NIMs.
-
----
-
-### 2026-08-18 07:14:16  #公司
-
-【0.01個百分點的訊號 銀行業淨息差迎來階段性修復】日前，國家金融監督管理總局釋出的2026年二季度銀行業保險業主要監管指標資料顯示，二季度商業銀行淨息差為1.41%，較一季度的1.40%上升0.01個百分點，是自2022年以來首次單季環比上升。但不同型別銀行走勢分化，其中國有大行、城商行、農商行、民營銀行二季度淨息差實現環比上行，股份行環比持平，外資銀行環比下降。業內人士分析，本輪息差企穩的核心動力來自負債端：存量高息存款集中到期重定價，疊加銀行主動最佳化負債結構，有效壓降了付息成本。在監管引導下，利率自律機制發揮作用，遏制信貸利率非理性降價競爭，助力穩定資產端定價，託舉淨息差。（中國證券報）
-
----
-
-### 2026-08-18 07:12:41  #央行 #其他
-
-【7天期逆回購連續5日“零投放”】7天期逆回購連續第5個工作日“零投放”，但公開市場流動性投放並未缺席。8月17日，央行根據公開市場業務一級交易商的需求，將7天期逆回購操作量設為零，同時開展5655億元隔夜逆回購操作。當日有3670億元逆回購到期，公開市場實現淨投放1985億元。這是自8月11日以來，央行連續第5個工作日未開展7天期逆回購操作。受訪人士認為，7天期逆回購“零投放”主要與銀行體系流動性較為充裕、一級交易商短期資金需求較弱有關。與此同時，隔夜逆回購接續投放，顯示央行正在根據稅期等短期擾動因素靈活調節流動性。判斷政策態度是否發生變化，不能只看7天期逆回購這一單一工具，還需觀察中長期流動性投放、大行資金融出及資金利率走勢。（上海證券報）
-
----
-
-### 2026-08-18 07:12:20  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、《石油天然氣發展“十五五”規劃》印發 到2030年油氣供應量達4.4億噸油當量
-2、前7月規模以上工業增加值同比增長5.3% “新”“智”“綠”，促動能轉換提速（權威釋出）
-3、《綜合交通運輸標準化發展“十五五”規劃》印發 大力加強關鍵核心標準供給
-4、二季度末 普惠型小微企業貸款餘額同比增8%
-5、李強主持召開國務院第十二次全體會議強調 深入貫徹落實黨中央決策部署 努力完成全年經濟社會發展目標任務
-6、我國在量子技術國際標準領域取得新進展
-7、前7個月中老鐵路進出口貨值超200億元
-8、“十四五”時期，我國生物製造產業總規模達1.1萬億元 “細胞工廠”裡的創新力量（經濟聚焦）
-9、我國將構建約6萬公里精品自駕旅遊公路
-10、數字人民幣業務運營機構擴容至30家
-11、汽車晶片五項認證認可行業標準釋出
-12、司法部發布規範涉企行政執法典型案例
-13、北京市消協約談20家兒童床生產企業 部分產品存在警示標識缺失、有害物質超標等問題
-14、市場監管總局公佈十起典型案例 深入推動公平競爭審查制度落實落地
-15、國內首個批次退役風電機組梯次利用專案正式啟動
-16、2026年《世界糧食安全和營養狀況》報告顯示——全球糧食安全治理成效初顯 實現“零飢餓”目標依然艱難（國際視點）2025年約6.45億人處於飢餓狀態 近1/3人口無力負擔健康膳食
-17、厄瓜多上半年出口額創新高 對華出口保持快速增長。
-
----
-
-### 2026-08-18 07:12:07  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、紀念江澤民同志誕辰100週年大會在京隆重舉行 習近平發表重要講話，高度評價江澤民同志為黨和人民建立的不朽功勳，號召深入學習江澤民同志的崇高風範，把中國特色社會主義事業不斷推向前進 李強主持 趙樂際王滬寧蔡奇丁薛祥李希韓正出席
-2、習近平就印度尼西亞發生強烈地震向印尼總統普拉博沃致慰問電
-3、亞塞拜然語版節目《習近平的文化情緣》啟播活動在巴庫舉行
-4、《江澤民外交文選》出版發行。
-
----
-
-### 2026-08-18 07:12:04  #公司
-
-【權益類公募倉位再抬升 電子行業獲增持幅度最大】近期A股市場震盪分化，權益類公募基金在保持較高倉位的同時，行業配置進一步調整。資料顯示，截至8月14日，公募權益類基金整體倉位升至94.42%，較前一週提高0.08個百分點，保持歷史中位偏高水平。從行業變化來看，電子成為當週主動增持幅度最大的行業，而通訊、電力裝置、建築材料等板塊受到不同程度的主動減持。多家基金公司認為，隨著8月下旬進入半年報密集披露期，市場定價重心正逐步從情緒和估值修復轉向業績兌現。在高倉位背景下，公募後續操作或更多體現為持倉結構最佳化。科技仍是機構關注的重要方向，但配置範圍正在進一步收斂，逐步聚焦至儲存、光通訊、半導體裝置、電源及液冷等細分環節。（上海證券報）
-
----
-
-### 2026-08-18 07:12:00  #其他
-
-【8月以來兩融餘額回升700多億元 機構：市場進入情緒修復通道】經過一輪集中去槓桿後，A股市場在8月迎來槓桿資金修復視窗。8月以來，滬深北三市兩融餘額一度連續8個交易日回升，累計反彈超過700億元。8月14日，兩融餘額微降18.59億元，連增態勢暫告段落。與7月相比，兩融資金回補節奏相對溫和，結構上較此前科技板塊集中出逃前更趨均衡。業內普遍認為，槓桿資金快速撤離的階段已過，市場處於情緒修復初期，中長期配置型資金並未離場，後續反彈需要賺錢效應進一步催化。（人民財訊）
-
----
-
-### 2026-08-18 07:11:47  #央行 #中國央行
-
-【存款“搬家”減速釋放什麼訊號】市場密切關注的“存款搬家”仍在持續，但已放慢腳步。中國人民銀行近日釋出的金融資料顯示，7月人民幣存款僅增加300億元，同比少增4700億元。其中：居民部門人民幣存款淨減少6300億元，同比少減4800億元；非銀金融機構存款增加1.11萬億元，同比少增1.03萬億元。
-
----
-
-### 2026-08-18 07:10:04  #公司 #國際
-
-【三星顯示重啟OLED產線投資，擬押注摺疊屏需求增長】8月18日，據報道，三星顯示已於8月7日透過投資審查委員會審議，批准重啟韓國忠清南道牙山第二園區A7新廠的結構工程，預計本月啟動訂單，明年正式開工，目標於2028年初完工。該專案自2021年暫停後時隔約5年重啟，預計投資數萬億韓元。三星顯示目前為三星電子Galaxy Z系列獨家供應摺疊屏，並預計獨家供應蘋果首款摺疊屏手機的面板。三星Galaxy Z8系列預訂量達144萬部，與前代產品Z7系列相比，銷量增長了38.5%，創三星智慧手機預訂紀錄。
-
----
-
-### 2026-08-18 07:09:38  #公司
-
-【PCB產業鏈半年報亮眼 高階產品供需偏緊或延續至2028年】據上證報，近期，多家PCB產業鏈企業披露2026年半年報，大多數公司營收、淨利潤實現較快增長。上海證券報記者梳理發現，AI算力需求增長、產品結構升級及產能釋放等成為推動企業業績增長的重要因素。與此同時，當前PCB行業仍處於結構性漲價過程中，高階HDI、高多層PCB等高階產品持續處於供需偏緊狀態。展望後市，有行業人士向記者表示，AI伺服器持續迭代、ASIC加速器加快放量將繼續支撐高階PCB需求，而高階產能釋放仍需要時間，預計高階PCB供需偏緊格局或延續至2028年。
-
----
-
-### 2026-08-18 07:08:53  #公司 #國際
-
-【特斯拉Cybercab有望本月投放運營】據媒體援引知情人士的話稱，特斯拉正籌備Cybercab對外正式投放，最早將於本月就在美國得克薩斯州奧斯汀市啟動落地部署。Cybercab是一款專門為自動駕駛打造的車型，對特斯拉Robotaxi戰略至關重要，公司計劃未來將這款車投入其自動駕駛網約車服務。特斯拉已於6月開啟Cybercab量產版本的公開道路測試，該車預計將於今年晚些時候提升產能。近幾周特斯拉已經為正式推出做了多項準備，包括道路測試、在封閉園區道路向員工開放試乘，同時還對當地應急救援人員開展車輛處置培訓。（第一財經）
-
----
-
-### 2026-08-18 07:08:36  #公司
-
-三星顯示器將新建OLED顯示器生產設施。
-
----
-
-### 2026-08-18 07:06:09  #MKT News #US10Y #Impact bearish #USDJPY #Impact bullish #DXY
-
-【June: Japan cuts U.S. Treasuries sharply; strategist says unlikely to sell again】Foreign holdings of U.S. Treasuries fell $72.1bn in June to $9.3tln, U.S. Treasury data showed, led by reductions from Japan and China. Holdings have dropped in three of the past four months since a February peak. Treasuries declined amid concerns over large fiscal deficits and inflation remaining above target. Japan, the largest foreign holder, sold about $26.4bn in June, trimming its position to $1.12tln. Prolonged yen weakness prompted Japanese FX intervention, with the U.S. also involved in late July. Strategist Paresh Upadhyay said Japan’s moves were clearly driven by FX intervention needs; U.S. Treasury Secretary Bessent participated in July and signalled Tokyo could use Fed tools to avoid direct Treasury sales, and Upadhyay does not expect Japan to resume Treasury selling.
-
----
-
-### 2026-08-18 07:05:24  #公司
-
-【中國政府援助哥倫比亞緊急人道主義地震救災物資啟運】8月18日凌晨，中國政府向哥倫比亞提供的緊急人道主義地震救災物資從北京首都國際機場啟運。 據瞭解，該批物資主要包括發電機、淨水車、消毒機、太陽能照明裝置、帳篷和毯子等救災急需物資，共約80噸，搭乘中國國際貨運航空公司包機運往哥首都波哥大，計劃於當地時間18日中午運抵。 哥倫比亞西部當地時間10日發生7.4級地震，造成嚴重人員傷亡和財產損失。中國政府還決定向哥方提供緊急現匯援助，支援哥方救災和災後重建。
-
----
-
-### 2026-08-18 07:05:15  #公司
-
-【巴斯夫因萊茵河低水位致部分產品供應受阻】德國化工巨頭巴斯夫（BASF）執行長 Markus Kamieth 週一證實，持續乾旱引發的萊茵河低水位已導致部分產品無法足額供應。儘管目前公司財務未受明顯波及，但若干旱持續，生產受干擾的風險將逐周遞增。Kamieth 強調，得益於應對極端天氣準備工作的提升，目前整體局勢依舊可控，面臨的挑戰遠小於2018年。
 
 ---
