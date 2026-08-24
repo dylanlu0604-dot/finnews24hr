@@ -1,7 +1,26 @@
 {
   "date": "2026-08-25",
-  "count": 362,
+  "count": 364,
   "items": [
+    {
+      "id": "mkt:01a035eb-8dc7-7aab-9100-2a1a7c0c9fd5",
+      "time": "2026-08-25 06:37:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analysts: Bessent’s economic ‘D-Day’ on Iran appears performative, not substantive】U.S. Treasury Secretary Bessent offered no operational details for the new economic measures against Iran or how they would achieve Trump’s aims, such as reopening the Strait of Hormuz, and framed the move mainly as a warning urging global leaders to halt engagement with the Iranian regime. A senior Atlantic Council fellow said the statement is hollow without company- or country-level actions; other analysts called it performative and said major implementation questions remain."
+    },
+    {
+      "id": "te:markets:577698",
+      "time": "2026-08-25 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Rallies by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.20%) and Gold (1.12%). Biggest loser is Silicon (-0.63%)."
+    },
     {
       "id": "te:markets:577697",
       "time": "2026-08-25 06:30:13",

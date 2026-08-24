@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-25 06:34:10",
-  "count": 15852,
+  "updated": "2026-08-25 06:38:12",
+  "count": 15847,
   "items": [
+    {
+      "id": "mkt:01a035eb-8dc7-7aab-9100-2a1a7c0c9fd5",
+      "time": "2026-08-25 06:37:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analysts: Bessent’s economic ‘D-Day’ on Iran appears performative, not substantive】U.S. Treasury Secretary Bessent offered no operational details for the new economic measures against Iran or how they would achieve Trump’s aims, such as reopening the Strait of Hormuz, and framed the move mainly as a warning urging global leaders to halt engagement with the Iranian regime. A senior Atlantic Council fellow said the statement is hollow without company- or country-level actions; other analysts called it performative and said major implementation questions remain."
+    },
+    {
+      "id": "te:markets:577698",
+      "time": "2026-08-25 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Rallies by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.20%) and Gold (1.12%). Biggest loser is Silicon (-0.63%)."
+    },
     {
       "id": "te:markets:577697",
       "time": "2026-08-25 06:30:13",
@@ -143611,71 +143630,6 @@
         "Impact bullish"
       ],
       "text": "BHP reported fiscal‑year revenue of $58.76 billion, up 15% YoY. Fiscal‑year capital and exploration expenditure totaled $10.26 billion, up 5% YoY."
-    },
-    {
-      "id": "5044802",
-      "time": "2026-08-18 06:37:13",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "必和必拓本財年營收 587.6 億美元，同比增長 15%。"
-    },
-    {
-      "id": "mkt:01a011de-b8f5-7aab-906a-19daa1f010fe",
-      "time": "2026-08-18 06:36:43",
-      "tags": [
-        "MKT News",
-        "BHP.O",
-        "Impact bullish"
-      ],
-      "text": "BHP Group reported fiscal-year net profit of $9.83 bln, up 9% YoY. Underlying profit was $13.2 bln, up 30% YoY, beating market expectation of $12.66 bln."
-    },
-    {
-      "id": "5044801",
-      "time": "2026-08-18 06:36:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "必和必拓：儘管中東衝突持續，本集團大宗商品需求在 26 財年仍保持韌性。"
-    },
-    {
-      "id": "5044800",
-      "time": "2026-08-18 06:36:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "必和必拓：銅是驅動必和必拓業務增長的核心引擎。"
-    },
-    {
-      "id": "5044799",
-      "time": "2026-08-18 06:35:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "必和必拓：僅銅的需求量就將從當前約 3400 萬噸 / 年增長至 2050 年超 5000 萬噸 / 年。"
-    },
-    {
-      "id": "te:markets:575935",
-      "time": "2026-08-18 06:35:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 1.62% — Top commodity gainers are Silver (1.62%), Platinum (1.34%), Lithium Carbonate (0.99%) and Gold (0.84%). Biggest losers are Silicon (-1.43%), Aluminum Alloy (-0.69%) and Iron Ore CNY (-0.56%)."
-    },
-    {
-      "id": "5044798",
-      "time": "2026-08-18 06:34:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "必和必拓全年基礎盈利132.0億美元，預估126.9億美元。"
     }
   ]
 }
