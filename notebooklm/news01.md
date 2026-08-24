@@ -1,7 +1,242 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-25 02:02:54_
-_本檔包含 3503 則快訊，約 621027 字_
+_更新時間：2026-08-25 02:52:57_
+_本檔包含 3478 則快訊，約 621971 字_
+
+---
+
+### 2026-08-25 02:51:04  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude futures settled at $92.17/bbl, down $2.22 (-2.35%).
+
+---
+
+### 2026-08-25 02:50:58  #MKT News #Macro & Rates #US Economy
+
+Iran's economy minister said Tehran is fully prepared for a new round of U.S. economic pressure and that cutting off Iran's financial and commercial lifelines would not be easy.
+
+---
+
+### 2026-08-25 02:48:23  #國際
+
+伊朗：切斷（我方）金融與商業命脈並非易事。
+
+---
+
+### 2026-08-25 02:48:08  #國際
+
+伊朗經濟部長：伊朗已 “做好充分準備” 應對美國新一輪經濟攻勢。
+
+---
+
+### 2026-08-25 02:46:50  #宏觀 #公司 #市場 #國際
+
+【貝森特未釋放更多美債措施訊號 此前報道稱財政部或動用現金回購債券】美國財政部長斯科特·貝森特週一沒有進一步釋放有關調整美國債務管理方式的訊號。此前有報道稱，美國財政部可能動用部分現金儲備，為回購收益率較高的存量國債提供資金。貝森特週一在新聞釋出會上被問及是否很快會擴大回購時表示，“我們甚至還一隻債券都沒買。”在長期美債收益率升至多年最高水平後，貝森特上週宣佈了擴大後的國債回購計劃。週一被問及是否也在考慮縮減國債拍賣規模時，他表示，財政部將“繼續執行常規發行計劃”。他示意，在11月初下一次所謂的季度再融資公告發布之前，不會作出調整。
+
+---
+
+### 2026-08-25 02:42:32  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Slips as Markets Await US Inflation and Fed Signals — Silver erased early gains to trade slightly lower at around $68.5 an ounce on Monday, remaining near its highest level since mid-June. Investors are awaiting US inflation data and comments from Federal Reserve Chair Kevin Warsh this week for further clues on the interest-rate outlook. Silver gained more than 6% last week after a US Treasury buyback support plan pushed the dollar to multi-month lows. Markets are focused on the July PCE price index due Wednesday and Warsh’s speech at the Jackson Hole Symposium on Friday. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries maintaining business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt.
+
+---
+
+### 2026-08-25 02:39:38  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Holds Near Three-Month High as Dollar Remains Under Pressure — Gold pared earlier gains on Monday afternoon but remained around $4,640 an ounce, its highest level since May 14, as technical buying supported a rally fueled by a weaker dollar and the US Treasury’s recent buyback announcement. Bullion gained more than 5% last week after the buyback plan pushed the dollar to multi-month lows. Markets are now focused on the July PCE price index due Wednesday and Fed Chair Kevin Warsh’s speech at the Jackson Hole Symposium on Friday for clues on the interest-rate outlook. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries that maintain business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt.
+
+---
+
+### 2026-08-25 02:36:37  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Yemen's Houthi movement said all units and branches are at highest combat readiness. It warned Saudi Arabia, Israel, the United States and their allies that their previous rules have failed, urged them not to take 'stupid actions', and said it would respond militarily and alter the regional balance of power if they do.
+
+---
+
+### 2026-08-25 02:34:15  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】At the 02:30 close, SHFE gold main contract rose 0.61% to 1,006 yuan/gram; SHFE silver main contract fell 0.65% to 16,775 yuan/kg; SC crude oil main contract fell 0.98% to 588 yuan/barrel.
+
+---
+
+### 2026-08-25 02:34:10  #公司
+
+巴西石油公司：旗下煉廠柴油加氫處理裝置的S-10柴油加工能力將達到每天5500立方米。已批准啟動REPAR煉油廠柴油加氫處理裝置採購競爭流程。批准啟動競爭性招標流程，並不代表最終決定實施該裝置建設。
+
+---
+
+### 2026-08-25 02:34:06  #MKT News
+
+Petrobras said S-10 diesel hydrotreating capacity at one of its refineries will reach 5,500 cubic meters per day. The company approved launching a competitive procurement process for a hydrotreating unit at the REPAR refinery. Petrobras said approval to start competitive bidding does not constitute a final decision to build the unit.
+
+---
+
+### 2026-08-25 02:31:09  #MKT News
+
+U.S. crude futures settled at $85.01 per barrel, down $2.05, or 2.35%.
+
+---
+
+### 2026-08-25 02:31:01  #市場
+
+WTI 10月原油期貨收報85.01美元/桶。NYMEX 9月天然氣期貨收報2.7820美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.2708美元/加侖，NYMEX 9月取暖油期貨收報4.2677美元/加侖。
+
+---
+
+### 2026-08-25 02:30:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 0.09% at 1,000.78 yuan/gram in the Aug. 24 evening session; silver T+D closed down 0.74% at 16,655.0 yuan/kg.
+
+---
+
+### 2026-08-25 02:30:02  #市場
+
+上期所原油期貨夜盤收跌0.98%，報587.80元人民幣/桶。滬金夜盤收漲0.61%，滬銀收跌0.65%。
+
+---
+
+### 2026-08-25 02:30:02  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Depreciates by 2.53% — Top crypto loser is XRP (-2.53%). Gains are led by Bitcoin (1.64%) and Ether (0.59%).
+
+---
+
+### 2026-08-25 02:25:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Surges by 5.94% — Top commodity gainers are Coffee (5.94%) and Corn (1.49%). Biggest losers are Canola (-3.34%), Rapeseed (-2.92%) and Cocoa (-1.74%).
+
+---
+
+### 2026-08-25 02:24:43  #MKT News #Market Regions #Europe & UK
+
+【Macron meets Saudi crown prince Mohammed in Paris】French President Macron met Saudi Crown Prince Mohammed, who also serves as prime minister, at the Élysée Palace in Paris on Aug 24.
+
+---
+
+### 2026-08-25 02:22:43  #國際
+
+【法國總統馬克龍會見沙特王儲穆罕默德】8月24日，在位於巴黎的法國總統府愛麗捨宮，法國總統馬克龍（右）迎接來訪的沙烏地阿拉伯王儲兼首相穆罕默德。（新華社）
+
+---
+
+### 2026-08-25 02:22:16  #MKT News
+
+【France may ban mobile phones in high schools from start of autumn term】The French government said after a cabinet meeting on the 24th that a ban on mobile phone use in high schools could be implemented from the start of this autumn’s school term.
+
+---
+
+### 2026-08-25 02:21:49  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Slides as US Tightens Iran Sanctions — Brent crude oil extended losses to trade below $92 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the measures are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could face sanctions this week and indicated that China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly.
+
+---
+
+### 2026-08-25 02:21:19  #其他
+
+【法國或從今秋開學起實施高中手機禁令】法國政府發言人莫德·佈雷容24日在部長會議後通報說，高中禁止使用手機的措施可能從今年秋季開學起實施。（新華社）
+
+---
+
+### 2026-08-25 02:20:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Surges by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.20%) and Gold (0.44%). Biggest losers are Silver (-0.70%) and Silicon (-0.63%).
+
+---
+
+### 2026-08-25 02:18:14  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices Slide as US Expands Sanctions on Iran — Crude oil extended losses to trade below $85 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the sanctions are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly.
+
+---
+
+### 2026-08-25 02:16:39  #MKT News
+
+Sources said Pakistan's army chief also met Iran's president and held talks.
+
+---
+
+### 2026-08-25 02:15:49  #宏觀 #市場 #國際
+
+【美公佈多項針對伊朗經濟制裁】當地時間8月24日下午，北京時間今天（8月25日）凌晨，美國財長貝森特公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。特朗普政府宣佈擴大次級制裁範圍，將針對全球範圍內仍與伊朗保持商業往來的實體及國家實施制裁。在新聞釋出會上，貝森特推出了他所謂的“經濟諾曼底”行動。貝森特稱，“我們正在對伊朗的全球金融網路發動一場經濟猛攻。我們的目標是切斷維繫這個政權的每一條經濟命脈，直至德黑蘭陷入孤立。” 美國財政部稱“已摸清伊朗用於走私石油和規避制裁的網路、中間人及金融渠道”，並表示將與合作伙伴聯手，打擊伊朗任何“非法收入”來源。 美國財政部稱，已針對伊朗政權用以支撐經濟的五大領域——數字資產、技術、黃金、航空和航運——釋出相關制裁決定。美國財政部還對近60個實體、個人及船隻實施了制裁。（CCTV國際時訊）
+
+---
+
+### 2026-08-25 02:15:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-5.07%), Propane (-2.89%), Brent Crude Oil (-2.58%) and Crude Oil WTI (-2.54%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.95%) and Germany Natural Gas THE (3.61%).
+
+---
+
+### 2026-08-25 02:14:02  #MKT News #Market Themes #The Trump Trade
+
+【Iran says Trump's economic pressure campaign is "psychological warfare"】Tasnim quoted a senior Iranian intelligence official saying Trump’s economic pressure campaign is largely a media-driven "psychological warfare" aimed at increasing domestic pressure. The official said the US has already used all available tools, including primary and secondary sanctions and maritime blockades, and characterized Trump’s remarks about striking infrastructure and "opening the Strait of Hormuz" as propaganda rather than imminent action. He added such moves are often timed before market open to influence energy prices and are subsequently followed by conciliatory statements or regional mediation; Iran sees the campaign’s concurrence with a Pakistani mediator visit as a recurring public-pressure pattern, not evidence of substantive new measures.
+
+---
+
+### 2026-08-25 02:11:10  #MKT News #WTI #Impact mixed #Brent
+
+CENTCOM said as of Aug. 24 it had forced 71 commercial vessels to divert, disabled three vessels, and boarded and inspected two to ensure compliance. More than 40 vessels carrying humanitarian aid were permitted to proceed.
+
+---
+
+### 2026-08-25 02:10:47  #MKT News #Market Themes #The Trump Trade
+
+【Trump says "will no longer allow Canada to take advantage of the U.S.", warns of tougher measures】U.S. President Trump, on Truth Social, criticized Ontario Premier Doug Ford and accused Canada of decades of relying on U.S. support, saying the U.S. "will always be bigger, richer, stronger" and that Canada could not survive without it. He accused Prime Minister Carney and Ford of prompting corporate outflows, said Canadian power, oil and gas rely on transport through the U.S., and warned Canada would face "more serious consequences" if it does not "play by the rules." Trump also claimed Canadian unemployment has risen to 10% and is still climbing, asserted businesses are moving to the U.S., and said "the days of hurting U.S. farmers and businesses are over."
+
+---
+
+### 2026-08-25 02:09:24  #國際
+
+市場訊息：巴基斯坦陸軍參謀長同伊朗總統舉行會見並會談。
+
+---
+
+### 2026-08-25 02:09:12  #市場
+
+現貨白銀日內跌1%，現報68.28美元/盎司。
+
+---
+
+### 2026-08-25 02:08:58  #國際
+
+美國中央司令部：截至 8 月 24 日，美國中央司令部部隊已迫使 71 艘商船改道，扣押 3 艘船隻，並登船檢查 2 艘，確保各方遵守封鎖規定。已有 40 餘艘運送人道主義援助物資的船隻獲准通行。
+
+---
+
+### 2026-08-25 02:06:45  #國際
+
+【特朗普：加拿大應該“服從”，否則將面臨更嚴重後果】美國總統特朗普：加拿大安大略省省長大放諸多 “虛張聲勢的狠話”。幾十年來，美國一直在為加拿大兜底，但這種局面到此為止！美國無論體量、財富還是實力，永遠遠勝於加拿大。離開了美國，加拿大將難以為繼 —— 加拿大的全部財源都仰仗美國。而如今加拿大領導層表現糟糕，主要是卡尼總理，再加上他的跟班福特，加拿大不能再繼續佔美國的便宜，而美國恰恰是加拿大賴以生存的關鍵。
+要記住，加拿大大量電力、石油與天然氣都要經由美國境內輸送。得有人讓這群荒唐政客乖乖就範，否則加拿大將要承受的後果會嚴重得多！加拿大當前失業率已達 10%，並且還在快速攀升。當地企業紛紛遷往美國，這一切都源於政策失效與執政能力低下。加拿大壓榨美國農民及其他企業的日子已經一去不復返！
+
+---
+
+### 2026-08-25 02:05:01  #MKT News
+
+Trump called Ontario Premier Ford’s remarks "grandstanding", accused Canada of long-term dependence on the United States and warned Canada would face more serious consequences if it did not change its policies.
+
+---
+
+### 2026-08-25 02:04:36  #MKT News
+
+【U.S. says strike on "drug-smuggling" vessel in eastern Pacific killed two】U.S. Southern Command said on the 24th that U.S. forces struck a vessel it described as a drug-smuggling boat in the eastern Pacific on the 23rd, killing two people aboard.
+
+---
+
+### 2026-08-25 02:03:00  #MKT News
+
+TASNIM News quoted a security official saying the US economic sanctions plan is intended to increase psychological pressure on the Iranian people.
+
+---
+
+### 2026-08-25 02:02:54  #其他
+
+【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。（新華社）
+
+---
+
+### 2026-08-25 02:02:32  #國際
+
+伊朗塔斯尼姆通訊社援引安全官員的話稱，美國的經濟制裁計劃是一場旨在加大對伊朗民眾心理施壓的行動。
 
 ---
 
@@ -20744,424 +20979,5 @@ Crypto Updates: Ether Drops by 3.53% — Top crypto losers are Ether (-3.53%) an
 ### 2026-08-22 08:13:27  #市場
 
 【下半年以來千億元級資金借道股票型ETF佈局A股】7月以來，A股市場呈現震盪調整態勢。在市場分歧加大、投資者情緒趨於謹慎的背景下，大規模增量資金正透過股票型ETF（交易型開放式指數基金）入場佈局。Wind資料顯示，截至8月21日，7月以來，股票型ETF資金淨流入已達3676.05億元。僅本週股票型ETF資金淨流入就超百億元，達到183.35億元。具體來看，本週科創半導體ETF華夏、創業板ETF易方達兩隻產品資金淨流入額均在20億元以上；此外，科創50ETF華夏、通訊ETF國泰、科創50ETF易方達、半導體裝置ETF國泰、滬深300ETF華泰柏瑞等產品期間資金淨流入額也均超10億元。（證券日報）
-
----
-
-### 2026-08-22 08:10:56  #其他
-
-【愛立信、聯發科完成GNSS RTK分米級定位測試】8月22日，據愛立信訊息，愛立信和聯發科技已完成全球首例高精度戶外定位端到端（e2e）測試。據介紹，雙方利用符合3GPP標準的全球導航衛星系統（GNSS）實時動態（RTK）技術，在5G商用網路上直接實現了十釐米級別的定位精度。
-
----
-
-### 2026-08-22 08:10:39  #國際
-
-【白宮新聞秘書萊維特即將離職，特朗普最新回應：收到很多求職申請】白宮新聞秘書卡羅琳·萊維特將於8月底離職，近期圍繞誰將接替萊維特的職位成為媒體關注的焦點。綜合美國《國會山報》《新聞週刊》等媒體報道，美國總統特朗普21日最新回應稱，自宣佈萊維特即將離職以來，他這輩子“從未見過這麼多的求職申請”，但同時也暗示選擇可能很艱難。（環球網）
-
----
-
-### 2026-08-22 08:08:02  #其他
-
-【秘魯因液化石油氣短缺對五地區宣佈緊急狀態】據一份政府決議檔案顯示，受強降雨影響，液化石油氣（LPG）供應短缺，秘魯對庫斯科、普諾、阿雷基帕、莫克瓜以及塔克納五個地區宣佈為期30天的緊急狀態。 此前訊息稱，秘魯藤森政府將因液化石油氣短缺在阿雷基帕宣佈緊急狀態。 決議寫明，進入緊急狀態後，能源礦業監管機構Osinergmin可採取“緊急”舉措，保障能源相關業務運轉。
-
----
-
-### 2026-08-22 08:07:30  #公司
-
-【今年以來發行規模超2000億元 熊貓債券市場實現量質雙突破】8月21日，中廣核國際有限公司發行規模為25億元的熊貓債券。Wind資料顯示，截至8月21日，今年以來熊貓債券發行規模超2000億元。業內專家表示，基於穩定的宏觀基本面、發行成本優勢，今年熊貓債券市場蓬勃發展，實現了“量”和“質”的雙突破。下一步，建議透過最佳化註冊發行與稽核機制、便利境內長期資金參與熊貓債券投資等方式，推動熊貓債券市場延續擴容提質的發展態勢。（中國證券報）
-
----
-
-### 2026-08-22 08:06:31  #市場 #焦點
-
-暗盤金價跌破4600美元/盎司，日內跌幅0.1%。
-
----
-
-### 2026-08-22 08:06:12  #市場 #央行 #國際
-
-【市場博弈加劇 金價長短週期走勢或分化】8月以來，國際金價擺脫前期區間震盪格局，開啟一輪強勢反彈行情。倫敦現貨黃金價格自4100美元/盎司下方穩步攀升，接連突破多個關鍵整數關口，並一度站上4600美元/盎司，創下今年5月15日以來新高，截至記者發稿時，8月以來累計漲幅超13%。業內人士表示，本輪金價大漲是美聯儲加息預期降溫、中東地緣局勢變化、美債政策調整等多重利好因素共振的結果，短期上漲動能充足。中期來看，金價或受地緣衝突演變、美聯儲貨幣政策預期變化影響而反覆波動。長期來看，全球地緣風險頻發、美元信用持續受質疑、美國債務結構性難題難以化解，黃金對美元的替代效應持續增強，將為金價上行提供充足動能。（中國證券報）
-
----
-
-### 2026-08-22 08:03:51  #市場 #焦點
-
-美國天然氣暗盤突破2.8美元，日內漲幅0.4%。
-
----
-
-### 2026-08-22 08:02:41  #市場 #觀點
-
-【付小銅新進同花順、北方稀土前十大股東，此前重倉中信證券受關注】牛散付小銅2026年一季度因現身中信證券前十大股東引發關注。據證券時報記者最新梳理，2026年二季度，付小銅（不排除重名可能性）微幅加倉中信證券，同時新進同花順、北方稀土前十大股東。中信證券半年報顯示，付小銅持有8424.94萬股，持股比例0.57%，為第八大股東，按中信證券6月30日的收盤價28.73元/股計算，其持股市值超過24億元；與一季度末相比，付小銅持股數量微幅增加，持股比例均為0.57%。同花順半年報顯示，付小銅持有194.89萬股，持股比例0.26%，新進第十大股東；按同花順6月30日收盤價241元/股計算，付小銅持股市值接近5億元。另外，北方稀土半年報顯示，付小銅持有1511.78萬股，持股比例0.42%，新進第八大股東；按北方稀土6月30日收盤價48.05元/股計算，付小銅持股市值超過7億元。
-
----
-
-### 2026-08-22 08:01:34  #公司
-
-【OpenAI將GPT-5.6 Sol模型API定價下調兩成以上】當地時間8月21日，OpenAI官方在其開發者社群公告稱，GPT-5.6 Sol模型API和積分定價將在未來3個月內下調20%以上。現已透過API提供，並逐步向符合條件的ChatGPT Work和Codex積分套餐開放。Pro、Plus 和 Business 訂閱使用者的使用價格保持不變。
-
----
-
-### 2026-08-22 07:58:21  #市場 #焦點
-
-暗盤金價突破4600美元/盎司，日內漲幅1%。
-
----
-
-### 2026-08-22 07:57:25  #國際
-
-美國總統特朗普21日在南卡羅來納州一場競選集會上表示，如果共和黨輸掉中期選舉，他將被彈劾。 （新華社）
-
----
-
-### 2026-08-22 07:56:38  #公司 #市場
-
-【功率半導體新一輪漲價潮或開啟 融資客大舉買入概念股】截至8月21日收盤，A股功率半導體概念股平均漲幅接近2%，大幅跑贏上證指數，板塊內僅少數個股收跌。功率半導體板塊的爆發或與相關公司漲價有關。訊息面上，受人工智慧（AI）伺服器、新能源汽車、光儲等領域需求爆發，疊加晶圓、封裝產能緊張、原材料價格大幅上漲等成本因素影響，多家功率半導體廠商正醞釀新一輪價格調整，漲價幅度預計在10%—15%。從融資餘額來看，21只功率半導體概念股中，有19只屬於融資融券標的，其中12只個股年內均獲得融資客加倉。截至8月20日，融資餘額較去年末增幅超過20%的功率半導體概念股有8只，包括銀河微電、富滿微、國電南瑞等。
-
----
-
-### 2026-08-22 07:56:33  #國際
-
-【特朗普中期選舉新話術：就當選票上有我】唐納德・特朗普總統向南卡羅來納州選民呼籲，要大家 “假裝” 選票上有他，出來投票，支援他親自力推的候選人 —— 參議員達琳・格雷厄姆，投身這場競爭激烈的共和黨初選。本次中期選舉，特朗普本人並不參選，共和黨正全力爭取參眾兩院控制權，而特朗普希望藉此提振共和黨選民的投票熱情。格雷厄姆在辯論中表現糟糕，特朗普仍出面為其辯護，稱 “她十分聰慧，而且為人坦誠”，會落實對他而言至關重要的各項議題。
-
----
-
-### 2026-08-22 07:55:17  #其他
-
-【阿根廷足協：將向國際足聯上訴委員會上訴】當地時間21日，阿根廷足協在一份宣告中說，已收到國際足聯紀律委員會對阿根廷國家隊及相關人員在世界盃期間違規行為的處罰，他們將向國際足聯上訴委員會提出上訴。國際足聯紀律委員會21日公佈了對2026美加墨世界盃期間阿根廷隊多項違規違紀行為的處罰結果：阿根廷足協被罰款32.1萬美元（約合人民幣216萬元），並被限制未來兩個主場比賽的觀眾人數；3名阿根廷隊球員和1名教練組成員被處以禁賽和罰款，其中帕雷德斯被禁賽10場。
-
----
-
-### 2026-08-22 07:54:00  #央行 #日本央行
-
-【通脹壓力大 分析預測日本央行最快9月加息】日本總務省21日公佈的資料顯示，剔除生鮮食品後，日本7月核心消費價格指數（CPI）為102.1，同比上漲1.8%，較6月的1.6%漲幅進一步擴大。至此，日本核心CPI已連續59個月同比上漲。資料顯示，能源價格由6月同比下降0.4%轉為7月上漲0.6%，是核心CPI漲幅擴大的主要原因。此外，7月剔除生鮮食品後的食品價格同比上漲3.0%，也是推高物價的因素。
-
----
-
-### 2026-08-22 07:54:00  #經濟數據 #日本
-
-【通脹壓力大 分析預測日本央行最快9月加息】日本總務省21日公佈的資料顯示，剔除生鮮食品後，日本7月核心消費價格指數（CPI）為102.1，同比上漲1.8%，較6月的1.6%漲幅進一步擴大。至此，日本核心CPI已連續59個月同比上漲。資料顯示，能源價格由6月同比下降0.4%轉為7月上漲0.6%，是核心CPI漲幅擴大的主要原因。此外，7月剔除生鮮食品後的食品價格同比上漲3.0%，也是推高物價的因素。
-
----
-
-### 2026-08-22 07:52:39  #其他
-
-【原產地證書管理資訊首次實現跨省區、跨部門互認】日前，山東、山西、內蒙古、寧夏等4省區實施原產地證書管理資訊互認新模式，實現原產地證書籤發在海關與貿促會之間的“一次核查、結果互認”，可壓縮原產地證書籤發時間1到3天，這也是全國首次開展跨省區、跨部門間原產地證書管理資訊共享、互認。（央視新聞）
-
----
-
-### 2026-08-22 07:50:01  #市場 #國際
-
-特朗普：牛肉價格正在迅速下跌。
-
----
-
-### 2026-08-22 07:45:25  #公司
-
-【高比例生物質摻燒發電取得新突破】記者今天（22日）從國家能源集團獲悉，廣東清遠電廠2號機組成功實現10%能量比生物質摻燒，這是國內首例百萬千瓦二次再熱機組實現高比例生物質摻燒發電，填補了國內技術空白，為火電機組清潔低碳轉型注入新動能。（央視新聞）
-
----
-
-### 2026-08-22 07:39:06  #國際
-
-【據悉日本下財年預算申請將超130萬億日元】據報道，日本下一財年的預算申請規模將首次突破130萬億日元，連續第四年創下歷史新高。日本各政府部門需於本月底前提交預算申請，隨後開啟年度預算磋商，政府通常會在12月編制預算草案。
-
----
-
-### 2026-08-22 07:36:40  #其他
-
-【未來三天北京多分散性雷陣雨 氣溫較高體感悶熱】未來三天（8月22日至24日），北京多分散性雷陣雨，雷雨時短時雨強大；同時最高氣溫和相對溼度較高，悶熱感較強，需做好防暑降溫措施。（央視新聞）
-
----
-
-### 2026-08-22 07:33:18  #焦點 #國際
-
-【特朗普再稱霍爾木茲海峽為美國領土】當地時間8月21日，美國總統特朗普抵達南卡羅來納州，為上個月暴斃的共和黨參議員林賽·格雷厄姆的妹妹達琳助選。特朗普在演講時重申必須阻止伊朗發展核武器。他還稱伊朗非常渴望達成協議，但他不知道自己是否真想達成協議，因為在他看來，“霍爾木茲海峽現在是美國的領土，它就是美國的領土”。（CCTV國際時訊）
-
----
-
-### 2026-08-22 07:32:58  #其他
-
-【四川馬邊縣遭遇極端強降雨引發山洪 縣城部分割槽域被淹】8月22日凌晨，四川樂山市馬邊彝族自治縣遭遇極端強降雨。馬邊縣氣象臺於1時33分發布暴雨橙色預警，2時44分升級為暴雨紅色預警，其中勞動鎮、民建鎮、建設鎮等區域3小時降雨量達100毫米以上，雪口山、煙峰、梅林等地3小時降雨量達50毫米以上。馬邊縣城區多條地勢較低街道進水，洪水帶來大量泥沙與堆積物，沿街部分車輛、商鋪和房屋被淹、受損。（央視新聞）
-
----
-
-### 2026-08-22 07:32:40  #宏觀 #國際
-
-美國國務院表示：美國期待承辦兩國間經濟峰會，以深化與薩爾瓦多的夥伴關係。
-
----
-
-### 2026-08-22 07:27:40  #國際
-
-加拿大負責美國貿易事務的部長多米尼克·勒布朗表示：我們還有更多工作要做。
-
----
-
-### 2026-08-22 07:19:47  #國際
-
-特朗普：霍爾木茲海峽是美國領土。
-
----
-
-### 2026-08-22 07:19:31  #國際
-
-特朗普重申：伊朗不能擁有核武器。
-
----
-
-### 2026-08-22 07:18:52  #市場 #國際
-
-特朗普談伊朗：我們完事之後，油價就會下跌。
-
----
-
-### 2026-08-22 07:16:06  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、中國經濟的韌性與活力
-2、諶貽琴在北京市調研時強調 加快建設足球青訓體系 提升競技體育後備人才培養水平
-3、財政支出預算安排首超三十萬億元，新增政府債券規模歷年最大 真金白銀投得更實 政策舉措落得更準（權威釋出·開局起步“十五五”）
-4、全國一般公共預算收入前7月平穩較快增長 衛生健康支出增長9.8%
-5、《對外投資管理辦法（修訂徵求意見稿）》釋出
-6、中國企業助力拉美國家發展網際網路新業態
-7、中國印尼全面戰略對話機制舉行首次會議
-8、兩部門細化人民幣買賣活動監管要求
-9、中國就深化亞太糧食安全合作提出倡議
-10、聯合國人工智慧與人類發展全球對話在西安舉辦
-11、前7月高技術產業實際使用外資佔全國超四成 較去年同期提升12.2個百分點
-12、《促進網信企業高質量發展行動計劃（2026—2030年）》印發
-13、三部門聯合推動已故人士金融賬戶查詢服務
-14、兩部門細化人民幣買賣活動監管要求
-15、甘肅省內縣辦中醫醫療機構覆蓋率達98.8%
-
----
-
-### 2026-08-22 07:15:54  #國際
-
-特朗普：今天我要感謝最高法院對白宮宴會廳事件的裁決。
-
----
-
-### 2026-08-22 07:15:42  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、陸海內外聯動 東西雙向互濟 貴州主動融入全面開放格局
-培育新動能 佈局新賽道
-2、吉林構建體現本地特色現代化產業體系
-3、有效擴大國內需求
-4、李強主持召開國務院常務會議 聽取新一代通訊網建設情況彙報，部署進一步清理拖欠企業賬款工作，研究持續改善空氣質量有關工作，審議透過《電力安全事故應急處置和調查處理條例（修訂草案）》和《市場監督管理所條例（草案）》
-5、趙樂際會見約旦國王阿卜杜拉二世
-6、我國早稻產量連續6年穩定在560億斤以上
-7、暑運迎來返程高峰
-8、廣州強化科技創新和產業創新深度融合
-9、7月全社會用電量創歷史新高 高技術及裝備製造業用電量同比增長8.9%
-
----
-
-### 2026-08-22 07:08:16  #國際
-
-【美媒：美計劃償還聯合國8.5億美元欠款】據美國媒體21日報道，美國政府已通知國會計劃向聯合國支付8.5億美元，以償還其拖欠的部分聯合國會費及其他款項。據美聯社獲得的本月提交給國會議員的通知顯示，美國務院計劃撥付7.25億美元用於支付聯合國會費，1.25億美元用於支援聯合國在海地和剛果（金）的維和行動。報道說，美國拖欠聯合國相關攤款資金總額約50億美元，其中包括超20億美元會費和約30億美元的維和行動經費。（新華社）
-
----
-
-### 2026-08-22 07:07:00  #公司 #市場 #國際
-
-【8月22日隔夜要聞一覽】
-1、美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。
-2、美國最高法院首席大法官約翰·羅伯茨簽署一句話行政擱置令，暫時允許白宮宴會廳改造專案繼續進行。
-3、阿曼外交大臣巴德爾與伊朗外交部長阿拉格齊通電話，雙方強調，將繼續就相關問題進行磋商，推動達成具體共識，以恢復霍爾木茲海峽自由、順暢通航，並維護地區安全與穩定。
-4、據日本方面21日訊息，日本政府部門和機構2027財年（2027年4月至2028年3月）預算申請總額預計將超過130萬億日元（1美元約合159日元），相比本財年的122萬億日元顯著增加。
-5、伊朗海軍司令沙赫拉姆·伊拉尼稱，伊朗武裝力量在最高領袖領導下保持高度戒備，“不久後將在海上給敵人一個重大的、歷史性的、難忘的教訓”。
-6、現貨黃金升至5月中旬以來最高水平，本週累計上漲逾5%。截至收盤，現貨黃金價格漲1.89%，報4604.53美元/盎司；現貨白銀價格漲1.32%，報68.97美元/盎司。
-7、加密貨幣持續走高，比特幣週五最高報約78500美元，本週迄今上漲超23%，創2023年3月以來最大單週漲幅。
-8、美國總統唐納德·特朗普表示，他將對部分牛絞肉進口給予關稅寬減，以降低美國消費者的購買價。
-9、Anthropic PBC已聘請谷歌定製晶片專案創始人Amir Salek，Salek曾負責谷歌的張量處理單元（TPU）業務直至2022年，並參與推出了前七代TPU晶片。
-10、知情人士稱，英偉達已同意支付60億美元，以獲得Poolside人工智慧（AI）模型的使用許可，並將向100多名員工發出聘用邀請。
-
----
-
-### 2026-08-22 07:03:55  #宏觀 #市場 #央行 #國際
-
-【機構：美國財政部正接近融資的"有效前沿"】SMBC美洲策略師表示，只要對國庫券的需求保持強勁——且”仍在增長”，美國財政部就能成功調整其發行期限結構以壓低收益率曲線，不過該部門可能已接近”有效前沿”。由Joseph Abate領銜的策略師團隊指出，美聯儲加息、逆回購工具使用規模縮減以及貨幣市場基金餘額增長，使財政部得以將國庫券供給提升至國債總額的22%，而並未出現”顯著折價”，國庫券與隔夜指數掉期（OIS）的利差保持穩定便是明證。
-
----
-
-### 2026-08-22 07:01:53  #其他 #焦點
-
-美軍中央司令部： 截至 8 月 21 日，美軍已對 68 艘商業船舶實施改道，使 3 艘船舶喪失行動能力，並登檢 3 艘船舶，以確保（相關規定）得到遵守。
-
----
-
-### 2026-08-22 07:01:11  #國際
-
-美國中央司令部：美國已調轉68艘參與封鎖的商船航線。
-
----
-
-### 2026-08-22 07:00:48  #國際
-
-【特朗普稱伊朗未準備好達成合適協議】美國東部時間8月21日下午，美國總統特朗普在馬里蘭州安德魯斯聯合基地準備搭乘“空軍一號”專機時對媒體表示，伊朗還沒準備好達成一份“合適的協議”。特朗普是在被問及“對伊朗發動經濟戰是否意味著美國在該地區的軍事選項已經受限”的提問時作出上述表態的。他表示，這不意味著美國的軍事選項已經受限，美國“只是在觀察事態發展”。他再次強調美國對霍爾木茲海峽相關區域“擁有絕對控制權”，並稱其管控範圍還進一步“延伸至陸上區域”。 特朗普稱，“伊朗很想達成協議，但在我看來，他們還沒準備好達成一項合適的協議。”（CCTV國際時訊）
-
----
-
-### 2026-08-22 06:59:50  #市場 #焦點
-
-布倫特原油暗盤突破92美元，日內漲超1%。
-
----
-
-### 2026-08-22 06:57:35  #國際
-
-市場訊息：特朗普總統已經到達為林賽·格雷厄姆參議員舉行的集會現場，他預計將很快登臺講話。
-
----
-
-### 2026-08-22 06:54:38  #國際
-
-參議員達琳·格雷厄姆（ 已故參議員林賽·格雷厄姆的妹妹 ）：批評者們說我就不該競選參議院席位，因為我不是政客。我認為他們說的對。然而，特朗普總統之前從未擔任過民選職務，但我認為他乾的非常好。
-
----
-
-### 2026-08-22 06:51:40  #宏觀 #公司 #國際
-
-【馮德萊恩：以色列推進“E1區”定居點建設不可接受】歐盟委員會主席馮德萊恩當地時間21日表示，以色列政府決定就約旦河西岸“E1區”定居點專案釋出建設招標一事“不可接受”。她表示，歐盟長期以來一直反對這一舉措，因為該專案將分割約旦河西岸、破壞巴勒斯坦領土連續性，進而破壞“兩國方案”。以色列政府18日釋出了“E1區”定居點建設專案1234套住房的招標公告。2025年8月，以色列財政部長斯莫特里赫發表宣告稱，他計劃批准在“E1區”建造3401套住房，旨在“葬送巴勒斯坦國建國構想”。隨後，以國防部下屬的民政管理局高階規劃委員會批准了這一住房建造計劃。英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。（央視新聞）
-
----
-
-### 2026-08-22 06:45:39  #國際
-
-【美陸軍部長或將離職】據美國《華爾街日報》當地時間8月21日援引知情人士訊息報道，美國陸軍部長丹·德里斯科爾預計將於年底前離職。近幾個月來，他與美國國防部長赫格塞思之間的關係持續緊張。（CCTV國際時訊）
-
----
-
-### 2026-08-22 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Soars by 14.34% — Top crypto gainers are XRP (14.34%), Ether (8.78%) and Bitcoin (7.53%).
-
----
-
-### 2026-08-22 06:45:03  #國際
-
-市場訊息：以色列炮兵對黎巴嫩南部實施猛烈炮擊。
-
----
-
-### 2026-08-22 06:43:23  #國際
-
-【白宮新聞秘書萊維特完成最後一次隨行飛行，將回歸特朗普超級政治行動委員會】白宮新聞秘書卡羅琳·萊維特（Karoline Leavitt）在搭乘“空軍一號”從華盛頓飛往默特爾比奇（Myrtle Beach）的航班上，完成了她作為新聞秘書的最後一次隨行飛行。在起飛後於媒體艙進行的簡短交流中，萊維特坦言，雖然她會懷念這份工作，但“我更愛我的孩子們”。她透露，自己和家人近期仍會居住在華盛頓，並笑言“你們以後還會經常看到我”。據悉，萊維特離任後將回歸“MAGA Inc.”——即特朗普的超級政治行動委員會（Super PAC）。陪同她此次飛行的還有總統副助理兼新聞顧問帕特·亞當斯（Pat Adams）。萊維特在機上對亞當斯讚賞有加，稱他是“華盛頓最聰明的人”，並表示這是亞當斯首次搭乘“空軍一號”隨行。
-
----
-
-### 2026-08-22 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rice Rises by 4.10% — Top commodity gainers are Rice (4.10%), Rubber (1.27%) and Oat (1.24%). Biggest losers are Wool (-3.26%) and Canola (-2.52%).
-
----
-
-### 2026-08-22 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Gains by 2.84% — Top commodity gainers are Platinum (2.84%), Gold (2.03%) and Copper (1.79%).
-
----
-
-### 2026-08-22 06:34:57  #其他
-
-【深圳市雷電預警訊號】深圳市氣象臺於2026年08月22日06時31分發布全市雷電預警訊號，預計2小時內全市將受雷電影響。市民停留在安全地方。（深圳天氣）
-
----
-
-### 2026-08-22 06:34:43  #公司
-
-波音副總裁Ben Nimmergut表示：我們提出了一份有力的合同方案，旨在讓我們的員工在太平洋西北地區的薪酬和福利方面處於市場領先地位。罷工最早可能於10月7日開始。波音目前沒有與工會安排進一步的談判。
-
----
-
-### 2026-08-22 06:33:47  #宏觀 #國際
-
-【古巴代表問美國到底在怕什麼】近日，古巴常駐聯合國代表埃內斯托·索韋龍·古斯曼在接受專訪時質問美國國務卿魯比奧：“美國到底在怕什麼？”古斯曼發問：“如果美國篤定古巴政府無能，為什麼幾乎每兩週就要出臺新一輪制裁？為什麼只要古巴找到前進的道路、找到擺脫當前困境的辦法，美國就要施加新的制裁、扼殺古巴。”他指出，幾十年來，美國政府反覆聲稱古巴需要變革。然而如今，美方制裁卻是古巴實施全面改革的“主要障礙”。 古斯曼表示，儘管近幾個月來美方關於對古巴採取軍事行動的言論有所減少，但古巴仍視其為“真實風險”。古巴已做好準備進行談判，但絕不會拿國家主權與獨立做交易。 （CCTV國際時訊）
-
----
-
-### 2026-08-22 06:33:24  #公司 #國際
-
-【荷蘭對優步網約車公司開出8.25億歐元罰單】荷蘭資料保護局21日宣佈，對美國網約車服務運營商優步公司處以8.25億歐元罰款，理由是優步公司在未充分履行相關告知和人工稽核義務的情況下，透過自動化系統停用司機賬戶，違反歐盟《通用資料保護條例》的相關規定。荷蘭資料保護局說，在2018年至2022年間，優步公司使用軟體追蹤司機的駕駛行為和乘客評價。如果該軟體檢測到疑似欺詐行為或乘客評價過低，相關司機的賬戶就會被自動停用，此過程未經人工稽核，給司機利益造成損害。上述情況由170多名法國優步網約車司機首先舉報，由於優步公司的歐洲總部位於阿姆斯特丹，荷蘭資料保護局隨即發起調查。優步公司已宣佈對該處罰提出上訴。近年來，荷蘭資料保護局多次向優步公司開出罰單。2023年對優步公司處以1000萬歐元的罰款；2024年以優步公司將歐洲地區司機的個人資料傳送至美國為由，對其處以2.9億歐元罰款。（新華社）
-
----
-
-### 2026-08-22 06:32:38  #國際
-
-【烏克蘭首都基輔響起強烈爆炸聲】當地時間22日凌晨1時許，烏克蘭首都基輔響起防空警報，隨後基輔市響起多次強烈爆炸聲。烏空軍稱俄軍向基輔州和基輔市方向發射了多枚彈道導彈和巡飛彈。俄羅斯方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-08-22 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Propane Drops by 3.02% — Top commodity losers are Propane (-3.02%) and Crude Oil WTI (-0.22%). Gains are led by Gasoline (1.81%), Natural Gas UK (1.78%), Natural Gas EU (1.49%) and Brent Crude Oil (0.10%).
-
----
-
-### 2026-08-22 06:25:22  #其他
-
-星鏈：Starlink 在日食期間提供遠端連線和直播覆蓋。
-
----
-
-### 2026-08-22 06:16:09  #其他
-
-白宮新聞秘書萊維特向記者發表講話。
-
----
-
-### 2026-08-22 06:16:02  #公司
-
-萊維特：從白宮卸任後將重返MAGA公司。
-
----
-
-### 2026-08-22 06:15:54  #其他
-
-以太坊創日內新高：2546 美元。
-
----
-
-### 2026-08-22 06:15:16  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 1.04% — Top currency gainers are Brazilian Real (1.04%), Australian Dollar (0.79%), South Korean Won (0.61%) and British Pound (0.08%). Biggest losers are Turkish Lira (-0.71%) and Dollar Index (-0.08%). Meanwhile, Japanese Yen and Euro were little changed.
-
----
-
-### 2026-08-22 06:11:45  #國際
-
-【盧拉與特朗普通話 反對美國對巴商品加徵關稅】巴西總統盧拉21日與美國總統特朗普通電話，反對美國政府近期對巴西商品加徵關稅。據巴西政府釋出的宣告，在1小時20分鐘的通話中，盧拉和特朗普討論了雙邊貿易、公共安全合作及國際熱點問題。盧拉指出，近期美國對巴西加徵關稅的相關指控缺乏依據，這些關稅措施對巴美兩國均構成損害，雙方應繼續透過對話協商解決分歧。美國貿易代表辦公室7月15日宣佈自7月22日起對部分巴西產品在原有關稅基礎上加徵25%的關稅。7月23日，美國貿易代表辦公室又以所謂“強迫勞動”為由，對包括巴西在內的數十個國家和地區徵收10%至12.5%的新關稅，以替代即將到期的全球進口關稅。巴西政府8月13日宣佈，已根據經濟對等法案啟動相關程式，反制美國政府對巴西產品採取的新關稅措施。（新華社）
-
----
-
-### 2026-08-22 06:05:58  #國際
-
-市場訊息：巴西貿易部長稱與美國的談判將於下週恢復。
-
----
-
-### 2026-08-22 06:05:42  #宏觀 #國際
-
-【特朗普稱干預債市是貝森特自己拿的主意】美國總統唐納德·特朗普說，他沒有指示斯科特·貝森特本週干預債券市場，是這位財政部長自行決定採取的行動。“沒有，完全沒有，” 特朗普週五被問及他是否曾推動貝森特採取行動時對記者說，“他是個很能幹的人。他想這麼做的。他很會的。”貝森特本週採取措施穩定債市並推動降低觸及了多年高位的長期借貸成本。財政部週三出其不意宣佈將長債回購規模擴大至少一倍。然而，此舉產生的效果轉瞬即逝，30年期美債在第二天便回吐了所有漲幅。總統週五稱讚了貝森特。“他直覺不錯，天生對債券和利率就有著非常好的直覺，他做到了，” 特朗普說。
-
----
-
-### 2026-08-22 06:04:16  #國際
-
-白宮：唐納德·J·特朗普總統離開華盛頓特區前往南卡羅來納州。
-
----
-
-### 2026-08-22 06:03:53  #國際
-
-美國哮喘中心：目前未發現本次事件導致任何身份盜竊或欺詐行為。
-
----
-
-### 2026-08-22 06:03:46  #國際
-
-美國哮喘中心：調查確認，在2025年10月28日至11月17日期間，有未經授權者訪問了數量有限的TAC系統。
 
 ---
