@@ -1,7 +1,48 @@
 {
   "date": "2026-08-25",
-  "count": 288,
+  "count": 292,
   "items": [
+    {
+      "id": "te:markets:577691",
+      "time": "2026-08-25 04:24:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher on Mining Gains — The S&P/TSX Composite Index edged 0.3% higher to close at 36,714 on Monday despite the collapse of trade talks between the US and Canada. Canadian Prime Minister Carney said he would match US tariffs after the US imposed 50% tariffs on selected Canadian goods on Saturday. The new duties include furniture, plastics, plywood and electrical equipment, adding to existing tariffs on steel, lumber and autos. Manufacturers traded lower, with Magna International tumbling 6.6%, BRP down 6% and Linamar slumping 8.6%. Still, equities rose as higher gold prices supported mining shares, with Agnico Eagle adding 1.1%, Barrick rising 1.6% and WPM gaining 2.2%."
+    },
+    {
+      "id": "mkt:01a03570-9cec-7aab-90ff-611465b863a6",
+      "time": "2026-08-25 04:22:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Adviser to Iran's supreme leader says Iran will respond more decisively to US threats】An adviser to Iran's supreme leader, Mokhber, said on the evening of the 24th that Iran will respond more decisively than before to US threats. He said US hostile measures over the past 47 years—sanctions, war and attempts to split Iran—have failed. He added Iran is now internally united and has a deterrent capability in the Strait of Hormuz, calling the strategy's failure a clear warning against further US miscalculations."
+    },
+    {
+      "id": "5056180",
+      "time": "2026-08-25 04:22:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖顧問：回應美方威脅將比以往更加堅決】伊朗最高領袖顧問穆赫貝爾24日晚在社交媒體平臺表示，面對美方威脅，伊朗的回應將比以往更加堅決。美國財政部長貝森特24日召開新聞釋出會，公佈針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。（新華社）"
+    },
+    {
+      "id": "5056179",
+      "time": "2026-08-25 04:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯與法國於週一釋出聯合宣告，呼籲透過談判解決伊朗相關問題，並敦促德黑蘭恢復與聯合國核監督機構的全面合作。"
+    },
     {
       "id": "5056178",
       "time": "2026-08-25 04:20:16",
