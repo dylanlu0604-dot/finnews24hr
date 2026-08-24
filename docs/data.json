@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-25 04:42:40",
-  "count": 15844,
+  "updated": "2026-08-25 04:46:43",
+  "count": 15849,
   "items": [
+    {
+      "id": "mkt:01a03585-f1eb-7aab-90ff-89f8e16d153a",
+      "time": "2026-08-25 04:46:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Jazeera reported Pakistan's army chief Munir has left Tehran. His messaging may no longer fully align with shifts in Iran's domestic politics after Iran's Supreme National Security Council appointed former IRGC commander Mohsen Rezaee as secretary on Aug. 9, replacing Mohammad Bagher Zolghadr; the negotiation environment has become more complex and talks remain stalled."
+    },
+    {
+      "id": "te:markets:577694",
+      "time": "2026-08-25 04:45:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises for Fourth Consecutive Session — The Ibovespa added 0.5% to close at 171,907 on Monday, posting its fourth consecutive gain following eleven consecutive days of losses. Vale surged 2.8%, supported by higher iron ore futures in China amid new signs of stimulus from Beijing and expectations of stronger demand ahead of the peak construction season in September. Banks also gained as the Focus Survey forecast for the Selic rate at the end of 2026 remained at 13.75% for the third consecutive week. Banco do Brasil gained 0.9% and B3 added 2.4%. Bradesco (+0.2%) and Itaú (+0.3%) were little changed after central bank chief Gabriel Galípolo warned of rising household debt and cautioned against further stimulus to credit and consumption. Petrobras shed 2.3% as oil prices pulled back ahead of US sanctions on Iran. Braskem (-6.7%) confirmed an out-of-court restructuring. B3 said the company would be removed from its indexes."
+    },
+    {
+      "id": "5056186",
+      "time": "2026-08-25 04:43:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡聲稱伊朗曾企圖暗殺其子】以色列總理內塔尼亞胡24日接受以色列第14頻道電視臺採訪時聲稱，伊朗曾“試圖暗殺他的一個兒子”。內塔尼亞胡沒有提供更多細節。內塔尼亞胡有兩個兒子，他在採訪中沒有透露哪一個成為所謂暗殺目標，亦未指明所謂暗殺企圖的性質和時間。（新華社）"
+    },
+    {
+      "id": "5056185",
+      "time": "2026-08-25 04:43:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦調解人員已離開德黑蘭，攜帶著旨在化解美伊爭端的善意，但相關成果僅停留在紙面層面。"
+    },
+    {
+      "id": "mkt:01a03583-16ff-7aab-90ff-822feb23ec87",
+      "time": "2026-08-25 04:42:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Supreme Court overturned earlier judicial rulings in 23 states and the District of Columbia that had blocked Trump's executive order restricting mail-in voting."
+    },
+    {
+      "id": "5056184",
+      "time": "2026-08-25 04:42:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院撤銷了曾在23個州及華盛頓特區阻止特朗普限制郵寄選票令的司法裁決。"
+    },
     {
       "id": "mkt:01a0357f-b28f-7aab-90ff-7be710e653ac",
       "time": "2026-08-25 04:39:16",
@@ -143595,14 +143648,6 @@
         "MKT News"
       ],
       "text": "The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the midterm elections."
-    },
-    {
-      "id": "5044762",
-      "time": "2026-08-18 04:44:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。"
     }
   ]
 }
