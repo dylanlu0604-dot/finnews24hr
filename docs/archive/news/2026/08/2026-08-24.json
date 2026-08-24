@@ -1,7 +1,77 @@
 {
   "date": "2026-08-24",
-  "count": 809,
+  "count": 817,
   "items": [
+    {
+      "id": "te:economy:577503",
+      "time": "2026-08-24 14:22:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Norway Loan Debt Up 4.3% in July — Norway’s general public domestic loan debt rose by 4.3% year-on-year to NOK 8.01 trillion at the end of July 2026, easing slightly from a 4.4% increase in the previous month. Lending growth to non-financial corporations eased to 4.0% from 4.1% in June, reaching NOK 2.41 trillion, while that to municipal government moderated to 3.4% from 3.7%, totaling NOK 836.6 billion. Meanwhile, household loan debt rose by 4.6% to NOK 4.77 trillion, following a 4.7% increase in June. On a seasonally adjusted annualized one-month basis, total loan debt for the general public grew by 4.3%, easing from a 4.4% rise in the prior period."
+    },
+    {
+      "id": "5054664",
+      "time": "2026-08-24 14:21:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【四川黃金盤中漲停】四川黃金盤中漲停，漲幅10.01%，成交額超19億元。"
+    },
+    {
+      "id": "5054663",
+      "time": "2026-08-24 14:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【牛津經濟研究院：AI加速美國商業投資 歐美增速差距進一步擴大】牛津經濟研究院的預測資料顯示，2021年後的六年時間裡，美國商業投資增速有望達到歐洲的三倍以上，AI正在不斷拉開兩大經濟體之間的差距。 牛津經濟研究院預測，2021年至明年年末，美國企業在新裝置、廠房設施方面的實際投資規模將增長40%。 該諮詢機構表示，AI裝置投資激增是這一預測的核心驅動因素。與之對比，歐元區同期實際投資增幅僅12%，而德國商業投資幾乎陷入停滯。 這些資料凸顯歐洲面臨的困境：面對美國在高科技裝置與基礎設施領域投資的爆發式增長，歐洲追趕乏力。早在2022年末ChatGPT問世、大模型浪潮興起之前，歐洲IT投資就已經落後於美國。"
+    },
+    {
+      "id": "5054662",
+      "time": "2026-08-24 14:19:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【15條河流20個站超警 廣西繼續釋出洪水紅色預警】24日8時，廣西水文中心繼續釋出洪水紅色預警，提請崇左、南寧及貴港等市沿江區域有關單位及社會公眾加強防範，及時避險。受上游來水及區間強降雨影響，左江及支流黑水河、憑祥河，明江及支流公安河、派連河、思州河，平而河，北侖河等15條河流20個站出現超警0.07～6.96米的洪水。廣西水文中心預測，未來24小時，鬱江將出現2026年第2號洪水。 (央視新聞)"
+    },
+    {
+      "id": "5054661",
+      "time": "2026-08-24 14:19:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採板塊走高 大有能源漲停】煤炭開採板塊走高，大有能源漲停，上海能源此前封板，鄭州煤電、遼寧能源、昊華能源、盤江股份、中煤能源等跟漲。"
+    },
+    {
+      "id": "5054660",
+      "time": "2026-08-24 14:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列防長：對從加沙放飛的風箏和氣球採取零容忍態度。"
+    },
+    {
+      "id": "5054659",
+      "time": "2026-08-24 14:16:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會24日批准向烏克蘭提供61億歐元國防援助，用於採購烏克蘭急需的導彈防禦系統、彈藥和雷達。（新華社）"
+    },
+    {
+      "id": "em:qqyh_ozyh:202608243851016983",
+      "time": "2026-08-24 14:13:47",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行：沒有跡象表明會出現滯脹情景】歐洲央行執委Cipollone表示，通脹遠未達到不利或嚴峻的情景，沒有跡象表明會出現滯脹情景。"
+    },
     {
       "id": "5054658",
       "time": "2026-08-24 14:13:07",
