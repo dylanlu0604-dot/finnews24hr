@@ -1,7 +1,23 @@
 {
   "date": "2026-08-25",
-  "count": 294,
+  "count": 296,
   "items": [
+    {
+      "id": "mkt:01a03578-81b7-7aab-90ff-743bddaceac1",
+      "time": "2026-08-25 04:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDF says it destroyed two Hamas weapons caches】The Israel Defense Forces and the Israel Security Agency (Shin Bet) said in a joint statement on the 24th that the IDF struck two weapons depots belonging to the Palestinian Islamic Resistance Movement (Hamas) in the Gaza Strip."
+    },
+    {
+      "id": "5056182",
+      "time": "2026-08-25 04:31:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：夏威夷大島部分地區可能發生突發性洪水。"
+    },
     {
       "id": "mkt:01a03576-95bc-7aab-90ff-69c16028085b",
       "time": "2026-08-25 04:29:19",
