@@ -1,7 +1,47 @@
 {
   "date": "2026-08-25",
-  "count": 162,
+  "count": 167,
   "items": [
+    {
+      "id": "mkt:01a034f2-7d09-7aab-90fd-eb9bd6033bc3",
+      "time": "2026-08-25 02:05:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump called Ontario Premier Ford’s remarks \"grandstanding\", accused Canada of long-term dependence on the United States and warned Canada would face more serious consequences if it did not change its policies."
+    },
+    {
+      "id": "mkt:01a034f2-19b1-7aab-90fd-e180b198af38",
+      "time": "2026-08-25 02:04:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. says strike on \"drug-smuggling\" vessel in eastern Pacific killed two】U.S. Southern Command said on the 24th that U.S. forces struck a vessel it described as a drug-smuggling boat in the eastern Pacific on the 23rd, killing two people aboard."
+    },
+    {
+      "id": "mkt:01a034f0-a2e4-7aab-90fd-d97377085bf3",
+      "time": "2026-08-25 02:03:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News quoted a security official saying the US economic sanctions plan is intended to increase psychological pressure on the Iranian people."
+    },
+    {
+      "id": "5056113",
+      "time": "2026-08-25 02:02:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。（新華社）"
+    },
+    {
+      "id": "5056112",
+      "time": "2026-08-25 02:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引安全官員的話稱，美國的經濟制裁計劃是一場旨在加大對伊朗民眾心理施壓的行動。"
+    },
     {
       "id": "5056111",
       "time": "2026-08-25 01:58:56",
