@@ -1,7 +1,36 @@
 {
   "date": "2026-08-25",
-  "count": 340,
+  "count": 343,
   "items": [
+    {
+      "id": "5056211",
+      "time": "2026-08-25 06:03:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月維持利率不變的機率為58.6%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為58.6%，累計加息25個基點的機率為41.4%。美聯儲到10月維持利率不變的機率為43.0%，累計加息25個基點的機率為46.0%，累計加息50個基點的機率為11.0%。"
+    },
+    {
+      "id": "mkt:01a035cb-b198-7aab-9100-07460a94512a",
+      "time": "2026-08-25 06:02:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan proposes about JPY100bn to subsidize purchase of submarine cable‑laying vessels】Japan will propose about JPY100bn (≈$628m) in the FY2027 budget to help domestic firms buy submarine cable‑laying vessels, the Ministry of Internal Affairs and Communications plans to include in a budget request scheduled for end‑August. The ministry would cover roughly half of procurement costs; each ship could cost more than JPY40bn. The proposal targets purchase of 3–5 vessels in FY2027, citing rising procurement costs driven by yen weakness and higher raw‑material prices. It would be Japan’s first direct government support for hull purchases and is aimed at encouraging private‑sector investment."
+    },
+    {
+      "id": "5056210",
+      "time": "2026-08-25 06:01:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：WikiHow起訴OpenAI，指控其人工智慧訓練侵犯版權。"
+    },
     {
       "id": "5056209",
       "time": "2026-08-25 05:59:12",
