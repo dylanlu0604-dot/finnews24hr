@@ -1,7 +1,31 @@
 {
   "date": "2026-08-25",
-  "count": 254,
+  "count": 257,
   "items": [
+    {
+      "id": "5056160",
+      "time": "2026-08-25 03:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡稱，伊朗曾企圖暗殺他兩個兒子中的一人，但並未指明遭針對的是哪個兒子，也沒有提供這起所謂陰謀的相關細節。"
+    },
+    {
+      "id": "5056159",
+      "time": "2026-08-25 03:38:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國將於下月推進實施高中手機禁令。"
+    },
+    {
+      "id": "mkt:01a03547-8214-7aab-90fe-f9c68b25b7cb",
+      "time": "2026-08-25 03:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's economy minister told Fars News that the recent depreciation of the rial reflects heightened tensions in the media environment and that authorities are working to normalize the foreign-exchange market."
+    },
     {
       "id": "5056158",
       "time": "2026-08-25 03:37:03",

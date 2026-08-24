@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-25 03:38:11",
+  "updated": "2026-08-25 03:42:10",
   "count": 15831,
   "items": [
+    {
+      "id": "5056160",
+      "time": "2026-08-25 03:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡稱，伊朗曾企圖暗殺他兩個兒子中的一人，但並未指明遭針對的是哪個兒子，也沒有提供這起所謂陰謀的相關細節。"
+    },
+    {
+      "id": "5056159",
+      "time": "2026-08-25 03:38:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國將於下月推進實施高中手機禁令。"
+    },
+    {
+      "id": "mkt:01a03547-8214-7aab-90fe-f9c68b25b7cb",
+      "time": "2026-08-25 03:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's economy minister told Fars News that the recent depreciation of the rial reflects heightened tensions in the media environment and that authorities are working to normalize the foreign-exchange market."
+    },
     {
       "id": "5056158",
       "time": "2026-08-25 03:37:03",
@@ -143475,33 +143499,6 @@
         "Impact bullish"
       ],
       "text": "【Trump approval falls to 33%, lowest in current term】A Reuters/Ipsos poll concluded Monday found President Trump's approval rating at 33%, the lowest of his current term, with 64% disapproving. The four-day survey also found a large majority of Americans said they fear a prolonged U.S.-Iran war. The 33% reading is down from 35% in an earlier poll this month and matches his previous term low in December 2017."
-    },
-    {
-      "id": "mkt:01a0113e-7ab3-7aab-9069-1812afa0ed84",
-      "time": "2026-08-18 03:41:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump criticizes Lee Jae‑myung after South Korea declines participation in Iran action】Former President Trump told South Korean media he is frustrated Seoul refused to participate in a U.S. operation related to Iran and raised issues of defense cost-sharing. He said South Korea agreed during his first term to pay about $3 billion annually for U.S. protection; he sought $10 billion, and the short‑term deal was $3 billion with planned increases in subsequent years. Trump said President Biden later withdrew the $3 billion “for reasons I don’t know.” In a recent call with South Korean president Lee Jae‑myung, Trump said he asked if Seoul would “help a little” on Iran; Lee declined. Trump noted roughly 39,000 U.S. troops are deployed in South Korea and called Seoul’s refusal to assist in what he described as a “very easy” military action “strange.”"
-    },
-    {
-      "id": "mkt:01a0113d-3549-7aab-9069-14235ae65437",
-      "time": "2026-08-18 03:40:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources say Anthropic's annualized revenue exceeded $65 bln ahead of its IPO."
-    },
-    {
-      "id": "mkt:01a0113b-78dc-7aab-9069-0ffe51b70098",
-      "time": "2026-08-18 03:38:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Insiders said some North American auto industry officials view any of the options as an improvement on the current 25% U.S. tariff on Canadian auto imports, noting Japan, South Korea and the EU apply 15% car tariffs."
     }
   ]
 }
