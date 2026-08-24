@@ -1,7 +1,102 @@
 {
   "date": "2026-08-25",
-  "count": 245,
+  "count": 254,
   "items": [
+    {
+      "id": "5056158",
+      "time": "2026-08-25 03:37:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：美國商業房地產交易轉型風險持續存在，穩健的信貸狀況與創紀錄的發行量相匹配。"
+    },
+    {
+      "id": "5056157",
+      "time": "2026-08-25 03:35:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：針對伊朗的武力打擊並未暫停，如果有必要，我們就會付諸實施。伊朗唯一的選擇就是回到談判桌前。"
+    },
+    {
+      "id": "mkt:01a03545-5252-7aab-90fe-f41fb46e9dd3",
+      "time": "2026-08-25 03:35:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Secretary Hegseth said the USS Abraham Lincoln aircraft carrier is departing the Middle East to return to the United States."
+    },
+    {
+      "id": "mkt:01a03544-f010-7aab-90fe-eae52e6162be",
+      "time": "2026-08-25 03:35:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said Iran's kinetic strikes have not paused and that the U.S. will take decisive action if necessary."
+    },
+    {
+      "id": "5056156",
+      "time": "2026-08-25 03:35:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：亞伯拉罕·林肯號航母正從中東返航。"
+    },
+    {
+      "id": "mkt:01a03544-da84-7aab-90fe-e78d3d3aacae",
+      "time": "2026-08-25 03:34:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US defense secretary Hegseth said Iran still retains some capability but its only option is to return to the negotiating table."
+    },
+    {
+      "id": "mkt:01a03544-d28f-7aab-90fe-dc91b018a93a",
+      "time": "2026-08-25 03:34:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said oil shipments through the Strait of Hormuz are unimpeded."
+    },
+    {
+      "id": "mkt:01a03544-cb83-7aab-90fe-d014a7a1e586",
+      "time": "2026-08-25 03:34:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Business Insider reported Amazon (AMZN.O) plans to build a new automated warehouse to automate delivery stations, with investment estimated at over $530 mln."
+    },
+    {
+      "id": "mkt:01a03544-c0db-7aab-90fe-c9b55285d62d",
+      "time": "2026-08-25 03:34:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said he does not rule out using military force in the Strait of Hormuz or elsewhere."
+    },
     {
       "id": "5056155",
       "time": "2026-08-25 03:33:21",
