@@ -1,7 +1,25 @@
 {
   "date": "2026-08-25",
-  "count": 297,
+  "count": 299,
   "items": [
+    {
+      "id": "mkt:01a0357f-b28f-7aab-90ff-7be710e653ac",
+      "time": "2026-08-25 04:39:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to the AP, the United States is preparing to revoke up to 200,000 business and tourist visas."
+    },
+    {
+      "id": "5056183",
+      "time": "2026-08-25 04:39:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國正準備撤銷多達20萬份商務和旅遊簽證。"
+    },
     {
       "id": "te:markets:577693",
       "time": "2026-08-25 04:35:06",

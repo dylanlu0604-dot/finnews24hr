@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-25 04:38:34",
+  "updated": "2026-08-25 04:42:40",
   "count": 15844,
   "items": [
+    {
+      "id": "mkt:01a0357f-b28f-7aab-90ff-7be710e653ac",
+      "time": "2026-08-25 04:39:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to the AP, the United States is preparing to revoke up to 200,000 business and tourist visas."
+    },
+    {
+      "id": "5056183",
+      "time": "2026-08-25 04:39:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國正準備撤銷多達20萬份商務和旅遊簽證。"
+    },
     {
       "id": "te:markets:577693",
       "time": "2026-08-25 04:35:06",
@@ -143585,28 +143603,6 @@
         "公司"
       ],
       "text": "明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。"
-    },
-    {
-      "id": "mkt:01a01176-3382-7aab-9069-9b5d947e0f8d",
-      "time": "2026-08-18 04:42:34",
-      "tags": [
-        "MKT News",
-        "LHX.O",
-        "Impact bullish"
-      ],
-      "text": "NASA has selected four firms to provide mission payload processing facility services, including Blue Origin, Firefly Aerospace and L3Harris. The contract value is up to $100 million."
-    },
-    {
-      "id": "te:markets:575930",
-      "time": "2026-08-18 04:38:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Retreats from Record High — The S&P/TSX Composite Index edged 0.2% lower to close at 36,668 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices rose, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, tracking a surge in long-term US Treasury yields. Financials lost ground, with RBC, TD Bank and BMO edging lower. Software and tech-services stocks traded lower, tracking losses among US software infrastructure shares, with Shopify shedding 3.7% and Constellation Software falling 3.2%. Retail stocks also posted losses ahead of retail data on Friday, with ATD (-1.6%), Loblaw (-1.8%) and Dollarama (-2.1%) declining."
     }
   ]
 }
