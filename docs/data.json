@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-25 04:58:48",
-  "count": 15850,
+  "updated": "2026-08-25 05:02:51",
+  "count": 15854,
   "items": [
+    {
+      "id": "mkt:01a03594-9943-7aab-90ff-ba053e60ae50",
+      "time": "2026-08-25 05:02:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hyundai Motor and South Korean unions have reached a preliminary wage agreement, the unions said."
+    },
+    {
+      "id": "mkt:01a03593-b627-7aab-90ff-b77f98b564c2",
+      "time": "2026-08-25 05:01:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Sources: air-raid sirens sounded in Kyiv."
+    },
+    {
+      "id": "mkt:01a03593-17ef-7aab-90ff-a938465789d4",
+      "time": "2026-08-25 05:00:27",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【AI fund that sold portfolio to Citadel at a discount under SEC probe】The U.S. Securities and Exchange Commission is investigating AI hedge fund Situational Awareness after a near-collapse and has issued subpoenas to major Wall Street banks that provided leverage to the fund. The SEC requested trade timestamps, communications between the banks and lenders about borrowed funds, and ordered preservation of all materials related to the fund. Situational Awareness, founded by former OpenAI researcher Leopold Aschenbrunner, peaked at over $30bn AUM and had borrowed tens of billions of dollars to lever positions. Late last month, declines in popular AI stocks and rallies in legacy tech names it had shorted produced rapid losses that forced a \"sell-off liquidation\"; the fund sold most of its equity portfolio to Citadel at a discount. The SEC said the probe is in its early stages and does not imply enforcement; the fund is not accused of wrongdoing and says it will \"fully cooperate with any regulatory request.\""
+    },
+    {
+      "id": "5056191",
+      "time": "2026-08-25 05:00:11",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國8月消費者信心指數從106.8降至104.5。"
+    },
+    {
+      "id": "mkt:01a03592-cddf-7aab-90ff-a6d9c8776f4c",
+      "time": "2026-08-25 05:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea August consumer confidence index 104.5, down from 106.8 previously."
+    },
+    {
+      "id": "mkt:01a03592-ad91-7aab-90ff-9befec718df2",
+      "time": "2026-08-25 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Consumer Confidence Index (Aug) | actual 104.5 | previous 106.8"
+    },
     {
       "id": "5056190",
       "time": "2026-08-25 04:56:28",
@@ -143638,22 +143694,6 @@
         "MKT News"
       ],
       "text": "Venezuela interim president Rodriguez said the earthquake death toll has risen to 6,438."
-    },
-    {
-      "id": "5044766",
-      "time": "2026-08-18 05:01:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際金價漲0.9%，白銀漲1.7%】週一（8月17日）紐約尾盤，現貨黃金漲0.91%，報4416.25美元/盎司，絕大部分時間處於上漲狀態，交投於4367.32-4428.88美元，最近數日持穩於4400美元附近——100日均線近期也膠著於這一水平附近。現貨白銀漲1.72%，報65.7945美元/盎司，已於8月7日漲穿50日均線（該技術指標目前報61.2981美元）。COMEX銅期貨跌0.11%，報6.7070美元/磅，亞太尾盤曾達到6.8420美元，持穩於8月6日頂部6.96美元附近。"
-    },
-    {
-      "id": "5044765",
-      "time": "2026-08-18 04:59:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "牙買加7月消費者價格環比上漲1.2%。"
     }
   ]
 }
