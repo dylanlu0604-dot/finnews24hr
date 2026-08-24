@@ -1,7 +1,51 @@
 {
   "date": "2026-08-25",
-  "count": 345,
+  "count": 350,
   "items": [
+    {
+      "id": "5056216",
+      "time": "2026-08-25 06:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我確實希望壓低牛肉價格。"
+    },
+    {
+      "id": "5056215",
+      "time": "2026-08-25 06:12:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們急需鋁，我們主要從加拿大進口。"
+    },
+    {
+      "id": "mkt:01a035d3-ed54-7aab-9100-14946b7e20f5",
+      "time": "2026-08-25 06:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO said crew reported safe; environmental impact was unclear at the time of the report."
+    },
+    {
+      "id": "mkt:01a035d3-bbfc-7aab-9100-092e826ef7d6",
+      "time": "2026-08-25 06:11:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UKMTO reported an incident 9 nm northeast of Ash Shisah, Oman; a tanker captain said the vessel was hit by unknown projectiles, damaging the engine room and causing loss of propulsion."
+    },
+    {
+      "id": "5056214",
+      "time": "2026-08-25 06:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動組織（UKMTO）表示，阿曼阿什希沙赫東北9海里處，一艘油輪船長報告稱，船隻被不明發射物擊中，導致輪機艙受損，船隻現已喪失航行能力。"
+    },
     {
       "id": "5056213",
       "time": "2026-08-25 06:08:16",
