@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 07:32:14_
-_本檔包含 3143 則快訊，約 623553 字_
+_更新時間：2026-08-25 07:53:21_
+_本檔包含 3136 則快訊，約 622994 字_
+
+---
+
+### 2026-08-20 10:15:06  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Depreciates by 0.45% — Top currency losers are South Korean Won (-0.45%) and Japanese Yen (-0.21%). Gains are led by Chinese Yuan (0.11%).
+
+---
+
+### 2026-08-20 10:14:43  #市場 #國際
+
+【日本據悉考慮為日本國債散戶投資者提供稅收優惠】據報道，日本財務省和金融廳計劃在其2027財年稅制改革方案中納入針對政府債券散戶投資者的稅收優惠政策。
+
+---
+
+### 2026-08-20 10:11:56  #其他
+
+【中澳海關執法部門聯合偵破一起跨國菸草走私案】近日，中國海關緝私部門與澳大利亞邊境執法部門開展聯合執法行動，成功偵破一起跨國菸草走私案件。中澳執法部門共查獲走私捲菸9000餘萬支，取得聯合打擊跨國菸草走私重大成果。（央視新聞）
+
+---
+
+### 2026-08-20 10:11:38  #公司
+
+【寧波方正等成立智慧科技公司，含雲端計算裝置銷售業務】企查查APP顯示，近日，深圳市賽緯思智慧科技有限公司成立，經營範圍包含：網際網路資料服務；大資料服務；雲端計算裝備技術服務；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由寧波方正等共同持股。
+
+---
+
+### 2026-08-20 10:11:06  #公司
+
+三星電子漲幅擴大至10%，訊息稱將公佈100萬億韓元股東回報計劃。
+
+---
+
+### 2026-08-20 10:11:00  #公司 #國際 #原創
+
+【三星電子據悉將公佈100萬億韓元股東回報計劃】據報道，三星電子計劃在本月召開董事會會議後，最終確定並公佈一項超過100萬億韓元的股東回報計劃。 該公司計劃將50%的自由現金流用於股東回報，具體措施預計主要集中在現金分紅上。三星計劃在公告發布後繼續考慮向股東返還額外款項，具體方案將取決於現金流和盈利情況。三星在上個月的財報釋出會上表示，其董事會和管理層正在討論包括派發特別股息在內的具體措施。
+
+---
+
+### 2026-08-20 10:10:59  #MKT News #005930.KS #Impact bullish
+
+Samsung Electronics' gains widened to about 10% after reports it will unveil a shareholder return plan worth 1 trillion won.
+
+---
+
+### 2026-08-20 10:09:47  #公司 #國際
+
+【商務部公告2026年第36號 公佈對原產於美國、歐盟、臺灣地區和日本的進口共聚聚甲醛反傾銷措施相關企業稅率繼承的決定】2026年4月1日和4月22日，商務部收到株式會社大賽璐（DAICEL CORPORATION）和臺灣大賽璐工程塑膠股份有限公司（DAICEL HPP TAIWAN CO., LTD.）提交的申請。上述公司請求分別繼承寶理塑膠株式會社（POLYPLASTICS CO., LTD.）和臺灣寶理塑膠股份有限公司（POLYPLASTICS TAIWAN CO., LTD.）在對原產於美國、歐盟、臺灣地區和日本的進口共聚聚甲醛反傾銷措施中適用的反傾銷稅稅率和其他權利義務。商務部對此進行了調查並作出繼承稅率的決定。
+
+---
+
+### 2026-08-20 10:08:18  #MKT News #Important #005930.KS #Impact bullish
+
+Market sources say Samsung will announce a KRW 100 trillion shareholder-return plan.
+
+---
+
+### 2026-08-20 10:08:08  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Precious metals futures main contracts advanced: Shanghai gold (2610) rose 2.45% to 972.56 yuan/gram; Shanghai silver (2610) rose 5.02% to 16,408 yuan/kg; platinum (2610) rose 4.07% to 441.25 yuan/gram; palladium (2610) rose 2.01% to 315 yuan/gram.
+
+---
+
+### 2026-08-20 10:08:01  #市場
+
+【金飾克價一夜大漲46元】今日早盤，現貨黃金小幅下挫，跌破4500美元/盎司。上一個交易日，現貨黃金大漲4.35%，盤中連續漲破4400美元、4500美元兩大關口，收報4521美元左右，創6月2日以來新高。現貨白銀價格也漲至66美元/盎司，漲超4.6%。受此影響，國內多家品牌金飾價格一夜大漲。中新經緯20日查詢發現，周生生足金飾品報1359元/克，單日大漲46元；老廟黃金足金飾品報1355元/克，單日大漲44元；老鳳祥足金飾品報1352元/克，單日大漲37元。
+
+---
+
+### 2026-08-20 10:07:49  #其他
+
+【《網路資料安全風險評估辦法》實施有關事項答記者問】《網路資料安全風險評估辦法》於2026年8月20日起施行，公安部有關負責人就其實施有關事項回答了記者提問。公安機關將建立全流程監管機制，掌握轄區內網路資料處理者相關情況，建立並完善動態監管臺賬。對發現存在較大安全風險、發生資料安全事件等情形的，依法督促網路資料處理者委託透過認證的第三方評估機構開展風險評估。對未按規定開展風險評估的網路資料處理者，將依據《中華人民共和國資料安全法》《網路資料安全管理條例》等有關法律、行政法規予以處理；第三方評估機構違反《網路資料安全風險評估辦法》開展風險評估的，公安機關將依法予以處理。（新華社）
+
+---
+
+### 2026-08-20 10:07:39  #市場 #觀點 #國際 #原創
+
+【摩根大通警告美國增加美債回購治標不治本 或反推升期限溢價與收益率】摩根大通策略師警告稱，美國財政部出人意料地試圖抑制長期借貸成本，可能難以取信於市場；隨著時間的推移，反而可能推高期限溢價和收益率。美國財政部週三表示，將把10年至30年期國債的回購操作規模至少提高一倍，旨在提供“更大的流動性支援”，導致美國長期債券收益率走低。但摩根大通表示，此舉只是治標不治本：在經濟接近充分就業之際，美國的財政赤字仍相當於GDP的6%。Jay Barry等摩根大通策略師在一份報告中寫道：“若沒有真正的財政整頓，我們擔心市場將認為這項行動缺乏可信度。”他們指出，如果財政部在債務管理方面採取更具機會主義的做法，並進一步偏離其“常規且可預測”的原則，可能會導致期限溢價和收益率隨著時間的推移而上升。
+
+---
+
+### 2026-08-20 10:06:51  #MKT News #Market Themes #AI Revolution
+
+【Unitree CEO in first public speech post-IPO says embodied‑intelligence 'ChatGPT moment' could arrive in 2–3 years or 5–10 years】Aug 20, 2026 — Unitree Robotics founder and chairman Wang Xingxing said the company has deployed robots in automotive factories and run internal factory tests, and its AI team is developing household-task capabilities, but overall efficiency and generality remain insufficient so Unitree has not launched large-scale commercial rollouts. He said an 'embodied‑intelligence ChatGPT moment' — where robots can complete roughly 80% of tasks in about 80% of unfamiliar scenes via voice or text commands — could ideally occur in 2–3 years, or take 5–10 years. He identified the key technical barrier as aligning large AI model I/O with physical robot control.
+
+---
+
+### 2026-08-20 10:06:30  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+China Stocks Rebound as PBOC Stands Pat — The Shanghai Composite rose 0.7% to 3,923 on Thursday, while the Shenzhen Component gained 1.5% to 14,096, rebounding from the previous session as the People's Bank of China left its benchmark lending rates unchanged at record lows. The one-year loan prime rate (LPR) was maintained at 3.0%, while the five-year LPR remained at 3.5%, underscoring policymakers' cautious approach amid lingering domestic and external uncertainties. The decision followed the central bank's pledge to maintain an accommodative monetary stance, while expectations of further stimulus measures were reinforced by weak July economic data and Premier Li Qiang's call to accelerate the shift toward new growth drivers. Investors are now awaiting the National People's Congress Standing Committee meeting in Beijing on August 25–28 for further policy signals. Notable gainers included Foxconn Industrial Internet (1.1%), Zijin Mining Group (3.8%), Zhongji Innolight (1.1%) and BYD (2.1%).
+
+---
+
+### 2026-08-20 10:06:28  #市場
+
+【港股醫藥股走強 維亞生物漲近13%】截至發稿，維亞生物(01873.HK)漲12.76%，金斯瑞生物科技(01548.HK)漲12.74%，康龍化成(03759.HK)漲8.27%。
+
+---
+
+### 2026-08-20 10:06:22  #市場 #國際
+
+日本據悉考慮為散戶投資者提供日本國債投資的稅收優惠。
+
+---
+
+### 2026-08-20 10:06:07  #市場 #焦點
+
+白銀連續主力合約日內漲5%，現報16406.00元。
+
+---
+
+### 2026-08-20 10:05:47  #公司
+
+【宇樹上市後，王興興首場公開演講談了具身智慧ChatGPT時刻】8月20日，在2026世界機器人大會上，宇樹科技創始人、董事長王興興進行“展品到產品：人形機器人產業的下一個十年”的主題演講。王興興表示，這些年公司其實一直在推動機器人真正走進生活，比如在汽車工廠進行落地應用、在自家工廠部署機器人進行簡單測試等，另外AI團隊也在推進機器人去家庭幹活。但他提到，由於目前整體效率、泛用效能力還是不夠高，宇樹並沒有進行大規模推廣。王興興希望，邁向具身智慧的ChatGPT時刻，理想情況下需要2-3年，或者更長5-10年的時間。他認為，達到這一時刻，即要在80%的陌生場景中，透過語音或文字指令，機器人能夠順利完成大約80%的任務。目前，最核心的挑戰是AI大模型的輸入輸出和真實機器人的對齊。（第一財經）
+
+---
+
+### 2026-08-20 10:05:25  #公司
+
+【當虹科技機器人多模態感知上裝件在2026世界機器人大會上釋出】從當虹科技(688039)獲悉，公司在2026世界機器人大會上正式釋出機器人多模態感知上裝件，該裝置可根據不同場景搭載雙光雲臺，整合聲光、通訊、算力等模組，同時支援氣體、溫溼度等外接感測器。在工業巡檢場景中，可識別儀表讀數，檢測溫度異常、氣體風險、裝置異響以及液體跑冒滴漏等問題，將更多現場資訊實時帶回，為後續AI識別和任務決策提供資料基礎。
+
+---
+
+### 2026-08-20 10:05:17  #公司
+
+三星電子據悉將公佈100萬億韓元股東回報計劃。
+
+---
+
+### 2026-08-20 10:04:54  #市場 #觀點
+
+【貴金屬板塊持續走強，山東黃金觸及漲停】貴金屬板塊持續走強，山東黃金觸及漲停，興業銀錫、赤峰黃金此前漲停，曉程科技漲超10%，招金黃金、中金黃金、湖南白銀、山金國際、四川黃金跟漲。
+
+---
+
+### 2026-08-20 10:04:46  #觀點
+
+花旗、滙豐、渣打等據悉採用螞蟻國際的外匯人工智慧工具“Falcon時間序列變換器模型2.0”。
+
+---
+
+### 2026-08-20 10:03:25  #其他
+
+【最高法明確審理著作權民事糾紛案件有關問題】最高人民法院8月20日釋出關於修改《最高人民法院關於審理著作權民事糾紛案件適用法律若干問題的解釋》的決定，自2026年9月1日起施行。 決定針對著作權司法實踐中的作品發表認定、合理使用的邊界、報刊轉載法定許可的範圍等重點難點問題，進一步細化和完善法律適用標準，統一案件裁判尺度，為當事人提供明確訴訟指引，為市場提供明確行為預期，確保著作權法的正確實施。 決定進一步明確報刊轉載法定許可的適用範圍，將原司法解釋中“報紙、期刊”的範圍明確為“報紙、期刊主管部門批准出版的紙質報紙、期刊以及與其內容和版面格式相一致的數字化版本”，以適應網路和數字技術發展需要。同時增加一款，明確報紙、期刊與網際網路資訊服務提供者之間相互轉載，網際網路資訊服務提供者之間相互轉載已發表的作品，應當經過著作權人許可並支付報酬。 據介紹，目前智慧財產權理論界和司法實踐均認可，作品因他人侵權行為而被公開也屬於公之於眾。決定進一步明確“公之於眾”的認定標準，刪去原司法解釋中“著作權人自行或者經著作權人許可”的限定，把“公之於眾”明確為將作品向不特定的人公開，但不以公眾知曉為構成要件。 此外，決定進一步細化合理使用的適用規則，將原司法解釋規定的“室外公共場所的藝術作品”修改為“公共場所的藝術作品”，與2020年修改的著作權法有關規定保持一致。同時，決定明確對公共場所藝術作品的臨摹、繪畫、攝影、錄影人，可以對其成果依法以合理的方式和範圍再行使用，但是未經著作權人許可不得以相同方式設定、陳列或者公開傳播。
+
+---
+
+### 2026-08-20 10:03:22  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Stocks ASX Snaps Six-Day Slide as Miners, Healthcare Rally — Australian shares rose 31 points or 0.4% to 9,085 in Thursday morning trade, snapping a six-session losing streak as U.S. equity futures firmed after Wall Street ended its three-day slide amid easing Treasury yields. Local markets emerged from a two-week low as bargain hunters set in. In China, the central bank left lending benchmarks unchanged for a 15th month, keeping one- and five-year LPRs at record lows to bolster growth. Domestic data, however, dampened sentiment with July employment unexpectedly falling and the jobless rate climbing to a three-month high. RBA Deputy Governor Andrew Hauser cautioned that further rate hikes may be needed if inflation risks persist, noting price growth remains “too high.” Consumer durables, non-energy minerals, healthcare, and utilities drove the strength, amid notable gains from heavyweights BHP Group (2.2%), CSL Ltd. (4.9%), and Northern Star Resources. In contrast, the four major banks bucked the trend, sliding between 1.3% and 2.2%.
+
+---
+
+### 2026-08-20 10:03:02  #MKT News #DXY #Impact bullish
+
+【Australia unemployment unexpectedly rises; markets cut RBA rate-hike bets】Australia’s unemployment rate rose to 4.5% in July, above the 4.4% consensus, the Australian Bureau of Statistics said. Employment fell 15.8k versus an expected +12.0k, with all losses in part-time roles. AUD slid about 0.3% and the 3-year government bond yield fell roughly 4bps on the print. Money markets now price roughly a 60% probability of a Reserve Bank of Australia rate hike before December, down from 68% pre-release. The Reserve Bank of Australia, after three rate rises earlier this year, still judges the labour market slightly tight and in its quarterly forecast expects unemployment to rise gradually.
+
+---
+
+### 2026-08-20 10:03:00  #市場
+
+CPO概念股震盪拉昇，太辰光漲超12%，中京電子此前漲停，天準科技、仕佳光子、德科立、聯特科技漲超6%。
+
+---
+
+### 2026-08-20 10:02:24  #市場
+
+新加坡警方表示正在調查鐵礦石貿易巨頭Radiant World。
+
+---
+
+### 2026-08-20 10:02:13  #公司 #市場
+
+【光通訊概念震盪反彈，通鼎互聯漲停】光通訊概念震盪反彈，通鼎互聯漲停，長盈通、思瑞浦、三旺通訊、勝藍股份、太辰光、帝奧微等跟漲。
+
+---
+
+### 2026-08-20 10:02:08  #公司 #市場
+
+【光纖概念震盪反彈 長盈通漲超15%】光纖概念盤中震盪反彈，長盈通漲超15%，通鼎互聯逼近漲停，華脈科技、永鼎股份、長飛光纖、亨通光電跟漲。
+
+---
+
+### 2026-08-20 10:01:59  #宏觀
+
+【北京市市長殷勇：推進“機器人+”示範應用，打造全球機器人應用標杆城市】北京市市長殷勇在2026世界機器人大會上表示，北京市將統籌各類創新資源，全力營造開放包容、充滿活力的機器人與具身智慧發展環境。提供更加完善的要素保障，出臺人形機器人產業高質量發展三年行動方案，完善中試平臺、檢驗檢測、投融資服務體系，打造快速響應、更具韌性的機器人產業鏈供應鏈。拓展更加廣闊的應用空間，用好超大城市豐富場景優勢，推進“機器人+”示範應用，打造全球機器人應用標杆城市。
 
 ---
 
@@ -18732,233 +18918,5 @@ A-share storage-chip sector extended losses; Tuolunsi, Jingzhida, Maijie Technol
 ### 2026-08-19 10:37:24  #MKT News
 
 【Pinzhun Laser intraday share price falls below 1,000 yuan, down over 14%】Pinzhun Laser, a newly listed STAR Market stock that topped 1,000 yuan on its debut, slid in morning trade and dipped below 1,000 yuan intraday, off more than 14%.
-
----
-
-### 2026-08-19 10:36:34  #其他
-
-新易盛成交額達100億元，現跌5.96%。
-
----
-
-### 2026-08-19 10:35:11  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：補齊電子化學品、高溫合金等戰略短板】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，強化特種塗層、工程塑膠、汽車板等優勢材料，補齊電子化學品、高溫合金等戰略短板，壯大高階裝備、電子資訊、航空與生物等關鍵材料產業。加快超導帶材、智慧與介孔材料等前沿應用。建設變革性催化、生物醫用材料等概念驗證平臺，以及纖維複合材料、光敏材料等中試平臺，培育“人工智慧+材料”生態。支援寶山園聚焦先進金屬材料、四超材料，金山園聚焦高階化工、生物基材料等細分領域，推動技術應用和場景拓展。
-
----
-
-### 2026-08-19 10:34:53  #市場
-
-【頻準鐳射盤中股價跌破1000元 跌幅超過14%】在上市首日即站上千元大關後，科創板次新股頻準鐳射今天（8月19日）上午走低，盤中股價跌破1000元大關，跌幅超過14%。
-
----
-
-### 2026-08-19 10:34:44  #國際
-
-【特朗普宣佈推遲三天對加拿大加徵50%關稅】當地時間18日，美國總統特朗普在社交媒體宣佈，推遲三天對加拿大部分商品加徵50%關稅。特朗普還表示，目前美加雙方已經談成貿易協議，只需最終敲定書面檔案即可落地，因此叫停了本次關稅徵收計劃。（央視新聞）
-
----
-
-### 2026-08-19 10:33:19  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：加快大飛機關鍵材料與核心零部件檢驗檢測等平臺建設】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》，其中提出，聚焦民用航空發動機、機載系統、複合材料、航空製造裝備、新型低空航空器等細分領域，發揮龍頭企業牽引作用，以整機帶動技術攻關和本土產業鏈培育，推動實施航空發動機研製工程等重點專案，加快大飛機關鍵材料與核心零部件檢驗檢測等平臺建設，提升適航審定等配套服務保障能力。支援臨港園聚焦大飛機產業鏈，紫竹高新區聚焦航電系統開發，金山園聚焦工業級無人機等產業細分領域，加速商業化應用示範和規模化發展。
-
----
-
-### 2026-08-19 10:32:56  #宏觀
-
-【臺灣觀眾希望《八仙！》《歡迎來龍餐館》早日在島內上映 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問：截至8月16日，大陸2026暑期檔電影總票房已突破100億元，臺灣觀眾對《八仙！》《歡迎來龍餐館》等影片充滿期待，希望能早日在島內上映，請發言人介紹有關情況。發言人朱鳳蓮表示，臺灣同胞對大陸影片的喜愛，充分說明兩岸同胞有著共同的文化基因、歷史記憶和深厚的情感共鳴。我們一貫支援兩岸影視文化等領域的交流合作，希望相關影片能夠儘快在臺灣上映，讓更多的臺灣民眾深入感受中華文化的魅力。我們也歡迎更多的臺灣同胞來大陸的時候，能夠走進電影院去看看電影或者去打卡電影的取景地。
-
----
-
-### 2026-08-19 10:32:42  #市場
-
-截至早盤收盤，日經225指數跌2.6%，東證指數跌2.7%。
-
----
-
-### 2026-08-19 10:32:28  #MKT News #Important #Market Regions #Greater China #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-FTSE China A50 index futures fell more than 2%.
-
----
-
-### 2026-08-19 10:32:27  #市場
-
-富時中國A50指數期貨跌超2%。
-
----
-
-### 2026-08-19 10:32:24  #其他
-
-【朱雀三號遙一回收失敗原因披露】藍箭航天朱雀三號總指揮戴政表示，距離地面3.3公里的時候，我們會做一個急剎車，這時候要點火，叫著陸點火。這次點火實際上點火動作是完成了，火也點起來了。點起來之後出現了異常燃燒，最後墜落在著陸場坪的邊緣。戴政介紹，儘管朱雀三號遙一未能成功實現回收，但是作為我國首次軌道級火箭一級回收試驗，採集了返回段的遙測引數，摸清回收過程中的飛行環境，獲取了大量一手實測資料，提高了我們對整個回收過程的認識，包括飛行環境的認識、氣動的載荷、加熱的這些效應，對團隊來說獲得了很難得、寶貴的第一手實測資料。結合資料包括這個問題，去對產品做改進。（央視新聞）
-
----
-
-### 2026-08-19 10:32:12  #Trading Economics #Markets #commodity #Importance 0
-
-EU Gas Hits 21-week High — EU Gas increased to 64.55 EUR/MWh, the highest since March 2026. Over the past 4 weeks, Natural Gas EU gained 9.75%, and in the last 12 months, it increased 102.16%.
-
----
-
-### 2026-08-19 10:32:08  #市場
-
-上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報152000元/噸，較上日16:30價格下跌1000元/噸。
-
----
-
-### 2026-08-19 10:32:05  #其他
-
-【蜘蛛俠嶄新之日進入年度票房榜前五】據貓眼專業版資料，電影《蜘蛛俠：嶄新之日》累計票房（含預售）超14.48億，進入2026年票房榜前五名。
-
----
-
-### 2026-08-19 10:31:09  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：推進自主可控整車作業系統與人工智慧汽車大模型研發】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》，其中提出，聚焦整車智造轉型與智慧網聯創新應用，協同“三電”、攻關“三智”，強化晶片與作業系統自主可控。推動組合駕駛輔助（L2）+全覆蓋及有條件自動駕駛（L3）/高度自動駕駛（L4）量產，佈局新一代動力電池，推進自主可控整車作業系統與人工智慧汽車大模型研發，落地動力電池智造基地，量產智慧座艙人工智慧系統與一體化智慧底盤，促進車規晶片、車載軟體與整車系統整合，實現軟硬體協同，加大出行多域融合。支援嘉定園、臨港園聚焦智慧網聯新能源汽車全產業鏈佈局，金山園聚焦整車製造及智慧出行，推動產業叢集發展。
-
----
-
-### 2026-08-19 10:30:50  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌2%，現報4576.20點。
-
----
-
-### 2026-08-19 10:30:18  #MKT News #Important
-
-Sci‑Tech Innovation Board 50 Index fell more than 5%; among constituents, Xinyuan and Hua Hong Hongli each dropped over 9%.
-
----
-
-### 2026-08-19 10:29:36  #市場 #焦點
-
-科創50日內跌幅達5.08%，成分股中，芯原股份跌9.46%，華虹宏力跌9.01%，盛美上海跌8.68%，瀾起科技跌6.95%。
-
----
-
-### 2026-08-19 10:29:31  #MKT News #WTI #Impact bearish #Brent
-
-Refinitiv preliminary data show ship transits through the Strait of Hormuz remain low; six vessels transited on Tuesday.
-
----
-
-### 2026-08-19 10:29:28  #市場
-
-【化工板塊逆勢拉昇 中毅達直線漲停】化工板塊盤中逆勢拉昇，化肥、農藥方向領漲，中毅達直線漲停，此前紅四方3連板，江天化學、迪爾化工、紅寶麗、美邦科技、聯盛化學、紅太陽等紛紛衝高。
-
----
-
-### 2026-08-19 10:29:16  #其他
-
-船舶追蹤資料顯示，霍爾木茲海峽船隻通行量持續低迷，週二僅有六艘船隻透過。
-
----
-
-### 2026-08-19 10:28:50  #國際
-
-美國總統特朗普18日晚宣佈，推遲三天對加拿大部分商品加徵50%關稅。該關稅原定於美東時間19日正式生效。（新華社）
-
----
-
-### 2026-08-19 10:28:08  #宏觀
-
-【民進黨當局封鎖“臺青e家” 國臺辦：本質是懼怕種種抹黑大陸的謊言被戳穿】國務院臺辦舉行例行新聞釋出會。有記者就民進黨當局封鎖大陸推出的公益性綜合服務平臺“臺青e家”相關內容提問。發言人朱鳳蓮表示，“臺青e家”是為了幫助更多的臺灣青年便捷地獲取大陸發展機遇而打造的公益性服務平臺，是服務臺灣青年來大陸求學、實習、就業的便民視窗，是助力臺灣青年在大陸追夢、築夢、圓夢的務實載體。目前已經有不少的臺灣青年透過平臺查閱資訊、投遞簡歷，並且也有青年已經透過這個平臺找到了心儀的工作。民進黨當局的相關說辭完全顛倒黑白，是徹頭徹尾的惡意抹黑，他們不去思考如何為臺灣青年開拓發展空間，反而大搞資訊封鎖，他們無視兩岸青年交流的時代潮流，不斷地編造謊言。不顧臺灣青年尋找發展機遇的現實需求，炮製不實說法，恐嚇打壓臺青。究其本質，他們就是懼怕兩岸青年走近交心，增進了解，懼怕越來越多的臺灣青年看清“臺獨”的虛妄，懼怕種種抹黑大陸的謊言被戳穿。
-
----
-
-### 2026-08-19 10:27:52  #公司
-
-【智元機器人、恆工精密持股公司成立具身智慧科技公司】企查查APP顯示，近日，恆元智啟具身智慧科技（湖北）有限公司成立，法定代表人為魏劍秋，註冊資本為1000萬元，經營範圍包含：智慧機器人的研發；人工智慧硬體銷售；智慧基礎製造裝備銷售；智慧機器人銷售等。企查查股權穿透顯示，該公司由恆元智啟具身智慧科技（上海）有限公司全資持股，後者由智元機器人關聯公司智元創新（上海）科技股份有限公司、恆工精密全資子公司恆工偉創具身智慧科技（上海）有限公司共同持股。
-
----
-
-### 2026-08-19 10:27:03  #市場
-
-【美團打新宇樹猛賺333億】宇樹科技今日登入科創板，開盤暴漲629.44%，以發行價150.80元/股計算，網上打新中一簽賣出可賺47.46萬元。以此計算，美團系是宇樹科技持股比例最高的外部股東，透過漢海資訊、成都龍珠、Galaxy Z合計持股數量約3512.36萬股，浮盈超333億元。（中新經緯）
-
----
-
-### 2026-08-19 10:26:57  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
-
-【Yushu Technology jumps 629% at STAR Market; Meituan stake up CNY33.3bn】Yushu Technology debuted on the STAR Market, surging 629.44% at the open from an IPO price of CNY150.80 per share; an online one-lot allocation sold at the open would net about CNY474,600. Meituan is the largest external shareholder in Yushu, holding roughly 35.12 million shares via Hanhai Information, Chengdu Longzhu and Galaxy Z, with unrealized gains exceeding CNY33.3bn.
-
----
-
-### 2026-08-19 10:26:54  #市場
-
-恒指拉昇轉漲，此前一度跌0.6%。小米漲超4%。
-
----
-
-### 2026-08-19 10:26:17  #宏觀
-
-【國臺辦：暑假期間兩岸體育賽事及活動十分火爆】國務院臺辦舉行例行新聞釋出會。有記者問：儘管臺陸委會抹黑兩岸單純的體育交流，但今年暑期兩岸體育交流格外熱絡，想請發言人介紹相關情況。發言人朱鳳蓮表示，體育是促進兩岸交流交融的重要紐帶，暑假期間兩岸體育賽事及活動如火如荼，十分火爆，棒球運動已經在大陸的多個城市流行，8月3日至10日，2026年東森杯海峽兩岸連城青少年棒球邀請賽在福建省連城縣舉辦。兩岸15支隊伍共276人參賽交流活動，自2024年開辦以來，已經累計吸引了近300名臺灣青少年來閩參賽交流。8月7日至8日，2026第二屆崑山媽祖杯少年棒球賽在江蘇省崑山市舉辦，兩岸12支少年棒球隊約300人參賽。
-
----
-
-### 2026-08-19 10:25:31  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：增強生物醫藥全鏈條創新能力】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，堅持高商業轉化潛力重磅創新藥為引領，增強生物醫藥全鏈條創新能力，形成以張江核心園為創新策源高地，閔行園、嘉定園等協同的產業體系。創新藥械研發，支援新靶點、新機制創新藥研發，開發影像診斷、微創手術、植入介入、體外診斷等高階醫療器械，建設藥物靶標科學設施，推動神經與代謝藥物研發中心等技術平臺建設。臨床研究與轉化，支援上海臨床創新轉化研究院建設，提升張江藥谷服務能級，完善醫療器械專業孵化與檢驗檢測服務體系。生產製造與應用推廣，推進抗體偶聯藥物（ADC）生產基地、生物製品跨境分段生產基地等產業化專案建設，加快落地嘉定影像裝置生產研發基地，鼓勵創新產品入院配備使用，舉辦“張江藥谷國際創新大會”，加速創新成果轉化應用。
-
----
-
-### 2026-08-19 10:25:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-China A-share precious metals sector climbed amid volatile trading; Shandong Gold jumped more than 7%, while Chifeng Gold, Shanjin International, Xiaocheng Technology and Western Gold also advanced.
-
----
-
-### 2026-08-19 10:24:58  #市場
-
-【貴金屬板塊震盪走高，山東黃金漲超7%】貴金屬板塊震盪走高，山東黃金漲超7%，赤峰黃金、山金國際、曉程科技、西部黃金跟漲。
-
----
-
-### 2026-08-19 10:24:13  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：大力發展人工智慧手機和電腦等新型智慧終端】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦智慧終端、新型通訊裝置、智慧感測、下一代顯示及超高畫質視聽等方向，大力發展人工智慧手機和電腦等新型智慧終端，加快第五代行動通訊演進技術（5G-A）/第六代行動通訊（6G）及衛星通訊創新，支援微型發光二極體（Micro-LED）等新型顯示技術發展。加快推進智慧工業軟體等重點專案，建設流程製造智慧調控技術創新中心，支援聯合開發與核心零部件代工新模式。圍繞AI智慧體完善晶片、終端與內容服務生態，突破關鍵環節，培育新物種、新品牌。支援松江園聚焦智慧終端與新型通訊裝置，青浦園聚焦空間資訊與導航，西岑園聚焦晶片研發，打造特色園區。
-
----
-
-### 2026-08-19 10:24:05  #MKT News #Nasdaq100 #Impact bullish #S&P500
-
-ARK Invest founder Cathie Wood said productivity and intelligence gains have produced an extremely large price elasticity of demand, initiating a virtuous cycle that remains in its early stages.
-
----
-
-### 2026-08-19 10:23:21  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Stocks Ease Ahead of BI Rate Decision — Indonesian shares slipped 39 points or 0.6% to 6,410 in early Wednesday trade, reversing gains from the prior two sessions as Wall Street’s overnight selloff in semiconductors, elevated bond yields, and rising oil prices weighed on sentiment. Domestic caution deepened amid recent natural disasters, doubts over 2027 budget assumptions, and delays in electric motorcycle incentives. Market focus vigilantly turned to Bank Indonesia’s policy decision later today, its first under Acting Governor Destry Damayanti, with interest rates expected to stay unchanged after a cumulative 100 bps of hikes since May. However, traders remain increasingly watchful of how she balances currency stability against President Prabowo Subianto’s growth agenda. Sectoral losses were broad, led by energy, cyclicals, and basic materials, though property gains helped limit declines. Notable laggards included MNC Tourism (-2.9%), Bank Jago (-2.6%), Pertamina Geothermal Energy (-2.3%), and Alamtri Minerals (-2.1%).
-
----
-
-### 2026-08-19 10:23:15  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：提升智慧計算能力 突破光計算、類腦等顛覆性晶片架構】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。打通語料匯聚與共享體系，建設科學資料中心、高質量語料公共服務平臺，完善語料庫與資料集，推進青浦資料中心等平臺建設。發展科學智慧新正規化，加強多學科專業工具模型開發，打造通用科研基座，推動科學智慧在多領域應用。實施“模力聚申”行動，推進具身智慧技術熟化與實訓場建設，加速在製造、物流、零售、康養、家政等場景落地。
-
----
-
-### 2026-08-19 10:22:47  #其他
-
-【上海張江高新技術產業開發區發展“十五五”規劃：加快第三/四代半導體材料技術攻關和產業化落地】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦高階晶片設計、工藝製造、核心裝備與材料等產業鏈關鍵環節，圍繞“一體兩翼”（張江核心園、臨港園、嘉定園）核心區建設，強化產業協同，打造積體電路先導產業叢集。高階晶片設計，支援電子設計自動化（EDA）工具與智慧化升級等先進封裝技術體系構建，加快電子設計自動化及積體電路設計模組創新中心和第五代指令集（RISC-V）創新中心建設。工藝製造，重點推進一批重大產業化專案建設，打造工藝平臺。核心裝備與材料，加快建設半導體高階裝備示範園，推進積體電路檢測裝備、先進封裝裝置等關鍵裝備研發及產業化，加快第三/四代半導體材料技術攻關和產業化落地。
-
----
-
-### 2026-08-19 10:22:35  #MKT News #Important #Star Stocks #Tencent #Market Regions #Greater China #Hang Seng Index #Impact bullish #Hang Seng Tech Index #Impact bearish #00700.HK
-
-Hong Kong stocks tick higher; the Hang Seng Index has turned positive and the Hang Seng Tech Index’s decline narrows to about 1.1%. Tencent Holdings (00700.HK) briefly rallied and is trading up nearly 1%.
-
----
-
-### 2026-08-19 10:22:00  #其他
-
-長鑫科技成交額達100億元，現跌2.55%。
-
----
-
-### 2026-08-19 10:21:58  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
-
-【Shanghai to build AI pilot industry cluster centered on Zhangjiang, prioritizing compute and large models】Shanghai Science and Technology Commission issued a development plan for the Zhangjiang High‑Tech Zone outlining an AI pilot industry cluster led by Zhangjiang core park with Xuhui and Caohejing parks as demonstration zones. Policy targets include boosting compute, large models, corpora/data, scientific intelligence and applications; priorities are advancing intelligent computing via optical and neuromorphic chip architectures, creating an autonomous compute stack that integrates supercomputing and AI computing with cloud‑edge‑end coordination, and building the Pujiang public compute service platform. The plan also backs next‑generation large models (including brain‑inspired computing), establishes a model‑acceleration facility and a Zhangjiang AI innovation town, and supports domestic compute adaptation and ecosystem integration for multimodal models.
 
 ---

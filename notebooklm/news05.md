@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 07:32:14_
-_本檔包含 3093 則快訊，約 622962 字_
+_更新時間：2026-08-25 07:53:21_
+_本檔包含 3102 則快訊，約 623195 字_
+
+---
+
+### 2026-08-19 10:36:34  #其他
+
+新易盛成交額達100億元，現跌5.96%。
+
+---
+
+### 2026-08-19 10:35:11  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：補齊電子化學品、高溫合金等戰略短板】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，強化特種塗層、工程塑膠、汽車板等優勢材料，補齊電子化學品、高溫合金等戰略短板，壯大高階裝備、電子資訊、航空與生物等關鍵材料產業。加快超導帶材、智慧與介孔材料等前沿應用。建設變革性催化、生物醫用材料等概念驗證平臺，以及纖維複合材料、光敏材料等中試平臺，培育“人工智慧+材料”生態。支援寶山園聚焦先進金屬材料、四超材料，金山園聚焦高階化工、生物基材料等細分領域，推動技術應用和場景拓展。
+
+---
+
+### 2026-08-19 10:34:53  #市場
+
+【頻準鐳射盤中股價跌破1000元 跌幅超過14%】在上市首日即站上千元大關後，科創板次新股頻準鐳射今天（8月19日）上午走低，盤中股價跌破1000元大關，跌幅超過14%。
+
+---
+
+### 2026-08-19 10:34:44  #國際
+
+【特朗普宣佈推遲三天對加拿大加徵50%關稅】當地時間18日，美國總統特朗普在社交媒體宣佈，推遲三天對加拿大部分商品加徵50%關稅。特朗普還表示，目前美加雙方已經談成貿易協議，只需最終敲定書面檔案即可落地，因此叫停了本次關稅徵收計劃。（央視新聞）
+
+---
+
+### 2026-08-19 10:33:19  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：加快大飛機關鍵材料與核心零部件檢驗檢測等平臺建設】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》，其中提出，聚焦民用航空發動機、機載系統、複合材料、航空製造裝備、新型低空航空器等細分領域，發揮龍頭企業牽引作用，以整機帶動技術攻關和本土產業鏈培育，推動實施航空發動機研製工程等重點專案，加快大飛機關鍵材料與核心零部件檢驗檢測等平臺建設，提升適航審定等配套服務保障能力。支援臨港園聚焦大飛機產業鏈，紫竹高新區聚焦航電系統開發，金山園聚焦工業級無人機等產業細分領域，加速商業化應用示範和規模化發展。
+
+---
+
+### 2026-08-19 10:32:56  #宏觀
+
+【臺灣觀眾希望《八仙！》《歡迎來龍餐館》早日在島內上映 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問：截至8月16日，大陸2026暑期檔電影總票房已突破100億元，臺灣觀眾對《八仙！》《歡迎來龍餐館》等影片充滿期待，希望能早日在島內上映，請發言人介紹有關情況。發言人朱鳳蓮表示，臺灣同胞對大陸影片的喜愛，充分說明兩岸同胞有著共同的文化基因、歷史記憶和深厚的情感共鳴。我們一貫支援兩岸影視文化等領域的交流合作，希望相關影片能夠儘快在臺灣上映，讓更多的臺灣民眾深入感受中華文化的魅力。我們也歡迎更多的臺灣同胞來大陸的時候，能夠走進電影院去看看電影或者去打卡電影的取景地。
+
+---
+
+### 2026-08-19 10:32:42  #市場
+
+截至早盤收盤，日經225指數跌2.6%，東證指數跌2.7%。
+
+---
+
+### 2026-08-19 10:32:28  #MKT News #Important #Market Regions #Greater China #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+FTSE China A50 index futures fell more than 2%.
+
+---
+
+### 2026-08-19 10:32:27  #市場
+
+富時中國A50指數期貨跌超2%。
+
+---
+
+### 2026-08-19 10:32:24  #其他
+
+【朱雀三號遙一回收失敗原因披露】藍箭航天朱雀三號總指揮戴政表示，距離地面3.3公里的時候，我們會做一個急剎車，這時候要點火，叫著陸點火。這次點火實際上點火動作是完成了，火也點起來了。點起來之後出現了異常燃燒，最後墜落在著陸場坪的邊緣。戴政介紹，儘管朱雀三號遙一未能成功實現回收，但是作為我國首次軌道級火箭一級回收試驗，採集了返回段的遙測引數，摸清回收過程中的飛行環境，獲取了大量一手實測資料，提高了我們對整個回收過程的認識，包括飛行環境的認識、氣動的載荷、加熱的這些效應，對團隊來說獲得了很難得、寶貴的第一手實測資料。結合資料包括這個問題，去對產品做改進。（央視新聞）
+
+---
+
+### 2026-08-19 10:32:12  #Trading Economics #Markets #commodity #Importance 0
+
+EU Gas Hits 21-week High — EU Gas increased to 64.55 EUR/MWh, the highest since March 2026. Over the past 4 weeks, Natural Gas EU gained 9.75%, and in the last 12 months, it increased 102.16%.
+
+---
+
+### 2026-08-19 10:32:08  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報152000元/噸，較上日16:30價格下跌1000元/噸。
+
+---
+
+### 2026-08-19 10:32:05  #其他
+
+【蜘蛛俠嶄新之日進入年度票房榜前五】據貓眼專業版資料，電影《蜘蛛俠：嶄新之日》累計票房（含預售）超14.48億，進入2026年票房榜前五名。
+
+---
+
+### 2026-08-19 10:31:09  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：推進自主可控整車作業系統與人工智慧汽車大模型研發】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》，其中提出，聚焦整車智造轉型與智慧網聯創新應用，協同“三電”、攻關“三智”，強化晶片與作業系統自主可控。推動組合駕駛輔助（L2）+全覆蓋及有條件自動駕駛（L3）/高度自動駕駛（L4）量產，佈局新一代動力電池，推進自主可控整車作業系統與人工智慧汽車大模型研發，落地動力電池智造基地，量產智慧座艙人工智慧系統與一體化智慧底盤，促進車規晶片、車載軟體與整車系統整合，實現軟硬體協同，加大出行多域融合。支援嘉定園、臨港園聚焦智慧網聯新能源汽車全產業鏈佈局，金山園聚焦整車製造及智慧出行，推動產業叢集發展。
+
+---
+
+### 2026-08-19 10:30:50  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌2%，現報4576.20點。
+
+---
+
+### 2026-08-19 10:30:18  #MKT News #Important
+
+Sci‑Tech Innovation Board 50 Index fell more than 5%; among constituents, Xinyuan and Hua Hong Hongli each dropped over 9%.
+
+---
+
+### 2026-08-19 10:29:36  #市場 #焦點
+
+科創50日內跌幅達5.08%，成分股中，芯原股份跌9.46%，華虹宏力跌9.01%，盛美上海跌8.68%，瀾起科技跌6.95%。
+
+---
+
+### 2026-08-19 10:29:31  #MKT News #WTI #Impact bearish #Brent
+
+Refinitiv preliminary data show ship transits through the Strait of Hormuz remain low; six vessels transited on Tuesday.
+
+---
+
+### 2026-08-19 10:29:28  #市場
+
+【化工板塊逆勢拉昇 中毅達直線漲停】化工板塊盤中逆勢拉昇，化肥、農藥方向領漲，中毅達直線漲停，此前紅四方3連板，江天化學、迪爾化工、紅寶麗、美邦科技、聯盛化學、紅太陽等紛紛衝高。
+
+---
+
+### 2026-08-19 10:29:16  #其他
+
+船舶追蹤資料顯示，霍爾木茲海峽船隻通行量持續低迷，週二僅有六艘船隻透過。
+
+---
+
+### 2026-08-19 10:28:50  #國際
+
+美國總統特朗普18日晚宣佈，推遲三天對加拿大部分商品加徵50%關稅。該關稅原定於美東時間19日正式生效。（新華社）
+
+---
+
+### 2026-08-19 10:28:08  #宏觀
+
+【民進黨當局封鎖“臺青e家” 國臺辦：本質是懼怕種種抹黑大陸的謊言被戳穿】國務院臺辦舉行例行新聞釋出會。有記者就民進黨當局封鎖大陸推出的公益性綜合服務平臺“臺青e家”相關內容提問。發言人朱鳳蓮表示，“臺青e家”是為了幫助更多的臺灣青年便捷地獲取大陸發展機遇而打造的公益性服務平臺，是服務臺灣青年來大陸求學、實習、就業的便民視窗，是助力臺灣青年在大陸追夢、築夢、圓夢的務實載體。目前已經有不少的臺灣青年透過平臺查閱資訊、投遞簡歷，並且也有青年已經透過這個平臺找到了心儀的工作。民進黨當局的相關說辭完全顛倒黑白，是徹頭徹尾的惡意抹黑，他們不去思考如何為臺灣青年開拓發展空間，反而大搞資訊封鎖，他們無視兩岸青年交流的時代潮流，不斷地編造謊言。不顧臺灣青年尋找發展機遇的現實需求，炮製不實說法，恐嚇打壓臺青。究其本質，他們就是懼怕兩岸青年走近交心，增進了解，懼怕越來越多的臺灣青年看清“臺獨”的虛妄，懼怕種種抹黑大陸的謊言被戳穿。
+
+---
+
+### 2026-08-19 10:27:52  #公司
+
+【智元機器人、恆工精密持股公司成立具身智慧科技公司】企查查APP顯示，近日，恆元智啟具身智慧科技（湖北）有限公司成立，法定代表人為魏劍秋，註冊資本為1000萬元，經營範圍包含：智慧機器人的研發；人工智慧硬體銷售；智慧基礎製造裝備銷售；智慧機器人銷售等。企查查股權穿透顯示，該公司由恆元智啟具身智慧科技（上海）有限公司全資持股，後者由智元機器人關聯公司智元創新（上海）科技股份有限公司、恆工精密全資子公司恆工偉創具身智慧科技（上海）有限公司共同持股。
+
+---
+
+### 2026-08-19 10:27:03  #市場
+
+【美團打新宇樹猛賺333億】宇樹科技今日登入科創板，開盤暴漲629.44%，以發行價150.80元/股計算，網上打新中一簽賣出可賺47.46萬元。以此計算，美團系是宇樹科技持股比例最高的外部股東，透過漢海資訊、成都龍珠、Galaxy Z合計持股數量約3512.36萬股，浮盈超333億元。（中新經緯）
+
+---
+
+### 2026-08-19 10:26:57  #MKT News #Star Stocks #Meituan #3690.HK #Impact bullish
+
+【Yushu Technology jumps 629% at STAR Market; Meituan stake up CNY33.3bn】Yushu Technology debuted on the STAR Market, surging 629.44% at the open from an IPO price of CNY150.80 per share; an online one-lot allocation sold at the open would net about CNY474,600. Meituan is the largest external shareholder in Yushu, holding roughly 35.12 million shares via Hanhai Information, Chengdu Longzhu and Galaxy Z, with unrealized gains exceeding CNY33.3bn.
+
+---
+
+### 2026-08-19 10:26:54  #市場
+
+恒指拉昇轉漲，此前一度跌0.6%。小米漲超4%。
+
+---
+
+### 2026-08-19 10:26:17  #宏觀
+
+【國臺辦：暑假期間兩岸體育賽事及活動十分火爆】國務院臺辦舉行例行新聞釋出會。有記者問：儘管臺陸委會抹黑兩岸單純的體育交流，但今年暑期兩岸體育交流格外熱絡，想請發言人介紹相關情況。發言人朱鳳蓮表示，體育是促進兩岸交流交融的重要紐帶，暑假期間兩岸體育賽事及活動如火如荼，十分火爆，棒球運動已經在大陸的多個城市流行，8月3日至10日，2026年東森杯海峽兩岸連城青少年棒球邀請賽在福建省連城縣舉辦。兩岸15支隊伍共276人參賽交流活動，自2024年開辦以來，已經累計吸引了近300名臺灣青少年來閩參賽交流。8月7日至8日，2026第二屆崑山媽祖杯少年棒球賽在江蘇省崑山市舉辦，兩岸12支少年棒球隊約300人參賽。
+
+---
+
+### 2026-08-19 10:25:31  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：增強生物醫藥全鏈條創新能力】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，堅持高商業轉化潛力重磅創新藥為引領，增強生物醫藥全鏈條創新能力，形成以張江核心園為創新策源高地，閔行園、嘉定園等協同的產業體系。創新藥械研發，支援新靶點、新機制創新藥研發，開發影像診斷、微創手術、植入介入、體外診斷等高階醫療器械，建設藥物靶標科學設施，推動神經與代謝藥物研發中心等技術平臺建設。臨床研究與轉化，支援上海臨床創新轉化研究院建設，提升張江藥谷服務能級，完善醫療器械專業孵化與檢驗檢測服務體系。生產製造與應用推廣，推進抗體偶聯藥物（ADC）生產基地、生物製品跨境分段生產基地等產業化專案建設，加快落地嘉定影像裝置生產研發基地，鼓勵創新產品入院配備使用，舉辦“張江藥谷國際創新大會”，加速創新成果轉化應用。
+
+---
+
+### 2026-08-19 10:25:01  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+China A-share precious metals sector climbed amid volatile trading; Shandong Gold jumped more than 7%, while Chifeng Gold, Shanjin International, Xiaocheng Technology and Western Gold also advanced.
+
+---
+
+### 2026-08-19 10:24:58  #市場
+
+【貴金屬板塊震盪走高，山東黃金漲超7%】貴金屬板塊震盪走高，山東黃金漲超7%，赤峰黃金、山金國際、曉程科技、西部黃金跟漲。
+
+---
+
+### 2026-08-19 10:24:13  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：大力發展人工智慧手機和電腦等新型智慧終端】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦智慧終端、新型通訊裝置、智慧感測、下一代顯示及超高畫質視聽等方向，大力發展人工智慧手機和電腦等新型智慧終端，加快第五代行動通訊演進技術（5G-A）/第六代行動通訊（6G）及衛星通訊創新，支援微型發光二極體（Micro-LED）等新型顯示技術發展。加快推進智慧工業軟體等重點專案，建設流程製造智慧調控技術創新中心，支援聯合開發與核心零部件代工新模式。圍繞AI智慧體完善晶片、終端與內容服務生態，突破關鍵環節，培育新物種、新品牌。支援松江園聚焦智慧終端與新型通訊裝置，青浦園聚焦空間資訊與導航，西岑園聚焦晶片研發，打造特色園區。
+
+---
+
+### 2026-08-19 10:24:05  #MKT News #Nasdaq100 #Impact bullish #S&P500
+
+ARK Invest founder Cathie Wood said productivity and intelligence gains have produced an extremely large price elasticity of demand, initiating a virtuous cycle that remains in its early stages.
+
+---
+
+### 2026-08-19 10:23:21  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesian Stocks Ease Ahead of BI Rate Decision — Indonesian shares slipped 39 points or 0.6% to 6,410 in early Wednesday trade, reversing gains from the prior two sessions as Wall Street’s overnight selloff in semiconductors, elevated bond yields, and rising oil prices weighed on sentiment. Domestic caution deepened amid recent natural disasters, doubts over 2027 budget assumptions, and delays in electric motorcycle incentives. Market focus vigilantly turned to Bank Indonesia’s policy decision later today, its first under Acting Governor Destry Damayanti, with interest rates expected to stay unchanged after a cumulative 100 bps of hikes since May. However, traders remain increasingly watchful of how she balances currency stability against President Prabowo Subianto’s growth agenda. Sectoral losses were broad, led by energy, cyclicals, and basic materials, though property gains helped limit declines. Notable laggards included MNC Tourism (-2.9%), Bank Jago (-2.6%), Pertamina Geothermal Energy (-2.3%), and Alamtri Minerals (-2.1%).
+
+---
+
+### 2026-08-19 10:23:15  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：提升智慧計算能力 突破光計算、類腦等顛覆性晶片架構】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦算力、大模型、語料資料、科學智慧、應用等重點領域創新，形成以張江核心園、徐匯園、漕河涇園等為示範引領的人工智慧先導產業叢集。提升智慧計算能力，突破光計算、類腦等顛覆性晶片架構，構建超算智算融合、雲邊端協同的自主算力體系，建設浦江公共算力服務平臺。發力下一代大模型，開發類腦計算等大模型，建設模速空間、張江人工智慧創新小鎮，支援多模態大模型國產算力適配與生態融合。打通語料匯聚與共享體系，建設科學資料中心、高質量語料公共服務平臺，完善語料庫與資料集，推進青浦資料中心等平臺建設。發展科學智慧新正規化，加強多學科專業工具模型開發，打造通用科研基座，推動科學智慧在多領域應用。實施“模力聚申”行動，推進具身智慧技術熟化與實訓場建設，加速在製造、物流、零售、康養、家政等場景落地。
+
+---
+
+### 2026-08-19 10:22:47  #其他
+
+【上海張江高新技術產業開發區發展“十五五”規劃：加快第三/四代半導體材料技術攻關和產業化落地】上海市科學技術委員會印發《上海張江高新技術產業開發區發展“十五五”規劃》。其中提出，聚焦高階晶片設計、工藝製造、核心裝備與材料等產業鏈關鍵環節，圍繞“一體兩翼”（張江核心園、臨港園、嘉定園）核心區建設，強化產業協同，打造積體電路先導產業叢集。高階晶片設計，支援電子設計自動化（EDA）工具與智慧化升級等先進封裝技術體系構建，加快電子設計自動化及積體電路設計模組創新中心和第五代指令集（RISC-V）創新中心建設。工藝製造，重點推進一批重大產業化專案建設，打造工藝平臺。核心裝備與材料，加快建設半導體高階裝備示範園，推進積體電路檢測裝備、先進封裝裝置等關鍵裝備研發及產業化，加快第三/四代半導體材料技術攻關和產業化落地。
+
+---
+
+### 2026-08-19 10:22:35  #MKT News #Important #Star Stocks #Tencent #Market Regions #Greater China #Hang Seng Index #Impact bullish #Hang Seng Tech Index #Impact bearish #00700.HK
+
+Hong Kong stocks tick higher; the Hang Seng Index has turned positive and the Hang Seng Tech Index’s decline narrows to about 1.1%. Tencent Holdings (00700.HK) briefly rallied and is trading up nearly 1%.
+
+---
+
+### 2026-08-19 10:22:00  #其他
+
+長鑫科技成交額達100億元，現跌2.55%。
+
+---
+
+### 2026-08-19 10:21:58  #MKT News #Market Regions #Greater China #Market Themes #AI Revolution
+
+【Shanghai to build AI pilot industry cluster centered on Zhangjiang, prioritizing compute and large models】Shanghai Science and Technology Commission issued a development plan for the Zhangjiang High‑Tech Zone outlining an AI pilot industry cluster led by Zhangjiang core park with Xuhui and Caohejing parks as demonstration zones. Policy targets include boosting compute, large models, corpora/data, scientific intelligence and applications; priorities are advancing intelligent computing via optical and neuromorphic chip architectures, creating an autonomous compute stack that integrates supercomputing and AI computing with cloud‑edge‑end coordination, and building the Pujiang public compute service platform. The plan also backs next‑generation large models (including brain‑inspired computing), establishes a model‑acceleration facility and a Zhangjiang AI innovation town, and supports domestic compute adaptation and ecosystem integration for multimodal models.
 
 ---
 
@@ -18497,179 +18725,5 @@ Japan's Nikkei 225 opened down 375.98 points (-0.54%) at 68,844.27 on Tuesday, A
 ### 2026-08-18 07:55:14  #公司 #國際
 
 【樂天化學擬出售馬來西亞、印尼業務股權】《韓國經濟日報》援引匿名政府官員訊息稱，樂天化學近期向債權人及韓國產業部透露計劃，擬剝離其位於馬來西亞、印度尼西亞及美國的部分基礎化工業務。樂天目前正研判市場風向、物色潛在收購方，同時制定具體出售方案。樂天計劃剝離盈利不佳的海外業務，聚焦高附加值特種化學品，以此完成業務重組。樂天旗下馬來西亞子公司樂天化學泰坦被視作首要出售標的；樂天 2010 年斥資約 1.5 萬億韓元收購該企業，持有其 74.7% 股權。公司同時擬向印尼主權財富基金 BPI Danantara，部分出讓 LCI 的股權。LCI 為樂天在印尼投建石化工廠的業務主體，專案投資額達 5.7 萬億韓元。
-
----
-
-### 2026-08-18 07:53:09  #公司
-
-【A股定增一覽：9家公司披露定增進展】Wind資料顯示，8月18日，A股共9家公司釋出定增相關公告。其中2家公司披露股票定增預案，5家定增預案獲股東大會透過，1家定增預案獲交易所透過，1家定增方案停止實施。從當日最新披露定增預案來看，斯菱智驅、盈新發展定增募資預案金額最高，分別擬定增不超18.0億元、17.79億元。今年以來，已有117家公司公告定增方案已完成，39家公司定增金額超10億元。具體來看，中國國航、中國神華、松發股份定增募資金額最高，募資總額分別為200.0億元、200.0億元、70.0億元。
-
----
-
-### 2026-08-18 07:52:32  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Holds Firm as Fed Rate Hike Bets Ease — Gold held above $4,400 an ounce on Tuesday after advancing for two straight sessions, supported by fading expectations for a Federal Reserve rate hike following a string of weak US economic data. Markets now expect the Fed to keep policy unchanged in September and are no longer fully pricing in a rate increase by year-end, unlike just a week ago. Investors are now awaiting the minutes of the Fed’s July meeting and comments from Chairman Kevin Warsh at the annual Jackson Hole symposium for further clues on the policy outlook. Meanwhile, traders remained wary of inflation risks as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Elsewhere, gold continued to benefit from stronger investment demand and ongoing central bank purchases, particularly from China.
-
----
-
-### 2026-08-18 07:51:36  #觀點
-
-【中信建投：化工逐漸進入旺季 關注三季度環比改善的板塊和個股】中信建投證券研報指出，化工逐漸進入旺季，關注三季度環比改善的板塊和個股。在經歷4、5月下游的去庫之後，當前下游庫存偏低，從去庫轉向正常採購的過程表觀需求會有所改善，而9—10月的真實需求也會偏高。不過考慮到目前油價依然處於高價格和高波動期，下游進行補庫的意願不會太強，維持今年秋季弱補庫的觀點。長期看化工龍頭在週期底部的盈利底已經非常優秀，擁有足夠的價值，但是短期依然面臨二季度高基數和三季度弱補庫導致的業績環比下滑風險。建議重點關注三季度業績有望進一步上行的行業和個股，包括：保持高景氣的海外成品油、量價齊升的氟化工製冷劑、新產能持續放量的鉀肥、以及成本端下行顯著的輪胎。
-
----
-
-### 2026-08-18 07:51:19  #國際
-
-【美加貿易談判受阻 汽車關稅成為主要障礙】在美國對加拿大新一輪關稅即將生效之際，兩國貿易談判仍未取得突破，據悉汽車關稅成為主要分歧。因涉及未公開資訊而不願具名的知情人士表示，加拿大希望汽車關稅稅率降至10%，或擴大目前對於包含美國零部件的汽車予以關稅減免的措施。但特朗普政府堅持稅率至少為15%。美國總統特朗普去年對外國汽車和卡車徵收25%的關稅，但根據供應鏈中美國零部件所佔比例，對加拿大和墨西哥給予部分減免。例如，一輛在安大略省組裝、美國零部件佔比50%的汽車，實際適用的關稅稅率為12.5%。美國貿易代表格里爾要求加拿大取消所有貿易報復措施，包括去年針對美國汽車加徵的反制關稅，以及加拿大一些省份禁止美國製造酒類產品進入當地零售市場的措施。
-
----
-
-### 2026-08-18 07:49:21  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's 10-year government bond yield rose 2.5 bps to 2.945%, its highest level since September 1996.
-
----
-
-### 2026-08-18 07:48:28  #市場 #國際
-
-日本10年期國債收益率上升2.5個基點至2.945%，為1996年9月以來最高。
-
----
-
-### 2026-08-18 07:48:22  #觀點
-
-【中信建投：礦區自動駕駛行業有望進入S型加速階段】中信建投證券研報認為，礦區自動駕駛區別於Robotaxi，封閉場景、剛性用工需求與明確的降本增效價值使其商業化路徑更清晰，行業在滲透率突破10%後有望進入S型加速階段。國內近10萬臺礦卡存量提供持續改造空間，大型煤礦車隊擴容、金屬礦專案複製及中小礦山下沉將支撐國內市場增長；海外澳大利亞等高人工成本市場單車服務價值顯著高於國內，有望開啟第二增長曲線。
-
----
-
-### 2026-08-18 07:47:21  #市場 #國際
-
-10年期日本國債收益率上漲2.5個基點，至2.945%。
-
----
-
-### 2026-08-18 07:47:06  #觀點
-
-【華泰證券：新食品原料從“概念驗證”走向“產業替代”】華泰證券研報指出，政策紅利、技術突破與需求拉動共振，新食品原料正從邊緣創新走向產業主流。據植提橋，20年至26H1末，國家衛健委已累計批准68種新食品原料，數量較上一階段增長47.8%；25年全年批准15種，創近年新高，受理申報達53種、同比+77%；26H1已有12種新食品原料獲批，預計全年將超20種。審批提速的背後，是“健康中國2030”戰略深入推進與合成生物學技術快速突破的雙重驅動。新食品原料的競爭邏輯已從“誰先申報”升級為“誰的工藝更硬”，微生物發酵、精準生物合成等技術的成熟，使過去難以規模化生產的原料具備了商業化條件，產業鏈正從“概念驗證”走向“產業落地”。
-
----
-
-### 2026-08-18 07:47:03  #公司
-
-必和必拓執行長：必和必拓對目前的商品組合感到滿意。
-
----
-
-### 2026-08-18 07:46:40  #市場 #國際
-
-基準10年期日本公債期貨早盤下跌0.22點。
-
----
-
-### 2026-08-18 07:46:23  #市場 #國際
-
-日本日經指數期貨早盤下跌0.4%。
-
----
-
-### 2026-08-18 07:45:34  #市場 #央行 #國際
-
-【機構：金價今年將觸及7150美元】17日晚，在經歷數月震盪回撥後，國際金價一舉突破4400美元/盎司關口。對於金價的反攻，廣發期貨貴金屬研究員葉倩寧對21世紀經濟報道記者分析稱，由於宏觀與地緣局勢利空逐步落地，資金情緒改善帶動貴金屬價格修復。瑞銀首席投資官Ulrike Hoffmann-Burchardi表示，黃金價格具備支撐，預計黃金價格將在2027年上半年升至每盎司5000美元。通脹或將逐步回落，使美聯儲今年保持利率穩定，並在2027年重新啟動寬鬆政策。ICBC Standard Bank大宗商品策略師Julia Du甚至預計，金價今年將觸及7150美元/盎司，全年均價目標為6050美元/盎司。 （中新經緯）
-
----
-
-### 2026-08-18 07:43:47  #MKT News #BHP.AX
-
-BHP CEO: We do not expect the strike at Port Hedland to have any material adverse impact on our results.
-
----
-
-### 2026-08-18 07:43:46  #MKT News
-
-BHP CEO said the company intends to remain committed to its metallurgical coal business.
-
----
-
-### 2026-08-18 07:42:12  #公司
-
-【惠譽將英特爾評級展望上調至“穩定”】當地時間8月17日，惠譽確認英特爾長期發行人違約評級及高階無抵押債務評級為“BBB”，短期發行人違約評級及商業票據評級為“F2”，並將評級展望由“負面”調整為“穩定”。惠譽表示，英特爾在技術和產品路線圖執行方面取得進展，運營表現好於預期。英特爾近期完成230億美元股權融資，用於支援提高資本支出以滿足強勁需求，惠譽預計公司將於2027年開始降低淨債務，並在未來約12個月內將EBITDA槓桿率降至2.5倍以下。
-
----
-
-### 2026-08-18 07:41:40  #公司
-
-必和必拓執行長：預計黑德蘭港的勞工行動不會對我們的業績造成任何明顯負面影響。
-
----
-
-### 2026-08-18 07:39:20  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Kushner says Gaza 'demilitarization' process could start within 30 days】Jared Kushner, after meeting Israeli Prime Minister Netanyahu in Jerusalem, told Fox News he expects a Gaza demilitarization process could begin within 30 days, with partial weapons removal immediately and tunnel removal/burial over the following 60–90 days. He warned that if Hamas fails to meet commitments, the U.S. and other parties would provide stronger support to Israel. Kushner said the U.S. will not permit Gaza reconstruction before demilitarization and would not restrict Israeli self‑defense if faced with an imminent threat.
-
----
-
-### 2026-08-18 07:38:44  #MKT News #Market Regions #Greater China #CNH #Impact bullish
-
-【Wang Qing: Overnight reverse repos could become PBOC's core short-term liquidity tool】Wang Qing, chief macro analyst at Orient Jincheng, said recent zero 7-day reverse repo operations and the PBOC's use of overnight reverse repos in mid‑August signal more precise control of market rates. He expects market-rate volatility to ease and says overnight reverse repos could gradually supplant 7-day reverse repos as the PBOC's primary short-term liquidity management tool.
-
----
-
-### 2026-08-18 07:38:32  #國際
-
-【庫什納稱加沙“非軍事化”程序或在30天內啟動】 據美國媒體17日報道，正在中東訪問的美國總統特朗普的女婿庫什納表示，加沙地帶的“非軍事化”程序可能在30天內啟動。庫什納當天在耶路撒冷與以色列總理內塔尼亞胡舉行會晤，之後接受美國福克斯新聞頻道採訪時說，“我們可能最快在30天內就能看到進展，希望屆時能開始清除部分武器，並在接下來的60到90天內，能夠填埋部分地道”。他同時威脅道，如果巴勒斯坦伊斯蘭抵抗運動（哈馬斯）未能兌現承諾，“屆時以色列將獲得美國及其他各方更強有力的支援”。（新華社）
-
----
-
-### 2026-08-18 07:37:53  #宏觀 #國際
-
-【我國量子技術國際標準領域有新進展】作為未來產業，量子科技正處於從實驗室走向產業化的關鍵視窗期，量子通訊、量子計算、量子精密測量等技術發展迅速。記者8月17日從市場監管總局獲悉：在國際標準組織量子技術聯合技術委員會（IEC/ISO JTC3）第五次全體會議期間，我國牽頭的多項量子技術國際標準提案取得積極進展。 由我國牽頭的《量子熵源隨機性質量和測試方法學的概述和分析》國際標準提案正式獲批立項，標誌著我國在量子核心器件國際標準制定中邁出重要一步。由我國與美國、加拿大聯合牽頭的《單光子器件表徵的度量標準調查及潛在推薦測量實踐》國際標準提案也獲批立項，該標準將梳理單光子探測器領域標準研製優先順序，引領本領域後續國際標準化工作。我國牽頭的《量子經典融合計算》等兩項國際標準預研課題也透過立項，將助力量子計算領域的國際標準化探索與體系完善。 深度參與國際標準制定，有助於打通技術壁壘、加速創新成果大規模應用，也將為世界量子技術產業高質量發展持續貢獻中國智慧。目前，國際標準化組織（ISO）和國際電工委員會（IEC）已釋出的3項量子技術國際標準均由我國牽頭制定，還有5項國際標準正在牽頭研製中。（人民日報）
-
----
-
-### 2026-08-18 07:36:54  #公司
-
-【具身大模型榜單數量已超20個 業內公認的權威標準尚未形成】“拿下具身世界模型第一”“登頂具身智慧榜單”“具身大模型登頂國際評測公開排行榜”……搜尋最近的具身大模型新聞，滿屏的“第一”和“登頂”躍入眼簾。在這個資本最密集的賽道，榜單已經變得不夠用了。當幾乎所有頭部公司都手握至少一個“第一”時，這些榜單究竟在衡量什麼？記者調研發現，當前具身大模型榜單數量已超20個，但業內公認的權威標準尚未形成。模擬榜單刷分容易、真機測試成本高昂、榜單性質混雜——“第一”的含金量千差萬別。（證券時報）
-
----
-
-### 2026-08-18 07:34:25  #公司
-
-市場訊息：樂天化學將出售其基礎化學品業務股份。
-
----
-
-### 2026-08-18 07:34:07  #公司 #市場
-
-【光伏產業鏈景氣度抬升 7月以來14只概念股獲機構調研】近日，光伏產業鏈漲價行情持續發酵，8月17日多晶矽現貨價格再度上行，矽片、電池片等環節價格同步跟漲。上海有色網資料顯示，當日多晶矽N型復投料單價上漲0.95元/千克，報40.4元/千克；N型緻密料單價上漲1元/千克，報40元/千克，產業鏈漲價態勢延續。從A股市場來看，7月21日以來，光伏板塊出現明顯反彈，Wind光伏指數震盪走高，區間累計漲幅超過14%。從個股看，7月21日以來，有34只光伏板塊個股漲幅超過10%，聚和材料、羅博特科累計漲幅均超過40%，弘元綠能漲幅超過30%，通威股份、拉普拉斯等漲幅超過20%，博威合金、協鑫整合、東方日升、陽光電源等均漲超15%。以7月以來機構調研統計，有14只概念股獲得調研。羅博特科獲調研的數量居首，達到138家；晶科能源、華電新能、陽光電源、阿特斯獲調研的數量均在30家及以上。
-
----
-
-### 2026-08-18 07:33:47  #其他
-
-【南海伏季休漁正式結束 “第一網”漁獲新鮮上岸】16日中午12時，為期三個半月的南海伏季休漁正式結束。在海南三沙各島礁，各類捕撈船整裝待發，滿懷期待開啟新一輪海上捕撈作業。今年三沙共有53艘漁船將赴南海開展捕撈作業，三沙海域作業漁獲主要有炮彈魚、黃鰭金槍魚等，漁業捕撈船將赴30海里之外的北島附近海域開展捕撈作業。據瞭解，第一批出海的捕撈船計劃15天后返回，屆時，這些南海漁獲將透過冷鏈運輸銷往全國各地。（央視）
-
----
-
-### 2026-08-18 07:33:29  #MKT News #AUDUSD #Impact bullish
-
-ANZ survey: Australian consumer confidence rose 1.5 points to 76.5, the highest since early March. Consumers' inflation expectations climbed 0.1ppt to 5.8%.
-
----
-
-### 2026-08-18 07:33:27  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Extends Gains as Peace Prospects Dim — Brent crude climbed above $91 per barrel on Tuesday, rising for a third consecutive session as prospects for a new agreement between the US and Iran weakened after President Donald Trump said he was not interested in extending the interim peace deal. The memorandum of understanding signed in June, which was intended to give both sides 60 days to negotiate a longer-term peace agreement, officially expired on Monday. Meanwhile, Iran and Oman continue to negotiate an arrangement for managing shipping through the Strait of Hormuz, although the US is not involved in the talks. Washington is unlikely to back any deal that fails to ensure unrestricted passage through the strategically vital shipping route. At the same time, Middle Eastern producers appear to be becoming increasingly adept at covertly moving oil through Hormuz to global buyers while also supplying cargoes from outside the key chokepoint.
-
----
-
-### 2026-08-18 07:32:45  #觀點
-
-【中信建投：能夠率先突破量產且完成產能擴張的OSAT廠商有望形成先發優勢】中信建投研報指出，對照全球先進封裝工藝的發展路徑，中國大陸的先進封裝工藝目前正處於CoWoS技術滲透率快速提升的階段。由於中國大陸的晶圓代工廠暫未進行RDL等中段工藝量產，而OSAT廠商在2.5D/3D/CoWoS領域均有所佈局。我們認為，能夠率先突破量產且完成產能擴張的OSAT廠商有望形成先發優勢，卡位佔據較高的行業份額。但伴隨產業發展趨勢演進，我們認為類比臺積電，中國大陸的晶圓代工廠在先進封裝領域的重要性同樣不可忽視，Foundry在前道技術和裝置產能的優勢能夠有助於其在先進封裝技術迭代中實現追趕甚至反超。
-
----
-
-### 2026-08-18 07:32:37  #MKT News
-
-【CITIC Securities: OSATs that first scale mass production and expand capacity likely to gain first‑mover advantage】CITIC Securities says mainland China advanced packaging is at a stage of rapidly rising CoWoS penetration. Mainland foundries have not yet mass‑produced mid‑process steps such as RDL, while OSATs have active layouts in 2.5D/3D/CoWoS. OSATs that can first break through to mass production and expand capacity are likely to establish a first‑mover advantage and capture larger industry share. However, as the sector evolves, mainland foundries remain strategically important: their front‑end technology and equipment capacity could enable them to catch up with or even surpass OSATs in advanced packaging iterations, by analogy with TSMC’s role.
 
 ---

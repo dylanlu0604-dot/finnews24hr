@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 07:32:14_
-_本檔包含 3254 則快訊，約 623370 字_
+_更新時間：2026-08-25 07:53:21_
+_本檔包含 3281 則快訊，約 623091 字_
+
+---
+
+### 2026-08-21 09:47:31  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australia Shares Set for 2nd Straight Weekly Losses — Australian equities inched lower around midday on Friday, hovering around 9,071 after closing modestly higher in the prior session, heading for the second straight weekly decline. A sharp drop on Wall Street overnight weighed on sentiment as long-dated U.S. Treasury yields resumed their march higher, after the government's moves to stem the recent bond market rout failed to ease investor fears about inflation. Locally, private sector activity slowed in August, with the flash Composite PMI slipping from July's 6-month high amid a decline in manufacturing output. Caution also grew ahead of July inflation readings next week. Meanwhile, July employment unexpectedly fell, pushing the jobless rate to a three-month high. Tech, healthcare, and commercial services weighed though gains in energy minerals, utilities, and communications capped the downside. Steep losses were seen for Charter Hall (-6.3%), Pro Medicus (-3.3%), Wisetech Global (-2.9%), and Lynas Rare Earths (-2.2%).
+
+---
+
+### 2026-08-21 09:46:23  #公司 #市場
+
+【超節點概念震盪拉昇 瑞斯康達直線漲停】超節點概念震盪拉昇，瑞斯康達直線漲停，星網銳捷、共進股份、紫光股份、菲菱科思跟漲。
+
+---
+
+### 2026-08-21 09:46:16  #公司 #市場
+
+CPO概念股異動拉昇，可川科技、瑞斯康達、星網銳捷漲停，共進股份、銳捷網路、新易盛跟漲。
+
+---
+
+### 2026-08-21 09:45:58  #MKT News #Important #Market Regions #Greater China #XAUUSD #Impact bullish #CSI300
+
+Mainland A-shares opened lower then rallied; ChiNext rose 1.0%, the Shenzhen Composite Index added 0.4% and the Shanghai Composite neared flat/turning positive. Leading gains were in gold, shale gas, MLCC (multilayer ceramic capacitors) and crude palm oil-related stocks.
+
+---
+
+### 2026-08-21 09:45:53  #公司
+
+【明陽智慧、唐山國控投資成立綠色能源公司】企查查APP顯示，近日，唐山國控綠色能源有限公司成立，經營範圍包含：氣體、液體分離及純淨裝置銷售；生物化工產品技術研發；生物質液體燃料生產工藝研發等。企查查股權穿透顯示，該公司由唐山國控集團有限公司、明陽智慧共同持股。
+
+---
+
+### 2026-08-21 09:45:38  #市場 #焦點
+
+創業板指漲1.02%，現報3531.139點；上證指數跌0.04%，現報3902.340點；深證成指漲0.40%，現報14029.288點。
+
+---
+
+### 2026-08-21 09:44:56  #MKT News
+
+New Zealand and Thailand launch a strategic partnership.
+
+---
+
+### 2026-08-21 09:44:50  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index
+
+FTSE China A50 futures surged over 1%.
+
+---
+
+### 2026-08-21 09:44:44  #市場 #焦點
+
+富時中國A50指數期貨漲幅擴大至1%。
+
+---
+
+### 2026-08-21 09:44:38  #公司 #市場
+
+【乳業奶粉板塊下挫，一鳴食品跌停】乳業奶粉板塊下挫，一鳴食品跌停，李子園、三元股份、燕塘乳業、ST嘉必優、天潤乳業、均瑤健康等跟跌。
+
+---
+
+### 2026-08-21 09:44:19  #市場 #焦點
+
+甲醇連續主力合約日內漲2%，現報2887.00元。
+
+---
+
+### 2026-08-21 09:44:06  #公司 #市場
+
+【化肥板塊持續調整，紅四方跌停】化肥板塊持續調整，紅四方跌停，農大科技、赤天化、星湖科技、川金諾、史丹利、冠農股份等跟跌。
+
+---
+
+### 2026-08-21 09:44:03  #市場 #焦點
+
+瀝青連續主力合約日內漲3%，現報4564.00元。
+
+---
+
+### 2026-08-21 09:43:46  #MKT News #Important
+
+A-share CPO-related stocks saw selective strength; Ruisikangda and Kechuan Technology hit daily limits, while Dongtian Micro, Shenkeda and StarNet Ruijie also advanced.
+
+---
+
+### 2026-08-21 09:43:41  #公司 #市場
+
+【黃金概念逆勢走強 白銀有色觸及漲停】早盤黃金概念逆勢走強，白銀有色觸及漲停，此前深中華A2連板，株冶集團、赤峰黃金、曉程科技、西部黃金跟漲。
+
+---
+
+### 2026-08-21 09:43:37  #MKT News #Important
+
+China's total electricity consumption in July rose to 1,040 billion kWh, up from 898.1 billion kWh previously.
+
+---
+
+### 2026-08-21 09:43:24  #MKT News #Economic Calendar #Important
+
+China | Total Electricity Consumption (Jul) | actual 1040000000000B | previous 898100000000B
+
+---
+
+### 2026-08-21 09:43:19  #公司 #國際
+
+HD現代重工集團：正考慮包括收購美國造船廠或收購其股權在內的多項方案。
+
+---
+
+### 2026-08-21 09:43:17  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #Copper #Impact bearish #CNH #CSI300
+
+China's total electricity consumption rose 1.7% YoY in July, down from 3.7% in June.
+
+---
+
+### 2026-08-21 09:43:11  #MKT News #Economic Calendar #Important
+
+China | Total Electricity Consumption (YoY) (Jul) | actual 1.7% | previous 3.7%
+
+---
+
+### 2026-08-21 09:42:57  #國際
+
+紐西蘭與泰國啟動戰略伙伴關係。
+
+---
+
+### 2026-08-21 09:42:14  #國際
+
+【美媒：美國前國務卿基辛格的妻子南希·基辛格去世，終年92歲】據《紐約時報》等美媒報道，美國前國務卿亨利·基辛格的妻子南希·基辛格20日在位於康涅狄格州的家中去世，終年92歲。（環球網）
+
+---
+
+### 2026-08-21 09:42:00  #市場 #焦點
+
+【A股疫苗板塊短線走低】金迪克跌12.45%，沃森生物、康希諾跟跌。
+
+---
+
+### 2026-08-21 09:42:00  #市場 #焦點
+
+【A股精準醫療板塊短線走低】安科生物跌11.53%，華邦健康、迪安診斷、金域醫學、貝瑞基因、華大智造跟跌。
+
+---
+
+### 2026-08-21 09:40:52  #公司
+
+正榮地產(06158.HK)漲超120%，訊息面上，公司境外重組計劃條款書已送交若干債權人，擬登出債務併發行新股份。
+
+---
+
+### 2026-08-21 09:40:45  #市場 #原創
+
+【比特幣升破7萬美元或步入寒冬末期 83%籌碼落入長期持有者手中】比特幣升破7萬美元，助力之一是市場底層一個較不受注目的變化：越來越多比特幣落入歷來惜售的長期投資者手中。根據Compass Point彙編的資料，長期持有者目前控制比特幣籌碼的83%，為2023年12月以來最高佔比。與接近高點時相比，籌碼分佈也不再那麼集中於高價區。目前在買進後持有的投資人掌握的比特幣中，僅14%的持有成本是在10萬美元以上，低於去年10月的30%；另有19%的取得成本介於6萬至7萬美元。Compass Point表示，約19%的比特幣籌碼成本落在6萬至7萬美元，過往熊市觸底時，在相近價格區間的籌碼佔比約為15%。Compass的Ed Engel和Michael Donovan寫道，“我們追蹤的每個指標都表明，比特幣正處於加密貨幣寒冬的最後階段，”並補充說，一旦突破7萬美元，短線交易者便可擺脫虧損，轉為獲利，進而可能形成足夠的上漲動能，挑戰上一輪週期7.6萬美元的平均持倉成本。
+
+---
+
+### 2026-08-21 09:40:36  #MKT News #Market Regions #Greater China #06158.HK #Impact bullish
+
+Zhengrong Real Estate (06158.HK) rose over 120% after the company delivered terms of an offshore restructuring plan to certain creditors proposing to cancel debt and issue new shares.
+
+---
+
+### 2026-08-21 09:39:15  #MKT News #Market Themes #Crypto Concepts #00434.HK #Impact bullish #08005.HK #08267.HK
+
+Hong Kong-listed blockchain stocks rose: 00434.HK up nearly 13%, 08005.HK up nearly 12%, 08267.HK up 11.5%, 01499.HK up over 9%.
+
+---
+
+### 2026-08-21 09:38:40  #市場 #焦點
+
+中證500指數期貨連續主力合約日內跌1%，現報7683.00點。
+
+---
+
+### 2026-08-21 09:38:13  #市場
+
+【功率半導體概念表現活躍 士蘭微漲停】功率半導體概念表現活躍，士蘭微漲停，斯達半導、揚傑科技、華潤微、新潔能、宏微科技跟漲。
+
+---
+
+### 2026-08-21 09:37:55  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share gas sector surged, with Shuifa Gas hitting the daily limit-up; Guizhou Gas, Tianhao Energy, Hongtong Gas, Kaitian Gas and Shengli Co. also rose.
+
+---
+
+### 2026-08-21 09:37:41  #市場
+
+【港股黃金股延續漲勢 山東黃金漲近5%】截至發稿，山東黃金(01787.HK)漲4.67%，靈寶黃金(03330.HK)漲4.45%，赤峰黃金(06693.HK)漲3.92%。
+
+---
+
+### 2026-08-21 09:37:33  #公司
+
+【樂山國融基金等新設算電協同股權投資企業】企查查APP顯示，近日，嘉興綏山算電協同股權投資合夥企業（有限合夥）成立，經營範圍包含：股權投資；以私募基金從事創業投資活動。企查查股權穿透顯示，該企業由樂山國融股權投資基金管理有限公司等共同出資。
+
+---
+
+### 2026-08-21 09:37:06  #其他
+
+【廣西水利廳啟動洪水防禦四級應急響應】廣西壯族自治區水利廳訊息，8月21日早上，南海低壓已進入北部灣，根據氣象水文部門監測預報，受其影響，未來幾天桂西及桂南沿海部分地區將有一次持續性強降雨過程，部分江河可能出現超警洪水；山洪災害、岩溶內澇致災風險較高，影響水庫安全度汛。根據自治區水利廳洪水防禦工作預案，經綜合分析研判，決定自8月21日9時啟動自治區水利廳洪水防禦四級應急響應。
+
+---
+
+### 2026-08-21 09:36:25  #市場
+
+【電子特氣概念震盪反彈 和遠氣體漲停】早盤電子特氣概念震盪反彈，和遠氣體漲停，昊華科技、蜀道裝備、正帆科技、華特氣體、金宏氣體跟漲。
+
+---
+
+### 2026-08-21 09:36:15  #MKT News
+
+Shanghai silver front-month (most-active) contract rose 4.00% intraday to 16,756.00 yuan per kilogram.
+
+---
+
+### 2026-08-21 09:36:11  #市場 #焦點
+
+現貨黃金突破4540美元/盎司，日內漲0.47%。
+
+---
+
+### 2026-08-21 09:36:09  #MKT News #CEO.O #Impact bullish
+
+【China completes, delivers domestically developed next-generation deepwater multipurpose marine engineering vessel】CNOOC said on Aug 21 its domestically developed next-generation deepwater multipurpose marine engineering vessel "Haiyang Shiyou 292" was completed and delivered at a Jiangsu shipyard, boosting China’s underwater engineering and offshore facility servicing capacity and providing critical equipment to accelerate deep-sea energy resource development.
+
+---
+
+### 2026-08-21 09:36:00  #市場 #焦點
+
+中證1000指數期貨連續主力合約日內跌1%，現報7440.40點。
+
+---
+
+### 2026-08-21 09:35:51  #MKT News #Market Regions #Greater China #02318.HK #Impact bullish #02328.HK #02628.HK
+
+Hong Kong-listed insurers advanced: Ping An (02318.HK) rose more than 3%; PICC P&C (02328.HK), PICC Group (01339.HK), China Life (02628.HK) and China Pacific Insurance (02601.HK) each gained over 2%.
+
+---
+
+### 2026-08-21 09:35:41  #MKT News #Commodities #Energy #Copper #Impact bullish #CSI300 #CNH
+
+【China NEA: July total power consumption up 1.7% YoY】China's National Energy Administration said July total power consumption was 1,040 bln kWh, up 1.7% YoY. By sector: primary 16.7 bln kWh (-2.0%); secondary 611.6 bln kWh (+3.0%), including industrial use 605.5 bln kWh (+3.3%) and high‑tech & equipment manufacturing 122.0 bln kWh (+8.9%). Tertiary 218.3 bln kWh (+4.8%), with EV charging and battery‑swap services 16.4 bln kWh (+50.3%) and internet data services 9.9 bln kWh (+40.1%). Urban and rural residential use 193.5 bln kWh (-5.1%).
+
+---
+
+### 2026-08-21 09:35:33  #公司
+
+【北部灣港等在廣西成立江海聯運碼頭公司】企查查APP顯示，近日，廣西江海聯運碼頭有限公司成立，經營範圍包含：船舶港口服務；港口貨物裝卸搬運活動；以自有資金從事投資活動等。企查查股權穿透顯示，該公司由北部灣港等共同持股。
+
+---
+
+### 2026-08-21 09:35:07  #其他
+
+【國家統計局：2026年我國早稻生產保持穩定】國家統計局農村司司長魏鋒華解讀早稻生產情況時表示，根據10省（區）早稻實割實測抽樣調查結果推算，全國早稻播種面積略有增加，單產有所下降，早稻產量565.8億斤，連續6年穩定在560億斤以上，總體保持穩定。今年各地加力推進糧油作物大面積單產提升行動，大力推廣機插機拋、合理增密、側深施肥等技術措施，促進早稻單產水平提升。早稻播種以來，主產區大部光溫水比較匹配，早稻長勢良好。抽穗揚花期，江南、華南等主產區出現持續性強降水，部分地區早稻遭遇“雨洗禾花”，影響授粉結實，空癟率增加，結實率下降。成熟收穫期，華南等主產區遭受多輪臺風影響，部分低窪農田出現漬澇，區域性地塊早稻出現倒伏，影響早稻灌漿和成熟收穫。
+
+---
+
+### 2026-08-21 09:35:03  #市場 #焦點
+
+白銀連續主力合約日內漲4%，現報16756.00元。
+
+---
+
+### 2026-08-21 09:34:50  #其他
+
+【浙江省“十五五”財政規劃：支援深化國家海洋經濟發展示範區建設】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，支援加快建設海洋強省。支援深化國家海洋經濟發展示範區建設。最佳化資金投向，推進構建現代海洋產業體系，支援以海洋科技創新推動海洋產業創新，推進海洋經濟重大平臺和專案建設。提升海洋漁業安全水平，支援“藍色種業”創新行動、海水養殖提質增效、現代遠洋漁業轉型升級等。支援海洋生態保護和修復，開展藍色海灣整治。
+
+---
+
+### 2026-08-21 09:34:40  #MKT News #DXY #Impact bearish
+
+NZD/USD rose to 0.59646, its highest level since June 1.
+
+---
+
+### 2026-08-21 09:34:36  #MKT News #Market Regions #Greater China #09899.HK #Impact bearish
+
+NetEase Cloud Music (09899.HK) shares fell more than 14% after the company reported 1H adjusted net profit of 860 mln yuan, down 55.8% YoY.
+
+---
+
+### 2026-08-21 09:34:17  #MKT News #Important #Commodities #Energy #Copper #Impact bullish
+
+National Energy Administration: China's total electricity consumption rose 4.7% YoY in January–July 2026.
+
+---
+
+### 2026-08-21 09:34:02  #其他 #焦點
+
+【國家能源局：7月份，全社會用電量10400億千瓦時，同比增長1.7%】據國家能源局，7月份，全社會用電量10400億千瓦時，同比增長1.7%。1～7月，全社會用電量累計61399億千瓦時，同比增長4.7%。從分產業用電看，第一產業用電量877億千瓦時，同比增長3.5%。第二產業用電量39173億千瓦時，同比增長4.7%。第三產業用電量12100億千瓦時，同比增長7.4%。
+
+---
+
+### 2026-08-21 09:33:22  #MKT News #CSI300 #Impact bearish #SZSE Component
+
+China A-share grain/seed sector sold off; Denghai Seed and Wanxiang Denong approached daily limit-down, with Shennong Seed, Jingliang Holdings and Qiule Seed also down.
+
+---
+
+### 2026-08-21 09:33:13  #市場 #焦點
+
+比特幣升破75000美元，日內漲2.71%。
+
+---
+
+### 2026-08-21 09:33:01  #市場
+
+【糧食概念板塊短線下挫，登海種業、萬向德農逼近跌停】糧食概念板塊短線下挫，登海種業、萬向德農逼近跌停，神農種業、京糧控股、秋樂種業跟跌。
+
+---
+
+### 2026-08-21 09:33:01  #市場 #焦點
+
+【A股糧食概念板塊短線走低】神農種業跌10.25%
+
+---
+
+### 2026-08-21 09:33:01  #市場 #焦點
+
+【A股玉米板塊短線走低】神農種業跌10.25%，騎士乳業跟跌。
+
+---
+
+### 2026-08-21 09:33:00  #市場 #焦點
+
+【A股農業種植板塊短線走低】華綠生物跌10.26%，騎士乳業、粵桂股份、漢森製藥跟跌。
+
+---
+
+### 2026-08-21 09:33:00  #市場 #焦點
+
+【A股轉基因板塊短線走低】神農種業跌10.25%
+
+---
+
+### 2026-08-21 09:32:58  #公司 #市場
+
+CRO板塊下挫，誠達藥業下跌5.83%，百花醫藥下跌5.64%，義翹神州下跌5.47%，美迪西、益諾思、博騰股份跌超4%。
+
+---
+
+### 2026-08-21 09:32:13  #其他
+
+【浙江省“十五五”財政規劃：推動人工智慧賦能千行百業 支援打造人工智慧創新發展高地】浙江省人民政府辦公廳近日印發《浙江省“十五五”財政規劃》，規劃提出，推動人工智慧賦能千行百業，支援打造人工智慧創新發展高地。1.支援營造人工智慧發展一流生態。支援打造高能級萬億產業生態，加強高層次人才招引培育、高效能算力適配供給、高質量資料開放供給、高水平模型研發應用、高價值應用場景培育等。  2.支援深化“數字浙江”建設。圍繞全方位、全過程、全領域數字化轉型、智慧化升級，推進打造國家算力樞紐節點，助力國家資料要素綜合試驗區建設，支援打造“創新驅動、普惠共享”的數字中國浙江樣板。3.支援“人工智慧+”行動。推進人工智慧在產業發展、消費提質、文化建設、民生保障、社會治理等領域的深度融合與賦能應用。
 
 ---
 
@@ -19472,191 +19820,5 @@ Morocco Consumer Prices Fall for 1st Time in 5 Months — Consumer prices in Mor
 ### 2026-08-20 10:15:47  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
 
 Hong Kong Stocks Rise on Healthcare, Tech Gains — The Hang Seng Index rose 0.8%, or 188 points, to 25,685 on Thursday, as gains in healthcare and technology stocks lifted the market. Healthcare and biotechnology stocks were among the strongest performers. Everest was the standout after reporting a 157.3% year-on-year increase in first-half revenue to RMB1.15 billion and a swing to RMB97.2 million in non-IFRS net profit, driven largely by its NEFECON kidney-disease treatment. Technology stocks also advanced, with Tencent reporting a 176% year-on-year jump in second-quarter capex to RMB52.8 billion on AI investment, while revenue rose 11% and adjusted earnings gained 9%. Sentiment was further supported by China keeping its one-year and five-year LPRs unchanged at 3.00% and 3.50%. Global bond yields also eased after the US Treasury doubled its long-term debt buybacks, supporting risk appetite. Notable movers included Tencent (0.8%), Xiaomi (2.7%), GenScript Biotech (8.3%), SMIC (1.5%) and WuXi Biologics (4.6%).
-
----
-
-### 2026-08-20 10:15:06  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Depreciates by 0.45% — Top currency losers are South Korean Won (-0.45%) and Japanese Yen (-0.21%). Gains are led by Chinese Yuan (0.11%).
-
----
-
-### 2026-08-20 10:14:43  #市場 #國際
-
-【日本據悉考慮為日本國債散戶投資者提供稅收優惠】據報道，日本財務省和金融廳計劃在其2027財年稅制改革方案中納入針對政府債券散戶投資者的稅收優惠政策。
-
----
-
-### 2026-08-20 10:11:56  #其他
-
-【中澳海關執法部門聯合偵破一起跨國菸草走私案】近日，中國海關緝私部門與澳大利亞邊境執法部門開展聯合執法行動，成功偵破一起跨國菸草走私案件。中澳執法部門共查獲走私捲菸9000餘萬支，取得聯合打擊跨國菸草走私重大成果。（央視新聞）
-
----
-
-### 2026-08-20 10:11:38  #公司
-
-【寧波方正等成立智慧科技公司，含雲端計算裝置銷售業務】企查查APP顯示，近日，深圳市賽緯思智慧科技有限公司成立，經營範圍包含：網際網路資料服務；大資料服務；雲端計算裝備技術服務；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由寧波方正等共同持股。
-
----
-
-### 2026-08-20 10:11:06  #公司
-
-三星電子漲幅擴大至10%，訊息稱將公佈100萬億韓元股東回報計劃。
-
----
-
-### 2026-08-20 10:11:00  #公司 #國際 #原創
-
-【三星電子據悉將公佈100萬億韓元股東回報計劃】據報道，三星電子計劃在本月召開董事會會議後，最終確定並公佈一項超過100萬億韓元的股東回報計劃。 該公司計劃將50%的自由現金流用於股東回報，具體措施預計主要集中在現金分紅上。三星計劃在公告發布後繼續考慮向股東返還額外款項，具體方案將取決於現金流和盈利情況。三星在上個月的財報釋出會上表示，其董事會和管理層正在討論包括派發特別股息在內的具體措施。
-
----
-
-### 2026-08-20 10:10:59  #MKT News #005930.KS #Impact bullish
-
-Samsung Electronics' gains widened to about 10% after reports it will unveil a shareholder return plan worth 1 trillion won.
-
----
-
-### 2026-08-20 10:09:47  #公司 #國際
-
-【商務部公告2026年第36號 公佈對原產於美國、歐盟、臺灣地區和日本的進口共聚聚甲醛反傾銷措施相關企業稅率繼承的決定】2026年4月1日和4月22日，商務部收到株式會社大賽璐（DAICEL CORPORATION）和臺灣大賽璐工程塑膠股份有限公司（DAICEL HPP TAIWAN CO., LTD.）提交的申請。上述公司請求分別繼承寶理塑膠株式會社（POLYPLASTICS CO., LTD.）和臺灣寶理塑膠股份有限公司（POLYPLASTICS TAIWAN CO., LTD.）在對原產於美國、歐盟、臺灣地區和日本的進口共聚聚甲醛反傾銷措施中適用的反傾銷稅稅率和其他權利義務。商務部對此進行了調查並作出繼承稅率的決定。
-
----
-
-### 2026-08-20 10:08:18  #MKT News #Important #005930.KS #Impact bullish
-
-Market sources say Samsung will announce a KRW 100 trillion shareholder-return plan.
-
----
-
-### 2026-08-20 10:08:08  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Precious metals futures main contracts advanced: Shanghai gold (2610) rose 2.45% to 972.56 yuan/gram; Shanghai silver (2610) rose 5.02% to 16,408 yuan/kg; platinum (2610) rose 4.07% to 441.25 yuan/gram; palladium (2610) rose 2.01% to 315 yuan/gram.
-
----
-
-### 2026-08-20 10:08:01  #市場
-
-【金飾克價一夜大漲46元】今日早盤，現貨黃金小幅下挫，跌破4500美元/盎司。上一個交易日，現貨黃金大漲4.35%，盤中連續漲破4400美元、4500美元兩大關口，收報4521美元左右，創6月2日以來新高。現貨白銀價格也漲至66美元/盎司，漲超4.6%。受此影響，國內多家品牌金飾價格一夜大漲。中新經緯20日查詢發現，周生生足金飾品報1359元/克，單日大漲46元；老廟黃金足金飾品報1355元/克，單日大漲44元；老鳳祥足金飾品報1352元/克，單日大漲37元。
-
----
-
-### 2026-08-20 10:07:49  #其他
-
-【《網路資料安全風險評估辦法》實施有關事項答記者問】《網路資料安全風險評估辦法》於2026年8月20日起施行，公安部有關負責人就其實施有關事項回答了記者提問。公安機關將建立全流程監管機制，掌握轄區內網路資料處理者相關情況，建立並完善動態監管臺賬。對發現存在較大安全風險、發生資料安全事件等情形的，依法督促網路資料處理者委託透過認證的第三方評估機構開展風險評估。對未按規定開展風險評估的網路資料處理者，將依據《中華人民共和國資料安全法》《網路資料安全管理條例》等有關法律、行政法規予以處理；第三方評估機構違反《網路資料安全風險評估辦法》開展風險評估的，公安機關將依法予以處理。（新華社）
-
----
-
-### 2026-08-20 10:07:39  #市場 #觀點 #國際 #原創
-
-【摩根大通警告美國增加美債回購治標不治本 或反推升期限溢價與收益率】摩根大通策略師警告稱，美國財政部出人意料地試圖抑制長期借貸成本，可能難以取信於市場；隨著時間的推移，反而可能推高期限溢價和收益率。美國財政部週三表示，將把10年至30年期國債的回購操作規模至少提高一倍，旨在提供“更大的流動性支援”，導致美國長期債券收益率走低。但摩根大通表示，此舉只是治標不治本：在經濟接近充分就業之際，美國的財政赤字仍相當於GDP的6%。Jay Barry等摩根大通策略師在一份報告中寫道：“若沒有真正的財政整頓，我們擔心市場將認為這項行動缺乏可信度。”他們指出，如果財政部在債務管理方面採取更具機會主義的做法，並進一步偏離其“常規且可預測”的原則，可能會導致期限溢價和收益率隨著時間的推移而上升。
-
----
-
-### 2026-08-20 10:06:51  #MKT News #Market Themes #AI Revolution
-
-【Unitree CEO in first public speech post-IPO says embodied‑intelligence 'ChatGPT moment' could arrive in 2–3 years or 5–10 years】Aug 20, 2026 — Unitree Robotics founder and chairman Wang Xingxing said the company has deployed robots in automotive factories and run internal factory tests, and its AI team is developing household-task capabilities, but overall efficiency and generality remain insufficient so Unitree has not launched large-scale commercial rollouts. He said an 'embodied‑intelligence ChatGPT moment' — where robots can complete roughly 80% of tasks in about 80% of unfamiliar scenes via voice or text commands — could ideally occur in 2–3 years, or take 5–10 years. He identified the key technical barrier as aligning large AI model I/O with physical robot control.
-
----
-
-### 2026-08-20 10:06:30  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-China Stocks Rebound as PBOC Stands Pat — The Shanghai Composite rose 0.7% to 3,923 on Thursday, while the Shenzhen Component gained 1.5% to 14,096, rebounding from the previous session as the People's Bank of China left its benchmark lending rates unchanged at record lows. The one-year loan prime rate (LPR) was maintained at 3.0%, while the five-year LPR remained at 3.5%, underscoring policymakers' cautious approach amid lingering domestic and external uncertainties. The decision followed the central bank's pledge to maintain an accommodative monetary stance, while expectations of further stimulus measures were reinforced by weak July economic data and Premier Li Qiang's call to accelerate the shift toward new growth drivers. Investors are now awaiting the National People's Congress Standing Committee meeting in Beijing on August 25–28 for further policy signals. Notable gainers included Foxconn Industrial Internet (1.1%), Zijin Mining Group (3.8%), Zhongji Innolight (1.1%) and BYD (2.1%).
-
----
-
-### 2026-08-20 10:06:28  #市場
-
-【港股醫藥股走強 維亞生物漲近13%】截至發稿，維亞生物(01873.HK)漲12.76%，金斯瑞生物科技(01548.HK)漲12.74%，康龍化成(03759.HK)漲8.27%。
-
----
-
-### 2026-08-20 10:06:22  #市場 #國際
-
-日本據悉考慮為散戶投資者提供日本國債投資的稅收優惠。
-
----
-
-### 2026-08-20 10:06:07  #市場 #焦點
-
-白銀連續主力合約日內漲5%，現報16406.00元。
-
----
-
-### 2026-08-20 10:05:47  #公司
-
-【宇樹上市後，王興興首場公開演講談了具身智慧ChatGPT時刻】8月20日，在2026世界機器人大會上，宇樹科技創始人、董事長王興興進行“展品到產品：人形機器人產業的下一個十年”的主題演講。王興興表示，這些年公司其實一直在推動機器人真正走進生活，比如在汽車工廠進行落地應用、在自家工廠部署機器人進行簡單測試等，另外AI團隊也在推進機器人去家庭幹活。但他提到，由於目前整體效率、泛用效能力還是不夠高，宇樹並沒有進行大規模推廣。王興興希望，邁向具身智慧的ChatGPT時刻，理想情況下需要2-3年，或者更長5-10年的時間。他認為，達到這一時刻，即要在80%的陌生場景中，透過語音或文字指令，機器人能夠順利完成大約80%的任務。目前，最核心的挑戰是AI大模型的輸入輸出和真實機器人的對齊。（第一財經）
-
----
-
-### 2026-08-20 10:05:25  #公司
-
-【當虹科技機器人多模態感知上裝件在2026世界機器人大會上釋出】從當虹科技(688039)獲悉，公司在2026世界機器人大會上正式釋出機器人多模態感知上裝件，該裝置可根據不同場景搭載雙光雲臺，整合聲光、通訊、算力等模組，同時支援氣體、溫溼度等外接感測器。在工業巡檢場景中，可識別儀表讀數，檢測溫度異常、氣體風險、裝置異響以及液體跑冒滴漏等問題，將更多現場資訊實時帶回，為後續AI識別和任務決策提供資料基礎。
-
----
-
-### 2026-08-20 10:05:17  #公司
-
-三星電子據悉將公佈100萬億韓元股東回報計劃。
-
----
-
-### 2026-08-20 10:04:54  #市場 #觀點
-
-【貴金屬板塊持續走強，山東黃金觸及漲停】貴金屬板塊持續走強，山東黃金觸及漲停，興業銀錫、赤峰黃金此前漲停，曉程科技漲超10%，招金黃金、中金黃金、湖南白銀、山金國際、四川黃金跟漲。
-
----
-
-### 2026-08-20 10:04:46  #觀點
-
-花旗、滙豐、渣打等據悉採用螞蟻國際的外匯人工智慧工具“Falcon時間序列變換器模型2.0”。
-
----
-
-### 2026-08-20 10:03:25  #其他
-
-【最高法明確審理著作權民事糾紛案件有關問題】最高人民法院8月20日釋出關於修改《最高人民法院關於審理著作權民事糾紛案件適用法律若干問題的解釋》的決定，自2026年9月1日起施行。 決定針對著作權司法實踐中的作品發表認定、合理使用的邊界、報刊轉載法定許可的範圍等重點難點問題，進一步細化和完善法律適用標準，統一案件裁判尺度，為當事人提供明確訴訟指引，為市場提供明確行為預期，確保著作權法的正確實施。 決定進一步明確報刊轉載法定許可的適用範圍，將原司法解釋中“報紙、期刊”的範圍明確為“報紙、期刊主管部門批准出版的紙質報紙、期刊以及與其內容和版面格式相一致的數字化版本”，以適應網路和數字技術發展需要。同時增加一款，明確報紙、期刊與網際網路資訊服務提供者之間相互轉載，網際網路資訊服務提供者之間相互轉載已發表的作品，應當經過著作權人許可並支付報酬。 據介紹，目前智慧財產權理論界和司法實踐均認可，作品因他人侵權行為而被公開也屬於公之於眾。決定進一步明確“公之於眾”的認定標準，刪去原司法解釋中“著作權人自行或者經著作權人許可”的限定，把“公之於眾”明確為將作品向不特定的人公開，但不以公眾知曉為構成要件。 此外，決定進一步細化合理使用的適用規則，將原司法解釋規定的“室外公共場所的藝術作品”修改為“公共場所的藝術作品”，與2020年修改的著作權法有關規定保持一致。同時，決定明確對公共場所藝術作品的臨摹、繪畫、攝影、錄影人，可以對其成果依法以合理的方式和範圍再行使用，但是未經著作權人許可不得以相同方式設定、陳列或者公開傳播。
-
----
-
-### 2026-08-20 10:03:22  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australia Stocks ASX Snaps Six-Day Slide as Miners, Healthcare Rally — Australian shares rose 31 points or 0.4% to 9,085 in Thursday morning trade, snapping a six-session losing streak as U.S. equity futures firmed after Wall Street ended its three-day slide amid easing Treasury yields. Local markets emerged from a two-week low as bargain hunters set in. In China, the central bank left lending benchmarks unchanged for a 15th month, keeping one- and five-year LPRs at record lows to bolster growth. Domestic data, however, dampened sentiment with July employment unexpectedly falling and the jobless rate climbing to a three-month high. RBA Deputy Governor Andrew Hauser cautioned that further rate hikes may be needed if inflation risks persist, noting price growth remains “too high.” Consumer durables, non-energy minerals, healthcare, and utilities drove the strength, amid notable gains from heavyweights BHP Group (2.2%), CSL Ltd. (4.9%), and Northern Star Resources. In contrast, the four major banks bucked the trend, sliding between 1.3% and 2.2%.
-
----
-
-### 2026-08-20 10:03:02  #MKT News #DXY #Impact bullish
-
-【Australia unemployment unexpectedly rises; markets cut RBA rate-hike bets】Australia’s unemployment rate rose to 4.5% in July, above the 4.4% consensus, the Australian Bureau of Statistics said. Employment fell 15.8k versus an expected +12.0k, with all losses in part-time roles. AUD slid about 0.3% and the 3-year government bond yield fell roughly 4bps on the print. Money markets now price roughly a 60% probability of a Reserve Bank of Australia rate hike before December, down from 68% pre-release. The Reserve Bank of Australia, after three rate rises earlier this year, still judges the labour market slightly tight and in its quarterly forecast expects unemployment to rise gradually.
-
----
-
-### 2026-08-20 10:03:00  #市場
-
-CPO概念股震盪拉昇，太辰光漲超12%，中京電子此前漲停，天準科技、仕佳光子、德科立、聯特科技漲超6%。
-
----
-
-### 2026-08-20 10:02:24  #市場
-
-新加坡警方表示正在調查鐵礦石貿易巨頭Radiant World。
-
----
-
-### 2026-08-20 10:02:13  #公司 #市場
-
-【光通訊概念震盪反彈，通鼎互聯漲停】光通訊概念震盪反彈，通鼎互聯漲停，長盈通、思瑞浦、三旺通訊、勝藍股份、太辰光、帝奧微等跟漲。
-
----
-
-### 2026-08-20 10:02:08  #公司 #市場
-
-【光纖概念震盪反彈 長盈通漲超15%】光纖概念盤中震盪反彈，長盈通漲超15%，通鼎互聯逼近漲停，華脈科技、永鼎股份、長飛光纖、亨通光電跟漲。
-
----
-
-### 2026-08-20 10:01:59  #宏觀
-
-【北京市市長殷勇：推進“機器人+”示範應用，打造全球機器人應用標杆城市】北京市市長殷勇在2026世界機器人大會上表示，北京市將統籌各類創新資源，全力營造開放包容、充滿活力的機器人與具身智慧發展環境。提供更加完善的要素保障，出臺人形機器人產業高質量發展三年行動方案，完善中試平臺、檢驗檢測、投融資服務體系，打造快速響應、更具韌性的機器人產業鏈供應鏈。拓展更加廣闊的應用空間，用好超大城市豐富場景優勢，推進“機器人+”示範應用，打造全球機器人應用標杆城市。
 
 ---
