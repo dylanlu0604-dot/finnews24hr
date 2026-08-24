@@ -1,7 +1,53 @@
 {
   "date": "2026-08-24",
-  "count": 504,
+  "count": 509,
   "items": [
+    {
+      "id": "5054378",
+      "time": "2026-08-24 10:49:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪評級給予瑞穗銀行歐洲分行歐元商業票據計劃 Prime‑1 最高短期評級。"
+    },
+    {
+      "id": "5054377",
+      "time": "2026-08-24 10:48:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖板塊持續走弱，中材科技跌停】玻纖板塊持續走弱，中材科技跌停，國際復材、長海股份、金安國紀、中國巨石、宏和科技、卓郎智慧等跟跌。"
+    },
+    {
+      "id": "5054376",
+      "time": "2026-08-24 10:48:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，盛科通訊跌7.07％，佰維儲存跌6.58％，海光資訊跌6.07％，寒武紀跌5.99％。"
+    },
+    {
+      "id": "5054375",
+      "time": "2026-08-24 10:48:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階安全官員警告：支援美國經濟戰屬於 “戰爭行為” 。"
+    },
+    {
+      "id": "te:markets:577441",
+      "time": "2026-08-24 10:47:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Market Eases as Week Begins — Indonesia’s IDX Composite fell 18 points or 0.2% to 6,511 in Monday morning trade, snapping a two-day rebound as selling pressure weighed on transport, cyclicals, and tech amid cautious sentiment following a cumulative 100bps rate hike since May. Risks also grew from surging wheat prices after Black Sea grain infrastructure attacks disrupted shipments, while the current account deficit widened to a record high on shrinking goods surplus and rising energy import costs. Analysts warn the gap may persist as oil prices stay elevated, imports remain firm, and exports soften with slowing global growth. Losses were partly offset by resilience in the digital economy, with Bank Indonesia reporting QRIS transactions surged 82.4% in July, underscoring rapid adoption of cashless payments. Early gainers included Hartadinata Abadi (3.4%), Solusi Energi Digital (2.9%), Indika Energy (2.2%), and Aneka Tambang (1.9%)."
+    },
     {
       "id": "5054374",
       "time": "2026-08-24 10:45:02",
