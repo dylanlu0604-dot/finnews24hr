@@ -1,7 +1,303 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 03:50:07_
-_本檔包含 3101 則快訊，約 622011 字_
+_更新時間：2026-08-25 04:42:40_
+_本檔包含 3099 則快訊，約 622433 字_
+
+---
+
+### 2026-08-20 09:11:42  #公司 #其他 #焦點
+
+SK海力士股價延續漲勢，最新報167.4萬韓元，漲幅12%。
+
+---
+
+### 2026-08-20 09:11:09  #公司 #市場 #國際
+
+【比特幣強勢反彈 觸發2021年以來最大規模空頭平倉潮】飽受重創的比特幣市場突然復甦，一度飆升近8%，並觸發自2021年有記錄以來最大規模的空頭平倉潮。Coinglass的資料顯示，短短一小時超過10億美元的比特幣空頭頭寸被平倉，凸顯此次價格反轉速度之快。比特幣週三升至約69,500美元，來到6月以來最高水平，創3月以來最大漲幅。交易員獲得新的買入理由。美國總統特朗普在白宮會見了Coinbase Global Inc.、Payward Inc.和Blockchain.com Group Holdings Inc.等公司的加密貨幣行業高管，進一步增強了市場對本屆政府利好數字資產發展的樂觀預期。與此同時，借貸成本下降也為市場提供了額外助力。
+
+---
+
+### 2026-08-20 09:10:53  #公司
+
+【海博思創等投資成立新能源科技新公司】企查查APP顯示，近日，濱州博創棣濱新能源科技有限公司成立，經營範圍包含：風力發電技術服務；工程和技術研究和試驗發展；太陽能發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由海博思創全資子公司博清智濱（無棣）新能源科技有限公司等共同持股。
+
+---
+
+### 2026-08-20 09:10:45  #市場 #國際
+
+日本5年期國債收益率下跌2.5個基點，至2.095%。
+
+---
+
+### 2026-08-20 09:10:38  #其他
+
+【中華全國總工會印發《中國工運事業和工會工作“十五五”規劃》】近日，中華全國總工會印發《中國工運事業和工會工作“十五五”規劃》（以下簡稱《規劃》）。《規劃》是“十五五”時期推動工會工作高質量發展的指導性檔案。《規劃》堅持正確方向、堅持服務大局、堅持守正創新、堅持求真務實，從牢牢把握工會工作正確政治方向、加強職工群眾思想政治引領、動員激勵廣大職工群眾建功立業創新創造、推動產業工人隊伍建設改革走深走實、提升工會維權服務工作質效、用心用情用力解決重點群體急難愁盼問題、加強工會工作法治化建設、堅決維護勞動領域政治安全、健全縱橫交織覆蓋廣泛的工會組織體系、加強工會外事和港澳臺工作、深化工會改革和建設等11個方面，分領域部署“十五五”時期工會重點工作任務，並明確了大國工匠人才培育、勞模工匠創新工作室、工會就業服務、建會入會等8個方面12項具體指標。
+
+---
+
+### 2026-08-20 09:10:37  #MKT News #USDJPY #Impact bullish #DXY #XAUUSD #Impact bearish
+
+Japan 5-year government bond yield fell 2.5 bps to 2.095%.
+
+---
+
+### 2026-08-20 09:10:13  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+Treasury Yields Hold Decline on Increased Buybacks — Long-term Treasury yields held their sharp decline after the Treasury Department announced plans to double the size of buybacks for long-dated securities. The 10-year Treasury yield traded around 4.64% after reaching a 20-month high of 4.75% earlier this week, while the 30-year yield fell below 5.2% after hitting a 19-year high of 5.34%. The government said it would at least double the size of liquidity-support buyback operations covering securities with maturities ranging from 10 to 30 years. Scott Bessent previously described the buyback program as an important tool for addressing market dislocations and improving liquidity. Treasury bonds came under heavy pressure in August as surging AI-related debt issuance, rising deficit spending and concerns over persistent inflation pushed up estimates for term premia. Meanwhile, minutes from the Fed’s July meeting confirmed that some policymakers favored raising rates this year to prevent stronger inflationary pressures from emerging later.
+
+---
+
+### 2026-08-20 09:09:17  #其他
+
+【範波在蘇州高新區開展因地制宜發展新質生產力和抓專案投資專題調研】8月19日，蘇州市委書記範波在蘇州高新區開展因地制宜發展新質生產力和抓專案投資專題調研，強調要深入學習貫徹習近平總書記對江蘇、蘇州工作重要講話重要指示精神，認真落實省委、省政府工作要求，堅定不移以科技創新引領新質生產力發展，持續招大引強、培優育強，加快推進太湖光谷建設，打造更具競爭力的一流高科技園區。（蘇州釋出）
+
+---
+
+### 2026-08-20 09:07:44  #Trading Economics #Economy #China #Interest Rate #Importance 2
+
+China Leaves LPR Rate at Record Low for 15th Month — The People's Bank of China kept its key lending rates at record lows for a 15th straight month in August 2026, in line with market expectations. The move reflected caution over the impact of the conflict in the Middle East, while Q2 GDP growth eased to its lowest level since Q4 2022, although exports remained strongly supported by AI-related demand. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was kept at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Meanwhile, industrial production and retail sales growth also slowed in July. At the same time, new yuan loans extended fell in July, marking the sharpest contraction on record. Housing prices continued to decline in June, reflecting persistent weakness in the property sector. Last week, the central bank said it would maintain an appropriately loose monetary stance and roll out practical, effective measures as needed.
+
+---
+
+### 2026-08-20 09:07:36  #市場 #觀點
+
+花旗銀行將日元兌美元匯率鎖定在158.47。
+
+---
+
+### 2026-08-20 09:07:06  #公司
+
+【兆豐股份：已有具身智慧用絲槓產品送樣測試並驗證】兆豐股份8月20日在互動平臺表示，公司目前已有具身智慧用絲槓產品送樣測試並驗證，基於客戶保密性要求，相關資訊不便對外披露。
+
+---
+
+### 2026-08-20 09:06:44  #市場 #焦點
+
+紐約期金失守4550美元/盎司，日內漲0.10%。
+
+---
+
+### 2026-08-20 09:05:40  #行業 #公司
+
+【飛天茅臺、五糧液普五八代領漲 洋河夢之藍M6+、古井貢古20重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，8月20日中國白酒業11大單品三漲七跌一平，輸家佔據明顯上風。上漲方面，飛天茅臺大幅上漲8元，終端零售均價來到1788元，結束三連陰重返近一個月次高位；五糧液普五八代上漲4元至801元，重回800元大關上方；五糧液1618上漲3元至826元，維持區間內彈性執行。下跌方面，精品茅臺下跌4元至2478元，連續多日走低此前大漲行情終結；青花汾20下跌1元至393元，仍維持在高位區間；國窖1573下跌4元至876元，連續四天回落；洋河夢之藍M6+大跌9元至609元，高位回撥勢頭明顯；古井貢古20下跌7元至531元，前期衝高後迎來波次性回落；習酒君品下跌2元至643元，四連陽結束進入區間休整；青花郎下跌2元至711元，四連漲強勢告終。水晶劍南春價盤平穩，終端零售均價維持在月高位406元。
+
+今日11大單品的終端零售總價繼續回落，多數次高階酒品步入調整，僅有少數頭部名酒保持韌性，盤面分化格局並未完全扭轉。如果11大單品各取一瓶整體打包售賣，今日總售價為10062元，較昨日下跌14元，創下七天以來新低。
+
+---
+
+### 2026-08-20 09:05:06  #公司
+
+【華力創通成立新公司，含多項衛星相關業務】企查查APP顯示，近日，上海華力創通電子科技有限公司成立，經營範圍包含：衛星行動通訊終端製造；衛星技術綜合應用系統整合；衛星通訊服務；衛星導航服務等。企查查股權穿透顯示，該公司由華力創通全資持股。
+
+---
+
+### 2026-08-20 09:04:16  #公司
+
+【全球首個針對整片空域開展的“繞飛”試點啟動】今年晚些時候，飛越北大西洋的航班將調整飛行航線，以此避免產生飛機凝結尾跡，即航跡雲。這個名為“藍天計劃”的專案，是全球首個針對整片空域開展的相關試點。從11月起，管控北大西洋東側尚威克空域的空中交通管制人員，會建議飛機調整飛行高度，以防止生成新的航跡雲。他們將使用谷歌公司基於人工智慧生成的大氣狀況預報系統，預判航跡雲的形成位置。“我們可以預測哪些區域會形成持續存在、帶來氣候變暖效應的航跡雲，並指揮飛機繞開這些區域。”在近日舉行的新聞釋出會上，參與該專案的研究機構Contrails.org的發言人Marc Shapiro表示。（澎湃新聞）
+
+---
+
+### 2026-08-20 09:03:57  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped below $4,500/oz, down 0.51% intraday.
+
+---
+
+### 2026-08-20 09:03:20  #國際
+
+【不滿高市消極應對，日本前防衛大臣要求高市嚴正抗議美國製裁赤根智子】據日本共同社、《朝日新聞》8月20日報道，針對美國政府制裁國際刑事法院（ICC）院長赤根智子一事，日本首相高市早苗的消極態度受到日本輿論抨擊。自民黨籍眾議員、前防衛大臣中谷元就此發表緊急宣告，要求高市就制裁赤根智子一事向美國政府提出嚴正抗議。（環球網）
+
+---
+
+### 2026-08-20 09:02:52  #市場 #國際
+
+韓國KOSPI指數站上6800點，日內漲5.24%。
+
+---
+
+### 2026-08-20 09:02:52  #MKT News #CSI300 #Impact bearish
+
+【ACFTU '15th Five-Year' plan targets delivery riders and gig workers' rights】The All-China Federation of Trade Unions on the 20th released its '15th Five-Year' work plan, directing sustained efforts over the next five years to organize, enroll and protect workers in new forms of employment—notably delivery riders—and provide targeted services. The plan orders unions to strengthen rights protection and employment management for gig workers and to promote platform companies' participation in collective bargaining to achieve mutually beneficial outcomes between platforms and new-form workers.
+
+---
+
+### 2026-08-20 09:02:49  #MKT News
+
+South Korea's KOSPI rose above 6,800 points, up 5.24% intraday.
+
+---
+
+### 2026-08-20 09:02:17  #市場 #焦點
+
+現貨黃金失守4500美元/盎司，日內跌0.55%。
+
+---
+
+### 2026-08-20 09:01:43  #市場 #焦點
+
+紐約期金失守4560美元/盎司，日內漲0.32%。
+
+---
+
+### 2026-08-20 09:01:33  #MKT News #Commodities #Energy
+
+China fuel oil front-month futures rallied 4.00% intraday to 4,383 yuan/ton.
+
+---
+
+### 2026-08-20 09:01:20  #市場 #國際
+
+馬來西亞吉隆坡綜合指數開盤變化不大，報1732.11。
+
+---
+
+### 2026-08-20 09:01:14  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index (TAIEX) opened up 372.73 points, or 0.83%, at 45,092.08 on Aug. 20 (Thursday).
+
+---
+
+### 2026-08-20 09:01:09  #市場
+
+新加坡海峽時報指數開盤下跌0.4%，至5670.24點。
+
+---
+
+### 2026-08-20 09:01:00  #資料 #其他 #焦點
+
+中國7月Swift人民幣在全球支付中佔比 3.1%，前值3.10%。
+
+---
+
+### 2026-08-20 09:00:58  #MKT News #Important #Market Regions #Greater China
+
+China's renminbi accounted for 3.1% of global SWIFT payments in July, versus 3.10% previously.
+
+---
+
+### 2026-08-20 09:00:39  #MKT News #Important
+
+【One-year and five-year LPR unchanged】The PBOC left the one-year and five-year loan prime rates (LPR) unchanged at 3.00% and 3.50%, respectively.
+
+---
+
+### 2026-08-20 09:00:37  #央行 #中國央行
+
+中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。
+
+---
+
+### 2026-08-20 09:00:35  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+On Thursday Aug. 20, Shanghai Gold Exchange gold T+D rose 3.11% to 973.28 yuan/gram in early trade; silver T+D gained 5.15% to 16,204.0 yuan/kg.
+
+---
+
+### 2026-08-20 09:00:34  #央行 #焦點
+
+【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變。
+
+---
+
+### 2026-08-20 09:00:26  #市場 #焦點
+
+【富時中國A50指數期貨盤初漲0.50%】富時中國A50指數期貨在上一交易日夜盤收漲0.39%的基礎上高開，盤初漲0.50%。
+
+---
+
+### 2026-08-20 09:00:24  #MKT News
+
+China 5-year Loan Prime Rate (LPR) 3.50% as of Aug 20; expected 3.50%, prior 3.50%.
+
+---
+
+### 2026-08-20 09:00:22  #其他
+
+【事關外賣騎手等勞動權益保障，工會工作“十五五”規劃釋出】今天（20日），全國總工會發布了《中國工運事業和工會工作“十五五”規劃》，《規劃》聚焦推動高質量發展，在動員激勵廣大職工群眾建功立業、創新創造上作出了一系列重要部署。（央視新聞）
+
+---
+
+### 2026-08-20 09:00:22  #MKT News #Important #Market Regions #Greater China #CNH
+
+China 1-year loan prime rate (LPR) as of Aug 20: 3.00% (expected 3.00%, prior 3.00%).
+
+---
+
+### 2026-08-20 09:00:16  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #XAUUSD #Impact bullish
+
+Early trade: China’s main futures contracts were mostly higher. Platinum and ethylene glycol (EG) rose over 4%; Shanghai silver and palladium near 4%; fuel oil up ~3%; Shanghai gold and rapeseed oil >2%; Shanghai nickel ~2%. Decliners: eggs down ~2%; low-sulfur fuel oil (LU) and PTA off >1%; paraxylene and iron ore down ~1%.
+
+---
+
+### 2026-08-20 09:00:14  #MKT News #Economic Calendar
+
+China | 5-Year Loan Prime Rate (Aug.20) | actual 3.5% | consensus 3.50% | previous 3.50%
+
+---
+
+### 2026-08-20 09:00:14  #MKT News #Economic Calendar #Important
+
+China | 1-Year Loan Prime Rate (Aug.20) | actual 3% | consensus 3.00% | previous 3.00%
+
+---
+
+### 2026-08-20 09:00:03  #市場 #焦點
+
+純鹼連續主力合約日內漲1%，現報1037.00元。
+
+---
+
+### 2026-08-20 09:00:03  #市場 #焦點
+
+鉑連續主力合約日內漲4%，現報444.00元。
+
+---
+
+### 2026-08-20 09:00:03  #市場 #焦點
+
+白銀連續主力合約日內漲4%，現報16279.00元。
+
+---
+
+### 2026-08-20 09:00:02  #市場
+
+【商品期貨開盤】鉑連續漲4.67%，乙二醇連續漲4.12%，白銀連續漲4.11%，鈀連續漲3.00%，線材連續漲2.89%，黃金連續漲2.73%，菜油連續漲2.06%。
+
+---
+
+### 2026-08-20 09:00:02  #市場
+
+富時中國A50指數期貨開盤上漲0.48%。
+
+---
+
+### 2026-08-20 08:59:52  #宏觀 #市場 #觀點 #國際
+
+【摩根大通團隊警示美債回購存在公信力風險】摩根大通策略師警告，市場或認為美國財政部壓低長期借貸成本的舉措缺乏公信力，長期來看可能推高期限溢價與債券收益率。美國財政部表示，將把債券回購規模至少擴大一倍，以提供“更強流動性支援”，該訊息推動美國長期收益率下行。但摩根大通認為此舉僅治標不治本。美國國債規模已突破40萬億美元，政策制定者控制借貸成本的壓力陡增，其影響遠超出聯邦預算，波及全球融資成本。
+
+---
+
+### 2026-08-20 08:58:47  #MKT News
+
+Korea Exchange (KRX) activated its sidecar mechanism, suspending programmatic buy orders for the KOSPI.
+
+---
+
+### 2026-08-20 08:58:41  #市場 #國際
+
+韓國綜合股價指數上漲5.1%，收於6798.13。
+
+---
+
+### 2026-08-20 08:57:21  #市場 #焦點 #國際
+
+韓國交易所啟動Sidecar臨停機制，暫停韓國綜合指數（KOSPI）程式化買入。
+
+---
+
+### 2026-08-20 08:55:51  #宏觀 #市場 #央行 #國際
+
+【中信期貨：紀要鷹派不及預期疊加長端利率快速回落，黃金重新獲得政策與實際利率共振支撐】FOMC會議紀要確認，美聯儲內部確有明顯鷹派聲音，但支援7月直接加息的僅為“數名”委員，距離多數仍有較大差距，弱於此前市場對鷹派廣泛擴散的預期。與此同時，“許多”委員仍擔憂持續高通脹可能影響通脹預期和工資定價，說明進一步加息並未完全退出政策選項。 更重要的變化來自長端利率。美國財政部意外宣佈至少翻倍10—30年期國債流動性回購規模，長期美債收益率隨即快速下降，美元同步走弱。黃金因此一度上漲近4%，突破4500美元關口。當前市場交易的核心已經從單純判斷美聯儲是否加息，轉向美國政策是否透過干預債券市場壓低實際融資成本。 地緣風險則進一步強化這一結構。美伊談判前景惡化使油價和通脹風險仍處高位，但財政部對長端債券市場的支援階段性削弱了“油價上漲—長端收益率上升”的傳導。黃金因此同時獲得低利率、弱美元以及地緣和政策不確定性溢價支撐。（中信期貨）
 
 ---
 
@@ -18393,311 +18689,5 @@ South Korean Shares Plunge — The benchmark KOSPI fell more than 4% to around 6
 ### 2026-08-19 09:38:32  #市場
 
 【地產產業鏈逆勢活躍 志邦家居等多股漲停】早盤地產產業鏈逆勢活躍，家居、建材方向領漲，志邦家居、中交發展、羅普斯金、好太太漲停，尚品宅配、兔寶寶、三棵樹等跟漲。
-
----
-
-### 2026-08-19 09:38:32  #Trading Economics #Economy #Australia #Wage Growth #Importance 1
-
-Australia Q2 Annual Wage Growth Remains at 5-Quarter Low — Australia’s seasonally adjusted Wage Price Index increased 3.2% year-on-year in Q2 2025, unchanged from the revised figure in Q1 and matching market expectations of 3.2%. The growth was driven by gains in both sectors, with private-sector wages advancing 3.1% (vs 3.2% in Q1), the lowest since Q2 2022, and public-sector pay increasing 3.4% (vs 3.4%), the weakest increase since Q4 2024. On a quarterly basis, wages grew 0.8%, unchanged from the previous four quarters and in line with market expectations.
-
----
-
-### 2026-08-19 09:38:10  #市場 #國際
-
-菲律賓股市指數下跌1.1%，至6198.21點。
-
----
-
-### 2026-08-19 09:37:57  #市場
-
-【上緯新材盤中跌超15%】A股上緯新材盤中跌15.33%，現報160.01元。
-
----
-
-### 2026-08-19 09:37:47  #MKT News #Commodities #Precious Metals #00815.HK #Impact bearish #01815.HK #03939.HK
-
-Hong Kong gold stocks slid: China Silver Group (00815.HK), Zhufeng Gold (01815.HK) and Wanguo Gold (03939.HK) fell over 3%; Tongguan Gold (00340.HK) and Zijin Gold International (02259.HK) were down more than 2%.
-
----
-
-### 2026-08-19 09:37:33  #公司 #市場
-
-【動物保健板塊走弱，聖達生物跌停】動物保健板塊走弱，聖達生物跌停，蔚藍生物、賢豐控股、美農生物、康華生物、天邦食品、亨通股份等跟跌。
-
----
-
-### 2026-08-19 09:37:04  #市場
-
-醫藥股快速反彈，亨迪藥業、哈三聯直線漲停，萬邦醫藥、九典制藥、特寶生物、金陵藥業等跟漲。
-
----
-
-### 2026-08-19 09:36:57  #市場
-
-【梁文峰打新宇樹科技浮盈11億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。梁文鋒旗下深度求索、幻方量化和九章資產透過戰略配售、網下打新合計獲配約119.16萬股。以發行價計算，梁文鋒打新宇樹科技浮盈超11億元。（中新經緯）
-
----
-
-### 2026-08-19 09:36:39  #MKT News #Star Stocks #Xiaomi #1810.HK #Impact bullish
-
-Xiaomi Corp (01810.HK) shares rose more than 5% after earnings; Q2 revenue 108.92 billion yuan, adjusted net profit 6.22 billion yuan.
-
----
-
-### 2026-08-19 09:35:41  #MKT News
-
-【2026 APEC customs series meeting opens in Dalian】The 2026 APEC customs series meeting opened in Dalian today (19th), drawing customs officials from 13 APEC economies, representatives of international organisations and Authorized Economic Operator firms. Aligned with APEC’s 2026 theme and the priorities of openness, innovation and cooperation, the forum aims to provide a high-level dialogue platform to strengthen Asia‑Pacific customs governance capacity.
-
----
-
-### 2026-08-19 09:35:30  #公司 #市場
-
-【深交所：“三鑫轉債”盤中臨時停牌】深交所公告，“三鑫轉債”(123280)盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，深交所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
-
----
-
-### 2026-08-19 09:35:22  #MKT News #Important #Market Regions #Greater China
-
-China A-share genetically modified (GM) seeds sector remained active: Nongfa Seed posted a third consecutive limit-up; Jingliang Holding and Wanxiang Denong hit daily limits; Dunhuang Seed, Qiule Seed and Shennong Seed also rose.
-
----
-
-### 2026-08-19 09:35:03  #市場 #焦點
-
-北證50日內跌幅達2.03%，成分股中，萬達軸承跌6.81%，三協電機跌6.66%，駿創科技跌4.19%，戈碧迦跌4.10%。
-
----
-
-### 2026-08-19 09:34:30  #市場
-
-【現貨黃金站上4350美元/盎司】現貨黃金站上4350美元/盎司，日內漲0.38%。
-
----
-
-### 2026-08-19 09:34:27  #市場 #焦點
-
-現貨黃金突破4350美元/盎司，日內漲0.37%。
-
----
-
-### 2026-08-19 09:34:21  #公司 #市場
-
-【PCB板塊盤初走弱，賢豐控股觸及跌停】PCB板塊盤初走弱，賢豐控股觸及跌停，強達電路、中材科技、方邦股份、景旺電子、國際復材、芯碁微裝等跟跌。
-
----
-
-### 2026-08-19 09:34:09  #公司 #國際
-
-AI晶片初創公司Rebellions稱正在準備在韓國進行IPO。
-
----
-
-### 2026-08-19 09:34:00  #市場 #焦點
-
-豆粕連續主力合約日內漲1%，現報3251.00元。
-
----
-
-### 2026-08-19 09:33:55  #公司 #市場
-
-【農業板塊繼續逆勢活躍 金健米業3連板】早盤農業板塊繼續逆勢活躍，金健米業、農發種業、京糧控股3連板，萬向德農、亞盛集團、登海種業等跟漲。
-
----
-
-### 2026-08-19 09:33:52  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300
-
-China's STAR 50 Index fell over 3% as semiconductor stocks weakened; Baiwei Storage slid nearly 5%.
-
----
-
-### 2026-08-19 09:33:52  #MKT News
-
-【Where to park spare cash? Money-market yield snapshot】Licaitong Current+ 7-day annualized yield ranged 0.7070%–1.4040%. WeChat Lingqiantong 7-day annualized yield ranged 0.8940%–1.0060%. Alipay Yu'e Bao 7-day annualized yield ranged 0.9010%–1.0530%.
-
----
-
-### 2026-08-19 09:33:44  #其他
-
-【2026APEC海關係列會議在大連舉辦】今年是APEC“中國年”，中國海關擔任APEC海關手續分委會主席。今天（19日），2026年亞太經合組織（APEC）海關係列會議將在大連舉辦，來自13個APEC經濟體的海關、相關國際組織、AEO企業的代表將參加今天的研討會。據瞭解，此次活動緊扣“建設亞太共同體，促進共同繁榮”年度主題及“開放、創新、合作”三大優先領域，旨在搭建高水平對話平臺，助力提升亞太區域海關治理能力。（央視新聞）
-
----
-
-### 2026-08-19 09:33:43  #市場 #焦點
-
-上證指數跌1.01%，現報3950.141點；深證成指跌2.37%，現報14276.488點；創業板指跌3.04%，現報3592.817點。
-
----
-
-### 2026-08-19 09:33:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share real estate sector staged a brief intraday rally; Nandu Property hit the daily limit. I Love My Home, Zhongtian Service, Shibei Hi‑Tech, Jinke and Greenland Holdings also rose.
-
----
-
-### 2026-08-19 09:32:49  #市場
-
-【多隻人氣股下挫 愛麗家居、一鳴食品雙雙跌停】早盤高位人氣股批次調整，愛麗家居、一鳴食品跌停。欣天科技、桂發祥、中石科技、天洋新材、金螳螂等跟跌。
-
----
-
-### 2026-08-19 09:32:46  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Steadies Ahead of FOMC Minutes — The dollar index steadied around 99.6 on Wednesday after touching more than two-month lows earlier this week, as investors turned their attention to minutes from the Federal Reserve’s July meeting for fresh clues on the monetary policy outlook. The Fed left interest rates unchanged last month, although three officials dissented in favor of a rate hike, with traders looking for more details on the division within the central bank. Markets currently see a 65% chance that policymakers will keep rates unchanged in September following a string of weak US economic data, while expectations for a rate increase later this year have also faded. Investors will also watch Chairman Kevin Warsh’s remarks at the Fed’s annual Jackson Hole symposium later this month, where he could seek to reassure markets amid a global bond selloff. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades.
-
----
-
-### 2026-08-19 09:32:45  #公司 #市場
-
-【房地產板塊短線拉昇，南都物業漲停】房地產板塊短線拉昇，南都物業漲停，我愛我家、中天服務、市北高新、金科股份、綠地控股等紛紛走高。
-
----
-
-### 2026-08-19 09:32:18  #MKT News #Market Regions #Greater China #600256.SS #Impact bullish #600378.SS
-
-China A-share coal mining and processing sector briefly surged intraday; Baotailong hit the daily limit, while Dayou Energy, Zhengzhou Coal, Huaibei Mining, Haohua Energy and Guanghui Energy advanced.
-
----
-
-### 2026-08-19 09:31:27  #MKT News #00762.HK #Impact bearish
-
-China Unicom (00762.HK) shares fell more than 10% after the company reported 1H net profit down 34.6% YoY.
-
----
-
-### 2026-08-19 09:31:25  #市場
-
-【煤炭開採加工板塊短線衝高，寶泰隆漲停】煤炭開採加工板塊短線衝高，寶泰隆漲停，大有能源、鄭州煤電、淮北礦業、昊華能源、廣匯能源跟漲。
-
----
-
-### 2026-08-19 09:31:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【Index futures morning open】China equity index futures opened lower: CSI300 (IF) most-active contract down 1.02%; SSE 50 (IH) down 0.59%; CSI500 (IC) down 1.12%; CSI1000 (IM) down 1.03%.
-
----
-
-### 2026-08-19 09:31:15  #MKT News #Market Regions #Greater China
-
-【China government bond futures open】2-year (TS) most-active contract down 0.01%; 5-year (TF) most-active contract down 0.01%; 10-year (T) most-active contract unchanged; 30-year (TL) most-active contract down 0.02%.
-
----
-
-### 2026-08-19 09:31:10  #公司 #觀點 #原創
-
-【花旗下調百度美股目標價6.2% AI雲基礎設施收入放緩削弱業績】百度營收連續第五個季度下滑，隔夜ADR大跌近13%。花旗表示，公司二季度業績略低於預期，儘管GPU（圖形處理器）營收加速增長，但因AI雲基礎設施增長缺乏持續性而抵消。花旗分析師Alicia Yap等人在報告中表示，ADR股價下跌反應了AI雲基礎設施收入增速放緩、淨利潤未達預期（因投資資產公允價值下降及匯兌因素）、擬議中的崑崙芯分拆上市時間表缺乏明確的能見度。鑑於業績預測調整及下調雲業務估值倍數，將百度ADR目標價由177美元下調至166美元。鑑於估值處於低位以及雙重主要上市轉換帶來的催化劑，維持該股“買入”評級。花旗表示，預計第三季度公百度通用業務收入將同比下降1.5%；AI驅動的收入將同比增長29%；AI雲基礎設施收入將同比增長65%至69.4億元人民幣。
-
----
-
-### 2026-08-19 09:30:50  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-China A-shares opened lower and extended losses: ChiNext fell over 3%, the Shenzhen Composite Index dropped 2.26%, and the Shanghai Composite Index declined 0.9%.
-
----
-
-### 2026-08-19 09:30:33  #市場 #焦點
-
-科創50日內跌幅達3.05%，成分股中，華虹宏力跌4.59%，瀾起科技跌4.57%，拓荊科技跌4.48%，源傑科技跌4.46%。
-
----
-
-### 2026-08-19 09:30:24  #市場
-
-中證轉債指數開盤下跌0.22%。賽斯轉債、勝藍轉02、泰坦轉債、金25轉債、微導轉債跌幅居前，分別跌3.50%、3.35%、3.14%、3.12%、3.11%。三鑫轉債、N奧普轉、天脈轉債、合金轉債、航宇轉債漲幅居前，分別漲30.00%、30.00%、14.56%、11.34%、6.76%。
-
----
-
-### 2026-08-19 09:30:17  #市場 #焦點
-
-創業板指跌3.00%，現報3594.377點；上證指數跌0.95%，現報3952.409點；深證成指跌2.30%，現報14286.479點。
-
----
-
-### 2026-08-19 09:30:13  #其他
-
-澳大利亞二季度薪資價格指數（不包括獎金）季環比 0.8%，預期 0.8%，前值 0.8%。澳大利亞二季度薪資價格指數（不包括獎金）同比 3.2%，預期 3.2%，前值 3.3%。
-
----
-
-### 2026-08-19 09:30:12  #MKT News
-
-C-frequency indicator opened down 13.17%; it closed up 516.44% yesterday.
-
----
-
-### 2026-08-19 09:30:08  #MKT News #Macro & Rates
-
-Australia Q2 seasonally adjusted Wage Price Index YoY 3.2% (expected 3.2%; prior 3.3%).
-
----
-
-### 2026-08-19 09:30:07  #MKT News
-
-Australia Q2 seasonally adjusted Wage Price Index q/q 0.8% (forecast 0.80%, prior 0.80%).
-
----
-
-### 2026-08-19 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.05%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。
-
----
-
-### 2026-08-19 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌1.15%， 滬深300指數期貨連續跌1.29%， 中證500指數期貨連續跌1.09%， 上證50指數期貨連續跌0.74%。
-
----
-
-### 2026-08-19 09:30:02  #市場 #焦點
-
-北證50日內跌幅達1.18%，成分股中，戈碧迦跌5.92%，國子軟體跌4.05%，艾融軟體跌3.68%，萬達軸承跌3.43%。
-
----
-
-### 2026-08-19 09:30:02  #市場 #焦點
-
-科創50日內跌幅達2.90%，成分股中，源傑科技跌5.20%，佰維儲存跌4.99%，瀾起科技跌4.58%，盛科通訊跌4.17%。
-
----
-
-### 2026-08-19 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Wage Price Index (Seasonally Adjusted) (YoY) (Q2) | actual 3.2% | consensus 3.20% | previous 3.30%
-
----
-
-### 2026-08-19 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Wage Price Index (Seasonally Adjusted) (QoQ) (Q2) | actual 0.8% | consensus 0.80% | previous 0.80%
-
----
-
-### 2026-08-19 09:29:48  #國際
-
-五角大樓官員稱，美軍正大幅縮減與韓國的聯合軍演。
-
----
-
-### 2026-08-19 09:29:35  #其他
-
-五角大樓官員稱，韓美聯合軍事演習將提前一週結束。
-
----
-
-### 2026-08-19 09:28:09  #公司 #市場
-
-金風科技A股漲停，金風科技(02208.HK)H股開漲6.68%，訊息面上，朱雀三號實現火箭陸地回收，金風科技持有藍箭航天股份。
-
----
-
-### 2026-08-19 09:28:09  #MKT News #Important #SZSE Component #Impact bearish #CSI300
-
-China A-share CPO sector opened sharply lower; Tianyang New Materials hit the daily limit down, while Fuxin Technology, Qiangda Circuit, Zhongshi Technology and Tianfu Communications opened lower.
-
----
-
-### 2026-08-19 09:28:07  #MKT News #Important #Market Regions #Greater China #02208.HK #Impact bullish
-
-Goldwind A-shares hit the daily limit; H-shares (02208.HK) opened up 6.68% after reports that Landspace's Zhuque-3 achieved a successful land recovery. Goldwind holds a stake in Landspace.
 
 ---

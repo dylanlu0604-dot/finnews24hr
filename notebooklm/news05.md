@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 03:50:07_
-_本檔包含 3062 則快訊，約 622103 字_
+_更新時間：2026-08-25 04:42:40_
+_本檔包含 3084 則快訊，約 622430 字_
+
+---
+
+### 2026-08-19 09:38:32  #Trading Economics #Economy #Australia #Wage Growth #Importance 1
+
+Australia Q2 Annual Wage Growth Remains at 5-Quarter Low — Australia’s seasonally adjusted Wage Price Index increased 3.2% year-on-year in Q2 2025, unchanged from the revised figure in Q1 and matching market expectations of 3.2%. The growth was driven by gains in both sectors, with private-sector wages advancing 3.1% (vs 3.2% in Q1), the lowest since Q2 2022, and public-sector pay increasing 3.4% (vs 3.4%), the weakest increase since Q4 2024. On a quarterly basis, wages grew 0.8%, unchanged from the previous four quarters and in line with market expectations.
+
+---
+
+### 2026-08-19 09:38:10  #市場 #國際
+
+菲律賓股市指數下跌1.1%，至6198.21點。
+
+---
+
+### 2026-08-19 09:37:57  #市場
+
+【上緯新材盤中跌超15%】A股上緯新材盤中跌15.33%，現報160.01元。
+
+---
+
+### 2026-08-19 09:37:47  #MKT News #Commodities #Precious Metals #00815.HK #Impact bearish #01815.HK #03939.HK
+
+Hong Kong gold stocks slid: China Silver Group (00815.HK), Zhufeng Gold (01815.HK) and Wanguo Gold (03939.HK) fell over 3%; Tongguan Gold (00340.HK) and Zijin Gold International (02259.HK) were down more than 2%.
+
+---
+
+### 2026-08-19 09:37:33  #公司 #市場
+
+【動物保健板塊走弱，聖達生物跌停】動物保健板塊走弱，聖達生物跌停，蔚藍生物、賢豐控股、美農生物、康華生物、天邦食品、亨通股份等跟跌。
+
+---
+
+### 2026-08-19 09:37:04  #市場
+
+醫藥股快速反彈，亨迪藥業、哈三聯直線漲停，萬邦醫藥、九典制藥、特寶生物、金陵藥業等跟漲。
+
+---
+
+### 2026-08-19 09:36:57  #市場
+
+【梁文峰打新宇樹科技浮盈11億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。梁文鋒旗下深度求索、幻方量化和九章資產透過戰略配售、網下打新合計獲配約119.16萬股。以發行價計算，梁文鋒打新宇樹科技浮盈超11億元。（中新經緯）
+
+---
+
+### 2026-08-19 09:36:39  #MKT News #Star Stocks #Xiaomi #1810.HK #Impact bullish
+
+Xiaomi Corp (01810.HK) shares rose more than 5% after earnings; Q2 revenue 108.92 billion yuan, adjusted net profit 6.22 billion yuan.
+
+---
+
+### 2026-08-19 09:35:41  #MKT News
+
+【2026 APEC customs series meeting opens in Dalian】The 2026 APEC customs series meeting opened in Dalian today (19th), drawing customs officials from 13 APEC economies, representatives of international organisations and Authorized Economic Operator firms. Aligned with APEC’s 2026 theme and the priorities of openness, innovation and cooperation, the forum aims to provide a high-level dialogue platform to strengthen Asia‑Pacific customs governance capacity.
+
+---
+
+### 2026-08-19 09:35:30  #公司 #市場
+
+【深交所：“三鑫轉債”盤中臨時停牌】深交所公告，“三鑫轉債”(123280)盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，深交所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。
+
+---
+
+### 2026-08-19 09:35:22  #MKT News #Important #Market Regions #Greater China
+
+China A-share genetically modified (GM) seeds sector remained active: Nongfa Seed posted a third consecutive limit-up; Jingliang Holding and Wanxiang Denong hit daily limits; Dunhuang Seed, Qiule Seed and Shennong Seed also rose.
+
+---
+
+### 2026-08-19 09:35:03  #市場 #焦點
+
+北證50日內跌幅達2.03%，成分股中，萬達軸承跌6.81%，三協電機跌6.66%，駿創科技跌4.19%，戈碧迦跌4.10%。
+
+---
+
+### 2026-08-19 09:34:30  #市場
+
+【現貨黃金站上4350美元/盎司】現貨黃金站上4350美元/盎司，日內漲0.38%。
+
+---
+
+### 2026-08-19 09:34:27  #市場 #焦點
+
+現貨黃金突破4350美元/盎司，日內漲0.37%。
+
+---
+
+### 2026-08-19 09:34:21  #公司 #市場
+
+【PCB板塊盤初走弱，賢豐控股觸及跌停】PCB板塊盤初走弱，賢豐控股觸及跌停，強達電路、中材科技、方邦股份、景旺電子、國際復材、芯碁微裝等跟跌。
+
+---
+
+### 2026-08-19 09:34:09  #公司 #國際
+
+AI晶片初創公司Rebellions稱正在準備在韓國進行IPO。
+
+---
+
+### 2026-08-19 09:34:00  #市場 #焦點
+
+豆粕連續主力合約日內漲1%，現報3251.00元。
+
+---
+
+### 2026-08-19 09:33:55  #公司 #市場
+
+【農業板塊繼續逆勢活躍 金健米業3連板】早盤農業板塊繼續逆勢活躍，金健米業、農發種業、京糧控股3連板，萬向德農、亞盛集團、登海種業等跟漲。
+
+---
+
+### 2026-08-19 09:33:52  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300
+
+China's STAR 50 Index fell over 3% as semiconductor stocks weakened; Baiwei Storage slid nearly 5%.
+
+---
+
+### 2026-08-19 09:33:52  #MKT News
+
+【Where to park spare cash? Money-market yield snapshot】Licaitong Current+ 7-day annualized yield ranged 0.7070%–1.4040%. WeChat Lingqiantong 7-day annualized yield ranged 0.8940%–1.0060%. Alipay Yu'e Bao 7-day annualized yield ranged 0.9010%–1.0530%.
+
+---
+
+### 2026-08-19 09:33:44  #其他
+
+【2026APEC海關係列會議在大連舉辦】今年是APEC“中國年”，中國海關擔任APEC海關手續分委會主席。今天（19日），2026年亞太經合組織（APEC）海關係列會議將在大連舉辦，來自13個APEC經濟體的海關、相關國際組織、AEO企業的代表將參加今天的研討會。據瞭解，此次活動緊扣“建設亞太共同體，促進共同繁榮”年度主題及“開放、創新、合作”三大優先領域，旨在搭建高水平對話平臺，助力提升亞太區域海關治理能力。（央視新聞）
+
+---
+
+### 2026-08-19 09:33:43  #市場 #焦點
+
+上證指數跌1.01%，現報3950.141點；深證成指跌2.37%，現報14276.488點；創業板指跌3.04%，現報3592.817點。
+
+---
+
+### 2026-08-19 09:33:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share real estate sector staged a brief intraday rally; Nandu Property hit the daily limit. I Love My Home, Zhongtian Service, Shibei Hi‑Tech, Jinke and Greenland Holdings also rose.
+
+---
+
+### 2026-08-19 09:32:49  #市場
+
+【多隻人氣股下挫 愛麗家居、一鳴食品雙雙跌停】早盤高位人氣股批次調整，愛麗家居、一鳴食品跌停。欣天科技、桂發祥、中石科技、天洋新材、金螳螂等跟跌。
+
+---
+
+### 2026-08-19 09:32:46  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Steadies Ahead of FOMC Minutes — The dollar index steadied around 99.6 on Wednesday after touching more than two-month lows earlier this week, as investors turned their attention to minutes from the Federal Reserve’s July meeting for fresh clues on the monetary policy outlook. The Fed left interest rates unchanged last month, although three officials dissented in favor of a rate hike, with traders looking for more details on the division within the central bank. Markets currently see a 65% chance that policymakers will keep rates unchanged in September following a string of weak US economic data, while expectations for a rate increase later this year have also faded. Investors will also watch Chairman Kevin Warsh’s remarks at the Fed’s annual Jackson Hole symposium later this month, where he could seek to reassure markets amid a global bond selloff. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades.
+
+---
+
+### 2026-08-19 09:32:45  #公司 #市場
+
+【房地產板塊短線拉昇，南都物業漲停】房地產板塊短線拉昇，南都物業漲停，我愛我家、中天服務、市北高新、金科股份、綠地控股等紛紛走高。
+
+---
+
+### 2026-08-19 09:32:18  #MKT News #Market Regions #Greater China #600256.SS #Impact bullish #600378.SS
+
+China A-share coal mining and processing sector briefly surged intraday; Baotailong hit the daily limit, while Dayou Energy, Zhengzhou Coal, Huaibei Mining, Haohua Energy and Guanghui Energy advanced.
+
+---
+
+### 2026-08-19 09:31:27  #MKT News #00762.HK #Impact bearish
+
+China Unicom (00762.HK) shares fell more than 10% after the company reported 1H net profit down 34.6% YoY.
+
+---
+
+### 2026-08-19 09:31:25  #市場
+
+【煤炭開採加工板塊短線衝高，寶泰隆漲停】煤炭開採加工板塊短線衝高，寶泰隆漲停，大有能源、鄭州煤電、淮北礦業、昊華能源、廣匯能源跟漲。
+
+---
+
+### 2026-08-19 09:31:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【Index futures morning open】China equity index futures opened lower: CSI300 (IF) most-active contract down 1.02%; SSE 50 (IH) down 0.59%; CSI500 (IC) down 1.12%; CSI1000 (IM) down 1.03%.
+
+---
+
+### 2026-08-19 09:31:15  #MKT News #Market Regions #Greater China
+
+【China government bond futures open】2-year (TS) most-active contract down 0.01%; 5-year (TF) most-active contract down 0.01%; 10-year (T) most-active contract unchanged; 30-year (TL) most-active contract down 0.02%.
+
+---
+
+### 2026-08-19 09:31:10  #公司 #觀點 #原創
+
+【花旗下調百度美股目標價6.2% AI雲基礎設施收入放緩削弱業績】百度營收連續第五個季度下滑，隔夜ADR大跌近13%。花旗表示，公司二季度業績略低於預期，儘管GPU（圖形處理器）營收加速增長，但因AI雲基礎設施增長缺乏持續性而抵消。花旗分析師Alicia Yap等人在報告中表示，ADR股價下跌反應了AI雲基礎設施收入增速放緩、淨利潤未達預期（因投資資產公允價值下降及匯兌因素）、擬議中的崑崙芯分拆上市時間表缺乏明確的能見度。鑑於業績預測調整及下調雲業務估值倍數，將百度ADR目標價由177美元下調至166美元。鑑於估值處於低位以及雙重主要上市轉換帶來的催化劑，維持該股“買入”評級。花旗表示，預計第三季度公百度通用業務收入將同比下降1.5%；AI驅動的收入將同比增長29%；AI雲基礎設施收入將同比增長65%至69.4億元人民幣。
+
+---
+
+### 2026-08-19 09:30:50  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
+
+China A-shares opened lower and extended losses: ChiNext fell over 3%, the Shenzhen Composite Index dropped 2.26%, and the Shanghai Composite Index declined 0.9%.
+
+---
+
+### 2026-08-19 09:30:33  #市場 #焦點
+
+科創50日內跌幅達3.05%，成分股中，華虹宏力跌4.59%，瀾起科技跌4.57%，拓荊科技跌4.48%，源傑科技跌4.46%。
+
+---
+
+### 2026-08-19 09:30:24  #市場
+
+中證轉債指數開盤下跌0.22%。賽斯轉債、勝藍轉02、泰坦轉債、金25轉債、微導轉債跌幅居前，分別跌3.50%、3.35%、3.14%、3.12%、3.11%。三鑫轉債、N奧普轉、天脈轉債、合金轉債、航宇轉債漲幅居前，分別漲30.00%、30.00%、14.56%、11.34%、6.76%。
+
+---
+
+### 2026-08-19 09:30:17  #市場 #焦點
+
+創業板指跌3.00%，現報3594.377點；上證指數跌0.95%，現報3952.409點；深證成指跌2.30%，現報14286.479點。
+
+---
+
+### 2026-08-19 09:30:13  #其他
+
+澳大利亞二季度薪資價格指數（不包括獎金）季環比 0.8%，預期 0.8%，前值 0.8%。澳大利亞二季度薪資價格指數（不包括獎金）同比 3.2%，預期 3.2%，前值 3.3%。
+
+---
+
+### 2026-08-19 09:30:12  #MKT News
+
+C-frequency indicator opened down 13.17%; it closed up 516.44% yesterday.
+
+---
+
+### 2026-08-19 09:30:08  #MKT News #Macro & Rates
+
+Australia Q2 seasonally adjusted Wage Price Index YoY 3.2% (expected 3.2%; prior 3.3%).
+
+---
+
+### 2026-08-19 09:30:07  #MKT News
+
+Australia Q2 seasonally adjusted Wage Price Index q/q 0.8% (forecast 0.80%, prior 0.80%).
+
+---
+
+### 2026-08-19 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約跌0.05%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。
+
+---
+
+### 2026-08-19 09:30:03  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續跌1.15%， 滬深300指數期貨連續跌1.29%， 中證500指數期貨連續跌1.09%， 上證50指數期貨連續跌0.74%。
+
+---
+
+### 2026-08-19 09:30:02  #市場 #焦點
+
+北證50日內跌幅達1.18%，成分股中，戈碧迦跌5.92%，國子軟體跌4.05%，艾融軟體跌3.68%，萬達軸承跌3.43%。
+
+---
+
+### 2026-08-19 09:30:02  #市場 #焦點
+
+科創50日內跌幅達2.90%，成分股中，源傑科技跌5.20%，佰維儲存跌4.99%，瀾起科技跌4.58%，盛科通訊跌4.17%。
+
+---
+
+### 2026-08-19 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Wage Price Index (Seasonally Adjusted) (YoY) (Q2) | actual 3.2% | consensus 3.20% | previous 3.30%
+
+---
+
+### 2026-08-19 09:30:00  #MKT News #Economic Calendar #Important
+
+Australia | Wage Price Index (Seasonally Adjusted) (QoQ) (Q2) | actual 0.8% | consensus 0.80% | previous 0.80%
+
+---
+
+### 2026-08-19 09:29:48  #國際
+
+五角大樓官員稱，美軍正大幅縮減與韓國的聯合軍演。
+
+---
+
+### 2026-08-19 09:29:35  #其他
+
+五角大樓官員稱，韓美聯合軍事演習將提前一週結束。
+
+---
+
+### 2026-08-19 09:28:09  #公司 #市場
+
+金風科技A股漲停，金風科技(02208.HK)H股開漲6.68%，訊息面上，朱雀三號實現火箭陸地回收，金風科技持有藍箭航天股份。
+
+---
+
+### 2026-08-19 09:28:09  #MKT News #Important #SZSE Component #Impact bearish #CSI300
+
+China A-share CPO sector opened sharply lower; Tianyang New Materials hit the daily limit down, while Fuxin Technology, Qiangda Circuit, Zhongshi Technology and Tianfu Communications opened lower.
+
+---
+
+### 2026-08-19 09:28:07  #MKT News #Important #Market Regions #Greater China #02208.HK #Impact bullish
+
+Goldwind A-shares hit the daily limit; H-shares (02208.HK) opened up 6.68% after reports that Landspace's Zhuque-3 achieved a successful land recovery. Goldwind holds a stake in Landspace.
 
 ---
 
@@ -18351,181 +18657,5 @@ The U.S. Department of Justice plans to deploy 1,000 monitors to oversee the mid
 ### 2026-08-18 04:44:57  #公司
 
 明晟公司MSCI新興市場股票指數漲0.5%，外匯指數漲0.2%。
-
----
-
-### 2026-08-18 04:42:34  #MKT News #LHX.O #Impact bullish
-
-NASA has selected four firms to provide mission payload processing facility services, including Blue Origin, Firefly Aerospace and L3Harris. The contract value is up to $100 million.
-
----
-
-### 2026-08-18 04:38:50  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Retreats from Record High — The S&P/TSX Composite Index edged 0.2% lower to close at 36,668 on Monday following the release of CPI data, after reaching a record high on Friday. Canada’s headline inflation rose 3.0%, just above forecasts of 2.9%. Core inflation measures tracked by the Bank of Canada also edged higher, largely reinforcing expectations that the central bank will keep interest rates unchanged this year. Tensions in the Middle East persisted, with little sign of a near-term resolution. Oil prices rose, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, tracking a surge in long-term US Treasury yields. Financials lost ground, with RBC, TD Bank and BMO edging lower. Software and tech-services stocks traded lower, tracking losses among US software infrastructure shares, with Shopify shedding 3.7% and Constellation Software falling 3.2%. Retail stocks also posted losses ahead of retail data on Friday, with ATD (-1.6%), Loblaw (-1.8%) and Dollarama (-2.1%) declining.
-
----
-
-### 2026-08-18 04:37:23  #MKT News
-
-UAE state news agency said the UAE foreign minister spoke by phone with Kuwait’s foreign minister to discuss recent regional developments and measures to bolster security and stability in the Middle East.
-
----
-
-### 2026-08-18 04:35:12  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.51% Lower — The Dow Jones Index decreased 273 points or 0.51 percent on Monday to close at 53460 points. The decline was led by Nike (-4.05%), Salesforce (-3.06%) and Walt Disney (-3.02%). On the upside, the strongest performers were Caterpillar (3.13%), Chevron (1.41%) and Goldman Sachs (1.18%).
-
----
-
-### 2026-08-18 04:31:45  #國際
-
-美國國家航空航天局：OPS 合同總上限金額為 1 億美元。
-
----
-
-### 2026-08-18 04:31:13  #國際
-
-美國國家航空航天局：遴選多家企業提供有效載荷處理服務，入選企業包括 BLUE ORIGIN、FIREFLY AEROSPACE、L3HARRIS。
-
----
-
-### 2026-08-18 04:16:58  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-US equities closed lower on Monday, Aug. 17: Dow Jones Industrial Average fell 272.39 points (-0.51%) to 53,460.02; S&P 500 fell 40.39 points (-0.52%) to 7,745.37; Nasdaq Composite fell 84.25 points (-0.32%) to 26,644.91.
-
----
-
-### 2026-08-18 04:15:09  #MKT News #Market Regions #Wall Street (US)
-
-【Anthropic's annualized revenue tops $65 billion ahead of IPO】People familiar said Anthropic's current performance implies annualized recurring revenue (ARR) above $65 billion, more than a sevenfold increase versus year-end. One source said Anthropic reported the figure to investors in routine updates; ARR stood at $65 billion as of end-July. The revenue acceleration has strengthened the company's confidence in pursuing an IPO. Anthropic and OpenAI have privately filed listing documents; Anthropic could debut on Wall Street as soon as this fall, potentially ahead of OpenAI.
-
----
-
-### 2026-08-18 04:13:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Drop as Middle East Risks Escalate — US stock indices closed lower on Monday amid concerns that elevated oil prices will fuel inflation as hopes for a deal to end the war in the Middle East faded. The S&P 500 fell 0.5%, the Nasdaq lost 0.2% and the Dow shed 273 points. Prospects for peace suffered a setback, with fighting flaring anew and rhetoric escalating. Oil prices rose, rasing concerns that inflation could prompt the Fed to raise rates before the year is over. The 30-year Treasury yield hit its highest level since 2007, reflecting concerns over surging government spending. Credit-sensitive stocks, including financials and hyperscalers, closed lower. Google lost 0.6%, Microsoft was down 3% and Meta shed 3.5%. Berkshire Hathaway lost 1.1%, Visa shed 1.5% and Amex retreated 1.8%. Meanwhile, chipmakers posted gains after strong revenue growth from Anthropic. The company is meeting with banks over a potential IPO, which could be the biggest on record. Micron added 4.1%, Intel gained 1% and Sandisk soared 9%.
-
----
-
-### 2026-08-18 04:12:51  #MKT News
-
-【FIFA dismisses COO after criticism of Infantino's plan to sell World Cup stakes】FIFA confirmed on Aug. 17 it has terminated the employment of chief operating officer Kevin Lamour. British media, including Sky News, reported the dismissal followed Lamour's public criticism of FIFA president Gianni Infantino's proposal to sell portions of World Cup and other tournament stakes to private investors.
-
----
-
-### 2026-08-18 04:10:13  #MKT News #Important #US10Y #Impact bearish #DXY #EURUSD #Impact bullish
-
-【China, UK, Japan reduced US Treasury holdings in June】U.S. Treasury data showed holdings of U.S. Treasuries by Japan, the United Kingdom and China fell month-on-month in June. Japan held $1.117 trillion, down $26.4 billion; the UK held $939.9 billion, down $8.7 billion; China held $633.4 billion, down $26.0 billion.
-
----
-
-### 2026-08-18 04:10:12  #宏觀 #公司 #市場 #焦點 #國際
-
-【中英日在6月均減持美債】美國財政部資料顯示，6月英國、日本和中國持有的美國國債規模均較5月下降。其中，日本持有美債1.117萬億美元，較5月減少264億美元；英國持有9399億美元，環比減少87億美元；中國持有6334億美元，環比減少260億美元。
-
----
-
-### 2026-08-18 04:03:56  #其他
-
-【FIFA解僱批評因凡蒂諾的營運長】國際足聯（FIFA）當地時間8月17日在一份宣告中證實，國際足聯與其營運長、法國人凱文·拉穆爾的工作關係已於當天終止。據英國天空新聞等媒體報道，拉穆爾遭解僱的原因是他曾公開批評國際足聯主席因凡蒂諾“將世界盃等賽事部分股權出售給投資者”的計劃。 拉穆爾曾是因凡蒂諾的“核心圈”成員，曾在2016年助其競選，助其爆冷贏得國際足聯主席選舉。2024年11月，拉穆爾出任國際足聯營運長。 拉穆爾今年7月曾撰文稱，因凡蒂諾近幾個月來在籌劃出售世界盃等賽事股權計劃時“缺乏透明度”，國際足聯的工作人員遭到了“欺騙”，他們“理應得到尊重，而非蔑視與恐嚇”。拉穆爾稱，“這只是‘某一個人’的專案，絕不可推進。”（CCTV國際時訊）
-
----
-
-### 2026-08-18 04:03:21  #公司
-
-杜克能源感謝大辛辛那提地區使用者的耐心與支援，公司搶修人員已在罕見的直線風暴過後完成電力恢復工作。
-
----
-
-### 2026-08-18 04:02:43  #MKT News #Important #Market Regions #Greater China #Market Themes #China EV Leaders #MU.O #Impact bullish #SKHY.O #SNDK.O
-
-【US close: major indices down; storage stocks rally】Dow Jones -0.5%, S&P 500 -0.5%, Nasdaq -0.32% at Monday close. Storage/memory names outperformed: SK Hynix (SKHY.O) +3%, Micron Technology (MU.O) +4%, SanDisk (SNDK.O) +8.8%. Nike (NKE.N) -4%. Nasdaq Golden Dragon China Index +0.37%; XPeng (XPEV.N) +4%, Miniso (MNSO.N) -8%.
-
----
-
-### 2026-08-18 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.51%，標普500指數跌0.52%，納指跌0.32%。Carvana Co.跌7.26%，特許通訊跌6.59%，星座跌6.20%，阿萊技術公司跌5.60%，The Trade Desk跌5.23%，現在服務跌5.08%。“七姐妹”方面：英偉達跌0.07%，蘋果跌0.11%，亞馬遜跌0.51%，谷歌跌0.61%，特斯拉跌0.87%，微軟跌3.04%，Meta Platforms跌3.54%。
-
----
-
-### 2026-08-18 04:00:22  #國際
-
-美國6月國際資本淨流入 1335億美元，前值由1322億美元修正為1315億美元。
-美國6月外資淨買入美國公債 68億美元，前值566億美元。
-美國6月長期資本淨流入 1727億美元，前值由2327億美元修正為2312億美元。
-
----
-
-### 2026-08-18 04:00:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish
-
-US net long-term capital inflows were $172.7bln in June; the prior reading was revised from $232.7bln to $231.2bln.
-
----
-
-### 2026-08-18 04:00:12  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
-
-Foreign net purchases of US Treasuries in June were $6.8bn, versus $56.6bn previously.
-
----
-
-### 2026-08-18 04:00:10  #MKT News
-
-U.S. net international capital inflows were $133.5 billion in June; prior reading revised from $132.2 billion to $131.5 billion.
-
----
-
-### 2026-08-18 04:00:01  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.35%】華住酒店集團漲11.32%，Tims中國漲6.92%，盛豐物流漲5.86%，老虎證券漲5.11%，小鵬汽車漲4.32%。
-
----
-
-### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net LongTerm TIC Flows (Jun) | actual 172700000000B | previous 232700000000B
-
----
-
-### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net Foreign Purchases of Treasury Securities (Jun) | actual 6800000000B | previous 56600000000B
-
----
-
-### 2026-08-18 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net LongTerm International Capital Flows (Jun) | actual 133500000000B | previous 132200000000B
-
----
-
-### 2026-08-18 03:57:26  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact mixed
-
-Nasdaq will add a trading session from 9:00 p.m. to 4:00 a.m. U.S. Eastern Time, effective Dec. 6, 2026.
-
----
-
-### 2026-08-18 03:56:17  #MKT News #Nasdaq100 #Impact bullish
-
-Nasdaq is in talks with regulators to offer near-continuous trading on the Nasdaq Stock Market, five days a week, 23 hours a day.
-
----
-
-### 2026-08-18 03:54:36  #公司
-
-納斯達克公司：將於 2026 年 12 月 6 日推出全新交易時段，美東時間晚 9 點至凌晨 4 點。
-
----
-
-### 2026-08-18 03:54:19  #其他
-
-納斯達克：正與監管機構溝通，擬在納斯達克股票市場推出每週 5 天、每日近 23 小時的近乎連續交易服務。
-
----
-
-### 2026-08-18 03:51:18  #MKT News #WTI #Impact bullish
-
-【Trump approval falls to 33%, lowest in current term】A Reuters/Ipsos poll concluded Monday found President Trump's approval rating at 33%, the lowest of his current term, with 64% disapproving. The four-day survey also found a large majority of Americans said they fear a prolonged U.S.-Iran war. The 33% reading is down from 35% in an earlier poll this month and matches his previous term low in December 2017.
 
 ---
