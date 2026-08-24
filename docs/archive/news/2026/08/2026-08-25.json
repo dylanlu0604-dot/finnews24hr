@@ -1,7 +1,71 @@
 {
   "date": "2026-08-25",
-  "count": 36,
+  "count": 44,
   "items": [
+    {
+      "id": "mkt:01a034a6-b311-7aab-90fc-2735a97f92ab",
+      "time": "2026-08-25 00:42:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Canada made unreasonable last‑minute demands and that he had thought an agreement was already reached."
+    },
+    {
+      "id": "5056048",
+      "time": "2026-08-25 00:41:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：坦白說，我以為我們達成協議了。"
+    },
+    {
+      "id": "5056047",
+      "time": "2026-08-25 00:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國將反擊不公平貿易，加拿大在最後一刻提出不合理的要求。"
+    },
+    {
+      "id": "mkt:01a034a4-de03-7aab-90fc-1f76fe3321e9",
+      "time": "2026-08-25 00:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said negotiations with Canada remain ongoing."
+    },
+    {
+      "id": "5056046",
+      "time": "2026-08-25 00:40:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：與加拿大的談判仍在進行中。"
+    },
+    {
+      "id": "5056045",
+      "time": "2026-08-25 00:39:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國發言人：南蘇丹週一發生伏擊事件，兩名聯合國維和人員遇難，另有七人受傷。"
+    },
+    {
+      "id": "mkt:01a034a2-dcc3-7aab-90fc-105e6fbf5dd3",
+      "time": "2026-08-25 00:38:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France and Saudi Arabia signed joint defense and tourism agreements."
+    },
+    {
+      "id": "mkt:01a034a0-b0e4-7aab-90fc-0a59ca34266c",
+      "time": "2026-08-25 00:35:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MACRON and visiting Saudi Crown Prince Mohammed bin Salman attended a signing ceremony in Paris."
+    },
     {
       "id": "te:markets:577673",
       "time": "2026-08-25 00:33:17",
