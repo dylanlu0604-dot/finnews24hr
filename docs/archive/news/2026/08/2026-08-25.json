@@ -1,7 +1,28 @@
 {
   "date": "2026-08-25",
-  "count": 360,
+  "count": 362,
   "items": [
+    {
+      "id": "te:markets:577697",
+      "time": "2026-08-25 06:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-4.76%), Propane (-2.89%), Brent Crude Oil (-2.43%) and Crude Oil WTI (-2.31%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.70%) and Germany Natural Gas THE (3.61%)."
+    },
+    {
+      "id": "5056224",
+      "time": "2026-08-25 06:29:59",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週二重要財經資訊提醒（以下均為北京時間）】 \n① 09:30 澳洲聯儲公佈8月貨幣政策會議紀要；\n② 12:00 澳洲聯儲國內市場主管David Jones講話；\n③ 14:00 德國二季度GDP終值；\n④ 16:00 德國8月IFO商業景氣指數；\n⑤ 20:00 美國里士滿聯儲主席Barkin（2027年FOMC票委）談論經濟；\n⑥ 21:00 美國6月FHFA房價指數，6月S&P/CS20座大城市房價指數；\n⑦ 22:00 美國7月新屋銷售，8月諮商會消費者信心指數，8月里士滿聯儲製造業指數；\n⑧ 次日02:00 “全球最大遊戲展” Gamescom開幕；\n⑨ 次日04:00 美國里士滿聯儲主席Barkin（2027年FOMC票委）談論經濟。"
+    },
     {
       "id": "5056223",
       "time": "2026-08-25 06:27:16",
