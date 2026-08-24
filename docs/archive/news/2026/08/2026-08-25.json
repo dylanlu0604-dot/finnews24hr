@@ -1,7 +1,19 @@
 {
   "date": "2026-08-25",
-  "count": 296,
+  "count": 297,
   "items": [
+    {
+      "id": "te:markets:577693",
+      "time": "2026-08-25 04:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.26% Higher — The Dow Jones Index went up by 140 points or 0.26 percent on Monday to close at 53417 points. The rise was led by Visa (3.17%), Walmart (2.74%) and Walt Disney (2.70%). On the downside, the weakerst performers were Nvidia (-2.92%), Caterpillar (-2.03%) and IBM (-1.94%)."
+    },
     {
       "id": "mkt:01a03578-81b7-7aab-90ff-743bddaceac1",
       "time": "2026-08-25 04:31:24",
