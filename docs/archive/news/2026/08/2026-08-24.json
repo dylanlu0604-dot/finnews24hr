@@ -1,7 +1,99 @@
 {
   "date": "2026-08-24",
-  "count": 2432,
+  "count": 2442,
   "items": [
+    {
+      "id": "5056009",
+      "time": "2026-08-24 23:22:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞將10月Qua Iboe石油出口（裝貨量）提升至18.4萬桶/日，創四個月新高。"
+    },
+    {
+      "id": "5056008",
+      "time": "2026-08-24 23:22:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國戰略石油儲備的原油庫存上週減少約 370 萬桶，降至 2.897 億桶，為 1982 年以來最低水平。"
+    },
+    {
+      "id": "5056007",
+      "time": "2026-08-24 23:21:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統阿拉伯和中東事務高階顧問（兼非洲事務高階顧問）布洛斯： 美國已提交蘇丹問題決議草案。草案將武器禁運擴大至蘇丹全境，無人機納入武器禁運範圍，並要求聯合國秘書長增加專家小組成員人數。"
+    },
+    {
+      "id": "5056006",
+      "time": "2026-08-24 23:21:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀金期貨突破1400美元/盎司，日內漲2.23%。"
+    },
+    {
+      "id": "5056005",
+      "time": "2026-08-24 23:19:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普威脅對所有轎車和卡車徵收 50% 關稅後，美國卡車運輸類股票下跌。JB 亨特運輸跌 5.3%，奧多明尼昂貨運跌 2.2%，奈特‑斯威夫特運輸跌 3.8%。"
+    },
+    {
+      "id": "mkt:01a03459-c794-7aab-90fa-8d73b3ba1430",
+      "time": "2026-08-24 23:18:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK to provide Ukraine technology to produce Storm Shadow cruise missiles】UK Prime Minister Burnham said at a Willingness Alliance summit in Kyiv on the 24th he has approved providing Ukraine with the technology needed to produce Storm Shadow cruise missiles to help Kyiv develop indigenous long-range strike capability. Burnham said the UK first supplied long-range weapons to Ukraine in 2023. Ukrainian president ZELENSKIY requested the Storm Shadow technology so Ukraine can develop the capability domestically."
+    },
+    {
+      "id": "5056004",
+      "time": "2026-08-24 23:18:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本一遊船在東京灣撞上防波堤致10人受傷】據日本方面訊息，一艘遊船24日晚在東京灣撞上防波堤，造成10人受傷。訊息稱，當地時間24日19時（北京時間24日18時）過後，有關部門接到“船隻撞上防波堤”的報告。該船從東京江東區出發駛往橫濱。事故發生於川崎市附近海域。日本警方等部門正在進行相關調查。（央視新聞）"
+    },
+    {
+      "id": "5056003",
+      "time": "2026-08-24 23:17:22",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【英國將向烏克蘭提供“風暴之影”導彈生產技術】英國首相伯納姆24日在基輔舉行的“意願聯盟”峰會上表示，他已批准向烏克蘭提供生產“風暴之影”巡航導彈所需的技術，以幫助烏克蘭自行發展遠端打擊能力。伯納姆說，英國曾於2023年率先向烏克蘭提供遠端武器。烏克蘭總統澤連斯基此次要求英國分享“風暴之影”技術，以便烏方自行發展相關能力。（央視新聞）"
+    },
+    {
+      "id": "5056002",
+      "time": "2026-08-24 23:12:37",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【德國財長：債券收益率飆升源於特朗普發動的伊朗戰爭】德國財政部長Lars Klingbeil表示，全球債券收益率飆升是美國總統唐納德·特朗普發動伊朗戰爭所造成的結果。Klingbeil表示，除了天然氣價格上漲之外，“我們還看到，伊朗戰爭正在擾亂債券市場，推動收益率大幅上升”。Klingbeil稱，“我要在這裡非常明確、直接地說，過去幾天和幾周利率上升，是特朗普在伊朗發動的戰爭造成全球不確定性的結果”。"
+    },
+    {
+      "id": "mkt:01a03454-9ce9-7aab-90fa-858d7fe83cee",
+      "time": "2026-08-24 23:12:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【UN sets up task force to tackle Strait of Hormuz crisis】Aug 24 — UN Secretary-General Guterres said ongoing Middle East and Russia-Ukraine conflicts are disrupting shipping through the Strait of Hormuz, Red Sea and Black Sea, constraining oil, fertilizer and food shipments and lifting oil, container freight and fertilizer costs. The UN has set up a task force that plans to establish a UN‑coordinated registry, verification, monitoring and de‑confliction mechanism, with an initial focus on safeguarding fertilizer and related raw-material shipments. Guterres said the mechanism would not alter states’ sovereignty or replace political efforts to restore freedom of navigation, but could serve as a pragmatic first step to reduce risk, secure essential supplies and rebuild trust."
+    },
     {
       "id": "5056001",
       "time": "2026-08-24 23:11:36",
