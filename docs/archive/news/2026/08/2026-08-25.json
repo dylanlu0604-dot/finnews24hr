@@ -1,7 +1,185 @@
 {
   "date": "2026-08-25",
-  "count": 1043,
+  "count": 1063,
   "items": [
+    {
+      "id": "mkt:01a0371b-4c41-7aab-9106-173b0428a46c",
+      "time": "2026-08-25 12:08:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02268.HK",
+        "Impact bullish",
+        "09988.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.25%, biotech sector strengthens】Hong Kong shares opened higher then faded; by midday the Hang Seng Index was down 0.25% and the Hang Seng Tech Index down 0.75%. Biotech names led gains early—drug stocks including 02268.HK and 01952.HK rose over 10%, while 02126.HK and 02269.HK gained more than 4%. Auto names tumbled after results: 09868.HK fell 9.73% and 09863.HK dropped 7.25% by midday. Alibaba (09988.HK) opened up over 2% but narrowed to +0.53% at the midday close. Meituan (03690.HK) was down over 6% at the half-day mark; 00100.HK fell nearly 2%, and 00285.HK and 09626.HK each dropped more than 1%."
+    },
+    {
+      "id": "5056704",
+      "time": "2026-08-25 12:08:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化化肥：上半年股東應占溢利為人民幣11.78億元 同比增長6.7%】中化化肥港交所公告，上半年營業額為人民幣162.81億元，同比增長10.64%；上半年股東應占溢利為人民幣11.78億元，同比增長6.7%；每股基本盈利人民幣0.1677元，同比增長6.7%。董事會建議不宣派中期股息。"
+    },
+    {
+      "id": "5056703",
+      "time": "2026-08-25 12:07:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "IG市場分析師Tony Sycamore：展望未來，我們預計黃金回撥時將獲得買盤的強力支撐。"
+    },
+    {
+      "id": "mkt:01a03719-b05a-7aab-9106-0b453e70800e",
+      "time": "2026-08-25 12:07:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "【AUD near 11-week high as RBA minutes strengthen rate-hike odds】AUD traded near an 11-week high on Tuesday after RBA minutes from the August meeting showed policymakers closer to a rate increase than markets had expected. The minutes said several members judged tightening necessary given upside inflation risks but chose to hold while awaiting further data; they noted employment, inflation and growth data would be available by the next meeting, keeping a rate hike an option. Markets place only a 14% probability on a 25bp increase from the current 4.35% cash rate at the next meeting, but a 68% chance of a hike in December. RBA officials reiterated that inflation risks remain skewed to the upside and rates could be raised again if inflation does not fall as expected."
+    },
+    {
+      "id": "mkt:01a03718-10cc-7aab-9106-0079d8cca6e6",
+      "time": "2026-08-25 12:05:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jacobs, head of markets at the Reserve Bank of Australia, said the move to abundant reserves entails shifting from a system in which the central bank sets reserve quantities to one in which the banking system determines them."
+    },
+    {
+      "id": "5056701",
+      "time": "2026-08-25 12:05:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳電股份：子公司已有壓縮空氣儲能專案在手執行並實現產品供貨】佳電股份(000922) 在互動平臺表示，目前儲能技術路線涵蓋飛輪儲能、壓縮空氣儲能、重力儲能、抽水蓄能等多種型別，公司控股子公司哈電動裝已有壓縮空氣儲能專案在手執行並實現產品供貨，重力儲能為哈電動裝在研專案。"
+    },
+    {
+      "id": "5056700",
+      "time": "2026-08-25 12:05:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【QVeris MCP登陸超算網際網路】近日，QVeris 官方託管的遠端 MCP 服務 QVeris MCP 正式登陸國家超算網際網路應用商城，面向企業 AI 開發者和科研團隊開放使用。這款企業級 AI Agent 基礎設施，正透過標準化的“能力路由網路”，打破應用與工具的壁壘，讓智慧體從“只會聊天”進化為“真正能幹活”。"
+    },
+    {
+      "id": "mkt:01a03717-4bec-7aab-9105-f8dbf6661484",
+      "time": "2026-08-25 12:04:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Reserve Bank of Australia said that as reserves become more demand-dependent, active liquidity management will become increasingly important for financial institutions."
+    },
+    {
+      "id": "5056699",
+      "time": "2026-08-25 12:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利在寧波成立閃聚電池公司 註冊資本5000萬元】企查查APP顯示，近日，寧波閃聚電池有限公司成立，法定代表人為任向飛，註冊資本為5000萬元，經營範圍包含：電池製造；電池零配件生產；電力設施器材製造；電力電子元器件製造；電動機制造等。企查查股權穿透顯示，該公司由吉利旗下浙江閃聚電池有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a03716-da52-7aab-9105-f4dee213bb2b",
+      "time": "2026-08-25 12:03:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reports say the Reserve Bank of India is selling dollars to support the Indian rupee."
+    },
+    {
+      "id": "mkt:01a03716-6242-7aab-9105-ef7d636fb4e8",
+      "time": "2026-08-25 12:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea to cut government bond issuance in September】Bond market sources said South Korea's Ministry of Economy and Finance plans to reduce government bond issuance in September. Ministry officials told a Monday primary dealers meeting total bond supply will be below August levels and 30-year issuance will be trimmed. Market participants expect the competitive tender at 16.5-17.0 tln won, with 30-year supply around 2.5 tln won."
+    },
+    {
+      "id": "5056698",
+      "time": "2026-08-25 12:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "KKR收購日本領先美妝平臺CI Flavors。"
+    },
+    {
+      "id": "mkt:01a03715-db11-7aab-9105-e4c2b1147ced",
+      "time": "2026-08-25 12:02:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea will cut government bond issuance next month, media reported."
+    },
+    {
+      "id": "5056697",
+      "time": "2026-08-25 12:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行雅各布斯：隨著儲備越來越受需求驅動，主動流動性管理對金融機構而言將愈發重要。"
+    },
+    {
+      "id": "5056696",
+      "time": "2026-08-25 12:02:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通放寬針對近期上市公司員工及早期投資者所持股票抵押貸款的稽核要求。"
+    },
+    {
+      "id": "5056695",
+      "time": "2026-08-25 12:02:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光力科技：正在快速推動刀片耗材的國內產能爬坡】光力科技(300480)在互動平臺表示，公司擁有半導體封測裝備領域精密劃切量產裝置、核心零部件（空氣主軸等）和耗材（刀片等）技術與產品，致力於為國內外封測廠商和IDM客戶提供劃切、研磨領域的整體解決方案。子公司ADT在軟刀領域具有數十年的技術迭代和應用積累，多年來一直在為包括頭部封測企業在內的全球客戶提供刀片。同時公司正在快速推動刀片耗材的國內產能爬坡，目前公司生產的國產化軟刀已實現小批次銷售，國產化硬刀已進入客戶端驗證；鐳射開槽和鐳射隱切裝置應用於半導體後道封裝工序的特定劃切場景，公司鐳射開槽機已在客戶端驗證，鐳射隱切機已試切多批客戶樣片，公司將全力加快推進產品驗證儘快形成銷售訂單。"
+    },
+    {
+      "id": "mkt:01a03715-7485-7aab-9105-d9672592617b",
+      "time": "2026-08-25 12:02:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA markets head Jacobs said the aim is to build a system that can flexibly supply the banking system with whatever amounts are required while keeping the cash rate close to the Board’s target."
+    },
+    {
+      "id": "5056694",
+      "time": "2026-08-25 12:02:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲煉廠9月美油採購量近乎翻倍，加劇美國本土燃油供給壓力】亞洲煉油商9月美國原油採購量有望較上月近乎翻倍。在美國國內汽油零售價已處於歷史高位的背景下，此舉或將擠壓美國本土燃油生產商的原料供給。船舶與大宗商品追蹤機構Kpler、Vortexa以及Sparta Commodities的資料顯示，下月美國原油對亞洲出口將顯著攀升。交易商估算，9月裝船發往亞洲的美國原油總交易量超4000萬桶，而8月預期為2200萬桶。阿布扎比穆爾班原油等中東競爭性油種價格大幅上漲，使得美國原油供應的價格優勢凸顯，帶動本次採購量激增。"
+    },
+    {
+      "id": "5056693",
+      "time": "2026-08-25 12:01:46",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行市場主管雅各布斯：目標是建立一個能夠靈活滿足銀行體系任何數量需求的系統，同時將現金利率維持在董事會目標附近。"
+    },
+    {
+      "id": "5056692",
+      "time": "2026-08-25 12:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.25%，恒生科技指數跌0.74%】8月25日，港股午間收盤，恒生指數跌0.25%，恒生科技指數跌0.74%。"
+    },
     {
       "id": "mkt:01a03714-083b-7aab-9105-d1a1e65ce9e6",
       "time": "2026-08-25 12:00:54",

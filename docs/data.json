@@ -1,7 +1,185 @@
 {
-  "updated": "2026-08-25 12:02:23",
-  "count": 15948,
+  "updated": "2026-08-25 12:10:22",
+  "count": 15955,
   "items": [
+    {
+      "id": "mkt:01a0371b-4c41-7aab-9106-173b0428a46c",
+      "time": "2026-08-25 12:08:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "02268.HK",
+        "Impact bullish",
+        "09988.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.25%, biotech sector strengthens】Hong Kong shares opened higher then faded; by midday the Hang Seng Index was down 0.25% and the Hang Seng Tech Index down 0.75%. Biotech names led gains early—drug stocks including 02268.HK and 01952.HK rose over 10%, while 02126.HK and 02269.HK gained more than 4%. Auto names tumbled after results: 09868.HK fell 9.73% and 09863.HK dropped 7.25% by midday. Alibaba (09988.HK) opened up over 2% but narrowed to +0.53% at the midday close. Meituan (03690.HK) was down over 6% at the half-day mark; 00100.HK fell nearly 2%, and 00285.HK and 09626.HK each dropped more than 1%."
+    },
+    {
+      "id": "5056704",
+      "time": "2026-08-25 12:08:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化化肥：上半年股東應占溢利為人民幣11.78億元 同比增長6.7%】中化化肥港交所公告，上半年營業額為人民幣162.81億元，同比增長10.64%；上半年股東應占溢利為人民幣11.78億元，同比增長6.7%；每股基本盈利人民幣0.1677元，同比增長6.7%。董事會建議不宣派中期股息。"
+    },
+    {
+      "id": "5056703",
+      "time": "2026-08-25 12:07:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "IG市場分析師Tony Sycamore：展望未來，我們預計黃金回撥時將獲得買盤的強力支撐。"
+    },
+    {
+      "id": "mkt:01a03719-b05a-7aab-9106-0b453e70800e",
+      "time": "2026-08-25 12:07:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "【AUD near 11-week high as RBA minutes strengthen rate-hike odds】AUD traded near an 11-week high on Tuesday after RBA minutes from the August meeting showed policymakers closer to a rate increase than markets had expected. The minutes said several members judged tightening necessary given upside inflation risks but chose to hold while awaiting further data; they noted employment, inflation and growth data would be available by the next meeting, keeping a rate hike an option. Markets place only a 14% probability on a 25bp increase from the current 4.35% cash rate at the next meeting, but a 68% chance of a hike in December. RBA officials reiterated that inflation risks remain skewed to the upside and rates could be raised again if inflation does not fall as expected."
+    },
+    {
+      "id": "mkt:01a03718-10cc-7aab-9106-0079d8cca6e6",
+      "time": "2026-08-25 12:05:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jacobs, head of markets at the Reserve Bank of Australia, said the move to abundant reserves entails shifting from a system in which the central bank sets reserve quantities to one in which the banking system determines them."
+    },
+    {
+      "id": "5056701",
+      "time": "2026-08-25 12:05:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳電股份：子公司已有壓縮空氣儲能專案在手執行並實現產品供貨】佳電股份(000922) 在互動平臺表示，目前儲能技術路線涵蓋飛輪儲能、壓縮空氣儲能、重力儲能、抽水蓄能等多種型別，公司控股子公司哈電動裝已有壓縮空氣儲能專案在手執行並實現產品供貨，重力儲能為哈電動裝在研專案。"
+    },
+    {
+      "id": "5056700",
+      "time": "2026-08-25 12:05:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【QVeris MCP登陸超算網際網路】近日，QVeris 官方託管的遠端 MCP 服務 QVeris MCP 正式登陸國家超算網際網路應用商城，面向企業 AI 開發者和科研團隊開放使用。這款企業級 AI Agent 基礎設施，正透過標準化的“能力路由網路”，打破應用與工具的壁壘，讓智慧體從“只會聊天”進化為“真正能幹活”。"
+    },
+    {
+      "id": "mkt:01a03717-4bec-7aab-9105-f8dbf6661484",
+      "time": "2026-08-25 12:04:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Reserve Bank of Australia said that as reserves become more demand-dependent, active liquidity management will become increasingly important for financial institutions."
+    },
+    {
+      "id": "5056699",
+      "time": "2026-08-25 12:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利在寧波成立閃聚電池公司 註冊資本5000萬元】企查查APP顯示，近日，寧波閃聚電池有限公司成立，法定代表人為任向飛，註冊資本為5000萬元，經營範圍包含：電池製造；電池零配件生產；電力設施器材製造；電力電子元器件製造；電動機制造等。企查查股權穿透顯示，該公司由吉利旗下浙江閃聚電池有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a03716-da52-7aab-9105-f4dee213bb2b",
+      "time": "2026-08-25 12:03:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reports say the Reserve Bank of India is selling dollars to support the Indian rupee."
+    },
+    {
+      "id": "mkt:01a03716-6242-7aab-9105-ef7d636fb4e8",
+      "time": "2026-08-25 12:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea to cut government bond issuance in September】Bond market sources said South Korea's Ministry of Economy and Finance plans to reduce government bond issuance in September. Ministry officials told a Monday primary dealers meeting total bond supply will be below August levels and 30-year issuance will be trimmed. Market participants expect the competitive tender at 16.5-17.0 tln won, with 30-year supply around 2.5 tln won."
+    },
+    {
+      "id": "5056698",
+      "time": "2026-08-25 12:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "KKR收購日本領先美妝平臺CI Flavors。"
+    },
+    {
+      "id": "mkt:01a03715-db11-7aab-9105-e4c2b1147ced",
+      "time": "2026-08-25 12:02:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea will cut government bond issuance next month, media reported."
+    },
+    {
+      "id": "5056697",
+      "time": "2026-08-25 12:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行雅各布斯：隨著儲備越來越受需求驅動，主動流動性管理對金融機構而言將愈發重要。"
+    },
+    {
+      "id": "5056696",
+      "time": "2026-08-25 12:02:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通放寬針對近期上市公司員工及早期投資者所持股票抵押貸款的稽核要求。"
+    },
+    {
+      "id": "5056695",
+      "time": "2026-08-25 12:02:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光力科技：正在快速推動刀片耗材的國內產能爬坡】光力科技(300480)在互動平臺表示，公司擁有半導體封測裝備領域精密劃切量產裝置、核心零部件（空氣主軸等）和耗材（刀片等）技術與產品，致力於為國內外封測廠商和IDM客戶提供劃切、研磨領域的整體解決方案。子公司ADT在軟刀領域具有數十年的技術迭代和應用積累，多年來一直在為包括頭部封測企業在內的全球客戶提供刀片。同時公司正在快速推動刀片耗材的國內產能爬坡，目前公司生產的國產化軟刀已實現小批次銷售，國產化硬刀已進入客戶端驗證；鐳射開槽和鐳射隱切裝置應用於半導體後道封裝工序的特定劃切場景，公司鐳射開槽機已在客戶端驗證，鐳射隱切機已試切多批客戶樣片，公司將全力加快推進產品驗證儘快形成銷售訂單。"
+    },
+    {
+      "id": "mkt:01a03715-7485-7aab-9105-d9672592617b",
+      "time": "2026-08-25 12:02:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA markets head Jacobs said the aim is to build a system that can flexibly supply the banking system with whatever amounts are required while keeping the cash rate close to the Board’s target."
+    },
+    {
+      "id": "5056694",
+      "time": "2026-08-25 12:02:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲煉廠9月美油採購量近乎翻倍，加劇美國本土燃油供給壓力】亞洲煉油商9月美國原油採購量有望較上月近乎翻倍。在美國國內汽油零售價已處於歷史高位的背景下，此舉或將擠壓美國本土燃油生產商的原料供給。船舶與大宗商品追蹤機構Kpler、Vortexa以及Sparta Commodities的資料顯示，下月美國原油對亞洲出口將顯著攀升。交易商估算，9月裝船發往亞洲的美國原油總交易量超4000萬桶，而8月預期為2200萬桶。阿布扎比穆爾班原油等中東競爭性油種價格大幅上漲，使得美國原油供應的價格優勢凸顯，帶動本次採購量激增。"
+    },
+    {
+      "id": "5056693",
+      "time": "2026-08-25 12:01:46",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行市場主管雅各布斯：目標是建立一個能夠靈活滿足銀行體系任何數量需求的系統，同時將現金利率維持在董事會目標附近。"
+    },
+    {
+      "id": "5056692",
+      "time": "2026-08-25 12:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.25%，恒生科技指數跌0.74%】8月25日，港股午間收盤，恒生指數跌0.25%，恒生科技指數跌0.74%。"
+    },
     {
       "id": "mkt:01a03714-083b-7aab-9105-d1a1e65ce9e6",
       "time": "2026-08-25 12:00:54",
@@ -144452,140 +144630,6 @@
         "Treasury Yields"
       ],
       "text": "Japan's 5-year government bond yield fell 1bp to 2.15%."
-    },
-    {
-      "id": "mkt:01a0130f-cbbd-7aab-906e-dcaa826b0212",
-      "time": "2026-08-18 12:09:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Libya seeks up to $40 bln to develop oil and gas, aims to lift output to 2.0 mln bpd by 2030】Libya's National Oil Corporation says it needs about $30–40 bln to develop oil and gas resources and regain a leading role in global crude production, targeting output growth from roughly 1.4 mln bpd to 2.0 mln bpd by 2030. NOC chairman Masoud Suleman said more than 60 discovered fields remain undeveloped and that funding shortages are delaying projects. According to the EIA, Libya holds Africa's largest proved oil reserves. International majors including Eni, TotalEnergies, Chevron and ConocoPhillips operate in Libya but investment progress has been slow."
-    },
-    {
-      "id": "mkt:01a0130f-2447-7aab-906e-d0a64aa6706d",
-      "time": "2026-08-18 12:09:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.O",
-        "Impact bullish"
-      ],
-      "text": "【Alibaba Cloud opens third South Korea data centre, launches Agentic AI services】Alibaba Cloud opened its third South Korea data centre and simultaneously launched its Agentic AI service suite. Gwangju-based AI firm Gendive integrated Alibaba Cloud video-generation models Wan and HappyHorse into its Agentic WorkOS product DevDive to enable low-code/no-code document analysis and visual/multimedia content-generation workflows. Naver Z’s Zepeto is using Alibaba Cloud infrastructure to support real-time 3D avatar generation and immersive interactions across Asian markets."
-    },
-    {
-      "id": "te:markets:575990",
-      "time": "2026-08-18 12:09:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Falls on Profit-Taking — Copper futures fell to around $6.55 per pound on Tuesday, hitting a two-week low as investors locked in profits after the metal surged to record highs earlier this month. The broader metals market also remained under pressure from rising oil prices, which kept inflationary risks and interest rate concerns in focus. The moves came as prospects for a new agreement between the US and Iran dimmed after President Donald Trump said he was not interested in extending the interim peace deal. Meanwhile, signs of tightening global copper supply continued to provide a floor for prices, as the metal keeps flowing to the US and China while becoming increasingly scarce elsewhere. Top producer Chile also expects copper production to fall 2.6% this year amid persistent setbacks at mines and development projects."
-    },
-    {
-      "id": "mkt:01a0130e-ead1-7aab-906e-c8d73edd154f",
-      "time": "2026-08-18 12:08:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped below $4,390/oz, down 0.60% intraday."
-    },
-    {
-      "id": "5045205",
-      "time": "2026-08-18 12:08:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【預告：交通運輸部定於8月20日就“人工智慧+交通運輸”典型應用場景創新行動舉行專題新聞釋出會】交通運輸部定於2026年8月20日（週四）上午10時在部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。"
-    },
-    {
-      "id": "mkt:01a0130e-4e20-7aab-906e-c60ce7d6700c",
-      "time": "2026-08-18 12:08:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Preview: Ministry of Transport to hold Aug. 20 press briefing on \"AI+transport\" application scenarios initiative】China's Ministry of Transport will hold a press conference at 10:00 a.m. on August 20, 2026, at the ministry to outline its \"AI+transport\" typical application scenarios innovation action and answer questions."
-    },
-    {
-      "id": "5045204",
-      "time": "2026-08-18 12:07:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【企微CLI、MCP全面開放，WorkBuddy、DeepSeek等均可接入】記者今日從騰訊方面獲悉，企業微信全面升級CLI與MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等主流AI Agent均可直接接入企業微信呼叫企微能力完成任務，企業也可基於開放介面接入自建Agent。此次開放升級，面向所有規模的企業全面開放，不再受企業人數、資質等門檻限制，覆蓋文件、表格、郵件、會議、日程、通訊錄等十個能力模組。 (財聯社)"
-    },
-    {
-      "id": "5045203",
-      "time": "2026-08-18 12:06:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【券商培訓大綱迎首次大調整：紀法知識納入必修 新增財富管理、國際化多項內容】記者瞭解到，中證協近日就《證券公司從業人員業務培訓大綱》向行業徵求意見。本次修訂系2022年版大綱釋出以來首次系統性更新，重點圍繞課程分類體系重構、紀法知識擴容、金融\"五篇大文章\"專題增設及監管規則更新四大方向調整，進一步強化從業人員合規底線與專業服務能力。本次大綱新增五大行業發展專題，旨在提升行業服務金融\"五篇大文章\"能力；更新錄入資本市場修訂核心內容包括：紀法知識首次單獨納入通識必修內容，成為突出亮點；規則\"立改廢釋\"成果，納入新\"國九條\"、深化上市公司併購重組市場改革意見、科創板改革八條措施等近年重要監管檔案，並補充財富管理轉型、國際化發展等行業轉型實踐經驗與路徑探索內容。"
-    },
-    {
-      "id": "mkt:01a0130c-6135-7aab-906e-ba94e488592d",
-      "time": "2026-08-18 12:06:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Hong Kong midday: Hang Seng Tech down nearly 2%; Zhipu off >16%】Hong Kong stocks opened lower: Hang Seng fell 0.65% to 25,287.25 and the Hang Seng Tech Index dropped 1.99% to 4,686.98. Large-model/AI concept names and PCB plays led declines while planting/agriculture and innovative drug stocks outperformed. Post-results winners included Chow Sang Sang (00116.HK) +16%, GenScript Biotech (01548.HK) +7.6%, WuXi Biologics (02269.HK) +5% and Shandong Molong (00568.HK) +4%. Heavy losers: Zhipu (02513.HK) down over 16%—shares touched HK$1,000 intraday; MINIMAX-W (00100.HK) -12%, Xunce (03317.HK) -8%, Tianshu Zhixin (09903.HK) -7.7%, Kingboard Laminates (01888.HK) -7%, Horizon Robotics (09660.HK), Shenghong Technology (02476.HK) and Lanqi Technology (06809.HK) down more than 6%, SenseTime (00020.HK) -6% and Kingboard Group (00148.HK) down over 5%."
-    },
-    {
-      "id": "5045202",
-      "time": "2026-08-18 12:05:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司考慮恢復特許經營協議以吸引資金。"
-    },
-    {
-      "id": "5045201",
-      "time": "2026-08-18 12:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司主席：利比亞需要400億美元用於石油資源開發。"
-    },
-    {
-      "id": "mkt:01a01309-f241-7aab-906e-b3829a2f0c71",
-      "time": "2026-08-18 12:03:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Financial Times reports Libya is seeking up to $40 bln in funding to develop oil resources."
-    },
-    {
-      "id": "mkt:01a01309-9fc5-7aab-906e-af1b73e78a80",
-      "time": "2026-08-18 12:03:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Japan five-year bond auction demand highest since June 2025】Demand at Tuesday's five-year JGB auction was the strongest since June 2025 as higher yields attracted buyers. The bid-cover ratio was 4.15 versus 3.43 at the prior auction and a 12-month average of 3.34. The tail (average price minus lowest accepted price) tightened to 0.02 from 0.03 a month earlier. JGB yields have risen in recent weeks amid reports the TAKAICHI-led government supports near-term tightening by the BANK OF JAPAN; overnight index swaps imply a 75% chance of a BANK OF JAPAN hike before September and fully price an October move. The rise in yields reflects weakening global confidence in bonds, with investors demanding greater compensation for duration risk. 30-year US Treasury yields climbed to near 20-year highs on concerns about higher government spending, heavy long-term issuance and persistent inflation."
     }
   ]
 }
