@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-26 02:52:01_
-_本檔包含 3145 則快訊，約 653343 字_
+_更新時間：2026-08-26 03:41:25_
+_本檔包含 3167 則快訊，約 654274 字_
+
+---
+
+### 2026-08-26 03:40:03  #市場 #國際
+
+【美國10年期國債收益率跌超6個基點】週二（8月25日）紐約尾盤，美國10年期國債收益率跌6.14個基點，報4.6347%，整體持續走低。兩年期美債收益率跌4.05個基點，報4.1911%；30年期美債收益率跌5.53個基點，報5.1692%。2/10年期美債收益率利差跌1.668個基點，報+44.149個基點。10年期通脹保值國債（TIPS）收益率跌5.24個基點，至2.3127%；兩年期TIPS收益率跌3.27個基點，至1.8508%；30年期TIPS收益率跌5.04個基點，至2.9314%。
+
+---
+
+### 2026-08-26 03:36:51  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+WTI crude fell $0.30 intraday to $81.60/bbl; Brent slipped $0.20 to $87.04/bbl.
+
+---
+
+### 2026-08-26 03:35:33  #國際
+
+【美國亞利桑那銅礦專案獲批引發訴訟，原告質疑聯邦審查程式】兩個環保組織和一個原住民部落在訴狀中稱，美國聯邦政府在批准該專案之前，未與當地部落進行協商，也未充分評估該亞利桑那銅礦專案對周邊野生動物的威脅。訴狀稱，美國土地管理局違反了聯邦法律，未就銅溪專案（Copper Creek Project）對受保護的墨西哥斑點鴞的威脅與美國魚類及野生動物管理局進行協商，也未充分評估該專案對黃嘴鵑的危害。
+
+---
+
+### 2026-08-26 03:32:44  #MKT News #Important #WTI #Impact bearish #Brent #DXY
+
+RIA, citing Iranian and Pakistani sources, reported that Tehran and Washington have agreed to a ceasefire.
+
+---
+
+### 2026-08-26 03:29:48  #央行 #國際
+
+【美國民主黨議員對沃什推動減少議息會議次數表示關切】一批民主黨議員致信美聯儲主席凱文·沃什，對央行年度政策會議日程的擬議變更表示關切。美聯儲7月政策會議紀要顯示，沃什提出了將委員會年度政策會議次數從8次減少到6次的想法。議員們就這一提議向沃什提出7個問題，並要求他在9月2日前作出回應。由參議員Ruben Gallego、Andy Kim、Chris Van Hollen、Angela Alsobrooks、Elizabeth Warren、Catherine Cortez Masto和Tina Smith聯署的信函稱：“我們擔心，減少會議次數將削弱委員會應對快速變化經濟形勢的能力，也相當於單方面改變美聯儲與市場及美國公眾溝通的方式”。
+
+---
+
+### 2026-08-26 03:29:13  #市場
+
+【國際油價25日顯著下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌2.65美元，收於每桶82.36美元，跌幅為3.12%；10月交貨的倫敦布倫特原油期貨價格下跌3.59美元，收於每桶88.58美元，跌幅為3.89%。
+
+---
+
+### 2026-08-26 03:29:11  #MKT News
+
+【International oil prices fell significantly on the 25th】On the 25th close, NYMEX October light sweet crude futures fell $2.65 to $82.36/bbl, down 3.12%. London Brent October futures fell $3.59 to $88.58/bbl, down 3.89%.
+
+---
+
+### 2026-08-26 03:24:56  #MKT News
+
+【Sources: ECB plans September rate rise but not to signal further tightening】Sources said ECB policymakers are prepared to raise the policy rate at the September meeting, lifting it from 2.25% to 2.50% to offset economic fallout from the Iran conflict, but have no intention of signalling further tightening beyond September. Euro area inflation is near 3%, the conflict persists and growth shows resilience; the September hike is already built into the ECB’s June economic projections and is aimed at avoiding a repeat of the 2022 energy-driven inflation surge. Long-term inflation expectations remain anchored near the 2% target. Markets currently price one to two additional ECB hikes as possible.
+
+---
+
+### 2026-08-26 03:22:46  #MKT News
+
+A U.S. judge said the Postal Service's final rule restricting mail-in voting violated a court order but declined to enjoin it.
+
+---
+
+### 2026-08-26 03:22:20  #國際
+
+美國法官表示，美國郵政署釋出限制郵寄投票的最終規定，此舉違反法院命令，但法官不會採取措施阻止該規定生效。
+
+---
+
+### 2026-08-26 03:20:40  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Sources say ECB policymakers are prepared to raise rates in September to curb spillovers from the Iran war, but they appear reluctant to signal further tightening.
+
+---
+
+### 2026-08-26 03:20:05  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【Dollar index down 0.09% on 25th】The dollar index, which measures the US dollar against six major currencies, fell 0.09% to 98.915 at the New York close on the 25th. EURUSD 1.1674, up from 1.1663; GBPUSD 1.3646, up from 1.3631; USDJPY 159.22, up from 159.19; USDCHF 0.8020, down from 0.8026; USDCAD 1.3830, down from 1.3850; USDSEK 9.4659, down from 9.4973.
+
+---
+
+### 2026-08-26 03:20:04  #央行 #國際
+
+市場訊息：歐洲央行政策制定者無意釋放進一步收緊貨幣政策的訊號。
+
+---
+
+### 2026-08-26 03:19:52  #市場
+
+【美元指數25日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.09%，在匯市尾市收於98.915。截至紐約匯市尾市，1歐元兌換1.1674美元，高於前一交易日的1.1663美元；1英鎊兌換1.3646美元，高於前一交易日的1.3631美元。1美元兌換159.22日元，高於前一交易日的159.19日元；1美元兌換0.8020瑞士法郎，低於前一交易日的0.8026瑞士法郎；1美元兌換1.3830加元，低於前一交易日的1.3850加元；1美元兌換9.4659瑞典克朗，低於前一交易日的9.4973瑞典克朗。
+
+---
+
+### 2026-08-26 03:19:30  #央行 #國際
+
+訊息人士：歐洲央行政策制定者準備 9 月加息，以遏制伊朗衝突帶來的連鎖負面影響。
+
+---
+
+### 2026-08-26 03:18:53  #MKT News #Market Themes #AI Revolution
+
+Wall Street Journal reports OpenAI's head of data centers has left.
+
+---
+
+### 2026-08-26 03:16:41  #其他
+
+市場訊息：OpenAI資料中心主管Chris Malone已經離職。
+
+---
+
+### 2026-08-26 03:11:18  #MKT News #WTI #Impact bearish #Brent
+
+Iran's foreign minister said the proposed new Strait of Hormuz corridor, joint sea-mine clearance and a future management framework constitute a typical example.
+
+---
+
+### 2026-08-26 03:10:45  #市場
+
+【芝加哥玉米期貨漲1.7%，大豆漲約1.2%】週二（8月25日）紐約尾盤，彭博穀物分類指數漲1.06%，報33.5249點，整體呈現出V形反轉。CBOT玉米期貨漲1.70%，報5.2425美元/蒲式耳。CBOT小麥期貨漲0.71%，報7.0450美元/蒲式耳。CBOT大豆期貨漲1.18%，報12.3825美元/蒲式耳，豆粕期貨漲0.30%，豆油期貨漲0.64%。CBOT瘦肉豬期貨跌0.86%，活牛期貨跌1.30%，飼牛期貨跌1.45%。
+
+---
+
+### 2026-08-26 03:10:20  #MKT News
+
+Iran's foreign minister Araghchi said he emphasized regional solutions in talks with Pakistan and Oman.
+
+---
+
+### 2026-08-26 03:09:59  #國際
+
+伊朗外交部長：擬議的新通道框架、聯合排雷行動以及霍爾木茲海峽未來管理模式，就是典型例證。
+
+---
+
+### 2026-08-26 03:09:50  #MKT News
+
+Iranian foreign minister Araghchi said Iran is committed to preserving peace and stability, in line with its firm diplomatic posture toward neighboring countries.
+
+---
+
+### 2026-08-26 03:09:35  #國際
+
+伊朗外交部長：在同巴基斯坦與阿曼來賓的會談中，各方著重強調採取地區層面的解決方案。
+
+---
+
+### 2026-08-26 03:09:13  #國際
+
+伊朗外交部長：伊朗致力於維護地區和平與穩定，並以與鄰國開展堅定外交行動與之相呼應。
+
+---
+
+### 2026-08-26 03:08:47  #市場 #國際
+
+【“敘利亞民主力量”宣佈解散 全面整合進國家機構】敘利亞庫爾德武裝主導的“敘利亞民主力量”領導人馬茲盧姆·阿卜迪在敘總統府舉行的新聞釋出會上宣佈，解散“敘利亞民主力量”及敘庫爾德武裝所成立的自治政府，並將其全面整合進敘利亞國家機構。 (央視新聞)
+
+---
+
+### 2026-08-26 03:07:24  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Lockheed Martin Stock Price Hits 4-week Low — Lockheed Martin shares decreased to 556.51 USD, the lowest since July 2026. Over the past 4 weeks, Lockheed Martin lost 4.03%, and in the last 12 months, it increased 22.21%.
+
+---
+
+### 2026-08-26 03:07:17  #公司
+
+派拉蒙天空之舞公司承認，正在考慮多種方案，以解決針對其 1100 億美元收購華納兄弟探索公司交易提起的訴訟，其中包括對這筆交易進行結構性調整。該公司週一晚間發表宣告稱：“我們仍抱有希望，隨時準備繼續開展誠意磋商，解決各州總檢察長提起的訴訟，包括採取結構性補救措施，推動本次交易繼續推進。”
+
+---
+
+### 2026-08-26 03:06:32  #MKT News #Commodities #Energy
+
+IRNA: Iran's energy minister said the country now has more than 1,000 generating units; installed capacity has risen from about 70 GW to over 103 GW and is expected to reach 130 GW in the near term.
+
+---
+
+### 2026-08-26 03:03:01  #國際
+
+【古巴譴責美國延長對古實施經濟封鎖】古巴外交部長羅德里格斯25日譴責美國政府再次延長從1962年開始對古巴實施的《對敵貿易法》期限。羅德里格斯透過社交媒體表示：“古巴以最強烈的措辭譴責美國政府將經濟、商業和金融封鎖再延長一年，這一針對我國人民的種族滅絕政策已持續超過六十年。”他還表示，“古巴不是威脅，封鎖才是”。（央視新聞）
+
+---
+
+### 2026-08-26 03:03:01  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.38% at 25,648, trading at a 137-point premium to the cash market.
+
+---
+
+### 2026-08-26 03:02:44  #MKT News
+
+The U.S. Federal Communications Commission (FCC) said joint fundraising committees and party committees will now be allowed to purchase TV ad time at the same discounted rates available to candidates.
+
+---
+
+### 2026-08-26 03:01:54  #公司 #市場
+
+【富蘭克林鄧普頓：英偉達股東不只看漂亮業績 資本部署細節更受關注】富蘭克林鄧普頓的投資組合經理Sara Araghi表示，英偉達不能只是在財報數字上超出市場預期，還需要向投資者提供更具體的資訊，讓他們瞭解該公司準備如何部署資本，以及如何維持支出計劃。Araghi指出，英偉達未來12個月預期市盈率與該公司的營收和盈利存在明顯反差。根據資料，英偉達動態市盈率約為21倍。她認為，這個市盈率倍數反映出市場預期英偉達增長速度將放緩，儘管絕對增速仍然相當可觀。Araghi認為：“增長幅度依然非常驚人，但減速期即將到來，不幸的是市場已經在看明年的情況。”Araghi表示，英偉達能否繼續實現盈利增長非常重要，因為這將讓華爾街相信，該公司能夠產生足夠的自由現金流來支撐所需投資。她還補充稱，公司“也必須用這些現金回購股票”。在毛利率方面，Araghi表示，對於一家硬體公司而言，毛利率以“7”開頭，也就是英偉達目前約75%的水平，實屬非常罕見，因此市場會密切關注，尤其是在投入成本上升的背景下。她指出，英偉達已經透過提價來抵消記憶體成本上升的影響。據報道，基於Vera Rubin和Grace Blackwell架構的2027年初伺服器系統面向主要客戶的售價將上漲超過15%。
+
+---
+
+### 2026-08-26 03:00:37  #國際
+
+美國聯邦通訊委員會表示，聯合籌款委員會與政黨委員會可按此前僅候選人可享有的折扣價購買電視廣告播出時段。
+
+---
+
+### 2026-08-26 03:00:27  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，世紀互聯漲7.96%，BOSS直聘漲5.63%，優信漲5.26%，網易漲4.58%，小鵬汽車漲3.99%。
+
+---
+
+### 2026-08-26 03:00:03  #市場
+
+恒指期貨夜盤收漲0.42%，報25592.75點，高水81.65點。
+
+---
+
+### 2026-08-26 02:59:37  #國際
+
+伊朗能源部長：我國擁有數量眾多的發電廠，即便敵方傾盡全部武器彈藥，也無法將我們所有發電廠以及電力設施全部摧毀。
+
+---
+
+### 2026-08-26 02:58:05  #央行 #其他
+
+【IMF總裁呼籲各國應對財政風險 央行繼續專注抗通脹】國際貨幣基金組織(IMF)總裁克里斯塔利娜·格奧爾基耶娃表示，在全球經濟面臨日益增大的壓力之際，各國政府應著手應對不斷加劇的財政挑戰，央行則應繼續致力於降低通脹。“所有國家都需要解決自身財政問題，制定並公佈可信的計劃，確保債務和赤字處於可持續軌道，”格奧爾基耶娃週二在IMF華盛頓總部發表事先準備好的講話時表示。“各國央行必須高度專注於實現價格穩定的使命。”
+
+---
+
+### 2026-08-26 02:58:04  #MKT News
+
+【U.S. government says it may consider demolishing Kennedy Center if two-year renovation closure blocked】On Aug. 24 local time the Trump administration said in a court filing for the first time that if the Kennedy Center is not permitted to close for two years for renovations, it may consider demolishing the building.
+
+---
+
+### 2026-08-26 02:56:58  #MKT News #Commodities #Energy
+
+According to Iranian media Fars News, Iran's energy minister said the country has enough power plants that even if adversaries exert maximum effort they would not be able to strike them all.
+
+---
+
+### 2026-08-26 02:55:46  #市場 #國際
+
+【“敘利亞民主力量”宣佈解散】敘利亞庫爾德武裝主導的“敘利亞民主力量”領導人馬茲盧姆·阿卜迪25日在敘總統府舉行的新聞釋出會上宣佈，解散“敘利亞民主力量”及敘庫爾德武裝所成立的自治政府，並將其全面整合進敘利亞國家機構。（新華社）
+
+---
+
+### 2026-08-26 02:55:30  #MKT News
+
+【Syrian Democratic Forces announce dissolution】The Kurdish-led Syrian Democratic Forces (SDF) leader Mazloum Abdi said at a press conference at the Syrian presidential palace on the 25th that he would dissolve the SDF and the Kurdish-established autonomous administration and that they will be fully integrated into Syrian state institutions.
+
+---
+
+### 2026-08-26 02:54:54  #市場
+
+QIAGEN迅速擴大漲幅，現漲5.8%。
+
+---
+
+### 2026-08-26 02:54:23  #MKT News
+
+Al Jazeera reported Israel expelled the Dutch representative of the International Support Center in Gaza, citing 'anti-Israel actions'.
+
+---
+
+### 2026-08-26 02:53:30  #國際
+
+【美政府稱若肯尼迪中心無法獲准翻修 或考慮拆除】當地時間8月24日，特朗普政府在一份法院檔案中首次提出，如果肯尼迪中心無法獲准關閉兩年進行翻修，未來可能考慮拆除該建築。
 
 ---
 
@@ -18790,152 +19054,5 @@ US Futures Steady Ahead of Fresh Earnings — US stock futures were little chang
 ### 2026-08-25 07:22:27  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Holds Decline as US Tightens Iran Sanctions — Brent crude traded near $92 per barrel on Tuesday after falling more than 2% in the previous session, as the US intensified economic pressure on Iran and its trading partners in an effort to force the reopening of the Strait of Hormuz. Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting countries that continue doing business with the Islamic Republic, while President Donald Trump said those nations would be given a specific timeline to sever ties with Tehran or face unilateral US penalties. However, markets remain uncertain over whether the US measures will help accelerate or instead delay a potential resolution to the US-Iran conflict and the full reopening of Hormuz. Meanwhile, risks to energy flows in the Middle East remain elevated, with the UK Navy reporting that an oil tanker was struck and disabled near Oman, while Iran-backed Houthi militants said they had fired on a Saudi Arabian supertanker sailing through the Red Sea.
-
----
-
-### 2026-08-25 07:21:46  #公司
-
-【有色板塊關注度升溫 基金公司密集“上新”】在近期的震盪行情中，有色板塊的關注度持續升溫，公募也在加大布局力度。8月以來，已有3只有色主題基金成立，另有3只有色主題基金正在或即將發行。與此同時，更多新品還在密集上報。從資金流向看，8月以來，已有逾百億資金湧入有色主題ETF。（上海證券報）
-
----
-
-### 2026-08-25 07:21:35  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Decline as US Tightens Iran Sanctions — Crude oil traded near $85 per barrel on Tuesday after falling more than 2% in the previous session, as the US intensified economic pressure on Iran and its trading partners in an effort to force the reopening of the Strait of Hormuz. Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting countries that continue doing business with the Islamic Republic, while President Donald Trump said those nations would be given a specific timeline to sever ties with Tehran or face unilateral US penalties. However, markets remain uncertain over whether the US measures will help accelerate or instead delay a potential resolution to the US-Iran conflict and the full reopening of Hormuz. Meanwhile, risks to energy flows in the Middle East remain elevated, with the UK Navy reporting that an oil tanker was struck and disabled near Oman, while Iran-backed Houthi militants said they had fired on a Saudi Arabian supertanker sailing through the Red Sea.
-
----
-
-### 2026-08-25 07:21:27  #公司 #市場 #國際
-
-【成品油期貨價格年內大漲 煉化板塊九成公司報喜】今年以來，地緣衝突導致國際原油供應緊張，國內外成品油期貨價格集體飆升。業內人士認為，國內煉化產業有望開啟長景氣週期。 今年以來，海內外多個成品油期貨價格集體上漲。截至8月24日17時，ICE（洲際交易所）柴油年內累計上漲181.85%，NYMEX（紐約商品交易所）取暖油累計上漲163.14%，NYMEX RBOB（氧化混調型精製汽油）累計上漲97.7%。國內方面，INE（上海國際能源交易中心）低硫燃料油累計上漲95.47%，SHFE（上海期貨交易所）燃油累計上漲92.34%。 成品油價格持續上漲，根源在於中東地緣政治衝突引發的國際原油供應緊張，併疊加了全球供需格局持續偏緊因素。霍爾木茲海峽通行受阻直接切斷了主要產油區的輸出通道，導致全球石油供應在3月驟然縮減約1000萬桶/日，創下有記錄以來最嚴重的單月供應衝擊。受此影響，國際原油價格快速攀升，並傳導至下游成品油市場。（證券時報）
-
----
-
-### 2026-08-25 07:20:58  #MKT News #Hang Seng Index #Impact bullish #CSI300 #Copper
-
-【People's Daily commentary by Zhong Caiwen: advance high-quality development steadily】People's Daily commentary says macro policy should act decisively to raise effectiveness. Continue a more proactive fiscal stance and a moderately accommodative monetary policy. Treasury daily average balances were relatively large in 1H, suggesting abundant fiscal available funds; accelerate fiscal spending and use of bond proceeds to generate real output. Strengthen fiscal-run monitoring and treasury fund scheduling and safeguard basic grassroots funding. Adjust and deploy monetary policy tools as needed to keep liquidity ample, ensure smooth policy transmission and sustain low social financing costs. Use structural monetary tools to support expanded domestic demand, tech innovation and SMEs. Coordinate fiscal and financial measures to amplify demand — fiscal guidance, financial leverage and market implementation — and assess macro-policy consistency; major policy changes affecting firms should allow reasonable transition periods.
-
----
-
-### 2026-08-25 07:20:32  #公司 #市場
-
-【近30家公司主動披露在手訂單 8月以來股價顯著上漲】訂單金額是衡量企業市場拓展實力與下游需求景氣度的重要參考指標，自7月以來，主動披露今年上半年新增或截至2026年6月末訂單（合同）金額的A股公司有近30家，金額超過50億元的有藥明康德、芯原股份、金盤科技、璞泰來、理奇智慧等公司，其中藥明康德在手訂單664.3億元。（證券時報）
-
----
-
-### 2026-08-25 07:20:21  #宏觀 #市場 #國際
-
-【美國加碼回購債券難擋定價權轉移 久期風險加劇全球資產價格波動】美債市場的久期風險，已經成為當前全球資產定價的核心矛盾。所謂久期風險，是指利率上漲時，長期債券價格會大幅下跌的風險。 上週美國財政部擴大長債回購操作，並未有效壓制美債收益率，反而助推黃金、比特幣開啟 “貨幣貶值交易”。北京時間8月24日晚間，外媒報道稱，美國財政部或動用近萬億美元財政部一般賬戶(TGA)資金回購債券。 業內人士分析，即便這一回購傳聞屬實，依舊難以化解美債供給過剩的長期性矛盾。因為當前美國國債的主要買家以及市場定價權，已經轉向對估值高度敏感的私人資金。私人資金配置長債，需要獲得久期風險、通脹風險、供給超發風險的額外風險補償，這或將推動長債收益率進入更高執行區間。 此外，受益於高利率市場環境，今年以來美國、日本、歐洲市場的銀行板塊均迎來上漲行情。（證券時報）
-
----
-
-### 2026-08-25 07:19:19  #其他
-
-【經濟日報：平臺“破卷”需演算法向善】一段時間以來，迫於配送時間壓力，外賣騎手闖紅燈、逆行等危險舉動時有發生。在宣傳教育之外，如何讓騎手從被動搶燈到自覺守法，成了留給有關部門、平臺企業等多方的一個課題。近日，平臺經濟“破卷向善”第二次協商對話在北京召開。會上，3家外賣平臺企業宣佈將集中在北京落地“紅燈停表”，騎手等紅燈的時長在考核時間中順延。也就是說，騎手在等紅燈過程中，平臺將對配送時長進行“自動補時”，等紅燈多久，就補時多久。這意味著，騎手不必再為搶幾秒鐘而冒險闖紅燈了。
-
----
-
-### 2026-08-25 07:18:47  #其他
-
-【地緣政治衝擊供應鏈安全 MLCC離型膜國產替代加速】離型膜是MLCC（多層陶瓷電容器）的必備耗材，我國的高階離型膜長期依賴進口。面對巨大的國產替代商機，國內產業資本正加速湧入。今年以來，AI伺服器等下游產業的快速發展，持續拉動MLCC元器件市場擴容，進而引爆上游離型膜需求，一場產業鏈的擴產競速，正在全面上演。 記者從產業鏈上瞭解到，國產MLCC離型膜廠家正緊抓市場契機，積極推進國產替代。同時，面對需求的結構性分化，廠家迅速調整產品結構，行業呈現出高階化、一體化等發展趨勢。（證券時報）
-
----
-
-### 2026-08-25 07:18:38  #MKT News #Market Regions #Europe & UK
-
-Market sources: UK Prime Minister Burnham plans a US visit next month to lobby Trump to support Ukraine.
-
----
-
-### 2026-08-25 07:18:25  #公司 #市場
-
-西部黃金資源公司（Western Gold Resources）公告稱，維盧納礦業公司（Wiluna Mining Corp）已決定推遲其選礦廠的第三方代加工業務。
-
----
-
-### 2026-08-25 07:17:42  #市場 #國際
-
-【經濟日報：發展未來產業要有新打法】國家統計局的監測資料顯示，2026年上半年，與人工智慧相關的積體電路製造、智慧車載裝置製造等行業增加值均保持在30%以上的高速增長。以具身智慧、6G等為代表的未來產業正成為投資增長和創新發展的重要引擎。未來產業是構建現代化產業體系的關鍵，是培育和發展新質生產力的主陣地，發展態勢喜人，形勢也逼人。一方面，國際競爭從實驗室技術比拼進入市場搶佔階段。例如，在量子科技領域，美國最新計劃在2028年前建成首臺用於科學研究的量子計算機；在腦機介面領域，美國一款幫助患者恢復部分視力的視網膜晶片已獲批在30個歐洲國家銷售。另一方面，國內新舊動能轉換亟待未來產業“挑大樑”。我國已進入高質量發展階段，傳統產業原有發展模式的增長動能逐漸減弱，產業轉型升級處於重要關口。發展未來產業能夠開啟增長新空間、賦能傳統產業升級。
-
----
-
-### 2026-08-25 07:17:28  #其他
-
-【經濟日報：別讓“美顏”資料拉低就業溫度】就業是民生之本，資料是決策之基。然而近年來，“被就業”、虛假簽約、服務空轉等亂象屢禁不止。有的畢業生在不知情中被登記為“靈活就業”；有的被記錄為崗位推薦、技能培訓，實則從未收到一個電話、一條簡訊；更有基層單位將“一人一策”簡化為“一填了之”。這些“紙面功夫”不僅讓畢業生錯失就業機會、政策紅利，更以失真資料誤導宏觀決策，造成“數字好看、體感不佳”的現象。
-
----
-
-### 2026-08-25 07:17:08  #其他
-
-【人民日報鍾才文：推動高質量發展行穩致遠】人民日報鍾才文撰文稱，積極作為，宏觀政策要發力提效。繼續實施好更加積極的財政政策和適度寬鬆的貨幣政策。今年上半年，全國國庫日均庫款規模相對較大，反映出財政可用資金較多。要加快財政支出和債券資金使用進度，儘快形成實物工作量。強化財政執行監測和庫款排程，兜牢基層“三保”底線。要綜合運用並適時調整貨幣政策工具，保持流動性充裕，暢通貨幣政策傳導機制，促進社會融資成本低位執行。實施好結構性貨幣政策工具，加力支援擴大內需、科技創新、中小微企業等重點領域。最佳化實施財政金融協同促內需政策，形成財政引導、金融放大、市場運作的傳導鏈條。強化宏觀政策取向一致性評估，涉及企業生產經營的重大政策調整，要留出合理的過渡期。
-
----
-
-### 2026-08-25 07:16:38  #國際
-
-【英國首相計劃下月前往美國 遊說特朗普援烏】英國首相安迪·伯納姆表示，他與其他歐洲領導人計劃下月前往美國，遊說唐納德·特朗普總統，讓烏克蘭在冬季到來前獲得美國部分愛國者防空導彈庫存。伯納姆週一晚間在基輔接受採訪時說：“我期待9月前往紐約。”他指的是即將在紐約舉行的聯合國大會，這將是他就任首相以來首次訪問美國。他稱：“具體細節尚未完全敲定，但我很可能會成行，尤其是經過今天的會談之後。”“結束今日的訪問，我已經十分清楚未來幾周我需要做什麼。”伯納姆此番表態，發生在他就任首相後的首次外事訪問期間。此前他首次主持烏克蘭盟友會議，並與烏克蘭總統弗拉基米爾·澤連斯基舉行了雙邊會談。
-
----
-
-### 2026-08-25 07:16:33  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,670/oz, up 0.41% intraday.
-
----
-
-### 2026-08-25 07:15:13  #市場 #焦點
-
-紐約期金突破4730美元/盎司，日內漲0.70%。
-
----
-
-### 2026-08-25 07:15:13  #公司 #市場 #國際
-
-【供需缺口持續擴大 碳酸鋰板塊景氣上行】下游需求持續放量疊加供給端階段性收緊，碳酸鋰板塊正迎來新一輪景氣週期。8月以來，碳酸鋰期貨主力合約累計上漲超15%，8月24日盤中漲超3%。與此同時，A股鋰礦概念板塊近期持續活躍。Choice資料顯示，8月以來，融捷股份、天華新能等多隻個股累計漲幅均超過20%。
-
----
-
-### 2026-08-25 07:14:47  #市場
-
-紐約期銀日內漲1%，現報70.08美元/盎司。
-
----
-
-### 2026-08-25 07:13:14  #公司
-
-【英偉達宣佈Groq 3 LPX量產】英偉達週一宣佈，旗下Groq 3 LPX架構已經實現全面量產，標誌著公司史上最大規模收購所獲得的技術正式完成商業化落地。去年12月，英偉達斥資200億美元收購AI晶片初創企業Groq。Groq晶片交付凸顯低延遲推理的重要性。要讓智慧體實現即時響應、消除使用者端長時間等待，低延遲推理必不可少，程式碼生成場景對此需求尤其突出。英偉達稱，雲服務商可以針對這類高速token服務收取更高溢價。週三，英偉達將釋出財報。（第一財經）
-
----
-
-### 2026-08-25 07:12:12  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、推動高質量發展行穩致遠
-2、全國小麥收購量超9000萬噸
-3、截至7月底 電動汽車充電基礎設施增41.9%
-4、中國與瑞士宣佈完成自貿協定升級談判
-5、APEC中小企業部長會議將聚焦創新合作
-6、中國科大在量子物態調控領域首次實現真空漲落增強超導
-7、澳門創新主體可申請內地專利快速預審服務
-8、上半年，服務出口同比增長17.6% “中國服務”加速走向海外（經濟聚焦）
-9、上半年中國人形機器人出貨量全球佔比達百分之九十七
-10、全國建成啟用超70傢俱身智慧訓練場
-11、前7月熊貓債券累計發行近2000億元
-12、我國低空經濟氣象產品達53個
-13、海風孕育“甜麵包” 鮮果架起“萬里橋” 貝南積極打造熱帶菠蘿特色產業（第一現場）
-14、今年上半年實現增長百分之五 寮國多舉措促進經濟平穩增長
-15、北歐多國考慮重啟核電建設。
-
----
-
-### 2026-08-25 07:12:10  #宏觀 #市場 #國際
-
-【美推出 “經濟 D 日” 制裁伊朗，油價維持跌勢】油價維持跌勢，美國加大對伊朗及其貿易伙伴的經濟施壓，試圖迫使霍爾木茲海峽恢復能源運輸。西德克薩斯輕質原油（WTI）交投於每桶 85 美元附近，前一交易日跌幅超 2%；布倫特原油收盤約 92 美元。財政部長斯科特・貝森特週一推出其稱之為 “經濟諾曼底登陸日” 的行動，稱各國將被要求在明確時限內切斷與伊朗的往來，否則將面臨美方單邊制裁。受這場已進入第六個月的戰爭持續擾亂中東原油及成品油航運影響，今年原油價格累計漲幅超 50%。目前尚不清楚美國的這套計劃能否打破德黑蘭對關鍵航道霍爾木茲海峽的管控；同時該計劃也存在反噬風險。
-
----
-
-### 2026-08-25 07:12:09  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish #WTI
-
-Canadian ministers will announce a response to U.S. tariffs at 1500 GMT Tuesday (2300 Beijing time).
 
 ---

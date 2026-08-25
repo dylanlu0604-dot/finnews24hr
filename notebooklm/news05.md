@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-26 02:52:01_
-_本檔包含 3334 則快訊，約 652855 字_
+_更新時間：2026-08-26 03:41:25_
+_本檔包含 3310 則快訊，約 653264 字_
+
+---
+
+### 2026-08-20 05:30:31  #MKT News #Market Regions #Japan & APAC #8002.T #Impact bullish
+
+【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency.
+
+---
+
+### 2026-08-20 05:26:35  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment.
+
+---
+
+### 2026-08-20 05:21:35  #MKT News
+
+Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks.
+
+---
+
+### 2026-08-20 05:20:52  #公司 #其他 #國際
+
+COGNITION：有關 SPACEX 試圖收購 COGNITION 的報道不實；COGNITION 不出售，雙方並未開展談判。
+
+---
+
+### 2026-08-20 05:20:20  #國際
+
+市場訊息：伊藤忠商事進軍資料中心領域，計劃在日本建設10座資料中心。
+
+---
+
+### 2026-08-20 05:20:02  #MKT News #8001.T #Impact bullish
+
+Nikkei reports Itochu Corporation is entering the data-center sector and plans to build 10 data centers in Japan.
+
+---
+
+### 2026-08-20 05:16:47  #市場
+
+週三（8月19日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.73082元，較週二紐約尾盤漲155點，創月內新高，日內整體交投於6.7279-6.7486元區間。
+
+---
+
+### 2026-08-20 05:16:39  #市場
+
+富時中國A50指數期貨夜盤收漲0.39%。
+
+---
+
+### 2026-08-20 05:16:06  #其他
+
+虛擬貨幣持續走高，行情顯示，比特幣漲至69415.6美元，過去24小時內漲7.41%；以太坊漲至2259.59美元，過去24小時內漲18.06%。
+
+---
+
+### 2026-08-20 05:14:38  #MKT News
+
+Australia's foreign minister will summon the Israeli ambassador over Israel's decision not to pursue criminal charges in the death of an Australian aid worker.
+
+---
+
+### 2026-08-20 05:12:31  #國際
+
+澳大利亞外交部長：將就以色列決定不對遇難澳大利亞援助工作者提起刑事訴訟一事召見以色列大使 。
+
+---
+
+### 2026-08-20 05:07:29  #公司
+
+得克薩斯州州長：亞馬遜於奧斯汀新建機器人生產工廠。
+
+---
+
+### 2026-08-20 05:07:23  #市場 #焦點
+
+以太坊升破2300美元，日內漲20.00%。
+
+---
+
+### 2026-08-20 05:05:22  #國際
+
+美國食品藥品監督管理局（FDA）：截至 8 月 19 日，與墨西哥錫那羅亞州哈瓦那辣椒相關的沙門氏菌疫情已造成美國 32 個州共計 431 人感染，57 人住院。
+
+---
+
+### 2026-08-20 05:01:28  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages.
+
+---
+
+### 2026-08-20 05:00:04  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Kyiv mayor says the city is under ballistic missile attack.
+
+---
+
+### 2026-08-20 04:59:42  #國際
+
+基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！
+
+---
+
+### 2026-08-20 04:58:43  #國際
+
+【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）
+
+---
+
+### 2026-08-20 04:57:53  #市場
+
+紐約期銀日內漲5%，現報67.28美元/盎司。
+
+---
+
+### 2026-08-20 04:55:46  #Trading Economics #Economy #El Salvador #Producer Prices Change #Importance 0
+
+El Salvador Producer Price Growth Accelerates — Producer prices in El Salvador rose 3.5% year-on-year in July 2026, accelerating from a 3.2% increase in the previous month. The pickup was largely driven by higher electricity, gas, steam and air-conditioning costs (23% vs. 15.2% in June). Prices for transport and warehousing also rose sharply (8.35% vs. 8.71%), albeit at a slower pace than in June, amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices rose at a faster pace for manufacturing (3.1% vs. 2.8%), lodging and food services (2% vs. 1.9%) and real estate (1.8% vs. 1.7%). Meanwhile, producer prices continued to decline for water supply, sewerage and waste management (-0.15% vs. -0.15%) and swung to deflation in healthcare (-0.1% vs. 3.8%).
+
+---
+
+### 2026-08-20 04:54:31  #市場 #焦點
+
+紐約期銀突破67美元/盎司，日內漲4.72%。
+
+---
+
+### 2026-08-20 04:54:00  #MKT News #Commodities #Precious Metals
+
+Spot palladium was up as much as 4% intraday at $1,335.58/oz.
+
+---
+
+### 2026-08-20 04:51:44  #焦點 #國際
+
+美國擬將加拿大汽車關稅稅率由 25% 下調至 15%。美加貿易協議尚未最終敲定。
+
+---
+
+### 2026-08-20 04:51:13  #市場 #焦點
+
+以太坊升破2200美元，日內漲15.87%。
+
+---
+
+### 2026-08-20 04:50:34  #Trading Economics #Markets #commodity #Importance 0
+
+Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%.
+
+---
+
+### 2026-08-20 04:44:19  #其他
+
+哥倫比亞天然氣行業協會（NATURGAS）：預計 2026 年哥倫比亞天然氣行業投資將增長 17%，達到 10.3 億美元。
+
+---
+
+### 2026-08-20 04:43:33  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rebounds After Eleven-Day Losing Streak — The Ibovespa rose 0.9% to close at 167,830 on Wednesday, rebounding from eleven consecutive days of losses amid a stabilization in global bond yields. Yields in major economies declined after the US Treasury said it would double long-term security buybacks. Financials were mostly higher, with Itaú up 0.5%, Banco do Brasil adding 1.6% and B3 rising 0.8%. Petrobras gained 1.2% as oil futures rose for a fourth consecutive session amid fading prospects for a deal to end the conflict in the Middle East. Vale rose 0.8% amid iron ore supply concerns following failed wage negotiations between BHP and workers in Port Hedland, while CSN Mineração gained 2.2%. Meanwhile, steelmakers posted losses, with Gerdau tumbling 5.2% and CSN down 2.4%. Axia added 1.8% following its share buyback results and a buy recommendation from Itaú BBA. Embraer erased earlier gains after Itaú BBA raised its price target, closing 0.2% lower. Other notable performers included Rede D’Or (+2.6%) and Sabesp (+1%).
+
+---
+
+### 2026-08-20 04:40:45  #宏觀 #公司 #市場 #觀點 #國際
+
+【花旗稱貝森特出手令美元付出代價 建議客戶採用這些策略加以應對】花旗集團認為，美國財政部長斯科特·貝森特為壓低長期借貸成本而採取的最新舉措可能會導致美元在短期內走弱。財政部週三擴大10至30年期國債回購規模的公告導致長債收益率走低並推動美元跌至5月中以來的最低水平。花旗策略師Dirk Willer等人在研報中指出，遏制收益率的努力可能會使美元承受壓力。 “以如此方式降低利率的主要代價就是貨幣走弱，” 他們寫道。花旗建議客戶面對此舉利用美元為押注高收益新興市場貨幣融資，因後者“在當前環境下也應表現不錯”。該行此前青睞用加元和瑞士法郎作為融資貨幣。
+
+---
+
+### 2026-08-20 04:35:09  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index rose 89 points or 0.17 percent on Wednesday to close at 53433 points. Leading the gains are Merck (12.68%), Salesforce (4.80%) and Amgen (3.08%). Top losers were Caterpillar (-3.09%), Goldman Sachs (-1.78%) and Honeywell International (-1.66%).
+
+---
+
+### 2026-08-20 04:33:41  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Higher as Miners Rally — The S&P/TSX Composite Index edged 0.1% higher to close at 36,402 on Wednesday, lifted by a rally in mining stocks. Gold prices rose to their highest level since early June, tracking a rally in long-dated US Treasuries after the Treasury Department doubled its buyback of notes and bonds for the upcoming financial quarter. Major gold miners gained up to 12%, with Agnico Eagle surging 10.5%, Barrick adding 6.7% and WPM soaring 10.4%. Meanwhile, financials weighed on the index as oil prices extended gains, fueling inflation concerns. RBC shed 3.1%, TD Bank lost 3.5%, BMO fell 4.4%, CIBC retreated 3.7% and Scotiabank dropped 3.3%. Energy stocks posted losses despite higher oil prices, with Canadian Natural down 0.7% and Suncor losing 1%. Elsewhere, US President Trump paused 50% tariffs on select Canadian goods and signaled a trade deal with Canada was near. Still, reports indicated metals would remain tariffed. Industrials posted losses, with Enbridge down 2.7%.
+
+---
+
+### 2026-08-20 04:32:54  #MKT News #Important
+
+【US federal debt tops $40 trillion】US federal debt topped $40.0 trillion on Tuesday, the Treasury Department said on Wednesday. Debt rose about $3.0 trillion in the past year — the fastest annual increase outside the pandemic — as federal borrowing accelerated. The total has climbed from under $6.0 trillion at the turn of the century and has roughly doubled over the past decade. The Congressional Budget Office projects publicly held federal debt-to-GDP will exceed the post‑war peak of 106% around 2030 and reach about 120% by 2036. A senior director at the Committee for a Responsible Federal Budget said the pace is a clear signal the situation is out of control.
 
 ---
 
@@ -19759,335 +19945,5 @@ A vice president at Venezuela's state oil company said the country faces a daily
 ### 2026-08-19 03:41:58  #公司
 
 委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。
-
----
-
-### 2026-08-19 03:38:27  #國際
-
-伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。
-
----
-
-### 2026-08-19 03:37:47  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%).
-
----
-
-### 2026-08-19 03:37:21  #市場
-
-【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。
-
----
-
-### 2026-08-19 03:34:55  #MKT News #Commodities #Energy #WTI #Brent
-
-A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August.
-
----
-
-### 2026-08-19 03:34:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic.
-
----
-
-### 2026-08-19 03:33:51  #公司
-
-委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。
-
----
-
-### 2026-08-19 03:33:36  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond.
-
----
-
-### 2026-08-19 03:33:34  #國際
-
-阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。
-
----
-
-### 2026-08-19 03:33:04  #MKT News
-
-U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it.
-
----
-
-### 2026-08-19 03:32:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term.
-
----
-
-### 2026-08-19 03:31:46  #國際
-
-美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。
-
----
-
-### 2026-08-19 03:31:45  #國際
-
-美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。
-
----
-
-### 2026-08-19 03:30:43  #國際
-
-伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。
-
----
-
-### 2026-08-19 03:27:33  #國際
-
-阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。
-
----
-
-### 2026-08-19 03:27:08  #MKT News
-
-【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight.
-
----
-
-### 2026-08-19 03:27:01  #國際
-
-【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）
-
----
-
-### 2026-08-19 03:26:51  #國際
-
-市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。
-
----
-
-### 2026-08-19 03:25:46  #國際
-
-【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。
-
----
-
-### 2026-08-19 03:25:20  #MKT News
-
-Venezuelan central bank said oil-related activity rose 9.10% in Q2, while the non-oil sector expanded 5.79%.
-
----
-
-### 2026-08-19 03:24:55  #MKT News #Commodities #Energy
-
-【Venezuela industry hit by severe power outages; recovery under pressure】Manufacturers in Venezuela were without power for nearly half of working hours in Q2, the country’s largest industrial group, the Industrial Federation, said in a Tuesday survey. Firms averaged 488 working hours in the quarter, of which 214 hours lacked electricity, and reported 57 unplanned outages on average—about five per week—an 18% increase from Q1. The federation said years of underinvestment and poor maintenance in the power sector, compounded by U.S. sanctions, are constraining the industrial sector and hampering the economic recovery.
-
----
-
-### 2026-08-19 03:24:05  #央行 #其他
-
-委內瑞拉央行：二季度石油相關活動環比增長9.10%，非石油部門增長5.79%。
-
----
-
-### 2026-08-19 03:24:04  #MKT News
-
-【US states tighten data center approvals as AI-driven buildout meets regulatory pushback】Pennsylvania Governor Josh Shapiro issued an executive order tightening data center approvals: projects must obtain local government sign-off before seeking state permits, meet water‑conservation standards, assume incremental electricity costs and secure their own power supply. The order responds to a surge of projects and local community complaints. New York has moved to pause major data center environmental permits for up to one year; Texas Governor Greg Abbott, previously pro-growth, has paused some new approvals and launched a review. States cite mounting electricity, environmental and community pressures amid rapid AI investment.
-
----
-
-### 2026-08-19 03:20:50  #國際
-
-遭解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉，稱烏克蘭正面臨系統性治理危機，並抨擊戰時腐敗問題。
-
----
-
-### 2026-08-19 03:20:26  #MKT News
-
-Central Bank of Venezuela says the economy grew 7.14% YoY in Q2 2026.
-
----
-
-### 2026-08-19 03:20:03  #央行 #其他
-
-委內瑞拉央行：2026年第二季度委內瑞拉經濟同比增長7.14%。
-
----
-
-### 2026-08-19 03:19:40  #國際
-
-伊朗外交部：將禁止法國大使館工作人員進入伊朗領土，因為他們違反了外交關係公約。
-
----
-
-### 2026-08-19 03:18:02  #國際
-
-【阿聯酋稱伊朗向該國發射兩枚導彈 為5月以來首次襲擊】阿聯酋表示，兩枚彈道導彈從伊朗射向該國。隨著中東更廣泛的戰爭持續，這是自5月以來伊朗對該海灣國家發起的首次已知襲擊。阿聯酋國防部週二表示，兩枚導彈均落入海中，其中一枚落入阿聯酋領海，另一枚落在領海外。
-
----
-
-### 2026-08-19 03:17:29  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign minister: Iran will not accept a ceasefire, only an end to the war】Citing CBS, Iran foreign minister Araghchi said Iran will not accept a ceasefire during a US–Iran war and will only accept an end to the conflict. He said: We have told mediators we will not accept a ceasefire; the war must end. He added the war must end in a way that prevents it from happening again.
-
----
-
-### 2026-08-19 03:16:51  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #WTI
-
-USD/CAD briefly fell over 10 pips, now 1.3896.
-
----
-
-### 2026-08-19 03:16:15  #市場
-
-現貨鉑金價格下跌3%，至每盎司1717.90美元。
-
----
-
-### 2026-08-19 03:16:01  #其他
-
-市場資訊：OpenAI因AI代理入侵Hugging Face事件放緩模型開發。
-
----
-
-### 2026-08-19 03:16:01  #MKT News #Important #Market Themes #The Trump Trade
-
-Politico reports U.S. President Trump is weighing whether to delay imposing tariffs on Canada.
-
----
-
-### 2026-08-19 03:15:27  #宏觀 #國際
-
-【特朗普正考量是否給予加拿大關稅暫緩豁免】知情人士透露，美加之間一份旨在避免對加拿大商品加徵新關稅的協議，現已交由美國總統特朗普定奪。目前，是否於午夜按計劃正式開徵50%關稅，決定權掌握在特朗普手中。美、加官員連日展開不間斷談判。美方政府施壓，要求加拿大取消去年針對特朗普關稅出臺的報復性舉措，包括加拿大各省對美國酒類實施的禁令、針對美國汽車徵收的關稅；渥太華方面則希望美方下調針對汽車及其他商品的關稅。其中兩名知情人士稱，這份逐步成型的潛在協議，還包含加拿大在乳製品關稅配額方面作出讓步，該議題頻繁出現在特朗普批評加拿大貿易政策的公開表態中。
-
----
-
-### 2026-08-19 03:14:56  #MKT News
-
-Dutch foreign minister says the Netherlands opposes recent US sanctions on officials and staff of the International Criminal Court.
-
----
-
-### 2026-08-19 03:14:13  #MKT News
-
-IRNA reported Iran's ambassador to Kuwait met four Iranians who have been detained in Kuwait for three months.
-
----
-
-### 2026-08-19 03:13:53  #國際
-
-伊朗駐科威特大使會見了三個月前被扣留在科威特的四名伊朗公民。
-
----
-
-### 2026-08-19 03:13:07  #國際
-
-荷蘭外交大臣：荷蘭不認可美國近期針對國際刑事法院官員及工作人員實施的制裁。
-
----
-
-### 2026-08-19 03:13:00  #其他
-
-英國海上貿易行動辦公室：葉門穆哈港東南40海里海域一艘貨船遭多枚炮彈擊中，事發時該貨船船上無船員，船隻受損嚴重。有關部門正在開展調查。
-
----
-
-### 2026-08-19 03:11:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Officials say Trump threatened Oman over proposed Iran-Oman Strait of Hormuz deal】Two regional officials told CBS on Tuesday that President Trump threatened to bomb Oman over a proposed Oman-Iran agreement to manage ship transit through the Strait of Hormuz. The officials said the Trump administration informed Oman it opposed parts of the not-yet-public deal, including arrangements for Iran and Oman to jointly manage exit lanes from the strait. U.S. officials viewed Oman as insufficiently tough in negotiations and objected to Oman's agreement to levy voluntary fees on vessels purportedly for security and marine-environment protection.
-
----
-
-### 2026-08-19 03:11:33  #國際
-
-市場資訊：特朗普正在考慮暫緩對加拿大徵收關稅。
-
----
-
-### 2026-08-19 03:11:14  #國際
-
-特朗普本週正在面試美國食品藥品監督管理局（FDA）最高職位的候選人。
-
----
-
-### 2026-08-19 03:08:38  #MKT News
-
-WHO director-general TEDROS said the Ebola outbreak in the Democratic Republic of the Congo remains a public health emergency of international concern.
-
----
-
-### 2026-08-19 03:07:37  #MKT News
-
-Former Ukrainian defense minister Fedorov called for wartime elections in Ukraine.
-
----
-
-### 2026-08-19 03:06:34  #其他
-
-世衛組織總幹事譚德塞：剛果（金）埃博拉疫情仍構成國際關注的突發公共衛生事件。
-
----
-
-### 2026-08-19 03:05:51  #國際
-
-被解職的烏克蘭國防部長費多羅夫呼籲烏克蘭舉行戰時選舉。
-
----
-
-### 2026-08-19 03:03:15  #國際
-
-【美加關稅談判進入最後關頭 特朗普政府淡化達成協議預期】據知情人士透露，特朗普政府正淡化外界對美加兩國在最後一刻達成協議以避免將於週三生效的新關稅的預期。美方私下表示，雙方週二達成協議的可能性只有五五開甚至更低。兩國需要在午夜截止期限前達成協議，否則美國將對價值數十億美元的加拿大商品徵收50%的關稅。
-
----
-
-### 2026-08-19 03:02:44  #MKT News #Commodities #Energy #WTI
-
-U.S. Deputy Energy Secretary Haositeweit said roughly half of Venezuela's oil production is currently being exported to the United States.
-
----
-
-### 2026-08-19 03:02:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Politico reports several US independent oil producers are expected to sign production contracts with Venezuela's state oil company PDVSA on Tuesday; three people familiar with the matter said the signing ceremony is scheduled for Tuesday evening in Houston.
-
----
-
-### 2026-08-19 03:01:52  #公司 #國際
-
-【美國石油企業即將敲定委內瑞拉相關協議】數家美國獨立石油生產商預計將於週二同委內瑞拉國有石油公司PDVSA簽署生產合同。三名知情人士透露，簽約儀式定於週二晚間在休斯頓舉行。該系列協議或將標誌著美國在委內瑞拉的能源參與力度大幅提升。
-
----
-
-### 2026-08-19 03:01:27  #國際
-
-美國能源部副部長豪斯特維特表示，委內瑞拉目前約有一半的石油產量出口至美國。
-
----
-
-### 2026-08-19 03:01:16  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures night session closed down 0.28% at 25,371, trading 100 points below the cash index.
-
----
-
-### 2026-08-19 03:00:02  #市場
-
-恒指期貨夜盤收跌0.29%，報25368.39點，低水102.76點。
-
----
-
-### 2026-08-19 02:59:15  #公司 #國際
-
-【蓋茨支援的TerraPower將於今年宣佈第二座核電站】TerraPower LLC是美國唯一一家正在建設公用事業級核電站的公司，該公司預計將於今年宣佈其下一個專案——該專案計劃服務於一座資料中心。該公司執行長克里斯·勒貝克（Chris Levesque）表示，這將使這家由比爾·蓋茨支援的公司有望在2027年為其第二個專案破土動工。他拒絕透露客戶身份。
-
----
-
-### 2026-08-19 02:54:52  #市場
-
-加元兌美元下跌0.3%，至日內低點1.3910加元兌1美元。
-
----
-
-### 2026-08-19 02:54:15  #MKT News
-
-Colombian government statistics show the earthquake death toll has risen to 304.
 
 ---
