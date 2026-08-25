@@ -1,7 +1,153 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-26 04:40:12_
-_本檔包含 3395 則快訊，約 652845 字_
+_更新時間：2026-08-26 05:00:25_
+_本檔包含 3407 則快訊，約 653445 字_
+
+---
+
+### 2026-08-21 07:31:54  #經濟數據 #日本
+
+日本7月整體CPI同比上漲1.9%，預估為上漲1.9%。
+
+---
+
+### 2026-08-21 07:31:26  #公司
+
+【博通版“算力融資池”據傳將加碼超600億美元】據媒體援引知情人士報道，博通（Broadcom）正與一批機構洽談，計劃透過債務融資籌集超過600億美元的資金，用於為人工智慧晶片專案提供資金支援。該交易將使Anthropic等其他公司受益。根據擬議方案，博通將為部分高階擔保債務提供擔保。這部分債務規模可能在600億至700億美元之間。此次債務將由一家特殊目的載體（SPV）發行。知情人士表示，這項融資方案目前仍在敲定之中，可能還會包括一筆規模約300億美元的次級債務。如果按照目前討論中的規模計算，整筆融資總額最高可能達到1000億美元。黑石集團和阿波羅全球管理據傳正在與博通展開洽談。三家公司今年6月已經達成“AI XPV平臺”合作關係，為Fluidstack負責建設和運營的資料中心部署1吉瓦博通定製晶片提供350億美元融資，該算力最終由Anthropic購買和使用。
+
+---
+
+### 2026-08-21 07:30:43  #經濟數據 #日本
+
+日本7月核心CPI同比增長1.8%，預期1.80%，前值1.60%。
+
+---
+
+### 2026-08-21 07:30:16  #資料 #國際
+
+日本7月CPI同比 1.9%，預期 1.9%，前值 1.6%。
+日本7月CPI(除生鮮食品)同比 1.8%，預期 1.8%，前值 1.6%。
+日本7月CPI(除生鮮食品及能源)同比 1.9%，預期 1.9%，前值 1.7%。
+
+---
+
+### 2026-08-21 07:30:13  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan nationwide CPI rose 2.0% YoY in July, above the 1.9% consensus and up from 1.6% previously.
+
+---
+
+### 2026-08-21 07:30:11  #MKT News #Important #Market Regions #Japan & APAC #USDJPY
+
+Japan July core CPI YoY 1.8% (consensus 1.8%; prior 1.6%).
+
+---
+
+### 2026-08-21 07:30:07  #其他
+
+【洮南市綠氫耦合生物質綠色醇油一體化專案正式啟動】據上海電氣訊息，8月20日，洮南市綠氫耦合生物質綠色醇油一體化專案（簡稱“洮南二期專案”）正式啟動。洮南二期專案規劃年產20萬噸綠色甲醇及1萬噸可持續航空燃料（SAF）。專案採用上海電氣新一代綠色燃料系統解決方案，首創離網型綠色直連模式，依託“風+光+儲+生物質”多元綠電供應，搭載上海電氣先進電解水制氫、純氧加壓流化床生物質氣化3.0、富CO₂合成氣甲醇合成及費託合成制SAF等關鍵核心技術，構建起“綠色甲醇+可持續航空燃料”多元產品矩陣，持續推動綠色燃料在航空、航運等領域的規模化應用。
+
+---
+
+### 2026-08-21 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Core CPI (YoY) (Jul) | actual 1.8% | consensus 1.80% | previous 1.60%
+
+---
+
+### 2026-08-21 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | CPI (YoY) (Jul) | actual 2% | consensus 1.90% | previous 1.60%
+
+---
+
+### 2026-08-21 07:27:28  #公司 #市場
+
+【磷酸鐵鋰正極材料行業迎全面復甦 龍頭公司業績增超8倍】磷酸鐵鋰正極材料行業迎來全面復甦。從已釋出或預告半年度業績的情況來看，多家磷酸鐵鋰上市公司盈利能力顯著修復。其中，龍頭廠商湖南裕能上半年淨利潤同比大增超8倍。當前，磷酸鐵鋰行業高階有效產能持續緊缺，疊加原材料價格上漲帶來的成本壓力，業內企業正在掀起新一輪漲價潮，並瞄準高階化賽道精準擴產，持續最佳化產能結構和市場佈局。
+
+---
+
+### 2026-08-21 07:27:05  #其他
+
+【機器人“大腦”加速進化 模型與資料成為產業競爭新焦點】過去，機器人大會上的“明星”往往是能夠完成複雜動作的機器人本體。今年，產業關注點正在發生變化：從“機器人能做什麼”，轉向“機器人如何學會更多事情”。在2026世界機器人大會現場，記者觀察發現，越來越多企業展示的不再只是機器人行走、抓取、運動控制等單項能力，而是圍繞具身智慧模型、世界模型、資料採集、模擬訓練等底層能力展開佈局。機器人產業競爭正在從過去的硬體效能比拼，轉向“模型+資料”的綜合能力競爭。這一變化背後，是人工智慧技術向物理世界加速延伸。業內人士認為，機器人要真正進入生產生活場景，不僅需要具備執行任務的能力，也需要形成對現實世界的理解能力。隨著機器人“大腦”不斷進化，模型和資料正在成為產業發展的新焦點。（上海證券報）
+
+---
+
+### 2026-08-21 07:26:39  #央行 #宏觀 #市場 #國際
+
+【多國長期國債收益率攀升 全球金融市場格局迎來階段性重構】今年以來，全球債券市場深度調整，以美國國債為核心的全球無風險收益率持續上行，各大主要經濟體長端國債收益率普遍走高。8月中旬，美國10年期國債收益率站到4.5%上方，30年期美債收益率同步突破5%，法國、英國、日本等主流經濟體長期國債收益率同步攀升。為對沖收益率快速上行帶來的市場壓力，美國財政部於8月19日出臺“救市”舉措，宣佈將國債回購操作規模擴容至少一倍。業內受訪專家表示，本輪全球國債收益率上行是多重因素共振的結果，美國高企的政府債務風險、通脹反彈、主要央行延續緊縮貨幣政策、國債市場供需結構失衡等多重力量共同推動了行情的走高。作為全球資產定價基準，美債收益率持續上行，正重塑全球資本流動路徑、大類資產估值體系與各國貨幣政策節奏，股票、外匯、大宗商品及跨境投資的定價邏輯全面適配調整，全球金融市場格局迎來階段性重構。（證券時報）
+
+---
+
+### 2026-08-21 07:26:12  #公司
+
+【社保基金連續持有67股4個季度以上】隨著上市公司半年報的陸續披露，機構持股動向逐漸浮出水面。社保基金作為風格穩健的長期機構投資者，其長線持有的重倉股一直備受關注。據統計，截至8月20日，社保基金二季度末共現身138只個股前十大流通股東名單，其中，共有67只個股獲社保基金連續持有4個季度以上。
+
+---
+
+### 2026-08-21 07:25:40  #觀點
+
+【華泰證券：北京新政發出的積極訊號以及“金九銀十”的來臨，有望為後續量價修復開啟空間】據華泰證券，1-7月商品房銷售面積/金額同比-11.8%/-13.1%，其中銷售面積降幅較1-6月微擴0.2pct，但金額降幅收窄0.5pct。7月單月銷售面積/金額同比分別為-13.4%/-8.9%。價格端，7月70城新房價格指數環比-0.2%（6月-0.2%），其中一、二、三線環比分別為持平/-0.1%/-0.3%，二手房價格指數環比-0.3%（6月-0.3%），一、二、三線環比分別為+0.2%/-0.3%/-0.4% (6月+0.3%/-0.3%/-0.4%）。北上深二手房價格分別環比持平/+0.3%/+0.2%（6月+0.1%/+0.4%/+0.3%）。一線城市整體房價保持修復，修復節奏有所放緩，華泰認為主要受淡季影響。整體而言，房價在弱市中基本維持微幅調整的態勢，北京新政發出的積極訊號以及“金九銀十”的來臨，有望為後續量價修復開啟空間。
+
+---
+
+### 2026-08-21 07:24:41  #公司
+
+【多因素共振引爆高景氣 銅箔產能大多已被大客戶鎖定】經過一輪產能出清之後，銅箔行業在2026年上半年迎來強勢反轉，頭部上市公司集體交出亮眼成績單，主要產品量價齊升，產業景氣度持續高漲。記者在採訪中瞭解到，本輪銅箔行業復甦行情並非短期炒作，而是供應緊縮、需求放量、產品結構最佳化多因素共振的結果。當前，銅箔廠商議價權逐步提升，漲價如期落地，部分廠商已在醞釀新一輪漲價。（證券時報）
+
+---
+
+### 2026-08-21 07:24:32  #宏觀 #公司
+
+【地方融資平臺清理規範步入衝刺階段】根據《關於規範退出融資平臺公司的通知》（以下簡稱“150號文”），地方政府融資平臺須在2027年6月底前退出融資平臺名單。距離任務完成時限不足一年，各地推動城投公司“退平臺”工作進入最後衝刺階段。記者近日從一位地方產業投資集團的相關負責人處瞭解到，多地要求提前實現融資平臺清零，如陝西省要求在2026年年底前完成“退平臺”工作。記者還瞭解到，近期滬深交易所出臺城投發債融資“三條紅線”，城投融資環境進一步收緊。（證券時報）
+
+---
+
+### 2026-08-21 07:24:13  #公司 #市場 #觀點
+
+【華泰證券談全球儲存：LTA定下限，回購看比例】據華泰證券，回顧2Q26，三星/海力士/美光/閃迪/鎧俠五家合計總收入2,274億美元（同比+194%、環比+43%）、營業利潤1,475億美元，環比+70%，收入和利潤均處歷史高位。但價格漲幅已開始放緩，Samsung披露DRAM blended ASP環比由1Q26的約low-90%降至2Q26的mid-40%，TrendForce預計3Q26 server DRAM合約價環比上漲13–18%。按P/B與ROE的方向組合，本輪已進入“盈利仍在上行、估值先行回落”的第二段（圖2），市場關注點正從盈利上修空間轉向盈利下限在哪裡，重點關注：1）長協。若2027年ASP降至較2Q26低約40%的地板價水平，對應行業2027E PE約14x；2）股東回報。海力士已將2025–2027年FCF回報目標上調至超過50%，關注韓系後續payout ratio提升；3）長期需求。AI儲存需求由HBM向更完整的memory/storage hierarchy擴散。綜合考慮長約的價格保護機制、回購力度與供需穩定性（DRAM或優於NAND）三條標準，我們給出五家公司的關注順序。
+
+---
+
+### 2026-08-21 07:23:46  #國際
+
+【SK海力士擬在日本宮城縣建設儲存晶片工廠】8月21日，據報道，SK海力士正尋求在日本宮城縣建設一座儲存晶片製造工廠，這將是韓國晶片製造商在日本建立生產基地的首筆重大投資，投資額可能達數十萬億韓元。SK海力士據此回應稱，任何具備必要基礎設施的地點都可能是候選物件，但尚未做出任何決定。
+
+---
+
+### 2026-08-21 07:22:51  #央行 #公司
+
+【7天期逆回購持續零投放 央行靈活精準調控流動性】8月20日，央行釋出公告稱，根據公開市場業務一級交易商的需求，7天期逆回購操作量為零。當日有3274億元隔夜逆回購到期，因此，公開市場實現淨回籠3274億元。專家表示，近期7天期逆回購持續零投放，不代表流動性收緊，央行保持流動性充裕的基調沒有變化，後續有望更加註重運用多種貨幣政策工具，保持流動性充裕。（中國證券報）
+
+---
+
+### 2026-08-21 07:20:30  #公司 #市場
+
+【臺交所自12月7日起提早零股交易時間】中國臺灣證券交易所週四釋出公告稱，自12月7日起，盤中零股交易的委託申報時間將提前至上午8:30，與普通交易時段保持一致。零股交易開盤時間也將由9:10提前至9:00，與整股交易同步。配套措施，包括盤前資訊披露及延遲開盤機制將同步實施，以此提升盤前透明度，維持價格發現功能。
+
+---
+
+### 2026-08-21 07:20:04  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact mixed #DXY
+
+Japan's July core CPI YoY due in 10 minutes.
+
+---
+
+### 2026-08-21 07:19:40  #公司
+
+【油煤“剪刀差”撐腰 煤化工頭部企業業績亮眼】上半年，受國際地緣衝突擾動，國際原油價格維持高位執行，油煤價格“剪刀差”持續拉大，國內煤化工行業迎來景氣度上行週期。這在多家煤化工上市公司半年報及上半年業績預告中得到反映：上半年，行業龍頭企業盈利大幅增長，多家公司增速超過10倍。（上證報）
+
+---
+
+### 2026-08-21 07:19:33  #公司 #觀點
+
+【投行人才加速奔赴產業 上市公司董秘成轉型熱門選擇】近日，國記憶體儲晶片設計龍頭兆易創新公告，董事會秘書接任者謝飛旺擁有多年券商從業經歷。耐人尋味的是，離職的董靈燕同樣出身券商體系，曾供職於中金公司研究部。這是今年券商專業人士轉戰上市公司董秘崗位的又一案例。在投行業務收縮、監管趨嚴的大環境下，越來越多的券商投行、研究條線人才轉戰上市公司，董秘已然成為本輪人才遷徙的熱門選擇。（證券時報）
+
+---
+
+### 2026-08-21 07:19:18  #市場 #焦點
+
+比特幣升破73000美元，日內漲5.30%。
 
 ---
 
@@ -20469,86 +20615,5 @@ U.S. President Trump announced the toughest-ever economic sanctions on Iran, say
 ### 2026-08-20 06:59:37  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
 
 NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks rose 58 points, or 0.4%, to 13,987 in Thursday morning trading, up for the third consecutive session and marking their highest level since August 5, when the index reached a record high, mainly supported by gains in communication services, energy, and real estate. Optimism over earnings results continued to fuel sentiment while traders braced for further releases from some companies later today. Communication services surged 2.3% after Spark New Zealand, New Zealand's largest telecommunications company, surged 5.0%, following a 91.9% jump in net profit for H2 2026. Meanwhile, Wall Street mostly closed in the green overnight due to easing Treasury yields, which offset weakness in tech stocks and also lifted sentiment. Other early gainers were Channel Infrastructure (1.5%) and Skellerup Holdings (0.7%). EBOS Group continued to gain (0.8%) after posting a 4.7% rise in net profit for the full year ended June 30, 2026.
-
----
-
-### 2026-08-20 06:56:49  #國際
-
-【特朗普預計今年晚些時候會見金正恩】#特朗普說同金正恩相處得很好#美國總統特朗普19日在白宮對媒體表示，他預計今年晚些時候將會見朝鮮領導人金正恩。 特朗普當天視察了正在白宮南草坪新建的直升機停機坪工地。被問及今秋是否會與金正恩會晤時，特朗普作出肯定回答，並稱“非常瞭解金正恩”，“同他相處得很好”。 據美國《華爾街日報》18日報道，特朗普正敦促助手推動最早在今年秋季與金正恩舉行會晤，時間可能選在11月。 特朗普16日在社交媒體發文說，考慮到他與金正恩有著“非常良好的關係”，他對於“美國很久以前同意參加與韓國的聯合軍演”感到不滿，表示已要求美國防部大幅縮減美韓聯合軍演規模。特朗普17日還在白宮對媒體稱，金正恩已回應他提出的“對話”請求，但他沒有透露回應的內容。（新華國際）
-
----
-
-### 2026-08-20 06:52:37  #MKT News #Macro & Rates
-
-【Senators demand Kevin Warsh disclose calls with Trump despite blank schedule】Four Senate Democrats led by Chris Van Hollen have asked Fed Chair Kevin Warsh to publicly disclose his communications with President Trump after the Wall Street Journal reported multiple calls despite no entries on Warsh’s official schedule. The senators said nondisclosure could create the impression the White House is directing monetary policy and asked Warsh to confirm in writing whether he has had any contact with Trump since taking office or to amend his schedule to show such calls. Warsh did not directly answer Van Hollen last month. White House NEC Director Kevin Hassett said in early August that Trump did not press Warsh on rate decisions; Trump has said he spoke to Warsh only once briefly. By contrast, former Fed Chair Jerome Powell documented and disclosed several calls and face-to-face meetings with Trump.
-
----
-
-### 2026-08-20 06:52:13  #公司 #市場
-
-【黃金理財產品淨值回暖，理財公司看重黃金壓艙石價值】受近期黃金價格反彈影響，多隻含黃金策略理財產品淨值創出歷史新高，一度被市場冷落的“黃金+”理財產品再度引發投資者關注。在發行端，黃金主題理財產品近兩個月處於沉寂狀態，有理財機構人士透露，未來一段時間內不會發行黃金主題理財產品，現階段抓住市場視窗期，在固收增強類產品的投資組合中靈活配置黃金相關資產。調研發現，目前理財公司對黃金“壓艙石”的定位及其資產配置價值已形成較強共識，認為在多資產多策略的框架下，黃金是不可或缺的一環，後續將以更為靈活的節奏“逢低配置”。（中證報）
-
----
-
-### 2026-08-20 06:46:04  #公司
-
-【“六張網”建設提速，上市公司掘金新機遇】8月19日，國家發展改革委副主任嶽修虎主持召開“六張網”重大專案協調排程機制會，研究建立算力網、新型電網、新一代通訊網“2+3+N”（2家電網+3家電信運營商+N家算力相關企業）協調機制，加大統籌力度，形成工作合力，共同推動重大專案加快建設。近期，紮實推進“六張網”規劃建設的政策訊號持續釋放。隨著“規劃圖”逐步落地為“施工圖”，相關產業鏈上下游公司頻頻中標專案、簽約訂單。專家認為，“六張網”建設投資空間巨大，將為相關產業增長提供長期確定性支撐。（中證報）
-
----
-
-### 2026-08-20 06:45:53  #市場
-
-【“固收+”產品業績急剎車，上半年績優品種回撤明顯】經歷了上半年的規模與業績雙豐收後，“固收+”產品7月以來遭遇明顯回撤。截至8月18日，上半年回報率超1%的產品裡已有50只年內回報轉負，上半年回報率超過20%的29只產品7月以來全部出現負回報。本輪迴撤主要源於權益部分科技板塊大幅下跌，債券部分收益較薄，無法形成有效對沖。部分產品二季度大幅抬升股票倉位，且持倉集中於AI產業鏈，這一佈局導致在科技板塊回撥階段進一步放大了淨值波動。業內人士認為，下半年市場風格有望趨於均衡，“固收+”產品的基金管理人應更加重視倉位與風險等級的匹配及跨資產配置能力。（中證報）
-
----
-
-### 2026-08-20 06:45:16  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Surges by 17.90% — Top crypto gainers are Ether (17.90%), Bitcoin (7.16%) and Binance (4.29%).
-
----
-
-### 2026-08-20 06:42:38  #公司
-
-【解鎖AI算力新場景，科創債發行持續擴容提質】無錫高新區科創產業發展集團有限公司近期在上海證券交易所成功發行全國首單專項用於詞元（Token）算力工廠建設的科技創新公司債券。Wind資料顯示，今年以來，科創債發行擴容提質，發行規模超1.2萬億元。專家表示，當前科創債產品創新持續加碼、市場規模穩步攀升，精準對接科創領域融資需求，助力實體經濟與科創產業發展。（中證報）
-
----
-
-### 2026-08-20 06:40:17  #其他
-
-阿根廷經濟部長：阿根廷就貝爾格拉諾貨運鐵路網 50 年特許經營權啟動招標。
-
----
-
-### 2026-08-20 06:40:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cotton Gains by 3.18% — Top commodity gainers are Cotton (3.18%), Palm Oil (2.92%) and Wheat (2.37%). Biggest loser is Coffee (-1.33%).
-
----
-
-### 2026-08-20 06:36:39  #宏觀 #公司 #市場 #央行 #國際
-
-【8月20日隔夜要聞一覽】
-1、美國政府債務突破40萬億美元，十年間翻逾一倍。
-2、特朗普週三表示，對美聯儲（7月）沒有降息表示不滿，堅稱穩健的經濟資料不應阻止央行採取更寬鬆的政策立場。
-3、美聯儲7月會議紀要顯示：若通脹不降溫，美聯儲官員認為需加息。
-4、美國擬在貿易協議中將加拿大汽車關稅降至15%。
-5、OpenAI首席財務官莎拉·弗萊爾週三在全體員工大會上告訴員工，將在2027年上市，但如果業務持續向好，也可能更早。
-6、Moderna股價飆升170%，與默沙東合作的黑色素瘤疫苗在大規模試驗中取得成功。
-7、Marvell Technology股價上漲9%，該公司達成了一項允許谷歌購買至多122億美元公司股份的交易。
-8、伊朗央行行長：目前尚未有任何被凍結的資金解凍。
-9、美國財政部週三表示，將把政府債務回購規模提高一倍以上。
-
----
-
-### 2026-08-20 06:35:42  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
-
-【Carney presses provinces to lift US alcohol bans to secure US-Canada trade deal】Canadian Prime Minister Mark Carney urged provincial premiers in a Wednesday call to restore US wine and spirits sales in local stores after a US-Canada trade agreement is finalized, Nova Scotia Premier Tim Houston said. Provinces set alcohol retail rules; most pulled US alcohol last year in retaliation for US tariffs, sharply reducing US wine and distilled spirits exports. Major provinces including Ontario, Quebec and British Columbia still maintain bans. It is unclear whether premiers will comply; if they refuse, the preliminary trade deal announced by Trump could be jeopardized. The White House has said ending the bans is a core pillar of any US-Canada agreement.
-
----
-
-### 2026-08-20 06:35:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Surges by 5.67% — Top commodity gainers are Silver (5.67%), Platinum (5.39%) and Gold (4.23%). Biggest loser is Lithium Carbonate (-1.21%).
 
 ---

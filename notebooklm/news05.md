@@ -1,7 +1,88 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-26 04:40:12_
-_本檔包含 3296 則快訊，約 652719 字_
+_更新時間：2026-08-26 05:00:25_
+_本檔包含 3275 則快訊，約 651872 字_
+
+---
+
+### 2026-08-20 06:56:49  #國際
+
+【特朗普預計今年晚些時候會見金正恩】#特朗普說同金正恩相處得很好#美國總統特朗普19日在白宮對媒體表示，他預計今年晚些時候將會見朝鮮領導人金正恩。 特朗普當天視察了正在白宮南草坪新建的直升機停機坪工地。被問及今秋是否會與金正恩會晤時，特朗普作出肯定回答，並稱“非常瞭解金正恩”，“同他相處得很好”。 據美國《華爾街日報》18日報道，特朗普正敦促助手推動最早在今年秋季與金正恩舉行會晤，時間可能選在11月。 特朗普16日在社交媒體發文說，考慮到他與金正恩有著“非常良好的關係”，他對於“美國很久以前同意參加與韓國的聯合軍演”感到不滿，表示已要求美國防部大幅縮減美韓聯合軍演規模。特朗普17日還在白宮對媒體稱，金正恩已回應他提出的“對話”請求，但他沒有透露回應的內容。（新華國際）
+
+---
+
+### 2026-08-20 06:52:37  #MKT News #Macro & Rates
+
+【Senators demand Kevin Warsh disclose calls with Trump despite blank schedule】Four Senate Democrats led by Chris Van Hollen have asked Fed Chair Kevin Warsh to publicly disclose his communications with President Trump after the Wall Street Journal reported multiple calls despite no entries on Warsh’s official schedule. The senators said nondisclosure could create the impression the White House is directing monetary policy and asked Warsh to confirm in writing whether he has had any contact with Trump since taking office or to amend his schedule to show such calls. Warsh did not directly answer Van Hollen last month. White House NEC Director Kevin Hassett said in early August that Trump did not press Warsh on rate decisions; Trump has said he spoke to Warsh only once briefly. By contrast, former Fed Chair Jerome Powell documented and disclosed several calls and face-to-face meetings with Trump.
+
+---
+
+### 2026-08-20 06:52:13  #公司 #市場
+
+【黃金理財產品淨值回暖，理財公司看重黃金壓艙石價值】受近期黃金價格反彈影響，多隻含黃金策略理財產品淨值創出歷史新高，一度被市場冷落的“黃金+”理財產品再度引發投資者關注。在發行端，黃金主題理財產品近兩個月處於沉寂狀態，有理財機構人士透露，未來一段時間內不會發行黃金主題理財產品，現階段抓住市場視窗期，在固收增強類產品的投資組合中靈活配置黃金相關資產。調研發現，目前理財公司對黃金“壓艙石”的定位及其資產配置價值已形成較強共識，認為在多資產多策略的框架下，黃金是不可或缺的一環，後續將以更為靈活的節奏“逢低配置”。（中證報）
+
+---
+
+### 2026-08-20 06:46:04  #公司
+
+【“六張網”建設提速，上市公司掘金新機遇】8月19日，國家發展改革委副主任嶽修虎主持召開“六張網”重大專案協調排程機制會，研究建立算力網、新型電網、新一代通訊網“2+3+N”（2家電網+3家電信運營商+N家算力相關企業）協調機制，加大統籌力度，形成工作合力，共同推動重大專案加快建設。近期，紮實推進“六張網”規劃建設的政策訊號持續釋放。隨著“規劃圖”逐步落地為“施工圖”，相關產業鏈上下游公司頻頻中標專案、簽約訂單。專家認為，“六張網”建設投資空間巨大，將為相關產業增長提供長期確定性支撐。（中證報）
+
+---
+
+### 2026-08-20 06:45:53  #市場
+
+【“固收+”產品業績急剎車，上半年績優品種回撤明顯】經歷了上半年的規模與業績雙豐收後，“固收+”產品7月以來遭遇明顯回撤。截至8月18日，上半年回報率超1%的產品裡已有50只年內回報轉負，上半年回報率超過20%的29只產品7月以來全部出現負回報。本輪迴撤主要源於權益部分科技板塊大幅下跌，債券部分收益較薄，無法形成有效對沖。部分產品二季度大幅抬升股票倉位，且持倉集中於AI產業鏈，這一佈局導致在科技板塊回撥階段進一步放大了淨值波動。業內人士認為，下半年市場風格有望趨於均衡，“固收+”產品的基金管理人應更加重視倉位與風險等級的匹配及跨資產配置能力。（中證報）
+
+---
+
+### 2026-08-20 06:45:16  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Surges by 17.90% — Top crypto gainers are Ether (17.90%), Bitcoin (7.16%) and Binance (4.29%).
+
+---
+
+### 2026-08-20 06:42:38  #公司
+
+【解鎖AI算力新場景，科創債發行持續擴容提質】無錫高新區科創產業發展集團有限公司近期在上海證券交易所成功發行全國首單專項用於詞元（Token）算力工廠建設的科技創新公司債券。Wind資料顯示，今年以來，科創債發行擴容提質，發行規模超1.2萬億元。專家表示，當前科創債產品創新持續加碼、市場規模穩步攀升，精準對接科創領域融資需求，助力實體經濟與科創產業發展。（中證報）
+
+---
+
+### 2026-08-20 06:40:17  #其他
+
+阿根廷經濟部長：阿根廷就貝爾格拉諾貨運鐵路網 50 年特許經營權啟動招標。
+
+---
+
+### 2026-08-20 06:40:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cotton Gains by 3.18% — Top commodity gainers are Cotton (3.18%), Palm Oil (2.92%) and Wheat (2.37%). Biggest loser is Coffee (-1.33%).
+
+---
+
+### 2026-08-20 06:36:39  #宏觀 #公司 #市場 #央行 #國際
+
+【8月20日隔夜要聞一覽】
+1、美國政府債務突破40萬億美元，十年間翻逾一倍。
+2、特朗普週三表示，對美聯儲（7月）沒有降息表示不滿，堅稱穩健的經濟資料不應阻止央行採取更寬鬆的政策立場。
+3、美聯儲7月會議紀要顯示：若通脹不降溫，美聯儲官員認為需加息。
+4、美國擬在貿易協議中將加拿大汽車關稅降至15%。
+5、OpenAI首席財務官莎拉·弗萊爾週三在全體員工大會上告訴員工，將在2027年上市，但如果業務持續向好，也可能更早。
+6、Moderna股價飆升170%，與默沙東合作的黑色素瘤疫苗在大規模試驗中取得成功。
+7、Marvell Technology股價上漲9%，該公司達成了一項允許谷歌購買至多122億美元公司股份的交易。
+8、伊朗央行行長：目前尚未有任何被凍結的資金解凍。
+9、美國財政部週三表示，將把政府債務回購規模提高一倍以上。
+
+---
+
+### 2026-08-20 06:35:42  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
+
+【Carney presses provinces to lift US alcohol bans to secure US-Canada trade deal】Canadian Prime Minister Mark Carney urged provincial premiers in a Wednesday call to restore US wine and spirits sales in local stores after a US-Canada trade agreement is finalized, Nova Scotia Premier Tim Houston said. Provinces set alcohol retail rules; most pulled US alcohol last year in retaliation for US tariffs, sharply reducing US wine and distilled spirits exports. Major provinces including Ontario, Quebec and British Columbia still maintain bans. It is unclear whether premiers will comply; if they refuse, the preliminary trade deal announced by Trump could be jeopardized. The White House has said ending the bans is a core pillar of any US-Canada agreement.
+
+---
+
+### 2026-08-20 06:35:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Surges by 5.67% — Top commodity gainers are Silver (5.67%), Platinum (5.39%) and Gold (4.23%). Biggest loser is Lithium Carbonate (-1.21%).
 
 ---
 
@@ -19672,203 +19753,5 @@ According to filings, Brazilian energy company Cosan has formally notified the N
 ### 2026-08-19 05:01:23  #其他
 
 【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。
-
----
-
-### 2026-08-19 04:57:56  #國際
-
-【法國宣佈兩名伊朗駐法使館人員為“不受歡迎的人”】當地時間8月18日，法國外長巴羅宣佈兩名伊朗駐法國大使館工作人員為“不受歡迎的人”。法國外交部表示，此舉是對7月19日兩名法國駐伊朗使館工作人員遭伊朗安全部門“嚴重侵害”事件的回應。（央視新聞）
-
----
-
-### 2026-08-19 04:53:32  #MKT News
-
-RBNZ Governor Breman said the central bank is advancing measures to enhance competition in New Zealand's banking sector.
-
----
-
-### 2026-08-19 04:51:16  #MKT News #Market Regions #Europe & UK
-
-【French foreign minister says two Iranian diplomats in France will be expelled】The French foreign minister said on social media on July 18 that France will expel two Iranian diplomatic staff in response to Iran detaining and questioning two French embassy employees for hours. He called the detentions "extremely serious and unacceptable" and warned they would not be without consequences. Iran's foreign ministry said on July 18 it had declared two French embassy staff in Tehran persona non grata and barred their entry, citing violations of the Vienna Convention.
-
----
-
-### 2026-08-19 04:49:08  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Iran foreign ministry dismisses UAE accusation it fired missiles】Iran foreign ministry spokesman Baghaei rejected the UAE's accusation that Iran fired missiles at it, saying such claims breach good-neighbourliness, undermine regional trust and efforts to prevent escalation. Baghaei urged parties to avoid unfounded allegations given the complex environment created by ongoing US and Israeli actions in the region and alleged false‑flag incidents. The UAE earlier announced it would suspend trade, commercial and financial transactions with Iran.
-
----
-
-### 2026-08-19 04:48:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold fell below $4,330/oz, down nearly 2% intraday.
-
----
-
-### 2026-08-19 04:47:55  #市場
-
-紐約期金日內跌2%，現報4384.16美元/盎司。
-
----
-
-### 2026-08-19 04:47:42  #焦點 #國際
-
-以色列戰鬥機飛越伊德利卜及敘利亞沙漠上空。
-
----
-
-### 2026-08-19 04:47:17  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran foreign ministry spokesman BAGHAEI urged regional actors not to make baseless accusations against Iran and warned they should be wary of what he described as ongoing US and Israeli actions that undermine regional peace and a history of false-flag operations.
-
----
-
-### 2026-08-19 04:46:44  #國際
-
-美國副總統萬斯將於週五訪問俄亥俄州並發表經濟演講。
-
----
-
-### 2026-08-19 04:46:22  #Trading Economics #Economy #Uruguay #Interest Rate #Importance 1
-
-Uruguay Central Bank Holds Interest Rate at 5.75% — The Central Bank of Uruguay kept its policy rate unchanged at 5.75% at its July 2026 meeting, noting that its inflation projections and agents’ expectations remain aligned with the 4.5% target over the Monetary Policy Horizon. The bank noted that inflation stood at 4.27%, while core inflation showed a moderate increase without evidence of second-round effects from recent external shocks. Meanwhile, two-year inflation expectations remained aligned with the target. The international environment continues to be characterized by high uncertainty stemming from geopolitical tensions surrounding the conflict in the Middle East and its impact on commodity prices. In Uruguay, economic activity is evolving below potential growth, while the labor market remains relatively stable. The Monetary Policy Committee assessed that the current policy stance remains appropriate to preserve price stability and keep expectations anchored to the target over the monetary policy horizon.
-
----
-
-### 2026-08-19 04:44:44  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API crude start-ups for the week to Aug. 14: 238,000 b/d, prior 34,000 b/d.
-
----
-
-### 2026-08-19 04:44:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-API weekly data to Aug. 14: US finished product imports -354,000 b/d; prior +196,000 b/d.
-
----
-
-### 2026-08-19 04:44:36  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Runs (Aug.14) | actual 238000M | previous 34000M
-
----
-
-### 2026-08-19 04:44:27  #MKT News #Economic Calendar
-
-United States | API Weekly Petroleum Products Imports Change (Aug.14) | actual -354000M | previous 196000M
-
----
-
-### 2026-08-19 04:44:18  #MKT News #WTI #Impact bullish #Brent
-
-US API weekly crude imports for the week to Aug 14: 50,000 bbl, versus 835,000 bbl in the prior week.
-
----
-
-### 2026-08-19 04:44:17  #國際
-
-伊朗外交部發言人警告稱存在"假旗行動"，並指責（阿聯酋）相關指控"毫無根據"。
-
----
-
-### 2026-08-19 04:44:09  #MKT News #Economic Calendar
-
-United States | API Weekly Crude Oil Imports Change (Aug.14) | actual 50000M | previous 835000M
-
----
-
-### 2026-08-19 04:44:07  #MKT News
-
-API: U.S. heating oil stocks -360k bbl in week to Aug 14, prior +424k bbl.
-
----
-
-### 2026-08-19 04:43:56  #MKT News #WTI #Impact bullish #Brent
-
-US API Cushing crude stocks, week to Aug 14: -1.438 mln bbl; prior +1.571 mln bbl.
-
----
-
-### 2026-08-19 04:43:56  #MKT News #Economic Calendar
-
-United States | API Weekly Heating Oil Stocks Change (Aug.14) | actual -360000M | previous 424000M
-
----
-
-### 2026-08-19 04:43:46  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Cushing Crude Oil Stocks Change (Aug.14) | actual -1438000M | previous 1571000M
-
----
-
-### 2026-08-19 04:43:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. API weekly refined product stocks fell 2.797 mln barrels in the week to Aug. 14, versus a 0.596 mln-barrel draw the prior week.
-
----
-
-### 2026-08-19 04:43:41  #國際
-
-美國石油協會（API）資料顯示，上週，美國API原油庫存 -32.8萬桶，之前一週 +907.2萬桶。
-
----
-
-### 2026-08-19 04:43:33  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-U.S. API gasoline stocks rose 1.076 mln barrels in the week to Aug. 14, after a 1.531 mln-barrel draw the prior week.
-
----
-
-### 2026-08-19 04:43:31  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Distillate Stocks Change (Aug.14) | actual -2797000M | previous -596000M
-
----
-
-### 2026-08-19 04:43:23  #MKT News #Important #Commodities #Energy
-
-US API weekly crude inventories for week ended Aug 14: -328,000 barrels; prior +9.072 mln barrels.
-
----
-
-### 2026-08-19 04:43:19  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Gasoline Stocks Change (Aug.14) | actual 1076000M | previous -1531000M
-
----
-
-### 2026-08-19 04:43:14  #國際
-
-惠譽評級：美國醫療保健網路風險日益增加。
-
----
-
-### 2026-08-19 04:43:08  #MKT News #Economic Calendar #Important
-
-United States | API Weekly Crude Oil Stocks Change (Aug.14) | actual -328000M | previous 9072000M
-
----
-
-### 2026-08-19 04:42:50  #國際
-
-【伊朗宣佈兩名法國外交人員為“不受歡迎的人”】當地時間18日，伊朗外交部發表宣告說，鑑於兩名法國駐伊朗使館外交人員存在違反《維也納外交關係公約》的行為，伊方決定將其列為“不受歡迎的人”，禁止其進入伊朗。（央視新聞）
-
----
-
-### 2026-08-19 04:42:30  #國際
-
-伊朗外交部發言人駁斥阿聯酋關於從伊朗向該海灣國家發射導彈的宣告。
-
----
-
-### 2026-08-19 04:41:37  #市場
-
-諾福克南方鐵路盤後上漲2.4%。
-
----
-
-### 2026-08-19 04:41:28  #MKT News #XAUUSD #Impact bearish #DXY
-
-Iranian Foreign Ministry spokesman Baghaei dismissed UAE claims that Iran launched missiles.
 
 ---
