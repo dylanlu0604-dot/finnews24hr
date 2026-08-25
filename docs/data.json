@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-26 03:29:44",
-  "count": 16536,
+  "updated": "2026-08-26 03:33:42",
+  "count": 16532,
   "items": [
+    {
+      "id": "mkt:01a03a69-2702-7aab-9119-c1f02c265fd8",
+      "time": "2026-08-26 03:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "RIA, citing Iranian and Pakistani sources, reported that Tehran and Washington have agreed to a ceasefire."
+    },
+    {
+      "id": "5058484",
+      "time": "2026-08-26 03:29:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國民主黨議員對沃什推動減少議息會議次數表示關切】一批民主黨議員致信美聯儲主席凱文·沃什，對央行年度政策會議日程的擬議變更表示關切。美聯儲7月政策會議紀要顯示，沃什提出了將委員會年度政策會議次數從8次減少到6次的想法。議員們就這一提議向沃什提出7個問題，並要求他在9月2日前作出回應。由參議員Ruben Gallego、Andy Kim、Chris Van Hollen、Angela Alsobrooks、Elizabeth Warren、Catherine Cortez Masto和Tina Smith聯署的信函稱：“我們擔心，減少會議次數將削弱委員會應對快速變化經濟形勢的能力，也相當於單方面改變美聯儲與市場及美國公眾溝通的方式”。"
+    },
+    {
+      "id": "5058483",
+      "time": "2026-08-26 03:29:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價25日顯著下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌2.65美元，收於每桶82.36美元，跌幅為3.12%；10月交貨的倫敦布倫特原油期貨價格下跌3.59美元，收於每桶88.58美元，跌幅為3.89%。"
+    },
     {
       "id": "mkt:01a03a65-e66d-7aab-9119-be03582e68a4",
       "time": "2026-08-26 03:29:11",
@@ -149522,70 +149552,6 @@
         "公司"
       ],
       "text": "委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。"
-    },
-    {
-      "id": "mkt:01a0165d-6d03-7aab-9081-59c55f97feb4",
-      "time": "2026-08-19 03:33:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "U.S. special envoy for Syria Tom Barrack said Turkey did not receive prior warning of Israeli airstrikes and could reasonably have prepared to respond."
-    },
-    {
-      "id": "5046455",
-      "time": "2026-08-19 03:33:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋國防部表示，從伊朗發射的兩枚彈道導彈以海上航運為攻擊目標。"
-    },
-    {
-      "id": "mkt:01a0165c-f1c2-7aab-9081-56432645ea04",
-      "time": "2026-08-19 03:33:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. special envoy for Syria Tom Barrack said the situation underscores the need to establish a conflict de-escalation mechanism involving Israel, Syria and Turkey, and that he is actively working on it."
-    },
-    {
-      "id": "mkt:01a0165c-d2be-7aab-9081-49b1129702e7",
-      "time": "2026-08-19 03:32:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. special envoy for Syria Tom Barrack said Israel's strike on a Syrian air force base reflects perceptions that Turkey may increase its presence in Syria in the near term."
-    },
-    {
-      "id": "5046454",
-      "time": "2026-08-19 03:31:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國敘利亞問題特使湯姆·巴拉克：以色列發動空襲前並未向土耳其發出預警，土耳其本可據此作出合理應對準備。這凸顯需要建立一套包含以色列、敘利亞與土耳其在內的衝突規避機制，我方正積極推進相關工作。"
-    },
-    {
-      "id": "5046453",
-      "time": "2026-08-19 03:31:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國敘利亞問題特使湯姆·巴拉克：以色列對敘利亞空軍基地實施空襲，反映出以方判斷土耳其可能會在短期內擴大其在當地的軍事存在。"
-    },
-    {
-      "id": "5046452",
-      "time": "2026-08-19 03:30:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。"
     }
   ]
 }
