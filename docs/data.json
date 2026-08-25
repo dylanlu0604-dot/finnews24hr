@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-26 05:40:07",
-  "count": 16517,
+  "updated": "2026-08-26 05:44:32",
+  "count": 16516,
   "items": [
+    {
+      "id": "mkt:01a03ae0-4769-7aab-911b-2cf7dd423bb9",
+      "time": "2026-08-26 05:42:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Axios: US unlikely to use military force against Iran for now】Axios reports Secretary of State Rubio has told allied officials the US does not currently expect to launch new military strikes against Iran. The Trump administration’s current approach is to temporarily avoid military action and instead tighten economic pressure via a US naval blockade and a new round of Treasury sanctions while pushing to keep as much oil as possible flowing through the Strait of Hormuz. US officials say clearing most sea mines in the Strait and rising tanker traffic via southern routes have materially reduced Iran’s leverage over global energy markets; a US official said, \"Iran has lost control of the Strait, and now the US controls it.\" Officials add the blockade is cutting off key Iranian revenue, with few tankers seen near Iran’s main export hub Kharg Island in the past two weeks. Rubio said there is no plan to resume large-scale military operations now but the US retains strike options if Iran strikes first; another US official said the policy is expected to remain at least until the midterm elections, after which military options could be revisited."
+    },
     {
       "id": "5058531",
       "time": "2026-08-26 05:38:22",
@@ -149413,23 +149426,6 @@
         "國際"
       ],
       "text": "美國商務部長盧特尼克：美國商務部人口普查局剛剛釋出的分析報告顯示，2020年大選中有超過24000名非公民非法投票。這批人不只是完成選民登記，而是確確實實進行了非法投票。而這僅僅是開始。未來數週內，還有超過3200萬條選民記錄將接受分析，這些記錄很可能還會查出數萬名額外的非法投票者。"
-    },
-    {
-      "id": "5046511",
-      "time": "2026-08-19 05:41:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗警告，在霍爾木茲海峽隱匿身份的船隻將面臨安全處置。"
-    },
-    {
-      "id": "5046510",
-      "time": "2026-08-19 05:40:20",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。"
     }
   ]
 }
