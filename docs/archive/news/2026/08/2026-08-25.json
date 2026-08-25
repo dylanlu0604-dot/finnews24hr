@@ -1,7 +1,178 @@
 {
   "date": "2026-08-25",
-  "count": 3150,
+  "count": 3167,
   "items": [
+    {
+      "id": "5058261",
+      "time": "2026-08-25 22:05:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "Waymo：計劃於2027年底在慕尼黑向公眾開放商業網約車服務。"
+    },
+    {
+      "id": "mkt:01a0393d-bbe5-7aab-9114-e446c172904b",
+      "time": "2026-08-25 22:05:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed Governor Collins said he will monitor over the coming months for evidence that inflation can sustain a decline to 2%."
+    },
+    {
+      "id": "mkt:01a0393d-8558-7aab-9114-df8471adf680",
+      "time": "2026-08-25 22:05:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Collins said contacts in the New England region broadly expressed concern about elevated prices."
+    },
+    {
+      "id": "mkt:01a0393d-4710-7aab-9114-d2d5de98dd66",
+      "time": "2026-08-25 22:05:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed COLLINS said a sharp decline in immigration and population aging will maintain balance between U.S. labor supply and labor demand."
+    },
+    {
+      "id": "mkt:01a0393c-c02a-7aab-9114-cf605253e546",
+      "time": "2026-08-25 22:04:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "COLLINS: Labor market consistent with full employment; economy growing at a near-trend pace."
+    },
+    {
+      "id": "5058260",
+      "time": "2026-08-25 22:04:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：移民大幅減少疊加人口老齡化應可使勞動力供給與勞動力需求保持平衡。"
+    },
+    {
+      "id": "mkt:01a0393c-513b-7aab-9114-c39157159db9",
+      "time": "2026-08-25 22:04:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources say Waymo plans to launch a driverless robotaxi service in Germany by the end of 2027."
+    },
+    {
+      "id": "5058259",
+      "time": "2026-08-25 22:04:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "WAYMO： 推出專為自動駕駛計算設計的5奈米專用積體電路，用於實時感測器資料處理，為我們在德國慕尼黑的全自動駕駛叫車服務奠定基礎。"
+    },
+    {
+      "id": "5058258",
+      "time": "2026-08-25 22:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：勞動力市場與充分就業狀態一致；經濟正以接近趨勢水平的速度增長。"
+    },
+    {
+      "id": "mkt:01a0393b-7352-7aab-9114-bd8036421f37",
+      "time": "2026-08-25 22:03:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "COLLINS (Federal Reserve) said inf remains too high and expressed concern about the Fed's responsibility to maintain price stability."
+    },
+    {
+      "id": "mkt:01a0393b-24f6-7aab-9114-b7f57a6ef56b",
+      "time": "2026-08-25 22:02:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources: OpenAI says its JALAPENO chip outperforms NVIDIA's GB300 on both speed and power consumption."
+    },
+    {
+      "id": "5058257",
+      "time": "2026-08-25 22:02:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波士頓聯儲主席柯林斯：通脹仍然過高，對美聯儲職責中的物價穩定部分感到擔憂。"
+    },
+    {
+      "id": "mkt:01a0393a-da06-7aab-9114-abc3f36c4a30",
+      "time": "2026-08-25 22:02:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU strongly condemned Belarus's decision to designate EU-supported websites and social media as \"extremist information sources\"."
+    },
+    {
+      "id": "5058256",
+      "time": "2026-08-25 22:02:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OPENAI稱其JALAPENO晶片在速度和功耗方面都超越了英偉達的GB300。"
+    },
+    {
+      "id": "te:markets:577986",
+      "time": "2026-08-25 22:01:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Gold Fields earnings below expectations at 0.95 USD — Gold Fields (GFI) released earnings per share at 0.95 USD, compared to market expectations of 1.06 USD."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608253853345568",
+      "time": "2026-08-25 22:01:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月諮商會消費者信心指數89.4，預期90.2，前值由90.8修正為90.2。"
+    },
     {
       "id": "mkt:01a03939-a34f-7aab-9114-a5c830a3d439",
       "time": "2026-08-25 22:01:13",
@@ -125,6 +296,15 @@
         "Important"
       ],
       "text": "United States | Richmond Fed Manufacturing Index (Aug) | actual 4 | previous 5"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608253853344846",
+      "time": "2026-08-25 22:00:22",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月新建住宅銷量季調後折年率60.7萬，預估為62萬，前值為62.8萬。"
     },
     {
       "id": "mkt:01a03938-bc70-7aab-9114-52592803ae82",
