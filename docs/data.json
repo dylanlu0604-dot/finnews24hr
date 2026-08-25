@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-25 23:26:34",
-  "count": 16486,
+  "updated": "2026-08-25 23:30:46",
+  "count": 16485,
   "items": [
+    {
+      "id": "5058346",
+      "time": "2026-08-25 23:29:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總統施泰因邁爾談及移民問題：想要在德國紮根生活，任何人都無需否認自己的出身。任何人都不必否定自身來源，一個人完全可以擁有多個故土。"
+    },
+    {
+      "id": "5058345",
+      "time": "2026-08-25 23:29:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外交部：我們呼籲國際社會迫使佔領方（以色列）停止其侵權行為，並立即撤回到停火線。"
+    },
+    {
+      "id": "5058344",
+      "time": "2026-08-25 23:27:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：伊斯蘭國家的團結是地區安全與穩定的關鍵。"
+    },
+    {
+      "id": "5058343",
+      "time": "2026-08-25 23:27:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：美國對伊朗實施的制裁屬於單邊制裁，呼籲透過斡旋化解危機。"
+    },
+    {
+      "id": "5058342",
+      "time": "2026-08-25 23:26:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外交部：譴責以色列國防部長非法入境並越過國際邊界，此舉侵犯了我國主權。"
+    },
+    {
+      "id": "5058341",
+      "time": "2026-08-25 23:26:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總統施泰因邁爾談及移民問題：公民沒有一等、二等之分。我國憲法並未將德意志民族定義為血緣族群。憲法不承認所謂同血脈的“民族共同體”，也不給所謂“原生德意志人”賦予公民特權。在憲法的定義中，德意志民族同樣包含後來加入我們的人。"
+    },
     {
       "id": "5058340",
       "time": "2026-08-25 23:25:55",
@@ -149023,71 +149071,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Edges Up on Tuesday — The FTSE 100 edged higher on Tuesday, outperforming other European markets as gains in energy stocks offset weakness among precious-metals miners. BP and Shell rose 3% and 2%, respectively, supported by higher crude prices as hopes for a lasting US-Iran peace agreement faded. President Donald Trump said there were no talks scheduled with Iran and confirmed that the US naval blockade remained in place, adding to uncertainty over the conflict and the Strait of Hormuz. Lower gold prices weighed on mining stocks, with Fresnillo falling around 3% and Endeavour Mining declining 2.8%. Meanwhile, UK labour market data showed unemployment holding at 4.9% in the three months to June, slightly above the 4.8% expected. Payroll employment increased by 83,000, well below the 129,000 forecast, suggesting some softening in labour demand. Average weekly earnings rose 4.1% year-on-year, broadly matching expectations."
-    },
-    {
-      "id": "5046336",
-      "time": "2026-08-18 23:30:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約據報制定對俄陸戰構想戰略】德國《圖片報》8月17日報道稱，北約已經制定名為“北約陸戰構想”的戰略，以應對與俄羅斯可能爆發的衝突。（CCTV國際時訊）"
-    },
-    {
-      "id": "5046335",
-      "time": "2026-08-18 23:30:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌0.81%，報26124點。法國股指初步收跌0.73%，義大利股指初步收跌0.94%、銀行指數跌0.85%，英國股指初步收漲0.17%。"
-    },
-    {
-      "id": "5046334",
-      "time": "2026-08-18 23:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌0.65%，報652.13點。歐元區STOXX 50指數初步收跌0.96%，報6468.00點。富時泛歐績優300指數初步收跌0.65%，報2607.03點。"
-    },
-    {
-      "id": "te:economy:576199",
-      "time": "2026-08-18 23:30:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: South Korea 10Y Bond Yield Rises by 10 bps — Majority of government bonds yields are higher on Tuesday. Top gainers are South Korea 10Y (10.20bps), Germany 10Y (4.23bps) and Japan 10Y (1.34bps). Biggest losers are US 10Y (-0.80bps)."
-    },
-    {
-      "id": "mkt:01a0157e-1834-7aab-907e-8dfaabfcd228",
-      "time": "2026-08-18 23:29:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UGI shares rose 11.3% after KKR made a $9 bln takeover offer for the U.S. energy distributor."
-    },
-    {
-      "id": "5046333",
-      "time": "2026-08-18 23:27:44",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【美銀調查：基金經理股票配置升至近五年最高 空頭幾乎絕跡】美國銀行的Michael Hartnett表示，全球投資者進一步提高股票持倉，股票配置升至近五年來最高水平，市場幾乎沒有給悲觀者留下空間。Hartnett為首的美銀策略師團隊在報告中寫道，美銀最新行業調查顯示，淨56%的基金經理超配股票，佔比為2021年11月以來最高。現金配置則降至“極低”的3.5%。報告稱，市場共識是經濟不會出現明顯“著陸”、美聯儲不會加息、AI資本開支不會削減、民主黨不會在中期選舉中大勝。他們認為當前倉位仍意味著投資者更應在風險資產內部撤退或輪動，而不是進一步加倉，報告重申了近期轉向更防禦性市場板塊的觀點。8月調查顯示，投資者預計美聯儲在11月中期選舉前不會加息，民主黨的選舉表現不足以削弱股市的強勁勢頭。基金經理的普遍看法是，經濟不會出現明顯惡化，而大舉投資人工智慧基礎設施的公司也會繼續維持支出。"
-    },
-    {
-      "id": "mkt:01a0157b-edc1-7aab-907e-806c2f904d61",
-      "time": "2026-08-18 23:27:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "US crude futures rose more than $1 intraday as prospects for a US-Iran peace deal faded."
     }
   ]
 }
