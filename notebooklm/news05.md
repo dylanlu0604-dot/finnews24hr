@@ -1,7 +1,69 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-26 05:57:13_
-_本檔包含 3272 則快訊，約 652975 字_
+_更新時間：2026-08-26 06:38:50_
+_本檔包含 3254 則快訊，約 654667 字_
+
+---
+
+### 2026-08-20 07:33:54  #其他
+
+【北京市委常委會召開會議，研究透過“十五五”時期推進國際科技創新中心建設規劃等事項】會議強調，“十五五”時期是科技強國建設的關鍵攻堅期，黨中央作出將北京國際科技創新中心擴圍至京津冀的重大部署，我們要認真貫徹落實，不斷鞏固提升原始創新策源地優勢，深入實施基礎研究領先行動，強化國家戰略科技力量建設和協同，努力在前沿領域取得引領性顛覆性突破。全面拓展科技創新應用場景，培育壯大戰略性新興產業和未來產業，大力發展新質生產力。深入促進科技與文化融合創新，全面提升城市管理數智化水平。深化產學研協同育人，健全戰略科學家、科技領軍人才和創新團隊發現、引進機制，全力打造高水平人才高地。加快建設中關村世界領先科技園區，完善科技金融服務體系，強化國際科技交流合作，擴大中關村論壇等品牌活動影響力，培育世界一流創新生態。
+
+會議要求，要持續推進綜合監管規範化、精細化、智慧化，為首都高質量發展和高水平安全提供有力保障。結合中央安全生產考核巡查反饋問題整改，持續深化重點領域隱患整治，推動監管模式從“事後處置”向“事前預警、事中管控”轉變。持續深化監管改革、最佳化監管方式，最大限度為經營主體鬆綁減負、賦能增效，圍繞企業和群眾反映強烈的問題最佳化服務，增強群眾獲得感。堅持現場檢查和非現場監管兩手抓，完善部門協同、上下聯動機制，深化人工智慧等前沿技術應用，不斷提升監管質效。（北京日報）
+
+---
+
+### 2026-08-20 07:33:18  #公司 #市場
+
+【A股限售股解禁一覽：11.33億元市值限售股今日解禁】Wind資料顯示，週四（8月20日），共有6家公司限售股解禁，合計解禁量為1837.51萬股，按最新收盤價計算，合計解禁市值為11.33億元。從解禁量來看，乖寶寵物、英聯股份、奧普科技解禁量居前，解禁股數分別為1020.43萬股、500.0萬股、134.37萬股。從解禁市值來看，寒武紀、乖寶寵物、英聯股份解禁市值居前，解禁市值分別為6.28億元、4.01億元、5095.0萬元。從解禁股數佔總股本比例來看，乖寶寵物、酉立智慧、英聯股份解禁比例居前，解禁比例分別為2.55%、2.39%、1.19%。
+
+---
+
+### 2026-08-20 07:32:36  #其他
+
+【醫藥賽道內部分化加大 主題基金注重挖掘個股機會】近期，科技股調整帶來的資金虹吸效應逐步消退，市場資金重新分流，醫藥主題基金淨值迎來明顯修復。但與光模組、半導體賽道基金一榮俱榮的表現截然不同，醫藥板塊內部收益分化十分明顯。同樣是醫藥主題基金，部分產品2026年以來收益率逼近50%，但也有不少醫藥基金年內依舊處於虧損狀態。 多位業內人士也判斷，公募在創新藥賽道的投資中，個股選擇能力將決定醫藥基金的收益彈性，在行業貝塔削弱的背景下，主動權益基金在醫藥賽道的投資優勢逐步抬升。（證券時報）
+
+---
+
+### 2026-08-20 07:31:47  #觀點
+
+【中信建投：市場格局尚未定局，掌控稀缺資料與造數閉環能力的企業有望迎來核心溢價】中信建投研報指出，物理AI正接棒成為下一階段AI增長的核心變數。物理世界資料作為貫穿感知至反饋的關鍵引擎，面臨巨大需求剛性缺口。受制於保真、規模與成本的“不可能三角”，物理世界資料獲取倒逼行業有望迎來三重變革：商業模式端透過社會化眾包採數，技術正規化端依託世界模型虛擬造數，資產屬性端躍升為企業高溢價核心無形資產。供需失衡驅動物理資料資產價值重估，資本加速向資料基礎設施與評測集聚。市場格局尚未定局，掌控稀缺資料與造數閉環能力的企業有望迎來核心溢價。
+
+---
+
+### 2026-08-20 07:31:23  #其他
+
+【結束11日淨流出 昨日ETF資金整體大幅淨流入557.28億元】8月19日，ETF資金整體淨流入557.28億元，股票型淨流入529.07億元，寬基型淨流入394.09億元。當日ETF資金淨流入榜單排名前10中有8只為寬基ETF,前3依次為：華泰柏瑞滬深300ETF（510300）淨流入54.31億元，華夏上證科創板50成份ETF（588000）淨流入44.18億元，易方達創業板ETF（159915）淨流入43.38億元。
+
+---
+
+### 2026-08-20 07:26:28  #公司
+
+【科技賽道企業密集使用 定向可轉債併購受青睞】在近年來不斷活躍的併購市場中，定向可轉債作為兼具債底保護與股性彈性的創新支付工具，越來越受上市公司青睞。8月15日，精測電子披露公告，擬以發行股份、可轉債搭配支付現金的方式，收購上海精測半導體技術有限公司41.17%股權。截至目前，該交易涉及的審計、評估、法律盡調等工作仍在推進。據證券時報記者不完全統計，今年以來已有至少12家上市公司釋出將定向可轉債作為併購支付工具相關預案或最新進展，電子資訊等領域相關案例居多。業內人士表示，定向可轉債透過“債底保護+股性彈性”的雙重設計，既能滿足交易對手對本金安全的需求，又可透過轉股條款分享企業成長紅利，尤其適用於輕資產、高研發投入的科技企業併購。
+
+---
+
+### 2026-08-20 07:24:45  #公司
+
+【支援措施落地 中小公募差異化突圍】近日，面向中小公募機構重啟的新一批15只攤餘成本法基金正式上報，產品均為63個月封閉期的債券基金，目前證監會已接收申報材料。在業內看來，此舉是支援中小基金公司規範健康發展一攬子措施的實質性落地，為中小基金公司從“基礎規模積累”向“工具化產品轉型”的戰略定位提供了重要鋪墊。近年來，包括外資、內資在內的部分中小基金公司立足於自身稟賦，在探索差異化發展的道路上已卓有成效。比如，一些外資公募機構著力發展跨境業務、一些內資公募機構深耕定增業務等，都已打造成為業內“招牌”。業內人士認為，中小公募機構由於資源投入能力有限，需要集中力量深耕少數擅長的領域，把細分方向的研究能力做深做實，持續打磨投研體系，積累長期業績，把特色產品優勢沉澱為市場品牌認知。（中國證券報）
+
+---
+
+### 2026-08-20 07:23:08  #其他
+
+【“為情緒價值買單”成消費新口號 “悅己經濟”有望成為消費市場新引擎】從LABUBU（拉布布）火爆全球，到各大品牌IP聯名款頻頻出圈，“為情緒價值買單”成為年輕一代的消費口號，IP衍生消費品蘊藏廣闊空間，“悅己經濟”有望成為消費市場新引擎。暑期消費市場正值旺季。近期，證券時報記者走訪多地商圈發現，依託IP衍生的消費持續升溫，二次元穀子經濟、各類品牌“IP+消費”等新興消費業態表現亮眼，為線下消費注入新活力。
+
+---
+
+### 2026-08-20 07:22:42  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Firm on Middle East Uncertainty — Brent crude held near $92 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month.
+
+---
+
+### 2026-08-20 07:21:20  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Firm on Middle East Uncertainty — Crude oil held near $86 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month.
 
 ---
 
@@ -19586,173 +19648,5 @@ Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainer
 ### 2026-08-19 06:39:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
 
 【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns.
-
----
-
-### 2026-08-19 06:38:17  #焦點 #國際
-
-【美官員：特朗普要求談判團隊暫停與伊朗接觸】一名美國官員表示，特朗普已要求政府高階特使暫停與伊朗方面的接觸。此外，一名知情人士表示，白宮官員近期向政治盟友傳達其對伊朗戰略正在發生轉變——從“儘快重擊伊朗”轉向長期“扼住伊朗的咽喉”。美國官員表示，特朗普已經要求其談判團隊暫時不要與伊朗方面接觸。該團隊成員包括美國副總統萬斯以及特朗普的特使威特科夫和特朗普的女婿庫什納。美國官員稱，這一指示是在美方此前與伊朗進行了一些“積極討論”之後作出的。對此，伊朗方面暫無回應。
-
----
-
-### 2026-08-19 06:37:45  #其他
-
-【債券ETF規模首超9000億元 固收被動投資加速提質擴容】固收工具化浪潮正在加速到來。今年以來，債券ETF淨申購份額超過36億份，總規模首次突破9000億元。在制度紅利、資金需求，品類增加的多重因素推動下，債券ETF規模不斷突破原有的“天花板”，成為公募固收業務的新發力點。業內人士認為，債券ETF還處於發展初期，仍存在一些堵點，行業需攜手共進，實現從“規模擴張”向“結構最佳化”的轉型。 (上證報)
-
----
-
-### 2026-08-19 06:37:17  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500
-
-【OpenAI Q2 revenue +18% QoQ to $6.7bln; losses widen, operating margin contracts ahead of IPO】OpenAI said Q2 revenue rose 18% sequentially to $6.7bln (Q1 $5.7bln), while losses increased and operating margin contracted, further dimming the prospect of profitability ahead of a planned IPO; some investors said they were disappointed the company has not closed the gap with rival Anthropic.
-
----
-
-### 2026-08-19 06:36:34  #其他
-
-OpenAI第二季度營收增長18%至67億美元，但虧損進一步擴大，業務增速落後於Anthropic。
-
----
-
-### 2026-08-19 06:36:25  #其他
-
-Anthropic營收翻倍，達到116億美元。受Claude程式碼業務驅動，其實現高速擴張，營收規模首次超越OpenAI。
-
----
-
-### 2026-08-19 06:35:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 4.04% — Top commodity losers are Platinum (-4.04%), Silver (-3.86%), Copper (-2.46%) and Gold (-1.83%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%).
-
----
-
-### 2026-08-19 06:32:00  #國際
-
-土耳其總統府：以色列總理提出的指控缺乏嚴肅性，其目的是為以色列針對敘利亞主權和領土完整的非法空襲合法化。
-
----
-
-### 2026-08-19 06:31:48  #MKT News #Market Themes #AI Revolution
-
-OpenAI said revenue rose to $6.7 bln in the three months to June, the Wall Street Journal reports.
-
----
-
-### 2026-08-19 06:30:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Rises by 3.97% — Top commodity gainers are Natural Gas EU (3.97%), Natural gas (3.72%), Propane (3.48%), Crude Oil WTI (0.93%) and Brent Crude Oil (0.43%).
-
----
-
-### 2026-08-19 06:29:33  #國際
-
-伊朗副外長加里巴巴迪：伊朗掌握自身命運，不會在壓力面前後退，本國人民將堅定反抗“脅迫與威脅”。
-
----
-
-### 2026-08-19 06:25:25  #國際
-
-【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。（新華社）
-
----
-
-### 2026-08-19 06:22:30  #其他
-
-OpenAI第二季度營收67億美元。
-
----
-
-### 2026-08-19 06:21:59  #MKT News #Important
-
-Market sources say ANTHROPIC is expected to launch an IPO process within weeks.
-
----
-
-### 2026-08-19 06:21:38  #其他
-
-OpenAI向投資者表示，第三季度業務增長已經提速。
-
----
-
-### 2026-08-19 06:21:32  #其他
-
-Anthropic（二季度）營收較一季度實現翻倍以上增長。
-
----
-
-### 2026-08-19 06:20:15  #其他 #焦點
-
-Anthropic預計將在數週內啟動IPO流程。
-
----
-
-### 2026-08-19 06:18:12  #國際
-
-韓國LG新能源正與美方洽談無人機電池合作事宜。
-
----
-
-### 2026-08-19 06:15:04  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Zealand Dollar (-0.47%), Australian Dollar (-0.29%), Polish Zloty (-0.26%), Japanese Yen (-0.12%) and British Pound (-0.10%). Gains are led by South Korean Won (0.32%). Meanwhile, Euro and Dollar Index were little changed.
-
----
-
-### 2026-08-19 06:14:56  #其他
-
-【朝中社發文譴責韓美“乙支自由護盾”聯合軍演】當地時間19日，朝中社發表評論文章，譴責美韓17日起進行“乙支自由護盾”大規模聯合軍演。文章稱，針對敵人日趨進化的威脅行動，朝鮮需要用進一步升級的新力量作出應對。侵害和威脅朝鮮主權安全的敵人將時刻被鎖定在殲滅性報復手段的瞄準範圍內。（央視新聞）
-
----
-
-### 2026-08-19 06:14:24  #宏觀
-
-英國首相伯納姆表示，作為權力移交的一部分，北部唐寧街10號將從財政部手中接管經濟增長相關權責。
-
----
-
-### 2026-08-19 06:07:09  #國際
-
-以色列再次轟炸黎巴嫩南部地區。
-
----
-
-### 2026-08-19 06:03:15  #市場
-
-現貨白銀日內跌1%，現報62.17美元/盎司。
-
----
-
-### 2026-08-19 06:03:08  #其他
-
-中通快遞：第二季度包裹量為104.86億件，第二季度營收21.4億美元，第二季度每股收益56美分。
-
----
-
-### 2026-08-19 06:02:01  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。
-
----
-
-### 2026-08-19 06:01:56  #市場
-
-紐約期銀日內跌1%，現報63.39美元/盎司。
-
----
-
-### 2026-08-19 06:00:45  #市場 #焦點
-
-現貨白銀突破63美元/盎司，日內跌0.51%。
-
----
-
-### 2026-08-19 06:00:08  #公司 #國際
-
-美國地面運輸委員會：決定啟動評估聯合太平洋鐵路公司與諾福克南方鐵路公司擬議合併交易價值的程式。
-
----
-
-### 2026-08-19 05:58:28  #公司 #焦點 #國際
-
-美國地面運輸委員會：採納聯合太平洋鐵路公司與諾福克南方鐵路公司合併審議程式時間表，將該合併程式移出擱置狀態。
 
 ---
