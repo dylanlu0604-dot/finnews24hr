@@ -1,7 +1,383 @@
 {
   "date": "2026-08-25",
-  "count": 1511,
+  "count": 1552,
   "items": [
+    {
+      "id": "5056995",
+      "time": "2026-08-25 15:50:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗報道：德黑蘭省 95 兆瓦太陽能電站正式落成。"
+    },
+    {
+      "id": "mkt:01a037e5-eab5-7aab-910b-3f61145fd517",
+      "time": "2026-08-25 15:50:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Copper"
+      ],
+      "text": "German IFO business climate index for August and LME stock changes for copper, aluminium and nickel through Aug. 25 are due in 10 minutes."
+    },
+    {
+      "id": "5056993",
+      "time": "2026-08-25 15:49:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁得醫療：2026年上半年淨利潤虧損1636.29萬元，同比由盈轉虧】邁得醫療公告，2026年上半年營業收入1.6億元，同比增長13.42%；歸屬於上市公司股東的淨利潤虧損1636.29萬元，2025年上半年為604.51萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2132.77萬元，2025年上半年虧損251.49萬元。"
+    },
+    {
+      "id": "te:economy:577863",
+      "time": "2026-08-25 15:48:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Poland Jobless Rate Steady at 5.8% — Poland’s registered unemployment rate stood at 5.8% in July 2026, in line with market expectations and unchanged from the previous month. The latest reading still marked the lowest level since December 2025, as the number of unemployed persons declined by 4.9 thousand from a month earlier to 906.4 thousand, with women representing 49.6% of the total. The majority of unemployed individuals were not entitled to unemployment benefits, accounting for 87% of the total. Meanwhile, 4.5% were out of work due to company-related terminations, while fresh graduates made up 1.8% of all unemployed persons. Additionally, 373.2 thousand had been out of work for more than a year. Compared with July 2025, the jobless rate was 0.4 percentage points higher, having stood at 5.4% a year earlier. At the same time, reported job vacancies at the end of the month increased by 3.5 thousand to 46.6 thousand."
+    },
+    {
+      "id": "mkt:01a037e3-d810-7aab-910b-354633408cbd",
+      "time": "2026-08-25 15:47:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Riksbank minutes: sustained above‑expected inflation could still prompt a rate hike this year】Riksbank minutes said if higher‑than‑expected inflation this summer proves persistent, a policy rate increase later this year remains possible. The bank left the policy rate at 1.75% at its last meeting. Governor Thedéen said the next policy move would need to be a rate increase but timing is uncertain. The minutes described a mixed outlook: headline inflation is low at 0.7% YoY in July; growth has picked up while firms' pricing plans remain muted, oil has retreated and the labour market is weak. Risks cited include election‑year temporary tax cuts boosting headline inflation, underlying price pressures running hotter than expected over the summer, and the Middle East conflict spilling over and pushing domestic prices higher."
+    },
+    {
+      "id": "5056992",
+      "time": "2026-08-25 15:47:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德林海：上半年歸母淨利潤虧損567.82萬元，同比虧損擴大】德林海8月25日披露半年報，公司上半年實現營業收入1.68億元，同比增長54.95%；歸屬於上市公司股東的淨利潤虧損567.82萬元，上年同期虧損309.28萬元；基本每股收益-0.04元/股。"
+    },
+    {
+      "id": "5056991",
+      "time": "2026-08-25 15:47:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克：未來3個月內沒有透過德魯日巴管道出口石油的計劃。"
+    },
+    {
+      "id": "5056990",
+      "time": "2026-08-25 15:47:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北特科技：2026年上半年營收12.04億元 淨利同比增14.78%】北特科技公告稱，2026年上半年實現營業收入12.04億元，同比增長8.20%；歸屬於上市公司股東的淨利潤6312.77萬元，同比增長14.78%；歸屬於上市公司股東的扣除非經常性損益的淨利潤5949.63萬元，同比增長14.98%。經營活動產生的現金流量淨額6223.26萬元，同比增長148.12%。基本每股收益0.1829元，同比增長12.55%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "mkt:01a037e2-c06e-7aab-910b-2c9d03f6d82f",
+      "time": "2026-08-25 15:46:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Kazakhstan's energy minister said the oil production plan for 2026 is now set at 96 mln tonnes."
+    },
+    {
+      "id": "te:markets:577862",
+      "time": "2026-08-25 15:46:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound — The CAC 40 rose 0.4% to 8,485 on Tuesday, rebounding from losses in the previous session as stabilization in technology sector helped improve risk sentiment. Investor attention turned to Nvidia’s closely watched earnings report due Wednesday, with the results expected to offer a crucial gauge of the strength and longevity of the AI-driven market. Investors also continued to assess developments surrounding US-Iran tensions after Washington's threat of an \"economic D-Day\" through tougher sanctions on Iran failed to generate the level of market disruption many had expected. Domestically, the consumer confidence index remained unchanged at 86 in August, falling short of forecasts for 87 and staying well below its long-run average of 100, highlighting ongoing caution among households. Notable gainers included Airbus (1.4%), Safran (1.5%), and Legrand (1.1%). Meanwhile, luxury stocks lagged the broader market, with LVMH down 0.7%, Hermès slipping 0.3%, and Kering losing 1.1%."
+    },
+    {
+      "id": "5056989",
+      "time": "2026-08-25 15:45:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第一醫藥：2026年上半年淨利潤2616.98萬元，同比增長86.60%】第一醫藥公告，2026年上半年營業收入9.82億元，同比下降1.51%；歸屬於上市公司股東的淨利潤2616.98萬元，2025年同期為1402.42萬元，同比增長86.60%；歸屬於上市公司股東的扣除非經常性損益的淨利潤131.19萬元，同比下降85.44%。"
+    },
+    {
+      "id": "mkt:01a037e1-cb77-7aab-910b-204d7fc8a0a4",
+      "time": "2026-08-25 15:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kremlin denies reports of new Russian mobilization as 'Ukrainian lie'】TASS reported PESKOV said reports that Russia may launch a new wave of mobilization are \"fabricated newspaper rumors\" deliberately spread by the Ukrainian government to ideologically undermine Russia's stability. ZELENSKIY has repeatedly said Russian authorities will announce fresh mobilization this autumn, and Ukrainian media have circulated related reports."
+    },
+    {
+      "id": "mkt:01a037e1-9d07-7aab-910b-182861082c1a",
+      "time": "2026-08-25 15:45:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Japan finance ministry expects next fiscal year's debt-servicing costs to hit record high】Japan's finance ministry expects debt-servicing costs in the fiscal year starting April to rise 17.1% YoY to a record ¥36.6386 trillion ($229.94 bln) due to higher interest rates, Kyodo reported on Tuesday."
+    },
+    {
+      "id": "5056988",
+      "time": "2026-08-25 15:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克目前預計2026年石油產量將達到9600萬噸。"
+    },
+    {
+      "id": "5056987",
+      "time": "2026-08-25 15:45:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鍵邦股份：2026年半年度淨利潤6971.92萬元，同比增長0.08%】鍵邦股份公告，2026年半年度營業收入3.43億元，同比增長11.64%；歸屬於上市公司股東的淨利潤6971.92萬元，同比增長0.08%，上年同期6966.36萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤6537.76萬元，同比下降0.27%，上年同期6555.57萬元。"
+    },
+    {
+      "id": "5056986",
+      "time": "2026-08-25 15:45:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南航天集團黨委委員、副總經理樊鋒：打造商業航天“陪伴式”全生命週期服務】作為2026文昌國際航空航天論壇的平行論壇之一，“金融賦能商業航天產業發展論壇”8月25日舉辦。海南航天集團黨委委員、副總經理樊鋒致辭時表示，當前商業航天正處於國家戰略、技術成熟與市場需求同頻共振的關鍵拐點，行業已從概念走向產業化。海南航天集團將依託海南商發發射工位、測控資源及自貿港政策紅利，整合數字技術與金融資本能力，推出面向商業航天企業的“陪伴式”服務產品。該模式涵蓋從專案論證、研發製造到發射運營、融資出海的全生命週期支援，構建發射、測控、回收複用的全鏈條商業服務能力。"
+    },
+    {
+      "id": "te:markets:577860",
+      "time": "2026-08-25 15:45:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises for 6th Day — The FTSE 100 traded higher on Tuesday, extending its winning streak to six sessions, its longest run of gains since May. Melrose was among the strongest performers, rising more than 8% after the aerospace company announced a $100 million claims programme related to damage at its GKN Aerospace facility in California. A criminal investigation into the incident has been closed, while the site is expected to resume operations next month. Oil prices were only slightly lower after the US unveiled new sanctions targeting businesses involved in Iran’s trade network. The measures, dubbed “Operation Economic Outcast” by Treasury Secretary Scott Bessent, have affected companies in China and Hong Kong but have so far avoided major Chinese financial institutions. Meanwhile, weakness in both precious and industrial metals weighed on miners."
+    },
+    {
+      "id": "5056985",
+      "time": "2026-08-25 15:44:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李樂成主持召開製造業企業座談會 圍繞產業人才隊伍建設聽取意見建議】8月25日，工業和資訊化部黨組書記、部長李樂成主持召開第二十一次製造業企業座談會，聚焦產業人才隊伍建設，聽取相關企業情況介紹和意見建議。會議強調，要更好統籌發展和安全，以科技創新塑造產業發展優勢，以人才引育驅動創新發展引擎，以開放協同構建國際合作格局，以人才安全築牢產業安全屏障。要自覺弘揚企業家精神，狠抓行業自律、質量提升、責任落實和文化建設，打造良性互促產業生態，營造良好社會環境，引領更多人走實業報國之路。會議要求，工業和資訊化部系統要認真落實黨中央關於一體推進教育科技人才發展的決策部署，持續鞏固壯大產業人才隊伍，加力促進創新鏈產業鏈資金鍊人才鏈深度融合，推動形成以高素質人才促進新型工業化高質量發展的良好局面。（工信微報）"
+    },
+    {
+      "id": "5056984",
+      "time": "2026-08-25 15:44:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高凌資訊：2026年上半年營收9168.23萬元 淨利扭虧】高凌資訊公告稱，2026年上半年實現營業收入9168.23萬元，同比下降3.7%；歸母淨利潤218.83萬元，同比增長106.62%，實現扭虧為盈；扣非歸母淨虧損1016.20萬元，同比增長76.98%。上半年實施2025年度分紅，每10股派現1元（含稅）、轉增3股，合計派現1293.17萬元。完成一期股份回購，累計回購166.60萬股，耗資3008.69萬元。推進收購凱睿星通控制權的重大資產重組，目前軍工事項審查已獲國防科工局原則同意，審計、評估工作基本完成。"
+    },
+    {
+      "id": "5056983",
+      "time": "2026-08-25 15:44:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞為數千只小藍企鵝接種H5N1禽流感疫苗】為應對高致病性H5N1禽流感威脅，澳大利亞維多利亞州已啟動小藍企鵝疫苗接種專案，計劃在菲利普島和墨爾本聖基爾達為5000只小藍企鵝接種疫苗。截至8月23日晚，菲利普島已有1000只小藍企鵝接種了兩劑疫苗中的第一劑。（新華社）"
+    },
+    {
+      "id": "5056982",
+      "time": "2026-08-25 15:44:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "BESI股價下跌3.8%。"
+    },
+    {
+      "id": "mkt:01a037e0-5008-7aab-910b-1116cb953ccf",
+      "time": "2026-08-25 15:44:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kazakhstan's Ministry of Energy said oil production losses will reach 3.5 million tonnes."
+    },
+    {
+      "id": "mkt:01a037e0-3026-7aab-910b-08c0366e57ca",
+      "time": "2026-08-25 15:43:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kazakhstan's Ministry of Energy said it will adjust oil production plans after an attack on the Caspian Pipeline Consortium."
+    },
+    {
+      "id": "5056981",
+      "time": "2026-08-25 15:43:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克能源部：石油減產將達到350萬噸。"
+    },
+    {
+      "id": "5056980",
+      "time": "2026-08-25 15:43:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【梅德韋傑夫：俄不會對“敵方侵略計劃”置之不理，將“全力”進行反擊】綜合俄新社、塔斯社等媒體25日報道，俄羅斯聯邦安全會議副主席梅德韋傑夫在接受媒體採訪時表示，俄方不會對“敵方的侵略計劃”置之不理，將“全力”進行反擊。據塔斯社報道，梅德韋傑夫在採訪中提到，北約不斷擴張，相關計劃顯示北約可能會接納烏克蘭等國家。“我們應該如何應對？很明顯，這一切都對俄羅斯的生存構成威脅。”他補充稱，莫斯科需要得到保證，即其他國家不會襲擊俄羅斯，針對俄羅斯的敵對行動將停止。（環球網）"
+    },
+    {
+      "id": "5056979",
+      "time": "2026-08-25 15:42:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克能源部：因裡海管道聯盟（CPC）遭襲擊，石油生產計劃將作出調整。"
+    },
+    {
+      "id": "mkt:01a037de-aa84-7aab-910b-06c010ff9a45",
+      "time": "2026-08-25 15:42:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches level‑IV flood‑defense emergency for five provinces/regions】The Ministry of Water Resources initiated a level‑IV flood‑defense emergency at 13:00 on Aug. 25 for Hebei, Shanxi, Inner Mongolia, Shaanxi and Qinghai after forecasts of a strong rain event from Aug. 25–28 across central/eastern Northwest and central/northern North China. The ministry said the Yellow River’s upper and middle reaches and tributaries — including the Huangshui, Dahei, Huangpuchuan and Kuye rivers — and Haihe basin rivers Yongding, Daqing and Hutuo will see rising water; some small and medium rivers in heavy‑rain areas may exceed warning levels. Flash‑flood and silt‑dam safety risks are high. Authorities ordered intensified real‑time monitoring, denser forecasting and warnings, reinforced duty‑room coordination, precision scheduling of flood‑control works with priority on reservoir and silt‑dam safety and small‑river/mountain flood defenses, and urged local governments to pre‑evacuate threatened residents."
+    },
+    {
+      "id": "5056977",
+      "time": "2026-08-25 15:41:48",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【水法修訂草案擬規定加快構建國家水網】水法修訂草案8月25日提請十四屆全國人大常委會第二十四次會議二次審議。草案二審稿擬充實關於國家水網建設的內容，增加加快構建國家水網相關規定。記者同時瞭解到，根據相關建議，為與生態環境法典有關規定做好銜接，進一步完善水資源保護、開發利用的總體要求，草案二審稿增加統籌好水資源、水環境、水生態、水災害治理，構建與水資源承載能力相適應的現代化產業體系等內容。（新華社）"
+    },
+    {
+      "id": "5056976",
+      "time": "2026-08-25 15:41:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【天奈科技擬出售北美子公司51%股權】天奈科技擬以2550萬美元，將控制美國業務的BVI天奈51%股權出售給控股股東、實際控制人之一鄭濤控制的Aether Materials Limited。交易完成後，BVI天奈將不再納入上市公司合併報表，原本由上市公司控制的北美業務將轉由實控人關聯方承接。公告顯示，此次調整是為使美國天奈滿足美國相關法案對Non-PFE主體的認定要求。後續天奈科技還計劃繼續降低所持BVI天奈股權，使中國單一主體持股不超過25%，或多箇中國主體合計持股不超過40%。"
+    },
+    {
+      "id": "mkt:01a037dd-8a2b-7aab-910a-fcaa10390690",
+      "time": "2026-08-25 15:41:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【China transport ministry: key transport indicators up Jan–Jul】China's transport ministry said Jan–Jul fixed-asset investment in transportation totaled 1.8 tln yuan, with road investment 1.2 tln yuan and water transport 125.5 bln yuan. Commercial freight volume was 32.97 bln tonnes, up 2.8% YoY; road freight 24.98 bln tonnes, +2.9% YoY; inland water freight 4.93 bln tonnes, +3.0% YoY. Port cargo throughput was 10.56 bln tonnes, up 1.3% YoY; domestic and foreign trade throughput rose 0.3% and 3.6% YoY respectively. Container throughput was 210 mln TEU, +5.1% YoY."
+    },
+    {
+      "id": "5056975",
+      "time": "2026-08-25 15:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部針對5省區啟動洪水防禦Ⅳ級應急響應】依據《水利部水旱災害防禦應急響應工作規程》，水利部於8月25日13時針對河北、山西、內蒙古、陝西、青海等省（自治區）啟動洪水防禦Ⅳ級應急響應，指導督促地方水利部門和相關流域管理機構密切監視天氣變化，滾動加密雨水情監測預報預警，強化會商研判和值班值守，科學精細排程防洪工程，突出抓好水庫和淤地壩安全度汛、中小河流洪水和山洪災害防禦等工作，及時提請地方政府提前轉移受威脅群眾和危險區人員，確保人民群眾生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a037dc-7e25-7aab-910a-f6271246d90c",
+      "time": "2026-08-25 15:39:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact mixed"
+      ],
+      "text": "【Amazon raises US hardware prices; some items up about 60%】Amazon raised US retail prices for multiple hardware products last weekend, including Fire TV streaming devices, Echo smart speakers, Kindle e-readers and Eero routers. The low-end Echo Dot was repriced from $49.99 to $79.99, about a 60% increase. An Amazon spokesman said the consumer electronics industry is facing large increases in memory and storage component costs; after absorbing those cost rises as long as possible the company recently adjusted pricing across its product lines and will continue to run intermittent promotions over the next year."
+    },
+    {
+      "id": "5056973",
+      "time": "2026-08-25 15:39:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅運股份：2026年上半年淨利潤6318.22萬元，同比增長39.31%】雅運股份公告，2026年上半年營業收入5.23億元，同比增長18.86%；歸屬於上市公司股東的淨利潤6318.22萬元，同比增長39.31%，2025年上半年為4535.4萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤6137.9萬元，同比增長41.36%，2025年上半年為4342.05萬元。"
+    },
+    {
+      "id": "5056972",
+      "time": "2026-08-25 15:39:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一點點關聯公司今年新增8家分支機構】據媒體報道，近日，有外賣騎手釋出影片稱，其在“1點點”門店取餐並詢問進度時，店員回覆“能取就取，取不了就滾”。8月24日，1點點方面回應稱，公司已聯絡該騎手，目前正積極溝通和處理。天眼查App顯示，一點點奶茶關聯公司生根餐飲管理（上海）有限公司成立於2011年8月，註冊資本800萬元，由EAGLE INFRASTRUCTURE FUND LIMITED全資持股。分支機構資訊顯示，2026年以來，該公司已成立8家分支機構，均處於存續狀態。"
+    },
+    {
+      "id": "mkt:01a037db-ff00-7aab-910a-e9f32125f8a0",
+      "time": "2026-08-25 15:39:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Enjie Co.: Battery separator prices remain relatively firm】At its 2026 interim briefing, Enjie Co. said battery-separator demand is robust while incremental supply is limited, leaving the market tight and prices relatively firm. The company said continued downstream demand and gradual improvement in the supply-demand balance should support a further, healthy recovery in profitability."
+    },
+    {
+      "id": "5056971",
+      "time": "2026-08-25 15:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恩捷股份：隔膜產品價格趨勢相對堅挺】8月25日下午，恩捷股份(002812)在2026年半年度業績說明會上表示，目前隔膜行業整體需求旺盛，新增供給相對有限，行業供需緊張，產品價格趨勢相對堅挺。隨著下游需求的持續增長，在供需格局逐步好轉的背景下，公司預計未來盈利將有望進一步得到良性恢復。"
+    },
+    {
+      "id": "5056970",
+      "time": "2026-08-25 15:38:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天機電：2026年上半年淨利潤虧損1342.97萬元，2025年上半年虧損2.15億元】航天機電公告，2026年上半年營業收入14.77億元，同比下降18.81%；歸屬於上市公司股東的淨利潤虧損1342.97萬元，2025年上半年虧損2.15億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損5869.16萬元，2025年上半年虧損2.37億元。"
+    },
+    {
+      "id": "5056969",
+      "time": "2026-08-25 15:38:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江榮泰：重新向港交所遞交H股發行上市申請】浙江榮泰公告稱，公司正在推進申請發行H股股票並在香港聯交所主機板掛牌上市相關工作，已於2026年8月24日向香港聯交所重新遞交本次發行上市的申請，並於同日在香港聯交所網站刊登更新後的申請材料。該申請材料為草擬版本，所載資料可能適時更新修訂。本次發行上市尚需取得中國證監會、香港證監會及香港聯交所等相關機構的批准、核准或備案，仍存在不確定性。"
+    },
+    {
+      "id": "mkt:01a037da-aafb-7aab-910a-e2bc461c6d86",
+      "time": "2026-08-25 15:37:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Kyodo reports Japan's debt-servicing costs will rise 17.1% to a record ¥36.6386 trillion in fiscal 2027/28."
+    },
+    {
+      "id": "5056968",
+      "time": "2026-08-25 15:37:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應對臺風、降雨、山洪風險 文化和旅遊部發布提示】根據氣象部門預報，未來三天，西北地區、內蒙古、華北等地有明顯降雨過程，青海東部和南部、內蒙古西部、河北中部、北京、天津等地區有大到暴雨，其中部分地區有大暴雨，局地有特大暴雨。同時，今年第18號颱風“沙德爾”8月26日進入東海後，逐漸向西偏南方向移動，並向浙閩一帶沿海靠近，受其影響，浙江東南部地區有大到暴雨。文化和旅遊部市場管理司提示，北京、天津、河北、山西、內蒙古、青海、浙江等地文旅部門加強會商研判，聚焦山洪溝口、狹窄行洪河道等重點區域，嚴格落實臨災預警“叫應”及跟蹤反饋機制，提前果斷轉移危險區群眾，全力保障人民群眾生命財產安全。（央視新聞）"
+    },
     {
       "id": "mkt:01a037da-48d1-7aab-910a-de203b94a76f",
       "time": "2026-08-25 15:37:27",
@@ -29,6 +405,14 @@
         "Emerging Markets"
       ],
       "text": "Interfax reported Kazakhstan has begun supplying small volumes of gasoline to Russia."
+    },
+    {
+      "id": "5056966",
+      "time": "2026-08-25 15:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈薩克已開始向俄羅斯供應小批次汽油。"
     },
     {
       "id": "5056965",
