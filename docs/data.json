@@ -1,7 +1,104 @@
 {
-  "updated": "2026-08-25 23:43:11",
-  "count": 16483,
+  "updated": "2026-08-25 23:47:13",
+  "count": 16488,
   "items": [
+    {
+      "id": "te:markets:578011",
+      "time": "2026-08-25 23:46:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Extends Losses Below $82 — Crude oil fell more than 3% to below $82 a barrel on Monday, extending a 2.4% loss in the previous session, as investors assessed signs of easing tensions between the US and Iran. Pakistan’s army chief visited Tehran in an effort to support diplomacy, while Qatar said it was continuing mediation efforts. Reports that Washington could soon return evacuated diplomats to the region also suggested that a broader military escalation may be less imminent. Meanwhile, Washington’s latest measures to increase economic pressure on Iran were less severe than markets had anticipated. US Treasury Secretary Scott Bessent said countries trading with Tehran would be given a deadline to wind down their links or risk unilateral penalties. Despite the measures, substantial volumes of crude continue to move through the Strait of Hormuz, with some shipments operating discreetly."
+    },
+    {
+      "id": "mkt:01a03999-92df-7aab-9116-9440620198c4",
+      "time": "2026-08-25 23:46:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Russia says two Zaporizhzhia nuclear plant workers injured in Ukrainian drone attack】Russia said on the 25th a Ukrainian drone strike injured two staff at the Zaporizhzhia nuclear power plant. The plant’s press office said the attack occurred near hydrotechnical structures while employees in a maintenance and construction workshop were working; no specific time was given. The office said the strike targeted personnel responsible for keeping the plant operational; both injured were hospitalized, one seriously. The plant said it had notified IAEA experts; Ukraine had no immediate comment."
+    },
+    {
+      "id": "te:markets:578010",
+      "time": "2026-08-25 23:45:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Higher — European stocks closed slightly higher on Tuesday, trimming losses from recent sessions with rebounds from AI infrastructure companies and manufacturers. The Euro STOXX 50 added 0.2% to 6,462 and the STOXX Europe 600 added 0.4% to 657. Chip producers and data center input companies pared losses from the previous session as the market gauged the outlook for capital expenditure in coming years, especially ahead of IPOs by Anthropic and OpenAI. ASML and Infineon rose 1% each, while Siemens Energy soared over 3%. Meanwhile, Siemens, Schneider, Safran, and Airbus also gained, benefitting from lower energy prices and sovereign yields. Natural gas futures fell from peaks after the US signaled it would put sanctions on companies helping Iran trade, moving away from a rhetoric of military strikes."
+    },
+    {
+      "id": "mkt:01a03998-2d61-7aab-9116-8e78d2dd580c",
+      "time": "2026-08-25 23:44:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "In a joint statement, Oman and Iran said technical talks will continue to seek an agreement to establish a permanent transit corridor through the Strait of Hormuz."
+    },
+    {
+      "id": "5058361",
+      "time": "2026-08-25 23:44:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：中情局局長正在俄羅斯進行會談】美國哥倫比亞廣播公司25日援引訊息人士的話報道稱，美國中央情報局局長拉特克利夫目前正在俄羅斯首都莫斯科進行會談。 報道說，有人此前在莫斯科某機場發現了一架美國空軍運輸機以及一支美國外交車隊，隨後傳出了他此行的訊息。不過，美俄雙方政府均未就這名美方官員的身份或此次訪問的目的發表評論。（新華社）"
+    },
+    {
+      "id": "mkt:01a03997-1767-7aab-9116-8415ac9d5530",
+      "time": "2026-08-25 23:43:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US Treasury yields continued to decline; 10-year Treasury yield fell 6bps to 4.64%."
+    },
+    {
+      "id": "5058360",
+      "time": "2026-08-25 23:42:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率延續跌勢，10年期國債收益率下跌6個基點至4.64%。"
+    },
+    {
+      "id": "5058359",
+      "time": "2026-08-25 23:42:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利與本土礦業化工企業基博拉克斯簽署首份私營鋰礦合同。"
+    },
+    {
+      "id": "5058358",
+      "time": "2026-08-25 23:42:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國研究團隊成功製備大面積銅鋅錫硫硒薄膜光伏元件】記者從中國科學院物理研究所獲悉，該所孟慶波研究員團隊成功製備出大面積銅鋅錫硫硒薄膜光伏元件，元件光電轉換效率達到13.0%，重新整理了該類元件效率的世界紀錄，為下一代低成本、環境友好型太陽能電池產業化奠定了堅實基礎。該成果近日在國際學術期刊《自然·材料》發表。（央視新聞）"
+    },
     {
       "id": "mkt:01a03996-5544-7aab-9116-7ed0e30c8773",
       "time": "2026-08-25 23:42:28",
@@ -13,6 +110,14 @@
         "Brent"
       ],
       "text": "【International oil prices dip】WTI crude fell 3.88% to $81.27/bbl; Brent crude slipped below $87, also down 3.88% intraday. Both benchmarks dropped roughly $0.80 in the short term."
+    },
+    {
+      "id": "5058357",
+      "time": "2026-08-25 23:42:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報81.59美元/桶。"
     },
     {
       "id": "mkt:01a03995-4b2f-7aab-9116-7017762fd2c6",
@@ -148998,50 +149103,6 @@
         "國際"
       ],
       "text": "以色列國防軍稱，對加沙地帶北部多名哈馬斯指揮官實施打擊。"
-    },
-    {
-      "id": "mkt:01a0158d-6826-7aab-907e-fe5740d9e4d0",
-      "time": "2026-08-18 23:46:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said it struck a Hamas commander in the Shati area of northern Gaza who was plotting terror attacks against Israeli forces."
-    },
-    {
-      "id": "5046347",
-      "time": "2026-08-18 23:44:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙方面報道：加沙港口遇襲事件死亡人數已升至 6 人。"
-    },
-    {
-      "id": "mkt:01a0158b-7dd7-7aab-907e-f5a66055a69c",
-      "time": "2026-08-18 23:44:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gaza sources say the death toll from an attack on Gaza port has risen to six."
-    },
-    {
-      "id": "mkt:01a0158b-44ff-7aab-907e-e90ddcef54ab",
-      "time": "2026-08-18 23:44:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Russia says Sweden's seizures of vessels serving Russian interests are politically motivated】Russia's ambassador to Sweden Sergey Belyayev told RIA on the 18th that Sweden has detained multiple cargo ships serving Russian interests since late 2025, calling the actions politically motivated and in breach of international maritime law. He said Sweden has relied on allegations the vessels flew false flags but has produced no substantive charges and that the detentions are intended to pressure commercial operators involved in Russia's foreign trade. AFP reported earlier this month that Swedish court documents show a previously detained freighter will be handed over to Ukraine, accused of transporting grain from Russian-occupied areas."
-    },
-    {
-      "id": "5046346",
-      "time": "2026-08-18 23:43:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）"
     }
   ]
 }
