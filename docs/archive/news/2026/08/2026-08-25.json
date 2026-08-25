@@ -1,7 +1,162 @@
 {
   "date": "2026-08-25",
-  "count": 1084,
+  "count": 1101,
   "items": [
+    {
+      "id": "mkt:01a0372a-448f-7aab-9106-57fb9cc32452",
+      "time": "2026-08-25 12:25:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【National flood-control headquarters, Ministry of Emergency Management activate level-4 response for Beijing, Tianjin, Hebei, Inner Mongolia and Qinghai】The National Flood and Drought Control Headquarters and the Ministry of Emergency Management activated a level-4 flood-control emergency response at 10:00 on Aug. 25 for Beijing, Tianjin, Hebei, Inner Mongolia and Qinghai. Meteorological forecasts show significant rainfall over the next three days across northwest China, Inner Mongolia and North China; eastern and southern Qinghai, western Inner Mongolia, central Hebei, Beijing and Tianjin are expected to see heavy to torrential rain, with very heavy falls in some areas and locally extreme downpours."
+    },
+    {
+      "id": "mkt:01a03729-fccb-7aab-9106-4ece7da1047d",
+      "time": "2026-08-25 12:24:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Han Zheng meets Indian national security adviser and China-India border special representative Doval】Chinese Vice President Han Zheng met Indian National Security Adviser and China-India border special representative Doval in Beijing on the 25th. Han said Xi and Modi’s meetings in Kazan and Tianjin over the past two years produced important consensuses that have put bilateral ties back on a recovery path. He urged both sides to view the relationship strategically and long-term, implement leaders’ consensus, deepen strategic mutual trust, expand cooperation and multilateral coordination, and properly manage differences to advance sustained, stable development of China-India relations."
+    },
+    {
+      "id": "5056731",
+      "time": "2026-08-25 12:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱黑海沿岸一煉油廠遭烏襲擊起火 已致2死2傷】當地時間25日，俄羅斯克拉斯諾達爾邊疆區行政長官孔德拉季耶夫通報，當天凌晨，黑海沿岸阿菲普斯基鎮遭襲，至少10棟私人住宅受損，其中1棟起火。煉油廠區域內也發生了火災。烏軍無人機碎片墜落在阿菲普斯基火車站區域，造成2人遇難、2人受傷。烏克蘭方面目前對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03729-cdc2-7aab-9106-464c207a2312",
+      "time": "2026-08-25 12:24:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JP Morgan is loosening its securities-backed lending policy for employees and early investors holding recently listed shares. The bank's standard rule bars shares listed within the last 135 days from being used as collateral; people familiar with the matter expect JP Morgan to apply the change to ANTHROPIC's IPO."
+    },
+    {
+      "id": "5056730",
+      "time": "2026-08-25 12:24:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總、應急管理部針對京津冀蒙青啟動防汛四級應急響應】據氣象部門預報，未來三天，西北地區、內蒙古、華北等地有明顯降雨過程，青海東部和南部、內蒙古西部、河北中部、北京、天津等地部分地區有大到暴雨，其中部分地區有大暴雨，局地有特大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月25日10時針對北京、天津、河北、內蒙古、青海啟動防汛四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5056729",
+      "time": "2026-08-25 12:24:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門針對浙江啟動防汛防颱風四級應急響應】今年第18號颱風“沙德爾”（強颱風級）將於8月26日進入東海，並向浙閩一帶沿海靠近。受其影響，浙江東南部等地部分地區有大到暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月25日10時針對浙江省啟動防汛防颱風四級應急響應。"
+    },
+    {
+      "id": "5056728",
+      "time": "2026-08-25 12:23:48",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【大摩：油價飆升是美股頭號風險 恐進一步推高美債收益率】摩根士丹利策略師邁克爾·威爾遜（Michael Wilson）最新警告稱，油價再度飆升是當前美股面臨的最大風險，他建議投資者利用能源股來對沖投資組合風險。這位策略師表示，油價的進一步上漲可能推高債券收益率，並最終迫使美聯儲採取行動，因為美聯儲主席凱文·沃什致力於將通脹拉回目標水平。“到那個時候，應對壓力將更多落在美聯儲而非財政部身上，”他稱。“我們毫不懷疑美聯儲最終會作出回應，但可能要等到市場進一步出現動盪之後”。"
+    },
+    {
+      "id": "5056727",
+      "time": "2026-08-25 12:23:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓正會見印度國家安全顧問、中印邊界問題印方特別代表多瓦爾】國家副主席韓正25日在北京會見印度國家安全顧問、中印邊界問題印方特別代表多瓦爾。韓正表示，過去兩年，習近平主席同莫迪總理在喀山、天津兩度會晤，就中印關係發展達成一系列重要共識，引領兩國關係重回恢復改善軌道。中印作為相鄰的發展中大國和重要新興經濟體，應從戰略高度和長遠角度看待和處理兩國關係，共同落實好兩國領導人重要共識，增進戰略互信，挖掘合作潛力，密切多邊協作，妥善管控分歧，推動中印關係持續穩定發展。（新華社）"
+    },
+    {
+      "id": "mkt:01a03728-564a-7aab-9106-3a25a2f75869",
+      "time": "2026-08-25 12:23:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin Fixed-Open Mixed Fund will be suspended from the afternoon session open on 25 August 2026 through market close that day."
+    },
+    {
+      "id": "5056726",
+      "time": "2026-08-25 12:22:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：本基金將於2026年8月25日下午開盤起至當日收盤停牌。"
+    },
+    {
+      "id": "mkt:01a03727-f9a2-7aab-9106-30d2dee91179",
+      "time": "2026-08-25 12:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【RBA says bank-system reserves still above potential demand】The Reserve Bank of Australia said bank-system reserves remain above potential demand as it transitions to an abundant-reserves regime. The RBA said it will supply sufficient liquidity while keeping market rates close to the cash rate. Domestic markets head David Jacobs said the new regime can flexibly provide any quantity of reserves the system requires while maintaining the cash rate near the central bank’s target. The RBA plans to move to the abundant-reserves system in 2024; under it banks’ reserve needs will be met via open-market repo operations priced near the cash rate target using full-allotment auctions."
+    },
+    {
+      "id": "5056725",
+      "time": "2026-08-25 12:22:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國最高法院暫時支援特朗普限制郵寄選票的措施 法律拉鋸戰料將持續】美國總統唐納德·特朗普推動利用美國郵政限制11月中期選舉郵寄選票的做法，在最高法院獲得暫時性勝利，不過，法院同時也為未來幾天針對該措施再次發起法律挑戰留下了空間。 儘管三位自由派大法官持反對意見，但最高法院週一裁定暫緩執行波士頓聯邦法院旨在阻止特朗普行政命令關鍵部分全面實施的裁決。 即便有了最高法院的裁決，但也並不能確保在今年中期選舉時相關措施仍處於實施狀態，爭論可能很快再次回到最高法院。該裁決僅針對加利福尼亞州牽頭的幾個州提起的訴訟是否為時過早，而非特朗普是否有權強制執行這些規則。 法院在一份未署名的意見書中表示，“法院對本申請的處理結果並不意味著政府為執行該命令而採取的任何措施就必然合法。這一點，時間會給出答案。”"
+    },
+    {
+      "id": "5056724",
+      "time": "2026-08-25 12:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢算力公共服務平臺3.0上線 雲從科技簽約服務商】記者從雲從科技(688327)獲悉，武漢算力公共服務平臺3.0版正式上線，雲從科技代表國家網安基地簽約，正式成為平臺服務商。雲從科技將依託已落地的AI基礎設施和產業服務能力，向武漢市企業提供大模型訓練、AIGC應用及智慧體等相關服務。據介紹，武漢算力公共服務平臺3.0版升級後，平臺服務將進一步延伸至模型呼叫、Token服務和智慧體開發等領域。"
+    },
+    {
+      "id": "te:markets:577764",
+      "time": "2026-08-25 12:21:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Dips Further as External Pressures Linger — The Indonesian rupiah slipped toward IDR 17,740 per U.S. dollar in thin holiday trading on Tuesday, extending its recent weakness and retreating further from last week’s near ten-week high. Sentiment remained cautious amid persistent external pressures. Indonesia’s current account deficit widened to a record USD 12.5 billion in Q2 2026, raising concerns that elevated oil prices, firm import demand and softer exports could keep the external balance under strain in the near term. Traders also turned wary ahead of July trade data and August inflation next week, while El Niño risks added to food-price worries. Still, losses were contained by expectations that Bank Indonesia, led by acting Governor Destry Damayanti, will stay focused on currency stability after holding rates at 5.75% in August, following 100bp of tightening since May. Globally, the dollar steadied after recent gains as fresh U.S. steps to restrict Iran’s access to the financial system kept geopolitical risks elevated."
+    },
+    {
+      "id": "5056723",
+      "time": "2026-08-25 12:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡公佈私人號碼接受民眾致電，被指“選舉噱頭”、藉機“收集選民資料”】據以色列《耶路撒冷郵報》當地時間25日報道，以色列總理內塔尼亞胡當地時間23日在一段影片中公佈了自己的“私人電話號碼”，喊話以色列民眾“有問題就打給總理。”然而，以媒形容此舉為一次“選舉噱頭”，還有人提出質疑。（環球網）"
+    },
+    {
+      "id": "5056722",
+      "time": "2026-08-25 12:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網易嚴選推出“帶薪寵物陪護假”】近日，網易嚴選釋出全員內部信，宣佈正式設立“帶薪寵物陪護假”。即日起，當員工的寵物因健康原因需要陪護時，可直接申請帶薪健康陪護假，每年專享2天額度。（新浪科技）"
+    },
+    {
+      "id": "te:economy:577763",
+      "time": "2026-08-25 12:18:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kyrgyzstan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Kyrgyz Central Bank Holds Rate at 12% — The National Bank of the Kyrgyz Republic left its benchmark interest rate unchanged for a fourth consecutive meeting at 12.0% on August 24, 2026, maintaining tight monetary conditions to contain persistent inflationary pressures. Consumer prices have risen 7.3% since the start of 2026, with annual inflation reaching 11.7%, driven by higher fuel and food prices amid global commodity volatility and ongoing geopolitical tensions. Meanwhile, the economy remained robust, with real GDP expanding 11.1% year-on-year in January-July, supported by strong investment activity, particularly in construction, and resilient domestic consumption. The central bank said tight monetary conditions remain necessary to limit external inflationary pressures and support a sustained decline in inflation, while remaining ready to adjust policy if risks to price stability intensify. The next policy meeting is scheduled for October 26."
+    },
     {
       "id": "5056720",
       "time": "2026-08-25 12:17:59",
