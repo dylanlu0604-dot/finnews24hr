@@ -1,7 +1,57 @@
 {
   "date": "2026-08-25",
-  "count": 1016,
+  "count": 1022,
   "items": [
+    {
+      "id": "mkt:01a03706-cbc3-7aab-9105-a8bf2d4b546e",
+      "time": "2026-08-25 11:46:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's Long March-6C launches seven satellites from Taiyuan】A Long March-6C carrier rocket lifted off from Taiyuan Satellite Launch Center, placing seven satellites—Zhongke Satellite-14, Zhongke Satellite-15, Mudu-1A, Mudu-1B, Jing'an Dreamstar, Bayi-04 and Galaxy Aerospace Lingzhi-09 (Thailand CubeSat)—into their planned orbits; the flight-test mission was fully successful."
+    },
+    {
+      "id": "5056674",
+      "time": "2026-08-25 11:45:37",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【長征六號丙遙一運載火箭發射成功】今天，長征六號丙遙一運載火箭在太原衛星發射中心發射升空，將中科衛星14星、中科衛星15星、木鐸1A衛星、木鐸1B衛星、靜安夢想星、八一04星、銀河航天靈知09泰國立方星等7顆衛星順利送入預定軌道，飛行試驗任務取得圓滿成功。（央視新聞）"
+    },
+    {
+      "id": "5056673",
+      "time": "2026-08-25 11:45:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【8月25日午間公告一覽：江龍船艇簽訂8700萬美元合同】江龍船艇公告，2026年8月24日，公司與客戶J簽訂一批《40米工作船建造合同》，合同總金額為8700萬美元，佔公司2025年度經審計營業收入的83.99%。合同簽署且賣方收到第一期合同款後生效，合同生效之日起二十六(26)個月內完成交付。"
+    },
+    {
+      "id": "mkt:01a03705-61c2-7aab-9105-a5f806721e0f",
+      "time": "2026-08-25 11:44:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand domestic car sales rose 20.07% YoY in July, the Federation of Thai Industries said, up from a 17.26% YoY increase in June."
+    },
+    {
+      "id": "5056671",
+      "time": "2026-08-25 11:44:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國7月國內汽車銷量為59,196輛。"
+    },
+    {
+      "id": "5056670",
+      "time": "2026-08-25 11:44:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國7月國內汽車銷量同比增長20.07%（6月同比增長17.26%）。"
+    },
     {
       "id": "5056669",
       "time": "2026-08-25 11:43:09",
