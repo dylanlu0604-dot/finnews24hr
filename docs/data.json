@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-25 23:59:31",
+  "updated": "2026-08-26 00:04:17",
   "count": 16496,
   "items": [
+    {
+      "id": "5058371",
+      "time": "2026-08-26 00:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【近東救濟工程處：以色列強闖聯合國設施“不可接受”】當地時間25日，聯合國近東巴勒斯坦難民救濟和工程處（近東救濟工程處）發表宣告，稱以色列方面強闖位於耶路撒冷北部、屬於該機構的一處培訓中心“未經授權且令人嚴重關切”，並予以明確譴責。"
+    },
+    {
+      "id": "5058370",
+      "time": "2026-08-26 00:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "全美汽車工人聯合會（UAW）稱，反對在貿易問題上對加拿大采取任何升級對抗的舉措。"
+    },
+    {
+      "id": "5058369",
+      "time": "2026-08-26 00:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：Anthropic預計向投資者披露，其整體潛在市場規模(TAM)超30萬億美元。"
+    },
+    {
+      "id": "te:markets:578016",
+      "time": "2026-08-26 00:00:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Inches Higher — The FTSE MIB edged up 0.3% to 52,720 on Tuesday, as banking mergers remained in focus while sentiment toward AI overspending improved. Prysmian (2.9%) and STMicroelectronics (0.8%) rebounded amid renewed optimism and ahead of Nvidia’s earnings. Stellantis added 1.4% as Canada imposed retaliatory tariffs on several US goods. Banking consolidation remained in focus, with Banco BPM’s (-0.5%) board reaching a unanimous decision regarding the aquisition offer from Banca MPS (0.5%), although a formal statement was still awaited. Intesa Sanpaolo (0.3%) will decide on approval for a capital increase to finance its takeover bid for MPS in September, while the Italian state said it would not sell its 4.8% stake on MPS. The Generali (0.5%) board is also expected to meet on Thursday. Luxury stocks underperformed amid profit-taking across the sector, with Moncler falling 2.2%. Eni (-1.2%) remained under pressure as Italy considers a tax on windfall energy profits."
+    },
+    {
+      "id": "5058368",
+      "time": "2026-08-25 23:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大工業部長喬利表示，在特朗普發出汽車行業相關威脅後，已與福特、本田、豐田等企業進行了溝通。"
+    },
     {
       "id": "te:markets:578015",
       "time": "2026-08-25 23:58:09",
@@ -149136,48 +149180,6 @@
         "國際"
       ],
       "text": "歐盟發言人：歐盟將監督新條款的有效落實。"
-    },
-    {
-      "id": "5046356",
-      "time": "2026-08-19 00:03:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【應特朗普要求 韓美聯合軍演提前結束 訓練日程縮短約一半】據韓國方面訊息，在美國總統特朗普要求大幅縮減韓美聯合軍演規模後，韓美軍方18日舉行緊急會晤，決定大幅壓縮正在進行的“乙支自由護盾”聯合軍演日程，原計劃持續至27日的演習將提前至本週結束，第二階段反擊演練被取消。“乙支自由護盾”聯合軍演於17日啟動，原計劃分為兩個階段進行：第一階段為17日至21日，以應對攻擊和防禦為主要演練內容；第二階段原定於23日至27日舉行，重點內容為反擊作戰演練。韓國軍方訊息人士透露，韓美軍方18日在緊急協商後決定，本次演習僅進行第一階段的防禦作戰部分，結束後美軍人員將撤離；原計劃中未能實施的訓練專案將另行尋找替代方案。這一調整意味著“乙支自由護盾”演習的整體訓練時間比原計劃縮短了約一半。（央視新聞）"
-    },
-    {
-      "id": "5046355",
-      "time": "2026-08-19 00:01:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【蘋果全面改革歐盟應用商店收費規則】蘋果將於 10 月 1 日修訂歐盟地區應用商店相關條款。核心技術費將予以取消，替換為對應用商店之外數字交易徵收 5% 的佣金。蘋果應用內購的歐盟佣金費率為 26%；採用替代支付方式費率為 20%；使用外部購買連結費率為 15%。蘋果還將進一步開放第三方應用分發渠道，並推出更多兒童安全防護舉措。"
-    },
-    {
-      "id": "mkt:01a0159a-9d5f-7aab-907f-163fddcc5b64",
-      "time": "2026-08-19 00:00:49",
-      "tags": [
-        "MKT News",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Apple (AAPL.O) said it has resolved a dispute with the European Union over App Store fees and will remove per-install charges for app developers in the EU."
-    },
-    {
-      "id": "5046354",
-      "time": "2026-08-19 00:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "蘋果將取消歐盟地區應用開發者的按安裝計費費用，蘋果稱已解決與歐盟圍繞應用商店收費產生的爭端。"
-    },
-    {
-      "id": "5046353",
-      "time": "2026-08-19 00:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：葉門武裝部隊對葉門西部荷臺達省南部的胡哈市中心發動無人機襲擊。"
     }
   ]
 }
