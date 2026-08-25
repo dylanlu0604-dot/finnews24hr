@@ -1,7 +1,122 @@
 {
-  "updated": "2026-08-26 01:58:43",
-  "count": 16521,
+  "updated": "2026-08-26 02:02:58",
+  "count": 16531,
   "items": [
+    {
+      "id": "5058430",
+      "time": "2026-08-26 02:02:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴拉圭央行維持關鍵利率在5.5%不變。"
+    },
+    {
+      "id": "mkt:01a03a15-7bd5-7aab-9118-6aaa0227f30c",
+      "time": "2026-08-26 02:01:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IMF managing director GEORGIEVA said falling energy demand, increased renewable output and some regions' return to coal have eased supply tightness in the Gulf."
+    },
+    {
+      "id": "mkt:01a03a15-15cf-7aab-9118-669b71a16d43",
+      "time": "2026-08-26 02:00:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "IMF managing director Georgieva said the global economy has held up better-than-expected amid the energy shock from the Iran war, supported by drawdowns in oil and gas inventories and increased non‑Gulf energy supply."
+    },
+    {
+      "id": "5058429",
+      "time": "2026-08-26 02:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：能源需求下降、可再生能源佔比提升，加之部分地區重新轉向煤炭，也緩解了海灣地區的供應緊張局勢。"
+    },
+    {
+      "id": "5058428",
+      "time": "2026-08-26 02:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：需解決全球過度失衡問題以強化全球經濟，國際貨幣基金組織正最佳化其外部平衡評估模型。"
+    },
+    {
+      "id": "mkt:01a03a14-a751-7aab-9118-59d19131e8ea",
+      "time": "2026-08-26 02:00:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "IMF Managing Director Georgieva said the global economy is benefiting from an AI investment and supply boom that is spreading from the US to Thailand and other countries."
+    },
+    {
+      "id": "5058427",
+      "time": "2026-08-26 02:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃表示，全球經濟正在經受住能源衝擊，但她對財政狀況表示擔憂。"
+    },
+    {
+      "id": "mkt:01a03a14-6738-7aab-9118-52d3ce0b6b99",
+      "time": "2026-08-26 02:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority said some vessels transiting the canal paid more than $1 million in auction fees to secure slots to meet specific market demand."
+    },
+    {
+      "id": "mkt:01a03a14-43a8-7aab-9118-4b9441cc95f3",
+      "time": "2026-08-26 02:00:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority: market costs for Panama Canal transit slot auctions have risen due to shifts in global trade supply and demand."
+    },
+    {
+      "id": "5058426",
+      "time": "2026-08-26 01:59:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局：部分已透過運河的船舶在拍賣中支付了超過100萬美元，以滿足特定市場需求。"
+    },
+    {
+      "id": "5058425",
+      "time": "2026-08-26 01:59:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "巴拿馬運河管理局：受全球貿易供需格局變動影響，通行船位拍賣的市場成本已出現上漲。"
+    },
+    {
+      "id": "mkt:01a03a13-ac32-7aab-9118-4504056311e5",
+      "time": "2026-08-26 01:59:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ICE arrested 49,571 migrants in July, highest monthly total since Trump’s second term began】U.S. Immigration and Customs Enforcement (ICE) arrested 49,571 migrants in July, ICE-provided data to UC Berkeley show, up about 15% from June’s 43,021 and roughly 70% above February’s 29,241. The July total is the largest monthly arrest tally since the start of Trump’s second term; ICE has intensified enforcement actions against undocumented migrants in multiple major U.S. cities since Trump returned to the White House in January."
+    },
     {
       "id": "5058424",
       "time": "2026-08-26 01:57:58",
@@ -149408,23 +149523,6 @@
         "DXY"
       ],
       "text": "DTEK said a Russian strike severely damaged a thermal power plant in central Ukraine, forcing the plant offline."
-    },
-    {
-      "id": "5046401",
-      "time": "2026-08-19 02:02:01",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【據傳優步透過大宗交易出售部分 Aurora Innovation 股權】知情人士透露，優步科技公司於週一透過一筆 4.766 億美元的非註冊大宗交易，出售了所持 Aurora Innovation 公司的部分股權。本次發售這家自動駕駛技術企業的 7200 萬股股票，定價 6.62 美元，處於 6.62‑6.97 美元推介價格區間的下限。摩根大通負責本次發售相關工作。"
-    },
-    {
-      "id": "5046400",
-      "time": "2026-08-19 02:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 在 Hugging Face 資料洩露事件後調整人工智慧安全機制。"
     }
   ]
 }
