@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-26 05:48:58",
-  "count": 16514,
+  "updated": "2026-08-26 05:53:08",
+  "count": 16515,
   "items": [
+    {
+      "id": "mkt:01a03ae7-0921-7aab-911b-30572588fa23",
+      "time": "2026-08-26 05:50:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Survey: BANK OF KOREA likely to weigh back-to-back hikes this week as economy, inf remain strong】Policy decision may be settled at the 11-TH HOUR. Of 22 economists surveyed, 14 expect a 25bp hike on Thursday to 3.0%; eight expect a hold. The BANK OF KOREA will release updated projections likely to support further tightening. Stronger-than-expected exports and domestic demand make a material upward revision to 2026 growth above May’s 2.6% likely; the inf forecast is also likely to be revised up from May’s 2.7%, driven by higher oil, earlier won depreciation and a semiconductor-led pickup in investment and consumption. Officials could point to the won’s recent rebound to justify delaying an immediate hike; if the bank holds, markets would likely push the next-rate-expectation to October."
+    },
     {
       "id": "mkt:01a03ae0-4769-7aab-911b-2cf7dd423bb9",
       "time": "2026-08-26 05:42:51",
