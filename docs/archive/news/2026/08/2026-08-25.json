@@ -1,7 +1,76 @@
 {
   "date": "2026-08-25",
-  "count": 1182,
+  "count": 1189,
   "items": [
+    {
+      "id": "5056782",
+      "time": "2026-08-25 13:14:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織就剛果（金）埃博拉疫情更新臨時建議】世界衛生組織24日在官網釋出宣告說，鑑於剛果（金）埃博拉疫情形勢，世衛組織總幹事已向會員國發布關於疫情防控的更新版臨時建議。其中只有剛果（金）的風險等級為“非常高”，該國周邊9國風險等級為“高”，其他國家的風險等級為“低”。宣告指出，世衛組織已針對剛果（金）疫情形勢提出了比之前更詳盡的建議，涵蓋疫情監測、病例發現和調查、感染預防和控制、臨床護理、風險溝通和社群參與等方面，並新增了關於社會措施、大型集會和國內流動的章節。宣告說，截至8月14日，世衛組織秘書處評估剛果（金）的風險等級為“非常高”，目前只有剛果（金）屬於這一類別。剛果（金）周邊的安哥拉、蒲隆地、中非共和國、剛果（布）、盧安達、南蘇丹等9國風險等級為“高”。其他國家的風險等級為“低”。"
+    },
+    {
+      "id": "5056781",
+      "time": "2026-08-25 13:13:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "長飛光纖港股午後持續拉昇，現漲超16%，報163.49港元。"
+    },
+    {
+      "id": "mkt:01a03755-3c1c-7aab-9107-28f947f9d161",
+      "time": "2026-08-25 13:12:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share CXO sector rose after intraday volatility; Kailaiying hit the daily limit. Top gainers included Hengdi Pharmaceutical, Meidixi, Nearshore Protein, Heyuan Biotech, Haoyuan Pharma, Tigermed and Chengda Pharmaceutical."
+    },
+    {
+      "id": "5056780",
+      "time": "2026-08-25 13:12:05",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【醫療保障法草案三審稿加強參保人權益保障】醫療保障法草案25日提請全國人大常委會會議三次審議。草案三審稿增加長期護理保險等內容，進一步加強參保人權益保障。在此前草案二審稿審議和徵求意見過程中，有的常委會委員、列席人員、專家和社會公眾建議，增加長期護理保險相關規定。鑑於此，草案三審稿增加規定，國家建立健全長期護理保險制度。長期護理保險的籌資執行、待遇保障、基金使用、監督管理等的具體辦法，由國務院醫療保障行政部門會同國務院有關部門參照本法有關基本醫療保險的規定製定。（新華社）"
+    },
+    {
+      "id": "mkt:01a03755-2a3c-7aab-9107-22e2c640d534",
+      "time": "2026-08-25 13:12:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CODEX head Tibo said OpenAI's 2026 developer conference will be the company's best ever and unrivaled."
+    },
+    {
+      "id": "5056779",
+      "time": "2026-08-25 13:11:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軍工概念震盪走強 天秦裝備20cm漲停】午後軍工概念震盪走強，天秦裝備20cm漲停，航宇科技、北方長龍、江龍船艇、長城軍工、安達維爾、捷強裝備等漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a03753-c223-7aab-9107-1e237beb8e12",
+      "time": "2026-08-25 13:10:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: KEVIN WARSH's Jackson Hole speech may clarify Fed's path on inf】Algebris global credit portfolio manager Gabriele Foa said he expects Fed chair KEVIN WARSH to deliver a material update on how the Fed will respond to inf in Friday's Jackson Hole remarks, after mixed signals at July's press conference. Foa said the Fed's avoidance of explicit forward guidance has left unusually large uncertainty around its policy reaction function, steepening the U.S. Treasury yield curve as long-end yields become the primary channel of adjustment. He added this partly contradicts Bessent's effort to lower long-term yields and may indicate weaker Fed–Treasury coordination than some market participants had expected."
+    },
     {
       "id": "5056778",
       "time": "2026-08-25 13:09:12",
