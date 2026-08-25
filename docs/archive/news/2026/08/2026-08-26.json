@@ -1,7 +1,42 @@
 {
   "date": "2026-08-26",
-  "count": 178,
+  "count": 182,
   "items": [
+    {
+      "id": "mkt:01a03a43-395f-7aab-9119-3c59a7db6dcb",
+      "time": "2026-08-26 02:51:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANEC forecasts August Brazilian soybean exports at 10.25 mln tonnes, down from a 10.56 mln-tonne estimate a week earlier."
+    },
+    {
+      "id": "5058461",
+      "time": "2026-08-26 02:51:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶88.58美元，下跌3.59美元，跌幅3.89%。"
+    },
+    {
+      "id": "mkt:01a03a42-c96d-7aab-9119-3279a150ca7a",
+      "time": "2026-08-26 02:50:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $88.58 per barrel, down $3.59 or 3.89%."
+    },
+    {
+      "id": "mkt:01a03a42-b00d-7aab-9119-2b3242faf432",
+      "time": "2026-08-26 02:50:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign minister said Pakistan welcomes the US decision to lift all sanctions on Syria."
+    },
     {
       "id": "mkt:01a03a3d-b120-7aab-9119-227c041ff591",
       "time": "2026-08-26 02:45:16",
