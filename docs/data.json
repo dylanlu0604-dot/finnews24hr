@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-26 00:12:23",
-  "count": 16499,
+  "updated": "2026-08-26 00:16:24",
+  "count": 16501,
   "items": [
+    {
+      "id": "mkt:01a039b4-9351-7aab-9117-028d2801895f",
+      "time": "2026-08-26 00:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA Administrator Bedford said that after the Marine One incident the relevant antennas have been relocated and some operating procedures have been adjusted."
+    },
+    {
+      "id": "mkt:01a039b2-8cd4-7aab-9116-fd213d45ac27",
+      "time": "2026-08-26 00:13:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Canadian minister pledged to take retaliatory measures against any new US tariffs targeting the auto sector."
+    },
+    {
+      "id": "te:markets:578020",
+      "time": "2026-08-26 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.34% Higher — The FTSE MIB Index gained 178 points or 0.34 percent on Tuesday to close at 52720 points. Gains were led by Tenaris (3.54%), Prysmian (2.68%) and Infrastrutture Wire (2.24%). Biggest losers were Moncler (-1.91%), Brunello Cucinelli (-1.89%) and Davide Campari-Milano (-1.21%)."
+    },
     {
       "id": "te:markets:578019",
       "time": "2026-08-26 00:11:02",
@@ -149193,14 +149224,6 @@
         "MKT News"
       ],
       "text": "Tasnim News Agency cites Houthi sources denying reports they launched a missile attack on the UAE."
-    },
-    {
-      "id": "5046363",
-      "time": "2026-08-19 00:15:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：葉門胡塞武裝知情人士否認有關向阿聯酋發動導彈襲擊的報道。"
     }
   ]
 }
