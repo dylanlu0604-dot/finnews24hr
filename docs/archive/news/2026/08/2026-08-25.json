@@ -1,7 +1,217 @@
 {
   "date": "2026-08-25",
-  "count": 905,
+  "count": 928,
   "items": [
+    {
+      "id": "mkt:01a036de-5f3a-7aab-9104-a3283810332d",
+      "time": "2026-08-25 11:02:18",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Druckenmiller, who once mentored Bessent, says Treasury buyback of U.S. debt is a mistake】Stanley Druckenmiller, the billionaire investor who once mentored Bessent, said the Treasury’s plan to spend billions repurchasing U.S. Treasuries is a mistake. “Governments that try to fight fundamentals by manipulating prices always fail,” he said, adding that markets aggregate information committees lack and that long-term Treasury yields are the world’s most important price and the only remaining fiscal constraint on the U.S. Druckenmiller argued the Treasury lacks a rationale now because the 10-year yield is roughly in line with nominal economic growth, implying financial conditions are loose rather than restrictive."
+    },
+    {
+      "id": "5056616",
+      "time": "2026-08-25 11:02:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金板塊持續走弱，恆星科技跌停】黃金板塊持續走弱，恆星科技跌停，盛達資源、西部黃金、湖南白銀、興業銀錫、華鈺礦業、招金黃金等跟跌。"
+    },
+    {
+      "id": "mkt:01a036dd-d0a4-7aab-9104-9ede5f8cac17",
+      "time": "2026-08-25 11:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TrendForce: DDR5 16Gb (2Gx8) 4800/5600 spot average unchanged vs prior day】TrendForce data on Aug 25 show DRAM spot averages: DDR5 16Gb (2Gx8) 4800/5600 unchanged vs prior day; DDR4 16Gb (2Gx8) 3200 down 0.83% vs prior day; DDR4 8Gb (1Gx8) 3200 up 0.21% vs prior day."
+    },
+    {
+      "id": "5056614",
+      "time": "2026-08-25 11:01:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗貨幣里亞爾匯率跌至歷史新低】據美聯社報道，美國財政部長貝森特公佈對伊朗實施“經濟孤立”新措施數小時前，伊朗貨幣里亞爾對美元匯率跌至歷史新低。(新華社)"
+    },
+    {
+      "id": "5056613",
+      "time": "2026-08-25 11:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海銀行間同業拆放利率(Shibor)多數上漲】隔夜shibor報1.4350%，上漲1.60個基點；7天shibor報1.4535%，上漲2.15個基點；14天shibor報1.4420%，上漲1.20個基點；1月shibor報1.4178%，上漲0.03個基點；3月shibor報1.4300%，與前一交易日持平。"
+    },
+    {
+      "id": "5056612",
+      "time": "2026-08-25 11:00:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展、華潤置地在上海成立新公司 註冊資本約51億元】企查查APP顯示，近日，上海潤保興華企業發展有限公司成立，法定代表人為於佳興，註冊資本約為51億元，經營範圍包含：企業管理；企業管理諮詢；商業綜合體管理服務；房地產諮詢；房地產經紀；物業管理等。企查查股權穿透顯示，該公司由保利發展(600048)全資子公司上海保利城市發展有限公司、華潤置地控股有限公司旗下上海泓喆房地產開發有限公司共同持股。"
+    },
+    {
+      "id": "5056611",
+      "time": "2026-08-25 11:00:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，8月25日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日下跌0.83%，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.21%。"
+    },
+    {
+      "id": "5056610",
+      "time": "2026-08-25 11:00:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巖山科技成立智算科技公司】企查查APP顯示，近日，岩基智算（上海）科技有限公司成立，法定代表人為張未名，經營範圍包含：計算機及通訊裝置租賃；資料處理和儲存支援服務；資料處理服務；大資料服務等。企查查股權穿透顯示，該公司由巖山科技(002195)間接全資持股。"
+    },
+    {
+      "id": "5056609",
+      "time": "2026-08-25 10:59:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電供應商日亞化學將在中國臺灣地區建廠】據知情人士稱，臺積電供應商日亞化學（NICHIAS)計劃在中國臺灣地區建設一家晶片零部件工廠。訊息稱，計劃建在新竹的這家工廠將生產氟聚合物管材，預計將於2027年初開始生產。"
+    },
+    {
+      "id": "mkt:01a036db-5d0e-7aab-9104-943fa6368c2b",
+      "time": "2026-08-25 10:59:00",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "Needham raises SK Hynix (SKHY.O) PT to $220 from $200."
+    },
+    {
+      "id": "mkt:01a036da-f646-7aab-9104-8d46c94ddbb4",
+      "time": "2026-08-25 10:58:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday decline widened to 2%, trading at $67.57/oz."
+    },
+    {
+      "id": "5056608",
+      "time": "2026-08-25 10:57:20",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【律師法修改擬明確鼓勵支援律師依法提供法律援助】8月25日，律師法修正草案提請十四屆全國人大常委會第二十四次會議二次審議。草案與法律援助法相銜接，鼓勵和支援律師事務所、律師參與公益法律服務，依法提供法律援助。 草案規定，國家積極發展涉外法律服務業，加強涉外律師人才培養，支援律師事務所提升涉外法律服務能力水平，鼓勵律師行業加強國際交流合作，維護當事人的合法權益，服務高質量發展和高水平對外開放。 草案還提出，律師依法執業受法律保護，任何組織和個人不得侵害律師的合法權益。人民法院、人民檢察院、公安機關、國家安全機關、司法行政部門和有關單位應當建立健全律師執業權利保障制度，在職責範圍內依法保障律師執業權利。"
+    },
+    {
+      "id": "5056607",
+      "time": "2026-08-25 10:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "赤澤亮正：日本正考慮廢除或合併酷日本基金。"
+    },
+    {
+      "id": "te:markets:577747",
+      "time": "2026-08-25 10:55:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Holds Firm After RBA Minutes — The Australian dollar held above $0.71, trading near an eleven-week high as markets weighed the RBA’s August meeting minutes. While the Board judged the current cash rate was sufficiently restrictive to bring inflation back to target within a reasonable timeframe, several members saw a meaningful risk that inflation could prove more persistent than expected. The RBA held rates at 4.35% for a second straight meeting two weeks ago after three hikes earlier this year, but policymakers warned of further tightening if inflation risks materialize. Still, weak jobs data has reduced expectations for an immediate hike, with markets pricing only a 13% chance of a September increase, while seeing around a 67% probability of a hike by February 2027. Upcoming monthly inflation data on Wednesday will therefore be crucial for the policy outlook. Headline inflation is expected to ease to 3.2% from 3.8% despite a 0.8% monthly rise, while the trimmed mean is forecast to edge down to 3.5% from 3.6%."
+    },
+    {
+      "id": "5056606",
+      "time": "2026-08-25 10:53:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "追覓科技：關於公司戰略聚焦及業務發展的說明 。"
+    },
+    {
+      "id": "mkt:01a036d5-dad2-7aab-9104-86b06c96eefa",
+      "time": "2026-08-25 10:52:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold continued to slide, down about $18/oz and nearly 0.7% intraday."
+    },
+    {
+      "id": "5056605",
+      "time": "2026-08-25 10:52:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技：下半年將迎來新一代AI伺服器結構等領域訂單爬坡】藍思科技(300433)8月23日在電話會議上表示，伺服器結構件和散熱模組方面，公司松山湖園區已經完成擴產並迎來客戶驗廠，各類備案均已完成，下半年將迎來新一代AI伺服器結構件、高效液冷散熱系統等關鍵領域的訂單爬坡。光纖方面，目前正在推進空芯光纖配套精密元件的客戶認證和MPO跳線專利申請。"
+    },
+    {
+      "id": "5056604",
+      "time": "2026-08-25 10:52:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1.2%，至6177.55點。"
+    },
+    {
+      "id": "5056603",
+      "time": "2026-08-25 10:51:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【亞馬遜大幅上調硬體裝置零售價 部分產品漲幅高達60%】消費電子漲價潮迎來新的參與者。亞馬遜在上週末大幅提高了其硬體裝置的價格，部分商品漲幅高達60%。亞馬遜旗下最受歡迎的電子產品，包括流媒體裝置Fire TV、智慧音響Echo、電子書閱讀器Kindle和路由器品牌Eero都調整了價格。其中，亞馬遜的平價智慧音響Echo Dot價格從49.99美元上漲至79.99美元，漲幅高達60%。亞馬遜發言人對此解釋稱，消費電子行業正面臨記憶體和儲存元件成本大幅上漲的問題。亞馬遜在儘可能地消化這些成本上漲之後，調整了旗下所有產品線的價格。"
+    },
+    {
+      "id": "te:economy:577742",
+      "time": "2026-08-25 10:51:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Yield Gains on Hawkish BOJ Bets — Japan’s 10-year government bond yield rose to around 2.89% on Tuesday, hovering near multi-decade highs amid growing expectations for an imminent Bank of Japan interest rate hike. Former board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, warning that keeping rates unchanged could reignite a yen selloff and accelerate import-driven inflation. Markets are currently pricing in around an 80% probability that the BOJ will hike rates by 25 basis points to 1.25% next month, up sharply from about 23% before the central bank’s July meeting. Meanwhile, the Finance Ministry is considering raising the assumed interest rate used to calculate debt-servicing costs to 3.8% for fiscal 2027, from 3% in the current budget, highlighting the growing impact of higher government borrowing costs."
+    },
+    {
+      "id": "5056602",
+      "time": "2026-08-25 10:51:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4630美元/盎司，日內跌0.52%。"
+    },
+    {
+      "id": "5056601",
+      "time": "2026-08-25 10:51:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4680美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "5056600",
+      "time": "2026-08-25 10:51:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1702億元。"
+    },
     {
       "id": "5056599",
       "time": "2026-08-25 10:50:56",

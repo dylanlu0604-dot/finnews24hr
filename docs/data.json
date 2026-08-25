@@ -1,7 +1,217 @@
 {
-  "updated": "2026-08-25 10:51:45",
-  "count": 15934,
+  "updated": "2026-08-25 11:03:07",
+  "count": 15938,
   "items": [
+    {
+      "id": "mkt:01a036de-5f3a-7aab-9104-a3283810332d",
+      "time": "2026-08-25 11:02:18",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Druckenmiller, who once mentored Bessent, says Treasury buyback of U.S. debt is a mistake】Stanley Druckenmiller, the billionaire investor who once mentored Bessent, said the Treasury’s plan to spend billions repurchasing U.S. Treasuries is a mistake. “Governments that try to fight fundamentals by manipulating prices always fail,” he said, adding that markets aggregate information committees lack and that long-term Treasury yields are the world’s most important price and the only remaining fiscal constraint on the U.S. Druckenmiller argued the Treasury lacks a rationale now because the 10-year yield is roughly in line with nominal economic growth, implying financial conditions are loose rather than restrictive."
+    },
+    {
+      "id": "5056616",
+      "time": "2026-08-25 11:02:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金板塊持續走弱，恆星科技跌停】黃金板塊持續走弱，恆星科技跌停，盛達資源、西部黃金、湖南白銀、興業銀錫、華鈺礦業、招金黃金等跟跌。"
+    },
+    {
+      "id": "mkt:01a036dd-d0a4-7aab-9104-9ede5f8cac17",
+      "time": "2026-08-25 11:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TrendForce: DDR5 16Gb (2Gx8) 4800/5600 spot average unchanged vs prior day】TrendForce data on Aug 25 show DRAM spot averages: DDR5 16Gb (2Gx8) 4800/5600 unchanged vs prior day; DDR4 16Gb (2Gx8) 3200 down 0.83% vs prior day; DDR4 8Gb (1Gx8) 3200 up 0.21% vs prior day."
+    },
+    {
+      "id": "5056614",
+      "time": "2026-08-25 11:01:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗貨幣里亞爾匯率跌至歷史新低】據美聯社報道，美國財政部長貝森特公佈對伊朗實施“經濟孤立”新措施數小時前，伊朗貨幣里亞爾對美元匯率跌至歷史新低。(新華社)"
+    },
+    {
+      "id": "5056613",
+      "time": "2026-08-25 11:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海銀行間同業拆放利率(Shibor)多數上漲】隔夜shibor報1.4350%，上漲1.60個基點；7天shibor報1.4535%，上漲2.15個基點；14天shibor報1.4420%，上漲1.20個基點；1月shibor報1.4178%，上漲0.03個基點；3月shibor報1.4300%，與前一交易日持平。"
+    },
+    {
+      "id": "5056612",
+      "time": "2026-08-25 11:00:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展、華潤置地在上海成立新公司 註冊資本約51億元】企查查APP顯示，近日，上海潤保興華企業發展有限公司成立，法定代表人為於佳興，註冊資本約為51億元，經營範圍包含：企業管理；企業管理諮詢；商業綜合體管理服務；房地產諮詢；房地產經紀；物業管理等。企查查股權穿透顯示，該公司由保利發展(600048)全資子公司上海保利城市發展有限公司、華潤置地控股有限公司旗下上海泓喆房地產開發有限公司共同持股。"
+    },
+    {
+      "id": "5056611",
+      "time": "2026-08-25 11:00:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，8月25日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日下跌0.83%，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.21%。"
+    },
+    {
+      "id": "5056610",
+      "time": "2026-08-25 11:00:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巖山科技成立智算科技公司】企查查APP顯示，近日，岩基智算（上海）科技有限公司成立，法定代表人為張未名，經營範圍包含：計算機及通訊裝置租賃；資料處理和儲存支援服務；資料處理服務；大資料服務等。企查查股權穿透顯示，該公司由巖山科技(002195)間接全資持股。"
+    },
+    {
+      "id": "5056609",
+      "time": "2026-08-25 10:59:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺積電供應商日亞化學將在中國臺灣地區建廠】據知情人士稱，臺積電供應商日亞化學（NICHIAS)計劃在中國臺灣地區建設一家晶片零部件工廠。訊息稱，計劃建在新竹的這家工廠將生產氟聚合物管材，預計將於2027年初開始生產。"
+    },
+    {
+      "id": "mkt:01a036db-5d0e-7aab-9104-943fa6368c2b",
+      "time": "2026-08-25 10:59:00",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "Needham raises SK Hynix (SKHY.O) PT to $220 from $200."
+    },
+    {
+      "id": "mkt:01a036da-f646-7aab-9104-8d46c94ddbb4",
+      "time": "2026-08-25 10:58:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday decline widened to 2%, trading at $67.57/oz."
+    },
+    {
+      "id": "5056608",
+      "time": "2026-08-25 10:57:20",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【律師法修改擬明確鼓勵支援律師依法提供法律援助】8月25日，律師法修正草案提請十四屆全國人大常委會第二十四次會議二次審議。草案與法律援助法相銜接，鼓勵和支援律師事務所、律師參與公益法律服務，依法提供法律援助。 草案規定，國家積極發展涉外法律服務業，加強涉外律師人才培養，支援律師事務所提升涉外法律服務能力水平，鼓勵律師行業加強國際交流合作，維護當事人的合法權益，服務高質量發展和高水平對外開放。 草案還提出，律師依法執業受法律保護，任何組織和個人不得侵害律師的合法權益。人民法院、人民檢察院、公安機關、國家安全機關、司法行政部門和有關單位應當建立健全律師執業權利保障制度，在職責範圍內依法保障律師執業權利。"
+    },
+    {
+      "id": "5056607",
+      "time": "2026-08-25 10:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "赤澤亮正：日本正考慮廢除或合併酷日本基金。"
+    },
+    {
+      "id": "te:markets:577747",
+      "time": "2026-08-25 10:55:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Holds Firm After RBA Minutes — The Australian dollar held above $0.71, trading near an eleven-week high as markets weighed the RBA’s August meeting minutes. While the Board judged the current cash rate was sufficiently restrictive to bring inflation back to target within a reasonable timeframe, several members saw a meaningful risk that inflation could prove more persistent than expected. The RBA held rates at 4.35% for a second straight meeting two weeks ago after three hikes earlier this year, but policymakers warned of further tightening if inflation risks materialize. Still, weak jobs data has reduced expectations for an immediate hike, with markets pricing only a 13% chance of a September increase, while seeing around a 67% probability of a hike by February 2027. Upcoming monthly inflation data on Wednesday will therefore be crucial for the policy outlook. Headline inflation is expected to ease to 3.2% from 3.8% despite a 0.8% monthly rise, while the trimmed mean is forecast to edge down to 3.5% from 3.6%."
+    },
+    {
+      "id": "5056606",
+      "time": "2026-08-25 10:53:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "追覓科技：關於公司戰略聚焦及業務發展的說明 。"
+    },
+    {
+      "id": "mkt:01a036d5-dad2-7aab-9104-86b06c96eefa",
+      "time": "2026-08-25 10:52:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold continued to slide, down about $18/oz and nearly 0.7% intraday."
+    },
+    {
+      "id": "5056605",
+      "time": "2026-08-25 10:52:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技：下半年將迎來新一代AI伺服器結構等領域訂單爬坡】藍思科技(300433)8月23日在電話會議上表示，伺服器結構件和散熱模組方面，公司松山湖園區已經完成擴產並迎來客戶驗廠，各類備案均已完成，下半年將迎來新一代AI伺服器結構件、高效液冷散熱系統等關鍵領域的訂單爬坡。光纖方面，目前正在推進空芯光纖配套精密元件的客戶認證和MPO跳線專利申請。"
+    },
+    {
+      "id": "5056604",
+      "time": "2026-08-25 10:52:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數下跌1.2%，至6177.55點。"
+    },
+    {
+      "id": "5056603",
+      "time": "2026-08-25 10:51:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【亞馬遜大幅上調硬體裝置零售價 部分產品漲幅高達60%】消費電子漲價潮迎來新的參與者。亞馬遜在上週末大幅提高了其硬體裝置的價格，部分商品漲幅高達60%。亞馬遜旗下最受歡迎的電子產品，包括流媒體裝置Fire TV、智慧音響Echo、電子書閱讀器Kindle和路由器品牌Eero都調整了價格。其中，亞馬遜的平價智慧音響Echo Dot價格從49.99美元上漲至79.99美元，漲幅高達60%。亞馬遜發言人對此解釋稱，消費電子行業正面臨記憶體和儲存元件成本大幅上漲的問題。亞馬遜在儘可能地消化這些成本上漲之後，調整了旗下所有產品線的價格。"
+    },
+    {
+      "id": "te:economy:577742",
+      "time": "2026-08-25 10:51:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Yield Gains on Hawkish BOJ Bets — Japan’s 10-year government bond yield rose to around 2.89% on Tuesday, hovering near multi-decade highs amid growing expectations for an imminent Bank of Japan interest rate hike. Former board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, warning that keeping rates unchanged could reignite a yen selloff and accelerate import-driven inflation. Markets are currently pricing in around an 80% probability that the BOJ will hike rates by 25 basis points to 1.25% next month, up sharply from about 23% before the central bank’s July meeting. Meanwhile, the Finance Ministry is considering raising the assumed interest rate used to calculate debt-servicing costs to 3.8% for fiscal 2027, from 3% in the current budget, highlighting the growing impact of higher government borrowing costs."
+    },
+    {
+      "id": "5056602",
+      "time": "2026-08-25 10:51:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4630美元/盎司，日內跌0.52%。"
+    },
+    {
+      "id": "5056601",
+      "time": "2026-08-25 10:51:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4680美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "5056600",
+      "time": "2026-08-25 10:51:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量1702億元。"
+    },
     {
       "id": "5056599",
       "time": "2026-08-25 10:50:56",
@@ -144295,174 +144505,6 @@
         "國際"
       ],
       "text": "【30年期國債期貨續創年內新高 機構預計債市延續慢牛節奏】8月18日，國債期貨盤初快速拉昇，30年期國債期貨主力合約續創年內新高，盤中最高報116.62元。中信證券首席經濟學家明明表示，上週股債同步上漲，債市走強主要受到適度寬鬆貨幣政策基調，以及買斷式逆回購、隔夜逆回購保持較大規模投放等因素支撐。後續債市走勢將由政策預期、資金面和市場風險偏好共同決定，股債相關性或維持低位。明明認為，銀行存貸差仍處於較高水平，實體信貸需求相對偏弱，銀行內生配債需求較為穩定。特別國債注資也有望增強國有大行資本實力，為銀行資產配置提供支撐。與此同時，權益市場波動率處於高位，市場風險偏好可能有所下降，有利於債券配置需求釋放。綜合來看，債市後續或保持慢牛節奏。（上證報）"
-    },
-    {
-      "id": "5045125",
-      "time": "2026-08-18 11:02:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達60億港元。"
-    },
-    {
-      "id": "5045124",
-      "time": "2026-08-18 11:02:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價漲幅收窄；最新上漲2.0%，報1,678,000韓元。"
-    },
-    {
-      "id": "mkt:01a012d1-74dc-7aab-906d-cf114e8ccf28",
-      "time": "2026-08-18 11:01:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Copper supply squeeze intensifies; key tenor spreads widen】An LME measure of near-term supply tightness surged as copper resumed sharp volatility. The LME one-day contract traded at a $75/tonne premium to the next-day contract, the widest since January when the spread hit $100/tonne amid record LME benchmark prices. The tightness largely reflected traders rerouting several hundred thousand tonnes of copper to the United States ahead of a Trump administration decision on import tariffs. Tom/next spreads widened sharply on Tuesday, signalling short-position pressure ahead of the LME August contract expiry on Wednesday. At one point on Monday spot copper traded $545/tonne above three-month futures."
-    },
-    {
-      "id": "5045123",
-      "time": "2026-08-18 11:01:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【優刻得公有云正式上線海光天曦系列】據優刻得訊息，近日，優刻得與海光資訊的合作取得重大階段性成果，搭載海光天曦系列的伺服器於今日正式上線優刻得烏蘭察布可用區。這是海光天曦系列首次在公有云上規模化上線，標誌著雙方在國產化算力上雲、異構智算生態共建方面邁出關鍵一步，對推動自主可控AI基礎設施落地具有里程碑意義。"
-    },
-    {
-      "id": "mkt:01a012d0-cd0c-7aab-906d-c23382a2348d",
-      "time": "2026-08-18 11:01:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Data show vessel traffic through the Strait of Hormuz remains slow; only six ships transited on Monday."
-    },
-    {
-      "id": "5045122",
-      "time": "2026-08-18 11:01:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【企業微信全面升級CLI與MCP，主流AI Agent可直接接入】企業微信全面升級CLI與MCP能力，WorkBuddy、Deepseek Harness、Minimax Code等主流AI Agent均可直接接入企業微信呼叫企微能力完成任務，企業也可基於開放介面接入自建Agent。此次開放升級，面向所有規模的企業全面開放，不再受企業人數、資質等門檻限制，覆蓋文件、表格、郵件、會議、日程、通訊錄等十個能力模組。在具體應用中，智慧體可直接讀取、寫入並操作企微資料，完成經營資料分析、提案生成等複雜工作流。針對企業風控合規，企微在MCP接入鏈路上疊加審批機制，實現“人機許可權隔離”：AI執行關鍵動作需人工審批，授權設有效期且全程留痕，確保資料呼叫合規可追溯。"
-    },
-    {
-      "id": "5045121",
-      "time": "2026-08-18 11:00:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國股市指數開盤變動不大，報1626.26點。"
-    },
-    {
-      "id": "5045120",
-      "time": "2026-08-18 10:58:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "初步資料顯示，霍爾木茲海峽船隻通行依然緩慢，週一僅有六艘船隻透過。"
-    },
-    {
-      "id": "5045119",
-      "time": "2026-08-18 10:58:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨跌1%。"
-    },
-    {
-      "id": "mkt:01a012ce-31f1-7aab-906d-b9d6b07aad0b",
-      "time": "2026-08-18 10:58:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 index futures fell 1%."
-    },
-    {
-      "id": "5045118",
-      "time": "2026-08-18 10:58:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【深交所首單酒店型商業不動產REITs獲批】8月17日，華泰華住安住REIT獲證監會批文，成為深交所首單酒店型商業不動產REITs，也是華泰證券資管獲批的首單商業不動產REITs專案。目前，酒店不動產REITs在國內公募REITs中尚屬於稀缺品類。華泰華住安住REIT的資產專案位於廣州、上海的核心商貿及交通樞紐區域，具備顯著的區位優勢，彙集大量商務客源及會展需求，有望為REITs市場投資者提供更為廣闊的品種選擇。伴隨著首批以及後續商業不動產REITs的逐漸獲批和落地，C-REITs專案底層資產多元化趨勢顯著，種類實現迅速擴充，常態化申報、常態化發行邁入提質增速的全新階段。 (財聯社)"
-    },
-    {
-      "id": "5045117",
-      "time": "2026-08-18 10:58:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "5045116",
-      "time": "2026-08-18 10:57:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌1%至4,693.67點。"
-    },
-    {
-      "id": "5045115",
-      "time": "2026-08-18 10:54:32",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗將華住集團美國存托股票目標價從58美元上調至59美元。"
-    },
-    {
-      "id": "mkt:01a012c9-8bb4-7aab-906d-b60d0a875926",
-      "time": "2026-08-18 10:53:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shenzhen aerospace institute meets CASC commercial rocket unit to discuss industry cooperation】Aug 17 — A delegation from the Shenzhen Aerospace Technology Innovation Institute held talks with Commercial Rocket Co., a unit of China Aerospace Science and Technology Group (CASC), to advance cooperation in the commercial space sector. Both parties agreed to back CASC strategic directives and jointly support construction of the commercial launch-vehicle industry chain. Planned cooperation focuses on integrated development across launch vehicles, launch sites and telemetry/tracking systems, joint research, participation in launch-site layout studies, and accelerated implementation of collaboration projects and institute–enterprise partnerships."
-    },
-    {
-      "id": "5045114",
-      "time": "2026-08-18 10:53:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【10年期國債期貨主力合約漲至109.625，重新整理歷史新高】10年期國債期貨主力合約盤初短暫回撥後再重新整理高，現漲至109.625。"
-    },
-    {
-      "id": "te:economy:575983",
-      "time": "2026-08-18 10:52:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Jordan",
-        "Industrial Production",
-        "Importance 0"
-      ],
-      "text": "Jordan Industrial Output Hits 2-Year Low — Industrial output in Jordan fell 1.3% year-on-year in June 2026, reversing from a 1.4% increase in the previous month and marking the steepest decline since June 2024. Manufacturing output dropped 1.1% following 2.9% growth in May, particularly reflecting decreases in coke and refined petroleum products (-67.3% vs -38.2% in May), basic metals (-0.2% vs 17.3%), and other manufacturing (-20.2% vs -7.4%), while growth slowed in rubber and plastic products (3.4% vs 24.6%), beverages (9.3% vs 11.3%), leather and related materials (25.8% vs 49.9%), and motor vehicles, trailers, and semi-trailers (52.2% vs 124.4%). Meanwhile, mining and quarrying output declined at a softer pace (-6.7% vs -16.9%), while electricity, gas, steam, and air-conditioning supply rebounded (0.7% vs -1.9%). On a monthly basis, industrial production declined 0.5%, following a 5.8% rise in May."
-    },
-    {
-      "id": "5045113",
-      "time": "2026-08-18 10:52:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026上合組織數字經濟論壇將於9月14日至16日舉辦】今天從國家資料局瞭解到，2026上合組織數字經濟論壇將於9月14日至16日在新疆烏魯木齊舉辦，本屆論壇的主題為“數連上合智啟未來”。（央視新聞）"
-    },
-    {
-      "id": "5045112",
-      "time": "2026-08-18 10:52:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳航天科技創新研究院赴中國商火開展交流】據中國商業火箭訊息，8月17日，深圳航天科技創新研究院（以下稱“深研院”）黨委書記、院長臧偉一行到訪中國航天科技集團商業火箭有限公司（簡稱“中國商火”）開展交流座談。雙方圍繞各自業務現狀、產業資源優勢及合作落地路徑開展務實交流，一致認為商業航天發展前景廣闊，彼此互補性強、合作空間大。未來，雙方將堅決貫徹落實集團公司戰略部署，共同支撐好商業運載火箭產業鏈建設，聚焦“箭、場、測”一體化發展，開展商業航天相關研究。同時積極參與發射場佈局論證，加快推動合作事項落地，共同探索商業航天領域院企協同發展新路徑。"
     }
   ]
 }
