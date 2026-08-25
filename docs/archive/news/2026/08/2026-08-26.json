@@ -1,7 +1,105 @@
 {
   "date": "2026-08-26",
-  "count": 67,
+  "count": 77,
   "items": [
+    {
+      "id": "5058406",
+      "time": "2026-08-26 01:16:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "6家交易對手在美聯儲逆回購操作中獲得 4.05 億美元。"
+    },
+    {
+      "id": "mkt:01a039e8-f740-7aab-9117-cfca58a1402c",
+      "time": "2026-08-26 01:12:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reports US officials say that in the past 30 days more than 500 vessels transited the southern route of the Strait of Hormuz; about 2% of those vessels were attacked by Iranian drones or missiles."
+    },
+    {
+      "id": "5058405",
+      "time": "2026-08-26 01:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美國海軍已從霍爾木茲海峽的主要航道中清除了水雷。"
+    },
+    {
+      "id": "5058404",
+      "time": "2026-08-26 01:10:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：過去30天內，超過500艘船隻透過了阿曼附近的一個南部航道，其中約2%遭到伊朗無人機或導彈擊中。"
+    },
+    {
+      "id": "5058403",
+      "time": "2026-08-26 01:10:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：海軍已清理了伊朗與阿曼之間中央航道。美國水下無人機花了數月時間掃描該區域，並發現了超過100個疑似水雷的物體。"
+    },
+    {
+      "id": "te:markets:578026",
+      "time": "2026-08-26 01:07:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Canadian Dollar Holds Losses on Fresh Tariffs — The Canadian dollar weakened to 1.38 per USD from the three-month high of 1.376 on August 21st as a greater deterioration to trade with the US hampered the outlook on growth. Canada imposed retaliatory tariffs of 15%-50% on a $20 billion of US annual import flows, including metals, agricultural goods, and motorcycles. This was Ottawa's response to the increase on US tariffs against Canada after trade talks between both economic partners collapsed. US President Donald Trump said that tariffs on all Canadian cars, trucks, automotive parts and steel would rise to 50% on January 1st, 2027, in addition to new tariffs on multiple other goods sectors. Risks to growth from higher tariffs drove markets to reduce expectations of a rate hike by the Bank of Canada this year, even though elevated energy prices threatened a pickup in inflationary risks."
+    },
+    {
+      "id": "5058402",
+      "time": "2026-08-26 01:07:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本將試點運用區塊鏈技術實現股票與債券實時結算。"
+    },
+    {
+      "id": "mkt:01a039e3-9782-7aab-9117-c2e18e9b0cc7",
+      "time": "2026-08-26 01:06:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan’s government and the Bank of Japan plan to roll out a next-generation payments infrastructure to enable instant settlement of equity and JGB trades round-the-clock, Nikkei reported."
+    },
+    {
+      "id": "5058401",
+      "time": "2026-08-26 01:05:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率在拍賣後持穩，最新下跌3.43個基點，報4.202%。"
+    },
+    {
+      "id": "mkt:01a039e1-b53d-7aab-9117-be1ce565aae3",
+      "time": "2026-08-26 01:04:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US two-year Treasury yield held steady after the auction; latest down 3.43 bps at 4.202%."
+    },
     {
       "id": "mkt:01a039e1-0baa-7aab-9117-b0053732c57c",
       "time": "2026-08-26 01:04:04",
