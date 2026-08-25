@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-25 12:53:57",
-  "count": 15982,
+  "updated": "2026-08-25 13:01:59",
+  "count": 15989,
   "items": [
+    {
+      "id": "mkt:01a0374a-ea14-7aab-9106-a2482d5891a5",
+      "time": "2026-08-25 13:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan June Leading Index (final) month-on-month 0.0%, prior 0.0%."
+    },
+    {
+      "id": "mkt:01a0374a-d2a3-7aab-9106-9e91017f0a88",
+      "time": "2026-08-25 13:00:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Final (MoM) (Jun) | actual 0% | previous 0%"
+    },
+    {
+      "id": "5056766",
+      "time": "2026-08-25 13:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月同步指標終值 118.5，初值 118.2。"
+    },
+    {
+      "id": "5056765",
+      "time": "2026-08-25 13:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月領先指標終值 116.5，初值 116.4。"
+    },
+    {
+      "id": "5056764",
+      "time": "2026-08-25 12:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：阿聯酋債務市場將溫和增長。"
+    },
+    {
+      "id": "5056763",
+      "time": "2026-08-25 12:58:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【曾指點貝森特的Druckenmiller直言 政府違背基本面壓低收益率終將落敗】億萬富豪投資人Stanley Druckenmiller表示，斯科特·貝森特涉足債券市場是一個錯誤。貝森特早年擔任對沖基金交易員時，曾經受過Druckenmiller的指點。美國財政部長貝森特最近承諾，將加大財政部回購長期政府債券的規模，以壓低收益率，此舉被廣泛視為試圖壓低全球最重要債市的收益率。如果有效，這將有助於控制企業的融資成本，並可能促進經濟增長。但Druckenmiller在一篇評論中指出，政策制定者應該讓債市發揮其作用，並回顧了自己擔任對沖基金經理期間汲取的教訓。"
+    },
+    {
+      "id": "5056762",
+      "time": "2026-08-25 12:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【注意防範！鬱江南寧水文站水位將於26日超過74.9米】8月25日8時，據水文監測，過去24小時，南寧市有小到中雨，局地大雨，日雨量較大的有馬山縣周鹿鎮45.0毫米、武鳴區城廂鎮42.5毫米、隆安縣屏山鄉38.0毫米。（央視新聞）"
+    },
+    {
+      "id": "te:markets:577777",
+      "time": "2026-08-25 12:58:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Gains on China Demand Hopes — Iron ore futures rose toward CNY 720 per ton, moving further away from 14-month lows on hopes for stronger demand in top consumer China ahead of the September peak construction season, while Beijing signaled fresh policy support. Markets are anticipating restocking ahead of the seasonal peak in steel demand as construction activity picks up before winter. China will also introduce a new package of measures to expand domestic demand and support economic growth, according to Vice Finance Minister Liao Min. Additionally, China’s National Development and Reform Commission reportedly held consecutive meetings last week urging local governments to accelerate the construction of major projects. Meanwhile, industry data showed that blast furnace operating rates at Chinese steel mills increased last week, signaling firmer demand for iron ore."
+    },
+    {
+      "id": "mkt:01a03748-3eee-7aab-9106-935a10fc79ce",
+      "time": "2026-08-25 12:57:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla raises U.S. Cybertruck prices for some models】Tesla (TSLA.O) updated its U.S. website on Tuesday to raise prices for two Cybertruck pickup variants by $5,000: Dual Motor AWD to $74,990 and Premium AWD to $84,990."
+    },
+    {
+      "id": "5056761",
+      "time": "2026-08-25 12:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“問題拖太久！”李在明敦促：儘快下調韓國未成年人刑事責任年齡標準】據韓聯社報道，韓國總統李在明8月25日敦促儘快就降低未成年人刑事責任年齡問題達成共識，並推動相關立法。李在明當天上午在青瓦臺主持國務會議時表示，“這個問題似乎已經拖太久了”。他總結了目前圍繞未成年人刑事責任年齡標準問題的討論方向，“圍繞降低重罪再犯的刑事責任年齡，範圍已經確定，降幅在一至兩歲內”，並要求“再次瞭解國民對此有何看法，儘早作出決定並推動立法”。（環球網）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608253852593772",
+      "time": "2026-08-25 12:56:48",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【山東：1-7月規模以上工業增加值同比增長7.2%】8月24日，山東省統計局、國家統計局山東調查總隊公佈1-7月全省經濟執行情況。1-7月，規模以上工業增加值同比增長7.2%。從行業增長面看，全省41個行業中有32個實現增長，增長面為78.0%。服務業執行穩健。1-6月，規模以上服務業企業營業收入同比增長5.6%。10大行業門類全部實現增長，其中，居民服務、修理和其他服務業，租賃和商務服務業營業收入分別增長12.3%、9.0%。"
+    },
+    {
+      "id": "5056760",
+      "time": "2026-08-25 12:56:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東：1-7月規模以上工業增加值同比增長7.2%】據“山東釋出”訊息，8月24日，山東省統計局、國家統計局山東調查總隊公佈1-7月全省經濟執行情況。1-7月，規模以上工業增加值同比增長7.2%。從行業增長面看，全省41個行業中有32個實現增長，增長面為78.0%。服務業執行穩健。1-6月，規模以上服務業企業營業收入同比增長5.6%。10大行業門類全部實現增長，其中，居民服務、修理和其他服務業，租賃和商務服務業營業收入分別增長12.3%、9.0%。"
+    },
+    {
+      "id": "5056758",
+      "time": "2026-08-25 12:53:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出山洪災害氣象風險橙色預警】今天上午，山西省水利廳和山西省氣象局聯合釋出山洪災害氣象風險預警。8月25日8時至8月26日8時，受強降雨影響：山西省大同市西北部、朔州市西北部、忻州市西北部3個市8個縣發生山洪的可能性大（橙色預警）；大同市中部、朔州市南部和東北部、忻州市西南部、陽泉市4個市17個縣發生山洪的可能性較大（黃色預警）；大同市東北部和南部、忻州市中部和東部、呂梁市東北部、晉中市東北部4個市11個縣可能發生山洪（藍色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，各地需注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）"
+    },
     {
       "id": "te:economy:577772",
       "time": "2026-08-25 12:52:39",
@@ -144825,54 +144942,6 @@
         "Japan & APAC"
       ],
       "text": "【JASDF F-15 suspected malfunction at Naha Airport; runway closed】Local time on the 18th, an F-15 of the Japan Air Self-Defense Force is suspected to have suffered a landing-gear fault and remained parked at Naha Airport, Okinawa. One runway at Naha Airport has been closed."
-    },
-    {
-      "id": "5045248",
-      "time": "2026-08-18 13:01:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃爾多安與特朗普通話呼籲外交解決美伊問題】土耳其總統府新聞局18日發表宣告說，土總統埃爾多安與美國總統特朗普通電話，呼籲外交解決美國和伊朗之間的問題。 宣告說，埃爾多安強調了在伊朗與美國緊張局勢中充分發揮外交作用的重要性，表達了土耳其希望雙方繼續對話的願望，並表示土耳其將繼續支援各項和平努力。 宣告說，雙方還就土美雙邊關係及地區問題交換了意見。埃爾多安表示，土耳其與巴基斯坦、沙烏地阿拉伯簽署共同防務協議，表明了確保地區穩定與安全的堅定立場。談及加沙局勢，他表示，土耳其將繼續支援為實現該地區持久和平以及加沙重建所採取的各項舉措。 美國和伊朗6月17日公佈諒解備忘錄正式文字，其中第三條內容是：美國與伊朗承諾在最多60天內進行談判並達成最終協議。8月17日，諒解備忘錄所設定的60天談判視窗期期滿。(新華社)"
-    },
-    {
-      "id": "5045247",
-      "time": "2026-08-18 13:00:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本防衛省被曝計劃大規模擴編】據日本方面18日訊息，日本防衛省計劃於2027年實施大規模擴編，新設“防衛基盤局”“國際政策局”“設施政策局”3個部門，預計日本防衛省會把擴編計劃寫入將於8月底提交的2027年預算申請。據悉，這3個部門將分別主管“持續作戰能力”“國際合作”和“基地管理”等。這種行政機構的大規模擴張在日本非常罕見。日本方面近日還有訊息稱，就日本政府2027財年預算編制工作，日本防衛省擬向財務省申請約8.9萬億日元，申請額創歷史新高。而最終防衛預算規模可能還會進一步增加。"
-    },
-    {
-      "id": "5045246",
-      "time": "2026-08-18 13:00:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【希音被曝估值大幅縮水，正尋求以260億至270億美元估值進行IPO】快時尚跨境電商希音（SHEIN）被曝估值下降。8月18日訊息，據報道，希音（SHEIN）正尋求以260億至270億美元的估值在香港進行首次公開募股（IPO）。這一目標估值較該公司歷史峰值大幅縮水。Shein計劃透過此次上市籌集約20億美元資金，現有股東或將認購本次發行規模的約一半。上週，也有媒體引述知情人士透露，希音的上市顧問公司正在以低於300億美元的估值向潛在投資者推介該公司。報道稱，如果該公司以低於300億美元估值的水平進行首次公開招股，可能需要在推進IPO之前重新與現有投資者協商。該估值遠低於希音在2022年完成私募融資後超過1000億美元的估值，也反映該估值在過去4年大跌約七成。（澎湃）"
-    },
-    {
-      "id": "5045245",
-      "time": "2026-08-18 12:57:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【亞運會聖火東京採火儀式舉行】2026年愛知·名古屋亞運會聖火東京採火儀式18日在東京國立競技場舉行，標誌著本屆亞運會各項活動正式拉開序幕。當天活動上，愛知縣知事、亞運會組委會主席大村秀章和日本奧委會主席橋本聖子等出席儀式。運動員代表、短跑名將桐生祥秀手持採火棒，在第三屆亞運會曾使用的火炬臺旁完成火種採集。東京曾於1958年舉辦第三屆亞運會，是日本首座承辦亞運會的城市。（央視）"
-    },
-    {
-      "id": "mkt:01a0133a-fdb2-7aab-906f-531e1a0a7f50",
-      "time": "2026-08-18 12:57:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy minister of agriculture said that despite wartime price increases, supplies of basic commodities have not faced shortages."
-    },
-    {
-      "id": "5045244",
-      "time": "2026-08-18 12:56:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本自衛隊一戰機機翼觸地】今天（8月18日），日本航空自衛隊一架F-15J戰鬥機“疑似發生故障”，長時間停在那霸機場的跑道上。從現場畫面來看，機身左翼與地面發生接觸。據稱該戰機起落架可能發生故障。受此影響，機場已關閉事發跑道。（CCTV國際時訊）"
     }
   ]
 }

@@ -1,7 +1,124 @@
 {
   "date": "2026-08-25",
-  "count": 1140,
+  "count": 1153,
   "items": [
+    {
+      "id": "mkt:01a0374a-ea14-7aab-9106-a2482d5891a5",
+      "time": "2026-08-25 13:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan June Leading Index (final) month-on-month 0.0%, prior 0.0%."
+    },
+    {
+      "id": "mkt:01a0374a-d2a3-7aab-9106-9e91017f0a88",
+      "time": "2026-08-25 13:00:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Final (MoM) (Jun) | actual 0% | previous 0%"
+    },
+    {
+      "id": "5056766",
+      "time": "2026-08-25 13:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月同步指標終值 118.5，初值 118.2。"
+    },
+    {
+      "id": "5056765",
+      "time": "2026-08-25 13:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月領先指標終值 116.5，初值 116.4。"
+    },
+    {
+      "id": "5056764",
+      "time": "2026-08-25 12:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：阿聯酋債務市場將溫和增長。"
+    },
+    {
+      "id": "5056763",
+      "time": "2026-08-25 12:58:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【曾指點貝森特的Druckenmiller直言 政府違背基本面壓低收益率終將落敗】億萬富豪投資人Stanley Druckenmiller表示，斯科特·貝森特涉足債券市場是一個錯誤。貝森特早年擔任對沖基金交易員時，曾經受過Druckenmiller的指點。美國財政部長貝森特最近承諾，將加大財政部回購長期政府債券的規模，以壓低收益率，此舉被廣泛視為試圖壓低全球最重要債市的收益率。如果有效，這將有助於控制企業的融資成本，並可能促進經濟增長。但Druckenmiller在一篇評論中指出，政策制定者應該讓債市發揮其作用，並回顧了自己擔任對沖基金經理期間汲取的教訓。"
+    },
+    {
+      "id": "5056762",
+      "time": "2026-08-25 12:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【注意防範！鬱江南寧水文站水位將於26日超過74.9米】8月25日8時，據水文監測，過去24小時，南寧市有小到中雨，局地大雨，日雨量較大的有馬山縣周鹿鎮45.0毫米、武鳴區城廂鎮42.5毫米、隆安縣屏山鄉38.0毫米。（央視新聞）"
+    },
+    {
+      "id": "te:markets:577777",
+      "time": "2026-08-25 12:58:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Gains on China Demand Hopes — Iron ore futures rose toward CNY 720 per ton, moving further away from 14-month lows on hopes for stronger demand in top consumer China ahead of the September peak construction season, while Beijing signaled fresh policy support. Markets are anticipating restocking ahead of the seasonal peak in steel demand as construction activity picks up before winter. China will also introduce a new package of measures to expand domestic demand and support economic growth, according to Vice Finance Minister Liao Min. Additionally, China’s National Development and Reform Commission reportedly held consecutive meetings last week urging local governments to accelerate the construction of major projects. Meanwhile, industry data showed that blast furnace operating rates at Chinese steel mills increased last week, signaling firmer demand for iron ore."
+    },
+    {
+      "id": "mkt:01a03748-3eee-7aab-9106-935a10fc79ce",
+      "time": "2026-08-25 12:57:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla raises U.S. Cybertruck prices for some models】Tesla (TSLA.O) updated its U.S. website on Tuesday to raise prices for two Cybertruck pickup variants by $5,000: Dual Motor AWD to $74,990 and Premium AWD to $84,990."
+    },
+    {
+      "id": "5056761",
+      "time": "2026-08-25 12:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“問題拖太久！”李在明敦促：儘快下調韓國未成年人刑事責任年齡標準】據韓聯社報道，韓國總統李在明8月25日敦促儘快就降低未成年人刑事責任年齡問題達成共識，並推動相關立法。李在明當天上午在青瓦臺主持國務會議時表示，“這個問題似乎已經拖太久了”。他總結了目前圍繞未成年人刑事責任年齡標準問題的討論方向，“圍繞降低重罪再犯的刑事責任年齡，範圍已經確定，降幅在一至兩歲內”，並要求“再次瞭解國民對此有何看法，儘早作出決定並推動立法”。（環球網）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608253852593772",
+      "time": "2026-08-25 12:56:48",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【山東：1-7月規模以上工業增加值同比增長7.2%】8月24日，山東省統計局、國家統計局山東調查總隊公佈1-7月全省經濟執行情況。1-7月，規模以上工業增加值同比增長7.2%。從行業增長面看，全省41個行業中有32個實現增長，增長面為78.0%。服務業執行穩健。1-6月，規模以上服務業企業營業收入同比增長5.6%。10大行業門類全部實現增長，其中，居民服務、修理和其他服務業，租賃和商務服務業營業收入分別增長12.3%、9.0%。"
+    },
+    {
+      "id": "5056760",
+      "time": "2026-08-25 12:56:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東：1-7月規模以上工業增加值同比增長7.2%】據“山東釋出”訊息，8月24日，山東省統計局、國家統計局山東調查總隊公佈1-7月全省經濟執行情況。1-7月，規模以上工業增加值同比增長7.2%。從行業增長面看，全省41個行業中有32個實現增長，增長面為78.0%。服務業執行穩健。1-6月，規模以上服務業企業營業收入同比增長5.6%。10大行業門類全部實現增長，其中，居民服務、修理和其他服務業，租賃和商務服務業營業收入分別增長12.3%、9.0%。"
+    },
+    {
+      "id": "5056758",
+      "time": "2026-08-25 12:53:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出山洪災害氣象風險橙色預警】今天上午，山西省水利廳和山西省氣象局聯合釋出山洪災害氣象風險預警。8月25日8時至8月26日8時，受強降雨影響：山西省大同市西北部、朔州市西北部、忻州市西北部3個市8個縣發生山洪的可能性大（橙色預警）；大同市中部、朔州市南部和東北部、忻州市西南部、陽泉市4個市17個縣發生山洪的可能性較大（黃色預警）；大同市東北部和南部、忻州市中部和東部、呂梁市東北部、晉中市東北部4個市11個縣可能發生山洪（藍色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，各地需注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）"
+    },
     {
       "id": "te:economy:577772",
       "time": "2026-08-25 12:52:39",
