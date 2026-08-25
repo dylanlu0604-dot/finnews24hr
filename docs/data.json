@@ -1,7 +1,141 @@
 {
-  "updated": "2026-08-25 13:24:00",
-  "count": 16010,
+  "updated": "2026-08-25 13:31:38",
+  "count": 16012,
   "items": [
+    {
+      "id": "te:markets:577787",
+      "time": "2026-08-25 13:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 3.07% — Top crypto gainers are XRP (3.07%), Binance (2.30%), Bitcoin (2.18%) and Ether (1.05%)."
+    },
+    {
+      "id": "mkt:01a03765-62ac-7aab-9107-9be0b32e07c4",
+      "time": "2026-08-25 13:29:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters survey shows the Reserve Bank of India may set the auction cut-off yield for the 10-year Indian government bond at 7.50%-7.54%."
+    },
+    {
+      "id": "mkt:01a03764-3ff0-7aab-9107-938c41d9cb5b",
+      "time": "2026-08-25 13:28:31",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Commonwealth Bank: RESERVE BANK OF AUSTRALIA policy response debate intensifies】Commonwealth Bank economist Belinda Allen said the RESERVE BANK OF AUSTRALIA views inf risks as skewed to the upside and that debate over the appropriate policy response is intensifying. She questioned whether C.BANK is losing patience—possibly—or may be using verbal intervention to ensure financial conditions remain tight until inf shows more substantive progress. Allen added current inf prints are insufficient to declare victory: Q2 inf undershot expectations largely due to volatile components that risk rebounding in coming months."
+    },
+    {
+      "id": "5056795",
+      "time": "2026-08-25 13:28:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數走勢逆轉，最新上漲0.5%。"
+    },
+    {
+      "id": "mkt:01a03763-8db8-7aab-9107-8ad4ded2b768",
+      "time": "2026-08-25 13:27:46",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Sources say Xi Yin's Hong Kong IPO, sized up to $1.8bn, has been fully subscribed."
+    },
+    {
+      "id": "5056794",
+      "time": "2026-08-25 13:27:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，SHEIN規模最高達18億美元的香港IPO簿記已獲全額認購。"
+    },
+    {
+      "id": "mkt:01a03761-eb52-7aab-9107-80e89e71b07d",
+      "time": "2026-08-25 13:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share humanoid-robotics concept stocks rebounded; Zhaowei Mechatronics hit the daily limit, Tuosida rose over 10%, and Buke, Jack Technology, Huayi Technology, Inovance Technology, Fengli Intelligent and Orbbec also advanced."
+    },
+    {
+      "id": "mkt:01a03761-df2a-7aab-9107-788d586562be",
+      "time": "2026-08-25 13:25:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration immigration crackdown continues as US Army sergeant's wife deported to Honduras】The Department of Homeland Security said an Army sergeant's wife was deported to Honduras on Monday, the latest case tied to the Trump administration's immigration enforcement. DHS identified the service member as Sgt. Heddar Leonel Tursios Juarez. According to AP data, this is at least the seventh deportation of a spouse or parent of an active-duty US service member under the current enforcement actions. ABC reported Tursios Juarez served a nine-month deployment in the Middle East after enlisting and became a US citizen in 2024."
+    },
+    {
+      "id": "5056793",
+      "time": "2026-08-25 13:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海對5個市州啟動防汛四級應急響應】根據《青海省防汛抗洪應急預案》相關規定，經會商研判，青海省防汛抗旱指揮部研究決定，自8月25日12時起，對西寧市、海東市、海南州、海北州、黃南州啟動省級防汛四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03761-4055-7aab-9107-76cc85184685",
+      "time": "2026-08-25 13:25:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Tourism Organization said on Aug 25 that foreign arrivals to South Korea in July totaled 2.093223 million, up 20.8% YoY. Cumulative arrivals Jan–Jul rose 21.3% YoY to 12.8 million."
+    },
+    {
+      "id": "5056792",
+      "time": "2026-08-25 13:25:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念震盪回升 兆威機電漲停】午後人形機器人概念震盪回升，兆威機電漲停，拓斯達漲超10%，步科股份、傑克科技、華依科技、匯川技術、豐立智慧、奧比中光等跟漲。"
+    },
+    {
+      "id": "5056791",
+      "time": "2026-08-25 13:25:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銅纜高速連線概念走強 綠聯科技漲超13%】銅纜高速連線概念走強，綠聯科技漲超13%，神宇股份、沃爾核材、創益通、中富電路等漲幅居前。"
+    },
+    {
+      "id": "mkt:01a03760-e8e7-7aab-9107-6a1acf590326",
+      "time": "2026-08-25 13:24:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BHP's Australian port workers submitted a pay counterproposal ahead of the next meeting scheduled for Sept. 8."
+    },
+    {
+      "id": "5056790",
+      "time": "2026-08-25 13:24:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【7月訪韓外國遊客超209萬人次，同比增長20.8%】韓國旅遊發展局8月25日釋出的一組資料顯示，今年7月訪韓外國遊客達209.3223萬人次，同比增加20.8%。今年1月至7月累計訪韓遊客同比增加21.3%，達1280萬人次。"
+    },
+    {
+      "id": "mkt:01a03760-a7e1-7aab-9107-64ff1f1476ed",
+      "time": "2026-08-25 13:24:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China A-share copper-cable high-speed-connection concept strengthened; LvLian Technology rose over 13%, with Shenyu, Woer Hecai, Chuangyitong and Zhongfu Circuit among the top gainers."
+    },
     {
       "id": "mkt:01a0375d-79a4-7aab-9107-5c7ab1bffd5e",
       "time": "2026-08-25 13:21:07",
@@ -145061,113 +145195,6 @@
         "Precious Metals"
       ],
       "text": "Spot silver fell more than $1 intraday to $64.78/oz, down 1.52%."
-    },
-    {
-      "id": "5045276",
-      "time": "2026-08-18 13:31:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報64.91美元/盎司。"
-    },
-    {
-      "id": "5045275",
-      "time": "2026-08-18 13:30:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豆包操作電腦能力再升級 可在虛擬桌面操作Windows】據豆包訊息，豆包工作任務模式今日繼續上新，全新的豆包虛擬桌面已在Windows版本上線，豆包操作電腦的能力再次升級。在豆包電腦端選擇工作任務模式和本地電腦，在技能欄選擇“操作電腦”，完成授權後，在虛擬桌面裡，豆包就可以像人一樣檢視電腦螢幕、移動滑鼠、點選按鈕、敲鍵盤，幫使用者在電腦端繼續推進複雜任務。"
-    },
-    {
-      "id": "5045274",
-      "time": "2026-08-18 13:30:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡利巴夫訪問伊拉克旨在探討聯合安全解決方案。"
-    },
-    {
-      "id": "5045273",
-      "time": "2026-08-18 13:29:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【許昆林王新偉會見中國石化董事長侯啟軍】據遼寧日報，8月18日，遼寧省委書記許昆林、省長王新偉在瀋陽會見中國石油化工集團有限公司董事長侯啟軍一行。許昆林說，希望中國石化與遼寧深度合作，充分發揮自身優勢，積極佈局高階化工新材料產業，推動煉化企業向綠色化、精細化、高階化轉型；加快謀劃實施風光制氫、綠氫化工等產業專案，完善相關基礎設施，助力構建多元互補的新型能源體系；深化科創協同，推動更多優質技術產品在遼寧轉化應用，攜手實現更高水平的互利共贏。我們將全力最佳化營商環境，提供全生命週期服務保障，實打實排憂解難，為企業在遼發展創造更好條件。"
-    },
-    {
-      "id": "5045272",
-      "time": "2026-08-18 13:29:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭議會議長卡利巴夫將於週三訪問伊拉克。"
-    },
-    {
-      "id": "mkt:01a01358-348b-7aab-906f-b5742eed282e",
-      "time": "2026-08-18 13:29:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia's finance ministry said the 2027 budget will be tabled in Parliament on Oct 9."
-    },
-    {
-      "id": "5045271",
-      "time": "2026-08-18 13:28:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "馬來西亞財政部：2027年預算案將於10月9日提呈國會。"
-    },
-    {
-      "id": "5045270",
-      "time": "2026-08-18 13:27:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率上漲5個基點至3860%。"
-    },
-    {
-      "id": "5045269",
-      "time": "2026-08-18 13:27:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "馬來西亞財政部：2027年財政預算案將重點關注包括社會公正、生活成本壓力等10個領域。"
-    },
-    {
-      "id": "mkt:01a01355-9e40-7aab-906f-adf40d3d2c77",
-      "time": "2026-08-18 13:26:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Malaysia's Finance Ministry said targeted subsidies could save about 15.5 bln ringgit a year."
-    },
-    {
-      "id": "5045268",
-      "time": "2026-08-18 13:26:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：東風汽車取消在義大利建廠計劃。"
-    },
-    {
-      "id": "mkt:01a01355-634a-7aab-906f-a298130987a2",
-      "time": "2026-08-18 13:25:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC reports a magnitude 5.7 earthquake off the coast of Chiapas, Mexico."
-    },
-    {
-      "id": "5045267",
-      "time": "2026-08-18 13:24:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會議長將於週三訪問巴格達】據知情訊息人士透露，伊朗議會議長穆罕默德・巴蓋爾・加利巴夫將於週三率高階代表團前往巴格達，與伊拉克官員及政界人士舉行會談。會談首要議題是一項允許伊拉克石油經霍爾木茲海峽出口的提案，這條狹窄水道通常承擔伊拉克約 90% 的原油外運量。訊息人士稱，代表團還將探討推動伊拉克各武裝派系所持武器全部收歸國家管控的相關工作，預計將闡明德黑蘭在該問題上的立場，以及對巴格達迄今為止所採取舉措的評估。該訊息人士補充表示，會談還將談及伊朗對沖突再度爆發風險的擔憂，同時討論地區局勢進展，及其對伊拉克、伊朗乃至更廣泛區域造成的影響。"
     }
   ]
 }

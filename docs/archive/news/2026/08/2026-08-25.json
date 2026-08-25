@@ -1,7 +1,141 @@
 {
   "date": "2026-08-25",
-  "count": 1202,
+  "count": 1217,
   "items": [
+    {
+      "id": "te:markets:577787",
+      "time": "2026-08-25 13:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 3.07% — Top crypto gainers are XRP (3.07%), Binance (2.30%), Bitcoin (2.18%) and Ether (1.05%)."
+    },
+    {
+      "id": "mkt:01a03765-62ac-7aab-9107-9be0b32e07c4",
+      "time": "2026-08-25 13:29:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters survey shows the Reserve Bank of India may set the auction cut-off yield for the 10-year Indian government bond at 7.50%-7.54%."
+    },
+    {
+      "id": "mkt:01a03764-3ff0-7aab-9107-938c41d9cb5b",
+      "time": "2026-08-25 13:28:31",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Commonwealth Bank: RESERVE BANK OF AUSTRALIA policy response debate intensifies】Commonwealth Bank economist Belinda Allen said the RESERVE BANK OF AUSTRALIA views inf risks as skewed to the upside and that debate over the appropriate policy response is intensifying. She questioned whether C.BANK is losing patience—possibly—or may be using verbal intervention to ensure financial conditions remain tight until inf shows more substantive progress. Allen added current inf prints are insufficient to declare victory: Q2 inf undershot expectations largely due to volatile components that risk rebounding in coming months."
+    },
+    {
+      "id": "5056795",
+      "time": "2026-08-25 13:28:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數走勢逆轉，最新上漲0.5%。"
+    },
+    {
+      "id": "mkt:01a03763-8db8-7aab-9107-8ad4ded2b768",
+      "time": "2026-08-25 13:27:46",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Sources say Xi Yin's Hong Kong IPO, sized up to $1.8bn, has been fully subscribed."
+    },
+    {
+      "id": "5056794",
+      "time": "2026-08-25 13:27:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，SHEIN規模最高達18億美元的香港IPO簿記已獲全額認購。"
+    },
+    {
+      "id": "mkt:01a03761-eb52-7aab-9107-80e89e71b07d",
+      "time": "2026-08-25 13:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share humanoid-robotics concept stocks rebounded; Zhaowei Mechatronics hit the daily limit, Tuosida rose over 10%, and Buke, Jack Technology, Huayi Technology, Inovance Technology, Fengli Intelligent and Orbbec also advanced."
+    },
+    {
+      "id": "mkt:01a03761-df2a-7aab-9107-788d586562be",
+      "time": "2026-08-25 13:25:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration immigration crackdown continues as US Army sergeant's wife deported to Honduras】The Department of Homeland Security said an Army sergeant's wife was deported to Honduras on Monday, the latest case tied to the Trump administration's immigration enforcement. DHS identified the service member as Sgt. Heddar Leonel Tursios Juarez. According to AP data, this is at least the seventh deportation of a spouse or parent of an active-duty US service member under the current enforcement actions. ABC reported Tursios Juarez served a nine-month deployment in the Middle East after enlisting and became a US citizen in 2024."
+    },
+    {
+      "id": "5056793",
+      "time": "2026-08-25 13:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海對5個市州啟動防汛四級應急響應】根據《青海省防汛抗洪應急預案》相關規定，經會商研判，青海省防汛抗旱指揮部研究決定，自8月25日12時起，對西寧市、海東市、海南州、海北州、黃南州啟動省級防汛四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03761-4055-7aab-9107-76cc85184685",
+      "time": "2026-08-25 13:25:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Tourism Organization said on Aug 25 that foreign arrivals to South Korea in July totaled 2.093223 million, up 20.8% YoY. Cumulative arrivals Jan–Jul rose 21.3% YoY to 12.8 million."
+    },
+    {
+      "id": "5056792",
+      "time": "2026-08-25 13:25:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念震盪回升 兆威機電漲停】午後人形機器人概念震盪回升，兆威機電漲停，拓斯達漲超10%，步科股份、傑克科技、華依科技、匯川技術、豐立智慧、奧比中光等跟漲。"
+    },
+    {
+      "id": "5056791",
+      "time": "2026-08-25 13:25:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銅纜高速連線概念走強 綠聯科技漲超13%】銅纜高速連線概念走強，綠聯科技漲超13%，神宇股份、沃爾核材、創益通、中富電路等漲幅居前。"
+    },
+    {
+      "id": "mkt:01a03760-e8e7-7aab-9107-6a1acf590326",
+      "time": "2026-08-25 13:24:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BHP's Australian port workers submitted a pay counterproposal ahead of the next meeting scheduled for Sept. 8."
+    },
+    {
+      "id": "mkt:01a03760-a7e1-7aab-9107-64ff1f1476ed",
+      "time": "2026-08-25 13:24:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China A-share copper-cable high-speed-connection concept strengthened; LvLian Technology rose over 13%, with Shenyu, Woer Hecai, Chuangyitong and Zhongfu Circuit among the top gainers."
+    },
+    {
+      "id": "5056790",
+      "time": "2026-08-25 13:24:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【7月訪韓外國遊客超209萬人次，同比增長20.8%】韓國旅遊發展局8月25日釋出的一組資料顯示，今年7月訪韓外國遊客達209.3223萬人次，同比增加20.8%。今年1月至7月累計訪韓遊客同比增加21.3%，達1280萬人次。"
+    },
     {
       "id": "mkt:01a0375d-79a4-7aab-9107-5c7ab1bffd5e",
       "time": "2026-08-25 13:21:07",
