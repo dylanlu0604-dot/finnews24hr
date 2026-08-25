@@ -1,7 +1,94 @@
 {
   "date": "2026-08-25",
-  "count": 3316,
+  "count": 3325,
   "items": [
+    {
+      "id": "mkt:01a03996-5544-7aab-9116-7ed0e30c8773",
+      "time": "2026-08-25 23:42:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices dip】WTI crude fell 3.88% to $81.27/bbl; Brent crude slipped below $87, also down 3.88% intraday. Both benchmarks dropped roughly $0.80 in the short term."
+    },
+    {
+      "id": "mkt:01a03995-4b2f-7aab-9116-7017762fd2c6",
+      "time": "2026-08-25 23:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran slams US 'economic D-Day' as systemic assault on international order】An Iranian Foreign Ministry spokesperson said the US's so‑called 'economic D‑Day' forces every bank, company, port and government to choose between obeying Washington or facing US retaliation, amounting to a systemic assault on the international order. The spokesperson said the measure destroys core rules of international law and the UN Charter on sovereign equality and self‑determination, warned no sovereign state would accept normalization of such illegal, systemic bullying, and said Canada is among the countries already learning this lesson."
+    },
+    {
+      "id": "5058356",
+      "time": "2026-08-25 23:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架美國空軍波音C‑17“環球霸王III”運輸機已從伏努科沃機場起飛。"
+    },
+    {
+      "id": "5058355",
+      "time": "2026-08-25 23:39:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內跌4%，現報86.89美元/桶。"
+    },
+    {
+      "id": "mkt:01a03993-99a5-7aab-9116-6dfea6968673",
+      "time": "2026-08-25 23:39:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Stoxx Europe 50"
+      ],
+      "text": "European equities on Aug 25 (Tue) closed: Germany DAX 30 +155.76 pts (+0.60%) at 26,274.75; UK FTSE 100 +33.60 pts (+0.31%) at 10,887.92; France CAC 40 -13.81 pts (-0.16%) at 8,439.20; Stoxx Europe 50 +10.77 pts (+0.17%) at 6,458.75; Spain IBEX 35 -33.01 pts (-0.16%) at 20,065.59; Italy FTSE MIB +209.82 pts (+0.40%) at 52,752.00."
+    },
+    {
+      "id": "5058354",
+      "time": "2026-08-25 23:39:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守87美元/桶，日內跌3.91%。"
+    },
+    {
+      "id": "mkt:01a03992-db2a-7aab-9116-6150bbf08ec8",
+      "time": "2026-08-25 23:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath, citing a diplomatic source, said Israel sees Jordan as a partner to advance solutions across sectors in Syria."
+    },
+    {
+      "id": "mkt:01a03992-a7c2-7aab-9116-5ffb2613ab7a",
+      "time": "2026-08-25 23:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A diplomatic source told Saudi outlet Hadas that Israel considers Jordan a partner to reach solutions with Syria on all issues."
+    },
+    {
+      "id": "te:markets:578009",
+      "time": "2026-08-25 23:38:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "European Natural Gas Prices Fall from 3-1/2-Year High — European natural gas prices fell below €67 per megawatt-hour, easing from Monday’s 3½-year high of €68.46, as improving prospects for de-escalation between the US and Iran reduced some concerns over supply disruptions. Gas prices tracked a broader decline in energy markets after Washington’s latest measures against Tehran appeared less likely than expected to disrupt physical supplies. Diplomatic efforts also offered some relief, with Pakistan’s army chief visiting Iran and Qatar continuing to support mediation between Tehran and Washington. Reports that the US could begin returning evacuated diplomats to the Middle East also suggested that an immediate escalation in the conflict may be less likely. Nevertheless, supply risks remain, particularly as disruptions around the Strait of Hormuz have constrained LNG deliveries from Qatar. At the same time, persistent hot weather is boosting cooling demand, making it harder for European countries to rebuild gas inventories ahead of winter."
+    },
     {
       "id": "mkt:01a03990-d570-7aab-9116-537ae7eded8a",
       "time": "2026-08-25 23:36:28",

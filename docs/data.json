@@ -1,7 +1,94 @@
 {
-  "updated": "2026-08-25 23:38:59",
-  "count": 16481,
+  "updated": "2026-08-25 23:43:11",
+  "count": 16483,
   "items": [
+    {
+      "id": "mkt:01a03996-5544-7aab-9116-7ed0e30c8773",
+      "time": "2026-08-25 23:42:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices dip】WTI crude fell 3.88% to $81.27/bbl; Brent crude slipped below $87, also down 3.88% intraday. Both benchmarks dropped roughly $0.80 in the short term."
+    },
+    {
+      "id": "mkt:01a03995-4b2f-7aab-9116-7017762fd2c6",
+      "time": "2026-08-25 23:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran slams US 'economic D-Day' as systemic assault on international order】An Iranian Foreign Ministry spokesperson said the US's so‑called 'economic D‑Day' forces every bank, company, port and government to choose between obeying Washington or facing US retaliation, amounting to a systemic assault on the international order. The spokesperson said the measure destroys core rules of international law and the UN Charter on sovereign equality and self‑determination, warned no sovereign state would accept normalization of such illegal, systemic bullying, and said Canada is among the countries already learning this lesson."
+    },
+    {
+      "id": "5058356",
+      "time": "2026-08-25 23:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架美國空軍波音C‑17“環球霸王III”運輸機已從伏努科沃機場起飛。"
+    },
+    {
+      "id": "5058355",
+      "time": "2026-08-25 23:39:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內跌4%，現報86.89美元/桶。"
+    },
+    {
+      "id": "mkt:01a03993-99a5-7aab-9116-6dfea6968673",
+      "time": "2026-08-25 23:39:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Stoxx Europe 50"
+      ],
+      "text": "European equities on Aug 25 (Tue) closed: Germany DAX 30 +155.76 pts (+0.60%) at 26,274.75; UK FTSE 100 +33.60 pts (+0.31%) at 10,887.92; France CAC 40 -13.81 pts (-0.16%) at 8,439.20; Stoxx Europe 50 +10.77 pts (+0.17%) at 6,458.75; Spain IBEX 35 -33.01 pts (-0.16%) at 20,065.59; Italy FTSE MIB +209.82 pts (+0.40%) at 52,752.00."
+    },
+    {
+      "id": "5058354",
+      "time": "2026-08-25 23:39:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守87美元/桶，日內跌3.91%。"
+    },
+    {
+      "id": "mkt:01a03992-db2a-7aab-9116-6150bbf08ec8",
+      "time": "2026-08-25 23:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath, citing a diplomatic source, said Israel sees Jordan as a partner to advance solutions across sectors in Syria."
+    },
+    {
+      "id": "mkt:01a03992-a7c2-7aab-9116-5ffb2613ab7a",
+      "time": "2026-08-25 23:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A diplomatic source told Saudi outlet Hadas that Israel considers Jordan a partner to reach solutions with Syria on all issues."
+    },
+    {
+      "id": "te:markets:578009",
+      "time": "2026-08-25 23:38:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "European Natural Gas Prices Fall from 3-1/2-Year High — European natural gas prices fell below €67 per megawatt-hour, easing from Monday’s 3½-year high of €68.46, as improving prospects for de-escalation between the US and Iran reduced some concerns over supply disruptions. Gas prices tracked a broader decline in energy markets after Washington’s latest measures against Tehran appeared less likely than expected to disrupt physical supplies. Diplomatic efforts also offered some relief, with Pakistan’s army chief visiting Iran and Qatar continuing to support mediation between Tehran and Washington. Reports that the US could begin returning evacuated diplomats to the Middle East also suggested that an immediate escalation in the conflict may be less likely. Nevertheless, supply risks remain, particularly as disruptions around the Strait of Hormuz have constrained LNG deliveries from Qatar. At the same time, persistent hot weather is boosting cooling demand, making it harder for European countries to rebuild gas inventories ahead of winter."
+    },
     {
       "id": "mkt:01a03990-d570-7aab-9116-537ae7eded8a",
       "time": "2026-08-25 23:36:28",
@@ -148955,87 +149042,6 @@
         "國際"
       ],
       "text": "【俄方：瑞典扣留涉俄貨船出於政治動機】俄羅斯駐瑞典大使謝爾蓋·別利亞耶夫18日表示，瑞典2025年年底至今扣留過多艘為俄羅斯利益服務的貨船，此類舉動是出於政治動機，違反國際海事法。別利亞耶夫當天對俄新社說，瑞典主要依據這些貨船涉嫌懸掛“虛假國旗”對船員進行指控，但未能提出任何“實質性指控”。事實上，此舉旨在向服務於俄對外貿易的商業運營方施壓。瑞典以相關船隻屬於所謂“影子艦隊”、相關物件被列入歐盟制裁名單為依據，扣留“無辜途徑瑞典領海”的船舶。此舉具有“歧視性”，違反國際海事法。（新華社）"
-    },
-    {
-      "id": "te:markets:576206",
-      "time": "2026-08-18 23:42:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Uranium Rises to Near 6-Month High — Uranium futures in the US remained near the $85 per pound mark, extending its narrow range since early April after erasing the surge from earlier in the year. The cooldown from the speculative rally was combined with muted levels of spot buying by utilities, which have allocated from long-term contracts since the war between Russia and Ukraine raised short-term trade uncertainty. Yellowcake prices were lifted by geopolitical tension driving power markets in major economies to be increasingly volatile, sparking interest in nuclear power by governments and power-hungry AI hyperscalers that develop datacenters. Italy was the latest to express interest to approve a legal framework to restore nuclear power, in line with measures from the US and Japan as power consumers expand sources for generation to account for the higher demand from data center projects. Meta, Amazon, and Microsoft signed agreements to gain fresh nuclear capacity for their future AI data center operations."
-    },
-    {
-      "id": "te:economy:576204",
-      "time": "2026-08-18 23:41:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Colombia Economic Growth Picks Up in Q2 — Colombia’s economy expanded 3.5% year-on-year in Q2 2026, accelerating from 2.2% growth in the previous quarter. Growth was supported by public spending, although its pace eased to 12.2% from 13.2%, while household consumption strengthened to 2.8% from 2.7%. Activity also accelerated in public administration, health and defense (10% vs 5.6%), entertainment (9.5% vs 3.2%), financial services (4.3% vs 2.8%) and utilities (4.8% vs 2.6%). However, risks to the outlook include the recent earthquake, the strongest in half a century, and dry weather associated with the El Niño phenomenon. On a seasonally adjusted quarterly basis, the economy expanded 1.3%, accelerating sharply from a 0.6% increase in the prior quarter."
-    },
-    {
-      "id": "mkt:01a01588-a7ee-7aab-907e-e1e1255e3432",
-      "time": "2026-08-18 23:41:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Interfax: Putin said Russia and Myanmar are discussing construction of an oil refinery."
-    },
-    {
-      "id": "5046345",
-      "time": "2026-08-18 23:40:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯總統普京稱俄羅斯與緬甸已就煉油廠建設展開磋商。"
-    },
-    {
-      "id": "te:economy:576201",
-      "time": "2026-08-18 23:39:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "Colombia Economic Activity Growth Slows in June — Colombia’s leading economic index rose 3.51% year-on-year in June 2026, following an upwardly revised 4.24% increase in May. The index for tertiary activities rose 4.28%, while the index for secondary activities increased 3.21%. The index for primary activities edged up 0.58%."
-    },
-    {
-      "id": "mkt:01a01587-046d-7aab-907e-da66bed69d3c",
-      "time": "2026-08-18 23:39:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish",
-        "Euro STOXX 50"
-      ],
-      "text": "European equities closed mixed on Tuesday, Aug 18: Germany's DAX fell 238.91 points, or 0.91%, to 26,130.75; the UK's FTSE 100 rose 5.09 points, or 0.05%, to 10,725.39; France's CAC 40 fell 70.24 points, or 0.82%, to 8,509.36; the Euro STOXX 50 fell 61.60 points, or 0.94%, to 6,468.85; Spain's IBEX 35 fell 52.08 points, or 0.26%, to 19,929.82; Italy's FTSE MIB fell 554.98 points, or 1.04%, to 53,032.00."
-    },
-    {
-      "id": "mkt:01a01586-ec37-7aab-907e-d77e11cf83c7",
-      "time": "2026-08-18 23:39:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Sources say Russia will reroute Kazakh oil exports from Ust-Luga to Novorossiysk to free up Baltic port capacity for additional Russian crude shipments."
     }
   ]
 }
