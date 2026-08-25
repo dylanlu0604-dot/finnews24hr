@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-26 00:04:17",
-  "count": 16496,
+  "updated": "2026-08-26 00:08:19",
+  "count": 16499,
   "items": [
+    {
+      "id": "mkt:01a039ad-3912-7aab-9116-ec534d9fc3ac",
+      "time": "2026-08-26 00:07:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "IMF will review Ukraine loan program Aug 26-Sep 2 (local time)."
+    },
+    {
+      "id": "te:markets:578017",
+      "time": "2026-08-26 00:07:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.29% Higher — The FTSE 100 Index gained 31 points or 0.29 percent on Tuesday to close at 10885 points. Gains were led by Melrose (10.48%), AstraZeneca (2.96%) and International Airlines Group (2.45%). Biggest losers were Diageo (-2.37%), Standard Chartered (-2.32%) and British American Tobacco (-1.51%)."
+    },
+    {
+      "id": "mkt:01a039ac-9ebc-7aab-9116-e5b0b4c98325",
+      "time": "2026-08-26 00:06:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "MSCI will continue to review Turkish securities with investability issues on a case-by-case basis."
+    },
+    {
+      "id": "mkt:01a039ac-6de5-7aab-9116-dc491e9a04e5",
+      "time": "2026-08-26 00:06:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "MSCI said after investor feedback and investability analysis it will not add three securities to the MSCI Turkey Small Cap Index as proposed."
+    },
+    {
+      "id": "5058375",
+      "time": "2026-08-26 00:06:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織（IMF）將於8月26日‑9月2日審議烏克蘭貸款專案。"
+    },
+    {
+      "id": "5058374",
+      "time": "2026-08-26 00:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI）表示，將繼續對存在可投資性問題的土耳其證券進行逐案審查。"
+    },
+    {
+      "id": "5058373",
+      "time": "2026-08-26 00:04:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI）表示，在聽取投資者反饋、開展可投資性分析後，決定暫不將三隻證券按提議納入明晟土耳其小盤股指數。"
+    },
+    {
+      "id": "5058372",
+      "time": "2026-08-26 00:04:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic推出500萬美元人工智慧使用者福利資助專案。"
+    },
+    {
+      "id": "mkt:01a039a9-8910-7aab-9116-d236624736a0",
+      "time": "2026-08-26 00:03:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Wall Street Journal reports Anthropic told investors it expects its potential revenue opportunity to exceed $30 trillion."
+    },
     {
       "id": "5058371",
       "time": "2026-08-26 00:02:49",
@@ -149124,62 +149210,6 @@
         "國際"
       ],
       "text": "【摩根大通Santos警告：\"AI觸角\"風險已蔓延至債券與股票市場】摩根大通資產管理公司美洲區首席市場策略師Gabriela Santos警告稱，”AI因子”集中度風險已從股票市場蔓延至固定收益市場，進一步加大了投資者保持謹慎的必要性。科技股的劇烈震盪凸顯了擁擠交易的風險，並強調了倉位規模、槓桿控制以及AI之外多元化配置的重要性。美國國債、黃金和核心房地產是為數不多能提供不同收益來源的領域，並建議對超大規模雲服務商發行的債券應逐一進行審慎研究。"
-    },
-    {
-      "id": "te:markets:576214",
-      "time": "2026-08-19 00:07:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.14% Higher — The FTSE 100 Index gained 15 points or 0.14 percent on Tuesday to close at 10736 points. Gains were led by Relx (3.18%), BP (3.00%) and Burberry (2.81%). Biggest losers were Weir (-3.22%), Halma (-3.13%) and Fresnillo (-2.87%)."
-    },
-    {
-      "id": "5046360",
-      "time": "2026-08-19 00:07:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法意西希四國主權債收益率普遍漲約5個基點】週二（8月18日）歐市尾盤，法國10年期國債收益率漲4.8個基點，連續三個交易日走高，報4.114%，全天處於上漲狀態、北京時間21:30美股開盤時達到4.128%，逼近2008年11月6日頂部4.203%、當年9月22日頂部4.548%。兩年期法債收益率漲4.7個基點，30年期法債收益率漲2.9個基點。義大利10年期國債收益率漲5.8個基點，報4.073%。西班牙10年期國債收益率漲4.6個基點，報3.707%。希臘10年期國債收益率漲5.7個基點，報3.959%。"
-    },
-    {
-      "id": "5046359",
-      "time": "2026-08-19 00:06:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：伊拉克北部蘇萊曼尼亞省上空升起陣陣濃煙，起火原因尚不清楚。"
-    },
-    {
-      "id": "te:markets:576210",
-      "time": "2026-08-19 00:06:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Finishes at Near 2-Week Low — The DAX 40 extended early losses to close about 0.8% down at 26,152 on Tuesday, the lowest since August 5th, marking the second session of losses. Risk sentiment remained weak as stalled US-Iran talks raised fears of renewed escalation, sending oil prices and bond yields higher amid growing inflation concerns. Uncertainty increased after the memorandum of understanding expired, with Washington rejecting an extension and Iran warning of a tougher response if negotiations fail to progress. Rate-sensitive tech stocks, industrials and banks faced heavy selling pressure. Chipmaker Infineon Technologies plunged over 7%, making it the worst performer. AI-related stocks Siemens Energy (-4.4%) and Hochtief (-1.1%) also declined, amid profit-taking. Other top losers included Heidelberg Materials, Siemens, Airbu, MTU Aero Engines and Continental, down between 1.9% and 3.5%: On the upside, SAP (1.9%), Bayer (1.7%) and Deutsche Telekom (1.7%) emerged as the biggest gainers."
-    },
-    {
-      "id": "5046358",
-      "time": "2026-08-19 00:05:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟發言人：相關調整預計將使應用開發者能夠為應用選擇多種分發渠道。歐盟委員會對蘋果調整 iPhone 與 iPad 第三方應用分發業務條款表示歡迎。開發者將擁有更大自主權，可引導應用商店使用者轉向其他平臺與支付系統。"
-    },
-    {
-      "id": "5046357",
-      "time": "2026-08-19 00:05:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟發言人：歐盟將監督新條款的有效落實。"
     }
   ]
 }
