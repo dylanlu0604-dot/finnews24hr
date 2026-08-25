@@ -1,7 +1,91 @@
 {
   "date": "2026-08-25",
-  "count": 3099,
+  "count": 3108,
   "items": [
+    {
+      "id": "mkt:01a03929-d1ea-7aab-9113-f541994d2158",
+      "time": "2026-08-25 21:43:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NMPA approves Novartis' Pluvicto for PSMA‑positive mHSPC in China】Novartis said the National Medical Products Administration approved the radioligand therapy Pluvicto (lutetium Lu 177 vipivotide tetraxetan injection) in combination with androgen receptor pathway inhibitors (ARPI) for PSMA‑positive metastatic hormone‑sensitive prostate cancer (mHSPC) in China."
+    },
+    {
+      "id": "te:markets:577983",
+      "time": "2026-08-25 21:43:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound on Tuesday — US stocks were higher on Tuesday, trimming losses from the previous session amid a rebound for chip producers and softer Treasury yields. The S&P 500, and the Dow were 0.5% higher, while tech lifted the Nasdaq 100 to a 0.6% gain. Companies with exposure to AI infrastructure rebounded from their aggressive losses last session as markets grappled with uncertainty in the sector. The likelihood of massive IPOs for hyperscalers that invest on infrastructure, including Anthropic and OpenAI, weighed against skepticism that AI demand will be strong enough in the near-term to justify the magnitude of capital expenditure. Also, Nvidia inched higher ahead of its earnings tomorrow. Broader sectors also gained as long-term Treasuries rebounded from their recent selloffs. US Secretary Treasury Bessent threatened to sanction banks and companies that intermediate trade with Iran, but energy price still eased after Iran responded to threats. GE Vernova and Veritiv rose more than 2%."
+    },
+    {
+      "id": "mkt:01a03929-4fa6-7aab-9113-e8227fa0df01",
+      "time": "2026-08-25 21:43:23",
+      "tags": [
+        "MKT News",
+        "GNK.O",
+        "Impact bullish",
+        "CMRE.O",
+        "EGLE.O"
+      ],
+      "text": "【Baltic Dry Index hits near two-week high as freight rises across all vessel classes】The Baltic Dry Index (BDI) rose 44 points, or 1.5%, to 2,926 on Tuesday, its highest level since Aug. 12, driven by freight gains across all vessel classes. The Baltic Capesize Index (BCI) gained 92 points, or 2.0%, to 4,735, its strongest since Aug. 11; Capesize average daily earnings rose $840 to $39,442. The Baltic Panamax Index (BPI) climbed 35 points, or 2.0%, to 2,166, marking a third straight session of gains; Panamax average daily earnings increased $318 to $19,496. The Baltic Supramax Index (BSI) edged up 2 points, or 0.1%, to 1,643."
+    },
+    {
+      "id": "mkt:01a03929-305f-7aab-9113-e022c6d0bfd4",
+      "time": "2026-08-25 21:43:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel seeks political route to disarm Hezbollah】Saudi outlet Alhadath, citing Israeli military sources, said the Lebanese government is responsible for handling Hezbollah’s weapons. Israel prefers a political process and is seeking U.S.-mediated talks to reach an agreement that would prevent Hezbollah from regaining the capability to threaten towns in northern Israel."
+    },
+    {
+      "id": "5058238",
+      "time": "2026-08-25 21:43:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾華放射配體療法藥物派威妥®用於治療轉移性激素敏感性前列腺癌患者新適應症在中國獲批】諾華公司8月25日宣佈，國家藥品監督管理局（NMPA）已批准放射配體療法（RLT）藥物派威妥®（鎦[177Lu]特昔維匹肽注射液）與雄激素受體通路抑制劑（ARPI）聯合治療前列腺特異性膜抗原（PSMA）陽性轉移性激素敏感性前列腺癌（mHSPC）。"
+    },
+    {
+      "id": "5058237",
+      "time": "2026-08-25 21:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度海岸警衛隊表示，已增派更多力量加強搜救工作，尋找在孟加拉灣沉沒船隻上失蹤的22名船員。"
+    },
+    {
+      "id": "5058236",
+      "time": "2026-08-25 21:41:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度海岸警衛隊稱，已在孟加拉灣找到沉船的一艘救生艇，但未發現倖存者。"
+    },
+    {
+      "id": "5058235",
+      "time": "2026-08-25 21:40:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度海岸警衛隊稱，已找到與在孟加拉灣沉沒船隻相關的緊急信標。"
+    },
+    {
+      "id": "te:markets:577982",
+      "time": "2026-08-25 21:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 108 points or 0.20 percent on Tuesday. Gains are led by Nvidia (1.65%), Cisco Systems (1.64%) and Merck (1.25%). Biggest losers are Nike (-3.24%), Walmart (-1.42%) and Chevron (-1.12%)."
+    },
     {
       "id": "5058234",
       "time": "2026-08-25 21:38:43",
