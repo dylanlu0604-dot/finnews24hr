@@ -1,7 +1,42 @@
 {
   "date": "2026-08-26",
-  "count": 357,
+  "count": 361,
   "items": [
+    {
+      "id": "5058555",
+      "time": "2026-08-26 06:33:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一架美軍黑鷹直升機在丹佛西部開展常規訓練時發生 “航空事故”。 機上共 4 人，暫無人員受傷報告。"
+    },
+    {
+      "id": "mkt:01a03b0e-0be9-7aab-911b-90f38356154f",
+      "time": "2026-08-26 06:32:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS said a U.S. Army Black Hawk helicopter was involved in an aviation accident during routine training west of Denver on Tuesday; four people were aboard and no injuries were reported."
+    },
+    {
+      "id": "te:markets:578043",
+      "time": "2026-08-26 06:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Coking Coal Surges by 11.30% — Top commodity gainer is Coking Coal (11.30%). Biggest losers are Natural Gas EU (-6.58%), Brent Crude Oil (-5.62%) and Crude Oil WTI (-4.67%)."
+    },
+    {
+      "id": "5058554",
+      "time": "2026-08-26 06:29:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【納斯達克23小時交易的背後：一場圍繞訂單與流動性的全球競賽】美股交易規則即將迎來里程碑式變革。納斯達克證券交易所日前正式確認，其新的“全球交易時段”計劃將於2026年12月6日啟動，屆時納斯達克將進入每週5天、每天23小時交易的新時代，每日僅休市一小時。與此同時，紐約證券交易所、芝加哥商業交易所、倫敦證券交易所等全球主要交易所也紛紛推進延長交易或推出全天候合約。在業內人士看來，交易制度的改變將重塑全球投資者的交易習慣，更重要的是，一場圍繞全球交易時段和訂單流量的競爭正全面展開。"
+    },
     {
       "id": "mkt:01a03b0a-18b1-7aab-911b-8cf3643042e3",
       "time": "2026-08-26 06:28:32",
