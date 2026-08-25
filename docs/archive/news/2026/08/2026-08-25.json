@@ -1,7 +1,41 @@
 {
   "date": "2026-08-25",
-  "count": 1198,
+  "count": 1202,
   "items": [
+    {
+      "id": "mkt:01a0375d-79a4-7aab-9107-5c7ab1bffd5e",
+      "time": "2026-08-25 13:21:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI turned positive after earlier falling more than 4%."
+    },
+    {
+      "id": "5056789",
+      "time": "2026-08-25 13:21:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.01%，成分股中，艾融軟體漲9.57%，曙光數創漲5.63%，森萱醫藥漲3.92%，奧迪威漲2.80%。"
+    },
+    {
+      "id": "5056788",
+      "time": "2026-08-25 13:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宋志勇會見巴西港口和機場部部長】中國民用航空局局長宋志勇在京會見巴西港口和機場部部長弗蘭卡，雙方圍繞提升中巴航空互聯互通水平，加強飛行員培訓、民航新技術應用、機場建設與運營等方面合作深入交換意見。（中國民航報）"
+    },
+    {
+      "id": "mkt:01a0375c-6f10-7aab-9107-52f743b3cbe8",
+      "time": "2026-08-25 13:19:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China civil aviation chief meets Brazil ports and airports minister in Beijing】China Civil Aviation Administration director Song Zhiyong met in Beijing with Brazil’s minister of Ports and Airports, Franka. They discussed boosting China–Brazil air connectivity and cooperation on pilot training, civil aviation technology adoption, and airport construction and operations."
+    },
     {
       "id": "mkt:01a0375b-4e0f-7aab-9107-4d0e329d9ad4",
       "time": "2026-08-25 13:18:45",
