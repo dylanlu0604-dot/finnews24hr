@@ -1,7 +1,373 @@
 {
-  "updated": "2026-08-25 19:37:42",
-  "count": 16426,
+  "updated": "2026-08-25 19:49:07",
+  "count": 16454,
   "items": [
+    {
+      "id": "5057987",
+      "time": "2026-08-25 19:48:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【和邦生物：董事賀正剛擬減持不超4182.4萬股公司股份】和邦生物8月25日公告，公司董事賀正剛計劃在2026年9月16日至2026年12月15日期間，透過集中競價方式減持不超過4182.4萬股，佔公司總股本的0.47%，減持價格按市場價格確定，減持原因為償還貸款。以公告披露前最近一個交易日（8月24日）的收盤價2.42元/股測算，本次擬減持股份對應的市值上限約為1.01億元。"
+    },
+    {
+      "id": "mkt:01a038bf-8976-7aab-9110-b6122ad9280e",
+      "time": "2026-08-25 19:47:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BNP Paribas granted an investment license to establish a regional headquarters in Saudi Arabia."
+    },
+    {
+      "id": "5057985",
+      "time": "2026-08-25 19:47:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒙特利爾銀行維持受損貸款損失撥備指引不變。"
+    },
+    {
+      "id": "5057984",
+      "time": "2026-08-25 19:47:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國國際紡織面料及輔料博覽會在滬開幕】8月25日，中國國際紡織面料及輔料（秋冬）博覽會在國家會展中心（上海）開幕。本屆博覽會展覽面積24萬平方米，匯聚來自國內外的數千家紡織行業參展商。（新華社）"
+    },
+    {
+      "id": "5057983",
+      "time": "2026-08-25 19:46:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國最大直徑水下盾構隧道建成通車】8月25日，由濟南城市建設集團投資建設、中鐵十四局施工的濟南黃崗路黃河隧道建成通車，標誌著我國最大直徑水下盾構隧道正式投入使用。濟南黃崗路黃河隧道全長約5.75公里，其中盾構段長約3.3公里，採用開挖直徑達17.5米的“山河號”盾構機施工。隧道為單洞雙層結構，上下層共設定六車道，設計時速60公里，是國內首條穿黃單洞雙層盾構隧道。（新華社）"
+    },
+    {
+      "id": "5057982",
+      "time": "2026-08-25 19:46:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【BOSS直聘：2026年第二季度營收23.99億元，經營利潤8.63億元】8月25日，BOSS直聘釋出2026年第二季度財報。報告期內，公司營收23.99億元，同比增長14.1%，相較上一季度明顯加速；其中來自企業客戶的招聘收入為23.84億元，同比上漲14.7%，佔總收入的99.4%。第二季度公司取得經營利潤8.63億元、經調整後經營利潤10.50億元。截至2026年6月30日止的十二個月內，公司付費企業客戶數達到720萬，同比上漲10.8%。同時公司宣佈了2.3億美元的派息計劃，派息資金全部源於公司賬面盈餘現金。派息完成後，公司年內透過派息和回購進行的股東回報總金額已超過上年經調整後淨利潤的100%。"
+    },
+    {
+      "id": "5057981",
+      "time": "2026-08-25 19:46:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守82美元/桶，日內跌3.55%。"
+    },
+    {
+      "id": "5057980",
+      "time": "2026-08-25 19:45:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華英農業：2026年上半年淨利潤虧損2928.25萬元，2025年同期虧損2063.15萬元】華英農業公告，2026年上半年營業收入23.72億元，同比增長14.52%；歸屬於上市公司股東的淨利潤虧損2928.25萬元，2025年同期虧損2063.15萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3510.2萬元，2025年同期虧損2598.09萬元。公司控股股東解散清算暨控制權擬發生變更事項已取得反壟斷審查不實施進一步審查決定書，仍在履行國有資產監督管理機構稽核備案程式，並待辦理股份非交易過戶手續。"
+    },
+    {
+      "id": "5057979",
+      "time": "2026-08-25 19:45:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "BMO首席風險官稱，在貿易緊張局勢下，預計第四季度不良貸款撥備率將與第三季度持平。"
+    },
+    {
+      "id": "mkt:01a038bc-e680-7aab-9110-a98e645f375d",
+      "time": "2026-08-25 19:44:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK two-year government bond yield fell 5 bps to 4.33% as the broader bond market rallied."
+    },
+    {
+      "id": "5057978",
+      "time": "2026-08-25 19:44:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "受債券市場整體上漲影響，英國兩年期國債收益率下跌5個基點至4.33%。"
+    },
+    {
+      "id": "5057977",
+      "time": "2026-08-25 19:44:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "迪克體育用品股價跌幅進一步擴大，盤前交易時段截至最新跌約16%。"
+    },
+    {
+      "id": "5057976",
+      "time": "2026-08-25 19:44:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興蓉環境：2026年上半年營收43.88億元 淨利同比增4.74%】興蓉環境公告稱，2026年上半年實現營業收入43.88億元，同比增長4.67%；歸屬於上市公司股東的淨利潤10.21億元，同比增長4.74%；扣非淨利潤10.02億元，同比增長4.84%。經營活動產生的現金流量淨額7.28億元，同比下降22.05%。基本每股收益0.3426元/股，同比增長4.77%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5057975",
+      "time": "2026-08-25 19:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊雲與卡爾動力達成戰略合作】8月25日，騰訊雲與卡爾動力達成戰略合作。雙方將進一步深化AI基礎設施協同，圍繞自動駕駛貨運模型的訓練、推理、資料處理與持續迭代開展合作，為卡爾動力L4級自動駕駛幹線貨運的規模化運營提供支撐。透過此次戰略合作，騰訊雲將在雲上算力、資料儲存與AI平臺三方面，助力提升卡爾動力自研自動駕駛貨運模型的訓練、推理與持續迭代效率。（介面新聞）"
+    },
+    {
+      "id": "5057974",
+      "time": "2026-08-25 19:43:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皓宸醫療：2026年上半年虧損1402.59萬元，上年同期虧損2375.11萬元】皓宸醫療公告，2026年上半年營業收入3.14億元，同比增長0.14%；歸屬於上市公司股東的淨利潤虧損1402.59萬元，上年同期虧損2375.11萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1411.31萬元，上年同期虧損2355.85萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5057973",
+      "time": "2026-08-25 19:43:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢朔科技：2026年上半年淨利潤3.36億元，同比增長51.22%】漢朔科技公告，2026年上半年營業收入29.07億元，同比增長47.23%；歸屬於上市公司股東的淨利潤3.36億元，同比增長51.22%，2025年上半年為2.22億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.93億元，同比增長1.99%，2025年上半年為2.87億元。"
+    },
+    {
+      "id": "mkt:01a038bb-b054-7aab-9110-a4091251772b",
+      "time": "2026-08-25 19:43:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Oman foreign minister to meet Iran foreign minister】Oman foreign minister Badr Albusaidi will visit Tehran on Tuesday to meet Iran foreign minister Araghchi. An Iranian foreign ministry spokesman said the two countries, as Strait of Hormuz littoral states, will continue political consultations to advance regional peace and security."
+    },
+    {
+      "id": "5057972",
+      "time": "2026-08-25 19:43:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國醫藥：2026年上半年淨利潤2.49億元，同比下降15.26%】中國醫藥公告，2026年上半年營業收入169.52億元，同比下降0.73%；歸屬於上市公司股東的淨利潤2.49億元，同比下降15.26%，2025年上半年為2.94億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.31億元，同比下降9.81%。"
+    },
+    {
+      "id": "5057971",
+      "time": "2026-08-25 19:42:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南成功發行政府債券665.56億元】據“河南釋出”，8月25日，河南省在北京成功發行政府債券665.56億元。新增一般債券54.25億元，用於基礎設施專案建設。新增專項債券402.03億元，其中：113.38億元用於補充地方政府性基金財力；168.59億元用於存量政府投資專案；120.06億元用於市政和產業園區基礎設施、保障性安居工程、生態環保等重點領域的162個建設專案。再融資一般債券159.68億元，用於償還到期債券的部分本金。再融資專項債券49.6億元，用於置換存量隱性債務。"
+    },
+    {
+      "id": "mkt:01a038ba-33b5-7aab-9110-994409733ed9",
+      "time": "2026-08-25 19:42:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "BMO executive says Canadian growth has recovered thanks to AI-driven expansion and US growth remains steady."
+    },
+    {
+      "id": "mkt:01a038b9-fae7-7aab-9110-9046565d7adf",
+      "time": "2026-08-25 19:41:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "BMO top executive said the North American economy remains resilient despite rising geopolitical risks and shifts in the trade environment."
+    },
+    {
+      "id": "5057970",
+      "time": "2026-08-25 19:41:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "麥格理為支援歐洲光纖公司（Eurofiber）及北歐其他企業擴張的長期融資平臺提供22億歐元再融資中的部分融資安排。"
+    },
+    {
+      "id": "5057969",
+      "time": "2026-08-25 19:41:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大蒙特利爾銀行高管表示，加拿大經濟已恢復增長，受人工智慧驅動的擴張支撐，美國經濟增長仍保持穩健。"
+    },
+    {
+      "id": "mkt:01a038b9-b3b5-7aab-9110-8b20369edfef",
+      "time": "2026-08-25 19:41:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's interior minister met the US chargé d'affaires to Pakistan hours after returning from Iran."
+    },
+    {
+      "id": "5057968",
+      "time": "2026-08-25 19:40:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗和阿曼外長在德黑蘭舉行會談。"
+    },
+    {
+      "id": "te:markets:577959",
+      "time": "2026-08-25 19:40:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound — US equity futures were higher on Tuesday, trimming losses from the previous session amid a rebound for chip producers and softer Treasury yields. Contracts for the S&P 500, Dow, and Nasdaq 100 were 0.5% higher. Companies with exposure to AI infrastructure rebounded from their aggressive losses last session as markets grappled with uncertainty in the sector. The likelihood of massive IPOs for hyperscalers that invest on infrastructure, including Anthropic and OpenAI, weighed against skepticism that AI demand will be strong enough in the near-term to justify the magnitude of capital expenditure. Also, Nvidia inched higher ahead of its earnings tomorrow. Broader sectors also gained as long-term Treasuries rebounded from their recent selloffs. US Secretary Treasury Bessent threatened to sanction banks and companies that intermediate trade with Iran, but energy price still eased after Iran responded to threats. GE Vernova and Veritiv rose more than 2%."
+    },
+    {
+      "id": "mkt:01a038b8-80bc-7aab-9110-836d3a666645",
+      "time": "2026-08-25 19:40:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports heavy fighting between government forces and Houthi fighters on the Karabah front northeast of Taiz."
+    },
+    {
+      "id": "5057967",
+      "time": "2026-08-25 19:39:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興蓉環境：2026年上半年淨利潤10.21億元，同比增長4.74%】興蓉環境公告，2026年上半年營業收入43.88億元，同比增長4.67%；歸屬於上市公司股東的淨利潤10.21億元，同比增長4.74%，2025年上半年為9.75億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤10.02億元，同比增長4.84%。公司不派發現金紅利、不送紅股、不以公積金轉增股本。"
+    },
+    {
+      "id": "5057966",
+      "time": "2026-08-25 19:39:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雄韜股份：2026年上半年淨利潤4806.37萬元，同比下降46.64%】雄韜股份公告，2026年上半年營業收入18.25億元，同比增長13.58%；歸屬於上市公司股東的淨利潤4806.37萬元，同比下降46.64%，2025年同期為9007.67萬元；扣除非經常性損益的淨利潤4191.27萬元，同比下降39.88%。公司擬以3.78億為基數，每10股派發現金紅利0.5元（含稅），送紅股0股。"
+    },
+    {
+      "id": "5057965",
+      "time": "2026-08-25 19:39:41",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【招商證券：2026年上半年營收219.02億元 同比增108.19%】招商證券公告稱，2026年上半年實現營業收入219.02億元，同比增長108.19%；淨利潤106.24億元，同比增長104.87%，業績創歷史同期最好水平。公司已實施2025年度現金分紅39.05億元（含稅），擬實施2026年中期分紅；上市以來累計現金分紅415.73億元，股份回購投入6.64億元，累計分紅率約38%。公司“提質增效重回報”行動方案各項內容均已按計劃實施。"
+    },
+    {
+      "id": "mkt:01a038b8-05f6-7aab-9110-7b378d3801ef",
+      "time": "2026-08-25 19:39:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said he will never interfere with Canadians speaking French, denied ever considering such a stupid action, called the allegation a lie fabricated by a weak, incompetent prime minister to court Quebec voters, and said he loves French Canadians."
+    },
+    {
+      "id": "5057964",
+      "time": "2026-08-25 19:39:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安博通：2026年上半年營收1.31億元 同比降69.46%】安博通公告稱，2026年上半年實現營業收入1.31億元，同比下降69.46%；歸屬於上市公司股東的淨虧損2278.39萬元，上年同期淨虧損1.09億元；歸屬於上市公司股東的扣除非經常性損益的淨虧損2295.49萬元。研發投入佔營業收入的比例為29.29%，同比增加14.60個百分點。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5057963",
+      "time": "2026-08-25 19:39:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "招商證券：上半年淨利潤106.2億元人民幣。"
+    },
+    {
+      "id": "5057962",
+      "time": "2026-08-25 19:39:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "招商證券：上半年營收219.0億元人民幣。"
+    },
+    {
+      "id": "mkt:01a038b7-4407-7aab-9110-77fdd5e9bf63",
+      "time": "2026-08-25 19:38:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian state broadcaster Suspilne reported President Zelenskiy said Ukraine has recently received Patriot interceptor missiles and will receive Crotale short-range air-defense systems."
+    },
+    {
+      "id": "5057961",
+      "time": "2026-08-25 19:38:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳都科技：2026年上半年營收53.54億元 淨利同比降77.27%】佳都科技公告稱，2026年上半年實現營業收入53.54億元，同比增長8.83%；歸屬於上市公司股東的淨利潤3074.95萬元，同比下降77.27%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1615.29萬元，同比增長7.27%。基本每股收益0.0145元/股，同比下降77.06%。本報告期無利潤分配預案或公積金轉增股本預案。"
+    },
+    {
+      "id": "5057960",
+      "time": "2026-08-25 19:38:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長進光子：2026年上半年營收同比降3.61%】長進光子公告稱，2026年上半年實現營業收入9675.70萬元，同比下降3.61%；歸屬於上市公司股東的淨利潤3145.64萬元，同比下降7.62%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2809.68萬元，同比下降2.38%。基本每股收益0.42元，同比下降14.29%。研發投入佔營業收入的比例為17.40%，同比減少0.39個百分點。本報告期無利潤分配預案或公積金轉增股本預案。"
+    },
+    {
+      "id": "5057959",
+      "time": "2026-08-25 19:38:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬隆光電：回覆深交所重組稽核問詢函】萬隆光電公告稱，公司擬發行股份及支付現金購買浙江中控資訊產業股份有限公司100%股份並募集配套資金，此前於2026年7月13日收到深交所出具的本次交易申請的稽核問詢函。目前公司及相關中介機構已按要求就問詢事項逐項說明、論證和回覆，相關回覆檔案已同步披露。本次交易尚需深交所稽核透過並經證監會同意註冊方可實施，能否獲批及獲批時間存在不確定性。"
+    },
+    {
+      "id": "5057958",
+      "time": "2026-08-25 19:38:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬隆光電：就重組問詢函應收款項事項作專項說明】萬隆光電公告稱，公司就發行股份及支付現金購買資產並募集配套資金申請的稽核問詢函中標的資產應收款項相關問題作出財務專項說明。2025年末標的公司應收賬款餘額24.21億元，3年以上佔比16.51%；交易完成後上市公司營收將大幅提升、業績扭虧為盈，標的長賬齡應收款不會造成重大不利影響，風險可控。本次交易已設定應收賬款回收考核條款，承諾方為杭州匯格等三家合夥企業，要求業績承諾期營收含稅累計回款比例不低於80%，未達標將以現金及股份補償。"
+    },
+    {
+      "id": "5057957",
+      "time": "2026-08-25 19:38:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：絕不會干預加拿大人使用法語】特朗普在社交媒體發文：我絕不會干預加拿大人使用法語！事實上，我壓根就沒有動過做這種蠢事的念頭。這則謊言，是一位軟弱無能的總理編造出來的，他企圖藉此爭取魁北克民眾的政治支援，可這份支援早已蕩然無存。我熱愛法裔加拿大人！"
+    },
+    {
+      "id": "5057956",
+      "time": "2026-08-25 19:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：澤連斯基稱烏克蘭將收到“響尾蛇”防空系統。"
+    },
+    {
+      "id": "5057955",
+      "time": "2026-08-25 19:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我喜歡法裔加拿大人。"
+    },
+    {
+      "id": "5057954",
+      "time": "2026-08-25 19:36:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：絕不會干涉加拿大人說法語。"
+    },
+    {
+      "id": "5057953",
+      "time": "2026-08-25 19:36:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申聯生物：關於獲批豬口蹄疫O型、南非1型二價合成肽疫苗的獸藥產品批准文號批件的自願性披露公告】申聯生物：豬口蹄疫二價合成肽疫苗獲批，文號2.8億申聯生物公告，公司蘭州分公司獲中華人民共和國農業農村部准予生產豬口蹄疫O型、南非1型二價合成肽疫苗，並取得獸藥產品臨時批准文號批件，文號為獸藥臨字280187563，有效期為2026年8月24日至2028年8月23日。該產品尚需履行獸藥產品批簽發等程式後方可上市銷售。"
+    },
     {
       "id": "5057952",
       "time": "2026-08-25 19:35:51",
@@ -148365,157 +148731,6 @@
         "Impact mixed"
       ],
       "text": "Baidu to hold earnings conference call in 10 minutes."
-    },
-    {
-      "id": "mkt:01a014b3-a85c-7aab-9078-e115ba01e8fa",
-      "time": "2026-08-18 19:48:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Saudi Arabian TV cited sources saying Israel has demanded the removal of mid-level Hamas military commanders from Gaza and the establishment of a sufficiently large buffer zone inside the Gaza Strip."
-    },
-    {
-      "id": "5046009",
-      "time": "2026-08-18 19:48:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油天然氣公司（ONGC）正建設連線設施，以將更多焦哈爾油田接入東北天然氣管網。"
-    },
-    {
-      "id": "5046008",
-      "time": "2026-08-18 19:48:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "KLARNA公佈業績後，AFFIRM HOLDINGS股價盤前下跌4%。"
-    },
-    {
-      "id": "5046007",
-      "time": "2026-08-18 19:46:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Klarna稱正在物色駐紐約的新任首席財務官。"
-    },
-    {
-      "id": "5046006",
-      "time": "2026-08-18 19:45:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "Klarna集團宣佈計劃於2027年初完成首席財務官與首席營銷官職位交接。"
-    },
-    {
-      "id": "5046005",
-      "time": "2026-08-18 19:45:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Klarna集團股價盤前下跌17.2%，此前該公司公佈的財年營收低於市場預期。"
-    },
-    {
-      "id": "5046004",
-      "time": "2026-08-18 19:45:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "Klarna公佈首席財務官與首席營銷官人事更迭計劃。"
-    },
-    {
-      "id": "5046003",
-      "time": "2026-08-18 19:45:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞一法院判處前總統巴沙爾堂弟死刑】敘利亞大馬士革第四刑事法院18日判處敘前總統巴沙爾·阿薩德的堂弟瓦西姆·阿薩德死刑。法官法赫爾丁·阿里延在當天的宣判聽證會上宣佈，瓦西姆·阿薩德對多人實施故意殺害和酷刑，構成反人類罪和戰爭罪。（新華社）"
-    },
-    {
-      "id": "5046002",
-      "time": "2026-08-18 19:44:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【訊息稱三星1d DRAM熱測試良率達標，量產時間表曝光】據報道，儘管1d DRAM的商業化仍需時日，但三星電子已將其良率提升至令人滿意的水平，足以應對高溫環境下的熱測試。據評估，1D DRAM的良率提升速度超出預期。雖然具體資料尚未公佈，但熱測試良率已達到目標水平，目前的工作重點是確保低溫環境下的冷測試良率。時間進度方面，三星電子將1d DRAM的開發完成目標定於今年9月，並計劃在12月將研發成果移交至量產線，明年底有望實現首批次產。"
-    },
-    {
-      "id": "5046001",
-      "time": "2026-08-18 19:44:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子啟動升級半導體工藝分析實驗室，提升良率實現利潤最大化】據悉，三星電子DS事業部已啟動半導體工藝分析實驗室的升級工作。該公司正透過合作伙伴引進新一代裝置，用於驗證半導體和晶圓電路圖案並診斷缺陷。知情人士表示，三星正在籌備能夠直接檢測和分析晶圓的全新基礎設施，超越目前在半導體晶片（晶粒）層面進行的工藝分析。"
-    },
-    {
-      "id": "te:markets:576126",
-      "time": "2026-08-18 19:43:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Turn Lower — US equity futures were mostly lower on Tuesday, extending losses from the previous session as higher borrowing costs offset recent support from AI infrastructure companies. Contracts for the S&P 500 and Nasdaq were 0.5% and 1.3% down, respectively, and those for the Dow were flat. Long-term Treasury yields extended their surge to multi-year highs as inflation risks and surging bond issuance from AI companies raised different estimates on term premia. Inflationary concerns were magnified by more increases in energy prices as the US signaled a prolonged blockade on Iran tanker exports. AI companies were mostly lower, with Nvidia, Meta, Tesla, and Oracle dropping up to 3% premarket. Credit-sensitive financial companies were also under pressure with Goldman Sachs and JPMorgan trading in the red. Meanwhile, Home Depot gained around 1% after beating earnings estimates despite high borrowing and housing costs."
-    },
-    {
-      "id": "5046000",
-      "time": "2026-08-18 19:41:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【敘利亞一熱電站爆炸致3人死亡】據敘利亞國家電視臺18日報道，敘利亞西部塔爾圖斯省巴尼亞斯熱電站發生爆炸，造成至少3名工人死亡。 敘國家電視臺援引塔爾圖斯省安全部門的訊息說，當時工人正在對一個儲罐進行焊接，但儲罐內氣體未被完全排空，導致爆炸發生。 敘通社援引敘利亞電力公司的訊息說，目前該熱電站仍在正常執行。（新華社）"
-    },
-    {
-      "id": "5045999",
-      "time": "2026-08-18 19:39:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國司法部一位高階官員透露，斯坦福大學正因其境外資金捐贈、國際學生及招生相關做法，受到美國司法部越來越嚴格的審查。"
-    },
-    {
-      "id": "mkt:01a014ab-6df3-7aab-9078-dc8659f228a1",
-      "time": "2026-08-18 19:39:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Analysis: Weak UK labour market may reduce odds of September Bank of England rate hike】Accountancy lobby group ICAEW said the weak UK labour market appears likely to restrain inflation by suppressing wage growth, lowering the probability of a September Bank of England rate hike. ICAEW chief economist Suren Thiru said the labour market remains low‑mobility and stagnant, with rising costs, worsening global headwinds and greater policy uncertainty leaving employers reluctant to hire, fire or award large pay rises. Falling vacancies point to weakening labour demand, and speculation over the autumn budget could further curb hiring."
-    },
-    {
-      "id": "te:economy:576125",
-      "time": "2026-08-18 19:38:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10Y Bond Yield Hits 19-month High — US 10 Year Government Bond Yield increased to 4.75%, the highest since January 2025. Over the past 4 weeks, US 10 Year Note Bond Yield gained 15.20 basis points, and in the last 12 months, it increased 44.00 basis points."
-    },
-    {
-      "id": "5045998",
-      "time": "2026-08-18 19:38:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【匯通能源：重慶元素擬減持不超過0.97%股份】 匯通能源公告，持股5%以上股東重慶元素私募證券投資基金管理有限公司－元素黃金閃耀私募證券投資基金（簡稱“重慶元素”）持有公司股份1135萬股，佔公司總股本比例為5.50%，因自身資金需求，擬自2026年9月9日至2026年12月8日期間，透過集中競價方式減持公司股份合計不超過200萬股，即不超過公司總股本的0.97%。"
     }
   ]
 }
