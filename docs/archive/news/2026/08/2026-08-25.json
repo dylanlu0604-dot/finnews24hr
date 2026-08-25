@@ -1,7 +1,94 @@
 {
   "date": "2026-08-25",
-  "count": 1063,
+  "count": 1074,
   "items": [
+    {
+      "id": "5056713",
+      "time": "2026-08-25 12:13:36",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【市場監管總局：我國牽頭制定的電子通訊磁性元件檢測IEC/IEEE雙標誌國際標準釋出】8月25日，記者從國家市場監督管理總局獲悉，近日，我國專家牽頭，聯合美國、德國、法國、日本、義大利等多國專家共同制定的國際標準《電子和通訊裝置用變壓器、電感器的測量方法和試驗程式》（IEC/IEEE 61007-389:2026），由國際電工委員會（IEC）與電氣電子工程師學會（IEEE）聯合釋出，正式成為全球電子通訊磁性元件檢測領域統一技術規範。該標準精準適配5G和AI伺服器電源、新能源功率變換等前沿產業發展需求，統一規定動態電容、熱電偶溫升、增量電感、差分電感、能量電感、振幅電感測量等關鍵測試方法，以及高頻工況損耗、交流電阻等十餘項試驗流程，為全球磁性元件的研發設計、效能檢測、質量評定提供了統一、權威的國際技術標尺。"
+    },
+    {
+      "id": "5056712",
+      "time": "2026-08-25 12:13:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日清食品：上半年營收20.71億港元，同比增長2.8%】8月25日，日清食品在港交所公告，上半年營收20.71億港元，同比增長2.8%；期內溢利1.78億港元，同比增長11.8%。"
+    },
+    {
+      "id": "5056711",
+      "time": "2026-08-25 12:12:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "特步國際上半年每股中期派息0.18港元。"
+    },
+    {
+      "id": "5056710",
+      "time": "2026-08-25 12:12:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "特步國際上半年毛利率46.4％。上半年淨利潤8.179億元人民幣，上半年營收67.9億元人民幣。"
+    },
+    {
+      "id": "5056709",
+      "time": "2026-08-25 12:11:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技：具身智慧板塊預計下半年會實現更大幅度增長】藍思科技(300433)8月23日在電話會議表示，藍思科技與國內外多家頭部客戶圍繞機器人精密零部件加工、關節模組生產、整機組裝等智造環節開展深度協同。隨著產業加速落地，公司具身智慧業務保持同比高速增長，累計出貨量位居行業前列。公司在機器人靈巧手、關節模組等核心零部件及整機組裝領域的佈局正逐步進入收穫期，全面推進機器人產能落地與量產交付工作。展望下半年，根據目前客戶指引情況，國內外客戶需求都非常樂觀，預計下半年會實現更大幅度的增長。"
+    },
+    {
+      "id": "5056708",
+      "time": "2026-08-25 12:11:53",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國二季度人均新增房貸大幅回落創最大單季跌幅】韓國央行週二公佈資料顯示，受政府出臺調控政策為過熱樓市降溫影響，第二季度單筆新增住房抵押貸款規模出現史上最大環比降幅。韓國央行資料顯示，4‑6 月期間，借款人平均新增抵押貸款規模為 2.0829 億韓元（摺合 15.99 萬美元），較三個月前創下的 2.2939 億韓元歷史峰值下降 2110 萬韓元。這是韓國央行自 2013 年開始統計該資料以來，出現的最大單季環比跌幅。"
+    },
+    {
+      "id": "te:markets:577759",
+      "time": "2026-08-25 12:10:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Turn Higher — The Nikkei 225 Index rose 0.4% to above 65,700 on Tuesday, reversing earlier losses as select technology and artificial intelligence-related stocks rebounded from the previous session’s decline. Investors also braced for chip giant Nvidia’s earnings report later this week for fresh clues on the strength of AI-related demand. Additionally, Federal Reserve Chair Kevin Warsh’s speech at the Fed’s annual Jackson Hole symposium on Friday will be closely watched for signals on the central bank’s policy outlook. On the geopolitical front, the US stepped up sanctions on Iran and its trading partners in an effort to pressure Tehran back to the negotiating table. Notable gains among tech and AI-related stocks included Fujikura (5.3%), Furukawa Electric (7.4%), SoftBank Group (1.5%) and Ibiden Co (4.9%)."
+    },
+    {
+      "id": "5056707",
+      "time": "2026-08-25 12:10:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱哪怕抗爭數十代人也不屈服】當地時間8月24日，伊朗軍隊總司令哈塔米在伊朗西北部一場活動上發表講話指出，伊朗“要讓敵人嚐盡失敗的苦果”，“讓敵人明白伊朗絕非他們可肆意妄為之地”，若有人膽敢揚言“要重新繪製伊朗的版圖”，那便是“大錯特錯”。哈塔米強調，哪怕歷經數十代人的抗爭，也絕不容許這種事發生，伊朗“要讓敵人清清楚楚地明白，他們絕不能為所欲為”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5056706",
+      "time": "2026-08-25 12:09:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省資料和政務服務局副局長於冰：推動海洋資料產品進場交易和智慧財產權登記】國家資料局今日舉行“資料價值化 我們在行動”新聞釋出會，遼寧省資料和政務服務局黨組成員、副局長於冰表示，針對海洋資料多模態、強專業、高敏感的特點，堅持“制度先行、場景牽引、多方協同”的總體思路，探索形成了一套適配海洋領域的公共資料開發利用路徑。推動海洋資料產品進場交易和智慧財產權登記，形成了“資料治理—產品研發—市場交易—價值反哺”的閉環路徑。下一步，將持續深化海洋資料場景建設，努力為全國涉海公共資料開發利用提供更多“遼寧經驗”。"
+    },
+    {
+      "id": "5056705",
+      "time": "2026-08-25 12:09:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家資料局副局長陳榮輝：推動各地區各部門規範開展公共資料授權運營】國家資料局今日舉行“資料價值化 我們在行動”新聞釋出會，國家資料局黨組成員、副局長陳榮輝表示，將推動各地區各部門規範開展公共資料授權運營，圍繞公共資料資源開發利用“1+3”政策體系，指導支援地方和部門制定本區域本部門公共資料授權運營實施方案和定價收費標準。地方層面，全國已有25個省（區、市）實質性開展授權運營，其中上海市、江蘇省、浙江省、福建省、廣東省等經濟大省已形成本地區公共資料資源開發利用政策體系。部門層面，教育部、人力資源社會保障部、自然資源部、交通運輸部、中國氣象局等部門正在加緊推進授權運營落地見效。"
+    },
     {
       "id": "mkt:01a0371b-4c41-7aab-9106-173b0428a46c",
       "time": "2026-08-25 12:08:50",
@@ -43,6 +130,14 @@
         "Impact bullish"
       ],
       "text": "【AUD near 11-week high as RBA minutes strengthen rate-hike odds】AUD traded near an 11-week high on Tuesday after RBA minutes from the August meeting showed policymakers closer to a rate increase than markets had expected. The minutes said several members judged tightening necessary given upside inflation risks but chose to hold while awaiting further data; they noted employment, inflation and growth data would be available by the next meeting, keeping a rate hike an option. Markets place only a 14% probability on a 25bp increase from the current 4.35% cash rate at the next meeting, but a 68% chance of a hike in December. RBA officials reiterated that inflation risks remain skewed to the upside and rates could be raised again if inflation does not fall as expected."
+    },
+    {
+      "id": "5056702",
+      "time": "2026-08-25 12:06:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中埃“文明之鷹-2026”空軍聯訓開展飛行訓練】8月23日，中埃“文明之鷹-2026”空軍聯合訓練在埃及空軍某基地迎來首個飛行訓練日。 當日的訓練課目是異型機“1對1”對抗空戰。飛行訓練前，中埃飛行員分別介紹了各自參訓裝備的效能，並對聯合訓練課目進行深入研討，明確了飛行安全規則、空域管制規定、起降方法和特情處置方案預案。飛行訓練開始後，伴隨巨大的轟鳴聲，中國空軍殲-16戰機與埃及空軍戰機滑行升空。雙方緊貼實戰背景，展開中距、近距空戰對抗。 “聯訓主要是從‘1對1’和‘2對2’的基礎性空戰對抗，逐步向體系化的聯合作戰訓練推進，有利於提升雙方飛行員默契度、技戰術水平和實戰能力。”空軍某部幹部介紹。 今年是中埃兩國建交70週年。這是兩國空軍第2次舉辦該系列聯訓，雙方將持續深化務實合作，增進互信與傳統友誼。（國防部發布）"
     },
     {
       "id": "mkt:01a03718-10cc-7aab-9106-0079d8cca6e6",
