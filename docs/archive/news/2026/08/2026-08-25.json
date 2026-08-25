@@ -1,7 +1,209 @@
 {
   "date": "2026-08-25",
-  "count": 1108,
+  "count": 1130,
   "items": [
+    {
+      "id": "5056750",
+      "time": "2026-08-25 12:47:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工會警告若大眾汽車不修改重組方案將罷工】大眾汽車集團執行長奧利弗・布魯姆將在公司總部沃爾夫斯堡工廠向員工闡述重組方案，該方案最多或將削減 10 萬個工作崗位。雙方矛盾持續激化，德國金屬工會（IG Metall）主席克里斯蒂安娜・本納對該計劃提出批評，一名地方工會人士警告，若布魯姆不修改方案，不排除發起罷工。"
+    },
+    {
+      "id": "5056749",
+      "time": "2026-08-25 12:45:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "百達資產管理高階投資經理Self表示，公司近期接到客戶大量諮詢，內容涉及極端高溫帶來的風險和投資機會。"
+    },
+    {
+      "id": "mkt:01a0373c-b0cc-7aab-9106-85ea36653867",
+      "time": "2026-08-25 12:45:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Tesla raised US prices for the Cybertruck: the dual-motor all-wheel-drive model to $74,990 and the higher-end all-wheel-drive model to $84,990."
+    },
+    {
+      "id": "5056748",
+      "time": "2026-08-25 12:44:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉將美國市場賽博皮卡Premium全驅版價格上調至84990美元。"
+    },
+    {
+      "id": "5056747",
+      "time": "2026-08-25 12:44:41",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【腦機介面再迎政策催化，逾30家上市公司搶先佈局】政策利好不斷催化，腦機介面駛入發展快車道。8月24日，工業和資訊化部科技司釋出《國家腦機介面產業標準體系建設指南（2026版）》（徵求意見稿），面向社會公開徵求意見。從應用場景看，醫療康復仍是當前腦機介面最具確定性的商業化賽道，但消費級市場的增速正在加快，形成雙輪驅動格局。根據中銀證券、東吳證券等機構測算，全球腦機介面市場規模預計在2035年突破人民幣3600億元（約500億美元），中國有望佔據30%以上份額。據證券時報·資料寶統計，目前A股市場涉及腦機介面產業鏈的概念股逾30只。麥瀾德圍繞AI與非侵入式腦機介面技術的融合開展研發，初步構建了基於“腦訊號採集—智慧解析—狀態識別—閉環反饋”的技術體系。二級市場方面，今年以來腦機介面概念股整體表現低迷，截至8月24日收盤，概念股年內平均下跌15.74%，跑輸同期上證指數。（證券時報）"
+    },
+    {
+      "id": "5056746",
+      "time": "2026-08-25 12:44:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉在美國將賽博皮卡雙電機全輪驅動版本價格上調至74990美元。"
+    },
+    {
+      "id": "mkt:01a0373b-8c2c-7aab-9106-78c7647fa1cc",
+      "time": "2026-08-25 12:44:04",
+      "tags": [
+        "MKT News",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Volkswagen CEO Oliver Blume to face staff over sweeping restructuring plan】Volkswagen Group CEO Oliver Blume will meet employees on Tuesday at the Wolfsburg main plant to present a capacity-cutting restructuring that could eliminate up to 100,000 jobs. Blume and Volkswagen brand chief Thomas Schafer aim to lift margins to 9% via significant cost reductions. Tensions with unions have risen: Germany’s metalworkers’ union chair Christiane Benner called the 9% target an \"unrealistic fantasy,\" and local union officials warned on Monday they would consider strikes if the plan is not withdrawn. Blume frames the overhaul as the key test of his tenure to realign VW for electric vehicles, software and intensified competition."
+    },
+    {
+      "id": "5056745",
+      "time": "2026-08-25 12:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東京2億日元手錶被搶】據當地警方訊息，今天（8月25日）上午，日本東京中野區一家鐘錶店內發生搶劫事件。兩名男子用錘子砸碎店內展示櫃後，搶走部分手錶。目前嫌疑人在逃，警方正在進行搜查追捕。據悉被搶劫物品價值約2億日元。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:577769",
+      "time": "2026-08-25 12:41:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Falls as Geopolitical Risks Weigh — India’s BSE Sensex fell about 0.2% to 77,234 on Tuesday, extending losses from the previous session, as investor sentiment remained cautious amid persistent geopolitical tensions in the Middle East and ahead of the Nifty 50 monthly derivatives expiry. The Nifty 50 also slipped, with 14 of 16 major sectors trading lower, while rising crude oil prices added to pressure on Indian equities. Markets were also bracing for increased volatility as Tuesday marked the first monthly Nifty derivatives expiry under the new closing-auction system. Global sentiment remained subdued ahead of Nvidia’s earnings and amid renewed tensions between the United States and Iran. Despite near-term headwinds, foreign portfolio inflows have provided some support, with investors buying more than $2.5 billion of Indian equities in August, helping offset pressure from high oil prices and geopolitical uncertainty. Leading the losses were Hindustan (-6.7%), IIFL Finance (-3.1%), Netweb (-3.0%), and TCS (-0.8%)."
+    },
+    {
+      "id": "5056744",
+      "time": "2026-08-25 12:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯或將暫停糧食出口關稅至年底。"
+    },
+    {
+      "id": "5056743",
+      "time": "2026-08-25 12:40:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【老闆電器新一代AI烹飪眼鏡預計明年3月釋出】記者從知情人士處獨家獲悉，老闆電器新一代AI烹飪眼鏡目前正在研發中，預計明年3月正式釋出。與僅供線下體驗展示的第一代產品不同，這一代將真正面向消費者銷售。（藍鯨新聞）"
+    },
+    {
+      "id": "mkt:01a03736-0f20-7aab-9106-75e26e4aa6ad",
+      "time": "2026-08-25 12:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Investors reassess climate risks and opportunities after Europe's heatwave eases】Even as Europe's heatwave fades, asset managers are reassessing how climate change will affect portfolios. Pictet Asset Management reports a surge in client queries on risks and opportunities from extreme heat. Nuveen says the impact of European drought will soon begin to show up in corporate credit spreads. Rathbones fund manager David Harrison prefers companies exposed to climate solutions and grid infrastructure. BloombergNEF finds references to extreme heat in recent corporate filings at a record high, and mentions of the Rhine and water levels on earnings calls at the highest levels since 2018."
+    },
+    {
+      "id": "5056742",
+      "time": "2026-08-25 12:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭前線部隊可能在數週內就需要一種全新的無人機設計，但該國國防工業正面臨嚴重的人才短缺，這可能阻礙其保持這一創新速度。"
+    },
+    {
+      "id": "5056741",
+      "time": "2026-08-25 12:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2Q26全球新能源車銷量年增10.4%，海外市場成中系車廠核心競爭力】根據TrendForce集邦諮詢最新電動車產業研究，2026年第二季全球純電動車（BEV）、插電混合式電動車（PHEV）和氫燃料電池車等新能源車合計銷量達537萬輛，年增10.4%。若計入油電混合車（HEV），上述四類電動車總計貢獻第二季全球汽車銷量達33.2%，比重創下歷史新高。"
+    },
+    {
+      "id": "5056740",
+      "time": "2026-08-25 12:34:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【戴爾實行30天報價承諾期，預計未來幾個月價格和成本仍將上漲】據報道，戴爾渠道合作伙伴Advizex執行長CR Howdyshell近日透露，戴爾已實行30天報價承諾期，讓客戶有更多時間決定是否購買裝置。戴爾預計未來幾個月價格和成本仍將上漲，但漲幅會趨於緩和，因此將全力以赴，幫助客戶透過延長有效期達成更多交易。"
+    },
+    {
+      "id": "mkt:01a03731-e36f-7aab-9106-6f801ed488fa",
+      "time": "2026-08-25 12:33:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine defense industry faces talent shortfall; drone innovation at risk】Front-line forces may need a new drone design within weeks, but Ukraine's defense industry faces a severe shortage of engineers that could slow innovation. BlueBird Tech COO Yurii Faraponov said the company cannot meet some frontline requests due to insufficient engineering staff. Sergii Vysotskyi, deputy chairman of the Ukraine Defense Industry Association, said some firms are asking retired specialists to return to work. Ukraine's working-age population has fallen for decades and accelerated since 2022; industry sources say the shortfall is eroding the strategy of using technology to offset manpower disadvantages as weapons systems become more complex."
+    },
+    {
+      "id": "5056739",
+      "time": "2026-08-25 12:33:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦 KSE‑100 指數開盤後上漲 0.4%，報 177642 點。"
+    },
+    {
+      "id": "mkt:01a03731-6c65-7aab-9106-67abd3159c2e",
+      "time": "2026-08-25 12:33:00",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "Copper",
+        "S&P500"
+      ],
+      "text": "【Counterpoint Research: memory shortage to cut 2026 global flat-panel display shipments 4.7% YoY】Counterpoint Research forecasts global flat-panel display (FPD) shipments will fall 4.7% YoY in 2026. A sharp rise in memory prices, driven by strong AI data-center demand, is being passed through to device prices and is suppressing demand in key FPD applications, notably smartphones and tablets. Phone panel shipments are projected to decline 9.5% YoY in 2026. Research director Brien said high memory costs are forcing OEMs to raise end-product prices, denting demand in mid-to-low-end smartphone and PC segments as brands can no longer maintain aggressive pricing; consumers are delaying purchases or shifting to the secondary market. In IT, robust H1 shipments mean 2026’s decline will be smaller, but the downtrend is expected to continue into 2027."
+    },
+    {
+      "id": "em:jjsj_zgsj:202608253852587742",
+      "time": "2026-08-25 12:32:56",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【深圳：1-7月全市規模以上工業增加值同比增長9.2%】深圳市統計局8月24日公佈1—7月深圳經濟執行情況。1—7月，全市規模以上工業增加值同比增長9.2%，比上半年加快0.5個百分點。分門類看，採礦業增加值同比增長3.3%，製造業增長9.9%，電力、熱力、燃氣及水生產和供應業增長3.3%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608253852587670",
+      "time": "2026-08-25 12:32:33",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行在香港發行150億元人民幣3個月期央票，中標利率1.3%。"
+    },
+    {
+      "id": "5056738",
+      "time": "2026-08-25 12:31:52",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行在香港招標發行的三個月央票中標利率為1.30%（上次為1.13%）。中國央行在香港招標發行的一年期央票中標利率為1.35%（上次為1.32%）。"
+    },
+    {
+      "id": "te:economy:577767",
+      "time": "2026-08-25 12:30:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Total Vehicle Sales",
+        "Importance 1"
+      ],
+      "text": "Thailand Car Sales Jump 20.07% in July — Thailand’s domestic car sales surged 20.07% year-on-year to 59,198 units in July 2026, accelerating from a 17.26% increase in June, according to the Federation of Thai Industries (FTI). The gain marked the fifth consecutive month of growth, underscoring a continued recovery in domestic demand. Vehicle production rose 6.12% from a year earlier to 117,383 units, rebounding from a 7.55% decline in the previous month. Despite the improvement, the FTI lowered its 2026 vehicle production forecast to 1.45 million units from 1.50 million, citing weaker export performance in the first half of the year. The industry group attributed the downward revision to persistent global headwinds, including lingering Middle East-related disruptions, ongoing trade barriers, intensifying competition from Chinese electric vehicle manufacturers, and tighter emissions regulations in key export markets. Meanwhile, Thailand's exports increased 2.39% year-on-year in July after falling 7.45% in the previous month."
+    },
     {
       "id": "5056737",
       "time": "2026-08-25 12:30:26",
