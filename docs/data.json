@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-25 22:15:47",
+  "updated": "2026-08-25 22:20:06",
   "count": 16537,
   "items": [
+    {
+      "id": "5058280",
+      "time": "2026-08-25 22:18:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍參謀長：以色列國防軍不會允許加沙和黎巴嫩的敵人重建家園。"
+    },
+    {
+      "id": "te:markets:577993",
+      "time": "2026-08-25 22:17:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for a fourth consecutive session on Tuesday, rising about 1.5% to a fresh high since August 12 at 2,926 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for a fourth day, surging by 2% to a two-week high of 4,735 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, gained for a third session, up 2% to 2,166 points. Among smaller vessels, the supramax index edged up by 0.1% to 1,643 points."
+    },
+    {
+      "id": "5058279",
+      "time": "2026-08-25 22:16:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案顯示，山東卓創資訊股份有限公司向港交所提交上市申請書，獨家保薦人為平安證券（香港）。"
+    },
+    {
+      "id": "mkt:01a03947-d30b-7aab-9115-49608fca6479",
+      "time": "2026-08-25 22:16:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shandong Zhuochuang Information Co. Ltd. has filed a listing application with HKEX; sole sponsor is Ping An Securities (Hong Kong)."
+    },
+    {
+      "id": "5058278",
+      "time": "2026-08-25 22:16:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方：在烏克蘭部署北約軍隊不可接受】俄羅斯總統新聞秘書佩斯科夫25日說，俄羅斯已多次宣告，北約國家在烏克蘭領土部署軍隊對俄羅斯而言“不可接受”。據塔斯社報道，佩斯科夫上述表態是在針對“志願聯盟”先前釋出宣告的內容。法國和英國主導的“志願聯盟”在基輔召開會議後釋出宣告說，計劃“在建立可靠的停火機制後”向烏克蘭派遣多國軍事力量。擬議部隊的具體人數未公佈。（新華社）"
+    },
     {
       "id": "te:economy:577992",
       "time": "2026-08-25 22:14:55",
@@ -149472,50 +149515,6 @@
         "其他"
       ],
       "text": "法國預算部長阿米爾就稅務資料洩露事件發表講話。"
-    },
-    {
-      "id": "mkt:01a0153c-bce2-7aab-907c-db3f2150c089",
-      "time": "2026-08-18 22:18:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "【Volkswagen Anhui rolls out 100,000th smart EV in Hefei】Aug 18 — Volkswagen (Anhui) Co. rolled out its 100,000th smart electric vehicle in Hefei. The milestone marks Volkswagen Group’s first China joint venture dedicated to new-energy vehicles (NEVs) entering scaled production and a full product-matrix phase, bolstering Hefei’s NEV industrial cluster."
-    },
-    {
-      "id": "mkt:01a0153c-8e41-7aab-907c-d08ea59b1d19",
-      "time": "2026-08-18 22:18:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Documents show Ecuadorian diplomat Ivonne Baki has been nominated as a candidate for United Nations secretary-general."
-    },
-    {
-      "id": "5046243",
-      "time": "2026-08-18 22:17:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大不列顛哥倫比亞省發行6億加元2057年期債券，較基準利差+84.5個基點。"
-    },
-    {
-      "id": "5046242",
-      "time": "2026-08-18 22:17:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多外交官伊馮娜·巴基被提名為聯合國秘書長候選人。"
-    },
-    {
-      "id": "5046241",
-      "time": "2026-08-18 22:16:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大眾安徽第10萬輛智慧電動汽車在合肥下線】8月18日，大眾汽車（安徽）有限公司第10萬輛智慧電動汽車在合肥正式下線，標誌著這家大眾集團在華首家專注新能源汽車的合資企業邁入規模化生產、全矩陣佈局新階段，也為合肥新能源汽車產業叢集發展再添堅實支撐。（新華社）"
     }
   ]
 }
