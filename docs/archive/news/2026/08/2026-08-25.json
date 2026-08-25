@@ -1,7 +1,51 @@
 {
   "date": "2026-08-25",
-  "count": 549,
+  "count": 554,
   "items": [
+    {
+      "id": "5056374",
+      "time": "2026-08-25 08:52:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月25日盤前停復牌彙總】8月25日，ST寧科、ST長園臨停；ST佳緣、建設機械復牌。"
+    },
+    {
+      "id": "te:markets:577708",
+      "time": "2026-08-25 08:51:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Strengthens to 2-Month High — Silver climbed above $69.5 an ounce on Tuesday, hovering at its highest level in two months and tracking gains in gold as US government interventions in the bond market revived the so-called debasement trade. The US Treasury Department announced an expansion of its buyback program for long-dated government debt last week in an effort to contain rising borrowing costs, with Secretary Scott Bessent saying he is prepared to increase the buybacks further while also flagging an upcoming longer-term fiscal plan. However, markets speculated that the measures may provide only a temporary solution, while renewing concerns over the risks of a US debt crisis, persistent inflation and dollar weakness. Silver also remained supported by solid industrial demand from the green energy transition, photovoltaic solar panels, electric vehicles and artificial intelligence data center infrastructure."
+    },
+    {
+      "id": "5056373",
+      "time": "2026-08-25 08:51:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷軍：玄戒O100未來將應用於手機、汽車、機器人等全生態品類】小米創辦人、董事長兼CEO雷軍在微博發文稱，玄戒O100，基於玄戒創新的高頻寬矩陣匯流排，實現遠超傳統旗艦SoC的端側AI效能。未來將應用於手機、汽車、機器人等全生態品類。"
+    },
+    {
+      "id": "5056372",
+      "time": "2026-08-25 08:51:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【中國—迦納經貿聯委會第五次會議在阿克拉召開】8月24日，商務部部長助理張力在阿克拉與迦納財政部部長卡西爾·阿託·福森共同主持召開中加經貿聯委會第五次會議，就雙邊經貿合作等議題深入交換意見。張力表示，在兩國元首的戰略引領下，中加戰略伙伴關係持續走深走實，各領域務實合作取得豐碩成果。“十五五”時期，中國將持續推進高質量發展，穩步擴大高水平對外開放，落實對非零關稅、升級“綠色通道”等優惠舉措，為包括迦納在內的非洲各國帶來更多發展機遇。中方願同加方一道，加強經貿政策規劃對接，深化產供鏈、綠色能源等領域投資合作，推動雙邊貿易投資合作提質升級。希望加方為中國企業赴加投資興業營造更加穩定、可預期的政策環境。福森表示，加方高度重視加中經貿關係，讚賞雙邊經貿合作取得的豐碩成果，充分肯定中方優惠舉措積極賦能雙邊務實合作，願為中國企業在加投資創造良好營商環境，共同推動雙邊貿易、投資和產業合作持續健康發展。會後，雙方共同簽署了《中華人民共和國政府與迦納共和國政府經濟、貿易和技術合作聯合委員會第五次會議紀要》。（商務部）"
+    },
+    {
+      "id": "5056371",
+      "time": "2026-08-25 08:47:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本罕見行政擴張似重走二戰老路】日本共同社日前透露，日本政府部門和機構2027財年（2027年4月至2028年3月）預算申請總額預計將超過130萬億日元（約合8178億美元），其中日本防衛省計劃申請約8.9萬億日元，用於部署攔截型無人機等，申請規模創歷史新高，並且最終有可能還會進一步增加。 全面邁向“再軍事化”的標誌性事件 防衛省計劃於2027年實施大規模擴編已經在日本媒體的預料之中，而且要在不進行任何部門廢除的基礎上，新設“防衛基盤局”“國際政策局”“設施政策局”三個部門。據報道，這三個部門預計將分別負責“持續作戰能力”、“國際合作”與“基地管理”等職能。 一次同時新設三個部門，屬於“非常罕見”的行政擴張，打破了日本行政改革“新設須廢舊”的慣例，暴露了日本加速突破“專守防衛”政策限制、將軍事影響力常態化向海外延伸的戰略野心。（環球時報）"
+    },
     {
       "id": "5056370",
       "time": "2026-08-25 08:47:28",
