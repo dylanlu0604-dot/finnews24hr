@@ -1,7 +1,99 @@
 {
   "date": "2026-08-25",
-  "count": 1130,
+  "count": 1140,
   "items": [
+    {
+      "id": "te:economy:577772",
+      "time": "2026-08-25 12:52:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Ample-Reserves Transition Still Underway: RBA Jacobs — The Reserve Bank of Australia said its shift toward an ample-reserves framework remains incomplete, with no fixed timeline for reaching equilibrium. Head of Domestic Markets David Jacobs noted in a speech that market behaviour will indicate when reserves reflect banks’ underlying demand rather than pandemic-era asset holdings. He cautioned that demand could move either way, underscoring the need for flexibility. Under the new system, the RBA will not target a specific reserve level but instead supply liquidity as required to keep the cash rate near the board’s target. Full-allotment open market operations will anchor this approach, with other tools available if repo markets falter. The central bank also confirmed that open repo is no longer necessary, as it was designed for a scarce-reserves regime. Market participants must manage liquidity more actively, drawing on both RBA facilities and private money markets to adapt to the evolving framework."
+    },
+    {
+      "id": "mkt:01a03743-1ccb-7aab-9106-8cb964dda2c3",
+      "time": "2026-08-25 12:52:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's first Southern Grid-to-State Grid transmission rights deal completed】Jiangsu Power Trading Center organized provincial market participants to take part in August intra-month south-to-East China cross-grid green-power trading and simultaneously participated in Yunxiao HVDC transmission-rights trading. The transaction is the first nationwide transmission-rights deal from China Southern Power Grid to the State Grid. Seven Jiangsu participants transacted a total 622 MWh of green power, a step toward cross-grid mutual-assistance mechanisms."
+    },
+    {
+      "id": "te:markets:577770",
+      "time": "2026-08-25 12:52:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Decline — US natural gas prices fell to around $2.74/MMBtu on Tuesday, retreating after a two-day advance as strong production, ample inventories, and weaker LNG feedgas demand weighed on the market. Output in the Lower 48 states averaged a record 111.5 bcfd in August so far, up from 110.7 bcfd in July, adding to supply pressure as gas inventories are currently 6.7% above their five-year seasonal average. At the same time, gas flows to the nine major LNG export facilities eased to 17.1 bcfd so far this month from 17.2 bcfd in July, leaving more supply available to the domestic market. Reports showed Cheniere Energy’s Corpus Christi LNG plant in Texas continued to record lower natural gas intake on Monday, indicating that maintenance work is still ongoing. Meanwhile, weather forecasts turned slightly cooler than previously expected, although above-average temperatures are still forecast across Texas and the Southwest through September 7, keeping electricity demand for air conditioning elevated."
+    },
+    {
+      "id": "5056757",
+      "time": "2026-08-25 12:51:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首筆南網送國網方向輸電權交易達成】近日，江蘇電力交易中心組織省內經營主體參與8月月內南方送華東跨電網經營區綠電交易，並同步參與雲霄直流輸電權交易。這是全國首筆南網送國網方向的輸電權交易，江蘇共有7家經營主體成交，成交綠電總電量622兆瓦時，標誌著跨電網經營區互濟互保邁出關鍵一步。"
+    },
+    {
+      "id": "5056756",
+      "time": "2026-08-25 12:51:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織就剛果（金）埃博拉疫情更新臨時建議】世界衛生組織24日在官網釋出宣告說，鑑於剛果（金）埃博拉疫情形勢，世衛組織總幹事已向會員國發布關於疫情防控的更新版臨時建議。其中只有剛果（金）的風險等級為“非常高”，該國周邊9國風險等級為“高”，其他國家的風險等級為“低”。"
+    },
+    {
+      "id": "5056755",
+      "time": "2026-08-25 12:50:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京地鐵22號線開啟空載試執行，年底有望開通】軌道交通22號線（紅廟—平谷）今天正式開啟空載試執行，全長約79.1公里，共設車站20座，是首條橫跨京冀兩地的城市軌道交通線路。（央視新聞）"
+    },
+    {
+      "id": "5056754",
+      "time": "2026-08-25 12:50:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔鋼鐵煤炭糾紛獲暫緩強制執行令。"
+    },
+    {
+      "id": "5056753",
+      "time": "2026-08-25 12:49:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金下跌0.6%，報每金衡盎司4624.76美元。"
+    },
+    {
+      "id": "5056752",
+      "time": "2026-08-25 12:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方敦促當事方推動烏克蘭局勢降溫】中國常駐聯合國代表傅聰24日在安理會烏克蘭問題公開會上發言，敦促烏克蘭危機當事方推動局勢降溫。傅聰說，烏克蘭問題持續延宕，地面戰事愈演愈烈，人道危機日益嚴重。近一個多月以來，衝突雙方陷入新一輪激戰，造成大量人員傷亡，大量能源、糧食、物流倉儲等民用設施損毀，還出現第三方船隻和資產遇襲，令人深感痛心和憂慮。放任局勢繼續惡化升級，將給人民帶來更多苦難，給地區帶來更多破壞，給世界帶來更多動盪。（新華社）"
+    },
+    {
+      "id": "5056751",
+      "time": "2026-08-25 12:48:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【黑海糧食外運承壓，俄羅斯考慮暫停穀物浮動出口關稅】俄羅斯農業部正擬定提案，計劃在 2026 年底前暫停小麥、大麥及玉米的浮動出口關稅。亞速‑黑海港口承擔俄羅斯 70% 以上糧食出口量，當前農產品經該區域港口運輸遭遇困境，俄方因此考慮出臺此項措施。"
+    },
     {
       "id": "5056750",
       "time": "2026-08-25 12:47:08",
