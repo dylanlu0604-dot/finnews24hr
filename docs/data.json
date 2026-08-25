@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-26 03:25:40",
-  "count": 16540,
+  "updated": "2026-08-26 03:29:44",
+  "count": 16536,
   "items": [
+    {
+      "id": "mkt:01a03a65-e66d-7aab-9119-be03582e68a4",
+      "time": "2026-08-26 03:29:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【International oil prices fell significantly on the 25th】On the 25th close, NYMEX October light sweet crude futures fell $2.65 to $82.36/bbl, down 3.12%. London Brent October futures fell $3.59 to $88.58/bbl, down 3.89%."
+    },
     {
       "id": "mkt:01a03a62-0180-7aab-9119-b6f6d9a53e3d",
       "time": "2026-08-26 03:24:56",
@@ -149578,46 +149586,6 @@
         "國際"
       ],
       "text": "伊朗最高國家安全委員會秘書雷扎伊：美國在霍爾木茲海峽的失利，標誌波斯灣進入“後美國時代秩序”。"
-    },
-    {
-      "id": "5046451",
-      "time": "2026-08-19 03:27:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿拉伯及伊斯蘭國家譴責以色列對敘利亞發起新一輪軍事侵襲。"
-    },
-    {
-      "id": "mkt:01a01657-80d4-7aab-9081-42aef80746fb",
-      "time": "2026-08-19 03:27:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tons of nuclear material found in Syria to be placed under IAEA supervision】IAEA Director General GROSSI said on the 18th that several tons of nuclear material were found at a site Syria recently reported to the agency, speaking at a joint press conference with the Syrian transitional government’s foreign minister Hebbani. Hebbani said Syrian authorities will retain custody of the material and it will be subject to IAEA oversight."
-    },
-    {
-      "id": "5046450",
-      "time": "2026-08-19 03:27:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞發現數噸核材料 將接受國際原子能機構監督】國際原子能機構總幹事格羅西18日在與敘利亞過渡政府外交部長希巴尼舉行的聯合新聞釋出會上表示，在敘方近期向該機構報告的一處地點發現數噸核材料。希巴尼表示，這些核材料將由敘方保管並接受國際原子能機構監督。（新華社）"
-    },
-    {
-      "id": "5046449",
-      "time": "2026-08-19 03:26:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：伊朗外長阿拉格齊準備面向（伊朗）公眾覆盤兩年外交施政成果。"
-    },
-    {
-      "id": "5046448",
-      "time": "2026-08-19 03:25:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國多州收緊資料中心建設 AI擴張面臨監管壓力】美國賓夕法尼亞州州長喬什·沙皮羅釋出行政命令，對資料中心建設實施嚴格限制，要求專案先獲得地方政府批准，才能申請州級許可，並需遵守節水標準、承擔新增用電成本及解決自身電力供應問題。沙皮羅表示，大量資料中心專案湧入賓州，其中部分開發商忽視當地社群利益。隨著AI投資快速增長，美國多州開始限制資料中心擴張，以應對電力、環保和社群壓力。紐約州已推動大型資料中心環境許可最長暫停一年；長期支援資料中心發展的得州州長格雷格·阿博特也暫停部分新專案審批並展開審查。"
     }
   ]
 }

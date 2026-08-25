@@ -1,7 +1,15 @@
 {
   "date": "2026-08-26",
-  "count": 219,
+  "count": 220,
   "items": [
+    {
+      "id": "mkt:01a03a65-e66d-7aab-9119-be03582e68a4",
+      "time": "2026-08-26 03:29:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【International oil prices fell significantly on the 25th】On the 25th close, NYMEX October light sweet crude futures fell $2.65 to $82.36/bbl, down 3.12%. London Brent October futures fell $3.59 to $88.58/bbl, down 3.89%."
+    },
     {
       "id": "mkt:01a03a62-0180-7aab-9119-b6f6d9a53e3d",
       "time": "2026-08-26 03:24:56",
