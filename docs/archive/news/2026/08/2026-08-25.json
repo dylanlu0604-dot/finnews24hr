@@ -1,7 +1,248 @@
 {
   "date": "2026-08-25",
-  "count": 3128,
+  "count": 3150,
   "items": [
+    {
+      "id": "mkt:01a03939-a34f-7aab-9114-a5c830a3d439",
+      "time": "2026-08-25 22:01:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Richmond Fed services revenue index for August -8, prior -3."
+    },
+    {
+      "id": "mkt:01a03939-8023-7aab-9114-9ea5df11ea0d",
+      "time": "2026-08-25 22:01:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Services Revenue Index (Aug) | actual -8 | previous -3"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608253853344571",
+      "time": "2026-08-25 22:00:57",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月里奇蒙德聯儲製造業指數為4，預估為7，前值為5。"
+    },
+    {
+      "id": "5058255",
+      "time": "2026-08-25 22:00:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國8月里奇蒙德聯儲製造業指數 4，前值5。美國8月里奇蒙德聯儲製造業裝船指數 11，前值8。"
+    },
+    {
+      "id": "mkt:01a03939-2af9-7aab-9114-958e9fffcdb3",
+      "time": "2026-08-25 22:00:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Conference Board Consumer Expectations Index for August 68.2; prior 74.7."
+    },
+    {
+      "id": "mkt:01a03939-1773-7aab-9114-8db7ff7645e7",
+      "time": "2026-08-25 22:00:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US Conference Board Present Situation Index (Aug) 121.2, prior 114.9."
+    },
+    {
+      "id": "mkt:01a03939-0ce9-7aab-9114-87f91df36a1f",
+      "time": "2026-08-25 22:00:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Expectations Index (Aug) | actual 68.2 | previous 74.7"
+    },
+    {
+      "id": "mkt:01a03938-f89b-7aab-9114-7e50e7f36691",
+      "time": "2026-08-25 22:00:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Richmond Fed manufacturing index 4 in August, down from 5 previously."
+    },
+    {
+      "id": "mkt:01a03938-f7d3-7aab-9114-705267fa6a20",
+      "time": "2026-08-25 22:00:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Richmond Fed manufacturing shipments index (Aug) 11, prior 8."
+    },
+    {
+      "id": "mkt:01a03938-f732-7aab-9114-6e8720e5c344",
+      "time": "2026-08-25 22:00:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Current Conditions Index (Aug) | actual 121.2 | previous 114.9"
+    },
+    {
+      "id": "mkt:01a03938-dda3-7aab-9114-66a6ffeb22a6",
+      "time": "2026-08-25 22:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Manufacturing Shipments Index (Aug) | actual 11 | previous 8"
+    },
+    {
+      "id": "mkt:01a03938-dd4a-7aab-9114-584165ee2a14",
+      "time": "2026-08-25 22:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Richmond Fed Manufacturing Index (Aug) | actual 4 | previous 5"
+    },
+    {
+      "id": "mkt:01a03938-bc70-7aab-9114-52592803ae82",
+      "time": "2026-08-25 22:00:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US July new-home sales, annualized monthly rate -10.5% vs prior +1.6%."
+    },
+    {
+      "id": "5058254",
+      "time": "2026-08-25 22:00:14",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國8月諮商會消費者信心指數 89.4，預期90.2，前值由90.8修正為90.2。美國7月新屋銷售總數年化 60.7萬戶，預期62萬戶，前值62.8萬戶。美國7月新屋銷售年化月率 -10.5%，前值1.60%。"
+    },
+    {
+      "id": "mkt:01a03938-b75c-7aab-9114-4da3c2b235c0",
+      "time": "2026-08-25 22:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US Conference Board consumer confidence (Aug) 89.4, vs 90.2 expected; July reading revised to 90.2 from 90.8."
+    },
+    {
+      "id": "mkt:01a03938-b187-7aab-9114-4743138184fc",
+      "time": "2026-08-25 22:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. July new home sales annualized at 607,000, below the 620,000 consensus and down from June's 628,000."
+    },
+    {
+      "id": "mkt:01a03938-8754-7aab-9114-38174771582a",
+      "time": "2026-08-25 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales (SAAR) (Jul) | actual 607000K | consensus 620000K | previous 628000K"
+    },
+    {
+      "id": "mkt:01a03938-8752-7aab-9114-346d17e672d6",
+      "time": "2026-08-25 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New Home Sales (MoM) (Jul) | actual -10.5% | previous 1.60%"
+    },
+    {
+      "id": "mkt:01a03938-86a5-7aab-9114-2b24ada3fe13",
+      "time": "2026-08-25 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Consumer Confidence Index (Aug) | actual 89.4 | consensus 90.2 | previous 90.8"
+    },
+    {
+      "id": "5058253",
+      "time": "2026-08-25 21:59:06",
+      "tags": [
+        "公司",
+        "焦點",
+        "A股"
+      ],
+      "text": "【8月25日增減持彙總】8月25日，據不完全統計，包括盈新發展、廣電計量、和邦生物、井松智慧、百合花、視覺中國在內的6家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "5058252",
+      "time": "2026-08-25 21:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "據傳阿波羅、IFM以及KKR進入AB港口股權出售專案最終候選名單。"
+    },
+    {
+      "id": "mkt:01a03936-ab93-7aab-9114-2388da1e2a68",
+      "time": "2026-08-25 21:57:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "WTI",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Oil slide eases inflation fears, US Treasury yields fall across curve】Oil's decline eased inflation concerns and relieved pressure on Treasury Secretary Bessent, lifting US Treasury prices and sending yields lower. Optimism about easing Middle East tensions pushed yields across maturities down about 2–4 bps; the months-long selloff that had driven the longest-dated yields to near 20-year highs has eased. Since Bessent last week unveiled a surprise plan to at least double Treasury buybacks to lower long-term rates, the 30-year yield has dropped roughly 9 bps to 5.19%. The measure — promising reduced long-term debt supply and signaling willingness to intervene to prevent excessive yields — provided support but has drawn broad criticism and is seen as unlikely to have a durable effect given that rising yields reflect high inflation and concerns over surging government debt."
+    },
     {
       "id": "te:economy:577985",
       "time": "2026-08-25 21:56:46",
