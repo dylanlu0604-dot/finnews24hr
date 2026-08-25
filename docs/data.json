@@ -1,7 +1,143 @@
 {
-  "updated": "2026-08-25 21:02:24",
-  "count": 16514,
+  "updated": "2026-08-25 21:07:02",
+  "count": 16515,
   "items": [
+    {
+      "id": "5058169",
+      "time": "2026-08-25 21:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通：全新Oryon CPU為首款達到5吉赫茲的移動端處理器。"
+    },
+    {
+      "id": "5058168",
+      "time": "2026-08-25 21:05:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洪田股份：擬收購併增資國興智慧 合計獲51%股權】洪田股份公告稱，公司全資子公司洪田研究院擬透過現金增資及受讓股權、合夥企業出資份額的方式，合計出資2.65億元，直接及間接持有國興智慧51%股權，控制其62.87%表決權，國興智慧將成為公司控股子公司並納入合併報表範圍。該事項尚需提交公司股東會審議。同時，會議審議透過變更註冊地址、辦公地址暨修訂公司章程的議案，相關事項亦需股東會審議，公司擬於2026年9月10日召開2026年第三次臨時股東會。"
+    },
+    {
+      "id": "mkt:01a03905-892e-7aab-9113-149dbe2a595a",
+      "time": "2026-08-25 21:04:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "Low-sulfur fuel oil (LU) front-month contract tumbled 6.00% intraday to 4,793 yuan/ton."
+    },
+    {
+      "id": "mkt:01a03905-7598-7aab-9113-0bcaf0d267bb",
+      "time": "2026-08-25 21:04:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O): M5 Max and M5 Ultra are \"Apple's most powerful chips to date\"."
+    },
+    {
+      "id": "5058167",
+      "time": "2026-08-25 21:03:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果：搭載M6晶片的Mac mini起售價為899美元（美國），教育優惠價為799美元（美國）。"
+    },
+    {
+      "id": "5058166",
+      "time": "2026-08-25 21:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盈新發展：湖南新華聯建設工程有限公司擬減持公司不超過0.85%股份】盈新發展公告，股東湖南新華聯建設工程有限公司擬於2026年9月16日至2026年12月15日，透過集中競價、大宗交易方式減持公司股份5000萬股，佔公司總股本的0.85%。本次減持系處置破產財產，不會導致公司控制權發生變更。"
+    },
+    {
+      "id": "5058165",
+      "time": "2026-08-25 21:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "AXOS FINL 報告在德克薩斯州紐約證券交易所雙重上市。"
+    },
+    {
+      "id": "5058164",
+      "time": "2026-08-25 21:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝國投A：2026年上半年營收14.06億元 淨利微增】陝國投A公告稱，2026年上半年實現營業收入14.06億元，同比增長2.85%；歸屬於上市公司股東的淨利潤7.28億元，同比增長0.32%；扣非淨利潤7.29億元，同比增長0.72%。公司擬以51.14億股為基數，向全體股東每10股派發現金紅利0.1元（含稅），不送紅股、不以公積金轉增股本。此外，公司向特定物件發行A股股票事項已獲陝西監管局批覆，深交所已受理申請並出具稽核問詢函，公司已完成回覆，該事項尚需深交所稽核透過及證監會註冊後方可實施。"
+    },
+    {
+      "id": "mkt:01a03903-3af2-7aab-9113-03d467b7b274",
+      "time": "2026-08-25 21:01:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O): new Mac mini equipped with M6 and M5 Pro chips; AI performance markedly improved, further strengthening the desktop's sustained AI-compute capability."
+    },
+    {
+      "id": "5058163",
+      "time": "2026-08-25 21:01:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌6%，現報4793.00元。"
+    },
+    {
+      "id": "5058162",
+      "time": "2026-08-25 21:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：全新Mac mini搭載M6與M5 Pro晶片，實現人工智慧效能的巨大飛躍，為這款領先的桌上型電腦注入強勁動力，開啟全天候智慧體計算新時代。"
+    },
+    {
+      "id": "mkt:01a03903-1ed1-7aab-9112-fef99c92b642",
+      "time": "2026-08-25 21:01:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) announced its first 2nm \"M6\" chip and a four-chiplet \"M5 Ultra\" chip."
+    },
+    {
+      "id": "5058161",
+      "time": "2026-08-25 21:01:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5666.00元。"
+    },
+    {
+      "id": "5058160",
+      "time": "2026-08-25 21:01:06",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月FHFA房價指數月率 0%，前值0.30%。美國6月FHFA房價指數 442.5，前值442.4。美國6月S&P/CS20座大城市未季調房價指數年率 2.1%，預期1.7%，前值1.63%。美國6月FHFA房價指數年率 2.3%，前值由2.2%修正為2.4%。"
+    },
     {
       "id": "mkt:01a03902-63f4-7aab-9112-f2b1f7ee21e3",
       "time": "2026-08-25 21:00:52",
@@ -29,6 +165,15 @@
         "MKT News"
       ],
       "text": "US June S&P/Case-Shiller 10-city home price index, NSA, rose 0.52% month-on-month, down from 0.94% previously."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608253853265238",
+      "time": "2026-08-25 21:00:45",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月S&P/CS20座大城市未季調房價指數同比增長2.1%】美國6月S&P/CS20座大城市未季調房價指數同比增長2.1%，預期1.7%，前值1.63%。"
     },
     {
       "id": "5058159",
@@ -149103,133 +149248,6 @@
         "國際"
       ],
       "text": "市場訊息：美國司法部將對佛羅里達州及懷俄明州初選開展選舉監督。"
-    },
-    {
-      "id": "5046134",
-      "time": "2026-08-18 21:06:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興業銀錫：擬斥資不超18億元收購威領股份控制權】興業銀錫公告稱，公司擬收購威領股份控制權，總體投資支出金額預計不超過18.00億元，目標持股比例不少於威領股份總股本的15%。公司全資子公司西藏山南銻金資源有限公司擬向威領股份全體無限售條件流通股股東發起部分要約收購，要約價格18.00元/股，要約收購股份數量7817.75萬股，佔威領股份總股本的30%，所需最高資金總額為14.07億元。本次對外投資事項已獲公司董事會審議透過，無需提交公司股東會審議。"
-    },
-    {
-      "id": "5046133",
-      "time": "2026-08-18 21:06:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：聯合健康保險公司擴大了兒童及家庭行為輔導服務的覆蓋範圍。"
-    },
-    {
-      "id": "5046132",
-      "time": "2026-08-18 21:05:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：FLEXENTIAL設立8億美元信貸額度用於開發資料中心。"
-    },
-    {
-      "id": "mkt:01a014fa-1fc2-7aab-907b-0eeba6b2c9c6",
-      "time": "2026-08-18 21:05:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "NOK.N"
-      ],
-      "text": "Nokia (NOK.N) will shut nearly all its offices in China by year-end, the South China Morning Post reports."
-    },
-    {
-      "id": "mkt:01a014f9-c383-7aab-907b-047ef247fcd5",
-      "time": "2026-08-18 21:05:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates"
-      ],
-      "text": "US July industrial production m/m due in 10 minutes."
-    },
-    {
-      "id": "5046131",
-      "time": "2026-08-18 21:05:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "幣安：安全團隊發現惡意DAO治理提案，試圖盜取價值120萬美元的財庫代幣。"
-    },
-    {
-      "id": "mkt:01a014f9-a65d-7aab-907a-fb2d0885bd9e",
-      "time": "2026-08-18 21:05:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qatar again denies detaining Iranian pilots】Qatar’s foreign ministry spokesman Majid Ansari on the 18th again denied Iranian claims that three Iranian pilots were detained, saying Iranian military aircraft had “violated” Qatari airspace. Qatar said it confirmed the aircraft’s flight and attack trajectories, attempted to contact the pilots with no response, and then “took measures under the rules of engagement.” Qatari search-and-rescue teams found one pilot’s remains on March 19; the search ended on April 6. Qatar notified Iran; Iran recovered the remains, repatriated them and held a funeral."
-    },
-    {
-      "id": "5046130",
-      "time": "2026-08-18 21:04:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達再次否認扣押伊朗飛行員】針對伊朗方面近期有關三名伊朗飛行員被卡達扣押的說法，卡達外交部發言人馬吉德·安薩里18日再次予以否認，並公佈了卡方此前處置相關事件和搜救工作的更多細節。安薩里表示，相關伊朗軍機當時“侵犯”卡達領空，在卡方確認其飛行和攻擊軌跡後曾嘗試與飛行員取得聯絡，但未得到回應，隨後卡方“按照交戰規則採取措施”。安薩里強調，卡達搜救人員於3月19日發現一名飛行員的遺骸，搜救行動於4月6日結束。卡方隨後向伊朗通報情況，伊方接收遺骸後將其運回伊朗，併為其舉行了葬禮。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a014f9-0c4b-7aab-907a-f7d5dbf279e3",
-      "time": "2026-08-18 21:04:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "AI Revolution",
-        "BIDU.O",
-        "Impact bullish"
-      ],
-      "text": "【Baidu's Li says market recognition for Kunlun AI chips is rising】Baidu CEO Robin Li said on the company earnings call that Kunlun AI chips maintained strong momentum in Q2, with robust demand and expanding cross-industry adoption. Market recognition of Kunlun's stability, efficiency and compatibility for large-scale deployment is increasing. Inference throughput and overall compute efficiency have improved, and Kunlun's scalability to support diverse, high-demand AI workloads has been enhanced. Baidu has developed and commercialized three generations of Kunlun chips and will continue product rollout, including the M100 optimized for large-scale inference and a future M300."
-    },
-    {
-      "id": "mkt:01a014f8-ba5a-7aab-907a-e8f55f1d472c",
-      "time": "2026-08-18 21:03:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TWG Global is working with Delaware regulators to resolve investment-related issues."
-    },
-    {
-      "id": "5046129",
-      "time": "2026-08-18 21:03:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百度李彥宏：市場對崑崙芯的認可度正不斷提升】8月18日晚，李彥宏在百度財報電話會上表示，二季度崑崙芯保持強勁勢頭，在需求旺盛的同時持續向多行業擴充套件。市場對崑崙芯在大規模應用中的穩定性、效率和適配能力的認可度正在不斷提升。崑崙芯推理吞吐量和整體算力效率進一步提升，並增強了規模化支援多樣化、高要求AI工作負載的能力。基於對文心及國內主流基礎模型的支援，崑崙芯二季度進一步覆蓋Kimi K3、GLM 5.2等模型更新版本。目前崑崙芯已完成三代AI晶片的研發和商業化，未來將繼續推進產品佈局，包括面向大規模推理最佳化的最新M100以及未來將推出的M300。"
-    },
-    {
-      "id": "mkt:01a014f8-001a-7aab-907a-e029990ae06b",
-      "time": "2026-08-18 21:03:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China's Shanghai crude (SC) front-month contract rose more than 2.00% intraday to 587.00 yuan/bbl."
-    },
-    {
-      "id": "5046128",
-      "time": "2026-08-18 21:02:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "TWG正與特拉華州監管機構協作處理投資相關事宜。"
-    },
-    {
-      "id": "5046127",
-      "time": "2026-08-18 21:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "eBay：正品保障服務現已覆蓋售價500美元及以上的符合條件的美國及世界錢幣，將專業鑑定服務拓展至全新收藏品類。"
     }
   ]
 }
