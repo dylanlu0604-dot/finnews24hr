@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-25 23:09:28",
-  "count": 16488,
+  "updated": "2026-08-25 23:13:40",
+  "count": 16487,
   "items": [
+    {
+      "id": "5058328",
+      "time": "2026-08-25 23:12:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京原定於今日舉辦一場大型活動，已有數百人為該活動開展籌備工作。受美國中央情報局局長到訪影響，這場活動已被取消。"
+    },
+    {
+      "id": "mkt:01a03979-35ef-7aab-9115-fe4c345d17d9",
+      "time": "2026-08-25 23:10:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Canada to impose reciprocal 50% tariffs on multiple U.S. goods】Prime Minister Carney said Canada will impose reciprocal 50% tariffs on a range of U.S. imports, doubling existing retaliatory duties on U.S. steel and aluminum to 50% and extending 50% levies to furniture, apparel, video-game consoles, smartphones and other electronics. The measures will target about $20 billion of U.S. goods—roughly 6% of Canada’s imports from the U.S. last year—and approximately match the value of tariffs the U.S. announced under a rarely used 1930 Tariff Act provision. Ottawa also announced support programs for firms affected by the trade escalation."
+    },
+    {
+      "id": "mkt:01a03978-faee-7aab-9115-f144c554a853",
+      "time": "2026-08-25 23:10:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Canada's finance minister said US tariffs will have a tangible impact on Canada and that Ottawa must respond."
+    },
+    {
+      "id": "5058327",
+      "time": "2026-08-25 23:09:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出面向法律行業的Gemini企業版，面向律所提供AI工具，以簡化業務流程、降低成本。"
+    },
+    {
+      "id": "5058326",
+      "time": "2026-08-25 23:08:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大宣佈對美國實施報復性關稅】加拿大政府25日宣佈，對價值約200億美元的美國商品徵收報復性關稅。此前，美國總統特朗普要求加拿大領導人“就範”，否則將面臨比現有關稅“更為嚴厲”的後果。（新華社）"
+    },
     {
       "id": "5058325",
       "time": "2026-08-25 23:07:53",
@@ -149046,58 +149097,6 @@
         "焦點"
       ],
       "text": "現貨黃金失守4360美元/盎司，日內跌1.29%。"
-    },
-    {
-      "id": "5046322",
-      "time": "2026-08-18 23:12:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守64美元/盎司，日內跌3.37%。"
-    },
-    {
-      "id": "5046321",
-      "time": "2026-08-18 23:12:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗舉行已故最高領袖下葬四十日紀念儀式】伊朗伊斯蘭共和國廣播電視臺18日報道，伊朗當天在首都德黑蘭伊瑪目霍梅尼清真寺建築外廣場舉行已故最高領袖阿里·哈梅內伊下葬四十日紀念儀式。（新華社）"
-    },
-    {
-      "id": "5046320",
-      "time": "2026-08-18 23:11:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：迪拜傑貝阿里發生劇烈爆炸。"
-    },
-    {
-      "id": "mkt:01a0156c-0ace-7aab-907e-2af70007e8a9",
-      "time": "2026-08-18 23:09:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IRGC deputy commander says US considered using 'Venezuela model' on Iran but failed】Islamic Revolutionary Guard Corps deputy commander Mustafa Izadi told the IRGC's news site on 18 that the US had drawn up plans to overthrow and \"dismember\" Iran and had considered applying the \"Venezuela model\" to Iran, but ultimately failed to achieve its objectives and suffered setbacks across multiple areas."
-    },
-    {
-      "id": "mkt:01a0156c-099e-7aab-907e-27e53edacf04",
-      "time": "2026-08-18 23:09:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver traded as low as $64/oz, down 2.72% intraday."
-    },
-    {
-      "id": "5046319",
-      "time": "2026-08-18 23:09:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守64美元/盎司，日內跌2.71%。"
     }
   ]
 }
