@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-25 23:18:03",
-  "count": 16485,
+  "updated": "2026-08-25 23:22:32",
+  "count": 16481,
   "items": [
+    {
+      "id": "te:economy:578007",
+      "time": "2026-08-25 23:21:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Mexico Current Account Swings to Surplus in 2Q — Mexico’s current account posted a surplus of $8.93 billion in the second quarter of 2026, rebounding from a $4.46 billion deficit a year earlier. The surplus reflected a $6.35 billion surplus in the goods and services balance, a $13.25 billion deficit in the primary income balance and a $15.82 billion surplus in the secondary income balance. The goods and services surplus resulted from a $10.82 billion surplus in the goods balance, partially offset by a $4.46 billion deficit in the services balance. As a share of GDP, the current account surplus stood at 1.7% in the second quarter of 2026, compared with a 1.0% deficit in the same period of 2025."
+    },
+    {
+      "id": "5058334",
+      "time": "2026-08-25 23:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總統施泰因邁爾：作為一個國家，我們需要移民。想要維持社會正常運轉，就離不開移民。醫院、養老院以及各類護理機構都存在這一需求，如今私營經濟的絕大部分領域同樣如此。"
+    },
+    {
+      "id": "mkt:01a0397f-e474-7aab-9116-19e2744427e4",
+      "time": "2026-08-25 23:17:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Interfax: Russia says it struck two vessels at Ukraine's Pivdennyi port."
+    },
+    {
+      "id": "mkt:01a0397f-b646-7aab-9116-16a3bf98e46c",
+      "time": "2026-08-25 23:17:46",
+      "tags": [
+        "MKT News",
+        "HMC.O",
+        "Impact bullish"
+      ],
+      "text": "【Honda to expand North American hybrid capacity, may build US plant】Honda is considering building a new plant in the United States as it expands gasoline-electric hybrid production. After cancelling three battery-electric models planned for the US earlier this year, the automaker plans to roll out 15 new hybrid models by March 2030, primarily for North America. An executive vice president said Honda needs additional capacity to meet demand and that the next factory should be in North America."
+    },
+    {
+      "id": "mkt:01a0397f-af05-7aab-9116-0c2453c4d49f",
+      "time": "2026-08-25 23:17:44",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Typhoon Sader nears; China's Ningbo and Zhoushan raise typhoon response to Level II】At 17:00 on Aug 25, Typhoon Sader's center was about 852 km off Ningbo at sea, with maximum winds at force 14. Based on its track and intensity forecast, from 20:00 on Aug 25 Ningbo and Zhoushan coastal areas have entered a Level II typhoon emergency response, focusing on offshore gale and swell risks that could cause ships to drag anchor or mooring lines to break."
+    },
+    {
+      "id": "5058333",
+      "time": "2026-08-25 23:17:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列防長卡茨：以色列軍隊將繼續駐守敘黎邊境地帶。"
+    },
     {
       "id": "5058332",
       "time": "2026-08-25 23:16:31",
@@ -148984,97 +149048,6 @@
         "WTI"
       ],
       "text": "Israeli forces struck a café near Gaza City's port recently, killing one and wounding several. The Israeli military said the strike targeted a \"terrorist\"."
-    },
-    {
-      "id": "5046331",
-      "time": "2026-08-18 23:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯副主席恰尼據稱撤回對因凡蒂諾的支援。"
-    },
-    {
-      "id": "mkt:01a01576-33e5-7aab-907e-69801aaaab81",
-      "time": "2026-08-18 23:21:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "EURUSD",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Italy's FTSE MIB index fell as much as 1.00% intraday."
-    },
-    {
-      "id": "mkt:01a01576-2e50-7aab-907e-6466417e3c26",
-      "time": "2026-08-18 23:21:01",
-      "tags": [
-        "MKT News",
-        "UGI.O",
-        "Impact bullish"
-      ],
-      "text": "Sources said KKR has proposed to acquire UGI, the Pennsylvania‑headquartered U.S. energy distributor, at $42.50 a share."
-    },
-    {
-      "id": "5046330",
-      "time": "2026-08-18 23:20:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：美方言論助長日本復仇主義和修正主義】當地時間18日，俄羅斯外交部就美國駐日本大使格拉斯涉南千島群島（日本稱北方四島）相關言論表示，美方言論毫無新意，只會助長日本的復仇主義和修正主義。（央視新聞）"
-    },
-    {
-      "id": "5046329",
-      "time": "2026-08-18 23:20:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：KKR 提出以每股 42.50 美元收購 UGI 公司。"
-    },
-    {
-      "id": "mkt:01a01575-58bf-7aab-907e-5cdfc0bd5fad",
-      "time": "2026-08-18 23:20:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran holds 40-day memorial for late supreme leader in Tehran】Iran held a 40-day memorial for the burial of the late supreme leader Ali Khamenei on the 18th at the courtyard outside Tehran's Imam Khomeini Mosque, Iranian sources said. Large crowds attended. Delegates present included Majlis Speaker Ghalibaf, Hassan Khomeini (grandson of Iran’s first supreme leader), and children of Ali Khamenei. Earlier Iranian reports said Supreme Leader Mujtaba Khamenei would preside in Tehran; live feeds had not shown him by the time of reporting."
-    },
-    {
-      "id": "5046328",
-      "time": "2026-08-18 23:20:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4410美元/盎司，日內跌1.45%。"
-    },
-    {
-      "id": "5046327",
-      "time": "2026-08-18 23:19:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：美國考慮戰爭結束後減少在海灣地區的軍事存在】據《華盛頓郵報》援引訊息人士稱，美國國防部正考慮在伊朗戰爭結束後縮減其海灣地區軍事部署，伊朗的打擊暴露了美國主要基地存在的防禦短板。 備選方案包括將兵力向西調往約旦、以色列或沙烏地阿拉伯，而非重建受損設施。尚未作出正式決定。"
-    },
-    {
-      "id": "5046326",
-      "time": "2026-08-18 23:19:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌3%，現報15612.00元。"
-    },
-    {
-      "id": "mkt:01a01573-b9ff-7aab-907e-5454fe499635",
-      "time": "2026-08-18 23:18:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE Ministry of Defense told citizens that any sounds they hear are from air-defence intercepts."
     }
   ]
 }

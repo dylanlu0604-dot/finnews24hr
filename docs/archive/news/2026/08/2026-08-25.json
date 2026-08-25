@@ -1,7 +1,71 @@
 {
   "date": "2026-08-25",
-  "count": 3283,
+  "count": 3289,
   "items": [
+    {
+      "id": "te:economy:578007",
+      "time": "2026-08-25 23:21:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Mexico Current Account Swings to Surplus in 2Q — Mexico’s current account posted a surplus of $8.93 billion in the second quarter of 2026, rebounding from a $4.46 billion deficit a year earlier. The surplus reflected a $6.35 billion surplus in the goods and services balance, a $13.25 billion deficit in the primary income balance and a $15.82 billion surplus in the secondary income balance. The goods and services surplus resulted from a $10.82 billion surplus in the goods balance, partially offset by a $4.46 billion deficit in the services balance. As a share of GDP, the current account surplus stood at 1.7% in the second quarter of 2026, compared with a 1.0% deficit in the same period of 2025."
+    },
+    {
+      "id": "5058334",
+      "time": "2026-08-25 23:20:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總統施泰因邁爾：作為一個國家，我們需要移民。想要維持社會正常運轉，就離不開移民。醫院、養老院以及各類護理機構都存在這一需求，如今私營經濟的絕大部分領域同樣如此。"
+    },
+    {
+      "id": "mkt:01a0397f-e474-7aab-9116-19e2744427e4",
+      "time": "2026-08-25 23:17:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Interfax: Russia says it struck two vessels at Ukraine's Pivdennyi port."
+    },
+    {
+      "id": "mkt:01a0397f-b646-7aab-9116-16a3bf98e46c",
+      "time": "2026-08-25 23:17:46",
+      "tags": [
+        "MKT News",
+        "HMC.O",
+        "Impact bullish"
+      ],
+      "text": "【Honda to expand North American hybrid capacity, may build US plant】Honda is considering building a new plant in the United States as it expands gasoline-electric hybrid production. After cancelling three battery-electric models planned for the US earlier this year, the automaker plans to roll out 15 new hybrid models by March 2030, primarily for North America. An executive vice president said Honda needs additional capacity to meet demand and that the next factory should be in North America."
+    },
+    {
+      "id": "mkt:01a0397f-af05-7aab-9116-0c2453c4d49f",
+      "time": "2026-08-25 23:17:44",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Typhoon Sader nears; China's Ningbo and Zhoushan raise typhoon response to Level II】At 17:00 on Aug 25, Typhoon Sader's center was about 852 km off Ningbo at sea, with maximum winds at force 14. Based on its track and intensity forecast, from 20:00 on Aug 25 Ningbo and Zhoushan coastal areas have entered a Level II typhoon emergency response, focusing on offshore gale and swell risks that could cause ships to drag anchor or mooring lines to break."
+    },
+    {
+      "id": "5058333",
+      "time": "2026-08-25 23:17:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列防長卡茨：以色列軍隊將繼續駐守敘黎邊境地帶。"
+    },
     {
       "id": "5058332",
       "time": "2026-08-25 23:16:31",
