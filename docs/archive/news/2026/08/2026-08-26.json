@@ -1,7 +1,29 @@
 {
   "date": "2026-08-26",
-  "count": 283,
+  "count": 285,
   "items": [
+    {
+      "id": "mkt:01a03aac-e117-7aab-911a-947bb672b15f",
+      "time": "2026-08-26 04:46:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran deputy foreign minister Gharibabadi warned that if the US continues its actions Iran will demonstrate new capabilities, saying the Strait of Hormuz is not Tehran's only tool to confront Washington and the US should not assume it alone can inflict economic damage."
+    },
+    {
+      "id": "5058515",
+      "time": "2026-08-26 04:43:48",
+      "tags": [
+        "宏觀",
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美國財政部或從TGA賬戶調撥1000億美元用於債券回購】SMBC日興證券美國公司美國利率策略主管阿巴特（Joseph Abate）在一份報告中表示，財政部或可將其在美聯儲賬戶中的1000億美元資金轉向定期債務的購買，以替代任何潛在的三方回購投資。SMBC估計，財政部一般賬戶（TGA）中的平均超額現金約為1650億美元，不過每日總額波動較大，盈餘日的標準差約為960億美元。"
+    },
     {
       "id": "mkt:01a03aa9-342c-7aab-911a-8d126b10baa9",
       "time": "2026-08-26 04:42:42",
