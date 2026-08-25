@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-26 07:22:27",
-  "count": 16507,
+  "updated": "2026-08-26 07:26:28",
+  "count": 16509,
   "items": [
+    {
+      "id": "mkt:01a03b3d-2b6b-7aab-911b-c358cc4a65c8",
+      "time": "2026-08-26 07:24:19",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "SEC filing shows Micron Technology (MU.O) president and CEO Sanjay Mehrotra sold 40,000 shares of common stock on Aug. 21 at an average price of $968.90, generating proceeds of about $38.76 million."
+    },
+    {
+      "id": "5058590",
+      "time": "2026-08-26 07:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“紫檀”在廣東湛江徐聞二次登陸】據廣東省氣象臺訊息，今年第19號颱風“紫檀”（熱帶風暴級）的中心已於26日3時25分前後在廣東省湛江市徐聞縣沿海再次登陸，登陸時中心附近最大風力有8級（18米/秒），中心最低氣壓998百帕。登陸後將向北偏東方向移動，強度逐漸減弱。 此前，颱風“紫檀”已於25日18時40分前後在海南省昌江黎族自治縣昌化鎮沿海地區登陸，登陸時中心附近最大風力8級（20米/秒）。（新華社）"
+    },
+    {
+      "id": "5058589",
+      "time": "2026-08-26 07:22:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果摺疊屏手機面世在即 相關概念股提前異動】有訊息稱，蘋果首款摺疊屏手機預計將於2026年9月9日釋出，國行起售價約14999元。此外，華為全新三摺疊手機也即將登場。在利好刺激下，近期不少摺疊屏概念股股價出現異動。8月25日，具有摺疊屏概念的恆銘達漲停，星星科技盤中大漲超15%，強瑞技術、奧克股份、福日電子等個股收盤均漲超5%。資料寶統計，A股市場上合計有16只摺疊屏概念股評級機構數在1家以上且機構一致預測今明兩年淨利增速均超20%。其中，鼎龍股份、京東方A、TCL科技等個股機構一致預測今明兩年淨利增速均超30%，東材科技、深天馬A、弘信電子等個股機構一致預測今明兩年淨利增速均超50%。（證券時報）"
+    },
+    {
+      "id": "5058588",
+      "time": "2026-08-26 07:21:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上證報：券業“出海”正當時 券商國際業務漸成業績增長重要驅動力】業內人士稱，隨著中國企業“出海”需求持續升溫、投資者跨境配置需求不斷提升，疊加近年來頭部券商對國際業務資源投入成果顯現，國際業務逐步成為券商業績增長的重要驅動力。未來券商“出海”應重點做好三件事：一是多用和用好衍生品等風險對沖工具，把風險敞口鎖住；二是把合規作為第一原則，在新的地區展業前先了解當地法律制度規則，建章立制把合規落實到每一筆業務和每一位員工；三是平衡好薪酬與人才關係。"
+    },
+    {
+      "id": "5058587",
+      "time": "2026-08-26 07:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI稱自研AI晶片測試表現超越英偉達GB300】OpenAI當地時間8月25日表示，其全新Jalapeno晶片在測試中的表現優於英偉達的現有產品線。在測試中，Jalapeno處理器在兩個指標上領先：單位功耗可處理的AI工作負載以及響應速度。"
+    },
+    {
+      "id": "te:markets:578050",
+      "time": "2026-08-26 07:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Declines for Third Straight Session — Brent crude slipped to around $87 per barrel on Wednesday, extending losses into a third consecutive session following reports that Iran and Oman discussed the establishment of a “temporary joint maritime corridor” in the Strait of Hormuz. Technical talks between the two sides are set to continue as they work toward a permanent maritime corridor covering the future administration of the strait, information-sharing mechanisms, traffic management, and the provision of maritime and security services. Meanwhile, Pakistan’s army chief traveled to Tehran to support diplomatic efforts, while Qatar said it was continuing its mediation. Oil prices have come under pressure this week after Washington’s latest measures to intensify economic pressure on Iran proved less aggressive than markets had expected, with the US stopping short of imposing secondary sanctions on Iran’s trading partners."
+    },
+    {
+      "id": "te:markets:578049",
+      "time": "2026-08-26 07:19:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Declines for Third Straight Session — Crude oil slipped to around $81 per barrel on Wednesday, extending losses into a third consecutive session following reports that Iran and Oman discussed the establishment of a “temporary joint maritime corridor” in the Strait of Hormuz. Technical talks between the two sides are set to continue as they work toward a permanent maritime corridor covering the future administration of the strait, information-sharing mechanisms, traffic management, and the provision of maritime and security services. Meanwhile, Pakistan’s army chief traveled to Tehran to support diplomatic efforts, while Qatar said it was continuing its mediation. Oil prices have come under pressure this week after Washington’s latest measures to intensify economic pressure on Iran proved less aggressive than markets had expected, with the US stopping short of imposing secondary sanctions on Iran’s trading partners."
+    },
+    {
+      "id": "5058586",
+      "time": "2026-08-26 07:18:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【加拿大實施報復後 美國考慮出臺更多針對加拿大的貿易措施】據報道，加拿大總理馬克・卡尼針對美國週六新徵收的關稅推出等額報復措施之後，特朗普政府正討論對加拿大施加額外貿易懲罰。一名不願具名、參與內部研判的白宮官員稱，美國對這個北部鄰國的進一步升級舉措，可能包括加徵更高關稅以及其他貿易行動。該官員表示，美國政府預計會對加拿大最新的舉措作出回應。這名官員指出，美加上週末談判破裂後爭端爆發，唐納德・特朗普總統手握多項可用於此次爭端的政策工具。"
+    },
     {
       "id": "5058585",
       "time": "2026-08-26 07:17:28",
@@ -149326,54 +149400,6 @@
         "其他"
       ],
       "text": "【百隻半導體主題基金年內平均淨值增長70.05%】今年以來，半導體主題基金規模迎來爆發式增長。資料顯示，截至8月18日，全市場100只半導體主題基金最新合計規模達3736.49億元，較年初的1442.88億元增長2293.61億元，增幅達158.96%；百億元級基金數量由年初的2只增至10只，其中，國泰中證半導體材料裝置主題ETF以441.64億元的規模居首。在規模高增長的背後，資料顯示，100只半導體主題基金年內平均淨值增長率達70.05%，其中98只實現正回報且淨值增長率均超17%，國泰半導體制造精選混合發起A以118.68%的漲幅居首。"
-    },
-    {
-      "id": "5046578",
-      "time": "2026-08-19 07:26:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多重因素推升成本 儲能產業鏈“漲”聲響起】受原材料價格波動、電池消費稅新政落地、市場需求景氣等因素影響，近期多家儲能產業鏈企業宣佈漲價，電芯、PCS、儲能系統等產品價格普遍上調，最高幅度達30%。記者採訪獲悉，成本壓力沿產業鏈向下傳導，各環節承壓程度分化，整合環節壓力凸顯。多位專家認為，本輪儲能產品漲價實質為成本修復與價值重估，有望推動行業轉向高質量價值競爭。（上海證券報）"
-    },
-    {
-      "id": "5046577",
-      "time": "2026-08-19 07:25:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報：房地產拉動投資方式轉向城市更新】當前，房地產市場中的積極因素仍在不斷累積。與過去增量時代密切相關的房地產開發投資、房屋施工面積、新開工面積、竣工面積、新建商品房銷售等指標逐漸下降，對此應理性看待。1月份至7月份，全國房地產開發投資43009億元，同比下降19.2%。房地產開發投資下降、新增供給減少，既是各地落實嚴控增量的反映，也是市場自發調整的結果。從發達國家房地產發展經驗看，房地產進入存量時代後，依然是產業鏈長、帶動面廣的國民經濟重要產業乃至支柱產業，仍將對經濟增長作出舉足輕重的貢獻。進入存量時代，房地產對宏觀經濟的貢獻將從大規模增量建設為主轉向存量提質增效和相關服務為主。其中，房地產拉動投資的方式將轉向城市更新，城市更新中的城中村、危舊房、老舊小區更新改造等將成為穩投資的重要力量。"
-    },
-    {
-      "id": "5046576",
-      "time": "2026-08-19 07:25:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國產創新藥迎三重業績拐點 CXO龍頭利潤與訂單同步創出歷史新高】創新藥上市公司2026年半年報、業績預告集中披露，行業正式迎來商業化單品放量、出海BD（商務拓展）兌現、上游CXO（醫藥研發生產外包）全鏈條高景氣三重業績拐點。既有澤布替尼、瑪仕度肽等爆款產品實現規模化盈利，還有石藥集團、恆瑞醫藥、信達生物接連落地百億級出海BD大單，CXO龍頭利潤與訂單同步創出歷史新高。在業內專家看來，創新藥上半年的業績表現並非短期脈衝，而是從單一產品出海、單一管線授權邁向全產業鏈體系化的轉折點；但對標強生、禮來等跨國藥企，國內企業還存在著顯著的差距，產業追趕仍需長期耕耘。"
-    },
-    {
-      "id": "5046575",
-      "time": "2026-08-19 07:24:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國俄亥俄州一工業建築爆炸起火 兩人死亡】當地時間18日，美國俄亥俄州托萊多一家工業回收企業發生爆炸起火，導致兩名工人死亡。托萊多消防隊長艾莉森·阿姆斯特朗表示，已經發現了兩名員工的遺體，另外有兩三名員工受了輕傷。阿姆斯特朗表示，截至當天下午，大火仍在燃燒。目前尚無初步跡象表明爆炸的原因。"
-    },
-    {
-      "id": "5046574",
-      "time": "2026-08-19 07:23:35",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【經濟日報金觀平：支援基礎研究貴在長期穩定】文章指出，近日召開的中央政治局會議強調“加強對基礎研究的長期穩定支援”。這一決策體現了對基礎研究長期性、艱鉅性、探索性的深刻認識。推進基礎研究不能急於求成，須保持戰略定力和歷史耐心，以長期穩定的支援為基礎研究保駕護航，夯實建設科技強國的根基。當前，我國在一些關鍵核心技術領域長期受制於人，很多困境都源於基礎理論研究儲備不足。關鍵技術買不來、要不來，唯有依靠基礎研究自主突破才能從根本上解決問題。實現高水平科技自立自強，必須重視基礎研究，鍛造過硬的原始創新能力。要逐步提高基礎研究經費佔比，體系化佈局建設重大科技基礎設施，健全符合基礎研究特點的分類評價體系。"
-    },
-    {
-      "id": "5046573",
-      "time": "2026-08-19 07:22:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報：歐洲對華電動汽車認知逆轉的背後】法國BFM商業頻道今年播出的專題節目《汽車行業：中國的崛起》，在歐洲產業界引發廣泛而深刻的討論。節目嘉賓普遍認為，中國電動汽車已憑藉全產業鏈優勢與高效迭代能力在歐洲市場站穩腳跟，全球汽車產業重心東移的態勢愈發清晰。 從“後來者”到“超越者”，一場關於中國汽車的認知逆轉，正在歐洲悄然發生。歐洲汽車製造商協會統計顯示，今年上半年，中國車企在歐洲市場的整體份額已攀升至9.5%，6月單月更是觸及10.9%，遠早於此前行業普遍預估的“2030年突破10%”的時間節點。今年5月，中國品牌在西歐主要市場的新車註冊量首次超越日本車企，躍居亞洲品牌首位。銷量數字的快速重新整理，成為扭轉歐洲固有印象的第一推動力。"
     }
   ]
 }

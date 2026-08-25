@@ -1,7 +1,81 @@
 {
   "date": "2026-08-26",
-  "count": 401,
+  "count": 409,
   "items": [
+    {
+      "id": "mkt:01a03b3d-2b6b-7aab-911b-c358cc4a65c8",
+      "time": "2026-08-26 07:24:19",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "SEC filing shows Micron Technology (MU.O) president and CEO Sanjay Mehrotra sold 40,000 shares of common stock on Aug. 21 at an average price of $968.90, generating proceeds of about $38.76 million."
+    },
+    {
+      "id": "5058590",
+      "time": "2026-08-26 07:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“紫檀”在廣東湛江徐聞二次登陸】據廣東省氣象臺訊息，今年第19號颱風“紫檀”（熱帶風暴級）的中心已於26日3時25分前後在廣東省湛江市徐聞縣沿海再次登陸，登陸時中心附近最大風力有8級（18米/秒），中心最低氣壓998百帕。登陸後將向北偏東方向移動，強度逐漸減弱。 此前，颱風“紫檀”已於25日18時40分前後在海南省昌江黎族自治縣昌化鎮沿海地區登陸，登陸時中心附近最大風力8級（20米/秒）。（新華社）"
+    },
+    {
+      "id": "5058589",
+      "time": "2026-08-26 07:22:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果摺疊屏手機面世在即 相關概念股提前異動】有訊息稱，蘋果首款摺疊屏手機預計將於2026年9月9日釋出，國行起售價約14999元。此外，華為全新三摺疊手機也即將登場。在利好刺激下，近期不少摺疊屏概念股股價出現異動。8月25日，具有摺疊屏概念的恆銘達漲停，星星科技盤中大漲超15%，強瑞技術、奧克股份、福日電子等個股收盤均漲超5%。資料寶統計，A股市場上合計有16只摺疊屏概念股評級機構數在1家以上且機構一致預測今明兩年淨利增速均超20%。其中，鼎龍股份、京東方A、TCL科技等個股機構一致預測今明兩年淨利增速均超30%，東材科技、深天馬A、弘信電子等個股機構一致預測今明兩年淨利增速均超50%。（證券時報）"
+    },
+    {
+      "id": "5058588",
+      "time": "2026-08-26 07:21:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上證報：券業“出海”正當時 券商國際業務漸成業績增長重要驅動力】業內人士稱，隨著中國企業“出海”需求持續升溫、投資者跨境配置需求不斷提升，疊加近年來頭部券商對國際業務資源投入成果顯現，國際業務逐步成為券商業績增長的重要驅動力。未來券商“出海”應重點做好三件事：一是多用和用好衍生品等風險對沖工具，把風險敞口鎖住；二是把合規作為第一原則，在新的地區展業前先了解當地法律制度規則，建章立制把合規落實到每一筆業務和每一位員工；三是平衡好薪酬與人才關係。"
+    },
+    {
+      "id": "5058587",
+      "time": "2026-08-26 07:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI稱自研AI晶片測試表現超越英偉達GB300】OpenAI當地時間8月25日表示，其全新Jalapeno晶片在測試中的表現優於英偉達的現有產品線。在測試中，Jalapeno處理器在兩個指標上領先：單位功耗可處理的AI工作負載以及響應速度。"
+    },
+    {
+      "id": "te:markets:578050",
+      "time": "2026-08-26 07:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Declines for Third Straight Session — Brent crude slipped to around $87 per barrel on Wednesday, extending losses into a third consecutive session following reports that Iran and Oman discussed the establishment of a “temporary joint maritime corridor” in the Strait of Hormuz. Technical talks between the two sides are set to continue as they work toward a permanent maritime corridor covering the future administration of the strait, information-sharing mechanisms, traffic management, and the provision of maritime and security services. Meanwhile, Pakistan’s army chief traveled to Tehran to support diplomatic efforts, while Qatar said it was continuing its mediation. Oil prices have come under pressure this week after Washington’s latest measures to intensify economic pressure on Iran proved less aggressive than markets had expected, with the US stopping short of imposing secondary sanctions on Iran’s trading partners."
+    },
+    {
+      "id": "te:markets:578049",
+      "time": "2026-08-26 07:19:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Declines for Third Straight Session — Crude oil slipped to around $81 per barrel on Wednesday, extending losses into a third consecutive session following reports that Iran and Oman discussed the establishment of a “temporary joint maritime corridor” in the Strait of Hormuz. Technical talks between the two sides are set to continue as they work toward a permanent maritime corridor covering the future administration of the strait, information-sharing mechanisms, traffic management, and the provision of maritime and security services. Meanwhile, Pakistan’s army chief traveled to Tehran to support diplomatic efforts, while Qatar said it was continuing its mediation. Oil prices have come under pressure this week after Washington’s latest measures to intensify economic pressure on Iran proved less aggressive than markets had expected, with the US stopping short of imposing secondary sanctions on Iran’s trading partners."
+    },
+    {
+      "id": "5058586",
+      "time": "2026-08-26 07:18:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【加拿大實施報復後 美國考慮出臺更多針對加拿大的貿易措施】據報道，加拿大總理馬克・卡尼針對美國週六新徵收的關稅推出等額報復措施之後，特朗普政府正討論對加拿大施加額外貿易懲罰。一名不願具名、參與內部研判的白宮官員稱，美國對這個北部鄰國的進一步升級舉措，可能包括加徵更高關稅以及其他貿易行動。該官員表示，美國政府預計會對加拿大最新的舉措作出回應。這名官員指出，美加上週末談判破裂後爭端爆發，唐納德・特朗普總統手握多項可用於此次爭端的政策工具。"
+    },
     {
       "id": "5058585",
       "time": "2026-08-26 07:17:28",
