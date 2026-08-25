@@ -1,7 +1,164 @@
 {
-  "updated": "2026-08-25 20:22:03",
-  "count": 16500,
+  "updated": "2026-08-25 20:30:18",
+  "count": 16490,
   "items": [
+    {
+      "id": "mkt:01a038e5-9aca-7aab-9111-f6aea37a9e08",
+      "time": "2026-08-25 20:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi to invest €6 billion to build three theme parks near Paris】France’s presidential office said France and Saudi Arabia signed an MOU under which Saudi investors will commit €6 billion to build three theme parks near Paris. The sites are planned about 30 km northwest of Paris in the Cergy‑Pontoise area; the project will be led by Gedia, an investment arm of the Saudi sovereign wealth fund. The agreement was reached during a visit by Crown Prince and prime minister Mohammed bin Salman."
+    },
+    {
+      "id": "5058088",
+      "time": "2026-08-25 20:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大美加貿易事務部長：致力於與美國建立建設性關係。"
+    },
+    {
+      "id": "5058087",
+      "time": "2026-08-25 20:28:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光線傳媒：2026年上半年淨利潤3300.89萬元，同比下降98.52%】光線傳媒公告，2026年上半年營業收入3.24億元，同比下降90.00%；歸屬於上市公司股東的淨利潤3300.89萬元，同比下降98.52%，2025年同期為22.29億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤463.68萬元，同比下降99.79%，2025年同期為21.99億元。"
+    },
+    {
+      "id": "mkt:01a038e4-35ae-7aab-9111-ef7990b30867",
+      "time": "2026-08-25 20:27:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Drone attack on Chernihiv, Ukraine, kills two."
+    },
+    {
+      "id": "5058086",
+      "time": "2026-08-25 20:26:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特擬投60億歐元在法國建三座主題公園】法國總統辦公室24日宣佈，該國與沙烏地阿拉伯當天簽署一份諒解備忘錄，沙特擬投資60億歐元在法國首都巴黎周邊興建三座主題公園。法國總統辦公室說，這項合作於沙特王儲兼首相穆罕默德來訪期間達成，主題公園選址位於巴黎西北方向約30公里處的塞日蓬圖瓦斯地區附近，將由沙特主權財富基金旗下投資公司吉迪亞牽頭建設。（新華社）"
+    },
+    {
+      "id": "mkt:01a038e3-1ef2-7aab-9111-e21caab90c54",
+      "time": "2026-08-25 20:26:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Zhongkuang Resources: Bikita lithium concentrate shipments restored】Zhongkuang Resources said Zimbabwe temporarily suspended lithium concentrate export permit approvals in Feb 2026 to curb smuggling and encourage local processing. The company obtained an initial 200,000-tonne export quota in April and a further 300,000 tonnes in July, and says it has ramped logistics despite African land transport constraints and port congestion. As of the disclosure date, Bikita lithium concentrate transport has returned to normal and supply is sufficient to meet the company’s domestic refining feedstock needs."
+    },
+    {
+      "id": "mkt:01a038e2-cf44-7aab-9111-da70c57697a5",
+      "time": "2026-08-25 20:26:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK 10-year gilt yield fell to 5.010%, its lowest since Aug. 14, down 5bps intraday."
+    },
+    {
+      "id": "5058085",
+      "time": "2026-08-25 20:26:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧夏建材：2026年上半年淨利潤5780.34萬元，同比下降45.29%】寧夏建材公告，2026年上半年營業收入15.86億元，同比下降37.95%；歸屬於上市公司股東的淨利潤5780.34萬元，同比下降45.29%，2025年同期為1.06億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4446.74萬元，同比下降41.84%，2025年同期為7645.09萬元。"
+    },
+    {
+      "id": "5058084",
+      "time": "2026-08-25 20:25:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率下跌5個基點，報5.010%，創8月14日以來新低。"
+    },
+    {
+      "id": "5058083",
+      "time": "2026-08-25 20:25:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中礦資源：Bikita鋰精礦運輸工作已恢復正常】中礦資源最新披露的投資者關係活動記錄表顯示，2026年2月，辛巴威政府為打擊鋰礦走私行為、推動本地深加工產業發展，臨時暫停鋰精礦出口許可審批。公司密切關注當地政策動態並積極溝通應對，於2026年4月獲得首批20萬噸鋰精礦出口配額。隨後公司全力組織物流運輸及後續配額申請工作，並於2026年7月再次獲得30萬噸鋰精礦出口配額。同時，公司積極克服非洲陸運運力緊張、港口擁堵等困難，運輸能力持續提升。截至本報告披露日，Bikita鋰精礦運輸工作已恢復正常，鋰精礦供應可滿足公司國內冶煉產能的原料需求。"
+    },
+    {
+      "id": "mkt:01a038e1-d9b7-7aab-9111-d0ffc7c438af",
+      "time": "2026-08-25 20:25:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Russia plans to extend diesel export ban to end-September as refinery outages continue】Russia plans to extend a diesel export ban through Sept. 30 as domestic fuel shortages persist and multiple refineries remain offline after repeated Ukrainian drone attacks, three industry sources said. One source said extending the ban to year-end is also under consideration. Moscow first imposed a diesel export ban from July 8–31 and then extended export restrictions on fuel producers to Aug. 31. Non-fuel producers are barred from exporting diesel and motor gasoline until Jan. 31 next year, while jet-fuel exports remain banned through Nov. 2026. After local governments eased some restrictions in late July, fuel shortages reappeared in parts of the country in August."
+    },
+    {
+      "id": "5058082",
+      "time": "2026-08-25 20:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古包頭髮布暴雨紅色預警】記者從內蒙古包頭市氣象臺獲悉，8月25日18時30分，包頭市氣象臺釋出暴雨紅色預警訊號。預計未來3小時內，東河區、昆區、青山區、石柺區、九原區、土右旗薩拉齊鎮、蘇波蓋鄉、溝門鎮、美岱召鎮、九峰山管委會降雨量將達100毫米以上。請有關單位和人員做好防範準備。（央視新聞）"
+    },
+    {
+      "id": "5058081",
+      "time": "2026-08-25 20:23:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "中國正通集團預計2026年上半年淨虧損同比增加約17%。"
+    },
+    {
+      "id": "mkt:01a038df-851b-7aab-9111-ccd50a6bc932",
+      "time": "2026-08-25 20:22:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IRNA quoted the head of the National Iranian Oil Company as saying Iranian oil production is \"in a favorable state\"."
+    },
+    {
+      "id": "5058080",
+      "time": "2026-08-25 20:22:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲其他軟體與資料類股票也表現疲弱。勵訊集團下跌3.6%，凱捷下跌3.1%，Teleperformance下跌2.8%"
+    },
+    {
+      "id": "5058079",
+      "time": "2026-08-25 20:22:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗石油生產“處於有利狀態”。"
+    },
+    {
+      "id": "5058078",
+      "time": "2026-08-25 20:22:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "BioMedit 收購 Folium 的科學技術及管線資產。"
+    },
     {
       "id": "mkt:01a038dd-f00c-7aab-9111-c79968595f6e",
       "time": "2026-08-25 20:21:03",
@@ -148890,264 +149047,6 @@
         "國際"
       ],
       "text": "美國7月新屋開工總數年化 123.9萬戶，預期135萬戶，前值由142.7萬戶修正為141.5萬戶。美國7月新屋開工年化月率 -12.4%，前值由19.00%修正為19.7%。"
-    },
-    {
-      "id": "5046081",
-      "time": "2026-08-18 20:30:13",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國7月出口物價指數月率 -1.3%，預期0.2%，前值由-0.60%修正為-0.7%。美國7月進口物價指數月率 -0.4%，預期0.10%，前值由0.30%修正為-0.3%。"
-    },
-    {
-      "id": "mkt:01a014d9-cd9c-7aab-907a-072e0be6842d",
-      "time": "2026-08-18 20:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US import price index MoM (July) -0.4% vs. +0.1% expected; June revised from +0.3% to -0.3%."
-    },
-    {
-      "id": "5046080",
-      "time": "2026-08-18 20:30:08",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國7月出口物價指數月率 -1.3%，預期0.2%，前值由-0.60%修正為-0.7%。\n美國7月進口物價指數月率 -0.4%，預期0.10%，前值由0.30%修正為-0.3%。\n美國7月石油進口價格下降7.5%，7月非石油進口價格上漲0.3%。"
-    },
-    {
-      "id": "mkt:01a014d9-a417-7aab-9079-fbe4d32db5d7",
-      "time": "2026-08-18 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Building Permits Total (Jul) | actual 1443000M | consensus 1370000M | previous 1374000M"
-    },
-    {
-      "id": "mkt:01a014d9-a416-7aab-9079-f63eeea6c483",
-      "time": "2026-08-18 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Building Permits (MoM) (Jul) | actual 5% | previous -2.60%"
-    },
-    {
-      "id": "mkt:01a014d9-a29d-7aab-9079-ec7d55a31333",
-      "time": "2026-08-18 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Export Price Index (MoM) (Jul) | actual -1.3% | consensus 0.2% | previous -0.60%"
-    },
-    {
-      "id": "mkt:01a014d9-a121-7aab-9079-e66e0395f157",
-      "time": "2026-08-18 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Import Price Index (MoM) (Jul) | actual -0.4% | consensus 0.10% | previous 0.30%"
-    },
-    {
-      "id": "mkt:01a014d9-9cf6-7aab-9079-d73e2227a99e",
-      "time": "2026-08-18 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Housing Starts SAAR (MoM) (Jul) | actual -12.4% | previous 19.00%"
-    },
-    {
-      "id": "mkt:01a014d9-9cf9-7aab-9079-dddb50821133",
-      "time": "2026-08-18 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Housing Starts Total SAAR (Jul) | actual 1239000K | consensus 1350000K | previous 1427000K"
-    },
-    {
-      "id": "5046079",
-      "time": "2026-08-18 20:29:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海看股份：持股5%以上股東擬減持不超1.00%股份】海看股份公告稱，截至公告日，持股5%以上股東新餘市中文產業投資合夥企業(有限合夥)持有公司股份2093.82萬股，佔公司總股本比例5.02%。其計劃於2026年9月9日至2026年12月8日期間，透過集中競價或大宗交易方式減持公司股份合計不超過417萬股，即減持比例不超過公司總股本的1.00%。本次減持系股東自身資金需求，不會導致公司控制權變更。"
-    },
-    {
-      "id": "5046078",
-      "time": "2026-08-18 20:29:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【九州一軌：股票交易異常波動 涉及多事項說明】九州一軌公告稱，公司股票於2026年8月14日、8月17日、8月18日連續三個交易日收盤價格漲幅偏離值累計達30%，屬於交易異常波動情形。2026年第一季度公司營收3201.27萬元，同比增長22.85%；淨虧損435.28萬元。全資子公司晶禧半導體擬投資不超過6.3億元建設先進半導體晶圓鐳射隱形切割產業化專案，尚處初步規劃階段，實施存在不確定性。2026年8月6日公司透過集中競價出售已回購股份139.79萬股，佔總股本0.93%。2026年8月12日至8月14日，持股5%以上股東廣州軌道交通產業投資發展基金合計減持2.0623%股份，減持計劃實施完畢。2026年8月14日，董事、核心技術人員邵斌減持0.26%股份，減持計劃提前終止；公司副總裁陶為銀增持1.76%股份。公司日常經營正常，無其他應披露未披露重大事項。"
-    },
-    {
-      "id": "5046077",
-      "time": "2026-08-18 20:28:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "亞瑪芬體育：將持續擴大薩洛蒙在美國的批發業務。"
-    },
-    {
-      "id": "5046076",
-      "time": "2026-08-18 20:28:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【面對外媒記者連續追問，馬來西亞總理明確表態：臺灣是中國的一部分，毋庸置疑】綜合卡達半島電視臺、“今日俄羅斯”（RT）等媒體報道，馬來西亞總理安瓦爾近日接受半島電視臺採訪時就中國臺灣問題與主持人賈恩展開激烈交鋒。在8月16日播出的這段採訪影片中，面對賈恩的連續追問，安瓦爾一再明確表示“臺灣是中國的一部分，毋庸置疑”，並強調堅持一箇中國原則。（環球網）"
-    },
-    {
-      "id": "mkt:01a014d7-9ead-7aab-9079-cbdc2e1f463a",
-      "time": "2026-08-18 20:27:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports the U.S. Fourth Circuit Court of Appeals upheld a lower-court injunction blocking certain Trump administration immigration-enforcement policies targeting places of worship."
-    },
-    {
-      "id": "5046075",
-      "time": "2026-08-18 20:27:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【漢朔科技：收到美國關稅退稅約1.57億元】漢朔科技(301275.SZ)公告稱，公司全資子公司美國漢朔已累計收到美國關稅及利息退回合計2310.64萬美元，摺合人民幣約1.57億元。上述款項擬計入2026年當期損益，預提後影響公司2026年度淨利潤約為7117.16萬元，佔最近一期經審計淨利潤的15.75%。"
-    },
-    {
-      "id": "5046074",
-      "time": "2026-08-18 20:27:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "8月18日，全球基金淨買入165億印度盧比的印度股票。"
-    },
-    {
-      "id": "5046073",
-      "time": "2026-08-18 20:26:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利亞德：2026年上半年淨利潤6915.21萬元，同比降59.74%】利亞德公告，2026年上半年營業收入28.67億元，同比下降18.34%；歸屬於上市公司股東的淨利潤6915.21萬元，同比下降59.74%；扣非淨利潤1619.77萬元，同比下降88.81%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5046072",
-      "time": "2026-08-18 20:26:14",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌，道指期貨跌0.02%，標普500指數期貨跌0.36%，納指期貨跌1.06%。\n②德國DAX指數跌0.37%，英國富時100指數漲0.13%，法國CAC40指數跌0.47%，歐洲斯托克50指數跌0.43%。\n③WTI原油漲0.55%，報84.20美元/桶。布倫特原油漲0.21%，報91.06美元/桶。\n④美國和伊朗諒解備忘錄所設60天談判視窗期到期之際，雙方仍未啟動正式談判，也沒有達成新的協議。\n⑤通脹黏性、AI債務與財政失序多重絞殺，美債收益率攀升。\n⑥美國債務本週可能突破40萬億美元大關，比此前預測提前數月，部分原因是特朗普的關稅政策被推翻，導致數十億美元的財政收入損失。\n⑦Meta盤前續跌1%，遭全美29州起訴，被控誘導青少年成癮。\n⑧諾基亞盤前跌3.6%，據稱計劃關閉杭州研發中心裁員1600人，在華業務持續萎縮。\n⑨文遠知行美股盤前上漲3%，受港股文遠知行上漲5.8%影響，公司日前公佈上半年總營收達3.46億元，同比大幅增長73%。"
-    },
-    {
-      "id": "te:economy:576139",
-      "time": "2026-08-18 20:25:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Housing Starts",
-        "Importance 1"
-      ],
-      "text": "Canada Housing Starts Miss Expectations in July — Canada’s housing starts fell 5% in July to a seasonally adjusted annual rate of 229,074 units, down from 240,773 in June and below market expectations of 248,000 units. The rural starts estimate stood at 11,274 units. Actual monthly housing starts declined 19% year-on-year in centres with a population of 10,000 or more, with 18,834 units recorded in July 2026. Vancouver starts fell 42%, driven by lower multi-unit and single-detached starts, while Toronto starts declined 10% on weaker multi-unit construction. Montréal posted a 3% increase, supported by higher multi-unit starts. Year-to-date housing starts totaled 131,851 units, down 4% from the same period in 2025. The six-month trend was virtually unchanged in July, falling 0.5% to 247,377 units."
-    },
-    {
-      "id": "5046071",
-      "time": "2026-08-18 20:25:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【渤海股份：2026年上半年淨利潤1434.06萬元，同比增1.75%】渤海股份公告，2026年上半年營業收入9.37億元，同比增長11.56%；歸屬於上市公司股東的淨利潤1434.06萬元，同比增長1.75%；扣非淨利潤349.76萬元，同比增長14.48%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5046070",
-      "time": "2026-08-18 20:25:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人：歐盟歡迎其他國家在對白俄羅斯的限制措施上達成一致。阿爾巴尼亞、波斯尼亞和黑塞哥維那、冰島、列支敦斯登、黑山、北馬其頓、挪威、烏克蘭已與相關措施保持一致。"
-    },
-    {
-      "id": "te:markets:576138",
-      "time": "2026-08-18 20:25:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Telecom Italia Stock Price Hits 4-week High — Telecom Italia shares increased to 7.72 EUR, the highest since July 2026. Over the past 4 weeks, Telecom Italia gained 0.7%, and in the last 12 months, it increased 1538.11%."
-    },
-    {
-      "id": "5046069",
-      "time": "2026-08-18 20:25:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞瑪芬體育：始祖鳥與迪克體育用品達成全新合作。"
-    },
-    {
-      "id": "5046068",
-      "time": "2026-08-18 20:23:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【利亞德：累計收到美國關稅退稅約1655.98萬美元】利亞德公告，公司合併範圍內子公司於近期陸續收到美國關稅退回款項，截至目前已累計收到美國關稅及利息退回合計1655.98萬美元（其中關稅16,035,950.66美元、利息523,879.16美元），按2026年8月18日匯率折算約1.12億元人民幣。本次退稅無需追溯調整以前年度財務報表，但對2026年經營業績的具體影響金額尚待確認。"
-    },
-    {
-      "id": "mkt:01a014d3-9630-7aab-9079-c36fed7c4f7c",
-      "time": "2026-08-18 20:23:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "EU foreign policy chief said Albania, Bosnia and Herzegovina, Iceland, Liechtenstein, Montenegro, North Macedonia, Norway and Ukraine have aligned with the relevant measures."
-    },
-    {
-      "id": "5046067",
-      "time": "2026-08-18 20:23:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兔寶寶：2026年上半年營收4.27億元 淨利同比降7.67%】兔寶寶公告稱，2026年上半年實現營業收入42.67億元，同比增長17.40%；歸屬於上市公司股東的淨利潤2.47億元，同比下降7.67%。公司董事會審議透過利潤分配預案，以權益分派實施時股權登記日總股本扣除回購賬戶股數後的股本為基數，向全體股東每10股派發現金紅利1.20元（含稅），不送紅股，不以公積金轉增股本。報告期末公司回購專用證券賬戶持股比例為1.28%，持有普通股1063.34萬股。"
-    },
-    {
-      "id": "5046066",
-      "time": "2026-08-18 20:23:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英特集團與杭州人保達成戰略合作】據英特集團訊息，8月18日，英特集團與杭州人保舉行戰略合作簽約儀式，聯合推出省內專屬特藥商業保險——“英特-人保‘藥’康保”。“藥”康保聚焦使用者核心需求，遴選高價值品種，打造可落地的商保解決方案。首期覆蓋45個品種，涉及恆瑞、諾華、阿斯利康等30餘家藥企，覆蓋肺癌、乳腺癌、胃癌等10餘種高發癌種，另包含視神經脊髓炎、神經母細胞瘤等罕見病用藥。"
     }
   ]
 }
