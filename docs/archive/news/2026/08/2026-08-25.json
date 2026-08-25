@@ -1,7 +1,79 @@
 {
   "date": "2026-08-25",
-  "count": 3289,
+  "count": 3297,
   "items": [
+    {
+      "id": "5058340",
+      "time": "2026-08-25 23:25:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列外交部長：荷蘭方面的代表將被立即逐出位於基里亞特加特的加沙國際支援中心。"
+    },
+    {
+      "id": "te:markets:578008",
+      "time": "2026-08-25 23:25:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Namibia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Namibia Hit 20-month High — NSX Overall increased to 2464.00 Index Points, the highest since December 2024. Over the past 4 weeks, Namibia Overall Index gained 5.75%, and in the last 12 months, it increased 34.37%."
+    },
+    {
+      "id": "5058339",
+      "time": "2026-08-25 23:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿富汗賈拉拉巴德東北偏北4公里處發生4.9級地震。"
+    },
+    {
+      "id": "5058338",
+      "time": "2026-08-25 23:23:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報，俄武裝部隊打擊了尤日內港兩艘向烏克蘭運送軍用物資的貨輪，以及四處存放烏克蘭武裝部隊軍用裝備的倉儲設施。"
+    },
+    {
+      "id": "mkt:01a03984-89a3-7aab-9116-211e2e5412ef",
+      "time": "2026-08-25 23:23:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Sources: Iran seeks to relay Hormuz negotiation terms to US via Pakistan】A source close to Iran's negotiating team said on the 25th (local time) that Iran wants Pakistan to convey its position and negotiating terms on the Strait of Hormuz to the United States. The source said Iran met Pakistan Army chief Munir on the 24th and set out those positions. Iran's conditions include US compliance with an Islamabad memorandum of understanding and implementation of its clause five, which concerns arrangements for Iranian management of the Strait of Hormuz. Pakistan is seeking to pass those conditions to the US, the source added."
+    },
+    {
+      "id": "5058337",
+      "time": "2026-08-25 23:22:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列對加沙北部傑巴利耶發動空襲。"
+    },
+    {
+      "id": "5058336",
+      "time": "2026-08-25 23:22:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總統施泰因邁爾：即便我們長期不願承認，德國早已是一個受移民塑造的社會。最晚從上世紀50年代末、60年代德國與南歐國家以及土耳其簽訂勞工招募協議開始，事實便是如此。我國長期向好的強勁經濟吸引了來自世界各地的人們。而真相是，我們當中很多崗位離不開這些外來人口。"
+    },
+    {
+      "id": "5058335",
+      "time": "2026-08-25 23:21:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【訊息人士：伊朗希望透過巴基斯坦向美方轉達談判條件】據伊朗方面當地時間25日訊息，一名接近伊朗談判團隊的訊息人士表示，伊方希望透過巴基斯坦向美方明確轉達有關霍爾木茲海峽的立場和談判條件。這名訊息人士說，伊朗方面24日同到訪的巴陸軍參謀長穆尼爾會晤時，已向巴方明確闡述有關立場。伊方提出的條件包括美國遵守伊斯蘭堡諒解備忘錄並履行相關條款，其中第五條涉及有關伊朗對霍爾木茲海峽管理安排的內容。（央視新聞）"
+    },
     {
       "id": "te:economy:578007",
       "time": "2026-08-25 23:21:22",
