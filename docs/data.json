@@ -1,7 +1,397 @@
 {
-  "updated": "2026-08-26 02:07:19",
-  "count": 16542,
+  "updated": "2026-08-26 02:43:53",
+  "count": 16538,
   "items": [
+    {
+      "id": "mkt:01a03a39-928a-7aab-9119-0f16b191819d",
+      "time": "2026-08-26 02:40:46",
+      "tags": [
+        "MKT News",
+        "NOC.O",
+        "Impact bullish"
+      ],
+      "text": "Northrop Grumman said the US Iron Dome missile-defense program is accelerating and the company expects to win a substantial share of the work."
+    },
+    {
+      "id": "mkt:01a03a37-787e-7aab-9119-02f8f917bb91",
+      "time": "2026-08-26 02:38:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK chancellor said he supports US efforts to pursue a diplomatic solution and welcomes stepped-up pressure on Iran, including \"economic isolation\"."
+    },
+    {
+      "id": "5058458",
+      "time": "2026-08-26 02:37:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "財捷集團股價成交量激增後下挫，最新股價下跌3.1%。"
+    },
+    {
+      "id": "5058457",
+      "time": "2026-08-26 02:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國財政大臣就伊朗問題表態：支援美國尋求外交解決方案的工作；對包括“經濟孤立行動”在內的施壓升級舉措表示歡迎。"
+    },
+    {
+      "id": "5058456",
+      "time": "2026-08-26 02:36:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國財政大臣談伊朗制裁：呼籲伊朗停止其在包括霍爾木茲海峽在內的整個地區的破壞穩定活動。"
+    },
+    {
+      "id": "mkt:01a03a35-85db-7aab-9118-ff1dae45df66",
+      "time": "2026-08-26 02:36:21",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Chancellor of the Exchequer, on Iran sanctions, urged Iran to cease disruptive activities in the region, including in the Strait of Hormuz."
+    },
+    {
+      "id": "5058455",
+      "time": "2026-08-26 02:36:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：鄉村音樂歌手多莉·帕頓剛剛離世。自今晚6點起，全美範圍內降半旗，為期一週。"
+    },
+    {
+      "id": "mkt:01a03a34-6090-7aab-9118-f7fc35bb7458",
+      "time": "2026-08-26 02:35:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuba condemns US extension of economic embargo】Cuban Foreign Minister Rodriguez on the 25th condemned the US government’s decision to extend the application of the Trading with the Enemy Act to Cuba, in force since 1962, for another year. Via social media he said: \"Cuba condemns in the strongest terms the US government's one-year extension of the economic, commercial and financial blockade; this genocidal policy against our people has lasted more than 60 years.\" He added: \"Cuba is not the threat; the blockade is.\""
+    },
+    {
+      "id": "5058454",
+      "time": "2026-08-26 02:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴譴責美國延長對古實施經濟封鎖】古巴外交部長羅德里格斯25日譴責美國政府再次延長從1962年開始對古巴實施的《對敵貿易法》期限。羅德里格斯透過社交媒體表示：“古巴以最強烈的措辭譴責美國政府將經濟、商業和金融封鎖再延長一年，這一針對我國人民的種族滅絕政策已持續超過六十年。”他還表示，“古巴不是威脅，封鎖才是”。（新華社）"
+    },
+    {
+      "id": "5058453",
+      "time": "2026-08-26 02:34:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊與巴基斯坦陸軍參謀長穆尼爾元帥於週二通電話，就最新地區局勢以及雙方共同關切的議題展開磋商。"
+    },
+    {
+      "id": "5058452",
+      "time": "2026-08-26 02:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿曼外交大臣稱有望很快宣佈霍爾木茲海峽臨時航道安排】當地時間25日，阿曼外交大臣巴德爾在訪問伊朗時表示，阿曼和伊朗有望很快宣佈關於霍爾木茲海峽臨時航道以及恢復海峽安全通航的具體安排。"
+    },
+    {
+      "id": "mkt:01a03a32-d0a6-7aab-9118-eb41d09540dc",
+      "time": "2026-08-26 02:33:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Oman says Iran, Oman to announce temporary Strait of Hormuz corridor arrangements soon】On the 25th, Oman's foreign minister Badr, visiting Tehran, said Oman and Iran expect to announce shortly specific arrangements for a temporary Strait of Hormuz maritime corridor and measures to restore safe navigation. He wrote that he held a \"constructive dialogue\" with Iran's foreign minister and said discussions on future management and a permanent solution will continue at a later stage under Article 5 of the Islamabad Memorandum of Understanding. Badr added Oman and Iran will consult regional partners to promote peace, cooperation, regional stability and freedom of navigation. Earlier on the same day Iran and Oman issued a joint statement proposing a jointly agreed secure maritime corridor in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a03a31-11f2-7aab-9118-e0b300a063b0",
+      "time": "2026-08-26 02:31:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude oil (WTI) futures settled at $82.36/barrel, down $2.65 or 3.12%."
+    },
+    {
+      "id": "mkt:01a03a31-04cf-7aab-9118-de61bcdff950",
+      "time": "2026-08-26 02:31:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【NVIDIA earnings preview: market expects more than beats, wants growth roadmap】A Franklin Templeton portfolio manager said NVIDIA investors will want more than an earnings beat: they need concrete detail on capital deployment, sustained spending plans and a clear growth roadmap. She pegs NVIDIA’s 12‑month forward P/E at about 21x and says the market is already pricing slower growth, shifting focus to next year. NVIDIA must show earnings growth to justify free cash flow for investment and buybacks. The manager flagged NVIDIA’s roughly 75% gross margin as unusually high for a hardware company and said margins will be closely watched as input costs rise. NVIDIA is raising prices to offset higher memory costs; earlier reports said servers based on the Vera Rubin and Grace Blackwell architectures could see price increases of more than 15% in early 2027."
+    },
+    {
+      "id": "mkt:01a03a30-fc63-7aab-9118-d15491ff6dda",
+      "time": "2026-08-26 02:31:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main-contract close】At the 02:30 night-session close, SHFE gold front-month contract fell 0.26% to 1,006 yuan/gram; SHFE silver front-month contract fell 0.14% to 16,751 yuan/kg; Shanghai crude (SC) front-month contract fell 3.80% to 569 yuan/barrel."
+    },
+    {
+      "id": "5058451",
+      "time": "2026-08-26 02:30:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶82.36美元，下跌2.65美元，跌幅3.12%。"
+    },
+    {
+      "id": "mkt:01a03a30-86da-7aab-9118-cafdc1f04c08",
+      "time": "2026-08-26 02:30:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.11% at 1,003.39 yuan/gram in the evening session on Tuesday, Aug. 25; silver T+D closed up 0.72% at 16,749.0 yuan/kg."
+    },
+    {
+      "id": "5058450",
+      "time": "2026-08-26 02:30:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國FDA批准雅培可同時監測血糖與酮體的連續監測裝置】美國食品藥品監督管理局（FDA）向雅培旗下雅培糖尿病護理公司授予Libre Duo 10天雙引數葡萄糖‑酮體連續監測系統上市許可。這是美國首款可同時持續追蹤酮體與血糖水平的可穿戴裝置。Libre Duo 10天版獲批用於2歲及以上糖尿病患者。該裝置每分鐘檢測酮體與血糖數值，並向智慧手機傳送無線告警。共有6項臨床試驗、超600名受試者，為本次獲批提供資料支撐。FDA此前授予該裝置“突破性器械”認定，以加快審評流程。本次獲批透過De Novo上市前置通道完成，該通道適用於全新型別的中低風險醫療器械。"
+    },
+    {
+      "id": "5058449",
+      "time": "2026-08-26 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.80%，報569.30元人民幣/桶。滬金夜盤收跌0.26%，滬銀收跌0.14%。"
+    },
+    {
+      "id": "5058448",
+      "time": "2026-08-26 02:29:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局批准首款可同時持續監測酮體水平和血糖的可穿戴裝置。"
+    },
+    {
+      "id": "mkt:01a03a2e-24e3-7aab-9118-c7116e7c2fc1",
+      "time": "2026-08-26 02:28:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Market sources: US Democrats urged Fed Chair Kevin Warsh to maintain the FOMC's schedule of eight meetings per year."
+    },
+    {
+      "id": "5058447",
+      "time": "2026-08-26 02:27:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子能源公司：計劃對工業業務進行去合併處理，同時保留具有重要意義的少數股權，以支援該業務的持續發展。"
+    },
+    {
+      "id": "5058446",
+      "time": "2026-08-26 02:27:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子能源正著手籌備工業業務板塊轉型，計劃將其打造為一家獨立公司。"
+    },
+    {
+      "id": "5058445",
+      "time": "2026-08-26 02:26:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨人敦促沃什維持聯邦公開市場委員會每年8次會議的日程安排。"
+    },
+    {
+      "id": "te:markets:578031",
+      "time": "2026-08-26 02:25:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Canola Rises by 2.64% — Top commodity gainers are Canola (2.64%), Rapeseed (2.11%) and Corn (1.89%). Biggest losers are Sugar (-2.27%) and Coffee (-1.99%)."
+    },
+    {
+      "id": "5058444",
+      "time": "2026-08-26 02:22:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國對伊朗發起經濟攻勢 專家：作用有限且或“反噬”美國】當地時間24日，美國財政部長貝森特宣佈，美國當天發起對伊朗“經濟孤立”的新一輪制裁措施。美國從當天起把對伊朗經濟制裁範圍擴大到航空、數字資產、黃金、航運和技術行業5個領域。對此，伊朗經濟和財政部長馬達尼扎德當天回應稱，伊朗政府已為應對新一輪制裁做好充分準備。馬達尼扎德同時警告，美國若採取任何行動，就應該做好遭到伊朗反擊的準備。分析認為，美國宣佈對伊朗實施新一輪的制裁措施可能作用有限，美國難以藉此實現其所謂目的，迫使伊朗接受美國的條件，而新的制裁措施還可能在政治、經濟等多個方面“反噬”美國自身。"
+    },
+    {
+      "id": "mkt:01a03a28-0a68-7aab-9118-bb4b5e509d05",
+      "time": "2026-08-26 02:21:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed July discount-rate minutes: two Reserve Banks sought hikes】The Fed's July discount-rate minutes show 10 Reserve Banks recommended keeping the primary credit rate unchanged and two—Cleveland and Minneapolis—voted to raise it from 3.75% to 4.00%. The Federal Reserve Board approved holding the primary credit rate at 3.75% and kept the existing formulas for secondary and seasonal credit rates. Several Board members described economic conditions as broadly stable, while some noted inflation remains elevated, consumer price concerns are rising, and fuel and other surcharges have increased amid global events."
+    },
+    {
+      "id": "5058443",
+      "time": "2026-08-26 02:20:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署：調價將覆蓋優先快遞郵件（PME）、優先郵件（PM）、USPS陸運優勢服務和甄選包裹業務。"
+    },
+    {
+      "id": "te:markets:578030",
+      "time": "2026-08-26 02:20:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.18% — Top commodity losers are Lithium Carbonate (-2.18%), Platinum (-1.33%) and Gold (-0.07%). Gains are led by Copper (1.47%) and Silicon (0.52%)."
+    },
+    {
+      "id": "5058442",
+      "time": "2026-08-26 02:17:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪爾公司股價隨成交量激增下挫，最新報跌3.0%。"
+    },
+    {
+      "id": "5058441",
+      "time": "2026-08-26 02:17:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署：節假日臨時費率將於2026年10月4日至2027年1月17日生效，尚待美國郵政監管委員會稽核批准。"
+    },
+    {
+      "id": "5058440",
+      "time": "2026-08-26 02:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署申請2026年假日貨運季臨時提價。"
+    },
+    {
+      "id": "te:markets:578029",
+      "time": "2026-08-26 02:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Drops by 4.16% — Top commodity losers are Brent Crude Oil (-4.16%), Natural Gas UK (-4%) and Crude Oil WTI (-3.28%). Gains are led by Coking Coal (0.97%) and Methanol (0.68%)."
+    },
+    {
+      "id": "5058439",
+      "time": "2026-08-26 02:14:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿拉斯加航空集團股價成交量激增，股價上漲，最新漲幅為3.2%。"
+    },
+    {
+      "id": "te:markets:578028",
+      "time": "2026-08-26 02:14:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 4-week High — Soybeans increased to 1228.00 USd/Bu, the highest since July 2026. Over the past 4 weeks, Soybeans gained 1.53%, and in the last 12 months, it increased 19.27%."
+    },
+    {
+      "id": "5058438",
+      "time": "2026-08-26 02:12:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【會議紀要顯示，四家美聯儲分行董事會希望加息】週二公佈的美聯儲貼現利率會議紀要顯示，在美聯儲7月議息會議召開前，12家聯邦儲備銀行中有四家銀行的董事投票提議提高商業銀行緊急貸款的利率。美聯儲政策制定者在7月28‑29日的會議上以9票贊成、3票反對的結果決定維持政策利率不變，上述加息提議遭到否決。這一情況也讓外界得以進一步窺見該決議背後存在較大意見分歧。"
+    },
+    {
+      "id": "mkt:01a03a1e-33dd-7aab-9118-b0e06a68e1f4",
+      "time": "2026-08-26 02:10:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Nikkei reports Japan is seeking to fund rare-earth mining projects with long-term technical support."
+    },
+    {
+      "id": "5058437",
+      "time": "2026-08-26 02:08:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本計劃依託長期技術支援，為稀土開採專案提供資金。"
+    },
+    {
+      "id": "mkt:01a03a1b-c2c1-7aab-9118-ac6db5410401",
+      "time": "2026-08-26 02:08:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed minutes on the discount rate show four of the 12 regional Federal Reserve banks voted in July to raise the discount rate."
+    },
     {
       "id": "5058436",
       "time": "2026-08-26 02:06:02",
@@ -149215,404 +149605,6 @@
         "公司"
       ],
       "text": "OpenAI執行長Sam Altman：我們已暫停部分前沿模型強化學習訓練，以確保能夠針對當前全新能力水平，達到相應的對齊、安全與監控標準。模型迭代如今發展極快，我們此前便表態過，一旦認為模型能力的發展超出安全與對齊工作的推進速度，就會採取行動。\n我們高度重視人工智慧安全。我們認為整個行業必須就通用安全標準開展協同，但在此期間我們也會採取單邊行動。\n我們預計，安全層面的信心將愈發決定人工智慧的發展節奏。我們對正在開展的對齊工作持樂觀態度，同時依舊致力於讓前沿技術能力得到廣泛應用。"
-    },
-    {
-      "id": "5046421",
-      "time": "2026-08-19 02:43:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會：相關措施旨在消除國內加密資產市場中負責任資本形成與創新面臨的阻礙。"
-    },
-    {
-      "id": "mkt:01a0162e-706d-7aab-9080-a877f51e8ca3",
-      "time": "2026-08-19 02:42:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Insiders say the US has lowered expectations that a US-Canada trade agreement will be reached on Tuesday. President Trump and Canadian Prime Minister Carney are expected to speak again on Tuesday."
-    },
-    {
-      "id": "5046420",
-      "time": "2026-08-19 02:42:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍持續打擊加沙地帶 巴方稱襲擊致多人死傷】以色列國防軍18日發表多份宣告稱，持續對加沙地帶巴勒斯坦武裝人員發動打擊。巴方衛生部門當天也發表宣告表示，以軍在加沙城西部港口區發動的空襲導致20人死傷。以軍在宣告中稱，當天對身處加沙地帶沙提地區的“數名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）指揮官發動打擊”，具體目標是哈馬斯“努赫巴”部隊的一次會議。巴勒斯坦加沙地帶衛生部門同日發表宣告說，以軍在加沙城西部港口區發動空襲，導致包括一名兒童在內的6人死亡、14人受傷。另據加沙城希法醫院訊息人士和當地目擊者稱，以軍襲擊的是港口區一家咖啡館。由於爆炸威力巨大，一些遇難者的遺體落入海中。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a0162c-d0b8-7aab-9080-a794bb6fe418",
-      "time": "2026-08-19 02:40:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The International Criminal Court said its position is firm and unwavering and that it resolutely supports its staff."
-    },
-    {
-      "id": "mkt:01a0162c-7de7-7aab-9080-9bb3fd231de8",
-      "time": "2026-08-19 02:40:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "International Criminal Court said US measures targeting judges, prosecutors and staff carrying out ICC duties undermine the rule of law."
-    },
-    {
-      "id": "5046419",
-      "time": "2026-08-19 02:39:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "知情人士：特朗普與卡尼預計將於週二再次會談。"
-    },
-    {
-      "id": "5046418",
-      "time": "2026-08-19 02:38:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國週二淡化了與加拿大達成貿易協議的預期。"
-    },
-    {
-      "id": "mkt:01a0162a-6402-7aab-9080-93c089c2bb95",
-      "time": "2026-08-19 02:37:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bolivia's congress passed a censure motion against the economy minister, forcing his resignation."
-    },
-    {
-      "id": "5046417",
-      "time": "2026-08-19 02:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "玻利維亞國會投票透過對經濟部長的譴責決議，迫使其卸任。"
-    },
-    {
-      "id": "5046416",
-      "time": "2026-08-19 02:37:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧同哥倫比亞總統就美方支援事宜舉行會談。"
-    },
-    {
-      "id": "5046415",
-      "time": "2026-08-19 02:36:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會發布數字資產監管提案。"
-    },
-    {
-      "id": "mkt:01a01627-ccfb-7aab-9080-8fbee777f3f1",
-      "time": "2026-08-19 02:35:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran security official says US rebuffed at Strait of Hormuz; Persian Gulf entering 'post‑American era'】Rezai, secretary of Iran’s Supreme National Security Council, said Washington cannot reopen the Strait of Hormuz, exposing a gap between US claims of control and its actual capability and marking the start of a Persian Gulf “post‑American order.” He wrote the gap “is greater than the 7,000‑mile distance between Washington and the Strait” and added “welcome to the Persian Gulf’s ‘post‑American order’” and “some dreams are too far from reality.” The remarks followed a social‑media image posted by US President Trump that labeled the Strait of Hormuz “US new territory.”"
-    },
-    {
-      "id": "mkt:01a01625-2134-7aab-9080-87a70a92f3d4",
-      "time": "2026-08-19 02:32:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Major eastern Belgium wildfire preliminarily contained】A wildfire that started on the 14th in eastern Belgium has been preliminarily contained, the Liège provincial governor's office said on the 18th; about 3,000 hectares burned. The fire occurred in a nature reserve with peat wetlands, so underground smouldering may persist; fire services have reinforced ground firefighting resources."
-    },
-    {
-      "id": "mkt:01a01624-6aca-7aab-9080-7cdd505fde81",
-      "time": "2026-08-19 02:31:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.95% to 949 yuan/gram, Shanghai silver main contract fell 2.95% to 15,620 yuan/kg, and SC crude oil main contract rose 0.85% to 580 yuan/barrel."
-    },
-    {
-      "id": "mkt:01a01624-25fa-7aab-9080-7125d5c6c1cd",
-      "time": "2026-08-19 02:31:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $84.94/bbl, up $0.44, or 0.52%."
-    },
-    {
-      "id": "5046414",
-      "time": "2026-08-19 02:31:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 9月原油期貨收報84.94美元/桶。NYMEX 9月天然氣期貨收報2.7760美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.3017美元/加侖，NYMEX 9月取暖油期貨收報4.4501美元/加侖。"
-    },
-    {
-      "id": "mkt:01a01623-dd4f-7aab-9080-6aadfa48175c",
-      "time": "2026-08-19 02:30:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange: Gold T+D closed down 0.91% at 945.5 yuan/gram in the evening session on Aug 18 (Tue); Silver T+D closed down 2.63% at 15,576 yuan/kg."
-    },
-    {
-      "id": "5046413",
-      "time": "2026-08-19 02:30:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比利時東部大規模野火初步得到控制】比利時東部地區本月14日發生野火。比利時列日省省長辦公室18日通報稱，目前野火已初步得到控制，過火面積約3000公頃。由於發生野火的自然保護區內分佈著泥炭溼地，地下火可能持續陰燃。消防部門已加強地面消防力量。通報還表示，兩名消防員在滅火過程中受傷，目前情況穩定。（央視新聞）"
-    },
-    {
-      "id": "5046412",
-      "time": "2026-08-19 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲0.85%，報580.30元人民幣/桶。滬金夜盤收跌0.95%，滬銀收跌2.95%。"
-    },
-    {
-      "id": "mkt:01a01622-20e1-7aab-9080-6416b800ab95",
-      "time": "2026-08-19 02:28:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Air-raid sirens sounded in Kyiv and several Ukrainian regions."
-    },
-    {
-      "id": "5046411",
-      "time": "2026-08-19 02:28:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔及多個地區釋出空襲警報。"
-    },
-    {
-      "id": "5046410",
-      "time": "2026-08-19 02:27:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：鑑於法國駐德黑蘭大使館兩名官員存在違反國際法的行為，外交部將此二人列為不受歡迎人員，禁止其進入伊朗境內。"
-    },
-    {
-      "id": "te:markets:576224",
-      "time": "2026-08-19 02:25:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Gains by 4.31% — Top commodity gainers are Coffee (4.31%), Sugar (3.62%) and Rubber (1.77%). Biggest losers are Canola (-2.56%), Cocoa (-2.39%) and Wheat (-1.72%)."
-    },
-    {
-      "id": "te:markets:576223",
-      "time": "2026-08-19 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 3.46% — Top commodity losers are Platinum (-3.46%), Silver (-2.91%), Copper (-2.07%) and Gold (-1.29%). Gains are led by Iron Ore CNY (1.06%) and Steel Rebar (0.70%)."
-    },
-    {
-      "id": "5046409",
-      "time": "2026-08-19 02:19:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯黑海港口附近至少五艘糧船遇襲 糧食供應風險升溫】知情人士透露，在俄羅斯因烏克蘭襲擊升級而艱難維持糧食出口之際，至少有五艘糧船在俄羅斯黑海港口新羅西斯克和圖阿普謝附近遭到襲擊。俄羅斯和烏克蘭加大了對黑海地區商船和港口的相互攻擊，引發對全球糧食供應的擔憂。兩國合計佔全球小麥出口逾四分之一，而襲擊發生之際正值今年糧食收穫季。這是首次有訊息證實，服務於受影響俄羅斯港口的糧船遭到襲擊。隨著越來越多船東擔憂停靠俄羅斯港口存在風險，莫斯科一直試圖淡化襲擊造成的影響。"
-    },
-    {
-      "id": "mkt:01a01617-8f4d-7aab-9080-5a417c1c9a8e",
-      "time": "2026-08-19 02:17:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran parliament speaker Ghalibaf lashes US officials, says BESSENT, Hegseth \"completely beyond their capabilities\"】Ghalibaf said on social media that US Treasury Secretary BESSENT and US Defense Secretary Hegseth were \"completely beyond their capabilities\" and accused Washington of assuming greater pressure would extract concessions that were never part of the deal. He said the Strait of Hormuz will remain closed until Washington meets Iran's conditions."
-    },
-    {
-      "id": "mkt:01a01617-8bdc-7aab-9080-5216195b62a8",
-      "time": "2026-08-19 02:17:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israeli forces continue strikes on Gaza; Palestinian health ministry reports 6 dead, 14 wounded】On the 18th the Israel Defense Forces said it continued strikes in the Gaza Strip, saying it struck several Hamas commanders in the Shati area and targeted a Nukhba unit meeting. The Palestinian health ministry said an airstrike on Gaza City's western port area killed six people, including a child, and wounded 14 (20 casualties total)."
-    },
-    {
-      "id": "5046408",
-      "time": "2026-08-19 02:16:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國天然氣期貨日內漲超3.00%，現報2.771美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:01a01616-bcc9-7aab-9080-4dc7f1e1b5b9",
-      "time": "2026-08-19 02:16:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures rose over 3% intraday to $2.771/MMBtu."
-    },
-    {
-      "id": "te:markets:576222",
-      "time": "2026-08-19 02:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Gains by 3.81% — Top commodity gainers are Natural Gas EU (3.81%), Natural Gas UK (3.40%), Germany Natural Gas THE (3.19%) and Crude Oil WTI (0.37%). Biggest loser is Ethanol (-0.74%). Meanwhile Brent Crude Oil was little changed."
-    },
-    {
-      "id": "mkt:01a01615-68f1-7aab-9080-456988d5d3da",
-      "time": "2026-08-19 02:14:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Liberia has agreed to accept up to 1,200 third-country nationals deported from the United States, according to a statement."
-    },
-    {
-      "id": "mkt:01a01614-a1b0-7aab-9080-3aeb04024124",
-      "time": "2026-08-19 02:14:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said frontier reinforcement-learning training in its largest-scale program remains paused pending completion of safety verification."
-    },
-    {
-      "id": "mkt:01a01614-312a-7aab-9080-322bf398c023",
-      "time": "2026-08-19 02:13:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI will temporarily slow its expansion, including a two-week pause in reinforcement-learning training on newly deployed models."
-    },
-    {
-      "id": "5046407",
-      "time": "2026-08-19 02:12:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：規模最大的既定前沿模型強化學習訓練任務仍處於暫停狀態，等待安全驗證完成。"
-    },
-    {
-      "id": "5046406",
-      "time": "2026-08-19 02:12:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：葉門親政府武裝稱，沙卜瓦省東南部發生無人機襲擊，多名胡塞武裝人員身亡，多輛軍用車輛被毀。"
-    },
-    {
-      "id": "mkt:01a01612-a879-7aab-9080-29463acf550e",
-      "time": "2026-08-19 02:11:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hamas said the group and Palestinian factions remain committed to advancing the agreement."
-    },
-    {
-      "id": "5046405",
-      "time": "2026-08-19 02:11:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：暫時放緩模型擴容節奏，其中包括暫停兩週對擬上線最新模型的強化學習訓練。"
-    },
-    {
-      "id": "mkt:01a01612-5124-7aab-9080-21cb282c6765",
-      "time": "2026-08-19 02:11:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Hamas said recent Israeli strikes in Gaza indicate Netanyahu is attempting to \"deliberately sabotage negotiations and undermine\" regional and international efforts to advance Trump's plan."
-    },
-    {
-      "id": "mkt:01a01611-633b-7aab-9080-19a17b4971d5",
-      "time": "2026-08-19 02:10:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said it has paused inference of Frontier models capable of executing code in its research cluster following the Hugging Face incident."
-    },
-    {
-      "id": "5046404",
-      "time": "2026-08-19 02:10:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：在 Hugging‑Face 事件發生後，我們立刻暫停了研究叢集中可能執行程式碼的前沿模型推理任務。"
-    },
-    {
-      "id": "5046403",
-      "time": "2026-08-19 02:09:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯表示，以色列近期對加沙發動的襲擊表明，內塔尼亞胡企圖 “蓄意破壞談判”，並阻撓地區及國際社會為推進特朗普方案所做的努力。"
-    },
-    {
-      "id": "mkt:01a0160f-5446-7aab-9080-10b075d4728a",
-      "time": "2026-08-19 02:08:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, OpenAI is rewriting its primary safety documentation following an incident involving Hugging Face."
-    },
-    {
-      "id": "5046402",
-      "time": "2026-08-19 02:07:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國外交部長：兩名伊朗外交官將於未來數日內被驅逐出境。"
     }
   ]
 }
