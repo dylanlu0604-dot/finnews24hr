@@ -1,7 +1,61 @@
 {
   "date": "2026-08-26",
-  "count": 232,
+  "count": 238,
   "items": [
+    {
+      "id": "5058495",
+      "time": "2026-08-26 04:01:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌5%，現報86.01美元/桶。"
+    },
+    {
+      "id": "mkt:01a03a83-1cfd-7aab-9119-e15d0de64747",
+      "time": "2026-08-26 04:01:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says Strait of Hormuz will not reopen immediately; temporary bilateral corridor to be finalised in 30–60 days】Iran’s deputy foreign minister said a memorandum with Oman on the Strait of Hormuz does not mean the waterway will reopen tomorrow. Under the accord, inbound and outbound routes to the Persian Gulf will run through Iranian and Omani waters respectively in a temporary two-way corridor about 7 nautical miles wide. He said the strait has become a national security issue, that vessels have mainly used Omani waters over the past 58 years and Iran has suffered serious damage, and that Tehran and Muscat will negotiate a permanent route within 30–60 days."
+    },
+    {
+      "id": "5058494",
+      "time": "2026-08-26 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.30%，標普500指數漲0.32%，納指漲0.66%。Moderna漲14.36%，超微電腦漲9.35%，羅賓漢漲8.17%，CDW Corporation漲7.74%，Lumentum Holdings Inc.漲6.67%，Reddit漲6.33%。“七姐妹”方面：英偉達漲2.19%，Meta Platforms漲1.97%，微軟漲0.90%，特斯拉漲0.37%，蘋果跌0.14%，谷歌跌0.36%，亞馬遜跌0.39%。"
+    },
+    {
+      "id": "5058493",
+      "time": "2026-08-26 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.10%】世紀互聯漲6.26%，海川證券漲5.73%，BOSS直聘漲5.28%，巨龍線上漲4.76%，網易漲4.70%。"
+    },
+    {
+      "id": "5058492",
+      "time": "2026-08-26 03:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦軍方訊息源與伊朗安全部門訊息人士向俄新社透露，華盛頓與德黑蘭已達成停火協議。"
+    },
+    {
+      "id": "5058491",
+      "time": "2026-08-26 03:57:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加里巴巴迪：霍爾木茲海峽南部航道將關閉】伊朗副外長加里巴巴迪：霍爾木茲海峽南部航道將會關閉，此事已達成共識。阿曼同意關閉該航道，相關事宜將通報國際海事組織。伊朗與阿曼將就霍爾木茲海峽未來管理事宜開啟談判，擬定聯合安排大約需要 60 天時間。倘若伊朗的訴求得不到滿足，霍爾木茲海峽將持續處於關閉狀態。"
+    },
     {
       "id": "mkt:01a03a7f-0b08-7aab-9119-de7a13ff169a",
       "time": "2026-08-26 03:56:39",
