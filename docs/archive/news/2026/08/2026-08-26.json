@@ -1,7 +1,76 @@
 {
   "date": "2026-08-26",
-  "count": 209,
+  "count": 216,
   "items": [
+    {
+      "id": "mkt:01a03a5e-1b2c-7aab-9119-a03bf6c0bf01",
+      "time": "2026-08-26 03:20:40",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Sources say ECB policymakers are prepared to raise rates in September to curb spillovers from the Iran war, but they appear reluctant to signal further tightening."
+    },
+    {
+      "id": "mkt:01a03a5d-9275-7aab-9119-9c868e9e74c3",
+      "time": "2026-08-26 03:20:05",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.09% on 25th】The dollar index, which measures the US dollar against six major currencies, fell 0.09% to 98.915 at the New York close on the 25th. EURUSD 1.1674, up from 1.1663; GBPUSD 1.3646, up from 1.3631; USDJPY 159.22, up from 159.19; USDCHF 0.8020, down from 0.8026; USDCAD 1.3830, down from 1.3850; USDSEK 9.4659, down from 9.4973."
+    },
+    {
+      "id": "5058481",
+      "time": "2026-08-26 03:20:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：歐洲央行政策制定者無意釋放進一步收緊貨幣政策的訊號。"
+    },
+    {
+      "id": "5058480",
+      "time": "2026-08-26 03:19:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數25日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.09%，在匯市尾市收於98.915。截至紐約匯市尾市，1歐元兌換1.1674美元，高於前一交易日的1.1663美元；1英鎊兌換1.3646美元，高於前一交易日的1.3631美元。1美元兌換159.22日元，高於前一交易日的159.19日元；1美元兌換0.8020瑞士法郎，低於前一交易日的0.8026瑞士法郎；1美元兌換1.3830加元，低於前一交易日的1.3850加元；1美元兌換9.4659瑞典克朗，低於前一交易日的9.4973瑞典克朗。"
+    },
+    {
+      "id": "5058479",
+      "time": "2026-08-26 03:19:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "訊息人士：歐洲央行政策制定者準備 9 月加息，以遏制伊朗衝突帶來的連鎖負面影響。"
+    },
+    {
+      "id": "mkt:01a03a5c-77d6-7aab-9119-94f468f17aa8",
+      "time": "2026-08-26 03:18:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Wall Street Journal reports OpenAI's head of data centers has left."
+    },
+    {
+      "id": "5058478",
+      "time": "2026-08-26 03:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI資料中心主管Chris Malone已經離職。"
+    },
     {
       "id": "mkt:01a03a55-8785-7aab-9119-88c5f25ddc71",
       "time": "2026-08-26 03:11:18",
