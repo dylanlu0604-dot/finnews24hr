@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-26 04:20:02",
-  "count": 16522,
+  "updated": "2026-08-26 04:24:04",
+  "count": 16525,
   "items": [
+    {
+      "id": "te:markets:578035",
+      "time": "2026-08-26 04:21:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Advances as Banks Gain — The S&P/TSX Composite Index rose 0.7% to close at 36,958 on Tuesday as investors weighed major bank earnings against new developments in the US-Canada trade dispute. Financials traded higher amid a busy week of quarterly results from major banks. BMO (+0.6%) reported higher third-quarter profit, driven by strong performance in its capital markets business, while Scotiabank (+7%) also posted stronger earnings, supported by higher interest income. RBC rose 1.4%, TD Bank added 2%, and CIBC gained 2.8% ahead of their results on Thursday. National Bank (+2.6%) is due to report on Wednesday. Miners also supported the index amid higher gold prices. Meanwhile, Canada will double its counter-tariffs on US steel and aluminum products to 50%. New 50% duties will also apply to US-made milk, furniture, clothing, video-game consoles, smartphones, and other electronics, affecting about C$20 billion in annual US exports to Canada."
+    },
+    {
+      "id": "mkt:01a03a95-b680-7aab-911a-38b7690bd44e",
+      "time": "2026-08-26 04:21:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【WTI falls below $80; reports say US and Iran agree on ceasefire terms】WTI crude fell below $80, extending intraday losses to 5.4%. Brent slid toward $85, down nearly 6% on the day. Russian media reported the US and Iran have reached consensus on terms of a ceasefire agreement."
+    },
+    {
+      "id": "mkt:01a03a95-2e0d-7aab-911a-35d84438e02d",
+      "time": "2026-08-26 04:20:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources: Brazilian government will extend gasoline subsidy until Sept. 9, local time."
+    },
+    {
+      "id": "5058507",
+      "time": "2026-08-26 04:20:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌6%，現報85.10美元/桶。"
+    },
+    {
+      "id": "5058506",
+      "time": "2026-08-26 04:20:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，巴西政府將汽油補貼延長至 9 月 9 日。"
+    },
+    {
+      "id": "mkt:01a03a94-8158-7aab-911a-286d21c252ca",
+      "time": "2026-08-26 04:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude inventories for the week to Aug. 21 are due in 10 minutes."
+    },
     {
       "id": "mkt:01a03a93-09cd-7aab-911a-23cae8c832f6",
       "time": "2026-08-26 04:18:29",
@@ -149433,36 +149497,6 @@
         "DXY"
       ],
       "text": "Israeli Prime Minister's Office said Syria, by allowing Turkish forces to deploy to an airbase near Aleppo, had \"come close\" to breaking the security status quo with Israel."
-    },
-    {
-      "id": "5046483",
-      "time": "2026-08-19 04:21:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4390美元/盎司，日內跌1.88%。"
-    },
-    {
-      "id": "5046482",
-      "time": "2026-08-19 04:20:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法庭檔案顯示，哈佛大學同意支付5300萬美元，就前停屍房主管盜竊遺體器官引發的家屬訴訟達成和解。"
-    },
-    {
-      "id": "mkt:01a01687-ffc3-7aab-9081-edda9395108d",
-      "time": "2026-08-19 04:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "U.S. API weekly crude inventories for the week to Aug. 14 due in 10 minutes."
     }
   ]
 }
