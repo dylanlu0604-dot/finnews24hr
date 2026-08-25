@@ -1,7 +1,113 @@
 {
   "date": "2026-08-26",
-  "count": 34,
+  "count": 46,
   "items": [
+    {
+      "id": "5058391",
+      "time": "2026-08-26 00:46:56",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長：我們將繼續切斷一切支撐伊朗的經濟命脈，直至德黑蘭陷入孤立。"
+    },
+    {
+      "id": "mkt:01a039c9-f424-7aab-9117-5324071ed1cc",
+      "time": "2026-08-26 00:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceX plans $100 bln Starship launch base in Louisiana】SpaceX plans to build a $100 bln Starship launch base on Pecan Island on Louisiana’s southern coast, its third Starship launch site. The site would cover about 125,000 acres and include five launch complexes, 10 pads, on‑site propellant production, power generation, vehicle processing and employee housing. SpaceX says the base will raise Starship launch cadence and support plans to deploy up to 1 million data‑center satellites; Starship will also launch upgraded Starlink satellites, with an orbital data‑center mission as early as 2027 and a NASA crewed lunar mission as early as 2028."
+    },
+    {
+      "id": "mkt:01a039c6-9118-7aab-9117-48b2b25e27f1",
+      "time": "2026-08-26 00:35:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran Energy Exchange: imported super gasoline latest traded at ~90,000 rials/l】Iran Energy Exchange announced a special gasoline pricing mechanism, saying the latest traded price for imported super gasoline is about 90,000 rials per liter. The exchange said it will advance issuance of oil bonds and expand energy trading. It added that final imported gasoline prices will reflect procurement costs plus origin, shipping, demurrage, storage and transshipment custody fees."
+    },
+    {
+      "id": "5058390",
+      "time": "2026-08-26 00:34:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：美國在軍事和政治戰爭中已經失敗，在經濟舉措上也將繼續失敗。"
+    },
+    {
+      "id": "5058389",
+      "time": "2026-08-26 00:32:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國秘書長古特雷斯：絕對主導的時代已經落幕。世界主要大國誤判了自身影響力，全球力量格局正在轉變，重塑著大國權力關係。"
+    },
+    {
+      "id": "5058388",
+      "time": "2026-08-26 00:27:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗總統承認該國正面臨經濟危機，並表示戰爭遲早會結束。"
+    },
+    {
+      "id": "mkt:01a039be-2238-7aab-9117-47efe49bf8ca",
+      "time": "2026-08-26 00:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman foreign minister says he will hold discussions with regional partners to support peace, cooperation, regional stability and freedom of navigation."
+    },
+    {
+      "id": "mkt:01a039bd-dc82-7aab-9117-3c347441f325",
+      "time": "2026-08-26 00:25:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Oman's foreign minister said, citing Article 5 of the Islamabad Memorandum, the country will in due course advance management arrangements and a permanent solution for the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a039bd-b27d-7aab-9117-30c1cd039c8e",
+      "time": "2026-08-26 00:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Oman’s foreign minister said he hopes a temporary corridor arrangement for the Strait of Hormuz and specific measures to restore safe navigation will be announced soon."
+    },
+    {
+      "id": "5058387",
+      "time": "2026-08-26 00:24:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼外交部長：依照《伊斯蘭堡備忘錄》第五條，霍爾木茲海峽的未來管理方案及永久解決辦法將在適當時機推進落實。"
+    },
+    {
+      "id": "5058386",
+      "time": "2026-08-26 00:24:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼外交部長：將與地區夥伴進行討論，以支援和平與合作、穩定及航行自由。"
+    },
+    {
+      "id": "5058385",
+      "time": "2026-08-26 00:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼外交部長：很快將宣佈霍爾木茲海峽臨時通行通道以及恢復航行安全的實操安排。"
+    },
     {
       "id": "5058384",
       "time": "2026-08-26 00:24:03",
