@@ -1,7 +1,27 @@
 {
   "date": "2026-08-26",
-  "count": 361,
+  "count": 363,
   "items": [
+    {
+      "id": "5058556",
+      "time": "2026-08-26 06:36:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4670美元/盎司，日內漲0.25%。"
+    },
+    {
+      "id": "te:markets:578044",
+      "time": "2026-08-26 06:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 2.18% — Top commodity losers are Lithium Carbonate (-2.18%) and Platinum (-0.91%). Gains are led by Copper (1.60%), Silicon (0.52%) and Gold (0.35%)."
+    },
     {
       "id": "5058555",
       "time": "2026-08-26 06:33:31",
