@@ -1,7 +1,106 @@
 {
   "date": "2026-08-25",
-  "count": 3208,
+  "count": 3218,
   "items": [
+    {
+      "id": "mkt:01a03951-6220-7aab-9115-5c3080d642ba",
+      "time": "2026-08-25 22:27:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【US consumer confidence falls to year-to-date low; gasoline and cost pressures weigh】The Conference Board said its consumer confidence index fell 0.8 points in August to 89.4, the lowest reading year-to-date; July was revised lower. The median economist forecast was 90.2. The report cited elevated gasoline prices, broader living-cost pressures and slowing hiring as ongoing strains on households. The survey ran Aug. 3–16, a period when renewed US–Iran tensions lifted oil and kept the national average pump price above $4/gal. Consumers’ assessment of current labor market conditions improved — the share saying jobs are “plentiful” rose and those saying jobs are “hard to get” fell, widening the spread to its largest so far this year — but six-month employment and income expectations grew more pessimistic."
+    },
+    {
+      "id": "te:markets:577996",
+      "time": "2026-08-25 22:26:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Retreats as Markets Await US Inflation and Fed Signals — Silver prices fell below $68.0 an ounce on Tuesday after reaching a two-month high of $70.0 last week, as the recent rally lost momentum ahead of US inflation data and Federal Reserve Chair Kevin Warsh’s speech at the Jackson Hole Symposium later this week. Investors are also assessing the US Treasury’s decision to double liquidity-support buyback operations for longer-dated notes and bonds, which helped push the dollar to a more than three-month low last week. Markets are currently pricing in a 38% chance of a US rate hike in September, according to the CME FedWatch Tool. Meanwhile, geopolitical tensions remain in focus, with Iran pledging to resist expanded US sanctions while expressing confidence that major trading partners will reject the pressure campaign and signalling that Washington remains interested in reviving talks."
+    },
+    {
+      "id": "5058289",
+      "time": "2026-08-25 22:26:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司執行長表示，飛機交付“已基本回到正軌”。"
+    },
+    {
+      "id": "5058288",
+      "time": "2026-08-25 22:26:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司執行長表示，飛機供應鏈問題“比我們預期的更為嚴重”。"
+    },
+    {
+      "id": "5058287",
+      "time": "2026-08-25 22:26:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司執行長表示，旅遊需求“全方位都非常非常強勁”。"
+    },
+    {
+      "id": "5058286",
+      "time": "2026-08-25 22:26:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國聯合航空執行長表示，預計2027年上半年機票價格將逐步上漲，漲幅小於2026年。"
+    },
+    {
+      "id": "5058285",
+      "time": "2026-08-25 22:25:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中秋國慶假期機票搜尋熱度大漲61%】據央視財經，2026年中秋、國慶兩個節日只相隔3天，“請3天假休13天”的拼假方案走紅，直接解鎖近半個月的出行視窗期，同時，也促使預訂決策明顯前置，不少人早早做起出遊功課，出遊規劃的時間線大大提前。距離中秋假期還有一個月時間，各地線下旅遊門店已經迎來不少前來諮詢雙節出遊的消費者，希望能面對面敲定自己的假期出行計劃。受超長假期帶動，國內長線相關搜尋、預訂直接提前10天以上進入加速期。新疆、西藏、甘肅、雲南、海南等長線目的地熱度領先，親友小團遊最受歡迎。各大旅遊平臺資料顯示，8月以來，中秋國慶假期出發機票搜尋熱度同比上漲61%，國內熱門城市搶訂熱度同比增長30%。"
+    },
+    {
+      "id": "5058284",
+      "time": "2026-08-25 22:24:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍總參謀長：以軍將清除所有參與 10 月 7 日襲擊事件的人員。"
+    },
+    {
+      "id": "te:markets:577995",
+      "time": "2026-08-25 22:23:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Retreats from Three-Month High — Gold prices fell to around $4,620 an ounce on Tuesday after reaching a more than three-month high of $4,696.2 earlier in the session, as the rally lost momentum ahead of US inflation data and Federal Reserve Chair Kevin Warsh’s speech at the Jackson Hole Symposium later this week. Investors are also assessing the US Treasury’s decision to double liquidity-support buyback operations for longer-dated notes and bonds, which helped push the dollar to a more than three-month low last week. Markets are currently pricing in a 38% chance of a US rate hike in September, according to the CME FedWatch Tool. Meanwhile, China’s net gold imports via Hong Kong rose around 11% month-over-month in July, supported by stronger investment demand. On the geopolitical front, Iran pledged to resist expanded US sanctions, expressing confidence that major trading partners would reject the pressure campaign while signaling that Washington remained interested in reviving talks."
+    },
+    {
+      "id": "5058283",
+      "time": "2026-08-25 22:23:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電科數字：擬續租關聯方辦公場所 構成關聯交易】電科數字公告稱，公司及子公司華訊網路擬續租關聯方電科置業位於上海市浦東新區白蓮涇路127號中電科資訊科技大廈16-19層作為辦公場所，面積合計10065.89平方米，租期5年，租金合計7796.56萬元，物業管理費合計2113.84萬元。電科置業、物業管理公司與公司受同一實際控制人中國電科控制，本次交易構成關聯交易，不構成重大資產重組。截至本次交易，過去12個月公司及子公司與中國電科及其下屬主體的關聯交易累計金額為1.48億元，未超最近一期經審計淨資產絕對值5%，無需提交股東會審議。"
+    },
     {
       "id": "5058282",
       "time": "2026-08-25 22:23:25",
