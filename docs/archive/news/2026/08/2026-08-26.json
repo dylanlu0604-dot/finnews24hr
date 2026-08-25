@@ -1,7 +1,31 @@
 {
   "date": "2026-08-26",
-  "count": 305,
+  "count": 307,
   "items": [
+    {
+      "id": "mkt:01a03abf-c968-7aab-911a-f81050a1bfa5",
+      "time": "2026-08-26 05:07:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "According to senior U.S. officials, CIA Director Ratcliffe's visit to the Kremlin was delivered as an ultimatum aimed at addressing recent drone incursions into NATO territory and deterring Russia from escalating its offensive against Kyiv after strikes on commercial supply-chain warehouses in Ukraine."
+    },
+    {
+      "id": "te:economy:578041",
+      "time": "2026-08-26 05:07:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Sentiment Weakens — South Korea’s manufacturing Business Survey Index fell to 81 points in August 2026 from 82 in July, indicating a continued deterioration in business conditions. The production index edged down to 92 from 93, while the new orders index remained unchanged at 92. Meanwhile, the inventories index declined to 100 from 101, while the financial situation index improved to 82 from 81. In contrast, the manufacturing Composite Business Sentiment Index rose 0.6 points to 103.8 in August, while the index for the following month increased 2.0 points to 102.5, pointing to a modest improvement in business sentiment despite weaker current conditions."
+    },
     {
       "id": "mkt:01a03aba-b8c7-7aab-911a-f576f9481eea",
       "time": "2026-08-26 05:01:50",

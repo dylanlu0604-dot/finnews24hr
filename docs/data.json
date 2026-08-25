@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-26 05:04:33",
-  "count": 16514,
+  "updated": "2026-08-26 05:08:41",
+  "count": 16515,
   "items": [
+    {
+      "id": "mkt:01a03abf-c968-7aab-911a-f81050a1bfa5",
+      "time": "2026-08-26 05:07:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "According to senior U.S. officials, CIA Director Ratcliffe's visit to the Kremlin was delivered as an ultimatum aimed at addressing recent drone incursions into NATO territory and deterring Russia from escalating its offensive against Kyiv after strikes on commercial supply-chain warehouses in Ukraine."
+    },
+    {
+      "id": "te:economy:578041",
+      "time": "2026-08-26 05:07:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Sentiment Weakens — South Korea’s manufacturing Business Survey Index fell to 81 points in August 2026 from 82 in July, indicating a continued deterioration in business conditions. The production index edged down to 92 from 93, while the new orders index remained unchanged at 92. Meanwhile, the inventories index declined to 100 from 101, while the financial situation index improved to 82 from 81. In contrast, the manufacturing Composite Business Sentiment Index rose 0.6 points to 103.8 in August, while the index for the following month increased 2.0 points to 102.5, pointing to a modest improvement in business sentiment despite weaker current conditions."
+    },
     {
       "id": "mkt:01a03aba-b8c7-7aab-911a-f576f9481eea",
       "time": "2026-08-26 05:01:50",
@@ -149394,18 +149418,6 @@
         "Impact mixed"
       ],
       "text": "【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase."
-    },
-    {
-      "id": "mkt:01a016b2-ae3d-7aab-9082-d8feb047434c",
-      "time": "2026-08-19 05:06:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "CSAN.N",
-        "Impact bearish"
-      ],
-      "text": "According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS)."
     }
   ]
 }
