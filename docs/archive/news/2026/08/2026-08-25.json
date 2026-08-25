@@ -1,7 +1,144 @@
 {
   "date": "2026-08-25",
-  "count": 956,
+  "count": 971,
   "items": [
+    {
+      "id": "mkt:01a036ed-ff04-7aab-9105-39bbed15e580",
+      "time": "2026-08-25 11:19:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "TCS.NS",
+        "Impact bullish"
+      ],
+      "text": "【Porsche signs €1.25bn five-year AI deployment deal with Tata Consultancy Services; transfers IT consulting unit for €320m】Porsche has signed a five-year, €1.25 billion (~$1.46 billion) agreement with Tata Consultancy Services (TCS) to deploy artificial intelligence across the company. TCS, India’s largest IT services firm, will set up a dedicated center to oversee Porsche’s AI applications. As part of the deal, Porsche will transfer its IT consulting business to TCS for about €320 million."
+    },
+    {
+      "id": "mkt:01a036ec-c2ae-7aab-9105-309f3402937d",
+      "time": "2026-08-25 11:18:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Pakistan army chief holds talks with Iran on preventing escalation, reopening Strait of Hormuz】Pakistan military said on Tuesday Army chief Munir held consultations with Iranian counterparts focused on preventing further escalation of the Middle East conflict and reopening the Strait of Hormuz. The statement said Munir also discussed regional peace and resolving disputes through negotiation."
+    },
+    {
+      "id": "5056638",
+      "time": "2026-08-25 11:17:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【消費電子板塊異動拉昇 捷榮技術直線漲停】消費電子板塊盤中異動拉昇，摺疊屏方向領漲，捷榮技術直線漲停，此前恆銘達漲停，星星科技、綠聯科技漲超10%，哈森股份、冠捷科技、格林精密、華映科技等衝高。"
+    },
+    {
+      "id": "5056637",
+      "time": "2026-08-25 11:17:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌2%，現報1567.50元。"
+    },
+    {
+      "id": "5056636",
+      "time": "2026-08-25 11:17:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鋰礦概念震盪下挫 國城礦業逼近跌停】鋰礦概念震盪下挫，國城礦業逼近跌停，天華新能、金銀河、盛新鋰能、大中礦業、永興材料、融捷股份跌超6%。"
+    },
+    {
+      "id": "5056635",
+      "time": "2026-08-25 11:17:04",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【曾指點貝森特的德魯肯米勒直言 政府違背基本面壓低收益率終將落敗】美國億萬富豪投資者斯坦利·德魯肯米勒（Stanley·Druckenmiller）表示，美國財政部長斯科特·貝森特花費數十億美元回購美債的計劃是一個錯誤；貝森特早年擔任對沖基金交易員時，曾經受過德魯肯米勒的指點。德魯肯米勒在一篇評論中寫道：“政府若不顧基本面試圖捍衛價格，終將落敗。”德魯肯米勒是在回應貝森特近期釋出的訊號；貝森特先前宣佈，美國財政部將加大對長期政府債券的回購規模，這是一項不同尋常的舉措，目的在於透過壓低長期融資成本來提振經濟。德魯肯米勒寫道，“個人從事交易50年來，一直奉行一個簡單前提：市場彙集了任何委員會都不可能掌握的資訊，而價格正是這些資訊傳遞給決策者的方式。”“長期美國國債收益率是世界上最重要的價格，也是美國僅存的財政紀律約束機制。”這篇措辭強烈的評論文章表明，貝森特試圖左右收益率的主張面臨了多大的阻力，這也是這位前對沖基金經理介入市場的最新例證。"
+    },
+    {
+      "id": "mkt:01a036eb-c543-7aab-9105-290bcb5e3c62",
+      "time": "2026-08-25 11:16:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share lithium-mining stocks tumbled; Guocheng Mining neared its daily limit-down, while Tianhua Xinneng, Jin Yinhe, Shengxin Lithium Energy, Dazhong Mining, Yongxing Materials and Rongjie Co. each fell more than 6%."
+    },
+    {
+      "id": "mkt:01a036eb-9896-7aab-9105-2272a9de8e54",
+      "time": "2026-08-25 11:16:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【State Street: U.S. Treasury buybacks can buy time but won't restore credibility】State Street senior fixed-income strategist Masahiko Loo said the U.S. Treasury’s potential use of its general account to fund recently announced Treasury buybacks “can buy time but cannot buy fiscal credibility.” CNBC, citing two senior U.S. Treasury officials, reported the Treasury may tap its general account for the increased buybacks. Loo said buyback operations could improve market functioning and temporarily stabilize the yield curve, but would not reduce the underlying debt burden or fully offset fiscal concerns, rising AI-driven capital demand, or longer-term refinancing risk from heavy reliance on short-term Treasury issuance."
+    },
+    {
+      "id": "te:markets:577748",
+      "time": "2026-08-25 11:15:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 2"
+      ],
+      "text": "Bitcoin Surges Above $80,000 — Bitcoin surged above $80,000 on Tuesday, reaching its highest level since May and bringing its gains since mid-August to about 28%. The move was fueled by a series of positive signals, including renewed interest in the “debasement trade” after the US Treasury announced plans to increase purchases of longer-dated government bonds, weighing on long-term yields and the dollar. US spot Bitcoin ETFs also recorded their strongest weekly inflows in 10 months, attracting $1.92 billion, while expectations of continued support for cryptocurrency from the Trump administration added to demand. The advance triggered a major short squeeze, with about $7.2 billion in leveraged bearish crypto positions liquidated last week. Despite the rebound, Bitcoin remains well below its record high of around $126,000 reached last October, while analysts caution that the move may be driven largely by short covering rather than sustained demand."
+    },
+    {
+      "id": "5056634",
+      "time": "2026-08-25 11:14:38",
+      "tags": [],
+      "text": "【國內品牌金飾克價重回1400元】今日國內黃金飾品價格對比顯示，多家品牌金飾價格較昨日上漲近20元/克，升至1400元/克上方，其中周大福、謝瑞麟、周大生足金飾品報價1410元/克。"
+    },
+    {
+      "id": "5056633",
+      "time": "2026-08-25 11:14:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣藥集團在新加坡召開全球招商大會 達成多項國際合作】記者從廣藥集團獲悉，廣藥集團首次在新加坡召開全球招商大會，旗下企業簽署了多項國際合作協議：王老吉與寶鋼包裝達成東南亞供應鏈戰略合作，並與南洋理工大學商學院達成產學研合作；白雲山漢方與新加坡來恩生物醫藥達成戰略合作；何濟公與新加坡華貿公司達成合作；廣藥私募與沃博聯達成合作。此外，王老吉WALOVI新加坡國際總部正式啟動。"
+    },
+    {
+      "id": "5056632",
+      "time": "2026-08-25 11:13:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【母親分享上海旅遊照，馬斯克稱這是一座偉大的城市】美國企業家埃隆·馬斯克的母親梅耶·馬斯克再次在社交平臺X上分享了上海之行的照片，並配文：“購物、美食、美景。” 馬斯克隨後在評論區留言稱：“上海是一座偉大的城市，非常推薦來這裡參觀。” 值得一提的是，中國駐美國大使謝鋒也轉發了梅耶·馬斯克的相關帖子，並寫道：“歡迎來到我的家鄉——‘魔都’上海！”"
+    },
+    {
+      "id": "5056631",
+      "time": "2026-08-25 11:12:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1365.56美元/盎司。"
+    },
+    {
+      "id": "mkt:01a036e6-2bef-7aab-9105-1f2a389bed3a",
+      "time": "2026-08-25 11:10:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan interior minister says meeting with Iran's president ended on a \"very positive tone\"."
+    },
     {
       "id": "5056630",
       "time": "2026-08-25 11:10:31",
@@ -285,6 +422,14 @@
         "市場"
       ],
       "text": "【黃金板塊持續走弱，恆星科技跌停】黃金板塊持續走弱，恆星科技跌停，盛達資源、西部黃金、湖南白銀、興業銀錫、華鈺礦業、招金黃金等跟跌。"
+    },
+    {
+      "id": "5056615",
+      "time": "2026-08-25 11:02:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選等在常州成立新公司 註冊資本5000萬】天眼查App顯示，近日，常州常高新智採科技有限公司成立，法定代表人為徐理翔，註冊資本5000萬人民幣，經營範圍含大資料服務、人工智慧公共資料平臺、人工智慧行業應用系統整合服務、智慧機器人的研發、智慧機器人銷售等，由常州高新數運科技有限公司、深圳市優必選科技股份有限公司、道之森智慧科技（常州）有限公司共同持股。"
     },
     {
       "id": "mkt:01a036dd-d0a4-7aab-9104-9ede5f8cac17",
