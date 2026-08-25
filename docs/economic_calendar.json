@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 11:03:15",
+  "updated": "2026-08-25 11:11:45",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -22,124 +22,8 @@
       "dates": [
         {
           "date": "2026-08-24",
-          "count": 15,
+          "count": 13,
           "events": [
-            {
-              "id": "capital:1185413",
-              "fid": "1185413",
-              "interval": "this_week",
-              "date": "2026-08-24",
-              "time": "00:00",
-              "datetime": "2026-08-24 00:00:00",
-              "display_time": "08/24 00:00",
-              "country": "中國",
-              "title": "中國7月本年迄今全國發電裝機容量(萬千瓦)",
-              "importance": 2,
-              "previous": "404252",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185413",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/22",
-                  "actual": "404252",
-                  "forecast": "-",
-                  "previous": "400745"
-                },
-                {
-                  "date": "06/25",
-                  "actual": "400745",
-                  "forecast": "-",
-                  "previous": "398547"
-                },
-                {
-                  "date": "04/23",
-                  "actual": "396483",
-                  "forecast": "-",
-                  "previous": "394803"
-                },
-                {
-                  "date": "03/25",
-                  "actual": "394803",
-                  "forecast": "-",
-                  "previous": "389134"
-                },
-                {
-                  "date": "01/28",
-                  "actual": "389134",
-                  "forecast": "-",
-                  "previous": "379351"
-                },
-                {
-                  "date": "12/26",
-                  "actual": "379351",
-                  "forecast": "-",
-                  "previous": "375171"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-08-24 12:01:12"
-            },
-            {
-              "id": "capital:1185412",
-              "fid": "1185412",
-              "interval": "this_week",
-              "date": "2026-08-24",
-              "time": "00:00",
-              "datetime": "2026-08-24 00:00:00",
-              "display_time": "08/24 00:00",
-              "country": "中國",
-              "title": "中國7月本年迄今全國發電裝機容量年率",
-              "importance": 2,
-              "previous": "10.8 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185412",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "07/22",
-                  "actual": "10.8",
-                  "forecast": "-",
-                  "previous": "11"
-                },
-                {
-                  "date": "06/25",
-                  "actual": "11",
-                  "forecast": "-",
-                  "previous": "14.2"
-                },
-                {
-                  "date": "04/23",
-                  "actual": "15.5",
-                  "forecast": "-",
-                  "previous": "15.9"
-                },
-                {
-                  "date": "03/25",
-                  "actual": "15.9",
-                  "forecast": "-",
-                  "previous": "16.1"
-                },
-                {
-                  "date": "01/28",
-                  "actual": "16.1",
-                  "forecast": "-",
-                  "previous": "17.1"
-                },
-                {
-                  "date": "12/26",
-                  "actual": "17.1",
-                  "forecast": "-",
-                  "previous": "17.3"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-08-24 12:01:12"
-            },
             {
               "id": "capital:1182234",
               "fid": "1182234",
@@ -898,8 +782,124 @@
         },
         {
           "date": "2026-08-25",
-          "count": 40,
+          "count": 42,
           "events": [
+            {
+              "id": "capital:1185413",
+              "fid": "1185413",
+              "interval": "this_week",
+              "date": "2026-08-25",
+              "time": "00:00",
+              "datetime": "2026-08-25 00:00:00",
+              "display_time": "08/25 00:00",
+              "country": "中國",
+              "title": "中國7月本年迄今全國發電裝機容量(萬千瓦)",
+              "importance": 2,
+              "previous": "404252",
+              "forecast": "--",
+              "actual": "407820",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185413",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "404252",
+                  "forecast": "-",
+                  "previous": "400745"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "400745",
+                  "forecast": "-",
+                  "previous": "398547"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "396483",
+                  "forecast": "-",
+                  "previous": "394803"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "394803",
+                  "forecast": "-",
+                  "previous": "389134"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "389134",
+                  "forecast": "-",
+                  "previous": "379351"
+                },
+                {
+                  "date": "12/26",
+                  "actual": "379351",
+                  "forecast": "-",
+                  "previous": "375171"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-08-24 12:01:12"
+            },
+            {
+              "id": "capital:1185412",
+              "fid": "1185412",
+              "interval": "this_week",
+              "date": "2026-08-25",
+              "time": "00:00",
+              "datetime": "2026-08-25 00:00:00",
+              "display_time": "08/25 00:00",
+              "country": "中國",
+              "title": "中國7月本年迄今全國發電裝機容量年率",
+              "importance": 2,
+              "previous": "10.8 %",
+              "forecast": "-- %",
+              "actual": "11 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185412",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "10.8",
+                  "forecast": "-",
+                  "previous": "11"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "11",
+                  "forecast": "-",
+                  "previous": "14.2"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "15.5",
+                  "forecast": "-",
+                  "previous": "15.9"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "15.9",
+                  "forecast": "-",
+                  "previous": "16.1"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "16.1",
+                  "forecast": "-",
+                  "previous": "17.1"
+                },
+                {
+                  "date": "12/26",
+                  "actual": "17.1",
+                  "forecast": "-",
+                  "previous": "17.3"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-08-24 12:01:12"
+            },
             {
               "id": "capital:1182244",
               "fid": "1182244",
@@ -25891,122 +25891,6 @@
   ],
   "items": [
     {
-      "id": "capital:1185413",
-      "fid": "1185413",
-      "interval": "this_week",
-      "date": "2026-08-24",
-      "time": "00:00",
-      "datetime": "2026-08-24 00:00:00",
-      "display_time": "08/24 00:00",
-      "country": "中國",
-      "title": "中國7月本年迄今全國發電裝機容量(萬千瓦)",
-      "importance": 2,
-      "previous": "404252",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185413",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/22",
-          "actual": "404252",
-          "forecast": "-",
-          "previous": "400745"
-        },
-        {
-          "date": "06/25",
-          "actual": "400745",
-          "forecast": "-",
-          "previous": "398547"
-        },
-        {
-          "date": "04/23",
-          "actual": "396483",
-          "forecast": "-",
-          "previous": "394803"
-        },
-        {
-          "date": "03/25",
-          "actual": "394803",
-          "forecast": "-",
-          "previous": "389134"
-        },
-        {
-          "date": "01/28",
-          "actual": "389134",
-          "forecast": "-",
-          "previous": "379351"
-        },
-        {
-          "date": "12/26",
-          "actual": "379351",
-          "forecast": "-",
-          "previous": "375171"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-08-24 12:01:12"
-    },
-    {
-      "id": "capital:1185412",
-      "fid": "1185412",
-      "interval": "this_week",
-      "date": "2026-08-24",
-      "time": "00:00",
-      "datetime": "2026-08-24 00:00:00",
-      "display_time": "08/24 00:00",
-      "country": "中國",
-      "title": "中國7月本年迄今全國發電裝機容量年率",
-      "importance": 2,
-      "previous": "10.8 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185412",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "07/22",
-          "actual": "10.8",
-          "forecast": "-",
-          "previous": "11"
-        },
-        {
-          "date": "06/25",
-          "actual": "11",
-          "forecast": "-",
-          "previous": "14.2"
-        },
-        {
-          "date": "04/23",
-          "actual": "15.5",
-          "forecast": "-",
-          "previous": "15.9"
-        },
-        {
-          "date": "03/25",
-          "actual": "15.9",
-          "forecast": "-",
-          "previous": "16.1"
-        },
-        {
-          "date": "01/28",
-          "actual": "16.1",
-          "forecast": "-",
-          "previous": "17.1"
-        },
-        {
-          "date": "12/26",
-          "actual": "17.1",
-          "forecast": "-",
-          "previous": "17.3"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-08-24 12:01:12"
-    },
-    {
       "id": "capital:1182234",
       "fid": "1182234",
       "interval": "this_week",
@@ -26759,6 +26643,122 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-16 00:01:05"
+    },
+    {
+      "id": "capital:1185413",
+      "fid": "1185413",
+      "interval": "this_week",
+      "date": "2026-08-25",
+      "time": "00:00",
+      "datetime": "2026-08-25 00:00:00",
+      "display_time": "08/25 00:00",
+      "country": "中國",
+      "title": "中國7月本年迄今全國發電裝機容量(萬千瓦)",
+      "importance": 2,
+      "previous": "404252",
+      "forecast": "--",
+      "actual": "407820",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185413",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "404252",
+          "forecast": "-",
+          "previous": "400745"
+        },
+        {
+          "date": "06/25",
+          "actual": "400745",
+          "forecast": "-",
+          "previous": "398547"
+        },
+        {
+          "date": "04/23",
+          "actual": "396483",
+          "forecast": "-",
+          "previous": "394803"
+        },
+        {
+          "date": "03/25",
+          "actual": "394803",
+          "forecast": "-",
+          "previous": "389134"
+        },
+        {
+          "date": "01/28",
+          "actual": "389134",
+          "forecast": "-",
+          "previous": "379351"
+        },
+        {
+          "date": "12/26",
+          "actual": "379351",
+          "forecast": "-",
+          "previous": "375171"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-08-24 12:01:12"
+    },
+    {
+      "id": "capital:1185412",
+      "fid": "1185412",
+      "interval": "this_week",
+      "date": "2026-08-25",
+      "time": "00:00",
+      "datetime": "2026-08-25 00:00:00",
+      "display_time": "08/25 00:00",
+      "country": "中國",
+      "title": "中國7月本年迄今全國發電裝機容量年率",
+      "importance": 2,
+      "previous": "10.8 %",
+      "forecast": "-- %",
+      "actual": "11 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185412",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "10.8",
+          "forecast": "-",
+          "previous": "11"
+        },
+        {
+          "date": "06/25",
+          "actual": "11",
+          "forecast": "-",
+          "previous": "14.2"
+        },
+        {
+          "date": "04/23",
+          "actual": "15.5",
+          "forecast": "-",
+          "previous": "15.9"
+        },
+        {
+          "date": "03/25",
+          "actual": "15.9",
+          "forecast": "-",
+          "previous": "16.1"
+        },
+        {
+          "date": "01/28",
+          "actual": "16.1",
+          "forecast": "-",
+          "previous": "17.1"
+        },
+        {
+          "date": "12/26",
+          "actual": "17.1",
+          "forecast": "-",
+          "previous": "17.3"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-08-24 12:01:12"
     },
     {
       "id": "capital:1182244",
