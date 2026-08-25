@@ -1,7 +1,28 @@
 {
   "date": "2026-08-26",
-  "count": 311,
+  "count": 313,
   "items": [
+    {
+      "id": "5058525",
+      "time": "2026-08-26 05:17:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "報道援引一名美國官員訊息：亞伯拉罕・林肯號航空母艦已離開中央司令部責任區。"
+    },
+    {
+      "id": "mkt:01a03ac8-1d77-7aab-911b-0a4d9d032274",
+      "time": "2026-08-26 05:16:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US officials said the USS Abraham Lincoln has exited US Central Command’s area of responsibility."
+    },
     {
       "id": "5058524",
       "time": "2026-08-26 05:15:21",
