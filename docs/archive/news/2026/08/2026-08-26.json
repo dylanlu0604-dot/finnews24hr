@@ -1,7 +1,160 @@
 {
   "date": "2026-08-26",
-  "count": 238,
+  "count": 252,
   "items": [
+    {
+      "id": "mkt:01a03a8b-ae5f-7aab-911a-0b2cf4b4f2d9",
+      "time": "2026-08-26 04:10:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says Oman agreed to close southern shipping lane of Strait of Hormuz; talks to continue】Iran's deputy foreign minister said Iran and Oman have agreed to close the Strait of Hormuz's southern shipping lane and will notify the International Maritime Organization. He said the two will negotiate a future management mechanism for the strait over about 60 days to determine joint arrangements. Iran added that if its demands are not met, the closure will remain in place."
+    },
+    {
+      "id": "te:markets:578034",
+      "time": "2026-08-26 04:07:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise as Tech Rebounds — US stock indices closed higher on Tuesday, led by a rebound in technology stocks as lower oil prices pushed bond yields down. The S&P 500 rose 0.3%, the Nasdaq gained 0.6%, and the Dow added 160 points. Companies exposed to AI infrastructure recovered from losses in the previous session amid uncertainty surrounding the sector. Expectations of potentially massive IPOs by hyperscalers investing heavily in AI infrastructure, including Anthropic and OpenAI, supported chipmakers and cloud companies. Nvidia gained 2.2% ahead of its earnings report on Wednesday, while Microsoft rose 0.9%, Meta advanced 2%, Micron added 2.5%, and AMD jumped 4.9%. Broader sectors also advanced as long-term Treasury yields pulled back from recent highs. Lower oil prices, despite the latest US sanctions threat against Iran, offered some relief to credit-sensitive sectors that had been pressured by energy-driven inflation concerns. Morgan Stanley rose 1.3%, while Goldman Sachs gained 2.2%."
+    },
+    {
+      "id": "5058502",
+      "time": "2026-08-26 04:07:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌5%，現報80.75美元/桶。"
+    },
+    {
+      "id": "5058501",
+      "time": "2026-08-26 04:07:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "ZOOM第二財季營收12.8億美元，市場預估12.7億美元。"
+    },
+    {
+      "id": "mkt:01a03a88-63ac-7aab-911a-038361fd449e",
+      "time": "2026-08-26 04:06:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude down 5.00% intraday at $85.87/bbl."
+    },
+    {
+      "id": "mkt:01a03a88-0bd2-7aab-9119-fe758833746a",
+      "time": "2026-08-26 04:06:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Aug 25 (Tue) — Dow Jones Industrial Average closed up 160.07 points (+0.30%) at 53,577.23; S&P 500 closed up 24.36 points (+0.32%) at 7,677.22; Nasdaq Composite closed up 171.11 points (+0.66%) at 26,151.30."
+    },
+    {
+      "id": "mkt:01a03a87-29d4-7aab-9119-f3bc71ee5e89",
+      "time": "2026-08-26 04:05:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Sputnik cites sources: US, Iran reach consensus on ceasefire terms】Pakistani military and Iranian security sources told Sputnik the US and Iran have reached consensus on ceasefire terms that include freedom of navigation in the Strait of Hormuz. Sources said an announcement could come within days. An Islamabad memorandum foresees opening negotiations and holding a technical meeting."
+    },
+    {
+      "id": "5058500",
+      "time": "2026-08-26 04:05:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【據報道美伊即將達成停火】俄新社援引巴基斯坦與伊朗軍方訊息源報道，美國與伊朗據稱已達成停火協議，預計未來數日將正式對外宣佈。 這份網傳協議包含霍爾木茲海峽航行自由，以及依據伊斯蘭堡備忘錄重啟談判。 美國與伊朗雙方均尚未證實該協議；與此同時，阿曼與伊朗分別提出恢復海峽通航的臨時機制。"
+    },
+    {
+      "id": "te:markets:578033",
+      "time": "2026-08-26 04:03:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Intuit earnings above expectations at 4.03 USD — Intuit (INTU) released earnings per share at 4.03 USD, compared to market expectations of 3.54 USD."
+    },
+    {
+      "id": "mkt:01a03a85-5680-7aab-9119-eede6d82687d",
+      "time": "2026-08-26 04:03:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alibaba",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "NVDA.O",
+        "AMD.O"
+      ],
+      "text": "【U.S. close: major indexes rise; NVIDIA +2%】U.S. equities closed higher on Tuesday. The Dow rose 0.3%, the S&P 500 gained 0.32% and the Nasdaq added 0.66%. Memory names SK Hynix and Micron climbed more than 2%, NVIDIA rose 2.1% and AMD jumped nearly 5%. The Nasdaq Golden Dragon China Index gained 1.1%, with Alibaba up 0.8%."
+    },
+    {
+      "id": "5058499",
+      "time": "2026-08-26 04:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "財捷Intuit第四財季淨營收43.5億美元，分析師預期42.7億美元。預計2027財年營收232.8億-235.1億美元，分析師預期238.2億美元。"
+    },
+    {
+      "id": "5058498",
+      "time": "2026-08-26 04:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本原子能機構及其他機構已研發出可從水和石油中提取稀土元素的技術。"
+    },
+    {
+      "id": "5058497",
+      "time": "2026-08-26 04:01:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守86美元/桶，日內跌5.06%。"
+    },
+    {
+      "id": "5058496",
+      "time": "2026-08-26 04:01:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守81美元/桶，日內跌4.75%。"
+    },
     {
       "id": "5058495",
       "time": "2026-08-26 04:01:14",
