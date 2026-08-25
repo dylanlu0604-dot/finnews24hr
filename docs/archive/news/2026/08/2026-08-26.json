@@ -1,7 +1,43 @@
 {
   "date": "2026-08-26",
-  "count": 277,
+  "count": 281,
   "items": [
+    {
+      "id": "mkt:01a03aa5-48b0-7aab-911a-82a2fb288c8a",
+      "time": "2026-08-26 04:38:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister Gharibabadi said adversaries should know Iran is fully prepared for any eventuality. He added that if adversaries return to the agreement and honor their commitments, Iran will respond accordingly."
+    },
+    {
+      "id": "mkt:01a03aa4-3a94-7aab-911a-79e60f889fae",
+      "time": "2026-08-26 04:37:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran’s deputy foreign minister said Tehran will employ negotiations and war to inflict heavy blows on its enemies."
+    },
+    {
+      "id": "5058514",
+      "time": "2026-08-26 04:36:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：7 月抵押貸款相關投資組合的未償還本金總額增加約 12 億美元。"
+    },
+    {
+      "id": "5058513",
+      "time": "2026-08-26 04:36:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本自民黨提議進一步提高持有房產 5 年及以下的業主出售公寓時適用的資本利得稅稅率。"
+    },
     {
       "id": "5058512",
       "time": "2026-08-26 04:35:29",
