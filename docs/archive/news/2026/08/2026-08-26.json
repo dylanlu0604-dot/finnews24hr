@@ -1,7 +1,37 @@
 {
   "date": "2026-08-26",
-  "count": 354,
+  "count": 357,
   "items": [
+    {
+      "id": "mkt:01a03b0a-18b1-7aab-911b-8cf3643042e3",
+      "time": "2026-08-26 06:28:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【Trump submits Saudi civil nuclear accord to Congress, keeps Israel-normalization demand】Trump has submitted a milestone Saudi civil nuclear agreement to Congress for review but retains an 11th-hour requirement that Saudi Arabia normalize relations with Israel, a US government official said. The submission is likely to trigger months-long congressional debate over advancing the US nuclear industry while preventing WMD proliferation in the Middle East. The 30-year accord, announced last month, would give US firms a central role in Saudi nuclear infrastructure and bar foreign competitors; it is controversial because it could open the door to uranium enrichment in Saudi territory."
+    },
+    {
+      "id": "5058553",
+      "time": "2026-08-26 06:28:00",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 09:30 澳大利亞7月CPI；\n② 時間待定 AGIC 2026 深圳通用人工智慧展，德意志銀行加州科技大會；\n③ 港股收盤之後 理想汽車釋出業績報告；\n④ 18:10 歐洲央行執委Piero Cipollone在德意志銀行一場關於支付的活動上講話；\n⑤ 20:30 美國二季度GDP修正值，7月耐用品訂單初值，7月個人收入、實際個人消費支出（PCE）；\n⑥ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑦ 23:45 美國里士滿聯儲主席Barkin（2027年FOMC票委）講話；\n⑧ 次日00:15 瑞士央行副行長Antoine Martin講話；\n⑨ 美股盤後 英偉達釋出業績報告，CrowdStrike、Salesforce、新思科技、惠普（HPQ）等也將釋出業績報告。"
+    },
+    {
+      "id": "5058552",
+      "time": "2026-08-26 06:26:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【併購潮進入“冷靜期” A股重組終止案例頻現】8月24日，智光電氣、頂固集創相繼按下併購“終止鍵”。據不完全統計，8月以來，已有至少11起A股併購重組專案宣告終止。梳理案例詳情，終止原因大體可以分為三類：市場環境或標的基本面發生變化，交易核心條款未能談攏，稽核或交易程式無法繼續推進。今年以來，A股併購交易持續活躍與終止案例增加的現象同步發生。交易雙方對於標的質量、交易作價、支付方式和產業協同的審視明顯趨嚴，一批交易條件難以匹配、盈利預期發生變化或產業邏輯尚待驗證的專案陸續退出。未來併購市場將進入更充分的價格博弈和質量篩選階段。（上證報）"
+    },
     {
       "id": "5058551",
       "time": "2026-08-26 06:25:43",
