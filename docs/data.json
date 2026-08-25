@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-25 11:57:32",
-  "count": 15945,
+  "updated": "2026-08-25 12:02:23",
+  "count": 15948,
   "items": [
+    {
+      "id": "mkt:01a03714-083b-7aab-9105-d1a1e65ce9e6",
+      "time": "2026-08-25 12:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said average new loans per household were 34.14 mln won, down 1.28 mln won QoQ; average housing mortgage per household was 208.29 mln won, down 21.10 mln won QoQ."
+    },
+    {
+      "id": "mkt:01a03713-e516-7aab-9105-cd23ee7bd360",
+      "time": "2026-08-25 12:00:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDC projects China AI foundational data services market at 7.834 bln yuan in 2026】IDC, in its first systematic study treating AI foundational data services as a standalone segment, published the China AI Foundational Data Services Market Research Report 2025. It estimates the market reached 6.262 bln yuan in 2025, up 27.8% YoY and above market expectations, and forecasts growth to 7.834 bln yuan in 2026. IDC projects a 19.6% CAGR for 2025–2030."
+    },
+    {
+      "id": "mkt:01a03713-d99e-7aab-9105-c651ed0b6c83",
+      "time": "2026-08-25 12:00:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Gold retreats from three-month high as markets eye US inflation and Fed chair Kevin Warsh speech】Gold pulled back Tuesday after earlier touching a more-than-three-month high as markets focus on upcoming US inflation data and a speech by Fed Chair Kevin Warsh. IG analyst Tony Sycamore said pullbacks are likely to attract strong buying. Last week the US Treasury doubled the size of liquidity-support repo operations for longer-dated Treasuries, which boosted gold and raised concerns about dollar weakness. TD Securities said those concerns should support gold in the coming weeks given the Fed has not signaled it is ready to counter rising inflation, but warned that sustained oil-driven upward pressure on rates would limit a near-term large gold rally."
+    },
+    {
+      "id": "5056691",
+      "time": "2026-08-25 12:00:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國計劃在9月縮減政府債券發行規模】債券市場業內人士訊息稱，韓國企劃財政部計劃在 9 月縮減政府債券發行規模。財政部官員在週一的一級交易商會議上表示，國債總髮行規模將低於 8 月水平，同時 30 年期國債發行量也將下調。市場參與者預計，9 月國債競爭性招標規模為 16.5 萬億‑17 萬億韓元，其中 30 年期國債發行規模約 2.5 萬億韓元。"
+    },
+    {
+      "id": "5056690",
+      "time": "2026-08-25 11:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【IDC：預計2026年中國人工智慧基礎資料服務市場規模78.34億元】國際資料公司（IDC）首次將AI基礎資料服務作為獨立賽道進行系統性量化研究，並於近日正式釋出《中國人工智慧基礎資料服務市場研究報告，2025》。報告顯示，2025年中國人工智慧基礎資料服務市場規模達到62.62億元人民幣，同比增長27.8%，增速超出市場預期。預計2026年市場規模將進一步增長至78.34億元，2025—2030年複合年均增長率（CAGR）達19.6%。"
+    },
+    {
+      "id": "5056689",
+      "time": "2026-08-25 11:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中白“神鷹-2026”空降兵聯合訓練結束】8月24日，中國與白俄羅斯“神鷹-2026”空降兵聯合訓練圓滿結束，中白雙方在空軍某訓練中心舉行聯訓結束儀式。 此次聯訓從8月12日開始，以聯合城鎮反恐行動為課題，按照基礎強訓、協同精訓、綜合演練3個階段組織實施。雙方採取混合編組、互學互鑑模式，緊貼實戰場景共同完成偵察與反偵察、奪控與防衛、清剿與固守等課目演練，有效檢驗了兩軍協同指揮和聯合反恐作戰能力。 聯訓期間，雙方開展專題研討、體育比賽、文化交流等活動，相互借鑑組訓理念和練兵方法，增進官兵情誼，凝聚協作共識。 據悉，這是中白雙方第4次舉行“神鷹”系列空降兵聯合訓練。“神鷹”系列聯訓已成為中白兩軍提升聯合反恐能力的重要平臺，對深化兩軍務實合作、共同維護地區和平穩定具有重要意義。 （國防部發布）"
+    },
+    {
+      "id": "5056688",
+      "time": "2026-08-25 11:58:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達30億港元。"
+    },
+    {
+      "id": "5056687",
+      "time": "2026-08-25 11:57:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德芙巧克力涉多起糾紛】近日，德芙官方旗艦店一條“趁男友不在跟曖昧物件要巧克力”的七夕帶貨短影片文案引發眾怒，被批三觀不正。天眼查App顯示，德芙品牌關聯公司瑪氏食品（北京）有限公司成立於1993年2月，註冊資本6100萬美元，法定代表人為馮劉（Larry Feng）。法律訴訟資訊顯示，該公司曾多次因廣告合同糾紛，著作權權屬、侵權糾紛等被起訴。此外，該公司存在多條歷史被執行人、歷史行政處罰資訊。"
+    },
+    {
+      "id": "5056686",
+      "time": "2026-08-25 11:57:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“紫檀”持續影響廣西 多地將現大到暴雨局地有大暴雨】今起三天（8月25日至27日），今年第19號颱風“紫檀”將持續為廣西多地帶來強降雨，多地將現大到暴雨，局地有大暴雨並伴有強對流天氣，需及時關注天氣預警預報資訊，做好防範措施。受今年第19號颱風“紫檀”影響，昨天7時至今天7時，廣西大部有小到中雨，桂林、賀州、梧州、來賓、貴港、南寧、崇左等市部分地區出現大到暴雨，局地大暴雨，最大降雨量出現在貴港市港北區奇石鄉，累計雨量達119.6毫米，雨勢猛烈。（央視新聞）"
+    },
+    {
+      "id": "5056685",
+      "time": "2026-08-25 11:56:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【訊息稱印度央行拋售美元以支撐盧比】知情交易員透露，印度央行在在岸外匯市場拋售美元以支撐盧比，因無權公開發言，相關人士要求匿名。美元兌印度盧比匯率基本持平，報 95.7363。當前霍爾木茲海峽能否重新開放仍存不確定性，布倫特原油價格隨之小幅走高。印度是石油大宗商品的主要進口國，高油價會擴大該國貿易逆差，並推高通脹。"
+    },
     {
       "id": "5056684",
       "time": "2026-08-25 11:55:35",
@@ -144496,64 +144586,6 @@
         "Impact mixed"
       ],
       "text": "【Japan five-year bond auction demand highest since June 2025】Demand at Tuesday's five-year JGB auction was the strongest since June 2025 as higher yields attracted buyers. The bid-cover ratio was 4.15 versus 3.43 at the prior auction and a 12-month average of 3.34. The tail (average price minus lowest accepted price) tightened to 0.02 from 0.03 a month earlier. JGB yields have risen in recent weeks amid reports the TAKAICHI-led government supports near-term tightening by the BANK OF JAPAN; overnight index swaps imply a 75% chance of a BANK OF JAPAN hike before September and fully price an October move. The rise in yields reflects weakening global confidence in bonds, with investors demanding greater compensation for duration risk. 30-year US Treasury yields climbed to near 20-year highs on concerns about higher government spending, heavy long-term issuance and persistent inflation."
-    },
-    {
-      "id": "mkt:01a01308-128a-7aab-906e-a401e8690ee8",
-      "time": "2026-08-18 12:01:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lixun-1 space tug completes propulsion tests; maiden flight planned Q1】Zhongke Yuhang said its Lixun-1 upper stage completed a series of propulsion-system tests and is scheduled for a maiden flight in Q1 next year. The upper stage, described as a space tug mounted between a rocket and its payload, will take over orbital transfer after launch to move and deploy satellites to individual orbital slots, chief designer Yang Haoliang said. Yang said pairing Lixun-1 with the Lijian-2 rocket family will broaden mission scope, fill a capability gap for medium-to-large private Chinese rockets in deep-space tasks, enable custom launches to special orbits covering most commercial satellite needs, and allow participation in major national space projects."
-    },
-    {
-      "id": "5045199",
-      "time": "2026-08-18 12:01:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數跌0.65%，恒生科技指數跌1.99%】港股午間收盤，恒生指數跌0.65%，恒生科技指數跌1.99%。恒指港股通ETF銀華（159318）跌1.14%，港股通科技ETF鵬華（159751）跌1.53%。板塊方面，環保裝置、種植業板塊漲幅靠前；IT諮詢與其他服務、IT服務板塊跌幅靠前。個股方面，中國龍工漲10.68%，華住集團-S漲10.4%，卓越睿新漲7.81%，金斯瑞生物科技漲7.59%，現代牧業漲7.04%；智譜跌16.63%，邁富時跌13.54%，MINIMAX-W跌12.22%，國富量子跌10.34%，中科聞歌跌10.0%。"
-    },
-    {
-      "id": "5045198",
-      "time": "2026-08-18 12:01:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家資料局：上海將構建國際資料合作新體系】8月18日上午，國家資料局在北京舉辦2026上合組織數字經濟論壇新聞釋出會。國家資料局黨組成員、副局長餘英介紹了今年資料領域國際合作試點的進展情況。她介紹，我們從資料基礎設施、資料標準協議、國際合作載體、跨境服務生態、數字合作場景、溝通交流機制等6個方面系統謀劃了20項試點事項。試點地方立足本地實際，明確試點任務，實行“一地一策”精準對接。首批試點我們選擇在上海，海南，福建福州、廈門、泉州，湖南長沙，廣東廣州、深圳、橫琴，廣西南寧等10個地方開展，初步形成錯位發展、優勢互補的試點佈局。她說，按照以上思路，上海側重構建設施領先、規則互認、載體賦能、場景融合的國際資料合作新體系。海南自由貿易港側重資料跨境流動、國際資料服務等試點探索。福建福州側重跨境電商、食品安全等領域資料跨境規則標準互認試點；廈門側重智慧物流、智慧海港等場景的國際合作；泉州側重資料賦能紡織鞋服等特色產業國際合作。湖南長沙側重面向非洲的智慧醫療、智慧農業等合作。廣東則發揮粵港澳大灣區優勢，廣州側重醫療科研資料跨境流動便利化；深圳側重培育國際資料服務新業態；橫琴側重面向葡語、西語國家的資料合作。廣西南寧側重面向東盟的數智技術應用合作。目前，各項試點工作正在有序推進。"
-    },
-    {
-      "id": "5045197",
-      "time": "2026-08-18 12:00:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀏陽“週末焰火秀”8月29日重啟？官方闢謠：不實，暫無週末焰火燃放安排】8月17日晚，湖南瀏陽市創意焰火燃放指導中心釋出公告，針對“網路上大量短影片宣傳瀏陽天空劇院8月29日重啟週末焰火秀”作出澄清，提醒廣大市民辨別網路不實傳言。公告稱：近期，網路上大量短影片宣傳瀏陽天空劇院8月29日重啟週末焰火秀，相關不實內容持續刷屏擴散。在此鄭重提醒：瀏陽市創意焰火燃放指導中心2026年8月29日暫無週末焰火燃放安排，所有焰火燃放場次、時間、地點均以官方正式釋出通知為準。感謝社會各界對瀏陽週末焰火秀的關心，相關工作正在積極推進，後續燃放活動安排我們將第一時間對外公佈，敬請關注官方通知。"
-    },
-    {
-      "id": "5045196",
-      "time": "2026-08-18 12:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【力巡一號太空“擺渡車”完成重要試驗 明年首飛】近日，由中科宇航自主研製的力巡一號上面級完成一系列動力系統試驗，計劃明年一季度首飛。上面級就像是一輛“太空擺渡車”，一般安裝在火箭和它所運載的航天器之間。火箭把它們送入太空後，就要靠上面級來完成後續的衛星入軌的工作。"
-    },
-    {
-      "id": "mkt:01a01304-b2a8-7aab-906e-985b152664fa",
-      "time": "2026-08-18 11:57:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UBS cut Marvell Technology (MRVL.O) target price to $300 from $340, maintaining a Buy rating."
-    },
-    {
-      "id": "5045195",
-      "time": "2026-08-18 11:57:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY IT指數下跌1%。"
     }
   ]
 }
