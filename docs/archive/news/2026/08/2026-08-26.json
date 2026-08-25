@@ -1,7 +1,39 @@
 {
   "date": "2026-08-26",
-  "count": 182,
+  "count": 186,
   "items": [
+    {
+      "id": "mkt:01a03a47-0f5f-7aab-9119-4941bbfd8b16",
+      "time": "2026-08-26 02:55:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Syrian Democratic Forces announce dissolution】The Kurdish-led Syrian Democratic Forces (SDF) leader Mazloum Abdi said at a press conference at the Syrian presidential palace on the 25th that he would dissolve the SDF and the Kurdish-established autonomous administration and that they will be fully integrated into Syrian state institutions."
+    },
+    {
+      "id": "5058463",
+      "time": "2026-08-26 02:54:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "QIAGEN迅速擴大漲幅，現漲5.8%。"
+    },
+    {
+      "id": "mkt:01a03a46-0854-7aab-9119-44a47bf30c28",
+      "time": "2026-08-26 02:54:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Israel expelled the Dutch representative of the International Support Center in Gaza, citing 'anti-Israel actions'."
+    },
+    {
+      "id": "5058462",
+      "time": "2026-08-26 02:53:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美政府稱若肯尼迪中心無法獲准翻修 或考慮拆除】當地時間8月24日，特朗普政府在一份法院檔案中首次提出，如果肯尼迪中心無法獲准關閉兩年進行翻修，未來可能考慮拆除該建築。"
+    },
     {
       "id": "mkt:01a03a43-395f-7aab-9119-3c59a7db6dcb",
       "time": "2026-08-26 02:51:19",
