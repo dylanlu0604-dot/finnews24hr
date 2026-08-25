@@ -1,7 +1,50 @@
 {
   "date": "2026-08-26",
-  "count": 363,
+  "count": 368,
   "items": [
+    {
+      "id": "mkt:01a03b16-cd49-7aab-911b-a6de2fc4be13",
+      "time": "2026-08-26 06:42:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Finance Ministry said it will announce changes to its annual financing plan on Wednesday."
+    },
+    {
+      "id": "5058558",
+      "time": "2026-08-26 06:41:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部宣告稱，將於週三公佈年度融資計劃的調整方案。"
+    },
+    {
+      "id": "te:markets:578045",
+      "time": "2026-08-26 06:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Canola Rises by 2.54% — Top commodity gainers are Canola (2.54%), Rapeseed (2.10%) and Corn (1.83%). Biggest losers are Sugar (-2.27%) and Coffee (-1.99%)."
+    },
+    {
+      "id": "mkt:01a03b14-0c06-7aab-911b-98b4df8a2de6",
+      "time": "2026-08-26 06:39:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran's UN ambassador said US economic-pressure actions could have serious consequences and urged all states to reject and condemn US extraterritorial unilateral coercive measures aimed at forcing countries to follow US policy and disregarding their sovereignty and legitimate policies."
+    },
+    {
+      "id": "5058557",
+      "time": "2026-08-26 06:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【週期與科技雙線交鋒，百億級私募演繹拉鋸戰】上市公司半年報繪製的“藏寶圖”正持續展開，百億級私募在週期與科技之間展開激烈博弈。作為高毅資產旗下的明星基金經理，鄧曉峰加倉萬華化學、新進北新建材，試圖在化工建材賽道復刻昔日紫金礦業式的週期投資神話；睿郡、聚鳴等機構則扎堆湧入半導體、物聯網及智慧製造領域，持續挖掘科技領域的價值富礦，海康威視更上演了連續減持與連續增持的“多空對峙”，機構間的觀點大相徑庭。不過，喧囂的調倉底牌背後暗藏不確定性，在經歷7月科技股劇烈回撥後，這份投資圖譜或已面目全非，盲目跟風者需警惕成為過期訊號的買單人。（中證報）"
+    },
     {
       "id": "5058556",
       "time": "2026-08-26 06:36:54",

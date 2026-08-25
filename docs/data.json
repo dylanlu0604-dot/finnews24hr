@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-26 06:38:50",
-  "count": 16526,
+  "updated": "2026-08-26 06:42:56",
+  "count": 16529,
   "items": [
+    {
+      "id": "mkt:01a03b16-cd49-7aab-911b-a6de2fc4be13",
+      "time": "2026-08-26 06:42:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Finance Ministry said it will announce changes to its annual financing plan on Wednesday."
+    },
+    {
+      "id": "5058558",
+      "time": "2026-08-26 06:41:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部宣告稱，將於週三公佈年度融資計劃的調整方案。"
+    },
+    {
+      "id": "te:markets:578045",
+      "time": "2026-08-26 06:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Canola Rises by 2.54% — Top commodity gainers are Canola (2.54%), Rapeseed (2.10%) and Corn (1.83%). Biggest losers are Sugar (-2.27%) and Coffee (-1.99%)."
+    },
+    {
+      "id": "mkt:01a03b14-0c06-7aab-911b-98b4df8a2de6",
+      "time": "2026-08-26 06:39:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Iran's UN ambassador said US economic-pressure actions could have serious consequences and urged all states to reject and condemn US extraterritorial unilateral coercive measures aimed at forcing countries to follow US policy and disregarding their sovereignty and legitimate policies."
+    },
+    {
+      "id": "5058557",
+      "time": "2026-08-26 06:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【週期與科技雙線交鋒，百億級私募演繹拉鋸戰】上市公司半年報繪製的“藏寶圖”正持續展開，百億級私募在週期與科技之間展開激烈博弈。作為高毅資產旗下的明星基金經理，鄧曉峰加倉萬華化學、新進北新建材，試圖在化工建材賽道復刻昔日紫金礦業式的週期投資神話；睿郡、聚鳴等機構則扎堆湧入半導體、物聯網及智慧製造領域，持續挖掘科技領域的價值富礦，海康威視更上演了連續減持與連續增持的“多空對峙”，機構間的觀點大相徑庭。不過，喧囂的調倉底牌背後暗藏不確定性，在經歷7月科技股劇烈回撥後，這份投資圖譜或已面目全非，盲目跟風者需警惕成為過期訊號的買單人。（中證報）"
+    },
     {
       "id": "5058556",
       "time": "2026-08-26 06:36:54",
@@ -149516,32 +149559,6 @@
         "國際"
       ],
       "text": "【美官員：以色列對敘空襲含政治考量，大選成重要動因】部分美國高階官員認為，以色列對敘利亞發動空襲，部分動因可能源於以色列即將在10月舉行的大選。這些官員表示，敘利亞此前一直尋求緩和緊張局勢，並希望建立一套由美國支援的以敘協調機制，但以色列拒絕落實該機制，反而加大對敘利亞南部的軍事入侵行動。美國官員擔憂，此舉正迫使大馬士革採取更強硬的對抗立場。特朗普政府已敦促敘利亞保持克制，並向敘方官員表示，待以色列大選結束後，各方或許更容易化解當前緊張局面。"
-    },
-    {
-      "id": "te:markets:576240",
-      "time": "2026-08-19 06:40:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%)."
-    },
-    {
-      "id": "mkt:01a01707-2dd1-7aab-9083-2c1558f7e1d8",
-      "time": "2026-08-19 06:39:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns."
     }
   ]
 }
