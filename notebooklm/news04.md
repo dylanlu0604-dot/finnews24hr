@@ -1,7 +1,224 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-26 03:58:07_
-_本檔包含 3397 則快訊，約 652452 字_
+_更新時間：2026-08-26 04:40:12_
+_本檔包含 3395 則快訊，約 652845 字_
+
+---
+
+### 2026-08-21 07:17:37  #Trading Economics #Economy #Australia #Manufacturing PMI #Importance 1
+
+Australia Factory Growth Steady in August — The S&P Global Flash Australia Manufacturing PMI remained unchanged at 52.0 in August 2026, according to flash estimates, matching July and stayed at the highest level since January. A reading above 50 indicates growth, suggesting the sector is maintaining a gradual recovery despite a mixed global environment. Output and new orders rose slightly, pointing to resilient underlying demand, though growth remains uneven across industries and export conditions vary. Cost pressures persist, with elevated input prices driven by energy, transport, and raw materials, keeping margins under strain despite some easing in supply chain disruptions. Employment was broadly stable as firms balanced cautious hiring with production needs. Overall, manufacturing is holding steady, but further gains depend on easing inflation and stronger global demand.
+
+---
+
+### 2026-08-21 07:17:05  #觀點
+
+【港股“同股不同權”制度升級 科創企業赴港上市門檻大幅降低】為了吸引更多創新企業赴港上市，港交所再次祭出“同股不同權”（下稱“WVR架構”）這一殺手鐧。近期，港股落地了2018年以來力度最大的上市制度改革，WVR架構企業上市規則最佳化成為其中的核心抓手。記者瞭解到，目前已有多家科創企業啟動架構梳理、合規整改等籌備工作，並積極開展港股上市可行性論證，搶抓本次制度最佳化帶來的機遇。在本輪改革中，港交所大幅下調了WVR架構企業上市門檻，市值要求由400億港元下調至200億港元，若企業最近一個會計年度收入高於6億港元，市值更可低至60億港元。此前，WVR架構企業赴港上市須滿足市值不低於400億港元，或市值不低於100億港元且最近一個會計年度收入不低於10億港元。光大證券資產配置首席分析師王開對記者表示，港交所此次下調WVR架構企業的上市門檻，並將適用範圍擴充套件至業務模式創新企業，精準回應新興產業和未來產業領域創新企業的治理訴求與融資痛點。這一制度革新將提升港股市場對全球優質科創及模式創新企業的吸引力，有助於豐富港股市場結構，進一步鞏固提升香港國際金融中心地位。（上海證券報）
+
+---
+
+### 2026-08-21 07:16:44  #MKT News #Market Regions #Greater China #CNH
+
+【LPR unchanged for 15th month; 'dual-anchor' setup to boost loan-pricing efficiency】China's LPR was unchanged for the 15th consecutive month. On Aug 20 the PBOC authorized the National Interbank Funding Center to publish the rates: 1-year LPR 3.00%, 5-year-plus LPR 3.50%. Analysts say a steady LPR is consistent with current policy rates and banks' net interest margins. Since late July the DR (bond repo rate for deposit-taking financial institutions) benchmark lending mechanism has been implemented; the dual-anchor framework is expected to further improve LPR quoting efficiency and loan-pricing quality.
+
+---
+
+### 2026-08-21 07:16:26  #其他
+
+市場訊息： 永利波士頓賭場員工授權舉行罷工。
+
+---
+
+### 2026-08-21 07:15:04  #市場
+
+【LPR連續15個月持穩 “雙錨”並行助推貸款定價質效提升】貸款市場報價利率（LPR）連續15個月維持不變。中國人民銀行8月20日授權全國銀行間同業拆借中心公佈：1年期LPR為3.0%，5年期以上LPR為3.5%。分析人士認為，綜合當前政策利率、銀行淨息差等現實情況，LPR“按兵不動”符合預期。7月下旬以來，DR（存款類金融機構債券回購利率）基準利率貸款持續落地，未來LPR報價效率有望進一步提升。（上證報）
+
+---
+
+### 2026-08-21 07:13:50  #其他
+
+【年內分紅已破千億元 公募基金著力提升投資者獲得感】公募基金迎來分紅熱潮。資料顯示，年內公募基金分紅金額已經突破千億元大關，分紅頻次同比大增。在“以投資者為本”的監管導向下，公募基金高頻分紅已成常態。疊加費率下調、浮動費率創新、投顧陪伴升級等多維舉措，公募行業正在打響全週期、多維度的持有人體驗升級戰。（上海證券報）
+
+---
+
+### 2026-08-21 07:12:28  #市場 #焦點
+
+現貨黃金突破4530美元/盎司，日內漲0.24%。
+
+---
+
+### 2026-08-21 07:12:22  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、首批41個典型場景釋出，助力規模化創新應用 交通需求與人工智慧技術加速對接（政策解讀）
+2、社會消費商品和服務零售總額前7月同比增2.6% 服務零售額增速持續高於商品零售額
+3、我國與APEC其他經濟體進出口前7月同比增21% 增速高於貨物貿易整體水平
+4、進出口銀行前7月新發放製造業貸款近5000億元 先進製造業貸款佔40%
+5、深入實施數字人社建設行動 到2030年底，申領電子社保卡人口覆蓋率達90%
+6、中國已成為厄瓜多第二大貿易伙伴
+7、工業和資訊化部再次批覆開展衛星物聯網業務商用試驗
+8、認證體系建設持續完善 上半年綠色建材營收同比增長超10%
+9、連通京津冀長三角 電商多式聯運快速班列開行
+10、新疆立法促進棉花產業高質量發展
+11、蘇州以科技創新驅動高質量發展
+12、機械工業何以“長紅”（讀數）
+13、山東助力企業延鏈補鏈強鏈、轉型智慧製造 傳統工廠跑出兩種“加速度”
+14、中國茶飲品牌不斷拓展國際市場 海外年輕人愛上“中國茶”（中國品牌圈粉海外）
+15、中國240小時過境免籤“朋友圈”擴充套件至57國
+16、“快遞進村”的建制村新增2244個
+17、“機器人消費街”亮相2026世界機器人大會
+18、恒大集團、恒大地產、許家印等案一審宣判
+19、《網路資料安全風險評估辦法》8月20日施行 公安部有關負責人就其實施有關事項回答記者提問
+20、佔約旦進口電動汽車八成以上 中國電動汽車獲約旦民眾青睞（國際視點）
+21、加快基礎設施建設 推動關鍵礦產增值 南部非洲加速推進工業化程序
+22、歐盟及英國約半數土地遭遇不同程度乾旱 持續高溫乾旱重創歐洲農業。
+
+---
+
+### 2026-08-21 07:12:22  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Falls, but Poised for 3rd Weekly Gain — New Zealand stocks inched down 18 points, or 0.1%, to 13,901 in Friday morning deals, extending losses from the previous session, tracking a downbeat session on Wall Street overnight amid rising US Treasury yields. The decline was mainly weighed down by healthcare, materials, and industrials. However, gains in consumer staples, tech sectors, and real estate capped the fall. Traders were also anticipating the release of US July PMIs and New Zealand's retail sales for Q2 due next week. On the data front, New Zealand's trade deficit widened in July, as exports rose less than imports. Among early losers were Fisher & Paykel (-1.1%), F&C Investment (-0.7%), EBOS Group (-0.6%), Mercury NZ (-0.6%), and Freightways Group (-0.5%). However, for the week, the index rose 0.3%, marking the third consecutive weekly gain.
+
+---
+
+### 2026-08-21 07:12:05  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、中共中央 國務院 中央軍委 關於給張陸頒發“二級航天功勳獎章” 授予武飛、張洪章“英雄航天員”榮譽稱號並頒發“三級航天功勳獎章”的決定（2026年8月20日）
+2、習近平致電祝賀希奇萊馬當選連任尚比亞總統
+3、宏觀政策發力提效
+4、趙樂際同薩爾瓦多立法大會主席卡斯特羅舉行會談
+5、“三北”工程攻堅戰年均完成建設任務8000萬畝以上
+6、蘇州以科技創新驅動高質量發展
+7、火箭回收海陸雙捷的啟示（今日談）。
+
+---
+
+### 2026-08-21 07:11:56  #央行 #中國央行
+
+【LPR連續15個月持穩 “雙錨”並行助推貸款定價質效提升】貸款市場報價利率（LPR）連續15個月維持不變。中國人民銀行8月20日授權全國銀行間同業拆借中心公佈：1年期LPR為3.0%，5年期以上LPR為3.5%。分析人士認為，綜合當前政策利率、銀行淨息差等現實情況，LPR“按兵不動”符合預期。7月下旬以來，DR（存款類金融機構債券回購利率）基準利率貸款持續落地，未來LPR報價效率有望進一步提升。
+
+---
+
+### 2026-08-21 07:10:39  #公司 #國際
+
+【訊息稱SpaceX、AST擬收購價值60億美元頻譜資產】SpaceX以及ASTSpacemobile公司等企業，均已表達有意收購GrainManagement有限責任公司所持有的大片頻譜資源。這批800兆赫茲頻段許可，是Grain與美國T‑Mobile完成頻譜置換後獲得。該頻譜被認為極具價值，能夠助力衛星運營商搭建語音業務的地面鏈路。Grain已要求意向方在9月第一週前提交初步報價，希望透過出售這批許可獲得約60億美元，不過該公司也考慮採取頻譜容量出租的方案。
+
+---
+
+### 2026-08-21 07:10:19  #Trading Economics #Economy #United Kingdom #Consumer Confidence #Importance 2
+
+UK Consumer Confidence Hits 2-Year High — The UK GfK Consumer Confidence Index rose to -14 in August 2026 from -17 in the previous month, marking the highest level in two years despite lingering geopolitical and economic uncertainty. Consumers became more optimistic about the economy and their personal finances over the next 12 months, while more households viewed the current period as a good time to make major purchases. Confidence has rebounded over the past two months, supported by the appointment of new Prime Minister Andy Burnham and easing energy prices. However, rapidly rising inflation is threatening to weigh on sentiment, with consumer prices climbing sharply in July to 2.9%, the highest in four months, driven by higher household energy costs. GfK warned that continued uncertainty surrounding the Middle East and elsewhere, along with persistent cost-of-living pressures, could test consumer confidence in the months ahead.
+
+---
+
+### 2026-08-21 07:07:56  #國際
+
+【烏克蘭首都遭空襲 死亡人數升至15人】烏克蘭首都基輔市市長克利奇科20日下午在社交媒體發文說，俄羅斯軍方19日深夜至20日凌晨對基輔市發動的大規模空襲致死人數已升至15人，另有39人受傷。（央視新聞）
+
+---
+
+### 2026-08-21 07:06:48  #MKT News #GBPUSD #Impact bullish #FTSE100 #Impact mixed
+
+【UK consumer confidence rises to two-year high】GfK's UK consumer confidence index rose to -14 in August, its highest since Aug 2024, aided by continued good weather and a new prime minister's "Burnham effect." The index had climbed 6 pts in July under the same influences. GfK head of consumer insights Neil Bellamy warned the uptick may be short-lived as resurgent inf and persistent Middle East and other geopolitical risks will test household resilience.
+
+---
+
+### 2026-08-21 07:06:45  #Trading Economics #Economy #Australia #Services PMI #Importance 2
+
+Australia Services Growth Eases — The S&P Global Flash Australia Services PMI Business Activity Index declined to 52.9 in August 2026 from July’s six-month high of a final 53.6. The latest reading marked a third consecutive month of growth, as activity and new business continued to grow, though at slightly softer rates.
+
+---
+
+### 2026-08-21 07:04:44  #經濟數據 #英國
+
+英國8月Gfk消費者信心指數為-14，為2024年8月以來最高水平。
+
+---
+
+### 2026-08-21 07:04:14  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
+
+Australia Composite PMI Slips from 6-Month High — Australia’s S&P Global Composite PMI fell to 52.5 in August 2026 from a final 53.2 in July, flash data showed. Still, private sector activity rose for the fourth time in five months, with the expansion concentrating in the service sector amid a slight dip in manufacturing output
+
+---
+
+### 2026-08-21 07:02:04  #Trading Economics #Economy #New Zealand #Imports #Importance 1
+
+New Zealand Imports Jump 28.4% — Imports to New Zealand surged 28.4% year-on-year to NZD 9.34 billion in July 2026, following a downwardly revised 27.5% jump in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 127.0%).
+
+---
+
+### 2026-08-21 07:01:36  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK GfK consumer confidence major purchases index rose to its highest level since December 2021.
+
+---
+
+### 2026-08-21 07:01:32  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
+
+UK GfK consumer confidence index for August was -14, the highest level since August 2024.
+
+---
+
+### 2026-08-21 07:01:31  #其他
+
+英國 GFK 消費者信心大額採購指數升至 2021 年 12 月以來最高水平。
+
+---
+
+### 2026-08-21 07:01:08  #資料
+
+英國8月Gfk消費者信心指數 -14，預期-18，前值-17。
+
+---
+
+### 2026-08-21 07:01:07  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+UK August GfK consumer confidence index -14; expected -18; prior -17.
+
+---
+
+### 2026-08-21 07:01:00  #MKT News #Economic Calendar #Important
+
+United Kingdom | GfK Consumer Confidence Index (Aug) | actual -14 | consensus -18 | previous -17
+
+---
+
+### 2026-08-21 07:00:16  #資料
+
+澳大利亞8月標普全球綜合PMI初值 52.5，前值53.2。
+澳大利亞8月標普全球製造業PMI初值 52，前值52。
+澳大利亞8月標普全球服務業PMI初值 52.9，前值53.6。
+
+---
+
+### 2026-08-21 07:00:08  #MKT News #AUDUSD #Impact bearish
+
+Australia Aug S&P Global services PMI preliminary 52.9, prior 53.6.
+
+---
+
+### 2026-08-21 07:00:08  #MKT News #DXY
+
+Australia Aug S&P Global Composite PMI (flash) 52.5, down from 53.2 previously.
+
+---
+
+### 2026-08-21 07:00:08  #MKT News #DXY #Impact bearish
+
+Australia August S&P Global manufacturing PMI (preliminary) 52, unchanged from previous 52.
+
+---
+
+### 2026-08-21 06:59:38  #MKT News #Commodities #Energy
+
+【APEC Energy Think Tank Forum Held in Dalian】Aug 20, Dalian — The APEC Energy Think Tank Forum brought together more than 100 delegates from 16 APEC economies, international organizations, think tanks and research institutes to discuss energy security, regional resilience, energy technology and innovation cooperation, and multilateral think‑tank networks. Participants called for institutionalized cooperation to remove barriers, coordinate energy security with the green transition, pursue coordinated innovation in key core technologies, and advance regional energy market interconnectivity to build an open, resilient Asia‑Pacific energy security framework. The 16th APEC Energy Ministers’ Meeting is scheduled for Sept. 10‑11 in Beijing.
+
+---
+
+### 2026-08-21 06:58:18  #MKT News #Important
+
+【Trump signs memo to expand U.S. launch infrastructure, targets 1,000+ annual launches by 2030】On Aug. 20 the White House said President Trump signed a memorandum directing U.S. spaceports and related facilities should be capable of supporting more than 1,000 launches and re-entries per year by 2030. The memo instructs agencies to expand and upgrade launch and re-entry infrastructure, open federal launch ranges to commercial users, encourage private investment and public‑private partnerships and joint infrastructure development, and accelerate facility permitting and environmental reviews. NASA is tasked with developing a commercial lunar logistics architecture, exploring commercial robotic Mars landings, and outlining architectures for commercial crewed round‑trip Mars missions.
 
 ---
 
@@ -20333,212 +20550,5 @@ Agricultural Commodities Updates: Cotton Gains by 3.18% — Top commodity gainer
 ### 2026-08-20 06:35:15  #Trading Economics #Markets #Commodity #Importance 1
 
 Metals Commodities Updates: Silver Surges by 5.67% — Top commodity gainers are Silver (5.67%), Platinum (5.39%) and Gold (4.23%). Biggest loser is Lithium Carbonate (-1.21%).
-
----
-
-### 2026-08-20 06:34:59  #央行 #公司 #資料 #國際
-
-【週四重要財經資訊提醒（以下均為北京時間）】
-① 09:00 中國8月貸款市場報價利率、中國7月Swift人民幣在全球支付中佔比；
-② 09:30 澳大利亞7月失業率；
-③ 14:00 德國7月PPI；
-④ 15:00 中國商務部召開8月第1次例行新聞釋出會；
-⑤ 待定 阿里巴巴、泡泡瑪特釋出財報；
-⑥ 20:30 美國8月15日當週首次申請失業救濟人數、美國8月費城聯儲製造業指數；
-⑦ 22:00 美國7月諮商會領先指標；
-⑧ 22:30 美國8月14日當週EIA天然氣庫存；
-⑨ 23:10 美國2028年FOMC票委、聖路易聯儲主席穆薩萊姆接受CNBC的採訪。
-
----
-
-### 2026-08-20 06:32:47  #MKT News #Market Regions #Japan & APAC
-
-Nikkei reports Japan's Ministry of Economy, Trade and Industry (METI) will seek ¥7.7 trillion in its FY2027 budget.
-
----
-
-### 2026-08-20 06:30:23  #MKT News
-
-【U.S. expands Treasury buybacks, called a 'shot in the arm'; Asian stocks set to rebound Thursday】Asian equities looked set to rebound after the U.S. announced expanded Treasury buybacks. In early Asian trade U.S. stock index futures ticked higher. On Wednesday the majority of S&P 500 components rose despite weakness in chipmakers. Japan, South Korea and Australia index futures pointed to higher opens, which would end a two-day slide for regional benchmarks. Elevated U.S. Treasury yields have kept borrowing costs high, weighing on growth and adding political risk for Trump and Republicans ahead of the November midterms. Investors demanding higher returns to offset inf risk triggered the recent bond selloff; markets are watching whether the Treasury measure will lower yields. Matt Maley, chief market strategist at Miller Tabak +, said the move reflects government concern about the bond market and is a 'shot in the arm' that could lift risk assets in the short term unless investors view it as a sign of economic weakness.
-
----
-
-### 2026-08-20 06:30:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Gasoline Drops by 2.83% — Top commodity losers are Gasoline (-2.83%) and Germany Natural Gas THE (-0.52%). Gains are led by Propane (1.38%), Crude Oil WTI (0.92%), Liquefied Natural Gas Japan Korea (0.91%) and Brent Crude Oil (0.58%).
-
----
-
-### 2026-08-20 06:29:01  #其他
-
-【Hudson River Trading第二季度交易收入創紀錄 7月實現盈利】Hudson River Trading第二季度交易收入達到創紀錄的114億美元，並在7月實現盈利，扛住了AI股票暴跌的衝擊。知情人士透露，HRT季度交易收入較去年同期增長超過三倍，季度淨利潤為74億美元。第二季度調整後息稅折舊攤銷前利潤約為80億美元，較去年同期的17.5億美元增長超過350%。知情人士補充稱，HRT高管在與債券持有人的電話會議上表示，儘管7月市場受到Situational Awareness相關問題影響，但HRT並未直接投資於該基金，並且當月仍實現盈利。
-
----
-
-### 2026-08-20 06:27:39  #國際
-
-據Axios記者：敘利亞過渡政府外交部長希巴尼在八份書面答覆中的一份中表示，土耳其無意在該地設立基地，也不打算在此建立土耳其永久軍事存在或部署土耳其軍隊。
-
----
-
-### 2026-08-20 06:24:49  #國際
-
-市場訊息：日本經濟產業省擬在 2027 財年預算中申請 7.7 萬億日元。
-
----
-
-### 2026-08-20 06:22:53  #MKT News
-
-Russian attack on Kyiv killed two and injured six.
-
----
-
-### 2026-08-20 06:21:25  #觀點
-
-【財富管理轉型與股東回報雙向發力，多家券商上半年營收淨利雙增】8月19日，光大證券、興業證券披露2026年半年報。資料顯示：上半年，光大證券實現營業收入60.56億元、同比增長18.17%，歸母淨利潤22.29億元、同比增長32.45%；興業證券實現營業收入67.3億元、同比增長24.54%，歸母淨利潤21.29億元、同比增長60.08%。據統計，截至8月19日，已有6家上市券商披露半年報，上半年均實現營收淨利潤雙增。受訪人士認為，資本市場活躍度提升帶動券商多項業務回暖，在業績改善的基礎上，券商持續提升資本使用效率、強化股東回報，能夠形成“質效提升—業績增長—回報增強—價值提升”的良性迴圈，提升券商板塊的“吸引力”。（上證報）
-
----
-
-### 2026-08-20 06:20:52  #其他
-
-加拿大美加貿易事務部長勒布朗： 加拿大總理卡尼與各省省長舉行了富有建設性且意義重大的會談。
-
----
-
-### 2026-08-20 06:19:31  #國際
-
-加拿大美加貿易事務部長勒布朗：總理已向加拿大各省省長通報與美國的談判情況。
-
----
-
-### 2026-08-20 06:15:37  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Ukrainian air force says Russia launched large-scale ballistic missile attack on Kyiv】Ukraine’s air force said in a social media post in the early hours of the 20th that Russian forces launched a new, large-scale round of ballistic missile strikes toward Kyiv. It warned multiple ballistic missiles were flying toward the capital from Chernihiv and Poltava regions. Multiple loud explosions were heard in Kyiv and a brief power outage hit the Dnipro district. Kyiv’s air-raid warning remained in force.
-
----
-
-### 2026-08-20 06:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Swiss Franc Rises by 1.88% — Top currency gainers are Swiss Franc (1.88%), South Korean Won (1.82%), Swedish Krona (1.06%), Japanese Yen (0.97%), Euro (0.89%) and British Pound (0.55%). Biggest loser is Dollar Index (-0.88%).
-
----
-
-### 2026-08-20 06:12:27  #國際
-
-新斯科舍省省長：加拿大總理卡尼已要求各省解除對美國酒類的禁令。
-
----
-
-### 2026-08-20 06:10:12  #宏觀 #市場 #國際
-
-【美國擴大國債回購規模前一天，投資者創紀錄押注長期美債ETF】就在美國財政部意外宣佈擴大長期國債回購規模、推動債市上漲的前一天，一名或多名投資者週二大舉買入一隻對美國長期國債收益率波動高度敏感的ETF。當天，規模達15億美元的PIMCO 25年以上期零息美國國債指數ETF吸引了創紀錄的1.23億美元資金流入，成交量則躍升至520萬股，接近2024年創下的此前峰值的兩倍。該ETF投資於所謂的“剝離式國債”（STRIPS），即將債券本金和利息支付分離後形成的零息證券，因此能夠放大對美國長期利率走勢的押注。該ETF週三上漲3.2%，為自2024年11月以來的最大漲幅。然而，由於通脹和財政赤字引發的擔憂影響了長期國債，今年該基金已累計下跌5.4%。該基金的債券持倉有效久期約為28年，這意味著收益率每下降1個百分點，其價格將上升約28%。
-
----
-
-### 2026-08-20 06:08:01  #宏觀
-
-【上證報：啟用民間投資，財政金融一攬子政策將發力】近期央地密集部署促進民間投資，一批務實管用的增量政策正謀劃出臺：加快落實“六張網”建設實施方案，創新投融資機制吸引社會資本；包括新型政策性金融工具在內的多路資金有望加快下達使用，加大對民間投資專案支援力度……多位專家表示，隨著政策加快落地，民間投資下行壓力有望緩解，逐步止跌回穩。從長期來看，投資結構將持續最佳化，民間投資將更多體現為“高質量、高技術”的結構性增長。
-
----
-
-### 2026-08-20 06:07:53  #國際
-
-【聯合國警告：以色列定居點計劃威脅“兩國方案”】當地時間19日，聯合國秘書長發言人迪雅裡克表示，聯合國秘書長古特雷斯對有關以色列在約旦河西岸地區新建非法定居點前哨等行為深感震驚。古特雷斯表示，這一進展將實際上切斷約旦河西岸地區北部與南部之間的聯絡，呼籲以色列不要在這一問題上採取任何進一步行動，相關進展將嚴重影響被佔領巴勒斯坦領土的領土完整，並對“兩國方案”構成生存性威脅。（央視新聞）
-
----
-
-### 2026-08-20 06:01:14  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為67.3%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為67.3%，累計加息25個基點的機率為32.7%。美聯儲到10月維持利率不變的機率為58.3%，累計加息25個基點的機率為37.3%，累計加息50個基點的機率為4.3%。
-
----
-
-### 2026-08-20 06:00:46  #市場 #焦點
-
-現貨白銀突破67美元/盎司，日內漲0.18%。
-
----
-
-### 2026-08-20 06:00:44  #市場 #焦點
-
-紐約期銀突破68美元/盎司，日內漲2.24%。
-
----
-
-### 2026-08-20 06:00:38  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Ukrainian air force says Russian forces launch large-scale ballistic missile attack on Kyiv】The Ukrainian Air Force said on social media in the early hours of the 20th that Russian forces launched a new round of ballistic missile strikes targeting Kyiv. Around midnight it warned multiple ballistic missiles were heading toward Kyiv from Chernihiv and Poltava oblasts. Xinhua reporters heard several strong explosions in Kyiv and reported a short power outage in the Dnipro district; earlier they heard two separate rounds of sustained explosions. As of filing, Kyiv's air raid warning remained in effect.
-
----
-
-### 2026-08-20 06:00:32  #國際
-
-【美媒：美軍開展秘密行動在霍爾木茲海峽打通運油航道】據美國阿克西奧斯新聞網站19日報道，美軍已悄悄建立一條進出霍爾木茲海峽的航運通道，確保每天有“數百萬桶”石油運出霍爾木茲海峽。報道援引兩名美國官員的話稱，這項行動已持續數週。過去兩週，每天有15到20艘油輪經由阿曼沿海一條南部航道進出該海峽。美官員稱，石油日均運輸量持續增長，目前已接近1000萬桶，某些夜晚從海灣運出的石油總量甚至達到1500萬至2000萬桶。美官員稱，雖然經由霍爾木茲海峽運出的石油量仍低於戰前水平，但它已對全球供應產生了明顯影響。（新華社）
-
----
-
-### 2026-08-20 06:00:03  #市場
-
-紐約期銀日內漲2%，現報67.91美元/盎司。
-
----
-
-### 2026-08-20 05:59:54  #國際
-
-【烏空軍稱俄軍對基輔發動大規模彈道導彈襲擊】烏克蘭空軍20日凌晨在社交媒體發文稱，俄軍對烏克蘭發動新一輪彈道導彈襲擊，俄軍的彈道導彈正在向烏首都基輔市方向移動。當天零時許，烏空軍發文提醒稱，多枚彈道導彈正在從切爾尼戈夫州和波爾塔瓦州向基輔市方向飛來。之後，新華社記者聽到基輔市響起多次強烈爆炸聲，隨後記者所在的第聶伯區電力供應出現短時間中斷。此前，記者已聽到基輔市響起兩輪強烈的持續爆炸聲。截至發稿時，基輔市空襲預警尚未解除。
-
----
-
-### 2026-08-20 05:59:45  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Trump says US has harsh sanctions options against Iran】On Aug. 19 at the White House, President Trump said the US has "a lot" of areas it can sanction and that it holds "very severe" measures, adding "we'll see." He also said the US "owns" and "fully controls" the Strait of Hormuz and that Iran's occasional drone launches "do cause trouble." Earlier Aug. 19 he said talks with Iran might resume "at some point" only if Iran fully abandons nuclear weapons; on Aug. 18 he said there were no talks or dialogue, contradicting his prior claim that negotiations were underway — a position Tehran has repeatedly denied.
-
----
-
-### 2026-08-20 05:58:49  #公司 #市場
-
-澳大利亞黃金礦業公司Northern Star預計2027財年黃金產量為150萬至165萬盎司。
-
----
-
-### 2026-08-20 05:58:13  #國際
-
-特朗普稱將出席 9 月 9‑10 日的共和黨中期代表大會。
-
----
-
-### 2026-08-20 05:57:40  #國際
-
-【特朗普稱掌握可嚴厲制裁伊朗措施】當地時間8月19日下午，美國總統特朗普在白宮回答媒體有關將如何制裁伊朗的提問時稱，“我們有很多可以制裁的領域，我們手裡有非常嚴厲的制裁手段，我們拭目以待。”當天早些時候特朗普還曾對媒體表示，可能在“某個時候”恢復與伊朗的談判，但伊朗必須徹底放棄核武器。 特朗普還再次聲稱美國“擁有”並“完全控制”霍爾木茲海峽，並稱伊朗“偶爾發射無人機確實會帶來麻煩”。 特朗普8月18日在社交媒體上稱，目前沒有和伊朗進行任何會談或對話。此前，他一直堅稱美國同伊朗正在進行談判，但遭到伊朗方面多次否認。（CCTV國際時訊）
-
----
-
-### 2026-08-20 05:57:13  #MKT News
-
-Colombian president says earthquake death toll has reached 314; 262 people remain missing.
-
----
-
-### 2026-08-20 05:56:27  #MKT News
-
-【Analysis: Rising U.S. debt becomes focus of midterm elections】Michael Peterson, CEO of the Peter G. Peterson Foundation, said rising U.S. debt has become a midterm-election focal point and framed the issue as a cost-of-living problem. He warned higher debt raises interest costs — interest outlays now exceed defense spending — and said each $1 trillion of additional debt pushes up interest rates and inflation, increasing mortgage, auto and credit-card payments. He added rising debt undermines economic growth and slows wage growth while living costs rise.
-
----
-
-### 2026-08-20 05:56:04  #MKT News #Macro & Rates #US10Y #Impact bearish #S&P500 #Impact bullish #DXY
-
-【Bessent emerges as most interventionist US Treasury secretary in decades】US Treasury Secretary Bessent this year has taken an unusually interventionist stance to curb rising US borrowing costs, including a move this week to "at least double" planned buybacks of 10-yr and 30-yr Treasuries. Treasury had earlier signaled it might reduce long-term debt issuance; on July 31 Bessent led the US government’s first yen purchase in 30 years. Former Treasury official Mark Sobel called Bessent "absolutely an aggressive interventionist," saying his hedge-fund background is evident and senior officials are clearly worried about rising long-term yields. Rising 10-yr yields — driven by inflation, Fed policy and fiscal deficits — have pushed mortgage rates higher and weighed on growth; analysts say Bessent appears to be attempting yield-curve intervention to stabilize markets but warn it is unlikely to succeed long-term without addressing high debt and deficits.
-
----
-
-### 2026-08-20 05:55:55  #其他
-
-哥倫比亞總統表示，地震已造成 314 人遇難，仍有 262 人失蹤。
-
----
-
-### 2026-08-20 05:54:17  #Trading Economics #Economy #Jamaica #Interest Rate #Importance 1
-
-Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%.
 
 ---

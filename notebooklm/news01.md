@@ -1,7 +1,301 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-26 03:58:07_
-_本檔包含 3168 則快訊，約 653203 字_
+_更新時間：2026-08-26 04:40:12_
+_本檔包含 3185 則快訊，約 653026 字_
+
+---
+
+### 2026-08-26 04:38:25  #MKT News
+
+Iran's deputy foreign minister Gharibabadi said adversaries should know Iran is fully prepared for any eventuality. He added that if adversaries return to the agreement and honor their commitments, Iran will respond accordingly.
+
+---
+
+### 2026-08-26 04:37:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran’s deputy foreign minister said Tehran will employ negotiations and war to inflict heavy blows on its enemies.
+
+---
+
+### 2026-08-26 04:36:21  #其他
+
+房地美：7 月抵押貸款相關投資組合的未償還本金總額增加約 12 億美元。
+
+---
+
+### 2026-08-26 04:36:02  #國際
+
+市場訊息：日本自民黨提議進一步提高持有房產 5 年及以下的業主出售公寓時適用的資本利得稅稅率。
+
+---
+
+### 2026-08-26 04:35:29  #其他
+
+房地美：多戶住宅抵押貸款逾期率從 6 月的 0.51% 上升至 7 月的 0.60%。
+
+---
+
+### 2026-08-26 04:35:18  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.30% Higher — The Dow Jones Index gained 160 points or 0.30 percent on Tuesday to close at 53577 points. Gains were led by Merck (3.84%), Goldman Sachs (2.37%) and Nvidia (2.18%). Biggest losers were Nike (-3.26%), McDonalds (-1.64%) and Chevron (-1.49%).
+
+---
+
+### 2026-08-26 04:34:58  #其他
+
+房地美：單戶住宅抵押貸款逾期率由 6 月的 0.60% 降至 7 月的 0.59%。
+
+---
+
+### 2026-08-26 04:34:43  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Deputy Foreign Minister Karibabadi said if the US moves forward with new sanctions on Iran, Iran will announce new measures targeting US interests.
+
+---
+
+### 2026-08-26 04:34:14  #其他
+
+房地美：7 月份抵押貸款組合年化增速為 1.8%。
+
+---
+
+### 2026-08-26 04:33:34  #國際
+
+伊朗副外長加里巴巴迪：倘若美國執意對伊朗實施新一輪制裁，伊朗將公佈針對美國利益的反制新舉措。
+
+---
+
+### 2026-08-26 04:33:12  #MKT News #WTI #Impact bullish #Brent
+
+Iran deputy foreign minister Karibabadi said an understanding reached with Oman for the first time referenced security issues and measures to prevent threats to the Strait of Hormuz.
+
+---
+
+### 2026-08-26 04:32:47  #國際
+
+【伊朗和阿曼討論霍爾木茲海峽航運 擬設“臨時聯合海上走廊”】阿曼通訊社援引伊朗與阿曼聯合宣告報道，伊朗外長阿巴斯·阿拉格齊與阿曼外交大臣Badr Albusaidi討論了一項旨在恢復霍爾木茲海峽航運的“臨時框架”，眼下雙方正繼續就這條關鍵航道的航行問題推進持續已久的談判。根據宣告，這項倡議擬設立一條“臨時聯合海上走廊”並開展掃雷專案，以恢復該地區航運安全。宣告稱，雙方將繼續舉行技術層面會談，爭取就永久海上走廊、海峽未來管理機制，以及就資訊交換、航運管理以及相關海事和安全服務安排達成一致。
+
+---
+
+### 2026-08-26 04:31:47  #MKT News #WTI #Impact bullish #Brent
+
+Iran's deputy foreign minister Gharibabadi said the country remains at war and the Strait of Hormuz will remain closed.
+
+---
+
+### 2026-08-26 04:30:11  #MKT News
+
+Iran's deputy foreign minister Gharibabadi said if the US first meets its obligations, Iran could fulfill its commitments in under a day.
+
+---
+
+### 2026-08-26 04:25:25  #MKT News
+
+Iran Deputy Foreign Minister Garibabadi told Pakistan Army Chief Munir that Iran does not trust the United States.
+
+---
+
+### 2026-08-26 04:24:30  #MKT News #WTI #Impact bullish #XAUUSD
+
+Iran's deputy foreign minister Gharibabadi said Iran has its own options to respond to any U.S. plan, including confrontation, escalation and sanctions.
+
+---
+
+### 2026-08-26 04:23:53  #MKT News #WTI #Impact bearish #Brent
+
+Iran deputy foreign minister Gharibabadi said no warship may transit the Strait of Hormuz.
+
+---
+
+### 2026-08-26 04:21:45  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Advances as Banks Gain — The S&P/TSX Composite Index rose 0.7% to close at 36,958 on Tuesday as investors weighed major bank earnings against new developments in the US-Canada trade dispute. Financials traded higher amid a busy week of quarterly results from major banks. BMO (+0.6%) reported higher third-quarter profit, driven by strong performance in its capital markets business, while Scotiabank (+7%) also posted stronger earnings, supported by higher interest income. RBC rose 1.4%, TD Bank added 2%, and CIBC gained 2.8% ahead of their results on Thursday. National Bank (+2.6%) is due to report on Wednesday. Miners also supported the index amid higher gold prices. Meanwhile, Canada will double its counter-tariffs on US steel and aluminum products to 50%. New 50% duties will also apply to US-made milk, furniture, clothing, video-game consoles, smartphones, and other electronics, affecting about C$20 billion in annual US exports to Canada.
+
+---
+
+### 2026-08-26 04:21:25  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+【WTI falls below $80; reports say US and Iran agree on ceasefire terms】WTI crude fell below $80, extending intraday losses to 5.4%. Brent slid toward $85, down nearly 6% on the day. Russian media reported the US and Iran have reached consensus on terms of a ceasefire agreement.
+
+---
+
+### 2026-08-26 04:20:50  #MKT News #Commodities #Energy
+
+Sources: Brazilian government will extend gasoline subsidy until Sept. 9, local time.
+
+---
+
+### 2026-08-26 04:20:44  #市場
+
+布倫特原油日內跌6%，現報85.10美元/桶。
+
+---
+
+### 2026-08-26 04:20:15  #其他
+
+訊息人士稱，巴西政府將汽油補貼延長至 9 月 9 日。
+
+---
+
+### 2026-08-26 04:20:05  #MKT News #Important #WTI #Impact mixed #Brent
+
+U.S. API weekly crude inventories for the week to Aug. 21 are due in 10 minutes.
+
+---
+
+### 2026-08-26 04:18:29  #MKT News #Important
+
+Iranian deputy foreign minister Garibabadi told Iranian media Fars News that if the US has already cleared sea mines from the Strait of Hormuz, US vessels should be able to transit it, adding that, apart from Iran, no one knows the mines' exact locations.
+
+---
+
+### 2026-08-26 04:17:57  #國際
+
+伊朗副外長加里巴巴迪：霍爾木茲海峽重新開放的條件是全面結束各戰線戰事、解除封鎖以及化解葉門局勢。我們已告知巴基斯坦陸軍參謀長，海峽能否重開取決於美國履行諒解備忘錄項下的各項承諾。
+
+---
+
+### 2026-08-26 04:15:12  #國際
+
+美國上訴法院叫停聯邦通訊委員會擴大廣播電視政治廣告優惠費率的計劃。
+
+---
+
+### 2026-08-26 04:14:14  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's deputy foreign minister said Tehran told negotiators that if the US wants the Strait of Hormuz reopened, it must correct its mistakes and honor its commitments.
+
+---
+
+### 2026-08-26 04:13:32  #國際
+
+伊朗副外長加里巴巴迪對國家電視臺表示，伊朗告知談判代表，若美國希望霍爾木茲海峽重新開放，就必須糾正自身錯誤並重回所作承諾。
+
+---
+
+### 2026-08-26 04:11:08  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+WTI crude fell 5.0% intraday to $80.33/bbl; Brent down 5.3% to $85.47/bbl.
+
+---
+
+### 2026-08-26 04:10:27  #MKT News #WTI #Impact bullish #Brent
+
+【Iran says Oman agreed to close southern shipping lane of Strait of Hormuz; talks to continue】Iran's deputy foreign minister said Iran and Oman have agreed to close the Strait of Hormuz's southern shipping lane and will notify the International Maritime Organization. He said the two will negotiate a future management mechanism for the strait over about 60 days to determine joint arrangements. Iran added that if its demands are not met, the closure will remain in place.
+
+---
+
+### 2026-08-26 04:07:35  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise as Tech Rebounds — US stock indices closed higher on Tuesday, led by a rebound in technology stocks as lower oil prices pushed bond yields down. The S&P 500 rose 0.3%, the Nasdaq gained 0.6%, and the Dow added 160 points. Companies exposed to AI infrastructure recovered from losses in the previous session amid uncertainty surrounding the sector. Expectations of potentially massive IPOs by hyperscalers investing heavily in AI infrastructure, including Anthropic and OpenAI, supported chipmakers and cloud companies. Nvidia gained 2.2% ahead of its earnings report on Wednesday, while Microsoft rose 0.9%, Meta advanced 2%, Micron added 2.5%, and AMD jumped 4.9%. Broader sectors also advanced as long-term Treasury yields pulled back from recent highs. Lower oil prices, despite the latest US sanctions threat against Iran, offered some relief to credit-sensitive sectors that had been pressured by energy-driven inflation concerns. Morgan Stanley rose 1.3%, while Goldman Sachs gained 2.2%.
+
+---
+
+### 2026-08-26 04:07:31  #市場
+
+WTI原油日內跌5%，現報80.75美元/桶。
+
+---
+
+### 2026-08-26 04:07:11  #其他
+
+ZOOM第二財季營收12.8億美元，市場預估12.7億美元。
+
+---
+
+### 2026-08-26 04:06:51  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude down 5.00% intraday at $85.87/bbl.
+
+---
+
+### 2026-08-26 04:06:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+Aug 25 (Tue) — Dow Jones Industrial Average closed up 160.07 points (+0.30%) at 53,577.23; S&P 500 closed up 24.36 points (+0.32%) at 7,677.22; Nasdaq Composite closed up 171.11 points (+0.66%) at 26,151.30.
+
+---
+
+### 2026-08-26 04:05:31  #MKT News #Important #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+【Sputnik cites sources: US, Iran reach consensus on ceasefire terms】Pakistani military and Iranian security sources told Sputnik the US and Iran have reached consensus on ceasefire terms that include freedom of navigation in the Strait of Hormuz. Sources said an announcement could come within days. An Islamabad memorandum foresees opening negotiations and holding a technical meeting.
+
+---
+
+### 2026-08-26 04:05:05  #焦點 #國際
+
+【據報道美伊即將達成停火】俄新社援引巴基斯坦與伊朗軍方訊息源報道，美國與伊朗據稱已達成停火協議，預計未來數日將正式對外宣佈。 這份網傳協議包含霍爾木茲海峽航行自由，以及依據伊斯蘭堡備忘錄重啟談判。 美國與伊朗雙方均尚未證實該協議；與此同時，阿曼與伊朗分別提出恢復海峽通航的臨時機制。
+
+---
+
+### 2026-08-26 04:03:52  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Intuit earnings above expectations at 4.03 USD — Intuit (INTU) released earnings per share at 4.03 USD, compared to market expectations of 3.54 USD.
+
+---
+
+### 2026-08-26 04:03:31  #其他
+
+財捷Intuit第四財季淨營收43.5億美元，分析師預期42.7億美元。預計2027財年營收232.8億-235.1億美元，分析師預期238.2億美元。
+
+---
+
+### 2026-08-26 04:03:31  #MKT News #Important #Star Stocks #NVIDIA #Alibaba #Market Themes #Chip Wars #Magnificent 7 #S&P500 #Impact bullish #NVDA.O #AMD.O
+
+【U.S. close: major indexes rise; NVIDIA +2%】U.S. equities closed higher on Tuesday. The Dow rose 0.3%, the S&P 500 gained 0.32% and the Nasdaq added 0.66%. Memory names SK Hynix and Micron climbed more than 2%, NVIDIA rose 2.1% and AMD jumped nearly 5%. The Nasdaq Golden Dragon China Index gained 1.1%, with Alibaba up 0.8%.
+
+---
+
+### 2026-08-26 04:03:24  #國際
+
+市場訊息：日本原子能機構及其他機構已研發出可從水和石油中提取稀土元素的技術。
+
+---
+
+### 2026-08-26 04:01:49  #市場 #焦點
+
+布倫特原油失守86美元/桶，日內跌5.06%。
+
+---
+
+### 2026-08-26 04:01:45  #市場 #焦點
+
+WTI原油失守81美元/桶，日內跌4.75%。
+
+---
+
+### 2026-08-26 04:01:14  #市場
+
+布倫特原油日內跌5%，現報86.01美元/桶。
+
+---
+
+### 2026-08-26 04:01:06  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Iran says Strait of Hormuz will not reopen immediately; temporary bilateral corridor to be finalised in 30–60 days】Iran’s deputy foreign minister said a memorandum with Oman on the Strait of Hormuz does not mean the waterway will reopen tomorrow. Under the accord, inbound and outbound routes to the Persian Gulf will run through Iranian and Omani waters respectively in a temporary two-way corridor about 7 nautical miles wide. He said the strait has become a national security issue, that vessels have mainly used Omani waters over the past 58 years and Iran has suffered serious damage, and that Tehran and Muscat will negotiate a permanent route within 30–60 days.
+
+---
+
+### 2026-08-26 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲0.30%，標普500指數漲0.32%，納指漲0.66%。Moderna漲14.36%，超微電腦漲9.35%，羅賓漢漲8.17%，CDW Corporation漲7.74%，Lumentum Holdings Inc.漲6.67%，Reddit漲6.33%。“七姐妹”方面：英偉達漲2.19%，Meta Platforms漲1.97%，微軟漲0.90%，特斯拉漲0.37%，蘋果跌0.14%，谷歌跌0.36%，亞馬遜跌0.39%。
+
+---
+
+### 2026-08-26 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲1.10%】世紀互聯漲6.26%，海川證券漲5.73%，BOSS直聘漲5.28%，巨龍線上漲4.76%，網易漲4.70%。
+
+---
+
+### 2026-08-26 03:59:54  #國際
+
+市場訊息：巴基斯坦軍方訊息源與伊朗安全部門訊息人士向俄新社透露，華盛頓與德黑蘭已達成停火協議。
+
+---
+
+### 2026-08-26 03:57:47  #國際
+
+【加里巴巴迪：霍爾木茲海峽南部航道將關閉】伊朗副外長加里巴巴迪：霍爾木茲海峽南部航道將會關閉，此事已達成共識。阿曼同意關閉該航道，相關事宜將通報國際海事組織。伊朗與阿曼將就霍爾木茲海峽未來管理事宜開啟談判，擬定聯合安排大約需要 60 天時間。倘若伊朗的訴求得不到滿足，霍爾木茲海峽將持續處於關閉狀態。
 
 ---
 
@@ -18868,197 +19162,5 @@ Spot silver rose 1.00% intraday to $69.64/oz.
 ### 2026-08-25 07:47:37  #國際
 
 【普京會見印度外長蘇傑生俄印領導人期待會晤】俄羅斯總統普京24日在莫斯科克里姆林宮會見來訪的印度外交部長蘇傑生。雙方積極評價俄印經貿關係，並表示兩國領導人期待透過上海合作組織平臺舉行會晤。 據俄羅斯總統網站24日訊息，普京在會見時表示，俄印幾乎在所有領域繼續開展合作，兩國貿易額今年迎來增長。普京說，希望近期按計劃在“上合組織工作框架下”與印度總理莫迪會晤。 普京說，俄第一副總理曼圖羅夫當天已同蘇傑生討論了許多重要議題，包括俄向印度提供能源和化肥等。“關於核能、高科技等領域合作議題均在俄印議事日程上且在穩步推進。” 蘇傑生說，印俄經濟合作顯著發展，莫迪期待在上合組織峰會上與普京會晤，並希望普京出席今年的金磚峰會。 另據俄聯邦政府網站24日訊息，今年上半年俄印雙邊貿易額同比增長8%。在當天舉行的俄印政府間委員會會議上，雙方討論了擴大兩國工商界直接往來、拓展工業和能源合作等議題。(新華社)
-
----
-
-### 2026-08-25 07:47:29  #觀點
-
-【華泰證券：快遞板塊低位佈局旺季行情，把握漲價催化】華泰證券研報表示，7月電商淡季疊加國補高基數，線上與線下消費增速均放緩，社零/商品零售額/網上商品零售額分別同比+0.6%/+0.5%/+3.0%。但快遞需求保持韌性，行業件量同比+4.1%，較6月小幅回升；件均價同比+3.8%，“反內卷”背景下價格延續同比改善。全國價格窪地河北8月初宣佈漲價，行業高質量發展要求仍在，旺季價格上行預期有望成為板塊催化。當前電商快遞龍頭仍處於低估值、低預期階段，建議低位佈局旺季。
-
----
-
-### 2026-08-25 07:47:22  #市場 #國際
-
-基準10年期日本國債期貨9月合約早盤下跌0.02點。
-
----
-
-### 2026-08-25 07:47:17  #其他
-
-TCL電子正考慮分拆光伏業務並推動其單獨上市。
-
----
-
-### 2026-08-25 07:46:35  #其他
-
-【馬斯克證實SpaceX獵鷹將停產】馬斯克確認星艦實現穩定高頻飛行後，將逐步停產退役獵鷹 9 及獵鷹重型火箭，集中資源升級星艦發射能力。商業獵鷹 9 或 2028 年退出市場，退役時間取決於星艦研發進展。
-
----
-
-### 2026-08-25 07:45:56  #市場 #國際
-
-日本日經平均指數期貨早盤下跌0.37%。
-
----
-
-### 2026-08-25 07:45:50  #其他
-
-【北京未來三天多降雨 今天午後至夜間局地大到暴雨】今起三天（8月25日至27日），北京降雨頻繁，其中今天午後至夜間有中雨，局地大雨到暴雨。在降雨影響下，北京氣溫將出現波動，今天最高氣溫30℃，明天將下降至27℃。
-
----
-
-### 2026-08-25 07:45:37  #公司 #市場 #國際
-
-【特朗普民調支援率維持歷史低位】據路透社報道，當地時間8月24日，路透社/益普索集團釋出的一項民意調查顯示，美國公眾對伊朗戰事的支援率跌至衝突爆發初期以來最低水平，這也使得美國總統特朗普的支援率維持在歷史低位。調查顯示，僅有31%的美國人支援美國對伊朗採取軍事行動，低於3月份民調的37%以及8月早些時候的34%。報道指出，伊朗戰事使得特朗普的公眾形象持續惡化。連續兩輪民調顯示，僅有33%的受訪者認可特朗普在白宮的施政表現。（中新網）
-
----
-
-### 2026-08-25 07:43:19  #市場
-
-【現代汽車與工會達成初步薪資協議】8月25日，據報道，現代汽車與其工會達成了一項初步薪資協議，其中包括基本月薪上調10萬韓元。協議內容包括：月薪400%的獎金外加1270萬韓元、15股現代汽車股票、50萬韓元福利積分，以及夏季休假補貼上調20萬韓元。此外，現代汽車同意在2027年至2028年間新招聘500名生產工人。工會成員將於8月31日就這項臨時協議進行投票表決。
-
----
-
-### 2026-08-25 07:43:02  #其他
-
-【APEC技術向善研討會舉行】近日，APEC技術向善研討會：共築亞太地區的數字化未來（APEC Tech for Good Workshop: Advancing Digital Futures in the Asia-Pacific）在遼寧大連舉行。本次會議是APEC第三次高官會（SOM3）舉辦期間的配套邊會活動，也是繼今年7月深圳前海“APEC技術向善研討會”之後的重要延續。作為本次邊會主辦方之一，前海管理局圍繞數字創新探索，在會上展示前海在數字經濟發展、資料治理創新、人工智慧應用、低空經濟等領域的探索成果。據悉，此次邊會是此前7月在前海舉行的APEC技術向善研討會成果的重要延續。當時會議研討形成的《APEC技術向善：典範案例與行動指南》和《技術向善深圳倡議》階段性成果，在APEC第三次高官會舉行期間透過相關活動進一步開展交流分享。（深圳特區報）
-
----
-
-### 2026-08-25 07:42:44  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Steady Ahead of Fresh Earnings — US stock futures were little changed on Tuesday as investors looked ahead to another batch of corporate earnings that could provide fresh clues on tech performance and consumer activity. Key earnings due later in the global day include Intuit, Zoom, Semtech, Dick’s Sporting Goods and Macy’s. Investors will also turn their attention to Nvidia’s earnings report on Wednesday for further insight into the strength of artificial intelligence-related demand. On the economic front, US consumer confidence data are due Tuesday, followed by the latest personal consumption expenditure price index on Wednesday. Additionally, Federal Reserve Chair Kevin Warsh is scheduled to deliver a speech at the Fed’s annual Jackson Hole symposium on Friday. In regular trading on Monday, the Dow rose 0.26%, while the S&P 500 and Nasdaq Composite fell 0.28% and 0.76%, respectively, amid broad-based losses across AI infrastructure stocks.
-
----
-
-### 2026-08-25 07:42:20  #其他
-
-【深圳智造手術機器人出海 賦能沙特國家級遠端手術專案落地】國產高階醫療裝備賦能海外醫療體系升級。近日，沙烏地阿拉伯國家級遠端機器人手術專案正式啟動，深企精鋒醫療作為該計劃核心技術合作方，自主研發的精鋒手術機器人及遠端系統，成功支援了沙特首個多科室、多場景遠端機器人手術專案落地。這是中國手術機器人系統首次以核心技術平臺身份，納入海外國家戰略級遠端外科建設體系。（深圳特區報）
-
----
-
-### 2026-08-25 07:40:13  #國際
-
-【美國證券交易委員會就Situational Awareness向華爾街銀行發出傳票】據知情人士透露，美國證券交易委員會(SEC)向華爾街多家大型銀行發出傳票，涉及對沖基金Situational Awareness相關事宜。知情人士表示，監管機構尋求的資訊與該對沖基金的交易活動有關。Situational Awareness上個月因承受壓力，被迫退出大量持倉。
-
----
-
-### 2026-08-25 07:39:28  #公司
-
-【江蘇省政府與圓通速遞簽署戰略合作協議】8月24日，江蘇省政府與圓通速遞有限公司簽署戰略合作協議。省長劉小濤會見圓通速遞董事局主席喻渭蛟一行，並見證共同簽約。雙方表示，將攜手構建多層次產業供應鏈服務體系，完善多港聯動、多式聯運機制，加強國際卡班、口岸通關合作，開展智慧物流、智慧社群試點，探索協同出海新模式，持續推動物流降本提質增效，為江蘇擴大高水平對外開放、加快產業轉型升級提供堅實支撐。
-
----
-
-### 2026-08-25 07:38:57  #公司
-
-【劉小濤主持召開第八期政企懇談會 提升海洋開發能力 加快打造藍色引擎】8月24日，江蘇省長劉小濤主持召開今年第八期政企懇談會，深入學習貫徹習近平總書記關於推動海洋經濟高質量發展重要論述和對江蘇工作重要講話精神，圍繞加強海洋生態保護、高效開發利用海洋、構建現代海洋產業體系聽取相關企業和科創平臺意見建議。會上，中天鋼鐵、揚子江船業、海力風電、世航智慧、商湯科技、嵐澤能源、鹽城港集團、深藍漁業、澳新生物等企業及中船集團七〇二所負責人，先後圍繞高階製造、港航物流、船舶海工、智慧裝備、綠色能源、漁業醫藥等領域交流發言。大家表示，江蘇沿海區域條件優越，江海聯動、向海圖強稟賦厚實，將進一步強化創新驅動，用足用好優勢資源，以海洋新興產業和未來產業不斷壯大加快發展海洋新質生產力。省有關部門單位和設區市認真聽取意見建議並回應企業訴求，表示要加強規劃引領和政策支援，統籌好海洋資源開發和保護，合力打造沿海藍色增長極。（新華日報）
-
----
-
-### 2026-08-25 07:37:17  #其他
-
-【衛星資料與應用國際合作論壇在文昌舉辦】作為2026文昌國際航空航天論壇的重要平行論壇之一，衛星資料與應用國際合作論壇8月24日在文昌舉辦。論壇重點聚焦航天產業資料鏈等關鍵環節，緊扣全球對地觀測、衛星資訊服務合作熱點，致力於搭建國內外互通、產學研協同的高階對話平臺，助力海南自貿港建設國際航天資料樞紐。 據悉，海南坐擁全國唯一的低緯度濱海航天發射基地和國內首個商業航天發射場，疊加海南自貿港的政策優勢，正全力培育火箭鏈、衛星鏈、資料鏈三鏈協同的商業航天生態產業。（海南日報）
-
----
-
-### 2026-08-25 07:36:24  #公司 #市場
-
-【A股限售股解禁一覽：25.99億元市值限售股今日解禁】Wind資料顯示，週二（8月25日），共有5家公司限售股解禁，合計解禁量為2.06億股，按最新收盤價計算，合計解禁市值為25.99億元。從解禁量來看，2家公司解禁股數超千萬股。蘇鹽井神、泰凌微、奧來德解禁量居前，解禁股數分別為1.64億股、2709.11萬股、831.87萬股。從解禁市值來看，2家公司解禁市值超億元。蘇鹽井神、泰凌微、奧來德解禁市值居前，解禁市值分別為14.7億元、7.23億元、3.63億元。從解禁股數佔總股本比例來看，2家公司解禁比例超10%。蘇鹽井神、泰凌微、奧來德解禁比例居前，解禁比例分別為17.14%、11.21%、3.18%。
-
----
-
-### 2026-08-25 07:36:15  #公司
-
-【我國海上首口自流注氣先導試驗井在海南作業成功】近日，在海南鶯歌海海域，中國海油海南公司完成我國海上首口自流注氣先導試驗井鑽完井作業。這項試驗打通了一套海上低成本注碳增氣的工程路徑，為南海老氣田“盤活存量、降碳增效”邁出關鍵一步，也為海南自貿港清潔能源島建設增添硬核技術儲備。
-
----
-
-### 2026-08-25 07:35:27  #國際 #兩會
-
-【馮飛劉小明會見第三次東盟國家議員研討班一行】8月24日，海南省委書記、省人大常委會主任馮飛，省長劉小明在海口會見由全國人大舉辦的第三次東盟國家議員研討班一行。 馮飛、劉小明代表海南省委、省人大常委會、省政府歡迎研討班一行，介紹了海南自由貿易港建設進展。馮飛表示，建設海南自由貿易港，是習近平主席親自謀劃、部署、推動的重大國家戰略。去年12月18日，海南自由貿易港順利實現全島封關運作，這是中國堅定不移擴大高水平對外開放、推動建設開放型世界經濟的標誌性舉措。封關運作以來，海南自由貿易港政策力度越來越大、開放活力越來越強、產業體系越來越優、發展環境越來越好，正成為中國對外開放的新前沿、地區互利合作的新熱土、推動經濟全球化的新引擎。願以此次研討班為紐帶，進一步加強與東盟各國友好往來，深化立法機構交流、熱帶農業、綠色能源、數字貿易、人文交流等領域合作，為服務中國—東盟全面戰略伙伴關係發展貢獻地方力量。（海南日報）
-
----
-
-### 2026-08-25 07:35:04  #其他
-
-英偉達投資的Lambda正洽談IPO前融資30億美元。
-
----
-
-### 2026-08-25 07:33:50  #國際
-
-【知情人士：盧特尼克在關鍵時刻的施壓令美加貿易談判破裂】據知情人士透露，在美國商務部長盧特尼克在最後關頭施壓後，美加貿易談判破裂，這導致美國總統特朗普宣佈對加拿大商品加徵新關稅，而加拿大總理卡尼則誓言採取報復措施。訊息人士稱，盧特尼克認為框架協議對加拿大過於寬鬆，併成為了那些希望收回讓步的美國金屬生產商的代言人。一些加拿大人指責他改變了談判目標，而一些商界領袖則認為，盧特尼克成功挫敗了他們眼中對美國金屬產業的威脅——特朗普曾誓言要保護該產業。盧特尼克在最後關頭介入，使他更深入地參與了談判，這再次表明他在特朗普政府內部扮演著“攪局者”的角色，常常抓住那些他認為美國能從中榨取更多籌碼的貿易議題。不過，一位白宮官員否認盧特尼克導致談判破裂的說法，反而堅稱，談判之所以中斷，是因為加拿大在協議範圍之外提出了臨時要求。
-
----
-
-### 2026-08-25 07:33:26  #其他
-
-【“跨國企業走進北京”專場活動舉行】昨天，“跨國企業走進北京”首次專場活動在懷柔區舉行，來自在京跨國企業的140餘位企業家受邀參加。市委書記尹力致辭，市委副書記、市長殷勇主持。 尹力說，北京正致力於率先基本實現社會主義現代化，紮實推動高質量發展。希望跨國企業聚焦科創前沿領域，與在京高校院所、科技企業等深化創新合作，加速技術攻關和成果轉化，共拓發展新賽道。深化產業合作，加強人工智慧、生物醫藥、節能環保等領域佈局，拓展科技金融、綠色金融等業務，促進文商旅體展融合發展，共塑發展新動能。擴大跨境電商、國際商貿等往來互動，用好服貿會等平臺，深化經貿合作，讓更多優質產品、服務進入中國和北京大市場。依託國家服務業擴大開放綜合示範區和北京自貿試驗區建設，促進人文交流和國際合作，共創發展新機遇。北京將持續營造市場化、法治化、便利化、國際化一流營商環境，全力支援跨國企業在京投資興業、大展宏圖。（北京日報）
-
----
-
-### 2026-08-25 07:33:23  #MKT News #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #WTI #Impact mixed
-
-【Sources: Lutnick's last-minute pressure ended US-Canada trade talks】Sources say US commerce secretary Lutnick's last‑minute pressure collapsed US‑Canada trade talks, prompting President Trump to announce new tariffs on Canadian goods and Canadian prime minister Carney to vow retaliation. Insiders say Lutnick viewed the draft framework as too lenient toward Canada and acted on behalf of US metals producers seeking to claw back concessions; some Canadian officials accused him of shifting negotiating aims, while some business leaders credited him with blocking what they saw as a threat to US metals. A White House official denied Lutnick caused the breakdown, saying talks stalled after Canada made last‑minute, out‑of‑scope demands. Lutnick's intervention deepened his role in the talks and reinforced his reputation inside the administration as a disruptor pressing for tougher trade leverage.
-
----
-
-### 2026-08-25 07:32:06  #公司
-
-【固態電池領域首個國際標準立項 產業鏈上市公司迎發展機遇】固態電池行業迎來里程碑式利好。近日，由我國提出的國際標準提案《電動汽車驅動用二次鋰離子電池固態電池應用指南、測試專案及條件》在國際電工委員會（IEC）成功立項。該標準是固態電池領域全球首個國際標準。 國際智慧運載科技協會秘書長、黃河科技學院客座教授張翔在接受記者採訪時表示，此次固態電池領域首個國際標準立項，能夠為全球固態電池技術研發與能源轉型提供標準化參考框架，也有助於國內固態電池技術及產品“出海”，為產業鏈企業參與全球市場競爭提供重要的標準支撐。（證券日報）
-
----
-
-### 2026-08-25 07:31:18  #市場
-
-日經指數期貨在新加坡交易所開盤下跌150點，報65350點。
-
----
-
-### 2026-08-25 07:30:43  #其他
-
-【海地首都附近遭幫派襲擊致40餘人死亡】海地媒體《海地公報》24日報道，海地首都太子港附近的肯斯科夫市23日晚遭反政府幫派組織 “共同生活”武裝襲擊，造成40餘人死亡。報道援引肯斯科夫市長的話說，武裝人員試圖控制該市中心，並縱火焚燒房屋、綁架多人。媒體記者在該市街頭清點到43具遺體。報道稱，海地安全部隊與武裝人員交火數小時後將其擊退。目前，當地衝突已經停止。（新華社）
-
----
-
-### 2026-08-25 07:29:45  #市場
-
-據房地產中介機構仲量聯行預測，2026年香港豪宅租金預計將上漲約5%，租金料將在2027年中進一步上漲。
-
----
-
-### 2026-08-25 07:27:52  #宏觀 #國際
-
-【美方分析稱美加碼對伊朗經濟制裁或作用有限】當地時間24日，美國財長公佈多項針對伊朗的經濟制裁措施。但美國方面分析指出，美國對伊朗的制裁加碼可能作用有限，衝突如果延宕下去甚至會反噬美國自身。美國《政治報》發表文章說，包括美國政府前官員、美國前駐外大使和中東問題專家在內的專業人士普遍懷疑，美國繼續收緊對伊朗的制裁，能否讓伊朗放棄對霍爾木茲海峽的控制，或者接受美國提出的條件。文章指出，伊朗已承受數十年美國製裁，擁有規避制裁的經驗，美國製裁加碼很難對局勢產生決定性的影響。美國方面還有分析稱，美國政府出臺新的針對伊朗的經濟制裁措施，標誌著美國政府在衝突中的戰略發生變化。分析指出，對伊朗經濟制裁是一場豪賭，美國政府將賭注全壓在伊朗迫於經濟壓力而屈服之上，寄望於實現軍事打擊沒能達成的目標。（央視新聞）
-
----
-
-### 2026-08-25 07:27:11  #公司 #市場
-
-【近六成公司半年報淨利增長 401家擬實施中期分紅】Wind資料顯示，截至8月24日收盤，A股共有2183家上市公司披露2026年半年報，其中1308家上市公司2026年上半年歸屬於上市公司股東的淨利潤實現同比增長，佔比約59.92%。401家上市公司擬實施中期分紅，佔比約為18.37%。 從已披露2026年半年報的上市公司所屬行業看，A股上市公司盈利呈現明顯結構性分化。AI算力硬體、有色金屬、能源化工等板塊業績兌現力度較強，不少上市公司二季度業績較一季度有明顯改善。地產鏈、部分內需消費行業仍面臨壓力。同時，中期分紅熱度提升，傳統藍籌與部分成長龍頭紛紛推出中期分紅方案。（中證報）
-
----
-
-### 2026-08-25 07:26:01  #宏觀 #市場 #觀點 #央行 #國際
-
-【摩根士丹利：美財政部一般賬戶可提供800億至2000億美元用於債券回購】摩根士丹利利率策略師Martin Tobias表示，美國財政部可從存放於美聯儲的被稱為財政部一般賬戶(TGA)的現金儲備中調撥800億至2000億美元，以支援擴大後的國債回購操作。Tobias在電話中表示：“我認為這正是財政部長今天想要傳達的資訊”，CNBC此前援引兩位高階官員報道稱，財政部可能動用財政部一般賬戶，即財政部存放在美聯儲的現金賬戶來進行債券回購。該策略師表示，可用於股票回購的金額取決於“採用哪種TGA超額現金定義”，截至8月20日，該賬戶餘額為9350億美元。
-
----
-
-### 2026-08-25 07:25:32  #宏觀 #公司
-
-【險企料增配高股息資產 佈局分紅險迎加速視窗】據中證報，日前，國家金融監督管理總局正式出臺《保險公司資產負債管理辦法》，聚焦資產負債聯動偏弱、內部管理政策程式不清、監管指標標準缺失、監管約束手段不足等問題，進一步完善保險資產負債管理制度體系。市場尤為關注正式稿相較徵求意見稿的核心變化：人身險公司資產負債管理監管指標由有效久期缺口（用於衡量利率變動下資產與負債現金流久期的錯配程度），調整為利率風險對沖率（用於衡量資產端利率波動對負債端利率波動的覆蓋程度）。業內人士認為，此舉更貼近利率風險管理的實質，同時可防止部分中小險企為緩釋達標壓力，被動扭曲資產配置。伴隨監管部門進一步強化成本收益匹配，《辦法》將推動險企加大高股息資產配置力度，加快發展分紅險等浮動收益類保險產品。
-
----
-
-### 2026-08-25 07:25:21  #公司
-
-【因QDII外匯違規，國泰海通資管被罰沒5254.74萬元】國泰海通資管被國家外匯管理局上海市分局罰沒超5000萬元。近期，國家外匯管理局上海市分局披露三份行政處罰資訊。其中，上海國泰海通證券資產管理有限公司（下稱“國泰海通資管”）因違反合格境內機構投資者(簡稱QDII)境外證券投資外匯管理規定，未按規定進行國際收支統計間接申報，被警告，沒收違法所得並處罰款，罰沒款合計5254.74萬元。
-
----
-
-### 2026-08-25 07:25:04  #MKT News #Market Regions #Europe & UK
-
-【UK prime minister plans US visit next month to lobby Trump for Patriot missiles for Ukraine】UK prime minister Burnham said he and other European leaders plan to travel to the United States in September to press President Trump to release part of the US Patriot air-defence missile inventory to Ukraine before winter. Speaking in Kyiv on Monday evening, Burnham said the trip, timed to the UN General Assembly in New York, is not yet finalised but is likely and that recent talks clarified his agenda for the coming weeks.
 
 ---

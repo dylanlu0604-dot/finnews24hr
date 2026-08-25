@@ -1,7 +1,367 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-26 03:58:07_
-_本檔包含 3022 則快訊，約 653541 字_
+_更新時間：2026-08-26 04:40:12_
+_本檔包含 3051 則快訊，約 652513 字_
+
+---
+
+### 2026-08-22 13:02:51  #市場 #央行 #國際
+
+【國海富蘭克林基金：直接觸發市場調整的是長端美債收益率快速拉昇】談及此前美債收益率上行的原因，國海富蘭克林基金表示，直接觸發市場調整的是長端美債收益率快速拉昇。究其原因，主要是美國財政赤字、政府和科技巨頭髮債量增加，疊加中東局勢變化帶來的高油價傳導通脹擔憂，市場再度下調美聯儲貨幣政策未來寬鬆預期。美債收益率上行也迅速傳導至權益市場。國海富蘭克林基金指出，長端無風險利率上行會導致遠期現金流折現價值下降，因此成長股對利率上行高度敏感，高估值板塊率先遭遇資金獲利了結。如果美債收益率繼續上行，高估值板塊仍將承壓；反之，收益率回落後，成長股有望迎來修復。
+
+---
+
+### 2026-08-22 13:02:01  #央行 #市場 #觀點 #國際
+
+鵬華基金認為，地緣政治博弈的反覆性預計將導致原油價格維持高波動率，美聯儲主席沃什近期的表態整體偏鴿，但政策路徑不確定性仍大。在能源價格衝擊與政策預期反覆疊加之下，美債市場波動性預計將進一步加劇，期限溢價雙向波動空間擴大。
+
+---
+
+### 2026-08-22 13:01:33  #其他
+
+據貓眼專業版資料，電影 《八仙！》 上映36天， 總票房破17億。
+
+---
+
+### 2026-08-22 13:00:00  #國際
+
+【俄外交部：西方機構直接調查問詢俄國內法人“違法”】俄羅斯外交部發言人扎哈羅娃21日表示，西方不友好國家的執法機構繞開俄主管機構、直接調查問詢俄國內法人的行為，違反俄刑法，俄已針對此種行為修訂法律條款。（新華社）
+
+---
+
+### 2026-08-22 12:56:15  #其他
+
+【挪威積極籌備以主賓國身份參加今年服貿會】2026年中國國際服務貿易交易會海外分會暨挪威克里斯蒂安松開放日活動21日在挪威西部海濱城市克里斯蒂安松舉行。挪威政商界代表在活動上介紹了國家館建設情況和企業組團參展計劃，為挪威以主賓國身份參加今年服貿會預熱。2026年服貿會將於9月9日至13日在北京舉行。（新華社）
+
+---
+
+### 2026-08-22 12:55:18  #其他
+
+【賓士全新長軸距GLE SUV全球首秀，She’s Mercedes推出多項女性專屬駕駛計劃】2026成都車展期間，全新梅賽德斯-賓士長軸距GLE SUV全球首秀，為首款實現在華本土化生產的賓士大型豪華SUV。另外，還有全新梅賽德斯-賓士純電GLC SUV等共20餘款車型同臺亮相。8月22日，梅賽德斯-賓士品牌空間將於上海南京西路核心商圈靜安ONE SHANGHAI正式啟幕，並限時開放超過4個月；作為女性專屬的長期戰略平臺，She’s Mercedes煥新呈現，將陸續推出一系列女性專屬活動，包括免費駕駛陪練計劃、賽道專場及越野體驗，以及“全女旅行團”等豐富的線下女性車主社群活動。（新浪科技）
+
+---
+
+### 2026-08-22 12:54:25  #其他
+
+【中建環能與群核科技舉行技術座談交流會】據中建環能訊息，近日，群核科技與中建環能舉行技術座談交流會。雙方圍繞人工智慧、空間智慧等技術在環保行業中的創新應用展開深入交流，並就數字化場景建設、智慧裝備升級及業務融合方向進行了研討。
+
+---
+
+### 2026-08-22 12:53:34  #國際
+
+【紐西蘭總理被當面斥責縱容以色列】近日，紐西蘭總理拉克森在克賴斯特徹奇發表演講，現場遭多人接連抗議。其中一名抗議者斥責紐西蘭政府“縱容發生在巴勒斯坦加沙地帶的種族滅絕”、“向以色列輸送資金”、“手上沾滿鮮血”、“讓紐西蘭蒙羞”。抗議者最後被帶離現場。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 12:43:03  #焦點 #國際
+
+【菲拉攏域外國家“聯合巡航” 軍方訊息人士：解放軍全程跟監警戒】根據中國軍隊訊息人士透露，8月22日，菲律賓拉攏域外國家攪局南海，組織所謂“聯合巡航”，解放軍對其全程跟監警戒，情況盡在掌握。（環球時報）
+
+---
+
+### 2026-08-22 12:36:54  #國際
+
+【英媒：澤連斯基請求說服馬斯克允許烏用“星鏈”打擊俄境內目標，特朗普“似乎並不支援”】據英國《金融時報》21日報道，對於“烏克蘭總統澤連斯基曾在訪美期間請求美國總統特朗普說服美國太空探索技術公司(Space X)創始人馬斯克，允許烏利用‘星鏈’打擊俄境內目標”一事，該媒體從出席這場橢圓形辦公室會議的人士處最新獲悉，特朗普態度不置可否，“似乎並不支援”該計劃。（環球網）
+
+---
+
+### 2026-08-22 12:36:21  #國際
+
+【阿曼與伊朗外長討論恢復霍爾木茲海峽自由航行】據阿曼國家通訊社21日報道，阿曼外交大臣巴德爾與伊朗外長阿拉格齊當天進行通話，討論恢復霍爾木茲海峽自由航行的問題。報道說，雙方認為繼續談判並達成切實協議至關重要，有助於恢復霍爾木茲海峽自由航行、維護地區安全穩定。雙方還討論了最新地區局勢的發展，以及如何為重啟對話和談判創造有利條件。（新華社）
+
+---
+
+### 2026-08-22 12:36:09  #其他
+
+【深圳成機電進口形勢風向標】央視財經訊息，今年前7個月，我國機電產品進口高速增長，佔進口總值四成以上，是進口金額最大的品類。深圳是我國高科技產品的重要生產基地，也是機電產品、電子元件進口形勢的風向標。據深圳海關統計，今年前7個月，深圳市累計進出口3.42萬億元人民幣，規模創歷史同期新高，較去年同期增長32.8%。其中，出口1.77萬億元，增長13.9%；進口1.65萬億元，增長61.9%，進口的增速是出口的四倍多，換句話說，今年深圳外貿的高增長，進口是關鍵變數。
+
+---
+
+### 2026-08-22 12:34:55  #國際
+
+【美軍命門曝光：伊朗發現打擊美方基地很管用】近一段時間，發生了幾樁看似不相干的事情：美軍戰艦“本福德”號斷電拋錨海上漂、部署阿拉伯海的美軍“林肯”號航母被曝補給困難、伊朗威脅打擊駐歐美軍加油機群。而仔細觀察後不難發現，上述事件都與美軍海外基地密切相關。 資料顯示，美國在全球80多個國家設有超750座軍事基地，容納海外駐軍約20萬人。其中，設施較完備的大型綜合基地近130座，分佈在51個國家。麻省理工學院網站稱，這些基地構成一張龐大網路，為美軍海外行動提供了前沿作戰平臺，以及火力、情報、救援、訓練、後勤等方面的支援。 （中新網）
+
+---
+
+### 2026-08-22 12:30:33  #國際
+
+【美軍中央司令部通報“封鎖伊朗”情況，聲稱“已迫使68艘商船改變航線”】據《以色列時報》報道，美軍中央司令部22日在最新帖文中通報有關“美國對伊朗實施封鎖”的情況。帖文稱，截至8月21日，美軍已迫使68艘商船改變航線，令3艘商船失去航行能力，並登船檢查了2艘商船，以確保這些船隻“遵守規定”。（環球網）
+
+---
+
+### 2026-08-22 12:30:13  #其他
+
+【央視曝光特大跨境薦股詐騙案 男子輕信薦股直播被騙近500萬元】股市直播中精準預判漲跌、專屬導師一對一薦股，看似穩賺不賠的投資理財渠道，實則是一套全程造假的跨境精準圍獵陷阱。於先生就落入了這樣的圈套，被騙走近500萬元。前不久，隨著犯罪嫌疑人的落網，整個詐騙流程被揭開。由於涉案金額巨大，甘肅警方啟動重特大電詐案件偵辦機制，省市兩級成立了“3.10”專案組。透過國際警務執法合作機制，中國警方促使柬埔寨警方對3處詐騙窩點開展集中收網。5月25日，82名犯罪嫌疑人被押解回國，其中25名為境外逃犯。從上游技術開發、中游引流推廣，到下游跑分洗錢、境外詐騙實施，案件實現了對薦股類詐騙犯罪的全鏈條打擊。 (央視財經)
+
+---
+
+### 2026-08-22 12:27:45  #公司 #其他
+
+【寧德時代商城正式上線 未來計劃開展直播銷售】“寧德時代商城”小程式正式上線。作為專為中小整合商打造的官方儲能產品直銷平臺，寧德時代商城的企業註冊客戶已突破1800家。目前，寧德時代商城已上架三類儲能產品。電芯方面，在售280Ah（1P）、314Ah兩款主流磷酸鐵鋰儲能電芯，587Ah電芯、儲能電箱（280Ah及314Ah-長款）和儲能集裝箱（EnerD及EnerD+）已同步上架展示，正式開售時間待定。目前，平臺電芯最低3箱起訂。官方“寧德時代儲能”微信公眾號及影片號也已同步啟動，未來計劃圍繞儲能電池及裝置開展直播銷售。
+
+---
+
+### 2026-08-22 12:17:06  #公司
+
+【民生人壽回應開除屬相不合員工傳聞】近日，網上流傳的一張爆料截圖顯示，民生人壽董事長把和自己生肖屬相不合的人全部裁員。另有報道稱，工作多年的員工如果學歷不是一本也要被裁。對此，民生人壽客服表示，公司已對網路上的造謠內容進行證據保全。對於編造、擴散此類虛假資訊的機構或個人，公司將透過法律途徑追究其法律責任，提醒廣大網友甄別網路資訊真偽，不信謠、不傳謠。公司一切資訊均以官方釋出內容為準。（中新網）
+
+---
+
+### 2026-08-22 12:14:08  #國際
+
+【特朗普：可出動美軍干預債市】美國總統特朗普當地時間8月21日對媒體表示，他本週並未指示美國財長貝森特干預債券市場。在被問及“面對美國長期債券收益率再回升還有什麼干預手段”時，特朗普稱，“終極干預手段是美軍，如果需要，將出動美軍”。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 12:13:19  #公司 #國際
+
+市場訊息：美國國際貿易委員會調查伊芙能源公司（Eve Energy），因該公司涉嫌專利侵權。
+
+---
+
+### 2026-08-22 12:06:17  #其他 #國際
+
+加拿大安大略省省長：完全支援卡尼的關稅報復計劃。
+
+---
+
+### 2026-08-22 12:03:09  #其他
+
+加拿大安大略省省長：貿易戰中一切都必須擺到談判桌上。
+
+---
+
+### 2026-08-22 12:02:48  #國際
+
+【美國加拿大未達成貿易協議】美國與加拿大當地時間8月21日晚證實，兩國未能在最後期限前達成貿易協議。美國將於美東時間8月22日凌晨起，對價值約200億美元的加拿大商品加徵50%關稅。據稱，依據美國《1930年關稅法》第338條款實施的這一關稅，將於美東時間00:01正式生效。加拿大總理卡尼宣佈，即刻起暫停與美國的貿易談判，並誓言將對美方新關稅採取“對等報復”措施。 此次談判破裂前，加拿大對美貿易部長勒布朗與美國貿易代表格里爾已在華盛頓進行了連續三天的密集磋商，但最終未能彌合分歧。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 11:58:16  #其他
+
+【雄安新區舉辦2026年服務疏解專場招聘會】今天（8月22日），雄安新區舉辦2026年百日千萬招聘專項行動暨服務疏解專場招聘會。活動聚焦疏解單位落地發展、疏解幹部職工隨遷家屬就業等核心訴求，精準搭建對接服務平臺，切實解決疏解人員安居後顧之憂，助力新區人才集聚與高質量建設發展。本次活動把就業服務延伸至鄰里中心，打造“家門口”求職平臺，聚焦新區重點產業、疏解配套服務，組織中化數智科技、中國大唐數科、中國雄安集團等30多家用人單位線下引才，提供用工需求600餘個，適配多元就業需求。現場同步提供技能體驗、求職輔導、新區配套生活服務資源推介等。（央視新聞）
+
+---
+
+### 2026-08-22 11:55:41  #其他
+
+【8月份滬牌拍賣結果公佈】8月滬牌拍賣結果剛剛出爐：個人額度合計拍賣總數4061個，參加拍賣人數28264人，中標率14.4%。最低成交價93800元，平均成交價為93868元，比上個月93679元增加了189元。最低成交價的截止時間是11:29:51第1262位。（上海釋出）
+
+---
+
+### 2026-08-22 11:49:20  #其他
+
+【香港特區政府強烈譴責外部勢力就“支聯會”案的誤導及抹黑言論】香港特別行政區（特區）政府今日（22日）就多個美西方國家、反華媒體、組織及政客，借法庭於昨日（21日）就“支聯會煽動顛覆國家政權”案的定罪裁決，針對香港特區作出毫無事實根據的詆譭抹黑，表示強烈不滿和堅決反對，並予以強烈譴責。（大灣區之聲）
+
+---
+
+### 2026-08-22 11:48:33  #焦點 #國際
+
+【美對部分加拿大商品加徵50%關稅】美國貿易代表格里爾當地時間8月21日深夜表示，加拿大拒絕在最後期限前與美國最終敲定貿易協議，並仍在繼續對美國採取報復性措施。加拿大總理卡尼表示，已決定暫停與美國的貿易談判。卡尼稱，談判進展還不足以實現為加拿大國民設定的目標。 格里爾稱，美國已向加拿大提供了“更為優惠的市場準入條件”，若達成協議，本可“大幅降低關稅”。但他指責加方拒絕接受，導致談判破裂。 美國海關與邊境保護局隨後釋出指引，宣佈依據第338條款，對特定加拿大進口商品加徵額外關稅。一名特朗普政府高階官員證實，對部分加拿大商品加徵50%關稅的措施，將於美東時間8月22日凌晨00:01正式生效。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 11:47:51  #國際
+
+【印度尼西亞總統普拉博沃會見王毅一行】印度尼西亞總統普拉博沃21日在雅加達官邸會見外交部長王毅、國防部長董軍。普拉博沃請王毅轉達對習近平主席的良好祝願，積極評價印尼中國全面戰略對話機制和“2+2”對話機制作用和成果，表示在習近平主席領導下，中國成功實現數億人脫貧，在經濟、科技、軍事等領域取得不可思議的偉大成就，為全球南方國家樹立了榜樣，提供了很多有益啟示，值得各方學習借鑑。中國對印尼平等相待，相互尊重，給予印尼寶貴的信心和支援。印尼期待同中方加強政治、經濟、科技等全方位戰略合作，歡迎更多中國企業來印尼投資興業，將繼續為中國企業提供良好營商環境，反對任何別有用心的挑撥和炒作。我期待今年11月赴深圳出席亞太經合組織領導人非正式會議，進一步密切同中方的戰略溝通和協作。（新華社）
+
+---
+
+### 2026-08-22 11:47:02  #其他
+
+中國地震臺網正式測定：08月22日11時40分在臺灣宜蘭縣海域（北緯24.38度，東經122.08度）發生4.5級地震，震源深度28千米。
+
+---
+
+### 2026-08-22 11:46:29  #焦點 #國際
+
+【加拿大總理稱暫停與美國的貿易談判】當地時間8月21日午夜，加拿大總理卡尼表示，已決定暫停與美國的貿易談判。（央視新聞）
+
+---
+
+### 2026-08-22 11:45:48  #國際
+
+特朗普政府高階官員：我們的唯一利益是保護美國就業、保障供應鏈安全以及推動製造業迴流。僅在少數領域，加拿大要求獲得比美國願意給予的更多的《1962年貿易擴充套件法》第232節關稅減免。
+
+---
+
+### 2026-08-22 11:44:17  #其他
+
+卡尼稱，目前取得的進展仍不足以實現我們為加拿大民眾設定的目標。
+
+---
+
+### 2026-08-22 11:43:55  #國際
+
+特朗普政府高階官員：若當初能達成這份協議，我們本就會與加拿大開展《美墨加協定》談判。
+
+---
+
+### 2026-08-22 11:43:28  #其他
+
+中國地震臺網自動測定：08月22日11時40分在臺灣宜蘭縣海域附近（北緯24.39度，東經122.10度）發生4.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-22 11:43:02  #國際
+
+特朗普政府高階官員：該協議本應解決加拿大此前的報復行動問題。
+
+---
+
+### 2026-08-22 11:42:01  #國際
+
+特朗普政府高階官員：我們預計加拿大不會針對新關稅採取報復行動。
+
+---
+
+### 2026-08-22 11:41:59  #焦點 #國際
+
+加拿大總理卡尼：已暫停與美國進行貿易談判。
+
+---
+
+### 2026-08-22 11:41:31  #公司
+
+【優衣庫衣物回收服務擴充套件至全國門店】8月21日，優衣庫宣佈RE.UNIQLO衣物回收服務擴充套件至全國門店，並同步上線飛螞蟻小程式，將回收渠道從線下延伸至線上。回收範圍涵蓋優衣庫、GU、Theory等迅銷集團旗下品牌的衣物（鞋類、貼身內衣褲類及襪類商品除外）。與此同時，優衣庫華北首個RE.UNIQLO STUDIO衣物新生工坊亮相北京三里屯全球旗艦店。
+
+---
+
+### 2026-08-22 11:41:09  #國際
+
+特朗普政府高階官員：美加會談非常坦誠，並未針鋒相對。
+
+---
+
+### 2026-08-22 11:39:29  #行業 #焦點 #國際
+
+美國官員：加拿大在汽車出口至美國方面享有優厚待遇。
+
+---
+
+### 2026-08-22 11:39:11  #焦點 #國際
+
+【美稱加拿大拒絕敲定貿易協議】總檯記者當地時間21日獲悉，美國貿易代表格里爾表示，加拿大已拒絕敲定貿易協議。（央視新聞）
+
+---
+
+### 2026-08-22 11:36:54  #國際
+
+美國官員：美國此前的提議本會讓加拿大成為所有對美出口國中處於最有利地位的出口國。
+
+---
+
+### 2026-08-22 11:36:09  #國際
+
+特朗普政府高階官員：原協定本將大幅降低關稅。
+
+---
+
+### 2026-08-22 11:34:27  #其他
+
+【上海靜安警方：一男子釋出涉企不實資訊被行政拘留】8月22日，上海市公安局靜安分局通報：一男子釋出涉企不實資訊被行政拘留。經警方調查，2026年8月19日，沈某某（男，26歲）為博取關注，採取張冠李戴的方式，將網上下載的圖片釋出在多個聊天群內，並編造“陝西南路某飯店將低價飲料盛裝高腳杯後，以398元一杯出售”的不實資訊，造成惡劣影響。目前，沈某某已被警方依法處以行政拘留。
+
+---
+
+### 2026-08-22 11:34:21  #國際
+
+美國海關指導意見顯示， 對部分加拿大進口商品加徵的5% 338條款關稅將於美國東部時間週六凌晨00:01（北京時間週六中午12:01）生效。
+
+---
+
+### 2026-08-22 11:32:21  #焦點 #國際
+
+美國貿易代表格里爾：加拿大拒絕與美國最終敲定貿易協議，正繼續對美國採取報復措施。
+
+---
+
+### 2026-08-22 11:27:30  #其他
+
+【星海圖機器人2027年目標交付萬臺以上】2026世界機器人大會期間，星海圖合夥人兼COO李天威表示，截至目前，星海圖已交付千臺級模型驅動的真實生產力訂單，明年的交付目標為萬臺以上。
+
+---
+
+### 2026-08-22 11:27:18  #國際
+
+美國海關與邊境保護局指引：對加拿大特定商品加徵第338條款附加關稅。
+
+---
+
+### 2026-08-22 11:25:45  #國際
+
+【特朗普吐槽伊朗：世界上唯一一個沒人想當總統的國家】據報道，在支援參議員林賽·格雷厄姆的南卡羅來納州競選集會上，美國總統特朗普表示：“當一個國家不再擁有海軍、空軍、雷達、技術裝置和製造能力，其領導人已經被消滅，第二梯隊領導人也被消滅，第三梯隊領導人中也有一部分被消滅。事實上，這反而成了我的一大難題，因為我壓根不知道到底該和誰打交道，這是個問題。這是世界上唯一一個沒人想當總統的國家。所以，這確實有點麻煩。”
+
+---
+
+### 2026-08-22 11:24:21  #其他
+
+【水利部針對廣東、廣西、海南啟動洪水防禦Ⅳ級應急響應】受19號颱風“紫檀”影響，預計8月22日至24日，廣西西部南部、廣東、海南將有大到暴雨，部分地區將有大暴雨。廣西鬱江干支流及桂南沿海欽江、防城河、南流江，廣東東江、韓江及沿海榕江、鑑江，海南南渡江、昌化江、萬泉河等河流將出現漲水過程，其中廣西鬱江支流左江、明江可能發生超警洪水，暴雨區內部分中小河流可能發生超警以上洪水。（新華社）
+
+---
+
+### 2026-08-22 11:22:13  #公司
+
+【北京現代艾尼氪V開啟預售】8月22日，北汽集團宣佈，北京現代艾尼氪V開啟預售，預售價11.99萬元起。
+
+---
+
+### 2026-08-22 11:20:40  #國際
+
+【內塔尼亞胡稱埃爾多安為“反猶獨裁者”】據法新社8月21日報道，以色列總理內塔尼亞胡的辦公室21日將土耳其總統埃爾多安稱為“反猶獨裁者”，並表示以色列將採取行動應對“土耳其破壞地區穩定的企圖”。 據報道，此番表態之前，以色列18日對敘利亞西北部伊德利卜省的一座空軍基地發動空襲，該基地距土耳其邊境僅數十公里，內塔尼亞胡本人暗示對此襲擊負責。（參考訊息）
+
+---
+
+### 2026-08-22 11:16:17  #公司
+
+【錦龍股份徹底清倉東莞證券 接盤方則極有可能指向東莞國資】昨日（8月21日）晚間，錦龍股份（000712）公告擬清倉所持東莞證券全部20%股權（3億股）。經初步測算，本次交易將構成重大資產重組，交易對方須以現金支付交易價款。值得一提的是，除了持有東莞證券20%股權，錦龍股份還持有中山證券67.78%股權。該公司此前就謀求向算力、新質生產力等領域轉型，但目前尚未看到起色。此番“斷腕”的直接原因，是錦龍股份自身沉重的財務壓力——2026年半年報顯示，其歸母淨利潤同比暴跌88.59%至1424.89萬元，資產負債率攀升至80.85%。記者注意到，接盤方則極有可能指向東莞國資。根據2024年8月股權轉讓時簽署的協議，東莞金控不僅享有優先購買權，還擁有在特定條件下要求錦龍必須轉讓剩餘股權的強制購買權。若此次再度出手，東莞國資委對東莞證券的持股比例將從75.4%升至95.4%，幾乎實現完全控股。（券商中國）
+
+---
+
+### 2026-08-22 11:15:13  #其他
+
+【廣汽埃安UT 530寧德版車型上市】8月22日，廣汽埃安宣佈，2027款埃安UT 530寧德版車型上市，官方指導價8.68萬元。
+
+---
+
+### 2026-08-22 11:13:33  #其他
+
+【比亞迪第三代唐亮相成都車展：純電續航850公里 預計四季度上市】成都車展首日，比亞迪第三代唐正式亮相。新車定位大五座科技旗艦SUV，車身尺寸為5045×1980×1740毫米，軸距2950毫米，搭載星際雙屏、雲輦-A雙腔空氣懸架、智慧四驅及天神之眼B輔助駕駛系統，產品技術具象化。純電續航里程為850公里，預計今年第四季度上市。
+
+---
+
+### 2026-08-22 11:08:55  #公司
+
+【國泰集團：未來10年計劃接收150架新飛機，已落實訂單100架】在8月21日的國泰航空80週年慶典上，國泰集團行政總裁林紹波接受採訪時表示，未來10年預計覆蓋150個全球客運目的地，目前已經覆蓋103個目的地。國泰已承諾投資約1500億港元，用於機隊、機艙產品、貴賓室及數字化創新。未來10年，計劃接收150架新飛機，目前已落實訂單100架。在網路發展方面，國泰航空跟香港快運將進一步推進北京、上海、東京及臺北等一線樞紐市場。在差異化分工層面，國泰航空將側重於商旅及貨運需求突出的航點，香港快運則聚焦二三線城市或休閒旅遊目的地。國泰集團中國內地董事鄭家駒提到，國泰集團目前有超4000名內地員工，包括乘務員、飛行員及工程技術人員等崗位。其中，廣州和深圳設有IT辦公室，已有約200名IT人才。
+
+---
+
+### 2026-08-22 11:04:40  #市場 #國際
+
+【日媒：支援率連續下跌，高市早苗著急發文，還引用《論語》】綜合關西電視臺等日媒8月21日報道，近日，日本首相高市早苗連番在社交媒體X上髮長文為她面臨的質疑辯解，還引用《論語》內容急求民眾支援。日本政治評論員稱，可以從高市這一系列舉動中看出她的焦急。然而面對高市嘴上一套、行動另一套的做法，日本輿論並不為此買賬。（環球網）
+
+---
+
+### 2026-08-22 11:04:27  #公司
+
+【嚴夢竹獲批擔任民生人壽保險股份有限公司北京分公司總經理】8月21日，北京金融監管局網站釋出批覆，核准嚴夢竹民生人壽保險股份有限公司北京分公司總經理的任職資格。該行應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起2個月內到任，並按要求及時報告到任情況。
+
+---
+
+### 2026-08-22 11:02:32  #公司
+
+【國民信託獲批增加註冊資本30億元】8月21日，北京金融監管局網站釋出批覆，同意國民信託有限公司增加註冊資本30億元人民幣，由10億元人民幣變更為40億元人民幣。
+
+---
+
+### 2026-08-22 10:59:41  #其他
+
+【宏利基金：李輝接替丁聞聰出任總經理】8月22日宏利基金公告稱，李輝接替丁聞聰出任公司總經理（法定代表人）、財務負責人。李輝先後任職於上海遠洋運輸公司、中宏人壽保險、海康人壽保險、AIG集團、星展銀行、國泰基金。2023年9月至2026年7月，李輝任職於興業基金，擔任總經理，2026年8月加入宏利基金。公告顯示，因宏利基金原督察長於今年6月10日離任，李輝將代為履行督察長職務，代履職期限合計不超過6個月。
+
+---
+
+### 2026-08-22 10:58:56  #公司
+
+【何存獲批擔任北京中關村銀行行長】8月21日，北京金融監管局網站釋出批覆，核准何存北京中關村銀行股份有限公司董事、行長的任職資格。該行應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。
 
 ---
 
@@ -18044,222 +18404,5 @@ Japan's July core CPI YoY due in 10 minutes.
 ### 2026-08-21 07:19:18  #市場 #焦點
 
 比特幣升破73000美元，日內漲5.30%。
-
----
-
-### 2026-08-21 07:17:37  #Trading Economics #Economy #Australia #Manufacturing PMI #Importance 1
-
-Australia Factory Growth Steady in August — The S&P Global Flash Australia Manufacturing PMI remained unchanged at 52.0 in August 2026, according to flash estimates, matching July and stayed at the highest level since January. A reading above 50 indicates growth, suggesting the sector is maintaining a gradual recovery despite a mixed global environment. Output and new orders rose slightly, pointing to resilient underlying demand, though growth remains uneven across industries and export conditions vary. Cost pressures persist, with elevated input prices driven by energy, transport, and raw materials, keeping margins under strain despite some easing in supply chain disruptions. Employment was broadly stable as firms balanced cautious hiring with production needs. Overall, manufacturing is holding steady, but further gains depend on easing inflation and stronger global demand.
-
----
-
-### 2026-08-21 07:17:05  #觀點
-
-【港股“同股不同權”制度升級 科創企業赴港上市門檻大幅降低】為了吸引更多創新企業赴港上市，港交所再次祭出“同股不同權”（下稱“WVR架構”）這一殺手鐧。近期，港股落地了2018年以來力度最大的上市制度改革，WVR架構企業上市規則最佳化成為其中的核心抓手。記者瞭解到，目前已有多家科創企業啟動架構梳理、合規整改等籌備工作，並積極開展港股上市可行性論證，搶抓本次制度最佳化帶來的機遇。在本輪改革中，港交所大幅下調了WVR架構企業上市門檻，市值要求由400億港元下調至200億港元，若企業最近一個會計年度收入高於6億港元，市值更可低至60億港元。此前，WVR架構企業赴港上市須滿足市值不低於400億港元，或市值不低於100億港元且最近一個會計年度收入不低於10億港元。光大證券資產配置首席分析師王開對記者表示，港交所此次下調WVR架構企業的上市門檻，並將適用範圍擴充套件至業務模式創新企業，精準回應新興產業和未來產業領域創新企業的治理訴求與融資痛點。這一制度革新將提升港股市場對全球優質科創及模式創新企業的吸引力，有助於豐富港股市場結構，進一步鞏固提升香港國際金融中心地位。（上海證券報）
-
----
-
-### 2026-08-21 07:16:44  #MKT News #Market Regions #Greater China #CNH
-
-【LPR unchanged for 15th month; 'dual-anchor' setup to boost loan-pricing efficiency】China's LPR was unchanged for the 15th consecutive month. On Aug 20 the PBOC authorized the National Interbank Funding Center to publish the rates: 1-year LPR 3.00%, 5-year-plus LPR 3.50%. Analysts say a steady LPR is consistent with current policy rates and banks' net interest margins. Since late July the DR (bond repo rate for deposit-taking financial institutions) benchmark lending mechanism has been implemented; the dual-anchor framework is expected to further improve LPR quoting efficiency and loan-pricing quality.
-
----
-
-### 2026-08-21 07:16:26  #其他
-
-市場訊息： 永利波士頓賭場員工授權舉行罷工。
-
----
-
-### 2026-08-21 07:15:04  #市場
-
-【LPR連續15個月持穩 “雙錨”並行助推貸款定價質效提升】貸款市場報價利率（LPR）連續15個月維持不變。中國人民銀行8月20日授權全國銀行間同業拆借中心公佈：1年期LPR為3.0%，5年期以上LPR為3.5%。分析人士認為，綜合當前政策利率、銀行淨息差等現實情況，LPR“按兵不動”符合預期。7月下旬以來，DR（存款類金融機構債券回購利率）基準利率貸款持續落地，未來LPR報價效率有望進一步提升。（上證報）
-
----
-
-### 2026-08-21 07:13:50  #其他
-
-【年內分紅已破千億元 公募基金著力提升投資者獲得感】公募基金迎來分紅熱潮。資料顯示，年內公募基金分紅金額已經突破千億元大關，分紅頻次同比大增。在“以投資者為本”的監管導向下，公募基金高頻分紅已成常態。疊加費率下調、浮動費率創新、投顧陪伴升級等多維舉措，公募行業正在打響全週期、多維度的持有人體驗升級戰。（上海證券報）
-
----
-
-### 2026-08-21 07:12:28  #市場 #焦點
-
-現貨黃金突破4530美元/盎司，日內漲0.24%。
-
----
-
-### 2026-08-21 07:12:22  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、首批41個典型場景釋出，助力規模化創新應用 交通需求與人工智慧技術加速對接（政策解讀）
-2、社會消費商品和服務零售總額前7月同比增2.6% 服務零售額增速持續高於商品零售額
-3、我國與APEC其他經濟體進出口前7月同比增21% 增速高於貨物貿易整體水平
-4、進出口銀行前7月新發放製造業貸款近5000億元 先進製造業貸款佔40%
-5、深入實施數字人社建設行動 到2030年底，申領電子社保卡人口覆蓋率達90%
-6、中國已成為厄瓜多第二大貿易伙伴
-7、工業和資訊化部再次批覆開展衛星物聯網業務商用試驗
-8、認證體系建設持續完善 上半年綠色建材營收同比增長超10%
-9、連通京津冀長三角 電商多式聯運快速班列開行
-10、新疆立法促進棉花產業高質量發展
-11、蘇州以科技創新驅動高質量發展
-12、機械工業何以“長紅”（讀數）
-13、山東助力企業延鏈補鏈強鏈、轉型智慧製造 傳統工廠跑出兩種“加速度”
-14、中國茶飲品牌不斷拓展國際市場 海外年輕人愛上“中國茶”（中國品牌圈粉海外）
-15、中國240小時過境免籤“朋友圈”擴充套件至57國
-16、“快遞進村”的建制村新增2244個
-17、“機器人消費街”亮相2026世界機器人大會
-18、恒大集團、恒大地產、許家印等案一審宣判
-19、《網路資料安全風險評估辦法》8月20日施行 公安部有關負責人就其實施有關事項回答記者提問
-20、佔約旦進口電動汽車八成以上 中國電動汽車獲約旦民眾青睞（國際視點）
-21、加快基礎設施建設 推動關鍵礦產增值 南部非洲加速推進工業化程序
-22、歐盟及英國約半數土地遭遇不同程度乾旱 持續高溫乾旱重創歐洲農業。
-
----
-
-### 2026-08-21 07:12:22  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Falls, but Poised for 3rd Weekly Gain — New Zealand stocks inched down 18 points, or 0.1%, to 13,901 in Friday morning deals, extending losses from the previous session, tracking a downbeat session on Wall Street overnight amid rising US Treasury yields. The decline was mainly weighed down by healthcare, materials, and industrials. However, gains in consumer staples, tech sectors, and real estate capped the fall. Traders were also anticipating the release of US July PMIs and New Zealand's retail sales for Q2 due next week. On the data front, New Zealand's trade deficit widened in July, as exports rose less than imports. Among early losers were Fisher & Paykel (-1.1%), F&C Investment (-0.7%), EBOS Group (-0.6%), Mercury NZ (-0.6%), and Freightways Group (-0.5%). However, for the week, the index rose 0.3%, marking the third consecutive weekly gain.
-
----
-
-### 2026-08-21 07:12:05  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、中共中央 國務院 中央軍委 關於給張陸頒發“二級航天功勳獎章” 授予武飛、張洪章“英雄航天員”榮譽稱號並頒發“三級航天功勳獎章”的決定（2026年8月20日）
-2、習近平致電祝賀希奇萊馬當選連任尚比亞總統
-3、宏觀政策發力提效
-4、趙樂際同薩爾瓦多立法大會主席卡斯特羅舉行會談
-5、“三北”工程攻堅戰年均完成建設任務8000萬畝以上
-6、蘇州以科技創新驅動高質量發展
-7、火箭回收海陸雙捷的啟示（今日談）。
-
----
-
-### 2026-08-21 07:11:56  #央行 #中國央行
-
-【LPR連續15個月持穩 “雙錨”並行助推貸款定價質效提升】貸款市場報價利率（LPR）連續15個月維持不變。中國人民銀行8月20日授權全國銀行間同業拆借中心公佈：1年期LPR為3.0%，5年期以上LPR為3.5%。分析人士認為，綜合當前政策利率、銀行淨息差等現實情況，LPR“按兵不動”符合預期。7月下旬以來，DR（存款類金融機構債券回購利率）基準利率貸款持續落地，未來LPR報價效率有望進一步提升。
-
----
-
-### 2026-08-21 07:10:39  #公司 #國際
-
-【訊息稱SpaceX、AST擬收購價值60億美元頻譜資產】SpaceX以及ASTSpacemobile公司等企業，均已表達有意收購GrainManagement有限責任公司所持有的大片頻譜資源。這批800兆赫茲頻段許可，是Grain與美國T‑Mobile完成頻譜置換後獲得。該頻譜被認為極具價值，能夠助力衛星運營商搭建語音業務的地面鏈路。Grain已要求意向方在9月第一週前提交初步報價，希望透過出售這批許可獲得約60億美元，不過該公司也考慮採取頻譜容量出租的方案。
-
----
-
-### 2026-08-21 07:10:19  #Trading Economics #Economy #United Kingdom #Consumer Confidence #Importance 2
-
-UK Consumer Confidence Hits 2-Year High — The UK GfK Consumer Confidence Index rose to -14 in August 2026 from -17 in the previous month, marking the highest level in two years despite lingering geopolitical and economic uncertainty. Consumers became more optimistic about the economy and their personal finances over the next 12 months, while more households viewed the current period as a good time to make major purchases. Confidence has rebounded over the past two months, supported by the appointment of new Prime Minister Andy Burnham and easing energy prices. However, rapidly rising inflation is threatening to weigh on sentiment, with consumer prices climbing sharply in July to 2.9%, the highest in four months, driven by higher household energy costs. GfK warned that continued uncertainty surrounding the Middle East and elsewhere, along with persistent cost-of-living pressures, could test consumer confidence in the months ahead.
-
----
-
-### 2026-08-21 07:07:56  #國際
-
-【烏克蘭首都遭空襲 死亡人數升至15人】烏克蘭首都基輔市市長克利奇科20日下午在社交媒體發文說，俄羅斯軍方19日深夜至20日凌晨對基輔市發動的大規模空襲致死人數已升至15人，另有39人受傷。（央視新聞）
-
----
-
-### 2026-08-21 07:06:48  #MKT News #GBPUSD #Impact bullish #FTSE100 #Impact mixed
-
-【UK consumer confidence rises to two-year high】GfK's UK consumer confidence index rose to -14 in August, its highest since Aug 2024, aided by continued good weather and a new prime minister's "Burnham effect." The index had climbed 6 pts in July under the same influences. GfK head of consumer insights Neil Bellamy warned the uptick may be short-lived as resurgent inf and persistent Middle East and other geopolitical risks will test household resilience.
-
----
-
-### 2026-08-21 07:06:45  #Trading Economics #Economy #Australia #Services PMI #Importance 2
-
-Australia Services Growth Eases — The S&P Global Flash Australia Services PMI Business Activity Index declined to 52.9 in August 2026 from July’s six-month high of a final 53.6. The latest reading marked a third consecutive month of growth, as activity and new business continued to grow, though at slightly softer rates.
-
----
-
-### 2026-08-21 07:04:44  #經濟數據 #英國
-
-英國8月Gfk消費者信心指數為-14，為2024年8月以來最高水平。
-
----
-
-### 2026-08-21 07:04:14  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
-
-Australia Composite PMI Slips from 6-Month High — Australia’s S&P Global Composite PMI fell to 52.5 in August 2026 from a final 53.2 in July, flash data showed. Still, private sector activity rose for the fourth time in five months, with the expansion concentrating in the service sector amid a slight dip in manufacturing output
-
----
-
-### 2026-08-21 07:02:04  #Trading Economics #Economy #New Zealand #Imports #Importance 1
-
-New Zealand Imports Jump 28.4% — Imports to New Zealand surged 28.4% year-on-year to NZD 9.34 billion in July 2026, following a downwardly revised 27.5% jump in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 127.0%).
-
----
-
-### 2026-08-21 07:01:36  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK GfK consumer confidence major purchases index rose to its highest level since December 2021.
-
----
-
-### 2026-08-21 07:01:32  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK GfK consumer confidence index for August was -14, the highest level since August 2024.
-
----
-
-### 2026-08-21 07:01:31  #其他
-
-英國 GFK 消費者信心大額採購指數升至 2021 年 12 月以來最高水平。
-
----
-
-### 2026-08-21 07:01:08  #資料
-
-英國8月Gfk消費者信心指數 -14，預期-18，前值-17。
-
----
-
-### 2026-08-21 07:01:07  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK August GfK consumer confidence index -14; expected -18; prior -17.
-
----
-
-### 2026-08-21 07:01:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | GfK Consumer Confidence Index (Aug) | actual -14 | consensus -18 | previous -17
-
----
-
-### 2026-08-21 07:00:16  #資料
-
-澳大利亞8月標普全球綜合PMI初值 52.5，前值53.2。
-澳大利亞8月標普全球製造業PMI初值 52，前值52。
-澳大利亞8月標普全球服務業PMI初值 52.9，前值53.6。
-
----
-
-### 2026-08-21 07:00:08  #MKT News #AUDUSD #Impact bearish
-
-Australia Aug S&P Global services PMI preliminary 52.9, prior 53.6.
-
----
-
-### 2026-08-21 07:00:08  #MKT News #DXY
-
-Australia Aug S&P Global Composite PMI (flash) 52.5, down from 53.2 previously.
-
----
-
-### 2026-08-21 07:00:08  #MKT News #DXY #Impact bearish
-
-Australia August S&P Global manufacturing PMI (preliminary) 52, unchanged from previous 52.
-
----
-
-### 2026-08-21 06:59:38  #MKT News #Commodities #Energy
-
-【APEC Energy Think Tank Forum Held in Dalian】Aug 20, Dalian — The APEC Energy Think Tank Forum brought together more than 100 delegates from 16 APEC economies, international organizations, think tanks and research institutes to discuss energy security, regional resilience, energy technology and innovation cooperation, and multilateral think‑tank networks. Participants called for institutionalized cooperation to remove barriers, coordinate energy security with the green transition, pursue coordinated innovation in key core technologies, and advance regional energy market interconnectivity to build an open, resilient Asia‑Pacific energy security framework. The 16th APEC Energy Ministers’ Meeting is scheduled for Sept. 10‑11 in Beijing.
-
----
-
-### 2026-08-21 06:58:18  #MKT News #Important
-
-【Trump signs memo to expand U.S. launch infrastructure, targets 1,000+ annual launches by 2030】On Aug. 20 the White House said President Trump signed a memorandum directing U.S. spaceports and related facilities should be capable of supporting more than 1,000 launches and re-entries per year by 2030. The memo instructs agencies to expand and upgrade launch and re-entry infrastructure, open federal launch ranges to commercial users, encourage private investment and public‑private partnerships and joint infrastructure development, and accelerate facility permitting and environmental reviews. NASA is tasked with developing a commercial lunar logistics architecture, exploring commercial robotic Mars landings, and outlining architectures for commercial crewed round‑trip Mars missions.
 
 ---
