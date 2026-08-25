@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-26 06:47:12",
-  "count": 16519,
+  "updated": "2026-08-26 06:51:18",
+  "count": 16521,
   "items": [
+    {
+      "id": "5058560",
+      "time": "2026-08-26 06:49:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：據政府官員等透露，韓國總統李在明將會見三星電子Jay Y. Lee和現代汽車Euisun Chung。"
+    },
+    {
+      "id": "mkt:01a03b1c-23ae-7aab-911b-b3410ae93dff",
+      "time": "2026-08-26 06:48:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed's Barkin: rising US debt will eventually face 'liquidation'】Fed's Barkin said rising U.S. public debt will ultimately face \"liquidation\", though the timing is unpredictable. Asked about debt exceeding $40 trillion, he said the government can keep borrowing while investors keep buying Treasuries, but warned investors could begin to balk. He cited the dollar's global role and U.S. rule of law as current supports for demand, but said the risk is that purchasers eventually stop. Barkin reiterated that, given evidence of falling inflation, rates should be held steady, while acknowledging policymakers may need to raise rates if price pressures become entrenched."
+    },
+    {
+      "id": "mkt:01a03b1b-7bdb-7aab-911b-ae7f7266bf12",
+      "time": "2026-08-26 06:47:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver climbed above $69/oz, up 0.49% intraday."
+    },
+    {
+      "id": "5058559",
+      "time": "2026-08-26 06:47:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【生豬價格“磨底”回升 8月以來漲超7.5%】8月份以來，生豬價格持續回暖，且連續多日保持在11元/公斤以上。中國養豬網資料顯示，8月25日，生豬（外三元）價格報11.13元/公斤，記者注意到，這一價格，較本月初已上漲超7.54%。“下游需求相對回暖，一定程度上帶動了豬肉價格上漲。”卓創資訊生豬市場分析師閆法成表示，與7月份相比，8月份高溫天氣有所緩解，家庭鮮肉消費明顯回升，白條走貨顯著好轉。同時，升學宴、開工宴、婚宴等集體活動增多，帶動團膳渠道對生豬的需求上升。卓創資訊資料顯示，截至8月17日，全國生豬日屠宰量為173196頭，環比上月的159967頭增加8.27%。（證券日報）"
+    },
     {
       "id": "te:markets:578046",
       "time": "2026-08-26 06:45:03",
@@ -149451,26 +149496,6 @@
         "其他"
       ],
       "text": "【我國執業醫師達529萬人 居民主要健康指標達歷史最好水平】今天是第九個中國醫師節，各地醫療機構和醫務工作者舉行了形式多樣的紀念活動。記者今天從國家衛生健康委瞭解到，截至2025年底，全國執業（助理）醫師達到529萬人，超額完成“十四五”衛生健康人才發展規劃設定目標。醫師隊伍中研究生學歷佔比、本科以上學歷佔比、高階技術職務佔比等指標，較2012年均有提升。2025年，我國醫療衛生機構總診療人次超106億，我國居民主要健康指標跨入中高收入和人口過億國家前列，達到歷史最好水平。 (央視新聞)"
-    },
-    {
-      "id": "te:economy:576241",
-      "time": "2026-08-19 06:50:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "PPI Input",
-        "Importance 1"
-      ],
-      "text": "New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%)."
-    },
-    {
-      "id": "5046539",
-      "time": "2026-08-19 06:47:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，截至8月19日1時50分，影片《歡迎來龍餐館》票房突破11億。"
     }
   ]
 }

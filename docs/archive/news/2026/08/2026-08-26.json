@@ -1,7 +1,52 @@
 {
   "date": "2026-08-26",
-  "count": 369,
+  "count": 373,
   "items": [
+    {
+      "id": "5058560",
+      "time": "2026-08-26 06:49:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：據政府官員等透露，韓國總統李在明將會見三星電子Jay Y. Lee和現代汽車Euisun Chung。"
+    },
+    {
+      "id": "mkt:01a03b1c-23ae-7aab-911b-b3410ae93dff",
+      "time": "2026-08-26 06:48:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Fed's Barkin: rising US debt will eventually face 'liquidation'】Fed's Barkin said rising U.S. public debt will ultimately face \"liquidation\", though the timing is unpredictable. Asked about debt exceeding $40 trillion, he said the government can keep borrowing while investors keep buying Treasuries, but warned investors could begin to balk. He cited the dollar's global role and U.S. rule of law as current supports for demand, but said the risk is that purchasers eventually stop. Barkin reiterated that, given evidence of falling inflation, rates should be held steady, while acknowledging policymakers may need to raise rates if price pressures become entrenched."
+    },
+    {
+      "id": "mkt:01a03b1b-7bdb-7aab-911b-ae7f7266bf12",
+      "time": "2026-08-26 06:47:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver climbed above $69/oz, up 0.49% intraday."
+    },
+    {
+      "id": "5058559",
+      "time": "2026-08-26 06:47:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【生豬價格“磨底”回升 8月以來漲超7.5%】8月份以來，生豬價格持續回暖，且連續多日保持在11元/公斤以上。中國養豬網資料顯示，8月25日，生豬（外三元）價格報11.13元/公斤，記者注意到，這一價格，較本月初已上漲超7.54%。“下游需求相對回暖，一定程度上帶動了豬肉價格上漲。”卓創資訊生豬市場分析師閆法成表示，與7月份相比，8月份高溫天氣有所緩解，家庭鮮肉消費明顯回升，白條走貨顯著好轉。同時，升學宴、開工宴、婚宴等集體活動增多，帶動團膳渠道對生豬的需求上升。卓創資訊資料顯示，截至8月17日，全國生豬日屠宰量為173196頭，環比上月的159967頭增加8.27%。（證券日報）"
+    },
     {
       "id": "te:markets:578046",
       "time": "2026-08-26 06:45:03",
