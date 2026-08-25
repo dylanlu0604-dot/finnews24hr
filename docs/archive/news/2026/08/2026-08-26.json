@@ -1,7 +1,32 @@
 {
   "date": "2026-08-26",
-  "count": 314,
+  "count": 316,
   "items": [
+    {
+      "id": "5058527",
+      "time": "2026-08-26 05:24:51",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【韓國DRAM 8月出口價格同比暴漲401%】據韓國《朝鮮日報》報道，韓國DRAM出口價格持續飆升，AI驅動的HBM生產正在擠壓普通記憶體供應。資料顯示，本月1日至20日，韓國DRAM出口單價達到每公斤9.2183萬美元，同比上漲401%，較2023年1月低點上漲約12.5倍。高盛預計，DRAM供應缺口將從今年的5.0%擴大至明年的5.9%，並認為“AI伺服器所需的HBM以及大容量伺服器DRAM正在吸收有限的生產產能，導致普通DRAM供應進一步收緊”。TrendForce預計，到明年底，三星、SK海力士和美光用於HBM生產的晶圓投入量將佔DRAM總晶圓投入的30%，但HBM佔實際DRAM位元供應量僅約13%。記憶體廠商警告，AI需求推動的DRAM和NAND供應緊張可能持續至2027年以後。SK海力士表示，從供應端來看，2027年可能成為“記憶體行業歷史上最嚴重的短缺年份”。高盛預計，供應短缺可能持續至2028年。"
+    },
+    {
+      "id": "mkt:01a03acf-b0e8-7aab-911b-1593fc87aac1",
+      "time": "2026-08-26 05:24:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "MU.O"
+      ],
+      "text": "【South Korea DRAM export prices jumped 401% YoY in August】South Korea's DRAM export unit price for Aug. 1-20 reached $92,183/kg, up 401% YoY and about 12.5x the Jan. 2023 low. AI-driven HBM production is diverting wafer capacity from commodity DRAM, tightening supply. Goldman Sachs forecasts the DRAM supply shortfall widening from 5.0% this year to 5.9% next year, citing HBM for AI servers and large-capacity server DRAM absorbing limited production capacity. TrendForce expects Samsung, SK Hynix and Micron to allocate about 30% of DRAM wafer starts to HBM by the end of next year, while HBM will represent only roughly 13% of DRAM bit supply. Memory makers warn DRAM and NAND tightness driven by AI demand may persist beyond 2027; SK Hynix said 2027 could be the memory industry's worst shortage year and Goldman sees shortages potentially lasting into 2028."
+    },
     {
       "id": "5058526",
       "time": "2026-08-26 05:21:05",
