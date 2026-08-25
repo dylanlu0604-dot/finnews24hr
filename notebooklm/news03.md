@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-26 03:41:25_
-_本檔包含 3020 則快訊，約 653067 字_
+_更新時間：2026-08-26 03:58:07_
+_本檔包含 3022 則快訊，約 653541 字_
+
+---
+
+### 2026-08-22 10:52:12  #觀點
+
+【中信證券：預計全球TIM市場規模將由2025年的96.7億元增至2030年的221.2億元】據中信證券，AI算力需求增長與先進封裝演進持續推升晶片功耗和熱流密度，推動TIM向高導熱、低熱阻和高可靠性升級。AI伺服器與新能源汽車將成為主要增量來源，預計全球TIM市場規模將由2025年的96.7億元增至2030年的221.2億元。海外廠商憑藉配方積累、量產經驗和客戶認證佔據中高階市場，國內企業正依託本土晶片、封測及終端產業鏈加快產品匯入。建議把握兩條投資主線：1）晶片級TIM國產突破；2）電子級有機矽材料升級及熱管理應用拓展。
+
+---
+
+### 2026-08-22 10:51:36  #觀點
+
+【中信證券：看好高運營門檻，需求旺盛的REITs】據中信證券，繼2024年之後，公募REITs市場在2026年8月底再次進入了重要的一二級市場配置視窗期。中信證券認為，由於一級市場發行溢價率的下降，網下中籤率的提升，參與網下較之參與二級市場投資更適合大體量資金。看好高運營門檻，需求旺盛的REITs。
+
+---
+
+### 2026-08-22 10:51:01  #觀點
+
+【中信建投：當前光伏行業需求已基本觸底，2026H2起國內外裝機有望逐季改善】據中信證券，當前光伏行業需求已基本觸底，2026H2起國內外裝機有望逐季改善；供給側“反內卷”從自律倡議走向硬性制度約束，能效標準與成本核算通則推動落後產能加速出清，行業競爭重心轉向技術及效率比拼。產業鏈價格及盈利有望迎來修復，具備高效技術、格局優勢與盈利確定性的細分龍頭有望率先受益，建議優先關注電池元件、膠膜、光伏玻璃、漿料等環節的結構性機會。
+
+---
+
+### 2026-08-22 10:49:43  #宏觀 #市場 #觀點
+
+【中信建投：本次上海樓市新政瞄準外環外去庫存目標，購房補貼及二套房首付比下調可鼓勵居民向外環外新房置換】據中信建投，8月20日，上海出臺樓市“滬八條”，新政聚焦最佳化公積金提取、實施購房補貼等維度。整體看，本次上海樓市新政瞄準外環外去庫存目標，購房補貼及二套房首付比下調可鼓勵居民向外環外新房置換。今年以來上海樓市呈現企穩態勢，二手房成交量同比增長14%，掛牌價指數上漲1.6%，新房庫存較去年底下降8%。樓市新政預計提升外環外新房成交量，進一步改善新房市場供需關係，鞏固上海樓市止跌回穩態勢。
+
+---
+
+### 2026-08-22 10:48:55  #觀點
+
+【中信建投：政策性金融工具重點投向逐步明確後，相關行業往往存在階段性的相對收益機會】據中信建投，2026年新型政策性金融工具擴容，不僅增加資金供給，更在於透過補充專案資本金打通後續融資鏈條，在投資持續承壓、地方專案資本金約束上升背景下加快重大專案落地。歷史經驗顯示，政策性金融工具具有較強融資放大能力，本輪8000億元工具有望對應約9.8萬億—11.2萬億元專案總投資。考慮到本輪實際投放更多集中於下半年，對2026年固定資產投資的實際拉動仍取決於資金落地速度、專案開工進度和當年投資轉化率。從三輪工具投放後二級市場行情來看，政策性金融工具重點投向逐步明確後，相關行業往往存在階段性的相對收益機會，但市場並不會機械交易所有支援方向，收益更容易集中於政策增量較強、產業景氣度較高並與當期市場主線形成共振的領域。
+
+---
+
+### 2026-08-22 10:46:20  #國際
+
+【伊朗外交部：美國對伊朗實施新制裁毫無國際法依據】伊朗外交部發言人巴加埃22日說，美國宣稱對伊朗實施新的經濟制裁，這遠不止針對單個國家持續進行的非法“經濟戰”，在國際法層面毫無依據。巴加埃當地時間22日凌晨在社交媒體上發文說，此類制裁違反《聯合國憲章》中的主權平等原則。這種“迫使一個主權國家改變其合法政策選擇的經濟脅迫”，構成徹頭徹尾的不法行為。由於與伊朗的談判停滯，美國總統特朗普19日宣佈對伊朗實施“毀滅性經濟行動”。特朗普威脅說，任何允許其金融機構、企業、機場或政府實體向伊朗提供任何形式支援的國家，都將面臨嚴重的經濟後果。他喊話所有美國盟友與美國一起來孤立伊朗和擊敗“伊朗的威脅”。美國財政部長貝森特20日警告稱，美國將對伊朗實施“史無前例的經濟孤立”措施。伊朗外交部20日對此強烈譴責，稱伊朗將利用“一切工具和能力”維護國家利益和伊朗人民的合法權利。（新華社）
 
 ---
 
@@ -18225,29 +18261,5 @@ Australia August S&P Global manufacturing PMI (preliminary) 52, unchanged from p
 ### 2026-08-21 06:58:18  #MKT News #Important
 
 【Trump signs memo to expand U.S. launch infrastructure, targets 1,000+ annual launches by 2030】On Aug. 20 the White House said President Trump signed a memorandum directing U.S. spaceports and related facilities should be capable of supporting more than 1,000 launches and re-entries per year by 2030. The memo instructs agencies to expand and upgrade launch and re-entry infrastructure, open federal launch ranges to commercial users, encourage private investment and public‑private partnerships and joint infrastructure development, and accelerate facility permitting and environmental reviews. NASA is tasked with developing a commercial lunar logistics architecture, exploring commercial robotic Mars landings, and outlining architectures for commercial crewed round‑trip Mars missions.
-
----
-
-### 2026-08-21 06:57:19  #其他
-
-【2026年APEC能源智庫論壇在大連舉行】8月20日， APEC能源智庫論壇在大連舉行，來自16個APEC成員經濟體、國際組織、智庫和科研機構的100餘位代表，圍繞能源安全與區域韌性、能源技術與創新合作、多邊合作與智庫網路建設等議題深入研討，為深化區域能源務實合作、共促亞太共同繁榮凝聚智力共識。（央視新聞）
-
----
-
-### 2026-08-21 06:57:03  #Trading Economics #Economy #New Zealand #Exports #Importance 1
-
-New Zealand Exports Rise 13.5% in July — Exports increased 13.5% yoy to NZD 7.39 billion in July 2026, mainly driven by higher sales of milk powder, butter, and cheese (6.4%); meat and edible offal (34.0%); aluminum and aluminum articles (43.0%); and fruit (15.0%).
-
----
-
-### 2026-08-21 06:55:56  #MKT News #Market Regions #Japan & APAC #000660.KS
-
-【Report: SK Hynix to build memory fab in Miyagi, Japan】South Korea's SK Hynix is reportedly seeking to build a memory-chip manufacturing plant in Miyagi prefecture, Japan, marking the first production base by a South Korean chipmaker in Japan. Investment could reach tens of trillions of won. Industry sources said SK Group chairman Chey Tae-won recently visited the area. SK Hynix said any site with necessary infrastructure could be a candidate but no decision has been made.
-
----
-
-### 2026-08-21 06:55:28  #國際
-
-【特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星】當地時間8月20日，白宮表示，美國總統特朗普已簽署一份備忘錄，提出到2030年，美國太空運輸靶場和相關設施應具備支援每年超過1000次發射和再入任務的能力。備忘錄稱，美國將擴大和改善太空發射及再入基礎設施，要求有關部門推動聯邦發射場向商業使用者開放，鼓勵商業投資、公私合作以及基礎設施共同開發，並加快設施許可和環境審查。NASA還被要求制定商業化月球物流架構，探索商業機器人登陸火星，以及商業載人往返火星的相關架構。（央視新聞）
 
 ---

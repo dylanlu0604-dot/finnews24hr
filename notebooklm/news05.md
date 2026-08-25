@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-26 03:41:25_
-_本檔包含 3310 則快訊，約 653264 字_
+_更新時間：2026-08-26 03:58:07_
+_本檔包含 3304 則快訊，約 652764 字_
+
+---
+
+### 2026-08-20 05:53:51  #MKT News #Macro & Rates #US Economy
+
+【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026.
+
+---
+
+### 2026-08-20 05:46:55  #Trading Economics #Markets #Commodity #commodity #Importance 0
+
+HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%.
+
+---
+
+### 2026-08-20 05:46:24  #宏觀 #市場 #國際
+
+【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。
+
+---
+
+### 2026-08-20 05:44:39  #其他
+
+牙買加中央銀行將貸款利率維持在5.5%的水平。
+
+---
+
+### 2026-08-20 05:42:14  #國際
+
+巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。
+
+---
+
+### 2026-08-20 05:41:09  #MKT News
+
+Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit.
+
+---
+
+### 2026-08-20 05:39:30  #公司
+
+谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。
+
+---
+
+### 2026-08-20 05:38:55  #市場
+
+週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。
+
+---
+
+### 2026-08-20 05:38:08  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London.
+
+---
+
+### 2026-08-20 05:36:43  #公司 #國際
+
+英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。
+
+---
+
+### 2026-08-20 05:34:29  #國際
+
+據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。
+
+---
+
+### 2026-08-20 05:34:05  #MKT News #XAUUSD #Impact bullish #WTI
+
+According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base.
 
 ---
 
@@ -19837,113 +19909,5 @@ Syrian state news agency says Syria Petroleum Company reported an explosion on t
 ### 2026-08-19 03:58:54  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
 
 Spot gold slid to $4,340/oz, down 1.75% intraday.
-
----
-
-### 2026-08-19 03:57:24  #市場 #焦點
-
-現貨黃金失守4340美元/盎司，日內跌1.76%。
-
----
-
-### 2026-08-19 03:56:49  #公司
-
-訊息人士：派拉蒙再度聘用兩名谷歌前高管。
-
----
-
-### 2026-08-19 03:54:21  #市場 #焦點
-
-美國天然氣期貨漲超3.00%，現報2.811美元/百萬英熱。
-
----
-
-### 2026-08-19 03:52:26  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up on 18th】The dollar index (DXY) rose 0.02% to 99.657 at the New York close on the 18th. Major crosses: EUR/USD 1.1576 (prev. 1.1572); GBP/USD 1.3534 (prev. 1.3538); USD/JPY 159.60 (prev. 159.59); USD/CHF 0.8125 (prev. 0.8115); USD/CAD 1.3906 (prev. 1.3877); USD/SEK 9.5395 (prev. 9.5193).
-
----
-
-### 2026-08-19 03:52:21  #市場
-
-【美元指數18日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.657。截至紐約匯市尾市，1歐元兌換1.1576美元，高於前一交易日的1.1572美元；1英鎊兌換1.3534美元，低於前一交易日的1.3538美元。1美元兌換159.60日元，高於前一交易日的159.59日元；1美元兌換0.8125瑞士法郎，高於前一交易日的0.8115瑞士法郎；1美元兌換1.3906加元，高於前一交易日的1.3877加元；1美元兌換9.5395瑞典克朗，高於前一交易日的9.5193瑞典克朗。
-
----
-
-### 2026-08-19 03:51:43  #MKT News #DIS.N
-
-U.S. Federal Communications Commission chair said no decision has been made yet on the review of Disney (DIS.N)'s ABC television license.
-
----
-
-### 2026-08-19 03:49:42  #MKT News #XAUUSD #Impact bearish
-
-COMEX gold futures fell below $4,400/oz, down 1.64% intraday.
-
----
-
-### 2026-08-19 03:49:34  #國際
-
-美國聯邦通訊委員會主席布倫丹·卡爾為審查迪士尼旗下ABC電視臺執照辯護，稱尚未做出任何決定。
-
----
-
-### 2026-08-19 03:49:26  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 589.70 USD, the lowest since July 2026. Over the past 4 weeks, Deere & Company gained 0.66%, and in the last 12 months, it increased 20.52%.
-
----
-
-### 2026-08-19 03:49:24  #市場
-
-紐約期銀日內跌4%，現報63.57美元/盎司。
-
----
-
-### 2026-08-19 03:49:24  #市場 #焦點
-
-紐約期金失守4400美元/盎司，日內跌1.67%。
-
----
-
-### 2026-08-19 03:47:18  #MKT News
-
-【US Treasury sanctions two International Criminal Court personnel】Aug 18 — The US Treasury’s Office of Foreign Assets Control issued new sanctions related to the International Criminal Court and updated the Specially Designated Nationals (SDN) list, adding ICC president Tomoko Akane (Japan) and Senegalese ICC prosecutor-team member Abdoulaye Seye. OFAC also issued General License No.12, authorising a phased wind‑down of certain transactions involving persons blocked on Aug. 18. The ICC said the measures undermine the rule of law, will not prevent staff from performing duties, and pledged to defend its personnel. Dutch foreign minister Berendsen said the Netherlands opposes the sanctions.
-
----
-
-### 2026-08-19 03:45:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slipped below $4,350/oz, down 1.51% on the day.
-
----
-
-### 2026-08-19 03:45:09  #市場 #焦點
-
-現貨黃金失守4350美元/盎司，日內跌1.53%。
-
----
-
-### 2026-08-19 03:44:56  #國際
-
-【英國47%民眾希望減少乃至拒絕以色列移民入境】YouGov一項最新民調顯示，僅有5%的英國民眾支援接納更多以色列移民進入英國；47%的民眾希望減少以色列移民數量或是完全不接收。隨著英國國內反對以色列在加沙開展軍事行動的情緒不斷高漲，以色列籍移民已成為英國民眾接納意願最低的移民群體之一。
-
----
-
-### 2026-08-19 03:43:42  #MKT News #Commodities #Energy
-
-A vice president at Venezuela's state oil company said the country faces a daily natural gas shortfall of about 500 million cubic feet.
-
----
-
-### 2026-08-19 03:42:35  #宏觀 #國際
-
-【美國財政部對兩名國際刑事法院人員實施制裁】當地時間8月18日，據美國財政部外國資產控制辦公室訊息，美國當天釋出國際刑事法院相關的新制裁，並更新“特別指定國民清單”（SDN清單）。美國將日本籍國際刑事法院院長赤根智子和塞內加爾籍國際刑事法院檢察官團隊成員阿卜杜拉耶·塞耶列入清單。（央視新聞）
-
----
-
-### 2026-08-19 03:41:58  #公司
-
-委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。
 
 ---
