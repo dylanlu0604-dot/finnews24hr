@@ -1,7 +1,172 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 19:37:42_
-_本檔包含 3130 則快訊，約 649102 字_
+_更新時間：2026-08-25 19:49:07_
+_本檔包含 3121 則快訊，約 649901 字_
+
+---
+
+### 2026-08-21 20:21:18  #其他
+
+【今年第19號颱風生成 廣東啟動防風Ⅳ級應急響應】根據氣象部門監測預報，原位於北部灣海面的熱帶低壓已於8月21日17時加強為今年第19號颱風，其中心位於湛江市徐聞縣西偏北方向約160公里的北部灣海面上，中心附近最大風力8級（18米/秒）。預計，其將於21日夜間到22日在北部灣海面迴旋，強度將有所增強，23日後轉向偏東方向移動，趨向瓊州海峽，強度緩慢減弱。鑑於當前形勢，根據《廣東省防汛防旱防風防凍應急預案》和省防總有關規定，廣東省防汛防旱防風總指揮部決定於8月21日20時啟動防風Ⅳ級應急響應。
+
+---
+
+### 2026-08-21 20:20:54  #MKT News
+
+【Typhoon No.19 forms; Guangdong activates Level-IV wind emergency】A tropical depression in the Beibu Gulf strengthened into Typhoon No.19 at 17:00 on Aug 21. Its center was about 160 km WNW of Xuwen county (Zhanjiang), with peak winds near the center of force 8 (18 m/s). The system is expected to loop in the Beibu Gulf overnight Aug 21–22 and strengthen somewhat, then turn east toward the Qiongzhou Strait from Aug 23 and weaken slowly. Guangdong provincial flood/drought/wind emergency headquarters activated a Level‑IV wind emergency at 20:00 on Aug 21.
+
+---
+
+### 2026-08-21 20:20:27  #公司
+
+【中際旭創：擬派發2026年中期股息每10股12元】中際旭創公告稱，公司擬派發截至2026年6月30日止六個月的中期普通股息，每10股派12元人民幣，按匯率折算為每10股13.8766港元。除淨日為2026年9月3日，記錄日期為2026年9月10日，股息派發日為2026年10月9日。
+
+---
+
+### 2026-08-21 20:20:09  #公司
+
+【中興商業：2026年上半年淨利潤4596.17萬元，同比下降5.87%】中興商業公告，2026年上半年營業收入3.76億元，同比下降6.65%；歸屬於上市公司股東的淨利潤4596.17萬元，同比下降5.87%，2025年同期4882.95萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3796.14萬元，同比下降10.22%。
+
+---
+
+### 2026-08-21 20:20:04  #MKT News #Important #DXY #Impact mixed
+
+Canada June retail sales MoM due in 10 minutes.
+
+---
+
+### 2026-08-21 20:19:59  #公司
+
+【松芝股份：2026年上半年淨利潤1.25億元，同比下降12.21%】松芝股份公告，2026年上半年營業收入25.47億元，同比增長2.15%；歸屬於上市公司股東的淨利潤1.25億元，同比下降12.21%，2025年同期為1.42億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.07億元，同比下降16.38%，2025年同期為1.29億元。
+
+---
+
+### 2026-08-21 20:19:18  #其他
+
+【中關村（海淀）科學智慧創新集聚區正式釋出】8月21日，2026科學智慧大會在中關村國際創新中心舉辦，會上北京海淀區正式釋出了中關村（海淀）科學智慧（AI4S）創新集聚區。該集聚區將按照“核心策源、中試驗證、場景拓展”的思路，加快構建從源頭創新到產業化落地的完整創新鏈條。（新華社）
+
+---
+
+### 2026-08-21 20:19:15  #公司
+
+【深圳落地腦機介面資料智慧財產權登記】據深圳市市場監督管理局（深圳市智慧財產權局）訊息，近日，在深圳市標準技術研究院指導下，深圳全域智慧科技有限公司（以下簡稱“全域智慧”）自主形成的“基於人類視覺神經反饋的圖片偏好對齊資料”順利完成資料智慧財產權登記並取得登記證書。本次腦機介面資料智慧財產權登記，實現了神經資料確權與合規落地，為大腦基座模型研發、智慧終端、具身智慧、內容生成、人機互動等前沿領域的技術研發與產業協同提供了堅實的制度保障與合規支撐，也填補了廣東省腦機介面領域的資料智慧財產權保護空白。（深圳釋出）
+
+---
+
+### 2026-08-21 20:18:41  #公司
+
+【漳州發展：2026年上半年營收10.85億元 淨利同比增11.66%】漳州發展公告稱，2026年上半年實現營業收入10.85億元，同比下降15.78%；歸屬於上市公司股東的淨利潤4322.44萬元，同比增長11.66%；扣除非經常性損益的淨利潤3302.10萬元，同比增長8.61%。基本每股收益0.0272元/股，同比下降9.63%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-21 20:18:30  #公司
+
+【上海萊士：子公司蛋白C臨床試驗申請獲受理】上海萊士公告稱，公司全資子公司廣西萊士生物製藥有限公司收到國家藥監局下發的“蛋白C”臨床試驗申請《受理通知書》，受理號為CXSL2600893。該藥品為治療用生物製品3.2類，規格500IU/瓶，用於先天性蛋白C缺乏症患者的治療，屬國內Ⅱ類新藥，列入第三批鼓勵研發申報兒童藥品清單，目前國內尚無同類人蛋白C製劑獲批上市。本次受理後60日內未收到藥審中心否定或質疑意見的，可按提交方案開展臨床試驗。該產品若成功獲批上市，將提升公司血漿綜合利用率及相關領域競爭力，藥物研發尚存不確定性。
+
+---
+
+### 2026-08-21 20:18:01  #宏觀 #國際
+
+【王毅訪問印尼】8月21日，中共中央政治局委員、外交部長王毅在雅加達與印尼外長蘇吉約諾舉行會談，雙方共同啟動中國印尼全面戰略對話機制並舉行首次會議。（CGTN）
+
+---
+
+### 2026-08-21 20:16:58  #宏觀 #市場 #國際
+
+【南非蘭特升值，兌美元跌破 16，回補地緣衝突帶來的跌幅】南非蘭特走強，兌美元匯率跌破 16，回補因伊朗衝突造成的跌幅。蘭特通常被視作發展中國家資產的風向標。受美國財政部宣佈開展債務回購以壓低收益率、美元跌至三個月低點影響，蘭特上漲 0.8%，報 1 美元兌 16 蘭特。今年 3 月，受中東衝突推高油價影響，南非蘭特匯率跌至四個月低點。該貨幣此前收復部分失地，但 7 月南非儲備銀行出人意料地暫停加息後，蘭特再度走弱。
+
+---
+
+### 2026-08-21 20:15:53  #宏觀 #公司 #市場 #觀點 #央行 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨齊漲，道指期貨漲0.56%，標普500指數期貨漲0.43%，納指期貨漲0.66%。
+②德國DAX指數漲0.31%，英國富時100指數漲0.12%，法國CAC40指數漲0.09%，歐洲斯托克50指數漲0.36%。
+③WTI原油漲0.30%，報87.09美元/桶。布倫特原油漲0.36%，報94.12美元/桶。
+④週五，美國長久期國債收益率維持震盪；市場對財政部擴大國債回購計劃、以及美國國債規模飆升的擔憂持續壓制債市。摩根大通沙利文稱：美國債券市場干預猶如“用信用卡償還抵押貸款”。
+⑤根據美國銀行的報告，截至8月19日的一週，近290億美元流入美國股票基金，為三週以來最大單週流入。
+⑥經濟學家上調了對美國第三季度經濟增長的預測，反映出對消費者支出、以及包含AI領域資本支出的私人投資的預期有所上調，料美聯儲到明年7月都按兵不動。
+⑦超微電腦(SMCI.O)盤前拉昇上漲2.3%。此前超微電腦週四宣佈，由公司董事會獨立董事牽頭，針對 2026 年 3 月遭到起訴的三名前關聯人員一事開展的內部獨立調查已全部結束。
+⑧貝殼美股盤前上漲6%，二季度貝殼平臺二手房成交單量同比增長25%。
+⑨隨著比特幣價格上漲超5%，創下5月末以來新高，加密概念股盤前普漲。普羅Shares比特幣策略交易所交易基金上漲5.5%，安碩比特幣信託上漲5.3%。riot平臺股價上漲3.2%，HUT 8上漲2.5%，瑪拉控股上漲4.2%。
+
+---
+
+### 2026-08-21 20:14:32  #公司
+
+【信濠光電：擬收購迪滴新能源100%股權 聘任副總經理】信濠光電公告稱，公司董事會審議透過對外投資收購深圳市迪滴新能源汽車科技有限公司100%股權的議案，該議案尚需提交公司股東會審議，股東會召開時間另行通知。同時，董事會同意聘任劉泰谷為公司副總經理，任期自本次董事會審議透過之日起至第四屆董事會任期屆滿之日止。
+
+---
+
+### 2026-08-21 20:14:17  #國際
+
+【德國儲氣水平跌至歷年同期最低】德國能源儲存倡議協會最新資料顯示，德國天然氣儲存設施當前的儲氣水平已跌至2011年有記錄以來歷年同期最低。能源儲存倡議協會主管官員塞巴斯蒂安·海納曼告訴德新社：“德國當前儲氣水平，是有記錄以來歷年同期最低值，由此創下了歷史新低。”他介紹，目前該國天然氣儲存設施的儲氣率為49%，而去年同期為67%。德國經濟部20日表示，政府會重視這一資料反映的情況，但不能僅憑該指標判斷供氣安全。就目前掌握的資訊來看，今冬預計不會出現天然氣短缺。除經由挪威輸氣管道以及歐洲鄰國獲取管道氣外，德國還進口液化天然氣以保障供應。受伊朗戰事以及霍爾木茲海峽航道受阻等因素影響，德國今夏天然氣價格居高不下，貿易商因此減少了冬季備貨採購量。由於當前天然氣採購成本往往高於冬季市場可售出價格，企業缺乏經濟動力向儲存設施存入更多天然氣。德國經濟部表示，正在籌備應對預案，一旦局勢惡化，可快速、有針對性地啟動相關舉措。（新華社）
+
+---
+
+### 2026-08-21 20:13:40  #MKT News #WMT.N #Impact bearish
+
+UBS cut PT on Walmart (WMT.N) to $130 from $141.
+
+---
+
+### 2026-08-21 20:13:08  #公司
+
+【白雲山：2026年上半年淨利潤20.96億元，同比下降16.70%】白雲山公告，2026年上半年營業收入420.91億元，同比增長0.61%；歸屬於本公司股東的淨利潤20.96億元，同比下降16.70%，2025年同期為25.16億元；歸屬於本公司股東的扣除非經常性損益後的淨利潤19.39億元，同比下降12.10%。公司擬每股派發現金紅利人民幣0.30元（含稅）。
+
+---
+
+### 2026-08-21 20:13:05  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Hezbollah said Washington is seeking to foment instability in Lebanon.
+
+---
+
+### 2026-08-21 20:13:00  #公司
+
+【雷電微力：2026年上半年淨利潤虧損9148.77萬元，同比由盈轉虧】雷電微力公告，2026年上半年營業收入6833.24萬元，同比下降85.22%；歸屬於上市公司股東的淨利潤虧損9148.77萬元，上年同期為1.16億元，同比由盈轉虧；扣除非經常性損益後的淨利潤虧損1.01億元，上年同期為1.05億元，同比由盈轉虧。
+
+---
+
+### 2026-08-21 20:12:58  #公司
+
+【*ST金靈：2026年上半年營收2.56億元 淨虧損8.61億元】*ST金靈公告稱，2026年上半年實現營業收入2.56億元，同比下降30.83%；歸屬於上市公司股東的淨虧損8.61億元，同比增虧325.54%；扣非淨虧損3296.94萬元，同比減虧79.40%。報告期內公司完成重整，控股股東變更為匯通達網路股份有限公司，實際控制人變更為汪建國，期末歸屬於上市公司股東的淨資產為13.00億元，較上年度末增長291.36%。公司不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-21 20:12:51  #其他
+
+黎巴嫩真主黨：華盛頓正試圖在黎巴嫩製造動盪。
+
+---
+
+### 2026-08-21 20:12:36  #公司
+
+【江蘇國泰：2026年上半年營收198.04億元 淨利同比降13.93%】江蘇國泰公告稱，2026年上半年實現營業收入198.04億元，同比增長6.49%；歸屬於上市公司股東的淨利潤4.69億元，同比下降13.93%；扣非淨利潤3.93億元，同比下降25.08%。公司不派發現金紅利，不送紅股，不以公積金轉增股本。持股5%以上股東盛泰投資於2026年6月30日至7月9日增持公司股份787.57萬股，佔總股本0.48%，增持後其及一致行動人持股比例達12.33%。子公司瑞泰新材上半年減持天際股份股票500.46萬股，獲稅前投資收益約1.40億元。
+
+---
+
+### 2026-08-21 20:12:04  #公司
+
+巴基斯坦國家銀行任命瓦希德・塞西為臨時執行長。
+
+---
+
+### 2026-08-21 20:12:03  #MKT News
+
+Germany's interior minister said a suspect detained in Romania may have been involved in planned attacks involving parcel bombs.
+
+---
+
+### 2026-08-21 20:12:00  #公司 #焦點
+
+【長江儲存招股說明書：2026年1-3月實現營業收入470.42億元 歸母淨利潤333.79億元】長江儲存招股說明書顯示，自2024年扭虧後盈利水平快速提升，2026年1-3月實現營業收入470.42億元、歸母淨利潤333.79億元。根據TrendForce資料計算，2026年1-3月公司在全球NANDFlash廠商按銷售金額和出貨量排名，均位列全球第三、中國第一。
+
+---
+
+### 2026-08-21 20:11:59  #MKT News #Macro & Rates #Treasury Yields #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+【US yields rise reinforces currency-debasement trade】JP Morgan (Aug. 21) said the US 30-year Treasury jumped after a surprise US Treasury buyback but later ceded gains. Traders remain skeptical that buybacks address underlying fiscal and long-term Treasury supply–demand imbalances, a dynamic JP Morgan says strengthens the 'currency debasement' trade and supports demand for gold and gold miners. Positioning shows larger bets on curve steepening, but net bond exposure is still very low versus the past 12 months and long-run history.
 
 ---
 
@@ -18681,215 +18846,5 @@ Zayo 與康寧將光纖供應協議延期至 2030 年。Zayo 計劃到 2030 年�
 ### 2026-08-20 21:11:15  #Trading Economics #Markets #Commodity #Importance 0
 
 Lumber Rebounds From Three-Month Low — Lumber futures traded near $580 per thousand board feet, rebounding from a three-month low of $568 as the US temporarily delayed new duties on Canadian goods. The US president signed a proclamation moving the start of the tariffs to Saturday, while Canada and the US negotiate an interim trade agreement. Earlier, the US imposed tariffs on several Canadian lumber-related products, while Canadian softwood lumber was excluded. However, pre-existing duties of around 35% continued to weigh on demand. US demand for Canadian lumber fell 1.7% in the first half of the year, while its share of the US market declined slightly. Meanwhile, a weak US housing market added pressure, with mortgage rates near one-year highs and housing starts falling 12.4% in July, driven by a sharp decline in lumber-intensive single-family construction to its lowest level since late 2022.
-
----
-
-### 2026-08-20 21:10:16  #公司
-
-超微電腦：三名被起訴人員已不再與本公司存在關聯。
-
----
-
-### 2026-08-20 21:09:13  #其他
-
-超微電腦：無證據表明財務報表不可採信。
-
----
-
-### 2026-08-20 21:08:51  #公司
-
-【長電科技：擬委託關聯方提供基建專案代建管理服務】長電科技公告稱，公司擬委託關聯方深圳市潤置城市建設管理有限公司為控股子公司相關基建專案提供全週期代建管理服務，服務內容涵蓋專案策劃、招採管理、施工管理、竣工驗收等，預計總金額不超過9543萬元（含稅）。本次交易構成關聯交易，不構成重大資產重組，已經公司董事會審議透過，關聯董事迴避表決，無需股東會批准。
-
----
-
-### 2026-08-20 21:08:16  #公司
-
-【中洲控股：2026年上半年淨利潤9.89億元，同比增421.76%】中洲控股公告，2026年上半年營業收入45.01億元，同比增長168.35%。歸母淨利潤9.89億元，同比增長421.76%。扣非淨利潤10.56億元，同比增長822.59%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-20 21:07:27  #其他
-
-【長電科技：2026年上半年營收195.27億元 淨利同比增79.41%】長電科技公告稱，2026年上半年實現營業收入195.27億元，同比增長4.96%；歸屬於上市公司股東的淨利潤8.45億元，同比增長79.41%；扣非淨利潤8.08億元，同比增長84.73%。公司擬每10股派發現金紅利0.5元（含稅），不送紅股、不進行資本公積金轉增股本。此外，公司擬投資78億元在上海臨港建設高階先進封測工廠，目前已完成全資子公司設立及工商註冊。
-
----
-
-### 2026-08-20 21:07:20  #公司
-
-超微電腦：公司已在銷售、技術支援部門採取人事處置措施。
-
----
-
-### 2026-08-20 21:07:14  #MKT News #SMCI.O
-
-Super Micro Computer (SMCI.O) rose 2.3% in pre-market trading.
-
----
-
-### 2026-08-20 21:07:13  #公司
-
-超微電腦：公司已採取人事處置措施，包括人員解僱  。
-
----
-
-### 2026-08-20 21:06:56  #市場
-
-超微電腦盤前股價衝高至盤前高點。
-
----
-
-### 2026-08-20 21:06:36  #宏觀 #市場 #央行 #國際
-
-【TS Lombard：美國的債券回購計劃很像收益率曲線控制 美元面臨風險】TS Lombard表示，美國財政部回購超長期國債之舉“聽起來很像”收益率曲線控制（YCC），並稱人為壓低收益率的做法將削弱美元。首席經濟學家Freya Beamish在一份報告中寫道：“美國正在實施順週期財政政策，本應加息，這將利好美元。長期債券投資者希望獲得補償，而財政部正在干預以壓低收益率，並在債務平均期限本已較短的情況下進一步縮短期限。”“這聽起來很像YCC”她補充稱，在實施順週期財政政策並加息的同時縮短債務期限，“是導致美元走弱的一個配方”。“如果你的債務平均期限本來就短，而短端又將有更多大量債券發行，同時利率還在上升，這對財政狀況也不利——市場將贏得這場較量”“唯一的問題是，市場將以何種方式獲勝：是繼續給長期收益率施壓，使美聯儲充當那個負責任的人，比市場目前預期更早加息；抑或是美元遭拋售。美聯儲最終將會加息”常駐倫敦的Beamish指出，美聯儲所處的局面與英國形成鮮明對比。英國債務平均期限長得多，達到14年，政府一直在推進財政整固，而且利率應該下降“在這裡，縮短期限是合理的，也不會讓政府面臨過度的利率風險。”
-
----
-
-### 2026-08-20 21:06:06  #其他
-
-超微電腦出口管制違規相關董事會調查得出無問題結論。
-
----
-
-### 2026-08-20 21:04:32  #公司
-
-【Anthropic合資公司Ode收購AI諮詢商拓展Claude企業市場】Anthropic聯合黑石等華爾街機構成立的合資企業完成自7月成立以來的首筆收購，此舉意在推動旗下聊天機器人Claude在企業端的業務增長。 據Ode方面訊息，Anthropic這家合資公司Ode計劃於週四宣佈收購AI諮詢公司Casper Studios。Casper Studios主要幫助企業開發AI應用。當前企業高管正探索如何最大化發揮AI價值，同時對這項新技術帶來日益走高的賬單心存顧慮，Ode選擇在這一節點完成本次收購。 “藉助Anthropic基於大模型搭建的全套工具，企業實際上可以完成絕大多數業務需求。”Ode執行長、聯合創始人克里斯·泰勒表示。 成立已有四年的Casper Studios擁有十餘名技術諮詢顧問。該公司服務過奈飛、百事可樂、多傢俬募股權以及對沖基金。本次收購交易價格未對外披露。
-
----
-
-### 2026-08-20 21:04:25  #公司
-
-【神奇製藥：控股股東一致行動人張之君完成減持2.69%股份】神奇製藥公告稱，公司控股股東的一致行動人張之君減持計劃已實施完畢。減持期間為2026年5月28日至2026年8月20日，張之君累計減持公司股份1436.235萬股，佔公司總股本的2.69%，減持總金額9755.75萬元。其中集中競價減持534.07萬股，佔總股本1%，價格區間5.14~8.13元/股；大宗交易減持902.165萬股，佔總股本1.69%。本次減持完成後，張之君持有公司股份數量為0。
-
----
-
-### 2026-08-20 21:03:16  #MKT News #Market Themes #AI Revolution #BMY.O #Impact bullish
-
-Chai Discovery has signed an antibody R&D collaboration with Bristol Myers Squibb; BMS will use Chai’s AI models to support antibody discovery.
-
----
-
-### 2026-08-20 21:03:00  #國際
-
-市場訊息：加拿大外交部長將於週四訪問華盛頓。
-
----
-
-### 2026-08-20 21:02:57  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #CNH #Impact bearish
-
-SC crude oil main contract intraday gains widened to 2.00%, trading at 596.60 yuan/barrel.
-
----
-
-### 2026-08-20 21:02:48  #公司
-
-康蒂聯邦公司獲得價值6760萬美元的合同，負責擴建西西里那哥內拉海軍航空站的彈藥儲存設施。
-
----
-
-### 2026-08-20 21:02:35  #MKT News #Market Themes #Chip Wars #AI Revolution
-
-Qualcomm (QCOM.O) appointed Sergio Buniac as general manager of its mobile, computing and personal AI business.
-
----
-
-### 2026-08-20 21:02:19  #MKT News
-
-According to The Information, ANTHROPIC's enterprise AI business unit has acquired a consulting firm.
-
----
-
-### 2026-08-20 21:02:05  #公司
-
-ANTHROPIC企業AI部門收購諮詢公司。
-
----
-
-### 2026-08-20 21:01:50  #MKT News
-
-Market news: Staff at Israel's Ben-Gurion Airport resumed full operations following negotiations.
-
----
-
-### 2026-08-20 21:01:48  #其他
-
-高通任命塞爾吉奧・布尼亞克擔任移動、計算及個人人工智慧業務總經理。
-
----
-
-### 2026-08-20 21:01:43  #其他
-
-百時美施貴寶將使用 Chai AI 模型助力抗體發現。
-
----
-
-### 2026-08-20 21:01:26  #國際
-
-以色列機場工作人員經談判後恢復全面運營。
-
----
-
-### 2026-08-20 21:01:16  #公司
-
-【景嘉微：上半年淨利潤虧損1.08億元】景嘉微(300474)8月20日披露半年報，2026年上半年，公司實現營業收入3.34億元，同比增長72.96%；歸屬於上市公司股東的淨利潤虧損1.08億元，上年同期虧損8761.01萬元。報告期內，公司穩步推進專案程序，從而實現營業收入同比增長；受產品研發投入加大、合併報表範圍擴大等因素影響，公司淨利潤同比下降，短期淨利潤有所承壓。
-
----
-
-### 2026-08-20 21:00:58  #公司
-
-【中國能建發行央企首單綠色、科技創新（氣候主題）債券】據中國能建訊息，8月19日，中國能建在上海證券交易所成功發行一期綠色、科技創新（氣候主題）可續期公司債券。本期債券發行規模25億元，期限5+N年，票面利率1.89%，較定價參考日估值降低5BP，建立築中央企業本部同期限同品類債券利率新低。該債券系市場首單“科技創新+綠色+氣候主題”可續期公司債券，也是中央企業首單“氣候主題”債券。
-
----
-
-### 2026-08-20 21:00:28  #MKT News #Important #WTI #Impact bullish #Brent
-
-At the night session open in China, main futures contracts were mostly higher. Benzene rose nearly 3%; asphalt, low-sulfur fuel oil (LU), liquefied petroleum gas (LPG) and fuel oil gained more than 2%. SC crude, styrene (EB), pulp, paraxylene (PX), PTA, methanol and bottle-grade PET chips advanced over 1%. On the downside, Shanghai nickel fell more than 1% and stainless steel (SS) was down about 1%.
-
----
-
-### 2026-08-20 21:00:19  #央行 #市場 #國際
-
-俄羅斯央行最新一週黃金外匯儲備為7556億美元，前一週為7400億美元。
-
----
-
-### 2026-08-20 21:00:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Russia's central bank foreign-exchange and gold reserves for the week to Aug. 14 were $755.6 billion, up from $740.0 billion the previous week.
-
----
-
-### 2026-08-20 21:00:03  #市場
-
-【國內期貨夜盤開盤】鉑連續漲4.63%，線材連續漲2.89%，液化石油氣連續漲2.44%，燃料油連續漲2.36%，瀝青連續漲2.28%，鈀連續漲2.22%，多晶矽連續漲2.20%，低硫燃料油連續漲2.11%，純苯連續漲2.10%。
-
----
-
-### 2026-08-20 21:00:02  #市場 #焦點
-
-甲醇連續主力合約日內漲1%，現報2864.00元。
-
----
-
-### 2026-08-20 21:00:01  #MKT News #Economic Calendar
-
-Russia | International Reserves (Aug.14) | actual 755600000000B | previous 740000000000B
-
----
-
-### 2026-08-20 20:59:37  #MKT News #Important
-
-Cotton futures rose to a two-year high on concerns about U.S. crop conditions.
-
----
-
-### 2026-08-20 20:58:59  #市場 #焦點 #國際
-
-受美國作物狀況擔憂影響，棉花期貨創下兩年新高。
-
----
-
-### 2026-08-20 20:58:38  #Trading Economics #Economy #Canada #Wholesale Prices #Importance 1
-
-Canada Raw Material Prices Fall in July — Canada’s raw materials prices fell 2.2% month-over-month in July 2026, following a 6.9% decline in June and exceeding forecasts for a 1.8% drop. Prices for crude energy products fell 3.6%, extending their decline to a third consecutive month, as synthetic crude oil (-8.9%) and conventional crude oil (-1.5%) both weakened after crude shipments through the Strait of Hormuz temporarily increased in early July. Metal ores, concentrates and scrap prices declined 4.7% for a second straight month, led by a 7.2% drop in gold, silver and platinum group metal ores and concentrates. Nickel ores and concentrates also fell 4.8%. Meanwhile, crop product prices rose 4.8%, the largest monthly increase since March 2022, reversing a 0.8% decline in June. Year over year, the RMPI increased 18.1% in July, slowing from a 21% gain in June.
 
 ---

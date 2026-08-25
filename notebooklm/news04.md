@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 19:37:42_
-_本檔包含 3221 則快訊，約 649138 字_
+_更新時間：2026-08-25 19:49:07_
+_本檔包含 3233 則快訊，約 648960 字_
+
+---
+
+### 2026-08-20 21:10:16  #公司
+
+超微電腦：三名被起訴人員已不再與本公司存在關聯。
+
+---
+
+### 2026-08-20 21:09:13  #其他
+
+超微電腦：無證據表明財務報表不可採信。
+
+---
+
+### 2026-08-20 21:08:51  #公司
+
+【長電科技：擬委託關聯方提供基建專案代建管理服務】長電科技公告稱，公司擬委託關聯方深圳市潤置城市建設管理有限公司為控股子公司相關基建專案提供全週期代建管理服務，服務內容涵蓋專案策劃、招採管理、施工管理、竣工驗收等，預計總金額不超過9543萬元（含稅）。本次交易構成關聯交易，不構成重大資產重組，已經公司董事會審議透過，關聯董事迴避表決，無需股東會批准。
+
+---
+
+### 2026-08-20 21:08:16  #公司
+
+【中洲控股：2026年上半年淨利潤9.89億元，同比增421.76%】中洲控股公告，2026年上半年營業收入45.01億元，同比增長168.35%。歸母淨利潤9.89億元，同比增長421.76%。扣非淨利潤10.56億元，同比增長822.59%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-20 21:07:27  #其他
+
+【長電科技：2026年上半年營收195.27億元 淨利同比增79.41%】長電科技公告稱，2026年上半年實現營業收入195.27億元，同比增長4.96%；歸屬於上市公司股東的淨利潤8.45億元，同比增長79.41%；扣非淨利潤8.08億元，同比增長84.73%。公司擬每10股派發現金紅利0.5元（含稅），不送紅股、不進行資本公積金轉增股本。此外，公司擬投資78億元在上海臨港建設高階先進封測工廠，目前已完成全資子公司設立及工商註冊。
+
+---
+
+### 2026-08-20 21:07:20  #公司
+
+超微電腦：公司已在銷售、技術支援部門採取人事處置措施。
+
+---
+
+### 2026-08-20 21:07:14  #MKT News #SMCI.O
+
+Super Micro Computer (SMCI.O) rose 2.3% in pre-market trading.
+
+---
+
+### 2026-08-20 21:07:13  #公司
+
+超微電腦：公司已採取人事處置措施，包括人員解僱  。
+
+---
+
+### 2026-08-20 21:06:56  #市場
+
+超微電腦盤前股價衝高至盤前高點。
+
+---
+
+### 2026-08-20 21:06:36  #宏觀 #市場 #央行 #國際
+
+【TS Lombard：美國的債券回購計劃很像收益率曲線控制 美元面臨風險】TS Lombard表示，美國財政部回購超長期國債之舉“聽起來很像”收益率曲線控制（YCC），並稱人為壓低收益率的做法將削弱美元。首席經濟學家Freya Beamish在一份報告中寫道：“美國正在實施順週期財政政策，本應加息，這將利好美元。長期債券投資者希望獲得補償，而財政部正在干預以壓低收益率，並在債務平均期限本已較短的情況下進一步縮短期限。”“這聽起來很像YCC”她補充稱，在實施順週期財政政策並加息的同時縮短債務期限，“是導致美元走弱的一個配方”。“如果你的債務平均期限本來就短，而短端又將有更多大量債券發行，同時利率還在上升，這對財政狀況也不利——市場將贏得這場較量”“唯一的問題是，市場將以何種方式獲勝：是繼續給長期收益率施壓，使美聯儲充當那個負責任的人，比市場目前預期更早加息；抑或是美元遭拋售。美聯儲最終將會加息”常駐倫敦的Beamish指出，美聯儲所處的局面與英國形成鮮明對比。英國債務平均期限長得多，達到14年，政府一直在推進財政整固，而且利率應該下降“在這裡，縮短期限是合理的，也不會讓政府面臨過度的利率風險。”
+
+---
+
+### 2026-08-20 21:06:06  #其他
+
+超微電腦出口管制違規相關董事會調查得出無問題結論。
+
+---
+
+### 2026-08-20 21:04:32  #公司
+
+【Anthropic合資公司Ode收購AI諮詢商拓展Claude企業市場】Anthropic聯合黑石等華爾街機構成立的合資企業完成自7月成立以來的首筆收購，此舉意在推動旗下聊天機器人Claude在企業端的業務增長。 據Ode方面訊息，Anthropic這家合資公司Ode計劃於週四宣佈收購AI諮詢公司Casper Studios。Casper Studios主要幫助企業開發AI應用。當前企業高管正探索如何最大化發揮AI價值，同時對這項新技術帶來日益走高的賬單心存顧慮，Ode選擇在這一節點完成本次收購。 “藉助Anthropic基於大模型搭建的全套工具，企業實際上可以完成絕大多數業務需求。”Ode執行長、聯合創始人克里斯·泰勒表示。 成立已有四年的Casper Studios擁有十餘名技術諮詢顧問。該公司服務過奈飛、百事可樂、多傢俬募股權以及對沖基金。本次收購交易價格未對外披露。
+
+---
+
+### 2026-08-20 21:04:25  #公司
+
+【神奇製藥：控股股東一致行動人張之君完成減持2.69%股份】神奇製藥公告稱，公司控股股東的一致行動人張之君減持計劃已實施完畢。減持期間為2026年5月28日至2026年8月20日，張之君累計減持公司股份1436.235萬股，佔公司總股本的2.69%，減持總金額9755.75萬元。其中集中競價減持534.07萬股，佔總股本1%，價格區間5.14~8.13元/股；大宗交易減持902.165萬股，佔總股本1.69%。本次減持完成後，張之君持有公司股份數量為0。
+
+---
+
+### 2026-08-20 21:03:16  #MKT News #Market Themes #AI Revolution #BMY.O #Impact bullish
+
+Chai Discovery has signed an antibody R&D collaboration with Bristol Myers Squibb; BMS will use Chai’s AI models to support antibody discovery.
+
+---
+
+### 2026-08-20 21:03:00  #國際
+
+市場訊息：加拿大外交部長將於週四訪問華盛頓。
+
+---
+
+### 2026-08-20 21:02:57  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #CNH #Impact bearish
+
+SC crude oil main contract intraday gains widened to 2.00%, trading at 596.60 yuan/barrel.
+
+---
+
+### 2026-08-20 21:02:48  #公司
+
+康蒂聯邦公司獲得價值6760萬美元的合同，負責擴建西西里那哥內拉海軍航空站的彈藥儲存設施。
+
+---
+
+### 2026-08-20 21:02:35  #MKT News #Market Themes #Chip Wars #AI Revolution
+
+Qualcomm (QCOM.O) appointed Sergio Buniac as general manager of its mobile, computing and personal AI business.
+
+---
+
+### 2026-08-20 21:02:19  #MKT News
+
+According to The Information, ANTHROPIC's enterprise AI business unit has acquired a consulting firm.
+
+---
+
+### 2026-08-20 21:02:05  #公司
+
+ANTHROPIC企業AI部門收購諮詢公司。
+
+---
+
+### 2026-08-20 21:01:50  #MKT News
+
+Market news: Staff at Israel's Ben-Gurion Airport resumed full operations following negotiations.
+
+---
+
+### 2026-08-20 21:01:48  #其他
+
+高通任命塞爾吉奧・布尼亞克擔任移動、計算及個人人工智慧業務總經理。
+
+---
+
+### 2026-08-20 21:01:43  #其他
+
+百時美施貴寶將使用 Chai AI 模型助力抗體發現。
+
+---
+
+### 2026-08-20 21:01:26  #國際
+
+以色列機場工作人員經談判後恢復全面運營。
+
+---
+
+### 2026-08-20 21:01:16  #公司
+
+【景嘉微：上半年淨利潤虧損1.08億元】景嘉微(300474)8月20日披露半年報，2026年上半年，公司實現營業收入3.34億元，同比增長72.96%；歸屬於上市公司股東的淨利潤虧損1.08億元，上年同期虧損8761.01萬元。報告期內，公司穩步推進專案程序，從而實現營業收入同比增長；受產品研發投入加大、合併報表範圍擴大等因素影響，公司淨利潤同比下降，短期淨利潤有所承壓。
+
+---
+
+### 2026-08-20 21:00:58  #公司
+
+【中國能建發行央企首單綠色、科技創新（氣候主題）債券】據中國能建訊息，8月19日，中國能建在上海證券交易所成功發行一期綠色、科技創新（氣候主題）可續期公司債券。本期債券發行規模25億元，期限5+N年，票面利率1.89%，較定價參考日估值降低5BP，建立築中央企業本部同期限同品類債券利率新低。該債券系市場首單“科技創新+綠色+氣候主題”可續期公司債券，也是中央企業首單“氣候主題”債券。
+
+---
+
+### 2026-08-20 21:00:28  #MKT News #Important #WTI #Impact bullish #Brent
+
+At the night session open in China, main futures contracts were mostly higher. Benzene rose nearly 3%; asphalt, low-sulfur fuel oil (LU), liquefied petroleum gas (LPG) and fuel oil gained more than 2%. SC crude, styrene (EB), pulp, paraxylene (PX), PTA, methanol and bottle-grade PET chips advanced over 1%. On the downside, Shanghai nickel fell more than 1% and stainless steel (SS) was down about 1%.
+
+---
+
+### 2026-08-20 21:00:19  #央行 #市場 #國際
+
+俄羅斯央行最新一週黃金外匯儲備為7556億美元，前一週為7400億美元。
+
+---
+
+### 2026-08-20 21:00:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Russia's central bank foreign-exchange and gold reserves for the week to Aug. 14 were $755.6 billion, up from $740.0 billion the previous week.
+
+---
+
+### 2026-08-20 21:00:03  #市場
+
+【國內期貨夜盤開盤】鉑連續漲4.63%，線材連續漲2.89%，液化石油氣連續漲2.44%，燃料油連續漲2.36%，瀝青連續漲2.28%，鈀連續漲2.22%，多晶矽連續漲2.20%，低硫燃料油連續漲2.11%，純苯連續漲2.10%。
+
+---
+
+### 2026-08-20 21:00:02  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2864.00元。
+
+---
+
+### 2026-08-20 21:00:01  #MKT News #Economic Calendar
+
+Russia | International Reserves (Aug.14) | actual 755600000000B | previous 740000000000B
+
+---
+
+### 2026-08-20 20:59:37  #MKT News #Important
+
+Cotton futures rose to a two-year high on concerns about U.S. crop conditions.
+
+---
+
+### 2026-08-20 20:58:59  #市場 #焦點 #國際
+
+受美國作物狀況擔憂影響，棉花期貨創下兩年新高。
+
+---
+
+### 2026-08-20 20:58:38  #Trading Economics #Economy #Canada #Wholesale Prices #Importance 1
+
+Canada Raw Material Prices Fall in July — Canada’s raw materials prices fell 2.2% month-over-month in July 2026, following a 6.9% decline in June and exceeding forecasts for a 1.8% drop. Prices for crude energy products fell 3.6%, extending their decline to a third consecutive month, as synthetic crude oil (-8.9%) and conventional crude oil (-1.5%) both weakened after crude shipments through the Strait of Hormuz temporarily increased in early July. Metal ores, concentrates and scrap prices declined 4.7% for a second straight month, led by a 7.2% drop in gold, silver and platinum group metal ores and concentrates. Nickel ores and concentrates also fell 4.8%. Meanwhile, crop product prices rose 4.8%, the largest monthly increase since March 2022, reversing a 0.8% decline in June. Year over year, the RMPI increased 18.1% in July, slowing from a 21% gain in June.
 
 ---
 
@@ -19311,143 +19521,5 @@ The Dow Jones Index Opens 0.24% Higher — The Dow Jones Index is gaining 130 po
 ### 2026-08-19 21:39:40  #公司 #市場
 
 【Moderna(MRNA.O)盤中漲幅達100％，總市值站上500億美元】公司與默沙東宣佈黑色素瘤疫苗研究取得成功。默沙東(MRK.N)上漲10％，BioNTech上漲17.6％。
-
----
-
-### 2026-08-19 21:39:35  #MKT News #Important #MRNA.O #Impact bullish #MRK.N #BNTX.O
-
-Moderna (MRNA.O) shares rose as much as 100% intraday, lifting the company's market capitalization above $50 bln after Moderna and Merck (MRK.N) announced successful melanoma vaccine research. Merck shares gained 10% and BioNTech shares rose 17.6%.
-
----
-
-### 2026-08-19 21:38:15  #國際
-
-【以軍逮捕巴方耶路撒冷事務部長等31人】據巴勒斯坦通訊社報道，以色列軍隊19日在約旦河西岸和耶路撒冷多地開展軍事行動，逮捕至少31名巴勒斯坦人，其中包括巴勒斯坦民族權力機構耶路撒冷事務部長阿什拉夫·阿瓦爾。報道說，以方當天突襲阿瓦爾位於耶路撒冷老城阿克薩清真寺以南錫勒萬區的住所並將其逮捕。阿瓦爾曾於今年1月被以色列當局禁止進入約旦河西岸。（新華社）
-
----
-
-### 2026-08-19 21:37:50  #市場
-
-皮爾格林普萊德受 JBS 收購要約刺激大漲 11%，創 2021 年以來最大漲幅。
-
----
-
-### 2026-08-19 21:37:32  #市場
-
-勞氏股價盤前跌幅收窄轉漲，最新上漲約2%。
-
----
-
-### 2026-08-19 21:37:26  #公司
-
-赫伯羅特股份公司：赫伯羅特將收購馬士基碼頭公司馬斯弗萊克特二號碼頭25%的股權，並將助力該碼頭的未來發展與運營。
-
----
-
-### 2026-08-19 21:37:19  #公司 #市場 #國際
-
-SK海力士美國上市股價在週二暴跌後上漲約3%；該公司將回購價值40萬億韓元的庫存股。
-
----
-
-### 2026-08-19 21:36:47  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Verizon Stock Price Hits 19-week High — Verizon shares increased to 49.01 USD, the highest since April 2026. Over the past 4 weeks, Verizon gained 12.51%, and in the last 12 months, it increased 8.9%.
-
----
-
-### 2026-08-19 21:36:35  #MKT News
-
-U.S. Education Department says this rule will break accreditation agencies' 'monopoly'.
-
----
-
-### 2026-08-19 21:36:16  #國際
-
-美國教育部：該規則將打破認證領域的 “壟斷”。
-
----
-
-### 2026-08-19 21:35:56  #市場
-
-納斯達克生物科技指數在Moderna和默沙東的黑色素瘤疫苗在大型試驗中取得成功後上漲3.2%。
-
----
-
-### 2026-08-19 21:35:49  #MKT News
-
-U.S. proposes simplifying recognition rules for higher-education accrediting agencies.
-
----
-
-### 2026-08-19 21:35:19  #MKT News #MRK.O #Impact bullish #MRNA.O
-
-The Nasdaq Biotechnology Index rose 3.2% after Moderna and Merck reported a successful large trial of a melanoma vaccine.
-
----
-
-### 2026-08-19 21:35:04  #宏觀
-
-【劉國中在天津調研時強調：建設優質高效醫療服務體系 更好滿足人民群眾健康需求】中共中央政治局委員、國務院副總理劉國中8月19日在天津調研。他強調，要深入學習貫徹習近平總書記關於健康中國建設的重要論述精神，堅定不移走中國特色衛生與健康發展道路，堅定不移貫徹新時代衛生與健康工作方針，堅持健康優先發展戰略，建設優質高效醫療服務體系，推動腦機介面等衛生健康領域新質生產力發展，更好滿足人民群眾全方位全週期健康需求。劉國中先後來到社群衛生服務中心、專科和綜合醫院，詳細瞭解基層醫療服務、臨床專科建設、緊急醫學救援隊伍建設、血液供應保障等情況。他強調，要深入實施醫療衛生強基工程，加強縣域醫共體和城市醫聯體建設，持續推動人員和服務下沉，不斷提升基層醫療衛生服務能力。要做實家庭醫生簽約服務，積極推動分級診療，引導群眾合理就醫。要擴大康復護理服務供給，支援精神、兒科、老年醫學、安寧療護等薄弱學科發展。要加強無償獻血宣傳動員，提升血液應急保障能力。要強化醫教協同，健全醫學人才培養體系，提高人才培養質量。劉國中還到相關實驗室和醫療機構，深入調研腦機介面研發、臨床試驗和應用情況。他強調，要加強腦科學基礎研究，推進關鍵核心技術攻關，提升原始創新能力。要做好統籌協調，引導各地立足自身科研和產業優勢，找準發展定位、拓展應用場景，探索形成各具特色的發展路徑。要健全標準體系，嚴格規範監管，牢牢守住安全底線。今天是第九個中國醫師節，主題是“鑄魂強基，德高技精”。調研期間，劉國中看望慰問一線醫務人員，向全國醫務工作者致以節日問候。他強調，廣大醫務工作者為保障人民健康作出了突出貢獻，是當之無愧的新時代健康衛士。要努力錘鍊過硬本領，傳承優良醫德醫風，為人民群眾提供更好的醫療衛生服務，為健康中國建設再立新功。要加強醫療衛生隊伍建設，關心關愛醫務人員，營造尊醫重衛的良好氛圍。 (新華社)
-
----
-
-### 2026-08-19 21:35:02  #市場 #焦點
-
-乙二醇連續主力合約日內漲3%，現報5402.00元。
-
----
-
-### 2026-08-19 21:34:53  #其他
-
-【中國有第二型可回收運載火箭了】朱雀三號遙二火箭飛行任務今天取得圓滿成功。朱雀三號遙二運載火箭高度有66.1米，直徑4.5米。從外觀看，它的箭體是不鏽鋼材質，和平時我們喝水用的保溫杯材料差不多。 朱雀三號回收要連過三關：超音速再入、高精度制導、最後一腳“剎車”。用一句話說，就是要讓一棟15層的高樓在超音速飛行中，用300多秒，把比子彈還快的速度硬生生降到零，輕盈落地，穩穩站住，並且保證完好無損。今天，當朱雀三號遙二運載火箭穩穩站住，火箭一子級實現我國首次陸地可控回收，它的意義非常重大。 第一，標誌著中國航天擁有了第二型可回收運載火箭；第二，隨著複用次數增多，它的發射成本有望降低70%；第三，衛星網際網路組網也有了“新班車”——它未來20噸級的運力，一次能送幾十顆衛星上天。暢想一下未來，當回收成為常態，你會看到越來越多中國運載火箭從太空歸來，相信那一天，不會太遠。（央視財經）
-
----
-
-### 2026-08-19 21:34:45  #Trading Economics #Markets #Hong Kong #currency #Importance 1
-
-Hong Kong Dollar Hits 4-week High — The Hong Kong Dollar touched 7.84 against the USD, the highest since July 2026. Over the past 4 weeks, US Dollar Hong Kong Dollar lost 0.02%, and in the last 12 months, it increased 0.35%.
-
----
-
-### 2026-08-19 21:34:27  #市場
-
-DATAVAULT AI宣佈發行可轉換票據後，股價下跌14.4%。
-
----
-
-### 2026-08-19 21:34:25  #MKT News #Market Themes #AI Revolution
-
-Nebius said it will issue $4.5 billion of convertible bonds to support AI business development; shares fell 6%.
-
----
-
-### 2026-08-19 21:34:20  #公司
-
-【港交所中期業績再創新高 行政總裁陳翊庭：延長衍生品市場交易時段是優先發力的方向】8月19日，香港交易所（以下簡稱港交所，HK00388，股價414.600港元，市值5256億港元）公佈2026年中期業績。上半年，港交所收入及其他收益達167.02億港元，同比增長19%；股東應占溢利105.68億港元，同比增幅達24%；董事會宣派中期股息每股7.43港元，同比增長24%。這份成績單超越了2025年下半年創下的紀錄，成為港交所有史以來最高的半年度收入及利潤。港交所行政總裁陳翊庭表示：“受惠於市場氣氛回暖、科技及人工智慧相關企業融資需求強勁，以及海內外投資者的積極參與，我們的現貨市場、衍生產品市場及滬深港通的成交量均創半年度新高，充分彰顯香港市場的韌性及重要性。集團旗下大宗商品業務亦欣欣向榮，倫敦金屬交易所（LME）的成交量再創半年度新高。”（每經）
-
----
-
-### 2026-08-19 21:34:09  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Broadcom Stock Price Hits 4-week Low — Broadcom shares decreased to 369.48 USD, the lowest since July 2026. Over the past 4 weeks, Broadcom Inc lost 1.42%, and in the last 12 months, it increased 26.4%.
-
----
-
-### 2026-08-19 21:32:55  #公司 #市場
-
-KEYSIGHT TECHNOLOGIES 股價上漲1.9%，此前公司預測第四季度利潤和營收高於預期。
-
----
-
-### 2026-08-19 21:32:50  #市場
-
-英國礦業股票漲幅擴大：泛非資源上漲6.5%，弗雷斯尼洛上漲6.4%，霍赫希爾德上漲6%。
-
----
-
-### 2026-08-19 21:32:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【Preview: Fed July minutes — are three dissenters the tip of a larger hawkish bloc?】Markets will parse the Fed’s July minutes for signs the three officials who voted to raise rates were not the full extent of a hawkish cohort; evidence that more officials seriously considered a hike would prompt re-pricing of September policy. Key read-throughs: whether minutes show more officials weighing a rate increase even if they did not cast a dissenting vote, how many said the “next step should be a hike,” and whether any argued for consecutive hikes. Watch hawks’ inflation arguments — whether they link persistent upside risk to supply shocks (notably energy), AI-driven demand and tariffs, and whether they flagged Middle East risks to energy and inflation — and whether they judge the labor market sufficiently robust to tolerate tighter policy in service of price stability. Compare tone with June’s minutes, which set out two scenarios (disinflation vs. sustained upside risks); if wording on the hike scenario is firmer or broader and shows a majority seriously discussing hikes, that alone would be policy-relevant. Offsetting force: post-July jobs and inflation readings have weakened and retail sales and consumer confidence have softened, nudging market-implied September hike odds down to roughly 30%. Nonetheless, if minutes show most officials were close to hiking at the July meeting, markets may view September as an uncertain meeting where the hike option remains on the table unless subsequent data materially worsen.
 
 ---

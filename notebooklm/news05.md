@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 19:37:42_
-_本檔包含 3320 則快訊，約 647697 字_
+_更新時間：2026-08-25 19:49:07_
+_本檔包含 3327 則快訊，約 649481 字_
+
+---
+
+### 2026-08-19 21:39:35  #MKT News #Important #MRNA.O #Impact bullish #MRK.N #BNTX.O
+
+Moderna (MRNA.O) shares rose as much as 100% intraday, lifting the company's market capitalization above $50 bln after Moderna and Merck (MRK.N) announced successful melanoma vaccine research. Merck shares gained 10% and BioNTech shares rose 17.6%.
+
+---
+
+### 2026-08-19 21:38:15  #國際
+
+【以軍逮捕巴方耶路撒冷事務部長等31人】據巴勒斯坦通訊社報道，以色列軍隊19日在約旦河西岸和耶路撒冷多地開展軍事行動，逮捕至少31名巴勒斯坦人，其中包括巴勒斯坦民族權力機構耶路撒冷事務部長阿什拉夫·阿瓦爾。報道說，以方當天突襲阿瓦爾位於耶路撒冷老城阿克薩清真寺以南錫勒萬區的住所並將其逮捕。阿瓦爾曾於今年1月被以色列當局禁止進入約旦河西岸。（新華社）
+
+---
+
+### 2026-08-19 21:37:50  #市場
+
+皮爾格林普萊德受 JBS 收購要約刺激大漲 11%，創 2021 年以來最大漲幅。
+
+---
+
+### 2026-08-19 21:37:32  #市場
+
+勞氏股價盤前跌幅收窄轉漲，最新上漲約2%。
+
+---
+
+### 2026-08-19 21:37:26  #公司
+
+赫伯羅特股份公司：赫伯羅特將收購馬士基碼頭公司馬斯弗萊克特二號碼頭25%的股權，並將助力該碼頭的未來發展與運營。
+
+---
+
+### 2026-08-19 21:37:19  #公司 #市場 #國際
+
+SK海力士美國上市股價在週二暴跌後上漲約3%；該公司將回購價值40萬億韓元的庫存股。
+
+---
+
+### 2026-08-19 21:36:47  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Verizon Stock Price Hits 19-week High — Verizon shares increased to 49.01 USD, the highest since April 2026. Over the past 4 weeks, Verizon gained 12.51%, and in the last 12 months, it increased 8.9%.
+
+---
+
+### 2026-08-19 21:36:35  #MKT News
+
+U.S. Education Department says this rule will break accreditation agencies' 'monopoly'.
+
+---
+
+### 2026-08-19 21:36:16  #國際
+
+美國教育部：該規則將打破認證領域的 “壟斷”。
+
+---
+
+### 2026-08-19 21:35:56  #市場
+
+納斯達克生物科技指數在Moderna和默沙東的黑色素瘤疫苗在大型試驗中取得成功後上漲3.2%。
+
+---
+
+### 2026-08-19 21:35:49  #MKT News
+
+U.S. proposes simplifying recognition rules for higher-education accrediting agencies.
+
+---
+
+### 2026-08-19 21:35:19  #MKT News #MRK.O #Impact bullish #MRNA.O
+
+The Nasdaq Biotechnology Index rose 3.2% after Moderna and Merck reported a successful large trial of a melanoma vaccine.
+
+---
+
+### 2026-08-19 21:35:04  #宏觀
+
+【劉國中在天津調研時強調：建設優質高效醫療服務體系 更好滿足人民群眾健康需求】中共中央政治局委員、國務院副總理劉國中8月19日在天津調研。他強調，要深入學習貫徹習近平總書記關於健康中國建設的重要論述精神，堅定不移走中國特色衛生與健康發展道路，堅定不移貫徹新時代衛生與健康工作方針，堅持健康優先發展戰略，建設優質高效醫療服務體系，推動腦機介面等衛生健康領域新質生產力發展，更好滿足人民群眾全方位全週期健康需求。劉國中先後來到社群衛生服務中心、專科和綜合醫院，詳細瞭解基層醫療服務、臨床專科建設、緊急醫學救援隊伍建設、血液供應保障等情況。他強調，要深入實施醫療衛生強基工程，加強縣域醫共體和城市醫聯體建設，持續推動人員和服務下沉，不斷提升基層醫療衛生服務能力。要做實家庭醫生簽約服務，積極推動分級診療，引導群眾合理就醫。要擴大康復護理服務供給，支援精神、兒科、老年醫學、安寧療護等薄弱學科發展。要加強無償獻血宣傳動員，提升血液應急保障能力。要強化醫教協同，健全醫學人才培養體系，提高人才培養質量。劉國中還到相關實驗室和醫療機構，深入調研腦機介面研發、臨床試驗和應用情況。他強調，要加強腦科學基礎研究，推進關鍵核心技術攻關，提升原始創新能力。要做好統籌協調，引導各地立足自身科研和產業優勢，找準發展定位、拓展應用場景，探索形成各具特色的發展路徑。要健全標準體系，嚴格規範監管，牢牢守住安全底線。今天是第九個中國醫師節，主題是“鑄魂強基，德高技精”。調研期間，劉國中看望慰問一線醫務人員，向全國醫務工作者致以節日問候。他強調，廣大醫務工作者為保障人民健康作出了突出貢獻，是當之無愧的新時代健康衛士。要努力錘鍊過硬本領，傳承優良醫德醫風，為人民群眾提供更好的醫療衛生服務，為健康中國建設再立新功。要加強醫療衛生隊伍建設，關心關愛醫務人員，營造尊醫重衛的良好氛圍。 (新華社)
+
+---
+
+### 2026-08-19 21:35:02  #市場 #焦點
+
+乙二醇連續主力合約日內漲3%，現報5402.00元。
+
+---
+
+### 2026-08-19 21:34:53  #其他
+
+【中國有第二型可回收運載火箭了】朱雀三號遙二火箭飛行任務今天取得圓滿成功。朱雀三號遙二運載火箭高度有66.1米，直徑4.5米。從外觀看，它的箭體是不鏽鋼材質，和平時我們喝水用的保溫杯材料差不多。 朱雀三號回收要連過三關：超音速再入、高精度制導、最後一腳“剎車”。用一句話說，就是要讓一棟15層的高樓在超音速飛行中，用300多秒，把比子彈還快的速度硬生生降到零，輕盈落地，穩穩站住，並且保證完好無損。今天，當朱雀三號遙二運載火箭穩穩站住，火箭一子級實現我國首次陸地可控回收，它的意義非常重大。 第一，標誌著中國航天擁有了第二型可回收運載火箭；第二，隨著複用次數增多，它的發射成本有望降低70%；第三，衛星網際網路組網也有了“新班車”——它未來20噸級的運力，一次能送幾十顆衛星上天。暢想一下未來，當回收成為常態，你會看到越來越多中國運載火箭從太空歸來，相信那一天，不會太遠。（央視財經）
+
+---
+
+### 2026-08-19 21:34:45  #Trading Economics #Markets #Hong Kong #currency #Importance 1
+
+Hong Kong Dollar Hits 4-week High — The Hong Kong Dollar touched 7.84 against the USD, the highest since July 2026. Over the past 4 weeks, US Dollar Hong Kong Dollar lost 0.02%, and in the last 12 months, it increased 0.35%.
+
+---
+
+### 2026-08-19 21:34:27  #市場
+
+DATAVAULT AI宣佈發行可轉換票據後，股價下跌14.4%。
+
+---
+
+### 2026-08-19 21:34:25  #MKT News #Market Themes #AI Revolution
+
+Nebius said it will issue $4.5 billion of convertible bonds to support AI business development; shares fell 6%.
+
+---
+
+### 2026-08-19 21:34:20  #公司
+
+【港交所中期業績再創新高 行政總裁陳翊庭：延長衍生品市場交易時段是優先發力的方向】8月19日，香港交易所（以下簡稱港交所，HK00388，股價414.600港元，市值5256億港元）公佈2026年中期業績。上半年，港交所收入及其他收益達167.02億港元，同比增長19%；股東應占溢利105.68億港元，同比增幅達24%；董事會宣派中期股息每股7.43港元，同比增長24%。這份成績單超越了2025年下半年創下的紀錄，成為港交所有史以來最高的半年度收入及利潤。港交所行政總裁陳翊庭表示：“受惠於市場氣氛回暖、科技及人工智慧相關企業融資需求強勁，以及海內外投資者的積極參與，我們的現貨市場、衍生產品市場及滬深港通的成交量均創半年度新高，充分彰顯香港市場的韌性及重要性。集團旗下大宗商品業務亦欣欣向榮，倫敦金屬交易所（LME）的成交量再創半年度新高。”（每經）
+
+---
+
+### 2026-08-19 21:34:09  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Broadcom Stock Price Hits 4-week Low — Broadcom shares decreased to 369.48 USD, the lowest since July 2026. Over the past 4 weeks, Broadcom Inc lost 1.42%, and in the last 12 months, it increased 26.4%.
+
+---
+
+### 2026-08-19 21:32:55  #公司 #市場
+
+KEYSIGHT TECHNOLOGIES 股價上漲1.9%，此前公司預測第四季度利潤和營收高於預期。
+
+---
+
+### 2026-08-19 21:32:50  #市場
+
+英國礦業股票漲幅擴大：泛非資源上漲6.5%，弗雷斯尼洛上漲6.4%，霍赫希爾德上漲6%。
+
+---
+
+### 2026-08-19 21:32:44  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【Preview: Fed July minutes — are three dissenters the tip of a larger hawkish bloc?】Markets will parse the Fed’s July minutes for signs the three officials who voted to raise rates were not the full extent of a hawkish cohort; evidence that more officials seriously considered a hike would prompt re-pricing of September policy. Key read-throughs: whether minutes show more officials weighing a rate increase even if they did not cast a dissenting vote, how many said the “next step should be a hike,” and whether any argued for consecutive hikes. Watch hawks’ inflation arguments — whether they link persistent upside risk to supply shocks (notably energy), AI-driven demand and tariffs, and whether they flagged Middle East risks to energy and inflation — and whether they judge the labor market sufficiently robust to tolerate tighter policy in service of price stability. Compare tone with June’s minutes, which set out two scenarios (disinflation vs. sustained upside risks); if wording on the hike scenario is firmer or broader and shows a majority seriously discussing hikes, that alone would be policy-relevant. Offsetting force: post-July jobs and inflation readings have weakened and retail sales and consumer confidence have softened, nudging market-implied September hike odds down to roughly 30%. Nonetheless, if minutes show most officials were close to hiking at the July meeting, markets may view September as an uncertain meeting where the hike option remains on the table unless subsequent data materially worsen.
 
 ---
 
@@ -19916,101 +20054,5 @@ PIMCO總裁斯特拉克表示，由於今年多家大型直接貸款基金突然
 ### 2026-08-18 19:50:04  #MKT News #Important #BIDU.O #Impact mixed
 
 Baidu to hold earnings conference call in 10 minutes.
-
----
-
-### 2026-08-18 19:48:33  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Saudi Arabian TV cited sources saying Israel has demanded the removal of mid-level Hamas military commanders from Gaza and the establishment of a sufficiently large buffer zone inside the Gaza Strip.
-
----
-
-### 2026-08-18 19:48:26  #公司 #國際
-
-印度石油天然氣公司（ONGC）正建設連線設施，以將更多焦哈爾油田接入東北天然氣管網。
-
----
-
-### 2026-08-18 19:48:22  #市場
-
-KLARNA公佈業績後，AFFIRM HOLDINGS股價盤前下跌4%。
-
----
-
-### 2026-08-18 19:46:29  #其他
-
-Klarna稱正在物色駐紐約的新任首席財務官。
-
----
-
-### 2026-08-18 19:45:59  #公司
-
-Klarna集團宣佈計劃於2027年初完成首席財務官與首席營銷官職位交接。
-
----
-
-### 2026-08-18 19:45:48  #公司 #市場
-
-Klarna集團股價盤前下跌17.2%，此前該公司公佈的財年營收低於市場預期。
-
----
-
-### 2026-08-18 19:45:39  #其他
-
-Klarna公佈首席財務官與首席營銷官人事更迭計劃。
-
----
-
-### 2026-08-18 19:45:11  #國際
-
-【敘利亞一法院判處前總統巴沙爾堂弟死刑】敘利亞大馬士革第四刑事法院18日判處敘前總統巴沙爾·阿薩德的堂弟瓦西姆·阿薩德死刑。法官法赫爾丁·阿里延在當天的宣判聽證會上宣佈，瓦西姆·阿薩德對多人實施故意殺害和酷刑，構成反人類罪和戰爭罪。（新華社）
-
----
-
-### 2026-08-18 19:44:44  #公司
-
-【訊息稱三星1d DRAM熱測試良率達標，量產時間表曝光】據報道，儘管1d DRAM的商業化仍需時日，但三星電子已將其良率提升至令人滿意的水平，足以應對高溫環境下的熱測試。據評估，1D DRAM的良率提升速度超出預期。雖然具體資料尚未公佈，但熱測試良率已達到目標水平，目前的工作重點是確保低溫環境下的冷測試良率。時間進度方面，三星電子將1d DRAM的開發完成目標定於今年9月，並計劃在12月將研發成果移交至量產線，明年底有望實現首批次產。
-
----
-
-### 2026-08-18 19:44:06  #公司
-
-【三星電子啟動升級半導體工藝分析實驗室，提升良率實現利潤最大化】據悉，三星電子DS事業部已啟動半導體工藝分析實驗室的升級工作。該公司正透過合作伙伴引進新一代裝置，用於驗證半導體和晶圓電路圖案並診斷缺陷。知情人士表示，三星正在籌備能夠直接檢測和分析晶圓的全新基礎設施，超越目前在半導體晶片（晶粒）層面進行的工藝分析。
-
----
-
-### 2026-08-18 19:43:58  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Turn Lower — US equity futures were mostly lower on Tuesday, extending losses from the previous session as higher borrowing costs offset recent support from AI infrastructure companies. Contracts for the S&P 500 and Nasdaq were 0.5% and 1.3% down, respectively, and those for the Dow were flat. Long-term Treasury yields extended their surge to multi-year highs as inflation risks and surging bond issuance from AI companies raised different estimates on term premia. Inflationary concerns were magnified by more increases in energy prices as the US signaled a prolonged blockade on Iran tanker exports. AI companies were mostly lower, with Nvidia, Meta, Tesla, and Oracle dropping up to 3% premarket. Credit-sensitive financial companies were also under pressure with Goldman Sachs and JPMorgan trading in the red. Meanwhile, Home Depot gained around 1% after beating earnings estimates despite high borrowing and housing costs.
-
----
-
-### 2026-08-18 19:41:38  #公司 #國際
-
-【敘利亞一熱電站爆炸致3人死亡】據敘利亞國家電視臺18日報道，敘利亞西部塔爾圖斯省巴尼亞斯熱電站發生爆炸，造成至少3名工人死亡。 敘國家電視臺援引塔爾圖斯省安全部門的訊息說，當時工人正在對一個儲罐進行焊接，但儲罐內氣體未被完全排空，導致爆炸發生。 敘通社援引敘利亞電力公司的訊息說，目前該熱電站仍在正常執行。（新華社）
-
----
-
-### 2026-08-18 19:39:51  #國際
-
-據美國司法部一位高階官員透露，斯坦福大學正因其境外資金捐贈、國際學生及招生相關做法，受到美國司法部越來越嚴格的審查。
-
----
-
-### 2026-08-18 19:39:34  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish
-
-【Analysis: Weak UK labour market may reduce odds of September Bank of England rate hike】Accountancy lobby group ICAEW said the weak UK labour market appears likely to restrain inflation by suppressing wage growth, lowering the probability of a September Bank of England rate hike. ICAEW chief economist Suren Thiru said the labour market remains low‑mobility and stagnant, with rising costs, worsening global headwinds and greater policy uncertainty leaving employers reluctant to hire, fire or award large pay rises. Falling vacancies point to weakening labour demand, and speculation over the autumn budget could further curb hiring.
-
----
-
-### 2026-08-18 19:38:17  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10Y Bond Yield Hits 19-month High — US 10 Year Government Bond Yield increased to 4.75%, the highest since January 2025. Over the past 4 weeks, US 10 Year Note Bond Yield gained 15.20 basis points, and in the last 12 months, it increased 44.00 basis points.
-
----
-
-### 2026-08-18 19:38:14  #公司 #市場
-
-【匯通能源：重慶元素擬減持不超過0.97%股份】 匯通能源公告，持股5%以上股東重慶元素私募證券投資基金管理有限公司－元素黃金閃耀私募證券投資基金（簡稱“重慶元素”）持有公司股份1135萬股，佔公司總股本比例為5.50%，因自身資金需求，擬自2026年9月9日至2026年12月8日期間，透過集中競價方式減持公司股份合計不超過200萬股，即不超過公司總股本的0.97%。
 
 ---
