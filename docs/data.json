@@ -1,7 +1,415 @@
 {
-  "updated": "2026-08-25 20:10:11",
-  "count": 16484,
+  "updated": "2026-08-25 20:22:03",
+  "count": 16500,
   "items": [
+    {
+      "id": "mkt:01a038dd-f00c-7aab-9111-c79968595f6e",
+      "time": "2026-08-25 20:21:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tian Gong humanoid lowers 100m record to 8.86s at World Humanoid Robot Games】Aug 25 — At the second World Humanoid Robot Games, in the first group of the second-round 100m, the Tian Gong robot from the Beijing Humanoid Robot Innovation Center clocked 8.86s, improving on a 9.39s time recorded at the opening ceremony."
+    },
+    {
+      "id": "mkt:01a038dd-afd8-7aab-9111-bd92a9dd59a6",
+      "time": "2026-08-25 20:20:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Saudi cabinet, according to Saudi outlet Alhadath, emphasized ensuring the Strait of Hormuz and Bab al-Mandeb remain open, supporting sustainable diplomatic solutions and upholding freedom of navigation."
+    },
+    {
+      "id": "mkt:01a038dd-566f-7aab-9111-b10dafb021fd",
+      "time": "2026-08-25 20:20:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "CSCO.O",
+        "Impact bullish",
+        "SMCI.O",
+        "NVDA.O"
+      ],
+      "text": "【Cisco partners with Supermicro to expand NVIDIA-backed AI server offering】Axios reports Cisco (CSCO.O) is partnering with Supermicro (SMCI.O) to add high-performance AI servers to its NVIDIA-backed infrastructure portfolio, extending beyond networking to sell more AI compute hardware. Cisco says the deal will add high-density liquid-cooled and air-cooled systems to its Secure AI Factory solution. Cisco says it is stepping up AI infrastructure efforts, betting compute demand will not slow in the foreseeable future."
+    },
+    {
+      "id": "mkt:01a038dc-f838-7aab-9111-aa15194252cf",
+      "time": "2026-08-25 20:20:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Nine firms form Yangtze Delta consortium to develop HTS high‑field tokamak magnets】At the 2026 Fusion Energy Conference on Aug. 25, China Fusion Energy Co. said it will lead a Yangtze River Delta innovation consortium—including Shanghai Superconductor, Eastern Superconductor, Shanghai Jiao Tong University, Shanghai Electric Nuclear Power Group, Supermag New Energy, Energy Singularity, Hangyang Group and Yixi Technology—to develop high‑temperature superconducting (HTS) high‑field tokamak magnets to meet requirements of China’s Huanliu‑4 tokamak. The group aims to establish an HTS high‑field magnet R&D and engineering system, build the first 25T HTS high‑field magnet R&D and test line by 2028, and complete a prototype magnet by 2030."
+    },
+    {
+      "id": "5058077",
+      "time": "2026-08-25 20:19:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聚變等9家企業將協同攻關高溫超導強場託卡馬克磁體研製】從8月25日舉行的2026核聚變能大會上獲悉，由中國聚變能源有限公司牽頭，聯合上海超導、東部超導、上海交大、上海電氣核電集團、超磁新能、能量奇點、杭氧集團、翌曦科技組建的長三角創新聯合體將圍繞中國環流四號聚變裝置需求，形成高溫超導強場託卡馬克磁體研製能力與工程化技術體系，目標2028年前建成首條25T高溫超導強場磁體研製和測試線，2030年前完成原型磁體研製。（澎湃）"
+    },
+    {
+      "id": "5058076",
+      "time": "2026-08-25 20:19:21",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.52%，標普500指數期貨漲0.45%，納指期貨漲0.95%。\n②德國DAX指數漲0.69%，英國富時100指數漲0.11%，法國CAC40指數漲0.29%，歐洲斯托克50指數漲0.42%。\n③WTI原油跌3.56%，報81.98美元/桶。布倫特原油跌3.20%，報87.64美元/桶。\n④美國更新對伊制裁，貝森特警告各國切斷與伊朗經貿往來。\n⑤美國財政部長貝森特週一表示，儘管美國財政部已決定增加10至30年期美國國債的回購規模，但仍將繼續按原定計劃進行常規的債券標售，包括長期債券的標售。\n⑥美對加汽車和鋼鐵進口關稅將提高至50%。\n⑦阿里巴巴盤前抹去跌幅，一度上漲超2%，訊息面上，阿里巴巴集團主席蔡崇信再次增持72萬股阿里巴巴港股；據稱阿里巴巴創始人馬雲增持阿里港股，總額已超過6億港元。\n⑧美股市場儲存晶片概念股今日盤前集體上漲。其中，Rambus、SK海力士漲超3%，閃迪、西部資料、美光科技、希捷科技漲超2%。\n⑨唯品會盤前下跌5%，此前公佈第二財季業績。"
+    },
+    {
+      "id": "5058075",
+      "time": "2026-08-25 20:19:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "WOLTERS KLUWER股價大幅下跌，跌幅高達5.9%。"
+    },
+    {
+      "id": "5058074",
+      "time": "2026-08-25 20:19:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中礦資源：辛巴威年產10萬噸硫酸鋰專案預計2027年年中建成並投入生產】中礦資源最新披露的投資者關係活動記錄表顯示，2026年8月，公司所屬辛巴威馬辛戈鋰業科技有限公司正式獲得辛巴威環境管理機構簽發的環境影響評估證書，年產10萬噸硫酸鋰專案正式由前期籌備階段轉入全面建設實施階段，專案預計於2027年年中建成並投入生產。該專案將有效降低公司鋰鹽業務的綜合物流成本和稅務成本，增強鋰鹽業務的盈利能力和抗風險能力，為鋰鹽業務長期穩定運營奠定堅實基礎。"
+    },
+    {
+      "id": "5058073",
+      "time": "2026-08-25 20:19:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "5058072",
+      "time": "2026-08-25 20:18:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "帕拉零（Parazero）獲得美國聯邦機構首份DefendAir反無人機系統訂單，標誌著該公司正式進入美國反無人機系統市場。"
+    },
+    {
+      "id": "5058071",
+      "time": "2026-08-25 20:18:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電計量：董事、副總經理黃沃文擬減持不超0.1126%股份】廣電計量公告稱，公司董事、副總經理黃沃文持有公司股份288萬股，佔公司總股本的0.4503%，因個人資金需求，計劃於2026年9月16日至2026年12月15日期間，以集中競價方式減持公司股份不超過72萬股，佔公司總股本的0.1126%。本次減持計劃不會對公司治理結構、股權結構及未來持續經營產生重大影響，不會導致公司控制權發生變更，減持存在時間、數量及價格不確定性。"
+    },
+    {
+      "id": "5058070",
+      "time": "2026-08-25 20:17:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：制定H股上市後適用股東通訊政策草案】江波龍公告稱，公司制定《股東通訊政策（草案）》，該政策於公司H股在香港聯交所主機板掛牌上市之日起生效。政策明確公司與股東通訊的準則及目標，列明股東會、股東查詢、公司網站等通訊途徑，針對深交所及香港聯交所上市股份持有人分別明確資訊披露渠道，董事會將每年檢討該政策成效。"
+    },
+    {
+      "id": "5058069",
+      "time": "2026-08-25 20:17:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：新增與中電港2026年度關聯交易預計4億元】江波龍公告稱，公司第三屆董事會第二十一次會議審議透過新增2026年度日常關聯交易預計議案，關聯董事蔡靖迴避表決。因業務開展需要，新增與關聯方中電港2026年度日常關聯交易預計金額不超過4.00億元，本次新增後，2026年度公司與中電港的日常關聯交易額度合計不超過12.50億元。本次交易按市場公允價格協商定價，相關事項尚須提交公司股東會審議。截至2026年6月30日，公司與中電港已發生關聯交易金額為59742.22萬元。"
+    },
+    {
+      "id": "5058068",
+      "time": "2026-08-25 20:17:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【江波龍：使用部分募集資金向子公司及孫公司增資或借款】江波龍公告稱，公司擬使用部分募集資金，透過增資或借款方式向子公司、孫公司投入以實施募投專案。本次向特定物件發行股票募集資金淨額為36.68億元，募投專案包括面向AI領域的高階儲存器研發及產業化、半導體儲存主控晶片系列研發、半導體儲存高階封測建設、補充流動資金。借款期限為實際借款日起至募投專案實施完成日止，可提前還款或到期續借。該事項已經公司董事會審議透過，保薦機構中信建投證券無異議。"
+    },
+    {
+      "id": "5058067",
+      "time": "2026-08-25 20:17:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西對太原等7市啟動地質災害四級應急響應】根據山西省氣象局預報，8月25至27日山西省北中部有中到大雨，部分地區有暴雨或大暴雨，累計降雨量大。應急管理部地震和地質災害救援司、自然資源部地質勘查司分別於今日針對山西省啟動了國家地質災害四級應急響應和地質災害防禦Ⅳ級響應。為落實上級關於地質災害應急、防禦四級響應要求，結合本輪降水分佈及雨量預測，經會商研判，省重大地質災害應急指揮部辦公室決定，自8月25日19時起，對太原、大同、朔州、忻州、陽泉、呂梁、晉中市啟動地質災害四級響應。"
+    },
+    {
+      "id": "5058066",
+      "time": "2026-08-25 20:16:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI初創公司Emerald AI完成1.5億美元融資 】據報道，AI初創公司Emerald AI宣佈完成1.5億美元融資，估值達10.5億美元。本輪由DCVC與Energize Capital領投，英偉達、三星風投、GE Vernova、Salesforce Ventures等參投。 該公司利用專有軟體，幫助資料中心根據電網需求靈活調節用電：高峰時主動降載，低谷時利用多餘算力，有效緩解AI算力爆發對電力供應的壓力。目前已在加州、弗吉尼亞落地合同，並與英偉達、甲骨文等合作測試。創始人西瓦拉姆表示，目標是讓資料中心從“電網負擔”轉變為靈活資源，緩解各地對資料中心建設的反彈。"
+    },
+    {
+      "id": "5058065",
+      "time": "2026-08-25 20:16:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東北地區里程最長跨海大橋建設取得關鍵進展】8月25日，大連長海大橋專案建設取得關鍵進展，主線鋼棧橋實現貫通。據介紹，鋼棧橋貫通有效解決了淺灘海域船舶作業難的行業痛點，實現陸域棧橋與主橋鋼平臺無縫銜接，建成全天候、高效率的海上施工通道。鋼棧橋貫通標誌著長海大橋正式轉入主體施工階段，為專案提速提質、按期竣工奠定堅實基礎。作為東北地區里程最長跨海大橋，大連長海大橋總長25.5公里。（新華社）"
+    },
+    {
+      "id": "mkt:01a038d9-df9d-7aab-9111-a5aa4054ee80",
+      "time": "2026-08-25 20:16:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Draft Water Law to require accelerated build‑out of national water network】China’s draft Water Law, submitted for second review to the 14th National People’s Congress Standing Committee on Aug. 25, adds provisions to accelerate construction of a national water network. The draft directs the state to prioritise improving systems for optimized water‑resource allocation, river‑basin flood prevention and mitigation, and water‑ecological protection and governance; it calls for coordinating existing and incremental resources, strengthening interconnection, and speeding the build‑out of the national water network."
+    },
+    {
+      "id": "5058064",
+      "time": "2026-08-25 20:16:18",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股指期貨小幅走高 英偉達有望結束2022年以來最長連跌】美國股指期貨上漲，晶片製造商股價反彈，加之布倫特原油跌破每桶90美元后債券收益率回落，為市場進一步提供支撐。紐約時間7:44，標普500指數和道指期貨上漲0.4%，納斯達克100指數期貨上漲0.9%。英偉達股價有望結束自2022年以來最長連跌。科技股仍是市場焦點。在英偉達週三公佈財報前，晶片股走強。多年來，英偉達一直被視為人工智慧交易的重要風向標。最近，該公司也越來越多地參與為整個AI生態系統的專案籌措資金。Energy Group Capital的Amanda Lyons表示：“英偉達需要給投資者一個上調未來業績預期的理由。有關基本面的討論焦點已經從AI需求是否存在，轉向這種規模空前的基礎設施建設能否繼續產生足夠的經濟回報。”Nuveen全球投資策略師Laura Cooper表示，投資者正在等待一系列關鍵事件，這些事件“可能決定市場進入9月後的走勢方向”。“從美聯儲反應機制能否更加清晰、9月是否可能需要加息，到AI相關企業盈利能否重新點燃市場對科技股的熱情，投資者有很多資訊需要消化。”"
+    },
+    {
+      "id": "mkt:01a038d9-91c8-7aab-9111-9aec9d9502e6",
+      "time": "2026-08-25 20:16:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "ADP weekly employment report: firms' hiring rose for a second consecutive week."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608253853185693",
+      "time": "2026-08-25 20:16:00",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "ADP資料顯示，截至8月8日的四周內，美國私營部門就業崗位周均增加11,750個。"
+    },
+    {
+      "id": "5058063",
+      "time": "2026-08-25 20:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8.86秒！人形機器人百米競速再次重新整理紀錄】8月25日，第二屆世界人形機器人運動會大型組100米複賽，第一組成績再次重新整理紀錄。繼開幕式上跑出的9.39秒，來自北京人形機器人創新中心的天工機器人，跑出了8.86秒的最好成績，再次重新整理紀錄！(央視新聞)"
+    },
+    {
+      "id": "mkt:01a038d8-fb16-7aab-9111-9683083972b2",
+      "time": "2026-08-25 20:15:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "ADP weekly employment report: private-sector employers added an average of 11,750 jobs per week in the four weeks to Aug. 8, 2026."
+    },
+    {
+      "id": "5058062",
+      "time": "2026-08-25 20:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至8月8日當週ADP就業人數週度變動 1.175萬人，前值0.95萬人。"
+    },
+    {
+      "id": "5058061",
+      "time": "2026-08-25 20:15:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二屆GIS全球創新峰會在香港開幕】2026第二屆GIS全球創新展暨全球創新峰會25日在香港亞洲國際博覽館開幕。本屆峰會以“鏈動全球·創引未來”為主題，探討科技創新、產業合作與企業全球化的新趨勢和新機遇。（新華社）"
+    },
+    {
+      "id": "mkt:01a038d8-8f9c-7aab-9111-8a1457fce5dd",
+      "time": "2026-08-25 20:15:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US ADP weekly employment change for week through Aug. 8: +11,750 jobs (prior +9,500)."
+    },
+    {
+      "id": "mkt:01a038d8-2118-7aab-9111-83b408e988fb",
+      "time": "2026-08-25 20:14:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chancellor Merz said economic growth is his top priority and he wants Germany to return to recovery and restore employment. He said the issue will be discussed at a cabinet meeting in Neuhardenberg today and tomorrow."
+    },
+    {
+      "id": "5058060",
+      "time": "2026-08-25 20:14:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟通動力：2026年上半年淨利潤虧損2.65億元，上年同期虧損1.43億元】軟通動力公告，2026年上半年營業收入186.07億元，同比增長17.91%；歸屬於上市公司股東的淨利潤虧損2.65億元，上年同期虧損1.43億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3.87億元，上年同期虧損2.67億元。"
+    },
+    {
+      "id": "5058059",
+      "time": "2026-08-25 20:14:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部：我國對外投資存量連續9年保持全球前三】在25日國務院新聞辦公室舉行的新聞釋出會上，商務部有關負責人介紹，2025年，我國對外投資流量為2135.8億美元，同比增長11.1%，對外投資存量達3.4萬億美元，連續9年保持在全球前三，佔全球投資的比重上升到7.4%。"
+    },
+    {
+      "id": "5058058",
+      "time": "2026-08-25 20:14:13",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【水法修訂草案擬規定加快構建國家水網】水法修訂草案8月25日提請十四屆全國人大常委會第二十四次會議二次審議。草案二審稿擬充實關於國家水網建設的內容，增加加快構建國家水網相關規定。今年4月底，十四屆全國人大常委會第二十二次會議對水法修訂草案進行初次審議，會後草案向社會公開徵求意見。有的常委會組成人員和全國人大代表、部門、地方建議，充實關於國家水網建設的內容。草案二審稿增加規定：國家以完善水資源最佳化配置體系、流域防洪減災體系、水生態保護治理體系為重點，統籌存量和增量，加強互聯互通，加快構建國家水網。（新華社）"
+    },
+    {
+      "id": "5058057",
+      "time": "2026-08-25 20:13:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行公報：8月印度一攬子原油價格上漲至每桶89.7美元。"
+    },
+    {
+      "id": "5058056",
+      "time": "2026-08-25 20:13:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "三名訊息人士透露，俄羅斯或將柴油出口禁令延長至9月。"
+    },
+    {
+      "id": "5058055",
+      "time": "2026-08-25 20:12:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： Emerald AI 融資 1.5 億美元，估值達 10.5 億美元。"
+    },
+    {
+      "id": "mkt:01a038d5-54f9-7aab-9111-7e08f12c428a",
+      "time": "2026-08-25 20:11:39",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "Italy's Prime Minister Meloni backs imposing an energy windfall tax to ease domestic fuel costs."
+    },
+    {
+      "id": "5058054",
+      "time": "2026-08-25 20:11:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與航運公司：預計新船將投入長期租船業務運營。"
+    },
+    {
+      "id": "5058053",
+      "time": "2026-08-25 20:11:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博納影業：2026年上半年淨利潤虧損1.69億元，2025年同期虧損10.56億元】博納影業公告，2026年上半年營業收入4.58億元，同比下降31.90%；歸屬於上市公司股東的淨利潤虧損1.69億元，2025年同期虧損10.56億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.88億元，2025年同期虧損10.92億元。"
+    },
+    {
+      "id": "5058052",
+      "time": "2026-08-25 20:10:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與服務板塊（ADNOC L&S）：阿布扎比國家石油公司物流與服務板塊斥資4.44億美元追加訂購兩艘液化天然氣（LNG）運輸船，使其LNG船隊規模增至24艘。"
+    },
+    {
+      "id": "5058051",
+      "time": "2026-08-25 20:10:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與服務部（ADNOC L&S）：每艘船的容積為17.5萬立方米，預計將於2029年交付。"
+    },
+    {
+      "id": "5058050",
+      "time": "2026-08-25 20:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利總理梅洛尼陣營盟友支援徵收能源暴利稅，以此緩解義大利燃料成本壓力  。"
+    },
+    {
+      "id": "mkt:01a038d4-4ec1-7aab-9111-72952183dd68",
+      "time": "2026-08-25 20:10:32",
+      "tags": [
+        "MKT News",
+        "00966.HK",
+        "Impact bullish"
+      ],
+      "text": "China Taiping (00966.HK) 1H life-insurance business profit HK$16.682 billion, up 101.5% YoY, mainly driven by stronger insurance service results and higher net investment income versus a year earlier."
+    },
+    {
+      "id": "5058049",
+      "time": "2026-08-25 20:10:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三菱汽車北美公司：三菱汽車將把其美國市場產品線從目前的4款車型擴充至2027年的6款車型。"
+    },
+    {
+      "id": "mkt:01a038d3-fd35-7aab-9111-6ee80fe9037d",
+      "time": "2026-08-25 20:10:11",
+      "tags": [
+        "MKT News",
+        "00966.HK",
+        "Impact bullish"
+      ],
+      "text": "China Taiping (00966.HK) said 1H insurance service revenue was HK$12.876 billion, up 4.5% YoY, driven mainly by stronger life-insurance performance versus the year-ago period."
+    },
+    {
+      "id": "mkt:01a038d3-e857-7aab-9111-63d117189422",
+      "time": "2026-08-25 20:10:06",
+      "tags": [
+        "MKT News",
+        "00966.HK",
+        "Impact bullish"
+      ],
+      "text": "China Taiping (00966.HK) said 1H profit attributable to shareholders was HKD12.873 billion, up 90.3% YoY, driven by stronger insurance service results and higher investment returns versus a year earlier."
+    },
+    {
+      "id": "5058048",
+      "time": "2026-08-25 20:09:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國太平：上半年股東應占溢利128.73億港元，同比增長90.3%，主要原因為保險服務業績及投資回報均較去年同期上升。"
+    },
+    {
+      "id": "5058047",
+      "time": "2026-08-25 20:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙政府提議修改移民與庇護相關法律。"
+    },
     {
       "id": "5058046",
       "time": "2026-08-25 20:08:42",
@@ -49,6 +457,14 @@
         "MKT News"
       ],
       "text": "Reserve Bank of India says liquidity conditions have eased, supporting credit growth and sustained investment activity."
+    },
+    {
+      "id": "5058043",
+      "time": "2026-08-25 20:07:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國化學工程深化雲貴戰略佈局，積極探索合作新模式】據中國化學工程訊息，8月24日-25日，中國化學工程黨委副書記、總經理鄧兆敬在貴州、雲南開展系列商務活動，分別與貴州磷化集團、雲天化集團、雲南化工設計院有關負責人舉行會談，就深化戰略合作、共謀綠色發展進行深入交流。在與貴州磷化集團黨委副書記、副董事長、總經理李紅林會談中，雙方圍繞磷化工產業發展、磷石膏資源化利用等議題進行研討。雙方表示，將強化技術協同，佈局高附加值新材料領域。在與雲天化集團黨委書記、董事長劉和興會談中，雙方就境內外工程、技術研發、中試轉化等議題進行深入交流並達成合作共識。雙方表示，將進一步拓展合作空間，共同探索“工程建設+產業投資”聯合出海模式。在與雲南化工設計院黨委書記、董事長李若松會談中，雙方表示，將圍繞溼法磷酸技術、新能源磷酸鐵鋰及磷石膏制酸等領域，積極探索合作新模式，實現資源優勢互補，共謀綠色發展。"
     },
     {
       "id": "5058042",
@@ -148732,268 +149148,6 @@
         "公司"
       ],
       "text": "【英特集團與杭州人保達成戰略合作】據英特集團訊息，8月18日，英特集團與杭州人保舉行戰略合作簽約儀式，聯合推出省內專屬特藥商業保險——“英特-人保‘藥’康保”。“藥”康保聚焦使用者核心需求，遴選高價值品種，打造可落地的商保解決方案。首期覆蓋45個品種，涉及恆瑞、諾華、阿斯利康等30餘家藥企，覆蓋肺癌、乳腺癌、胃癌等10餘種高發癌種，另包含視神經脊髓炎、神經母細胞瘤等罕見病用藥。"
-    },
-    {
-      "id": "5046065",
-      "time": "2026-08-18 20:21:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【全球債券遭大舉拋售，美債收益率創2025年初以來新高】全球債券拋售潮持續加劇，8月市場交投清淡，疊加投資者對通脹的擔憂以及企業債大量供給，美國基準國債收益率攀升至2025年初以來最高水平。週二美國國債進一步走弱，各期限收益率上行1‑2個基點。10年期美債收益率小幅上行約2個基點，報4.75%，創下19個月新高。受通脹前景不明、債券買方結構發生變化影響，從歐洲到日本的主權債券市場同步出現波動。當日早些時候，德國透過銀行渠道發行30年期國債，發行收益率創下15年新高。蒙特利爾銀行資本市場美國利率策略主管伊恩·林根在客戶研報中寫道：“美債拋售本身已經演變成一項宏觀層面事件。”"
-    },
-    {
-      "id": "5046064",
-      "time": "2026-08-18 20:21:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西全國穀物出口商協會（ANEC）預測，8月巴西豆粕出口量將達到252萬噸，此前一週的預測值為253萬噸。"
-    },
-    {
-      "id": "mkt:01a014d1-cd19-7aab-9079-bb7e4c2dc34a",
-      "time": "2026-08-18 20:21:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU foreign policy chief said the EU welcomes other countries reaching agreement on restrictive measures against Belarus."
-    },
-    {
-      "id": "5046063",
-      "time": "2026-08-18 20:21:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西8月大豆出口量將達1056萬噸，低於上週預估的1088萬噸。"
-    },
-    {
-      "id": "mkt:01a014d1-4b16-7aab-9079-b7f7ae78145c",
-      "time": "2026-08-18 20:20:55",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Institution: UK jobs data supports Bank of England holding rates】Pansen Macro analyst Rob Wood said the latest UK jobs data will make Bank of England policymakers comfortable leaving rates unchanged. He said employment was slightly weaker than expected, signaling the labour market is still slowing but only very gradually. Wage growth is in a range consistent with the inflation target, though it may not decelerate further and could edge up in coming months. Private‑sector regular pay excluding bonuses rose 4.8% MoM, the largest monthly gain since December last year."
-    },
-    {
-      "id": "5046062",
-      "time": "2026-08-18 20:20:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聚燦光電完成銀鏡倒裝晶片規模化量產】記者從聚燦光電獲悉，該公司已經完成銀鏡倒裝晶片的規模化量產。目前，年產600萬片銀鏡倒裝晶片技改專案正式落地，總投資4億元，達產後年產值超5億元、淨增值超2億元。2026年上半年，銀鏡產品收入同比增長101.69%，銀鏡產品售價約為普通產品的1.5倍。"
-    },
-    {
-      "id": "mkt:01a014d0-8d61-7aab-9079-add7d2122d34",
-      "time": "2026-08-18 20:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "XAUUSD"
-      ],
-      "text": "US July import price index MoM, housing starts (annualized) and building permits due in 10 minutes."
-    },
-    {
-      "id": "5046061",
-      "time": "2026-08-18 20:19:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中創環保：5%以上股東擬公開徵集轉讓公司股份】中創環保公告，公司5%以上股東擬透過公開徵集轉讓方式轉讓其持有的公司股份，本次轉讓為提示性公告，尚未披露具體受讓方及轉讓數量，後續將根據公開徵集結果履行相應程式。"
-    },
-    {
-      "id": "5046060",
-      "time": "2026-08-18 20:18:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【史上最強厄爾尼諾正在形成中 我國將受到哪些影響】國家氣候中心首席預報員顧薇表示，8月上半月的海溫指數已突破2.5℃，但按照國家相關標準計算，目前的滑動平均值尚未達到超強事件的門檻，當下尚未正式形成超強厄爾尼諾事件。國家氣候中心預計，赤道中東太平洋海表溫度將繼續維持波動上升態勢，今年11月至12月前後達到本次事件的峰值。當前增暖趨勢明顯，3個月滑動平均的峰值大機率將超過2.5℃這一關口，形成一次超強厄爾尼諾事件，併成為有觀測記錄以來最強的一次。國家氣候中心監測顯示，夏季以來，我國氣候特徵反映出厄爾尼諾發展階段的典型影響：東部呈南北兩條多雨帶，暴雨過程面廣點強、落區重疊且致災複合；颱風活躍、強度強，風雨影響久。（新華社）"
-    },
-    {
-      "id": "mkt:01a014ce-55d3-7aab-9079-a740307ee899",
-      "time": "2026-08-18 20:17:41",
-      "tags": [
-        "MKT News",
-        "RELIANCE.NS"
-      ],
-      "text": "Reliance Industries said reports that India's Supreme Court had imposed a INR 1 million fine were incorrect, stating the court did not levy any fine or penalty on the company."
-    },
-    {
-      "id": "5046059",
-      "time": "2026-08-18 20:16:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯與緬甸需要在經濟領域開展合作，雙方已取得良好進展。"
-    },
-    {
-      "id": "5046058",
-      "time": "2026-08-18 20:16:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東鐵路基金公司與矽基流動達成戰略合作，共建Token工廠】8月18日，山東鐵路發展基金有限公司與北京矽基流動科技股份有限公司在北京簽署戰略合作協議。雙方將圍繞共建“Token（詞元）工廠”，在算力服務聯合運營、異構算力混部技術落地、市場聯合拓展及行業解決方案打造等方面開展全方位合作。"
-    },
-    {
-      "id": "5046057",
-      "time": "2026-08-18 20:15:59",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國股指期貨走弱 長債收益率飆升削弱投資者對風險資產的興趣】科技股拖累股市下跌，長期債券收益率進一步升至數十年高位，油價也延續漲勢，削弱了交易員對風險資產的興趣，美國股指期貨下跌。紐約時間7:47，標普500指數期貨跌0.4%，勢將連續第三個交易日下跌；納斯達克100指數期貨跌1.1%，道指期貨基本持平。晶片股8月以來的反彈在盤前交易中受挫，一隻追蹤半導體股的ETF下跌3.4%。英偉達下跌1.8%，其債務違約保護成本逼近上月觸及的高位。隨著融資成本上升，股市面臨壓力。債券投資者要求更高的風險補償，才願意為大舉支出的政府提供融資，同時也希望防範持續頑固的通脹。高企的油價也強化了市場對央行需要收緊貨幣政策的預期。"
-    },
-    {
-      "id": "mkt:01a014cc-64e8-7aab-9079-9fac466acdbf",
-      "time": "2026-08-18 20:15:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "ADP weekly employment report: U.S. private payrolls added an average of 9,500 jobs per week in the four weeks to Aug. 1, 2026."
-    },
-    {
-      "id": "5046056",
-      "time": "2026-08-18 20:15:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "Kalshi表示已向美國商品期貨交易委員會提交股票指數永久產品申請。"
-    },
-    {
-      "id": "mkt:01a014cc-1ccc-7aab-9079-96ca7733149d",
-      "time": "2026-08-18 20:15:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Canada July housing starts 229.1k units vs. consensus 247.5k; prior revised from 239.0k to 240.8k."
-    },
-    {
-      "id": "5046055",
-      "time": "2026-08-18 20:15:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大7月新屋開工量為229,074套；預計為25萬套。"
-    },
-    {
-      "id": "mkt:01a014cc-0128-7aab-9079-8f192695c07f",
-      "time": "2026-08-18 20:15:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates"
-      ],
-      "text": "U.S. ADP weekly employment change for week ended Aug 1: +9,500 jobs, prior +8,250."
-    },
-    {
-      "id": "mkt:01a014cb-f689-7aab-9079-83fbea1aee45",
-      "time": "2026-08-18 20:15:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Housing Starts (Jul) | actual 229100K | consensus 247500K | previous 239000K"
-    },
-    {
-      "id": "5046054",
-      "time": "2026-08-18 20:15:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至8月1日當週ADP就業人數週度變動 0.95萬人，前值0.825萬人。"
-    },
-    {
-      "id": "5046053",
-      "time": "2026-08-18 20:12:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞瑪芬體育：薩洛蒙中國市場第二季度實現兩位數增長。"
-    },
-    {
-      "id": "5046052",
-      "time": "2026-08-18 20:12:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局：分型分類精準幫扶 個體工商戶經營質量持續提升】在國務院新聞辦18日舉行的新聞釋出會上，市場監管總局有關負責人表示：我國持續推進分型分類精準幫扶，推動個體工商戶提升經營能力，延展生命週期。2024年以來，市場監管總局會同有關部門，將個體工商戶分為“生存型”“成長型”“發展型”，並培育“名特優新”個體工商戶。目前，成立3年以上的數量達到8419.8萬戶，較2020年底提升9.7個百分點；累計培育“名特優新”個體工商戶18.4萬戶，持續經營時間的中位數達到8.4年。今年以來，市場監管總局圍繞初創幫扶、重點培育、能力提升、數字賦能、創新示範開展專項行動，推動平臺企業幫助個體工商戶降低經營成本、拓展銷售渠道、提升數字化運營能力。（央視新聞）"
-    },
-    {
-      "id": "5046051",
-      "time": "2026-08-18 20:11:52",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【司法部、住房城鄉建設部負責人就《國務院關於修改〈住房公積金管理條例〉的決定》答記者問】問：《決定》如何擴大住房公積金制度覆蓋面？答：將住房公積金制度覆蓋面擴大到靈活就業群體，是適應我國就業結構變化、增強制度普惠性的重要舉措。考慮到靈活就業群體實際情況和地區發展水平差異，《決定》在擴大住房公積金制度覆蓋面問題上堅持兩點：一是尊重靈活就業人員意願，不搞強制和“一刀切”，規定個體工商戶、非全日制從業人員以及其他靈活就業人員可以自願繳存住房公積金，按照規定享受相應的政策支援。二是授權設區的市級以上地方人民政府制定具體辦法，同時明確住房城鄉建設部等國務院有關部門應當加強指導。"
-    },
-    {
-      "id": "mkt:01a014c8-dca6-7aab-9079-7b4416ccf9b7",
-      "time": "2026-08-18 20:11:42",
-      "tags": [
-        "MKT News",
-        "DIS.N"
-      ],
-      "text": "Disney (DIS.N) and its ABC subsidiary sued the U.S. Federal Communications Commission, asking a court to halt the FCC's early license-renewal procedure."
-    },
-    {
-      "id": "5046050",
-      "time": "2026-08-18 20:11:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "迪士尼及其旗下美國廣播公司起訴美國聯邦通訊委員會，要求法院釋出命令終止提前牌照續期程式。"
-    },
-    {
-      "id": "5046049",
-      "time": "2026-08-18 20:10:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞瑪芬體育：薩洛蒙在專業跑步用品門店勢頭向好。"
-    },
-    {
-      "id": "5046048",
-      "time": "2026-08-18 20:10:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中越舉行海上搜救通訊演練】8月18日，中國廣西海上搜救中心與越南航海搜救協調中心一區成功舉行海上搜救通訊演練。演練模擬中國籍國際航行集裝箱船“YH”輪在越南下龍海域主機失控遇險，雙方透過資訊通報、險情核實、應急協調等流程，檢驗了兩國海上搜救力量的應急通訊與協同處置能力。演練期間，雙方依次完成遇險報警接收與轉發、遇險船舶險情核實、跨國搜救協調通報、船員受傷轉運協調等科目。整個演練流程順暢，通訊聯絡高效，體現了“險情就是命令，時間就是生命，團結就是力量”的搜救精神。（央視新聞）"
-    },
-    {
-      "id": "5046047",
-      "time": "2026-08-18 20:10:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智迪科技：持股5%以上股東減持計劃期限屆滿】智迪科技公告稱，公司持股5%以上股東昭華投資的減持計劃期限已屆滿，該股東於2026年5月15日至2026年8月14日期間，透過集中競價交易累計減持公司股份9萬股，減持完成後持有公司股份374.40萬股，佔當前總股本比例3.60%。本次減持符合相關法規要求，未超出此前披露的減持計劃上限，不會導致公司控制權變更，也不會對公司治理結構及持續經營產生影響。"
-    },
-    {
-      "id": "5046046",
-      "time": "2026-08-18 20:10:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江波龍：子公司擬8000萬元參與設立創投合夥企業】江波龍公告稱，公司子公司西藏遠識與多家專業投資機構簽署合夥協議，共同設立蘇州璞華宸光創業投資合夥企業，全體合夥人擬認繳出資總額3.71億元，其中西藏遠識作為有限合夥人擬認繳8000萬元。該合夥企業重點投資積體電路產業鏈相關標的，存續期限為7年，自首次交割之日起算。本次投資無需提交公司董事會及股東會審議，不構成關聯交易及重大資產重組。"
-    },
-    {
-      "id": "5046045",
-      "time": "2026-08-18 20:10:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潔雅股份：持股5%以上股東及其一致行動人擬減持不超4.99%股份】潔雅股份公告稱，公司持股5%以上股東銅陵明源迴圈經濟產業創業投資基金中心（有限合夥）及其一致行動人蘇州工業園區中億明源創業投資中心（有限合夥），計劃於2026年9月10日至2026年12月9日，以集中競價和大宗交易方式合計減持公司股份不超過561.66萬股，佔公司總股本比例不超過4.99%。其中明源基金擬減持不超過450.23萬股，佔總股本比例不超過4.00%；中億明源擬減持不超過111.43萬股，佔總股本比例不超過0.99%。本次減持股份來源為公司首次公開發行前取得的股份。"
     }
   ]
 }
