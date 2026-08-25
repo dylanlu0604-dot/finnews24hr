@@ -1,7 +1,120 @@
 {
-  "updated": "2026-08-25 08:09:29",
-  "count": 15869,
+  "updated": "2026-08-25 08:13:41",
+  "count": 15874,
   "items": [
+    {
+      "id": "5056331",
+      "time": "2026-08-25 08:12:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "鎧俠控股下跌2.8%，愛德萬測試下跌3.6%，松下控股下跌4.0%。"
+    },
+    {
+      "id": "mkt:01a03643-0538-7aab-9100-ba742b0f41a2",
+      "time": "2026-08-25 08:12:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a03642-df91-7aab-9100-b50b36b293dd",
+      "time": "2026-08-25 08:12:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【CSC Financial: AI apps and cloud demand align; remain positive on compute-power supply chain】CSC Financial research note: OpenAI will cut GPT-5.6SolAPI prices by over 20% on Aug 21, reducing high-performance model invocation costs and likely boosting Agent, code-generation and other high‑token use cases, sustaining inference-side compute demand. Alibaba’s latest quarterly AI Cloud and Compute Services revenue was about 48.4 bln yuan, up 45% YoY; AI-related product revenue has logged triple-digit growth for 12 consecutive quarters, signalling faster commercialisation of AI demand. CSC remains positive on compute-power chain beneficiaries: optical modules, servers, liquid cooling and cloud services."
+    },
+    {
+      "id": "5056330",
+      "time": "2026-08-25 08:12:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昨日ETF資金整體淨流入190.71億元】據同花順iFinD資料，2026年8月24日，ETF資金整體淨流入190.71億元，股票型淨流入106.38億元，寬基型淨流入94.08億元。當日ETF資金淨流入榜單排名前3依次為：華夏上證科創板50成份ETF（588000）淨流入21.52億元，易方達創業板ETF（159915）淨流入19.74億元，華泰柏瑞滬深300ETF（510300）淨流入15.17億元。"
+    },
+    {
+      "id": "5056329",
+      "time": "2026-08-25 08:12:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌1%，報64863.99點。"
+    },
+    {
+      "id": "5056328",
+      "time": "2026-08-25 08:12:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統表示，目前已簽署50項油氣協議，將對76個油田進行新投資。"
+    },
+    {
+      "id": "5056327",
+      "time": "2026-08-25 08:11:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率上升0.5個基點，至2.130%。"
+    },
+    {
+      "id": "5056326",
+      "time": "2026-08-25 08:11:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lambda已經收到多份本輪融資的投資意向書，部分接近該公司的人士表示，這筆融資或將讓其最早於明年啟動IPO。"
+    },
+    {
+      "id": "mkt:01a03641-7763-7aab-9100-a9507140c830",
+      "time": "2026-08-25 08:10:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "【Sources: AI cloud services provider Lambda in talks for up to $3 bln financing】Lambda, an NVIDIA-backed AI cloud infrastructure provider that leases chips and other AI hardware, is negotiating up to $3 billion in financing at a valuation of up to $12 billion or higher, people familiar with the matter said. Talks are ongoing and terms have not been finalized; the round has drawn multiple bids and could help pave the way for an IPO as soon as next year. Insiders said Lambda expects revenue to exceed $1.5 billion this year."
+    },
+    {
+      "id": "mkt:01a03640-cd11-7aab-9100-a5975566177f",
+      "time": "2026-08-25 08:10:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 14.00 points higher, up 0.15%, at 9,117.10 on Tuesday, Aug 25."
+    },
+    {
+      "id": "5056325",
+      "time": "2026-08-25 08:09:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統：委內瑞拉已簽署 50 餘項油氣合作協議。"
+    },
+    {
+      "id": "5056324",
+      "time": "2026-08-25 08:09:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本機場航站樓板塊股票漲幅最高達4.4%。"
+    },
     {
       "id": "5056323",
       "time": "2026-08-25 08:08:44",
@@ -143779,75 +143892,6 @@
         "其他"
       ],
       "text": "【雲南：全學段普及人工智慧通識教育】 日前，雲南省教育廳等部門聯合印發《雲南省“人工智慧+教育”行動方案》，方案提出，全學段普及人工智慧通識教育。構建中小學人工智慧通識教育課程體系，編制和推廣使用人工智慧通識教育讀本和教材，指導各地各校開好人工智慧通識課程，確保四年級、七年級每週1課時，其他年級每學年不少於8個課時。鼓勵各地各校因地制宜，開發融入生物多樣性、綠色能源等本土元素的特色人工智慧融合課程。推動職業院校將人工智慧納入公共基礎課與專業拓展課，中職側重基礎認知與工具應用，高職側重場景應用與方案設計，課程實踐教學內容不低於50%。推動高校分類建設人工智慧公共基礎課模組，覆蓋文、理、工、農、醫等全學科，原則上不少於2學分或32學時。"
-    },
-    {
-      "id": "5044878",
-      "time": "2026-08-18 08:13:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟、Salesforce與ADP意向收購人力資源科技公司Darwinbox。"
-    },
-    {
-      "id": "5044877",
-      "time": "2026-08-18 08:13:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南：到2030年實現人工智慧通識教育全學段覆蓋】 日前，雲南省教育廳等部門聯合印發《雲南省“人工智慧+教育”行動方案》，方案提出，到2030年，實現人工智慧通識教育全學段覆蓋，建成專兼結合的人工智慧通識教育師資隊伍，全面提升師生人工智慧素養和應用能力，推動人工智慧人才培養規模和質量顯著提升，賦能學生學習、教師教學、教育治理，支撐科研創新與國際合作，構建適配需求的基礎設施與服務支撐體系。"
-    },
-    {
-      "id": "te:markets:575942",
-      "time": "2026-08-18 08:11:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Flat After Weak Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, pressured by persistent tensions in the Middle East and rising Treasury yields. In regular trading on Monday, the Dow fell 0.51%, the S&P 500 declined 0.52% and the Nasdaq Composite lost 0.32%. Ten of the 11 S&P sectors ended lower, led to the downside by communication services, consumer staples and financials. The declines came as oil prices climbed higher on fading prospects for a new peace agreement between the US and Iran, while efforts to reopen the Strait of Hormuz remained deadlocked. The 30-year Treasury yield also climbed to its highest level since 2007, reflecting concerns over inflation and rising government spending. Investors now turn their attention to retail earnings due this week from Home Depot, Lowe’s and Walmart for fresh insights on consumer strength."
-    },
-    {
-      "id": "mkt:01a01235-5e37-7aab-906a-c1fd910ca476",
-      "time": "2026-08-18 08:11:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "Japan 5-year government bond yield rose 2 bps to 2.18%, a record high."
-    },
-    {
-      "id": "mkt:01a01235-5a1a-7aab-906a-b8a2215858b7",
-      "time": "2026-08-18 08:11:21",
-      "tags": [
-        "MKT News",
-        "ASX200",
-        "Impact bearish"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 8.00 points (-0.09%) at 9,065.20 on Aug 18 (Tuesday)."
-    },
-    {
-      "id": "5044876",
-      "time": "2026-08-18 08:11:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率上升2個基點至2.18%，創歷史新高。"
-    },
-    {
-      "id": "5044875",
-      "time": "2026-08-18 08:10:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公安部網安局公佈14起涉企網路謠言典型案例】 據公安部網安局訊息，公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。"
     }
   ]
 }
