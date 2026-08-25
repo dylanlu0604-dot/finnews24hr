@@ -1,7 +1,39 @@
 {
   "date": "2026-08-26",
-  "count": 82,
+  "count": 86,
   "items": [
+    {
+      "id": "5058411",
+      "time": "2026-08-26 01:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署（EPA）擬在密歇根州發放多項地下注入作業許可。"
+    },
+    {
+      "id": "5058410",
+      "time": "2026-08-26 01:27:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美軍已與多傢俬營企業簽訂合同，負責（霍爾木茲海峽）排雷或爆破作業。"
+    },
+    {
+      "id": "mkt:01a039f5-ab85-7aab-9117-e8f0a010496b",
+      "time": "2026-08-26 01:26:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry strongly condemned Israel's defense minister for illegally entering Syrian territory and crossing an international border."
+    },
+    {
+      "id": "5058409",
+      "time": "2026-08-26 01:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西與美國將於8月31日就關稅問題舉行磋商。"
+    },
     {
       "id": "5058408",
       "time": "2026-08-26 01:23:46",

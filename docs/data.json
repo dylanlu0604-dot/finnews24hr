@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-26 01:25:08",
-  "count": 16510,
+  "updated": "2026-08-26 01:29:28",
+  "count": 16507,
   "items": [
+    {
+      "id": "5058411",
+      "time": "2026-08-26 01:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署（EPA）擬在密歇根州發放多項地下注入作業許可。"
+    },
+    {
+      "id": "5058410",
+      "time": "2026-08-26 01:27:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美軍已與多傢俬營企業簽訂合同，負責（霍爾木茲海峽）排雷或爆破作業。"
+    },
+    {
+      "id": "mkt:01a039f5-ab85-7aab-9117-e8f0a010496b",
+      "time": "2026-08-26 01:26:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry strongly condemned Israel's defense minister for illegally entering Syrian territory and crossing an international border."
+    },
+    {
+      "id": "5058409",
+      "time": "2026-08-26 01:24:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西與美國將於8月31日就關稅問題舉行磋商。"
+    },
     {
       "id": "5058408",
       "time": "2026-08-26 01:23:46",
@@ -149263,69 +149295,6 @@
         "國際"
       ],
       "text": "【阿聯酋監測到兩枚從伊朗發射的導彈】阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。阿聯酋國防部說，該國目前處於高度戒備狀態，已做好應對任何威脅的準備。（新華社）"
-    },
-    {
-      "id": "5046395",
-      "time": "2026-08-19 01:29:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【厄瓜多外交官巴基角逐下一任聯合國秘書長】聯大主席發言人柯林斯18日宣佈，厄瓜多外交官伊沃內·巴基角逐下一任聯合國秘書長。柯林斯說，巴基的候選人身份由湯加提名。目前，除巴基外，另有7人角逐下一任聯合國秘書長職位，分別為：智利前總統米歇爾·巴切萊特、來自厄瓜多的聯大前主席瑪麗亞·費爾南達·埃斯皮諾薩、來自阿根廷的現任國際原子能機構總幹事拉斐爾·格羅西、來自哥斯大黎加的現任聯合國貿易和發展會議秘書長蕾韋卡·格林斯潘、來自烏干達的聯合國前副秘書長奧拉拉·奧通努、現任蓋亞那常駐聯合國代表卡羅琳·羅德里格斯-伯基特、塞內加爾前總統麥基·薩勒。現任聯合國秘書長古特雷斯的任期至今年12月31日。（新華社）"
-    },
-    {
-      "id": "mkt:01a015eb-7d3a-7aab-907f-d600b4f90844",
-      "time": "2026-08-19 01:29:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ecuador's Ivonne Baki enters race for next UN secretary-general】Ecuadorian diplomat Ivonne Baki has entered the race for UN secretary-general after being nominated by Tonga, UNGA president’s spokesperson Collins said. Other declared candidates are former Chilean president Michelle Bachelet; former UNGA president Maria Fernanda Espinosa (Ecuador); IAEA director-general Rafael Grossi (Argentina); UNCTAD secretary-general Rebeca Grynspan (Costa Rica); former UN deputy secretary-general Olara Otunnu (Uganda); Guyana’s permanent UN representative Caroline Rodrigues‑Birkett; and former Senegal president Macky Sall. Incumbent UN secretary-general Guterres’ term runs through Dec. 31."
-    },
-    {
-      "id": "mkt:01a015ea-506b-7aab-907f-c992e8d1f8a2",
-      "time": "2026-08-19 01:27:52",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "CBC News reports Canada and US trade negotiators are expected to meet again before a midnight tariff deadline."
-    },
-    {
-      "id": "5046394",
-      "time": "2026-08-19 01:27:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：加拿大與美國談判代表預計將在午夜關稅截止期限前再次會晤。"
-    },
-    {
-      "id": "5046393",
-      "time": "2026-08-19 01:26:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "辛巴威渡輪事故遇難人數升至 94 人，政府證實該渡輪超載。"
-    },
-    {
-      "id": "mkt:01a015e9-26e7-7aab-907f-c65853b5d272",
-      "time": "2026-08-19 01:26:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations said it has received a report of an incident 40 nautical miles southeast of Mokha port, Yemen."
-    },
-    {
-      "id": "mkt:01a015e8-6403-7aab-907f-bdb9955d8095",
-      "time": "2026-08-19 01:25:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UK Maritime Trade Operations said an unmanned cargo vessel was struck by multiple rounds of unknown ordnance and sustained damage."
     }
   ]
 }
