@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-25 22:41:49",
-  "count": 16523,
+  "updated": "2026-08-25 22:50:40",
+  "count": 16510,
   "items": [
+    {
+      "id": "mkt:01a03965-3db1-7aab-9115-a48760cb6c05",
+      "time": "2026-08-25 22:48:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CBS reports CIA director Ratcliffe secretly visited Moscow for talks】CBS, citing people familiar with the matter, reported on Tuesday that CIA Director John Ratcliffe is in Moscow and has held talks with Russian officials. A US Air Force Boeing C-17A Globemaster III was seen at a Moscow airport and a US diplomatic convoy arrived, the report said. Neither the US nor Russian governments commented on Ratcliffe’s identity or the visit’s purpose. The trip comes as US-brokered Russia-Ukraine peace talks remain largely stalled, with major gaps on core issues."
+    },
+    {
+      "id": "mkt:01a03963-befa-7aab-9115-9a1e33980701",
+      "time": "2026-08-25 22:47:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "OpenAI plans to begin deploying Jalapeno chips in its compute infrastructure by end-2026."
+    },
+    {
+      "id": "5058308",
+      "time": "2026-08-25 22:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：計劃於2026年底前在計算基礎設施中部署Jalapeno晶片。"
+    },
+    {
+      "id": "5058307",
+      "time": "2026-08-25 22:46:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "崑崙能源：上半年淨利潤33.1億元人民幣，上半年營收1,000.4億元人民幣。"
+    },
+    {
+      "id": "5058306",
+      "time": "2026-08-25 22:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，颶風胡里奧強度略有增強，但預計今日稍晚將被颶風伊塞萊吸收。"
+    },
+    {
+      "id": "mkt:01a03961-9c82-7aab-9115-910f8c95e061",
+      "time": "2026-08-25 22:44:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【VIX curve steepens ahead of US midterms as equity anxiety rises】Options traders are positioning for higher volatility around the November US midterms, even as Nvidia earnings and PBOC Chair Kevin Warsh’s Jackson Hole speech remain the week’s headline events. Traders monitoring VIX-linked futures say hedging demand for S&P 500 volatility has increased: September VIX futures trade near 17.4, October near 19.0 and November near 19.7. Little Harbor Advisors co‑PM Matthew Thompson said: \"With the US election approaching, you're entering a window where the election will affect the VIX. You can already see that upward tilt in the VIX futures term structure.\" A CBOE Global Markets analyst study shows since 1945 realized volatility in midterm years exceeded the prior year 80% of the time, rising on average 3.5 volatility points; when the White House and Congress were controlled by the same party, realized volatility rose about 6 volatility points on average."
+    },
+    {
+      "id": "5058305",
+      "time": "2026-08-25 22:44:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示：颶風拉拉強度變化不大。"
+    },
+    {
+      "id": "5058304",
+      "time": "2026-08-25 22:43:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，預計大型颶風伊塞萊在未來幾天將緩慢減弱。"
+    },
+    {
+      "id": "5058303",
+      "time": "2026-08-25 22:43:01",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通將國泰海通A股評級上調至超配，目標價22元人民幣，即上漲27%。"
+    },
     {
       "id": "5058302",
       "time": "2026-08-25 22:40:41",
@@ -149217,205 +149296,6 @@
         "Impact bullish"
       ],
       "text": "Reuters survey: 56 of 64 economists expect the Bank of England to keep interest rates at 3.75% in 2026."
-    },
-    {
-      "id": "mkt:01a01558-a3b2-7aab-907d-8f345b50375c",
-      "time": "2026-08-18 22:48:45",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Interfax reports the Russian Defence Ministry said Russian forces struck a cargo ship in the Black Sea."
-    },
-    {
-      "id": "mkt:01a01558-664c-7aab-907d-87348beaf6e1",
-      "time": "2026-08-18 22:48:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "S&P affirmed NVIDIA (NVDA.O)'s ratings, including an \"AA\" issuer credit rating."
-    },
-    {
-      "id": "5046289",
-      "time": "2026-08-18 22:48:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍襲擊黑海一艘貨船。"
-    },
-    {
-      "id": "5046288",
-      "time": "2026-08-18 22:48:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "扎波羅熱核電站的俄羅斯管理方表示，襲擊造成1人遇難，17人受傷。"
-    },
-    {
-      "id": "5046287",
-      "time": "2026-08-18 22:48:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普確認英偉達評級，包含AA級發行人信用評級。"
-    },
-    {
-      "id": "mkt:01a01557-e92c-7aab-907d-7af5235a6f98",
-      "time": "2026-08-18 22:47:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Atlanta Fed says its GDPNow model nowcasts real GDP growth for Q3 2026 at 4.0%."
-    },
-    {
-      "id": "5046286",
-      "time": "2026-08-18 22:47:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊低開低走 SK海力士下跌7.4%、閃迪下跌8%】美股儲存板塊低開低走，擴大跌幅，該板塊此前連續數日上漲。美光科技下跌6.33%，SK海力士下跌7.41%，閃迪下跌8.05%，西部資料下跌7.10%，希捷科技下跌7.58%，鎧俠ADR下跌10.63%。"
-    },
-    {
-      "id": "mkt:01a01557-5527-7aab-907d-70c6eedfdc88",
-      "time": "2026-08-18 22:47:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel governor said Israel's economy has shown strong resilience during the war."
-    },
-    {
-      "id": "mkt:01a01557-3394-7aab-907d-6dd798de0f4a",
-      "time": "2026-08-18 22:47:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel governor says next monetary policy meeting will be a \"real-time\" meeting."
-    },
-    {
-      "id": "5046285",
-      "time": "2026-08-18 22:46:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "亞龍：戰爭期間以色列經濟展現出極強韌性。"
-    },
-    {
-      "id": "5046284",
-      "time": "2026-08-18 22:46:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安徽：完善耐心資本投早、投小、投長期、投硬科技支援政策】8月18日訊息，日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。完善耐心資本投早、投小、投長期、投硬科技支援政策。加快金融支援科創企業“共同成長計劃”和“貸投批次聯動”提質擴面。鼓勵發展金融資產投資公司股權投資、科技企業併購貸款等新模式。擴大風險投資基金、天使基金規模，發展私募股權二級市場基金。推進合肥科創金融改革試驗區建設。"
-    },
-    {
-      "id": "5046283",
-      "time": "2026-08-18 22:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽：引導推進合肥全國供應鏈金融整合服務基地提質增效】8月18日訊息，日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。引導推進合肥全國供應鏈金融整合服務基地提質增效。鼓勵發展應收賬款、訂單、存貨、倉單質押融資等模式。發揮政府性融資擔保機構作用，建立供應鏈金融風險共擔機制。支援融資租賃企業提升新興產業、未來產業、傳統產業等重點領域融資租賃服務能力。建設合肥融資租賃集聚區。"
-    },
-    {
-      "id": "5046282",
-      "time": "2026-08-18 22:45:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安徽：引導銀行業金融機構向綜合金融服務商轉型，打造安徽（合肥）併購集聚區】日前，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。意見提出，提升金融專業服務能力。引導銀行業金融機構向綜合金融服務商轉型。打造安徽（合肥）併購集聚區。創新“投、貸、擔、保、補”金融組團服務。支援法人證券公司特色化、差異化發展。鼓勵探索組建重點產業保險共同體。鼓勵金融機構開發適配服務業輕資產特性的融資產品。"
-    },
-    {
-      "id": "5046281",
-      "time": "2026-08-18 22:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞龍：下次貨幣政策會議將以直播形式舉行。"
-    },
-    {
-      "id": "5046280",
-      "time": "2026-08-18 22:45:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "BTAB電子商務集團公司：BTAB與全球製造商合作，擴大其進入美國市場的渠道。"
-    },
-    {
-      "id": "mkt:01a01555-5eb8-7aab-907d-601ed3a9d5c1",
-      "time": "2026-08-18 22:45:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The Russian administration at the Zaporizhzhia nuclear plant confirmed a bus stop used to transport plant staff was attacked."
-    },
-    {
-      "id": "mkt:01a01555-26c8-7aab-907d-5e79892b3529",
-      "time": "2026-08-18 22:44:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Israel governor says recently released GDP data were very strong but contain some warnings."
-    },
-    {
-      "id": "5046279",
-      "time": "2026-08-18 22:44:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "扎波羅熱核電站俄方管理層證實，電站員工使用的公交車站遭襲。"
-    },
-    {
-      "id": "5046278",
-      "time": "2026-08-18 22:44:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽：支援為中小企業提供彈性算力和詞元服務，謀劃建設量子人工智慧交叉融合創新中心】近日，安徽省人民政府釋出關於推進服務業擴能提質的實施意見。其中提到，協同推進算力叢集和邊緣算力建設。打造集“量算、通算、智算、超算”為一體的協同排程平臺。支援為中小企業提供彈性算力和詞元服務。謀劃建設量子人工智慧交叉融合創新中心。推進實施人工智慧算力券政策。"
-    },
-    {
-      "id": "5046277",
-      "time": "2026-08-18 22:44:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【藍盾光電：股票8月19日起停牌核查 股價5日漲197.21%】藍盾光電公告稱，公司股票2026年8月10日至8月18日累計5個交易日漲停，漲幅達197.21%，嚴重偏離基本面，將於2026年8月19日開市起停牌核查，預計停牌不超3個交易日。2025年公司營收3.99億元，同比降34.53%，淨虧損8876.65萬元，同比降1468.72%；2026年一季度營收8811.63萬元，同比降13.20%，淨虧損866.43萬元，同比降271.99%。公司擬發行股份及支付現金購買蘇州嵐創科技控股權並募集配套資金，該交易後續推進存在重大不確定性。"
-    },
-    {
-      "id": "5046276",
-      "time": "2026-08-18 22:44:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞龍：我們剛剛公佈了非常強勁的GDP資料，但也存在一些需要注意的地方。"
-    },
-    {
-      "id": "5046275",
-      "time": "2026-08-18 22:43:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "以色列央行行長阿米爾・亞龍接受採訪。"
     }
   ]
 }

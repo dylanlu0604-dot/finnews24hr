@@ -1,7 +1,86 @@
 {
   "date": "2026-08-25",
-  "count": 3237,
+  "count": 3246,
   "items": [
+    {
+      "id": "mkt:01a03965-3db1-7aab-9115-a48760cb6c05",
+      "time": "2026-08-25 22:48:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CBS reports CIA director Ratcliffe secretly visited Moscow for talks】CBS, citing people familiar with the matter, reported on Tuesday that CIA Director John Ratcliffe is in Moscow and has held talks with Russian officials. A US Air Force Boeing C-17A Globemaster III was seen at a Moscow airport and a US diplomatic convoy arrived, the report said. Neither the US nor Russian governments commented on Ratcliffe’s identity or the visit’s purpose. The trip comes as US-brokered Russia-Ukraine peace talks remain largely stalled, with major gaps on core issues."
+    },
+    {
+      "id": "mkt:01a03963-befa-7aab-9115-9a1e33980701",
+      "time": "2026-08-25 22:47:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "OpenAI plans to begin deploying Jalapeno chips in its compute infrastructure by end-2026."
+    },
+    {
+      "id": "5058308",
+      "time": "2026-08-25 22:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：計劃於2026年底前在計算基礎設施中部署Jalapeno晶片。"
+    },
+    {
+      "id": "5058307",
+      "time": "2026-08-25 22:46:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "崑崙能源：上半年淨利潤33.1億元人民幣，上半年營收1,000.4億元人民幣。"
+    },
+    {
+      "id": "5058306",
+      "time": "2026-08-25 22:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，颶風胡里奧強度略有增強，但預計今日稍晚將被颶風伊塞萊吸收。"
+    },
+    {
+      "id": "mkt:01a03961-9c82-7aab-9115-910f8c95e061",
+      "time": "2026-08-25 22:44:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【VIX curve steepens ahead of US midterms as equity anxiety rises】Options traders are positioning for higher volatility around the November US midterms, even as Nvidia earnings and PBOC Chair Kevin Warsh’s Jackson Hole speech remain the week’s headline events. Traders monitoring VIX-linked futures say hedging demand for S&P 500 volatility has increased: September VIX futures trade near 17.4, October near 19.0 and November near 19.7. Little Harbor Advisors co‑PM Matthew Thompson said: \"With the US election approaching, you're entering a window where the election will affect the VIX. You can already see that upward tilt in the VIX futures term structure.\" A CBOE Global Markets analyst study shows since 1945 realized volatility in midterm years exceeded the prior year 80% of the time, rising on average 3.5 volatility points; when the White House and Congress were controlled by the same party, realized volatility rose about 6 volatility points on average."
+    },
+    {
+      "id": "5058305",
+      "time": "2026-08-25 22:44:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示：颶風拉拉強度變化不大。"
+    },
+    {
+      "id": "5058304",
+      "time": "2026-08-25 22:43:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，預計大型颶風伊塞萊在未來幾天將緩慢減弱。"
+    },
+    {
+      "id": "5058303",
+      "time": "2026-08-25 22:43:01",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通將國泰海通A股評級上調至超配，目標價22元人民幣，即上漲27%。"
+    },
     {
       "id": "5058302",
       "time": "2026-08-25 22:40:41",
