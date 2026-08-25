@@ -1,7 +1,25 @@
 {
   "date": "2026-08-26",
-  "count": 93,
+  "count": 95,
   "items": [
+    {
+      "id": "5058416",
+      "time": "2026-08-26 01:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部起訴俄亥俄州法院，指控該法院禁止在其周邊開展移民逮捕行動。"
+    },
+    {
+      "id": "mkt:01a03a02-5ecc-7aab-9118-08d9bce02818",
+      "time": "2026-08-26 01:40:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "CME Group said it completed the first trade in its U.S. zinc futures contract."
+    },
     {
       "id": "5058415",
       "time": "2026-08-26 01:36:14",
