@@ -1,7 +1,65 @@
 {
   "date": "2026-08-25",
-  "count": 3231,
+  "count": 3237,
   "items": [
+    {
+      "id": "5058302",
+      "time": "2026-08-25 22:40:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷政府：米萊自2023年起已與塞裡梅多斷絕往來。"
+    },
+    {
+      "id": "te:markets:578001",
+      "time": "2026-08-25 22:39:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Hovers at 6-Month High — The South African rand strengthened below 16 per US dollar, trading near its strongest level since the Iran war began in late February. A softer US dollar, elevated precious-metal prices and stronger appetite for emerging-market assets supported the currency, while lower oil prices and fading concerns over expanded US sanctions on Iran also helped. The rand also continues to benefit from the SARB’s relatively restrictive monetary stance and improving fiscal outlook. The central bank held its policy rate at 7% in July, while inflation eased to 4.3% in July from 5% in June, mainly due to lower food and fuel prices. However, inflation remains above the SARB’s 3% target and 4% upper tolerance limit. Attention is now turning to October’s mid-term budget, which is expected to signal an improvement in fiscal metrics."
+    },
+    {
+      "id": "5058301",
+      "time": "2026-08-25 22:38:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞信科技與月之暗面簽署合作協議 開拓全球企業級AI市場】近日，亞信科技與月之暗面正式簽署“登月計劃”合作協議，亞信科技成為月之暗面-優選FDE（前沿部署工程師）合作伙伴，雙方將發揮各自優勢，推動Agentic AI在全球範圍企業規模化落地。本次合作，雙方將協同推進海外業務明確為核心增量板塊，重點聚焦Token相關業務的國際化佈局，整合技術、渠道、資源與交付能力，聯合開拓全球企業級AI市場。（人民財訊）"
+    },
+    {
+      "id": "mkt:01a0395b-eae3-7aab-9115-8b665632db0d",
+      "time": "2026-08-25 22:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US asked Ukraine to pause strikes on Russia; US C-17 lands in Moscow】The Financial Times, citing people familiar with the matter, reported last week that Trump administration officials asked Kyiv to refrain from using long-range missiles and drones to strike Moscow, St. Petersburg and Russia’s northern regions on Monday–Wednesday while a US plane carrying senior officials visited; Kyiv agreed. A US Air Force C-17 transport landed in Moscow today. Russian authorities said the circumstances of the aircraft’s arrival were unclear and the Kremlin said no meetings with US government representatives are scheduled this week."
+    },
+    {
+      "id": "5058300",
+      "time": "2026-08-25 22:38:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：2018年，古根海姆提供諮詢服務的保險公司向勒布朗詹姆斯提供了3億美元的貸款。"
+    },
+    {
+      "id": "mkt:01a0395a-4c0e-7aab-9115-875226c61216",
+      "time": "2026-08-25 22:36:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【US new-home sales fall to six-month low in July as high mortgage rates curb demand】US new-home sales fell to a six-month low in July, signaling that high mortgage rates continue to suppress demand despite builders’ price cuts and incentives. Government data on Tuesday showed sales of newly built single-family homes declined 10.5% to a 607,000 annualized pace, below the median economist estimate of 620,000. The median new-home price was down 0.9% YoY to $393,800. Sales have slipped in three of the past four months, underscoring financing costs and affordability constraints—especially in the entry-level market—despite measures such as free upgrades, mortgage-rate buydowns and price reductions by builders."
+    },
     {
       "id": "5058299",
       "time": "2026-08-25 22:36:16",
