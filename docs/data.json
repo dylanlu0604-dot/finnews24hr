@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-26 03:33:42",
-  "count": 16532,
+  "updated": "2026-08-26 03:41:25",
+  "count": 16529,
   "items": [
+    {
+      "id": "5058486",
+      "time": "2026-08-26 03:40:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國10年期國債收益率跌超6個基點】週二（8月25日）紐約尾盤，美國10年期國債收益率跌6.14個基點，報4.6347%，整體持續走低。兩年期美債收益率跌4.05個基點，報4.1911%；30年期美債收益率跌5.53個基點，報5.1692%。2/10年期美債收益率利差跌1.668個基點，報+44.149個基點。10年期通脹保值國債（TIPS）收益率跌5.24個基點，至2.3127%；兩年期TIPS收益率跌3.27個基點，至1.8508%；30年期TIPS收益率跌5.04個基點，至2.9314%。"
+    },
+    {
+      "id": "mkt:01a03a6c-e9b9-7aab-9119-cc8617685f09",
+      "time": "2026-08-26 03:36:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude fell $0.30 intraday to $81.60/bbl; Brent slipped $0.20 to $87.04/bbl."
+    },
+    {
+      "id": "5058485",
+      "time": "2026-08-26 03:35:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國亞利桑那銅礦專案獲批引發訴訟，原告質疑聯邦審查程式】兩個環保組織和一個原住民部落在訴狀中稱，美國聯邦政府在批准該專案之前，未與當地部落進行協商，也未充分評估該亞利桑那銅礦專案對周邊野生動物的威脅。訴狀稱，美國土地管理局違反了聯邦法律，未就銅溪專案（Copper Creek Project）對受保護的墨西哥斑點鴞的威脅與美國魚類及野生動物管理局進行協商，也未充分評估該專案對黃嘴鵑的危害。"
+    },
     {
       "id": "mkt:01a03a69-2702-7aab-9119-c1f02c265fd8",
       "time": "2026-08-26 03:32:44",
@@ -149491,67 +149521,6 @@
         "公司"
       ],
       "text": "委內瑞拉國家石油公司表示，委內瑞拉每日天然氣缺口達5億立方英尺。"
-    },
-    {
-      "id": "5046458",
-      "time": "2026-08-19 03:38:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官員：除非按照伊斯的措施和計劃，否則無法利用霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:01a01661-4127-7aab-9081-76b582c0029b",
-      "time": "2026-08-19 03:37:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil edges up on 18th close】At the close on the 18th, NYMEX September WTI rose $0.44 to $84.94/bbl (+0.52%); ICE October Brent rose $0.15 to $91.02/bbl (+0.17%)."
-    },
-    {
-      "id": "5046457",
-      "time": "2026-08-19 03:37:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價18日微漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲44美分，收於每桶84.94美元，漲幅為0.52%；10月交貨的倫敦布倫特原油期貨價格上漲15美分，收於每桶91.02美元，漲幅為0.17%。"
-    },
-    {
-      "id": "mkt:01a0165e-a0f1-7aab-9081-6998aca1fb76",
-      "time": "2026-08-19 03:34:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "A vice president of Venezuela's state oil company said Venezuela expects crude production to reach 1.245 mln bpd by end-August."
-    },
-    {
-      "id": "mkt:01a0165e-09f2-7aab-9081-61808d57a3c4",
-      "time": "2026-08-19 03:34:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The UAE Ministry of Defense said two ballistic missiles launched by Iran were aimed at maritime traffic."
-    },
-    {
-      "id": "5046456",
-      "time": "2026-08-19 03:33:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉國家石油公司（PDVSA）表示，委內瑞拉原油產量到月底將達到124.5萬桶/日。"
     }
   ]
 }
