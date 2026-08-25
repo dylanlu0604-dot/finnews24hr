@@ -1,7 +1,35 @@
 {
   "date": "2026-08-26",
-  "count": 46,
+  "count": 49,
   "items": [
+    {
+      "id": "5058393",
+      "time": "2026-08-26 00:54:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：伊朗領導層如今承認了全世界都看得到的事實，壓力正在奏效。"
+    },
+    {
+      "id": "mkt:01a039d8-46d7-7aab-9117-5804160527cb",
+      "time": "2026-08-26 00:54:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to Axios, two US officials confirmed Trump’s earlier claim that sea mines in the Strait of Hormuz were fully cleared. The US Navy has cleared the central navigation channel between Iran and Oman used by merchant vessels."
+    },
+    {
+      "id": "5058392",
+      "time": "2026-08-26 00:50:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：兩名直接參與霍爾木茲海峽掃雷事務的美國官員證實了特朗普的宣告，並表示美國海軍已清理了位於海峽中部、阿曼與伊朗之間的船舶交通分離區。"
+    },
     {
       "id": "5058391",
       "time": "2026-08-26 00:46:56",

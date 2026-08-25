@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-26 00:48:17",
-  "count": 16505,
+  "updated": "2026-08-26 00:56:29",
+  "count": 16503,
   "items": [
+    {
+      "id": "5058393",
+      "time": "2026-08-26 00:54:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：伊朗領導層如今承認了全世界都看得到的事實，壓力正在奏效。"
+    },
+    {
+      "id": "mkt:01a039d8-46d7-7aab-9117-5804160527cb",
+      "time": "2026-08-26 00:54:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to Axios, two US officials confirmed Trump’s earlier claim that sea mines in the Strait of Hormuz were fully cleared. The US Navy has cleared the central navigation channel between Iran and Oman used by merchant vessels."
+    },
+    {
+      "id": "5058392",
+      "time": "2026-08-26 00:50:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：兩名直接參與霍爾木茲海峽掃雷事務的美國官員證實了特朗普的宣告，並表示美國海軍已清理了位於海峽中部、阿曼與伊朗之間的船舶交通分離區。"
+    },
     {
       "id": "5058391",
       "time": "2026-08-26 00:46:56",
@@ -149213,52 +149241,6 @@
         "MKT News"
       ],
       "text": "【Anthropic draws bank demand; pre-IPO revolving credit may top $10bn】Anthropic is expanding a planned revolving credit facility ahead of an IPO, with the size now expected to exceed about $10bn, sources said. The AI firm, developer of Claude, has pitched higher allocations to banks: lead arrangers were asked to commit roughly $1.25bn each, a second tier about $1.0bn, and less-active banks around $0.75bn or lower."
-    },
-    {
-      "id": "5046378",
-      "time": "2026-08-19 00:54:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收跌171美元，報13986美元/噸。LME期鋁收跌46美元，報3220美元/噸。LME期鋅收跌76美元，報3693美元/噸。LME期鉛收跌1美元，報1887美元/噸。LME期鎳收跌83美元，報16751美元/噸。LME期錫收跌951美元，報54819美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:01a015cb-2406-7aab-907f-5ee8b29d1b7b",
-      "time": "2026-08-19 00:53:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources report a large explosion at a factory in Finland near the Russian border."
-    },
-    {
-      "id": "5046377",
-      "time": "2026-08-19 00:52:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯邊境附近的芬蘭工廠發生劇烈爆炸。"
-    },
-    {
-      "id": "mkt:01a015c8-cd9f-7aab-907f-52a5c8854459",
-      "time": "2026-08-19 00:51:16",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Israel strikes Abu Zuhur airbase in NW Syria; Turkey denies troop presence, US expresses concern】Axios, citing an Israeli official, reported Israel struck the Abu Zuhur airbase in northwest Syria to prevent Turkey from expanding military facilities in the area. A Turkish official denied Turkish forces were stationed at the base and accused Israel of fabricating a pretext for the attack; the United States said it was deeply concerned."
-    },
-    {
-      "id": "mkt:01a015c6-42da-7aab-907f-4ade61f58e41",
-      "time": "2026-08-19 00:48:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Axios, citing White House sources, reports the White House will hold an event tomorrow with Trump and several tech leaders; prediction-market firms were not invited and will not attend."
     }
   ]
 }
