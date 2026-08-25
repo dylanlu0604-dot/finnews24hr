@@ -1,7 +1,331 @@
 {
   "date": "2026-08-25",
-  "count": 721,
+  "count": 756,
   "items": [
+    {
+      "id": "te:economy:577724",
+      "time": "2026-08-25 09:53:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "RBA Flags Inflation Risks Despite Policy Hold: August Meeting Minutes — Australia’s inflation has eased from its March peak, with underlying price growth slightly lower than in late 2025, the Reserve Bank's August minutes showed. However, board members judged inflation “too high” and excess demand persistent. Meanwhile, financial conditions were seen as somewhat restrictive after earlier hikes. Staff projected inflation would only gradually return to target by late 2027, with risks skewed upward. Arguments for a 25-bp hike cited upside risks: Middle East conflict driving oil prices, firms passing costs more fully, stronger AI/data-center investment, resilient demand, and weak productivity. The case for holding steady rested on signs policy was already restrictive, inflation slightly below forecast, and unemployment rising. Downside risks included faster labor easing, weaker demand, and housing drag. Ultimately, policymakers left rates unchanged but reaffirmed readiness to act if upside risks materialise."
+    },
+    {
+      "id": "mkt:01a0369f-8d38-7aab-9102-e20705dc71ef",
+      "time": "2026-08-25 09:53:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Why 11 US aircraft carriers are still not enough】Retired U.S. Navy Vice Admiral John Miller says the U.S. fleet of 11 aircraft carriers falls short of demand because only a handful are combat-ready at any time. Maintenance is a key bottleneck: at least one carrier is typically in a multi-year refuel and overhaul while routine maintenance and training take others offline. Miller applies a rough divide-by-three readiness rule—of nine available carriers, three are deployable, three have just returned and three are preparing to deploy. That readiness squeeze prompted the redeployment of the only Asia-based carrier, USS George Washington, to replace USS Abraham Lincoln and operate with USS George H.W. Bush in the Middle East; two carrier strike groups there increase local firepower but reduce U.S. presence elsewhere."
+    },
+    {
+      "id": "5056508",
+      "time": "2026-08-25 09:52:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【威勝資訊中標尚比亞ZESCO分散式能源管理系統專案】據威勝資訊訊息，公司收到尚比亞國家電力公司ZESCO授標通知，中標分散式能源資源管理系統（DERMS）專案，專案總金額495萬美元。"
+    },
+    {
+      "id": "5056507",
+      "time": "2026-08-25 09:52:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司今年還將推出其首款配備螢幕的智慧家居裝置。該產品將採用面部識別技術來識別使用者並顯示個性化內容。此外，該公司還在準備推出新款 Apple TV 機頂盒和 HomePod mini 智慧音箱。今年推出的其他新品還包括配備 OLED 螢幕的全新 iPad mini。這項技術（即有機發光二極體）能夠提供比以往平板電腦更清晰的畫面，使其更接近高階 iPad 的水平。新款 iPad mini 預計將於 10 月底上市。此外，還有其他型號的Mac電腦即將推出，不過可能還要過一段時間才會上市。其中包括一款擁有全新配色方案的iMac，以及一款升級版的入門級MacBook Pro。它們都將搭載新一代的M6晶片。"
+    },
+    {
+      "id": "5056506",
+      "time": "2026-08-25 09:52:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5056505",
+      "time": "2026-08-25 09:52:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果據悉還在準備推出一系列新款 Apple Watch，這些新款手錶將進行一些細微的改動，包括升級健身追蹤功能，以及為 Series 12 機型提供陶瓷錶殼選項。此外，該公司計劃最早在 9 月份的產品釋出會上推出新款 AirPods。"
+    },
+    {
+      "id": "5056504",
+      "time": "2026-08-25 09:51:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1093億元。"
+    },
+    {
+      "id": "5056503",
+      "time": "2026-08-25 09:50:45",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【蘋果據悉準備推出兩年來首款全新Mac mini】據知情人士透露，蘋果公司正準備推出近兩年來首款新版 Mac mini 臺式電腦。知情人士透露，新款臺式電腦最早可能在未來幾天內亮相，其釋出時間可能會早於9月份的新款iPhone釋出會。這款升級版裝置是今年下半年即將推出的一系列新產品的一部分，其中包括新款 Apple Watch、AirPods 和一款配備面部識別螢幕的智慧家居裝置，該裝置將依靠面部識別技術來識別使用者。"
+    },
+    {
+      "id": "5056502",
+      "time": "2026-08-25 09:49:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘋果準備推出兩年來首款全新Mac mini。"
+    },
+    {
+      "id": "5056501",
+      "time": "2026-08-25 09:49:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【林業概念震盪反彈，青山紙業漲停】林業概念震盪反彈，青山紙業漲停，泉陽泉、福建金森、交投生態、平潭發展、豐林集團、康欣新材等跟漲。"
+    },
+    {
+      "id": "mkt:01a0369b-a9bf-7aab-9102-dba74bd196c3",
+      "time": "2026-08-25 09:49:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext Index losses widened to 2%; Shanghai Composite fell 0.76% and Shenzhen Composite fell 1.52%. AI hardware names led declines. More than 3,100 stocks fell across the market."
+    },
+    {
+      "id": "5056500",
+      "time": "2026-08-25 09:49:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前程無憂《2027屆校招AI人才市場洞察》：頭部演算法崗起薪站穩2.7萬元，需求持續擴容】8月25日訊息，國內人力資源服務商前程無憂51job釋出《2027屆校招AI人才市場洞察》，基於超8000份企業及個人調研資料顯示，AI技術正深度重塑應屆生就業市場。近三成企業已在校招中佈局AI人才，其中56.8%的企業相關需求同比上升。崗位方面，AI應用開發工程師需求最集中（53.9%），而企業招聘時最看重數學與統計基礎（58.9%），其次為機器學習理論與實踐（46.5%）。調研顯示，AI崗位薪酬分化顯著，大模型演算法工程師以月薪中位值27329元領跑，多模態、深度學習等崗位均超26000元，但AI資料訓練師僅8977元，不足頭部崗位三分之一。"
+    },
+    {
+      "id": "5056499",
+      "time": "2026-08-25 09:48:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲4%，現報8498.00元。"
+    },
+    {
+      "id": "5056498",
+      "time": "2026-08-25 09:48:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:01a0369a-c667-7aab-9102-d5b571168e3f",
+      "time": "2026-08-25 09:48:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index losses widened to 1%; HSI down 0.18%."
+    },
+    {
+      "id": "te:markets:577723",
+      "time": "2026-08-25 09:48:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Decline — The benchmark KOSPI fell nearly 2% to around 6,570 on Tuesday, extending losses for a second straight session, as a selloff in global technology shares weighed on Korean chipmakers. Samsung Electronics and SK hynix fell more than 3% and 6%, respectively, amid renewed concerns over the profitability of AI-related investments and ahead of Nvidia’s earnings report, due Wednesday. Additionally, Samsung’s disappointing shareholder-return plan pressured the market after its shares plunged 8.7% on Monday, with investors expecting a larger payout and clearer plans for share buybacks and cancellations. Other notable declines were recorded in SK Square (-6.7%), LG Energy Solution (-3.3%), Hyundai Mobis (-2.3%), LG Electronics (-3.9%), and LS Electric (-3.9%). Separately, attention turned to the Bank of Korea’s policy meeting on Thursday, with a slim majority of economists expecting a 25-basis-point rate hike to 3.00% following last month’s surprise increase to 2.75%."
+    },
+    {
+      "id": "5056497",
+      "time": "2026-08-25 09:48:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲4%，現報9134.00元。"
+    },
+    {
+      "id": "5056496",
+      "time": "2026-08-25 09:48:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京住房公積金月繳存基數上限上調】8月24日，北京住房公積金管理中心釋出《關於2026住房公積金年度繳存有關問題的通知》。在2026住房公積金年度中，住房公積金月繳存基數上限為36348元，對比2025年上調537元；下限為2540元，與2025年度保持一致。按照12%的繳存比例，最高每月可繳存8724元，比去年度的上限增加了130元。      2026住房公積金年度是指2026年7月1日至2027年6月30日，公積金各項基數的調整，也從7月1日開始。2026住房公積金年度繼續執行5%至12%的繳存比例政策。繳存單位可根據自身情況在規定範圍內自主確定具體繳存比例。"
+    },
+    {
+      "id": "5056495",
+      "time": "2026-08-25 09:48:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西14條河流20個站出現超警洪水】據廣西水文中心監測，8月24日8時至25日8時，桂林、梧州、貴港、崇左、賀州、來賓及南寧等市部分地區降大到暴雨，局地大暴雨，日雨量最大的點為桂林市全州縣大西江鎮151.5毫米。廣西共有左江及支流黑水河、憑祥河，明江及支流公安河、派連河、思州河，平而河，北侖河等14條河流20個站出現超警0.37～7.69米的洪水，其中鬱江發生2026年第2號洪水。"
+    },
+    {
+      "id": "5056494",
+      "time": "2026-08-25 09:48:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4547.570點；恒生指數現跌0.171%。"
+    },
+    {
+      "id": "5056493",
+      "time": "2026-08-25 09:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為將釋出新一代三摺疊】8月25日，據華為終端訊息，華為新一代三摺疊旗艦手機華為MateXT 2定檔9月7日釋出，系非凡大師系列三摺疊產品的迭代升級之作，將首發搭載HarmonyOS7。"
+    },
+    {
+      "id": "5056492",
+      "time": "2026-08-25 09:46:48",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【道交法修訂草案新增自動駕駛汽車專章規定】8月25日提請十四屆全國人大常委會會議初次審議的道路交通安全法修訂草案，設定了“自動駕駛汽車的特別規定”專章，明確了自動駕駛汽車和輔助駕駛功能的概念，並明確自動駕駛汽車在自動駕駛功能啟用狀態下發生道路交通安全違法行為的，由自動駕駛汽車生產企業、進口企業接受處理。未啟用自動駕駛功能的自動駕駛汽車和駕駛僅具備輔助駕駛功能的汽車上道路行駛，按照非自動駕駛汽車的規定管理。（新華社）"
+    },
+    {
+      "id": "mkt:01a03699-28a4-7aab-9102-ca91bc32ef32",
+      "time": "2026-08-25 09:46:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China draft adds autonomous-driving chapter to Road Traffic Safety Law】A draft amendment to China’s Road Traffic Safety Law, submitted to the 14th National People’s Congress Standing Committee for first review on Aug. 25, creates a special chapter on autonomous vehicles and defines autonomous and assisted driving functions. The draft says traffic-safety breaches that occur while an autonomous driving function is activated will be enforced against the vehicle’s manufacturer or importer; vehicles with the autonomous function not activated, and vehicles that only have assisted driving, will be regulated as conventional (non-autonomous) vehicles."
+    },
+    {
+      "id": "5056491",
+      "time": "2026-08-25 09:46:36",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【道交法修訂草案明確“盲駕”“暴走團”等治理措施】8月25日提請十四屆全國人大常委會會議初次審議的道路交通安全法修訂草案明確，對撥打或者接聽手持電話、觀看影片等妨礙安全駕駛行為並造成交通事故或者其他嚴重後果的，處200元以上500元以下罰款，可以並處暫扣三個月機動車駕駛證。對於佔用道路影響通行的“暴走團”等，草案規定，未經許可，任何單位或者個人不得佔用道路從事非交通活動。（新華社）"
+    },
+    {
+      "id": "5056490",
+      "time": "2026-08-25 09:46:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，華潤微跌7.06％，拓荊科技跌6.74％，滬矽產業跌6.63％，晶合整合跌5.88％。"
+    },
+    {
+      "id": "5056489",
+      "time": "2026-08-25 09:46:13",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【反跨境腐敗法草案首次提請全國人大常委會會議審議】反跨境腐敗法草案25日提請十四屆全國人大常委會第二十四次會議首次審議。草案共六章四十七條，主要內容包括明確我國反跨境腐敗工作的原則、範圍和主張；明確反跨境腐敗工作機制和職責；強化案件辦理和國際合作；明確企業廉潔合規義務；明確法律責任。(新華社)"
+    },
+    {
+      "id": "5056488",
+      "time": "2026-08-25 09:46:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥板塊區域性異動 冀衡醫藥直線漲停】早盤醫藥板塊區域性異動，冀衡醫藥直線漲停，譽衡藥業觸及漲停，西點藥業、辰欣藥業、隴神戎發、新光藥業等跟漲。"
+    },
+    {
+      "id": "5056487",
+      "time": "2026-08-25 09:46:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.02%，現報3362.459點；上證指數跌0.73%，現報3853.855點；深證成指跌1.52%，現報13585.232點。"
+    },
+    {
+      "id": "5056486",
+      "time": "2026-08-25 09:45:54",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【道交法修訂草案擬調整電動腳踏車限速】8月25日提請十四屆全國人大常委會會議初次審議的道路交通安全法修訂草案，將電動腳踏車在非機動車道內行駛時的最高時速限制從15公里調整為20公里，並且明確規定駕駛電動腳踏車在道路上行駛不得有逆向行駛、超速行駛、違反交通訊號通行以及撥打或者接聽手持電話、觀看影片等行為。同時，草案規定電動腳踏車的駕駛人和乘車人應當按照規定戴安全頭盔。（新華社）"
+    },
+    {
+      "id": "mkt:01a03698-102f-7aab-9102-c31b73f93502",
+      "time": "2026-08-25 09:45:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China draft road-traffic law raises e-bike speed limit to 20 km/h】China's draft amendment to the Road Traffic Safety Law, submitted on Aug. 25 to the 14th National People's Congress Standing Committee for initial review, would raise the maximum speed for electric bicycles in non-motorized lanes from 15 km/h to 20 km/h. The draft also bans riding against traffic, speeding, running traffic signals, and using hand-held phones or watching videos while riding, and requires riders and passengers to wear safety helmets."
+    },
+    {
+      "id": "5056485",
+      "time": "2026-08-25 09:45:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豪恩汽電與Microchip Technology深化ASA-ML生態戰略合作】據豪恩汽電訊息，豪恩汽電與半導體供應商Microchip Technology近期圍繞Automotive SerDes Alliance Motion Link（ASA-ML）生態系統達成技術戰略合作。基於其在ASA-ML高速連線方面的技術路線圖，豪恩汽電已正式加入ASA-ML生態，並將與Microchip攜手，助力在中國及全球市場加速部署標準化、高安全性、高速的座艙內及ADAS感知連線解決方案。"
+    },
+    {
+      "id": "te:markets:577722",
+      "time": "2026-08-25 09:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Mobile Stock Price Hits 5-week Low — China Mobile shares decreased to 80.00 HKD, the lowest since July 2026. Over the past 4 weeks, China Mobile lost 0.18%, and in the last 12 months, it decreased 8.85%."
+    },
+    {
+      "id": "5056484",
+      "time": "2026-08-25 09:44:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方夜間襲擊了俄羅斯克拉斯諾達爾邊疆區的阿菲普斯基煉油廠。"
+    },
+    {
+      "id": "5056483",
+      "time": "2026-08-25 09:44:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【家用電器板塊活躍 石頭科技漲超17%】家用電器板塊活躍，石頭科技漲超17%，奧佳華、海信視像、萊克電氣、新寶股份、海信家電等漲幅居前。"
+    },
+    {
+      "id": "te:economy:577721",
+      "time": "2026-08-25 09:44:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10Y Yield Steadies as Traders Weigh Buybacks — The yield on the 10-year US Treasury note steadied around 4.7% on Tuesday as investors continued to assess the implications of the Treasury Department’s expanded debt buyback program. Reports suggested that the US government may tap its cash account to finance the increased buybacks, marking a shift as such purchases are typically intended to be cash neutral and have been funded through new issuance. Treasury Secretary Scott Bessent on Monday refrained from providing further signals on a potential revamp of US debt management, while reassuring markets that auction sizes for bonds would not be reduced. Meanwhile, markets speculated that the plan may offer only a temporary solution, renewing concerns over the risks of a US debt crisis and dollar weakness. Elsewhere, investors looked ahead to the latest US PCE price index data and Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium this week for fresh clues on the monetary policy outlook."
+    },
     {
       "id": "5056482",
       "time": "2026-08-25 09:43:47",
