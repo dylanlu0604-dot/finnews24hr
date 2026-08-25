@@ -1,7 +1,27 @@
 {
   "date": "2026-08-26",
-  "count": 285,
+  "count": 287,
   "items": [
+    {
+      "id": "te:economy:578039",
+      "time": "2026-08-26 04:50:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Paraguay PPI Falls for Sixth Straight Month — Paraguay’s Producer Price Index fell 1.5% year-on-year in July 2026, following a 1.8% decline in June and marking its sixth consecutive annual decrease. The result was mainly driven by negative contributions from the domestic agriculture and horticulture products category, as well as imported metal products, machinery and equipment, non-metallic transportable goods, and food, beverages and tobacco, textiles and leather products. By product grouping, imported products made the largest negative contribution to the annual result. This was partially offset by a positive contribution from domestic products, supported by favorable performance in non-metallic transportable goods, other manufactured products, live animals and animal products, and food, beverages and tobacco, textiles and leather products."
+    },
+    {
+      "id": "5058516",
+      "time": "2026-08-26 04:49:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（8月25日）紐約尾盤，現貨黃金漲0.21%，報4662.05美元/盎司，整體呈現出寬底U形走勢，亞太早盤衝高回落、一度漲至4696.83美元。現貨白銀跌0.17%，報68.82美元/盎司。COMEX銅期貨漲1.53%，報6.8095美元/磅，逼近8月6日頂部6.96美元。"
+    },
     {
       "id": "mkt:01a03aac-e117-7aab-911a-947bb672b15f",
       "time": "2026-08-26 04:46:43",
