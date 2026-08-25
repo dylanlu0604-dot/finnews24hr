@@ -1,7 +1,105 @@
 {
-  "updated": "2026-08-26 01:42:18",
-  "count": 16511,
+  "updated": "2026-08-26 01:54:32",
+  "count": 16518,
   "items": [
+    {
+      "id": "mkt:01a03a0e-7063-7aab-9118-3223826024c8",
+      "time": "2026-08-26 01:53:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said he will work with the Small Business Administration (SBA) to re-establish a \"Small Defense Contractors Committee\"."
+    },
+    {
+      "id": "5058422",
+      "time": "2026-08-26 01:52:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：美國國防部將與小企業管理局合作推進精簡版戰爭工廠委員會相關工作。"
+    },
+    {
+      "id": "5058421",
+      "time": "2026-08-26 01:52:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：美國將重啟規模精簡的戰爭工廠委員會。"
+    },
+    {
+      "id": "mkt:01a03a0b-ccdc-7aab-9118-29e5e920edd3",
+      "time": "2026-08-26 01:50:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SLB.N",
+        "Impact bullish"
+      ],
+      "text": "Sources said Schlumberger (SLB.N) has signed a services contract with Venezuelan state oil company PDVSA granting the company access to Venezuelan oilfield data."
+    },
+    {
+      "id": "5058420",
+      "time": "2026-08-26 01:50:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：斯倫貝謝（SLB.N）與委內瑞拉國有石油公司PDVSA簽署服務合同，得以獲取委內瑞拉油田資料。"
+    },
+    {
+      "id": "mkt:01a03a08-ea79-7aab-9118-272f9faedc83",
+      "time": "2026-08-26 01:47:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【CME launches U.S. zinc futures】CME Group said the first trade in its U.S. zinc futures was executed on CME Globex on Aug 20 between Glencore and Trafigura for September delivery. The exchange said it adjusted the contract in March 2026 to a U.S. duty-paid delivery model at client request, creating an exchange-traded, centrally cleared tool to manage U.S. zinc price volatility and improve hedging for producers, consumers and intermediaries. Kim Henniger, CME’s global head of metals, said geopolitical fragmentation is reshaping supply chains, making regional price signals more important, and the new contract is intended to help market participants manage U.S. zinc risk exposure."
+    },
+    {
+      "id": "5058419",
+      "time": "2026-08-26 01:46:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：自發布首款定製推理晶片Jalapeño以來，我們一直在對該晶片及其配套系統開展測試。測試結果取得重大進展：單位功耗可輸出更高智慧能力，響應速度更快。該單一架構在不犧牲能效的前提下，同時實現更高吞吐量與更低延遲。Jalapeño將帶來更快的ChatGPT響應速度、反應更靈敏的Codex會話與智慧體，並且在需求持續增長的情況下保障服務穩定可用。"
+    },
+    {
+      "id": "5058418",
+      "time": "2026-08-26 01:45:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：中央司令部已清除霍爾木茲海峽進出航道的水雷，打通另一條通道，海上通行量隨之增加。"
+    },
+    {
+      "id": "mkt:01a03a06-352f-7aab-9118-18d2781f9446",
+      "time": "2026-08-26 01:44:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches an Admin Plugin for ChatGPT Work and Codex."
+    },
+    {
+      "id": "mkt:01a03a05-8b17-7aab-9118-12e0e14daa00",
+      "time": "2026-08-26 01:43:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fars News reported Iran's deputy oil minister said two new refineries coming online before year-end will raise Iran's gasoline output by 12 mln liters per day."
+    },
+    {
+      "id": "5058417",
+      "time": "2026-08-26 01:43:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加利福尼亞州總檢察長表示，目前尚未安排與派拉蒙天空舞傳媒進行和解談判。"
+    },
     {
       "id": "5058416",
       "time": "2026-08-26 01:41:26",
@@ -149303,42 +149401,6 @@
         "其他"
       ],
       "text": "OpenAI 在 Hugging Face 資料洩露事件後調整人工智慧安全機制。"
-    },
-    {
-      "id": "5046399",
-      "time": "2026-08-19 01:53:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面報道：調查顯示，有關伊朗向阿聯酋發動導彈襲擊的說法尚無證據證實；伊朗只承認自己實際實施過的行動。"
-    },
-    {
-      "id": "mkt:01a01601-6253-7aab-907f-f93157abb5cf",
-      "time": "2026-08-19 01:53:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported Rep. Buddy Carter has held discussions with the White House about serving as the next FDA commissioner, and sources said he is interested in the post."
-    },
-    {
-      "id": "mkt:01a015ff-4def-7aab-907f-f410595902a1",
-      "time": "2026-08-19 01:50:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran foreign minister: recent clashes show countries without US bases suffer less damage】On the 18th, Iran's foreign minister Araqchi said recent clashes show countries without US military bases suffer less damage, and that US bases cannot shield US interests from strikes by resistance forces. He said Qatar and Pakistan played effective mediating roles between Iran and the US and that Tehran's ties with Qatar are currently very good. He urged a new Middle East security concept based on \"common security\" and addressing economic imbalances, warning the Persian Gulf cannot achieve lasting peace without comprehensive cooperation."
-    },
-    {
-      "id": "5046398",
-      "time": "2026-08-19 01:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長：近期衝突表明未設美軍基地的國家受損害更小】當地時間18日，伊朗外交部長阿拉格齊表示，近期發生的衝突表明，沒有設立美軍基地的國家受到的損害更小，而美軍基地甚至無法保護自身利益免受抵抗力量的打擊。阿拉格齊指出，卡達和巴基斯坦在伊朗與美國之間發揮了有效的斡旋作用，目前德黑蘭與卡達的關係處於非常良好的階段。他強調，中東地區的新安全觀必須建立在“共同安全”和解決經濟不平衡問題的基礎上，如果沒有全方位的合作，波斯灣地區將無法實現持久和平。（央視新聞）"
     }
   ]
 }
