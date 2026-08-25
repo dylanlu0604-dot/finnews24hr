@@ -1,7 +1,15 @@
 {
   "date": "2026-08-26",
-  "count": 267,
+  "count": 268,
   "items": [
+    {
+      "id": "mkt:01a03a9d-bd03-7aab-911a-5d414653bdc8",
+      "time": "2026-08-26 04:30:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister Gharibabadi said if the US first meets its obligations, Iran could fulfill its commitments in under a day."
+    },
     {
       "id": "mkt:01a03a99-62e8-7aab-911a-57a09ba3a184",
       "time": "2026-08-26 04:25:25",
