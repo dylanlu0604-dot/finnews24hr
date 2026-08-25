@@ -1,7 +1,44 @@
 {
   "date": "2026-08-25",
-  "count": 531,
+  "count": 535,
   "items": [
+    {
+      "id": "5056361",
+      "time": "2026-08-25 08:35:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "阿波羅將在東京聘請高盛資深銷售Nagamine。"
+    },
+    {
+      "id": "mkt:01a03655-10bb-7aab-9101-00badf9a7af7",
+      "time": "2026-08-25 08:32:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures topped $4,750/oz, up 0.85% on the day."
+    },
+    {
+      "id": "5056360",
+      "time": "2026-08-25 08:32:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4750美元/盎司，日內漲1.12%。"
+    },
+    {
+      "id": "mkt:01a03654-7dd0-7aab-9100-f9279344d5d1",
+      "time": "2026-08-25 08:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's finance minister met today with provincial and territorial counterparts and CEOs of major financial institutions and said they are united and committed to protecting Canada, its workers, industries and sovereignty."
+    },
     {
       "id": "5056359",
       "time": "2026-08-25 08:30:40",
