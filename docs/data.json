@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-25 22:20:06",
-  "count": 16537,
+  "updated": "2026-08-25 22:24:25",
+  "count": 16532,
   "items": [
+    {
+      "id": "5058282",
+      "time": "2026-08-25 22:23:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電科數字：2026年上半年營收52.06億元 淨利同比降36.54%】電科數字公告稱，2026年上半年實現營業收入52.06億元，同比增長7.23%；歸屬於上市公司股東的淨利潤6829.60萬元，同比下降36.54%；歸屬於上市公司股東的扣除非經常性損益的淨利潤7017.04萬元，同比下降33.02%。基本每股收益0.0837元，同比下降35.96%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5058281",
+      "time": "2026-08-25 22:22:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行獲准在沙烏地阿拉伯設立地區總部。"
+    },
+    {
+      "id": "te:markets:577994",
+      "time": "2026-08-25 22:22:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Little Changed as Banks Report Earnings — The S&P/TSX Composite Index was little changed near 36,500 on Tuesday amid a batch of earnings reports from major banks. BMO (-0.4%) reported higher third-quarter profit, driven by strong performance in its capital markets business. Scotiabank (+3%) also posted higher third-quarter profit, helped by increased interest income. National Bank (+0.3%) is due to report earnings tomorrow, while RBC, TD Bank (+0.3%) and CIBC (+0.5%) report on Thursday. Focus also remains on US-Canada trade tensions after President Donald Trump on Monday threatened to raise US tariffs on all Canadian cars, trucks and automotive parts to 50% starting January 1st, 2027. Still, manufacturers rebounded after tumbling yesterday, with Magna International, BRP and Linamar rising over 0.5%. Meanwhile, oil prices fell despite the latest US sanctions threat against Iran, weighing on energy stocks. Canadian Natural and Suncor lost over 1%, while Imperial Oil and Cenovus shed about 2%."
+    },
+    {
+      "id": "mkt:01a0394c-12de-7aab-9115-53546435c287",
+      "time": "2026-08-25 22:21:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7"
+      ],
+      "text": "【OpenAI says in-house Jalapeno chip outperformed NVIDIA GB300 in tests】Richard Ho, head of OpenAI's chip business, said the company's new Jalapeno AI processor outperformed NVIDIA (NVDA.O)'s GB300 in internal tests on AI work per watt and response latency. OpenAI said GB300 was the leading product in the public benchmark suite used for comparison. Jalapeno was developed with Broadcom (AVGO.O); the partners announced the collaboration last year and said in June the processor was completed in record time."
+    },
     {
       "id": "5058280",
       "time": "2026-08-25 22:18:40",
@@ -149434,87 +149475,6 @@
         "其他"
       ],
       "text": "英國海事組織稱，8月15日收到霍爾木茲發生事件的報告。船隻右舷受損，一名船員傷亡。目前沒有環境影響報告。有關當局正在調查。"
-    },
-    {
-      "id": "mkt:01a01542-18ea-7aab-907c-f3862f8c309c",
-      "time": "2026-08-18 22:24:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "France's budget minister said after a tax-data leak that France will notify affected companies next week."
-    },
-    {
-      "id": "5046249",
-      "time": "2026-08-18 22:23:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國預算部長：稅務機構遭駭客攻擊後，財政部將使用人工智慧測試網路安全漏洞。"
-    },
-    {
-      "id": "5046248",
-      "time": "2026-08-18 22:23:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "GSK：NUCALA（美泊利珠單抗）獲加拿大藥品管理局積極報銷推薦，用於成人慢性阻塞性肺疾病治療。"
-    },
-    {
-      "id": "5046247",
-      "time": "2026-08-18 22:23:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "META PLATFORMS股價觸及兩週多來低點，最新報跌3.8%。"
-    },
-    {
-      "id": "mkt:01a01541-3a98-7aab-907c-ed6d7b29f763",
-      "time": "2026-08-18 22:23:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) shares hit a two-week low, trading down 3.8%."
-    },
-    {
-      "id": "5046246",
-      "time": "2026-08-18 22:22:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "家得寶股價上漲1%，因第二季度業績超出預期。"
-    },
-    {
-      "id": "5046245",
-      "time": "2026-08-18 22:22:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：法國將於下週起通知企業有關資料洩露事件的資訊。"
-    },
-    {
-      "id": "mkt:01a01540-2586-7aab-907c-e141a30550fe",
-      "time": "2026-08-18 22:22:00",
-      "tags": [
-        "MKT News",
-        "HD.N",
-        "Impact bullish"
-      ],
-      "text": "Home Depot (HD.N) shares rose 1% after second-quarter results beat expectations."
-    },
-    {
-      "id": "5046244",
-      "time": "2026-08-18 22:21:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國預算部長阿米爾就稅務資料洩露事件發表講話。"
     }
   ]
 }

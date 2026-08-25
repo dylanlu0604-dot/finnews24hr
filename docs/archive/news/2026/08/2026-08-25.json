@@ -1,7 +1,48 @@
 {
   "date": "2026-08-25",
-  "count": 3204,
+  "count": 3208,
   "items": [
+    {
+      "id": "5058282",
+      "time": "2026-08-25 22:23:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電科數字：2026年上半年營收52.06億元 淨利同比降36.54%】電科數字公告稱，2026年上半年實現營業收入52.06億元，同比增長7.23%；歸屬於上市公司股東的淨利潤6829.60萬元，同比下降36.54%；歸屬於上市公司股東的扣除非經常性損益的淨利潤7017.04萬元，同比下降33.02%。基本每股收益0.0837元，同比下降35.96%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5058281",
+      "time": "2026-08-25 22:22:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行獲准在沙烏地阿拉伯設立地區總部。"
+    },
+    {
+      "id": "te:markets:577994",
+      "time": "2026-08-25 22:22:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Little Changed as Banks Report Earnings — The S&P/TSX Composite Index was little changed near 36,500 on Tuesday amid a batch of earnings reports from major banks. BMO (-0.4%) reported higher third-quarter profit, driven by strong performance in its capital markets business. Scotiabank (+3%) also posted higher third-quarter profit, helped by increased interest income. National Bank (+0.3%) is due to report earnings tomorrow, while RBC, TD Bank (+0.3%) and CIBC (+0.5%) report on Thursday. Focus also remains on US-Canada trade tensions after President Donald Trump on Monday threatened to raise US tariffs on all Canadian cars, trucks and automotive parts to 50% starting January 1st, 2027. Still, manufacturers rebounded after tumbling yesterday, with Magna International, BRP and Linamar rising over 0.5%. Meanwhile, oil prices fell despite the latest US sanctions threat against Iran, weighing on energy stocks. Canadian Natural and Suncor lost over 1%, while Imperial Oil and Cenovus shed about 2%."
+    },
+    {
+      "id": "mkt:01a0394c-12de-7aab-9115-53546435c287",
+      "time": "2026-08-25 22:21:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7"
+      ],
+      "text": "【OpenAI says in-house Jalapeno chip outperformed NVIDIA GB300 in tests】Richard Ho, head of OpenAI's chip business, said the company's new Jalapeno AI processor outperformed NVIDIA (NVDA.O)'s GB300 in internal tests on AI work per watt and response latency. OpenAI said GB300 was the leading product in the public benchmark suite used for comparison. Jalapeno was developed with Broadcom (AVGO.O); the partners announced the collaboration last year and said in June the processor was completed in record time."
+    },
     {
       "id": "5058280",
       "time": "2026-08-25 22:18:40",
