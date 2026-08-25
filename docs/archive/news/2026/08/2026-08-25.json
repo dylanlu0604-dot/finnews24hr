@@ -1,7 +1,163 @@
 {
   "date": "2026-08-25",
-  "count": 756,
+  "count": 774,
   "items": [
+    {
+      "id": "mkt:01a036a7-4482-7aab-9103-0fcb01bff11d",
+      "time": "2026-08-25 10:02:06",
+      "tags": [
+        "MKT News",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple may launch new Mac mini ahead of September event】Apple is preparing its first updated Mac mini in nearly two years and could unveil it as soon as the next few days, potentially before its September product event, reported Mark Gurman. Apple has tested versions with M5 and M6 chips. Demand for the current Mac mini has surged as a popular platform for on-device AI workloads, while memory chip shortages are constraining inventory. Apple has pledged to begin Mac mini production in Houston in late 2026; CEO Tim Cook recently toured the facility with Trump administration officials, linking the product to US reshoring efforts."
+    },
+    {
+      "id": "mkt:01a036a6-c086-7aab-9103-01214112de26",
+      "time": "2026-08-25 10:01:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China Consumers Association advises against relying solely on AI-generated content for pricing, contracts, after-sales and legal information】China Consumers Association issued an advisory urging consumers to treat generative AI as informational assistance only and not to rely solely on AI-generated content when making decisions on pricing, fees, contract terms, after-sales service or legal liability. It recommends verifying such material through service providers’ official channels, contract texts, regulators or other authoritative sources. The statement notes LLM-based generative AI is rapidly being embedded in consumer scenarios and can improve convenience and efficiency, but its outputs carry uncertainty and may be inaccurate, imprecise or inconsistent with actual commitments."
+    },
+    {
+      "id": "5056521",
+      "time": "2026-08-25 10:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中消協釋出消費提示：使用人工智慧服務需謹防誤導】中國消費者協會今天（25日）釋出人工智慧服務消費提示，提醒廣大消費者理性認識通用生成式人工智慧的資訊輔助和參考屬性，對涉及價格費用、合同條款、售後服務、法律責任等重要消費資訊，不宜僅依據人工智慧生成內容作出決定，應透過經營者官方渠道、合同文字、監管部門及其他權威渠道進行核實確認。目前，以大語言模型為核心的生成式人工智慧技術正加速融入消費生活各類場景。人工智慧在提升消費便利和服務效率的同時，因資訊生成具有一定不確定性，可能出現資訊不準確、表述不嚴謹、承諾與實際情況不一致等問題。（央視新聞）"
+    },
+    {
+      "id": "5056520",
+      "time": "2026-08-25 10:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇宿遷產品質量監督檢驗所通報白菜抽檢情況：目前所有樣品檢測均合格】“宿遷質檢”訊息，江蘇宿遷市產品質量監督檢驗所8月25日通報抽檢情況： 近期，我所開展白菜、金針菇等重點食用農產品風險抽檢。截至8月24日16時，全市共抽檢農批、農貿市場69家，完成快檢284批次、法檢17批次，目前所有樣品檢測結果均合格。 我所將持續加強重點食用農產品風險抽檢，切實保障群眾健康安全。"
+    },
+    {
+      "id": "mkt:01a036a5-7c2c-7aab-9102-fb54d3cbc02f",
+      "time": "2026-08-25 10:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【11th APEC Food Security Ministerial meets in Hangzhou, focuses on agri‑tech and digital agriculture】The 11th APEC Food Security Ministerial convened in Hangzhou, China, this morning. Senior representatives from 21 APEC economies, the APEC Secretariat and the UN Food and Agriculture Organization held policy dialogue on high‑quality agricultural and rural development, agricultural science and technology innovation, and digital agriculture to strengthen food security."
+    },
+    {
+      "id": "5056519",
+      "time": "2026-08-25 09:59:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【跨境支付概念走強 楚天龍漲停】跨境支付概念走強，楚天龍漲停，新晨科技漲超15%，海聯金匯、拉卡拉、信雅達、南天資訊等漲幅居前。"
+    },
+    {
+      "id": "5056518",
+      "time": "2026-08-25 09:58:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第十一屆APEC糧食安全部長級會議舉行 聚焦農業科技創新等議題】第十一屆APEC糧食安全部長級會議今天上午在浙江杭州舉行。作為APEC“中國年”系列活動之一，來自APEC21個經濟體和APEC秘書處、聯合國糧農組織等國際機構的高階別代表，將圍繞亞太區域農業農村高質量發展、科技創新和數字農業賦能糧食安全等議題，開展政策對話。"
+    },
+    {
+      "id": "mkt:01a036a3-aaf9-7aab-9102-f5e9aeb4b146",
+      "time": "2026-08-25 09:58:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Apple (AAPL.O) is preparing its first Mac mini update in nearly two years; the new desktop is expected to appear within days and could arrive before a September product event, people familiar with the matter said."
+    },
+    {
+      "id": "5056517",
+      "time": "2026-08-25 09:57:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風電裝置板塊短線拉昇】風電裝置板塊短線拉昇，雙一科技漲超10%，德力佳、明陽智慧、威力傳動、盤古智慧、宏德股份等跟漲。"
+    },
+    {
+      "id": "5056516",
+      "time": "2026-08-25 09:57:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐科億成立新公司 含AI軟體開發業務】企查查APP顯示，近日，浙江歐刃數控刀具有限公司成立，經營範圍包含：人工智慧應用軟體開發；新材料技術推廣服務；新材料技術研發；金屬製品研發等。企查查股權穿透顯示，該公司由歐科億(688308)全資持股。"
+    },
+    {
+      "id": "5056515",
+      "time": "2026-08-25 09:57:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲5%，現報8000.00元。"
+    },
+    {
+      "id": "5056514",
+      "time": "2026-08-25 09:56:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正裕工業等成立科技新公司 含多項AI業務】企查查APP顯示，近日，深圳躍幾科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由正裕工業(603089)等共同持股。"
+    },
+    {
+      "id": "5056513",
+      "time": "2026-08-25 09:56:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【數字貨幣概念逆勢活躍 新晨科技、數字認證漲超10%】早盤數字貨幣概念逆勢活躍，新晨科技、數字認證漲超10%，此前楚天龍3連板，艾融軟體、海聯金匯、拉卡拉、中油資本漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a036a2-3682-7aab-9102-e9c0487a425b",
+      "time": "2026-08-25 09:56:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share digital-currency names active: Xinchen Technology and Digital Certification rose over 10%; Chutianlong earlier posted a three-day limit-up streak. Airong Software, Hailian Jinhui, Lakala and Zhongyou Capital were also among the top gainers."
+    },
+    {
+      "id": "5056511",
+      "time": "2026-08-25 09:55:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲3%，現報5858.00元。"
+    },
+    {
+      "id": "te:markets:577726",
+      "time": "2026-08-25 09:55:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Hit Near 1-Month Low — The Shanghai Composite fell 0.5% to 3,863 on Tuesday, while the Shenzhen Component dropped 1.2% to 13,622, with both benchmarks sinking to their lowest levels in nearly a month as a broad selloff in technology stocks weighed on sentiment across Asian markets. Investors continued to trim exposure to the sector ahead of a pivotal earnings week, with Nvidia’s results on Wednesday expected to test confidence in the artificial intelligence trade. In China, Eoptolink Technology declined 1.7% even after reporting a 100.34% surge in annual revenue and a 90.98% jump in net profit. Other major decliners included SMIC (-1.7%), Hygon Information Technology (-1.7%), and Zhongji Innolight (-2.3%). Meanwhile, investors also turned their attention to the National People's Congress Standing Committee meeting, which runs from August 25 to August 28, for potential policy signals aimed at supporting growth amid slowing economic momentum."
+    },
+    {
+      "id": "5056510",
+      "time": "2026-08-25 09:55:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【煤炭板塊震盪走高 上海能源2連板】煤炭板塊震盪走高，上海能源2連板，鄭州煤電、遼寧能源、山西焦化、晉控煤業等漲幅居前。"
+    },
+    {
+      "id": "5056509",
+      "time": "2026-08-25 09:54:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【槓桿ETF降溫 韓國資管推出三星SK海力士股債混合ETF】針對以三星電子、SK海力士為底層標的的單隻個股槓桿ETF監管加強過去一個多月，資產管理公司接連推出半導體大盤股疊加債券的混合類ETF產品。 高風險槓桿產品交易規模大幅萎縮，市場推出這類產品，意在承接半導體板塊的投資需求，同時透過債券降低組合波動，豐富投資者的選擇。 韓國交易所25日訊息，韓國投資信託運營的ACE三星電子SK海力士+債券混合50、未來資產資產管理的TIGER三星電子SK海力士美債混合50、三星資產運營的KODEX韓國TDF2065主動合格型，共計3只ETF於今日在有價證券市場同步上市。上市後韓國境內ETF總數量增至1164只。"
+    },
     {
       "id": "te:economy:577724",
       "time": "2026-08-25 09:53:41",
