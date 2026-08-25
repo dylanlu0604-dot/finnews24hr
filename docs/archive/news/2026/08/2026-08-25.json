@@ -1,7 +1,503 @@
 {
   "date": "2026-08-25",
-  "count": 1259,
+  "count": 1311,
   "items": [
+    {
+      "id": "mkt:01a0378f-f6b8-7aab-9108-b1af5b29cc1b",
+      "time": "2026-08-25 14:16:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Sony Financial economist: Prime Minister Sanae Takaichi's expansionary fiscal policy remains major JGB risk】Takayuki Miyajima, economist at Sony Financial Group, said Prime Minister Sanae Takaichi's expansionary fiscal policy remains one of the biggest risks to the JGB market. He noted the US government has voiced concern over a weak yen and rising JGB yields, making it unlikely Takaichi's administration would press ahead with fiscal expansion while disregarding market and Washington objections. Miyajima added that if that expectation proves wrong, the fiscal risk premium could rise again and push the 10-year JGB yield well above 3%."
+    },
+    {
+      "id": "5056848",
+      "time": "2026-08-25 14:14:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安集科技在武漢成立微電子科技公司】企查查APP顯示，近日，武漢安集微電子科技有限公司成立，經營範圍包含：技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由安集科技(688019)全資持股。"
+    },
+    {
+      "id": "5056847",
+      "time": "2026-08-25 14:14:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "滙豐銀行利用外匯存款資金購買至少30億美元的印度主權債券。"
+    },
+    {
+      "id": "5056846",
+      "time": "2026-08-25 14:14:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科力遠在天津成立新能源發展公司】企查查APP顯示，近日，科力遠新能源發展（天津）有限公司成立，經營範圍包含：儲能技術服務；合同能源管理；碳減排、碳轉化、碳捕捉、碳封存技術研發等。企查查股權穿透顯示，該公司由科力遠(600478)全資持股。"
+    },
+    {
+      "id": "5056845",
+      "time": "2026-08-25 14:14:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盒馬在南京成立鮮安美網路科技公司 註冊資本1000萬】天眼查App顯示，近日，南京鮮安美網路科技有限公司成立，法定代表人為肖華，註冊資本1000萬元，經營範圍含食品銷售、酒類經營、出版物零售、餐飲服務、食品網際網路銷售等，由盒馬（中國）有限公司全資持股。"
+    },
+    {
+      "id": "5056844",
+      "time": "2026-08-25 14:13:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本唯一一家高頻交易公司Dharmacapital遷至新加坡】據知情人士透露，日本高頻交易公司Dharmacapital Co.本月初已將所有員工遷至新加坡，這實際上使得東京市內再沒有任何此類公司運營。其中一位知情人士稱，該國與其他亞洲金融中心相比的高稅率，是促使他們決定遷址的部分原因。“搬遷的主要原因是更好地進入全球市場。”公司執行長鹽谷明達在電子郵件中表示，“日本仍然是我們最重要的市場，我們將繼續提供流動性併為高效交易做出貢獻。”"
+    },
+    {
+      "id": "mkt:01a0378d-6969-7aab-9108-ad31bb1b4aa8",
+      "time": "2026-08-25 14:13:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Goldman Sachs brings forward Bank of Japan hike, now expects first move in September】Goldman Sachs analysts have revised their Bank of Japan policy-rate outlook, now expecting the BOJ to deliver a rate hike in September versus their prior forecast for January 2027. They see a further move in January 2027 conditional on strong wage momentum from the 2027 spring wage negotiations (Shunto), and another increase in July 2027 that would lift the policy rate to 1.75%. Goldman says the BOJ is increasingly wary of upside inflation risk above 2%, which raises the odds of earlier tightening, though the bank still judges policy is not behind given underlying inflation remains below 2%."
+    },
+    {
+      "id": "5056843",
+      "time": "2026-08-25 14:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.7%，至9164.60點。"
+    },
+    {
+      "id": "5056842",
+      "time": "2026-08-25 14:12:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車印度公司與Jio-BP達成合作，整合電動汽車充電網路。"
+    },
+    {
+      "id": "mkt:01a0378b-6630-7aab-9108-a5470664d4cb",
+      "time": "2026-08-25 14:11:17",
+      "tags": [
+        "MKT News",
+        "002967.SZ",
+        "Impact mixed"
+      ],
+      "text": "【Guangdian Jiliang says IC segment slowdown due to order–capacity mismatch】Guangdian Jiliang (002967) told analysts at an Aug 24 results briefing that in 1H 2026 orders for its integrated-circuit testing and analysis segment grew faster than revenue, providing backlog support for continued growth. The segment showed a temporary revenue slowdown: revenue rose ~2% YoY in Q1 and recovered to 16.7% YoY in Q2. The company attributed the phase of slower revenue growth to mismatches between market orders and production capacity, with some specialist capacity saturated and new laboratory capacity requiring time to come online."
+    },
+    {
+      "id": "5056841",
+      "time": "2026-08-25 14:11:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威石油天然氣公司於8月22日啟動第三階段第二步天然氣產量控制工作。"
+    },
+    {
+      "id": "5056840",
+      "time": "2026-08-25 14:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本擬設補貼計劃推動石油供應多元化 降低霍爾木茲海峽依賴】據報道，日本經濟產業省專家小組週一批准了一項提案，擬建立補貼計劃，支援企業實現原油和石腦油供應來源多元化。該提案是日本減少對經由霍爾木茲海峽進口石油產品依賴措施的一部分，預計將被納入政府即將制定的能源多元化政策方案。計劃將用於補償企業為避開霍爾木茲海峽而產生的額外成本。日本政府將向所有進口原油和石腦油的企業徵收費用，並利用收取的資金為補貼計劃提供資金。優先透過霍爾木茲海峽採購的企業將承擔更高的費用負擔。與此同時，專家小組還確認，包括石腦油在內的國家石油儲備計劃將在2028年3月底前恢復至相當於90天消費量的水平。"
+    },
+    {
+      "id": "5056839",
+      "time": "2026-08-25 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：華為概念板塊淨流入超84億】截至目前，今日主力資金淨流入64.24億；淨流入華為概念、IDC概念（資料中心）、新能源車等板塊，其中華為概念板塊淨流入84.97億；淨流出有色金屬概念、小金屬、有色金屬等板塊，其中有色金屬概念板塊淨流出63.72億。\n  \n個股方面，N高凱淨買入18.56億元位居首位，亨通光電、英維克、兆易創新主力資金淨流入居前；中際旭創淨賣出19.48億元位居首位，新易盛、洛陽鉬業、北方華創淨流出額居前。"
+    },
+    {
+      "id": "5056838",
+      "time": "2026-08-25 14:09:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電計量回應積體電路板塊收入增速放緩：主要受公司市場訂單與產能匹配不均衡影響】就“公司積體電路業務板塊增速放緩，主要因素是什麼”的提問，廣電計量(002967)8月24日在業績說明會上表示，2026年上半年，公司積體電路測試與分析板塊訂單增速高於收入增速，為後續業務持續增長提供訂單支撐。板塊收入呈現階段性增速放緩特徵，分季度來看，一季度收入同比約增長2%，二季度增速已恢復至16.7%，呈現逐步回升態勢。該板塊收入階段性增速有所放緩，主要受公司市場訂單與產能匹配不均衡影響，部分專業產能飽和，新建實驗室產能釋放需要一定時間。公司現已建成上海、廣州、無錫、東莞積體電路測試實驗室；當前重點推進深圳、長沙、杭州實驗室建設工作，其中深圳實驗室已正式投產，半年度已形成產值貢獻。公司將持續擴充業務產能，並維持相應研發投入，做好創新技術積累。後續公司將透過資本支出與裝置租賃相結合的方式，保障訂單產能消化，有信心保持全年的收入穩定增長。"
+    },
+    {
+      "id": "mkt:01a03789-c18f-7aab-9108-9b413bc3aa62",
+      "time": "2026-08-25 14:09:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Japan to subsidize crude and napatha supply diversification; importers to face fees】METI expert panel approved a proposal to establish a subsidy scheme to help firms diversify crude oil and napatha supply away from the Strait of Hormuz, compensating extra costs of alternative routes, Yomiuri reports. The scheme would be funded by fees levied on all crude and napatha importers, with higher charges for firms that continue to prioritize imports via the Strait of Hormuz. The panel also confirmed Japan’s national petroleum reserve, including napatha, will be rebuilt to the equivalent of 90 days’ consumption by end-March 2028."
+    },
+    {
+      "id": "5056837",
+      "time": "2026-08-25 14:09:03",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：福耀玻璃次季業績遜預期，評級降至“中性”】高盛發表報告，福耀玻璃次季營收及淨利潤遜於預期，原因為海外增長放緩及匯兌損失。該行下調今年每股盈測6%，以反映較低營收及外匯逆風，但上調明後兩年每股盈利預測3%及6%，基於持續的高附加值產品應用及強勁成本控制所支援的更佳利潤率。雖然該行認同公司的利潤率實力及持續的市佔率提升，但預期在環球汽車生產前景停滯及市場滲透率已高的情況下，集團未來營收及淨利潤增長將放緩。該行將福耀玻璃的評級由“買入”下調至“中性”，A股及H股目標價分別下調至65元及64港元。"
+    },
+    {
+      "id": "5056836",
+      "time": "2026-08-25 14:08:50",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【耕地保護和質量提升法草案三審稿增加多方面規定】耕地保護和質量提升法草案8月25日提請十四屆全國人大常委會第二十四次會議第三次審議。草案三審稿進一步增加了有關人才、資金、補償等方面的規定。（新華社）"
+    },
+    {
+      "id": "5056835",
+      "time": "2026-08-25 14:08:28",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【加息預期下 日本央行物價指標企穩於目標水平之上】一項日本央行衡量潛在通脹率的指標仍高於央行2%的目標，支援了9月加息的普遍預期。日本央行週二表示，該消費者價格指數(剔除生鮮食品及各項政府措施的影響)7月同比上漲2.3%。相比之下，上週公佈的政府核心通脹率（剔除生鮮食品）僅增長1.8%。這些資料是行長植田和男3月推出的新價格指標之一，旨在更細緻地反映核心通脹趨勢。這些指標剔除了包括政府汽油和公用事業補貼影響在內的特殊因素，這些因素往往會扭曲整體CPI資料。這一讀數進一步印證了潛在通脹壓力依然強勁的跡象，因為企業正因中東衝突導致能源價格上漲而將更高的投入成本轉嫁給客戶。這也佐證了日本央行關於需要對通脹上行風險保持高度警惕的說法。交易員預計，當日本央行於9月18日公佈下一次政策決定時，加息機率約為80%。"
+    },
+    {
+      "id": "5056834",
+      "time": "2026-08-25 14:07:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報89.63美元/桶。"
+    },
+    {
+      "id": "5056833",
+      "time": "2026-08-25 14:07:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中足聯連開3張罰單！武漢三鎮部分看臺空場1場 津門虎被通報批評】8月25日，中足聯對武漢三鎮俱樂部、武漢賽區以及天津津門虎足球俱樂部開出罰單，武漢三鎮俱樂部被罰款6萬元、部分看臺空場1場，武漢賽區則被罰款2萬元，對天津津門虎足球俱樂部隊予以通報批評。詳情如下："
+    },
+    {
+      "id": "em:qqyh_ozlc:202608253852710397",
+      "time": "2026-08-25 14:07:43",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳洲聯儲稱銀行體系準備金仍高於潛在需求】澳洲聯儲表示，在向新的充裕準備金制度轉型過程中，銀行體系準備金仍高於潛在需求。該行補充稱，將向銀行提供足夠流動性，同時確保利率穩定在官方現金利率附近。"
+    },
+    {
+      "id": "te:economy:577794",
+      "time": "2026-08-25 14:07:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Trade Surplus Smallest in 5 Months — Saudi Arabia’s trade surplus narrowed to SAR 17.3 billion in June 2026 from SAR 19.2 billion in the same month last year, marking the smallest trade surplus since January as exports fell more than imports. Exports dropped 4.5% year-on-year to a five-year low of SAR 87.8 billion, mainly driven by a 2.3% fall in oil exports, which represented 70.4% of total exports. Meanwhile, non-oil exports fell 11.4% amid a decline in shipments of plastic, rubber, and their articles (-12.8%), which accounted for 20.7% of total non-oil exports. Japan was the leading destination for Saudi exports, accounting for 13.2% of the total, followed by South Korea (11.5%) and China (9.4%). Imports dropped 3.0% to a three-month low of SAR 70.4 billion, largely due to a sharp decline in machinery, electrical equipment, and parts (-20.4%). China remained the largest source of imports, making up 22.0% of the total, followed by Switzerland (8.4%) and the US (8.3%)."
+    },
+    {
+      "id": "mkt:01a03787-655b-7aab-9108-9612bd98a283",
+      "time": "2026-08-25 14:06:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi news outlet Hadas reported Iraq's Supreme Judicial Council chairman arrived in Tehran to discuss judicial cooperation."
+    },
+    {
+      "id": "mkt:01a03787-3426-7aab-9108-8afd20ab75fa",
+      "time": "2026-08-25 14:06:42",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【China revises banking supervision law to bolster consumer protections】A draft amendment to China’s Banking Supervision and Management Law was submitted to the National People’s Congress Standing Committee for a second review on Aug. 25. The second-draft tightens obligations on banking supervisory agencies to protect consumers and adds explicit prohibitions on banking institutions and their staff misappropriating client funds, forced bundling or tied selling, breaching suitability rules by offering products beyond customers’ risk capacity, and using improper debt-collection methods. To strengthen legal support for preventing and resolving banking risks, the draft splits Chapter IV into separate Supervisory Measures and Risk Disposal chapters, clarifies central–local responsibilities for bank risk resolution, broadens risk-disposal powers, and specifies how the deposit insurance fund management agency may participate in resolution."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608253852708617",
+      "time": "2026-08-25 14:06:08",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：在香港成功發行300億元央行票據】央行公告，人民銀行於本週二（8月25日）透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，以利率招標方式發行了2026年第七期和第八期央行票據。"
+    },
+    {
+      "id": "5056832",
+      "time": "2026-08-25 14:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【防禦颱風“沙德爾” 福建撤離漁船和海上人員】據中央氣象臺訊息，預計颱風“沙德爾”將於27日夜間至28日上午在浙江中部到福建中部一帶沿海登陸。為了防禦颱風，確保安全，福建撤離海上船舶和養殖漁排上的人員。福建省漁場上的海洋漁船需要在25日18時前進港避風，船上人員撤離上岸；全省沿海養殖漁排上的非勞動力人員在25日18時前全部撤離上岸；勞動力人員在26日12時前全部撤離上岸。"
+    },
+    {
+      "id": "5056831",
+      "time": "2026-08-25 14:04:29",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【我國修改銀行業監督管理法擬加強消費者權益保護】銀行業監督管理法修訂草案8月25日提請全國人大常委會會議二次審議。草案二審稿進一步壓實銀行業監督管理機構保護銀行業消費者的職責，完善相關制度，並針對實踐中存在的銀行業金融機構從業人員挪用客戶資金等違法行為專門予以規制。具體來看，草案二審稿增加規定，國務院銀行業監督管理機構負責統籌銀行業消費者權益保護工作，建立健全銀行業消費者權益保護制度，建立健全銀行業消費者投訴處理機制和消費糾紛多元化解機制。（新華社）"
+    },
+    {
+      "id": "5056830",
+      "time": "2026-08-25 14:03:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：在香港成功發行300億元央行票據】人民銀行於本週二（8月25日）透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，以利率招標方式發行了2026年第七期和第八期央行票據。2026年第七期央行票據（香港）發行量為150億元人民幣，期限為3個月（91天），中標利率為1.3%。2026年第八期央行票據（香港）發行量為150億元人民幣，期限為1年，中標利率為1.35%。"
+    },
+    {
+      "id": "mkt:01a03784-5fff-7aab-9108-80ae61ec42b3",
+      "time": "2026-08-25 14:03:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【PBOC issues CNY30 bln central bank bills in Hong Kong】The PBOC on Aug 25 sold CNY30 bln of central bank bills in Hong Kong via the HKMA CMU bond tender platform. Two tranches: 2026 Series 7 — CNY15 bln, 3-month (91-day), stop-out yield 1.30%; 2026 Series 8 — CNY15 bln, 1-year, stop-out yield 1.35%."
+    },
+    {
+      "id": "5056829",
+      "time": "2026-08-25 14:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗戰爭加劇成本壓力 美國“糧倉” 農民陷40年最嚴重危機】據報道，美國玉米帶農民表示，他們正面臨40年來最嚴重的危機。在特朗普對伊朗發動戰爭後，柴油和化肥成本暴漲，將糧食種植戶推向了生存邊緣。美國農場局聯合會近期的一項研究顯示，如果沒有政府援助，種植包括玉米在內的9種主要農作物的農民，今年將合計虧損310億美元，2027年將合計虧損320億美元。AFBF經濟學家FaithParum表示，今年玉米種植戶每英畝將虧損131美元，2027年虧損將擴大至167美元。大豆種植戶今年每英畝將虧損80美元，明年則將虧損138美元。2027年將成為美國大多數主要大田作物連續第六年出現負回報的一年。不斷加劇的壓力，是中東衝突持續至今已進入第六個月後，對美國腹地造成衝擊的最新跡象。隨著關鍵的中期選舉臨近，這些經濟壓力也正在影響美國農業州的選民情緒。"
+    },
+    {
+      "id": "mkt:01a03783-9ceb-7aab-9108-79f089ae732b",
+      "time": "2026-08-25 14:02:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【FT: US farm belt faces worst crisis in 40 years as diesel, fertilizer costs surge after Trump’s war on Iran】Financial Times reports US corn-belt farmers face their worst crisis in 40 years as diesel and fertilizer costs have spiked after Trump’s war on Iran, squeezing margins. An American Farm Bureau Federation study warns that without government aid growers of nine major crops, including corn, would incur combined losses of about $31bn this year and $32bn in 2027. AFBF economist Faith Parum estimates corn growers will lose $131/acre this year and $167/acre in 2027; soybean growers are projected to lose $80/acre this year and $138/acre next year. 2027 would mark the sixth consecutive year of negative returns for most major row crops. The report says the sixth month of Middle East conflict is transmitting cost shocks to the US heartland and that these economic pressures are influencing voter sentiment in agricultural states ahead of the midterm elections."
+    },
+    {
+      "id": "5056828",
+      "time": "2026-08-25 14:01:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "斯托克歐洲50指數期貨上漲0.26%，德國DAX指數期貨上漲0.23%，法國CAC 40指數期貨上漲0.4%，富時指數期貨上漲0.16%。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608253852702621",
+      "time": "2026-08-25 14:00:55",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國第二季度GDP經調整同比增長1.0%，預估為0.9%。"
+    },
+    {
+      "id": "5056827",
+      "time": "2026-08-25 14:00:17",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國第二季度季調後GDP季率終值 0.3%，預期0.2%，前值0.20%。"
+    },
+    {
+      "id": "mkt:01a03781-467b-7aab-9108-72171e0027fa",
+      "time": "2026-08-25 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany Q2 non-seasonally adjusted GDP final YoY 1.0% vs 0.9% expected; prior 0.9%."
+    },
+    {
+      "id": "mkt:01a03781-44ee-7aab-9108-6b08e5b28c01",
+      "time": "2026-08-25 14:00:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany Q2 GDP final, seasonally adjusted QoQ +0.3% vs est +0.2%; prior +0.2%."
+    },
+    {
+      "id": "mkt:01a03781-3bb6-7aab-9108-62182f197fb5",
+      "time": "2026-08-25 14:00:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany Q2 GDP final, working-day adjusted, YoY 1.0% vs 0.9% expected; prior 0.9%."
+    },
+    {
+      "id": "5056826",
+      "time": "2026-08-25 14:00:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國第二季度未季調GDP年率終值 1%，預期0.9%，前值0.90%。"
+    },
+    {
+      "id": "mkt:01a03781-21d5-7aab-9108-5d1547cff2bc",
+      "time": "2026-08-25 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | GDP Unadjusted Final (YoY) (Q2) | actual 1% | consensus 0.9% | previous 0.90%"
+    },
+    {
+      "id": "mkt:01a03781-21d4-7aab-9108-51273ed2ce10",
+      "time": "2026-08-25 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | GDP Final (QoQ) (Q2) | actual 0.3% | consensus 0.2% | previous 0.20%"
+    },
+    {
+      "id": "mkt:01a03781-21d3-7aab-9108-4e147cc87a86",
+      "time": "2026-08-25 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | GDP WDA Final (YoY) (Q2) | actual 1% | consensus 0.9% | previous 0.90%"
+    },
+    {
+      "id": "mkt:01a03780-f0be-7aab-9108-45f13967fd76",
+      "time": "2026-08-25 13:59:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600172.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share lab-grown diamond stocks surged, with Huanghe Whirlwind hitting the daily limit-up. Huifeng Diamond, Guoji Jinggong, Sifangda and Liliang Diamond were among the top gainers."
+    },
+    {
+      "id": "5056825",
+      "time": "2026-08-25 13:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客西班牙員工即將開始無限期罷工。"
+    },
+    {
+      "id": "5056824",
+      "time": "2026-08-25 13:57:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量1482億元。"
+    },
+    {
+      "id": "5056823",
+      "time": "2026-08-25 13:57:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【米奧會展：子公司將與TikTok Shop舉辦AI出海大會 跨境電商AI作業系統將亮相】8月26日，TikTok Shop與米奧會展(300795)控股子公司奧創天下聯合主辦的以“AI揚帆 億啟歐洲”為主題的AI出海大會將在杭州舉行，奧創天下旗下“星擎”AI影片營銷解決方案與“星帆”跨境電商AI作業系統將亮相，以“B2B獲客+B2C出單”雙引擎組合，卡位AI出海營銷的結構性機遇。"
+    },
+    {
+      "id": "mkt:01a0377d-d6e3-7aab-9108-3f7756197a91",
+      "time": "2026-08-25 13:56:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell back below $84/bbl, down 0.66% intraday."
+    },
+    {
+      "id": "5056822",
+      "time": "2026-08-25 13:55:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報1895.50點。"
+    },
+    {
+      "id": "5056821",
+      "time": "2026-08-25 13:54:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石概念異動拉昇 黃河旋風漲停】午後培育鑽石概念異動拉昇，黃河旋風漲停，惠豐鑽石、四方達、國機精工、夜光明、力量鑽石跟漲。"
+    },
+    {
+      "id": "mkt:01a0377b-d16f-7aab-9108-33dd64030d2b",
+      "time": "2026-08-25 13:54:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【RBA minutes show active rate‑hike discussion; September move possible】Reserve Bank of Australia August minutes show active discussion of further monetary tightening. Marex adviser Ivan Colhoun says the minutes use language — 'upside risks', 'temporary' and 'at this meeting' — that has in past cases preceded policy action within three months. The minutes also note material new information is expected before the next meeting, leaving a September rate move possible but conditional on incoming data."
+    },
+    {
+      "id": "5056820",
+      "time": "2026-08-25 13:53:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻集團在北京成立新科技公司，註冊資本500萬】天眼查App顯示，近日，螞蟻靈波科技（北京）有限公司成立，法定代表人為朱興，註冊資本500萬人民幣，經營範圍含工業機器人銷售，工業機器人安裝、維修，智慧機器人銷售，智慧機器人的研發，餐飲管理，外賣遞送服務等，由螞蟻集團旗下上海螞蟻靈波科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a0377a-daa1-7aab-9108-2af63243ac29",
+      "time": "2026-08-25 13:53:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Enterprise Bankruptcy Law draft for second NPCSC reading tightens restructuring, cross-border rules】China's draft amendment to the Enterprise Bankruptcy Law was submitted to the National People's Congress Standing Committee for a second reading on the 25th. The revised draft refines personal bankruptcy, bankruptcy protection, restructuring and cross-border bankruptcy rules. It adds a dedicated pre-restructuring negotiation section, defining two routes — parties reaching a restructuring agreement or a pre-vote on a preliminary restructuring plan — and specifies the legal consequences for entering formal restructuring from either route. The draft allows parties that lawfully conduct pre-restructuring negotiations to recommend an administrator to people's courts. It also clarifies cross-border bankruptcy provisions, including extraterritorial effect of proceedings, circumstances for Chinese court jurisdiction and mechanisms for international judicial assistance."
+    },
+    {
+      "id": "mkt:01a0377a-0697-7aab-9108-20ca31e8a511",
+      "time": "2026-08-25 13:52:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【No sign MIIT has halted approvals for new lithium‑battery capacity, ministry staff say】A social‑media post on Aug. 24 said multiple industry sources believe approvals for newly proposed lithium‑battery capacity in H2 have largely stopped and short‑term approval activity is stalled. MIIT staff said they found no related notice on the ministry website. Executives at several listed battery and energy companies said they had received no official notice. Liu Yong, secretary‑general of the energy‑storage branch of the China Chemical and Physical Power Industry Association, said he could not verify the report, that a blanket suspension was unlikely, but MIIT could make targeted adjustments."
+    },
     {
       "id": "mkt:01a03778-9e91-7aab-9108-185bc6b2fa39",
       "time": "2026-08-25 13:50:46",
