@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-25 12:14:45",
-  "count": 15958,
+  "updated": "2026-08-25 12:18:58",
+  "count": 15964,
   "items": [
+    {
+      "id": "5056720",
+      "time": "2026-08-25 12:17:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗燃油告急：德黑蘭加油站排起長隊】據報道，在伊朗首都德黑蘭的加油站周圍，人們排起了長隊。一個加油站工作人員表示，人們甚至會在油箱為空之前就趕緊去加油。由於每輛車只能加20升油，因此司機們不得不不斷返回加油站加油。美國的封鎖導致燃料短缺，讓司機們感到恐慌，這表明戰爭對伊朗經濟的壓力正在加劇。伊朗國家機構能源最佳化組織警告稱，德黑蘭正面臨著“嚴重的”石油短缺問題；伊朗目前的汽油供應比每日所需的1.35億升還少1500萬升。該機構負責管理伊朗的石油資源。還有伊朗官員表示，燃料短缺的問題因補貼制度而更加嚴重，在政府補貼下，每升汽油的價格在1.5萬-5萬里亞爾之間。而政府的買入價格則為130萬里亞爾/升。伊朗總統辦公室週一表示，政府打算減少補貼配額，但關於定價的最終決定尚未做出。"
+    },
+    {
+      "id": "mkt:01a03723-844e-7aab-9106-2e4723fef0ba",
+      "time": "2026-08-25 12:17:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Iran fuel shortfall: Tehran queues as supply falls 15 mln liters short】Long queues reported at petrol stations across Tehran; drivers are refueling before tanks run dry and face a 20-liter per-vehicle cap that forces repeated visits. Iran’s National Energy Optimization Organization warned of a “serious” gasoline shortage: current daily supply is about 15 mln liters short of the 135 mln liter daily need. The Financial Times cites the U.S. blockade as a cause, saying shortages signal growing economic pressure from the war. Officials say the subsidy system has worsened the situation: subsidized retail prices run about 15,000–50,000 rial per liter while the government’s buy price is 1,300,000 rial per liter. The presidential office said it plans to cut subsidy quotas, but a final pricing decision has not been made."
+    },
+    {
+      "id": "5056719",
+      "time": "2026-08-25 12:15:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首條橫跨京冀城市軌道有望年底開通】記者從北京市重大專案辦和京投軌道公司獲悉，今天（25日），軌道交通22號線（紅廟—平谷）正式開啟空載試執行。該線作為“軌道上的京津冀”標誌性工程，是首條橫跨京冀兩地的城市軌道交通線路。空載試執行標誌著22號線向年底基本具備開通條件目標邁出了關鍵一步，京津冀交通一體化正從藍圖加速駛向現實。（央視新聞）"
+    },
+    {
+      "id": "5056718",
+      "time": "2026-08-25 12:15:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【普華永道：上半年中國併購市場強勢回暖，量價齊升突破近三年高位】普華永道釋出《中國企業併購市場2026年中回顧及展望》報告。報告顯示，在資本市場與政策利好的雙重驅動下，2026年上半年中國併購市場強勢回暖：交易宗數與交易規模雙雙躍升至近三年高位。全市場交易宗數達7316宗，同比增幅近30%，再創歷史新高；交易規模攀升至2416億美元，同比激增56%，為2023年以來半年度最佳表現。報告指出，上半年併購市場的強勁復甦主要由財務投資者主導，其交易宗數和規模同比漲幅分別接近50%和85%。與此同時，戰略投資者交易宗數雖微跌7%，交易額卻上漲近40%，超大型交易（單宗金額超10億美元）數量保持穩定，累計達27宗，與去年同期基本持平。普華永道中國交易服務市場主管合夥人吳可表示，上半年，中國併購市場展現出強勁的復甦勢頭。圍繞“新質生產力”和產業鏈“強鏈補鏈”的核心導向，併購資金正加速向高科技、硬科技領域聚集。其中，國資在產業整合中的“壓艙石”作用愈發凸顯，這將成為未來市場結構性增長的主旋律。"
+    },
+    {
+      "id": "mkt:01a03720-f8bb-7aab-9106-24e0e25d0d10",
+      "time": "2026-08-25 12:15:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【PwC: China M&A posts strong 1H rebound; volume and value hit near three-year highs】PwC’s mid‑year China deal review shows a strong 1H 2026 rebound as capital markets and policy support boosted activity. Deal count rose to 7,316 (+~30% YoY), a record high; deal value climbed to $241.6bn (+56% YoY), the best half‑year since 2023. Recovery was led by financial investors—deal count and value up roughly 50% and 85% YoY, respectively. Strategic buyers’ deal count fell ~7% YoY while deal value rose nearly 40%. Mega deals (> $1bn) held steady at 27, broadly flat YoY. PwC says M&A capital is concentrating in high‑tech and hard‑tech and that state capital is increasingly acting as a stabilizing force in industry consolidation, which PwC expects to be a primary driver of future structural market growth."
+    },
+    {
+      "id": "mkt:01a03720-f736-7aab-9106-1c3cab8ceee9",
+      "time": "2026-08-25 12:15:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Lens Technology says it has secured core position in AI glasses】On Aug 23 conference call, Lens Technology said it has secured a core position in the AI glasses market. The company transferred years of precision glass-processing expertise into optical waveguides, adopting a materials-plus-process strategy and achieving end-to-end capability from precision optical lenses and light-guide modules to final assembly, serving as a core supplier to multiple leading domestic and international AR/AI glasses brands."
+    },
+    {
+      "id": "5056717",
+      "time": "2026-08-25 12:14:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利物業：上半年營收88.29億元，同比增長5.2%】8月25日，保利物業在港交所公告，2026年上半年營收88.29億元，同比增長5.20%；公司擁有人應占期內溢利9.34億元，同比增長4.80%。"
+    },
+    {
+      "id": "5056716",
+      "time": "2026-08-25 12:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技：公司在AI眼鏡領域已實現核心卡位】藍思科技(300433)8月23日在電話會議上表示，公司在AI眼鏡領域已經實現核心卡位，公司將多年在精密玻璃加工領域的技術積累和工藝經驗遷移至光波導領域，形成了“材料+工藝”雙輪驅動的技術路徑，已實現從精密光學鏡片、導光模組等核心部件到整機組裝的全流程覆蓋能力，是國內外多家頭部AR/AI眼鏡品牌的核心供應商。"
+    },
+    {
+      "id": "5056715",
+      "time": "2026-08-25 12:14:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞太經合組織第三次高官會“亞太合作能源角”系列活動成功舉辦】8月20日至21日，亞太經合組織（APEC）第三次高官會期間，“亞太合作能源角”系列研討活動在大連舉辦。 “亞太合作能源角”系列活動，旨在為9月召開的APEC北京能源會議周開展預熱，促進能源領域經驗分享、政策對話與務實合作。包括“APEC能源智庫論壇”“CCUS/CCS促進化石能源清潔高效開發及利用專題研討會”“APEC零碳工業園區研討會：面向能源轉型與碳減排的實踐與路徑”“APEC人工智慧與能源雙向賦能技術研討會”四場活動，與會代表透過專題報告、案例分享和交流研討等形式，共商能源轉型與創新發展路徑，為亞太能源綠色低碳轉型凝聚共識、貢獻智慧。 來自APEC各經濟體的政府官員、能源企業代表、科研機構專家及智庫學者參加系列活動。"
+    },
+    {
+      "id": "5056714",
+      "time": "2026-08-25 12:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“漁民遭船隻撞擊墜海”，事故聯合調查組徵集線索】8月25日，由南澳縣聯合海事、海警、海洋綜合執法等部門成立的“7·2”事故聯合調查組釋出情況通報：7月2日凌晨，饒平縣一鄉鎮自用船舶在南澳縣附近海域翻扣。事故發生後，海警、海事、海綜等部門立即開展搜尋救助、應急處置，同時進行線索排查等工作。為統籌執法力量、強化協同配合，儘快查明事故原因，南澳縣聯合海事、海警、海洋綜合執法等部門成立“7·2”事故聯合調查組。調查組將擴大排查範圍、細化核查各類線索，有關情況將及時公佈，同時懇請廣大群眾積極提供有效線索。此前，據揚子晚報報道，7月2日凌晨，當事人年近七旬的父母在廣東省汕頭市南澳縣駕駛自用船出海作業時，突遭一艘鐵船撞擊，兩人掉入水中，其父親被漁民救起，母親則失蹤多日，7月8日遺體在澄海區一沙灘上被發現。事發後，當地多部門介入調查。8月24日，當事人表示，距他第一次報案已經過去50余天，當前未找到肇事船隻，也未收到立案通知。"
+    },
     {
       "id": "5056713",
       "time": "2026-08-25 12:13:36",
@@ -144624,41 +144715,6 @@
         "公司"
       ],
       "text": "【機器人開上卡丁車 共生知行釋出人形機器人賽車Demo】8月17日，共生知行（Symbiosis Robotics）釋出雙足人形機器人駕駛卡丁車Demo，並同步上線官方網站。這是公司成立後首次系統展示其在雙足人形機器人“全身智慧”方向階段性進展。公司表示，賽車只是第一項公開測試，未來還將圍繞移動操作、高精度視覺對準、接觸式力控和長鏈條任務推出更多案例。"
-    },
-    {
-      "id": "5045215",
-      "time": "2026-08-18 12:18:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【又有船據報在霍爾木茲海峽被擊中 】英國海上貿易行動辦公室今天（8月18日）接報：一艘船在駛離霍爾木茲海峽時，“遭不明發射物擊中”，導致機艙受損，有一名船員受傷、可能已死亡。目前其餘船員已被阿曼海岸警衛隊救起。"
-    },
-    {
-      "id": "5045214",
-      "time": "2026-08-18 12:18:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，週一透過霍爾木茲海峽的大宗商品運輸船流量從前一日的2艘升至6艘。"
-    },
-    {
-      "id": "mkt:01a01317-3047-7aab-906e-f1782cf06aab",
-      "time": "2026-08-18 12:18:01",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Another vessel reported struck in Strait of Hormuz】UK Maritime Trade Operations said on Aug 18 it received a report that a vessel departing the Strait of Hormuz was struck by an unknown projectile, damaging its engine room; one crew member was injured and may have died. Remaining crew were rescued by the Oman coastguard."
-    },
-    {
-      "id": "mkt:01a01315-c70f-7aab-906e-ec0afd588376",
-      "time": "2026-08-18 12:16:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MOFCOM to hold first regular August press briefing on Aug. 20, 2026】MOFCOM will hold its first regular August press briefing at 3:00pm Beijing time on Aug. 20, 2026. A ministry spokesperson will outline recent key commerce work and answer reporters' questions."
     }
   ]
 }
