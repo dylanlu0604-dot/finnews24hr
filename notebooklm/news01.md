@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-26 05:00:25_
-_本檔包含 3178 則快訊，約 652969 字_
+_更新時間：2026-08-26 05:40:07_
+_本檔包含 3171 則快訊，約 653319 字_
+
+---
+
+### 2026-08-26 05:38:22  #市場
+
+【巴西股市大漲，選舉民調助推看漲期權交易】近期民調顯示總統路易斯·伊納西奧·盧拉·達席爾瓦（Luiz Inacio Lula da Silva）對弗拉維奧·博爾索納羅（Flavio Bolsonaro）的領先優勢收窄，巴西Ibovespa指數看漲期權需求旺盛，推動該國基準股指上漲1.55%。彙編的資料顯示，週二行權價為200,000點的11月Ibovespa看漲期權未平倉合約激增至450萬份。而前一交易日的未平倉合約為110萬份。
+
+---
+
+### 2026-08-26 05:36:21  #焦點 #國際
+
+【報道：魯比奧稱美國對伊朗策略從打擊轉向制裁】據Axios援引一名美國官員以及另一位知情訊息人士透露，近幾日，美國國務卿魯比奧對多名外國外交同僚表示，“現階段” 美國不打算對伊朗發起新一輪打擊。他表示，美國的重心將轉向其他施壓手段，其中就包括本週公佈的制裁方案。 這名美國官員稱，魯比奧明確表示美國不計劃重啟大規模軍事行動，但並未排除伊朗率先發動襲擊時實施打擊的可能性。另一名美國官員表示，美國海軍清除霍爾木茲海峽水雷是這場戰爭的分水嶺事件，此舉在很大程度上瓦解了伊朗手中一項主要談判籌碼。 訊息人士稱，魯比奧在與多位同僚通電話時，概述了特朗普政府當前的伊朗政策：1、現階段避免對伊朗採取軍事行動；2、透過美國海上封鎖以及新一輪次級制裁舉措，加大對伊朗的經濟施壓；3、儘可能將更多石油經由海峽輸送至全球能源市場。第二位美國官員表示，這套政策預計至少會維持至中期選舉結束；選舉過後，不排除會重新考慮開啟新一輪軍事行動。
+
+---
+
+### 2026-08-26 05:32:07  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+Axios reports U.S. Secretary of State Rubio recently told multiple foreign counterparts that, for now, the U.S. does not expect to launch new military strikes on Iran.
+
+---
+
+### 2026-08-26 05:31:11  #焦點 #國際
+
+據Axios：美國國務卿魯比奧近日向多位外國外交官員表示，“目前” 美國預計不會對伊朗發起新的打擊。
+
+---
+
+### 2026-08-26 05:29:55  #MKT News
+
+The U.S. Department of Justice said Deloitte agreed to pay $21.5 million to resolve alleged employment-discrimination violations.
+
+---
+
+### 2026-08-26 05:28:51  #國際
+
+美國司法部表示，德勤同意支付 2150 萬美元，了結被指控的就業歧視違法行為。
+
+---
+
+### 2026-08-26 05:24:51  #公司 #市場 #觀點 #國際
+
+【韓國DRAM 8月出口價格同比暴漲401%】據韓國《朝鮮日報》報道，韓國DRAM出口價格持續飆升，AI驅動的HBM生產正在擠壓普通記憶體供應。資料顯示，本月1日至20日，韓國DRAM出口單價達到每公斤9.2183萬美元，同比上漲401%，較2023年1月低點上漲約12.5倍。高盛預計，DRAM供應缺口將從今年的5.0%擴大至明年的5.9%，並認為“AI伺服器所需的HBM以及大容量伺服器DRAM正在吸收有限的生產產能，導致普通DRAM供應進一步收緊”。TrendForce預計，到明年底，三星、SK海力士和美光用於HBM生產的晶圓投入量將佔DRAM總晶圓投入的30%，但HBM佔實際DRAM位元供應量僅約13%。記憶體廠商警告，AI需求推動的DRAM和NAND供應緊張可能持續至2027年以後。SK海力士表示，從供應端來看，2027年可能成為“記憶體行業歷史上最嚴重的短缺年份”。高盛預計，供應短缺可能持續至2028年。
+
+---
+
+### 2026-08-26 05:24:44  #MKT News #Market Themes #AI Revolution #005930.KS #Impact bullish #000660.KS #MU.O
+
+【South Korea DRAM export prices jumped 401% YoY in August】South Korea's DRAM export unit price for Aug. 1-20 reached $92,183/kg, up 401% YoY and about 12.5x the Jan. 2023 low. AI-driven HBM production is diverting wafer capacity from commodity DRAM, tightening supply. Goldman Sachs forecasts the DRAM supply shortfall widening from 5.0% this year to 5.9% next year, citing HBM for AI servers and large-capacity server DRAM absorbing limited production capacity. TrendForce expects Samsung, SK Hynix and Micron to allocate about 30% of DRAM wafer starts to HBM by the end of next year, while HBM will represent only roughly 13% of DRAM bit supply. Memory makers warn DRAM and NAND tightness driven by AI demand may persist beyond 2027; SK Hynix said 2027 could be the memory industry's worst shortage year and Goldman sees shortages potentially lasting into 2028.
+
+---
+
+### 2026-08-26 05:21:05  #觀點
+
+市場訊息：摩根大通放寬針對 SpaceX 股票的質押借款限制。
+
+---
+
+### 2026-08-26 05:17:35  #國際
+
+報道援引一名美國官員訊息：亞伯拉罕・林肯號航空母艦已離開中央司令部責任區。
+
+---
+
+### 2026-08-26 05:16:28  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+US officials said the USS Abraham Lincoln has exited US Central Command’s area of responsibility.
+
+---
+
+### 2026-08-26 05:15:21  #市場
+
+富時A50期指連續夜盤收漲0.21%，報14648點。
+
+---
+
+### 2026-08-26 05:09:13  #MKT News
+
+【Spain to propose tighter data‑center rules】Spain plans stricter water, energy and cybersecurity regulations for data centers, included in a draft decree opening for public consultation this week, government sources said. The draft would require operators to be established in the EU, keep processed data and metadata within the EU, and implement mechanisms to control third‑country access. Facilities handling public‑sector or national‑security data would face tougher rules. Spain, drawing AI infrastructure projects worth tens of billions of euros due to abundant renewables and land, says the large project pipeline allows selection of the most sustainable, secure and efficient sites—an explicit objective of the proposed rules.
+
+---
+
+### 2026-08-26 05:08:18  #市場
+
+週二（8月25日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7173元，較週一紐約尾盤漲45點，日內整體交投於6.7263-6.7161元區間，逼近2023年2月2日頂部6.7057元、當年1月16日頂部6.6975元、以及2022年2月24日頂部6.3060元。
+
+---
+
+### 2026-08-26 05:08:18  #市場 #焦點
+
+比特幣跌破78000美元，日內跌1.42%。
+
+---
+
+### 2026-08-26 05:07:22  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+According to senior U.S. officials, CIA Director Ratcliffe's visit to the Kremlin was delivered as an ultimatum aimed at addressing recent drone incursions into NATO territory and deterring Russia from escalating its offensive against Kyiv after strikes on commercial supply-chain warehouses in Ukraine.
+
+---
+
+### 2026-08-26 05:07:13  #Trading Economics #Economy #South Korea #Business Confidence #Importance 1
+
+South Korea Manufacturing Sentiment Weakens — South Korea’s manufacturing Business Survey Index fell to 81 points in August 2026 from 82 in July, indicating a continued deterioration in business conditions. The production index edged down to 92 from 93, while the new orders index remained unchanged at 92. Meanwhile, the inventories index declined to 100 from 101, while the financial situation index improved to 82 from 81. In contrast, the manufacturing Composite Business Sentiment Index rose 0.6 points to 103.8 in August, while the index for the following month increased 2.0 points to 102.5, pointing to a modest improvement in business sentiment despite weaker current conditions.
+
+---
+
+### 2026-08-26 05:01:50  #MKT News
+
+Bank of Korea: South Korea's composite business sentiment index was 99.6 in August, 98.5 in July.
+
+---
+
+### 2026-08-26 05:00:58  #MKT News #Important #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
+
+Fed's BARKIN said if debt continues to rise, investors will sooner or later stop buying U.S. Treasuries.
+
+---
+
+### 2026-08-26 05:00:45  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Barkin said the US debt problem will ultimately face liquidation.
+
+---
+
+### 2026-08-26 05:00:26  #央行 #國際
+
+韓國央行：韓國 8 月綜合企業景氣指數為 99.6，7 月為 98.5。
 
 ---
 
@@ -18954,173 +19080,5 @@ South Korea's KOSPI index plunged 4.00% intraday; Samsung Electronics fell 4.00%
 ### 2026-08-25 08:15:46  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bearish #DXY #Impact mixed #S&P500
 
 【China International Capital Co: Wash likely to reiterate inflation risks, keep rate‑hike option to rebuild credibility】China International Capital Co says market focus is Jackson Hole and a speech by Wash. His prior comment to “let the market do the Fed’s tightening” failed to ease inflation worries; combined with failed U.S. Treasury intervention this eroded policy credibility and pushed U.S. yields higher. CICC expects Wash to reiterate inflation risks and preserve the option to hike to rebuild credibility, while continuing to push for reduced central‑bank intervention and less frequent communication. He has not abandoned a “balance‑sheet reduction + rate cuts” policy concept, but its underlying assumptions appear misaligned with current conditions and need clearer coordination. If Wash demonstrates policy flexibility, pressure on U.S. Treasuries could ease and the dollar be supported; if not, trust may continue to fade, long‑end U.S. yields could rise further and the dollar come under pressure.
-
----
-
-### 2026-08-25 08:15:12  #其他
-
-【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月25日0時至8月28日24時，渤海部分海域進行實彈射擊活動，禁止駛入。
-
----
-
-### 2026-08-25 08:15:06  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,690/oz intraday, up 0.82%.
-
----
-
-### 2026-08-25 08:15:02  #其他
-
-委內瑞拉代總統：委內瑞拉匯率價差兩個月內縮減過半。
-
----
-
-### 2026-08-25 08:14:58  #市場 #焦點
-
-現貨黃金突破4690美元/盎司，日內漲0.85%。
-
----
-
-### 2026-08-25 08:14:46  #其他
-
-海力士工會成員投票否決了初步協議，50.1%的投票者投出反對票。
-
----
-
-### 2026-08-25 08:14:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Venezuela's interim president said he has signed 50 oil and gas agreements to date and attracted new investment in 76 oilfields.
-
----
-
-### 2026-08-25 08:13:40  #公司 #觀點
-
-【西門子能源據稱將聘請高盛出售蒸汽渦輪機業務股權】當地時間8月24日，據報道，知情人士透露，西門子能源公司正與高盛集團合作，準備就其蒸汽渦輪機業務的多數股權啟動競標報價。知情人士稱，西門子能源計劃於週二（25日）召開董事會會議，決定如何推進其“工業轉型”業務部門的剝離事宜。
-
----
-
-### 2026-08-25 08:13:05  #MKT News #Nasdaq100 #Impact bullish #S&P500
-
-【CITIC Securities: US semiconductor-equipment allocation value rises after July 2026 pullback】CITIC Securities says the July 2026 pullback has increased the allocation case for the US semiconductor-equipment sector. The report expects the AI-driven equipment upcycle to continue at least through 2028 and warns of a persistent market expectation gap over large downstream customers’ capex for 2027–28. On supply, vendors and upstream suppliers are expanding capacity against orders, supporting equipment deliveries. The firm recommends focusing on equipment vendors with rising subsegment share, larger memory exposure, or distinctive demand drivers.
-
----
-
-### 2026-08-25 08:12:46  #市場
-
-鎧俠控股下跌2.8%，愛德萬測試下跌3.6%，松下控股下跌4.0%。
-
----
-
-### 2026-08-25 08:12:36  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 fell as much as 1.00% intraday.
-
----
-
-### 2026-08-25 08:12:27  #MKT News #Market Themes #AI Revolution #Star Stocks #Alibaba #BABA.N #Impact bullish
-
-【CSC Financial: AI apps and cloud demand align; remain positive on compute-power supply chain】CSC Financial research note: OpenAI will cut GPT-5.6SolAPI prices by over 20% on Aug 21, reducing high-performance model invocation costs and likely boosting Agent, code-generation and other high‑token use cases, sustaining inference-side compute demand. Alibaba’s latest quarterly AI Cloud and Compute Services revenue was about 48.4 bln yuan, up 45% YoY; AI-related product revenue has logged triple-digit growth for 12 consecutive quarters, signalling faster commercialisation of AI demand. CSC remains positive on compute-power chain beneficiaries: optical modules, servers, liquid cooling and cloud services.
-
----
-
-### 2026-08-25 08:12:14  #其他
-
-【昨日ETF資金整體淨流入190.71億元】據同花順iFinD資料，2026年8月24日，ETF資金整體淨流入190.71億元，股票型淨流入106.38億元，寬基型淨流入94.08億元。當日ETF資金淨流入榜單排名前3依次為：華夏上證科創板50成份ETF（588000）淨流入21.52億元，易方達創業板ETF（159915）淨流入19.74億元，華泰柏瑞滬深300ETF（510300）淨流入15.17億元。
-
----
-
-### 2026-08-25 08:12:04  #市場 #國際
-
-日本日經指數下跌1%，報64863.99點。
-
----
-
-### 2026-08-25 08:12:01  #其他
-
-委內瑞拉代總統表示，目前已簽署50項油氣協議，將對76個油田進行新投資。
-
----
-
-### 2026-08-25 08:11:29  #市場 #國際
-
-日本五年期國債收益率上升0.5個基點，至2.130%。
-
----
-
-### 2026-08-25 08:11:17  #公司
-
-Lambda已經收到多份本輪融資的投資意向書，部分接近該公司的人士表示，這筆融資或將讓其最早於明年啟動IPO。
-
----
-
-### 2026-08-25 08:10:54  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7
-
-【Sources: AI cloud services provider Lambda in talks for up to $3 bln financing】Lambda, an NVIDIA-backed AI cloud infrastructure provider that leases chips and other AI hardware, is negotiating up to $3 billion in financing at a valuation of up to $12 billion or higher, people familiar with the matter said. Talks are ongoing and terms have not been finalized; the round has drawn multiple bids and could help pave the way for an IPO as soon as next year. Insiders said Lambda expects revenue to exceed $1.5 billion this year.
-
----
-
-### 2026-08-25 08:10:11  #MKT News
-
-Australia's S&P/ASX 200 opened 14.00 points higher, up 0.15%, at 9,117.10 on Tuesday, Aug 25.
-
----
-
-### 2026-08-25 08:09:31  #其他
-
-委內瑞拉代總統：委內瑞拉已簽署 50 餘項油氣合作協議。
-
----
-
-### 2026-08-25 08:09:04  #國際
-
-日本機場航站樓板塊股票漲幅最高達4.4%。
-
----
-
-### 2026-08-25 08:08:44  #公司 #國際
-
-現代汽車與工會還達成一致，如果相關法律法規得到修訂，將把退休年齡從目前的60歲延長至65歲。
-
----
-
-### 2026-08-25 08:08:24  #其他
-
-委內瑞拉代總統： 委內瑞拉石油日產量超 123 萬桶。
-
----
-
-### 2026-08-25 08:07:53  #市場
-
-澳大利亞S&P/ASX 200指數<.AXJO>早盤上漲0.2%，報9,119.10點。
-
----
-
-### 2026-08-25 08:06:30  #其他
-
-委內瑞拉代總統羅德里格斯稱已清理28%地震廢墟，合計58萬噸。
-
----
-
-### 2026-08-25 08:05:52  #國際
-
-韓國KOSPI指數回落至6500點下方，日內跌3.02%。
-
----
-
-### 2026-08-25 08:05:52  #MKT News #Market Regions #Emerging Markets
-
-South Korea's KOSPI index fell below 6,500 points, sliding 3.02% intraday.
-
----
-
-### 2026-08-25 08:04:26  #宏觀 #公司 #市場 #觀點 #央行 #國際
-
-【花旗將黃金三個月目標價上調至每盎司4800美元】花旗集團將黃金三個月目標價上調至每盎司4800美元，此前美國財政部宣佈加大長期債券回購規模，推動金價上漲。包括胡肯尼在內的分析師在研報中寫道，金價上漲動能“仍有進一步釋放空間”。分析師表示：“到目前為止，本輪上漲主要由投機資金推動，尤其是期貨資金流入。若漲勢要得以持續，實物需求需要跟上。”花旗維持6‑12個月5000美元/盎司的黃金目標價不變，理由是霍爾木茲海峽局勢最終得到解決、實際利率下行以及美聯儲立場轉鴿。
-
----
-
-### 2026-08-25 08:04:23  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Extends Rally on Debasement Trade — Gold climbed above $4,650 an ounce on Tuesday, reaching its highest level in more than three months as US government interventions in the bond market revived the so-called debasement trade that fueled gold’s 65% rally in 2025. The US Treasury Department announced an expansion of its buyback program for long-dated government debt last week in an effort to contain rising borrowing costs, with Secretary Scott Bessent saying he is prepared to increase the buybacks further while also flagging an upcoming longer-term fiscal plan. However, markets speculated that the measures may offer only a temporary solution, while renewing concerns over the risks of a US debt crisis, persistent inflation and dollar weakness. Gold-backed exchange-traded funds have also recorded increased inflows in recent weeks, signaling broader market participation and strengthening investment demand.
 
 ---

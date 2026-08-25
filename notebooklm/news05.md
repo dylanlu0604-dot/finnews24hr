@@ -1,7 +1,122 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-26 05:00:25_
-_本檔包含 3275 則快訊，約 651872 字_
+_更新時間：2026-08-26 05:40:07_
+_本檔包含 3275 則快訊，約 653123 字_
+
+---
+
+### 2026-08-20 07:19:24  #觀點
+
+【長景氣週期開啟 核電產業鏈訂單有望放量】“十五五”時期首批8臺機組獲核准，核電將逐步進入電力市場，政策規劃到2030年核電裝機約1.1億千瓦……近段時間以來，我國核電產業迎來多重利好。多位業內專家在接受記者採訪時認為，“十五五”時期，核電行業景氣度確定性較強。“核電建設已進入批次化、連續化推進階段，產業鏈企業訂單規模和產能利用率有望改善。”國金證券副所長、公用環保煤炭行業首席分析師姜濤對記者表示。（上海證券報）
+
+---
+
+### 2026-08-20 07:19:16  #公司 #觀點
+
+【券業整合靜待“化學反應”】8月18日晚，中金公司、東興證券與信達證券同步披露關於重大資產重組申請的稽核問詢函回覆公告，標誌著“三合一”重組迎來關鍵節點。與此同時，東方證券收購上海證券、東吳證券收購東海證券等區域型券商合併重組事項正在有序推進。業內人士表示，合併重組能夠快速做大券商投行的規模與份額，但產業洞察、全週期服務、全球定價權等核心軟實力仍需要長期沉澱。（上證報）
+
+---
+
+### 2026-08-20 07:17:57  #其他
+
+【從單向展示到雙向奔赴 機器人產業迎質變拐點】8月19日，2026世界機器人大會在北京經濟技術開發區北人亦創國際會展中心開幕。對比去年的大會，一個清晰的訊號浮現：機器人產業正從“秀肌肉”轉向“接訂單”，從供給側的單向展示走向產需兩端的雙向奔赴。工業和資訊化部副部長辛國斌在開幕式上披露了一組關鍵資料：2025年機器人產業規模以上企業營業收入突破3000億元，近五年年均增速超過20%，今年上半年達到1655億元，同比增長24.5%。“機器人技術和產品已廣泛應用於國民經濟和社會發展的方方面面，成為推動高質量發展的重要力量。”辛國斌說。（上海證券報）
+
+---
+
+### 2026-08-20 07:13:56  #國際
+
+敘利亞國家電視臺稱，德拉省西部鄉村地區傳出爆炸聲。
+
+---
+
+### 2026-08-20 07:12:38  #公司
+
+【滬市化工企業交亮眼“成績單” 行業景氣度有望延續】2026年半年報正在密集披露，滬市化工企業交出了一份份亮眼“成績單”。Wind資料顯示，截至目前，74家預告或已披露業績的滬市化工企業中，淨利潤增加的公司為51家，佔比68.92%。其中，淨利潤增幅上限超過100%的為34家。在已披露業績的公司中，主營業務盈利能力明顯改善。多位受訪人士認為，化工行業景氣度回升，是需求端韌性提升和供給側“反內卷”政策約束疊加的結果，預計下半年行業景氣度將延續。
+
+---
+
+### 2026-08-20 07:10:31  #央行 #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、湖南補齊生物製造成果轉化短板 中試平臺助更多樣品走向量產（經濟新方位·從“0”到“1”，把“1”拉長）
+2、世界機器人大會開幕
+3、國家鐵路前7月傳送貨物23.5億噸 同比增長0.7%
+4、百日千萬招聘專項行動推出人工智慧等線上招聘專場
+5、中澳兩國央行續簽雙邊本幣互換協議
+6、多式聯運國家標準持續完善
+7、 智慧物流網，這樣建起來（大資料觀察·“六張網”裡的新動能
+8、全民醫保“十五五”規劃釋出 未來5年全面建成多層次醫療保障體系（民生一線）
+9、雄安新區空天資訊和衛星網際網路產業實現全流程閉環 太空中多了一顆“雄安星”（經濟聚焦）
+10、我國與10個APEC經濟體實現AEO互認
+11、商業秘密保護制度建設日臻完備
+12、嫦娥七號計劃近日擇機實施發射 器箭組合體完成垂直轉運
+13、巴西新能源汽車銷量創新高 混動、純電汽車銷量前三名均為中國品牌。
+
+---
+
+### 2026-08-20 07:10:15  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、公平正義的抵達——新時代新徵程人民法庭建設紀實
+2、習近平致電祝賀鮑卡就任匈牙利總統
+3、上海自貿試驗區臨港新片區——讓資料跨境流動又快又好（深入實施自由貿易試驗區提升戰略）
+4、李強趙樂際分別會見厄瓜多總統諾沃亞
+5、情緒消費，“新”在哪裡（讀者點題·共同關注）
+6、我國首次實現火箭陸地回收 首顆雄安造衛星成功入軌。
+
+---
+
+### 2026-08-20 07:08:33  #公司 #其他
+
+市場訊息：儘管出現洩密訊息，蘋果帶攝像頭的 AirPods 仍計劃於 2027 年推出。
+
+---
+
+### 2026-08-20 07:07:00  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Trump announces toughest-ever economic sanctions on Iran】U.S. President Trump announced the toughest-ever economic sanctions on Iran and urged allies to join in isolating the country. He warned any state that allows its banks, companies, airports or government entities to provide any form of assistance to Iran will face severe economic consequences. He specifically said oil smuggling, swap lines, cash transfers, currency-exchange firms, vessel registration and shell companies must stop. Trump reiterated that Iran will not be allowed to develop nuclear weapons.
+
+---
+
+### 2026-08-20 07:02:56  #焦點 #國際
+
+【特朗普：宣佈對伊朗實施最嚴厲的經濟行動】美國總統特朗普在真相社交平臺發文：沒有人比我給伊朗提供過更好的談判機會。可悲的是，他們沒有把握住。因此，今天，我宣佈將實施有史以來針對任何國家的最具毀滅性的經濟行動！這將是一場規模空前的經濟戰與封鎖孤立行動。伊朗的海軍已不復存在，空軍遭到摧毀，軍工廠淪為廢墟，本國貨幣一文不值，國家命懸一線。今天我同時宣佈：任何國家，如果放任本國金融機構、企業、機場或政府機構向伊朗提供任何形式的生存支援，該國自身將面臨極其嚴重的經濟後果。石油走私、貨幣互換額度、現金轉賬、匯兌機構、船舶註冊、殼公司 —— 所有這類活動必須立刻停止。相關各方心知肚明。這將是經濟層面的諾曼底登陸日。我們需要所有盟友同美國站在一起，孤立並挫敗伊朗帶來的威脅。
+
+---
+
+### 2026-08-20 07:01:59  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+U.S. President Trump announced the toughest-ever economic sanctions on Iran, saying the measures amount to unprecedented economic warfare and isolation.
+
+---
+
+### 2026-08-20 07:00:59  #焦點 #國際
+
+特朗普：我同時宣佈，任何國家若放任本國金融機構、企業等向伊朗提供任何續命支援，該國自身也將承受極其嚴重的經濟後果。
+
+---
+
+### 2026-08-20 07:00:04  #國際
+
+特朗普：實施規模前所未有的經濟戰與孤立封鎖。
+
+---
+
+### 2026-08-20 06:59:53  #國際
+
+特朗普：伊朗未能接受協議。
+
+---
+
+### 2026-08-20 06:59:41  #焦點 #國際
+
+特朗普：宣佈對伊朗實施最嚴厲的經濟制裁。
+
+---
+
+### 2026-08-20 06:59:37  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks rose 58 points, or 0.4%, to 13,987 in Thursday morning trading, up for the third consecutive session and marking their highest level since August 5, when the index reached a record high, mainly supported by gains in communication services, energy, and real estate. Optimism over earnings results continued to fuel sentiment while traders braced for further releases from some companies later today. Communication services surged 2.3% after Spark New Zealand, New Zealand's largest telecommunications company, surged 5.0%, following a 91.9% jump in net profit for H2 2026. Meanwhile, Wall Street mostly closed in the green overnight due to easing Treasury yields, which offset weakness in tech stocks and also lifted sentiment. Other early gainers were Channel Infrastructure (1.5%) and Skellerup Holdings (0.7%). EBOS Group continued to gain (0.8%) after posting a 4.7% rise in net profit for the full year ended June 30, 2026.
 
 ---
 
@@ -19657,101 +19772,5 @@ FX Updates: New Zealand Dollar Drops by 0.47% — Top currency losers are New Ze
 ### 2026-08-19 05:40:20  #其他 #焦點
 
 中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-19 05:33:23  #公司
-
-【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”
-
----
-
-### 2026-08-19 05:33:12  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'.
-
----
-
-### 2026-08-19 05:31:52  #MKT News #GOOG.O
-
-According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers.
-
----
-
-### 2026-08-19 05:30:46  #其他
-
-穆迪確認英偉達Aa1評級，展望維持正面。
-
----
-
-### 2026-08-19 05:29:27  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook.
-
----
-
-### 2026-08-19 05:25:54  #公司
-
-宣告顯示：伊拉克批准從9月1日起透過本地和國際公司出口原油的三個月機制。
-
----
-
-### 2026-08-19 05:25:50  #MKT News
-
-Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations.
-
----
-
-### 2026-08-19 05:25:11  #國際
-
-加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。
-
----
-
-### 2026-08-19 05:19:07  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Iraq approved a three-month crude oil export mechanism effective Sept. 1, allowing domestic and international firms to export crude oil.
-
----
-
-### 2026-08-19 05:15:28  #市場
-
-富時A50期指連續夜盤收跌0.32%，報15045點。
-
----
-
-### 2026-08-19 05:13:32  #國際
-
-特朗普將於8月27日在休斯頓主持共和黨全國委員會籌款晚宴。
-
----
-
-### 2026-08-19 05:13:23  #國際
-
-特朗普將出席共和黨全國委員會為肯·帕克斯頓舉辦的籌款活動。
-
----
-
-### 2026-08-19 05:12:50  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #Nikkei 225 #Impact mixed
-
-【Mizuho expects Bank of Japan to accelerate rate hikes】Mizuho Global Markets co-head said the Bank of Japan could hike as soon as September and may raise the frequency of policy adjustments from roughly every six months to quarterly. Yen weakness and rising inflationary pressure are prompting faster action; Mizuho does not rule out two hikes before year-end that could lift the policy rate to 1.5%. Markets price a 78% chance of a Sept. 18 hike. Mizuho will keep a conservative JGB strategy, focusing on inflation-linked bonds and short-dated paper. The 10-year JGB yield has climbed to a 30-year high but remains below Japan’s roughly 4% nominal growth; global structural shifts and investment growth could push Japan’s neutral rate higher and inflation risks are skewed to the upside. On FX, U.S.-Japan joint intervention signals both sides oppose further yen depreciation, though the currency’s weakness partly reflects BOJ easing. Mizuho views Japan as undergoing a multi-decade economic transformation; equities remain attractive but market volatility may increase.
-
----
-
-### 2026-08-19 05:06:43  #MKT News #Market Regions #Wall Street (US) #CSAN.N #Impact bearish
-
-According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS).
-
----
-
-### 2026-08-19 05:03:14  #國際
-
-【阿官員稱阿聯酋已暫停與伊朗貿易往來】當地時間19日，阿聯酋外交部戰略溝通司司長阿芙拉·哈梅利稱，由於地區局勢升級，已暫停與伊朗的一切貿易、商業和金融交易，直至另行通知。哈梅利重申，阿聯酋仍然致力於“對話、合作和區域一體化，將其視為加強地區和平、穩定與繁榮的重要途徑”。（央視新聞）
-
----
-
-### 2026-08-19 05:01:23  #其他
-
-【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。
 
 ---
