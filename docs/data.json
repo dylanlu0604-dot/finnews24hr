@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-26 04:15:57",
-  "count": 16520,
+  "updated": "2026-08-26 04:20:02",
+  "count": 16522,
   "items": [
+    {
+      "id": "mkt:01a03a93-09cd-7aab-911a-23cae8c832f6",
+      "time": "2026-08-26 04:18:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian deputy foreign minister Garibabadi told Iranian media Fars News that if the US has already cleared sea mines from the Strait of Hormuz, US vessels should be able to transit it, adding that, apart from Iran, no one knows the mines' exact locations."
+    },
+    {
+      "id": "5058505",
+      "time": "2026-08-26 04:17:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：霍爾木茲海峽重新開放的條件是全面結束各戰線戰事、解除封鎖以及化解葉門局勢。我們已告知巴基斯坦陸軍參謀長，海峽能否重開取決於美國履行諒解備忘錄項下的各項承諾。"
+    },
+    {
+      "id": "5058504",
+      "time": "2026-08-26 04:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院叫停聯邦通訊委員會擴大廣播電視政治廣告優惠費率的計劃。"
+    },
     {
       "id": "mkt:01a03a8f-22fb-7aab-911a-1f0f198b688a",
       "time": "2026-08-26 04:14:14",
@@ -149438,14 +149463,6 @@
         "Impact mixed"
       ],
       "text": "U.S. API weekly crude inventories for the week to Aug. 14 due in 10 minutes."
-    },
-    {
-      "id": "5046481",
-      "time": "2026-08-19 04:19:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府正準備加大對伊朗的經濟施壓力度。"
     }
   ]
 }
