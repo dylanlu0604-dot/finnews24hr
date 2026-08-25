@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-26 05:29:26",
-  "count": 16516,
+  "updated": "2026-08-26 05:40:07",
+  "count": 16517,
   "items": [
+    {
+      "id": "5058531",
+      "time": "2026-08-26 05:38:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【巴西股市大漲，選舉民調助推看漲期權交易】近期民調顯示總統路易斯·伊納西奧·盧拉·達席爾瓦（Luiz Inacio Lula da Silva）對弗拉維奧·博爾索納羅（Flavio Bolsonaro）的領先優勢收窄，巴西Ibovespa指數看漲期權需求旺盛，推動該國基準股指上漲1.55%。彙編的資料顯示，週二行權價為200,000點的11月Ibovespa看漲期權未平倉合約激增至450萬份。而前一交易日的未平倉合約為110萬份。"
+    },
+    {
+      "id": "5058530",
+      "time": "2026-08-26 05:36:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：魯比奧稱美國對伊朗策略從打擊轉向制裁】據Axios援引一名美國官員以及另一位知情訊息人士透露，近幾日，美國國務卿魯比奧對多名外國外交同僚表示，“現階段” 美國不打算對伊朗發起新一輪打擊。他表示，美國的重心將轉向其他施壓手段，其中就包括本週公佈的制裁方案。 這名美國官員稱，魯比奧明確表示美國不計劃重啟大規模軍事行動，但並未排除伊朗率先發動襲擊時實施打擊的可能性。另一名美國官員表示，美國海軍清除霍爾木茲海峽水雷是這場戰爭的分水嶺事件，此舉在很大程度上瓦解了伊朗手中一項主要談判籌碼。 訊息人士稱，魯比奧在與多位同僚通電話時，概述了特朗普政府當前的伊朗政策：1、現階段避免對伊朗採取軍事行動；2、透過美國海上封鎖以及新一輪次級制裁舉措，加大對伊朗的經濟施壓；3、儘可能將更多石油經由海峽輸送至全球能源市場。第二位美國官員表示，這套政策預計至少會維持至中期選舉結束；選舉過後，不排除會重新考慮開啟新一輪軍事行動。"
+    },
+    {
+      "id": "mkt:01a03ad6-70b1-7aab-911b-22e61e73e492",
+      "time": "2026-08-26 05:32:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reports U.S. Secretary of State Rubio recently told multiple foreign counterparts that, for now, the U.S. does not expect to launch new military strikes on Iran."
+    },
+    {
+      "id": "5058529",
+      "time": "2026-08-26 05:31:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據Axios：美國國務卿魯比奧近日向多位外國外交官員表示，“目前” 美國預計不會對伊朗發起新的打擊。"
+    },
+    {
+      "id": "mkt:01a03ad4-6ee4-7aab-911b-1dbf386d6a79",
+      "time": "2026-08-26 05:29:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Department of Justice said Deloitte agreed to pay $21.5 million to resolve alleged employment-discrimination violations."
+    },
+    {
+      "id": "5058528",
+      "time": "2026-08-26 05:28:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部表示，德勤同意支付 2150 萬美元，了結被指控的就業歧視違法行為。"
+    },
     {
       "id": "5058527",
       "time": "2026-08-26 05:24:51",
@@ -149375,59 +149430,6 @@
         "焦點"
       ],
       "text": "中國地震臺網自動測定：08月19日05時36分在青海海西州直轄區附近（北緯37.79度，東經95.60度）發生5.6級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "5046509",
-      "time": "2026-08-19 05:33:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌宣稱其AI可承擔前沿部署工程師的工作】谷歌雲資料庫產品副總裁兼總經理安迪·古特曼表示，儘管谷歌雲近期宣佈計劃招聘數百名前沿部署工程師，協助客戶基於Gemini開發應用，但目前公司正在用AI自動化這批專業顧問面向大型企業的部分工作，主要負責企業資料治理。古特曼表示，谷歌已經意識到這種高度依賴人力模式的侷限性。“如果你想要啟用企業全部資料，靠招人是不足以實現目標的。”"
-    },
-    {
-      "id": "mkt:01a016ca-ea6f-7aab-9083-0a162271a1bd",
-      "time": "2026-08-19 05:33:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Moody's expects NVIDIA (NVDA.O)'s balanced capital allocation policy will support its 'exceptionally strong net cash position and credit metrics'."
-    },
-    {
-      "id": "mkt:01a016c9-b3a6-7aab-9083-00e33a05e9bf",
-      "time": "2026-08-19 05:31:52",
-      "tags": [
-        "MKT News",
-        "GOOG.O"
-      ],
-      "text": "According to The Information, Google (GOOG.O) said its AI can perform some tasks currently carried out by frontline deployment engineers."
-    },
-    {
-      "id": "5046508",
-      "time": "2026-08-19 05:30:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪確認英偉達Aa1評級，展望維持正面。"
-    },
-    {
-      "id": "mkt:01a016c7-7d81-7aab-9082-fe2b6733610a",
-      "time": "2026-08-19 05:29:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "MOODY'S affirms NVIDIA (NVDA.O) Aa1 rating and maintains a positive outlook."
     }
   ]
 }
