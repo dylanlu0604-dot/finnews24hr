@@ -1,7 +1,146 @@
 {
   "date": "2026-08-25",
-  "count": 3185,
+  "count": 3199,
   "items": [
+    {
+      "id": "te:economy:577992",
+      "time": "2026-08-25 22:14:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Manufacturing Index",
+        "Importance 1"
+      ],
+      "text": "US Fifth District Manufacturing Edges Down — The Federal Reserve’s Fifth District manufacturing index edged down to 4 in August 2026 from 5 in July, remaining well below market expectations of 7. Manufacturing activity was little changed during the month, as shipments increased to 11 from 8, while new orders declined to 3 from 5. Backlogs of orders (-7 vs 4) and capital expenditures (-5 vs 0) both swung into negative territory, while employment fell to -2 from 2. Meanwhile, the average growth rates of prices paid (6.22 vs 6.08) and prices received (4.09 vs 3.96) increased. The local business conditions index also declined to 4 from 10 in July. Over the next six months, firms remained relatively optimistic, with future new orders edging up to 32 from 31, while shipment expectations eased to 26 from 33. Employment expectations rose to 20 from 15, while expected growth in prices paid and received moderated. Meanwhile, the future local business conditions index continued to decline, falling to 16 from 19."
+    },
+    {
+      "id": "mkt:01a03945-e116-7aab-9115-4646f0e17258",
+      "time": "2026-08-25 22:14:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reported CIA Director Racliffe flew to Russia aboard a C-17."
+    },
+    {
+      "id": "mkt:01a03945-64a2-7aab-9115-3a0b77bcbfaf",
+      "time": "2026-08-25 22:14:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【White House official: No US-Iran talks; Strait of Hormuz open】An anonymous White House official told Al Jazeera there are currently no negotiations or arrangements between the U.S. and Iran, echoing President Trump. The official said the maritime blockade remains robust and effectively implemented, the Strait of Hormuz remains open, and sea mines have been cleared or destroyed."
+    },
+    {
+      "id": "5058277",
+      "time": "2026-08-25 22:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：若無持續通脹放緩的證據，則\"很快\"加息是合適的。"
+    },
+    {
+      "id": "mkt:01a03944-be9d-7aab-9115-351149fe20a5",
+      "time": "2026-08-25 22:13:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Collins said it would be appropriate to raise rates \"as soon as possible\" in the absence of evidence of sustained disinflation."
+    },
+    {
+      "id": "5058276",
+      "time": "2026-08-25 22:12:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息： 美國中央情報局拉特克利夫今日赴俄羅斯參加莫斯科會談。"
+    },
+    {
+      "id": "5058275",
+      "time": "2026-08-25 22:12:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：維持當前政策利率將需要通脹正在回落的\"持續證據\"。"
+    },
+    {
+      "id": "mkt:01a03943-c8ce-7aab-9115-291624664586",
+      "time": "2026-08-25 22:12:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's COLLINS said maintaining the current policy rate requires persistent evidence that inf is declining."
+    },
+    {
+      "id": "5058274",
+      "time": "2026-08-25 22:12:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一名在韓失蹤中國公民被確認遇害 嫌疑人已被捕】中國駐釜山總領事館25日說，經同韓國警方核實，一名失蹤數日的中國女留學生當天被發現死亡，警方已以涉嫌殺人罪逮捕一名30多歲男子。總領館已要求韓國警方立即開展全面調查，依法嚴懲兇手。總領館將全力為家屬處理善後事宜提供領事協助。（央視新聞）"
+    },
+    {
+      "id": "te:economy:577991",
+      "time": "2026-08-25 22:11:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "New Home Sales",
+        "Importance 2"
+      ],
+      "text": "US New Home Sales Falls to 6-Month Low — Sales of new single-family homes in the US sank by 10.5% from the previous month to a seasonally adjusted annualized rate of 607,000 homes in July of 2026. This was the sharpest drop and the lowest level since January, missing market expectations of a softer decline to 620,000. Sales plummeted in the Midwest (-43% to 43,000) and fell sharply in the South (-13% to 383,000), offsetting the increase in the Northeast (30% to 43,000) and the West (6.2% to 138,000). The outstanding supply of new houses for sale at the end of the period was at 488,000, around 9.6 months of supply at the latest sales rate. Meanwhile, the median sales price was $393,800, in the period, the lowest in over one year."
+    },
+    {
+      "id": "mkt:01a03942-e6fc-7aab-9115-26c368fe4217",
+      "time": "2026-08-25 22:11:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Collins said she will monitor whether productivity can help offset changes in inf, oil prices and inf expectations."
+    },
+    {
+      "id": "5058273",
+      "time": "2026-08-25 22:11:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "賓夕法尼亞州：該州35年來首次出現麻疹相關死亡病例。"
+    },
+    {
+      "id": "5058272",
+      "time": "2026-08-25 22:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：將關注生產率是否有助於抵消通脹、油價以及通脹預期變化的影響。"
+    },
+    {
+      "id": "5058271",
+      "time": "2026-08-25 22:10:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國賓夕法尼亞州確認兩例麻疹相關死亡病例。"
+    },
     {
       "id": "mkt:01a03941-a9ca-7aab-9115-1b7b4aa6b334",
       "time": "2026-08-25 22:09:59",
