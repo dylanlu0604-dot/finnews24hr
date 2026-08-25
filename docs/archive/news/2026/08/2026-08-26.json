@@ -1,7 +1,93 @@
 {
   "date": "2026-08-26",
-  "count": 268,
+  "count": 277,
   "items": [
+    {
+      "id": "5058512",
+      "time": "2026-08-26 04:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：多戶住宅抵押貸款逾期率從 6 月的 0.51% 上升至 7 月的 0.60%。"
+    },
+    {
+      "id": "te:markets:578036",
+      "time": "2026-08-26 04:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.30% Higher — The Dow Jones Index gained 160 points or 0.30 percent on Tuesday to close at 53577 points. Gains were led by Merck (3.84%), Goldman Sachs (2.37%) and Nvidia (2.18%). Biggest losers were Nike (-3.26%), McDonalds (-1.64%) and Chevron (-1.49%)."
+    },
+    {
+      "id": "5058511",
+      "time": "2026-08-26 04:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：單戶住宅抵押貸款逾期率由 6 月的 0.60% 降至 7 月的 0.59%。"
+    },
+    {
+      "id": "mkt:01a03aa1-e52c-7aab-911a-77f6d496fba2",
+      "time": "2026-08-26 04:34:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Deputy Foreign Minister Karibabadi said if the US moves forward with new sanctions on Iran, Iran will announce new measures targeting US interests."
+    },
+    {
+      "id": "5058510",
+      "time": "2026-08-26 04:34:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：7 月份抵押貸款組合年化增速為 1.8%。"
+    },
+    {
+      "id": "5058509",
+      "time": "2026-08-26 04:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：倘若美國執意對伊朗實施新一輪制裁，伊朗將公佈針對美國利益的反制新舉措。"
+    },
+    {
+      "id": "mkt:01a03aa0-81e5-7aab-911a-69ef9742c5bb",
+      "time": "2026-08-26 04:33:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran deputy foreign minister Karibabadi said an understanding reached with Oman for the first time referenced security issues and measures to prevent threats to the Strait of Hormuz."
+    },
+    {
+      "id": "5058508",
+      "time": "2026-08-26 04:32:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗和阿曼討論霍爾木茲海峽航運 擬設“臨時聯合海上走廊”】阿曼通訊社援引伊朗與阿曼聯合宣告報道，伊朗外長阿巴斯·阿拉格齊與阿曼外交大臣Badr Albusaidi討論了一項旨在恢復霍爾木茲海峽航運的“臨時框架”，眼下雙方正繼續就這條關鍵航道的航行問題推進持續已久的談判。根據宣告，這項倡議擬設立一條“臨時聯合海上走廊”並開展掃雷專案，以恢復該地區航運安全。宣告稱，雙方將繼續舉行技術層面會談，爭取就永久海上走廊、海峽未來管理機制，以及就資訊交換、航運管理以及相關海事和安全服務安排達成一致。"
+    },
+    {
+      "id": "mkt:01a03a9f-3761-7aab-911a-61f60aa4ae9c",
+      "time": "2026-08-26 04:31:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister Gharibabadi said the country remains at war and the Strait of Hormuz will remain closed."
+    },
     {
       "id": "mkt:01a03a9d-bd03-7aab-911a-5d414653bdc8",
       "time": "2026-08-26 04:30:11",

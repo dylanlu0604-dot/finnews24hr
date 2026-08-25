@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-26 04:32:07",
-  "count": 16520,
+  "updated": "2026-08-26 04:36:12",
+  "count": 16524,
   "items": [
+    {
+      "id": "5058512",
+      "time": "2026-08-26 04:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：多戶住宅抵押貸款逾期率從 6 月的 0.51% 上升至 7 月的 0.60%。"
+    },
+    {
+      "id": "te:markets:578036",
+      "time": "2026-08-26 04:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.30% Higher — The Dow Jones Index gained 160 points or 0.30 percent on Tuesday to close at 53577 points. Gains were led by Merck (3.84%), Goldman Sachs (2.37%) and Nvidia (2.18%). Biggest losers were Nike (-3.26%), McDonalds (-1.64%) and Chevron (-1.49%)."
+    },
+    {
+      "id": "5058511",
+      "time": "2026-08-26 04:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：單戶住宅抵押貸款逾期率由 6 月的 0.60% 降至 7 月的 0.59%。"
+    },
+    {
+      "id": "mkt:01a03aa1-e52c-7aab-911a-77f6d496fba2",
+      "time": "2026-08-26 04:34:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Deputy Foreign Minister Karibabadi said if the US moves forward with new sanctions on Iran, Iran will announce new measures targeting US interests."
+    },
+    {
+      "id": "5058510",
+      "time": "2026-08-26 04:34:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "房地美：7 月份抵押貸款組合年化增速為 1.8%。"
+    },
+    {
+      "id": "5058509",
+      "time": "2026-08-26 04:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：倘若美國執意對伊朗實施新一輪制裁，伊朗將公佈針對美國利益的反制新舉措。"
+    },
+    {
+      "id": "mkt:01a03aa0-81e5-7aab-911a-69ef9742c5bb",
+      "time": "2026-08-26 04:33:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran deputy foreign minister Karibabadi said an understanding reached with Oman for the first time referenced security issues and measures to prevent threats to the Strait of Hormuz."
+    },
+    {
+      "id": "5058508",
+      "time": "2026-08-26 04:32:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗和阿曼討論霍爾木茲海峽航運 擬設“臨時聯合海上走廊”】阿曼通訊社援引伊朗與阿曼聯合宣告報道，伊朗外長阿巴斯·阿拉格齊與阿曼外交大臣Badr Albusaidi討論了一項旨在恢復霍爾木茲海峽航運的“臨時框架”，眼下雙方正繼續就這條關鍵航道的航行問題推進持續已久的談判。根據宣告，這項倡議擬設立一條“臨時聯合海上走廊”並開展掃雷專案，以恢復該地區航運安全。宣告稱，雙方將繼續舉行技術層面會談，爭取就永久海上走廊、海峽未來管理機制，以及就資訊交換、航運管理以及相關海事和安全服務安排達成一致。"
+    },
+    {
+      "id": "mkt:01a03a9f-3761-7aab-911a-61f60aa4ae9c",
+      "time": "2026-08-26 04:31:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister Gharibabadi said the country remains at war and the Strait of Hormuz will remain closed."
+    },
     {
       "id": "mkt:01a03a9d-bd03-7aab-911a-5d414653bdc8",
       "time": "2026-08-26 04:30:11",
@@ -149398,51 +149484,6 @@
         "AI Revolution"
       ],
       "text": "【Anthropic plans super-voting shares to preserve founders' control】Anthropic is preparing a class of super-voting shares for CEO Dario Amodei and other co-founders to shield the founding team from external shareholder pressure, The Information reports. The move would be the company's first use of enhanced voting rights; founders' relatively low equity stakes are cited as the rationale. Anthropic also plans to retain its non-shareholder trustee framework and use the special share class to elect a majority of the board, further limiting outside shareholders' influence on governance."
-    },
-    {
-      "id": "5046489",
-      "time": "2026-08-19 04:35:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列：同意與敘利亞在安全方面維持現狀。"
-    },
-    {
-      "id": "te:markets:576232",
-      "time": "2026-08-19 04:35:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.22% Lower — The Dow Jones Index dropped 116 points or 0.22 percent on Tuesday to close at 53344 points. Losses were led by Caterpillar (-4.31%), Nvidia (-2.37%) and Boeing (-1.36%). Offsetting the fall, top gainers were Salesforce (4.05%), J&J (3.30%) and Nike (2.46%)."
-    },
-    {
-      "id": "mkt:01a01694-6531-7aab-9082-1fc4eaec3c5b",
-      "time": "2026-08-19 04:33:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Uruguay kept its policy rate at 5.75%, unchanged from the previous setting."
-    },
-    {
-      "id": "5046488",
-      "time": "2026-08-19 04:33:34",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【Anthropic籌備超級投票權，為IPO鋪路】據兩名知情人士透露，Anthropic計劃授予執行長達里奧·阿莫迪及其他聯合創始人一類具備超額投票權的股份，幫助他們抵禦外部股東施加的壓力。這將是Anthropic管理層首次獲得超級投票權；該機制在科技企業創始人中已十分普遍。另有訊息人士表示，對Anthropic而言此舉意義特殊：相比其他科技企業創始人，該公司創始人所持股權佔比相對較低。公司還計劃依託特殊類別的股票，保留現有的非股東受託人團體，由其選舉董事會多數席位，以此構建一道非傳統屏障，抵禦外部股東干預。"
-    },
-    {
-      "id": "mkt:01a01693-a1c7-7aab-9082-1536ada01eee",
-      "time": "2026-08-19 04:32:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to The Information, Anthropic has been preparing to grant CEO Dario Amodei and other co-founders a new class of stock carrying additional voting rights."
     }
   ]
 }
