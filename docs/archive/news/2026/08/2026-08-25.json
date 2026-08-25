@@ -1,7 +1,71 @@
 {
   "date": "2026-08-25",
-  "count": 3335,
+  "count": 3342,
   "items": [
+    {
+      "id": "5058365",
+      "time": "2026-08-25 23:50:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "加拿大財政部長：加拿大的報復性關稅具備策略性，且分寸得當。"
+    },
+    {
+      "id": "mkt:01a0399c-4e66-7aab-9116-a44f6bb197aa",
+      "time": "2026-08-25 23:48:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market report: A U.S. Air Force Boeing C-17 military transport has departed Moscow Vnukovo Airport."
+    },
+    {
+      "id": "mkt:01a0399b-a2b5-7aab-9116-9cd2210a4f13",
+      "time": "2026-08-25 23:48:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it has full sovereignty over Strait of Hormuz】Iran vice president Mohammad-Reza Aref said Tehran’s control of the Strait of Hormuz “is our legitimate sovereign right over national assets,” calling the strait “Iranian property.” He added Tehran is “fully prepared to confront enemies” and will make “any enemy who dares to threaten Iran” regret it, ISNA reported."
+    },
+    {
+      "id": "5058364",
+      "time": "2026-08-25 23:47:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州總檢察長辦公室表示，Instagram負責人亞當·莫塞裡預計將在今日各州針對Meta的庭審中出庭作證。"
+    },
+    {
+      "id": "te:markets:578012",
+      "time": "2026-08-25 23:47:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil Falls by Over 4% — Brent crude oil fell more than 4% toward $88 a barrel on Monday, extending a 2.4% loss in the previous session, as investors assessed signs of easing tensions between the US and Iran. Pakistan’s army chief visited Tehran in an effort to support diplomacy, while Qatar said it was continuing mediation efforts. Reports that Washington could soon return evacuated diplomats to the region also suggested that a broader military escalation may be less imminent. Meanwhile, Washington’s latest measures to increase economic pressure on Iran were less severe than markets had anticipated. US Treasury Secretary Scott Bessent said countries trading with Tehran would be given a deadline to wind down their links or risk unilateral penalties. Despite the measures, substantial volumes of crude continue to move through the Strait of Hormuz, with some shipments operating discreetly."
+    },
+    {
+      "id": "5058363",
+      "time": "2026-08-25 23:47:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "航班追蹤資料顯示，據信搭載美國中情局局長拉特克利夫的飛機已離開莫斯科。"
+    },
+    {
+      "id": "5058362",
+      "time": "2026-08-25 23:46:55",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國8月消費者信心指數繼續下滑】美國研究機構世界大型企業聯合會25日釋出的初步調查結果顯示，美國8月消費者信心指數為89.4，低於7月修訂後的90.2，為連續第二個月走低，反映美國消費者對未來預期變得更為悲觀。調查顯示，8月反映短期收入前景、商業和就業市場環境的消費者預期指數下降5.8，至68.2。（新華社）"
+    },
     {
       "id": "te:markets:578011",
       "time": "2026-08-25 23:46:23",
