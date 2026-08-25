@@ -1,7 +1,37 @@
 {
   "date": "2026-08-26",
-  "count": 264,
+  "count": 267,
   "items": [
+    {
+      "id": "mkt:01a03a99-62e8-7aab-911a-57a09ba3a184",
+      "time": "2026-08-26 04:25:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran Deputy Foreign Minister Garibabadi told Pakistan Army Chief Munir that Iran does not trust the United States."
+    },
+    {
+      "id": "mkt:01a03a98-8931-7aab-911a-4f6383f21eab",
+      "time": "2026-08-26 04:24:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister Gharibabadi said Iran has its own options to respond to any U.S. plan, including confrontation, escalation and sanctions."
+    },
+    {
+      "id": "mkt:01a03a97-f916-7aab-911a-46b4cd80fddd",
+      "time": "2026-08-26 04:23:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran deputy foreign minister Gharibabadi said no warship may transit the Strait of Hormuz."
+    },
     {
       "id": "te:markets:578035",
       "time": "2026-08-26 04:21:45",
