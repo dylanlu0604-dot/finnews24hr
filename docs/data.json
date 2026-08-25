@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-26 05:00:25",
-  "count": 16512,
+  "updated": "2026-08-26 05:04:33",
+  "count": 16514,
   "items": [
+    {
+      "id": "mkt:01a03aba-b8c7-7aab-911a-f576f9481eea",
+      "time": "2026-08-26 05:01:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: South Korea's composite business sentiment index was 99.6 in August, 98.5 in July."
+    },
+    {
+      "id": "mkt:01a03ab9-eefb-7aab-911a-ef91fef36a28",
+      "time": "2026-08-26 05:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fed's BARKIN said if debt continues to rise, investors will sooner or later stop buying U.S. Treasuries."
+    },
+    {
+      "id": "mkt:01a03ab9-bbd0-7aab-911a-e15b31d69098",
+      "time": "2026-08-26 05:00:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said the US debt problem will ultimately face liquidation."
+    },
+    {
+      "id": "5058521",
+      "time": "2026-08-26 05:00:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：韓國 8 月綜合企業景氣指數為 99.6，7 月為 98.5。"
+    },
     {
       "id": "5058520",
       "time": "2026-08-26 04:59:27",
@@ -149363,22 +149406,6 @@
         "Impact bearish"
       ],
       "text": "According to filings, Brazilian energy company Cosan has formally notified the New York Stock Exchange that it intends to delist its American Depositary Shares (ADS)."
-    },
-    {
-      "id": "5046502",
-      "time": "2026-08-19 05:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿官員稱阿聯酋已暫停與伊朗貿易往來】當地時間19日，阿聯酋外交部戰略溝通司司長阿芙拉·哈梅利稱，由於地區局勢升級，已暫停與伊朗的一切貿易、商業和金融交易，直至另行通知。哈梅利重申，阿聯酋仍然致力於“對話、合作和區域一體化，將其視為加強地區和平、穩定與繁榮的重要途徑”。（央視新聞）"
-    },
-    {
-      "id": "5046501",
-      "time": "2026-08-19 05:01:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國啟用新無人機安全技術中心】德國政府18日在位於薩克森-安哈爾特州的德國航空航天中心科赫施泰特基地啟用新的無人機安全技術中心，重點開展無人機安全執行、探測和防禦技術研發與測試，並推動相關技術更快投入實際應用。"
     }
   ]
 }

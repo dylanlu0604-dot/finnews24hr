@@ -1,7 +1,50 @@
 {
   "date": "2026-08-26",
-  "count": 301,
+  "count": 305,
   "items": [
+    {
+      "id": "mkt:01a03aba-b8c7-7aab-911a-f576f9481eea",
+      "time": "2026-08-26 05:01:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: South Korea's composite business sentiment index was 99.6 in August, 98.5 in July."
+    },
+    {
+      "id": "mkt:01a03ab9-eefb-7aab-911a-ef91fef36a28",
+      "time": "2026-08-26 05:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fed's BARKIN said if debt continues to rise, investors will sooner or later stop buying U.S. Treasuries."
+    },
+    {
+      "id": "mkt:01a03ab9-bbd0-7aab-911a-e15b31d69098",
+      "time": "2026-08-26 05:00:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said the US debt problem will ultimately face liquidation."
+    },
+    {
+      "id": "5058521",
+      "time": "2026-08-26 05:00:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：韓國 8 月綜合企業景氣指數為 99.6，7 月為 98.5。"
+    },
     {
       "id": "5058520",
       "time": "2026-08-26 04:59:27",
