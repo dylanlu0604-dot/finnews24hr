@@ -1,7 +1,138 @@
 {
   "date": "2026-08-25",
-  "count": 891,
+  "count": 905,
   "items": [
+    {
+      "id": "5056599",
+      "time": "2026-08-25 10:50:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報152000.00元。"
+    },
+    {
+      "id": "mkt:01a036d3-29e1-7aab-9104-7a2acce57476",
+      "time": "2026-08-25 10:50:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Rice up over 47% since Iran conflict began, Hedgeye says】Rice prices have risen more than 47% since the Iran conflict began, Hedgeye analysis shows. Disruptions to fuel, fertilizer and shipping are the primary drivers; analysts say global rice supply remains broadly ample but higher costs are concentrated in freight, fertilizer and premium varieties such as basmati. The rice rally is spilling into broader commodity markets and, amid rising geopolitical tensions, could put upside pressure on crude oil prices."
+    },
+    {
+      "id": "mkt:01a036d2-4ae7-7aab-9104-7427e8668db4",
+      "time": "2026-08-25 10:49:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan finance minister KATAYAMA to study tax incentives for retail JGB buyers】Japan's finance minister KATAYAMA said on Tuesday the government will cautiously study potential tax incentives aimed at retail investors buying JGBs. She said boosting the appeal of government bonds to retail investors is important, that many issues remain to be considered, and that the government plans detailed discussions with stakeholders, especially the ruling party."
+    },
+    {
+      "id": "mkt:01a036d1-939c-7aab-9104-6e31072d4f3c",
+      "time": "2026-08-25 10:48:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Data show the number of merchant vessels transiting the Strait of Hormuz fell to the lowest level in more than three months."
+    },
+    {
+      "id": "5056598",
+      "time": "2026-08-25 10:48:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "資料顯示，今日MMLC電池級碳酸鋰（早盤）價格較昨日下跌850元/噸，中間價報157200元/噸。 (Mysteel)"
+    },
+    {
+      "id": "5056597",
+      "time": "2026-08-25 10:47:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多元金融板塊震盪走高 中油資本漲超8%】多元金融板塊震盪走高，中油資本漲超8%，中糧資本、愛建集團、弘業期貨、陝國投A等漲幅居前。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608253852528273",
+      "time": "2026-08-25 10:47:15",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【傑克遜霍爾年會前瞻：沃什將釋放何種政策訊號？】本週，全球經濟學家和央行官員將齊聚懷俄明州傑克遜霍爾，參加美聯儲年度經濟政策研討會。對於市場而言，這場年會的核心看點在美聯儲主席凱文·沃什身上，其演講對於理解下一步美聯儲的行動至關重要。"
+    },
+    {
+      "id": "5056596",
+      "time": "2026-08-25 10:46:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度解除小麥出口禁令】當地時間24日，印度對外貿易總局宣佈將小麥出口政策從“禁止”改為“自由”，該國長達四年的小麥出口禁令被解除。作為世界第二大小麥生產國，印度從2022年5月開始禁止小麥出口，以控制國內價格並保護糧食安全。"
+    },
+    {
+      "id": "mkt:01a036cf-2f93-7aab-9104-6186fa46c326",
+      "time": "2026-08-25 10:45:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China lithium carbonate most-active contract fell 4.00% intraday to 153,580 yuan/ton."
+    },
+    {
+      "id": "5056595",
+      "time": "2026-08-25 10:45:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【名創優品：國內第100家樂園系門店開業】記者從名創優品（09896.HK）獲悉，名創優品在國內第100家樂園系門店MINISO LAND成都東郊記憶店正式開業。名創優品集團創始人、董事會主席兼CEO葉國富表示，MINISO LAND的核心目標是打造年輕人願意專程前往的城市目的地，讓IP真正融入文旅場景，併成為城市文化的一部分，是名創優品未來持續探索和發力的重要方向。（證券時報）"
+    },
+    {
+      "id": "5056594",
+      "time": "2026-08-25 10:45:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西垣曲抽水蓄能電站上水庫大壩填築順利封頂】日前，國家重點能源工程，山西垣曲抽水蓄能電站上水庫大壩填築工程順利完成封頂。標誌著電站上水庫大壩填築施工全面收官。本次封頂的上水庫大壩為瀝青混凝土面板堆石壩，壩頂高程969.50米，最大壩高111.2米，壩頂長度425米，設計填築總量362萬立方米，是上水庫主體工程的核心水工建築物，對電站整體安全穩定執行起到關鍵屏障作用。"
+    },
+    {
+      "id": "5056593",
+      "time": "2026-08-25 10:45:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報153580.00元。"
+    },
+    {
+      "id": "5056592",
+      "time": "2026-08-25 10:44:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4690美元/盎司，日內跌0.17%。"
+    },
+    {
+      "id": "te:economy:577739",
+      "time": "2026-08-25 10:43:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Reverse Repo Rate",
+        "Importance 1"
+      ],
+      "text": "PBoC Injects Short- and Medium-Term Funds Into Banks — The People’s Bank of China (PBoC) said it will conduct overnight reverse repo operations from August 27 to Sept. 1 to meet short-term liquidity needs. The operations will be carried out at a fixed rate via quantity-based bidding, with a daily cap of CNY 600 billion. In addition, the central bank announced a CNY 500 billion one-year medium-term lending facility (MLF) on Tuesday, August 25, conducted through variable-rate tenders with a fixed quantity using a multiple-price auction."
+    },
     {
       "id": "5056591",
       "time": "2026-08-25 10:42:39",
