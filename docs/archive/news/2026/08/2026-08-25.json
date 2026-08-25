@@ -1,7 +1,313 @@
 {
   "date": "2026-08-25",
-  "count": 2195,
+  "count": 2231,
   "items": [
+    {
+      "id": "5057566",
+      "time": "2026-08-25 17:50:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科軟：2026年上半年淨利潤9034.43萬元，同比下降15.60%】中科軟公告，2026年上半年營業收入24.36億元，同比增長0.06%；歸屬於上市公司股東的淨利潤9034.43萬元，同比下降15.60%，2025年上半年為1.07億元；扣除非經常性損益的淨利潤8751.51萬元，同比增長8.74%。公司擬每10股派0.5元人民幣現金紅利，預計共分配現金紅利4155.2萬元。"
+    },
+    {
+      "id": "5057565",
+      "time": "2026-08-25 17:50:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年上半年德國政府財政赤字增至713億歐元】德國聯邦統計局8月25日釋出資料顯示，根據初步測算，2026年上半年德國政府財政赤字為713億歐元，較上年同期增加366億歐元。按當期價格計算，2026年上半年德國政府財政赤字佔國內生產總值的比重為3.1%。（新華財經）"
+    },
+    {
+      "id": "5057564",
+      "time": "2026-08-25 17:50:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬里股份：持股5%以上股東減持觸及1%刻度】萬里股份公告稱，公司持股5%以上股東鄭海若控制的北京世達祺祥貿易有限公司於2026年8月25日透過集中競價交易減持公司股份23萬股。本次權益變動後，鄭海若及其控制賬戶合計持股比例由24.08%降至23.93%，觸及1%刻度。本次減持未觸及要約收購，未違反相關承諾及規定，不會導致公司控股股東、實控人發生變化。"
+    },
+    {
+      "id": "5057563",
+      "time": "2026-08-25 17:50:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪森智慧：2026年上半年虧損4.25億元，2025年同期虧損1.51億元】豪森智慧公告，2026年上半年營業收入7.29億元，同比下降13.54%；歸屬於上市公司股東的淨利潤虧損4.25億元，2025年同期虧損1.51億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4.31億元，2025年同期虧損1.43億元。"
+    },
+    {
+      "id": "5057562",
+      "time": "2026-08-25 17:49:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英科再生：2026年上半年淨利潤1.54億元，同比增長5.34%】英科再生公告，2026年上半年營業收入21.46億元，同比增長28.83%；歸屬於上市公司股東的淨利潤1.54億元，同比增長5.34%，2025年同期為1.46億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.12億元，同比增長127.06%。公司擬每10股派發現金股利人民幣1元（含稅），預計分配現金股利1917.2萬元（含稅）。"
+    },
+    {
+      "id": "5057561",
+      "time": "2026-08-25 17:49:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【冠農股份：擬吸收合併全資子公司紅羽食品】冠農股份公告稱，公司董事會審議透過多項議案：一是吸收合併全資子公司新疆紅羽食品科技有限公司，合併完成後該子公司予以登出，公司承繼其全部資產、負債及權利義務，授權管理層辦理相關事宜。二是擬新增預計為控股子公司、孫公司提供不超過12.49億元的連帶責任擔保，擔保期限1-3年，額度可按規則調劑，該事項尚需提交公司2026年第三次臨時股東會審議。三是擬為控股孫公司匯錦物流、益康倉儲的監管棉倉儲及棉花期貨交割業務提供連帶責任擔保，該事項同樣尚需股東會審議。"
+    },
+    {
+      "id": "5057560",
+      "time": "2026-08-25 17:49:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冠農股份：2026年上半年淨利潤5.37億元，同比增長79.09%】冠農股份公告，2026年上半年營業收入13.89億元，同比增長0.28%；歸屬於上市公司股東的淨利潤5.37億元，同比增長79.09%，2025年同期為3億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.93億元，同比增長71.69%。"
+    },
+    {
+      "id": "5057559",
+      "time": "2026-08-25 17:48:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長鴻高科：擬收購廣西長科100%股權 股價無異常波動】長鴻高科公告稱，公司擬透過發行股份、可轉換公司債券及支付現金方式，購買交易對方合計持有的廣西長科新材料有限公司100%股權，並向不超過35名特定投資者發行股份募集配套資金。因籌劃本次交易，公司股票自2025年7月8日起停牌，7月21日復牌。本次交易資訊釋出前20個交易日，公司股票累計上漲2.91%，同期上證綜指累計上漲2.16%，基礎化工指數累計上漲1.20%；剔除大盤、同行業板塊因素影響後，累計漲跌幅均未達相關標準，不存在異常波動情況。"
+    },
+    {
+      "id": "5057558",
+      "time": "2026-08-25 17:48:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鴻高科：調整重大資產重組方案不構成重大調整】長鴻高科公告稱，公司擬透過發行股份、可轉換公司債券及支付現金方式購買廣西長科新材料有限公司100%股權並募集配套資金。2026年8月25日公司董事會審議透過交易方案調整相關議案，調整內容包括將發行股份及可轉債購買資產的定價基準日變更為第三屆董事會第二十八次會議決議公告日，股份發行價格由11.78元/股調整為9.59元/股，可轉債初始轉股價格同步調整為9.59元/股。本次調整不涉及交易物件、標的資產及募集配套資金變動，不構成重組方案重大調整。"
+    },
+    {
+      "id": "5057557",
+      "time": "2026-08-25 17:48:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報87.79美元/桶。"
+    },
+    {
+      "id": "5057556",
+      "time": "2026-08-25 17:48:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星醫藥：2026年上半年淨利潤17.21億元，同比增長1.15%】復星醫藥公告，2026年上半年營業收入204.42億元，同比增長4.75%；歸屬於上市公司股東的淨利潤17.21億元，同比增長1.15%，2025年同期為17.02億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤11.44億元，同比增長19.09%，2025年同期為9.61億元。營業收入增長主要得益於創新藥品與境外業務穩健增長，扣非淨利潤增長主要得益於營業收入穩健增長。"
+    },
+    {
+      "id": "mkt:01a03851-cd1c-7aab-910e-4b7bbab8da43",
+      "time": "2026-08-25 17:47:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong government: Net gold exports from Hong Kong to mainland China in July were 56.193 tonnes, up from 50.679 tonnes previously. Total gold exports to the mainland were 75.457 tonnes in July, down from 78.147 tonnes previously."
+    },
+    {
+      "id": "5057555",
+      "time": "2026-08-25 17:47:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST爾雅：2026年上半年營收1.44億元 淨虧損收窄】*ST爾雅公告稱，2026年上半年實現營業收入1.44億元，同比增長11.54%；歸屬於上市公司股東的淨虧損1250.52萬元，上年同期淨虧損2185.87萬元；扣除非經常性損益的淨虧損3282.90萬元。基本每股收益-0.03元，加權平均淨資產收益率-3.16%，較上年同期增加1.38個百分點。本報告期不涉及利潤分配及公積金轉增股本預案。"
+    },
+    {
+      "id": "5057554",
+      "time": "2026-08-25 17:47:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【法興銀行：AI重塑銅價邏輯 LME更純粹反映需求】法國興業銀行釋出研報稱，AI投資、跨市場套利與美國關稅政策正改寫銅價定價邏輯。2025年2月至2026年8月，COMEX銅和LME銅分別上漲52%和58%，僅次於黃金、白銀及石油產品，成為同期表現最強的大宗商品之一。法興認為，AI投資最終會轉化為資料中心、電網和電氣化帶來的實體用銅需求，因此LME銅是表達“AI驅動銅需求”更純粹的標的，COMEX則更受美國宏觀與金融市場影響。"
+    },
+    {
+      "id": "5057553",
+      "time": "2026-08-25 17:47:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆通股份：2026年上半年淨利潤1.84億元，同比增長85.49%】恆通股份公告，2026年上半年營業收入7.2億元，同比增長7.64%；歸屬於上市公司股東的淨利潤1.84億元，同比增長85.49%，2025年同期為9936.48萬元；扣除非經常性損益的淨利潤1.83億元，同比增長92.04%。公司擬每10股派發現金紅利0.70元（含稅），合計擬派發4924.83萬元（含稅）。"
+    },
+    {
+      "id": "5057552",
+      "time": "2026-08-25 17:47:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍騰光電：2026年上半年淨利潤虧損1.88億元，2025年上半年虧損1.21億元】龍騰光電公告，2026年上半年營業收入9.58億元，同比下降25.74%；歸屬於上市公司股東的淨利潤虧損1.88億元，2025年上半年虧損1.21億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.92億元，2025年上半年虧損1.23億元。公告稱，本半年度報告未經審計。"
+    },
+    {
+      "id": "5057551",
+      "time": "2026-08-25 17:47:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮發言人佩斯科夫：本週沒有在克里姆林宮與美國政府代表舉行會晤的計劃。"
+    },
+    {
+      "id": "5057550",
+      "time": "2026-08-25 17:46:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華百貨：擬以2億元-4億元回購股份】新華百貨公告稱，公司擬透過集中競價交易方式回購股份，回購資金總額不低於2億元、不超過4億元，回購價格不超過12.78元/股，預計回購股份數量為1564.95萬股-3129.89萬股，佔公司總股本的4.954%-9.908%。本次回購股份全部用於員工股權激勵或員工持股計劃，若回購完成後36個月內未使用完畢，未使用部分將依法登出。回購實施期限為董事會審議透過回購方案之日起12個月內。公司董事、高管、控股股東等主體未來6個月暫無減持計劃。本次回購存在股價超上限、資金籌措不足等導致方案無法順利實施的風險。"
+    },
+    {
+      "id": "5057548",
+      "time": "2026-08-25 17:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中力股份：2026年上半年淨利潤4.28億元，同比下降4.30%】中力股份公告，2026年上半年營業收入39.16億元，同比增長14.16%；歸屬於上市公司股東的淨利潤4.28億元，同比下降4.30%，2025年上半年為4.48億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.09億元，同比下降5.56%，2025年上半年為4.33億元。"
+    },
+    {
+      "id": "5057547",
+      "time": "2026-08-25 17:46:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【經緯恆潤：2026年上半年淨利潤虧損3.82億元，2025年同期虧損8696.44萬元】經緯恆潤公告，2026年上半年營業收入26.23億元，同比下降9.81%；歸屬於上市公司股東的淨利潤虧損3.82億元，2025年同期虧損8696.44萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3.96億元，2025年同期虧損1.15億元。"
+    },
+    {
+      "id": "5057546",
+      "time": "2026-08-25 17:46:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港政府資料顯示，7月中國香港對中國內地黃金出口總量為75.457公噸，6月該資料為78.147公噸。"
+    },
+    {
+      "id": "mkt:01a0384f-c8a0-7aab-910e-461ccc6059c5",
+      "time": "2026-08-25 17:45:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin spokesman Peskov said there are no plans this week for meetings at the Kremlin with U.S. government representatives."
+    },
+    {
+      "id": "5057545",
+      "time": "2026-08-25 17:45:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海正藥業：2026年上半年淨利潤6.36億元，同比增長112.82%】海正藥業公告，2026年上半年營業收入44.75億元，同比下降14.76%；歸屬於上市公司股東的淨利潤6.36億元，同比增長112.82%，2025年上半年為2.99億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5.13億元，同比增長59.79%，2025年上半年為3.21億元。"
+    },
+    {
+      "id": "5057544",
+      "time": "2026-08-25 17:45:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江醫藥：2026年上半年淨利潤6.06億元，同比下降9.99%】浙江醫藥公告，2026年上半年營業收入43.86億元，同比增長1.46%；歸屬於上市公司股東的淨利潤6.06億元，同比下降9.99%，2025年同期為6.73億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5.65億元，同比下降15.05%，2025年同期為6.65億元。"
+    },
+    {
+      "id": "5057543",
+      "time": "2026-08-25 17:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世界盃IP拉動業績大增 樂高CEO表態：積木設計永遠不會交給AI】受益於世界盃等IP引流獲客，樂高集團2026年上半年業績實現強勁增長。樂高集團於當地時間週二公佈的半年度財報顯示，樂高上半年營收同比增長21%，達到419億丹麥克朗（約65億美元）；淨利潤增長32%，達到86億丹麥克朗（約13億美元）。公司CEO表示，將繼續由人類設計師主導積木創作，不會讓AI取代核心設計環節。"
+    },
+    {
+      "id": "5057542",
+      "time": "2026-08-25 17:44:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST雅博：2026年上半年營收同比降70.55%】*ST雅博公告稱，2026年上半年實現營業收入3426.32萬元，同比下降70.55%；歸屬於上市公司股東的淨虧損7271.25萬元，同比增虧76.31%；扣除非經常性損益後淨虧損7300.89萬元，同比增虧78.97%。2026年7月16日，公司控股股東變更為棗莊市財金控股集團有限公司，實際控制人變更為棗莊市財政局。公司不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:markets:577922",
+      "time": "2026-08-25 17:44:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures at Over 1-Month High — Arabica coffee futures traded around $3.4 per pound, close to their highest since July 9, supported by tight inventories and persistent supply concerns. ICE-certified Arabica stocks continued to decline and are now near a 26-year low, leaving the market vulnerable to potential supply shocks. Brazil is heading for a record harvest of around 75 million bags, although harvesting has progressed more slowly than a year ago. Drier conditions are now allowing producers to accelerate fieldwork. However, the quality of part of the new Arabica crop remains a concern, with reports pointing to weaker cup quality and smaller bean sizes, which could limit the pace at which inventories are replenished. Meanwhile, El Niño remains an upside risk, particularly for Brazil’s 2027/28 crop, as changes in rainfall and temperatures could affect flowering and crop development. Colombia output is seen falling to 12.5 million bags in 2026, from 13.7 million in 2025, hampered by the emerging El Niño pattern."
+    },
+    {
+      "id": "mkt:01a0384e-2034-7aab-910e-3d37257e375c",
+      "time": "2026-08-25 17:43:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported Israel's defense minister KATZ also visited Syria this morning."
+    },
+    {
+      "id": "5057541",
+      "time": "2026-08-25 17:43:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫斯科 - 梵蒂岡大主教加拉格爾對俄羅斯外長拉夫羅夫表示：世界比以往任何時候都更需要外交手段。"
+    },
+    {
+      "id": "mkt:01a0384d-cec2-7aab-910e-36eb91f222d0",
+      "time": "2026-08-25 17:43:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Minister Lavrov said the world needs diplomacy more than ever."
+    },
+    {
+      "id": "mkt:01a0384d-ce45-7aab-910e-2dc63b177407",
+      "time": "2026-08-25 17:43:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S. plans to redeploy diplomats to Middle East embassies, signaling easing of war risk】The State Department is preparing to return diplomats to Middle East embassies evacuated before and during the Iran conflict, potentially as soon as this week, and to roll back emergency measures, according to an internal State Department memo obtained by the New York Times. Restorations to higher staffing are planned for U.S. missions in Israel, Lebanon, Saudi Arabia, Qatar, Jordan, Oman, Iraq and Kuwait; three U.S. officials confirmed the adjustments. Officials said the redeployment suggests tensions are easing, even as talks with Iran over extending a 60‑day truce have stalled."
+    },
+    {
+      "id": "mkt:01a0384d-b308-7aab-910e-212ee90d1912",
+      "time": "2026-08-25 17:43:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said Finnish President Stubb and other Western leaders claiming they can strategically defeat Russia are deceiving their own voters."
+    },
+    {
+      "id": "5057540",
+      "time": "2026-08-25 17:43:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金宏氣體：2026年上半年營收14.73億元 淨利同比降17.41%】金宏氣體公告稱，2026年上半年實現營業收入14.73億元，同比增長12.12%；歸屬於上市公司股東的淨利潤6789.34萬元，同比下降17.41%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1781.97萬元，同比下降73.50%。經營活動產生的現金流量淨額2.15億元，同比增長19.25%。基本每股收益0.13元，同比下降23.53%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "mkt:01a0384d-8cb6-7aab-910e-1d0f6218dad5",
+      "time": "2026-08-25 17:43:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Regions",
+        "Greater China",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing: Tencent Holdings (00700.HK) repurchased 682,000 shares on Aug 25 at a total cost of HK$300.4 mln."
+    },
+    {
+      "id": "te:economy:577921",
+      "time": "2026-08-25 17:43:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bosnia and Herzegovina",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Bosnia and Herzegovina Inflation Eases to 5-Month Low — The annual inflation rate in Bosnia and Herzegovina eased to 3.6% in July 2026 from 4.2% in the previous month, marking the lowest level since February. Prices continued to decline for food and non-alcoholic beverages (-1.1% vs -0.5% in June) and clothing and footwear (-7.8% vs -7.2%). At the same time, inflation moderated across several categories, including alcoholic beverages and tobacco (3.0% vs 3.4%), transport (13.0% vs 17.5%), communication (3.1% vs 3.2%), restaurants and hotels (4.8% vs 4.9%), and miscellaneous goods and services (1.7% vs 2.8%). Meanwhile, costs increased faster for housing and utilities (10.7% vs 10.5%), furnishings, household equipment and routine maintenance (2.7% vs 1.1%), health (5.9% vs 5.7%), and recreation and culture (3.6% vs 3.0%), while education costs remained unchanged at 1.8%. On a monthly basis, consumer prices fell 0.4% in July, easing from a 1.1% drop in June."
+    },
     {
       "id": "5057539",
       "time": "2026-08-25 17:42:44",
@@ -22,6 +328,14 @@
         "Impact bearish"
       ],
       "text": "Kremlin on a proposal for a free economic zone in eastern Ukraine: Donbas is part of Russia and third parties cannot administer Russian territory."
+    },
+    {
+      "id": "5057538",
+      "time": "2026-08-25 17:42:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同洲電子：就投資被騙提起重大訴訟 涉案2.21億元】同洲電子公告稱，公司因遭興寶國際信託等18名被告策劃實施“獵龍科技”投資騙局，被騙取1.5億元投資款且資金被轉移侵佔，已向江西省九江市中級人民法院提起侵權責任糾紛訴訟，目前案件處於一審立案階段。公司訴請18名被告連帶賠償1.5億元投資款及暫計至2026年7月19日的利息7052.40萬元，合計2.21億元，另訴請共青城青創集團、共青城市國資局對其中被告共青城財政管理投資有限公司的賠償義務承擔連帶責任。本案尚未開庭審理，對公司本期及期後利潤的影響存在不確定性。"
     },
     {
       "id": "5057537",
