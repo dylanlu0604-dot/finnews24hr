@@ -1,7 +1,60 @@
 {
   "date": "2026-08-25",
-  "count": 1233,
+  "count": 1238,
   "items": [
+    {
+      "id": "mkt:01a03771-3d08-7aab-9107-e194e410b8e1",
+      "time": "2026-08-25 13:42:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【US $40t debt draws headlines, but euro area's hidden liabilities pose larger risk】Hedgeye guest Daniel Lacalle says US explicit debt (~$40 tln) is headline-grabbing but not necessarily the first crack. Official US estimates put the present-value shortfall for Social Security and Medicare at about $95 tln over 75 years—roughly 5% of the cumulative PV of expected GDP—and federal debt in 2026 is forecast at about 101% of annual GDP. By contrast, euro-area hidden fiscal liabilities are at least as large as headline debt: the European Commission estimates net accrued public pension liabilities at about 150% of GDP and total pension promises at roughly 371% of GDP after future contributions; this excludes most future health and long-term care costs. Several large euro-area states have unfunded commitments exceeding 300% of GDP. Political resistance to spending cuts, French sovereign yields now above Italy's, and negative real returns on euro-area sovereign assets since 2021 have reduced investor appetite. Lacalle warns the next sovereign shock could originate in the euro area because member states borrow in a currency they do not control and reported debt follows the EDP headline measure rather than total public-sector liabilities. He adds recent global bond selling signals markets believe central banks can no longer mask fiscal imprudence; US Treasuries remain the global monetary and collateral benchmark, but euro-area fiscal risks are comparatively larger."
+    },
+    {
+      "id": "5056807",
+      "time": "2026-08-25 13:42:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部對山西內蒙古青海啟動地質災害防禦Ⅳ級響應】據氣象部門預報，未來三天，山西、內蒙古、青海部分地區有中到大雨，局地有暴雨。自然資源部地質災害技術指導中心研判，山西西部、內蒙古南部、青海東部部分地區發生地質災害的風險較高。根據《自然資源部地質災害防禦響應工作方案》，自然資源部於8月25日10時對山西、內蒙古、青海啟動地質災害防禦Ⅳ級響應。"
+    },
+    {
+      "id": "5056806",
+      "time": "2026-08-25 13:41:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬訊自控：半導體等新興領域整體營收比例較低 尚處於起步階段】萬訊自控(300112)8月25日接受機構調研時表示，半導體業務海內外佈局同步取得一定進展，產品體系全面覆蓋晶圓製造、CP測試、封裝測試全工藝流程。目前壓力感測器/變送器、真空計已取得部分海內外市場訂單，應用於刻蝕、沉積等半導體制程工藝裝置、測試工裝及特氣、廠務配套等場景；氣體探測器/報警器成功匯入中芯國際等國內頭部晶圓製造企業，以及法液空等全球工業氣體龍頭企業，核心客戶拓展實現關鍵突破。與此同時，正有序推進壓力感測器/變送器、質量流量控制器/流量計、氣體探測器/報警器、氣體分析儀等產品在多個海內外客戶的產品驗證工作，為後續規模化供貨奠定堅實基礎。2026年上半年半導體等新興領域實現營業收入1407.66萬元，尚處於起步階段，佔公司整體營收比例較低，對收入不構成重大影響。"
+    },
+    {
+      "id": "mkt:01a0376e-04bf-7aab-9107-dc21c6e297bf",
+      "time": "2026-08-25 13:39:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "515980.SZ",
+        "Impact bullish",
+        "688256.SH",
+        "CSI300"
+      ],
+      "text": "【Huafu AI ETF (515980) reverses higher; Stone Technology hits limit-up】Huafu AI ETF (515980) reversed and rallied in the afternoon. On-exchange ETF tracking the CSI Artificial Intelligence Industry Index (931071) rose over 1%. Constituent Stone Technology hit a 20cm limit-up; Cambricon gained 5.98%, Jiadu Technology rose 2.66%, and Huibo Yuntong and other AI names also advanced."
+    },
+    {
+      "id": "5056805",
+      "time": "2026-08-25 13:39:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人工智慧ETF華富(515980)午後反轉拉昇 成分股石頭科技20cm漲停】場內ETF中證人工智慧產業指數(931071)上漲超1%，成分股石頭科技20cm漲停，寒武紀上漲5.98%，佳都科技上漲2.66%，慧博雲通等個股跟漲。人工智慧ETF華富(515980)反轉拉昇。"
+    },
     {
       "id": "5056804",
       "time": "2026-08-25 13:37:54",
