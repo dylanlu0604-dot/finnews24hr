@@ -1,7 +1,122 @@
 {
-  "updated": "2026-08-25 10:02:52",
-  "count": 15908,
+  "updated": "2026-08-25 10:07:40",
+  "count": 15906,
   "items": [
+    {
+      "id": "5056530",
+      "time": "2026-08-25 10:05:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4700美元/盎司，日內跌0.02%。"
+    },
+    {
+      "id": "5056529",
+      "time": "2026-08-25 10:05:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報913.00元。"
+    },
+    {
+      "id": "mkt:01a036aa-ba44-7aab-9103-1a3fb8719b24",
+      "time": "2026-08-25 10:05:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold turned lower, breaching $4,650/oz. Spot silver fell 1.0% intraday to $68.24/oz."
+    },
+    {
+      "id": "5056528",
+      "time": "2026-08-25 10:05:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報68.20美元/盎司。"
+    },
+    {
+      "id": "5056527",
+      "time": "2026-08-25 10:05:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報3004.00元。"
+    },
+    {
+      "id": "5056526",
+      "time": "2026-08-25 10:05:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3975.00元。"
+    },
+    {
+      "id": "5056525",
+      "time": "2026-08-25 10:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果官宣 9 月 9 日召開 iPhone 18 Pro / Max 釋出會。"
+    },
+    {
+      "id": "te:markets:577728",
+      "time": "2026-08-25 10:04:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.2%, or 39 points, hovering around 25,475 on Tuesday, tracking overnight weakness on Wall Street as technology shares came under pressure. The decline was limited as strength in Hong Kong’s IPO market helped cushion broader risk-off sentiment. Investors remained cautious following Monday’s sharp sell-off in Alibaba after the e-commerce giant announced an HK$80 billion share placement to fund its artificial intelligence infrastructure expansion. The move raised concerns over potential dilution and the company’s rising AI-related capital spending. Meanwhile, investors continued to watch Shein’s Hong Kong IPO, which could raise up to US$1.8 billion at a valuation of about US$27 billion. Market attention also remained on upcoming US economic data and Federal Reserve policy signals for clues on the interest-rate outlook. Notable laggards included MiniMax (-4.7%), Meituan (-2.1%), Tencent (-0.1%), Xpeng Inc. (-5.8%), and SMIC (-1.2%)."
+    },
+    {
+      "id": "mkt:01a036a9-4916-7aab-9103-120bdfb8b33d",
+      "time": "2026-08-25 10:04:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share liquid-cooled server names jumped intraday; Kangsheng Co. surged straight to the daily limit, while Yingweike, Jialitu, Gaolan Co., Shenling Environment, Xinjindongli and Dayuan Pump also advanced."
+    },
+    {
+      "id": "5056524",
+      "time": "2026-08-25 10:03:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念異動拉昇 康盛股份直線漲停】液冷伺服器概念盤中異動拉昇，康盛股份直線漲停，英維克、佳力圖、高瀾股份、申菱環境、新錦動力、大元泵業跟漲。"
+    },
+    {
+      "id": "5056523",
+      "time": "2026-08-25 10:03:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中央結算公司：調降部分主營業務服務費用】中央國債登記結算有限責任公司（以下簡稱中央結算公司）決定調降部分主營業務收費。現通知如下：一、全額免除國際債券（熊貓債）發行登記服務費。二、對銀行間債券市場存續債券的付息兌付服務費費率實施9.5折優惠，優惠後費率為萬分之0.475。全額免除科創債、國際債券（熊貓債）付息兌付服務費。三、對銀行間債券市場現有優惠措施未覆蓋的券種和主體的現券交易結算服務費實施9折優惠，優惠後現券業務為135元/筆。四、對銀行間債券市場質押式回購、買斷式回購、債券借貸交易結算服務費實施9.5折優惠，優惠後質押式回購單券種為114元/筆，多券種為190元/筆；買斷式回購為190元/筆；債券借貸（含跨託管機構債券借貸、集中債券借貸）為190元/筆。五、對債券櫃檯業務各交易品種結算服務費費率實施9.5折優惠，優惠後櫃檯現券、質押式回購、買斷式回購、債券借貸、債券遠期等各櫃檯交易品種費率為債券結算面額的萬分之0.19，並實行封頂機制，單筆收費不超過120元。以上優惠措施自2026年9月1日起至2028年12月31日止有效。後續如有調整，中央結算公司將另行通知。"
+    },
+    {
+      "id": "5056522",
+      "time": "2026-08-25 10:03:03",
+      "tags": [
+        "行業",
+        "公司",
+        "觀點"
+      ],
+      "text": "【瑞士嘉盛銀行：宇樹股價暴漲後回撥顯示市場趨於理性 行業尚處早期】瑞士嘉盛銀行稱，中國的人形機器人產業仍處於非常早期的階段，考慮到未來的激烈競爭格局，宇樹科技上市時的高估值可能並不合理，其隨後的股價回撥顯示市場終究是趨於理性的。瑞士嘉盛銀行亞洲區首席投資總監陳東在週一下午的媒體會上表示，人形機器人作為一個板塊或者應用細分領域，非常有前景，但具體公司股價是否合理，則是另外一回事。該行股票部主管Tomasz Godziek稱，目前該行業缺乏的是應用場景，且仍面臨技術挑戰，例如機器人機械臂摺疊時會消耗大量電量；雖然視覺識別大幅提升，但在強光反射等複雜場景下仍有待突破等。"
+    },
     {
       "id": "mkt:01a036a7-4482-7aab-9103-0fcb01bff11d",
       "time": "2026-08-25 10:02:06",
@@ -144108,123 +144223,6 @@
         "其他"
       ],
       "text": "【安瀾德健完成近億元A輪融資】8月18日，安瀾德健（Enginprime Medical）宣佈完成近億元A輪融資，由啟明創投獨家投資。本輪募集資金將主要用於加速推進核心產品OpusOne™的國內註冊臨床試驗程序，並全面支援其海外早期臨床試驗的申報與開展。"
-    },
-    {
-      "id": "5045052",
-      "time": "2026-08-18 10:07:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【零跑汽車登陸阿根廷市場】8月18日，據零跑汽車訊息，零跑汽車近日攜零跑B10、零跑C10兩款全球車型正式登陸阿根廷市場。據介紹，零跑汽車在阿根廷市場首期佈局12家銷售網點和20家售後網點。"
-    },
-    {
-      "id": "5045051",
-      "time": "2026-08-18 10:07:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金失守4400美元/盎司】現貨黃金失守4400美元/盎司，日內跌0.36%。"
-    },
-    {
-      "id": "5045050",
-      "time": "2026-08-18 10:07:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡基準股指下跌1.2%，至5699.61點。"
-    },
-    {
-      "id": "5045049",
-      "time": "2026-08-18 10:06:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國海證券：供需改善幹散貨行業上行 運價中樞有望維持高位】國海證券釋出研報稱，鐵礦石、煤炭和糧食在全球幹散貨貿易週轉量中長期佔據核心地位。短中長期煤炭、糧食、鐵礦、鋼材及水泥等多貨種支撐需求上行。未來老船退出對沖新船交付，有效運力增量有限。2026年以來，BDI呈現“5月衝高、6月回撥、7月修復、8月走高”的走勢。考慮到長航距貨源釋放帶動噸海里需求增長，疊加供給受限，該行認為散運運價中樞有望上行，維持航運港口板塊“推薦”評級。"
-    },
-    {
-      "id": "5045048",
-      "time": "2026-08-18 10:06:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "DAYONE從星展銀行、華僑銀行和大華銀行獲得5.3億新元貸款用於資料中心建設。"
-    },
-    {
-      "id": "5045047",
-      "time": "2026-08-18 10:05:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川產業振興基金等新設西部商業航天股權投資基金】企查查APP顯示，近日，四川振興宇朔西部商業航天股權投資基金合夥企業（有限合夥）成立，出資額20億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由四川產業振興基金投資集團有限公司等共同出資。"
-    },
-    {
-      "id": "5045046",
-      "time": "2026-08-18 10:05:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【鈴木將在日本總部建設新辦公樓，預計2029年啟用】8月18日，鈴木汽車宣佈將在日本總部用地建設新辦公樓，計劃於2026年底開工，2029年竣工並投入使用。鈴木表示，新辦公樓將採用隔震結構，並配備高效裝置和節能設施，作為公司應對重大災害、維持業務連續性的核心基地。"
-    },
-    {
-      "id": "5045045",
-      "time": "2026-08-18 10:05:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "精工愛普生、住友化學將在壓電材料領域展開合作。"
-    },
-    {
-      "id": "5045044",
-      "time": "2026-08-18 10:04:20",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金：維持吉利汽車跑贏行業評級 目標價30港元】中金髮布研報稱，維持吉利汽車(00175)2026年和2027年盈利預測不變。當前股價對應2026/2027年7.9倍/6.3倍P/E。維持跑贏行業評級和30.00港元目標價，對應12.6倍/10.1倍2026/2027年P/E，有60.7%的上行空間。"
-    },
-    {
-      "id": "5045043",
-      "time": "2026-08-18 10:04:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼JCI指數上漲1.1%，創三個月來新高。"
-    },
-    {
-      "id": "mkt:01a0129c-b37e-7aab-906c-fbaaffaf8dd7",
-      "time": "2026-08-18 10:04:14",
-      "tags": [
-        "MKT News",
-        "02259.HK",
-        "Impact bullish"
-      ],
-      "text": "【BofA Securities raises Zijin Gold International PT to HK$150; reiterates Buy】BofA Securities says Zijin Gold International (02259.HK) reported 1H net profit of US$1.45bn, slightly above its prior guidance of about US$1.4bn, and declared an interim dividend for the first time. The firm raised its PT from HK$140 to HK$150 and reiterated a Buy rating. It lifted its full-year net profit forecast by 3% to US$3.1bn, citing lower unit cost assumptions based on year-to-date performance."
-    },
-    {
-      "id": "5045042",
-      "time": "2026-08-18 10:04:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "明治將於10月1日起上調飲料價格，將於11月1日起上調巧克力和零食價格。"
-    },
-    {
-      "id": "5045041",
-      "time": "2026-08-18 10:03:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達40億港元。"
-    },
-    {
-      "id": "5045040",
-      "time": "2026-08-18 10:03:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“中國洋浦港”登記在冊船舶突破100艘】從交通運輸部瞭解到，今天（18日）上午即將有兩艘新的貨船入籍“中國洋浦港”，這也將使得“中國洋浦港”登記在冊船舶數量突破百艘。從今年3月起，依託“中國洋浦港”船舶營運“一件事一次辦”的工作機制，船舶從入籍至投產運營可節省近一個月週期，單艘30萬噸超大型油輪最高可節約綜合成本約500萬元。"
     }
   ]
 }

@@ -1,7 +1,122 @@
 {
   "date": "2026-08-25",
-  "count": 774,
+  "count": 786,
   "items": [
+    {
+      "id": "5056530",
+      "time": "2026-08-25 10:05:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4700美元/盎司，日內跌0.02%。"
+    },
+    {
+      "id": "5056529",
+      "time": "2026-08-25 10:05:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報913.00元。"
+    },
+    {
+      "id": "mkt:01a036aa-ba44-7aab-9103-1a3fb8719b24",
+      "time": "2026-08-25 10:05:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold turned lower, breaching $4,650/oz. Spot silver fell 1.0% intraday to $68.24/oz."
+    },
+    {
+      "id": "5056528",
+      "time": "2026-08-25 10:05:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報68.20美元/盎司。"
+    },
+    {
+      "id": "5056527",
+      "time": "2026-08-25 10:05:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報3004.00元。"
+    },
+    {
+      "id": "5056526",
+      "time": "2026-08-25 10:05:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3975.00元。"
+    },
+    {
+      "id": "5056525",
+      "time": "2026-08-25 10:04:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果官宣 9 月 9 日召開 iPhone 18 Pro / Max 釋出會。"
+    },
+    {
+      "id": "te:markets:577728",
+      "time": "2026-08-25 10:04:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.2%, or 39 points, hovering around 25,475 on Tuesday, tracking overnight weakness on Wall Street as technology shares came under pressure. The decline was limited as strength in Hong Kong’s IPO market helped cushion broader risk-off sentiment. Investors remained cautious following Monday’s sharp sell-off in Alibaba after the e-commerce giant announced an HK$80 billion share placement to fund its artificial intelligence infrastructure expansion. The move raised concerns over potential dilution and the company’s rising AI-related capital spending. Meanwhile, investors continued to watch Shein’s Hong Kong IPO, which could raise up to US$1.8 billion at a valuation of about US$27 billion. Market attention also remained on upcoming US economic data and Federal Reserve policy signals for clues on the interest-rate outlook. Notable laggards included MiniMax (-4.7%), Meituan (-2.1%), Tencent (-0.1%), Xpeng Inc. (-5.8%), and SMIC (-1.2%)."
+    },
+    {
+      "id": "mkt:01a036a9-4916-7aab-9103-120bdfb8b33d",
+      "time": "2026-08-25 10:04:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share liquid-cooled server names jumped intraday; Kangsheng Co. surged straight to the daily limit, while Yingweike, Jialitu, Gaolan Co., Shenling Environment, Xinjindongli and Dayuan Pump also advanced."
+    },
+    {
+      "id": "5056524",
+      "time": "2026-08-25 10:03:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念異動拉昇 康盛股份直線漲停】液冷伺服器概念盤中異動拉昇，康盛股份直線漲停，英維克、佳力圖、高瀾股份、申菱環境、新錦動力、大元泵業跟漲。"
+    },
+    {
+      "id": "5056523",
+      "time": "2026-08-25 10:03:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中央結算公司：調降部分主營業務服務費用】中央國債登記結算有限責任公司（以下簡稱中央結算公司）決定調降部分主營業務收費。現通知如下：一、全額免除國際債券（熊貓債）發行登記服務費。二、對銀行間債券市場存續債券的付息兌付服務費費率實施9.5折優惠，優惠後費率為萬分之0.475。全額免除科創債、國際債券（熊貓債）付息兌付服務費。三、對銀行間債券市場現有優惠措施未覆蓋的券種和主體的現券交易結算服務費實施9折優惠，優惠後現券業務為135元/筆。四、對銀行間債券市場質押式回購、買斷式回購、債券借貸交易結算服務費實施9.5折優惠，優惠後質押式回購單券種為114元/筆，多券種為190元/筆；買斷式回購為190元/筆；債券借貸（含跨託管機構債券借貸、集中債券借貸）為190元/筆。五、對債券櫃檯業務各交易品種結算服務費費率實施9.5折優惠，優惠後櫃檯現券、質押式回購、買斷式回購、債券借貸、債券遠期等各櫃檯交易品種費率為債券結算面額的萬分之0.19，並實行封頂機制，單筆收費不超過120元。以上優惠措施自2026年9月1日起至2028年12月31日止有效。後續如有調整，中央結算公司將另行通知。"
+    },
+    {
+      "id": "5056522",
+      "time": "2026-08-25 10:03:03",
+      "tags": [
+        "行業",
+        "公司",
+        "觀點"
+      ],
+      "text": "【瑞士嘉盛銀行：宇樹股價暴漲後回撥顯示市場趨於理性 行業尚處早期】瑞士嘉盛銀行稱，中國的人形機器人產業仍處於非常早期的階段，考慮到未來的激烈競爭格局，宇樹科技上市時的高估值可能並不合理，其隨後的股價回撥顯示市場終究是趨於理性的。瑞士嘉盛銀行亞洲區首席投資總監陳東在週一下午的媒體會上表示，人形機器人作為一個板塊或者應用細分領域，非常有前景，但具體公司股價是否合理，則是另外一回事。該行股票部主管Tomasz Godziek稱，目前該行業缺乏的是應用場景，且仍面臨技術挑戰，例如機器人機械臂摺疊時會消耗大量電量；雖然視覺識別大幅提升，但在強光反射等複雜場景下仍有待突破等。"
+    },
     {
       "id": "mkt:01a036a7-4482-7aab-9103-0fcb01bff11d",
       "time": "2026-08-25 10:02:06",
