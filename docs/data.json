@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-26 05:21:13",
+  "updated": "2026-08-26 05:25:22",
   "count": 16516,
   "items": [
+    {
+      "id": "5058526",
+      "time": "2026-08-26 05:21:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根大通放寬針對 SpaceX 股票的質押借款限制。"
+    },
     {
       "id": "5058525",
       "time": "2026-08-26 05:17:35",
@@ -149411,14 +149419,6 @@
         "MKT News"
       ],
       "text": "Canada's Prime Minister Carney's office said Carney and U.S. President Trump spoke this afternoon about ongoing negotiations."
-    },
-    {
-      "id": "5046506",
-      "time": "2026-08-19 05:25:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理馬克·卡尼與美國總統特朗普今日下午就正在進行的談判再次通話。"
     }
   ]
 }
