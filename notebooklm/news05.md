@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-26 06:38:50_
-_本檔包含 3254 則快訊，約 654667 字_
+_更新時間：2026-08-26 06:59:47_
+_本檔包含 3254 則快訊，約 654871 字_
+
+---
+
+### 2026-08-20 07:50:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan July merchandise trade balance (non-seasonally adjusted) -634.5 bln yen, vs. -680.0 bln expected. June trade balance revised from -406.9 bln to -409.9 bln.
+
+---
+
+### 2026-08-20 07:50:11  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+Japan July goods imports YoY 27.8% (expected 26.5%, prior 25.4%).
+
+---
+
+### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign Bonds Buying (Aug.14) | actual 1135100000000B | previous 1629400000000B
+
+---
+
+### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Weekly Foreign investment in Japanese Stocks (Aug.14) | actual 621200000000B | previous -368500000000B
+
+---
+
+### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Unadjusted Merchandise Trade Balance (Jul) | actual -634500000000B | consensus -680000000000B | previous -406900000000B
+
+---
+
+### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Annualized Adjusted Merchandise Trade Imports (Jul) | actual 27.8% | consensus 26.5% | previous 25.40%
+
+---
+
+### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
+
+Japan | Annualized Adjusted Merchandise Trade Exports (Jul) | actual 23.2% | consensus 19.9% | previous 19.30%
+
+---
+
+### 2026-08-20 07:47:08  #市場 #國際
+
+基準10年期日本國債期貨早盤上漲0.19個點。
+
+---
+
+### 2026-08-20 07:47:05  #市場 #國際
+
+日本日經平均指數期貨早盤上漲1.3%。
+
+---
+
+### 2026-08-20 07:46:25  #國際
+
+【日本擬研發潛射高超聲速導彈】綜合共同社、《東京新聞》等多家日媒19日報道，日本防衛省2027年度預算要求整體內容日前曝光。多名相關人士18日透露，作為強化所謂“反擊能力”（即所謂對敵基地攻擊能力）的手段之一，日本防衛省計劃研發潛射高超聲速導彈，並推進為無人潛航器配備遠端導彈發射功能的相關研究。接受記者採訪的軍事問題專家19日表示，日本已徹底撕下其長期以來標榜的“和平國家”的偽裝，在極其危險的軍事擴張道路上狂飆。（環球時報）
+
+---
+
+### 2026-08-20 07:45:59  #觀點
+
+【中金：預計伺服器液冷泵作為核心動力元件有望迎來放量週期】中金研報指出，全球AI算力晶片功耗加速突破風冷散熱極限，資料中心向液冷架構演進，預計伺服器液冷泵作為核心動力元件有望迎來放量週期。國內汽車熱管理龍頭依託精密電子電機控制、高壓全密封等底層工藝跨界入局，展現競爭優勢。
+
+---
+
+### 2026-08-20 07:45:58  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged higher on Thursday after posting a modest rebound in the previous session, as a sharp decline in Treasury yields helped improve investor sentiment. In regular trading on Wednesday, the Dow and S&P 500 rose 0.22% and 0.21%, respectively, while the Nasdaq Composite advanced 0.16%, with all three benchmarks snapping a three-day losing streak. The consumer discretionary, materials and consumer staples sectors outperformed the broader market, while industrial, technology and financial stocks lagged. Yields on longer-dated US Treasurys pulled back from multi-year highs after the government announced plans to more than double repurchases of 10-, 20- and 30-year debt over the coming months. The move came after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Investors now turn their attention to retail giant Walmart’s earnings later in the global day, along with the latest weekly jobless claims data.
+
+---
+
+### 2026-08-20 07:40:29  #其他
+
+【多隻REITs產品原始權益人相繼披露增持計劃】在公募REITs二級市場持續震盪調整的背景下，近日多隻REITs產品原始權益人相繼披露增持計劃。有分析指出，增持計劃帶來的增量資金，有助於平抑二級市場波動，緩解階段性流動性壓力，引導價格向資產內在價值合理迴歸。在估值經歷深度出清後，部分REITs高企的現金分派率與走闊的利差空間，也令此類產品配置價效比再度顯現，併為追求穩健現金流的長期資金鋪設了厚實的安全墊。
+
+---
+
+### 2026-08-20 07:39:46  #其他
+
+【新股提示：格林生物今日申購】今日可申購格林生物，格林生物發行總數約3333萬股，網上發行約為700萬股，發行市盈率19.80倍，申購程式碼為：301688，申購價格：26.33元，單一賬戶申購上限0.7萬股。
+
+---
+
+### 2026-08-20 07:39:29  #觀點
+
+【華泰證券：中長期仍看好交執行業景氣底部回暖，左側佈局具備較高價效比】華泰證券研報指出，7月傳統暑運旺季疊加航煤出廠價回落，航司加大運力投放。三大航（國航/東航/南航，下同）+春秋+吉祥ASK/RPK分別同增4.6%/7.8%（6月為同降2.5%/1.7%），客座率同增2.6pct至86.2%，不過量增價弱，國內線含油票價第27周-31周（6/29-8/2）同降3.2%（6/1-6/28為同增11.5%，航班管家）。8月上旬進入暑運高峰，民航票價表現邊際改善，第32周-33周（8/3-8/16）同增2.6%，不過考慮基數不高，暑運並未產生明顯旺季效應，板塊關注度較低。往後展望，繼續關注國際油價和高頻資料走勢，中長期仍看好行業景氣底部回暖，左側佈局具備較高價效比。
+
+---
+
+### 2026-08-20 07:38:57  #觀點
+
+【華泰證券：縣域市場已從快消品行業的“補充市場”升級為“核心增量引擎”】華泰證券研報指出，近日，商務部等9部門聯合印發《關於進一步激發下沉市場活力、活躍縣域消費的意見》，提出6方面18條措施，核心舉措包括支援縣域消費渠道升級，深化“千集萬店”改造，支援鄉鎮商貿中心、集貿市場等建設升級，引進國內外品牌開設區域首店；推動縣域商業業態創新和品牌打造，推行同一縣域連鎖企業“一照多址”，支援國貨潮品下沉至縣域市場；最佳化縣域商品和服務供給，促進同品同款商品城鄉“同質同享”；進一步提升縣域流通的現代化水平，引導線上&線下渠道協同發展。華泰判斷縣域市場已從快消品行業的“補充市場”升級為“核心增量引擎”，對於具備品牌認知、供應鏈效率和渠道管理能力的龍頭企業而言，下沉能力正從可選項變為必選項。
+
+---
+
+### 2026-08-20 07:38:23  #公司
+
+【公募基金年內累計分紅1094.63億元】近期，公募基金密集釋出分紅公告。資料顯示，截至8月19日，本月內公募基金已釋出99份分紅公告。今年以來公募基金累計分紅4124次，分紅總額達1094.63億元。（證券日報）
+
+---
+
+### 2026-08-20 07:37:56  #其他
+
+【從沉睡資源到搶手硬通貨 海洋資料成為一門“大生意”】近期，海南、福建、浙江、廣西、遼寧等省份已釋出省級“十五五”海洋經濟發展規劃，全部對海洋資料、數字海洋建設作出系統部署。這意味著海洋資料不再是躺在伺服器裡的“沉睡資源”，而是一筆可以認真去做、值得長期經營的“大生意”。可以預見，“十五五”期間，誰能率先把海洋資料做成一門好生意，誰就能在藍色經濟的新賽道上搶佔先機。（證券日報）
+
+---
+
+### 2026-08-20 07:37:48  #宏觀 #公司
+
+【48家央企攜263件展品亮相2026世界機器人大會 中央企業機器人創新聯合體正式成立】8月19日，2026世界機器人大會在京啟幕。值得一提的是，為加快構建機器人領域產學研用協同創新體系，本屆大會上，在國務院國資委指導下，中國兵器工業集團有限公司牽頭，聯合中央企業、高校及科研院所、民營企業、行業學會等百餘家單位組建中央企業機器人創新聯合體。此外，中央企業機器人十大創新成果和十大高價值應用場景同步釋出，也成為本屆大會的一大亮點。（證券日報）
+
+---
+
+### 2026-08-20 07:35:59  #宏觀 #公司 #觀點
+
+【華泰證券：重點關注在核心城市擁有較多佈局且具備產品力優勢的優質房企，以及部分低估值房企、頭部港資房企和物管/商管公司】華泰證券研報指出，8月18日，國務院總理簽署國務院令，正式公佈《國務院關於修改〈住房公積金管理條例〉的決定》。除了拓寬用途、提升效能、強化風控、擴大覆蓋面四大部分的修改之外，我們認為亦需重視公積金利率形成機制的變化，或潛在帶來公積金利率結構性下調的可能性。今年以來上海低總價二手房率先企穩印證了公積金政策的作用，若未來公積金迎來結構性降息，疊加核心城市住房租金逐步企穩甚至反彈，或將催生更多“由租轉買”需求，助力房地產市場加速回穩。重點關注在核心城市擁有較多佈局且具備產品力優勢的優質房企，以及部分低估值房企、頭部港資房企和物管/商管公司。
 
 ---
 
@@ -19514,139 +19634,5 @@ US Crude Inventories Barely Decline — US crude oil inventories fell by 328,000
 ### 2026-08-19 07:02:04  #公司
 
 【看好AI投資機遇，QFII資金“廣撒網”】今年二季度，QFII資金積極關注AI投資機遇。根據目前已披露的A股上市公司2026年半年報，QFII資金二季度新增持有國瓷材料、宏發股份、中材科技的市值均在10億元以上，二季度國瓷材料、中材科技分別漲超230%、130%。同時，QFII資金也在持續挖掘中小市值個股的投資機會，外資機構二季度扎堆持有的美諾華、曉程科技等，7月以來均有明顯的反彈。
-
----
-
-### 2026-08-19 06:59:38  #Trading Economics #Economy #New Zealand #Producer Price Inflation MoM #Importance 1
-
-New Zealand PPI Output Prices Rise More than Expected — Producer output prices in New Zealand increased 1.6% quarter-on-quarter in the June quarter of 2026, exceeding both the previous quarter’s 0.8% rise and market expectations of a 0.8% increase. It marked the fastest pace since the first quarter of 2025, boosted mainly by three sectors, with the largest contributions coming from electricity and gas supply (11.0%), dairy product manufacturing (3.9%), and road transport (8.4%).
-
----
-
-### 2026-08-19 06:58:49  #其他
-
-中國地震臺網正式測定：08月19日06時53分在新疆克孜勒蘇州阿合奇縣（北緯40.85度，東經78.75度）發生3.7級地震，震源深度10千米。
-
----
-
-### 2026-08-19 06:56:55  #其他
-
-韓媒：美韓聯合軍演日程預計將縮減一半。
-
----
-
-### 2026-08-19 06:56:38  #MKT News #S&P500 #Impact bullish #USDJPY #Impact bearish #XAUUSD
-
-According to South Korean media, the planned scale of US-South Korea joint military exercises is expected to be halved.
-
----
-
-### 2026-08-19 06:55:51  #其他
-
-【我國執業醫師達529萬人 居民主要健康指標達歷史最好水平】今天是第九個中國醫師節，各地醫療機構和醫務工作者舉行了形式多樣的紀念活動。記者今天從國家衛生健康委瞭解到，截至2025年底，全國執業（助理）醫師達到529萬人，超額完成“十四五”衛生健康人才發展規劃設定目標。醫師隊伍中研究生學歷佔比、本科以上學歷佔比、高階技術職務佔比等指標，較2012年均有提升。2025年，我國醫療衛生機構總診療人次超106億，我國居民主要健康指標跨入中高收入和人口過億國家前列，達到歷史最好水平。 (央視新聞)
-
----
-
-### 2026-08-19 06:50:41  #Trading Economics #Economy #New Zealand #PPI Input #Importance 1
-
-New Zealand PPI Input Prices Rises the Most in 5 Quarters — Producer input prices in New Zealand advanced by 2.9% quarter-on-quarter in the three months to June 2026, after a 1.4% rise in the previous quarter and surpassing market expectations of a 1.3% growth. It was the fastest increase since Q1 2025, with the largest contributors to the rise in input prices being electricity and gas supply, which rose 11.0%, dairy product manufacturing (3.9%), and road transport (8.4%).
-
----
-
-### 2026-08-19 06:47:22  #其他
-
-據燈塔專業版實時資料，截至8月19日1時50分，影片《歡迎來龍餐館》票房突破11億。
-
----
-
-### 2026-08-19 06:47:11  #公司
-
-【熱點城市土拍市場升溫，民營房企重拾拿地信心】 8月18日，海口市長秀片區XY0602061地塊經207輪競價成交，海南發展控股置業集團有限公司以23721.6061萬元競得，溢價率達27.52%。今年以來，國內熱點城市土地市場持續回暖，北上廣深、海口、杭州等城市集中出讓優質地塊，高溢價成交成為常態。伴隨市場修復，房企拿地活躍度穩步提升，行業投資信心出現邊際修復。（中證報）
-
----
-
-### 2026-08-19 06:47:00  #資料 #市場 #央行 #國際
-
-【週三重要財經資訊提醒（以下均為北京時間）】 
-① 07:50 日本6月核心機械訂單；
-② 08:00 韓國新投資者買槓桿ETF須先完成模擬交易（新規實施）；
-③ 時間待定 朱雀三號遙二火箭確定8月19日清晨於酒泉發射，世界機器人大會在北京開幕（8月19日-23日），首爾人工智慧峰會開幕（8月19-21日）；
-④ 09:20 宇樹科技上市；
-⑤ 10:45 澳洲聯儲副主席Andrew Hauser參與一場爐邊閒聊；
-⑥ 14:00 英國7月CPI；
-⑦ 15:10 歐洲央行行長拉加德出席世界經濟論壇國際工商理事會 (IBC) 會議的“全球經濟展望”討論會；
-⑧ 15:20 印尼央行公佈利率決議；
-⑨ 港股收盤之後 快手釋出業績報告；
-⑩ 17:00 歐元區7月CPI終值；
-美股盤前 勞氏百貨、塔吉特等釋出業績報告；
-18:15 歐洲央行行長拉加德講話；
-22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；
-次日02:00 美聯儲釋出FOMC會議紀要。
-
----
-
-### 2026-08-19 06:46:27  #MKT News
-
-New Zealand Q2 input PPI YoY 4.1%, previous 1.8%.
-
----
-
-### 2026-08-19 06:46:23  #MKT News
-
-New Zealand Q2 output PPI YoY 3.2%, prior 2.2%.
-
----
-
-### 2026-08-19 06:46:22  #MKT News #Economic Calendar #Important
-
-New Zealand | Input PPI (YoY) (Q2) | actual 4.1% | previous 1.8%
-
----
-
-### 2026-08-19 06:46:17  #MKT News #Economic Calendar #Important
-
-New Zealand | Output PPI (YoY) (Q2) | actual 3.2% | previous 2.2%
-
----
-
-### 2026-08-19 06:45:07  #MKT News
-
-New Zealand Q2 imported PPI QoQ 2.9% (prior 1.4%).
-
----
-
-### 2026-08-19 06:45:07  #MKT News
-
-New Zealand Q2 output PPI rose 1.6% QoQ, versus 0.8% in the prior quarter.
-
----
-
-### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Output PPI (QoQ) (Q2) | actual 1.6% | previous 0.80%
-
----
-
-### 2026-08-19 06:45:00  #MKT News #Economic Calendar #Important
-
-New Zealand | Input PPI (QoQ) (Q2) | actual 2.9% | previous 1.40%
-
----
-
-### 2026-08-19 06:44:01  #國際
-
-【美官員：以色列對敘空襲含政治考量，大選成重要動因】部分美國高階官員認為，以色列對敘利亞發動空襲，部分動因可能源於以色列即將在10月舉行的大選。這些官員表示，敘利亞此前一直尋求緩和緊張局勢，並希望建立一套由美國支援的以敘協調機制，但以色列拒絕落實該機制，反而加大對敘利亞南部的軍事入侵行動。美國官員擔憂，此舉正迫使大馬士革採取更強硬的對抗立場。特朗普政府已敦促敘利亞保持克制，並向敘方官員表示，待以色列大選結束後，各方或許更容易化解當前緊張局面。
-
----
-
-### 2026-08-19 06:40:05  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Rises by 4.19% — Top commodity gainers are Coffee (4.19%), Sugar (3.56%) and Rubber (1.77%). Biggest losers are Canola (-2.82%), Cocoa (-2.47%) and Wheat (-1.52%).
-
----
-
-### 2026-08-19 06:39:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
-
-【Bond volatility persists; Asian equities set to open lower Wednesday】Asian equities were set to open lower Wednesday after an overnight rout in US technology stocks and a rise in bond yields, oil and Middle East tensions prompted risk-off positioning. Japan, South Korea and Australia index futures were down at the open while US equity futures were largely flat. At Tuesday’s close the Nasdaq 100 fell 1.7% and the S&P 500 was down 0.7%, each marking a third straight session of declines; a semiconductor-stock benchmark slid about 5%. Treasuries were little changed overall but the 10-year yield remained near its highest level since early 2025; the 30-year yield briefly rose to 5.34% before easing. US crude (WTI) rebounded above $85 as a US–Iran stalemate over control of the Strait of Hormuz raised supply-risk concerns.
 
 ---

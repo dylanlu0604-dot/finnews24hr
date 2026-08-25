@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-26 06:38:50_
-_本檔包含 3405 則快訊，約 654439 字_
+_更新時間：2026-08-26 06:59:47_
+_本檔包含 3403 則快訊，約 654384 字_
+
+---
+
+### 2026-08-21 08:04:26  #MKT News #Market Regions #Japan & APAC #DXY #Impact bearish
+
+South Korean customs data showed Aug 1-20 exports up 56.0% YoY, imports up 19.0% YoY; trade surplus $13.98bn.
+
+---
+
+### 2026-08-21 08:04:25  #MKT News
+
+【Changchun High & New: equity-investee's pan-tumor mRNA vaccine TMT101 in IIT at Peking Union Medical College Hospital】Changchun High & New said on Aug. 20 in an investor call that Baike Biotech has established multiple R&D platforms including an mRNA vaccine platform and is expanding its applications. As of end-June 2026, Baike’s self-developed HSV-2 vaccine is in Phase I. Baike’s equity-investee, Chuanxin Biopharma (Suzhou) — which Baike will acquire up to 100% subject to milestone conditions under the parties’ agreement — is conducting an investigator-initiated trial (IIT) of a pan-tumor mRNA vaccine, TMT101, at Peking Union Medical College Hospital.
+
+---
+
+### 2026-08-21 08:02:57  #其他
+
+【銀河證券：超節點重塑網路架構 關注國內交換機+交換晶片領域龍頭】銀河證券研報認為，AI時代算力叢集的前後端網路組網均拉動大量交換機需求，1.6T埠交換機有望在2027年開始放量，WAIC 2026超節點成為絕對主角，內部互聯頻寬快速演進，埠速率每迭代一次，單臺交換機價值量便有所提升，支撐盈利能力。同時Scale-Up交換機對時延的要求自μs級壓縮至百ns級，設計難度與驗證週期遠超傳統產品，賦予存量玩家持續的議價能力，倒逼產業鏈“卡脖子”環節——交換晶片國產替代加速，疊加海外交換機龍頭業績兌現催化，建議關注國內交換機+交換晶片領域龍頭。
+
+---
+
+### 2026-08-21 08:02:18  #公司
+
+【長春高新：百克生物參股公司的通用型腫瘤mRNA疫苗（TMT101）正在北京協和醫院開展IIT臨床試驗】長春高新8月20日在機構電話會議上表示，百克生物搭建了包括mRNA疫苗技術平臺在內的多個研發技術平臺，並持續推進mRNA平臺技術拓展應用。截至2026年6月末，百克生物HSV-2疫苗（自研）正在開展I期臨床試驗；百克生物的參股公司傳信生物醫藥（蘇州）有限公司（根據雙方協議約定，在傳信生物滿足相關里程碑條件時，百克生物將最終持有其100%股權）研發的通用型腫瘤mRNA疫苗（TMT101）正在北京協和醫院開展IIT臨床試驗。
+
+---
+
+### 2026-08-21 08:02:12  #MKT News #Market Regions #Emerging Markets #Nikkei 225 #Impact bearish #Hang Seng Index
+
+South Korea's KOSPI opened down 73.25 points (-1.07%) at 6,779.33 on Aug 21 (Fri).
+
+---
+
+### 2026-08-21 08:01:34  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #USDJPY #DXY #Impact bullish
+
+Japan's Nikkei 225 opened down 639.56 points, or 0.97%, at 65,577.23 on Friday, Aug. 21.
+
+---
+
+### 2026-08-21 08:01:27  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+【Japan's Nikkei 225 and South Korea's KOSPI open over 1% lower】Japan's Nikkei 225 and South Korea's KOSPI opened more than 1% lower.
+
+---
+
+### 2026-08-21 08:00:54  #市場 #焦點 #國際
+
+【日韓股市低開】日經225指數低開1.1%，韓國首爾綜指低開1.4%。
+
+---
+
+### 2026-08-21 08:00:22  #國際
+
+韓國8月進口20天同比 19%，前值 20%。韓國8月出口20天同比 56%，前值 52.3%。
+
+---
+
+### 2026-08-21 07:59:36  #公司 #市場
+
+三星股價小幅上漲，此前宣佈至多790億美元的股東回報計劃。
+
+---
+
+### 2026-08-21 07:58:28  #其他
+
+李寧宣佈中期股息每股0.3512元人民幣，上年同期為0.3359元人民幣。
+
+---
+
+### 2026-08-21 07:58:14  #公司
+
+【智微智慧：向特定物件發行股票申請獲深交所受理】智微智慧公告稱，公司近日收到深圳證券交易所出具的通知，深交所對公司報送的2026年度向特定物件發行股票的申請檔案進行核對後，認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。
+
+---
+
+### 2026-08-21 07:58:11  #公司
+
+【萊寶高科：回覆定增稽核問詢函並更新申請檔案】萊寶高科公告稱，公司收到深交所出具的2026年度向特定物件發行A股股票的稽核問詢函後，已會同相關中介機構對問詢函所列問題逐項回覆說明，並對募集說明書等申請檔案進行補充更新，相關內容詳見同日登載於巨潮資訊網的公告。本次定增事項已經公司董事會及股東會審議透過，尚需透過深交所稽核並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。
+
+---
+
+### 2026-08-21 07:57:59  #其他
+
+李寧上半年淨利潤18.2億元人民幣，上年同期淨利潤為17.4億元人民幣。
+
+---
+
+### 2026-08-21 07:57:52  #其他
+
+李寧：上半年營收152.35億元人民幣，上年同期為148.2億元人民幣。
+
+---
+
+### 2026-08-21 07:56:13  #MKT News #005930.KS #Impact bullish
+
+【Samsung to unveil shareholder return plan potentially up to 110 trillion won ($79bn)】People familiar with the matter said Samsung Electronics will announce on Friday a shareholder return plan that could reach 110 trillion won (about $79 billion). The board is scheduled to meet after the KOSPI close at around 4:00 p.m. local time, with details expected shortly after. The plan’s size is said to be likely between 90 trillion and 110 trillion won.
+
+---
+
+### 2026-08-21 07:54:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
+
+【Japan core inflation accelerates for second month, reinforces BOJ near-term rate-hike bets】Japan's key inflation gauges accelerated for a second month, boosting expectations the Bank of Japan may tighten policy soon. July core CPI rose 1.8% YoY, up from 1.6% in June and in line with economists' median. The BOJ's preferred core-core measure (ex fresh food and energy) rose 1.9% YoY; headline CPI also climbed 1.9%. Energy prices contributed to the pickup, with July energy up 0.6% YoY after a small decline in June. Governor UEDA has signaled policymakers could speed up normalization; with yen weakness adding upside inflation risk, markets have increased bets on BOJ action as soon as September despite a rare US-Japan coordinated FX intervention at end-July.
+
+---
+
+### 2026-08-21 07:53:12  #公司 #市場 #國際
+
+【目前已有22家煤炭上市公司披露2026年半年度業績相關公告 報喜比例近七成】近期，焦炭期貨、現貨價格持續上漲。生意社資料顯示，截至8月20日，焦炭基準價達到1868.75元/噸，較5月20日上漲11.40%；期貨方面，焦炭2701主力合約8月以來持續上漲，累計漲幅已達到12.85%。焦煤近期亦有明顯漲幅。生意社資料顯示，煉焦煤8月18日價格為1923.75元/噸，較5月18日上漲23.42%；期貨方面，8月以來，焦煤2701主力合約累計上漲18.99%。需求方面，今年上半年，全國用電需求保持旺盛增長態勢，算力、充換電等行業高速發展，疊加持續高溫天氣，全社會用電量增速加快。據證券時報·資料寶統計，截至8月20日，已有22家煤炭上市公司披露2026年半年度業績相關公告。按半年報淨利潤、業績預告下限順序計算，3家公司扭虧為盈，6家同比減虧，6家實現淨利潤同比增長，報喜比例近七成。扭虧為盈的3家公司中，甘肅能化淨利潤最高，公司預計實現歸母淨利潤1.66億元，主要由於煤炭銷售均價同比上漲。從估值上來看，上述扭虧、減虧、預增的15只煤炭股中，4股最新市淨率不足1倍，處於“破淨”狀態，包括山西焦化、蘭花科創、甘肅能化、恆源煤電，最新市淨率分別為0.6倍、0.71倍、0.84倍、0.9倍。
 
 ---
 
@@ -20462,125 +20570,5 @@ Net foreign purchases of Japanese equities totalled 621.2 bln yen in the week to
 ### 2026-08-20 07:50:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish #DXY
 
 Japan July goods exports YoY 23.2% (expected 19.9%; prior 19.3%).
-
----
-
-### 2026-08-20 07:50:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan July merchandise trade balance (non-seasonally adjusted) -634.5 bln yen, vs. -680.0 bln expected. June trade balance revised from -406.9 bln to -409.9 bln.
-
----
-
-### 2026-08-20 07:50:11  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish
-
-Japan July goods imports YoY 27.8% (expected 26.5%, prior 25.4%).
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Bonds Buying (Aug.14) | actual 1135100000000B | previous 1629400000000B
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Stocks (Aug.14) | actual 621200000000B | previous -368500000000B
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Unadjusted Merchandise Trade Balance (Jul) | actual -634500000000B | consensus -680000000000B | previous -406900000000B
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Annualized Adjusted Merchandise Trade Imports (Jul) | actual 27.8% | consensus 26.5% | previous 25.40%
-
----
-
-### 2026-08-20 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Annualized Adjusted Merchandise Trade Exports (Jul) | actual 23.2% | consensus 19.9% | previous 19.30%
-
----
-
-### 2026-08-20 07:47:08  #市場 #國際
-
-基準10年期日本國債期貨早盤上漲0.19個點。
-
----
-
-### 2026-08-20 07:47:05  #市場 #國際
-
-日本日經平均指數期貨早盤上漲1.3%。
-
----
-
-### 2026-08-20 07:46:25  #國際
-
-【日本擬研發潛射高超聲速導彈】綜合共同社、《東京新聞》等多家日媒19日報道，日本防衛省2027年度預算要求整體內容日前曝光。多名相關人士18日透露，作為強化所謂“反擊能力”（即所謂對敵基地攻擊能力）的手段之一，日本防衛省計劃研發潛射高超聲速導彈，並推進為無人潛航器配備遠端導彈發射功能的相關研究。接受記者採訪的軍事問題專家19日表示，日本已徹底撕下其長期以來標榜的“和平國家”的偽裝，在極其危險的軍事擴張道路上狂飆。（環球時報）
-
----
-
-### 2026-08-20 07:45:59  #觀點
-
-【中金：預計伺服器液冷泵作為核心動力元件有望迎來放量週期】中金研報指出，全球AI算力晶片功耗加速突破風冷散熱極限，資料中心向液冷架構演進，預計伺服器液冷泵作為核心動力元件有望迎來放量週期。國內汽車熱管理龍頭依託精密電子電機控制、高壓全密封等底層工藝跨界入局，展現競爭優勢。
-
----
-
-### 2026-08-20 07:45:58  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Edge Higher as Treasury Yields Retreat — US stock futures edged higher on Thursday after posting a modest rebound in the previous session, as a sharp decline in Treasury yields helped improve investor sentiment. In regular trading on Wednesday, the Dow and S&P 500 rose 0.22% and 0.21%, respectively, while the Nasdaq Composite advanced 0.16%, with all three benchmarks snapping a three-day losing streak. The consumer discretionary, materials and consumer staples sectors outperformed the broader market, while industrial, technology and financial stocks lagged. Yields on longer-dated US Treasurys pulled back from multi-year highs after the government announced plans to more than double repurchases of 10-, 20- and 30-year debt over the coming months. The move came after the 30-year Treasury yield surged to its highest level since 2007 earlier this week. Investors now turn their attention to retail giant Walmart’s earnings later in the global day, along with the latest weekly jobless claims data.
-
----
-
-### 2026-08-20 07:40:29  #其他
-
-【多隻REITs產品原始權益人相繼披露增持計劃】在公募REITs二級市場持續震盪調整的背景下，近日多隻REITs產品原始權益人相繼披露增持計劃。有分析指出，增持計劃帶來的增量資金，有助於平抑二級市場波動，緩解階段性流動性壓力，引導價格向資產內在價值合理迴歸。在估值經歷深度出清後，部分REITs高企的現金分派率與走闊的利差空間，也令此類產品配置價效比再度顯現，併為追求穩健現金流的長期資金鋪設了厚實的安全墊。
-
----
-
-### 2026-08-20 07:39:46  #其他
-
-【新股提示：格林生物今日申購】今日可申購格林生物，格林生物發行總數約3333萬股，網上發行約為700萬股，發行市盈率19.80倍，申購程式碼為：301688，申購價格：26.33元，單一賬戶申購上限0.7萬股。
-
----
-
-### 2026-08-20 07:39:29  #觀點
-
-【華泰證券：中長期仍看好交執行業景氣底部回暖，左側佈局具備較高價效比】華泰證券研報指出，7月傳統暑運旺季疊加航煤出廠價回落，航司加大運力投放。三大航（國航/東航/南航，下同）+春秋+吉祥ASK/RPK分別同增4.6%/7.8%（6月為同降2.5%/1.7%），客座率同增2.6pct至86.2%，不過量增價弱，國內線含油票價第27周-31周（6/29-8/2）同降3.2%（6/1-6/28為同增11.5%，航班管家）。8月上旬進入暑運高峰，民航票價表現邊際改善，第32周-33周（8/3-8/16）同增2.6%，不過考慮基數不高，暑運並未產生明顯旺季效應，板塊關注度較低。往後展望，繼續關注國際油價和高頻資料走勢，中長期仍看好行業景氣底部回暖，左側佈局具備較高價效比。
-
----
-
-### 2026-08-20 07:38:57  #觀點
-
-【華泰證券：縣域市場已從快消品行業的“補充市場”升級為“核心增量引擎”】華泰證券研報指出，近日，商務部等9部門聯合印發《關於進一步激發下沉市場活力、活躍縣域消費的意見》，提出6方面18條措施，核心舉措包括支援縣域消費渠道升級，深化“千集萬店”改造，支援鄉鎮商貿中心、集貿市場等建設升級，引進國內外品牌開設區域首店；推動縣域商業業態創新和品牌打造，推行同一縣域連鎖企業“一照多址”，支援國貨潮品下沉至縣域市場；最佳化縣域商品和服務供給，促進同品同款商品城鄉“同質同享”；進一步提升縣域流通的現代化水平，引導線上&線下渠道協同發展。華泰判斷縣域市場已從快消品行業的“補充市場”升級為“核心增量引擎”，對於具備品牌認知、供應鏈效率和渠道管理能力的龍頭企業而言，下沉能力正從可選項變為必選項。
-
----
-
-### 2026-08-20 07:38:23  #公司
-
-【公募基金年內累計分紅1094.63億元】近期，公募基金密集釋出分紅公告。資料顯示，截至8月19日，本月內公募基金已釋出99份分紅公告。今年以來公募基金累計分紅4124次，分紅總額達1094.63億元。（證券日報）
-
----
-
-### 2026-08-20 07:37:56  #其他
-
-【從沉睡資源到搶手硬通貨 海洋資料成為一門“大生意”】近期，海南、福建、浙江、廣西、遼寧等省份已釋出省級“十五五”海洋經濟發展規劃，全部對海洋資料、數字海洋建設作出系統部署。這意味著海洋資料不再是躺在伺服器裡的“沉睡資源”，而是一筆可以認真去做、值得長期經營的“大生意”。可以預見，“十五五”期間，誰能率先把海洋資料做成一門好生意，誰就能在藍色經濟的新賽道上搶佔先機。（證券日報）
-
----
-
-### 2026-08-20 07:37:48  #宏觀 #公司
-
-【48家央企攜263件展品亮相2026世界機器人大會 中央企業機器人創新聯合體正式成立】8月19日，2026世界機器人大會在京啟幕。值得一提的是，為加快構建機器人領域產學研用協同創新體系，本屆大會上，在國務院國資委指導下，中國兵器工業集團有限公司牽頭，聯合中央企業、高校及科研院所、民營企業、行業學會等百餘家單位組建中央企業機器人創新聯合體。此外，中央企業機器人十大創新成果和十大高價值應用場景同步釋出，也成為本屆大會的一大亮點。（證券日報）
-
----
-
-### 2026-08-20 07:35:59  #宏觀 #公司 #觀點
-
-【華泰證券：重點關注在核心城市擁有較多佈局且具備產品力優勢的優質房企，以及部分低估值房企、頭部港資房企和物管/商管公司】華泰證券研報指出，8月18日，國務院總理簽署國務院令，正式公佈《國務院關於修改〈住房公積金管理條例〉的決定》。除了拓寬用途、提升效能、強化風控、擴大覆蓋面四大部分的修改之外，我們認為亦需重視公積金利率形成機制的變化，或潛在帶來公積金利率結構性下調的可能性。今年以來上海低總價二手房率先企穩印證了公積金政策的作用，若未來公積金迎來結構性降息，疊加核心城市住房租金逐步企穩甚至反彈，或將催生更多“由租轉買”需求，助力房地產市場加速回穩。重點關注在核心城市擁有較多佈局且具備產品力優勢的優質房企，以及部分低估值房企、頭部港資房企和物管/商管公司。
 
 ---
