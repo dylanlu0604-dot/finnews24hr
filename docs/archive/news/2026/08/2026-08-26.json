@@ -1,7 +1,18 @@
 {
   "date": "2026-08-26",
-  "count": 368,
+  "count": 369,
   "items": [
+    {
+      "id": "te:markets:578046",
+      "time": "2026-08-26 06:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 2.34% — Top crypto losers are XRP (-2.34%), Ether (-1.27%) and Bitcoin (-0.18%)."
+    },
     {
       "id": "mkt:01a03b16-cd49-7aab-911b-a6de2fc4be13",
       "time": "2026-08-26 06:42:25",
