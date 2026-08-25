@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-25 22:50:40",
-  "count": 16510,
+  "updated": "2026-08-25 22:55:10",
+  "count": 16504,
   "items": [
+    {
+      "id": "5058313",
+      "time": "2026-08-25 22:53:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【葛衛東家族上半年末持倉參考市值合計高達252.39億元】有統計資料顯示，葛衛東家族（包括葛衛東、王萍、葛貴蘭、葛貴蓮等）目前已經出現在7家上市公司2026年半年報前十大流通股東中，上半年末持倉參考市值合計高達252.39億元。（證券時報）"
+    },
+    {
+      "id": "5058312",
+      "time": "2026-08-25 22:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代牧業：上半年營收65.9億元人民幣。"
+    },
+    {
+      "id": "5058311",
+      "time": "2026-08-25 22:53:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【葛衛東旗下期貨公司炒股大賺 淨利同比增長7188.06%】8月25日，混沌天成期貨股份有限公司披露2026年半年報，報告期內，公司實現營業收入6.18億元，同比增長616.54%；歸屬於掛牌公司股東的淨利潤為4.31億元，同比增長7188.06%。記者注意到，炒股大賺系混沌天成期貨上半年盈利同比大漲的主要因素。報告期內，公司“公允價值變動收益 ”為5.35億元，同比增長1474.32%，佔營業收入的比重高達86.59%。該項指標增長的原因在於：本期市場行情較好，母公司股票投資浮盈所致。混沌天成期貨成立於1995年，註冊資本9.86億元，於2017年3月在新三板掛牌。公司控股股東為混沌投資，實際控制人系資本大佬葛衛東。（證券時報）"
+    },
+    {
+      "id": "mkt:01a03968-8df8-7aab-9115-aa8e9a2d5e9f",
+      "time": "2026-08-25 22:52:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Preliminary data show Nigeria's average exports of four main crude grades were estimated at 932,000 b/d in October, down from 952,000 b/d in September."
+    },
+    {
+      "id": "5058310",
+      "time": "2026-08-25 22:51:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "初步裝船計劃顯示，奈及利亞四種主要原油10月日均出口量估計為93.2萬桶，低於9月的95.2萬桶。"
+    },
+    {
+      "id": "5058309",
+      "time": "2026-08-25 22:51:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：對伊朗在霍爾木茲海峽佈雷“零容忍”】美國總統特朗普25日在社交媒體上發文稱，霍爾木茲海峽國際水域內的所有水雷均已被清除或引爆，美方對伊朗佈設水雷行為實行“零容忍”政策，任何船隻若佈設新水雷，將立即被摧毀。（新華社）"
+    },
     {
       "id": "mkt:01a03965-3db1-7aab-9115-a48760cb6c05",
       "time": "2026-08-25 22:48:51",
@@ -149178,124 +149233,6 @@
         "國際"
       ],
       "text": "【俄外交部：美方言論助長日本復仇主義和修正主義】俄羅斯外交部18日就美國駐日本大使格拉斯涉南千島群島（日本稱北方四島）相關言論接受新華社記者書面採訪時表示，美方言論毫無新意，只會助長日本的復仇主義和修正主義。（新華社）"
-    },
-    {
-      "id": "5046295",
-      "time": "2026-08-18 22:54:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "Coast Capital增持Arizona Metals股份。"
-    },
-    {
-      "id": "5046294",
-      "time": "2026-08-18 22:54:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奈及利亞中部發生武裝襲擊已導致約30人死亡】據奈及利亞當地媒體報道，該國中部高原州17日至18日發生一起武裝襲擊事件，目前已造成約30人死亡，多人重傷。（新華社）"
-    },
-    {
-      "id": "te:markets:576188",
-      "time": "2026-08-18 22:53:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hovers at $91 — Brent crude oil traded around $91 a barrel on Tuesday as uncertainty over the Strait of Hormuz continued to support prices. Tensions remain elevated, with the US and Iran showing little sign of reaching an agreement over control of the key shipping route. President Donald Trump said Washington is not currently holding or planning talks with Tehran, while confirming that the US naval blockade remains in place. Despite his claim that Hormuz is open and mines have been cleared, shipping risks persist. A vessel was reportedly attacked while leaving the strait, suffering engine-room damage and a crew casualty, according to UK maritime authorities. Meanwhile, Gulf producers are finding alternative ways to maintain exports despite the disruption. Saudi Arabia has begun offering crude cargoes sourced from outside the chokepoint, suggesting it may be adopting measures similar to the United Arab Emirates to move oil through or around the affected area."
-    },
-    {
-      "id": "5046293",
-      "time": "2026-08-18 22:53:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4428.89美元/盎司。"
-    },
-    {
-      "id": "5046292",
-      "time": "2026-08-18 22:53:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4430美元/盎司，日內跌0.99%。"
-    },
-    {
-      "id": "5046291",
-      "time": "2026-08-18 22:52:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "道指轉漲，標普500指數下跌0.5%，納指下跌1.2%。"
-    },
-    {
-      "id": "mkt:01a0155c-0c6a-7aab-907d-adadd7742735",
-      "time": "2026-08-18 22:52:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Dow turned higher; S&P 500 down 0.5%, Nasdaq down 1.2%."
-    },
-    {
-      "id": "mkt:01a0155b-c1f1-7aab-907d-a57bdd32c1df",
-      "time": "2026-08-18 22:52:09",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reuters survey: median forecast expects the Bank of England to keep Bank Rate unchanged at 3.75% until the first quarter of next year."
-    },
-    {
-      "id": "5046290",
-      "time": "2026-08-18 22:51:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "3I INFOTECH表示經濟犯罪調查部門認定該公司對EMDURA的投訴屬於民事性質。"
-    },
-    {
-      "id": "mkt:01a0155b-285a-7aab-907d-9890144be23e",
-      "time": "2026-08-18 22:51:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: UK 2026 inflation forecast averaged 3.1% and GDP growth 1.1%; July survey figures were 3.1% and 1.0%, respectively."
-    },
-    {
-      "id": "te:markets:576184",
-      "time": "2026-08-18 22:51:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Near Highs as Hormuz Risks Persist — Crude oil traded near a two-week high around $85 a barrel on Tuesday as uncertainty over the Strait of Hormuz continued to support prices. Tensions remain elevated, with the US and Iran showing little sign of reaching an agreement over control of the key shipping route. President Donald Trump said Washington is not currently holding or planning talks with Tehran, while confirming that the US naval blockade remains in place. Despite his claim that Hormuz is open and mines have been cleared, shipping risks persist. A vessel was reportedly attacked while leaving the strait, suffering engine-room damage and a crew casualty, according to UK maritime authorities. Meanwhile, Gulf producers are finding alternative ways to maintain exports despite the disruption. Saudi Arabia has begun offering crude cargoes sourced from outside the chokepoint, suggesting it may be adopting measures similar to the United Arab Emirates to move oil through or around the affected area."
-    },
-    {
-      "id": "mkt:01a0155b-067b-7aab-907d-93dad42f817b",
-      "time": "2026-08-18 22:51:21",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Reuters survey: 56 of 64 economists expect the Bank of England to keep interest rates at 3.75% in 2026."
     }
   ]
 }
