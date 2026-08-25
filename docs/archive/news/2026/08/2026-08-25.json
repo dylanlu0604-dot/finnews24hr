@@ -1,7 +1,91 @@
 {
   "date": "2026-08-25",
-  "count": 1238,
+  "count": 1247,
   "items": [
+    {
+      "id": "5056813",
+      "time": "2026-08-25 13:47:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工信部不再審批新申報的鋰電產能？工信部工作人員：未在官網查詢到相關資訊】8月24日，一家名為“極片Lab”的自媒體釋出訊息稱，多位產業內人士表示，下半年新申報的鋰電產能已經不再審批，短期內新增產能審批基本停滯。對此，8月25日，向工信部方面致電求證上述訊息的真實性，接聽電話的工作人員表示，未在官網查詢到相關資訊。當天，還向先導智慧、協鑫科技等上市公司求證上述訊息的真實性，先導智慧相關負責人稱其為“5月份的訊息，不實”；而協鑫科技有關負責人則表示“沒有得到訊息”。中國化學與物理電源行業協會（CESA）儲能應用分會秘書長劉勇表示，不清楚該訊息的真實性，“應該是不會（一刀切）的，（工信部）做相應調整的可能性是有的。”（財聞）"
+    },
+    {
+      "id": "5056812",
+      "time": "2026-08-25 13:46:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特6月進口下降3.0%。"
+    },
+    {
+      "id": "mkt:01a03774-c4f2-7aab-9107-f1367a26b44a",
+      "time": "2026-08-25 13:46:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Saudi Arabia's government data show non-oil exports, including re-exports, fell 9.7% YoY in June."
+    },
+    {
+      "id": "5056811",
+      "time": "2026-08-25 13:46:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特6月非石油出口（含轉口）同比下降9.7%。"
+    },
+    {
+      "id": "5056810",
+      "time": "2026-08-25 13:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "政府資料顯示，2026年6月沙特商品出口較2025年同期下降4.5%，石油出口下降2.3%。"
+    },
+    {
+      "id": "mkt:01a03774-0057-7aab-9107-ecc428d4dda2",
+      "time": "2026-08-25 13:45:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi government data show merchandise exports fell 4.5% YoY in June, with oil exports down 2.3%."
+    },
+    {
+      "id": "5056809",
+      "time": "2026-08-25 13:44:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆平高科成立新公司 含數字技術服務業務】企查查APP顯示，近日，湖南隆昇農業有限公司成立，經營範圍包含：數字技術服務；智慧農業管理；軟體開發；大資料服務等。企查查股權穿透顯示，該公司由隆平高科(000998)全資持股。"
+    },
+    {
+      "id": "5056808",
+      "time": "2026-08-25 13:44:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英派斯集中籤署多項合作協議】據英派斯訊息，8月24日，英派斯智慧健身康養裝置研發製造基地專案在海南啟動。儀式上，英派斯攜手印尼奧委會、瑞康醫藥集團、香港理工大學、海南省運動與健康促進重點實驗室等國際組織、行業機構、企業和教育科研單位，舉行全球健康科技生態聯盟簽約儀式。同時，英派斯與光華創芯舉行AI健康科技創新中心的揭牌儀式。"
+    },
+    {
+      "id": "te:economy:577788",
+      "time": "2026-08-25 13:43:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Finnish Jobless Rate at 7-Month Low — Finland’s unemployment rate rose to 9.9% in July 2026 from 9.3% in the same month last year, although this marked the lowest level since December 2025. The number of unemployed increased by 20,000 year-on-year to 289,000, comprising 150,000 men and 139,000 women. By gender, the male unemployment rate eased to 10.0%, 0.2 percentage points lower than a year earlier, while the female rate increased to 9.8%, up 1.5 percentage points. Among younger workers aged 15–24, the jobless rate also edged up to 16.9%, just 0.1 percentage points higher year-on-year. Meanwhile, employment was unchanged at 2.637 million, even as the labour force participation rate rose to 70.2% from 69.8% a year earlier. The employment rate for those aged 20–64 also inched down to 76.4% from 76.5%"
+    },
     {
       "id": "mkt:01a03771-3d08-7aab-9107-e194e410b8e1",
       "time": "2026-08-25 13:42:43",
