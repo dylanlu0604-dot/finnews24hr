@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-26 01:33:51",
-  "count": 16508,
+  "updated": "2026-08-26 01:38:05",
+  "count": 16509,
   "items": [
+    {
+      "id": "5058415",
+      "time": "2026-08-26 01:36:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "芝商所（CME Group）宣佈美國鋅期貨完成首筆成交。"
+    },
+    {
+      "id": "5058414",
+      "time": "2026-08-26 01:35:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Figure AI：有44000名周活躍使用者參與提供訓練資料。"
+    },
+    {
+      "id": "mkt:01a039fd-c0c9-7aab-9118-01b8c2980557",
+      "time": "2026-08-26 01:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SEC filings show prediction market Kalshi has raised about $1.12 bln via an equity financing, with a total planned issuance size of $1.5 bln."
+    },
+    {
+      "id": "5058413",
+      "time": "2026-08-26 01:33:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Figure AI：承諾未來12個月投入超10億美元用於資料資源與算力建設。"
+    },
     {
       "id": "5058412",
       "time": "2026-08-26 01:31:51",
@@ -149288,30 +149321,6 @@
         "國際"
       ],
       "text": "【伊朗外長：近期衝突表明未設美軍基地的國家受損害更小】當地時間18日，伊朗外交部長阿拉格齊表示，近期發生的衝突表明，沒有設立美軍基地的國家受到的損害更小，而美軍基地甚至無法保護自身利益免受抵抗力量的打擊。阿拉格齊指出，卡達和巴基斯坦在伊朗與美國之間發揮了有效的斡旋作用，目前德黑蘭與卡達的關係處於非常良好的階段。他強調，中東地區的新安全觀必須建立在“共同安全”和解決經濟不平衡問題的基礎上，如果沒有全方位的合作，波斯灣地區將無法實現持久和平。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a015f2-cede-7aab-907f-eadefecf53ef",
-      "time": "2026-08-19 01:37:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy discusses drone cooperation and €1.1bn 2026 aid with Belgian foreign minister】Ukrainian President Zelenskiy met Belgian Foreign Minister Maxime Prévot in Kyiv on Tuesday and said in a social media post that his team is drafting an agreement on bilateral drone cooperation and they discussed a possible signing date. He thanked Belgium for pledging more than €1.1 billion in aid to Ukraine in 2026."
-    },
-    {
-      "id": "mkt:01a015f2-a8f2-7aab-907f-e1fdb9b1768a",
-      "time": "2026-08-19 01:36:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said it struck a Hamas Nukhba commander in the Gaza Strip in response to an earlier attack today."
-    },
-    {
-      "id": "5046397",
-      "time": "2026-08-19 01:35:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比特幣巨鯨豪擲27.5億美元重返市場掃貨】據CryptoQuant資料（其計算排除了交易所和礦池），過去60天內，比特幣巨鯨累計增持約4.3萬枚比特幣，按當前價格計算價值約27.5億美元。當比特幣價格開始交投於6萬美元附近時，大型持有者重新投入買入，所謂”海豚”（中等偏上持有者）的持倉餘額也在增長，持有100-1000枚比特幣的中型持有者更是掀起了一波買入狂潮。重量級投資者入場的趨勢，為市場正在築底並可能開啟新一輪牛市週期增添了訊號，但參與度偏低和信心不足仍是市場隱憂。"
     }
   ]
 }

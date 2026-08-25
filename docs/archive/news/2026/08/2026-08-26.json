@@ -1,7 +1,40 @@
 {
   "date": "2026-08-26",
-  "count": 89,
+  "count": 93,
   "items": [
+    {
+      "id": "5058415",
+      "time": "2026-08-26 01:36:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "芝商所（CME Group）宣佈美國鋅期貨完成首筆成交。"
+    },
+    {
+      "id": "5058414",
+      "time": "2026-08-26 01:35:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Figure AI：有44000名周活躍使用者參與提供訓練資料。"
+    },
+    {
+      "id": "mkt:01a039fd-c0c9-7aab-9118-01b8c2980557",
+      "time": "2026-08-26 01:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. SEC filings show prediction market Kalshi has raised about $1.12 bln via an equity financing, with a total planned issuance size of $1.5 bln."
+    },
+    {
+      "id": "5058413",
+      "time": "2026-08-26 01:33:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Figure AI：承諾未來12個月投入超10億美元用於資料資源與算力建設。"
+    },
     {
       "id": "5058412",
       "time": "2026-08-26 01:31:51",
