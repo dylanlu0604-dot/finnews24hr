@@ -1,7 +1,160 @@
 {
   "date": "2026-08-25",
-  "count": 1153,
+  "count": 1169,
   "items": [
+    {
+      "id": "5056772",
+      "time": "2026-08-25 13:04:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念震盪反彈，凱萊英漲停】CRO概念震盪反彈，凱萊英漲停，近岸蛋白、盟科藥業-U、美迪西漲超10%，益諾思、和元生物、皓元醫藥等跟漲。"
+    },
+    {
+      "id": "5056771",
+      "time": "2026-08-25 13:04:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "中證1000股指期貨(IM)主力合約日內漲超1%，現報7459.4點。"
+    },
+    {
+      "id": "5056770",
+      "time": "2026-08-25 13:04:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "小鵬集團(09868.HK)午後跌幅擴大至10%。"
+    },
+    {
+      "id": "5056769",
+      "time": "2026-08-25 13:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦與伊朗商討重新開放霍爾木茲海峽】巴基斯坦三軍新聞局25日發表宣告說，巴陸軍參謀長穆尼爾與內政部長納克維結束了對伊朗為期一天的訪問，巴伊雙方重點圍繞防止局勢進一步升級、重新開放霍爾木茲海峽以及加快結束衝突的措施進行了全面討論。 宣告說，雙方還就地區和平以及如何透過談判解決爭端交換了意見。伊方讚賞巴方在促進對話、緩和局勢及和平解決衝突方面所發揮的建設性作用及作出的真誠努力。 納克維25日在社交媒體發文說，他和穆尼爾與伊朗總統佩澤希齊揚進行了積極且富有成效的會晤。 納克維表示，雙方重點討論了伊朗和美國的衝突、中東地區緊張局勢和未來走勢，以及雙方為恢復落實伊斯蘭堡諒解備忘錄需採取的措施，從而最終實現衝突的全面解決。會談取得顯著進展，並在積極的氛圍中結束。(新華社)"
+    },
+    {
+      "id": "mkt:01a0374d-e0a3-7aab-9106-eee332c7b0ba",
+      "time": "2026-08-25 13:04:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09868.HK",
+        "Impact bearish"
+      ],
+      "text": "Xpeng Group (09868.HK) extended losses in afternoon trading, down about 10%."
+    },
+    {
+      "id": "mkt:01a0374d-75bd-7aab-9106-e12e5c177b81",
+      "time": "2026-08-25 13:03:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share military-equipment sector staged a short-term rally; Tianqin Equipment jumped more than 10%, with Jianglong Shipbuilding, Boyun New Materials, Hangyu Technology, Dianke Lantian and Guorui Technology also higher."
+    },
+    {
+      "id": "5056768",
+      "time": "2026-08-25 13:03:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "軍工裝備板塊短線拉昇，天秦裝備漲超10%，江龍船艇、博雲新材、航宇科技、電科藍天、國瑞科技等跟漲。"
+    },
+    {
+      "id": "5056767",
+      "time": "2026-08-25 13:02:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器午後持續走高】液冷伺服器午後持續走高，英維克、康盛股份、億利達漲停，申菱環境漲超10%，同飛股份、匯通能源、五洋自控、豪爾賽、銀輪股份跟漲。"
+    },
+    {
+      "id": "mkt:01a0374c-69df-7aab-9106-dd8c73a53abd",
+      "time": "2026-08-25 13:02:29",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan: core-core CPI rose 2.2% in July (2.0% in June)."
+    },
+    {
+      "id": "mkt:01a0374b-6e6d-7aab-9106-d4429d333aca",
+      "time": "2026-08-25 13:01:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan June coincident index (final) 118.5; prior 118.2."
+    },
+    {
+      "id": "mkt:01a0374b-5796-7aab-9106-cef1c6665583",
+      "time": "2026-08-25 13:01:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Final (Jun) | actual 118.5 | previous 118.2"
+    },
+    {
+      "id": "mkt:01a0374b-458b-7aab-9106-c738fd4a649f",
+      "time": "2026-08-25 13:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan June leading index (final) 116.5; prior 116.4."
+    },
+    {
+      "id": "mkt:01a0374b-2da9-7aab-9106-be7aea97252a",
+      "time": "2026-08-25 13:01:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Final (Jun) | actual 116.5 | previous 116.4"
+    },
+    {
+      "id": "mkt:01a0374b-2574-7aab-9106-b165551cde4b",
+      "time": "2026-08-25 13:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June coincident index final MoM +0.6% (prior +0.3%)."
+    },
+    {
+      "id": "mkt:01a0374b-0bad-7aab-9106-acda0ea2d9b9",
+      "time": "2026-08-25 13:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Final (MoM) (Jun) | actual 0.6% | previous 0.3%"
+    },
     {
       "id": "mkt:01a0374a-ea14-7aab-9106-a2482d5891a5",
       "time": "2026-08-25 13:00:51",
@@ -110,6 +263,14 @@
         "其他"
       ],
       "text": "【山東：1-7月規模以上工業增加值同比增長7.2%】據“山東釋出”訊息，8月24日，山東省統計局、國家統計局山東調查總隊公佈1-7月全省經濟執行情況。1-7月，規模以上工業增加值同比增長7.2%。從行業增長面看，全省41個行業中有32個實現增長，增長面為78.0%。服務業執行穩健。1-6月，規模以上服務業企業營業收入同比增長5.6%。10大行業門類全部實現增長，其中，居民服務、修理和其他服務業，租賃和商務服務業營業收入分別增長12.3%、9.0%。"
+    },
+    {
+      "id": "5056759",
+      "time": "2026-08-25 12:56:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026文昌國際航空航天論壇開幕】8月25日，2026文昌國際航空航天論壇在海南文昌開幕。本屆論壇以“箭返自貿港，星啟航天城”為主題，透過開幕式暨主論壇、多場平行分論壇及系列活動，匯聚全球航天領域院士專家、政府機構代表、領軍企業負責人、投資界人士及國際組織代表，共商商業航天全產業鏈高質量發展大計。本屆論壇由文昌國際航天城管理局主辦，海南航天城產業投資控股有限公司承辦。論壇期間，多位科研院所專家出席，圍繞航天科技及相關產業高質量發展，結合海南封關運作產業機遇為文昌商業航天建言獻策。"
     },
     {
       "id": "5056758",
