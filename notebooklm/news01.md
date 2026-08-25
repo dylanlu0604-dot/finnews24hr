@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-26 01:42:18_
-_本檔包含 3121 則快訊，約 653413 字_
+_更新時間：2026-08-26 02:02:58_
+_本檔包含 3133 則快訊，約 653336 字_
+
+---
+
+### 2026-08-26 02:02:09  #央行 #其他
+
+巴拉圭央行維持關鍵利率在5.5%不變。
+
+---
+
+### 2026-08-26 02:01:11  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+IMF managing director GEORGIEVA said falling energy demand, increased renewable output and some regions' return to coal have eased supply tightness in the Gulf.
+
+---
+
+### 2026-08-26 02:00:45  #MKT News #Commodities #Energy #WTI #Impact bearish #S&P500 #Impact bullish #DXY
+
+IMF managing director Georgieva said the global economy has held up better-than-expected amid the energy shock from the Iran war, supported by drawdowns in oil and gas inventories and increased non‑Gulf energy supply.
+
+---
+
+### 2026-08-26 02:00:41  #其他
+
+國際貨幣基金組織總裁格奧爾基耶娃：能源需求下降、可再生能源佔比提升，加之部分地區重新轉向煤炭，也緩解了海灣地區的供應緊張局勢。
+
+---
+
+### 2026-08-26 02:00:35  #其他
+
+國際貨幣基金組織總裁格奧爾基耶娃：需解決全球過度失衡問題以強化全球經濟，國際貨幣基金組織正最佳化其外部平衡評估模型。
+
+---
+
+### 2026-08-26 02:00:27  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500
+
+IMF Managing Director Georgieva said the global economy is benefiting from an AI investment and supply boom that is spreading from the US to Thailand and other countries.
+
+---
+
+### 2026-08-26 02:00:22  #其他
+
+國際貨幣基金組織總裁格奧爾基耶娃表示，全球經濟正在經受住能源衝擊，但她對財政狀況表示擔憂。
+
+---
+
+### 2026-08-26 02:00:10  #MKT News
+
+Panama Canal Authority said some vessels transiting the canal paid more than $1 million in auction fees to secure slots to meet specific market demand.
+
+---
+
+### 2026-08-26 02:00:01  #MKT News
+
+Panama Canal Authority: market costs for Panama Canal transit slot auctions have risen due to shifts in global trade supply and demand.
+
+---
+
+### 2026-08-26 01:59:38  #其他
+
+巴拿馬運河管理局：部分已透過運河的船舶在拍賣中支付了超過100萬美元，以滿足特定市場需求。
+
+---
+
+### 2026-08-26 01:59:30  #市場 #焦點
+
+巴拿馬運河管理局：受全球貿易供需格局變動影響，通行船位拍賣的市場成本已出現上漲。
+
+---
+
+### 2026-08-26 01:59:22  #MKT News
+
+【ICE arrested 49,571 migrants in July, highest monthly total since Trump’s second term began】U.S. Immigration and Customs Enforcement (ICE) arrested 49,571 migrants in July, ICE-provided data to UC Berkeley show, up about 15% from June’s 43,021 and roughly 70% above February’s 29,241. The July total is the largest monthly arrest tally since the start of Trump’s second term; ICE has intensified enforcement actions against undocumented migrants in multiple major U.S. cities since Trump returned to the White House in January.
+
+---
+
+### 2026-08-26 01:57:58  #國際
+
+【美移民執法局7月逮捕近5萬名移民 創特朗普第二任期單月新高】最新資料顯示，美國移民與海關執法局（ICE）7月逮捕近5萬名移民，創下特朗普第二任期以來單月逮捕人數最高紀錄。資料顯示，移民與海關執法局7月共逮捕49571人，較6月的43021人增加約15%，較2月的29241人增加約70%。
+
+---
+
+### 2026-08-26 01:57:32  #國際
+
+美國醫療保險和醫療補助服務中心(CMS)：特朗普政府宣佈撥款1.6億美元，為阿拉斯加引進尖端技術、無人機處方配送、手術機器人等先進醫療手段。
+
+---
+
+### 2026-08-26 01:55:36  #MKT News
+
+Iran's foreign minister Araghchi held a phone call with Qatar's prime minister and foreign minister Al Thani on Tuesday afternoon local time; they reviewed the latest regional situation and stressed the need to fully employ diplomatic measures and maintain coordination to prevent escalation of regional tensions.
+
+---
+
+### 2026-08-26 01:53:39  #MKT News
+
+U.S. Defense Secretary Hegseth said he will work with the Small Business Administration (SBA) to re-establish a "Small Defense Contractors Committee".
+
+---
+
+### 2026-08-26 01:52:47  #國際
+
+美國防長赫格塞思：美國國防部將與小企業管理局合作推進精簡版戰爭工廠委員會相關工作。
+
+---
+
+### 2026-08-26 01:52:17  #國際
+
+美國防長赫格塞思：美國將重啟規模精簡的戰爭工廠委員會。
+
+---
+
+### 2026-08-26 01:50:46  #MKT News #Commodities #Energy #SLB.N #Impact bullish
+
+Sources said Schlumberger (SLB.N) has signed a services contract with Venezuelan state oil company PDVSA granting the company access to Venezuelan oilfield data.
+
+---
+
+### 2026-08-26 01:50:42  #公司
+
+訊息人士：斯倫貝謝（SLB.N）與委內瑞拉國有石油公司PDVSA簽署服務合同，得以獲取委內瑞拉油田資料。
+
+---
+
+### 2026-08-26 01:47:37  #MKT News #Commodities #Industrial Metals
+
+【CME launches U.S. zinc futures】CME Group said the first trade in its U.S. zinc futures was executed on CME Globex on Aug 20 between Glencore and Trafigura for September delivery. The exchange said it adjusted the contract in March 2026 to a U.S. duty-paid delivery model at client request, creating an exchange-traded, centrally cleared tool to manage U.S. zinc price volatility and improve hedging for producers, consumers and intermediaries. Kim Henniger, CME’s global head of metals, said geopolitical fragmentation is reshaping supply chains, making regional price signals more important, and the new contract is intended to help market participants manage U.S. zinc risk exposure.
+
+---
+
+### 2026-08-26 01:46:58  #其他
+
+OpenAI：自發布首款定製推理晶片Jalapeño以來，我們一直在對該晶片及其配套系統開展測試。測試結果取得重大進展：單位功耗可輸出更高智慧能力，響應速度更快。該單一架構在不犧牲能效的前提下，同時實現更高吞吐量與更低延遲。Jalapeño將帶來更快的ChatGPT響應速度、反應更靈敏的Codex會話與智慧體，並且在需求持續增長的情況下保障服務穩定可用。
+
+---
+
+### 2026-08-26 01:45:32  #國際
+
+美國官員：中央司令部已清除霍爾木茲海峽進出航道的水雷，打通另一條通道，海上通行量隨之增加。
+
+---
+
+### 2026-08-26 01:44:40  #MKT News #Market Themes #AI Revolution
+
+OpenAI launches an Admin Plugin for ChatGPT Work and Codex.
+
+---
+
+### 2026-08-26 01:43:56  #MKT News #Commodities #Energy
+
+Fars News reported Iran's deputy oil minister said two new refineries coming online before year-end will raise Iran's gasoline output by 12 mln liters per day.
+
+---
+
+### 2026-08-26 01:43:51  #國際
+
+美國加利福尼亞州總檢察長表示，目前尚未安排與派拉蒙天空舞傳媒進行和解談判。
 
 ---
 
@@ -18736,89 +18892,5 @@ UKMTO reported an incident 9 nm northeast of Ash Shisah, Oman; a tanker captain 
 ### 2026-08-25 06:02:16  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
 
 【Japan proposes about JPY100bn to subsidize purchase of submarine cable‑laying vessels】Japan will propose about JPY100bn (≈$628m) in the FY2027 budget to help domestic firms buy submarine cable‑laying vessels, the Ministry of Internal Affairs and Communications plans to include in a budget request scheduled for end‑August. The ministry would cover roughly half of procurement costs; each ship could cost more than JPY40bn. The proposal targets purchase of 3–5 vessels in FY2027, citing rising procurement costs driven by yen weakness and higher raw‑material prices. It would be Japan’s first direct government support for hull purchases and is aimed at encouraging private‑sector investment.
-
----
-
-### 2026-08-25 06:01:23  #其他
-
-市場資訊：WikiHow起訴OpenAI，指控其人工智慧訓練侵犯版權。
-
----
-
-### 2026-08-25 05:59:12  #公司
-
-【上半年鋰礦企業業績普遍向好】從上市公司來看，受益於鋰價回暖等利好因素，上半年鋰礦企業業績普遍呈現向好態勢。其中，天齊鋰業股份有限公司預計2026年上半年歸屬於上市公司股東的淨利潤同比增長32倍至49倍，融捷股份有限公司、西藏礦業發展股份有限公司、盛新鋰能集團股份有限公司中報資料顯示，其歸屬於上市公司股東的淨利潤同比分別增長1076.14%、492.46%和220.3%。（證券日報）
-
----
-
-### 2026-08-25 05:53:00  #MKT News #Market Regions #Japan & APAC
-
-Nikkei reports Japan plans to spend $630 million to purchase a submarine cable-laying vessel.
-
----
-
-### 2026-08-25 05:51:56  #國際
-
-美國醫療保險和醫療補助服務中心(CMS)：特朗普政府宣佈撥款1.44億美元，用於改善心理健康、藥物濫用、急診及孕產婦護理，並擴大阿拉巴馬州醫療保健人員隊伍。
-
----
-
-### 2026-08-25 05:48:13  #國際
-
-在2027財年預算中，日本省廳將為採購3至5艘艦艇提供資金支援。
-
----
-
-### 2026-08-25 05:47:08  #國際
-
-日本擬投入6.3億美元協助採購海底電纜鋪設船，以應對日益增長的風險。日本總務省計劃將相關支出列入預計於8月底提交的2027財年預算申請中。
-
----
-
-### 2026-08-25 05:28:41  #MKT News #Macro & Rates #USDJPY #Impact bearish
-
-【Former Bank of Japan official: conditions in place for a rate hike next month】A former Bank of Japan official said the BOJ is likely to raise rates next month (September) and that markets have essentially fully priced a hike; failure to tighten could trigger another sharp yen selloff. He cited U.S. Treasury official BESSENT’s view that policy action should follow any FX intervention and BESSENT’s hope that governor UEDA will lift rates, adding that BESSENT has repeatedly signalled the BOJ may be next to act and that the government cannot tell the BOJ not to. He said Japan’s inflation momentum is strong and, after an expected September increase, the BOJ is likely to continue tightening—potentially acting again in January and extending the cycle beyond previously assumed terminal rates of 1.25–1.5%.
-
----
-
-### 2026-08-25 05:26:14  #MKT News #Market Regions #Japan & APAC #BA.N #Impact bullish #Dow
-
-Boeing (BA.N) contracts relate to foreign military sales projects; customers include Japan, Israel, Saudi Arabia, South Korea, Singapore, Indonesia and Poland.
-
----
-
-### 2026-08-25 05:25:42  #宏觀 #國際
-
-【加拿大強硬回應美國關稅升級威脅 政界人士密集表態】加拿大政界人士24日針對美國發出的最新關稅威脅密集表態，強調加拿大不會接受不平等的雙邊關係，並可能採取包括經濟紓困與出口限制的舉措應對加美貿易戰。 加拿大總理卡尼說，只有在美國改變態度並建立真正夥伴關係的前提下，加方才願意重回談判桌。他不接受“加拿大是美國附屬”的態度，也不接受加拿大在對美關係中所處不利地位。卡尼還表示，美方的做法限制了加拿大與其他國家簽署貿易協定的能力，侵犯了加拿大的“核心文化利益”。 加拿大財政部長商鵬飛表示，加政府將向受關稅衝擊的企業提供支援政策。加方的首要計劃始終是建設強有力的本國經濟、消除各省間的貿易壁壘、推進經濟多元化以及在國內實施重大專案。 加拿大前總理克雷蒂安建議加政府應對特定出口商品徵收出口稅，以反制美國的新關稅措施。克雷蒂安說，如果想立於不敗之地就必須擊中對方的要害。他特別提到能源、石油、天然氣和鉀肥等美國高度依賴的加拿大商品，並指出徵收出口稅的好處在於買單的是美國人而非加拿大自己。 安大略省省長福特稱加方需要“傾盡所有手段”進行反擊，如果貿易爭端進一步升級，加拿大應準備切斷對美電力和關鍵礦產供應。（新華社）
-
----
-
-### 2026-08-25 05:19:28  #MKT News #Commodities #Energy #JPM.O #Impact bullish #SAN.O
-
-JP Morgan and Banco Santander are leading a financing package of up to $15 billion for an Argentine LNG project, sources said.
-
----
-
-### 2026-08-25 05:19:15  #市場
-
-富時A50期指連續夜盤收跌0.20%，報14623點。
-
----
-
-### 2026-08-25 05:18:13  #觀點
-
-摩根大通、桑坦德銀行牽頭為阿根廷液化天然氣專案提供最高150億美元融資。
-
----
-
-### 2026-08-25 05:17:21  #MKT News
-
-【Iran foreign ministry says US threat of new sanctions violates international law】Aug 24 — Iran foreign ministry spokesman BAGHAEI said US threats to impose a new round of sanctions against Iran would "seriously violate international law." He said Iran has the right to strike all sources of aggression. BAGHAEI said Tehran views current domestic economic pressure and business distress as part of decades-long US pressure on the Iranian people and that the government has assessed the situation and is taking all measures to counter economic sanctions. He criticised Washington calling the measures an "economic war," saying it showed disregard for free trade and state sovereignty.
-
----
-
-### 2026-08-25 05:15:52  #MKT News
-
-【U.S. Supreme Court allows Trump to press mail‑voting restrictions】The U.S. Supreme Court on Monday granted the Justice Department's emergency request to stay a lower-court injunction that had blocked Trump's March executive order limiting mail voting in 23 Democratic‑run states and Washington, D.C., clearing a path for the administration to pursue the measures while other judicial constraints remain. The order directs agencies to compile citizenship lists, prioritize prosecutions of officials who send ballots to ineligible voters, and restrict USPS delivery of ballots to qualified voters. A Boston federal judge had ruled in June the president lacks authority to alter state election administration; DOJ argued the lawsuits were premature. Trump has long questioned mail‑voting security and pledged to end the practice; because Democrats use mail ballots at higher rates, the restrictions could advantage Republicans. Further legal challenges are expected ahead of the midterms.
 
 ---

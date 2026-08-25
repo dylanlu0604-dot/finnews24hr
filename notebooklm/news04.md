@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-26 01:42:18_
-_本檔包含 3400 則快訊，約 652588 字_
+_更新時間：2026-08-26 02:02:58_
+_本檔包含 3390 則快訊，約 652654 字_
+
+---
+
+### 2026-08-21 04:28:30  #MKT News
+
+【Chinese container ship makes inaugural call at Russia's Murmansk port】Murmansk commercial seaport held a welcome ceremony on the 20th for the first Chinese container vessel to call the port, marking the launch of regular container cargo services from Chinese coastal ports via the Northern Sea Route to Russia's largest Arctic deepwater port.
+
+---
+
+### 2026-08-21 04:28:23  #市場 #國際
+
+【中國集裝箱船首次成功抵達俄摩爾曼斯克港】俄羅斯摩爾曼斯克海上貿易港20日舉行首艘中國集裝箱船靠港歡迎儀式，慶祝該港首條來自中國的集裝箱航線順利開通。這標誌著透過北極航道連線中國沿海港口與俄北極圈內最大深水港的定期貨物運輸業務正式拉開序幕。（新華社）
+
+---
+
+### 2026-08-21 04:27:28  #宏觀 #公司 #市場 #觀點 #央行 #國際
+
+【花旗對美元短期看法轉為看空 此前就美債回購風險發出警告】隨著市場為美聯儲鷹派立場減弱、美國中期選舉以及美國財政部擴大國債回購做準備，花旗集團外匯策略師對美元的短期看法轉為看空。花旗策略師Daniel Tobon等人在週四的研究報告中寫道，該團隊將未來三個月的美元指數預期從102.12下調至98.34。此前花旗警告稱，美國財政部長斯科特·貝森特試圖透過擴大10年至30年期國債回購規模來壓低長期借貸成本，此舉可能會讓美元付出代價。美元指數報98.9，基本持平，前一日曾跌至5月以來最低。Tobon等人表示，過去幾個月，他們對美元一直持“更偏中性”的看法，警告稱未來幾個月風險可能上升。
+
+---
+
+### 2026-08-21 04:26:43  #其他
+
+幣安：將繼續與阿聯酋有關部門全面配合。
+
+---
+
+### 2026-08-21 04:26:09  #其他
+
+幣安：員工從未成為調查物件，常規調查涉及第三方資金流向。相關人員提交的陳述已迅速澄清。
+
+---
+
+### 2026-08-21 04:25:07  #MKT News #BA.O #Impact bullish
+
+【US approves up to $4.5 bln KC-46A tanker sale to Qatar】The US State Department said on the 20th it has approved a proposed foreign military sale to Qatar of up to four KC-46A aerial refueling tankers and associated equipment and services, valued at up to $4.5 bln. Qatar’s request includes engines, radar-warning receivers, infrared countermeasures and related support services. The State Department said the sale would strengthen the security of a US strategic regional partner, support US foreign policy and national security objectives, improve Qatar’s defence and interoperability with US and allied forces, and bolster its regional strategic role. The KC-46A, built by Boeing on a 767 airframe, is the US Air Force’s latest tanker; first delivery occurred in Jan 2019. Boeing describes the platform as providing refueling plus multi-mission combat capabilities and data transmission functions.
+
+---
+
+### 2026-08-21 04:24:09  #MKT News
+
+Panama Canal Authority to closely monitor weather, watershed inflows and lake levels.
+
+---
+
+### 2026-08-21 04:24:02  #MKT News #Brent #Impact bullish #Copper #Impact bearish
+
+Panama Canal: planned reduction in maximum allowable draft to 14.48 metres (47.5 ft, tropical fresh water) originally due to take effect on Sept. 3, 2026, has been delayed and will now be effective Oct. 1, 2026.
 
 ---
 
@@ -20421,113 +20469,5 @@ President Trump said many vessels are currently transiting the Strait of Hormuz,
 ### 2026-08-20 03:36:32  #MKT News #WTI #Impact bearish #Brent #S&P500 #Impact bullish
 
 US President Trump said the Strait of Hormuz will be less important than before.
-
----
-
-### 2026-08-20 03:36:26  #國際
-
-特朗普：考慮取消針對加拿大的鋼鋁關稅。
-
----
-
-### 2026-08-20 03:36:05  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-U.S. President Trump said on trade with Canada that farmers will not have to pay tariffs.
-
----
-
-### 2026-08-20 03:36:00  #MKT News #WTI #Impact bullish #Brent
-
-President Trump said the U.S. may continue to blockade the Strait of Hormuz.
-
----
-
-### 2026-08-20 03:35:57  #國際
-
-特朗普：我們可能會繼續實施封鎖。霍爾木茲海峽將不會再像過去那般重要。
-
----
-
-### 2026-08-20 03:35:38  #國際
-
-特朗普：大量船隻正在透過霍爾木茲海峽，但航運規模或許會在某個節點有所放緩。
-
----
-
-### 2026-08-20 03:35:25  #國際
-
-特朗普：與伊朗達成的協議結果並不像他們所說的那樣。
-
----
-
-### 2026-08-20 03:35:22  #MKT News
-
-President Trump said he supports term limits.
-
----
-
-### 2026-08-20 03:35:08  #MKT News
-
-Trump on Iran sanctions: we will wait and see.
-
----
-
-### 2026-08-20 03:34:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed above $4,510/oz, up 4.06% intraday.
-
----
-
-### 2026-08-20 03:34:48  #國際
-
-【皮尤調查：美國年輕人對AI態度日益敵視 擔心技術進步導致大規模失業】皮尤研究中心的一項調查顯示，美國勞動力市場中最年輕的一批人對人工智慧的疑慮日益增加，擔心這項技術的進步會導致大規模失業。6月資料顯示，自皮尤2021年開始進行這項調查以來，30歲以下成年人中首次有多數人表示對AI的擔憂多於興奮。這與大多數其他年齡群體的態度趨於一致，但變化尤其明顯的是，最年輕群體已從過去最看好AI潛力的一群人，轉變為如今對這項技術最持懷疑態度的群體之一。調查顯示，在這一年齡段中，接近四分之三的人還認為，AI將導致可獲得的工作崗位減少，佔比高於兩年前的61%。
-
----
-
-### 2026-08-20 03:34:36  #國際
-
-特朗普：伊朗制裁後續情況我們拭目以待。
-
----
-
-### 2026-08-20 03:34:34  #MKT News #Market Themes #AI Revolution
-
-【OpenAI CFO: Company to go public in 2027 or earlier】OpenAI CFO Sarah Friar told staff at an all‑hands the company expects to be a public company in 2027 but could list earlier if growth accelerates. She said an IPO is a milestone and a means to raise capital rather than an endpoint, and that OpenAI completed $122 bln of financing in March, giving it greater flexibility for future development.
-
----
-
-### 2026-08-20 03:34:15  #國際
-
-特朗普：美國已就儲備 “大規模” 比特幣及其他加密貨幣的相關計劃展開討論。
-
----
-
-### 2026-08-20 03:32:39  #國際
-
-特朗普談及加拿大貿易談判：我認為我們達成了一份對各方都有利的協議。
-
----
-
-### 2026-08-20 03:32:22  #焦點 #國際
-
-特朗普：可能和加拿大達成協議。
-
----
-
-### 2026-08-20 03:32:22  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #WTI #Copper
-
-Trump on Canada trade talks said he believes a deal has been reached that will be mutually beneficial.
-
----
-
-### 2026-08-20 03:32:14  #MKT News #Important #Market Themes #The Trump Trade
-
-U.S. President Trump said on trade talks with Canada that we may reach a deal.
-
----
-
-### 2026-08-20 03:30:59  #MKT News #Market Themes #AI Revolution
-
-【SpaceX sought acquisition of AI programming startup Cognition】People familiar say SpaceX held acquisition talks with AI programming startup Cognition, exploring a potential deal that would be the company's second major purchase in months aimed at gaining an edge in the AI race. Talks are currently paused, but the firms continue to discuss cooperation, including potential arrangements for Cognition to use SpaceX's computing capacity. Cognition was valued at $26 bln in a May funding round and is in preliminary talks for a new raise with a valuation of at least $40 bln.
 
 ---

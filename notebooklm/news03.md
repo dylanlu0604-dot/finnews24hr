@@ -1,7 +1,144 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-26 01:42:18_
-_本檔包含 3027 則快訊，約 652806 字_
+_更新時間：2026-08-26 02:02:58_
+_本檔包含 3036 則快訊，約 653522 字_
+
+---
+
+### 2026-08-22 07:32:58  #其他
+
+【四川馬邊縣遭遇極端強降雨引發山洪 縣城部分割槽域被淹】8月22日凌晨，四川樂山市馬邊彝族自治縣遭遇極端強降雨。馬邊縣氣象臺於1時33分發布暴雨橙色預警，2時44分升級為暴雨紅色預警，其中勞動鎮、民建鎮、建設鎮等區域3小時降雨量達100毫米以上，雪口山、煙峰、梅林等地3小時降雨量達50毫米以上。馬邊縣城區多條地勢較低街道進水，洪水帶來大量泥沙與堆積物，沿街部分車輛、商鋪和房屋被淹、受損。（央視新聞）
+
+---
+
+### 2026-08-22 07:32:40  #宏觀 #國際
+
+美國國務院表示：美國期待承辦兩國間經濟峰會，以深化與薩爾瓦多的夥伴關係。
+
+---
+
+### 2026-08-22 07:27:40  #國際
+
+加拿大負責美國貿易事務的部長多米尼克·勒布朗表示：我們還有更多工作要做。
+
+---
+
+### 2026-08-22 07:19:47  #國際
+
+特朗普：霍爾木茲海峽是美國領土。
+
+---
+
+### 2026-08-22 07:19:31  #國際
+
+特朗普重申：伊朗不能擁有核武器。
+
+---
+
+### 2026-08-22 07:18:52  #市場 #國際
+
+特朗普談伊朗：我們完事之後，油價就會下跌。
+
+---
+
+### 2026-08-22 07:16:06  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、中國經濟的韌性與活力
+2、諶貽琴在北京市調研時強調 加快建設足球青訓體系 提升競技體育後備人才培養水平
+3、財政支出預算安排首超三十萬億元，新增政府債券規模歷年最大 真金白銀投得更實 政策舉措落得更準（權威釋出·開局起步“十五五”）
+4、全國一般公共預算收入前7月平穩較快增長 衛生健康支出增長9.8%
+5、《對外投資管理辦法（修訂徵求意見稿）》釋出
+6、中國企業助力拉美國家發展網際網路新業態
+7、中國印尼全面戰略對話機制舉行首次會議
+8、兩部門細化人民幣買賣活動監管要求
+9、中國就深化亞太糧食安全合作提出倡議
+10、聯合國人工智慧與人類發展全球對話在西安舉辦
+11、前7月高技術產業實際使用外資佔全國超四成 較去年同期提升12.2個百分點
+12、《促進網信企業高質量發展行動計劃（2026—2030年）》印發
+13、三部門聯合推動已故人士金融賬戶查詢服務
+14、兩部門細化人民幣買賣活動監管要求
+15、甘肅省內縣辦中醫醫療機構覆蓋率達98.8%
+
+---
+
+### 2026-08-22 07:15:54  #國際
+
+特朗普：今天我要感謝最高法院對白宮宴會廳事件的裁決。
+
+---
+
+### 2026-08-22 07:15:42  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、陸海內外聯動 東西雙向互濟 貴州主動融入全面開放格局
+培育新動能 佈局新賽道
+2、吉林構建體現本地特色現代化產業體系
+3、有效擴大國內需求
+4、李強主持召開國務院常務會議 聽取新一代通訊網建設情況彙報，部署進一步清理拖欠企業賬款工作，研究持續改善空氣質量有關工作，審議透過《電力安全事故應急處置和調查處理條例（修訂草案）》和《市場監督管理所條例（草案）》
+5、趙樂際會見約旦國王阿卜杜拉二世
+6、我國早稻產量連續6年穩定在560億斤以上
+7、暑運迎來返程高峰
+8、廣州強化科技創新和產業創新深度融合
+9、7月全社會用電量創歷史新高 高技術及裝備製造業用電量同比增長8.9%
+
+---
+
+### 2026-08-22 07:08:16  #國際
+
+【美媒：美計劃償還聯合國8.5億美元欠款】據美國媒體21日報道，美國政府已通知國會計劃向聯合國支付8.5億美元，以償還其拖欠的部分聯合國會費及其他款項。據美聯社獲得的本月提交給國會議員的通知顯示，美國務院計劃撥付7.25億美元用於支付聯合國會費，1.25億美元用於支援聯合國在海地和剛果（金）的維和行動。報道說，美國拖欠聯合國相關攤款資金總額約50億美元，其中包括超20億美元會費和約30億美元的維和行動經費。（新華社）
+
+---
+
+### 2026-08-22 07:07:00  #公司 #市場 #國際
+
+【8月22日隔夜要聞一覽】
+1、美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。
+2、美國最高法院首席大法官約翰·羅伯茨簽署一句話行政擱置令，暫時允許白宮宴會廳改造專案繼續進行。
+3、阿曼外交大臣巴德爾與伊朗外交部長阿拉格齊通電話，雙方強調，將繼續就相關問題進行磋商，推動達成具體共識，以恢復霍爾木茲海峽自由、順暢通航，並維護地區安全與穩定。
+4、據日本方面21日訊息，日本政府部門和機構2027財年（2027年4月至2028年3月）預算申請總額預計將超過130萬億日元（1美元約合159日元），相比本財年的122萬億日元顯著增加。
+5、伊朗海軍司令沙赫拉姆·伊拉尼稱，伊朗武裝力量在最高領袖領導下保持高度戒備，“不久後將在海上給敵人一個重大的、歷史性的、難忘的教訓”。
+6、現貨黃金升至5月中旬以來最高水平，本週累計上漲逾5%。截至收盤，現貨黃金價格漲1.89%，報4604.53美元/盎司；現貨白銀價格漲1.32%，報68.97美元/盎司。
+7、加密貨幣持續走高，比特幣週五最高報約78500美元，本週迄今上漲超23%，創2023年3月以來最大單週漲幅。
+8、美國總統唐納德·特朗普表示，他將對部分牛絞肉進口給予關稅寬減，以降低美國消費者的購買價。
+9、Anthropic PBC已聘請谷歌定製晶片專案創始人Amir Salek，Salek曾負責谷歌的張量處理單元（TPU）業務直至2022年，並參與推出了前七代TPU晶片。
+10、知情人士稱，英偉達已同意支付60億美元，以獲得Poolside人工智慧（AI）模型的使用許可，並將向100多名員工發出聘用邀請。
+
+---
+
+### 2026-08-22 07:03:55  #宏觀 #市場 #央行 #國際
+
+【機構：美國財政部正接近融資的"有效前沿"】SMBC美洲策略師表示，只要對國庫券的需求保持強勁——且”仍在增長”，美國財政部就能成功調整其發行期限結構以壓低收益率曲線，不過該部門可能已接近”有效前沿”。由Joseph Abate領銜的策略師團隊指出，美聯儲加息、逆回購工具使用規模縮減以及貨幣市場基金餘額增長，使財政部得以將國庫券供給提升至國債總額的22%，而並未出現”顯著折價”，國庫券與隔夜指數掉期（OIS）的利差保持穩定便是明證。
+
+---
+
+### 2026-08-22 07:01:53  #其他 #焦點
+
+美軍中央司令部： 截至 8 月 21 日，美軍已對 68 艘商業船舶實施改道，使 3 艘船舶喪失行動能力，並登檢 3 艘船舶，以確保（相關規定）得到遵守。
+
+---
+
+### 2026-08-22 07:01:11  #國際
+
+美國中央司令部：美國已調轉68艘參與封鎖的商船航線。
+
+---
+
+### 2026-08-22 07:00:48  #國際
+
+【特朗普稱伊朗未準備好達成合適協議】美國東部時間8月21日下午，美國總統特朗普在馬里蘭州安德魯斯聯合基地準備搭乘“空軍一號”專機時對媒體表示，伊朗還沒準備好達成一份“合適的協議”。特朗普是在被問及“對伊朗發動經濟戰是否意味著美國在該地區的軍事選項已經受限”的提問時作出上述表態的。他表示，這不意味著美國的軍事選項已經受限，美國“只是在觀察事態發展”。他再次強調美國對霍爾木茲海峽相關區域“擁有絕對控制權”，並稱其管控範圍還進一步“延伸至陸上區域”。 特朗普稱，“伊朗很想達成協議，但在我看來，他們還沒準備好達成一項合適的協議。”（CCTV國際時訊）
+
+---
+
+### 2026-08-22 06:59:50  #市場 #焦點
+
+布倫特原油暗盤突破92美元，日內漲超1%。
+
+---
+
+### 2026-08-22 06:57:35  #國際
+
+市場訊息：特朗普總統已經到達為林賽·格雷厄姆參議員舉行的集會現場，他預計將很快登臺講話。
 
 ---
 
@@ -18223,53 +18360,5 @@ United States | US Treasuries held by Foreign Central Banks (Aug.14) | actual -1
 ### 2026-08-21 04:28:58  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Edges Lower on Banking Losses — The S&P/TSX Composite Index edged 0.1% lower to close at 36,365 on Thursday as rising oil prices fueled inflation concerns. Oil prices climbed after US President Donald Trump announced a sweeping package of economic measures targeting Iran. Financials and the broader market came under pressure as bond yields rose amid renewed inflation worries, with RBC down 1.2%, TD Bank shedding 1.4%, BMO losing 1.6%, CIBC retreating 1.9% and Scotiabank falling 1.5%. Retail stocks also posted losses after Walmart sank more than 9% on Wall Street following weaker-than-expected second-quarter results. ATD shed 2.2%, Loblaw lost 1.3% and Dollarama fell 1.4%. Meanwhile, miners extended gains after rallying the previous day as gold prices firmed near a more than two-month high. Agnico Eagle and WPM added 1.8% each, Barrick gained 2.4% and Franco-Nevada advanced 2.8%. Energy stocks also rose amid higher oil prices, with Canadian Natural adding 2.9%.
-
----
-
-### 2026-08-21 04:28:30  #MKT News
-
-【Chinese container ship makes inaugural call at Russia's Murmansk port】Murmansk commercial seaport held a welcome ceremony on the 20th for the first Chinese container vessel to call the port, marking the launch of regular container cargo services from Chinese coastal ports via the Northern Sea Route to Russia's largest Arctic deepwater port.
-
----
-
-### 2026-08-21 04:28:23  #市場 #國際
-
-【中國集裝箱船首次成功抵達俄摩爾曼斯克港】俄羅斯摩爾曼斯克海上貿易港20日舉行首艘中國集裝箱船靠港歡迎儀式，慶祝該港首條來自中國的集裝箱航線順利開通。這標誌著透過北極航道連線中國沿海港口與俄北極圈內最大深水港的定期貨物運輸業務正式拉開序幕。（新華社）
-
----
-
-### 2026-08-21 04:27:28  #宏觀 #公司 #市場 #觀點 #央行 #國際
-
-【花旗對美元短期看法轉為看空 此前就美債回購風險發出警告】隨著市場為美聯儲鷹派立場減弱、美國中期選舉以及美國財政部擴大國債回購做準備，花旗集團外匯策略師對美元的短期看法轉為看空。花旗策略師Daniel Tobon等人在週四的研究報告中寫道，該團隊將未來三個月的美元指數預期從102.12下調至98.34。此前花旗警告稱，美國財政部長斯科特·貝森特試圖透過擴大10年至30年期國債回購規模來壓低長期借貸成本，此舉可能會讓美元付出代價。美元指數報98.9，基本持平，前一日曾跌至5月以來最低。Tobon等人表示，過去幾個月，他們對美元一直持“更偏中性”的看法，警告稱未來幾個月風險可能上升。
-
----
-
-### 2026-08-21 04:26:43  #其他
-
-幣安：將繼續與阿聯酋有關部門全面配合。
-
----
-
-### 2026-08-21 04:26:09  #其他
-
-幣安：員工從未成為調查物件，常規調查涉及第三方資金流向。相關人員提交的陳述已迅速澄清。
-
----
-
-### 2026-08-21 04:25:07  #MKT News #BA.O #Impact bullish
-
-【US approves up to $4.5 bln KC-46A tanker sale to Qatar】The US State Department said on the 20th it has approved a proposed foreign military sale to Qatar of up to four KC-46A aerial refueling tankers and associated equipment and services, valued at up to $4.5 bln. Qatar’s request includes engines, radar-warning receivers, infrared countermeasures and related support services. The State Department said the sale would strengthen the security of a US strategic regional partner, support US foreign policy and national security objectives, improve Qatar’s defence and interoperability with US and allied forces, and bolster its regional strategic role. The KC-46A, built by Boeing on a 767 airframe, is the US Air Force’s latest tanker; first delivery occurred in Jan 2019. Boeing describes the platform as providing refueling plus multi-mission combat capabilities and data transmission functions.
-
----
-
-### 2026-08-21 04:24:09  #MKT News
-
-Panama Canal Authority to closely monitor weather, watershed inflows and lake levels.
-
----
-
-### 2026-08-21 04:24:02  #MKT News #Brent #Impact bullish #Copper #Impact bearish
-
-Panama Canal: planned reduction in maximum allowable draft to 14.48 metres (47.5 ft, tropical fresh water) originally due to take effect on Sept. 3, 2026, has been delayed and will now be effective Oct. 1, 2026.
 
 ---

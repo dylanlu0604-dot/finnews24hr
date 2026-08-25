@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-26 01:42:18_
-_本檔包含 3643 則快訊，約 651833 字_
+_更新時間：2026-08-26 02:02:58_
+_本檔包含 3640 則快訊，約 652930 字_
+
+---
+
+### 2026-08-25 06:01:23  #其他
+
+市場資訊：WikiHow起訴OpenAI，指控其人工智慧訓練侵犯版權。
+
+---
+
+### 2026-08-25 05:59:12  #公司
+
+【上半年鋰礦企業業績普遍向好】從上市公司來看，受益於鋰價回暖等利好因素，上半年鋰礦企業業績普遍呈現向好態勢。其中，天齊鋰業股份有限公司預計2026年上半年歸屬於上市公司股東的淨利潤同比增長32倍至49倍，融捷股份有限公司、西藏礦業發展股份有限公司、盛新鋰能集團股份有限公司中報資料顯示，其歸屬於上市公司股東的淨利潤同比分別增長1076.14%、492.46%和220.3%。（證券日報）
+
+---
+
+### 2026-08-25 05:53:00  #MKT News #Market Regions #Japan & APAC
+
+Nikkei reports Japan plans to spend $630 million to purchase a submarine cable-laying vessel.
+
+---
+
+### 2026-08-25 05:51:56  #國際
+
+美國醫療保險和醫療補助服務中心(CMS)：特朗普政府宣佈撥款1.44億美元，用於改善心理健康、藥物濫用、急診及孕產婦護理，並擴大阿拉巴馬州醫療保健人員隊伍。
+
+---
+
+### 2026-08-25 05:48:13  #國際
+
+在2027財年預算中，日本省廳將為採購3至5艘艦艇提供資金支援。
+
+---
+
+### 2026-08-25 05:47:08  #國際
+
+日本擬投入6.3億美元協助採購海底電纜鋪設船，以應對日益增長的風險。日本總務省計劃將相關支出列入預計於8月底提交的2027財年預算申請中。
+
+---
+
+### 2026-08-25 05:28:41  #MKT News #Macro & Rates #USDJPY #Impact bearish
+
+【Former Bank of Japan official: conditions in place for a rate hike next month】A former Bank of Japan official said the BOJ is likely to raise rates next month (September) and that markets have essentially fully priced a hike; failure to tighten could trigger another sharp yen selloff. He cited U.S. Treasury official BESSENT’s view that policy action should follow any FX intervention and BESSENT’s hope that governor UEDA will lift rates, adding that BESSENT has repeatedly signalled the BOJ may be next to act and that the government cannot tell the BOJ not to. He said Japan’s inflation momentum is strong and, after an expected September increase, the BOJ is likely to continue tightening—potentially acting again in January and extending the cycle beyond previously assumed terminal rates of 1.25–1.5%.
+
+---
+
+### 2026-08-25 05:26:14  #MKT News #Market Regions #Japan & APAC #BA.N #Impact bullish #Dow
+
+Boeing (BA.N) contracts relate to foreign military sales projects; customers include Japan, Israel, Saudi Arabia, South Korea, Singapore, Indonesia and Poland.
+
+---
+
+### 2026-08-25 05:25:42  #宏觀 #國際
+
+【加拿大強硬回應美國關稅升級威脅 政界人士密集表態】加拿大政界人士24日針對美國發出的最新關稅威脅密集表態，強調加拿大不會接受不平等的雙邊關係，並可能採取包括經濟紓困與出口限制的舉措應對加美貿易戰。 加拿大總理卡尼說，只有在美國改變態度並建立真正夥伴關係的前提下，加方才願意重回談判桌。他不接受“加拿大是美國附屬”的態度，也不接受加拿大在對美關係中所處不利地位。卡尼還表示，美方的做法限制了加拿大與其他國家簽署貿易協定的能力，侵犯了加拿大的“核心文化利益”。 加拿大財政部長商鵬飛表示，加政府將向受關稅衝擊的企業提供支援政策。加方的首要計劃始終是建設強有力的本國經濟、消除各省間的貿易壁壘、推進經濟多元化以及在國內實施重大專案。 加拿大前總理克雷蒂安建議加政府應對特定出口商品徵收出口稅，以反制美國的新關稅措施。克雷蒂安說，如果想立於不敗之地就必須擊中對方的要害。他特別提到能源、石油、天然氣和鉀肥等美國高度依賴的加拿大商品，並指出徵收出口稅的好處在於買單的是美國人而非加拿大自己。 安大略省省長福特稱加方需要“傾盡所有手段”進行反擊，如果貿易爭端進一步升級，加拿大應準備切斷對美電力和關鍵礦產供應。（新華社）
+
+---
+
+### 2026-08-25 05:19:28  #MKT News #Commodities #Energy #JPM.O #Impact bullish #SAN.O
+
+JP Morgan and Banco Santander are leading a financing package of up to $15 billion for an Argentine LNG project, sources said.
+
+---
+
+### 2026-08-25 05:19:15  #市場
+
+富時A50期指連續夜盤收跌0.20%，報14623點。
+
+---
+
+### 2026-08-25 05:18:13  #觀點
+
+摩根大通、桑坦德銀行牽頭為阿根廷液化天然氣專案提供最高150億美元融資。
+
+---
+
+### 2026-08-25 05:17:21  #MKT News
+
+【Iran foreign ministry says US threat of new sanctions violates international law】Aug 24 — Iran foreign ministry spokesman BAGHAEI said US threats to impose a new round of sanctions against Iran would "seriously violate international law." He said Iran has the right to strike all sources of aggression. BAGHAEI said Tehran views current domestic economic pressure and business distress as part of decades-long US pressure on the Iranian people and that the government has assessed the situation and is taking all measures to counter economic sanctions. He criticised Washington calling the measures an "economic war," saying it showed disregard for free trade and state sovereignty.
+
+---
+
+### 2026-08-25 05:15:52  #MKT News
+
+【U.S. Supreme Court allows Trump to press mail‑voting restrictions】The U.S. Supreme Court on Monday granted the Justice Department's emergency request to stay a lower-court injunction that had blocked Trump's March executive order limiting mail voting in 23 Democratic‑run states and Washington, D.C., clearing a path for the administration to pursue the measures while other judicial constraints remain. The order directs agencies to compile citizenship lists, prioritize prosecutions of officials who send ballots to ineligible voters, and restrict USPS delivery of ballots to qualified voters. A Boston federal judge had ruled in June the president lacks authority to alter state election administration; DOJ argued the lawsuits were premature. Trump has long questioned mail‑voting security and pledged to end the practice; because Democrats use mail ballots at higher rates, the restrictions could advantage Republicans. Further legal challenges are expected ahead of the midterms.
 
 ---
 
@@ -21867,142 +21951,5 @@ Crypto Updates: Ether Drops by 3.53% — Top crypto losers are Ether (-3.53%) an
 ### 2026-08-22 07:33:18  #焦點 #國際
 
 【特朗普再稱霍爾木茲海峽為美國領土】當地時間8月21日，美國總統特朗普抵達南卡羅來納州，為上個月暴斃的共和黨參議員林賽·格雷厄姆的妹妹達琳助選。特朗普在演講時重申必須阻止伊朗發展核武器。他還稱伊朗非常渴望達成協議，但他不知道自己是否真想達成協議，因為在他看來，“霍爾木茲海峽現在是美國的領土，它就是美國的領土”。（CCTV國際時訊）
-
----
-
-### 2026-08-22 07:32:58  #其他
-
-【四川馬邊縣遭遇極端強降雨引發山洪 縣城部分割槽域被淹】8月22日凌晨，四川樂山市馬邊彝族自治縣遭遇極端強降雨。馬邊縣氣象臺於1時33分發布暴雨橙色預警，2時44分升級為暴雨紅色預警，其中勞動鎮、民建鎮、建設鎮等區域3小時降雨量達100毫米以上，雪口山、煙峰、梅林等地3小時降雨量達50毫米以上。馬邊縣城區多條地勢較低街道進水，洪水帶來大量泥沙與堆積物，沿街部分車輛、商鋪和房屋被淹、受損。（央視新聞）
-
----
-
-### 2026-08-22 07:32:40  #宏觀 #國際
-
-美國國務院表示：美國期待承辦兩國間經濟峰會，以深化與薩爾瓦多的夥伴關係。
-
----
-
-### 2026-08-22 07:27:40  #國際
-
-加拿大負責美國貿易事務的部長多米尼克·勒布朗表示：我們還有更多工作要做。
-
----
-
-### 2026-08-22 07:19:47  #國際
-
-特朗普：霍爾木茲海峽是美國領土。
-
----
-
-### 2026-08-22 07:19:31  #國際
-
-特朗普重申：伊朗不能擁有核武器。
-
----
-
-### 2026-08-22 07:18:52  #市場 #國際
-
-特朗普談伊朗：我們完事之後，油價就會下跌。
-
----
-
-### 2026-08-22 07:16:06  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、中國經濟的韌性與活力
-2、諶貽琴在北京市調研時強調 加快建設足球青訓體系 提升競技體育後備人才培養水平
-3、財政支出預算安排首超三十萬億元，新增政府債券規模歷年最大 真金白銀投得更實 政策舉措落得更準（權威釋出·開局起步“十五五”）
-4、全國一般公共預算收入前7月平穩較快增長 衛生健康支出增長9.8%
-5、《對外投資管理辦法（修訂徵求意見稿）》釋出
-6、中國企業助力拉美國家發展網際網路新業態
-7、中國印尼全面戰略對話機制舉行首次會議
-8、兩部門細化人民幣買賣活動監管要求
-9、中國就深化亞太糧食安全合作提出倡議
-10、聯合國人工智慧與人類發展全球對話在西安舉辦
-11、前7月高技術產業實際使用外資佔全國超四成 較去年同期提升12.2個百分點
-12、《促進網信企業高質量發展行動計劃（2026—2030年）》印發
-13、三部門聯合推動已故人士金融賬戶查詢服務
-14、兩部門細化人民幣買賣活動監管要求
-15、甘肅省內縣辦中醫醫療機構覆蓋率達98.8%
-
----
-
-### 2026-08-22 07:15:54  #國際
-
-特朗普：今天我要感謝最高法院對白宮宴會廳事件的裁決。
-
----
-
-### 2026-08-22 07:15:42  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、陸海內外聯動 東西雙向互濟 貴州主動融入全面開放格局
-培育新動能 佈局新賽道
-2、吉林構建體現本地特色現代化產業體系
-3、有效擴大國內需求
-4、李強主持召開國務院常務會議 聽取新一代通訊網建設情況彙報，部署進一步清理拖欠企業賬款工作，研究持續改善空氣質量有關工作，審議透過《電力安全事故應急處置和調查處理條例（修訂草案）》和《市場監督管理所條例（草案）》
-5、趙樂際會見約旦國王阿卜杜拉二世
-6、我國早稻產量連續6年穩定在560億斤以上
-7、暑運迎來返程高峰
-8、廣州強化科技創新和產業創新深度融合
-9、7月全社會用電量創歷史新高 高技術及裝備製造業用電量同比增長8.9%
-
----
-
-### 2026-08-22 07:08:16  #國際
-
-【美媒：美計劃償還聯合國8.5億美元欠款】據美國媒體21日報道，美國政府已通知國會計劃向聯合國支付8.5億美元，以償還其拖欠的部分聯合國會費及其他款項。據美聯社獲得的本月提交給國會議員的通知顯示，美國務院計劃撥付7.25億美元用於支付聯合國會費，1.25億美元用於支援聯合國在海地和剛果（金）的維和行動。報道說，美國拖欠聯合國相關攤款資金總額約50億美元，其中包括超20億美元會費和約30億美元的維和行動經費。（新華社）
-
----
-
-### 2026-08-22 07:07:00  #公司 #市場 #國際
-
-【8月22日隔夜要聞一覽】
-1、美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。
-2、美國最高法院首席大法官約翰·羅伯茨簽署一句話行政擱置令，暫時允許白宮宴會廳改造專案繼續進行。
-3、阿曼外交大臣巴德爾與伊朗外交部長阿拉格齊通電話，雙方強調，將繼續就相關問題進行磋商，推動達成具體共識，以恢復霍爾木茲海峽自由、順暢通航，並維護地區安全與穩定。
-4、據日本方面21日訊息，日本政府部門和機構2027財年（2027年4月至2028年3月）預算申請總額預計將超過130萬億日元（1美元約合159日元），相比本財年的122萬億日元顯著增加。
-5、伊朗海軍司令沙赫拉姆·伊拉尼稱，伊朗武裝力量在最高領袖領導下保持高度戒備，“不久後將在海上給敵人一個重大的、歷史性的、難忘的教訓”。
-6、現貨黃金升至5月中旬以來最高水平，本週累計上漲逾5%。截至收盤，現貨黃金價格漲1.89%，報4604.53美元/盎司；現貨白銀價格漲1.32%，報68.97美元/盎司。
-7、加密貨幣持續走高，比特幣週五最高報約78500美元，本週迄今上漲超23%，創2023年3月以來最大單週漲幅。
-8、美國總統唐納德·特朗普表示，他將對部分牛絞肉進口給予關稅寬減，以降低美國消費者的購買價。
-9、Anthropic PBC已聘請谷歌定製晶片專案創始人Amir Salek，Salek曾負責谷歌的張量處理單元（TPU）業務直至2022年，並參與推出了前七代TPU晶片。
-10、知情人士稱，英偉達已同意支付60億美元，以獲得Poolside人工智慧（AI）模型的使用許可，並將向100多名員工發出聘用邀請。
-
----
-
-### 2026-08-22 07:03:55  #宏觀 #市場 #央行 #國際
-
-【機構：美國財政部正接近融資的"有效前沿"】SMBC美洲策略師表示，只要對國庫券的需求保持強勁——且”仍在增長”，美國財政部就能成功調整其發行期限結構以壓低收益率曲線，不過該部門可能已接近”有效前沿”。由Joseph Abate領銜的策略師團隊指出，美聯儲加息、逆回購工具使用規模縮減以及貨幣市場基金餘額增長，使財政部得以將國庫券供給提升至國債總額的22%，而並未出現”顯著折價”，國庫券與隔夜指數掉期（OIS）的利差保持穩定便是明證。
-
----
-
-### 2026-08-22 07:01:53  #其他 #焦點
-
-美軍中央司令部： 截至 8 月 21 日，美軍已對 68 艘商業船舶實施改道，使 3 艘船舶喪失行動能力，並登檢 3 艘船舶，以確保（相關規定）得到遵守。
-
----
-
-### 2026-08-22 07:01:11  #國際
-
-美國中央司令部：美國已調轉68艘參與封鎖的商船航線。
-
----
-
-### 2026-08-22 07:00:48  #國際
-
-【特朗普稱伊朗未準備好達成合適協議】美國東部時間8月21日下午，美國總統特朗普在馬里蘭州安德魯斯聯合基地準備搭乘“空軍一號”專機時對媒體表示，伊朗還沒準備好達成一份“合適的協議”。特朗普是在被問及“對伊朗發動經濟戰是否意味著美國在該地區的軍事選項已經受限”的提問時作出上述表態的。他表示，這不意味著美國的軍事選項已經受限，美國“只是在觀察事態發展”。他再次強調美國對霍爾木茲海峽相關區域“擁有絕對控制權”，並稱其管控範圍還進一步“延伸至陸上區域”。 特朗普稱，“伊朗很想達成協議，但在我看來，他們還沒準備好達成一項合適的協議。”（CCTV國際時訊）
-
----
-
-### 2026-08-22 06:59:50  #市場 #焦點
-
-布倫特原油暗盤突破92美元，日內漲超1%。
-
----
-
-### 2026-08-22 06:57:35  #國際
-
-市場訊息：特朗普總統已經到達為林賽·格雷厄姆參議員舉行的集會現場，他預計將很快登臺講話。
 
 ---

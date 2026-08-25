@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-26 01:42:18_
-_本檔包含 3320 則快訊，約 652458 字_
+_更新時間：2026-08-26 02:02:58_
+_本檔包含 3332 則快訊，約 653104 字_
+
+---
+
+### 2026-08-20 03:36:26  #國際
+
+特朗普：考慮取消針對加拿大的鋼鋁關稅。
+
+---
+
+### 2026-08-20 03:36:05  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY #Impact bearish #WTI
+
+U.S. President Trump said on trade with Canada that farmers will not have to pay tariffs.
+
+---
+
+### 2026-08-20 03:36:00  #MKT News #WTI #Impact bullish #Brent
+
+President Trump said the U.S. may continue to blockade the Strait of Hormuz.
+
+---
+
+### 2026-08-20 03:35:57  #國際
+
+特朗普：我們可能會繼續實施封鎖。霍爾木茲海峽將不會再像過去那般重要。
+
+---
+
+### 2026-08-20 03:35:38  #國際
+
+特朗普：大量船隻正在透過霍爾木茲海峽，但航運規模或許會在某個節點有所放緩。
+
+---
+
+### 2026-08-20 03:35:25  #國際
+
+特朗普：與伊朗達成的協議結果並不像他們所說的那樣。
+
+---
+
+### 2026-08-20 03:35:22  #MKT News
+
+President Trump said he supports term limits.
+
+---
+
+### 2026-08-20 03:35:08  #MKT News
+
+Trump on Iran sanctions: we will wait and see.
+
+---
+
+### 2026-08-20 03:34:53  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed above $4,510/oz, up 4.06% intraday.
+
+---
+
+### 2026-08-20 03:34:48  #國際
+
+【皮尤調查：美國年輕人對AI態度日益敵視 擔心技術進步導致大規模失業】皮尤研究中心的一項調查顯示，美國勞動力市場中最年輕的一批人對人工智慧的疑慮日益增加，擔心這項技術的進步會導致大規模失業。6月資料顯示，自皮尤2021年開始進行這項調查以來，30歲以下成年人中首次有多數人表示對AI的擔憂多於興奮。這與大多數其他年齡群體的態度趨於一致，但變化尤其明顯的是，最年輕群體已從過去最看好AI潛力的一群人，轉變為如今對這項技術最持懷疑態度的群體之一。調查顯示，在這一年齡段中，接近四分之三的人還認為，AI將導致可獲得的工作崗位減少，佔比高於兩年前的61%。
+
+---
+
+### 2026-08-20 03:34:36  #國際
+
+特朗普：伊朗制裁後續情況我們拭目以待。
+
+---
+
+### 2026-08-20 03:34:34  #MKT News #Market Themes #AI Revolution
+
+【OpenAI CFO: Company to go public in 2027 or earlier】OpenAI CFO Sarah Friar told staff at an all‑hands the company expects to be a public company in 2027 but could list earlier if growth accelerates. She said an IPO is a milestone and a means to raise capital rather than an endpoint, and that OpenAI completed $122 bln of financing in March, giving it greater flexibility for future development.
+
+---
+
+### 2026-08-20 03:34:15  #國際
+
+特朗普：美國已就儲備 “大規模” 比特幣及其他加密貨幣的相關計劃展開討論。
+
+---
+
+### 2026-08-20 03:32:39  #國際
+
+特朗普談及加拿大貿易談判：我認為我們達成了一份對各方都有利的協議。
+
+---
+
+### 2026-08-20 03:32:22  #焦點 #國際
+
+特朗普：可能和加拿大達成協議。
+
+---
+
+### 2026-08-20 03:32:22  #MKT News #Market Themes #The Trump Trade #S&P500 #Impact bullish #WTI #Copper
+
+Trump on Canada trade talks said he believes a deal has been reached that will be mutually beneficial.
+
+---
+
+### 2026-08-20 03:32:14  #MKT News #Important #Market Themes #The Trump Trade
+
+U.S. President Trump said on trade talks with Canada that we may reach a deal.
+
+---
+
+### 2026-08-20 03:30:59  #MKT News #Market Themes #AI Revolution
+
+【SpaceX sought acquisition of AI programming startup Cognition】People familiar say SpaceX held acquisition talks with AI programming startup Cognition, exploring a potential deal that would be the company's second major purchase in months aimed at gaining an edge in the AI race. Talks are currently paused, but the firms continue to discuss cooperation, including potential arrangements for Cognition to use SpaceX's computing capacity. Cognition was valued at $26 bln in a May funding round and is in preliminary talks for a new raise with a valuation of at least $40 bln.
 
 ---
 
@@ -19971,41 +20079,5 @@ According to Axios, OpenAI is rewriting its primary safety documentation followi
 ### 2026-08-19 02:03:49  #MKT News #Brent #Impact bullish #DXY
 
 DTEK said a Russian strike severely damaged a thermal power plant in central Ukraine, forcing the plant offline.
-
----
-
-### 2026-08-19 02:02:01  #公司 #觀點
-
-【據傳優步透過大宗交易出售部分 Aurora Innovation 股權】知情人士透露，優步科技公司於週一透過一筆 4.766 億美元的非註冊大宗交易，出售了所持 Aurora Innovation 公司的部分股權。本次發售這家自動駕駛技術企業的 7200 萬股股票，定價 6.62 美元，處於 6.62‑6.97 美元推介價格區間的下限。摩根大通負責本次發售相關工作。
-
----
-
-### 2026-08-19 02:00:22  #其他
-
-OpenAI 在 Hugging Face 資料洩露事件後調整人工智慧安全機制。
-
----
-
-### 2026-08-19 01:53:29  #國際
-
-伊朗方面報道：調查顯示，有關伊朗向阿聯酋發動導彈襲擊的說法尚無證據證實；伊朗只承認自己實際實施過的行動。
-
----
-
-### 2026-08-19 01:53:04  #MKT News
-
-Fox News reported Rep. Buddy Carter has held discussions with the White House about serving as the next FDA commissioner, and sources said he is interested in the post.
-
----
-
-### 2026-08-19 01:50:48  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran foreign minister: recent clashes show countries without US bases suffer less damage】On the 18th, Iran's foreign minister Araqchi said recent clashes show countries without US military bases suffer less damage, and that US bases cannot shield US interests from strikes by resistance forces. He said Qatar and Pakistan played effective mediating roles between Iran and the US and that Tehran's ties with Qatar are currently very good. He urged a new Middle East security concept based on "common security" and addressing economic imbalances, warning the Persian Gulf cannot achieve lasting peace without comprehensive cooperation.
-
----
-
-### 2026-08-19 01:43:41  #國際
-
-【伊朗外長：近期衝突表明未設美軍基地的國家受損害更小】當地時間18日，伊朗外交部長阿拉格齊表示，近期發生的衝突表明，沒有設立美軍基地的國家受到的損害更小，而美軍基地甚至無法保護自身利益免受抵抗力量的打擊。阿拉格齊指出，卡達和巴基斯坦在伊朗與美國之間發揮了有效的斡旋作用，目前德黑蘭與卡達的關係處於非常良好的階段。他強調，中東地區的新安全觀必須建立在“共同安全”和解決經濟不平衡問題的基礎上，如果沒有全方位的合作，波斯灣地區將無法實現持久和平。（央視新聞）
 
 ---
