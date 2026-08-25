@@ -1,7 +1,40 @@
 {
   "date": "2026-08-26",
-  "count": 86,
+  "count": 89,
   "items": [
+    {
+      "id": "5058412",
+      "time": "2026-08-26 01:31:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "Kalshi在提交給美國證券交易委員會(SEC)的檔案中稱，已透過股權融資籌集約11.2億美元，總髮行規模為15億美元。"
+    },
+    {
+      "id": "mkt:01a039fa-1ad8-7aab-9117-fb539344cdc2",
+      "time": "2026-08-26 01:31:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Brazil and the United States will discuss tariffs on Aug. 31 (local time), Brazilian media report."
+    },
+    {
+      "id": "mkt:01a039f8-fae3-7aab-9117-f2600e637138",
+      "time": "2026-08-26 01:30:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Carney said Canada will impose matching retaliatory tariffs against the new US tariffs on a dollar-for-dollar basis. Ottawa will also provide an additional C$7.5 bln in support for Canadian workers and businesses, on top of roughly C$25 bln of measures announced since the US tariffs were imposed."
+    },
     {
       "id": "5058411",
       "time": "2026-08-26 01:28:36",

@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-26 01:29:28",
-  "count": 16507,
+  "updated": "2026-08-26 01:33:51",
+  "count": 16508,
   "items": [
+    {
+      "id": "5058412",
+      "time": "2026-08-26 01:31:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "Kalshi在提交給美國證券交易委員會(SEC)的檔案中稱，已透過股權融資籌集約11.2億美元，總髮行規模為15億美元。"
+    },
+    {
+      "id": "mkt:01a039fa-1ad8-7aab-9117-fb539344cdc2",
+      "time": "2026-08-26 01:31:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Brazil and the United States will discuss tariffs on Aug. 31 (local time), Brazilian media report."
+    },
+    {
+      "id": "mkt:01a039f8-fae3-7aab-9117-f2600e637138",
+      "time": "2026-08-26 01:30:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Carney said Canada will impose matching retaliatory tariffs against the new US tariffs on a dollar-for-dollar basis. Ottawa will also provide an additional C$7.5 bln in support for Canadian workers and businesses, on top of roughly C$25 bln of measures announced since the US tariffs were imposed."
+    },
     {
       "id": "5058411",
       "time": "2026-08-26 01:28:36",
@@ -149279,22 +149312,6 @@
         "其他"
       ],
       "text": "【比特幣巨鯨豪擲27.5億美元重返市場掃貨】據CryptoQuant資料（其計算排除了交易所和礦池），過去60天內，比特幣巨鯨累計增持約4.3萬枚比特幣，按當前價格計算價值約27.5億美元。當比特幣價格開始交投於6萬美元附近時，大型持有者重新投入買入，所謂”海豚”（中等偏上持有者）的持倉餘額也在增長，持有100-1000枚比特幣的中型持有者更是掀起了一波買入狂潮。重量級投資者入場的趨勢，為市場正在築底並可能開啟新一輪牛市週期增添了訊號，但參與度偏低和信心不足仍是市場隱憂。"
-    },
-    {
-      "id": "mkt:01a015ee-4a79-7aab-907f-df25fa5eecaf",
-      "time": "2026-08-19 01:32:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Yemen government-backed armed group said Houthi shelling in Hodeidah province's Khokha district killed three people, including a child."
-    },
-    {
-      "id": "5046396",
-      "time": "2026-08-19 01:30:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋監測到兩枚從伊朗發射的導彈】阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到兩枚從伊朗發射的彈道導彈，其中一枚落在阿聯酋領海以外，另一枚落入其領海。阿聯酋國防部說，該國目前處於高度戒備狀態，已做好應對任何威脅的準備。（新華社）"
     }
   ]
 }
