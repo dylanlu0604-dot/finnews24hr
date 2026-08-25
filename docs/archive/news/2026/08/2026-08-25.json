@@ -1,7 +1,392 @@
 {
   "date": "2026-08-25",
-  "count": 1393,
+  "count": 1432,
   "items": [
+    {
+      "id": "5056920",
+      "time": "2026-08-25 15:04:10",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國槓桿ETF熱度降溫，出現10億美元資金流出】隨著市場對人工智慧交易行情的投資熱情消退，疊加監管機構出臺舉措抑制相關投資需求，韓國掛鉤晶片企業的槓桿ETF本月出現近10億美元資金流出。資料顯示，8月截至目前，掛鉤三星電子的槓桿產品資金流出3.81億美元，跟蹤SK海力士的同類產品流出6.01億美元。這是該類產品自5月末上市以來首次出現月度資金淨流出。這類產品目標是放大晶片企業個股兩倍的日間漲跌幅，被認為加劇了大盤整體波動。尤其是7月全球AI板塊遭遇拋售，韓國綜合指數出現22%的歷史性大跌。此後，韓國監管機構提高了新投資者的最低入金門檻，還強制要求投資者完成為期五天的模擬交易。"
+    },
+    {
+      "id": "mkt:01a037bb-31b1-7aab-9109-f3b57f1630fb",
+      "time": "2026-08-25 15:03:29",
+      "tags": [
+        "MKT News",
+        "ENR.DE",
+        "Impact bullish"
+      ],
+      "text": "Siemens Energy shares rose about 2% after reports it hired Goldman Sachs to advise on a potential sale of its steam-turbine business stake."
+    },
+    {
+      "id": "5056919",
+      "time": "2026-08-25 15:03:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：港股通醫療ETF領漲4.66%，有色ETF領跌3.65%】ETF收盤漲跌不一，港股通醫療ETF（159137）領漲4.66%，港股通醫療ETF（520510）漲4.65%，港股醫療ETF（159366）漲4.20%，有色ETF（159049）領跌3.65%，黃金股ETF（159321）跌3.53%，黃金股ETF（517400）跌3.37%。"
+    },
+    {
+      "id": "5056918",
+      "time": "2026-08-25 15:03:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月25日15時00分在臺灣台東縣海域附近（北緯22.62度，東經121.64度）發生5.5級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5056917",
+      "time": "2026-08-25 15:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門特區行政長官岑浩輝解讀“三五”規劃】澳門特區政府日前公佈《澳門特別行政區經濟和社會發展第三個五年規劃（2026-2030年）》。就規劃內容與重點任務，澳門特區行政長官岑浩輝在南灣湖畔特區政府總部，接受新華社記者專訪。緊密對接國家“十五五”規劃，直抵社群民生煙火，一張藍圖繪到底，澳琴推進灣區協同。（新華社）"
+    },
+    {
+      "id": "mkt:01a037ba-e2a5-7aab-9109-ec83f54c62b6",
+      "time": "2026-08-25 15:03:09",
+      "tags": [
+        "MKT News",
+        "MELE.BR",
+        "Impact bullish"
+      ],
+      "text": "Melexis shares rose 5% after the company said it had signed a master procurement agreement with BYD."
+    },
+    {
+      "id": "5056916",
+      "time": "2026-08-25 15:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美政商界人士：對加拿大加徵關稅將損害美經濟民生】當地時間24日，美國總統特朗普宣佈，將對加拿大部分商品加徵50%關稅。美國方面有訊息稱，這將對美國本土經濟民生帶來負面影響，多個與加拿大臨近、貿易關係緊密的州物價承壓更大、企業經營受影響更明顯。當地政商界對相關關稅政策提出疑問與反對。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a037ba-a211-7aab-9109-e4266d6279c0",
+      "time": "2026-08-25 15:02:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【China–Europe freight trains via Central Corridor through Erenhot exceed 26,000 trips】China's Erenhot rail port has handled more than 26,000 China–Europe freight trains via the Central Corridor as of Aug. 24, 2026, railway authorities said. Erenhot is the corridor's sole port. Since the first train in 2013, cumulative throughput hit 1,000 by 2018, 5,000 by 2020, 10,000 by 2022, 20,000 by 2025 and 26,000 now. Year-to-date through Aug. 24 there were 3,157 trains carrying 3.0038 mln tonnes of cargo, up 10.2% and 27.0% YoY respectively. The time to add 1,000 trains has shortened from five years for the initial 1,000 to under three months most recently."
+    },
+    {
+      "id": "mkt:01a037ba-7e94-7aab-9109-dd274a23e720",
+      "time": "2026-08-25 15:02:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bearish",
+        "000001.SS",
+        "Impact bullish",
+        "399006.SZ"
+      ],
+      "text": "Aug 25 (Tue) — CSI 300 Index closed at 4,552.03, down 11.09 points (-0.24%); China's Shanghai Composite Index closed at 3,889.44, up 7.44 points (+0.19%); Shenzhen Composite Index closed at 13,745.87, down 48.42 points (-0.35%); ChiNext Index closed at 3,397.52, down 34.37 points (-1.00%); China STAR 50 Index closed at 1,604.59, up 2.25 points (+0.14%)."
+    },
+    {
+      "id": "5056915",
+      "time": "2026-08-25 15:02:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "邁來芯與比亞迪簽署總採購協議後，股價上漲5%。"
+    },
+    {
+      "id": "5056914",
+      "time": "2026-08-25 15:02:18",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "西門子能源股價上漲約2%，此前有報道稱該公司聘請高盛負責出售蒸汽渦輪業務部分股權的潛在交易。"
+    },
+    {
+      "id": "5056913",
+      "time": "2026-08-25 15:02:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：創業板指縮量下跌1% 全市場超4200只個股上漲】截至收盤，上證指數漲0.19%報3889.44點，深證成指跌0.35%報13745.87點，創業板指跌1.00%報3397.52點，北證50漲0.91%報1063.20點。三市成交額18442億元，較上日縮量1769億元。全市場超4200只個股上漲。板塊題材上，糧食概念、小家電、CRO概念板塊漲幅居前；貴金屬、能源金屬板塊跌幅居前。盤面上，糧食概念大幅走強，新華百貨3連板，登海種業2連板，萬向德農、金健米業漲停，神農種業、華資實業、秋樂種業、天禾股份、康農種業跟漲。小家電板塊震盪走高，石頭科技漲停，歐倫電氣、奧佳華、倍益康、榮泰健康、北鼎股份跟漲。CRO概念板塊表現強勢，凱萊英漲停，近岸蛋白、亨迪藥業漲超10%，益諾思、美迪西、誠達藥業、和元生物、金石亞藥跟漲。貴金屬板塊大幅走弱，西部黃金、招金黃金跌超7%，湖南白銀、興業銀錫、曉程科技跟跌。能源金屬震盪走弱，盛新鋰能、永興材料、融捷股份跌超6%，贛鋒鋰業、永杉鋰業跟跌。"
+    },
+    {
+      "id": "mkt:01a037b9-bee0-7aab-9109-d4a9dbc68e2d",
+      "time": "2026-08-25 15:01:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "At the open on Tuesday Aug 25, European equities rose: Germany's DAX +94.93 pts (0.36%) to 26,213.92; UK's FTSE 100 +22.29 pts (0.21%) to 10,876.61; France's CAC 40 +47.97 pts (0.57%) to 8,500.98; Spain's IBEX 35 +87.94 pts (0.44%) to 20,186.54; Italy's FTSE MIB +276.82 pts (0.53%) to 52,819.00; Euro STOXX 50 +35.47 pts (0.55%) to 6,483.45."
+    },
+    {
+      "id": "mkt:01a037b9-b9f2-7aab-9109-cba8ade700de",
+      "time": "2026-08-25 15:01:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Combined Shanghai–Shenzhen turnover CNY1,831.84 bln on Aug 25; Zhongji Xuchuang leads】Aug 25 — Combined Shanghai and Shenzhen turnover totalled CNY 1,831.84 bln, down CNY 175.61 bln from the previous session. Shanghai turnover was CNY 858.87 bln (prev. CNY 952.04 bln) with volume 464 mln lots (prev. 487 mln); Shenzhen turnover was CNY 972.97 bln (prev. CNY 1,055.42 bln) with volume 580 mln lots (prev. 564 mln). Top-by-turnover stocks: Zhongji Xuchuang CNY 25.02 bln, Hengtong Optic‑Electric CNY 16.27 bln, Zhaoyi Innovation CNY 15.34 bln, Xinyisheng CNY 14.13 bln, Changxin Technology CNY 13.32 bln."
+    },
+    {
+      "id": "te:economy:577840",
+      "time": "2026-08-25 15:01:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "French Consumer Morale Remains Subdued in August — The consumer confidence indicator in France remained unchanged at 86 in August 2026, below the expected 87 and its long-term average of 100. Consumers became slightly less pessimistic about their expected financial situation (-12 vs -13 in July), while sentiment toward their past financial situation worsened slightly (-27 vs -26). Pessimism over major purchase intentions increased (-39 vs -37), while saving intentions reached a new all-time high (47 vs 45) and both current (20 vs 19) and expected (18 vs 17) saving capacity improved. Meanwhile, households’ fears of unemployment rebounded (58 vs 55) and remained above their long-term average, while sentiment toward France’s future standard of living deteriorated slightly (-62 vs -60). The savings climate index rose to a new high of 125 from 124. Inflation expectations rebounded sharply (-14 vs -33), while perceptions of past price increases also rose (25 vs 17)."
+    },
+    {
+      "id": "mkt:01a037b9-2c45-7aab-9109-c7d0ca29a586",
+      "time": "2026-08-25 15:01:17",
+      "tags": [
+        "MKT News",
+        "IF",
+        "Impact bullish",
+        "IC",
+        "IM"
+      ],
+      "text": "【Index futures midday close】China equity index futures midday: CSI 300 (IF) main contract up 0.19%, SSE 50 (IH) up 0.25%, CSI 500 (IC) up 0.66%, CSI 1000 (IM) up 1.10%."
+    },
+    {
+      "id": "mkt:01a037b9-1eba-7aab-9109-bd1c7268eee7",
+      "time": "2026-08-25 15:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At midday, China's most-active futures contracts were mostly lower. Lithium carbonate led declines, down over 6%; container freight to Europe fell more than 4%; PVC slipped about 3%; apples, low-sulfur fuel oil (LU) and live hogs dropped over 2%; eggs and polysilicon fell about 2%. Gains were led by benzene, polyester staple fiber, PET bottle chips, p-xylene, methanol, asphalt, styrene and industrial silicon, each up more than 1%."
+    },
+    {
+      "id": "te:markets:577839",
+      "time": "2026-08-25 15:01:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Close Higher — The benchmark KOSPI rose 0.68% to close at 6,743 on Tuesday, rebounding from the previous session as retail and institutional investors stepped in to buy Korean shares. Large-cap performance was mixed, with SK hynix rising 0.42%, along with Hyundai Motor (1.69%), KB Financial Group (2.02%), and Kia Corporation (2.59%), while Samsung Electronics was flat and SK Square (-1.49%) and LG Energy Solution (-3.45%) posted losses. Investors looked ahead to Nvidia’s earnings report for clues on the outlook for AI-related investments, while concerns over the profitability of AI spending continued to weigh on technology stocks. Foreign investors remained net sellers, offloading KRW 3.82 trillion, while individuals and institutions bought KRW 1.0 trillion and KRW 1.17 trillion, respectively. Meanwhile, sentiment was tempered by geopolitical tensions in the Middle East and uncertainty over the US monetary policy outlook ahead of Fed Governor Kevin Warsh’s speech at Jackson Hole on Friday."
+    },
+    {
+      "id": "5056910",
+      "time": "2026-08-25 15:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中歐班列“中通道”累計通行班列突破2.6萬列】記者從鐵路部門獲悉，截至2026年8月24日，內蒙古二連浩特鐵路口岸累計通行中歐班列突破2.6萬列。（央視新聞）"
+    },
+    {
+      "id": "5056909",
+      "time": "2026-08-25 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.19%，深證成指跌0.35%，創業板指跌1.00%。"
+    },
+    {
+      "id": "mkt:01a037b8-c584-7aab-9109-b3ee9e43c768",
+      "time": "2026-08-25 15:00:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain July PPI MoM +3.0%; prior 0.0%."
+    },
+    {
+      "id": "mkt:01a037b8-baa1-7aab-9109-aa3ae9b7fdbf",
+      "time": "2026-08-25 15:00:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Spain July PPI YoY 9.2%; prior 7.0%."
+    },
+    {
+      "id": "mkt:01a037b8-a838-7aab-9109-a32a37295db8",
+      "time": "2026-08-25 15:00:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Producer Price Index (MoM) (Jul) | actual 3% | previous 0.00%"
+    },
+    {
+      "id": "mkt:01a037b8-9714-7aab-9109-981fe8aabc6e",
+      "time": "2026-08-25 15:00:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Producer Price Index (YoY) (Jul) | actual 9.2% | previous 7.00%"
+    },
+    {
+      "id": "mkt:01a037b8-705b-7aab-9109-94dcc6644c9c",
+      "time": "2026-08-25 15:00:29",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Jan–Jul 2026 China overseas contracted engineering revenue RMB 701.28 bln, +7.4% YoY】MOFCOM: Jan–Jul 2026 revenue from China’s overseas contracted engineering business RMB 701.28 bln, up 7.4% YoY (USD 101.97 bln, +12.1%). New contract value RMB 1,008.76 bln, down 6.0% YoY (USD 146.68 bln, -1.9%)."
+    },
+    {
+      "id": "5056908",
+      "time": "2026-08-25 15:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利外交部已就新冠疫情期間上一屆政府2020年採購數千臺呼吸機一事中涉嫌欺詐及其他犯罪行為，向檢察機關報案。"
+    },
+    {
+      "id": "5056907",
+      "time": "2026-08-25 15:00:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市收盤下跌1%，報6190.23點。"
+    },
+    {
+      "id": "5056906",
+      "time": "2026-08-25 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.11%，英國富時100指數漲0.35%，法國CAC40指數跌0.37%，歐洲斯托克50指數跌0.22%，義大利富時MIB指數跌0.24%。"
+    },
+    {
+      "id": "5056905",
+      "time": "2026-08-25 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】碳酸鋰連續跌6.09%，集運指數歐線期貨連續跌4.15%，線材連續漲2.89%，PVC連續跌2.87%，蘋果連續跌2.47%。"
+    },
+    {
+      "id": "5056904",
+      "time": "2026-08-25 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.10%， 滬深300指數期貨連續漲0.20%， 中證500指數期貨連續漲0.68%， 上證50指數期貨連續漲0.25%。"
+    },
+    {
+      "id": "5056903",
+      "time": "2026-08-25 14:59:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌6%，現報150380.00元。"
+    },
+    {
+      "id": "5056902",
+      "time": "2026-08-25 14:59:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年1-7月我國全行業對外直接投資簡明統計】據商務部、外匯局統計，2026年1-7月，我國全行業對外直接投資6845.1億元人民幣，同比增長2.8%（以美元計為995.3億美元，增長7.3%）。其中，我國境內投資者共對全球148個國家和地區的7742家境外企業進行了非金融類直接投資，累計投資5284.3億元人民幣，下降12.9%（以美元計為768.4億美元，下降9.1%）。"
+    },
+    {
+      "id": "5056901",
+      "time": "2026-08-25 14:58:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年1-7月我國對共建“一帶一路”國家投資合作情況】2026年1-7月，我國企業在共建“一帶一路”國家非金融類直接投資1519.9億元人民幣，同比下降5.5%（以美元計為221億美元，下降1.4%）。對外承包工程方面，我國企業在共建“一帶一路”國家承包工程完成營業額6032.8億元人民幣，增長10.8%（以美元計為877.2億美元，增長15.6%）；新籤合同額9153億元人民幣，同比下降3.4%（以美元計為1330.9億美元，增長0.8%）。"
+    },
+    {
+      "id": "5056900",
+      "time": "2026-08-25 14:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年1-7月我國對外承包工程業務簡明統計】2026年1-7月，我國對外承包工程業務完成營業額7012.8億元人民幣，同比增長7.4%（以美元計為1019.7億美元,增長12.1%），新籤合同額10087.6億元人民幣，下降6%（以美元計為1466.8億美元,下降1.9%）。"
+    },
+    {
+      "id": "mkt:01a037b6-bd80-7aab-9109-8f0caac9302c",
+      "time": "2026-08-25 14:58:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax reports that Kazakhstan's Kondensat refinery will process Russian crude and send 30% of its refined products to Russia."
+    },
+    {
+      "id": "5056899",
+      "time": "2026-08-25 14:58:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年1-7月我國對外勞務合作業務簡明統計】2026年1-7月，我國企業共向境外派出各類勞務人員27.4萬人，較上年同期增加4.3萬人；其中承包工程項下派出8.3萬人，勞務合作項下派出19.1萬人。月末在外各類勞務人員67.3萬人。"
+    },
+    {
+      "id": "5056898",
+      "time": "2026-08-25 14:57:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈薩克“孔登薩特”煉油廠將加工俄羅斯原油，並將30%的成品油運往俄羅斯。"
+    },
+    {
+      "id": "te:markets:577834",
+      "time": "2026-08-25 14:57:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Turns Higher, Up 0.9% at Close — The TAIEX, Taiwan’s benchmark stock index, climbed 407 points, or 0.9%, to close at 45,169 on Tuesday, reversing weakness in morning trade and erasing losses from the previous session, as electronic technology and technology services rebounded. Electronic technology and technology services rose 0.8% and 1.4%, respectively, while finance advanced 2.1%. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, gained 0.4%, recovering from a 1.5% fall on Monday. Nanya Technology, a major Taiwanese memory chip supplier, rose 1.2% after plunging in morning trade. However, traders were cautious ahead of the release of Taiwan's retail sales and industrial output data after the closing bell. Caution was also evident ahead of the US PCE price data for guidance on the Fed's monetary policy decision at its upcoming meeting, as well as FOMC speeches at the Jackson Hole Symposium."
+    },
+    {
+      "id": "5056897",
+      "time": "2026-08-25 14:56:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚能電池在武漢成立新能源技術公司 註冊資本2.53億】天眼查App顯示，近日，蔚恆壹號（武漢）新能源技術有限公司成立，法定代表人為虞瓊，註冊資本2.53億元，經營範圍含儲能技術服務、蓄電池租賃、電動汽車充電基礎設施運營、電池銷售、資源再生利用技術研發等，由武漢蔚能電池資產有限公司全資持股。"
+    },
     {
       "id": "5056896",
       "time": "2026-08-25 14:56:09",
