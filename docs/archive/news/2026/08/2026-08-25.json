@@ -1,7 +1,174 @@
 {
   "date": "2026-08-25",
-  "count": 3167,
+  "count": 3185,
   "items": [
+    {
+      "id": "mkt:01a03941-a9ca-7aab-9115-1b7b4aa6b334",
+      "time": "2026-08-25 22:09:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Federal Reserve's Collins said some less optimistic scenarios remain, including a rise in inf and supply shocks stemming from AI build-out."
+    },
+    {
+      "id": "5058270",
+      "time": "2026-08-25 22:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟執委會表示，因技術問題，每週穀物及油籽進出口資料延遲釋出。"
+    },
+    {
+      "id": "5058269",
+      "time": "2026-08-25 22:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：也存在\"不那麼良性\"的情景，包括人工智慧建設推高通脹、供應衝擊。"
+    },
+    {
+      "id": "mkt:01a03941-2b6e-7aab-9115-16c42f08350b",
+      "time": "2026-08-25 22:09:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House official says there are currently no talks, discussions or arrangements with Iran."
+    },
+    {
+      "id": "te:economy:577990",
+      "time": "2026-08-25 22:09:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Richmond Fed Services Index",
+        "Importance 1"
+      ],
+      "text": "US Fifth District Services Activity Slowed in August — Activity in the US Fifth District’s service sector weakened somewhat in August, with the revenues index declining to -8 from -3 in July, while the demand measure eased to 3 from 5. Local business conditions also deteriorated (-12 from -5). The current employment index rose to 8 from 4, while expectations for future hiring remained strong. Wage growth also continued, according to both current and forward-looking measures. Meanwhile, price pressures showed some renewed momentum. The pace of increase in prices paid by firms accelerated slightly, while prices received also continued to rise. Businesses nevertheless expect input price growth to moderate over the coming year, although they anticipate little change in the pace of price increases charged to customers. Looking ahead, firms remained relatively optimistic, as expectations for future revenues, demand and local conditions stayed firmly positive."
+    },
+    {
+      "id": "5058268",
+      "time": "2026-08-25 22:08:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：勞動力市場平衡、生產率持續增長，也可能支援“逐步反通脹”。"
+    },
+    {
+      "id": "mkt:01a03940-8ea6-7aab-9115-081c4df22b56",
+      "time": "2026-08-25 22:08:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Collins said rising long-term yields should curb any reacceleration in demand."
+    },
+    {
+      "id": "5058267",
+      "time": "2026-08-25 22:08:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：長期利率上升應會抑制需求再度加速。"
+    },
+    {
+      "id": "5058266",
+      "time": "2026-08-25 22:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮官員表示，海軍封鎖正在嚴格有效地執行，霍爾木茲海峽是開放的，水雷已被清除。"
+    },
+    {
+      "id": "mkt:01a0393f-bb43-7aab-9115-021b67e52e9f",
+      "time": "2026-08-25 22:07:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, India special representatives on border issues meet in Beijing】The 25th meeting of China and India’s special representatives on border issues was held in Beijing on the 25th. China’s special representative Wang Yi and India’s national security adviser Ajit Doval held comprehensive talks on the boundary and bilateral relations. They discussed advancing delimitation negotiations, border management, institutional mechanisms and cross‑border cooperation, and reaffirmed adherence to the 2005 political guiding principles. Both sides said they would use the special‑representative mechanism to seek a fair, reasonable, mutually acceptable package solution and to handle boundary issues through continued dialogue to maintain border peace and stability. They agreed to hold the 26th meeting in India in 2027."
+    },
+    {
+      "id": "5058265",
+      "time": "2026-08-25 22:07:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "柯林斯：當前貨幣政策處於“輕度緊縮”狀態。"
+    },
+    {
+      "id": "mkt:01a0393f-495a-7aab-9114-feef1f0407fa",
+      "time": "2026-08-25 22:07:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "White House officials said the naval blockade is being strictly and effectively enforced, the Strait of Hormuz is open and sea mines have been cleared."
+    },
+    {
+      "id": "5058264",
+      "time": "2026-08-25 22:07:05",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中印邊界問題特別代表在北京舉行會晤】中印邊界問題特別代表第25次會晤25日在北京舉行。中方特別代表、中共中央政治局委員、中央外辦主任王毅同印方特別代表、國家安全顧問多瓦爾就中印邊界問題和雙邊關係等進行了全面深入、友好坦誠的溝通。王毅表示，中印互為重要鄰國，也是發展中大國和新興經濟體代表。中印關係健康穩定發展符合兩國人民根本利益，符合全球南方國家普遍願望，也符合時代發展潮流。中印關係已經超越雙邊範疇，具有全球和戰略意義。近年來，習近平主席和莫迪總理在喀山、天津兩次會晤，達成一系列重要共識，為兩國關係改善發展指明方向。中方願同印方從戰略高度和長遠角度把握兩國關係，加強溝通，增進了解，消除分歧，克服障礙，做睦鄰友好的朋友、相互成就的夥伴，實現“龍象共舞”。(新華社)"
+    },
+    {
+      "id": "mkt:01a0393e-cbb3-7aab-9114-f32971432a5a",
+      "time": "2026-08-25 22:06:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Fed's Collins said that, given limited additional tariffs and progress toward reopening the Strait of Hormuz, disinflation is the most likely outcome."
+    },
+    {
+      "id": "mkt:01a0393e-9555-7aab-9114-ee32d05872ce",
+      "time": "2026-08-25 22:06:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump appears to have reposted earlier Truth Social message】Trump on Aug 25 posted on Truth Social saying that, citing his good relationship with N. Korea leader Kim Jong Un, he was unhappy the U.S. had previously agreed to hold joint military exercises with South Korea and instructed Defense Secretary Hegseth to sharply scale back the exercises. The post closely matches one he published on Aug. 17, differing only in a few English tense choices, suggesting it was a repost. The joint exercises referenced had already been cut short and ended early last week."
+    },
+    {
+      "id": "5058263",
+      "time": "2026-08-25 22:06:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普疑將舊帖重發】美國總統特朗普今天（8月25日）在其社交媒體平臺“真實社交”上發帖稱，鑑於他與朝鮮最高領導人金正恩之間良好的關係，他對美國早先同意與韓國舉行聯合軍事演習一事感到不滿，並指示國防部長赫格塞思大幅縮減聯合軍事演習的規模。值得注意的是，這則帖文與他於8月17日釋出的一則帖文如出一轍。經比對，只有幾處涉及英文時態表述的用詞不同，疑似將舊帖重發。而他帖文中提及的美韓聯合軍演，已於上週提前結束。（CCTV國際時訊）"
+    },
+    {
+      "id": "5058262",
+      "time": "2026-08-25 22:06:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "柯林斯：基於有限的額外關稅及霍爾木茲海峽重新開放取得進展，認為通脹放緩是最可能的結果。"
+    },
     {
       "id": "5058261",
       "time": "2026-08-25 22:05:43",
@@ -57,6 +224,15 @@
         "US10Y"
       ],
       "text": "COLLINS: Labor market consistent with full employment; economy growing at a near-trend pace."
+    },
+    {
+      "id": "em:qqyh_mlc:202608253853352650",
+      "time": "2026-08-25 22:04:23",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲柯林斯：通脹仍然過高】美聯儲柯林斯稱，通脹仍然過高，未來幾個月將關注通脹是否能持續回落至2%的證據；擔憂美聯儲維持物價穩定的職責；勞動力市場與充分就業一致；經濟以接近趨勢水平的速度增長。"
     },
     {
       "id": "5058260",
