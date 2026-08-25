@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-26 04:11:47",
-  "count": 16521,
+  "updated": "2026-08-26 04:15:57",
+  "count": 16520,
   "items": [
+    {
+      "id": "mkt:01a03a8f-22fb-7aab-911a-1f0f198b688a",
+      "time": "2026-08-26 04:14:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said Tehran told negotiators that if the US wants the Strait of Hormuz reopened, it must correct its mistakes and honor its commitments."
+    },
+    {
+      "id": "5058503",
+      "time": "2026-08-26 04:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪對國家電視臺表示，伊朗告知談判代表，若美國希望霍爾木茲海峽重新開放，就必須糾正自身錯誤並重回所作承諾。"
+    },
+    {
+      "id": "mkt:01a03a8c-4d58-7aab-911a-11a1f0751ec0",
+      "time": "2026-08-26 04:11:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude fell 5.0% intraday to $80.33/bbl; Brent down 5.3% to $85.47/bbl."
+    },
     {
       "id": "mkt:01a03a8b-ae5f-7aab-911a-0b2cf4b4f2d9",
       "time": "2026-08-26 04:10:27",
@@ -149412,44 +149446,6 @@
         "國際"
       ],
       "text": "特朗普政府正準備加大對伊朗的經濟施壓力度。"
-    },
-    {
-      "id": "mkt:01a01683-c9bb-7aab-9081-e487c022f8ab",
-      "time": "2026-08-19 04:15:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE Foreign Ministry said the decision was taken against a backdrop of regional escalation that \"undermines regional and international peace and security\"."
-    },
-    {
-      "id": "5046480",
-      "time": "2026-08-19 04:14:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿聯酋外交部宣告稱，鑑於地區局勢升級\"破壞地區及國際和平與安全\"，故作出此決定。"
-    },
-    {
-      "id": "mkt:01a01682-f528-7aab-9081-dee17a6efd8c",
-      "time": "2026-08-19 04:14:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UAE foreign ministry said it is suspending all commercial activity and financial transactions with Iran until further notice."
-    },
-    {
-      "id": "5046478",
-      "time": "2026-08-19 04:13:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "阿聯酋外交部宣告稱，直至另行通知前，阿聯酋已全面停止與伊朗的所有貿易、商業往來及金融交易。"
     }
   ]
 }

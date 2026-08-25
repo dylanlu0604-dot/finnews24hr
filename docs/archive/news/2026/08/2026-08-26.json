@@ -1,7 +1,41 @@
 {
   "date": "2026-08-26",
-  "count": 252,
+  "count": 255,
   "items": [
+    {
+      "id": "mkt:01a03a8f-22fb-7aab-911a-1f0f198b688a",
+      "time": "2026-08-26 04:14:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's deputy foreign minister said Tehran told negotiators that if the US wants the Strait of Hormuz reopened, it must correct its mistakes and honor its commitments."
+    },
+    {
+      "id": "5058503",
+      "time": "2026-08-26 04:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪對國家電視臺表示，伊朗告知談判代表，若美國希望霍爾木茲海峽重新開放，就必須糾正自身錯誤並重回所作承諾。"
+    },
+    {
+      "id": "mkt:01a03a8c-4d58-7aab-911a-11a1f0751ec0",
+      "time": "2026-08-26 04:11:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude fell 5.0% intraday to $80.33/bbl; Brent down 5.3% to $85.47/bbl."
+    },
     {
       "id": "mkt:01a03a8b-ae5f-7aab-911a-0b2cf4b4f2d9",
       "time": "2026-08-26 04:10:27",
