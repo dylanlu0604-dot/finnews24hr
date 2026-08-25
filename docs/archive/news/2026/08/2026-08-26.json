@@ -1,7 +1,37 @@
 {
   "date": "2026-08-26",
-  "count": 198,
+  "count": 201,
   "items": [
+    {
+      "id": "te:markets:578032",
+      "time": "2026-08-26 03:07:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 4-week Low — Lockheed Martin shares decreased to 556.51 USD, the lowest since July 2026. Over the past 4 weeks, Lockheed Martin lost 4.03%, and in the last 12 months, it increased 22.21%."
+    },
+    {
+      "id": "5058472",
+      "time": "2026-08-26 03:07:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙天空之舞公司承認，正在考慮多種方案，以解決針對其 1100 億美元收購華納兄弟探索公司交易提起的訴訟，其中包括對這筆交易進行結構性調整。該公司週一晚間發表宣告稱：“我們仍抱有希望，隨時準備繼續開展誠意磋商，解決各州總檢察長提起的訴訟，包括採取結構性補救措施，推動本次交易繼續推進。”"
+    },
+    {
+      "id": "mkt:01a03a51-27a0-7aab-9119-70c0ebb267aa",
+      "time": "2026-08-26 03:06:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IRNA: Iran's energy minister said the country now has more than 1,000 generating units; installed capacity has risen from about 70 GW to over 103 GW and is expected to reach 130 GW in the near term."
+    },
     {
       "id": "mkt:01a03a4d-ef41-7aab-9119-6ad85c6183fe",
       "time": "2026-08-26 03:03:01",
