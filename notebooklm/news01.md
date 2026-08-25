@@ -1,7 +1,301 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-26 00:48:17_
-_本檔包含 3096 則快訊，約 653533 字_
+_更新時間：2026-08-26 01:42:18_
+_本檔包含 3121 則快訊，約 653413 字_
+
+---
+
+### 2026-08-26 01:41:26  #國際
+
+美國司法部起訴俄亥俄州法院，指控該法院禁止在其周邊開展移民逮捕行動。
+
+---
+
+### 2026-08-26 01:40:28  #MKT News #Commodities #Industrial Metals
+
+CME Group said it completed the first trade in its U.S. zinc futures contract.
+
+---
+
+### 2026-08-26 01:36:14  #市場 #國際
+
+芝商所（CME Group）宣佈美國鋅期貨完成首筆成交。
+
+---
+
+### 2026-08-26 01:35:28  #其他
+
+Figure AI：有44000名周活躍使用者參與提供訓練資料。
+
+---
+
+### 2026-08-26 01:35:26  #MKT News
+
+U.S. SEC filings show prediction market Kalshi has raised about $1.12 bln via an equity financing, with a total planned issuance size of $1.5 bln.
+
+---
+
+### 2026-08-26 01:33:41  #其他
+
+Figure AI：承諾未來12個月投入超10億美元用於資料資源與算力建設。
+
+---
+
+### 2026-08-26 01:31:51  #焦點 #國際
+
+Kalshi在提交給美國證券交易委員會(SEC)的檔案中稱，已透過股權融資籌集約11.2億美元，總髮行規模為15億美元。
+
+---
+
+### 2026-08-26 01:31:27  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish
+
+Brazil and the United States will discuss tariffs on Aug. 31 (local time), Brazilian media report.
+
+---
+
+### 2026-08-26 01:30:13  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish
+
+Carney said Canada will impose matching retaliatory tariffs against the new US tariffs on a dollar-for-dollar basis. Ottawa will also provide an additional C$7.5 bln in support for Canadian workers and businesses, on top of roughly C$25 bln of measures announced since the US tariffs were imposed.
+
+---
+
+### 2026-08-26 01:28:36  #國際
+
+美國環境保護署（EPA）擬在密歇根州發放多項地下注入作業許可。
+
+---
+
+### 2026-08-26 01:27:08  #國際
+
+美國官員：美軍已與多傢俬營企業簽訂合同，負責（霍爾木茲海峽）排雷或爆破作業。
+
+---
+
+### 2026-08-26 01:26:36  #MKT News
+
+Qatar's foreign ministry strongly condemned Israel's defense minister for illegally entering Syrian territory and crossing an international border.
+
+---
+
+### 2026-08-26 01:24:50  #國際
+
+巴西與美國將於8月31日就關稅問題舉行磋商。
+
+---
+
+### 2026-08-26 01:23:46  #其他
+
+【德國調查人員發現萊比錫機場事件第三架涉事無人機】據多家德國媒體25日報道，政府部門在調查本月初發生的萊比錫機場無人機爆炸物事件時，發現了第三架無人機及軍用級炸藥。 據西德意志廣播電臺等媒體報道，此前未被披露的第三架無人機在萊比錫機場西部的一處田地裡被發現。調查人員認為，襲擊策劃者在此次事件中動用了多架無人機。（新華社）
+
+---
+
+### 2026-08-26 01:20:55  #MKT News
+
+【Texas wildfire spreads over 200 sq km; rural residents evacuated】A wildfire in rural Texas expanded to more than 200 sq km, and local emergency management ordered residents to evacuate on Aug. 25 local time. The fire began the afternoon of Aug. 24 and has swept across north-central Texas. Persistent extreme dryness has driven increased wildfire activity across the southern and western US; the National Interagency Fire Center reported more than a dozen new large fires on Aug. 23 and said the US has recorded over 50,000 wildfires so far this year, the most for this period in a decade.
+
+---
+
+### 2026-08-26 01:19:36  #國際
+
+【美國得州野火蔓延超200平方公里 農村地區居民被疏散】當地時間8月25日，美國得克薩斯州農村地區野火規模不斷擴大，所在地政府應急管理部門當日下令疏散居民。據悉，大火始於24日下午早些時候，已席捲得克薩斯州中北部超200平方公里的區域。最近幾天，由於極端乾燥的天氣持續存在，美國南部和西部地區不斷髮生野火。美國國家跨部門消防中心表示，僅23日就報告了十幾起新的大火。該中心稱，今年以來，美國全國範圍內已發生超過5萬起山火，是過去10年來同期發生次數最多的一次。
+
+---
+
+### 2026-08-26 01:17:18  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $405 million from six counterparties in a fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-08-26 01:17:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Strait of Hormuz main shipping lane reopened after U.S. clears suspected mines, U.S. says】The U.S. Navy said it has cleared the Strait of Hormuz main Traffic Separation Scheme (TSS) between Iran and Oman, reopening two-way traffic and allowing more tankers to transit. U.S. underwater drones detected more than 100 suspected mines; U.S. forces and private contractors cleared or detonated them. Over the past 30 days more than 500 vessels transited the southern channel, with roughly 2% struck by Iranian drones or missiles. U.S. officials say ships can now transit under U.S. protection, increasing potential oil flows to global markets; Trump warned any vessel that re-mines will be immediately and systematically destroyed.
+
+---
+
+### 2026-08-26 01:16:18  #央行 #國際
+
+6家交易對手在美聯儲逆回購操作中獲得 4.05 億美元。
+
+---
+
+### 2026-08-26 01:12:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Axios reports US officials say that in the past 30 days more than 500 vessels transited the southern route of the Strait of Hormuz; about 2% of those vessels were attacked by Iranian drones or missiles.
+
+---
+
+### 2026-08-26 01:11:13  #國際
+
+美國官員：美國海軍已從霍爾木茲海峽的主要航道中清除了水雷。
+
+---
+
+### 2026-08-26 01:10:39  #國際
+
+美國官員：過去30天內，超過500艘船隻透過了阿曼附近的一個南部航道，其中約2%遭到伊朗無人機或導彈擊中。
+
+---
+
+### 2026-08-26 01:10:30  #國際
+
+美國官員：海軍已清理了伊朗與阿曼之間中央航道。美國水下無人機花了數月時間掃描該區域，並發現了超過100個疑似水雷的物體。
+
+---
+
+### 2026-08-26 01:07:51  #Trading Economics #Markets #Canada #Currency #Importance 2
+
+Canadian Dollar Holds Losses on Fresh Tariffs — The Canadian dollar weakened to 1.38 per USD from the three-month high of 1.376 on August 21st as a greater deterioration to trade with the US hampered the outlook on growth. Canada imposed retaliatory tariffs of 15%-50% on a $20 billion of US annual import flows, including metals, agricultural goods, and motorcycles. This was Ottawa's response to the increase on US tariffs against Canada after trade talks between both economic partners collapsed. US President Donald Trump said that tariffs on all Canadian cars, trucks, automotive parts and steel would rise to 50% on January 1st, 2027, in addition to new tariffs on multiple other goods sectors. Risks to growth from higher tariffs drove markets to reduce expectations of a rate hike by the Bank of Canada this year, even though elevated energy prices threatened a pickup in inflationary risks.
+
+---
+
+### 2026-08-26 01:07:34  #國際
+
+日本將試點運用區塊鏈技術實現股票與債券實時結算。
+
+---
+
+### 2026-08-26 01:06:51  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan’s government and the Bank of Japan plan to roll out a next-generation payments infrastructure to enable instant settlement of equity and JGB trades round-the-clock, Nikkei reported.
+
+---
+
+### 2026-08-26 01:05:11  #市場 #國際
+
+美國兩年期國債收益率在拍賣後持穩，最新下跌3.43個基點，報4.202%。
+
+---
+
+### 2026-08-26 01:04:48  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US two-year Treasury yield held steady after the auction; latest down 3.43 bps at 4.202%.
+
+---
+
+### 2026-08-26 01:04:04  #MKT News
+
+Brazil's tax authority said July federal tax revenue was 289.346 billion reais, up 8.97% YoY.
+
+---
+
+### 2026-08-26 01:03:37  #央行 #國際
+
+日本金融廳、財務省、日本央行與金融機構將成立一個研究小組。
+
+---
+
+### 2026-08-26 01:03:20  #國際
+
+美國衛生部計劃為FDA增設科技領域副專員與藥品領域副專員崗位。
+
+---
+
+### 2026-08-26 01:02:53  #MKT News #Macro & Rates #Treasury Yields
+
+US 2-year Treasury auction as of Aug 25 — percentage of allotment at the stop-out yield 85.68% (prev. 69.04%).
+
+---
+
+### 2026-08-26 01:02:43  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+U.S. 2-year Treasury auction Aug. 25 — stop-out yield 4.204%, prior 4.32%.
+
+---
+
+### 2026-08-26 01:02:40  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction Accepted at High (Aug.25) | actual 85.68% | previous 69.04%
+
+---
+
+### 2026-08-26 01:02:36  #MKT News #Macro & Rates #US10Y #Impact bearish
+
+US 2-year Treasury auction on Aug 25: bid-cover ratio 2.60, prior 2.66.
+
+---
+
+### 2026-08-26 01:02:33  #宏觀 #市場 #國際
+
+美國財政部拍賣690億美元兩年期國債，得標利率4.204%（7月27日為4.315%，創2024年12月以來最高），投標倍數2.60（前次為2.66）。
+
+---
+
+### 2026-08-26 01:02:33  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction High Yield Rate (Aug.25) | actual 4.204% | previous 4.32%
+
+---
+
+### 2026-08-26 01:02:25  #MKT News #Economic Calendar
+
+United States | 2-Year Note Auction Bid/Cover Ratio (Aug.25) | actual 2.6 | previous 2.66
+
+---
+
+### 2026-08-26 01:01:57  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #WTI
+
+BMO expects the Canadian economy to resume moderate expansion.
+
+---
+
+### 2026-08-26 01:01:55  #MKT News #DXY #Impact bearish #WTI #Impact bullish
+
+BMO says a USMCA renegotiation would pose material risks to trade policy and the Canadian economy and expects Canada will continue to benefit from compliance waivers, leaving most exports eligible for duty-free entry into the US.
+
+---
+
+### 2026-08-26 01:01:37  #其他
+
+巴西聯邦稅務局資料顯示，7月聯邦稅收總額為2893.46億雷亞爾（合564億美元）。
+
+---
+
+### 2026-08-26 01:00:54  #市場 #國際
+
+在690億美元拍賣前，2年期美國國債收益率約為4.208%。
+
+---
+
+### 2026-08-26 01:00:49  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish
+
+BMO says the latest US tariffs could reduce Canada's annual GDP growth.
+
+---
+
+### 2026-08-26 01:00:29  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish
+
+BMO says the North American economy remains resilient despite risks.
+
+---
+
+### 2026-08-26 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.65%，滬銅收漲0.50%，滬鋁收漲0.74%，滬鋅收漲1.23%，滬鉛收漲0.06%，滬鎳收跌0.02%，滬錫收漲0.04%。氧化鋁夜盤收跌1.00%，鋁合金收漲0.52%。不鏽鋼夜盤收漲1.59%。
+
+---
+
+### 2026-08-26 00:58:31  #國際
+
+日本大金在墨西哥擴大產能，新建資料中心冷卻裝置工廠。
+
+---
+
+### 2026-08-26 00:54:39  #宏觀 #國際
+
+美國財政部長貝森特：伊朗領導層如今承認了全世界都看得到的事實，壓力正在奏效。
+
+---
+
+### 2026-08-26 00:54:30  #MKT News #WTI #Impact bearish #Brent
+
+According to Axios, two US officials confirmed Trump’s earlier claim that sea mines in the Strait of Hormuz were fully cleared. The US Navy has cleared the central navigation channel between Iran and Oman used by merchant vessels.
+
+---
+
+### 2026-08-26 00:50:56  #國際
+
+市場資訊：兩名直接參與霍爾木茲海峽掃雷事務的美國官員證實了特朗普的宣告，並表示美國海軍已清理了位於海峽中部、阿曼與伊朗之間的船舶交通分離區。
 
 ---
 
@@ -18526,149 +18820,5 @@ JP Morgan and Banco Santander are leading a financing package of up to $15 billi
 ### 2026-08-25 05:15:52  #MKT News
 
 【U.S. Supreme Court allows Trump to press mail‑voting restrictions】The U.S. Supreme Court on Monday granted the Justice Department's emergency request to stay a lower-court injunction that had blocked Trump's March executive order limiting mail voting in 23 Democratic‑run states and Washington, D.C., clearing a path for the administration to pursue the measures while other judicial constraints remain. The order directs agencies to compile citizenship lists, prioritize prosecutions of officials who send ballots to ineligible voters, and restrict USPS delivery of ballots to qualified voters. A Boston federal judge had ruled in June the president lacks authority to alter state election administration; DOJ argued the lawsuits were premature. Trump has long questioned mail‑voting security and pledged to end the practice; because Democrats use mail ballots at higher rates, the restrictions could advantage Republicans. Further legal challenges are expected ahead of the midterms.
-
----
-
-### 2026-08-25 05:14:25  #國際
-
-【伊朗外交部：美威脅對伊發起新一輪制裁違反國際法】8月24日，伊朗外交部發言人巴加埃就地區問題、伊美關係等熱點議題舉行新聞釋出會。巴加埃強調，伊朗有權對所有侵略的源頭實施打擊，此外，美國威脅對伊朗發起新一輪制裁嚴重違反國際法。（央視新聞）
-
----
-
-### 2026-08-25 05:11:36  #公司 #焦點 #國際
-
-【波音獲得價值1312億美元的美國空軍合同】波音公司拿到一份美國空軍合同，最高金額可達1312億美元。專案代號F‑15 Eagle Crest，服務於F‑15專案辦公室。該合同涵蓋飛機生產、系統整合、現代化改造、升級、改裝、維護保障，以及自建基地維修能力建設，為美國空軍、空軍國民警衛隊以及國防部其他客戶交付並保障F‑15“鷹”武器系統的核心作戰能力。
-
----
-
-### 2026-08-25 05:10:42  #焦點 #國際
-
-波音拿下美國空軍1312億美元合同。
-
----
-
-### 2026-08-25 05:08:44  #宏觀 #國際
-
-【美官員稱美政府正準備撤銷多達20萬個商務和旅遊簽證】美政府正準備撤銷多達20萬名外國人的商務和旅遊簽證，這些外國人曾在美國申請或目前正在尋求庇護身份。如果實施，此舉將成為美國歷史上規模最大的一次性簽證集體撤銷行動，並可能面臨法律挑戰。據被曝光的美國務院檔案及兩名美國官員透露，除非受到法律挑戰或計劃有所修改，否則國務院預計將在未來幾周內宣佈撤銷那些在2016年至2026年間簽發且持有人曾尋求或正在尋求庇護的所謂B1和B2類簽證。這項行動將與國土安全部協同進行。（央視新聞）
-
----
-
-### 2026-08-25 05:08:24  #MKT News
-
-Sources: smart-ring maker Oura plans to raise up to $3 billion in an IPO.
-
----
-
-### 2026-08-25 05:08:21  #其他
-
-【SpaceX AI為Grok Build新增Browser‑Use瀏覽器外掛】SpaceX AI剛剛為Grok Build新增功能強大的Browser Use外掛。該外掛讓Grok可以呼叫真實瀏覽器，既可以使用使用者本機已儲存登入狀態的Chrome瀏覽器，也可以呼叫隔離的Browser Use雲端瀏覽器。現在Grok Build能夠瀏覽網頁、抓取提取資料、填寫表單、測試網頁應用、擷取螢幕截圖，還可以完成整套網頁自動化工作流。同時支援透過uvx在本地執行，如果呼叫本地Chrome，無需提供API金鑰。
-
----
-
-### 2026-08-25 05:06:49  #其他
-
-智慧戒指廠商Oura計劃透過IPO最多募資30億美元，目標估值超過160億美元。
-
----
-
-### 2026-08-25 05:06:47  #Trading Economics #Economy #South Korea #Consumer Confidence #Importance 1
-
-South Korea Consumer Sentiment Falls in August — South Korea’s Composite Consumer Sentiment Index fell 2.3 points to 104.5 in August 2026 from the previous month. Consumer sentiment regarding current living standards declined one point to 92, while sentiment about the future outlook fell one point to 97. Sentiment regarding future household income dropped one point to 100, while that concerning future household spending declined one point to 109. Consumer sentiment about current domestic economic conditions fell five points to 79, while sentiment regarding future domestic economic conditions declined three points to 89. Expected inflation over the next year was 2.7%, while three- and five-year inflation expectations were both 2.6%.
-
----
-
-### 2026-08-25 05:06:15  #宏觀 #公司 #市場 #國際
-
-【美宣佈對伊朗實施“經濟孤立”新措施加大施壓】美國財政部長貝森特24日下午召開新聞釋出會，宣佈美國當日發起對伊朗“經濟孤立”的新一輪制裁措施，以進一步加大對伊施壓。據美財政部外國資產控制辦公室24日釋出的公告，美國從當日起把對伊朗經濟制裁範圍擴大到航空、數字資產、黃金、航運和技術行業等5個領域。公告稱，美國還將暫停多項涉伊朗的許可，涉及部分教育活動和服務、個人匯款、體育和學術交流等。此外，約60個伊朗相關實體、個人和船隻被列入制裁清單，覆蓋核與導彈技術、網路行動、石油貿易等。（新華社）
-
----
-
-### 2026-08-25 05:05:51  #其他
-
-智慧戒指廠商Oura計劃透過IPO最多募資30億美元。
-
----
-
-### 2026-08-25 05:03:56  #MKT News
-
-The Times reports that Prime Minister Burnham has shelved plans for a government takeover of Thames Water, citing cost concerns.
-
----
-
-### 2026-08-25 05:02:05  #MKT News
-
-Hyundai Motor and South Korean unions have reached a preliminary wage agreement, the unions said.
-
----
-
-### 2026-08-25 05:01:07  #MKT News #XAUUSD #Impact bullish #DXY
-
-Sources: air-raid sirens sounded in Kyiv.
-
----
-
-### 2026-08-25 05:00:27  #MKT News #Nasdaq100 #Impact bearish
-
-【AI fund that sold portfolio to Citadel at a discount under SEC probe】The U.S. Securities and Exchange Commission is investigating AI hedge fund Situational Awareness after a near-collapse and has issued subpoenas to major Wall Street banks that provided leverage to the fund. The SEC requested trade timestamps, communications between the banks and lenders about borrowed funds, and ordered preservation of all materials related to the fund. Situational Awareness, founded by former OpenAI researcher Leopold Aschenbrunner, peaked at over $30bn AUM and had borrowed tens of billions of dollars to lever positions. Late last month, declines in popular AI stocks and rallies in legacy tech names it had shorted produced rapid losses that forced a "sell-off liquidation"; the fund sold most of its equity portfolio to Citadel at a discount. The SEC said the probe is in its early stages and does not imply enforcement; the fund is not accused of wrongdoing and says it will "fully cooperate with any regulatory request."
-
----
-
-### 2026-08-25 05:00:11  #資料 #國際
-
-韓國8月消費者信心指數從106.8降至104.5。
-
----
-
-### 2026-08-25 05:00:08  #MKT News
-
-South Korea August consumer confidence index 104.5, down from 106.8 previously.
-
----
-
-### 2026-08-25 05:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | Consumer Confidence Index (Aug) | actual 104.5 | previous 106.8
-
----
-
-### 2026-08-25 04:56:28  #其他
-
-【法國南部奧德省遭遇龍捲風 26人受傷】當地時間8月24日下午，法國南部奧德省波馬斯鎮遭龍捲風襲擊。奧德省政府最新通報稱，龍捲風造成26人受傷，其中5人被送往醫院，約100棟住宅受損。
-
----
-
-### 2026-08-25 04:55:06  #宏觀 #國際
-
-美國國務院發言人湯米·皮戈特：特朗普決心無論如何都要消除伊朗核武器威脅。
-
----
-
-### 2026-08-25 04:53:03  #宏觀 #國際
-
-【美國即將開展史上規模最大的大規模簽證吊銷行動，或將波及多達20萬名外籍人士】特朗普政府準備吊銷最多20萬名外籍人士的商務及旅遊簽證，這些人已經提交或者正在申請美國庇護身份。如若落實，這將是美國歷史上單筆規模最大的批次吊銷簽證行動，該舉措很可能面臨法律訴訟。根據美國國務院檔案以及兩名美方官員透露，除非遭遇法律挑戰或者政策修改，美國國務院預計將在未來數週內宣佈吊銷一批B1、B2簽證。這批簽證簽發時間介於2016至2026年，簽證持有人曾經申請庇護，或是目前正在申請庇護。本次行動將與美國國土安全部協同推進。美國國務院發言人湯米·皮戈特表示，“我們正和國土安全部協同開展甄別，吊銷部分外籍人士的非移民簽證。這類人持短期訪客身份入境美國，隨後提交庇護申請，謀求長期留在美國。”他沒有就可能被吊銷的簽證數量作出評論，表示“相關工作仍在推進，吊銷的具體數字處於動態變化當中，將會採取滾動分批處理模式。”相關官員表示，簽證被吊銷並不代表當事人會被立刻驅逐出境。大部分庇護申請尚在審理流程的人員，其身份會被重新歸類，但將失去商務或者旅遊訪客的身份。
-
----
-
-### 2026-08-25 04:48:33  #國際
-
-【加拿大總理：若美國拿出“正確態度” 將重返貿易談判】當地時間24日，談及加美關稅衝突，加拿大總理卡尼表示，如果美國改變策略，加拿大願意進行對話。卡尼稱，如果“美國人首先以對我們產業的正確態度和真正的夥伴關係坐到談判桌前，我們當然也會坐到談判桌前。”他表示，不會接受“加拿大是美國的附庸”這種觀點，也不會接受加拿大相對於美國應該處於劣勢的觀點。
-
----
-
-### 2026-08-25 04:47:46  #MKT News
-
-【AP: US preparing to revoke up to 200,000 B1/B2 business and tourist visas】AP reports the Trump administration is preparing to revoke up to 200,000 B1/B2 business and tourist visas issued 2016–2026 for holders who have applied for or are applying for asylum. State Department documents and two US officials cited by AP say an announcement could come within weeks, coordinated with the Department of Homeland Security, and would be handled on a rolling basis. The State Department says it is identifying and revoking visas of foreigners who claimed short-term visitor status then sought asylum; revocation would not automatically trigger immediate removal — most asylum applicants under review would be reclassified and lose B1/B2 status. The move, if implemented, would be the largest single visa revocation in US history and is likely to face legal challenges.
-
----
-
-### 2026-08-25 04:46:05  #MKT News #Important
-
-Al Jazeera reported Pakistan's army chief Munir has left Tehran. His messaging may no longer fully align with shifts in Iran's domestic politics after Iran's Supreme National Security Council appointed former IRGC commander Mohsen Rezaee as secretary on Aug. 9, replacing Mohammad Bagher Zolghadr; the negotiation environment has become more complex and talks remain stalled.
-
----
-
-### 2026-08-25 04:45:17  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Rises for Fourth Consecutive Session — The Ibovespa added 0.5% to close at 171,907 on Monday, posting its fourth consecutive gain following eleven consecutive days of losses. Vale surged 2.8%, supported by higher iron ore futures in China amid new signs of stimulus from Beijing and expectations of stronger demand ahead of the peak construction season in September. Banks also gained as the Focus Survey forecast for the Selic rate at the end of 2026 remained at 13.75% for the third consecutive week. Banco do Brasil gained 0.9% and B3 added 2.4%. Bradesco (+0.2%) and Itaú (+0.3%) were little changed after central bank chief Gabriel Galípolo warned of rising household debt and cautioned against further stimulus to credit and consumption. Petrobras shed 2.3% as oil prices pulled back ahead of US sanctions on Iran. Braskem (-6.7%) confirmed an out-of-court restructuring. B3 said the company would be removed from its indexes.
 
 ---

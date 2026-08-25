@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-26 00:48:17_
-_本檔包含 3680 則快訊，約 651859 字_
+_更新時間：2026-08-26 01:42:18_
+_本檔包含 3643 則快訊，約 651833 字_
+
+---
+
+### 2026-08-25 05:14:25  #國際
+
+【伊朗外交部：美威脅對伊發起新一輪制裁違反國際法】8月24日，伊朗外交部發言人巴加埃就地區問題、伊美關係等熱點議題舉行新聞釋出會。巴加埃強調，伊朗有權對所有侵略的源頭實施打擊，此外，美國威脅對伊朗發起新一輪制裁嚴重違反國際法。（央視新聞）
+
+---
+
+### 2026-08-25 05:11:36  #公司 #焦點 #國際
+
+【波音獲得價值1312億美元的美國空軍合同】波音公司拿到一份美國空軍合同，最高金額可達1312億美元。專案代號F‑15 Eagle Crest，服務於F‑15專案辦公室。該合同涵蓋飛機生產、系統整合、現代化改造、升級、改裝、維護保障，以及自建基地維修能力建設，為美國空軍、空軍國民警衛隊以及國防部其他客戶交付並保障F‑15“鷹”武器系統的核心作戰能力。
+
+---
+
+### 2026-08-25 05:10:42  #焦點 #國際
+
+波音拿下美國空軍1312億美元合同。
+
+---
+
+### 2026-08-25 05:08:44  #宏觀 #國際
+
+【美官員稱美政府正準備撤銷多達20萬個商務和旅遊簽證】美政府正準備撤銷多達20萬名外國人的商務和旅遊簽證，這些外國人曾在美國申請或目前正在尋求庇護身份。如果實施，此舉將成為美國歷史上規模最大的一次性簽證集體撤銷行動，並可能面臨法律挑戰。據被曝光的美國務院檔案及兩名美國官員透露，除非受到法律挑戰或計劃有所修改，否則國務院預計將在未來幾周內宣佈撤銷那些在2016年至2026年間簽發且持有人曾尋求或正在尋求庇護的所謂B1和B2類簽證。這項行動將與國土安全部協同進行。（央視新聞）
+
+---
+
+### 2026-08-25 05:08:24  #MKT News
+
+Sources: smart-ring maker Oura plans to raise up to $3 billion in an IPO.
+
+---
+
+### 2026-08-25 05:08:21  #其他
+
+【SpaceX AI為Grok Build新增Browser‑Use瀏覽器外掛】SpaceX AI剛剛為Grok Build新增功能強大的Browser Use外掛。該外掛讓Grok可以呼叫真實瀏覽器，既可以使用使用者本機已儲存登入狀態的Chrome瀏覽器，也可以呼叫隔離的Browser Use雲端瀏覽器。現在Grok Build能夠瀏覽網頁、抓取提取資料、填寫表單、測試網頁應用、擷取螢幕截圖，還可以完成整套網頁自動化工作流。同時支援透過uvx在本地執行，如果呼叫本地Chrome，無需提供API金鑰。
+
+---
+
+### 2026-08-25 05:06:49  #其他
+
+智慧戒指廠商Oura計劃透過IPO最多募資30億美元，目標估值超過160億美元。
+
+---
+
+### 2026-08-25 05:06:47  #Trading Economics #Economy #South Korea #Consumer Confidence #Importance 1
+
+South Korea Consumer Sentiment Falls in August — South Korea’s Composite Consumer Sentiment Index fell 2.3 points to 104.5 in August 2026 from the previous month. Consumer sentiment regarding current living standards declined one point to 92, while sentiment about the future outlook fell one point to 97. Sentiment regarding future household income dropped one point to 100, while that concerning future household spending declined one point to 109. Consumer sentiment about current domestic economic conditions fell five points to 79, while sentiment regarding future domestic economic conditions declined three points to 89. Expected inflation over the next year was 2.7%, while three- and five-year inflation expectations were both 2.6%.
+
+---
+
+### 2026-08-25 05:06:15  #宏觀 #公司 #市場 #國際
+
+【美宣佈對伊朗實施“經濟孤立”新措施加大施壓】美國財政部長貝森特24日下午召開新聞釋出會，宣佈美國當日發起對伊朗“經濟孤立”的新一輪制裁措施，以進一步加大對伊施壓。據美財政部外國資產控制辦公室24日釋出的公告，美國從當日起把對伊朗經濟制裁範圍擴大到航空、數字資產、黃金、航運和技術行業等5個領域。公告稱，美國還將暫停多項涉伊朗的許可，涉及部分教育活動和服務、個人匯款、體育和學術交流等。此外，約60個伊朗相關實體、個人和船隻被列入制裁清單，覆蓋核與導彈技術、網路行動、石油貿易等。（新華社）
+
+---
+
+### 2026-08-25 05:05:51  #其他
+
+智慧戒指廠商Oura計劃透過IPO最多募資30億美元。
+
+---
+
+### 2026-08-25 05:03:56  #MKT News
+
+The Times reports that Prime Minister Burnham has shelved plans for a government takeover of Thames Water, citing cost concerns.
+
+---
+
+### 2026-08-25 05:02:05  #MKT News
+
+Hyundai Motor and South Korean unions have reached a preliminary wage agreement, the unions said.
+
+---
+
+### 2026-08-25 05:01:07  #MKT News #XAUUSD #Impact bullish #DXY
+
+Sources: air-raid sirens sounded in Kyiv.
+
+---
+
+### 2026-08-25 05:00:27  #MKT News #Nasdaq100 #Impact bearish
+
+【AI fund that sold portfolio to Citadel at a discount under SEC probe】The U.S. Securities and Exchange Commission is investigating AI hedge fund Situational Awareness after a near-collapse and has issued subpoenas to major Wall Street banks that provided leverage to the fund. The SEC requested trade timestamps, communications between the banks and lenders about borrowed funds, and ordered preservation of all materials related to the fund. Situational Awareness, founded by former OpenAI researcher Leopold Aschenbrunner, peaked at over $30bn AUM and had borrowed tens of billions of dollars to lever positions. Late last month, declines in popular AI stocks and rallies in legacy tech names it had shorted produced rapid losses that forced a "sell-off liquidation"; the fund sold most of its equity portfolio to Citadel at a discount. The SEC said the probe is in its early stages and does not imply enforcement; the fund is not accused of wrongdoing and says it will "fully cooperate with any regulatory request."
+
+---
+
+### 2026-08-25 05:00:11  #資料 #國際
+
+韓國8月消費者信心指數從106.8降至104.5。
+
+---
+
+### 2026-08-25 05:00:08  #MKT News
+
+South Korea August consumer confidence index 104.5, down from 106.8 previously.
+
+---
+
+### 2026-08-25 05:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | Consumer Confidence Index (Aug) | actual 104.5 | previous 106.8
+
+---
+
+### 2026-08-25 04:56:28  #其他
+
+【法國南部奧德省遭遇龍捲風 26人受傷】當地時間8月24日下午，法國南部奧德省波馬斯鎮遭龍捲風襲擊。奧德省政府最新通報稱，龍捲風造成26人受傷，其中5人被送往醫院，約100棟住宅受損。
+
+---
+
+### 2026-08-25 04:55:06  #宏觀 #國際
+
+美國國務院發言人湯米·皮戈特：特朗普決心無論如何都要消除伊朗核武器威脅。
+
+---
+
+### 2026-08-25 04:53:03  #宏觀 #國際
+
+【美國即將開展史上規模最大的大規模簽證吊銷行動，或將波及多達20萬名外籍人士】特朗普政府準備吊銷最多20萬名外籍人士的商務及旅遊簽證，這些人已經提交或者正在申請美國庇護身份。如若落實，這將是美國歷史上單筆規模最大的批次吊銷簽證行動，該舉措很可能面臨法律訴訟。根據美國國務院檔案以及兩名美方官員透露，除非遭遇法律挑戰或者政策修改，美國國務院預計將在未來數週內宣佈吊銷一批B1、B2簽證。這批簽證簽發時間介於2016至2026年，簽證持有人曾經申請庇護，或是目前正在申請庇護。本次行動將與美國國土安全部協同推進。美國國務院發言人湯米·皮戈特表示，“我們正和國土安全部協同開展甄別，吊銷部分外籍人士的非移民簽證。這類人持短期訪客身份入境美國，隨後提交庇護申請，謀求長期留在美國。”他沒有就可能被吊銷的簽證數量作出評論，表示“相關工作仍在推進，吊銷的具體數字處於動態變化當中，將會採取滾動分批處理模式。”相關官員表示，簽證被吊銷並不代表當事人會被立刻驅逐出境。大部分庇護申請尚在審理流程的人員，其身份會被重新歸類，但將失去商務或者旅遊訪客的身份。
+
+---
+
+### 2026-08-25 04:48:33  #國際
+
+【加拿大總理：若美國拿出“正確態度” 將重返貿易談判】當地時間24日，談及加美關稅衝突，加拿大總理卡尼表示，如果美國改變策略，加拿大願意進行對話。卡尼稱，如果“美國人首先以對我們產業的正確態度和真正的夥伴關係坐到談判桌前，我們當然也會坐到談判桌前。”他表示，不會接受“加拿大是美國的附庸”這種觀點，也不會接受加拿大相對於美國應該處於劣勢的觀點。
+
+---
+
+### 2026-08-25 04:47:46  #MKT News
+
+【AP: US preparing to revoke up to 200,000 B1/B2 business and tourist visas】AP reports the Trump administration is preparing to revoke up to 200,000 B1/B2 business and tourist visas issued 2016–2026 for holders who have applied for or are applying for asylum. State Department documents and two US officials cited by AP say an announcement could come within weeks, coordinated with the Department of Homeland Security, and would be handled on a rolling basis. The State Department says it is identifying and revoking visas of foreigners who claimed short-term visitor status then sought asylum; revocation would not automatically trigger immediate removal — most asylum applicants under review would be reclassified and lose B1/B2 status. The move, if implemented, would be the largest single visa revocation in US history and is likely to face legal challenges.
+
+---
+
+### 2026-08-25 04:46:05  #MKT News #Important
+
+Al Jazeera reported Pakistan's army chief Munir has left Tehran. His messaging may no longer fully align with shifts in Iran's domestic politics after Iran's Supreme National Security Council appointed former IRGC commander Mohsen Rezaee as secretary on Aug. 9, replacing Mohammad Bagher Zolghadr; the negotiation environment has become more complex and talks remain stalled.
+
+---
+
+### 2026-08-25 04:45:17  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Rises for Fourth Consecutive Session — The Ibovespa added 0.5% to close at 171,907 on Monday, posting its fourth consecutive gain following eleven consecutive days of losses. Vale surged 2.8%, supported by higher iron ore futures in China amid new signs of stimulus from Beijing and expectations of stronger demand ahead of the peak construction season in September. Banks also gained as the Focus Survey forecast for the Selic rate at the end of 2026 remained at 13.75% for the third consecutive week. Banco do Brasil gained 0.9% and B3 added 2.4%. Bradesco (+0.2%) and Itaú (+0.3%) were little changed after central bank chief Gabriel Galípolo warned of rising household debt and cautioned against further stimulus to credit and consumption. Petrobras shed 2.3% as oil prices pulled back ahead of US sanctions on Iran. Braskem (-6.7%) confirmed an out-of-court restructuring. B3 said the company would be removed from its indexes.
 
 ---
 
@@ -21860,371 +22004,5 @@ Crypto Updates: Ether Drops by 3.53% — Top crypto losers are Ether (-3.53%) an
 ### 2026-08-22 06:57:35  #國際
 
 市場訊息：特朗普總統已經到達為林賽·格雷厄姆參議員舉行的集會現場，他預計將很快登臺講話。
-
----
-
-### 2026-08-22 06:54:38  #國際
-
-參議員達琳·格雷厄姆（ 已故參議員林賽·格雷厄姆的妹妹 ）：批評者們說我就不該競選參議院席位，因為我不是政客。我認為他們說的對。然而，特朗普總統之前從未擔任過民選職務，但我認為他乾的非常好。
-
----
-
-### 2026-08-22 06:51:40  #宏觀 #公司 #國際
-
-【馮德萊恩：以色列推進“E1區”定居點建設不可接受】歐盟委員會主席馮德萊恩當地時間21日表示，以色列政府決定就約旦河西岸“E1區”定居點專案釋出建設招標一事“不可接受”。她表示，歐盟長期以來一直反對這一舉措，因為該專案將分割約旦河西岸、破壞巴勒斯坦領土連續性，進而破壞“兩國方案”。以色列政府18日釋出了“E1區”定居點建設專案1234套住房的招標公告。2025年8月，以色列財政部長斯莫特里赫發表宣告稱，他計劃批准在“E1區”建造3401套住房，旨在“葬送巴勒斯坦國建國構想”。隨後，以國防部下屬的民政管理局高階規劃委員會批准了這一住房建造計劃。英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。（央視新聞）
-
----
-
-### 2026-08-22 06:45:39  #國際
-
-【美陸軍部長或將離職】據美國《華爾街日報》當地時間8月21日援引知情人士訊息報道，美國陸軍部長丹·德里斯科爾預計將於年底前離職。近幾個月來，他與美國國防部長赫格塞思之間的關係持續緊張。（CCTV國際時訊）
-
----
-
-### 2026-08-22 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Soars by 14.34% — Top crypto gainers are XRP (14.34%), Ether (8.78%) and Bitcoin (7.53%).
-
----
-
-### 2026-08-22 06:45:03  #國際
-
-市場訊息：以色列炮兵對黎巴嫩南部實施猛烈炮擊。
-
----
-
-### 2026-08-22 06:43:23  #國際
-
-【白宮新聞秘書萊維特完成最後一次隨行飛行，將回歸特朗普超級政治行動委員會】白宮新聞秘書卡羅琳·萊維特（Karoline Leavitt）在搭乘“空軍一號”從華盛頓飛往默特爾比奇（Myrtle Beach）的航班上，完成了她作為新聞秘書的最後一次隨行飛行。在起飛後於媒體艙進行的簡短交流中，萊維特坦言，雖然她會懷念這份工作，但“我更愛我的孩子們”。她透露，自己和家人近期仍會居住在華盛頓，並笑言“你們以後還會經常看到我”。據悉，萊維特離任後將回歸“MAGA Inc.”——即特朗普的超級政治行動委員會（Super PAC）。陪同她此次飛行的還有總統副助理兼新聞顧問帕特·亞當斯（Pat Adams）。萊維特在機上對亞當斯讚賞有加，稱他是“華盛頓最聰明的人”，並表示這是亞當斯首次搭乘“空軍一號”隨行。
-
----
-
-### 2026-08-22 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rice Rises by 4.10% — Top commodity gainers are Rice (4.10%), Rubber (1.27%) and Oat (1.24%). Biggest losers are Wool (-3.26%) and Canola (-2.52%).
-
----
-
-### 2026-08-22 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Gains by 2.84% — Top commodity gainers are Platinum (2.84%), Gold (2.03%) and Copper (1.79%).
-
----
-
-### 2026-08-22 06:34:57  #其他
-
-【深圳市雷電預警訊號】深圳市氣象臺於2026年08月22日06時31分發布全市雷電預警訊號，預計2小時內全市將受雷電影響。市民停留在安全地方。（深圳天氣）
-
----
-
-### 2026-08-22 06:34:43  #公司
-
-波音副總裁Ben Nimmergut表示：我們提出了一份有力的合同方案，旨在讓我們的員工在太平洋西北地區的薪酬和福利方面處於市場領先地位。罷工最早可能於10月7日開始。波音目前沒有與工會安排進一步的談判。
-
----
-
-### 2026-08-22 06:33:47  #宏觀 #國際
-
-【古巴代表問美國到底在怕什麼】近日，古巴常駐聯合國代表埃內斯托·索韋龍·古斯曼在接受專訪時質問美國國務卿魯比奧：“美國到底在怕什麼？”古斯曼發問：“如果美國篤定古巴政府無能，為什麼幾乎每兩週就要出臺新一輪制裁？為什麼只要古巴找到前進的道路、找到擺脫當前困境的辦法，美國就要施加新的制裁、扼殺古巴。”他指出，幾十年來，美國政府反覆聲稱古巴需要變革。然而如今，美方制裁卻是古巴實施全面改革的“主要障礙”。 古斯曼表示，儘管近幾個月來美方關於對古巴採取軍事行動的言論有所減少，但古巴仍視其為“真實風險”。古巴已做好準備進行談判，但絕不會拿國家主權與獨立做交易。 （CCTV國際時訊）
-
----
-
-### 2026-08-22 06:33:24  #公司 #國際
-
-【荷蘭對優步網約車公司開出8.25億歐元罰單】荷蘭資料保護局21日宣佈，對美國網約車服務運營商優步公司處以8.25億歐元罰款，理由是優步公司在未充分履行相關告知和人工稽核義務的情況下，透過自動化系統停用司機賬戶，違反歐盟《通用資料保護條例》的相關規定。荷蘭資料保護局說，在2018年至2022年間，優步公司使用軟體追蹤司機的駕駛行為和乘客評價。如果該軟體檢測到疑似欺詐行為或乘客評價過低，相關司機的賬戶就會被自動停用，此過程未經人工稽核，給司機利益造成損害。上述情況由170多名法國優步網約車司機首先舉報，由於優步公司的歐洲總部位於阿姆斯特丹，荷蘭資料保護局隨即發起調查。優步公司已宣佈對該處罰提出上訴。近年來，荷蘭資料保護局多次向優步公司開出罰單。2023年對優步公司處以1000萬歐元的罰款；2024年以優步公司將歐洲地區司機的個人資料傳送至美國為由，對其處以2.9億歐元罰款。（新華社）
-
----
-
-### 2026-08-22 06:32:38  #國際
-
-【烏克蘭首都基輔響起強烈爆炸聲】當地時間22日凌晨1時許，烏克蘭首都基輔響起防空警報，隨後基輔市響起多次強烈爆炸聲。烏空軍稱俄軍向基輔州和基輔市方向發射了多枚彈道導彈和巡飛彈。俄羅斯方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-08-22 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Propane Drops by 3.02% — Top commodity losers are Propane (-3.02%) and Crude Oil WTI (-0.22%). Gains are led by Gasoline (1.81%), Natural Gas UK (1.78%), Natural Gas EU (1.49%) and Brent Crude Oil (0.10%).
-
----
-
-### 2026-08-22 06:25:22  #其他
-
-星鏈：Starlink 在日食期間提供遠端連線和直播覆蓋。
-
----
-
-### 2026-08-22 06:16:09  #其他
-
-白宮新聞秘書萊維特向記者發表講話。
-
----
-
-### 2026-08-22 06:16:02  #公司
-
-萊維特：從白宮卸任後將重返MAGA公司。
-
----
-
-### 2026-08-22 06:15:54  #其他
-
-以太坊創日內新高：2546 美元。
-
----
-
-### 2026-08-22 06:15:16  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 1.04% — Top currency gainers are Brazilian Real (1.04%), Australian Dollar (0.79%), South Korean Won (0.61%) and British Pound (0.08%). Biggest losers are Turkish Lira (-0.71%) and Dollar Index (-0.08%). Meanwhile, Japanese Yen and Euro were little changed.
-
----
-
-### 2026-08-22 06:11:45  #國際
-
-【盧拉與特朗普通話 反對美國對巴商品加徵關稅】巴西總統盧拉21日與美國總統特朗普通電話，反對美國政府近期對巴西商品加徵關稅。據巴西政府釋出的宣告，在1小時20分鐘的通話中，盧拉和特朗普討論了雙邊貿易、公共安全合作及國際熱點問題。盧拉指出，近期美國對巴西加徵關稅的相關指控缺乏依據，這些關稅措施對巴美兩國均構成損害，雙方應繼續透過對話協商解決分歧。美國貿易代表辦公室7月15日宣佈自7月22日起對部分巴西產品在原有關稅基礎上加徵25%的關稅。7月23日，美國貿易代表辦公室又以所謂“強迫勞動”為由，對包括巴西在內的數十個國家和地區徵收10%至12.5%的新關稅，以替代即將到期的全球進口關稅。巴西政府8月13日宣佈，已根據經濟對等法案啟動相關程式，反制美國政府對巴西產品採取的新關稅措施。（新華社）
-
----
-
-### 2026-08-22 06:05:58  #國際
-
-市場訊息：巴西貿易部長稱與美國的談判將於下週恢復。
-
----
-
-### 2026-08-22 06:05:42  #宏觀 #國際
-
-【特朗普稱干預債市是貝森特自己拿的主意】美國總統唐納德·特朗普說，他沒有指示斯科特·貝森特本週干預債券市場，是這位財政部長自行決定採取的行動。“沒有，完全沒有，” 特朗普週五被問及他是否曾推動貝森特採取行動時對記者說，“他是個很能幹的人。他想這麼做的。他很會的。”貝森特本週採取措施穩定債市並推動降低觸及了多年高位的長期借貸成本。財政部週三出其不意宣佈將長債回購規模擴大至少一倍。然而，此舉產生的效果轉瞬即逝，30年期美債在第二天便回吐了所有漲幅。總統週五稱讚了貝森特。“他直覺不錯，天生對債券和利率就有著非常好的直覺，他做到了，” 特朗普說。
-
----
-
-### 2026-08-22 06:04:16  #國際
-
-白宮：唐納德·J·特朗普總統離開華盛頓特區前往南卡羅來納州。
-
----
-
-### 2026-08-22 06:03:53  #國際
-
-美國哮喘中心：目前未發現本次事件導致任何身份盜竊或欺詐行為。
-
----
-
-### 2026-08-22 06:03:46  #國際
-
-美國哮喘中心：調查確認，在2025年10月28日至11月17日期間，有未經授權者訪問了數量有限的TAC系統。
-
----
-
-### 2026-08-22 06:02:41  #宏觀 #公司 #市場 #觀點 #國際
-
-【花旗將美國附息國債及債券發行規模上調的預測推遲至2028年】花旗集團策略師表示，美國財政部可能要到2028年2月才會擴大附息國債拍賣規模。在本週意外宣佈擴大回購後，花旗推遲了此前的預測。由Alejandra Vazquez Plata領銜的團隊表示：”我們此前對附息國債拍賣規模上調的基準預測是2027年5月，因為更早的上調將允許財政部逐步增加附息國債規模，並將短期國債（T-bill）在流通量中的佔比控制在25%以下。”
-
----
-
-### 2026-08-22 06:01:22  #國際
-
-美國哮喘中心釋出資料安全事件通知。
-
----
-
-### 2026-08-22 06:00:39  #市場 #焦點
-
-美銅暗盤突破6.6美元，日內漲幅1.7%。
-
----
-
-### 2026-08-22 06:00:10  #市場 #焦點
-
-布倫特原油暗盤突破92美元，日內漲超0.8%。
-
----
-
-### 2026-08-22 06:00:10  #市場 #焦點
-
-暗盤金價突破4550美元/盎司，日內漲幅1%。
-
----
-
-### 2026-08-22 06:00:10  #市場 #焦點
-
-暗盤金價（人民幣）日內漲超1%，現報992.9447元/克。
-
----
-
-### 2026-08-22 05:56:43  #國際
-
-【特朗普稱對伊轉向“經濟戰”不意味著美軍事選項受限】當地時間8月21日，美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。“我們對霍爾木茲海峽周邊整個地區，包括其腹地和陸地區域，擁有完全的控制權。所以，他們很希望達成協議，但在我看來，他們還沒準備好達成合適的協議，”特朗普補充道。當被問及美國對伊朗的軍事選擇是否有限時，特朗普表示：“這只是意味著我們正在觀察事態的發展。”特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。（央視新聞）
-
----
-
-### 2026-08-22 05:53:35  #其他
-
-沃爾瑪的帕克自 9 月 1 日起轉任顧問崗位。
-
----
-
-### 2026-08-22 05:53:23  #其他
-
-沃爾瑪首席公關官帕克將於 2 月 1 日離職。
-
----
-
-### 2026-08-22 05:52:19  #市場 #焦點
-
-以太坊升破2500美元，日內漲7.49%。
-
----
-
-### 2026-08-22 05:50:53  #央行 #國際
-
-【美聯儲9月維持利率不變的機率為59.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。
-
----
-
-### 2026-08-22 05:50:23  #公司 #國際
-
-【報道：Anthropic的IPO招股書將把AI反彈情緒列為風險因素】據知情人士透露，在預計未來幾周釋出的Anthropic IPO招股書中，公眾對AI和資料中心的負面情緒將被列為風險因素。Anthropic一直在美國舊金山與銀行家和投資者舉行初步的”試探水溫”會議。在這些會議中，首席財務官Krishna Rao被反覆追問有關競爭、開源模型帶來的利潤率壓力，以及如果資料中心建設放緩會發生什麼等問題。這家在私募市場估值已接近1萬億美元的公司，正準備上市，而公眾對AI取代工作崗位的擔憂正日益加劇。
-
----
-
-### 2026-08-22 05:46:15  #其他 #焦點
-
-市場訊息： Anthropic 的 IPO 申報檔案將把 AI 行業遭遇輿論反噬列為風險因素。
-
----
-
-### 2026-08-22 05:41:01  #國際
-
-【美商務部長對美加貿易協議草案不滿，談判最後關頭存分歧】據訊息人士，隨著美加貿易談判逼近最後期限，美國商務部長盧特尼克（Howard Lutnick）對當前協議草案表示不滿，並正推動修改。知情人士透露，盧特尼克特別反對將針對加拿大汽車的關稅從25%降至15%，認為此舉將削弱美國鼓勵本土生產的努力。這一內部態度與特朗普及加拿大總理卡尼近期對外釋放的樂觀訊號形成反差。儘管美國貿易代表格里爾稱已達成“保護美國工人”的協議，但盧特尼克作為特朗普經濟政策的核心人物，其強硬立場凸顯了美方內部的分歧。目前，美加雙方正全力在週六凌晨新關稅生效前敲定最終協議。據悉，協議草案可能包含降低加拿大鋼鋁關稅、調整乳製品配額，以及加拿大各省解除對美國酒類禁令等條款。加拿大貿易部長勒布朗表示，雙方已“非常接近”達成協議。
-
----
-
-### 2026-08-22 05:37:28  #國際
-
-市場訊息：美國商務部長盧特尼克對可能降低232條款關稅提出異議。
-
----
-
-### 2026-08-22 05:37:14  #其他
-
-巴西民調：若總統選舉進入第二輪對決，盧拉支援率為47%，雅伊爾·博索納羅支援率為43%。
-
----
-
-### 2026-08-22 05:36:25  #國際
-
-市場訊息：美國商務部長盧特尼克認為美國可以爭取到更好的協議。
-
----
-
-### 2026-08-22 05:35:51  #焦點 #國際
-
-市場訊息：美國商務部長盧特尼克對擺在桌面上的美加貿易協議並不滿意。
-
----
-
-### 2026-08-22 05:35:20  #其他
-
-SIGMA LITHIUM 恢復巴西境內採礦及工業生產業務。
-
----
-
-### 2026-08-22 05:32:25  #其他
-
-Datafolha 民調：（巴西）首輪投票盧拉支援率 39%，弗拉維奧・博索納羅 33%。
-
----
-
-### 2026-08-22 05:32:04  #國際
-
-BITARI申請將其普通股在納斯達克全球市場掛牌上市，股票程式碼為“BIAI”，這一申請已提交美國證券交易委員會。
-
----
-
-### 2026-08-22 05:32:03  #市場 #焦點
-
-布倫特原油失守92美元/桶，日內跌0.05%。
-
----
-
-### 2026-08-22 05:27:16  #公司 #市場 #國際
-
-美國證交會備案檔案顯示，美國黃金公司（US GOLD CORP）或最高發售1.5億美元證券。
-
----
-
-### 2026-08-22 05:24:35  #市場 #國際
-
-週五（8月21日）紐約尾盤，美國10年期基準國債收益率漲2.99個基點，報4.7339%，本週累計上漲4.18個基點，整體交投於4.6308%-4.7458%區間。兩年期美債收益率漲5.05個基點，報4.2359%，本週累漲6.68個基點，整體交投於4.1412%-4.2401%區間，8月21日20:30出現一波顯著的上漲行情。
-
----
-
-### 2026-08-22 05:22:49  #市場
-
-週五（8月21日）紐約尾盤，標普500股指期貨最終漲0.39%，道指期貨漲0.95%，納斯達克100股指期貨漲0.26%。羅素2000股指期貨漲0.77%。
-
----
-
-### 2026-08-22 05:19:57  #其他
-
-馬斯克：Grok 4.6 現在在最高思考模式下，在 CursorBench 上取得了第一名分數！（他還把這個帖子置頂了）
-
----
-
-### 2026-08-22 05:16:19  #市場
-
-富時A50期指連續夜盤收跌0.11%，報14826點。
-
----
-
-### 2026-08-22 05:14:59  #國際
-
-特朗普談伊朗：“我們正在觀察事態發展。他們（伊朗）沒有錢。他們沒有海軍。他們沒有空軍。他們沒有支付士兵薪水。他們沒有支付警察薪水。他們有 350% 的通貨膨脹。”
-
----
-
-### 2026-08-22 05:12:47  #其他
-
-航空訊息人士和航班追蹤系統報告稱，一架F-35在飛越阿拉伯聯合大公國領空時，曾發出緊急狀態訊號。
-
----
-
-### 2026-08-22 05:09:34  #市場
-
-週五（8月21日）紐約尾盤，標普500股指期貨最終漲0.39%，道指期貨漲0.95%，納斯達克100股指期貨漲0.26%。羅素2000股指期貨漲0.77%。
-
----
-
-### 2026-08-22 05:08:38  #市場
-
-週五（8月21日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7210元，較週四紐約尾盤漲43點，日內整體交投於6.7257-6.7180元區間。最近三個交易日，離岸人民幣累計上漲大約250點、漲幅0.37%，本週累漲0.35%。
-
----
-
-### 2026-08-22 05:08:00  #其他
-
-SpaceX： 準備開展第 14 次飛行測試的星艦完成全時長靜態點火，六臺猛禽發動機全部點火，持續 60 秒。
-
----
-
-### 2026-08-22 05:06:58  #國際
-
-【特朗普：宴會廳我自有金主】特朗普表示新白宮舞廳的造價將接近4億美元，但他堅稱納稅人不會為此買單。 特朗普說，這個專案完全由“愛國者和愛國企業”的私人捐款資助。
-
----
-
-### 2026-08-22 05:04:30  #其他
-
-惠譽確認馬耳他評級為“A+”，展望穩定。
-
----
-
-### 2026-08-22 05:03:40  #公司 #國際
-
-阿拉斯加航空集團：根據美國證券交易委員會（SEC）檔案披露，執行長貝尼託·米努奇於8月20日以每股40.06美元的平均價格買入了2.5萬股公司普通股。
-
----
-
-### 2026-08-22 05:02:57  #國際
-
-惠譽確認波蘭主權信用評級為 “A‑”，展望負面。
 
 ---

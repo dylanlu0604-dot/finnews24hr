@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-26 00:48:17_
-_本檔包含 3412 則快訊，約 652542 字_
+_更新時間：2026-08-26 01:42:18_
+_本檔包含 3400 則快訊，約 652588 字_
+
+---
+
+### 2026-08-21 04:23:50  #MKT News
+
+Panama Canal said the planned Sept. 2, 2026 adjustment to the New Panamax locks' maximum permitted draft to 14.63 m (48.0 ft TFW) has been postponed due to weather and water-resource conditions.
+
+---
+
+### 2026-08-21 04:22:46  #MKT News
+
+Panama Canal will suspend offering conditional reservation windows for new Panamax vessels because available transit slots in the second booking period have been reduced.
+
+---
+
+### 2026-08-21 04:22:24  #宏觀 #國際
+
+【美國決定批准對卡達45億美元軍售】美國國務院20日宣佈，已決定批准一項或向卡達出售空中加油機及相關裝置的軍售計劃，預計總價值高達45億美元。美國務院在一份宣告中表示，卡達提出購買最多4架KC-46A空中加油機，以及發動機、雷達告警接收機和紅外對抗系統等相關配件和服務。宣告稱，此項軍售將有助於提升“美國戰略區域夥伴”的安全能力，從而支援美國的外交政策和國家安全目標；也將增強卡達的防禦能力及其與美軍及盟軍的協同作戰能力，並鞏固卡達在區域安全中的戰略作用。（新華社）
+
+---
+
+### 2026-08-21 04:22:12  #其他
+
+巴拿馬運河：原定於 2026 年 9 月 3 日生效的 14.48 米（47.5 英尺）TFW 最大允許吃水調整，將推遲至 2026 年 10 月 1 日執行。
+
+---
+
+### 2026-08-21 04:21:41  #其他
+
+巴拿馬運河：將新巴拿馬船閘最大允許吃水 14.63 米（48.0 英尺）TFW 的實施時間推遲至 2026 年 9 月 2 日。
+
+---
+
+### 2026-08-21 04:20:58  #其他
+
+巴拿馬運河：新巴拿馬型船閘每日通行名額調整至9個。巴拿馬型船閘每日通行名額調整至25個。
+
+---
+
+### 2026-08-21 04:20:42  #其他
+
+巴拿馬運河：因第二訂艙期內可用過境艙位縮減，新巴拿馬型船舶類別的附條件艙位將不再開放。
+
+---
+
+### 2026-08-21 04:20:21  #MKT News
+
+Panama Canal adjusts daily Panamax-lock transit allocation to 25 vessels per day.
+
+---
+
+### 2026-08-21 04:20:13  #國際
+
+【七國敦促以色列撤回“E1區”定居點建設計劃】英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。七國在宣告中表示，以色列政府公佈“E1區”定居點建設專案招標決定“不可接受”，該專案將割裂約旦河西岸，損害巴勒斯坦領土的連續性，破壞“兩國方案”前景。（新華社）
+
+---
+
+### 2026-08-21 04:19:57  #MKT News
+
+Panama Canal: daily transit slots for Neo-Panamax locks adjusted to nine per day.
+
+---
+
+### 2026-08-21 04:16:44  #其他
+
+雅培同意以6.7億美元和解部分嬰兒配方奶粉索賠案。
+
+---
+
+### 2026-08-21 04:16:07  #其他
+
+【奈及利亞警方：索科託沉船事故已致46人死亡】當地時間8月20日傍晚，奈及利亞西北部索科託州警察局發言人艾哈邁德·魯法伊證實，當天在該州戈羅尼奧地方政府區戈勞鎮發生的沉船事故中，救援人員已找到46具乘客遺體，另有15名乘客獲救，目前仍有16人失蹤。（央視新聞）
+
+---
+
+### 2026-08-21 04:12:44  #MKT News #AVGO.O
+
+Broadcom (AVGO.O) is discussing providing guarantees for some senior secured notes.
+
+---
+
+### 2026-08-21 04:12:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Fall as Inflation Concerns Mount — US stock indices closed lower on Thursday amid concerns that the Treasury’s plan to curb borrowing costs may provide only a short-term fix, while higher energy prices stoked inflation worries. The S&P 500 lost 0.9%, the Nasdaq fell 0.7% and the Dow shed 704 points. Treasury yields rose across the curve as investors worried that the Treasury’s efforts to support notes and bonds could worsen the inflationary backdrop amid ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump said the US had entered an “economic war” with Iran, prolonging blockades of tankers crossing the Persian Gulf. Financials were mostly lower, with JPMorgan down 1.6% and Morgan Stanley losing 3.2%. AI hyperscalers also mostly declined following tepid financial results from OpenAI, which failed to grow at the same pace as rival Anthropic. Walmart sank 9.1%, its sharpest single-session decline in four years, after second-quarter sales fell short of expectations.
+
+---
+
+### 2026-08-21 04:12:05  #MKT News #BX.N #APO.O
+
+Market sources say Blackstone (BX.N) and Apollo are in talks to participate in semiconductor financing.
+
+---
+
+### 2026-08-21 04:11:11  #MKT News #AVGO.O #Impact bullish
+
+Broadcom (AVGO.O) rose more than 1% in after-hours trading.
+
+---
+
+### 2026-08-21 04:10:39  #MKT News #Important #AVGO.O #Impact mixed
+
+Broadcom (AVGO.O) is seeking to raise more than $60 bln in its latest AI-focused debt transaction, market sources said.
+
+---
+
+### 2026-08-21 04:09:50  #其他
+
+黑石和阿波羅據悉正就參與晶片融資進行談判。
+
+---
+
+### 2026-08-21 04:08:42  #公司 #其他 #國際
+
+博通擬透過最新 AI 相關債務融資，籌措逾 600 億美元資金。
+
+---
+
+### 2026-08-21 04:08:37  #MKT News #005380.KS #Impact bullish
+
+CNBC: Hyundai Motor CEO said the company will raise U.S. production capacity at its new Georgia factory.
+
+---
+
+### 2026-08-21 04:07:01  #公司
+
+現代汽車執行長表示，公司計劃到 2028 年，將佐治亞州超級工廠規劃產能從 50 萬輛提升至 70‑80 萬輛。
+
+---
+
+### 2026-08-21 04:06:46  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Ross Stores earnings above expectations at 2.66 USD — Ross Stores (ROST) released earnings per share at 2.66 USD, compared to market expectations of 1.94 USD.
+
+---
+
+### 2026-08-21 04:05:10  #MKT News #Important #Star Stocks #Alibaba #S&P500 #Impact bearish #MRNA.O #MRVL.O #Impact bullish
+
+【US close: major indexes down; Moderna down 23.5%】US stocks closed lower Thursday: Dow Jones Industrial Average down about 1.3%, S&P 500 down 0.86%, Nasdaq down 1.0%. Moderna (MRNA.O) fell 23.5%; Walmart (WMT.N) fell about 9%. Marvell Technology Group (MRVL.O) rose 5.8%; Micron (MU.O) rose ~4%; SanDisk (SNDK.O) rose ~2%. The Nasdaq Golden Dragon China Index fell more than 1%; Alibaba (BABA.N) rose 1.3%.
+
+---
+
+### 2026-08-21 04:05:08  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
+
+U.S. equities closed lower on Thursday Aug 20: the Dow Jones Industrial Average fell 700.75 points (-1.31%) to 52,762.30; the S&P 500 dropped 66.42 points (-0.86%) to 7,641.56; the Nasdaq Composite lost 263.92 points (-1.00%) to 26,067.17.
+
+---
+
+### 2026-08-21 04:04:46  #其他
+
+哥倫比亞總統正式任命新的軍隊領導層。
+
+---
+
+### 2026-08-21 04:04:39  #MKT News #Market Regions #Emerging Markets
+
+Colombia's president formally appoints new military leadership.
+
+---
+
+### 2026-08-21 04:04:01  #MKT News #Macro & Rates #US Economy
+
+Cuba's foreign minister said the U.S. continues to sanction Cuban firms to damage Cuba's economy and impede the government's delivery of basic services, which are already strained by the long-standing embargo.
+
+---
+
+### 2026-08-21 04:01:51  #其他
+
+沃爾瑪股價收跌9.2%，創下2022年5月以來最大單日跌幅。
+
+---
+
+### 2026-08-21 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌1.31%，標普500指數跌0.86%，納指跌1.00%。Moderna跌23.55%，沃爾瑪跌9.15%，直覺外科跌5.86%，CrowdStrike跌5.61%。“七姐妹”方面：Meta Platforms跌0.03%，英偉達跌0.33%，微軟跌0.43%，谷歌跌1.02%，特斯拉跌1.71%，蘋果跌1.75%，亞馬遜跌2.16%。
+
+---
+
+### 2026-08-21 04:00:45  #MKT News #Macro & Rates #US Economy #WTI #Impact bearish #Brent
+
+【U.S. to sustain economic pressure on Iran to prevent nuclear rebuild, says Vance】U.S. Vice President Vance said Washington will continue using economic pressure to prevent Iran from rebuilding nuclear facilities. He said increasing oil and gas supply to lower energy prices, combined with punitive steps over attacks on commercial shipping, would impose significant economic strain on Iran and could alter its negotiating calculus. Vance described the current phase as one in which economic pressure is the most effective tool and said the U.S. will maintain that pressure to ensure Iran’s nuclear sites are destroyed and deter any attempt to rebuild them.
+
+---
+
+### 2026-08-21 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收跌1.12%】Tims中國跌11.81%，萬物新生跌11.00%，愛奇藝跌9.29%，金山雲跌7.64%，亞朵集團跌7.50%。
+
+---
+
+### 2026-08-21 03:58:18  #國際
+
+市場訊息：現代汽車將提升其佐治亞州新工廠的美國本土產能。
+
+---
+
+### 2026-08-21 03:56:46  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Wells Fargo Stock Price Hits 7-week Low — Wells Fargo shares decreased to 83.70 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo lost 4.55%, and in the last 12 months, it increased 7.61%.
+
+---
+
+### 2026-08-21 03:52:49  #公司
+
+英偉達：有關該公司 LPU 的相關報道資訊有誤。
+
+---
+
+### 2026-08-21 03:51:52  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+【Dollar index up 0.06% to 98.894 on 20th】The dollar index, which measures the dollar against six major currencies, rose 0.06% to 98.894 at the New York close. EUR/USD 1.1676 (prev. 1.1674); GBP/USD 1.3628 (prev. 1.3607); USD/JPY 159.14 (prev. 158.32); USD/CHF 0.8007 (prev. 0.7979); USD/CAD 1.3790 (prev. 1.3810); USD/SEK 9.4908 (prev. 9.4386).
+
+---
+
+### 2026-08-21 03:48:43  #市場
+
+【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.06%，在匯市尾市收於98.894。截至紐約匯市尾市，1歐元兌換1.1676美元，高於前一交易日的1.1674美元；1英鎊兌換1.3628美元，高於前一交易日的1.3607美元。1美元兌換159.14日元，高於前一交易日的158.32日元；1美元兌換0.8007瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3790加元，低於前一交易日的1.3810加元；1美元兌換9.4908瑞典克朗，高於前一交易日的9.4386瑞典克朗。
+
+---
+
+### 2026-08-21 03:48:31  #MKT News
+
+【Source says US carrier Abraham Lincoln begins return】An informed source said on Aug. 20 the nuclear-powered US carrier Abraham Lincoln has begun returning. The USS George Washington has already arrived in the Middle East to relieve Lincoln’s extended deployment. A US official said Lincoln remains in the US Navy Fifth Fleet operating area and has not yet left the CENTCOM area of responsibility. Lincoln was sent to the Middle East in January for operations against Iran and maritime interdiction and has been deployed for more than 250 days; recent reports cite crew living-condition and mental-health strains from the high operational tempo and prolonged deployment.
 
 ---
 
@@ -20307,299 +20529,5 @@ U.S. President Trump said on trade talks with Canada that we may reach a deal.
 ### 2026-08-20 03:30:59  #MKT News #Market Themes #AI Revolution
 
 【SpaceX sought acquisition of AI programming startup Cognition】People familiar say SpaceX held acquisition talks with AI programming startup Cognition, exploring a potential deal that would be the company's second major purchase in months aimed at gaining an edge in the AI race. Talks are currently paused, but the firms continue to discuss cooperation, including potential arrangements for Cognition to use SpaceX's computing capacity. Cognition was valued at $26 bln in a May funding round and is in preliminary talks for a new raise with a valuation of at least $40 bln.
-
----
-
-### 2026-08-20 03:30:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil rises on the 19th】By the close, NYMEX September light sweet crude (WTI) futures gained $0.89 to $85.83/bbl, +1.05%; ICE Brent October futures added $0.60 to $91.62/bbl, +0.66%.
-
----
-
-### 2026-08-20 03:30:13  #市場
-
-現貨黃金日內漲4%，現報4507.62美元/盎司。
-
----
-
-### 2026-08-20 03:29:54  #MKT News #Market Themes #AI Revolution
-
-US President Trump said he will meet next week with AI industry figures.
-
----
-
-### 2026-08-20 03:29:43  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold jumped 4% intraday to $4,507.66/oz.
-
----
-
-### 2026-08-20 03:29:32  #國際
-
-特朗普：下週將與 “AI 行業人士” 舉行會晤。
-
----
-
-### 2026-08-20 03:29:26  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-New York gold futures jumped 4% intraday to $4,565.10/oz.
-
----
-
-### 2026-08-20 03:29:03  #MKT News #Important #Market Themes #AI Revolution
-
-CNBC reports OpenAI's CFO said the company plans to go public in 2027 or earlier.
-
----
-
-### 2026-08-20 03:29:00  #國際
-
-市場訊息：伊朗外長阿拉格齊於週三同巴基斯坦陸軍參謀長通電話，就地區最新局勢以及外交斡旋工作展開磋商。
-
----
-
-### 2026-08-20 03:28:44  #市場
-
-【國際油價19日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲89美分，收於每桶85.83美元，漲幅為1.05%；10月交貨的倫敦布倫特原油期貨價格上漲60美分，收於每桶91.62美元，漲幅為0.66%。
-
----
-
-### 2026-08-20 03:27:03  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-【U.S. quietly opens route through Strait of Hormuz, ships about 10 mln bpd】Two U.S. officials told Axios the U.S. military has quietly established a shipping lane through the Strait of Hormuz, moving roughly 10 million barrels per day into global energy markets. The operation has run for several weeks, with about 15–20 tankers using a southern route along Oman's coast. Officials said flows are roughly half of pre-war volumes; the U.S.-led action is easing a major war-related supply disruption that had driven crude sharply higher, and is already having a noticeable impact on global oil supply despite remaining below pre-war levels.
-
----
-
-### 2026-08-20 03:26:44  #其他
-
-市場訊息：OpenAI 將於 2027 年或更早時間上市。
-
----
-
-### 2026-08-20 03:26:41  #MKT News #Macro & Rates #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-【Dollar index falls sharply on 19th】The dollar index, which measures the US currency against six major peers, fell 0.83% to 98.833 at the New York FX close on the 19th. EUR/USD rose to 1.1674 from 1.1576; GBP/USD to 1.3607 from 1.3534. USD/JPY fell to 158.32 from 159.60; USD/CHF to 0.7979 from 0.8125; USD/CAD to 1.3810 from 1.3906; USD/SEK to 9.4386 from 9.5395.
-
----
-
-### 2026-08-20 03:26:15  #市場
-
-【美元指數19日大幅下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.83%，在匯市尾市收於98.833。截至紐約匯市尾市，1歐元兌換1.1674美元，高於前一交易日的1.1576美元；1英鎊兌換1.3607美元，高於前一交易日的1.3534美元。1美元兌換158.32日元，低於前一交易日的159.60日元；1美元兌換0.7979瑞士法郎，低於前一交易日的0.8125瑞士法郎；1美元兌換1.3810加元，低於前一交易日的1.3906加元；1美元兌換9.4386瑞典克朗，低於前一交易日的9.5395瑞典克朗。
-
----
-
-### 2026-08-20 03:25:20  #焦點 #國際
-
-【報道：美國開展行動透過霍爾木茲海峽運輸石油】兩名美國官員向Axios透露，美軍已在霍爾木茲海峽悄悄搭建起進出海峽的航運通道，每日可運輸數百萬桶石油。儘管大範圍戰事仍處於僵持狀態，但該行動已取得顯著成效。這項行動已開展數週，共有 15‑20 艘油輪沿著阿曼海岸的南部航道進出海峽。官員稱，每天約有 1000 萬桶石油經該海峽外運，流入全球能源市場，這一規模約為戰前運量的一半。官員稱，此次行動得以落地，得益於美國中央司令部近期為期兩週的軍事行動，該行動削弱了伊朗的雷達與海上監控系統。
-
----
-
-### 2026-08-20 03:25:18  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-WTI crude fell $0.30 intraday to $83.89/bbl.
-
----
-
-### 2026-08-20 03:23:47  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-According to Axios, the United States is secretly transporting oil through the Strait of Hormuz.
-
----
-
-### 2026-08-20 03:22:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #US10Y
-
-【Fed minutes: some participants say signs of labor-market slack persist】Federal Reserve minutes said participants judged labor-market conditions broadly stable and labor supply and demand roughly balanced, with unemployment steady over the past year and near most participants' estimates of its longer-run level. Some participants said uncertainty around AI development and current and expected productivity gains have kept both hiring and layoffs low; in industries building AI, demand for tech workers is strong and has driven sharp wage gains for those roles. Other participants flagged lingering slack, citing low employment rates and elevated long-term unemployment. Several described nominal wage growth as moderate and consistent with inflation moving toward 2%, though some warned of upside risk to future wage growth.
-
----
-
-### 2026-08-20 03:22:11  #國際
-
-據Axios：美國正在開展秘密行動，經霍爾木茲海峽運輸石油。
-
----
-
-### 2026-08-20 03:17:54  #MKT News
-
-CFTC Chair Selig said he will provide more details on the agency’s future regulatory path at a meeting tomorrow.
-
----
-
-### 2026-08-20 03:17:22  #市場 #國際
-
-美國商品期貨交易委員會主席：明天，我將在會議上就後續監管路徑公佈更多細節。
-
----
-
-### 2026-08-20 03:15:44  #MKT News
-
-President Trump: We need Congress to pass a clear bill.
-
----
-
-### 2026-08-20 03:14:15  #國際
-
-特朗普：國會需要透過《清晰法案》。（CLARITY Act：美國兩黨加密監管核心法案，與特朗普已經簽署的GENIUS Act配套使用，GENIUS 管穩定幣，CLARITY 管整體加密資產市場結構。）
-
----
-
-### 2026-08-20 03:12:54  #MKT News #Commodities #Precious Metals
-
-Spot silver surged $3 intraday to $66.32 per ounce, up 4.74%.
-
----
-
-### 2026-08-20 03:12:20  #MKT News #Important #Macro & Rates #Treasury Yields
-
-U.S. President Trump said he strongly hopes interest rates will fall.
-
----
-
-### 2026-08-20 03:11:56  #MKT News #Important
-
-Sources say a U.S.-Canada trade deal is expected to cut U.S. tariffs on Canadian steel and aluminum to 25%, but to include quota arrangements.
-
----
-
-### 2026-08-20 03:11:53  #焦點 #國際
-
-特朗普：希望看到利率下降。
-
----
-
-### 2026-08-20 03:11:05  #焦點 #國際
-
-訊息人士：美加貿易協議預計將美國對加拿大鋼鐵、鋁產品的最高名義關稅稅率降至 25%，同時協議還將包含部分配額安排。
-
----
-
-### 2026-08-20 03:10:50  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish
-
-Sources say a US-Canada trade agreement is expected to cut the US maximum tariff rate on Canadian autos to 15%.
-
----
-
-### 2026-08-20 03:10:34  #焦點 #國際
-
-市場訊息：知情談判人士稱，美加貿易協議預計將美國對加拿大汽車的最高名義關稅稅率降至 15%。
-
----
-
-### 2026-08-20 03:09:33  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
-
-【Spot gold climbs above $4,500/oz】Spot gold climbed above $4,500/oz for the first time since June 4, rising 3.83% on the day.
-
----
-
-### 2026-08-20 03:09:31  #國際
-
-伊朗國家電視臺：伊朗表示，根據美伊諒解備忘錄，目前尚無凍結資金獲解凍。
-
----
-
-### 2026-08-20 03:08:54  #市場 #焦點
-
-現貨黃金突破4500美元/盎司，日內漲3.89%。
-
----
-
-### 2026-08-20 03:08:42  #市場 #焦點
-
-紐約期金突破4560美元/盎司，日內漲3.16%。
-
----
-
-### 2026-08-20 03:08:32  #MKT News #Market Themes #AI Revolution #SPCX.O
-
-Market sources: SpaceX (SPCX.O) attempted to acquire AI programming startup Cognition.
-
----
-
-### 2026-08-20 03:07:16  #其他
-
-SpaceX 曾嘗試收購 AI 程式設計初創企業 Cognition。
-
----
-
-### 2026-08-20 03:06:24  #MKT News #ESLT.O #Impact bullish
-
-Israel's Channel 12 reports Israel will begin establishing a production line for precision-guided munitions for fighter aircraft.
-
----
-
-### 2026-08-20 03:05:42  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-Alpha Compute said July cash revenue from its gaming business and the Alpha-01 NVIDIA GPU cluster reached $1.57 million, roughly 35 times its total revenue in April 2026.
-
----
-
-### 2026-08-20 03:04:24  #國際
-
-以色列 N12 新聞：以色列即將開始生產戰鬥機所用智慧炸彈。 此舉意在在與伊朗關係緊張的背景下，實現武器自主。
-
----
-
-### 2026-08-20 03:03:20  #MKT News
-
-Israel Defense Forces says it will conduct a military exercise near Nahariya tomorrow as part of its 2026 training plan; the activity is not related to a security incident.
-
----
-
-### 2026-08-20 03:01:36  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.94% at 25,699, trading 204 points above the cash index.
-
----
-
-### 2026-08-20 03:00:34  #MKT News #Market Regions #Emerging Markets #DXY #Impact bearish #CNH #Impact bullish #EURUSD
-
-Iran's central bank governor said Iran has proposed establishing a financial corridor among BRICS countries to reduce reliance on other currencies.
-
----
-
-### 2026-08-20 03:00:03  #市場
-
-恒指期貨夜盤收漲0.97%，報25704.94點，高水209.87點。
-
----
-
-### 2026-08-20 02:59:46  #央行 #國際
-
-伊朗央行行長：我們已提議在金磚框架下設立金融走廊，我們必須降低對其他貨幣的依賴。
-
----
-
-### 2026-08-20 02:58:50  #MKT News
-
-According to correspondence, the US will provide $206 million to fund a Gaza peacekeeping force.
-
----
-
-### 2026-08-20 02:58:23  #MKT News #Market Themes #Chip Wars
-
-【AI chip startup Fractile seeks $6.5bn valuation after ANTHROPIC order】Fractile is seeking about $600m in a new funding round at a $6.5bn pre-money valuation, people familiar with the matter said — more than six times its roughly $1bn valuation after a May round. The startup has reached a preliminary agreement to sell about $250m of AI inference chips to ANTHROPIC, with both sides planning to expand the partnership; the chips are expected to enter service in 2027. Fractile, founded in 2022, designs low-latency AI inference chips aimed at challenging NVIDIA’s dominance in AI hardware.
-
----
-
-### 2026-08-20 02:58:22  #國際
-
-檔案顯示：美國將向加沙維和部隊提供2.06億美元資金。
-
----
-
-### 2026-08-20 02:56:42  #宏觀 #公司 #市場 #國際
-
-【美國財政部回購長期國債可能上不封頂 國庫券發行規模面臨更多變數】美國財政部擴大長期國債回購的決定使包括國庫券在內的短期證券發行前景變得更加複雜，因為市場預計財政部將透過發行短期國債為這項計劃融資。財政部計劃將“流動性支援型回購操作規模至少提高一倍”。而就在兩週前，該部還在季度再融資公告中表示，回購規模將維持不變，並預計隨著9月企業稅款流入，國庫券供應將出現季節性下降。週三的調整打亂了此前指引。由於擴大回購需要更多融資，而且回購規模沒有上限，財政部需要增加證券發行。
-
----
-
-### 2026-08-20 02:55:00  #MKT News
-
-【Iran central bank governor says no frozen funds unfrozen so far】Iran's central bank governor said on Aug 19 local time that no frozen funds have been unfrozen so far, CCTV reported.
-
----
-
-### 2026-08-20 02:54:57  #宏觀 #國際
-
-【厄瓜多情報機構負責人在肯亞直升機事故中死亡】當地時間8月19日，一架直升機在肯亞北部桑布魯郡奧洛洛克韋山墜毀，包括6名遊客和1名飛行員在內的機上7人全部遇難。厄瓜多交通部長稍後向外界證實，厄瓜多情報機構最高負責人米凱萊·森西-孔圖吉夫婦在此次事故中死亡。此外，美國國務院發表宣告稱，墜機事故死亡人員中有4人是美國公民。（央視新聞）
 
 ---

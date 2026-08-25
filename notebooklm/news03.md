@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-26 00:48:17_
-_本檔包含 3003 則快訊，約 652939 字_
+_更新時間：2026-08-26 01:42:18_
+_本檔包含 3027 則快訊，約 652806 字_
+
+---
+
+### 2026-08-22 06:54:38  #國際
+
+參議員達琳·格雷厄姆（ 已故參議員林賽·格雷厄姆的妹妹 ）：批評者們說我就不該競選參議院席位，因為我不是政客。我認為他們說的對。然而，特朗普總統之前從未擔任過民選職務，但我認為他乾的非常好。
+
+---
+
+### 2026-08-22 06:51:40  #宏觀 #公司 #國際
+
+【馮德萊恩：以色列推進“E1區”定居點建設不可接受】歐盟委員會主席馮德萊恩當地時間21日表示，以色列政府決定就約旦河西岸“E1區”定居點專案釋出建設招標一事“不可接受”。她表示，歐盟長期以來一直反對這一舉措，因為該專案將分割約旦河西岸、破壞巴勒斯坦領土連續性，進而破壞“兩國方案”。以色列政府18日釋出了“E1區”定居點建設專案1234套住房的招標公告。2025年8月，以色列財政部長斯莫特里赫發表宣告稱，他計劃批准在“E1區”建造3401套住房，旨在“葬送巴勒斯坦國建國構想”。隨後，以國防部下屬的民政管理局高階規劃委員會批准了這一住房建造計劃。英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。（央視新聞）
+
+---
+
+### 2026-08-22 06:45:39  #國際
+
+【美陸軍部長或將離職】據美國《華爾街日報》當地時間8月21日援引知情人士訊息報道，美國陸軍部長丹·德里斯科爾預計將於年底前離職。近幾個月來，他與美國國防部長赫格塞思之間的關係持續緊張。（CCTV國際時訊）
+
+---
+
+### 2026-08-22 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Soars by 14.34% — Top crypto gainers are XRP (14.34%), Ether (8.78%) and Bitcoin (7.53%).
+
+---
+
+### 2026-08-22 06:45:03  #國際
+
+市場訊息：以色列炮兵對黎巴嫩南部實施猛烈炮擊。
+
+---
+
+### 2026-08-22 06:43:23  #國際
+
+【白宮新聞秘書萊維特完成最後一次隨行飛行，將回歸特朗普超級政治行動委員會】白宮新聞秘書卡羅琳·萊維特（Karoline Leavitt）在搭乘“空軍一號”從華盛頓飛往默特爾比奇（Myrtle Beach）的航班上，完成了她作為新聞秘書的最後一次隨行飛行。在起飛後於媒體艙進行的簡短交流中，萊維特坦言，雖然她會懷念這份工作，但“我更愛我的孩子們”。她透露，自己和家人近期仍會居住在華盛頓，並笑言“你們以後還會經常看到我”。據悉，萊維特離任後將回歸“MAGA Inc.”——即特朗普的超級政治行動委員會（Super PAC）。陪同她此次飛行的還有總統副助理兼新聞顧問帕特·亞當斯（Pat Adams）。萊維特在機上對亞當斯讚賞有加，稱他是“華盛頓最聰明的人”，並表示這是亞當斯首次搭乘“空軍一號”隨行。
+
+---
+
+### 2026-08-22 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rice Rises by 4.10% — Top commodity gainers are Rice (4.10%), Rubber (1.27%) and Oat (1.24%). Biggest losers are Wool (-3.26%) and Canola (-2.52%).
+
+---
+
+### 2026-08-22 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Gains by 2.84% — Top commodity gainers are Platinum (2.84%), Gold (2.03%) and Copper (1.79%).
+
+---
+
+### 2026-08-22 06:34:57  #其他
+
+【深圳市雷電預警訊號】深圳市氣象臺於2026年08月22日06時31分發布全市雷電預警訊號，預計2小時內全市將受雷電影響。市民停留在安全地方。（深圳天氣）
+
+---
+
+### 2026-08-22 06:34:43  #公司
+
+波音副總裁Ben Nimmergut表示：我們提出了一份有力的合同方案，旨在讓我們的員工在太平洋西北地區的薪酬和福利方面處於市場領先地位。罷工最早可能於10月7日開始。波音目前沒有與工會安排進一步的談判。
+
+---
+
+### 2026-08-22 06:33:47  #宏觀 #國際
+
+【古巴代表問美國到底在怕什麼】近日，古巴常駐聯合國代表埃內斯托·索韋龍·古斯曼在接受專訪時質問美國國務卿魯比奧：“美國到底在怕什麼？”古斯曼發問：“如果美國篤定古巴政府無能，為什麼幾乎每兩週就要出臺新一輪制裁？為什麼只要古巴找到前進的道路、找到擺脫當前困境的辦法，美國就要施加新的制裁、扼殺古巴。”他指出，幾十年來，美國政府反覆聲稱古巴需要變革。然而如今，美方制裁卻是古巴實施全面改革的“主要障礙”。 古斯曼表示，儘管近幾個月來美方關於對古巴採取軍事行動的言論有所減少，但古巴仍視其為“真實風險”。古巴已做好準備進行談判，但絕不會拿國家主權與獨立做交易。 （CCTV國際時訊）
+
+---
+
+### 2026-08-22 06:33:24  #公司 #國際
+
+【荷蘭對優步網約車公司開出8.25億歐元罰單】荷蘭資料保護局21日宣佈，對美國網約車服務運營商優步公司處以8.25億歐元罰款，理由是優步公司在未充分履行相關告知和人工稽核義務的情況下，透過自動化系統停用司機賬戶，違反歐盟《通用資料保護條例》的相關規定。荷蘭資料保護局說，在2018年至2022年間，優步公司使用軟體追蹤司機的駕駛行為和乘客評價。如果該軟體檢測到疑似欺詐行為或乘客評價過低，相關司機的賬戶就會被自動停用，此過程未經人工稽核，給司機利益造成損害。上述情況由170多名法國優步網約車司機首先舉報，由於優步公司的歐洲總部位於阿姆斯特丹，荷蘭資料保護局隨即發起調查。優步公司已宣佈對該處罰提出上訴。近年來，荷蘭資料保護局多次向優步公司開出罰單。2023年對優步公司處以1000萬歐元的罰款；2024年以優步公司將歐洲地區司機的個人資料傳送至美國為由，對其處以2.9億歐元罰款。（新華社）
+
+---
+
+### 2026-08-22 06:32:38  #國際
+
+【烏克蘭首都基輔響起強烈爆炸聲】當地時間22日凌晨1時許，烏克蘭首都基輔響起防空警報，隨後基輔市響起多次強烈爆炸聲。烏空軍稱俄軍向基輔州和基輔市方向發射了多枚彈道導彈和巡飛彈。俄羅斯方面對此暫無回應。（央視新聞）
+
+---
+
+### 2026-08-22 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Propane Drops by 3.02% — Top commodity losers are Propane (-3.02%) and Crude Oil WTI (-0.22%). Gains are led by Gasoline (1.81%), Natural Gas UK (1.78%), Natural Gas EU (1.49%) and Brent Crude Oil (0.10%).
+
+---
+
+### 2026-08-22 06:25:22  #其他
+
+星鏈：Starlink 在日食期間提供遠端連線和直播覆蓋。
+
+---
+
+### 2026-08-22 06:16:09  #其他
+
+白宮新聞秘書萊維特向記者發表講話。
+
+---
+
+### 2026-08-22 06:16:02  #公司
+
+萊維特：從白宮卸任後將重返MAGA公司。
+
+---
+
+### 2026-08-22 06:15:54  #其他
+
+以太坊創日內新高：2546 美元。
+
+---
+
+### 2026-08-22 06:15:16  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Appreciates by 1.04% — Top currency gainers are Brazilian Real (1.04%), Australian Dollar (0.79%), South Korean Won (0.61%) and British Pound (0.08%). Biggest losers are Turkish Lira (-0.71%) and Dollar Index (-0.08%). Meanwhile, Japanese Yen and Euro were little changed.
+
+---
+
+### 2026-08-22 06:11:45  #國際
+
+【盧拉與特朗普通話 反對美國對巴商品加徵關稅】巴西總統盧拉21日與美國總統特朗普通電話，反對美國政府近期對巴西商品加徵關稅。據巴西政府釋出的宣告，在1小時20分鐘的通話中，盧拉和特朗普討論了雙邊貿易、公共安全合作及國際熱點問題。盧拉指出，近期美國對巴西加徵關稅的相關指控缺乏依據，這些關稅措施對巴美兩國均構成損害，雙方應繼續透過對話協商解決分歧。美國貿易代表辦公室7月15日宣佈自7月22日起對部分巴西產品在原有關稅基礎上加徵25%的關稅。7月23日，美國貿易代表辦公室又以所謂“強迫勞動”為由，對包括巴西在內的數十個國家和地區徵收10%至12.5%的新關稅，以替代即將到期的全球進口關稅。巴西政府8月13日宣佈，已根據經濟對等法案啟動相關程式，反制美國政府對巴西產品採取的新關稅措施。（新華社）
+
+---
+
+### 2026-08-22 06:05:58  #國際
+
+市場訊息：巴西貿易部長稱與美國的談判將於下週恢復。
+
+---
+
+### 2026-08-22 06:05:42  #宏觀 #國際
+
+【特朗普稱干預債市是貝森特自己拿的主意】美國總統唐納德·特朗普說，他沒有指示斯科特·貝森特本週干預債券市場，是這位財政部長自行決定採取的行動。“沒有，完全沒有，” 特朗普週五被問及他是否曾推動貝森特採取行動時對記者說，“他是個很能幹的人。他想這麼做的。他很會的。”貝森特本週採取措施穩定債市並推動降低觸及了多年高位的長期借貸成本。財政部週三出其不意宣佈將長債回購規模擴大至少一倍。然而，此舉產生的效果轉瞬即逝，30年期美債在第二天便回吐了所有漲幅。總統週五稱讚了貝森特。“他直覺不錯，天生對債券和利率就有著非常好的直覺，他做到了，” 特朗普說。
+
+---
+
+### 2026-08-22 06:04:16  #國際
+
+白宮：唐納德·J·特朗普總統離開華盛頓特區前往南卡羅來納州。
+
+---
+
+### 2026-08-22 06:03:53  #國際
+
+美國哮喘中心：目前未發現本次事件導致任何身份盜竊或欺詐行為。
+
+---
+
+### 2026-08-22 06:03:46  #國際
+
+美國哮喘中心：調查確認，在2025年10月28日至11月17日期間，有未經授權者訪問了數量有限的TAC系統。
+
+---
+
+### 2026-08-22 06:02:41  #宏觀 #公司 #市場 #觀點 #國際
+
+【花旗將美國附息國債及債券發行規模上調的預測推遲至2028年】花旗集團策略師表示，美國財政部可能要到2028年2月才會擴大附息國債拍賣規模。在本週意外宣佈擴大回購後，花旗推遲了此前的預測。由Alejandra Vazquez Plata領銜的團隊表示：”我們此前對附息國債拍賣規模上調的基準預測是2027年5月，因為更早的上調將允許財政部逐步增加附息國債規模，並將短期國債（T-bill）在流通量中的佔比控制在25%以下。”
+
+---
+
+### 2026-08-22 06:01:22  #國際
+
+美國哮喘中心釋出資料安全事件通知。
+
+---
+
+### 2026-08-22 06:00:39  #市場 #焦點
+
+美銅暗盤突破6.6美元，日內漲幅1.7%。
+
+---
+
+### 2026-08-22 06:00:10  #市場 #焦點
+
+布倫特原油暗盤突破92美元，日內漲超0.8%。
+
+---
+
+### 2026-08-22 06:00:10  #市場 #焦點
+
+暗盤金價突破4550美元/盎司，日內漲幅1%。
+
+---
+
+### 2026-08-22 06:00:10  #市場 #焦點
+
+暗盤金價（人民幣）日內漲超1%，現報992.9447元/克。
+
+---
+
+### 2026-08-22 05:56:43  #國際
+
+【特朗普稱對伊轉向“經濟戰”不意味著美軍事選項受限】當地時間8月21日，美國總統特朗普在馬里蘭州安德魯斯聯合基地表示，他認為伊朗尚未準備好達成“合適的協議”，華盛頓方面正在觀察衝突中“事態的發展”。“我們對霍爾木茲海峽周邊整個地區，包括其腹地和陸地區域，擁有完全的控制權。所以，他們很希望達成協議，但在我看來，他們還沒準備好達成合適的協議，”特朗普補充道。當被問及美國對伊朗的軍事選擇是否有限時，特朗普表示：“這只是意味著我們正在觀察事態的發展。”特朗普稱，對伊朗轉向“經濟戰”並不意味著美國軍事選項受限。（央視新聞）
+
+---
+
+### 2026-08-22 05:53:35  #其他
+
+沃爾瑪的帕克自 9 月 1 日起轉任顧問崗位。
+
+---
+
+### 2026-08-22 05:53:23  #其他
+
+沃爾瑪首席公關官帕克將於 2 月 1 日離職。
+
+---
+
+### 2026-08-22 05:52:19  #市場 #焦點
+
+以太坊升破2500美元，日內漲7.49%。
+
+---
+
+### 2026-08-22 05:50:53  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為59.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。
+
+---
+
+### 2026-08-22 05:50:23  #公司 #國際
+
+【報道：Anthropic的IPO招股書將把AI反彈情緒列為風險因素】據知情人士透露，在預計未來幾周釋出的Anthropic IPO招股書中，公眾對AI和資料中心的負面情緒將被列為風險因素。Anthropic一直在美國舊金山與銀行家和投資者舉行初步的”試探水溫”會議。在這些會議中，首席財務官Krishna Rao被反覆追問有關競爭、開源模型帶來的利潤率壓力，以及如果資料中心建設放緩會發生什麼等問題。這家在私募市場估值已接近1萬億美元的公司，正準備上市，而公眾對AI取代工作崗位的擔憂正日益加劇。
+
+---
+
+### 2026-08-22 05:46:15  #其他 #焦點
+
+市場訊息： Anthropic 的 IPO 申報檔案將把 AI 行業遭遇輿論反噬列為風險因素。
+
+---
+
+### 2026-08-22 05:41:01  #國際
+
+【美商務部長對美加貿易協議草案不滿，談判最後關頭存分歧】據訊息人士，隨著美加貿易談判逼近最後期限，美國商務部長盧特尼克（Howard Lutnick）對當前協議草案表示不滿，並正推動修改。知情人士透露，盧特尼克特別反對將針對加拿大汽車的關稅從25%降至15%，認為此舉將削弱美國鼓勵本土生產的努力。這一內部態度與特朗普及加拿大總理卡尼近期對外釋放的樂觀訊號形成反差。儘管美國貿易代表格里爾稱已達成“保護美國工人”的協議，但盧特尼克作為特朗普經濟政策的核心人物，其強硬立場凸顯了美方內部的分歧。目前，美加雙方正全力在週六凌晨新關稅生效前敲定最終協議。據悉，協議草案可能包含降低加拿大鋼鋁關稅、調整乳製品配額，以及加拿大各省解除對美國酒類禁令等條款。加拿大貿易部長勒布朗表示，雙方已“非常接近”達成協議。
+
+---
+
+### 2026-08-22 05:37:28  #國際
+
+市場訊息：美國商務部長盧特尼克對可能降低232條款關稅提出異議。
+
+---
+
+### 2026-08-22 05:37:14  #其他
+
+巴西民調：若總統選舉進入第二輪對決，盧拉支援率為47%，雅伊爾·博索納羅支援率為43%。
+
+---
+
+### 2026-08-22 05:36:25  #國際
+
+市場訊息：美國商務部長盧特尼克認為美國可以爭取到更好的協議。
+
+---
+
+### 2026-08-22 05:35:51  #焦點 #國際
+
+市場訊息：美國商務部長盧特尼克對擺在桌面上的美加貿易協議並不滿意。
+
+---
+
+### 2026-08-22 05:35:20  #其他
+
+SIGMA LITHIUM 恢復巴西境內採礦及工業生產業務。
+
+---
+
+### 2026-08-22 05:32:25  #其他
+
+Datafolha 民調：（巴西）首輪投票盧拉支援率 39%，弗拉維奧・博索納羅 33%。
+
+---
+
+### 2026-08-22 05:32:04  #國際
+
+BITARI申請將其普通股在納斯達克全球市場掛牌上市，股票程式碼為“BIAI”，這一申請已提交美國證券交易委員會。
+
+---
+
+### 2026-08-22 05:32:03  #市場 #焦點
+
+布倫特原油失守92美元/桶，日內跌0.05%。
+
+---
+
+### 2026-08-22 05:27:16  #公司 #市場 #國際
+
+美國證交會備案檔案顯示，美國黃金公司（US GOLD CORP）或最高發售1.5億美元證券。
+
+---
+
+### 2026-08-22 05:24:35  #市場 #國際
+
+週五（8月21日）紐約尾盤，美國10年期基準國債收益率漲2.99個基點，報4.7339%，本週累計上漲4.18個基點，整體交投於4.6308%-4.7458%區間。兩年期美債收益率漲5.05個基點，報4.2359%，本週累漲6.68個基點，整體交投於4.1412%-4.2401%區間，8月21日20:30出現一波顯著的上漲行情。
+
+---
+
+### 2026-08-22 05:22:49  #市場
+
+週五（8月21日）紐約尾盤，標普500股指期貨最終漲0.39%，道指期貨漲0.95%，納斯達克100股指期貨漲0.26%。羅素2000股指期貨漲0.77%。
+
+---
+
+### 2026-08-22 05:19:57  #其他
+
+馬斯克：Grok 4.6 現在在最高思考模式下，在 CursorBench 上取得了第一名分數！（他還把這個帖子置頂了）
+
+---
+
+### 2026-08-22 05:16:19  #市場
+
+富時A50期指連續夜盤收跌0.11%，報14826點。
+
+---
+
+### 2026-08-22 05:14:59  #國際
+
+特朗普談伊朗：“我們正在觀察事態發展。他們（伊朗）沒有錢。他們沒有海軍。他們沒有空軍。他們沒有支付士兵薪水。他們沒有支付警察薪水。他們有 350% 的通貨膨脹。”
+
+---
+
+### 2026-08-22 05:12:47  #其他
+
+航空訊息人士和航班追蹤系統報告稱，一架F-35在飛越阿拉伯聯合大公國領空時，曾發出緊急狀態訊號。
+
+---
+
+### 2026-08-22 05:09:34  #市場
+
+週五（8月21日）紐約尾盤，標普500股指期貨最終漲0.39%，道指期貨漲0.95%，納斯達克100股指期貨漲0.26%。羅素2000股指期貨漲0.77%。
+
+---
+
+### 2026-08-22 05:08:38  #市場
+
+週五（8月21日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7210元，較週四紐約尾盤漲43點，日內整體交投於6.7257-6.7180元區間。最近三個交易日，離岸人民幣累計上漲大約250點、漲幅0.37%，本週累漲0.35%。
+
+---
+
+### 2026-08-22 05:08:00  #其他
+
+SpaceX： 準備開展第 14 次飛行測試的星艦完成全時長靜態點火，六臺猛禽發動機全部點火，持續 60 秒。
+
+---
+
+### 2026-08-22 05:06:58  #國際
+
+【特朗普：宴會廳我自有金主】特朗普表示新白宮舞廳的造價將接近4億美元，但他堅稱納稅人不會為此買單。 特朗普說，這個專案完全由“愛國者和愛國企業”的私人捐款資助。
+
+---
+
+### 2026-08-22 05:04:30  #其他
+
+惠譽確認馬耳他評級為“A+”，展望穩定。
+
+---
+
+### 2026-08-22 05:03:40  #公司 #國際
+
+阿拉斯加航空集團：根據美國證券交易委員會（SEC）檔案披露，執行長貝尼託·米努奇於8月20日以每股40.06美元的平均價格買入了2.5萬股公司普通股。
+
+---
+
+### 2026-08-22 05:02:57  #國際
+
+惠譽確認波蘭主權信用評級為 “A‑”，展望負面。
 
 ---
 
@@ -17905,227 +18271,5 @@ Panama Canal Authority to closely monitor weather, watershed inflows and lake le
 ### 2026-08-21 04:24:02  #MKT News #Brent #Impact bullish #Copper #Impact bearish
 
 Panama Canal: planned reduction in maximum allowable draft to 14.48 metres (47.5 ft, tropical fresh water) originally due to take effect on Sept. 3, 2026, has been delayed and will now be effective Oct. 1, 2026.
-
----
-
-### 2026-08-21 04:23:50  #MKT News
-
-Panama Canal said the planned Sept. 2, 2026 adjustment to the New Panamax locks' maximum permitted draft to 14.63 m (48.0 ft TFW) has been postponed due to weather and water-resource conditions.
-
----
-
-### 2026-08-21 04:22:46  #MKT News
-
-Panama Canal will suspend offering conditional reservation windows for new Panamax vessels because available transit slots in the second booking period have been reduced.
-
----
-
-### 2026-08-21 04:22:24  #宏觀 #國際
-
-【美國決定批准對卡達45億美元軍售】美國國務院20日宣佈，已決定批准一項或向卡達出售空中加油機及相關裝置的軍售計劃，預計總價值高達45億美元。美國務院在一份宣告中表示，卡達提出購買最多4架KC-46A空中加油機，以及發動機、雷達告警接收機和紅外對抗系統等相關配件和服務。宣告稱，此項軍售將有助於提升“美國戰略區域夥伴”的安全能力，從而支援美國的外交政策和國家安全目標；也將增強卡達的防禦能力及其與美軍及盟軍的協同作戰能力，並鞏固卡達在區域安全中的戰略作用。（新華社）
-
----
-
-### 2026-08-21 04:22:12  #其他
-
-巴拿馬運河：原定於 2026 年 9 月 3 日生效的 14.48 米（47.5 英尺）TFW 最大允許吃水調整，將推遲至 2026 年 10 月 1 日執行。
-
----
-
-### 2026-08-21 04:21:41  #其他
-
-巴拿馬運河：將新巴拿馬船閘最大允許吃水 14.63 米（48.0 英尺）TFW 的實施時間推遲至 2026 年 9 月 2 日。
-
----
-
-### 2026-08-21 04:20:58  #其他
-
-巴拿馬運河：新巴拿馬型船閘每日通行名額調整至9個。巴拿馬型船閘每日通行名額調整至25個。
-
----
-
-### 2026-08-21 04:20:42  #其他
-
-巴拿馬運河：因第二訂艙期內可用過境艙位縮減，新巴拿馬型船舶類別的附條件艙位將不再開放。
-
----
-
-### 2026-08-21 04:20:21  #MKT News
-
-Panama Canal adjusts daily Panamax-lock transit allocation to 25 vessels per day.
-
----
-
-### 2026-08-21 04:20:13  #國際
-
-【七國敦促以色列撤回“E1區”定居點建設計劃】英國、法國、德國、義大利、荷蘭、挪威和加拿大20日發表聯合宣告，譴責以色列“E1區”定居點建設計劃，並敦促以政府立即撤回該計劃。七國在宣告中表示，以色列政府公佈“E1區”定居點建設專案招標決定“不可接受”，該專案將割裂約旦河西岸，損害巴勒斯坦領土的連續性，破壞“兩國方案”前景。（新華社）
-
----
-
-### 2026-08-21 04:19:57  #MKT News
-
-Panama Canal: daily transit slots for Neo-Panamax locks adjusted to nine per day.
-
----
-
-### 2026-08-21 04:16:44  #其他
-
-雅培同意以6.7億美元和解部分嬰兒配方奶粉索賠案。
-
----
-
-### 2026-08-21 04:16:07  #其他
-
-【奈及利亞警方：索科託沉船事故已致46人死亡】當地時間8月20日傍晚，奈及利亞西北部索科託州警察局發言人艾哈邁德·魯法伊證實，當天在該州戈羅尼奧地方政府區戈勞鎮發生的沉船事故中，救援人員已找到46具乘客遺體，另有15名乘客獲救，目前仍有16人失蹤。（央視新聞）
-
----
-
-### 2026-08-21 04:12:44  #MKT News #AVGO.O
-
-Broadcom (AVGO.O) is discussing providing guarantees for some senior secured notes.
-
----
-
-### 2026-08-21 04:12:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Fall as Inflation Concerns Mount — US stock indices closed lower on Thursday amid concerns that the Treasury’s plan to curb borrowing costs may provide only a short-term fix, while higher energy prices stoked inflation worries. The S&P 500 lost 0.9%, the Nasdaq fell 0.7% and the Dow shed 704 points. Treasury yields rose across the curve as investors worried that the Treasury’s efforts to support notes and bonds could worsen the inflationary backdrop amid ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump said the US had entered an “economic war” with Iran, prolonging blockades of tankers crossing the Persian Gulf. Financials were mostly lower, with JPMorgan down 1.6% and Morgan Stanley losing 3.2%. AI hyperscalers also mostly declined following tepid financial results from OpenAI, which failed to grow at the same pace as rival Anthropic. Walmart sank 9.1%, its sharpest single-session decline in four years, after second-quarter sales fell short of expectations.
-
----
-
-### 2026-08-21 04:12:05  #MKT News #BX.N #APO.O
-
-Market sources say Blackstone (BX.N) and Apollo are in talks to participate in semiconductor financing.
-
----
-
-### 2026-08-21 04:11:11  #MKT News #AVGO.O #Impact bullish
-
-Broadcom (AVGO.O) rose more than 1% in after-hours trading.
-
----
-
-### 2026-08-21 04:10:39  #MKT News #Important #AVGO.O #Impact mixed
-
-Broadcom (AVGO.O) is seeking to raise more than $60 bln in its latest AI-focused debt transaction, market sources said.
-
----
-
-### 2026-08-21 04:09:50  #其他
-
-黑石和阿波羅據悉正就參與晶片融資進行談判。
-
----
-
-### 2026-08-21 04:08:42  #公司 #其他 #國際
-
-博通擬透過最新 AI 相關債務融資，籌措逾 600 億美元資金。
-
----
-
-### 2026-08-21 04:08:37  #MKT News #005380.KS #Impact bullish
-
-CNBC: Hyundai Motor CEO said the company will raise U.S. production capacity at its new Georgia factory.
-
----
-
-### 2026-08-21 04:07:01  #公司
-
-現代汽車執行長表示，公司計劃到 2028 年，將佐治亞州超級工廠規劃產能從 50 萬輛提升至 70‑80 萬輛。
-
----
-
-### 2026-08-21 04:06:46  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Ross Stores earnings above expectations at 2.66 USD — Ross Stores (ROST) released earnings per share at 2.66 USD, compared to market expectations of 1.94 USD.
-
----
-
-### 2026-08-21 04:05:10  #MKT News #Important #Star Stocks #Alibaba #S&P500 #Impact bearish #MRNA.O #MRVL.O #Impact bullish
-
-【US close: major indexes down; Moderna down 23.5%】US stocks closed lower Thursday: Dow Jones Industrial Average down about 1.3%, S&P 500 down 0.86%, Nasdaq down 1.0%. Moderna (MRNA.O) fell 23.5%; Walmart (WMT.N) fell about 9%. Marvell Technology Group (MRVL.O) rose 5.8%; Micron (MU.O) rose ~4%; SanDisk (SNDK.O) rose ~2%. The Nasdaq Golden Dragon China Index fell more than 1%; Alibaba (BABA.N) rose 1.3%.
-
----
-
-### 2026-08-21 04:05:08  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Dow #Nasdaq100
-
-U.S. equities closed lower on Thursday Aug 20: the Dow Jones Industrial Average fell 700.75 points (-1.31%) to 52,762.30; the S&P 500 dropped 66.42 points (-0.86%) to 7,641.56; the Nasdaq Composite lost 263.92 points (-1.00%) to 26,067.17.
-
----
-
-### 2026-08-21 04:04:46  #其他
-
-哥倫比亞總統正式任命新的軍隊領導層。
-
----
-
-### 2026-08-21 04:04:39  #MKT News #Market Regions #Emerging Markets
-
-Colombia's president formally appoints new military leadership.
-
----
-
-### 2026-08-21 04:04:01  #MKT News #Macro & Rates #US Economy
-
-Cuba's foreign minister said the U.S. continues to sanction Cuban firms to damage Cuba's economy and impede the government's delivery of basic services, which are already strained by the long-standing embargo.
-
----
-
-### 2026-08-21 04:01:51  #其他
-
-沃爾瑪股價收跌9.2%，創下2022年5月以來最大單日跌幅。
-
----
-
-### 2026-08-21 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌1.31%，標普500指數跌0.86%，納指跌1.00%。Moderna跌23.55%，沃爾瑪跌9.15%，直覺外科跌5.86%，CrowdStrike跌5.61%。“七姐妹”方面：Meta Platforms跌0.03%，英偉達跌0.33%，微軟跌0.43%，谷歌跌1.02%，特斯拉跌1.71%，蘋果跌1.75%，亞馬遜跌2.16%。
-
----
-
-### 2026-08-21 04:00:45  #MKT News #Macro & Rates #US Economy #WTI #Impact bearish #Brent
-
-【U.S. to sustain economic pressure on Iran to prevent nuclear rebuild, says Vance】U.S. Vice President Vance said Washington will continue using economic pressure to prevent Iran from rebuilding nuclear facilities. He said increasing oil and gas supply to lower energy prices, combined with punitive steps over attacks on commercial shipping, would impose significant economic strain on Iran and could alter its negotiating calculus. Vance described the current phase as one in which economic pressure is the most effective tool and said the U.S. will maintain that pressure to ensure Iran’s nuclear sites are destroyed and deter any attempt to rebuild them.
-
----
-
-### 2026-08-21 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.12%】Tims中國跌11.81%，萬物新生跌11.00%，愛奇藝跌9.29%，金山雲跌7.64%，亞朵集團跌7.50%。
-
----
-
-### 2026-08-21 03:58:18  #國際
-
-市場訊息：現代汽車將提升其佐治亞州新工廠的美國本土產能。
-
----
-
-### 2026-08-21 03:56:46  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Wells Fargo Stock Price Hits 7-week Low — Wells Fargo shares decreased to 83.70 USD, the lowest since July 2026. Over the past 4 weeks, Wells Fargo lost 4.55%, and in the last 12 months, it increased 7.61%.
-
----
-
-### 2026-08-21 03:52:49  #公司
-
-英偉達：有關該公司 LPU 的相關報道資訊有誤。
-
----
-
-### 2026-08-21 03:51:52  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up 0.06% to 98.894 on 20th】The dollar index, which measures the dollar against six major currencies, rose 0.06% to 98.894 at the New York close. EUR/USD 1.1676 (prev. 1.1674); GBP/USD 1.3628 (prev. 1.3607); USD/JPY 159.14 (prev. 158.32); USD/CHF 0.8007 (prev. 0.7979); USD/CAD 1.3790 (prev. 1.3810); USD/SEK 9.4908 (prev. 9.4386).
-
----
-
-### 2026-08-21 03:48:43  #市場
-
-【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.06%，在匯市尾市收於98.894。截至紐約匯市尾市，1歐元兌換1.1676美元，高於前一交易日的1.1674美元；1英鎊兌換1.3628美元，高於前一交易日的1.3607美元。1美元兌換159.14日元，高於前一交易日的158.32日元；1美元兌換0.8007瑞士法郎，高於前一交易日的0.7979瑞士法郎；1美元兌換1.3790加元，低於前一交易日的1.3810加元；1美元兌換9.4908瑞典克朗，高於前一交易日的9.4386瑞典克朗。
-
----
-
-### 2026-08-21 03:48:31  #MKT News
-
-【Source says US carrier Abraham Lincoln begins return】An informed source said on Aug. 20 the nuclear-powered US carrier Abraham Lincoln has begun returning. The USS George Washington has already arrived in the Middle East to relieve Lincoln’s extended deployment. A US official said Lincoln remains in the US Navy Fifth Fleet operating area and has not yet left the CENTCOM area of responsibility. Lincoln was sent to the Middle East in January for operations against Iran and maritime interdiction and has been deployed for more than 250 days; recent reports cite crew living-condition and mental-health strains from the high operational tempo and prolonged deployment.
 
 ---
