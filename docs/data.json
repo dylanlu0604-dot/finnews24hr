@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-25 22:28:47",
-  "count": 16533,
+  "updated": "2026-08-25 22:33:06",
+  "count": 16531,
   "items": [
+    {
+      "id": "mkt:01a03955-f7e3-7aab-9115-606273f81cff",
+      "time": "2026-08-25 22:32:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the US Navy has informed him that all sea mines in international waters of the Strait of Hormuz have been removed or detonated. He said Iran has been warned that any vessel or small boat laying new mines will be immediately and systematically destroyed."
+    },
+    {
+      "id": "5058294",
+      "time": "2026-08-25 22:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正在密切關注霍爾木茲海峽的每一寸土地和鎬山。"
+    },
+    {
+      "id": "5058293",
+      "time": "2026-08-25 22:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗已獲通知，任何佈設新水雷的船隻都將被立即、系統地摧毀。"
+    },
+    {
+      "id": "5058292",
+      "time": "2026-08-25 22:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽所有水雷均已被清除或引爆。"
+    },
+    {
+      "id": "5058291",
+      "time": "2026-08-25 22:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月25日，國內基金淨買入印度股票23億印度盧比。"
+    },
+    {
+      "id": "5058290",
+      "time": "2026-08-25 22:28:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月25日，全球基金淨買入159億印度盧比的印度股票。"
+    },
     {
       "id": "mkt:01a03951-6220-7aab-9115-5c3080d642ba",
       "time": "2026-08-25 22:27:09",
@@ -149416,78 +149469,6 @@
         "Europe & UK"
       ],
       "text": "Estonia's prime minister said authorities are investigating a fire at a defence manufacturer linked to Russia."
-    },
-    {
-      "id": "5046259",
-      "time": "2026-08-18 22:32:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛沙尼亞總理：該國正在調查國防製造商火災事件是否與俄羅斯存在關聯。"
-    },
-    {
-      "id": "te:markets:576181",
-      "time": "2026-08-18 22:32:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Rise on Tuesday — US natural gas prices climbed above $2.71/MMBtu as forecasts pointed to prolonged and intense heat across the southern and western parts of the country. Particularly high temperatures in Texas are driving greater air-conditioning use, increasing electricity demand and placing additional pressure on gas-fired power plants and the regional grid. Houston temperatures are expected to average around 100°F between August 20 and 23, while peak demand on the Texas power grid could reach a new record as wind generation declines. However, the price gains were limited by exceptionally strong domestic production. Average output in the Lower 48 states has reached 111.6 billion cubic feet per day in August, surpassing July’s record of 110.7 bcfd. Strong production and relatively mild weather earlier this year have also kept inventories above the five-year average since March. Meanwhile, gas flows to the nine major US LNG export facilities are averaging 17.2 bcfd in August, unchanged from July."
-    },
-    {
-      "id": "mkt:01a01549-77d9-7aab-907d-28d8ffa88f9a",
-      "time": "2026-08-18 22:32:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "AI platform Behavox opens regional headquarters in Milan."
-    },
-    {
-      "id": "5046258",
-      "time": "2026-08-18 22:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：AI平臺Behavox設立米蘭辦事處，作為區域總部。"
-    },
-    {
-      "id": "5046257",
-      "time": "2026-08-18 22:31:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "Strategic Beverage Services收購BevZero美國業務，交易條款未披露。"
-    },
-    {
-      "id": "5046256",
-      "time": "2026-08-18 22:30:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國債務管理局表示，將於2026年8月25日透過拍賣出售40億英鎊的2033年到期、票面利率4.125%的國債。"
-    },
-    {
-      "id": "5046255",
-      "time": "2026-08-18 22:29:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破65000美元，日內漲0.73%。"
-    },
-    {
-      "id": "mkt:01a01546-c03f-7aab-907d-264b2c169fe3",
-      "time": "2026-08-18 22:29:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "French budget minister said the French tax authority will conduct AI-powered cyberattack testing."
     }
   ]
 }

@@ -1,7 +1,60 @@
 {
   "date": "2026-08-25",
-  "count": 3218,
+  "count": 3224,
   "items": [
+    {
+      "id": "mkt:01a03955-f7e3-7aab-9115-606273f81cff",
+      "time": "2026-08-25 22:32:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the US Navy has informed him that all sea mines in international waters of the Strait of Hormuz have been removed or detonated. He said Iran has been warned that any vessel or small boat laying new mines will be immediately and systematically destroyed."
+    },
+    {
+      "id": "5058294",
+      "time": "2026-08-25 22:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正在密切關注霍爾木茲海峽的每一寸土地和鎬山。"
+    },
+    {
+      "id": "5058293",
+      "time": "2026-08-25 22:31:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗已獲通知，任何佈設新水雷的船隻都將被立即、系統地摧毀。"
+    },
+    {
+      "id": "5058292",
+      "time": "2026-08-25 22:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽所有水雷均已被清除或引爆。"
+    },
+    {
+      "id": "5058291",
+      "time": "2026-08-25 22:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月25日，國內基金淨買入印度股票23億印度盧比。"
+    },
+    {
+      "id": "5058290",
+      "time": "2026-08-25 22:28:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月25日，全球基金淨買入159億印度盧比的印度股票。"
+    },
     {
       "id": "mkt:01a03951-6220-7aab-9115-5c3080d642ba",
       "time": "2026-08-25 22:27:09",
