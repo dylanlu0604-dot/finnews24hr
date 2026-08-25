@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-26 02:43:53",
+  "updated": "2026-08-26 02:47:58",
   "count": 16538,
   "items": [
+    {
+      "id": "mkt:01a03a3d-b120-7aab-9119-227c041ff591",
+      "time": "2026-08-26 02:45:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.N",
+        "Impact bullish"
+      ],
+      "text": "ExxonMobil (XOM.N) said operations at the Liza Unity FPSO in Guyana have returned to normal and that a brief suspension of crude offloading has been completed."
+    },
+    {
+      "id": "5058460",
+      "time": "2026-08-26 02:44:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚表示，蓋亞那麗薩統一號浮式生產儲油卸油輪（FPSO）的運營已恢復正常，此前一度中斷的卸油作業現已完成。"
+    },
+    {
+      "id": "mkt:01a03a3d-25fb-7aab-9119-1f78248dbd2a",
+      "time": "2026-08-26 02:44:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos survey shows 36% of US voters prefer the Democratic Party's handling of cost-of-living issues; 28% prefer the Republican Party's."
+    },
+    {
+      "id": "mkt:01a03a3d-0249-7aab-9119-1799285d58e0",
+      "time": "2026-08-26 02:44:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "US10Y",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【IMF chief GEORGIEVA warns fiscal risks rising, urges countries to rein in debt and deficits】IMF chief GEORGIEVA urged governments to tackle rising fiscal risks and publish credible plans to keep debt and deficits on a sustainable path, and called on central banks to remain highly focused on price stability. She said the global economy is under pressure from high inf and trade tensions, with AI investment partially offsetting shocks; rising bond yields and stalled disinflation signal continued high uncertainty. GEORGIEVA warned the Iran war has not ended and the world faces a tug-of-war between a Middle East-driven negative supply shock and an AI-driven positive demand shock, and flagged energy supply constraints, El Niño weather and AI-related risks to financial stability as material downside risks."
+    },
+    {
+      "id": "5058459",
+      "time": "2026-08-26 02:44:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據路透社/益普索（IPSOS）的民調，美國選民更偏好民主黨應對生活成本問題的政策方向，支援率為36%，共和黨為28%。"
+    },
     {
       "id": "mkt:01a03a39-928a-7aab-9119-0f16b191819d",
       "time": "2026-08-26 02:40:46",
@@ -149558,53 +149610,6 @@
         "市場"
       ],
       "text": "【芝加哥小麥期貨跌約1.8%，大豆油跌1.7%】週二（8月18日）紐約尾盤，彭博穀物分類指數跌0.55%，報32.2859點，美股開盤之前維持小幅上漲的狀態、之後持續下挫。CBOT玉米期貨跌0.36%，CBOT小麥期貨跌1.78%。CBOT大豆期貨跌0.06%，報12.1525美元/蒲式耳，豆粕期貨跌0.19%，豆油期貨跌1.71%。CBOT瘦肉豬期貨跌1.22%，活牛期貨漲0.17%，飼牛期貨漲0.44%。"
-    },
-    {
-      "id": "mkt:01a01632-f4f7-7aab-9080-b7d9bfb5cbdc",
-      "time": "2026-08-19 02:47:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $91.02 a barrel, up $0.15, or 0.17%."
-    },
-    {
-      "id": "5046425",
-      "time": "2026-08-19 02:46:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【通脹、赤字與AI融資齊襲 多國長期主權債收益率升至十餘年高位】從通脹到債務驅動的人工智慧投資熱潮，長期債券正成為投資者各種擔憂的震中，各國政府因此付出更高融資成本。全球主權債的借貸成本都在飆升。本週，30年期美國國債收益率升至2007年以來的最高水平，法國30年期國債收益率重新整理2008年以來的紀錄，德國國債收益率升至2011年水平。英國國債收益率接近6%，類似期限的日本國債收益率也接近歷史最高。儘管這種走勢背後有各國市場自身的因素，但推動收益率上升的結構性力量具有全球性。"
-    },
-    {
-      "id": "5046424",
-      "time": "2026-08-19 02:46:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國證券交易委員會：擬議規則設定一項附條件安全港，豁免 1933 年《證券法》及 1934 年《證券交易法》中 “證券” 定義項下的 “投資合約” 認定。"
-    },
-    {
-      "id": "5046423",
-      "time": "2026-08-19 02:46:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國證券交易委員會：擬議規則包含兩項針對 1933 年《證券法》註冊要求的豁免條款，專門適用於部分涉及加密資產的投資合約。第一項為一次性豁免，允許四年期限內開展最高 500 萬美元的發行活動。第二項豁免將允許每 12 個月內開展最高 7500 萬美元的發行活動。"
-    },
-    {
-      "id": "5046422",
-      "time": "2026-08-19 02:45:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI執行長Sam Altman：我們已暫停部分前沿模型強化學習訓練，以確保能夠針對當前全新能力水平，達到相應的對齊、安全與監控標準。模型迭代如今發展極快，我們此前便表態過，一旦認為模型能力的發展超出安全與對齊工作的推進速度，就會採取行動。\n我們高度重視人工智慧安全。我們認為整個行業必須就通用安全標準開展協同，但在此期間我們也會採取單邊行動。\n我們預計，安全層面的信心將愈發決定人工智慧的發展節奏。我們對正在開展的對齊工作持樂觀態度，同時依舊致力於讓前沿技術能力得到廣泛應用。"
     }
   ]
 }

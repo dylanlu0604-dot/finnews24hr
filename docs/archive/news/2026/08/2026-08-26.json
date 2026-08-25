@@ -1,7 +1,59 @@
 {
   "date": "2026-08-26",
-  "count": 173,
+  "count": 178,
   "items": [
+    {
+      "id": "mkt:01a03a3d-b120-7aab-9119-227c041ff591",
+      "time": "2026-08-26 02:45:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.N",
+        "Impact bullish"
+      ],
+      "text": "ExxonMobil (XOM.N) said operations at the Liza Unity FPSO in Guyana have returned to normal and that a brief suspension of crude offloading has been completed."
+    },
+    {
+      "id": "5058460",
+      "time": "2026-08-26 02:44:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚表示，蓋亞那麗薩統一號浮式生產儲油卸油輪（FPSO）的運營已恢復正常，此前一度中斷的卸油作業現已完成。"
+    },
+    {
+      "id": "mkt:01a03a3d-25fb-7aab-9119-1f78248dbd2a",
+      "time": "2026-08-26 02:44:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos survey shows 36% of US voters prefer the Democratic Party's handling of cost-of-living issues; 28% prefer the Republican Party's."
+    },
+    {
+      "id": "mkt:01a03a3d-0249-7aab-9119-1799285d58e0",
+      "time": "2026-08-26 02:44:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "US10Y",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【IMF chief GEORGIEVA warns fiscal risks rising, urges countries to rein in debt and deficits】IMF chief GEORGIEVA urged governments to tackle rising fiscal risks and publish credible plans to keep debt and deficits on a sustainable path, and called on central banks to remain highly focused on price stability. She said the global economy is under pressure from high inf and trade tensions, with AI investment partially offsetting shocks; rising bond yields and stalled disinflation signal continued high uncertainty. GEORGIEVA warned the Iran war has not ended and the world faces a tug-of-war between a Middle East-driven negative supply shock and an AI-driven positive demand shock, and flagged energy supply constraints, El Niño weather and AI-related risks to financial stability as material downside risks."
+    },
+    {
+      "id": "5058459",
+      "time": "2026-08-26 02:44:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據路透社/益普索（IPSOS）的民調，美國選民更偏好民主黨應對生活成本問題的政策方向，支援率為36%，共和黨為28%。"
+    },
     {
       "id": "mkt:01a03a39-928a-7aab-9119-0f16b191819d",
       "time": "2026-08-26 02:40:46",
