@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-25 09:06:11",
-  "count": 15871,
+  "updated": "2026-08-25 09:10:15",
+  "count": 15877,
   "items": [
+    {
+      "id": "5056412",
+      "time": "2026-08-25 09:09:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【慧為智慧等成立科技新公司 含電子元器件業務】企查查APP顯示，近日，深圳市慧智聯華科技有限公司成立，經營範圍包含：計算器裝置銷售；工業控制計算機及系統銷售；電子產品銷售；電子元器件批發等。企查查股權穿透顯示，該公司由慧為智慧(920876)等共同持股。"
+    },
+    {
+      "id": "5056411",
+      "time": "2026-08-25 09:09:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2946.00元。"
+    },
+    {
+      "id": "te:markets:577713",
+      "time": "2026-08-25 09:08:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Holds Decline — US gasoline futures traded around $3.27 per gallon, holding onto their previous-session losses as investors weighed intensified US economic pressure on Iran. The Trump administration announced plans to impose secondary sanctions on entities facilitating Iran’s economy as part of a new campaign dubbed “Operation Economic Outcast.” Treasury Secretary Scott Bessent said the US was targeting Iran’s financial connections globally and urging other countries to cease economic ties with Tehran. Still, markets remain uncertain whether the measures will ease Iran’s control of the key waterway or instead prolong disruptions. On the demand side, China’s top refiner Sinopec reported that gasoline consumption fell 8% in the first half of 2026, as higher prices and growing electric-vehicle adoption weighed on demand. Meanwhile, US refineries have been running above 95% capacity for more than 11 weeks, the longest sustained stretch in over 25 years."
+    },
+    {
+      "id": "mkt:01a03675-a84c-7aab-9101-5a0142c680e7",
+      "time": "2026-08-25 09:07:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Third China-US 1.5-track dialogue held in Beijing】The third China-US 1.5-track dialogue was held in Beijing today. Delegations from Chinese ministries, local governments and think tanks and representatives including the US Asia Society discussed boosting political trust, expanding trade cooperation and exploring AI and broader technology collaboration. Launched in 2023 as a channel between formal diplomacy and Track-2 engagement, the 1.5-track format convenes party, strategic, corporate, academic and civil actors and has previously put forward concrete proposals on political, economic, technology and cultural cooperation."
+    },
+    {
+      "id": "5056410",
+      "time": "2026-08-25 09:07:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本東京海上控股正在評估多個收購目標，包括澳大利亞的IAG和Suncorp，以及加拿大的Intact Financial。"
+    },
+    {
+      "id": "5056409",
+      "time": "2026-08-25 09:07:05",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美1.5軌對話今天在北京舉行】今天（25日），第三屆中美1.5軌對話在北京舉行。來自中方相關部委、地方政府、智庫以及美國亞洲協會等中美代表，將圍繞增進政治互信、拓展經貿合作，探索人工智慧與科技合作等議題深入探討。創立於2023年的中美1.5軌對話，介於官方正式外交（一軌）和純民間（二軌）對話之間，是中美政黨、戰略界、工商界、學術界、民間重要的溝通交流平臺，曾為加強兩國政治、經貿、科技、人文等領域交流合作提出諸多具體建議。（央視新聞）"
+    },
+    {
+      "id": "5056408",
+      "time": "2026-08-25 09:06:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1%至44,311.00點。"
+    },
+    {
+      "id": "5056407",
+      "time": "2026-08-25 09:05:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股停牌提示：6股今日停牌】Wind資料顯示，8月25日，瓦軸B、湖南黃金、ST長園等6只個股停牌。"
+    },
     {
       "id": "5056406",
       "time": "2026-08-25 09:04:48",
@@ -10,6 +83,14 @@
         "焦點"
       ],
       "text": "純鹼連續主力合約日內跌1%，現報1046.00元。"
+    },
+    {
+      "id": "5056405",
+      "time": "2026-08-25 09:04:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委黨委傳達學習二十屆中央紀委第六次全體會議精神】8月24日，國務院國資委黨委召開擴大會議，傳達學習二十屆中央紀律檢查委員會第六次全體會議精神，強調要深入學習貫徹習近平新時代中國特色社會主義思想特別是習近平黨建思想，堅定擁護“兩個確立”、堅決做到“兩個維護”，以黨的政治建設為統領，堅決貫徹落實習近平總書記重要指示批示和黨中央重大決策部署，結合國資央企工作實際採取更加科學、嚴密、有效的舉措，貫通推進正風肅紀反腐，以全面從嚴治黨新成效為國資央企高質量發展提供堅強保障。國務院國資委黨委書記、主任程福波主持會議並講話。中央紀委國家監委駐國務院國資委紀檢監察組組長、國務院國資委黨委委員龔堂華傳達了中央紀委全會精神。國務院國資委黨委委員出席會議並分別發言。國務院國資委秘書長、總會計師列席會議。\n\n會議認為，二十屆中央紀委第六次全體會議對學習貫徹習近平黨建思想、做好下階段紀檢監察工作提出了明確要求。國資央企各級黨組織要學習好、貫徹好、落實好全會精神，切實強化思想引領，進一步增強抓全面從嚴治黨的政治自覺，學好用好《習近平黨建文選》，做深做實中央企業基層黨組織基本培訓，持續開展大學習、大討論，深刻領會這一重要思想的科學體系、豐富內涵、精神實質、實踐要求，堅持從中找理念、找方法、找答案，確保國資央企黨風廉政建設和反腐敗工作始終沿著正確政治方向前進。\n\n會議強調，要壓實政治責任，進一步健全管黨治黨責任落實機制。國資央企要牢固樹立抓全面從嚴治黨就是抓高質量發展的理念，加強對本單位本系統全面從嚴治黨工作的領導，逐級壓實管黨治黨政治責任，堅持全覆蓋從嚴，督促推動各級黨組織壓實主體責任、第一責任人責任和“一崗雙責”，確保責任要求穿透落地；堅持全週期管理，深化以案促改促治，舉一反三強化決策監督、述責述廉、監督談話等制度落實；堅持全鏈條協作，全力支援“紀檢監察工作規範化法治化正規化建設年”行動向縱深推進，做好監察再派出工作，健全出資人監督與紀檢監察監督、審計監督、巡視監督等各類監督有機貫通、相互協調的工作機制，形成各類責任主體齊抓共管的良好工作格局。"
     },
     {
       "id": "5056404",
@@ -143854,30 +143935,6 @@
         "Importance 1"
       ],
       "text": "Soybeans Hit 3-Week High — Soybean futures rose above $12 per bushel, hitting a three-week high as stronger soybean crushing activity and higher crude oil prices supported the market. The National Oilseed Processors Association data showed members crushed 216.647 million bushels of US soybeans in July, up 1.1% from June and 10.7% from a year earlier. However, the daily crush rate eased to 6.989 million bushels from 7.145 million a month earlier. Traders now await the Pro Farmer field tour for fresh indications on US soybean yields after the USDA lowered its official yield forecasts last week. Heavy Midwest rainfall has also raised concerns over excess moisture and crop conditions. Elsewhere, Chinese demand continued to provide support, with traders reporting that China had already purchased around 7 million metric tons of US soybeans. Meanwhile, disruptions to Russian and Ukrainian grain shipments through the Black Sea, including reduced loadings at Russian ports, added broader support to agricultural markets."
-    },
-    {
-      "id": "mkt:01a01269-9e5b-7aab-906b-d12ef0557f1b",
-      "time": "2026-08-18 09:08:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee said the U.S.-South Korea alliance and an independent defense capability are complementary."
-    },
-    {
-      "id": "5044945",
-      "time": "2026-08-18 09:07:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國產算力巨頭晶片賣爆了】8月中旬，海光資訊披露成績單，1—6月，收入約91億元，淨利約18億元；尤其二季度，利潤超過11億元，創下單季盈利新高。 賣晶片的海光，搭上兩班快車：CPU重新變得重要，其恰處國產第一梯隊；DCU受益於AI推理需求爆發，其忙著跟前沿大模型實現Day0適配。 截至8月17日收盤，其股價較年初漲了28.8%，總市值超過6700億元。（21財經）"
-    },
-    {
-      "id": "mkt:01a01267-e3b9-7aab-906b-cf9f613dd47e",
-      "time": "2026-08-18 09:06:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee said a strong national defense is the cornerstone of building an irreplaceable Korea."
     }
   ]
 }
