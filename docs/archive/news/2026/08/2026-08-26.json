@@ -1,7 +1,187 @@
 {
   "date": "2026-08-26",
-  "count": 49,
+  "count": 67,
   "items": [
+    {
+      "id": "mkt:01a039e1-0baa-7aab-9117-b0053732c57c",
+      "time": "2026-08-26 01:04:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's tax authority said July federal tax revenue was 289.346 billion reais, up 8.97% YoY."
+    },
+    {
+      "id": "5058400",
+      "time": "2026-08-26 01:03:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本金融廳、財務省、日本央行與金融機構將成立一個研究小組。"
+    },
+    {
+      "id": "5058399",
+      "time": "2026-08-26 01:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生部計劃為FDA增設科技領域副專員與藥品領域副專員崗位。"
+    },
+    {
+      "id": "mkt:01a039df-f63b-7aab-9117-a99a311d797d",
+      "time": "2026-08-26 01:02:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 2-year Treasury auction as of Aug 25 — percentage of allotment at the stop-out yield 85.68% (prev. 69.04%)."
+    },
+    {
+      "id": "mkt:01a039df-cf65-7aab-9117-a4d47b1d5520",
+      "time": "2026-08-26 01:02:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. 2-year Treasury auction Aug. 25 — stop-out yield 4.204%, prior 4.32%."
+    },
+    {
+      "id": "mkt:01a039df-c211-7aab-9117-9cc40c35effb",
+      "time": "2026-08-26 01:02:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Accepted at High (Aug.25) | actual 85.68% | previous 69.04%"
+    },
+    {
+      "id": "mkt:01a039df-b0bd-7aab-9117-964f0db16630",
+      "time": "2026-08-26 01:02:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 2-year Treasury auction on Aug 25: bid-cover ratio 2.60, prior 2.66."
+    },
+    {
+      "id": "mkt:01a039df-a844-7aab-9117-88c1876f98ac",
+      "time": "2026-08-26 01:02:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction High Yield Rate (Aug.25) | actual 4.204% | previous 4.32%"
+    },
+    {
+      "id": "5058398",
+      "time": "2026-08-26 01:02:33",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.204%（7月27日為4.315%，創2024年12月以來最高），投標倍數2.60（前次為2.66）。"
+    },
+    {
+      "id": "mkt:01a039df-88ea-7aab-9117-86d18999c647",
+      "time": "2026-08-26 01:02:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Bid/Cover Ratio (Aug.25) | actual 2.6 | previous 2.66"
+    },
+    {
+      "id": "mkt:01a039df-1ba3-7aab-9117-7abf5347f385",
+      "time": "2026-08-26 01:01:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "BMO expects the Canadian economy to resume moderate expansion."
+    },
+    {
+      "id": "mkt:01a039df-11b6-7aab-9117-7671a1f6c8d1",
+      "time": "2026-08-26 01:01:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "BMO says a USMCA renegotiation would pose material risks to trade policy and the Canadian economy and expects Canada will continue to benefit from compliance waivers, leaving most exports eligible for duty-free entry into the US."
+    },
+    {
+      "id": "5058397",
+      "time": "2026-08-26 01:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西聯邦稅務局資料顯示，7月聯邦稅收總額為2893.46億雷亞爾（合564億美元）。"
+    },
+    {
+      "id": "5058396",
+      "time": "2026-08-26 01:00:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "在690億美元拍賣前，2年期美國國債收益率約為4.208%。"
+    },
+    {
+      "id": "mkt:01a039de-1047-7aab-9117-6d9dac0d23e7",
+      "time": "2026-08-26 01:00:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "BMO says the latest US tariffs could reduce Canada's annual GDP growth."
+    },
+    {
+      "id": "mkt:01a039dd-c240-7aab-9117-62d878e4d18f",
+      "time": "2026-08-26 01:00:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "BMO says the North American economy remains resilient despite risks."
+    },
+    {
+      "id": "5058395",
+      "time": "2026-08-26 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.65%，滬銅收漲0.50%，滬鋁收漲0.74%，滬鋅收漲1.23%，滬鉛收漲0.06%，滬鎳收跌0.02%，滬錫收漲0.04%。氧化鋁夜盤收跌1.00%，鋁合金收漲0.52%。不鏽鋼夜盤收漲1.59%。"
+    },
+    {
+      "id": "5058394",
+      "time": "2026-08-26 00:58:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本大金在墨西哥擴大產能，新建資料中心冷卻裝置工廠。"
+    },
     {
       "id": "5058393",
       "time": "2026-08-26 00:54:39",

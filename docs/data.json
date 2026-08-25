@@ -1,7 +1,187 @@
 {
-  "updated": "2026-08-26 00:56:29",
-  "count": 16503,
+  "updated": "2026-08-26 01:05:12",
+  "count": 16510,
   "items": [
+    {
+      "id": "mkt:01a039e1-0baa-7aab-9117-b0053732c57c",
+      "time": "2026-08-26 01:04:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's tax authority said July federal tax revenue was 289.346 billion reais, up 8.97% YoY."
+    },
+    {
+      "id": "5058400",
+      "time": "2026-08-26 01:03:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本金融廳、財務省、日本央行與金融機構將成立一個研究小組。"
+    },
+    {
+      "id": "5058399",
+      "time": "2026-08-26 01:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生部計劃為FDA增設科技領域副專員與藥品領域副專員崗位。"
+    },
+    {
+      "id": "mkt:01a039df-f63b-7aab-9117-a99a311d797d",
+      "time": "2026-08-26 01:02:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 2-year Treasury auction as of Aug 25 — percentage of allotment at the stop-out yield 85.68% (prev. 69.04%)."
+    },
+    {
+      "id": "mkt:01a039df-cf65-7aab-9117-a4d47b1d5520",
+      "time": "2026-08-26 01:02:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. 2-year Treasury auction Aug. 25 — stop-out yield 4.204%, prior 4.32%."
+    },
+    {
+      "id": "mkt:01a039df-c211-7aab-9117-9cc40c35effb",
+      "time": "2026-08-26 01:02:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Accepted at High (Aug.25) | actual 85.68% | previous 69.04%"
+    },
+    {
+      "id": "mkt:01a039df-b0bd-7aab-9117-964f0db16630",
+      "time": "2026-08-26 01:02:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 2-year Treasury auction on Aug 25: bid-cover ratio 2.60, prior 2.66."
+    },
+    {
+      "id": "5058398",
+      "time": "2026-08-26 01:02:33",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.204%（7月27日為4.315%，創2024年12月以來最高），投標倍數2.60（前次為2.66）。"
+    },
+    {
+      "id": "mkt:01a039df-a844-7aab-9117-88c1876f98ac",
+      "time": "2026-08-26 01:02:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction High Yield Rate (Aug.25) | actual 4.204% | previous 4.32%"
+    },
+    {
+      "id": "mkt:01a039df-88ea-7aab-9117-86d18999c647",
+      "time": "2026-08-26 01:02:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 2-Year Note Auction Bid/Cover Ratio (Aug.25) | actual 2.6 | previous 2.66"
+    },
+    {
+      "id": "mkt:01a039df-1ba3-7aab-9117-7abf5347f385",
+      "time": "2026-08-26 01:01:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "BMO expects the Canadian economy to resume moderate expansion."
+    },
+    {
+      "id": "mkt:01a039df-11b6-7aab-9117-7671a1f6c8d1",
+      "time": "2026-08-26 01:01:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "BMO says a USMCA renegotiation would pose material risks to trade policy and the Canadian economy and expects Canada will continue to benefit from compliance waivers, leaving most exports eligible for duty-free entry into the US."
+    },
+    {
+      "id": "5058397",
+      "time": "2026-08-26 01:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西聯邦稅務局資料顯示，7月聯邦稅收總額為2893.46億雷亞爾（合564億美元）。"
+    },
+    {
+      "id": "5058396",
+      "time": "2026-08-26 01:00:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "在690億美元拍賣前，2年期美國國債收益率約為4.208%。"
+    },
+    {
+      "id": "mkt:01a039de-1047-7aab-9117-6d9dac0d23e7",
+      "time": "2026-08-26 01:00:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "BMO says the latest US tariffs could reduce Canada's annual GDP growth."
+    },
+    {
+      "id": "mkt:01a039dd-c240-7aab-9117-62d878e4d18f",
+      "time": "2026-08-26 01:00:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "BMO says the North American economy remains resilient despite risks."
+    },
+    {
+      "id": "5058395",
+      "time": "2026-08-26 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.65%，滬銅收漲0.50%，滬鋁收漲0.74%，滬鋅收漲1.23%，滬鉛收漲0.06%，滬鎳收跌0.02%，滬錫收漲0.04%。氧化鋁夜盤收跌1.00%，鋁合金收漲0.52%。不鏽鋼夜盤收漲1.59%。"
+    },
+    {
+      "id": "5058394",
+      "time": "2026-08-26 00:58:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本大金在墨西哥擴大產能，新建資料中心冷卻裝置工廠。"
+    },
     {
       "id": "5058393",
       "time": "2026-08-26 00:54:39",
@@ -149147,100 +149327,6 @@
         "XAUUSD"
       ],
       "text": "Markets, anticipating effects from global risk aversion, priced Argentina's country risk index at 500bps, the highest since June 10."
-    },
-    {
-      "id": "5046385",
-      "time": "2026-08-19 01:04:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "交易商：受全球風險規避情緒影響，阿根廷國家風險溢價攀升至 500 個基點，創 6 月 10 日以來新高。"
-    },
-    {
-      "id": "mkt:01a015d4-9a29-7aab-907f-78e02837a6e6",
-      "time": "2026-08-19 01:04:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury announces new sanctions related to the International Criminal Court."
-    },
-    {
-      "id": "5046384",
-      "time": "2026-08-19 01:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛杉磯港7月貨物吞吐量接近歷史紀錄。"
-    },
-    {
-      "id": "5046383",
-      "time": "2026-08-19 01:03:46",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：美國針對國際刑事法院出臺新一輪制裁。"
-    },
-    {
-      "id": "mkt:01a015d2-be66-7aab-907f-75c382a59d84",
-      "time": "2026-08-19 01:02:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ghalibaf said Americans believe increased pressure on Iran will force concessions, but those concessions were never part of the agreement; he said US Treasury Secretary BESSENT and Defense Secretary Hegseth are powerless."
-    },
-    {
-      "id": "5046382",
-      "time": "2026-08-19 01:02:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭議會議長卡利巴夫： 美國人以為對伊朗施加更大壓力，就能拿到協議中從未包含的讓步。貝森特與赫格塞斯完全不自量力。別再指望這群跳樑小醜能變出什麼奇蹟，趕緊收拾你們自己捅出來的爛攤子。"
-    },
-    {
-      "id": "5046381",
-      "time": "2026-08-19 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.06%，滬銅收跌0.89%，滬鋁收跌0.75%，滬鋅收跌1.07%，滬鉛收漲0.47%，滬鎳收跌0.25%，滬錫收跌1.21%。氧化鋁夜盤收跌0.07%，鋁合金收跌0.46%。不鏽鋼夜盤收漲0.25%。"
-    },
-    {
-      "id": "5046380",
-      "time": "2026-08-19 00:59:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔斯尼姆通訊社：沙特僱傭兵襲擊葉門塔伊茲省多地。"
-    },
-    {
-      "id": "mkt:01a015cf-bfd4-7aab-907f-6a7f04dc252d",
-      "time": "2026-08-19 00:58:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Ukrainian forces launched an airstrike in Russia's Belgorod region, killing one and wounding three."
-    },
-    {
-      "id": "5046379",
-      "time": "2026-08-19 00:58:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛一週內達成第二筆交易，收購LCN瞄準“省心收租”模式】高盛集團一週內達成第二筆交易，繼續推進擴大其4萬億美元資產管理業務的計劃。高盛財富與資產管理部門主管Marc Nachmann時表示，這家華爾街巨頭將支付不超4.1億美元，收購商業地產投資公司LCN Capital Partners。LCN主要業務是售後回租協議和“三重淨租賃”專案。"
-    },
-    {
-      "id": "mkt:01a015ce-c218-7aab-907f-6695416e0a49",
-      "time": "2026-08-19 00:57:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Anthropic draws bank demand; pre-IPO revolving credit may top $10bn】Anthropic is expanding a planned revolving credit facility ahead of an IPO, with the size now expected to exceed about $10bn, sources said. The AI firm, developer of Claude, has pitched higher allocations to banks: lead arrangers were asked to commit roughly $1.25bn each, a second tier about $1.0bn, and less-active banks around $0.75bn or lower."
     }
   ]
 }
