@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-25 13:15:40",
-  "count": 16002,
+  "updated": "2026-08-25 13:19:43",
+  "count": 16010,
   "items": [
+    {
+      "id": "mkt:01a0375b-4e0f-7aab-9107-4d0e329d9ad4",
+      "time": "2026-08-25 13:18:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share PCB stocks rebounded after probing intraday lows; Jin'an Guoji hit the daily limit, with Xunjie Xing, Qiangrui Technology, Tiantong and Hangdian among the top gainers."
+    },
+    {
+      "id": "5056787",
+      "time": "2026-08-25 13:18:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）抹去一度高達4.3%的跌幅，現持平。"
+    },
+    {
+      "id": "5056786",
+      "time": "2026-08-25 13:17:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念午後震盪反彈 金安國紀直線漲停】午後PCB概念震盪反彈，金安國紀直線漲停，迅捷興漲超10%，南亞新材、嘉立創、金百澤、生益科技、華正新材漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a03759-b36c-7aab-9107-47f2c746dd8b",
+      "time": "2026-08-25 13:17:00",
+      "tags": [
+        "MKT News",
+        "HON.O",
+        "Impact bearish"
+      ],
+      "text": "HSBC cut Honeywell (HON.O) price target to $288 from $299.79."
+    },
+    {
+      "id": "5056785",
+      "time": "2026-08-25 13:16:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔通訊與塔塔汽車攜手合作，共同推進5G車載技術；塔塔通訊將在塔塔汽車Sierra電動車中嵌入5G技術。"
+    },
+    {
+      "id": "mkt:01a03758-9ba2-7aab-9107-3aa4c4d03e24",
+      "time": "2026-08-25 13:15:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's CSI 1000 index futures main contract (IM) rose above 7,500, up 1.56% intraday."
+    },
+    {
+      "id": "5056784",
+      "time": "2026-08-25 13:14:58",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【三大股指午後全線翻紅】A股三大股指午後拉昇，上證綜指現漲0.26%，深證成指漲0.23%，創業板指翻紅，早盤一度額跌超2%。"
+    },
+    {
+      "id": "mkt:01a03757-c08b-7aab-9107-31d412448327",
+      "time": "2026-08-25 13:14:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【China A-shares benchmarks turn positive in afternoon】China A-shares rallied in the afternoon: Shanghai Composite Index +0.26%, Shenzhen Composite Index +0.23%. ChiNext returned to positive after an earlier intraday drop of more than 2%."
+    },
+    {
+      "id": "5056783",
+      "time": "2026-08-25 13:14:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.01%，成分股中，石頭科技漲20.00%，寒武紀漲6.08%，思特威漲3.03%，源傑科技漲2.85%。"
+    },
     {
       "id": "5056782",
       "time": "2026-08-25 13:14:01",
@@ -145079,16 +145167,6 @@
         "其他"
       ],
       "text": "【雲南華寧小船側翻致5人遇難】8月18日，據雲南省玉溪市華寧縣人民政府新聞辦公室通報，8月12日發生在華寧縣盤溪鎮南盤江水域的村民自用小船側翻事件，經全力搜救和鑑定確認，其餘3名失聯人員全部搜尋到，已無生命體徵，事件共造成5人遇難。目前，善後工作正在有序開展。連日來，玉溪市、華寧縣統籌應急、消防、公安等470餘名救援力量展開搜救。（新華社）"
-    },
-    {
-      "id": "5045262",
-      "time": "2026-08-18 13:19:02",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "索尼金融集團：除非供需狀況和持續的通脹擔憂得到改善，否則日本國債收益率可能繼續面臨上行壓力。"
     }
   ]
 }
