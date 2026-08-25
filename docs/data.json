@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-25 23:51:18",
-  "count": 16494,
+  "updated": "2026-08-25 23:55:27",
+  "count": 16498,
   "items": [
+    {
+      "id": "5058367",
+      "time": "2026-08-25 23:54:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美1.5軌對話代表期待雙方加強務實合作】8月25日，由中共中央對外聯絡部和美國亞洲協會共同主辦的第三屆中美1.5軌對話在北京舉行，主題為“建設性戰略穩定——新時代中美務實合作”。中方有關部門、地方政府、智庫、高校以及美國戰略界、工商界約40名中外代表參加。（新華社）"
+    },
+    {
+      "id": "mkt:01a039a0-fdec-7aab-9116-b93779102048",
+      "time": "2026-08-25 23:54:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported Yemen government-aligned Giant Brigade used drones to strike Houthi positions in southern Hudaydah; the brigade said the attack killed more than 33 Houthi fighters, including several field commanders."
+    },
+    {
+      "id": "mkt:01a039a0-4125-7aab-9116-b54af9ebd219",
+      "time": "2026-08-25 23:53:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Industry Minister Joly said Ottawa has taken prudent, strategic measures to counter tariffs."
+    },
+    {
+      "id": "mkt:01a039a0-147f-7aab-9116-ab3cbd8a7ebc",
+      "time": "2026-08-25 23:53:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Industry Minister Joly said retaliatory tariffs are intended to exert political pressure on certain states."
+    },
+    {
+      "id": "5058366",
+      "time": "2026-08-25 23:52:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大工業部長喬利：關稅針對（美國）特定州，意在施加政治壓力。"
+    },
+    {
+      "id": "te:economy:578013",
+      "time": "2026-08-25 23:51:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yields Drop From 20-Month High — The yield on the 10-year US Treasury note eased to 4.65% from the 20-month high of 4.75% on August 21st, as lower energy prices softened concerns of higher inflation in the near term. Oil and fuel prices eased after the US opted to tighten sanctions on Iran, refraining from more military threats. Still, longer-term yields remained sharply higher on the month. The Treasury stated it would use its general account balance to increase the buyback of long-term securities. This added to efforts to compress yields after the joint intervention on the Japanese yen by selling euros and the request for the Fed to increase the limit on its FIMA facility. Yields on the longer end of the curve had surged since July amid soaring debt issuance from AI companies and higher deficit spending by the federal government. Long-term yields also rose after Fed Chairman Warsh signaled that a rate hike may not be his preferred tool to combat higher inflation, increasing the stakes of his speech in Jackson Hole."
+    },
     {
       "id": "5058365",
       "time": "2026-08-25 23:50:35",
@@ -149135,30 +149188,6 @@
         "國際"
       ],
       "text": "市場訊息：日本為特朗普在美國中期選舉前就防務和日元問題提出要求做準備。"
-    },
-    {
-      "id": "mkt:01a01595-25c9-7aab-907f-059ad080a6bc",
-      "time": "2026-08-18 23:54:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Nikkei reports Japan is preparing for possible demands from Trump on defense policy and the yen ahead of U.S. midterm elections."
-    },
-    {
-      "id": "te:markets:576208",
-      "time": "2026-08-18 23:53:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls for Sixth Straight Session — The CAC 40 fell 0.8% to close at 8,509 on Tuesday, extending its losing streak to a sixth straight session and hitting a near three-week low as optimism over a Middle East peace deal faded. Oil prices climbed after US President Donald Trump said he was not interested in extending the interim peace deal with Iran. Global bond yields rose as energy-driven inflation concerns persisted. Financials moved lower, with BNP Paribas down 1.6%, Crédit Agricole losing 2% and Société Générale shedding 2.5%. Industrials also posted losses, with Airbus down 2.1% and Safran retreating 2.2%. Technology stocks tumbled, tracking a selloff in US chipmakers. STMicroelectronics sank 7.6% and Schneider Electric fell 4.4%. Meanwhile, the luxury sector rebounded after posting sharp losses the previous day amid slowing Chinese retail sales. L’Oréal added 1.6%, LVMH rose 0.4% and Hermès gained 0.7%. TotalEnergies rose 1.8% on higher oil prices. Other notable performers included Sanofi and EssilorLuxottica."
     }
   ]
 }
