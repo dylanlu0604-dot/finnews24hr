@@ -1,7 +1,31 @@
 {
   "date": "2026-08-26",
-  "count": 216,
+  "count": 219,
   "items": [
+    {
+      "id": "mkt:01a03a62-0180-7aab-9119-b6f6d9a53e3d",
+      "time": "2026-08-26 03:24:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: ECB plans September rate rise but not to signal further tightening】Sources said ECB policymakers are prepared to raise the policy rate at the September meeting, lifting it from 2.25% to 2.50% to offset economic fallout from the Iran conflict, but have no intention of signalling further tightening beyond September. Euro area inflation is near 3%, the conflict persists and growth shows resilience; the September hike is already built into the ECB’s June economic projections and is aimed at avoiding a repeat of the 2022 energy-driven inflation surge. Long-term inflation expectations remain anchored near the 2% target. Markets currently price one to two additional ECB hikes as possible."
+    },
+    {
+      "id": "mkt:01a03a60-05d5-7aab-9119-aedee6e7d838",
+      "time": "2026-08-26 03:22:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge said the Postal Service's final rule restricting mail-in voting violated a court order but declined to enjoin it."
+    },
+    {
+      "id": "5058482",
+      "time": "2026-08-26 03:22:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官表示，美國郵政署釋出限制郵寄投票的最終規定，此舉違反法院命令，但法官不會採取措施阻止該規定生效。"
+    },
     {
       "id": "mkt:01a03a5e-1b2c-7aab-9119-a03bf6c0bf01",
       "time": "2026-08-26 03:20:40",
