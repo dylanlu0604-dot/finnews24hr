@@ -1,7 +1,141 @@
 {
-  "updated": "2026-08-25 08:13:41",
-  "count": 15874,
+  "updated": "2026-08-25 08:18:03",
+  "count": 15879,
   "items": [
+    {
+      "id": "mkt:01a03647-1334-7aab-9100-e443f48d01e3",
+      "time": "2026-08-25 08:17:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI index plunged 4.00% intraday; Samsung Electronics fell 4.00%, SK Hynix declined 6.00%."
+    },
+    {
+      "id": "5056339",
+      "time": "2026-08-25 08:16:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率持平於2.88%。"
+    },
+    {
+      "id": "5056338",
+      "time": "2026-08-25 08:16:20",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌4%至6426.84點。"
+    },
+    {
+      "id": "5056337",
+      "time": "2026-08-25 08:16:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國債破40萬億誰在買單】美國國債總額首次突破40萬億美元。這個看似與普通人不相關的天文數字，正在透過利率、貸款、工資乃至生活成本等渠道，傳導至美國人的日常生活。首先受到影響的，是普通人的借貸成本。隨著美國政府發行越來越多國債，債券收益率面臨上行壓力，而國債收益率又是整個經濟體系利率的重要基準。利率走高後，房貸、汽車貸款、學生貸款、企業貸款和信用卡債務都會變得更加昂貴。耶魯大學預算實驗室的分析顯示，2015年至2025年間聯邦債務增長使美國典型住宅抵押貸款每年的成本增加約2500美元，普通汽車貸款增加約120美元。高昂的借貸成本還深刻影響人們的生活決策，從購房置業到日常搬遷，這些原本平常的變動，都可能因過高的貸款成本而舉步維艱。（環球時報）"
+    },
+    {
+      "id": "mkt:01a03645-e821-7aab-9100-d9fc61cba60e",
+      "time": "2026-08-25 08:15:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【China International Capital Co: Wash likely to reiterate inflation risks, keep rate‑hike option to rebuild credibility】China International Capital Co says market focus is Jackson Hole and a speech by Wash. His prior comment to “let the market do the Fed’s tightening” failed to ease inflation worries; combined with failed U.S. Treasury intervention this eroded policy credibility and pushed U.S. yields higher. CICC expects Wash to reiterate inflation risks and preserve the option to hike to rebuild credibility, while continuing to push for reduced central‑bank intervention and less frequent communication. He has not abandoned a “balance‑sheet reduction + rate cuts” policy concept, but its underlying assumptions appear misaligned with current conditions and need clearer coordination. If Wash demonstrates policy flexibility, pressure on U.S. Treasuries could ease and the dollar be supported; if not, trust may continue to fade, long‑end U.S. yields could rise further and the dollar come under pressure."
+    },
+    {
+      "id": "5056336",
+      "time": "2026-08-25 08:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月25日0時至8月28日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a03645-4e25-7aab-9100-d5c63522dabf",
+      "time": "2026-08-25 08:15:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,690/oz intraday, up 0.82%."
+    },
+    {
+      "id": "5056335",
+      "time": "2026-08-25 08:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統：委內瑞拉匯率價差兩個月內縮減過半。"
+    },
+    {
+      "id": "5056334",
+      "time": "2026-08-25 08:14:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4690美元/盎司，日內漲0.85%。"
+    },
+    {
+      "id": "5056333",
+      "time": "2026-08-25 08:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "海力士工會成員投票否決了初步協議，50.1%的投票者投出反對票。"
+    },
+    {
+      "id": "mkt:01a03644-fc60-7aab-9100-cde661f6afc3",
+      "time": "2026-08-25 08:14:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Venezuela's interim president said he has signed 50 oil and gas agreements to date and attracted new investment in 76 oilfields."
+    },
+    {
+      "id": "5056332",
+      "time": "2026-08-25 08:13:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【西門子能源據稱將聘請高盛出售蒸汽渦輪機業務股權】當地時間8月24日，據報道，知情人士透露，西門子能源公司正與高盛集團合作，準備就其蒸汽渦輪機業務的多數股權啟動競標報價。知情人士稱，西門子能源計劃於週二（25日）召開董事會會議，決定如何推進其“工業轉型”業務部門的剝離事宜。"
+    },
+    {
+      "id": "mkt:01a03643-733e-7aab-9100-c1308c1a0ddb",
+      "time": "2026-08-25 08:13:05",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【CITIC Securities: US semiconductor-equipment allocation value rises after July 2026 pullback】CITIC Securities says the July 2026 pullback has increased the allocation case for the US semiconductor-equipment sector. The report expects the AI-driven equipment upcycle to continue at least through 2028 and warns of a persistent market expectation gap over large downstream customers’ capex for 2027–28. On supply, vendors and upstream suppliers are expanding capacity against orders, supporting equipment deliveries. The firm recommends focusing on equipment vendors with rising subsegment share, larger memory exposure, or distinctive demand drivers."
+    },
     {
       "id": "5056331",
       "time": "2026-08-25 08:12:46",
@@ -143819,79 +143953,6 @@
         "公司"
       ],
       "text": "【遇見小面連續4年降價 上半年客單下降11.5%】8月17日，廣州遇見小面餐飲股份有限公司釋出2026年上半年中期業績公告。公告顯示，2026年上半年公司同店訂單平均消費額（客單價）由上年同期的人民幣31.3元降至人民幣27.7元，同比下降11.5%。這是遇見小面自2022年以來連續第四年主動下調菜品價格，持續踐行“為顧客提供更實惠用餐體驗”的承諾。"
-    },
-    {
-      "id": "mkt:01a0123a-b78b-7aab-906a-d207eb0ba85a",
-      "time": "2026-08-18 08:17:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【China expands fund advisory licenses as pilot moves toward regularization】With the end‑of‑August filing deadline approaching, a new round of approvals for fund advisory licenses has entered its final sprint. Since the pilot began in 2019 the number of licensed fund advisers has risen from 5 to 60; industry participants say the expansion, coinciding with the window to convert the pilot into a routine regime, marks a key transition toward normalizing fund advisory services."
-    },
-    {
-      "id": "5044884",
-      "time": "2026-08-18 08:17:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【胡慶餘堂藥業年產22億粒膠囊劑生產車間建設專案開工】據上海醫藥訊息，8月15日上午，上海醫藥旗下杭州胡慶餘堂藥業有限公司年產22億粒膠囊劑生產車間建設專案開工。據介紹，本次年產22億粒膠囊劑智慧車間專案是突破產能瓶頸、落地公司大品種戰略的關鍵舉措。"
-    },
-    {
-      "id": "5044883",
-      "time": "2026-08-18 08:16:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【基金投顧牌照持續擴容 行業發展迎新機遇】隨著8月末申報節點臨近，基金投顧牌照新一輪擴容進入衝刺階段。自2019年基金投顧試點啟動以來，試點機構已從首批5家擴容至60家。本次擴容恰逢試點轉常規的關鍵視窗期，業內人士判斷，這是基金投顧從試點探索邁向常規化發展的重要過渡階段。（經濟參考報）"
-    },
-    {
-      "id": "5044882",
-      "time": "2026-08-18 08:16:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加7.13噸】截至2026年08月17日，全球最大的黃金ETF SPDR Gold Trust持倉量為1030.66噸，較前一個交易日增加7.13噸。"
-    },
-    {
-      "id": "mkt:01a01239-968e-7aab-906a-cbc8d1301673",
-      "time": "2026-08-18 08:15:58",
-      "tags": [
-        "MKT News",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "SoftBank Group shares rose 5.5%."
-    },
-    {
-      "id": "5044881",
-      "time": "2026-08-18 08:15:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價上漲5.5%。"
-    },
-    {
-      "id": "5044880",
-      "time": "2026-08-18 08:14:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統：初步資料估算地震損失達30萬億比索。"
-    },
-    {
-      "id": "5044879",
-      "time": "2026-08-18 08:13:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南：全學段普及人工智慧通識教育】 日前，雲南省教育廳等部門聯合印發《雲南省“人工智慧+教育”行動方案》，方案提出，全學段普及人工智慧通識教育。構建中小學人工智慧通識教育課程體系，編制和推廣使用人工智慧通識教育讀本和教材，指導各地各校開好人工智慧通識課程，確保四年級、七年級每週1課時，其他年級每學年不少於8個課時。鼓勵各地各校因地制宜，開發融入生物多樣性、綠色能源等本土元素的特色人工智慧融合課程。推動職業院校將人工智慧納入公共基礎課與專業拓展課，中職側重基礎認知與工具應用，高職側重場景應用與方案設計，課程實踐教學內容不低於50%。推動高校分類建設人工智慧公共基礎課模組，覆蓋文、理、工、農、醫等全學科，原則上不少於2學分或32學時。"
     }
   ]
 }

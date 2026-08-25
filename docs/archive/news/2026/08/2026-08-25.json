@@ -1,7 +1,141 @@
 {
   "date": "2026-08-25",
-  "count": 496,
+  "count": 509,
   "items": [
+    {
+      "id": "mkt:01a03647-1334-7aab-9100-e443f48d01e3",
+      "time": "2026-08-25 08:17:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI index plunged 4.00% intraday; Samsung Electronics fell 4.00%, SK Hynix declined 6.00%."
+    },
+    {
+      "id": "5056339",
+      "time": "2026-08-25 08:16:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率持平於2.88%。"
+    },
+    {
+      "id": "5056338",
+      "time": "2026-08-25 08:16:20",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌4%至6426.84點。"
+    },
+    {
+      "id": "5056337",
+      "time": "2026-08-25 08:16:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國債破40萬億誰在買單】美國國債總額首次突破40萬億美元。這個看似與普通人不相關的天文數字，正在透過利率、貸款、工資乃至生活成本等渠道，傳導至美國人的日常生活。首先受到影響的，是普通人的借貸成本。隨著美國政府發行越來越多國債，債券收益率面臨上行壓力，而國債收益率又是整個經濟體系利率的重要基準。利率走高後，房貸、汽車貸款、學生貸款、企業貸款和信用卡債務都會變得更加昂貴。耶魯大學預算實驗室的分析顯示，2015年至2025年間聯邦債務增長使美國典型住宅抵押貸款每年的成本增加約2500美元，普通汽車貸款增加約120美元。高昂的借貸成本還深刻影響人們的生活決策，從購房置業到日常搬遷，這些原本平常的變動，都可能因過高的貸款成本而舉步維艱。（環球時報）"
+    },
+    {
+      "id": "mkt:01a03645-e821-7aab-9100-d9fc61cba60e",
+      "time": "2026-08-25 08:15:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【China International Capital Co: Wash likely to reiterate inflation risks, keep rate‑hike option to rebuild credibility】China International Capital Co says market focus is Jackson Hole and a speech by Wash. His prior comment to “let the market do the Fed’s tightening” failed to ease inflation worries; combined with failed U.S. Treasury intervention this eroded policy credibility and pushed U.S. yields higher. CICC expects Wash to reiterate inflation risks and preserve the option to hike to rebuild credibility, while continuing to push for reduced central‑bank intervention and less frequent communication. He has not abandoned a “balance‑sheet reduction + rate cuts” policy concept, but its underlying assumptions appear misaligned with current conditions and need clearer coordination. If Wash demonstrates policy flexibility, pressure on U.S. Treasuries could ease and the dollar be supported; if not, trust may continue to fade, long‑end U.S. yields could rise further and the dollar come under pressure."
+    },
+    {
+      "id": "5056336",
+      "time": "2026-08-25 08:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，8月25日0時至8月28日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
+    },
+    {
+      "id": "mkt:01a03645-4e25-7aab-9100-d5c63522dabf",
+      "time": "2026-08-25 08:15:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,690/oz intraday, up 0.82%."
+    },
+    {
+      "id": "5056335",
+      "time": "2026-08-25 08:15:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統：委內瑞拉匯率價差兩個月內縮減過半。"
+    },
+    {
+      "id": "5056334",
+      "time": "2026-08-25 08:14:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4690美元/盎司，日內漲0.85%。"
+    },
+    {
+      "id": "5056333",
+      "time": "2026-08-25 08:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "海力士工會成員投票否決了初步協議，50.1%的投票者投出反對票。"
+    },
+    {
+      "id": "mkt:01a03644-fc60-7aab-9100-cde661f6afc3",
+      "time": "2026-08-25 08:14:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Venezuela's interim president said he has signed 50 oil and gas agreements to date and attracted new investment in 76 oilfields."
+    },
+    {
+      "id": "5056332",
+      "time": "2026-08-25 08:13:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【西門子能源據稱將聘請高盛出售蒸汽渦輪機業務股權】當地時間8月24日，據報道，知情人士透露，西門子能源公司正與高盛集團合作，準備就其蒸汽渦輪機業務的多數股權啟動競標報價。知情人士稱，西門子能源計劃於週二（25日）召開董事會會議，決定如何推進其“工業轉型”業務部門的剝離事宜。"
+    },
+    {
+      "id": "mkt:01a03643-733e-7aab-9100-c1308c1a0ddb",
+      "time": "2026-08-25 08:13:05",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【CITIC Securities: US semiconductor-equipment allocation value rises after July 2026 pullback】CITIC Securities says the July 2026 pullback has increased the allocation case for the US semiconductor-equipment sector. The report expects the AI-driven equipment upcycle to continue at least through 2028 and warns of a persistent market expectation gap over large downstream customers’ capex for 2027–28. On supply, vendors and upstream suppliers are expanding capacity against orders, supporting equipment deliveries. The firm recommends focusing on equipment vendors with rising subsegment share, larger memory exposure, or distinctive demand drivers."
+    },
     {
       "id": "5056331",
       "time": "2026-08-25 08:12:46",
