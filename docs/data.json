@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-26 07:50:29",
-  "count": 16504,
+  "updated": "2026-08-26 07:54:27",
+  "count": 16508,
   "items": [
+    {
+      "id": "5058618",
+      "time": "2026-08-26 07:51:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞維多利亞州開啟本國首輪海上風電拍賣】澳大利亞維多利亞州已啟動該國首場海上風電拍賣，但外界對該州能否實現這項可再生能源的宏大目標仍存質疑。州政府在一份宣告中表示，2 吉瓦海上風電專案的提案徵集流程已於週三啟動，該專案發電量足以滿足約 150 萬戶家庭用電需求。拍賣將於明年 8 月截止，相關合同將在 2027 年下半年敲定。"
+    },
+    {
+      "id": "mkt:01a03b55-61fb-7aab-911c-060653108fac",
+      "time": "2026-08-26 07:50:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan July corporate services price index MoM +0.4%; prior -0.4%."
+    },
+    {
+      "id": "mkt:01a03b55-518c-7aab-911b-fc01c6778d21",
+      "time": "2026-08-26 07:50:42",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan corporate services price index YoY 3.6% in July, up from 3.2% previously."
+    },
+    {
+      "id": "mkt:01a03b55-4a78-7aab-911b-f4200ac2d5ed",
+      "time": "2026-08-26 07:50:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services Producer Price Index (All items) (MoM) (Jul) | actual 0.4% | previous -0.4%"
+    },
+    {
+      "id": "mkt:01a03b55-471b-7aab-911b-ee57d6469510",
+      "time": "2026-08-26 07:50:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【China International Capital Co: tantalum and niobium supply-demand reshaped; strategic value reassessed】China International Capital Co says tantalum and niobium supply is highly fragile and increasingly exposed to external disruption. New demand from AI, new energy and commercial space sectors is tightening balances and, combined with geopolitical frictions, could lift price midpoints. The report flags strategic upside for fully integrated, full‑chain players — firms with secured upstream resources, expanding midstream capacity and defensible downstream technologies are likely to benefit materially."
+    },
+    {
+      "id": "mkt:01a03b55-381b-7aab-911b-e439d438da41",
+      "time": "2026-08-26 07:50:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services Producer Price Index (All items) (YoY) (Jul) | actual 3.6% | previous 3.20%"
+    },
+    {
+      "id": "5058617",
+      "time": "2026-08-26 07:50:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月企業服務價格指數同比 3.6%，預期 3.2%，前值 3.2%。"
+    },
     {
       "id": "5058616",
       "time": "2026-08-26 07:49:17",
@@ -149322,35 +149389,6 @@
         "國際"
       ],
       "text": "【人民幣對美元創三年半新高 專家料年內有望溫和升值】日前，人民幣對美元匯率創階段新高。Wind資料顯示，8月17日，離岸人民幣對美元匯率盤中最高升至6.7376，在岸人民幣對美元匯率盤中最高觸及6.7370，雙雙創下2023年2月6日以來新高，即創三年半新高。中信證券首席經濟學家明明認為，美聯儲年內維持政策利率水平不變的機率較高，在此背景下，預計年內美元指數有支撐，但也難以持續衝高，人民幣外部壓力可控。從內部因素來看，國內經濟基本面穩定，尤其是出口保持強勁，為人民幣匯率提供堅實支撐。同時，中國人民銀行穩匯率政策的使用節奏張弛有度，增強了人民幣匯率的韌性。總的來看，人民幣年內有望溫和升值。（證券日報）"
-    },
-    {
-      "id": "te:markets:576258",
-      "time": "2026-08-19 07:54:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady After Tech-Led Selloff — US stock futures steadied on Wednesday after the major averages tumbled in the previous session amid heavy selling in semiconductor and other technology stocks. Rising global bond yields and firmer oil prices also dampened sentiment, with the 30-year Treasury yield reaching a 19-year high this week. On the geopolitical front, the US and Iran showed little indication of reaching an agreement to end the conflict and reopen the Strait of Hormuz in the near term. In regular trading on Tuesday, the Dow fell 0.22%, the S&P 500 declined 0.69% and the Nasdaq Composite plunged 1.33%, with all three benchmarks losing ground for a third consecutive session. AI-linked chipmakers suffered steep losses, including Micron (-7%), Sandisk (-9%), Nvidia (-2.3%), Intel (-6.6%) and AMD (-4.3%). Investors now await minutes from the Federal Reserve’s July meeting, along with earnings reports from major retailers including Target, TJX and Lowe’s."
-    },
-    {
-      "id": "5046609",
-      "time": "2026-08-19 07:53:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲國際社會堅持多軌並進推動解決利比亞問題】中國常駐聯合國代表傅聰18日在安理會利比亞問題公開會上發言，呼籲國際社會堅持多軌並進，推動利比亞問題全面、綜合、根本解決。傅聰說，近期利比亞政治程序取得明顯進展、油氣出口收入大幅提升，同時也面臨政治核心分歧仍未解決、區域性安全風險上升、宏觀經濟壓力持續等困難。聯合國近期積極推進政治路線圖，中方呼籲利相關方在聯合國支援下加緊協商、彌合分歧，儘快就路線圖設定的相關事項達成協議，為國家選舉鋪平道路。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608193845180893",
-      "time": "2026-08-19 07:50:38",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本6月核心機械訂單同比增長16.9%，預期10.8%，前值-1.90%。"
     }
   ]
 }

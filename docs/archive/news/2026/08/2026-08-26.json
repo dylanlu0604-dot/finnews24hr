@@ -1,7 +1,74 @@
 {
   "date": "2026-08-26",
-  "count": 441,
+  "count": 448,
   "items": [
+    {
+      "id": "5058618",
+      "time": "2026-08-26 07:51:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞維多利亞州開啟本國首輪海上風電拍賣】澳大利亞維多利亞州已啟動該國首場海上風電拍賣，但外界對該州能否實現這項可再生能源的宏大目標仍存質疑。州政府在一份宣告中表示，2 吉瓦海上風電專案的提案徵集流程已於週三啟動，該專案發電量足以滿足約 150 萬戶家庭用電需求。拍賣將於明年 8 月截止，相關合同將在 2027 年下半年敲定。"
+    },
+    {
+      "id": "mkt:01a03b55-61fb-7aab-911c-060653108fac",
+      "time": "2026-08-26 07:50:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan July corporate services price index MoM +0.4%; prior -0.4%."
+    },
+    {
+      "id": "mkt:01a03b55-518c-7aab-911b-fc01c6778d21",
+      "time": "2026-08-26 07:50:42",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan corporate services price index YoY 3.6% in July, up from 3.2% previously."
+    },
+    {
+      "id": "mkt:01a03b55-4a78-7aab-911b-f4200ac2d5ed",
+      "time": "2026-08-26 07:50:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services Producer Price Index (All items) (MoM) (Jul) | actual 0.4% | previous -0.4%"
+    },
+    {
+      "id": "mkt:01a03b55-471b-7aab-911b-ee57d6469510",
+      "time": "2026-08-26 07:50:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【China International Capital Co: tantalum and niobium supply-demand reshaped; strategic value reassessed】China International Capital Co says tantalum and niobium supply is highly fragile and increasingly exposed to external disruption. New demand from AI, new energy and commercial space sectors is tightening balances and, combined with geopolitical frictions, could lift price midpoints. The report flags strategic upside for fully integrated, full‑chain players — firms with secured upstream resources, expanding midstream capacity and defensible downstream technologies are likely to benefit materially."
+    },
+    {
+      "id": "mkt:01a03b55-381b-7aab-911b-e439d438da41",
+      "time": "2026-08-26 07:50:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services Producer Price Index (All items) (YoY) (Jul) | actual 3.6% | previous 3.20%"
+    },
+    {
+      "id": "5058617",
+      "time": "2026-08-26 07:50:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月企業服務價格指數同比 3.6%，預期 3.2%，前值 3.2%。"
+    },
     {
       "id": "5058616",
       "time": "2026-08-26 07:49:17",
