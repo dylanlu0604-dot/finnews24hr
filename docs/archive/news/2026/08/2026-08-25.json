@@ -1,7 +1,780 @@
 {
   "date": "2026-08-25",
-  "count": 1432,
+  "count": 1511,
   "items": [
+    {
+      "id": "mkt:01a037da-48d1-7aab-910a-de203b94a76f",
+      "time": "2026-08-25 15:37:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYODO: Japan's Finance Ministry requested a budget of 38.7 trillion yen."
+    },
+    {
+      "id": "5056967",
+      "time": "2026-08-25 15:36:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東東營警方通報“一危化品運輸車在行駛過程中別車”：駕駛員被罰】8月25日，山東東營交警釋出警情通報：針對網傳“一危化品運輸車在行駛過程中別車”影片，東營交管部門迅速開展調查核實。經查，2026年8月22日18時15分許，紀某（男，39歲）駕駛危化品運輸車（空車）沿廣青路由西向東行駛時，在超越前方車輛後連續變道、別車，影響後方車輛安全行駛，紀某對違法事實供認不諱。依據《中華人民共和國道路交通安全法》等法律法規，東營交管部門依法對紀某作出罰款250元、記3分的行政處罰，並對車輛所屬企業下達隱患整改通知書，督促企業嚴格落實主體責任。"
+    },
+    {
+      "id": "mkt:01a037d9-0a70-7aab-910a-d7dbff2770a0",
+      "time": "2026-08-25 15:36:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Interfax reported Kazakhstan has begun supplying small volumes of gasoline to Russia."
+    },
+    {
+      "id": "5056965",
+      "time": "2026-08-25 15:35:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本2027/28財年償債成本將上升17.1%，達到創紀錄的36.6386萬億日元。"
+    },
+    {
+      "id": "mkt:01a037d7-ac20-7aab-910a-ca74a4332d25",
+      "time": "2026-08-25 15:34:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Gold steadies as investors await US inflation data and Kevin Warsh speech】Gold was broadly steady after touching its highest level since mid-May on Monday as investors awaited US inflation data and a speech by Federal Reserve Chair Kevin Warsh later this week. Sucden Financial said that despite the US 10-year Treasury yield remaining near 4.7%, renewed US fiscal concerns, uncertainty over Treasury market credibility and a dollar index persistently below 99 are keeping demand for gold firm; gold needs to hold above $4,700/oz to sustain stronger gains."
+    },
+    {
+      "id": "mkt:01a037d7-7f40-7aab-910a-c622565cfdcc",
+      "time": "2026-08-25 15:34:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Riksbank minutes: the governor said economic signals indicate high energy costs may intensify due to war and weather-related disruptions, raising broader inflation risks. The risk that escalation could trigger sharp price rises makes a rate hike within the year a reasonable prospect."
+    },
+    {
+      "id": "5056963",
+      "time": "2026-08-25 15:34:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威國家石油公司國際業務主管：中東液化天然氣供應中斷使坦尚尼亞液化天然氣專案更具吸引力。"
+    },
+    {
+      "id": "5056960",
+      "time": "2026-08-25 15:33:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【友發集團：2026年上半年營收250.24億元 同比增0.54%】友發集團公告稱，公司2026年半年度網上業績說明會已召開。2026年1-6月，公司銷售各類鋼管670.08萬噸，同比增加2.34%；實現營業收入250.24億元，同比增加0.54%；歸屬於上市公司股東的淨利潤2.78億元。公司正推進海外產能佈局，已搭建海外投資架構；下屬子公司河北海乾威已具備輸氫管道製造資質和能力，獲5項相關專利，已形成少量供貨。"
+    },
+    {
+      "id": "5056959",
+      "time": "2026-08-25 15:33:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行官員邦吉：我認為在調整政策利率之前等待是合理的，並在今天傳達自6月以來加息的可能性依然存在。"
+    },
+    {
+      "id": "5056958",
+      "time": "2026-08-25 15:33:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高鐵電氣：核心技術人員劉娟離職】高鐵電氣公告稱，公司核心技術人員劉娟因個人原因近日申請辭去所任職務，辭職後不再擔任公司任何職務。劉娟未直接或間接持有公司股票，不存在應當履行而未履行的承諾事項，其與公司簽署有《保密協議》《競業禁止協議》，負有保密義務。劉娟參與研發的智慧財產權均歸屬於公司，不存在相關糾紛或潛在糾紛。本次離職不會對公司研發創新能力、持續經營能力和核心競爭力產生重大不利影響，公司技術研發工作正常進行。調整後公司核心技術人員共8人。"
+    },
+    {
+      "id": "5056957",
+      "time": "2026-08-25 15:33:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天長峰：掛牌轉讓航天柏克55.45%股權徵集到意向受讓方】航天長峰公告稱，公司公開掛牌轉讓所持航天柏克（廣東）科技有限公司55.45%股權，本次掛牌期間徵集到1家意向受讓方佛山玄甲劍新能源科技有限公司，該受讓方已透過資格稽核並足額繳納保證金，本次交易成交價為7799.51萬元。本次交易不構成關聯交易，截至公告披露日雙方尚未簽訂產權交易合同，若交易完成，公司將不再持有航天柏克上述股權，航天柏克不再納入公司合併報表範圍。"
+    },
+    {
+      "id": "mkt:01a037d6-5a57-7aab-910a-bc82e8232d96",
+      "time": "2026-08-25 15:33:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Riksbank minutes: governor said the next policy-rate move should be a hike, but timing remains uncertain; urged heightened vigilance on rising inf."
+    },
+    {
+      "id": "5056956",
+      "time": "2026-08-25 15:33:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受颱風“紫檀”影響 今明兩天廣東多地雨勢仍強 局地或現大暴雨】今明兩天（8月25日至26日），廣東仍有明顯降雨，其中今天中東部雨勢較強，明天強降雨集中在中西部，局地有暴雨到大暴雨，需持續做好防雨措施。受輻合帶和颱風“紫檀”影響，昨天廣東大部出現降雨，部分地區雨勢強勁。監測顯示，昨天8時至今天8時，廣東中部和東部等地部分地區暴雨到大暴雨，其中梅州梅縣區雁洋鎮雨勢最強，累計雨量達181.7毫米。今明兩天，受輻合帶和颱風“紫檀”影響廣東仍有明顯降水，後天大部地區雨勢減弱。廣東氣象臺預計，今天，粵北、珠江三角洲、粵東有中到大雨，局地有暴雨，其餘地區有（雷）陣雨，局地有大雨。"
+    },
+    {
+      "id": "5056955",
+      "time": "2026-08-25 15:32:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行邦吉：與6月份的情況類似，通脹風險總體上偏向上行。"
+    },
+    {
+      "id": "te:markets:577854",
+      "time": "2026-08-25 15:32:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.21% Higher — The FTSE 100 Index is gaining 23 points or 0.21 percent on Tuesday. Leading the gains are Melrose (8.44%), NEXT (1.80%) and Rolls-Royce (1.49%). Top losers are Endeavour (-1.26%), JD Sports Fashion (-1.19%) and London Stock Exchange (-0.85%)."
+    },
+    {
+      "id": "5056954",
+      "time": "2026-08-25 15:32:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行官員耶爾姆：政策利率保持適度擴張是合適的。"
+    },
+    {
+      "id": "5056953",
+      "time": "2026-08-25 15:31:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞典央行官員迪恩：我認為我們政策利率的下一次調整必然是加息。"
+    },
+    {
+      "id": "te:economy:577853",
+      "time": "2026-08-25 15:31:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Spain Producer Inflation Quickens to 9.2% in July — Producer price inflation in Spain accelerated to 9.2% in July 2026 from 7% in June, largely on account of energy prices, which climbed by 20.8%, up from 14.3% in June. The rise was mainly due to stronger increases in electricity production, transport and distribution prices, while gas-related prices declined after rising in July 2025. On a monthly basis, producer prices were flat."
+    },
+    {
+      "id": "5056952",
+      "time": "2026-08-25 15:31:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港中醫醫院服務擴充套件 將推出24小時住院服務】香港特區政府醫務衛生局與香港中醫醫院營運機構25日舉行聯合記者會，公佈香港中醫醫院服務擴充套件計劃，將分階段開展24小時住院服務。 香港中醫醫院行政總監卞兆祥在會上介紹，醫院將於今年12月11日起分階段開展24小時住院服務。首階段設有93張住院病床、20張臨床試驗及研究中心病床和2張加護病床。預計至2030年底，醫院提供的病床總數將達到400張。（新華社）"
+    },
+    {
+      "id": "te:markets:577852",
+      "time": "2026-08-25 15:31:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.40% Higher — The DAX Index is picking up 103 points or 0.40 percent on Tuesday. Gains are led by Infineon (1.90%), Siemens Energy (1.28%) and Airbus (1.26%). Biggest losers are Rheinmetall (-1.00%), SAP (-0.74%) and Qiagen NV (-0.69%)."
+    },
+    {
+      "id": "5056951",
+      "time": "2026-08-25 15:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙政府召開國家安全委員會會議應對休達移民危機】當地時間25日，西班牙首相桑切斯主持召開國家安全委員會會議，討論休達移民危機。這是大批移民進入休達26天后，西班牙國家安全委員會首次召開以休達局勢為主題的會議。休達地方政府長官胡安·赫蘇斯·比瓦斯透過影片方式參加當天會議，西班牙政府3名副首相、多名部長以及國家安全部門負責人等出席會議。此次會議的一項重要內容是建立統一指揮機制，以協調處理休達移民危機。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a037d4-2814-7aab-910a-b235b301ca18",
+      "time": "2026-08-25 15:30:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.13 pct to 1,001.14 yuan/gram on Tuesday, Aug 25; silver T+D fell 1.36 pct to 16,550.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:577851",
+      "time": "2026-08-25 15:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.35% Higher — The CAC 40 Index is up by 30 points or 0.35 percent on Tuesday. Top gainers are Safran (1.53%), Legrand (1.24%) and Airbus (1.18%). Biggest losses came from Renault (-1.31%), Dassault Systemes (-1.24%) and Capgemini (-0.90%)."
+    },
+    {
+      "id": "5056950",
+      "time": "2026-08-25 15:29:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國旅遊發展局資料顯示，韓國7月入境遊客數量同比上漲20.8%，達到209萬人次。1‑7月累計入境遊客同比增長21.3%，共計1280萬人次。"
+    },
+    {
+      "id": "mkt:01a037d1-c540-7aab-910a-afbc81639f4c",
+      "time": "2026-08-25 15:28:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【NVIDIA earnings due after US close; market broadly optimistic】NVIDIA reports F2Q27 results after US close Wednesday. Street survey expects F2Q27 EPS $2.19 and revenue $93.58bn (YoY +100%); consensus guidance for F3Q27 is around $106.14bn (QoQ +13%, YoY +86%), with some investors projecting >$110bn. Key upside drivers cited are strong GB300 server‑cabinet shipments, Rubin Ultra chip ramp, pricing leverage, enterprise AI adoption and cloud/supply‑chain moats; gross margin is forecast near 75%. Downside concerns include “recycling” financing risk and wafer/chip capacity constraints that could limit guidance upside. Earnings-implied option volatility is ~4.6%. JP Morgan (Aug. 24) notes a backstop financing mechanism could deliver “hundreds of billions” in incremental revenue, but warns a simultaneous earnings miss and dovish/soft Fed messaging could trigger a 3–4% pullback in the S&P 500."
+    },
+    {
+      "id": "5056948",
+      "time": "2026-08-25 15:26:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月25日滬深兩市漲停分析】滬指縮量上漲0.19%、創業板指跌1%，全市上漲個股超4200只，醫藥、大消費概念全線走強。漢森製藥5連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:01a037cf-9dac-7aab-910a-a16ed381d79d",
+      "time": "2026-08-25 15:25:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Foreign Ministry: China's development of new productive forces anchored in openness, win‑win cooperation】After the World Robot Conference in Beijing and amid some countries' restrictions on Chinese high‑tech, Foreign Ministry spokesman Lin Jian told a regular briefing that China's approach to developing new productive forces and advancing technological innovation remains rooted in openness and mutual benefit, not in self‑imposed limits or closed monopolies. Lin said Beijing is willing to deepen international dialogue and cooperation in frontier fields such as AI and embodied intelligence, promote technology interoperability, co‑develop standards and share markets, and convert Chinese innovation and manufacturing into a driver of common global growth."
+    },
+    {
+      "id": "5056947",
+      "time": "2026-08-25 15:25:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中國發展新質生產力的底層邏輯，是開放合作、互利共贏】林劍指出，中國發展新質生產力、推進科技創新的底層邏輯，始終是開放合作、互利共贏，而非人為設限、封閉獨佔。中方願同世界各國一道繼續開展人工智慧、具身智慧等前沿領域對話合作，讓中國創造、中國製造真正轉化為共同發展的動力，在技術互通、標準共建、市場共享中挖掘合作潛力，推動創新紅利更多地惠及全人類。（北京日報）"
+    },
+    {
+      "id": "mkt:01a037ce-a0b0-7aab-910a-9e5d6527521b",
+      "time": "2026-08-25 15:24:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Tehran regional head of Iran's National Petroleum Products Distribution Company said gasoline supply in Tehran exceeded 26 mln liters yesterday. Demand surged after media rumours and ahead of an upcoming holiday. Emergency supply channels from other provinces have been activated and deliveries are ongoing; the official said prior supply restrictions should be fully removed within a few days."
+    },
+    {
+      "id": "5056946",
+      "time": "2026-08-25 15:24:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達60億港元。"
+    },
+    {
+      "id": "5056945",
+      "time": "2026-08-25 15:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建海事局啟動防颱風二級應急響應 多條航線停運停航】隨著颱風“沙德爾”臨近，為了確保海上交通安全，福建海事局於25日14時啟動防颱風二級應急響應，以寧德、福州、平潭、莆田為核心防禦重點。福建海事局對客渡運航線、海上施工作業專案等陸續實施“關停撤轉”措施，截至25日12時，福建沿海共有22條客渡運航線停運，44艘客渡船停航，41個水上施工作業專案停工，116艘施工作業船舶撤離，福建全省沿海船舶拖帶、試航、科考、風電運維等活動已停止。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a037cd-126b-7aab-910a-919972a388cb",
+      "time": "2026-08-25 15:23:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【US seeks to impose >$100,000 fee on H-1B employers; China declines to comment】The Trump administration is seeking to impose fees exceeding $100,000 on employers hiring foreign workers under the H-1B programme; reports say about 12% of H-1B holders will be from China by 2025. At a routine press briefing on the 24th, Foreign Ministry spokesperson Lin Jian said, I will not comment on US visa policy."
+    },
+    {
+      "id": "5056944",
+      "time": "2026-08-25 15:21:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威國家石油公司國際運營主管談奈米比亞PEL 90勘探許可證：若我們在那裡發現資源，規模可能相當可觀。"
+    },
+    {
+      "id": "mkt:01a037cb-991a-7aab-910a-8c47c6b00e41",
+      "time": "2026-08-25 15:21:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars"
+      ],
+      "text": "【AI trading cools; leveraged Korean chip ETFs see nearly $1bn outflow this month】Amid cooling investor appetite for AI-driven trading and regulator steps to curb demand, leveraged ETFs linked to Korean chipmakers recorded nearly $1bn of outflows this month. Data compiled by foreign media show leveraged products tracking Samsung Electronics saw $381m of outflows to date, while those tied to SK Hynix lost $601m. This is the first monthly outflow since the products launched in late May. The ETFs aim to deliver twice the daily move of the chipmakers and were blamed for amplifying volatility during July’s global AI sell-off, when the Kospi fell about 22% month-on-month. Korean regulators have raised minimum margin requirements for new investors in these products and mandated a five-day simulated trading period."
+    },
+    {
+      "id": "mkt:01a037ca-a3cc-7aab-910a-82eaffd18bf8",
+      "time": "2026-08-25 15:20:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A refinery in Russia's Rostov region has halted operations after being struck by Ukrainian drone attacks, the local governor said."
+    },
+    {
+      "id": "5056943",
+      "time": "2026-08-25 15:20:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美政府擬對H-1B簽證收取逾10萬美元費用，外交部：不作評論】8月25日，外交部發言人林劍主持例行記者會。法新社記者提問，當地時間24日，美國特朗普政府著手對透過高技能H-1B簽證專案僱傭外國工人的僱主徵收超過10萬美元的費用。據稱，截至2025年，約12%的H-1B簽證持有者來自中國。發言人對此有何評論？“對於美國的簽證政策，我不作評論。”林劍說。"
+    },
+    {
+      "id": "mkt:01a037ca-43f8-7aab-910a-79cbc9310373",
+      "time": "2026-08-25 15:19:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's Foreign Ministry says cooperation with Iran has always been conducted within the framework of international law."
+    },
+    {
+      "id": "5056942",
+      "time": "2026-08-25 15:19:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中國同伊朗的合作始終在國際法框架內進行】針對有報道說美方計劃對不參與制裁伊朗的國家採取反制措施，外交部發言人林劍25日在例行記者會上表示，中方已多次表明，堅決反對沒有國際法依據、未經聯合國安理會授權的非法單邊制裁。經濟戰、極限施壓無助於解決問題，只會進一步激化矛盾衝突，造成風險外溢，擾亂全球經濟金融秩序，損害他國正當權益。當務之急是推動局勢降溫，儘快迴歸對話談判軌道。林劍說，中國同伊朗的合作始終在國際法框架內進行，不應受到干擾破壞。中方正密切關注相關動向，將採取一切必要措施，堅定維護自身權益。（新華社）"
+    },
+    {
+      "id": "5056941",
+      "time": "2026-08-25 15:19:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【貝森特稱對不參與制裁伊朗的國家可能採取反制措施 中方回應】外交部發言人林劍8月25日主持例行記者會。法新社記者提問，當地時間24日，美國財政部長貝森特公佈多項針對伊朗的經濟制裁措施，並稱對於那些不參與這一行動的國家可能採取反制措施。中方對此有何評論？林劍表示，中方已多次表明，堅決反對沒有國際法依據、未經聯合國安理會授權的非法單邊制裁，經濟戰、極限施壓無助於解決問題，只會進一步激化矛盾衝突，造成風險外溢，擾亂全球的經濟金融秩序，損害他國正當權益。“當務之急是推動局勢降溫，儘快迴歸對話談判軌道。中方將採取一切必要措施，堅定維護自身權益。”林劍指出。美國消費者新聞與商業頻道（CNBC）進一步追問，發言人能否詳細說明中國將採取哪些措施來保護自身利益？美國的行動將產生何種影響？“我剛才已經指出，中方將採取一切必要措施，堅定維護自身的正當權益。”林劍說。 (北京日報)"
+    },
+    {
+      "id": "mkt:01a037c9-bf32-7aab-910a-726d93888cf2",
+      "time": "2026-08-25 15:19:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【China Jan–Jul outbound direct investment RMB 684.51 bln】China's total outbound direct investment across all sectors was RMB 684.51 bln (USD 99.53 bln) in Jan–Jul 2026, up 2.8% YoY in yuan terms and up 7.3% YoY in dollar terms, MOFCOM and SAFE said. Domestic investors made non-financial direct investments in 7,742 overseas firms across 148 countries totaling RMB 528.43 bln (USD 76.84 bln), down 12.9% YoY in yuan terms and down 9.1% YoY in dollar terms."
+    },
+    {
+      "id": "mkt:01a037c8-cc87-7aab-910a-6cec77809559",
+      "time": "2026-08-25 15:18:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Local governor said a refinery in Russia's Rostov region was struck by Ukrainian drones."
+    },
+    {
+      "id": "5056940",
+      "time": "2026-08-25 15:17:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "州長證實，俄羅斯羅斯托夫州煉油廠遭烏克蘭無人機襲擊受損。"
+    },
+    {
+      "id": "5056939",
+      "time": "2026-08-25 15:17:38",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、據報道，美國總統特朗普在巴基斯坦陸軍參謀長穆尼爾8月24日啟程訪問伊朗前與其通電話，美方的主要訴求是希望巴基斯坦利用自身影響力促使伊朗重返談判桌。\n2、美國財長貝森特在新聞釋出會上表示，美國總統特朗普正致電各國領導人，明確要求其停止與伊朗的往來。\n3、美國總統特朗普（8月24日）在其社交媒體“真實社交”發文稱，加拿大多年來透過對美國農民和農產品徵收高額關稅“佔美國便宜”，美國將把對加拿大所有汽車、卡車、汽車零部件和鋼鐵徵收的關稅提高至50%。\n4、當地時間8月24日的一項民意調查顯示，美國公眾對伊朗戰事的支援率跌至衝突爆發初期以來最低水平，這也使得美國總統特朗普的支援率維持在歷史低位。\n5、美國總統特朗普將於 9 月 12‑13 日借愛爾蘭高爾夫公開賽之機訪問愛爾蘭。\n6、據一份公開財務披露檔案顯示，美國總統特朗普在6月向SpaceX投資了至多5萬美元。SpaceX的股價從6月23日的150美元左右徘徊。而本週一收盤時，SpaceX股價以135美元的IPO發行價收盤，這可能意味著特朗普持有的股份已經虧損。\n7、澤連斯基：我收到了特朗普在烏克蘭獨立恢復35週年之際發來的祝賀。"
+    },
+    {
+      "id": "5056938",
+      "time": "2026-08-25 15:17:15",
+      "tags": [
+        "宏觀",
+        "其他"
+      ],
+      "text": "【湖南省直公積金新政今起施行 購房契稅、維修資金可提取】湖南省直住房資金管理中心印發《關於貫徹落實<湖南省進一步促進房地產市場平穩健康發展若干措施>的實施細則》，重點推出青年人才貸款額度提升至180萬元、購房契稅及維修資金可提取、直系親屬公積金代際互助等利好政策，為省直繳存職工購房提供全方位支援。該細則於2026年8月25日起正式施行，有效期3年。"
+    },
+    {
+      "id": "5056937",
+      "time": "2026-08-25 15:16:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第七屆內地與港澳郵政高層聯席會議在昆明召開】8月25日，第七屆內地與港澳郵政高層聯席會議在雲南昆明召開。本次會議的主題是“同心共築、融匯灣區”。與會代表交流了內地和港澳郵政發展整體情況，並圍繞“推進內地與港澳郵政資源共享，構建大灣區高效集約的跨境物流體系”“建設大灣區陸路口岸樞紐，聯動三地郵政高質量發展”“三地郵政業務創新發展實踐”等議題進行深入探討和交流。"
+    },
+    {
+      "id": "te:markets:577847",
+      "time": "2026-08-25 15:16:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.19% Higher — The Shangai Composite Index rose 7 points or 0.19 percent on Tuesday to close at 3889 points. Leading the gains are Yonghui Superstore (3.67%), Sanan Optoelectron (3.18%) and Jiangsu Lianyungang (2.52%). Top losers were China Molybdenum (-2.74%), Zijin Mining (-2.52%) and Hengli Petrochemical (-2.08%)."
+    },
+    {
+      "id": "mkt:01a037c6-ddd8-7aab-910a-6608148ab2c6",
+      "time": "2026-08-25 15:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】2-year (TS) main contract down 0.02%; 5-year (TF) main contract down 0.04%; 10-year (T) main contract down 0.01%; 30-year (TL) main contract down 0.07%."
+    },
+    {
+      "id": "te:markets:577846",
+      "time": "2026-08-25 15:16:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Rise as Tech Selloff Eases — European stocks traded higher on Tuesday as risk sentiment improved and the recent selloff in global technology shares showed signs of easing. The STOXX 50 rose 0.6%, while the broader STOXX 600 gained 0.4%. Investors are now turning their attention to chip giant Nvidia’s earnings report later this week for fresh clues about the strength and durability of demand for AI-related technology. Elsewhere, oil prices remained under pressure after US threats of an “economic D-Day” of sanctions on Iran failed to deliver the impact markets had anticipated. Investors were also assessing the implications of the US Treasury Department’s expanded debt buyback programme, following reports that the Treasury could draw on its nearly $1 trillion General Account to help finance the purchases rather than relying on new debt issuance. In Europe, meanwhile, revised data showed that Germany’s economy grew 0.3% in the second quarter of 2026, slightly above the initial estimate."
+    },
+    {
+      "id": "em:qqyh_ozlc:202608253852760898",
+      "time": "2026-08-25 15:15:59",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳大利亞聯邦銀行：通脹資料還不足以宣佈勝利】澳大利亞聯邦銀行經濟學家BelindaAllen表示，澳洲聯儲認為通脹風險偏向上行，關於何為正確政策應對措施的爭論也日益激烈。目前通脹資料還不足以宣佈勝利，儘管第二季度通脹資料低於預期，但其中很大一部分原因來自波動性專案的影響，未來幾個月這些波動性專案存在反彈風險。"
+    },
+    {
+      "id": "mkt:01a037c6-4415-7aab-910a-5b3bac5518e7",
+      "time": "2026-08-25 15:15:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Institution: Dollar and U.S. Treasury yields rise; gold slips in Asia afternoon】Bas Kooijman, CEO and asset manager at DHF Capital S.A., said gold eased in the Asia afternoon session as the dollar strengthened and U.S. Treasury yields climbed. Investors are shifting focus to the Jackson Hole symposium; with forward guidance limited, any signals from policymakers could move markets."
+    },
+    {
+      "id": "5056936",
+      "time": "2026-08-25 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.07%， 10年期主力合約跌0.04%， 5年期主力合約跌0.04%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "mkt:01a037c5-83b3-7aab-910a-57d585024dd3",
+      "time": "2026-08-25 15:14:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "EQNR.O",
+        "Impact bullish"
+      ],
+      "text": "EQUINOR's head of international business said the company is seeking to expand in the US into areas beyond upstream."
+    },
+    {
+      "id": "5056935",
+      "time": "2026-08-25 15:14:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里雲：雲沙箱Snapshot（沙箱快照）功能正式開啟商業化計費】阿里雲公告，自北京時間2026年9月7日00:00起，雲沙箱Snapshot（沙箱快照）功能正式開啟商業化計費。Snapshot支援對執行中的沙箱進行全狀態快照（含記憶體與磁碟），可基於快照秒級恢復沙箱或克隆出多個新沙箱。適用於長時間執行的Agent任務斷點續跑、環境預熱秒級冷啟動、並行克隆探索等場景。"
+    },
+    {
+      "id": "mkt:01a037c5-090e-7aab-910a-49c01e777814",
+      "time": "2026-08-25 15:14:14",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "GBP/USD rose 14 pips intraday to 1.3640."
+    },
+    {
+      "id": "5056934",
+      "time": "2026-08-25 15:14:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元GBP/USD短線走高14點，現報1.3640。訊息面上，英國債務管理辦公室計劃於11月進行指數掛鉤國債銀團發行。"
+    },
+    {
+      "id": "mkt:01a037c4-df5a-7aab-910a-4611ae25c3ea",
+      "time": "2026-08-25 15:14:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Southern Power Grid signs strategic cooperation framework with China Electric Equipment】On Aug. 24 in Guangzhou, China Southern Power Grid Co. and China Electric Equipment signed a strategic cooperation framework. Chairman Qian Chaoyang said, looking toward the 15th Five-Year period the partners will deepen strategic coordination, focusing on grid engineering equipment to advance construction of the 'three new types'; core grid equipment to raise domestic controllability; digital-intelligent grid equipment to strengthen the industry ecosystem; and cross-border equipment cooperation to expand international cooperation space."
+    },
+    {
+      "id": "5056933",
+      "time": "2026-08-25 15:13:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威國家石油公司國際業務主管：在美國，我們正尋求拓展上游業務以外的領域。"
+    },
+    {
+      "id": "mkt:01a037c4-4692-7aab-910a-3e8443d500cd",
+      "time": "2026-08-25 15:13:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Natural Resources' Tsunami Early Warning Center: Earthquake off Taiwan not expected to trigger tsunami】cenc measured a magnitude-5.5 tremor at 15:00 on Aug 25 offshore Taitung County, Taiwan (22.61°N, 121.63°E); focal depth 10 km. The Ministry of Natural Resources' Tsunami Early Warning Center said preliminary parameters indicate the quake is unlikely to generate a tsunami."
+    },
+    {
+      "id": "mkt:01a037c3-f3f8-7aab-910a-33e28f65e2d2",
+      "time": "2026-08-25 15:13:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Debt Management Office plans a syndicated index-linked gilt sale in November."
+    },
+    {
+      "id": "5056932",
+      "time": "2026-08-25 15:12:40",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通上調目標價與銷售預期，諾和諾德股價走高】摩根大通上調這家丹麥藥企2026年銷售預期並提高股票目標價後，諾和諾德早盤最高上漲2.2%。分析師理查德・沃瑟（評級中性）在研報中寫道：Ozempic的預期上調，源於仿製藥衝擊“幅度有限”，加上二季度美國有利的總額‑淨額調整帶來的利好；此外美國以外地區Wegovy的增長好於預期，共同推高整體銷售預測。摩根大通表示：“2026年口服版Wegovy的預測下調，僅能部分抵消上述利好，我們判斷該產品在美國的上市勢頭正在放緩。”該行目前預計，按本幣匯率計算，諾和諾德2026年營收將基本持平，但仍預期2027年營收約增長1%。"
+    },
+    {
+      "id": "5056931",
+      "time": "2026-08-25 15:11:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威國家石油公司國際業務主管：我們正在現有投資組合之外有選擇性地尋找機會。"
+    },
+    {
+      "id": "5056930",
+      "time": "2026-08-25 15:11:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方電網公司與中國電氣裝備簽署戰略合作框架協議】據南方電網公司訊息，8月24日，南方電網公司與中國電氣裝備在廣州簽署戰略合作框架協議。南方電網公司董事長錢朝陽表示，面向“十五五”，南方電網公司將與中國電氣裝備進一步深化戰略協同，聚焦電網工程裝備合作，共同推進“三個新型”建設；聚焦電網核心裝備合作，共同提升自主可控水平；聚焦電網數智裝備合作，共同加強產業生態培育；聚焦電網跨境裝備合作，共同拓展國際合作空間。"
+    },
+    {
+      "id": "mkt:01a037c2-4a89-7aab-910a-2d76dfe355e2",
+      "time": "2026-08-25 15:11:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EQUINOR's head of international business said exploration will focus on the Atlantic margin."
+    },
+    {
+      "id": "mkt:01a037c1-d957-7aab-910a-2005cc6bff58",
+      "time": "2026-08-25 15:10:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DAX",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Eurozone government yields open lower as U.S. yields steady, bond market rebounds】Eurozone government bond yields opened lower on Tuesday after U.S. Treasury yields steadied following an earlier rise in Asian trading. Middle East tensions rose after Bessent launched efforts to isolate Iran and warned countries and firms against doing business with Tehran, but oil prices fell. Germany will sell €5.0 bln of short-dated government paper maturing September 2028. Tradeweb data showed the 10-year German Bund yield down 1.1 bps at 3.241%; other eurozone 10-year yields fell by similar margins."
+    },
+    {
+      "id": "mkt:01a037c1-6828-7aab-910a-1cfb22bf3d7a",
+      "time": "2026-08-25 15:10:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【26th China International Fair for Investment & Trade set for Sept 8-11 in Xiamen】At a press briefing, the State Council Information Office said MOFCOM confirmed the 26th China International Fair for Investment & Trade will be held Sept. 8-11 in Xiamen, Fujian, and that preparatory work is largely complete."
+    },
+    {
+      "id": "5056929",
+      "time": "2026-08-25 15:10:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月25日15時00分在臺灣台東縣海域（北緯22.61度，東經121.63度）發生5.5級地震，震源深度10千米。自然資源部海嘯預警中心根據初步地震引數判斷，本次地震不會引發海嘯。"
+    },
+    {
+      "id": "5056928",
+      "time": "2026-08-25 15:09:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【第二十六屆投洽會將於9月8日至11日在廈門舉行】今天（8月23日），國務院新聞辦公室舉行新聞釋出會，商務部介紹，第二十六屆中國國際投資貿易洽談會將於9月8日至11日在福建廈門舉行，目前各項籌備工作已基本就緒。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a037c0-3cbe-7aab-910a-1245fe2cea3d",
+      "time": "2026-08-25 15:09:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EQNR.O",
+        "Impact bullish"
+      ],
+      "text": "EQUINOR's head of international operations expects production outside Norway to continue growing after 2030."
+    },
+    {
+      "id": "5056927",
+      "time": "2026-08-25 15:08:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【口誤還是真實想法？萬斯竟然聲稱加拿大是一個州】美國副總統萬斯24日在緬因州一場公開活動上將加拿大稱作 “一個州”，隨即糾正稱這是一次意外“口誤”。 萬斯還稱，加拿大軍費投入不足，如果缺少美國提供的安全保護傘，該國很可能遭到他國入侵。（新華社）"
+    },
+    {
+      "id": "5056926",
+      "time": "2026-08-25 15:07:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商蛇口在北京成立房地產開發公司 註冊資本2億元】企查查APP顯示，近日，北京招信房地產開發有限公司成立，法定代表人為李昂，註冊資本為2億元，經營範圍包含：房地產開發經營；物業管理；停車場服務；非居住房地產租賃。企查查股權穿透顯示，該公司由招商蛇口(001979)間接全資持股。"
+    },
+    {
+      "id": "te:economy:577842",
+      "time": "2026-08-25 15:07:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "South Africa Leading Index Falls 1.4% MoM — The composite leading business cycle indicator in South Africa fell by 1.4% month-over-month in June 2026, accelerating from a 0.3% decrease in the previous month and marking its third consecutive monthly decline. The drop was mainly driven by lower US dollar-denominated export commodity prices and slower growth in real M1 money supply, with five of the seven available component series declining. Additional weakness came from a narrower interest rate spread, fewer new passenger vehicle sales and weaker leading indicators among South Africa’s major trading partners. Meanwhile, support came from an increase in residential building plans approved and faster growth in job advertisements. The coincident business cycle indicator also fell 0.2% in May, while the lagging indicator rose 0.9%."
+    },
+    {
+      "id": "5056925",
+      "time": "2026-08-25 15:07:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬公司獲得德國在立陶宛價值2.5億歐元的營地訂單。"
+    },
+    {
+      "id": "5056924",
+      "time": "2026-08-25 15:07:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新城控股在上海成立兩家商業管理公司】企查查APP顯示，近日，上海新城屹悅商業管理有限公司、上海新城吾悅商業管理有限公司成立，法定代表人均為張舒，註冊資本均為3000萬元，經營範圍均包含：商業綜合體管理服務；企業管理；市場營銷策劃；酒店管理等。企查查股權穿透顯示，兩公司均由新城控股旗下新城吾悅商業管理集團有限公司及常州新城吾悅商業管理有限公司共同持股。"
+    },
+    {
+      "id": "5056923",
+      "time": "2026-08-25 15:06:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Melrose股價上漲11%，此前該公司釋出了花園格羅夫設施的最新資訊。"
+    },
+    {
+      "id": "5056922",
+      "time": "2026-08-25 15:06:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "維斯特里集團股價上漲10%，此前該集團宣佈獲得英國政府社會保障性住房專案項下3.5億英鎊融資。"
+    },
+    {
+      "id": "mkt:01a037bd-b827-7aab-910a-09505346d339",
+      "time": "2026-08-25 15:06:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【China A-shares close: Shanghai Composite rebounds in afternoon; over 4,200 stocks rise】China A-shares closed with the Shanghai Composite up 0.19% after an afternoon rebound; the Shenzhen Component fell 0.35% and the ChiNext dropped 1.00%. More than 4,200 stocks advanced. Turnover was 1.8443 tln yuan, the 10th session this year below 2 tln yuan, down 176.9 bln yuan from the prior day. Grain-related names led gains: Xinhua Department Store recorded its third straight daily limit, Denghai Seed its second, and Wanxiang Denong and Jinjian Rice hit limits; Shennong Seed, Huazi Industrial, Qiule Seed, Tianhe and Kangnong Seed also rose. The CRO sector showed strength: Kailaiying hit the limit, Nearshore Protein and Hendy Pharma rose over 10%, with Yinuosi, Medixi, Chengda Pharma, Heyuan Biotech and Jinshi Yaoyao following higher. Precious metals tumbled: Western Gold and Zhaojin Gold fell more than 7%; Hunan Silver, Xingye Silver & Tin and Xiaocheng Technology retreated. Energy metals weakened: Shengxin Lithium Energy, Yongxing Materials and Rongjie fell over 6%, while Ganfeng Lithium and Yongshan Lithium also declined."
+    },
+    {
+      "id": "5056921",
+      "time": "2026-08-25 15:05:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣汽馮興亞時隔一年再訪華為任正非】8月25日，廣汽集團董事長馮興亞發文稱，昨日與團隊赴深圳再次拜訪華為創始人任正非，上一次雙方見面是去年的6月。此次雙方圍繞下一代汽車產品路徑以及雙方合作機制深化等議題展開，主要涉及智慧化的深度合作，比如L3級別有條件自動駕駛、全新產品定義形態等。目前，廣汽與華為合作的啟境首款車型GT7已經上市，第二款車型啟境GX7將於下個月上市。"
+    },
+    {
+      "id": "mkt:01a037bd-4a39-7aab-910a-0115cd9a0c0d",
+      "time": "2026-08-25 15:05:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【US new sanctions on Iran push dollar to weekly high】DXY rose to a weekly high on Tuesday after US Treasury Secretary Bessent announced new sanctions on Iran. Bessent warned countries and firms doing business with Iran would face US retaliation but did not specify the measures. IG analysts said market speculation that Washington could exclude affected countries from the dollar-based financial system prompted some nations and banks to buy dollars preemptively, lifting the currency."
+    },
+    {
+      "id": "mkt:01a037bc-098c-7aab-9109-fcbffbe75c53",
+      "time": "2026-08-25 15:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic reading: Aug 25 15:00 — ~M5.5 earthquake offshore Taitung County, Taiwan (22.62°N, 121.64°E). Final parameters subject to CENC's formal rapid bulletin."
+    },
     {
       "id": "5056920",
       "time": "2026-08-25 15:04:10",
