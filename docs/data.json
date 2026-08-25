@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-25 23:13:40",
-  "count": 16487,
+  "updated": "2026-08-25 23:18:03",
+  "count": 16485,
   "items": [
+    {
+      "id": "5058332",
+      "time": "2026-08-25 23:16:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“沙德爾”逼近，寧波、舟山沿海啟動Ⅱ級防颱響應】今年第18號颱風“沙德爾”繼續逼近。8月25日17時，其中心位於距寧波約852公里的海面上，中心最大風力14級。根據颱風動態和發展趨勢，8月25日20時起，寧波、舟山兩地沿海進入Ⅱ級防颱應急響應，重點防範海上大風、湧浪可能引發的船舶走錨、斷纜等風險。（央視新聞）"
+    },
+    {
+      "id": "5058331",
+      "time": "2026-08-25 23:15:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美盛高管：巴西化肥產業擬申請20億雷亞爾補貼計劃，以緩解伊朗戰爭帶來的衝擊。"
+    },
+    {
+      "id": "mkt:01a0397d-dace-7aab-9116-04ab4d7ac869",
+      "time": "2026-08-25 23:15:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【COLLINS: Support holding rates for now; will tighten quickly if DISINFLATION stalls】Fed's COLLINS said she currently supports keeping the policy rate unchanged, conditional on further evidence of DISINFLATION toward the Fed's 2% target. She wrote that maintaining the current target range requires continued evidence that inf is falling; if such evidence does not appear, she would tighten policy as soon as possible. Recent releases show modest underlying price pressures, which she called somewhat encouraging, but monthly data are noisy and persistence is uncertain. COLLINS said tight policy and higher long-term yields should help ease some inflationary pressure from strong household and business spending, and that earlier tariff effects have largely faded while the pass-through from rising oil prices should begin to wane."
+    },
+    {
+      "id": "5058330",
+      "time": "2026-08-25 23:14:55",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【大摩：人工智慧相關表外承諾規模突破3萬億美元】摩根士丹利資料顯示，五大超大規模雲廠商，疊加晶片企業英偉達與博通，透過擔保、租賃以及其他金融支援形式，合計承諾投入超3.1萬億美元，用於扶持第三方人工智慧基礎設施建設。分析師託德·卡斯塔尼奧領銜的研報指出，五大雲廠商包括谷歌、亞馬遜、Meta、微軟、甲骨文。其中谷歌以8900億美元的總承諾額遙遙領先，主要為採購承諾。整體來看，“根據各家最新美國證券交易委員會申報檔案，雲廠商未折現承諾總額超2.7萬億美元，約等同於其當前三年經營性現金流。”該群體2027年預計現金資本支出超1.2萬億美元，而預期現金流約為1萬億美元。摩根士丹利估算，雲廠商超四成營收被再度投入人工智慧資本開支。"
+    },
+    {
+      "id": "5058329",
+      "time": "2026-08-25 23:13:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：卡達繼續進行區域接觸，旨在鼓勵美國與伊朗恢復談判。"
+    },
     {
       "id": "5058328",
       "time": "2026-08-25 23:12:46",
@@ -149026,77 +149075,6 @@
         "MKT News"
       ],
       "text": "UAE Ministry of Defense told citizens that any sounds they hear are from air-defence intercepts."
-    },
-    {
-      "id": "mkt:01a01572-b38b-7aab-907e-4d18eb4a4002",
-      "time": "2026-08-18 23:17:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "The Washington Post reports sources say the Pentagon is evaluating whether to withdraw U.S. forces from the Persian Gulf. The report says major U.S. overseas bases have been struck by Iran for months and sustained significant damage, creating an opening for the Pentagon to reconsider its regional force posture."
-    },
-    {
-      "id": "5046325",
-      "time": "2026-08-18 23:15:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國考慮戰爭結束後縮減海灣地區軍事部署規模。"
-    },
-    {
-      "id": "mkt:01a01570-c606-7aab-907e-429b17d5113d",
-      "time": "2026-08-18 23:15:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "The Washington Post reports the US is considering reducing its military presence in the Gulf region once the war ends."
-    },
-    {
-      "id": "mkt:01a01570-87a5-7aab-907e-3db9bd0567e2",
-      "time": "2026-08-18 23:14:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Market sources say iron ore trader Radiant World has started layoffs as it faces mounting pressure."
-    },
-    {
-      "id": "mkt:01a01570-3a82-7aab-907e-375299333af3",
-      "time": "2026-08-18 23:14:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot silver fell 3% intraday to $63.80/oz. Spot gold dropped below $4,360/oz, down 1.28% on the day."
-    },
-    {
-      "id": "5046324",
-      "time": "2026-08-18 23:14:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報63.72美元/盎司。"
-    },
-    {
-      "id": "5046323",
-      "time": "2026-08-18 23:14:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4360美元/盎司，日內跌1.29%。"
     }
   ]
 }
