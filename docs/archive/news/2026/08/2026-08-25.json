@@ -1,7 +1,89 @@
 {
   "date": "2026-08-25",
-  "count": 3303,
+  "count": 3311,
   "items": [
+    {
+      "id": "mkt:01a0398e-24ad-7aab-9116-407a51d860bb",
+      "time": "2026-08-25 23:33:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 6-week Treasury bill auction to Aug. 25 — share allocated at stop-out yield 27.88%, prior 37.04%."
+    },
+    {
+      "id": "mkt:01a0398d-e565-7aab-9116-3e7eb3899d1b",
+      "time": "2026-08-25 23:33:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 6-week Treasury auction on Aug 25 — stop-out yield 3.65%, prior 3.65%."
+    },
+    {
+      "id": "mkt:01a0398d-a9a8-7aab-9116-3483465bbfa6",
+      "time": "2026-08-25 23:33:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 6-week Treasury auction as of Aug 25: bid-cover ratio 2.71, prior 2.97."
+    },
+    {
+      "id": "5058350",
+      "time": "2026-08-25 23:32:20",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.650%，投標倍數2.71。"
+    },
+    {
+      "id": "5058349",
+      "time": "2026-08-25 23:32:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "思科：思科雲控制平臺今日起面向美國客戶全面開放商用。"
+    },
+    {
+      "id": "5058348",
+      "time": "2026-08-25 23:31:37",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.38%，歐元斯托克指數上漲0.31%，歐元區藍籌股上漲0.2%。英國富時100指數上漲0.28%，德國DAX指數上漲0.68%，法國CAC 40指數下跌0.08%，西班牙IBEX指數下跌0.07%。"
+    },
+    {
+      "id": "5058347",
+      "time": "2026-08-25 23:31:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古針對四地啟動自治區突發地質災害四級應急響應】據氣象部門預報，受颱風和西南季風影響，8月25日至27日，內蒙古西部地區有中到大雨，局地暴雨到大暴雨。結合內蒙古自治區地質災害氣象風險預測，呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市的部分地區發生地質災害的風險高。根據《內蒙古自治區突發地質災害應急預案（2024 年版）》及有關規定，內蒙古自治區應急管理廳於8月25日針對呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市啟動自治區突發地質災害四級應急響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0398b-6440-7aab-9116-29a896f75357",
+      "time": "2026-08-25 23:30:31",
+      "tags": [
+        "MKT News",
+        "PRX.AS"
+      ],
+      "text": "Prosus investors opposed the company's shareholding structure and top executive pay."
+    },
     {
       "id": "5058346",
       "time": "2026-08-25 23:29:27",
