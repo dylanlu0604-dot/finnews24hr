@@ -1,7 +1,116 @@
 {
   "date": "2026-08-26",
-  "count": 291,
+  "count": 301,
   "items": [
+    {
+      "id": "5058520",
+      "time": "2026-08-26 04:59:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：如果債務持續攀升，到某個節點投資者將停止買入。"
+    },
+    {
+      "id": "mkt:01a03ab7-f466-7aab-911a-da037ea155ee",
+      "time": "2026-08-26 04:58:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Sources say Kyiv has activated an air-defence alert."
+    },
+    {
+      "id": "5058519",
+      "time": "2026-08-26 04:58:00",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：美國債務終將迎來清算時刻。"
+    },
+    {
+      "id": "mkt:01a03ab6-a86e-7aab-911a-d69062225302",
+      "time": "2026-08-26 04:57:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API weekly refined product inventories for week to Aug. 21: -0.50 mln barrels; expected -1.674 mln; prior -2.797 mln."
+    },
+    {
+      "id": "mkt:01a03ab6-6b55-7aab-911a-ca6599bbad05",
+      "time": "2026-08-26 04:57:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Aug.21) | actual -500000M | consensus -1674000M | previous -2797000M"
+    },
+    {
+      "id": "mkt:01a03ab6-54d2-7aab-911a-c730c474d069",
+      "time": "2026-08-26 04:57:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. API gasoline inventories fell 3.20 mln barrels in the week to Aug. 21, versus a -1.00 mln-barrel expected draw and a prior increase of +1.076 mln barrels."
+    },
+    {
+      "id": "mkt:01a03ab6-2fbb-7aab-911a-bcab6e0ad31a",
+      "time": "2026-08-26 04:56:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Aug.21) | actual -3200000M | consensus -1000000M | previous 1076000M"
+    },
+    {
+      "id": "te:economy:578040",
+      "time": "2026-08-26 04:56:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Eases on US Trade Tensions — Canada’s 10-year government bond yield fell to about 3.62% after touching a more than two-year high of 3.76% on August 21, as renewed trade tensions with the US raised concerns over Canada’s economic outlook. Canada imposed retaliatory tariffs of 15%-50% on roughly $20 billion of annual US imports, including metals, agricultural goods, and motorcycles, following an increase in US tariffs after trade talks between the two countries broke down. US President Donald Trump also said tariffs on Canadian cars, trucks, automotive parts, and steel would rise to 50% from January 1, 2027, alongside new duties on several other goods. Rising trade risks prompted markets to scale back expectations for a Bank of Canada rate hike this year, despite elevated energy prices adding to inflationary pressures."
+    },
+    {
+      "id": "5058518",
+      "time": "2026-08-26 04:56:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔響起防空警報。"
+    },
+    {
+      "id": "mkt:01a03ab5-555d-7aab-911a-b5bb8286dca3",
+      "time": "2026-08-26 04:55:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API Cushing crude inventories +1.00 mln bbls in the week to Aug. 21; prior -1.438 mln bbls."
+    },
     {
       "id": "mkt:01a03ab5-333d-7aab-911a-a905255e8d97",
       "time": "2026-08-26 04:55:48",
