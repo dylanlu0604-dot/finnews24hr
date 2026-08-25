@@ -1,7 +1,390 @@
 {
-  "updated": "2026-08-25 14:27:52",
-  "count": 16002,
+  "updated": "2026-08-25 14:44:39",
+  "count": 15999,
   "items": [
+    {
+      "id": "mkt:01a037a8-a7da-7aab-9109-387f5973fd9d",
+      "time": "2026-08-25 14:43:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says U.S. President Trump has congratulated Ukraine on its Independence Day."
+    },
+    {
+      "id": "5056883",
+      "time": "2026-08-25 14:42:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我收到了特朗普在烏克蘭獨立恢復35週年之際發來的祝賀。"
+    },
+    {
+      "id": "5056882",
+      "time": "2026-08-25 14:42:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港恒生指數、恒生科技指數雙雙轉漲】恒生科技指數漲0.11%，報4599.27點，香港恒生指數漲0.01%，報25518.94點。"
+    },
+    {
+      "id": "mkt:01a037a8-0b18-7aab-9109-33061c643dcf",
+      "time": "2026-08-25 14:42:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Labour News Agency reports that over the past decade Iranian workers' purchasing power has fallen. Real wages dropped sharply: the basic wage fell from 232 dlr to 83 dlr over ten years, implying real wages were 2.7x current levels a decade ago."
+    },
+    {
+      "id": "mkt:01a037a8-0546-7aab-9109-2ddc86f78ff5",
+      "time": "2026-08-25 14:42:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan's only domestic high-frequency trading firm relocates to Singapore】Foreign media, citing people familiar with the matter, report Dharmacapital moved all staff to Singapore earlier this month, leaving no HFT firms headquartered in Japan. Sources said Japan's relatively higher tax burden was a partial driver. Dharmacapital Pte CEO Akiyoshi Shiotani said: \"The main reason for the move was to gain better access to global markets. Japan remains our most important market.\" The Japan Financial Services Agency's July registry shows 53 HFT firms trading in Japanese markets; Dharmacapital was the only firm based in Tokyo. Market participants say Tokyo's struggle to consolidate as an international financial centre and factors such as relatively high income-tax rates and language barriers have pushed some financial firms to other Asian hubs."
+    },
+    {
+      "id": "te:markets:577831",
+      "time": "2026-08-25 14:42:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Remains Close to Three-Month Highs — The euro held just above $1.165 in the final full week of August, sustaining its highest level since mid-May, as investors braced for a more hawkish European Central Bank amid geopolitical tensions complicating its inflation battle. The ECB is widely expected to raise interest rates in September, following its June tightening to curb inflation pressures triggered by the US-Iran conflict and its impact on energy prices. Oil remains above $90 per barrel, with risks of further supply constraints for refined fuels, low Eurozone gas inventories, and a prolonged conflict that could extend beyond the US midterm elections in November. A September rate hike would bring the deposit rate to 2.5%, but expectations for further tightening are growing. Markets now price a roughly 25% chance of the deposit rate reaching 3% by March 2027 and about a 60% chance by September."
+    },
+    {
+      "id": "5056881",
+      "time": "2026-08-25 14:41:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華鑫證券：維持酒鬼酒“買入”評級，業績持續出清，固本根基向前進】華鑫證券研報指出，酒鬼酒業績持續出清，固本根基向前進。公司2026H1歸母淨利潤0.12億元（同比+38%），其中2026Q2歸母淨利潤-0.21億元（同比+8%）。繼續強動銷去庫存，盈利能力繼續震盪。當前公司縱深推進SKU精簡，堅決出清低質低效產品，聚力主力產品打造，推動資源向優勢產品集中。價格管理上，依託產品迭代配套順價政策，從嚴管控老品量價、大力整治線上售價，以新品最佳化價值鏈，穩步修復市場價格體系，產品價格秩序持續向好。當前公司將堅持以產品提效為核心、區域聚焦為抓手、渠道建設為支撐、品牌引領為驅動，統籌推進各項經營工作。根據2026年半年報，預計公司2026-2028年EPS分別為0.12/0.17/0.21元，當前股價對應PE分別為310/231/184倍，維持“買入”投資評級。"
+    },
+    {
+      "id": "te:markets:577830",
+      "time": "2026-08-25 14:41:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Closes at More than 1-Week High — Australia's ASX 200 rose 62 points, or 0.7%, to finish at 9,165 on Tuesday, extending gains for a second session to an over one-week high. Stronger U.S. stock futures lifted risk appetite following a mixed Wall Street close Monday, as Treasury Secretary Scott Bessent vowed to “sever every economic lifeline” to Iran. Traders looked ahead to Fed Chair Warsh’s Jackson Hole speech, a key U.S. inflation print, and Nvidia’s earnings. Locally, focus turned to July inflation after June’s reading eased but stayed above target, with RBA minutes stressing demand remains excessive. Most sectors advanced, led by tech, manufacturing, consumers, and healthcare. Miners drove the benchmark higher on firm commodity prices, with BHP up 0.8% and Rio Tinto 1.0%. Gold stocks gained, including Northern Star Resources (0.6%) and Evolution Mining (1.0%). The four big banks added between 0.1% and 0.8%. In contrast, PLS Group slumped 6.0%, while Woodside Energy (-1.4%) and Santos (-1.3%) also lagged."
+    },
+    {
+      "id": "5056880",
+      "time": "2026-08-25 14:40:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國證航天航空指數午後大漲 航空航天ETF華夏（159227）成交額破億】8月25日，A股三大指數盤中走勢分化，截至13:38，國證航天航空行業指數(CN5082)上漲0.83%，成分股長盈通上漲11.19%，航宇科技上漲7.95%，海蘭信上漲3.67%，長城軍工上漲3.24%，廣聯航空上漲2.74%。航空航天ETF華夏（159227）成交額達1.09億元。資金流入方面，航空航天ETF華夏近5個交易日內，合計“吸金”1.36億元。"
+    },
+    {
+      "id": "mkt:01a037a6-03fc-7aab-9109-20e63262b2a9",
+      "time": "2026-08-25 14:40:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports a fire at the Amur gas-chemical complex in Russia’s Amur Oblast; no casualties reported."
+    },
+    {
+      "id": "5056879",
+      "time": "2026-08-25 14:40:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【俄羅斯加大化肥供應，印度化肥股上漲】普京表示俄羅斯將增加對印度的化肥供應後，印度化肥板塊股票走高。個股行情：印度國家化肥化工公司最高漲 8%；帕拉德普磷肥公司上漲 7.5%；特拉凡哥爾化肥化工公司上漲 16%。"
+    },
+    {
+      "id": "5056878",
+      "time": "2026-08-25 14:40:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯阿穆爾天然氣化工聯合企業發生火災。"
+    },
+    {
+      "id": "5056877",
+      "time": "2026-08-25 14:39:18",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗策略師：全球股市多頭資金流入正在消退】由戴維・丘牽頭的策略團隊稱，美國投資者交易行為轉向多頭平倉與新開空頭頭寸。標普 500 以及納斯達克期貨的風險敞口正逐步迴歸中性水平。團隊在研報中寫道：“羅素 2000 指數仍是明顯例外；其多頭敞口仍接近三年高位，若空頭勢頭延續，獲利了結風險將處於高位。”歐洲市場儘管市場情緒小幅轉弱，但平均持倉水平在發達市場中居於最高。“德國 DAX 指數面臨主要戰術風險：盈利的多頭頭寸與深度虧損的空頭頭寸並存，形成非對稱資金流動格局。”"
+    },
+    {
+      "id": "mkt:01a037a4-bd01-7aab-9109-1f501ce9f68b",
+      "time": "2026-08-25 14:38:58",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-shares compute-power leasing sector rebounded amid volatility. Jialitu, Dongyi Risheng and Gan Consulting hit daily limit-up; Chuangye Heima rose over 10%. Nanling Technology, Damingcheng, Qunxing Toys and Meili Cloud also advanced."
+    },
+    {
+      "id": "5056876",
+      "time": "2026-08-25 14:38:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "據ITS測算，馬來西亞8月1日至25日的棕櫚油出口量為104.5204萬噸。"
+    },
+    {
+      "id": "5056875",
+      "time": "2026-08-25 14:38:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪反彈 佳力圖等多股漲停】午後算力租賃概念震盪反彈，佳力圖、東易日盛、甘諮詢漲停，創業黑馬漲超10%，南凌科技、大名城、群興玩具、美利雲等跟漲。訊息面上，根據OpenRouter官網釋出資料，上週（8月17日至8月23日）全球AI大模型總呼叫量為93.4萬億Token，環比增長24%，周呼叫量首次突破90萬億關口，連續第三週創歷史新高。"
+    },
+    {
+      "id": "5056874",
+      "time": "2026-08-25 14:38:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【泰國擬賦予證交會權力，可與警方聯合調查案件】泰國政府擬修訂法規，強化證券交易委員會的調查許可權，使這家市場監管機構能夠就資本市場及數字資產相關案件與警方協同辦案。財政部長埃克尼提・尼蒂坦普拉帕斯於週二向記者表示，內閣已批准修訂四部涉及金融、資本市場以及數字資產的法律。埃克尼提稱，修訂草案將允許證交會工作人員與警方聯合開展案件調查，以此強化執法許可權。修訂提案同時將擴大對電子交易的監管範圍。"
+    },
+    {
+      "id": "5056873",
+      "time": "2026-08-25 14:37:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美對伊朗武裝力量高階官員釋出懸賞】在加大對伊朗制裁之際，美國政府24日釋出最高1000萬美元的懸賞，徵集有關伊朗伊斯蘭革命衛隊總司令艾哈邁德·瓦希迪等伊朗武裝力量高階官員的線索。 根據美國國務院網站釋出的訊息，美方本次釋出的懸賞物件共計5人，除了瓦希迪外，還包括伊朗武裝部隊總參謀長阿里·阿卜杜拉希、革命衛隊無人機司令部司令賽義德·阿加賈尼等。目前美方最新的相關懸賞單上共有14人。 今年3月13日，美方懸賞徵集伊朗最高領袖穆傑塔巴·哈梅內伊以及伊朗軍政高官的情報線索。 伊朗伊斯蘭共和國軍隊總司令哈塔米8月中旬宣佈，任何伊朗人抓捕或殺死一名美國“侵略者”，將獲得由“伊朗人民”提供的3萬美元獎勵。(新華社)"
+    },
+    {
+      "id": "5056872",
+      "time": "2026-08-25 14:37:11",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【道富：美國國債回購計劃令人聯想到做空禁令】道富投資管理公司表示，政府雖能在一段時間內影響市場定價，但很難長期維持與基本面相背離的價格水平。資深固收策略師馬西科・盧表示：“此次擴大美國國債回購規模進一步釋放訊號，政策制定者對長端收益率走高的容忍度有限，但該舉措幾乎無法解決問題的根源：通脹仍高於目標水平背景下持續存在的財政赤字。”“在某些方面，這讓人想起做空禁令，這類措施能夠小幅影響市場行為，但幾乎不會改變基本面執行趨勢。”"
+    },
+    {
+      "id": "mkt:01a037a2-eb20-7aab-9109-174b92335951",
+      "time": "2026-08-25 14:36:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "Impact mixed",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "【Digitimes: AI infrastructure surge to push cloud providers toward efficiency and financial discipline in H2 2026】Research firm Digitimes says AI-driven infrastructure spending is accelerating and major cloud providers will increasingly prioritize operational efficiency and financial discipline in H2 2026. Amazon, Alphabet and Microsoft posted combined Q2 cloud revenue of $106.3bn, up 43% YoY—the fastest pace since 2020. Digitimes expects Amazon, Microsoft, Alphabet and Meta to lift aggregate capital expenditure to a record $745bn. While firms remain constructive on AI demand, rising investment costs have pressured free cash flow, prompting cost controls, financial adjustments and more efficient AI service offerings as providers seek to balance growth targets with mounting investment risk."
+    },
+    {
+      "id": "5056871",
+      "time": "2026-08-25 14:36:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安克創新新設通用裝置公司 含多項AI業務】企查查APP顯示，近日，深圳市安克寶盈通用裝置有限責任公司成立，經營範圍包含：可穿戴智慧裝置製造；智慧機器人的研發；人工智慧應用軟體開發；人工智慧理論與演算法軟體開發；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由安克創新全資持股。"
+    },
+    {
+      "id": "5056869",
+      "time": "2026-08-25 14:35:24",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【專家：美元走弱是黃金價格突破的直接催化劑】為何金價開啟上漲行情？此輪金價快速上行背後多重邏輯交織。中國外匯投資研究院研究總監李鋼在接受採訪時表示，美元走弱是黃金價格突破的直接催化劑。黃金的定位也發生變化，不再侷限於傳統避險資產，逐步成為對沖美元信用、主權債務風險的工具。北京投資者閆女士告訴中新經緯，截至目前，她共持有黃金投資品170克，持倉均價約1113.29元/克。若按25日投資金價約1000元/克計算，她仍浮虧約1.9萬元。對於後續金價走向，李鋼持偏樂觀態度，他認為短中期金價上漲至5000美元可能並非難事。（中新經緯）"
+    },
+    {
+      "id": "te:markets:577827",
+      "time": "2026-08-25 14:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natgas Prices Hold Near Multi-Year Highs — UK natural gas prices dropped below 167 pence per therm on Tuesday but stayed close to multi-year highs, as investors assessed the impact of fresh US measures against Iran. The US Treasury said expanded secondary sanctions would target Iran’s digital assets, technology, gold, aviation and shipping sectors. It also imposed new sanctions on nearly 60 entities, individuals, and vessels allegedly involved in generating oil revenues for Iran, procuring weapons, and supporting cyber operations. These developments have added to already elevated supply risks in Europe, where the continued blockade of the Strait of Hormuz has constrained LNG deliveries from Qatar. The disruption has coincided with stronger cooling demand amid persistent heatwaves, making it more difficult for Europe to rebuild gas inventories and heightening fears that the region could enter the winter heating season with insufficient supplies."
+    },
+    {
+      "id": "5056868",
+      "time": "2026-08-25 14:35:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "據霍爾果斯海關統計，今年1至7月霍爾果斯口岸進出口貨運量2701.2萬噸，同比增長2.4%，位居新疆口岸首位。（新華社）"
+    },
+    {
+      "id": "mkt:01a037a0-fae7-7aab-9109-0e6a34cc5760",
+      "time": "2026-08-25 14:34:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HSBC has bought at least $3bn of Indian government bonds since July】People familiar said HSBC Holdings has bought at least $3 billion of Indian government bonds since July, funding the purchases with large inflows raised under the Reserve Bank of India’s non-resident foreign currency deposit scheme (FCNR(B)). The bank has concentrated purchases in five-year paper and has attracted over $10 billion under the scheme, the largest intake among global peers. The RBI’s overseas dollar window, opened on June 5 to draw foreign currency and support the rupee, has helped compress domestic funding costs: since June 5 five-year government yields have fallen about 31bp versus roughly a 12bp decline in the 10-year."
+    },
+    {
+      "id": "5056867",
+      "time": "2026-08-25 14:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業和資訊化部綠色低碳標準化技術委員會成立】工業和資訊化部綠色低碳標準化技術委員會（以下簡稱“綠標委”）成立，第一屆綠標委由來自政府部門、部屬單位、科研院所、高校、行業協會及龍頭企業的71名委員組成，秘書處設在中國電子技術標準化研究院。近日，綠標委審議透過了章程、秘書處工作細則、標準制修訂工作程式等制度檔案，推動綠標委工作制度化、規範化執行。下一步，綠標委將深入貫徹落實部標準化工作領導小組會議精神，統籌協調各行業標準化機構，加強節能降碳、節水減排、清潔生產、資源綜合利用、綠色製造等領域標準預研、制修訂工作，加大標準宣貫力度。"
+    },
+    {
+      "id": "5056866",
+      "time": "2026-08-25 14:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗部長：伊朗擁有反擊美國 “經濟恐怖襲擊” 的手段】伊朗經濟部長阿里・馬達尼扎德週一晚間在國家電視臺表示：“他們企圖對我們發動一場經濟恐怖襲擊，但我們手握應對手段，也深諳這場博弈的規則。”“這一次，他們不要以為我們只會被動防禦；也要做好承受我方反擊的準備。”“我們正努力推動外匯市場迴歸正常執行狀態。”"
+    },
+    {
+      "id": "mkt:01a0379e-47d0-7aab-9109-06624c2be463",
+      "time": "2026-08-25 14:31:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI closed up 45.77 points, or 0.68%, at 6,742.73 on Tuesday, Aug. 25."
+    },
+    {
+      "id": "mkt:01a0379e-4368-7aab-9108-fe008d392da7",
+      "time": "2026-08-25 14:31:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 closed up 328.34 points, or 0.50%, at 65,856.43 on Tuesday, August 25."
+    },
+    {
+      "id": "5056865",
+      "time": "2026-08-25 14:31:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月25日：“農產品批發價格200指數”比昨天上升0.05個點】據農業農村部監測，8月25日“農產品批發價格200指數”為115.65，比昨天上升0.05個點，“菜籃子”產品批發價格指數為116.20，比昨天上升0.06個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.30元/公斤，比昨天上升0.4%；牛肉68.40元/公斤，比昨天下降0.2%；羊肉65.90元/公斤，比昨天上升0.3%；雞蛋10.90元/公斤，比昨天上升0.8%；白條雞17.11元/公斤，比昨天上升1.1%。重點監測的28種蔬菜平均價格為4.57元/公斤，比昨天下降1.9%；重點監測的6種水果平均價格為6.69元/公斤，比昨天下降2.0%。鯽魚20.03元/公斤，比昨天下降1.5%；鯉魚14.16元/公斤，比昨天下降0.6%；白鰱魚10.51元/公斤，比昨天下降0.1%；大帶魚43.22元/公斤，比昨天下降1.3%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西瓜、花鰱魚、白條雞、雞蛋和蒜薹，幅度分別為5.9%、1.9%、1.1%、0.8%和0.6%；價格降幅前五名的是巨峰葡萄、平菇、南瓜、蓮藕和冬瓜，幅度分別為7.9%、4.1%、3.7%、3.3%和3.2%。"
+    },
+    {
+      "id": "5056864",
+      "time": "2026-08-25 14:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數收盤上漲0.5%，至65,856.43點。"
+    },
+    {
+      "id": "te:markets:577823",
+      "time": "2026-08-25 14:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Steel Holds Near 1-Month High — Steel rebar futures held above CNY 3,060 per ton, hovering near one-month highs on hopes for stronger demand in top consumer China ahead of the September peak construction season, while Beijing unveiled fresh policy support. Markets are anticipating a pickup in demand as construction activity accelerates ahead of winter. China will also introduce a new package of measures to expand domestic demand and support economic growth, according to Vice Finance Minister Liao Min. Additionally, China’s National Development and Reform Commission reportedly held consecutive meetings last week urging local governments to accelerate the construction of major projects. However, China’s property market has remained in a prolonged slump for five years, with real estate values continuing to decline, financially strained households being forced to sell properties, and heavily indebted developers facing mounting pressure after accumulating massive debt on speculative projects."
+    },
+    {
+      "id": "te:markets:577820",
+      "time": "2026-08-25 14:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.31% Higher — The Nikkei 225 Index gained 200 points or 0.31 percent on Tuesday to close at 65729 points. Gains were led by Furukawa Electric (9.66%), Fujikura (5.72%) and Citizen Holdings (4.01%). Biggest losers were Yokohama Rubber (-3.75%), Tokyo Electric Power (-3.41%) and Honda Motor (-3.21%)."
+    },
+    {
+      "id": "5056863",
+      "time": "2026-08-25 14:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【大量沙丁魚死亡致南非下調核電站發電量】據南非媒體24日報道，由於南非沿海近期出現大量死亡沙丁魚，堵塞南非庫貝赫核電站的海水冷卻系統進水區，南非國家電力公司將該核電站1號機組發電量下調至50%。（新華社）"
+    },
+    {
+      "id": "5056862",
+      "time": "2026-08-25 14:28:57",
+      "tags": [
+        "資料",
+        "其他",
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯6月份貿易順差為173.15億沙特里亞爾。"
+    },
+    {
+      "id": "te:economy:577815",
+      "time": "2026-08-25 14:28:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Norway Jobless Rate Hits 17-Month Low — Norway’s seasonally adjusted unemployment rate fell to 4.2% in July from an upwardly revised 4.6% in the previous month. This marked the lowest rate since February 2025, as the number of unemployed persons decreased to 130 thousand from 140 thousand in June, with unemployed males falling by 4.5% to 73 thousand, while the number of unemployed women decreased by 3.9% to 57 thousand. The youth unemployment rate, which covers those aged 15 to 24, dropped to 12.1% from 14.0%. Meanwhile, the employment rate rose to 70.2% from 69.7% a month earlier, with the number of employed persons increasing to 2.944 million from 2.918 million. The labour force participation rate increased to 73.3% from 73.0%, with the labour force expanding by 16 thousand to 3.074 million. Total man-weeks worked, adjusted to a 37.5-hour workweek, grew to 2.196 million from 2.175 million in the prior period. Compared with July last year, the unemployment rate was 0.2 percentage points higher, at 4.4%."
+    },
+    {
+      "id": "5056861",
+      "time": "2026-08-25 14:27:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：烏總理希望日本提供“愛國者”】據共同社8月24日報道，烏克蘭總理謝爾蓋·科列茨基23日在首都基輔接受了該社專訪。在來自俄羅斯的彈道導彈攻擊愈演愈烈的背景下，科列茨基表示“強烈期待並依賴”日本提供包括攔截導彈在內的防空武器。這是他自今年7月上任以來首次接受海外媒體採訪。 雖然日本已於今年4月修訂《防衛裝備轉移三原則》及其運用指標，但具備殺傷能力的武器轉移需以締結《防衛裝備和技術轉移協定》為前提，且原則上不允許向處於衝突中的國家出口武器。 即使日烏兩國已締結該協定，日本要向烏克蘭提供攔截導彈也需首相高市早苗作出政治決斷，在這一問題上面臨極高的門檻。（參考訊息）"
+    },
+    {
+      "id": "mkt:01a0379a-a862-7aab-9108-f0cd9c1670a2",
+      "time": "2026-08-25 14:27:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign ministry welcomed the U.S. decision to remove Syria from the U.S. list of state sponsors of terrorism."
+    },
+    {
+      "id": "5056860",
+      "time": "2026-08-25 14:27:28",
+      "tags": [
+        "資料",
+        "其他",
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯6月份石油出口額同比下降2.3%。"
+    },
+    {
+      "id": "mkt:01a03799-1732-7aab-9108-e9584293612c",
+      "time": "2026-08-25 14:26:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kazakhstan's Ministry of Energy says Karachaganak oilfield is scheduled for maintenance in September, with estimated production loss of 400,000-450,000 tonnes."
+    },
+    {
+      "id": "5056859",
+      "time": "2026-08-25 14:26:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "據伊朗媒體：開盤不到一小時，德黑蘭證券交易所綜合指數上漲逾10萬點，突破歷史性的620萬點。"
+    },
     {
       "id": "mkt:01a03798-9d31-7aab-9108-e7f0ccb30ca3",
       "time": "2026-08-25 14:25:43",
@@ -144686,401 +145069,6 @@
         "Impact bullish"
       ],
       "text": "【Pound slips after UK jobs data】UK jobs data: unemployment unexpectedly unchanged at 4.9% (vs 4.8% expected); employment fell in the three months to June; three-month average pay excluding bonuses rose 3.5% (vs 3.4% expected). Aberdeen Group strategist Felix Feather said the labour market has been easing for some time, supporting the case for the Bank of England to keep policy rates unchanged for the remainder of the year. After the release, GBP/USD dipped 0.1% to 1.3519 and EUR/GBP rose 0.1% to 0.8554."
-    },
-    {
-      "id": "5045374",
-      "time": "2026-08-18 14:43:12",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【國家衛健委：持續加強對醫療機構手術知情同意工作的指導和管理】近日，國家衛生健康委員會（以下簡稱“國家衛健委”）官網公佈了《對十四屆全國人大四次會議第0617號建議的答覆》，回應此前全國人大代表提出的《關於在手術同意書中增加手術必要性及病情多種可能性告知的建議》。國家衛健委在答覆中表示，高度重視醫療機構手術管理相關工作，根據《醫療機構病歷管理規定（2013年版）》，手術同意書屬於病歷，其書寫應當客觀、真實、準確、及時、完整、規範。《病歷書寫基本規範》明確了手術相關文書的書寫要求。國家衛健委組織印發《手術質量安全提升行動方案（2023—2025年）》，要求醫療機構要根據手術風險、患者評估情況和患者意願科學制定手術方案，明確手術指徵、禁忌症、手術方式、預期效果、手術風險及處置預案。（澎湃）"
-    },
-    {
-      "id": "5045373",
-      "time": "2026-08-18 14:42:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲5%，現報587.60元。"
-    },
-    {
-      "id": "mkt:01a0139b-8a54-7aab-9071-71ea0e165671",
-      "time": "2026-08-18 14:42:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Market sources: Russian missile strike on Ukraine's Kharkiv region kills 10."
-    },
-    {
-      "id": "5045372",
-      "time": "2026-08-18 14:42:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報91.81美元/桶。"
-    },
-    {
-      "id": "5045371",
-      "time": "2026-08-18 14:42:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通鼎互聯等成立科技新公司 含光電子器件製造業務】企查查APP顯示，近日，四川鼎睿精切科技有限公司成立，經營範圍包含：電子元器件批發；電子產品銷售；光電子器件製造；光學儀器製造；光纖銷售；光纖製造等。企查查股權穿透顯示，該公司由通鼎互聯等共同持股。"
-    },
-    {
-      "id": "5045370",
-      "time": "2026-08-18 14:42:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭一州長稱，俄羅斯導彈襲擊在烏克蘭哈爾科夫州造成10人死亡。"
-    },
-    {
-      "id": "5045369",
-      "time": "2026-08-18 14:40:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副總統：霍爾木茲海峽相關爭端很快將會得到解決。"
-    },
-    {
-      "id": "mkt:01a01399-8d3c-7aab-9071-6c229f212886",
-      "time": "2026-08-18 14:40:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Vice President Arif said if Iran were to sail in the Gulf of Mexico, one must ask what reaction the US would have."
-    },
-    {
-      "id": "5045368",
-      "time": "2026-08-18 14:40:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神龍汽車、東風集團股份等合資新公司 註冊資本近82億元】企查查APP顯示，近日，神龍汽車科技（武漢）有限公司成立，法定代表人為黃勇，註冊資本約為82億元，經營範圍包含：汽車零部件研發；以自有資金從事投資活動；汽車零配件零售；汽車零配件批發；汽車銷售等。企查查股權穿透顯示，該公司由神龍汽車有限公司、東風汽車集團股份有限公司等共同持股。"
-    },
-    {
-      "id": "mkt:01a01399-165b-7aab-9071-60087d47237e",
-      "time": "2026-08-18 14:39:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran Vice President Arif said the Strait of Hormuz has belonged to Iran for years and that the issue will be resolved soon."
-    },
-    {
-      "id": "mkt:01a01398-a547-7aab-9071-5fcdd80dc4cb",
-      "time": "2026-08-18 14:39:25",
-      "tags": [
-        "MKT News",
-        "06158.HK",
-        "Impact bullish"
-      ],
-      "text": "Zhenro Properties (06158.HK) shares surged as much as 140% intraday in the afternoon, narrowing to a gain of 112.5% after the developer said it plans to restructure nine bonds listed on the Shanghai Stock Exchange."
-    },
-    {
-      "id": "5045367",
-      "time": "2026-08-18 14:39:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "海力士股價上漲1.0%，收於166.2萬韓元。"
-    },
-    {
-      "id": "5045366",
-      "time": "2026-08-18 14:39:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【頻準鐳射參保人數7年暴漲73倍】天眼查App顯示，上海頻準鐳射科技股份有限公司成立於2017年11月，法定代表人為張磊，註冊資本3000萬人民幣，經營範圍包括光學儀器製造、貨物進出口、技術進出口等。參保人數資訊顯示，該公司參保人數從2018年的7人增至2025年的519人。"
-    },
-    {
-      "id": "5045365",
-      "time": "2026-08-18 14:38:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元下跌0.3%至31.950。"
-    },
-    {
-      "id": "mkt:01a01397-9c8c-7aab-9071-555d78705e66",
-      "time": "2026-08-18 14:38:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: military activity in Yellow Sea】Qingdao Maritime Safety Administration posted on the China Maritime Safety Administration website that parts of the Yellow Sea will be closed to navigation for military activity from Aug 20 16:00 to Aug 23 16:00; entry is prohibited."
-    },
-    {
-      "id": "5045364",
-      "time": "2026-08-18 14:37:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！黃海海域有軍事活動】據中國海事局網站訊息，青島海事局釋出航行警告，8月20日16時至23日16時，黃海部分海域進行軍事活動，禁止駛入。"
-    },
-    {
-      "id": "mkt:01a01396-aaa1-7aab-9071-4caacdf9dcac",
-      "time": "2026-08-18 14:37:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Several China-listed grain ETFs jump over 7%】China-listed grain ETFs including INVESCO, E Fund and Huaxia rallied more than 7%."
-    },
-    {
-      "id": "mkt:01a01396-84f2-7aab-9071-46a0e134f959",
-      "time": "2026-08-18 14:37:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【JLL: Shanghai super-prime offices lead market recovery】Aug 18 — JLL China research director Yao Yao said Shanghai super-prime offices are showing durable rent premiums and lower vacancy and are now the primary engine of the city's market repair. Data through end-2Q show average rent at 8.5 yuan/sqm/day; in 1H2026 nearly 70% of super-prime projects recorded rent stabilisation or increases. For projects completed since 2022, average absorption has been 2.7–2.9x that of standard Grade-A at comparable stages, and 94% of leasing into super-prime over the past year was upgrade demand."
-    },
-    {
-      "id": "5045363",
-      "time": "2026-08-18 14:36:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【仲量聯行：上海“超甲級”辦公樓引領市場復甦】8月18日，仲量聯行中國區研究部總監姚耀指出，“長期以來，上海超甲級辦公樓在租金溢價與空置率上均較普通甲級辦公樓展現出穩固的優勢。進入2026年，超甲級辦公樓釋放強勁的企穩回升訊號，成為引領上海市場修復的核心引擎。”截至今年二季度末的關鍵資料印證了這一趨勢。租金方面，上海超甲級辦公樓平均租金達8.5元/平方米/天，在2026年上半年，近七成專案實現租金企穩或上漲。去化方面，基於2022年以來新竣工專案，上海超甲級辦公專案的平均去化速度在不同階段均大幅領先，達到普通甲級的2.7-2.9倍。而且，過去一年遷入超甲級辦公樓的租賃交易中，升級型需求佔比高達94%。"
-    },
-    {
-      "id": "5045362",
-      "time": "2026-08-18 14:36:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻糧食ETF大漲超7%】糧食ETF景順（159072）、糧食ETF易方達（159038）、糧食ETF華夏（159030）等多支糧食ETF漲超7%。"
-    },
-    {
-      "id": "5045361",
-      "time": "2026-08-18 14:36:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月18日：“農產品批發價格200指數”比昨天上升0.14個點】據農業農村部監測，8月18日“農產品批發價格200指數”為115.61，比昨天上升0.14個點，“菜籃子”產品批發價格指數為116.14，比昨天上升0.17個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.99元/公斤，比昨天下降0.2%；牛肉68.25元/公斤，比昨天上升0.2%；羊肉65.89元/公斤，比昨天上升1.3%；雞蛋10.51元/公斤，比昨天上升1.1%；白條雞17.20元/公斤，比昨天下降0.8%。重點監測的28種蔬菜平均價格為4.62元/公斤，比昨天下降0.4%；重點監測的6種水果平均價格為6.91元/公斤，比昨天下降0.1%。鯽魚20.11元/公斤，比昨天下降1.4%；鯉魚14.33元/公斤，比昨天下降1.2%；白鰱魚10.45元/公斤，比昨天下降1.4%；大帶魚42.33元/公斤，比昨天下降0.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西瓜、菠菜、鴨梨、生菜和羊肉，幅度分別為3.2%、2.0%、1.5%、1.5%和1.3%；價格降幅前五名的是巨峰葡萄、南瓜、冬瓜、大白菜和青椒，幅度分別為3.3%、3.3%、3.2%、3.2%和2.8%。"
-    },
-    {
-      "id": "mkt:01a01395-769b-7aab-9071-3b319546c906",
-      "time": "2026-08-18 14:35:57",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Market sources said US Forces Korea commander Brunson visited South Korea's defense ministry to discuss reducing \"joint live-fire exercises\"."
-    },
-    {
-      "id": "5045360",
-      "time": "2026-08-18 14:35:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：增強城市安全科學治理效能 實施韌性安全城市建設“人工智慧+”行動】上海市人民政府印發《上海市韌性安全城市建設“十五五”規劃》，其中提到，增強城市安全科學治理效能。推動大資料、物聯網、區塊鏈、人工智慧、數字孿生等新技術與城市韌性安全治理融合創新應用。實施韌性安全城市建設“人工智慧+”行動。圍繞“高效處置一件事”，打造“業務引領、模型眾創、場景聯訓、實戰管用”應用生態。推動建設數字孿生大氣、數字孿生水網。實施公安機關新質戰鬥力提升工程。推進“人工智慧+消防安全”業務應用系統建設工程。有序開發災害綜合防治、生命線執行、大客流、大車流、傳染病風險監測等垂類大模型和智慧體矩陣。組織開展極端環境下風險研判、監測預警、事故防控、應急救援等領域前沿性、關鍵性和顛覆性技術攻關，提高突發事件前瞻預判和快速響應能力。"
-    },
-    {
-      "id": "5045359",
-      "time": "2026-08-18 14:35:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國駐韓部隊指揮官布倫森訪問韓國國防部，討論縮減“聯合火力演習”事宜。"
-    },
-    {
-      "id": "mkt:01a01395-0192-7aab-9071-3278da616ba8",
-      "time": "2026-08-18 14:35:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai aims to complete urban public-safety system and strengthen intrinsic safety by 2030】The Shanghai municipal government issued the Resilient Safety City Construction 15th Five-Year Plan, targeting that by 2030 the city will have an overall improved public-safety system and strengthened intrinsic safety. The plan calls for more efficient peacetime-emergency integrated use of urban space, continued upgrades to critical infrastructure and building defenses, consolidated social co-governance of safety, normalized long-term risk-prevention and mitigation mechanisms, enhanced operational emergency-rescue capabilities, and expanded deployment of digital/intelligent city-safety tools to raise public safety perceptions and position Shanghai as a domestic leader and international-class resilient city."
-    },
-    {
-      "id": "5045358",
-      "time": "2026-08-18 14:34:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達100億港元。"
-    },
-    {
-      "id": "5045357",
-      "time": "2026-08-18 14:33:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：到2030年城市公共安全體系總體完善 本質安全全面加強】上海市人民政府印發《上海市韌性安全城市建設“十五五”規劃》，到2030年，城市公共安全體系總體完善，本質安全全面加強，城市空間資源平急複合利用效能顯著提升，關鍵基礎設施和房屋建築安全防禦水平持續提高，城市安全社會共治合力更加凝聚，安全風險防範化解體系常態長效，應急救援實戰能力持續提升，城市安全數智賦能水平整體提高，人民群眾安全感不斷增強，全面建成國內領先、國際一流的韌性安全城市。"
-    },
-    {
-      "id": "5045356",
-      "time": "2026-08-18 14:33:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美股期貨下跌 通脹擔憂推升全球債券收益率】受通脹擔憂重燃影響，全球債券收益率升至數十年高位，美國股指期貨延續跌勢。科技股佔比較高的納斯達克100指數期貨一度下跌1%，標普500指數期貨下跌0.6%。30年期國債收益率觸及2007年以來最高水平後繼續走高。"
-    },
-    {
-      "id": "mkt:01a01392-6c26-7aab-9071-2cced8f9f796",
-      "time": "2026-08-18 14:32:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Sichuan above-scale industrial value-added +6.6% YoY Jan–Jul】Sichuan provincial statistics bureau said on the 18th that above-scale industrial value-added rose 6.6% YoY in Jan–Jul; product sales rate was 95.3%. By sector, mining +5.4% YoY, manufacturing +6.5%, utilities (power, heat, gas and water production and supply) +7.9%. By ownership, state-controlled +6.4%, joint-stock +7.1%, private +3.6%. 33 of 41 major industries expanded YoY; top gains: electrical machinery & equipment +11.8%, computers/communications & other electronic equipment +10.7%, power/utilities +7.9%, chemical raw materials & products +7.5%, pharmaceuticals +6.8%."
-    },
-    {
-      "id": "5045355",
-      "time": "2026-08-18 14:32:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【1至7月四川省規上工業增加值同比增長6.6%】四川省統計局18日釋出資料顯示，今年1至7月，四川省規模以上工業增加值同比（下同）增長6.6%，規模以上工業企業產品銷售率為95.3%。分三大門類看，四川採礦業增加值同比增長5.4%；製造業增長6.5%；電力、熱力、燃氣及水生產和供應業增長7.9%。分經濟型別看，國有控股企業增加值同比增長6.4%，股份制企業增長7.1%，私營企業增長3.6%。分行業看，41個大類行業中33個行業增加值同比實現增長，其中，電氣機械和器材製造業同比增長11.8%，計算機、通訊和其他電子裝置製造業增長10.7%，電力、熱力生產和供應業增長7.9%，化學原料和化學制品製造業增長7.5%，醫藥製造業增長6.8%。"
-    },
-    {
-      "id": "5045354",
-      "time": "2026-08-18 14:32:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數收盤下跌 1%，報 4140.22 點。"
-    },
-    {
-      "id": "mkt:01a01392-1178-7aab-9071-235c9779d1c6",
-      "time": "2026-08-18 14:32:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【Japan, South Korea stocks fall; Nikkei 225 down over 2%】Japan's Nikkei 225 closed down 1,759.52 points (-2.54%) at 67,460.73 on Tuesday, Aug. 18. South Korea's KOSPI closed down 108.14 points (-1.55%) at 6,869.80."
-    },
-    {
-      "id": "5045353",
-      "time": "2026-08-18 14:31:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收跌】日經225指數收跌2.54%，報67460.73點。韓國綜指收跌1.55%，報6869.80點。"
-    },
-    {
-      "id": "5045352",
-      "time": "2026-08-18 14:31:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電投集團黑龍江電力有限公司黨委副書記紀連舉接受審查調查】據中央紀委國家監委駐國家電投紀檢監察組、黑龍江省紀委監委訊息：國家電投集團黑龍江電力有限公司黨委副書記、總經理紀連舉涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家電投紀檢監察組紀律審查和黑龍江省佳木斯市監察委員會監察調查。"
-    },
-    {
-      "id": "5045351",
-      "time": "2026-08-18 14:31:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【濃煙滾滾 美國俄克拉何馬州三座儲油罐發生爆炸】當地時間17日，美國俄克拉何馬州格倫普爾一處能源管道設施遭遇雷擊，造成三座儲油罐發生爆炸，現場火光沖天、升起濃濃黑煙。當地政府立即對周邊居民和企業釋出疏散令，消防人員在現場展開滅火作業。目前尚無人員傷亡的報告。（央視新聞）"
-    },
-    {
-      "id": "te:economy:576026",
-      "time": "2026-08-18 14:31:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Finland 10Y Bond Yield Hits 33-month High — Finland 10 Year Government Bond Yield increased to 3.58%, the highest since October 2023. Over the past 4 weeks, Finland 10Y Bond Yield gained 8.56 basis points, and in the last 12 months, it increased 43.00 basis points."
-    },
-    {
-      "id": "5045350",
-      "time": "2026-08-18 14:30:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞士國家銀行 7 天指數化回購，利差‑5 個基點。"
-    },
-    {
-      "id": "5045349",
-      "time": "2026-08-18 14:30:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方正證券：維持今世緣“推薦”評級，Q2經營表現全面向好】方正證券研報指出，今世緣26Q2經營表現全面向好，拐點訊號快於預期。26H1公司實現歸母淨利潤20.82億元，同比-6.6%；其中25Q2實現歸母淨利潤6.97億元，同比+19.2%。二季度公司分產品全線回暖，其中100-300元的特A類產品上半年錄得正增長，淡雅國緣作為大眾價位帶單品韌性突出，公司“國緣V系深耕高階、開系鎖定主流價格帶、淡雅持續放量”的產品分級運作策略，在當前消費分級趨勢下展現出較強的協同適應。省內淮安、蘇中大區環比改善，省外保持連續增長。截至26Q2，公司經銷商數量合計1465家，相較26Q1淨增加74家，其中省內/省外經銷商數量分別+27/+47家，省內下沉和省外開拓並進。預計公司2026-2028年營業收入106.00/111.14/118.13億元，同比+4.1%/+4.9/+6.3%；預計實現歸母淨利潤26.55/28.03/30.72億元，同比+2.0%/+5.6%/+9.6%，維持“推薦”評級。"
-    },
-    {
-      "id": "te:markets:576025",
-      "time": "2026-08-18 14:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 2.24% Lower — The Nikkei 225 Index dropped 1548 points or 2.24 percent on Tuesday to close at 67672 points. Losses were led by Taiyo Yuden (-12.19%), Murata Manufacturing (-9.17%) and Citizen Holdings (-6.68%)."
-    },
-    {
-      "id": "5045348",
-      "time": "2026-08-18 14:30:01",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【大摩展望AWS營收十年內將邁過萬億美元】摩根士丹利維持亞馬遜335美元的近期目標價，較當前有28%上漲空間。摩根士丹利表示，亞馬遜股價2027年底有望觸及500美元，關鍵在於AWS業務。大摩估算稱，若亞馬遜算力擴張同時，單位算力的盈利也持續提升，AWS營收在2035年可以超1萬億美元。"
-    },
-    {
-      "id": "5045347",
-      "time": "2026-08-18 14:29:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "正榮地產(06158.HK)午後漲超140%，月內累計漲幅超380%。截至發稿，漲120.83%，報0.053港元。"
-    },
-    {
-      "id": "5045346",
-      "time": "2026-08-18 14:29:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國國家統計局表示，截至6月的三個月內，剔除獎金後的私營部門工資增速從2.9%放緩至2.8%，創近六年來最低水平。"
-    },
-    {
-      "id": "mkt:01a0138e-d6d6-7aab-9071-18b7ffe24f25",
-      "time": "2026-08-18 14:28:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Analyst: US options to escalate in Strait of Hormuz very limited】Brian Clark, senior fellow at the Hudson Institute, says US scope to further escalate a blockade of Iranian ports in the Strait of Hormuz without exposing US forces to major risk is very limited. He warned no war has historically been won by air power alone. The remaining US military option would be to ‘‘open the Strait’’ by using naval and air forces to escort commercial shipping — a step Washington has so far avoided. Deploying warships to protect transits could risk a reprise of the 1980s tanker war, with vessels coming under attack; the next escalation would be ground forces. Before committing ground troops, the US may attempt limited escort missions to signal Iran does not fully control the Strait. Clark expects the standoff to end with Iran and Yemen exercising de facto control via some form of charging for passage, while the US seeks a diplomatic ‘‘fig leaf’’ to claim the issue was resolved without harming US interests."
-    },
-    {
-      "id": "5045345",
-      "time": "2026-08-18 14:28:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度或將放寬外商直接投資規則以提振外資。"
     }
   ]
 }
