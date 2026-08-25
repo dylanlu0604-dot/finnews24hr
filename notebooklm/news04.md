@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-26 05:40:07_
-_本檔包含 3399 則快訊，約 653223 字_
+_更新時間：2026-08-26 05:57:13_
+_本檔包含 3400 則快訊，約 653718 字_
+
+---
+
+### 2026-08-21 07:36:12  #公司 #市場
+
+【A股限售股解禁一覽：10.46億元市值限售股今日解禁】Wind資料顯示，週五（8月21日），共有1家公司限售股解禁，合計解禁量為6319.19萬股，按最新收盤價計算，合計解禁市值為10.46億元。從解禁量來看，1家公司解禁股數超千萬股。志高機械解禁量居前，解禁股數分別為6319.19萬股。從解禁市值來看，1家公司解禁市值超億元。志高機械解禁市值居前，解禁市值分別為10.46億元。從解禁股數佔總股本比例來看，1家公司解禁比例超10%。志高機械解禁比例居前，解禁比例分別為50.63%。
+
+---
+
+### 2026-08-21 07:36:06  #公司
+
+【A股股票回購一覽：35家公司披露回購進展】Wind資料顯示，8月21日，35家公司共釋出35個股票回購相關進展。其中，11家公司首次披露股票回購預案，4家公司回購方案獲股東大會透過，10家公司披露股票回購實施進展，10家公司回購方案已實施完畢。從首次披露回購預案來看，當日共6家公司股票回購預案金額超千萬。格力電器、新華百貨、ST絕味回購預案金額最高，分別擬回購不超100.0億元、4.0億元、2.0億元。從股東大會透過回購預案來看，當日共3家公司回購預案超千萬。兆易創新、大秦鐵路、山東高速回購金額最高，分別擬回購不超20.0億元、5.0億元、2.0億元。從回購實施進展來看，凱普生物、海程邦達、永和股份回購金額最高，分別回購1.25億元、7399.32萬元、6999.28萬元。從已完成回購來看，當日共7家公司回購金額超千萬。ST能特、聚光科技、學大教育已完成回購金額最高，分別回購3.0億元、1.33億元、9894.89萬元。
 
 ---
 
@@ -20542,11 +20554,5 @@ Brent Holds Firm on Middle East Uncertainty — Brent crude held near $92 per ba
 ### 2026-08-20 07:21:20  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Holds Firm on Middle East Uncertainty — Crude oil held near $86 per barrel on Thursday after gaining more than 3% so far this week, supported by heightened uncertainty in the Middle East as the US and Iran remain at an impasse. The two sides are also embroiled in a confrontation over the Strait of Hormuz, although President Donald Trump said oil continues to flow through the waterway while adding that he would be open to resuming talks with Tehran “at some point.” Meanwhile, the UAE announced a suspension of financial and economic transactions with Iran after accusing Tehran of launching ballistic missiles at its territory, adding to economic pressure on the Islamic Republic. Despite the elevated risks, Gulf producers have continued transporting significant volumes of crude through alternative routes and discreet shipments. In the US, EIA data showed crude inventories increased by 4.4 million barrels last week, while distillate stocks declined by 1.5 million barrels to their lowest level in more than a month.
-
----
-
-### 2026-08-20 07:21:15  #公司
-
-【上下游冷暖不一 上市鋁企上半年業績分化】近日，A股鋁產業上市公司陸續披露半年報，板塊上下游業績呈現顯著分化格局。受益於年內電解鋁價格持續走高，上游電解鋁企業盈利大幅修復，多家龍頭企業歸母淨利潤實現倍增；中游鋁加工企業盈利彈性相對偏弱，行業呈現清晰的結構性特徵；下游需求冷暖分化明顯，行業利潤進一步向高階鋁材賽道集中。（上海證券報）
 
 ---
