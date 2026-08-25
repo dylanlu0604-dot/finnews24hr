@@ -1,7 +1,140 @@
 {
-  "updated": "2026-08-25 08:01:30",
-  "count": 15870,
+  "updated": "2026-08-25 08:09:29",
+  "count": 15869,
   "items": [
+    {
+      "id": "5056323",
+      "time": "2026-08-25 08:08:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "現代汽車與工會還達成一致，如果相關法律法規得到修訂，將把退休年齡從目前的60歲延長至65歲。"
+    },
+    {
+      "id": "5056322",
+      "time": "2026-08-25 08:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統： 委內瑞拉石油日產量超 123 萬桶。"
+    },
+    {
+      "id": "5056321",
+      "time": "2026-08-25 08:07:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數<.AXJO>早盤上漲0.2%，報9,119.10點。"
+    },
+    {
+      "id": "5056320",
+      "time": "2026-08-25 08:06:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯稱已清理28%地震廢墟，合計58萬噸。"
+    },
+    {
+      "id": "5056319",
+      "time": "2026-08-25 08:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數回落至6500點下方，日內跌3.02%。"
+    },
+    {
+      "id": "mkt:01a0363c-d99e-7aab-9100-9b9e4635d563",
+      "time": "2026-08-25 08:05:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index fell below 6,500 points, sliding 3.02% intraday."
+    },
+    {
+      "id": "5056318",
+      "time": "2026-08-25 08:04:26",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗將黃金三個月目標價上調至每盎司4800美元】花旗集團將黃金三個月目標價上調至每盎司4800美元，此前美國財政部宣佈加大長期債券回購規模，推動金價上漲。包括胡肯尼在內的分析師在研報中寫道，金價上漲動能“仍有進一步釋放空間”。分析師表示：“到目前為止，本輪上漲主要由投機資金推動，尤其是期貨資金流入。若漲勢要得以持續，實物需求需要跟上。”花旗維持6‑12個月5000美元/盎司的黃金目標價不變，理由是霍爾木茲海峽局勢最終得到解決、實際利率下行以及美聯儲立場轉鴿。"
+    },
+    {
+      "id": "te:markets:577706",
+      "time": "2026-08-25 08:04:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Extends Rally on Debasement Trade — Gold climbed above $4,650 an ounce on Tuesday, reaching its highest level in more than three months as US government interventions in the bond market revived the so-called debasement trade that fueled gold’s 65% rally in 2025. The US Treasury Department announced an expansion of its buyback program for long-dated government debt last week in an effort to contain rising borrowing costs, with Secretary Scott Bessent saying he is prepared to increase the buybacks further while also flagging an upcoming longer-term fiscal plan. However, markets speculated that the measures may offer only a temporary solution, while renewing concerns over the risks of a US debt crisis, persistent inflation and dollar weakness. Gold-backed exchange-traded funds have also recorded increased inflows in recent weeks, signaling broader market participation and strengthening investment demand."
+    },
+    {
+      "id": "5056317",
+      "time": "2026-08-25 08:03:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【CD Projekt：《巫師4》計劃於2028年發售】當地時間8月24日，波蘭電子遊戲開發商CD Projekt聯合執行長Michal Nowakowski在社交平臺釋出的一段影片中表示，該公司計劃於2028年推出《巫師4》。"
+    },
+    {
+      "id": "mkt:01a03638-cbbb-7aab-9100-93bead053ffa",
+      "time": "2026-08-25 08:01:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 358.16 points, or 0.55%, at 65,169.93 on Tuesday, Aug 25."
+    },
+    {
+      "id": "mkt:01a03638-b833-7aab-9100-8d181b627c28",
+      "time": "2026-08-25 08:01:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI opened down 2.40%; Samsung Electronics down 3%, SK Hynix down 4%."
+    },
+    {
+      "id": "5056316",
+      "time": "2026-08-25 08:01:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【巴克萊：全球債券雖遭拋售 仍未便宜到值得買入】巴克萊表示，儘管全球債券經歷了持續拋售，但還是不夠便宜，依然不足以吸引投資者買入。頑固的通脹以及各國政府不願削減支出，仍對債券市場構成壓力。雖然債券當前交易水平比近年來任何時候都更接近公允價值，但“推動收益率上升的力量尚未耗盡”，策略師Ajay Rajadhyaksha和Anshul Pradhan在報告中寫道，全球經濟增長表現出韌性，通脹仍然過於頑固，難以支援央行降息。同時，人工智慧資本開支週期也絲毫沒有放緩跡象。"
+    },
+    {
+      "id": "5056315",
+      "time": "2026-08-25 08:00:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數低開0.5%。"
+    },
+    {
+      "id": "5056314",
+      "time": "2026-08-25 08:00:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報70.77美元/盎司。"
+    },
     {
       "id": "5056313",
       "time": "2026-08-25 08:00:43",
@@ -76,6 +209,15 @@
         "其他"
       ],
       "text": "【廈金“小三通”客運航線單日出入境旅客量創2023年復航以來新高】廈門邊檢總站高崎邊檢站24日通報稱，8月23日廈金“小三通”客運航線單日出入境旅客量超7900人次，創2023年復航以來新高。高崎邊檢站相關負責人介紹，7月1日暑運開啟以來，兩岸旅遊市場持續升溫，家庭親子游、民間賽事、文化民俗活動等多重客流疊加，廈金“小三通”客運航線客流高峰頻現。據統計，7月1日至8月23日，高崎邊檢站累計查驗廈金“小三通”客運航線出入境船舶1300餘班次，查驗出入境旅客34萬餘人次，日均查驗旅客超6000人次。（看臺海）"
+    },
+    {
+      "id": "5056304",
+      "time": "2026-08-25 07:55:27",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：碳酸鋰基本面進一步走強】中信建投釋出研報稱，此前鋰價計入過多遠期供給寬鬆預期，庫存在淡季的快速去化超出市場預期；伴隨旺季臨近，市場走向供需雙強，低庫存水平下的進一步去化或對價格形成更強提振。鋰鹽廠檢修階段性結束，產量回升，下游需求維持高景氣，正極材料高開工，庫存保持去化態勢。據SMM，本週大樣本庫存8.6萬噸，周度環比去化0.75萬噸，連續8周環比去庫加速，當下庫存體量已經降至年內最低水平。百川盈孚27家電池企業樣本調研，2026年8月中國電池企業總排產311.85GWh，環比增加5.71%，後續有望繼續加速。鋰價或從此前的遠期過剩定價逐步走向近期基本面定價，看好旺季下鋰價表現。"
     },
     {
       "id": "em:qqyh_zgyh:202608253851675230",
@@ -143706,151 +143848,6 @@
         "其他"
       ],
       "text": "【公安部網安局公佈14起涉企網路謠言典型案例】 據公安部網安局訊息，公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。"
-    },
-    {
-      "id": "5044874",
-      "time": "2026-08-18 08:08:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞地震已造成289人死亡。"
-    },
-    {
-      "id": "5044873",
-      "time": "2026-08-18 08:07:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.06%，報9,067.70點。"
-    },
-    {
-      "id": "5044872",
-      "time": "2026-08-18 08:07:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【編造智駕事故、AI生成假車禍影片，多人因編造涉企謠言被罰】公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。8月18日，公佈14起典型案例。其中包括，內蒙古呼和浩特公安網安部門查明，網民樊某棟（男，34歲）為博取關注、吸粉引流，在抖音平臺直播時編造“**品牌汽車撞死橋上維修工後衝下遊輪，燒死外國人”“哈爾濱**品牌汽車衝入大樓爆炸起火，燒死3名環衛工”“雲南昆明**品牌汽車後胎爆炸撞死少數民族人員”“武漢**品牌汽車衝入長江”等多條謠言資訊，惡意詆譭相關企業及產品，引發該品牌使用者恐慌，擾亂網路空間秩序，產生不良影響。目前，屬地公安機關已依法對該樊處以行政處罰。"
-    },
-    {
-      "id": "5044871",
-      "time": "2026-08-18 08:07:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【賽默飛任命Dan Rosen為中國區總裁】8月18日，賽默飛宣佈，現任賽默飛東南亞地區副總裁兼總經理Dan Rosen已獲任命為中國區總裁，接任方明傑（Miguel Faustino）。未來幾個月，Dan將逐步交接並履新，並於第四季度與Miguel密切協作，確保客戶、團隊及業務各方面的平穩過渡。Miguel將與家人返回美國，並在賽默飛內部擔任新的領導職務。"
-    },
-    {
-      "id": "5044870",
-      "time": "2026-08-18 08:07:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尚比亞總統希奇萊馬贏得連任】當地時間8月17日，尚比亞選舉委員會公佈的計票結果顯示，現任總統哈凱恩德·希奇萊馬獲得超過半數的選票，贏得本次總統選舉。尚比亞於當地時間8月13日舉行大選投票，選舉新一任總統及國會議員等職位。"
-    },
-    {
-      "id": "mkt:01a01231-56be-7aab-906a-b5910ebd350f",
-      "time": "2026-08-18 08:06:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Zambia's Hakainde Hichilema wins re-election】Zambia’s Electoral Commission said on Aug 17 that incumbent President Hakainde Hichilema secured more than 50% of the vote to win the presidential election. Zambia held polls on Aug 13 for president and parliament."
-    },
-    {
-      "id": "mkt:01a01230-9413-7aab-906a-af2f22807c54",
-      "time": "2026-08-18 08:06:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "AUDUSD"
-      ],
-      "text": "【Alphabet launches AUD bond sale】Alphabet is offering Australian dollar bonds in four maturities, including a 20-year tranche, seeking about AUD 5 bln (~$3.6 bln), sources said. The move follows Alphabet raising its full-year capital expenditure forecast to as much as $205 bln, renewing focus on how big tech will monetize AI investments. Alphabet is second only to Amazon among U.S. corporates in tapping global debt markets to finance AI projects. The company also plans bond issues in 2026 in CHF, GBP, EUR, CAD and JPY."
-    },
-    {
-      "id": "mkt:01a01230-350d-7aab-906a-a67aca0ce1e2",
-      "time": "2026-08-18 08:05:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "8035.T",
-        "Impact bearish"
-      ],
-      "text": "Tokyo Electron shares fell 4%."
-    },
-    {
-      "id": "5044869",
-      "time": "2026-08-18 08:05:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "東京電子股價下跌4%。"
-    },
-    {
-      "id": "5044867",
-      "time": "2026-08-18 08:02:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "必和必拓股價上漲2.9%，此前公佈的財年基本利潤超出預期。"
-    },
-    {
-      "id": "5044866",
-      "time": "2026-08-18 08:01:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲逾5%。"
-    },
-    {
-      "id": "5044865",
-      "time": "2026-08-18 08:01:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲超過3%。"
-    },
-    {
-      "id": "5044864",
-      "time": "2026-08-18 08:01:49",
-      "tags": [],
-      "text": "三星電子漲3％，SK海力士漲5.8％。"
-    },
-    {
-      "id": "5044863",
-      "time": "2026-08-18 08:01:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【編造智駕事故、AI生成假車禍影片 多人因編造涉企謠言被罰】公安機關持續推進“淨網—2026”專項行動，聚焦涉企領域網路謠言亂象，依法打擊編造虛假資訊惡意詆譭企業相關違法犯罪，維護企業合法權益。今日，公佈14起典型案例。"
-    },
-    {
-      "id": "mkt:01a0122c-9235-7aab-906a-9b6ed7a88e00",
-      "time": "2026-08-18 08:01:45",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened down 375.98 points (-0.54%) at 68,844.27 on Tuesday, Aug. 18."
-    },
-    {
-      "id": "mkt:01a0122c-86b9-7aab-906a-951739c07d27",
-      "time": "2026-08-18 08:01:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【KOSPI opens up 2.25%】South Korea's KOSPI opened up 156.82 points, or 2.25%, at 7,134.76 on Tuesday, Aug. 18; Samsung Electronics rose 3%, SK Hynix rose 5.8%."
     }
   ]
 }
