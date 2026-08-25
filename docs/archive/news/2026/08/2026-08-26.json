@@ -1,7 +1,65 @@
 {
   "date": "2026-08-26",
-  "count": 13,
+  "count": 19,
   "items": [
+    {
+      "id": "te:markets:578019",
+      "time": "2026-08-26 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.61% Higher — The DAX Index went up by 160 points or 0.61 percent on Tuesday to close at 26266 points. The rise was led by Scout24 (4.58%), Siemens Energy (2.70%) and Zalando (2.61%). On the downside, the weakerst performers were Adidas (-1.71%), Siemens Healthineers (-1.61%) and BASF (-1.43%)."
+    },
+    {
+      "id": "te:markets:578018",
+      "time": "2026-08-26 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.16% Lower — The CAC 40 Index fell 14 points or 0.16 percent on Tuesday to close at 8439 points. Leading the losses are Renault (-3.46%), Kering (-3.38%) and BNP Paribas (-2.21%). Top gainers were Legrand (2.55%), Schneider Electric (1.61%) and Safran (1.59%)."
+    },
+    {
+      "id": "5058378",
+      "time": "2026-08-26 00:09:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【短影片文案引爭議，德芙致歉】德芙發表致歉宣告：“針對近日德芙官方旗艦店某短影片文案引發的批評與討論，我們深感抱歉。經核查，該短影片由第三方店鋪運營團隊創作併發布，未嚴格執行品牌方的內容稽核流程。涉事文案在表達方式和價值導向上存在明顯不當，與德芙一直努力傳遞的真誠、溫暖和尊重的品牌理念不符。事件發生後，店鋪客服團隊對消費者質疑作出了不恰當的回應。目前，已採取以下整改措施：第一時間下架涉事短影片；進一步加強對相關責任人員的必要培訓，和對合作運營團隊的管理；嚴格落實內容釋出的稽核機制，提升消費者的品牌體驗。 ”"
+    },
+    {
+      "id": "5058377",
+      "time": "2026-08-26 00:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "Instagram負責人亞當·莫塞裡已抵達法院，出席美國各州指控Meta的庭審。"
+    },
+    {
+      "id": "5058376",
+      "time": "2026-08-26 00:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府將把汽油補貼延長至9月9日。"
+    },
+    {
+      "id": "mkt:01a039ae-3989-7aab-9116-f086de785eb7",
+      "time": "2026-08-26 00:08:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Brazilian government will extend its gasoline subsidy until Sept. 9 local time."
+    },
     {
       "id": "mkt:01a039ad-3912-7aab-9116-ec534d9fc3ac",
       "time": "2026-08-26 00:07:28",

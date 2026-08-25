@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-26 00:08:19",
+  "updated": "2026-08-26 00:12:23",
   "count": 16499,
   "items": [
+    {
+      "id": "te:markets:578019",
+      "time": "2026-08-26 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.61% Higher — The DAX Index went up by 160 points or 0.61 percent on Tuesday to close at 26266 points. The rise was led by Scout24 (4.58%), Siemens Energy (2.70%) and Zalando (2.61%). On the downside, the weakerst performers were Adidas (-1.71%), Siemens Healthineers (-1.61%) and BASF (-1.43%)."
+    },
+    {
+      "id": "te:markets:578018",
+      "time": "2026-08-26 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.16% Lower — The CAC 40 Index fell 14 points or 0.16 percent on Tuesday to close at 8439 points. Leading the losses are Renault (-3.46%), Kering (-3.38%) and BNP Paribas (-2.21%). Top gainers were Legrand (2.55%), Schneider Electric (1.61%) and Safran (1.59%)."
+    },
+    {
+      "id": "5058378",
+      "time": "2026-08-26 00:09:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【短影片文案引爭議，德芙致歉】德芙發表致歉宣告：“針對近日德芙官方旗艦店某短影片文案引發的批評與討論，我們深感抱歉。經核查，該短影片由第三方店鋪運營團隊創作併發布，未嚴格執行品牌方的內容稽核流程。涉事文案在表達方式和價值導向上存在明顯不當，與德芙一直努力傳遞的真誠、溫暖和尊重的品牌理念不符。事件發生後，店鋪客服團隊對消費者質疑作出了不恰當的回應。目前，已採取以下整改措施：第一時間下架涉事短影片；進一步加強對相關責任人員的必要培訓，和對合作運營團隊的管理；嚴格落實內容釋出的稽核機制，提升消費者的品牌體驗。 ”"
+    },
+    {
+      "id": "5058377",
+      "time": "2026-08-26 00:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "Instagram負責人亞當·莫塞裡已抵達法院，出席美國各州指控Meta的庭審。"
+    },
+    {
+      "id": "5058376",
+      "time": "2026-08-26 00:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西政府將把汽油補貼延長至9月9日。"
+    },
+    {
+      "id": "mkt:01a039ae-3989-7aab-9116-f086de785eb7",
+      "time": "2026-08-26 00:08:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Brazilian government will extend its gasoline subsidy until Sept. 9 local time."
+    },
     {
       "id": "mkt:01a039ad-3912-7aab-9116-ec534d9fc3ac",
       "time": "2026-08-26 00:07:28",
@@ -149143,73 +149201,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社：葉門胡塞武裝知情人士否認有關向阿聯酋發動導彈襲擊的報道。"
-    },
-    {
-      "id": "te:markets:576219",
-      "time": "2026-08-19 00:12:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.06% Lower — The FTSE MIB Index dropped 569 points or 1.06 percent on Tuesday to close at 53018 points. Losses were led by STMicroelectronics (-7.35%), Prysmian (-5.00%) and Buzzi Unicem (-3.35%)."
-    },
-    {
-      "id": "te:markets:576218",
-      "time": "2026-08-19 00:11:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.80% Lower — The DAX Index decreased 210 points or 0.80 percent on Tuesday to close at 26128 points. The decline was led by Infineon (-7.15%), Siemens Energy (-5.23%) and HeidelbergCement (-2.65%). On the upside, the strongest performers were SAP (2.24%), Bayer (1.75%) and Deutsche Telekom (1.66%)."
-    },
-    {
-      "id": "te:markets:576217",
-      "time": "2026-08-19 00:10:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.77% Lower — The CAC 40 Index fell 66 points or 0.77 percent on Tuesday to close at 8514 points. Leading the losses are STMicroelectronics (-7.31%), Schneider Electric (-4.50%) and Legrand (-3.98%). Top gainers were Essilor (2.77%), Dassault Systemes (2.48%) and TotalEnergies SE (1.73%)."
-    },
-    {
-      "id": "5046362",
-      "time": "2026-08-19 00:09:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油公司BP參與委內瑞拉石油貿易，挑戰Trafigura、Vitol。"
-    },
-    {
-      "id": "te:markets:576216",
-      "time": "2026-08-19 00:09:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Sharply Lower — The FTSE MIB fell 1.1% to 53,018 on Tuesday, weighed down by soaring bond yields. Sovereign yields climbed to multi-year highs across major economies as a prolonged conflict in the Middle East keeps inflation risks elevated, while technology firms increase bond issuance at longer maturities to finance AI investments. STMicroelectronics led the losses, plunging 7.6%, while Prysmian fell 4.9% as concerns over excessive AI spending persist. Financials also underperformed as higher sovereign yields weighed on their balance sheets, with FinecoBank, UniCredit, BPER Banca and Banco BPM falling more than 1%. Meanwhile, utilities outperformed, recovering from recent selling pressure. Nexi gained 2% as Stripe’s M&A activity improved sentiment across the digital payments sector."
-    },
-    {
-      "id": "5046361",
-      "time": "2026-08-19 00:08:39",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通Santos警告：\"AI觸角\"風險已蔓延至債券與股票市場】摩根大通資產管理公司美洲區首席市場策略師Gabriela Santos警告稱，”AI因子”集中度風險已從股票市場蔓延至固定收益市場，進一步加大了投資者保持謹慎的必要性。科技股的劇烈震盪凸顯了擁擠交易的風險，並強調了倉位規模、槓桿控制以及AI之外多元化配置的重要性。美國國債、黃金和核心房地產是為數不多能提供不同收益來源的領域，並建議對超大規模雲服務商發行的債券應逐一進行審慎研究。"
     }
   ]
 }
