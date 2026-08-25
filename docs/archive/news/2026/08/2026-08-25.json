@@ -1,7 +1,176 @@
 {
   "date": "2026-08-25",
-  "count": 1311,
+  "count": 1330,
   "items": [
+    {
+      "id": "mkt:01a03798-9d31-7aab-9108-e7f0ccb30ca3",
+      "time": "2026-08-25 14:25:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported that within an hour of the open the Tehran Stock Exchange All-Share Index rose more than 100,000 points, breaching a record 6.2 million points."
+    },
+    {
+      "id": "5056858",
+      "time": "2026-08-25 14:25:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克能源部：卡拉恰甘納克油田的產量損失預估為40萬至45萬噸。"
+    },
+    {
+      "id": "5056857",
+      "time": "2026-08-25 14:25:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克能源部：卡拉恰迦納克油田計劃於9月進行維護作業。"
+    },
+    {
+      "id": "5056856",
+      "time": "2026-08-25 14:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【安大略省長再強調加拿大絕不出售】面對美國總統特朗普最新的關稅威脅，加拿大安大略省省長道格·福特8月24日對媒體表示，加拿大並未挑起這場爭鬥，但已準備好贏得勝利。如果特朗普選擇升級局勢，加拿大必須做好同等反制的準備，精準打擊美國共和黨的票倉，以“確保美國切實感受到痛”。福特稱，加拿大需要“傾盡所有手段”進行反擊，如果貿易爭端進一步升級，加拿大應準備切斷對美電力和關鍵礦產供應。#福特還表示，特朗普的關稅本質上是“對美國人民的攻擊”，令那些依賴加美貿易謀生的美國人生活更加風雨飄搖。而加拿大必須團結一致，抵禦這場經濟攻擊，特朗普意圖吞併加拿大的“這場遊戲”，加拿大絕不奉陪。（CCTV國際時訊）"
+    },
+    {
+      "id": "5056855",
+      "time": "2026-08-25 14:24:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數反彈 投資者認為近期下跌過度】韓國股指基準Kospi指數上漲0.7%，部分抹去了早盤4.3%的跌幅，因投資者表示該指數近期下跌過度。“將昨日的市場下跌歸因於對股東回報計劃的失望有些過度，”Eugene Investment & Securities分析師Huh Jae-Hwan表示。注：週一，Kospi指數下跌3.1%，投資者對三星的股東回報計劃表示失望Kosdap指數也扭轉了早盤跌勢，上漲1.6%。對Kospi指數上漲貢獻最大的包括Doosan Enerbility（+10%）和現代建設（+15%）。KB Securities將這兩隻股票列為核能領域的首選，因其預計美國核能擴張戰略將在下半年開始顯現具體專案。"
+    },
+    {
+      "id": "5056854",
+      "time": "2026-08-25 14:24:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受強降雨影響 南鐵啟動防洪Ⅲ級應急響應 動態調整開行方案】受福建地區強降雨影響，為確保鐵路運輸安全，南鐵停運25日在福州、廈門、平潭等地間開行的部分旅客列車，調整部分旅客列車執行區段，在受降雨影響較小的區段加開4趟旅客列車。南鐵根據管內風速雨情實際，將福鼎至廈門的D6333次、平潭至廈門的D9624/1次旅客列車終點臨時調整至福州南站；詔安至福州的D6218次、長汀南至福州的D6593/2次旅客列車終點臨時調整至廈門北站。同時，加開長汀南至福州D9187/90/87次、福州至龍巖D9596/7次、廈門至福州的C5122次、C5120次旅客列車。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03797-3b4f-7aab-9108-dbe7c5802a26",
+      "time": "2026-08-25 14:24:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI crude fell more than 1% intraday to $83.69/bbl; Brent crude down 0.9%."
+    },
+    {
+      "id": "mkt:01a03796-d07c-7aab-9108-d419f13ea4b4",
+      "time": "2026-08-25 14:23:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reported Tehran city council chairman said when diesel and gasoline subsidies end the government should reallocate the payments to other support, as previously promised. He urged channeling the funds to metro operations or to buy new buses and other equipment. Authorities say relocating oil reserve depots is difficult because reserves must be retained to enable rapid replacement."
+    },
+    {
+      "id": "5056853",
+      "time": "2026-08-25 14:23:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報84.15美元/桶。"
+    },
+    {
+      "id": "5056852",
+      "time": "2026-08-25 14:23:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【Man Group：美國變得“極其難以預測” 以往從未考慮過的風險應引起重視】Man Group首席市場策略師Kristina Hooper在報告中寫道，美國變得“極其難以預測”，外國投資者需要擔心以前從未考慮過的風險。華盛頓甚至與最親密的盟友也變得有些對抗，包括對這些國家徵收高額關稅。“在這樣的環境下，作為受託管理人，外國投資者應當考慮一種可能性，即美國可能因與某些外國投資者存在分歧，而拒絕向其持有的美國國債支付利息”。“雖然這可能被視為‘核選項’，但在新的世界裡，什麼都不好說”。"
+    },
+    {
+      "id": "5056851",
+      "time": "2026-08-25 14:22:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江寧波警方通報一起1死4傷車禍】據“寧波交警”官方微博，2026年8月25日7時44分許，海曙區集士港鎮集士東路發生一起交通事故，造成5人受傷。受傷人員均被第一時間送醫救治，其中1人經搶救無效死亡。經初步調查，肇事司機虞某某（男，37歲，寧波北侖人）駕車過程中突發疾病，目前正在醫院救治，已排除酒駕、毒駕嫌疑。事故原因正在進一步調查中。"
+    },
+    {
+      "id": "te:economy:577808",
+      "time": "2026-08-25 14:21:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Germany Q2 GDP Growth Revised Up — Germany’s economy expanded 0.3% in Q2 2026, revised up from 0.2% in the preliminary estimate but easing from 0.4% growth in the previous period. Domestic demand showed a modest rebound, rising 0.1% after a 0.3% contraction in Q1, with household and government consumption each increasing just 0.1% after household spending fell 0.6% and government consumption rose 0.9% previously. Gross fixed capital formation declined 0.2%, narrowing from a 1.3% drop in Q1, dragged by a continued decline in machinery and equipment investment (-1.4% vs -1.7%), while construction investment edged up 0.1% after falling 1.8%. On an annual basis, GDP grew 1.0% in Q2, accelerating from a 0.7% expansion in Q1."
+    },
+    {
+      "id": "te:markets:577807",
+      "time": "2026-08-25 14:21:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Higher Open — European equity markets were set for a higher open on Tuesday as risk sentiment improved, with the recent selloff in global technology stocks showing signs of easing. Markets looked ahead to chip giant Nvidia’s earnings report later this week for clues on the strength of AI-related demand. Investors also continued to assess the implications of the US Treasury Department’s expanded debt buyback program following reports that it could tap its nearly $1 trillion General Account to help fund the purchases instead of relying on new issuance. In Europe, investors will assess Germany’s final Q2 GDP figures and August Ifo Business Climate survey, alongside French consumer confidence data. Meanwhile, there are no major earnings releases scheduled in Europe on Tuesday. In premarket trade, Euro Stoxx 50 and Stoxx 600 futures were up 0.3% and 0.2%, respectively."
+    },
+    {
+      "id": "mkt:01a03795-0515-7aab-9108-cd155be7fc84",
+      "time": "2026-08-25 14:21:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 62.10 points (+0.68%) at 9,165.20 on Tuesday, Aug. 25."
+    },
+    {
+      "id": "5056850",
+      "time": "2026-08-25 14:21:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃斯頓增資至9.68億 增幅約11%】天眼查App顯示，近日，南京埃斯頓自動化股份有限公司發生工商變更，註冊資本由約8.71億人民幣增至約9.68億人民幣，增幅約11%。南京埃斯頓自動化股份有限公司成立於2002年2月，法定代表人為吳波，經營範圍包括工業機器人制造、智慧機器人的研發等，由南京派雷斯特科技有限公司、吳波、香港中央結算有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:01a03794-168d-7aab-9108-c7ba16a6f057",
+      "time": "2026-08-25 14:20:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Third‑review draft of Arable Land Protection and Quality Improvement Law adds multiple provisions】The third‑review draft of the Arable Land Protection and Quality Improvement Law was submitted on Aug. 25 for third reading at the 24th meeting of the 14th National People’s Congress Standing Committee. The draft expands requirements on personnel, funding and compensation; bars any unit or individual from diverting, occupying or misappropriating funds earmarked for high‑standard farmland construction; mandates that the state improve a benefit‑compensation mechanism for major grain‑producing regions, strengthen fiscal transfer payments to grain‑producing areas and major grain counties, and establish inter‑provincial horizontal compensation between grain production and consumption provinces; and adds protections for black soil to prevent net area loss, stop functional degradation, promote quality improvement and ensure sustainable productive capacity."
+    },
+    {
+      "id": "te:economy:577806",
+      "time": "2026-08-25 14:20:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Denmark Retail Sales Accelerates in July — Retail sales in Denmark rose 6.7% year-on-year in July 2026, accelerating from a 4.6% increase in the previous month and marking the strongest growth since March 2026. Sales grew at a faster pace for consumer electronics (17.1% vs 16.5% in June), household equipment, furniture, and building materials (11.8% vs 9.3%), supermarkets, department stores, and specialized grocery stores (3.9% vs 1.6%), cultural and leisure products (16.7% vs 14.5%), and pharmaceuticals and personal care products (6.8% vs 4.8%). Moreover, sales declined at a slower pace for liquid fuel filling stations (-14.7% vs -17.1%). On the other hand, growth moderated for clothing, footwear, and jewelry (12.2% vs 12.6%) and second-hand goods (10.3% vs 12.0%). On a seasonally adjusted monthly basis, retail sales increased 1.3%, accelerating from a revised 0.2% rise in the previous month."
+    },
+    {
+      "id": "mkt:01a03791-d35a-7aab-9108-bda386c2ee40",
+      "time": "2026-08-25 14:18:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "【Germany Q2 GDP revised to 0.3% QoQ as exports drive recovery】Germany's economy grew 0.3% QoQ in Q2, revised up from a preliminary 0.2%; GDP rose 1.0% YoY, the Federal Statistical Office said. Exports remained the chief growth engine: goods and services exports rose 2.0% QoQ while imports increased 1.5% QoQ. The upward revision reflected stronger-than-expected wholesale and retail trade. June exports were up 3.7% YoY, led by chemicals, electronics, optical products and transport equipment. Domestic investment was uneven: gross fixed capital formation fell 0.2% QoQ, machinery and equipment investment dropped 1.4%, and construction rose only 0.1%. Household and government consumption each increased 0.1% QoQ, underscoring limited domestic demand contribution to the recovery."
+    },
     {
       "id": "mkt:01a0378f-f6b8-7aab-9108-b1af5b29cc1b",
       "time": "2026-08-25 14:16:16",
@@ -16,6 +185,14 @@
         "Impact bearish"
       ],
       "text": "【Sony Financial economist: Prime Minister Sanae Takaichi's expansionary fiscal policy remains major JGB risk】Takayuki Miyajima, economist at Sony Financial Group, said Prime Minister Sanae Takaichi's expansionary fiscal policy remains one of the biggest risks to the JGB market. He noted the US government has voiced concern over a weak yen and rising JGB yields, making it unlikely Takaichi's administration would press ahead with fiscal expansion while disregarding market and Washington objections. Miyajima added that if that expectation proves wrong, the fiscal risk premium could rise again and push the 10-year JGB yield well above 3%."
+    },
+    {
+      "id": "5056849",
+      "time": "2026-08-25 14:15:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京市地鐵運營有限公司原副總經理劉建受賄案一審宣判】2026年8月25日，北京二中院依法公開宣判北京市地鐵運營有限公司原副總經理劉建受賄一案，對被告人劉建以受賄罪判處有期徒刑十一年，並處罰金人民幣一百五十萬元；對劉建受賄犯罪所得及孳息予以沒收，上繳國庫。（北京日報）"
     },
     {
       "id": "5056848",
