@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-25 13:44:09_
-_本檔包含 3373 則快訊，約 630238 字_
+_更新時間：2026-08-25 13:52:43_
+_本檔包含 3378 則快訊，約 631288 字_
+
+---
+
+### 2026-08-24 12:05:14  #公司
+
+【民生人壽否認董事長因“生肖不和”裁員】近日，有疑似民生人壽員工在社交平臺上爆料，民生人壽董事長把和自己生肖屬相不合的人全部裁員。另有報道稱，工作多年的員工如果學歷不是一本也要被裁。民生人壽因此捲入輿論漩渦，相關討論和質疑聲持續不斷。8月24日，介面新聞就此事向民生人壽客服了解情況，對方回應稱，“這完全是一個虛假訊息。公司已對網路造謠內容進行證據保全，並會透過法律手段追究編造和擴散虛假資訊人員的法律責任。希望公眾能及時分辨真偽，不信謠、不傳謠。”該客服還強調，關於公司經營和日常人事情況，建議以官方釋出的內容為準。上述事件始於網上多份匿名爆料截圖。有自稱民生人壽內部員工的網友發帖稱，公司董事長魯偉鼎因生肖屬豬，按照民俗“巳亥相沖”說法，對屬蛇員工進行解約，同時傳言還疊加“清退非一本學歷老員工”等說法。（介面）另有知情人士透露，民生人壽背後的萬向集團一向重視人員管理，其組織資源部對員工的星座、血型、屬相都有深入瞭解。組織資源部偶爾會有破格提拔或現場處置幹部的情況。但該訊息未得到萬向集團方面的證實。
+
+---
+
+### 2026-08-24 12:04:02  #國際
+
+IBM與美國網球協會為2026年美國網球公開賽推出全新人工智慧驅動的觀賽體驗。
+
+---
+
+### 2026-08-24 12:03:24  #Trading Economics #Markets #India #Currency #Importance 1
+
+Rupee Steady as Inflows Cushion Oil Risks — The Indian rupee hovered near 95.6 per dollar, trading in a tight range as strong capital inflows and continued Reserve Bank of India intervention helped cushion the currency, while month-end dollar demand and elevated oil prices limited gains. The RBI stated that it had garnered nearly $73 billion through measures introduced in June to strengthen the balance of payments, boosting its capacity to support the rupee. Market participants remained cautious about building long-dollar positions amid expectations of RBI intervention around 95.80 per dollar. Meanwhile, month-end derivative maturities and corporate dollar payments could add pressure to the currency, while Brent crude remained elevated near $94 a barrel amid the ongoing Iran conflict. A weaker dollar also provided some support, with the dollar index holding around 98.8 after posting significant losses last week as higher US Treasury yields raised concerns over the country’s growing debt burden.
+
+---
+
+### 2026-08-24 12:03:11  #央行 #國際
+
+市場訊息：印度央行週一可能入市干預外匯市場。
+
+---
+
+### 2026-08-24 12:01:58  #其他
+
+埃克森美孚、利安德巴塞爾、阿波羅均對殼牌資產表達收購意向。
+
+---
+
+### 2026-08-24 12:01:37  #國際
+
+殼牌作價80億美元出售美國化工資產，埃克森美孚對該資產表達收購意向。
+
+---
+
+### 2026-08-24 12:01:22  #市場
+
+【港股午評：恒生指數跌2.09%，恒生科技指數跌3.84%】港股午間收盤，恒生指數跌2.09%，恒生科技指數跌3.84%。恒指港股通ETF銀華（159318）跌2.09%，港股通科技ETF鵬華（159751）跌3.4%。板塊方面，醫療裝置、醫療器械板塊漲幅靠前；電能綜合服務、通訊裝置Ⅲ板塊跌幅靠前。個股方面，德適-B漲33.94%，亮晴控股漲23.55%，海清智元漲14.77%，真健康醫療-B漲14.52%，今海醫療科技漲12.2%；麗珠醫藥跌14.45%，智雲科技建設跌11.53%，中際旭創跌11.32%，大金重工跌11.23%，哈爾濱電氣跌10.91%。
+
+---
+
+### 2026-08-24 12:01:00  #公司
+
+【國網江蘇省電力有限公司原三級顧問陳慶接受審查調查】中央紀委國家監委網站8月24日通報，據中央紀委國家監委駐國家電網有限公司紀檢監察組、江蘇省紀委監委訊息：國網江蘇省電力有限公司原三級顧問陳慶涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家電網有限公司紀檢監察組紀律審查和江蘇省南京市監察委員會監察調查。
+
+---
+
+### 2026-08-24 11:58:59  #公司
+
+【東方基金官宣新掌門人，58歲東北證券總裁何俊巖任董事長】8月24日，東方基金管理股份有限公司（下稱“東方基金”）公告稱，何俊巖任公司董事長，總經理劉鴻鵬任副董事長，同時兼任財務負責人，不再代任公司董事長。張科、郝麗琨因工作調整分別離任公司副總經理、財務負責人職位。上述人員變更日期均為2026年8月21日。
+
+---
+
+### 2026-08-24 11:58:36  #其他
+
+【廣西橫州因颱風“美莎克”受災的72所學校達到開學條件】受今年第10號颱風“美莎克”影響，7月初，廣西橫州市遭遇極端強降雨，六藍水庫、雲表水庫發生險情，導致學校受淹、損毀。據記者瞭解，截至8月21日，橫州市已完成轄區72所受災學校的環境清理、水電修復、教學裝置除錯安裝等各項開學準備工作。橫州市受災學校各項開學保障工作基本落實到位，達到開學條件。（央視新聞）
+
+---
+
+### 2026-08-24 11:58:24  #公司
+
+【美銀：上調金山軟體目標價至26港元，預期第三季遊戲業務增長持續受壓】美銀證券發表研報指，金山軟體第二季收入同比增長9%，分別較市場及該行預測高出2%和5%。該行下調公司2026至28年收入預測1至2%，以反映遊戲業務增長前景疲弱，但由於營運開支控制優於預期及金山雲等聯營公司盈利能力改善，因此上調盈測2%至9%。該行預期金山軟體第三季遊戲業務增長持續受壓，對於公司計劃2027年對《劍網3》進行引擎及畫面升級，相信可提升使用者參與度。該行將金山軟體的目標價由24港元上調至26港元，維持“中性”評級。
+
+---
+
+### 2026-08-24 11:57:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Pulls Back from 20-Month High — Malaysian palm oil futures hovered below MYR 5,000 per tonne, snapping five sessions of gains and pulling back from their highest level since December 2024. Traders booked profits amid weaker soyoil prices on the Dalian and Chicago markets. Crude oil also eased ahead of an expected announcement from Washington on potential new sanctions against Iran, reducing support for competing vegetable oils. Ample supplies added further pressure, with Malaysian palm oil inventories rising to a five-month high in July. Meanwhile, cargo surveyors estimated that palm oil shipments for August 1–20 fell between 5.5% and 13.2% from the same period in July, pointing to softer export momentum. Still, losses were limited by a weaker ringgit, while buyers in top supplier Indonesia stepped up purchases ahead of the full implementation of the B50 biodiesel mandate in October. Concerns that a developing El Niño could intensify dryness and curb output in Indonesia and Malaysia also provided underlying support.
+
+---
+
+### 2026-08-24 11:56:36  #國際
+
+【英國首相將宣佈向烏方移交資料，以便在烏本土生產“斯卡普”導彈】英國首相安迪·伯納姆將宣佈向基輔移交機密資料，以便在烏克蘭境內啟動遠端“斯卡普”（SCALP）導彈的生產。伯納姆將於8月24日訪問基輔。宣告稱：“首相計劃宣佈，政府已批准國防企業MBDA向烏方移交有關該型遠端導彈中英國產元件的機密資訊，以支援烏克蘭與法國關於在烏本土建立生產線的計劃。”
+
+---
+
+### 2026-08-24 11:55:27  #公司
+
+【瑞銀：微升中銀航空租賃目標價至106.1港元，維持“買入”評級】瑞銀髮表研報指，中銀航空租賃上半年純利大致符合市場及該行預期。由於機隊擴充，經營租賃租金收入同比增長5%，遜該行預測的10%。公司宣派中期息0.1799美元，派息比率升至35%，符合其派息政策。該行提到，中銀航空租賃上半年資本開支同比增長20%至23億美元，佔全年指引45億美元的一半，管理層有信心可達成全年目標。該行大致維持中銀航空租賃今年盈測，但下調2027至28年預測2至4%，以反映租賃租金收入預測下調，部分被飛機處置收益上升所抵銷。該行將公司目標價由104.2港元微升至106.1港元，維持“買入”評級。
+
+---
+
+### 2026-08-24 11:55:20  #國際
+
+俄羅斯線上零售商奧贊（Ozon）表示，其位於達吉斯坦的物流樞紐在遭到無人機襲擊後起火。
+
+---
+
+### 2026-08-24 11:51:59  #公司
+
+【直擊第二屆世界人形機器人運動會：優理奇已斬獲1金1銅，酒店場景專案連續兩年折桂】第二屆世界人形機器人運動會在北京國家速滑館“冰絲帶”舉行。截至目前，優理奇在本屆賽事中已斬獲1金1銅，其中，酒店場景-賓客服務比賽獲得金牌，此專案連續兩年折桂，印證優理奇與眾多知名酒店集團的常態化運營合作成果。同時，首次參賽的消防場景奪取第三，展現了Panther黑豹系列向高危複雜環境快速遷移的工程化實力。（新浪科技）
 
 ---
 
@@ -20305,76 +20401,5 @@ Germany's preliminary August manufacturing PMI due in 10 minutes.
 ### 2026-08-21 15:19:26  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
 
 【France August business activity contracts more than expected; heat weighs on services】S&P Global preliminary August PMIs: services PMI fell to 48.4 from 49.6 in July (consensus 49.8), signalling stronger-than-expected contraction in services; manufacturing PMI rose to 51.5 from 49.8 (consensus 50.0). Composite PMI slipped to 48.8 from 49.4, a two-month low and below the 49.5 estimate. S&P Global Market Intelligence senior chief economist Joe Hayes said the preliminary PMIs show France’s economy weakened for a second month, with several firms—particularly in services—citing extreme high temperatures as a factor behind lower activity and demand.
-
----
-
-### 2026-08-21 15:19:24  #資料
-
-【法國8月商業活動萎縮幅度超預期，服務業受高溫拖累】標普全球週五公佈的調查顯示，法國8月服務業初值PMI降至48.4，為兩個月低點，低於7月的49.6，商業活動萎縮幅度超過預期，近期持續高溫天氣拖累了該國占主導地位的服務業。法國8月服務業PMI也低於市場預期的49.8。與此同時，法國8月製造業PMI初值從7月的49.8升至51.5，超過預期的50。但綜合PMI初值（涵蓋服務業和製造業）從7月的49.4降至48.8，創兩個月新低，低於預期的49.5。標普全球市場情報高階首席經濟學家喬·海耶斯表示：“8月初值PMI報告顯示，法國經濟狀況連續第二個月疲弱。一些企業，尤其是服務業企業，指出極端高溫天氣是導致活動和需求下降的原因之一。”
-
----
-
-### 2026-08-21 15:19:00  #國際
-
-印度清潔能源部門官員：目標到2030年實現30吉瓦多晶矽產能。
-
----
-
-### 2026-08-21 15:18:52  #宏觀
-
-【財政部：將繼續發力支援鄉村振興和農業農村現代化】目前，中央財政將銜接推進鄉村振興補助資金調整為常態化幫扶資金，在今天國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上，財政部有關負責人表示，將繼續發力支援推進鄉村全面振興和農業農村現代化。財政部綜合司司長李先忠表示：防止規模性返貧致貧是一項長期任務，今年是常態化幫扶的第一年，中央財政繼續保持投入強度，已安排下達1770億元。截至6月底，脫貧勞動力就業規模超過3200萬人，脫貧縣農村居民人均可支配收入的增速繼續跑贏全國農村平均水平。（央視新聞）
-
----
-
-### 2026-08-21 15:18:24  #公司
-
-【愷英網路成立網路科技公司 含多項AI相關業務】企查查APP顯示，近日，上海盛境湧現網路科技有限公司成立，法定代表人為楊吳月，註冊資本為1000萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；網路與資訊保安軟體開發；數字文化創意軟體開發等。企查查股權穿透顯示，該公司由愷英網路旗下上海愷盛網路科技有限公司及上饒盛英網路科技有限公司共同持股。
-
----
-
-### 2026-08-21 15:18:02  #公司
-
-【上海市商務委：支援臨港進一步最佳化“走出去”和“引進來”雙向投資服務】上海市商務委副主任陳昊8月21日在上海市政府新聞釋出會上表示，“十五五”時期是臨港新片區轉段躍升、特色成勢的關鍵期，上海市商務委將從三個方面進一步支援臨港新片區厚植競爭優勢、實現更高質量發展。
-第一，支援臨港持續培育外貿新業態、新優勢。支援臨港新片區深化離岸貿易金融服務綜合改革，加大離岸貿易主體招引力度，吸引更多跨國公司產品分銷中心、大宗商品貿易商和全球生產性企業等在臨港新片區設立離岸業務專營公司，深度參與全球性生產、銷售、服務等活動，持續做大離岸貿易規模。鼓勵臨港新片區創新啟用保稅維修、保稅檢測和保稅培訓等保稅業態新動能，壯大多元保稅特色產業，提升保稅加工製造業務規模能級，特別是圍繞汽車、航空等產業打造保稅維修產業高地。
-
-第二，支援臨港進一步最佳化“走出去”和“引進來”雙向投資服務。做強臨港出海服務品牌，實現產業與服務精準匹配。聚焦區內重點產業，依託上海市企業出海綜合服務平臺和臨港分平臺，整合出海服務資源，加快引進一批優質服務機構，吸引更多出海企業在臨港新片區設立總部。同時，支援臨港進一步完善跨境金融、跨境貿易、離岸貿易創新供給，營造更加公平、透明、可預期的投資環境，招引一批標誌性外資專案，以高質量專案推動產業動能的躍升。
-
-第三，支援臨港深入推進深層次自主開放。根據國家對外開放總體安排，支援臨港新片區加強服務貿易、貨物貿易、數字貿易、金融等重點領域自主開放和制度創新，更好為國家試製度、測壓力、探新路。持續推動各項開放試點政策落地出成效，打造更多示範專案、亮點案例，進一步放大開放政策效應，積累更多可複製、可推廣的經驗。（上證報）
-
----
-
-### 2026-08-21 15:17:33  #國際
-
-【三菱汽車因導航系統故障在日本召回1.3萬輛歐藍德PHEV】三菱汽車8月20日向日本國土交通省提交報告稱，因導航系統控制程式存在故障、車內螢幕無法正常顯示倒車時等的攝像頭畫面，將召回13226輛2024年10月至2026年2月生產的歐藍德PHEV。日本國交省稱，螢幕可能會黑屏或卡住導致無法顯示攝像頭畫面，因此可能不符合安全標準。
-
----
-
-### 2026-08-21 15:17:14  #市場 #焦點
-
-南向資金淨賣出額達60億港元。
-
----
-
-### 2026-08-21 15:17:08  #Trading Economics #Markets #Commodity #Importance 0
-
-UK Natural Gas Holds at Multi-Year Highs — UK natural gas prices held above 161 pence per therm on Friday, the highest level since January 2023, as the stalemate in the US-Iran conflict muddied the outlook for Gulf LNG supplies. The two sides continued to clash over the Strait of Hormuz, with the conflict entering a new phase of economic pressure. Traders are concerned about Europe’s readiness for the upcoming winter as the maritime blockade has stranded Qatari LNG cargoes, forcing European utilities into more intense and costly competition with Asian buyers for available cargoes. Heatwave-driven demand for cooling is also limiting gas injections into storage. Europe's storage levels are at just 62%, the lowest seasonal level in records dating back to 2009, leaving the region with limited time to replenish inventories before the heating season begins. Despite this, the European Commission said that gas supplies in the bloc are not immediately at risk. UK gas prices have risen more than 6% this week.
-
----
-
-### 2026-08-21 15:16:28  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
-
-France August flash manufacturing PMI 51.5, highest in four months.
-
----
-
-### 2026-08-21 15:16:23  #MKT News #Market Regions #Greater China
-
-【China government bond futures midday close】At midday, China government bond futures main contracts: 2-year (TS) down 0.01%, 5-year (TF) down 0.03%, 10-year (T) down 0.02%, 30-year (TL) down 0.03%.
-
----
-
-### 2026-08-21 15:16:12  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 0.07% Higher — The Shangai Composite Index rose 3 points or 0.07 percent on Friday to close at 3906 points. Leading the gains are Aluminum Corporation of China (2.62%), Ping An Insurance (2.32%) and Petrochina (2.09%). Top losers were Guangzhou Automobile (-5.73%), Sh Fosun Pharma (-5.03%) and Haier Smart Home (-4.23%).
 
 ---

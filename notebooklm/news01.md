@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-25 13:44:09_
-_本檔包含 3130 則快訊，約 630500 字_
+_更新時間：2026-08-25 13:52:43_
+_本檔包含 3135 則快訊，約 630862 字_
+
+---
+
+### 2026-08-25 13:50:46  #MKT News #BHP.AX #Impact bullish
+
+BHP said negotiations over key issues raised by Australian workers are progressing and appear likely to result in an agreement.
+
+---
+
+### 2026-08-25 13:50:23  #公司
+
+中際旭創A股成交額達200億元，現跌3.12%。
+
+---
+
+### 2026-08-25 13:50:05  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact mixed #DAX
+
+Germany Q2 non-seasonally adjusted YoY GDP final reading due in 10 minutes.
+
+---
+
+### 2026-08-25 13:50:03  #MKT News #Macro & Rates
+
+Reuters survey expects the Philippine central bank to raise its policy rate to 5.25% by end-2026.
+
+---
+
+### 2026-08-25 13:49:53  #公司
+
+希爾頓集團宣佈在華運營酒店突破1100家。
+
+---
+
+### 2026-08-25 13:49:42  #MKT News #Market Regions #Emerging Markets
+
+Reuters survey: 25 of 29 economists expect the Philippine central bank to raise its policy rate by 25 bps to 5.00% at the Aug. 27 meeting.
+
+---
+
+### 2026-08-25 13:49:23  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+【Japan nominal GDP growth robust; analyst says 10-year JGB yield may break 3%】Sony Financial Group economist Takayuki Miyajima said nominal GDP growth in Japan is roughly 3%, a relatively robust pace that could support the 10-year JGB yield moving above 3%. He expects the benchmark 10-year JGB yield to trade around 3% in the near term, but said any breach of 3% is unlikely to be sustained because the economy is expected to slow later this year. Miyajima added that market pricing for an imminent Bank of Japan rate hike is reducing concerns the BOJ is behind on inflation, which should help cap longer-term yields.
+
+---
+
+### 2026-08-25 13:49:19  #兩會
+
+【企業破產法修訂草案二審稿完善多項規則】企業破產法修訂草案25日提請全國人大常委會會議二次審議，草案二審稿在個人破產規則、破產保護規則、重整規則、跨境破產規則等多方面作出修改完善。現行企業破產法自2007年起施行。2025年9月，十四屆全國人大常委會第十七次會議對企業破產法修訂草案進行初次審議，會後草案面向社會公開徵求意見。針對草案一審稿，有意見認為，應完善重整前協商的方式、程式，並做好與重整程式的銜接。為此，草案二審稿增設“重整前協商”一節，並明確重整前協商包括當事人達成重整協議和制定初步重整計劃草案預先表決兩種方式，以及兩種方式進入重整程式的法律後果。同時，草案增加規定，依法進行重整前協商的，當事人可以向人民法院推薦管理人。此外，草案還完善跨境破產規則，明確破產程式域外效力、我國法院管轄情形及國際司法協助機制等。 (新華社)
+
+---
+
+### 2026-08-25 13:48:52  #其他
+
+【國家藥監局釋出《化妝品產品標準通則》 明年1月1日起實施】國家藥監局日前釋出化妝品行業標準《化妝品產品標準通則》，確立了化妝品產品標準編寫的分類原則，規定了產品標準內容的總體要求、要素及設定要求，適用於指導化妝品產品行業標準的編寫，自2027年1月1日起實施。新發布的《通則》指出，優先對具有創新性、獨特性、為保護消費者用妝安全需明確產品相關技術要求指標的產品制定標準，如新型或特定的產品形態、生產工藝型別、功效類別、適用人群、包裝型別、交付需求等產品。對原料、關鍵生產加工環節、標籤、使用期限、包裝、運輸和貯存方式等要素有特殊要求的，應予以規定；化妝品產品標準應設定原料要求、技術要求指標、檢驗規則、淨含量、標籤、使用期限、包裝、運輸和貯存等要素。
+
+---
+
+### 2026-08-25 13:48:31  #其他
+
+【“SKhynix淘寶旗艦店”將終止經營，知情人士：非官方旗艦店，系品牌授權到期關店】8月25日，針對淘寶平臺“SKhynix旗艦店”突然宣告終止經營，已下架所有產品一事，記者從知情人士處瞭解到，該店鋪並非海力士官方旗艦店，而是授權店，因授權到期後品牌未繼續授權，正常關店，而其他仍在售的店鋪是在銷售庫存產品。（澎湃新聞）
+
+---
+
+### 2026-08-25 13:48:25  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Ends 0.8% Higher as Consumer Stocks Boost — New Zealand stocks advanced 111 points, or 0.8%, to close at 13,993 on Tuesday, erasing losses in the previous session, mainly buoyed by gains in consumer staples, tech sectors, and utilities. Consumer staples surged 3.2%, supported by a surge in A2 Milk (5.0%), following traders’ reassessment after a volatile session in mid-August following its earnings release. Optimism over earnings season lifted sentiment, with some companies announcing their results this week, including Port of Tauranga and Channel Infrastructure. However, caution limited the gains ahead of the US PCE price data for guidance on the Fed's monetary policy decision at its upcoming meeting, as well as FOMC speeches at the Jackson Hole Symposium later this week. Other top movers were Hallenstein Glassons (2.2%), Mercury NZ (1.6%), Fisher & Paykel (1.5%), and ANZ Group (1.5%). Port of Tauranga and Channel Infrastructure rose 1.2% and 0.9%, respectively, ahead of the release of their earnings reports this week.
+
+---
+
+### 2026-08-25 13:48:03  #公司
+
+必和必拓集團發言人稱：公司正持續推進談判，以期達成一項能夠解決員工提出的核心訴求的協議。
+
+---
+
+### 2026-08-25 13:47:29  #公司
+
+【工信部不再審批新申報的鋰電產能？工信部工作人員：未在官網查詢到相關資訊】8月24日，一家名為“極片Lab”的自媒體釋出訊息稱，多位產業內人士表示，下半年新申報的鋰電產能已經不再審批，短期內新增產能審批基本停滯。對此，8月25日，向工信部方面致電求證上述訊息的真實性，接聽電話的工作人員表示，未在官網查詢到相關資訊。當天，還向先導智慧、協鑫科技等上市公司求證上述訊息的真實性，先導智慧相關負責人稱其為“5月份的訊息，不實”；而協鑫科技有關負責人則表示“沒有得到訊息”。中國化學與物理電源行業協會（CESA）儲能應用分會秘書長劉勇表示，不清楚該訊息的真實性，“應該是不會（一刀切）的，（工信部）做相應調整的可能性是有的。”（財聞）
+
+---
+
+### 2026-08-25 13:46:49  #其他
+
+沙特6月進口下降3.0%。
+
+---
+
+### 2026-08-25 13:46:34  #MKT News #Market Regions #Emerging Markets
+
+Saudi Arabia's government data show non-oil exports, including re-exports, fell 9.7% YoY in June.
+
+---
+
+### 2026-08-25 13:46:21  #其他
+
+沙特6月非石油出口（含轉口）同比下降9.7%。
+
+---
+
+### 2026-08-25 13:46:14  #其他
+
+政府資料顯示，2026年6月沙特商品出口較2025年同期下降4.5%，石油出口下降2.3%。
+
+---
+
+### 2026-08-25 13:45:44  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Saudi government data show merchandise exports fell 4.5% YoY in June, with oil exports down 2.3%.
+
+---
+
+### 2026-08-25 13:44:59  #公司
+
+【隆平高科成立新公司 含數字技術服務業務】企查查APP顯示，近日，湖南隆昇農業有限公司成立，經營範圍包含：數字技術服務；智慧農業管理；軟體開發；大資料服務等。企查查股權穿透顯示，該公司由隆平高科(000998)全資持股。
+
+---
+
+### 2026-08-25 13:44:16  #公司 #國際
+
+【英派斯集中籤署多項合作協議】據英派斯訊息，8月24日，英派斯智慧健身康養裝置研發製造基地專案在海南啟動。儀式上，英派斯攜手印尼奧委會、瑞康醫藥集團、香港理工大學、海南省運動與健康促進重點實驗室等國際組織、行業機構、企業和教育科研單位，舉行全球健康科技生態聯盟簽約儀式。同時，英派斯與光華創芯舉行AI健康科技創新中心的揭牌儀式。
+
+---
+
+### 2026-08-25 13:43:43  #Trading Economics #Economy #Finland #Unemployment Rate #Importance 1
+
+Finnish Jobless Rate at 7-Month Low — Finland’s unemployment rate rose to 9.9% in July 2026 from 9.3% in the same month last year, although this marked the lowest level since December 2025. The number of unemployed increased by 20,000 year-on-year to 289,000, comprising 150,000 men and 139,000 women. By gender, the male unemployment rate eased to 10.0%, 0.2 percentage points lower than a year earlier, while the female rate increased to 9.8%, up 1.5 percentage points. Among younger workers aged 15–24, the jobless rate also edged up to 16.9%, just 0.1 percentage points higher year-on-year. Meanwhile, employment was unchanged at 2.637 million, even as the labour force participation rate rose to 70.2% from 69.8% a year earlier. The employment rate for those aged 20–64 also inched down to 76.4% from 76.5%
 
 ---
 
@@ -18767,101 +18893,5 @@ Malaysia Leading Economic Index Edges Up — Malaysia's leading economic index w
 ### 2026-08-24 12:06:18  #公司 #國際
 
 【國泰海通：潔淨室工程建設需求加速釋放 優選具備優勢業績彈性龍頭】國泰海通釋出研報稱，潔淨室業務佔半導體專案資本開支的10%~20%。受益下游景氣和各國政策支援，全球半導體產業資本開支援續擴張，帶動配套潔淨室工程建設需求加速釋放。綜合看2026年全球潔淨室市場空間約345億美元，2026-2030年CAGR+15.3%。中國臺灣、韓國、歐美的晶圓廠又會與所屬地區的潔淨室公司形成繫結。該行建議選擇具有競爭優勢、業績彈性、估值優勢的龍頭。
-
----
-
-### 2026-08-24 12:05:14  #公司
-
-【民生人壽否認董事長因“生肖不和”裁員】近日，有疑似民生人壽員工在社交平臺上爆料，民生人壽董事長把和自己生肖屬相不合的人全部裁員。另有報道稱，工作多年的員工如果學歷不是一本也要被裁。民生人壽因此捲入輿論漩渦，相關討論和質疑聲持續不斷。8月24日，介面新聞就此事向民生人壽客服了解情況，對方回應稱，“這完全是一個虛假訊息。公司已對網路造謠內容進行證據保全，並會透過法律手段追究編造和擴散虛假資訊人員的法律責任。希望公眾能及時分辨真偽，不信謠、不傳謠。”該客服還強調，關於公司經營和日常人事情況，建議以官方釋出的內容為準。上述事件始於網上多份匿名爆料截圖。有自稱民生人壽內部員工的網友發帖稱，公司董事長魯偉鼎因生肖屬豬，按照民俗“巳亥相沖”說法，對屬蛇員工進行解約，同時傳言還疊加“清退非一本學歷老員工”等說法。（介面）另有知情人士透露，民生人壽背後的萬向集團一向重視人員管理，其組織資源部對員工的星座、血型、屬相都有深入瞭解。組織資源部偶爾會有破格提拔或現場處置幹部的情況。但該訊息未得到萬向集團方面的證實。
-
----
-
-### 2026-08-24 12:04:02  #國際
-
-IBM與美國網球協會為2026年美國網球公開賽推出全新人工智慧驅動的觀賽體驗。
-
----
-
-### 2026-08-24 12:03:24  #Trading Economics #Markets #India #Currency #Importance 1
-
-Rupee Steady as Inflows Cushion Oil Risks — The Indian rupee hovered near 95.6 per dollar, trading in a tight range as strong capital inflows and continued Reserve Bank of India intervention helped cushion the currency, while month-end dollar demand and elevated oil prices limited gains. The RBI stated that it had garnered nearly $73 billion through measures introduced in June to strengthen the balance of payments, boosting its capacity to support the rupee. Market participants remained cautious about building long-dollar positions amid expectations of RBI intervention around 95.80 per dollar. Meanwhile, month-end derivative maturities and corporate dollar payments could add pressure to the currency, while Brent crude remained elevated near $94 a barrel amid the ongoing Iran conflict. A weaker dollar also provided some support, with the dollar index holding around 98.8 after posting significant losses last week as higher US Treasury yields raised concerns over the country’s growing debt burden.
-
----
-
-### 2026-08-24 12:03:11  #央行 #國際
-
-市場訊息：印度央行週一可能入市干預外匯市場。
-
----
-
-### 2026-08-24 12:01:58  #其他
-
-埃克森美孚、利安德巴塞爾、阿波羅均對殼牌資產表達收購意向。
-
----
-
-### 2026-08-24 12:01:37  #國際
-
-殼牌作價80億美元出售美國化工資產，埃克森美孚對該資產表達收購意向。
-
----
-
-### 2026-08-24 12:01:22  #市場
-
-【港股午評：恒生指數跌2.09%，恒生科技指數跌3.84%】港股午間收盤，恒生指數跌2.09%，恒生科技指數跌3.84%。恒指港股通ETF銀華（159318）跌2.09%，港股通科技ETF鵬華（159751）跌3.4%。板塊方面，醫療裝置、醫療器械板塊漲幅靠前；電能綜合服務、通訊裝置Ⅲ板塊跌幅靠前。個股方面，德適-B漲33.94%，亮晴控股漲23.55%，海清智元漲14.77%，真健康醫療-B漲14.52%，今海醫療科技漲12.2%；麗珠醫藥跌14.45%，智雲科技建設跌11.53%，中際旭創跌11.32%，大金重工跌11.23%，哈爾濱電氣跌10.91%。
-
----
-
-### 2026-08-24 12:01:00  #公司
-
-【國網江蘇省電力有限公司原三級顧問陳慶接受審查調查】中央紀委國家監委網站8月24日通報，據中央紀委國家監委駐國家電網有限公司紀檢監察組、江蘇省紀委監委訊息：國網江蘇省電力有限公司原三級顧問陳慶涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家電網有限公司紀檢監察組紀律審查和江蘇省南京市監察委員會監察調查。
-
----
-
-### 2026-08-24 11:58:59  #公司
-
-【東方基金官宣新掌門人，58歲東北證券總裁何俊巖任董事長】8月24日，東方基金管理股份有限公司（下稱“東方基金”）公告稱，何俊巖任公司董事長，總經理劉鴻鵬任副董事長，同時兼任財務負責人，不再代任公司董事長。張科、郝麗琨因工作調整分別離任公司副總經理、財務負責人職位。上述人員變更日期均為2026年8月21日。
-
----
-
-### 2026-08-24 11:58:36  #其他
-
-【廣西橫州因颱風“美莎克”受災的72所學校達到開學條件】受今年第10號颱風“美莎克”影響，7月初，廣西橫州市遭遇極端強降雨，六藍水庫、雲表水庫發生險情，導致學校受淹、損毀。據記者瞭解，截至8月21日，橫州市已完成轄區72所受災學校的環境清理、水電修復、教學裝置除錯安裝等各項開學準備工作。橫州市受災學校各項開學保障工作基本落實到位，達到開學條件。（央視新聞）
-
----
-
-### 2026-08-24 11:58:24  #公司
-
-【美銀：上調金山軟體目標價至26港元，預期第三季遊戲業務增長持續受壓】美銀證券發表研報指，金山軟體第二季收入同比增長9%，分別較市場及該行預測高出2%和5%。該行下調公司2026至28年收入預測1至2%，以反映遊戲業務增長前景疲弱，但由於營運開支控制優於預期及金山雲等聯營公司盈利能力改善，因此上調盈測2%至9%。該行預期金山軟體第三季遊戲業務增長持續受壓，對於公司計劃2027年對《劍網3》進行引擎及畫面升級，相信可提升使用者參與度。該行將金山軟體的目標價由24港元上調至26港元，維持“中性”評級。
-
----
-
-### 2026-08-24 11:57:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Pulls Back from 20-Month High — Malaysian palm oil futures hovered below MYR 5,000 per tonne, snapping five sessions of gains and pulling back from their highest level since December 2024. Traders booked profits amid weaker soyoil prices on the Dalian and Chicago markets. Crude oil also eased ahead of an expected announcement from Washington on potential new sanctions against Iran, reducing support for competing vegetable oils. Ample supplies added further pressure, with Malaysian palm oil inventories rising to a five-month high in July. Meanwhile, cargo surveyors estimated that palm oil shipments for August 1–20 fell between 5.5% and 13.2% from the same period in July, pointing to softer export momentum. Still, losses were limited by a weaker ringgit, while buyers in top supplier Indonesia stepped up purchases ahead of the full implementation of the B50 biodiesel mandate in October. Concerns that a developing El Niño could intensify dryness and curb output in Indonesia and Malaysia also provided underlying support.
-
----
-
-### 2026-08-24 11:56:36  #國際
-
-【英國首相將宣佈向烏方移交資料，以便在烏本土生產“斯卡普”導彈】英國首相安迪·伯納姆將宣佈向基輔移交機密資料，以便在烏克蘭境內啟動遠端“斯卡普”（SCALP）導彈的生產。伯納姆將於8月24日訪問基輔。宣告稱：“首相計劃宣佈，政府已批准國防企業MBDA向烏方移交有關該型遠端導彈中英國產元件的機密資訊，以支援烏克蘭與法國關於在烏本土建立生產線的計劃。”
-
----
-
-### 2026-08-24 11:55:27  #公司
-
-【瑞銀：微升中銀航空租賃目標價至106.1港元，維持“買入”評級】瑞銀髮表研報指，中銀航空租賃上半年純利大致符合市場及該行預期。由於機隊擴充，經營租賃租金收入同比增長5%，遜該行預測的10%。公司宣派中期息0.1799美元，派息比率升至35%，符合其派息政策。該行提到，中銀航空租賃上半年資本開支同比增長20%至23億美元，佔全年指引45億美元的一半，管理層有信心可達成全年目標。該行大致維持中銀航空租賃今年盈測，但下調2027至28年預測2至4%，以反映租賃租金收入預測下調，部分被飛機處置收益上升所抵銷。該行將公司目標價由104.2港元微升至106.1港元，維持“買入”評級。
-
----
-
-### 2026-08-24 11:55:20  #國際
-
-俄羅斯線上零售商奧贊（Ozon）表示，其位於達吉斯坦的物流樞紐在遭到無人機襲擊後起火。
-
----
-
-### 2026-08-24 11:51:59  #公司
-
-【直擊第二屆世界人形機器人運動會：優理奇已斬獲1金1銅，酒店場景專案連續兩年折桂】第二屆世界人形機器人運動會在北京國家速滑館“冰絲帶”舉行。截至目前，優理奇在本屆賽事中已斬獲1金1銅，其中，酒店場景-賓客服務比賽獲得金牌，此專案連續兩年折桂，印證優理奇與眾多知名酒店集團的常態化運營合作成果。同時，首次參賽的消防場景奪取第三，展現了Panther黑豹系列向高危複雜環境快速遷移的工程化實力。（新浪科技）
 
 ---

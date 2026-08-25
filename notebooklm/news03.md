@@ -1,7 +1,78 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-25 13:44:09_
-_本檔包含 3343 則快訊，約 630906 字_
+_更新時間：2026-08-25 13:52:43_
+_本檔包含 3338 則快訊，約 630236 字_
+
+---
+
+### 2026-08-21 15:19:24  #資料
+
+【法國8月商業活動萎縮幅度超預期，服務業受高溫拖累】標普全球週五公佈的調查顯示，法國8月服務業初值PMI降至48.4，為兩個月低點，低於7月的49.6，商業活動萎縮幅度超過預期，近期持續高溫天氣拖累了該國占主導地位的服務業。法國8月服務業PMI也低於市場預期的49.8。與此同時，法國8月製造業PMI初值從7月的49.8升至51.5，超過預期的50。但綜合PMI初值（涵蓋服務業和製造業）從7月的49.4降至48.8，創兩個月新低，低於預期的49.5。標普全球市場情報高階首席經濟學家喬·海耶斯表示：“8月初值PMI報告顯示，法國經濟狀況連續第二個月疲弱。一些企業，尤其是服務業企業，指出極端高溫天氣是導致活動和需求下降的原因之一。”
+
+---
+
+### 2026-08-21 15:19:00  #國際
+
+印度清潔能源部門官員：目標到2030年實現30吉瓦多晶矽產能。
+
+---
+
+### 2026-08-21 15:18:52  #宏觀
+
+【財政部：將繼續發力支援鄉村振興和農業農村現代化】目前，中央財政將銜接推進鄉村振興補助資金調整為常態化幫扶資金，在今天國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上，財政部有關負責人表示，將繼續發力支援推進鄉村全面振興和農業農村現代化。財政部綜合司司長李先忠表示：防止規模性返貧致貧是一項長期任務，今年是常態化幫扶的第一年，中央財政繼續保持投入強度，已安排下達1770億元。截至6月底，脫貧勞動力就業規模超過3200萬人，脫貧縣農村居民人均可支配收入的增速繼續跑贏全國農村平均水平。（央視新聞）
+
+---
+
+### 2026-08-21 15:18:24  #公司
+
+【愷英網路成立網路科技公司 含多項AI相關業務】企查查APP顯示，近日，上海盛境湧現網路科技有限公司成立，法定代表人為楊吳月，註冊資本為1000萬元，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；網路與資訊保安軟體開發；數字文化創意軟體開發等。企查查股權穿透顯示，該公司由愷英網路旗下上海愷盛網路科技有限公司及上饒盛英網路科技有限公司共同持股。
+
+---
+
+### 2026-08-21 15:18:02  #公司
+
+【上海市商務委：支援臨港進一步最佳化“走出去”和“引進來”雙向投資服務】上海市商務委副主任陳昊8月21日在上海市政府新聞釋出會上表示，“十五五”時期是臨港新片區轉段躍升、特色成勢的關鍵期，上海市商務委將從三個方面進一步支援臨港新片區厚植競爭優勢、實現更高質量發展。
+第一，支援臨港持續培育外貿新業態、新優勢。支援臨港新片區深化離岸貿易金融服務綜合改革，加大離岸貿易主體招引力度，吸引更多跨國公司產品分銷中心、大宗商品貿易商和全球生產性企業等在臨港新片區設立離岸業務專營公司，深度參與全球性生產、銷售、服務等活動，持續做大離岸貿易規模。鼓勵臨港新片區創新啟用保稅維修、保稅檢測和保稅培訓等保稅業態新動能，壯大多元保稅特色產業，提升保稅加工製造業務規模能級，特別是圍繞汽車、航空等產業打造保稅維修產業高地。
+
+第二，支援臨港進一步最佳化“走出去”和“引進來”雙向投資服務。做強臨港出海服務品牌，實現產業與服務精準匹配。聚焦區內重點產業，依託上海市企業出海綜合服務平臺和臨港分平臺，整合出海服務資源，加快引進一批優質服務機構，吸引更多出海企業在臨港新片區設立總部。同時，支援臨港進一步完善跨境金融、跨境貿易、離岸貿易創新供給，營造更加公平、透明、可預期的投資環境，招引一批標誌性外資專案，以高質量專案推動產業動能的躍升。
+
+第三，支援臨港深入推進深層次自主開放。根據國家對外開放總體安排，支援臨港新片區加強服務貿易、貨物貿易、數字貿易、金融等重點領域自主開放和制度創新，更好為國家試製度、測壓力、探新路。持續推動各項開放試點政策落地出成效，打造更多示範專案、亮點案例，進一步放大開放政策效應，積累更多可複製、可推廣的經驗。（上證報）
+
+---
+
+### 2026-08-21 15:17:33  #國際
+
+【三菱汽車因導航系統故障在日本召回1.3萬輛歐藍德PHEV】三菱汽車8月20日向日本國土交通省提交報告稱，因導航系統控制程式存在故障、車內螢幕無法正常顯示倒車時等的攝像頭畫面，將召回13226輛2024年10月至2026年2月生產的歐藍德PHEV。日本國交省稱，螢幕可能會黑屏或卡住導致無法顯示攝像頭畫面，因此可能不符合安全標準。
+
+---
+
+### 2026-08-21 15:17:14  #市場 #焦點
+
+南向資金淨賣出額達60億港元。
+
+---
+
+### 2026-08-21 15:17:08  #Trading Economics #Markets #Commodity #Importance 0
+
+UK Natural Gas Holds at Multi-Year Highs — UK natural gas prices held above 161 pence per therm on Friday, the highest level since January 2023, as the stalemate in the US-Iran conflict muddied the outlook for Gulf LNG supplies. The two sides continued to clash over the Strait of Hormuz, with the conflict entering a new phase of economic pressure. Traders are concerned about Europe’s readiness for the upcoming winter as the maritime blockade has stranded Qatari LNG cargoes, forcing European utilities into more intense and costly competition with Asian buyers for available cargoes. Heatwave-driven demand for cooling is also limiting gas injections into storage. Europe's storage levels are at just 62%, the lowest seasonal level in records dating back to 2009, leaving the region with limited time to replenish inventories before the heating season begins. Despite this, the European Commission said that gas supplies in the bloc are not immediately at risk. UK gas prices have risen more than 6% this week.
+
+---
+
+### 2026-08-21 15:16:28  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+France August flash manufacturing PMI 51.5, highest in four months.
+
+---
+
+### 2026-08-21 15:16:23  #MKT News #Market Regions #Greater China
+
+【China government bond futures midday close】At midday, China government bond futures main contracts: 2-year (TS) down 0.01%, 5-year (TF) down 0.03%, 10-year (T) down 0.02%, 30-year (TL) down 0.03%.
+
+---
+
+### 2026-08-21 15:16:12  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+The Shangai Composite Index Closes 0.07% Higher — The Shangai Composite Index rose 3 points or 0.07 percent on Friday to close at 3906 points. Leading the gains are Aluminum Corporation of China (2.62%), Ping An Insurance (2.32%) and Petrochina (2.09%). Top losers were Guangzhou Automobile (-5.73%), Sh Fosun Pharma (-5.03%) and Haier Smart Home (-4.23%).
 
 ---
 
@@ -20096,101 +20167,5 @@ Riksbank: If unexpectedly high inflation this summer marks the start of a larger
 ### 2026-08-20 15:32:27  #其他
 
 【《上海市教育發展“十五五”規劃》印發】上海市人民政府印發《上海市教育發展“十五五”規劃》，到2030年，推動上海新時代立德樹人新格局構建形成，人才自主培養質量和適配度全面提高，教育服務國家戰略和城市發展更加強勁，優質教育資源供給更加豐富，人民群眾教育獲得感顯著增強，教育事業發展和人力資源開發主要指標接近全球城市先進水平，教育強市建設取得突破性進展，為到2035年辦出有力引領社會主義現代化建設、更好滿足人民群眾期待、充分彰顯上海國際大都市地位的高質量教育奠定堅實基礎。
-
----
-
-### 2026-08-20 15:32:27  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-【JPMorgan: Weaker yen could push BoJ into earlier hikes?】JPMorgan says the Bank of Japan faces an increasingly difficult policy loop: rising yen depreciation pressure could force earlier rate hikes, but a September move seen by markets as a direct response to the currency may encourage bets on faster follow-ups and raise policy-expectation uncertainty. After June’s tightening, a September hike would shorten the interval to three months, faster than the previously signalled gradual, data-dependent pace. JPMorgan cautions that if markets price a ‘weaker yen → BoJ hikes’ feedback, future tightening may become market-driven, increasing the sensitivity of the yen and JGBs to exchange-rate swings; it therefore expects policy adjustments in September and December, advancing BoJ normalization.
-
----
-
-### 2026-08-20 15:32:24  #市場 #焦點
-
-南向資金淨賣出額達50億港元。
-
----
-
-### 2026-08-20 15:32:18  #其他
-
-【2026年度票房超265億！暑期檔觀影場次、人數再創新高】據網路平臺資料，截至目前2026年度電影總票房（含預售）突破265億元觀影人次超6.7億總場次超9600萬。
-
----
-
-### 2026-08-20 15:32:06  #央行 #其他
-
-瑞典央行：今年晚些時候加息的可能性依然存在。
-
----
-
-### 2026-08-20 15:32:04  #MKT News #Market Regions #Greater China #Copper #Impact bullish
-
-【MOFCOM: China-Ecuador trade $9.83 bln in 1H, YoY >20%】MOFCOM said bilateral trade with Ecuador reached $9.83 bln in 1H, up more than 20% YoY. Since the China-Ecuador free trade agreement took effect over two years ago trade has expanded rapidly and China is now Ecuador’s second-largest trading partner; cooperation has deepened in infrastructure and energy/minerals. MOFCOM said Beijing will use joint economic-and-trade mechanisms to push for upgraded bilateral commercial ties during the Ecuadorian president’s visit.
-
----
-
-### 2026-08-20 15:32:00  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.29% Lower — The FTSE 100 Index is losing 31 points. Losses were led by JD Sports Fashion (-10.42%), Antofagasta (-2.05%) and Coca-Cola (-1.82%). Offsetting the fall, top gainers were Weir (1.36%), Babcock International (1.02%) and United Utilities (0.82%).
-
----
-
-### 2026-08-20 15:31:54  #國際
-
-【商務部：今年上半年中厄貿易額達98.3億美元，同比增速超20%】8月20日，商務部召開例行新聞釋出會。有記者提問，本週厄瓜多總統正在中國訪問。請介紹下中國和厄瓜多經貿合作情況，對本次訪問經貿領域成果有何期待？商務部新聞發言人何亞東表示，近年來，在兩國元首戰略引領下，中國與厄瓜多政治互信日益鞏固，務實合作成果豐碩。中厄自貿協定生效兩年多來，雙邊貿易額快速增長，今年上半年達98.3億美元，同比增速超過20%，中國已成為厄瓜多第二大貿易伙伴。雙方還在基礎設施、能礦領域開展了卓有成效的合作。中方願與厄方一道，共同落實好兩國元首重要共識，用好經貿混委會等機制，推動中厄經貿合作提質升級，推動中厄全面戰略伙伴關係不斷走深走實。
-
----
-
-### 2026-08-20 15:31:46  #國際
-
-【伊朗說美國從戰爭一開始就敗了】伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪日前在接受採訪時表示，美國在戰爭初期所宣稱的主要目標——推翻伊朗政權並分裂伊朗，從一開始就失敗了。而且在這些目標失敗後，美國毫無戰略，宣佈了至少12個不同的目標。他指出，美國宣佈“我們要佔領哈爾克島”，並對其進行猛烈轟炸，但結果伊朗一個人都沒死。（CCTV國際時訊）
-
----
-
-### 2026-08-20 15:31:34  #其他
-
-【《上海市城市更新和住房發展“十五五”規劃》印發】上海市人民政府辦公廳印發《上海市城市更新和住房發展“十五五”規劃》。其中指出，到2030年，人居環境持續改善，存量資源提質增效，公共服務優質均衡，風貌特色魅力彰顯，生態系統拓展最佳化，本質安全全面加強。城市更新和住房發展體制機制更加健全，法規政策更加完善，模式路徑更加多樣，投融資方式更加豐富。
-
----
-
-### 2026-08-20 15:31:22  #MKT News
-
-Riksbank says considerable uncertainty surrounds the outlook and developments require vigilance. Beyond the Middle East conflict, several other risks could affect inflation and economic activity.
-
----
-
-### 2026-08-20 15:31:13  #MKT News
-
-Sweden's Riksbank said the possibility of raising interest rates later this year remains.
-
----
-
-### 2026-08-20 15:31:09  #央行 #其他
-
-瑞典央行：若夏季通脹意外高企，是通脹更大幅度、更持久上升的開端，瑞典央行將貨幣政策調整至收緊方向。
-
----
-
-### 2026-08-20 15:31:00  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.40% Lower — The DAX Index is falling 104 points. Losses were driven by Brenntag (-2.53%), Rheinmetall (-1.64%) and BASF (-1.53%). Biggest rises came from Continental (1.43%), Qiagen NV (1.36%) and BMW (1.23%).
-
----
-
-### 2026-08-20 15:30:59  #國際
-
-烏克蘭部長表示，受高溫天氣影響，烏克蘭玉米開收時間將早於往年。
-
----
-
-### 2026-08-20 15:30:55  #國際
-
-波蘭7月工業生產同比增長5.1%；預期增長5.0%。
-
----
-
-### 2026-08-20 15:30:43  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Waver — European stocks were little changed on Thursday as investors assessed developments in global bond markets and continued to monitor rising oil prices amid persistent Middle East tensions. The US Treasury’s decision to at least double the size of its longer-dated bond buybacks pushed Treasury yields sharply lower. Meanwhile, uncertainty surrounding the US-Iran standoff continued to weigh on markets as oil prices remained elevated. Among major stocks, ASML and L’Oréal advanced, while automotive shares were among the strongest performers, with BMW gaining 1.4%, Volkswagen 1% and Mercedes-Benz 0.8%. In contrast, Rheinmetall fell 1.5%, while SAP, BASF and Nokia declined around 1.3%-1.4%. LVMH and Linde also traded lower. Investors are also assessing German producer-price data, which showed inflation reaching its highest level in more than three years. Attention now turns to the ECB’s latest meeting accounts for clues on future monetary policy.
 
 ---

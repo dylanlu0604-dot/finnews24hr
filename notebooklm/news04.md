@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-25 13:44:09_
-_本檔包含 3070 則快訊，約 629950 字_
+_更新時間：2026-08-25 13:52:43_
+_本檔包含 3072 則快訊，約 630793 字_
+
+---
+
+### 2026-08-20 15:32:27  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
+
+【JPMorgan: Weaker yen could push BoJ into earlier hikes?】JPMorgan says the Bank of Japan faces an increasingly difficult policy loop: rising yen depreciation pressure could force earlier rate hikes, but a September move seen by markets as a direct response to the currency may encourage bets on faster follow-ups and raise policy-expectation uncertainty. After June’s tightening, a September hike would shorten the interval to three months, faster than the previously signalled gradual, data-dependent pace. JPMorgan cautions that if markets price a ‘weaker yen → BoJ hikes’ feedback, future tightening may become market-driven, increasing the sensitivity of the yen and JGBs to exchange-rate swings; it therefore expects policy adjustments in September and December, advancing BoJ normalization.
+
+---
+
+### 2026-08-20 15:32:24  #市場 #焦點
+
+南向資金淨賣出額達50億港元。
+
+---
+
+### 2026-08-20 15:32:18  #其他
+
+【2026年度票房超265億！暑期檔觀影場次、人數再創新高】據網路平臺資料，截至目前2026年度電影總票房（含預售）突破265億元觀影人次超6.7億總場次超9600萬。
+
+---
+
+### 2026-08-20 15:32:06  #央行 #其他
+
+瑞典央行：今年晚些時候加息的可能性依然存在。
+
+---
+
+### 2026-08-20 15:32:04  #MKT News #Market Regions #Greater China #Copper #Impact bullish
+
+【MOFCOM: China-Ecuador trade $9.83 bln in 1H, YoY >20%】MOFCOM said bilateral trade with Ecuador reached $9.83 bln in 1H, up more than 20% YoY. Since the China-Ecuador free trade agreement took effect over two years ago trade has expanded rapidly and China is now Ecuador’s second-largest trading partner; cooperation has deepened in infrastructure and energy/minerals. MOFCOM said Beijing will use joint economic-and-trade mechanisms to push for upgraded bilateral commercial ties during the Ecuadorian president’s visit.
+
+---
+
+### 2026-08-20 15:32:00  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.29% Lower — The FTSE 100 Index is losing 31 points. Losses were led by JD Sports Fashion (-10.42%), Antofagasta (-2.05%) and Coca-Cola (-1.82%). Offsetting the fall, top gainers were Weir (1.36%), Babcock International (1.02%) and United Utilities (0.82%).
+
+---
+
+### 2026-08-20 15:31:54  #國際
+
+【商務部：今年上半年中厄貿易額達98.3億美元，同比增速超20%】8月20日，商務部召開例行新聞釋出會。有記者提問，本週厄瓜多總統正在中國訪問。請介紹下中國和厄瓜多經貿合作情況，對本次訪問經貿領域成果有何期待？商務部新聞發言人何亞東表示，近年來，在兩國元首戰略引領下，中國與厄瓜多政治互信日益鞏固，務實合作成果豐碩。中厄自貿協定生效兩年多來，雙邊貿易額快速增長，今年上半年達98.3億美元，同比增速超過20%，中國已成為厄瓜多第二大貿易伙伴。雙方還在基礎設施、能礦領域開展了卓有成效的合作。中方願與厄方一道，共同落實好兩國元首重要共識，用好經貿混委會等機制，推動中厄經貿合作提質升級，推動中厄全面戰略伙伴關係不斷走深走實。
+
+---
+
+### 2026-08-20 15:31:46  #國際
+
+【伊朗說美國從戰爭一開始就敗了】伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪日前在接受採訪時表示，美國在戰爭初期所宣稱的主要目標——推翻伊朗政權並分裂伊朗，從一開始就失敗了。而且在這些目標失敗後，美國毫無戰略，宣佈了至少12個不同的目標。他指出，美國宣佈“我們要佔領哈爾克島”，並對其進行猛烈轟炸，但結果伊朗一個人都沒死。（CCTV國際時訊）
+
+---
+
+### 2026-08-20 15:31:34  #其他
+
+【《上海市城市更新和住房發展“十五五”規劃》印發】上海市人民政府辦公廳印發《上海市城市更新和住房發展“十五五”規劃》。其中指出，到2030年，人居環境持續改善，存量資源提質增效，公共服務優質均衡，風貌特色魅力彰顯，生態系統拓展最佳化，本質安全全面加強。城市更新和住房發展體制機制更加健全，法規政策更加完善，模式路徑更加多樣，投融資方式更加豐富。
+
+---
+
+### 2026-08-20 15:31:22  #MKT News
+
+Riksbank says considerable uncertainty surrounds the outlook and developments require vigilance. Beyond the Middle East conflict, several other risks could affect inflation and economic activity.
+
+---
+
+### 2026-08-20 15:31:13  #MKT News
+
+Sweden's Riksbank said the possibility of raising interest rates later this year remains.
+
+---
+
+### 2026-08-20 15:31:09  #央行 #其他
+
+瑞典央行：若夏季通脹意外高企，是通脹更大幅度、更持久上升的開端，瑞典央行將貨幣政策調整至收緊方向。
+
+---
+
+### 2026-08-20 15:31:00  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.40% Lower — The DAX Index is falling 104 points. Losses were driven by Brenntag (-2.53%), Rheinmetall (-1.64%) and BASF (-1.53%). Biggest rises came from Continental (1.43%), Qiagen NV (1.36%) and BMW (1.23%).
+
+---
+
+### 2026-08-20 15:30:59  #國際
+
+烏克蘭部長表示，受高溫天氣影響，烏克蘭玉米開收時間將早於往年。
+
+---
+
+### 2026-08-20 15:30:55  #國際
+
+波蘭7月工業生產同比增長5.1%；預期增長5.0%。
+
+---
+
+### 2026-08-20 15:30:43  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Waver — European stocks were little changed on Thursday as investors assessed developments in global bond markets and continued to monitor rising oil prices amid persistent Middle East tensions. The US Treasury’s decision to at least double the size of its longer-dated bond buybacks pushed Treasury yields sharply lower. Meanwhile, uncertainty surrounding the US-Iran standoff continued to weigh on markets as oil prices remained elevated. Among major stocks, ASML and L’Oréal advanced, while automotive shares were among the strongest performers, with BMW gaining 1.4%, Volkswagen 1% and Mercedes-Benz 0.8%. In contrast, Rheinmetall fell 1.5%, while SAP, BASF and Nokia declined around 1.3%-1.4%. LVMH and Linde also traded lower. Investors are also assessing German producer-price data, which showed inflation reaching its highest level in more than three years. Attention now turns to the ECB’s latest meeting accounts for clues on future monetary policy.
 
 ---
 
@@ -18452,89 +18548,5 @@ Polish Consumer Morale Weakens in August — Poland’s current consumer confide
 ### 2026-08-19 15:36:35  #MKT News
 
 Bank Indonesia governor says the central bank is keeping its benchmark rate unchanged but is using other measures to stabilize the rupiah.
-
----
-
-### 2026-08-19 15:36:19  #公司
-
-【國電南自：2026年半年度淨利潤1.94億元，同比增長22.01%】國電南自公告，2026年上半年營業收入39.47億元，同比下降7.82%。歸屬於上市公司股東的淨利潤1.94億元，同比增長22.01%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.86億元，同比增長24.57%。基本每股收益0.19元。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-19 15:36:16  #央行 #國際
-
-印尼央行行長：我們的政策具有創新性。
-
----
-
-### 2026-08-19 15:36:04  #央行 #國際
-
-印度尼西亞央行行長表示：受全球因素帶來的壓力影響，我們目前仍將維持穩定作為工作重心。
-
----
-
-### 2026-08-19 15:35:29  #Trading Economics #Economy #Georgia #Balance of Trade #Importance 1
-
-Georgia Trade Gap Narrows in July — Georgia’s trade deficit narrowed to USD 909.1 million in July 2026 from USD 998.8 million in the same month a year earlier. Exports climbed 30% year-on-year to USD 793.9 million, while imports increased 5.8% to USD 1,703 million. In the January-July period, exports rose 21.6% to USD 4,670.2 million, driven by higher sales of oil and petroleum products (1,052%) and copper ores and concentrates (310.8%), while passenger cars declined 21.5%, though they remained the country’s top export product. Exports rose most to China (166.4%), Russia (6.2%), and Armenia (31.2%). Meanwhile, imports increased 2.4% to USD 10,849 million, supported by higher purchases of oil and petroleum products (32.7%) and medications (6.5%), while passenger cars fell 12.8%, though they also remained the most imported product. Imports rose most from China (22.3%), Russia (26.5%), and Turkey (5%). The country’s trade deficit for the January-July period narrowed to USD 6,178.9 million from USD 6,756.4 million last year.
-
----
-
-### 2026-08-19 15:35:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-Bank Indonesia governor said the Federal Reserve may keep interest rates higher for longer.
-
----
-
-### 2026-08-19 15:35:08  #央行 #國際
-
-印尼央行行長：美國利率可能在高位維持更久。
-
----
-
-### 2026-08-19 15:34:52  #國際
-
-【外交部亞洲司司長沈敏娟出席中國—東盟中心秘書長到離任招待會】2026年8月18日，外交部亞洲司司長沈敏娟應邀出席中國—東盟中心為新任秘書長張利忠、前任秘書長史忠俊舉辦的到離任招待會。沈敏娟表示，在雙方領導人共同關心和戰略引領下，中國東盟合作始終走在地區合作前列，合作成果可感可及，惠及各國民生。中方願同東盟一道建設好和平、安寧、繁榮、美麗、友好的共同家園，推動構建更為緊密的中國—東盟命運共同體，為地區發展和全球治理貢獻“正能量”。期待中心為中國東盟關係發展發揮更大作用。越南駐華大使範清平代表東盟致辭，高度評價中心工作，期待以東盟和中國建立全面戰略伙伴關係5週年為契機，進一步深化互利合作，共創美好未來。
-
----
-
-### 2026-08-19 15:34:52  #MKT News #Market Regions #Greater China #CNH #Impact bullish #DXY #Impact bearish #S&P500
-
-【Foreign Ministry: International adherence to One-China principle unshakeable】China's Foreign Ministry spokesperson Lin Jian said at a routine briefing on Aug. 19 that the international consensus to uphold the One-China principle is unshakeable. Lin said Beijing expressed appreciation for Malaysian Prime Minister Anwar's recent remark that Taiwan is part of China.
-
----
-
-### 2026-08-19 15:34:46  #MKT News #Market Regions #Emerging Markets #XAUUSD #Impact bullish #DXY
-
-Bank Indonesia governor said global uncertainty is expected to persist for an extended period.
-
----
-
-### 2026-08-19 15:34:41  #央行 #國際
-
-印度尼西亞央行行長：全球不確定性預計將長期持續。
-
----
-
-### 2026-08-19 15:34:27  #其他
-
-【皇崗口岸今日進行實戰演練】據深圳市人民政府口岸辦公室通報，2026年8月19日（週三）15時至17時30分，深圳市口岸辦在皇崗口岸聯檢大樓北下沉廣場開展防汛應急演練。 其間，皇崗口岸聯檢大樓內部積水、雨水倒灌、人員搶修、沙袋封堵、抽排積水等均為實戰演練場景，並非真實險情。請廣大市民不要恐慌，不要信謠、傳謠和造謠。 給大家帶來不便之處敬請諒解，感謝您的支援和配合。（大灣區之聲）
-
----
-
-### 2026-08-19 15:34:22  #MKT News #Market Regions #Greater China #06683.HK
-
-Juxing Chuanqi (06683.HK) fell more than 20% at the close, after rising 34.88% yesterday.
-
----
-
-### 2026-08-19 15:34:18  #市場
-
-巨星傳奇(06683.HK)尾盤跌超20%，昨日收漲34.88%。
-
----
-
-### 2026-08-19 15:33:54  #MKT News
-
-【Foreign Ministry: China, Indonesia to follow leaders' strategic guidance to hold two mechanism meetings】On Aug. 19 China's Foreign Ministry said that during Wang Yi's upcoming visit to Indonesia the sides will hold two mechanism meetings, including a 2+2 meeting where Foreign Minister Wang and Defense Minister Dong Jun will conduct in‑depth exchanges with Indonesian counterparts on political-security and defense cooperation and on regional and international developments. China said it will coordinate development and security cooperation with Indonesia and accelerate building a China-Indonesia community with regional and global influence.
 
 ---

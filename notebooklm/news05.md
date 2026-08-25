@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-25 13:44:09_
-_本檔包含 3098 則快訊，約 630102 字_
+_更新時間：2026-08-25 13:52:43_
+_本檔包含 3100 則快訊，約 630750 字_
+
+---
+
+### 2026-08-19 15:36:19  #公司
+
+【國電南自：2026年半年度淨利潤1.94億元，同比增長22.01%】國電南自公告，2026年上半年營業收入39.47億元，同比下降7.82%。歸屬於上市公司股東的淨利潤1.94億元，同比增長22.01%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.86億元，同比增長24.57%。基本每股收益0.19元。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-19 15:36:16  #央行 #國際
+
+印尼央行行長：我們的政策具有創新性。
+
+---
+
+### 2026-08-19 15:36:04  #央行 #國際
+
+印度尼西亞央行行長表示：受全球因素帶來的壓力影響，我們目前仍將維持穩定作為工作重心。
+
+---
+
+### 2026-08-19 15:35:29  #Trading Economics #Economy #Georgia #Balance of Trade #Importance 1
+
+Georgia Trade Gap Narrows in July — Georgia’s trade deficit narrowed to USD 909.1 million in July 2026 from USD 998.8 million in the same month a year earlier. Exports climbed 30% year-on-year to USD 793.9 million, while imports increased 5.8% to USD 1,703 million. In the January-July period, exports rose 21.6% to USD 4,670.2 million, driven by higher sales of oil and petroleum products (1,052%) and copper ores and concentrates (310.8%), while passenger cars declined 21.5%, though they remained the country’s top export product. Exports rose most to China (166.4%), Russia (6.2%), and Armenia (31.2%). Meanwhile, imports increased 2.4% to USD 10,849 million, supported by higher purchases of oil and petroleum products (32.7%) and medications (6.5%), while passenger cars fell 12.8%, though they also remained the most imported product. Imports rose most from China (22.3%), Russia (26.5%), and Turkey (5%). The country’s trade deficit for the January-July period narrowed to USD 6,178.9 million from USD 6,756.4 million last year.
+
+---
+
+### 2026-08-19 15:35:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+Bank Indonesia governor said the Federal Reserve may keep interest rates higher for longer.
+
+---
+
+### 2026-08-19 15:35:08  #央行 #國際
+
+印尼央行行長：美國利率可能在高位維持更久。
+
+---
+
+### 2026-08-19 15:34:52  #國際
+
+【外交部亞洲司司長沈敏娟出席中國—東盟中心秘書長到離任招待會】2026年8月18日，外交部亞洲司司長沈敏娟應邀出席中國—東盟中心為新任秘書長張利忠、前任秘書長史忠俊舉辦的到離任招待會。沈敏娟表示，在雙方領導人共同關心和戰略引領下，中國東盟合作始終走在地區合作前列，合作成果可感可及，惠及各國民生。中方願同東盟一道建設好和平、安寧、繁榮、美麗、友好的共同家園，推動構建更為緊密的中國—東盟命運共同體，為地區發展和全球治理貢獻“正能量”。期待中心為中國東盟關係發展發揮更大作用。越南駐華大使範清平代表東盟致辭，高度評價中心工作，期待以東盟和中國建立全面戰略伙伴關係5週年為契機，進一步深化互利合作，共創美好未來。
+
+---
+
+### 2026-08-19 15:34:52  #MKT News #Market Regions #Greater China #CNH #Impact bullish #DXY #Impact bearish #S&P500
+
+【Foreign Ministry: International adherence to One-China principle unshakeable】China's Foreign Ministry spokesperson Lin Jian said at a routine briefing on Aug. 19 that the international consensus to uphold the One-China principle is unshakeable. Lin said Beijing expressed appreciation for Malaysian Prime Minister Anwar's recent remark that Taiwan is part of China.
+
+---
+
+### 2026-08-19 15:34:46  #MKT News #Market Regions #Emerging Markets #XAUUSD #Impact bullish #DXY
+
+Bank Indonesia governor said global uncertainty is expected to persist for an extended period.
+
+---
+
+### 2026-08-19 15:34:41  #央行 #國際
+
+印度尼西亞央行行長：全球不確定性預計將長期持續。
+
+---
+
+### 2026-08-19 15:34:27  #其他
+
+【皇崗口岸今日進行實戰演練】據深圳市人民政府口岸辦公室通報，2026年8月19日（週三）15時至17時30分，深圳市口岸辦在皇崗口岸聯檢大樓北下沉廣場開展防汛應急演練。 其間，皇崗口岸聯檢大樓內部積水、雨水倒灌、人員搶修、沙袋封堵、抽排積水等均為實戰演練場景，並非真實險情。請廣大市民不要恐慌，不要信謠、傳謠和造謠。 給大家帶來不便之處敬請諒解，感謝您的支援和配合。（大灣區之聲）
+
+---
+
+### 2026-08-19 15:34:22  #MKT News #Market Regions #Greater China #06683.HK
+
+Juxing Chuanqi (06683.HK) fell more than 20% at the close, after rising 34.88% yesterday.
+
+---
+
+### 2026-08-19 15:34:18  #市場
+
+巨星傳奇(06683.HK)尾盤跌超20%，昨日收漲34.88%。
+
+---
+
+### 2026-08-19 15:33:54  #MKT News
+
+【Foreign Ministry: China, Indonesia to follow leaders' strategic guidance to hold two mechanism meetings】On Aug. 19 China's Foreign Ministry said that during Wang Yi's upcoming visit to Indonesia the sides will hold two mechanism meetings, including a 2+2 meeting where Foreign Minister Wang and Defense Minister Dong Jun will conduct in‑depth exchanges with Indonesian counterparts on political-security and defense cooperation and on regional and international developments. China said it will coordinate development and security cooperation with Indonesia and accelerate building a China-Indonesia community with regional and global influence.
 
 ---
 
@@ -18629,77 +18713,5 @@ China A-shares domestic operating-system sector briefly rallied; Chengmai Techno
 ### 2026-08-18 13:53:22  #公司 #市場
 
 【9只糧食ETF全線大漲】全市場跟蹤國證糧食指數的9只糧食ETF集體漲超5%，該指數前十大權重股分別為隆平高科、北大荒、諾普信、亞盛集團、神農種業、海大集團、農發種業、藏格礦業、蘇墾農發、雲天化。根據持倉股所屬申萬三級行業測算，國證糧食指數中分佈佔比前三的行業分別為：鉀肥行業佔比29.53%、磷肥及磷化工佔比13.30%、糧油加工佔比11.83%。
-
----
-
-### 2026-08-18 13:52:37  #其他
-
-【水利部：全國40條河流仍維持超警】從水利部瞭解到，截至今天9時，黑龍江、內蒙古、河南、浙江等地40條河流仍維持超警，最大超警幅度2.37米，其中7條河流維持超保。據預報，8月18日至19日，受降雨及上游來水影響，黑龍江上游幹流洛古河至呼瑪江段將全線超警，太湖、黑龍江干流撫遠以下江段、淮河支流沙潁河維持超警，長江上游支流岷江及沱江、海南昌化江及南渡江等主要河流將出現明顯漲水過程。暴雨區內部分中小河流可能發生超警洪水。水利部維持洪水黃色預警，提醒暴雨洪水影響地區社會公眾注意防範。
-
----
-
-### 2026-08-18 13:52:23  #市場 #焦點
-
-南向資金淨買入額達90億港元。
-
----
-
-### 2026-08-18 13:52:10  #市場
-
-【國產作業系統板塊短線拉昇，誠邁科技漲超9%】國產作業系統板塊短線拉昇，誠邁科技漲超9%，中國軟體漲超5%，飛天誠信、神思電子、傳音控股跟漲。
-
----
-
-### 2026-08-18 13:51:47  #其他
-
-日經225指數跌幅進一步擴大；最新報67632.66點，跌幅2.3%。
-
----
-
-### 2026-08-18 13:51:17  #公司
-
-虛擬軟體公司Virtualware簽署協議收購英國企業Virtalis。
-
----
-
-### 2026-08-18 13:50:09  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Interfax reported the Caspian Pipeline Consortium transported 33.35 mln tonnes of crude oil in 1H 2026, down from 36.024 mln tonnes in 1H 2025.
-
----
-
-### 2026-08-18 13:50:06  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100
-
-UK three-month ILO unemployment rate for June and July claimant count and unemployment rate due in 10 minutes.
-
----
-
-### 2026-08-18 13:49:08  #國際
-
-馬來西亞總理稱正考慮消費稅改革。
-
----
-
-### 2026-08-18 13:47:44  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX Ends 1.1% Higher as Consumer Stocks Rebound — New Zealand's stocks rose 144 points, or 1.1%, to close at 13,866 on Tuesday, rebounding from losses in the previous session, mainly buoyed by gains in consumer staples, consumer discretionary, and real estate. The broader index moved up from its lowest level since July 21, touched a day earlier amid a plunge in consumer staples. Traders engaged in bargain hunting, with consumer staples rebounding sharply, surging 6.8% after plunging in the previous session. However, a downbeat session on Wall Street overnight due to escalating Middle East tensions and rising Treasury yields capped gains. A2 Milk jumped 10.1%, recovering sharply from a 5.7% plunge on Monday after the company reported a 44% plunge in net profit for the 12 months ended June. Other top movers were Hallenstein Glasson (5.4%), EBOS Group (2.3%), Vulcan Steel (1.8%), and Mainfreight (0.9%). Meanwhile, Mercury NZ rose 2.6% after Mercury Energy posted a jump in operating earnings for the 12 months ended June.
-
----
-
-### 2026-08-18 13:46:30  #公司 #觀點 #國際
-
-【英偉達到處給人“兜底融資”？“新債王”岡拉克：預示市場或見頂隨著英偉達與華爾街聯手到處給人“兜底”融資，被業內譽為“新債王”的雙線資本（DoubleLine Capital）執行長岡拉克（Jeffrey Gundlach）最新警告稱，華爾街試圖將人工智慧晶片變成可投資資產類別，這可能預示著市場即將見頂。 岡拉克抨擊了英偉達新近宣佈的與六家金融巨頭的合作關係，這些合作旨在為人工智慧基礎設施籌集超過5000億美元的資金。英偉達將在其中扮演合作牽頭方，而非出資方的角色。實際上就是利用其自身較高的信用評級，幫助控制客戶的融資成本。
-
----
-
-### 2026-08-18 13:45:15  #國際
-
-【特朗普稱吞併霍爾木茲海峽主意不錯】美國東部時間8月17日下午，美國總統特朗普在白宮回答媒體提問時表示，“宣佈霍爾木茲海峽為美國領土這主意不錯。”他強調，美國正透過封鎖“完全控制”著霍爾木茲海峽。上週，特朗普曾公開稱，待徹底將伊朗擊敗後，他很快將宣佈霍爾木茲海峽為美國領土。在回答有關美伊談判進展的提問時，特朗普稱，“伊朗想要達成協議，但不會達成我認為必要的那種協議。”他沒有透露談判進展情況，只是強調“伊朗不能擁有核武器”。當被問及美國是否打算延長與伊朗達成的諒解備忘錄時，特朗普給出了否定的回答。8月17日，美伊諒解備忘錄所設定的60天談判視窗期到期。雙方6月中旬簽署這一備忘錄，承諾在60天內進行談判以達成最終協議。在被問及其有關“阿曼如果阻礙霍爾木茲海峽開放將遭美軍轟炸”的言論時，特朗普說，他認為阿曼的“表現不太好”，但“我們會很輕鬆地擺平”。（CCTV國際時訊）
-
----
-
-### 2026-08-18 13:45:07  #公司
-
-【中國中煤在廣西成立電力銷售新公司】企查查APP顯示，近日，中煤（廣西）電力銷售有限公司成立，經營範圍包含：風力發電技術服務；碳減排、碳轉化、碳捕捉、碳封存技術研發；大資料服務；網際網路資料服務等。企查查股權穿透顯示，該公司由中國中煤能源集團有限公司間接全資持股。
 
 ---
