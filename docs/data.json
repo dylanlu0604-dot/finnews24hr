@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-26 01:17:21",
-  "count": 16511,
+  "updated": "2026-08-26 01:25:08",
+  "count": 16510,
   "items": [
+    {
+      "id": "5058408",
+      "time": "2026-08-26 01:23:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國調查人員發現萊比錫機場事件第三架涉事無人機】據多家德國媒體25日報道，政府部門在調查本月初發生的萊比錫機場無人機爆炸物事件時，發現了第三架無人機及軍用級炸藥。 據西德意志廣播電臺等媒體報道，此前未被披露的第三架無人機在萊比錫機場西部的一處田地裡被發現。調查人員認為，襲擊策劃者在此次事件中動用了多架無人機。（新華社）"
+    },
+    {
+      "id": "mkt:01a039f0-7868-7aab-9117-e4417c33db01",
+      "time": "2026-08-26 01:20:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Texas wildfire spreads over 200 sq km; rural residents evacuated】A wildfire in rural Texas expanded to more than 200 sq km, and local emergency management ordered residents to evacuate on Aug. 25 local time. The fire began the afternoon of Aug. 24 and has swept across north-central Texas. Persistent extreme dryness has driven increased wildfire activity across the southern and western US; the National Interagency Fire Center reported more than a dozen new large fires on Aug. 23 and said the US has recorded over 50,000 wildfires so far this year, the most for this period in a decade."
+    },
+    {
+      "id": "5058407",
+      "time": "2026-08-26 01:19:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國得州野火蔓延超200平方公里 農村地區居民被疏散】當地時間8月25日，美國得克薩斯州農村地區野火規模不斷擴大，所在地政府應急管理部門當日下令疏散居民。據悉，大火始於24日下午早些時候，已席捲得克薩斯州中北部超200平方公里的區域。最近幾天，由於極端乾燥的天氣持續存在，美國南部和西部地區不斷髮生野火。美國國家跨部門消防中心表示，僅23日就報告了十幾起新的大火。該中心稱，今年以來，美國全國範圍內已發生超過5萬起山火，是過去10年來同期發生次數最多的一次。"
+    },
+    {
+      "id": "mkt:01a039ed-26cd-7aab-9117-dacfce3ecf2c",
+      "time": "2026-08-26 01:17:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $405 million from six counterparties in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "mkt:01a039ec-fdd0-7aab-9117-d4fd3d409252",
+      "time": "2026-08-26 01:17:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Strait of Hormuz main shipping lane reopened after U.S. clears suspected mines, U.S. says】The U.S. Navy said it has cleared the Strait of Hormuz main Traffic Separation Scheme (TSS) between Iran and Oman, reopening two-way traffic and allowing more tankers to transit. U.S. underwater drones detected more than 100 suspected mines; U.S. forces and private contractors cleared or detonated them. Over the past 30 days more than 500 vessels transited the southern channel, with roughly 2% struck by Iranian drones or missiles. U.S. officials say ships can now transit under U.S. protection, increasing potential oil flows to global markets; Trump warned any vessel that re-mines will be immediately and systematically destroyed."
+    },
     {
       "id": "5058406",
       "time": "2026-08-26 01:16:18",
@@ -149279,65 +149326,6 @@
         "XAUUSD"
       ],
       "text": "UK Maritime Trade Operations said an unmanned cargo vessel was struck by multiple rounds of unknown ordnance and sustained damage."
-    },
-    {
-      "id": "5046392",
-      "time": "2026-08-19 01:24:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易行動辦公室稱，一艘無人貨船遭多枚不明拋射物擊中，船體受損。"
-    },
-    {
-      "id": "5046391",
-      "time": "2026-08-19 01:23:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易行動辦公室稱，收到一則事件報告，事發地點位於葉門穆哈港東南 40 海里處。"
-    },
-    {
-      "id": "mkt:01a015e6-3e46-7aab-907f-b78e131d7382",
-      "time": "2026-08-19 01:23:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Canadian Oil Sands Alliance chair says Canadian oil sands companies plan to take a final investment decision on the Pathways carbon-capture project by the end of next year."
-    },
-    {
-      "id": "em:qqyh_mlc:202608193844954554",
-      "time": "2026-08-19 01:20:37",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。"
-    },
-    {
-      "id": "mkt:01a015e1-bf8b-7aab-907f-aa8b1eb2a199",
-      "time": "2026-08-19 01:18:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【UAE, US leaders discuss regional security as US‑Iran talks stall】UAE President Mohammed bin Zayed spoke by phone with US President Trump on the 18th to discuss bilateral cooperation and the regional situation. The US‑Iran conflict remains ongoing; a two‑month window for peace talks recently ended with no progress, and the US says Iran refused to make concessions in indirect negotiations. On the 17th, Mohammed met Oman’s Sultan Haitham in Abu Dhabi to discuss regional security and deepen economic cooperation; both sides agreed to continue cooperating on shared regional challenges and to strengthen their partnership for security and stability."
-    },
-    {
-      "id": "5046390",
-      "time": "2026-08-19 01:17:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（8月18日），美聯儲隔夜逆回購協議（RRP）使用規模為1.55億美元（交易對手6家），上個交易日報25.50億美元。"
     }
   ]
 }
