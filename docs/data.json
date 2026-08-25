@@ -1,7 +1,183 @@
 {
-  "updated": "2026-08-25 22:55:10",
-  "count": 16504,
+  "updated": "2026-08-25 23:05:19",
+  "count": 16494,
   "items": [
+    {
+      "id": "mkt:01a03973-7241-7aab-9115-e1380ff7f4d1",
+      "time": "2026-08-25 23:04:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA: Cognex, Doosan Bobcat and U.S. Silicon Valley home-cleaning robot startup Matic will adopt the Jetson Orin Nano 2."
+    },
+    {
+      "id": "mkt:01a03973-6dfd-7aab-9115-df45d412e9ab",
+      "time": "2026-08-25 23:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's 2026 box office tops 27.5 bln yuan】According to online platform data, China's 2026 box office (including presales) has topped 27.5 bln yuan. The summer window (including presales) exceeded 11.7 bln yuan, recording 46 consecutive days with daily box office above 100 mln yuan; ticketed admissions and screenings both hit record highs."
+    },
+    {
+      "id": "5058323",
+      "time": "2026-08-25 23:03:54",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【加拿大對200億美元美國商品徵收至多50%關稅】加拿大計劃自9月8日起，對價值約200億美元的美國商品徵收15%‑50%的關稅，升級與美國政府的貿易爭端。徵稅物件包括鋼鐵、鋁、摩托車、家電及食品，金屬類商品關稅翻倍至50%。渥太華方面同時宣佈，將向受衝擊企業與勞工提供75億加元扶持資金。此次報復性徵稅，源於貿易談判破裂後美國對加拿大進口商品新開徵50%關稅。"
+    },
+    {
+      "id": "5058322",
+      "time": "2026-08-25 23:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗第一副總統：我們在霍爾木茲海峽的控制權是行使我們對國家財富的合法主權權利。"
+    },
+    {
+      "id": "mkt:01a03972-11e3-7aab-9115-d6b78e2f8cb5",
+      "time": "2026-08-25 23:02:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada unveils a C$7.5 bln plan to support businesses and workers affected by tariffs."
+    },
+    {
+      "id": "5058321",
+      "time": "2026-08-25 23:02:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：Jetson Orin Nano 2模組與開發套件預計2027年上半年推出。"
+    },
+    {
+      "id": "5058320",
+      "time": "2026-08-25 23:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大政府表示將推出一項75億加元的一攬子支援計劃，幫扶受美國新關稅衝擊的企業與工人。"
+    },
+    {
+      "id": "mkt:01a03971-57c6-7aab-9115-c98d919fc52f",
+      "time": "2026-08-25 23:02:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): Jetson Orin Nano 2 module and kit expected to launch in 1H 2027."
+    },
+    {
+      "id": "mkt:01a03970-9a64-7aab-9115-c5422e94ddd9",
+      "time": "2026-08-25 23:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Canada will impose tariffs of 15%–50% on roughly $20 billion of U.S. goods. Canada will raise tariffs on U.S. steel products from 25% to 50%."
+    },
+    {
+      "id": "mkt:01a0396f-c32c-7aab-9115-ba1e3a00565b",
+      "time": "2026-08-25 23:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "By 23:00 local close, China’s domestic futures main contracts were broadly lower: low-sulfur fuel oil (LU) and fuel oil down >5%, synthetic rubber down >4%, ethylene glycol (EG) down ~4%, paraxylene down ~3%, PTA, coke and styrene (EB) down >2%; rapeseed meal up >1%."
+    },
+    {
+      "id": "5058319",
+      "time": "2026-08-25 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續跌5.33%，燃料油連續跌5.01%，乙二醇連續跌3.93%，PTA連續跌2.53%，焦炭連續跌2.24%。"
+    },
+    {
+      "id": "te:markets:578006",
+      "time": "2026-08-25 23:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Appreciates by 0.49% — Top currency gainers are Indian Rupee (0.49%) and Swedish Krona (0.26%). Biggest loser is Japanese Yen (-0.10%). Meanwhile, Euro, Dollar Index and British Pound were little changed."
+    },
+    {
+      "id": "5058318",
+      "time": "2026-08-25 23:00:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "加拿大將美國鋼鐵產品關稅從25%翻倍上調至50%。"
+    },
+    {
+      "id": "5058317",
+      "time": "2026-08-25 22:59:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "加拿大對約200億美元美國產品加徵15%‑50%關稅。"
+    },
+    {
+      "id": "5058316",
+      "time": "2026-08-25 22:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄媒稱扎波羅熱核電站工作人員因烏無人機襲擊受傷】據俄羅斯媒體25日報道，烏克蘭無人機襲擊導致扎波羅熱核電站兩名工作人員受傷。今日俄羅斯通訊社援引扎波羅熱核電站新聞處訊息報道，烏方此次襲擊發生在核電站水工建築物附近，當時維修建設車間的員工正在作業。該訊息沒有說明襲擊發生的具體時間。報道說，烏方襲擊目標為負責保障核電站執行的工作人員。兩名傷者均已被送醫，其中一人傷勢嚴重。（新華社）"
+    },
+    {
+      "id": "5058315",
+      "time": "2026-08-25 22:55:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑋俊生物科技：訂立300兆瓦AI資料中心戰略合作諒解備忘錄】瑋俊生物科技公告，二零二六年八月二十五日，公司與PACDB、Baiyuzen、Ennova及Radiant訂立戰略合作諒解備忘錄，擬在馬來西亞彭亨州航空城開發綜合AI數字基建生態系統專案，整體規劃用地面積超1200英畝，第一期約253.74英畝、PACIT負載規模300兆瓦。公司將參與技術交付、資本運作及RWA代幣化等。"
+    },
+    {
+      "id": "mkt:01a0396b-01d4-7aab-9115-b72aa5091bfc",
+      "time": "2026-08-25 22:55:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ukraine strikes disrupt Russian oil flows; crude exports fall to 3.46 mln bpd】Ukraine's dual attacks on Russian refineries and Black Sea ports are disrupting domestic fuel supplies and preventing Moscow from redirecting crude into exports. Tanker shipping data show Russian seaborne crude exports averaged 3.46 mln barrels per day in the four weeks to Aug. 23. Exports had earlier risen after Ukrainian strikes curtailed domestic refining, leaving more crude available for export, but that increase is now fading as drone attacks on tankers have cut Black Sea loadings."
+    },
+    {
+      "id": "5058314",
+      "time": "2026-08-25 22:54:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古四地啟動突發地質災害四級應急響應】據氣象部門預報，受颱風和西南季風影響，8月25日至27日，內蒙古西部地區有中到大雨，局地暴雨到大暴雨。結合內蒙古自治區地質災害氣象風險預測，呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市的部分地區發生地質災害的風險高。根據《內蒙古自治區突發地質災害應急預案（2024 年版）》及有關規定，內蒙古自治區應急管理廳於8月25日針對呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市啟動自治區突發地質災害四級應急響應。（央視新聞）"
+    },
     {
       "id": "5058313",
       "time": "2026-08-25 22:53:32",
@@ -148973,266 +149149,6 @@
         "公司"
       ],
       "text": "淡水河谷CEO：淡水河谷聚焦大宗核心商品業務。稀土市場規模仍然較小，屬於小眾領域。"
-    },
-    {
-      "id": "5046313",
-      "time": "2026-08-18 23:05:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋：遭遇導彈威脅後目前局勢安全。"
-    },
-    {
-      "id": "mkt:01a01567-80a3-7aab-907d-f4fbeb69cb37",
-      "time": "2026-08-18 23:04:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE said the situation is secure after issuing a missile threat."
-    },
-    {
-      "id": "mkt:01a01567-0caa-7aab-907d-ea0d788ed4bf",
-      "time": "2026-08-18 23:04:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon (AMZN.O) plans to expand its Louisiana data center investment to $18.0 billion from $12.0 billion by building a third data-center campus."
-    },
-    {
-      "id": "5046312",
-      "time": "2026-08-18 23:04:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "淡水河谷CEO：淡水河谷在鎳業務方面具有巨大優勢。淡水河谷正在研究其他商品，比如鋰。"
-    },
-    {
-      "id": "mkt:01a01566-d51d-7aab-907d-e4c77d8e4d0e",
-      "time": "2026-08-18 23:04:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "VALE.N",
-        "Impact bullish"
-      ],
-      "text": "Vale (VALE.N) CEO said the company has significant advantages in its nickel business and is exploring other commodities, including lithium."
-    },
-    {
-      "id": "5046311",
-      "time": "2026-08-18 23:04:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：計劃將路易斯安那州資料中心投資由 120 億美元增至 180 億美元，新建第三個資料中心園區。"
-    },
-    {
-      "id": "5046310",
-      "time": "2026-08-18 23:03:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國防部18日在社交媒體上發文稱，阿聯酋防空系統監測到導彈威脅。阿聯酋內政部當晚釋出提醒說，鑑於當前局勢及潛在導彈威脅，民眾應立即前往最近的安全建築物內避險，並等待進一步指示。（新華社）"
-    },
-    {
-      "id": "5046309",
-      "time": "2026-08-18 23:02:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股晶片半導體板塊持續走低 費城半導體指數跌6%】費城半導體指數跌6%，報11864.18點。成分股中，英偉達股價下跌2.71%，臺積電股價下跌4.13%，博通股價下跌3.52%，SK海力士股價下跌8.11%，美光科技股價下跌7.47%，超威半導體股價下跌5.76%，阿斯麥股價下跌5.3%，英特爾股價下跌7.34%，泛林集團股價下跌7.07%，ARM股價下跌7.93%，閃迪股價下跌9.29%。"
-    },
-    {
-      "id": "mkt:01a01565-0d91-7aab-907d-dd50be9d4490",
-      "time": "2026-08-18 23:02:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Colombia's statistics bureau reported the economy grew 3.5% YoY in Q2 2026."
-    },
-    {
-      "id": "mkt:01a01563-cb63-7aab-907d-d33f30d749cf",
-      "time": "2026-08-18 23:00:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "As of the 23:00 close, China's domestic most-active futures were mixed: fuel oil led gains, up over 3%; low-sulfur fuel oil (LU), coke and coking coal rose over 2%; corn and starch were up around 2%. Decliners included soda ash, down more than 1%, and ethylene glycol (EG) and PTA, each down about 1%."
-    },
-    {
-      "id": "mkt:01a01563-7e0b-7aab-907d-ce31d657f5cc",
-      "time": "2026-08-18 23:00:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "France's budget minister said the government will not adopt OpenAI."
-    },
-    {
-      "id": "te:markets:576194",
-      "time": "2026-08-18 23:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Depreciates by 0.36% — Top currency losers are New Zealand Dollar (-0.36%), Polish Zloty (-0.25%) and Japanese Yen (-0.07%). Gains are led by South Korean Won (0.31%). Meanwhile, Dollar Index, Euro and British Pound were little changed."
-    },
-    {
-      "id": "5046308",
-      "time": "2026-08-18 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】低硫燃料油連續漲2.52%，焦炭連續漲2.42%，燃料油連續漲2.38%，焦煤連續漲2.22%，玉米連續漲1.85%。"
-    },
-    {
-      "id": "mkt:01a01562-d252-7aab-907d-c779359f2f3e",
-      "time": "2026-08-18 22:59:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slid $20 intraday, down more than 1%, breaking below $4,370/oz."
-    },
-    {
-      "id": "5046307",
-      "time": "2026-08-18 22:59:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國第24批赴黎維和部隊向當地機構捐贈人道主義物資】當地時間8月18日，中國第24批赴黎維和部隊在黎巴嫩南部提爾地區開展人道主義物資捐贈活動，向提爾藝術協會和提爾市政聯盟移交共計1600餘件援助物資。捐贈物資涵蓋主副食品、生活用品、學習用品三大類。面向提爾藝術協會，重點提供糧油、速食、飲品等生活物資；面向提爾市政聯盟，配套捐贈餅乾糖果、書包文具、清潔護理用品及驅蚊保暖等便民物資。維和官兵分工協作，有序完成解除安裝、清點、登記和交接工作。（央視新聞）"
-    },
-    {
-      "id": "5046306",
-      "time": "2026-08-18 22:59:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4420美元/盎司，日內跌1.20%。"
-    },
-    {
-      "id": "5046305",
-      "time": "2026-08-18 22:59:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4370美元/盎司，日內跌1.13%。"
-    },
-    {
-      "id": "5046304",
-      "time": "2026-08-18 22:59:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報64.23美元/盎司。"
-    },
-    {
-      "id": "5046303",
-      "time": "2026-08-18 22:58:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4370.93美元/盎司。"
-    },
-    {
-      "id": "5046302",
-      "time": "2026-08-18 22:58:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋稱防空系統探測到導彈威脅。"
-    },
-    {
-      "id": "5046301",
-      "time": "2026-08-18 22:58:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國預算部長：政府將採用主權人工智慧，例如Mistral。"
-    },
-    {
-      "id": "mkt:01a01561-945a-7aab-907d-be769d1877bc",
-      "time": "2026-08-18 22:58:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "UAE defense ministry said UAE air defenses detected a missile threat."
-    },
-    {
-      "id": "mkt:01a01560-9c35-7aab-907d-b436ff1aa122",
-      "time": "2026-08-18 22:57:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Market news: Dubai residents received missile threat alerts from UAE authorities."
-    },
-    {
-      "id": "5046300",
-      "time": "2026-08-18 22:56:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【味千（中國）：預計上半年公司擁有人應占溢利不超2000萬元】味千（中國）8月18日公告，預計上半年將錄得公司擁有人應占溢利不超過2000萬元，上年同期公司擁有人應占溢利約人民幣2420萬元。董事會認為，該等溢利減少主要是由於其他經營開支增加及租金收入減少。"
-    },
-    {
-      "id": "5046299",
-      "time": "2026-08-18 22:56:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美銀認為英偉達因AI風險折價高達50%】美國銀行表示，由於投資者誇大了與這家AI晶片龍頭相關的風險，英偉達的股價折價幅度可能高達50%。該行的分析顯示，即便考慮了融資風險，該股票仍有34%至50%的折價，這一折價”可能誇大了風險，並創造了一個極具吸引力的機會”。美銀對該股給出”買入”評級，目標價為350美元，並建議英偉達可透過將更大比例的自由現金流用於股票回購，來緩解市場對盈利質量下降的擔憂。"
-    },
-    {
-      "id": "5046298",
-      "time": "2026-08-18 22:56:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：迪拜居民收到阿聯酋導彈威脅警報。"
-    },
-    {
-      "id": "5046297",
-      "time": "2026-08-18 22:55:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國預算部長：政府不會僱傭OpenAI。"
-    },
-    {
-      "id": "5046296",
-      "time": "2026-08-18 22:55:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄外交部：美方言論助長日本復仇主義和修正主義】俄羅斯外交部18日就美國駐日本大使格拉斯涉南千島群島（日本稱北方四島）相關言論接受新華社記者書面採訪時表示，美方言論毫無新意，只會助長日本的復仇主義和修正主義。（新華社）"
     }
   ]
 }

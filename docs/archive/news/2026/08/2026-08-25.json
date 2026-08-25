@@ -1,7 +1,183 @@
 {
   "date": "2026-08-25",
-  "count": 3252,
+  "count": 3270,
   "items": [
+    {
+      "id": "mkt:01a03973-7241-7aab-9115-e1380ff7f4d1",
+      "time": "2026-08-25 23:04:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NVIDIA: Cognex, Doosan Bobcat and U.S. Silicon Valley home-cleaning robot startup Matic will adopt the Jetson Orin Nano 2."
+    },
+    {
+      "id": "mkt:01a03973-6dfd-7aab-9115-df45d412e9ab",
+      "time": "2026-08-25 23:04:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's 2026 box office tops 27.5 bln yuan】According to online platform data, China's 2026 box office (including presales) has topped 27.5 bln yuan. The summer window (including presales) exceeded 11.7 bln yuan, recording 46 consecutive days with daily box office above 100 mln yuan; ticketed admissions and screenings both hit record highs."
+    },
+    {
+      "id": "5058323",
+      "time": "2026-08-25 23:03:54",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【加拿大對200億美元美國商品徵收至多50%關稅】加拿大計劃自9月8日起，對價值約200億美元的美國商品徵收15%‑50%的關稅，升級與美國政府的貿易爭端。徵稅物件包括鋼鐵、鋁、摩托車、家電及食品，金屬類商品關稅翻倍至50%。渥太華方面同時宣佈，將向受衝擊企業與勞工提供75億加元扶持資金。此次報復性徵稅，源於貿易談判破裂後美國對加拿大進口商品新開徵50%關稅。"
+    },
+    {
+      "id": "5058322",
+      "time": "2026-08-25 23:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗第一副總統：我們在霍爾木茲海峽的控制權是行使我們對國家財富的合法主權權利。"
+    },
+    {
+      "id": "mkt:01a03972-11e3-7aab-9115-d6b78e2f8cb5",
+      "time": "2026-08-25 23:02:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada unveils a C$7.5 bln plan to support businesses and workers affected by tariffs."
+    },
+    {
+      "id": "5058321",
+      "time": "2026-08-25 23:02:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：Jetson Orin Nano 2模組與開發套件預計2027年上半年推出。"
+    },
+    {
+      "id": "5058320",
+      "time": "2026-08-25 23:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大政府表示將推出一項75億加元的一攬子支援計劃，幫扶受美國新關稅衝擊的企業與工人。"
+    },
+    {
+      "id": "mkt:01a03971-57c6-7aab-9115-c98d919fc52f",
+      "time": "2026-08-25 23:02:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): Jetson Orin Nano 2 module and kit expected to launch in 1H 2027."
+    },
+    {
+      "id": "mkt:01a03970-9a64-7aab-9115-c5422e94ddd9",
+      "time": "2026-08-25 23:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Canada will impose tariffs of 15%–50% on roughly $20 billion of U.S. goods. Canada will raise tariffs on U.S. steel products from 25% to 50%."
+    },
+    {
+      "id": "mkt:01a0396f-c32c-7aab-9115-ba1e3a00565b",
+      "time": "2026-08-25 23:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "By 23:00 local close, China’s domestic futures main contracts were broadly lower: low-sulfur fuel oil (LU) and fuel oil down >5%, synthetic rubber down >4%, ethylene glycol (EG) down ~4%, paraxylene down ~3%, PTA, coke and styrene (EB) down >2%; rapeseed meal up >1%."
+    },
+    {
+      "id": "te:markets:578006",
+      "time": "2026-08-25 23:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Appreciates by 0.49% — Top currency gainers are Indian Rupee (0.49%) and Swedish Krona (0.26%). Biggest loser is Japanese Yen (-0.10%). Meanwhile, Euro, Dollar Index and British Pound were little changed."
+    },
+    {
+      "id": "5058319",
+      "time": "2026-08-25 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續跌5.33%，燃料油連續跌5.01%，乙二醇連續跌3.93%，PTA連續跌2.53%，焦炭連續跌2.24%。"
+    },
+    {
+      "id": "5058318",
+      "time": "2026-08-25 23:00:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "加拿大將美國鋼鐵產品關稅從25%翻倍上調至50%。"
+    },
+    {
+      "id": "5058317",
+      "time": "2026-08-25 22:59:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "加拿大對約200億美元美國產品加徵15%‑50%關稅。"
+    },
+    {
+      "id": "5058316",
+      "time": "2026-08-25 22:57:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄媒稱扎波羅熱核電站工作人員因烏無人機襲擊受傷】據俄羅斯媒體25日報道，烏克蘭無人機襲擊導致扎波羅熱核電站兩名工作人員受傷。今日俄羅斯通訊社援引扎波羅熱核電站新聞處訊息報道，烏方此次襲擊發生在核電站水工建築物附近，當時維修建設車間的員工正在作業。該訊息沒有說明襲擊發生的具體時間。報道說，烏方襲擊目標為負責保障核電站執行的工作人員。兩名傷者均已被送醫，其中一人傷勢嚴重。（新華社）"
+    },
+    {
+      "id": "5058315",
+      "time": "2026-08-25 22:55:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑋俊生物科技：訂立300兆瓦AI資料中心戰略合作諒解備忘錄】瑋俊生物科技公告，二零二六年八月二十五日，公司與PACDB、Baiyuzen、Ennova及Radiant訂立戰略合作諒解備忘錄，擬在馬來西亞彭亨州航空城開發綜合AI數字基建生態系統專案，整體規劃用地面積超1200英畝，第一期約253.74英畝、PACIT負載規模300兆瓦。公司將參與技術交付、資本運作及RWA代幣化等。"
+    },
+    {
+      "id": "mkt:01a0396b-01d4-7aab-9115-b72aa5091bfc",
+      "time": "2026-08-25 22:55:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ukraine strikes disrupt Russian oil flows; crude exports fall to 3.46 mln bpd】Ukraine's dual attacks on Russian refineries and Black Sea ports are disrupting domestic fuel supplies and preventing Moscow from redirecting crude into exports. Tanker shipping data show Russian seaborne crude exports averaged 3.46 mln barrels per day in the four weeks to Aug. 23. Exports had earlier risen after Ukrainian strikes curtailed domestic refining, leaving more crude available for export, but that increase is now fading as drone attacks on tankers have cut Black Sea loadings."
+    },
+    {
+      "id": "5058314",
+      "time": "2026-08-25 22:54:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古四地啟動突發地質災害四級應急響應】據氣象部門預報，受颱風和西南季風影響，8月25日至27日，內蒙古西部地區有中到大雨，局地暴雨到大暴雨。結合內蒙古自治區地質災害氣象風險預測，呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市的部分地區發生地質災害的風險高。根據《內蒙古自治區突發地質災害應急預案（2024 年版）》及有關規定，內蒙古自治區應急管理廳於8月25日針對呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市啟動自治區突發地質災害四級應急響應。（央視新聞）"
+    },
     {
       "id": "5058313",
       "time": "2026-08-25 22:53:32",
