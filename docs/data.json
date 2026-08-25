@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-25 21:49:16",
-  "count": 16505,
+  "updated": "2026-08-25 21:53:42",
+  "count": 16507,
   "items": [
+    {
+      "id": "5058247",
+      "time": "2026-08-25 21:52:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥主要股指跌1%。"
+    },
+    {
+      "id": "mkt:01a03931-a90a-7aab-9114-1cdf40706a43",
+      "time": "2026-08-25 21:52:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexican benchmark stock index fell 1%."
+    },
+    {
+      "id": "5058246",
+      "time": "2026-08-25 21:52:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（8月24日）擔保隔夜融資利率（SOFR）報3.65%，之前一天報3.65%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5058245",
+      "time": "2026-08-25 21:51:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "Eudia公佈與谷歌達成Gemini法律企業版合作協議。"
+    },
+    {
+      "id": "mkt:01a03930-623b-7aab-9114-12ec058f5823",
+      "time": "2026-08-25 21:51:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's prime minister Carney said our goal has always been to secure the best deal for Canadians, not to accept a deal at any cost or to meet any deadline."
+    },
+    {
+      "id": "mkt:01a03930-398b-7aab-9114-0d53d442def0",
+      "time": "2026-08-25 21:50:56",
+      "tags": [
+        "MKT News",
+        "MRNA.O"
+      ],
+      "text": "Moderna (MRNA.O) shares rose more than 10%."
+    },
+    {
+      "id": "5058244",
+      "time": "2026-08-25 21:50:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出地質災害橙色預警 5市啟動省級防汛四級應急響應】山西省自然資源廳和山西省氣象局聯合釋出地質災害氣象風險預警，預計8月25日20時至8月26日20時，忻州市岢嵐縣、河曲縣、保德縣、偏關縣、呂梁市興縣部分割槽域地質災害氣象風險預警級別為二級（橙色預警），降雨致地質災害風險升高。太原市小店區、陽曲縣、婁煩縣、迎澤區、大同市廣靈縣、靈丘縣、渾源縣、天鎮縣、陽高縣、雲州區、陽泉市城區、礦區、郊區、平定縣、盂縣、朔州市朔城區、平魯區、山陰縣、應縣、右玉縣、懷仁市、晉中市榆次區、壽陽縣、忻州市忻府區、定襄縣、五臺縣、代縣、繁峙縣、寧武縣、靜樂縣、神池縣、五寨縣、五臺山風景名勝區、原平市、呂梁市臨縣、嵐縣、方山縣部分割槽域地質災害氣象風險預警級別為三級（黃色預警），發生地質災害的風險較高。上述地區政府、部門和群眾應根據預警等級採取相應的防範措施，加強雨前排查、雨中巡查、雨後核查。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a0392f-6e03-7aab-9114-0375fb63ed6c",
+      "time": "2026-08-25 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US July new‑home sales (annualized), August Conference Board consumer confidence and the Richmond Fed manufacturing index are due in 10 minutes."
+    },
     {
       "id": "5058243",
       "time": "2026-08-25 21:48:09",
@@ -149086,66 +149155,6 @@
         "其他"
       ],
       "text": "美銀表示，英偉達被低估，當前股價可能折價高達50%。"
-    },
-    {
-      "id": "5046209",
-      "time": "2026-08-18 21:52:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "新斯科舍省發行4億加元2036年到期債券，股價上漲45.5%。"
-    },
-    {
-      "id": "te:markets:576174",
-      "time": "2026-08-18 21:52:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls on Rising Yields and Geopolitical Risks — The S&P/TSX Composite Index edged lower to trade arround 36,500 on Tuesday amid rising global bond yields and continued uncertainty in the Middle East. Oil prices gained as hopes of a US-Iran peace deal faded, raising concerns over energy-driven inflationary pressures. Bond yields moved higher, pressuring financials and the broader market. RBC and TD Bank shed nearly 1% each, while BMO, Scotiabank and CIBC lost more than 0.5%. Gold prices slipped, weighing on mining stocks. Barrick lost about 0.5%, WPM fell nearly 2%, and Franco-Nevada shed more than 1%. Elsewhere, NexGen Energy (-3.5%) is sharing information and “talking regularly” with mining giant BHP about its Rook I mining project in Saskatchewan, CEO Leigh Curyer said when asked about a potential equity stake. On the data front, home sales rose less than expected in July. Separately, Canada faces a new round of 50% US tariffs this week, with negotiators from the two countries still far from reaching a draft trade deal."
-    },
-    {
-      "id": "5046208",
-      "time": "2026-08-18 21:51:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江人形機器人創新中心釋出“協同進化論”】浙江人形機器人創新中心釋出“協同進化論”實踐路徑，提出以智慧演算法、硬體本體與開發工具鏈三者協同聯動，推動人形機器人從演示場景邁向規模化實際作業。"
-    },
-    {
-      "id": "5046207",
-      "time": "2026-08-18 21:50:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500醫療保健板塊觸及紀錄高位，最新上漲1.8%。"
-    },
-    {
-      "id": "mkt:01a01523-4009-7aab-907c-535e32db7720",
-      "time": "2026-08-18 21:50:26",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "S&P 500 health-care sector hits record high, up 1.8%."
-    },
-    {
-      "id": "mkt:01a01522-eed1-7aab-907c-4831a0c610e6",
-      "time": "2026-08-18 21:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "US10Y",
-        "EURUSD"
-      ],
-      "text": "US July Pending Home Sales Index MoM due in 10 minutes."
     }
   ]
 }
