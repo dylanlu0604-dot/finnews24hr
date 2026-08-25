@@ -1,7 +1,54 @@
 {
   "date": "2026-08-26",
-  "count": 227,
+  "count": 232,
   "items": [
+    {
+      "id": "mkt:01a03a7f-0b08-7aab-9119-de7a13ff169a",
+      "time": "2026-08-26 03:56:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "OpenAI CEO Sam Altman said the company has developed a very fast chip."
+    },
+    {
+      "id": "5058490",
+      "time": "2026-08-26 03:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：根據相關協議，進入波斯灣的航道將經由伊朗水域，駛出航道則經由阿曼領海。兩條航道的船舶均需途經伊朗水域。該航道屬於臨時性質，伊朗與阿曼必須在 30‑60 天內完成談判，確立全新永久航道，用以取代此前的海上通行方案。"
+    },
+    {
+      "id": "mkt:01a03a7e-0871-7aab-9119-d0fb4fe888da",
+      "time": "2026-08-26 03:55:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US and Brent crude extended losses: WTI slipped below $81/bbl, off more than 4%; Brent slid about $4 intraday to $86.40/bbl."
+    },
+    {
+      "id": "5058489",
+      "time": "2026-08-26 03:54:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI執行長Sam Altman：我們造出了一款晶片，它速度很快。"
+    },
+    {
+      "id": "5058488",
+      "time": "2026-08-26 03:54:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：伊朗與卡達外長通電話】伊朗外交部長阿拉格齊與卡達國首相兼外交大臣於本週二下午舉行電話會談。通話期間，雙方梳理了地區最新局勢，強調應運用外交手段、持續開展協調，避免地區緊張局勢進一步升級。"
+    },
     {
       "id": "5058487",
       "time": "2026-08-26 03:49:11",
