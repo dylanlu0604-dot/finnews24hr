@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-26 06:02:00",
-  "count": 16518,
+  "updated": "2026-08-26 06:06:03",
+  "count": 16523,
   "items": [
+    {
+      "id": "5058540",
+      "time": "2026-08-26 06:04:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查：69%的經濟學家認為7月份日本與美國的聯合外匯干預“效果不佳”或“完全無效”。\n89%的經濟學家認為，日本首相高市早苗的財政政策對日元施加了下行壓力。"
+    },
+    {
+      "id": "mkt:01a03af3-e4dd-7aab-911b-6a2c2a2469d3",
+      "time": "2026-08-26 06:04:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Reuters survey: 89% of economists said Japan's Prime Minister TAKAICHI's fiscal policy has exerted downward pressure on the yen."
+    },
+    {
+      "id": "mkt:01a03af3-d2b8-7aab-911b-60b0f1680eff",
+      "time": "2026-08-26 06:04:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: 69% of economists said July's joint Japan-US FX intervention was 'ineffective' or 'completely ineffective'."
+    },
+    {
+      "id": "5058539",
+      "time": "2026-08-26 06:03:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：超過半數的經濟學家預計日本央行將在2027年第一季度將利率提高至至少1.50%（上次調查為1.25%）。\n57%的經濟學家預計日本央行將在9月份將基準利率提高至1.25%（上次調查中僅有5%的經濟學家持此觀點）。"
+    },
+    {
+      "id": "mkt:01a03af3-158b-7aab-911b-5b0add049fa4",
+      "time": "2026-08-26 06:03:24",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "A Reuters survey found 57% of economists expect the Bank of Japan to raise its policy rate to 1.25% in September, versus 5% in the previous survey."
+    },
+    {
+      "id": "mkt:01a03af2-a2f0-7aab-911b-530be56019c3",
+      "time": "2026-08-26 06:02:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Reuters survey: more than half of economists expect the Bank of Japan to raise policy rates to at least 1.50% by Q1 2027; previous survey median was 1.25%."
+    },
+    {
+      "id": "mkt:01a03af1-e5b7-7aab-911b-4f0cf511f747",
+      "time": "2026-08-26 06:02:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "WTI crude opened flat on Wednesday at $80.67/bbl."
+    },
+    {
+      "id": "5058537",
+      "time": "2026-08-26 06:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4660美元/盎司，日內漲0.03%。"
+    },
     {
       "id": "5058536",
       "time": "2026-08-26 06:00:38",
@@ -149422,31 +149505,6 @@
         "國際"
       ],
       "text": "以色列再次轟炸黎巴嫩南部地區。"
-    },
-    {
-      "id": "5046520",
-      "time": "2026-08-19 06:03:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報62.17美元/盎司。"
-    },
-    {
-      "id": "5046519",
-      "time": "2026-08-19 06:03:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "中通快遞：第二季度包裹量為104.86億件，第二季度營收21.4億美元，第二季度每股收益56美分。"
-    },
-    {
-      "id": "5046518",
-      "time": "2026-08-19 06:02:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲9月維持利率不變的機率為65%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65%，累計加息25個基點的機率為35%。美聯儲到10月維持利率不變的機率為51.4%，累計加息25個基點的機率為41.3%，累計加息50個基點的機率為7.4%。"
     }
   ]
 }
