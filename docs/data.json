@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-26 02:02:58",
-  "count": 16531,
+  "updated": "2026-08-26 02:07:19",
+  "count": 16542,
   "items": [
+    {
+      "id": "5058436",
+      "time": "2026-08-26 02:06:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古特雷斯呼籲安理會採取措施保護世界糧食安全】當地時間8月25日，聯合國秘書長古特雷斯在安理會關於“衝突與糧食安全”的公開會上指出，衝突與暴力是當前全球糧食不安全和飢餓的重要驅動因素，解決糧食不安全問題的根本途徑是維護和平、結束衝突。古特雷斯呼籲安理會採取三項具體措施來保護世界糧食安全：全面、持續落實第2417號決議，全面保護糧食系統，加強對人道主義工作人員的保護。"
+    },
+    {
+      "id": "5058435",
+      "time": "2026-08-26 02:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，位於百慕大東北方向數百英里的風暴，未來48小時內發展為氣旋的機率為40%。"
+    },
+    {
+      "id": "5058434",
+      "time": "2026-08-26 02:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：所有國家都必須解決財政問題，並拿出可信方案，確保債務與赤字處於可持續發展軌道。"
+    },
+    {
+      "id": "5058433",
+      "time": "2026-08-26 02:03:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：人工智慧的發展前景會給金融穩定帶來風險，低收入國家存在掉隊的可能性。"
+    },
+    {
+      "id": "mkt:01a03a17-21fb-7aab-9118-a31d722899e6",
+      "time": "2026-08-26 02:03:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director GEORGIEVA said global imbalances need to be addressed to bolster the global economy's resilience. The IMF is refining its external balance assessment model."
+    },
+    {
+      "id": "5058432",
+      "time": "2026-08-26 02:03:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：得益於油氣儲備釋放以及非海灣地區能源供應增加，全球經濟經受住伊朗戰爭帶來的能源衝擊，表現好於市場擔憂。"
+    },
+    {
+      "id": "5058431",
+      "time": "2026-08-26 02:02:54",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：油價再度上漲可能加劇通脹，迫使各國央行維持限制性政策立場。"
+    },
+    {
+      "id": "mkt:01a03a16-d28b-7aab-9118-9e3a60284dc1",
+      "time": "2026-08-26 02:02:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "IMF Managing Director GEORGIEVA said AI's future poses risks to financial stability and could leave low-income countries behind."
+    },
+    {
+      "id": "mkt:01a03a16-d1e8-7aab-9118-977542a6a56d",
+      "time": "2026-08-26 02:02:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director Georgieva said central banks must focus on price stability."
+    },
+    {
+      "id": "mkt:01a03a16-bc0d-7aab-9118-8a8fcedb5882",
+      "time": "2026-08-26 02:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director GEORGIEVA said all countries must address fiscal challenges and present credible plans to put debt and deficits on a sustainable path."
+    },
+    {
+      "id": "mkt:01a03a16-bbf7-7aab-9118-80cf88611983",
+      "time": "2026-08-26 02:02:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director GEORGIEVA said the current economic outlook faces risks that are more balanced than in spring but remain tilted to the downside."
+    },
+    {
+      "id": "mkt:01a03a16-b524-7aab-9118-729397fdcecc",
+      "time": "2026-08-26 02:02:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "IMF Managing Director Georgieva said the IMF is concerned about mounting fiscal pressures as bond yields rise and disinflation stalls."
+    },
+    {
+      "id": "mkt:01a03a16-bbb1-7aab-9118-7f1cb7ff4474",
+      "time": "2026-08-26 02:02:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IMF managing director GEORGIEVA said a renewed rise in oil prices could push up inf, forcing central banks to maintain a tight policy stance."
+    },
     {
       "id": "5058430",
       "time": "2026-08-26 02:02:09",
@@ -149496,33 +149613,6 @@
         "國際"
       ],
       "text": "法國外交部長：兩名伊朗外交官將於未來數日內被驅逐出境。"
-    },
-    {
-      "id": "mkt:01a0160d-2e6d-7aab-9080-0d4a5fb97bb8",
-      "time": "2026-08-19 02:05:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【JP Morgan warns AI positioning crowding poses concentration risk across equity and bond markets】Gabriela Santos of JP Morgan Asset Management warned AI-related concentration risk has spilled from equities into fixed income. She said the AI supercycle investment case remains intact but investors must be cautious about portfolio construction. July’s tech sell-off — the PHLX Semiconductor Index plunged 21% (its largest monthly drop since 2008) and the KOSPI fell 22% — highlighted crowding risks. Santos urged tighter position-size controls, prudent use of leverage and diversification beyond AI, saying traditional risk factors, sectors, regions and even asset classes may no longer capture AI-driven concentration."
-    },
-    {
-      "id": "mkt:01a0160b-38b5-7aab-9080-07d73316d22f",
-      "time": "2026-08-19 02:03:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "DTEK said a Russian strike severely damaged a thermal power plant in central Ukraine, forcing the plant offline."
     }
   ]
 }
