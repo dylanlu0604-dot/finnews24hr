@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-26 08:10:12",
-  "count": 16497,
+  "updated": "2026-08-26 08:14:12",
+  "count": 16492,
   "items": [
+    {
+      "id": "5058643",
+      "time": "2026-08-26 08:12:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣州國際商業港首開區北地塊正式公開掛牌，標誌著該專案正式邁入落地籌備關鍵階段。廣州國際商業港位於花都區、白雲國際機場西北片區，專案規劃總面積9.86平方公里。首開區北地塊，為廣州國際商業港核心載體地塊，用地性質為商業商務用地，宗地面積26.72公頃，計容建築面積為570351平方米。首開區地塊的正式掛牌，是廣州國際商業港專案從“規劃藍圖”邁向“施工圖紙”的關鍵里程碑。 （廣州日報）"
+    },
+    {
+      "id": "5058642",
+      "time": "2026-08-26 08:10:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率下跌1.5個基點，至2.125%。"
+    },
+    {
+      "id": "mkt:01a03b67-2599-7aab-911c-3d4b98749faa",
+      "time": "2026-08-26 08:10:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australian S&P/ASX 200 opened up 18.40 points, or 0.20%, at 9,183.00 on Wednesday, Aug. 26."
+    },
+    {
+      "id": "5058640",
+      "time": "2026-08-26 08:09:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.3%，報9,191.60點。"
+    },
     {
       "id": "5058639",
       "time": "2026-08-26 08:09:16",
@@ -149197,90 +149232,6 @@
         "宏觀"
       ],
       "text": "【國家電網與南方電網就加快新型電網建設簽署戰略合作框架協議】8月18日，國家電網與南方電網舉行會談，並簽署《落實“十五五”規劃 加快新型電網建設戰略合作框架協議》。雙方表示，要落實黨中央、國務院關於加快建設新型能源體系、新型電力系統、新型電網的決策部署，錨定“十五五”發展目標，共同做好電力供應保障，共同推進新型電力系統建設和重大電力工程建設，共同推進全國統一電力市場建設，共同推進能源電力科技創新。"
-    },
-    {
-      "id": "te:markets:576261",
-      "time": "2026-08-19 08:13:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "GigaDevice Semiconductor earnings above expectations at 4.76 CNY — GigaDevice Semiconductor (603986) released earnings per share at 4.76 CNY, compared to market expectations of 2.18 CNY."
-    },
-    {
-      "id": "te:markets:576260",
-      "time": "2026-08-19 08:13:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Xiaomi earnings above expectations at 0.36 CNY — Xiaomi (XMGP) released earnings per share at 0.36 CNY, compared to market expectations of 0.22 CNY."
-    },
-    {
-      "id": "mkt:01a0175d-9fc8-7aab-9084-1e61359eb4f0",
-      "time": "2026-08-19 08:13:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Kioxia shares fell 9%."
-    },
-    {
-      "id": "5046642",
-      "time": "2026-08-19 08:13:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "鎧俠控股股價下跌9%。"
-    },
-    {
-      "id": "mkt:01a0175d-1f2e-7aab-9084-12f5e8f333ad",
-      "time": "2026-08-19 08:12:53",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "South Korean media report that SK Hynix and its union have reached a preliminary wage agreement."
-    },
-    {
-      "id": "5046641",
-      "time": "2026-08-19 08:11:45",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數跌超6% 半導體股票追隨隔夜美股下跌】韓國股市Kospi基準指數一度下跌6.3%，受隔夜美股行情影響，半導體股票也隨之下跌。三星電子、SK海力士和SK Square拖累最大，均下跌至少7%。美國晶片股週二大跌，由於通脹擔憂和政府債務上升，債券收益率居高不下。韓國Kosdaq小盤股指數跌超3%。"
-    },
-    {
-      "id": "5046640",
-      "time": "2026-08-19 08:11:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK海力士工會與公司達成初步薪資協議。"
-    },
-    {
-      "id": "5046639",
-      "time": "2026-08-19 08:11:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.5%，報9,026.60點。"
-    },
-    {
-      "id": "5046638",
-      "time": "2026-08-19 08:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【俄鋁上半年營收83.4億美元 上年同期75.2億美元】俄鋁上半年營收83.4億美元，同比增長11%，上年同期75.2億美元。上半年調整後EBITDA為12.3億美元，而去年同期為7.48億美元。上半年調整後利潤為1.96億美元，而去年同期虧損為1.94億美元。"
     }
   ]
 }
