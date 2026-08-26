@@ -1,7 +1,79 @@
 {
   "date": "2026-08-27",
-  "count": 240,
+  "count": 247,
   "items": [
+    {
+      "id": "5060777",
+      "time": "2026-08-27 03:43:13",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "哥倫比亞央行行長：首要目標是實現CPI通脹目標。"
+    },
+    {
+      "id": "5060776",
+      "time": "2026-08-27 03:42:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利總理：保克什核電站恢復滿負荷運轉】當地時間26日，匈牙利總理毛焦爾在社交媒體表示，保克什核電站已實現滿負荷運轉，所有四個反應堆和八臺汽輪機都在正常執行。本月早些時候，乾旱引發的多瑙河極低水位嚴重限制冷卻水吸入，導致核電站部分機組被迫停運。"
+    },
+    {
+      "id": "5060775",
+      "time": "2026-08-27 03:42:11",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【谷歌最新組織調整：將AI責任團隊遷出DeepMind實驗室】一封內部郵件顯示，谷歌正將一支研究人工智慧風險與社會影響的團隊，從研發前沿AI模型的DeepMind實驗室剝離出去。兩名DeepMind在職員工透露，此次彙報架構調整，發生在DeepMind聯合創始人、原CEO德米斯·哈薩比斯卸任、轉任新設立的董事長之後；部分團隊成員擔憂，這項變動將對該部門工作造成負面影響。從下週起，這支約90人的AI責任部門，將併入谷歌全球事務部門。該部門統管谷歌整體的遊說公關與公共政策事務。"
+    },
+    {
+      "id": "mkt:01a03f97-f20f-7aab-9137-5057a7526bcb",
+      "time": "2026-08-27 03:41:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saskatchewan will impose a 50% tariff on US alcoholic beverages."
+    },
+    {
+      "id": "mkt:01a03f97-2cba-7aab-9137-4e64b9dc1230",
+      "time": "2026-08-27 03:41:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet"
+      ],
+      "text": "Wall Street Journal reports Google (GOOG.O) will move its AI responsibility team into its Global Affairs organization as part of a reorganization."
+    },
+    {
+      "id": "mkt:01a03f97-228e-7aab-9137-4134b6599c0d",
+      "time": "2026-08-27 03:41:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Wall Street Journal cites sources saying members of the AI accountability team are concerned a planned reorganization could affect research and staff retention."
+    },
+    {
+      "id": "mkt:01a03f97-1f60-7aab-9137-3e212edc6090",
+      "time": "2026-08-27 03:41:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Trump signed an executive order banning the use of certain foreign-made energy equipment on the US power grid."
+    },
     {
       "id": "5060772",
       "time": "2026-08-27 03:40:36",
