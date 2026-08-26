@@ -1,7 +1,86 @@
 {
   "date": "2026-08-27",
-  "count": 104,
+  "count": 112,
   "items": [
+    {
+      "id": "mkt:01a03f21-94ea-7aab-9135-99f5c3efa0b3",
+      "time": "2026-08-27 01:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI is expanding ChatGPT for Teachers to an additional 55 school districts across 20 U.S. states, adding coverage for more than 100,000 educators and school staff."
+    },
+    {
+      "id": "5060685",
+      "time": "2026-08-27 01:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：宣佈與 16 個州達成資料隱私協議。"
+    },
+    {
+      "id": "mkt:01a03f21-742e-7aab-9135-901486022232",
+      "time": "2026-08-27 01:32:32",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "OpenAI said it reached a data privacy agreement covering 16 U.S. states."
+    },
+    {
+      "id": "5060684",
+      "time": "2026-08-27 01:32:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將面向教師的 ChatGPT 服務拓展至 20 個州的另外 55 個學區，新增覆蓋超 10 萬名教育工作者及教職工。"
+    },
+    {
+      "id": "mkt:01a03f20-1654-7aab-9135-8d90081e6acb",
+      "time": "2026-08-27 01:31:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman has halted cooperation with the United States on escorting oil tankers transiting the southern route of the Strait of Hormuz, Press TV reports."
+    },
+    {
+      "id": "5060683",
+      "time": "2026-08-27 01:30:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部：2026 年，掛鉤塞爾克利率的債券佔公共債務餘額比重將為 49%‑53%（此前預期為 46%‑50%）。"
+    },
+    {
+      "id": "5060682",
+      "time": "2026-08-27 01:30:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：阿曼停止配合美國協助油輪在霍爾木茲海峽南部開展護航通行。"
+    },
+    {
+      "id": "mkt:01a03f1e-9333-7aab-9135-82f29d92a7b6",
+      "time": "2026-08-27 01:29:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bearish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Kimmeridge: Up to half of planned US data centers at risk of delay or cancellation】Ben Dell, co‑founder of investment firm Kimmeridge, said up to 50% of planned US data centers could be delayed or cancelled due to rising political opposition, litigation and complex physical infrastructure. He expects US natural gas demand to rise about 30 bcfd, with data centers contributing roughly 5–10 bcfd; project delays could push AI-related gas demand toward the low end of current forecasts. Dell said \"the Silicon Valley model is colliding with real-world infrastructure constraints.\" Opposition to data centers is intensifying ahead of the US midterms in states including Pennsylvania, Texas and Ohio."
+    },
     {
       "id": "mkt:01a03f1b-84c0-7aab-9135-7f86203ee225",
       "time": "2026-08-27 01:26:03",
