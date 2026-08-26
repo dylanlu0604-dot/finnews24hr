@@ -1,7 +1,29 @@
 {
   "date": "2026-08-27",
-  "count": 141,
+  "count": 143,
   "items": [
+    {
+      "id": "5060703",
+      "time": "2026-08-27 01:48:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：推出 “美國偉大商業走廊” 計劃。"
+    },
+    {
+      "id": "mkt:01a03f2e-54ae-7aab-9136-0a2ad1d854cb",
+      "time": "2026-08-27 01:46:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "European Commission spokesperson said the Commission is in contact with Meta Platforms (META.O) over a preliminary finding that its \"addictive design\" violates the Digital Services Act (DSA)."
+    },
     {
       "id": "5060702",
       "time": "2026-08-27 01:45:59",
