@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-27 01:09:36",
-  "count": 16694,
+  "updated": "2026-08-27 01:20:00",
+  "count": 16689,
   "items": [
+    {
+      "id": "5060679",
+      "time": "2026-08-27 01:17:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "PUCK 正與紅鳥資本洽談融資，交易對應估值約 2.5 億美元。"
+    },
+    {
+      "id": "5060678",
+      "time": "2026-08-27 01:16:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（8月26日），美聯儲隔夜逆回購協議（RRP）使用規模為7.02億美元（交易對手4家），上個交易日報4.05億美元。"
+    },
+    {
+      "id": "mkt:01a03f12-6f06-7aab-9135-66c7964566e2",
+      "time": "2026-08-27 01:16:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $702 mln from four counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5060677",
+      "time": "2026-08-27 01:15:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡警方對Radiant World的辦公室進行突擊搜查。"
+    },
+    {
+      "id": "mkt:01a03f11-b5cd-7aab-9135-5b1252fa5493",
+      "time": "2026-08-27 01:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russia's air-defence systems shot down 51 Ukrainian drones in one day over several Russian regions and the Black Sea."
+    },
+    {
+      "id": "5060676",
+      "time": "2026-08-27 01:15:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，防空系統單日在俄境內及黑海上空擊落 51 架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:01a03f0e-e3c4-7aab-9135-569fc11753ed",
+      "time": "2026-08-27 01:12:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump confirms CIA director John Ratcliffe recently visited Russia】On the 26th Trump confirmed CIA director John Ratcliffe recently visited Russia, saying the trip \"may produce some results\" but offering no further detail. He described the visit as \"semi-routine\" and suggested it was related to the Russia-Ukraine war, saying \"we are trying to bring an end to the war; both sides want to see it end.\""
+    },
+    {
+      "id": "5060675",
+      "time": "2026-08-27 01:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月27日00時45分在哥倫比亞（北緯6.75度，西經73.08度）發生5.3級地震，震源深度150千米。"
+    },
+    {
+      "id": "5060674",
+      "time": "2026-08-27 01:11:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本儲存晶片巨頭鎧俠將在巖手縣建設新的製造廠房，預計投資額將超過1萬億日元。"
+    },
+    {
+      "id": "mkt:01a03f0c-1d9c-7aab-9135-4d21c65bab11",
+      "time": "2026-08-27 01:09:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【IDC: Apple foldable iPhone first-year shipments to exceed 10 mln】Apple (AAPL.O) is due to launch its first foldable iPhone in September; despite a possible launch price near $2,500, IDC expects first-year shipments to exceed 10 mln and to re-accelerate the foldable-phone market. IDC projects global foldable-phone shipments up 12.6% this year and 18% next year, and estimates Apple will capture 40% of global foldable shipments by 2027. IDC also forecasts the overall global smartphone market will contract a record 16.7% this year due to rising component prices and supply constraints, saying the era of cheap smartphones is over."
+    },
     {
       "id": "mkt:01a03f0a-6d5d-7aab-9135-447468f51ca3",
       "time": "2026-08-27 01:07:22",
@@ -150552,149 +150641,6 @@
         "DXY"
       ],
       "text": "【CITIGROUP doubts 'hawkish' tilt in Fed minutes; JP Morgan highlights internal inflation split】Three Fed officials dissented at the July meeting, arguing for a hike because core inflation was 2.6%—well above the 2% target. August data have weakened that rationale: core CPI (ex food and energy) rose 2.5% YoY in July, the weakest since Mar 2021, and July payrolls showed a decline of 23,000 jobs. CITIGROUP US chief economist Andrew Hollenhorst said those prints will make it difficult for the minutes to materially raise the market’s reduced odds of further rate hikes. The minutes should still clarify how large the Fed’s internal “hawk” vs “dove” split was at the July meeting and may reveal how officials plan to define and assess inflation pressures going forward. JP Morgan chief US economist Michael Feroli said the minutes could show how much tolerance FOMC members have for inflation above the target."
-    },
-    {
-      "id": "mkt:01a01b08-3a52-7aab-909e-6f6c884dfce8",
-      "time": "2026-08-20 01:18:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI launches preview of \"Private Safety Processing\" to bolster AI interaction safety without changing its zero-data-retention approach. The feature will be rolled out in phases starting in September and OpenAI will publish a technical white paper."
-    },
-    {
-      "id": "5048451",
-      "time": "2026-08-20 01:18:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：預覽私人安全處理功能，該功能在保持與零資料保留相容的同時，加強了互動過程中的安全防護。"
-    },
-    {
-      "id": "5048450",
-      "time": "2026-08-20 01:17:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：將於9月推出私有安全處理功能。"
-    },
-    {
-      "id": "5048449",
-      "time": "2026-08-20 01:16:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：零資料留存內容不會被留存，也不會用於模型訓練。"
-    },
-    {
-      "id": "5048448",
-      "time": "2026-08-20 01:16:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "18家交易對手在美聯儲逆回購操作中獲得3.17億美元。"
-    },
-    {
-      "id": "mkt:01a01b06-06dd-7aab-909e-67cc5c3231a9",
-      "time": "2026-08-20 01:16:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed accepted $317 mln from 18 counterparties in fixed-rate reverse repo operations."
-    },
-    {
-      "id": "5048447",
-      "time": "2026-08-20 01:16:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：前沿模型提供零資料留存功能。"
-    },
-    {
-      "id": "5048446",
-      "time": "2026-08-20 01:15:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部通報，當日俄防空部隊在俄境內各地區共攔截並擊落438架烏克蘭無人機。"
-    },
-    {
-      "id": "mkt:01a01b05-74f6-7aab-909e-5ee6ea4d2413",
-      "time": "2026-08-20 01:15:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Russian Defence Ministry said its air-defence forces shot down 438 Ukrainian drones in one day."
-    },
-    {
-      "id": "mkt:01a01b01-bbdb-7aab-909e-52834d3d766f",
-      "time": "2026-08-20 01:11:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The office of Canada's minister for Canada-U.S. trade, LeBlanc, said he is returning to Ottawa to meet the Prime Minister and attend other meetings to push to finalize Canada-U.S. trade negotiations."
-    },
-    {
-      "id": "te:economy:576587",
-      "time": "2026-08-20 01:11:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.27%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 12.67 basis points, and in the last 12 months, it increased 55.80 basis points."
-    },
-    {
-      "id": "5048445",
-      "time": "2026-08-20 01:11:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報85.75美元/桶。"
-    },
-    {
-      "id": "5048444",
-      "time": "2026-08-20 01:10:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大負責美國貿易事務的部長多米尼克·勒布朗正返回渥太華，與總理會面並參加其他必要會議，以完成貿易談判。"
-    },
-    {
-      "id": "te:markets:576584",
-      "time": "2026-08-20 01:10:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Retreats From Three-Week High — US gasoline futures traded below $3.30 per gallon, retreating from a three-week high as traders weighed uncertainty surrounding the Strait of Hormuz against an unexpected build in domestic inventories. EIA data showed US gasoline stocks increased by 0.688 million barrels in the week ending August 14th, missing expectations for a 1.2 million-barrel draw. Inventories are now 5% below their seasonal average, narrowing from 6% the previous week. US Energy Secretary Chris Wright stated he would work with refiners to boost fuel production and ease prices, noting that refiners are operating at record levels. Still, fading hopes of a reopening of the Strait of Hormuz pushed oil prices higher. Trump said no talks were underway with Iran and that the waterway remained open, while Tehran said a US naval blockade was still in place. Tanker traffic remained subdued, with limited traffic still passing through the strategic route, as shipowners stayed cautious."
-    },
-    {
-      "id": "mkt:01a01b00-3d0e-7aab-909e-4a7e07589e2c",
-      "time": "2026-08-20 01:09:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【U.S., Canadian leaders optimistic on tariff agreement】U.S. President Trump and Canadian Prime Minister Carney said they are optimistic about a tariff agreement as negotiating teams met in Washington. Trump said Wednesday “we have reached an agreement,” adding Canadian negotiators put forward “conditions we must get,” including greater market access for U.S. agricultural exports, and that “everything still awaits final paperwork.” Carney wrote the countries are “moving towards an agreement that will cement Canada’s advantages” and secure “the most favorable terms” in Canada’s key strategic areas, but gave no details."
     }
   ]
 }

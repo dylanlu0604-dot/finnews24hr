@@ -1,7 +1,96 @@
 {
   "date": "2026-08-27",
-  "count": 88,
+  "count": 98,
   "items": [
+    {
+      "id": "5060679",
+      "time": "2026-08-27 01:17:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "PUCK 正與紅鳥資本洽談融資，交易對應估值約 2.5 億美元。"
+    },
+    {
+      "id": "5060678",
+      "time": "2026-08-27 01:16:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（8月26日），美聯儲隔夜逆回購協議（RRP）使用規模為7.02億美元（交易對手4家），上個交易日報4.05億美元。"
+    },
+    {
+      "id": "mkt:01a03f12-6f06-7aab-9135-66c7964566e2",
+      "time": "2026-08-27 01:16:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $702 mln from four counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5060677",
+      "time": "2026-08-27 01:15:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡警方對Radiant World的辦公室進行突擊搜查。"
+    },
+    {
+      "id": "mkt:01a03f11-b5cd-7aab-9135-5b1252fa5493",
+      "time": "2026-08-27 01:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russia's air-defence systems shot down 51 Ukrainian drones in one day over several Russian regions and the Black Sea."
+    },
+    {
+      "id": "5060676",
+      "time": "2026-08-27 01:15:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，防空系統單日在俄境內及黑海上空擊落 51 架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:01a03f0e-e3c4-7aab-9135-569fc11753ed",
+      "time": "2026-08-27 01:12:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump confirms CIA director John Ratcliffe recently visited Russia】On the 26th Trump confirmed CIA director John Ratcliffe recently visited Russia, saying the trip \"may produce some results\" but offering no further detail. He described the visit as \"semi-routine\" and suggested it was related to the Russia-Ukraine war, saying \"we are trying to bring an end to the war; both sides want to see it end.\""
+    },
+    {
+      "id": "5060675",
+      "time": "2026-08-27 01:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月27日00時45分在哥倫比亞（北緯6.75度，西經73.08度）發生5.3級地震，震源深度150千米。"
+    },
+    {
+      "id": "5060674",
+      "time": "2026-08-27 01:11:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本儲存晶片巨頭鎧俠將在巖手縣建設新的製造廠房，預計投資額將超過1萬億日元。"
+    },
+    {
+      "id": "mkt:01a03f0c-1d9c-7aab-9135-4d21c65bab11",
+      "time": "2026-08-27 01:09:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【IDC: Apple foldable iPhone first-year shipments to exceed 10 mln】Apple (AAPL.O) is due to launch its first foldable iPhone in September; despite a possible launch price near $2,500, IDC expects first-year shipments to exceed 10 mln and to re-accelerate the foldable-phone market. IDC projects global foldable-phone shipments up 12.6% this year and 18% next year, and estimates Apple will capture 40% of global foldable shipments by 2027. IDC also forecasts the overall global smartphone market will contract a record 16.7% this year due to rising component prices and supply constraints, saying the era of cheap smartphones is over."
+    },
     {
       "id": "mkt:01a03f0a-6d5d-7aab-9135-447468f51ca3",
       "time": "2026-08-27 01:07:22",
