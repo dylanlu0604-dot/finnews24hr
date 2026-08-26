@@ -1,7 +1,46 @@
 {
   "date": "2026-08-27",
-  "count": 155,
+  "count": 159,
   "items": [
+    {
+      "id": "mkt:01a03f49-739c-7aab-9136-4c44f08c2d52",
+      "time": "2026-08-27 02:16:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Central Bank of Iran: August monthly inflation at 3.7%; three-month slowdown in inflation momentum】The Central Bank of Iran deputy governor told IRNA that August monthly inflation slowed to 3.7%, down from a May peak of 8.5%, marking three consecutive months of deceleration. The prior inflation surge reflected effects of the war, economic blockade, rising liquidity and firmer inflation expectations, with pass-through to prices occurring with a lag. Since early June the central bank has applied monetary and prudential measures to curb accelerating inflation and said it has seen results over the past three months; it will continue to control inflation while providing targeted financing to sectors and supply chains affected by shocks."
+    },
+    {
+      "id": "te:markets:578361",
+      "time": "2026-08-27 02:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Plunges by 6.86% — Top commodity losers are Methanol (-6.86%), Coking Coal (-1.15%) and Brent Crude Oil (-0.72%). Gains are led by Natural gas (3.29%), Gasoline (2.77%) and Heating Oil (0.96%)."
+    },
+    {
+      "id": "5060710",
+      "time": "2026-08-27 02:13:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【RevMed新型胰腺癌口服藥年費超47.5萬美元】Revolution Medicines公司旗下名為Rasonque的藥物獲得美國批准上市，該藥可延長晚期胰腺癌患者的生存期。Rasonque的標價超過每年47.5萬美元，是首批能夠廣泛靶向RAS蛋白的藥物之一——該蛋白與腫瘤生長密切相關，在大多數胰腺癌中均存在突變。該藥的獲批為這一治療進展緩慢、數十年來一直以化療為核心手段的疾病開闢了新的戰線。"
+    },
+    {
+      "id": "mkt:01a03f46-317a-7aab-9136-46bae46e6812",
+      "time": "2026-08-27 02:12:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary says Washington favors diplomatic dialogue with Iran."
+    },
     {
       "id": "5060709",
       "time": "2026-08-27 02:11:20",
