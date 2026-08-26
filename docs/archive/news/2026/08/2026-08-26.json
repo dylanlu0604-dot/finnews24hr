@@ -1,7 +1,88 @@
 {
   "date": "2026-08-26",
-  "count": 2340,
+  "count": 2350,
   "items": [
+    {
+      "id": "5060003",
+      "time": "2026-08-26 18:48:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【開潤股份：2026年上半年淨利潤2.11億元，同比增長13.06%】開潤股份公告，2026年上半年營業收入25.49億元，同比增長5.02%；歸屬於上市公司股東的淨利潤2.11億元，同比增長13.06%；扣除非經常性損益的淨利潤2.1億元，同比增長16.29%。公司擬以2.39億股為基數，每10股派發現金紅利2.65元（含稅），送紅股0股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5060002",
+      "time": "2026-08-26 18:48:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中達安：2026年上半年淨利潤1611.25萬元，同比增長772.00%】中達安公告，2026年上半年營業收入2.55億元，同比下降15.51%；歸屬於上市公司股東的淨利潤1611.25萬元，同比增長772.00%，2025年同期為184.78萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1349.05萬元，同比增長842.95%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a03dae-f3ab-7aab-912b-07a381675e40",
+      "time": "2026-08-26 18:47:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKO issued a Yellow Rainstorm Warning for Hong Kong."
+    },
+    {
+      "id": "5060001",
+      "time": "2026-08-26 18:47:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智信精密：2026年上半年淨利潤虧損5268.21萬元，2025年同期虧損3884.82萬元】智信精密公告，2026年上半年營業收入1.17億元，同比增長41.45%；歸屬於上市公司股東的淨利潤虧損5268.21萬元，2025年同期虧損3884.82萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損5364.97萬元，2025年同期虧損4171.3萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5060000",
+      "time": "2026-08-26 18:47:22",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【君實生物：2026年上半年營收16.96億元 同比增45.18%】君實生物公告稱，2026年上半年實現營業收入16.96億元，同比增長約45.18%，主要系藥品銷售收入增長所致；其中特瑞普利單抗國內銷售收入約12.99億元，同比增長約36%。報告期內臨床研究入組人數超700人，5款產品處於III期臨床，2款處於NDA受理階段；特瑞普利單抗已在超50個國家和地區獲批上市，與合作伙伴在超80個國家達成商業化合作。截至報告期末，累計獲授權專利202件，報告期內新增9項。董事長熊俊2025年4月12日至2026年3月31日累計增持公司股份325.95萬股，佔總股本0.32%，累計成交總額約1.01億元。"
+    },
+    {
+      "id": "mkt:01a03dae-7397-7aab-912a-fbb6252fcda0",
+      "time": "2026-08-26 18:47:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Lebanon's president said the state is confronting groups that refuse to accept state authority and will seek a negotiated settlement to avoid the devastation of war. He said there is no option other than negotiation to secure the liberation of southern Lebanon and to deploy the army to the border."
+    },
+    {
+      "id": "5059999",
+      "time": "2026-08-26 18:47:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深南電路：2026年上半年淨利潤22.51億元，同比增長65.55%】深南電路公告，2026年上半年營業收入152.96億元，同比增長46.33%；歸屬於上市公司股東的淨利潤22.51億元，同比增長65.55%，2025年同期為13.6億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤22.39億元，同比增長76.94%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:markets:578226",
+      "time": "2026-08-26 18:46:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rebounds Slightly — The DAX 40 turned slightly positive, trading around 26,300 on Wednesday and heading for a second straight session of gains. Market sentiment was supported by the ongoing decline in oil prices amid hopes for the reopening of the Strait of Hormuz, alongside stabilizing bond yields. However, a sense of caution prevailed ahead of Nvidia’s earnings and key US inflation data that could influence rate expectations. Banks led sectoral gains, with tech, industrials, pharma and healthcare, utilities, and chemical stocks also advancing, offsetting sharp losses in software. Deutsche Bank and Commerzbank moved to the top of the index, surging 4.3% and 2.9%, respectively."
+    },
+    {
+      "id": "mkt:01a03dac-8b4c-7aab-912a-f49b2be10b97",
+      "time": "2026-08-26 18:45:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney plans to address the European Parliament in mid-September."
+    },
     {
       "id": "5059996",
       "time": "2026-08-26 18:44:29",
@@ -42,6 +123,14 @@
         "國際"
       ],
       "text": "加拿大總理卡尼將於 9 月中旬向歐洲議會發表講話， 預計將出席馮德萊恩在斯特拉斯堡的演講。"
+    },
+    {
+      "id": "5059992",
+      "time": "2026-08-26 18:43:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部、應急管理部緊急撥付1.2億元中央自然災害救災資金支援西藏做好日喀則吉隆泥石流應急搶險救災工作】8月26日，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。為貫徹落實習近平總書記重要指示精神，財政部、應急管理部當日緊急預撥1.2億元中央自然災害救災資金，支援西藏開展應急搶險救援和受災群眾救助工作，重點做好人員搜救、受災群眾轉移安置、排危除險等應急處置以及倒損民房修復等工作，最大限度減少災害損失和人員傷亡。 財政部要求西藏自治區財政廳抓緊將資金撥付災區，加強救災資金監管，確保救災資金全部用於災區和受災群眾，切實保障人民群眾生命財產安全。 （財政部）"
     },
     {
       "id": "5059991",
