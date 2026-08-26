@@ -1,7 +1,680 @@
 {
-  "updated": "2026-08-26 20:30:35",
-  "count": 16712,
+  "updated": "2026-08-26 20:35:09",
+  "count": 16742,
   "items": [
+    {
+      "id": "5060312",
+      "time": "2026-08-26 20:33:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "非美貨幣對普跌，歐元兌美元EUR/USD短線走低10餘點，報1.1663，美元兌日元USD/JPY短線走高近20點，最高至159.10。"
+    },
+    {
+      "id": "mkt:01a03e0f-6eca-7aab-912e-a3ea05337109",
+      "time": "2026-08-26 20:33:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Non-dollar currencies broadly weakened; EUR/USD dipped about 10 pips to 1.1663, while USD/JPY rose nearly 20 pips to a session high of 159.10."
+    },
+    {
+      "id": "5060311",
+      "time": "2026-08-26 20:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "彭博美元現貨指數在美國經濟資料公佈後維持漲幅。"
+    },
+    {
+      "id": "mkt:01a03e0f-37d1-7aab-912e-9837513f56a2",
+      "time": "2026-08-26 20:32:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Following the release of US economic data, US short-term interest-rate futures slightly trimmed earlier gains."
+    },
+    {
+      "id": "5060310",
+      "time": "2026-08-26 20:32:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "核心 PCE 物價指標符合預期，美債走勢保持平穩。"
+    },
+    {
+      "id": "te:economy:578256",
+      "time": "2026-08-26 20:32:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "PCE Price Index Monthly Change",
+        "Importance 2"
+      ],
+      "text": "US PCE Prices Rise More than Expected — The US PCE price index rose 0.2% month-over-month in July 2026, above market expectations of a 0.1% increase, following a 0.1% decline in June. Core PCE inflation, which excludes food and energy, increased 0.2%, matching the previous month’s gain and market expectations. On an annual basis, headline PCE inflation remained unchanged at 3.7%, in line with forecasts, while core PCE inflation also held steady at 3.3%, matching expectations."
+    },
+    {
+      "id": "5060309",
+      "time": "2026-08-26 20:32:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率資料公佈後小幅上行；10年期美國國債收益率持平於4.635%<US10YT=RR>。"
+    },
+    {
+      "id": "5060308",
+      "time": "2026-08-26 20:31:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大普微：簽訂5.15億美元銷售訂單】 大普微公告，公司於2026年8月25日與客戶A簽訂企業級PCIe SSD銷售訂單，含稅總金額5.15億美元（摺合人民幣約34.91億元），佔公司2025年經審計主營業務收入的152.70%，交付期限為訂單生效後18周內。"
+    },
+    {
+      "id": "5060307",
+      "time": "2026-08-26 20:31:55",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美元指數DXY短線上揚近10點，報99.03。"
+    },
+    {
+      "id": "mkt:01a03e0e-244c-7aab-912e-91fafd5de4a6",
+      "time": "2026-08-26 20:31:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【US July PCE YoY 3.7% unchanged from prior month, above expectations】US headline PCE price index YoY 3.7% in July, unchanged from June; market had expected a slight decline to 3.6%."
+    },
+    {
+      "id": "mkt:01a03e0e-2405-7aab-912e-8a7c235fe449",
+      "time": "2026-08-26 20:31:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Dollar index (DXY) briefly rose by nearly 10 points to 99.03."
+    },
+    {
+      "id": "5060306",
+      "time": "2026-08-26 20:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500微型股指期貨在經濟資料公佈後小幅走低。"
+    },
+    {
+      "id": "5060305",
+      "time": "2026-08-26 20:31:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：德國的克林拜爾計劃與裕信銀行執行長舉行會晤。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608263855018632",
+      "time": "2026-08-26 20:31:30",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國第二季度實際GDP年化季率修正值為1.5%，預期1.5%，前值1.5%。"
+    },
+    {
+      "id": "mkt:01a03e0d-d173-7aab-912e-83fdeadeefc9",
+      "time": "2026-08-26 20:31:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US Q2 GDP price index, final 6.4% (expected 6.20%, prior 6.20%)."
+    },
+    {
+      "id": "mkt:01a03e0d-a6d9-7aab-912e-7fcd6dc436e6",
+      "time": "2026-08-26 20:31:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | GDP Price Index SAAR Revised (Q2) | actual 6.4% | consensus 6.20% | previous 6.20%"
+    },
+    {
+      "id": "mkt:01a03e0d-966e-7aab-912e-751e01469330",
+      "time": "2026-08-26 20:31:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped $11 intra-day to $4,619/oz."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608263855018384",
+      "time": "2026-08-26 20:31:07",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月耐用品訂單初值環比增長1.1%，預估為增長0.5%。"
+    },
+    {
+      "id": "5060304",
+      "time": "2026-08-26 20:31:03",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國第二季度實際GDP年化季率修正值為1.5%，與初值一致，符合市場預期。\n美國7月核心PCE物價指數年率為3.3%，較上月持平，符合市場預期。"
+    },
+    {
+      "id": "mkt:01a03e0d-50e5-7aab-912e-6c1156d7c10d",
+      "time": "2026-08-26 20:30:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US Q2 real GDP revision unchanged at 1.5% annualized, in line with expectations】US Q2 real GDP revised to a 1.5% annualized QoQ rate, unchanged from the preliminary estimate and matching market expectations."
+    },
+    {
+      "id": "mkt:01a03e0d-2e22-7aab-912e-61adecf5ba32",
+      "time": "2026-08-26 20:30:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US core PCE unchanged from prior month, in line with expectations】US core PCE price index rose 3.3% YoY in July, unchanged from June and in line with market expectations."
+    },
+    {
+      "id": "mkt:01a03e0d-29d7-7aab-912e-5f593de072ae",
+      "time": "2026-08-26 20:30:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US July personal income MoM 0.4% (expected 0.20%, prior 0.20%)."
+    },
+    {
+      "id": "mkt:01a03e0d-2973-7aab-912e-5214aca6fb20",
+      "time": "2026-08-26 20:30:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Q2 PCE price index annualized QoQ revised to 5.3% vs 5.1% expected and prior 5.1%."
+    },
+    {
+      "id": "mkt:01a03e0d-290c-7aab-912e-4b78825c1fd9",
+      "time": "2026-08-26 20:30:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US corporate profits rose an annualized 8.2% QoQ in Q2 (preliminary), versus +0.5% previously."
+    },
+    {
+      "id": "mkt:01a03e0d-28bd-7aab-912e-409f9c8824ad",
+      "time": "2026-08-26 20:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US July core PCE price index YoY 3.3% (consensus 3.30%, prior 3.30%)."
+    },
+    {
+      "id": "mkt:01a03e0d-19d5-7aab-912e-3cebb47b4656",
+      "time": "2026-08-26 20:30:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US real personal consumption expenditures (PCE) MoM for July 0.0% vs 0.0% expected; prior 0.4%."
+    },
+    {
+      "id": "mkt:01a03e0d-19ce-7aab-912e-2d82a33fbc62",
+      "time": "2026-08-26 20:30:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US Q2 core PCE price index revised to 3.6% annualized QoQ; consensus 3.4%; prior 3.40%."
+    },
+    {
+      "id": "mkt:01a03e0d-19d1-7aab-912e-35449c360bb4",
+      "time": "2026-08-26 20:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Q2 real GDP final revision 1.5% annualized QoQ; consensus 1.5%, prior 1.5%."
+    },
+    {
+      "id": "mkt:01a03e0d-14c9-7aab-912e-262f1b81fbb5",
+      "time": "2026-08-26 20:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US personal spending rose 0.2% MoM in July (consensus 0.1%), versus a 0.3% gain in June."
+    },
+    {
+      "id": "mkt:01a03e0d-145f-7aab-912e-1c6df143b108",
+      "time": "2026-08-26 20:30:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US July PCE price index MoM 0.2% (consensus 0.1%; prior -0.1%)."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608263855015652",
+      "time": "2026-08-26 20:30:39",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月核心PCE環比增長0.2% 符合市場預期】美國7月核心個人消費支出價格指數環比增長0.2%，預估為0.2%，前值為0.1%。美國7月核心PCE同比增長3.3%，預估為3.3%，前值為3.3%。"
+    },
+    {
+      "id": "mkt:01a03e0d-145e-7aab-912e-11ed90212857",
+      "time": "2026-08-26 20:30:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US July nondefense capital goods orders excluding aircraft, m/m +0.2% vs +0.9% expected; prior revised up to +1.7% from +1.2%."
+    },
+    {
+      "id": "mkt:01a03e0d-1393-7aab-912d-fc438856c2e2",
+      "time": "2026-08-26 20:30:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US July PCE price index YoY 3.7% vs 3.6% est.; prior 3.7%."
+    },
+    {
+      "id": "mkt:01a03e0d-1393-7aab-912e-028a2e9f11fc",
+      "time": "2026-08-26 20:30:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US core PCE price index, July MoM +0.2% (consensus 0.20%; June +0.1%)."
+    },
+    {
+      "id": "mkt:01a03e0c-f77d-7aab-912d-f377513c66c3",
+      "time": "2026-08-26 20:30:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US Q2 real personal consumption expenditures (PCE) QoQ revised to 3.4% from 3.2%."
+    },
+    {
+      "id": "mkt:01a03e0d-1407-7aab-912e-0f206caf56f9",
+      "time": "2026-08-26 20:30:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Q2 final sales revised to a 2.2% annualized QoQ rate; consensus 2.2%, prior 2.2%."
+    },
+    {
+      "id": "5060303",
+      "time": "2026-08-26 20:30:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國第二季度GDP同比增長2.1%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608263855017135",
+      "time": "2026-08-26 20:30:21",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月個人支出環比增長0.2%，預估為0.1%，前值為0.3%"
+    },
+    {
+      "id": "mkt:01a03e0c-f218-7aab-912d-e8a6ba47fc91",
+      "time": "2026-08-26 20:30:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US core durable-goods orders (ex-transport) rose 0.4% MoM in July vs 0.6% expected; June revised up to 1.1% from 0.7%."
+    },
+    {
+      "id": "5060302",
+      "time": "2026-08-26 20:30:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月扣除飛機非國防資本耐用品訂單環比初值 0.2%，預期 0.7%，前值 1.2%。\n美國7月扣除飛機非國防資本耐用品訂單環比初值 0.2%，預期 0.7%，前值 1.2%。\n美國7月扣除運輸類耐用品訂單環比初值 0.4%，預期 0.6%，前值 0.7%。"
+    },
+    {
+      "id": "mkt:01a03e0c-b330-7aab-912d-e10c268371b0",
+      "time": "2026-08-26 20:30:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US core durable goods orders (ex-defense) rose 1.3% MoM in July; prior reading revised down from +0.5% to +0.3%."
+    },
+    {
+      "id": "mkt:01a03e0c-acd9-7aab-912d-d9d45c517e19",
+      "time": "2026-08-26 20:30:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PCE Price Index SAAR Revised (QoQ) (Q2) | actual 3.6% | consensus 3.4% | previous 3.40%"
+    },
+    {
+      "id": "mkt:01a03e0c-ac76-7aab-912d-d511db657834",
+      "time": "2026-08-26 20:30:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PCE Price Index SAAR Revised (QoQ) (Q2) | actual 5.3% | consensus 5.1% | previous 5.1%"
+    },
+    {
+      "id": "mkt:01a03e0c-a6fb-7aab-912d-cac9d1f8ab23",
+      "time": "2026-08-26 20:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Consumption Expenditures SAAR Revised (QoQ) (Q2) | actual 3.4% | previous 3.20%"
+    },
+    {
+      "id": "mkt:01a03e0c-a5ea-7aab-912d-c067928258ae",
+      "time": "2026-08-26 20:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PCE Price Index (YoY) (Jul) | actual 3.7% | consensus 3.60% | previous 3.70%"
+    },
+    {
+      "id": "mkt:01a03e0c-a4c3-7aab-912d-bab71fca7aa4",
+      "time": "2026-08-26 20:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PCE Price Index (YoY) (Jul) | actual 3.3% | consensus 3.30% | previous 3.30%"
+    },
+    {
+      "id": "mkt:01a03e0c-a189-7aab-912d-b32342f13aed",
+      "time": "2026-08-26 20:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Corporate Profits Annualized Revised (QoQ) (Q2) | actual 8.2% | previous 0.5%"
+    },
+    {
+      "id": "mkt:01a03e0c-a00a-7aab-912d-ae9273599a45",
+      "time": "2026-08-26 20:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Final Sales SAAR Revised (QoQ) (Q2) | actual 2.2% | consensus 2.2% | previous 2.2%"
+    },
+    {
+      "id": "mkt:01a03e0c-9f40-7aab-912d-a3655890a394",
+      "time": "2026-08-26 20:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "U.S. July durable goods orders MoM +1.1% vs expected +0.5%; prior +0.5%."
+    },
+    {
+      "id": "mkt:01a03e0c-9cd5-7aab-912d-9d0ee29986ed",
+      "time": "2026-08-26 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Real GDP Rate SAAR Revised (QoQ) (Q2) | actual 1.5% | consensus 1.50% | previous 1.50%"
+    },
+    {
+      "id": "mkt:01a03e0c-9c27-7aab-912d-91d2562d15ba",
+      "time": "2026-08-26 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PCE Price Index (MoM) (Jul) | actual 0.2% | consensus 0.20% | previous 0.10%"
+    },
+    {
+      "id": "mkt:01a03e0c-9a1e-7aab-912d-895f92099880",
+      "time": "2026-08-26 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PCE Price Index (MoM) (Jul) | actual 0.2% | consensus 0.10% | previous -0.10%"
+    },
+    {
+      "id": "mkt:01a03e0c-9a1d-7aab-912d-8072263ab682",
+      "time": "2026-08-26 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Consumption Expenditures (MoM) (Jul) | actual 0% | consensus 0% | previous 0.40%"
+    },
+    {
+      "id": "mkt:01a03e0c-9951-7aab-912d-7f1a49cbc765",
+      "time": "2026-08-26 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Spending (MoM) (Jul) | actual 0.2% | consensus 0.1% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a03e0c-98fb-7aab-912d-71422e4ac3c1",
+      "time": "2026-08-26 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Personal Income (MoM) (Jul) | actual 0.4% | consensus 0.20% | previous 0.20%"
+    },
+    {
+      "id": "5060301",
+      "time": "2026-08-26 20:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "美債扭轉跌勢，收益率跌至盤中低點。"
+    },
+    {
+      "id": "mkt:01a03e0c-8bb0-7aab-912d-6bc2d41c830a",
+      "time": "2026-08-26 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Excluding Aircraft and NonDefense Capital Goods (MoM) (Jul) | actual 0.2% | consensus 0.90% | previous 1.20%"
+    },
+    {
+      "id": "mkt:01a03e0c-8a1f-7aab-912d-637c2a912888",
+      "time": "2026-08-26 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Excluding Defense (MoM) (Jul) | actual 1.3% | previous 0.5%"
+    },
+    {
+      "id": "mkt:01a03e0c-8957-7aab-912d-5bf23d0fbaa8",
+      "time": "2026-08-26 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Excluding Transportation (MoM) (Jul) | actual 0.4% | consensus 0.6% | previous 0.70%"
+    },
+    {
+      "id": "mkt:01a03e0c-80d2-7aab-912d-50c184e839fd",
+      "time": "2026-08-26 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders (MoM) (Jul) | actual 1.1% | consensus 0.50% | previous 0.50%"
+    },
+    {
+      "id": "5060300",
+      "time": "2026-08-26 20:30:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化裝備：2026年上半年淨利潤虧損6559.4萬元，2025年同期虧損1837.59萬元】中化裝備公告，2026年上半年營業收入4.38億元，同比下降33.49%；歸屬於上市公司股東的淨利潤虧損6559.4萬元，2025年同期虧損1837.59萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損5669.83萬元，2025年同期虧損2681.48萬元。"
+    },
     {
       "id": "5060299",
       "time": "2026-08-26 20:29:27",
@@ -150431,288 +151104,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4440美元/盎司，日內漲0.44%。"
-    },
-    {
-      "id": "5048027",
-      "time": "2026-08-19 20:35:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "邁威爾股價盤前漲勢延續至12%。"
-    },
-    {
-      "id": "5048026",
-      "time": "2026-08-19 20:34:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金站上4380美元/盎司】現貨黃金站上4380美元/盎司，日內漲1.09%。"
-    },
-    {
-      "id": "mkt:01a01a04-5b09-7aab-9097-381c56f95242",
-      "time": "2026-08-19 20:34:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose $15 intraday to $4,379/oz."
-    },
-    {
-      "id": "5048025",
-      "time": "2026-08-19 20:34:43",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國財政部宣佈：將長期國債回購操作規模至少擴大一倍】美國財政部宣佈，將至少翻倍擴大長期名義附息國債（10-20年期、20-30年期品種）的流動性支援回購操作規模。單輪操作上限將從此前的20億美元提升至至少40億美元。 該調整自2026年9月9日生效，適用本續發季度剩餘期間（至2026年11月4日）。財政部將在定於2026年11月4日舉行的下一季度續發公告中披露後續回購規模的進一步資訊。 本次上調回購操作規模，體現財政部希望為長期名義國債板塊提供更強流動性支援；該板塊一直獲得市場參與者的踴躍參與，佐證是財政部在長期國債回購中持續收到大量高質量報價。 更新後的財政部回購暫定時間表將於後續釋出。"
-    },
-    {
-      "id": "5048024",
-      "time": "2026-08-19 20:34:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元下跌0.5%，報1美元兌158.81。"
-    },
-    {
-      "id": "5048023",
-      "time": "2026-08-19 20:34:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國不排除進一步制裁以色列定居者】法國外交部長巴羅今天（8月19日）在社交媒體上表示，法國不排除針對約旦河西岸以色列定居者採取進一步制裁措施，“所有選項都在考慮之中”。 巴羅表示，當前約旦河西岸發生的事情“令人不齒”，法國此前已推動對實施暴力的定居者以及為其提供支援的相關實體、企業和組織採取制裁。他表示，歐盟今年5月28日已第三次對有關以色列定居者實施制裁。 巴羅同時表示，以色列國家安全部長本-格維爾近期有關加沙的言論“令人無法接受且不人道”。法國此前已對本-格維爾實施制裁。（CCTV國際時訊）"
-    },
-    {
-      "id": "5048022",
-      "time": "2026-08-19 20:34:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破64美元/盎司，日內漲1.15%。"
-    },
-    {
-      "id": "5048021",
-      "time": "2026-08-19 20:34:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4380美元/盎司，日內漲1.11%。"
-    },
-    {
-      "id": "5048020",
-      "time": "2026-08-19 20:34:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報63.98美元/盎司。"
-    },
-    {
-      "id": "mkt:01a01a03-cedb-7aab-9097-32421858277b",
-      "time": "2026-08-19 20:34:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Zhongtian Rocket said 1H 2026 revenue rose 27.05% YoY to 383 mln yuan; net profit attributable to shareholders was 16.93 mln yuan, up 329.31% YoY."
-    },
-    {
-      "id": "5048019",
-      "time": "2026-08-19 20:34:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4379.96美元/盎司。"
-    },
-    {
-      "id": "5048018",
-      "time": "2026-08-19 20:34:07",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【2026年個人資訊保護系列專項行動督促4000餘款App等完成合規整改】2026年個人資訊保護系列專項行動開展以來，中央網信辦、工業和資訊化部、公安部會同相關部門強化協調聯動，累計對2萬餘款App、SDK個人資訊收集使用情況開展核查檢測，督促4000餘款完成合規整改，對400餘款採取下架等處置處罰措施。系列專項行動針對個人資訊處理規則未明確收集個人資訊用於廣告、使用者畫像，未提供個性化廣告關閉選項等問題，對1000餘家企業和機構的相關產品開展核查檢測並督促整改。開展教育、交通、衛生健康、金融等領域個人資訊風險排查，累計摸排9萬餘家企業和機構，發現並督促整改各類隱患問題1.2萬餘個。此外，還加大個人資訊違法犯罪打擊力度，加強線索監測發現，嚴打涉資訊洩露、資訊倒賣等違法犯罪行為，嚴懲行業“內鬼”。下一步，中央網信辦、工業和資訊化部、公安部將深入推進個人資訊保護系列專項行動，加強典型違法違規問題治理，加快推進國家網路身份認證公共服務推廣應用，深化個人資訊保護宣傳教育，不斷夯實個人資訊保護工作基礎，有效維護公民合法權益。（新華社）"
-    },
-    {
-      "id": "5048017",
-      "time": "2026-08-19 20:33:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錫業股份：2026年上半年淨利潤15.04億元，同比增41.60%】錫業股份公告，2026年上半年營業收入315.73億元，同比增長49.68%；歸屬於上市公司股東的淨利潤15.04億元，同比增長41.60%；歸屬於上市公司股東的扣除非經常性損益的淨利潤19.46億元，同比增長49.30%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5048016",
-      "time": "2026-08-19 20:33:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙城警察總部 致9死15傷】據巴勒斯坦方面訊息，以軍當地時間19日對加沙城警察總部發動空襲，已造成9人死亡，15人受傷。以軍對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "5048015",
-      "time": "2026-08-19 20:33:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "特拉華州：與谷歌合作，藉助 “與谷歌共成長” 專案擴大數字技能培訓規模。"
-    },
-    {
-      "id": "5048014",
-      "time": "2026-08-19 20:33:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奧比中光釋出無本體資料採集硬體矩陣與機器人視覺新品Physis系列】據奧比中光訊息，8月19日，在北京舉辦的2026世界機器人大會（WRC）首日，奧比中光舉行“多維感知”新品釋出會，無本體資料採集硬體矩陣首次集中亮相，機器人視覺新品Physis系列正式釋出。"
-    },
-    {
-      "id": "5048013",
-      "time": "2026-08-19 20:33:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4430美元/盎司，日內漲0.23%。"
-    },
-    {
-      "id": "5048012",
-      "time": "2026-08-19 20:33:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）披露檔案，人工智慧企業Arrive AI於2026年8月14日裁員20%，預計年化可節省成本152萬美元。"
-    },
-    {
-      "id": "mkt:01a01a02-6e25-7aab-9097-2ef24fb9aff9",
-      "time": "2026-08-19 20:32:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury announced it will increase issuance of nominal long-term Treasuries."
-    },
-    {
-      "id": "5048011",
-      "time": "2026-08-19 20:32:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "生物科技個股盤前大漲，因莫德納與默沙東聯合研發的黑色素瘤疫苗大型臨床試驗取得成功。拜恩泰科（BioNTech）的美股上漲17.4%，諾瓦瓦克斯（Novavax）上漲5.9%。"
-    },
-    {
-      "id": "5048010",
-      "time": "2026-08-19 20:31:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：應統一俄羅斯黨提議，地方財政預算將獲得額外扶持，預算貸款的還款期限將予以延後。"
-    },
-    {
-      "id": "mkt:01a01a01-bef6-7aab-9097-269de0604e72",
-      "time": "2026-08-19 20:31:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said that, following a United Russia proposal, local budgets will receive additional support and repayment deadlines for budget loans will be extended."
-    },
-    {
-      "id": "5048009",
-      "time": "2026-08-19 20:31:35",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部宣佈上調長期名義債券發行規模。"
-    },
-    {
-      "id": "mkt:01a01a01-5ad5-7aab-9097-1a396d8ed7a6",
-      "time": "2026-08-19 20:31:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AVGO.O",
-        "Impact bearish",
-        "MRVL.O",
-        "Impact bullish"
-      ],
-      "text": "Broadcom (AVGO.O) fell 3.4% in pre-market trading after Marvell struck a custom-chip deal with Google."
-    },
-    {
-      "id": "5048008",
-      "time": "2026-08-19 20:31:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "博通股價盤前下跌3.4%，此前邁威爾科技與谷歌達成定製晶片合作協議。"
-    },
-    {
-      "id": "mkt:01a01a01-2141-7aab-9097-15dd8d01ac94",
-      "time": "2026-08-19 20:31:16",
-      "tags": [
-        "MKT News",
-        "TEVA.O",
-        "Impact bullish"
-      ],
-      "text": "Teva Pharmaceutical’s new drug application for Ecopipam has been granted priority review by the FDA."
-    },
-    {
-      "id": "5048007",
-      "time": "2026-08-19 20:31:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "梯瓦 Ecopipam 三期臨床試驗將復發風險降低 53%。"
-    },
-    {
-      "id": "5048006",
-      "time": "2026-08-19 20:30:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲8月19日常備回購操作未收到任何投標，操作規模為零。"
-    },
-    {
-      "id": "5048005",
-      "time": "2026-08-19 20:30:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "梯瓦 Ecopipam 的 PDUFA 審評截止日期定為 2027 年第一季度  。"
-    },
-    {
-      "id": "mkt:01a01a00-95d3-7aab-9097-09cc4b53cf83",
-      "time": "2026-08-19 20:30:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "TEVA.O",
-        "Impact bullish"
-      ],
-      "text": "Chinese regulators have accepted Teva's new drug application and granted it priority review."
-    },
-    {
-      "id": "5048004",
-      "time": "2026-08-19 20:30:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "梯瓦的 Ecopipam 新藥申請獲美國 FDA 優先審評。"
     }
   ]
 }
