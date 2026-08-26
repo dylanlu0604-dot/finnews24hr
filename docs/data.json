@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-26 22:49:43",
-  "count": 16752,
+  "updated": "2026-08-26 22:54:18",
+  "count": 16745,
   "items": [
+    {
+      "id": "5060587",
+      "time": "2026-08-26 22:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）稱，美國煉油廠利用率在最新一週上升至2018年9月以來的最高水平。"
+    },
+    {
+      "id": "5060586",
+      "time": "2026-08-26 22:51:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織：剛果金埃博拉疫情尚未迎來拐點，儘管取得了一定進展，病例數仍在持續上升。"
+    },
+    {
+      "id": "5060585",
+      "time": "2026-08-26 22:51:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織官員：埃博拉本迪布焦病毒無變異跡象，烏干達疫情已結束。"
+    },
+    {
+      "id": "mkt:01a03e8d-daf3-7aab-9132-e19a9e3d1c44",
+      "time": "2026-08-26 22:51:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. refinery utilization rose last week to the highest level since September 2018."
+    },
+    {
+      "id": "5060584",
+      "time": "2026-08-26 22:51:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普尚未決定白宮新聞秘書人選，將由高階官員輪流主持】據報道，現任白宮新聞秘書卡羅琳·萊維特的最後工作日為本週五。截至目前，特朗普尚未敲定其繼任者人選。在過渡期間，白宮新聞簡報會的職責將採取臨時輪換機制，由多位政府高階官員輪流主持，而非由白宮新聞和通訊團隊的成員負責。白宮幕僚長蘇西·懷爾斯正在積極考察潛在的繼任人選，但目前尚未出現明確的領跑者。儘管CNN政治評論員斯科特·詹寧斯的名字曾被外界提及，但訊息人士透露他不太可能成為最終人選。與此同時，萊維特原有的整個團隊將予以保留，並轉為向白宮通訊聯絡辦公室主任史蒂文·張（Steven Cheung）彙報。其中，萊維特的執行助理基根·南格爾將轉任新聞協調員一職。離開白宮後，萊維特將重返特朗普的超級政治行動委員會（MAGA Inc.），並繼續擔任總統的主要外部顧問。據她本人透露，未來還將參與更多尚未對外公佈的活動。"
+    },
+    {
+      "id": "5060583",
+      "time": "2026-08-26 22:49:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "ERASCA股價飆升至盤中高點，漲幅超過8%。"
+    },
     {
       "id": "mkt:01a03e8b-7dcd-7aab-9132-de7e7ca2162d",
       "time": "2026-08-26 22:48:44",
@@ -151060,122 +151113,6 @@
         "國際"
       ],
       "text": "沙特外交部長：我們繼續致力於緩和局勢、防止緊張局勢再度升級，並重申外交與對話始終是我們的優先事項。"
-    },
-    {
-      "id": "5048326",
-      "time": "2026-08-19 22:54:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：打擊一個烏克蘭武裝部隊儲備的軍需物資倉庫。"
-    },
-    {
-      "id": "5048325",
-      "time": "2026-08-19 22:53:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中非共和國一金礦發生滑坡 逾百人遇難】據喀麥隆國家廣播電臺19日報道，中非共和國西部邊境地區一金礦18日發生滑坡，初步統計顯示有超過百人遇難。（新華社）"
-    },
-    {
-      "id": "mkt:01a01a83-9073-7aab-909b-6e4c65c0f3c9",
-      "time": "2026-08-19 22:53:44",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "DAX"
-      ],
-      "text": "Politico reports the EU is pushing to relax state-aid rules to allow subsidies for small media outlets."
-    },
-    {
-      "id": "5048324",
-      "time": "2026-08-19 22:53:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交部長：我們強調保護航運、確保霍爾木茲海峽、曼德海峽以及所有國際航道暢通安全的重要性。"
-    },
-    {
-      "id": "te:economy:576544",
-      "time": "2026-08-19 22:53:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Oil Inventories Rise for 3rd Week — US crude inventories rose by 4.405 million barrels to 428.8 million barrels in the week ended August 14, marking a third consecutive weekly increase. Crude stocks at the Cushing, Oklahoma, delivery hub fell by 1.314 million barrels in the week. Refinery crude runs rose by 216,000 barrels per day. Meanwhile, US gasoline stocks rose by 0.688 million barrels in the week to 209.4 million barrels. Distillate stockpiles, which include diesel and heating oil, fell by 1.53 million barrels to 105.6 million barrels. Net US crude imports fell by 1.754 million barrels per day."
-    },
-    {
-      "id": "5048323",
-      "time": "2026-08-19 22:52:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇索普：定增A股股票申請獲上交所受理】江蘇索普公告稱，公司於2026年8月19日收到上海證券交易所出具的通知，上交所對公司報送的滬市主機板上市公司發行證券的募集說明書及相關申請檔案進行核對後，認為申請檔案齊備、符合法定形式，決定受理公司向特定物件發行A股股票的申請並依法進行稽核。本次定增事項尚需經上交所稽核透過，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。"
-    },
-    {
-      "id": "5048322",
-      "time": "2026-08-19 22:52:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "據稱，KME將委託貝倫貝格銀行和義大利聯合信貸銀行協助其CUNOVA部門的IPO。"
-    },
-    {
-      "id": "5048321",
-      "time": "2026-08-19 22:51:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "傑克亨利公司股價上漲10.3%，此前第四季度盈利超預期。"
-    },
-    {
-      "id": "5048320",
-      "time": "2026-08-19 22:51:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲4%，現報5453.00元。"
-    },
-    {
-      "id": "mkt:01a01a81-07e3-7aab-909b-602cbe007c84",
-      "time": "2026-08-19 22:50:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "According to Interfax, Russia said it struck a merchant vessel at Ukraine's Chornomorsk port."
-    },
-    {
-      "id": "5048319",
-      "time": "2026-08-19 22:50:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯稱擊中停靠在烏克蘭切爾諾莫斯克港的一艘貨船。"
-    },
-    {
-      "id": "5048318",
-      "time": "2026-08-19 22:50:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【埃安Ray7全球首搭華為DriveONE晶片級驅制融合架構】8月19日，廣汽埃安全新車系Ray首款車型Ray7正式亮相，埃安還與華為簽約深化技術合作。Ray7定位中大型純電轎車，全球首搭華為DriveONE晶片級驅制融合架構及EMB全電線控制動系統，100km/h剎停距離33米。"
-    },
-    {
-      "id": "5048317",
-      "time": "2026-08-19 22:50:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【金與正：烏克蘭關於朝鮮增兵說法毫無根據】朝鮮勞動黨中央委員會部長金與正當天說，烏克蘭總統澤連斯基關於朝鮮向俄羅斯增兵參戰的說法毫無根據，完全是基輔的“自制劇”。（新華社）"
     }
   ]
 }
