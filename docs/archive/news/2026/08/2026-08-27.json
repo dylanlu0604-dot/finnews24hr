@@ -1,7 +1,27 @@
 {
   "date": "2026-08-27",
-  "count": 60,
+  "count": 62,
   "items": [
+    {
+      "id": "mkt:01a03efc-981a-7aab-9134-c388f90e9c6c",
+      "time": "2026-08-27 00:52:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "Iranian Foreign Minister Araghchi wrote to the United Nations urging the body to condemn the US \"economic isolation action\" and secondary sanctions announced on Aug. 24, and said Iran reserves the right to pursue accountability and seek compensation."
+    },
+    {
+      "id": "5060663",
+      "time": "2026-08-27 00:52:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌96美元，報14253美元/噸。LME期鋁收跌13美元，報3225美元/噸。LME期鋅收漲3美元，報3893美元/噸。"
+    },
     {
       "id": "mkt:01a03ef8-0655-7aab-9134-be1a7106bbac",
       "time": "2026-08-27 00:47:16",
