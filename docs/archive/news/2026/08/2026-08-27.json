@@ -1,7 +1,37 @@
 {
   "date": "2026-08-27",
-  "count": 291,
+  "count": 294,
   "items": [
+    {
+      "id": "mkt:01a03fb6-f8f4-7aab-9137-b05322b9203b",
+      "time": "2026-08-27 04:15:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "A judge approved a settlement between Meta Platforms (META.O) and multiple U.S. states in a social-media addiction lawsuit, according to court filings."
+    },
+    {
+      "id": "5060831",
+      "time": "2026-08-27 04:15:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠普公司預計第四財季調整後每股收益為 69 美分至 79 美分，此前預期為 67 美分。"
+    },
+    {
+      "id": "5060830",
+      "time": "2026-08-27 04:15:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠普公司第三財季淨營收156.8億美元，高於預期144.2億美元。"
+    },
     {
       "id": "5060825",
       "time": "2026-08-27 04:12:41",
