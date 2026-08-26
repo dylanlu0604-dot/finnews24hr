@@ -1,7 +1,42 @@
 {
   "date": "2026-08-27",
-  "count": 98,
+  "count": 102,
   "items": [
+    {
+      "id": "5060680",
+      "time": "2026-08-27 01:23:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 面向所有付費套餐推出 Chrome 端 Claude。"
+    },
+    {
+      "id": "mkt:01a03f17-5b2c-7aab-9135-73f42c8f9f67",
+      "time": "2026-08-27 01:21:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.3-magnitude earthquake strikes Colombia; depth 150 km】CENC reports a M5.3 earthquake occurred in Colombia at 00:45 on Aug 27 at 6.75°N, 73.08°W; hypocenter depth 150 km."
+    },
+    {
+      "id": "te:markets:578360",
+      "time": "2026-08-27 01:21:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 26-month High — Soybeans increased to 1251.00 USd/Bu, the highest since May 2024. Over the past 4 weeks, Soybeans gained 3.45%, and in the last 12 months, it increased 21.71%."
+    },
+    {
+      "id": "mkt:01a03f16-d398-7aab-9135-6a7b6a9bdf38",
+      "time": "2026-08-27 01:20:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said U.S. digital media company Puck is in talks with RedBird Capital on an investment that would value Puck at about $250 million."
+    },
     {
       "id": "5060679",
       "time": "2026-08-27 01:17:26",
