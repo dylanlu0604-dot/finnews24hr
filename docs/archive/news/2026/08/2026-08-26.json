@@ -1,7 +1,145 @@
 {
   "date": "2026-08-26",
-  "count": 3270,
+  "count": 3284,
   "items": [
+    {
+      "id": "mkt:01a03eb4-2881-7aab-9133-930e84d2b538",
+      "time": "2026-08-26 23:33:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-month Treasury auction Aug. 26 — allocation at the awarded yield 34.83% (prior 25.88%)."
+    },
+    {
+      "id": "mkt:01a03eb4-0d47-7aab-9133-8a11a557c745",
+      "time": "2026-08-26 23:33:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "U.S. 4-month Treasury auction Aug. 26: stop-out yield 3.75% (previous 3.75%)."
+    },
+    {
+      "id": "mkt:01a03eb3-e46d-7aab-9133-86ca29f57006",
+      "time": "2026-08-26 23:32:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.26) | actual 3.75% | previous 3.75%"
+    },
+    {
+      "id": "5060627",
+      "time": "2026-08-26 23:32:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.750%，投標倍數3.09。"
+    },
+    {
+      "id": "5060626",
+      "time": "2026-08-26 23:32:31",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣兩年期浮息國債（FRNS），貼現利率0.055%（7月29日為0.050%），投標倍數3.14。"
+    },
+    {
+      "id": "mkt:01a03eb3-9262-7aab-9133-792be596597b",
+      "time": "2026-08-26 23:32:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury auction Aug. 26 — bid-cover ratio 3.14, prior 3.35."
+    },
+    {
+      "id": "mkt:01a03eb3-733d-7aab-9133-76804d6e9ea4",
+      "time": "2026-08-26 23:32:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.26) | actual 3.14 | previous 3.35"
+    },
+    {
+      "id": "te:markets:578324",
+      "time": "2026-08-26 23:32:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures Lower — Arabica coffee futures eased toward $3.2 per pound, down from a recent one-month peak above $3.4 per pound, mainly due to profit-booking. Funds and investors took advantage of the recent advance to liquidate some of their long positions. Reports that some Brazilian warehouses are nearing capacity also pressured prices, as reduced storage space could force farmers to sell more beans. Nevertheless, the market continued to be supported by fundamentals considered positive, especially tight short-term availability and historically low certified stocks. In top producer Brazil, the harvest has gathered pace amid drier weather, though erratic conditions continue to raise concerns over next year’s crop. Fears of a strong El Niño also persisted, as the weather pattern could delay rainfall during the September-October flowering period."
+    },
+    {
+      "id": "mkt:01a03eb3-0fff-7aab-9133-6a691ca8b356",
+      "time": "2026-08-26 23:31:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Terra Charge plans to operate a nationwide network of 2,500 NACS chargers in Japan by fiscal 2033."
+    },
+    {
+      "id": "mkt:01a03eb2-f30c-7aab-9133-6201efa4dfe7",
+      "time": "2026-08-26 23:31:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Nikkei, Terra Charge will roll out charging stations using the North American Charging Standard (NACS) in the fiscal year beginning April 2028."
+    },
+    {
+      "id": "mkt:01a03eb1-d86f-7aab-9133-5abe8306ec04",
+      "time": "2026-08-26 23:30:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Japan's Terra Charge will roll out Tesla-compatible electric-vehicle charging stations."
+    },
+    {
+      "id": "5060625",
+      "time": "2026-08-26 23:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：片刻前，一艘名為 “ HAANA ” 的印度油輪試圖取道霍爾木茲海峽南部航線，即阿曼走廊，但在收到警告後被迫放棄通行。過去 24 小時內，霍爾木茲海峽南部航線未見船隻通行。"
+    },
+    {
+      "id": "mkt:01a03eb0-cc9c-7aab-9133-57b9c1be6057",
+      "time": "2026-08-26 23:29:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News reported the Indian oil tanker HAANA earlier attempted to transit the Strait of Hormuz's southern route, the so-called Oman corridor, but abandoned the passage after receiving a warning."
+    },
+    {
+      "id": "5060624",
+      "time": "2026-08-26 23:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本 Terra Charge 將推出適配特斯拉的電動汽車充電站，將於 2028 財年起安裝適配特斯拉標準的裝置。"
+    },
     {
       "id": "5060623",
       "time": "2026-08-26 23:25:48",
