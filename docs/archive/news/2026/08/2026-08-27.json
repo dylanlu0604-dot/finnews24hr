@@ -1,7 +1,38 @@
 {
   "date": "2026-08-27",
-  "count": 255,
+  "count": 258,
   "items": [
+    {
+      "id": "5060795",
+      "time": "2026-08-27 03:52:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "Okta股價迅速飆升至盤中高點，漲近3%。"
+    },
+    {
+      "id": "5060791",
+      "time": "2026-08-27 03:50:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西總檢察長表示，巴西政府起訴Discord，指控該公司不遵守保護兒童與女性的相關法律。"
+    },
+    {
+      "id": "mkt:01a03f9f-65bf-7aab-9137-749716357b40",
+      "time": "2026-08-27 03:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "NVIDIA will report quarterly results after the U.S. market close."
+    },
     {
       "id": "mkt:01a03f9d-77b3-7aab-9137-690f330b8f55",
       "time": "2026-08-27 03:47:59",
