@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-27 04:42:40",
-  "count": 16669,
+  "updated": "2026-08-27 04:46:41",
+  "count": 16674,
   "items": [
+    {
+      "id": "5060886",
+      "time": "2026-08-27 04:45:11",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "英偉達：8月公司與多家大型資本提供商達成諒解備忘錄，將合作打造獨立融資平臺，以籌措超5000億美元第三方資本。"
+    },
+    {
+      "id": "mkt:01a03fd1-6cd3-7aab-9138-3e9d0d1ede90",
+      "time": "2026-08-27 04:44:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) recorded a $400m charge in 1H for excess H200 inventory."
+    },
+    {
+      "id": "5060885",
+      "time": "2026-08-27 04:44:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【市場反應冷淡 英偉達超預期的財測沒能讓所有投資者都感到滿意】英偉達釋出的營收展望令一些投資者感到失望，加劇了市場對人工智慧支出勢頭何以為繼的擔憂。該公司週三在公告中預計，本財季營收將達到1080億美元，且可能上下浮動2%。彙總的資料顯示，儘管分析師平均預估為1052億美元，但一些人的期望值超過了1100億美元。扣除生產成本後的營收比例，即毛利率約在74%。財測公佈後英偉達股價在盤後交易中下跌近3%。市場冷淡的反應凸顯了投資者對人工智慧熱與日俱增的疑慮。歷經數年的高速增長後一些投資者開始擔憂潛在的泡沫。英偉達與人工智慧經濟領域眾多公司達成的投資協議也引起憂慮，有人擔心迴圈交易可能會使整個行業更加不穩定。"
+    },
+    {
+      "id": "5060884",
+      "time": "2026-08-27 04:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：上半年因H200庫存過剩計提4億美元損失。"
+    },
+    {
+      "id": "mkt:01a03fd0-b036-7aab-9138-308e74132a76",
+      "time": "2026-08-27 04:43:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O): One direct customer accounted for 16% of total revenue in Q2."
+    },
+    {
+      "id": "mkt:01a03fd0-b02c-7aab-9138-29210a72016c",
+      "time": "2026-08-27 04:43:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【NVIDIA's Jensen Huang: AI at inflection point; compute equals revenue】Jensen Huang said AI has reached an inflection point, with generated tokens now driving productivity and profit and compute effectively equating to revenue. Demand for compute is accelerating: what was once driven mainly by a single AI lab has become a wave of new AI labs and startups scaling concurrently, open-model ecosystems expanding, and applied AI moving into production. AI infrastructure build-out is running at full speed globally, and NVIDIA’s Vera Rubin cluster is now fully operational and purpose-built for this moment."
+    },
+    {
+      "id": "5060883",
+      "time": "2026-08-27 04:43:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：上半年總營收的44%來自三家直接客戶。"
+    },
     {
       "id": "5060877",
       "time": "2026-08-27 04:41:23",
@@ -150262,26 +150339,6 @@
         "Importance 0"
       ],
       "text": "Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%."
-    },
-    {
-      "id": "5048615",
-      "time": "2026-08-20 04:44:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞天然氣行業協會（NATURGAS）：預計 2026 年哥倫比亞天然氣行業投資將增長 17%，達到 10.3 億美元。"
-    },
-    {
-      "id": "te:markets:576609",
-      "time": "2026-08-20 04:43:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rebounds After Eleven-Day Losing Streak — The Ibovespa rose 0.9% to close at 167,830 on Wednesday, rebounding from eleven consecutive days of losses amid a stabilization in global bond yields. Yields in major economies declined after the US Treasury said it would double long-term security buybacks. Financials were mostly higher, with Itaú up 0.5%, Banco do Brasil adding 1.6% and B3 rising 0.8%. Petrobras gained 1.2% as oil futures rose for a fourth consecutive session amid fading prospects for a deal to end the conflict in the Middle East. Vale rose 0.8% amid iron ore supply concerns following failed wage negotiations between BHP and workers in Port Hedland, while CSN Mineração gained 2.2%. Meanwhile, steelmakers posted losses, with Gerdau tumbling 5.2% and CSN down 2.4%. Axia added 1.8% following its share buyback results and a buy recommendation from Itaú BBA. Embraer erased earlier gains after Itaú BBA raised its price target, closing 0.2% lower. Other notable performers included Rede D’Or (+2.6%) and Sabesp (+1%)."
     }
   ]
 }
