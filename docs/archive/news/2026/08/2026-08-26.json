@@ -1,7 +1,482 @@
 {
   "date": "2026-08-26",
-  "count": 1513,
+  "count": 1566,
   "items": [
+    {
+      "id": "5059356",
+      "time": "2026-08-26 15:52:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【君禾股份：2026年上半年淨利潤3257.73萬元，同比增長5.09%】君禾股份公告，2026年上半年營業收入6.96億元，同比增長20.35%；歸屬於上市公司股東的淨利潤3257.73萬元，同比增長5.09%，2025年同期為3099.93萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2456.85萬元，同比下降5.02%。"
+    },
+    {
+      "id": "mkt:01a03d0e-671b-7aab-9126-c8dd0e4681c5",
+      "time": "2026-08-26 15:52:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Amazon",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Sources say Moonshot AI is negotiating revenue-sharing deals with Microsoft, Amazon and Google for its Kimi K3 AI model, seeking up to a 30% share of revenues from K3-related services in early talks."
+    },
+    {
+      "id": "5059355",
+      "time": "2026-08-26 15:51:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇華辰：2026年上半年淨利潤虧損319.05萬元，同比由盈轉虧】江蘇華辰公告，2026年上半年營業收入7.33億元，同比下降21.89%；歸屬於上市公司股東的淨利潤虧損319.05萬元，2025年同期為4727.22萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損511.64萬元，2025年同期為4248.24萬元，同比由盈轉虧。"
+    },
+    {
+      "id": "5059354",
+      "time": "2026-08-26 15:51:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指BIST-100指數上漲1.2%，主要銀行指數上漲2.7%。"
+    },
+    {
+      "id": "5059353",
+      "time": "2026-08-26 15:51:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，Moonshot AI正就Kimi K3人工智慧模型與微軟、亞馬遜、谷歌開展收入分成談判。"
+    },
+    {
+      "id": "mkt:01a03d0d-322d-7aab-9126-c5647aa74e68",
+      "time": "2026-08-26 15:51:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shipping data show a tanker carrying 4 mln barrels of Saudi crude is conducting a ship-to-ship transfer in the Sea of Oman, cargo bound for Asia."
+    },
+    {
+      "id": "mkt:01a03d0c-5e16-7aab-9126-b939a4fd9932",
+      "time": "2026-08-26 15:50:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Investors in Xiyin have agreed to a six-month lock-up on their IPO shares."
+    },
+    {
+      "id": "mkt:01a03d0c-38ef-7aab-9126-b0f1a2729cfb",
+      "time": "2026-08-26 15:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "Swiss Aug ZEW investor confidence index and LME copper, aluminium and nickel stock changes in UK warehouses to Aug 26 due in 10 minutes."
+    },
+    {
+      "id": "5059352",
+      "time": "2026-08-26 15:49:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長春燃氣：2026年上半年淨利潤虧損2178.93萬元，2025年同期虧損5508.47萬元】長春燃氣公告，2026年上半年營業收入11.84億元，同比增長11.10%；歸屬於上市公司股東的淨利潤虧損2178.93萬元，2025年上半年虧損5508.47萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2921.57萬元，2025年上半年虧損6644.16萬元。公司2026年半年度不進行現金紅利分配，不進行資本公積轉增股本。"
+    },
+    {
+      "id": "5059351",
+      "time": "2026-08-26 15:49:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晨光新材：2026年上半年淨利潤虧損3886.1萬元，2025年上半年虧損428.99萬元】晨光新材公告，2026年上半年營業收入6.77億元，同比增長30.86%；歸屬於上市公司股東的淨利潤虧損3886.1萬元，2025年上半年虧損428.99萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4178.05萬元，2025年上半年虧損3464.14萬元。公司2026年半年度報告未經審計。"
+    },
+    {
+      "id": "5059350",
+      "time": "2026-08-26 15:49:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安潔科技：全資子公司以1026.2萬元競得工業用地】安潔科技公告，公司此前披露全資子公司安潔智慧擬參與競拍蘇吳國土2026-WG-04號國有建設用地使用權；近日安潔智慧最終以人民幣1026.2萬元競得該宗地，並簽署《國有建設用地使用權網上掛牌出讓成交確認書》。該地塊用地面積30541.7㎡，土地用途為工業用地，土地使用權出讓年限50年。"
+    },
+    {
+      "id": "5059349",
+      "time": "2026-08-26 15:49:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報79.89美元/桶。"
+    },
+    {
+      "id": "5059348",
+      "time": "2026-08-26 15:49:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【岳陽林紙：2026年上半年淨利潤虧損975.12萬元，同比由盈轉虧】岳陽林紙公告，2026年上半年營業收入39.54億元，同比下降11.69%；歸屬於上市公司股東的淨利潤虧損975.12萬元，2025年同期為1.43億元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1308.98萬元，2025年同期為1.23億元，同比由盈轉虧。公司本報告期不進行現金分紅、不送紅股、不以公積金轉增股本。"
+    },
+    {
+      "id": "5059347",
+      "time": "2026-08-26 15:48:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景旺電子：持續與全球各大雲伺服器廠商進行接洽 預計2027年獲得更多積極進展】就“預計什麼時候能看到一些北美超大型雲廠商客戶的進展？”的提問，景旺電子(603228)8月23日接受機構調研時表示，截至2026年上半年末，公司已透過多家國內外主流伺服器及雲伺服器廠商的認證，並逐步實現量產出貨。公司持續與全球各大雲伺服器廠商進行深度接洽和溝通，隨著公司新增高階產能的落地，預計會在2027年獲得更多積極進展。"
+    },
+    {
+      "id": "5059346",
+      "time": "2026-08-26 15:48:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國出口業信心顯著改善 升至逾四年最高】德國智庫Ifo週三表示，德國出口行業信心顯著改善，升至2022年2月以來最高水平。根據對製造商進行的調查，Ifo出口預期指數從7月的-2.8點升至8月的9.6點。Ifo的Klaus Wohlrabe表示：“出口行業正在加速增長。尤其是對歐盟的出口正在蓬勃增長。”由於經濟數字化程度不斷提高以及人工智慧領域投資高企，電氣裝置製造商繼續保持非常樂觀的態度，資料處理裝置以及電子和光學產品製造商同樣如此。Ifo表示，汽車行業和金屬製品製造商對出口前景也比此前樂觀得多。相比之下，紙行業以及金屬生產和加工企業預計出口將下降。"
+    },
+    {
+      "id": "mkt:01a03d0a-8c39-7aab-9126-a9cf63286122",
+      "time": "2026-08-26 15:48:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【German export-sector confidence jumps to highest since Feb 2022】Ifo Institute said Wednesday that German export-sector confidence rose sharply to its highest level since February 2022. Its export expectations index from a manufacturers’ survey climbed from -2.8 in July to 9.6 in August. Ifo said exports are accelerating, led by robust demand to the EU. Electrical-equipment, data-processing, electronics and optical-products makers are particularly upbeat amid increased digitisation and AI investment. Automotive and fabricated-metal goods firms also showed notably improved export sentiment, while paper and metal production/processing firms expect export declines."
+    },
+    {
+      "id": "5059345",
+      "time": "2026-08-26 15:48:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【群智研究：8月LCD TV面板價格依然維持下降趨勢，但降幅有望逐步收窄】八月正值海外促銷季備貨期，品牌需求和麵板供應雙向恢復，電視面板上下游廠商圍繞利潤目標展開策略博弈。需求側，旺季備貨、材料漲價共同構成品牌短期採購需求走強的核心要素，但代工市場需求則持續轉弱。首先，三季度是黑五等年終大促備貨的主要視窗期，品牌採購增加，尤其大尺寸需求持續穩健。其次，PCBA等材料漲幅擴大，品牌備貨節奏被動前移。再次，在臺灣面板廠產能轉型的預期之下，品牌啟動面板備貨策略的調整。以上多重因素疊加，頭部品牌八月需求強勁，儘管二線市場需求走弱，但在品牌需求及大尺寸需求支撐下，三季度面板面積基準需求好於預期。在此基礎上，八月中國大陸面板廠商產能供應增加至高位水平，臺灣廠商維持穩定。 根據群智諮詢(Sigmaintell)資料顯示，8月LCD TV面板價格依然維持下降趨勢，但降幅有望逐步收窄。"
+    },
+    {
+      "id": "5059344",
+      "time": "2026-08-26 15:47:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守80美元/桶，日內跌2.87%。"
+    },
+    {
+      "id": "te:markets:578187",
+      "time": "2026-08-26 15:47:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound — The CAC 40 climbed 0.5% to 8,483 on Wednesday, ending two straight sessions of losses as hopes for a near-term reopening of the Strait of Hormuz boosted risk appetite. Oil prices eased after Iran said it had resumed discussions with Oman on managing traffic through the strategic waterway, after heightened economic pressure from US President Trump amid the broader conflict. However, investor caution lingered ahead of Fitch's rating review of France on August 28, while markets also closely watched budget negotiations and the approaching presidential election cycle. Prime Minister Sébastien Lecornu’s minority government is expected to unveil its full budget proposal in late September, but the fiscal outlook remains uncertain as political attention increasingly shifts toward the highly contested presidential race. Luxury stocks led the advance, particularly LVMH (1.2%), Hermès (1.5%), and Kering (1.8%). Other gainers included Airbus (1.3%), Safran (1.6%), and Saint-Gobain (1.2%)."
+    },
+    {
+      "id": "5059343",
+      "time": "2026-08-26 15:47:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示：400萬桶沙特原油在阿曼外海完成船過船過駁轉裝。"
+    },
+    {
+      "id": "mkt:01a03d09-7356-7aab-9126-a24819e9fa44",
+      "time": "2026-08-26 15:47:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【CPCA: Aug 1-23 China passenger car NEV retail 614,000 units, down 12% YoY】CPCA reported Aug 1-23 China passenger car retail sales of 956,000 units, down 22% YoY and down 2% versus the same period in July; year-to-date retail stood at 11.129 mln units, down 20% YoY. NEV passenger car retail reached 614,000 units in Aug 1-23, down 12% YoY and down 2% versus the same period in July; year-to-date NEV retail was 6.283 mln units, down 12% YoY. NEV retail penetration was 64.3% and manufacturer wholesale NEV penetration was 70.5% for Aug 1-23."
+    },
+    {
+      "id": "5059342",
+      "time": "2026-08-26 15:46:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "廣期所品種倉單及變化如下：碳酸鋰期貨倉單43100手，環比上個交易日增加1160手；多晶矽期貨倉單23240手，環比上個交易日減少10手；工業矽期貨倉單33535手，環比上個交易日持平。"
+    },
+    {
+      "id": "5059341",
+      "time": "2026-08-26 15:46:11",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：8月1-23日全國乘用車新能源市場零售61.4萬輛 同比去年8月同期下降12%】乘聯分會發布資料，8月1-23日，全國乘用車市場零售95.6萬輛，同比去年8月同期下降22%，較上月同期下降2%，今年以來乘用車累計零售1,112.9萬輛，同比下降20%；8月1-23日，全國乘用車新能源市場零售61.4萬輛，同比去年8月同期下降12%，較上月同期下降2%，今年以來累計零售628.3萬輛，同比下降12%。8月1-23日，全國乘用車市場新能源零售滲透率64.3%；8月1-23日，全國乘用車廠商新能源批發滲透率70.5%。"
+    },
+    {
+      "id": "5059340",
+      "time": "2026-08-26 15:46:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國電子產業投資突破300億美元，全力進軍下一代晶片與人工智慧領域。"
+    },
+    {
+      "id": "5059339",
+      "time": "2026-08-26 15:45:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錢江生化：2026年上半年淨利潤7776.48萬元，同比下降27.40%】錢江生化公告，2026年上半年營業收入7.33億元，同比下降5.95%；歸屬於上市公司股東的淨利潤7776.48萬元，同比下降27.40%，2025年同期為1.07億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7760.81萬元，同比增長36.77%。"
+    },
+    {
+      "id": "5059338",
+      "time": "2026-08-26 15:45:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景旺電子：3條mSAP產線已實現良好執行 第4條線將在近1—2周內安裝完畢】景旺電子(603228)8月23日接受機構調研時表示，2025年底，公司判斷光模組mSAP產能或將面臨巨大瓶頸，於是決策在SLP工廠增加mSAP產線。目前公司的3條mSAP產線已實現良好執行，產能利用率較高，第4條線將在近1—2周內安裝完畢，第5條線在10月基本安裝完畢。得益於此前多年的積累，公司新建mSAP產線的產能爬坡和良率提升較為順利。"
+    },
+    {
+      "id": "5059337",
+      "time": "2026-08-26 15:44:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唐山港：擬投資1.61億元建設京唐港區化肥庫房專案】唐山港公告稱，公司八屆二十一次董事會審議透過多項議案：同意報出2026年半年度報告全文及摘要；透過對河北港口集團財務有限公司的風險持續評估報告，關聯董事王建國迴避表決；透過2026年度“提質增效重回報”行動方案半年度評估報告；同意向河北省慈善總會捐贈5萬元用於事實無人撫養兒童助學工程；同意投資建設唐山港京唐港區化肥庫房專案，專案投資估算約1.61億元。"
+    },
+    {
+      "id": "5059335",
+      "time": "2026-08-26 15:44:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊克電氣：2026年上半年淨利潤2.32億元，同比下降45.80%】萊克電氣公告，2026年上半年營業收入46.57億元，同比下降2.60%；歸屬於上市公司股東的淨利潤2.32億元，同比下降45.80%；歸屬於上市公司股東的扣除非經常性損益的淨利潤498.46萬元，同比下降98.80%。業績下降主要系匯兌損益影響，2026年上半年匯兌損失3.89億元，2025年同期匯兌收益1746.26萬元。"
+    },
+    {
+      "id": "5059334",
+      "time": "2026-08-26 15:44:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "欽奈石油高管：因中東危機影響供應，增加從俄羅斯和西非的石油進口。"
+    },
+    {
+      "id": "mkt:01a03d06-c4d0-7aab-9126-9d9bcd48f7d5",
+      "time": "2026-08-26 15:44:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guodian NARI 1H net profit attributable 3.073 bln yuan, +4.08% YoY】Guodian NARI disclosed 1H results on Aug 26: revenue 27.767 bln yuan, +14.54% YoY; net profit attributable to shareholders 3.073 bln yuan, +4.08% YoY; basic EPS 0.38 yuan. Company proposed cash dividend of 0.153 yuan per share (tax included)."
+    },
+    {
+      "id": "5059333",
+      "time": "2026-08-26 15:44:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【耀皮玻璃：2026年上半年淨利潤3396.6萬元，同比下降60.67%】耀皮玻璃公告，2026年上半年營業收入26.28億元，同比增長0.37%；歸屬於上市公司股東的淨利潤3396.6萬元，同比下降60.67%，2025年同期為8636.6萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2316.98萬元，同比下降71.91%，2025年同期為8249.61萬元。"
+    },
+    {
+      "id": "5059332",
+      "time": "2026-08-26 15:44:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信雅達：2026年上半年虧損7757.21萬元，2025年同期虧損5263.5萬元】信雅達公告，2026年上半年營業收入8.78億元，同比增長1.99%；歸屬於上市公司股東的淨利潤虧損7757.21萬元，2025年同期虧損5263.5萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損9899.42萬元，2025年同期虧損7532.61萬元。"
+    },
+    {
+      "id": "5059331",
+      "time": "2026-08-26 15:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月26日15時42分，影片《歡迎來龍餐館》票房突破17億。"
+    },
+    {
+      "id": "5059330",
+      "time": "2026-08-26 15:43:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國法院將於9月28日就選票溯源案件作出裁決。"
+    },
+    {
+      "id": "mkt:01a03d06-0f99-7aab-9126-92cf78898a11",
+      "time": "2026-08-26 15:43:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Typhoon disrupts South China Sea shipping, lifts freight and iron ore futures】Typhoon Zitan disrupted South China Sea shipping routes, raising freight and pushing iron ore futures higher. Singapore Exchange benchmark September iron ore futures rose 1.04% on Wednesday to $98.15 per tonne. Higher freight typically supports seaborne iron ore prices, but analysts said widening steelmaker losses have slowed production and mill inventories remain relatively high, capping further upside for ore."
+    },
+    {
+      "id": "mkt:01a03d05-ebcc-7aab-9126-8c5b185c1dcf",
+      "time": "2026-08-26 15:43:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Market sources: Japan will support construction of pipeline facilities outside the Strait of Hormuz and plans to provide additional support for shipping costs."
+    },
+    {
+      "id": "5059329",
+      "time": "2026-08-26 15:42:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錢江水利：2026年上半年淨利潤1.08億元，同比增長2.26%】錢江水利公告，2026年上半年營業收入11.15億元，同比增長5.92%；歸屬於上市公司股東的淨利潤1.08億元，同比增長2.26%，上年同期1.06億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤8241.63萬元，同比下降0.47%。本報告未經審計。"
+    },
+    {
+      "id": "5059328",
+      "time": "2026-08-26 15:41:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基向埃隆·馬斯克授予自由勳章。"
+    },
+    {
+      "id": "mkt:01a03d04-a20d-7aab-9126-86e5dec2f4e5",
+      "time": "2026-08-26 15:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian media reported President Zelenskiy awarded Elon Musk the Order of Liberty, one of Ukraine's highest state honors."
+    },
+    {
+      "id": "5059327",
+      "time": "2026-08-26 15:41:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋼洛耐：2026年上半年淨利潤虧損8563.88萬元，同比由盈轉虧】中鋼洛耐公告，2026年上半年營業收入9.66億元，同比下降4.42%；歸屬於上市公司股東的淨利潤虧損8563.88萬元，上年同期為3262.47萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.03億元，上年同期虧損1666.8萬元。"
+    },
+    {
+      "id": "5059326",
+      "time": "2026-08-26 15:41:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波富達：2026年上半年淨利潤1.18億元，同比增長1.78%】寧波富達公告，2026年上半年營業收入6.11億元，同比下降17.79%；歸屬於上市公司股東的淨利潤1.18億元，同比增長1.78%，2025年上半年為1.16億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤9703.43萬元，同比下降1.63%。本半年度報告未經審計。"
+    },
+    {
+      "id": "mkt:01a03d03-f3af-7aab-9126-781eda8b8903",
+      "time": "2026-08-26 15:41:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Dutch gas storage unlikely to hit target, raising winter supply risk】Gasunie, the Dutch gas grid operator, said the Netherlands will not meet its 115 billion kWh storage target before winter because summer refilling is not commercially viable, leaving the country underprepared for exceptionally cold weather or sudden supply outages. Data from Gas Infrastructure Europe show Dutch storage at about 45% of capacity — the lowest for the season since records began in 2009 and well below the five‑year average of 73%. Gasunie said missing the target does not necessarily mean winter shortages or immediate security risk, but without additional measures the Netherlands would be unable to cope with an unusually severe winter. German gas storage is also at seasonal lows; grid operators and policymakers have warned of winter risk amid thin buffer stocks after recent price spikes and supply disruptions."
+    },
+    {
+      "id": "5059325",
+      "time": "2026-08-26 15:40:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本將支援建設霍爾木茲海峽以外線路的管道設施。"
+    },
+    {
+      "id": "5059323",
+      "time": "2026-08-26 15:40:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣辦公室：計劃實現石油採購來源多元化。"
+    },
+    {
+      "id": "5059322",
+      "time": "2026-08-26 15:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣辦公室在檔案中公佈能源計劃細節，擬對額外航運成本提供扶持。"
+    },
+    {
+      "id": "5059321",
+      "time": "2026-08-26 15:40:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：第四季度通脹率可能超出目標區間。"
+    },
+    {
+      "id": "mkt:01a03d03-2cdb-7aab-9126-748ce3f12f4b",
+      "time": "2026-08-26 15:40:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong chief meets Peking University leader on Northern Metropolis university town】Hong Kong Chief Executive John Lee met Peking University Party secretary He Guangcai to discuss accelerating Northern Metropolis development and mainland–Hong Kong higher-education cooperation. Lee said the SAR government is speeding up Northern Metropolis plans and has reserved land for a university town to expand and upgrade higher education, research capacity and talent training, aiming to attract international high-end talent. The two discussed university-town development models; Peking University expressed active support for deeper Beijing–Hong Kong university cooperation and continuation of the Beijing–Hong Kong University Alliance to cultivate globally competitive talent."
+    },
+    {
+      "id": "5059320",
+      "time": "2026-08-26 15:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唐山港：2026年上半年淨利潤10.08億元，同比增長13.97%】唐山港公告，2026年上半年營業收入29.87億元，同比增長15.18%；歸屬於上市公司股東的淨利潤10.08億元，同比增長13.97%，上年同期為8.85億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤10.06億元，同比增長15.20%。公司擬定2026年半年度不進行利潤分配，也不進行資本公積轉增股本。"
+    },
+    {
+      "id": "mkt:01a03d02-4299-7aab-9126-6b662658f726",
+      "time": "2026-08-26 15:39:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Foreign Ministry: SCO Bishkek summit to set plans for participation in global governance reform】China announced Xi will attend the 2026 Shanghai Cooperation Organization (SCO) summit in Bishkek. Foreign Ministry spokesman Lin Jian said at a regular briefing that during this year’s Bishkek summit Xi will exchange views with participating leaders on deepening SCO cooperation across sectors and on major international and regional issues, and will outline planning and deployment to steer SCO’s high‑quality development and its participation in reform and construction of the global governance system. China said it will work with partners at the summit to consolidate consensus and support regional security, stability and development."
+    },
+    {
+      "id": "5059319",
+      "time": "2026-08-26 15:38:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆力石化：副總經理黃旭東因個人原因辭職】恆力石化8月26日公告，公司董事會當天收到公司副總經理黃旭東提交的書面辭職函，黃旭東因個人原因申請辭去公司副總經理職務，其原定任期到期日為2028年8月21日。根據有關規定，黃旭東的辭職申請自送達董事會之日生效。辭去上述職務後，黃旭東在公司及控股子公司無任職。"
+    },
+    {
+      "id": "5059317",
+      "time": "2026-08-26 15:38:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國電南瑞：2026年上半年淨利潤30.73億元，同比增長4.08%】國電南瑞公告，2026年上半年營業收入277.67億元，同比增長14.54%；歸屬於上市公司股東的淨利潤30.73億元，2025年上半年為29.52億元，同比增長4.08%；歸屬於上市公司股東的扣除非經常性損益的淨利潤29.25億元，同比增長4.31%。公司擬每股派發現金紅利0.153元（含稅），擬派發現金紅利12.22億元（含稅）。"
+    },
+    {
+      "id": "5059316",
+      "time": "2026-08-26 15:38:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創新新材：2026年上半年淨利潤3.96億元，同比增長11.67%】創新新材公告，2026年上半年營業收入435.43億元，同比增長11.25%；歸屬於上市公司股東的淨利潤3.96億元，同比增長11.67%，上年同期3.55億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.31億元，同比增長7.62%，上年同期3.08億元。本半年度報告未經審計。"
+    },
+    {
+      "id": "5059315",
+      "time": "2026-08-26 15:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超與何光彩會面交流教育合作】今日（26日），香港特區行政長官李家超與北京大學黨委書記何光彩會面，就推動香港與內地高等教育合作、培育國際人才及加強科研協作等議題交流意見。 李家超表示，特區政府正著力提速推進北部都會區發展，並已預留充足土地規劃大學城，透過提質擴容，完善高等教育、科研創新及人才培訓配套，吸引更多國際高階人才匯聚香港。北京大學是國家的頂尖學府，學術實力雄厚、科研資源豐富，成績輝煌。他感謝北大支援北都大學城發展，歡迎北大多與香港本地大學合作，強強聯手、協同發展。 會面期間，雙方就北都大學城的發展模式交流意見。聽到北大對深化京港高等教育合作的積極支援，李家超感到非常鼓舞。 李家超指出，他十分期待北京大學與香港高校繼續透過京港大學聯盟深化合作，進一步促進兩地大學優勢互補，為國家和香港培育更多具全球競爭力的高階人才。 （大灣區之聲）"
+    },
     {
       "id": "mkt:01a03d01-194c-7aab-9126-639efdb6ea1c",
       "time": "2026-08-26 15:37:57",
