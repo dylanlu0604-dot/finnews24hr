@@ -1,7 +1,121 @@
 {
   "date": "2026-08-27",
-  "count": 294,
+  "count": 304,
   "items": [
+    {
+      "id": "5060837",
+      "time": "2026-08-27 04:21:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：將於2026年10月1日向截至2026年9月10日登記在冊的全體股東派付每股0.25美元的季度現金股息。"
+    },
+    {
+      "id": "mkt:01a03fbc-13ec-7aab-9137-c670fbec6e22",
+      "time": "2026-08-27 04:21:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) guides FY2027 Q3 revenue at $108.0 bln, versus market expectation of $104.2 bln."
+    },
+    {
+      "id": "5060835",
+      "time": "2026-08-27 04:20:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達二季度營收962億美元，分析師預期923.8億美元。資料中心營收890億美元，分析師預期858.6億美元。英偉達盤後漲0.68%。"
+    },
+    {
+      "id": "5060834",
+      "time": "2026-08-27 04:20:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達第二季度資料中心營收890億美元，預期858.6億美元。"
+    },
+    {
+      "id": "mkt:01a03fbb-5b1f-7aab-9137-bec5d6cc1091",
+      "time": "2026-08-27 04:20:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) reported FY2027 Q2 revenue of $96.2 bln, versus $81.615 bln a year earlier; market expected $92.012 bln."
+    },
+    {
+      "id": "5060833",
+      "time": "2026-08-27 04:18:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "惠普公司股價盤後下跌4%。"
+    },
+    {
+      "id": "te:markets:578370",
+      "time": "2026-08-27 04:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Veeva Systems earnings above expectations at 2.35 USD — Veeva Systems (VEEV) released earnings per share at 2.35 USD, compared to market expectations of 2.22 USD."
+    },
+    {
+      "id": "te:markets:578369",
+      "time": "2026-08-27 04:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Agilent earnings above expectations at 1.62 USD — Agilent (A) released earnings per share at 1.62 USD, compared to market expectations of 1.49 USD."
+    },
+    {
+      "id": "te:markets:578368",
+      "time": "2026-08-27 04:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Synopsys earnings above expectations at 3.91 USD — Synopsys (SNPS) released earnings per share at 3.91 USD, compared to market expectations of 3.67 USD."
+    },
+    {
+      "id": "te:markets:578367",
+      "time": "2026-08-27 04:17:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CrowdStrike Holdings earnings above expectations at 0.31 USD — CrowdStrike Holdings (CRWD) released earnings per share at 0.31 USD, compared to market expectations of 0.29 USD."
+    },
     {
       "id": "mkt:01a03fb6-f8f4-7aab-9137-b05322b9203b",
       "time": "2026-08-27 04:15:50",

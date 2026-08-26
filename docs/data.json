@@ -1,7 +1,121 @@
 {
-  "updated": "2026-08-27 04:18:09",
-  "count": 16641,
+  "updated": "2026-08-27 04:22:13",
+  "count": 16647,
   "items": [
+    {
+      "id": "5060837",
+      "time": "2026-08-27 04:21:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：將於2026年10月1日向截至2026年9月10日登記在冊的全體股東派付每股0.25美元的季度現金股息。"
+    },
+    {
+      "id": "mkt:01a03fbc-13ec-7aab-9137-c670fbec6e22",
+      "time": "2026-08-27 04:21:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) guides FY2027 Q3 revenue at $108.0 bln, versus market expectation of $104.2 bln."
+    },
+    {
+      "id": "5060835",
+      "time": "2026-08-27 04:20:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達二季度營收962億美元，分析師預期923.8億美元。資料中心營收890億美元，分析師預期858.6億美元。英偉達盤後漲0.68%。"
+    },
+    {
+      "id": "5060834",
+      "time": "2026-08-27 04:20:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達第二季度資料中心營收890億美元，預期858.6億美元。"
+    },
+    {
+      "id": "mkt:01a03fbb-5b1f-7aab-9137-bec5d6cc1091",
+      "time": "2026-08-27 04:20:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) reported FY2027 Q2 revenue of $96.2 bln, versus $81.615 bln a year earlier; market expected $92.012 bln."
+    },
+    {
+      "id": "5060833",
+      "time": "2026-08-27 04:18:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "惠普公司股價盤後下跌4%。"
+    },
+    {
+      "id": "te:markets:578370",
+      "time": "2026-08-27 04:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Veeva Systems earnings above expectations at 2.35 USD — Veeva Systems (VEEV) released earnings per share at 2.35 USD, compared to market expectations of 2.22 USD."
+    },
+    {
+      "id": "te:markets:578369",
+      "time": "2026-08-27 04:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Agilent earnings above expectations at 1.62 USD — Agilent (A) released earnings per share at 1.62 USD, compared to market expectations of 1.49 USD."
+    },
+    {
+      "id": "te:markets:578368",
+      "time": "2026-08-27 04:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Synopsys earnings above expectations at 3.91 USD — Synopsys (SNPS) released earnings per share at 3.91 USD, compared to market expectations of 3.67 USD."
+    },
+    {
+      "id": "te:markets:578367",
+      "time": "2026-08-27 04:17:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CrowdStrike Holdings earnings above expectations at 0.31 USD — CrowdStrike Holdings (CRWD) released earnings per share at 0.31 USD, compared to market expectations of 0.29 USD."
+    },
     {
       "id": "mkt:01a03fb6-f8f4-7aab-9137-b05322b9203b",
       "time": "2026-08-27 04:15:50",
@@ -149925,42 +150039,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera: A U.S. State Department spokesperson said the Trump administration has discussed Syrian sovereignty and Israel's right to self-defense."
-    },
-    {
-      "id": "mkt:01a01baf-8301-7aab-90a2-1943e40010e6",
-      "time": "2026-08-20 04:21:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【CFTC seeks comment on compute-power futures】The U.S. Commodity Futures Trading Commission has opened a public comment on futures for compute power as industry players including CME, ICE and fintech Architect Financial Technologies plan contracts pending regulatory approval. Exchanges say compute futures would let end users and speculators hedge risks that could disrupt AI development, notably energy shortages. CFTC Chair Michael Selig said without a robust derivatives market for compute the U.S. cannot win the AI race and called the request for comment a first step to set clear rules for a U.S. compute market. The CFTC is soliciting input on how compute futures differ from other regulated derivatives and whether listing on CFTC-regulated venues would require standardizing variables affecting compute prices, including settlement reference price indices."
-    },
-    {
-      "id": "5048590",
-      "time": "2026-08-20 04:20:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4570美元/盎司，日內漲3.38%。"
-    },
-    {
-      "id": "5048589",
-      "time": "2026-08-20 04:18:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院發言人向半島電視臺表示，特朗普政府開啟有關敘利亞主權以及以色列自衛權的相關討論。"
-    },
-    {
-      "id": "5048588",
-      "time": "2026-08-20 04:18:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "UBER 確認出售 7200 萬股 AURORA INNOVATION 股份。"
     }
   ]
 }
