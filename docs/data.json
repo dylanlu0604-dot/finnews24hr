@@ -1,7 +1,91 @@
 {
-  "updated": "2026-08-27 02:38:15",
-  "count": 16648,
+  "updated": "2026-08-27 02:42:25",
+  "count": 16657,
   "items": [
+    {
+      "id": "5060724",
+      "time": "2026-08-27 02:41:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：整體通脹預計將於 2027 年第二季度向 3% 的目標靠攏。受核心通脹居高不下、貿易中斷、地緣政治緊張、氣候衝擊、成本壓力以及比索可能貶值等因素影響，通脹風險仍偏向上行。"
+    },
+    {
+      "id": "mkt:01a03f5f-b9bd-7aab-9136-b5cacf91e4d2",
+      "time": "2026-08-27 02:40:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico said the inflation risk balance remains tilted to the upside, mainly driven by persistent core inf, trade disruptions, geopolitical tensions, climate shocks, cost pressures and potential peso depreciation."
+    },
+    {
+      "id": "5060723",
+      "time": "2026-08-27 02:40:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：經濟增長風險整體偏向下行。"
+    },
+    {
+      "id": "mkt:01a03f5f-649c-7aab-9136-ad6f25aab1dc",
+      "time": "2026-08-27 02:40:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico says the balance of risks to economic growth is tilted to the downside."
+    },
+    {
+      "id": "mkt:01a03f5f-4d1f-7aab-9136-a66e288ea8c6",
+      "time": "2026-08-27 02:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's central bank forecasts annual average headline inflation in Q4 2027 at 3.0%, unchanged from its prior estimate."
+    },
+    {
+      "id": "mkt:01a03f5f-0b96-7aab-9136-99c5c0ecb1d4",
+      "time": "2026-08-27 02:39:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico said the national economy remains in a prolonged weak phase and uncertainty persists around the annual review process of the U.S.-Mexico-Canada Agreement (USMCA)."
+    },
+    {
+      "id": "5060722",
+      "time": "2026-08-27 02:39:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：本國經濟持續處於疲軟狀態，美墨加協定年度複審程序存在不確定性。"
+    },
+    {
+      "id": "mkt:01a03f5d-57ce-7aab-9136-97a7a874e826",
+      "time": "2026-08-27 02:37:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Mexico forecasts 2027 GDP growth of 2.0%, down from a prior 2.1%."
+    },
+    {
+      "id": "5060721",
+      "time": "2026-08-27 02:37:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：本國經濟仍處於疲軟階段，外部環境複雜，面臨重大地緣政治風險。"
+    },
+    {
+      "id": "mkt:01a03f5d-460e-7aab-9136-8b683f5b222f",
+      "time": "2026-08-27 02:37:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's central bank forecasts 2026 GDP growth of 1.5%, up from 1.1% in last quarter's report."
+    },
     {
       "id": "5060720",
       "time": "2026-08-27 02:37:12",
@@ -150125,16 +150209,6 @@
         "Importance 1"
       ],
       "text": "Canadian Stocks Erase Gains — The S&P/TSX Composite Index erased early gains and hovered marginally below the flatline at 36,650, as losses for heavyweight banks offset gains for gold producers, while markets assessed updates to trade policy. US President Trump paused the 50% tariffs on select Canadian goods and signaled that a trade deal with Canada was soon to be agreed upon. Still, reports indicated that metals will remain tariffed. Banks led the losses even though the US Treasury doubled the buyback amount on bonds and notes to limit recent pressure on North American bond yields. BMO, TD Bank, and RBC sank more than 3%. On the other hand, gold prices surged on the drop for the dollar and yields. Miners led the gains, with Agnico Eagle, Wheaton, and Barrick up between 10% and 5%."
-    },
-    {
-      "id": "mkt:01a01b54-33bf-7aab-90a0-2df01c268831",
-      "time": "2026-08-20 02:41:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "AI chip startup Fractile will sell about $250 mln of chips to Anthropic; post-deal Fractile plans to seek a roughly $6.5 bln valuation."
     }
   ]
 }
