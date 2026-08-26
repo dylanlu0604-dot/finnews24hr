@@ -1,7 +1,94 @@
 {
   "date": "2026-08-26",
-  "count": 3299,
+  "count": 3307,
   "items": [
+    {
+      "id": "mkt:01a03eca-5c97-7aab-9134-03240d74cd14",
+      "time": "2026-08-26 23:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. defence contractor Lockheed Martin shares rose to an intraday high, up 2.4%. Ukrainian telecom Kyivstar Group shares fell 3.5% to an intraday low."
+    },
+    {
+      "id": "te:markets:578336",
+      "time": "2026-08-26 23:57:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Pares Losses — Crude oil pared earlier losses and traded just below $83 a barrel on Wednesday, following two consecutive sessions of declines, as signs of increased flows from the Persian Gulf eased supply concerns. Traders are closely watching talks between Iran and Oman over a possible arrangement to restore shipping through the Strait of Hormuz. US President Donald Trump said around 10 million barrels of oil had passed through the waterway on Tuesday, raising hopes that disruptions may be easing. Meanwhile, satellite data indicated that Saudi Arabia could be increasing oil loadings from terminals inside the Persian Gulf. At the same time, Iran and Oman are reportedly discussing broader arrangements for managing Hormuz, although uncertainty remains over whether Washington would accept an agreement excluding the US. In the US, EIA data showed crude inventories were virtually unchanged last week, while gasoline and diesel stocks fell to seasonal lows."
+    },
+    {
+      "id": "5060634",
+      "time": "2026-08-26 23:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲債券價格跌幅擴大，10年期意債收益率漲6個基點。"
+    },
+    {
+      "id": "te:markets:578335",
+      "time": "2026-08-26 23:56:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 0.3% to 52,883 on Wednesday, lifted by prospects for higher defense spending and consolidation talks which continue to overshadow the banking sector. Banco BPM rose 0.6% after its its board signaled that Banca MPS's (-0.3%) offer did not provide a premium for its shareholders, although no final has been announced. Generali (1%) is due to convene its board on Thursday to consider MPS’s takeover bid for Banca Generali. UniCredit gained 2.2% as Germany’s finance minister and CEO Andrea Orcel are set to meet next month to discuss Berlin’s position on the lender’s takeover bid for Commerzbank. Utilities traded mixed, while defense stocks advanced, led by Fincantieri (2.2%), after the Italian government requested €8 billion from the EU’s SAFE defense funding program. However, the government has faced pressure to use its fiscal room to soften the impact from rising energy costs linked to the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a03ec9-c84d-7aab-9133-fcb3e63167cf",
+      "time": "2026-08-26 23:56:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports U.S. Senator Josh Hawley has opened an investigation into Flock cameras."
+    },
+    {
+      "id": "mkt:01a03ec9-6c1a-7aab-9133-f3de7c8a0d6f",
+      "time": "2026-08-26 23:56:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "European bonds fell further; Italy's 10-year bond yield rose 6bps to 4.06%."
+    },
+    {
+      "id": "mkt:01a03ec7-d859-7aab-9133-ee9fc7b2a310",
+      "time": "2026-08-26 23:54:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude front-month contract continued higher, up over 2.00% intraday and trading at 575.80 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a03ec7-58cd-7aab-9133-e27d320503fc",
+      "time": "2026-08-26 23:54:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude is up 2.00% intraday at $82.30/bbl; Brent crude is up more than 2.00% at $87.58/bbl."
+    },
     {
       "id": "mkt:01a03ec6-51b3-7aab-9133-dc731a331dde",
       "time": "2026-08-26 23:52:59",
