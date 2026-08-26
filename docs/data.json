@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-26 22:40:48",
-  "count": 16772,
+  "updated": "2026-08-26 22:45:17",
+  "count": 16758,
   "items": [
+    {
+      "id": "5060580",
+      "time": "2026-08-26 22:43:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，美國東海岸餾分燃料油庫存上週下降，降至2022年5月以來的最低水平。"
+    },
+    {
+      "id": "mkt:01a03e86-0035-7aab-9132-c8ba2658fa78",
+      "time": "2026-08-26 22:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikolay Mladenov, senior representative of the Gaza Peace Committee, said key issues remain unresolved regarding implementation of the Gaza roadmap."
+    },
+    {
+      "id": "5060579",
+      "time": "2026-08-26 22:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四大行快速響應 全力保障西藏災區金融服務不斷檔】記者從工、農、中、建四大國有商業銀行瞭解到，各家銀行快速響應，全力做好西藏日喀則市吉隆縣泥石流災害應急金融服務，保障災區金融服務不斷檔。（新華社）"
+    },
+    {
+      "id": "5060578",
+      "time": "2026-08-26 22:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二屆世界人形機器人運動會收官，智元斬獲18金位列榜首】8月26日，第二屆世界人形機器人運動會在北京國家速滑館“冰絲帶”落幕。智元機器人憑藉全量產機型參賽，最終斬獲18金16銀12銅，位列金牌與獎牌榜雙第一。細分專案中，其量產靈巧手OmniHand在粉末稱重等專項中獲7金；精靈G2機型在酒店、應急等場景作業賽獲6金；遠征A3及靈犀X2在武術及障礙賽等競技專案獲5金。"
+    },
+    {
+      "id": "5060577",
+      "time": "2026-08-26 22:40:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統表示，選舉期間她不會前往巴西。"
+    },
+    {
+      "id": "mkt:01a03e84-4543-7aab-9132-c282377586e8",
+      "time": "2026-08-26 22:40:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says hostile media could be treated as military targets】Iran's armed forces spokesman Brigadier General Abolfazl Shekarchi said hostile media outlets could be treated as military targets, naming the BBC and Iran International and alleging they have direct links to Israel's Mossad, the US CIA and other hostile intelligence agencies, Fars News reported via Al Jazeera."
+    },
     {
       "id": "5060576",
       "time": "2026-08-26 22:39:01",
@@ -151181,189 +151229,6 @@
         "國際"
       ],
       "text": "30年期美國國債收益率當日下跌10個基點至5.18%。"
-    },
-    {
-      "id": "5048308",
-      "time": "2026-08-19 22:45:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：首相稱讚哈馬斯接受路線圖，以完成協議第二階段的執行。"
-    },
-    {
-      "id": "mkt:01a01a7b-aba9-7aab-909b-4a4b8fb885bc",
-      "time": "2026-08-19 22:45:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. refinery crude oil inputs rose last week to the highest level since September 2019."
-    },
-    {
-      "id": "5048307",
-      "time": "2026-08-19 22:44:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示，上週美國煉油廠原油淨進料量升至2019年9月以來最高水平。"
-    },
-    {
-      "id": "5048306",
-      "time": "2026-08-19 22:44:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞6月份進口額為67.76億美元；預計為66.8億美元。"
-    },
-    {
-      "id": "5048305",
-      "time": "2026-08-19 22:44:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞6月份貿易逆差為21.61億美元；此前預計為-19.35億美元。"
-    },
-    {
-      "id": "mkt:01a01a7a-d262-7aab-909b-4099d4528f7c",
-      "time": "2026-08-19 22:44:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "USD/KRW fell 2% to 1,384.30 won per dollar."
-    },
-    {
-      "id": "5048304",
-      "time": "2026-08-19 22:43:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報16094.00元。"
-    },
-    {
-      "id": "mkt:01a01a7a-3764-7aab-909b-3fe0779e4e6b",
-      "time": "2026-08-19 22:43:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver up 4% intraday at $65.85/oz."
-    },
-    {
-      "id": "5048303",
-      "time": "2026-08-19 22:43:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破66美元/盎司，日內漲3.07%。"
-    },
-    {
-      "id": "5048302",
-      "time": "2026-08-19 22:43:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲4%，現報65.86美元/盎司。"
-    },
-    {
-      "id": "5048301",
-      "time": "2026-08-19 22:43:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲3%，現報65.98美元/盎司。"
-    },
-    {
-      "id": "5048300",
-      "time": "2026-08-19 22:43:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲3%，現報1332.94美元/盎司。"
-    },
-    {
-      "id": "5048299",
-      "time": "2026-08-19 22:42:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲3%，現報4553.45美元/盎司。"
-    },
-    {
-      "id": "mkt:01a01a78-f13d-7aab-909b-3418d509869c",
-      "time": "2026-08-19 22:42:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. heating oil futures extended gains after EIA data showed a draw in distillate inventories; gasoline futures fell further after the EIA reported a build in gasoline stocks."
-    },
-    {
-      "id": "5048298",
-      "time": "2026-08-19 22:41:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【攜手美國最大美妝零售商Ulta Beauty，珀萊雅開啟中國美妝“品牌出海”新篇章】近日，珀萊雅股份旗下主品牌珀萊雅與美國最大的專業美容零售商Ulta Beauty正式達成全面合作伙伴關係，並計劃於今年11月在Ulta Beauty的400家美國核心門店及其線上平臺Ulta.com發售紅寶石和源力系列的核心產品。Ulta Beauty 是美國最大的專業美妝零售商，主營彩妝、香氛、護膚、護髮、健康護理產品及沙龍服務。（珀萊雅股份微信公號）"
-    },
-    {
-      "id": "5048297",
-      "time": "2026-08-19 22:41:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國取暖油期貨<HOc1>在EIA資料顯示餾分油庫存下降後擴大漲幅。"
-    },
-    {
-      "id": "5048296",
-      "time": "2026-08-19 22:41:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國汽油期貨在EIA資料顯示汽油庫存增加後進一步小幅走低。"
-    },
-    {
-      "id": "mkt:01a01a78-1d26-7aab-909b-28c2ee016590",
-      "time": "2026-08-19 22:41:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: the board approved a $19.9 billion plan to redevelop Washington Dulles International Airport."
-    },
-    {
-      "id": "5048295",
-      "time": "2026-08-19 22:41:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "董事會批准斥資199億美元改造華盛頓杜勒斯機場的計劃。"
-    },
-    {
-      "id": "mkt:01a01a77-cc2c-7aab-909b-229404b4df76",
-      "time": "2026-08-19 22:40:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media reported Iraq's prime minister met Iranian parliament speaker Ghalibaf and praised Iran's support during the war."
     }
   ]
 }
