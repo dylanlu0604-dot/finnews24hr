@@ -1,7 +1,184 @@
 {
   "date": "2026-08-26",
-  "count": 1324,
+  "count": 1346,
   "items": [
+    {
+      "id": "mkt:01a03cd8-0a4e-7aab-9124-d77d0d279aa2",
+      "time": "2026-08-26 14:53:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax: Grain shipments from Russia's Novorossiysk terminal have been suspended since a drone attack in August."
+    },
+    {
+      "id": "5059203",
+      "time": "2026-08-26 14:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯新羅西斯克穀物碼頭8月遭無人機襲擊後暫停穀物裝載。"
+    },
+    {
+      "id": "5059202",
+      "time": "2026-08-26 14:52:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Deepseek截至7月營收達7000萬美元，較2025年增長十倍。"
+    },
+    {
+      "id": "mkt:01a03cd7-ced4-7aab-9124-cfa06b3b08df",
+      "time": "2026-08-26 14:52:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported that Russia's Novorossiysk grain terminal was hit by drones in August; infrastructure repairs could take one to four months."
+    },
+    {
+      "id": "5059201",
+      "time": "2026-08-26 14:52:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李想預告新一代理想MEGA即將釋出，小米徐潔雲：MEGA是好車】理想汽車創始人、董事長兼CEO李想今日在微博上發文稱，9月2日，新一代理想MEGA即將釋出。小米集團董事長特別助理、戰略市場部副總經理徐潔雲隨後轉發點贊，稱“MEGA是好車”。李想表示，過往幾年，中國新能源汽車在功能上已經跑贏了國外產品。但在汽車設計上，使用者的第一反應往往還是“抄”或“像”某些經典設計。因為模仿的風險，永遠比原創低得多。（新浪科技）"
+    },
+    {
+      "id": "5059200",
+      "time": "2026-08-26 14:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯新羅西斯克穀物碼頭在8月遭無人機襲擊後，基礎設施修復可能需要一到四個月時間。"
+    },
+    {
+      "id": "5059199",
+      "time": "2026-08-26 14:51:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋環球鋁業（EGA）：氧化鋁產量進一步提升的進度將取決於供應鏈考量，以及公司氧化鋁採購策略的最佳化。"
+    },
+    {
+      "id": "5059198",
+      "time": "2026-08-26 14:50:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋環球鋁業（EGA：塔維拉氧化鋁精煉廠繼續維持約50%產能運營。"
+    },
+    {
+      "id": "5059197",
+      "time": "2026-08-26 14:50:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋鋁業：目前約有1000人參與塔維拉冶煉廠熱金屬生產的復產工作。"
+    },
+    {
+      "id": "5059196",
+      "time": "2026-08-26 14:50:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科交易所第二季度息稅折舊攤銷前利潤（EBITDA）為231.5億盧布，同比增長4.8%。"
+    },
+    {
+      "id": "5059195",
+      "time": "2026-08-26 14:49:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國家氣象預報員表示，目前影響烏克蘭大片區域的旱情不利於冬播作物播種。"
+    },
+    {
+      "id": "5059194",
+      "time": "2026-08-26 14:49:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋環球鋁業：重啟後，一個還原電解槽通常需要一週時間才能穩定並滿負荷投產。"
+    },
+    {
+      "id": "mkt:01a03cd4-ab3e-7aab-9124-c2f454a46fd3",
+      "time": "2026-08-26 14:49:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【First Western Land-Sea New Corridor road shuttle using UN transferable-documents convention begins operation】Aug 25 — A Western Land-Sea New Corridor cross-border road shuttle completed the first trial using documents adapted to the UN Convention on the Transferable Documents of Title to Goods. The fully loaded shuttle, carrying communications equipment and other cargo, departed Chongqing Nanpeng bonded logistics center and exited China via Youyiguan port to Vietnam on a roughly 1,400 km route. The trial, based on the UN convention, marks a key step toward cross-border road-transport documents functioning as certificates of title."
+    },
+    {
+      "id": "5059193",
+      "time": "2026-08-26 14:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋環球鋁業（EGA）：目前1262臺電解槽中約有315臺已重啟生產。"
+    },
+    {
+      "id": "5059192",
+      "time": "2026-08-26 14:49:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋環球鋁業（EGA）：要恢復熱金屬生產，EGA必須逐步修復並重啟每臺電解槽。"
+    },
+    {
+      "id": "5059191",
+      "time": "2026-08-26 14:48:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科曙光：即將釋出推理相關儲存新技術】中科曙光相關人士透露，公司將釋出面向大模型推理的新一代詞元加速方案，重點處理推理過程中的重複計算和資料排程問題。目前，中科曙光ParaStor分散式儲存已應用於國內首個全國產十萬卡AI超叢集曙光8000（登峰），為大規模計算任務提供資料吞吐和彈性擴充套件支援。賽迪顧問最新報告顯示，中科曙光在AI、教育、具身智慧和自動駕駛四個細分行業排名第一。（介面）"
+    },
+    {
+      "id": "5059190",
+      "time": "2026-08-26 14:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋環球鋁業（EGA）：阿爾塔維拉冶煉廠恢復工程已完成25%，達成專案里程碑。"
+    },
+    {
+      "id": "5059189",
+      "time": "2026-08-26 14:48:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車：尚未就分拆機器人實驗室事宜作出決定。"
+    },
+    {
+      "id": "mkt:01a03cd3-271f-7aab-9124-b8c1b30ca2f1",
+      "time": "2026-08-26 14:47:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US law enforcement sources told Newsmax that Yair Netanyahu, 35, son of Israeli prime minister NETANYAHU, was the target of an Iranian assassination plot while in Florida. Intelligence agencies believe Iranian operatives conducted on-the-ground surveillance of Yair in the Miami area. He was warned to leave immediately, departed Florida without packing and has returned to and remains in Israel, according to the report."
+    },
+    {
+      "id": "5059188",
+      "time": "2026-08-26 14:47:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【倪虹到湖北調研城市更新工作】8月25日，住房城鄉建設部黨組書記、部長倪虹帶隊到湖北，實地調研城市更新、城市排水防澇、定點幫扶等工作。倪虹一行來到武漢市曇華林歷史文化街區、環華科大創新發展帶片區，瞭解城市更新改造、策劃設計、資金投入和運營等情況，現場聽取湖北省、武漢市住房城鄉建設部門關於城市更新工作情況彙報。倪虹指出，高質量推進城市更新是城市現代化建設的重要抓手。要注重城市體檢、城市設計、片區策劃，透過精細化設計引導城市更新專案實施，統籌用好各類資金，建立多元化的城市更新投融資體系，鼓勵地方積極探索創新，因地制宜出臺城市更新地方性法規，形成可持續的城市更新模式。"
+    },
+    {
+      "id": "5059187",
+      "time": "2026-08-26 14:46:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英偉達即將釋出業績 VIX指數的冷靜隱含著自滿風險】隨著英偉達業績釋出臨近，VIX指數幾乎未顯露任何恐慌跡象，目前僅略高於今年低點。這種反差預示，隨著今天晚些時候這一重大風險事件的展開，大盤容易受到潛在波動的影響。在過去四次季度財報釋出後，該公司股價均下跌。6月和7月發生的兩次VIX指數躥升，恰與英偉達股價的下跌行情同時發生。這表明，如果英偉達晚些時候公佈的業績展望令人失望，市場可能會出現更劇烈的反應。投資者將關注該公司與其最大客戶之間關係的指引，一些交易員認為這是風險來源之一。"
+    },
+    {
+      "id": "5059186",
+      "time": "2026-08-26 14:45:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【首趟適配NCD單證的西部陸海新通道跨境公路班車開行】8月25日，西部陸海新通道跨境公路班車順利完成首票適配《聯合國可轉讓貨物單證公約》的單證（簡稱NCD單證）試執行。這趟跨境公路班車滿載通機裝置等貨物，從重慶南彭保稅物流中心出發，經友誼關口岸出境直達越南，全程約1400公里。本次試執行以《聯合國可轉讓貨物單證公約》為基礎，標誌著跨境公路運輸單證向物權憑證功能實現關鍵跨越。（央視新聞）"
+    },
     {
       "id": "5059185",
       "time": "2026-08-26 14:45:08",
