@@ -1,7 +1,597 @@
 {
   "date": "2026-08-26",
-  "count": 1969,
+  "count": 2040,
   "items": [
+    {
+      "id": "5059738",
+      "time": "2026-08-26 17:35:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "據港交所披露，8月26日，中國石化回購230萬股H股，斥資1100萬港元。"
+    },
+    {
+      "id": "mkt:01a03d6c-9e2d-7aab-9129-a67edfb199b6",
+      "time": "2026-08-26 17:35:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's president and Syria's president said they were willing to deepen dialogue and expand economic cooperation, TASS reported."
+    },
+    {
+      "id": "5059737",
+      "time": "2026-08-26 17:34:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豫光金鉛：2026年上半年淨利潤5.45億元，同比增長12.46%】豫光金鉛公告，2026年上半年營業收入342.73億元，同比增長52.73%；歸屬於上市公司股東的淨利潤5.45億元，同比增長12.46%，2025年同期為4.85億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.67億元，同比增長3.29%。"
+    },
+    {
+      "id": "5059736",
+      "time": "2026-08-26 17:34:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大北農：2026年上半年淨利潤虧損6.77億元，同比由盈轉虧】大北農公告，2026年上半年營業收入138.11億元，同比增長1.86%；歸屬於上市公司股東的淨利潤虧損6.77億元，上年同期為2.35億元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損6.56億元，上年同期為1.71億元，同比由盈轉虧。"
+    },
+    {
+      "id": "5059735",
+      "time": "2026-08-26 17:34:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北方長龍：2026年上半年淨利潤虧損2681.06萬元，上年同期虧損109.36萬元】北方長龍公告，2026年上半年營業收入5117.56萬元，同比下降21.23%；歸屬於上市公司股東的淨利潤虧損2681.06萬元，2025年同期虧損109.36萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2941.21萬元，2025年同期虧損303.3萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:01a03d6b-ca27-7aab-9129-9c2ba2acf131",
+      "time": "2026-08-26 17:34:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin said it is too early to assess whether contacts between the CIA director and Russian intelligence agencies will ease the crisis in U.S.-Russia relations."
+    },
+    {
+      "id": "5059734",
+      "time": "2026-08-26 17:33:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益民集團：2026年半年度淨利潤虧損1.33億元，同比由盈轉虧】益民集團公告，2026年半年度營業收入3.05億元，同比下降16.72%；歸屬於上市公司股東的淨利潤虧損1.33億元，2025年同期為2430.92萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤2638.34萬元，同比增長53.04%。"
+    },
+    {
+      "id": "mkt:01a03d6b-2339-7aab-9129-97a0117ebfbb",
+      "time": "2026-08-26 17:33:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Takaichi met Kuwait Foreign Minister Jarrah Jabir Ahmad Sabah, welcomed his visit and said Japan is willing to actively contribute to strengthening economic and energy resilience among GCC member states."
+    },
+    {
+      "id": "5059733",
+      "time": "2026-08-26 17:33:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永新光學：2026年上半年淨利潤9552.41萬元，同比下降11.80%】永新光學公告，2026年上半年營業收入5.64億元，同比增長28.00%；歸屬於上市公司股東的淨利潤9552.41萬元，同比下降11.80%，2025年上半年為1.08億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7779.69萬元，同比下降11.29%，2025年上半年為8769.49萬元。公司2026年上半年不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5059732",
+      "time": "2026-08-26 17:33:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必得科技：2026年上半年淨利潤2122萬元，同比下降5.58%】必得科技公告，2026年上半年營業收入1.88億元，同比下降11.76%；歸屬於上市公司股東的淨利潤2122萬元，同比下降5.58%，2025年同期為2247.51萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2017.04萬元，同比下降9.39%，2025年同期為2226.11萬元。"
+    },
+    {
+      "id": "mkt:01a03d6a-812e-7aab-9129-88d7f230b80b",
+      "time": "2026-08-26 17:33:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Putin had no contact with the US CIA director."
+    },
+    {
+      "id": "5059731",
+      "time": "2026-08-26 17:32:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年全國原材料工業座談會在浙江寧波召開】2026年全國原材料工業座談會8月25日在浙江省寧波市召開。會議指出，“十五五”時期，工業和資訊化系統要錨定基本實現新型工業化目標，統籌國內國際兩個大局，統籌發展和安全，以推動高質量發展為主題，以改革創新為根本動力，充分發揮原材料工業在傳統產業最佳化提升、新興產業和未來產業培育壯大中的重要作用，著力推進相關傳統產業最佳化提升、先進材料產業創新發展、資源產業安全保障，因地制宜培育發展新質生產力，全面提高智慧化、綠色化、融合化發展水平，推動原材料工業從規模領先向全面領先跨越。"
+    },
+    {
+      "id": "5059729",
+      "time": "2026-08-26 17:32:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽維時代：2026年上半年淨利潤1.66億元，同比下降2.06%】賽維時代公告，2026年上半年營業收入62.01億元，同比增長16.01%；歸屬於上市公司股東的淨利潤1.66億元，同比下降2.06%，2025年同期為1.69億元；扣除非經常性損益的淨利潤1.72億元，同比下降7.32%。公司擬以4.06億股為基數，每10股派發現金紅利2.5元（含稅）。"
+    },
+    {
+      "id": "5059728",
+      "time": "2026-08-26 17:32:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明星電力：2026年上半年淨利潤5309.3萬元，同比下降27.98%】明星電力公告，2026年上半年營業收入15.58億元，同比增長2.25%；歸屬於上市公司股東的淨利潤5309.3萬元，同比下降27.98%，2025年同期7372.39萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4388.2萬元，同比下降38.53%。"
+    },
+    {
+      "id": "mkt:01a03d69-b674-7aab-9129-822d369f7e10",
+      "time": "2026-08-26 17:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Kyiv regime is self-destructing."
+    },
+    {
+      "id": "mkt:01a03d69-9329-7aab-9129-7dfe9642822d",
+      "time": "2026-08-26 17:32:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin, commenting on the dismissed Ukrainian defense minister, said Ukraine appears to be slowly losing the war."
+    },
+    {
+      "id": "5059727",
+      "time": "2026-08-26 17:31:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中基協：7月底境內公募管理的公募基金資產淨值合計39.11萬億元】中基協釋出資料，截至2026年7月底，我國境內公募基金管理機構共165家，其中基金管理公司150家，取得公募資格的資產管理機構15家。以上機構管理的公募基金資產淨值合計39.11萬億元。"
+    },
+    {
+      "id": "mkt:01a03d69-6c2c-7aab-9129-707213a7ccb2",
+      "time": "2026-08-26 17:31:54",
+      "tags": [
+        "MKT News",
+        "9988.HK",
+        "Impact bullish",
+        "0981.HK"
+      ],
+      "text": "Southbound flows net bought CNY 453 mln today. On Shanghai Stock Connect, Yangtze Optical Fibre & Cable and SMIC were net bought HKD 403 mln and HKD 395 mln respectively; Huahong Hongli was the largest net seller at HKD 206 mln. On Shenzhen Stock Connect, Alibaba (HK-listed) and Yangtze Optical Fibre & Cable were net bought HKD 827 mln and HKD 631 mln; Innovent Biologics led net sales at HKD 521 mln."
+    },
+    {
+      "id": "mkt:01a03d69-6aaf-7aab-9129-6fa1c598526e",
+      "time": "2026-08-26 17:31:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Asset Management Association of China: domestic publicly offered fund managers' NAV 39.11 trillion yuan at end-July 2026】Asset Management Association of China data show that as of end-July 2026 there were 165 domestic publicly offered fund management institutions — 150 fund management companies and 15 asset managers with public-fund qualifications — managing a combined net asset value of 39.11 trillion yuan."
+    },
+    {
+      "id": "5059726",
+      "time": "2026-08-26 17:31:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西黑貓：2026年上半年淨利潤虧損3.66億元，上年同期虧損4.62億元】陝西黑貓公告，2026年上半年營業收入50.51億元，同比下降3.49%；歸屬於上市公司股東的淨利潤虧損3.66億元，上年同期虧損4.62億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3.75億元，上年同期虧損5.21億元。公司2026年半年度報告未經審計。"
+    },
+    {
+      "id": "5059725",
+      "time": "2026-08-26 17:31:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神工股份：2026年上半年淨利潤4108.54萬元，同比下降15.87%】神工股份公告，2026年上半年營業收入2.16億元，同比增長3.78%；歸屬於上市公司股東的淨利潤4108.54萬元，同比下降15.87%，2025年同期為4883.79萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3768.77萬元，同比下降21.47%，2025年同期為4798.99萬元。"
+    },
+    {
+      "id": "5059724",
+      "time": "2026-08-26 17:31:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮回應美國中情局局長訪問莫斯科一事：普京已獲悉此事。"
+    },
+    {
+      "id": "5059723",
+      "time": "2026-08-26 17:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：現在斷言美俄關係中的嚴重危機能否化解，還為時過早。"
+    },
+    {
+      "id": "5059722",
+      "time": "2026-08-26 17:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮回應美國中情局局長訪問莫斯科一事：雙方情報部門的接觸仍在繼續。"
+    },
+    {
+      "id": "mkt:01a03d68-8378-7aab-9129-65e8790c916c",
+      "time": "2026-08-26 17:30:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said President Putin has been informed of reports that the CIA director visited Moscow and that contacts between intelligence agencies continue."
+    },
+    {
+      "id": "5059721",
+      "time": "2026-08-26 17:30:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏吉隆口岸轄區國門方向實施臨時交通管制】記者從西藏日喀則市公安局吉隆口岸分局交通管理大隊獲悉，受26日突發泥石流災害影響，吉隆口岸轄區國門區域道路出現泥石流險情，道路不具備安全通行條件，自即日起對前往吉隆口岸國門方向道路實施雙向臨時交通管制，管制期限7天。8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。據瞭解，管制路段為吉隆鎮至國門方向路段。管制方式實行雙向封閉管制，除應急搶險、救援保障車輛外，禁止一切社會車輛、人員通行。管制措施提前解除或者需要延長管制時間，將另行釋出通告。(新華社)"
+    },
+    {
+      "id": "5059720",
+      "time": "2026-08-26 17:30:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：基輔政權正在從內部自我毀滅。"
+    },
+    {
+      "id": "mkt:01a03d68-154c-7aab-9129-59c3dc7ca0b9",
+      "time": "2026-08-26 17:30:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Kremlin says it is currently impossible to determine whether the deep crisis in U.S.-Russia relations can be overcome."
+    },
+    {
+      "id": "5059719",
+      "time": "2026-08-26 17:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "針對被解職的烏克蘭國防部長關於“烏克蘭似乎正在慢慢輸掉戰爭”的言論，克里姆林宮回應稱：烏克蘭絕對正在輸掉這場戰爭。"
+    },
+    {
+      "id": "5059718",
+      "time": "2026-08-26 17:29:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東睦股份：2026年上半年淨利潤2億元，同比下降23.16%】東睦股份公告，2026年上半年營業收入30.79億元，同比增長5.11%；歸屬於上市公司股東的淨利潤2億元，同比下降23.16%，2025年同期為2.61億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.87億元，同比下降25.04%，2025年同期為2.5億元。公司擬每股派發現金紅利0.10元人民幣（含稅），不進行資本公積轉增股本。"
+    },
+    {
+      "id": "5059717",
+      "time": "2026-08-26 17:29:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東風股份：2026年上半年淨利潤1.24億元，同比增長27.83%】東風股份公告，2026年上半年營業收入55.16億元，同比增長9.64%；歸屬於上市公司股東的淨利潤1.24億元，同比增長27.83%，2025年上半年為9720.61萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2272.78萬元，2025年上半年虧損8706.63萬元。"
+    },
+    {
+      "id": "mkt:01a03d66-7171-7aab-9129-56c07d0e27a3",
+      "time": "2026-08-26 17:28:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 national raw materials industry symposium held in Ningbo】Aug 25, 2026 — China convened a national raw materials industry symposium in Ningbo, Zhejiang, directing the industrial and information authorities to target basic completion of new-type industrialization during the 15th Five-Year period, balance domestic and international conditions and development with security, and pursue high-quality growth driven by reform and innovation. Policy priorities are upgrading traditional industries, accelerating advanced materials innovation, strengthening resource-security measures, and locally tailored cultivation of new productive forces. Authorities called for faster digitalization, green transformation and cross-sector integration to steer the raw materials sector from scale leadership toward comprehensive competitiveness."
+    },
+    {
+      "id": "5059716",
+      "time": "2026-08-26 17:28:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海天味業：2026年上半年主營營收同比增5.43%】海天味業公告稱，2026年半年度主營業務收入153.52億元，同比增長5.43%。分產品看，醬油收入82.96億元，同比增4.65%；蠔油收入25.66億元，同比增2.56%；調味醬收入16.45億元，同比增1.19%；其他產品收入28.44億元，同比增13.52%。分渠道看，線下渠道收入143.80億元，同比增4.81%；線上渠道收入9.72億元，同比增15.45%。截至報告期末，公司經銷商總數為6697家，報告期內新增621家、減少626家。"
+    },
+    {
+      "id": "5059715",
+      "time": "2026-08-26 17:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曲美家居：2026年上半年虧損7338.02萬元，上年同期虧損4686.02萬元】曲美家居公告，2026年上半年營業收入16.59億元，同比下降4.20%；歸屬於上市公司股東的淨利潤虧損7338.02萬元，上年同期虧損4686.02萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損9861.88萬元，上年同期虧損7737.98萬元。"
+    },
+    {
+      "id": "mkt:01a03d65-713b-7aab-9129-496973e36057",
+      "time": "2026-08-26 17:27:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin: Putin spoke by phone with the Syrian president and reaffirmed support for Syria's unity, territorial integrity and sovereignty."
+    },
+    {
+      "id": "mkt:01a03d64-c04c-7aab-9129-45d91a7294c5",
+      "time": "2026-08-26 17:26:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【German exporters' confidence jumps to 4½-year high, signalling nascent recovery】German exporters' confidence rose in August to a four-and-a-half-year high as demand from EU partners lifted the IFO export expectations index to 9.6 from -2.8 in July — the largest one-month improvement in over six years and the highest reading since Feb 2022. The survey cited stronger sentiment at data-processing equipment, electrical equipment and auto firms; IFO said exports, especially to the EU, are accelerating. Official data on Tuesday showed Q2 GDP expanded more than initially estimated, partly driven by robust exports, providing further evidence of stabilising growth despite deep strains in the auto sector."
+    },
+    {
+      "id": "mkt:01a03d64-7094-7aab-9129-399017110048",
+      "time": "2026-08-26 17:26:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran equities surge for second day; up to 90% of stocks rose intraday】Beijing time afternoon Aug 26 — Tindex (Iran Economic Index Reference) reported the Tehran Stock Exchange composite index jumped 155,000 points to breach 6,385,000, with as many as 90% of stocks advancing and over 80% up 2–3%. State news agency IRNA confirmed the move. The rally follows yesterday’s spike, when the index climbed more than 100,000 points in under an hour to break the 6.2 million mark."
+    },
+    {
+      "id": "5059714",
+      "time": "2026-08-26 17:26:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金鷹股份：2026年上半年淨利潤1964.3萬元，同比扭虧為盈】金鷹股份公告，2026年上半年營業收入7億元，同比增長19.54%；歸屬於上市公司股東的淨利潤1964.3萬元，2025年同期虧損876.92萬元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤1768.43萬元，2025年同期虧損929.31萬元，同比扭虧為盈。"
+    },
+    {
+      "id": "5059713",
+      "time": "2026-08-26 17:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【峰璟股份：2026年上半年淨利潤2693.32萬元，同比下降75.95%】峰璟股份公告，2026年上半年營業收入12.99億元，同比下降8.43%；歸屬於上市公司股東的淨利潤2693.32萬元，同比下降75.95%，上年同期1.12億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤582.55萬元，同比下降94.53%，上年同期1.07億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059712",
+      "time": "2026-08-26 17:26:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雙箭股份：2026年上半年淨利潤1738.56萬元，同比下降60.41%】雙箭股份公告，2026年上半年營業收入12.41億元，同比下降6.93%；歸屬於上市公司股東的淨利潤1738.56萬元，同比下降60.41%，2025年同期4391.88萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤496.4萬元，同比下降87.11%，2025年同期3852.13萬元。"
+    },
+    {
+      "id": "5059711",
+      "time": "2026-08-26 17:25:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中復神鷹：上半年淨利潤7016.23萬元，同比增長488.12%】中復神鷹公告，2026年上半年營業收入11.63億元，同比增長26.14%；歸屬於上市公司股東的淨利潤7016.23萬元，同比增長488.12%。"
+    },
+    {
+      "id": "mkt:01a03d63-a8bc-7aab-9129-36cbc39b9e61",
+      "time": "2026-08-26 17:25:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "Hyundai Motor CEO said he is concerned about US tariffs and that the company must address them."
+    },
+    {
+      "id": "mkt:01a03d63-4bef-7aab-9129-292d44845ca2",
+      "time": "2026-08-26 17:25:12",
+      "tags": [
+        "MKT News",
+        "LEG.O"
+      ],
+      "text": "【Foreign firms file Section 337 complaint on powered rocker‑recliner and glider‑recliner mechanisms】On Aug. 24, 2026 Ultra‑Mek, Incorporated (US), Leggett & Platt, Incorporated (US) and L&P Property Management Company (UK) filed a complaint with the US International Trade Commission under Section 337 of the Tariff Act of 1930. They allege certain powered rocker‑recliner and glider‑recliner mechanisms and seating units exported to, imported into, and sold in the US infringe their patents and seek a 337 investigation plus a limited exclusion order and cease‑and‑desist orders; four Chinese companies are named in the filing."
+    },
+    {
+      "id": "5059710",
+      "time": "2026-08-26 17:25:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海環境：2026年上半年淨利潤3.06億元，同比下降8.78%】上海環境公告，2026年上半年營業收入26.66億元，同比下降10.07%；歸屬於上市公司股東的淨利潤3.06億元，同比下降8.78%，2025年同期3.36億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.09億元，同比下降4.31%，2025年同期3.23億元。本報告未經審計。"
+    },
+    {
+      "id": "5059709",
+      "time": "2026-08-26 17:25:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外國企業對特定電動搖椅、滑動搖椅結構及其下游座椅單元提起337調查申請】2026年8月24日，美國Ultra-Mek,Incorporated、美國Leggett&Platt,Incorporated、英國L&PProperty Management Company根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，指控對美出口、在美進口及銷售的特定電動搖椅、滑動搖椅結構及其下游座椅單元（Certain Powered Rocker-Recliner and Glider-Recliner Mechanisms and Seating Units Containing Same）侵犯其專利權，請求發起337調查併發布有限排除令和禁止令。四家中國企業涉案。（商務部）"
+    },
+    {
+      "id": "5059708",
+      "time": "2026-08-26 17:24:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洪都航空：2026年上半年淨利潤1209.47萬元，同比增長171.93%】洪都航空公告，2026年上半年營業收入27.42億元，同比增長79.97%；歸屬於上市公司股東的淨利潤1209.47萬元，同比增長171.93%，2025年同期為444.77萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1286.25萬元，同比增長427.96%，2025年同期為243.62萬元。"
+    },
+    {
+      "id": "5059707",
+      "time": "2026-08-26 17:24:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【基蛋生物：2026年上半年淨利潤1.84億元，同比增長69.37%】基蛋生物公告，2026年上半年營業收入5.55億元，同比增長8.32%；歸屬於上市公司股東的淨利潤1.84億元，同比增長69.37%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.18億元，同比增長26.63%。公司擬每10股派發人民幣1.5元（含稅），擬派發現金股利7596.57萬元（含稅）。"
+    },
+    {
+      "id": "5059706",
+      "time": "2026-08-26 17:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱正在白俄羅斯境內與烏克蘭交換戰俘】當地時間26日，俄羅斯人權事務專員蘭特拉託娃稱，俄烏戰俘交換正在白俄羅斯境內進行。蘭特拉託娃稱，當天將有10名俄方軍人從烏克蘭返回。（央視新聞）"
+    },
+    {
+      "id": "5059705",
+      "time": "2026-08-26 17:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洋河股份：2026年上半年淨利潤26.02億元，同比下降40.10%】洋河股份公告，2026年上半年營業收入105.4億元，同比下降28.76%；歸屬於上市公司股東的淨利潤26.02億元，同比下降40.10%，2025年上半年為43.44億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤24.49億元，同比下降42.12%，2025年上半年為42.32億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059704",
+      "time": "2026-08-26 17:24:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京運通：2026年上半年淨利潤虧損3.89億元，2025年上半年虧損2.12億元】京運通公告，2026年上半年營業收入8.62億元，同比下降43.49%；歸屬於上市公司股東的淨利潤虧損3.89億元，2025年上半年虧損2.12億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4.16億元，2025年上半年虧損2.21億元。"
+    },
+    {
+      "id": "5059703",
+      "time": "2026-08-26 17:24:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯阿穆爾天然氣化工廠發生火災事故導致中國公民傷亡】據“中國駐哈巴羅夫斯克總領事館”公眾號訊息，8月25日，俄羅斯阿穆爾州自由城阿穆爾天然氣化工廠發生火災，造成包括多名中國公民在內的人員傷亡。現場搜救和傷員救治工作正在緊張進行，事故原因正在調查中。我館工作組已赴現場開展工作，敦促俄方和專案公司全力救治中方傷員，並妥善做好死亡人員善後和家屬安撫工作。（介面新聞）"
+    },
+    {
+      "id": "5059700",
+      "time": "2026-08-26 17:23:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部重慶監管局：多措並舉開展城鄉居民醫保補助資金稽核紮實築牢民生資金安全屏障】城鄉居民基本醫療保險補助資金是兜牢民生底線、保障基本就醫權益的核心財力支撐。為深入貫徹黨中央、國務院健全社會保障體系工作部署，嚴格落實財政部、國家醫保局有關要求，重慶監管局立足屬地監管職責，堅持以人民為中心，緊扣“精準、從嚴、高效、閉環”工作標準，統籌組織、創新方法、多方聯動，高質量完成2026年度中央財政城鄉居民醫保補助資金稽核工作，推動醫保惠民政策在重慶落地見效。（財政部）"
+    },
+    {
+      "id": "5059699",
+      "time": "2026-08-26 17:23:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀚藍環境：2026年上半年淨利潤12.06億元，同比增長24.76%】瀚藍環境公告，2026年上半年營業收入77.37億元，同比增長34.25%；歸屬於上市公司股東的淨利潤12.06億元，同比增長24.76%；歸屬於上市公司股東的扣除非經常性損益的淨利潤11.8億元，同比增長29.32%。公司擬每10股派發現金紅利2.8元（含稅）。此前披露的收購交易已獲股東會審議透過，正推進上海證券交易所稽核等相關工作。"
+    },
+    {
+      "id": "mkt:01a03d61-8f6a-7aab-9129-2411e5f33792",
+      "time": "2026-08-26 17:23:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said its forces had \"liberated\" Pisarevka in Sumy region and Nezhenka in Zaporizhzhia region."
+    },
+    {
+      "id": "mkt:01a03d61-148e-7aab-9129-1ce6ae047ca6",
+      "time": "2026-08-26 17:22:47",
+      "tags": [
+        "MKT News",
+        "QTEC.O"
+      ],
+      "text": "Invesco Nasdaq Technology ETF said trading will be suspended from market open on Aug. 27, 2026 and will resume at 10:30 on Aug. 27, 2026; redemptions will be processed as normal during the suspension."
+    },
+    {
+      "id": "mkt:01a03d60-d11c-7aab-9129-144c1ea48e67",
+      "time": "2026-08-26 17:22:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's foreign ministry welcomed the integration of the Syrian Democratic Forces (SDF) into Syria's national military institutions. It reiterated support for the Syrian government taking related measures to continue advancing national unity and development."
+    },
+    {
+      "id": "mkt:01a03d60-97a7-7aab-9129-0abe0e28c2a6",
+      "time": "2026-08-26 17:22:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guangfa Nasdaq ETF said it will suspend trading from market open on Aug 27, 2026 and will resume at 10:30 on Aug 27, 2026; redemptions will be processed as normal during the suspension."
+    },
+    {
+      "id": "5059698",
+      "time": "2026-08-26 17:22:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【動力新科：2026年上半年淨利潤7949.78萬元，同比扭虧為盈】動力新科公告，2026年上半年營業收入32.05億元，同比增長13.29%；歸屬於上市公司股東的淨利潤7949.78萬元，2025年同期虧損3.01億元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤5414.95萬元，2025年同期虧損4.31億元，同比扭虧為盈。報告期內，公司實現發動機銷售11.05萬臺，同比增長28.13%。"
+    },
+    {
+      "id": "5059697",
+      "time": "2026-08-26 17:21:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長源東谷：2026年半年度淨利潤1.67億元，同比增長1.66%】長源東谷公告，2026年上半年營業收入10.14億元，同比下降2.03%；歸屬於上市公司股東的淨利潤1.67億元，同比增長1.66%，2025年同期為1.64億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.53億元，同比下降1.99%，2025年同期為1.57億元。公司2026年半年度不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5059696",
+      "time": "2026-08-26 17:21:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海凱鑫：2026年上半年淨利潤1028.86萬元，同比下降67.50%】上海凱鑫公告，2026年上半年營業收入1.07億元，同比下降16.18%；歸屬於上市公司股東的淨利潤1028.86萬元，同比下降67.50%，2025年同期為3165.34萬元；扣除非經常性損益的淨利潤982.02萬元，同比下降65.90%，2025年同期為2879.75萬元。公司擬以總股本6378.35萬股為基數，每10股派發現金紅利1.5元（含稅）。"
+    },
+    {
+      "id": "5059695",
+      "time": "2026-08-26 17:21:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超純應材：2026年上半年淨利潤1.14億元，同比增長85.46%】超純應材公告，2026年上半年營業收入3.06億元，同比增長48.41%；歸屬於上市公司股東的淨利潤1.14億元，同比增長85.46%，2025年同期為6152.95萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.13億元，同比增長35.22%，2025年同期為8323.05萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059694",
+      "time": "2026-08-26 17:21:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省成都市委常委、成都高新區黨工委書記劉任遠接受紀律審查和監察調查】據四川省紀委監委訊息：四川省成都市委常委、成都高新區黨工委書記劉任遠涉嫌嚴重違紀違法，目前正接受四川省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a03d60-050d-7aab-9129-067d62197f45",
+      "time": "2026-08-26 17:21:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "REUTERS SURVEY: India's NIFTY 50 index is forecast to rise 5.0% from Tuesday's close to 25,556 by end-2026 and to 26,300 by mid-2027. The May survey forecasts were 26,000 and 27,000 respectively."
+    },
+    {
+      "id": "5059693",
+      "time": "2026-08-26 17:21:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華建集團：2026年上半年淨利潤1183.37萬元，同比下降91.37%】華建集團公告，2026年上半年營業收入23.59億元，同比下降20.76%；歸屬於上市公司股東的淨利潤1183.37萬元，同比下降91.37%，2025年同期為1.37億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤135.84萬元，同比下降98.37%，2025年同期為8329.97萬元。"
+    },
+    {
+      "id": "5059692",
+      "time": "2026-08-26 17:21:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數收盤下跌0.2%，報5721.59點。"
+    },
+    {
+      "id": "5059691",
+      "time": "2026-08-26 17:21:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【掌閱科技：2026年上半年淨利潤虧損5014.18萬元，2025年同期虧損1.6億元】掌閱科技公告，2026年上半年營業收入17.84億元，同比增長16.89%；歸屬於上市公司股東的淨利潤虧損5014.18萬元，2025年同期虧損1.6億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損7380.02萬元，2025年同期虧損1.71億元。公司2026年半年度不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5059690",
+      "time": "2026-08-26 17:21:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4620美元/盎司，日內跌0.84%。"
+    },
+    {
+      "id": "mkt:01a03d5f-85df-7aab-9128-f9374a03bf34",
+      "time": "2026-08-26 17:21:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ebola outbreak in DRC nears historically severe levels】Washington Post, citing doctors, aid groups and global health agencies, reports the Ebola outbreak in the Democratic Republic of Congo is approaching the country’s worst recorded levels; severe funding shortfalls and widespread misinformation are hindering response efforts. U.S. CDC data show at least 5,605 infections and 2,683 deaths since the first confirmed case on May 15, figures DRC government data largely corroborate. The current toll already exceeds the 2018–2022 outbreak that killed about 2,200, and the outbreak’s initial spread has been faster than the 2014 West Africa epidemic, which ultimately caused more than 11,000 deaths."
+    },
+    {
+      "id": "mkt:01a03d5f-2ed3-7aab-9128-f72f964fcedb",
+      "time": "2026-08-26 17:20:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said Russian President Putin held a phone call with Syria's president."
+    },
+    {
+      "id": "5059689",
+      "time": "2026-08-26 17:20:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正帆科技：2026年半年度淨利潤虧損4999.17萬元，同比由盈轉虧】正帆科技公告，2026年半年度營業收入22.3億元，同比增長10.56%；歸屬於上市公司股東的淨利潤虧損4999.17萬元，上年同期為9424.09萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.1億元，上年同期為5880.19萬元，同比由盈轉虧。"
+    },
+    {
+      "id": "5059688",
+      "time": "2026-08-26 17:20:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洪城環境：2026年上半年淨利潤5.81億元，同比下降4.48%】洪城環境公告，2026年上半年營業收入34.01億元，同比下降7.77%；歸屬於上市公司股東的淨利潤5.81億元，同比下降4.48%，2025年同期為6.09億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5.68億元，同比下降6.10%，2025年同期為6.05億元。"
+    },
     {
       "id": "5059687",
       "time": "2026-08-26 17:19:52",
