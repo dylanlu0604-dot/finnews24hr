@@ -1,7 +1,81 @@
 {
   "date": "2026-08-27",
-  "count": 331,
+  "count": 338,
   "items": [
+    {
+      "id": "5060877",
+      "time": "2026-08-27 04:41:23",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達：二季度某單一直接客戶貢獻總營收的16%。"
+    },
+    {
+      "id": "mkt:01a03fce-4aa0-7aab-9138-200b552f220b",
+      "time": "2026-08-27 04:41:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump: No timetable for Iran to return to talks】US President Trump told Al Jazeera in an interview on the 26th he \"has no timetable\" for when Iran will return to negotiations and is \"not in a hurry.\" He said the US is achieving \"very big victories\" and that Iran faces severe inflation and a collapsing economy. Asked whether economic measures are more effective than military strikes, Trump said \"I think both are effective.\""
+    },
+    {
+      "id": "5060875",
+      "time": "2026-08-27 04:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：對於伊朗何時重返談判“沒有時間表”】美國總統特朗普26日在接受卡達半島電視臺採訪時表示，對於預計伊朗何時重返談判，他“沒有時間表”，而且“不著急”。據半島電視臺26日報道，被問及給伊朗多長時間重返談判時，特朗普回答說：“我沒有時間表，完全沒有。我不著急。”他還說：“我們正在取得非常大的勝利。他們（伊朗）面臨嚴重的通貨膨脹，經濟正在崩潰。”當被問及經濟措施是否比軍事打擊更有效時，特朗普表示：“我認為兩者都有效。”（新華社）"
+    },
+    {
+      "id": "5060872",
+      "time": "2026-08-27 04:40:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達上半年因H200庫存過剩產生4億美元費用。"
+    },
+    {
+      "id": "5060871",
+      "time": "2026-08-27 04:40:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達第二季度中國營收78.8億美元。"
+    },
+    {
+      "id": "5060870",
+      "time": "2026-08-27 04:39:27",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【英偉達財報出爐後美股震盪】英偉達財報釋出後，華爾街交易員推動美股盤後震盪，市場謹慎情緒佔上風。債券走弱，市場押注美聯儲將於年內加息。規模8090億美元的標普500指數ETF在收盤後波動。英偉達因業績指引不及部分投資者預期出現下跌。短期美債表現承壓，貨幣市場已經完全定價12月將會加息。核心通脹資料雖符合預期，但依舊顯著高於美聯儲目標。英偉達公佈業績，預計當前財季營收1080億美元，浮動±2%。分析師平均預期1052億美元，但部分機構預測值高於1100億美元。摩根士丹利財富管理的埃倫·岑特納表示，市場對一切可能推升加息機率的訊息高度敏感，最新經濟資料並不符合市場的期待。岑特納指出，該資料尚不足以改變9月美聯儲會議的政策走向，但如果後續資料延續這一態勢，政策制定者將面臨更大的加息壓力。"
+    },
+    {
+      "id": "mkt:01a03fcb-53cf-7aab-9138-1b1931e7475f",
+      "time": "2026-08-27 04:38:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "SEDG.O",
+        "Impact bullish",
+        "ENPH.O",
+        "TSLA.O"
+      ],
+      "text": "【Trump signs emergency order restricting certain foreign-made power equipment from US grid】Trump on Wednesday signed an emergency executive order, citing national security, that prohibits US procurement or installation of certain foreign-made large power-system equipment and related software judged to pose cybersecurity or operational risks, including transformers. The order empowers the energy secretary to impose restrictions on already-installed equipment where necessary and directs the Department of Energy to issue implementing rules within 120 days; it excludes local distribution facilities. The measure could benefit US electrical-equipment manufacturers, including SolarEdge, Enphase Energy and Tesla (TSLA.O)."
+    },
     {
       "id": "5060864",
       "time": "2026-08-27 04:37:03",
