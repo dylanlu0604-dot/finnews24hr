@@ -1,7 +1,55 @@
 {
   "date": "2026-08-27",
-  "count": 488,
+  "count": 493,
   "items": [
+    {
+      "id": "te:markets:578380",
+      "time": "2026-08-27 06:58:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Hits New Record High — New Zealand stocks climbed 29 points, or 0.2%, to 14,042 in Thursday morning deals, up for the third consecutive session, tracking a rise in US stock futures due to a surge in Nvidia shares after its earnings report. The broader index hit a fresh record high after surpassing 14,000 for the first time on Wednesday, supported by the materials sector. Optimism over earnings reports continued to lift sentiment, with some set to announce their results today, including Genesis Energy and Summerset Group. Traders tried to capitalize on the momentum, with gains in energy, healthcare, utilities, and consumer discretionary. Among early gainers were EBOS Group (2.9%), Chorus (0.8%), and Turners Automotive (0.6%). Meanwhile, Genesis Energy rose 1.1% ahead of the release of its earnings results, while Summerset Group jumped 4.2% after reporting a 92% surge in net profit for the six months ended June 30, 2026."
+    },
+    {
+      "id": "mkt:01a0404b-8599-7aab-9139-d9251c7820c2",
+      "time": "2026-08-27 06:58:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Cook said she will oppose attempts by Trump to remove her from the Federal Reserve."
+    },
+    {
+      "id": "5060984",
+      "time": "2026-08-27 06:57:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓美正致力於解決投資條款分歧】韓國與美國正努力解決投資條款方面的分歧，涉及收益分配、利率等議題，雙方擬敲定韓國對美投資計劃下的首個專案。美國得克薩斯州燃氣聯合迴圈發電廠被視作首個投資專案的首要候選標的。美方要求韓國按單個專案分配該對美投資計劃的收益，該方案或將加大韓國的虧損風險。此次談判之際，美國正向韓國施壓，要求其加快落實投資承諾。韓國計劃於9月敲定首個對美投資專案。"
+    },
+    {
+      "id": "5060983",
+      "time": "2026-08-27 06:55:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克稱，將對抗特朗普將其逐出央行的企圖。"
+    },
+    {
+      "id": "5060982",
+      "time": "2026-08-27 06:54:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克否認存在不當行為，特朗普再度推動將其解職。"
+    },
     {
       "id": "5060981",
       "time": "2026-08-27 06:53:46",
