@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-26 23:07:47",
-  "count": 16739,
+  "updated": "2026-08-26 23:12:16",
+  "count": 16737,
   "items": [
+    {
+      "id": "mkt:01a03e9f-cc1c-7aab-9133-0f53a3ddf1c1",
+      "time": "2026-08-26 23:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelensky inspects front-line troops in southern Ukraine】President Volodymyr Zelensky visited Ukrainian front-line units in southern Ukraine on the 26th, posting on Telegram that he and Armed Forces Commander-in-Chief Drapat inspected the 80th Independent Air Assault Galicia Brigade and the 95th Independent Air Assault Poliska Brigade operating in the Oleksandrivka sector and visited troops. He said he also met with the Zaporizhia regional commander and senior air-assault officers to discuss conscription and supplying the units with necessary weapons and equipment."
+    },
+    {
+      "id": "5060613",
+      "time": "2026-08-26 23:10:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基視察烏軍前線部隊】據烏克蘭國際文傳電訊社26日報道，烏總統澤連斯基當天視察了烏克蘭南部前線部隊。澤連斯基當天在社交媒體“電報”上發文說，他和烏武裝部隊總司令德拉帕特視察了在亞歷山德里夫卡方向執行任務的“第80獨立空降突擊加利西亞旅”和“第95獨立空降突擊波利斯卡旅”並看望了士兵。澤連斯基說，他此行還與扎波羅熱地區指揮官和空降突擊部隊各級指揮官進行了會談，主要議題包括徵兵及為部隊提供必要的武器裝備等。（新華社）"
+    },
+    {
+      "id": "mkt:01a03e9e-dab1-7aab-9133-0321131e873b",
+      "time": "2026-08-26 23:09:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Iranian media: war expected to last days has left Trump mired for six months】Tasnim reported the conflict has stretched to six months, with US public debt up about $4 trillion and missile-interceptor stocks roughly 80% depleted. The report cites 18 dead and 757 wounded. Tasnim said US gasoline has topped $4/gal, US refineries are under strain and a Strait of Hormuz crisis has emerged, shifting costs to American consumers and the global economy. The USS Abraham Lincoln is described as facing operational strain — low crew morale, shortages of drinking water and food and reported suicides. Tasnim said US aims to destroy Iran’s nuclear and missile capabilities remain unmet; the Pentagon has warned of falling ammunition stocks, Senator Schumer has criticized the campaign, and Trump was briefly moved into a food-transport vehicle during a Turkey visit, which Tasnim framed as a security crisis."
+    },
+    {
+      "id": "5060612",
+      "time": "2026-08-26 23:09:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理內塔尼亞胡在烏克蘭獨立 35 週年之際向烏克蘭總統澤連斯基致賀信，信中表示期待兩國關係進一步改善。"
+    },
+    {
+      "id": "5060611",
+      "time": "2026-08-26 23:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：在剛果受該病毒影響省份開展工作的專家表示，剛果民主共和國的埃博拉疫情或將演變為史上規模最大的一次。"
+    },
+    {
+      "id": "mkt:01a03e9c-e9fd-7aab-9132-fea8dad736dc",
+      "time": "2026-08-26 23:07:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HAL, Safran unit sign final contract to co-develop Aravalli 3,500–4,000 shp helicopter engine】Hindustan Aeronautics Limited (HAL) and Safran Helicopter Engines have signed a final contract through their joint venture SAFHAL Helicopter Engines to jointly design and develop the Aravalli helicopter engine. The 3,500–4,000 shp engine is intended for HAL’s planned 13‑tonne class multipurpose helicopter and its naval variant, marking an upgrade in India‑France defence cooperation."
+    },
+    {
+      "id": "5060610",
+      "time": "2026-08-26 23:06:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：知情人士稱摩根大通近期評估推出自家穩定幣的可能性。"
+    },
+    {
+      "id": "5060609",
+      "time": "2026-08-26 23:06:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4590美元/盎司，日內跌1.50%。"
+    },
+    {
+      "id": "5060608",
+      "time": "2026-08-26 23:06:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破82美元/桶，日內跌0.44%。"
+    },
     {
       "id": "5060607",
       "time": "2026-08-26 23:05:42",
@@ -150929,115 +151010,6 @@
         "市場"
       ],
       "text": "奈飛股價漲幅擴大至4%，現報80.86美元，總市值突破3300億美元關口。"
-    },
-    {
-      "id": "5048346",
-      "time": "2026-08-19 23:12:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "優步股價下跌8%，源於市場擔憂Waymo會侵蝕其網約車業務，但公司訂單總額仍保持20%以上的增速。其外賣業務擴張速度遠快於網約車業務，同時優步相較DoorDash存在大幅估值折價。"
-    },
-    {
-      "id": "mkt:01a01a94-2c42-7aab-909b-f076b5b46aeb",
-      "time": "2026-08-19 23:11:53",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceXAI launched Grok 4.6 on Amazon Bedrock."
-    },
-    {
-      "id": "5048345",
-      "time": "2026-08-19 23:11:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceXAI在亞馬遜雲科技Bedrock平臺釋出Grok 4.6大模型。"
-    },
-    {
-      "id": "mkt:01a01a93-b797-7aab-909b-ea77539a1aab",
-      "time": "2026-08-19 23:11:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iraq's national security adviser told Saudi outlet Alhadath that Baghdad will press ahead with weapons-control measures and strengthen security agreements, and will not allow armed groups that threaten neighboring countries' security."
-    },
-    {
-      "id": "5048344",
-      "time": "2026-08-19 23:10:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普： 斯科茨奇蹟格羅是一家很棒的公司。說實話，他們確實給我的競選活動捐過款，你們之後會明白其中緣由。 有人說，這是全球規模最大的草坪養護企業。"
-    },
-    {
-      "id": "mkt:01a01a92-5663-7aab-909b-e6d0f113565a",
-      "time": "2026-08-19 23:09:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Scotts Miracle-Gro provided lawn free of charge."
-    },
-    {
-      "id": "5048343",
-      "time": "2026-08-19 23:09:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Scotts Miracle-Gro漲超6%。"
-    },
-    {
-      "id": "mkt:01a01a91-c126-7aab-909b-df7a7cbd9351",
-      "time": "2026-08-19 23:09:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "SMG.O",
-        "Impact bullish"
-      ],
-      "text": "Scotts Miracle-Gro shares jump more than 6% after Trump called it 'a great company'."
-    },
-    {
-      "id": "5048342",
-      "time": "2026-08-19 23:08:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：斯科茨奇蹟格羅公司是一家優秀企業。"
-    },
-    {
-      "id": "5048341",
-      "time": "2026-08-19 23:08:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅同韓國外長趙顯會談】中共中央政治局委員、外交部長王毅19日在首爾同韓國外長趙顯舉行會談。王毅表示，中韓經貿合作基礎很好，已成為深度融合的利益共同體。中國超大市場為韓國提供“近水樓臺先得月”的巨大機遇。希望雙方不斷做大合作蛋糕，推動傳統產能合作向高附加值合作升級，挖掘人工智慧、綠色轉型、數字經濟、高階裝置、銀髮經濟等新的合作增長點，加快推進中韓自貿協定第二階段談判，深化互利共贏格局。繼續辦好青少年、媒體、體育、智庫、地方等領域交流，不斷改善兩國民意基礎。加強在國際和地區事務中的協調配合，維護地區和平穩定，推動構建更加公正合理的全球治理體系。中方願以今年主辦亞太經合組織領導人非正式會議為契機，同包括韓國在內的各方攜手構建亞太共同體，向國際社會發出積極訊號，為亞太乃至世界和平與發展注入新動力。（新華社）"
-    },
-    {
-      "id": "mkt:01a01a90-c04d-7aab-909b-d1e8c6d479d9",
-      "time": "2026-08-19 23:08:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China foreign minister Wang Yi meets South Korean foreign minister Zhao Xian】China foreign minister Wang Yi met South Korean foreign minister Zhao Xian in Seoul on the 19th. Wang said China–South Korea economic ties are deep and China’s large market gives Korean firms a proximity advantage. He urged expanding and upgrading cooperation toward higher value‑added sectors, highlighting AI, green transition, digital economy, high‑end equipment and the silver economy as new growth areas, and called for accelerated second‑phase negotiations of the China–South Korea free trade agreement. Wang also pushed for closer coordination on regional and international issues to preserve regional stability and promote a fairer global governance framework, and said China will use this year’s informal APEC leaders’ meeting to work with partners including South Korea to build an Asia‑Pacific community."
     }
   ]
 }

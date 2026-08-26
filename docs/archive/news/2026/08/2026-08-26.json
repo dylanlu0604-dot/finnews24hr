@@ -1,7 +1,88 @@
 {
   "date": "2026-08-26",
-  "count": 3242,
+  "count": 3251,
   "items": [
+    {
+      "id": "mkt:01a03e9f-cc1c-7aab-9133-0f53a3ddf1c1",
+      "time": "2026-08-26 23:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelensky inspects front-line troops in southern Ukraine】President Volodymyr Zelensky visited Ukrainian front-line units in southern Ukraine on the 26th, posting on Telegram that he and Armed Forces Commander-in-Chief Drapat inspected the 80th Independent Air Assault Galicia Brigade and the 95th Independent Air Assault Poliska Brigade operating in the Oleksandrivka sector and visited troops. He said he also met with the Zaporizhia regional commander and senior air-assault officers to discuss conscription and supplying the units with necessary weapons and equipment."
+    },
+    {
+      "id": "5060613",
+      "time": "2026-08-26 23:10:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基視察烏軍前線部隊】據烏克蘭國際文傳電訊社26日報道，烏總統澤連斯基當天視察了烏克蘭南部前線部隊。澤連斯基當天在社交媒體“電報”上發文說，他和烏武裝部隊總司令德拉帕特視察了在亞歷山德里夫卡方向執行任務的“第80獨立空降突擊加利西亞旅”和“第95獨立空降突擊波利斯卡旅”並看望了士兵。澤連斯基說，他此行還與扎波羅熱地區指揮官和空降突擊部隊各級指揮官進行了會談，主要議題包括徵兵及為部隊提供必要的武器裝備等。（新華社）"
+    },
+    {
+      "id": "mkt:01a03e9e-dab1-7aab-9133-0321131e873b",
+      "time": "2026-08-26 23:09:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Iranian media: war expected to last days has left Trump mired for six months】Tasnim reported the conflict has stretched to six months, with US public debt up about $4 trillion and missile-interceptor stocks roughly 80% depleted. The report cites 18 dead and 757 wounded. Tasnim said US gasoline has topped $4/gal, US refineries are under strain and a Strait of Hormuz crisis has emerged, shifting costs to American consumers and the global economy. The USS Abraham Lincoln is described as facing operational strain — low crew morale, shortages of drinking water and food and reported suicides. Tasnim said US aims to destroy Iran’s nuclear and missile capabilities remain unmet; the Pentagon has warned of falling ammunition stocks, Senator Schumer has criticized the campaign, and Trump was briefly moved into a food-transport vehicle during a Turkey visit, which Tasnim framed as a security crisis."
+    },
+    {
+      "id": "5060612",
+      "time": "2026-08-26 23:09:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理內塔尼亞胡在烏克蘭獨立 35 週年之際向烏克蘭總統澤連斯基致賀信，信中表示期待兩國關係進一步改善。"
+    },
+    {
+      "id": "5060611",
+      "time": "2026-08-26 23:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：在剛果受該病毒影響省份開展工作的專家表示，剛果民主共和國的埃博拉疫情或將演變為史上規模最大的一次。"
+    },
+    {
+      "id": "mkt:01a03e9c-e9fd-7aab-9132-fea8dad736dc",
+      "time": "2026-08-26 23:07:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HAL, Safran unit sign final contract to co-develop Aravalli 3,500–4,000 shp helicopter engine】Hindustan Aeronautics Limited (HAL) and Safran Helicopter Engines have signed a final contract through their joint venture SAFHAL Helicopter Engines to jointly design and develop the Aravalli helicopter engine. The 3,500–4,000 shp engine is intended for HAL’s planned 13‑tonne class multipurpose helicopter and its naval variant, marking an upgrade in India‑France defence cooperation."
+    },
+    {
+      "id": "5060610",
+      "time": "2026-08-26 23:06:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：知情人士稱摩根大通近期評估推出自家穩定幣的可能性。"
+    },
+    {
+      "id": "5060609",
+      "time": "2026-08-26 23:06:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4590美元/盎司，日內跌1.50%。"
+    },
+    {
+      "id": "5060608",
+      "time": "2026-08-26 23:06:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破82美元/桶，日內跌0.44%。"
+    },
     {
       "id": "5060607",
       "time": "2026-08-26 23:05:42",
