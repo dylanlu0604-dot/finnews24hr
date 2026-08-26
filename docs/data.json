@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-26 23:20:53",
+  "updated": "2026-08-26 23:25:28",
   "count": 16736,
   "items": [
+    {
+      "id": "mkt:01a03eab-68be-7aab-9133-4b952613afc3",
+      "time": "2026-08-26 23:23:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's atomic energy chief Eslami said Trump's threats to bomb alleged Iranian secret nuclear sites expose international organizations as \"pawns\" of the US and Israel."
+    },
+    {
+      "id": "mkt:01a03eaa-bb02-7aab-9133-402ff938191a",
+      "time": "2026-08-26 23:22:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Iran's nuclear chief Eslami said the IAEA cannot demand inspections of Iranian nuclear facilities before a related agreement is finalized."
+    },
+    {
+      "id": "5060621",
+      "time": "2026-08-26 23:22:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗核事務負責人埃斯拉米：特朗普揚言轟炸伊朗所謂秘密核設施一事，暴露了國際組織淪為美國與以色列棋子的現實。"
+    },
+    {
+      "id": "5060620",
+      "time": "2026-08-26 23:21:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗核事務負責人埃斯拉米： 在擬定相關議定書之前，國際原子能機構不得要求核查伊朗核設施。"
+    },
+    {
+      "id": "mkt:01a03ea9-65fe-7aab-9133-3eb7178f3665",
+      "time": "2026-08-26 23:21:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's nuclear agency head Eslami said Iran remains in a wartime state and its nuclear facilities are not yet secure enough to accept inspections."
+    },
+    {
+      "id": "5060619",
+      "time": "2026-08-26 23:20:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗核事務負責人埃斯拉米向官方媒體表示：伊朗仍處於戰時狀態，其核設施尚未做好接受核查的安保準備。"
+    },
     {
       "id": "mkt:01a03ea8-343c-7aab-9133-37a8bca57fe4",
       "time": "2026-08-26 23:20:05",
@@ -150960,55 +151015,6 @@
         "Importance 0"
       ],
       "text": "Palladium Rebounds — Palladium futures rose above $1,320 per ounce, rebounding from recent lows, as a drop in bond yields from multi-year highs boosted the appeal of non-yielding metals. The US Treasury announced it will increase its buyback operations, pushing borrowing costs lower and boosting demand for non-yielding metals. On the supply side, concerns over power supply disruptions and uncertainty surrounding Russian exports continued to underpin prices. Meanwhile, uncertainty over shipments through the Strait of Hormuz kept industrial buyers cautious. Although rising hybrid vehicle demand has provided near-term support for autocatalyst consumption, markets remain cautious amid the broader shift in demand toward EVs, which recorded a fifth consecutive monthly increase in July, as the palladium market could still record a global surplus."
-    },
-    {
-      "id": "5048355",
-      "time": "2026-08-19 23:24:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破67000美元，日內漲3.84%。"
-    },
-    {
-      "id": "mkt:01a01a9f-dc1e-7aab-909c-2c9f624bf41f",
-      "time": "2026-08-19 23:24:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zambian opposition leader Brian Mundubile said he will legally challenge the presidential election result."
-    },
-    {
-      "id": "5048354",
-      "time": "2026-08-19 23:23:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫：伊朗、伊拉克及人民已經認識到，本地區所有問題的最大根源和主要因素就是美國。"
-    },
-    {
-      "id": "mkt:01a01a9e-1e60-7aab-909c-20925add42fc",
-      "time": "2026-08-19 23:22:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to CNN, Trump said of the White House refurbishment, \"Interestingly, I haven't been criticized at all,\" and added, \"This will become the world's greatest military complex and banquet hall.\""
-    },
-    {
-      "id": "mkt:01a01a9d-944e-7aab-909c-19fadc607bf6",
-      "time": "2026-08-19 23:22:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reported Egypt announced it has opened diplomatic contacts with Iran to ease tensions."
-    },
-    {
-      "id": "5048353",
-      "time": "2026-08-19 23:21:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及宣佈已與伊朗恢復外交接觸，以緩解緊張局勢。"
     }
   ]
 }

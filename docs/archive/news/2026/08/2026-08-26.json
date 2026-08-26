@@ -1,7 +1,62 @@
 {
   "date": "2026-08-26",
-  "count": 3262,
+  "count": 3268,
   "items": [
+    {
+      "id": "mkt:01a03eab-68be-7aab-9133-4b952613afc3",
+      "time": "2026-08-26 23:23:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's atomic energy chief Eslami said Trump's threats to bomb alleged Iranian secret nuclear sites expose international organizations as \"pawns\" of the US and Israel."
+    },
+    {
+      "id": "mkt:01a03eaa-bb02-7aab-9133-402ff938191a",
+      "time": "2026-08-26 23:22:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "Iran's nuclear chief Eslami said the IAEA cannot demand inspections of Iranian nuclear facilities before a related agreement is finalized."
+    },
+    {
+      "id": "5060621",
+      "time": "2026-08-26 23:22:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗核事務負責人埃斯拉米：特朗普揚言轟炸伊朗所謂秘密核設施一事，暴露了國際組織淪為美國與以色列棋子的現實。"
+    },
+    {
+      "id": "5060620",
+      "time": "2026-08-26 23:21:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗核事務負責人埃斯拉米： 在擬定相關議定書之前，國際原子能機構不得要求核查伊朗核設施。"
+    },
+    {
+      "id": "mkt:01a03ea9-65fe-7aab-9133-3eb7178f3665",
+      "time": "2026-08-26 23:21:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's nuclear agency head Eslami said Iran remains in a wartime state and its nuclear facilities are not yet secure enough to accept inspections."
+    },
+    {
+      "id": "5060619",
+      "time": "2026-08-26 23:20:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗核事務負責人埃斯拉米向官方媒體表示：伊朗仍處於戰時狀態，其核設施尚未做好接受核查的安保準備。"
+    },
     {
       "id": "mkt:01a03ea8-343c-7aab-9133-37a8bca57fe4",
       "time": "2026-08-26 23:20:05",
