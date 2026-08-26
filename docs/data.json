@@ -1,7 +1,121 @@
 {
-  "updated": "2026-08-27 00:16:11",
-  "count": 16698,
+  "updated": "2026-08-27 00:20:22",
+  "count": 16703,
   "items": [
+    {
+      "id": "5060651",
+      "time": "2026-08-27 00:19:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行開通國庫資金匯劃“綠色通道”保障救災資金撥付】從中國人民銀行獲悉，中國人民銀行西藏自治區分行已開通國庫資金匯劃“綠色通道”，緊急撥付吉隆縣吉隆口岸泥石流救災資金，組織轄內國庫全力做好救災服務保障工作。（新華社）"
+    },
+    {
+      "id": "mkt:01a03edd-294e-7aab-9134-6f550835641d",
+      "time": "2026-08-27 00:17:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose above $88/bbl, up 2.57% intraday."
+    },
+    {
+      "id": "5060650",
+      "time": "2026-08-27 00:17:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報88.15美元/桶。"
+    },
+    {
+      "id": "5060649",
+      "time": "2026-08-27 00:17:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破88美元/桶，日內漲1.00%。"
+    },
+    {
+      "id": "5060648",
+      "time": "2026-08-27 00:17:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報83.29美元/桶。"
+    },
+    {
+      "id": "mkt:01a03edc-a26e-7aab-9134-60dd4fc4dcd0",
+      "time": "2026-08-27 00:17:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude futures topped $83/bbl, up 2.33% on the day."
+    },
+    {
+      "id": "5060647",
+      "time": "2026-08-27 00:17:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破83美元/桶，日內漲0.79%。"
+    },
+    {
+      "id": "mkt:01a03edc-3c96-7aab-9134-5a4a727b388b",
+      "time": "2026-08-27 00:16:55",
+      "tags": [
+        "MKT News",
+        "UBSG.SW",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank vice chair supports the government's proposal for stricter capital rules for UBS, saying the measure will make the Swiss financial market more resilient."
+    },
+    {
+      "id": "5060646",
+      "time": "2026-08-27 00:16:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "瑞士國家銀行支援政府針對瑞銀出臺更嚴苛資本監管規則的提案。"
+    },
+    {
+      "id": "mkt:01a03edb-8419-7aab-9134-5722b70bc989",
+      "time": "2026-08-27 00:16:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: the White House will announce most-favored-nation drug-pricing agreements with several biotechnology firms."
+    },
+    {
+      "id": "mkt:01a03edb-43bf-7aab-9134-4f3b847556ca",
+      "time": "2026-08-27 00:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's foreign ministry said it has dispatched a C-130J aircraft to Nepal carrying 10 tonnes of supplies."
+    },
+    {
+      "id": "te:markets:578351",
+      "time": "2026-08-27 00:15:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat is up by 5.04% — Wheat increased 5.04% to 720.08 USd/Bu"
+    },
     {
       "id": "te:markets:578349",
       "time": "2026-08-27 00:14:56",
@@ -150639,67 +150753,6 @@
         "MKT News"
       ],
       "text": "Canada's minister for Canada–U.S. trade, LeBlanc, said negotiations on a trade agreement with the U.S. remain ongoing."
-    },
-    {
-      "id": "5048413",
-      "time": "2026-08-20 00:19:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛投行聯合負責人麥克盧爾：人工智慧的利好效應對IPO有著顯著影響。"
-    },
-    {
-      "id": "mkt:01a01ad2-500f-7aab-909d-6f02e186d0b0",
-      "time": "2026-08-20 00:19:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's Prime Minister Carney said Ottawa is moving toward a trade agreement with the United States, with negotiations making significant progress."
-    },
-    {
-      "id": "5048412",
-      "time": "2026-08-20 00:19:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "加拿大總理卡尼表示，加拿大正推進與美國達成貿易協定，談判已取得重大進展。"
-    },
-    {
-      "id": "5048411",
-      "time": "2026-08-20 00:19:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "AI科學家李飛飛：美國AI反對聲浪恐給全球帶來風險。"
-    },
-    {
-      "id": "5048410",
-      "time": "2026-08-20 00:18:23",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛投行聯合負責人麥克盧爾：中端市場併購是高盛的業務增長領域。"
-    },
-    {
-      "id": "te:markets:576580",
-      "time": "2026-08-20 00:18:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.8% to 52,618 on Wednesday, amid losses for banks and AI companies. STMicroelectronics dropped 2.8%, extending the previous session’s selling pressure, while Prysmian fell 0.8%. Financials also underperformed as Italian BTPs refrained from rebounding to the extent of US Treasuries after the US doubled its bond and note buyback. MPS fell 2% amid reports that it is considering potential takeover-defence options against Intesa’s(-1.4%) earlier bid, under which MPS’ insurance operations would be sold to Unipol (-2.6%), BPER Banca’s (-1.5%) largest shareholder. MPS CEO said the bank is also working on two potential share-swap offers for rival Banco BPM (-0.5%) and Generali-controlled (-1.4%) wealth manager Banca Generali. On the upside, Stellantis surged 5.9%, tracking gains across the European auto sector after the US president announced a three-day suspension of import tariffs on Canadian imports that were due to take effect today."
-    },
-    {
-      "id": "5048409",
-      "time": "2026-08-20 00:17:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛投行聯合負責人麥克盧爾：IPO市場對企業而言“機會完全敞開”。"
     }
   ]
 }
