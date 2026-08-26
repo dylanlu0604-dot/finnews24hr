@@ -1,7 +1,116 @@
 {
-  "updated": "2026-08-26 22:18:21",
-  "count": 16781,
+  "updated": "2026-08-26 22:22:58",
+  "count": 16785,
   "items": [
+    {
+      "id": "5060551",
+      "time": "2026-08-26 22:20:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "達信集團(Marsh & McLennan Companies Inc)：推出Stratus，一個價值100億美元的財產保險交易所，專門針對運營性數字基礎設施風險。"
+    },
+    {
+      "id": "5060550",
+      "time": "2026-08-26 22:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東物流推出超腦大模型3.0，實現倉儲配送全程AI指揮】8月26日，在第十八屆國際交通技術與裝置展覽會上，京東物流正式推出超腦大模型3.0，該模型是實現從倉儲到配送全程AI排程的工業級大模型整合應用，也是大模型在供應鏈全鏈路的大規模落地實踐。 （中國經營報）"
+    },
+    {
+      "id": "mkt:01a03e71-4fd7-7aab-9131-a714561d8d44",
+      "time": "2026-08-26 22:20:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude inventories, Cushing crude stocks and Strategic Petroleum Reserve levels for the week to Aug. 21 will be released in 10 minutes."
+    },
+    {
+      "id": "mkt:01a03e71-3132-7aab-9131-9c9e2c058a2a",
+      "time": "2026-08-26 22:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury issued a Russia-related general license authorizing transactions tied to the import of certain prohibited Russian diamonds."
+    },
+    {
+      "id": "5060549",
+      "time": "2026-08-26 22:19:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【COMEX銅期貨跌超1%】COMEX銅期貨跌超1%，現報6.64美元/磅。"
+    },
+    {
+      "id": "5060548",
+      "time": "2026-08-26 22:19:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官網：美國發布針對俄羅斯的通用許可，授權與進口特定受禁鑽石相關的交易。"
+    },
+    {
+      "id": "te:markets:578306",
+      "time": "2026-08-26 22:19:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Nears Record High on Banking and Energy Gains — The S&P/TSX Composite Index edged higher to trade above 37,000 on Wednesday, tracking for another record high amid bank earnings. BMO (+0.3%) and Scotiabank (+2%) advanced after reporting stronger-than-expected quarterly results on Tuesday, while RBC (+0.5%), TD Bank (+1%) and CIBC (+0.3%) report on Thursday. National Bank fell nearly 5% despite reporting third-quarter profit above expectations. Energy stocks gained despite lower oil prices amid renewed talks between Iran and Oman, as prices remained elevated and prospects for a US-Iran peace deal uncertain. Canadian Natural, Suncor and Cenovus gained about 1%. Miners were mostly lower as gold prices slipped following US PCE data above forecasts, raising expectations for a Fed rate hike. Agnico Eagle, Barrick and Franco-Nevada shed over 1%, while WPM lost more than 2%."
+    },
+    {
+      "id": "5060547",
+      "time": "2026-08-26 22:19:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：與俄羅斯的許可證授權進行部分鑽石交易。"
+    },
+    {
+      "id": "mkt:01a03e6f-cae2-7aab-9131-922a2a990760",
+      "time": "2026-08-26 22:18:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury issued Russia-related General License 104B."
+    },
+    {
+      "id": "5060546",
+      "time": "2026-08-26 22:17:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【兩趟國際班列首發 暢通中歐班列物流新通道】今天（8月26日），全國首列南通道中歐班列鄭州—巴庫提單班列和全國首列中老泰圖定快速班列，從河南鄭州國際陸港發出。南通道中歐班列（鄭州—巴庫）提單班列共有55組集裝箱，裝載汽車配件、家用電器等外貿貨品，目的地為亞塞拜然首都巴庫。同日首發的中老泰圖定快速班列，將經雲南磨憨口岸出境，縱貫寮國全境直達泰國林查班班口岸，全程執行僅需5天至6天，運輸時間大幅縮減。（央視新聞）"
+    },
+    {
+      "id": "5060545",
+      "time": "2026-08-26 22:17:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布與俄羅斯相關的通用許可證 104B。"
+    },
+    {
+      "id": "5060544",
+      "time": "2026-08-26 22:17:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織：非洲各國衛生部長透過全新戰略以加強衛生體系。"
+    },
     {
       "id": "5060543",
       "time": "2026-08-26 22:16:59",
@@ -151389,80 +151498,6 @@
         "MKT News"
       ],
       "text": "【IDF chief inspects buffer zone in southern Syria】On the morning of the 19th (local time), IDF Chief of General Staff Zamir inspected the Israeli-controlled buffer zone in southern Syria. He received a security briefing with senior officers and met reservists deployed in the area."
-    },
-    {
-      "id": "5048264",
-      "time": "2026-08-19 22:22:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局：我國牽頭制定的全球首個算電協同領域國際標準成功立項】據國家市場監督管理總局訊息，近日，由我國向國際電工委員會（IEC）提出的《資料中心微電網監控與能量管理系統技術規範》提案獲批立項。該標準是全球首個聚焦資料中心算電協同領域的IEC國際標準，由我國專家擔任專案負責人，聯合法國、德國、西班牙等多國專家共同制定。該標準的研製將系統性解決算電融合新興場景下算力與電力聯合監控與能量管理無據可依的行業難題，對推動全球算力產業綠色低碳轉型、提升能源數字融合發展水平具有重要意義。"
-    },
-    {
-      "id": "5048263",
-      "time": "2026-08-19 22:22:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【農夫山泉進軍電解質水賽道】今年，農夫山泉（09633.HK）於3月悄然上新的一款電解質飲料，刷屏國內不少核心城市的樓宇電梯。 農夫山泉的這款電解質飲料共有檸檬和西柚兩種風味，目前有550ml/瓶和950ml/瓶兩種規格，其中550ml×15瓶加上平臺補貼後售價55元，摺合售價約3.67元/瓶，950ml×12瓶優惠後售價60元，相當於5元/瓶。 “包裝飲用水一哥”發力電解質飲料，並非個例。 作為近幾年飲料市場增長最快的細分品類之一，電解質飲料正從小眾運動飲料走向大眾市場，甚至有成為“水替”的趨勢，是眾多水飲企業的必爭之地。 根據快消品線下監測機構“馬上贏”資料，元氣森林旗下電解質水品牌“外星人”卡位更早，2025年上半年以46.54%的市場份額拿下第一，東鵬飲料（605499.SH/09980.HK）旗下電解質水品牌“補水啦”與日本大冢製藥的“寶礦力水特”分列第二、第三位。（21財經）"
-    },
-    {
-      "id": "te:economy:576529",
-      "time": "2026-08-19 22:21:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield Eases — South Africa’s 10-year government bond yield fell to around 8.64%, pulling back after reaching a high of 8.74% on August 18, the steepest since July 30. The retreat came as global bond markets recovered after the US Treasury moved to strengthen liquidity support for long-dated securities, helping reverse some of the recent selloff. Meanwhile, traders digested the latest domestic inflation data while awaiting the FOMC minutes for further guidance on interest rates. Headline inflation slowed more than expected to 4.3% in July from 5% in June, although core inflation accelerated slightly for the fifth month to 4.2%. However, the softer July reading may offer only temporary relief, as higher diesel prices in August and expected fuel price increases in September could push inflation higher again. This leaves the SARB’s September decision finely balanced between a hold and a 25-bps hike. The central bank left rates unchanged at 7% last month, citing an improved inflation outlook."
-    },
-    {
-      "id": "5048262",
-      "time": "2026-08-19 22:21:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫：美國及其挑起的戰爭是地區安全缺失、阻礙正常貿易通道的根源。"
-    },
-    {
-      "id": "5048261",
-      "time": "2026-08-19 22:20:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【臺胞住房公積金跨境直付業務在崑山落地】這兩天，臺胞住房公積金跨境直付業務在江蘇崑山正式落地，這是大陸住房公積金首次實現直接劃轉至臺灣地區個人銀行賬戶，兩岸金融服務便利化再進一步。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a01a64-bf9c-7aab-9099-c3c2af2c4f77",
-      "time": "2026-08-19 22:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. EIA weekly crude oil inventories, Cushing crude stocks and Strategic Petroleum Reserve levels for the week to Aug. 14 are due in 10 minutes."
-    },
-    {
-      "id": "5048260",
-      "time": "2026-08-19 22:19:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《空槍》上映1天 ，總票房破5000萬 。"
-    },
-    {
-      "id": "5048259",
-      "time": "2026-08-19 22:19:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【楊東寧調任中國人保專職副書記】記者8月19日從相關渠道獲悉，中國進出口銀行副行長楊東寧已調任中國人保，任專職副書記。"
     }
   ]
 }

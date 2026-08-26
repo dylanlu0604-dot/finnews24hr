@@ -1,7 +1,116 @@
 {
   "date": "2026-08-26",
-  "count": 3129,
+  "count": 3141,
   "items": [
+    {
+      "id": "5060551",
+      "time": "2026-08-26 22:20:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "達信集團(Marsh & McLennan Companies Inc)：推出Stratus，一個價值100億美元的財產保險交易所，專門針對運營性數字基礎設施風險。"
+    },
+    {
+      "id": "5060550",
+      "time": "2026-08-26 22:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東物流推出超腦大模型3.0，實現倉儲配送全程AI指揮】8月26日，在第十八屆國際交通技術與裝置展覽會上，京東物流正式推出超腦大模型3.0，該模型是實現從倉儲到配送全程AI排程的工業級大模型整合應用，也是大模型在供應鏈全鏈路的大規模落地實踐。 （中國經營報）"
+    },
+    {
+      "id": "mkt:01a03e71-4fd7-7aab-9131-a714561d8d44",
+      "time": "2026-08-26 22:20:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude inventories, Cushing crude stocks and Strategic Petroleum Reserve levels for the week to Aug. 21 will be released in 10 minutes."
+    },
+    {
+      "id": "mkt:01a03e71-3132-7aab-9131-9c9e2c058a2a",
+      "time": "2026-08-26 22:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury issued a Russia-related general license authorizing transactions tied to the import of certain prohibited Russian diamonds."
+    },
+    {
+      "id": "5060549",
+      "time": "2026-08-26 22:19:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【COMEX銅期貨跌超1%】COMEX銅期貨跌超1%，現報6.64美元/磅。"
+    },
+    {
+      "id": "5060548",
+      "time": "2026-08-26 22:19:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官網：美國發布針對俄羅斯的通用許可，授權與進口特定受禁鑽石相關的交易。"
+    },
+    {
+      "id": "te:markets:578306",
+      "time": "2026-08-26 22:19:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Nears Record High on Banking and Energy Gains — The S&P/TSX Composite Index edged higher to trade above 37,000 on Wednesday, tracking for another record high amid bank earnings. BMO (+0.3%) and Scotiabank (+2%) advanced after reporting stronger-than-expected quarterly results on Tuesday, while RBC (+0.5%), TD Bank (+1%) and CIBC (+0.3%) report on Thursday. National Bank fell nearly 5% despite reporting third-quarter profit above expectations. Energy stocks gained despite lower oil prices amid renewed talks between Iran and Oman, as prices remained elevated and prospects for a US-Iran peace deal uncertain. Canadian Natural, Suncor and Cenovus gained about 1%. Miners were mostly lower as gold prices slipped following US PCE data above forecasts, raising expectations for a Fed rate hike. Agnico Eagle, Barrick and Franco-Nevada shed over 1%, while WPM lost more than 2%."
+    },
+    {
+      "id": "5060547",
+      "time": "2026-08-26 22:19:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：與俄羅斯的許可證授權進行部分鑽石交易。"
+    },
+    {
+      "id": "mkt:01a03e6f-cae2-7aab-9131-922a2a990760",
+      "time": "2026-08-26 22:18:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury issued Russia-related General License 104B."
+    },
+    {
+      "id": "5060546",
+      "time": "2026-08-26 22:17:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【兩趟國際班列首發 暢通中歐班列物流新通道】今天（8月26日），全國首列南通道中歐班列鄭州—巴庫提單班列和全國首列中老泰圖定快速班列，從河南鄭州國際陸港發出。南通道中歐班列（鄭州—巴庫）提單班列共有55組集裝箱，裝載汽車配件、家用電器等外貿貨品，目的地為亞塞拜然首都巴庫。同日首發的中老泰圖定快速班列，將經雲南磨憨口岸出境，縱貫寮國全境直達泰國林查班班口岸，全程執行僅需5天至6天，運輸時間大幅縮減。（央視新聞）"
+    },
+    {
+      "id": "5060545",
+      "time": "2026-08-26 22:17:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布與俄羅斯相關的通用許可證 104B。"
+    },
+    {
+      "id": "5060544",
+      "time": "2026-08-26 22:17:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織：非洲各國衛生部長透過全新戰略以加強衛生體系。"
+    },
     {
       "id": "5060543",
       "time": "2026-08-26 22:16:59",
