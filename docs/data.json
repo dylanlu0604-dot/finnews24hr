@@ -1,7 +1,92 @@
 {
-  "updated": "2026-08-27 00:03:43",
+  "updated": "2026-08-27 00:07:54",
   "count": 16703,
   "items": [
+    {
+      "id": "te:markets:578340",
+      "time": "2026-08-27 00:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Little Changed on Wednesday — The FTSE 100 was little changed on Wednesday, ending a six-session winning streak. Sage was among the biggest fallers, dropping nearly 4% after a cautious outlook from US software peer Intuit renewed concerns about the potential impact of artificial intelligence on the sector. Energy stocks also weighed on the index, with BP down 1.3% and Shell 0.4%, while AstraZeneca and GSK both declined. Oil prices remained volatile as signs of increased crude flows from the Persian Gulf emerged, while investors awaited developments in talks between Iran and Oman over potentially restoring shipping through the Strait of Hormuz. Entain and Persimmon remained under pressure after FTSE Russell indicated they would be removed from the FTSE 100 in its latest reshuffle. Meanwhile, Ofgem announced a 4% increase in the UK energy price cap from October. Investors are also awaiting Nvidia’s results for fresh clues on the strength of AI-related demand."
+    },
+    {
+      "id": "5060642",
+      "time": "2026-08-27 00:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "泛歐交易所 12 月小麥期貨上漲 3.5%，觸及一個月高位。"
+    },
+    {
+      "id": "mkt:01a03ed1-b97a-7aab-9134-41f689aa2fbd",
+      "time": "2026-08-27 00:05:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) will hold a new iPhone launch event on Sept. 9."
+    },
+    {
+      "id": "mkt:01a03ed1-343f-7aab-9134-3efbdc782d40",
+      "time": "2026-08-27 00:04:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News reports Lebanese President Aoun continues to advocate US-mediated talks with Israel."
+    },
+    {
+      "id": "5060641",
+      "time": "2026-08-27 00:04:13",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "蘋果將於9月9日舉行新款iPhone釋出會。"
+    },
+    {
+      "id": "te:markets:578338",
+      "time": "2026-08-27 00:03:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Gains on Hormuz Reopening Hopes — The CAC 40 climbed 0.3% to close at 8,462 on Wednesday amid increasing hopes for the reopening of the Strait of Hormuz. Oil prices eased after Iran said it had resumed discussions with Oman on managing traffic through the waterway, following heightened economic pressure from the US. Credit-sensitive sectors were mixed as energy costs remained elevated and uncertainty over US-Iran peace prospects persisted. BNP Paribas added 1.2%, while Société Générale shed 0.3%. Luxury stocks were also mixed amid geopolitical risks and ahead of Fitch’s rating review of France on August 28th. LVMH gained 0.7% and Kering rose 2.2%, while L’Oreal shed 0.3% and Hermes lost 0.6%. Industrials were mostly higher, with Schneider Electric up 1%, Airbus rising 0.6% and Safran adding 1.9%. Pernod Ricard (+0.6%) will release its full-year FY26 sales and results report on Thursday. TotalEnergies shed 0.5% on lower oil prices."
+    },
+    {
+      "id": "mkt:01a03ecf-5529-7aab-9134-35300e72aa1b",
+      "time": "2026-08-27 00:02:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Sources: Russia preparing to intensify strikes on Ukraine, sees talks at dead end】Three people close to the Kremlin said Russia, having judged peace talks to be at a dead end, is preparing to escalate military strikes on Ukraine. Moscow is considering stepped-up heavy conventional ballistic-missile strikes on Kyiv and other Ukrainian cities’ infrastructure targets, the sources said. They added that Putin is unlikely to end the war in response to sanctions or Ukrainian attacks on Russian refineries and logistics, and that Moscow increasingly views Ukrainian strikes as attacks by NATO states because of weapons and intelligence support. The sources said the current phase of hostilities has not yet reached the peak of military escalation."
+    },
+    {
+      "id": "mkt:01a03ece-af47-7aab-9134-2f0d36a2f6fe",
+      "time": "2026-08-27 00:02:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: weekly inflation for the week to Aug 24 was 0.01%, versus -0.02% in the prior week."
+    },
     {
       "id": "mkt:01a03ece-29bf-7aab-9134-221315150794",
       "time": "2026-08-27 00:01:33",
@@ -150659,84 +150744,6 @@
         "Importance 1"
       ],
       "text": "European Stocks Inch Lower — European stocks closed slightly lower on Wednesday amid sharp losses for banks and AI stocks. The Euro STOXX 50 dropped 0.2% to 6,454 and the STOXX Europe 600 closed flat at 652. European banks tumbled in the session despite the pullback in long-term yields after the US Treasury doubled its buyback program. BNP Paribas and ING fell 2.4% each, while Santander, UniCredit, and Intesa Sanpaolo lost 1.3%. In the meantime, ASML dropped 2.2% and Infineon slumped 4%, tracking the AI infrastructure sector in the US after financial results from OpenAI refrained from keeping up with the sharp growth from Antropic. On the other hand, consumer cyclical companies closed higher with Inditex and LVMH gaining around 2% each. Also, the jump in gold prices from the Treasury intervention lifted miners in London, with Rio Tinto and Glencore adding 4% and 5%, respectively."
-    },
-    {
-      "id": "5048403",
-      "time": "2026-08-20 00:07:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：擊中了一艘運載武器的烏克蘭船隻。"
-    },
-    {
-      "id": "te:markets:576574",
-      "time": "2026-08-20 00:07:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.17% Higher — The FTSE 100 Index rose 18 points or 0.17 percent on Wednesday to close at 10746 points. Leading the gains are Fresnillo (7.64%), Endeavour (7.59%) and Croda International (5.47%). Top losers were Smith & Nephew (-3.87%), IG Group Holdings (-2.96%) and BAE Systems (-2.94%)."
-    },
-    {
-      "id": "mkt:01a01ac6-a262-7aab-909d-42f64052dd53",
-      "time": "2026-08-20 00:07:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy dismisses deputy presidential office head】Ukrainian President Zelenskiy on the 19th signed a decree dismissing deputy head of the presidential office Iryna Mudra; the presidential website gave no reason."
-    },
-    {
-      "id": "5048402",
-      "time": "2026-08-20 00:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副外長：霍爾木茲海峽的航運應當保持自由。"
-    },
-    {
-      "id": "5048401",
-      "time": "2026-08-20 00:06:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國聯邦貿易委員會警告零售商不得利用消費者私人資料抬價】美國聯邦貿易委員會警告企業，若使用高度詳盡的個人資料生成個性化報價，必須予以披露。商家愈發擅長利用消費者個人資料，包括線上購物習慣、手機使用行為，測算單個消費者對高價的承受能力。如今美國聯邦貿易委員會向企業發出警示，該行為可能違反消費者保護相關法律。聯邦貿易委員會將於週三釋出一份全新執法公告，告知企業：若使用高度詳盡的個人資訊生成個性化報價，必須進行披露。這份新宣告，代表特朗普政府介入正在興起的監管浪潮，約束商家對定價演算法的使用。"
-    },
-    {
-      "id": "mkt:01a01ac5-7a7d-7aab-909d-3f3bb550de10",
-      "time": "2026-08-20 00:05:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "Foreign Minister Lavrov said Russia is entitled to regard the use of UK-made weapons in strikes on Russian territory as evidence of UK involvement in the Ukraine conflict."
-    },
-    {
-      "id": "5048400",
-      "time": "2026-08-20 00:04:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭總統辦公室副主任被解職】據烏克蘭總統網站19日訊息，烏克蘭總統澤連斯基當天簽署法令，解除烏總統辦公室副主任伊琳娜·穆德拉職務。網站未說明解職原因。"
-    },
-    {
-      "id": "mkt:01a01ac4-8122-7aab-909d-3053916613c2",
-      "time": "2026-08-20 00:04:40",
-      "tags": [
-        "MKT News",
-        "XLY",
-        "Impact mixed",
-        "XRT",
-        "AMZN.O"
-      ],
-      "text": "Wall Street Journal reports the U.S. Federal Trade Commission (FTC) has warned retailers against using private consumer data to raise prices; firms adopting personalized pricing must disclose the practice or may face litigation."
     }
   ]
 }
