@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-27 00:37:06",
-  "count": 16694,
+  "updated": "2026-08-27 00:41:16",
+  "count": 16696,
   "items": [
+    {
+      "id": "mkt:01a03ef0-6f13-7aab-9134-98416276d754",
+      "time": "2026-08-27 00:38:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Japan is seeking to increase H3 rocket launches to catch up with SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5060660",
+      "time": "2026-08-27 00:38:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本謀求增加 H3 火箭發射次數，以此追趕SpaceX。"
+    },
+    {
+      "id": "5060659",
+      "time": "2026-08-27 00:37:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "藥明合聯的配股價定為73.23港元/股。"
+    },
+    {
+      "id": "mkt:01a03eee-f8da-7aab-9134-93ea17bd97a4",
+      "time": "2026-08-27 00:37:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House to announce MFN-style drug-pricing deals with mid-sized biotechs】People familiar with the matter said the White House plans to announce on Monday a new round of most-favored-nation (MFN) drug-pricing agreements with several mid-sized biotech firms. Under the deals, companies would provide outpatient drug discounts to Medicaid so state-paid prices align with their overseas prices; states may opt in. In return, firms would be exempt from a Medicare pilot requiring similar discounts, and some talks include tariff relief. It is unclear which companies are involved or the likely savings. The administration has already reached similar agreements with 17 large drugmakers, including Pfizer and Eli Lilly. Researchers estimate that if the Medicaid pricing mechanism covered 82 high-priced branded drugs, states could save more than $8 billion a year."
+    },
     {
       "id": "5060658",
       "time": "2026-08-27 00:35:40",
@@ -150672,25 +150704,6 @@
         "MKT News"
       ],
       "text": "【WEF renews push to appoint ECB chief Lagarde as forum chair】The World Economic Forum’s board discussed this week efforts to recruit European Central Bank president Christine Lagarde as its next chair, people familiar with the matter said. Sources say Lagarde appears ready to accept but wants assurance that tensions with WEF founder and former chair Klaus Schwab have been fully resolved. Schwab abruptly resigned in April 2025 amid an investigation into alleged financial misconduct and was later cleared, but strains between him and the forum have persisted."
-    },
-    {
-      "id": "mkt:01a01ae4-e2c8-7aab-909d-b453a04f153c",
-      "time": "2026-08-20 00:40:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "Crossover Energy CEO said the company has finalized an oil deal with Venezuela’s state oil company."
-    },
-    {
-      "id": "5048427",
-      "time": "2026-08-20 00:38:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：卡達首相兼外交部長與沙特外交部長強調，必須確保（霍爾木茲海峽）航行安全。"
     }
   ]
 }
