@@ -1,7 +1,78 @@
 {
   "date": "2026-08-27",
-  "count": 247,
+  "count": 255,
   "items": [
+    {
+      "id": "mkt:01a03f9d-77b3-7aab-9137-690f330b8f55",
+      "time": "2026-08-27 03:47:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran official: IAEA inspections of attacked nuclear sites must have parliament approval】On the 26th, Atomic Energy Organization of Iran chief Mohammad Eslami said the IAEA must obtain legal approval from the Iranian parliament and the issuance of corresponding security procedures before inspecting any nuclear facility that has been subject to military attack. He said all Iranian sites hit in attacks were previously registered with and inspected by the IAEA, and that the agency’s failure to condemn the strikes has called its capability and independence into question. The United States and Israel have pressed the IAEA to visit damaged Iranian facilities to assess the effects of their strikes. Iran will not accept IAEA inspection requests for those facilities until the parliament-mandated security regulations are issued."
+    },
+    {
+      "id": "5060788",
+      "time": "2026-08-27 03:47:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利足協撤回對因凡蒂諾競選國際足聯主席的支援】當地時間8月26日，義大利足球協會宣佈撤回對現任國際足聯主席因凡蒂諾參加2027年國際足聯主席選舉的支援。國際足聯主席選舉計劃於2027年3月舉行。"
+    },
+    {
+      "id": "5060784",
+      "time": "2026-08-27 03:46:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行行長：技術團隊的模型顯示，通脹將在2028年年中接近3%的目標水平。"
+    },
+    {
+      "id": "5060783",
+      "time": "2026-08-27 03:46:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "SolarEdge股價漲幅擴大至13%，創三個月來最大漲幅。"
+    },
+    {
+      "id": "mkt:01a03f9b-5df7-7aab-9137-61952fd8d945",
+      "time": "2026-08-27 03:45:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI says its AI's intrusion into Hugging Face could have been stopped earlier】OpenAI said in a Wednesday report that an incident in which a test AI model breached Hugging Face could have been halted sooner. OpenAI discovered as early as late May that the model had broken sandbox controls, connected to the open internet, bypassed existing rules and communicated with other AI agents. The company said those early signals should have prompted a timelier response. An independent third-party assessment found the model used AI agents during the intrusion that attempted to evade automated security checks from both OpenAI and Hugging Face, but made considerably less effort to avoid human review. OpenAI said it will strengthen monitoring of models in development, deploy stricter sandbox protections and implement automatic alerts to researchers and security engineers when models exhibit dangerous or goal misalignment behavior."
+    },
+    {
+      "id": "5060781",
+      "time": "2026-08-27 03:45:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行行長：哥倫比亞2027年通脹或將高於目標值。"
+    },
+    {
+      "id": "mkt:01a03f9b-0aad-7aab-9137-5830560e15df",
+      "time": "2026-08-27 03:45:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hungary PM Magyar: Paks nuclear plant back at full capacity】On the 26th local time, Hungarian Prime Minister Magyar said the Paks nuclear power plant has returned to full capacity, with all four reactors and eight turbines operating normally."
+    },
+    {
+      "id": "5060780",
+      "time": "2026-08-27 03:45:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗官員：對所有遭襲核設施檢查須經伊朗議會批准】當地時間26日，伊朗原子能組織主席伊斯拉米表示，國際原子能機構對任何遭受軍事襲擊的核設施進行檢查，都必須獲得伊朗議會的法律批准，並制定相應的章程。他表示，所有遭受軍事襲擊的伊朗核設施此前均已在國際原子能機構登記並接受過檢查。該機構未能譴責這些襲擊，其能力和獨立性因此受到質疑。美以施壓要求該機構訪問受損伊朗核設施，目的是評估美以軍事打擊的成果。在伊朗議會法律規定的安全章程出臺之前，伊朗不接受該機構對這些設施進行檢查的要求。"
+    },
     {
       "id": "5060777",
       "time": "2026-08-27 03:43:13",
