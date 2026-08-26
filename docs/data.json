@@ -1,7 +1,102 @@
 {
-  "updated": "2026-08-27 04:22:13",
-  "count": 16647,
+  "updated": "2026-08-27 04:26:21",
+  "count": 16650,
   "items": [
+    {
+      "id": "5060843",
+      "time": "2026-08-27 04:25:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：第二季度超大規模客戶營收環比增長13%。"
+    },
+    {
+      "id": "te:markets:578371",
+      "time": "2026-08-27 04:23:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Nvidia earnings above expectations at 2.22 USD — Nvidia (NVDA) released earnings per share at 2.22 USD, compared to market expectations of 2.08 USD."
+    },
+    {
+      "id": "mkt:01a03fbe-1911-7aab-9137-e64cdef0eea4",
+      "time": "2026-08-27 04:23:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) reported a gross margin of 75% in fiscal 2027 second quarter."
+    },
+    {
+      "id": "mkt:01a03fbd-aedd-7aab-9137-dfdf9c162f92",
+      "time": "2026-08-27 04:23:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said compute is now revenue."
+    },
+    {
+      "id": "5060840",
+      "time": "2026-08-27 04:22:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英偉達股價在第二季度財報釋出後下跌2.9%。"
+    },
+    {
+      "id": "mkt:01a03fbd-2feb-7aab-9137-d2300782c5fb",
+      "time": "2026-08-27 04:22:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "After its earnings release, NVIDIA (NVDA.O) fell nearly 3% in after-hours trading."
+    },
+    {
+      "id": "mkt:01a03fbd-2c33-7aab-9137-cfafbfd0cb69",
+      "time": "2026-08-27 04:22:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) FY2027 Q2 data center revenue $89.0 bln, up from $41.096 bln a year earlier; consensus $85.077 bln."
+    },
+    {
+      "id": "5060838",
+      "time": "2026-08-27 04:22:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達預計第三季度營收為1080億美元，上下浮動2%。"
+    },
     {
       "id": "5060837",
       "time": "2026-08-27 04:21:26",
@@ -149993,52 +150088,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4520美元/盎司，日內漲4.30%。"
-    },
-    {
-      "id": "mkt:01a01bb3-941d-7aab-90a2-371cbc919afe",
-      "time": "2026-08-20 04:25:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed above $4,520/oz, up 4.29% on the day."
-    },
-    {
-      "id": "mkt:01a01bb3-0dce-7aab-90a2-291148ede290",
-      "time": "2026-08-20 04:25:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver jumped 5% intraday to $66.51/oz."
-    },
-    {
-      "id": "5048593",
-      "time": "2026-08-20 04:25:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲5%，現報66.51美元/盎司。"
-    },
-    {
-      "id": "5048592",
-      "time": "2026-08-20 04:24:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲4%，現報66.61美元/盎司。"
-    },
-    {
-      "id": "mkt:01a01bb1-5a84-7aab-90a2-274bbc00c14f",
-      "time": "2026-08-20 04:23:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera: A U.S. State Department spokesperson said the Trump administration has discussed Syrian sovereignty and Israel's right to self-defense."
     }
   ]
 }
