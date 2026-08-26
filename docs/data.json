@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-27 00:41:16",
-  "count": 16696,
+  "updated": "2026-08-27 00:45:26",
+  "count": 16694,
   "items": [
+    {
+      "id": "mkt:01a03ef5-7ca1-7aab-9134-b76dea6ab135",
+      "time": "2026-08-27 00:44:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan to sharply boost H3 launch capacity to challenge SpaceX】Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) plans to request ¥23.5 bln (about $148m) in FY2027 to expand H3 rocket launch capacity, roughly eight times FY2026's ¥2.9 bln. The funding would raise annual H3 launches from three in 2025 to six–eight and cut minimum turnaround between launches from about two months to two weeks to win overseas satellite launch business currently dominated by SpaceX. MEXT's total FY2027 aerospace and aviation R&D request would be ¥375 bln, up from ¥151.3 bln in FY2026."
+    },
+    {
+      "id": "mkt:01a03ef2-78f8-7aab-9134-ade4e63349ad",
+      "time": "2026-08-27 00:41:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports new funding will raise Japan's H3 rocket annual launch capacity to 6–8 launches, with capacity in 2025 at three launches."
+    },
+    {
+      "id": "5060662",
+      "time": "2026-08-27 00:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 追加資金將把 H3 火箭的年發射能力從 2025 年的 3 枚提升至每年 6‑8 枚。"
+    },
+    {
+      "id": "mkt:01a03ef2-43d4-7aab-9134-a144208f66a1",
+      "time": "2026-08-27 00:40:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) plans to request ¥23.5 bln in next fiscal year's budget to boost H3 heavy‑lift rocket launch capacity, roughly eight times this fiscal year's allocation."
+    },
+    {
+      "id": "5060661",
+      "time": "2026-08-27 00:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本文部科學省計劃在下一財年預算中為此申請 235 億日元資金。擬申請預算規模大致增至原先的八倍，用於提升H3 重型火箭的發射能力。"
+    },
     {
       "id": "mkt:01a03ef0-6f13-7aab-9134-98416276d754",
       "time": "2026-08-27 00:38:59",
@@ -150647,63 +150689,6 @@
         "Importance 0"
       ],
       "text": "Colombia Posts Largest Trade Deficit Since 2022 — Colombia’s trade deficit widened to $2.54 billion in June 2026, the largest deficit since August 2022, from $1.38 billion a year earlier. Imports surged 27% year-on-year to $6.78 billion, marking their fastest growth since 2022. The increase was driven by a 67.2% rise in purchases of fuels and extractive industry products, led by a 68.5% surge in petroleum and related products. Imports of manufactured goods also climbed 23.1%, supported by stronger purchases of machinery and transport equipment (33.6%) and chemical products (21.6%), while agricultural imports increased 23.4%. Meanwhile, exports rose at a slower 7% to $4.23 billion, supported by a 17.1% increase in shipments of fuels and extractive industry products, which accounted for 42.6% of total exports. Manufactured exports also increased 2.4%. In contrast, agricultural and food exports, which represented 25.8% of total shipments, fell 10.8%."
-    },
-    {
-      "id": "5048430",
-      "time": "2026-08-20 00:44:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會就算力衍生品合約的掛牌上市徵求公眾意見。"
-    },
-    {
-      "id": "mkt:01a01ae9-25a9-7aab-909d-d63a194bc34e",
-      "time": "2026-08-20 00:44:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Commodity Futures Trading Commission (CFTC) is seeking public comment on a proposed listing of computing‑power derivatives contracts."
-    },
-    {
-      "id": "mkt:01a01ae8-97ce-7aab-909d-c8517482e32d",
-      "time": "2026-08-20 00:44:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said Qatar and Saudi Arabia reiterated support for resolving differences through diplomatic means."
-    },
-    {
-      "id": "5048429",
-      "time": "2026-08-20 00:43:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：卡達首相兼外交部長與沙特外交部長均表示支援透過外交途徑解決分歧。"
-    },
-    {
-      "id": "mkt:01a01ae7-b09f-7aab-909d-c7e5a2787958",
-      "time": "2026-08-20 00:43:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar foreign ministry said the Qatari prime minister and foreign minister met the Saudi foreign minister in Riyadh to discuss efforts to reduce regional tensions."
-    },
-    {
-      "id": "5048428",
-      "time": "2026-08-20 00:41:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受熱帶低壓影響 廣東徐聞港、海安新港客滾船將於今日停運】受南海熱帶低壓影響，廣東湛江徐聞港、海安新港客滾船將於8月20日16時起停運，復運時間將視氣象情況而定。交通部門提醒，受本次停航影響及需要過海的司機、旅客朋友們，請合理安排好行程，停運期間請勿前往港口。停運期間所購船票順延有效。(央視新聞)"
-    },
-    {
-      "id": "mkt:01a01ae6-2b0f-7aab-909d-b8f5946359db",
-      "time": "2026-08-20 00:41:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WEF renews push to appoint ECB chief Lagarde as forum chair】The World Economic Forum’s board discussed this week efforts to recruit European Central Bank president Christine Lagarde as its next chair, people familiar with the matter said. Sources say Lagarde appears ready to accept but wants assurance that tensions with WEF founder and former chair Klaus Schwab have been fully resolved. Schwab abruptly resigned in April 2025 amid an investigation into alleged financial misconduct and was later cleared, but strains between him and the forum have persisted."
     }
   ]
 }

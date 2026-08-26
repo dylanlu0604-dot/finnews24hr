@@ -1,7 +1,49 @@
 {
   "date": "2026-08-27",
-  "count": 54,
+  "count": 59,
   "items": [
+    {
+      "id": "mkt:01a03ef5-7ca1-7aab-9134-b76dea6ab135",
+      "time": "2026-08-27 00:44:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan to sharply boost H3 launch capacity to challenge SpaceX】Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) plans to request ¥23.5 bln (about $148m) in FY2027 to expand H3 rocket launch capacity, roughly eight times FY2026's ¥2.9 bln. The funding would raise annual H3 launches from three in 2025 to six–eight and cut minimum turnaround between launches from about two months to two weeks to win overseas satellite launch business currently dominated by SpaceX. MEXT's total FY2027 aerospace and aviation R&D request would be ¥375 bln, up from ¥151.3 bln in FY2026."
+    },
+    {
+      "id": "mkt:01a03ef2-78f8-7aab-9134-ade4e63349ad",
+      "time": "2026-08-27 00:41:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports new funding will raise Japan's H3 rocket annual launch capacity to 6–8 launches, with capacity in 2025 at three launches."
+    },
+    {
+      "id": "5060662",
+      "time": "2026-08-27 00:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 追加資金將把 H3 火箭的年發射能力從 2025 年的 3 枚提升至每年 6‑8 枚。"
+    },
+    {
+      "id": "mkt:01a03ef2-43d4-7aab-9134-a144208f66a1",
+      "time": "2026-08-27 00:40:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT) plans to request ¥23.5 bln in next fiscal year's budget to boost H3 heavy‑lift rocket launch capacity, roughly eight times this fiscal year's allocation."
+    },
+    {
+      "id": "5060661",
+      "time": "2026-08-27 00:40:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本文部科學省計劃在下一財年預算中為此申請 235 億日元資金。擬申請預算規模大致增至原先的八倍，用於提升H3 重型火箭的發射能力。"
+    },
     {
       "id": "mkt:01a03ef0-6f13-7aab-9134-98416276d754",
       "time": "2026-08-27 00:38:59",
