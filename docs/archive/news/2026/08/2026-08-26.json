@@ -1,7 +1,228 @@
 {
   "date": "2026-08-26",
-  "count": 953,
+  "count": 977,
   "items": [
+    {
+      "id": "mkt:01a03c1c-b6ac-7aab-9120-ea46e249ff50",
+      "time": "2026-08-26 11:28:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Senator Lankford won't promise swift approval of new Russia sanctions to Zelenskiy】Politico reported Republican Senator James Lankford told President Zelenskiy in Kyiv he could not guarantee Congress would soon approve a new round of sanctions on Russia; Zelenskiy urged expedited consideration. Lankford said he is skeptical a Moscow-Kyiv deal is likely but called CIA Director John Ratcliffe’s recent secret visit to Russia potentially productive. The Senate earlier passed a bill drafted with the late Sen. Lindsey Graham that would impose 100% tariffs on the five largest buyers of Russian energy and 500% tariffs on all Russian goods exported to the US; the measure has been sent to the House, which is in recess until Aug. 31 and is not expected to consider it before September."
+    },
+    {
+      "id": "5058975",
+      "time": "2026-08-26 11:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：深化人工智慧在材料研發和生產工藝中的應用，加快氫冶金等綠色低碳技術攻關】工業和資訊化部規劃司司長姚珺8月26日在國新辦舉行的新聞釋出會上表示，“十五五”期間，將從三個方面協同發力，推動原材料工業高質量發展。第一，推動產業結構最佳化提升，核心是促適配、提能級。促適配，就是要深耕鋼鐵、水泥等重點行業產能治理，嚴格落實產能置換政策，對重點產品實施產能風險動態預警，最佳化產業佈局，讓資源向先進產能匯聚，實現供需“雙向奔赴”。提能級，就是要深入推進數字化轉型，深化人工智慧在材料研發和生產工藝中的應用，加快氫冶金等綠色低碳技術攻關，加力推進石化化工老舊裝置更新改造，全面提升行業智慧化、綠色化和安全水平。第二，強化資源產業安全保障，核心是穩供給、增成色。第三，引領先進材料產業創新發展，核心是盯前沿、解痛點。"
+    },
+    {
+      "id": "mkt:01a03c1c-44cd-7aab-9120-e760ee0ad75d",
+      "time": "2026-08-26 11:28:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【NVIDIA earnings preview: market seeks incremental evidence amid high expectations】NVIDIA (NVDA.O) will report Q2 after the US close on Wednesday. FactSet’s survey of analysts projects revenue $92.27 bln vs $46.74 bln a year earlier; net income $51.55 bln ($2.11 per share) vs $26.42 bln ($1.08) last year. Analysts expect adjusted EPS $2.09 vs $1.05 a year earlier. NVIDIA is increasingly positioning itself beyond a chip supplier toward financing broader AI infrastructure; that financing expansion and other long-term themes are likely to drive investor focus. Morgan Stanley and JP Morgan analysts say the key watchpoints are NVIDIA’s financing footprint, China exposure, semiconductor competition risk, future gross margins, and the ramp schedule for the Vera Rubin chip. Rubin is unlikely to produce a material contribution before the quarter beginning in October. Benchmark analyst Cody Acree said, given already-elevated expectations, investors will need to see incremental evidence beyond another routine beat and guidance raise."
+    },
+    {
+      "id": "5058974",
+      "time": "2026-08-26 11:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄證實美國中情局長訪俄】據俄新社今天（8月26日）稱，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，美國中央情報局局長拉特克利夫訪問莫斯科，涉及“情報部門之間的接觸”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5058973",
+      "time": "2026-08-26 11:24:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【近端次新股震盪反彈 國儀公司觸及20cm漲停】部分近端次新股震盪反彈，國儀公司觸及20cm漲停，頻準鐳射、超純應材漲超10%，展芯股份、康美特、託倫斯、傑理科技等跟漲。"
+    },
+    {
+      "id": "5058972",
+      "time": "2026-08-26 11:23:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄電商巨頭“野莓”一物流中心再遭襲起火】俄羅斯坦波夫州州長佩爾維紹夫當地時間26日通報，當天凌晨，俄電商巨頭“野莓”（Wildberries）在科托夫斯克市的物流中心因烏軍無人機襲擊起火，過火面積超過10萬平方米。據初步資訊，1名員工被爆炸衝擊波震傷，出現腦震盪。本輪襲擊中，該州上空共有16架無人機被擊落。佩爾維紹夫在通報中指出，7月18日凌晨，該物流中心曾遭無人機襲擊，造成7名員工遇難，25人受傷。"
+    },
+    {
+      "id": "5058971",
+      "time": "2026-08-26 11:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長稱對美先發制人也是選項】伊朗副外長加里巴巴迪8月25日接受伊朗國家電視臺採訪時表示，伊朗目前仍處於戰爭狀態，霍爾木茲海峽處於伊朗武裝部隊的全面控制和監視之下，除非得到伊朗同意、批准和安排，否則不會重新開放。加里巴巴迪同時警告，為捍衛國家安全和國家利益，如果條件合適，伊朗可針對美國目標採取“先發制人”行動，而不必坐等美國先發起攻擊再進行防禦。（ CCTV國際時訊）"
+    },
+    {
+      "id": "5058970",
+      "time": "2026-08-26 11:22:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "半導體裝置板塊走高，超純應材漲超10%，託倫斯、金海通、矽電股份、中科儀、先鋒精科等跟漲。"
+    },
+    {
+      "id": "mkt:01a03c17-0a38-7aab-9120-da2988eb352c",
+      "time": "2026-08-26 11:22:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Copper extends rally, nears record high; short-term supply remains tight】Copper extended its rally and is approaching this year’s intraday record as short-term supply stays tight despite some easing of last week’s squeeze. LME copper is up about 16% YTD. Traders are shipping large volumes to the US, draining inventories elsewhere while mines struggle to meet rising demand. The squeeze pushed the LME spot/3-month spread above $500/tonne at one point; it narrowed but was about $156/tonne at Tuesday’s close, well above normal. LME copper rose 0.5% to $14,415.50/tonne, nearing the Jan intraday high of $14,527.50/tonne."
+    },
+    {
+      "id": "5058969",
+      "time": "2026-08-26 11:21:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京津冀將完善腦機介面產業基礎技術、應用標準體系】《京津冀腦機介面跨區域質量強鏈工作方案》印發。其中提到，完善腦機介面產業基礎技術、應用標準體系，參與籌建腦機介面標準化技術委員會，推進技術、資料、應用、倫理和安全標準研製。推動資料質量、器件質量、裝置效能、安全規範等質量要求相關標準制定。制定腦電資料標註管理標準，引導腦電資料規範化管理。制定監測類裝置的訊號採集精度標準和腦機介面產品長期應用安全性評價標準。"
+    },
+    {
+      "id": "5058968",
+      "time": "2026-08-26 11:21:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京津冀將加速腦機介面技術與神經科學、人工智慧等前沿學科的交叉創新】《京津冀腦機介面跨區域質量強鏈工作方案》釋出。其中提到，面向醫療康復、智慧互動、教育娛樂等關鍵領域，加速腦機介面技術與神經科學、人工智慧等前沿學科的交叉創新。發揮腦機介面人體功能量化評估的客觀優勢，重點發展醫療領域基於腦機介面的神經疾病診療、運動功能重建、康復訓練和情緒精神類疾病分級診療；在工業領域，推動作業人員體徵監測、腦控機器人、高精度人機協同、模擬訓練等場景落地；探索腦機介面在教育領域、智慧家居、輔助駕駛等方面的創新應用。建設腦機介面技術試驗平臺，為科研機構及企業在腦電庫建設、腦機介面臨床研究和科研轉化等提供應用場景。透過示範專案驗證技術安全性、有效性、穩定性與相容性，培育腦機介面新業態，打造技術研發—模擬驗證—場景驗證—產業推廣的完整生態鏈。"
+    },
+    {
+      "id": "5058967",
+      "time": "2026-08-26 11:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國藥控股與阿斯利康啟動基藥惠民專項合作】據國藥控股訊息，近日，國藥控股與阿斯利康在上海召開高層戰略合作交流會，並正式啟動基藥惠民專項合作。阿斯利康作為國藥控股核心戰略合作伙伴，雙方在醫藥流通、創新服務、民生惠民等多個核心領域已形成深度協作。此次專案啟動，標誌著聚焦國家基藥政策落地與基層醫療可及性提升，雙方合作已向更深層次、更廣領域邁進。"
+    },
+    {
+      "id": "mkt:01a03c13-8b81-7aab-9120-d71a215b579c",
+      "time": "2026-08-26 11:18:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent thanked Bahrain's finance and economy minister for coordinating \"economic isolation\" measures and said he and President Trump will continue close cooperation to defend the integrity of the global financial system and to weaken the threat posed by the Iranian regime."
+    },
+    {
+      "id": "5058966",
+      "time": "2026-08-26 11:17:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：為患者病理檢查生成全國通用的專屬“身份證”】國家醫保局日前印發《“醫保病理雲索引”編碼規範》，針對病理資料標準不統一、流通不順暢等行業痛點，編制全國統一的病理資料索引，為患者每一次病理檢查生成全國通用、唯一的專屬“身份證”，推動各醫療機構病理資料真正“活起來”“跑起來”“用起來”，破除跨區域、跨機構資料共享壁壘。"
+    },
+    {
+      "id": "5058965",
+      "time": "2026-08-26 11:17:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉強東投資千萬在連雲港成立遊艇公司】天眼查工商資訊顯示，近日，連雲港探海遊艇俱樂部有限公司成立，註冊資本1000萬元人民幣，法定代表人為張然，經營範圍包含遊艇租賃、船舶修理、旅遊業務等，由劉強東創立的遊艇獨立品牌Sea Expandary關聯公司深圳市探海遊艇產業發展有限公司全資持股。"
+    },
+    {
+      "id": "5058964",
+      "time": "2026-08-26 11:17:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：我感謝薩勒曼·本·哈利法·阿勒哈利法殿下在“經濟棄兒行動”中的協調。我們將繼續密切合作，以捍衛全球金融體系的完整性，並削弱伊朗政權所帶來的威脅。"
+    },
+    {
+      "id": "mkt:01a03c12-5ed5-7aab-9120-cfe38da6073c",
+      "time": "2026-08-26 11:17:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Australia's second-largest pension fund builds largest yen overweight in years, says BOJ tightening underpriced】Australia's second-largest pension fund has built its largest yen overweight in years, betting markets understate the odds of Bank of Japan tightening, senior portfolio manager Jimmy Louca said. The fund, which manages about A$370 billion (US$265 billion) in retirement savings, added the position over the past six months as USD/JPY slid toward 160. The long-yen stance is uncommon amid broad yen selling. Louca said the market has only partially judged the sell-off—the energy-driven drag is largely priced in—but the probability of BOJ rate hikes appears underestimated. He said the BOJ could hike as soon as next month and signal two further increases; if it follows through, Japanese government bond yields could rise further."
+    },
+    {
+      "id": "5058963",
+      "time": "2026-08-26 11:17:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國財長貝森特今天與巴林財政和國民經濟大臣 薩勒曼·本·哈利法·阿勒哈利法通話，討論了“經濟棄兒行動”。"
+    },
+    {
+      "id": "te:markets:578119",
+      "time": "2026-08-26 11:15:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Hold at 1-Month High — Soybean futures held above $12.2 per bushel, staying near a four-week high as weaker US crop conditions and fresh export demand supported prices. The USDA’s national soybean rating dipped over the past week, with the share of the crop rated good-to-excellent falling 1 percentage point to 60% for the week ended August 23. Although 91% of the crop had reached the pod-setting stage, traders remain focused on whether further deterioration could reduce production potential and tighten the balance sheet ahead of harvest. Meanwhile, private exporters reported a sale of 132,000 tonnes of new-crop US soybeans to an unknown destination, with traders speculating that China could be the buyer. The potential purchase comes as US-China trade tensions remain in focus, with the prospect of new US tariffs on Chinese goods adding uncertainty around future soybean demand. Markets are also watching a potential late-September meeting between Trump and Xi that could shape agricultural trade."
+    },
+    {
+      "id": "5058962",
+      "time": "2026-08-26 11:15:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【東吳證券：AI爆發下戰略小金屬回收機遇 優選具優勢資源化龍頭】東吳證券釋出研報稱，優選原料渠道、提純技術、資質壁壘和下游客戶的資源化龍頭。AI金屬回收行業成長並非簡單產能擴張，而在於“收得來、提得出、賣得好、合規強”。原料端，需要穩定獲取電子廢料、工業催化劑、含貴金屬廢液廢渣等高品位物料;技術端，需要具備複雜物料分離、多金屬協同回收和高純提煉能力;資質端，危廢經營、環保合規和安全生產構成行業准入門檻;客戶端，若下游覆蓋半導體、電子材料等高階製造領域，更直接享受需求擴張紅利。"
+    },
+    {
+      "id": "5058961",
+      "time": "2026-08-26 11:15:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國臺辦：民進黨當局動輒拿經貿投資施壓有關國家，恰恰暴露了其“以經謀獨”的本質】8月26日，國務院臺辦舉行例行新聞釋出會。有記者提問：馬來西亞總理安瓦爾近日受訪表示，臺灣是中國的一部分，如果馬來西亞的一個州執意分裂出去，他也將捍衛國家的神聖性與統一。臺外事部門對此稱，此言論貶損臺灣“主權”，恐對臺商赴馬來西亞投資的信心造成不利影響。請問對此有何評論？ 國臺辦發言人張晗：我們對有關國家堅持一箇中國原則的立場表示讚賞。 世界上只有一箇中國，臺灣是中國領土不可分割的一部分。臺灣根本不存在什麼“主權”。民進黨當局頑固堅持“臺獨”立場，四處散佈“臺獨”謬論，動輒拿經貿投資施壓有關國家，恰恰暴露了其“以經謀獨”的本質。（看臺海）"
+    },
+    {
+      "id": "mkt:01a03c10-250c-7aab-9120-c641367eba6c",
+      "time": "2026-08-26 11:14:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Beijing–Tianjin–Hebei BCI Cross‑Regional Quality‑Chain Work Plan Issued】Authorities in the Beijing–Tianjin–Hebei region have issued a cross‑regional work plan to strengthen the quality chain for brain‑computer interfaces (BCI). The plan backs quality R&D by chain‑lead enterprises, universities, research institutes and medical institutions and encourages joint industry‑academic‑medical projects to resolve common quality pain points and build flagship quality‑chain projects. It targets key BCI links—neural signal acquisition, decoding, control and feedback—with emphasis on EEG sensing and acquisition, human‑computer interaction and typical application scenarios. Priority technologies for breakthroughs and commercialization include new dry electrodes, flexible electrodes, BCI signal‑acquisition chips, compute/decoding chips, integrated acquisition systems and high‑performance real‑time decoding algorithms."
+    },
+    {
+      "id": "mkt:01a03c10-18c3-7aab-9120-b8b3b85da766",
+      "time": "2026-08-26 11:14:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Front-month paraxylene (PX) futures hit limit down, falling 6.02% to 7,868 yuan/ton."
+    },
+    {
+      "id": "5058960",
+      "time": "2026-08-26 11:12:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至8月22日當週，日本原油庫存為1220萬千升。"
+    },
     {
       "id": "5058959",
       "time": "2026-08-26 11:12:06",
