@@ -1,7 +1,85 @@
 {
   "date": "2026-08-27",
-  "count": 168,
+  "count": 175,
   "items": [
+    {
+      "id": "mkt:01a03f58-2a87-7aab-9136-82905d5898c0",
+      "time": "2026-08-27 02:32:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $82.23 per barrel, down $0.13, or 0.16%."
+    },
+    {
+      "id": "mkt:01a03f58-1a10-7aab-9136-7c697203be1f",
+      "time": "2026-08-27 02:32:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.74% to 996 yuan/gram; Shanghai silver main contract fell 0.48% to 16,590 yuan/kg; SC crude oil main contract rose 2.14% to 577 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a03f58-12d3-7aab-9136-72aa70b74a3d",
+      "time": "2026-08-27 02:32:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S. Energy Secretary Wright: Washington prefers a diplomatic solution on Iran】U.S. Energy Secretary Wright, speaking at a maritime nuclear start-up event in Washington alongside IAEA Director General Grossi, said Washington \"prefers diplomacy\" to resolve the Iran issue but will, \"if necessary,\" destroy Iranian nuclear facilities. He said Iran \"has a nuclear weapons program\" and \"our goal is to stop it,\" adding any agreement must require Iran to abandon nuclear armament."
+    },
+    {
+      "id": "5060716",
+      "time": "2026-08-27 02:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報82.23美元/桶。NYMEX 9月天然氣期貨收報2.8420美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.3201美元/加侖，NYMEX 9月取暖油期貨收報4.26美元/加侖。"
+    },
+    {
+      "id": "mkt:01a03f56-b38c-7aab-9136-6e9f6d35eb0f",
+      "time": "2026-08-27 02:30:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) Gold T+D closed down 0.67% at 994.87 yuan/gram in the Aug 26 evening session; SGE Silver T+D closed down 1.03% at 16,540 yuan/kg."
+    },
+    {
+      "id": "te:markets:578364",
+      "time": "2026-08-27 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 3.49% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -3.49% decrease."
+    },
+    {
+      "id": "5060715",
+      "time": "2026-08-27 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.14%，報576.60元人民幣/桶。滬金夜盤收跌0.74%，滬銀收跌0.48%。"
+    },
     {
       "id": "mkt:01a03f52-f1a0-7aab-9136-621a8569c6c8",
       "time": "2026-08-27 02:26:35",

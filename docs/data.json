@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-27 02:29:55",
-  "count": 16649,
+  "updated": "2026-08-27 02:34:02",
+  "count": 16645,
   "items": [
+    {
+      "id": "mkt:01a03f58-2a87-7aab-9136-82905d5898c0",
+      "time": "2026-08-27 02:32:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $82.23 per barrel, down $0.13, or 0.16%."
+    },
+    {
+      "id": "mkt:01a03f58-1a10-7aab-9136-7c697203be1f",
+      "time": "2026-08-27 02:32:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai gold main contract fell 0.74% to 996 yuan/gram; Shanghai silver main contract fell 0.48% to 16,590 yuan/kg; SC crude oil main contract rose 2.14% to 577 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a03f58-12d3-7aab-9136-72aa70b74a3d",
+      "time": "2026-08-27 02:32:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S. Energy Secretary Wright: Washington prefers a diplomatic solution on Iran】U.S. Energy Secretary Wright, speaking at a maritime nuclear start-up event in Washington alongside IAEA Director General Grossi, said Washington \"prefers diplomacy\" to resolve the Iran issue but will, \"if necessary,\" destroy Iranian nuclear facilities. He said Iran \"has a nuclear weapons program\" and \"our goal is to stop it,\" adding any agreement must require Iran to abandon nuclear armament."
+    },
+    {
+      "id": "5060716",
+      "time": "2026-08-27 02:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 10月原油期貨收報82.23美元/桶。NYMEX 9月天然氣期貨收報2.8420美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.3201美元/加侖，NYMEX 9月取暖油期貨收報4.26美元/加侖。"
+    },
+    {
+      "id": "mkt:01a03f56-b38c-7aab-9136-6e9f6d35eb0f",
+      "time": "2026-08-27 02:30:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) Gold T+D closed down 0.67% at 994.87 yuan/gram in the Aug 26 evening session; SGE Silver T+D closed down 1.03% at 16,540 yuan/kg."
+    },
+    {
+      "id": "te:markets:578364",
+      "time": "2026-08-27 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 3.49% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -3.49% decrease."
+    },
+    {
+      "id": "5060715",
+      "time": "2026-08-27 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.14%，報576.60元人民幣/桶。滬金夜盤收跌0.74%，滬銀收跌0.48%。"
+    },
     {
       "id": "mkt:01a03f52-f1a0-7aab-9136-621a8569c6c8",
       "time": "2026-08-27 02:26:35",
@@ -150028,114 +150106,6 @@
         "國際"
       ],
       "text": "市場資訊：面對特朗普政府不斷加大的壓力，英國政府表示願意重新審視數字服務稅。"
-    },
-    {
-      "id": "5048505",
-      "time": "2026-08-20 02:33:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶片企業Fractile與Anthropic達成交易後尋求65億美元估值】知情人士稱，Fractile正就一輪融資進入深度談判，投前估值65億美元，本輪計劃募資約6億美元。三個月前該公司完成2.2億美元融資，由Accel、Founders Fund以及Factorial Funds風投機構領投，投後估值約10億美元。Fractile已與Anthropic達成初步協議，向後者出售價值約2.5億美元的晶片，雙方計劃未來擴大這份合同規模。"
-    },
-    {
-      "id": "mkt:01a01b4b-db43-7aab-90a0-21364b188ace",
-      "time": "2026-08-20 02:32:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fed minutes: supporters of a hike say move could avert larger future tightening】Fed minutes said participants stressed that incoming data will be central to policy reviews. Many warned that if inflation does not continue to fall, further policy tightening may be needed; some said current financial conditions may be insufficient to bring inflation to 2%. Several participants noted financial conditions tightened over the past two meetings, partly reflecting strong growth and market pricing of more tightening. A minority who favored raising the federal funds rate target at this meeting argued a near-term hike could reduce the risk of larger, costlier tightening later."
-    },
-    {
-      "id": "5048504",
-      "time": "2026-08-20 02:32:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "Fractile新一輪6億美元融資洽談，距離其2.2億美元上輪融資僅過去三個月。"
-    },
-    {
-      "id": "5048503",
-      "time": "2026-08-20 02:32:00",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Anthropic與Fractile達成協議，擬採購約2.5億美元晶片。"
-    },
-    {
-      "id": "5048502",
-      "time": "2026-08-20 02:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士透露，AI晶片初創企業Fractile正在洽談融資，估值目標65億美元。"
-    },
-    {
-      "id": "mkt:01a01b4a-b0fe-7aab-90a0-19d690c13c5d",
-      "time": "2026-08-20 02:31:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Night session most-active contracts close】As of 02:30 close, SHFE gold most-active contract rose 2.13% to 970 yuan/gram; SHFE silver most-active contract rose 2.58% to 16,027 yuan/kg; SC crude oil most-active contract fell 0.70% to 581 yuan/barrel."
-    },
-    {
-      "id": "5048501",
-      "time": "2026-08-20 02:31:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶85.83美元，上漲89美分，漲幅1.05%。"
-    },
-    {
-      "id": "mkt:01a01b4a-6f37-7aab-90a0-13cfa49025f1",
-      "time": "2026-08-20 02:30:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 2.44% at 966.97 yuan/gram in the evening session on Wednesday, Aug. 19; Shanghai Gold Exchange silver T+D closed up 3.54% at 15,956.0 yuan/kg."
-    },
-    {
-      "id": "mkt:01a01b4a-5da1-7aab-90a0-0c152cc0fbf2",
-      "time": "2026-08-20 02:30:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $85.83 a barrel, up $0.89, or 1.05%."
-    },
-    {
-      "id": "te:markets:576602",
-      "time": "2026-08-20 02:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Soars by 8.84% — Top crypto gainers are Ether (8.84%), Bitcoin (5.56%) and Binance (2.17%)."
-    },
-    {
-      "id": "5048500",
-      "time": "2026-08-20 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.70%，報581.20元人民幣/桶。滬金夜盤收漲2.13%，滬銀收漲2.58%。"
     }
   ]
 }
