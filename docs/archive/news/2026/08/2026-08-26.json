@@ -1,7 +1,220 @@
 {
   "date": "2026-08-26",
-  "count": 3096,
+  "count": 3121,
   "items": [
+    {
+      "id": "mkt:01a03e69-e290-7aab-9131-743f0f2e6685",
+      "time": "2026-08-26 22:12:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury posted sanctions against a Palestinian action group on its website."
+    },
+    {
+      "id": "mkt:01a03e68-f0e3-7aab-9131-6f934f2eaa03",
+      "time": "2026-08-26 22:10:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IRNA: Iran in talks with Gazprom on cooperation in the natural gas sector."
+    },
+    {
+      "id": "5060539",
+      "time": "2026-08-26 22:10:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部部署西藏吉隆泥石流災害應急處置工作】記者從水利部瞭解到，水利部26日下午啟動重大水旱災害事件排程指揮機制，緊急會商部署西藏吉隆泥石流災害應急處置工作。記者瞭解到，水利部分析西藏吉隆及周邊區域雨水情、冰川冰湖面積變化，開展泥石流災害成因分析，研判災害下游人口分佈情況和相關區域潛在風險隱患，及時將分析研判成果共享至當地水利部門，全力指導做好災害應急處置。（新華社）"
+    },
+    {
+      "id": "5060538",
+      "time": "2026-08-26 22:09:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗與俄羅斯俄氣公司洽談天然氣行業合作。"
+    },
+    {
+      "id": "5060537",
+      "time": "2026-08-26 22:09:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對巴勒斯坦行動組織實施制裁。"
+    },
+    {
+      "id": "5060536",
+      "time": "2026-08-26 22:07:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數上漲 0.2%，創一週以來新高。"
+    },
+    {
+      "id": "5060535",
+      "time": "2026-08-26 22:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馮飛在文昌調研海南航天集團組建執行情況：舉全省之力推動集團邁上高質量發展軌道】8月26日，海南省委書記馮飛在文昌調研海南航天集團組建執行情況，並主持召開座談會，聽取集團組建等工作情況彙報。馮飛指出，要深入貫徹落實習近平總書記關於海南工作的系列重要講話和指示批示精神，牢記初心使命，進一步增強責任感、使命感、緊迫感，堅持進度服從質量，守牢安全生產底線，加快補鏈延鏈強鏈，舉全省之力推進集團建設，系統謀劃構建商業航天產業生態和創新生態，努力建設世界一流航天發射場。要加快推動海南航天集團邁上高質量發展軌道，完善制度體系，聚焦主責主業，服務和支援海南商業航天發展，持續提升商業航天核心競爭力；總結提煉商業航天產業發展過程中的好經驗好做法，高水平謀劃產業發展，持續加強基礎研究，著力打造空間科技創新戰略高地，確保集團發展開好局、起好步，加快打造具有全球影響力的航天產業叢集。省直有關部門、文昌市、海南國際商業航天發射有限公司等要心往一處想、勁往一處使，健全完善領導體制和執行機制，強化統籌協調，層層壓實責任，充分調動各方面改革積極性，強化人才、基金、金融等要素保障，推動海南航天集團高質量發展；集團要壓實全面從嚴治黨政治責任，加強黨風廉政建設，嚴格落實“人工智慧管工程”，完善分類考核評價體系，爭當深化國資國企改革先行者。（海南釋出）"
+    },
+    {
+      "id": "5060534",
+      "time": "2026-08-26 22:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中華慈善總會撥付500萬元用於西藏吉隆災區緊急救援】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。在應急管理部、民政部指導下，中華慈善總會緊急撥付500萬元救災資金，用於災區緊急救援等工作。（央視新聞）"
+    },
+    {
+      "id": "te:markets:578303",
+      "time": "2026-08-26 22:05:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Shares Extend Gains as Oil Falls and Nvidia Earnings Loom — European shares extended gains on Wednesday afternoon, with the STOXX 50 up 0.6% and the broader STOXX 600 rising 0.3%, as investors awaited Nvidia’s earnings report and monitored developments around the Strait of Hormuz. Iran said it had resumed talks with Oman on managing the Strait amid mounting pressure from US President Donald Trump during the nearly six-month conflict, raising hopes the key waterway could reopen. Brent crude fell for a third straight session, helping push bond yields lower and easing inflation concerns. Investors also digested US inflation data, with the PCE price index rising 0.2% in July, above expectations. In Europe, ECB policymakers were reported to be prepared to raise rates at their September meeting, but were reluctant to signal further tightening thereafter. Among individual stocks, SAP fell more than 4% after US software maker Intuit issued a disappointing forecast, while UBS downgraded the German software group to “neutral.”"
+    },
+    {
+      "id": "5060533",
+      "time": "2026-08-26 22:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "盧甘斯克地區州長：烏克蘭襲擊巴士，已造成九人死亡。"
+    },
+    {
+      "id": "5060532",
+      "time": "2026-08-26 22:05:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "波多黎各7月消費者價格環比上漲0.1%。"
+    },
+    {
+      "id": "5060531",
+      "time": "2026-08-26 22:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "食品服務公司Sodexo SA（索迪斯股份）計劃在法國裁員超1000人。"
+    },
+    {
+      "id": "5060530",
+      "time": "2026-08-26 22:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥石油公司位於得克薩斯州迪爾帕克的煉油廠報告稱，目前仍在持續進行可能引發火炬放空的作業。"
+    },
+    {
+      "id": "5060529",
+      "time": "2026-08-26 22:03:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯洛伐克檢方表示，因圖謀對斯洛伐克一家天線系統製造廠實施縱火而被拘留的兩名嫌疑人中，兩人為拉脫維亞公民，另有一人為烏克蘭公民。"
+    },
+    {
+      "id": "te:markets:578302",
+      "time": "2026-08-26 22:02:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Oat Hits 4-week High — Oat increased to 334.25 USd/Bu, the highest since July 2026. Over the past 4 weeks, Oat gained 4.62%, and in the last 12 months, it increased 7.43%."
+    },
+    {
+      "id": "5060528",
+      "time": "2026-08-26 22:02:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國宇航系統公司（BAE SYSTEMS）獲授1.498億美元合同，承接“拳擊手”號航空母艦（USS Boxer）現代化升級專案。"
+    },
+    {
+      "id": "5060527",
+      "time": "2026-08-26 22:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元/瑞郎日內漲幅達0.5%，報0.8055。"
+    },
+    {
+      "id": "5060526",
+      "time": "2026-08-26 22:01:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利裕信銀行股價漲幅擴大，上漲2.2%，創下2009年10月以來的最高水平。"
+    },
+    {
+      "id": "5060525",
+      "time": "2026-08-26 22:01:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州銀行：2026年上半年淨利潤128.13億元，同比增長9.87%】杭州銀行公告，2026年上半年營業收入210.48億元，同比增長4.75%；歸屬於上市公司股東的淨利潤128.13億元，同比增長9.87%，2025年同期為116.62億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤128.01億元，同比增長10.74%。公司擬每10股派發現金股利4.6元人民幣（含稅）。"
+    },
+    {
+      "id": "mkt:01a03e5f-e7e0-7aab-9131-6539503a8e3f",
+      "time": "2026-08-26 22:01:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China issues navigation warning for military drills in South China Sea】China Maritime Safety Administration’s Qinglan bureau issued a navigation warning: parts of the South China Sea will be closed for military training from Aug 27 06:00 to Aug 29 22:00 (local time); entry into the designated waters is prohibited."
+    },
+    {
+      "id": "5060524",
+      "time": "2026-08-26 22:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月27日6時至29日22時，南海部分水域進行軍事訓練，禁止駛入。（央視軍事）"
+    },
+    {
+      "id": "mkt:01a03e5e-abd5-7aab-9131-5af25d801ebe",
+      "time": "2026-08-26 21:59:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French presidential office says Sweden will sign a contract to purchase four frigates built by France's Naval Group."
+    },
+    {
+      "id": "5060523",
+      "time": "2026-08-26 21:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美圖公司首席產品官陳劍毅：公司產品已覆蓋AI創作、AI內容發行、AI資產沉澱環節】8月26日晚舉行的業績交流會上，美圖公司首席產品官陳劍毅表示，在電商場景，影響消費者購買決策的電商內容正在從貨架走向社媒，這意味著電商商家的經營方式正從貨架電商延伸到內容電商。美圖設計室接下來會分兩步走：一是把電商平臺物料的能力做紮實，二是向社媒電商延伸。陳劍毅表示，目前美圖旗下產品已覆蓋AI創作、AI內容發行和AI資產沉澱環節。"
+    },
+    {
+      "id": "5060522",
+      "time": "2026-08-26 21:59:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為（對伊朗）經濟戰與軍事打擊都有效。"
+    },
+    {
+      "id": "5060521",
+      "time": "2026-08-26 21:57:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國總統府表示，瑞典將簽署合同，採購法國海軍集團建造的四艘護衛艦。"
+    },
     {
       "id": "5060520",
       "time": "2026-08-26 21:57:13",
