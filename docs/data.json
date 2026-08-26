@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-26 21:41:20",
-  "count": 16796,
+  "updated": "2026-08-26 21:45:38",
+  "count": 16793,
   "items": [
+    {
+      "id": "5060496",
+      "time": "2026-08-26 21:44:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "META股價走勢逆轉，最新下跌1.2%。"
+    },
+    {
+      "id": "5060495",
+      "time": "2026-08-26 21:44:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天工國際：2026年上半年營收2.30億元 淨利同比降83.42%】天工國際公告稱，其持股67.63%的附屬公司江蘇天工科技股份有限公司2026年上半年實現營業收入2.30億元，同比下降37.03%；歸屬於天工股份股東的淨利潤1060.97萬元，同比下降83.42%；扣非淨利潤997.75萬元，同比下降83.05%。截至2026年6月30日，天工股份總資產14.81億元，歸屬於股東的淨資產12.88億元，資產負債率11.93%。"
+    },
+    {
+      "id": "5060494",
+      "time": "2026-08-26 21:43:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MiniMax：從ARR結構看 To B業務佔比已達到約80%】8月26日晚間MiniMax的2026年中期業績電話會上提到，MiniMax的收入結構在快速變化。從最新ARR（年度經常性收入）結構看，To B業務佔比已達到約80%，To C業務佔比約20%，對比去年同期To B業務佔比約30%、To C佔比約70%，企業和開發者對模型的採用速度明顯在加快。MiniMax稱，隨著M2系列持續升級以及M3、H3相繼推出，模型智慧水平和推理吞吐同步提升，企業及開發者的模型呼叫需求正在成為MiniMax新的收入主力。"
+    },
+    {
+      "id": "5060493",
+      "time": "2026-08-26 21:43:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：Meta須遵守禁令，不得就安全功能發表“虛假、誤導或欺騙性宣告”。"
+    },
+    {
+      "id": "5060492",
+      "time": "2026-08-26 21:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聖牧：2026年上半年營收15.46億元 同比增7.1%】中國聖牧公告稱，2026年上半年實現銷售收入15.46億元，同比增長7.1%；母公司擁有人應占溢利6400.7萬元，上年同期為淨虧損4832.2萬元，同比扭虧為盈。報告期內原料奶銷量42.49萬噸，同比增長13.9%；成乳牛年化單產13.14噸，同比增長7.1%；公斤奶銷售成本2.58元，同比下降10.7%。董事會不建議派付中期股息。此外，公司被視為公眾持股量嚴重不足，需於2028年2月2日前重新符合相關要求，否則股份將被除牌。"
+    },
+    {
+      "id": "5060491",
+      "time": "2026-08-26 21:42:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "NCINO公佈季度業績後股價下跌1.8%。"
+    },
+    {
+      "id": "5060490",
+      "time": "2026-08-26 21:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列稱將繼續追擊參與2023年襲擊的巴武裝人員】據當地多家媒體報道，以色列軍方25日表示將繼續追擊參與2023年10月7日襲擊以色列的巴勒斯坦武裝人員。（新華社）"
+    },
+    {
+      "id": "5060489",
+      "time": "2026-08-26 21:41:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "META：53億美元和解協議涉及YouTube和其他媒體實施每日使用時長限制、夜間模式及年齡驗證措施。"
+    },
+    {
+      "id": "5060488",
+      "time": "2026-08-26 21:41:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "INTUIT釋出疲弱年度營收預測後股價下跌3.8%。"
+    },
+    {
+      "id": "5060487",
+      "time": "2026-08-26 21:40:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球市場情報一致預期英偉達資料中心營收857億美元，預測區間835‑915億美元；整體營收一致預期922億美元。"
+    },
+    {
+      "id": "5060486",
+      "time": "2026-08-26 21:40:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "北美科技軟體股指數ETF一度跌超1%，報99.79美元，逼近8月6日盤中最低位99.42美元。"
+    },
     {
       "id": "mkt:01a03e4c-b268-7aab-9131-1b0acd7b54ed",
       "time": "2026-08-26 21:40:08",
@@ -151545,136 +151633,6 @@
         "Importance 1"
       ],
       "text": "Shell Stock Price Hits 10-week High — Shell shares increased to 3421.00 GBp, the highest since June 2026. Over the past 4 weeks, Shell plc gained 6.16%, and in the last 12 months, it increased 28.22%."
-    },
-    {
-      "id": "te:markets:576513",
-      "time": "2026-08-19 21:45:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bristol-Myers Squibb Stock Price Hits 3-year High — Bristol-Myers Squibb shares increased to 68.11 USD, the highest since May 2023. Over the past 4 weeks, Bristol-Myers Squibb gained 12.92%, and in the last 12 months, it increased 40.53%."
-    },
-    {
-      "id": "5048214",
-      "time": "2026-08-19 21:45:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Nebius集團股價下跌9%，此前該集團宣佈計劃非公開發行45億美元的優先可轉換債券。"
-    },
-    {
-      "id": "5048213",
-      "time": "2026-08-19 21:45:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫：抵抗是通往勝利的唯一道路，如果我們不做好戰爭準備，談判也毫無意義。"
-    },
-    {
-      "id": "mkt:01a01a44-91d8-7aab-9098-f6a522c79eef",
-      "time": "2026-08-19 21:44:56",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "USD/CAD fell more than 0.50% intraday to 1.3825, its lowest level since June."
-    },
-    {
-      "id": "mkt:01a01a44-099b-7aab-9098-ec177c4bf807",
-      "time": "2026-08-19 21:44:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Africa's main stock index rose 2% to 115,591.30 points."
-    },
-    {
-      "id": "5048212",
-      "time": "2026-08-19 21:44:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "ADI（亞德諾半導體）股價在第三季度業績公佈後下跌1%。"
-    },
-    {
-      "id": "5048211",
-      "time": "2026-08-19 21:44:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非主要股指上漲 2%，報 115591.30 點  。"
-    },
-    {
-      "id": "5048210",
-      "time": "2026-08-19 21:43:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "TOLL BROTHERS股價在第三季度財報及展望公佈後上漲6.9%。"
-    },
-    {
-      "id": "mkt:01a01a42-b484-7aab-9098-e0666b1376e0",
-      "time": "2026-08-19 21:42:54",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Swiss franc rose 1% against the US dollar intraday, reaching its strongest level since July 15."
-    },
-    {
-      "id": "te:markets:576512",
-      "time": "2026-08-19 21:42:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rebound on Higher Treasury Buyback — US stock indices were higher on Tuesday after the Treasury signaled it will buy back more notes and bonds. The S&P 500, Dow, and Nasdaq 100 were slightly above the flatline. The Treasury stated it would double the limit on buybacks of long-term securities, adding to a series of other measures it took to control the recent surge in longer benchmark borrowing costs. Besides reducing rates, the outlook of higher dollar liquidity from the Treasury's intervention also supported equities. US yields were also in focus ahead of the release of FOMC minutes. Gains were broad on most sectors, with software application and hyperscalers mostly trading higher. Apple, Salesforce, and Tesla gained 1%. Meanwhile, retail stocks gained after TJX, Target, and Lowe's all reported second-quarter earnings. On top of that, Moderna stock prices doubled and Merck surged 10% after a trial on their joint vaccine cut recurrence in melanoma."
-    },
-    {
-      "id": "5048209",
-      "time": "2026-08-19 21:42:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "默沙東股價觸及歷史新高，最新上漲9.6%。"
-    },
-    {
-      "id": "5048208",
-      "time": "2026-08-19 21:42:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "由於美元走軟，瑞士法郎上漲1%，創7月15日以來最高水平。"
-    },
-    {
-      "id": "5048207",
-      "time": "2026-08-19 21:42:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數抹去了開盤漲幅。"
-    },
-    {
-      "id": "te:markets:576511",
-      "time": "2026-08-19 21:42:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Shell Stock Price Hits 18-week High — Shell shares increased to 40.05 EUR, the highest since April 2026. Over the past 4 weeks, Shell plc gained 5.49%, and in the last 12 months, it increased 29.48%."
     }
   ]
 }
