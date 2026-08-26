@@ -1,7 +1,516 @@
 {
   "date": "2026-08-26",
-  "count": 2980,
+  "count": 3033,
   "items": [
+    {
+      "id": "mkt:01a03e48-ec2b-7aab-9130-ecfd8ac00355",
+      "time": "2026-08-26 21:36:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meta Platforms will pay U.S. states $12.7 bln; an additional $5.3 bln is conditional."
+    },
+    {
+      "id": "te:markets:578297",
+      "time": "2026-08-26 21:35:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Extends Rally to Fifth Session — The Baltic Exchange’s dry bulk sea freight index rose 4.4% to 3,056 on Wednesday, marking a fifth consecutive session of gains and reaching its highest level since August 10. The index tracks rates for capesize, panamax and supramax vessels. Capesize rates led the advance, with the index jumping 6.3% to 5,033, also its highest since August 10. Average daily earnings for capesize vessels, which typically carry around 150,000 tons of iron ore and coal, rose $2,706 to $42,148. Iron ore futures gained as Typhoon Narra disrupted shipping routes in the South China Sea, tightening supply and lifting freight costs. The panamax index climbed 3.7% to 2,246, its highest since August 13, while average daily earnings increased $717 to $20,213. The supramax index edged up 0.1% to 1,644."
+    },
+    {
+      "id": "5060473",
+      "time": "2026-08-26 21:35:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Spyre Therapeutics股價下跌13.8%，因該公司試驗藥物未能達到類風溼性關節炎單藥治療開發的預設門檻。"
+    },
+    {
+      "id": "5060472",
+      "time": "2026-08-26 21:35:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "Semtech股價上漲8.4%，此前其二季度業績超出市場預期。"
+    },
+    {
+      "id": "mkt:01a03e48-0772-7aab-9130-e2d232eff15a",
+      "time": "2026-08-26 21:35:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) urged YouTube and other social media platforms to adopt the same safety measures."
+    },
+    {
+      "id": "5060471",
+      "time": "2026-08-26 21:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：若其他社媒平臺同意與Meta類似條款，青少年使用者每日使用時限將降至一小時。"
+    },
+    {
+      "id": "mkt:01a03e47-c45e-7aab-9130-d87611be67b9",
+      "time": "2026-08-26 21:34:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Senior Iranian source: Iran and Oman have not finalized Strait of Hormuz agreement】A senior Iranian source told Reuters on Wednesday that an agreement between Iran and Oman on the Strait of Hormuz has not been finalized and both sides are still negotiating the specific terms."
+    },
+    {
+      "id": "5060470",
+      "time": "2026-08-26 21:34:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利：英偉達Rubin第三季度有望貢獻近90億美元收入】摩根士丹利預計，在10月結束的財季Rubin貢獻營收接近90億美元。該行研報指出，英偉達會強調Rubin相較於已經處於領先地位的Blackwell平臺，將大幅改善AI算力工廠的經濟效益。投資者需要捕捉訊號：Rubin是做大整體市場蛋糕，還是僅僅造成客戶推遲採購Blackwell，同時關注量產時間節點。"
+    },
+    {
+      "id": "te:markets:578296",
+      "time": "2026-08-26 21:34:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Applied Materials Stock Price Hits 4-week Low — Applied Materials shares decreased to 473.64 USD, the lowest since July 2026. Over the past 4 weeks, Applied Materials lost 7.62%, and in the last 12 months, it increased 190.24%."
+    },
+    {
+      "id": "mkt:01a03e47-9e63-7aab-9130-d488e71240bb",
+      "time": "2026-08-26 21:34:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) will record a $10 billion legal charge in Q3 2026 related to the agreement."
+    },
+    {
+      "id": "5060469",
+      "time": "2026-08-26 21:34:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "因財捷集團財季預測不及預期，部分軟體股股價走低。ServiceNow股價下跌2.7%，Salesforce下跌1%，Adobe下跌2.1%，Palantir下跌1.4%。"
+    },
+    {
+      "id": "mkt:01a03e47-295c-7aab-9130-cd6f3cf5e21f",
+      "time": "2026-08-26 21:34:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta said it will pay $18 billion over the next 10 years to fund teen online-safety initiatives."
+    },
+    {
+      "id": "5060468",
+      "time": "2026-08-26 21:33:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "META ：獨立審計師將在五年內審查META協議合規情況。"
+    },
+    {
+      "id": "5060467",
+      "time": "2026-08-26 21:33:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：除此之外，7 月給出的業績指引區間維持不變。"
+    },
+    {
+      "id": "5060466",
+      "time": "2026-08-26 21:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "META將在十年內出資180億美元用於青少年網路安全專案。"
+    },
+    {
+      "id": "mkt:01a03e46-2681-7aab-9130-c6aafbbc96ca",
+      "time": "2026-08-26 21:32:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened lower on Aug. 26: Dow Jones Industrial Average down 44.30 points (-0.08%) at 53,533.10; S&P 500 down 10.14 points (-0.13%) at 7,667.06; Nasdaq Composite down 40.76 points (-0.16%) at 26,110.54."
+    },
+    {
+      "id": "mkt:01a03e46-22f9-7aab-9130-bff4978d1c3c",
+      "time": "2026-08-26 21:32:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Trump says Iran's supreme leader injured but not dead】U.S. President Trump on Wednesday said he believed Iran's supreme leader was not dead and may have been seriously wounded. He said the Strait of Hormuz was operating normally and large volumes of oil were flowing, with 10 million barrels of oil leaving the strait yesterday."
+    },
+    {
+      "id": "mkt:01a03e46-0a04-7aab-9130-b205974c2d98",
+      "time": "2026-08-26 21:32:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump said on Iran he believes economic warfare and military strikes are both effective."
+    },
+    {
+      "id": "5060465",
+      "time": "2026-08-26 21:32:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 預計 2026 年第三季度法律費用約 100 億美元。"
+    },
+    {
+      "id": "5060464",
+      "time": "2026-08-26 21:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾北部山洪遇難人數升至72人】據尼泊爾警方26日晚通報，該國北部地區山洪造成的死亡人數已升至72人。（央視新聞）"
+    },
+    {
+      "id": "5060463",
+      "time": "2026-08-26 21:32:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "烏克蘭和俄羅斯襲擊事件發生後，小麥期貨價格升至三年高位。"
+    },
+    {
+      "id": "5060462",
+      "time": "2026-08-26 21:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "加利福尼亞州總檢察長：與元宇宙平臺公司（Meta）達成的和解協議規定，由家長申請解除18歲以下使用者預設每日使用時限限制。"
+    },
+    {
+      "id": "5060461",
+      "time": "2026-08-26 21:31:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "META股價在同意和解青少年社交媒體案件後上漲4.1%。"
+    },
+    {
+      "id": "5060460",
+      "time": "2026-08-26 21:31:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "ABERCROMBIE股價上漲高達23%，創下2025年1月以來的最高水平。"
+    },
+    {
+      "id": "5060459",
+      "time": "2026-08-26 21:31:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "INTUIT股價下跌9.8%，隨後迅速回落至約3%。"
+    },
+    {
+      "id": "5060458",
+      "time": "2026-08-26 21:31:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "波士頓科學公司股價開盤下跌5.9%。"
+    },
+    {
+      "id": "mkt:01a03e44-43b5-7aab-9130-a841192ab6c6",
+      "time": "2026-08-26 21:30:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Court filing: Meta Platforms (META.O) settlement requires court approval."
+    },
+    {
+      "id": "5060457",
+      "time": "2026-08-26 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.01%，標普500指數跌0.12%，納指跌0.15%。波士頓科學跌5.27%，嘉信理財跌4.74%，Moderna跌3.77%，卡夫亨氏跌3.52%，財捷跌3.51%。“七姐妹”方面：Meta Platforms漲3.21%，蘋果漲0.32%，微軟漲0.04%，亞馬遜跌0.06%，英偉達跌0.21%，谷歌跌0.49%，特斯拉跌1.67%。"
+    },
+    {
+      "id": "mkt:01a03e44-01c0-7aab-9130-a2db8cc0e2b6",
+      "time": "2026-08-26 21:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "At the open, the Dow Jones Industrial Average fell 0.19%, the S&P 500 fell 0.02% and the Nasdaq Composite fell 0.22%. Meta Platforms (META.O) rose about 3% after agreeing to settle claims that its platform harmed children."
+    },
+    {
+      "id": "5060456",
+      "time": "2026-08-26 21:30:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約將從 Meta 和解案中獲得最高 11.5 億美元。"
+    },
+    {
+      "id": "5060455",
+      "time": "2026-08-26 21:30:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "南非農作物估計委員會：南非2026年小麥產量預估為176萬噸，2025年產量為190萬噸。"
+    },
+    {
+      "id": "5060454",
+      "time": "2026-08-26 21:30:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所S&P/TSX綜合指數<.GSPTSE>開盤下跌148.13點，跌幅0.40%，報36809.50點。"
+    },
+    {
+      "id": "mkt:01a03e42-e574-7aab-9130-9844f50e96d2",
+      "time": "2026-08-26 21:29:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "California regulators said Meta Platforms (META.O) agreed to cap daily online time for users under 18 at two hours."
+    },
+    {
+      "id": "5060453",
+      "time": "2026-08-26 21:29:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州：Meta 同意對 18 歲以下使用者封禁凌晨 0 點至 6 點的使用許可權。"
+    },
+    {
+      "id": "mkt:01a03e42-d843-7aab-9130-91da26e7b36c",
+      "time": "2026-08-26 21:29:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said it was time to teach Canada a lesson and that Canada cannot continue doing this."
+    },
+    {
+      "id": "5060452",
+      "time": "2026-08-26 21:29:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "提示：特朗普講話結束。"
+    },
+    {
+      "id": "5060451",
+      "time": "2026-08-26 21:28:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據法庭檔案，依據協議，Meta將禁止青少年使用者看到帖子的“點贊”數及互動反應數。"
+    },
+    {
+      "id": "5060450",
+      "time": "2026-08-26 21:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：是時候給加拿大上一課了——你不能再這麼幹了。"
+    },
+    {
+      "id": "5060449",
+      "time": "2026-08-26 21:27:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州：Meta 同意對 18 歲以下使用者設定每日 2 小時使用上限。"
+    },
+    {
+      "id": "mkt:01a03e41-0a81-7aab-9130-8adc38311227",
+      "time": "2026-08-26 21:27:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Al Jazeera quoted Trump as saying the US confrontation with Iran is not bound by any timetable and will continue for as long as necessary."
+    },
+    {
+      "id": "5060448",
+      "time": "2026-08-26 21:27:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：即便沒有加拿大，“我們也能應付”。"
+    },
+    {
+      "id": "mkt:01a03e40-e281-7aab-9130-85b7feba11e0",
+      "time": "2026-08-26 21:27:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Trump said the US cannot allow Iran to possess nuclear weapons."
+    },
+    {
+      "id": "5060447",
+      "time": "2026-08-26 21:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：他們沒有任何我們必須要擁有的東西。"
+    },
+    {
+      "id": "5060446",
+      "time": "2026-08-26 21:27:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，裕信銀行CEO奧塞爾接受德國財長邀請。"
+    },
+    {
+      "id": "mkt:01a03e40-a6ea-7aab-9130-7fca031bef80",
+      "time": "2026-08-26 21:26:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump said the U.S. confrontation with Iran has no timetable and will continue for as long as necessary."
+    },
+    {
+      "id": "mkt:01a03e40-3a07-7aab-9130-73745f2f4a59",
+      "time": "2026-08-26 21:26:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "President Trump said the U.S. has established absolute and genuine dominance over Iran."
+    },
+    {
+      "id": "5060445",
+      "time": "2026-08-26 21:26:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州將從 Meta 和解案中獲得最高 21 億美元。"
+    },
+    {
+      "id": "mkt:01a03e3f-ff5f-7aab-9130-698a02e51d55",
+      "time": "2026-08-26 21:26:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MiniMax to adapt M3 and H3 to China-made chips; large domestic compute clusters to go live】On its mid-2026 results call, MiniMax said it is advancing adaptation of its M3 and H3 lines to China-made chips. Large-scale domestic compute clusters will be brought online soon and will progressively handle live production traffic."
+    },
+    {
+      "id": "te:markets:578293",
+      "time": "2026-08-26 21:26:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Extends Decline on Strong US Data — Silver prices fell toward $68 an ounce on Wednesday as investors digested fresh US economic data for clues on the Federal Reserve’s interest-rate outlook. The PCE price index rose 0.2% in July, above expectations for a 0.1% increase, while annual inflation reached 3.7% versus forecasts of 3.6%. Core PCE increased 0.2% month-over-month and 3.3% year-over-year, both in line with estimates. Consumer spending and income also came in slightly above forecasts. Separate data showed US GDP grew 1.5% in Q2, matching the initial estimate, while durable goods orders rose 1.1% in July, beating expectations of 0.5%. Markets are now pricing around a 60% chance of the Fed keeping rates unchanged next month, down from 64% before the data, according to the CME FedWatch Tool. On the geopolitical front, Iran said it had resumed talks with neighboring Oman on managing the Strait of Hormuz, amid mounting economic pressure from US President Donald Trump."
+    },
+    {
+      "id": "mkt:01a03e3f-b3c4-7aab-9130-61b7a7e4df78",
+      "time": "2026-08-26 21:25:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said the U.S. has already won in Venezuela and will soon secure a major victory in Iran."
+    },
+    {
+      "id": "5060444",
+      "time": "2026-08-26 21:25:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MiniMax：推進M3和H3的國產晶片適配 大規模國產算力叢集將上線】MiniMax的2026年中期業績電話會上了提到，公司正在推進M3和H3的國產晶片適配，大規模國產算力叢集將很快上線，並逐步承擔真實生產流量。"
+    },
+    {
+      "id": "mkt:01a03e3f-9ea7-7aab-9130-5b0b8cf1cc3e",
+      "time": "2026-08-26 21:25:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran's inflation rate has reached 300%."
+    },
+    {
+      "id": "5060443",
+      "time": "2026-08-26 21:25:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普建議考慮修改牛肉加工法規。"
+    },
     {
       "id": "mkt:01a03e3f-491f-7aab-9130-546bd730ea1b",
       "time": "2026-08-26 21:25:29",
