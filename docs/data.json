@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-26 23:03:12",
-  "count": 16741,
+  "updated": "2026-08-26 23:07:47",
+  "count": 16739,
   "items": [
+    {
+      "id": "5060607",
+      "time": "2026-08-26 23:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4645.53美元/盎司。"
+    },
+    {
+      "id": "mkt:01a03e9a-a5a2-7aab-9132-f0c48be63639",
+      "time": "2026-08-26 23:05:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The French representative said Israeli attacks in the West Bank have hindered efforts to implement a two-state solution."
+    },
+    {
+      "id": "5060606",
+      "time": "2026-08-26 23:05:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大國家銀行執行長：邊境兩側新增關稅將波及更多行業、商業投資以及消費者的負擔能力。"
+    },
+    {
+      "id": "5060605",
+      "time": "2026-08-26 23:04:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "加拿大國家銀行執行長表示，美國境內尚未解決且不斷升級的貿易衝突持續給企業帶來經濟不確定性與挑戰。"
+    },
+    {
+      "id": "te:economy:578320",
+      "time": "2026-08-26 23:04:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Oil Inventories Rise Less than Expected — US crude inventories rose by 0.095 million barrels to 428.9 million barrels in the week ended August 21, compared with expectations for a 0.6 million-barrel rise. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 1.176 million barrels in the week. Refinery crude runs fell by 2,000 barrels per day. Gasoline stocks fell by 2.536 million barrels to 206.8 million barrels, more than forecasts for a 0.7 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, fell by 2.228 million barrels to 103.4 million barrels, above expectations for a 1.6 million-barrel drop. Net US crude imports fell by 161,000 barrels per day."
+    },
+    {
+      "id": "te:markets:578319",
+      "time": "2026-08-26 23:04:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures Hover Around $5,900 — Cocoa futures traded around $5,900 per tonne, down slightly from recent one-month highs of nearly $6,100, pressured by signs of abundant global supplies. Cumulative data from top exporter Ivory Coast showed that farmers shipped 1.999 MMT of cocoa to ports by August 23 since the start of the season on October 1, up 20.2% from the same period a year ago. Also, Nigeria, the world’s fifth-largest cocoa producer, saw July cocoa bean exports rise 18% year on year to 16,052 metric tons, according to Bloomberg. Stronger supply this season has eased concerns for now, but rising weather risks across West Africa are fueling expectations of tighter conditions next season. Farmers in Ivory Coast said on August 24 that rainfall was below average last week across most cocoa-growing regions, adding that more rain alongside sunny spells would be needed to support the September-to-February main crop."
+    },
+    {
+      "id": "5060604",
+      "time": "2026-08-26 23:03:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "加州總檢察長：邦塔總檢察長提起訴訟，質疑美國郵政限制郵寄投票、干預選舉的相關規定。"
+    },
+    {
+      "id": "5060603",
+      "time": "2026-08-26 23:02:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4650美元/盎司，日內跌0.96%。"
+    },
+    {
+      "id": "5060602",
+      "time": "2026-08-26 23:02:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MINIMAX：修訂阿里雲端計算服務協議項下持續關連交易的年度上限】MINIMAX-W(00100.HK)公告，根據主API服務協議，公司同意向阿里巴巴集團運營的業務提供API服務，期限自上市日期起至2028年12月31日止。根據阿里雲端計算服務協議，公司同意向阿里雲端計算有限公司購買若干雲產品及服務，期限自上市日期起至2028年12月31日止。於8月26日（交易時段後），公司與阿里雲端計算有限公司訂立主API服務協議補充協議及阿里雲端計算服務協議補充協議，以修訂主API服務協議及阿里雲端計算服務協議項下截至2026年、2027年及2028年12月31日止年度的持續關連交易的現有年度上限。"
+    },
     {
       "id": "mkt:01a03e96-71f7-7aab-9132-e98e5e81cf5a",
       "time": "2026-08-26 23:00:41",
@@ -150957,113 +151038,6 @@
         "AI Revolution"
       ],
       "text": "【China foreign minister Wang Yi meets South Korean foreign minister Zhao Xian】China foreign minister Wang Yi met South Korean foreign minister Zhao Xian in Seoul on the 19th. Wang said China–South Korea economic ties are deep and China’s large market gives Korean firms a proximity advantage. He urged expanding and upgrading cooperation toward higher value‑added sectors, highlighting AI, green transition, digital economy, high‑end equipment and the silver economy as new growth areas, and called for accelerated second‑phase negotiations of the China–South Korea free trade agreement. Wang also pushed for closer coordination on regional and international issues to preserve regional stability and promote a fairer global governance framework, and said China will use this year’s informal APEC leaders’ meeting to work with partners including South Korea to build an Asia‑Pacific community."
-    },
-    {
-      "id": "5048340",
-      "time": "2026-08-19 23:07:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯已開始進口燃料。"
-    },
-    {
-      "id": "mkt:01a01a90-5597-7aab-909b-c8eac08a0af2",
-      "time": "2026-08-19 23:07:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "TASS reports Russian Deputy Prime Minister Novak said Russia has begun importing fuel."
-    },
-    {
-      "id": "mkt:01a01a90-239b-7aab-909b-c6f32bf945c1",
-      "time": "2026-08-19 23:07:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "SMG.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said Scotts Miracle-Gro Co is a great company."
-    },
-    {
-      "id": "te:markets:576549",
-      "time": "2026-08-19 23:07:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "US Natgas Prices Rise to Over 3-Week High — US natural gas prices climbed above $2.80 per million British thermal units, reaching their highest level since July 24, as forecasts pointed to hotter weather across much of the country. Short-term temperature outlooks have turned more bullish, with Houston temperatures expected to average around 100°F (38°C) from August 20 to 23. Also, warmer-than-normal conditions are forecast through early September. However, abundant supply remains a key constraint on further gains. Lower-48 production averaged around 111.5 billion cubic feet per day so far in August, above July’s monthly record of 110.7 bcfd. Robust output and relatively mild spring weather have kept inventories above the five-year average since March, despite persistent summer heat. Meanwhile, gas flows to the nine major US LNG export facilities averaged 17.2 bcfd in August, unchanged from July and just below June’s record."
-    },
-    {
-      "id": "mkt:01a01a8f-d693-7aab-909b-be8b9e5b51c3",
-      "time": "2026-08-19 23:07:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "TASS reports several Russian refineries are nearing completion of maintenance."
-    },
-    {
-      "id": "5048339",
-      "time": "2026-08-19 23:06:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊升破2000美元，日內漲4.75%。"
-    },
-    {
-      "id": "5048338",
-      "time": "2026-08-19 23:06:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱多家煉油廠將很快完成維修工作。"
-    },
-    {
-      "id": "mkt:01a01a8f-8adc-7aab-909b-b777738fec6f",
-      "time": "2026-08-19 23:06:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister said Brazil needs a mutually respectful dialogue with the United States."
-    },
-    {
-      "id": "te:markets:576548",
-      "time": "2026-08-19 23:06:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rises to Over2-Month High — Gold prices rose to $4,480 per ounce on Wednesday, the highest since early June, tracking the rally for long-dated Treasuries after the US Treasuries announced it would double the buyback of notes and bonds in the upcoming financial quarter. The Treasury Department stated it would raise its buyback limit to $4 billion on the quarter to November, another effort to contain soaring yields in the long-term of the curve, following Secretary Bessent's call for higher limits on the Federal Reserve's FIMA facility. Lower borrowing costs reduce the opportunity cost for markets to hold precious metals, which carry no coupons. On top of that, the initial increase in dollar liquidity due to the measures also aid gold prices. Meanwhile, the Fed is due to release minutes from the Fed's last meeting. The resulting decision was of a rate hold, although three FOMC members dissented on the hawkish side."
-    },
-    {
-      "id": "5048337",
-      "time": "2026-08-19 23:04:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：俄烏黑海糧食出口實際上已陷入停滯。"
-    },
-    {
-      "id": "mkt:01a01a8c-a57b-7aab-909b-a9a308b235b3",
-      "time": "2026-08-19 23:03:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Texas grid operator ERCOT said it will issue an emergency notice of an extreme weather event from Thursday through next Tuesday as extreme heat is forecast across north-central and south-central Texas."
     }
   ]
 }
