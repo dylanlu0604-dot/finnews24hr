@@ -1,7 +1,44 @@
 {
   "date": "2026-08-26",
-  "count": 3307,
+  "count": 3311,
   "items": [
+    {
+      "id": "mkt:01a03ecc-961f-7aab-9134-11ef51a7272b",
+      "time": "2026-08-26 23:59:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US soybeans extended intraday gains to 1.00%, trading at 1,250.25 cents per bushel."
+    },
+    {
+      "id": "5060635",
+      "time": "2026-08-26 23:58:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "CBOT小麥日內漲幅達2.5%，報766美分。"
+    },
+    {
+      "id": "mkt:01a03ecb-4f64-7aab-9134-0b33a68f643f",
+      "time": "2026-08-26 23:58:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. wheat futures rose 4.00% intraday to 731.50 c/bu; U.S. corn futures gained over 2.00% intraday to 534.00 c/bu."
+    },
+    {
+      "id": "te:markets:578337",
+      "time": "2026-08-26 23:57:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil Pares Losses — Brent crude oil pared earlier losses and traded just below $89 a barrel on Wednesday, following two consecutive sessions of declines, as signs of increased flows from the Persian Gulf eased supply concerns. Traders are closely watching talks between Iran and Oman over a possible arrangement to restore shipping through the Strait of Hormuz. US President Donald Trump said around 10 million barrels of oil had passed through the waterway on Tuesday, raising hopes that disruptions may be easing. Meanwhile, satellite data indicated that Saudi Arabia could be increasing oil loadings from terminals inside the Persian Gulf. At the same time, Iran and Oman are reportedly discussing broader arrangements for managing Hormuz, although uncertainty remains over whether Washington would accept an agreement excluding the US. In the US, EIA data showed crude inventories were virtually unchanged last week, while gasoline and diesel stocks fell to seasonal lows."
+    },
     {
       "id": "mkt:01a03eca-5c97-7aab-9134-03240d74cd14",
       "time": "2026-08-26 23:57:24",

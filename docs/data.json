@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-26 23:58:30",
-  "count": 16702,
+  "updated": "2026-08-27 00:03:43",
+  "count": 16703,
   "items": [
+    {
+      "id": "mkt:01a03ece-29bf-7aab-9134-221315150794",
+      "time": "2026-08-27 00:01:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Rosstat: July industrial output +0.4% YoY, versus market consensus +0.7%."
+    },
+    {
+      "id": "mkt:01a03ecd-90e7-7aab-9134-19d5ddfe17c5",
+      "time": "2026-08-27 00:00:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKO issued a Yellow Rainstorm Warning for Hong Kong."
+    },
+    {
+      "id": "5060640",
+      "time": "2026-08-27 00:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "5060639",
+      "time": "2026-08-27 00:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：俄羅斯 1‑7 月工業產出增長 0.1%。"
+    },
+    {
+      "id": "5060638",
+      "time": "2026-08-27 00:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局：截至 8 月 24 日當週，俄羅斯周度通脹率為 0.01%，此前一週為通縮 0.02%。"
+    },
+    {
+      "id": "5060637",
+      "time": "2026-08-27 00:00:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "達拉斯聯儲截尾均值個人消費支出（PCE）物價指數 7 月年化漲幅為 2.2%，6 月為 1.5%。"
+    },
+    {
+      "id": "5060636",
+      "time": "2026-08-27 00:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破99關口，日內漲0.26%。"
+    },
+    {
+      "id": "mkt:01a03ecc-961f-7aab-9134-11ef51a7272b",
+      "time": "2026-08-26 23:59:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US soybeans extended intraday gains to 1.00%, trading at 1,250.25 cents per bushel."
+    },
+    {
+      "id": "5060635",
+      "time": "2026-08-26 23:58:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "CBOT小麥日內漲幅達2.5%，報766美分。"
+    },
+    {
+      "id": "mkt:01a03ecb-4f64-7aab-9134-0b33a68f643f",
+      "time": "2026-08-26 23:58:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. wheat futures rose 4.00% intraday to 731.50 c/bu; U.S. corn futures gained over 2.00% intraday to 534.00 c/bu."
+    },
+    {
+      "id": "te:markets:578337",
+      "time": "2026-08-26 23:57:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil Pares Losses — Brent crude oil pared earlier losses and traded just below $89 a barrel on Wednesday, following two consecutive sessions of declines, as signs of increased flows from the Persian Gulf eased supply concerns. Traders are closely watching talks between Iran and Oman over a possible arrangement to restore shipping through the Strait of Hormuz. US President Donald Trump said around 10 million barrels of oil had passed through the waterway on Tuesday, raising hopes that disruptions may be easing. Meanwhile, satellite data indicated that Saudi Arabia could be increasing oil loadings from terminals inside the Persian Gulf. At the same time, Iran and Oman are reportedly discussing broader arrangements for managing Hormuz, although uncertainty remains over whether Washington would accept an agreement excluding the US. In the US, EIA data showed crude inventories were virtually unchanged last week, while gasoline and diesel stocks fell to seasonal lows."
+    },
     {
       "id": "mkt:01a03eca-5c97-7aab-9134-03240d74cd14",
       "time": "2026-08-26 23:57:24",
@@ -150638,94 +150737,6 @@
         "AMZN.O"
       ],
       "text": "Wall Street Journal reports the U.S. Federal Trade Commission (FTC) has warned retailers against using private consumer data to raise prices; firms adopting personalized pricing must disclose the practice or may face litigation."
-    },
-    {
-      "id": "5048399",
-      "time": "2026-08-20 00:03:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯外交部長拉夫羅夫表示，如果英國製造的武器被直接用於襲擊俄羅斯領土，俄羅斯有權將其視作英國直接介入烏克蘭衝突。"
-    },
-    {
-      "id": "5048398",
-      "time": "2026-08-20 00:03:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊升破2100美元，日內漲9.63%。"
-    },
-    {
-      "id": "mkt:01a01ac2-55bd-7aab-909d-2df6184ea0df",
-      "time": "2026-08-20 00:02:18",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Spot silver briefly topped $66/oz, rising 4.24% intraday."
-    },
-    {
-      "id": "5048397",
-      "time": "2026-08-20 00:01:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破66美元/盎司，日內漲4.27%。"
-    },
-    {
-      "id": "5048396",
-      "time": "2026-08-20 00:01:03",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯統計局公佈資料：俄羅斯7月生產者物價指數（PPI）同比上漲6.6%，環比下降2.5%。"
-    },
-    {
-      "id": "mkt:01a01ac0-d33d-7aab-909d-21a4833b97ec",
-      "time": "2026-08-20 00:00:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's statistical agency said consumer prices declined 0.02% week-on-week in the week to Aug. 17, after a 0.06% week-on-week drop in the prior week."
-    },
-    {
-      "id": "5048395",
-      "time": "2026-08-20 00:00:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計部門：截至8月17日當週，俄羅斯周度消費者通縮為0.02%，此前一週為下降0.06%。"
-    },
-    {
-      "id": "mkt:01a01abf-c7f8-7aab-909d-1915be8ca961",
-      "time": "2026-08-19 23:59:31",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "U.S. Department of Transportation agreement includes small modular reactors, microgrids and propulsion systems."
-    },
-    {
-      "id": "5048394",
-      "time": "2026-08-19 23:59:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部簽署協議，探索海事核能技術，協議涵蓋小型模組化反應堆、微電網及船舶推進系統。"
-    },
-    {
-      "id": "mkt:01a01abf-4fc9-7aab-909d-1469250489d8",
-      "time": "2026-08-19 23:59:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Department of Transportation to explore nuclear maritime technology."
     }
   ]
 }
