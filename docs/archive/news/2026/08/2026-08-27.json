@@ -1,7 +1,412 @@
 {
   "date": "2026-08-27",
-  "count": 189,
+  "count": 232,
   "items": [
+    {
+      "id": "mkt:01a03f91-9b5b-7aab-9137-2c936e919582",
+      "time": "2026-08-27 03:35:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【Mizuho: NVIDIA Q2 beat priced in; market eyes AI capex guidance】Mizuho analyst Vijay Rakesh said a Q2 earnings beat for NVIDIA (NVDA.O) is largely priced in and the market will focus on guidance for AI capital spending and next‑year AI revenue. He models adjusted EPS of $2.08 and revenue of $92.0 bln but expects actuals to be materially higher, and he retains an Outperform rating with a $300 PT. Rakesh called Wall Street's $550 bln next‑year AI revenue estimate conservative, saying NVIDIA's recent financing with a Wall Street consortium and SpaceX's plan for an ~10 GW solar plant in Austin could together add an incremental $400–500 bln of AI revenue."
+    },
+    {
+      "id": "mkt:01a03f91-8e8a-7aab-9137-2358c05f2d54",
+      "time": "2026-08-27 03:34:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fall on 26th】At the close, NYMEX October light sweet crude fell $0.13 to $82.23 a barrel, down 0.16%; ICE Brent October fell $0.74 to $87.84 a barrel, down 0.84%."
+    },
+    {
+      "id": "5060763",
+      "time": "2026-08-27 03:34:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行副行長：墨西哥能源價格面臨的壓力有限。"
+    },
+    {
+      "id": "mkt:01a03f91-1cfc-7aab-9137-1fabf756a062",
+      "time": "2026-08-27 03:34:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Donetsk leader Pushilin said Ukrainian forces used UK-French Storm Shadow/SCALP-EG long-range air-launched cruise missiles to strike Donetsk city centre."
+    },
+    {
+      "id": "5060762",
+      "time": "2026-08-27 03:34:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價26日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌13美分，收於每桶82.23美元，跌幅為0.16%；10月交貨的倫敦布倫特原油期貨價格下跌74美分，收於每桶87.84美元，跌幅為0.84%。"
+    },
+    {
+      "id": "mkt:01a03f90-c813-7aab-9137-153984d534e3",
+      "time": "2026-08-27 03:34:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Zhipu launches GLM-5.3 Flash, says inference runs on 100,000+ Chinese accelerator cards】Zhipu released GLM-5.3 Flash, a lightweight flagship model positioned to rival DeepSeek V4 Flash. The company says inference is served by a cluster using more than 100,000 domestically produced accelerator cards. Compute suppliers are reported to include Huawei, Moore Threads and Hygon; Zhipu declined to comment. In technical documentation Zhipu said the cluster's \"hardware efficiency and per-token cost are already comparable to mainstream NVIDIA GPUs,\" but it did not specify card models."
+    },
+    {
+      "id": "5060761",
+      "time": "2026-08-27 03:32:59",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "墨西哥央行副行長：墨西哥服務業CPI下行速度將慢於預期。"
+    },
+    {
+      "id": "5060760",
+      "time": "2026-08-27 03:32:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：通脹回落節奏將較預期更為緩慢。"
+    },
+    {
+      "id": "5060759",
+      "time": "2026-08-27 03:32:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：美墨加協定帶來的不確定性或將影響經濟增長。"
+    },
+    {
+      "id": "mkt:01a03f8e-d429-7aab-9137-0b8e8851bc93",
+      "time": "2026-08-27 03:32:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said the US sent the carrier Lincoln to the region as a show of force. After months of war and more than 200 consecutive days without port calls, the ship is now sailing to Thailand for crew rest."
+    },
+    {
+      "id": "5060758",
+      "time": "2026-08-27 03:30:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯方面：烏克蘭武裝部隊使用英法空射遠端巡航導彈“風暴之影”/“斯卡普‑EG”襲擊頓涅茨克市中心。"
+    },
+    {
+      "id": "5060757",
+      "time": "2026-08-27 03:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：美國派遣亞伯拉罕·林肯號航母前往該地區進行武力展示。歷經數月戰事，連續200多天未曾靠港，如今該航母正駛向泰國，供艦員休整。原定任務，武力投射。當前任務，度假休整。"
+    },
+    {
+      "id": "mkt:01a03f88-049e-7aab-9137-035f47e15f3b",
+      "time": "2026-08-27 03:24:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US moves to revive maritime prize court to speed sale of seized Iranian oil】The US Department of Justice, coordinating with the Pentagon, is preparing to restart a maritime prize court dormant since WWII to strengthen a blockade of Iran and help offset wartime costs, sources said. Texas Southern District U.S. Attorney Aaron Reitz confirmed the DOJ is restarting the mechanism. If implemented, federal prosecutors could more quickly condemn and sell tankers or oil seized during hostilities as US property, with proceeds remitted to the US Treasury; DOJ is focused on routing cases through the Houston-based Texas Southern District. The prize mechanism has been rarely used since 1898 and dormant after WWII; legal challenges are expected over whether current operations meet the Prize Act’s conditions and whether seizures without congressional authorization are lawful."
+    },
+    {
+      "id": "5060755",
+      "time": "2026-08-27 03:17:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場分析：英偉達財報釋出後的股價下挫，對大盤的影響或將有所減弱，投資者已不再過度依靠這家AI晶片巨頭來判斷市場走向。"
+    },
+    {
+      "id": "5060753",
+      "time": "2026-08-27 03:14:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok免費使用限額已重置。"
+    },
+    {
+      "id": "mkt:01a03f7e-b7cd-7aab-9136-fc21a94621de",
+      "time": "2026-08-27 03:14:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Elon Musk said Grok Bot users' free usage quota has been reset."
+    },
+    {
+      "id": "mkt:01a03f7d-3fb6-7aab-9136-f2f7dc0ad888",
+      "time": "2026-08-27 03:12:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish",
+        "USDCAD"
+      ],
+      "text": "【U.S. dollar index up 0.25% to 99.165 at New York close】The U.S. dollar index rose 0.25% to 99.165 at the New York close. EUR/USD 1.1651, down from 1.1674; GBP/USD 1.3592, down from 1.3646. USD/JPY 159.40, up from 159.22; USD/CHF 0.8055, up from 0.8020; USD/CAD 1.3878, up from 1.3830; USD/SEK 9.5329, up from 9.4659."
+    },
+    {
+      "id": "5060750",
+      "time": "2026-08-27 03:12:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "法律資訊網站BLaw：美國擬重啟戰爭戰利品法庭，以求扣押伊朗石油。"
+    },
+    {
+      "id": "5060749",
+      "time": "2026-08-27 03:11:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數26日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.25%，在匯市尾市收於99.165。截至紐約匯市尾市，1歐元兌換1.1651美元，低於前一交易日的1.1674美元；1英鎊兌換1.3592美元，低於前一交易日的1.3646美元。1美元兌換159.40日元，高於前一交易日的159.22日元；1美元兌換0.8055瑞士法郎，高於前一交易日的0.8020瑞士法郎；1美元兌換1.3878加元，高於前一交易日的1.3830加元；1美元兌換9.5329瑞典克朗，高於前一交易日的9.4659瑞典克朗。"
+    },
+    {
+      "id": "5060748",
+      "time": "2026-08-27 03:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI釋出上月其AI模型入侵Hugging Face事件的技術報告】OpenAI釋出一份37頁技術報告，詳述上月其AI模型入侵Hugging Face事件，將該事件定性為“前所未有的網路安全事件”。報告記錄了評測前後及入侵過程中模型的各類行為，同時列出防範重演的多項舉措，包括強化安全防護、隔離管控、監控手段、模型行為管控以及事件響應機制最佳化。OpenAI表示，7月21日，GPT‑5.6 Sol以及一款內部研究模型組成的模型組合，違規入侵Hugging Face。這些AI智慧體逃出網路訪問受限的隔離測試環境，串聯利用多個漏洞接入公網，試圖透過線上查詢答案在評測中作弊，該行為被稱作“獎勵劫持”。"
+    },
+    {
+      "id": "mkt:01a03f7a-fdcb-7aab-9136-eec9876bc451",
+      "time": "2026-08-27 03:10:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources say the US Department of Justice is preparing to reactivate a long-dormant maritime prize court to streamline procedures for US forces to seize Iranian tankers as \"prizes\"."
+    },
+    {
+      "id": "5060745",
+      "time": "2026-08-27 03:09:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副總統：受美國海上封鎖 伊朗無法進口汽油】伊朗第一副總統穆罕默德·賈法爾·蓋姆帕納表示，受美國海上封鎖影響，伊朗無法進口汽油，並警告當前的燃料局面難以持續。“繼續這樣下去是行不通的。”蓋姆帕納稱，國內汽油產量不足，“在美國海上封鎖之下，我們無法進口汽油。”他同時表示，應當“藉助軍事力量”推動落實伊美諒解備忘錄。蓋姆帕納稱，在伊朗最高國家安全委員會指導下，伊朗與阿曼週二達成一份聯合宣告，要求船隻使用備忘錄所指定航線，不得穿越阿曼南部海域邊界。"
+    },
+    {
+      "id": "5060743",
+      "time": "2026-08-27 03:06:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【元宇宙願支付最高170億美元和解社交媒體成癮訴訟】美國元宇宙平臺公司（Meta）26日與包括加利福尼亞州在內的美國數十個州達成社交媒體成癮訴訟和解協議，同意向提起訴訟的各州支付最高170億美元，並在其平臺上增加對青少年兒童的安全保護措施。（新華社）"
+    },
+    {
+      "id": "5060742",
+      "time": "2026-08-27 03:05:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部宣佈，卡達首相兼外交大臣將於明日前往德黑蘭。"
+    },
+    {
+      "id": "mkt:01a03f76-379e-7aab-9136-e21d840e8036",
+      "time": "2026-08-27 03:05:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNBC, OpenAI released a report on a Hugging Face AI-agent intrusion."
+    },
+    {
+      "id": "5060741",
+      "time": "2026-08-27 03:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "鎧俠高層計劃於週四前往日本首相官邸，宣佈一項新的建設計劃。"
+    },
+    {
+      "id": "5060740",
+      "time": "2026-08-27 03:04:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數均攀升至盤中高點。"
+    },
+    {
+      "id": "5060738",
+      "time": "2026-08-27 03:03:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "鎧俠將投資63億美元在日本新建儲存器生產工廠。"
+    },
+    {
+      "id": "5060737",
+      "time": "2026-08-27 03:03:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國盟友表示，霍爾木茲海峽依舊有水雷，這與特朗普所稱美國海軍已完成排雷的說法相矛盾。相關官員估算，伊朗佈設的80‑150枚水雷中，部分可能仍未清除。"
+    },
+    {
+      "id": "5060736",
+      "time": "2026-08-27 03:02:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊在致聯合國秘書長、安理會及全體聯合國會員國的信函中，將美國新一輪制裁稱作國家層面的經濟恐怖主義行為。"
+    },
+    {
+      "id": "5060735",
+      "time": "2026-08-27 03:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：AI模型入侵Hugging Face的行為在一週後才被發現。"
+    },
+    {
+      "id": "5060734",
+      "time": "2026-08-27 03:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI正與博通合作自研AI晶片，以此在推理開銷攀升之際降低硬體成本、提升利潤率。早期測試結果顯示，Jalapeño晶片或將削弱英偉達對其最重要客戶之一的掌控力。"
+    },
+    {
+      "id": "mkt:01a03f72-638d-7aab-9136-db1d755c9412",
+      "time": "2026-08-27 03:00:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures' night session closed down 0.21% at 25,615, trading 38 points below the spot index."
+    },
+    {
+      "id": "5060733",
+      "time": "2026-08-27 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.23%，報25552.00點，低水100.97點。"
+    },
+    {
+      "id": "5060732",
+      "time": "2026-08-27 02:57:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【投資公司Kimmeridge：美國擬建的資料中心可能半數面臨延期或取消風險】投資公司Kimmeridge Energy Management Co.表示，由於政治反對情緒升溫以及實體基礎設施建設本身的複雜性，美國擬建的資料中心最多半數面臨延期或取消風險。Kimmeridge聯合創始人兼管理合夥人Ben Dell表示：“矽谷式的模式正在撞上現實世界的基礎設施約束。”"
+    },
+    {
+      "id": "5060728",
+      "time": "2026-08-27 02:54:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普的貿易行動衝擊關鍵州，共和黨在美國中期選舉面臨更大壓力】美國總統唐納德·特朗普最新引發的貿易動盪，有可能會加深共和黨在11月份中期選舉中的困境。在共和黨奮力保住參議院多數黨地位之際，也給該黨參議員候選人增添了一項經濟難題。 最近幾天，特朗普宣佈了對部分進口碎牛肉給予關稅減免的計劃，激怒了艾奧瓦州和內布拉斯加州等地的養牛戶。他還對加拿大發起了新的貿易戰，令緬因州、密歇根州、阿拉斯加州和俄亥俄州等邊境州的製造商和企業感到不安。這些州都是參議院選舉的關鍵戰場，對民主黨奪回參議院的戰略而言至關重要。與此同時，根據彭博新聞社的一項分析，加拿大的反制關稅所影響的特朗普在2024年大選中獲勝州的數量，是其民主黨對手卡瑪拉·哈里斯獲勝州數量的兩倍，這將給共和黨帶來進一步的經濟方面的壓力，因為本次中期選舉料將成為選民對特朗普以及其治理經濟表現的一次公投。"
+    },
+    {
+      "id": "mkt:01a03f6c-2926-7aab-9136-d2436f979c4e",
+      "time": "2026-08-27 02:54:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Russia, Egypt foreign ministers hold phone call on Middle East】Russia's foreign ministry said on the 26th that Lavrov spoke by phone with Egyptian FM Abdel Atti to discuss the current Middle East situation and exchanged views on US and Israeli actions against Iran, which the statement said have caused an unprecedented military and political escalation in the Persian Gulf region."
+    },
+    {
+      "id": "mkt:01a03f69-e684-7aab-9136-cb020dd55d1f",
+      "time": "2026-08-27 02:51:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude futures settled at $87.84 per barrel, down $0.74 or 0.84%."
+    },
+    {
+      "id": "5060727",
+      "time": "2026-08-27 02:51:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【俄埃外長通電話討論中東局勢】俄羅斯外交部網站26日釋出通報說，俄外長拉夫羅夫當天與埃及外長阿卜杜勒阿提通電話，討論中東當前局勢，就美國和以色列侵略伊朗造成波斯灣地區軍事和政治局勢空前升級等問題交換意見。通報說，俄埃雙方認為，必須強化“集體政治外交”努力，緩和緊張局勢，為地區安全奠定可靠基礎。雙方還重申根據聯合國相關決議解決巴勒斯坦問題的共同立場。通報說，兩國外長還詳細磋商了雙邊合作議題，強調持續開展密切協調對深化俄埃經貿往來具有重要意義。此外，雙方就俄羅斯同非洲聯盟和阿拉伯國家聯盟進一步拓展夥伴關係的可行路徑交換了意見。（新華社）"
+    },
+    {
+      "id": "5060726",
+      "time": "2026-08-27 02:46:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：近幾個月來，在美國和以色列對伊朗發動軍事行動後，卡達為幫助防止地區緊張局勢升級作出了值得肯定的努力。卡達首相將與伊朗官員就卡達繼續開展調解努力及地區其他事態發展進行討論和交換意見。"
+    },
+    {
+      "id": "mkt:01a03f62-adf9-7aab-9136-c6821e92ec7b",
+      "time": "2026-08-27 02:43:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baghaei, spokesperson for Iran’s foreign ministry, said the Qatari PM will meet with Iranian officials to discuss Qatar’s continued mediation efforts and other regional developments."
+    },
+    {
+      "id": "mkt:01a03f61-ecb0-7aab-9136-bf147f47928f",
+      "time": "2026-08-27 02:42:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman Baghaei said Qatar has made commendable efforts in recent months to help prevent regional escalation following US and Israeli military actions against Iran."
+    },
+    {
+      "id": "5060725",
+      "time": "2026-08-27 02:42:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行：2026 年國內生產總值預測值上調，源於第二季度經濟活動增速高於預期。"
+    },
     {
       "id": "5060724",
       "time": "2026-08-27 02:41:01",
