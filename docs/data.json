@@ -1,7 +1,233 @@
 {
-  "updated": "2026-08-26 11:58:50",
-  "count": 16501,
+  "updated": "2026-08-26 12:16:02",
+  "count": 16500,
   "items": [
+    {
+      "id": "mkt:01a03c3a-7e71-7aab-9121-5d7b81a78e05",
+      "time": "2026-08-26 12:01:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 2-year bond yield rose 2.0 bps to 1.695%."
+    },
+    {
+      "id": "5059012",
+      "time": "2026-08-26 12:00:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲2.0個基點，至1.695%。"
+    },
+    {
+      "id": "te:markets:578129",
+      "time": "2026-08-26 12:00:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Hits 3-Year High on US Crop Concerns — Corn futures jumped above $5 per bushel, hitting their highest level since July 2023 as mounting concerns over US crop yields pointed to tighter supplies. The Pro Farmer Crop Tour recently estimated the 2026 US corn yield at 173.2 bushels per acre, well below the USDA’s latest forecast of 180.7 bushels, while production was projected at 15.34 billion bushels. The bearish supply outlook was reinforced by the USDA’s latest crop report, which showed the share of corn rated good-to-excellent falling three percentage points to 57% for the week ended August 23. Weather remains a key concern, with heat stress and excessive rainfall affecting parts of the Midwest and potentially limiting yields ahead of harvest. Meanwhile, US corn export inspections remain strong, with cumulative shipments up 26% from a year earlier despite a recent easing in weekly shipments to 1.3 million tones. Elsewhere, disruptions to Black Sea grain shipments continued to raise concerns over global supplies."
+    },
+    {
+      "id": "5059011",
+      "time": "2026-08-26 12:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局印發指導意見 規範長期護理保險報銷管理】國家醫療保障局近日印發《關於做好長期護理保險支付管理工作的指導意見》，明確長期護理保險支付範圍、支付方式、支付標準以及基金監管和風險防範機制。各地要結合基金財力、老人基本照護需求、當地護理行業收費水平，合理定報銷標準，並且根據情況動態調整。護理報銷標準按當地經濟水平、平均工資、護理人員專業等級分檔次設定。參保人一年裡長護險基金最高報銷額度，不超過當地上一年城鄉居民人均可支配收入的50%。各地要統籌考慮居家、機構、社群等護理服務形式，鼓勵使用居家和社群護理服務。"
+    },
+    {
+      "id": "mkt:01a03c38-95a0-7aab-9121-5036d8005c02",
+      "time": "2026-08-26 11:58:56",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran deputy foreign minister says pre-emptive action against US is an option】Deputy Foreign Minister Gharibabadi said in an interview on Aug. 25 that Iran remains in a state of war and the Strait of Hormuz is under full control and surveillance by Iranian armed forces; it will not be reopened without Iran’s consent, approval and arrangements. He warned that, to defend national security and national interests, Iran could carry out pre-emptive action against US targets if conditions warrant, rather than wait to be attacked."
+    },
+    {
+      "id": "5059010",
+      "time": "2026-08-26 11:58:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信達生物：對2030年總收入預期較為保守 BD首付款將有效覆蓋研發投入】信達生物管理層在今日的中報業績電話會上表示，2026 年中報對於2030年總收入估計較為保守，主要基於國內已有產品的內生增長動力，並未充分納入外延增長的可能性，預計2030年後海外產品收入將進一步成為公司業績增長的主要驅動力。與此同時，隨著BD合作合計約20億美元首付款逐步確認，研發支出可被有效覆蓋，不會對利潤率形成拖累。談及公司302億現金儲備使用計劃，其表示在保持國內業務高速成長的同時，將積極推進國際化管線研發，並搭建國際化人才團隊。此外，公司也在積極尋找產品引入及併購機會，與現有技術平臺形成互補。"
+    },
+    {
+      "id": "te:markets:578128",
+      "time": "2026-08-26 11:58:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Retreats to One-Week Low — Malaysian palm oil futures extended losses, trading below MYR 4,900 per tonne and touching their lowest level in a week as traders returned from a holiday. Sentiment was pressured by a stronger ringgit and weaker soyoil prices on the Chicago market, while crude oil fell on renewed hopes that the Strait of Hormuz could reopen. Demand concerns also weighed, with cargo surveyor Intertek Testing Services noting that palm oil product exports for August 1–25 dipped 20% from the same period in July. Ample supplies added to the bearish tone, as Malaysian palm oil inventories climbed to a five-month high in July. Separately, exports by top grower Indonesia fell 9.2% yoy in June, according to palm oil association GAPKI. Still, losses were capped by firmer Dalian soyoil prices. Concerns that a developing El Niño could intensify dryness and curb output in Indonesia and Malaysia also provided support, along with Indonesia's planned full implementation of its B50 mandate from Oct 1."
+    },
+    {
+      "id": "5059009",
+      "time": "2026-08-26 11:57:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美銀：微降申洲國際目標價至49.6港元，維持“買入”評級】美銀證券發表研報指，申洲國際中期收入同比跌5.3%，淨利潤同比跌40%，符合早前盈利預告。毛利率同比下跌4.5個百分點，跌幅較預期大，主要受匯率、人工成本、原材料成本及關稅影響。基於中期業績表現，該行將申洲國際2026及2027年每股盈利預測下調5%及3%，目標價由50港元下調至49.6港元，維持“買入”評級。"
+    },
+    {
+      "id": "5059008",
+      "time": "2026-08-26 11:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國ITC正式對黑色素瘤預測和預後測試及其組成部分啟動337調查】8月25日，美國國際貿易委員會（ITC）投票決定對特定黑色素瘤預測和預後測試及其組成部分啟動337調查（調查編碼：337-TA-1519）。"
+    },
+    {
+      "id": "5059007",
+      "time": "2026-08-26 11:57:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經中共中央批准：陳春平任雲南省委委員、常委】據云南釋出，近日，中共中央批准：陳春平同志任雲南省委委員、常委。"
+    },
+    {
+      "id": "5059006",
+      "time": "2026-08-26 11:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長稱對美先發制人也是選項】伊朗副外長加里巴巴迪8月25日接受採訪時表示，伊朗目前仍處於戰爭狀態，霍爾木茲海峽處於伊朗武裝部隊的全面控制和監視之下，除非得到伊朗同意、批准和安排，否則不會重新開放。加里巴巴迪同時警告，為捍衛國家安全和國家利益，如果條件合適，伊朗可針對美國目標採取“先發制人”行動，而不必坐等美國先發起攻擊再進行防禦。"
+    },
+    {
+      "id": "5059005",
+      "time": "2026-08-26 11:56:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國今年首現麻疹死亡病例，賓夕法尼亞州2人死亡】美國賓夕法尼亞州衛生局25日稱，該州出現兩例與麻疹有關的死亡病例，這是美國2026年首次、也是該州35年來首次出現麻疹死亡病例。兩名死者均未接種過相關疫苗。賓夕法尼亞州衛生局局長德布拉·博根在新聞釋出會上說，確診病例中，沒有一個人完整接種過兩劑麻腮風三聯疫苗。“作為醫生，我希望大家務必明白，麻腮風疫苗是安全的，並且能為我們提供抵禦麻疹的最佳保護。”她說。當前，美國政府正在修改疫苗接種計劃。現任衛生與公共服務部部長小羅伯特·肯尼迪就職以來，美國全國範圍的疫苗接種率持續下降。（央視新聞）"
+    },
+    {
+      "id": "5059004",
+      "time": "2026-08-26 11:55:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南文昌國際航天城投資成立新公司 註冊資本3億元】企查查APP顯示，近日，海南航天建設發展有限公司成立，法定代表人為張懷新，註冊資本為3億元，經營範圍包含：工程管理服務；工程造價諮詢業務；招投標代理服務；園區管理服務；土地整治服務；房地產開發經營等。企查查股權穿透顯示，該公司由海南文昌國際航天城投資開發有限責任公司全資持股。"
+    },
+    {
+      "id": "5059003",
+      "time": "2026-08-26 11:55:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德斯特里將完整履行印尼央行行長五年任期。"
+    },
+    {
+      "id": "5059002",
+      "time": "2026-08-26 11:55:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【風光股份：獲批設立國家級博士後科研工作站】風光股份(301100)午間公告，公司於近日收到遼寧省人力資源和社會保障廳下發的《關於2026年博士後科研工作站新設站備案情況的通知》，公司獲批設立博士後科研工作站，開展博士後招收培養工作。公司將充分發揮工作站在科學研究、人才培養使用、產學研協同創新上的平臺價值，進一步深化同高校、科研院所的合作交流，為公司引進、培養更多專業技術骨幹，持續提升新材料板塊的技術創新與研發水平。"
+    },
+    {
+      "id": "5059001",
+      "time": "2026-08-26 11:54:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【韓寒在重慶成立影業公司】天眼查工商資訊顯示，近日，重慶亭東影業有限公司成立，註冊資本100萬元人民幣，法定代表人為沈超，經營範圍涵蓋電影製片、電影攝製服務、電影發行、組織文化藝術交流活動、廣告製作等，註冊地址位於重慶市兩江新區。股權結構顯示，該公司由上海亭東影業有限公司全資持股，後者的法定代表人為韓寒，註冊資本約1298.2萬元人民幣。"
+    },
+    {
+      "id": "5059000",
+      "time": "2026-08-26 11:53:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金圓股份等成立礦業科技公司 註冊資本5000萬元】企查查APP顯示，近日，金圓（杭州）礦業科技有限公司成立，法定代表人為夏勇，註冊資本為5000萬元，經營範圍包含：選礦（除稀土、放射性礦產、鎢）；高效能有色金屬及合金材料銷售；有色金屬合金銷售等。企查查股權穿透顯示，該公司由金圓股份(000546)全資子公司金圓新能源開發有限公司、北京周南興瑞科技有限公司等共同持股。"
+    },
+    {
+      "id": "5058999",
+      "time": "2026-08-26 11:53:08",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【機票退改新標準計劃年內出臺，中國航協正牽頭制定】針對旅客關注的機票退改服務痛點，中國航協已牽頭統籌推進機票退改服務升級最佳化工作，推出多項舉措。研究出臺退改標準，全面提升規則透明度。中國航協正在牽頭制定機票退改專項團體標準，計劃今年內正式釋出實施。標準將明確退改要求，所有售票平臺、航空公司官方渠道，必須透過醒目字型、彈窗強制提示、專屬標識、前置告知等方式，在旅客支付訂單前主動公示退改費率、限制條件、免費退改場景，解決規則隱蔽、看不懂、不知情的問題，保障旅客知情權、選擇權。（人民日報）"
+    },
+    {
+      "id": "te:markets:578126",
+      "time": "2026-08-26 11:53:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Hit 1-Month High — Wheat futures climbed toward $7 per bushel in late August, reaching their highest level since July 23, as intensifying Russia-Ukraine attacks threatened to further disrupt grain shipments from the Black Sea. The worsening conflict has raised concerns over the ability of the two major wheat exporters to move their crops to global markets, particularly as the new harvest gathers pace. Russia is expected to ship 46 million metric tons of wheat in the current marketing year, while Ukraine is projected to export 13.5 million tons, according to the US Department of Agriculture. Adding to upward pressure on prices, US wheat export inspections fell to 425,668 metric tons in the week ended August 20, from 514,363 tons a week earlier and well below the 1.05 million tons inspected during the same week last year. Meanwhile, the US spring wheat harvest was advancing rapidly, with 62% of the crop in the bin as of Sunday, compared with 41% a week earlier and above the five-year average of 52%."
+    },
+    {
+      "id": "mkt:01a03c32-9d1e-7aab-9121-4c205d9fd389",
+      "time": "2026-08-26 11:52:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said Tokyo is seeking to attract financial services firms and broader Australian investment, underscoring the importance of Australia-Japan ties amid rising geopolitical tensions."
+    },
+    {
+      "id": "5058998",
+      "time": "2026-08-26 11:51:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【挪威擬監管智慧眼鏡 考慮禁止公共場所人臉識別功能】挪威政府當地時間25日說，計劃對智慧眼鏡及同類裝置的使用實施監管，考慮禁止這些裝置在公共場所啟動人臉識別功能。挪威數字化與政府管理大臣卡麗安娜·通在一份宣告裡說：“我們注意到，民眾的私人生活及隱私正受到新技術的衝擊，因此我希望對智慧眼鏡及同類裝置實施比現行更為嚴格的監管。”她表示，這可能意味著禁止智慧眼鏡在公共場所啟動某些功能，例如人臉識別。她還呼籲公共部門和私營領域自行制定相關使用規範。"
+    },
+    {
+      "id": "5058996",
+      "time": "2026-08-26 11:49:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福恩股份：目前暫未涉及機器人電子皮膚相關智慧感測紡織材料業務】福恩股份8月26日在互動平臺表示，目前公司暫未涉及機器人電子皮膚相關智慧感測紡織材料業務。"
+    },
+    {
+      "id": "5058995",
+      "time": "2026-08-26 11:49:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，日本將於週三公佈一項旨在增強能源供應韌性的綜合計劃，其中包括分散原油採購渠道、以及支援建設繞過霍爾木茲海峽的中東輸油管道等舉措。根據報道，該計劃將在政府“綠色轉型（GX）實行會議”上提出。報道稱，日本還將透過石油天然氣金屬礦產資源機構(JOGMEC)，與中東國家合作推進管道專案，以繞過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a03c2e-d19a-7aab-9121-47b3af3d402b",
+      "time": "2026-08-26 11:48:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index reversed earlier losses and is up 0.7%."
+    },
+    {
+      "id": "mkt:01a03c2c-c44a-7aab-9121-382fbbfcf753",
+      "time": "2026-08-26 11:46:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. records first measles deaths of 2026 as Pennsylvania reports two fatalities】The Pennsylvania Department of Health said on the 25th it recorded two measles-related deaths — the first measles deaths in the U.S. in 2026 and Pennsylvania's first in 35 years. Both decedents were unvaccinated. Health Secretary Debra Bogen said 28 counties have reported 393 confirmed measles cases in the state this year, about half in Lancaster County; roughly 20% of confirmed patients required hospitalization."
+    },
     {
       "id": "5058994",
       "time": "2026-08-26 11:42:44",
@@ -149076,249 +149302,6 @@
         "其他"
       ],
       "text": "【全民醫療保障“十五五”規劃：深化醫保支付方式改革】國家醫保局印發《全民醫療保障“十五五”規劃》。其中提出，深化醫保支付方式改革。持續推進以按病種付費為主的多元複合式醫保支付方式改革，強化區域總額管理。動態調整病種分組方案和支付標準，健全核心要素管理機制和配套管理機制。將異地就醫直接結算住院費用納入按病種付費範圍，促進支付銜接。完善按病種付費結餘留用政策，推動按病組（DRG）和病種分值（DIP）付費融合發展。探索對精神疾病、醫療康復等需要長期住院治療且日均費用較穩定的疾病實施按床日等多種支付方式。推進門診支付方式改革試點。落實符合條件的緊密型縣域醫共體總額付費，對中醫醫療機構牽頭組建的緊密型縣域醫共體在總額上適當傾斜。逐步完善符合中醫藥特點的醫保支付方式。"
-    },
-    {
-      "id": "5046996",
-      "time": "2026-08-19 12:14:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet 準備以接近 7% 的創紀錄利率發行長期澳元債券。"
-    },
-    {
-      "id": "5046995",
-      "time": "2026-08-19 12:13:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局：將長期護理保險制度覆蓋統籌地區數量等納入“十五五”時期發展指標】國家醫保局解讀《全民醫療保障“十五五”規劃》。其中提到，將基本醫療保險參保率、基本醫療保險目錄內住院費用基金支付比例、公立醫療機構透過省級平臺採購藥品和高值醫用耗材金額佔比繼續納入“十五五”時期發展目標，確保規劃實施的連續性。同時，結合“十五五”時期改革發展任務和基金可持續發展要求，將長期護理保險制度覆蓋統籌地區數量、職工和居民基本醫療保險基金累計結餘可支付月數納入“十五五”時期發展指標。"
-    },
-    {
-      "id": "5046994",
-      "time": "2026-08-19 12:13:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局：提升生育醫療費用保障水平，全面建立長期護理保險制度】國家醫保局解讀《全民醫療保障“十五五”規劃》。其中提出，“十五五”時期是健全多層次醫療保障體系的關鍵階段，我們立足當前醫保發展現狀、民生就醫保障需求以及中長期改革任務，統籌接續“十四五”時期各項改革安排，對標新階段新形勢，整體工作思路概括為四個“更加註重”。一是更加註重強體系、補短板。持續織密築牢全民醫保制度框架，提升生育醫療費用保障水平，全面建立長期護理保險制度，最佳化多層次醫療保障體系，縮小區域、群體之間保障差距。二是更加註重推改革、促協同。縱深推進支付方式改革、醫藥價格治理、醫保目錄動態調整等重點改革，賦能醫藥機構發展，支援醫藥創新。三是更加註重精管理、優服務。常態化開展基金飛行檢查、日常核查和智慧監控，嚴厲打擊欺詐騙保行為，確保醫保基金安全。四是更加註重夯基礎、強支撐。強化法治建設、標準化建設等基礎工作，完善醫保資訊系統，延伸醫保公共服務觸角，夯實醫保事業長遠發展的硬體底座和能力支撐。"
-    },
-    {
-      "id": "5046993",
-      "time": "2026-08-19 12:12:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國AI初創公司稱其新模型可媲美阿里巴巴的Qwen 3.7 Max】韓國人工智慧(AI)初創公司Motif Technologies執行長Junghwan Lim稱，該公司利用價值2500萬美元的、由政府支援的英偉達B200 GPU開發出了其最新的大語言模型Motif 3。Motif 3在Artificial Analysis Intelligence Index中獲得47分，這一成績遠高於同類模型的平均水平，並與阿里巴巴的Qwen 3.7 Max持平。Motif正探索一種新型的代幣即服務(token-as-a-service)商業模式，該模式允許基礎設施提供商管理GPU叢集，而終端使用者只需根據其產生的輸入和輸出量付費。"
-    },
-    {
-      "id": "5046992",
-      "time": "2026-08-19 12:11:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國將發行至多 150 億泰銖可持續發展掛鉤債券。"
-    },
-    {
-      "id": "5046991",
-      "time": "2026-08-19 12:10:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "據英國金融時報，加拿大養老基金投資公司（CPP Investments）正透過向黑石集團、KKR及殷拓集團等巨頭注資，以共同出資人身份鎖定大型基礎設施交易。這一策略標誌著養老基金在基建領域從單打獨鬥轉向與私有資本巨頭“抱團”合作的模式。"
-    },
-    {
-      "id": "5046990",
-      "time": "2026-08-19 12:09:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "TD考恩將路威酩軒目標價從525歐元下調至510歐元。"
-    },
-    {
-      "id": "5046989",
-      "time": "2026-08-19 12:08:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "據英國金融時報，伊朗軍方內部人士透露，如果美國總統唐納德·特朗普進一步升級美伊戰爭，伊朗已評估並將目標瞄準位於歐洲的美國及西方軍事資產。 隨著今年2月爆發的2026年美伊戰爭陷入僵局、停火協議失效，德黑蘭已轉向“全面進攻”的最高威懾姿態。報道引述伊朗政權內部人士，伊朗軍方已經完成了相關襲擊評估。"
-    },
-    {
-      "id": "mkt:01a01833-0302-7aab-9089-51a6ffbcac42",
-      "time": "2026-08-19 12:06:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Financial Times, citing people familiar with the matter, reports Iran may consider including military targets in Europe in its strike plans if Trump escalates the conflict."
-    },
-    {
-      "id": "5046988",
-      "time": "2026-08-19 12:06:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "首程控股在港交所公告，本公司董事會欣然宣佈，本集團所屬首程資本旗下公司（本公司之全資附屬公司）所管理的基金投資之宇樹科技股份有限公司（「宇樹科技」，股份代號：688836.SH），已於 2026 年 8 月 19 日在上海證券交易所科創板（「科創板」）完成首次公開發行股票並正式上市。"
-    },
-    {
-      "id": "mkt:01a01831-5207-7aab-9089-4f236174ffdb",
-      "time": "2026-08-19 12:04:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NHSA: to gradually include high-use, overpriced drugs and consumables in collective procurement】The NHSA, in its explanation of the universal medical security ’15th Five-Year Plan’, said it will steadily expand national collective procurement of drugs and high-value medical consumables and promote province-led, nationwide-alliance purchasing. It will deepen procurement coverage in traditional Chinese medicine, biologics and medical consumables and gradually bring high-clinical-volume, excessively priced drugs and consumables into procurement to lower patient costs. The agency said it will optimize procurement rules, improve alignment between procured products and clinical demand, coordinate with drug regulators on quality assurance for winning products, promote fair competition and crack down on bid-rigging and collusion."
-    },
-    {
-      "id": "5046987",
-      "time": "2026-08-19 12:04:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "據英國《金融時報》：貝萊德旗下部門、橡樹資本取得 MBS 集團控制權。"
-    },
-    {
-      "id": "mkt:01a01830-e990-7aab-9089-438fc79e2a0b",
-      "time": "2026-08-19 12:04:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Emerging Markets",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Oil-price shock pushes Asian bond inflows to four-month low in July】Foreign inflows into major Asian local-currency bond markets fell to a four-month low in July as an oil-price shock from the Middle East conflict prompted investor caution, regulators and bond-market associations said. Net foreign purchases of local bonds in India, Indonesia, Malaysia, South Korea and Thailand totaled $2.03 billion in July, the smallest monthly net buy since March. IIF data showed emerging-market debt still drew $26.7 billion in July on high yields, improving fundamentals and diversification demand, while EM equities saw $7.8 billion of outflows. Analysts and participants cited Asian economies’ sensitivity to rising energy costs as weighing on the region’s bond appeal."
-    },
-    {
-      "id": "mkt:01a01830-e1c2-7aab-9089-3f59d72cfb92",
-      "time": "2026-08-19 12:04:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Tencent",
-        "Meituan",
-        "Xiaomi",
-        "09888.HK",
-        "Impact bearish",
-        "01810.HK",
-        "Impact bullish",
-        "00700.HK"
-      ],
-      "text": "【Hong Kong midday: Hang Seng +0.24%; Baidu down ~12% after results】Hong Kong stocks recovered from an early dip; the Hang Seng Index was up 0.24% at 25,533.38 at mid-session while the Hang Seng TECH Index fell 0.82% to 4,700.55. Semiconductors led sector declines; electronic components and communications shares were weaker. High-dividend names, oil & gas and mainland property stocks outperformed. Big movers: Baidu (09888.HK) fell nearly 12% after results; China Unicom (00762.HK) dropped 7.8% post-results. Larger declines included Juxing Legend (06683.HK) -13.3%, Huahong Hongli (01347.HK) and Cambridge Technology (06166.HK) down over 12%, UBTECH (09880.HK) -10%, Zhongji Xuchuang (03308.HK) and Yangtze Optical Fibre & Cable (06869.HK) down over 9%, GigaDevice (03986.HK), MINIMAX-W (00100.HK) and Kingboard Laminates (01888.HK) down more than 7%. On the upside, Xiaomi Group (01810.HK) rose about 7%, Meituan (03690.HK) gained over 3%, Agricultural Bank of China (01288.HK), CITIC Bank (00998.HK) and PetroChina (00857.HK) were up around 2%, while Pop Mart (09992.HK) and Tencent Holdings (00700.HK) rose just over 1%."
-    },
-    {
-      "id": "mkt:01a01830-9bdc-7aab-9089-319ab742d2ba",
-      "time": "2026-08-19 12:03:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China NHSA to push commercial medical insurance development】The National Healthcare Security Administration, in its interpretation of the 15th Five-Year Plan for universal medical security, said it will vigorously promote commercial medical insurance to complement basic medical insurance. It will guide differentiated development, support insurers in expanding product supply focused on unmet needs outside the basic medical insurance catalogue, prioritize broadly inclusive products and coverage that backs pharmaceutical innovation, and position commercial insurance as a supplementary tier within China’s multi-level medical security system."
-    },
-    {
-      "id": "mkt:01a0182f-9c60-7aab-9089-284268e8d24d",
-      "time": "2026-08-19 12:02:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China NHSA to add long-term care coverage and fund-reserve metrics to 15th Five-Year targets】China's National Healthcare Security Administration, in its interpretation of the national health security 15th Five-Year plan, said it will carry forward several existing indicators into the 15th Five-Year development targets — basic medical insurance participation rate; fund payment ratio for inpatient expenses within the basic medical insurance catalogue; and share of drugs and high‑value medical consumables procured by public medical institutions via provincial platforms — to ensure continuity of implementation. It said, given reform tasks and fund sustainability requirements, it will also include the number of jurisdictions covered by long‑term care insurance pooling and the number of months of cumulative reserves payable by employee and resident basic medical insurance funds as development indicators."
-    },
-    {
-      "id": "5046986",
-      "time": "2026-08-19 12:02:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數漲0.24%，恒生科技指數跌0.82%】港股午間收盤，恒生指數漲0.24%，恒生科技指數跌0.82%。恒指港股通ETF銀華（159318）漲0.23%，港股通科技ETF鵬華（159751）跌0.77%。板塊方面，環保裝置、手機板塊漲幅靠前；航空貨運、儀器儀表板塊跌幅靠前。個股方面，香港中華煤氣漲7.22%，小米集團-W漲6.95%，再鼎醫藥漲5.03%，珞石機器人漲5.01%，新東方-S漲4.27%；嘉耀控股跌21.69%，天數智芯跌12.85%，真健康醫療-B跌12.77%，華虹宏力跌12.72%，劍橋科技跌12.18%。"
-    },
-    {
-      "id": "5046984",
-      "time": "2026-08-19 12:02:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【拓竹科技組建團隊，進軍消費級UV印表機賽道】從拓竹科技獲悉，拓竹已啟動消費級UV印表機（紫外線光固化噴墨印表機）專案，已規劃十餘個崗位方向，覆蓋從噴頭驅動、波形與墨路，到材料驗證和軟體協同的完整研發鏈路。首批招聘崗位已上線官網。8月13日，拓竹已預熱鐳射產品R1。此次UV印表機專案的正式啟動，意味著拓竹將同時推動3D列印、鐳射加工、UV列印三大技術路線的發展，向個人智造版圖進發。 (科創板日報)"
-    },
-    {
-      "id": "5046983",
-      "time": "2026-08-19 12:02:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【強降雨引發四川2處地質災害 提前避險轉移21784人】從四川省地質災害防治指揮部辦公室獲悉，8月18日8時至8月19日8時，四川成都、自貢等地降大到暴雨，區域性大暴雨，最大降雨量為眉山市東坡區舒林村六組舒林站118毫米。強降雨引發2處地質災害，其中甘孜州九龍縣1處，受災道路已恢復通行；阿壩州汶川縣1處，造成國道350中斷，屬地交通運輸部門已落實管控措施，仍在開展搶通作業。截至今天（19日）7時，24小時內四川13個市（州）64個縣（市、區）共提前轉移避險21784人（其中比較多的有：涼山7346人、綿陽3174人、雅安2400人）。至此，入汛以來，四川全省共提前轉移避險1102694人次。"
-    },
-    {
-      "id": "5046982",
-      "time": "2026-08-19 12:02:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港交易所上半年收入及其他收益167.0億港元，預估161.5億港元。香港交易所 上半年淨利潤105.7億港元，預估101.5億港元。"
-    },
-    {
-      "id": "5046981",
-      "time": "2026-08-19 12:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港交易所第二季度收入及其他收益85.0億港元，預估79.1億港元。香港交易所 第二季度淨利潤53.8億港元，預估49.1億港元。"
-    },
-    {
-      "id": "mkt:01a0182e-418c-7aab-9089-26a26a950970",
-      "time": "2026-08-19 12:01:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhao Leji meets Ecuador President Noboa】Chairman of the National People’s Congress Standing Committee Zhao Leji met Ecuador President Daniel Noboa in Beijing on Aug. 19. Zhao said China will work with Ecuador to implement leaders’ agreements, deepen pragmatic cooperation and strengthen multi-level parliamentary exchanges to enhance legislative, oversight and governance cooperation and provide legal guarantees for bilateral practical cooperation."
-    },
-    {
-      "id": "mkt:01a0182d-dd19-7aab-9089-1fcb4a967585",
-      "time": "2026-08-19 12:00:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China NHSA to boost maternity coverage, establish nationwide long-term care insurance in 15th Five-Year plan】The National Healthcare Security Administration (NHSA) set four priorities for the '15th Five-Year' universal healthcare plan. 1) Strengthen system and close gaps: tighten the universal medical insurance framework, raise maternity medical expense coverage and fully establish a nationwide long-term care insurance scheme to reduce regional and group disparities. 2) Push reform and coordination: deepen payment-method reform, drug price governance and dynamic adjustment of the medical insurance reimbursement list; enable medical institutions and support pharmaceutical innovation. 3) Tighten management and service: institutionalize spot inspections, routine audits and intelligent monitoring, and intensify crackdowns on insurance fraud to protect the medical insurance fund. 4) Reinforce foundations and support: strengthen legal and standards work, upgrade medical insurance information systems and extend public-service reach to underpin long-term development."
-    },
-    {
-      "id": "te:markets:576330",
-      "time": "2026-08-19 12:00:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Hovers at 20-Week High — Malaysian palm oil futures extended gains, trading near MYR?4,900 per tonne and reaching their highest level since early April. Support came from firmer edible oils in Dalian and Chicago markets, alongside stronger crude oil prices amid continued uncertainty over shipping through the Strait of Hormuz and potential disruptions to global trade flows. Meanwhile, the Malaysian Palm Oil Council projected prices to stay firm above MYR?4,600 in September, citing tightening supply and trade disruptions. However, upside momentum was capped by elevated inventories, with July stocks climbing to a five-month high. In India, record soyoil imports expected in August could dent palm oil demand, as refiners may favor cheaper soyoil ahead of festive-season consumption. Export signals were mixed: Intertek reported shipments down 7.9% during August?1–15 from the same period in July, while AmSpec estimated a 3.2% rise, leaving traders cautious on near-term direction."
-    },
-    {
-      "id": "5046980",
-      "time": "2026-08-19 12:00:23",
-      "tags": [
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際會見厄瓜多總統諾沃亞 】全國人大常委會委員長趙樂際8月19日上午在北京會見厄瓜多總統諾沃亞。趙樂際表示，昨天，習近平主席同總統先生舉行會談，共同擘畫雙邊關係發展新藍圖。今年是中厄建立全面戰略伙伴關係10週年。中方願同厄方一道，落實好兩國元首達成的重要共識，賡續傳統友誼，深化務實合作，不斷提升雙邊關係水平，給兩國人民帶來更多福祉。中國全國人大願同厄瓜多國會加強多層級、多領域友好交往，深化立法、監督和治國理政經驗交流，為兩國務實合作提供法律保障。諾沃亞表示，厄瓜多視中國為好朋友、好夥伴，支援中方維護主權和領土完整，願同中方深化貿易、投資等領域合作，加強立法機構互學互鑑。肖捷參加會見。"
-    },
-    {
-      "id": "5046979",
-      "time": "2026-08-19 11:58:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將 百度公司   目標價從174美元下調至167美元。"
     }
   ]
 }
