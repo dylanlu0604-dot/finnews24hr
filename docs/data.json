@@ -1,7 +1,521 @@
 {
-  "updated": "2026-08-26 16:27:54",
-  "count": 16600,
+  "updated": "2026-08-26 16:40:08",
+  "count": 16616,
   "items": [
+    {
+      "id": "mkt:01a03d38-b28b-7aab-9128-2f1144484e17",
+      "time": "2026-08-26 16:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NVIDIA earnings due today; five market items to watch】NVIDIA (NVDA.O) reports quarterly results today. Key market takeaways: 1) Infrastructure financing — NVIDIA earlier unveiled a large program to free financing for AI infrastructure (data centers, chip purchases) and a week later said it would back a large data center project in southern Ohio; investors seek clarity on the deals’ objectives, economics and timing amid concern the company may be overexposed. 2) Vera Rubin timing — NVIDIA said next‑gen Vera Rubin servers could begin shipping in Q3–Q4; on‑time shipments would be read positively after the prior Blackwell chips were delayed for months for design fixes. 3) Open models — NVIDIA reportedly struck a $6bn licensing agreement with startup Poolside to secure its model weights, technology and engineering talent to accelerate NVIDIA’s open model Nemotron; this could spur competition among frontier labs and additional chip demand. 4) China demand — any weakness in China, the world’s second‑largest AI market, would be materially negative for NVIDIA sales. 5) Margin pressure — gross margin remains around 75%, but rising memory costs and increased competition from custom chips and new processors could constrain NVIDIA’s ability to pass on higher costs."
+    },
+    {
+      "id": "mkt:01a03d38-9b0e-7aab-9128-25c38e26d18f",
+      "time": "2026-08-26 16:38:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai to accelerate breakthroughs in edge AI chips, next‑gen displays and flexible‑material sensors】Shanghai municipal government office issued the city’s Strategic Emerging Industries \"15th Five-Year\" development plan, directing accelerated R&D and commercialization of edge AI chips, next‑generation displays and flexible‑material sensors. The plan prioritizes technology iterations including MicroLED, optical waveguide lenses and high‑performance rendering engines; mandates development of lightweight, multimodal edge vertical models and model‑compression algorithms to enable edge model performance broadly comparable with cloud‑based large models. It also targets AI consumer terminals—AI PCs, AI phones, AI glasses, bionic robots and smart wearables—and supports a \"product design + standard parts assembly\" manufacturing model."
+    },
+    {
+      "id": "5059550",
+      "time": "2026-08-26 16:38:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據香港交易所披露檔案，滙豐銀行8月25日以5310萬港元回購325,600股股份。"
+    },
+    {
+      "id": "5059549",
+      "time": "2026-08-26 16:38:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：加快端側AI晶片、下一代新型顯示、柔性材料感測器等關鍵技術突破 推動Micro LED、光波導鏡片、高效能渲染引擎等技術迭代】上海市人民政府辦公廳印發《上海市戰略性新興產業發展“十五五”規劃》。其中提到，強化新型智慧終端培育，圍繞新一代移動網際網路、智慧家居、智慧工廠等應用場景，打造具有國際競爭力的消費級新型智慧終端品牌，推出一批爆款終端產品。重點發展：1.關鍵硬體。加快端側AI晶片、下一代新型顯示、柔性材料感測器等關鍵技術突破，推動微型發光二極體（Micro LED）、光波導鏡片、高效能渲染引擎等技術迭代。2.端側模型。打造輕量化多模態端側垂類模型，最佳化迭代模型壓縮演算法，實現端側模型在各類應用場景下效能水平可基本對標雲端大模型。3.智慧消費終端。打造AI電腦、AI手機、AI眼鏡、仿生機器人、智慧可穿戴裝置等人工智慧新型消費終端，支援“產品設計+標準件組裝”製造新模式。"
+    },
+    {
+      "id": "mkt:01a03d38-598e-7aab-9128-1bdbd8a01155",
+      "time": "2026-08-26 16:38:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai backs integration of satellite internet with Beidou, 6G and AI; accelerates LEO constellations and commercial rockets】Shanghai municipal government published a strategic emerging-industry plan directing policy support to integrate satellite internet with Beidou, 6G and AI and to speed scaled deployment of satellite internet and Beidou applications. The plan prioritizes commercial rockets: accelerate development of large-diameter, high‑thrust reusable launchers and key technologies — engines, return-control systems and structural stages — and build assembly and related infrastructure to meet high-density LEO constellation needs. Satellite-internet measures target transparent bent‑pipe LEO beam‑hopping communications, inter‑satellite laser links, spaceborne phased‑array antennas and flexible solar wings; development of automated large‑scale LEO orbital deployment technology and direct‑to‑phone LEO broadband, plus promotion of ground and satellite terminal supply chains and mass‑production satellite digital factories. It also calls for R&D platforms for ultra‑precision/stable/clean spacecraft, stronger satcom, navigation, remote sensing and medium‑orbit space‑based TT&C services, breakthroughs in on‑orbit fault handling and refueling, and a full‑process insurance framework covering launches, on‑orbit operations and third‑party liability."
+    },
+    {
+      "id": "mkt:01a03d38-5381-7aab-9128-1366e44757fa",
+      "time": "2026-08-26 16:38:16",
+      "tags": [
+        "MKT News",
+        "00005.HK"
+      ],
+      "text": "According to an HKEX filing, HSBC Holdings (00005.HK) repurchased 325,600 shares on Aug 25 for HK$53.10 mln."
+    },
+    {
+      "id": "5059548",
+      "time": "2026-08-26 16:37:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方通訊：2026年上半年淨利潤3.21億元，同比增長143.18%】東方通訊公告，2026年上半年營業收入11.66億元，同比增長15.53%；歸屬於上市公司股東的淨利潤3.21億元，同比增長143.18%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2310.76萬元，同比增長790.15%。"
+    },
+    {
+      "id": "mkt:01a03d37-98e7-7aab-9128-0aabb67f0bf3",
+      "time": "2026-08-26 16:37:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "02015.HK"
+      ],
+      "text": "Li Auto (02015.HK): cash balance was RMB 87.5 billion (USD 12.9 billion) as of June 30, 2026."
+    },
+    {
+      "id": "mkt:01a03d37-7d4f-7aab-9128-02034c422c9e",
+      "time": "2026-08-26 16:37:21",
+      "tags": [
+        "MKT News",
+        "00005.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing: HSBC Holdings (00005.HK) repurchased 200,000 shares on other exchanges on Aug 25 for £3.0 million."
+    },
+    {
+      "id": "5059547",
+      "time": "2026-08-26 16:37:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：促進衛星網際網路與北斗、6G、AI融合發展 加快推進衛星網際網路和北斗規模化應用】上海市人民政府辦公廳印發《上海市戰略性新興產業發展“十五五”規劃》。其中提到，促進衛星網際網路與北斗、第六代行動通訊（6G）、AI融合發展，加快“千帆星座”低軌通訊衛星組網，推廣“智慧天網”中軌天基測控服務，加快推進衛星網際網路和北斗規模化應用。重點發展：1.商業火箭。加快研製新一代大直徑大推力重複使用火箭，研發大推力火箭發動機、返回控制系統、結構艙段等關鍵技術，滿足低軌衛星星座高密度組網需求，配套建設總裝等基礎設施。2.衛星網際網路。發展透明轉發低軌跳波束通訊、星間鐳射鏈路、星載相控陣天線、柔性太陽翼等關鍵配套，突破大規模、全自動低軌道變軌部署技術，研發面向手機直連的低軌衛星寬頻網路通訊技術，推動地面使用者終端、衛星終端發展。加快佈局超精超穩超淨航天器研發平臺，建設量產衛星數字工廠。3.航天服務。提升衛星通訊、導航、遙感、測控等服務能力，突破衛星在軌故障處置、燃料補充等核心技術，完善覆蓋火箭發射、衛星在軌、第三方責任的全流程保險體系。"
+    },
+    {
+      "id": "5059544",
+      "time": "2026-08-26 16:36:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禾元生物：2026年上半年淨利潤虧損6275.65萬元，2025年同期虧損8162.78萬元】禾元生物公告，2026年上半年營業收入1827.42萬元，同比增長43.77%；歸屬於上市公司股東的淨利潤虧損6275.65萬元，2025年同期虧損8162.78萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損8855.91萬元，2025年同期虧損9053.53萬元。"
+    },
+    {
+      "id": "5059543",
+      "time": "2026-08-26 16:36:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元8月26日16:30收盤報6.7205，較上一交易日上漲24點。"
+    },
+    {
+      "id": "mkt:01a03d36-abe4-7aab-9127-ff3144e8a3ec",
+      "time": "2026-08-26 16:36:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "02015.HK",
+        "Impact mixed"
+      ],
+      "text": "Li Auto (02015.HK) expects total revenue for Q3 2026 of 26.6–28.0 bln yuan (US$3.9–4.1 bln), a YoY change of -2.8% to +2.3%."
+    },
+    {
+      "id": "mkt:01a03d36-a3c8-7aab-9127-f4d03231a9c3",
+      "time": "2026-08-26 16:36:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "LI.O",
+        "Impact bearish"
+      ],
+      "text": "Li Auto (LI.O) shares fell more than 3% in U.S. premarket trading."
+    },
+    {
+      "id": "mkt:01a03d36-a06e-7aab-9127-eddb32d9efa9",
+      "time": "2026-08-26 16:36:25",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7205 per dollar at 16:30 on Aug 26, gaining 24 pips from the previous session."
+    },
+    {
+      "id": "5059542",
+      "time": "2026-08-26 16:36:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保齡寶：2026年上半年淨利潤8232.11萬元，同比下降11.17%】保齡寶公告，2026年上半年營業收入14.96億元，同比增長6.92%；歸屬於上市公司股東的淨利潤8232.11萬元，同比下降11.17%，2025年同期為9267.2萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7333.42萬元，同比下降19.30%，2025年同期為9086.95萬元。業績變動主要因核心產品銷量增長、海外業務增長及毛利率改善，同時部分產品售價下降、股份支付費用及匯率波動形成一定壓力。公司擬每10股派發現金紅利0.3元（含稅）。"
+    },
+    {
+      "id": "5059541",
+      "time": "2026-08-26 16:36:14",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國金證券：2026年上半年淨利潤13.13億元，同比增長18.21%】國金證券公告，2026年上半年營業收入49.05億元，同比增長27.03%；歸屬於上市公司股東的淨利潤13.13億元，同比增長18.21%，2025年同期為11.11億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤12.75億元，同比增長20.69%。公司2026年半年度未擬定利潤分配預案或公積金轉增股本預案。"
+    },
+    {
+      "id": "5059540",
+      "time": "2026-08-26 16:36:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通威股份：2026年上半年虧損51.19億元，2025年同期虧損49.55億元】通威股份公告，2026年上半年營業收入343.57億元，同比下降15.19%；歸屬於上市公司股東的淨利潤虧損51.19億元，2025年同期虧損49.55億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損52.83億元，2025年同期虧損50.29億元。"
+    },
+    {
+      "id": "5059539",
+      "time": "2026-08-26 16:36:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "國金證券上半年淨利潤13.1億元人民幣。"
+    },
+    {
+      "id": "5059538",
+      "time": "2026-08-26 16:35:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "通威股份上半年淨虧損51.2億元人民幣，上半年營收343.6億元人民幣。"
+    },
+    {
+      "id": "te:markets:578207",
+      "time": "2026-08-26 16:35:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Holds Near Six-Month High as BoE Rate Hike Bets Persist — The British pound traded above $1.36, near its strongest level since mid-February, as markets continued to price in Bank of England rate hikes this year despite easing oil prices, while remaining concerned over sticky inflation and rising government debt. Brent crude fell for a third straight session after Iran held talks with Oman on reopening the Strait of Hormuz, with Oman’s foreign ministry saying a temporary corridor could be announced soon. Unverified reports also suggested the US and Iran could reach a new ceasefire agreement in the coming days. Markets continue to price at least 25 bps of BoE tightening by year-end, following data showing UK inflation accelerated to 2.9% in July, its highest level since March, with further increases expected toward year-end. Attention will also turn to the government’s first budget under Andy Burnham in October. On Tuesday, Britain unveiled plans to spend £10 billion on lower-cost housing for renters, with a focus on London."
+    },
+    {
+      "id": "5059537",
+      "time": "2026-08-26 16:35:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：拉拉強度減弱。"
+    },
+    {
+      "id": "mkt:01a03d35-6607-7aab-9127-e05a98c2bb77",
+      "time": "2026-08-26 16:35:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state TV reported Israeli Prime Minister Netanyahu said no diplomatic agreement is possible with 'barbaric' Iran."
+    },
+    {
+      "id": "mkt:01a03d35-12d9-7aab-9127-d95608441f25",
+      "time": "2026-08-26 16:34:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Naftogaz said a Russian strike damaged a combined heat and power plant in Kherson in southern Ukraine."
+    },
+    {
+      "id": "5059536",
+      "time": "2026-08-26 16:34:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲中馬：2026年上半年淨利潤4007.73萬元，同比增長12.06%】雲中馬公告，2026年上半年營業收入12.55億元，同比增長0.79%；歸屬於上市公司股東的淨利潤4007.73萬元，同比增長12.06%，2025年同期為3576.33萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4272.89萬元，同比增長58.70%。本報告期未經審計。"
+    },
+    {
+      "id": "mkt:01a03d34-f421-7aab-9127-d28971553ddb",
+      "time": "2026-08-26 16:34:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Source close to CATL says it will cooperate with government approvals for Jiansxiawo mine】Yichun Ecological Environment Bureau said on Aug. 26 it has withdrawn the proposed-acceptance public notice for the environmental impact report of the Jiansxiawo lithium-mica mining project in Jiangxi (spanning Zhenkouli, Yifeng County and Fengxin County) after public queries about the developer’s earlier disclosure website; the bureau will reissue the notice once submissions meet requirements. Jiansxiawo, the world’s largest proven lithium-mica deposit, has been halted since Aug. last year and its restart is being closely watched. A person close to CATL said the company will cooperate with government approval arrangements for next steps."
+    },
+    {
+      "id": "5059535",
+      "time": "2026-08-26 16:34:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【接近寧德時代人士：梘下窩礦下一步規劃將配合政府部門審批安排】8月26日，宜春市生態環境局釋出說明，宜春時代新能源礦業有限公司江西省宜豐縣圳口裡—奉新縣梘下窩鋰礦採礦專案環境影響報告書在擬受理公示期間，群眾對建設單位前期公示的網站存在質疑。現將該擬受理公示撤銷，待後續核准符合要求後，再另行公示。梘下窩鋰礦是全球已探明最大的鋰雲母礦，自去年8月停產後，其復產程序備受關注。在被問及關於梘下窩礦的下一步規劃時，接近寧德時代的人士向證券時報記者回應說，將配合政府部門審批安排。"
+    },
+    {
+      "id": "5059534",
+      "time": "2026-08-26 16:33:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華旺科技：2026年上半年淨利潤1.31億元，同比下降15.66%】華旺科技公告，2026年上半年營業收入14.57億元，同比下降10.42%；歸屬於上市公司股東的淨利潤1.31億元，同比下降15.66%，2025年上半年為1.56億元；扣除非經常性損益的淨利潤1.11億元，同比下降27.67%。公司擬每10股派發現金紅利2元（含稅），合計擬派發1.11億元（含稅）。"
+    },
+    {
+      "id": "5059533",
+      "time": "2026-08-26 16:33:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【壹石通：2026年上半年淨利潤1173.2萬元，同比扭虧為盈】壹石通公告，2026年上半年營業收入4.11億元，同比增長51.21%；歸屬於上市公司股東的淨利潤1173.2萬元，2025年同期虧損1748.16萬元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損753.35萬元，2025年同期虧損3147.62萬元。"
+    },
+    {
+      "id": "5059532",
+      "time": "2026-08-26 16:33:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天元智慧：2026年上半年淨利潤1551.67萬元，同比下降10.88%】天元智慧公告，2026年上半年營業收入2.49億元，同比下降15.88%；歸屬於上市公司股東的淨利潤1551.67萬元，同比下降10.88%；歸屬於上市公司股東的扣除非經常性損益的淨利潤814.83萬元，同比下降42.14%。"
+    },
+    {
+      "id": "5059531",
+      "time": "2026-08-26 16:33:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大豐實業：2026年上半年淨利潤5331.64萬元，同比下降29.09%】大豐實業公告，2026年上半年營業收入12.06億元，同比增長20.14%；歸屬於上市公司股東的淨利潤5331.64萬元，同比下降29.09%；歸屬於上市公司股東的扣除非經常性損益的淨利潤4414.42萬元，同比下降34.35%。公司半年度不進行利潤分配或資本公積金轉增股本。"
+    },
+    {
+      "id": "5059530",
+      "time": "2026-08-26 16:33:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭能源公司Naftogaz稱，俄羅斯襲擊破壞了烏克蘭南部城市赫爾松的一座熱電廠。"
+    },
+    {
+      "id": "5059529",
+      "time": "2026-08-26 16:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中辰股份：2026年上半年淨利潤2565.62萬元，同比增長41.82%】中辰股份公告，2026年上半年營業收入18.62億元，同比增長25.62%；歸屬於上市公司股東的淨利潤2565.62萬元，同比增長41.82%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1352.2萬元，同比增長42.37%。截至2026年3月17日，控股股東中辰控股有限公司已透過集中競價交易及大宗交易合計減持1471.58萬股，佔總股本2.69%，減持計劃期限屆滿並實施完成。"
+    },
+    {
+      "id": "5059528",
+      "time": "2026-08-26 16:32:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊斯資訊：2026年上半年虧損3813.01萬元，2025年上半年虧損3126.67萬元】萊斯資訊公告，2026年上半年營業收入3.31億元，同比下降27.56%；歸屬於上市公司股東的淨利潤虧損3813.01萬元，2025年上半年虧損3126.67萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4346.27萬元，2025年上半年虧損3518.03萬元。"
+    },
+    {
+      "id": "mkt:01a03d33-5c61-7aab-9127-c8e624f13a1f",
+      "time": "2026-08-26 16:32:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "02015.HK",
+        "Impact bullish"
+      ],
+      "text": "Li Auto (02015.HK) expects Q3 2026 vehicle deliveries of 95,000–100,000 units, up 1.9–7.3% YoY."
+    },
+    {
+      "id": "5059527",
+      "time": "2026-08-26 16:32:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南京熊貓：2026年上半年虧損2601.98萬元，2025年同期虧損4558.41萬元】南京熊貓公告，2026年上半年營業收入13.39億元，同比增長28.43%；歸屬於上市公司股東的淨利潤虧損2601.98萬元，2025年同期虧損4558.41萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3583.69萬元，2025年同期虧損6151.85萬元。營業收入增加主要系電子製造業務、通訊業務完成交付結算的專案同比增加。公司的半年度不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "5059526",
+      "time": "2026-08-26 16:32:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【斯里蘭卡總統：願同中方持續深化各領域交流合作】斯里蘭卡總統迪薩納亞克25日表示，願同中方持續深化各領域交流合作。迪薩納亞克25日接受中國新任駐斯里蘭卡大使魏華祥遞交國書時表示，斯方高度重視對華關係，願同中方持續深化各領域交流合作，共同譜寫斯中關係新篇章，造福兩國和兩國人民。魏華祥表示，中方願同斯方共同落實好兩國元首重要共識，加強發展戰略對接，深化務實合作，推進高質量共建“一帶一路”，密切人文交流，推動中斯真誠互助、世代友好的戰略合作伙伴關係邁上新臺階，共同打造中斯命運共同體。（新華社）"
+    },
+    {
+      "id": "5059525",
+      "time": "2026-08-26 16:32:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【託倫斯：2026年半年度淨利潤同比下降36.74%】託倫斯(301583.SZ)公告稱，公司釋出2026年半年度報告，實現營業收入3.85億元，同比增長3.18%；歸屬於上市公司股東的淨利潤3849.23萬元，同比下降36.74%。公司Q2淨利潤0.24億，Q1淨利潤0.15億，據此計算，Q2淨利潤環比增長62%。"
+    },
+    {
+      "id": "mkt:01a03d32-e404-7aab-9127-c07b4cc97e5f",
+      "time": "2026-08-26 16:32:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "LI.O",
+        "Impact bearish"
+      ],
+      "text": "Li Auto (LI.O) reported an operating loss of RMB 2.3 bln in Q2 2026, versus an operating profit of RMB 827.0 mln in Q2 2025; operating loss in Q1 2026 was RMB 3.0 bln."
+    },
+    {
+      "id": "5059524",
+      "time": "2026-08-26 16:31:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "美圖公司上半年營收22.1億元人民幣，上半年淨利潤6.195億元人民幣。"
+    },
+    {
+      "id": "mkt:01a03d31-b51c-7aab-9127-bafe5027699e",
+      "time": "2026-08-26 16:31:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "LI.O",
+        "Impact bearish"
+      ],
+      "text": "Li Auto (LI.O) reported Q2 2026 revenue of 25.7 bln yuan, below consensus 26.64 bln yuan and down from 30.25 bln yuan a year earlier."
+    },
+    {
+      "id": "5059523",
+      "time": "2026-08-26 16:30:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交大思諾：2026年上半年淨利潤1874.76萬元，同比增長53.83%】交大思諾公告，2026年上半年營業收入1.51億元，同比增長17.68%；歸屬於上市公司股東的淨利潤1874.76萬元，同比增長53.83%，2025年同期為1218.68萬元；扣除非經常性損益的淨利潤1668.58萬元，同比增長68.13%，2025年同期為992.42萬元。公司已完成2025年年度權益分派，每10股派發現金紅利人民幣6.8元（含稅）；擬發行股份及支付現金購買北京北交信通科技有限公司60.28%股權並募集配套資金。"
+    },
+    {
+      "id": "5059522",
+      "time": "2026-08-26 16:30:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車第二季度毛利率11％，預估11.3％。"
+    },
+    {
+      "id": "5059521",
+      "time": "2026-08-26 16:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車第二季度汽車銷售收入241億元人民幣，同比-17%。"
+    },
+    {
+      "id": "5059520",
+      "time": "2026-08-26 16:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車預計第三季度營收266億元人民幣至280億元人民幣。"
+    },
+    {
+      "id": "5059519",
+      "time": "2026-08-26 16:30:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車預計第三季度交付量95000至100000輛，預估121869。"
+    },
+    {
+      "id": "5059518",
+      "time": "2026-08-26 16:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車第二季度營收257億元人民幣，預估249.6億元人民幣。"
+    },
+    {
+      "id": "5059517",
+      "time": "2026-08-26 16:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順博合金：上半年歸母淨利潤1.95億元，同比增長6.02%】順博合金8月26日披露半年報，公司上半年實現營業收入84.47億元，同比增長18.54%；歸屬於上市公司股東的淨利潤1.95億元，同比增長6.02%；基本每股收益0.29元/股。"
+    },
+    {
+      "id": "mkt:01a03d30-2e19-7aab-9127-b15de3749854",
+      "time": "2026-08-26 16:29:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sri Lanka president says willing to deepen cooperation with China】Sri Lankan President Dissanayake said on the 25th he is willing to deepen exchanges and cooperation with China across sectors. Chinese Ambassador Wei Huaxiang said China will work with Sri Lanka to implement leaders' consensus, strengthen strategic alignment, deepen pragmatic cooperation, advance high-quality Belt and Road cooperation, expand people-to-people exchanges, and elevate the bilateral strategic cooperative partnership."
+    },
+    {
+      "id": "5059516",
+      "time": "2026-08-26 16:29:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州公積金新政釋出 購買存量房首付降至20％】8月26日，鄭州住房公積金管理中心釋出通知，進一步最佳化住房公積金貸款政策。繳存職工購買鄭州市行政區域記憶體量住房，申請辦理住房公積金貸款的，購房首付款的最低比例由30%調整為20%。通知還提出，支援家庭代際互助貸款。在本市購買自住住房申請住房公積金貸款，借款人公積金可貸額度未達到家庭貸款最高限額的，其正常繳存住房公積金且符合公積金貸款條件的父母或子女，可作為共同借款人參與本次貸款申請。在額度核定上，主借款人與共同借款人的可貸額度實行分別計算、合併認定，合併後的家庭貸款總額不得超過公積金中心規定的最高限額，貸款期限按主借款人年齡核定，貸款比例按所購住房的相關政策統一執行。該通知自發布之日起執行，未涉及事項仍按原政策執行。"
+    },
+    {
+      "id": "5059515",
+      "time": "2026-08-26 16:28:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯襲擊了切爾尼戈夫一處倉庫，有工作人員可能被困在廢墟之下。"
+    },
+    {
+      "id": "mkt:01a03d2f-7c35-7aab-9127-aca2e5387fcc",
+      "time": "2026-08-26 16:28:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hongmian Co.: 1H net profit attributable to parent 76.0823 mln yuan, +127.05% YoY】Hongmian Co. said in its Aug. 26 interim report 1H operating revenue was 1.065 bln yuan, down 0.73% YoY; net profit attributable to shareholders 76.0823 mln yuan, up 127.05% YoY; basic EPS 0.0419 yuan."
+    },
+    {
+      "id": "5059514",
+      "time": "2026-08-26 16:28:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic發論文預警AI心智病毒】近日，大模型廠商Anthropic與瑞士洛桑聯邦理工學院聯合釋出論文《心智病毒：多智慧體大語言模型系統中的自我傳播思想》。 論文透過實驗證明，在特定條件下，AI智慧體之間可以透過最普通的自然語言對話相互“傳染”思想、目標乃至有害指令。即便上下文被清空、記憶被重置，病毒仍能透過檔案持久化“復活”。論文同時強調，該風險目前僅構成有限威脅。 這一發現迅速在海外AI圈刷屏，特斯拉CEO馬斯克在社交媒體上評論稱“這無法避免”。 該論文將病毒透過聊天即可傳播的現象定義為“心智病毒”。與傳統計算機病毒依賴程式碼漏洞不同，“心智病毒”透過一個智慧體說服另一個智慧體接受某種信念，被說服者再將傳播指令寫入長期記憶，繼續感染下一個。（第一財經）"
+    },
+    {
+      "id": "5059513",
+      "time": "2026-08-26 16:27:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多浦樂：聘任陳秀明為公司副總經理】多浦樂8月26日公告，公司召開第三屆董事會第八次會議，審議透過了《關於聘任高階管理人員的議案》，同意聘任陳秀明為公司副總經理，任期自董事會審議透過之日起至第三屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "5059512",
+      "time": "2026-08-26 16:27:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交大思諾：2026年上半年淨利潤1874.76萬元，同比增長53.83%】交大思諾公告，2026年上半年營業收入1.51億元，同比增長17.68%；歸屬於上市公司股東的淨利潤1874.76萬元，同比增長53.83%，2025年同期為1218.68萬元；扣除非經常性損益的淨利潤1668.58萬元，同比增長68.13%，2025年同期為992.42萬元。公司已完成2025年年度權益分派，每10股派發現金紅利人民幣6.8元（含稅）；擬發行股份及支付現金購買北京北交信通科技有限公司60.28%股權並募集配套資金。"
+    },
+    {
+      "id": "5059511",
+      "time": "2026-08-26 16:27:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福安藥業：2026年上半年淨利潤9577.48萬元，同比下降15.33%】福安藥業公告，2026年上半年營業收入8.39億元，同比下降8.82%；歸屬於上市公司股東的淨利潤9577.48萬元，同比下降15.33%，2025年上半年為1.13億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤8643.66萬元，同比下降16.93%。公司計劃不派發現金紅利、不送紅股、不以公積金轉增股本。"
+    },
+    {
+      "id": "5059510",
+      "time": "2026-08-26 16:27:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溯聯股份：2026年上半年淨利潤3500.23萬元，同比下降48.35%】溯聯股份公告，2026年上半年營業收入6.21億元，同比下降7.13%；歸屬於上市公司股東的淨利潤3500.23萬元，同比下降48.35%，2025年同期為6776.25萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2127.96萬元，同比下降64.82%，2025年同期為6049.53萬元。"
+    },
+    {
+      "id": "mkt:01a03d2e-3ad7-7aab-9127-a1bf388a472b",
+      "time": "2026-08-26 16:27:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Humain said it plans to explore opportunities in productivity, hardware, models and infrastructure, and to pursue joint go-to-market programs."
+    },
     {
       "id": "5059509",
       "time": "2026-08-26 16:26:51",
@@ -149601,373 +150115,6 @@
         "市場"
       ],
       "text": "【廣州房價指數連續5個月上漲，市場成交持續活躍】國家統計局最新公佈的70個大中城市商品住宅銷售價格資料顯示，7月份廣州一手住宅銷售價格環比指數100.1，二手住宅銷售價格環比指數100.4，一二手住宅房價環比指數已經連續5個月上漲，市場回穩向好態勢不斷鞏固。房價回升的情況下，市場成交持續活躍。隨著提升公積金貸款額度、發放“賣舊買新”專項補貼、國企收購二手住房等政策效應持續釋放，近期市場活躍度保持高位。7月以來全市一手商品房網籤面積同比保持正增長。7月1日-31日全市一手商品房網籤面積較去年同期增長5.8%，其中一手住宅網籤面積較去年同期增長9%。8月上半月（8月1日-15日）一手商品房網籤面積較去年同期增長15%。（廣州住建局）"
-    },
-    {
-      "id": "mkt:01a0192d-77c8-7aab-9090-7931d5a023a1",
-      "time": "2026-08-19 16:40:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangzhou residential prices rise for fifth straight month; transactions boosted by policy support】China NBS data show Guangzhou July month‑on‑month price indices at 100.1 for primary-market homes and 100.4 for resale homes, the fifth consecutive monthly rise, consolidating a stabilizing recovery. Transactions remain elevated as higher housing provident fund loan limits, targeted sell‑old‑buy‑new subsidies and SOE purchases of second‑hand housing continue to boost demand. July 1–31 primary-market contracted sales area was up 5.8% y/y; primary residential contracted area rose 9% y/y. Aug 1–15 primary-market contracted area rose 15% y/y."
-    },
-    {
-      "id": "5047396",
-      "time": "2026-08-19 16:39:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯瑞達：2026年上半年淨利潤5081.86萬元，同比下降23.61%】芯瑞達公告，2026年上半年營業收入5.1億元，同比增長3.84%。歸屬於上市公司股東的淨利潤5081.86萬元，同比下降23.61%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4710.01萬元，同比下降28.69%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5047395",
-      "time": "2026-08-19 16:39:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雙塔食品：2026年上半年淨利潤3314.88萬元，同比下降39.02%】雙塔食品公告，2026年上半年營業收入11.23億元，同比增長7.29%。歸屬於上市公司股東的淨利潤3314.88萬元，同比下降39.02%。歸屬於上市公司股東的扣除非經常性損益的淨利潤2991.54萬元，同比下降38.60%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5047394",
-      "time": "2026-08-19 16:39:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾力斯：2026年上半年營收33.20億元 同比增39.85%】艾力斯公告稱，2026年上半年實現營業總收入33.20億元，同比增長39.85%；歸母淨利潤15.41億元，同比增長46.57%；研發總投入2.54億元。核心產品伏美替尼多項適應症研發及商業化進展順利，公司擬向全體股東每10股派發現金紅利6.00元（含稅），合計擬派發現金紅利2.70億元（含稅）。"
-    },
-    {
-      "id": "5047393",
-      "time": "2026-08-19 16:39:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：基本半導體與優必選機器人宣佈達成戰略合作。"
-    },
-    {
-      "id": "5047392",
-      "time": "2026-08-19 16:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Lululemon在日本東京開設全球旗艦店】當地時間8月18日，運動服飾品牌Lululemon在東京原宿開設在日本首家全球旗艦店，這是該品牌在亞太地區規模最大的門店。"
-    },
-    {
-      "id": "5047391",
-      "time": "2026-08-19 16:38:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【魯抗醫藥：控股子公司獲克立硼羅軟膏補充申請批准，成藥品上市許可持有人】魯抗醫藥公告，公司控股子公司山東魯抗醫藥集團賽特有限責任公司近日收到國家藥品監督管理局核准簽發的克立硼羅軟膏《藥品補充申請批准通知書》，同意賽特公司作為上述藥品上市許可持有人，藥品上市許可持有人由浙江賽默製藥有限公司變更為賽特公司。截至公告日，賽特公司在該藥品技術轉移專案上累計投入約為766萬元人民幣。"
-    },
-    {
-      "id": "5047390",
-      "time": "2026-08-19 16:37:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "快手科技：2026年第二季度，可靈AI營業收入超過人民幣8.5億元，同比增長超過200.0%，持續引領全球AI影片生成行業的商業化程序。"
-    },
-    {
-      "id": "5047389",
-      "time": "2026-08-19 16:37:25",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【大摩：信達生物上半年產品收入強勁 上調目標價至138.5港元】摩根士丹利釋出研報稱，信達生物上半年產品收入82億元人民幣，上調2026至2028年產品收入/總收入預測6%/5%/2%，主要反映GLP-1、PCSK9及合作產品等核心產品表現強勁，期內每股盈利預測相應變動為+13.7%/+11.2%/-1.2%。目標價由135港元上調至138.5港元，評級“增持”。"
-    },
-    {
-      "id": "mkt:01a01929-bbee-7aab-9090-70acb0c757aa",
-      "time": "2026-08-19 16:36:00",
-      "tags": [
-        "MKT News",
-        "00005.HK",
-        "Impact bullish"
-      ],
-      "text": "HKEX filing shows HSBC (00005.HK) repurchased 382,400 shares on Aug 18 for HK$62.1 million."
-    },
-    {
-      "id": "mkt:01a01929-8bb6-7aab-9090-6cfdfb7c4d5e",
-      "time": "2026-08-19 16:35:48",
-      "tags": [
-        "MKT News",
-        "01024.HK",
-        "Impact bearish"
-      ],
-      "text": "Kuaishou (01024.HK) posted adjusted net profit of 3.913 billion yuan in Q2 2026, down 30.3% YoY."
-    },
-    {
-      "id": "5047388",
-      "time": "2026-08-19 16:35:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江東日：選舉蘇曉磊為副董事長並聘任其為總經理】浙江東日公告稱，公司第十屆董事會第十四次會議審議透過多項人事議案：選舉蘇曉磊為第十屆董事會副董事長、戰略委員會成員；聘任蘇曉磊為公司總經理，其任職後公司法定代表人變更為蘇曉磊，將辦理工商變更登記。此外，聘任戴儒哲為董事會秘書，楊勇為副總經理，徐建偉為證券事務代表；謝小磊不再兼任董事會秘書，戴儒哲免去證券事務代表職務。上述人員任期均至本屆董事會屆滿之日止。"
-    },
-    {
-      "id": "5047387",
-      "time": "2026-08-19 16:35:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "快手科技第二季度營收355.4億元人民幣，預估355.1億元人民幣。第二季度淨利潤31.5億元人民幣，預估31.2億元人民幣。第二季度調整後淨利潤39.1億元人民幣，預估38.9億元人民幣。第二季度調整後息稅折舊及攤銷前利潤71.2億元人民幣，預估67.9億元人民幣。第二季度線上營銷服務收入206.4億元人民幣，預估210.1億元人民幣。第二季度直播收入86.9億元人民幣，預估86.4億元人民幣。第二季度其他服務收入62.1億元人民幣，預估58.3億元人民幣。第二季度研發支出45.8億元人民幣，預估40.7億元人民幣。第二季度平均月活躍使用者8億，預估7.4億。第二季度銷售費用99.2億元人民幣，預估102.8億元人民幣。"
-    },
-    {
-      "id": "mkt:01a01928-bdf0-7aab-9090-62912cef604f",
-      "time": "2026-08-19 16:34:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "01024.HK",
-        "Impact bearish"
-      ],
-      "text": "Kuaishou (01024.HK) reported 1H revenue of 69.251 billion yuan, up 2.4% YoY, and adjusted net profit of 7.287 billion yuan, down 28.5% YoY."
-    },
-    {
-      "id": "5047386",
-      "time": "2026-08-19 16:34:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方電子：2026年半年度淨利潤4.03億元，同比增長33.22%】東方電子公告，2026年半年度營業收入36.67億元，同比增長15.98%；歸母淨利潤4.03億元，同比增長33.22%；扣非淨利潤3.18億元，同比增長7.76%。公司擬向全體股東每10股派發現金紅利0.37元（含稅）。"
-    },
-    {
-      "id": "5047385",
-      "time": "2026-08-19 16:34:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元8月19日16:30收盤報6.7377，較上一交易日上漲50點。"
-    },
-    {
-      "id": "te:markets:576430",
-      "time": "2026-08-19 16:33:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Hong Kong Stocks Recover From Early Losses — The Hang Seng Index was little changed around 25,468 on Wednesday, recovering from an earlier decline as HKEX shares gained 1.6% to HK$411.40 following the exchange operator’s strong first-half results. Revenue rose 19% year-on-year, attributable profit increased 24%, and the interim dividend was lifted 24%, providing support to market sentiment. At the same time, Hong Kong and China Gas climbed after posting a 23% increase in first-half profit, helping support the broader market. Still, gains were capped by a cautious global backdrop, with investors digesting a selloff in technology shares, elevated US Treasury yields, higher oil prices, and renewed Middle East tensions that weighed on risk appetite across Asian markets. Notable movers included Xiaomi (5.1%), Tencent (0.9%), and Meituan (1.9%). In contrast, SMIC and China Unicom declined 4.6% and 12.8% respectively."
-    },
-    {
-      "id": "5047384",
-      "time": "2026-08-19 16:33:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朗博科技：2026年上半年營收1.24億元 淨利同比降2.11%】朗博科技公告稱，2026年上半年實現營業收入1.24億元，同比增長2.17%；歸屬於上市公司股東的淨利潤1887.70萬元，同比下降2.11%；扣非淨利潤1783.10萬元，同比下降3.59%。公司擬以實施權益分派股權登記日登記的總股本扣減回購賬戶股份數為基數，向全體股東每10股派發現金紅利1.00元（含稅），不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5047383",
-      "time": "2026-08-19 16:33:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【古麒絨材：2026年上半年淨利潤9297.84萬元，同比降5.51%】古麒絨材公告，2026年上半年營業收入5.64億元，同比增長5.07%。歸屬於上市公司股東的淨利潤9297.84萬元，同比下降5.51%。歸屬於上市公司股東的扣除非經常性損益的淨利潤9165.5萬元，同比下降4.76%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5047382",
-      "time": "2026-08-19 16:33:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾芬達：2026年上半年淨利潤5901.8萬元，同比降1.27%】艾芬達公告，2026年上半年營業收入6.25億元，同比增長23.72%。歸屬於上市公司股東的淨利潤5901.8萬元，同比下降1.27%。歸屬於上市公司股東的扣除非經常性損益的淨利潤4920.28萬元，同比下降14.88%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5047381",
-      "time": "2026-08-19 16:33:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【朗博科技：2026年上半年淨利潤1887.7萬元，同比降2.11%】朗博科技公告，2026年上半年營業收入1.24億元，同比增長2.17%。歸屬於上市公司股東的淨利潤1887.7萬元，同比下降2.11%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1783.1萬元，同比下降3.59%。上年同期淨利潤1928.4萬元。公司擬向全體股東每10股派發現金紅利1元（含稅）。"
-    },
-    {
-      "id": "5047380",
-      "time": "2026-08-19 16:33:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大政府說本國野火風險仍將處於較高水平】加拿大聯邦政府18日通報說，目前全國共有582起活躍野火，其中31起處於失控狀態。受高溫和乾旱影響，未來數週，該國野火風險仍將處於較高水平。根據加拿大聯邦政府釋出的野火形勢通報，今年以來，加拿大累計發生野火4793起，過火面積達410萬公頃。野火數量與去年同期相比多出200多起，但過火面積低於去年同期。預測顯示，8月至9月，加拿大大部分地區氣溫將高於常年平均水平，加上部分地區持續的乾旱和乾燥，意味著未來數週野火風險仍將處於較高水平。（新華社）"
-    },
-    {
-      "id": "mkt:01a01927-0a8f-7aab-9090-58941911c20c",
-      "time": "2026-08-19 16:33:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iceland's central bank raised its policy rate 25bps to 8.00% from 7.75%."
-    },
-    {
-      "id": "5047379",
-      "time": "2026-08-19 16:32:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "波爾圖足球俱樂部：已與羅馬足球俱樂部達成協議，永久轉讓球員羅德里戈·莫拉的註冊權及50%經濟權利。"
-    },
-    {
-      "id": "mkt:01a01926-8a46-7aab-9090-568aa22de396",
-      "time": "2026-08-19 16:32:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China Tech Giants",
-        "01024.HK",
-        "Impact bullish"
-      ],
-      "text": "Kuaishou (01024.HK) Q2 2026 revenue RMB 35.535 bln, compared with RMB 35.046 bln in the year‑ago quarter."
-    },
-    {
-      "id": "5047378",
-      "time": "2026-08-19 16:32:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "冰島央行將7天定期存款利率上調至8%。"
-    },
-    {
-      "id": "mkt:01a01926-1585-7aab-9090-4ecc8a40c314",
-      "time": "2026-08-19 16:32:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Onshore yuan closed at 6.7377 per U.S. dollar at 16:30 on Aug 19, up 50 pips (0.0050) from the previous trading day."
-    },
-    {
-      "id": "5047377",
-      "time": "2026-08-19 16:31:57",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "冰島央行：儘管預計2027年通脹將迅速回落，但仍存在重大不確定性，尤其是全球經濟走勢和國內勞動力市場的發展情況。"
-    },
-    {
-      "id": "5047376",
-      "time": "2026-08-19 16:31:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【快手-W：2026年第二季度淨利潤31.52億元，同比降36.0%】快手-W公告，2026年第二季度收入355.35億元，同比增長1.4%。期內利潤31.52億元，上年同期為49.22億元，同比下降36.0%。經調整利潤淨額39.13億元，同比下降30.3%。"
-    },
-    {
-      "id": "mkt:01a01925-6a0e-7aab-9090-43e4d32331a5",
-      "time": "2026-08-19 16:31:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Refinitiv sources say Samsung has raised chip-foundry prices by up to 15% amid a surge in demand."
-    },
-    {
-      "id": "mkt:01a01925-0280-7aab-9090-3d0a9d95915e",
-      "time": "2026-08-19 16:30:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK DCLG house price index YoY 2.0% in June, down from 2.7% previously."
-    },
-    {
-      "id": "mkt:01a01924-dc34-7aab-9090-365ce008b9e5",
-      "time": "2026-08-19 16:30:41",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | DCLG House Price Index (YoY) (Jun) | actual 2% | previous 2.70%"
-    },
-    {
-      "id": "5047375",
-      "time": "2026-08-19 16:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【格爾軟體與海光資訊共建聯合創新實驗室】據海光資訊訊息，8月18日，格爾軟體與海光資訊聯合舉行晶片內生安全技術創新應用聯合實驗室揭牌儀式。該實驗室將重點推進聯合方案迭代最佳化、產品實測驗證、全行業市場推廣三大核心工作，以晶片內生安全技術為核心抓手，為各關鍵行業客戶構築自主可控的底層可信算力體系。"
-    },
-    {
-      "id": "5047374",
-      "time": "2026-08-19 16:30:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【輝豐股份：公司及相關人員收到江蘇證監局警示函】輝豐股份公告稱，公司收到江蘇證監局出具的警示函。經查，公司2023年半年報、三季報及2025年一季報、半年報、三季報的營業收入、營業成本資訊披露不準確，違反《上市公司資訊披露管理辦法》相關規定。江蘇證監局決定對公司、董事長兼總經理仲漢根、時任總經理張曉波、時任財務負責人周京採取出具警示函的行政監管措施，並記入證券期貨市場誠信檔案。本次監管措施不會對公司正常生產經營產生重大影響。"
-    },
-    {
-      "id": "5047373",
-      "time": "2026-08-19 16:30:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國聯基金權益投資部總經理甘傳琦離任】國聯基金8月19日公告稱，甘傳琦因個人原因卸任國聯新經濟混合、國聯成長先鋒、國聯高質量成長等產品的基金經理。截至目前，甘傳琦名下已無在管基金。公告顯示，甘傳琦卸任基金產品後並沒有轉任其他崗位，已按規定在基金業協會辦理登出手續。公開資訊顯示，甘傳琦具有15年證券從業經驗，2010年7月至2017年3月曆任博時基金研究員、高階研究員、基金經理助理，2017年4月加入國聯基金，本次離任前為國聯基金權益投資部總經理。"
-    },
-    {
-      "id": "5047372",
-      "time": "2026-08-19 16:29:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【古麒絨材：2026年上半年淨利潤9297.84萬元，同比降5.51%】古麒絨材公告，2026年上半年營業收入5.64億元，同比增長5.07%。歸屬於上市公司股東的淨利潤9297.84萬元，同比下降5.51%。歸屬於上市公司股東的扣除非經常性損益的淨利潤9165.5萬元，同比下降4.76%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5047371",
-      "time": "2026-08-19 16:29:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：太湖流域防汛形勢依然嚴峻複雜】8月19日上午，國家防總副總指揮、水利部部長李國英主持召開專題會商，影片連線水利部太湖流域管理局，分析研判太湖流域汛情發展態勢，進一步安排部署太湖流域洪水防禦工作。李國英指出，受今年第13號颱風“白海豚”及其殘餘環流帶來的強降雨影響，11日太湖發生2026年第1號洪水；14日水位漲至4.20米，太湖發生流域性較大洪水；經過科學精細排程，17日19時40分太湖出現本輪洪水最高水位4.49米（洪峰水位到4.50米時，太湖即發生流域性大洪水），成功避免發生流域性大洪水。當前，太湖水位總體呈波動緩退態勢，預報將於8月底降至4.20米左右，9月上旬末退至警戒水位以下。太湖及周邊河網長時間高水位執行，疊加風浪影響，堤防出險風險增加，加之後期可能有颱風登陸影響，太湖流域防汛形勢依然嚴峻複雜。"
-    },
-    {
-      "id": "te:markets:576426",
-      "time": "2026-08-19 16:29:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Firms at 3-Month High — The British pound strengthened to around $1.356, remaining close to a three-month high as investors assessed the latest UK inflation and labour-market data. Consumer inflation accelerated to 2.9% in July from 2.6% in June, matching expectations, while core inflation remained unchanged at 2.6%. The figures prompted traders to modestly reduce expectations for a Bank of England rate hike later this year. Earlier labour-market data showed unemployment holding at 4.9%, above forecasts, while payroll employment declined by 86,000 year-on-year. Regular earnings growth remained relatively firm at 3.5%. Despite signs of resilience in the UK economy, elevated oil prices and uncertainty surrounding the US-Iran conflict continue to pose risks to the inflation outlook. Meanwhile, the dollar index remained near multi-month lows, providing additional support to sterling. Softer US economic data led investors to scale back expectations for further Federal Reserve tightening, weighing on the dollar."
-    },
-    {
-      "id": "5047370",
-      "time": "2026-08-19 16:29:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鎮海股份：控股股東舜通集團擬協議轉讓15%股份，控制權將變更】鎮海股份公告，控股股東寧波舜通集團有限公司與上海樸未來泉企業管理諮詢合夥企業（有限合夥）簽署《股份轉讓協議》，擬以15.51元/股的價格轉讓其持有的公司3580.29萬股股份（佔公司總股本的15%），轉讓總對價為人民幣5.55億元。本次權益變動前，舜通集團及一致行動人舜建集團合計持有公司5063.98萬股，佔總股本21.22%；變動後合計持有1483.7萬股，佔總股本6.22%。本次交易完成後，樸未來泉將成為公司控股股東，實際控制人變更為張文龍先生。本次交易尚需取得國有資產監督管理部門批准、上交所合規性確認等程式。"
-    },
-    {
-      "id": "5047369",
-      "time": "2026-08-19 16:29:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年上半年京津冀經濟總量同比增長5.1%】記者19日從京津冀協同發展統計監測辦公室瞭解到，2026年上半年，京津冀實現地區生產總值6.0萬億元，按不變價格計算，同比增長5.1%。 京津冀全域面積21.6萬平方公里，常住人口超1億。地域毗鄰、人文相親的區位稟賦，為三地深度融合、協同共進築牢根基。 資料顯示，今年上半年，京津冀區域實現服務業增加值4.3萬億元，同比增長5.8%，三地分別增長6.1%、5.5%和5.5%。高階製造表現活躍，京津規模以上高技術製造業分別增長15.7%和8.7%，京冀規模以上工業戰略性新興產業分別增長12.8%和10.9%。（新華社）"
-    },
-    {
-      "id": "5047368",
-      "time": "2026-08-19 16:28:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬泰生物：2026年上半年淨利潤虧損1.28億元】萬泰生物公告，2026年上半年營業收入10.48億元，同比增長24.29%。歸屬於上市公司股東的淨利潤虧損1.28億元，上年同期虧損1.44億元。扣非淨利潤虧損1.69億元。"
-    },
-    {
-      "id": "5047367",
-      "time": "2026-08-19 16:28:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【立昂微：12英寸矽片出貨量大幅增長 矽片已進入漲價週期】立昂微(605358.SH)釋出投資者關係活動記錄表公告，公司2021年定增對應的募集資金投資專案均已如期投產。隨著半導體行業景氣度復甦，半導體矽片市場需求旺盛，目前已進入漲價週期。公司2026年上半年扭虧為盈，核心驅動因素為半導體矽片板塊盈利水平大幅改善。受AI算力產業帶動，市場重摻矽片需求快速釋放，疊加公司12英寸矽片產能持續爬坡、產品結構向高階化持續升級，整體產銷規模穩步擴張，12英寸矽片出貨量實現大幅增長，有效攤薄單位生產成本，矽片業務綜合毛利率同比提升明顯。公司目前正在進行12英寸矽片的擴產，同時基於衢州基地、杭州東芯2016-2017年左右開始購買的固定資產折舊逐步計提完畢，預計未來固定資產折舊金額的增速將逐步放緩。公司暫無SOI矽片相關佈局規劃。"
     }
   ]
 }
