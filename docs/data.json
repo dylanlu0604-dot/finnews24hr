@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-27 06:59:10",
-  "count": 16740,
+  "updated": "2026-08-27 07:06:42",
+  "count": 16736,
   "items": [
+    {
+      "id": "5060986",
+      "time": "2026-08-27 07:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "尼泊爾北部山洪暴發已致157人死亡。"
+    },
+    {
+      "id": "5060985",
+      "time": "2026-08-27 07:02:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克的律師表示，白宮信函所依據的是未經審理且未經證實的刑事不當行為指控。"
+    },
+    {
+      "id": "mkt:01a0404e-b9a3-7aab-9139-e64fb2227687",
+      "time": "2026-08-27 07:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Flash floods in northern Nepal leave 157 dead】Nepal police said on the 27th local time that flash floods in northern Nepal have raised the death toll to 157 after floods hit Rasuwa district on the 26th."
+    },
     {
       "id": "te:markets:578380",
       "time": "2026-08-27 06:58:24",
@@ -150994,75 +151019,6 @@
         "Brent"
       ],
       "text": "【Trump announces toughest-ever economic sanctions on Iran】U.S. President Trump announced the toughest-ever economic sanctions on Iran and urged allies to join in isolating the country. He warned any state that allows its banks, companies, airports or government entities to provide any form of assistance to Iran will face severe economic consequences. He specifically said oil smuggling, swap lines, cash transfers, currency-exchange firms, vessel registration and shell companies must stop. Trump reiterated that Iran will not be allowed to develop nuclear weapons."
-    },
-    {
-      "id": "5048685",
-      "time": "2026-08-20 07:02:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：宣佈對伊朗實施最嚴厲的經濟行動】美國總統特朗普在真相社交平臺發文：沒有人比我給伊朗提供過更好的談判機會。可悲的是，他們沒有把握住。因此，今天，我宣佈將實施有史以來針對任何國家的最具毀滅性的經濟行動！這將是一場規模空前的經濟戰與封鎖孤立行動。伊朗的海軍已不復存在，空軍遭到摧毀，軍工廠淪為廢墟，本國貨幣一文不值，國家命懸一線。今天我同時宣佈：任何國家，如果放任本國金融機構、企業、機場或政府機構向伊朗提供任何形式的生存支援，該國自身將面臨極其嚴重的經濟後果。石油走私、貨幣互換額度、現金轉賬、匯兌機構、船舶註冊、殼公司 —— 所有這類活動必須立刻停止。相關各方心知肚明。這將是經濟層面的諾曼底登陸日。我們需要所有盟友同美國站在一起，孤立並挫敗伊朗帶來的威脅。"
-    },
-    {
-      "id": "mkt:01a01c42-923d-7aab-90a2-fd330116371e",
-      "time": "2026-08-20 07:01:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump announced the toughest-ever economic sanctions on Iran, saying the measures amount to unprecedented economic warfare and isolation."
-    },
-    {
-      "id": "5048684",
-      "time": "2026-08-20 07:00:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我同時宣佈，任何國家若放任本國金融機構、企業等向伊朗提供任何續命支援，該國自身也將承受極其嚴重的經濟後果。"
-    },
-    {
-      "id": "5048683",
-      "time": "2026-08-20 07:00:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：實施規模前所未有的經濟戰與孤立封鎖。"
-    },
-    {
-      "id": "5048682",
-      "time": "2026-08-20 06:59:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗未能接受協議。"
-    },
-    {
-      "id": "5048681",
-      "time": "2026-08-20 06:59:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：宣佈對伊朗實施最嚴厲的經濟制裁。"
-    },
-    {
-      "id": "te:markets:576619",
-      "time": "2026-08-20 06:59:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Nears Record High on Communication Services Boost — New Zealand stocks rose 58 points, or 0.4%, to 13,987 in Thursday morning trading, up for the third consecutive session and marking their highest level since August 5, when the index reached a record high, mainly supported by gains in communication services, energy, and real estate. Optimism over earnings results continued to fuel sentiment while traders braced for further releases from some companies later today. Communication services surged 2.3% after Spark New Zealand, New Zealand's largest telecommunications company, surged 5.0%, following a 91.9% jump in net profit for H2 2026. Meanwhile, Wall Street mostly closed in the green overnight due to easing Treasury yields, which offset weakness in tech stocks and also lifted sentiment. Other early gainers were Channel Infrastructure (1.5%) and Skellerup Holdings (0.7%). EBOS Group continued to gain (0.8%) after posting a 4.7% rise in net profit for the full year ended June 30, 2026."
     }
   ]
 }

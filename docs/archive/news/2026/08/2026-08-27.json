@@ -1,7 +1,32 @@
 {
   "date": "2026-08-27",
-  "count": 493,
+  "count": 496,
   "items": [
+    {
+      "id": "5060986",
+      "time": "2026-08-27 07:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "尼泊爾北部山洪暴發已致157人死亡。"
+    },
+    {
+      "id": "5060985",
+      "time": "2026-08-27 07:02:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克的律師表示，白宮信函所依據的是未經審理且未經證實的刑事不當行為指控。"
+    },
+    {
+      "id": "mkt:01a0404e-b9a3-7aab-9139-e64fb2227687",
+      "time": "2026-08-27 07:01:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Flash floods in northern Nepal leave 157 dead】Nepal police said on the 27th local time that flash floods in northern Nepal have raised the death toll to 157 after floods hit Rasuwa district on the 26th."
+    },
     {
       "id": "te:markets:578380",
       "time": "2026-08-27 06:58:24",
