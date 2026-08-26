@@ -1,7 +1,330 @@
 {
-  "updated": "2026-08-26 15:27:13",
-  "count": 16531,
+  "updated": "2026-08-26 15:39:46",
+  "count": 16517,
   "items": [
+    {
+      "id": "mkt:01a03d01-194c-7aab-9126-639efdb6ea1c",
+      "time": "2026-08-26 15:37:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Student News Agency reported an Iranian lawmaker said officials should be more open with the public about the country's difficulties, citing war-related impacts, a maritime blockade and economic problems."
+    },
+    {
+      "id": "5059313",
+      "time": "2026-08-26 15:37:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗陸軍防空部隊司令：地面現實是對敵方說辭最好的回擊，我們將亮出手中底牌，以實際行動展現我方能力。"
+    },
+    {
+      "id": "5059312",
+      "time": "2026-08-26 15:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "AmSpec資料：馬來西亞8月1日-25日棕櫚油出口環比下滑11%。"
+    },
+    {
+      "id": "mkt:01a03d00-30c4-7aab-9126-5f82dd607f6c",
+      "time": "2026-08-26 15:36:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Will Iran be on the agenda at SCO summit? Foreign Ministry says details to be released in due course】At a regular press briefing, Foreign Ministry spokesman Lin Jian was asked whether Iran would be discussed during President Xi’s attendance at the Shanghai Cooperation Organisation summit and his visit to Egypt, given regional and international security are priorities. Lin said specific information on the visits will be released in due course."
+    },
+    {
+      "id": "5059310",
+      "time": "2026-08-26 15:36:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美軍一架“黑鷹”直升機在美西部墜毀】據美國媒體報道，美軍一架“黑鷹”直升機25日在美國西部科羅拉多州丹佛附近山地林區墜毀，初步報告顯示沒有人員傷亡。據美國哥倫比亞廣播公司報道，該直升機隸屬於肯塔基州坎貝爾堡陸軍基地。 現場圖片顯示，機身嚴重受損，周圍樹木被折斷。（新華社）"
+    },
+    {
+      "id": "5059309",
+      "time": "2026-08-26 15:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州百通物業發展有限公司總經理曾武青接受紀律審查和監察調查】8月26日，據“清風肇慶”微信公眾號訊息，廣州百通物業發展有限公司黨支部書記、總經理曾武青涉嫌嚴重違紀違法，目前正接受廣東省廣物控股集團有限公司紀委紀律審查和肇慶市鼎湖區監委監察調查。"
+    },
+    {
+      "id": "5059308",
+      "time": "2026-08-26 15:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗問題是否在此次上合峰會討論範疇中？外交部：會適時釋出訊息】8月26日，外交部發言人林劍主持例行記者會。彭博社記者提問，關於習近平主席參加上合組織峰會和訪問埃及有關情況，您剛才提到地區與國際安全將是此訪的重點議題，請問伊朗問題是否會在討論的範疇中？關於如何解決地區衝突，外交部能否提供更多細節？林劍表示，關於訪問的具體資訊，我們會適時釋出訊息，請你保持關注。（澎湃）"
+    },
+    {
+      "id": "mkt:01a03cfd-9ec2-7aab-9126-54be89defed5",
+      "time": "2026-08-26 15:34:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Iran's military said its naval forces sustained losses but did not allow enemy warships to approach Iran's coast."
+    },
+    {
+      "id": "5059307",
+      "time": "2026-08-26 15:34:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【外資撤離之際 印度高官海外路演力推經濟增長敘事】印度正向全球投資者講述其增長故事，希望吸引新的資本流入，此時外資正撤離印度市場，而學生抗議活動也暴露出年輕人口結構帶來的挑戰。財政部長Nirmala Sitharaman正在對加拿大和美國進行為期九天的訪問，貿易、投資和經濟合作是此行重點議題。與此同時，商務部長Piyush Goyal本週訪問日本，積極推介印度作為“值得信賴”投資目的地的優勢。“印度是一個值得關注的經濟體，”Sitharaman在多倫多表示。她說，全球投資者的參與將確保“印度成為增長引擎，並帶動其他國家共同前行”。"
+    },
+    {
+      "id": "5059306",
+      "time": "2026-08-26 15:33:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國頭部AI企業密集降價 外媒：美國AI大模型或將掀起價格逐底戰】美國人工智慧公司OpenAI日前宣佈，其旗下一款人工智慧大模型的價格將下調20%以上，輸出價格降至每百萬詞元20美元。這已經是OpenAI公司旗下模型在不到一個月內的第二次降價。這不是近期第一家下調產品價格的美國人工智慧公司。本月中旬，谷歌釋出新模型Gemini 3.7 Flash時，就以前代模型一半的價格作為首發價。另一家人工智慧公司安特羅匹克（Anthropic）於本月早些時候也宣佈，取消原定的漲價計劃，將首發優惠價定為永久執行價格。美國《福布斯》雜誌在OpenAI上月調降旗下中低端模型價格時就預言，此舉或將引發一場人工智慧模型“價格逐底戰”。（央視財經）"
+    },
+    {
+      "id": "5059305",
+      "time": "2026-08-26 15:33:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中銀國際：上調長城汽車評級至“持有”，目標價降至8港元】 中銀國際發表報告指，長城汽車上半年營收570億元，同比增長8.9%，小幅超出市場預期，核心驅動為單車收入按季提升1.3萬元，創下18.1萬元的歷史新高。利潤同比大幅回落主要由於高基數效應導致，包含兩方面因素：去年同期確認超20億元俄羅斯報廢稅返還補貼；匯兌損益波動。此外，本年度俄羅斯報廢稅返還補貼確認時點延後，預計將在第四季度入賬。\n為反映國內需求疲弱及銷售費用居高不下，該行將2026-2027年盈利預測下調3-8%至74億元/77億元。年初至今公司H股股價大幅跑輸同行，當前股價對應2026/2027年預測市盈率8.3倍/8倍，下行具備一定安全邊際。但該行認為，公司出口業務成長彈性弱於同行，且歸元平臺車型缺乏能夠拉動銷量的核心競爭力，兩者或限制股價的上行空間。該行將其評級由“賣出”上調至“持有”，目標價由9.5港元降至8港元，基於2026年 8倍市盈率。"
+    },
+    {
+      "id": "te:markets:578186",
+      "time": "2026-08-26 15:33:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Snaps 6-Day Winning Streak — The FTSE 100 traded slightly lower on Wednesday, ending a six-session winning streak as weaker oil prices weighed on energy stocks. BP fell more than 2%, while Shell declined around 1.4%, with crude prices extending losses for a third day on hopes of renewed shipping through the Strait of Hormuz. Iran and Oman discussed an interim framework aimed at facilitating the resumption of traffic through the key waterway. In contrast, mining stocks provided some support, with Antofagasta, Anglo American and Fresnillo each gaining more than 1%. Entain and Persimmon were also in focus after FTSE Russell indicated that both companies are set to be removed from the FTSE 100 in its latest reshuffle. Meanwhile, Ofgem said the UK energy price cap will rise 4% from October, citing higher wholesale gas prices linked to the Middle East conflict. Investor attention is also turning to Nvidia’s results, with markets looking for further signals on the strength of the AI investment cycle."
+    },
+    {
+      "id": "5059304",
+      "time": "2026-08-26 15:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "辛巴威統計局資料顯示，該國8月以本幣計價的通貨膨脹率同比為2.9%。"
+    },
+    {
+      "id": "5059303",
+      "time": "2026-08-26 15:32:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：上合組織比什凱克峰會將就參與全球治理體系改革和建設作出規劃部署】8月26日，外交部發言人林劍主持例行記者會。有記者提問，中方釋出了習近平主席將出席2026年上海合作組織峰會的訊息，中方希望透過出席峰會傳遞什麼資訊？\n\n林劍表示，今年是上海合作組織成立25週年。25年來，成員國秉持“上海精神”，堅持團結協作，全面深化合作，推動上合組織發展成為世界上幅員最廣、人口最多、發展潛力巨大的綜合性區域合作組織，成功探索出一條新型區域合作的道路，樹立了新型國際關係的典範。去年天津峰會對上合組織未來10年發展作出戰略擘畫，開啟了上合組織高質量發展新階段。\n\n今年比什凱克峰會期間，習近平主席將同與會各國領導人就新形勢下深化上合組織各領域合作，以及當前重大國際和地區問題深入交換意見，就引領上合組織高質量發展，參與全球治理體系改革和建設作出規劃部署。中方願同各方一道推動比什凱克峰會進一步凝聚共識，共同譜寫合作的新篇章，為促進地區各國安全穩定和發展振興，推動構建人類命運共同體作出積極貢獻。（澎湃）"
+    },
+    {
+      "id": "mkt:01a03cfb-c709-7aab-9126-4dcfd2834dff",
+      "time": "2026-08-26 15:32:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The Chinese Foreign Ministry, responding to Canada’s announcement of retaliatory tariffs on the US, said China consistently urges parties to resolve trade and economic concerns through equal dialogue and consultation."
+    },
+    {
+      "id": "5059302",
+      "time": "2026-08-26 15:32:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【外交部介紹習近平主席訪問吉、埃兩國安排及對中吉、中埃關係期待】8月26日，外交部發言人林劍主持例行記者會。有記者提問，習近平主席即將對吉爾吉斯斯坦、埃及進行國事訪問，能否介紹此訪的主要安排以及中方對發展中吉、中埃關係的期待？\n\n林劍表示，中國和吉爾吉斯斯坦是山水相連的好鄰居、相互信任的好朋友、志同道合的好夥伴。建交34年來，兩國始終以信相交、以誠相待，樹立起鄰國間相互支援成就的典範。近年來，中吉關係實現跨越式發展，兩國政治互信不斷鞏固，高質量共建“一帶一路”合作成果豐碩，人文交流亮點紛呈，國際協作密切有力。\n\n去年習近平主席同扎帕羅夫總統三次會晤，引領中吉合作進入快速發展的黃金期。訪問期間，習近平主席將同扎帕羅夫總統舉行會談，就雙邊關係，重點領域合作以及國際和地區形勢深入交換意見，並出席各項務實活動。中方期待同吉方一道，以此訪為契機，推動兩國全方位互利合作，高質量發展，進一步豐富中吉命運共同體的內涵，造福兩國人民。\n\n埃及是最早同新中國建交的阿拉伯和非洲國家。近年來，在習近平主席和塞西總統的戰略引領下，兩國政治互信不斷深化，各領域合作豐碩，人文交流日益頻繁，多邊協作緊密有效，中埃全面戰略伙伴關係實現跨越式發展，迎來歷史最好的時期，成為發展中國家團結協作、互利共贏的典範。\n\n此訪是習近平主席時隔10年再次對埃及進行國事訪問，適逢中埃建交70週年，對兩國關係的發展具有承前啟後，繼往開來的特殊重要意義。訪問期間，習近平主席將同塞西總統舉行會談，就中埃關係和共同關心的國際地區問題深入交換意見。中方期待透過此訪同埃方賡續傳統友誼，堅定相互支援，拓展互利合作，助力彼此現代化程序，共同譜寫中埃關係的新篇章，為維護地區和世界和平穩定作出積極貢獻。（澎湃）"
+    },
+    {
+      "id": "te:markets:578185",
+      "time": "2026-08-26 15:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.21% Lower — The FTSE 100 Index is falling 23 points. Losses were driven by The Sage Group (-3.03%), BP (-2.48%) and Shell (-1.55%). Biggest rises came from Melrose (1.96%), Antofagasta (1.60%) and Halma (1.40%)."
+    },
+    {
+      "id": "5059301",
+      "time": "2026-08-26 15:31:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【民調：多數韓國人對美國持負面評價】最新民意調查結果顯示，對美國持負面評價的韓國人已超過持正面評價的人。美國的關稅政策、對伊朗政策在韓國也受到批評。根據美國皮尤研究中心24日公佈的民調結果，55%的韓國調查物件對美國持負面評價，比去年上升16個百分點，為該機構在韓開展民調20多年來首次超過50%。18%的人對美評價非常負面，比去年增加9個百分點。（新華社）"
+    },
+    {
+      "id": "5059300",
+      "time": "2026-08-26 15:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞卡諾州暴發白喉疫情 50名兒童死亡】當地時間25日，奈及利亞卡諾州議會表示，該州近日暴發白喉疫情，已造成至少50名兒童死亡，另有多人因感染住院治療。（央視新聞）"
+    },
+    {
+      "id": "te:markets:578183",
+      "time": "2026-08-26 15:31:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.12% Lower — The DAX Index is dropping 33 points. Leading the losses are SAP (-3.87%), Siemens Energy (-1.01%) and Porsche Automobil (-0.82%). Top gainers were HeidelbergCement (3.01%), Deutsche Bank (1.78%) and Qiagen NV (1.62%)."
+    },
+    {
+      "id": "mkt:01a03cfa-d043-7aab-9126-42ea4274e65a",
+      "time": "2026-08-26 15:31:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Treasury Secretary announced sanctions on Iran; China said it had no information to release at this time."
+    },
+    {
+      "id": "5059299",
+      "time": "2026-08-26 15:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平對西藏日喀則市吉隆縣遭受泥石流災害作出重要指示】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。災害發生後，中共中央總書記、國家主席、中央軍委主席習近平高度重視並作出重要指示指出，當務之急要千方百計搜救失聯人員，轉移安置受威脅群眾，抓緊救治傷員，最大限度減少人員傷亡。要加強監測預警，注重科學施救，防止發生次生災害。習近平強調，當前正處防汛關鍵期，各地區和有關部門要堅持極限思維、底線思維，認真落實防汛防颱風各項措施，加強各類風險隱患排查整治，堅決防範重特大災害事故發生，確保人民群眾生命財產安全。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03cfa-2fb0-7aab-9126-3acb4b36bf41",
+      "time": "2026-08-26 15:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) gold T+D closed down 0.46% at 999.8 yuan/gram on Aug. 26; SGE silver T+D closed up 0.54% at 16,720 yuan/kg."
+    },
+    {
+      "id": "te:markets:578182",
+      "time": "2026-08-26 15:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.49% Higher — The CAC 40 Index is picking up 42 points or 0.49 percent on Wednesday. Gains are led by ArcelorMittal (1.79%), Kering (1.70%) and Hermes International (1.70%). Biggest losers are Capgemini (-2.19%), TotalEnergies SE (-1.29%) and Dassault Systemes (-1.28%)."
+    },
+    {
+      "id": "5059298",
+      "time": "2026-08-26 15:29:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方回應加宣佈對美加徵反制關稅】8月26日，外交部發言人林劍主持例行記者會。 彭博社記者提問，加拿大對美國的關稅措施進行了反制，對奶製品和鋼鐵徵收了50%關稅。外交部如何看待加拿大以及其他國家應對特朗普關稅戰的做法？ 林劍表示，中方一貫主張各方透過對平等的對話協商來解決各自的經貿關切。（北京日報）"
+    },
+    {
+      "id": "5059297",
+      "time": "2026-08-26 15:29:36",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中方回應中美是否就制裁伊朗溝透過】8月26日，外交部發言人林劍主持例行記者會。 彭博社記者提問，美國財政部長貝森特24日宣佈對伊朗發起名為“經濟諾曼底登陸日（Economic D-Day）”行動的制裁之後，中方和美方有沒有進行過溝通？如果有，能否介紹詳細資訊？ 林劍表示，我目前沒有可以釋出的資訊。（北京日報）"
+    },
+    {
+      "id": "5059296",
+      "time": "2026-08-26 15:29:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方回應敦促公民撤離史瓦濟蘭】8月26日，外交部發言人林劍主持例行記者會。 彭博社記者提問，中國有關部門敦促在史瓦濟蘭的中國公民撤離，並建議其他人員不要前往，理由是當地存在安全和電詐問題，外交部能否介紹原因？目前在史瓦濟蘭有多少中國公民？ 林劍表示，當前，史瓦濟蘭的安全形勢複雜，電詐網賭犯罪活動猖獗，社會治安等風險極高，釋出安全提醒是世界各國的慣常做法。中方一貫堅持以人為本、外交為民的理念，將採取必要措施維護海外中國公民的安全。 彭博社記者追問，能否介紹中國有沒有因為電詐問題對其他的國家釋出領事提醒？中國與史瓦濟蘭沒有建交，與此次釋出的提醒有沒有關係？ 林劍表示，此前我們也釋出過類似的安全提醒。關於這次的安全提醒，我想強調的是，鑑於當前史瓦濟蘭的社會治安等風險，電詐、網賭活動猖獗，中國政府為確保本國公民的安全，穩慎評估後釋出了安全提醒。（北京日報）"
+    },
+    {
+      "id": "mkt:01a03cf9-57e3-7aab-9126-32c3e63e14db",
+      "time": "2026-08-26 15:29:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Switzerland to vote on tightening permanent neutrality; Russia backs, Europe fears estrangement】Swiss voters will decide on Sept. 27 on a proposal to tighten the country’s permanent neutrality. If passed, the measure would bar Switzerland from imposing economic sanctions and from cooperating with NATO. The Kremlin has voiced support for the campaign, while European governments warn the change could further distance Switzerland from its neighbours. Recent polling shows the proposal is likely to be rejected: 62% oppose, 36% support."
+    },
+    {
+      "id": "mkt:01a03cf8-713e-7aab-9126-2c8ae7d33824",
+      "time": "2026-08-26 15:28:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's military said the eastern Hormuz Sea, the northern Indian Ocean, the Arabian Sea and the Gulf of Oman are under its operational control. Vessels are monitored several hundred kilometers before reaching the Strait of Hormuz and may transit only after obtaining Iranian permission."
+    },
+    {
+      "id": "te:markets:578181",
+      "time": "2026-08-26 15:28:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Shares Edge Higher as Oil Falls — European shares edged higher on Wednesday, with both the STOXX 50 and broader STOXX 600 gaining around 0.1%, as falling oil prices pushed bond yields lower on hopes that the Strait of Hormuz could soon reopen. Iran said it had resumed talks with Oman on managing the Strait of Hormuz, amid mounting pressure from US President Donald Trump during the nearly six-month conflict that has disrupted oil markets and fueled concerns over global inflation. Basic Resources led sectoral gains, rising around 1%, while the Energy index fell 1.1% as Brent crude declined for a third consecutive session. Technology shares slipped slightly as investors awaited Nvidia’s Q2 results, which are expected to provide further insight into the pace of AI-related spending. Attention is also turning to a key US inflation report due later today, which could offer further clues on the Federal Reserve’s interest-rate path."
+    },
+    {
+      "id": "5059294",
+      "time": "2026-08-26 15:28:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【融創房地產集團等被執行19億】天眼查法律訴訟資訊顯示，近日，融創房地產集團有限公司等新增七則被執行人資訊，執行標的合計19億餘元，執行法院為浙江省嘉興市中級人民法院、河南自由貿易試驗區鄭州片區人民法院。該公司成立於2003年1月，法定代表人為汪孟德，註冊資本150.15億人民幣，經營範圍包括房地產開發及商品房銷售、物業管理、自有房屋租賃、房地產資訊諮詢等。"
+    },
+    {
+      "id": "5059293",
+      "time": "2026-08-26 15:27:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據AMSPEC AGRI，馬來西亞8月1日至25日棕櫚油出口量為1,008,211噸，而7月1日至25日的出口量為1,137,581噸。"
+    },
+    {
+      "id": "mkt:01a03cf7-2470-7aab-9126-24fa0fe28a04",
+      "time": "2026-08-26 15:27:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea 1H births hit highest in nearly seven years】Statistics Korea said June, Q2 and 1H births were the highest in nearly seven years. June births totaled 23,111, up 3,115 YoY (+15.6%); monthly births have risen YoY for 24 consecutive months."
+    },
+    {
+      "id": "5059292",
+      "time": "2026-08-26 15:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯對受Wildberries網路攻擊影響企業給予稅收減免。"
+    },
+    {
+      "id": "5059291",
+      "time": "2026-08-26 15:26:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溢多利：持續開展塑膠降解酶開發 目前已取得階段性成果】溢多利(300381)8月26日在互動平臺表示，公司在持續開展塑膠降解酶的開發，研發方向包括分子改造、重組表達及產業應用，目前已取得階段性成果。"
+    },
     {
       "id": "5059290",
       "time": "2026-08-26 15:26:18",
@@ -149032,486 +149355,6 @@
         "國際"
       ],
       "text": "印尼央行行長：7月貸款增長強勁，增速超過13%，我們將努力維持這一增長勢頭。"
-    },
-    {
-      "id": "5047261",
-      "time": "2026-08-19 15:39:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【里昂：智譜GLM-5.3後訓練能力顯著提升 維持“跑贏大市”評級】里昂發表研究報告指，智譜(02513.HK) GLM-5.3 API即日起開放呼叫，在複雜編碼及長週期代理任務方面展現國內同業中領先效能，雖然引數規模較小，但在一眾基準測試中都取得開放權重SOTA表現，並在Artificial Analysis智慧指數中獲得60分，與Kimi 3持平，超越通義千問3.8 Max。該行估算GLM模型的OpenRouter收入份額已從今年1月的1%升至7月的7%，領先DeepSeek的6%及月之暗面的3%。認為DeepSeek近期加價反映行業競爭健康，而GLM 5.3已重奪帕累託前沿地位。近期股價疲弱或反映市場對Anthropic年化經常性收入減速的過度反應，維持智譜“跑贏大市”評級，目標價為2061港元。"
-    },
-    {
-      "id": "te:economy:576394",
-      "time": "2026-08-19 15:39:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India 10Y Yield Eases From Two-Week High — The yield on India’s 10-year G-Sec weakened to around 6.8%, retreating from recent gains as easing US Treasury yields and bargain buying after a two-day selloff supported demand for government bonds. The US 10-year Treasury yield eased to 4.686%, offering some relief to Indian debt, while foreign investors continued to show demand, buying $3.04 billion of Indian bonds in July, their second consecutive monthly inflow after India scrapped capital gains tax on interest and sales of government securities for overseas investors. The decline in yields was limited by elevated oil prices and renewed geopolitical risks, with Brent crude rising to around $92 a barrel as uncertainty over the Strait of Hormuz persisted. The benchmark bond yield had climbed to a two-week high on Tuesday following the RBI’s early withdrawal of its discounted forex swap facility for banks hedging diaspora deposits. Investors were also awaiting the RBI’s policy minutes for fresh interest-rate cues."
-    },
-    {
-      "id": "mkt:01a018f5-eae2-7aab-908f-0072ea2ae25c",
-      "time": "2026-08-19 15:39:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "02513.HK",
-        "Impact bullish"
-      ],
-      "text": "【CLSA: Zhipu GLM-5.3 shows marked capability gains; keeps Outperform, HK$2,061 TP】CLSA says Zhipu AI (02513.HK) has opened API access to GLM‑5.3, which leads domestic peers on complex coding and long‑horizon agent tasks. Despite a smaller parameter count, GLM‑5.3 posts open‑weight SOTA across benchmarks and scores 60 on the Artificial Analysis AI Index—level with Kimi 3 and above Alibaba’s Tongyi Qianwen 3.8 Max. CLSA estimates GLM models’ OpenRouter revenue share rose to 7% in July from 1% in January, ahead of DeepSeek at 6% and Moonshot AI at 3%; it views DeepSeek’s recent price increases as a sign of healthy competition and says GLM‑5.3 has reclaimed the Pareto frontier. CLSA flags that recent stock weakness may reflect an overreaction to slower annualized recurring revenue at Anthropic, and maintains an Outperform rating with a HK$2,061 target price."
-    },
-    {
-      "id": "mkt:01a018f5-e044-7aab-908e-fd248e96f53a",
-      "time": "2026-08-19 15:39:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Bank Indonesia governor said the central bank is working to keep the rupiah stable while monitoring spillovers to inflation."
-    },
-    {
-      "id": "5047260",
-      "time": "2026-08-19 15:39:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滬市科創板88家公司已披露半年報 收入增三成 利潤增逾一倍】截至8月19日，滬市科創板已有88家公司披露2026年半年度報告，合計實現營業收入2043億元，同比增長32%；實現淨利潤189億元，同比增長154%。其中，71家公司實現盈利，51家公司利潤增長，11家公司扭虧為盈。龍頭企業“壓艙石”作用尤為突出。已披露半年報的12家科創50指數成份股公司合計實現營業收入1174億元，同比增長25%；實現淨利潤92億元，同比增長216%，貢獻了板塊已披露半年報公司近六成的營業收入和近半數的淨利潤。"
-    },
-    {
-      "id": "mkt:01a018f5-4d92-7aab-908e-f29c5965e9b0",
-      "time": "2026-08-19 15:38:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Iran's discussions are currently limited to Oman on matters related to the Strait of Hormuz."
-    },
-    {
-      "id": "5047259",
-      "time": "2026-08-19 15:38:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：我們正全力維持印尼盾匯率穩定，同時監測溢位效應對通脹的影響。"
-    },
-    {
-      "id": "5047258",
-      "time": "2026-08-19 15:38:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達90億港元。"
-    },
-    {
-      "id": "5047257",
-      "time": "2026-08-19 15:37:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：我們推出的激勵措施為投資者提供了頗具吸引力的利差。"
-    },
-    {
-      "id": "te:economy:576392",
-      "time": "2026-08-19 15:37:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Consumer Confidence",
-        "Importance 0"
-      ],
-      "text": "Polish Consumer Morale Weakens in August — Poland’s current consumer confidence indicator fell to -11.3 in August 2026, worsening from -10.2 in the previous month. Evaluations of current major purchases deteriorated the most (-4.9 vs -1.6), while expectations for the country’s future economic situation also weakened (-19.3 vs -17.3). Expectations for households’ financial situation over the next 12 months declined (-3.1 vs -2.7), as did assessments of the country’s current economic situation (-23.8 vs -23.4). Meanwhile, households’ financial situation over the last 12 months improved (-5.4 vs -6.0). The leading consumer confidence indicator also deteriorated, falling to -7.6 from -7.3 in July, with expectations for future savings (-14.1 vs 16.3) and the country’s future economic situation (-19.3 vs -17.3) weakening, while expectations for unemployment improved (-22.2 vs -25.3)."
-    },
-    {
-      "id": "mkt:01a018f4-3198-7aab-908e-ea6d948a59d4",
-      "time": "2026-08-19 15:37:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【ECB's Lagarde: Europe must not miss AI revolution】ECB President Lagarde warned Europe must not fall behind as AI reshapes the global economy. Speaking at the World Economic Forum in Geneva, she cited survey data showing euro-area firms plan to allocate roughly 9% of total investment to AI this year. Lagarde said Europe largely missed the first digital revolution because the commercial gains from ICT diffusion accrued disproportionately elsewhere and warned Europe must not repeat that mistake with AI."
-    },
-    {
-      "id": "5047256",
-      "time": "2026-08-19 15:37:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：過去兩週印尼央行逆回購利率有所下降，但資本仍持續流入。"
-    },
-    {
-      "id": "mkt:01a018f3-5575-7aab-908e-e69f94e11e2f",
-      "time": "2026-08-19 15:36:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia governor says the central bank is keeping its benchmark rate unchanged but is using other measures to stabilize the rupiah."
-    },
-    {
-      "id": "5047255",
-      "time": "2026-08-19 15:36:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國電南自：2026年半年度淨利潤1.94億元，同比增長22.01%】國電南自公告，2026年上半年營業收入39.47億元，同比下降7.82%。歸屬於上市公司股東的淨利潤1.94億元，同比增長22.01%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.86億元，同比增長24.57%。基本每股收益0.19元。本報告期無利潤分配預案或公積金轉增股本預案。"
-    },
-    {
-      "id": "5047254",
-      "time": "2026-08-19 15:36:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：我們的政策具有創新性。"
-    },
-    {
-      "id": "5047253",
-      "time": "2026-08-19 15:36:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長表示：受全球因素帶來的壓力影響，我們目前仍將維持穩定作為工作重心。"
-    },
-    {
-      "id": "te:economy:576388",
-      "time": "2026-08-19 15:35:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Georgia",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Georgia Trade Gap Narrows in July — Georgia’s trade deficit narrowed to USD 909.1 million in July 2026 from USD 998.8 million in the same month a year earlier. Exports climbed 30% year-on-year to USD 793.9 million, while imports increased 5.8% to USD 1,703 million. In the January-July period, exports rose 21.6% to USD 4,670.2 million, driven by higher sales of oil and petroleum products (1,052%) and copper ores and concentrates (310.8%), while passenger cars declined 21.5%, though they remained the country’s top export product. Exports rose most to China (166.4%), Russia (6.2%), and Armenia (31.2%). Meanwhile, imports increased 2.4% to USD 10,849 million, supported by higher purchases of oil and petroleum products (32.7%) and medications (6.5%), while passenger cars fell 12.8%, though they also remained the most imported product. Imports rose most from China (22.3%), Russia (26.5%), and Turkey (5%). The country’s trade deficit for the January-July period narrowed to USD 6,178.9 million from USD 6,756.4 million last year."
-    },
-    {
-      "id": "mkt:01a018f2-50cb-7aab-908e-da00be3eb5c4",
-      "time": "2026-08-19 15:35:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank Indonesia governor said the Federal Reserve may keep interest rates higher for longer."
-    },
-    {
-      "id": "5047252",
-      "time": "2026-08-19 15:35:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行行長：美國利率可能在高位維持更久。"
-    },
-    {
-      "id": "5047251",
-      "time": "2026-08-19 15:34:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部亞洲司司長沈敏娟出席中國—東盟中心秘書長到離任招待會】2026年8月18日，外交部亞洲司司長沈敏娟應邀出席中國—東盟中心為新任秘書長張利忠、前任秘書長史忠俊舉辦的到離任招待會。沈敏娟表示，在雙方領導人共同關心和戰略引領下，中國東盟合作始終走在地區合作前列，合作成果可感可及，惠及各國民生。中方願同東盟一道建設好和平、安寧、繁榮、美麗、友好的共同家園，推動構建更為緊密的中國—東盟命運共同體，為地區發展和全球治理貢獻“正能量”。期待中心為中國東盟關係發展發揮更大作用。越南駐華大使範清平代表東盟致辭，高度評價中心工作，期待以東盟和中國建立全面戰略伙伴關係5週年為契機，進一步深化互利合作，共創美好未來。"
-    },
-    {
-      "id": "mkt:01a018f1-c324-7aab-908e-d415493b69c0",
-      "time": "2026-08-19 15:34:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Foreign Ministry: International adherence to One-China principle unshakeable】China's Foreign Ministry spokesperson Lin Jian said at a routine briefing on Aug. 19 that the international consensus to uphold the One-China principle is unshakeable. Lin said Beijing expressed appreciation for Malaysian Prime Minister Anwar's recent remark that Taiwan is part of China."
-    },
-    {
-      "id": "mkt:01a018f1-acf5-7aab-908e-cf3d96af7d41",
-      "time": "2026-08-19 15:34:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank Indonesia governor said global uncertainty is expected to persist for an extended period."
-    },
-    {
-      "id": "5047250",
-      "time": "2026-08-19 15:34:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長：全球不確定性預計將長期持續。"
-    },
-    {
-      "id": "5047249",
-      "time": "2026-08-19 15:34:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【皇崗口岸今日進行實戰演練】據深圳市人民政府口岸辦公室通報，2026年8月19日（週三）15時至17時30分，深圳市口岸辦在皇崗口岸聯檢大樓北下沉廣場開展防汛應急演練。 其間，皇崗口岸聯檢大樓內部積水、雨水倒灌、人員搶修、沙袋封堵、抽排積水等均為實戰演練場景，並非真實險情。請廣大市民不要恐慌，不要信謠、傳謠和造謠。 給大家帶來不便之處敬請諒解，感謝您的支援和配合。（大灣區之聲）"
-    },
-    {
-      "id": "mkt:01a018f1-4f6b-7aab-908e-c2cb2fc9a320",
-      "time": "2026-08-19 15:34:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "06683.HK"
-      ],
-      "text": "Juxing Chuanqi (06683.HK) fell more than 20% at the close, after rising 34.88% yesterday."
-    },
-    {
-      "id": "5047248",
-      "time": "2026-08-19 15:34:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "巨星傳奇(06683.HK)尾盤跌超20%，昨日收漲34.88%。"
-    },
-    {
-      "id": "mkt:01a018f0-e115-7aab-908e-be251ec44661",
-      "time": "2026-08-19 15:33:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry: China, Indonesia to follow leaders' strategic guidance to hold two mechanism meetings】On Aug. 19 China's Foreign Ministry said that during Wang Yi's upcoming visit to Indonesia the sides will hold two mechanism meetings, including a 2+2 meeting where Foreign Minister Wang and Defense Minister Dong Jun will conduct in‑depth exchanges with Indonesian counterparts on political-security and defense cooperation and on regional and international developments. China said it will coordinate development and security cooperation with Indonesia and accelerate building a China-Indonesia community with regional and global influence."
-    },
-    {
-      "id": "5047247",
-      "time": "2026-08-19 15:33:27",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投證券：擬派2026年中期股息每10股2.9元】中信建投證券公告稱，公司擬派發截至2026年6月30日止六個月的中期普通股息，每10股派發現金紅利人民幣2.90元（含稅）。H股股息以港幣派發，具體派息金額、匯率、除淨日、記錄日期、派息日等相關安排有待公佈。H股股東股息代扣所得稅將根據股東型別適用10%或20%等不同稅率。"
-    },
-    {
-      "id": "5047246",
-      "time": "2026-08-19 15:33:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新華醫療：子公司獲三類醫療器械註冊證】新華醫療公告稱，公司子公司新華手術器械有限公司近日收到國家藥品監督管理局頒發的三類《醫療器械註冊證》，產品名稱為一次性使用等離子手術電極，註冊證有效期至2031年8月16日。該產品與等離子手術裝置配合使用，用於開放或內窺鏡手術中耳鼻喉軟組織的切割、凝血，上市後將與公司現有相關產品形成協同，拓展微創手術解決方案服務邊界，其實際銷售情況取決於市場推廣效果，暫無法預測對公司未來業績的具體影響。"
-    },
-    {
-      "id": "5047245",
-      "time": "2026-08-19 15:32:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【別克至境L7純電版正式上市】8月19日，別克至境L7純電版正式上市，新車全系標配800V架構，支援6C控溫快充，續航超700km，搭載高通8775 AI晶片，配備懸浮減壓座椅，提供三款版本，上市權益價16.99萬元起。"
-    },
-    {
-      "id": "5047244",
-      "time": "2026-08-19 15:32:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中方願同印尼遵循兩國元首的戰略引領 辦好兩大機制會議】8月19日，外交部發言人林劍主持例行記者會。有記者就王毅外長即將訪問印尼及舉行有關機制會的相關情況提問。對此，林劍表示，在兩國元首戰略引領下，中印尼命運共同體建設深入推進，五大支柱合作取得豐碩成果。當前世界百年變局加速演進。中印尼作為發展中大國和全球南方主要代表，加強戰略溝通和團結協作具有重要意義。雙方啟動中國印尼全面戰略對話機制，舉行外長防長“2+2”對話機制第二次部長級會議，充分彰顯中印尼關係的高水平和戰略性。在全面戰略對話機制首次會上，雙方將著眼加強發展戰略對接，探討深化中印尼命運共同體建設的務實舉措，助力兩國的現代化程序。在“2+2”機制會上，王毅外長、董軍防長將同印尼重點就政治安全與防務合作、國際地區形勢等深入交換意見。中方願同印尼遵循兩國元首的戰略引領，辦好兩大機制會議，統籌推進發展與安全合作，加快構建具有地區和全球影響力的中印尼命運共同體，為各自國家人民帶來更多福祉，為地區和世界的和平發展作出更大貢獻。"
-    },
-    {
-      "id": "te:markets:576385",
-      "time": "2026-08-19 15:32:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natural Gas Prices Hold Advance — UK natural gas prices held recent gains, hovering above 157 pence per therm on Wednesday, as concerns over a potential winter supply crunch intensified amid a lack of progress on a deal to reopen the Strait of Hormuz. President Donald Trump said that no talks with Iran are currently taking place or scheduled and that the US naval blockade remains in full force. He added that the strait is open and operating, in contrast to Iran’s position that the key waterway will remain closed until Washington meets its conditions. Traffic through the waterway has fallen to a standstill, stranding Qatari LNG tankers and delaying deliveries to Europe. The reduced inflow, combined with summer heatwaves that have boosted demand for gas-fired power generation for cooling, is slowing the seasonal buildup of gas inventories. As a result, traders are increasingly concerned that Europe could enter the winter heating season with insufficient reserves, keeping upward pressure on gas prices."
-    },
-    {
-      "id": "mkt:01a018ef-9a6c-7aab-908e-b79d434bc2a8",
-      "time": "2026-08-19 15:32:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesian rupiah flat after Indonesia's central bank left policy rate unchanged."
-    },
-    {
-      "id": "5047243",
-      "time": "2026-08-19 15:32:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：新增20款已完成備案的生成式人工智慧服務】根據《生成式人工智慧服務管理暫行辦法》，截至2026年8月19日，北京市新增20款已完成備案的生成式人工智慧服務，累計已完成279款生成式人工智慧服務備案。"
-    },
-    {
-      "id": "mkt:01a018ef-8357-7aab-908e-aef9af3b15f3",
-      "time": "2026-08-19 15:32:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Beijing: 20 more generative AI services complete filings】As of Aug 19, 2026, Beijing said 20 additional generative AI services had completed filings under the Interim Measures for the Administration of Generative AI Services, bringing the cumulative total to 279."
-    },
-    {
-      "id": "5047242",
-      "time": "2026-08-19 15:32:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：諾和諾德在一項新的肥胖症研究中，開始測試低劑量Wegovy口服藥片。"
-    },
-    {
-      "id": "te:markets:576384",
-      "time": "2026-08-19 15:32:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.05% Higher — The FTSE 100 Index is up by 5 points or 0.05 percent on Wednesday. Top gainers are Melrose (1.19%), Rio Tinto (1.08%) and BT (0.99%). Biggest losses came from Smith & Nephew (-3.60%), Entain (-1.25%) and Land Securities (-1.02%)."
-    },
-    {
-      "id": "te:markets:576383",
-      "time": "2026-08-19 15:31:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.04% Higher — The DAX Index is gaining 10 points or 0.04 percent on Wednesday. Leading the gains are Deutsche Telekom (1.13%), BASF (0.92%) and Volkswagen (0.82%). Top losers are Zalando (-1.50%), Commerzbank (-1.10%) and Hannover Rueck (-0.94%)."
-    },
-    {
-      "id": "mkt:01a018ed-d3ea-7aab-908e-a6f9b7cdc1f0",
-      "time": "2026-08-19 15:30:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 0.97% at 944.95 yuan/gram on Aug 19 (Wednesday); silver T+D closed down 3.74% at 15,399.0 yuan/kg."
-    },
-    {
-      "id": "mkt:01a018ed-a316-7aab-908e-9b472b8795d7",
-      "time": "2026-08-19 15:30:21",
-      "tags": [
-        "MKT News",
-        "NVO.N",
-        "Impact bullish"
-      ],
-      "text": "Novo Nordisk (NVO.N) has begun testing a low-dose oral Wegovy tablet in a new obesity study."
-    },
-    {
-      "id": "te:markets:576381",
-      "time": "2026-08-19 15:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.29% Higher — The CAC 40 Index is picking up 25 points or 0.29 percent on Wednesday. Gains are led by Stellantis NV (2.50%), Edenred (1.53%) and Saint-Gobain (1.25%). Biggest losers are STMicroelectronics (-2.25%), Societe Generale (-1.59%) and Credit Agricole (-1.25%)."
-    },
-    {
-      "id": "5047241",
-      "time": "2026-08-19 15:29:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京鏈家：“誠意賣”服務範圍拓展至北京全市，近半數房源成交週期縮短至8天】8月19日，北京鏈家披露資料，自今年3月在北京42個片區落地“誠意賣”以來，累計上線房源268套，成交突破100單，整體成交率59.8%。北京鏈家宣佈，即日起，“誠意賣”正式將服務範圍拓展至北京全市，不再限定試點區域和房源配額；符合條件的房源，經經紀人綜合評估後，業主可報名參與。北京鏈家資料顯示，透過“誠意賣”成交的房源裡，超過一半此前掛牌超過90天，平均掛牌週期1"
-    },
-    {
-      "id": "5047240",
-      "time": "2026-08-19 15:29:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南方泵業：正按既定計劃穩步推進液冷相關業務】南方泵業8月19日在互動平臺表示，公司高度重視液冷行業發展契機，正全力開展產品研發、市場開拓等工作，但由於液冷行業作為新興高階應用場景，市場需求仍處於逐步釋放階段，同時產品認證週期較長，故目前在公司整體營收佔比較低。泵作為通用裝置，應用場景眾多，據瞭解應不存在單一做液冷泵的泵企。不同企業在技術路線、產品結構、客戶群體及應用場景上各有特點，公司專注於自身戰略，結合產品特點和資源稟賦正按既定計劃穩步推進液冷相關業務。"
-    },
-    {
-      "id": "mkt:01a018ec-9bdf-7aab-908e-9136b8c3f1fb",
-      "time": "2026-08-19 15:29:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry urges international resistance to Japanese right‑wing remilitarization】Aug 19 — Foreign Ministry spokesman Lin Jian said at a regular briefing that China supports Russian FM Lavrov’s Aug 17 remarks urging Japan to fully read the UN Charter, including Article 107 (the ‘‘enemy state’’ clause). Lin called the clause an important provision and warned the Takaichi administration is downplaying Japan’s wartime crimes, seeking to abandon pacifism, breach constitutional and international legal constraints and accelerate remilitarization. He described this as a blatant challenge to the post‑war international order and urged peace‑loving countries to jointly resist and block Japanese right‑wing forces to safeguard WWII victory and prevent a repeat of historical tragedy."
-    },
-    {
-      "id": "mkt:01a018ec-26fe-7aab-908e-8e02510153c0",
-      "time": "2026-08-19 15:28:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Goldman Sachs: rates shifting from \"central bank problem\" to \"bond supply problem\"】Goldman Sachs Delta-one head Rich Privorotsky says current rate pressure is increasingly a bond-supply problem. Recent US data has softened and pushed down short-end yields, but long-end yields remain under pressure as markets must absorb large sovereign deficits and potentially more than $1tln a year of AI-related capex increasingly financed via the debt markets. Privorotsky says markets will need higher real rates to absorb that supply, implying long-term yields may not fall even if growth weakens; the curve could remain split — short end driven by data and central bank policy, long end constrained by fiscal and financing supply. He flags an extreme scenario where a loss of anchoring at the long end forces the Fed to stay tighter amid weak data to flatten the curve and stabilise long-term rate expectations. He identifies the mid-term market’s biggest risk as long-end rates, not the timing of a single rate cut."
-    },
-    {
-      "id": "mkt:01a018eb-8e97-7aab-908e-85a6f8050915",
-      "time": "2026-08-19 15:28:05",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【U.S., South Korea to end annual joint exercises early; China says peace, political solution in all parties' interest】Aug 19 — The U.S. and South Korea announced they will end this year’s planned annual joint military exercises early. Days earlier President Trump had proposed scaling back the drills, citing his rapport with North Korean leader Kim Jong Un. At a regular briefing on Aug 19, Chinese Foreign Ministry spokesperson Lin Jian said Beijing had already addressed related questions and reiterated that maintaining peace and stability on the Korean Peninsula and promoting a political solution are in all parties’ common interest."
-    },
-    {
-      "id": "mkt:01a018eb-7120-7aab-908e-7e657b9352ea",
-      "time": "2026-08-19 15:27:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Magyar, Hungarian prime minister, said Dr. Baka András will assume the presidency of Hungary tomorrow."
-    },
-    {
-      "id": "5047239",
-      "time": "2026-08-19 15:27:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：國際社會應共同抵制和阻止日本右翼勢力危險動向】8月19日，外交部發言人林劍主持例行記者會。有記者提問，我們關注到俄羅斯外長拉夫羅夫17日對媒體表示，希望日本充分認真閱讀《聯合國憲章》，包括第一百零七條及“敵國條款”，日本當年是在承認軍國主義罪行，承認聯合國憲章全部內容的情況下加入聯合國，如果日本領導層試圖突破本國憲法約束，改寫國際法，逃避歷史責任，當然會引起嚴重擔憂。請問中方對此有何評論？林劍表示，中方贊同拉夫羅夫外長的有關表態，“敵國條款”是《聯合國憲章》的重要規定。今年是東京審判開庭80週年，重申敵國條款的含義，強調這一條款約束力，對於捍衛中國人民抗日戰爭和世界反法西斯戰爭勝利成果，嚴防軍國主義幽靈死灰復燃具有重要意義。如今高市政府卻對日本的歷史罪行避而不談，不僅不反思，還想方設法企圖拋棄和平主義，突破日本憲法和國際、國內法規制，圖謀加速“再軍事化”，這是對戰後國際秩序的公然挑戰，世界上所有愛好和平的國家，都應共同抵制和阻止日本右翼勢力這一危險動向，共同維護二戰勝利成果和戰後國際秩序，防止歷史悲劇重演。"
-    },
-    {
-      "id": "5047238",
-      "time": "2026-08-19 15:27:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：對馬來西亞總理安瓦爾的表態表示讚賞】8月19日，外交部發言人林劍主持例行記者會。有記者提問，據報道，馬來西亞總理安瓦爾近日接受採訪時表示，臺灣是中國的一部分。被問及如何看待中國在解決臺灣問題上不承諾放棄使用武力的立場時，安瓦爾表示，如果馬來西亞一個州執意分裂出去，他也會動用武力維護國家統一，否則國家就會四分五裂。中方對此有何評論?林劍表示，堅持一箇中國原則是人心所向、大義所在，國際社會堅持一箇中國原則的基本格局不可撼動。中方對安瓦爾總理的表態表示讚賞。“我想再次強調，世界上只有一箇中國，臺灣是中國領土不可分割的一部分。中國必須統一，也必然統一，這是改變不了的歷史大勢。”林劍說。（北京日報）"
     }
   ]
 }
