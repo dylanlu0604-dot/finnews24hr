@@ -1,7 +1,124 @@
 {
   "date": "2026-08-27",
-  "count": 312,
+  "count": 324,
   "items": [
+    {
+      "id": "5060851",
+      "time": "2026-08-27 04:28:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：已與龐大的供應商網路展開合作，以保障滿足未來數年需求所需的關鍵零部件供應。"
+    },
+    {
+      "id": "mkt:01a03fc2-6059-7aab-9138-02cd9217bad6",
+      "time": "2026-08-27 04:28:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O): As of July 26, fiscal-year future commitments totalled $279 bln, mainly for storage-chip purchases."
+    },
+    {
+      "id": "5060850",
+      "time": "2026-08-27 04:27:37",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達：截至7月26日，按財年統計的未來承諾總額升至2790億美元，主要涉及記憶體採購事項。"
+    },
+    {
+      "id": "5060849",
+      "time": "2026-08-27 04:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：預計將把資料中心租賃業務轉租給第三方。"
+    },
+    {
+      "id": "5060848",
+      "time": "2026-08-27 04:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查顯示，週四EIA報告料顯示上週美國天然氣庫存增加200億立方英尺。"
+    },
+    {
+      "id": "mkt:01a03fc1-6103-7aab-9137-fa201cd3a54d",
+      "time": "2026-08-27 04:27:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA (NVDA.O): Vera Rubin enters full production."
+    },
+    {
+      "id": "5060847",
+      "time": "2026-08-27 04:27:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：第二季度超大規模營收同比翻逾一倍。"
+    },
+    {
+      "id": "mkt:01a03fc1-2a9e-7aab-9137-f1981b91c3c0",
+      "time": "2026-08-27 04:26:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) revenue from hyperscale cloud service providers rose 13% sequentially in its fiscal second quarter and more than doubled year-on-year."
+    },
+    {
+      "id": "5060846",
+      "time": "2026-08-27 04:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：已與供應商開展合作以保障關鍵零部件供應。"
+    },
+    {
+      "id": "5060845",
+      "time": "2026-08-27 04:26:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：已簽署期限約15年的資料中心租賃協議。"
+    },
+    {
+      "id": "5060844",
+      "time": "2026-08-27 04:25:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：客戶承諾訂單從1190億美元環比增至2790億美元。"
+    },
+    {
+      "id": "mkt:01a03fc0-2925-7aab-9137-eeb520548f65",
+      "time": "2026-08-27 04:25:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) will pay a quarterly cash dividend of $0.25 per share."
+    },
     {
       "id": "5060843",
       "time": "2026-08-27 04:25:31",
