@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-27 04:30:30",
-  "count": 16659,
+  "updated": "2026-08-27 04:34:32",
+  "count": 16660,
   "items": [
+    {
+      "id": "mkt:01a03fc6-c2c9-7aab-9138-0b8a5c952846",
+      "time": "2026-08-27 04:33:05",
+      "tags": [
+        "MKT News",
+        "CRM.O",
+        "Impact bullish"
+      ],
+      "text": "【Salesforce jumps 12% after-hours on revenue beat and $2.6 bln ANTHROPIC gain】Salesforce (CRM.N) jumped about 12% in after-hours trading on Wednesday after reporting Q2 revenue of $11.35 bln, modestly above expectations, and net income of $3.53 bln, up 87% YoY. The company said it recorded a $2.6 bln strategic gain from its investment in ANTHROPIC. For Q3 Salesforce expects adjusted EPS of $3.42–3.44 versus analysts' $3.38 estimate and revenue of $11.42–11.50 bln versus $11.41 bln consensus. Full-year EPS guidance is $16.67–16.71 and revenue $46.1–46.4 bln, implying roughly 11% growth at the midpoint."
+    },
+    {
+      "id": "5060857",
+      "time": "2026-08-27 04:31:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "5060854",
+      "time": "2026-08-27 04:31:04",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【英偉達Q2營收962億美元，同比大增106%】英偉達第二季度總營收962億美元，環比增長18%，同比大增106%；資料中心業務營收890億美元，同比上漲117%，成為業績核心驅動力。本季度通用會計準則與非通用會計準則毛利率均達75%，GAAP攤薄每股收益2.46美元，非GAAP攤薄每股收益2.22美元。英偉達給出三季度指引，預期營收1080億美元（浮動±2%），該預期未計入中國區資料中心算力業務收入，毛利率預期74%。二季度公司透過回購與分紅向股東返還260億美元，剩餘回購授權額度990億美元。業務層面，Blackwell、Vera Rubin平臺全面投產，同時推進長期資料中心租賃模式，客戶承諾訂單環比由1190億美元飆升至2790億美元。公司聯合多家資方，計劃撬動超5000億美元第三方資本投入AI基建，同時佈局邊緣計算、物理AI、人形機器人等賽道。黃仁勳表示AI已經迎來產業拐點，全球AI基礎設施建設正全速推進。"
+    },
     {
       "id": "5060851",
       "time": "2026-08-27 04:28:34",
@@ -150156,27 +150184,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.17% Higher — The Dow Jones Index rose 89 points or 0.17 percent on Wednesday to close at 53433 points. Leading the gains are Merck (12.68%), Salesforce (4.80%) and Amgen (3.08%). Top losers were Caterpillar (-3.09%), Goldman Sachs (-1.78%) and Honeywell International (-1.66%)."
-    },
-    {
-      "id": "te:markets:576607",
-      "time": "2026-08-20 04:33:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Higher as Miners Rally — The S&P/TSX Composite Index edged 0.1% higher to close at 36,402 on Wednesday, lifted by a rally in mining stocks. Gold prices rose to their highest level since early June, tracking a rally in long-dated US Treasuries after the Treasury Department doubled its buyback of notes and bonds for the upcoming financial quarter. Major gold miners gained up to 12%, with Agnico Eagle surging 10.5%, Barrick adding 6.7% and WPM soaring 10.4%. Meanwhile, financials weighed on the index as oil prices extended gains, fueling inflation concerns. RBC shed 3.1%, TD Bank lost 3.5%, BMO fell 4.4%, CIBC retreated 3.7% and Scotiabank dropped 3.3%. Energy stocks posted losses despite higher oil prices, with Canadian Natural down 0.7% and Suncor losing 1%. Elsewhere, US President Trump paused 50% tariffs on select Canadian goods and signaled a trade deal with Canada was near. Still, reports indicated metals would remain tariffed. Industrials posted losses, with Enbridge down 2.7%."
-    },
-    {
-      "id": "mkt:01a01bba-1517-7aab-90a2-3a4876d772e0",
-      "time": "2026-08-20 04:32:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US federal debt tops $40 trillion】US federal debt topped $40.0 trillion on Tuesday, the Treasury Department said on Wednesday. Debt rose about $3.0 trillion in the past year — the fastest annual increase outside the pandemic — as federal borrowing accelerated. The total has climbed from under $6.0 trillion at the turn of the century and has roughly doubled over the past decade. The Congressional Budget Office projects publicly held federal debt-to-GDP will exceed the post‑war peak of 106% around 2030 and reach about 120% by 2036. A senior director at the Committee for a Responsible Federal Budget said the pace is a clear signal the situation is out of control."
     }
   ]
 }
