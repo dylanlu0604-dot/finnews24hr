@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-27 01:51:26",
-  "count": 16707,
+  "updated": "2026-08-27 01:56:00",
+  "count": 16700,
   "items": [
+    {
+      "id": "5060705",
+      "time": "2026-08-27 01:52:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "RevMed 高管表示，該胰腺癌口服藥今日正式上市，定價為每月 39800 美元。"
+    },
+    {
+      "id": "5060704",
+      "time": "2026-08-27 01:51:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級將伊利諾伊州信用評級從 A2 上調至 A1，全部評級上調一檔，對新普通責任債券授予 A1 評級，展望穩定。"
+    },
     {
       "id": "5060703",
       "time": "2026-08-27 01:48:43",
@@ -150713,89 +150729,6 @@
         "Impact bullish"
       ],
       "text": "Meta Platforms (META.O) announced the launch of a new Meta AI offering targeted at small businesses."
-    },
-    {
-      "id": "mkt:01a01b2a-4094-7aab-909f-00ec882f6cc8",
-      "time": "2026-08-20 01:55:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Hungary's prime minister said the Paks nuclear power plant could reach full-capacity operation next Thursday or Friday."
-    },
-    {
-      "id": "mkt:01a01b2a-21ca-7aab-909e-fc43b54d22b8",
-      "time": "2026-08-20 01:55:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Hungary's prime minister said the Paks nuclear power plant may begin restarting six idled turbines from Sunday."
-    },
-    {
-      "id": "mkt:01a01b29-5afb-7aab-909e-f44c63965bc1",
-      "time": "2026-08-20 01:54:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "【U.S.-Canada talks could cut Canada steel, aluminum tariffs to 25%】U.S. and Canadian negotiators are discussing a temporary trade deal that would reduce U.S. tariffs on some Canadian steel and aluminum products to 25%, people familiar with the talks said. Details are not final and the cut would not apply to all steel and aluminum items; some derivative products containing steel or aluminum may carry different rates. Talks continued Wednesday after Trump paused planned 50% tariffs on billions of dollars of Canadian goods less than 24 hours earlier to allow more time for negotiations. The proposed adjustment could help secure a durable agreement and avert broader tariff measures ahead of a Friday deadline."
-    },
-    {
-      "id": "5048468",
-      "time": "2026-08-20 01:54:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta：面向小型企業推出全新Meta AI功能。"
-    },
-    {
-      "id": "5048467",
-      "time": "2026-08-20 01:53:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理稱，帕克斯核電站可能於週日開始重啟六臺閒置的渦輪機。"
-    },
-    {
-      "id": "mkt:01a01b27-f08e-7aab-909e-edc9f09b6ade",
-      "time": "2026-08-20 01:53:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen defense ministry: Presidential Leadership Council ordered appointment of Hashim Abdullah Hussein Al-Ahmar as military adviser to the Supreme Commander of the Armed Forces and promoted him to lieutenant general."
-    },
-    {
-      "id": "5048466",
-      "time": "2026-08-20 01:52:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，多瑙河水位將保持足夠高度，保克什核電站避免停運。"
-    },
-    {
-      "id": "mkt:01a01b27-241b-7aab-909e-e6df527e6c2b",
-      "time": "2026-08-20 01:52:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's prime minister says the Paks nuclear power plant will avoid shutdown as Danube river levels are expected to remain sufficiently high."
-    },
-    {
-      "id": "5048465",
-      "time": "2026-08-20 01:51:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貨幣市場基金資產在截至8月18日的一週內增加261.8億美元。"
     }
   ]
 }
