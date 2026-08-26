@@ -1,7 +1,245 @@
 {
-  "updated": "2026-08-26 18:58:21",
-  "count": 16681,
+  "updated": "2026-08-26 19:02:29",
+  "count": 16685,
   "items": [
+    {
+      "id": "mkt:01a03dbb-a297-7aab-912b-85519ec2c1e8",
+      "time": "2026-08-26 19:01:42",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bullish"
+      ],
+      "text": "Deutsche Bank raises Moderna (MRNA.O) price target to $125 from $45."
+    },
+    {
+      "id": "5060047",
+      "time": "2026-08-26 19:01:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "科爾士盤前股價收復此前跌幅，大漲 10%。"
+    },
+    {
+      "id": "5060046",
+      "time": "2026-08-26 19:01:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【馬礦股份：首次公開發行股票並在主機板上市發行結果出爐馬礦股份公告稱，公司首次公開發行A股並在主機板上市，發行價格6.65元/股，發行數量12350萬股，全部為新股，無老股轉讓。最終戰略配售2470萬股，佔發行總量20%；啟動回撥後，網下最終發行2964萬股，佔扣除戰略配售後發行量的30%，網上最終發行6916萬股，佔比70%，網上中籤率0.03225550%。網上投資者放棄認購23.0757萬股，網下無放棄認購，棄購股份全部由保薦人中信證券包銷，包銷金額153.45萬元。本次發行費用總額6287.77萬元。"
+    },
+    {
+      "id": "5060045",
+      "time": "2026-08-26 19:01:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "市場訊息：芝商所（CME）集團將在四季度推出風能期貨和期權。"
+    },
+    {
+      "id": "mkt:01a03dbb-0acd-7aab-912b-7c7af985b89d",
+      "time": "2026-08-26 19:01:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CME Group to launch wind energy futures and options in Q4."
+    },
+    {
+      "id": "5060044",
+      "time": "2026-08-26 19:00:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【北京口岸出入境人員突破1500萬人次】北京邊檢總站資料顯示，截至8月25日，北京口岸今年出入境人員突破1500萬人次，外國人入出境488萬人次，同比增長31.6%，其中享受免籤和臨時入境許可政策入境的外國人達186萬人次，佔入境外國人總數的74.5%。在相關入境便利化政策影響下，大量外籍旅客選擇經北京口岸過境來華開展旅遊、商務交流活動。（新華社）"
+    },
+    {
+      "id": "mkt:01a03dba-5d58-7aab-912b-71b2f1113b98",
+      "time": "2026-08-26 19:00:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate for the week to Aug. 21 was 6.78%, versus 6.77% the prior week."
+    },
+    {
+      "id": "mkt:01a03dba-3e81-7aab-912b-68981ef5ff96",
+      "time": "2026-08-26 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US MBA mortgage applications index for the week to Aug. 21 was 245.3, down from 247.7 a week earlier."
+    },
+    {
+      "id": "mkt:01a03dba-3e1c-7aab-912b-637ca1e41edc",
+      "time": "2026-08-26 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US MBA mortgage refinance index for week ended Aug 21: 740.8; prior 755.9."
+    },
+    {
+      "id": "mkt:01a03dba-3db4-7aab-912b-595dee9d9d2a",
+      "time": "2026-08-26 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US MBA mortgage purchase index for week to Aug. 21 154.4, prior 154.8."
+    },
+    {
+      "id": "5060043",
+      "time": "2026-08-26 19:00:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月21日當週MBA抵押貸款申請活動指數週環比 -1%，前值 -0.4%。"
+    },
+    {
+      "id": "mkt:01a03dba-1514-7aab-912b-3f3062547c49",
+      "time": "2026-08-26 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Aug.21) | actual 6.78% | previous 6.77%"
+    },
+    {
+      "id": "mkt:01a03dba-1518-7aab-912b-465b35ff7627",
+      "time": "2026-08-26 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Aug.21) | actual 154.4 | previous 154.8"
+    },
+    {
+      "id": "mkt:01a03dba-1577-7aab-912b-4ea168c809ad",
+      "time": "2026-08-26 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Aug.21) | actual 245.3 | previous 247.7"
+    },
+    {
+      "id": "mkt:01a03dba-1578-7aab-912b-53e414d17068",
+      "time": "2026-08-26 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Aug.21) | actual 740.8 | previous 755.9"
+    },
+    {
+      "id": "5060042",
+      "time": "2026-08-26 18:59:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【章建平Q2新進成為亨通光電第五大股東】據亨通光電(600487.SH)半年報顯示，章建平新進成為第五大股東，持有3441.61萬股，佔總股本比例1.40%。前十大股東不排除重名情況。"
+    },
+    {
+      "id": "5060041",
+      "time": "2026-08-26 18:59:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【年內超20城發文 房貸貼息政策有望加速落地】根據中指研究院不完全統計，2026年以來，全國已有超20地出臺或最佳化住房貸款貼息相關政策，按貸款金額比例貼息、按還款利息比例貼息、運用公積金對商業貸款貼息成為最常見的三種型別。該機構認為，貼息已成為精細化支援住房消費、降低置業成本的重要政策工具，預計將有更多城市落地跟進。（21財經）"
+    },
+    {
+      "id": "5060040",
+      "time": "2026-08-26 18:59:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新建合武高鐵宋埠特大橋完成轉體施工】8月25日，由中鐵一局承建的新建合武高鐵宋埠特大橋順利完成轉體施工。 宋埠特大橋位於湖北麻城。25日下午，在工程技術人員的控制下，大橋重達萬餘噸、長160餘米的橋體在既有麻武鐵路上空開始“空中轉身”，歷時27分鐘，精準完成28度轉體，實現“毫米級”精度對接。大橋順利完成轉體施工，為後續箱梁架設及全線通車創造了有利條件。（新華社）"
+    },
+    {
+      "id": "mkt:01a03db9-620d-7aab-912b-36e6fb978682",
+      "time": "2026-08-26 18:59:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PEZESHKIAN says MoU a 'proud document', Iran viewed as winner】Al Jazeera reported President PEZESHKIAN said the recently concluded memorandum of understanding is \"a proud document\" and that global analysts broadly view Iran as the winner. He added Iranians have demonstrated they will fight if necessary and will not back down, but that war is not always a solution."
+    },
+    {
+      "id": "5060039",
+      "time": "2026-08-26 18:59:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【值得買：兩名董事擬合計減持不超2.90%股份】值得買公告稱，持股5%以上股東、董事、高階管理人員劉峰持有公司股份1531.61萬股，佔總股本7.70%，計劃自2026年9月18日至2026年12月17日以集中競價或大宗交易方式減持不超過377.83萬股，佔總股本1.90%；股東、董事劉超持有公司股份908.06萬股，佔總股本4.57%，計劃同期以同樣方式減持不超過198.86萬股，佔總股本1.00%。二者減持原因均為個人資金需求，減持價格不低於發行價，本次減持不會導致公司控制權變更。"
+    },
+    {
+      "id": "5060038",
+      "time": "2026-08-26 18:58:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保隆科技：2026年上半年淨利潤2.64億元，同比增長95.79%】 保隆科技公告，2026年上半年營業收入46.84億元，同比增長18.59%；歸屬於上市公司股東的淨利潤2.64億元，同比增長95.79%，2025年上半年為1.35億元；扣除非經常性損益的淨利潤1.38億元，同比增長40.29%，2025年上半年為9842.95萬元。公司擬以2026年6月30日總股本2.14億股為基數，每股派發現金紅利0.38元（含稅），擬派發現金股利8132.97萬元（含稅）。"
+    },
+    {
+      "id": "5060037",
+      "time": "2026-08-26 18:58:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【本輪巴以衝突已致加沙地帶73438人死亡】 當地時間26日，加沙地帶衛生部門表示，在過去24小時內，加沙各醫院共接收了7名死者和10名傷員。據統計，自2023年10月7日新一輪巴以大規模衝突爆發以來，加沙地帶累計遇難人數已達73438人，另有17.44萬人受傷。（央視新聞）"
+    },
+    {
+      "id": "5060036",
+      "time": "2026-08-26 18:58:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長亮科技：2026年上半年淨利潤虧損4465.32萬元，2025年同期虧損1910.85萬元】長亮科技公告，2026年上半年營業收入8.37億元，同比增長25.92%；歸屬於上市公司股東的淨利潤虧損4465.32萬元，2025年同期虧損1910.85萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4625.69萬元，2025年同期虧損2231.56萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5060035",
+      "time": "2026-08-26 18:58:27",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【全國政協十四屆常委會第十八次會議閉幕 王滬寧主持並講話】\n政協第十四屆全國委員會常務委員會第十八次會議26日下午在京閉幕，會議以“加大保障和改善民生力度，紮實推進全體人民共同富裕”為議題協商議政。中共中央政治局常委、全國政協主席王滬寧主持閉幕會並講話。他表示，中共十八大以來，以習近平同志為核心的中共中央堅持以人民為中心的發展思想，部署打贏人類歷史上規模最大的脫貧攻堅戰，建成世界上規模最大的教育體系、社會保障體系、醫療衛生體系、城市住房保障體系，全方位、持續性地提高人民生活品質、增強群眾獲得感幸福感安全感，民生事業發展取得歷史性成就，全體人民共同富裕邁出堅實步伐。我們要深刻領悟“兩個確立”的決定性意義、堅決做到“兩個維護”，堅持人民政協為人民，協助黨和政府增進人民福祉、穩步推動全體人民共同富裕，為加快推進中國式現代化廣泛凝聚人心、凝聚共識、凝聚智慧、凝聚力量。\n王滬寧表示，共同富裕是社會主義現代化的重要目標，中國式現代化，民生為大。人民政協要深入學習領會習近平總書記關於加大保障和改善民生力度、紮實推進全體人民共同富裕的重要論述，圍繞中共二十屆四中全會《建議》和“十五五”規劃綱要相關任務部署，緊扣加強“十五五”時期民生建設、促進高質量充分就業、完善收入分配製度、辦好人民滿意的教育、健全社會保障體系、加快建設健康中國等方面問題，組織政協委員多建利民之言、多做惠民之事，助推黨和國家決策部署落地見效，讓現代化建設成果更多更公平惠及全體人民。要高質量完成全國政協全年工作任務，持續抓好協商議政工作，認真辦好重要紀念和團結聯誼活動。（新華社）"
+    },
+    {
+      "id": "mkt:01a03db8-5e0a-7aab-912b-2ec2787c2368",
+      "time": "2026-08-26 18:58:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA Q2 outlook strong as Wall Street shifts focus to off-balance-sheet AI commitments】Wall Street has shifted attention from NVIDIA (NVDA.O)’s likely robust Q2 results to potential off-balance-sheet AI-related credit exposure that analysts say could reach $200 billion by 2028. Investors are seeking clarification on contingent commitments tied to AI infrastructure financing, supply and power. Despite those concerns, NVIDIA’s Q2 revenue is forecast to nearly double to $92.2 billion, led by continued strength in data-center demand."
+    },
+    {
+      "id": "mkt:01a03db7-f85a-7aab-912b-23b05bfa1aa8",
+      "time": "2026-08-26 18:57:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's National Development and Reform Commission urgently allocated 100 million yuan from the central budget to support emergency post-debris-flow recovery in Gyirong County, Shigatse, Tibet."
+    },
     {
       "id": "5060033",
       "time": "2026-08-26 18:56:45",
@@ -150277,222 +150515,6 @@
         "國際"
       ],
       "text": "【波蘭不會提高免稅免稅額，以控制財政赤字】波蘭總理唐納德・圖斯克在華沙舉行的新聞釋出會上表示，受俄羅斯方面威脅，該國需要維持約佔國內生產總值 5% 的高額國防開支，未來 18 個月無力上調免稅免稅額。 他同時稱，內閣已確立一條 “鐵律”，不會提出會擴大財政赤字的政策舉措。"
-    },
-    {
-      "id": "mkt:01a019af-b787-7aab-9094-d3df080dda13",
-      "time": "2026-08-19 19:02:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Traders said seaborne crude exports from Russia's western ports averaged 2.3 million bpd in the first half of August, about 15% below initial plans after a disruption at the Novorossiysk port."
-    },
-    {
-      "id": "5047774",
-      "time": "2026-08-19 19:02:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "Moderna美股盤前漲超80%。"
-    },
-    {
-      "id": "5047773",
-      "time": "2026-08-19 19:01:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta推出“Meta創業學校”，面向早期階段初創公司。"
-    },
-    {
-      "id": "5047772",
-      "time": "2026-08-19 19:01:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "貿易商稱，8月上半月俄羅斯西部港口海運原油出口量為每日230萬桶。"
-    },
-    {
-      "id": "5047771",
-      "time": "2026-08-19 19:01:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4370美元/盎司，日內漲0.83%。"
-    },
-    {
-      "id": "5047770",
-      "time": "2026-08-19 19:01:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列軍方稱，軍方就 2025 年加沙南部 15 名救援人員遇害事件啟動刑事調查。"
-    },
-    {
-      "id": "mkt:01a019ae-e63f-7aab-9094-cd432981529e",
-      "time": "2026-08-19 19:01:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli military says it has opened a criminal investigation into a 2025 incident in southern Gaza that killed 15 aid workers."
-    },
-    {
-      "id": "te:markets:576475",
-      "time": "2026-08-19 19:01:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Posts 4th Session of Losses — India’s BSE Sensex closed about 0.4% down at 76,909.7 on Wednesday, the lowest since July 28, marking the fourth straight session of losses. Sentiment remained cautious amid rising oil prices, elevated global bond yields and geopolitical uncertainty, with traders also awaiting the release of the FOMC minutes for clues on the Fed interest rate path. Foreign outflows remained a key drag on Indian equities, with foreign investors withdrawing a record $25 billion so far this year despite turning net buyers on Tuesday. Among individual stocks, Power Grid Corporation (-2%), Bajaj Finance (-1.3%), Larsen & Toubro (-1.3%), ITC (-1.2%) and Hindustan Unilever (-1%) posted the biggest losses. On the other hand, HCL Technologies (+1.7%), Eternal (+1.3%), Kotak Mahindra Bank (+1.2%) and Sun Pharmaceutical Industries (+1.2%) were the notable gainers."
-    },
-    {
-      "id": "5047769",
-      "time": "2026-08-19 19:00:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非 6 月零售銷售額環比下降 0.6%，預期 0%。"
-    },
-    {
-      "id": "5047768",
-      "time": "2026-08-19 19:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非 6 月零售銷售額同比上升 1.6%，預期 + 2.5%  。"
-    },
-    {
-      "id": "mkt:01a019ad-b6a6-7aab-9094-c513c3867827",
-      "time": "2026-08-19 19:00:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US MBA mortgage purchase index for week ended Aug 14 at 154.8, down from 157.9 the prior week."
-    },
-    {
-      "id": "5047767",
-      "time": "2026-08-19 19:00:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國8月14日當週MBA抵押貸款申請活動指數週環比 -0.4%，前值 3.6%。"
-    },
-    {
-      "id": "mkt:01a019ad-af29-7aab-9094-bf4de8e6c5c9",
-      "time": "2026-08-19 19:00:07",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "MBA mortgage refinance index for the week to Aug. 14 rose to 755.9 from 744.4 the prior week."
-    },
-    {
-      "id": "mkt:01a019ad-ab46-7aab-9094-b5144b5a149d",
-      "time": "2026-08-19 19:00:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "U.S. MBA 30-year fixed mortgage rate for the week ended Aug. 14 was 6.77%, unchanged from the prior week's 6.77%."
-    },
-    {
-      "id": "mkt:01a019ad-ab06-7aab-9094-ae687438e79b",
-      "time": "2026-08-19 19:00:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US MBA mortgage application index for week ending Aug 14: 247.7, prior 248.6."
-    },
-    {
-      "id": "mkt:01a019ad-9179-7aab-9094-a2a3faf4cb67",
-      "time": "2026-08-19 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (Aug.14) | actual 154.8 | previous 157.9"
-    },
-    {
-      "id": "mkt:01a019ad-913a-7aab-9094-9f456e51d257",
-      "time": "2026-08-19 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (Aug.14) | actual 755.9 | previous 744.4"
-    },
-    {
-      "id": "mkt:01a019ad-911b-7aab-9094-941425b1da0c",
-      "time": "2026-08-19 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (Aug.14) | actual 247.7 | previous 248.6"
-    },
-    {
-      "id": "mkt:01a019ad-90f2-7aab-9094-88c62094879b",
-      "time": "2026-08-19 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (Aug.14) | actual 6.77% | previous 6.77%"
-    },
-    {
-      "id": "5047766",
-      "time": "2026-08-19 18:59:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "默克公司股價延續漲勢，盤前上漲6.2%，此前與Moderna宣佈 Intismeran 三期臨床試驗達到主要終點。試驗顯示該疫苗可預防黑色素瘤復發。"
-    },
-    {
-      "id": "5047765",
-      "time": "2026-08-19 18:59:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【BioNTech美股盤前漲超10%】BioNTech美股盤前漲超10%，現報102.49美元。"
-    },
-    {
-      "id": "5047764",
-      "time": "2026-08-19 18:59:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【默沙東盤前漲5.79% Moderna盤前一度漲超50%】默沙東盤前漲5.79%，現報143.00美元，Moderna盤前一度漲超50%。訊息面上，默沙東與Moderna聯合開發的個體化新抗原療法Intismeran Autogene聯用Keytruda在III期黑色素瘤試驗中達到主要終點，並將就上市申請與監管機構溝通。"
     }
   ]
 }
