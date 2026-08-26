@@ -1,7 +1,24 @@
 {
   "date": "2026-08-26",
-  "count": 498,
+  "count": 500,
   "items": [
+    {
+      "id": "mkt:01a03b75-cbcf-7aab-911c-49c5ec178fa0",
+      "time": "2026-08-26 08:26:10",
+      "tags": [
+        "MKT News",
+        "CRM.N"
+      ],
+      "text": "The Information reports OpenAI hired many salespeople from Salesforce (CRM.N) to pitch its AI to large enterprises; several have since returned to Salesforce, accelerating a reorganization of OpenAI’s enterprise sales team."
+    },
+    {
+      "id": "5058663",
+      "time": "2026-08-26 08:26:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大回應特朗普又想給湖改名】對於美國總統特朗普8月25日發帖稱“正考慮將（美加邊境的）安大略湖改名‘美國湖’”，加拿大方面當天回應稱，“我們永遠都會叫它安大略湖。這沒什麼好商量的。”加拿大工業部長梅拉妮·喬利說，“聖勞倫斯河和五大湖是加拿大立國的根基之一。我們將堅決捍衛屬於我們的東西。面對如此鬧劇，我們要保持理智、講究策略，並予以反擊。”特朗普在社交媒體上發帖稱，“正在認真考慮將安大略湖更名為‘美國湖’，因為預計未來不會再與（加拿大）安大略省有太多經貿往來。” 安大略湖地處美國與加拿大交界處，是五大湖中最東端且面積最小的湖泊。湖北岸‌接壤加拿大安大略省，南岸‌毗鄰美國紐約州。 美國與加拿大貿易談判上週破裂，關稅爭端不斷升級，雙方更是爆發了一場激烈的口水戰，加拿大安大略省省長道格·福特和特朗普之間互相攻擊。 （CCTV國際時訊 ）"
+    },
     {
       "id": "5058662",
       "time": "2026-08-26 08:25:09",
