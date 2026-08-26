@@ -1,7 +1,112 @@
 {
-  "updated": "2026-08-27 04:01:54",
-  "count": 16630,
+  "updated": "2026-08-27 04:05:58",
+  "count": 16637,
   "items": [
+    {
+      "id": "5060812",
+      "time": "2026-08-27 04:05:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "賽富時盤後股價上漲7%，此前該公司上調了2027財年銷售預期。"
+    },
+    {
+      "id": "mkt:01a03fac-a083-7aab-9137-a478bd4480ef",
+      "time": "2026-08-27 04:04:32",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US stocks closed lower on Wednesday, Aug. 26: Dow Jones Industrial Average fell 112.81 points (-0.21%) to 53,464.59; S&P 500 down 1.46 points (-0.02%) to 7,675.82; Nasdaq Composite down 21.10 points (-0.08%) to 26,130.20."
+    },
+    {
+      "id": "5060811",
+      "time": "2026-08-27 04:04:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：下半年有機收入有望重新提速。"
+    },
+    {
+      "id": "5060810",
+      "time": "2026-08-27 04:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "賽富時：隨著第二季度美元走強，目前預計，與先前指引相比，匯率波動對業務的順風效應將減弱。"
+    },
+    {
+      "id": "te:markets:578365",
+      "time": "2026-08-27 04:03:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Salesforce earnings above expectations at 5.90 USD — Salesforce (CRM) released earnings per share at 5.90 USD, compared to market expectations of 3.28 USD."
+    },
+    {
+      "id": "5060809",
+      "time": "2026-08-27 04:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時預計250億美元加速股票回購計劃將於2026年10月完成最終交割。"
+    },
+    {
+      "id": "5060808",
+      "time": "2026-08-27 04:03:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時第二季度營收為113.5億美元，高於市場預期。"
+    },
+    {
+      "id": "5060807",
+      "time": "2026-08-27 04:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時上調2027財年業績預期，預計營收區間為461億至464億美元。"
+    },
+    {
+      "id": "5060806",
+      "time": "2026-08-27 04:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：上調2027財年每股收益指引至16.67美元至16.71美元。"
+    },
+    {
+      "id": "5060805",
+      "time": "2026-08-27 04:02:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "賽富時公佈季度業績後，其股價在盤後交易中上漲4.6%。"
+    },
+    {
+      "id": "5060804",
+      "time": "2026-08-27 04:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時預計第三季度調整後每股收益3.42‑3.44美元，市場預期3.39美元。"
+    },
+    {
+      "id": "5060803",
+      "time": "2026-08-27 04:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時第二季度調整後營業利潤38.7億美元，預期38.1億美元。"
+    },
     {
       "id": "mkt:01a03fa9-adc3-7aab-9137-9aeed36e22b9",
       "time": "2026-08-27 04:01:19",
@@ -149829,61 +149934,6 @@
         "Impact bullish"
       ],
       "text": "Moderna (MRNA.O) shares jumped a record 177%, adding $44 billion to market value."
-    },
-    {
-      "id": "mkt:01a01ba0-8e2c-7aab-90a1-f42fd4e45b30",
-      "time": "2026-08-20 04:05:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Chip Wars",
-        "MRNA.O",
-        "Impact bullish",
-        "MRK.N",
-        "MRVL.O"
-      ],
-      "text": "【US close: major indices higher; Moderna surges 176%】US stocks closed higher Wednesday. Dow Jones Industrial Average preliminary close +0.22%, S&P 500 +0.21%, Nasdaq +0.16%. Moderna (MRNA.O) surged 176%; Merck (MRK.N) +12.6%. Marvell Technology (MRVL.O) +9.8%. SK Hynix (SKHY.O) +0.35%. SanDisk (SNDK.O) -3.5%; Micron Technology (MU.O) -0.39%. Nasdaq Golden Dragon China Index +1.5%."
-    },
-    {
-      "id": "mkt:01a01ba0-848a-7aab-90a1-e801423b999c",
-      "time": "2026-08-20 04:04:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "US stocks closed higher on Aug 19 (Wed): Dow Jones Industrial Average +119.71 pts (+0.22%) to 53,463.11; S&P 500 +16.50 pts (+0.21%) to 7,708.26; Nasdaq Composite +41.38 pts (+0.16%) to 26,331.09."
-    },
-    {
-      "id": "5048580",
-      "time": "2026-08-20 04:04:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "MODERNA 股價飆升創紀錄 177%，市值增加 440 億美元。"
-    },
-    {
-      "id": "5048579",
-      "time": "2026-08-20 04:03:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "雅詩蘭黛股價收漲16%，創2011年以來最大漲幅。"
-    },
-    {
-      "id": "mkt:01a01b9d-f358-7aab-90a1-e59150aad41d",
-      "time": "2026-08-20 04:02:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US outstanding public debt has doubled since 2017. Of the increase, $11.6 tln was added during Trump’s two presidential terms and $8.4 tln was added during former president Biden’s term."
     }
   ]
 }
