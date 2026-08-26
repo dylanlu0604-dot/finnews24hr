@@ -1,7 +1,52 @@
 {
   "date": "2026-08-27",
-  "count": 469,
+  "count": 474,
   "items": [
+    {
+      "id": "5060975",
+      "time": "2026-08-27 06:17:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報69.51美元/盎司。"
+    },
+    {
+      "id": "5060974",
+      "time": "2026-08-27 06:17:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4610美元/盎司，日內漲0.35%。"
+    },
+    {
+      "id": "5060973",
+      "time": "2026-08-27 06:17:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4660美元/盎司，日內漲0.17%。"
+    },
+    {
+      "id": "5060972",
+      "time": "2026-08-27 06:16:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠普首席財務官：目前認為Windows 11裝置更新換代程序已完成約70%。"
+    },
+    {
+      "id": "te:markets:578375",
+      "time": "2026-08-27 06:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.78% — Top currency losers are Swedish Krona (-0.78%), New Zealand Dollar (-0.55%), Swiss Franc (-0.46%), British Pound (-0.40%), Euro (-0.18%) and Japanese Yen (-0.06%). Gains are led by Dollar Index (0.22%)."
+    },
     {
       "id": "5060971",
       "time": "2026-08-27 06:13:04",
