@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-26 22:22:58",
-  "count": 16785,
+  "updated": "2026-08-26 22:27:24",
+  "count": 16780,
   "items": [
+    {
+      "id": "5060555",
+      "time": "2026-08-26 22:25:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏啟動自治區自然災害一級救助應急響應】西藏自治區防災減災救災委員會8月26日晚釋出通知，26日10時30分許，因尼泊爾一側發生泥石流災害，造成日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。根據《西藏自治區自然災害救助應急預案》啟動條件，經西藏自治區黨委、政府同意，自治區防災減災救災委員會決定啟動自治區自然災害一級救助應急響應。 通知要求，西藏自治區防災減災救災委員會各有關成員單位和日喀則市人民政府按照職能與任務分工，切實做好救災救助各項工作。（新華社）"
+    },
+    {
+      "id": "5060554",
+      "time": "2026-08-26 22:24:27",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股市早盤基本走平 投資者靜候英偉達財報】美國股市早盤基本走平，最新經濟資料幾乎沒有改變市場對美聯儲將在年底前加息的押注，同時投資者焦急等待英偉達財報。最新公佈的資料顯示，美國實際消費支出陷入停滯，一項關鍵通脹指標漲幅符合預期，但另一份資料顯示經濟仍保持穩健增長。貨幣市場已經完全計入美聯儲將在12月底前加息的預期，短期美國國債表現相對落後。 摩根士丹利財富管理的Ellen Zentner表示，市場仍對任何可能提高加息機率的訊息保持敏感，最新資料未必是投資者希望看到的結果。她表示，這些資料還不足以改變美聯儲9月會議的政策天平，但如果後續資料繼續指向相同方向，美聯儲可能會感受到更大壓力，不再保持觀望。eToro的Bret Kenwell表示：“挑戰正變得越來越清晰：通脹仍高得令人不安，投資者將關注美聯儲主席凱文·沃什是否會利用週五的傑克遜霍爾講話，闡述政策制定者計劃如何推動通脹回落至美聯儲的長期目標。”除經濟形勢外，華爾街也在熱切等待英偉達財報。市場關注的重點不僅是這家晶片巨頭本身的業績數字，更在於這些資料對人工智慧投資者以及整個市場意味著什麼。"
+    },
+    {
+      "id": "mkt:01a03e74-accc-7aab-9131-aceb15e0153b",
+      "time": "2026-08-26 22:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gaza Peace Committee meets Netanyahu on disarmament, civilian transition】Gaza Peace Committee senior representative Nikolay Mladenov and his team met Israeli Prime Minister Benjamin Netanyahu and his team on Monday to advance Gaza disarmament and a transition to civilian governance. The meeting was constructive; both sides share a final objective of fully disarming the Gaza Strip, ending rule by force and moving to civilian rule. The committee said implementation will be phased, the IDF will withdraw beyond the yellow line only after disarmament is complete, and further progress depends on all parties meeting their obligations under the agreed framework."
+    },
+    {
+      "id": "5060553",
+      "time": "2026-08-26 22:23:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜宣佈將於9月30日正式關閉其運營了21年的“眾包”平臺MTurk】亞馬遜宣佈，將在9月30日關閉其眾包工作平臺Mechanical Turk (MTurk)。這個平臺誕生於2005年，旨在將一些對人類來說輕而易舉、但對計算機而言卻極具挑戰的數字任務（如資料標註、音影片轉錄、問卷調查等）分發給全球的“數字零工”。亞馬遜創始人傑夫·貝索斯曾將這項服務形象地稱為“人工人工智慧”（artificial artificial intelligence）。"
+    },
+    {
+      "id": "5060552",
+      "time": "2026-08-26 22:22:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將親巴勒斯坦團體列入制裁名單。"
+    },
     {
       "id": "5060551",
       "time": "2026-08-26 22:20:51",
@@ -151411,93 +151455,6 @@
         "國際"
       ],
       "text": "名村造船計劃到2035年在日本西部佐賀縣伊萬里灣建造用於大型船舶建造的幹船塢。"
-    },
-    {
-      "id": "5048272",
-      "time": "2026-08-19 22:27:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本將建造2017年以來首個大型造船船塢 。"
-    },
-    {
-      "id": "5048271",
-      "time": "2026-08-19 22:27:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場預計美國原油庫存將減少70.7萬桶。"
-    },
-    {
-      "id": "5048270",
-      "time": "2026-08-19 22:26:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【超200家外資機構調研A股公司】國產儲存龍頭長鑫科技完成上市，折射出外資對我國半導體、AI基礎設施等硬科技板塊的高度關注。進入8月，相關行業升溫的背後，是全球資本正透過ETF渠道持續加碼中國科技資產。 美國景順亞太區客戶解決方案主管漢密爾頓介紹，許多中國科技企業的盈利趨勢向好，同時估值水平仍遠低於多數全球科技同行，這為全球投資者創造了頗具吸引力的風險收益比，投資者越來越認識到，中國不僅是AI技術的使用者，在AI大模型、雲基礎設施、半導體、智慧製造等領域同樣是重要的創新者。我們看到資金正有選擇性地佈局中國人工智慧、半導體、機器人和先進製造相關產業生態。ETF已成為落實這一投資思路的主要工具之一。 資料顯示，7月至8月中旬，共有217家外資機構累計調研163家A股公司達547家次，電子、機械裝置、電力裝置三大行業合計佔比近五成，積體電路、算力硬體、光模組等產業鏈環節成為機構調研的重點方向。 （央視財經）"
-    },
-    {
-      "id": "5048269",
-      "time": "2026-08-19 22:26:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英偉達尋求對接企業，推進在北歐地區的業務部署  。"
-    },
-    {
-      "id": "5048268",
-      "time": "2026-08-19 22:25:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4540美元/盎司，日內漲2.70%。"
-    },
-    {
-      "id": "5048267",
-      "time": "2026-08-19 22:25:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4480美元/盎司，日內漲3.37%。"
-    },
-    {
-      "id": "5048266",
-      "time": "2026-08-19 22:25:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國藥集團和國藥控股將向國藥現代出售國瑞藥業51%股權】國藥控股及其控股股東國藥集團同意向國藥現代出售國瑞藥業51%的股權，交易金額約為4.064億元人民幣。交易完成後，國藥控股將不再直接持有國瑞藥業的股份。"
-    },
-    {
-      "id": "5048265",
-      "time": "2026-08-19 22:24:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會對埃裡森處以五年交易禁令。"
-    },
-    {
-      "id": "mkt:01a01a68-a309-7aab-9099-d54a1bfd135d",
-      "time": "2026-08-19 22:24:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MRNA.O",
-        "Impact bullish"
-      ],
-      "text": "Moderna (MRNA.O) continued to surge, rising more than 150% intraday."
-    },
-    {
-      "id": "mkt:01a01a68-0cfd-7aab-9099-cfb1678f946c",
-      "time": "2026-08-19 22:23:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF chief inspects buffer zone in southern Syria】On the morning of the 19th (local time), IDF Chief of General Staff Zamir inspected the Israeli-controlled buffer zone in southern Syria. He received a security briefing with senior officers and met reservists deployed in the area."
     }
   ]
 }
