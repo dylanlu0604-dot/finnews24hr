@@ -1,7 +1,174 @@
 {
   "date": "2026-08-26",
-  "count": 1186,
+  "count": 1203,
   "items": [
+    {
+      "id": "5059104",
+      "time": "2026-08-26 13:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF總裁：人工智慧未來影響仍是“重大未知數”】國際貨幣基金組織（IMF）總裁格奧爾基耶娃8月25日在美國華盛頓舉行的一場媒體圓桌會上表示，人工智慧（AI）未來將產生怎樣的影響仍是“重大未知數”，發展中經濟體在人工智慧領域“掉隊”的風險尤為突出。格奧爾基耶娃在開場發言中說，全球經濟就像電影《奧德賽》裡的那艘船，“正在抵禦來自高債務水平、頑固通脹和貿易緊張局勢的強勁逆風”。（新華社）"
+    },
+    {
+      "id": "mkt:01a03ca2-781c-7aab-9123-c3542a7452b6",
+      "time": "2026-08-26 13:54:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Samsung, SK Hynix plan to boost NVIDIA 8-layer HBM4 supply in H2】Samsung Electronics and SK Hynix plan to increase shipments of 8-layer HBM4 memory to NVIDIA in H2, a move driven by NVIDIA's supply strategy to stabilize supply across HBM types and manage product thermal profiles. The 8-layer configuration is likely to become the flagship for next-generation HBM4E."
+    },
+    {
+      "id": "mkt:01a03ca1-bb14-7aab-9123-bf890fc6d999",
+      "time": "2026-08-26 13:53:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "【Most expect 25bp Bank of Korea hike; paths diverge on further tightening】Majority of sell-side and macro forecasters expect the Bank of Korea to raise rates by 25bps, but policy paths diverge widely. Societe Generale, Morgan Stanley, iM Securities, DBS Group, Nomura, Mitsubishi UFJ and a Reuters survey (18 of 35 economists) all flag a 25bp move. DBS expects an additional 25bps in Q4 to 3.25% and to hold through the end of next year. Societe Generale says the governor signaled possible consecutive hikes in August; Morgan Stanley cites a supportive macro backdrop; iM Securities warns the cost of delaying to October is rising. Nomura and Mitsubishi UFJ point to core inflation, strong semiconductor exports and a firm housing market as further upward pressure. Citigroup projects a 25bp hike followed by increases in November and next February to 3.5%, and says tightening could peak nearer 3.75%. By contrast, HSBC, Eugene Investment Securities and Barclays expect rates to be left unchanged at 2.75%; a Korea Financial Investment Association survey shows 79% of bond-market experts expect no change while 20% expect a hike."
+    },
+    {
+      "id": "mkt:01a03ca1-98ad-7aab-9123-b544286b6c50",
+      "time": "2026-08-26 13:53:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bearish"
+      ],
+      "text": "【Tencent top executive responds to criticism it is slow on AI】Tang Daosheng, group senior executive vice president and CEO of Tencent’s Cloud and Smart Industries Group, wrote in an internal publication addressing claims Tencent has lagged on AI. He said it is impossible not to be anxious, that the HunYuan large model has undergone multiple reconstructions and HunYuan Hy3 performs strongly among models with comparable parameter counts, but warned the company’s overall compute capacity is severely insufficient, slowing model training and product development and causing material impact. He added the AI second half is only beginning and that sustained effort is required to capture recurring new opportunities."
+    },
+    {
+      "id": "5059103",
+      "time": "2026-08-26 13:53:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“沙德爾”逼近，浙江提升防颱風應急響應至Ⅱ級】今年第18號颱風“沙德爾”逐漸逼近我國，有可能正面襲擊浙閩沿海，對浙江造成明顯風雨影響，經研判會商，浙江省防指決定於8月26日12時將防颱風應急響應提升至Ⅱ級。據浙江省氣象臺訊息，8月26日8時，颱風“沙德爾”的中心位於浙江溫州偏東方向650公里的東海海面上，中心附近最大風力14級（強颱風級），預計“沙德爾”將以每小時15公里左右的速度向西偏北方向移動，將於27日夜間至28日上午在浙江象山到福建福清一帶沿海登陸。受“沙德爾”影響，浙江台州、溫州、麗水和寧波中南部等地累計雨量將達到100至200毫米，部分200至300毫米，個別500毫米以上。（新華社）"
+    },
+    {
+      "id": "5059102",
+      "time": "2026-08-26 13:51:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電子、SK海力士計劃下半年增加對英偉達8層HBM4記憶體供應量】三星電子與SK海力士計劃在今年下半年增加對英偉達的8層HBM4記憶體供應量，這一安排主要受英偉達供應策略影響，目的是保障各型別HBM記憶體的供應穩定，同時兼顧產品發熱量。據瞭解，8層記憶體極有可能成為下一代HBM4E的旗艦產品。 (ZDNET Korea)"
+    },
+    {
+      "id": "5059101",
+      "time": "2026-08-26 13:51:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債<JP40YTN=JBTC>收益率下跌2個基點，至4.130%。"
+    },
+    {
+      "id": "mkt:01a03c9f-a879-7aab-9123-ace0781fbc55",
+      "time": "2026-08-26 13:51:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japanese 40-year government bond yield fell 2 bps to 4.13%."
+    },
+    {
+      "id": "5059100",
+      "time": "2026-08-26 13:49:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總、應急管理部組織多部門聯合會商，排程部署颱風“沙德爾”防範應對工作】8月26日上午，國家防總、應急管理部組織中國氣象局、水利部、自然資源部、交通運輸部、農業農村部等部門以及浙江、福建、廣東和其他可能受影響的重點省份聯合會商，研判颱風“沙德爾”發展趨勢，進一步研究部署颱風防範應對工作。國家防總於26日11時將針對浙江、福建的防汛防颱風四級應急響應提升至三級，維持針對廣東的防汛防颱風四級響應。經會商研判，今年第18號颱風“沙德爾”預計於8月27日夜間至28日上午在浙江象山至福建福清一帶沿海登陸。該颱風具有登陸強度大、攜帶水汽足、影響範圍廣、致災性強等特點，直接影響浙江、福建、廣東等沿海地區，登陸後可能向西深入內陸，部分地區災害疊加風險高，防汛防颱風形勢嚴峻複雜。"
+    },
+    {
+      "id": "mkt:01a03c9b-a92b-7aab-9123-a65e4ea5984b",
+      "time": "2026-08-26 13:47:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Institutions’ forecasts for US July core PCE (due 20:30 Beijing time)】Market consensus: core PCE YoY prev 3.3% (Reuters survey 3.3%). Majority of surveyed institutions expect YoY around 3.2–3.3% (Capital Economics, Goldman Sachs, Citigroup, Scotiabank, Barclays, Societe Generale, Standard Chartered and others at ~3.2%; BofA, Deutsche Bank, UBS, JP Morgan, Nomura, Morgan Stanley and multiple others at ~3.3%). High Frequency Economics is the notable outlier at +3.4%. Monthly core PCE prev +0.1% (Reuters +0.2%); consensus centered on +0.2% (BofA, Capital Economics, Citigroup, Deutsche Bank, Barclays, HSBC and many others). A smaller group expects higher monthly prints: BNP Paribas SA, JP Morgan and Banco Santander at +0.3%, and High Frequency Economics at +0.4%."
+    },
+    {
+      "id": "mkt:01a03c9a-c38f-7aab-9123-9cdb479f10b6",
+      "time": "2026-08-26 13:46:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Exchange documents show Vietnam raised $479 mln via government bond auctions, the highest amount since May."
+    },
+    {
+      "id": "5059099",
+      "time": "2026-08-26 13:45:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出山洪災害氣象風險紅色預警及暴雨黃色預警】山西省水利廳和山西省氣象局8月26日11時00分聯合釋出山洪災害氣象風險預警：未來24小時，受強降雨影響，山西省忻州市中部5個縣發生山洪的可能性很大（紅色預警）；朔州市西南部、忻州市西部和中部2個市5個縣發生山洪的可能性大（橙色預警）；大同市東南部、朔州市、忻州市西部和東部、陽泉市、太原市北部、晉中市東南部和西北部、呂梁市北部、長治市西北部8個市30個縣發生山洪的可能性較大（黃色預警）；大同市西部和中部、太原市南部、晉中市東北部和西部、呂梁市、長治市西部和中部5個市28個縣可能發生山洪（藍色預警）。暴雨黃色預警區域：忻州市、呂梁市、太原市、陽泉市、晉中市、長治市。預計未來24小時預警區域內降雨量將達80毫米以上，局地可達100毫米，並伴有短時強降水、雷暴大風。"
+    },
+    {
+      "id": "5059098",
+      "time": "2026-08-26 13:44:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "據交易所檔案顯示，越南國債拍賣籌得4.79億美元，為5月以來最高募資規模。"
+    },
+    {
+      "id": "mkt:01a03c98-a5a4-7aab-9123-92a5b7ff75e1",
+      "time": "2026-08-26 13:43:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB's Schnabel says further rate hikes needed to curb inflation risks】ECB executive board member Schnabel said the ECB must raise rates further to counter upside inflation risks from a protracted Middle East conflict and stronger‑than‑expected euro‑area growth. She warned consumer prices could remain above 2% for an extended period and that waiting for pass‑through to wages would leave policymakers behind. At current rates inflation is unlikely to return to target in the medium term, she said, so further tightening is necessary. With demand proving resilient, early action is needed to prevent second‑round effects; delayed action could require larger tightening later. Schnabel identified fiscal loosening, higher defense spending and a global AI boom as drivers of economic strength, and cautioned that non‑oil energy price pressures are becoming more persistent. Low European gas stocks make the gas market particularly concerning and, she said, the longer the conflict lasts the greater the risk and intensity of indirect and second‑round inflation effects."
+    },
+    {
+      "id": "5059097",
+      "time": "2026-08-26 13:42:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特調整MT30指數期貨和個股期貨的手續費。"
+    },
+    {
+      "id": "mkt:01a03c97-7398-7aab-9123-8f2cdacdb011",
+      "time": "2026-08-26 13:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI CODEX product lead Tibo said good products take time, at least 34 days."
+    },
+    {
+      "id": "5059096",
+      "time": "2026-08-26 13:42:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內漲2%，現報3293.00元。"
+    },
     {
       "id": "mkt:01a03c97-0788-7aab-9123-858b21d97896",
       "time": "2026-08-26 13:42:05",
