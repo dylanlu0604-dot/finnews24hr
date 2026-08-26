@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-27 01:42:42",
-  "count": 16710,
+  "updated": "2026-08-27 01:47:02",
+  "count": 16709,
   "items": [
+    {
+      "id": "5060702",
+      "time": "2026-08-27 01:45:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：歐委會正就 Meta 涉嫌在成癮性設計方面違反《數字服務法案》的初步調查結論，與該公司持續開展對話。"
+    },
+    {
+      "id": "5060701",
+      "time": "2026-08-27 01:45:55",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊：國庫券市場有能力吸收更大規模的國債回購】巴克萊表示，美國國庫券市場有能力承受更大規模的債券回購，而短期債務銷售的上限取決於財政部是否願意繼續擴大該市場。巴克萊策略師塞繆爾·厄爾在一份報告中寫道：“市場吸收國庫券發行的能力是巨大的”，並指出有7萬億美元的未償國庫券每三個月滾動一次。“7月和8月期間，財政部按計劃向私營部門淨髮行約5000億美元的新國庫券，而國庫券市場幾乎沒有波動。”"
+    },
+    {
+      "id": "5060700",
+      "time": "2026-08-27 01:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：歐委會不對 Meta 在美國達成的和解置評。"
+    },
+    {
+      "id": "mkt:01a03f2c-3040-7aab-9136-03c3c1f5c2bc",
+      "time": "2026-08-27 01:44:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "European Commission spokesperson said the Commission will not comment on Meta Platforms (META.O) settlement matters in the U.S."
+    },
     {
       "id": "mkt:01a03f29-20c4-7aab-9135-fa22bfa81ec6",
       "time": "2026-08-27 01:40:54",
@@ -150781,53 +150821,6 @@
         "市場"
       ],
       "text": "紐柯鋼鐵公司股價下跌近5%，跌至盤中低點。"
-    },
-    {
-      "id": "5048462",
-      "time": "2026-08-20 01:45:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國擬將加拿大鋼鋁關稅減半】據知情人士透露，美加一份暫定貿易協議擬將加拿大部分鋼鋁出口產品關稅下調至25%。相關細節尚未敲定，預計不會一刀切全面適用。部分含該類金屬的衍生品可能適用不同稅率。美國對加拿大數十億美元商品擬徵收50%關稅，美國總統特朗普暫緩落地，為談判留出更多時間，不到24小時之後，美加貿易顧問於週三繼續磋商。本次金屬關稅調整方案，有望促成一份長期協議，在週五截止日前規避大範圍加徵關稅。特朗普過往曾在最後一刻要求修改貿易協議，甚至直接推翻協議。"
-    },
-    {
-      "id": "mkt:01a01b20-3910-7aab-909e-cbf6665266d7",
-      "time": "2026-08-20 01:44:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Market sources say the US plans to halve tariffs on Canadian steel and aluminum as part of a trade agreement."
-    },
-    {
-      "id": "5048461",
-      "time": "2026-08-20 01:43:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士稱，美加關稅協議尚未最終敲定，金屬衍生品或將適用不同稅率。"
-    },
-    {
-      "id": "mkt:01a01b1e-bf8e-7aab-909e-c39d895e30b8",
-      "time": "2026-08-20 01:43:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's Interior Ministry said it and the UK's Home Office held a joint security working-group meeting."
-    },
-    {
-      "id": "5048460",
-      "time": "2026-08-20 01:43:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "根據貿易協議，美國將把對加拿大鋼鐵和鋁的關稅減半。"
     }
   ]
 }
