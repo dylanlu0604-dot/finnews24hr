@@ -1,7 +1,45 @@
 {
   "date": "2026-08-27",
-  "count": 150,
+  "count": 154,
   "items": [
+    {
+      "id": "mkt:01a03f41-b748-7aab-9136-38043ae813b2",
+      "time": "2026-08-27 02:07:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nepal police say floods have killed at least 157 people."
+    },
+    {
+      "id": "mkt:01a03f41-4729-7aab-9136-33eeb70d705b",
+      "time": "2026-08-27 02:07:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's finance ministry said bond issuance is beginning to normalize, with recent declines concentrated in floating-rate bonds."
+    },
+    {
+      "id": "5060708",
+      "time": "2026-08-27 02:07:16",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "巴西財政部官員：我們開始看到債券發行出現一定程度的常態化，發行量下降主要集中在浮動利率債券。"
+    },
+    {
+      "id": "mkt:01a03f40-18a1-7aab-9136-2a68f7fc62b7",
+      "time": "2026-08-27 02:06:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【US allies doubt Trump's claim that Strait of Hormuz mines have been 'all cleared'】US allies privately assess the Strait of Hormuz likely still contains sea mines; while the US has made some clearance progress in international waters, allies estimate Iran laid roughly 80–150 mines and that not all have been removed, with some possibly drifting from original locations. CENTCOM declined to comment on mine-count estimates. Analysts say the probability that all mines have been cleared is extremely low; even if the mine threat eases, many commercial vessels remain within range of Iranian drones and short-range missiles and outside coverage of US air-defence systems. The IMO says there is no confirmed mine-clearance information and urges maximum caution. Iran says only it knows mine locations and warned US mine-clearing ships could be targeted. Iran and Oman have discussed a temporary joint maritime corridor and demining project; the UK and France are planning post-ceasefire demining and shipping-security operations."
+    },
     {
       "id": "mkt:01a03f3d-aa8d-7aab-9136-2602daead54c",
       "time": "2026-08-27 02:03:20",
