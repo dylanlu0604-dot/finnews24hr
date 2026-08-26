@@ -1,7 +1,575 @@
 {
   "date": "2026-08-26",
-  "count": 606,
+  "count": 664,
   "items": [
+    {
+      "id": "5058779",
+      "time": "2026-08-26 09:33:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元升0.1%，報0.7170。"
+    },
+    {
+      "id": "5058778",
+      "time": "2026-08-26 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股腫瘤疫苗板塊異動拉昇】康希諾觸及漲停，沃森生物、智飛生物、萊美藥業、鍵凱科技跟漲。"
+    },
+    {
+      "id": "mkt:01a03bb2-c0bd-7aab-911d-900d8fd580bf",
+      "time": "2026-08-26 09:32:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share Chinese medicine sector surged; Hansen Pharmaceutical and Qianjin Pharmaceutical hit limit-up, while Yibai Pharmaceutical, Shengwugu, Longshen Rongfa, Zhenbaodao and Conba Pharmaceutical rallied."
+    },
+    {
+      "id": "5058777",
+      "time": "2026-08-26 09:32:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明月鏡片：公司與小米的智慧眼鏡業務合作已進入穩定期】明月鏡片(301101)近日接受機構調研時披露智慧眼鏡業務進展，公司與小米的合作目前已進入穩定期，產品陸續在發貨，這塊業務貢獻的毛利率水平較高。小米AI眼鏡二代產品研發正加快推進。此外，目前已有多家消費電子、網際網路頭部廠商洽談合作，公司同步開展技術適配與聯合研發。"
+    },
+    {
+      "id": "5058776",
+      "time": "2026-08-26 09:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【到2030年 我國將基本建成現代農產品產地市場體系】近日，農業農村部印發《全國農產品產地市場體系發展“十五五”規劃》，以推進農產品產需銜接、完善農產品現代流通體系為重點任務，推動線上線下融合、產地銷地匹配、農業商業互聯，完善產地市場設施建設，最佳化市場營銷服務，增強監測預警能力，發展壯大流通主體，高質量推進農產品產地市場體系建設。規劃指出，到2030年，我國將建成50個能夠輻射帶動區域乃至全國優勢產業發展的農產品產地市場叢集，培育壯大1500個具有倉儲保鮮、初加工、冷鏈配送能力的產地冷鏈集配中心，壯大500個高標準引領、高水平認證支撐的農業精品品牌，推動現代農產品產地市場體系基本建成。到2035年，現代農產品產地市場體系建設取得顯著成效，實現農產品產需高效銜接，在保障農產品穩定安全供給、提升農業質量效益和促進農民增收等方面作用更加突出，有力支撐農業農村現代化建設。"
+    },
+    {
+      "id": "mkt:01a03bb2-62a4-7aab-911d-890fb5fed07c",
+      "time": "2026-08-26 09:32:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan will offer 650 billion yen of Japanese government bonds via liquidity-enhancing auctions."
+    },
+    {
+      "id": "mkt:01a03bb2-5470-7aab-911d-839ddbca9c2d",
+      "time": "2026-08-26 09:32:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share controlled nuclear fusion sector opened sharply higher; Rongfa Nuclear Power opened at the daily limit. Hahan Huatong jumped over 15% at the open; Changfu Co., Baili Electric and Jiusheng Electric also advanced."
+    },
+    {
+      "id": "5058775",
+      "time": "2026-08-26 09:32:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中藥板塊直線拉昇】中藥板塊直線拉昇，漢森製藥、千金藥業漲停，益佰製藥、生物谷、隴神戎發、珍寶島、康恩貝等紛紛走高。"
+    },
+    {
+      "id": "5058774",
+      "time": "2026-08-26 09:31:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞S&P/ ASX 200指數漲幅收窄至0.3%。"
+    },
+    {
+      "id": "mkt:01a03bb1-6d82-7aab-911d-7b660c0d9174",
+      "time": "2026-08-26 09:31:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Q2 building completions YoY 2.7%, prior 6.3%."
+    },
+    {
+      "id": "mkt:01a03bb1-62f0-7aab-911d-76fdb3b5b7f9",
+      "time": "2026-08-26 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "CSI500",
+        "CSI1000"
+      ],
+      "text": "【China equity index futures open】China equity index futures opened: CSI 300 (IF) most-active contract -0.01%; SSE 50 (IH) +0.07%; CSI 500 (IC) +0.04%; CSI 1000 (IM) -0.07%."
+    },
+    {
+      "id": "mkt:01a03bb1-5901-7aab-911d-68c5b5c15775",
+      "time": "2026-08-26 09:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China government bond futures morning open】China government bond futures opened in the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) -0.01%; 10-year (T) -0.01%; 30-year (TL) -0.17%."
+    },
+    {
+      "id": "mkt:01a03bb1-4fec-7aab-911d-651a45fda0e9",
+      "time": "2026-08-26 09:31:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Construction Work Done (YoY) (Q2) | actual 2.7% | previous 6.3%"
+    },
+    {
+      "id": "5058773",
+      "time": "2026-08-26 09:31:08",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "澳元上漲，此前澳洲7月份CPI資料超出預期。"
+    },
+    {
+      "id": "5058772",
+      "time": "2026-08-26 09:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "Hexaware執行長稱，人工智慧將使IT工作的價值降低至多25%。"
+    },
+    {
+      "id": "mkt:01a03bb0-ea55-7aab-911d-5cb27efc95a5",
+      "time": "2026-08-26 09:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.22% higher. N Xianfeng CB, Tebao CB, Huicheng CB, Luwei CB and Baichang CB led gains, up 30.00%, 4.33%, 3.25%, 2.82% and 2.51% respectively. Tianyuan CB, Hengyi CB 2, Yitian CB, Wanxun CB and Paike CB led losses, down 1.56%, 0.79%, 0.68%, 0.60% and 0.45% respectively."
+    },
+    {
+      "id": "mkt:01a03bb0-d9a9-7aab-911d-50c7992591ad",
+      "time": "2026-08-26 09:30:40",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July seasonally adjusted CPI MoM 0.6%, prior -0.1%."
+    },
+    {
+      "id": "5058771",
+      "time": "2026-08-26 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4637.900點；恒生指數現漲0.619%。"
+    },
+    {
+      "id": "mkt:01a03bb0-68a3-7aab-911d-4b5cf559f3e7",
+      "time": "2026-08-26 09:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July non-seasonally adjusted CPI YoY 3.5% (expected 3.3%; prior 3.8%)."
+    },
+    {
+      "id": "5058770",
+      "time": "2026-08-26 09:30:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞7月未季調CPI年率 3.5%，預期3.3%，前值3.80%。澳大利亞7月未季調CPI月率 1%，預期0.8%，前值-0.1%。"
+    },
+    {
+      "id": "mkt:01a03bb0-5ee8-7aab-911d-44485efb1403",
+      "time": "2026-08-26 09:30:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia July non-seasonally adjusted CPI m/m 1.0% (est. 0.8%, prior -0.1%)."
+    },
+    {
+      "id": "mkt:01a03bb0-5cf5-7aab-911d-388992e06587",
+      "time": "2026-08-26 09:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia construction completions QoQ -2.1% in Q2, expected 0.5%, prior 3.4%."
+    },
+    {
+      "id": "5058769",
+      "time": "2026-08-26 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.12%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5058768",
+      "time": "2026-08-26 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.12%， 滬深300指數期貨連續跌0.15%， 中證500指數期貨連續跌0.06%， 上證50指數期貨連續跌0.22%。"
+    },
+    {
+      "id": "mkt:01a03bb0-3f92-7aab-911d-379ce59e5ec3",
+      "time": "2026-08-26 09:30:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China says it will prudently, steadily advance UN reform to shore up development pillar】China's deputy permanent representative to the UN, Sun Lei, said on the 25th at a joint UN80 dialogue convened by the Executive Boards of UNDP, UNFPA and UNOPS that UN80 offers an important opportunity to improve the UN development system's quality and efficiency. China is willing to work with other member states to prudently and steadily advance UN reform and effectively shore up the UN's development pillar."
+    },
+    {
+      "id": "mkt:01a03bb0-3cf6-7aab-911d-2f51b8b6aeef",
+      "time": "2026-08-26 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Construction Work Done (QoQ) (Q2) | actual -2.1% | consensus 0.5% | previous 3.40%"
+    },
+    {
+      "id": "5058767",
+      "time": "2026-08-26 09:29:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數高開0.22%。N先鋒轉、特寶轉債、惠城轉債、路維轉債、百暢轉債漲幅居前，分別漲30.00%、4.33%、3.25%、2.82%、2.51%。天源轉債、恆逸轉2、億田轉債、萬訊轉債、派克轉債跌幅居前，分別跌1.56%、0.79%、0.68%、0.60%、0.45%。"
+    },
+    {
+      "id": "mkt:01a03baf-d439-7aab-911d-22760f68f69a",
+      "time": "2026-08-26 09:29:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share oil & gas E&P sector opened sharply lower; Keli Co. opened down more than 8%, with Lanyan Holdings, Beiken Energy, Zhongman Petroleum and Tongyuan Petroleum also falling."
+    },
+    {
+      "id": "mkt:01a03baf-2692-7aab-911d-19b2c02bf94c",
+      "time": "2026-08-26 09:28:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Aidite preparing to join second-round implant centralized procurement】Aidite said at an Aug. 25 results briefing that its implant business posted modest growth in 1H26. Domestically the company is actively preparing to participate in the second round of implant centralized procurement; overseas expansion was stronger, led by the Middle East and Southeast Asia. Aidite said it has completed channel network optimization and is reinforcing implant sales strategy and its KOL team to support growth. On product strategy, the company will prioritize the digital implant segment—which it sees as having more upside than restorative—while advancing implant robotics as part of an integrated digital-implant solution."
+    },
+    {
+      "id": "5058766",
+      "time": "2026-08-26 09:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK創新：電動汽車市場放緩影響電池隔膜業務。"
+    },
+    {
+      "id": "5058765",
+      "time": "2026-08-26 09:28:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣開採板塊大幅低開 科力股份低開超8%】油氣開採板塊大幅低開，科力股份低開超8%，藍焰控股、貝肯能源、中曼石油、通源石油跟跌。"
+    },
+    {
+      "id": "5058764",
+      "time": "2026-08-26 09:28:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "可控核聚變概念開盤強勢，融發核電一字漲停，哈焊華通漲超16%，常輔股份、百利電氣、合鍛智慧、中國核建等多股高開。"
+    },
+    {
+      "id": "mkt:01a03bae-5e34-7aab-911d-14e3f412b3a9",
+      "time": "2026-08-26 09:27:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "At the open on Aug 26 (Wed), China's Shanghai Composite Index fell 7.7 points (-0.2%) to 3,881.74; Shenzhen Composite Index rose 15.49 points (+0.11%) to 13,761.36; CSI 300 Index fell 2.6 points (-0.06%) to 4,549.43; ChiNext Index rose 11.76 points (+0.35%) to 3,409.28; STAR 50 Index rose 1.15 points (+0.07%) to 1,605.74."
+    },
+    {
+      "id": "5058763",
+      "time": "2026-08-26 09:27:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【愛迪特：公司正積極籌備參與第二輪種植體集採】愛迪特(301580)8月25日在業績說明會上表示，2026年上半年公司種植體業務實現一定增長。國內方面，公司正積極籌備參與第二輪種植體集採；海外業務增長較為突出，中東、東南亞市場增速較快。公司完成渠道網路最佳化的同時，進一步強化種植體業務銷售策略佈局以及KOL團隊建設，助力業務拓展。對於後續業務規劃，產品端，公司將重點佈局數字化種植賽道，相較於修復業務，種植領域數字化仍具備較大提升空間。另外，種植機器人業務也將作為數字化種植整體解決方案的重要配套同步推進。"
+    },
+    {
+      "id": "5058762",
+      "time": "2026-08-26 09:27:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK創新：目標在未來兩年內實現電池隔膜業務盈利。"
+    },
+    {
+      "id": "mkt:01a03bad-27a8-7aab-911d-08ec40148261",
+      "time": "2026-08-26 09:26:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Atlantic reports Trump plans to buy midterm-election ads to promote his record."
+    },
+    {
+      "id": "5058761",
+      "time": "2026-08-26 09:26:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報1035.00元。"
+    },
+    {
+      "id": "5058760",
+      "time": "2026-08-26 09:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江委：長江流域將有兩次明顯降水過程】8月25日，長江防總常務副總指揮、長江委主任廖志偉主持召開防汛會商。會商指出，受颱風及冷空氣影響，長江流域將有兩次明顯降水過程。8月28日至30日，長江干流及其以南有一次中到大雨、局地暴雨或大暴雨的降水過程；8月31日至9月2日，兩湖水系大部及長江下游幹流附近有一次中到大雨、局地暴雨的降水過程。要清醒認識今年臺風偏多帶來的複雜形勢，保持主汛期工作狀態，強化監測預報預警，加密滾動會商研判，以防禦措施的確定性應對風險災害的不確定性。要發揮流域治理管理“四個統一”作用，以流域為單元，統籌協調上下游、左右岸、干支流，強化省際間河流統一治理管理。要切實維護南水北調中線工程“三個安全”，在保障工程安全、供水安全的同時，扛牢丹江口庫區及其上游流域水質安全保障政治責任。"
+    },
+    {
+      "id": "mkt:01a03bac-25bf-7aab-911d-01c3698902ff",
+      "time": "2026-08-26 09:25:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "At the open, China A-share market: Shanghai Composite Index down 0.2%, Shenzhen Composite Index up 0.11%, ChiNext Index up 0.35%."
+    },
+    {
+      "id": "5058759",
+      "time": "2026-08-26 09:25:30",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.2％，深成指漲0.11％，創業板漲0.35％。"
+    },
+    {
+      "id": "5058758",
+      "time": "2026-08-26 09:25:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta與美國各州討論和解社交媒體危害青少年相關訴訟 】Meta Platforms與美國各州總檢察長就一起指控該公司蓄意設計 Facebook 和 Instagram 以使青少年沉迷的案件，討論了庭審中期和解的可能性。由於 29 個州尋求對 Meta 處以罰款並強制其平臺運營方式進行改革，這場審判對 Meta 構成了巨大的風險。根據 Meta 自身的計算，敗訴可能導致高達 1.4 萬億美元的罰款，而和解金額則可能遠低於此。"
+    },
+    {
+      "id": "te:markets:578073",
+      "time": "2026-08-26 09:25:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies Ahead of PCE Inflation Data — The dollar index held steady near 99 on Wednesday as investors awaited the latest US PCE price index report, the Federal Reserve’s preferred measure of inflation. The data comes ahead of Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium on Friday, where he is not expected to provide clear guidance on the central bank’s policy decision in September. Meanwhile, the dollar remained near its lowest level in more than three months as investors continued to assess the implications of the Treasury Department’s expanded debt buyback program. Markets are concerned that the plan could provide only a temporary solution while reviving worries about the risks of a US debt crisis and further dollar weakness. Elsewhere, oil prices fell for a third straight session, easing inflation concerns and reducing safe-haven demand for the greenback."
+    },
+    {
+      "id": "mkt:01a03baa-75b3-7aab-911c-f9ce49f9ddf6",
+      "time": "2026-08-26 09:23:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE data showed the front-month Dutch natural gas contract fell more than 5% to €63.18/MWh."
+    },
+    {
+      "id": "mkt:01a03baa-35b9-7aab-911c-f2caaee55aca",
+      "time": "2026-08-26 09:23:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【CSI launches Commodity Futures Sector Index series today】China Securities Index (CSI) today launched a 40-index Commodity Futures Sector series, led by industrial and agricultural & livestock subindices. The indices are designed to track subsector futures price trends and returns, provide benchmarks for performance evaluation and attribution, and are intended to help steadily bolster China’s pricing power and international influence in global commodities markets."
+    },
+    {
+      "id": "5058757",
+      "time": "2026-08-26 09:23:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【中證商品期貨系列板塊指數今天正式釋出】今天（26日），中證商品期貨系列板塊指數正式對外發布。該板塊指數以工業板塊、農畜板塊為首，共40條指數。系列指數既可精準、客觀表徵各商品期貨細分板塊價格執行趨勢，又可以反映商品板塊期貨投資的收益走勢，為投資者開展投資收益評價、業績對標提供公允基準。同時，將助力穩步提升我國在全球大宗商品領域的定價話語權與國際影響力。"
+    },
+    {
+      "id": "5058756",
+      "time": "2026-08-26 09:22:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星邑空間完成數億元A輪融資】近日，星邑空間正式完成A輪增資擴股暨戰略投資人引入。此次A輪股權融資募集資金達數億元人民幣，引入了蘇創投、力合清瞳、七匹狼控股、智宸投資、蘭溪資本、海鍶創投等多家投資機構。"
+    },
+    {
+      "id": "5058755",
+      "time": "2026-08-26 09:22:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放2,395.0億元人民幣。"
+    },
+    {
+      "id": "5058754",
+      "time": "2026-08-26 09:21:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2395億元7天逆回購操作，投標量2395億元，中標量2395億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5058753",
+      "time": "2026-08-26 09:21:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta與美國各州討論解決青少年社交媒體相關訴訟。"
+    },
+    {
+      "id": "mkt:01a03ba8-7a81-7aab-911c-eb0a1fde5b34",
+      "time": "2026-08-26 09:21:32",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "Hong Kong opened higher on Wednesday, Aug 26: Hang Seng Index +124.14 pts (+0.49%) at 25,635.24; Hang Seng Tech Index +34.44 pts (+0.75%) at 4,622.98; HSCEI (China Enterprises Index) +55.18 pts (+0.65%) at 8,500.55; red‑chip index +3.39 pts (+0.08%) at 4,232.46."
+    },
+    {
+      "id": "5058752",
+      "time": "2026-08-26 09:21:04",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.49％，國企指數漲0.65％，恒生科技指數漲0.75%。"
+    },
+    {
+      "id": "mkt:01a03ba7-fa26-7aab-911c-e3c5a5e94399",
+      "time": "2026-08-26 09:20:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted 239.5 bln yuan of 7‑day reverse repos today; bids and allotment both 239.5 bln yuan. Operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "mkt:01a03ba7-f43d-7aab-911c-d9e9268cd80c",
+      "time": "2026-08-26 09:20:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "HSI",
+        "Impact bullish",
+        "09868.HK",
+        "09618.HK"
+      ],
+      "text": "Hong Kong shares opened higher: the Hang Seng Index rose 0.49% and the Hang Seng Tech Index rose 0.75%. Xpeng Inc (09868.HK) jumped 3.33%; JD.com (09618.HK) gained nearly 2%."
+    },
+    {
+      "id": "mkt:01a03ba7-26b7-7aab-911c-d62307844bd2",
+      "time": "2026-08-26 09:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Australia's July non-seasonally adjusted CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "5058751",
+      "time": "2026-08-26 09:18:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內商品期貨化工板塊低開低走大幅下挫，乙二醇期貨跌停】國內商品期貨化工板塊低開低走大幅下挫，乙二醇期貨跌停，跌幅6%，燃料油跌超8%，原油、BR橡膠跌超6%，甲醇、對二甲苯、液化氣、丙烯、苯乙烯跌超5%，PTA、短纖、瓶片跌超4%。"
+    },
+    {
+      "id": "te:markets:578072",
+      "time": "2026-08-26 09:17:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Hovers Near Multi-Month Highs — The New Zealand dollar traded near a three-month high at around $0.597 on Wednesday, after settling higher in the previous session as signs of progress in Middle East negotiations improved risk sentiment. Pakistan said on Tuesday that it had made significant progress in talks with Iran aimed at ending the war, while Tehran and Oman discussed plans for a temporary transit corridor through the Strait of Hormuz, along with a project to clear mines from the waterway. The developments eased concerns over prolonged disruptions to shipping through the strait. Also supporting the kiwi, the Reserve Bank of New Zealand is widely expected to deliver another 25-basis-point rate hike at its meeting next week, with the policy rate seen reaching 3.0% by year-end. However, weak retail sales data released earlier this week has raised fresh questions about the extent to which the central bank can continue tightening policy."
+    },
+    {
+      "id": "5058750",
+      "time": "2026-08-26 09:17:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內跌4%，現報7558.00元。"
+    },
+    {
+      "id": "te:economy:578071",
+      "time": "2026-08-26 09:17:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Australia Leading Index Subdued — The Westpac–Melbourne Institute Leading Economic Index was flat in July after an upwardly revised 0.1% gain in the prior month. Meanwhile, the six-month annualised growth rate improved to -0.2% from -0.4%, though it remained below trend for a seventh straight month. Momentum has firmed modestly since mid-year, pointing to an economy that is soft but not weak, with GDP growth likely to stay positive even as per-capita output hovers near flat. Westpac expects the Reserve Bank to hold rates again in September while stressing readiness to tighten if inflation proves sticky. Head of Macro-Forecasting Matthew Hassan said softer growth signals should reassure the board that demand is gradually aligning with supply, though the moderation also underscores resilience. The key issue remains whether growth slows enough to return inflation to the 2–3% target range in time."
+    },
     {
       "id": "5058749",
       "time": "2026-08-26 09:16:12",

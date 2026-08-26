@@ -1,7 +1,575 @@
 {
-  "updated": "2026-08-26 09:30:01",
-  "count": 16464,
+  "updated": "2026-08-26 09:46:33",
+  "count": 16446,
   "items": [
+    {
+      "id": "5058779",
+      "time": "2026-08-26 09:33:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳元兌美元升0.1%，報0.7170。"
+    },
+    {
+      "id": "5058778",
+      "time": "2026-08-26 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股腫瘤疫苗板塊異動拉昇】康希諾觸及漲停，沃森生物、智飛生物、萊美藥業、鍵凱科技跟漲。"
+    },
+    {
+      "id": "mkt:01a03bb2-c0bd-7aab-911d-900d8fd580bf",
+      "time": "2026-08-26 09:32:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share Chinese medicine sector surged; Hansen Pharmaceutical and Qianjin Pharmaceutical hit limit-up, while Yibai Pharmaceutical, Shengwugu, Longshen Rongfa, Zhenbaodao and Conba Pharmaceutical rallied."
+    },
+    {
+      "id": "5058777",
+      "time": "2026-08-26 09:32:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明月鏡片：公司與小米的智慧眼鏡業務合作已進入穩定期】明月鏡片(301101)近日接受機構調研時披露智慧眼鏡業務進展，公司與小米的合作目前已進入穩定期，產品陸續在發貨，這塊業務貢獻的毛利率水平較高。小米AI眼鏡二代產品研發正加快推進。此外，目前已有多家消費電子、網際網路頭部廠商洽談合作，公司同步開展技術適配與聯合研發。"
+    },
+    {
+      "id": "5058776",
+      "time": "2026-08-26 09:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【到2030年 我國將基本建成現代農產品產地市場體系】近日，農業農村部印發《全國農產品產地市場體系發展“十五五”規劃》，以推進農產品產需銜接、完善農產品現代流通體系為重點任務，推動線上線下融合、產地銷地匹配、農業商業互聯，完善產地市場設施建設，最佳化市場營銷服務，增強監測預警能力，發展壯大流通主體，高質量推進農產品產地市場體系建設。規劃指出，到2030年，我國將建成50個能夠輻射帶動區域乃至全國優勢產業發展的農產品產地市場叢集，培育壯大1500個具有倉儲保鮮、初加工、冷鏈配送能力的產地冷鏈集配中心，壯大500個高標準引領、高水平認證支撐的農業精品品牌，推動現代農產品產地市場體系基本建成。到2035年，現代農產品產地市場體系建設取得顯著成效，實現農產品產需高效銜接，在保障農產品穩定安全供給、提升農業質量效益和促進農民增收等方面作用更加突出，有力支撐農業農村現代化建設。"
+    },
+    {
+      "id": "mkt:01a03bb2-62a4-7aab-911d-890fb5fed07c",
+      "time": "2026-08-26 09:32:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan will offer 650 billion yen of Japanese government bonds via liquidity-enhancing auctions."
+    },
+    {
+      "id": "mkt:01a03bb2-5470-7aab-911d-839ddbca9c2d",
+      "time": "2026-08-26 09:32:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share controlled nuclear fusion sector opened sharply higher; Rongfa Nuclear Power opened at the daily limit. Hahan Huatong jumped over 15% at the open; Changfu Co., Baili Electric and Jiusheng Electric also advanced."
+    },
+    {
+      "id": "5058775",
+      "time": "2026-08-26 09:32:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中藥板塊直線拉昇】中藥板塊直線拉昇，漢森製藥、千金藥業漲停，益佰製藥、生物谷、隴神戎發、珍寶島、康恩貝等紛紛走高。"
+    },
+    {
+      "id": "5058774",
+      "time": "2026-08-26 09:31:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞S&P/ ASX 200指數漲幅收窄至0.3%。"
+    },
+    {
+      "id": "mkt:01a03bb1-6d82-7aab-911d-7b660c0d9174",
+      "time": "2026-08-26 09:31:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Q2 building completions YoY 2.7%, prior 6.3%."
+    },
+    {
+      "id": "mkt:01a03bb1-62f0-7aab-911d-76fdb3b5b7f9",
+      "time": "2026-08-26 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "CSI500",
+        "CSI1000"
+      ],
+      "text": "【China equity index futures open】China equity index futures opened: CSI 300 (IF) most-active contract -0.01%; SSE 50 (IH) +0.07%; CSI 500 (IC) +0.04%; CSI 1000 (IM) -0.07%."
+    },
+    {
+      "id": "mkt:01a03bb1-5901-7aab-911d-68c5b5c15775",
+      "time": "2026-08-26 09:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【China government bond futures morning open】China government bond futures opened in the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) -0.01%; 10-year (T) -0.01%; 30-year (TL) -0.17%."
+    },
+    {
+      "id": "mkt:01a03bb1-4fec-7aab-911d-651a45fda0e9",
+      "time": "2026-08-26 09:31:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Construction Work Done (YoY) (Q2) | actual 2.7% | previous 6.3%"
+    },
+    {
+      "id": "5058773",
+      "time": "2026-08-26 09:31:08",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "澳元上漲，此前澳洲7月份CPI資料超出預期。"
+    },
+    {
+      "id": "5058772",
+      "time": "2026-08-26 09:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "Hexaware執行長稱，人工智慧將使IT工作的價值降低至多25%。"
+    },
+    {
+      "id": "mkt:01a03bb0-ea55-7aab-911d-5cb27efc95a5",
+      "time": "2026-08-26 09:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.22% higher. N Xianfeng CB, Tebao CB, Huicheng CB, Luwei CB and Baichang CB led gains, up 30.00%, 4.33%, 3.25%, 2.82% and 2.51% respectively. Tianyuan CB, Hengyi CB 2, Yitian CB, Wanxun CB and Paike CB led losses, down 1.56%, 0.79%, 0.68%, 0.60% and 0.45% respectively."
+    },
+    {
+      "id": "mkt:01a03bb0-d9a9-7aab-911d-50c7992591ad",
+      "time": "2026-08-26 09:30:40",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July seasonally adjusted CPI MoM 0.6%, prior -0.1%."
+    },
+    {
+      "id": "5058771",
+      "time": "2026-08-26 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4637.900點；恒生指數現漲0.619%。"
+    },
+    {
+      "id": "mkt:01a03bb0-68a3-7aab-911d-4b5cf559f3e7",
+      "time": "2026-08-26 09:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July non-seasonally adjusted CPI YoY 3.5% (expected 3.3%; prior 3.8%)."
+    },
+    {
+      "id": "5058770",
+      "time": "2026-08-26 09:30:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞7月未季調CPI年率 3.5%，預期3.3%，前值3.80%。澳大利亞7月未季調CPI月率 1%，預期0.8%，前值-0.1%。"
+    },
+    {
+      "id": "mkt:01a03bb0-5ee8-7aab-911d-44485efb1403",
+      "time": "2026-08-26 09:30:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia July non-seasonally adjusted CPI m/m 1.0% (est. 0.8%, prior -0.1%)."
+    },
+    {
+      "id": "mkt:01a03bb0-5cf5-7aab-911d-388992e06587",
+      "time": "2026-08-26 09:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia construction completions QoQ -2.1% in Q2, expected 0.5%, prior 3.4%."
+    },
+    {
+      "id": "5058769",
+      "time": "2026-08-26 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.12%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5058768",
+      "time": "2026-08-26 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.12%， 滬深300指數期貨連續跌0.15%， 中證500指數期貨連續跌0.06%， 上證50指數期貨連續跌0.22%。"
+    },
+    {
+      "id": "mkt:01a03bb0-3f92-7aab-911d-379ce59e5ec3",
+      "time": "2026-08-26 09:30:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China says it will prudently, steadily advance UN reform to shore up development pillar】China's deputy permanent representative to the UN, Sun Lei, said on the 25th at a joint UN80 dialogue convened by the Executive Boards of UNDP, UNFPA and UNOPS that UN80 offers an important opportunity to improve the UN development system's quality and efficiency. China is willing to work with other member states to prudently and steadily advance UN reform and effectively shore up the UN's development pillar."
+    },
+    {
+      "id": "mkt:01a03bb0-3cf6-7aab-911d-2f51b8b6aeef",
+      "time": "2026-08-26 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Construction Work Done (QoQ) (Q2) | actual -2.1% | consensus 0.5% | previous 3.40%"
+    },
+    {
+      "id": "5058767",
+      "time": "2026-08-26 09:29:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數高開0.22%。N先鋒轉、特寶轉債、惠城轉債、路維轉債、百暢轉債漲幅居前，分別漲30.00%、4.33%、3.25%、2.82%、2.51%。天源轉債、恆逸轉2、億田轉債、萬訊轉債、派克轉債跌幅居前，分別跌1.56%、0.79%、0.68%、0.60%、0.45%。"
+    },
+    {
+      "id": "mkt:01a03baf-d439-7aab-911d-22760f68f69a",
+      "time": "2026-08-26 09:29:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share oil & gas E&P sector opened sharply lower; Keli Co. opened down more than 8%, with Lanyan Holdings, Beiken Energy, Zhongman Petroleum and Tongyuan Petroleum also falling."
+    },
+    {
+      "id": "mkt:01a03baf-2692-7aab-911d-19b2c02bf94c",
+      "time": "2026-08-26 09:28:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Aidite preparing to join second-round implant centralized procurement】Aidite said at an Aug. 25 results briefing that its implant business posted modest growth in 1H26. Domestically the company is actively preparing to participate in the second round of implant centralized procurement; overseas expansion was stronger, led by the Middle East and Southeast Asia. Aidite said it has completed channel network optimization and is reinforcing implant sales strategy and its KOL team to support growth. On product strategy, the company will prioritize the digital implant segment—which it sees as having more upside than restorative—while advancing implant robotics as part of an integrated digital-implant solution."
+    },
+    {
+      "id": "5058766",
+      "time": "2026-08-26 09:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK創新：電動汽車市場放緩影響電池隔膜業務。"
+    },
+    {
+      "id": "5058765",
+      "time": "2026-08-26 09:28:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣開採板塊大幅低開 科力股份低開超8%】油氣開採板塊大幅低開，科力股份低開超8%，藍焰控股、貝肯能源、中曼石油、通源石油跟跌。"
+    },
+    {
+      "id": "5058764",
+      "time": "2026-08-26 09:28:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "可控核聚變概念開盤強勢，融發核電一字漲停，哈焊華通漲超16%，常輔股份、百利電氣、合鍛智慧、中國核建等多股高開。"
+    },
+    {
+      "id": "mkt:01a03bae-5e34-7aab-911d-14e3f412b3a9",
+      "time": "2026-08-26 09:27:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "At the open on Aug 26 (Wed), China's Shanghai Composite Index fell 7.7 points (-0.2%) to 3,881.74; Shenzhen Composite Index rose 15.49 points (+0.11%) to 13,761.36; CSI 300 Index fell 2.6 points (-0.06%) to 4,549.43; ChiNext Index rose 11.76 points (+0.35%) to 3,409.28; STAR 50 Index rose 1.15 points (+0.07%) to 1,605.74."
+    },
+    {
+      "id": "5058763",
+      "time": "2026-08-26 09:27:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【愛迪特：公司正積極籌備參與第二輪種植體集採】愛迪特(301580)8月25日在業績說明會上表示，2026年上半年公司種植體業務實現一定增長。國內方面，公司正積極籌備參與第二輪種植體集採；海外業務增長較為突出，中東、東南亞市場增速較快。公司完成渠道網路最佳化的同時，進一步強化種植體業務銷售策略佈局以及KOL團隊建設，助力業務拓展。對於後續業務規劃，產品端，公司將重點佈局數字化種植賽道，相較於修復業務，種植領域數字化仍具備較大提升空間。另外，種植機器人業務也將作為數字化種植整體解決方案的重要配套同步推進。"
+    },
+    {
+      "id": "5058762",
+      "time": "2026-08-26 09:27:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK創新：目標在未來兩年內實現電池隔膜業務盈利。"
+    },
+    {
+      "id": "mkt:01a03bad-27a8-7aab-911d-08ec40148261",
+      "time": "2026-08-26 09:26:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Atlantic reports Trump plans to buy midterm-election ads to promote his record."
+    },
+    {
+      "id": "5058761",
+      "time": "2026-08-26 09:26:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報1035.00元。"
+    },
+    {
+      "id": "5058760",
+      "time": "2026-08-26 09:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江委：長江流域將有兩次明顯降水過程】8月25日，長江防總常務副總指揮、長江委主任廖志偉主持召開防汛會商。會商指出，受颱風及冷空氣影響，長江流域將有兩次明顯降水過程。8月28日至30日，長江干流及其以南有一次中到大雨、局地暴雨或大暴雨的降水過程；8月31日至9月2日，兩湖水系大部及長江下游幹流附近有一次中到大雨、局地暴雨的降水過程。要清醒認識今年臺風偏多帶來的複雜形勢，保持主汛期工作狀態，強化監測預報預警，加密滾動會商研判，以防禦措施的確定性應對風險災害的不確定性。要發揮流域治理管理“四個統一”作用，以流域為單元，統籌協調上下游、左右岸、干支流，強化省際間河流統一治理管理。要切實維護南水北調中線工程“三個安全”，在保障工程安全、供水安全的同時，扛牢丹江口庫區及其上游流域水質安全保障政治責任。"
+    },
+    {
+      "id": "mkt:01a03bac-25bf-7aab-911d-01c3698902ff",
+      "time": "2026-08-26 09:25:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "At the open, China A-share market: Shanghai Composite Index down 0.2%, Shenzhen Composite Index up 0.11%, ChiNext Index up 0.35%."
+    },
+    {
+      "id": "5058759",
+      "time": "2026-08-26 09:25:30",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.2％，深成指漲0.11％，創業板漲0.35％。"
+    },
+    {
+      "id": "5058758",
+      "time": "2026-08-26 09:25:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta與美國各州討論和解社交媒體危害青少年相關訴訟 】Meta Platforms與美國各州總檢察長就一起指控該公司蓄意設計 Facebook 和 Instagram 以使青少年沉迷的案件，討論了庭審中期和解的可能性。由於 29 個州尋求對 Meta 處以罰款並強制其平臺運營方式進行改革，這場審判對 Meta 構成了巨大的風險。根據 Meta 自身的計算，敗訴可能導致高達 1.4 萬億美元的罰款，而和解金額則可能遠低於此。"
+    },
+    {
+      "id": "te:markets:578073",
+      "time": "2026-08-26 09:25:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies Ahead of PCE Inflation Data — The dollar index held steady near 99 on Wednesday as investors awaited the latest US PCE price index report, the Federal Reserve’s preferred measure of inflation. The data comes ahead of Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium on Friday, where he is not expected to provide clear guidance on the central bank’s policy decision in September. Meanwhile, the dollar remained near its lowest level in more than three months as investors continued to assess the implications of the Treasury Department’s expanded debt buyback program. Markets are concerned that the plan could provide only a temporary solution while reviving worries about the risks of a US debt crisis and further dollar weakness. Elsewhere, oil prices fell for a third straight session, easing inflation concerns and reducing safe-haven demand for the greenback."
+    },
+    {
+      "id": "mkt:01a03baa-75b3-7aab-911c-f9ce49f9ddf6",
+      "time": "2026-08-26 09:23:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE data showed the front-month Dutch natural gas contract fell more than 5% to €63.18/MWh."
+    },
+    {
+      "id": "mkt:01a03baa-35b9-7aab-911c-f2caaee55aca",
+      "time": "2026-08-26 09:23:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【CSI launches Commodity Futures Sector Index series today】China Securities Index (CSI) today launched a 40-index Commodity Futures Sector series, led by industrial and agricultural & livestock subindices. The indices are designed to track subsector futures price trends and returns, provide benchmarks for performance evaluation and attribution, and are intended to help steadily bolster China’s pricing power and international influence in global commodities markets."
+    },
+    {
+      "id": "5058757",
+      "time": "2026-08-26 09:23:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【中證商品期貨系列板塊指數今天正式釋出】今天（26日），中證商品期貨系列板塊指數正式對外發布。該板塊指數以工業板塊、農畜板塊為首，共40條指數。系列指數既可精準、客觀表徵各商品期貨細分板塊價格執行趨勢，又可以反映商品板塊期貨投資的收益走勢，為投資者開展投資收益評價、業績對標提供公允基準。同時，將助力穩步提升我國在全球大宗商品領域的定價話語權與國際影響力。"
+    },
+    {
+      "id": "5058756",
+      "time": "2026-08-26 09:22:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星邑空間完成數億元A輪融資】近日，星邑空間正式完成A輪增資擴股暨戰略投資人引入。此次A輪股權融資募集資金達數億元人民幣，引入了蘇創投、力合清瞳、七匹狼控股、智宸投資、蘭溪資本、海鍶創投等多家投資機構。"
+    },
+    {
+      "id": "5058755",
+      "time": "2026-08-26 09:22:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放2,395.0億元人民幣。"
+    },
+    {
+      "id": "5058754",
+      "time": "2026-08-26 09:21:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展2395億元7天逆回購操作，投標量2395億元，中標量2395億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5058753",
+      "time": "2026-08-26 09:21:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta與美國各州討論解決青少年社交媒體相關訴訟。"
+    },
+    {
+      "id": "mkt:01a03ba8-7a81-7aab-911c-eb0a1fde5b34",
+      "time": "2026-08-26 09:21:32",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "Hong Kong opened higher on Wednesday, Aug 26: Hang Seng Index +124.14 pts (+0.49%) at 25,635.24; Hang Seng Tech Index +34.44 pts (+0.75%) at 4,622.98; HSCEI (China Enterprises Index) +55.18 pts (+0.65%) at 8,500.55; red‑chip index +3.39 pts (+0.08%) at 4,232.46."
+    },
+    {
+      "id": "5058752",
+      "time": "2026-08-26 09:21:04",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.49％，國企指數漲0.65％，恒生科技指數漲0.75%。"
+    },
+    {
+      "id": "mkt:01a03ba7-fa26-7aab-911c-e3c5a5e94399",
+      "time": "2026-08-26 09:20:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted 239.5 bln yuan of 7‑day reverse repos today; bids and allotment both 239.5 bln yuan. Operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "mkt:01a03ba7-f43d-7aab-911c-d9e9268cd80c",
+      "time": "2026-08-26 09:20:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "HSI",
+        "Impact bullish",
+        "09868.HK",
+        "09618.HK"
+      ],
+      "text": "Hong Kong shares opened higher: the Hang Seng Index rose 0.49% and the Hang Seng Tech Index rose 0.75%. Xpeng Inc (09868.HK) jumped 3.33%; JD.com (09618.HK) gained nearly 2%."
+    },
+    {
+      "id": "mkt:01a03ba7-26b7-7aab-911c-d62307844bd2",
+      "time": "2026-08-26 09:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Australia's July non-seasonally adjusted CPI YoY due in 10 minutes."
+    },
+    {
+      "id": "5058751",
+      "time": "2026-08-26 09:18:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內商品期貨化工板塊低開低走大幅下挫，乙二醇期貨跌停】國內商品期貨化工板塊低開低走大幅下挫，乙二醇期貨跌停，跌幅6%，燃料油跌超8%，原油、BR橡膠跌超6%，甲醇、對二甲苯、液化氣、丙烯、苯乙烯跌超5%，PTA、短纖、瓶片跌超4%。"
+    },
+    {
+      "id": "te:markets:578072",
+      "time": "2026-08-26 09:17:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Hovers Near Multi-Month Highs — The New Zealand dollar traded near a three-month high at around $0.597 on Wednesday, after settling higher in the previous session as signs of progress in Middle East negotiations improved risk sentiment. Pakistan said on Tuesday that it had made significant progress in talks with Iran aimed at ending the war, while Tehran and Oman discussed plans for a temporary transit corridor through the Strait of Hormuz, along with a project to clear mines from the waterway. The developments eased concerns over prolonged disruptions to shipping through the strait. Also supporting the kiwi, the Reserve Bank of New Zealand is widely expected to deliver another 25-basis-point rate hike at its meeting next week, with the policy rate seen reaching 3.0% by year-end. However, weak retail sales data released earlier this week has raised fresh questions about the extent to which the central bank can continue tightening policy."
+    },
+    {
+      "id": "5058750",
+      "time": "2026-08-26 09:17:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內跌4%，現報7558.00元。"
+    },
+    {
+      "id": "te:economy:578071",
+      "time": "2026-08-26 09:17:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Australia Leading Index Subdued — The Westpac–Melbourne Institute Leading Economic Index was flat in July after an upwardly revised 0.1% gain in the prior month. Meanwhile, the six-month annualised growth rate improved to -0.2% from -0.4%, though it remained below trend for a seventh straight month. Momentum has firmed modestly since mid-year, pointing to an economy that is soft but not weak, with GDP growth likely to stay positive even as per-capita output hovers near flat. Westpac expects the Reserve Bank to hold rates again in September while stressing readiness to tighten if inflation proves sticky. Head of Macro-Forecasting Matthew Hassan said softer growth signals should reassure the board that demand is gradually aligning with supply, though the moderation also underscores resilience. The key issue remains whether growth slows enough to return inflation to the 2–3% target range in time."
+    },
     {
       "id": "5058749",
       "time": "2026-08-26 09:16:12",
@@ -148219,725 +148787,6 @@
         "焦點"
       ],
       "text": "甲醇連續主力合約日內漲4%，現報2875.00元。"
-    },
-    {
-      "id": "5046800",
-      "time": "2026-08-19 09:46:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7649.80點。"
-    },
-    {
-      "id": "5046799",
-      "time": "2026-08-19 09:46:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "禾賽科技港股在半年報公佈後跌7.3%。"
-    },
-    {
-      "id": "5046798",
-      "time": "2026-08-19 09:46:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人形機器人概念震盪下挫 上緯新材多股跌超10%】早盤人形機器人概念震盪下挫，中大力德、巨輪智慧觸及跌停，上緯新材、豐光精密、綠的諧波、昊志機電多股跌超10%。"
-    },
-    {
-      "id": "mkt:01a017b2-59d2-7aab-9086-26f88545969c",
-      "time": "2026-08-19 09:45:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "N Yushu trading value topped CNY10 bln; shares at CNY900.8, gains pulled back to below 500%."
-    },
-    {
-      "id": "5046797",
-      "time": "2026-08-19 09:45:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "N宇樹-W成交額達100億元，現漲496.29%。"
-    },
-    {
-      "id": "mkt:01a017b1-f274-7aab-9086-1c2de539c694",
-      "time": "2026-08-19 09:45:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "FFIE.O",
-        "Impact bullish"
-      ],
-      "text": "FARADAY FUTURE (FFIE.O) said it supports an AIxC strategic transformation, focusing on physical AI and robot shared-leasing operations; RoboShare has completed its first paid commercial order and its initial robot fleet exceeds 80 units."
-    },
-    {
-      "id": "5046796",
-      "time": "2026-08-19 09:45:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雅化集團與中建西部建設簽署戰略合作協議】據雅化集團訊息，8月18日，雅化集團與中建西部建設簽署戰略合作協議，雅化集團將與中建西部建設加強多領域協同發展，共同探索高質量可持續發展的新路徑。"
-    },
-    {
-      "id": "5046795",
-      "time": "2026-08-19 09:44:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭蕭鋼構等投資成立生物製藥公司】企查查APP顯示，近日，杭州瑞龍堂生物製藥有限公司成立，經營範圍包含：保健食品（預包裝）銷售；地產中草藥（不含中藥飲片）購銷；中草藥種植等。企查查股權穿透顯示，該公司由杭蕭鋼構等共同持股。"
-    },
-    {
-      "id": "mkt:01a017b1-12c8-7aab-9086-15c9bdf8c3e4",
-      "time": "2026-08-19 09:44:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Multiple robot ETFs fall more than 5%】Humanoid-robot-themed ETFs weakened; several robot ETFs managed by Fullgoal, GF Fund and Penghua fell more than 5%."
-    },
-    {
-      "id": "5046794",
-      "time": "2026-08-19 09:44:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多隻機器人ETF跌超5%】人形機器人板塊走弱。機器人ETF富國（159272）、機器人ETF廣發（159050）、機器人ETF鵬華（159278）等多隻機器人ETF跌超5%。"
-    },
-    {
-      "id": "mkt:01a017b0-dc09-7aab-9086-08c4f08ec937",
-      "time": "2026-08-19 09:44:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Yushutech intraday market cap tops CNY350 bln, jumps into STAR Market top 10】Yushutech, billed as the A-share humanoid-robot pioneer, began trading on the STAR Market on Aug. 19. Shares surged more than 500% intraday, lifting market capitalization above CNY350 billion and into the STAR Market’s top 10 by size. At the IPO price of CNY150.80/share, the company’s implied valuation was about CNY61 billion, which would have ranked roughly in the 50s on the board."
-    },
-    {
-      "id": "5046793",
-      "time": "2026-08-19 09:44:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "兆易創新A股下跌4.7%，港股下跌3.5%。"
-    },
-    {
-      "id": "5046792",
-      "time": "2026-08-19 09:43:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國機集團與北大荒集團簽署戰略合作框架協議 將加快推進高階農業裝備的推廣應用】8月18日，中國機械工業集團有限公司（簡稱“國機集團”）黨委書記、董事長張曉侖一行到訪北大荒集團，與北大荒農墾集團黨委書記、董事長王兆成座談，雙方圍繞數字農業發展、高階農機裝備研發應用等事宜進行深入交流。座談後，雙方簽署戰略合作框架協議，表示將發揮各自優勢、深化強強聯合，加快推進高階農業裝備的推廣應用。"
-    },
-    {
-      "id": "5046791",
-      "time": "2026-08-19 09:43:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "機器人概念股震盪走低，正裕工業、秦安股份雙雙跌停，上緯新材、風光精密跌超10%，巨輪智慧、中大力德、綠的諧波跌超9%。"
-    },
-    {
-      "id": "5046790",
-      "time": "2026-08-19 09:43:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【宇樹科技盤中市值超3500億元，空降科創板前10名】8月19日，被稱為“A股人形機器人第一股”的宇樹科技登陸科創板正式掛牌交易，開盤後盤中漲超500%，市值超3500億元。該市值水平在科創板上市公司中排到前10名。據此前發行價格150.8元/股計算，宇樹科技估值近610億元，科創板排名50多名左右。（第一財經）"
-    },
-    {
-      "id": "te:markets:576285",
-      "time": "2026-08-19 09:43:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Extends Advance — US heating oil futures climbed above $4.50 per gallon on Wednesday, extending gains to their highest level since March, as the deadlock over the Strait of Hormuz heightened concerns about prolonged supply disruptions. President Donald Trump said that no talks with Iran were taking place or planned, asserting that the US naval blockade remained active and that the strait was open after mines were cleared. Iran, however, countered that the waterway would remain closed until the US fulfilled its prior conditions. Traffic through the critical chokepoint came to a standstill over the weekend following attacks on vessels, underscoring persistent security risks to energy shipments. Meanwhile, Ukrainian strikes on Russian oil refineries have disrupted domestic fuel supplies, resulting in gasoline rationing in at least two regions and tighter controls on refined-product exports, with Russia extending its ban on petrol exports until January 2027 and diesel exports until August 2026."
-    },
-    {
-      "id": "mkt:01a017af-cc21-7aab-9086-05231622c980",
-      "time": "2026-08-19 09:43:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Newly listed N Shuangying jumped 143.9%, triggering an intraday trading halt. Shuangying Group’s core business is R&D, production and sales of automotive seats and interior and exterior trim."
-    },
-    {
-      "id": "5046789",
-      "time": "2026-08-19 09:42:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷軍打新宇樹科技狂賺152億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。經梳理發現，雷軍創辦的順為資本關聯方Astrend IV持有1610.6萬股，浮盈超152億元。（中新經緯）"
-    },
-    {
-      "id": "5046788",
-      "time": "2026-08-19 09:42:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量208億元。"
-    },
-    {
-      "id": "5046787",
-      "time": "2026-08-19 09:41:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥概念表現活躍 西點藥業4天2板】創新藥概念表現活躍，西點藥業4天2板，九典制藥漲超10%，漢森製藥、哈三聯漲停，新贛江、金陵藥業、特寶生物跟漲。"
-    },
-    {
-      "id": "5046786",
-      "time": "2026-08-19 09:41:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇樹創始人王興興身家超1300億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。 招股書顯示：創始人王興興直接持股21.43%，透過員工持股平臺間接持股9.84%，合計31.29%。以此計算，創始人王興興身家超1300億元。（每經）"
-    },
-    {
-      "id": "mkt:01a017ad-9908-7aab-9085-fc42d0a28168",
-      "time": "2026-08-19 09:40:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share beverage manufacturing sector slipped intraday; Yiming Food hit the daily limit down, with Huangshi Group, Western Animal Husbandry, Weilong, Juneyao Health and Sanyuan following lower."
-    },
-    {
-      "id": "5046785",
-      "time": "2026-08-19 09:40:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率指數下跌3.0個基點至4.175%。"
-    },
-    {
-      "id": "te:markets:576283",
-      "time": "2026-08-19 09:40:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Plunge — The benchmark KOSPI fell more than 4% to around 6,560 on Wednesday, extending losses from the previous session, as a global bond selloff weighed on investor sentiment. The US 30-year Treasury yield climbed to its highest level since 2007, while long-term bond yields also reached multi-year highs in Japan and Europe, raising concerns over higher borrowing costs and pressuring growth and technology stocks. The global technology selloff hit Korean chipmakers particularly hard, with Samsung Electronics and SK hynix falling around 6% and 7%, respectively, as they tracked losses in US semiconductor stocks. Losses were also recorded in SK Square (-9.6%), Hyundai Motor (-3.5%), KB Financial Group (-2.3%), Kia Corporation (-3.4%), and Doosan Enerbility (-3.3%). At the same time, higher oil prices added to inflation concerns after President Donald Trump said the US is not in talks with Iran, while stalled peace efforts raised fears of further disruptions to oil supplies from the Middle East."
-    },
-    {
-      "id": "5046784",
-      "time": "2026-08-19 09:40:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【飲料製造板塊短線走低，一鳴食品跌停】飲料製造板塊短線走低，一鳴食品跌停，皇氏集團、西部牧業、威龍股份、均瑤健康、三元股份等跟跌。"
-    },
-    {
-      "id": "5046783",
-      "time": "2026-08-19 09:40:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【新股N雙英漲超143% 觸發臨停】新股N雙英擴大漲幅至143%，觸發臨停，成交超2.6億元。資料顯示，公司主營汽車座椅、汽車內外飾件研發、生產和銷售。"
-    },
-    {
-      "id": "mkt:01a017ac-9b86-7aab-9085-f622747d325a",
-      "time": "2026-08-19 09:39:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Alphabet",
-        "NVDA.O",
-        "Impact bullish",
-        "AMD.O",
-        "GOOGL.O"
-      ],
-      "text": "【Liquid cooling for AI servers moving from optional to mainstream】TrendForce projects liquid-cooling penetration in AI servers will rise from about 38% in 2025 to 53% in 2026 and near 60% in 2027. The rise is driven by broader adoption of liquid cooling in next‑generation AI platforms from NVIDIA, AMD and Google; as chip power and rack density increase, liquid cooling is shifting from an optional add‑on for high‑power servers to mainstream AI infrastructure. Penetration topping 50% in 2026 implies incremental AI capex will increasingly flow into cooling, power and data‑center support equipment."
-    },
-    {
-      "id": "mkt:01a017ac-39a8-7aab-9085-ef90858f59a4",
-      "time": "2026-08-19 09:39:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Liang Wenfeng’s Yushu Technology allocation shows >1.1 bln yuan unrealized gain】On Aug. 19 Yushu Technology debuted on the STAR Market, surging 629.44% at 1,100 yuan/share and valuing the company at about 444.9 bln yuan. Investment vehicles linked to Liang Wenfeng — Deep Quest, Magic Square Quant and Nine Chapters Asset — were allocated roughly 1.1916 mln shares via strategic allotments and offline subscriptions; at the offering price the position carries an unrealized gain of more than 1.1 bln yuan."
-    },
-    {
-      "id": "5046782",
-      "time": "2026-08-19 09:38:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【影視院線板塊盤初走弱，北京文化跌停】影視院線板塊盤初走弱，北京文化跌停，中廣天擇、儒意電影、華智數媒、華策影視、百納千成、歡瑞世紀等跟跌。"
-    },
-    {
-      "id": "5046781",
-      "time": "2026-08-19 09:38:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4410美元/盎司，日內跌0.24%。"
-    },
-    {
-      "id": "5046780",
-      "time": "2026-08-19 09:38:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股光通訊股走弱 劍橋科技跌超6%】截至發稿，劍橋科技(06166.HK)跌6.04%，長飛光纖光纜(06869.HK)跌5.27%，匯聚科技(01729.HK)跌5.20%。"
-    },
-    {
-      "id": "5046779",
-      "time": "2026-08-19 09:38:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【地產產業鏈逆勢活躍 志邦家居等多股漲停】早盤地產產業鏈逆勢活躍，家居、建材方向領漲，志邦家居、中交發展、羅普斯金、好太太漲停，尚品宅配、兔寶寶、三棵樹等跟漲。"
-    },
-    {
-      "id": "te:economy:576282",
-      "time": "2026-08-19 09:38:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Wage Growth",
-        "Importance 1"
-      ],
-      "text": "Australia Q2 Annual Wage Growth Remains at 5-Quarter Low — Australia’s seasonally adjusted Wage Price Index increased 3.2% year-on-year in Q2 2025, unchanged from the revised figure in Q1 and matching market expectations of 3.2%. The growth was driven by gains in both sectors, with private-sector wages advancing 3.1% (vs 3.2% in Q1), the lowest since Q2 2022, and public-sector pay increasing 3.4% (vs 3.4%), the weakest increase since Q4 2024. On a quarterly basis, wages grew 0.8%, unchanged from the previous four quarters and in line with market expectations."
-    },
-    {
-      "id": "5046778",
-      "time": "2026-08-19 09:38:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數下跌1.1%，至6198.21點。"
-    },
-    {
-      "id": "5046777",
-      "time": "2026-08-19 09:37:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上緯新材盤中跌超15%】A股上緯新材盤中跌15.33%，現報160.01元。"
-    },
-    {
-      "id": "mkt:01a017aa-d728-7aab-9085-e30d9b9d2f7f",
-      "time": "2026-08-19 09:37:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "00815.HK",
-        "Impact bearish",
-        "01815.HK",
-        "03939.HK"
-      ],
-      "text": "Hong Kong gold stocks slid: China Silver Group (00815.HK), Zhufeng Gold (01815.HK) and Wanguo Gold (03939.HK) fell over 3%; Tongguan Gold (00340.HK) and Zijin Gold International (02259.HK) were down more than 2%."
-    },
-    {
-      "id": "5046776",
-      "time": "2026-08-19 09:37:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【動物保健板塊走弱，聖達生物跌停】動物保健板塊走弱，聖達生物跌停，蔚藍生物、賢豐控股、美農生物、康華生物、天邦食品、亨通股份等跟跌。"
-    },
-    {
-      "id": "5046775",
-      "time": "2026-08-19 09:37:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "醫藥股快速反彈，亨迪藥業、哈三聯直線漲停，萬邦醫藥、九典制藥、特寶生物、金陵藥業等跟漲。"
-    },
-    {
-      "id": "5046774",
-      "time": "2026-08-19 09:36:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【梁文峰打新宇樹科技浮盈11億】8月19日，宇樹科技正式登陸科創板，開盤大漲629.44%報1100元/股，總市值達4449億元。以150.80元/股的發行價計算，中一簽可賺47.46萬元。此次作為“杭州六小龍”之一的宇樹科技上市，背後股東可謂明星雲集。梁文鋒旗下深度求索、幻方量化和九章資產透過戰略配售、網下打新合計獲配約119.16萬股。以發行價計算，梁文鋒打新宇樹科技浮盈超11億元。（中新經緯）"
-    },
-    {
-      "id": "mkt:01a017a9-cee8-7aab-9085-dea31a9167be",
-      "time": "2026-08-19 09:36:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK",
-        "Impact bullish"
-      ],
-      "text": "Xiaomi Corp (01810.HK) shares rose more than 5% after earnings; Q2 revenue 108.92 billion yuan, adjusted net profit 6.22 billion yuan."
-    },
-    {
-      "id": "mkt:01a017a8-eb7a-7aab-9085-d37db21ef8ab",
-      "time": "2026-08-19 09:35:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【2026 APEC customs series meeting opens in Dalian】The 2026 APEC customs series meeting opened in Dalian today (19th), drawing customs officials from 13 APEC economies, representatives of international organisations and Authorized Economic Operator firms. Aligned with APEC’s 2026 theme and the priorities of openness, innovation and cooperation, the forum aims to provide a high-level dialogue platform to strengthen Asia‑Pacific customs governance capacity."
-    },
-    {
-      "id": "5046773",
-      "time": "2026-08-19 09:35:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“三鑫轉債”盤中臨時停牌】深交所公告，“三鑫轉債”(123280)盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，深交所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "mkt:01a017a8-a2da-7aab-9085-ca48b66d5d4e",
-      "time": "2026-08-19 09:35:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share genetically modified (GM) seeds sector remained active: Nongfa Seed posted a third consecutive limit-up; Jingliang Holding and Wanxiang Denong hit daily limits; Dunhuang Seed, Qiule Seed and Shennong Seed also rose."
-    },
-    {
-      "id": "5046772",
-      "time": "2026-08-19 09:35:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達2.03%，成分股中，萬達軸承跌6.81%，三協電機跌6.66%，駿創科技跌4.19%，戈碧迦跌4.10%。"
-    },
-    {
-      "id": "5046771",
-      "time": "2026-08-19 09:34:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金站上4350美元/盎司】現貨黃金站上4350美元/盎司，日內漲0.38%。"
-    },
-    {
-      "id": "5046770",
-      "time": "2026-08-19 09:34:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4350美元/盎司，日內漲0.37%。"
-    },
-    {
-      "id": "5046769",
-      "time": "2026-08-19 09:34:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB板塊盤初走弱，賢豐控股觸及跌停】PCB板塊盤初走弱，賢豐控股觸及跌停，強達電路、中材科技、方邦股份、景旺電子、國際復材、芯碁微裝等跟跌。"
-    },
-    {
-      "id": "5046768",
-      "time": "2026-08-19 09:34:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "AI晶片初創公司Rebellions稱正在準備在韓國進行IPO。"
-    },
-    {
-      "id": "5046767",
-      "time": "2026-08-19 09:34:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "豆粕連續主力合約日內漲1%，現報3251.00元。"
-    },
-    {
-      "id": "5046766",
-      "time": "2026-08-19 09:33:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【農業板塊繼續逆勢活躍 金健米業3連板】早盤農業板塊繼續逆勢活躍，金健米業、農發種業、京糧控股3連板，萬向德農、亞盛集團、登海種業等跟漲。"
-    },
-    {
-      "id": "mkt:01a017a7-4287-7aab-9085-c364a867db0c",
-      "time": "2026-08-19 09:33:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "China's STAR 50 Index fell over 3% as semiconductor stocks weakened; Baiwei Storage slid nearly 5%."
-    },
-    {
-      "id": "mkt:01a017a7-419e-7aab-9085-be1bd03e655f",
-      "time": "2026-08-19 09:33:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Where to park spare cash? Money-market yield snapshot】Licaitong Current+ 7-day annualized yield ranged 0.7070%–1.4040%. WeChat Lingqiantong 7-day annualized yield ranged 0.8940%–1.0060%. Alipay Yu'e Bao 7-day annualized yield ranged 0.9010%–1.0530%."
-    },
-    {
-      "id": "5046765",
-      "time": "2026-08-19 09:33:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026APEC海關係列會議在大連舉辦】今年是APEC“中國年”，中國海關擔任APEC海關手續分委會主席。今天（19日），2026年亞太經合組織（APEC）海關係列會議將在大連舉辦，來自13個APEC經濟體的海關、相關國際組織、AEO企業的代表將參加今天的研討會。據瞭解，此次活動緊扣“建設亞太共同體，促進共同繁榮”年度主題及“開放、創新、合作”三大優先領域，旨在搭建高水平對話平臺，助力提升亞太區域海關治理能力。（央視新聞）"
-    },
-    {
-      "id": "5046764",
-      "time": "2026-08-19 09:33:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上證指數跌1.01%，現報3950.141點；深證成指跌2.37%，現報14276.488點；創業板指跌3.04%，現報3592.817點。"
-    },
-    {
-      "id": "mkt:01a017a6-8e9e-7aab-9085-b1191b4016ad",
-      "time": "2026-08-19 09:33:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share real estate sector staged a brief intraday rally; Nandu Property hit the daily limit. I Love My Home, Zhongtian Service, Shibei Hi‑Tech, Jinke and Greenland Holdings also rose."
-    },
-    {
-      "id": "5046763",
-      "time": "2026-08-19 09:32:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻人氣股下挫 愛麗家居、一鳴食品雙雙跌停】早盤高位人氣股批次調整，愛麗家居、一鳴食品跌停。欣天科技、桂發祥、中石科技、天洋新材、金螳螂等跟跌。"
-    },
-    {
-      "id": "te:markets:576280",
-      "time": "2026-08-19 09:32:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Steadies Ahead of FOMC Minutes — The dollar index steadied around 99.6 on Wednesday after touching more than two-month lows earlier this week, as investors turned their attention to minutes from the Federal Reserve’s July meeting for fresh clues on the monetary policy outlook. The Fed left interest rates unchanged last month, although three officials dissented in favor of a rate hike, with traders looking for more details on the division within the central bank. Markets currently see a 65% chance that policymakers will keep rates unchanged in September following a string of weak US economic data, while expectations for a rate increase later this year have also faded. Investors will also watch Chairman Kevin Warsh’s remarks at the Fed’s annual Jackson Hole symposium later this month, where he could seek to reassure markets amid a global bond selloff. The 30-year US Treasury yield reached a 19-year high this week, while sovereign yields across other major economies also climbed to their highest levels in decades."
-    },
-    {
-      "id": "5046762",
-      "time": "2026-08-19 09:32:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊短線拉昇，南都物業漲停】房地產板塊短線拉昇，南都物業漲停，我愛我家、中天服務、市北高新、金科股份、綠地控股等紛紛走高。"
-    },
-    {
-      "id": "mkt:01a017a5-d329-7aab-9085-ac2975e1c85b",
-      "time": "2026-08-19 09:32:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "600256.SS",
-        "Impact bullish",
-        "600378.SS"
-      ],
-      "text": "China A-share coal mining and processing sector briefly surged intraday; Baotailong hit the daily limit, while Dayou Energy, Zhengzhou Coal, Huaibei Mining, Haohua Energy and Guanghui Energy advanced."
-    },
-    {
-      "id": "mkt:01a017a5-0cc8-7aab-9085-a1ab206120ad",
-      "time": "2026-08-19 09:31:27",
-      "tags": [
-        "MKT News",
-        "00762.HK",
-        "Impact bearish"
-      ],
-      "text": "China Unicom (00762.HK) shares fell more than 10% after the company reported 1H net profit down 34.6% YoY."
-    },
-    {
-      "id": "5046761",
-      "time": "2026-08-19 09:31:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【煤炭開採加工板塊短線衝高，寶泰隆漲停】煤炭開採加工板塊短線衝高，寶泰隆漲停，大有能源、鄭州煤電、淮北礦業、昊華能源、廣匯能源跟漲。"
-    },
-    {
-      "id": "mkt:01a017a4-dcb7-7aab-9085-9f9dbfa0e14a",
-      "time": "2026-08-19 09:31:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【Index futures morning open】China equity index futures opened lower: CSI300 (IF) most-active contract down 1.02%; SSE 50 (IH) down 0.59%; CSI500 (IC) down 1.12%; CSI1000 (IM) down 1.03%."
-    },
-    {
-      "id": "mkt:01a017a4-dc6f-7aab-9085-9364f0ca1754",
-      "time": "2026-08-19 09:31:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures open】2-year (TS) most-active contract down 0.01%; 5-year (TF) most-active contract down 0.01%; 10-year (T) most-active contract unchanged; 30-year (TL) most-active contract down 0.02%."
-    },
-    {
-      "id": "5046760",
-      "time": "2026-08-19 09:31:10",
-      "tags": [
-        "公司",
-        "觀點",
-        "原創"
-      ],
-      "text": "【花旗下調百度美股目標價6.2% AI雲基礎設施收入放緩削弱業績】百度營收連續第五個季度下滑，隔夜ADR大跌近13%。花旗表示，公司二季度業績略低於預期，儘管GPU（圖形處理器）營收加速增長，但因AI雲基礎設施增長缺乏持續性而抵消。花旗分析師Alicia Yap等人在報告中表示，ADR股價下跌反應了AI雲基礎設施收入增速放緩、淨利潤未達預期（因投資資產公允價值下降及匯兌因素）、擬議中的崑崙芯分拆上市時間表缺乏明確的能見度。鑑於業績預測調整及下調雲業務估值倍數，將百度ADR目標價由177美元下調至166美元。鑑於估值處於低位以及雙重主要上市轉換帶來的催化劑，維持該股“買入”評級。花旗表示，預計第三季度公百度通用業務收入將同比下降1.5%；AI驅動的收入將同比增長29%；AI雲基礎設施收入將同比增長65%至69.4億元人民幣。"
-    },
-    {
-      "id": "mkt:01a017a4-7aa5-7aab-9085-8aa5d809673e",
-      "time": "2026-08-19 09:30:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China A-shares opened lower and extended losses: ChiNext fell over 3%, the Shenzhen Composite Index dropped 2.26%, and the Shanghai Composite Index declined 0.9%."
-    },
-    {
-      "id": "5046759",
-      "time": "2026-08-19 09:30:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達3.05%，成分股中，華虹宏力跌4.59%，瀾起科技跌4.57%，拓荊科技跌4.48%，源傑科技跌4.46%。"
-    },
-    {
-      "id": "5046758",
-      "time": "2026-08-19 09:30:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤下跌0.22%。賽斯轉債、勝藍轉02、泰坦轉債、金25轉債、微導轉債跌幅居前，分別跌3.50%、3.35%、3.14%、3.12%、3.11%。三鑫轉債、N奧普轉、天脈轉債、合金轉債、航宇轉債漲幅居前，分別漲30.00%、30.00%、14.56%、11.34%、6.76%。"
-    },
-    {
-      "id": "5046757",
-      "time": "2026-08-19 09:30:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌3.00%，現報3594.377點；上證指數跌0.95%，現報3952.409點；深證成指跌2.30%，現報14286.479點。"
-    },
-    {
-      "id": "5046756",
-      "time": "2026-08-19 09:30:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞二季度薪資價格指數（不包括獎金）季環比 0.8%，預期 0.8%，前值 0.8%。澳大利亞二季度薪資價格指數（不包括獎金）同比 3.2%，預期 3.2%，前值 3.3%。"
-    },
-    {
-      "id": "mkt:01a017a3-e6fb-7aab-9085-8794a46d8c39",
-      "time": "2026-08-19 09:30:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "C-frequency indicator opened down 13.17%; it closed up 516.44% yesterday."
-    },
-    {
-      "id": "mkt:01a017a3-d905-7aab-9085-7cd5c8c3be4b",
-      "time": "2026-08-19 09:30:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Australia Q2 seasonally adjusted Wage Price Index YoY 3.2% (expected 3.2%; prior 3.3%)."
-    },
-    {
-      "id": "mkt:01a017a3-d3e1-7aab-9085-771e3491c4b2",
-      "time": "2026-08-19 09:30:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia Q2 seasonally adjusted Wage Price Index q/q 0.8% (forecast 0.80%, prior 0.80%)."
-    },
-    {
-      "id": "5046755",
-      "time": "2026-08-19 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.05%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約跌0.01%。"
-    },
-    {
-      "id": "5046754",
-      "time": "2026-08-19 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.15%， 滬深300指數期貨連續跌1.29%， 中證500指數期貨連續跌1.09%， 上證50指數期貨連續跌0.74%。"
-    },
-    {
-      "id": "5046753",
-      "time": "2026-08-19 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.18%，成分股中，戈碧迦跌5.92%，國子軟體跌4.05%，艾融軟體跌3.68%，萬達軸承跌3.43%。"
-    },
-    {
-      "id": "5046752",
-      "time": "2026-08-19 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.90%，成分股中，源傑科技跌5.20%，佰維儲存跌4.99%，瀾起科技跌4.58%，盛科通訊跌4.17%。"
     }
   ]
 }
