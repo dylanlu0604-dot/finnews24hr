@@ -1,7 +1,95 @@
 {
   "date": "2026-08-26",
-  "count": 455,
+  "count": 465,
   "items": [
+    {
+      "id": "mkt:01a03b5f-69c2-7aab-911c-1835603b76f2",
+      "time": "2026-08-26 08:01:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 12.32 points, or 0.18%, at 6,730.42 on Wednesday, Aug. 26. Samsung Electronics and SK Hynix each slipped less than 1%."
+    },
+    {
+      "id": "5058631",
+      "time": "2026-08-26 08:00:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.2%，至6727.25點。"
+    },
+    {
+      "id": "5058629",
+      "time": "2026-08-26 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報65604.49點，跌幅0.38%。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608263853727683",
+      "time": "2026-08-26 08:00:16",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【調查：過半經濟學家預計明年一季度日本央行將上調利率到至少1.50%】據路透調查，超過半數的經濟學家預計日本央行將在2027年第一季度將利率提高至至少1.50%（上次調查為1.25%）。"
+    },
+    {
+      "id": "5058628",
+      "time": "2026-08-26 08:00:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報85.82美元/桶。"
+    },
+    {
+      "id": "5058627",
+      "time": "2026-08-26 07:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：特朗普已將美沙核協議提交國會審議】據美國《華爾街日報》25日報道，一名美政府官員表示，美國總統特朗普已將美國與沙烏地阿拉伯7月達成的核協議提交國會審議。該官員同時強調，特朗普仍堅持此前提出的前提條件，即要求沙特與以色列實現關係正常化。報道說，此舉預計將在國會議員中引發為期數月的激烈辯論，議題將圍繞如何在促進美國核工業發展的同時，遏制大規模殺傷性武器在中東地區擴散。（新華社）"
+    },
+    {
+      "id": "mkt:01a03b5d-4b1f-7aab-911c-16c93abfae62",
+      "time": "2026-08-26 07:59:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's Future Fund said Raphael Arndt will resign but will remain chief executive until the end of 2026."
+    },
+    {
+      "id": "5058626",
+      "time": "2026-08-26 07:59:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上半年PVC行業走勢低迷 相關公司業績分化】在煤炭、原油等上游原料價格高位波動的背景下，國內PVC（聚氯乙烯）市場近期呈現底部走強的執行態勢。今年上半年，PVC行業走勢低迷，相關公司業績分化。業內普遍認為，成本端抬升為PVC價格提供了底部支撐，但高庫存與弱需求的現實約束仍存，市場短期難以擺脫震盪築底態勢。PVC是全球產量最大的通用塑膠之一，被廣泛應用於建築、電力、包材及醫療器械等領域。其中，房地產及基建相關的管材、型材需求約佔PVC總消費量的六成以上，使其成為觀察國內地產及基建景氣度的重要風向標。近年來，國內PVC行業正經歷一輪結構性收縮。"
+    },
+    {
+      "id": "5058625",
+      "time": "2026-08-26 07:58:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【民營大煉化板塊交出亮眼“期中答卷” 龍頭有望迎來業績與估值共振修復】8月以來，全球成品油市場裂解價差持續走闊，美國柴油期貨與WTI（西得克薩斯中間基原油）原油期貨價差一度創下102.2美元的歷史新高。在海外煉能遭受戰事重創、國內產能政策落地的雙重背景下，A股民營大煉化板塊交出了一份亮眼的“期中答卷”。8月25日，榮盛石化釋出半年報，淨利激增超7倍。此外，近期恆逸石化、恆力石化、衛星化學披露半年度業績，均實現大幅增長。券商機構普遍認為，全球煉化行業格局正在經歷深刻重構，擁有全產業鏈一體化優勢的民營大煉化龍頭作為稀缺資產，有望迎來業績與估值的共振修復。"
+    },
+    {
+      "id": "mkt:01a03b5c-013f-7aab-911c-0d353da6c4bc",
+      "time": "2026-08-26 07:58:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【US announces fresh sanctions on Iran; Qatar urges dialogue to resolve crisis】Responding to US announcement of a new round of sanctions on Iran, Qatar Foreign Ministry spokesman Ansari said on the 25th that the measures are unilateral. He said Qatar is continuing efforts to bring the US and Iran back to the negotiating table and urged all parties to engage sincerely in mediation led by Qatar, Pakistan and other regional states. Ansari said Qatar supports resolving the crisis through dialogue and that an immediate priority is restoring freedom of navigation and returning the Strait of Hormuz to its pre-crisis openness."
+    },
     {
       "id": "5058624",
       "time": "2026-08-26 07:57:11",
