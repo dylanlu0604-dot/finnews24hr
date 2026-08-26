@@ -1,7 +1,53 @@
 {
   "date": "2026-08-26",
-  "count": 465,
+  "count": 469,
   "items": [
+    {
+      "id": "mkt:01a03b62-8e62-7aab-911c-2aa7e844cb6d",
+      "time": "2026-08-26 08:05:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Japanese corporate services inflation accelerates in July】Data released Wednesday showed a key gauge of services inflation in Japan rose 3.6% YoY in July, up from a revised 3.4% in June. The corporate services price index, which tracks inter-firm services prices, reinforces the Bank of Japan's view that a tight labor market is allowing firms to pass higher costs on to consumers and signals broader inflationary pressure, bolstering the near-term case for rate hikes."
+    },
+    {
+      "id": "te:markets:578055",
+      "time": "2026-08-26 08:04:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies Ahead of US PCE Inflation Data — Gold hovered around $4,650 an ounce on Wednesday, remaining near three-month highs as investors awaited the latest US PCE price index report, the Federal Reserve’s preferred measure of inflation. Attention is also turning to Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium on Friday, although he is not expected to provide clear guidance on the central bank’s policy decision in September. Investors continued to assess the US Treasury’s decision to double liquidity-support buyback operations for longer-dated notes and bonds, a move that helped push the dollar to a more than three-month low last week. Meanwhile, oil prices fell for a third consecutive session, easing inflation concerns and further supporting the bullish outlook for gold. Elsewhere, China’s net gold imports through Hong Kong rose around 11% month-over-month in July, supported by stronger investment demand."
+    },
+    {
+      "id": "5058634",
+      "time": "2026-08-26 08:02:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【加拿大居民赴美旅行收縮，海外多國迎來加拿大遊客】加拿大統計局釋出《2026年第一季度全國旅遊及遊客旅遊調查報告》，資料顯示，一季度加拿大居民境內外總出行7870萬人次，同比上漲1.5%；入境遊客合計450萬人次，同比增長3.5%。前往美國出行550萬人次，同比大跌10.6%，其中37.5%為當日往返。赴美總支出50億加元，同比下滑13.6%。（新華財經）"
+    },
+    {
+      "id": "mkt:01a03b5f-87d8-7aab-911c-2534bd129e5b",
+      "time": "2026-08-26 08:01:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 342.29 points (-0.52%) at 65,514.14 on Aug 26 (Wed)."
+    },
     {
       "id": "mkt:01a03b5f-69c2-7aab-911c-1835603b76f2",
       "time": "2026-08-26 08:01:43",

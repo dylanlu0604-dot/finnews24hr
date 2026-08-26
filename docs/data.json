@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-26 08:02:18",
-  "count": 16513,
+  "updated": "2026-08-26 08:06:17",
+  "count": 16505,
   "items": [
+    {
+      "id": "mkt:01a03b62-8e62-7aab-911c-2aa7e844cb6d",
+      "time": "2026-08-26 08:05:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Japanese corporate services inflation accelerates in July】Data released Wednesday showed a key gauge of services inflation in Japan rose 3.6% YoY in July, up from a revised 3.4% in June. The corporate services price index, which tracks inter-firm services prices, reinforces the Bank of Japan's view that a tight labor market is allowing firms to pass higher costs on to consumers and signals broader inflationary pressure, bolstering the near-term case for rate hikes."
+    },
+    {
+      "id": "te:markets:578055",
+      "time": "2026-08-26 08:04:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies Ahead of US PCE Inflation Data — Gold hovered around $4,650 an ounce on Wednesday, remaining near three-month highs as investors awaited the latest US PCE price index report, the Federal Reserve’s preferred measure of inflation. Attention is also turning to Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium on Friday, although he is not expected to provide clear guidance on the central bank’s policy decision in September. Investors continued to assess the US Treasury’s decision to double liquidity-support buyback operations for longer-dated notes and bonds, a move that helped push the dollar to a more than three-month low last week. Meanwhile, oil prices fell for a third consecutive session, easing inflation concerns and further supporting the bullish outlook for gold. Elsewhere, China’s net gold imports through Hong Kong rose around 11% month-over-month in July, supported by stronger investment demand."
+    },
+    {
+      "id": "5058634",
+      "time": "2026-08-26 08:02:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【加拿大居民赴美旅行收縮，海外多國迎來加拿大遊客】加拿大統計局釋出《2026年第一季度全國旅遊及遊客旅遊調查報告》，資料顯示，一季度加拿大居民境內外總出行7870萬人次，同比上漲1.5%；入境遊客合計450萬人次，同比增長3.5%。前往美國出行550萬人次，同比大跌10.6%，其中37.5%為當日往返。赴美總支出50億加元，同比下滑13.6%。（新華財經）"
+    },
+    {
+      "id": "mkt:01a03b5f-87d8-7aab-911c-2534bd129e5b",
+      "time": "2026-08-26 08:01:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 342.29 points (-0.52%) at 65,514.14 on Aug 26 (Wed)."
+    },
     {
       "id": "mkt:01a03b5f-69c2-7aab-911c-1835603b76f2",
       "time": "2026-08-26 08:01:43",
@@ -149312,119 +149358,6 @@
         "國際"
       ],
       "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
-    },
-    {
-      "id": "te:economy:576259",
-      "time": "2026-08-19 08:06:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Machinery Orders",
-        "Importance 2"
-      ],
-      "text": "Japan Machinery Orders Rebound More than Expected — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric utilities, jumped 9.7% month-on-month to JPY 1.06 trillion in June 2026, shifting from a 12.4% drop in the prior month and exceeding market forecasts of a 7.8% gain. It was the third time of increase so far this year, also marking the fastest pace since February, reflecting broad-based recovery in business investment. Orders from manufacturers bounced back 19.9% (vs -14.9% in May), while non-manufacturing orders improved (4.5% vs 9.3%). Among manufacturers, the strongest growth came from non-ferrous metals (225.3%), shipbuilding (94.9%), chemicals (39.0%), and petroleum and coal (32.9%). In the non-manufacturing sector, orders strengthened in real estate (253.1%), agriculture (33.0%), and mining, quarrying (23.7%). On an annual basis, machinery orders expanded 16.9%, swinging from May's 1.9% decline and topping estimates for a 10.8% rise and pointing to the fastest rise in four months."
-    },
-    {
-      "id": "5046626",
-      "time": "2026-08-19 08:06:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青島—溫哥華航線將於10月2日復航】據“青島釋出”，由首都航空執飛的杭州—青島—溫哥華航線將於10月2日復航，每週五執行一班，機型為空客A330寬體機，目前已在各大平臺公開售票。這是加拿大交通部今年4月宣佈大幅增加中加直航配額後，又一條重啟的中加航線。復航後，該航線將成為山東省內唯一直飛北美洲的客運航線。今年1至7月，青島機場國際及地區旅客量達210萬人次，同比增長12%，位列全國機場第10位。"
-    },
-    {
-      "id": "mkt:01a01756-a35a-7aab-9083-f4f0c431a019",
-      "time": "2026-08-19 08:05:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI intraday losses widened to 6.00%, trading at 6,454.44 points."
-    },
-    {
-      "id": "5046625",
-      "time": "2026-08-19 08:05:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報6454.44點。個股方面，SK海力士跌超8%，三星電子跌超7%。"
-    },
-    {
-      "id": "5046624",
-      "time": "2026-08-19 08:04:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價早盤下跌8.2%，至1,525,500韓元。"
-    },
-    {
-      "id": "5046623",
-      "time": "2026-08-19 08:04:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數下跌2%。"
-    },
-    {
-      "id": "5046622",
-      "time": "2026-08-19 08:04:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓媒稱韓美聯合軍演日程將減半 韓國防部稱無法確認 】韓國廣播公司18日晚援引軍方人士訊息報道稱，韓美“乙支自由之盾”聯合軍演日程將縮短一半，在防禦作戰結束後提前結束。韓國國防部19日表示，對此無法確認。（新華社）"
-    },
-    {
-      "id": "5046621",
-      "time": "2026-08-19 08:04:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數大跌5.5%，晶片股重挫。"
-    },
-    {
-      "id": "mkt:01a01754-f081-7aab-9083-eb424bf7602e",
-      "time": "2026-08-19 08:03:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
-    },
-    {
-      "id": "5046620",
-      "time": "2026-08-19 08:03:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北部灣港集團與寧德時代交流座談】據北部灣港集團訊息，近日，北部灣港集團與到訪的寧德時代在南寧開展交流座談。雙方圍繞港航物流、新能源裝置運維、儲能業務等方面開展深入交流。交流中雙方一致認為，北部灣港集團與寧德時代在新能源裝置應用、換電站建設運營、鋰電池集裝箱出口等方面取得了積極合作成效。當前，平陸運河通航在即，西部陸海新通道建設持續深化，港口綠色低碳轉型加速推進，雙方表示將搶抓戰略機遇，在新能源裝置運維與電池全生命週期管理、綠色智慧新能源船舶建設、儲能業務等方面深化務實合作。"
-    },
-    {
-      "id": "mkt:01a01754-22b2-7aab-9083-e4448b65674d",
-      "time": "2026-08-19 08:03:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【AI boom and energy shock split Southeast Asia growth】AI-driven demand for semiconductors and other components has underpinned growth in Malaysia and Singapore, while Vietnam remains the region’s fastest-growing large economy. Thailand and the Philippines are weakening as energy costs spike from the Middle East conflict; the Philippines is further hit by a sharp pullback in infrastructure spending. Economies with firms tied to AI-related tech supply chains are proving more resilient; those reliant on imported energy are losing momentum. DBS Group economists said: \"Growth divergence depends on domestic resilience to the Middle East crisis and the degree of reliance on tech exports in trade structure.\""
-    },
-    {
-      "id": "5046619",
-      "time": "2026-08-19 08:02:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普將任命白宮顧問海蒂·奧弗頓擔任FDA局長。"
     }
   ]
 }
