@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-26 20:10:09",
-  "count": 16723,
+  "updated": "2026-08-26 20:14:48",
+  "count": 16715,
   "items": [
+    {
+      "id": "5060256",
+      "time": "2026-08-26 20:13:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬和電氣：2026年上半年淨利潤6145.61萬元，同比下降83.78%】萬和電氣公告，2026年上半年營業收入36.61億元，同比下降10.34%；歸屬於上市公司股東的淨利潤6145.61萬元，同比下降83.78%，2025年同期為3.79億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5815.7萬元，同比下降85.82%，2025年同期為4.1億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5060255",
+      "time": "2026-08-26 20:12:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國下薩克森州州長：大眾奧斯納布呂克工廠的目標是在國防領域提出新概念。"
+    },
+    {
+      "id": "5060254",
+      "time": "2026-08-26 20:11:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日媒稱日本新財年國債費預算創新高】據日本媒體近期報道，在2027年4月至2028年3月的2027財年中，日本政府部門和機構的預算申請總額預計將超過130萬億日元，相比本財年的122萬億日元顯著增加。多家日本媒體8月25日報道稱，以上預算申請當中，日本財務省計劃撥出36.6386萬億日元用作“國債費”，創下歷史新高。（CCTV國際時訊）"
+    },
+    {
+      "id": "5060253",
+      "time": "2026-08-26 20:10:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澤連斯基重獎馬斯克】據環球時報援引烏克蘭總統府官方網站訊息，2026年8月26日，烏克蘭總統澤連斯基簽署並公佈了第835/2026號總統令，正式授予美國太空探索技術公司與特斯拉執行長埃隆·馬斯克“自由勳章”。據介紹，這是烏克蘭授予外國公民的最高國家榮譽之一。（第一財經）"
+    },
+    {
+      "id": "5060252",
+      "time": "2026-08-26 20:09:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：TWG 不打算以 “跳樓價” 出售體育資產，洛杉磯道奇隊不會被出售，不考慮退出凱迪拉克F1車隊的股權。"
+    },
     {
       "id": "5060251",
       "time": "2026-08-26 20:08:25",
@@ -150709,122 +150751,6 @@
         "國際"
       ],
       "text": "普京：此次襲擊並未造成災難性後果。"
-    },
-    {
-      "id": "mkt:01a019f2-067d-7aab-9096-7a58221f7bde",
-      "time": "2026-08-19 20:14:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said the attack did not cause serious consequences."
-    },
-    {
-      "id": "mkt:01a019f1-a454-7aab-9096-76c97f47c38c",
-      "time": "2026-08-19 20:14:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Putin says Russia's economy is enduring \"terrorist attacks\" on industrial facilities."
-    },
-    {
-      "id": "5047964",
-      "time": "2026-08-19 20:14:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：俄羅斯經濟正承受對工業設施的恐怖襲擊。"
-    },
-    {
-      "id": "5047963",
-      "time": "2026-08-19 20:14:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長表示，8月1日至15日期間，烏克蘭出口了79.4萬噸農產品，對比之下，7月全月的出口量為367萬噸。"
-    },
-    {
-      "id": "5047962",
-      "time": "2026-08-19 20:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓 7 月國際收支逆差 14.70 億美元。"
-    },
-    {
-      "id": "mkt:01a019f1-6d2f-7aab-9096-6b645a424677",
-      "time": "2026-08-19 20:14:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "PHILIPPINE C.BANK: Balance of payments recorded a $1.5 bln deficit in July 2026."
-    },
-    {
-      "id": "5047961",
-      "time": "2026-08-19 20:13:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南釋出颱風四級預警 熱帶低壓中心位於文昌偏東約270公里】海南省氣象局8月19日19時00分發布颱風四級預警：南海北部熱帶擾動已於今天（19日）下午加強為熱帶低壓，下午5點鐘其中心位於海南文昌偏東方向約270公里的海面上（北緯19.6度，東經113.4度），外圍最大風力有7級（15米/秒），中心最低氣壓為998百帕。預計，南海熱帶低壓今天夜間將在原地迴旋少動，20日將以每小時5~10公里的速度向偏西方向緩慢移動，穿過海南島後移入北部灣海面，強度變化不大。受其影響，19日夜間到20日白天，南海大部分海區及海南島沿海陣風有8～9級，請南海中北部海域過往船隻、海上作業平臺迅速採取避風措施。（央視新聞）"
-    },
-    {
-      "id": "5047960",
-      "time": "2026-08-19 20:13:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京主持召開俄羅斯經濟發展政府會議。"
-    },
-    {
-      "id": "mkt:01a019ef-dd88-7aab-9096-61bc1c599364",
-      "time": "2026-08-19 20:12:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "According to Al Arabiya, Israel's chief of staff is inspecting multiple locations in southern Syria."
-    },
-    {
-      "id": "mkt:01a019ef-aa97-7aab-9096-5dd7931ab17a",
-      "time": "2026-08-19 20:12:12",
-      "tags": [
-        "MKT News",
-        "01024.HK",
-        "Impact bullish"
-      ],
-      "text": "【Kuaishou CFO: Q2 free cash flow positive, aims to keep group FCF positive in H2】Kuaishou (01024.HK) CFO Jin Bing said Q2 free cash flow was positive and the company aims to maintain group-level free cash flow positivity in H2. Following independent financing of Keling AI, Kuaishou will adopt more flexible cash deployment for compute — including leasing — to optimize capital allocation and help improve group cash flow. The company will keep a prudent cash-management and capex stance; most capital spending was concentrated in 1H. Available liquidity (cash and equivalents, time deposits, financial assets and restricted cash) stood at 121.3 bln yuan as of June 30. Net cash from operating activities in Q2 was 5.9 bln yuan. Shareholder returns in 2026 YTD include ~HKD 2.0 bln of share buybacks and HKD 3.0 bln of cash dividends; total YTD returns are close to last year’s full-year level and are expected to exceed last year for 2026."
-    },
-    {
-      "id": "5047959",
-      "time": "2026-08-19 20:11:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【快手CFO金秉：二季度自由現金流為正，下半年目標繼續保持】在快手2026年第二季度業績電話會上，快手(01024.HK)CFO金秉表示，公司二季度自由現金流為正，目標是下半年繼續維持集團層面的自由現金流為正。金秉表示，可靈AI完成獨立融資後，將在現金流支出上採用更加靈活的形式，包括透過租賃等方式解決更多算力需求，進一步最佳化資金配置，在一定程度上改善集團整體現金流情況。在現金管理與資本開支方面，快手將繼續堅持穩健的財務策略。按照執行節奏，公司大部分資本開支已經在上半年集中落地。截至2026年6月30日，快手現金及現金等價物、定期存款、金融資產和受限制現金等可利用資金合計達到1213億元，二季度經營活動所得現金淨額達到59億元。股東回報方面，2026年以來，快手累計完成約20億港元股份回購及30億港元現金分紅，股東回報總額已接近去年全年水平。金秉表示，在堅定推進AI戰略投入的同時，公司仍實現了股東回報力度的穩步提升，預計2026年全年股東回報總額將超過去年。"
-    },
-    {
-      "id": "5047958",
-      "time": "2026-08-19 20:11:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列總參謀長正在敘利亞南部多個地區巡視。"
-    },
-    {
-      "id": "5047957",
-      "time": "2026-08-19 20:11:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音電商釋出26年寵物消費報告：縣域工廠成交額超九成】8月19日，抖音電商釋出《2026抖音電商寵物行業消費趨勢報告》顯示，過去一年超1.03億人在該平臺為寵物置辦日用品，縣域產業帶貢獻了超90%成交額，商家佔比超86%，縣域實體工廠撐起寵物日用品製造基石。過去一年，平臺上成交額從零躍升至百萬級的寵物產業帶商家超14萬家，495個縣域產業帶成交破億。"
     }
   ]
 }
