@@ -1,7 +1,68 @@
 {
   "date": "2026-08-27",
-  "count": 263,
+  "count": 270,
   "items": [
+    {
+      "id": "mkt:01a03fa9-adc3-7aab-9137-9aeed36e22b9",
+      "time": "2026-08-27 04:01:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US close: major indexes slightly lower; Oracle up ~2.8%】US equities closed modestly lower Wednesday. Dow Jones fell 0.2%, the S&P 500 dipped 0.02% and the Nasdaq lost 0.08%. Tesla (TSLA.O) fell about 1%, Oracle (ORCL.N) rose 2.8%, NVIDIA (NVDA.O) slid just over 1% and SK Hynix (SKHY.O) dropped near 1%. The Nasdaq Golden Dragon China Index fell 0.6%; iQIYI (IQ.O) slipped more than 4%."
+    },
+    {
+      "id": "mkt:01a03fa9-9e1c-7aab-9137-9757024cd0cf",
+      "time": "2026-08-27 04:01:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Army awarded contracts worth up to $2.2 billion to five firms to build and operate microreactor power plants at five U.S. military bases."
+    },
+    {
+      "id": "5060802",
+      "time": "2026-08-27 04:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時預計第三季度營收為114.2億美元至115億美元，高於此前預期的114.2億美元。"
+    },
+    {
+      "id": "5060801",
+      "time": "2026-08-27 04:01:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Radiant公司獲得美國陸軍7.5億美元合同，為美軍基地提供能源獨立解決方案。"
+    },
+    {
+      "id": "5060800",
+      "time": "2026-08-27 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.21%，標普500指數跌0.02%，納指跌0.08%。Moderna跌5.77%，FER跌4.90%，Reddit跌4.40%，GoDaddy跌4.28%，NBIS跌3.62%，禮來跌3.60%，波士頓科學跌3.39%。“七姐妹”方面：蘋果漲1.15%，Meta Platforms漲1.07%，微軟漲0.95%，亞馬遜跌0.30%，谷歌跌1.23%，特斯拉跌1.26%，英偉達跌1.59%。"
+    },
+    {
+      "id": "5060799",
+      "time": "2026-08-27 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.58%】360數科跌18.91%，晶科能源跌11.81%，樂信跌10.00%，禾賽科技跌6.50%，大全新能源跌4.79%。"
+    },
+    {
+      "id": "5060798",
+      "time": "2026-08-27 03:58:13",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "哥倫比亞央行行長：哥倫比亞比索走強緩解了通脹壓力。"
+    },
     {
       "id": "mkt:01a03fa5-c136-7aab-9137-8906bc76a6c4",
       "time": "2026-08-27 03:57:02",
