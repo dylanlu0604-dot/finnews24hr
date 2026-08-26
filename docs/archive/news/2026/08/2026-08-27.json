@@ -1,7 +1,25 @@
 {
   "date": "2026-08-27",
-  "count": 102,
+  "count": 104,
   "items": [
+    {
+      "id": "mkt:01a03f1b-84c0-7aab-9135-7f86203ee225",
+      "time": "2026-08-27 01:26:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC has launched a Chrome version of Claude for all paid users and introduced an autonomous browser-control feature."
+    },
+    {
+      "id": "5060681",
+      "time": "2026-08-27 01:23:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Chrome 版 Claude 新增自主瀏覽器操作功能。"
+    },
     {
       "id": "5060680",
       "time": "2026-08-27 01:23:22",

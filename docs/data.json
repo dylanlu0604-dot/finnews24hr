@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-27 01:24:38",
-  "count": 16687,
+  "updated": "2026-08-27 01:29:05",
+  "count": 16683,
   "items": [
+    {
+      "id": "mkt:01a03f1b-84c0-7aab-9135-7f86203ee225",
+      "time": "2026-08-27 01:26:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC has launched a Chrome version of Claude for all paid users and introduced an autonomous browser-control feature."
+    },
+    {
+      "id": "5060681",
+      "time": "2026-08-27 01:23:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Chrome 版 Claude 新增自主瀏覽器操作功能。"
+    },
     {
       "id": "5060680",
       "time": "2026-08-27 01:23:22",
@@ -150567,61 +150585,6 @@
         "焦點"
       ],
       "text": "德意志銀行將芝商所集團目標股價從每股286美元下調至270美元，將芝商所集團評級從買入下調至持有。"
-    },
-    {
-      "id": "5048457",
-      "time": "2026-08-20 01:28:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "Stripe收購OpenRouter的交易對價超過80億美元，大部分以股份支付。"
-    },
-    {
-      "id": "mkt:01a01b0f-fc2a-7aab-909e-986ce85d8985",
-      "time": "2026-08-20 01:27:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iraqi leaders meet Iran parliament speaker on bilateral ties, regional tensions】On the 19th in Baghdad, Iraqi Prime Minister Zaidi, President Amidi and Parliament Speaker Halbusi met visiting Iranian Islamic Consultative Assembly Speaker Qalibaf to discuss consolidating bilateral relations and easing regional tensions."
-    },
-    {
-      "id": "5048456",
-      "time": "2026-08-20 01:27:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克領導人會見伊朗議長 聚焦雙邊關係和地區局勢】伊拉克總理扎伊迪、總統阿米迪和國民議會議長哈勒布西19日分別在首都巴格達會見來訪的伊朗伊斯蘭議會議長卡利巴夫，就鞏固雙邊關係及緩和地區緊張局勢等議題交換意見。（新華社）"
-    },
-    {
-      "id": "mkt:01a01b0e-771d-7aab-909e-956c8370ed48",
-      "time": "2026-08-20 01:25:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he will not tolerate a Turkish military presence in Syria that threatens Israel."
-    },
-    {
-      "id": "5048455",
-      "time": "2026-08-20 01:24:53",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大養老金計劃投資委員會(CPPIB)據稱有多位高層人員離職。"
-    },
-    {
-      "id": "5048454",
-      "time": "2026-08-20 01:24:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們絕不容忍土耳其在敘利亞的軍事存在威脅以色列。我們已經明確傳達了資訊，不要這樣做。看來他們沒聽清楚，所以我們確保他們徹底明白了。"
     }
   ]
 }
