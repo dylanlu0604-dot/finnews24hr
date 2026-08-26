@@ -1,7 +1,94 @@
 {
   "date": "2026-08-26",
-  "count": 3287,
+  "count": 3296,
   "items": [
+    {
+      "id": "5060632",
+      "time": "2026-08-26 23:48:04",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【英債收益率至少漲3個基點】週三（8月26日）歐市尾盤，英國10年期國債收益率漲3.3個基點，報5.020%，北京時間20:30釋出美聯儲青睞的PCE通脹資料以來顯著走高。兩年期英債收益率漲3.0個基點，報4.343%。30年期英債收益率漲3.7個基點，50年期英債收益率漲4.0個基點。2/10年期英債收益率利差漲0.126個基點，報+67.631個基點。"
+    },
+    {
+      "id": "mkt:01a03ec1-12d0-7aab-9133-cb08fbdd2b85",
+      "time": "2026-08-26 23:47:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Three sources said Russia's Noersi refinery halted crude processing after a drone strike on Aug. 26."
+    },
+    {
+      "id": "mkt:01a03ec0-93bd-7aab-9133-c34be521ebd1",
+      "time": "2026-08-26 23:46:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Kpler: Offshore Iranian oil could fund 5–6 months of export revenue】Kpler data show Iran holds more than 80 million barrels of oil outside the blockade zone, most already booked, which could provide Tehran with roughly 5–6 months of export revenue; after that, oil export income would disappear. The finding aligns with Central Bank Governor Abdolnaser Hemmati’s comment that oil exports have \"almost stopped\"."
+    },
+    {
+      "id": "5060631",
+      "time": "2026-08-26 23:46:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "三位訊息人士稱，俄羅斯諾爾西煉油廠在 8 月 26 日遭遇無人機襲擊後已停止原油加工。"
+    },
+    {
+      "id": "5060630",
+      "time": "2026-08-26 23:45:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "法官暫停 Meta 相關案件審理，表示她 “傾向於” 批准該項交易，但需要更多時間開展審查。"
+    },
+    {
+      "id": "mkt:01a03ebb-7d2c-7aab-9133-be8665295507",
+      "time": "2026-08-26 23:41:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India foreign minister JAISHANKAR discussed restoration of Black Sea commercial shipping with Ukraine foreign minister Andrii Sybiha."
+    },
+    {
+      "id": "5060629",
+      "time": "2026-08-26 23:40:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，360數科跌17.13%，晶科能源跌12.23%，樂信跌7.69%，禾賽科技跌6.48%，NXTT跌6.42%。"
+    },
+    {
+      "id": "5060628",
+      "time": "2026-08-26 23:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部長：已與烏克蘭外長商討黑海貿易恢復事宜。"
+    },
+    {
+      "id": "mkt:01a03eb9-bea1-7aab-9133-b01586c831a4",
+      "time": "2026-08-26 23:39:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【KPLER: Iran refining capacity ~2.2 mln b/d】KPLER data show Iran's refining capacity has fallen from about 2.45 mln b/d pre-war to roughly 2.2 mln b/d, driven by damage to refinery facilities and restrictions on napatha and fuel oil exports. Refiners have raised napatha blending in gasoline and reallocated fuel oil supplies, but limited export channels are constraining recovery; KPLER expects capacity to recover to about 2.3 mln b/d by Q4 and to rise further by Q1 2027."
+    },
     {
       "id": "mkt:01a03eb8-190b-7aab-9133-af45622651ec",
       "time": "2026-08-26 23:37:27",
