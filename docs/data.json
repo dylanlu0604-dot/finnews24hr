@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-26 22:58:41",
-  "count": 16743,
+  "updated": "2026-08-26 23:03:12",
+  "count": 16741,
   "items": [
+    {
+      "id": "mkt:01a03e96-71f7-7aab-9132-e98e5e81cf5a",
+      "time": "2026-08-26 23:00:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "As of the 23:00 close, China's commodity futures main contracts were mixed. Rapeseed meal and LPG rose about 2%; Soybean No.2, soybean meal and asphalt gained more than 1%; fuel oil and soybean oil were up about 1%. On the downside, soda ash and ethylene glycol fell more than 2%; PET bottle chip, polyester staple fiber, methanol and paraxylene dropped over 1%; caustic soda and metallurgical coke fell about 1%."
+    },
+    {
+      "id": "te:markets:578318",
+      "time": "2026-08-26 23:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.88% — Top currency losers are Swedish Krona (-0.88%), New Zealand Dollar (-0.74%), Swiss Franc (-0.59%), British Pound (-0.44%), Euro (-0.25%) and Japanese Yen (-0.13%). Gains are led by Dollar Index (0.30%)."
+    },
+    {
+      "id": "5060599",
+      "time": "2026-08-26 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】純鹼連續跌2.69%，乙二醇連續跌2.12%，菜粕連續漲1.97%，液化石油氣連續漲1.97%，豆二連續漲1.67%。"
+    },
+    {
+      "id": "5060598",
+      "time": "2026-08-26 22:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "科羅拉多州總檢察長：提起訴訟挑戰美國郵政局新規，該規定聲稱賦予其監管選舉郵寄投票的權力。"
+    },
+    {
+      "id": "5060597",
+      "time": "2026-08-26 22:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "BOSS直聘美股漲超17%，二季度營收及利潤增長均提速，並宣佈2.3億美元派息計劃。"
+    },
+    {
+      "id": "5060596",
+      "time": "2026-08-26 22:58:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "科羅拉多州總檢察長：總檢察長菲爾·魏澤爾已加入由25個州組成的聯盟，對美國郵政署提起訴訟。"
+    },
+    {
+      "id": "5060595",
+      "time": "2026-08-26 22:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：波士頓科學 Enroute NPS 因頭端分離風險啟動召回。"
+    },
+    {
+      "id": "5060594",
+      "time": "2026-08-26 22:58:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "FDA 將波士頓科學 Enroute 產品召回劃為最高嚴重等級。"
+    },
     {
       "id": "5060593",
       "time": "2026-08-26 22:56:14",
@@ -150993,103 +151064,6 @@
         "MKT News"
       ],
       "text": "Texas grid operator ERCOT said it will issue an emergency notice of an extreme weather event from Thursday through next Tuesday as extreme heat is forecast across north-central and south-central Texas."
-    },
-    {
-      "id": "mkt:01a01a8b-4fce-7aab-909b-a64ecacf12d4",
-      "time": "2026-08-19 23:02:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Poland's Ministry of Finance said after Wednesday's bond auction the government has covered roughly 73% of its total 2026 financing needs."
-    },
-    {
-      "id": "5048335",
-      "time": "2026-08-19 23:01:56",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "波蘭財政部表示，在週三的國債拍賣結束後，波蘭已完成2026年總融資需求約73%的資金籌集。"
-    },
-    {
-      "id": "mkt:01a01a8a-25dc-7aab-909b-99f2100e1b36",
-      "time": "2026-08-19 23:00:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Energy"
-      ],
-      "text": "As of 23:00 local close, China’s main onshore futures front-month contracts were mostly higher. Ethylene glycol (EG) rose over 4%, fuel oil gained more than 3%, rapeseed oil climbed over 2%; asphalt, coke, soda ash, 20‑grade rubber, synthetic rubber and propylene were up over 1%. On the downside, PTA and iron ore fell over 1%, while paraxylene slipped about 1%."
-    },
-    {
-      "id": "5048334",
-      "time": "2026-08-19 23:00:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破66000美元，日內漲1.97%。"
-    },
-    {
-      "id": "mkt:01a01a89-c94e-7aab-909b-92eef1919742",
-      "time": "2026-08-19 23:00:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O) now offers its Alexa+ service free on compatible Fire TV devices."
-    },
-    {
-      "id": "te:markets:576547",
-      "time": "2026-08-19 23:00:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Increases by 1.83% — Top currency gainers are South Korean Won (1.83%), Swiss Franc (1.34%), Polish Zloty (0.89%), Japanese Yen (0.80%), Euro (0.75%) and British Pound (0.57%). Biggest loser is Dollar Index (-0.75%)."
-    },
-    {
-      "id": "5048333",
-      "time": "2026-08-19 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】乙二醇連續漲4.12%，菜油連續漲2.21%，瀝青連續漲1.65%，焦炭連續漲1.51%，純鹼連續漲1.27%。"
-    },
-    {
-      "id": "5048332",
-      "time": "2026-08-19 22:59:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "CVC 亞洲投資韓國美妝產品經銷商 Silicon2。"
-    },
-    {
-      "id": "5048331",
-      "time": "2026-08-19 22:59:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊軍高官：伊朗對敵戰略可能轉守為攻】在一條8月19日釋出的採訪影片中，伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪表示，這場戰爭表明美國和以色列比想象中“弱得多”。納格迪稱，此前伊朗一直堅持防禦性戰略，敵人才敢一再發動攻擊，或許伊朗應採取進攻策略，以實現對美國和以色列更高階別的威懾，迫使敵人撤退並剝奪其發動新攻擊的勇氣。（央視新聞）"
-    },
-    {
-      "id": "5048330",
-      "time": "2026-08-19 22:58:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海首票海鐵中轉多式聯運落地，實現“一箱到底”】日前，一批裝載服裝、小家電等出口貨物的集裝箱，搭乘鐵路班列自廣州運抵上海蘆潮港鐵路集裝箱中心站後，“無縫銜接”公路運輸並流轉至上海外高橋港區碼頭，直接登船出海。這標誌著上海海關首票“海鐵中轉多式聯運”海關監管新模式順利落地。與傳統海鐵聯運不同，新模式精簡了多次申報、分段辦理流程。上海海關運用數智監管手段，搭建安全智慧鎖在途監管體系，打通鐵路監管場站、海關監管平臺、碼頭作業平臺的資料鏈路。據介紹，出口企業只需在啟運地海關一次性提交多式聯運申請單，便可完成途中運輸全流程的線上申報，並一站式辦結報關、查驗手續，實現“啟運即放行”。全程無需開箱、無需重複辦理通關手續，“零延時、零等待”，實現“一箱到底”。（央視新聞）"
     }
   ]
 }

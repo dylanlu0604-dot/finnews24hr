@@ -1,7 +1,78 @@
 {
   "date": "2026-08-26",
-  "count": 3225,
+  "count": 3233,
   "items": [
+    {
+      "id": "mkt:01a03e96-71f7-7aab-9132-e98e5e81cf5a",
+      "time": "2026-08-26 23:00:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "As of the 23:00 close, China's commodity futures main contracts were mixed. Rapeseed meal and LPG rose about 2%; Soybean No.2, soybean meal and asphalt gained more than 1%; fuel oil and soybean oil were up about 1%. On the downside, soda ash and ethylene glycol fell more than 2%; PET bottle chip, polyester staple fiber, methanol and paraxylene dropped over 1%; caustic soda and metallurgical coke fell about 1%."
+    },
+    {
+      "id": "te:markets:578318",
+      "time": "2026-08-26 23:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.88% — Top currency losers are Swedish Krona (-0.88%), New Zealand Dollar (-0.74%), Swiss Franc (-0.59%), British Pound (-0.44%), Euro (-0.25%) and Japanese Yen (-0.13%). Gains are led by Dollar Index (0.30%)."
+    },
+    {
+      "id": "5060599",
+      "time": "2026-08-26 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】純鹼連續跌2.69%，乙二醇連續跌2.12%，菜粕連續漲1.97%，液化石油氣連續漲1.97%，豆二連續漲1.67%。"
+    },
+    {
+      "id": "5060598",
+      "time": "2026-08-26 22:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "科羅拉多州總檢察長：提起訴訟挑戰美國郵政局新規，該規定聲稱賦予其監管選舉郵寄投票的權力。"
+    },
+    {
+      "id": "5060597",
+      "time": "2026-08-26 22:58:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "BOSS直聘美股漲超17%，二季度營收及利潤增長均提速，並宣佈2.3億美元派息計劃。"
+    },
+    {
+      "id": "5060596",
+      "time": "2026-08-26 22:58:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "科羅拉多州總檢察長：總檢察長菲爾·魏澤爾已加入由25個州組成的聯盟，對美國郵政署提起訴訟。"
+    },
+    {
+      "id": "5060595",
+      "time": "2026-08-26 22:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：波士頓科學 Enroute NPS 因頭端分離風險啟動召回。"
+    },
+    {
+      "id": "5060594",
+      "time": "2026-08-26 22:58:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "FDA 將波士頓科學 Enroute 產品召回劃為最高嚴重等級。"
+    },
     {
       "id": "5060593",
       "time": "2026-08-26 22:56:14",
