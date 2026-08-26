@@ -1,7 +1,366 @@
 {
   "date": "2026-08-26",
-  "count": 1029,
+  "count": 1068,
   "items": [
+    {
+      "id": "5059033",
+      "time": "2026-08-26 12:19:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至278.01點。"
+    },
+    {
+      "id": "mkt:01a03c4b-10b7-7aab-9121-eedba221d5fa",
+      "time": "2026-08-26 12:19:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【France budget deadlock returns; high debt risk tests investors】Same‑maturity France‑Germany sovereign yield spread widened to 86bps, nearing post‑2012 highs, as global bond yields rise to multi‑decade levels. Parliament is deadlocked over a contentious fiscal bill, increasing the risk attached to Macron’s final budget in his ten‑year presidency and adding election‑year policy uncertainty as challengers prepare to reverse his economic framework. FITCH will lead a forthcoming review of France’s credit rating; FITCH, S&P Global Ratings and DBRS Morningstar downgraded France during last autumn’s budget dispute."
+    },
+    {
+      "id": "mkt:01a03c4a-5026-7aab-9121-e096dfb9b625",
+      "time": "2026-08-26 12:18:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【TrendForce: Global energy storage cell shipments top 460 GWh in 1H 2026, up ~94% YoY】TrendForce's global energy storage supply-chain database shows shipments of energy storage cells exceeded 460 GWh in 1H 2026, about a 94% increase YoY, indicating the global energy storage market has entered a rapid growth phase."
+    },
+    {
+      "id": "5059032",
+      "time": "2026-08-26 12:15:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "正榮地產稱公司正在與境外債權人就重組計劃進行協商。"
+    },
+    {
+      "id": "5059031",
+      "time": "2026-08-26 12:15:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【集邦諮詢：上半年全球儲能電芯出貨量超460GWh 同比大增約94%】TrendForce集邦諮詢全球儲能供應鏈資料庫資料顯示，2026年上半年，全球儲能電芯出貨量超460GWh，較去年同期大增約94%，全球儲能市場整體迎來高速爆發期。"
+    },
+    {
+      "id": "mkt:01a03c47-ce37-7aab-9121-d8e11a90c80f",
+      "time": "2026-08-26 12:15:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【China's new-energy vehicle industry surpasses ten-million-unit scale】During the 14th Five-Year Plan, China’s new-energy vehicle industry jumped from the million-unit scale to the ten-million-unit scale: annual sales rose from 1.367 mln to 16.49 mln and NEVs’ share of new-car sales climbed from 5.4pct to 47.9pct. China now accounts for over 70pct of global output of new-energy vehicles, power batteries and key materials, with products sold in more than 100 countries and regions. For the 15th Five-Year period, Chinese authorities will push to raise product supply quality, advance pilots for intelligent connected-vehicle admission and road testing and for car–road–cloud integration, and strengthen supporting use environments to address consumer adoption concerns."
+    },
+    {
+      "id": "mkt:01a03c46-dbb0-7aab-9121-d16979396421",
+      "time": "2026-08-26 12:14:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor candidate Destry said FX flow policy will be our primary focus."
+    },
+    {
+      "id": "mkt:01a03c46-aef8-7aab-9121-cbf28d1ec7c4",
+      "time": "2026-08-26 12:14:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "USDJPY"
+      ],
+      "text": "KIUCHI said Japan's CPI is expected to rise gradually due to developments in the Middle East."
+    },
+    {
+      "id": "mkt:01a03c46-61ce-7aab-9121-c5d864eae569",
+      "time": "2026-08-26 12:14:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Data show 5 commercial vessels transited the Strait of Hormuz on Tuesday, well below the 10-day average of 15."
+    },
+    {
+      "id": "5059030",
+      "time": "2026-08-26 12:13:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【核聚變加速發展，機構關注這些超跌股（附名單）】8月25日，2026核聚變能大會披露關鍵產業進展：由中國聚變能源有限公司牽頭，聯合上海超導、東部超導、上海交大、上海電氣核電集團、超磁新能、能量奇點、杭氧集團、翌曦科技共9家主體組成長三角創新聯合體，圍繞中國環流四號聚變裝置需求，形成高溫超導強場託卡馬克磁體研製能力與工程化技術體系。據悉，中國環流四號是全球首個高溫超導強場穩態燃燒聚變實驗平臺，將系統驗證聚變複雜環境下25T高溫超導強場磁體的可靠性；專案目標為2028年前建成首條25T高溫超導強場磁體研製和測試線，2030年前完成原型磁體研製。近期，機構研報標題提及核聚變的個股主要有合鍛智慧、旭光電子、西部超導等。部分優質超跌股未來或跑贏大盤。據證券時報·資料寶統計，A股市場上合計有14只核聚變概念股評級機構數在1家及以上且年內股價出現下跌。其中，西部超導、中核科技等年內均跌超30%，中廣核技、錫裝股份、上海電氣等均跌超20%。這些超跌股中，中廣核技、上海電氣等機構一致預測今明兩年淨利增速較高。（證券時報）"
+    },
+    {
+      "id": "5059029",
+      "time": "2026-08-26 12:13:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【面壁智慧釋出四週年全員信：MiniCPM下載破5000萬，將攻堅端側AGI規模化落地】8月26日訊息，面壁智慧迎來成立四週年，公司釋出內部全員信覆盤發展歷程並公佈下一階段戰略方向。信中披露，旗下MiniCPM系列開源模型全球累計下載量突破5000萬次，已實現文字、視覺、語音全模態覆蓋，端側模型落地至智慧汽車、消費手機，以及工業、法律、衛星等終端場景。面壁智慧重申以“密度定律”為核心技術路線，不追求單純引數擴張，目標實現人腦級低功耗的高效端側智慧，提出通用智慧將分化為超級、雲側、端側三類，端側智慧將成為通用智慧時代主戰場。"
+    },
+    {
+      "id": "mkt:01a03c44-ebfb-7aab-9121-ba37d4cca312",
+      "time": "2026-08-26 12:12:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank Indonesia governor candidate Destry said his vision is to keep Bank Indonesia relevant, resilient and capable of meeting challenges, safeguarding stability and supporting sustainable economic growth."
+    },
+    {
+      "id": "5059027",
+      "time": "2026-08-26 12:12:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【CIA局長訪俄期間不與普京會面】俄羅斯塔斯社今天（8月26日）援引俄羅斯總統新聞秘書佩斯科夫的話稱，美國中央情報局（CIA）局長拉特克利夫訪俄期間未安排與普京會面。"
+    },
+    {
+      "id": "5059026",
+      "time": "2026-08-26 12:11:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "碧桂園服務上半年營收245.0億元人民幣，上半年淨利潤9.503億元人民幣。"
+    },
+    {
+      "id": "te:markets:578130",
+      "time": "2026-08-26 12:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Hits Fresh Record High — Copper futures climbed above $6.7 per pound on Wednesday, reaching a new all-time high as supply-side risks persisted despite a recent easing of the market squeeze. Traders continued to divert shipments toward the US amid elevated premiums and expectations of new tariffs under the Trump administration, with the White House yet to make a final decision on the matter. Copper inventories in warehouses tracked by the London Metal Exchange have fallen by almost half since mid-May following a 42-day streak of declines. Elsewhere, Zijin Mining warned that flooding at the Kamoa-Kakula copper complex in the Democratic Republic of Congo could cut its share of production by as much as 57,000 tons this year, underscoring ongoing risks to global supply. On the demand side, Chinese smelters have faced difficulties securing feedstock, increasing the need for imports."
+    },
+    {
+      "id": "mkt:01a03c44-4ca6-7aab-9121-b358d76ffb0a",
+      "time": "2026-08-26 12:11:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor candidate Destri said payment systems policy will be geared toward accelerating digital-economy development."
+    },
+    {
+      "id": "mkt:01a03c44-0aaf-7aab-9121-aed67b13764a",
+      "time": "2026-08-26 12:11:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor candidate Destry said Bank Indonesia's interest-rate policy will be forward-looking and precautionary."
+    },
+    {
+      "id": "5059025",
+      "time": "2026-08-26 12:11:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國新能源汽車產業規模已超千萬輛級】在國務院新聞辦公室今天上午舉行的“開局起步‘十五五’”系列主題新聞釋出會上，工業和資訊化部相關負責人表示，“十五五”時期將加力加快解決汽車產品質量、自動駕駛安全等重點問題，並研究制定了《智慧網聯新能源汽車產業發展“十五五”規劃》，透過多舉措並舉，推動產業高質量發展。“十四五”期間，我國新能源汽車產業規模從百萬輛級躍升至千萬輛級，年銷量從136.7萬輛增加到1649萬輛，在汽車新車銷售中的佔比從5.4%提高到47.9%。產業體系日趨完備，新能源汽車、動力電池及關鍵材料產量佔到全球的70%以上。國際影響力持續增強，產品遠銷100多個國家和地區。（央視）"
+    },
+    {
+      "id": "5059024",
+      "time": "2026-08-26 12:10:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北控水務集團釋出中期業績 股東應占溢利6.88億元 同比減少23.31%】北控水務集團(00371)釋出截至2026年6月30日止6個月業績，該集團期內取得營業收入98.71億元人民幣，同比減少5.62%;公司股東應占溢利6.88億元，同比減少23.31%;每股基本盈利6.43分;擬派發中期股息每股5.54港仙。公告稱，本公司股東應占期內溢利減少23%至人民幣6.88億元。因技術服務及裝置銷售以及BOT水務專案建造服務的營業收入貢獻減少。"
+    },
+    {
+      "id": "mkt:01a03c42-96a7-7aab-9121-a031883d9ed7",
+      "time": "2026-08-26 12:09:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor candidate Destri said he is confident in Indonesia's domestic economic fundamentals and that the economy is strong enough to remain stable amid global headwinds."
+    },
+    {
+      "id": "5059023",
+      "time": "2026-08-26 12:09:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本經濟產業省擬推出企業重組稅收激勵政策】據訊息人士透露，日本經濟產業省計劃在 2027 財年政府稅制改革框架下，提議設立一項新制度，鼓勵企業開展業務重組並進行成長性投資。該新制度將對出售現有業務產生的利潤實施稅款遞延，以此推動併購交易，助力企業提升盈利能力。經濟產業省希望藉助該項稅收優惠，助力實現高市早苗首相政府所構想的 “強勁經濟” 目標。相關提案預計將納入本月底敲定的省廳稅制改革訴求檔案之中。"
+    },
+    {
+      "id": "5059022",
+      "time": "2026-08-26 12:08:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦首都一醫院火災已致15名嬰兒死亡】記者當地時間26日獲悉，救援人員透露，巴基斯坦首都伊斯蘭堡一所醫院當天發生的火災已造成15名嬰兒死亡。醫院方面稱，事發時育嬰室裡有16名嬰兒，其中僅有1名獲救。救援人員表示，火災原因可能是空調壓縮機爆炸。"
+    },
+    {
+      "id": "mkt:01a03c40-fa1c-7aab-9121-9da6237ed1c8",
+      "time": "2026-08-26 12:08:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yonhap reports South Korea plans to cut industrial electricity tariffs by up to 10% under a new regionally differentiated pricing scheme."
+    },
+    {
+      "id": "mkt:01a03c40-5707-7aab-9121-95ecf5563dfa",
+      "time": "2026-08-26 12:07:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "Meituan",
+        "Alibaba",
+        "Tencent",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01810.HK",
+        "00700.HK"
+      ],
+      "text": "【Hong Kong midday: HSI up 0.68% as tech and internet stocks rebound】Hong Kong stocks traded choppily in the morning; at midday the Hang Seng Index was up 0.68% and the Hang Seng Tech Index gained 1.58%. Tech and internet names led the rebound: Xiaomi (01810.HK) rose over 4%, Meituan (03690.HK) and Kuaishou (01024.HK) rose over 2%, Baidu (09888.HK), Alibaba (09988.HK) and Tencent (00700.HK) rose over 1%. Financials were also active: China International Capital Co (03908.HK) and Shenwan Hongyuan Hong Kong (00218.HK) rose over 8%, while Nanhua Futures (02691.HK) and China Merchants Securities (06099.HK) rose over 5%."
+    },
+    {
+      "id": "5059021",
+      "time": "2026-08-26 12:07:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安踏體育：上半年收入同比增加12.9%至435.07億元】安踏體育在港交所公告，上半年營收435.1億元，同比增長12.9%，預估432.5億元；淨利潤94.9億元，同比增長35%。每股中期派息1.51港元，上年同期1.37港元。"
+    },
+    {
+      "id": "mkt:01a03c3f-7068-7aab-9121-88f1f2dc9c3f",
+      "time": "2026-08-26 12:06:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DBS Group sees Bank of Korea on cautious rate-hike path】DBS Group economists Taimur Baig and Radhika Rao expect the Bank of Korea to raise the policy rate 25bp to 3.00% at the August meeting and say there is scope to lift their 2026 GDP forecast from 2.6% to about 3.5% and 2027 CPI inflation forecast from 2.3% to near 3.0%. Stronger-than-expected 1H growth, persistent core inflation and rising house prices support further tightening. They caution, however, that a hawkish hold at August’s meeting cannot be ruled out amid tighter financial conditions after a sharp won appreciation and greater KOSPI volatility; in that scenario the BOK may keep rates unchanged while signalling a possible further hike in October."
+    },
+    {
+      "id": "5059020",
+      "time": "2026-08-26 12:06:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智雲股份等成立科技公司 含AI及機器人業務】企查查APP顯示，近日，廣州慧宸智雲科技有限公司成立，法定代表人為陳立木，註冊資本為1000萬元，經營範圍包含：人工智慧硬體銷售；服務消費機器人銷售；智慧機器人銷售；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由智雲股份全資子公司深圳市慧達智雲科技有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:01a03c3f-4e05-7aab-9121-80bf379007bd",
+      "time": "2026-08-26 12:06:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Destry, a candidate for Bank Indonesia governor, said the central bank faces a more fragmented geopolitical landscape and volatile financial markets, and must not only preserve stability but also implement a policy mix to support growth and job creation."
+    },
+    {
+      "id": "5059019",
+      "time": "2026-08-26 12:05:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國海外發展上半年營收976.0億元人民幣，上半年淨利潤70.3億元人民幣。"
+    },
+    {
+      "id": "5059018",
+      "time": "2026-08-26 12:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西將玉林市洪水防禦應急響應提升為三級】據廣西壯族自治區氣象局預報，26日隨著今年第19號颱風“紫檀”登陸北上，陸地雨勢加強，沿海及桂東南有大雨到暴雨、局地大暴雨。29日-31日受今年第18號颱風“沙德爾”西移影響，廣西自東向西有一次較強降雨天氣過程。按照廣西水利廳洪水防禦工作預案，經綜合分析研判，廣西水利廳決定自8月26日10時起，針對玉林市將洪水防禦四級應急響應提升為三級應急響應。同時，維持崇左市洪水防禦二級應急響應，維持南寧、貴港、防城港市洪水防禦三級應急響應，維持其餘各市洪水防禦四級應急響應不變。"
+    },
+    {
+      "id": "mkt:01a03c3e-6ad1-7aab-9121-787f179a2d5a",
+      "time": "2026-08-26 12:05:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Air Transport Association to publish new ticket refund/change standard within year】China Air Transport Association (CATA) is leading a dedicated group standard on ticket refunds and changes, planned for publication and implementation within the year. The standard will set explicit refund/change requirements and obliges all ticketing platforms and airlines’ official channels to proactively disclose refund fees, restrictions and free-change scenarios before payment through prominent font, mandatory pop-ups, dedicated labels and pre-purchase notices, addressing hidden or unclear rules and ensuring passengers are informed."
+    },
+    {
+      "id": "5059017",
+      "time": "2026-08-26 12:05:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "安踏上半年營收435.1億元人民幣，預估432.5億元人民幣。安踏每股中期派息1.51港元。"
+    },
+    {
+      "id": "5059016",
+      "time": "2026-08-26 12:04:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲0.68%，恒生科技指數漲1.58%】港股午間收盤，恒生指數漲0.68%，恒生科技指數漲1.58%。恒指港股通ETF銀華（159318）漲0.61%，港股通科技ETF鵬華（159751）漲1.69%。板塊方面，風電裝置、人力資源服務板塊漲幅靠前；焦炭加工Ⅲ、焦炭加工Ⅳ板塊跌幅靠前。個股方面，H&H國際控股漲20.57%，赤子城科技漲14.63%，愛芯元智漲14.29%，江西銅業股份漲12.23%，思摩爾國際漲12.18%；基本半導體跌24.62%，德適-B跌19.2%，海清智元跌8.46%，申洲國際跌7.39%，科拓股份跌6.86%。"
+    },
+    {
+      "id": "5059015",
+      "time": "2026-08-26 12:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "華潤電力上半年銷售額549.8億港元；上半年淨利潤66.5億港元。"
+    },
+    {
+      "id": "mkt:01a03c3d-5188-7aab-9121-72076116a00b",
+      "time": "2026-08-26 12:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Candidate for Bank Indonesia governor said the economy is increasingly complex and must be addressed through coordinated cooperation with all stakeholders."
+    },
+    {
+      "id": "5059014",
+      "time": "2026-08-26 12:03:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國減肥藥研發公司德睿智藥稱AI助力研發時間縮短一半】德睿智藥執行長牛張明表示，AI幫助將藥物研發週期縮短一半，並降低臨床前和臨床階段的成本。這家中國生物科技初創公司預計到2028年和2029年將推出“重磅”藥物，並計劃明年上市。公司在為AI輔助設計實驗性GLP-1藥物MDR-001尋求授權協議，並預計將在未來12個月內宣佈相關協議。"
+    },
+    {
+      "id": "mkt:01a03c3c-4d49-7aab-9121-6add4f5821cf",
+      "time": "2026-08-26 12:02:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor nominee says policy direction reflects continued efforts to maintain stability and support growth."
+    },
+    {
+      "id": "mkt:01a03c3b-c67f-7aab-9121-6006c7b292d8",
+      "time": "2026-08-26 12:02:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "St. Louis Fed: Week ended Aug 24, US average fuel prices edged up — diesel $5.65/gal from $5.45/gal a week earlier; regular gasoline $4.09/gal from $4.05/gal."
+    },
+    {
+      "id": "5059013",
+      "time": "2026-08-26 12:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局印發指導意見 規範長期護理保險報銷管理】國家醫療保障局近日印發《關於做好長期護理保險支付管理工作的指導意見》，明確長期護理保險支付範圍、支付方式、支付標準以及基金監管和風險防範機制。\n\n一、明確支付範圍\n\n長護險基金可以報銷這些費用：失能等級評定機構做失能評估的費用、定點養老護理機構提供的長期照護服務費，還有第三方機構幫忙經辦管理的相關費用。\n\n失能評估的費用，會根據實際情況，由基金和個人共同分擔，防止大家隨便申請、過度評估。一般來說，參保人第一次失能評估合格，還有按規定定期複查評估的費用，醫保基金報銷。\n\n在國家規定的長護險服務清單裡的護理專案，基金按規定報銷；超出清單的服務，需要個人自費。同時分清基本醫保和長護險的報銷邊界，兩類保險原則上不能重複報銷。\n\n二、規範支付方式\n\n評估服務主要按人頭收費。護理服務主要按服務時長計費：居家護理一般按小時算錢；養老院機構護理按住院天數算；社群護理根據實際服務內容確定計費方式。\n\n未來隨著政策完善，國家還會統一摸索，對智慧照護裝置、輔助器具等，實行定額打包或者按單個專案付費。\n\n三、合理確定支付標準\n\n各地要結合基金財力、老人基本照護需求、當地護理行業收費水平，合理定報銷標準，並且根據情況動態調整。護理報銷標準按當地經濟水平、平均工資、護理人員專業等級分檔次設定。參保人一年裡長護險基金最高報銷額度，不超過當地上一年城鄉居民人均可支配收入的50%。各地要統籌考慮居家、機構、社群等護理服務形式，鼓勵使用居家和社群護理服務。\n\n四、嚴格基金管理和監督\n\n《指導意見》要求最佳化結算流程，用智慧系統稽核報銷，加快打款速度。如果評估服務未按規定執行、評估透過率畸高畸低的，護理服務未按照護理服務計劃執行、未達到服務專案目錄要求，以及社會力量經辦機構未按規定管理的，基金將按一定比例扣除直至拒付。長期護理保險基金支付不得由第三方社會力量代管代撥。\n\n長護險資金使用會納入常態化檢查，包括專項飛行檢查、日常巡查、社會監督、智慧監控，還會研究建立信用黑名單制度。同時實時監控評估機構、護理機構的收費，保障參保人的權益。"
+    },
     {
       "id": "mkt:01a03c3a-7e71-7aab-9121-5d7b81a78e05",
       "time": "2026-08-26 12:01:01",
