@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-27 00:28:44",
-  "count": 16699,
+  "updated": "2026-08-27 00:32:54",
+  "count": 16698,
   "items": [
+    {
+      "id": "mkt:01a03ee6-f2f3-7aab-9134-8b1da133de4e",
+      "time": "2026-08-27 00:28:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fitch says a surge in sovereign bond yields underscores persistent fiscal challenges."
+    },
+    {
+      "id": "5060656",
+      "time": "2026-08-27 00:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：主權債券收益率飆升凸顯財政挑戰依然存在。"
+    },
     {
       "id": "te:markets:578356",
       "time": "2026-08-27 00:28:01",
@@ -150700,30 +150723,6 @@
         "MKT News"
       ],
       "text": "【5.7-magnitude quake strikes East Nusa Tenggara, Indonesia】Indonesia’s Meteorology, Climatology and Geophysics Agency reported a magnitude-5.7 earthquake at 23:17 on Aug. 19 local (Western Indonesia) time, centered 43 km northeast of Ruteng, Manggarai Regency, East Nusa Tenggara province, at a depth of 10 km."
-    },
-    {
-      "id": "5048422",
-      "time": "2026-08-20 00:30:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印尼東努沙登加拉省區域發生5.7級地震】據印尼氣象、氣候和地球物理局釋出的報告，印尼當地（西部）時間8月19日23時17分，印尼東努沙登加拉省芒加萊縣魯滕鎮東北43公里處發生5.7級地震，震源深度10公里。（央視新聞）"
-    },
-    {
-      "id": "5048421",
-      "time": "2026-08-20 00:30:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統表示，儘管當前存在諸多困難與問題，伊朗政府仍將持續支援本國武裝力量。"
-    },
-    {
-      "id": "mkt:01a01ada-e9bd-7aab-909d-9a3aca996cf6",
-      "time": "2026-08-20 00:29:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman's foreign minister met Turkey's deputy foreign minister to review progress in bilateral ties, explore ways to deepen cooperation and exchange views on regional developments and issues of mutual concern."
     }
   ]
 }

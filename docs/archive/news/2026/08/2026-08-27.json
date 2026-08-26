@@ -1,7 +1,30 @@
 {
   "date": "2026-08-27",
-  "count": 46,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:01a03ee6-f2f3-7aab-9134-8b1da133de4e",
+      "time": "2026-08-27 00:28:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fitch says a surge in sovereign bond yields underscores persistent fiscal challenges."
+    },
+    {
+      "id": "5060656",
+      "time": "2026-08-27 00:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：主權債券收益率飆升凸顯財政挑戰依然存在。"
+    },
     {
       "id": "te:markets:578356",
       "time": "2026-08-27 00:28:01",
