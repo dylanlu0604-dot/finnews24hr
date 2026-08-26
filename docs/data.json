@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-27 04:05:58",
-  "count": 16637,
+  "updated": "2026-08-27 04:09:59",
+  "count": 16639,
   "items": [
+    {
+      "id": "5060817",
+      "time": "2026-08-27 04:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時、Anthropic：賽富時中的Claude現已向賽富時選定試點客戶開放使用。"
+    },
+    {
+      "id": "mkt:01a03fb0-58d8-7aab-9137-ae45135648c0",
+      "time": "2026-08-27 04:08:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian Football Federation withdraws support for incumbent FIFA president Gianni Infantino’s bid in the FIFA presidential election scheduled for March 2027."
+    },
+    {
+      "id": "5060816",
+      "time": "2026-08-27 04:08:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Crowdstrike股價盤後上漲9%，此前該公司上調了營收預期。"
+    },
+    {
+      "id": "5060815",
+      "time": "2026-08-27 04:07:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Crowdstrike：預計財年調整後每股收益1.25‑1.26美元，市場預期1.23美元。"
+    },
+    {
+      "id": "5060814",
+      "time": "2026-08-27 04:07:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：旗下Claude已向試點客戶開放，預計2026年9月開啟公開測試。"
+    },
+    {
+      "id": "5060813",
+      "time": "2026-08-27 04:06:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Crowdstrike：預計第三季度營收15.2‑15.3億美元，市場預期15.2億美元。"
+    },
     {
       "id": "5060812",
       "time": "2026-08-27 04:05:17",
@@ -149891,49 +149940,6 @@
         "Impact bullish"
       ],
       "text": "【OpenAI to tighten safety processes for paying customers】OpenAI said it will tighten safety processes for paying customers and has begun testing \"private safety processing\", a system designed to detect risk patterns across multiple interactions rather than individual prompts and replies. The move targets risks that emerge as AI handles longer-horizon, more autonomous tasks and is intended to guard against malicious users and attacks by misaligned AI agents while remaining compatible with zero-data-retention—customer content will not be accessible to OpenAI. The feature is expected to roll out in September, accompanied by a technical white paper; early tests are underway with Microsoft and Databricks."
-    },
-    {
-      "id": "mkt:01a01ba4-6a47-7aab-90a2-0e572ca748a3",
-      "time": "2026-08-20 04:09:14",
-      "tags": [
-        "MKT News",
-        "MRK.N",
-        "Impact bullish"
-      ],
-      "text": "Merck (MRK.N) shares closed up 12.6%, their largest one-day gain since March 2009."
-    },
-    {
-      "id": "mkt:01a01ba3-75ee-7aab-90a2-077232ad6500",
-      "time": "2026-08-20 04:08:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Argentina's economy minister said the government approved a $6.4 billion investment incentive package for Tecpetrol's Los Toldos II oil project in the Vaca Muerta shale basin."
-    },
-    {
-      "id": "5048581",
-      "time": "2026-08-20 04:07:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "默克股價收漲13%，創2009年3月以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:01a01ba2-472f-7aab-90a1-fcb705810a2c",
-      "time": "2026-08-20 04:06:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "MRNA.O",
-        "Impact bullish"
-      ],
-      "text": "Moderna (MRNA.O) shares jumped a record 177%, adding $44 billion to market value."
     }
   ]
 }
