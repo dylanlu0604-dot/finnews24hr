@@ -1,7 +1,284 @@
 {
-  "updated": "2026-08-26 14:54:32",
-  "count": 16503,
+  "updated": "2026-08-26 15:03:04",
+  "count": 16506,
   "items": [
+    {
+      "id": "mkt:01a03cdf-bc96-7aab-9125-3c435b4e689f",
+      "time": "2026-08-26 15:01:30",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "European stocks opened mixed on Aug 26: Germany's DAX 30 down 20.99 pts (-0.08%) at 26,264.07; UK FTSE 100 up 4.14 pts (0.04%) at 10,890.30; France CAC 40 up 31.73 pts (0.38%) at 8,470.93; Euro STOXX 50 up 16.42 pts (0.25%) at 6,472.05; Spain IBEX 35 up 61.85 pts (0.31%) at 20,118.45; Italy's FTSE MIB up 56.69 pts (0.11%) at 52,777.00."
+    },
+    {
+      "id": "5059221",
+      "time": "2026-08-26 15:01:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰銖匯率保持穩定，泰國央行維持利率不變，符合預期。"
+    },
+    {
+      "id": "mkt:01a03cdf-ad71-7aab-9125-32d9fa23c176",
+      "time": "2026-08-26 15:01:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE50",
+        "CSI500"
+      ],
+      "text": "【China stock index futures midday close】CSI 300 futures (IF) main contract +0.98%; SSE 50 futures (IH) +1.14%; CSI 500 futures (IC) +0.92%; CSI 1000 futures (IM) +0.23%."
+    },
+    {
+      "id": "mkt:01a03cdf-a1f8-7aab-9125-2dc771e743b0",
+      "time": "2026-08-26 15:01:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "Copper"
+      ],
+      "text": "At midday close, China domestic futures' main contracts were mostly lower. P-xylene, methanol, propylene and ethylene glycol hit daily down limits; low-sulfur fuel oil (LU) fell about 9%, fuel oil about 8%, Shanghai crude (SC) about 6%; synthetic rubber, benzene, Europe-route container freight, PTA, polypropylene and bottle-grade PET chips dropped over 5%. Rapeseed meal rose more than 3%, soybean meal over 2% and soybean No.2 nearly 2%."
+    },
+    {
+      "id": "5059220",
+      "time": "2026-08-26 15:01:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "習近平將出席2026年上海合作組織峰會並對吉爾吉斯斯坦、埃及進行國事訪問。（外交部）"
+    },
+    {
+      "id": "mkt:01a03cdf-929c-7aab-9125-2341e260a429",
+      "time": "2026-08-26 15:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Chinese President Xi Jinping will attend the 2026 Shanghai Cooperation Organization summit and make state visits to Kyrgyzstan and Egypt."
+    },
+    {
+      "id": "5059219",
+      "time": "2026-08-26 15:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國貨幣政策委員會認為當前政策利率適配本國經濟現狀。"
+    },
+    {
+      "id": "5059218",
+      "time": "2026-08-26 15:01:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：經濟增長處於低位。"
+    },
+    {
+      "id": "5059217",
+      "time": "2026-08-26 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.59%，深證成指漲0.69%，創業板指漲0.51%。"
+    },
+    {
+      "id": "mkt:01a03cdf-4b98-7aab-9125-18f13c657ad4",
+      "time": "2026-08-26 15:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand says economic growth is weak."
+    },
+    {
+      "id": "5059216",
+      "time": "2026-08-26 15:00:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指收盤下跌0.9%，報6137.23點。"
+    },
+    {
+      "id": "mkt:01a03cde-d8db-7aab-9125-16674b9221d3",
+      "time": "2026-08-26 15:00:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Thailand MPC unanimously voted to keep the policy rate unchanged."
+    },
+    {
+      "id": "5059215",
+      "time": "2026-08-26 15:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙6月份住房抵押貸款同比增長10.8%。"
+    },
+    {
+      "id": "mkt:01a03cde-8688-7aab-9125-09309496b31f",
+      "time": "2026-08-26 15:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand central bank policy rate held at 1.00% as of Aug 26; expected 1.00%, prior 1.00%."
+    },
+    {
+      "id": "5059214",
+      "time": "2026-08-26 15:00:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行關鍵利率維持在1.00%; 預估為1.00%。"
+    },
+    {
+      "id": "mkt:01a03cde-7a5b-7aab-9125-02c8a0fc0b93",
+      "time": "2026-08-26 15:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Middle East conflict disrupts aviation; Dubai airport H1 passenger traffic down 31%】Dubai International Airport said passenger throughput fell about one-third in H1 as the conflict involving Iran disrupted travel. Q2 throughput was 13 million passengers, bringing H1 total to 31.5 million, a 31% decline from last year's record levels despite partial recovery in May and June. The airport expects demand to recover in H2 but has delayed its 100 million annual passengers target by one year. Gulf carriers Emirates, Qatar Airways and Etihad have cut capacity and rerouted international networks; several European carriers have suspended flights to multiple regional destinations and are avoiding Gulf airspace."
+    },
+    {
+      "id": "5059213",
+      "time": "2026-08-26 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】低硫燃料油連續跌8.88%，燃料油連續跌7.85%，對二甲苯連續跌6.02%，甲醇連續跌6.01%，丙烯連續跌6.00%。"
+    },
+    {
+      "id": "5059212",
+      "time": "2026-08-26 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.61%，英國富時100指數漲0.29%，法國CAC40指數跌0.16%，歐洲斯托克50指數漲0.12%，義大利富時MIB指數漲0.34%。"
+    },
+    {
+      "id": "5059211",
+      "time": "2026-08-26 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.21%， 滬深300指數期貨連續漲0.98%， 中證500指數期貨連續漲0.92%， 上證50指數期貨連續漲1.15%。"
+    },
+    {
+      "id": "mkt:01a03cde-5f65-7aab-9124-fabb9476e6ca",
+      "time": "2026-08-26 15:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Thailand | Benchmark Rate (Aug.26) | actual 1% | consensus 1.00% | previous 1.00%"
+    },
+    {
+      "id": "5059210",
+      "time": "2026-08-26 14:59:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴克萊：資料中心無休止建設正惹惱美國選民 AI交易或面臨政治風險】巴克萊銀行股票戰術策略團隊表示，越來越多的華爾街策略師警告稱，市場可能忽視了與11月大選相關的人工智慧行業風險。 包括Jenny Yang和Alex Altmann在內的策略師在致客戶的一份報告中寫道，“資料中心的建設正使人工智慧從一個抽象的技術話題，轉變為一個切實影響生活成本的問題，使對於那些直接接觸人工智慧程度有限的選民而言，更高的電費、供水壓力以及社群內工業設施的興建，都使得這一問題變得極為重要。”"
+    },
+    {
+      "id": "mkt:01a03cdc-88ba-7aab-9124-f55e5f404112",
+      "time": "2026-08-26 14:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong bonded zones' Jan–Jul trade tops 1.05 trln yuan, up 32.3% YoY】Guangdong Customs said Jan–Jul imports and exports from the province's comprehensive bonded zones (including cross-border industrial zones and bonded areas) reached 1.05 trln yuan, up 32.3% YoY, a record for the period and crossing the 1 trln yuan mark two months earlier than last year. With provincial monthly foreign trade exceeding 1 trln yuan for two months, bonded zones contributed 23.3% to Guangdong's foreign trade growth in the first seven months."
+    },
+    {
+      "id": "5059209",
+      "time": "2026-08-26 14:57:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我駐尼泊爾大使館提醒在尼中國公民和機構加強安全防範】據中國駐尼泊爾大使館26日釋出的訊息，尼泊爾時間當天9時許，該國北部中尼邊境熱索瓦地區暴發山洪。中國駐尼泊爾大使館立即啟動應急機制，第一時間瞭解受災地區中國公民和企業涉險情況，督促尼泊爾政府和相關機構全力援救。中國駐尼泊爾大使館提醒在尼泊爾中國公民和機構：一、及時檢視氣象預報和各類預警資訊。二、關注實時路況，注意出行安全，選擇安全可靠的交通工具和路線，儘量避開山區河谷、江河沿岸、低窪易澇等地質災害高發區域。三、切勿主動涉險，非必要不進山、不涉水、不前往偏僻、通訊設施不完善區域。四、時刻繃緊安全生產這根弦。提高風險防範意識，加強監測預報預警，深入排查整治各類風險隱患。切實加強安全生產監督管理，鞏固施工作業安全防護措施，堅決防範避免重特大安全事故。提前做好防災物資準備，提高救災應對能力，切實保障人身與財產安全。五、如突遇災害，全力保持聯絡通暢，遵從當地官方指引及時轉移避險，注意防範次生災害。"
+    },
+    {
+      "id": "mkt:01a03cdb-b35a-7aab-9124-e907406994a4",
+      "time": "2026-08-26 14:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CAAC deputy meets Airbus commercial aircraft EVP in Beijing】China Civil Aviation Administration deputy director Hu Zhenjiang met in Beijing with Airbus Group’s head of technology and executive vice‑president for commercial aircraft. They discussed Airbus’s business development in China and measures to deepen cooperation on aviation safety, aircraft airworthiness and maintenance support capabilities."
+    },
+    {
+      "id": "5059208",
+      "time": "2026-08-26 14:57:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡振江會見空客民機執行副總裁】中國民用航空局副局長鬍振江在京會見空客集團技術負責人兼民機執行副總裁邁拉德，雙方就空客在華業務發展及進一步加強航空安全、航空器適航及維修保障能力等方面合作交換意見。（中國民航局）"
+    },
+    {
+      "id": "5059207",
+      "time": "2026-08-26 14:56:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數上漲1%，報1809.37點。"
+    },
+    {
+      "id": "mkt:01a03cda-a5fc-7aab-9124-e6ce6d59f28f",
+      "time": "2026-08-26 14:55:57",
+      "tags": [
+        "MKT News",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor expects production of Atlas humanoid robots will not have a material impact on profits in 2030."
+    },
+    {
+      "id": "5059206",
+      "time": "2026-08-26 14:55:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【前7個月廣東綜保區外貿進出口突破萬億元，增長超三成】記者從海關總署廣東分署瞭解到，今年前7個月廣東省內綜合保稅區（含跨境工業區、保稅區）進出口1.05萬億元，同比增長32.3%，創歷史同期新高，比上年度提前2個月突破萬億元關口。在廣東外貿連續兩月單月突破萬億元的同時，全省綜保區繼續發揮拉動作用，今年前7個月對廣東外貿增長貢獻率達23.3%。（21財經）"
+    },
+    {
+      "id": "mkt:01a03cd9-939e-7aab-9124-db5bfc69162f",
+      "time": "2026-08-26 14:54:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports that DeepSeek generated about CNY475 million ($70.7 million) in revenue in the first seven months of this year, roughly ten times its full-year 2025 revenue."
+    },
+    {
+      "id": "5059205",
+      "time": "2026-08-26 14:54:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "現代汽車：預計阿特拉斯人形機器人投產對2030年利潤無重大影響。"
+    },
+    {
+      "id": "5059204",
+      "time": "2026-08-26 14:53:49",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【報道：DeepSeek前7月營收4.75億元 較2025全年增長9倍】據兩名知悉該公司財務資料的人士透露，這家中國AI實驗室正全力推進第二輪融資。2026年前7個月，DeepSeek實現營收約4.75億元人民幣（摺合7070萬美元），約為其2025全年營收的十倍（即增長9倍）。 兩位知情人士補充稱，今年1‑7月DeepSeek淨虧損約7.15億元人民幣，而2025全年淨虧損為9.35億元。公司正與現有投資人及新投資人就本輪融資展開磋商，計劃募資500億元人民幣，目標估值5000億元人民幣。 DeepSeek暫未回覆郵件置評請求。"
+    },
     {
       "id": "mkt:01a03cd8-0a4e-7aab-9124-d77d0d279aa2",
       "time": "2026-08-26 14:53:06",
@@ -196,6 +473,14 @@
         "國際"
       ],
       "text": "印度NIFTY 50指數最新下跌0.25%。"
+    },
+    {
+      "id": "5059183",
+      "time": "2026-08-26 14:44:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省防禦應對18號颱風“沙德爾”動員部署會召開 省委書記王浩主持並講話】根據氣象最新預報預判，今年第18號颱風“沙德爾”登陸浙江可能性增加，目前我省海上防禦已進入決戰階段，陸上防禦全面進入迎戰階段。26日上午，省委、省政府召開全省防禦應對18號颱風“沙德爾”動員部署會。省委書記王浩強調，全省上下要堅決貫徹落實習近平總書記關於防汛救災工作的重要論述和重要指示精神，牢固樹立“一個目標、四個寧可”理念，全面高標準做好應對各項工作，做到思想更重視、準備更充分、舉措更硬實、工作面更寬、力量投入更大，堅決打贏打好防禦颱風“沙德爾”硬仗。（浙江釋出）"
     },
     {
       "id": "5059182",
@@ -149035,278 +149320,6 @@
         "國際"
       ],
       "text": "印尼央行代理行長：預計2026年全球經濟增長將維持疲軟態勢，增速為3%。"
-    },
-    {
-      "id": "mkt:01a018d4-33e3-7aab-908d-a1d5c8409845",
-      "time": "2026-08-19 15:02:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "Aug 19 (Wed) — China's STAR 50 Index slid 6.89% to 1,667.52; ChiNext Index fell 6.26% to 3,473.49; Shenzhen Composite dropped 5.01% to 13,890.15; CSI 300 Index declined 2.90% to 4,588.70; Shanghai Composite fell 2.40% to 3,894.42."
-    },
-    {
-      "id": "mkt:01a018d3-cb23-7aab-908d-9dddfd9d6da6",
-      "time": "2026-08-19 15:02:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai and Shenzhen traded CNY 2.511 trillion on Aug. 19; Zhongji Xuchuang led turnover】On Aug. 19 Shanghai and Shenzhen bourses recorded combined turnover of CNY 2.511043 trillion, up CNY 110.268 billion from the prior session. Shanghai turnover was CNY 1.218108 trillion (prev. CNY 1.135188 trillion) with volume 572 mln lots (prev. 511 mln); Shenzhen turnover was CNY 1.292935 trillion (prev. CNY 1.265587 trillion) with volume 697 mln lots (prev. 675 mln). Top stock by turnover was Zhongji Xuchuang at CNY 32.882 bln, followed by Zhaoyi Innovation CNY 26.919 bln, Changxin Technology CNY 26.268 bln, N Yushu-W CNY 23.160 bln and Xinyisheng CNY 22.899 bln."
-    },
-    {
-      "id": "5047193",
-      "time": "2026-08-19 15:01:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【ETF兩市成交額報4967.73億元，較昨日此時放量43.61億元】截至目前，ETF兩市成交額報4967.73億元，較昨日此時放量43.61億元，分型別來看，股票型ETF成交額2088.83億元，債券型ETF成交額1845.78億元，貨幣型ETF成交額284.63億元，商品型ETF成交額89.47億元，QDII型ETF成交額659.03億元。"
-    },
-    {
-      "id": "5047192",
-      "time": "2026-08-19 15:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價盤後交易中因股票回購而抹去了8.3%的跌幅。"
-    },
-    {
-      "id": "mkt:01a018d3-7cfb-7aab-908d-9295649cdddb",
-      "time": "2026-08-19 15:01:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European indices opened Wed Aug 19: Germany DAX down 3.12 pts (-0.01 pct) at 26,148.57; UK FTSE 100 down 0.76 pts (-0.01 pct) at 10,727.28; France CAC 40 up 9.78 pts (+0.11 pct) at 8,519.14; Euro STOXX 50 up 6.08 pts (+0.09 pct) at 6,474.25; Spain IBEX 35 down 0.31 pts (0.00 pct) at 19,934.59; Italy FTSE MIB up 49.16 pts (+0.09 pct) at 53,067.00."
-    },
-    {
-      "id": "mkt:01a018d3-7833-7aab-908d-8fe284a14bef",
-      "time": "2026-08-19 15:01:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Equity index futures midday close】At midday, China's equity index futures main contracts were lower: CSI 300 (IF) -2.38%, SSE 50 (IH) -1.42%, CSI 500 (IC) -3.78%, CSI 1000 (IM) -4.26%."
-    },
-    {
-      "id": "5047191",
-      "time": "2026-08-19 15:01:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【收評：雙創指數均大跌超6%，全市僅400餘股紅盤】A股三大指數今日集體下跌，截至收盤，上證指數跌2.4%，深證成指跌5.01%，創業板指跌6.26%，北證50跌4.89%，科創50指數跌6.89%。全市場成交額25300億元，較上日放量1102億元，全市場超5000只個股下跌。板塊題材上，廚衛電器、銀行、煤炭開採加工、港口航運板塊上漲；MLCC概念、電子化學品、CPO、元件、半導體板塊跌幅居前。盤面上，廚衛電器板塊震盪走強，億田智慧、萬和電器、日出東方紛紛漲停，老闆電器、華帝股份、奧普科技跟漲。煤炭開採加工板塊表現活躍，寶泰隆、陝西黑貓、美錦能源、大有能源漲停，鄭州煤電、安泰集團、遼寧能源漲幅居前。電子化學品板塊持續走低，海星股份、天通股份、宏和科技觸及跌停，唯特偶、方邦股份、萊爾科技、國瓷材料、中石科技等多股跌超10%。人形機器人板塊重挫，上緯新材觸及20cm跌停，江蘇北人、豐光精密、綠的諧波、昊志機電均跌超15%。半導體板塊亦大幅下挫，芯原股份、芯朋微、長光華芯、華虹宏力、傑華特均跌超10%。"
-    },
-    {
-      "id": "5047190",
-      "time": "2026-08-19 15:01:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：銀行ETF漲3.34%，科創機械ETF領跌9.24%】ETF收盤漲跌不一，杭州灣區ETF（512870）領漲9.38%，溢價率13.95%，銀行ETF（159253）漲3.34%，銀行ETF（512730）漲2.13%，科創機械ETF（588850）領跌9.24%，機器人ETF（159272）跌9.21%，機器人ETF（159048）跌9.18%。"
-    },
-    {
-      "id": "mkt:01a018d3-2ca1-7aab-908d-8694f91d207c",
-      "time": "2026-08-19 15:01:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "At the mid-session close in China, most-active domestic futures were higher. Fuel oil led gains, up more than 6%; coking coal rose over 3%; starch and methanol were nearly 3% higher; asphalt, synthetic rubber, coke and corn each climbed over 2%. On the downside, Shanghai silver fell more than 4%; lithium carbonate dropped over 3%; platinum and palladium were about 3% lower."
-    },
-    {
-      "id": "5047189",
-      "time": "2026-08-19 15:01:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦強烈譴責以色列襲擊敘利亞】當地時間8月19日，巴基斯坦外交部通報，巴基斯坦強烈譴責以色列對敘利亞伊德利卜省阿布杜胡爾空軍基地發動的無端襲擊。此類挑釁行為公然違反國際法，並可能進一步破壞地區和平與穩定。巴基斯坦表示堅定聲援敘利亞人民，並重申全力支援敘利亞的主權和領土完整，以及敘利亞的和平與繁榮。（央視新聞）"
-    },
-    {
-      "id": "5047188",
-      "time": "2026-08-19 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌2.40%，深證成指跌5.01%，創業板指跌6.26%。"
-    },
-    {
-      "id": "mkt:01a018d2-c529-7aab-908d-7a8bfe5e3bef",
-      "time": "2026-08-19 15:01:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB executive board member REHN said keeping inflation expectations stable is crucial."
-    },
-    {
-      "id": "5047187",
-      "time": "2026-08-19 15:00:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達60億港元。"
-    },
-    {
-      "id": "5047186",
-      "time": "2026-08-19 15:00:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量1041億元。"
-    },
-    {
-      "id": "5047185",
-      "time": "2026-08-19 15:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球首項！我國牽頭制定的鋼鐵行業智慧製造國際標準釋出】記者今天瞭解到，我國牽頭制定的全球首項鋼鐵行業智慧製造領域國際標準《鋼鐵行業智慧製造指南》近日釋出。該國際標準由我國專家擔任專案負責人，匯聚日本、荷蘭、法國等多國專家協同參與、聯合研製，為全球鋼鐵行業的數字化轉型搭建起互聯互通的通用技術底座。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a018d1-fa6b-7aab-908d-733c20b70899",
-      "time": "2026-08-19 15:00:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB President Lagarde to attend Global Economic Outlook discussion in ten minutes."
-    },
-    {
-      "id": "5047184",
-      "time": "2026-08-19 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數跌0.8%，英國富時100指數漲0.07%，法國CAC40指數跌0.82%，歐洲斯托克50指數跌0.95%，義大利富時MIB指數跌1.06%。"
-    },
-    {
-      "id": "5047183",
-      "time": "2026-08-19 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】白銀連續跌4.14%，焦煤連續漲3.42%，燃料油連續漲3.29%，碳酸鋰連續跌3.01%，甲醇連續漲2.89%。"
-    },
-    {
-      "id": "5047182",
-      "time": "2026-08-19 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌4.25%， 滬深300指數期貨連續跌2.33%， 中證500指數期貨連續跌3.74%， 上證50指數期貨連續跌1.44%。"
-    },
-    {
-      "id": "5047181",
-      "time": "2026-08-19 14:59:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海鳳凰等成立新公司 含新能源原動裝置製造業務】企查查APP顯示，近日，江蘇鳳瑞機車科技有限公司成立，經營範圍包含：新能源原動裝置製造；電池製造；電池零配件生產；電池銷售；電池零配件銷售；新能源原動裝置銷售等。企查查股權穿透顯示，該公司由上海鳳凰等共同持股。"
-    },
-    {
-      "id": "mkt:01a018d1-0a66-7aab-908d-6dcede060d20",
-      "time": "2026-08-19 14:59:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Several broad-based ETFs surge in late trade; Huatai‑PineBridge CSI 300 ETF >3.0 bln yuan in final 30 mins】Multiple broad-based ETFs posted heavy late-session flows. The Huatai‑PineBridge CSI 300 ETF traded over 3.0 bln yuan in the final 30 minutes. Southern’s CSI 1000 ETF, Southern’s CSI 500 ETF and GF Fund’s CSI 1000 ETF each traded more than 1.0 bln yuan in the last half hour."
-    },
-    {
-      "id": "5047180",
-      "time": "2026-08-19 14:59:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻寬基ETF顯著放量 滬深300ETF華泰柏瑞尾盤近半小時成交超30億元】尾盤多隻寬基ETF顯著放量，滬深300ETF華泰柏瑞（510300）尾盤近半小時成交超30億元，中證1000ETF南方（512100）、中證500ETF南方（510500）、中證1000ETF廣發（560010）尾盤半小時均成交超10億元。"
-    },
-    {
-      "id": "5047179",
-      "time": "2026-08-19 14:58:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：五角大樓評估減少在中東軍事存在】據多名要求匿名的知情人士18日向美國《華盛頓郵報》披露，五角大樓正就美軍在中東地區的軍事存在作非正式評估，其中一個關鍵領域是伊朗戰事結束後是否要從波斯灣撤軍。設在那裡的美軍基地在戰事中損毀嚴重，已有專家建議美軍將部隊和裝備西撤至約旦、以色列或沙特的紅海沿岸。（新華社）"
-    },
-    {
-      "id": "te:economy:576369",
-      "time": "2026-08-19 14:58:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Ireland 10Y Bond Yield Hits 12-1/2-year High — Ireland 10 Year Government Bond Yield increased to 3.46%, the highest since January 2014. Over the past 4 weeks, Ireland 10Y Bond Yield gained 8.04 basis points, and in the last 12 months, it increased 43.84 basis points."
-    },
-    {
-      "id": "mkt:01a018d0-230a-7aab-908d-628325e13486",
-      "time": "2026-08-19 14:58:08",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "ECB Governing Council member REHN: wage growth and the wage outlook remain moderate; no clear signs of second‑round effects."
-    },
-    {
-      "id": "5047178",
-      "time": "2026-08-19 14:56:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "發言人表示，印度香料航空對印度國家公司法庭的裁定表示認可，該法庭已裁定飛行員ML提交的請願因撤回而告結案。"
-    },
-    {
-      "id": "mkt:01a018cd-c176-7aab-908d-5f23ee0eb75e",
-      "time": "2026-08-19 14:55:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "STAR50ETF",
-        "CHINEXTETF"
-      ],
-      "text": "After a nine-trading-day gap, Hua Xia's STAR Market 50 ETF and E Fund's ChiNext ETF each again posted turnover above 10 billion yuan."
-    },
-    {
-      "id": "5047177",
-      "time": "2026-08-19 14:55:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡承諾向對沖基金交易員等個別基金經理提供可能相當可觀的稅務豁免，表明新加坡和香港這兩個都在爭奪資產管理業務的城市競爭日益激烈。"
-    },
-    {
-      "id": "5047176",
-      "time": "2026-08-19 14:54:49",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "時隔9個交易日，科創板50ETF華夏（588000）、創業板ETF易方達（159915）成交額再度雙雙破百億。"
     }
   ]
 }
