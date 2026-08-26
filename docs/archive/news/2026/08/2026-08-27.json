@@ -1,7 +1,26 @@
 {
   "date": "2026-08-27",
-  "count": 483,
+  "count": 485,
   "items": [
+    {
+      "id": "te:markets:578379",
+      "time": "2026-08-27 06:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 2.17% — Top crypto gainers are Ether (2.17%), Binance (1.52%) and Bitcoin (0.15%). Biggest loser is XRP (-1.84%)."
+    },
+    {
+      "id": "5060979",
+      "time": "2026-08-27 06:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：韓國和美國正努力解決投資條款分歧。"
+    },
     {
       "id": "te:markets:578378",
       "time": "2026-08-27 06:40:15",
