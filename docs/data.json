@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-27 00:07:54",
-  "count": 16703,
+  "updated": "2026-08-27 00:12:05",
+  "count": 16701,
   "items": [
+    {
+      "id": "te:markets:578346",
+      "time": "2026-08-27 00:11:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.08% Higher — The DAX Index gained 20 points or 0.08 percent on Wednesday to close at 26286 points. Gains were led by HeidelbergCement (6.04%), Deutsche Bank (4.31%) and MTU Aero Engines AG (2.98%). Biggest losers were SAP (-3.01%), Zalando (-1.41%) and Scout24 (-1.33%)."
+    },
+    {
+      "id": "te:economy:578345",
+      "time": "2026-08-27 00:11:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Russia Industrial Activity Slows — Industrial production in Russia rose 0.4% year-on-year in July 2026, slowing from a 0.6% increase in June and falling short of market expectations for 0.7% growth. Activity in electricity, gas, steam and air-conditioning supply contracted further, falling 4% after a 1.4% decline in the previous month, while manufacturing growth eased to 2.4% from 2.8%. Mining output remained in contraction, declining 2.6%. Meanwhile, activity in water supply, sewerage, waste management and remediation rebounded, rising 2.8% after a 1.2% decline in June. On a seasonally adjusted monthly basis, industrial production edged up 0.1%, following an upwardly revised 0.2% increase in June. In the first seven months of 2026, industrial output increased 0.1% compared with the same period a year earlier."
+    },
+    {
+      "id": "te:markets:578344",
+      "time": "2026-08-27 00:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.27% Higher — The CAC 40 Index went up by 23 points or 0.27 percent on Wednesday to close at 8462 points. The rise was led by ArcelorMittal (3.20%), Safran (1.91%) and Kering (1.74%). On the downside, the weakerst performers were Capgemini (-2.65%), ENGIE (-1.46%) and Eurofins Scientific SE (-1.28%)."
+    },
+    {
+      "id": "5060643",
+      "time": "2026-08-27 00:07:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "斯特蘭蒂斯執行長：斯特蘭蒂斯上半年各項核心指標均出現改善，公司正處於逐步回暖的復甦軌道。"
+    },
+    {
+      "id": "te:markets:578341",
+      "time": "2026-08-27 00:07:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.01% Higher — The FTSE 100 Index rose 0.6 points or 0.01 percent on Wednesday to close at 10887 points. Leading the gains are British American Tobacco (2.84%), Howden Joinery (2.19%) and Diploma (1.73%). Top losers were The Sage Group (-3.85%), Entain (-1.96%) and 3i (-1.96%)."
+    },
     {
       "id": "te:markets:578340",
       "time": "2026-08-27 00:06:40",
@@ -150667,83 +150723,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 0.75% Lower — The FTSE MIB Index fell 400 points or 0.75 percent on Wednesday to close at 52618 points. Leading the losses are STMicroelectronics (-2.70%), Unipol Gruppo (-2.61%) and Amplifon (-2.28%). Top gainers were Stellantis N.V. (6.30%), Ferrari NV (1.47%) and Moncler (1.11%)."
-    },
-    {
-      "id": "mkt:01a01acb-26af-7aab-909d-59589859e431",
-      "time": "2026-08-20 00:11:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Excess deaths from two French heatwaves exceed 7,000】As of July 22, two successive heatwaves in France produced over 7,000 excess deaths, the French public health authority said. It recorded at least 5,764 excess deaths from June 17–July 2 and 1,243 from July 3–22. During the second wave, people aged 75 and older accounted for three quarters of deaths. The record-hot July — the hottest month since 1900 — strained industrial and public-health services, sparked severe wildfires and disrupted transport, food and energy production. A government minister earlier estimated the heatwaves could cost France up to €15 billion (US$17.5 billion)."
-    },
-    {
-      "id": "mkt:01a01aca-ac0b-7aab-909d-53e3ece104ef",
-      "time": "2026-08-20 00:11:24",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israel Defense Forces said an airstrike in Gaza's Shati area killed four Hamas militant commanders."
-    },
-    {
-      "id": "te:markets:576577",
-      "time": "2026-08-20 00:11:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.14% Lower — The DAX Index dropped 37 points or 0.14 percent on Wednesday to close at 26091 points. Losses were led by Infineon (-3.65%), Rheinmetall (-2.83%) and MTU Aero Engines AG (-2.19%). Offsetting the fall, top gainers were Volkswagen (2.44%), SAP (2.17%) and Porsche Automobil (2.03%)."
-    },
-    {
-      "id": "te:markets:576576",
-      "time": "2026-08-20 00:10:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.09% Lower — The CAC 40 Index decreased 7 points or 0.09 percent on Wednesday to close at 8502 points. The decline was led by STMicroelectronics (-3.91%), Societe Generale (-3.74%) and Credit Agricole (-2.59%). On the upside, the strongest performers were Stellantis NV (6.26%), Edenred (3.09%) and Capgemini (2.84%)."
-    },
-    {
-      "id": "mkt:01a01ac9-58e2-7aab-909d-4f471924f4f9",
-      "time": "2026-08-20 00:09:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot platinum extended gains to 5.31%, trading at $1,799.19/oz."
-    },
-    {
-      "id": "5048404",
-      "time": "2026-08-20 00:09:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：談判是解決伊朗與美國之間分歧的唯一途徑。"
-    },
-    {
-      "id": "te:markets:576575",
-      "time": "2026-08-20 00:08:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Inch Lower — European stocks closed slightly lower on Wednesday amid sharp losses for banks and AI stocks. The Euro STOXX 50 dropped 0.2% to 6,454 and the STOXX Europe 600 closed flat at 652. European banks tumbled in the session despite the pullback in long-term yields after the US Treasury doubled its buyback program. BNP Paribas and ING fell 2.4% each, while Santander, UniCredit, and Intesa Sanpaolo lost 1.3%. In the meantime, ASML dropped 2.2% and Infineon slumped 4%, tracking the AI infrastructure sector in the US after financial results from OpenAI refrained from keeping up with the sharp growth from Antropic. On the other hand, consumer cyclical companies closed higher with Inditex and LVMH gaining around 2% each. Also, the jump in gold prices from the Treasury intervention lifted miners in London, with Rio Tinto and Glencore adding 4% and 5%, respectively."
     }
   ]
 }
