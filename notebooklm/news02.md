@@ -1,7 +1,661 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-26 21:58:37_
-_本檔包含 3222 則快訊，約 667787 字_
+_更新時間：2026-08-26 22:58:41_
+_本檔包含 3175 則快訊，約 667721 字_
+
+---
+
+### 2026-08-25 23:56:39  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【US hawk visits Moscow; Ukrainian adviser outlines possible motives】An adviser to Ukraine’s interior minister, Anton Gerashchenko, said it is unclear why CIA director John Ratcliffe went to Moscow and various theories are circulating. The Kremlin said Putin’s schedule was adjusted and a planned Tuesday event involving hundreds was postponed. Ratcliffe, like Secretary of State Rubio, is widely viewed as a hawk and some see the visit as a warning that the US could take a tougher line if Russia refuses to end the conflict. US media recently reported that US intelligence has warned Russia may seek attacks on NATO European states to probe alliance unity, a second possible context for the trip.
+
+---
+
+### 2026-08-25 23:54:13  #焦點 #國際
+
+【中美1.5軌對話代表期待雙方加強務實合作】8月25日，由中共中央對外聯絡部和美國亞洲協會共同主辦的第三屆中美1.5軌對話在北京舉行，主題為“建設性戰略穩定——新時代中美務實合作”。中方有關部門、地方政府、智庫、高校以及美國戰略界、工商界約40名中外代表參加。（新華社）
+
+---
+
+### 2026-08-25 23:54:07  #MKT News
+
+Al Arabiya TV reported Yemen government-aligned Giant Brigade used drones to strike Houthi positions in southern Hudaydah; the brigade said the attack killed more than 33 Houthi fighters, including several field commanders.
+
+---
+
+### 2026-08-25 23:53:18  #MKT News
+
+Canada's Industry Minister Joly said Ottawa has taken prudent, strategic measures to counter tariffs.
+
+---
+
+### 2026-08-25 23:53:07  #MKT News
+
+Canadian Industry Minister Joly said retaliatory tariffs are intended to exert political pressure on certain states.
+
+---
+
+### 2026-08-25 23:52:24  #國際
+
+加拿大工業部長喬利：關稅針對（美國）特定州，意在施加政治壓力。
+
+---
+
+### 2026-08-25 23:51:09  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yields Drop From 20-Month High — The yield on the 10-year US Treasury note eased to 4.65% from the 20-month high of 4.75% on August 21st, as lower energy prices softened concerns of higher inflation in the near term. Oil and fuel prices eased after the US opted to tighten sanctions on Iran, refraining from more military threats. Still, longer-term yields remained sharply higher on the month. The Treasury stated it would use its general account balance to increase the buyback of long-term securities. This added to efforts to compress yields after the joint intervention on the Japanese yen by selling euros and the request for the Fed to increase the limit on its FIMA facility. Yields on the longer end of the curve had surged since July amid soaring debt issuance from AI companies and higher deficit spending by the federal government. Long-term yields also rose after Fed Chairman Warsh signaled that a rate hike may not be his preferred tool to combat higher inflation, increasing the stakes of his speech in Jackson Hole.
+
+---
+
+### 2026-08-25 23:50:35  #宏觀
+
+加拿大財政部長：加拿大的報復性關稅具備策略性，且分寸得當。
+
+---
+
+### 2026-08-25 23:48:59  #MKT News
+
+Market report: A U.S. Air Force Boeing C-17 military transport has departed Moscow Vnukovo Airport.
+
+---
+
+### 2026-08-25 23:48:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says it has full sovereignty over Strait of Hormuz】Iran vice president Mohammad-Reza Aref said Tehran’s control of the Strait of Hormuz “is our legitimate sovereign right over national assets,” calling the strait “Iranian property.” He added Tehran is “fully prepared to confront enemies” and will make “any enemy who dares to threaten Iran” regret it, ISNA reported.
+
+---
+
+### 2026-08-25 23:47:45  #國際
+
+美國加州總檢察長辦公室表示，Instagram負責人亞當·莫塞裡預計將在今日各州針對Meta的庭審中出庭作證。
+
+---
+
+### 2026-08-25 23:47:16  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Oil Falls by Over 4% — Brent crude oil fell more than 4% toward $88 a barrel on Monday, extending a 2.4% loss in the previous session, as investors assessed signs of easing tensions between the US and Iran. Pakistan’s army chief visited Tehran in an effort to support diplomacy, while Qatar said it was continuing mediation efforts. Reports that Washington could soon return evacuated diplomats to the region also suggested that a broader military escalation may be less imminent. Meanwhile, Washington’s latest measures to increase economic pressure on Iran were less severe than markets had anticipated. US Treasury Secretary Scott Bessent said countries trading with Tehran would be given a deadline to wind down their links or risk unilateral penalties. Despite the measures, substantial volumes of crude continue to move through the Strait of Hormuz, with some shipments operating discreetly.
+
+---
+
+### 2026-08-25 23:47:14  #國際
+
+航班追蹤資料顯示，據信搭載美國中情局局長拉特克利夫的飛機已離開莫斯科。
+
+---
+
+### 2026-08-25 23:46:55  #資料 #國際
+
+【美國8月消費者信心指數繼續下滑】美國研究機構世界大型企業聯合會25日釋出的初步調查結果顯示，美國8月消費者信心指數為89.4，低於7月修訂後的90.2，為連續第二個月走低，反映美國消費者對未來預期變得更為悲觀。調查顯示，8月反映短期收入前景、商業和就業市場環境的消費者預期指數下降5.8，至68.2。（新華社）
+
+---
+
+### 2026-08-25 23:46:23  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Extends Losses Below $82 — Crude oil fell more than 3% to below $82 a barrel on Monday, extending a 2.4% loss in the previous session, as investors assessed signs of easing tensions between the US and Iran. Pakistan’s army chief visited Tehran in an effort to support diplomacy, while Qatar said it was continuing mediation efforts. Reports that Washington could soon return evacuated diplomats to the region also suggested that a broader military escalation may be less imminent. Meanwhile, Washington’s latest measures to increase economic pressure on Iran were less severe than markets had anticipated. US Treasury Secretary Scott Bessent said countries trading with Tehran would be given a deadline to wind down their links or risk unilateral penalties. Despite the measures, substantial volumes of crude continue to move through the Strait of Hormuz, with some shipments operating discreetly.
+
+---
+
+### 2026-08-25 23:46:00  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
+
+【Russia says two Zaporizhzhia nuclear plant workers injured in Ukrainian drone attack】Russia said on the 25th a Ukrainian drone strike injured two staff at the Zaporizhzhia nuclear power plant. The plant’s press office said the attack occurred near hydrotechnical structures while employees in a maintenance and construction workshop were working; no specific time was given. The office said the strike targeted personnel responsible for keeping the plant operational; both injured were hospitalized, one seriously. The plant said it had notified IAEA experts; Ukraine had no immediate comment.
+
+---
+
+### 2026-08-25 23:45:51  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Inch Higher — European stocks closed slightly higher on Tuesday, trimming losses from recent sessions with rebounds from AI infrastructure companies and manufacturers. The Euro STOXX 50 added 0.2% to 6,462 and the STOXX Europe 600 added 0.4% to 657. Chip producers and data center input companies pared losses from the previous session as the market gauged the outlook for capital expenditure in coming years, especially ahead of IPOs by Anthropic and OpenAI. ASML and Infineon rose 1% each, while Siemens Energy soared over 3%. Meanwhile, Siemens, Schneider, Safran, and Airbus also gained, benefitting from lower energy prices and sovereign yields. Natural gas futures fell from peaks after the US signaled it would put sanctions on companies helping Iran trade, moving away from a rhetoric of military strikes.
+
+---
+
+### 2026-08-25 23:44:29  #MKT News #WTI #Impact bearish #Brent
+
+In a joint statement, Oman and Iran said technical talks will continue to seek an agreement to establish a permanent transit corridor through the Strait of Hormuz.
+
+---
+
+### 2026-08-25 23:44:07  #公司 #國際
+
+【美媒：中情局局長正在俄羅斯進行會談】美國哥倫比亞廣播公司25日援引訊息人士的話報道稱，美國中央情報局局長拉特克利夫目前正在俄羅斯首都莫斯科進行會談。 報道說，有人此前在莫斯科某機場發現了一架美國空軍運輸機以及一支美國外交車隊，隨後傳出了他此行的訊息。不過，美俄雙方政府均未就這名美方官員的身份或此次訪問的目的發表評論。（新華社）
+
+---
+
+### 2026-08-25 23:43:18  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #S&P500 #DXY #Impact bearish
+
+US Treasury yields continued to decline; 10-year Treasury yield fell 6bps to 4.64%.
+
+---
+
+### 2026-08-25 23:42:58  #市場 #國際
+
+美國國債收益率延續跌勢，10年期國債收益率下跌6個基點至4.64%。
+
+---
+
+### 2026-08-25 23:42:51  #其他
+
+智利與本土礦業化工企業基博拉克斯簽署首份私營鋰礦合同。
+
+---
+
+### 2026-08-25 23:42:31  #其他
+
+【我國研究團隊成功製備大面積銅鋅錫硫硒薄膜光伏元件】記者從中國科學院物理研究所獲悉，該所孟慶波研究員團隊成功製備出大面積銅鋅錫硫硒薄膜光伏元件，元件光電轉換效率達到13.0%，重新整理了該類元件效率的世界紀錄，為下一代低成本、環境友好型太陽能電池產業化奠定了堅實基礎。該成果近日在國際學術期刊《自然·材料》發表。（央視新聞）
+
+---
+
+### 2026-08-25 23:42:28  #MKT News #Important #WTI #Impact bearish #Brent
+
+【International oil prices dip】WTI crude fell 3.88% to $81.27/bbl; Brent crude slipped below $87, also down 3.88% intraday. Both benchmarks dropped roughly $0.80 in the short term.
+
+---
+
+### 2026-08-25 23:42:27  #市場
+
+WTI原油日內跌4%，現報81.59美元/桶。
+
+---
+
+### 2026-08-25 23:41:20  #MKT News
+
+【Iran slams US 'economic D-Day' as systemic assault on international order】An Iranian Foreign Ministry spokesperson said the US's so‑called 'economic D‑Day' forces every bank, company, port and government to choose between obeying Washington or facing US retaliation, amounting to a systemic assault on the international order. The spokesperson said the measure destroys core rules of international law and the UN Charter on sovereign equality and self‑determination, warned no sovereign state would accept normalization of such illegal, systemic bullying, and said Canada is among the countries already learning this lesson.
+
+---
+
+### 2026-08-25 23:41:19  #國際
+
+一架美國空軍波音C‑17“環球霸王III”運輸機已從伏努科沃機場起飛。
+
+---
+
+### 2026-08-25 23:39:53  #市場 #焦點
+
+布倫特原油日內跌4%，現報86.89美元/桶。
+
+---
+
+### 2026-08-25 23:39:29  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Stoxx Europe 50
+
+European equities on Aug 25 (Tue) closed: Germany DAX 30 +155.76 pts (+0.60%) at 26,274.75; UK FTSE 100 +33.60 pts (+0.31%) at 10,887.92; France CAC 40 -13.81 pts (-0.16%) at 8,439.20; Stoxx Europe 50 +10.77 pts (+0.17%) at 6,458.75; Spain IBEX 35 -33.01 pts (-0.16%) at 20,065.59; Italy FTSE MIB +209.82 pts (+0.40%) at 52,752.00.
+
+---
+
+### 2026-08-25 23:39:16  #市場 #焦點
+
+布倫特原油失守87美元/桶，日內跌3.91%。
+
+---
+
+### 2026-08-25 23:38:40  #MKT News
+
+Saudi outlet Alhadath, citing a diplomatic source, said Israel sees Jordan as a partner to advance solutions across sectors in Syria.
+
+---
+
+### 2026-08-25 23:38:27  #MKT News
+
+A diplomatic source told Saudi outlet Hadas that Israel considers Jordan a partner to reach solutions with Syria on all issues.
+
+---
+
+### 2026-08-25 23:38:23  #Trading Economics #Markets #Commodity #Importance 0
+
+European Natural Gas Prices Fall from 3-1/2-Year High — European natural gas prices fell below €67 per megawatt-hour, easing from Monday’s 3½-year high of €68.46, as improving prospects for de-escalation between the US and Iran reduced some concerns over supply disruptions. Gas prices tracked a broader decline in energy markets after Washington’s latest measures against Tehran appeared less likely than expected to disrupt physical supplies. Diplomatic efforts also offered some relief, with Pakistan’s army chief visiting Iran and Qatar continuing to support mediation between Tehran and Washington. Reports that the US could begin returning evacuated diplomats to the Middle East also suggested that an immediate escalation in the conflict may be less likely. Nevertheless, supply risks remain, particularly as disruptions around the Strait of Hormuz have constrained LNG deliveries from Qatar. At the same time, persistent hot weather is boosting cooling demand, making it harder for European countries to rebuild gas inventories ahead of winter.
+
+---
+
+### 2026-08-25 23:36:28  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【Iran, Oman propose temporary maritime corridor in Strait of Hormuz】Iran and Oman said they plan to establish a temporary joint maritime corridor through the Strait of Hormuz and agreed to implement a joint sea‑mine clearance project, citing recent conflict that has altered conditions in the waterway. The countries outlined a phased implementation framework and will continue technical talks aimed at creating a permanent corridor, agreeing future management, traffic information exchange and related maritime and security services. They said joint dialogue with Persian Gulf littoral states is necessary and stressed compliance with applicable international law and coastal states’ sovereign rights.
+
+---
+
+### 2026-08-25 23:35:58  #MKT News #Important #WTI #Impact bearish #Brent
+
+A joint statement said Oman and Iran foreign ministers discussed a phased framework intended to provide a practical basis for restoring safe navigation in the Strait of Hormuz.
+
+---
+
+### 2026-08-25 23:35:20  #其他
+
+百時美施貴寶發言人確認，已終止與Cellares的合作關係。
+
+---
+
+### 2026-08-25 23:35:06  #焦點 #國際
+
+【阿曼與伊朗提議設立霍爾木茲海峽臨時航運通道】阿曼外交部訊息，阿曼和伊朗商討了一套分階段框架，用以恢復霍爾木茲海峽的安全通航。該方案包含一條臨時聯合航運通道，以及海峽掃雷聯合行動。雙方將繼續開展技術磋商，爭取建立永久航運通道、交通管控機制以及安全合作，同時呼籲同海灣國家開展協調。
+
+---
+
+### 2026-08-25 23:34:33  #國際
+
+伊朗外交部發言人：美國開啟“經濟諾曼底登陸日”。部分國家一味順從美方，對此表示默許，但情況絕非如此。美國逼迫全球銀行、企業、港口及各國政府服從其意志，否則就實施報復，此舉已不只是針對伊朗，而是踐踏國際法與聯合國憲章的核心原則，破壞各國主權平等與民族自決。任何重視主權的國家都不會容忍這種大規模違法與系統性霸凌，加拿大已經吸取該教訓。
+
+---
+
+### 2026-08-25 23:33:31  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
+
+US 6-week Treasury bill auction to Aug. 25 — share allocated at stop-out yield 27.88%, prior 37.04%.
+
+---
+
+### 2026-08-25 23:33:15  #MKT News #Macro & Rates #Treasury Yields
+
+US 6-week Treasury auction on Aug 25 — stop-out yield 3.65%, prior 3.65%.
+
+---
+
+### 2026-08-25 23:33:00  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+US 6-week Treasury auction as of Aug 25: bid-cover ratio 2.71, prior 2.97.
+
+---
+
+### 2026-08-25 23:32:20  #宏觀 #市場 #國際
+
+美國財政部拍賣六週期國債，得標利率3.650%，投標倍數2.71。
+
+---
+
+### 2026-08-25 23:32:06  #國際
+
+思科：思科雲控制平臺今日起面向美國客戶全面開放商用。
+
+---
+
+### 2026-08-25 23:31:37  #市場 #焦點 #國際
+
+【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.38%，歐元斯托克指數上漲0.31%，歐元區藍籌股上漲0.2%。英國富時100指數上漲0.28%，德國DAX指數上漲0.68%，法國CAC 40指數下跌0.08%，西班牙IBEX指數下跌0.07%。
+
+---
+
+### 2026-08-25 23:31:28  #其他
+
+【內蒙古針對四地啟動自治區突發地質災害四級應急響應】據氣象部門預報，受颱風和西南季風影響，8月25日至27日，內蒙古西部地區有中到大雨，局地暴雨到大暴雨。結合內蒙古自治區地質災害氣象風險預測，呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市的部分地區發生地質災害的風險高。根據《內蒙古自治區突發地質災害應急預案（2024 年版）》及有關規定，內蒙古自治區應急管理廳於8月25日針對呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市啟動自治區突發地質災害四級應急響應。（央視新聞）
+
+---
+
+### 2026-08-25 23:30:31  #MKT News #PRX.AS
+
+Prosus investors opposed the company's shareholding structure and top executive pay.
+
+---
+
+### 2026-08-25 23:29:27  #其他
+
+德國總統施泰因邁爾談及移民問題：想要在德國紮根生活，任何人都無需否認自己的出身。任何人都不必否定自身來源，一個人完全可以擁有多個故土。
+
+---
+
+### 2026-08-25 23:29:07  #國際
+
+敘利亞外交部：我們呼籲國際社會迫使佔領方（以色列）停止其侵權行為，並立即撤回到停火線。
+
+---
+
+### 2026-08-25 23:27:51  #國際
+
+伊朗總統：伊斯蘭國家的團結是地區安全與穩定的關鍵。
+
+---
+
+### 2026-08-25 23:27:13  #國際
+
+卡達外交部發言人：美國對伊朗實施的制裁屬於單邊制裁，呼籲透過斡旋化解危機。
+
+---
+
+### 2026-08-25 23:26:48  #國際
+
+敘利亞外交部：譴責以色列國防部長非法入境並越過國際邊界，此舉侵犯了我國主權。
+
+---
+
+### 2026-08-25 23:26:26  #其他
+
+德國總統施泰因邁爾談及移民問題：公民沒有一等、二等之分。我國憲法並未將德意志民族定義為血緣族群。憲法不承認所謂同血脈的“民族共同體”，也不給所謂“原生德意志人”賦予公民特權。在憲法的定義中，德意志民族同樣包含後來加入我們的人。
+
+---
+
+### 2026-08-25 23:25:55  #國際
+
+以色列外交部長：荷蘭方面的代表將被立即逐出位於基里亞特加特的加沙國際支援中心。
+
+---
+
+### 2026-08-25 23:25:54  #Trading Economics #Markets #Namibia #Stock Market #Importance 0
+
+Stocks in Namibia Hit 20-month High — NSX Overall increased to 2464.00 Index Points, the highest since December 2024. Over the past 4 weeks, Namibia Overall Index gained 5.75%, and in the last 12 months, it increased 34.37%.
+
+---
+
+### 2026-08-25 23:25:16  #國際
+
+美國地質調查局：阿富汗賈拉拉巴德東北偏北4公里處發生4.9級地震。
+
+---
+
+### 2026-08-25 23:23:08  #國際
+
+俄羅斯國防部通報，俄武裝部隊打擊了尤日內港兩艘向烏克蘭運送軍用物資的貨輪，以及四處存放烏克蘭武裝部隊軍用裝備的倉儲設施。
+
+---
+
+### 2026-08-25 23:23:02  #MKT News #WTI #Impact bullish #Brent
+
+【Sources: Iran seeks to relay Hormuz negotiation terms to US via Pakistan】A source close to Iran's negotiating team said on the 25th (local time) that Iran wants Pakistan to convey its position and negotiating terms on the Strait of Hormuz to the United States. The source said Iran met Pakistan Army chief Munir on the 24th and set out those positions. Iran's conditions include US compliance with an Islamabad memorandum of understanding and implementation of its clause five, which concerns arrangements for Iranian management of the Strait of Hormuz. Pakistan is seeking to pass those conditions to the US, the source added.
+
+---
+
+### 2026-08-25 23:22:45  #國際
+
+以色列對加沙北部傑巴利耶發動空襲。
+
+---
+
+### 2026-08-25 23:22:21  #其他
+
+德國總統施泰因邁爾：即便我們長期不願承認，德國早已是一個受移民塑造的社會。最晚從上世紀50年代末、60年代德國與南歐國家以及土耳其簽訂勞工招募協議開始，事實便是如此。我國長期向好的強勁經濟吸引了來自世界各地的人們。而真相是，我們當中很多崗位離不開這些外來人口。
+
+---
+
+### 2026-08-25 23:21:50  #焦點 #國際
+
+【訊息人士：伊朗希望透過巴基斯坦向美方轉達談判條件】據伊朗方面當地時間25日訊息，一名接近伊朗談判團隊的訊息人士表示，伊方希望透過巴基斯坦向美方明確轉達有關霍爾木茲海峽的立場和談判條件。這名訊息人士說，伊朗方面24日同到訪的巴陸軍參謀長穆尼爾會晤時，已向巴方明確闡述有關立場。伊方提出的條件包括美國遵守伊斯蘭堡諒解備忘錄並履行相關條款，其中第五條涉及有關伊朗對霍爾木茲海峽管理安排的內容。（央視新聞）
+
+---
+
+### 2026-08-25 23:21:22  #Trading Economics #Economy #Mexico #Current Account #Importance 1
+
+Mexico Current Account Swings to Surplus in 2Q — Mexico’s current account posted a surplus of $8.93 billion in the second quarter of 2026, rebounding from a $4.46 billion deficit a year earlier. The surplus reflected a $6.35 billion surplus in the goods and services balance, a $13.25 billion deficit in the primary income balance and a $15.82 billion surplus in the secondary income balance. The goods and services surplus resulted from a $10.82 billion surplus in the goods balance, partially offset by a $4.46 billion deficit in the services balance. As a share of GDP, the current account surplus stood at 1.7% in the second quarter of 2026, compared with a 1.0% deficit in the same period of 2025.
+
+---
+
+### 2026-08-25 23:20:38  #其他
+
+德國總統施泰因邁爾：作為一個國家，我們需要移民。想要維持社會正常運轉，就離不開移民。醫院、養老院以及各類護理機構都存在這一需求，如今私營經濟的絕大部分領域同樣如此。
+
+---
+
+### 2026-08-25 23:17:57  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #WTI #DXY
+
+Interfax: Russia says it struck two vessels at Ukraine's Pivdennyi port.
+
+---
+
+### 2026-08-25 23:17:46  #MKT News #HMC.O #Impact bullish
+
+【Honda to expand North American hybrid capacity, may build US plant】Honda is considering building a new plant in the United States as it expands gasoline-electric hybrid production. After cancelling three battery-electric models planned for the US earlier this year, the automaker plans to roll out 15 new hybrid models by March 2030, primarily for North America. An executive vice president said Honda needs additional capacity to meet demand and that the next factory should be in North America.
+
+---
+
+### 2026-08-25 23:17:44  #MKT News #CNH #Impact bearish #CSI300 #Hang Seng Index
+
+【Typhoon Sader nears; China's Ningbo and Zhoushan raise typhoon response to Level II】At 17:00 on Aug 25, Typhoon Sader's center was about 852 km off Ningbo at sea, with maximum winds at force 14. Based on its track and intensity forecast, from 20:00 on Aug 25 Ningbo and Zhoushan coastal areas have entered a Level II typhoon emergency response, focusing on offshore gale and swell risks that could cause ships to drag anchor or mooring lines to break.
+
+---
+
+### 2026-08-25 23:17:05  #國際
+
+以色列防長卡茨：以色列軍隊將繼續駐守敘黎邊境地帶。
+
+---
+
+### 2026-08-25 23:16:31  #其他
+
+【颱風“沙德爾”逼近，寧波、舟山沿海啟動Ⅱ級防颱響應】今年第18號颱風“沙德爾”繼續逼近。8月25日17時，其中心位於距寧波約852公里的海面上，中心最大風力14級。根據颱風動態和發展趨勢，8月25日20時起，寧波、舟山兩地沿海進入Ⅱ級防颱應急響應，重點防範海上大風、湧浪可能引發的船舶走錨、斷纜等風險。（央視新聞）
+
+---
+
+### 2026-08-25 23:15:58  #國際
+
+美盛高管：巴西化肥產業擬申請20億雷亞爾補貼計劃，以緩解伊朗戰爭帶來的衝擊。
+
+---
+
+### 2026-08-25 23:15:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+【COLLINS: Support holding rates for now; will tighten quickly if DISINFLATION stalls】Fed's COLLINS said she currently supports keeping the policy rate unchanged, conditional on further evidence of DISINFLATION toward the Fed's 2% target. She wrote that maintaining the current target range requires continued evidence that inf is falling; if such evidence does not appear, she would tighten policy as soon as possible. Recent releases show modest underlying price pressures, which she called somewhat encouraging, but monthly data are noisy and persistence is uncertain. COLLINS said tight policy and higher long-term yields should help ease some inflationary pressure from strong household and business spending, and that earlier tariff effects have largely faded while the pass-through from rising oil prices should begin to wane.
+
+---
+
+### 2026-08-25 23:14:55  #公司 #觀點 #國際
+
+【大摩：人工智慧相關表外承諾規模突破3萬億美元】摩根士丹利資料顯示，五大超大規模雲廠商，疊加晶片企業英偉達與博通，透過擔保、租賃以及其他金融支援形式，合計承諾投入超3.1萬億美元，用於扶持第三方人工智慧基礎設施建設。分析師託德·卡斯塔尼奧領銜的研報指出，五大雲廠商包括谷歌、亞馬遜、Meta、微軟、甲骨文。其中谷歌以8900億美元的總承諾額遙遙領先，主要為採購承諾。整體來看，“根據各家最新美國證券交易委員會申報檔案，雲廠商未折現承諾總額超2.7萬億美元，約等同於其當前三年經營性現金流。”該群體2027年預計現金資本支出超1.2萬億美元，而預期現金流約為1萬億美元。摩根士丹利估算，雲廠商超四成營收被再度投入人工智慧資本開支。
+
+---
+
+### 2026-08-25 23:13:12  #國際
+
+卡達外交部發言人：卡達繼續進行區域接觸，旨在鼓勵美國與伊朗恢復談判。
+
+---
+
+### 2026-08-25 23:12:46  #國際
+
+俄羅斯總統普京原定於今日舉辦一場大型活動，已有數百人為該活動開展籌備工作。受美國中央情報局局長到訪影響，這場活動已被取消。
+
+---
+
+### 2026-08-25 23:10:39  #MKT News #Important #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+【Canada to impose reciprocal 50% tariffs on multiple U.S. goods】Prime Minister Carney said Canada will impose reciprocal 50% tariffs on a range of U.S. imports, doubling existing retaliatory duties on U.S. steel and aluminum to 50% and extending 50% levies to furniture, apparel, video-game consoles, smartphones and other electronics. The measures will target about $20 billion of U.S. goods—roughly 6% of Canada’s imports from the U.S. last year—and approximately match the value of tariffs the U.S. announced under a rarely used 1930 Tariff Act provision. Ottawa also announced support programs for firms affected by the trade escalation.
+
+---
+
+### 2026-08-25 23:10:24  #MKT News #DXY #Impact bullish #WTI #Impact bearish #Copper
+
+Canada's finance minister said US tariffs will have a tangible impact on Canada and that Ottawa must respond.
+
+---
+
+### 2026-08-25 23:09:57  #公司
+
+谷歌推出面向法律行業的Gemini企業版，面向律所提供AI工具，以簡化業務流程、降低成本。
+
+---
+
+### 2026-08-25 23:08:54  #國際
+
+【加拿大宣佈對美國實施報復性關稅】加拿大政府25日宣佈，對價值約200億美元的美國商品徵收報復性關稅。此前，美國總統特朗普要求加拿大領導人“就範”，否則將面臨比現有關稅“更為嚴厲”的後果。（新華社）
+
+---
+
+### 2026-08-25 23:07:53  #宏觀 #國際
+
+加拿大財政部長：美國政府提出的條款不具備經濟合理性、不公且無法接受。
+
+---
+
+### 2026-08-25 23:04:48  #MKT News #DXY #Impact bullish
+
+Canada will impose retaliatory tariffs on about 700 products effective Sept. 8, with duties set at 15%, 25% or 50%.
+
+---
+
+### 2026-08-25 23:04:30  #其他
+
+【2026年度電影總票房突破275億】據網路平臺資料，截至目前，2026年度電影總票房（含預售），突破275億元。2026年暑期檔電影總票房（含預售）突破117億元，暑期檔連續46天單日票房過億，觀影人次、放映場次雙雙重新整理歷史紀錄。（央視新聞）
+
+---
+
+### 2026-08-25 23:04:22  #MKT News
+
+NVIDIA: Cognex, Doosan Bobcat and U.S. Silicon Valley home-cleaning robot startup Matic will adopt the Jetson Orin Nano 2.
+
+---
+
+### 2026-08-25 23:04:21  #MKT News
+
+【China's 2026 box office tops 27.5 bln yuan】According to online platform data, China's 2026 box office (including presales) has topped 27.5 bln yuan. The summer window (including presales) exceeded 11.7 bln yuan, recording 46 consecutive days with daily box office above 100 mln yuan; ticketed admissions and screenings both hit record highs.
+
+---
+
+### 2026-08-25 23:03:54  #其他 #焦點 #國際
+
+【加拿大對200億美元美國商品徵收至多50%關稅】加拿大計劃自9月8日起，對價值約200億美元的美國商品徵收15%‑50%的關稅，升級與美國政府的貿易爭端。徵稅物件包括鋼鐵、鋁、摩托車、家電及食品，金屬類商品關稅翻倍至50%。渥太華方面同時宣佈，將向受衝擊企業與勞工提供75億加元扶持資金。此次報復性徵稅，源於貿易談判破裂後美國對加拿大進口商品新開徵50%關稅。
+
+---
+
+### 2026-08-25 23:03:04  #國際
+
+伊朗第一副總統：我們在霍爾木茲海峽的控制權是行使我們對國家財富的合法主權權利。
+
+---
+
+### 2026-08-25 23:02:51  #MKT News
+
+Canada unveils a C$7.5 bln plan to support businesses and workers affected by tariffs.
+
+---
+
+### 2026-08-25 23:02:38  #其他
+
+英偉達：Jetson Orin Nano 2模組與開發套件預計2027年上半年推出。
+
+---
+
+### 2026-08-25 23:02:10  #國際
+
+加拿大政府表示將推出一項75億加元的一攬子支援計劃，幫扶受美國新關稅衝擊的企業與工人。
+
+---
+
+### 2026-08-25 23:02:04  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): Jetson Orin Nano 2 module and kit expected to launch in 1H 2027.
+
+---
+
+### 2026-08-25 23:01:15  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish #EURUSD
+
+Canada will impose tariffs of 15%–50% on roughly $20 billion of U.S. goods. Canada will raise tariffs on U.S. steel products from 25% to 50%.
+
+---
+
+### 2026-08-25 23:00:20  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #CSI300 #CNH
+
+By 23:00 local close, China’s domestic futures main contracts were broadly lower: low-sulfur fuel oil (LU) and fuel oil down >5%, synthetic rubber down >4%, ethylene glycol (EG) down ~4%, paraxylene down ~3%, PTA, coke and styrene (EB) down >2%; rapeseed meal up >1%.
+
+---
+
+### 2026-08-25 23:00:03  #市場
+
+【夜盤期貨收盤】低硫燃料油連續跌5.33%，燃料油連續跌5.01%，乙二醇連續跌3.93%，PTA連續跌2.53%，焦炭連續跌2.24%。
+
+---
+
+### 2026-08-25 23:00:03  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Indian Rupee Appreciates by 0.49% — Top currency gainers are Indian Rupee (0.49%) and Swedish Krona (0.26%). Biggest loser is Japanese Yen (-0.10%). Meanwhile, Euro, Dollar Index and British Pound were little changed.
+
+---
+
+### 2026-08-25 23:00:00  #焦點 #國際
+
+加拿大將美國鋼鐵產品關稅從25%翻倍上調至50%。
+
+---
+
+### 2026-08-25 22:59:41  #焦點 #國際
+
+加拿大對約200億美元美國產品加徵15%‑50%關稅。
+
+---
+
+### 2026-08-25 22:57:39  #國際
+
+【俄媒稱扎波羅熱核電站工作人員因烏無人機襲擊受傷】據俄羅斯媒體25日報道，烏克蘭無人機襲擊導致扎波羅熱核電站兩名工作人員受傷。今日俄羅斯通訊社援引扎波羅熱核電站新聞處訊息報道，烏方此次襲擊發生在核電站水工建築物附近，當時維修建設車間的員工正在作業。該訊息沒有說明襲擊發生的具體時間。報道說，烏方襲擊目標為負責保障核電站執行的工作人員。兩名傷者均已被送醫，其中一人傷勢嚴重。（新華社）
+
+---
+
+### 2026-08-25 22:55:35  #公司 #國際
+
+【瑋俊生物科技：訂立300兆瓦AI資料中心戰略合作諒解備忘錄】瑋俊生物科技公告，二零二六年八月二十五日，公司與PACDB、Baiyuzen、Ennova及Radiant訂立戰略合作諒解備忘錄，擬在馬來西亞彭亨州航空城開發綜合AI數字基建生態系統專案，整體規劃用地面積超1200英畝，第一期約253.74英畝、PACIT負載規模300兆瓦。公司將參與技術交付、資本運作及RWA代幣化等。
+
+---
+
+### 2026-08-25 22:55:09  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Ukraine strikes disrupt Russian oil flows; crude exports fall to 3.46 mln bpd】Ukraine's dual attacks on Russian refineries and Black Sea ports are disrupting domestic fuel supplies and preventing Moscow from redirecting crude into exports. Tanker shipping data show Russian seaborne crude exports averaged 3.46 mln barrels per day in the four weeks to Aug. 23. Exports had earlier risen after Ukrainian strikes curtailed domestic refining, leaving more crude available for export, but that increase is now fading as drone attacks on tankers have cut Black Sea loadings.
+
+---
+
+### 2026-08-25 22:54:32  #其他
+
+【內蒙古四地啟動突發地質災害四級應急響應】據氣象部門預報，受颱風和西南季風影響，8月25日至27日，內蒙古西部地區有中到大雨，局地暴雨到大暴雨。結合內蒙古自治區地質災害氣象風險預測，呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市的部分地區發生地質災害的風險高。根據《內蒙古自治區突發地質災害應急預案（2024 年版）》及有關規定，內蒙古自治區應急管理廳於8月25日針對呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市啟動自治區突發地質災害四級應急響應。（央視新聞）
+
+---
+
+### 2026-08-25 22:53:32  #公司 #市場
+
+【葛衛東家族上半年末持倉參考市值合計高達252.39億元】有統計資料顯示，葛衛東家族（包括葛衛東、王萍、葛貴蘭、葛貴蓮等）目前已經出現在7家上市公司2026年半年報前十大流通股東中，上半年末持倉參考市值合計高達252.39億元。（證券時報）
+
+---
+
+### 2026-08-25 22:53:29  #其他
+
+現代牧業：上半年營收65.9億元人民幣。
+
+---
+
+### 2026-08-25 22:53:00  #公司 #市場
+
+【葛衛東旗下期貨公司炒股大賺 淨利同比增長7188.06%】8月25日，混沌天成期貨股份有限公司披露2026年半年報，報告期內，公司實現營業收入6.18億元，同比增長616.54%；歸屬於掛牌公司股東的淨利潤為4.31億元，同比增長7188.06%。記者注意到，炒股大賺系混沌天成期貨上半年盈利同比大漲的主要因素。報告期內，公司“公允價值變動收益 ”為5.35億元，同比增長1474.32%，佔營業收入的比重高達86.59%。該項指標增長的原因在於：本期市場行情較好，母公司股票投資浮盈所致。混沌天成期貨成立於1995年，註冊資本9.86億元，於2017年3月在新三板掛牌。公司控股股東為混沌投資，實際控制人系資本大佬葛衛東。（證券時報）
+
+---
+
+### 2026-08-25 22:52:28  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Preliminary data show Nigeria's average exports of four main crude grades were estimated at 932,000 b/d in October, down from 952,000 b/d in September.
+
+---
+
+### 2026-08-25 22:51:33  #其他
+
+初步裝船計劃顯示，奈及利亞四種主要原油10月日均出口量估計為93.2萬桶，低於9月的95.2萬桶。
+
+---
+
+### 2026-08-25 22:51:17  #國際
+
+【特朗普：對伊朗在霍爾木茲海峽佈雷“零容忍”】美國總統特朗普25日在社交媒體上發文稱，霍爾木茲海峽國際水域內的所有水雷均已被清除或引爆，美方對伊朗佈設水雷行為實行“零容忍”政策，任何船隻若佈設新水雷，將立即被摧毀。（新華社）
+
+---
+
+### 2026-08-25 22:48:51  #MKT News
+
+【CBS reports CIA director Ratcliffe secretly visited Moscow for talks】CBS, citing people familiar with the matter, reported on Tuesday that CIA Director John Ratcliffe is in Moscow and has held talks with Russian officials. A US Air Force Boeing C-17A Globemaster III was seen at a Moscow airport and a US diplomatic convoy arrived, the report said. Neither the US nor Russian governments commented on Ratcliffe’s identity or the visit’s purpose. The trip comes as US-brokered Russia-Ukraine peace talks remain largely stalled, with major gaps on core issues.
+
+---
+
+### 2026-08-25 22:47:13  #MKT News #Market Themes #Chip Wars
+
+OpenAI plans to begin deploying Jalapeno chips in its compute infrastructure by end-2026.
+
+---
+
+### 2026-08-25 22:46:54  #其他
+
+OpenAI：計劃於2026年底前在計算基礎設施中部署Jalapeno晶片。
+
+---
+
+### 2026-08-25 22:46:28  #其他
+
+崑崙能源：上半年淨利潤33.1億元人民幣，上半年營收1,000.4億元人民幣。
+
+---
+
+### 2026-08-25 22:45:47  #國際
+
+美國國家颶風中心表示，颶風胡里奧強度略有增強，但預計今日稍晚將被颶風伊塞萊吸收。
+
+---
+
+### 2026-08-25 22:44:53  #MKT News #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+【VIX curve steepens ahead of US midterms as equity anxiety rises】Options traders are positioning for higher volatility around the November US midterms, even as Nvidia earnings and PBOC Chair Kevin Warsh’s Jackson Hole speech remain the week’s headline events. Traders monitoring VIX-linked futures say hedging demand for S&P 500 volatility has increased: September VIX futures trade near 17.4, October near 19.0 and November near 19.7. Little Harbor Advisors co‑PM Matthew Thompson said: "With the US election approaching, you're entering a window where the election will affect the VIX. You can already see that upward tilt in the VIX futures term structure." A CBOE Global Markets analyst study shows since 1945 realized volatility in midterm years exceeded the prior year 80% of the time, rising on average 3.5 volatility points; when the White House and Congress were controlled by the same party, realized volatility rose about 6 volatility points on average.
 
 ---
 
@@ -18466,949 +19120,5 @@ Sources said Pakistan's army chief also met Iran's president and held talks.
 ### 2026-08-25 02:15:02  #Trading Economics #Markets #Commodity #Importance 1
 
 Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-5.07%), Propane (-2.89%), Brent Crude Oil (-2.58%) and Crude Oil WTI (-2.54%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.95%) and Germany Natural Gas THE (3.61%).
-
----
-
-### 2026-08-25 02:14:02  #MKT News #Market Themes #The Trump Trade
-
-【Iran says Trump's economic pressure campaign is "psychological warfare"】Tasnim quoted a senior Iranian intelligence official saying Trump’s economic pressure campaign is largely a media-driven "psychological warfare" aimed at increasing domestic pressure. The official said the US has already used all available tools, including primary and secondary sanctions and maritime blockades, and characterized Trump’s remarks about striking infrastructure and "opening the Strait of Hormuz" as propaganda rather than imminent action. He added such moves are often timed before market open to influence energy prices and are subsequently followed by conciliatory statements or regional mediation; Iran sees the campaign’s concurrence with a Pakistani mediator visit as a recurring public-pressure pattern, not evidence of substantive new measures.
-
----
-
-### 2026-08-25 02:11:10  #MKT News #WTI #Impact mixed #Brent
-
-CENTCOM said as of Aug. 24 it had forced 71 commercial vessels to divert, disabled three vessels, and boarded and inspected two to ensure compliance. More than 40 vessels carrying humanitarian aid were permitted to proceed.
-
----
-
-### 2026-08-25 02:10:47  #MKT News #Market Themes #The Trump Trade
-
-【Trump says "will no longer allow Canada to take advantage of the U.S.", warns of tougher measures】U.S. President Trump, on Truth Social, criticized Ontario Premier Doug Ford and accused Canada of decades of relying on U.S. support, saying the U.S. "will always be bigger, richer, stronger" and that Canada could not survive without it. He accused Prime Minister Carney and Ford of prompting corporate outflows, said Canadian power, oil and gas rely on transport through the U.S., and warned Canada would face "more serious consequences" if it does not "play by the rules." Trump also claimed Canadian unemployment has risen to 10% and is still climbing, asserted businesses are moving to the U.S., and said "the days of hurting U.S. farmers and businesses are over."
-
----
-
-### 2026-08-25 02:09:24  #國際
-
-市場訊息：巴基斯坦陸軍參謀長同伊朗總統舉行會見並會談。
-
----
-
-### 2026-08-25 02:09:12  #市場
-
-現貨白銀日內跌1%，現報68.28美元/盎司。
-
----
-
-### 2026-08-25 02:08:58  #國際
-
-美國中央司令部：截至 8 月 24 日，美國中央司令部部隊已迫使 71 艘商船改道，扣押 3 艘船隻，並登船檢查 2 艘，確保各方遵守封鎖規定。已有 40 餘艘運送人道主義援助物資的船隻獲准通行。
-
----
-
-### 2026-08-25 02:06:45  #國際
-
-【特朗普：加拿大應該“服從”，否則將面臨更嚴重後果】美國總統特朗普：加拿大安大略省省長大放諸多 “虛張聲勢的狠話”。幾十年來，美國一直在為加拿大兜底，但這種局面到此為止！美國無論體量、財富還是實力，永遠遠勝於加拿大。離開了美國，加拿大將難以為繼 —— 加拿大的全部財源都仰仗美國。而如今加拿大領導層表現糟糕，主要是卡尼總理，再加上他的跟班福特，加拿大不能再繼續佔美國的便宜，而美國恰恰是加拿大賴以生存的關鍵。
-要記住，加拿大大量電力、石油與天然氣都要經由美國境內輸送。得有人讓這群荒唐政客乖乖就範，否則加拿大將要承受的後果會嚴重得多！加拿大當前失業率已達 10%，並且還在快速攀升。當地企業紛紛遷往美國，這一切都源於政策失效與執政能力低下。加拿大壓榨美國農民及其他企業的日子已經一去不復返！
-
----
-
-### 2026-08-25 02:05:01  #MKT News
-
-Trump called Ontario Premier Ford’s remarks "grandstanding", accused Canada of long-term dependence on the United States and warned Canada would face more serious consequences if it did not change its policies.
-
----
-
-### 2026-08-25 02:04:36  #MKT News
-
-【U.S. says strike on "drug-smuggling" vessel in eastern Pacific killed two】U.S. Southern Command said on the 24th that U.S. forces struck a vessel it described as a drug-smuggling boat in the eastern Pacific on the 23rd, killing two people aboard.
-
----
-
-### 2026-08-25 02:03:00  #MKT News
-
-TASNIM News quoted a security official saying the US economic sanctions plan is intended to increase psychological pressure on the Iranian people.
-
----
-
-### 2026-08-25 02:02:54  #其他
-
-【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。（新華社）
-
----
-
-### 2026-08-25 02:02:32  #國際
-
-伊朗塔斯尼姆通訊社援引安全官員的話稱，美國的經濟制裁計劃是一場旨在加大對伊朗民眾心理施壓的行動。
-
----
-
-### 2026-08-25 01:58:56  #其他
-
-市場訊息：貝萊德向同業資管機構推介 TCP 私募信貸資產。
-
----
-
-### 2026-08-25 01:56:10  #公司 #國際
-
-【加拿大總理講話要點總結】
-加拿大總理卡尼表示，他與美方談判代表的會談讓他看清，特朗普意圖以不公平的條件摧毀加拿大的支柱產業——鋼鐵、鋁和汽車。
-然而，他表示兩國之間仍有可能達成一項公平的協議——並重申，雙方已有現成的協議可以在此基礎上加以完善，即特朗普於2020年簽署的所謂美國墨西哥加拿大貿易協議（USMCA）。
-當被追問是否會利用加拿大對美國的能源和關鍵礦產供應作為籌碼時——這一策略已有許多人呼籲採用——卡尼過去曾對此持謹慎態度，但今天他並未斷然排除這一可能性。
-卡尼描述了在啟動他此前已承諾的對美關稅報復措施之前所面臨的複雜考量。由於美國經濟”遠比加拿大龐大得多”，他可能不得不採取更有針對性的反制路徑。
-他嚴厲抨擊了美方在談判桌上所持的不可接受的態度——即”把加拿大當作美國的子公司”，意圖隨著時間推移使加拿大處於不利地位。
-
----
-
-### 2026-08-25 01:54:41  #MKT News
-
-U.S. State Department said Secretary of State Rubio spoke on Monday local time with the German foreign minister about a shared commitment to freedom of navigation in the Strait of Hormuz.
-
----
-
-### 2026-08-25 01:53:58  #國際
-
-美國國務卿魯比奧同德國外交部長通電話，討論了俄羅斯和烏克蘭問題，還討論了霍爾木茲海峽的航行自由問題。
-
----
-
-### 2026-08-25 01:50:11  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
-
-Canada 10-Year Yield Falls as Trade Risks Rise — The yield on Canada’s 10-year government bond fell to about 3.67% after touching a more than two-year high of 3.76% on August 21st, as a re-escalation in the trade war with the US put Canada’s economic recovery at risk. US President Donald Trump said tariffs on all Canadian cars, trucks, automotive parts and steel would rise to 50% on January 1, 2027. This came after Prime Minister Carney vowed to retaliate against the initial series of US tariffs imposed after trade talks fell through. Washington imposed 50% tariffs on furniture, plastics, plywood and electrical equipment, adding to existing 25% tariffs on steel, lumber and autos. Risks to growth from higher tariffs have reduced the case for a BoC rate hike this year. Growth is now expected to contract just as the economy has started to recover. In July, Canada added 75,000 jobs, while inflation edged up to 2.9%, largely due to gasoline prices rather than broad-based price pressures.
-
----
-
-### 2026-08-25 01:49:11  #MKT News
-
-US Secretary of State Rubio spoke with South Korea's foreign minister on Monday about a range of US-South Korea alliance issues and said the two countries need to maintain close coordination.
-
----
-
-### 2026-08-25 01:44:56  #其他
-
-大眾汽車工會主席：對我們來說，關閉工廠是絕對不可能的。
-
----
-
-### 2026-08-25 01:44:40  #MKT News #VOW3.DE #Impact bullish
-
-Volkswagen union chair said closing plants is absolutely out of the question.
-
----
-
-### 2026-08-25 01:41:50  #宏觀 #市場 #觀點 #國際
-
-【高盛和富國等華爾街機構稱 財政部回購難以壓低長期美債收益率】高盛、富國等華爾街機構的利率策略師表示，美國財政部的國債回購對於扭轉長期美債收益率的飆升作用有限。儘管10年期和30年期美債收益率在財政部週三宣佈擴大回購計劃後一度下降，但上週後期又重新走高。與此同時，美國財政部長斯科特·貝森特表示自己手中有一個“龐大的政策工具箱”，CNBC報道稱他可能動用財政部的部分現金儲備來回購這些國債。這樣的市場走勢印證了華爾街的看法。分析師和投資者表示，除非華盛頓解決不斷膨脹的預算赤字以及通脹壓力等推動收益率走高的問題，否則此類措施難以奏效。包括George Cole和William Marshall在內的高盛策略師在8月21日的一份研究報告中寫道，“美國財政部擴大長期國債回購的決定，並沒有解決我們認為導致近期長端利率波動的主要根源。”他們表示，“我們認為，即使擴大回購規模，回購操作本身也不太可能實質性改變利率水平。”
-
----
-
-### 2026-08-25 01:39:20  #MKT News
-
-Sources said Italy will not participate in the "Voluntary Alliance" exercises.
-
----
-
-### 2026-08-25 01:38:24  #宏觀 #國際
-
-【美國財長：任何為伊朗洗錢的實體將被移出美元體系】美國財政部長貝森特24日在新聞釋出會上表示，任何為伊朗洗錢的實體將被移出美元體系。（新華社）
-
----
-
-### 2026-08-25 01:38:11  #MKT News #DXY #Impact bullish
-
-【U.S. Treasury Secretary Bessent: Any entity laundering money for Iran will be removed from the dollar system】U.S. Treasury Secretary Bessent said at a press conference on the 24th that any entity laundering money for Iran will be removed from the U.S. dollar system.
-
----
-
-### 2026-08-25 01:33:43  #MKT News #XAUUSD #Impact bullish #Bitcoin #Impact mixed #WTI
-
-【US Treasury's Bessent announces economic offensive to sever Iran's global ties】US Treasury Secretary Bessent announced an unprecedented economic offensive aimed at severing Iran’s links to the global economy and warned countries that continue commercial ties could face US sanctions. The campaign will focus on five Iranian “lifelines”: digital assets, technology, gold, aviation and shipping. President Trump is pressing foreign leaders to halt economic engagement; affected countries will be given a deadline and, if they do not comply, the Treasury said it will act unilaterally. Bessent gave no implementation timetable or measure details and reiterated earlier threats of “economic wrath,” including secondary sanctions on foreign financial institutions, saying no one is beyond US sanctions. Analysts note Iran has endured years of sanctions and it is uncertain whether additional measures will force Tehran to yield on Strait of Hormuz issues.
-
----
-
-### 2026-08-25 01:33:16  #其他
-
-市場訊息：義大利將不參與 “自願聯盟” 的演習。
-
----
-
-### 2026-08-25 01:31:18  #MKT News
-
-Musk said the design is substantially simpler than traditional racks, with lower cost, higher density and lighter weight.
-
----
-
-### 2026-08-25 01:29:50  #MKT News
-
-【Netanyahu says Iran 'had attempted to assassinate' his son】On Aug. 24 local time, Israeli Prime Minister Netanyahu told Channel 14 that Iran "had attempted to assassinate" his son. He provided no details and did not say whether he was referring to his elder son Yair or his younger son Avner.
-
----
-
-### 2026-08-25 01:29:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran parliament speaker Ghalibaf dismisses U.S. sanction threats as nonsense】On the evening of the 24th, Iran parliament speaker Ghalibaf said on social media that no one believes U.S. nonsense and that the U.S. no longer has the economic capacity to further restrict other countries' relationships; he said Iran's trade partners have signalled via media and messages that they do not take the statements seriously. On the afternoon of the 24th, U.S. Treasury Secretary Bessent held a press conference announcing multiple new economic sanctions on Iran to increase pressure.
-
----
-
-### 2026-08-25 01:28:54  #國際
-
-加拿大總理卡尼：絕不接受把加拿大視作美國附屬的態度。
-
----
-
-### 2026-08-25 01:28:30  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Musk said NVIDIA (NVDA.O)'s space-optimized Vera Rubin chip platform will reach meaningful scale by 2028, and the Vera Rubin NVL72 system is scheduled for orbital launch in Q4 next year.
-
----
-
-### 2026-08-25 01:28:18  #其他
-
-加拿大總理卡尼：實施等額對等報復存在難度，加拿大或採取 “更具針對性” 的反制關稅策略。
-
----
-
-### 2026-08-25 01:27:07  #國際
-
-【以色列總理稱伊朗企圖暗殺其子】當地時間8月24日晚，以色列總理內塔尼亞胡在接受第14頻道電視臺採訪時稱，伊朗“曾企圖暗殺”他的兒子。內塔尼亞胡並未在採訪中透露相關細節，也未提及涉及的是其長子亞伊爾還是次子阿夫納。（CCTV國際時訊）
-
----
-
-### 2026-08-25 01:26:18  #MKT News
-
-Prime Minister Carney said he will not accept the United States treating Canada as its subordinate.
-
----
-
-### 2026-08-25 01:26:06  #MKT News
-
-Canada's Prime Minister Carney said Canada will only return to the negotiating table if the US adopts the right approach toward Canadian industry.
-
----
-
-### 2026-08-25 01:25:46  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $380 million from two counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-25 01:25:20  #國際
-
-加拿大總理卡尼：只有美國對加拿大本國產業拿出正確態度，加拿大才會坐到談判桌前。
-
----
-
-### 2026-08-25 01:24:39  #國際
-
-【伊朗議會議長回應美製裁威脅：沒人相信美國胡言亂語】當地時間24日晚，伊朗議會議長卡利巴夫就美國的制裁威脅在社交媒體發文稱，美國知道沒人會相信他們的胡言亂語，美國在經濟上已無力進一步限制其他國家的關係。伊朗的貿易伙伴已透過媒體和發來的資訊明確表示，他們並不把這些言論當回事。（央視新聞）
-
----
-
-### 2026-08-25 01:24:31  #MKT News #Commodities #Energy
-
-ARAMCO said it signed agreements and memoranda of understanding with French firms with potential total value exceeding $3.7 billion.
-
----
-
-### 2026-08-25 01:23:58  #MKT News
-
-【U.S. vice president: trade talks with Canada ongoing】Vice President Vance said talks with Canada remain ongoing, accusing Canada of making a bundle of unreasonable 11th-hour demands. He said a deal should be possible but the U.S. must send the Canadian prime minister a clear message to stop taking advantage of Maine and the United States. Negotiations continue and the U.S. will press for fair trade.
-
----
-
-### 2026-08-25 01:23:41  #宏觀 #國際
-
-美國財政部：美國撤銷了對努斯拉陣線（也稱為沙姆解放陣線，HTS）的“特別指定全球恐怖分子”認定。
-
----
-
-### 2026-08-25 01:23:36  #其他
-
-馬斯克：SpaceX與英偉達合作，研發了針對太空環境最佳化的Vera Rubin NVL72系統，計劃於明年第四季度發射入軌，2028 年實現大規模部署。我們的設計相比傳統機架，結構大幅簡化、成本更低、整合度更高且重量更輕。
-
----
-
-### 2026-08-25 01:23:35  #MKT News
-
-U.S. Treasury said it revoked the Specially Designated Global Terrorist (SDGT) designation for Jabhat al-Nusra, also known as Hayat Tahrir al-Sham (HTS).
-
----
-
-### 2026-08-25 01:23:07  #MKT News
-
-U.S. Treasury Secretary BESSENT concluded remarks.
-
----
-
-### 2026-08-25 01:22:46  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Treasury Secretary Bessent said the United Arab Emirates has been a good partner and has borne the brunt of the impact from Iranian attacks.
-
----
-
-### 2026-08-25 01:22:31  #國際
-
-【美副總統：與加拿大的貿易談判仍在進行】當地時間24日，美國副總統萬斯在談及美國與加拿大的貿易談判時表示，“加拿大最後一刻提出了一堆不合理的要求”“我認為應該達成協議，但我們需要向加拿大總理發出一個響亮而明確的資訊：停止佔緬因州人民的便宜。停止佔美國的便宜。一切都結束了。我們希望貿易政策公平公正。”萬斯稱，談判仍在進行，“美國將力爭在貿易中實現公平”。（央視新聞）
-
----
-
-### 2026-08-25 01:21:57  #MKT News
-
-Canada's prime minister Carney said retaliatory tariffs will be highly targeted.
-
----
-
-### 2026-08-25 01:21:40  #MKT News
-
-U.S. Treasury Secretary Bessent said issuing a warning and recalibrating would be appropriate.
-
----
-
-### 2026-08-25 01:21:14  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-Treasury Secretary Bessent said secondary sanctions should not be underestimated and are a very powerful tool.
-
----
-
-### 2026-08-25 01:20:55  #MKT News #Important #US10Y
-
-U.S. Treasury Secretary BESSENT said the Treasury has not yet purchased any bonds and that its next operation is scheduled for Sept. 9.
-
----
-
-### 2026-08-25 01:20:36  #國際
-
-提醒：美國財長貝森特結束講話。
-
----
-
-### 2026-08-25 01:20:12  #MKT News
-
-US Treasury said the State Department on Monday local time removed Syria's designation as a "state sponsor of terrorism".
-
----
-
-### 2026-08-25 01:20:11  #宏觀 #國際
-
-美國財政部：美國國務院當地時間週一取消了對敘利亞“支援恐怖主義國家”的認定。
-
----
-
-### 2026-08-25 01:20:03  #國際
-
-美國財長貝森特：今日本次會議結束後，你們將見證一波制裁來襲。
-
----
-
-### 2026-08-25 01:19:44  #國際
-
-美國財長貝森特：我們認為，發出警示訊號並統一各方預期是恰當的舉措。
-
----
-
-### 2026-08-25 01:19:39  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-【US Treasury Secretary announces multiple economic sanctions on Iran】US Treasury Secretary Bessent held a press conference on the afternoon of the 24th to announce multiple economic sanctions targeting Iran aimed at increasing pressure.
-
----
-
-### 2026-08-25 01:19:25  #其他
-
-沙特阿美稱已與多家法國企業簽署諒解備忘錄（MOU），潛在總價值超 37 億美元。
-
----
-
-### 2026-08-25 01:19:11  #MKT News
-
-U.S. Treasury Secretary Bessent said a major financial institution will be sanctioned by the end of this week over Iran-related activity.
-
----
-
-### 2026-08-25 01:19:07  #國際
-
-美國財長貝森特： 我們尚未購入任何債券，下一輪操作定於 9 月 9 日。
-
----
-
-### 2026-08-25 01:18:44  #MKT News
-
-US Treasury Secretary Bessent said President Trump hopes Canada will sit down for good-faith negotiations.
-
----
-
-### 2026-08-25 01:18:37  #宏觀 #國際
-
-【美財長稱特朗普正就制裁伊朗致電各國領導人】當地時間8月24日，美國財政部長貝森特召開新聞釋出會。貝森特表示，美國總統特朗普正致電各國領導人，明確要求其停止與伊朗的往來。（央視新聞）
-
----
-
-### 2026-08-25 01:18:19  #國際
-
-美國財長貝森特：特朗普希望加拿大能夠坐到談判桌前，秉持誠意展開談判。
-
----
-
-### 2026-08-25 01:17:53  #國際
-
-加拿大總理卡尼：加方在能源領域對特朗普政府擁有報復選項。
-
----
-
-### 2026-08-25 01:17:53  #MKT News
-
-Treasury Secretary Bessent said the old policy of offering benefits to Iran in exchange for its restraint no longer works.
-
----
-
-### 2026-08-25 01:17:40  #國際
-
-美國財長貝森特：本週末前，將有一家大型金融機構因涉伊朗問題遭到制裁。
-
----
-
-### 2026-08-25 01:17:21  #其他
-
-派拉蒙 “準備繼續秉持誠意開展磋商”，與加州方面進行溝通。
-
----
-
-### 2026-08-25 01:16:52  #宏觀 #焦點 #國際
-
-【美國財長公佈多項針對伊朗的經濟制裁措施 】美國財政部長貝森特24日下午召開新聞釋出會，公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。（新華社）
-
----
-
-### 2026-08-25 01:16:34  #央行 #國際
-
-週一（8月24日），美聯儲隔夜逆回購協議（RRP）使用規模為3.80億美元（交易對手2家）。
-
----
-
-### 2026-08-25 01:16:20  #國際
-
-美國財長貝森特：阿聯酋一直是很好的合作伙伴，承受了伊朗襲擊帶來的主要衝擊。
-
----
-
-### 2026-08-25 01:16:01  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Treasury Secretary Bessent said he expects other countries will take similar actions to isolate Iran.
-
----
-
-### 2026-08-25 01:15:56  #國際
-
-美國財長貝森特：期望其他國家採取同類行動孤立伊朗。
-
----
-
-### 2026-08-25 01:15:49  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-BESSENT said the US Treasury will continue its regular auction schedule.
-
----
-
-### 2026-08-25 01:15:08  #MKT News #Macro & Rates #US Economy
-
-U.S. Treasury Secretary Bessent said the Treasury is communicating with every country to convey its expectations.
-
----
-
-### 2026-08-25 01:15:03  #國際
-
-美國財長貝森特：在伊朗政權被徹底孤立前，美國的努力不會停止。
-
----
-
-### 2026-08-25 01:14:50  #國際
-
-美國財長貝森特：所有國家若支援伊朗，都應當做好面臨美國製裁的準備。
-
----
-
-### 2026-08-25 01:14:12  #宏觀 #市場 #國際
-
-美國財長貝森特： 我們將繼續執行財政部的常規國債拍賣計劃。
-
----
-
-### 2026-08-25 01:14:07  #MKT News
-
-U.S. Treasury Secretary BESSENT said he would not set a specific timetable to sever ties with Iran and warned the U.S. does not have unlimited patience.
-
----
-
-### 2026-08-25 01:13:56  #國際
-
-美國財長貝森特：我們正與各國統一立場，告知各方我們的預期。
-
----
-
-### 2026-08-25 01:13:36  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. Treasury Secretary Bessent said world leaders must make decisions; action on Iran will begin today.
-
----
-
-### 2026-08-25 01:13:32  #國際
-
-美國財長貝森特：不會設定切斷與伊朗往來的具體時限，但我們的耐心並非無限。
-
----
-
-### 2026-08-25 01:12:52  #國際
-
-美國財長貝森特：世界各國領導人該做出抉擇了，針對伊朗的行動今日正式啟動。
-
----
-
-### 2026-08-25 01:12:49  #MKT News #DXY #Impact bullish
-
-U.S. Treasury Secretary Bessent said entities that facilitate money laundering for Iran will be removed from the U.S. dollar system.
-
----
-
-### 2026-08-25 01:12:17  #MKT News
-
-U.S. Treasury Secretary Bessent said no one can escape U.S. sanctions.
-
----
-
-### 2026-08-25 01:12:06  #國際
-
-美國財長貝森特：任何人都無法逃脫美國製裁的打擊範圍。
-
----
-
-### 2026-08-25 01:12:03  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #Copper
-
-Carney said on Trump's latest tariff threat that U.S. retaliation in some form would not be surprising.
-
----
-
-### 2026-08-25 01:11:51  #國際
-
-加拿大總理卡尼：關注美國總統特朗普的50%汽車關稅威脅。加拿大與美國之間有望達成一份公平協議。
-
----
-
-### 2026-08-25 01:11:30  #國際
-
-【以軍襲擊加沙地帶多地 造成至少7人死亡】自當地時間24日凌晨以來，以色列國防軍對加沙地帶多處區域發動空襲，已造成至少7名巴勒斯坦人死亡。死者中包括一名女童，另有多人受傷。（央視新聞）
-
----
-
-### 2026-08-25 01:11:30  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish
-
-Canada's Prime Minister Carney said he is monitoring President Trump's threat to impose a 50% tariff on autos.
-
----
-
-### 2026-08-25 01:11:22  #MKT News
-
-Canadian prime minister Carney said US president Trump wants to destroy Canada's key industries under his negotiating terms.
-
----
-
-### 2026-08-25 01:10:29  #焦點 #國際
-
-美國財長貝森特：美國將剝奪洗錢伊朗資金相關主體使用美元的許可權。
-
----
-
-### 2026-08-25 01:10:25  #MKT News #WTI #Impact bullish #Brent #DXY
-
-U.S. Treasury Secretary Bessent said any economic engagement with Iran would expose those involved to comprehensive U.S. sanctions using the full power of the United States.
-
----
-
-### 2026-08-25 01:10:16  #MKT News #WTI #Impact bullish #Brent
-
-U.S. Treasury Secretary Bessent said Washington will launch an "economic isolation operation" to cut off all remaining options for the Iranian regime.
-
----
-
-### 2026-08-25 01:10:08  #國際
-
-加拿大總理卡尼就特朗普最新關稅威脅表態：美國採取某種形式的報復並不出人意料。
-
----
-
-### 2026-08-25 01:09:47  #國際
-
-美國財長貝森特：發起 “經濟棄民行動”，徹底封鎖伊朗政權可動用的其餘所有選項。（也被美方稱作經濟 D 日 / 經濟諾曼底登陸）
-
----
-
-### 2026-08-25 01:09:09  #MKT News #DXY #Impact bullish #WTI #Brent
-
-US Treasury Secretary Bessent said countries must, within a specified timeframe, close Treasury-designated activities, including Iranian overseas bank branches.
-
----
-
-### 2026-08-25 01:08:43  #MKT News #DXY #S&P500 #XAUUSD
-
-Treasury Secretary Bessent said each country has a clear timetable to shut down activities the Treasury has identified; if they do not act, the U.S. will unilaterally use fiscal powers to do so.
-
----
-
-### 2026-08-25 01:08:14  #MKT News
-
-US Treasury Secretary Bessent said Washington will enforce sanctions on Iran under a "zero leakage" policy.
-
----
-
-### 2026-08-25 01:08:11  #宏觀 #國際
-
-美國財長貝森特：每個國家都有明確時限，終止我方所認定的相關活動。若有關國家不採取行動，我們將動用財政部許可權單方面採取措施。
-
----
-
-### 2026-08-25 01:07:58  #MKT News
-
-U.S. Treasury Secretary Bessent said this lays the groundwork for President Trump's goal of preventing Iran from acquiring nuclear weapons.
-
----
-
-### 2026-08-25 01:07:56  #國際
-
-美國財長貝森特：已為達成總統阻止伊朗獲取核武器的目標做好鋪墊。
-
----
-
-### 2026-08-25 01:07:39  #國際
-
-美國財長貝森特：美國“期望”其他國家採取行動。
-
----
-
-### 2026-08-25 01:07:04  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-U.S. Treasury Secretary Bessent said President Trump is calling world leaders to urge them to sever economic ties with Iran.
-
----
-
-### 2026-08-25 01:06:53  #國際
-
-美國財長貝森特：特朗普正致電多個特定國家，要求其停止與伊朗開展往來。
-
----
-
-### 2026-08-25 01:06:24  #國際
-
-美國財長貝森特：美國將對伊朗制裁執行 “零漏洞” 原則。
-
----
-
-### 2026-08-25 01:05:54  #MKT News #Important #Macro & Rates #US Economy #WTI #Impact bullish #DXY
-
-US Treasury Secretary Bessent said the US is mounting an economic offensive targeting Iran's global financial links.
-
----
-
-### 2026-08-25 01:05:49  #國際
-
-美國財長貝森特：伊朗有兩條路，要麼恢復正常，要麼徹底被孤立。美國將切斷伊朗伊斯蘭革命衛隊的一切潛在收入來源。
-
----
-
-### 2026-08-25 01:05:05  #宏觀 #國際
-
-美國財政部：財政部撤銷此前允許向伊朗開展部分匯款業務的通用許可。
-
----
-
-### 2026-08-25 01:05:04  #MKT News #Important #XAUUSD #Impact bullish #DXY
-
-US Treasury said it will impose potential secondary sanctions targeting five sectors—digital assets, technology, gold, aviation and shipping—and has suspended a general license authorizing certain remittance payments to Iran.
-
----
-
-### 2026-08-25 01:04:24  #國際
-
-美國財長貝森特：在特朗普執政下，我們將消除伊朗帶來的威脅。
-
----
-
-### 2026-08-25 01:04:07  #宏觀 #市場 #焦點 #國際
-
-美國財政部：財政部將五大行業列為次級制裁潛在目標，分別為數字資產、科技、黃金、航空以及航運。
-
----
-
-### 2026-08-25 01:03:55  #宏觀 #焦點 #國際
-
-美國財政部：美國財政部對近60個與伊朗相關的實體、個人和船隻實施制裁，涉及核、導彈、網路和石油網路。
-
----
-
-### 2026-08-25 01:03:50  #宏觀 #焦點 #國際
-
-美國財政部長貝森特宣佈對伊朗實施進一步制裁。
-
----
-
-### 2026-08-25 01:03:43  #MKT News #Important #WTI #Impact bullish #Brent
-
-U.S. Treasury sanctioned nearly 60 Iran-linked entities, individuals and vessels for roles in nuclear, missile, cyber and oil networks.
-
----
-
-### 2026-08-25 01:01:30  #國際
-
-市場訊息：英國與烏克蘭簽署人工智慧防務夥伴關係協議，合作聚焦戰場技術。
-
----
-
-### 2026-08-25 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.67%，滬銅收漲0.37%，滬鋁收漲0.13%，滬鋅收漲0.19%，滬鉛收跌0.43%，滬鎳收跌0.53%，滬錫收跌0.17%。氧化鋁夜盤收跌0.22%，鋁合金收漲0.76%。不鏽鋼夜盤收跌0.35%。
-
----
-
-### 2026-08-25 00:53:57  #國際
-
-伊朗議會媒體中心：這位謊話連篇的美國總統，據稱其虛假言論多達 32000 條，如今又企圖藉助編造的新聞以及卑劣的媒體手段，掩蓋軍事失利，修復自己在美國民眾與世界公眾面前的形象。
-特朗普刻意在個人社交賬號釋出假借伊朗議會議長名義的虛假資訊，意在繼續大肆撒謊，同時逃避由他一手製造的危機。 此前，特朗普就曾憑藉同樣站不住腳的虛假新聞，配合內塔尼亞胡的算計，將美國外交政策拖入危機，讓本國民眾付出沉重代價，近期的燃油危機、前所未有的通脹皆屬此列。
-伊朗議會議長卡利巴夫影片已對外公開，其講話真實內容和虛假新聞媒體編造的標題存在明顯出入，這也成為美國總統虛假資訊宣傳行動的又一樁醜聞。
-
----
-
-### 2026-08-25 00:53:25  #MKT News
-
-Iranian parliament media office said Trump must understand social-media posts will not change regional realities or the emerging regional order, and that he wrongly attributed the remarks to parliament speaker Ghalibaf.
-
----
-
-### 2026-08-25 00:51:28  #其他
-
-LME期銅收漲58美元，報14273美元/噸。LME期鋁收跌9美元，報3228美元/噸。LME期鋅收漲12美元，報3835美元/噸。LME期鉛收漲13美元，報1911美元/噸。LME期鎳收跌32美元，報17026美元/噸。LME期錫收跌143美元，報55748美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-08-25 00:51:24  #MKT News
-
-Iran parliament speaker Ghalibaf said the US knows no one is buying its bluster and that the US economy no longer allows it to further restrict ties with other countries. He said Iran's trade partners, both via media and direct communications, have made clear they will ignore such statements.
-
----
-
-### 2026-08-25 00:50:02  #國際
-
-伊朗議會媒體中心：特朗普必須明白，社交媒體發帖無法改變該地區的現實，也無法撼動正在形成的地區新秩序。
-
----
-
-### 2026-08-25 00:49:52  #MKT News
-
-【Iranian media release earlier video of Mojtaba Khamenei】On Aug. 24, Iranian outlets including Fars news agency released a video of Mojtaba Khamenei recorded before he assumed the role of Supreme Leader. The clip was said to be 'first public' footage and was filmed prior to the outbreak of the war; time and location were not specified. It appears to show Mojtaba presiding over a religious study session.
-
----
-
-### 2026-08-25 00:49:32  #國際
-
-市場訊息：以色列總理內塔尼亞胡稱，伊朗曾企圖暗殺我的一名家人。
-
----
-
-### 2026-08-25 00:48:37  #國際
-
-伊朗議會議長卡利巴夫： 美國人心裡清楚，沒人會相信他們的虛張聲勢。美國當前的經濟狀況，使其無力進一步限制與其他國家的往來。伊朗的各貿易伙伴無論是透過媒體表態，還是向我方傳遞的訊息，都明確表示根本不會理會美國的這些言論。
-
----
-
-### 2026-08-25 00:48:08  #MKT News
-
-French presidential office says Saudi Arabia will invest €6 bln to build a theme park near Paris, expected to directly create 22,000 jobs.
-
----
-
-### 2026-08-25 00:47:20  #國際
-
-【伊朗媒體釋出穆傑塔巴早前影片】8月24日，伊朗法爾斯通訊社等媒體釋出一段穆傑塔巴·哈梅內伊出任最高領袖前的影片。這段影片據稱為“首次公開”的影像，拍攝於戰爭爆發前，但具體的時間地點不詳。拍攝內容據信為穆傑塔巴正主持一場宗教研學活動。（CCTV國際時訊）
-
----
-
-### 2026-08-25 00:47:01  #國際
-
-加拿大安大略省省長：是時候讓美國承受經濟痛苦了，需要限制向美國的能源、鉀肥和電力運輸。我們應該利用一切可以利用的影響力，我們並不支援美加正在逐步達成的初步協議。
-
----
-
-### 2026-08-25 00:46:59  #MKT News
-
-Ontario Premier said the province will use all available leverage and does not support the preliminary agreement the US and Canada are progressively reaching.
-
----
-
-### 2026-08-25 00:46:26  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Ontario's premier said it is time to make the United States suffer economic pain and called for restrictions on shipments of energy, potash and electricity to the U.S.
-
----
-
-### 2026-08-25 00:44:16  #MKT News #DXY #Impact bullish #XAUUSD #Impact bearish #Copper
-
-US Vice President Vance said Canada has been the worst country on trade policy, accusing it of imposing absurd tariffs on states including Maine and warning the US will retaliate against unfair trade measures.
-
----
-
-### 2026-08-25 00:43:24  #國際
-
-法國總統馬克龍與沙特王儲達成共識，將在巴黎周邊投資 60 億歐元建設漫畫主題公園專案。
-
----
-
-### 2026-08-25 00:42:15  #MKT News
-
-U.S. Vice President Vance said Canada made unreasonable last‑minute demands and that he had thought an agreement was already reached.
-
----
-
-### 2026-08-25 00:41:15  #國際
-
-美國副總統萬斯：坦白說，我以為我們達成協議了。
-
----
-
-### 2026-08-25 00:40:58  #國際
-
-美國副總統萬斯：美國將反擊不公平貿易，加拿大在最後一刻提出不合理的要求。
-
----
-
-### 2026-08-25 00:40:14  #MKT News
-
-U.S. Vice President Vance said negotiations with Canada remain ongoing.
-
----
-
-### 2026-08-25 00:40:11  #國際
-
-美國副總統萬斯：與加拿大的談判仍在進行中。
-
----
-
-### 2026-08-25 00:39:28  #其他
-
-聯合國發言人：南蘇丹週一發生伏擊事件，兩名聯合國維和人員遇難，另有七人受傷。
-
----
-
-### 2026-08-25 00:38:03  #MKT News
-
-France and Saudi Arabia signed joint defense and tourism agreements.
-
----
-
-### 2026-08-25 00:35:41  #MKT News
-
-MACRON and visiting Saudi Crown Prince Mohammed bin Salman attended a signing ceremony in Paris.
-
----
-
-### 2026-08-25 00:33:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Futures Hold Steady — US gasoline futures traded near $3.25 per gallon, tracking weaker crude prices as markets awaited the announcement of US sanctions on Iran. Treasury Secretary Scott Bessent is set to outline the latest measures, while the US president has threatened sanctions against Iran’s trading partners. Despite heightened tensions, shipments through the waterway have remained robust, while demand concerns have also weighed on prices. China’s top refiner Sinopec reported that gasoline consumption fell 8% in the first half of 2026, amid increased use of electric vehicles and elevated prices amid lower refined-fuel availability. Meanwhile, tighter Canadian crude supplies could further lift refined-product prices, particularly in the US Midwest, where refiners source roughly 70% of their crude from Canada. Fuel supply concerns have also intensified after Ukrainian strikes on Russian refineries disrupted production and led to shortages in several regions.
-
----
-
-### 2026-08-25 00:29:00  #MKT News #XAUUSD #Impact bullish #WTI
-
-Tasnim News Agency, citing local Syrian sources, reported Israeli armored forces again entered Syrian territory from the southern outskirts of Quneitra.
-
----
-
-### 2026-08-25 00:27:34  #MKT News #DXY #Impact bullish #XAUUSD
-
-Canada's prime minister Carney said Canada will not agree to a trade deal with the U.S. 'at all costs'.
-
----
-
-### 2026-08-25 00:27:25  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Close Flat — European stocks closed with small changes on Monday, holding the losses from the previous week amid an adverse macroeconomic backdrop for major European sectors. The Euro STOXX 50 fell 0.1% to 6,455 and the STOXX Europe 600 closed flat at 654. Sovereign yields on longer maturity securities remained near multi-decade highs across major economies in the Eurozone, tracking those in the US to reflect concerns of higher deficit spending by Washington and concerns that the Federal Reserve may be complacent to high inflation. In the meantime, AI infrastructure stocks were lower ahead of Nvidia earnings after Wednesday's close, with Infineon and Siemens Energy dropping 3%, while ASML lost 1%. In turn, banks were mostly higher to trim losses from the earlier week.
-
----
-
-### 2026-08-25 00:27:04  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-Israeli Prime Minister Netanyahu said Iran attempted to assassinate one of his family members.
-
----
-
-### 2026-08-25 00:26:55  #MKT News
-
-Iran's foreign ministry said Foreign Minister Araqchi attended a meeting between Pakistan Army chief Asim Munir and Iranian parliament speaker Mohammad Bagher Ghalibaf.
-
----
-
-### 2026-08-25 00:23:30  #國際
-
-俄羅斯聲稱其導彈擊中了烏克蘭敖德薩港的一艘貨船。
-
----
-
-### 2026-08-25 00:21:56  #MKT News #DXY #Impact bullish #XAUUSD #Brent
-
-Interfax reported the Russian Defence Ministry said Russian forces struck a cargo ship at the port of Odesa in the Black Sea.
-
----
-
-### 2026-08-25 00:20:51  #市場 #國際
-
-週一（8月24日）歐市尾盤，ICE英國天然氣期貨漲3.58%，TTF基準荷蘭天然氣期貨漲3.23%，ICE歐盟碳排放交易許可（期貨價格）漲1.71%。
-
----
-
-### 2026-08-25 00:19:13  #國際
-
-加拿大總理卡尼：加拿大與歐盟將探討深化經濟與安全領域夥伴關係。
-
----
-
-### 2026-08-25 00:18:09  #MKT News
-
-Canadian Prime Minister Carney will launch intensive talks with the EU in autumn to build a "stronger, deeper economic and security partnership".
-
----
-
-### 2026-08-25 00:17:42  #其他
-
-加拿大總理卡尼：加拿大現在是全球連線性最強的經濟體。已準備好迎接未來的挑戰。
-
----
-
-### 2026-08-25 00:17:42  #MKT News
-
-Canada's Prime Minister Carney said he is ready to meet future challenges.
-
----
-
-### 2026-08-25 00:16:46  #MKT News
-
-Carney says Canada is now the world’s most connected economy.
-
----
-
-### 2026-08-25 00:16:27  #公司 #國際
-
-【佩洛西披露首次交易 Bloom Energy 股票，AI 電力熱潮下加倉英特爾】前美國眾議院議長南希・佩洛西申報買入 15000 股布魯姆能源股票以及 200 份布魯姆能源看漲期權，為其首次公開交易該公司股票。她同時購入 10000 股英特爾股票以及 50 份英特爾看漲期權，進一步加碼此前 5 月 29 日申報買入的 200 份英特爾行權價 50 美元、2027 年 3 月到期的看漲期權。 根據國會披露的區間，上述布魯姆能源與英特爾交易總金額介於 300 萬至 1200 萬美元之間；國會申報只披露金額區間，不會公開確切投資額。
-
----
-
-### 2026-08-25 00:15:46  #MKT News
-
-Israeli media: the Israeli military said the air force recently struck a "terrorist infrastructure" site in the central Gaza Strip.
-
----
-
-### 2026-08-25 00:14:57  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-【Bessent to deter bond shorts; Treasury may buy back debt, reshape issuance】Fox Business, citing Wall Street executives, says U.S. Treasury Secretary Bessent is prepared to do whatever it takes to deter traders shorting long-dated Treasuries and trying to push the 10‑year yield to 5%. Potential near-term measures include Treasury buybacks, increased short-term issuance and possible cancellation of 20‑year note auctions. Sources describe the steps as temporary, aimed at preventing further yield spikes and averting high rates ahead of the midterms. Wall Street sources caution the moves do not address fundamentals: U.S. debt is about $40 trillion and rising capital competition from AI infrastructure spending. They expect no fiscal tightening in the remainder of the administration; the stated plan is to grow out of the debt via growth and higher tax receipts, while acknowledging that real solutions—tax hikes or fiscal consolidation—would risk tipping the economy into recession.
-
----
-
-### 2026-08-25 00:14:31  #MKT News
-
-【Pakistan army chief meets Iran parliament speaker in Tehran; Iran says US breached Islamabad MoU】On 24 (local time) Pakistan Army chief Munir met Iran parliament speaker Ghalibaf in Tehran. Ghalibaf said the US has repeatedly failed to honor the Islamabad MoU, arguing those breaches have impeded regional stability and urging the US to fulfill its MoU commitments; he said Iran is working to implement the agreement's terms. Munir said Pakistan will continue efforts to restore regional stability.
 
 ---
