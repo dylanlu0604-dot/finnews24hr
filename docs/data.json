@@ -1,7 +1,200 @@
 {
-  "updated": "2026-08-26 21:36:47",
-  "count": 16787,
+  "updated": "2026-08-26 21:41:20",
+  "count": 16796,
   "items": [
+    {
+      "id": "mkt:01a03e4c-b268-7aab-9131-1b0acd7b54ed",
+      "time": "2026-08-26 21:40:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) turned lower after earlier gains of more than 3%."
+    },
+    {
+      "id": "te:markets:578300",
+      "time": "2026-08-26 21:40:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.05% Higher — The Dow Jones Index is gaining 24 points or 0.05 percent on Wednesday. Leading the gains are UnitedHealth (1.97%), Travelers Companies (1.05%) and Cisco Systems (1.01%). Top losers are Alphabet (-1.94%), Merck (-1.62%) and Goldman Sachs (-1.15%)."
+    },
+    {
+      "id": "5060485",
+      "time": "2026-08-26 21:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部對浙江啟動地質災害防禦Ⅳ級響應】受第18號颱風“沙德爾”影響，未來三天，浙江部分地區有強降雨過程。經自然資源部地質災害技術指導中心研判，浙江東部和南部部分地區發生地質災害的風險較高。自然資源部決定於8月26日20時對浙江啟動地質災害防禦Ⅳ級響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03e4c-0e53-7aab-9131-112c43a419df",
+      "time": "2026-08-26 21:39:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude erased intraday losses to break above $86/bbl, up 0.17% on the day. WTI rose 0.08% to $80.78/bbl."
+    },
+    {
+      "id": "te:markets:578299",
+      "time": "2026-08-26 21:39:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Inch Down — US stocks were mostly lower on Wednesday amid losses from heavyweight chip producers ahead of earnings results from Nvidia. The S&P 500 and the Dow inched below the flatline, while the Nasdaq 100 fell 0.5%. Nvidia shares wavered ahead of their earnings release after the bell, set to signal the level of capital expenditures by AI hyperscalers, which have supported the US stock market in recent years. Microsoft, Tesla, Alphabet, and Amazon traded lower. Meanwhile, Intuit sank 10% as its outlook failed to impress the higher ranges of expectations. In turn, Meta jumped 4% as it agreed to a $16.7 billion settlement against US states regarding social media strategy for teens. Outside tech, traditional economic sectors were pressured by lingering concerns of adverse macroeconomic conditions. Robust consumer expenditure and income, in addition to higher than expected PCE price indices, maintained the case for restrictive policy by the Federal Reserve."
+    },
+    {
+      "id": "5060484",
+      "time": "2026-08-26 21:39:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "META股價轉跌。"
+    },
+    {
+      "id": "5060483",
+      "time": "2026-08-26 21:38:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "SNAP股價下跌超過3%。"
+    },
+    {
+      "id": "5060482",
+      "time": "2026-08-26 21:38:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "加利福尼亞州總檢察長：元平臺將出臺措施，從其平臺中識別並刪除13歲以下兒童賬號。"
+    },
+    {
+      "id": "5060481",
+      "time": "2026-08-26 21:38:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹擊敗宇樹】8月26日下午，第二屆世界人形機器人運動會自由搏擊賽項產生了第一枚金牌。在40公斤級決賽中，華北電力大學參賽隊伍遙控操作宇樹科技生產的G1機器人戰勝了宇樹科技公司自己的賽隊，奪得冠軍。（北京日報）"
+    },
+    {
+      "id": "5060480",
+      "time": "2026-08-26 21:38:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "摩凡陀集團股價上漲1.5%，此前公佈第二季獲利上升。"
+    },
+    {
+      "id": "5060479",
+      "time": "2026-08-26 21:38:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非預計 2026 年小麥收成較 2025 年減少 7.5%。"
+    },
+    {
+      "id": "mkt:01a03e4a-d8d6-7aab-9131-092758f0d2a5",
+      "time": "2026-08-26 21:38:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): guidance range provided in July earnings remains unchanged."
+    },
+    {
+      "id": "5060478",
+      "time": "2026-08-26 21:38:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大普微：簽訂5.15億美元企業級PCIe SSD的銷售訂單】大普微(301666)8月26日公告，公司與客戶A於2026年8月25日簽訂了關於公司主營業務產品企業級PCIe SSD的銷售訂單，訂單含稅總金額5.15億美元（摺合人民幣約34.91億元），佔公司2025年經審計主營業務收入的152.70%。"
+    },
+    {
+      "id": "mkt:01a03e4a-a586-7aab-9131-0255ba578826",
+      "time": "2026-08-26 21:37:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "00100.HK",
+        "Impact bullish"
+      ],
+      "text": "【MiniMax expects M3Pro parameter scale to reach about 3T】MiniMax (00100.HK) said on its Aug. 26 interim-results call that R&D on MiniMax M3.1 and M3Pro will continue; M3Pro’s parameter scale is expected to rise to about 3 trillion parameters. The company plans to expand reinforcement learning and long-range task training to improve model generalization and raise the model’s intelligence ceiling. Founder and CEO Yan Junjie said MiniMax will push coordinated improvements in model intelligence, inference efficiency and infrastructure, and accelerate R&D and release cycles for the M and H series."
+    },
+    {
+      "id": "5060477",
+      "time": "2026-08-26 21:37:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：擬議和解協議要求Meta承諾維持、審查並改進現有的青少年內容安全措施。"
+    },
+    {
+      "id": "mkt:01a03e4a-3730-7aab-9130-ff61a1e8ba68",
+      "time": "2026-08-26 21:37:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "New York state attorney general says the state will receive up to $1.15 bln in settlement payments from Meta."
+    },
+    {
+      "id": "5060476",
+      "time": "2026-08-26 21:37:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌2%，現報1018.00元。"
+    },
+    {
+      "id": "mkt:01a03e49-b2d0-7aab-9130-f23009cb8562",
+      "time": "2026-08-26 21:36:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wheat futures climbed to a three-year high after attacks in Ukraine and Russia."
+    },
+    {
+      "id": "5060475",
+      "time": "2026-08-26 21:36:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "波士頓科學的股價下跌2.7%，此前該公司披露一起網路安全事件已導致其運營遭遇全球範圍中斷。"
+    },
+    {
+      "id": "5060474",
+      "time": "2026-08-26 21:36:18",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【甲骨文漲超3%，花旗納入催化觀察】甲骨文漲超3%，現報149.82美元，總市值突破4300億美元關口至4315.52億美元。花旗將甲骨文納入90天催化劑觀察名單，並增設90天催化觀察，看好甲骨文估值修復。"
+    },
     {
       "id": "mkt:01a03e48-ec2b-7aab-9130-ecfd8ac00355",
       "time": "2026-08-26 21:36:01",
@@ -151482,111 +151675,6 @@
         "Importance 1"
       ],
       "text": "Shell Stock Price Hits 18-week High — Shell shares increased to 40.05 EUR, the highest since April 2026. Over the past 4 weeks, Shell plc gained 5.49%, and in the last 12 months, it increased 29.48%."
-    },
-    {
-      "id": "5048206",
-      "time": "2026-08-19 21:40:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，金山雲漲10.44%，再鼎醫藥漲6.59%，金生遊樂漲6.30%，世紀互聯漲4.56%，亞朵集團漲2.98%。"
-    },
-    {
-      "id": "5048205",
-      "time": "2026-08-19 21:40:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天孚通訊：公司 CPO 相關配套產品已進入量產交付階段】天孚通訊在投資者關係活動記錄表表示，目前，公司 CPO 相關配套產品已進入量產交付階段，產品良率已滿足規模量產需要，公司會圍繞客戶需求預測提前準備產能，滿足客戶長期提產需求。"
-    },
-    {
-      "id": "te:markets:576509",
-      "time": "2026-08-19 21:40:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.24% Higher — The Dow Jones Index is gaining 130 points or 0.24 percent on Wednesday. Leading the gains are Merck (10.20%), Sherwin-Williams (2.79%) and Home Depot (1.95%). Top losers are Caterpillar (-2.18%), Goldman Sachs (-1.97%) and JPMorgan (-1.20%)."
-    },
-    {
-      "id": "5048204",
-      "time": "2026-08-19 21:39:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Moderna(MRNA.O)盤中漲幅達100％，總市值站上500億美元】公司與默沙東宣佈黑色素瘤疫苗研究取得成功。默沙東(MRK.N)上漲10％，BioNTech上漲17.6％。"
-    },
-    {
-      "id": "mkt:01a01a3f-aa98-7aab-9098-df0b91900d6e",
-      "time": "2026-08-19 21:39:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MRNA.O",
-        "Impact bullish",
-        "MRK.N",
-        "BNTX.O"
-      ],
-      "text": "Moderna (MRNA.O) shares rose as much as 100% intraday, lifting the company's market capitalization above $50 bln after Moderna and Merck (MRK.N) announced successful melanoma vaccine research. Merck shares gained 10% and BioNTech shares rose 17.6%."
-    },
-    {
-      "id": "5048202",
-      "time": "2026-08-19 21:38:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍逮捕巴方耶路撒冷事務部長等31人】據巴勒斯坦通訊社報道，以色列軍隊19日在約旦河西岸和耶路撒冷多地開展軍事行動，逮捕至少31名巴勒斯坦人，其中包括巴勒斯坦民族權力機構耶路撒冷事務部長阿什拉夫·阿瓦爾。報道說，以方當天突襲阿瓦爾位於耶路撒冷老城阿克薩清真寺以南錫勒萬區的住所並將其逮捕。阿瓦爾曾於今年1月被以色列當局禁止進入約旦河西岸。（新華社）"
-    },
-    {
-      "id": "5048201",
-      "time": "2026-08-19 21:37:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "皮爾格林普萊德受 JBS 收購要約刺激大漲 11%，創 2021 年以來最大漲幅。"
-    },
-    {
-      "id": "5048200",
-      "time": "2026-08-19 21:37:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "勞氏股價盤前跌幅收窄轉漲，最新上漲約2%。"
-    },
-    {
-      "id": "5048199",
-      "time": "2026-08-19 21:37:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "赫伯羅特股份公司：赫伯羅特將收購馬士基碼頭公司馬斯弗萊克特二號碼頭25%的股權，並將助力該碼頭的未來發展與運營。"
-    },
-    {
-      "id": "5048198",
-      "time": "2026-08-19 21:37:19",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "SK海力士美國上市股價在週二暴跌後上漲約3%；該公司將回購價值40萬億韓元的庫存股。"
-    },
-    {
-      "id": "te:markets:576507",
-      "time": "2026-08-19 21:36:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Verizon Stock Price Hits 19-week High — Verizon shares increased to 49.01 USD, the highest since April 2026. Over the past 4 weeks, Verizon gained 12.51%, and in the last 12 months, it increased 8.9%."
     }
   ]
 }
