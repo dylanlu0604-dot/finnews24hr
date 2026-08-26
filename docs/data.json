@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-27 00:32:54",
-  "count": 16698,
+  "updated": "2026-08-27 00:37:06",
+  "count": 16694,
   "items": [
+    {
+      "id": "5060658",
+      "time": "2026-08-27 00:35:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IDC稱蘋果摺疊屏iPhone首年出貨量將達1000萬部】研究機構IDC預測，蘋果備受期待的摺疊屏iPhone在上市首年將實現超過1000萬部的出貨量。IDC高階研究總監納比拉·波帕爾預計，儘管售價高達2500美元，這款護照式摺疊蘋果手機仍將大獲成功。摺疊裝置品類今年將增長12.6%，明年增速將加快至18%，IDC預測蘋果到2027年最終將佔據所有摺疊裝置出貨量的40%。"
+    },
+    {
+      "id": "5060657",
+      "time": "2026-08-27 00:33:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週三（8月26日）歐市尾盤，ICE英國天然氣期貨跌0.22%，整體低開高走，TTF基準荷蘭天然氣期貨漲3.54%，ICE歐盟碳排放交易許可（期貨價格）跌1.84%。"
+    },
     {
       "id": "mkt:01a03ee6-f2f3-7aab-9134-8b1da133de4e",
       "time": "2026-08-27 00:28:37",
@@ -150674,55 +150691,6 @@
         "國際"
       ],
       "text": "卡達外交部：卡達首相兼外交部長與沙特外交部長強調，必須確保（霍爾木茲海峽）航行安全。"
-    },
-    {
-      "id": "mkt:01a01ae1-510f-7aab-909d-ad9f3fb594c7",
-      "time": "2026-08-20 00:36:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: the World Economic Forum is still courting ECB President Christine Lagarde to serve as its next chair."
-    },
-    {
-      "id": "5048426",
-      "time": "2026-08-20 00:35:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會就個性化定價政策徵求公眾意見。"
-    },
-    {
-      "id": "5048425",
-      "time": "2026-08-20 00:35:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "拉加德似乎已準備好擔任世界經濟論壇主席一職。"
-    },
-    {
-      "id": "5048424",
-      "time": "2026-08-20 00:34:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "世界經濟論壇仍在遊說歐洲央行行長拉加德出任下一任主席。"
-    },
-    {
-      "id": "5048423",
-      "time": "2026-08-20 00:33:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：首相兼外交部長在利雅得與沙特外交部長就緩和局勢的努力進行了磋商。"
-    },
-    {
-      "id": "mkt:01a01ade-fd58-7aab-909d-a0516180101a",
-      "time": "2026-08-20 00:33:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.7-magnitude quake strikes East Nusa Tenggara, Indonesia】Indonesia’s Meteorology, Climatology and Geophysics Agency reported a magnitude-5.7 earthquake at 23:17 on Aug. 19 local (Western Indonesia) time, centered 43 km northeast of Ruteng, Manggarai Regency, East Nusa Tenggara province, at a depth of 10 km."
     }
   ]
 }
