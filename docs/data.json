@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-27 06:31:11",
+  "updated": "2026-08-27 06:35:13",
   "count": 16740,
   "items": [
+    {
+      "id": "5060978",
+      "time": "2026-08-27 06:32:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報68.79美元/盎司。"
+    },
+    {
+      "id": "mkt:01a04033-dcee-7aab-9139-ceaecc7f7a6f",
+      "time": "2026-08-27 06:32:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $68.80/oz."
+    },
     {
       "id": "te:markets:578376",
       "time": "2026-08-27 06:30:15",
@@ -151046,27 +151064,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Surges by 5.67% — Top commodity gainers are Silver (5.67%), Platinum (5.39%) and Gold (4.23%). Biggest loser is Lithium Carbonate (-1.21%)."
-    },
-    {
-      "id": "5048673",
-      "time": "2026-08-20 06:34:59",
-      "tags": [
-        "央行",
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 09:00 中國8月貸款市場報價利率、中國7月Swift人民幣在全球支付中佔比；\n② 09:30 澳大利亞7月失業率；\n③ 14:00 德國7月PPI；\n④ 15:00 中國商務部召開8月第1次例行新聞釋出會；\n⑤ 待定 阿里巴巴、泡泡瑪特釋出財報；\n⑥ 20:30 美國8月15日當週首次申請失業救濟人數、美國8月費城聯儲製造業指數；\n⑦ 22:00 美國7月諮商會領先指標；\n⑧ 22:30 美國8月14日當週EIA天然氣庫存；\n⑨ 23:10 美國2028年FOMC票委、聖路易聯儲主席穆薩萊姆接受CNBC的採訪。"
-    },
-    {
-      "id": "mkt:01a01c27-d5b1-7aab-90a2-e0f7153ca2c6",
-      "time": "2026-08-20 06:32:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Nikkei reports Japan's Ministry of Economy, Trade and Industry (METI) will seek ¥7.7 trillion in its FY2027 budget."
     }
   ]
 }

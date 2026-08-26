@@ -1,7 +1,25 @@
 {
   "date": "2026-08-27",
-  "count": 479,
+  "count": 481,
   "items": [
+    {
+      "id": "mkt:01a04033-dcee-7aab-9139-ceaecc7f7a6f",
+      "time": "2026-08-27 06:32:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $68.80/oz."
+    },
+    {
+      "id": "5060978",
+      "time": "2026-08-27 06:32:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報68.79美元/盎司。"
+    },
     {
       "id": "te:markets:578376",
       "time": "2026-08-27 06:30:15",
