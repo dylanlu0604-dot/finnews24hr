@@ -1,7 +1,151 @@
 {
-  "updated": "2026-08-27 01:01:41",
+  "updated": "2026-08-27 01:09:36",
   "count": 16694,
   "items": [
+    {
+      "id": "mkt:01a03f0a-6d5d-7aab-9135-447468f51ca3",
+      "time": "2026-08-27 01:07:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "Chip Wars",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Nikkei reports storage-chip giant Kioxia will build a new manufacturing fab in Iwate Prefecture, with investment expected to exceed ¥1 trillion."
+    },
+    {
+      "id": "mkt:01a03f07-dc91-7aab-9135-3d07896f3233",
+      "time": "2026-08-27 01:04:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 5-year Treasury yield retreated slightly after the auction but remains up 3.42 bps at 4.383%."
+    },
+    {
+      "id": "mkt:01a03f07-9380-7aab-9135-320066c06f73",
+      "time": "2026-08-27 01:04:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) launched Gemini 3.5, a voice-to-text transcription model."
+    },
+    {
+      "id": "5060673",
+      "time": "2026-08-27 01:04:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 5 年期國債收益率在拍賣後漲幅小幅收窄，最新上漲 3.42 個基點，報 4.383%。"
+    },
+    {
+      "id": "5060672",
+      "time": "2026-08-27 01:03:24",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣700億美元五年期國債，得標利率4.393%，投標倍數2.37。"
+    },
+    {
+      "id": "5060671",
+      "time": "2026-08-27 01:02:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌釋出Gemini 3.5 Transcribe。"
+    },
+    {
+      "id": "5060670",
+      "time": "2026-08-27 01:02:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期貨交易所 12 月小麥期貨觸及 45 美分的日內漲停上限，受黑海局勢不斷升級影響，創下每蒲式耳 7.4825 美元的合約新高。"
+    },
+    {
+      "id": "mkt:01a03f05-b974-7aab-9135-2b6c92af61f1",
+      "time": "2026-08-27 01:02:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 5-year Treasury auction as of Aug 26: percentage awarded at the winning (stop-out) yield 19.22%, prior 51.71%."
+    },
+    {
+      "id": "mkt:01a03f05-b895-7aab-9135-2123c0d01458",
+      "time": "2026-08-27 01:02:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 5-year Treasury auction bid-cover ratio 2.37 on Aug 26; prior 2.28."
+    },
+    {
+      "id": "mkt:01a03f05-b67e-7aab-9135-1d8ca918756a",
+      "time": "2026-08-27 01:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 5-year Treasury auction on Aug. 26 — stop-out yield 4.393%, prior 4.41%."
+    },
+    {
+      "id": "mkt:01a03f05-9104-7aab-9135-15bde429f03f",
+      "time": "2026-08-27 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Bid/Cover Ratio (Aug.26) | actual 2.37 | previous 2.28"
+    },
+    {
+      "id": "mkt:01a03f05-90f8-7aab-9135-0ae51fa7d0b4",
+      "time": "2026-08-27 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction Accepted at High (Aug.26) | actual 19.22% | previous 51.71%"
+    },
+    {
+      "id": "mkt:01a03f05-90f0-7aab-9135-06493dbe4edb",
+      "time": "2026-08-27 01:02:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 5-Year Note Auction High Yield Rate (Aug.26) | actual 4.393% | previous 4.41%"
+    },
     {
       "id": "mkt:01a03f04-3e31-7aab-9134-f96a070abf94",
       "time": "2026-08-27 01:00:37",
@@ -150551,134 +150695,6 @@
         "Impact bearish"
       ],
       "text": "【U.S., Canadian leaders optimistic on tariff agreement】U.S. President Trump and Canadian Prime Minister Carney said they are optimistic about a tariff agreement as negotiating teams met in Washington. Trump said Wednesday “we have reached an agreement,” adding Canadian negotiators put forward “conditions we must get,” including greater market access for U.S. agricultural exports, and that “everything still awaits final paperwork.” Carney wrote the countries are “moving towards an agreement that will cement Canada’s advantages” and secure “the most favorable terms” in Canada’s key strategic areas, but gave no details."
-    },
-    {
-      "id": "mkt:01a01aff-8cbc-7aab-909e-423f5c2f8214",
-      "time": "2026-08-20 01:09:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said this was the first call between Syria's top diplomat and Israel's top foreign-intelligence official since Roman Gofman took office in June."
-    },
-    {
-      "id": "5048443",
-      "time": "2026-08-20 01:08:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞最高外交官與以色列最高對外情報官員自去年6月以色列官員上任以來首次進行通話。"
-    },
-    {
-      "id": "mkt:01a01aff-3fe5-7aab-909e-3c2ab44f987c",
-      "time": "2026-08-20 01:08:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said the new Mossad director, Roman Gofman, held a phone call with Syrian foreign minister Assad Shebani on Aug. 14 to discuss Turkey's military presence in Syria."
-    },
-    {
-      "id": "5048442",
-      "time": "2026-08-20 01:08:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，8月14日，以色列新任摩薩德局長羅曼·戈夫曼與敘利亞外交部長阿薩德·謝巴尼通電話，雙方討論了土耳其在敘利亞的軍事駐紮問題。"
-    },
-    {
-      "id": "5048441",
-      "time": "2026-08-20 01:07:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫：伊朗與伊拉克具備在本地區創造空前機遇的潛力。"
-    },
-    {
-      "id": "mkt:01a01afb-163d-7aab-909e-329b019c8753",
-      "time": "2026-08-20 01:04:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 20-year Treasury yield was little changed after the auction, edging down 7.42 bps to 5.205%."
-    },
-    {
-      "id": "5048440",
-      "time": "2026-08-20 01:03:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國20年期國債中標收益率5.204%，高於拍賣前預發行（WI）收益率5.199%。"
-    },
-    {
-      "id": "mkt:01a01afa-0357-7aab-909e-2a634e4ba349",
-      "time": "2026-08-20 01:03:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 20-year Treasury auction on Aug. 19 — stop-out yield 5.204%, prior 5.16%."
-    },
-    {
-      "id": "mkt:01a01afa-019e-7aab-909e-279d333b070a",
-      "time": "2026-08-20 01:03:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 20-year Treasury auction as of Aug 19: share allocated at the stop-out yield 65.58%, prior 15.13%."
-    },
-    {
-      "id": "mkt:01a01af9-d510-7aab-909e-1fc177c57f58",
-      "time": "2026-08-20 01:02:55",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction Accepted at High (Aug.19) | actual 65.58% | previous 15.13%"
-    },
-    {
-      "id": "mkt:01a01af9-be21-7aab-909e-13228ecd191d",
-      "time": "2026-08-20 01:02:49",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction High Yield Rate (Aug.19) | actual 5.204% | previous 5.16%"
-    },
-    {
-      "id": "mkt:01a01af9-acd4-7aab-909e-0aa227d65c7d",
-      "time": "2026-08-20 01:02:45",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 20-year Treasury auction bid-cover ratio 2.53 as of Aug. 19; prior 2.64."
-    },
-    {
-      "id": "mkt:01a01af9-8a51-7aab-909e-06fa84c0c4d5",
-      "time": "2026-08-20 01:02:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (Aug.19) | actual 2.53 | previous 2.64"
     }
   ]
 }
