@@ -1,7 +1,516 @@
 {
   "date": "2026-08-26",
-  "count": 664,
+  "count": 717,
   "items": [
+    {
+      "id": "mkt:01a03bc2-7c61-7aab-911e-3c94ab84b846",
+      "time": "2026-08-26 09:49:56",
+      "tags": [
+        "MKT News",
+        "MSFT.O"
+      ],
+      "text": "Microsoft 365 said a maintenance activity unexpectedly impacted Teams, degrading functionality for users in the Asia-Pacific region. The maintenance has been paused and service restored to standard availability."
+    },
+    {
+      "id": "mkt:01a03bc2-619e-7aab-911e-33f0d174a10e",
+      "time": "2026-08-26 09:49:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of Korea rate decision imminent; analysts nearly evenly split on a hike】The Bank of Korea will announce policy on Thursday; analysts are almost evenly divided on whether it will hike. A Wall Street Journal survey of 31 analysts found 16 expect a July move — the first consecutive rate increases in three years — while 15 expect officials to hold until a potential Q4 increase. Markets largely expect the central bank to lift its growth forecast for the year even as inflation remains above the 2% target. Morgan Stanley economist Kathleen Oh says a favorable macro backdrop could support an August hike; HSBC economist Jin Choi cites weakening consumption and sees no rush to tighten. Barclays economist Bum Ki Son says the MPC is split between holding rates and a precautionary hike."
+    },
+    {
+      "id": "mkt:01a03bc2-6128-7aab-911e-2a57bf0fa769",
+      "time": "2026-08-26 09:49:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US, European astronauts complete spacewalk to install backup antenna on ISS】NASA said on the 25th two astronauts completed a roughly 6-hour-30-minute spacewalk to install and connect a spare ground-to-space high-rate communications antenna on the International Space Station. The astronauts, NASA’s Anil Menon and ESA’s Sophie Adenot, had removed a failed antenna during a spacewalk on the 18th but were unable to install a replacement then due to time constraints. During the latest EVA they installed and connected the spare antenna and secured the removed faulty unit to a spare-parts platform on the station truss."
+    },
+    {
+      "id": "mkt:01a03bc1-b243-7aab-911e-277ac0e7f89a",
+      "time": "2026-08-26 09:49:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share securities sector continued to firm; Jinlong Shares hit the daily trading limit, while Xiangcai, Guoyuan Securities, China Merchants Securities, Huachuang Yunxin, Guosen Securities and Zhongyin Securities advanced."
+    },
+    {
+      "id": "5058808",
+      "time": "2026-08-26 09:49:04",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "滬指走高重回3900點，漲幅0.4％，創指漲超0.5％，生物製品、工業金屬、超導等概念漲幅靠前。"
+    },
+    {
+      "id": "5058807",
+      "time": "2026-08-26 09:49:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美歐宇航員太空行走為國際空間站安裝天線】美國航空航天局25日表示，國際空間站兩名宇航員當天完成歷時約6小時30分鐘的太空行走任務，成功安裝並連線了一副備用地空高速通訊天線。出艙的兩人分別為美國航空航天局宇航員阿尼爾·梅農和歐洲航天局宇航員索菲·阿德諾。他們在本月18日的太空行走中拆除了一副發生故障的地空通訊天線。由於作業耗時較長，當天未能安裝替換天線。此次任務中，兩人成功安裝並連線了備用通訊天線，並將此前拆下的故障天線固定至空間站桁架結構上的備件平臺。"
+    },
+    {
+      "id": "5058806",
+      "time": "2026-08-26 09:48:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內跌6%，現報7689.00元。"
+    },
+    {
+      "id": "5058805",
+      "time": "2026-08-26 09:48:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊持續走強，錦龍股份漲停】證券板塊持續走強，錦龍股份漲停，湘財股份、國元證券、招商證券、華創雲信、國信證券、中銀證券等跟漲。"
+    },
+    {
+      "id": "5058804",
+      "time": "2026-08-26 09:48:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ChatGPTPlus恢復五小時限額】8 月 26 日，經過自 7 月 13 日開始為期六週的無每日使用額度限制後，OpenAI 正式恢復了針對標準版 ChatGPT Plus 使用者的嚴格“五小時使用上限”，該限制適用於使用 Codex 和 ChatGPT Work 環境的使用者。OpenAI Codex 和 ChatGPT 工程負責人 Thibault Sottiaux 在 X 上確認，滾動五小時限制於 8 月 25 日全面恢復。"
+    },
+    {
+      "id": "mkt:01a03bc0-8bba-7aab-911e-1b50a3303333",
+      "time": "2026-08-26 09:47:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Australia July CPI tops forecasts; rate-hike risk rises】Australia’s July consumer prices rose 1.0% MoM vs 0.8% expected, driven by jumps in fuel and travel costs, the Australian Bureau of Statistics said on Wednesday. Headline CPI eased to 3.5% YoY from 3.8% but beat the 3.3% median forecast. The trimmed-mean core CPI, the RBA’s preferred gauge, rose 0.5% MoM (est. 0.3%) and held at 3.6% YoY. The Reserve Bank of Australia has hiked rates three times this year to bring core inflation back to 2–3%; the stronger read raises the risk of further tightening."
+    },
+    {
+      "id": "mkt:01a03bbf-59ab-7aab-911e-13b008539277",
+      "time": "2026-08-26 09:46:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Citadel strategist shifts to bullish on long-dated U.S. Treasuries】Frank Flett, head of macro strategy at Citadel Securities, says the risk-reward has shifted toward a rally in long-dated U.S. Treasuries, citing crowded short positions and improving inflation prints. He had warned last month that investors were underestimating the risk of a Fed July rate hike. Citadel’s simulations of CTAs and trend-followers show short positions are “substantially excessive” versus recent history, suggesting further declines would likely produce limited selling while sustained gains could force short covering. Flett says concerns about Fed credibility are overstated because recent soft jobs and inflation reports “appear to justify a more dovish policy response.”"
+    },
+    {
+      "id": "5058803",
+      "time": "2026-08-26 09:46:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方直科技成立智科技術公司 含多項AI相關業務】企查查APP顯示，近日，方直智科（深圳）技術有限責任公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺；人工智慧應用軟體開發；智慧機器人銷售等。企查查股權穿透顯示，該公司由方直科技全資持股。"
+    },
+    {
+      "id": "5058802",
+      "time": "2026-08-26 09:46:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元子公司靈巧手OmniHand獲機器人運動會7枚金牌】在2026世界人形機器人運動會中，智元子公司臨界點憑藉量產版靈巧手OmniHand，奪得“積木搭建”“粉末稱重”等7個靈巧手專案的金牌、4枚銀牌、3枚銅牌。該靈巧手重510克、擁有16自由度，採用DUET雙層具身接觸智慧架構，並在3個賽項中實現全自主操作。目前臨界點已累計出貨量已超2萬臺。"
+    },
+    {
+      "id": "5058801",
+      "time": "2026-08-26 09:46:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日聯科技在寧夏成立真空電子科技公司】企查查APP顯示，近日，日聯真空電子科技（寧夏）有限公司成立，經營範圍包含：電子真空器件製造；光電子器件製造；電子專用裝置製造等。企查查股權穿透顯示，該公司由日聯科技全資持股。"
+    },
+    {
+      "id": "te:economy:578080",
+      "time": "2026-08-26 09:45:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note held around 4.64% on Wednesday after dropping nearly 10 basis points in the previous session, as falling oil prices eased inflation concerns and investors continued to assess the implications of the Treasury Department’s expanded debt buybacks. Oil prices declined for a third consecutive session, reducing concerns over near-term inflationary pressures. Meanwhile, market participants continued to debate the Treasury’s plan to at least double its buybacks, with investor Stanley Druckenmiller arguing that the move is undermining the Treasury market’s credibility and wasting an opportunity for meaningful debt reform. Elsewhere, investors awaited the latest US PCE price index report, the Federal Reserve’s preferred measure of inflation. The data comes ahead of Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium on Friday, where he is not expected to provide clear guidance on the central bank’s policy decision in September."
+    },
+    {
+      "id": "5058800",
+      "time": "2026-08-26 09:45:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼6月棕櫚油庫存降至284.4萬噸。"
+    },
+    {
+      "id": "5058799",
+      "time": "2026-08-26 09:45:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼6月棕櫚油產量增至527.2萬噸。"
+    },
+    {
+      "id": "5058798",
+      "time": "2026-08-26 09:44:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅永浩向扶老人被索賠店主捐助10萬元】8月26日，羅永浩透過記者的牽線溝通，將和朋友一塊湊的10萬元捐助給幫扶老人被索賠的店主。羅永浩24日曾轉發評論稱，希望聯絡到店主並湊10萬元捐助。25日，店主兒子告訴記者，是否接受捐助需要徵求母親意願，25日晚，店主兒子向記者表示願意和羅永浩方溝通的想法，羅永浩方也明確表達出捐助意願。當晚雙方達成一致意向，26日羅永浩方以銀行轉賬給店主的方式完成捐助。（新京報）"
+    },
+    {
+      "id": "mkt:01a03bbd-8c5a-7aab-911e-0d9e53bd430e",
+      "time": "2026-08-26 09:44:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09988.HK"
+      ],
+      "text": "HSI extends gains to 1%; Alibaba (09988.HK) up 3%."
+    },
+    {
+      "id": "5058797",
+      "time": "2026-08-26 09:44:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌5%，現報7767.00元。"
+    },
+    {
+      "id": "mkt:01a03bbd-0dde-7aab-911e-01f468b40057",
+      "time": "2026-08-26 09:44:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share liquid-cooled server names extended yesterday's rally. Kangsheng Co. and Haorsai recorded second straight daily limit-ups; Yilida notched three limit-ups in four sessions. Chaopin3, Yingweike, Oulutong and Nanfang Pump also advanced."
+    },
+    {
+      "id": "mkt:01a03bbc-9063-7aab-911d-fbe421e0d2e4",
+      "time": "2026-08-26 09:43:28",
+      "tags": [
+        "MKT News",
+        "096770.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Innovation says weak electric-vehicle demand has weighed on its battery separator film business."
+    },
+    {
+      "id": "mkt:01a03bbc-429a-7aab-911d-f744f9f46e70",
+      "time": "2026-08-26 09:43:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SK Innovation said SK IE Technology's battery separator business is affected by the US Inflation Reduction Act."
+    },
+    {
+      "id": "mkt:01a03bbc-1ef1-7aab-911d-eba47f5b0fda",
+      "time": "2026-08-26 09:42:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Preview: State Council Information Office to brief on China services trade and 2026 CIFTIS preparations】The State Council Information Office will hold a press briefing at 10:00 on Friday, 28 August 2026. MOFCOM Vice Minister Yan Dong and Beijing Vice Mayor Tang Wenhong will outline China’s services trade development and progress in preparations for the 2026 China International Fair for Trade in Services (CIFTIS) and take questions."
+    },
+    {
+      "id": "5058796",
+      "time": "2026-08-26 09:42:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25768.119點；恒生科技指數現漲1.473%。"
+    },
+    {
+      "id": "mkt:01a03bbb-7081-7aab-911d-e14eb0cde9db",
+      "time": "2026-08-26 09:42:14",
+      "tags": [
+        "MKT News",
+        "096770.KS"
+      ],
+      "text": "SK Innovation will announce a shareholder return plan after reviewing multiple financial factors."
+    },
+    {
+      "id": "5058795",
+      "time": "2026-08-26 09:42:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊酒店概念震盪反彈，華天酒店漲停】旅遊酒店概念震盪反彈，華天酒店漲停，大千生態、*ST西旅、天府文旅、錦江線上等跟漲。"
+    },
+    {
+      "id": "mkt:01a03bbb-6115-7aab-911d-db454edf682a",
+      "time": "2026-08-26 09:42:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "00358.HK",
+        "Impact bullish",
+        "02245.HK",
+        "01208.HK"
+      ],
+      "text": "Hong Kong-listed nonferrous metals stocks strengthened; Jiangxi Copper (00358.HK) rose over 6%, Liqin Resources (02245.HK) rose over 5%, Minmetals Resources (01208.HK) rose nearly 4%."
+    },
+    {
+      "id": "5058794",
+      "time": "2026-08-26 09:42:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "農藥板塊短線拉昇，新農股份漲停，百傲化學、利民股份、聯化科技、揚農化工、廣信股份等紛紛走高。"
+    },
+    {
+      "id": "5058793",
+      "time": "2026-08-26 09:41:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "預告：國務院新聞辦公室將於2026年8月28日（星期五）上午10時舉行新聞釋出會，請商務部副部長鄢東、北京市副市長唐文弘介紹中國服務貿易發展和2026年服貿會籌備工作進展情況，並答記者問。"
+    },
+    {
+      "id": "mkt:01a03bba-74a1-7aab-911d-d45662b0ae29",
+      "time": "2026-08-26 09:41:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Malaysian ringgit rose to 4.03 per US dollar, its strongest level since early June."
+    },
+    {
+      "id": "5058792",
+      "time": "2026-08-26 09:40:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞林吉特兌美元匯率升至4.030，創6月初以來新高。"
+    },
+    {
+      "id": "5058791",
+      "time": "2026-08-26 09:40:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股有色金屬股走強 江西銅業股份漲超6%】截至發稿，江西銅業股份(00358.HK)漲6.45%，力勤資源(02245.HK)漲5.58%，五礦資源(01208.HK)漲3.96%。"
+    },
+    {
+      "id": "5058790",
+      "time": "2026-08-26 09:40:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼棕櫚油協會表示，印尼6月含成品油在內的棕櫚油出口量為328萬噸。"
+    },
+    {
+      "id": "mkt:01a03bb9-6255-7aab-911d-c9fb5cc86a86",
+      "time": "2026-08-26 09:40:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share property sector rallied intraday; Shibei Gaoxin hit the daily trading limit, while Huafa Co., Sanxiang Impression, Fuxing Co., WorldUnion and Yangguang advanced."
+    },
+    {
+      "id": "mkt:01a03bb9-5512-7aab-911d-c6bf09133a4d",
+      "time": "2026-08-26 09:39:56",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share power sector rallied; Xin Zhonggang hit the daily trading limit, while Zhongnan Culture, Rongsheng Environmental, Feima International, Beifang International, Shenzhen Energy and Disen also advanced."
+    },
+    {
+      "id": "5058789",
+      "time": "2026-08-26 09:39:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長安基金總經理調整 原萬聯資管董事長李曄接任】8月26日，長安基金髮布高階管理人員變更公告，原萬聯資管董事長李曄自8月24日起出任公司總經理，原總經理孫曉偉因工作調整離任。"
+    },
+    {
+      "id": "5058788",
+      "time": "2026-08-26 09:39:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【液冷伺服器概念延續強勢 康盛股份、豪爾賽2連板】液冷伺服器概念延續昨日強勢，康盛股份、豪爾賽2連板，億利達4天3板，超頻三、英維克、歐陸通、南方泵業等跟漲。"
+    },
+    {
+      "id": "te:economy:578077",
+      "time": "2026-08-26 09:39:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Australia Inflation Rate at 8-Month Low of 3.5% — The annual inflation rate in Australia slowed to 3.5% in July 2026 from 3.8% in June and expectations of 3.3%, but remained above the central bank's 2–3% target range. It was the softest increase since November 2025, as goods inflation moderated to an eleven-month low of 3.2%. Services inflation also eased to 3.7% from 4.0%. Housing inflation eased to an 11-month low of 5.0% (vs 6.8%), with electricity prices rising the least in four months. Inflation also eased for food and non-alcoholic beverages (3.2% vs 3.3%)."
+    },
+    {
+      "id": "5058787",
+      "time": "2026-08-26 09:39:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK創新：將在綜合考量各項財務因素後公佈股東回報政策。"
+    },
+    {
+      "id": "mkt:01a03bb8-d421-7aab-911d-b8cb6cd65e20",
+      "time": "2026-08-26 09:39:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. and Iran both misstate Strait of Hormuz situation, former U.S. diplomat says】A former U.S. diplomat said both U.S. and Iranian statements on the Strait of Hormuz are inaccurate: U.S. claims the strait is open are not entirely correct, and Iran’s assertions that it has closed the waterway are also false. Iran lacks the physical capability to fully seal the strait and instead relies on coercion—threats and missile strikes against unarmed merchant vessels—to try to compel compliance. Not all shipping is obeying Iran’s threats; some ships switch off AIS, run at night and hug the Omani coast. The U.S. military is deploying assets to protect vessels where possible."
+    },
+    {
+      "id": "5058786",
+      "time": "2026-08-26 09:39:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力概念異動拉昇，新中港漲停】電力概念異動拉昇，新中港漲停，中南文化、榮晟環保、飛馬國際、北方國際、深圳能源、迪森股份等跟漲。"
+    },
+    {
+      "id": "te:markets:578076",
+      "time": "2026-08-26 09:38:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Edge Higher — The benchmark KOSPI edged up to around 6,745 on Wednesday, trading little changed from the previous session, as semiconductor stocks advanced ahead of Nvidia’s earnings report. Samsung Electronics and SK hynix both gained nearly 1% as US chip stocks rallied overnight, with the Nasdaq rising 0.66% and boosting sentiment toward Korea’s technology sector. Large-cap performance was mixed, with gains from Samsung C&T (3.6%), Shinhan Financial Group (1.5%), and Doosan Enerbility (4.8%), while SK Square (-1.7%) and LG Energy Solution (-1.1%) posted losses. Additionally, lower US Treasury yields supported equity sentiment by easing pressure on technology stock valuations. Falling oil prices and reduced concerns over disruptions in the Strait of Hormuz also eased pressure on South Korea’s import costs. Meanwhile, investors remained cautious ahead of Nvidia’s results, which could influence the broader AI and semiconductor sector."
+    },
+    {
+      "id": "mkt:01a03bb7-599a-7aab-911d-b28f7ee5befe",
+      "time": "2026-08-26 09:37:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Where to park spare cash? Retail cash-management 7-day yield snapshot】7-day annualized yields for major Chinese retail cash-management products: Tencent's Licaitong (current) ranged 0.7060%–1.1950%; WeChat Wallet's Lingqiantong ranged 0.8710%–1.0110%; Alipay's Yu'ebao ranged 0.9000%–1.0340%."
+    },
+    {
+      "id": "mkt:01a03bb7-2084-7aab-911d-ad6d449ecc43",
+      "time": "2026-08-26 09:37:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share paper sector opened firmer in early trade; Sun Paper and Qingshan Paper hit daily limit-ups, while Rongsheng Environmental Protection, Jingxing Paper, Bohui Paper, Yibin Paper and Xianhe Co. also rallied."
+    },
+    {
+      "id": "5058785",
+      "time": "2026-08-26 09:37:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元上漲178點至6.7051元，創2023年2月2日以來新高。"
+    },
+    {
+      "id": "5058784",
+      "time": "2026-08-26 09:36:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【造紙板塊盤初走強 太陽紙業、青山紙業漲停】造紙板塊盤初走強，太陽紙業、青山紙業漲停，榮晟環保、景興紙業、博彙紙業、宜賓紙業、仙鶴股份跟漲。"
+    },
+    {
+      "id": "5058783",
+      "time": "2026-08-26 09:36:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【杭電股份漲停 章建平成為第三大股東】杭電股份高開高走，封住漲停。訊息面上，自然人章建平二季度新進成為杭電股份第三大股東。"
+    },
+    {
+      "id": "5058782",
+      "time": "2026-08-26 09:35:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊短線拉昇】房地產板塊短線拉昇，市北高新漲停，華髮股份、三湘印象、福星股份、世聯行、陽光股份等紛紛走高。"
+    },
+    {
+      "id": "mkt:01a03bb5-744b-7aab-911d-a2c1dcebd0b4",
+      "time": "2026-08-26 09:35:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share vaccine-biotech sector rallied; CanSino Biologics and Weiguang Biological hit limit-up, while Watson Bio, Zhifei Biological, Kangtai Biotech and Kanghua Biotech were among the top gainers."
+    },
+    {
+      "id": "5058781",
+      "time": "2026-08-26 09:35:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥生物板塊反覆活躍 康希諾等多股漲停】醫藥生物板塊反覆活躍，漢森製藥6連板，康希諾、衛光生物、中關村、千金藥業漲停，沃森生物、廣生堂、三元基因、安科生物、智飛生物等跟漲。"
+    },
+    {
+      "id": "5058780",
+      "time": "2026-08-26 09:34:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股電力裝置股走強 金風科技漲近6%】截至發稿，金風科技(02208.HK)漲5.88%，東方電氣(01072.HK)漲3.87%，上海電氣(02727.HK)漲3.24%。"
+    },
+    {
+      "id": "mkt:01a03bb3-fd24-7aab-911d-9da3f249a898",
+      "time": "2026-08-26 09:34:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Agriculture and Rural Affairs: China to largely complete modern farm-produce origin market system by 2030】The Ministry of Agriculture and Rural Affairs issued the 15th Five-Year Plan for the national farm-product origin market system, targeting improved supply–demand matching and a modern circulation network. Policy priorities include online–offline integration, alignment of production and sales locations, interconnection of agricultural commerce, upgraded market facilities and marketing services, stronger monitoring and early-warning, and expansion of distribution participants. Key targets: by 2030 establish 50 origin-market clusters able to drive regional or national leading industries; develop 1,500 origin cold-chain collection-and-distribution centers with storage, primary processing and cold‑chain delivery capacity; and build 500 certified, high‑standard agricultural premium brands. By 2035 the plan aims for significant progress in efficient supply–demand linkage and a stronger role for the system in ensuring stable, safe supply, raising agricultural quality and farmer incomes, and supporting agricultural modernization."
+    },
     {
       "id": "5058779",
       "time": "2026-08-26 09:33:14",
