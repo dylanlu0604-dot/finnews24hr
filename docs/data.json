@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-27 02:25:50",
-  "count": 16653,
+  "updated": "2026-08-27 02:29:55",
+  "count": 16649,
   "items": [
+    {
+      "id": "mkt:01a03f52-f1a0-7aab-9136-621a8569c6c8",
+      "time": "2026-08-27 02:26:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "A Qatar Foreign Ministry spokesman said the visit is consistent with Qatar’s long-standing view that diplomacy is the best way to resolve differences and promote regional security and stability. Talks will also address freedom of navigation in the Strait of Hormuz and efforts to restore conditions there to their state before Feb. 28."
+    },
+    {
+      "id": "5060714",
+      "time": "2026-08-27 02:25:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：卡達首相將在德黑蘭會見多名伊朗官員，商討緩和緊張局勢的途徑。"
+    },
+    {
+      "id": "mkt:01a03f52-3b08-7aab-9136-5c9a84c6e056",
+      "time": "2026-08-27 02:25:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry spokesperson said the Qatari PM will meet multiple Iranian officials in Tehran to discuss measures to ease tensions."
+    },
+    {
+      "id": "te:markets:578363",
+      "time": "2026-08-27 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Surges by 6.56% — Top commodity gainers are Wheat (6.56%), Oat (3.22%) and Rice (3%). Biggest losers are Coffee (-4.32%) and Palm Oil (-1.90%)."
+    },
     {
       "id": "mkt:01a03f51-2f27-7aab-9136-53a507fbd7cd",
       "time": "2026-08-27 02:24:40",
@@ -150095,87 +150136,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收跌0.70%，報581.20元人民幣/桶。滬金夜盤收漲2.13%，滬銀收漲2.58%。"
-    },
-    {
-      "id": "mkt:01a01b49-0b99-7aab-90a0-03dea32f46ad",
-      "time": "2026-08-20 02:29:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India orders bulk sugar buyers to limit inventories to no more than 15 days' consumption."
-    },
-    {
-      "id": "te:markets:576601",
-      "time": "2026-08-20 02:28:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "PNC Stock Price Hits 6-week Low — PNC shares decreased to 246.59 USD, the lowest since July 2026. Over the past 4 weeks, PNC lost 1.37%, and in the last 12 months, it increased 26.52%."
-    },
-    {
-      "id": "5048499",
-      "time": "2026-08-20 02:27:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府釋出命令：將散裝食糖採購商庫存限制為15天用量。"
-    },
-    {
-      "id": "te:markets:576600",
-      "time": "2026-08-20 02:27:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "DXY Falls to Over 2-Month Low — The US dollar index fell below 99 on Wednesday, the lowest since late May, after the US Treasury announced it would double its long-term buyback program. The move signaled that the US Treasury would be willing to actively intervene on the bond market to cap long-term yields, raising the outlook of dollar liquidity in the global financial system from the Treasury General Account. Such measures were in line with earlier efforts to limit the surge in long-dated bonds globally, which often drive foreign companies to sell their dollar holdings to support their currency. Japan and the US had recently intervened in foreign exchange markets, driving the dollar index to plunge, and Treasury Secretary Bessent called for higher limits to the Federal Reserve's FIMA facility for foreign countries to have dollar liquidity without having to actively intervene in foreign exchange markets. Meanwhile, FOMC minutes confirmed that some members see the case for higher rates."
-    },
-    {
-      "id": "mkt:01a01b47-8416-7aab-909f-fe06e5e08f37",
-      "time": "2026-08-20 02:27:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Fed minutes show no support for rate cuts】Fed minutes contained no views supporting rate cuts, marking a clear shift in policy discussion versus a year ago. Markets had expected cuts as inf cooled, but price pressures have persisted — amplified after the Trump administration's involvement in the Israel–Iran conflict — and oil and gas flows via the Strait of Hormuz remain constrained nearly six months after the outbreak. Recent data show a modest easing in inf and an unexpected payroll decline in July, leaving markets priced for the Fed to hold at the Sept. 15–16 meeting. Officials remain divided on the need for further hikes but are more cautious on labour-market strength and risks to achieving full employment; the Fed chair's reluctance to outline his policy path leaves markets without clear guidance."
-    },
-    {
-      "id": "mkt:01a01b47-7ee0-7aab-909f-f39e1fc94cda",
-      "time": "2026-08-20 02:27:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India orders inventory limits on bulk sugar consumers, effective Sept 1 through Nov 30."
-    },
-    {
-      "id": "5048498",
-      "time": "2026-08-20 02:25:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府令：印度對食糖大宗消費商實施存糖限額，該規定自9月1日起生效，有效期至11月30日。"
-    },
-    {
-      "id": "mkt:01a01b45-c9f1-7aab-909f-ed6599575ce8",
-      "time": "2026-08-20 02:25:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombian official data shows the earthquake death toll has risen to 312."
     }
   ]
 }

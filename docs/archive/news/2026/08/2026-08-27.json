@@ -1,7 +1,48 @@
 {
   "date": "2026-08-27",
-  "count": 164,
+  "count": 168,
   "items": [
+    {
+      "id": "mkt:01a03f52-f1a0-7aab-9136-621a8569c6c8",
+      "time": "2026-08-27 02:26:35",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "A Qatar Foreign Ministry spokesman said the visit is consistent with Qatar’s long-standing view that diplomacy is the best way to resolve differences and promote regional security and stability. Talks will also address freedom of navigation in the Strait of Hormuz and efforts to restore conditions there to their state before Feb. 28."
+    },
+    {
+      "id": "5060714",
+      "time": "2026-08-27 02:25:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：卡達首相將在德黑蘭會見多名伊朗官員，商討緩和緊張局勢的途徑。"
+    },
+    {
+      "id": "mkt:01a03f52-3b08-7aab-9136-5c9a84c6e056",
+      "time": "2026-08-27 02:25:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry spokesperson said the Qatari PM will meet multiple Iranian officials in Tehran to discuss measures to ease tensions."
+    },
+    {
+      "id": "te:markets:578363",
+      "time": "2026-08-27 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Surges by 6.56% — Top commodity gainers are Wheat (6.56%), Oat (3.22%) and Rice (3%). Biggest losers are Coffee (-4.32%) and Palm Oil (-1.90%)."
+    },
     {
       "id": "mkt:01a03f51-2f27-7aab-9136-53a507fbd7cd",
       "time": "2026-08-27 02:24:40",
