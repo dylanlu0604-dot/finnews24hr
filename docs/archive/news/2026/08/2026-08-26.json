@@ -1,7 +1,526 @@
 {
   "date": "2026-08-26",
-  "count": 717,
+  "count": 775,
   "items": [
+    {
+      "id": "mkt:01a03bd1-ad7d-7aab-911e-bf7bcf178467",
+      "time": "2026-08-26 10:06:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "MIIT said it will accelerate development over the next five years of emerging pillar industries such as aviation and aerospace and intelligent robotics."
+    },
+    {
+      "id": "5058847",
+      "time": "2026-08-26 10:05:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：未來五年加快打造航空航天、智慧機器人等新興支柱產業】國新辦舉行 “開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，我們將著力最佳化產業結構，統籌推進傳統產業改造升級、新興產業培育壯大、未來產業前瞻佈局，保持和發展好完整產業體系。加快打造積體電路、航空航天、生物醫藥、低空經濟、新型儲能、智慧機器人等新興支柱產業，推動量子科技、生物製造、氫能和核聚變能、腦機介面、具身智慧、第六代行動通訊（6G）等未來產業成為新的經濟增長點。"
+    },
+    {
+      "id": "mkt:01a03bd0-d0db-7aab-911e-b09744f22a22",
+      "time": "2026-08-26 10:05:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The governor of Russia's Tambov region said a Wildberries warehouse in the region caught fire after a drone strike."
+    },
+    {
+      "id": "5058846",
+      "time": "2026-08-26 10:05:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【信達生物港股升至紀錄新高】信達生物盤中漲超10%至112.70港元，創紀錄新高。公司此前公佈上半年營收同比增長45%至86億元人民幣。雖然總收入低於預估，但野村稱淨利潤增長超預期。"
+    },
+    {
+      "id": "mkt:01a03bd0-a24d-7aab-911e-abf1529dc3c4",
+      "time": "2026-08-26 10:05:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Indonesian rupiah rose to IDR17,680 per USD in early trade, its highest level since mid-June."
+    },
+    {
+      "id": "5058845",
+      "time": "2026-08-26 10:05:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元小幅走強，漲幅一度達0.2%，至158.90。"
+    },
+    {
+      "id": "5058844",
+      "time": "2026-08-26 10:05:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創業板、科創50指數雙雙翻綠】創業板、科創50指數雙雙翻綠，全市場超3000家個股下跌。油氣、CPO、PCB概念板塊跌幅居前。"
+    },
+    {
+      "id": "mkt:01a03bd0-1455-7aab-911e-a24613b56aac",
+      "time": "2026-08-26 10:04:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USD/JPY slipped about 15 pips intra-session to 158.90."
+    },
+    {
+      "id": "5058843",
+      "time": "2026-08-26 10:04:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博倫智匯宣佈完成千萬級天使輪融資】8月26日，北京博倫智匯科技有限公司宣佈，公司已於近日完成千萬級天使輪融資，本輪融資由專注AI及AI Infra賽道、同時佈局過大模型訓練框架的一線產業基金投資。本輪資金將主要用於核心技術迭代、產品打磨、核心技術團隊擴充，加速公司在AI算力產業的市場拓展與業務落地。"
+    },
+    {
+      "id": "mkt:01a03bcf-e7e2-7aab-911e-9cdd5927c89e",
+      "time": "2026-08-26 10:04:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT: China's industry upgrade toward new, higher-quality, smarter and greener accelerates】State Council Information Office held a kickoff press conference for the 15th Five-Year Plan; an MIIT official said the ministry will fully implement the 15th Plan and speed up new-type industrialization. MIIT said that during the 14th Five-Year period China’s new-type industrialization deepened, the industry’s shift toward new, higher-quality, smarter and greener development notably accelerated, and all 14th Five-Year Plan targets were met."
+    },
+    {
+      "id": "te:markets:578095",
+      "time": "2026-08-26 10:04:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rise on Healthcare and Tech Gains — The Hang Seng Index rose 1.1%, or 282 points, to 25,791 on Wednesday, following gains on Wall Street overnight as technology stocks rebounded, while easing crude oil prices and lower US Treasury yields offered some support to Asian equities, although uncertainty surrounding US-Iran developments kept investors cautious. The rise was led by healthcare stocks, with Innovent Biologics climbing 10.5%, while broader sentiment was also supported by gains in tech shares. Meanwhile, Alibaba was also in focus after Chairman Joe Tsai bought an additional 720,000 shares worth about HK$82 million, following recent purchases by other senior executives. The buying helped ease concerns over the company’s HK$80 billion share placement to fund its AI expansion, which is expected to close on Wednesday. Notable movers included Tencent (1.0%), Wuxi Biologics (2.1%), Xiaomi (2.0%), Meituan (2.3%), and Akeso (7.4%)."
+    },
+    {
+      "id": "5058842",
+      "time": "2026-08-26 10:04:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本JERA株式會社表示，將投資總部位於美國的Emerald AI，為人工智慧資料中心開發先進能源解決方案。"
+    },
+    {
+      "id": "mkt:01a03bcf-c1a6-7aab-911e-91379bd20a98",
+      "time": "2026-08-26 10:04:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor and chip stocks slid; Chunzhong Technology hit its daily trading limit, Jiepute fell over 10%, and Hengshuo, Dawei, Helin Weina and Jianghua Micro each dropped more than 5%."
+    },
+    {
+      "id": "5058841",
+      "time": "2026-08-26 10:04:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股指下跌1%至6436.02點。"
+    },
+    {
+      "id": "te:markets:578094",
+      "time": "2026-08-26 10:04:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks Gain on Policy Support Hopes — The Shanghai Composite edged up 0.2% to 3,896 on Wednesday, while the Shenzhen Component rose 0.4% to 13,795, as investors eagerly awaited developments from the ongoing National People’s Congress Standing Committee meeting. The August 25–28 session is being closely watched for policy support following weak economic data and repeated pledges from policymakers to bolster growth. Meanwhile, China Merchants Bank is issuing a three-year floating-rate note linked to the overnight bond repurchase rate, becoming the first domestic commercial lender to do so. Earlier this month, the Export-Import Bank of China became the first policy bank to issue debt tied to the same benchmark. The shift reflects the PBOC’s efforts to elevate the overnight repo rate as the primary anchor for short-term funding costs, bringing the policy framework closer to international standards. Notable gainers included BYD (1%), Victory Giant Technology (1.9%), and Wus Printed Circuit (3.9%)."
+    },
+    {
+      "id": "5058840",
+      "time": "2026-08-26 10:03:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：我國產業“向新、向優、向智、向綠”升級步伐明顯加快】8月26日，國新辦舉行 “開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，“十四五”時期，我國新型工業化持續走深走實，產業“向新、向優、向智、向綠”升級步伐明顯加快，圓滿完成了“十四五”規劃的各專案標任務。"
+    },
+    {
+      "id": "mkt:01a03bcf-381e-7aab-911e-8994b278f863",
+      "time": "2026-08-26 10:03:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "JERA, Japan's largest power company, will invest in U.S.-based Emerald AI to advance energy solutions for AI data centers."
+    },
+    {
+      "id": "5058839",
+      "time": "2026-08-26 10:03:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體晶片股震盪走低，淳中科技觸及跌停，傑普特跌超10%，恆爍股份、大為股份、和林微納、江化微跌超5%。"
+    },
+    {
+      "id": "5058838",
+      "time": "2026-08-26 10:03:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內跌6%，現報7868.00元。"
+    },
+    {
+      "id": "mkt:01a03bce-e128-7aab-911e-86cb7bb3bbe4",
+      "time": "2026-08-26 10:03:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China's CSI 1000 index futures (IM) front contract fell below 7,400 points, down 1.01% intraday."
+    },
+    {
+      "id": "5058837",
+      "time": "2026-08-26 10:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方：在烏克蘭部署北約軍隊不可接受】俄羅斯總統新聞秘書佩斯科夫25日說，俄羅斯已多次宣告，北約國家在烏克蘭領土部署軍隊對俄羅斯而言“不可接受”。"
+    },
+    {
+      "id": "5058836",
+      "time": "2026-08-26 10:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國地震局回應成都高新減災研究所誤報7.7級地震預警】2026年8月24日8時26分，四川宜賓市長寧縣發生4.7級地震。中國地震預警網震後6秒透過微信小程式、華為手機、小米手機和地震預警專用終端等渠道，向震中周邊區域1000餘萬使用者推送了官方地震預警資訊。震後，成都高新減災研究所擅自利用其自建系統生成“四川長寧7.7級”地震預警資訊，以“中國地震預警網”的名義，透過榮耀、vivo、魅族品牌手機及小天才手錶等終端違規向全國使用者推送，引發公眾廣泛關注。（新華社）"
+    },
+    {
+      "id": "5058835",
+      "time": "2026-08-26 10:02:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本最大電力公司JERA投資美國Emerald AI。"
+    },
+    {
+      "id": "5058834",
+      "time": "2026-08-26 10:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府軍稱打死至少14名胡塞武裝人員】葉門政府下屬的“民族抵抗力量”組織25日稱，當天在葉門紅海港口城市荷臺達，至少14名胡塞武裝人員在炮擊和無人機襲擊中被打死。根據“民族抵抗力量”組織發表的宣告，該組織25日對荷臺達市以南的胡塞武裝相關目標實施了一系列炮擊和無人機襲擊，打擊了包括指揮和控制中心在內的重要陣地。襲擊擊中預定目標，至少14名胡塞武裝人員被打死，至少19人受傷。截至目前，胡塞武裝尚未對此次襲擊及人員傷亡情況作出回應。（新華社）"
+    },
+    {
+      "id": "5058833",
+      "time": "2026-08-26 10:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股震盪走高，漲逾2%。訊息面上，馬雲連日買入阿里港股超6億港元。"
+    },
+    {
+      "id": "5058832",
+      "time": "2026-08-26 10:01:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【民爆光電：收購廈芝精密剩餘49%股權正在積極推進中】民爆光電(301362)近日在業績說明會上表示，以發行股份方式收購廈芝精密剩餘49%股權正在積極推進過程中，截至目前核心交易條款沒有發生變化。廈芝精密高階產品主要涵蓋AI伺服器PCB加工用鑽針、IC載板極小徑微鑽、高階塗層鑽針等，目前該類產品已成為公司業績增長的核心驅動力。"
+    },
+    {
+      "id": "5058831",
+      "time": "2026-08-26 10:00:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池概念震盪拉昇 上海洗霸3天2板】固態電池概念震盪拉昇，上海洗霸3天2板，力王股份、宏工科技漲超10%，靈鴿科技、鼎勝新材、納科諾爾、德新科技跟漲。"
+    },
+    {
+      "id": "mkt:01a03bcc-14a1-7aab-911e-78dcc5dc74f0",
+      "time": "2026-08-26 10:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump's Wednesday schedule】Beijing time Aug 26 20:00 — White House administrative duties; 21:00 — live interview on Glenn Beck; 23:00 — intelligence briefing, Oval Office; Beijing time Aug 27 02:00 — signing ceremony, Oval Office; 03:00 — policy meeting, Oval Office; 04:00 — media interview, Oval Office."
+    },
+    {
+      "id": "mkt:01a03bcb-99e8-7aab-911e-74e844cc72b9",
+      "time": "2026-08-26 09:59:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports Russia and Ukraine are discussing prisoner-of-war exchanges."
+    },
+    {
+      "id": "5058830",
+      "time": "2026-08-26 09:59:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息稱有亞洲貨主支付創紀錄的530萬美元以透過巴拿馬運河】據知情人士透露，一個亞洲貨主同意支付 530 萬美元，以便於於 9 月 1 日透過巴拿馬運河。該費用是透過運河管理部門組織的拍賣確定的，打破了此前 460 萬美元的最高紀錄。伊朗戰事擾亂了全球貿易路線，特別是通往亞洲的貿易路線，此後透過巴拿馬運河的需求激增，沒有預約的船隻在運河的等待時間長達 17 天。"
+    },
+    {
+      "id": "mkt:01a03bca-6512-7aab-911e-6c8902d29ffc",
+      "time": "2026-08-26 09:58:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver's intraday gain widened to 1.00%, trading at $69.35/oz. Spot gold rose roughly $10 intraday to $4,659.35/oz."
+    },
+    {
+      "id": "5058829",
+      "time": "2026-08-26 09:58:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電池板塊短線走高 宏工科技、力王股份漲超10%】電池板塊短線走高，宏工科技、力王股份漲超10%，領湃科技、德新科技、利元亨、先惠技術、納科諾爾等跟漲。"
+    },
+    {
+      "id": "5058828",
+      "time": "2026-08-26 09:58:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報69.36美元/盎司。"
+    },
+    {
+      "id": "5058826",
+      "time": "2026-08-26 09:58:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報70.17美元/盎司。"
+    },
+    {
+      "id": "5058825",
+      "time": "2026-08-26 09:57:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯與烏克蘭商討戰俘交換事宜。"
+    },
+    {
+      "id": "5058824",
+      "time": "2026-08-26 09:55:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應對厄爾尼諾威脅 巴拿馬宣佈全國進入緊急狀態】當地時間8月25日，巴拿馬內閣會議宣佈全國進入緊急狀態，以應對厄爾尼諾現象引發的極端天氣及其帶來的社會經濟和環境影響。巴拿馬政府部長迪諾斯卡·蒙塔爾沃表示，宣佈緊急狀態是為了提前應對厄爾尼諾可能在全國造成的不同影響，包括在降雨高於平均水平地區可能出現的洪水和山體滑坡，以及在降雨不足地區可能發生的乾旱。"
+    },
+    {
+      "id": "5058823",
+      "time": "2026-08-26 09:54:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯強烈譴責以方強行進入聯合國設施】當地時間25日，聯合國秘書長發言人迪雅裡克表示，聯合國秘書長古特雷斯當天以最強烈措辭譴責以色列對一個聯合國近東巴勒斯坦難民救濟和工程處培訓營地的拆除行動。聯合國表示，以方的行動將使當地年輕人無法繼續接受相關職業教育。古特雷斯敦促以色列政府立即停止對近東救濟工程處設施的干涉，撤離相關場所，並將受到影響的設施歸還聯合國、恢復原狀，同時保護這些場所免受進一步干擾或破壞。"
+    },
+    {
+      "id": "5058822",
+      "time": "2026-08-26 09:54:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列開始拆除聯合國近東救濟工程處一下屬機構】以色列總理內塔尼亞胡25日發表宣告稱，當天啟動了針對聯合國近東巴勒斯坦難民救濟和工程處（近東救濟工程處）一個下屬機構的“撤離工作”。宣告稱，以色列“絕不允許一個其僱員參與恐怖主義和（2023年）10月7日大屠殺的組織在以色列領土內運作”，為此將動用一切手段對其採取行動。"
+    },
+    {
+      "id": "te:markets:578086",
+      "time": "2026-08-26 09:54:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Extend Decline — European natural gas prices dropped more than 4% to below €64 per megawatt-hour on Wednesday, extending losses from the previous session as signs of progress in the Middle East talks eased fears of a squeeze on energy supplies. Pakistan said Tuesday that it had made significant progress in talks with Tehran aimed at ending the war. At the same time, Iran’s and Oman’s foreign ministers said that they discussed plans for a temporary transit corridor through the Strait of Hormuz, along with a project to clear mines from the waterway. The US decision to return diplomats to the Middle East also allayed fears of a further escalation in the conflict. However, supply risks remain as the ongoing maritime blockade continues to disrupt physical LNG flows from the Persian Gulf, with shipments from major exporter Qatar facing severe delays. Persistent hot weather across Europe is also driving higher electricity demand for cooling, slowing the pace of seasonal gas storage injections."
+    },
+    {
+      "id": "5058821",
+      "time": "2026-08-26 09:54:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本醫療研究開發機構將在美國設立基地，吸引對醫藥初創企業的投資。"
+    },
+    {
+      "id": "te:economy:578085",
+      "time": "2026-08-26 09:53:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Australia Q2 Construction Output Unexpectedly Falls — Total construction work in Australia declined 2.1% quarter-on-quarter to AUD 82,515.9 million in Q2 2026, reversing an upwardly revised 4.3% expansion in the previous quarter and defying market expectations for a 0.5% increase. It marked the first contraction since Q3 2025, driven largely by a sharp downturn in engineering work, which fell 6.0% after surging 7.4% in Q1, to AUD 36,672.2 million. Meanwhile, building construction growth eased to 1.3% from 1.7%, reaching AUD 45,843.7 million. Non-residential building slowed sharply, rising just 0.5% after a 3.4% gain in the prior quarter, although residential construction accelerated to 1.7% from 0.6%. Regionally, activity fell sharply in Western Australia (-19.7%), followed by Tasmania (-9.5%) and the Australian Capital Territory (-8.8%). In contrast, construction output expanded in Victoria (5.8%), Northern Territory (2.7%), South Australia (1.6%), New South Wales (1.4%), and Queensland (1.1%)."
+    },
+    {
+      "id": "5058820",
+      "time": "2026-08-26 09:53:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中創新航在合肥新設技術研究院公司】企查查APP顯示，近日，中創新航技術研究院（合肥）有限公司成立，經營範圍包含：新興能源技術研發；新材料技術研發；新材料技術推廣服務；電池製造等。企查查股權穿透顯示，該公司由中創新航（03931.HK）全資持股。"
+    },
+    {
+      "id": "mkt:01a03bc5-3226-7aab-911e-665113475955",
+      "time": "2026-08-26 09:52:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Most-active propylene contract hit the daily down limit, falling 6.0% to 7,689 yuan/ton."
+    },
+    {
+      "id": "5058819",
+      "time": "2026-08-26 09:52:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量188億元。"
+    },
+    {
+      "id": "mkt:01a03bc4-296c-7aab-911e-5a952cf7dd0f",
+      "time": "2026-08-26 09:51:46",
+      "tags": [
+        "MKT News",
+        "SKIET.KS"
+      ],
+      "text": "SK Innovation will hold a shareholders' meeting next month to explain its proposed merger plan for SKIET."
+    },
+    {
+      "id": "5058818",
+      "time": "2026-08-26 09:51:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色板塊拉昇，金誠信、精藝股份漲停】有色板塊拉昇，金誠信、精藝股份漲停，江西銅業、電工合金、雲南銅業、北方銅業等漲幅居前。"
+    },
+    {
+      "id": "5058817",
+      "time": "2026-08-26 09:51:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南裕能：7月以來下游需求依然旺盛 公司處於滿產狀態】湖南裕能(301358)8月25日舉行業績說明會，就“公司在7月對下游客戶發了漲價函，客戶的接受情況、落地節奏大概是什麼狀態”等問題，湖南裕能表示，本輪價格調整落地情況良好。進入7月以來，下游需求依然旺盛，公司處於滿產狀態。另外，公司稱，明年市場需求預計至少還會保持30%以上的增速，特別是高階磷酸鐵鋰產品的需求增速會更高。公司的高階產品供不應求，會根據市場需求情況穩步推進新建產能。"
+    },
+    {
+      "id": "5058816",
+      "time": "2026-08-26 09:51:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【米哈遊公佈全新奇幻寫實動作遊戲《源初之結》】當地時間8月25日晚，米哈遊在2026年科隆遊戲展（Gamescom 2026）正式公佈旗下全新遊戲《源初之結》（NODUSFALL），併發布遊戲首支宣傳片。目前，《源初之結》官方社交媒體賬號源初之結已在全平臺開設。《源初之結》是一款以世界多元神話為題材，聚焦多人合作的奇幻寫實動作遊戲。"
+    },
+    {
+      "id": "mkt:01a03bc3-79fa-7aab-911e-5311b9c4b63d",
+      "time": "2026-08-26 09:51:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan 20-year government bond yield fell 2.0bps to 4.040%."
+    },
+    {
+      "id": "5058815",
+      "time": "2026-08-26 09:51:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格力技工學校成立：註冊資本1億元 董明珠出任董事長、法定代表人】企查查APP顯示，近日，珠海市格力技工學校有限公司成立，註冊資本1億元，經營範圍包含營利性民辦技工院校、業務培訓、教學專用儀器製造、教學專用儀器銷售、教育諮詢服務等，由董明珠出任董事長、經理、法定代表人。"
+    },
+    {
+      "id": "5058814",
+      "time": "2026-08-26 09:50:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬小利獲任招商證券董事會秘書】招商證券於8月25日釋出公告，因工作安排，劉傑不再擔任公司董事會秘書、聯席公司秘書、香港聯交所授權代表等職務，仍擔任公司副總裁、財務負責人。同時，公司聘任馬小利為公司董事會秘書、聯席公司秘書、香港聯交所授權代表。履歷顯示，馬小利1999年10月加入招商證券，2024年11月起任公司辦公室總經理。2025年12月至2026年8月任公司職工代表董事。"
+    },
+    {
+      "id": "mkt:01a03bc3-4e25-7aab-911e-4918fe465c98",
+      "time": "2026-08-26 09:50:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY fell to 159, down 0.10% intraday."
+    },
+    {
+      "id": "5058813",
+      "time": "2026-08-26 09:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻創新藥、疫苗ETF領漲】生物製品、生物醫藥板塊漲幅居前。恒生創新藥ETF（520500）、港股通創新藥ETF（159506）、疫苗ETF（562860）等多隻ETF漲超4%。"
+    },
+    {
+      "id": "5058812",
+      "time": "2026-08-26 09:50:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債<JP20YTN=JBTC>收益率下跌2個基點，至4.040%。"
+    },
+    {
+      "id": "5058811",
+      "time": "2026-08-26 09:50:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK創新：將於下月召開股東大會，就合併計劃作出說明。"
+    },
+    {
+      "id": "mkt:01a03bc2-ab3f-7aab-911e-45fad1b98275",
+      "time": "2026-08-26 09:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index reclaimed 3,900, up 0.43%; China's Shenzhen Composite Index rose 0.61% and the ChiNext Index gained 0.59%."
+    },
+    {
+      "id": "5058810",
+      "time": "2026-08-26 09:50:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟365：維護相關操作對微軟Teams服務造成了非預期影響，導致亞太地區使用者出現功能降級問題。"
+    },
     {
       "id": "mkt:01a03bc2-7c61-7aab-911e-3c94ab84b846",
       "time": "2026-08-26 09:49:56",
@@ -10,6 +529,14 @@
         "MSFT.O"
       ],
       "text": "Microsoft 365 said a maintenance activity unexpectedly impacted Teams, degrading functionality for users in the Asia-Pacific region. The maintenance has been paused and service restored to standard availability."
+    },
+    {
+      "id": "5058809",
+      "time": "2026-08-26 09:49:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟365：維護工作已結束，服務已恢復至正常可用水平。"
     },
     {
       "id": "mkt:01a03bc2-619e-7aab-911e-33f0d174a10e",
