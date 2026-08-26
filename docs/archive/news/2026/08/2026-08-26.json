@@ -1,7 +1,450 @@
 {
   "date": "2026-08-26",
-  "count": 1566,
+  "count": 1616,
   "items": [
+    {
+      "id": "5059393",
+      "time": "2026-08-26 16:01:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數下跌，網易跌2%】美股中概股盤前多數下跌，貝殼漲2%，拼多多漲0.1%，攜程跌0.3%，阿里巴巴跌0.4%，京東、嗶哩嗶哩、百度跌1%，網易跌2%。"
+    },
+    {
+      "id": "5059392",
+      "time": "2026-08-26 16:01:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數下跌，SK海力士跌0.9%】美股大型科技股盤前多數下跌，英偉達漲0.3%，SpaceX漲0.1%，Meta、亞馬遜、特斯拉持平，蘋果、谷歌A跌0.1%，微軟跌0.4%，美光科技跌0.5%，SK海力士跌0.9%。"
+    },
+    {
+      "id": "5059391",
+      "time": "2026-08-26 16:01:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜蘋果微軟戴爾集體漲價 機構預測：全球記憶體緊缺或持續至2027年】AI算力需求的急劇增長，令儲存晶片價格大幅走高，上游漲價壓力向下遊終端傳導。近期，亞馬遜上調多款硬體產品售價。其中，Echo系列智慧音箱中銷量最大的入門款漲幅最高，從49.99美元漲至79.99美元，約合人民幣538元，漲幅約60%。16GB基礎版電子書閱讀器，從109.99美元漲至149.99美元，約合人民幣1000元，漲幅約36%。在亞馬遜提價之前，蘋果、微軟、戴爾等科技企業已透過上調產品售價、縮減硬體標配記憶體等方式應對成本壓力。市場調研機構IDC此前預警稱，全球記憶體緊缺的情況可能將持續至2027年，行業預測顯示，儲存晶片價格有可能在2028年觸頂後逐步回落企穩。（央視財經）"
+    },
+    {
+      "id": "5059390",
+      "time": "2026-08-26 16:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：銅庫存減少1250噸，鋅庫存增加2275噸，鎳庫存減少54噸，錫庫存減少35噸，鋁庫存持平，鉛庫存減少1600噸。"
+    },
+    {
+      "id": "mkt:01a03d16-4fb5-7aab-9127-26cf5fbc0c26",
+      "time": "2026-08-26 16:01:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME inventories: copper down 1,250 tonnes, zinc up 2,275 tonnes, nickel down 54 tonnes, tin down 35 tonnes, aluminium unchanged, lead down 1,600 tonnes."
+    },
+    {
+      "id": "5059389",
+      "time": "2026-08-26 16:01:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中曼石油：股東朱逢學減持3%股份 減持計劃實施完畢】中曼石油公告稱，股東朱逢學減持計劃已實施完畢。2026年5月27日至8月25日，朱逢學透過集中競價交易方式減持公司股份462.30萬股，佔公司總股本的1.00%；透過大宗交易方式減持公司股份924.60萬股，佔公司總股本的2.00%；合計減持1386.90萬股，佔公司總股本的3.00%，減持總金額2.97億元，減持價格區間為19.20~26.85元/股。本次減持後，朱逢學持有公司股份556.34萬股，佔公司總股本的1.20%。"
+    },
+    {
+      "id": "te:economy:578194",
+      "time": "2026-08-26 16:00:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yields Fall as Oil Prices Drop — German 10-year Bund yields eased to 3.2%, near their lowest level since August 14, as falling oil prices raised hopes that the Strait of Hormuz could reopen, while traders assessed the outlook for ECB interest rates. Iran said it had resumed talks with Oman on managing the Strait, reviving optimism that the key waterway could reopen and ease disruptions to energy shipments. Meanwhile, Reuters reported that ECB policymakers are prepared to raise rates at their September meeting to contain the economic fallout from the Iran war, but are reluctant to signal further tightening thereafter. Separately, ECB board member Isabel Schnabel said rates may need to rise further as the Middle East conflict persists, citing upside risks to inflation from the resilient euro-area economy. Money markets were pricing less than 40 bps of additional ECB tightening by year-end, with a September rate hike nearly fully priced in."
+    },
+    {
+      "id": "5059388",
+      "time": "2026-08-26 16:00:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【石藥創新：控股子公司藥物獲美國FDA快速通道資格】石藥創新(300765.SZ)公告稱，公司控股子公司巨石生物研發的首創PD-1/IL-15雙特異性融合蛋白SYS6090(JMT108)獲美國FDA授予快速通道資格，用於治療既往經標準系統性治療後出現疾病進展的微衛星穩定或錯配修復功能完整型轉移性結直腸癌患者。該資格有助於加快藥物開發與審批程序，但最終獲批上市仍存在不確定性。"
+    },
+    {
+      "id": "mkt:01a03d16-1005-7aab-9127-1a73bcdfe4c8",
+      "time": "2026-08-26 16:00:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Switzerland August ZEW economic current-conditions index 8.8, previous 6.7."
+    },
+    {
+      "id": "mkt:01a03d15-f1f0-7aab-9127-15eb9bcb5e9d",
+      "time": "2026-08-26 16:00:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | ZEW Current Conditions (Aug) | actual 8.8 | previous 6.7"
+    },
+    {
+      "id": "5059387",
+      "time": "2026-08-26 16:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤上漲1.7%，報1821.32點。"
+    },
+    {
+      "id": "te:markets:578193",
+      "time": "2026-08-26 16:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Heating Oil Drops by 3.75% — Top commodity losers are Heating Oil (-3.75%), Natural Gas UK (-3.42%), Natural Gas EU (-3.39%), Crude Oil WTI (-3%) and Brent Crude Oil (-2.90%). Gains are led by Natural gas (0.95%)."
+    },
+    {
+      "id": "mkt:01a03d15-648d-7aab-9127-095777616b60",
+      "time": "2026-08-26 16:00:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland Aug ZEW investor confidence index 12.1, prior 10."
+    },
+    {
+      "id": "5059386",
+      "time": "2026-08-26 16:00:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞士8月ZEW投資者信心指數 12.1，前值10。"
+    },
+    {
+      "id": "mkt:01a03d15-558b-7aab-9127-078aeca552a1",
+      "time": "2026-08-26 16:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【End‑July Yangtze River Delta deposits 92.14 trillion yuan, +8.9% YoY】PBOC Shanghai reported end‑July deposits in the Yangtze River Delta (yuan and foreign currency) at 92.14 trillion yuan, up 8.9% YoY. RMB deposits 89.01 trillion yuan, +8.8% YoY; foreign‑currency deposits $460.5 billion, +17.6% YoY."
+    },
+    {
+      "id": "mkt:01a03d15-496d-7aab-9126-feb669abc0db",
+      "time": "2026-08-26 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | ZEW Economic Sentiment (Aug) | actual 12.1 | previous 10"
+    },
+    {
+      "id": "5059385",
+      "time": "2026-08-26 15:59:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【採納股份：全資子公司取得一次性使用人體動脈血樣採集器醫療器械註冊證】採納股份(301122.SZ)公告稱，公司全資子公司江蘇採納醫療科技有限公司於近日收到國家藥品監督管理局頒發的《中華人民共和國醫療器械註冊證》，產品名稱為一次性使用人體動脈血樣採集器，註冊分類為Ⅲ類，有效期至2031年8月23日。"
+    },
+    {
+      "id": "5059384",
+      "time": "2026-08-26 15:59:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南部戰區任務部隊全力投入廣西防汛救災】連日來，受颱風 “紫檀” 帶來的強降雨侵襲，廣西崇左、南寧、防城港等市汛情告急，多條河流發生超警洪水，部分割槽域受淹內澇，防汛形勢十分嚴峻。面對突發洪澇災情，南部戰區任務部隊官兵聞令出征、向險而行，火速馳援廣西各受災點位，與時間賽跑、同洪魔較量，全力投入抗洪搶險，守護駐地群眾生命財產安全。（南部戰區）"
+    },
+    {
+      "id": "5059383",
+      "time": "2026-08-26 15:59:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月末長三角地區本外幣各項存款餘額92.14萬億元 同比增長8.9%】中國人民銀行上海總部發布2026年7月長三角地區貨幣信貸執行情況。7月末，長三角地區本外幣各項存款餘額92.14萬億元，同比增長8.9%。其中，人民幣存款餘額89.01萬億元，同比增長8.8%；外幣存款餘額4605億美元，同比增長17.6%。"
+    },
+    {
+      "id": "5059382",
+      "time": "2026-08-26 15:58:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方環宇：上半年歸母淨利潤1.23億元，同比下降0.78%】東方環宇8月26日披露半年報，公司上半年實現營業收入6.39億元，同比下降9.14%；歸屬於上市公司股東的淨利潤1.23億元，同比下降0.78%；基本每股收益0.65元/股。"
+    },
+    {
+      "id": "5059381",
+      "time": "2026-08-26 15:58:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新大洲A：2026年上半年虧損6317.22萬元，上年同期虧損7807.08萬元】新大洲A公告，2026年上半年營業收入3.53億元，同比增長40.20%；歸屬於上市公司股東的淨利潤虧損6317.22萬元，上年同期虧損7807.08萬元；扣除非經常性損益的淨利潤虧損5647.32萬元，上年同期虧損7032.24萬元。營業收入增長主要系五九集團煤炭銷售收入增加所致。"
+    },
+    {
+      "id": "5059380",
+      "time": "2026-08-26 15:58:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江正特：2026年上半年淨利潤5464.86萬元，同比下降22.49%】浙江正特公告，2026年上半年營業收入13.09億元，同比增長25.62%；歸屬於上市公司股東的淨利潤5464.86萬元，同比下降22.49%，2025年同期為7050.88萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5466.37萬元，同比下降20.78%，2025年同期為6899.99萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059379",
+      "time": "2026-08-26 15:58:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全信股份：2026年上半年淨利潤2619.21萬元，同比增長18.87%】全信股份公告，2026年上半年營業收入4.25億元，同比下降4.44%；歸屬於上市公司股東的淨利潤2619.21萬元，同比增長18.87%，2025年同期2203.43萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2386.22萬元，同比增長8.03%，2025年同期2208.87萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059377",
+      "time": "2026-08-26 15:57:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部創業：2026年上半年淨利潤7428.73萬元，同比下降74.78%】西部創業公告，2026年上半年營業收入7.07億元，同比增長10.24%；歸屬於上市公司股東的淨利潤7428.73萬元，同比下降74.78%，2025年同期為2.95億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7347.72萬元，同比下降44.80%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059376",
+      "time": "2026-08-26 15:57:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【生意寶：2026年上半年淨利潤304.8萬元，同比扭虧為盈】生意寶公告，2026年上半年營業收入3.9億元，同比增長27.46%；歸屬於上市公司股東的淨利潤304.8萬元，2025年同期虧損704.3萬元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損214.63萬元，2025年同期虧損1557.53萬元。"
+    },
+    {
+      "id": "5059375",
+      "time": "2026-08-26 15:57:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煒岡科技：2026年上半年淨利潤1.61億元，同比增長215.04%】煒岡科技公告，2026年上半年營業收入3.09億元，同比增長19.06%；歸屬於上市公司股東的淨利潤1.61億元，同比增長215.04%，2025年上半年為5111.19萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤6711萬元，同比增長33.71%，2025年上半年為5019.01萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059374",
+      "time": "2026-08-26 15:57:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【醋化股份：2026年上半年淨利潤虧損606.97萬元，同比由盈轉虧】醋化股份公告，2026年上半年營業收入14.14億元，同比增長1.10%；歸屬於上市公司股東的淨利潤虧損606.97萬元，2025年上半年為260.87萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1447.71萬元，2025年上半年虧損658.35萬元。公司本報告期內不進行利潤分配及公積金轉增股本。"
+    },
+    {
+      "id": "5059373",
+      "time": "2026-08-26 15:56:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車：將於8月31日登出130萬股普通股、120萬股優先股。"
+    },
+    {
+      "id": "5059372",
+      "time": "2026-08-26 15:56:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煌上煌：網傳收購帝煌烤滷不實 暫無併購鮮滷品牌規劃】煌上煌在互動平臺表示，網傳收購帝煌烤滷的傳聞不實，公司暫無此次收購意向。公司正自主佈局打造自有熱滷門店，深耕熱滷賽道，暫無併購區域網紅鮮滷品牌的規劃。未來如有併購、業務拓展等相關安排，公司將按照監管要求及時披露。"
+    },
+    {
+      "id": "mkt:01a03d12-2b65-7aab-9126-f07ba87beee4",
+      "time": "2026-08-26 15:56:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact mixed",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【Moonshot AI in talks with US cloud giants for up to 30% revenue share on Kimi K3 model】Moonshot AI is negotiating revenue‑sharing agreements with Microsoft Azure, Amazon Web Services and Google Cloud to permit those providers to host its Kimi K3 model, seeking up to a 30% cut of K3‑related service revenue, people familiar with the matter told foreign media. If concluded, the deals would be among the first significant revenue‑sharing arrangements between a Chinese AI company and major U.S. cloud providers; Moonshot has already signed similar agreements with smaller cloud platforms, and Alibaba is also seeking revenue‑share deals with major users of its new open‑source AI model, the sources said."
+    },
+    {
+      "id": "mkt:01a03d11-f601-7aab-9126-ed1a3e914c3b",
+      "time": "2026-08-26 15:56:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand says there is no need to raise interest rates."
+    },
+    {
+      "id": "5059371",
+      "time": "2026-08-26 15:56:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：無需加息。"
+    },
+    {
+      "id": "te:markets:578190",
+      "time": "2026-08-26 15:56:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Higher — The FTSE MIB edged higher to around 52,700 on Wednesday, loosely extending gains from the previous session, as falling oil prices pushed bond yields lower on optimism that energy flows could resume through the Strait of Hormuz after Iran and Oman discussed an interim framework. Oil major Eni declined more than 1%, tracking falling crude prices. Meanwhile, tech stocks Prysmian (+0.5%) and STMicroelectronics (+0.1%) edged higher ahead of Nvidia’s earnings, which could offer fresh signals on the AI boom. Financial stocks were also mostly in the green, including Banca MPS (+0.2%), Banco BPM (+0.4%), Mediobanca (+0.3%), Intesa Sanpaolo (+0.3%), and Generali (+0.6%), as markets continued to track the ongoing banking consolidation. Other notable gainers included luxury names Moncler and Brunello Cucinelli, both up more than 1%."
+    },
+    {
+      "id": "mkt:01a03d11-ca2f-7aab-9126-e3e473f73d4c",
+      "time": "2026-08-26 15:56:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US ambassador to Lebanon said pilot areas have shown progress, but implementing the plans on paper will take time."
+    },
+    {
+      "id": "5059370",
+      "time": "2026-08-26 15:55:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【首創期貨：地緣局勢緩和，PX期價盤中一度跌停】成本方面，美國提議解除封鎖和制裁，來換取伊朗開放霍爾木茲海峽。據外媒美伊已就停火協議條款達成共識，內容包括霍爾木茲海峽的自由航行。伊朗與阿曼就霍爾木茲海峽臨時新航線達成諒解，後續將就劃設一條新的永久航線展開談判。地緣局勢緩和，海峽恢復通航預期上升，國際油價大幅下挫。供應方面，揚子石化89萬噸推遲重啟；海南煉化其100萬噸6月2日-9月中旬停車檢修，另一套66萬噸6月底-10月上旬停車；福化集團一條80萬噸重啟，另一條80萬噸計劃8月底9月初重啟；盛虹煉化一條200萬噸已重啟，另一條200萬噸計劃下週重啟。泰國PTTG一條77萬噸計劃下週停車。上週亞洲PX負荷環比下降1.1個百分點，國內PX負荷環比穩中略降0.1個百分點。隨著裝置陸續重啟，國內PX負荷將進一步提升。需求方面，上週國內PTA負荷環比提升1.9個百分點。月底前仍有多套PTA裝置計劃重啟，未來PTA負荷將進一步提升。下游聚酯負荷小幅下降0.2個百分點。綜合看，地緣局勢緩和，海峽恢復通航預期上升，油價遭遇重挫，引發能化板塊集體下跌。且隨著檢修裝置陸續重啟，PX供應快速提升。預計短期PX期價震盪調整，關注地緣局勢進展、原油價格走勢及產業鏈裝置變動情況。（首創期貨）"
+    },
+    {
+      "id": "te:markets:578188",
+      "time": "2026-08-26 15:55:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Moves Lower — The DAX 40 edged lower to around 26,200 on Wednesday, reversing modest gains in the prior day, as investors turned more cautious ahead of Nvidia’s earnings report and the start of the central bankers’ meeting in Jackson Hole. Meanwhile, ongoing Iran-Oman talks over the reopening of the Strait of Hormuz eased concerns about energy supply, sending oil prices and bond yields lower. Among stocks, software giant SAP dropped over 3%, making it the worst performer, after UBS downgraded the stock to Neutral from Buy, citing slow progress in agency AI and weaker cloud backlog growth."
+    },
+    {
+      "id": "5059369",
+      "time": "2026-08-26 15:55:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三佳科技：2026年上半年淨利潤575.15萬元，同比增長198.22%】三佳科技公告，2026年上半年營業收入2.28億元，同比增長51.01%；歸屬於上市公司股東的淨利潤575.15萬元，同比增長198.22%；歸屬於上市公司股東的扣除非經常性損益的淨利潤411.16萬元，同比增長315.86%。"
+    },
+    {
+      "id": "5059368",
+      "time": "2026-08-26 15:55:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州燃氣：2026年上半年淨利潤6582.46萬元，同比下降30.58%】貴州燃氣公告，2026年上半年營業收入32.76億元，同比下降10.70%；歸屬於上市公司股東的淨利潤6582.46萬元，同比下降30.58%，2025年同期為9482.07萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5755.27萬元，同比下降31.54%。公司擬派發現金股利1262.22萬元（含稅）。"
+    },
+    {
+      "id": "5059367",
+      "time": "2026-08-26 15:54:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北元化工：2026年上半年淨利潤7290.72萬元，同比下降47.27%】北元化工公告，2026年上半年營業收入43.67億元，同比下降4.36%；歸屬於上市公司股東的淨利潤7290.72萬元，同比下降47.27%，2025年同期為1.38億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3778.23萬元，同比下降72.80%，2025年同期為1.39億元。"
+    },
+    {
+      "id": "5059366",
+      "time": "2026-08-26 15:54:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【誠意藥業：2026年上半年淨利潤9486.87萬元，同比下降15.61%】誠意藥業公告，2026年上半年營業收入4.32億元，同比增長3.63%；歸屬於上市公司股東的淨利潤9486.87萬元，同比下降15.61%；歸屬於上市公司股東的扣除非經常性損益的淨利潤9244.59萬元，同比下降16.83%。"
+    },
+    {
+      "id": "5059365",
+      "time": "2026-08-26 15:54:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康芝藥業：2026年上半年虧損3276.65萬元，2025年同期虧損5408.17萬元】康芝藥業公告，2026年上半年營業收入1.45億元，同比下降37.67%；歸屬於上市公司股東的淨利潤虧損3276.65萬元，2025年同期虧損5408.17萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4143.07萬元，2025年同期虧損5600.71萬元。"
+    },
+    {
+      "id": "5059364",
+      "time": "2026-08-26 15:54:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永達股份：2026年上半年淨利潤347.89萬元，同比下降94.01%】永達股份公告，2026年上半年營業收入10.63億元，同比增長4.06%；歸屬於上市公司股東的淨利潤347.89萬元，同比下降94.01%，2025年同期為5807.9萬元；扣除非經常性損益的淨利潤130.66萬元，同比下降96.51%。公司擬發行股份及支付現金收購金源裝備49.00%股權並募集配套資金，目前正有序推進相關工作，已申請延期不超過30日回覆深交所問詢函。"
+    },
+    {
+      "id": "5059363",
+      "time": "2026-08-26 15:54:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山河智慧：2026年上半年淨利潤1263.82萬元，同比下降74.66%】山河智慧公告，2026年上半年營業收入36.58億元，同比增長7.23%；歸屬於上市公司股東的淨利潤1263.82萬元，同比下降74.66%，2025年同期4988.1萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.12億元，2025年同期虧損1098.1萬元。"
+    },
+    {
+      "id": "5059362",
+      "time": "2026-08-26 15:54:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬鷂環保：2026年半年度淨利潤1.62億元，同比下降12.59%】鵬鷂環保公告，2026年半年度營業收入7.74億元，同比增長3.27%；歸屬於上市公司股東的淨利潤1.62億元，同比下降12.59%，2025年同期為1.85億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.56億元，同比增長61.54%。公司擬以7.53億股為基數，每10股派發現金紅利0.5元（含稅），送紅股0股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5059361",
+      "time": "2026-08-26 15:54:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力星股份：2026年上半年淨利潤2121.36萬元，同比下降43.52%】力星股份公告，2026年上半年營業收入5.49億元，同比增長2.62%；歸屬於上市公司股東的淨利潤2121.36萬元，同比下降43.52%，2025年同期3755.78萬元；扣除非經常性損益的淨利潤1806.24萬元，同比下降47.01%，2025年同期3408.79萬元。公司擬向特定物件發行A股股票，募集資金總額不超過5.6億元，相關議案已獲股東會審議透過，尚需履行深交所稽核、中國證監會註冊程式。"
+    },
+    {
+      "id": "5059360",
+      "time": "2026-08-26 15:54:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "SHEIN的現有投資者據悉同意IPO新股六個月鎖定期。"
+    },
+    {
+      "id": "mkt:01a03d0f-7bf8-7aab-9126-d8d3372ea359",
+      "time": "2026-08-26 15:53:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources say ARAMCO is offering Arabian Medium and Heavy crude for September loading to Asian refiners."
+    },
+    {
+      "id": "mkt:01a03d0f-7ad4-7aab-9126-d1e407006209",
+      "time": "2026-08-26 15:53:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Laike Electric: 1H net profit 232 mln yuan, down 45.8% YoY】Laike Electric on Aug. 26 reported 1H2026 revenue of 4.657 bln yuan, down 2.6% YoY, and net profit attributable to shareholders of 232 mln yuan, down 45.8% YoY; basic EPS 0.40 yuan. The company recorded exchange losses of 389 mln yuan in the period versus an exchange gain of 17.46 mln yuan a year earlier; excluding FX effects, net profit attributable rose 36.2% YoY."
+    },
+    {
+      "id": "5059358",
+      "time": "2026-08-26 15:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，沙特阿美向亞洲煉油商提供9月裝船的阿拉伯中質原油與重質原油。"
+    },
+    {
+      "id": "5059357",
+      "time": "2026-08-26 15:53:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中牧股份：控股子公司獲戊巴比妥鈉新獸藥註冊證書】中牧股份公告稱，公司控股子公司湖北中牧安達藥業有限公司與其他單位聯合申報的戊巴比妥鈉獲農業農村部批准為三類新獸藥，核發《新獸藥註冊證書》，證書號為(2026)新獸藥證字83號，監測期3年。該產品屬中效巴比妥類中樞鎮靜藥物，用於實驗動物安樂死。截至目前，湖北中牧安達藥業有限公司該產品研發費用為22.58萬元。"
+    },
     {
       "id": "5059356",
       "time": "2026-08-26 15:52:50",
