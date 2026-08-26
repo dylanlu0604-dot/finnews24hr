@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-27 06:23:07",
+  "updated": "2026-08-27 06:27:11",
   "count": 16743,
   "items": [
+    {
+      "id": "mkt:01a0402c-0a24-7aab-9139-c68ee2e17017",
+      "time": "2026-08-27 06:23:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "HPQ.N",
+        "Impact bullish"
+      ],
+      "text": "HP (HPQ.N) top executive said workloads are shifting from the cloud to endpoint devices, and AI PCs now deliver more value than last year."
+    },
     {
       "id": "5060977",
       "time": "2026-08-27 06:21:44",
@@ -151079,14 +151091,6 @@
         "國際"
       ],
       "text": "據Axios記者：敘利亞過渡政府外交部長希巴尼在八份書面答覆中的一份中表示，土耳其無意在該地設立基地，也不打算在此建立土耳其永久軍事存在或部署土耳其軍隊。"
-    },
-    {
-      "id": "5048670",
-      "time": "2026-08-20 06:24:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本經濟產業省擬在 2027 財年預算中申請 7.7 萬億日元。"
     }
   ]
 }

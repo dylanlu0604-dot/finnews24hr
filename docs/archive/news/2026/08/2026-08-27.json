@@ -1,7 +1,19 @@
 {
   "date": "2026-08-27",
-  "count": 477,
+  "count": 478,
   "items": [
+    {
+      "id": "mkt:01a0402c-0a24-7aab-9139-c68ee2e17017",
+      "time": "2026-08-27 06:23:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "HPQ.N",
+        "Impact bullish"
+      ],
+      "text": "HP (HPQ.N) top executive said workloads are shifting from the cloud to endpoint devices, and AI PCs now deliver more value than last year."
+    },
     {
       "id": "5060977",
       "time": "2026-08-27 06:21:44",
