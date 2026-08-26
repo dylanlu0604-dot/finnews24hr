@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-26 23:16:34",
+  "updated": "2026-08-26 23:20:53",
   "count": 16736,
   "items": [
+    {
+      "id": "mkt:01a03ea8-343c-7aab-9133-37a8bca57fe4",
+      "time": "2026-08-26 23:20:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KPLER: Middle East refining capacity remains well below pre-war levels】KPLER chief analyst Sumit Ritolia said Middle East refining capacity is around 7.3 mln bpd versus 9.9 mln bpd in February 2026, driven by damaged refineries and constrained shipments through the Strait of Hormuz. KPLER expects gradual improvement from Q4 2026 but sees pre-war capacity unlikely to return before Q2 2027. Short-term recovery is logistics-driven; full normalization requires repair of damaged capacity. The base case assumes transport disruptions persist through 2026, easing only late in Q4, after which remaining damaged capacity will be the main constraint until about Q2 2027."
+    },
+    {
+      "id": "5060618",
+      "time": "2026-08-26 23:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普證實中情局局長訪俄】美國總統特朗普26日證實美國中央情報局局長拉特克利夫日前訪問俄羅斯，並稱此訪“可能會取得一些成果”，但沒有作進一步說明。特朗普當天在接受一家電臺節目採訪時稱拉特克利夫此訪“算是半例行性的”。他隨後暗示拉特克利夫的訪問同俄烏戰事有關，稱“我們正在努力促成戰事結束，雙方也都希望看到戰事結束”。（新華社）"
+    },
+    {
+      "id": "te:markets:578323",
+      "time": "2026-08-26 23:17:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 4-week High — Natural gas increased to 2.88 USD/MMBtu, the highest since July 2026. Over the past 4 weeks, Natural gas gained 2.88%, and in the last 12 months, it decreased 0.61%."
+    },
+    {
+      "id": "5060617",
+      "time": "2026-08-26 23:16:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4640美元/盎司，日內跌1.18%。"
+    },
     {
       "id": "mkt:01a03ea3-b93a-7aab-9133-2c3bb1251654",
       "time": "2026-08-26 23:15:12",
@@ -150973,42 +151009,6 @@
         "國際"
       ],
       "text": "埃及宣佈已與伊朗恢復外交接觸，以緩解緊張局勢。"
-    },
-    {
-      "id": "5048352",
-      "time": "2026-08-19 23:20:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫：美國的目的是掠奪本地區國家，既非戰爭也非和平的局面必須結束。"
-    },
-    {
-      "id": "te:markets:576554",
-      "time": "2026-08-19 23:20:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Royal Bank of Canada Stock Price Hits 6-week Low — Royal Bank of Canada shares decreased to 289.17 CAD, the lowest since July 2026. Over the past 4 weeks, Royal Bank of Canada lost 2.21%, and in the last 12 months, it increased 52.75%."
-    },
-    {
-      "id": "mkt:01a01a99-65cf-7aab-909c-13619ce0dda8",
-      "time": "2026-08-19 23:17:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISNA reports Iraq's president said the 'neither-war-nor-peace' state must end, that regional integrated security should be achieved by guaranteeing the security of regional states, and that Iraq, as a proponent of regional stability, will support Iran."
-    },
-    {
-      "id": "mkt:01a01a98-e820-7aab-909c-0c2902f392be",
-      "time": "2026-08-19 23:17:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ISNA reported Ghalibaf told Iraq’s president the US’ objective is to plunder Gulf states and that its presence in and near the Gulf is aimed at seizing resources. He said Iran and Iraq — and their peoples — now view the US as the primary challenge in regional affairs and that Americans have failed militarily and politically in attempting to impose a third war."
     }
   ]
 }
