@@ -1,7 +1,207 @@
 {
   "date": "2026-08-26",
-  "count": 1164,
+  "count": 1186,
   "items": [
+    {
+      "id": "mkt:01a03c97-0788-7aab-9123-858b21d97896",
+      "time": "2026-08-26 13:42:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANZ now expects the Reserve Bank of Australia to raise rates by 25bps in November."
+    },
+    {
+      "id": "mkt:01a03c95-97be-7aab-9123-76efe398e653",
+      "time": "2026-08-26 13:40:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian military aircraft enter South Korea ADIZ; Seoul scrambles fighters】South Korea said on Wednesday it scrambled fighter jets after Russian military aircraft entered its air defense identification zone (ADIZ). It was the second such incursion in weeks, the defense ministry said, adding several Russian aircraft entered and then left the ADIZ over the East Sea and did not violate South Korean airspace."
+    },
+    {
+      "id": "5059095",
+      "time": "2026-08-26 13:40:24",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳新銀行：現在預計澳大利亞儲備銀行將在11月將現金利率上調25個基點。"
+    },
+    {
+      "id": "5059094",
+      "time": "2026-08-26 13:40:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特交易所批准沙特國家銀行資本在STC單一股票期貨中開展做市活動"
+    },
+    {
+      "id": "mkt:01a03c94-ef31-7aab-9123-6a9f925681a2",
+      "time": "2026-08-26 13:39:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Ukraine attacks disrupt Russian crude flows to India; refiners diversify purchases】Ukraine attacks have disrupted Russian crude deliveries to India, prompting Indian refiners to cut purchases from Russia and source more barrels from West Africa, the Americas and Gulf suppliers. With a series of refinery turnarounds ending, national crude demand and refinery run rates are expected to rise, allowing refiners to lift output. Last month Russian crude accounted for more than half of India’s imports. Kpler modelling senior manager Sumit Ritolia expects Russian shipments to India to fall to about 2.0 mln bpd this month from roughly 2.8 mln bpd in July, citing normalization after strong buying, reduced Russian export availability, increased competition and refinery maintenance; he adds supplies are likely to recover above 2.0 mln bpd in the coming months."
+    },
+    {
+      "id": "5059093",
+      "time": "2026-08-26 13:39:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大連市長海大橋主線鋼棧橋全線貫通】記者25日從大連長海大橋主線鋼棧橋貫通儀式上獲悉，全長11.6公里的主線鋼棧橋已全線貫通。長海大橋全長25.5公里，是東北地區里程最長的跨海大橋，於2025年6月開工。鋼棧橋作為全天候施工通道，有效破解了淺灘海域船舶作業難等瓶頸，為大橋主體工程建設打通了海上通道。（新華社）"
+    },
+    {
+      "id": "mkt:01a03c92-0078-7aab-9123-63e066517b38",
+      "time": "2026-08-26 13:36:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tadawul approved Saudi National Bank Capital Company as market maker for MT30 index futures and single-stock futures."
+    },
+    {
+      "id": "5059092",
+      "time": "2026-08-26 13:35:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報897.00元。"
+    },
+    {
+      "id": "te:markets:578146",
+      "time": "2026-08-26 13:35:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Turns Higher, Ends Above 14,000 Mark — New Zealand stocks rose 20 points, or 0.2%, to close at a record high of 14,013 on Wednesday, halting weakness in morning trade and extending gains in the previous session, mainly buoyed by gains in materials, consumer staples, and tech sectors. The broader index surpassed 14,000 for the first time, with the materials sector surging 2.8%, supported by a jump in Vulcan Steel (4.8%) after reporting a 20% rise in earnings per share for the fiscal year ended June 30, 2026. Optimism over earnings reports continued to lift sentiment as some companies will announce their results on Thursday and Friday. An upbeat session on Wall Street overnight also fueled sentiment, buoyed by strong tech sectors, easing oil prices, and lower US Treasury yields. Other top gainers were Colonial Motor (3.0%), A2 Milk (2.4%), and Fletcher Building (2.1%). Meanwhile, Meridian Energy fell 1.7%, despite posting a net profit for the 12 months ended June, rebounding from a loss in the same period of 2025."
+    },
+    {
+      "id": "mkt:01a03c96-b219-7aab-9123-7a5ca0d7933a",
+      "time": "2026-08-26 13:35:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "China glass most-active futures contract slipped below 900 yuan/ton, down 1.86% on the day."
+    },
+    {
+      "id": "mkt:01a03c90-e403-7aab-9123-5a1b699d963c",
+      "time": "2026-08-26 13:35:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index rose 663.16 points, or 1.47%, to 45,832.62 at the close on Aug. 26 (Wednesday)."
+    },
+    {
+      "id": "5059091",
+      "time": "2026-08-26 13:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高1.5%報45,832.62。"
+    },
+    {
+      "id": "5059090",
+      "time": "2026-08-26 13:34:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌空天行分公司落地四川成都】企查查APP顯示，近日，北京凌空天行科技有限責任公司四川成都市分公司成立，負責人為李棟新，經營範圍包含：火箭發射裝置研發和製造；火箭控制系統研發；火箭發動機研發與製造；民用航空器零部件設計和生產等。企查查資訊顯示，其總公司為北京凌空天行科技有限責任公司。公開資訊顯示，凌空天行是一家致力於融合高超聲速技術、人工智慧與低成本製造的新型軍工科技企業，公司研發團隊成員主要來自航空航天類大型工業集團。"
+    },
+    {
+      "id": "5059089",
+      "time": "2026-08-26 13:33:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中曼石油等在河南成立科技成果轉化創業投資基金】企查查APP顯示，近日，天誠重科（河南）科技成果轉化創業投資基金合夥企業（有限合夥）成立，出資額1億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由中曼石油(603619)、鄭州中原科技城科技創新產業投資基金合夥企業（有限合夥）等共同持股。"
+    },
+    {
+      "id": "5059088",
+      "time": "2026-08-26 13:33:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大零售巨頭COUCHE-TARD對波蘭Zabka發起收購要約，出價每股32茲羅提。"
+    },
+    {
+      "id": "mkt:01a03c8e-f06e-7aab-9123-54c9769d4595",
+      "time": "2026-08-26 13:33:15",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Markets eye BOJ rate-timing; focus on deputy governor's Thursday remarks】With markets seeking clues on the BOJ's next rate hike, attention will center on remarks by a BOJ deputy governor due Thursday. SMBC Nikko Securities strategist Ataru Okumura said a single speech has limited ability to steer market expectations, but traders will watch how firmly he frames inflation control. Okumura added that while the bond market firmly prices an earlier BOJ hike, investors doubt the bank can push rates above a restrictive 2% threshold, so the future interest-rate path will be the key market focus."
+    },
+    {
+      "id": "mkt:01a03c8e-6038-7aab-9123-4b4a8e190c8e",
+      "time": "2026-08-26 13:32:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Yields vs inflation: Bessent and Wash at odds】The Financial Times says Treasury Secretary Bessent's recent, unexpected intervention in the US Treasury market — an operation that briefly pushed yields lower before they rose — runs counter to the Fed's anti-inflation push. The episode raised market scrutiny ahead of Fed official Wash's Jackson Hole speech; Wash has urged investors to rely on economic data and market prices rather than central-bank forward guidance. Market participants warn that if Bessent's effort to control yields proves ineffective, pressure could build for Fed market intervention. Bessent and Wash are both protégés of Stanley Druckenmiller and remain on good terms, but markets now view Treasury and the Fed as moving in opposite directions."
+    },
+    {
+      "id": "mkt:01a03c8e-1c85-7aab-9123-46b49d057270",
+      "time": "2026-08-26 13:32:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor candidate Destri said he differs in personality from predecessor Perry, but they are aligned on policy positions."
+    },
+    {
+      "id": "mkt:01a03c8b-5063-7aab-9123-3cdba53932b0",
+      "time": "2026-08-26 13:29:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank Indonesia governor candidate Destry said global sentiment has driven the rupiah's moves, but the currency rebounded quickly when sentiment eased."
+    },
+    {
+      "id": "5059087",
+      "time": "2026-08-26 13:28:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中集來福士SMYRIL LINE RORO專案首艘船順利交付】據中集集團訊息，8月25日，中集來福士為法羅群島航運公司SMYRIL LINE建造的3300米車道高效能清潔能源滾裝船（RORO）“SKIPANES”號在龍口基地順利交付。該船舶是雙方2024年戰略合作簽約的兩艘系列滾裝船訂單中的首艘交付船。"
+    },
+    {
+      "id": "mkt:01a03c8a-6780-7aab-9123-36bb6a039365",
+      "time": "2026-08-26 13:28:18",
+      "tags": [
+        "MKT News",
+        "DKS.N",
+        "Impact bearish"
+      ],
+      "text": "Oppenheimer cuts DICK'S Sporting Goods (DKS.N) PT to $150 from $270."
+    },
+    {
+      "id": "5059086",
+      "time": "2026-08-26 13:27:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【即夢AI推出影視內容廠牌“即夢片場”】8月26日，即夢AI正式推出影視內容廠牌“即夢片場”，面向電影、劇集專案開放徵集，入選專案將獲得算力、技術、資金、行業資源等多維支援。電影專案面向時長90分鐘以上、目標為院線上映或網路平臺發行的影視專案；劇集專案則面向連續性劇集或單元劇，作品可釋出於長影片或短影片平臺。電影專案設S級、A級兩檔，支援內容包括製作積分、模型許可權、技術測試、版權保護、1v1技術指導等。其中，S級專案可獲得全額覆蓋專案需求的製作積分和最高算力通道，並由產研團隊協作深度共創；A級專案可獲得每分鐘最高25萬積分及優先算力通道。"
+    },
     {
       "id": "mkt:01a03c86-a088-7aab-9123-2f3a3ae99472",
       "time": "2026-08-26 13:24:10",
