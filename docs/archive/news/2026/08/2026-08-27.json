@@ -1,7 +1,17 @@
 {
   "date": "2026-08-27",
-  "count": 59,
+  "count": 60,
   "items": [
+    {
+      "id": "mkt:01a03ef8-0655-7aab-9134-be1a7106bbac",
+      "time": "2026-08-27 00:47:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Canada’s Prime Minister Carney will travel to Strasbourg on Sept. 16 (local time) to attend European Commission President Von der Leyen’s State of the European Union address and formally address the European Parliament."
+    },
     {
       "id": "mkt:01a03ef5-7ca1-7aab-9134-b76dea6ab135",
       "time": "2026-08-27 00:44:30",
