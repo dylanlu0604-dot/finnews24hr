@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-27 06:35:13",
-  "count": 16740,
+  "updated": "2026-08-27 06:39:12",
+  "count": 16738,
   "items": [
+    {
+      "id": "te:markets:578377",
+      "time": "2026-08-27 06:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.71% — Top commodity losers are Lithium Carbonate (-2.71%), Copper (-1.43%) and Gold (-1.04%). Gains are led by Iron Ore CNY (0.91%)."
+    },
     {
       "id": "5060978",
       "time": "2026-08-27 06:32:15",
@@ -151028,42 +151039,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cotton Gains by 3.18% — Top commodity gainers are Cotton (3.18%), Palm Oil (2.92%) and Wheat (2.37%). Biggest loser is Coffee (-1.33%)."
-    },
-    {
-      "id": "5048674",
-      "time": "2026-08-20 06:36:39",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【8月20日隔夜要聞一覽】\n1、美國政府債務突破40萬億美元，十年間翻逾一倍。\n2、特朗普週三表示，對美聯儲（7月）沒有降息表示不滿，堅稱穩健的經濟資料不應阻止央行採取更寬鬆的政策立場。\n3、美聯儲7月會議紀要顯示：若通脹不降溫，美聯儲官員認為需加息。\n4、美國擬在貿易協議中將加拿大汽車關稅降至15%。\n5、OpenAI首席財務官莎拉·弗萊爾週三在全體員工大會上告訴員工，將在2027年上市，但如果業務持續向好，也可能更早。\n6、Moderna股價飆升170%，與默沙東合作的黑色素瘤疫苗在大規模試驗中取得成功。\n7、Marvell Technology股價上漲9%，該公司達成了一項允許谷歌購買至多122億美元公司股份的交易。\n8、伊朗央行行長：目前尚未有任何被凍結的資金解凍。\n9、美國財政部週三表示，將把政府債務回購規模提高一倍以上。"
-    },
-    {
-      "id": "mkt:01a01c2a-7fea-7aab-90a2-eb5aafd903ba",
-      "time": "2026-08-20 06:35:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【Carney presses provinces to lift US alcohol bans to secure US-Canada trade deal】Canadian Prime Minister Mark Carney urged provincial premiers in a Wednesday call to restore US wine and spirits sales in local stores after a US-Canada trade agreement is finalized, Nova Scotia Premier Tim Houston said. Provinces set alcohol retail rules; most pulled US alcohol last year in retaliation for US tariffs, sharply reducing US wine and distilled spirits exports. Major provinces including Ontario, Quebec and British Columbia still maintain bans. It is unclear whether premiers will comply; if they refuse, the preliminary trade deal announced by Trump could be jeopardized. The White House has said ending the bans is a core pillar of any US-Canada agreement."
-    },
-    {
-      "id": "te:markets:576616",
-      "time": "2026-08-20 06:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Surges by 5.67% — Top commodity gainers are Silver (5.67%), Platinum (5.39%) and Gold (4.23%). Biggest loser is Lithium Carbonate (-1.21%)."
     }
   ]
 }
