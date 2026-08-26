@@ -1,7 +1,242 @@
 {
   "date": "2026-08-26",
-  "count": 2786,
+  "count": 2810,
   "items": [
+    {
+      "id": "mkt:01a03e14-1058-7aab-912e-e54bbb611d56",
+      "time": "2026-08-26 20:38:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alibaba Qianwen releases Qwen3.8-Flash model】Alibaba’s Qianwen released Qwen3.8-Flash, a multimodal Mixture-of-Experts (MoE) model and an early preview of the Qwen4 architecture. Production Qwen3.8-Flash will be available via the Qwen Cloud API, priced at $0.16 per 1M input tokens and $0.47 per 1M output tokens. The model includes 125 billion parameters plus 51 billion N-gram embedding parameters, with roughly 6 billion parameters activated per token to boost cost efficiency."
+    },
+    {
+      "id": "5060329",
+      "time": "2026-08-26 20:38:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里千問釋出Qwen3.8-Flash模型】阿里千問釋出Qwen3.8-Flash模型，據介紹，這是一款多模態MoE模型，也是Qwen4架構的早期預覽版。生產版Qwen3.8-Flash很快將透過Qwen Cloud API提供服務，價格僅為每100萬輸入Token 0.16美元、每100萬輸出Token 0.47美元。模型擁有1250億引數+510億 N-gram嵌入引數，但每個Token僅啟用60億引數，實現了極高的成本效益。"
+    },
+    {
+      "id": "mkt:01a03e13-2db8-7aab-912e-defb61a3eab4",
+      "time": "2026-08-26 20:37:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "US Commerce Department: Real GDP growth slowed to 1.5% in Q2 from 2.1% in Q1, reflecting a drop in government spending and slower investment and export growth; faster consumer spending partly offset those drags. Imports expanded more in Q2 than in Q1."
+    },
+    {
+      "id": "5060327",
+      "time": "2026-08-26 20:37:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西安：加大住房公積金支援力度】 8月26日，《西安市支援房地產市場高質量發展工作措施》釋出。其中提到，加大住房公積金支援力度，單繳存職工最高貸款額度提高至90萬元，雙繳存職工提高至120萬元，二孩及以上家庭在上述額度基礎上提高20%；購買商品房的，自商品房網籤備案起，購房人（產權人）及其配偶、子女、父母提取公積金的時限由5年延長至10年，且可共同用於支付購房款；無房職工租住住房提取公積金的額度由1500元/月提高至2000元/月；在西安市城鎮區域內既有自住住房上加裝或更新電梯的，房屋產權人及其配偶、子女、父母均可以提取公積金；購買新建商品住房及二手住房的借款申請人及其配偶均可提取住房公積金直接支付首付款。"
+    },
+    {
+      "id": "mkt:01a03e12-e06d-7aab-912e-d77e9e23e4db",
+      "time": "2026-08-26 20:36:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Ukraine President Zelenskiy said Ukraine is currently in contact with the United States to discuss ways to achieve peace."
+    },
+    {
+      "id": "5060326",
+      "time": "2026-08-26 20:36:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【《西安市支援房地產市場高質量發展工作措施》釋出】 8月26日，《西安市支援房地產市場高質量發展工作措施》釋出。其中提到，企業以出讓方式獲得國有建設用地，並取得土地不動產預告登記證明的，可先行辦理整宗土地的工程規劃、施工許可，辦理已交清土地出讓價款對應部分的預售許可等後續相關手續；房地產開發企業自主確定專案銷售價格，在網籤銷售平臺填報“一房一價”，住建部門不再稽核價格。房地產開發企業應按照商品房價格管理有關規定，在銷售案場公示商品房“一房一價”以及銷售方案、商品房預售許可證等資訊，行業管理部門依法依規進行銷售監管。"
+    },
+    {
+      "id": "5060325",
+      "time": "2026-08-26 20:36:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，烏克蘭目前正與美國進行接觸，商討實現和平的途徑。"
+    },
+    {
+      "id": "mkt:01a03e12-4efe-7aab-912e-cd2afc4116fc",
+      "time": "2026-08-26 20:36:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Zelenskiy said Ukraine will deploy two additional units to reinforce the Donetsk front."
+    },
+    {
+      "id": "5060324",
+      "time": "2026-08-26 20:36:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "阿里巴巴釋出體積更小、價效比更高的通義千問 AI 模型。"
+    },
+    {
+      "id": "mkt:01a03e12-3215-7aab-912e-c30bd76ac4ed",
+      "time": "2026-08-26 20:36:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Commerce Department: Real GDP growth unchanged from the preliminary estimate; an upward revision to consumer spending was offset by an upward revision to imports."
+    },
+    {
+      "id": "mkt:01a03e12-1926-7aab-912e-bf151bc4283f",
+      "time": "2026-08-26 20:36:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.O"
+      ],
+      "text": "Alibaba announced a smaller, more cost-effective Qwen AI model."
+    },
+    {
+      "id": "5060323",
+      "time": "2026-08-26 20:36:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金<XAU=>進一步擴大跌幅，跌幅接近1%，報每盎司4613.10美元。"
+    },
+    {
+      "id": "5060322",
+      "time": "2026-08-26 20:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基表示：烏克蘭將在頓涅茨克地區增派兩支新部隊以鞏固陣地，分別由傑尼斯・普羅科片科與安德烈・比列茨基指揮。"
+    },
+    {
+      "id": "5060321",
+      "time": "2026-08-26 20:35:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰山石油：擬承租加油站資產 租期至2036年7月】泰山石油公告稱，公司擬與泰山旅遊公司簽署加油站經營權租賃合同，承租位於泰安市溫泉路與岱宗大街交叉口西北角的加油站資產，用於成品油銷售及經營活動。租賃期自合同生效之日起至2036年7月31日，年基礎租金198萬元，每三年按3%遞增，租賃期內租金共計2052萬元。本次租賃不涉及關聯交易，不構成重大資產重組，對公司本年度經營成果預計無負面影響。"
+    },
+    {
+      "id": "5060320",
+      "time": "2026-08-26 20:34:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洛軸股份：創業板IPO網上中籤率為0.0190%】洛軸股份公告稱，公司首次公開發行股票並在創業板上市，發行價格為15.88元/股，本次發行最終戰略配售股份數量為4960.00萬股，佔發行總量的40.00%。因網上初步有效申購倍數超100倍，啟動回撥機制，回撥後網下最終發行4464.00萬股，佔扣除戰略配售後發行量的60.00%；網上最終發行2976.00萬股，佔比40.00%。本次網上有效申購戶數為1547.09萬戶，有效申購股數為1566.16億股，網上定價發行中籤率為0.0190018731%，有效申購倍數為5262.64倍。網上搖號中籤結果將於2026年8月28日公佈。"
+    },
+    {
+      "id": "mkt:01a03e10-f935-7aab-912e-b08369e49c96",
+      "time": "2026-08-26 20:34:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Commerce Department said Q2 real GDP growth was driven mainly by increases in consumer spending, exports and investment, partly offset by a decline in government spending."
+    },
+    {
+      "id": "5060319",
+      "time": "2026-08-26 20:34:54",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【大普微：簽訂約34.91億元企業級PCIe SSD銷售訂單】大普微公告，公司與客戶A簽訂企業級PCIeSSD銷售訂單，含稅總金額51,457.40萬美元(摺合人民幣約34.91億元)，佔公司2025年經審計主營業務收入的152.70%。訂單交付期限為生效後18周內，若順利履行，預計將對履約年度經營成果產生積極影響。"
+    },
+    {
+      "id": "5060318",
+      "time": "2026-08-26 20:34:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰山石油：擬每10股派0.6元 擬租加油站】泰山石油公告稱，公司第十二屆董事會第二次會議審議透過多項議案：2026年中期擬以總股本4.77億股為基數，每10股派發現金紅利0.60元（含稅），合計擬派現2864.67萬元，不送紅股、不以公積金轉增股本，該預案尚需提交臨時股東會審議；擬與泰安市泰山旅遊汽車有限責任公司簽署加油站租賃經營合同，租賃期至2036年7月31日，租金總額2052.00萬元；2026年半年度日常關聯交易實際發生1.34億元，佔預計金額的32.48%；因回購股份已完成登出，擬減少註冊資本並修訂公司章程，相關事項尚需提交臨時股東會審議；公司定於2026年9月17日召開2026年第一次臨時股東會。"
+    },
+    {
+      "id": "5060317",
+      "time": "2026-08-26 20:34:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創力集團：子公司收購中煤液壓剩餘股權款支付條件達成】創力集團公告稱，公司全資子公司中煤科技此前以6632.86萬元收購中煤液壓56.94%股權，補充協議約定標的公司2024年末應收賬款淨值回收達90%時支付剩餘30%股權轉讓款。截至2026年8月25日，中煤液壓該筆應收賬款累計有效回款8340.03萬元，完成回收考核基數比率100.03%，超過約定90%的回款目標，剩餘股權轉讓款支付條件已達成，公司董事會同意中煤科技支付剩餘全部股權轉讓款。"
+    },
+    {
+      "id": "5060316",
+      "time": "2026-08-26 20:34:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創力集團：2026年上半年營收10.36億元 淨利同比增3.60%】創力集團公告稱，2026年上半年實現營業收入10.36億元，同比下降10.76%；歸屬於上市公司股東的淨利潤8471.33萬元，同比增長3.60%；扣非淨利潤6429.74萬元，同比下降4.45%。公司擬以權益分派實施股權登記日總股本為基數，每10股派發現金紅利1.00元（含稅），不實施資本公積轉增股本，該預案尚需提交股東會審議。"
+    },
+    {
+      "id": "5060315",
+      "time": "2026-08-26 20:34:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MiniMax 7月Token消耗量飆至年初20倍 8月ARR衝破8億美元】8月26日晚，MiniMax在2026年中期業績會上披露，公司8月年度經常性收入（ARR）已超過8億美元，第二季度收入較第一季度環比增長81.8%，7月Token消耗量已達到1月的20倍，B端業務在整體ARR中的貢獻已超過80%。MiniMax稱，在算力上，公司是國內最早建立規模化、長期穩定基礎設施體系的兩家獨立大模型公司之一。基礎設施已能獨立支撐最大的訓練任務，ETTR（EffectiveTrainingTimeRatio，有效訓練時間比例）已經達到97%。"
+    },
+    {
+      "id": "mkt:01a03e10-8d03-7aab-912e-ae27e5e8989d",
+      "time": "2026-08-26 20:34:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury yields ticked up after a data release; the 10-year yield is flat at 4.635%."
+    },
+    {
+      "id": "5060314",
+      "time": "2026-08-26 20:34:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "新興市場外匯指數受美國資料影響收窄漲幅，巴西雷亞爾轉跌。"
+    },
+    {
+      "id": "5060313",
+      "time": "2026-08-26 20:34:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Meta美股盤前漲超2%】 Meta美股盤前漲超2%，現報581.8美元。"
+    },
     {
       "id": "5060312",
       "time": "2026-08-26 20:33:18",
