@@ -1,7 +1,232 @@
 {
   "date": "2026-08-26",
-  "count": 1378,
+  "count": 1403,
   "items": [
+    {
+      "id": "5059237",
+      "time": "2026-08-26 15:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風影響 福建沿海57條航線停航 水工專案全部停工】今天，福建海上漁場出現8級以上大風。福建海事局維持防颱風二級應急響應，根據颱風動態調整防禦部署，將泉州以北海域作為防禦重點。為了確保海上交通安全，截至26日12時，泉州及以北沿海57條客渡運航線停航，福建全省118個水工專案全部停工。福建海事局進一步加強海上交通管理，於26日5時起暫停閩浙交界水域船舶南下，12時起暫停閩粵交界水域船舶北上。同時對臺灣海峽航行船舶持續逐艘叫應，引導船舶加快離開臺風影響區域。（央視新聞）"
+    },
+    {
+      "id": "5059236",
+      "time": "2026-08-26 15:05:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比爾·蓋茨呼籲設立“人類保留”崗位，以保護勞動力免受人工智慧的影響】微軟聯合創始人比爾·蓋茨近日發表約6000字長文，警告人工智慧將帶來“人類歷史上最動盪的時期之一”，呼籲政府設立“人類保留”崗位以保護勞動力免受衝擊。他批評各國領導人對人工智慧帶來的深遠影響準備不足，並呼籲對機器人徵稅等稅收改革措施。在稅收政策方面，蓋茨與Anthropic及OpenAI等人工智慧公司共同呼籲對機器人和人工智慧系統處理的“Token”徵稅。他指出，僱主聘用人員需繳納工資稅，但購買機器人可作為經營開支立即抵扣，現行稅制實際上鼓勵用機器取代人力。蓋茨表示，人工智慧或將成為有史以來最偉大的均衡器，或將成為最嚴重的不公正根源，挑戰巨大，但當前各方未做好充分準備，未見領導者、專家和社群充分應對相關挑戰。此次發文是蓋茨捲入愛潑斯坦醜聞後首次就人工智慧議題發表重要公開言論。蓋茨仍擔任其890億美元慈善基金會主席，未受指控。他此前曾表示後悔與愛潑斯坦“相處的每一分鐘”，稱當時誤以為後者能幫其從富人處募集慈善捐款。"
+    },
+    {
+      "id": "5059235",
+      "time": "2026-08-26 15:05:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時100指數礦業板塊開盤交易上漲1%。"
+    },
+    {
+      "id": "5059234",
+      "time": "2026-08-26 15:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【BSI高管：人工智慧落地的最大瓶頸，不是演算法，也不是算力，而是信任丨兩說】英國標準協會（BSI）全球AI業務董事總經理奧姆卡·喬希認為，人工智慧落地的最大瓶頸不是演算法或算力，而是信任。信任涉及準確性、公平性與幻覺問題等多個維度，只有每個維度都經得起檢驗，信任才能真正建立。（第一財經）"
+    },
+    {
+      "id": "mkt:01a03ce3-3f14-7aab-9125-84868eb0d221",
+      "time": "2026-08-26 15:05:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "German 10-year bond yield fell to 3.186%, the low recorded on the 12th."
+    },
+    {
+      "id": "5059233",
+      "time": "2026-08-26 15:05:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率降至3.186%，創12日新低。"
+    },
+    {
+      "id": "mkt:01a03ce2-aea9-7aab-9125-7fff96b7c1f3",
+      "time": "2026-08-26 15:04:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Compute electricity surges as Changshu compute load overtakes air-conditioning】In July, China’s total power consumption again exceeded 1 trillion kWh; electricity use by internet data services rose 40% YoY, with compute capacity emerging as a major new source of demand. A smart compute center in Changshu, Jiangsu, saw August peak load climb over 70% YoY; peak compute-industry load reached 200 MW, about 4.1% of the city’s load. State Grid Changshu Power Supply Company said the compute sector accounted for roughly 49% of the city’s incremental load, indicating compute demand is replacing seasonal air-conditioning as the main driver of summer power growth. In July, 106 compute-center firms in Jiangsu consumed >1.3 bln kWh, up 31% YoY; supercomputing and smart compute centers accounted for more than 80% of that usage."
+    },
+    {
+      "id": "5059232",
+      "time": "2026-08-26 15:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車：盈利目標預設匯率為1美元兌1300韓元中段水平。"
+    },
+    {
+      "id": "mkt:01a03ce2-8cda-7aab-9125-73cbed473304",
+      "time": "2026-08-26 15:04:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank of Thailand says overall growth remains sluggish and uneven."
+    },
+    {
+      "id": "5059231",
+      "time": "2026-08-26 15:04:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力用電爆發式增長 江蘇常熟算力耗電超過空調】江蘇常熟一家智算中心8月最大用電負荷較去年同期增長超70%，算力產業最高用電負荷已達20萬千瓦，佔全市用電負荷比重約4.1%。國網常熟市供電公司表示：“算力產業貢獻全市近半數用電負荷增量，佔比約49%，反映出算力負荷逐步取代季節性空調負荷，成為今夏用電增長的核心主力。”7月，江蘇106家算力中心企業用電量突破13億千瓦時，同比增長31%，其中超算和智算中心用電量佔比超8成。根據預測，到2030年，我國資料中心用電量預計將激增至8000億度。與此同時，我國光伏和風電裝機也將增長到28億千瓦以上。面對海量算力與綠電消納的雙重挑戰，多地正透過算電協同，讓算力跟著綠電走，實現降成本與促消納的雙贏。在內蒙古烏蘭察布，全球單體最大的智算中心正在探索綠電直供的新模式，透過自建風電場和AI電力系統給智算中心供電，解決智算和綠電的波動性難題。 (央視財經)"
+    },
+    {
+      "id": "mkt:01a03ce2-326a-7aab-9125-69ef054911df",
+      "time": "2026-08-26 15:04:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand says the current policy rate is appropriate."
+    },
+    {
+      "id": "5059230",
+      "time": "2026-08-26 15:04:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利埃尼集團股價盤初下跌1.6%。"
+    },
+    {
+      "id": "5059229",
+      "time": "2026-08-26 15:03:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：當前政策利率適合支撐經濟復甦。"
+    },
+    {
+      "id": "mkt:01a03ce1-e39c-7aab-9125-6059593b7f0e",
+      "time": "2026-08-26 15:03:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand said overall credit growth has picked up, but lending to SMEs remains in contraction."
+    },
+    {
+      "id": "5059228",
+      "time": "2026-08-26 15:03:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "思愛普（SAP SE，股票程式碼）股價下跌3%，此前瑞銀將其股票評級從“買入”下調至“中性”。"
+    },
+    {
+      "id": "mkt:01a03ce1-7983-7aab-9125-5d04c5b97292",
+      "time": "2026-08-26 15:03:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai baht near unchanged at 32.71 per US dollar after the Bank of Thailand held policy rate unchanged as expected."
+    },
+    {
+      "id": "5059227",
+      "time": "2026-08-26 15:03:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖匯率基本持平，兌美元報1美元兌32.71泰銖。"
+    },
+    {
+      "id": "5059226",
+      "time": "2026-08-26 15:02:57",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "泰國央行：核心CPI較此前預測將小幅回落。"
+    },
+    {
+      "id": "mkt:01a03ce0-f74f-7aab-9125-57ae891a0b95",
+      "time": "2026-08-26 15:02:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China shares closed higher on Aug 26. China's Shanghai Composite Index rose 23.08 points (+0.59%) to 3,912.52; Shenzhen Composite Index gained 95.46 points (+0.69%) to 13,841.33. The CSI 300 index added 38.76 points (+0.85%) to 4,590.79; ChiNext rose 17.37 points (+0.51%) to 3,414.88; STAR 50 climbed 27.43 points (+1.71%) to 1,632.02."
+    },
+    {
+      "id": "5059225",
+      "time": "2026-08-26 15:02:50",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國央行：泰銖一直受地緣政治局勢發展推動，波動明顯。"
+    },
+    {
+      "id": "mkt:01a03ce0-aefe-7aab-9125-4ca04fd7d458",
+      "time": "2026-08-26 15:02:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Thailand: inflation below expectations; growth outlook in line with expectations."
+    },
+    {
+      "id": "5059224",
+      "time": "2026-08-26 15:02:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：創業板指衝高回落漲0.51% 大金融方向表現強勢】截至收盤，上證指數漲0.59%報3912.52點，深證成指漲0.69%報13841.33點，創業板指漲0.51%報3414.88點，北證50漲0.45%報1067.97點。三市成交額18218億元，較上日縮量224億元。全市場超2900只個股上漲。板塊題材上，黃金概念、證券、造紙板塊漲幅居前；醫療服務、電機板塊跌幅居前。盤面上，黃金概念衝高震盪，深中華A5連板，迪阿股份、金誠信、白銀有色、金一文化、江西銅業漲停，西部礦業、洛陽鉬業、北方銅業、高能環境、雲南銅業跟漲。證券板塊表現強勢，錦龍股份、湘財股份漲停，哈投股份、長江證券、招商證券、國元證券、西部證券跟漲。造紙板塊盤初走強，青山紙業2連板，民士達、恆達新材、博彙紙業、榮晟環保、景興紙業跟漲。醫療服務板塊高開低走，誠達藥業跌超5%，康龍化成、益諾思、博濟醫藥、畢得醫藥跟跌。電機板塊震盪走弱，華瑞股份跌超15%，江特電機、迪貝電氣、兆威機電、晨光電機、奕帆傳動跟跌。"
+    },
+    {
+      "id": "mkt:01a03ce0-2290-7aab-9125-4569b9b6bb3b",
+      "time": "2026-08-26 15:01:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai-Shenzhen turnover CNY1,808.72 bln on Aug. 26; Zhongji Xuchuang leads single-stock turnover】Aug. 26 — Mainland A-share turnover totaled CNY1,808.72 bln, down CNY23.12 bln from the prior session. Shanghai turnover was CNY857.22 bln (volume 490 mln lots) vs CNY858.87 bln (464 mln lots) previously. Shenzhen turnover was CNY951.50 bln (volume 578 mln lots) vs CNY972.97 bln (580 mln lots) previously. Top single-stock turnover: Zhongji Xuchuang CNY18.60 bln, Hengtong Optic-Electric CNY13.68 bln, Xinyisheng CNY13.64 bln, Dongshan Precision CNY12.37 bln, Changxin Technology CNY11.34 bln."
+    },
+    {
+      "id": "5059223",
+      "time": "2026-08-26 15:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國貨幣政策委員會將持續監測經濟前景與各類風險。"
+    },
+    {
+      "id": "5059222",
+      "time": "2026-08-26 15:01:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：通脹水平低於預期。"
+    },
     {
       "id": "mkt:01a03cdf-bc96-7aab-9125-3c435b4e689f",
       "time": "2026-08-26 15:01:30",
