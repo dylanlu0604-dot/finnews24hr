@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-27 06:39:12",
-  "count": 16738,
+  "updated": "2026-08-27 06:43:15",
+  "count": 16736,
   "items": [
+    {
+      "id": "te:markets:578378",
+      "time": "2026-08-27 06:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Soars by 6.56% — Top commodity gainers are Wheat (6.56%), Corn (2.70%) and Soybeans (2.14%). Biggest losers are Coffee (-4.35%) and Rice (-3.50%)."
+    },
     {
       "id": "te:markets:578377",
       "time": "2026-08-27 06:35:15",
@@ -151012,33 +151023,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Surges by 17.90% — Top crypto gainers are Ether (17.90%), Bitcoin (7.16%) and Binance (4.29%)."
-    },
-    {
-      "id": "5048676",
-      "time": "2026-08-20 06:42:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【解鎖AI算力新場景，科創債發行持續擴容提質】無錫高新區科創產業發展集團有限公司近期在上海證券交易所成功發行全國首單專項用於詞元（Token）算力工廠建設的科技創新公司債券。Wind資料顯示，今年以來，科創債發行擴容提質，發行規模超1.2萬億元。專家表示，當前科創債產品創新持續加碼、市場規模穩步攀升，精準對接科創領域融資需求，助力實體經濟與科創產業發展。（中證報）"
-    },
-    {
-      "id": "5048675",
-      "time": "2026-08-20 06:40:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷經濟部長：阿根廷就貝爾格拉諾貨運鐵路網 50 年特許經營權啟動招標。"
-    },
-    {
-      "id": "te:markets:576617",
-      "time": "2026-08-20 06:40:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cotton Gains by 3.18% — Top commodity gainers are Cotton (3.18%), Palm Oil (2.92%) and Wheat (2.37%). Biggest loser is Coffee (-1.33%)."
     }
   ]
 }
