@@ -1,7 +1,35 @@
 {
   "date": "2026-08-27",
-  "count": 159,
+  "count": 162,
   "items": [
+    {
+      "id": "te:markets:578362",
+      "time": "2026-08-27 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.71% — Top commodity losers are Lithium Carbonate (-2.71%), Copper (-1.61%) and Gold (-1.34%). Gains are led by Iron Ore CNY (0.91%)."
+    },
+    {
+      "id": "5060712",
+      "time": "2026-08-27 02:19:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國LNG運輸船繞行合恩角，避開巴拿馬運河航線】航運資料顯示，一艘載有美國裝船燃料的液化天然氣（LNG）運輸船正駛向南美洲最南端，表明該船選擇了更長的航線，而非經巴拿馬運河通行。BW Pavilion Aranthera號船舶正顯示在合恩角附近向南航行；其貨物於7月下旬在佐治亞州薩凡納附近的Elba LNG工廠裝載。"
+    },
+    {
+      "id": "5060711",
+      "time": "2026-08-27 02:18:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【比特幣與黃金基金在稀缺性交易熱潮中吸引70億美元資金】投資者不再在黃金和比特幣之間二選一作為對沖財政焦慮的工具，而是兩者都買。據彭博彙編的資料，過去五個交易日，追蹤這兩類資產的交易所交易基金吸引了創紀錄的70億美元資金流入，使部分最大的黃金和比特幣ETF與股市巨頭一同躋身ETF資金流入排行榜前列。 道富投資管理旗下的SPDR Gold Shares吸引了近34億美元資金流入，而貝萊德旗下的iShares Bitcoin Trust ETF吸引了15億美元。兩者本週均躋身美國ETF資金流入前十名，其中GLD僅次於包括Vanguard S&P 500 ETF在內的少數幾隻基金。"
+    },
     {
       "id": "mkt:01a03f49-739c-7aab-9136-4c44f08c2d52",
       "time": "2026-08-27 02:16:13",
