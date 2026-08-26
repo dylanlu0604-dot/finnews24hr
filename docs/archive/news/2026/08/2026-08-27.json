@@ -1,7 +1,78 @@
 {
   "date": "2026-08-27",
-  "count": 129,
+  "count": 137,
   "items": [
+    {
+      "id": "mkt:01a03f29-20c4-7aab-9135-fa22bfa81ec6",
+      "time": "2026-08-27 01:40:54",
+      "tags": [
+        "MKT News",
+        "UBSG.SW",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank vice chair said he hopes Swiss banks hold strong capital buffers and capture market share from foreign banks that may be in distress in the next economic downturn."
+    },
+    {
+      "id": "5060699",
+      "time": "2026-08-27 01:40:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行副主席：希望本國銀行擁有雄厚的資本緩衝，在下次經濟下行週期中，從陷入困境的外資銀行手中奪取市場份額。"
+    },
+    {
+      "id": "mkt:01a03f28-1151-7aab-9135-f269216dde8e",
+      "time": "2026-08-27 01:39:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank vice chairman said ample capital is not a competitive disadvantage for banks."
+    },
+    {
+      "id": "mkt:01a03f27-7bc4-7aab-9135-ec12f0944a83",
+      "time": "2026-08-27 01:39:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI issues a data-privacy agreement providing school districts a standardized framework to evaluate whether ChatGPT for Teachers meets student data-privacy requirements."
+    },
+    {
+      "id": "5060697",
+      "time": "2026-08-27 01:38:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：無人機飛行員切斷紅軍村附近烏軍後勤補給線。"
+    },
+    {
+      "id": "mkt:01a03f27-50a5-7aab-9135-e0b5b4a17721",
+      "time": "2026-08-27 01:38:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "RUSSIAN DEFENCE MINISTRY said Russian drone operators severed Ukrainian logistics supply lines near Hongliman."
+    },
+    {
+      "id": "5060696",
+      "time": "2026-08-27 01:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：該資料隱私協議為各學區提供通用框架，用於對照學生資料隱私要求評估教師版 ChatGPT。"
+    },
+    {
+      "id": "5060695",
+      "time": "2026-08-27 01:37:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長譴責美對伊實施“經濟恐怖主義行動”】當地時間26日，伊朗外長阿拉格齊就美國針對伊朗的“經濟恐怖主義行動”致函聯合國秘書長、安理會輪值主席等。信函闡述了伊朗對美方這一行動的立場，並強調聯合國及國際社會負有譴責美國政府“非法犯罪行為”的法律和道義責任。信函表示，美國對伊朗發動戰爭並實施制裁，透過施壓脅迫其他主權國家參與其“經濟恐怖主義行動”。美國公然無視多邊主義和外交手段，奉行恐嚇和恐怖主義政策。這項“行動”的既定目標是終止與伊朗的合法經濟關係，並以二級制裁和切斷伊朗金融體系相威脅，意在將美國法律和外交政策目標延伸至其他國家，迫使主權國家改變其合法的貿易關係。此類措施既違背了《聯合國憲章》主權平等原則，也侵犯了所有國家不受他國干涉、自由決定其經濟和外交政策的權利。（央視新聞）"
+    },
     {
       "id": "5060694",
       "time": "2026-08-27 01:35:44",
