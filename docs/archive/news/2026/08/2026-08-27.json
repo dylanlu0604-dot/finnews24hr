@@ -1,7 +1,52 @@
 {
   "date": "2026-08-27",
-  "count": 70,
+  "count": 75,
   "items": [
+    {
+      "id": "mkt:01a03f04-3e31-7aab-9134-f96a070abf94",
+      "time": "2026-08-27 01:00:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "A strong earthquake struck Colombia, prompting emergency evacuation of occupants from multiple buildings in the capital Bogotá."
+    },
+    {
+      "id": "5060669",
+      "time": "2026-08-27 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.70%，滬銅收跌0.53%，滬鋁收跌0.17%，滬鋅收漲0.67%，滬鉛收平，滬鎳收跌0.73%，滬錫收跌1.57%。氧化鋁夜盤收跌0.87%，鋁合金收漲0.02%。不鏽鋼夜盤收跌0.88%。"
+    },
+    {
+      "id": "5060668",
+      "time": "2026-08-27 00:59:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞發生強震，波哥大建築物內人員已疏散。"
+    },
+    {
+      "id": "mkt:01a03f01-f843-7aab-9134-f7b2825b433c",
+      "time": "2026-08-27 00:58:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "People familiar with the matter said ANTHROPIC will secure 460 MW of compute capacity from NScale data centers."
+    },
+    {
+      "id": "mkt:01a03f01-1b5c-7aab-9134-ee21ed08859a",
+      "time": "2026-08-27 00:57:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said NScale will supply computing capacity from a data center in West Virginia and plans to spend $71 billion to develop the project."
+    },
     {
       "id": "mkt:01a03f00-cdd8-7aab-9134-e43b0b2e7027",
       "time": "2026-08-27 00:56:52",
