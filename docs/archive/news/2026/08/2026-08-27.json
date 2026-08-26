@@ -1,7 +1,17 @@
 {
   "date": "2026-08-27",
-  "count": 149,
+  "count": 150,
   "items": [
+    {
+      "id": "mkt:01a03f3d-aa8d-7aab-9136-2602daead54c",
+      "time": "2026-08-27 02:03:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Tasnim News Agency reported an adviser to Iranian parliament speaker Ghalibaf said oil transiting the Strait of Hormuz totals below 1 mln bpd."
+    },
     {
       "id": "mkt:01a03f39-f849-7aab-9136-1a27f063daf1",
       "time": "2026-08-27 01:59:18",
