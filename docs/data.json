@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-26 22:31:58",
-  "count": 16783,
+  "updated": "2026-08-26 22:36:24",
+  "count": 16775,
   "items": [
+    {
+      "id": "mkt:01a03e7e-2bec-7aab-9132-b8ad61d981d0",
+      "time": "2026-08-26 22:34:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Black Sea export disruption lifts CBOT wheat to near three-year high】CBOT wheat futures led gains in grains amid continued Black Sea export disruptions, briefly reaching a near three-year high before trimming gains to +1.53%. Agricultural consultancy SovEcon said Russia's proposed measures, including a temporary suspension of export duties, are \"unlikely to materially support Russian grain exports or domestic prices.\" It warned that \"unless Black Sea and Azov logistics improve, grain will continue to accumulate domestically, keeping Russian domestic prices under pressure; reduced Russian supply will support global wheat prices.\" SovEcon cut its estimate for Russia's August wheat exports by 300,000 tonnes to 1.9 mln tonnes."
+    },
+    {
+      "id": "5060566",
+      "time": "2026-08-26 22:33:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：美國疾病控制與預防中心（CDC）宣佈與軟質乳酪相關的單核細胞增生李斯特菌疫情已結束，FDA的調查也已完成。"
+    },
+    {
+      "id": "5060565",
+      "time": "2026-08-26 22:33:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尼泊爾北部山洪暴發已致97人死亡 403人失蹤】尼泊爾武警官員26日晚通報該國山洪救援情況稱，截至當晚7時左右，已找到97具遇難者遺體，此外共有54人獲救。另據尼泊爾旅遊委員會發布的公告，截至當晚，在山洪中失蹤的遊客數達到403人，其中外籍遊客341人。當地時間26日，尼泊爾北部熱索瓦地區暴發山洪。"
+    },
+    {
+      "id": "5060564",
+      "time": "2026-08-26 22:32:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：MiniMax 修訂與阿里巴巴簽訂的 API 及雲服務協議年度上限。"
+    },
     {
       "id": "mkt:01a03e7b-4298-7aab-9132-b2d5629090c2",
       "time": "2026-08-26 22:31:00",
@@ -151363,124 +151396,6 @@
         "Impact bullish"
       ],
       "text": "Saudi foreign minister said Riyadh will continue to press for de-escalation and prevent renewed tensions or conflict, and called for the Strait of Hormuz, Bab al-Mandeb and all sea lanes to remain open and secure."
-    },
-    {
-      "id": "mkt:01a01a73-abbb-7aab-909a-fce62c44a90d",
-      "time": "2026-08-19 22:36:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Baltic Dry Index falls for second day, hits two-week low】Baltic Dry Index (BDI) fell for a second day, down 39 pts (1.4%) to 2,776 — its lowest since July 31. Capesize index (BCI) slid 76 pts (2%) to 4,376, also a July 31 low; Capesize daily earnings dropped $691 to $36,181. Panamax index (BPI) fell 48 pts (2.2%) to 2,107, lowest since July 31; Panamax daily earnings declined $427 to $18,964. Supramax index (BSI) rose 3 pts (0.2%) to 1,634, its highest since July 28. Handysize index (BHSI) rose 1 pt to 867."
-    },
-    {
-      "id": "te:markets:576539",
-      "time": "2026-08-19 22:36:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Enbridge Stock Price Hits 25-week Low — Enbridge shares decreased to 70.07 CAD, the lowest since February 2026. Over the past 4 weeks, Enbridge lost 10.53%, and in the last 12 months, it increased 5.24%."
-    },
-    {
-      "id": "5048285",
-      "time": "2026-08-19 22:36:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長：我們需要改善公共財政狀況 。"
-    },
-    {
-      "id": "mkt:01a01a73-5ec3-7aab-909a-f3960e4940bb",
-      "time": "2026-08-19 22:36:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "New York gold futures hit $4,550/oz, up 3.66% on the day."
-    },
-    {
-      "id": "mkt:01a01a73-27dc-7aab-909a-eb738a949ba9",
-      "time": "2026-08-19 22:35:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "USD/CHF fell more than 1.50% intraday to 0.7997."
-    },
-    {
-      "id": "5048284",
-      "time": "2026-08-19 22:35:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "在美國證券交易委員會（SEC）考慮監管規定之際，特朗普將接待加密行業高管，部分加密企業股價跳漲。"
-    },
-    {
-      "id": "5048283",
-      "time": "2026-08-19 22:34:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克生物科技指數上漲5.3%，創下歷史新高。"
-    },
-    {
-      "id": "5048282",
-      "time": "2026-08-19 22:34:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "據稱 Strategic Value Partners 考慮出售 APCOA 停車集團。"
-    },
-    {
-      "id": "5048281",
-      "time": "2026-08-19 22:34:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達在北歐“牽線搭橋”，撮合GPU客戶與資料中心】據知情人士訊息，英偉達正扮演“媒人”角色，試圖將持有其GPU的公司與北歐擁有可用容量的資料中心運營商對接。此舉反映英偉達正努力在晶片之外擴大在AI生態中的影響力，包括軟體、政府關係及基礎設施交易。北歐因電力充足、土地充裕且氣候涼爽，正吸引大規模AI資料中心專案。Nebius、微軟等已在該地區達成交易。知情人士稱，英偉達會主動接觸資料中心公司，探詢潛在算力買家，且往往不透露具體客戶名稱。該公司CFO科萊特·克雷斯今年6月曾表示，英偉達已參與“牽線”，幫助客戶更快獲得土地、電力和機房。 芬蘭、挪威近期宣佈多個百兆瓦級專案。挪威電網運營商Statnett資料顯示，目前有2.3吉瓦資料中心容量排隊等待併網。房地產機構Savills最新報告將奧斯陸、斯德哥爾摩、赫爾辛基列為全球未來資料中心發展潛力前六的城市。"
-    },
-    {
-      "id": "mkt:01a01a71-11ef-7aab-909a-e2861a42c0ed",
-      "time": "2026-08-19 22:33:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The Nasdaq Biotechnology Index rose 5.3% to a record high."
-    },
-    {
-      "id": "5048280",
-      "time": "2026-08-19 22:32:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4490美元/盎司，日內漲3.60%。"
-    },
-    {
-      "id": "5048279",
-      "time": "2026-08-19 22:32:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "MODERNA股價創2024年5月以來新高，漲幅高達159%。"
     }
   ]
 }

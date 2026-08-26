@@ -1,7 +1,40 @@
 {
   "date": "2026-08-26",
-  "count": 3188,
+  "count": 3192,
   "items": [
+    {
+      "id": "mkt:01a03e7e-2bec-7aab-9132-b8ad61d981d0",
+      "time": "2026-08-26 22:34:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Black Sea export disruption lifts CBOT wheat to near three-year high】CBOT wheat futures led gains in grains amid continued Black Sea export disruptions, briefly reaching a near three-year high before trimming gains to +1.53%. Agricultural consultancy SovEcon said Russia's proposed measures, including a temporary suspension of export duties, are \"unlikely to materially support Russian grain exports or domestic prices.\" It warned that \"unless Black Sea and Azov logistics improve, grain will continue to accumulate domestically, keeping Russian domestic prices under pressure; reduced Russian supply will support global wheat prices.\" SovEcon cut its estimate for Russia's August wheat exports by 300,000 tonnes to 1.9 mln tonnes."
+    },
+    {
+      "id": "5060566",
+      "time": "2026-08-26 22:33:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：美國疾病控制與預防中心（CDC）宣佈與軟質乳酪相關的單核細胞增生李斯特菌疫情已結束，FDA的調查也已完成。"
+    },
+    {
+      "id": "5060565",
+      "time": "2026-08-26 22:33:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尼泊爾北部山洪暴發已致97人死亡 403人失蹤】尼泊爾武警官員26日晚通報該國山洪救援情況稱，截至當晚7時左右，已找到97具遇難者遺體，此外共有54人獲救。另據尼泊爾旅遊委員會發布的公告，截至當晚，在山洪中失蹤的遊客數達到403人，其中外籍遊客341人。當地時間26日，尼泊爾北部熱索瓦地區暴發山洪。"
+    },
+    {
+      "id": "5060564",
+      "time": "2026-08-26 22:32:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：MiniMax 修訂與阿里巴巴簽訂的 API 及雲服務協議年度上限。"
+    },
     {
       "id": "mkt:01a03e7b-4298-7aab-9132-b2d5629090c2",
       "time": "2026-08-26 22:31:00",
