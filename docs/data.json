@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-27 03:53:51",
-  "count": 16627,
+  "updated": "2026-08-27 03:57:54",
+  "count": 16629,
   "items": [
+    {
+      "id": "mkt:01a03fa5-c136-7aab-9137-8906bc76a6c4",
+      "time": "2026-08-27 03:57:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tasnim News Agency cited local Syrian sources saying Israeli army artillery struck Syrian-held heights near Damascus."
+    },
+    {
+      "id": "mkt:01a03fa4-9aae-7aab-9137-803f8abaa2b8",
+      "time": "2026-08-27 03:55:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Google to move about 90-person AI responsibility team out of DeepMind】The Wall Street Journal reports Google plans in early September to move about a 90-person AI responsibility team from DeepMind into its Global Affairs division, which handles lobbying and public policy. The shift is part of further integrating DeepMind into Google; HR and policy units will also transfer. The AI responsibility team tests models for chemical, biological, radiological and nuclear risks and studies user‑AI interactions and chatbot psychological effects. Some employees say moving the team could increase distance from the Gemini development group and weaken independent research and detection of frontier model risks. Google says the team will retain DeepMind access, compute and personnel resources, and that other teams responsible for model behavior, privacy and security will remain at DeepMind. The move occurs amid ongoing turnover in DeepMind management and staff."
+    },
+    {
+      "id": "5060797",
+      "time": "2026-08-27 03:55:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "敘利亞大馬士革附近高地遭到以色列軍隊炮火打擊。"
+    },
+    {
+      "id": "mkt:01a03fa4-1492-7aab-9137-7848b4d3183b",
+      "time": "2026-08-27 03:55:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi broadcaster Al Arabiya reports two explosions at Yemen's Mocha port; Houthi forces again fired missiles toward Mocha."
+    },
+    {
+      "id": "5060796",
+      "time": "2026-08-27 03:53:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總檢察長表示，巴西正尋求法院下令，要求Discord就集體精神損害賠償支付5億雷亞爾。"
+    },
     {
       "id": "5060795",
       "time": "2026-08-27 03:52:32",
@@ -149832,37 +149883,6 @@
         "Importance 1"
       ],
       "text": "Tesla Stock Price Hits 4-week High — Tesla shares increased to 351.27 USD, the highest since July 2026. Over the past 4 weeks, Tesla lost 5.05%, and in the last 12 months, it increased 8.34%."
-    },
-    {
-      "id": "mkt:01a01b98-bf6e-7aab-90a1-d1974786c481",
-      "time": "2026-08-20 03:56:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【Trump says Treasury’s Bessent may unveil Iran sanctions this week】Trump said Treasury Secretary Bessent may unveil major sanctions on Iran this week and that Bessent “won’t play games.” He said the US has “very tough” sanctions options and is monitoring developments. Trump added the Strait of Hormuz is currently open with many vessels transiting, a fact he said is underreported, but that transit speeds could slow going forward."
-    },
-    {
-      "id": "5048572",
-      "time": "2026-08-20 03:55:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：我們將繼續為前沿模型提供零資料留存服務。隨著人工智慧承擔更長、自主性更強的工作，併為企業創造更高價值，安全系統也需要識別各類關聯互動中存在的風險。為應對上述風險，我們推出私有安全處理預覽版，該技術旨在提升安全防護水平，同時不讓 OpenAI 工作人員接觸底層原始內容。"
-    },
-    {
-      "id": "5048570",
-      "time": "2026-08-20 03:55:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "哈德遜河貿易公司第二季度交易營收創下 114 億美元歷史新高。"
     }
   ]
 }
