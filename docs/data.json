@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-27 04:46:41",
-  "count": 16674,
+  "updated": "2026-08-27 04:50:40",
+  "count": 16677,
   "items": [
+    {
+      "id": "mkt:01a03fd6-4f20-7aab-9138-56a2094ead48",
+      "time": "2026-08-27 04:50:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "NVIDIA to hold earnings call in 10 minutes."
+    },
+    {
+      "id": "5060888",
+      "time": "2026-08-27 04:48:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：未來將同時交付Blackwell與Rubin系統，目前正面臨部分供應限制。"
+    },
+    {
+      "id": "mkt:01a03fd3-cf00-7aab-9138-4b9fbe889695",
+      "time": "2026-08-27 04:47:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "NVIDIA (NVDA.O): will ship Blackwell- and Rubin-architecture systems concurrently going forward and is currently facing some supply constraints."
+    },
+    {
+      "id": "mkt:01a03fd3-615b-7aab-9138-406b31a4584b",
+      "time": "2026-08-27 04:46:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) said it signed a memorandum of understanding in August with major capital providers to establish an independent financing platform aimed at raising more than $500 billion of third-party capital."
+    },
     {
       "id": "5060886",
       "time": "2026-08-27 04:45:11",
@@ -150328,17 +150373,6 @@
         "焦點"
       ],
       "text": "以太坊升破2200美元，日內漲15.87%。"
-    },
-    {
-      "id": "te:markets:576610",
-      "time": "2026-08-20 04:50:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Hits 8-week High — Silver increased to 66.78 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Silver gained 18.37%, and in the last 12 months, it increased 76.07%."
     }
   ]
 }
