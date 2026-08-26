@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-26 23:12:16",
-  "count": 16737,
+  "updated": "2026-08-26 23:16:34",
+  "count": 16736,
   "items": [
+    {
+      "id": "mkt:01a03ea3-b93a-7aab-9133-2c3bb1251654",
+      "time": "2026-08-26 23:15:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China and India's special representatives reach eight-point consensus at 25th meeting】China and India's special representatives on the boundary issue reached an eight-point consensus at their 25th meeting, agreeing to adhere to the 2005 agreement on political parameters and subsequent special-representative-level consensuses, to advance consultations under the boundary-resolution framework to seek a fair, reasonable and mutually acceptable solution, and to establish a delimitation expert group and a border-management working group under the Working Mechanism for Consultation and Coordination on China-India Border Affairs (WMCC)."
+    },
+    {
+      "id": "mkt:01a03ea3-61b9-7aab-9133-22e63ec91a44",
+      "time": "2026-08-26 23:14:49",
+      "tags": [
+        "MKT News",
+        "RVMD.O",
+        "Impact bullish"
+      ],
+      "text": "【Revolution Medicines' pancreatic cancer drug cleared by FDA】The FDA has approved Revolution Medicines' pancreatic cancer drug Daraxonrasib, which will be marketed as Rasonque. The drug is the first therapy targeting one of the disease's key molecular pathogenic mechanisms. A late-stage trial published in May showed Daraxonrasib nearly doubled typical survival in an aggressive form of pancreatic cancer to 13.2 months versus 6.7 months with chemotherapy, the current standard of care."
+    },
+    {
+      "id": "5060616",
+      "time": "2026-08-26 23:14:44",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中印邊界問題特別代表第25次會晤達成8點成果共識】8月25日，中印邊界問題特別代表第25次會晤在北京舉行。中方特別代表、中共中央政治局委員、中央外辦主任王毅同印方特別代表、國家安全顧問多瓦爾就中印邊界問題坦誠、深入交換意見，達成8點成果共識如下：\n一是雙方重申堅持以兩國領導人共識為引領，維護邊境地區和平安寧，為兩國關係健康穩定發展營造適宜氛圍。\n二是雙方強調將按照2005年關於解決中印邊界問題政治指導原則的協定和此後兩國特代會晤達成的共識，推進邊界問題解決框架的磋商，尋求公平合理和雙方都能接受的解決方案。\n三是雙方在中印邊境事務磋商和協調工作機制（WMCC）框架下成立劃界專家小組和邊境管控工作小組，分別推進討論邊界劃界早期和實質性收穫以及邊境管控工作。兩個小組將首先明確各自的職能範圍。\n四是雙方同意透過現有的外交軍事渠道，包括WMCC、現地指揮官會談和其他雙方同意的機制，及時處理邊境現地任何情況，致力於解決突出問題，避免雙方在邊境實控線地區的誤解誤判。雙方討論了增進對相應地區實控線理解的方式，以便更好管控邊境。\n五是為完善邊境管控措施，雙方同意增加兩個將軍級會談會晤點，並且在邊境東段、中段新增兩條邊防軍事聯絡熱線。\n六是雙方積極評價跨境合作取得的進展，印方讚賞中方為擴大印官方香客赴中國西藏自治區岡仁波齊峰、瑪旁雍錯湖朝聖規模所作努力。雙方讚賞恢復開通中印三處邊貿市場。雙方同意加強邊境貿易、朝聖等交流合作，共同在邊境地區營造對話、和平、協商、合作的氛圍。\n七是雙方同意9月召開新一輪跨境河流專家級機制會議，就水文報汛、續簽備忘錄等相關問題保持溝通。\n八是雙方同意2027年在印度舉行第26次特代會晤。（央視新聞）"
+    },
+    {
+      "id": "5060615",
+      "time": "2026-08-26 23:13:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破87美元/桶，日內跌0.29%。"
+    },
+    {
+      "id": "5060614",
+      "time": "2026-08-26 23:13:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "航運公司MSC暫停俄羅斯黑海服務，此前發生無人機襲擊。"
+    },
+    {
+      "id": "mkt:01a03ea1-bb5a-7aab-9133-1f945dc6bb7d",
+      "time": "2026-08-26 23:13:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Mediterranean Shipping Company (MSC) has suspended Black Sea sailings to and from Russia after drone attacks."
+    },
+    {
+      "id": "mkt:01a03ea1-36a4-7aab-9133-11b64d260579",
+      "time": "2026-08-26 23:12:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Marine Forecasting Center issues red wave alert as Typhoon No.18 Sader nears Zhejiang-Fujian coast】Per the Marine Disaster Emergency Plan, the National Marine Forecasting Center has issued the highest (red) wave alert. Typhoon No.18 Sader (strong typhoon) is approaching the Zhejiang–Fujian coast and coincides with an astronomical high tide. Northern Zhejiang and Fujian coasts may face compounded wind, rain, waves and tide; storm surge superposed on the astronomical high tide risks seawater backflow and flooding of low-lying coastal areas in Zhejiang."
+    },
     {
       "id": "mkt:01a03e9f-cc1c-7aab-9133-0f53a3ddf1c1",
       "time": "2026-08-26 23:10:54",
@@ -150941,75 +151009,6 @@
         "MKT News"
       ],
       "text": "ISNA reported Ghalibaf told Iraq’s president the US’ objective is to plunder Gulf states and that its presence in and near the Gulf is aimed at seizing resources. He said Iran and Iraq — and their peoples — now view the US as the primary challenge in regional affairs and that Americans have failed militarily and politically in attempting to impose a third war."
-    },
-    {
-      "id": "te:markets:576553",
-      "time": "2026-08-19 23:15:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Climbs to Two-Month Highs — Platinum futures rose above 1,780 per ounce, reaching a two-month high, as a drop in bond yields from multi-year highs boosted the appeal of non-yielding metals. The US Treasury announced it will increase its buyback operations, pushing borrowing costs lower and boosting demand for non-yielding metals. Meanwhile, uncertainty over shipments through the Strait of Hormuz kept industrial buyers cautious. Rising hybrid vehicle production has provided near-term support for autocatalyst consumption, although markets remain cautious about the broader shift toward EVs, which rose for a fifth consecutive monthly in July. On the supply side, concerns over power disruptions and maintenance bottlenecks at South African mines continued to underpin prices, with the platinum market expected to remain in deficit. Meanwhile, AI and data-center expansion are emerging as potential new sources of demand, with South Africa’s Valterra Platinum estimating AI-related demand could grow fivefold by 2030."
-    },
-    {
-      "id": "5048351",
-      "time": "2026-08-19 23:14:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中外科學家聯合實現真空漲落對超導的增強效應】記者8月19日從中國科學技術大學獲悉，中國科大教授曾長淦、教授程廣琿領銜的研究團隊，聯合上海交通大學副教授蔣慶東、麻省理工學院教授弗蘭克·維爾切克等合作者，在量子物態調控領域取得重要進展：首次利用暗腔實現了真空漲落增強超導。相關成果19日發表於國際學術期刊《自然》。（新華社）"
-    },
-    {
-      "id": "mkt:01a01a95-c6f9-7aab-909c-018ac227494b",
-      "time": "2026-08-19 23:13:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US cybersecurity officials warned Siemens equipment used in water utilities and other critical infrastructure faces an active cyber threat."
-    },
-    {
-      "id": "5048350",
-      "time": "2026-08-19 23:13:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國網路安全官員警告，供水設施及其他基礎設施所使用的西門子裝置正面臨活躍威脅。"
-    },
-    {
-      "id": "5048349",
-      "time": "2026-08-19 23:13:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：政府目前正在解決各地區出現的燃油問題。"
-    },
-    {
-      "id": "mkt:01a01a95-0b6a-7aab-909b-fb7a9e77cab1",
-      "time": "2026-08-19 23:12:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's Deputy Prime Minister Novak said relevant authorities are currently addressing fuel problems that have emerged across several regions."
-    },
-    {
-      "id": "5048348",
-      "time": "2026-08-19 23:12:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：如果最高法院對你的宴會廳專案作出不利裁決，你會如何應對？\n特朗普：我們希望不會出現這種情況。我無法想象會發生這種事。"
-    },
-    {
-      "id": "5048347",
-      "time": "2026-08-19 23:12:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "奈飛股價漲幅擴大至4%，現報80.86美元，總市值突破3300億美元關口。"
     }
   ]
 }
