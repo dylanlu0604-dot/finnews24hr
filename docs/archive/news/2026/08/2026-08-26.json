@@ -1,7 +1,45 @@
 {
   "date": "2026-08-26",
-  "count": 3284,
+  "count": 3287,
   "items": [
+    {
+      "id": "mkt:01a03eb8-190b-7aab-9133-af45622651ec",
+      "time": "2026-08-26 23:37:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "Aug 26 (Wed) European equity closes: Germany DAX30 +11.53 pts (+0.04%) at 26,296.59; UK FTSE 100 -7.12 pts (-0.07%) at 10,879.04; France CAC 40 +23.19 pts (+0.27%) at 8,462.39; STOXX 50 +15.42 pts (+0.24%) at 6,471.05; Spain IBEX 35 +7.27 pts (+0.04%) at 20,063.87; Italy FTSE MIB +175.69 pts (+0.33%) at 52,896.00."
+    },
+    {
+      "id": "mkt:01a03eb6-36a4-7aab-9133-a43f3bbeaf87",
+      "time": "2026-08-26 23:35:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【KPLER: refinery outages and chokepoint closures constrain Saudi refining capacity】KPLER data show Saudi refining capacity fell to about 2.20 mln b/d in August. Restrictions at the Strait of Hormuz have disrupted eastbound flows, forcing greater reliance on the Red Sea route, which can handle roughly 1.87 mln b/d of refinery throughput. Security issues at Bab el‑Mandeb have reduced that route's flexibility, leaving Saudi exports exposed in both east‑ and westbound directions. The 400,000 b/d Jizan refinery remains offline after Houthi attacks in July and subsequent strikes on related infrastructure. SATORP, the Aramco‑TotalEnergies 200,000 b/d ADU/VDU and associated units have been in maintenance since April and require extended repairs. KPLER expects SATORP to phase back in mid‑late Q4, supporting Saudi refining capacity to rise to about 2.45 mln b/d in Q4; with remaining damaged capacity restored, output should move closer to pre‑conflict levels by Q1 2027."
+    },
+    {
+      "id": "mkt:01a03eb5-fcec-7aab-9133-9bebbe10db21",
+      "time": "2026-08-26 23:35:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, will attend a forum in ten minutes."
+    },
     {
       "id": "mkt:01a03eb4-2881-7aab-9133-930e84d2b538",
       "time": "2026-08-26 23:33:09",

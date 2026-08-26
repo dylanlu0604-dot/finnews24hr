@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-26 23:34:15",
-  "count": 16713,
+  "updated": "2026-08-26 23:38:36",
+  "count": 16712,
   "items": [
+    {
+      "id": "mkt:01a03eb8-190b-7aab-9133-af45622651ec",
+      "time": "2026-08-26 23:37:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "Aug 26 (Wed) European equity closes: Germany DAX30 +11.53 pts (+0.04%) at 26,296.59; UK FTSE 100 -7.12 pts (-0.07%) at 10,879.04; France CAC 40 +23.19 pts (+0.27%) at 8,462.39; STOXX 50 +15.42 pts (+0.24%) at 6,471.05; Spain IBEX 35 +7.27 pts (+0.04%) at 20,063.87; Italy FTSE MIB +175.69 pts (+0.33%) at 52,896.00."
+    },
+    {
+      "id": "mkt:01a03eb6-36a4-7aab-9133-a43f3bbeaf87",
+      "time": "2026-08-26 23:35:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【KPLER: refinery outages and chokepoint closures constrain Saudi refining capacity】KPLER data show Saudi refining capacity fell to about 2.20 mln b/d in August. Restrictions at the Strait of Hormuz have disrupted eastbound flows, forcing greater reliance on the Red Sea route, which can handle roughly 1.87 mln b/d of refinery throughput. Security issues at Bab el‑Mandeb have reduced that route's flexibility, leaving Saudi exports exposed in both east‑ and westbound directions. The 400,000 b/d Jizan refinery remains offline after Houthi attacks in July and subsequent strikes on related infrastructure. SATORP, the Aramco‑TotalEnergies 200,000 b/d ADU/VDU and associated units have been in maintenance since April and require extended repairs. KPLER expects SATORP to phase back in mid‑late Q4, supporting Saudi refining capacity to rise to about 2.45 mln b/d in Q4; with remaining damaged capacity restored, output should move closer to pre‑conflict levels by Q1 2027."
+    },
+    {
+      "id": "mkt:01a03eb5-fcec-7aab-9133-9bebbe10db21",
+      "time": "2026-08-26 23:35:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, will attend a forum in ten minutes."
+    },
     {
       "id": "mkt:01a03eb4-2881-7aab-9133-930e84d2b538",
       "time": "2026-08-26 23:33:09",
@@ -150749,49 +150787,6 @@
         "Importance 0"
       ],
       "text": "Platinum Hits 9-week High — Platinum increased to 1798.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Platinum gained 12.04%, and in the last 12 months, it increased 34.69%."
-    },
-    {
-      "id": "mkt:01a01aac-6e52-7aab-909c-cae1e8e18f69",
-      "time": "2026-08-19 23:38:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "Wed Aug 19—Major European equity indices closed mixed: Germany's DAX fell 59.64 pts (-0.23%) to 26,092.05; UK's FTSE 100 rose 10.76 pts (+0.10%) to 10,738.80; France's CAC 40 fell 7.45 pts (-0.09%) to 8,501.91; STOXX 50 fell 25.72 pts (-0.40%) to 6,442.45; Spain's IBEX 35 fell 109.83 pts (-0.55%) to 19,825.07; Italy's FTSE MIB fell 384.84 pts (-0.73%) to 52,633.00."
-    },
-    {
-      "id": "5048376",
-      "time": "2026-08-19 23:37:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯農業運輸公司預計，俄羅斯8月份小麥出口量將降至16年來的最低水平。"
-    },
-    {
-      "id": "mkt:01a01aa9-51b2-7aab-909c-c19298bb7231",
-      "time": "2026-08-19 23:34:59",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israel's Channel 12 reports IDF Chief of General Staff Zamir, while inspecting Syria, said Israel will use force when and where necessary."
-    },
-    {
-      "id": "5048375",
-      "time": "2026-08-19 23:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 局面不會盡善盡美，但會有大量石油流出，規模十分可觀。 各方都感到震驚。"
     }
   ]
 }
