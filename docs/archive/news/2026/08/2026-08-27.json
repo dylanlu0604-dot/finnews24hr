@@ -1,7 +1,1058 @@
 {
   "date": "2026-08-27",
-  "count": 349,
+  "count": 450,
   "items": [
+    {
+      "id": "mkt:01a0400f-f9a9-7aab-9139-9f9c113d8e7d",
+      "time": "2026-08-27 05:53:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ZM.O"
+      ],
+      "text": "【Zoom stake in Anthropic valued at $3.13 billion】Zoom says the value of its Anthropic stake rose to $3.13 billion, producing a $1.61 billion unrealized (book) gain in the three months to July. Zoom first invested in Anthropic in early 2023 and integrated Anthropic's Claude model into its products. The company added $301 million to its Anthropic holding in the six months to July."
+    },
+    {
+      "id": "mkt:01a0400d-3631-7aab-9139-97ee93414527",
+      "time": "2026-08-27 05:50:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc's automated system recorded a magnitude ~4.5 earthquake at 05:47 on Aug 27 offshore Taitung County, Taiwan; final parameters await the official rapid bulletin."
+    },
+    {
+      "id": "5060955",
+      "time": "2026-08-27 05:49:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月27日05時47分在臺灣台東縣海域附近（北緯22.78度，東經121.44度）發生4.5級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5060954",
+      "time": "2026-08-27 05:48:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：OpenAI與Anthropic很快將會上市。"
+    },
+    {
+      "id": "mkt:01a0400c-0d9e-7aab-9139-8b835c305fda",
+      "time": "2026-08-27 05:48:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Jensen Huang said that although the industry is shifting toward developing custom chips, leading-edge AI labs will remain long-term customers of NVIDIA."
+    },
+    {
+      "id": "mkt:01a0400c-0b8b-7aab-9139-819478b1f148",
+      "time": "2026-08-27 05:48:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the world will need both closed and open AI models."
+    },
+    {
+      "id": "mkt:01a0400b-f33f-7aab-9139-7a1481a7d141",
+      "time": "2026-08-27 05:48:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang hinted OpenAI and Anthropic may IPO soon."
+    },
+    {
+      "id": "5060953",
+      "time": "2026-08-27 05:48:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達預測AI驅動的銷售增長將延續至2028財年】英偉達給出2028財年樂觀銷售預期，首席財務官科萊特·克雷斯稱，公司預計2028財年營收增長約70%。公司二季度財報顯示營收962億美元，非特定專案調整後每股收益2.22美元，資料中心業務營收890億美元。英偉達警示，受記憶體成本飆升影響，未來數月利潤率將收窄，但隨著公司上調產品定價，預計2028財年利潤率將回落至72%‑73%區間。"
+    },
+    {
+      "id": "5060952",
+      "time": "2026-08-27 05:47:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：全球既需要閉源模型，也需要開源模型。"
+    },
+    {
+      "id": "mkt:01a0400b-0e60-7aab-9139-745604217629",
+      "time": "2026-08-27 05:47:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【NVIDIA beats Q2, issues rare early FY2028 revenue guidance】NVIDIA beat Q2 FY2027 estimates; after-hours shares initially fell about 3%. CFO Colette Kress said NVIDIA now expects FY2028 revenue to rise roughly 70% versus analysts’ ~44% consensus, citing accelerating demand limited by supply. CEO Jensen Huang said demand growth already exceeds 70% and could be near 100%; the 70% outlook reflects current supply constraints and would be materially higher without them. Shares swung in after-hours, dropping ~3% then rallying as much as 5%."
+    },
+    {
+      "id": "5060951",
+      "time": "2026-08-27 05:45:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普簽署公告擴大瘦牛肉進口配額】美國總統特朗普今日釋出公告，臨時上調瘦牛肉碎料進口配額，超額部分不徵收關稅。公告顯示，配額上調自9月1日起生效，為期90天。白宮補充，每月進口上限為10萬噸。公告表明，該配額僅適用於瘦牛肉碎料，用於和美國本土牛肉混合製作牛肉餡。"
+    },
+    {
+      "id": "5060950",
+      "time": "2026-08-27 05:40:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：如果不受供應限制，2028財年業績展望會“高得多”。"
+    },
+    {
+      "id": "mkt:01a04004-1e14-7aab-9139-6c0f640cc7b8",
+      "time": "2026-08-27 05:40:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the company's fiscal 2028 outlook would be \"much higher\" absent supply constraints."
+    },
+    {
+      "id": "mkt:01a04001-b2a3-7aab-9139-62968bb395fb",
+      "time": "2026-08-27 05:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKO issued a Red Rainstorm Warning Signal at 05:05 HKT."
+    },
+    {
+      "id": "mkt:01a04000-89e9-7aab-9139-5cb517e21750",
+      "time": "2026-08-27 05:36:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said current supply capacity gives the company confidence it can achieve 70% growth in fiscal 2028."
+    },
+    {
+      "id": "5060949",
+      "time": "2026-08-27 05:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首架中國救援隊包機完成起飛準備工作 即將飛往日喀則】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。應急管理部、國家消防救援局調派中國救援隊111名消防救援指戰員趕赴災害現場增援。目前，首架中國救援隊包機已完成起飛準備工作，計劃今早6點從成都雙流機場飛往日喀則定日機場。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04000-1ba5-7aab-9139-532d1448edf3",
+      "time": "2026-08-27 05:35:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the future non-hyperscale cloud computing market could exceed current total cloud capacity."
+    },
+    {
+      "id": "5060948",
+      "time": "2026-08-27 05:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：我們此前從未提前一年釋出業績指引。"
+    },
+    {
+      "id": "mkt:01a03ffe-78dd-7aab-9139-494aa9cc2f6b",
+      "time": "2026-08-27 05:33:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the company has never previously issued earnings guidance a year in advance."
+    },
+    {
+      "id": "5060947",
+      "time": "2026-08-27 05:32:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：供應鏈能力足以支撐我們信心滿滿地實現2028財年70%的增長。"
+    },
+    {
+      "id": "5060946",
+      "time": "2026-08-27 05:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：非超大規模計算可能將比當前雲容量更大。"
+    },
+    {
+      "id": "mkt:01a03ffb-aed8-7aab-9139-477ab3675e23",
+      "time": "2026-08-27 05:30:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO says fiscal 2028 gross margin should stabilize at 72%-73%."
+    },
+    {
+      "id": "mkt:01a03ffb-0ddb-7aab-9139-397b1b6d341e",
+      "time": "2026-08-27 05:30:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company expects third fiscal-quarter gross margin around 74%, +/-50 bps, and expects fourth fiscal-quarter gross margin to bottom at 71–72%."
+    },
+    {
+      "id": "5060945",
+      "time": "2026-08-27 05:29:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽評級：厄爾尼諾現象給巴西保險公司帶來挑戰，但該行業整體依然穩健。"
+    },
+    {
+      "id": "5060944",
+      "time": "2026-08-27 05:28:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司將在第一季度提價。"
+    },
+    {
+      "id": "5060943",
+      "time": "2026-08-27 05:28:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：記憶體晶片“定價環境極端”疊加元件成本上升，將拖累利潤率。"
+    },
+    {
+      "id": "5060942",
+      "time": "2026-08-27 05:28:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：2028財年利潤率應穩定在72%至73%區間。"
+    },
+    {
+      "id": "mkt:01a03ff9-0d1a-7aab-9139-32ab268e1baf",
+      "time": "2026-08-27 05:28:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA CFO expects supply will remain a constraint on growth through at least fiscal 2028; memory prices are extremely elevated."
+    },
+    {
+      "id": "5060941",
+      "time": "2026-08-27 05:27:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達正與記憶體供應商合作擴大產能。"
+    },
+    {
+      "id": "5060940",
+      "time": "2026-08-27 05:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達預計第四季利潤率觸底，區間為71%至72%。"
+    },
+    {
+      "id": "mkt:01a03ff8-2e9e-7aab-9139-2caf2f21cd02",
+      "time": "2026-08-27 05:27:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMZN.O",
+        "Nasdaq100"
+      ],
+      "text": "【Amazon to deploy about 2 million NVIDIA GPUs in 2027-28 for data center expansion】Amazon (AMZN.O) and NVIDIA (NVDA.O) said Amazon will deploy roughly 2 million high-end NVIDIA GPUs in 2027 and 2028 for AI model training and inference. Amazon previously said in March it will install 1 million NVIDIA GPUs at AWS data centers starting this year. The latest deal covers NVIDIA Blackwell Ultra, Rubin and Rubin Ultra GPUs; unit prices are expected to be at least tens of thousands of dollars, with volume discounts for large customers."
+    },
+    {
+      "id": "mkt:01a03ff8-1c5b-7aab-9139-22ce5cc8607d",
+      "time": "2026-08-27 05:26:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO expects Vera Rubin to account for about 20% of the company's data-center revenue in Q3."
+    },
+    {
+      "id": "5060939",
+      "time": "2026-08-27 05:26:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達預計第三季度利潤率為74%，上下浮動50個基點。"
+    },
+    {
+      "id": "5060938",
+      "time": "2026-08-27 05:26:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：當前記憶體晶片正處於極端定價環境中。"
+    },
+    {
+      "id": "mkt:01a03ff7-9c85-7aab-9139-1cc9cfd1e2db",
+      "time": "2026-08-27 05:26:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company plans to increase shareholder returns by distributing remaining free cash flow after reserving amounts for strategic uses."
+    },
+    {
+      "id": "5060937",
+      "time": "2026-08-27 05:26:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：我們預計，至少到2028財年，供應仍將是瓶頸。"
+    },
+    {
+      "id": "5060936",
+      "time": "2026-08-27 05:25:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：預計第三季度Vera Rubin佔資料中心營收的約20%。"
+    },
+    {
+      "id": "mkt:01a03ff7-02fb-7aab-9139-1661ffde38ee",
+      "time": "2026-08-27 05:25:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said revenue from H200 shipments to Chinese customers is under 1% of total data-center revenue. Shipments to Chinese customers comply with US government export licenses. The company's outlook excludes any data-center compute revenue from China."
+    },
+    {
+      "id": "5060935",
+      "time": "2026-08-27 05:25:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司未來計劃增加並返還扣除戰略用途後剩餘的過剩自由現金流。"
+    },
+    {
+      "id": "mkt:01a03ff6-af15-7aab-9139-092faf558f1c",
+      "time": "2026-08-27 05:25:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO expects demand from AI labs next year to contribute about one-quarter of the company's overall business."
+    },
+    {
+      "id": "5060934",
+      "time": "2026-08-27 05:25:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：擴大瘦牛肉碎配額至每月10萬噸。"
+    },
+    {
+      "id": "mkt:01a03ff5-cb4a-7aab-9139-073014d72694",
+      "time": "2026-08-27 05:24:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said some people call this \"recycling financing\", but we view it differently."
+    },
+    {
+      "id": "mkt:01a03ff5-a51b-7aab-9138-fd0fe5de24a5",
+      "time": "2026-08-27 05:24:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company will provide selective credit-enhancement support for another cutting-edge AI lab's compute project of nearly 2 GW of capacity."
+    },
+    {
+      "id": "mkt:01a03ff5-85d3-7aab-9138-f7c7beef0dc7",
+      "time": "2026-08-27 05:24:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said OpenAI's current and planned project commitments amount to roughly 12 gigawatts of NVIDIA compute capacity."
+    },
+    {
+      "id": "5060932",
+      "time": "2026-08-27 05:23:16",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "英偉達首席財務官：預計明年人工智慧實驗室的需求將貢獻約四分之一的公司業務。"
+    },
+    {
+      "id": "5060931",
+      "time": "2026-08-27 05:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：將為另一家前沿實驗室近2吉瓦算力容量專案提供選擇性增信措施。"
+    },
+    {
+      "id": "5060930",
+      "time": "2026-08-27 05:22:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：OpenAI現有及計劃中的承諾約佔英偉達12GW計算能力。"
+    },
+    {
+      "id": "mkt:01a03ff3-783e-7aab-9138-ecf854a27e28",
+      "time": "2026-08-27 05:21:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company has invested $50 billion in frontier AI labs."
+    },
+    {
+      "id": "mkt:01a03ff3-5716-7aab-9138-e53bd4c2c5d9",
+      "time": "2026-08-27 05:21:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MU.O"
+      ],
+      "text": "【Analyst: NVIDIA more than doubles supplier commitments to secure memory supply】Analyst Edward Ludlow says NVIDIA (NVDA.O) has more than doubled its forward supplier commitments in a single quarter, rising from $119bn to $279bn. NVIDIA attributes the increase mainly to securing memory supply. These are commitments to suppliers, not incurred costs, intended to lock components and capacity to meet AI demand over the coming years. Commitments total $92bn for the remainder of the current fiscal year, $87bn for fiscal 2028 and $88bn for fiscal 2029."
+    },
+    {
+      "id": "mkt:01a03ff3-54e3-7aab-9138-d8e44d478149",
+      "time": "2026-08-27 05:21:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company’s revenue-sharing model is expected to generate tens of billions of dollars in revenue over the medium-to-long term."
+    },
+    {
+      "id": "5060929",
+      "time": "2026-08-27 05:21:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署關於牛肉可負擔性的公告。"
+    },
+    {
+      "id": "mkt:01a03ff3-07ac-7aab-9138-d743ec6ce1ce",
+      "time": "2026-08-27 05:21:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBC reports U.S. Trade Representative Greer said there is currently no open channel of communication with Canada."
+    },
+    {
+      "id": "5060928",
+      "time": "2026-08-27 05:21:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普已簽署公告，臨時提高免配額外關稅進口的瘦牛肉碎配額量。"
+    },
+    {
+      "id": "mkt:01a03ff2-bc7b-7aab-9138-ce376ebdcf2d",
+      "time": "2026-08-27 05:21:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company is introducing a revenue-sharing mechanism that includes a 'Take-or-Pay' commitment and a minimum revenue guarantee."
+    },
+    {
+      "id": "5060927",
+      "time": "2026-08-27 05:20:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：從中長期來看，營收分成模式可創造數十億美元收入。"
+    },
+    {
+      "id": "5060926",
+      "time": "2026-08-27 05:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：華爾街合作將支援前沿實驗室建設。"
+    },
+    {
+      "id": "5060925",
+      "time": "2026-08-27 05:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：我們已對前沿實驗室投資500億美元。"
+    },
+    {
+      "id": "5060924",
+      "time": "2026-08-27 05:19:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出收益分成架構，附帶照付不議承諾與最低收入保障。"
+    },
+    {
+      "id": "5060923",
+      "time": "2026-08-27 05:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：目前尚未與加拿大建立公開溝通渠道。"
+    },
+    {
+      "id": "mkt:01a03ff0-cd11-7aab-9138-c33598407ab8",
+      "time": "2026-08-27 05:19:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "CBC reported U.S. Trade Representative GREER warned that if Canada imposes further retaliatory measures, the U.S. will not 'stand idly by'."
+    },
+    {
+      "id": "5060922",
+      "time": "2026-08-27 05:18:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：加拿大針對美國的關稅措施“相當極端”。"
+    },
+    {
+      "id": "5060921",
+      "time": "2026-08-27 05:18:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI二期創業基金募資4億美元。"
+    },
+    {
+      "id": "mkt:01a03fef-e8c3-7aab-9138-b9cf05daa8f9",
+      "time": "2026-08-27 05:18:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company is a neutral partner to all sovereign AI customers and next-generation AI cloud service providers."
+    },
+    {
+      "id": "5060920",
+      "time": "2026-08-27 05:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：主權人工智慧業務同比增長超兩倍，環比增長35%。"
+    },
+    {
+      "id": "5060919",
+      "time": "2026-08-27 05:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：對所有主權國家和新型雲服務商，我們都是中立合作伙伴。"
+    },
+    {
+      "id": "mkt:01a03fee-b9c1-7aab-9138-b666faab531e",
+      "time": "2026-08-27 05:16:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company’s sovereign AI business more than doubled YoY and rose 35% QoQ."
+    },
+    {
+      "id": "5060918",
+      "time": "2026-08-27 05:16:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦特使向聯合國安理會表示，以色列的吞併行動已到無法挽回的地步。"
+    },
+    {
+      "id": "5060917",
+      "time": "2026-08-27 05:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.16%，報14742點。"
+    },
+    {
+      "id": "mkt:01a03fed-2073-7aab-9138-a953cbdc032d",
+      "time": "2026-08-27 05:14:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said growth from non-hyperscale cloud customers is expected to account for about half of its data-center business."
+    },
+    {
+      "id": "5060916",
+      "time": "2026-08-27 05:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：非超大規模客戶業務增長將佔資料中心業務的約一半。"
+    },
+    {
+      "id": "5060915",
+      "time": "2026-08-27 05:14:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Nebius集團盤後股價上漲超過5%，Coreweave上漲3.1%。"
+    },
+    {
+      "id": "5060914",
+      "time": "2026-08-27 05:13:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：除超大規模企業外存在巨大市場，部分客戶對定製化晶片並無興趣。"
+    },
+    {
+      "id": "mkt:01a03fec-07b2-7aab-9138-a6ab8ff3136a",
+      "time": "2026-08-27 05:13:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said it expects to begin large-scale shipments of Groq 3 LPX to early customers later this quarter; initial recipients include Nebius."
+    },
+    {
+      "id": "5060913",
+      "time": "2026-08-27 05:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：預計本季度晚些時候向早期採用者全量出貨Groq 3 LPX，首批供貨物件為Nebius。"
+    },
+    {
+      "id": "mkt:01a03feb-95d1-7aab-9138-9a5097fc98e8",
+      "time": "2026-08-27 05:13:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company preliminarily expects CPU business revenue to double in fiscal 2028."
+    },
+    {
+      "id": "mkt:01a03feb-7021-7aab-9138-9695eba97247",
+      "time": "2026-08-27 05:13:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "U.S. Trade Representative Greer said in trade talks with Canada the U.S. seeks reciprocal protection mechanisms for steel, aluminum and related sectors."
+    },
+    {
+      "id": "5060912",
+      "time": "2026-08-27 05:12:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達盤後上漲至5%。"
+    },
+    {
+      "id": "5060911",
+      "time": "2026-08-27 05:12:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：初步預計2028財年中央處理器（CPU）營收將實現翻倍。"
+    },
+    {
+      "id": "mkt:01a03fea-5263-7aab-9138-8bb1ccd12fff",
+      "time": "2026-08-27 05:11:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO says the company is fully ramping production of its next-generation Vera CPU."
+    },
+    {
+      "id": "5060910",
+      "time": "2026-08-27 05:11:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：在與加拿大的貿易談判中，希望就鋼鋁這類商品達成相互保護協議。"
+    },
+    {
+      "id": "5060909",
+      "time": "2026-08-27 05:11:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：預計每家超大規模計算公司、人工智慧實驗室、新雲服務商及系統原始裝置製造商都將部署Vera Rubin。"
+    },
+    {
+      "id": "mkt:01a03fe9-e3ba-7aab-9138-86d01d4d97d3",
+      "time": "2026-08-27 05:11:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the Vera Rubin product's ramp-up will be the fastest in company history."
+    },
+    {
+      "id": "mkt:01a03fe9-67e1-7aab-9138-7c292e712095",
+      "time": "2026-08-27 05:10:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO: Each 1 GW of compute deployed on Vera Rubin represents roughly $40 billion of revenue opportunity."
+    },
+    {
+      "id": "5060908",
+      "time": "2026-08-27 05:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：我們已全面投產下一代Vera中央處理器。"
+    },
+    {
+      "id": "mkt:01a03fe8-d2b1-7aab-9138-76510e1d16aa",
+      "time": "2026-08-27 05:10:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO: began shipping Vera Rubin earlier this month."
+    },
+    {
+      "id": "5060907",
+      "time": "2026-08-27 05:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：Vera Rubin每吉瓦收入機會為400億美元。"
+    },
+    {
+      "id": "5060906",
+      "time": "2026-08-27 05:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：本月早些時候已開始生產發貨Vera Rubin。"
+    },
+    {
+      "id": "mkt:01a03fe7-2113-7aab-9138-6e2979fd0c4f",
+      "time": "2026-08-27 05:08:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company and Amazon Web Services will add 2 million NVIDIA GPUs to AWS’s global infrastructure during 2027–2028."
+    },
+    {
+      "id": "mkt:01a03fe6-bf69-7aab-9138-65440a0ae874",
+      "time": "2026-08-27 05:08:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company will partner with Amazon Web Services to build data centers for the U.S. government, deploying 100,000 GPUs on \"secure AWS infrastructure\"."
+    },
+    {
+      "id": "5060905",
+      "time": "2026-08-27 05:07:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：需求訊號支撐明年營收翻倍增長。"
+    },
+    {
+      "id": "5060904",
+      "time": "2026-08-27 05:07:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司的雲原生合作伙伴預計在年末將實現總計8吉瓦的總裝機容量。"
+    },
+    {
+      "id": "5060903",
+      "time": "2026-08-27 05:07:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司正拓展與亞馬遜雲科技的合作關係。"
+    },
+    {
+      "id": "5060902",
+      "time": "2026-08-27 05:06:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "香港天文臺釋出紅色暴雨警告。"
+    },
+    {
+      "id": "5060901",
+      "time": "2026-08-27 05:06:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達CFO稱，2028財年營收預計增長約70%。"
+    },
+    {
+      "id": "5060900",
+      "time": "2026-08-27 05:06:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達首席財務官：公司與亞馬遜雲（AWS）將為美國政府建設資料中心，該資料中心將在“AWS安全基礎設施”之上部署10萬顆GPU。"
+    },
+    {
+      "id": "5060899",
+      "time": "2026-08-27 05:05:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達漲幅擴大至2.9%。"
+    },
+    {
+      "id": "5060898",
+      "time": "2026-08-27 05:05:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技與英偉達將為智慧體AI與物理AI額外提供200萬顆圖形處理器及下一代基礎設施。"
+    },
+    {
+      "id": "5060897",
+      "time": "2026-08-27 05:03:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）今日批准為智利接續一項兩年期靈活信貸額度（FCL）安排，規模約118億美元。"
+    },
+    {
+      "id": "5060896",
+      "time": "2026-08-27 04:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝加哥商品交易所集團：全球指揮中心已知悉連線FIRMSOFT/CME ONE時出現的問題。支援團隊正在調查中。"
+    },
+    {
+      "id": "mkt:01a03fde-4755-7aab-9138-5a2e1a76ea89",
+      "time": "2026-08-27 04:58:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CME said its Global Command Center (GCC) has detected issues connecting to Firmsoft/CMEOne and its technical support team is investigating."
+    },
+    {
+      "id": "te:markets:578374",
+      "time": "2026-08-27 04:55:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Ends Flat as Yields Edge Higher — The Ibovespa closed flat at 174,586 on Wednesday as earlier gains faded following the release of US PCE data. The Federal Reserve’s preferred inflation gauge came in above forecasts, raising expectations for a restrictive Fed stance and pushing global yields higher. Vale declined 0.3% despite higher iron ore prices. Meanwhile, Brazil’s inflation rate eased to 4.25% in the first half of August from 4.44% in July, remaining below the central bank’s 4.5% upper tolerance band and boosting expectations for a Selic rate cut. Financials provided some support, with Bradesco rising 1.2 and Itaúsa up 0.4%. Petrobras gained 0.2% despite lower oil prices amid renewed talks between Iran and Oman, while prices remained elevated and prospects for a US-Iran peace deal uncertain. Sabesp added 1.5% after Itaú BBA reiterated its buy rating following the stock’s slump after its quarterly results. Embraer rose 0.9% on news of plane acquisitions from LATAM and a likely bid win with the Indian government."
+    },
     {
       "id": "mkt:01a03fd6-4f20-7aab-9138-56a2094ead48",
       "time": "2026-08-27 04:50:04",

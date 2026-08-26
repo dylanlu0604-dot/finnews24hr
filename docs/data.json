@@ -1,7 +1,1058 @@
 {
-  "updated": "2026-08-27 04:54:36",
-  "count": 16673,
+  "updated": "2026-08-27 05:58:21",
+  "count": 16735,
   "items": [
+    {
+      "id": "mkt:01a0400f-f9a9-7aab-9139-9f9c113d8e7d",
+      "time": "2026-08-27 05:53:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "ZM.O"
+      ],
+      "text": "【Zoom stake in Anthropic valued at $3.13 billion】Zoom says the value of its Anthropic stake rose to $3.13 billion, producing a $1.61 billion unrealized (book) gain in the three months to July. Zoom first invested in Anthropic in early 2023 and integrated Anthropic's Claude model into its products. The company added $301 million to its Anthropic holding in the six months to July."
+    },
+    {
+      "id": "mkt:01a0400d-3631-7aab-9139-97ee93414527",
+      "time": "2026-08-27 05:50:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc's automated system recorded a magnitude ~4.5 earthquake at 05:47 on Aug 27 offshore Taitung County, Taiwan; final parameters await the official rapid bulletin."
+    },
+    {
+      "id": "5060955",
+      "time": "2026-08-27 05:49:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月27日05時47分在臺灣台東縣海域附近（北緯22.78度，東經121.44度）發生4.5級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5060954",
+      "time": "2026-08-27 05:48:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：OpenAI與Anthropic很快將會上市。"
+    },
+    {
+      "id": "mkt:01a0400c-0d9e-7aab-9139-8b835c305fda",
+      "time": "2026-08-27 05:48:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Jensen Huang said that although the industry is shifting toward developing custom chips, leading-edge AI labs will remain long-term customers of NVIDIA."
+    },
+    {
+      "id": "mkt:01a0400c-0b8b-7aab-9139-819478b1f148",
+      "time": "2026-08-27 05:48:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the world will need both closed and open AI models."
+    },
+    {
+      "id": "mkt:01a0400b-f33f-7aab-9139-7a1481a7d141",
+      "time": "2026-08-27 05:48:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang hinted OpenAI and Anthropic may IPO soon."
+    },
+    {
+      "id": "5060953",
+      "time": "2026-08-27 05:48:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達預測AI驅動的銷售增長將延續至2028財年】英偉達給出2028財年樂觀銷售預期，首席財務官科萊特·克雷斯稱，公司預計2028財年營收增長約70%。公司二季度財報顯示營收962億美元，非特定專案調整後每股收益2.22美元，資料中心業務營收890億美元。英偉達警示，受記憶體成本飆升影響，未來數月利潤率將收窄，但隨著公司上調產品定價，預計2028財年利潤率將回落至72%‑73%區間。"
+    },
+    {
+      "id": "5060952",
+      "time": "2026-08-27 05:47:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：全球既需要閉源模型，也需要開源模型。"
+    },
+    {
+      "id": "mkt:01a0400b-0e60-7aab-9139-745604217629",
+      "time": "2026-08-27 05:47:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【NVIDIA beats Q2, issues rare early FY2028 revenue guidance】NVIDIA beat Q2 FY2027 estimates; after-hours shares initially fell about 3%. CFO Colette Kress said NVIDIA now expects FY2028 revenue to rise roughly 70% versus analysts’ ~44% consensus, citing accelerating demand limited by supply. CEO Jensen Huang said demand growth already exceeds 70% and could be near 100%; the 70% outlook reflects current supply constraints and would be materially higher without them. Shares swung in after-hours, dropping ~3% then rallying as much as 5%."
+    },
+    {
+      "id": "5060951",
+      "time": "2026-08-27 05:45:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普簽署公告擴大瘦牛肉進口配額】美國總統特朗普今日釋出公告，臨時上調瘦牛肉碎料進口配額，超額部分不徵收關稅。公告顯示，配額上調自9月1日起生效，為期90天。白宮補充，每月進口上限為10萬噸。公告表明，該配額僅適用於瘦牛肉碎料，用於和美國本土牛肉混合製作牛肉餡。"
+    },
+    {
+      "id": "5060950",
+      "time": "2026-08-27 05:40:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：如果不受供應限制，2028財年業績展望會“高得多”。"
+    },
+    {
+      "id": "mkt:01a04004-1e14-7aab-9139-6c0f640cc7b8",
+      "time": "2026-08-27 05:40:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the company's fiscal 2028 outlook would be \"much higher\" absent supply constraints."
+    },
+    {
+      "id": "mkt:01a04001-b2a3-7aab-9139-62968bb395fb",
+      "time": "2026-08-27 05:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKO issued a Red Rainstorm Warning Signal at 05:05 HKT."
+    },
+    {
+      "id": "mkt:01a04000-89e9-7aab-9139-5cb517e21750",
+      "time": "2026-08-27 05:36:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said current supply capacity gives the company confidence it can achieve 70% growth in fiscal 2028."
+    },
+    {
+      "id": "5060949",
+      "time": "2026-08-27 05:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首架中國救援隊包機完成起飛準備工作 即將飛往日喀則】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。應急管理部、國家消防救援局調派中國救援隊111名消防救援指戰員趕赴災害現場增援。目前，首架中國救援隊包機已完成起飛準備工作，計劃今早6點從成都雙流機場飛往日喀則定日機場。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04000-1ba5-7aab-9139-532d1448edf3",
+      "time": "2026-08-27 05:35:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the future non-hyperscale cloud computing market could exceed current total cloud capacity."
+    },
+    {
+      "id": "5060948",
+      "time": "2026-08-27 05:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：我們此前從未提前一年釋出業績指引。"
+    },
+    {
+      "id": "mkt:01a03ffe-78dd-7aab-9139-494aa9cc2f6b",
+      "time": "2026-08-27 05:33:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the company has never previously issued earnings guidance a year in advance."
+    },
+    {
+      "id": "5060947",
+      "time": "2026-08-27 05:32:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：供應鏈能力足以支撐我們信心滿滿地實現2028財年70%的增長。"
+    },
+    {
+      "id": "5060946",
+      "time": "2026-08-27 05:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：非超大規模計算可能將比當前雲容量更大。"
+    },
+    {
+      "id": "mkt:01a03ffb-aed8-7aab-9139-477ab3675e23",
+      "time": "2026-08-27 05:30:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO says fiscal 2028 gross margin should stabilize at 72%-73%."
+    },
+    {
+      "id": "mkt:01a03ffb-0ddb-7aab-9139-397b1b6d341e",
+      "time": "2026-08-27 05:30:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company expects third fiscal-quarter gross margin around 74%, +/-50 bps, and expects fourth fiscal-quarter gross margin to bottom at 71–72%."
+    },
+    {
+      "id": "5060945",
+      "time": "2026-08-27 05:29:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽評級：厄爾尼諾現象給巴西保險公司帶來挑戰，但該行業整體依然穩健。"
+    },
+    {
+      "id": "5060944",
+      "time": "2026-08-27 05:28:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司將在第一季度提價。"
+    },
+    {
+      "id": "5060943",
+      "time": "2026-08-27 05:28:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：記憶體晶片“定價環境極端”疊加元件成本上升，將拖累利潤率。"
+    },
+    {
+      "id": "5060942",
+      "time": "2026-08-27 05:28:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：2028財年利潤率應穩定在72%至73%區間。"
+    },
+    {
+      "id": "mkt:01a03ff9-0d1a-7aab-9139-32ab268e1baf",
+      "time": "2026-08-27 05:28:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA CFO expects supply will remain a constraint on growth through at least fiscal 2028; memory prices are extremely elevated."
+    },
+    {
+      "id": "5060941",
+      "time": "2026-08-27 05:27:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達正與記憶體供應商合作擴大產能。"
+    },
+    {
+      "id": "5060940",
+      "time": "2026-08-27 05:27:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達預計第四季利潤率觸底，區間為71%至72%。"
+    },
+    {
+      "id": "mkt:01a03ff8-2e9e-7aab-9139-2caf2f21cd02",
+      "time": "2026-08-27 05:27:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMZN.O",
+        "Nasdaq100"
+      ],
+      "text": "【Amazon to deploy about 2 million NVIDIA GPUs in 2027-28 for data center expansion】Amazon (AMZN.O) and NVIDIA (NVDA.O) said Amazon will deploy roughly 2 million high-end NVIDIA GPUs in 2027 and 2028 for AI model training and inference. Amazon previously said in March it will install 1 million NVIDIA GPUs at AWS data centers starting this year. The latest deal covers NVIDIA Blackwell Ultra, Rubin and Rubin Ultra GPUs; unit prices are expected to be at least tens of thousands of dollars, with volume discounts for large customers."
+    },
+    {
+      "id": "mkt:01a03ff8-1c5b-7aab-9139-22ce5cc8607d",
+      "time": "2026-08-27 05:26:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO expects Vera Rubin to account for about 20% of the company's data-center revenue in Q3."
+    },
+    {
+      "id": "5060939",
+      "time": "2026-08-27 05:26:49",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達預計第三季度利潤率為74%，上下浮動50個基點。"
+    },
+    {
+      "id": "5060938",
+      "time": "2026-08-27 05:26:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：當前記憶體晶片正處於極端定價環境中。"
+    },
+    {
+      "id": "mkt:01a03ff7-9c85-7aab-9139-1cc9cfd1e2db",
+      "time": "2026-08-27 05:26:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company plans to increase shareholder returns by distributing remaining free cash flow after reserving amounts for strategic uses."
+    },
+    {
+      "id": "5060937",
+      "time": "2026-08-27 05:26:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：我們預計，至少到2028財年，供應仍將是瓶頸。"
+    },
+    {
+      "id": "5060936",
+      "time": "2026-08-27 05:25:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：預計第三季度Vera Rubin佔資料中心營收的約20%。"
+    },
+    {
+      "id": "mkt:01a03ff7-02fb-7aab-9139-1661ffde38ee",
+      "time": "2026-08-27 05:25:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said revenue from H200 shipments to Chinese customers is under 1% of total data-center revenue. Shipments to Chinese customers comply with US government export licenses. The company's outlook excludes any data-center compute revenue from China."
+    },
+    {
+      "id": "5060935",
+      "time": "2026-08-27 05:25:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司未來計劃增加並返還扣除戰略用途後剩餘的過剩自由現金流。"
+    },
+    {
+      "id": "mkt:01a03ff6-af15-7aab-9139-092faf558f1c",
+      "time": "2026-08-27 05:25:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO expects demand from AI labs next year to contribute about one-quarter of the company's overall business."
+    },
+    {
+      "id": "5060934",
+      "time": "2026-08-27 05:25:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：擴大瘦牛肉碎配額至每月10萬噸。"
+    },
+    {
+      "id": "mkt:01a03ff5-cb4a-7aab-9139-073014d72694",
+      "time": "2026-08-27 05:24:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said some people call this \"recycling financing\", but we view it differently."
+    },
+    {
+      "id": "mkt:01a03ff5-a51b-7aab-9138-fd0fe5de24a5",
+      "time": "2026-08-27 05:24:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company will provide selective credit-enhancement support for another cutting-edge AI lab's compute project of nearly 2 GW of capacity."
+    },
+    {
+      "id": "mkt:01a03ff5-85d3-7aab-9138-f7c7beef0dc7",
+      "time": "2026-08-27 05:24:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said OpenAI's current and planned project commitments amount to roughly 12 gigawatts of NVIDIA compute capacity."
+    },
+    {
+      "id": "5060932",
+      "time": "2026-08-27 05:23:16",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "英偉達首席財務官：預計明年人工智慧實驗室的需求將貢獻約四分之一的公司業務。"
+    },
+    {
+      "id": "5060931",
+      "time": "2026-08-27 05:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：將為另一家前沿實驗室近2吉瓦算力容量專案提供選擇性增信措施。"
+    },
+    {
+      "id": "5060930",
+      "time": "2026-08-27 05:22:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：OpenAI現有及計劃中的承諾約佔英偉達12GW計算能力。"
+    },
+    {
+      "id": "mkt:01a03ff3-783e-7aab-9138-ecf854a27e28",
+      "time": "2026-08-27 05:21:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company has invested $50 billion in frontier AI labs."
+    },
+    {
+      "id": "mkt:01a03ff3-5716-7aab-9138-e53bd4c2c5d9",
+      "time": "2026-08-27 05:21:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MU.O"
+      ],
+      "text": "【Analyst: NVIDIA more than doubles supplier commitments to secure memory supply】Analyst Edward Ludlow says NVIDIA (NVDA.O) has more than doubled its forward supplier commitments in a single quarter, rising from $119bn to $279bn. NVIDIA attributes the increase mainly to securing memory supply. These are commitments to suppliers, not incurred costs, intended to lock components and capacity to meet AI demand over the coming years. Commitments total $92bn for the remainder of the current fiscal year, $87bn for fiscal 2028 and $88bn for fiscal 2029."
+    },
+    {
+      "id": "5060929",
+      "time": "2026-08-27 05:21:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普簽署關於牛肉可負擔性的公告。"
+    },
+    {
+      "id": "mkt:01a03ff3-54e3-7aab-9138-d8e44d478149",
+      "time": "2026-08-27 05:21:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company’s revenue-sharing model is expected to generate tens of billions of dollars in revenue over the medium-to-long term."
+    },
+    {
+      "id": "mkt:01a03ff3-07ac-7aab-9138-d743ec6ce1ce",
+      "time": "2026-08-27 05:21:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBC reports U.S. Trade Representative Greer said there is currently no open channel of communication with Canada."
+    },
+    {
+      "id": "5060928",
+      "time": "2026-08-27 05:21:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮：特朗普已簽署公告，臨時提高免配額外關稅進口的瘦牛肉碎配額量。"
+    },
+    {
+      "id": "mkt:01a03ff2-bc7b-7aab-9138-ce376ebdcf2d",
+      "time": "2026-08-27 05:21:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company is introducing a revenue-sharing mechanism that includes a 'Take-or-Pay' commitment and a minimum revenue guarantee."
+    },
+    {
+      "id": "5060927",
+      "time": "2026-08-27 05:20:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：從中長期來看，營收分成模式可創造數十億美元收入。"
+    },
+    {
+      "id": "5060926",
+      "time": "2026-08-27 05:20:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：華爾街合作將支援前沿實驗室建設。"
+    },
+    {
+      "id": "5060925",
+      "time": "2026-08-27 05:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：我們已對前沿實驗室投資500億美元。"
+    },
+    {
+      "id": "5060924",
+      "time": "2026-08-27 05:19:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出收益分成架構，附帶照付不議承諾與最低收入保障。"
+    },
+    {
+      "id": "5060923",
+      "time": "2026-08-27 05:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：目前尚未與加拿大建立公開溝通渠道。"
+    },
+    {
+      "id": "mkt:01a03ff0-cd11-7aab-9138-c33598407ab8",
+      "time": "2026-08-27 05:19:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "CBC reported U.S. Trade Representative GREER warned that if Canada imposes further retaliatory measures, the U.S. will not 'stand idly by'."
+    },
+    {
+      "id": "5060922",
+      "time": "2026-08-27 05:18:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：加拿大針對美國的關稅措施“相當極端”。"
+    },
+    {
+      "id": "5060921",
+      "time": "2026-08-27 05:18:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI二期創業基金募資4億美元。"
+    },
+    {
+      "id": "mkt:01a03fef-e8c3-7aab-9138-b9cf05daa8f9",
+      "time": "2026-08-27 05:18:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company is a neutral partner to all sovereign AI customers and next-generation AI cloud service providers."
+    },
+    {
+      "id": "5060920",
+      "time": "2026-08-27 05:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：主權人工智慧業務同比增長超兩倍，環比增長35%。"
+    },
+    {
+      "id": "5060919",
+      "time": "2026-08-27 05:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：對所有主權國家和新型雲服務商，我們都是中立合作伙伴。"
+    },
+    {
+      "id": "mkt:01a03fee-b9c1-7aab-9138-b666faab531e",
+      "time": "2026-08-27 05:16:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company’s sovereign AI business more than doubled YoY and rose 35% QoQ."
+    },
+    {
+      "id": "5060918",
+      "time": "2026-08-27 05:16:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦特使向聯合國安理會表示，以色列的吞併行動已到無法挽回的地步。"
+    },
+    {
+      "id": "5060917",
+      "time": "2026-08-27 05:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.16%，報14742點。"
+    },
+    {
+      "id": "mkt:01a03fed-2073-7aab-9138-a953cbdc032d",
+      "time": "2026-08-27 05:14:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said growth from non-hyperscale cloud customers is expected to account for about half of its data-center business."
+    },
+    {
+      "id": "5060916",
+      "time": "2026-08-27 05:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：非超大規模客戶業務增長將佔資料中心業務的約一半。"
+    },
+    {
+      "id": "5060915",
+      "time": "2026-08-27 05:14:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Nebius集團盤後股價上漲超過5%，Coreweave上漲3.1%。"
+    },
+    {
+      "id": "5060914",
+      "time": "2026-08-27 05:13:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：除超大規模企業外存在巨大市場，部分客戶對定製化晶片並無興趣。"
+    },
+    {
+      "id": "mkt:01a03fec-07b2-7aab-9138-a6ab8ff3136a",
+      "time": "2026-08-27 05:13:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said it expects to begin large-scale shipments of Groq 3 LPX to early customers later this quarter; initial recipients include Nebius."
+    },
+    {
+      "id": "5060913",
+      "time": "2026-08-27 05:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：預計本季度晚些時候向早期採用者全量出貨Groq 3 LPX，首批供貨物件為Nebius。"
+    },
+    {
+      "id": "mkt:01a03feb-95d1-7aab-9138-9a5097fc98e8",
+      "time": "2026-08-27 05:13:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company preliminarily expects CPU business revenue to double in fiscal 2028."
+    },
+    {
+      "id": "mkt:01a03feb-7021-7aab-9138-9695eba97247",
+      "time": "2026-08-27 05:13:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "U.S. Trade Representative Greer said in trade talks with Canada the U.S. seeks reciprocal protection mechanisms for steel, aluminum and related sectors."
+    },
+    {
+      "id": "5060912",
+      "time": "2026-08-27 05:12:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達盤後上漲至5%。"
+    },
+    {
+      "id": "5060911",
+      "time": "2026-08-27 05:12:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：初步預計2028財年中央處理器（CPU）營收將實現翻倍。"
+    },
+    {
+      "id": "mkt:01a03fea-5263-7aab-9138-8bb1ccd12fff",
+      "time": "2026-08-27 05:11:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO says the company is fully ramping production of its next-generation Vera CPU."
+    },
+    {
+      "id": "5060910",
+      "time": "2026-08-27 05:11:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：在與加拿大的貿易談判中，希望就鋼鋁這類商品達成相互保護協議。"
+    },
+    {
+      "id": "5060909",
+      "time": "2026-08-27 05:11:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：預計每家超大規模計算公司、人工智慧實驗室、新雲服務商及系統原始裝置製造商都將部署Vera Rubin。"
+    },
+    {
+      "id": "mkt:01a03fe9-e3ba-7aab-9138-86d01d4d97d3",
+      "time": "2026-08-27 05:11:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the Vera Rubin product's ramp-up will be the fastest in company history."
+    },
+    {
+      "id": "mkt:01a03fe9-67e1-7aab-9138-7c292e712095",
+      "time": "2026-08-27 05:10:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO: Each 1 GW of compute deployed on Vera Rubin represents roughly $40 billion of revenue opportunity."
+    },
+    {
+      "id": "5060908",
+      "time": "2026-08-27 05:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：我們已全面投產下一代Vera中央處理器。"
+    },
+    {
+      "id": "mkt:01a03fe8-d2b1-7aab-9138-76510e1d16aa",
+      "time": "2026-08-27 05:10:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO: began shipping Vera Rubin earlier this month."
+    },
+    {
+      "id": "5060907",
+      "time": "2026-08-27 05:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：Vera Rubin每吉瓦收入機會為400億美元。"
+    },
+    {
+      "id": "5060906",
+      "time": "2026-08-27 05:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：本月早些時候已開始生產發貨Vera Rubin。"
+    },
+    {
+      "id": "mkt:01a03fe7-2113-7aab-9138-6e2979fd0c4f",
+      "time": "2026-08-27 05:08:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company and Amazon Web Services will add 2 million NVIDIA GPUs to AWS’s global infrastructure during 2027–2028."
+    },
+    {
+      "id": "mkt:01a03fe6-bf69-7aab-9138-65440a0ae874",
+      "time": "2026-08-27 05:08:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CFO said the company will partner with Amazon Web Services to build data centers for the U.S. government, deploying 100,000 GPUs on \"secure AWS infrastructure\"."
+    },
+    {
+      "id": "5060905",
+      "time": "2026-08-27 05:07:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達首席財務官：需求訊號支撐明年營收翻倍增長。"
+    },
+    {
+      "id": "5060904",
+      "time": "2026-08-27 05:07:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司的雲原生合作伙伴預計在年末將實現總計8吉瓦的總裝機容量。"
+    },
+    {
+      "id": "5060903",
+      "time": "2026-08-27 05:07:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達首席財務官：公司正拓展與亞馬遜雲科技的合作關係。"
+    },
+    {
+      "id": "5060902",
+      "time": "2026-08-27 05:06:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "香港天文臺釋出紅色暴雨警告。"
+    },
+    {
+      "id": "5060901",
+      "time": "2026-08-27 05:06:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達CFO稱，2028財年營收預計增長約70%。"
+    },
+    {
+      "id": "5060900",
+      "time": "2026-08-27 05:06:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達首席財務官：公司與亞馬遜雲（AWS）將為美國政府建設資料中心，該資料中心將在“AWS安全基礎設施”之上部署10萬顆GPU。"
+    },
+    {
+      "id": "5060899",
+      "time": "2026-08-27 05:05:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達漲幅擴大至2.9%。"
+    },
+    {
+      "id": "5060898",
+      "time": "2026-08-27 05:05:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技與英偉達將為智慧體AI與物理AI額外提供200萬顆圖形處理器及下一代基礎設施。"
+    },
+    {
+      "id": "5060897",
+      "time": "2026-08-27 05:03:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）今日批准為智利接續一項兩年期靈活信貸額度（FCL）安排，規模約118億美元。"
+    },
+    {
+      "id": "5060896",
+      "time": "2026-08-27 04:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "芝加哥商品交易所集團：全球指揮中心已知悉連線FIRMSOFT/CME ONE時出現的問題。支援團隊正在調查中。"
+    },
+    {
+      "id": "mkt:01a03fde-4755-7aab-9138-5a2e1a76ea89",
+      "time": "2026-08-27 04:58:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CME said its Global Command Center (GCC) has detected issues connecting to Firmsoft/CMEOne and its technical support team is investigating."
+    },
+    {
+      "id": "te:markets:578374",
+      "time": "2026-08-27 04:55:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Ends Flat as Yields Edge Higher — The Ibovespa closed flat at 174,586 on Wednesday as earlier gains faded following the release of US PCE data. The Federal Reserve’s preferred inflation gauge came in above forecasts, raising expectations for a restrictive Fed stance and pushing global yields higher. Vale declined 0.3% despite higher iron ore prices. Meanwhile, Brazil’s inflation rate eased to 4.25% in the first half of August from 4.44% in July, remaining below the central bank’s 4.5% upper tolerance band and boosting expectations for a Selic rate cut. Financials provided some support, with Bradesco rising 1.2 and Itaúsa up 0.4%. Petrobras gained 0.2% despite lower oil prices amid renewed talks between Iran and Oman, while prices remained elevated and prospects for a US-Iran peace deal uncertain. Sabesp added 1.5% after Itaú BBA reiterated its buy rating following the stock’s slump after its quarterly results. Embraer rose 0.9% on news of plane acquisitions from LATAM and a likely bid win with the Indian government."
+    },
     {
       "id": "mkt:01a03fd6-4f20-7aab-9138-56a2094ead48",
       "time": "2026-08-27 04:50:04",
@@ -149972,370 +151023,6 @@
         "市場"
       ],
       "text": "澳大利亞黃金礦業公司Northern Star預計2027財年黃金產量為150萬至165萬盎司。"
-    },
-    {
-      "id": "5048655",
-      "time": "2026-08-20 05:58:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱將出席 9 月 9‑10 日的共和黨中期代表大會。"
-    },
-    {
-      "id": "5048654",
-      "time": "2026-08-20 05:57:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱掌握可嚴厲制裁伊朗措施】當地時間8月19日下午，美國總統特朗普在白宮回答媒體有關將如何制裁伊朗的提問時稱，“我們有很多可以制裁的領域，我們手裡有非常嚴厲的制裁手段，我們拭目以待。”當天早些時候特朗普還曾對媒體表示，可能在“某個時候”恢復與伊朗的談判，但伊朗必須徹底放棄核武器。 特朗普還再次聲稱美國“擁有”並“完全控制”霍爾木茲海峽，並稱伊朗“偶爾發射無人機確實會帶來麻煩”。 特朗普8月18日在社交媒體上稱，目前沒有和伊朗進行任何會談或對話。此前，他一直堅稱美國同伊朗正在進行談判，但遭到伊朗方面多次否認。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a01c07-45ee-7aab-90a2-b457bd22b686",
-      "time": "2026-08-20 05:57:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombian president says earthquake death toll has reached 314; 262 people remain missing."
-    },
-    {
-      "id": "mkt:01a01c06-9197-7aab-90a2-aeafb35d0ec9",
-      "time": "2026-08-20 05:56:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Analysis: Rising U.S. debt becomes focus of midterm elections】Michael Peterson, CEO of the Peter G. Peterson Foundation, said rising U.S. debt has become a midterm-election focal point and framed the issue as a cost-of-living problem. He warned higher debt raises interest costs — interest outlays now exceed defense spending — and said each $1 trillion of additional debt pushes up interest rates and inflation, increasing mortgage, auto and credit-card payments. He added rising debt undermines economic growth and slows wage growth while living costs rise."
-    },
-    {
-      "id": "mkt:01a01c06-38b4-7aab-90a2-a2466d698b7a",
-      "time": "2026-08-20 05:56:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Bessent emerges as most interventionist US Treasury secretary in decades】US Treasury Secretary Bessent this year has taken an unusually interventionist stance to curb rising US borrowing costs, including a move this week to \"at least double\" planned buybacks of 10-yr and 30-yr Treasuries. Treasury had earlier signaled it might reduce long-term debt issuance; on July 31 Bessent led the US government’s first yen purchase in 30 years. Former Treasury official Mark Sobel called Bessent \"absolutely an aggressive interventionist,\" saying his hedge-fund background is evident and senior officials are clearly worried about rising long-term yields. Rising 10-yr yields — driven by inflation, Fed policy and fiscal deficits — have pushed mortgage rates higher and weighed on growth; analysts say Bessent appears to be attempting yield-curve intervention to stabilize markets but warn it is unlikely to succeed long-term without addressing high debt and deficits."
-    },
-    {
-      "id": "5048653",
-      "time": "2026-08-20 05:55:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統表示，地震已造成 314 人遇難，仍有 262 人失蹤。"
-    },
-    {
-      "id": "te:economy:576613",
-      "time": "2026-08-20 05:54:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Jamaica",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Bank of Jamaica Holds Key Interest Rate at 5.50% — Jamaica’s central bank kept its policy rate unchanged at 5.50% at its August 2026 meeting, as persistent inflationary pressures and geopolitical risks clouded the outlook. Headline inflation rose to 7.5% in July from 6.7% in June, remaining above the Bank of Jamaica’s target range, while core inflation increased to 5.2% from 5.0%. The BOJ expects inflation to remain above the target range in the September quarter before moderating. Tensions in the Middle East and the intensification of the Russia-Ukraine war are expected to keep fuel prices elevated, raising electricity, transport and other costs. Additional pressures could come from fiscal spending on post-Hurricane Melissa reconstruction and worsening drought conditions. Still, a stable exchange rate and healthy international reserves should help contain imported inflation. The BOJ said inflation risks remain skewed to the upside and it is prepared to adjust policy if needed. GDP growth for FY2026/27 is projected at 1%-3%."
-    },
-    {
-      "id": "mkt:01a01c04-2e38-7aab-90a2-9ce11e27e903",
-      "time": "2026-08-20 05:53:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【US federal debt tops $40 tln; fiscal hawks urge swift action】US federal debt topped $40 tln on Tuesday, having doubled in under 10 years. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, urged lawmakers to act swiftly, saying no one knows how many more such milestones the US can tolerate and that domestic voter concern, market warnings, foreign competition or the costs of inaction should prompt action. She flagged other warning signs, notably a rising debt-to-GDP ratio; national debt was about 122% of GDP ($31.87 tln) in Q1 2026."
-    },
-    {
-      "id": "te:markets:576612",
-      "time": "2026-08-20 05:46:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "HRC Steel Hits 5-week Low — HRC Steel decreased to 1184.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 0.25%, and in the last 12 months, it increased 42.69%."
-    },
-    {
-      "id": "5048652",
-      "time": "2026-08-20 05:46:24",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【富國：美國擴大回購是“豪賭”短端利率會走低】富國經濟學家Tom Porcelli和Michael Pugliese在研報中指出，鑑於財政政策的不可持續性，美國財政部將長期債券回購規模至少擴大一倍的決定需要轉而加大短債發行來為其提供資金，相當於是對短端利率走低的“豪賭”。短端利率可能下降，但前提是通脹保持粘性，且中性利率的預期持續走高。他們寫道：“換句話說，在預算赤字佔GDP的6%且利息成本處於歷史高位的情況下，縮短國債的加權平均久期是冒險之舉”。流動性回購工具並非為充當“久期支撐工具”而涉及，雖然下意識反應可能正面，但長遠而言市場未必這麼看。"
-    },
-    {
-      "id": "5048651",
-      "time": "2026-08-20 05:44:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "牙買加中央銀行將貸款利率維持在5.5%的水平。"
-    },
-    {
-      "id": "5048650",
-      "time": "2026-08-20 05:42:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部長：敘利亞外交部長今日抵達伊斯蘭堡，對巴基斯坦開展正式訪問。"
-    },
-    {
-      "id": "mkt:01a01bf8-8fee-7aab-90a2-9562942d1496",
-      "time": "2026-08-20 05:41:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's foreign minister said Syrian foreign minister Shibani has arrived in Islamabad on an invitation and begun an official visit."
-    },
-    {
-      "id": "5048649",
-      "time": "2026-08-20 05:39:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌表示，Waymo將Gemini整合到定製無人駕駛計程車Ojai中。"
-    },
-    {
-      "id": "5048648",
-      "time": "2026-08-20 05:38:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "週三（8月19日）紐約尾盤，現貨黃金飆升4.3%，報4523.08美元/盎司。COMEX黃金期貨漲3.62%報4580.70美元/盎司。現貨白銀暴漲5.8%，報67.008美元/盎司。COMEX白銀期貨漲4.83%報67.13美元/盎司。"
-    },
-    {
-      "id": "mkt:01a01bf5-ce3a-7aab-90a2-8f43cec48185",
-      "time": "2026-08-20 05:38:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "UK foreign secretary condemned the Israeli government's issuing of tenders for the E1 settlement project and summoned Israel's chargé d'affaires in London."
-    },
-    {
-      "id": "5048647",
-      "time": "2026-08-20 05:36:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英國外交大臣：譴責以色列政府釋出 E1 定居點專案招標公告；宣佈召見以色列臨時代辦。"
-    },
-    {
-      "id": "5048646",
-      "time": "2026-08-20 05:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios：敘利亞外交部長表示已明確告訴以色列，敘利亞政府不會與土耳其合作在敘利亞空軍基地集結軍事力量，但以色列還是繼續襲擊了該基地。"
-    },
-    {
-      "id": "mkt:01a01bf2-17e5-7aab-90a2-828b8b3eb6fe",
-      "time": "2026-08-20 05:34:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "According to Axios, Syrian foreign minister Assad Shaibani said he told Israel the Syrian government would not cooperate with Turkey to mass forces at a Syrian air force base, but Israel nonetheless continued to strike the base."
-    },
-    {
-      "id": "mkt:01a01bee-d41e-7aab-90a2-786ee99f3f05",
-      "time": "2026-08-20 05:30:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "8002.T",
-        "Impact bullish"
-      ],
-      "text": "【Itochu plans about 10 data centres in Japan by 2030】Itochu Corp plans to enter data-center development, investing several hundred billion yen through 2030 to build about 10 facilities in Japan and lease capacity to U.S. tech giants and other corporate clients. Sites targeted include the Tokyo and Osaka metropolitan areas and Kyushu. Each centre is expected to have roughly 50 MW of power capacity; Itochu aims to bring one to two projects online per year. The scheme will sit within Itochu’s real-estate business—Itochu will acquire land and construct the centres, then sell completed assets to third parties to boost asset efficiency."
-    },
-    {
-      "id": "mkt:01a01beb-3865-7aab-90a2-7048a3fbb021",
-      "time": "2026-08-20 05:26:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Itochu to build about 10 data centers in Japan by 2030, plans several-hundred-billion-yen investment】Itochu Corp will enter data-center development, planning to invest several hundred billion yen and build roughly 10 facilities in Japan by 2030, leasing capacity to US tech giants and other corporates. Sites will target the Tokyo metro, Osaka and Kyushu; each facility is expected to have ~50 MW of power capacity, with 1–2 projects scheduled to start operations each year. Itochu will handle land acquisition and construction and intends to sell centers to third parties to boost asset efficiency. It may partner with East Japan Railway Company (JR East) to secure land and power links; JR East controls significant land holdings, runs generation assets and has ties with utilities. Japan’s data-center services market is forecast at ¥5.65 tln by 2030, about 30% larger than 2025; other trading houses including Mitsubishi are also ramping investment."
-    },
-    {
-      "id": "mkt:01a01be6-a564-7aab-90a2-6ac24b5fdaf1",
-      "time": "2026-08-20 05:21:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Cognition's CEO said reports that SpaceX (SPCX.O) was attempting to acquire the company are unfounded. Cognition has no plans to sell and there have been no related talks."
-    },
-    {
-      "id": "5048645",
-      "time": "2026-08-20 05:20:52",
-      "tags": [
-        "公司",
-        "其他",
-        "國際"
-      ],
-      "text": "COGNITION：有關 SPACEX 試圖收購 COGNITION 的報道不實；COGNITION 不出售，雙方並未開展談判。"
-    },
-    {
-      "id": "5048644",
-      "time": "2026-08-20 05:20:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊藤忠商事進軍資料中心領域，計劃在日本建設10座資料中心。"
-    },
-    {
-      "id": "mkt:01a01be5-3c64-7aab-90a2-64a044553b6d",
-      "time": "2026-08-20 05:20:02",
-      "tags": [
-        "MKT News",
-        "8001.T",
-        "Impact bullish"
-      ],
-      "text": "Nikkei reports Itochu Corporation is entering the data-center sector and plans to build 10 data centers in Japan."
-    },
-    {
-      "id": "5048643",
-      "time": "2026-08-20 05:16:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "週三（8月19日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.73082元，較週二紐約尾盤漲155點，創月內新高，日內整體交投於6.7279-6.7486元區間。"
-    },
-    {
-      "id": "5048642",
-      "time": "2026-08-20 05:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨夜盤收漲0.39%。"
-    },
-    {
-      "id": "5048641",
-      "time": "2026-08-20 05:16:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "虛擬貨幣持續走高，行情顯示，比特幣漲至69415.6美元，過去24小時內漲7.41%；以太坊漲至2259.59美元，過去24小時內漲18.06%。"
-    },
-    {
-      "id": "mkt:01a01be0-49c2-7aab-90a2-5ccf9a8bef9c",
-      "time": "2026-08-20 05:14:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's foreign minister will summon the Israeli ambassador over Israel's decision not to pursue criminal charges in the death of an Australian aid worker."
-    },
-    {
-      "id": "5048640",
-      "time": "2026-08-20 05:12:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "澳大利亞外交部長：將就以色列決定不對遇難澳大利亞援助工作者提起刑事訴訟一事召見以色列大使 。"
-    },
-    {
-      "id": "5048639",
-      "time": "2026-08-20 05:07:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "得克薩斯州州長：亞馬遜於奧斯汀新建機器人生產工廠。"
-    },
-    {
-      "id": "5048638",
-      "time": "2026-08-20 05:07:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊升破2300美元，日內漲20.00%。"
-    },
-    {
-      "id": "5048635",
-      "time": "2026-08-20 05:05:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）：截至 8 月 19 日，與墨西哥錫那羅亞州哈瓦那辣椒相關的沙門氏菌疫情已造成美國 32 個州共計 431 人感染，57 人住院。"
-    },
-    {
-      "id": "mkt:01a01bd4-39df-7aab-90a2-508c75b55008",
-      "time": "2026-08-20 05:01:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Sources: Trump administration plans cut to Canadian auto tariff to 15%】People familiar with the matter say the Trump administration is preparing to reduce the White House’s 25% tariff on Canadian car imports to 15% as part of a broader deal in which Canada would withdraw retaliatory trade measures. The 25% levy, imposed last year on foreign-made cars and trucks, is applied only to the non-U.S. content of vehicles produced in Canada and Mexico; sources say the proposed 15% rate would use the same non-U.S. content calculation. Terms are not finalized and the outcome remains uncertain; Trump has previously modified or cancelled trade agreements at late stages."
-    },
-    {
-      "id": "mkt:01a01bd2-f2c5-7aab-90a2-4b89e9113613",
-      "time": "2026-08-20 05:00:04",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Kyiv mayor says the city is under ballistic missile attack."
-    },
-    {
-      "id": "5048633",
-      "time": "2026-08-20 04:59:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市長：首都發生爆炸。基輔正遭遇彈道導彈襲擊。請待在防空掩體中！"
-    },
-    {
-      "id": "5048632",
-      "time": "2026-08-20 04:58:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭基輔響起多次爆炸聲】當地時間19日深夜，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）"
-    },
-    {
-      "id": "5048631",
-      "time": "2026-08-20 04:57:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲5%，現報67.28美元/盎司。"
-    },
-    {
-      "id": "te:economy:576611",
-      "time": "2026-08-20 04:55:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Producer Prices Change",
-        "Importance 0"
-      ],
-      "text": "El Salvador Producer Price Growth Accelerates — Producer prices in El Salvador rose 3.5% year-on-year in July 2026, accelerating from a 3.2% increase in the previous month. The pickup was largely driven by higher electricity, gas, steam and air-conditioning costs (23% vs. 15.2% in June). Prices for transport and warehousing also rose sharply (8.35% vs. 8.71%), albeit at a slower pace than in June, amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices rose at a faster pace for manufacturing (3.1% vs. 2.8%), lodging and food services (2% vs. 1.9%) and real estate (1.8% vs. 1.7%). Meanwhile, producer prices continued to decline for water supply, sewerage and waste management (-0.15% vs. -0.15%) and swung to deflation in healthcare (-0.1% vs. 3.8%)."
     }
   ]
 }
