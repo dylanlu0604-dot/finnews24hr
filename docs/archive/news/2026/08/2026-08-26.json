@@ -1,7 +1,446 @@
 {
   "date": "2026-08-26",
-  "count": 3146,
+  "count": 3188,
   "items": [
+    {
+      "id": "mkt:01a03e7b-4298-7aab-9132-b2d5629090c2",
+      "time": "2026-08-26 22:31:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied crude oil demand for week to Aug 21: 19.987 mln b/d, prior 19.794 mln b/d."
+    },
+    {
+      "id": "mkt:01a03e7b-22b3-7aab-9132-a91f8f646deb",
+      "time": "2026-08-26 22:30:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied motor gasoline demand for the week to Aug 21: 9.9323 mln b/d, prior 9.5404 mln b/d."
+    },
+    {
+      "id": "mkt:01a03e7b-1d7c-7aab-9132-a62fe4c7ed35",
+      "time": "2026-08-26 22:30:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied demand for distillate fuel oil for the week to Aug. 21: 5.6293 mln b/d, prior 5.5536 mln b/d."
+    },
+    {
+      "id": "mkt:01a03e7b-1cb7-7aab-9132-99b63b70d127",
+      "time": "2026-08-26 22:30:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Implied Demand (Aug.21) | actual 19987000M | previous 19794000M"
+    },
+    {
+      "id": "mkt:01a03e7b-0100-7aab-9132-94985347e733",
+      "time": "2026-08-26 22:30:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly crude oil imports fell by 161,000 barrels in the week to Aug. 21, versus a 1,754,000-barrel decline in the prior week."
+    },
+    {
+      "id": "mkt:01a03e7b-00ff-7aab-9132-8c622eb4ca8f",
+      "time": "2026-08-26 22:30:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA refined-product stocks drew 2.228 mln barrels in the week to Aug. 21, versus -1.57 mln expected and -1.53 mln prior."
+    },
+    {
+      "id": "mkt:01a03e7a-fab9-7aab-9132-74aadf11f7fa",
+      "time": "2026-08-26 22:30:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (Aug.21) | actual 9932300M | previous 9540400M"
+    },
+    {
+      "id": "mkt:01a03e7b-0036-7aab-9132-8657e9d3aa95",
+      "time": "2026-08-26 22:30:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA: U.S. refinery utilization rate for week to Aug. 21 at 97.4% vs. 97.0% expected and 97.2% prior."
+    },
+    {
+      "id": "mkt:01a03e7b-0035-7aab-9132-7e51e9dd4082",
+      "time": "2026-08-26 22:30:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly crude stocks +95,000 barrels in week to Aug 21 vs +597,000 expected; prior +4.405 mln barrels."
+    },
+    {
+      "id": "mkt:01a03e7a-e85e-7aab-9132-68a07e51e3d6",
+      "time": "2026-08-26 22:30:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA week to Aug. 21: finished petroleum product imports 275,000 b/d; prior -258,000 b/d."
+    },
+    {
+      "id": "mkt:01a03e7a-e858-7aab-9132-6052b56ebae2",
+      "time": "2026-08-26 22:30:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "EIA: U.S. Strategic Petroleum Reserve inventories fell 3.7 mln barrels in the week to Aug 21; prior -5.268 mln barrels."
+    },
+    {
+      "id": "mkt:01a03e7a-e7a6-7aab-9132-5b49b4dd2721",
+      "time": "2026-08-26 22:30:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US EIA reformulated gasoline stocks rose 4,000 barrels in the week to Aug. 21, after a 3,000-barrel increase in the prior week."
+    },
+    {
+      "id": "mkt:01a03e7a-e794-7aab-9132-50bedf369e98",
+      "time": "2026-08-26 22:30:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA gasoline inventories fell 2.536 mln barrels in the week to Aug. 21, versus an expected draw of 670k barrels and a prior build of 688k barrels."
+    },
+    {
+      "id": "5060563",
+      "time": "2026-08-26 22:30:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至8月21日當週EIA原油庫存 9.5萬桶，預期59.7萬桶，前值440.5萬桶。美國至8月21日當週EIA俄克拉荷馬州庫欣原油庫存 117.6萬桶，前值-131.4萬桶。"
+    },
+    {
+      "id": "mkt:01a03e7a-c79b-7aab-9132-28f8c635bbb2",
+      "time": "2026-08-26 22:30:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (Aug.21) | actual 5629299.999999999M | previous 5553600M"
+    },
+    {
+      "id": "mkt:01a03e7a-dca4-7aab-9132-4711c9669471",
+      "time": "2026-08-26 22:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA refined product output fell 91,000 b/d in the week to Aug. 21; prior -54,000 b/d."
+    },
+    {
+      "id": "mkt:01a03e7a-e6e8-7aab-9132-497477ad4498",
+      "time": "2026-08-26 22:30:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US EIA heating oil stocks rose 27,000 barrels in the week to Aug 21, versus a 537,000-barrel draw in the prior week."
+    },
+    {
+      "id": "mkt:01a03e7a-dbe9-7aab-9132-31f8530b7f01",
+      "time": "2026-08-26 22:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. EIA: crude oil added to production -2,000 bpd in week to Aug 21; prior +216,000 bpd."
+    },
+    {
+      "id": "mkt:01a03e7a-dc4c-7aab-9132-3d127a1cf2c0",
+      "time": "2026-08-26 22:30:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA gasoline production was 61,000 b/d in the week to Aug. 21, down from 143,000 b/d the prior week."
+    },
+    {
+      "id": "5060562",
+      "time": "2026-08-26 22:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署稱，原油庫存增加9.5萬桶。"
+    },
+    {
+      "id": "mkt:01a03e7a-b723-7aab-9132-200fe97da56f",
+      "time": "2026-08-26 22:30:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. EIA Cushing, Oklahoma crude stocks +1.176 mln bbl in week to Aug. 21 vs -1.314 mln bbl prior."
+    },
+    {
+      "id": "5060561",
+      "time": "2026-08-26 22:30:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至8月21日當週EIA戰略石油儲備庫存 -370萬桶，前值-526.8萬桶。"
+    },
+    {
+      "id": "mkt:01a03e7a-68a4-7aab-9132-1a8cc946ea8f",
+      "time": "2026-08-26 22:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Strategic Petroleum Reserve Stocks Change (Aug.21) | actual -3700000M | previous -5268000M"
+    },
+    {
+      "id": "mkt:01a03e7a-6846-7aab-9132-1389ee980199",
+      "time": "2026-08-26 22:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Refinery Utilization Rates (Aug.21) | actual 97.4% | consensus 97% | previous 97.2%"
+    },
+    {
+      "id": "mkt:01a03e7a-5f59-7aab-9132-0ff5825a8084",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Aug.21) | actual 4000M | previous 3000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5e31-7aab-9132-014fb751d6f5",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Stocks Change (Aug.21) | actual -2228000M | consensus -1570000M | previous -1530000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5e12-7aab-9131-ff6ef0f25927",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Gasoline Stocks Change (Aug.21) | actual -2536000M | consensus -670000M | previous 688000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5e04-7aab-9131-f47b7b433ff0",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Imports Change (Aug.21) | actual -161000M | previous -1754000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5de5-7aab-9131-e8eb89192d39",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Petroleum Products Imports Change (Aug.21) | actual 275000M | previous -258000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5dbf-7aab-9131-e5c3003b1195",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Stocks Change (Aug.21) | actual 95000M | consensus 597000M | previous 4405000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5d29-7aab-9131-dee7483b0455",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Heating Oil Stocks Change (Aug.21) | actual 27000M | previous -537000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5cd3-7aab-9131-d62c3488bf9b",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Cushing Crude Oil Stocks Change (Aug.21) | actual 1176000M | previous -1314000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5ca7-7aab-9131-cd70632eb939",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Gasoline Production (Aug.21) | actual 61000M | previous 143000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5c84-7aab-9131-c78f4b20e549",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Distillate Production Change (Aug.21) | actual -91000M | previous -54000M"
+    },
+    {
+      "id": "mkt:01a03e7a-5c6a-7aab-9131-bfd02057f9b2",
+      "time": "2026-08-26 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Input Into Refineries Change (Aug.21) | actual -2000M | previous 216000M"
+    },
+    {
+      "id": "5060560",
+      "time": "2026-08-26 22:29:53",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根士丹利財富管理 ： 最新PCE報告未能降低美聯儲加息預期 】7月核心個人消費支出（PCE）物價指數環比上漲0.2%，同比上漲3.3%，兩項資料均符合預期。  摩根士丹利財富管理公司首席經濟策略師艾倫·曾特納（Ellen Zentner）對此表示：“今天通脹資料出現的溫和超預期上行，以及相對強勁的經濟表現，並非投資者或美聯儲所樂見。但這組資料尚不足以改變9月聯邦公開市場委員會（FOMC）會議的決策天平。"
+    },
+    {
+      "id": "5060559",
+      "time": "2026-08-26 22:29:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超3.00%，現報2.906美元/百萬英熱。"
+    },
+    {
+      "id": "te:markets:578307",
+      "time": "2026-08-26 22:29:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Gains Further — The DAX 40 extended its gains on Wednesday, rising 0.7% to cross 26,400, heading for a second straight session of gains, led by banks, industrials and technology stocks. The Middle East situation remained in the spotlight, while traders looked ahead to Nvidia’s earnings report due later in the day. Resumed Iran-Oman talks over the Strait of Hormuz raised hopes that the key waterway could reopen, easing concerns over prolonged disruptions. This prompted another decline in oil prices, helping push bond yields lower and reducing inflation concerns. Elsewhere, the latest US PCE data indicated inflation remained sticky."
+    },
+    {
+      "id": "5060558",
+      "time": "2026-08-26 22:28:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西部戰區空軍迅速投入吉隆口岸泥石流搶險救災工作】8月26日，西藏吉隆災情發生後，西部戰區空軍迅速啟動搶險救災應急預案，認真籌劃航空偵察、戰場搜救、空中運輸等任務，組織運輸機、直升機、無人機等緊前做好出動準備。26日20時許，高原某機場出現短時穩定天氣，西部戰區空軍抓住可飛時間視窗，立即派出一架無人機赴吉隆口岸地區勘察災情。 同時，氣象部門統籌利用軍地氣象保障資源，密切監測災區雲層狀況及大風、雷雨等危險性、災害性氣象資訊，及時向任務機組提供預報警報，實時調整飛行航線。（新華社）"
+    },
+    {
+      "id": "5060557",
+      "time": "2026-08-26 22:28:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌近0.4%，觸及盤中低點。"
+    },
+    {
+      "id": "mkt:01a03e78-9232-7aab-9131-b743974d9870",
+      "time": "2026-08-26 22:28:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Dollar index (DXY) rose 0.3%, reversing roughly half of the earlier decline triggered by a repo plan."
+    },
+    {
+      "id": "5060556",
+      "time": "2026-08-26 22:26:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "彭博美元指數漲0.3%，意味著“貝森特回購”以來的失地收復一半。"
+    },
     {
       "id": "5060555",
       "time": "2026-08-26 22:25:44",
