@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-26 15:22:56",
-  "count": 16538,
+  "updated": "2026-08-26 15:27:13",
+  "count": 16531,
   "items": [
+    {
+      "id": "5059290",
+      "time": "2026-08-26 15:26:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "西部證券股份有限公司恢復跟蹤中國太保A股；評級買進。"
+    },
+    {
+      "id": "5059289",
+      "time": "2026-08-26 15:25:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本首相高市早苗表示，正在考慮為公司提供激勵，以多元化燃料來源。"
+    },
+    {
+      "id": "5059288",
+      "time": "2026-08-26 15:25:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油亞塞拜然分公司表示，該公司已提前完成中阿澤裡平臺為期11天的檢修作業。"
+    },
+    {
+      "id": "5059287",
+      "time": "2026-08-26 15:25:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國今年6月、第二季度及上半年出生人口規模均創下近7年同期最高紀錄。"
+    },
+    {
+      "id": "mkt:01a03cf5-f3ba-7aab-9126-1e310b7c0d10",
+      "time": "2026-08-26 15:25:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Nizhny Novgorod governor said an industrial facility in the region was damaged in a drone attack."
+    },
+    {
+      "id": "5059286",
+      "time": "2026-08-26 15:25:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比爾·蓋茨建議籌建國家級機構與新型國際組織，主張對 AI 及機器人徵稅】比爾·蓋茨呼籲設立全新國家級機構，統籌協調國家安全、就業、教育、稅收、醫療等領域的人工智慧政策；同時成立一家國際組織，兼具核核查與國際航空監管的職能。他還希望各國政府考慮兩套非常規的經濟應對方案：為人類保留部分崗位，以及對人工智慧使用、機器人徵稅。近十年來，他一直在丟擲這一構想。蓋茨承認，地緣政治環境使得全球協同行動格外艱難。他在備忘錄中寫道：“倘若有人拿出一套可信方案，能夠在全球範圍內放緩人工智慧發展，我大機率會予以支援。但我認為這件事不會發生。”蓋茨在採訪中提到，各大科技巨頭與 AI 實驗室高管私下的擔憂，比公開表態所展現的要深重得多。“我幾乎沒見過有誰對此不感到擔憂。” 他說。"
+    },
+    {
+      "id": "mkt:01a03cf5-6e00-7aab-9126-16074cff5fa4",
+      "time": "2026-08-26 15:25:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N"
+      ],
+      "text": "【Alibaba's QwenWork international public beta opens, accelerating global rollout】Alibaba's Agent product QwenWork international version entered public beta. Effective immediately, overseas individual and corporate users can access via the international website (qwenwork.ai); web and PC clients are available."
+    },
+    {
+      "id": "5059285",
+      "time": "2026-08-26 15:24:19",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【開源證券：維持平煤股份“買入”評級，大精煤戰略持續深化】開源證券研報指出，商品煤量價改善推動平煤股份業績增長，大精煤戰略持續深化。上半年歸母淨利潤3.17億元，同比+22.84%；2026Q2實現歸母淨利潤1.97億元，同比+85.2%、環比+64.0%，商品煤售價上漲帶動單季度盈利增長。商品煤銷量快速增長，2026Q2噸煤盈利環比提升。大精煤戰略持續深化，集團重組開啟資源整合空間。2026H1公司焦精煤產量同比增加154萬噸，商品煤實現滿產滿銷；四家洗煤廠完成智慧化技術改造，精煤灰分、水分各下降1個百分點，產品品質進一步提升。公司持續推進大精煤戰略，透過調整採掘接替、最佳化洗選工藝提升精煤產出，焦精煤產量增長及產品結構最佳化有望增強煤炭業務盈利能力。公司優質焦煤資源稟賦突出，2026Q2煤價及噸煤盈利環比改善，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a03cf4-8eac-7aab-9126-0d0f55c96e42",
+      "time": "2026-08-26 15:24:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A member of Iran's parliament National Security and Foreign Policy Committee said on Wednesday that Iran would take preemptive action if adversaries' rhetoric escalates into a serious threat."
+    },
+    {
+      "id": "5059284",
+      "time": "2026-08-26 15:23:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全與外交政策委員會一名議員週三表示，若對手的言論演變為實質性威脅，伊朗將採取先發制人行動。"
+    },
+    {
+      "id": "mkt:01a03cf3-bc29-7aab-9126-02865f64bf0e",
+      "time": "2026-08-26 15:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces: A rear-command app recently issued an alert for rocket and missile strikes in the Kibbutz Alumim area; the alert resulted from a misclassification and no security incident is suspected."
+    },
     {
       "id": "5059283",
       "time": "2026-08-26 15:22:03",
@@ -29,12 +129,30 @@
       "text": "【光大期貨：地緣溢價一朝回吐，燃料油一度暴跌逾8%】從基本面看，燃料油市場的供應緊張格局並未根本改變。新加坡企業發展局資料顯示，截至8月19日當週，新加坡燃料油庫存為1826.9萬桶，周環比減少195萬桶。低硫方面，由於東西套利視窗關閉，未來幾周來自西方市場的到貨量減少，短期內合規低硫船燃供應有限。但在地緣情緒面前，基本面的支撐在燃料油高價的背景下顯得蒼白無力。後市而言，短期燃料油走勢或將取決於霍爾木茲海峽局勢的下一步演變。若停火協議正式簽署、海峽逐步恢復通航，地緣風險溢價大機率繼續回吐，燃料油仍有下行空間；但若談判再度反覆、局勢重回僵持，前期累積的跌幅也可能快速修復。在訊息面極度不穩定的階段，燃料油的高波動屬性或將進一步放大。（光大期貨）"
     },
     {
+      "id": "em:qqyh_rbyh:202608263854512423",
+      "time": "2026-08-26 15:20:25",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【富國銀行料日本央行9月將升息 若按兵不動日元恐貶破160】富國銀行在一份報告中指出，日本央行可能在9月的會議上升息，如果決定維持利率不變，美元兌日元匯率可能升至160以上。"
+    },
+    {
       "id": "mkt:01a03cf0-e5f6-7aab-9125-ff7b0d034d85",
       "time": "2026-08-26 15:20:15",
       "tags": [
         "MKT News"
       ],
       "text": "Japan Prime Minister TAKAICHI said she is considering incentives for companies to diversify fuel sources."
+    },
+    {
+      "id": "5059280",
+      "time": "2026-08-26 15:20:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：英偉達表外融資隱含2000億美元風險敞口】摩根士丹利企業信貸團隊近日釋出研報，將英偉達的信用評級定為“中性”，並指出該公司透過大規模融資安排支援人工智慧基礎設施建設，已形成了約2000億美元的潛在信用敞口。分析團隊將這一現象稱為“資產負債表即服務”。摩根士丹利信貸分析師林賽·泰勒和尼尚特·薩蒂亞姆估算，到2028年底，英偉達整體信用敞口約為2000億美元，其中約1700億美元涉及客戶兜底相關的調整項和或有負債。不過，即便計入這些敞口，英偉達資產負債表仍具韌性：總債務槓桿率僅0.4倍，假設2028年增長趨於平穩後也僅升至0.7倍，峰值債務水平至少需再翻倍才可能觸發標普評級下調。分析師以“中性”評級起步，建議投資者保持耐心，因目前缺乏有效方式評估尾部風險，且生態系統中超過1萬億美元的供應商迴圈不透明融資正透過“創造性結構”持續運作。"
     },
     {
       "id": "5059279",
@@ -149394,185 +149512,6 @@
         "國際"
       ],
       "text": "【外交部：對馬來西亞總理安瓦爾的表態表示讚賞】8月19日，外交部發言人林劍主持例行記者會。有記者提問，據報道，馬來西亞總理安瓦爾近日接受採訪時表示，臺灣是中國的一部分。被問及如何看待中國在解決臺灣問題上不承諾放棄使用武力的立場時，安瓦爾表示，如果馬來西亞一個州執意分裂出去，他也會動用武力維護國家統一，否則國家就會四分五裂。中方對此有何評論?林劍表示，堅持一箇中國原則是人心所向、大義所在，國際社會堅持一箇中國原則的基本格局不可撼動。中方對安瓦爾總理的表態表示讚賞。“我想再次強調，世界上只有一箇中國，臺灣是中國領土不可分割的一部分。中國必須統一，也必然統一，這是改變不了的歷史大勢。”林劍說。（北京日報）"
-    },
-    {
-      "id": "5047237",
-      "time": "2026-08-19 15:27:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度尼西亞央行行長：將擴大可作為與央行進行外匯對沖交易基礎的單證種類。"
-    },
-    {
-      "id": "mkt:01a018ea-7e5f-7aab-908e-77d23ea5c0c9",
-      "time": "2026-08-19 15:26:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wang Yi to visit South Korea; foreign ministry outlines expectations】China's foreign ministry said Wang Yi will visit South Korea. The ministry said the trip is expected to help implement important leaders' consensus, strengthen communication and mutual trust, deepen exchanges and cooperation, and advance the China-South Korea strategic cooperative partnership."
-    },
-    {
-      "id": "5047236",
-      "time": "2026-08-19 15:26:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼盾在央行維持利率不變後保持漲勢。"
-    },
-    {
-      "id": "mkt:01a018ea-425a-7aab-908e-6d3ea669d780",
-      "time": "2026-08-19 15:26:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia governor said policy decisions imply inflation will remain within the central bank's target range through 2027."
-    },
-    {
-      "id": "5047235",
-      "time": "2026-08-19 15:26:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部：中韓關係全面快速發展】8月19日，外交部發言人林劍主持例行記者會。 有記者提問，中方釋出了王毅外長即將訪問韓國的訊息，中方對此訪有何期待？ 林劍表示，中韓互為近鄰和合作伙伴。建交34年來，中韓關係全面快速發展，為兩國人民帶來實實在在的利益，也為促進地區和平穩定與發展繁榮作出積極貢獻。 林劍指出，去年底今年初，習近平主席同李在明總統成功實現互訪，並達成重要共識，開闢中韓關係發展新局面。相信王毅外長此訪將有助於雙方進一步落實好兩國元首重要共識，加強溝通、增進互信、深化交流合作，共同推動中韓戰略合作伙伴關係不斷向前發展。（北京日報）"
-    },
-    {
-      "id": "mkt:01a018e9-e5fc-7aab-908e-6418bc011726",
-      "time": "2026-08-19 15:26:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Foreign Ministry: China firmly opposes bloc alignment and camp confrontation on AI】At an Aug. 19 briefing, asked about a U.S. push to recruit signatories to a Joint Declaration on AI partnership, Foreign Ministry spokesman Lin Jian said China opposes forcing countries to choose sides or forming camps on AI. He said states may select partners based on national conditions, urged abandoning zero-sum thinking, called for respect for digital sovereignty, and advocated jointly building a fair, reasonable global AI governance framework to make AI a driver of shared prosperity and common security."
-    },
-    {
-      "id": "5047234",
-      "time": "2026-08-19 15:26:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特交易所：交易將於上午10:30開市，所有業務將正常運轉。"
-    },
-    {
-      "id": "5047233",
-      "time": "2026-08-19 15:26:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美韓聯合軍演將提前結束，外交部：政治解決半島問題符合各方共同利益】8月19日，外交部發言人林劍主持例行記者會。法新社記者提問，美韓雙方今天表示將提前結束原定的年度聯合軍演。就在幾天前，特朗普總統剛以他與朝鮮領導人金正恩的良好關係為由，提出縮減演習規模。請問中方如何看待美韓這些年度軍演？對今年演習提前收場又有何評論？“我們此前回應過相關的問題。”林劍指出，維護朝鮮半島的和平穩定，推動半島問題的政治解決，符合各方的共同利益。（澎湃新聞）"
-    },
-    {
-      "id": "te:economy:576379",
-      "time": "2026-08-19 15:25:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "Indonesia Leaves Rates as Expected — Bank Indonesia maintained its key interest rate at 5.75% for the third straight meeting at its August 19, 2026 meeting, in line with market expectations, following a surprise 25-bps hike in June to shore up the rupiah and support economic growth. The decision came amid concerns about the central bank's independence from political influence following Perry Warjiyo's sudden resignation as BI chief last month and the appointment of Senior Deputy Governor Destry Damayanti as interim chief. The central bank has raised rates by a total of 100 bps since May, bringing the policy rate to its highest level since April 2025 to attract foreign inflows and shore up the rupiah, which has come under pressure. The annual inflation rate eased to 2.88% in July from 3.34% in June, remaining within Bank Indonesia's 1.5%–3.5% target range. The central bank expects inflation to remain within the government's 2.5% ± 1% target range and has maintained its economic growth forecast of 4.9%–5.7% for 2026."
-    },
-    {
-      "id": "5047232",
-      "time": "2026-08-19 15:25:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "沙特證券交易所：交易將於2026年8月19日週三恢復，開盤競價階段將於上午10:15開始。"
-    },
-    {
-      "id": "5047231",
-      "time": "2026-08-19 15:25:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美要求各方在美中人工智慧生態系統中“選邊站隊”，外交部：堅決反對搞陣營對抗】8月19日，外交部發言人林劍主持例行記者會。澎湃新聞（www.thepaper.cn）記者提問，據報道，美政府擬致信“人工智慧機遇夥伴關係聯合宣告”聯署國，要求各方不得同時加入美方相關倡議和與美方倡議衝突的其他機制。美匿名官員稱，此舉旨在向各方明確指出，不得同時加入美中兩國的人工智慧生態系統。中方對此有何評論？林劍表示，人工智慧是全人類共同的智慧結晶和寶貴財富，國際社會普遍期待廣泛開展人工智慧合作。各國有權根據自身的國情和發展需要，選擇合作伙伴。林劍強調，中方堅決反對在人工智慧問題上搞選邊站隊，陣營對抗，希望各方擯棄零和思維，堅持和衷共濟，尊重各國的數字主權，攜手構建公正合理的全球人工智慧治理體系，讓人工智慧成為促進共同繁榮，維護共同安全的重要動力源。"
-    },
-    {
-      "id": "mkt:01a018e8-acdf-7aab-908e-5b6a1515d227",
-      "time": "2026-08-19 15:24:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "【PBOC 7-day reverse repo zero for seven straight trading days; future market-rate trend \"more stable\"】On Aug. 19 the PBOC set 7-day reverse repo injections at zero per primary dealers’ demand — the seventh consecutive trading day with no 7-day injections since Aug. 11. The four overnight reverse repo operations previewed on Aug. 12 were all conducted, but daily volumes stayed below the 600 billion yuan cap. Dongfang Jincheng chief macro analyst Wang Qing said liquidity has been relatively ample since Aug. 14, leaving daily overnight reverse repo demand under the cap. From Aug. 14–19, DR001 and DR007 averages ran below the 1.4% policy rate and declined versus earlier levels, which Wang links to August’s lighter fiscal-revenue and tax-payment flows and only mild fiscal-driven cash withdrawals. The PBOC is likely to resume 7-day reverse repos on Aug. 20 to signal the policy rate and stabilise expectations, and to restart overnight reverse repos near month-end — a shift the PBOC says will permit more precise liquidity adjustments and should support DR001 stability."
-    },
-    {
-      "id": "te:economy:576377",
-      "time": "2026-08-19 15:24:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Austria July Inflation Revised Higher — The inflation rate in Austria eased to 2.8% year-on-year in July 2026 from 3.2% in the previous month, slightly higher than preliminary estimates of a 2.7% increase. This marked the lowest reading in five months, as price growth slowed for alcoholic beverages and tobacco (1.8% vs 2.0% in June), housing utilities (2.7% vs 3.0%), transportation (6.4% vs 6.5%), education (4.9% vs 5.5%), and miscellaneous and services (3.1% vs 4.7%). Moreover, costs fell for food and non-alcoholic beverages (-0.4% vs 1.3%) and clothing and footwear (-0.7% vs 1.8%). Meanwhile, inflation strengthened for health (4.6% vs 4.4%), recreation and culture (1.9% vs 1.0%), and restaurants and hotels (4.6% vs 4.5%). On a monthly basis, consumer prices were unchanged in July, matching the pace in June. The annual harmonised inflation rate (HICP) rose by 2.7%, slowing from 3.2% in the preceding period, and slightly missing initial estimates of 2.6%."
-    },
-    {
-      "id": "5047230",
-      "time": "2026-08-19 15:24:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達80億港元。"
-    },
-    {
-      "id": "mkt:01a018e8-0acf-7aab-908e-54c37a959ce2",
-      "time": "2026-08-19 15:24:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesia's benchmark stock index was flat after Bank Indonesia left its policy rate unchanged."
-    },
-    {
-      "id": "5047229",
-      "time": "2026-08-19 15:24:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【高盛預計2035年太空經濟規模將達1.8萬億美元】高盛在《第二太空時代》的研報中指出，預計隨著發射成本下降、私人資本湧入以及公開市場融資渠道的全面開啟，太空即將成為“工業經濟的新支柱”。高盛分析師進一步指出：“近地軌道(LEO)基礎設施是現代太空經濟中最明顯的商業橋頭堡之一，它正在擴充套件、補充甚至與地面網路形成競爭。”高盛分析師在報告中預計，到2035年，太空經濟規模將達到1.8萬億美元，屆時私營資本將取代政府資金，成為該行業最大的增長引擎。"
-    },
-    {
-      "id": "5047228",
-      "time": "2026-08-19 15:23:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮聲稱取消談判，伊朗駁斥：壓根沒談過 實屬無中生有】據伊朗法爾斯通訊社報道，一位接近伊朗談判團隊的訊息人士駁斥了白宮的說法：“針對美國聲稱與伊朗的談判已被取消，但事實是，伊朗與美國之間根本不存在直接談判。”"
-    },
-    {
-      "id": "mkt:01a018e7-82a2-7aab-908e-4df963d36786",
-      "time": "2026-08-19 15:23:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【White House says talks canceled; Iran denies any direct talks, calls claim fabricated】A source close to Iran's negotiating team rejected the White House's claim that talks had been canceled as \"completely fabricated,\" saying there were no direct negotiations between Iran and the United States."
-    },
-    {
-      "id": "5047227",
-      "time": "2026-08-19 15:23:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音：近兩週，平臺共處置色情低俗類違規內容20.9萬條】據抖音黑板報，為持續營造健康清朗的網路生態，抖音堅持對色情低俗、違規導流等違法違規行為零容忍、嚴打擊、重處置。近兩週，平臺共處置色情低俗類違規內容20.9萬條，對7.8萬個賬號採取清除違規增長粉絲、取消營利許可權、禁言、封禁等梯度處置，其中2384個粉絲過萬的賬號被依法依規處置。近期，平臺持續排查色情低俗相關風險，一方面，針對“人設噱頭”“符號變體”“AI生成”等新型違規手法，迭代升級大模型識別與處置策略；另一方面，不斷挖掘涉低俗性暗示的隱晦暗語，擴大識別覆蓋範圍。"
-    },
-    {
-      "id": "mkt:01a018e6-fa53-7aab-908e-42039f6bfc6b",
-      "time": "2026-08-19 15:23:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia governor says the central bank stands ready to widen incentives and take additional measures to attract capital inflows and address uneven liquidity distribution."
     }
   ]
 }
