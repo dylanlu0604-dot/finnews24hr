@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-27 00:53:35",
-  "count": 16693,
+  "updated": "2026-08-27 00:57:38",
+  "count": 16698,
   "items": [
+    {
+      "id": "mkt:01a03f00-cdd8-7aab-9134-e43b0b2e7027",
+      "time": "2026-08-27 00:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said ANTHROPIC will lease AI infrastructure provider Nscale's data centers for $45bn."
+    },
+    {
+      "id": "5060667",
+      "time": "2026-08-27 00:56:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "Nscale將從美國西弗吉尼亞州資料中心提供電力。Anthropic將從對方的資料中心獲得460 MW電力供應。"
+    },
+    {
+      "id": "mkt:01a03eff-d71e-7aab-9134-dcac9b37790d",
+      "time": "2026-08-27 00:55:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister writes to UN urging condemnation of US \"economic terrorism\" actions】Iran foreign minister Araghchi wrote to the UN secretary-general, Security Council and member states saying the US Aug. 24 announcement of an \"economic isolation\" action — using secondary sanctions and restrictions on access to the US financial system — is intended to coerce other countries to end legitimate economic ties with Iran and represents extraterritorial application of US law. He warned the measures will affect basic needs including food, medicine, medical devices and energy, cited the International Court of Justice’s 2018 ruling accusing the US of violating international law, urged the Security Council and UN members to condemn and refuse unilateral coercive measures and secondary sanctions, asked the secretary-general to assess humanitarian impacts, and said Iran reserves the right to pursue accountability and compensation."
+    },
+    {
+      "id": "mkt:01a03eff-8ca2-7aab-9134-d0d0722503c8",
+      "time": "2026-08-27 00:55:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Interfax cited the Russian Defence Ministry saying Russian forces hit a cargo ship in the Ukrainian port of Izmail."
+    },
+    {
+      "id": "5060666",
+      "time": "2026-08-27 00:55:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱俄軍襲擊了伊茲梅爾港內一艘貨運船隻。"
+    },
+    {
+      "id": "mkt:01a03efe-d0ad-7aab-9134-cbcb20ecd12e",
+      "time": "2026-08-27 00:54:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio met with Mexico's foreign minister today."
+    },
+    {
+      "id": "5060665",
+      "time": "2026-08-27 00:54:20",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "Anthropic 將以 450 億美元租賃 Nscale 資料中心。"
+    },
+    {
+      "id": "5060664",
+      "time": "2026-08-27 00:53:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧今日會見墨西哥外交部長。"
+    },
     {
       "id": "mkt:01a03efc-981a-7aab-9134-c388f90e9c6c",
       "time": "2026-08-27 00:52:16",
@@ -150644,34 +150718,6 @@
         "國際"
       ],
       "text": "土耳其部長稱，土耳其已做好在敘利亞勘探石油和天然氣的準備。"
-    },
-    {
-      "id": "5048433",
-      "time": "2026-08-20 00:55:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貨幣監理署（OCC）表示，將為加密貨幣穩定幣發行機構搭建監管框架。"
-    },
-    {
-      "id": "5048432",
-      "time": "2026-08-20 00:54:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）批准首款獨立抽血機器人Aletta上市。"
-    },
-    {
-      "id": "mkt:01a01af1-5fc6-7aab-909d-ee53ff78601a",
-      "time": "2026-08-20 00:53:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian General Nahdi said the US failed to achieve its war aims of \"overthrowing the Iranian regime\" and \"dividing Iran,\" and that subsequent operations have lost strategic direction. He said Iran's current priority is restoring deterrence to prevent further attacks."
     }
   ]
 }
