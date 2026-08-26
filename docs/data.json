@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-26 08:30:04",
+  "updated": "2026-08-26 08:34:04",
   "count": 16490,
   "items": [
+    {
+      "id": "5058667",
+      "time": "2026-08-26 08:32:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【現場曝光！美陸軍一架“黑鷹”直升機突發“航空事故”迫降樹林中】據美國《星條旗報》、哥倫比亞廣播公司（CBS）報道，美國陸軍一架“黑鷹”直升機當地時間25日在科羅拉多州丹佛市以西的一片樹林中進行了一次疑似“計劃外的迫降”，美陸軍稱這是一起“航空事故”。美陸軍25日下午就此事發表宣告稱，在例行訓練中發生了這起“航空事故”，目前正在進行調查。當地警方表示，機上共有四人。初步報告顯示無人受傷。CBS稱，這架直升機屬於駐紮在肯塔基州坎貝爾堡的第160特種作戰航空團。（環球網）"
+    },
+    {
+      "id": "5058666",
+      "time": "2026-08-26 08:32:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【銀川市城市暴雨積澇氣象風險升級為橙色預警】8月25日17時至26日6時，興慶區、金鳳區、西夏區出現中到大雨。預計26日白天至27日白天，興慶區、金鳳區、西夏區仍有陣雨或小雨，累計降雨量15～30毫米，並伴有短時強降水（10~20毫米/小時）。為此，銀川市城市管理局與銀川市氣象局於8月26日6時40分升級城市暴雨積澇氣象風險 IV級預警（藍色）為Ⅱ級預警（橙色）：預計8月26日6時40分到27日20時00分，興慶區、金鳳區、西夏區易澇路段、立交涵洞、地下商場與車庫等地勢較低地段積水風險高，需注意防範。銀川市氣象臺26日7時55分繼續釋出暴雨藍色預警訊號：目前興慶區、金鳳區、西夏區、賀蘭縣、永寧縣已出現中到大雨，個別鄉鎮出現暴雨。預計未來12小時，上述地區降水仍將持續，請相關部門和廣大群眾注意預防。"
+    },
+    {
+      "id": "mkt:01a03b7a-9edb-7aab-911c-593e738cf5f8",
+      "time": "2026-08-26 08:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia July Westpac leading index MoM +0.03%, prior +0.04%."
+    },
+    {
+      "id": "mkt:01a03b7a-7caa-7aab-911c-554c2cd01d54",
+      "time": "2026-08-26 08:31:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac Leading Index (MoM) (Jul) | actual 0.03% | previous 0.04%"
+    },
+    {
+      "id": "5058665",
+      "time": "2026-08-26 08:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI 第二位銷售高管將重返Salesforce】OpenAI 此前大量從 Salesforce 挖人，面向大型企業推廣自身 AI 產品。如今部分銷售人員選擇重返 Salesforce，進一步加劇了 OpenAI 企業銷售團隊的人事動盪。據知情人士透露，曾擔任 Slack 首席客戶官、今年 4 月加入 OpenAI 的彼得・杜蘭（Peter Doolan）已接受 offer，將重回 Salesforce。上週，負責美洲地區銷售業務的凱琳・沃斯也已同意離開 OpenAI，重新加入 Salesforce。此番人員離職發生在本月早些時候 OpenAI 官宣人事任命之後：OpenAI 聘請Alphabet集團旗下網路安全企業 Wiz 的總裁兼營運長達利・拉吉奇，接替丹尼斯・德雷瑟出任新任首席營收官。"
+    },
+    {
+      "id": "5058664",
+      "time": "2026-08-26 08:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞7月西太平洋領先指標環比 0.03%，前值 0.04%。"
+    },
     {
       "id": "mkt:01a03b75-cbcf-7aab-911c-49c5ec178fa0",
       "time": "2026-08-26 08:26:10",
@@ -149148,61 +149199,6 @@
         "CSI300"
       ],
       "text": "MSCI Asia Pacific Index fell 2%, its largest decline since July 29."
-    },
-    {
-      "id": "5046663",
-      "time": "2026-08-19 08:33:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三星電子：將投資2400億韓元在韓國光州建設新的暖通空調生產線。"
-    },
-    {
-      "id": "te:markets:576264",
-      "time": "2026-08-19 08:33:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Drop as Tech Selloff Intensifies — The Nikkei 225 Index fell 2.9% to around 65,500, while the broader Topix Index declined 2.4% to 4,040 on Wednesday, with Japanese shares sliding for a second consecutive session as the selloff in semiconductor and other technology stocks intensified. Local equities also tracked losses on Wall Street overnight, where AI-linked chipmakers came under heavy selling pressure. Meanwhile, elevated global bond yields and rising oil prices further dampened investor sentiment, with Japan’s 10-year bond yield climbing to 30-year highs this week. Notable declines were recorded among Japanese companies heavily exposed to the global AI supply chain, including Kioxia Holdings (-10%), Furukawa Electric (-9.8%), Advantest (-4.4%), Tokyo Electron (-4.7%) and Fujikura (-8.4%). Financial and consumer stocks also fell, with Mitsubishi UFJ losing 4% and Toyota Motor dropping 2%."
-    },
-    {
-      "id": "5046662",
-      "time": "2026-08-19 08:33:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【朱雀三號副總設計師：藍箭有自己的 “臭鼬工廠”，朱雀三核心技術全自研】朱雀三號副總設計師董鍇表示，藍箭有個部門叫天馬實驗室，它的定位類似於洛馬的臭鼬工廠（全球航空航天領域最著名的秘密尖端技術研發機構之一，曾研製出 F-22 猛禽戰鬥機），就是集結先鋒部隊專門解決不鏽鋼工藝的問題。現在我們用鐳射焊，基本是機器自動化。目前整個火箭焊接的自動化生產都是藍箭自己解決的。供應商能做的事我們不重複造輪子，但火箭焊接這件事外包供應鏈沒有優勢。（晚點LatePost）"
-    },
-    {
-      "id": "5046661",
-      "time": "2026-08-19 08:32:00",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【MSCI亞太指數創三週最大跌幅 三星和SK海力士拖累最大】MSCI亞太指數跌幅高達2%，創7月29日以來最大跌幅，追隨隔夜遭遇拋售的美國半導體股票下跌。韓國Kospi指數一度下跌6.8%，創7月29日以來最大跌幅。三星電子下跌7.6%，SK海力士下跌9.5%。日本東證指數下跌2.7%。"
-    },
-    {
-      "id": "5046660",
-      "time": "2026-08-19 08:31:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【今年上半年醫保輔助生殖惠及約170萬人次】記者8月19日從國家醫保局獲悉，2026年上半年，全國使用醫保輔助生殖的各專案累計達170.96萬人次，就診總量穩步上漲，醫保輔助生殖專案支援誕生的新生兒數量達13.97萬人，按此數量進行推算，2026年全年有望近30萬名寶寶在醫保政策守護下降生。同期，輔助生殖專案直接費用29.7億元，醫保基金累計支出超19億元。（新華社）"
-    },
-    {
-      "id": "mkt:01a0176d-67e1-7aab-9084-4b721493dd9c",
-      "time": "2026-08-19 08:30:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Interest in compute-power tech, micro-cap crossovers, new power-supply architecture and lithium batteries likely to reheat】CITIC Securities says after last week's broad rally the market rotated into high-level, differentiated consolidation, marking a second style switch. The Shanghai Composite fell as formerly defensive large-cap blue chips weakened; the ChiNext Index rose against the trend while STAR 50 and Beijing 50 softened. Earlier leaders in nonferrous metals gave back the most ground; only communications outperformed, supported by overseas validation of the compute-power chain. Average daily turnover slipped to CNY 2.35 trillion; incremental flows rotated into bond ETFs for hedging, and a rebound from low levels is still building. Based on catalysts and timing, compute-power technologies, micro-cap crossovers, new power-supply architecture and lithium batteries are likely to heat up; CITIC Securities recommends focusing on these four themes given the market environment, catalysts and composite quant indicators."
     }
   ]
 }
