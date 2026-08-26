@@ -1,7 +1,43 @@
 {
   "date": "2026-08-27",
-  "count": 145,
+  "count": 149,
   "items": [
+    {
+      "id": "mkt:01a03f39-f849-7aab-9136-1a27f063daf1",
+      "time": "2026-08-27 01:59:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to letters, U.S. lawmakers have called for an investigation into the Department of Transportation's failure to protect air passengers' privacy."
+    },
+    {
+      "id": "5060707",
+      "time": "2026-08-27 01:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國議員致函，要求調查交通部未能保障航空乘客隱私的問題。"
+    },
+    {
+      "id": "5060706",
+      "time": "2026-08-27 01:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：波音未能推翻 7200 萬美元商業秘密侵權敗訴判決。"
+    },
+    {
+      "id": "mkt:01a03f36-7496-7aab-9136-1419a5386111",
+      "time": "2026-08-27 01:55:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Sources said the U.S. may have made some progress clearing sea mines in international waters, but Iran estimates 80-150 mines it deployed remain uncleared."
+    },
     {
       "id": "5060705",
       "time": "2026-08-27 01:52:55",
