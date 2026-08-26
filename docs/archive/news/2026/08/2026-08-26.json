@@ -1,7 +1,87 @@
 {
   "date": "2026-08-26",
-  "count": 3121,
+  "count": 3129,
   "items": [
+    {
+      "id": "5060543",
+      "time": "2026-08-26 22:16:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾官員稱已找到97具山洪遇難者遺體 】尼泊爾武警官員26日晚通報該國山洪救援情況稱，截至當晚7時左右，已找到97具遇難者遺體，此外共有54人獲救。當地時間26日，尼泊爾北部熱索瓦地區暴發山洪。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a03e6e-0320-7aab-9131-8dbb337ff35f",
+      "time": "2026-08-26 22:16:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Saudi reroutes oil shipments after Houthi threat; Gulf loading surges】Saudi Arabia has shifted crude export routing back to Persian Gulf terminals after Houthi threats to Red Sea shipments. Sentinel-1 and Sentinel-2 satellite imagery show roughly 7.0 mln barrels loading at Ras Tanura across multiple berths on Tuesday, with four tankers alongside at Ras Tanura and Ju'aymah — the largest concentration since a late-June loading spike tied to a brief US‑Iran truce. Traders have tracked Saudi flows closely since the end-February outbreak of the Iran war; Riyadh had moved supplies to Red Sea port Yanbu after the conflict began, but a Houthi-declared blockade of Saudi shipping last month prompted the latest routing adjustment."
+    },
+    {
+      "id": "5060542",
+      "time": "2026-08-26 22:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電網成功發行100億元全國首單“新型電網”專項科創債券】近日，國家電網有限公司在上海證券交易所成功發行全市場首單“新型電網”專項債券，發行規模達100億元，打破30年期公司債券單期最大發行規模市場紀錄。本期債券是公司歷史上首次在境內嘗試發行的30年期債券，發行利率2.30%，低於同期限債券估值約3個基點，創央企年內同期限債券最低發行利率。全場認購倍數達到3.13倍，為今年以來同期限債券認購總量最高，體現了資本市場對公司國家主權級信用的充分認可。債券上市後，將由上海證券交易所納入基準做市債券範圍，為市場信用體系提供標準化、可比對的長期限定價參考，進一步健全信用市場定價基準體系，提升市場價格發現效能。（國家電網）"
+    },
+    {
+      "id": "mkt:01a03e6d-1c61-7aab-9131-806f23b77508",
+      "time": "2026-08-26 22:15:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhipu open-sources GLM-5.3-Flash】Zhipu launched and open-sourced GLM-5.3-Flash (320B-A18B), a native multimodal model in the GLM-5 series with 320 billion parameters. The company says the model outperforms GLM-5.2, scored 57 on the AA Comprehensive Intelligence Index—placing it in the global frontier model band and on par with Anthropic's Claude Opus 4.8—and produced comparable coding results on Zhipu's Z.ai Code Bench. Zhipu priced GLM-5.3-Flash at one-tenth of GLM-5.3, with a limited-time discount to one-twentieth, and says list pricing is one-fortieth of Claude Opus 4.8."
+    },
+    {
+      "id": "5060541",
+      "time": "2026-08-26 22:15:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜上線並開源GLM-5.3-Flash】今天，我們上線並開源GLM-5.3-Flash (320B-A18B)，這是GLM-5系列的首個原生多模態模型：320B總引數，能力超過GLM-5.2，在全球權威的Artificial Analysis Intelligence Index（AA綜合智慧指數）中取得57分，進入全球前沿模型能力區間，與Anthropic最受歡迎的模型Claude Opus 4.8得分持平。在自研Z.ai Code Bench體感評估中，其程式設計表現與Claude Opus 4.8相當。與此同時，GLM-5.3-Flash定價為GLM-5.3的1/10，限時折扣內為GLM-5.3的1/20，為Opus 4.8的1/40。同樣智力，1/40價格，前沿智慧，第一次不需要省著用。（智譜）"
+    },
+    {
+      "id": "mkt:01a03e6c-e311-7aab-9131-7d3e1711a182",
+      "time": "2026-08-26 22:15:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Alhadath reported a senior Gaza peace representative said Hamas has agreed to transfer authority to a national committee; weapons in the Gaza Strip will be handed to that committee and destroyed under international supervision, and Palestinian factions have agreed to disarm. The representative said the roadmap would establish a unified governing authority with weapons centrally controlled."
+    },
+    {
+      "id": "5060540",
+      "time": "2026-08-26 22:14:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局協調指導開展西藏日喀則市吉隆縣泥石流災害搶修覆電和供電保障工作】國家能源局稱，8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯，部分電力設施損毀。災害發生後，國家能源局協調指導相關電力企業全力開展搶修覆電和供電保障工作。目前，當地電力企業已備好應急照明裝置，優先保障臨時指揮部照明，並派出1臺中壓發電車、2臺低壓發電車趕赴災區。同時，從周邊地區調撥應急照明裝備24臺，電源裝備53臺，以及帳篷接電物資、搶修物資，正在趕往現場開展搶修覆電和供電保障工作。"
+    },
+    {
+      "id": "te:markets:578305",
+      "time": "2026-08-26 22:13:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Mid-Month Inflation Eases — The Ibovespa rose near 1% to trade close to 176,000 on Wednesday amid evidence of slower inflation. The Brazilian inflation rate was at 4.25% in the first half of August from 4.44% in July, firmly below the central bank's upper tolerance band of 4.5%. Bond yields fell as lower inflationary pressures boosted expectations for a Selic rate cut. Financials traded higher, with Itaú and Itaúsa up about 1%, while Bradesco rose more than 1.5% and Banco do Brasil gained nearly 2%. Utilities also advanced, with Sabesp rising over 2.5% after Itaú BBA reiterated its buy rating following the stock’s slump after its quarterly results. Vale rose over 0.5% on higher iron ore prices. In contrast, Petrobras lost nearly 0.5% as oil prices fell following reports that Iran and Oman discussed establishing a “temporary joint maritime corridor” in the Strait of Hormuz."
+    },
     {
       "id": "mkt:01a03e69-e290-7aab-9131-743f0f2e6685",
       "time": "2026-08-26 22:12:01",
