@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-27 04:09:59",
-  "count": 16639,
+  "updated": "2026-08-27 04:14:10",
+  "count": 16642,
   "items": [
+    {
+      "id": "5060825",
+      "time": "2026-08-27 04:12:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊：美國國庫券市場可以消化更大規模的國債回購】巴克萊表示，美國國庫券市場能夠消化擴大債券回購規模所帶來的影響，而短期債務發行的上限取決於美國財政部是否願意繼續擴大這一市場。巴克萊策略師Samuel Earl在一份報告中寫道：“市場吸收國庫券發行的能力非常強大。”他指出，“7月份和8月份，美國財政部預計將向私人部門淨髮行約5,000億美元的新國庫券，而國庫券市場幾乎沒有受到影響”。"
+    },
+    {
+      "id": "te:markets:578366",
+      "time": "2026-08-27 04:10:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mixed Ahead of Nvidia Earnings — US stock indices closed mixed on Wednesday ahead of Nvidia’s earnings report. The S&P 500 closed near flat, the Nasdaq inched higher, and the Dow shed 113 points. Technology stocks mostly advanced ahead of Nvidia’s (-1.6%) results, which are expected to provide clues on capital spending by AI hyperscalers. Forecasts point to nearly doubled year-on-year revenue, which would mark the fastest growth in two years. Chipmakers and hyperscalers were mostly higher, with Microsoft up 0.9%, Meta rising 1.1%, Micron adding 0.6%, and AMD gaining 0.4%. Meta also benefited from a settlement with US states over its social media strategy targeting teenagers. Meanwhile, Intuit shed 3.2% after its outlook fell short of the higher end of market expectations. Traditional sectors remained under pressure amid concerns over adverse macroeconomic conditions, while robust consumer spending and income growth, alongside higher-than-expected PCE readings, reinforced expectations for a restrictive Fed."
+    },
+    {
+      "id": "5060823",
+      "time": "2026-08-27 04:10:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行行長：美墨加協定談判（如果）取得成功將提振投資。"
+    },
     {
       "id": "5060817",
       "time": "2026-08-27 04:08:46",
