@@ -1,7 +1,23 @@
 {
   "date": "2026-08-27",
-  "count": 162,
+  "count": 164,
   "items": [
+    {
+      "id": "mkt:01a03f51-2f27-7aab-9136-53a507fbd7cd",
+      "time": "2026-08-27 02:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry spokesman said the Qatari prime minister will visit Tehran on Thursday local time."
+    },
+    {
+      "id": "5060713",
+      "time": "2026-08-27 02:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達外交部發言人：卡達首相將於週四訪問德黑蘭。"
+    },
     {
       "id": "te:markets:578362",
       "time": "2026-08-27 02:20:03",
