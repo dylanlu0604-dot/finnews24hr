@@ -1,7 +1,55 @@
 {
   "date": "2026-08-27",
-  "count": 41,
+  "count": 46,
   "items": [
+    {
+      "id": "te:markets:578356",
+      "time": "2026-08-27 00:28:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Pulls Back on Profit-Taking — Palladium futures hovered near $1,330, easing from a one-week high amid profit-taking after US inflation data came broadly in line with market expectations. Still, inflation remains above the Fed’s target, boosting expectations of a rate hike by year-end and weighing on demand for the non-yielding metal. Investors also took profits across the metals complex following the US Treasury’s announcement of increased buybacks of long-term government debt aimed at lowering elevated borrowing costs. On the industrial side, the Middle East conflict encouraged countries to reduce their exposure to volatile fuel costs, strengthening the case for investment in cheaper, domestically produced renewable energy. Rising fuel prices are also supporting EV adoption, potentially reducing demand for platinum used in automotive catalysts. Meanwhile, concerns over lower Russian palladium output and reduced refined production from South African processing disruptions continued to provide underlying support."
+    },
+    {
+      "id": "5060655",
+      "time": "2026-08-27 00:27:21",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲股市基本持穩等待英偉達財報 銀行股走高】歐洲股市基本持穩，銀行股上漲，投資者靜待英偉達公佈備受矚目的財報。斯托克歐洲600指數收盤時變化不大。銀行股以及食品和飲料股漲幅居前，醫療保健股則表現落後。資料顯示，美國7月消費者支出停滯，而一項備受關注的通脹指標符合市場預期。此外，伊朗表示，已與阿曼就霍爾木茲海峽的收益分配達成協議。目前雙方正推動就這條關鍵水道的管理達成一項更廣泛的協議。歐洲股市從上週的跌勢中反彈，目前斯托克600指數距離歷史收盤高點相差不到1%。不過，歐洲各國股市表現今年出現分化，義大利和西班牙股市領漲，而法國和德國股市表現落後。"
+    },
+    {
+      "id": "5060654",
+      "time": "2026-08-27 00:26:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特將於週四會見美國國防部副部長埃爾布里奇・科爾比。"
+    },
+    {
+      "id": "mkt:01a03ee3-0dd9-7aab-9134-837f7b9e8fe7",
+      "time": "2026-08-27 00:24:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC opens treasury-transfer \"green channel\" to ensure disaster relief disbursements】The People's Bank of China Tibet Autonomous Region branch has opened a treasury-transfer \"green channel\", urgently disbursed funds for a mudslide at Jilong port in Jilong County, and mobilized local treasury units to fully support relief payment processing and services."
+    },
+    {
+      "id": "te:markets:578353",
+      "time": "2026-08-27 00:24:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Holds Steady — Platinum futures hovered near $1,850, easing from an eleven-week high amid profit-taking after US inflation data came broadly in line with market expectations. Still, inflation remains above the Fed’s target, boosting expectations of a rate hike by year-end and weighing on demand for the non-yielding metal. Investors also took profits across the metals complex following the US Treasury’s announcement of increased buybacks of long-term government debt aimed at lowering elevated borrowing costs. On the industrial side, the Middle East conflict has encouraged countries to reduce their exposure to volatile fuel costs, strengthening the case for investment in cheaper, domestically produced renewable energy. Rising fuel prices are also supporting EV adoption, potentially reducing demand for platinum used in automotive catalysts. Still, platinum remained underpinned by a tight global supply-demand balance, with persistent supply deficits and low inventories limiting available metal."
+    },
     {
       "id": "mkt:01a03ee2-8105-7aab-9134-7ea561027ed3",
       "time": "2026-08-27 00:23:46",
