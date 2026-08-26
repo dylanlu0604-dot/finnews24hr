@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-27 03:37:21",
-  "count": 16618,
+  "updated": "2026-08-27 03:41:28",
+  "count": 16619,
   "items": [
+    {
+      "id": "5060772",
+      "time": "2026-08-27 03:40:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行副行長：工業活動已顯現疲軟態勢。"
+    },
+    {
+      "id": "mkt:01a03f95-0cbd-7aab-9137-312d693788ed",
+      "time": "2026-08-27 03:38:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O"
+      ],
+      "text": "Wall Street Journal reports Google (GOOG.O) is reorganizing its AI structure, moving its AI-responsibility team out of DeepMind."
+    },
+    {
+      "id": "5060771",
+      "time": "2026-08-27 03:38:46",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普簽署行政令 禁止部分外國能源裝置接入美國電網】美國總統特朗普以國家安全為由簽署一項緊急行政令，禁止部分外國製造的變壓器及其他關鍵能源裝置進入美國電網。該行政令禁止美國採購或安裝存在網路安全風險、執行風險的特定外國產電力裝置。行政令要求美國能源部在120天內出臺配套監管規則，並授權能源部長可針對已投入使用的裝置施加限制，以此化解相關安全隱患。"
+    },
+    {
+      "id": "5060769",
+      "time": "2026-08-27 03:38:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行行長：後續維持貨幣政策利率並非既定安排，利率未來水平將取決於我們對通脹前景的評估。"
+    },
+    {
+      "id": "5060768",
+      "time": "2026-08-27 03:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普簽署行政令，電網將禁用部分外國能源裝置。"
+    },
+    {
+      "id": "5060767",
+      "time": "2026-08-27 03:37:38",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "谷歌將AI責任團隊移出DeepMind實驗室。"
+    },
+    {
+      "id": "5060766",
+      "time": "2026-08-27 03:36:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁：為秘魯F-16 Block 70專案提出18億美元產業合作方案。"
+    },
+    {
+      "id": "5060765",
+      "time": "2026-08-27 03:36:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "洛克希德·馬丁公司宣佈為秘魯F-16 Block 70專案提供廣泛的工業合作機會。"
+    },
     {
       "id": "mkt:01a03f91-9b5b-7aab-9137-2c936e919582",
       "time": "2026-08-27 03:35:02",
@@ -149722,71 +149794,6 @@
         "國際"
       ],
       "text": "特朗普談及債券市場：美國人無需擔憂市場波動。"
-    },
-    {
-      "id": "5048560",
-      "time": "2026-08-20 03:39:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普：我有權與一個國家切斷所有業務往來。認為美聯儲主席沃什的表現非常出色。"
-    },
-    {
-      "id": "mkt:01a01b88-ffa4-7aab-90a1-a38f91e8a05e",
-      "time": "2026-08-20 03:39:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "President Trump said he regards Fed Chair Kevin Warsh's performance as very strong."
-    },
-    {
-      "id": "mkt:01a01b88-c666-7aab-90a1-9919a6472fd2",
-      "time": "2026-08-20 03:39:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he has the right to cut off all business dealings with a country."
-    },
-    {
-      "id": "5048559",
-      "time": "2026-08-20 03:38:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：目前海峽處於開放狀態，大量船隻通行。媒體並未報道這件事。"
-    },
-    {
-      "id": "5048558",
-      "time": "2026-08-20 03:37:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（關於加拿大貿易）農民將不需要支付關稅。"
-    },
-    {
-      "id": "mkt:01a01b87-822d-7aab-90a1-964ccd01b7f5",
-      "time": "2026-08-20 03:37:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. President Trump said the U.S. may reduce some tariffs on Canada to match levels applied to other countries, saying Canada is paying higher tariffs."
-    },
-    {
-      "id": "5048557",
-      "time": "2026-08-20 03:37:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及加拿大：我們可能將部分關稅下調至其他國家的同等水平，因為加拿大此前被徵收更高關稅。"
     }
   ]
 }
