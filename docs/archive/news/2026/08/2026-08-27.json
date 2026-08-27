@@ -1,7 +1,85 @@
 {
   "date": "2026-08-27",
-  "count": 977,
+  "count": 985,
   "items": [
+    {
+      "id": "te:economy:578456",
+      "time": "2026-08-27 11:06:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "BoJ Himino Highlights Need for Timely Rate Hikes — Bank of Japan remains alert to upside inflation risks and will discuss the need to raise interest rates as markets increasingly expect another hike, Deputy Gov. Ryozo Himino said in a speech Thursday. “It is important to stabilise underlying inflation at a level around 2%,” he said, warning that inflation above the 2% price stability target could hurt the economy and warrants greater attention than in the past. Himino added that the central bank will assess risks to its economic outlook, including the Middle East conflict, foreign-exchange movements and stronger AI-related demand. He also argued that “raising rates in a timely manner” could prevent inflation from accelerating and avoid the need for abrupt hikes later, ultimately benefiting smaller firms, mortgage borrowers and public finances. He stressed that the timing and pace of policy adjustment will depend on the likelihood of the baseline economic and price outlook being realized and the risks surrounding it."
+    },
+    {
+      "id": "5061390",
+      "time": "2026-08-27 11:06:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3749.00元。"
+    },
+    {
+      "id": "5061389",
+      "time": "2026-08-27 11:05:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安踏集團捐贈1000萬元現金，馳援西藏吉隆等地救災】8月27日，安踏集團宣佈向中華慈善總會捐贈1000萬元現金，用於支援西藏吉隆等災區的緊急援助、過渡安置及災後重建工作，並積極響應應急管理部政社協同保障機制。"
+    },
+    {
+      "id": "5061388",
+      "time": "2026-08-27 11:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：2026年1—7月全國電力市場交易電量同比增長23.4%】據國家能源局官微，2026年7月，全國各電力交易機構完成交易電量7404億千瓦時，同比增長18.5%。從交易範圍看，省內交易電量5491億千瓦時，同比增長19.0%；跨省跨區交易電量1913億千瓦時，同比增長17.2%。從交易品種看，中長期交易電量6786億千瓦時；現貨交易電量618億千瓦時。綠電交易電量277億千瓦時，同比增長2.7%。電網企業市場化代理購電電量872億千瓦時。2026年1—7月，全國各電力交易機構累計完成交易電量44252億千瓦時，同比增長23.4%。從交易範圍看，省內交易電量34626億千瓦時，同比增長26.8%；跨省跨區交易電量9626億千瓦時，同比增長12.5%。從交易品種看，中長期交易電量39354億千瓦時；現貨交易電量4898億千瓦時。綠電交易電量1918億千瓦時，同比增長5.6%。電網企業市場化代理購電電量4857億千瓦時。"
+    },
+    {
+      "id": "5061387",
+      "time": "2026-08-27 11:05:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州省與中國電信集團有限公司簽署戰略合作協議】據貴州日報，8月26日，貴州省委書記徐麟，省委副書記、省長李炳軍在貴陽會見中國電信集團有限公司黨組書記、董事長柯瑞文一行，共同出席《貴州省人民政府 中國電信集團有限公司戰略合作協議》簽約儀式。根據協議，雙方將在新型資訊基礎設施建設、壯大資料標註產業、數智賦能等領域深化合作。"
+    },
+    {
+      "id": "mkt:01a0412d-91f0-7aab-9140-c7a7d298f4e3",
+      "time": "2026-08-27 11:05:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says the central bank will closely monitor inflation and Q2 GDP data ahead of its October interest-rate decision."
+    },
+    {
+      "id": "mkt:01a0412c-5ff1-7aab-9140-b91e2cab12b7",
+      "time": "2026-08-27 11:03:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Dollar depreciation concerns support gold; markets eye Kevin Warsh speech】Gold rose modestly on Thursday as dollar-depreciation fears and anticipation of Fed chair Kevin Warsh’s speech underpinned prices. OANDA senior market analyst Kelvin Wong said the dollar-weakness narrative combined with U.S. budget-deficit concerns provides medium-term support for bullion. The U.S. Treasury’s move to expand purchases of previously issued long-term bonds intensified dollar-depreciation worries; gold gained more than 5% last week. Wong said markets are awaiting Warsh for clearer guidance on how the Fed will respond; absent specific forward guidance, current market pricing for rate hikes is likely to remain largely unchanged. Geopolitical risk: the Qatari PM will visit Tehran to restart diplomatic mediation amid renewed U.S.-Iran mutual accusations, focused on Washington’s pledge to tighten pressure via sanctions on Iran’s trading partners."
+    },
+    {
+      "id": "5061386",
+      "time": "2026-08-27 11:02:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徵祥醫藥再度遞表港交所】據港交所檔案，8月26日，徵祥醫藥（南京）集團股份有限公司向港交所提交上市申請書，獨家保薦人為中國國際金融香港證券有限公司。"
+    },
     {
       "id": "5061385",
       "time": "2026-08-27 11:02:27",
