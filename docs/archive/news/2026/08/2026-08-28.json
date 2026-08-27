@@ -1,7 +1,55 @@
 {
   "date": "2026-08-28",
-  "count": 386,
+  "count": 392,
   "items": [
+    {
+      "id": "5063542",
+      "time": "2026-08-28 07:36:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股債蹺蹺板效應再現 10年期國債收益率重返1.7%上方】8月27日，A股主要指數集體收漲，科創50指數上漲3.77%；債市則承壓回撥，國債期貨全線收跌，30年期品種跌破116元關口，10年期國債收益率時隔十個交易日重返1.7%上方，股債蹺蹺板效應再次顯現。股債走勢分化之際，影響債市的多重因素也在發生變化。業內人士認為，國債收益率進一步下行需要更強的推動因素，債市或逐步告別單邊走勢，進入波動加劇階段。（上海證券報）"
+    },
+    {
+      "id": "5063541",
+      "time": "2026-08-28 07:36:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "美麗田園醫療健康(02373)釋出截至2026年6月30日止六個月業績，該集團期內取得收入18.82億元人民幣，同比增加29%；淨利潤2.39億元，同比增加40.2%；每股基本收益0.91元。"
+    },
+    {
+      "id": "5063540",
+      "time": "2026-08-28 07:35:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英矽智慧：建議發行於2027年到期的3.05億美元零息可換股債券】英矽智慧(03696)釋出公告，於2026年8月27日(交易時段後)，本公司與經辦人已訂立認購協議，據此並須待其中所載若干條件達成後，本公司已同意發行，而經辦人已同意認購及支付，或促使認購人認購及支付本金總額為3.05億美元的債券。初步轉換價為每股股份58.07港元，較(i)於2026年8月27日(即認購協議日期)香港聯交所所報每股股份收市價47.02港元溢價約23.5%。假設按初步轉換價每股股份 58.07 港元悉數轉換債券，債券可轉換為約 4117.47萬股股份，相當於本公司於2026年8月27日(即本公告刊發前的最後實際可行日期)的已發行股本約7.07%以及經悉數轉換債券擴大後的本公司已發行股本約6.60%。"
+    },
+    {
+      "id": "te:economy:578818",
+      "time": "2026-08-28 07:35:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Japan Jobless Rate Lowest in A Year — Japan's unemployment rate edged down to 2.4% in July 2026 from 2.5% in each of the previous three months, coming below market expectations of the same level. It was the lowest reading since July 2025."
+    },
+    {
+      "id": "te:markets:578817",
+      "time": "2026-08-28 07:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower Ahead of Warsh Speech — US stock futures edged lower on Friday as investors awaited Federal Reserve Chair Kevin Warsh’s speech at the annual Jackson Hole symposium later in the global day for clues about the outlook for US interest rates. Investors also digested the latest corporate earnings, with Gap surging nearly 15% in extended trading after the retailer named a new CEO for its struggling Old Navy brand. Meanwhile, Marvell Technology and Autodesk tumbled more than 7% and 5%, respectively, following disappointing quarterly results. In regular trading on Thursday, the tech-heavy Nasdaq Composite jumped 1.57%, while the Dow Jones and S&P 500 gained 0.2% and 0.72%, respectively. The gains came as Nvidia rallied 8.7% after strong demand for AI computing prompted the world’s largest company to forecast a 70% increase in revenue next fiscal year, challenging persistent concerns that capital spending on AI infrastructure could slow."
+    },
     {
       "id": "5063539",
       "time": "2026-08-28 07:32:10",
@@ -19,6 +67,15 @@
         "其他"
       ],
       "text": "【杭州圖書館今天起臨時閉館#】受今年第18號颱風“沙德爾”影響，根據杭州市防颱風應急響應要求，為保障廣大讀者的人身安全，杭州圖書館於8月28日（週五）起臨時閉館（含少兒、生活、佛學直屬分館）。（杭州釋出）"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608283857120821",
+      "time": "2026-08-28 07:31:32",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "東京8月份整體消費物價同比增長1.9%。"
     },
     {
       "id": "mkt:01a04590-0ce7-7aab-915c-6496bba22e66",
