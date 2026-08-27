@@ -1,7 +1,32 @@
 {
   "date": "2026-08-28",
-  "count": 335,
+  "count": 338,
   "items": [
+    {
+      "id": "te:markets:578811",
+      "time": "2026-08-28 07:03:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Rises but Heads for Muted Weekly Gain — New Zealand stocks advanced 105 points, or 0.8%, to 13,985 in Friday morning trade, halting losses in the previous session and tracking a rally on Wall Street overnight, due to a surge in tech stocks. Optimism over earnings results, as traders continued to brace for the release of earnings reports from some companies later today, lifted sentiment. However, traders anticipated the RBNZ's monetary policy decision next week. Caution was also building ahead of a speech from the Fed’s chair for clues on the central bank’s interest rate decision at its upcoming meeting. Energy, healthcare, and communication services mainly drove the index. Channel Infrastructure surged 3.4% ahead of the release of its earnings report, while Port of Tauranga rose 1.5% despite reporting a decline in net profit. Sky Network TV jumped 7.4% after reporting more than double the net profit. For the week, the index is heading for a muted finish after posting its third consecutive weekly gain."
+    },
+    {
+      "id": "mkt:01a04575-9f0c-7aab-915b-f8bdb0890f5a",
+      "time": "2026-08-28 07:02:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Wall Street Journal: some senior White House officials unaware of CIA Director John Ratcliffe's Russia visit】The Wall Street Journal reported CIA Director John Ratcliffe made a sensitive diplomatic visit to Russia this week that several senior White House officials did not know about in advance. US officials said President Trump personally dispatched Ratcliffe and kept aides and senior military leaders who would normally be informed off the trip; those officials did not know what message Ratcliffe was to deliver to senior Kremlin officials. The report says Trump chose to send the intelligence chief after previous trusted diplomatic envoys failed to prevent escalation in negotiations."
+    },
     {
       "id": "5063509",
       "time": "2026-08-28 06:58:05",
@@ -2742,6 +2767,14 @@
         "國際"
       ],
       "text": "伊朗禮薩伊稱，伊朗圖謀刺殺特朗普之子的指控不實。"
+    },
+    {
+      "id": "5063256",
+      "time": "2026-08-28 03:14:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：FDA批准首款用於治療成人皮肌炎的口服藥物。"
     },
     {
       "id": "te:markets:578797",
