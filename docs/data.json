@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-27 22:20:50",
-  "count": 15378,
+  "updated": "2026-08-27 22:25:08",
+  "count": 15375,
   "items": [
+    {
+      "id": "5063008",
+      "time": "2026-08-27 22:23:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國晟科技：2026年上半年營收3.43億元 淨虧損收窄】國晟科技公告稱，2026年上半年實現營業收入3.43億元，同比增長11.93%；歸屬於上市公司股東的淨虧損8634.56萬元，上年同期淨虧損9633.84萬元；歸屬於上市公司股東的扣除非經常性損益的淨虧損8537.88萬元。基本每股收益-0.13元，加權平均淨資產收益率-32.19%。本報告期無利潤分配預案。"
+    },
+    {
+      "id": "5063007",
+      "time": "2026-08-27 22:22:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【CBOT豆油主力合約漲超2%】CBOT豆油主力合約漲超2%，現報69.13美分/磅。"
+    },
+    {
+      "id": "5063006",
+      "time": "2026-08-27 22:21:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長表示：伊朗唯一的選擇就是回到談判桌前，就其核計劃開展真誠的磋商。"
+    },
+    {
+      "id": "mkt:01a04399-2894-7aab-9154-3a6280df12cf",
+      "time": "2026-08-27 22:21:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude 2610 contract turnover exceeded 18.5 bln yuan; contract is up 3.00% intraday at 590.9 yuan/barrel. Open interest rose by nearly 1,100 contracts intraday; trading volume and open-interest activity increased in tandem."
+    },
+    {
+      "id": "5063005",
+      "time": "2026-08-27 22:21:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SC原油2610成交額已超185億元，日內漲幅達3.00%，最新報590.9元/桶，日內增倉近1100手，量倉活躍度同步抬升。"
+    },
+    {
+      "id": "5063004",
+      "time": "2026-08-27 22:21:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉疫情快速擴散 古特雷斯呼籲加大應對力度】當地時間8月27日，聯合國秘書長古特雷斯在紐約就剛果民主共和國埃博拉疫情向媒體發表講話。他表示，當前疫情是有記錄以來增長速度最快的埃博拉疫情，也是剛果（金）歷史上規模最大的一次埃博拉疫情。古特雷斯呼籲國際社會加大支援力度，儘快遏制疫情蔓延。古特雷斯說，截至8月24日，剛果（金）已確認5656例埃博拉病例，2715人死亡。目前每週約新增500例病例，疫情仍在大範圍擴散，婦女和兒童受到的影響尤其嚴重。他說，疫情正在一個高度脆弱的環境中蔓延。僅伊圖裡省，過去30年的衝突就已造成100萬人流離失所，並嚴重削弱當地獲得糧食、醫療和其他基本服務的能力。整個地區目前有超過1200萬人需要人道主義援助和保護。當地衛生系統不堪重負，基礎設施薄弱，一些社群仍難以抵達。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04397-df47-7aab-9154-336d89c12372",
+      "time": "2026-08-27 22:20:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta criticizes Anthropic while becoming major buyer of its AI models】The New York Times reports Meta Platforms CEO Mark Zuckerberg has publicly criticized rival Anthropic for seeking to centralize power and depicting the future as bleak, saying such dominance would shift the balance toward large institutions over individuals. At the same time, five people familiar with the matter say Meta has become a heavy user of Anthropic’s AI products and is now among its largest customers. Two of those people said Meta at one point internally expected annual spending on Anthropic models could reach as high as $10 billion; if realized, that would be a significant portion of Anthropic’s revenue. Anthropic projected in July that its annual revenue would exceed $65 billion."
+    },
     {
       "id": "mkt:01a04397-9f38-7aab-9154-2bc04b63d7f4",
       "time": "2026-08-27 22:20:05",
@@ -138603,96 +138674,6 @@
         "市場"
       ],
       "text": "折扣零售商羅斯百貨和TJX下跌2%。"
-    },
-    {
-      "id": "5050388",
-      "time": "2026-08-20 22:25:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "Dollar Tree下跌1.8%，Dollar General下跌約1%。"
-    },
-    {
-      "id": "5050387",
-      "time": "2026-08-20 22:24:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "據訊息，帕斯基銀行董事會批准對義大利人民銀行與忠利銀行的收購報價。"
-    },
-    {
-      "id": "5050386",
-      "time": "2026-08-20 22:24:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌2%，現報1551.00元。"
-    },
-    {
-      "id": "mkt:01a01f8e-6b48-7aab-90b9-b82c17b61116",
-      "time": "2026-08-20 22:23:42",
-      "tags": [
-        "MKT News",
-        "WMT.N",
-        "Impact bearish"
-      ],
-      "text": "Walmart (WMT.N) shares fell 9.2%, the largest single-day decline since May 2022."
-    },
-    {
-      "id": "5050385",
-      "time": "2026-08-20 22:23:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "沃爾瑪財報公佈後，多家零售企業股價下跌。克羅格下跌1.4%，好市多下跌1.5%，艾伯森下跌2%。"
-    },
-    {
-      "id": "5050384",
-      "time": "2026-08-20 22:23:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "沃爾瑪股價下跌9.2%，創下2022年5月以來最大單日跌幅。"
-    },
-    {
-      "id": "5050383",
-      "time": "2026-08-20 22:22:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "埃及央行宣佈維持隔夜存款利率在19%不變。"
-    },
-    {
-      "id": "mkt:01a01f8c-de68-7aab-90b9-b548eeb997ad",
-      "time": "2026-08-20 22:22:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's central bank held its benchmark interest rate unchanged."
-    },
-    {
-      "id": "mkt:01a01f8c-bbc3-7aab-90b9-aae5acc704d7",
-      "time": "2026-08-20 22:21:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "PDVSA vice president said Venezuela's crude exports have risen 19.7% year-to-date in 2026."
-    },
-    {
-      "id": "5050382",
-      "time": "2026-08-20 22:21:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉國家石油公司副總裁 ：2026年迄今委內瑞拉原油出口增長19.7%。"
     }
   ]
 }
