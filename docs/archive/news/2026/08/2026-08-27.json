@@ -1,7 +1,96 @@
 {
   "date": "2026-08-27",
-  "count": 1602,
+  "count": 1612,
   "items": [
+    {
+      "id": "5062949",
+      "time": "2026-08-27 21:50:56",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "市場訊息：花旗集團聘任滙豐銀行的迪克西特，加入歐洲、中東和非洲地區媒體投行團隊。"
+    },
+    {
+      "id": "5062948",
+      "time": "2026-08-27 21:50:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳海事局與欣旺達簽訂合作備忘錄 共建“綠色海事智慧創新應用中心”】欣旺達訊息，8月25日，深圳海事局與欣旺達簽訂合作備忘錄，共建“綠色海事智慧創新應用中心”，雙方將聚焦綠色能源替代、智慧裝備驗證與監管模式等創新領域，共同培育海事新質生產力、推動航運低碳轉型。基於該中心，雙方將重點推進四大領域合作：海事雷達站的風光儲充能源最佳化及智慧管理；船用三元半固態電池技術攻關、測試驗證及應用可研；電動遊艇岸基智慧監管技術研發與前海等示範區域測試應用；以及產品原型、專利、標準建議和人才技術交流等成果轉化工作。"
+    },
+    {
+      "id": "mkt:01a0437c-5039-7aab-9153-876e3b7032c6",
+      "time": "2026-08-27 21:50:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【US capital goods imports hit highest since 1993 amid AI boom】US goods imports rose 3.7% in July, led by capital goods—the largest gain for that category since 1993—driven by computers and accessories, semiconductors and telecom equipment; AI-related equipment imports have remained strong in recent months. Industrial supplies imports and exports both fell in July; that category includes crude and petroleum products and non-monetary gold, the latter having contributed to trade-data volatility over the past year."
+    },
+    {
+      "id": "5062947",
+      "time": "2026-08-27 21:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲藥品管理局：這些短缺問題還可能影響到其他國家其他含棕櫚酸帕利哌酮的長效注射劑的供應。"
+    },
+    {
+      "id": "5062946",
+      "time": "2026-08-27 21:49:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Salesforce業績強勁緩解AI顛覆擔憂 分析師稱“SaaS末日論”反應過度】Salesforce CEO 馬克·貝尼奧夫（Marc Benioff）表示，公司實現兩位數的營收增長與利潤提升，證明 AI 並未如投資者數月前所擔心的那樣，對軟體行業構成“生存危機”。經紀商 IG 首席市場分析師克里斯·博尚（Chris Beauchamp）在播客中對此觀點表示認同。他指出，市場情緒常在“極度樂觀”與“難以抑制的恐慌”之間劇烈擺動，此前對軟體公司的悲觀情緒已明顯反應過度；儘管行業正經歷痛苦的崗位調整與裁員，但軟體企業目前抵禦住了這波衝擊。"
+    },
+    {
+      "id": "5062945",
+      "time": "2026-08-27 21:49:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑪氏公司攜手當地合作伙伴在巴西巴伊亞州培訓可可種植戶。"
+    },
+    {
+      "id": "5062944",
+      "time": "2026-08-27 21:49:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲藥品管理局（EMA）：部分歐盟成員國出現了棕櫚酸帕利哌酮長效注射劑藥品短缺。"
+    },
+    {
+      "id": "5062943",
+      "time": "2026-08-27 21:48:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4620美元/盎司，日內跌0.72%。"
+    },
+    {
+      "id": "5062942",
+      "time": "2026-08-27 21:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗石油部長：石油銷售並未中斷，儘管有所縮減，但向遠海客戶輸送石油的工作仍在持續。我不便透露細節，因為相關資訊一旦洩露，可能會被敵方加以利用。"
+    },
+    {
+      "id": "5062941",
+      "time": "2026-08-27 21:47:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：蘇丹軍方稱近日攔截多架從衣索比亞境內起飛的無人機後，已在青尼羅州達馬津部署現代化防空系統。"
+    },
     {
       "id": "mkt:01a04378-62a7-7aab-9153-78e0aab3a032",
       "time": "2026-08-27 21:45:58",
