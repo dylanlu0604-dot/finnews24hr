@@ -1,7 +1,133 @@
 {
   "date": "2026-08-27",
-  "count": 1676,
+  "count": 1690,
   "items": [
+    {
+      "id": "mkt:01a04397-9f38-7aab-9154-2bc04b63d7f4",
+      "time": "2026-08-27 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US EIA weekly natural gas storage for week ending Aug. 21 due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a04397-8151-7aab-9154-2437d289c7c3",
+      "time": "2026-08-27 22:19:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's deputy defense minister said Poland does not want nuclear warheads deployed on Polish territory."
+    },
+    {
+      "id": "mkt:01a04397-7592-7aab-9154-1dc63b903ead",
+      "time": "2026-08-27 22:19:54",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "European Commission President von der Leyen warned that the EU's long-standing advantages that underpinned its growth no longer exist."
+    },
+    {
+      "id": "5063003",
+      "time": "2026-08-27 22:19:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST新華錦：控股子公司上海荔之失控 不再納入合併報表】ST新華錦公告稱，因控股子公司上海荔之經營管理層拒不配合2026年半年度報告編制工作，公司無法獲取其完整財務資料，已失去對上海荔之的實質性控制。公司董事會審議決定，自2026年4月1日起不再將上海荔之納入合併報表範圍。上海荔之2026年1-3月營收5837.17萬元，佔公司同期合併營收的16.38%；對應歸母淨利潤44.97萬元，佔比12.02%。公司已就相關爭議啟動法律程式，後續將根據判決進展審議其重新並表事宜，該事項可能導致公司2026年年報被出具非標準審計意見。"
+    },
+    {
+      "id": "5063002",
+      "time": "2026-08-27 22:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：與派拉蒙達成和解 “可能性極大”。"
+    },
+    {
+      "id": "5063001",
+      "time": "2026-08-27 22:19:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【突尼西亞東南海域非法移民船傾覆共造成15人死亡】當地時間8月27日，突尼西亞國民警衛隊釋出宣告稱，本月21日發生在突尼西亞東南部海域、試圖前往義大利的非法移民船傾覆事件共造成15人死亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04396-6de0-7aab-9154-11f341ed2345",
+      "time": "2026-08-27 22:18:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says drone strike on Kharkiv shopping center kills one, injures five】On the 27th, Ukraine said Russian forces used drones to strike a shopping center in Kharkiv, killing one civilian and wounding five. Russia has not responded."
+    },
+    {
+      "id": "5063000",
+      "time": "2026-08-27 22:18:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST新華錦：2026年上半年營收6.05億元 淨利同比降53.97%】ST新華錦公告稱，2026年上半年實現營業收入6.05億元，同比下降9.50%；歸屬於上市公司股東的淨利潤592.23萬元，同比下降53.97%；歸屬於上市公司股東的扣除非經常性損益的淨利潤為-299.21萬元，同比下降156.35%。基本每股收益0.0138元，同比下降54.00%。本報告期不進行利潤分配或公積金轉增股本。自2026年4月1日起，公司不再將控股子公司上海荔之納入合併報表範圍，合併利潤表僅含上海荔之1-3月資料。"
+    },
+    {
+      "id": "5062999",
+      "time": "2026-08-27 22:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱哈爾科夫一購物中心遭襲致1死5傷】當地時間27日，烏克蘭方面通報稱，俄軍當天使用無人機襲擊哈爾科夫一處購物中心，造成1人死亡、5名平民受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04395-b33e-7aab-9154-0f0c1a72f808",
+      "time": "2026-08-27 22:17:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "California attorney general said the office is prepared to take additional measures if the parties do not act voluntarily."
+    },
+    {
+      "id": "5062998",
+      "time": "2026-08-27 22:17:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：170 億美元對於改善兒童心理健康能夠起到很大作用。"
+    },
+    {
+      "id": "mkt:01a04395-6853-7aab-9154-0106e19db9b8",
+      "time": "2026-08-27 22:17:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish",
+        "SNAP.O",
+        "GOOGL.O"
+      ],
+      "text": "California attorney general said that, after reaching a settlement with Meta, his office has engaged Snap on related issues and is also very interested in YouTube, and hopes the companies will sit down and commit to future reforms."
+    },
+    {
+      "id": "5062997",
+      "time": "2026-08-27 22:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：我們希望對方能夠坐到談判桌前，承諾推進上述改革，並遵守這些承諾。"
+    },
+    {
+      "id": "5062996",
+      "time": "2026-08-27 22:16:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩稱，歐盟經濟模式長期賴以建立的原有優勢已不復存在。"
+    },
     {
       "id": "mkt:01a04393-778c-7aab-9153-fefb4e261824",
       "time": "2026-08-27 22:15:32",

@@ -1,7 +1,133 @@
 {
-  "updated": "2026-08-27 22:16:40",
-  "count": 15373,
+  "updated": "2026-08-27 22:20:50",
+  "count": 15378,
   "items": [
+    {
+      "id": "mkt:01a04397-9f38-7aab-9154-2bc04b63d7f4",
+      "time": "2026-08-27 22:20:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US EIA weekly natural gas storage for week ending Aug. 21 due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a04397-8151-7aab-9154-2437d289c7c3",
+      "time": "2026-08-27 22:19:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's deputy defense minister said Poland does not want nuclear warheads deployed on Polish territory."
+    },
+    {
+      "id": "mkt:01a04397-7592-7aab-9154-1dc63b903ead",
+      "time": "2026-08-27 22:19:54",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "European Commission President von der Leyen warned that the EU's long-standing advantages that underpinned its growth no longer exist."
+    },
+    {
+      "id": "5063003",
+      "time": "2026-08-27 22:19:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST新華錦：控股子公司上海荔之失控 不再納入合併報表】ST新華錦公告稱，因控股子公司上海荔之經營管理層拒不配合2026年半年度報告編制工作，公司無法獲取其完整財務資料，已失去對上海荔之的實質性控制。公司董事會審議決定，自2026年4月1日起不再將上海荔之納入合併報表範圍。上海荔之2026年1-3月營收5837.17萬元，佔公司同期合併營收的16.38%；對應歸母淨利潤44.97萬元，佔比12.02%。公司已就相關爭議啟動法律程式，後續將根據判決進展審議其重新並表事宜，該事項可能導致公司2026年年報被出具非標準審計意見。"
+    },
+    {
+      "id": "5063002",
+      "time": "2026-08-27 22:19:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：與派拉蒙達成和解 “可能性極大”。"
+    },
+    {
+      "id": "5063001",
+      "time": "2026-08-27 22:19:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【突尼西亞東南海域非法移民船傾覆共造成15人死亡】當地時間8月27日，突尼西亞國民警衛隊釋出宣告稱，本月21日發生在突尼西亞東南部海域、試圖前往義大利的非法移民船傾覆事件共造成15人死亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04396-6de0-7aab-9154-11f341ed2345",
+      "time": "2026-08-27 22:18:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says drone strike on Kharkiv shopping center kills one, injures five】On the 27th, Ukraine said Russian forces used drones to strike a shopping center in Kharkiv, killing one civilian and wounding five. Russia has not responded."
+    },
+    {
+      "id": "5063000",
+      "time": "2026-08-27 22:18:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST新華錦：2026年上半年營收6.05億元 淨利同比降53.97%】ST新華錦公告稱，2026年上半年實現營業收入6.05億元，同比下降9.50%；歸屬於上市公司股東的淨利潤592.23萬元，同比下降53.97%；歸屬於上市公司股東的扣除非經常性損益的淨利潤為-299.21萬元，同比下降156.35%。基本每股收益0.0138元，同比下降54.00%。本報告期不進行利潤分配或公積金轉增股本。自2026年4月1日起，公司不再將控股子公司上海荔之納入合併報表範圍，合併利潤表僅含上海荔之1-3月資料。"
+    },
+    {
+      "id": "5062999",
+      "time": "2026-08-27 22:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱哈爾科夫一購物中心遭襲致1死5傷】當地時間27日，烏克蘭方面通報稱，俄軍當天使用無人機襲擊哈爾科夫一處購物中心，造成1人死亡、5名平民受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04395-b33e-7aab-9154-0f0c1a72f808",
+      "time": "2026-08-27 22:17:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "California attorney general said the office is prepared to take additional measures if the parties do not act voluntarily."
+    },
+    {
+      "id": "5062998",
+      "time": "2026-08-27 22:17:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：170 億美元對於改善兒童心理健康能夠起到很大作用。"
+    },
+    {
+      "id": "mkt:01a04395-6853-7aab-9154-0106e19db9b8",
+      "time": "2026-08-27 22:17:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish",
+        "SNAP.O",
+        "GOOGL.O"
+      ],
+      "text": "California attorney general said that, after reaching a settlement with Meta, his office has engaged Snap on related issues and is also very interested in YouTube, and hopes the companies will sit down and commit to future reforms."
+    },
+    {
+      "id": "5062997",
+      "time": "2026-08-27 22:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "加州總檢察長：我們希望對方能夠坐到談判桌前，承諾推進上述改革，並遵守這些承諾。"
+    },
+    {
+      "id": "5062996",
+      "time": "2026-08-27 22:16:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩稱，歐盟經濟模式長期賴以建立的原有優勢已不復存在。"
+    },
     {
       "id": "mkt:01a04393-778c-7aab-9153-fefb4e261824",
       "time": "2026-08-27 22:15:32",
@@ -138567,89 +138693,6 @@
         "其他"
       ],
       "text": "委內瑞拉國家石油公司副總裁 ：2026年迄今委內瑞拉原油出口增長19.7%。"
-    },
-    {
-      "id": "mkt:01a01f8b-9267-7aab-90b9-a4a8b4a0508f",
-      "time": "2026-08-20 22:20:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【South Korea launches ultra-long tech fund with up to 16-year investment horizon】South Korea launched an 880 bln won (≈$631m) ultra-long technology fund today, offering up to a 16-year investment horizon for advanced tech sectors. Policy capital comprises 77% (680 bln won), including 600 bln won from the Advanced Strategic Industries Fund and 80 bln won in fiscal funding; the Financial Services Commission and Korea Development Bank are driving the initiative. The fund will target next-generation semiconductors, biotech and related advanced industries; investee eligibility requires vetting by a technology credit guarantee fund or equivalent legal assessment. To limit concentration, at least 40% of allocations must be invested outside AI and semiconductors; early-stage co-investment and overseas M&A receive weighted incentives. Asset managers will be appointed as three small managers (80 bln won each) and four large managers (160 bln won each); proposals close Sept. 3, selection is due in October and disbursement could be completed by year-end. Manager evaluation will emphasize sector-specific teams and expert networks."
-    },
-    {
-      "id": "5050381",
-      "time": "2026-08-20 22:20:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要銀行指數 <.XBANK> 下跌 2%。"
-    },
-    {
-      "id": "mkt:01a01f8b-2308-7aab-90b9-9f1cae543317",
-      "time": "2026-08-20 22:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas storage for the week to Aug. 14 due in 10 minutes."
-    },
-    {
-      "id": "mkt:01a01f8b-183a-7aab-90b9-90196d45b89a",
-      "time": "2026-08-20 22:20:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's major banks index fell 2%."
-    },
-    {
-      "id": "5050380",
-      "time": "2026-08-20 22:19:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【寧德時代與舍弗勒簽署合作備忘錄 共同打造歐洲本土化電控方案】據寧德時代訊息，近日，寧德時代與專注驅動技術的科技公司舍弗勒（Schaeffler）簽署合作備忘錄。雙方將在電池管理系統（BMS）與多合一能量倉等方向開展戰略合作，共同打造適配歐洲車企需求的本土化電控解決方案，推動歐洲新能源轉型。"
-    },
-    {
-      "id": "5050379",
-      "time": "2026-08-20 22:18:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光輪智慧釋出首個十萬小時全模態人類行為開源資料集】8月20日，光輪智慧在2026世界機器人大會期間釋出首個十萬小時級全模態人類行為開源資料集EgoSuite-Open100K、RoboFinals中試基地模擬評測基礎設施和RoboStack真實場景部署與反饋平臺，三者共同構成一套具身智慧持續學習系統。其中，EgoSuite-Open100K覆蓋128類場景與超1.5萬項任務，首批資料將在Hugging Face和AtomGit同步開源；RoboFinals面向工業製造、物流倉儲、電力巡檢、特種作業、商業服務和醫療康養等業務提供大規模併發測評，補齊中試驗證短板；RoboStack則聚焦部署後的真實工作過程，支援現場失敗樣本自動採集回傳與模型快速迭代。（介面新聞）"
-    },
-    {
-      "id": "5050378",
-      "time": "2026-08-20 22:17:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【8月20日增減持彙總（表）】8月20日盤後，據不完全統計，包括傑美特、英諾鐳射、中國稀土、濟民健康在內的4家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
-    },
-    {
-      "id": "mkt:01a01f88-1d2c-7aab-90b9-8adf540592ce",
-      "time": "2026-08-20 22:16:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Explosions reported in Kyiv, Ukraine."
-    },
-    {
-      "id": "5050377",
-      "time": "2026-08-20 22:16:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國4月以來約1.4萬人死因關聯高溫】德國羅伯特·科赫研究所20日釋出的報告說，4月6日至8月9日，德國約有1.4萬人死於高溫相關原因，相當於每10萬人中就有17人因此身亡。（新華社）"
     }
   ]
 }
