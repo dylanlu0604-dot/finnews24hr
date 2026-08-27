@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-28 07:19:36",
-  "count": 14921,
+  "updated": "2026-08-28 07:23:26",
+  "count": 14925,
   "items": [
+    {
+      "id": "te:markets:578815",
+      "time": "2026-08-28 07:22:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Gains on Russian Supply Concerns — Brent crude held above $89 per barrel on Friday after rebounding in the previous session, as escalations in the Russia-Ukraine war shifted market attention from the Middle East toward Eastern Europe. Reports indicated that Russian President Vladimir Putin said talks with Ukraine had yielded no results and that Russia was preparing to intensify the war. Ongoing Ukrainian strikes on Russian refineries and ports are disrupting the country’s energy infrastructure and could constrain its ability to export crude and refined products. Still, oil prices are on track to end the week lower as markets weighed signs of diplomatic progress in the Middle East and improving supply prospects through the Strait of Hormuz. Iran’s military said it had reached a revenue-sharing agreement with Oman over the strategic waterway, although Tehran stressed that the arrangement does not guarantee an immediate reopening of the strait."
+    },
+    {
+      "id": "5063525",
+      "time": "2026-08-28 07:21:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "隔夜指數掉期顯示，日本央行在9月會議上加息的可能性約為80%，到10月前將有一次行動。日本央行副行長冰見野良三在週四演講中對下個月加息可能保持開放態度。"
+    },
+    {
+      "id": "mkt:01a04587-5165-7aab-915c-143e499dc5f7",
+      "time": "2026-08-28 07:21:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix lags rivals in NAND process migration】According to Korean media, SK Hynix is behind competitors such as Samsung Electronics in converting older NAND lines to next‑generation process nodes, keeping production‑efficiency gaps wide. As of Q2, 176‑layer NAND still accounted for just over half of SK Hynix’s NAND output, while Samsung has completed a shift to 236‑layer as its main node. Industry sources said that, unlike rivals that elevated 200‑layer products into stable mainstream production over the past year, SK Hynix’s total domestic and overseas capacity remains highly dependent on 176‑layer product."
+    },
+    {
+      "id": "5063524",
+      "time": "2026-08-28 07:21:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【基本面仍然不利日元 干預行動帶來的漲勢在一個月後消退】在日本和美國聯手支撐日元大約一個月後，策略師表示，干預行動成功減緩了這種貨幣的短期下跌，但對導致其長期下跌的因素幾乎沒有改變。在日美協調幹預之後，日元兌美元匯率從約164的近四十年來低點升至155.23。但這種上漲勢頭未能持續，日元兌美元匯率已再次接近160。日本與其他主要經濟體之間巨大的利率差距一直是拖累日元的重要因素，這種利率差距促使投資者以低成本借入日元資金，並將資金投資於海外收益更高的資產。對日本財政前景的擔憂，以及中東衝突導致油價高企，也加劇了這種壓力。"
+    },
+    {
+      "id": "te:markets:578814",
+      "time": "2026-08-28 07:21:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Gains on Russian Supply Concerns — Crude oil held above $83 per barrel on Friday after rebounding in the previous session, as escalations in the Russia-Ukraine war shifted market attention from the Middle East toward Eastern Europe. Reports indicated that Russian President Vladimir Putin said talks with Ukraine had yielded no results and that Russia was preparing to intensify the war. Ongoing Ukrainian strikes on Russian refineries and ports are disrupting the country’s energy infrastructure and could constrain its ability to export crude and refined products. Still, oil prices are on track to end the week lower as markets weighed signs of diplomatic progress in the Middle East and improving supply prospects through the Strait of Hormuz. Iran’s military said it had reached a revenue-sharing agreement with Oman over the strategic waterway, although Tehran stressed that the arrangement does not guarantee an immediate reopening of the strait."
+    },
+    {
+      "id": "5063523",
+      "time": "2026-08-28 07:20:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國新辦釋出會丨介紹中國服務貿易發展和2026年服貿會籌備工作進展情況】8月28日09:00，國務院新聞辦公室舉行新聞釋出會，請商務部副部長鄢東、北京市副市長唐文弘介紹中國服務貿易發展和2026年服貿會籌備工作進展情況，並答記者問。"
+    },
+    {
+      "id": "mkt:01a04585-ff7c-7aab-915c-0ce19ad94b05",
+      "time": "2026-08-28 07:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's July unemployment rate is due in 10 minutes."
+    },
+    {
+      "id": "5063522",
+      "time": "2026-08-28 07:19:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江印發現代設施農業建設貸款貼息工作規程】近日，浙江省農業農村廳、省財政廳印發《浙江省現代設施農業建設貸款貼息工作規程》，自2026年10月1日起施行。《規程》要求進一步明確現代設施農業建設貸款貼息工作的各方職責、操作流程、稽核標準、監督管理及問題發現和整改工作機制，形成覆蓋“申報—稽核—核查—撥付—監督”全鏈條的管理閉環。"
+    },
     {
       "id": "5063521",
       "time": "2026-08-28 07:18:56",
@@ -134257,46 +134340,6 @@
         "國際"
       ],
       "text": "【SK海力士擬在日本宮城縣建設儲存晶片工廠】8月21日，據報道，SK海力士正尋求在日本宮城縣建設一座儲存晶片製造工廠，這將是韓國晶片製造商在日本建立生產基地的首筆重大投資，投資額可能達數十萬億韓元。SK海力士據此回應稱，任何具備必要基礎設施的地點都可能是候選物件，但尚未做出任何決定。"
-    },
-    {
-      "id": "5050863",
-      "time": "2026-08-21 07:22:51",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【7天期逆回購持續零投放 央行靈活精準調控流動性】8月20日，央行釋出公告稱，根據公開市場業務一級交易商的需求，7天期逆回購操作量為零。當日有3274億元隔夜逆回購到期，因此，公開市場實現淨回籠3274億元。專家表示，近期7天期逆回購持續零投放，不代表流動性收緊，央行保持流動性充裕的基調沒有變化，後續有望更加註重運用多種貨幣政策工具，保持流動性充裕。（中國證券報）"
-    },
-    {
-      "id": "5050861",
-      "time": "2026-08-21 07:20:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【臺交所自12月7日起提早零股交易時間】中國臺灣證券交易所週四釋出公告稱，自12月7日起，盤中零股交易的委託申報時間將提前至上午8:30，與普通交易時段保持一致。零股交易開盤時間也將由9:10提前至9:00，與整股交易同步。配套措施，包括盤前資訊披露及延遲開盤機制將同步實施，以此提升盤前透明度，維持價格發現功能。"
-    },
-    {
-      "id": "mkt:01a02179-7b03-7aab-90c2-eccde505bf26",
-      "time": "2026-08-21 07:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "Japan's July core CPI YoY due in 10 minutes."
-    },
-    {
-      "id": "5050860",
-      "time": "2026-08-21 07:19:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【油煤“剪刀差”撐腰 煤化工頭部企業業績亮眼】上半年，受國際地緣衝突擾動，國際原油價格維持高位執行，油煤價格“剪刀差”持續拉大，國內煤化工行業迎來景氣度上行週期。這在多家煤化工上市公司半年報及上半年業績預告中得到反映：上半年，行業龍頭企業盈利大幅增長，多家公司增速超過10倍。（上證報）"
     }
   ]
 }
