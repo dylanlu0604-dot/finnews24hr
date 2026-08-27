@@ -1,7 +1,139 @@
 {
   "date": "2026-08-27",
-  "count": 1645,
+  "count": 1660,
   "items": [
+    {
+      "id": "te:markets:578737",
+      "time": "2026-08-27 22:11:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures Hit Near 2-Month High — Cocoa futures jumped above $6,200 per tonne, reaching the highest since July 9, as traders reassessed supply prospects for the West African next season. While the 2025/26 season benefited from stronger-than-expected production, concerns are mounting that the upcoming 2026/27 main crop will be significantly weaker. Production forecasts for major growers Ivory Coast and Ghana have already been reduced, while climate risks are adding to concerns over the next crop."
+    },
+    {
+      "id": "mkt:01a0438f-aa70-7aab-9153-e5f41df63598",
+      "time": "2026-08-27 22:11:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "New York Times, citing two people familiar with the matter, reported Meta internally forecast earlier this year it could spend up to $10 billion a year on ANTHROPIC's AI models."
+    },
+    {
+      "id": "5062983",
+      "time": "2026-08-27 22:10:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta預估每年在Anthropic人工智慧上的支出最高可達100億美元】據五位瞭解兩家公司情況的知情人士透露，旗下擁有臉書與Instagram的Meta，背地裡已經成為Anthropic人工智慧產品的重度使用者，規模之大，使其躋身Anthropic最大客戶行列。今年某一階段，Meta內部曾預估，每年在Anthropic人工智慧模型上的支出最高可達100億美元，兩名不願公開討論內部資訊的知情人士稱。這筆支出將構成Anthropic年度收入的大頭；該初創企業7月預估，自身年收入將突破650億美元。（環球市場播報）"
+    },
+    {
+      "id": "5062982",
+      "time": "2026-08-27 22:10:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：卡達外交部長在德黑蘭會見伊朗首席談判代表卡利巴夫，強調必須恢復外交軌道。"
+    },
+    {
+      "id": "5062981",
+      "time": "2026-08-27 22:09:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱伊軍事方針從防禦轉為進攻】美國總統特朗普26日在接受卡達半島電視臺採訪時稱，對於預計伊朗何時重返談判，他沒有時間表，而且也不著急。同一天，伊朗軍方表示，伊朗的軍事方針已從防禦轉為進攻。伊朗陸軍發言人阿克拉米尼亞26日表示，伊朗的軍事方針已從防禦轉為進攻，伊朗武裝部隊已做好充分準備，在必要時對敵人發動先發制人的打擊。（央視新聞）"
+    },
+    {
+      "id": "5062980",
+      "time": "2026-08-27 22:09:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破88美元/桶，日內漲1.25%。"
+    },
+    {
+      "id": "5062979",
+      "time": "2026-08-27 22:09:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報83.09美元/桶。"
+    },
+    {
+      "id": "5062978",
+      "time": "2026-08-27 22:09:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦稱沒有義務遵守針對伊朗的單邊制裁 仍願與伊朗擴大貿易往來】巴基斯坦表示，除非相關制裁由聯合國實施，否則該國“沒有義務”遵守針對伊朗的單邊制裁。這一表態顯示，在美國警告與德黑蘭開展貿易的國家可能面臨經濟處罰之際，巴基斯坦仍願意繼續與伊朗進行貿易。巴基斯坦外交部發言人Tahir Andrabi週四在例行記者會上表示，伊斯蘭堡正在遵循與伊朗的雙邊協議，兩國貿易目前仍然活躍，而且“雙方都有進一步擴大的意願”。"
+    },
+    {
+      "id": "5062977",
+      "time": "2026-08-27 22:09:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破83美元/桶，日內漲0.94%。"
+    },
+    {
+      "id": "5062976",
+      "time": "2026-08-27 22:09:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：卡達首相在德黑蘭會見伊朗議會議長卡利巴夫。"
+    },
+    {
+      "id": "5062975",
+      "time": "2026-08-27 22:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中央司令部：已對 75 艘商船實施改航處置】美國中央司令部在X平臺發文稱，在美國持續執行對伊朗封鎖行動期間，美國海軍 E/A‑18G 電子戰飛機於中東上空開展巡邏。截至 8 月 27 日，美國中央司令部部隊已對 75 艘商船實施改航處置，迫使 3 艘船隻停止運作，並登船檢查 2 艘，以此確保各方遵守相關規定。"
+    },
+    {
+      "id": "5062974",
+      "time": "2026-08-27 22:08:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "Amplify 網路安全 ETF 上漲 7%，創 2025 年 4 月以來最大漲幅。"
+    },
+    {
+      "id": "mkt:01a0438c-a83a-7aab-9153-df31875f1de0",
+      "time": "2026-08-27 22:08:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Alphabet down 15% from peak as markets question AI lead】ALPHABET shares rose more than 150% over the prior year and hit a record high on May 13 after a 3.9% gain. Since the peak the stock has slipped 15%, erasing about $692bn of market value and becoming the second-largest drag on S&P 500 point returns over the period. Investors cite talent departures and a perceived weakening of ALPHABET’s AI lead; heavy spending on AI infrastructure and delays to the new Gemini model have further dented confidence."
+    },
+    {
+      "id": "mkt:01a0438c-769a-7aab-9153-d29031cb63e9",
+      "time": "2026-08-27 22:07:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Regulators said maintenance problems with US attack submarines have cost tens of billions of dollars."
+    },
     {
       "id": "5062973",
       "time": "2026-08-27 22:06:52",
@@ -119,6 +251,14 @@
         "Magnificent 7"
       ],
       "text": "【Musk, Jensen Huang, Altman to speak at G20 tech ministerial next week】SpaceX CEO Elon Musk, NVIDIA CEO Jensen Huang, OpenAI CEO Sam Altman and former White House AI lead David Sacks will speak at a G20 technology ministerial in North Carolina next week, people familiar with the matter said. The event, organized by the White House Office of Science and Technology Policy director and the Commerce secretary, is being held as a preparatory meeting ahead of the G20 leaders' summit in December."
+    },
+    {
+      "id": "5062963",
+      "time": "2026-08-27 22:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李運到龍崗區調研併到華為等企業和單位走訪服務】8月27日，深圳市委副書記、代市長李運到龍崗區調研，併到華為等企業和單位走訪服務，強調要深入學習貫徹習近平總書記對廣東、深圳系列重要講話和重要指示精神，認真落實省委省政府部署要求和市委工作安排，將改革開放創新精神貫穿到各項工作中，培育壯大新興產業和未來產業，奮力推動高質量發展和現代化建設取得新進展新成效。李運先後來到華為坂田基地、南方科技大學國家卓越工程師學院等地，詳細瞭解企業經營、學院建設、研發創新等情況。調研中，他感謝華為等企業和單位對深圳經濟社會發展作出的重要貢獻，希望大家搶抓機遇、乘勢而上，進一步強化產學研融通創新，加強關鍵核心技術攻關，著力推動科技成果高效轉化，攜手實現更高質量發展。深圳將持續打造市場化法治化國際化一流營商環境，完善常態化服務企業機制，為各類企業和單位發展創造更好條件、提供更優服務。（深圳釋出）"
     },
     {
       "id": "mkt:01a04388-c6a8-7aab-9153-b2aa170053e5",
