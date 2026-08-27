@@ -1,7 +1,72 @@
 {
   "date": "2026-08-27",
-  "count": 1612,
+  "count": 1619,
   "items": [
+    {
+      "id": "5062953",
+      "time": "2026-08-27 21:54:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯：我們很快就會收到來自美國的資金。"
+    },
+    {
+      "id": "mkt:01a04380-8816-7aab-9153-9d3bfa85900d",
+      "time": "2026-08-27 21:54:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN Secretary-General Guterres said the United Nations will shortly receive funds from the United States."
+    },
+    {
+      "id": "5062952",
+      "time": "2026-08-27 21:53:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（8月26日）擔保隔夜融資利率（SOFR）報3.64%，之前一天報3.66%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5062951",
+      "time": "2026-08-27 21:53:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東產油國增加出口 霍爾木茲原油運輸逐步恢復】中東各產油國正在增加出口，途經霍爾木茲海峽的原油流量也在逐步回升。這一增幅正在抑制全球原油價格上漲。據參與貨運活動並對其進行監測的石油交易商估計，目前每天約有600萬至800萬桶原油透過這一全球關鍵石油運輸要道。7月，由於伊朗對超級油輪發動一連串襲擊，臨時停火破裂，航行風險上升，原油流量一度下降。目前的運輸量仍約為戰前水平的一半。不過，各方估算可能存在較大差異，而且波動較大。Vortexa估計霍爾木茲海峽原油運輸量平均達到1000萬桶/日，美國官員也曾給出更高的估算。英國海軍稱，兩艘貨船週一遭到襲擊，這再次提醒人們，船隻透過海峽仍面臨重大風險。推動運輸量持續回升的一個因素，是超級油輪市場運價創下歷史最高水平，這進一步提高了船東冒險透過海峽的動力。"
+    },
+    {
+      "id": "mkt:01a0437f-0f58-7aab-9153-93d0b6f5d765",
+      "time": "2026-08-27 21:53:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Middle Eastern producers increase exports; Strait of Hormuz crude flows gradually recover】Rising exports from Middle Eastern producers and a gradual recovery of crude transits through the Strait of Hormuz are capping global oil price upside. Traders monitoring shipments estimate roughly 6–8 mln bpd currently passing the chokepoint; flows fell in July after Iran carried out a series of attacks on VLCCs and a temporary truce collapsed. Throughput remains about half the level before those attacks, though estimates are volatile—Vortexa estimates about 10 mln bpd on average and U.S. officials have cited higher figures. The UK navy said two merchant vessels were attacked on Monday, highlighting ongoing transit risk. Record-high VLCC freight rates are helping sustain the recovery by increasing incentives for owners to run the route."
+    },
+    {
+      "id": "mkt:01a0437e-0438-7aab-9153-89c29c81429f",
+      "time": "2026-08-27 21:52:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Russia PM says 1H 2026 GDP +0.6%】Prime Minister Mishustin told a government meeting on the 27th that Russia’s GDP rose 0.6% in 1H 2026, with nominal GDP near 102 trillion rubles (≈7.9 tln yuan). Federal budget revenue exceeded 18.64 trillion rubles (≈1.4 tln yuan), well above expectations, and non-oil-and-gas revenue accounted for over 80%."
+    },
+    {
+      "id": "5062950",
+      "time": "2026-08-27 21:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總理：俄羅斯今年上半年經濟增長0.6%】俄羅斯聯邦政府當地時間27日開會審議本年度前六個月聯邦預算執行情況報告。俄總理米舒斯京在會上表示，2026年上半年俄羅斯國內生產總值（GDP）增長0.6%，名義值接近102萬億盧布（約合7.9萬億元人民幣）；聯邦預算收入超過18.64萬億盧布（約合1.4萬億元人民幣），“大幅高於預期”，非油氣收入佔比突破80%。（央視新聞）"
+    },
     {
       "id": "5062949",
       "time": "2026-08-27 21:50:56",
