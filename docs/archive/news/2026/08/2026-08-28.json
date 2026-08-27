@@ -1,7 +1,68 @@
 {
   "date": "2026-08-28",
-  "count": 346,
+  "count": 353,
   "items": [
+    {
+      "id": "5063521",
+      "time": "2026-08-28 07:18:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【比爾·蓋茨：中美需要合作應對AI風險】微軟創始人比爾·蓋茨26日撰文稱，人工智慧（AI）飛速發展帶來公平性問題，其要麼成為有史以來最強大的“均衡器”，要麼成為最嚴重的不公之源。要解決AI帶來的社會問題，美國和中國需要進行合作。在這篇長達6000字的文章裡，蓋茨結合他在微軟和蓋茨基金會的經歷，分享了AI的兩面性——既帶來巨大機遇，又潛藏多重風險。他稱，AI已經具備驚人的能力並正以令人難以置信的速度不斷進化，首次能夠替代甚至超越人類的認知能力，“向AI新時代的過渡也將成為人類歷史上最動盪的時期之一”。（環球網）"
+    },
+    {
+      "id": "5063520",
+      "time": "2026-08-28 07:18:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【高市早苗計劃將日本國債新發行規模限制在40萬億日元左右】日本《讀賣新聞》援引對日本首相高市早苗的採訪報道，日本政府計劃將國債新發行規模限制在40萬億日元左右。 高市還在採訪中表示，她計劃在9月中下旬改組內閣並任命黨內高層。"
+    },
+    {
+      "id": "5063519",
+      "time": "2026-08-28 07:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【亞丁灣海域發生6級地震 】據美國地質調查局地震資訊網訊息，格林尼治時間27日21時7分（北京時間8月28日5時7分），亞丁灣海域發生6級地震，震中位於北緯13.27度、東經50.54度，震源深度10公里。（新華社）"
+    },
+    {
+      "id": "te:economy:578812",
+      "time": "2026-08-28 07:17:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Irish Consumer Sentiment Rises to 6-Month High — Ireland’s Credit Union Consumer Sentiment Index rose to 63.2 in August 2026 from July’s 61.6, marking its highest level since February. The latest reading was close to the level recorded before the Middle East conflict. However, the index remained well below the long-term survey average of 83.1 and the five-year index average of 64.1, even as the economy has continued to grow strongly."
+    },
+    {
+      "id": "5063518",
+      "time": "2026-08-28 07:16:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊情報機構：敵方正強化認知戰和情報戰 】據伊朗邁赫爾通訊社27日報道，伊朗伊斯蘭革命衛隊情報機構發表宣告稱，根據對過去60天政治、經濟、社會及軍事動向的研判，敵方正在更多運用認知戰和情報戰手段，調整針對伊朗的戰略。宣告稱，相關行動主要包括淡化霍爾木茲海峽對伊朗國家安全的重要性，削弱“抵抗陣線”影響力，強化對伊海上封鎖，以及放大伊朗國內矛盾、經濟短板和社會不滿以削弱其內部凝聚力。宣告還稱，伊朗當前正在增強國家韌性，保持非對稱作戰能力，並且持續管控霍爾木茲海峽。伊朗不再處於被動應對外部襲擊的狀態，而是在尋求增強戰略主動權。"
+    },
+    {
+      "id": "5063517",
+      "time": "2026-08-28 07:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西釋出暴雨橙色預警】陝西省氣象臺2026年08月28日04時05分繼續釋出暴雨橙色預警訊號：預計下述地區降水量已達50毫米且仍有降水或未來3小時內降雨量將達50毫米以上：西安市閻良區、臨潼區、高陵區、藍田縣，寶雞市鳳縣，咸陽市三原縣、涇陽縣、淳化縣，銅川市全域，渭南市臨渭區、澄城縣、合陽縣、蒲城縣、富平縣、白水縣，漢中市勉縣、略陽縣，以上地區境內發生山洪、泥石流、城鄉積澇等災害風險較高，請注意防範。"
+    },
+    {
+      "id": "mkt:01a04581-c3c5-7aab-915c-03b7e0d2b0b7",
+      "time": "2026-08-28 07:15:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lutnick accuses Carney of letting politics derail trade talks】U.S. Commerce Secretary Lutnick accused Canadian Prime Minister Carney of shelving a bilateral trade deal for political reasons, saying Ottawa delayed agreement to shore up support ahead of an October preliminary 'independence' referendum in Alberta and a Quebec election. Sources say the impasse centered on tariff cuts for medium- and heavy-duty trucks: Canada wanted reductions matching passenger-car concessions, which the U.S. rejected. Lutnick said the truck request emerged only hours before talks collapsed and that the breakdown reflected politics rather than numerical terms."
+    },
     {
       "id": "5063516",
       "time": "2026-08-28 07:14:19",
