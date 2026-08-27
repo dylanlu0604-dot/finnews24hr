@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-27 22:00:10",
-  "count": 15358,
+  "updated": "2026-08-27 22:04:18",
+  "count": 15343,
   "items": [
+    {
+      "id": "5062961",
+      "time": "2026-08-27 22:02:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康方生物：2026年上半年虧損4.47億元】康方生物公告，2026年上半年本集團收入人民幣18.06億元，同比增長27.92%；商業銷售收入人民幣18.03億元，同比增長28.65%；本集團虧損人民幣4.47億元，2025年同期虧損人民幣5.88億元。"
+    },
+    {
+      "id": "5062960",
+      "time": "2026-08-27 22:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮：目前沒有與伊朗談判，所有選項均在考慮之中】白宮新聞秘書萊維特週四在接受採訪時表示，由於華盛頓目前正專注於對德黑蘭施加經濟壓力，美國和伊朗目前並未就結束戰爭進行談判，但所有選項仍“擺在桌面上”。“特朗普總統的首要目標一直且永遠是確保伊朗永遠無法獲得核武器。就這麼簡單。因此，我們曾發起‘史詩怒火行動’摧毀他們的軍事力量。現在，我們又啟動了‘經濟孤立行動’來摧毀他們的經濟，”萊維特說道，“目前沒有任何談判在進行，這種情況將持續下去，直到總統認為他們或許會以有意義的方式坐到談判桌前。我們尚未看到這一點。”萊維特表示，“他當然繼續保留所有選項，海上封鎖也仍在生效。”"
+    },
+    {
+      "id": "5062959",
+      "time": "2026-08-27 22:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆擬提議候選人必須僅持有墨西哥國籍。"
+    },
+    {
+      "id": "mkt:01a04385-bf76-7aab-9153-ade84aeb3171",
+      "time": "2026-08-27 22:00:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【WHITE HOUSE: No negotiations with Iran; all options remain on table】LEAVITT told Fox News on Thursday the US is not negotiating with Iran as Washington is focused on applying economic pressure; all options remain on the table. He said President Trump’s priority is preventing Iran from obtaining nuclear weapons and that the US shifted from “Operation Epic Fury” to degrade Iran’s military to a new “Operation Economic Isolation” targeting its economy. There are no talks now and that posture will continue until the president judges Iran might meaningfully sit down; he has not seen that. LEAVITT added that a maritime blockade remains in effect."
+    },
     {
       "id": "5062958",
       "time": "2026-08-27 21:58:40",
@@ -138344,187 +138380,6 @@
         "Impact bearish"
       ],
       "text": "SpaceX (SPCX.O) shares fell; decline percentage not specified."
-    },
-    {
-      "id": "5050365",
-      "time": "2026-08-20 22:04:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "胡塞武裝稱，該組織在沙特納季蘭機場和納季蘭沙特阿美公司襲擊了“敏感”目標。沙特方面暫未立即確認。"
-    },
-    {
-      "id": "mkt:01a01f7c-3bbc-7aab-90b9-595f87c7bd87",
-      "time": "2026-08-20 22:03:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Houthi forces said they struck \"sensitive\" targets at Najran airport and an ARAMCO facility in Najran; Saudi authorities did not immediately confirm."
-    },
-    {
-      "id": "5050364",
-      "time": "2026-08-20 22:03:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "DEEL攜手MESH，稱欲為全球勞動力提供安全穩定幣支付解決方案。"
-    },
-    {
-      "id": "5050363",
-      "time": "2026-08-20 22:03:06",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部：透過發行美元計價債券和伊斯蘭債券借款35.3億美元。"
-    },
-    {
-      "id": "5050362",
-      "time": "2026-08-20 22:02:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Waymo：與AMD、美光、英偉達、三星、閃迪、Socionext和臺積電合作開發自動駕駛計算系統】Waymo：與AMD、美光、英偉達、三星、閃迪、Socionext和臺積電合作開發自動駕駛計算系統。"
-    },
-    {
-      "id": "mkt:01a01f7b-0a2c-7aab-90b9-56865447abcc",
-      "time": "2026-08-20 22:02:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "Waymo launched a 5nm ASIC purpose-built for autonomous-driving compute to handle real-time sensor data. The custom chip delivers over 1,000 TOPS of machine‑learning performance for front-end processing."
-    },
-    {
-      "id": "mkt:01a01f7a-e248-7aab-90b9-4a199107f886",
-      "time": "2026-08-20 22:02:21",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish",
-        "TSM.O",
-        "005930.KS"
-      ],
-      "text": "Waymo is partnering with AMD, Micron, NVIDIA, Samsung, SanDisk, Socionext and TSMC to develop autonomous driving compute systems."
-    },
-    {
-      "id": "5050361",
-      "time": "2026-08-20 22:02:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國運通公司：透過與當地銀行建立新合作伙伴關係，擴大在泰國的信用卡受理範圍。"
-    },
-    {
-      "id": "mkt:01a01f7a-55a6-7aab-90b9-4116650f0e1f",
-      "time": "2026-08-20 22:01:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Conference Board lagging index rose 0.2% MoM in July, versus 0.0% in June."
-    },
-    {
-      "id": "5050360",
-      "time": "2026-08-20 22:01:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Moderna股價漲超176%，崑崙資本mRNA腫瘤專案迎價值重估】近日，Moderna股價盤中暴漲超176%，市值突破696億美元，帶動默沙東跟漲超12%。引發資本追捧的，是Moderna與默沙東聯合宣佈的III期INTerpath-001試驗陽性結果——個體化mRNA新抗原疫苗聯合Keytruda，顯著降低黑色素瘤患者復發和遠處轉移風險。（新浪科技）"
-    },
-    {
-      "id": "mkt:01a01f7a-320e-7aab-90b9-39fbe02d1c1f",
-      "time": "2026-08-20 22:01:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Lagging Indicator (MoM) (Jul) | actual 0.2% | previous 0%"
-    },
-    {
-      "id": "mkt:01a01f7a-3087-7aab-90b9-36b51fd6c91d",
-      "time": "2026-08-20 22:01:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. Conference Board coincident index MoM +0.2% in July; prior +0.2%."
-    },
-    {
-      "id": "mkt:01a01f7a-12a2-7aab-90b9-2debc3a6fa65",
-      "time": "2026-08-20 22:01:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Coincident Indicator (MoM) (Jul) | actual 0.2% | previous 0.2%"
-    },
-    {
-      "id": "mkt:01a01f79-fbbd-7aab-90b9-207f2be0ece5",
-      "time": "2026-08-20 22:01:22",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US Conference Board Leading Index for July 99.5, prior 99.1."
-    },
-    {
-      "id": "mkt:01a01f79-dce4-7aab-90b9-1cf04e176976",
-      "time": "2026-08-20 22:01:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Leading Indicator (Jul) | actual 99.5 | previous 99.1"
-    },
-    {
-      "id": "5050358",
-      "time": "2026-08-20 22:01:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：UNC7005尤其與ReliaQuest和微軟報告的酒店強制門戶重定向有關。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608203848139611",
-      "time": "2026-08-20 22:00:49",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國7月諮商會領先指標環比增長0.2%，預期0.10%。"
-    },
-    {
-      "id": "5050357",
-      "time": "2026-08-20 22:00:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所原糖期貨漲幅超3%，報每磅18.16美分。"
-    },
-    {
-      "id": "mkt:01a01f79-058a-7aab-90b9-115fe54997ee",
-      "time": "2026-08-20 22:00:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "DOE will award $500 mln in grants to seven critical minerals projects."
     }
   ]
 }

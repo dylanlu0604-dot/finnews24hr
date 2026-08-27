@@ -1,7 +1,43 @@
 {
   "date": "2026-08-27",
-  "count": 1626,
+  "count": 1630,
   "items": [
+    {
+      "id": "5062961",
+      "time": "2026-08-27 22:02:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康方生物：2026年上半年虧損4.47億元】康方生物公告，2026年上半年本集團收入人民幣18.06億元，同比增長27.92%；商業銷售收入人民幣18.03億元，同比增長28.65%；本集團虧損人民幣4.47億元，2025年同期虧損人民幣5.88億元。"
+    },
+    {
+      "id": "5062960",
+      "time": "2026-08-27 22:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮：目前沒有與伊朗談判，所有選項均在考慮之中】白宮新聞秘書萊維特週四在接受採訪時表示，由於華盛頓目前正專注於對德黑蘭施加經濟壓力，美國和伊朗目前並未就結束戰爭進行談判，但所有選項仍“擺在桌面上”。“特朗普總統的首要目標一直且永遠是確保伊朗永遠無法獲得核武器。就這麼簡單。因此，我們曾發起‘史詩怒火行動’摧毀他們的軍事力量。現在，我們又啟動了‘經濟孤立行動’來摧毀他們的經濟，”萊維特說道，“目前沒有任何談判在進行，這種情況將持續下去，直到總統認為他們或許會以有意義的方式坐到談判桌前。我們尚未看到這一點。”萊維特表示，“他當然繼續保留所有選項，海上封鎖也仍在生效。”"
+    },
+    {
+      "id": "5062959",
+      "time": "2026-08-27 22:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆擬提議候選人必須僅持有墨西哥國籍。"
+    },
+    {
+      "id": "mkt:01a04385-bf76-7aab-9153-ade84aeb3171",
+      "time": "2026-08-27 22:00:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【WHITE HOUSE: No negotiations with Iran; all options remain on table】LEAVITT told Fox News on Thursday the US is not negotiating with Iran as Washington is focused on applying economic pressure; all options remain on the table. He said President Trump’s priority is preventing Iran from obtaining nuclear weapons and that the US shifted from “Operation Epic Fury” to degrade Iran’s military to a new “Operation Economic Isolation” targeting its economy. There are no talks now and that posture will continue until the president judges Iran might meaningfully sit down; he has not seen that. LEAVITT added that a maritime blockade remains in effect."
+    },
     {
       "id": "5062958",
       "time": "2026-08-27 21:58:40",
