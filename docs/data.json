@@ -1,7 +1,122 @@
 {
-  "updated": "2026-08-27 11:35:02",
-  "count": 16761,
+  "updated": "2026-08-27 11:39:02",
+  "count": 16766,
   "items": [
+    {
+      "id": "te:markets:578466",
+      "time": "2026-08-27 11:38:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Climb to 1-Month High — US natural gas prices rose further to around $2.91/MMBtu on Thursday, the highest level in a month, as forecasts for several more weeks of hot weather lifted expectations for stronger cooling demand. Well-above-average temperatures are expected across the eastern two-thirds of the US from August 31 through September 4, according to the Commodity Weather Group, which should sustain gas demand from power generators as air-conditioning use remains elevated. Attention now turns to the weekly storage report, with expectations pointing to a smaller-than-normal inventory build. These factors helped offset downward pressure from strong domestic production, with output in the Lower 48 states averaging a record 111.4 bcfd so far in August, up from 110.7 bcfd in July. Meanwhile, average gas flows to the nine major LNG export facilities fell slightly to 17.1 bcfd so far this month from 17.2 bcfd in July, although signs are emerging of a recovery in LNG demand."
+    },
+    {
+      "id": "te:economy:578465",
+      "time": "2026-08-27 11:38:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Thailand Trade Balance Swings to Deficit — Thailand posted a trade deficit of USD 3.61 billion in July 2026, shifting from a USD 0.32 billion surplus a year earlier, marking a tenth straight monthly shortfall but smaller than market forecasts of a USD 5.4 billion gap, as imports grew much faster than exports. Imports jumped 36.7% yoy, easing sharply from a 50.3% rise in June and below forecasts of 42.2%, supported by ongoing government stimulus measures aimed at boosting consumption and investment. Meanwhile, exports rose 21.6% yoy, accelerating slightly from a 20.8% increase in June and surpassing estimates of 17.8%."
+    },
+    {
+      "id": "5061430",
+      "time": "2026-08-27 11:37:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【溫氏股份：看好下半年消費旺季的雞價 養雞業務全年有望貢獻合理利潤】溫氏股份(300498)8月26日在半年報業績解讀電話會議上表示，8月份以來，雞價受旺季需求提升等因素影響快速上漲，截至8月24日已漲至6.9元/斤。公司看好下半年消費旺季的雞價，預計養雞業務全年有望貢獻合理的利潤。"
+    },
+    {
+      "id": "mkt:01a0414b-47a1-7aab-9141-88049a1467d7",
+      "time": "2026-08-27 11:37:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Strait of Hormuz traffic edges up on Wednesday; Bab al‑Mandeb slows】Kpler data show tracked bulk-cargo transits through the Strait of Hormuz rose to 10 on Wednesday from 8 on Tuesday, but remain below a roughly 10-day moving average of 15, despite ongoing US‑Iran geopolitical tensions. Vessels entering from the Gulf of Oman included two medium product tankers, one LPG carrier, one Panamax tanker and three handy tankers; exiting toward the Gulf were one medium product tanker, one asphalt tanker and one bulker. Traffic through the Bab al‑Mandeb slowed for a second day: Kpler recorded 19 bulk-cargo transits on Wednesday, including six outbound tankers — one a VLCC — down from 24 a day earlier."
+    },
+    {
+      "id": "5061429",
+      "time": "2026-08-27 11:36:29",
+      "tags": [
+        "A股"
+      ],
+      "text": "【知情人士回應“A股未盈利企業無法上市”】近日，有市場傳言稱，A股未盈利企業IPO申報全面收緊，港股同步受到影響。記者從知情人士處瞭解到，目前不存在未盈利企業一律無法上市的可能性，無論A股還是港股，都會繼續向優質未盈利企業敞開大門，只是對未盈利企業的稽核更為嚴格，要求企業具備更為明確的商業變現路徑與業績改善預期；對於虧損持續未見收窄、短期商業化落地難度較大，且並非細分行業絕對頭部的企業，IPO稽核尺度將更為嚴苛。（21世紀經濟報道）"
+    },
+    {
+      "id": "mkt:01a04149-7a3c-7aab-9141-871696757be3",
+      "time": "2026-08-27 11:35:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Data show shipping traffic through the Strait of Hormuz edged higher despite ongoing US-Iran geopolitical tensions; markets are watching Iran-Oman negotiations over the waterway."
+    },
+    {
+      "id": "mkt:01a04149-77ad-7aab-9141-7bc51cbd315a",
+      "time": "2026-08-27 11:35:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Foreign net selling of Japanese stocks hits highest in nearly two months】Foreign investors' net sales of Japanese equities rose to the largest in nearly two months in the week to Aug. 22, Japan's Ministry of Finance said, as rising global bond yields tied to debt and inflation worries pressured tech and other growth stocks. Net sales of Japanese shares totaled JPY 764.1 bln ($4.8 bln), the biggest weekly outflow since the week to June 27. Long-term borrowing costs in the US, Europe and Japan climbed to multi-decade highs last week. After two consecutive weeks of net selling, foreigners turned to net buying of Japanese government bonds, purchasing JPY 435.2 bln of JGBs. Short-term treasury bills saw a second straight week of net outflows, with net sales of JPY 2.07 tln. Japanese investors also net sold JPY 869.0 bln of foreign equities, the largest outflow since the week to June 6."
+    },
+    {
+      "id": "mkt:01a04149-753e-7aab-9141-70093d4b0a5d",
+      "time": "2026-08-27 11:35:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Strait of Hormuz 'half-open, half-closed' — why oil hasn't spiked】Swedbank says the Strait of Hormuz is nominally open but commercial traffic is near standstill: on Aug. 25 only five bulk commodity vessels transited versus a 10‑day average of 15, and vessels operating with AIS switched off ('dark ships') mean public data understate actual flows. Oil prices have not experienced the initially feared runaway spike because strategic releases, demand contraction and alternative supply have absorbed the shock — the U.S. and other economies tapped strategic reserves while Saudi Arabia and the UAE rerouted flows via pipelines and offshore transshipment. That resilience is eroding buffers: IEA data show observable global stocks fell sharply from March–May, and the U.S. SPR has dropped from about 415 mln barrels at the start of the war to 289.7 mln barrels, the lowest since 1982. Tightness has shifted from crude to middle distillates as some Middle East refineries remain offline, Russia restricts diesel exports, and the U.S. diesel crack briefly exceeded $100/bbl in August."
+    },
+    {
+      "id": "te:economy:578463",
+      "time": "2026-08-27 11:35:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Thailand Imports Rise Less than Expected — Thailand’s imports rose 36.7% yoy in July 2026, slowing from a 50.3% surge in the prior month, which had marked the fastest rise since June 2021. The latest result was below market estimates of 42.2%."
+    },
+    {
+      "id": "mkt:01a04149-5aa3-7aab-9141-6fef33f1e843",
+      "time": "2026-08-27 11:35:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【A-shares midday: three indexes higher; CPO, PCB concepts surge】China A-shares rose into midday: Shanghai Composite +0.6%, Shenzhen Component +1.19%, ChiNext +1.51%. CPO-related names led gains — Saiwei Electronics hit 20% limit up; Changxin Bochuan, Shengyi Electronics, Juguang Technology and Kexiang Co. each rose over 10%. PCB sector also strong — Kent Co. hit 20% limit up; Zhongying Technology and Oukeyi climbed over 10%; Hongchang Electronics, Dongwei Technology and Taijin New Energy recorded multiple constituents at limit up. Precious-metals advanced: Zhaojin Gold and Hunan Gold hit limit up; Sichuan Gold, Hunan Silver, Chifeng Gold, Zhuye Group and Hengbang Co. also rose. Banking weakened: Zheshang Bank and Changshu Bank fell more than 3%; China Minsheng Bank, Bank of Chongqing and Huaxia Bank declined. Bioproducts slid: Nearshore Protein and Sanyuan Gene fell over 5%; Nuoweizan, Baiaotai and Weiguang Biological also moved lower."
+    },
     {
       "id": "5061428",
       "time": "2026-08-27 11:34:17",
@@ -150994,61 +151109,6 @@
         "AI Revolution"
       ],
       "text": "【China's Ministry of Transport to accelerate AI integration into transport sector】Aug 20 — China's Ministry of Transport held a briefing on \"AI + transport\" application scenarios. Xu Wenqiang, director-general of the ministry's Science and Technology Department, said transport is a major economic artery and a large-scale real-world testbed for AI, and that the ministry has stepped up efforts in recent years to deepen AI integration with the transport sector."
-    },
-    {
-      "id": "5049012",
-      "time": "2026-08-20 11:38:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：加快推進人工智慧與交通運輸深度融合】8月20日，交通運輸部舉行專題新聞釋出會，介紹“人工智慧+交通運輸”典型應用場景創新行動有關情況，並回答記者提問。交通運輸部科技司司長徐文強表示，交通是國民經濟的大動脈，也是人工智慧落地的超級實景試驗場和規模化應用主陣地。近年來，交通運輸部加快推進人工智慧與交通運輸深度融合。（新華社）"
-    },
-    {
-      "id": "5049011",
-      "time": "2026-08-20 11:36:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債拍賣認購倍數3.98，過去12個月均值為3.66。"
-    },
-    {
-      "id": "mkt:01a01d3d-45de-7aab-90a8-11995bb12ceb",
-      "time": "2026-08-20 11:35:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "MRNA.O",
-        "Impact bullish",
-        "SZSE Component",
-        "XAUUSD"
-      ],
-      "text": "【A-share midday: ChiNext +1% as biotech/vaccine names surge to multiple limit-ups】Shanghai Composite +0.28% at midday, Shenzhen Composite +0.97%, ChiNext +1.03%. Shanghai- and Shenzhen-listed turnover 1.37 tln yuan, down 246.9 bln vs prior session. About 4,400 stocks advanced. Moderna (MRNA.O) cancer vaccine news lifted the vaccine/biotech and innovative drug complex and CROs, with more than 20 stocks hitting daily limit-ups, including Sanyuan Gene, Shiyao Chuangxin, Watson Biotech, Shuanglu Pharmaceutical and Wantai Biological. Gold-related names rallied, several to limit-up (Nankuang Group, Baoding Technology, Shen Zhonghua A); Xinye Silver-Tin, Chifeng Gold and Shandong Gold also gained. Palm oil (CPO) names recovered, with Changyingtong and Zhongjing Electronics on limit-up. Planting and forestry sectors pulled back; Hualv Biotech fell over 13% intraday while Wanxiang Denong, Agricultural Development Seeds and Beidahuang were among the largest decliners. Fluorochemical, coal and phosphate chemical sectors led losses."
-    },
-    {
-      "id": "5049010",
-      "time": "2026-08-20 11:35:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯創光電持股公司成立超導技術公司】企查查APP顯示，近日，江西星磁超導技術有限公司成立，法定代表人為伍晅，註冊資本為1000萬元，經營範圍包含：技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，超導材料製造，超導材料銷售。企查查股權穿透顯示，該公司由江西聯創超導技術有限公司全資持股，後者由江西省電子集團有限公司、聯創光電等共同持股。"
-    },
-    {
-      "id": "mkt:01a01d3c-97e1-7aab-90a8-0f184b0c80df",
-      "time": "2026-08-20 11:35:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "Romanian Defence Ministry says a drone crashed into Romanian territory during Russia's attack on neighboring Ukraine."
     }
   ]
 }
