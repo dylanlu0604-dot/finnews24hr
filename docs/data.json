@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-28 07:31:08",
+  "updated": "2026-08-28 07:34:59",
   "count": 14928,
   "items": [
+    {
+      "id": "5063539",
+      "time": "2026-08-28 07:32:10",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【短期波動加大 國際金價圍繞4600美元/盎司展開拉鋸戰】連續上攻後，國際金價在4600美元/盎司關口附近陷入拉鋸戰。8月26日，倫敦金現貨價格從高位回落，盤中一度跌破4600美元/盎司，跌幅超過1%；8月27日，金價繼續圍繞這一關口反覆震盪。機構認為，黃金中長期配置邏輯仍有支撐，但金價快速上漲後波動可能加大，行情能否進一步開啟空間，仍取決於美元、實際利率、投資需求以及美聯儲政策路徑。（中國證券報）"
+    },
+    {
+      "id": "5063538",
+      "time": "2026-08-28 07:32:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杭州圖書館今天起臨時閉館#】受今年第18號颱風“沙德爾”影響，根據杭州市防颱風應急響應要求，為保障廣大讀者的人身安全，杭州圖書館於8月28日（週五）起臨時閉館（含少兒、生活、佛學直屬分館）。（杭州釋出）"
+    },
+    {
+      "id": "mkt:01a04590-0ce7-7aab-915c-6496bba22e66",
+      "time": "2026-08-28 07:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tokyo not-seasonally-adjusted CPI was 0.4% MoM in August, unchanged from July's 0.4%."
+    },
+    {
+      "id": "5063537",
+      "time": "2026-08-28 07:30:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本政府：東京地區8月剔除生鮮食品與能源後的消費者物價指數同比上漲2.0%。"
+    },
+    {
+      "id": "mkt:01a0458f-ece5-7aab-915c-584cc560a089",
+      "time": "2026-08-28 07:30:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tokyo CPI (MoM) (Aug) | actual 0.4% | previous 0.4%"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608283857117210",
+      "time": "2026-08-28 07:30:28",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月失業率為2.4%，預期2.50%，前值2.50%。"
+    },
     {
       "id": "mkt:01a0458f-7607-7aab-915c-5624c522a298",
       "time": "2026-08-28 07:30:24",
@@ -134319,59 +134373,6 @@
         "國際"
       ],
       "text": "【中信建投：此次美債財政回購真正目的在穩定美股】據中信建投，財政回購是美國財政部一種常見管理方式，管理國債老券流動性以及國庫現金。回購制度本身並無新意，理論上應該掀不起市場水花。但這次財政回購有兩處操作細節，一是距離本季回購日程公佈只有兩週；二是美國債市的老券交易流動性正常。說明這次回購針對的就是美債利率波動。可以這樣下判斷，這不是一次常規的財政回購，而是針對性管理美債利率預期的操作，真正目的在穩定美股。對於美債，美債利率中樞上行的底層宏觀敘事沒有終結，回購加碼壓制美債利率治標不治本。對於美股，此次回購針對性穩定預期，有利於緩解短期美股恐慌情緒。針對黃金，美國財政貨幣操作已被繫結在科技之上，美元信用一再透支，利好黃金等去主權貨幣的資產敘事。"
-    },
-    {
-      "id": "mkt:01a02186-cecb-7aab-90c3-15c1975f264d",
-      "time": "2026-08-21 07:34:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yushu Technology's Wang Xingxing unveils \"physical AI robot self-evolution\"】At the World Robot Conference on Aug. 20, 2026, Yushu Technology chairman, general manager and chief technology officer Wang Xingxing said the firm is concentrating its largest current capital and headcount investment on AI models and publicly outlined a \"physical AI robot self-evolution\" initiative. The program seeks to build a self-evolving physical-robot model system that leverages frontier large models to define rules, experience constraints and tool boundaries; the models will autonomously retrieve leading papers, high-quality research and open-source solutions and automatically generate robot control code. Wang noted AI is widely used in programming and development but remains underutilized in robotics, motivating the effort."
-    },
-    {
-      "id": "te:economy:576986",
-      "time": "2026-08-21 07:34:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "Japan Inflation Rate Hits 7-Month High — Japan's annual inflation rate accelerated to 2.0% in July 2026 from a marginally revised 1.6% in the prior month, marking the highest reading since December 2025. Core inflation, which excludes fresh food, rose to 1.8% from 1.6%, matching market consensus and reaching its highest since March. However, core inflation remained below the Bank of Japan's 2% target for a sixth straight month."
-    },
-    {
-      "id": "5050877",
-      "time": "2026-08-21 07:33:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Waymo官宣自研晶片上車 劍指Robotaxi效能與成本雙提升】Waymo週四（8月20日）在官網表示，這款ASIC（專用積體電路）晶片已經應用於Waymo最新一代Robotaxi。Waymo稱，將自研晶片與其他晶片以及公司自主設計的感測器結合使用，將提升Robotaxi在複雜城市環境中的反應能力和導航能力。Waymo稱，該ASIC的專用加速器可即時從原始鐳射雷達、雷達和攝像頭資料流中提取關鍵資訊，用於增強低光照感知能力的時域降噪。新聞稿表示，其自研晶片的算力超過1000 TOPS——按照這一指標衡量，Waymo的自研晶片已經達到與英偉達最新一代自動駕駛系統相當的水平。"
-    },
-    {
-      "id": "5050876",
-      "time": "2026-08-21 07:32:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI算力需求驅動 玻纖行業上半年業績普遍向好】玻纖行業龍頭中國巨石8月20日披露半年報，今年上半年實現營業收入111.59億元，同比增長22.5%；淨利潤29.33億元，同比大幅增長73.87%。與此同時，中材科技、國際復材、金安國紀等多家產業鏈公司同期業績呈現不同程度增長。在AI算力需求驅動下，玻纖及電子布行業景氣度持續攀升，龍頭企業正加速佈局產能，一場圍繞高階化、特種化的產能競賽已然展開。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608213848316782",
-      "time": "2026-08-21 07:31:54",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月整體CPI同比上漲1.9%，預估為上漲1.9%。"
-    },
-    {
-      "id": "5050875",
-      "time": "2026-08-21 07:31:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博通版“算力融資池”據傳將加碼超600億美元】據媒體援引知情人士報道，博通（Broadcom）正與一批機構洽談，計劃透過債務融資籌集超過600億美元的資金，用於為人工智慧晶片專案提供資金支援。該交易將使Anthropic等其他公司受益。根據擬議方案，博通將為部分高階擔保債務提供擔保。這部分債務規模可能在600億至700億美元之間。此次債務將由一家特殊目的載體（SPV）發行。知情人士表示，這項融資方案目前仍在敲定之中，可能還會包括一筆規模約300億美元的次級債務。如果按照目前討論中的規模計算，整筆融資總額最高可能達到1000億美元。黑石集團和阿波羅全球管理據傳正在與博通展開洽談。三家公司今年6月已經達成“AI XPV平臺”合作關係，為Fluidstack負責建設和運營的資料中心部署1吉瓦博通定製晶片提供350億美元融資，該算力最終由Anthropic購買和使用。"
     }
   ]
 }
