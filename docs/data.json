@@ -1,7 +1,110 @@
 {
-  "updated": "2026-08-27 10:55:27",
-  "count": 16728,
+  "updated": "2026-08-27 10:59:24",
+  "count": 16734,
   "items": [
+    {
+      "id": "mkt:01a04127-ef76-7aab-9140-a25278c2e376",
+      "time": "2026-08-27 10:58:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qunhe Technology launches Lux3D 3D generative model】Qunhe Technology has launched Lux3D, a proprietary 3D generative model offering standard and fast modes. Users can upload a single image or submit a text prompt to produce 3D assets—meshes, materials and 3D Gaussian representations—with material rendering cited as the model’s core improvement. In fast mode a single model can be generated in as little as 20 seconds. Lux3D includes a Harness mode for integration into AI coding and 3D modelling tools to support batch 3D content generation."
+    },
+    {
+      "id": "5061381",
+      "time": "2026-08-27 10:58:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國紅十字會總會緊急向西藏日喀則調撥救災物資】26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。中國紅十字會總會迅速啟動應急響應，於26日晚派出工作組趕赴災區開展救災工作，並向西藏日喀則災區緊急調撥單帳篷、賑濟家庭包、衛生包、棉被、摺疊床、衝鋒衣等救災物資共2500件（套）；中國紅十字基金會支援礦泉水、泡麵、火腿腸、牛奶共5500餘箱（件），支援受災地區做好群眾轉移安置和救災救助工作。"
+    },
+    {
+      "id": "5061380",
+      "time": "2026-08-27 10:58:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【群核科技釋出3D生成模型Lux3D】近日，“杭州六小龍”之一群核科技正式釋出自主研發的3D生成模型Lux3D，可提供標準版與極速版兩種模式。使用者只需上傳一張圖片或輸入一段文字，即可快速生成網格、材質與3D高斯等多種形式的3D資產。據悉，材質表現是該版本的核心亮點，同時在極速版模式下，單個模型最快可在20秒內生成，並支援透過Harness模式整合到AI編碼與3D建模工具中，解決3D內容批次生成難題。"
+    },
+    {
+      "id": "5061379",
+      "time": "2026-08-27 10:58:00",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【監管部門在上海舉辦私募合規及政策解讀培訓班】8月27日，上海證監局、基金業協會等有關部門在上海舉辦2026年私募合規及政策解讀培訓班（上海場）。據悉，本次培訓內容包括《綜合整治非法跨境證券期貨基金經營活動實施方案》解讀，《國務院辦公廳關於加強監管防範風險促進私募投資基金高質量發展的指導意見》解讀，上海轄區違法違規情況簡析及合規要求，自律檢查常見問題及警示提醒，證券期貨仲裁裁判要點與私募基金案例分析等。(中證金牛座)"
+    },
+    {
+      "id": "5061378",
+      "time": "2026-08-27 10:57:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：連續加息並非常規操作，連續加息向市場釋放 “強烈訊號”。"
+    },
+    {
+      "id": "mkt:01a04126-5b5f-7aab-9140-9e95702e6e70",
+      "time": "2026-08-27 10:57:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Saxo Markets: NVIDIA results validate AI infrastructure investment case】Saxo Markets chief investment strategist Charu Chanana said NVIDIA's results strongly validate the AI infrastructure investment case. As capacity expands, storage, networking, optical communications, power infrastructure and some cloud providers should benefit, but markets increasingly need to see AI investment deliver returns. Storage remains a clear beneficiary; NVIDIA's margin guidance confirms supply tightness. Asian storage-chip stocks largely rose after the results. Chanana added the next phase of any storage-chip rally will depend more on AI demand and whether per-accelerator storage capacity can absorb rising supply, rather than on supply shortages alone supporting prices."
+    },
+    {
+      "id": "5061377",
+      "time": "2026-08-27 10:56:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞薩電子在北京啟用物理AI與機器人實驗室】瑞薩電子8月27日宣佈正式在北京啟用物理AI與機器人實驗室，將支援客戶開展下一代機器人系統的演示、驗證及聯合開發工作。宣告稱，設立該實驗室是在今年7月公司成立物理AI事業部後的重要一步。"
+    },
+    {
+      "id": "5061376",
+      "time": "2026-08-27 10:55:51",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【老鋪黃金董事長徐高明：今年二季度月均淨利潤超2億元已達預期，計劃明年進入美國等海外市場】據報道，老鋪黃金董事長兼執行董事徐高明在8月26日上午的業績交流會中表示，當前整體消費氛圍偏弱，國內黃金消費需求同比下行約30%，國際奢侈品承壓。此外，國際金價回撥幅度大，老鋪黃金調價週期碰上金價下行帶來階段性銷售壓力。金價下行期間，老鋪黃金是否會調價？徐高明回應稱，“該大幅調升就調升，該小幅或低調處理就小幅處理。”在其看來，老鋪黃金調價的出發點是保證品牌的消費價值和品牌價值的恆定性。此外，針對近期市場關於老鋪黃金僱人排隊、製造虛假繁榮的傳聞，徐高明予以明確否認，稱公司從不採用任何不正當營銷手段，認為任何“偷雞摸狗”式的違規操作終將遭到反噬。此外，徐高明在業績會上披露了明確的海外拓展進度，他透露：“我們正在與美國洛杉磯最高階的商城接觸，計劃明年進入美國、加拿大、法國或英國。我們走出去一定是以旗艦店、形象店的形式，要形成這個城市的消費或文化休閒的目的地。”（新浪科技）"
+    },
+    {
+      "id": "mkt:01a04125-060a-7aab-9140-904c4ffbc6b4",
+      "time": "2026-08-27 10:55:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen Real Estate Brokers Association: July new-home residential sales up >30% YoY】Shenzhen Real Estate Brokers Association, citing Shenzhen Real Estate Information Platform data, said July 2026 new commercial housing sales totaled 4,502 units (-35.2% MoM, +19.3% YoY). Residential transactions were 3,529 units (-6.8% MoM, +32.5% YoY). The association said the MoM decline in overall new commercial housing reflects normal seasonality; the modest residential MoM drop alongside >30% YoY growth suggests real buying demand remains ample, supported by easing purchase restrictions in core districts."
+    },
+    {
+      "id": "5061375",
+      "time": "2026-08-27 10:55:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報7642.00點。"
+    },
+    {
+      "id": "5061374",
+      "time": "2026-08-27 10:55:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恒大系三筆債權上架拍賣：本金3.09億元資產包總計成交價46.01萬元】8月26日，據阿里資產拍賣平臺披露的資訊顯示，有三筆恒大系的債權完成拍賣。資料顯示，三筆債權本金總計約3.09億元。分別為恒大地產集團上海**置業有限公司等13戶105758872.12元債權類資產、對恒大恆馳新能源汽車研究院（上海）有限公司等10戶103113341.47元債權類資產以及對恒大恆馳新能源汽車研究院（上海）有限公司等8戶101015726.73元的債權。最終，三筆債權的成交價分別為25.8萬元、14.4萬元以及5.81萬元。"
+    },
     {
       "id": "5061373",
       "time": "2026-08-27 10:54:37",
@@ -150710,53 +150813,6 @@
         "市場"
       ],
       "text": "【CPO概念震盪拉昇 仕佳光子、德科立均漲超10%】CPO概念震盪拉昇，仕佳光子、德科立均漲超10%，劍橋科技、匯綠生態、源傑科技、羅博特科、光庫科技跟漲。"
-    },
-    {
-      "id": "mkt:01a01d1b-dc7f-7aab-90a7-923eb12866e3",
-      "time": "2026-08-20 10:59:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share property sector rose; Fuxing Co. hit the daily trading limit, while Rongan Real Estate, Chengtou Holdings, Urban Construction Development, Shenzhen Zhenye A and Jingtou Development also gained."
-    },
-    {
-      "id": "5048975",
-      "time": "2026-08-20 10:59:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊走高，福星股份漲停】房地產板塊走高，福星股份漲停，榮安地產、城投控股、城建發展、深振業A、京投發展跟漲。"
-    },
-    {
-      "id": "5048974",
-      "time": "2026-08-20 10:59:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞航空公司一架飛機在日本成田機場中止起飛，現場出現煙霧。"
-    },
-    {
-      "id": "5048973",
-      "time": "2026-08-20 10:57:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：五角大樓更新美軍最新傷亡資料，“美伊戰事以來已有18名士兵死亡、757名士兵受傷”】據美國有線電視新聞網（CNN）報道，五角大樓當地時間19日更新了其戰爭傷亡資料庫，新增50多名受傷士兵。根據該資料庫，美伊戰事開始以來，受傷美軍士兵人數已超過750人。 美國國防部網站7月26日新新增一個名為“海外行動傷亡數字”的網頁，將7月7日以來最新一輪美伊互襲以來的傷亡資料單獨列出，不計入之前的統計。 CNN稱，將“海外行動傷亡數字”網頁的統計資料和美國對伊朗“史詩怒火”軍事行動的統計資料合併後，顯示自今年2月美伊戰事開始以來，已有18名美軍士兵死亡、757名士兵受傷。 （環球網）"
-    },
-    {
-      "id": "5048972",
-      "time": "2026-08-20 10:55:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菜鳥在歐洲再新開兩座海外倉】記者從菜鳥獲悉，菜鳥和4PX(遞四方)海外供應鏈在法國巴黎和德國曼海姆開設兩座新倉，支援大件儲存和本地配送，首櫃貨物均已入倉。今年4月起，菜鳥在歐洲已新開7座新倉，分佈在荷蘭、法國、西班牙、波蘭、英國和德國，其中法國兩座。（介面新聞）"
     }
   ]
 }
