@@ -1,7 +1,210 @@
 {
-  "updated": "2026-08-27 10:26:54",
-  "count": 16670,
+  "updated": "2026-08-27 10:30:54",
+  "count": 16681,
   "items": [
+    {
+      "id": "mkt:01a0410d-e394-7aab-913f-829b0b5cb871",
+      "time": "2026-08-27 10:30:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says the central bank will take active measures to prevent inf pressures from spreading."
+    },
+    {
+      "id": "5061326",
+      "time": "2026-08-27 10:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網易有道釋出首款面向iPhone使用者的Agent耳機 今日開啟預售】記者獲悉，今日網易有道將正式釋出OpenPods有道AI耳機，即首款專為iPhone使用者打造的Agent耳機。據悉，OpenPods依託蘋果MFi認證、獨立智慧耳機艙和AI Agent能力，將錄音、轉寫、翻譯、總結、問答和知識管理整合到同一工作流程，覆蓋會議辦公、跨語言溝通和內容整理等高頻場景。OpenPods單隻耳機重約7克，音樂播放場景下耳機單次續航最長8小時，搭配耳機艙可達32小時。OpenPods於今日開啟預售，將於9月10日正式發售，提供黑色、白色兩款配色。（財聯社）"
+    },
+    {
+      "id": "5061325",
+      "time": "2026-08-27 10:30:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙商證券：AI製藥重塑科學研究正規化 長期關注能夠持續迭代研發平臺】浙商證券釋出研報稱，藥品研發行業正在經歷類似的產業變革：生物化學大模型數量爆發式增長，生物基礎模型經過多次迭代，實現了能力的大幅提升。AI製藥行業發展邏輯正在從科學家決策到智慧化自主決策驗證的新階段，科學研究的正規化可能被重塑，平臺價值在提升。長期來看，建議關注能夠持續迭代的研發平臺。"
+    },
+    {
+      "id": "5061324",
+      "time": "2026-08-27 10:29:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：週四利率決議異議者對經濟前景的看法存在“策略性”分歧 。"
+    },
+    {
+      "id": "mkt:01a0410d-7a80-7aab-913f-7a47f0a485cb",
+      "time": "2026-08-27 10:29:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PHILIPPINE C.BANK governor said he expects inflation to be closer to target in the medium term, remains vigilant to persistent risks to the inflation outlook and stands ready to act at any time to fulfill the bank’s mandate."
+    },
+    {
+      "id": "mkt:01a0410d-64cf-7aab-913f-76fe661e748e",
+      "time": "2026-08-27 10:29:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Capital Economics: Strong Australian household spending could reinforce RBA hawkish tilt】Capital Economics economist Abhijit Surya says Australian household spending rebounded strongly in July and could reinforce the RBA's hawkish tilt, though current data are insufficient to prompt further rate hikes. He adds household spending is likely to record the largest quarterly increase in four years and to exceed the RBA's recent forecasts."
+    },
+    {
+      "id": "5061323",
+      "time": "2026-08-27 10:29:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：單靠貨幣政策無法抑制房價。"
+    },
+    {
+      "id": "mkt:01a0410c-cb73-7aab-913f-68b811427796",
+      "time": "2026-08-27 10:29:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Bank of Korea governor said the recent won rebound should help lower import costs and the won may strengthen further against the US dollar."
+    },
+    {
+      "id": "5061322",
+      "time": "2026-08-27 10:28:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "申鉉松：政策應對或將助推韓元進一步走強。"
+    },
+    {
+      "id": "5061321",
+      "time": "2026-08-27 10:28:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：受益平臺生態最佳化 酒店業仍有拓店空間】國泰海通釋出研報稱，酒店板塊目前估值和市值均處於歷史週期底部區域，龍頭依然有較大拓店空間。行業連鎖化率將比預期更高，頭部酒店在產品、規模、效率、品牌維度的優勢還在擴大。OTA生態最佳化讓利要素端和從業者，更利於產業鏈利潤分配階段性利好連鎖酒店龍頭。"
+    },
+    {
+      "id": "5061320",
+      "time": "2026-08-27 10:28:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：早期政策行動有助於穩定外匯市場。"
+    },
+    {
+      "id": "mkt:01a0410b-bc31-7aab-913f-67ddce055f10",
+      "time": "2026-08-27 10:28:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Korea governor said USD/KRW remains elevated."
+    },
+    {
+      "id": "mkt:01a0410b-b8a3-7aab-913f-5a97b6c6ec78",
+      "time": "2026-08-27 10:28:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rhinovirus vaccine Phase I posts encouraging preliminary results】Imperial College London said its candidate rhinovirus vaccine APL-10456 produced encouraging preliminary Phase I results. A single dose was well tolerated and elicited immune responses against the three major rhinovirus groups. The randomized, placebo-controlled Phase I enrolled 144 healthy volunteers; the first stage tested three single-dose levels in 18–54-year-olds, assessing safety, tolerability and immunogenicity. A second stage is evaluating a two-dose regimen in adults 55 and older, with additional data expected in Q4."
+    },
+    {
+      "id": "5061319",
+      "time": "2026-08-27 10:27:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "申鉉松：韓國外匯市場已在一定程度上趨於穩定。"
+    },
+    {
+      "id": "mkt:01a0410b-9e08-7aab-913f-574306adba2f",
+      "time": "2026-08-27 10:27:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says pre-emptive action in the FX market can reduce the cost of maintaining market stability."
+    },
+    {
+      "id": "5061318",
+      "time": "2026-08-27 10:27:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：美元/韓元匯率水平仍高。"
+    },
+    {
+      "id": "5061317",
+      "time": "2026-08-27 10:27:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長雷莫洛納：關注油價的第二輪影響。"
+    },
+    {
+      "id": "5061316",
+      "time": "2026-08-27 10:26:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鼻病毒疫苗1期臨床試驗取得積極初步結果】英國帝國理工學院26日釋出新聞公報說，一種旨在防範鼻病毒感染的候選疫苗在1期臨床試驗中取得令人鼓舞的初步結果。健康志願者對該疫苗耐受性良好，單劑接種後產生了針對3類主要鼻病毒的免疫反應。這款名為APL-10456的候選疫苗由帝國理工學院與一家生物製藥企業合作開發。（新華社）"
+    },
+    {
+      "id": "mkt:01a0410a-aa9c-7aab-913f-4892c57b6a47",
+      "time": "2026-08-27 10:26:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says USD/KRW market has stabilized."
+    },
+    {
+      "id": "5061315",
+      "time": "2026-08-27 10:26:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL中環入選深圳能源集團元件2026—2028年集採】據TCL中環訊息，近日，深圳能源集團2026—2028年度光伏元件集採預選專案結果正式公示。TCL中環入圍常規N型、N型高效雙標段，實現同步中標。"
+    },
+    {
+      "id": "mkt:01a0410a-75e4-7aab-913f-4394f6967dc7",
+      "time": "2026-08-27 10:26:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor said SMEs will be able to access the central bank's special lending facility."
+    },
+    {
+      "id": "5061314",
+      "time": "2026-08-27 10:26:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長雷莫洛納：我們非常擔心通貨膨脹。"
+    },
+    {
+      "id": "mkt:01a0410a-5fb0-7aab-913f-3d291e2e922a",
+      "time": "2026-08-27 10:26:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says he is in talks with the government on measures to support households facing higher borrowing costs."
+    },
+    {
+      "id": "5061313",
+      "time": "2026-08-27 10:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：在通脹蔓延之前採取早期應對措施可以降低成本。"
+    },
     {
       "id": "5061312",
       "time": "2026-08-27 10:25:41",
@@ -150130,125 +150333,6 @@
         "其他"
       ],
       "text": "【哥倫比亞強震死亡人數升至319人】哥倫比亞國家災害風險管理局19日晚公佈的最新資料顯示，截至當地時間19日18時30分，該國西部強震已造成319人死亡、4469人受傷、260人失蹤，另有364人獲救。資料顯示，哥倫比亞全國有15個省的476個市鎮受到此次地震影響，受災人數達27.2萬人。"
-    },
-    {
-      "id": "mkt:01a01d01-cfb0-7aab-90a7-5613542a5875",
-      "time": "2026-08-20 10:30:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV quoted the U.S. ambassador to Israel as saying he did not believe the Mecca Defense Agreement signed by Saudi Arabia, Turkey and Pakistan would undermine regional stability, noting the three countries view enhanced security cooperation as beneficial and appear to have no intent to provoke conflict."
-    },
-    {
-      "id": "5048949",
-      "time": "2026-08-20 10:30:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統簽署法令，宣佈進入為期30天的經濟緊急狀態。"
-    },
-    {
-      "id": "mkt:01a01d01-413c-7aab-90a7-48e9eb7b4444",
-      "time": "2026-08-20 10:30:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC reports a magnitude 4.2 earthquake in Chiapas, Mexico."
-    },
-    {
-      "id": "mkt:01a01d00-f7ab-7aab-90a7-4562216b2a83",
-      "time": "2026-08-20 10:29:57",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Indonesian rupiah weakened to 17,790 per USD."
-    },
-    {
-      "id": "mkt:01a01d00-a15f-7aab-90a7-3c145074e6be",
-      "time": "2026-08-20 10:29:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Refinitiv shipping-traffic data for the Strait of Hormuz show the US-Iran geopolitical stalemate has not improved."
-    },
-    {
-      "id": "5048948",
-      "time": "2026-08-20 10:29:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元走強至17,790。"
-    },
-    {
-      "id": "5048947",
-      "time": "2026-08-20 10:29:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【大摩：維持小米“增持”評級，預期下半年智慧手機毛利率將保持韌性】摩根士丹利發表報告指，小米集團次季經調整純利62.19億元，環比升2%。智慧手機業務收入及毛利率均顯著優於該行預期。管理層表示儲存器價格升幅於下半年將趨於正常化，有望減少對智慧手機毛利率的負面影響。該行預期下半年智慧手機毛利率將保持韌性，成為正面驚喜及重估催化劑。大摩維持小米“增持”評級，目標價32港元。"
-    },
-    {
-      "id": "te:markets:576689",
-      "time": "2026-08-20 10:29:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Strongest Since 2023 — The offshore yuan strengthened to around 6.72 per dollar on Thursday, extending overnight gains and reaching its strongest level since February 2023, as persistent weakness in the US dollar continued to support Asian currencies. The greenback remained under pressure as expectations for further Fed rate hikes eased, while the announcement of expanded bond buybacks boosted demand for longer-dated Treasuries and weighed on the dollar. However, gains in the yuan were tempered by a softer-than-expected fixing, with the PBOC setting the daily midpoint at 6.7808 per dollar, signaling authorities' continued preference for a measured pace of currency appreciation. On the monetary policy front, the central bank kept its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The one-year loan prime rate (LPR) was held at 3.0%, while the five-year LPR remained at 3.5%, reflecting policymakers' cautious approach amid lingering domestic and external uncertainties."
-    },
-    {
-      "id": "5048946",
-      "time": "2026-08-20 10:29:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網路資料安全新規今起施行 公安部有關負責人答問】由國家網際網路資訊辦公室、工業和資訊化部、公安部三部門制定的《網路資料安全風險評估辦法》於2026年8月20日起施行，公安部有關負責人就其實施有關事項回答了記者提問。問1：如何申請網路資料安全風險評估服務認證？答：《網路資料安全風險評估辦法》第八條規定：“鼓勵相關評估機構透過認證。評估機構的認證按照《中華人民共和國認證認可條例》的有關規定執行”。國家網信辦資料與技術保障中心、公安部第三研究所、泰爾認證中心有限公司等認證機構，已向國家認證認可監督管理委員會備案《資料安全風險評估服務認證規則》，相關認證機構將依據認證規則和有關標準規範實施認證。評估機構可向上述認證機構申請服務認證。問2：公安機關在網路資料安全風險評估工作中承擔哪些法定職責？具體有哪些落實舉措？答：依照有關法律法規規定，在國家資料安全工作協調機制指導下，公安部將會同中央網信辦、工業和資訊化部等有關部門，建立網路資料安全風險評估專項工作機制，指導、監督網路資料安全風險評估工作。為確保《網路資料安全風險評估辦法》落地見效，公安機關將立足法定職責，建立全流程監管機制。依託網路安全等級保護備案等基礎工作，掌握轄區內網路資料處理者相關情況，建立並完善動態監管臺賬。對重要資料處理者的風險評估報告真實性、準確性進行檢查核驗。對發現存在較大安全風險、發生資料安全事件等情形的，依法督促網路資料處理者委託透過認證的第三方評估機構開展風險評估。發現重要資料處理者的重要資料處理活動可能危害國家安全、公共利益的，依法責令整改；對拒不整改或未達到整改要求的，依法採取責令其停止處理重要資料等措施。對未按規定開展風險評估的網路資料處理者，將依據《中華人民共和國資料安全法》《網路資料安全管理條例》等有關法律、行政法規予以處理；第三方評估機構違反《網路資料安全風險評估辦法》開展風險評估的，公安機關將依法予以處理。"
-    },
-    {
-      "id": "mkt:01a01d00-0475-7aab-90a7-31b2d7d2844b",
-      "time": "2026-08-20 10:28:55",
-      "tags": [
-        "MKT News",
-        "2333.HK",
-        "Impact bullish",
-        "0175.HK"
-      ],
-      "text": "【China Association of Automobile Manufacturers: Top 10 MPV makers sold 464,000 units Jan–Jul, 79.6% of MPV sales】China Association of Automobile Manufacturers data show Jan–Jul 2026 sales by the top 10 MPV producers totaled 464,000 units, accounting for 79.6% of MPV sales. Among the ten, GAC Trumpchi, Great Wall Motor, Geely and Dongfeng posted YoY sales gains of varying degrees; the other six firms recorded YoY declines."
-    },
-    {
-      "id": "5048945",
-      "time": "2026-08-20 10:28:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京市大興區人大常委會原黨組副書記、副主任張德廣受賄案一審宣判】據“京法網事”，2026年8月20日，北京市第二中級人民法院依法公開宣判北京市大興區人大常委會原黨組副書記、副主任張德廣受賄一案，對被告人張德廣以受賄罪判處有期徒刑十三年，並處罰金人民幣二百萬元。對被告人張德廣犯罪所得及收益予以沒收，上繳國庫。"
-    },
-    {
-      "id": "5048944",
-      "time": "2026-08-20 10:27:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中汽協：1—7月銷量排名前十位的MPV生產企業共銷售46.4萬輛】據中國汽車工業協會統計分析，2026年1—7月，銷量排名前十位的MPV生產企業共銷售46.4萬輛，佔MPV銷售總量的79.6%。在上述十家企業中，與去年同期相比，廣汽傳祺、長城汽車、吉利汽車和東風公司銷量呈不同程度增長，其他企業銷量呈不同程度下降。"
-    },
-    {
-      "id": "5048943",
-      "time": "2026-08-20 10:26:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國國防部長：韓國既不能發展核武器，也不會接受美國部署戰術核武器。"
     }
   ]
 }
