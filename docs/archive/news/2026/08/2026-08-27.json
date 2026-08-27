@@ -1,7 +1,86 @@
 {
   "date": "2026-08-27",
-  "count": 1494,
+  "count": 1503,
   "items": [
+    {
+      "id": "mkt:01a0435e-0ec4-7aab-9152-e944aa3c683b",
+      "time": "2026-08-27 21:17:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Ministry spokesman said Russia has provided no evidence to support the allegations."
+    },
+    {
+      "id": "5062870",
+      "time": "2026-08-27 21:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：嘉信理財將擴大嘉信加密貨幣賬戶可交易數字資產範圍。"
+    },
+    {
+      "id": "mkt:01a0435d-94a8-7aab-9152-e0bf33ecfea3",
+      "time": "2026-08-27 21:16:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian Foreign Ministry spokesperson said Russia's allegation that Ukraine participated in the attack in Mali is a lie."
+    },
+    {
+      "id": "mkt:01a0435d-5198-7aab-9152-d8604f2de397",
+      "time": "2026-08-27 21:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said ELON MUSK will no longer have a speaking role at a G20 event."
+    },
+    {
+      "id": "5062869",
+      "time": "2026-08-27 21:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會主席：暫不考慮對 CAS 作出任何調整。"
+    },
+    {
+      "id": "te:markets:578723",
+      "time": "2026-08-27 21:16:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Hits 6-week High — Cocoa increased to 6229.00 USD/T, the highest since July 2026. Over the past 4 weeks, Cocoa gained 19.32%, and in the last 12 months, it decreased 19.8%."
+    },
+    {
+      "id": "mkt:01a0435d-1314-7aab-9152-d0bb3af755af",
+      "time": "2026-08-27 21:16:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Elon Musk and PCAST chair David Sacks will attend a G20 event alongside OpenAI founder Sam Altman and NVIDIA CEO Jensen Huang."
+    },
+    {
+      "id": "5062866",
+      "time": "2026-08-27 21:15:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部發言人表示，俄羅斯指控烏克蘭參與馬裡襲擊事件\"純屬謊言\"。"
+    },
+    {
+      "id": "5062864",
+      "time": "2026-08-27 21:14:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：馬斯克、戴維・薩克斯將與奧特曼、黃仁勳將共同出席 G20 活動。"
+    },
     {
       "id": "5062863",
       "time": "2026-08-27 21:11:55",
