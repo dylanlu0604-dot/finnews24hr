@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-28 07:38:51",
+  "updated": "2026-08-28 07:42:43",
   "count": 14924,
   "items": [
+    {
+      "id": "te:economy:578819",
+      "time": "2026-08-28 07:39:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Tokyo Core CPI",
+        "Importance 1"
+      ],
+      "text": "Tokyo Core Inflation Hits 5-Month High — Core consumer prices in Tokyo’s central wards increased 1.8% yoy in August 2026, following a downwardly revised 1.7% rise in the previous month and exceeding expectations of 1.7%. It was the third consecutive month of acceleration and marked the fastest increase since March, signaling broadening price pressures stemming from the Middle East conflict. However, inflation remained below the Bank of Japan’s 2% target for a seventh consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the conflict."
+    },
     {
       "id": "5063542",
       "time": "2026-08-28 07:36:53",
@@ -134315,17 +134327,6 @@
         "焦點"
       ],
       "text": "三星計劃最高向股東返還790億美元。"
-    },
-    {
-      "id": "5050883",
-      "time": "2026-08-21 07:39:15",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本通脹加速，為日本央行加息提供依據】日本核心物價指標連續第二個月加速上行，日本央行有望在短期內再度加息，市場愈發猜測央行最早將於9月採取加息行動。日本總務省週五公佈，7月剔除生鮮食品的消費者物價指數同比上漲1.8%，高於上月1.6%的漲幅，該資料與經濟學家預期中值一致。同時剔除生鮮食品與能源的物價指數是日本央行密切關注的核心通脹指標，同比上漲1.9%；整體CPI同樣同比上漲1.9%。此次通脹抬升部分受能源推動，能源價格同比上漲0.6%，扭轉了6月小幅下滑的態勢。數週前日本央行行長植田和男釋放訊號，稱政策當局或將加快政策正常化步伐，本次通脹資料為央行加息提供支撐。儘管美日兩國7月底罕見實施聯合匯市干預，但日元持續走弱仍帶來物價上行風險，市場投資者愈發確信日本央行將於下月啟動加息。"
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "date": "2026-08-28",
-  "count": 392,
+  "count": 393,
   "items": [
+    {
+      "id": "te:economy:578819",
+      "time": "2026-08-28 07:39:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Tokyo Core CPI",
+        "Importance 1"
+      ],
+      "text": "Tokyo Core Inflation Hits 5-Month High — Core consumer prices in Tokyo’s central wards increased 1.8% yoy in August 2026, following a downwardly revised 1.7% rise in the previous month and exceeding expectations of 1.7%. It was the third consecutive month of acceleration and marked the fastest increase since March, signaling broadening price pressures stemming from the Middle East conflict. However, inflation remained below the Bank of Japan’s 2% target for a seventh consecutive month, as fuel subsidies and favorable base effects helped limit the impact of higher raw material costs linked to the conflict."
+    },
     {
       "id": "5063542",
       "time": "2026-08-28 07:36:53",
