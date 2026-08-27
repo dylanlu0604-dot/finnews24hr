@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-27 21:55:44",
-  "count": 15362,
+  "updated": "2026-08-27 22:00:10",
+  "count": 15358,
   "items": [
+    {
+      "id": "5062958",
+      "time": "2026-08-27 21:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯表示，他預計美國“很快”就會繳納其應承擔的聯合國預算會費。"
+    },
+    {
+      "id": "mkt:01a04383-9cf0-7aab-9153-a50692a9cf92",
+      "time": "2026-08-27 21:58:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Record energy exports lift Canada's current-account surplus to highest since 2005】Canada's Q2 current-account surplus widened to CAD 8.84 bln (USD 6.4 bln), more than double economists' expectations of CAD 3.9 bln and the largest surplus since 2005 (fourth-largest since 1981), Statistics Canada said. The swing from a revised Q1 deficit of CAD 8.31 bln was driven by commodity exports—crude and bitumen exports hit record levels—and Q2 energy exports rose 27.4% amid a global oil-price surge linked to the Iran conflict. An escalating tariff dispute with the U.S. provided an additional trade buffer. Foreign investors added a record CAD 80.8 bln of Canadian government bonds."
+    },
+    {
+      "id": "5062957",
+      "time": "2026-08-27 21:57:28",
+      "tags": [
+        "央行",
+        "公司"
+      ],
+      "text": "市場訊息：匈牙利央行就內幕人士股份登記相關規定向 Opus 發出警示。"
+    },
+    {
+      "id": "5062956",
+      "time": "2026-08-27 21:56:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超3.00%，現報2.961美元/百萬英熱。"
+    },
+    {
+      "id": "te:markets:578736",
+      "time": "2026-08-27 21:56:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips as Oil Rebounds — The S&P/TSX Composite Index edged lower to hover above the 36,500 mark on Thursday as a rebound in oil prices renewed inflation concerns, offsetting a largely positive batch of bank earnings this week. Crude prices moved higher after the US and Iran traded recriminations over Washington’s pledge to increase economic pressure on Iran by targeting its trade partners with sanctions, renewing concerns over energy costs. RBC shed over 1% despite reporting third-quarter profit of C$6 billion, up from C$5.4 billion a year earlier, boosted by strength in wealth management, capital markets and commercial banking. CIBC lost 0.5% despite beating estimates on better-than-expected results from its capital markets and retail banking units. Meanwhile, TD Bank gained more than 0.5% after reporting a 38% rise in net income, driven by strong results in its US business and soaring profit in wholesale banking."
+    },
+    {
+      "id": "5062955",
+      "time": "2026-08-27 21:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "據德國媒體27日報道，柏林附近一所學校發生槍擊案，造成兩人死亡。嫌疑人已被捕。（新華社）"
+    },
+    {
+      "id": "5062954",
+      "time": "2026-08-27 21:55:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國秘書長古特雷斯：敘利亞實現統一至關重要。"
+    },
     {
       "id": "5062953",
       "time": "2026-08-27 21:54:52",
@@ -138458,111 +138525,6 @@
         "Important"
       ],
       "text": "DOE will award $500 mln in grants to seven critical minerals projects."
-    },
-    {
-      "id": "5050356",
-      "time": "2026-08-20 22:00:09",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國7月諮商會領先指標月率 0.2%，預期0.10%，前值由-0.20%修正為-0.1%。"
-    },
-    {
-      "id": "mkt:01a01f78-db72-7aab-90b9-0a71d2136d7b",
-      "time": "2026-08-20 22:00:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US Conference Board Leading Economic Index July MoM +0.2% vs consensus +0.1%; June revised to -0.1% from -0.2%."
-    },
-    {
-      "id": "mkt:01a01f78-ba46-7aab-90b9-04d676ddb4ed",
-      "time": "2026-08-20 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Conference Board Leading Indicator (MoM) (Jul) | actual 0.2% | consensus 0.10% | previous -0.20%"
-    },
-    {
-      "id": "mkt:01a01f78-a40f-7aab-90b8-f9b29232a901",
-      "time": "2026-08-20 21:59:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Google is tracking two separate suspected Russian clusters, UNC7005 and UNC5976, which conduct phishing, abuse OAuth flows and deploy malware to victims."
-    },
-    {
-      "id": "5050355",
-      "time": "2026-08-20 21:59:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度證券交易委員會：自營交易商26財年衍生品盈利4448億盧比。"
-    },
-    {
-      "id": "5050354",
-      "time": "2026-08-20 21:59:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌：谷歌威脅情報小組正在追蹤三個不同的疑似俄羅斯網路間諜威脅叢集。"
-    },
-    {
-      "id": "mkt:01a01f77-c0b2-7aab-90b8-f7d202df572c",
-      "time": "2026-08-20 21:58:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Google's threat-intelligence team is tracking three separate suspected Russian cyber-espionage clusters."
-    },
-    {
-      "id": "5050353",
-      "time": "2026-08-20 21:58:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達雲遊戲平臺GeForce NOW正式支援Firefox瀏覽器。"
-    },
-    {
-      "id": "mkt:01a01f75-bab6-7aab-90b8-e8e88949c280",
-      "time": "2026-08-20 21:56:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SYY.O",
-        "Impact bullish"
-      ],
-      "text": "Sysco shares rose 2.4% after the company announced board changes to drive an AI-led transformation."
-    },
-    {
-      "id": "5050352",
-      "time": "2026-08-20 21:56:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦中央銀行外匯儲備增加2500萬美元，達到171億美元。"
-    },
-    {
-      "id": "5050351",
-      "time": "2026-08-20 21:56:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SYSCO股價上漲2.4%；公司宣佈調整董事會以推進人工智慧轉型。"
     }
   ]
 }
