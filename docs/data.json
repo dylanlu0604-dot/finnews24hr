@@ -1,7 +1,242 @@
 {
-  "updated": "2026-08-27 21:30:49",
-  "count": 15323,
+  "updated": "2026-08-27 21:34:56",
+  "count": 15330,
   "items": [
+    {
+      "id": "5062903",
+      "time": "2026-08-27 21:34:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠普股價下跌10%，因第三季度個人電腦業務出貨量與利潤率雙雙下滑。"
+    },
+    {
+      "id": "mkt:01a0436d-5d4b-7aab-9153-3d962d961f23",
+      "time": "2026-08-27 21:33:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) rose 7.1% in early trade, adding $359 bln to its market value."
+    },
+    {
+      "id": "mkt:01a0436d-1db4-7aab-9153-373a5d315595",
+      "time": "2026-08-27 21:33:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "INTC.O",
+        "AVGO.O"
+      ],
+      "text": "U.S. semiconductor stocks rose, led by NVIDIA (NVDA.O) up over 6%; Arm (ARM.O) +3.7%, SK Hynix (SKHY.O) +3.6%, Intel (INTC.O) +3.5% and Broadcom (AVGO.O) +2.5%."
+    },
+    {
+      "id": "5062902",
+      "time": "2026-08-27 21:33:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "北美科技軟體股指數ETF漲超3.8%，在美股盤初報106.41美元。CrowdStrike漲10%，創7月14日以來最大盤中漲幅。"
+    },
+    {
+      "id": "5062901",
+      "time": "2026-08-27 21:33:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奇瑞汽車：風雲T7上市24小時訂單達23188臺】8月27日晚，奇瑞汽車宣佈，風雲T7上市24小時訂單達23188臺。新車共推出3款版型，上市指導價9.79萬元至11.89萬元。"
+    },
+    {
+      "id": "5062900",
+      "time": "2026-08-27 21:33:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股IPO：上海劇星傳媒股份有限公司遞表港交所】上海劇星傳媒股份有限公司向港交所提交上市申請書，獨家保薦人為浦銀國際。"
+    },
+    {
+      "id": "5062899",
+      "time": "2026-08-27 21:33:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "MODERNA股價在公司宣佈計劃發行20億美元可轉換債券後下跌3.6%。"
+    },
+    {
+      "id": "mkt:01a0436c-9c42-7aab-9153-2dd754665969",
+      "time": "2026-08-27 21:33:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened mixed on Thursday, Aug. 27: the Dow Jones Industrial Average fell 49.62 points, or 0.09%, to 53,414.26; the S&P 500 rose 18.93 points, or 0.25%, to 7,694.76; the Nasdaq Composite gained 190.55 points, or 0.73%, to 26,320.75."
+    },
+    {
+      "id": "5062898",
+      "time": "2026-08-27 21:32:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：優步自 4 月以來人工智慧總支出保持穩定。"
+    },
+    {
+      "id": "te:markets:578731",
+      "time": "2026-08-27 21:32:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "McDonalds Stock Price Hits 4-week Low — McDonalds shares decreased to 264.25 USD, the lowest since July 2026. Over the past 4 weeks, McDonalds lost 2.11%, and in the last 12 months, it decreased 14.92%."
+    },
+    {
+      "id": "5062897",
+      "time": "2026-08-27 21:32:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "CrowdStrike漲10%，創自7月14日以來最大漲幅。"
+    },
+    {
+      "id": "te:markets:578730",
+      "time": "2026-08-27 21:32:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Nvidia Supports US Stocks — US equities were mixed as strong results by Nvidia supported the tech sector, offsetting losses in the broader sectors of exchanges. The S&P 500 and Nasdaq 100 gained 0.4% and 0.7%, respectively, while the Dow inched lower. Nvidia surged 7% after soaring demand for AI compute drove the world's largest company to forecast a 70% surge in revenue next fiscal year, challenging the persistent skepticism that capital expenditure on AI infrastructure was bound to slow. The outlook supported other companies with exposure to AI infrastructure, with Micron, Marvell, Sandisk, Palo Alto, and GE Vernova adding between 6% and 3%. On the other hand, broader sectors were lower amid persistent concerns of an unfavorable macroeconomic backdrop. Long-term bond yields remained near their peaks amid widening federal deficits, soaring AI debt issuance, renewed tariffs with Canada and major trading partners, and risks of high energy inflation. Apple, Merck, and Visa fell over 1%."
+    },
+    {
+      "id": "te:markets:578729",
+      "time": "2026-08-27 21:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Southern Stock Price Hits 28-week Low — Southern shares decreased to 88.90 USD, the lowest since February 2026. Over the past 4 weeks, Southern Co. lost 7.55%, and in the last 12 months, it decreased 4.37%."
+    },
+    {
+      "id": "5062896",
+      "time": "2026-08-27 21:31:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達開盤大漲 7.1%，市值增加 3590 億美元。"
+    },
+    {
+      "id": "5062895",
+      "time": "2026-08-27 21:31:39",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價上漲6.8%，此前該公司預計明年銷售額將增長70%。"
+    },
+    {
+      "id": "5062894",
+      "time": "2026-08-27 21:31:13",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國股市漲幅擴大，納斯達克綜合指數上漲1.00%。"
+    },
+    {
+      "id": "5062893",
+      "time": "2026-08-27 21:30:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "WENDY'S股價大跌 15%，創 2020 年 3 月以來最大盤中跌幅。"
+    },
+    {
+      "id": "5062892",
+      "time": "2026-08-27 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指跌0.13%，標普500指數漲0.38%，納指漲0.96%。賽富時漲13.99%，Veeva Systems Inc. Class A漲13.32%，CrowdStrike漲10.74%，百思買跌12.04%，惠普跌10.52%，美元樹跌7.15%。“七姐妹”方面：英偉達漲6.92%，特斯拉漲0.06%，Meta Platforms跌0.04%，微軟跌0.20%，亞馬遜跌0.24%，蘋果跌0.61%，谷歌跌0.71%。"
+    },
+    {
+      "id": "5062891",
+      "time": "2026-08-27 21:30:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，名創優品跌4.92%，網易有道跌3.51%，百勝中國跌3.38%，BOSS直聘跌3.11%，阿特斯跌3.03%。"
+    },
+    {
+      "id": "5062890",
+      "time": "2026-08-27 21:30:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.23%，現報11870.16點。英偉達漲6.09%，博通漲1.65%，美光漲2.86%，英特爾漲2.03%，AMD跌0.19%，高通漲1.41%，臺積電漲1.75%，阿斯麥漲0.12%。"
+    },
+    {
+      "id": "5062889",
+      "time": "2026-08-27 21:30:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所S&P/TSX綜合指數開盤下跌7.25點，跌幅0.02%，報36806.40點。"
+    },
+    {
+      "id": "te:markets:578728",
+      "time": "2026-08-27 21:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank Of America Stock Price Hits 4-week Low — Bank Of America shares decreased to 61.51 USD, the lowest since July 2026. Over the past 4 weeks, Bank Of America gained 0.16%, and in the last 12 months, it increased 23.52%."
+    },
+    {
+      "id": "te:markets:578727",
+      "time": "2026-08-27 21:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 4-week Low — Home Depot shares decreased to 328.54 USD, the lowest since July 2026. Over the past 4 weeks, Home Depot lost 0.37%, and in the last 12 months, it decreased 17.98%."
+    },
     {
       "id": "te:markets:578726",
       "time": "2026-08-27 21:30:06",
@@ -138063,153 +138298,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Decline on Thursday — US stocks fell on Thursday, erasing gains from the last session, which were prompted by the Treasury's move to supress longer-term yields. The S&P 500 fell 0.4%, while the Dow and the Nasdaq 100 fell around 0.7%. Treasury yields rose across the curve to reflect concerns that the Treasury's efforts to prop up notes and bonds can worsen an already inflationary backdrop with ample dollar liquidity. Borrowing costs were also lifted by higher fuel and gas prices after President Trump stated the US entered \"economic war\" against Iran, prolonging blockades of tankers crossing the Persian Gulf. Banks held their losses as short-term Treasury securities fell further, with JPMorgan and Wells Fargo in the red. On top of that, AI hyperscalers were mostly lower following the tepid financial results from OpenAI, which failed to grow at the same pace of rival Anthropic. Walmart sank 8%, the sharpest single-session decline in four years, after its second-quarter sales fell short of expectations."
-    },
-    {
-      "id": "5050332",
-      "time": "2026-08-20 21:34:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李峰當選上海青浦區區長】據“綠色青浦”微信公眾號訊息，8月20日，上海市青浦區第六屆人民代表大會第七次會議圓滿完成各項議程，在區委黨校中心會場勝利閉幕。李峰當選青浦區人民政府區長。（澎湃）"
-    },
-    {
-      "id": "5050331",
-      "time": "2026-08-20 21:34:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "MODERNA股價下跌19%。"
-    },
-    {
-      "id": "5050330",
-      "time": "2026-08-20 21:33:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "科蒂集團股價下跌約12%，此前該公司預計第一季度利潤低於市場預期。"
-    },
-    {
-      "id": "mkt:01a01f60-655d-7aab-90b8-b6f562a97efb",
-      "time": "2026-08-20 21:33:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WMT.N",
-        "Impact bearish"
-      ],
-      "text": "Walmart (WMT.N) shares plunged 8.7%, the largest one-day decline since July 2022."
-    },
-    {
-      "id": "mkt:01a01f60-1f4e-7aab-90b8-a9d98ec26479",
-      "time": "2026-08-20 21:33:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MRNA.O"
-      ],
-      "text": "Moderna (MRNA.O) fell 18% after closing up more than 170% yesterday."
-    },
-    {
-      "id": "te:markets:576881",
-      "time": "2026-08-20 21:32:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Walt Disney Stock Price Hits 14-week High — Walt Disney shares increased to 107.13 USD, the highest since May 2026. Over the past 4 weeks, Walt Disney gained 10.99%, and in the last 12 months, it decreased 8.57%."
-    },
-    {
-      "id": "5050329",
-      "time": "2026-08-20 21:32:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "超微電腦股價上漲2.8%；董事會採納加強出口合規計劃的建議。"
-    },
-    {
-      "id": "5050328",
-      "time": "2026-08-20 21:32:21",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "沃爾瑪股價暴跌8.7%，創下2022年7月以來最大單日跌幅。"
-    },
-    {
-      "id": "5050327",
-      "time": "2026-08-20 21:32:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股Moderna盤中跌超15%】美股Moderna盤中跌超15.64%，現報147.11美元，總市值為587.3億美元。"
-    },
-    {
-      "id": "5050326",
-      "time": "2026-08-20 21:31:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "ADVANCE AUTO PARTS釋出全年銷售預測不及預期 股價應聲下跌16%。"
-    },
-    {
-      "id": "5050325",
-      "time": "2026-08-20 21:31:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "沃爾瑪股價下跌8%，因第二季度可比銷售額不及預期。"
-    },
-    {
-      "id": "5050324",
-      "time": "2026-08-20 21:31:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴美股下跌5.3%，創下5月15日以來最大單日跌幅。"
-    },
-    {
-      "id": "mkt:01a01f5e-be42-7aab-90b8-a510e9449255",
-      "time": "2026-08-20 21:31:37",
-      "tags": [
-        "MKT News",
-        "SMCI.O",
-        "Impact bullish"
-      ],
-      "text": "Super Micro Computer (SMCI.O) opened 2.8% higher."
-    },
-    {
-      "id": "mkt:01a01f5e-adf1-7aab-90b8-9c9e96661b96",
-      "time": "2026-08-20 21:31:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities opened lower on Thursday, Aug. 20: the Dow Jones Industrial Average opened down 350.97 points (-0.66%) at 53,112.08; the S&P 500 opened down 29.54 points (-0.38%) at 7,678.81; the Nasdaq Composite opened down 136.15 points (-0.52%) at 26,194.94."
-    },
-    {
-      "id": "5050322",
-      "time": "2026-08-20 21:31:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "STRATEGY股票開盤上漲9.1%，ROBINHOOD股價上漲6.1%。"
-    },
-    {
-      "id": "5050321",
-      "time": "2026-08-20 21:30:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "科蒂股價一度暴跌17%，創下2月份以來最大單日跌幅。"
     }
   ]
 }
