@@ -1,7 +1,79 @@
 {
   "date": "2026-08-27",
-  "count": 1594,
+  "count": 1602,
   "items": [
+    {
+      "id": "mkt:01a04378-62a7-7aab-9153-78e0aab3a032",
+      "time": "2026-08-27 21:45:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CRM.N",
+        "Impact bullish"
+      ],
+      "text": "Salesforce (CRM.N) shares rose 19%, the largest advance since August 2020."
+    },
+    {
+      "id": "5062940",
+      "time": "2026-08-27 21:45:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "賽富時漲幅擴大至 19%，創 2020 年 8 月以來最大漲幅。"
+    },
+    {
+      "id": "5062939",
+      "time": "2026-08-27 21:44:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北大荒：2026年上半年營收21.28億元 淨虧損5.37億元】北大荒公告稱，2026年上半年實現營業收入21.28億元，同比下降29.39%；歸屬於上市公司股東的淨虧損5.37億元，同比下降154.50%；扣除非經常性損益後的淨虧損2.09億元，同比下降121.22%。基本每股收益-0.302元。本報告期無利潤分配或公積金轉增股本預案。"
+    },
+    {
+      "id": "5062938",
+      "time": "2026-08-27 21:43:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力特：控股股東籌劃控制權變更，預計停牌不超過2個交易日】英力特公告，控股股東英力特集團正在籌劃透過公開徵集轉讓方式轉讓所持公司部分股份，交易對手方暫未確定，可能導致公司控股股東、實際控制人發生變更。公司股票自2026年8月28日開市起停牌，預計停牌時間不超過2個交易日。"
+    },
+    {
+      "id": "5062937",
+      "time": "2026-08-27 21:43:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【儘管使用量激增，優步仍削減人工智慧成本】優步透露，該公司在今年一季度耗盡資訊科技預算後，如今即便人工智慧使用量大幅飆升，AI 相關支出已經趨於穩定。這是企業想方設法擴大人工智慧應用規模、同時避免相關成本急劇膨脹的最新案例。優步傑出工程師烏代・基蘭・梅迪塞蒂在一篇博文中寫道，自 2 月以來，優步每週智慧代理請求量增長至原先的 9.4 倍，但自 4 月起公司 AI 總支出維持不變。在使用同一套 AI 模型的前提下，每千次請求成本較 4 月峰值下降近 34%，單次會話成本較 6 月高點回落 52%。目前，優步超過 70% 的程式碼變更提交工作由 AI 智慧代理完成。公司表示，優步工程師每日執行超 3 萬項 AI 智慧代理任務，AI 工具的使用人數翻了兩番以上，但令牌呼叫成本反而出現下降。"
+    },
+    {
+      "id": "mkt:01a04376-2c74-7aab-9153-725dabcfbf53",
+      "time": "2026-08-27 21:43:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CINNO•IC Research: China PCB investment to show three trends in H2 2026】CINNO•IC Research says investment in China’s PCB industry in H2 2026 will concentrate on high-end AI-compute PCBs, with increased R&D in high-end HDI, ultra-high multilayer boards and advanced packaging substrates to narrow international gaps and consolidate AI and automotive high-end PCB positions. Regional deployment will optimize: eastern regions to focus on high-end R&D while central and western regions absorb supporting manufacturing to improve coordination. Green manufacturing capex will accelerate, with faster deployment of environmentally friendly materials and energy-saving processes."
+    },
+    {
+      "id": "5062936",
+      "time": "2026-08-27 21:43:26",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯央行資料顯示，截至8月1日，外國投資者持有俄羅斯聯邦國債（OFZ）佔比為3.1%，一個月前該佔比為3.0%。"
+    },
+    {
+      "id": "5062935",
+      "time": "2026-08-27 21:42:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港第一期生成式人工智慧沙盒++參與者名單出爐】8月27日，香港金管局、香港證監會、香港保監局、香港積金局聯合香港數碼港公佈第一期生成式人工智慧（GenA.I.）沙盒++參與者名單，包括螞蟻銀行（香港）、中國銀行（香港）、華夏銀行（香港）等30家金融機構，螞蟻數字科技、同花順國際、騰訊雲等27家科技公司。"
+    },
     {
       "id": "5062934",
       "time": "2026-08-27 21:41:48",
