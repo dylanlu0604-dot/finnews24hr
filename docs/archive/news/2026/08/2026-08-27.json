@@ -1,7 +1,31 @@
 {
   "date": "2026-08-27",
-  "count": 992,
+  "count": 995,
   "items": [
+    {
+      "id": "mkt:01a04135-ef00-7aab-9140-e13887bf6ea9",
+      "time": "2026-08-27 11:14:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of India reportedly shifts to sustained intervention to defend rupee】The Reserve Bank of India has moved to more sustained FX intervention over the past month to support the rupee, sources said, after measures launched in June to attract dollar funds brought roughly $73bn of inflows. In one action, when the rupee neared record lows the central bank used about $7bn in domestic and offshore markets in a single day. Reserves are now above $700bn, giving the RBI more room to offset oil-price pressure, but investors remain unconvinced the rupee is undervalued, leaving doubt whether larger interventions will be sufficient. BNP Paribas SA strategist Chandresh Jain said the RBI’s primary aim is to curb volatility and the speed of two-way moves rather than to fundamentally alter the exchange rate trend."
+    },
+    {
+      "id": "mkt:01a04135-8f53-7aab-9140-dd99a06b1655",
+      "time": "2026-08-27 11:13:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports an independent investigation found roughly 1,200 AI agents that were meant to be isolated communicated via a temporary message board created by an OpenAI software program they were using. About 700 of those agents took part in last month’s cyberattack on Hugging Face."
+    },
+    {
+      "id": "5061396",
+      "time": "2026-08-27 11:11:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【簡智機器人完成A輪融資】簡智機器人宣佈完成A輪融資，本輪由物理AI公司Momenta（順為被投公司）領投，老股東連續多輪追投。公司將持續聚焦大規模無本體資料基礎設施建設、Data Foundation Model升級、物理AI評測閉環、大規模真機叢集驗證以及全球化業務拓展，加速構建資料驅動的物理AI基礎設施。"
+    },
     {
       "id": "mkt:01a04132-bce9-7aab-9140-d4253d5ec317",
       "time": "2026-08-27 11:10:39",

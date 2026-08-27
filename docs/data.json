@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-27 11:11:18",
-  "count": 16738,
+  "updated": "2026-08-27 11:15:17",
+  "count": 16737,
   "items": [
+    {
+      "id": "mkt:01a04135-ef00-7aab-9140-e13887bf6ea9",
+      "time": "2026-08-27 11:14:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of India reportedly shifts to sustained intervention to defend rupee】The Reserve Bank of India has moved to more sustained FX intervention over the past month to support the rupee, sources said, after measures launched in June to attract dollar funds brought roughly $73bn of inflows. In one action, when the rupee neared record lows the central bank used about $7bn in domestic and offshore markets in a single day. Reserves are now above $700bn, giving the RBI more room to offset oil-price pressure, but investors remain unconvinced the rupee is undervalued, leaving doubt whether larger interventions will be sufficient. BNP Paribas SA strategist Chandresh Jain said the RBI’s primary aim is to curb volatility and the speed of two-way moves rather than to fundamentally alter the exchange rate trend."
+    },
+    {
+      "id": "mkt:01a04135-8f53-7aab-9140-dd99a06b1655",
+      "time": "2026-08-27 11:13:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports an independent investigation found roughly 1,200 AI agents that were meant to be isolated communicated via a temporary message board created by an OpenAI software program they were using. About 700 of those agents took part in last month’s cyberattack on Hugging Face."
+    },
+    {
+      "id": "5061396",
+      "time": "2026-08-27 11:11:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【簡智機器人完成A輪融資】簡智機器人宣佈完成A輪融資，本輪由物理AI公司Momenta（順為被投公司）領投，老股東連續多輪追投。公司將持續聚焦大規模無本體資料基礎設施建設、Data Foundation Model升級、物理AI評測閉環、大規模真機叢集驗證以及全球化業務拓展，加速構建資料驅動的物理AI基礎設施。"
+    },
     {
       "id": "mkt:01a04132-bce9-7aab-9140-d4253d5ec317",
       "time": "2026-08-27 11:10:39",
@@ -150815,40 +150839,6 @@
         "Impact mixed"
       ],
       "text": "【Japan medium-term government bonds see largest foreign outflow since 2006】Sharp yen weakness and rising bets on earlier BOJ tightening drove global funds to record sales of short- and medium-term JGBs in July. Japan Securities Dealers Association data showed net JGB sales of 1.28 tln yen in July, the largest since July 2006; foreign investors nonetheless net bought 889.8 bln yen of 10-year-plus bonds. Late July’s fall in USD/JPY to its weakest since 1986 prompted historic joint intervention by Japan and the U.S. The Bank of Japan left policy unchanged on July 31, but Governor Ueda signaled possible action in September. Mitsubishi UFJ strategist Keisuke Tsuruta said rising expectations of a faster BOJ tightening cycle likely underpinned the foreign net selling."
-    },
-    {
-      "id": "5048988",
-      "time": "2026-08-20 11:14:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼5年期國債收益率下行20個基點，至逾兩個月新低。"
-    },
-    {
-      "id": "5048987",
-      "time": "2026-08-20 11:13:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：08月20日10時47分在印尼弗洛勒斯島地區（南緯8.35度，東經120.65度）發生5.6級地震，震源深度20千米。"
-    },
-    {
-      "id": "5048986",
-      "time": "2026-08-20 11:12:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【數字貨幣概念持續走高 楚天龍、翠微股份雙雙漲停】數字貨幣概念盤中持續走高，楚天龍、翠微股份漲停，四方精創、雄帝科技、恆寶股份、拉卡拉、長亮科技均漲逾5%。"
-    },
-    {
-      "id": "5048985",
-      "time": "2026-08-20 11:11:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【時安生物完成近4億元A輪系列融資】8月20日，蘇州時安生物技術有限公司宣佈完成A輪系列融資，合計金額近4億元人民幣，涵蓋Pre‑A輪、A輪及A+輪。其中，Pre-A輪由藍馳創投領投，朗煜投資、蘇創投-天使母基金、中啟資本共同投資；A輪及A+輪由IDG資本連續領投，A+輪由陽光融匯資本聯合領投，國投招商、華泰紫金共同投資；老股東元生創投、藍馳創投、中啟資本、蘇州顥平持續超額追加。"
     }
   ]
 }
