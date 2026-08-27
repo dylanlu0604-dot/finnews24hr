@@ -1,7 +1,149 @@
 {
   "date": "2026-08-27",
-  "count": 1578,
+  "count": 1594,
   "items": [
+    {
+      "id": "5062934",
+      "time": "2026-08-27 21:41:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，Vista 上市估值或超 100 億美元。"
+    },
+    {
+      "id": "5062933",
+      "time": "2026-08-27 21:41:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CHRONOSCALE股價上漲9.4%，此前宣佈與微軟達成人工智慧基礎設施合作，將在北美部署50兆瓦人工智慧算力。"
+    },
+    {
+      "id": "5062932",
+      "time": "2026-08-27 21:41:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "道明銀行執行長：本行正專注於在2028日曆年年底前開設100家新店與100家新分行，目前仍在推進相關工作，以挖掘截至2030年的更多增長機遇。"
+    },
+    {
+      "id": "5062931",
+      "time": "2026-08-27 21:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "私人飛機企業 Vista 據稱考慮明年在歐洲進行 10 億美元規模的首次公開募股。"
+    },
+    {
+      "id": "5062930",
+      "time": "2026-08-27 21:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【徐麟李炳軍會見國家資料局黨組書記、局長劉烈宏一行】貴州日報訊息，2026中國國際大資料產業博覽會召開前夕，8月27日，貴州省委書記徐麟，省委副書記、省長李炳軍在貴陽會見國家資料局黨組書記、局長劉烈宏一行。徐麟、李炳軍說，希望國家資料局與貴州共同把數博會辦出更大影響力、結出更豐碩成果，在政策、專案、資金、人才等方面加強指導支援，助力貴州在實施數字經濟戰略上搶新機、更好引領支撐高質量發展。劉烈宏指出，近年來貴州搶抓機遇，推動數字經濟發展不斷取得新成效。國家資料局將繼續大力支援貴州在數字中國建設方面探索更多經驗，與貴州共同把數博會打造成資料產業領域的國際知名盛會。"
+    },
+    {
+      "id": "mkt:01a04373-2fa4-7aab-9153-6af80d7c63cd",
+      "time": "2026-08-27 21:40:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran official says no commodity shortages; main issue is rising prices】An Iranian industry association chief told state news agency IRNA that despite a US maritime blockade Iran has no domestic commodity shortages, but is facing sharply higher prices driven by logistics disruptions and longer, costlier rail and road routes. He said the war has placed heavy strain on the economy. Washington’s new round of sanctions announced on Monday pushed the rial to a record low against the US dollar."
+    },
+    {
+      "id": "5062929",
+      "time": "2026-08-27 21:40:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市新型資訊基礎設施高質量發展2026年三季度工作會議召開】上海經信委訊息，8月27日，上海市經濟資訊化委召開上海市新型資訊基礎設施高質量發展2026年三季度工作會議。"
+    },
+    {
+      "id": "te:markets:578735",
+      "time": "2026-08-27 21:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.10% Higher — The Dow Jones Index is up by 54 points or 0.10 percent on Thursday. Top gainers are Nvidia (6.89%), IBM (1.44%) and Goldman Sachs (1.12%). Biggest losses came from Alphabet (-1.75%), Amazon (-1.61%) and Merck (-1.55%)."
+    },
+    {
+      "id": "5062928",
+      "time": "2026-08-27 21:40:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2026年上半年中國線路板產業投資額約1167億元 同比增長168%】根據CINNO·ICResearch最新統計資料顯示，2026年上半年中國線路板產業投資額約為1167億元，同比增長168%，投資規模實現跨越式增長，行業景氣度顯著回升。"
+    },
+    {
+      "id": "5062927",
+      "time": "2026-08-27 21:39:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道明銀行CEO預計到2028年底將在美國新開設100家分行。"
+    },
+    {
+      "id": "5062926",
+      "time": "2026-08-27 21:39:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德國下薩克森州考慮向大眾奧斯納布呂克工廠進行投資。"
+    },
+    {
+      "id": "te:markets:578734",
+      "time": "2026-08-27 21:39:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Hits Near 3-Month Peak — The Baltic Exchange’s dry bulk sea freight index rose 2.1% to 3,107 on Thursday, marking a sixth consecutive session of gains and reaching its highest level since June 3. The index tracks rates for capesize, panamax and supramax vessels. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for a sixth day, advancing 2.1% to its highest since June 3 at 5,138 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, gained for the fifth session, rising 2.1% to its highest since August 12 at 2,292 points. Among smaller vessels, the supramax index edged up by 0.1% to 1,645 points."
+    },
+    {
+      "id": "5062925",
+      "time": "2026-08-27 21:39:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳強力回擊“迴圈融資”質疑：當時應該投再多一些的】作為全球市值最高的企業，英偉達近期因涉嫌“迴圈融資”（Circular Financing）持續受到市場審視——外界質疑其透過投資下游晶片採購客戶、或利用自身資產負債表為客戶融資提供擔保，以間接推高自身晶片需求。對此，英偉達高管層昨日予以全面反駁，明確表示市場無需擔憂。英偉達首席財務官（CFO）科萊特·克雷斯（Colette Kress）昨日表示：“我們清楚這種支援的規模，也知道有人將其稱為迴圈融資。但我們的看法截然不同，我們在這些投資上獲得的股權回報將會非常亮眼。”執行長（CEO）黃仁勳在財報釋出後接受採訪時也為相關交易架構辯護。他指出，目前有數家前沿 AI 實驗室屬於“一代人僅見一次的企業”，英偉達不僅希望作為投資者支援他們，更希望成為其合作伙伴。黃仁勳表示：“我們當然樂見他們在我們的底座上構建生態，並與我們一同擴大業務規模。因此，早期對他們的投資是一次絕佳的機遇。坦白說，我只後悔當初沒能投得更多。”"
+    },
+    {
+      "id": "5062924",
+      "time": "2026-08-27 21:39:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "Veeva 股價大漲近 17%，為 2025 年 5 月以來最大漲幅。"
+    },
+    {
+      "id": "5062923",
+      "time": "2026-08-27 21:38:41",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【六大行釋出中小微企業、服務業經營主體貸款貼息細則】 財政部、中國人民銀行、金融監管總局日前對外發布通知，明確進一步做好財政金融協同促內需政策有關工作。目前，工商銀行、農業銀行、中國銀行、建設銀行、交通銀行、郵儲銀行等多家銀行已釋出公告，明確中小微企業貸款貼息及服務業經營主體貸款貼息政策的落實情況。可享受貼息的貸款規模上限有所提高。相關銀行公告稱，單戶在單家經辦機構可享受中小微企業貸款貼息的貸款規模上限由每年5000萬元提高至7500萬元；單戶在單家經辦機構可享受服務業經營主體貸款貼息的貸款規模上限由每年1000萬元提高至2000萬元。（新華社）"
+    },
+    {
+      "id": "5062922",
+      "time": "2026-08-27 21:38:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局就《壟斷協議個人責任適用指引》向社會公開徵求意見】市場監管總局就《壟斷協議個人責任適用指引》向社會公開徵求意見。明確壟斷協議個人責任的追責範圍、追責情形和裁量因素等，提升反壟斷穿透式監管水平，不斷增強反壟斷執法威懾力。《徵求意見稿》的制定，有助於鎖定完整壟斷違法鏈條，實現穿透到底、追責到人，切實增強反壟斷執法威懾力。同時，有助於督促提升企業管理者對競爭合規的重視程度，將外部監管壓力轉化為內部治理動力，引導企業主動建立競爭合規制度，開展壟斷風險排查，更好從源頭化解壟斷行為，切實維護公平競爭秩序，為全國統一大市場建設提供長效保障。"
+    },
     {
       "id": "5062921",
       "time": "2026-08-27 21:38:04",
