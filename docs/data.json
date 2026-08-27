@@ -1,7 +1,155 @@
 {
-  "updated": "2026-08-27 10:39:02",
-  "count": 16695,
+  "updated": "2026-08-27 10:43:27",
+  "count": 16708,
   "items": [
+    {
+      "id": "mkt:01a04119-5758-7aab-9140-22231482005f",
+      "time": "2026-08-27 10:42:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ChiNext Index gains widened to 1.0%; Shanghai Composite rose 0.2% and Shenzhen Composite climbed 0.68%. Electronic components, CPO and semiconductor names led advances on the A-share market."
+    },
+    {
+      "id": "te:economy:578452",
+      "time": "2026-08-27 10:42:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Japan 10Y Yield Gains as Traders Weigh BOJ Outlook — Japan’s 10-year government bond yield climbed to around 2.89% on Thursday as investors continued to evaluate the outlook for Bank of Japan monetary policy. Markets are currently pricing in around an 87% chance of a 25 basis point BOJ rate hike in September to 1.25%, up sharply from about 23% before the central bank’s July meeting. Earlier this week, former BOJ board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, warning that keeping rates unchanged could reignite a yen selloff and accelerate import-driven inflation. Investors now await BOJ Deputy Governor Ryozo Himino’s speech later in the day for further guidance. Meanwhile, BOJ Governor Kazuo Ueda will not attend the Federal Reserve’s annual Jackson Hole symposium this week due to a scheduling conflict."
+    },
+    {
+      "id": "mkt:01a04118-7bb9-7aab-9140-1c6c37a60e56",
+      "time": "2026-08-27 10:41:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea 3-year government bond futures rose more than 20 bps."
+    },
+    {
+      "id": "mkt:01a04118-7b00-7aab-9140-10447b8484e4",
+      "time": "2026-08-27 10:41:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude-3.3 earthquake at 10:34 CST on Aug 27 in Gao County, Yibin, Sichuan (28.52°N, 104.67°E); hypocenter depth 8 km."
+    },
+    {
+      "id": "mkt:01a04118-72e9-7aab-9140-0e545206c3a2",
+      "time": "2026-08-27 10:41:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Thailand to raise renewables share and introduce nuclear】Thailand plans to cut reliance on imported natural gas by boosting renewables and adding nuclear, Energy Minister Akanat Promphan said. The government aims to lift generation from solar, wind and hydropower to 60% over the next 25 years, doubling its previous target. More than 60% of Thailand’s current power comes from natural gas, much of it imported, exposing the system to external shocks such as Middle East conflict. The shift requires rapid expansion of renewable capacity as electricity demand is set to rise sharply, supported by billions of dollars of data centre, cloud and advanced manufacturing investment. The revised power plan will include nuclear for the first time and the government is studying small modular reactors as a potential stable, low‑carbon complement to intermittent renewables."
+    },
+    {
+      "id": "5061351",
+      "time": "2026-08-27 10:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：點狀圖指向更平緩的加息節奏。"
+    },
+    {
+      "id": "mkt:01a04117-bcad-7aab-9140-017c129cb27b",
+      "time": "2026-08-27 10:41:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of Korea governor says he expects to raise interest rates gradually."
+    },
+    {
+      "id": "5061350",
+      "time": "2026-08-27 10:40:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞鐵礦石生產商福德士河考慮首發熊貓債，計劃融資不超過30億元。"
+    },
+    {
+      "id": "mkt:01a04117-703e-7aab-913f-fa5ef386b835",
+      "time": "2026-08-27 10:40:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor said the FX market has slightly stabilized and the Korean won may strengthen further to help ease inflation."
+    },
+    {
+      "id": "mkt:01a04117-29ed-7aab-913f-f7943e5a4e7a",
+      "time": "2026-08-27 10:40:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says the impact of recent rate hikes needs to be assessed."
+    },
+    {
+      "id": "5061349",
+      "time": "2026-08-27 10:40:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：預計利率將逐步上調。"
+    },
+    {
+      "id": "5061348",
+      "time": "2026-08-27 10:40:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報3449.274點；上證指數漲0.18%，現報3919.497點；深證成指漲0.68%，現報13934.903點。"
+    },
+    {
+      "id": "5061347",
+      "time": "2026-08-27 10:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長飛光纖淨買入超13億】截至目前，今日主力資金淨流入156.68億；淨流入晶片概念、TMT、年度強勢等板塊，其中晶片概念板塊淨流入234.62億；淨流出電力裝置、新能源、茅指數等板塊，其中電力裝置板塊淨流出50.28億。\n  \n個股方面，長飛光纖淨買入13.05億元位居首位，天孚通訊、中天科技、生益科技主力資金淨流入居前；陽光電源淨賣出11.61億元位居首位，寧德時代、洛陽鉬業、思源電氣淨流出額居前。"
+    },
+    {
+      "id": "5061346",
+      "time": "2026-08-27 10:39:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【複合銅箔概念震盪走高 嘉德利漲停】複合銅箔概念震盪走高，嘉德利漲停，洪田股份、東威科技、東材科技、德福科技、銅冠銅箔等漲幅居前。"
+    },
+    {
+      "id": "5061345",
+      "time": "2026-08-27 10:39:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：自2024年以來，金融脆弱性指數大幅上升。"
+    },
+    {
+      "id": "mkt:01a04115-769e-7aab-913f-eb43361f750e",
+      "time": "2026-08-27 10:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says the central bank will continue to closely monitor financial stability."
+    },
+    {
+      "id": "5061344",
+      "time": "2026-08-27 10:38:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念漲勢擴大 金安國紀等近十股漲停】PCB概念盤中漲勢擴大，金安國紀、協和電子、嘉立創封漲停，此前肯特股份、沃特股份、宏昌電子等多股漲停，聯瑞新材、科翔股份、凌瑋科技、中英科技等多股均漲超10%。"
+    },
     {
       "id": "mkt:01a04114-fd75-7aab-913f-e3904047eac3",
       "time": "2026-08-27 10:38:09",
@@ -150401,46 +150549,6 @@
         "公司"
       ],
       "text": "【陝西省人民政府：同意李嘉輝為長安銀行行長人選，葉瑛不再擔任長安銀行行長職務】8月20日，陝西省人民政府網站釋出的一則任免通知顯示，省政府2026年8月15日決定，任命李嘉輝為長安銀行股份有限公司董事。免去葉瑛長安銀行股份有限公司董事職務。同意李嘉輝為長安銀行股份有限公司行長人選；葉瑛不再擔任長安銀行股份有限公司行長職務。"
-    },
-    {
-      "id": "te:markets:576695",
-      "time": "2026-08-20 10:42:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Rise as Global Yields Retreat — Asian equity markets rebounded on Thursday as global bond yields pulled back from multi-year highs after the US government moved to rein in long-term borrowing costs by expanding its buyback program. The US Treasury Department announced it would more than double repurchases of 10-, 20- and 30-year debt over the coming months after the US 30-year Treasury yield surged to its highest level since 2007 earlier this week. Sovereign yields across major Asian economies also eased, with Japan’s 10-year yield retreating from a 30-year high. South Korea’s KOSPI surged around 6% as chipmakers rebounded sharply, while Japan’s Nikkei gained 1%. Shares in Australia, China and Hong Kong also advanced."
-    },
-    {
-      "id": "5048961",
-      "time": "2026-08-20 10:42:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【MatriQ原子矩陣完成數億元A+輪融資】8月20日，MatriQ原子矩陣宣佈近期完成數億元人民幣A+輪融資。本輪融資由雲鋒基金、三七互娛、普華資本、財通資本、上海半導體產投、唐興資本、博睿資本、合創資本、海邦投資等多家機構共同參與，老股東民銀國際持續加註，融資陣容覆蓋頭部財投、產業資本、國有資本等多元資本。介面新聞瞭解到，自2025年下半年啟動首輪融資至今，原子矩陣在一年內密集完成四輪，累計融資近10億元。"
-    },
-    {
-      "id": "te:markets:576693",
-      "time": "2026-08-20 10:40:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Equities Rally After BI Rate Decision — Indonesian shares surged 69 points, or 1.1%, to 6,465 in early Thursday trade, rebounding from the prior session’s weakness with broad gains across major sectors. Sentiment was lifted after Bank Indonesia held its benchmark rate steady at 5.75% for a second month on Wednesday, in line with estimates, following cumulative hikes of 100bps since May. In main trading partner China, lending benchmarks were also left unchanged for a 15th straight month, with one- and five-year LPRs kept at record lows to support growth. However, caution lingered ahead of Q2 current account data due later this week, after Q1’s deficit widened to its largest since 2019 on weaker trade. Meanwhile, FTSE Russell said it will delay additions, upgrades, and weight increases for Indonesian stocks until at least its December review as it evaluates market reforms. Early standouts included Hartadinata Abadi (8.3%), Amman Mineral International (7.2%), Vale Indonesia (3.4%), and Aneka Tambang (3.3%)."
-    },
-    {
-      "id": "5048960",
-      "time": "2026-08-20 10:40:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：紫金礦業淨買入超18億】截至目前，今日主力資金淨流入82.85億；淨流入醫藥生物、生物醫藥、融資融券等板塊，其中醫藥生物板塊淨流入94.89億；淨流出東數西算、晶片概念、商業航天（航天航空）等板塊，其中東數西算板塊淨流出37.98億。\n  \n個股方面，紫金礦業淨買入18.89億元位居首位，通鼎互聯、藥明康德、赤峰黃金主力資金淨流入居前；中際旭創淨賣出8.83億元位居首位，C宇樹、金風科技、長鑫科技淨流出額居前。"
     }
   ]
 }

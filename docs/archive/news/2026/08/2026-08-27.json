@@ -1,7 +1,155 @@
 {
   "date": "2026-08-27",
-  "count": 907,
+  "count": 924,
   "items": [
+    {
+      "id": "mkt:01a04119-5758-7aab-9140-22231482005f",
+      "time": "2026-08-27 10:42:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ChiNext Index gains widened to 1.0%; Shanghai Composite rose 0.2% and Shenzhen Composite climbed 0.68%. Electronic components, CPO and semiconductor names led advances on the A-share market."
+    },
+    {
+      "id": "te:economy:578452",
+      "time": "2026-08-27 10:42:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Japan 10Y Yield Gains as Traders Weigh BOJ Outlook — Japan’s 10-year government bond yield climbed to around 2.89% on Thursday as investors continued to evaluate the outlook for Bank of Japan monetary policy. Markets are currently pricing in around an 87% chance of a 25 basis point BOJ rate hike in September to 1.25%, up sharply from about 23% before the central bank’s July meeting. Earlier this week, former BOJ board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, warning that keeping rates unchanged could reignite a yen selloff and accelerate import-driven inflation. Investors now await BOJ Deputy Governor Ryozo Himino’s speech later in the day for further guidance. Meanwhile, BOJ Governor Kazuo Ueda will not attend the Federal Reserve’s annual Jackson Hole symposium this week due to a scheduling conflict."
+    },
+    {
+      "id": "mkt:01a04118-7bb9-7aab-9140-1c6c37a60e56",
+      "time": "2026-08-27 10:41:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea 3-year government bond futures rose more than 20 bps."
+    },
+    {
+      "id": "mkt:01a04118-7b00-7aab-9140-10447b8484e4",
+      "time": "2026-08-27 10:41:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude-3.3 earthquake at 10:34 CST on Aug 27 in Gao County, Yibin, Sichuan (28.52°N, 104.67°E); hypocenter depth 8 km."
+    },
+    {
+      "id": "mkt:01a04118-72e9-7aab-9140-0e545206c3a2",
+      "time": "2026-08-27 10:41:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Thailand to raise renewables share and introduce nuclear】Thailand plans to cut reliance on imported natural gas by boosting renewables and adding nuclear, Energy Minister Akanat Promphan said. The government aims to lift generation from solar, wind and hydropower to 60% over the next 25 years, doubling its previous target. More than 60% of Thailand’s current power comes from natural gas, much of it imported, exposing the system to external shocks such as Middle East conflict. The shift requires rapid expansion of renewable capacity as electricity demand is set to rise sharply, supported by billions of dollars of data centre, cloud and advanced manufacturing investment. The revised power plan will include nuclear for the first time and the government is studying small modular reactors as a potential stable, low‑carbon complement to intermittent renewables."
+    },
+    {
+      "id": "5061351",
+      "time": "2026-08-27 10:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：點狀圖指向更平緩的加息節奏。"
+    },
+    {
+      "id": "mkt:01a04117-bcad-7aab-9140-017c129cb27b",
+      "time": "2026-08-27 10:41:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of Korea governor says he expects to raise interest rates gradually."
+    },
+    {
+      "id": "5061350",
+      "time": "2026-08-27 10:40:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞鐵礦石生產商福德士河考慮首發熊貓債，計劃融資不超過30億元。"
+    },
+    {
+      "id": "mkt:01a04117-703e-7aab-913f-fa5ef386b835",
+      "time": "2026-08-27 10:40:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor said the FX market has slightly stabilized and the Korean won may strengthen further to help ease inflation."
+    },
+    {
+      "id": "mkt:01a04117-29ed-7aab-913f-f7943e5a4e7a",
+      "time": "2026-08-27 10:40:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says the impact of recent rate hikes needs to be assessed."
+    },
+    {
+      "id": "5061349",
+      "time": "2026-08-27 10:40:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：預計利率將逐步上調。"
+    },
+    {
+      "id": "5061348",
+      "time": "2026-08-27 10:40:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報3449.274點；上證指數漲0.18%，現報3919.497點；深證成指漲0.68%，現報13934.903點。"
+    },
+    {
+      "id": "5061347",
+      "time": "2026-08-27 10:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長飛光纖淨買入超13億】截至目前，今日主力資金淨流入156.68億；淨流入晶片概念、TMT、年度強勢等板塊，其中晶片概念板塊淨流入234.62億；淨流出電力裝置、新能源、茅指數等板塊，其中電力裝置板塊淨流出50.28億。\n  \n個股方面，長飛光纖淨買入13.05億元位居首位，天孚通訊、中天科技、生益科技主力資金淨流入居前；陽光電源淨賣出11.61億元位居首位，寧德時代、洛陽鉬業、思源電氣淨流出額居前。"
+    },
+    {
+      "id": "5061346",
+      "time": "2026-08-27 10:39:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【複合銅箔概念震盪走高 嘉德利漲停】複合銅箔概念震盪走高，嘉德利漲停，洪田股份、東威科技、東材科技、德福科技、銅冠銅箔等漲幅居前。"
+    },
+    {
+      "id": "5061345",
+      "time": "2026-08-27 10:39:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：自2024年以來，金融脆弱性指數大幅上升。"
+    },
+    {
+      "id": "mkt:01a04115-769e-7aab-913f-eb43361f750e",
+      "time": "2026-08-27 10:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says the central bank will continue to closely monitor financial stability."
+    },
+    {
+      "id": "5061344",
+      "time": "2026-08-27 10:38:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念漲勢擴大 金安國紀等近十股漲停】PCB概念盤中漲勢擴大，金安國紀、協和電子、嘉立創封漲停，此前肯特股份、沃特股份、宏昌電子等多股漲停，聯瑞新材、科翔股份、凌瑋科技、中英科技等多股均漲超10%。"
+    },
     {
       "id": "mkt:01a04114-fd75-7aab-913f-e3904047eac3",
       "time": "2026-08-27 10:38:09",
