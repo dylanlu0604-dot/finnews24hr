@@ -1,7 +1,234 @@
 {
   "date": "2026-08-27",
-  "count": 1553,
+  "count": 1578,
   "items": [
+    {
+      "id": "5062921",
+      "time": "2026-08-27 21:38:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨： 把加沙邊境放飛風箏行為定性為“恐怖主義”。"
+    },
+    {
+      "id": "mkt:01a04371-2630-7aab-9153-67ed34d7554a",
+      "time": "2026-08-27 21:38:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Israel's defense minister said Israel will treat cross-border kite flights from the Gaza Strip as terrorism and may carry out clearance operations in areas adjacent to kite-launch sites."
+    },
+    {
+      "id": "te:markets:578733",
+      "time": "2026-08-27 21:37:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips on Strong Jobs Data — The Ibovespa edged lower to trade below 174,500 on Thursday following July’s unemployment data and a rebound in oil prices. Brazil’s unemployment rate stood at 5.3% in the three months through July, in line with forecasts. The labor market remains highly resilient, with the employed population and the number of formally employed workers reaching record highs, which could lead the Copom to pause its 25-basis-point-per-meeting easing cycle. Meanwhile, oil prices rebounded after the US and Iran traded recriminations over Washington’s pledge to increase economic pressure on Iran by targeting its trade partners with sanctions, renewing concerns over energy costs. Financials were mostly lower, with Itaú, Bradesco and Itaúsa down about 0.5%. Caixa edged higher after reporting a 5.9% increase in 2Q profit and an expansion in its credit portfolio. Petrobras fell near 0.5% despite higher oil prices, which remain volatile and lower on a weekly basis."
+    },
+    {
+      "id": "te:markets:578732",
+      "time": "2026-08-27 21:37:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amazon Stock Price Hits 4-week Low — Amazon shares decreased to 256.88 USD, the lowest since July 2026. Over the past 4 weeks, Amazon gained 11.28%, and in the last 12 months, it increased 12.39%."
+    },
+    {
+      "id": "5062920",
+      "time": "2026-08-27 21:37:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股恐慌指數（VIX）觸及一週低點，最新下跌0.17點，報15.04點。"
+    },
+    {
+      "id": "5062919",
+      "time": "2026-08-27 21:36:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "TENABLE股價上漲7%，此前該公司將獲納入標普小盤股600指數。"
+    },
+    {
+      "id": "5062918",
+      "time": "2026-08-27 21:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【AI基建狂潮席捲美國 算力裝置進口激增推動貿易逆差創2025年3月以來新高】美國7月商品進口資料超預期增長3.7%，而美國商品出口則下降2.9%。資本貨物(主要包括計算機及配件、半導體和電信裝置)進口創下自1993年以來的最大增幅。這與人工智慧資料中心持續進口高效能AI伺服器元件、AI算力核心加速器、網路基礎設施裝置、資料中心電力系統和液冷部件的實物交付邏輯高度一致。"
+    },
+    {
+      "id": "5062917",
+      "time": "2026-08-27 21:36:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國化學工程與科萊恩公司就深化石化領域技術研發等議題座談交流】中國化學工程集團有限公司訊息，8月27日，中國化學工程總經理鄧兆敬在集團總部會見科萊恩公司催化劑全球業務總裁嚴坤澤一行，雙方就深化石化領域技術研發、工程專案合作等議題進行座談交流，並簽署合作協議。"
+    },
+    {
+      "id": "5062916",
+      "time": "2026-08-27 21:36:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【味千（中國）：上半年股東應占溢利1696.7萬元，同比下降30%】8月27日，味千（中國）在港交所公告，上半年營業額8.9億元，同比增長1.7%；股東應占溢利1696.7萬元，同比下降30%；基本每股盈利0.02元。報告期內，營業額增長主要受惠於香港餐廳業務收入大幅上升（增加約26%），抵銷中國內地餐廳銷售的輕微下跌。"
+    },
+    {
+      "id": "5062915",
+      "time": "2026-08-27 21:36:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數觸及一週低點，最新下跌0.17點，報15.04。"
+    },
+    {
+      "id": "mkt:01a0436f-5dbd-7aab-9153-5f6023db2057",
+      "time": "2026-08-27 21:36:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SOXX.O",
+        "Impact bullish",
+        "ROAM.O"
+      ],
+      "text": "iShares Semiconductor ETF rose 2.0%; Roundhill Memory ETF gained 2.2%."
+    },
+    {
+      "id": "5062914",
+      "time": "2026-08-27 21:36:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：將制定非計劃性假日結算相關運營活動的標準操作程式。"
+    },
+    {
+      "id": "5062913",
+      "time": "2026-08-27 21:35:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "溫蒂漢堡股價下跌13%，此前有報道稱特里安基金暫無收購該公司的計劃。"
+    },
+    {
+      "id": "5062912",
+      "time": "2026-08-27 21:35:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "道明銀行執行長Raymond Chun表示，貿易緊張局勢並未削弱加拿大的投資機會，因各級政府正尋求推動新的經濟活動。"
+    },
+    {
+      "id": "mkt:01a0436e-e5c4-7aab-9153-533bca786841",
+      "time": "2026-08-27 21:35:36",
+      "tags": [
+        "MKT News",
+        "MRNA.O",
+        "Impact bearish"
+      ],
+      "text": "Moderna (MRNA.O) shares fell 3.6% after the company announced plans to issue $2 billion of convertible bonds."
+    },
+    {
+      "id": "5062911",
+      "time": "2026-08-27 21:35:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "多倫多道明銀行執行長Raymond Chun表示：預計2026財年總信貸損失撥備率將接近此前40至50個基點區間的低端。"
+    },
+    {
+      "id": "5062910",
+      "time": "2026-08-27 21:35:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "OKTA股價上漲25%，觸及2022年以來的最高盤中水平。"
+    },
+    {
+      "id": "mkt:01a0436e-a16a-7aab-9153-4b997818c74b",
+      "time": "2026-08-27 21:35:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index posts sixth straight gain, hits nearly three-month high】The Baltic Dry Index rose for a sixth consecutive session on Thursday to a nearly three-month high as freight rates across vessel classes advanced. The BDI climbed 51 points, or 1.7%, to 3,107. The Baltic Capesize Index (BCI) gained 105 points, or 2.1%, to 5,138 — its highest since June 3; Capesize average daily earnings rose $950 to $43,098. The Baltic Panamax Index (BPI) added 46 points, or 2.1%, to 2,292, its highest since Aug. 12; Panamax average daily earnings increased $419 to $20,632. The Baltic Supramax Index (BSI) ticked up 1 point, or 0.06%, to 1,645."
+    },
+    {
+      "id": "5062909",
+      "time": "2026-08-27 21:35:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美股雲端計算公司股價上漲，Nebius漲5%，Coreweave上漲2.6%。"
+    },
+    {
+      "id": "mkt:01a0436e-8515-7aab-9153-40e5a7f71eab",
+      "time": "2026-08-27 21:35:11",
+      "tags": [
+        "MKT News",
+        "NBIS.O",
+        "Impact bullish",
+        "CRWV.O"
+      ],
+      "text": "U.S. cloud computing stocks rose: Nebius (NBIS.O) up 5%, Coreweave (CRWV.O) up 2.6%."
+    },
+    {
+      "id": "5062908",
+      "time": "2026-08-27 21:34:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛屯礦業：向西藏吉隆災區捐贈1000萬元】盛屯礦業公告稱，尼泊爾一側爆發泥石流災害波及西藏日喀則市吉隆縣吉隆口岸，公司決定向西藏自治區慈善總會捐贈1000萬元，專項用於西藏吉隆災區搶險救援、受災群眾臨時安置、生活保障及後續災後重建等工作。本次捐贈無需提交董事會及股東會審議，不涉及關聯交易，不構成重大資產重組，資金來源於公司自有資金，對公司當期及未來經營業績不構成重大影響。"
+    },
+    {
+      "id": "5062907",
+      "time": "2026-08-27 21:34:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泛微網路：王晨志、楊國生擬減持不超過0.0442%股份】泛微網路公告，董事、副總經理王晨志因個人資金需求，擬於2026年9月18日至2026年12月17日透過集中競價減持不超過81000股，約佔總股本0.0263%；副總經理楊國生擬減持不超過55000股，約佔總股本0.0179%。二人合計擬減持不超過13.6萬股，佔總股本比例不超過0.0442%。"
+    },
+    {
+      "id": "5062906",
+      "time": "2026-08-27 21:34:40",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美股半導體股走高，Arm漲3.7%，SK海力士漲3.6%，英特爾漲3.5%，博通漲2.5%。"
+    },
+    {
+      "id": "5062905",
+      "time": "2026-08-27 21:34:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報87.84美元/桶。"
+    },
+    {
+      "id": "5062904",
+      "time": "2026-08-27 21:34:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "賽富時在上調全年業績預期後，股價大漲13.8%。"
+    },
     {
       "id": "5062903",
       "time": "2026-08-27 21:34:02",
