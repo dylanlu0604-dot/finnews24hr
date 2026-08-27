@@ -1,7 +1,112 @@
 {
-  "updated": "2026-08-27 10:30:54",
-  "count": 16681,
+  "updated": "2026-08-27 10:34:52",
+  "count": 16685,
   "items": [
+    {
+      "id": "5061333",
+      "time": "2026-08-27 10:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "工業和資訊化部緊急組織西藏吉隆搶險救災應急通訊保障。（新華社）"
+    },
+    {
+      "id": "5061332",
+      "time": "2026-08-27 10:33:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10萬張國產卡支援海外最火模型“牛來”】8月26日晚，智譜開源GLM-5.3-Flash，據悉， GLM-5.3-Flash全部線上流量由10萬張國產晶片承載，正式釋出前，該模型以匿名身份（中文社群稱作“牛來”）在OpenRouter、OpenCode兩大海外平臺測試，迅速登頂並重新整理雙平臺歷史紀錄，Token呼叫量高達62T，並且這些請求流量全部由國產晶片提供算力支援。這是國產算力晶片首次大規模集體出海支援，直接服務全球真實負載。據瞭解，其算力供應商或來自華為、海光、摩爾執行緒。 (科創板日報)"
+    },
+    {
+      "id": "mkt:01a04110-23a0-7aab-913f-a873aca81662",
+      "time": "2026-08-27 10:32:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Ship-tracking data show shipping activity in key Gulf waterways is weak; markets are monitoring progress in related negotiations."
+    },
+    {
+      "id": "5061331",
+      "time": "2026-08-27 10:31:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏官員稱，無人機殘骸損毀烏克蘭伊茲梅爾附近一艘船隻。"
+    },
+    {
+      "id": "5061330",
+      "time": "2026-08-27 10:31:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數與東證指數均跌0.1%。"
+    },
+    {
+      "id": "mkt:01a0410e-ffd0-7aab-913f-a5efb850862c",
+      "time": "2026-08-27 10:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor said South Korean government bond yields are declining, which can be interpreted as the market reacting positively to Thursday's interest-rate decision."
+    },
+    {
+      "id": "5061329",
+      "time": "2026-08-27 10:31:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：維持安踏體育“跑贏行業”評級 目標價110.91港元】中金髮布研報稱，維持安踏體育(02020)跑贏行業評級，公司2026年上半年收入同比增13%至435億元，再創歷史新高，目標價維持110.91港元(對應2026/27年18/17倍扣非市盈率，有41%上行空間)。該行考慮盈利水平或將提升，上調2026/27年扣非後EPS預測4%/5%至5.19/5.62元。"
+    },
+    {
+      "id": "mkt:01a0410e-a8dc-7aab-913f-9c1d399670e8",
+      "time": "2026-08-27 10:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share defense/military-equipment sector surged intraday; Chengfei Integration hit the daily limit-up, with Guangdian, AVIC Chengfei, AVIC Shenyang, Beifang Changlong and Lijun Shares quickly following higher."
+    },
+    {
+      "id": "mkt:01a0410e-534e-7aab-913f-90c527324016",
+      "time": "2026-08-27 10:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor said those who dissented on Thursday's rate decision have 'strategic' differences in economic views."
+    },
+    {
+      "id": "5061328",
+      "time": "2026-08-27 10:30:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "菲律賓央行行長：預計中期內通脹率將更接近目標水平。"
+    },
+    {
+      "id": "5061327",
+      "time": "2026-08-27 10:30:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "申鉉松：注意到國債收益率正在走低，將此解讀為市場對週四利率決定作出積極回應。"
+    },
+    {
+      "id": "mkt:01a0410d-f1a7-7aab-913f-88b3aadcc3cb",
+      "time": "2026-08-27 10:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea governor says monetary policy alone cannot stabilize housing prices."
+    },
     {
       "id": "mkt:01a0410d-e394-7aab-913f-829b0b5cb871",
       "time": "2026-08-27 10:30:24",
@@ -150256,83 +150361,6 @@
         "公司"
       ],
       "text": "【大連萬達商管等被執行2.5億】天眼查法律訴訟資訊顯示，近日，大連萬達商業管理集團股份有限公司等新增一條被執行人資訊，執行標的2.5億餘元，執行法院為江蘇省南通市中級人民法院。該公司成立於2002年9月，法定代表人為陳洪濤，註冊資本約271.6億人民幣，經營範圍包括商業綜合體管理服務、非居住房地產租賃、物業管理等。"
-    },
-    {
-      "id": "mkt:01a01d05-2baf-7aab-90a7-59475c58e96a",
-      "time": "2026-08-20 10:34:33",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "【Goldman: short- and long-term winners diverging; US equity leadership beginning to rotate】Goldman’s trading desk says the internal structure of the US equity momentum factor is shifting. Overlap between 12-month and 3-month winners has dropped to multi-year lows, while overlap of 12-month winners with 3-month losers is near multi-year highs, causing the 3-month momentum portfolio to diverge from the 12-month portfolio. Sector weights illustrate the shift: software is the biggest weight on the 3-month momentum long side and the biggest weight on the 12-month momentum short side. On the same trading day, semiconductors fell about 6.5% while software rose about 1%, underscoring a reassessment of short-term winners within tech."
-    },
-    {
-      "id": "5048954",
-      "time": "2026-08-20 10:34:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年上半年中國人形機器人出貨量已超過4萬臺】8月20日，在2026世界機器人大會上，中國電子學會理事會黨委書記、中國人形機器人與具身智慧百人會理事長張峰釋出《2026年人形機器人產業發展報告》。《報告》中提到，2026年上半年，中國人形機器人出貨量已超過4萬臺，全球佔比進一步提升至97%。"
-    },
-    {
-      "id": "5048953",
-      "time": "2026-08-20 10:34:08",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【新加坡當局開始調查鐵礦石貿易商Radiant World】新加坡警方一位發言人週四表示，在收到有關鐵礦石貿易商Radiant World的報告後，當局已開始對該公司展開調查。據知情人士此前透露，由於部分交易對手擔心Radiant World曾向銀行提供與鐵礦石交易相關的偽造檔案，美國司法部正在調查該公司的業務。部分知情人士稱，美國商品期貨交易委員會也在審查涉及Radiant World及其債權人的交易。Radiant World尚未被指控存在任何不當行為，而調查也不一定會導致正式指控。該公司上週晚些時候表示，尚未獲悉美國方面正在進行的任何調查。"
-    },
-    {
-      "id": "5048952",
-      "time": "2026-08-20 10:33:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【文化傳媒概念板塊短線拉昇，百納千成漲超10%】文化傳媒概念板塊短線拉昇，百納千成漲超10%，凱撒文化、吉視傳媒、歡瑞世紀、因賽集團、天龍集團等跟漲。"
-    },
-    {
-      "id": "5048951",
-      "time": "2026-08-20 10:32:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數漲1%，東證指數漲0.9%。"
-    },
-    {
-      "id": "te:markets:576692",
-      "time": "2026-08-20 10:31:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Fortescue Metals earnings above expectations at 0.55 USD — Fortescue Metals (FMG) released earnings per share at 0.55 USD, compared to market expectations of 0.54 USD."
-    },
-    {
-      "id": "te:economy:576691",
-      "time": "2026-08-20 10:31:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Lingers Near 1-Year Low — China's 10-year government bond yield rose toward 1.69% on Thursday but remained near its lowest level since July 2025 after the People's Bank of China left its benchmark lending rates unchanged at record lows for a fifteenth consecutive month. The central bank left the one-year loan prime rate (LPR) at 3.0% and the five-year LPR at 3.5%, signaling a measured policy approach as it reiterated its commitment to maintaining an accommodative monetary stance. Meanwhile, expectations for additional stimulus measures remain elevated following a string of weak July economic indicators, including softer industrial output, retail sales, and fixed-asset investment data. Looking ahead, markets are turning their attention to the National People's Congress Standing Committee meeting in Beijing from August 25 to 28, where investors will watch closely for fresh policy guidance and potential stimulus measures to support economic recovery."
-    },
-    {
-      "id": "5048950",
-      "time": "2026-08-20 10:31:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞強震死亡人數升至319人】哥倫比亞國家災害風險管理局19日晚公佈的最新資料顯示，截至當地時間19日18時30分，該國西部強震已造成319人死亡、4469人受傷、260人失蹤，另有364人獲救。資料顯示，哥倫比亞全國有15個省的476個市鎮受到此次地震影響，受災人數達27.2萬人。"
     }
   ]
 }
