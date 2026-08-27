@@ -1,7 +1,146 @@
 {
   "date": "2026-08-27",
-  "count": 1630,
+  "count": 1645,
   "items": [
+    {
+      "id": "5062973",
+      "time": "2026-08-27 22:06:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭副國防部長扎萊夫斯基表示，波蘭不希望在本國領土部署核彈頭。"
+    },
+    {
+      "id": "5062972",
+      "time": "2026-08-27 22:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "監察機構：美國攻擊型核潛艇維護困境造成數十億美元損失。"
+    },
+    {
+      "id": "5062971",
+      "time": "2026-08-27 22:06:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：據預估，Meta 每年或將向 Anthropic 人工智慧投入至多 100 億美元"
+    },
+    {
+      "id": "mkt:01a0438a-f20e-7aab-9153-cf4f006f253f",
+      "time": "2026-08-27 22:06:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. military has directed 75 vessels to alter course."
+    },
+    {
+      "id": "5062970",
+      "time": "2026-08-27 22:05:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【谷歌A市值蒸發7000億美元，AI前景引發質疑】谷歌母公司Alphabet股價較峰值已下跌約15%，市值蒸發超過7000億美元，原因是外界對谷歌母公司人才流失的質疑，以及對公司正在喪失AI競爭優勢的擔憂。該公司在AI基礎設施建設上的鉅額投入，以及新一代Gemini AI模型的延遲釋出，打擊了投資者信心。部分投資者對公司能否將AI變現表達了擔憂。儘管近期股價低迷，一些投資者仍對Alphabet的AI業務持樂觀態度，理由是其張量處理單元（TPU）晶片的成功、公司強大的算力優勢，以及憑藉新人才和新模型取得突破的潛力。"
+    },
+    {
+      "id": "5062969",
+      "time": "2026-08-27 22:05:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美軍在對伊朗實施封鎖行動中已調派 75 艘艦船。"
+    },
+    {
+      "id": "5062968",
+      "time": "2026-08-27 22:05:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【荷蘭國際集團：長端利率壓力重現，預計美國 10 年期國債收益率將達 4.75%】荷蘭國際集團（ING）利率策略師預測，美國 10 年期國債收益率將升至 4.75% 左右，長端收益率上行壓力再度顯現，同時美國財政部公佈的回購計劃帶來的影響逐步消退。帕德里克・加維等策略師週四撰文表示：“倘若回購計劃意在從根本上壓制長端收益率下行，那麼後續還有一場硬仗要打。”“我們已經打完第一仗，財政部取得了勝利，但後續還會有更多較量。我們認為 10 年期收益率短期內不太可能跌破 4.5%。”策略師指出，美國財政部決定擴大回購規模時，該基準收益率約為 4.7%，因此收益率重回這一水平具備合理性。策略師稱，結合美國通脹與經濟增速來看，10 年期收益率合理水平約為 4.8%；週四 10 年期國債收益率報 4.66%。受企業債券大規模發行、財政赤字擔憂以及市場對美聯儲抗通脹公信力的疑慮影響，收益率持續走高。加維寫道，上述各類因素 “並未消失”，收益率依舊存在 “向上突破” 的壓力。"
+    },
+    {
+      "id": "5062967",
+      "time": "2026-08-27 22:04:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：小米YU7獲C-IASI中保研安全測試最高評級： 車內乘員安全G+、車外行人安全G+、車輛輔助安全G+、新能源汽車專項G。"
+    },
+    {
+      "id": "5062966",
+      "time": "2026-08-27 22:04:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：奈及利亞足球協會主席、秘書長及執行委員會集體辭職。"
+    },
+    {
+      "id": "mkt:01a04389-74c7-7aab-9153-c710e8ada1f0",
+      "time": "2026-08-27 22:04:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Xinghuan Information Technology (Shanghai) Co., Ltd. has passed its listing hearing."
+    },
+    {
+      "id": "5062965",
+      "time": "2026-08-27 22:04:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星環資訊科技（上海）股份有限公司透過港交所上市聆訊】據港交所檔案：星環資訊科技（上海）股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "5062964",
+      "time": "2026-08-27 22:04:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【8月27日增減持彙總】8月27日，據不完全統計，包括泛微網路、山科智慧、川儀股份、華廈眼科、倍加潔在內的5家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "mkt:01a04389-0337-7aab-9153-bee808746917",
+      "time": "2026-08-27 22:04:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Musk, Jensen Huang, Altman to speak at G20 tech ministerial next week】SpaceX CEO Elon Musk, NVIDIA CEO Jensen Huang, OpenAI CEO Sam Altman and former White House AI lead David Sacks will speak at a G20 technology ministerial in North Carolina next week, people familiar with the matter said. The event, organized by the White House Office of Science and Technology Policy director and the Commerce secretary, is being held as a preparatory meeting ahead of the G20 leaders' summit in December."
+    },
+    {
+      "id": "mkt:01a04388-c6a8-7aab-9153-b2aa170053e5",
+      "time": "2026-08-27 22:03:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Qatar's PM meets Iran parliament speaker Ghalibaf in Tehran】Qatar's prime minister and foreign minister met Iran's parliament speaker Ghalibaf in Tehran today. They discussed regional developments and efforts to ease tensions and create conditions to resume dialogue. Qatar's PM said it is necessary to restart the diplomatic process and described dialogue as the best way to resolve differences and avoid further escalation."
+    },
+    {
+      "id": "5062962",
+      "time": "2026-08-27 22:02:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【和鉑醫藥-B：2026年上半年淨利潤6485.1萬美元】和鉑醫藥-B公告，2026年上半年收入1.22億美元，2025年同期為1.01億美元；期內溢利6485.1萬美元，2025年同期為7299.9萬美元。公司透過全資子公司Harbour Antibodies對安進及其子公司提起的專利侵權訴訟獲全面勝利，美國德拉瓦州聯邦地區法院陪審團裁決安進故意侵權、專利有效，公司有權獲得20203704美元損害賠償。"
+    },
     {
       "id": "5062961",
       "time": "2026-08-27 22:02:18",
