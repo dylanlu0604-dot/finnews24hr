@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-27 11:39:02",
-  "count": 16766,
+  "updated": "2026-08-27 11:42:56",
+  "count": 16767,
   "items": [
+    {
+      "id": "5061432",
+      "time": "2026-08-27 11:40:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構：iPhone 17成為2026年第二季度全球最暢銷智慧手機】根據Counterpoint Research最新報告，蘋果iPhone 17在2026年第二季度成為全球最暢銷智慧手機，佔全球智慧手機銷量的6%。蘋果和三星各有5款機型進入前十榜單，合計佔全球智慧手機銷量的26%，同比增長2%。儘管整體市場下降11%，各品牌在應對全球RAM短缺之際將重點轉向高階和主力機型，前十機型的銷量貢獻率依然保持高位。"
+    },
+    {
+      "id": "mkt:01a0414d-a935-7aab-9141-96fe80b436b6",
+      "time": "2026-08-27 11:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Insiders deny blanket ban on unprofitable IPOs for A-shares】Market rumours suggested broad tightening of IPO filings for unprofitable firms on A-shares with spillovers to Hong Kong. People familiar with the matter said there is no blanket ban on unprofitable issuers in either A-shares or Hong Kong; markets will remain open to high-quality unprofitable companies but subject them to stricter vetting. Regulators and exchanges will demand clearer monetisation paths and credible earnings-recovery trajectories; IPO reviews will be harsher for firms with persistent losses, limited near-term commercialisation prospects, and that are not clear leaders in their niche."
+    },
+    {
+      "id": "5061431",
+      "time": "2026-08-27 11:39:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑富瑞：上調MiniMax目標價至533港元，8月年化收入勝預期】傑富瑞發表報告指，MiniMax公佈上半年業績，並重點指出8月年化收入已超過8億美元，高於該行預期的5.8億美元。7月Token消耗量規模較2026年初增長20倍。報告指，公司專注於最大化智慧並最小化成本。毛利率將於下半年趨於改善，並於2027年仍有進一步擴張空間。即將推出的模型包括M3.1、M3 Pro及H3.1。該行重申MiniMax為該領域“最佳買入”股票之一，目標價由506港元升至533港元。"
+    },
     {
       "id": "te:markets:578466",
       "time": "2026-08-27 11:38:19",
@@ -151087,28 +151115,6 @@
         "A股"
       ],
       "text": "【8月20日午間漲停分析】創業板指半日漲超1%，醫藥概念全線爆發，全市上漲個股超4300只。金健米業4連板，一圖看懂>>"
-    },
-    {
-      "id": "te:economy:576705",
-      "time": "2026-08-20 11:42:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Serbia",
-        "Current Account",
-        "Importance 0"
-      ],
-      "text": "Serbia Current Account Deficit Largest in 6 Months — Serbia’s current account deficit widened sharply to $1,022 million in June 2026 from $231 million in the same month last year. This marked the largest deficit since December 2025, as the goods account deficit increased to $687 million from $326 million, while the services surplus narrowed to $225 million from $297 million. At the same time, the primary income deficit expanded to $1,118 million from $690 million. On the other hand, the secondary income surplus rose to $557 million from $488 million. Over the first half of the year, Serbia posted a current account deficit of $1,616 million, smaller than the $2,204 million recorded in the corresponding period of the previous year."
-    },
-    {
-      "id": "mkt:01a01d40-90ec-7aab-90a8-1d76cfab39f8",
-      "time": "2026-08-20 11:39:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's Ministry of Transport to accelerate AI integration into transport sector】Aug 20 — China's Ministry of Transport held a briefing on \"AI + transport\" application scenarios. Xu Wenqiang, director-general of the ministry's Science and Technology Department, said transport is a major economic artery and a large-scale real-world testbed for AI, and that the ministry has stepped up efforts in recent years to deepen AI integration with the transport sector."
     }
   ]
 }
