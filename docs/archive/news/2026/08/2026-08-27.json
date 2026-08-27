@@ -1,7 +1,146 @@
 {
   "date": "2026-08-27",
-  "count": 1011,
+  "count": 1027,
   "items": [
+    {
+      "id": "mkt:01a04144-eefc-7aab-9141-27b7e6df8dcc",
+      "time": "2026-08-27 11:30:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Amid EU tax reform, AliExpress Brand+ branded listings in EU surge 97% during August promotion】AliExpress Brand+ data show Brand+ branded listings in the EU rose 97% during AliExpress’s August promotion. Supported by Brand+, AliExpress’s EU business was relatively insulated from tariff impacts. French price-comparison site Joke reports that among the four major cross-border platforms, TEMU was hit hardest by the tariff changes with orders down roughly 50%; AliExpress and SHEIN were less affected."
+    },
+    {
+      "id": "5061418",
+      "time": "2026-08-27 11:30:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【財通證券：重視韜定律技術落地帶來的半導體及散熱方向機會】財通證券釋出研報稱，韜定律技術即將落地，麒麟2026重構晶片能效天花板，實現了算力與能效的雙重飛躍。核心強化環節的半導體裝置成為韜定律落地的核心支柱與發展重心;散熱成為韜定律路線能否持續向三層、四層堆疊及算力晶片拓展的卡點。建議關注韜定律技術落地帶來的核心增量工藝環節對應的半導體裝置機遇以及韜定律帶來的散熱需求陡增趨勢下的增長機遇。"
+    },
+    {
+      "id": "5061417",
+      "time": "2026-08-27 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲2.32%， 滬深300指數期貨連續漲0.51%， 中證500指數期貨連續漲1.85%， 上證50指數期貨連續漲0.33%。"
+    },
+    {
+      "id": "5061416",
+      "time": "2026-08-27 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】上海原油連續漲3.49%，線材連續漲2.89%，乙二醇連續跌2.86%，菜粕連續漲2.85%，丁二烯橡膠連續漲2.81%。"
+    },
+    {
+      "id": "5061415",
+      "time": "2026-08-27 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.06%， 5年期主力合約跌0.05%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "5061414",
+      "time": "2026-08-27 11:29:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市解除所有暴雨黃色預警訊號和雷電預警訊號】強降雨趨於結束，深圳市氣象臺2026年08月27日11時30分解除所有暴雨黃色和雷電預警訊號，市民仍需注意遠離河道和危險邊坡等。"
+    },
+    {
+      "id": "5061413",
+      "time": "2026-08-27 11:29:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多支科創晶片設計ETF漲超5%】科創晶片設計指數漲幅擴大至5.43%，跟蹤該指數的科創晶片設計ETF富國（589700）、科創晶片設計ETF國聯安（588780）、科創晶片設計ETF匯添富（589290）等多隻ETF均漲超5%。"
+    },
+    {
+      "id": "te:markets:578459",
+      "time": "2026-08-27 11:29:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Highest in Over 11 Months — The South Korean won traded at around 1,381 per dollar in late August, reaching its strongest level since September 2025, after the Bank of Korea lifted its benchmark interest rate to 3%. The BOK delivered a second consecutive 25-basis-point hike, reinforcing its tightening stance amid persistent inflation and a stronger-than-expected economic recovery. The move adds to the won's significant rebound from its 17-year low reached in June. Additionally, expectations of increased dollar selling by Samsung Electronics and SK hynix to fund record shareholder returns lent further strength to the currency. Robust semiconductor activity also bolstered the won, with the BOK upgrading its 2026 growth forecast to 3.3% from 2.6% on stronger chip exports, while Nvidia's better-than-expected earnings further eased concerns over the outlook for AI-related semiconductor demand."
+    },
+    {
+      "id": "mkt:01a04143-9cda-7aab-9141-1b622e5b73e2",
+      "time": "2026-08-27 11:29:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Austrian National Council president Rosenkranz to visit China】At the invitation of NPC Standing Committee chairman Zhao Leji, Austrian National Council president Rosenkranz will lead a delegation to China from Aug 29 to Sept 4."
+    },
+    {
+      "id": "5061412",
+      "time": "2026-08-27 11:28:50",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【奧地利國民議會議長將訪華】應全國人大常委會委員長趙樂際邀請，奧地利國民議會議長羅森克蘭茨將於8月29日至9月4日率團訪華。(新華社)"
+    },
+    {
+      "id": "5061411",
+      "time": "2026-08-27 11:28:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北宜化持股公司在青海成立物貿公司】企查查APP顯示，近日，青海安卅物貿有限公司成立，法定代表人為張先恩，註冊資本為3000萬元，經營範圍包含：化肥銷售；煤炭及製品銷售；航空國際貨物運輸代理；國際貨物運輸代理；海上國際貨物運輸代理等。企查查股權穿透顯示，該公司由湖北安卅物流有限公司全資持股，後者由湖北宜化、湖北宜化集團有限責任公司共同持股。"
+    },
+    {
+      "id": "5061410",
+      "time": "2026-08-27 11:28:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賈躍亭：FF機器人工廠年內運營 釋出兩款機器人新品】Faraday Future（FF）在洛杉磯舉辦FF EAI機器人釋出及合作伙伴招商大會上半場，集中釋出了公司在EAI教育生態及經銷商夥伴合作方面的最新進展及計劃，公佈了EAI機器人加速計劃三階段執行路線圖，目標年內實現機器人工廠投入運營，2027年2月實現首款本體新品下線。FF還發布兩款機器人新品——全尺寸人形Next Futurist和四足 Next Aegis。9月19日，將釋出更多機器人新品，並推出FF EAI教育生態行業生產力解決方案1.0版，開啟教育生態規模化複製，推動目前覆蓋10個州的11個潛在教育合作機會落地。據瞭解，FF未來十年將圍繞EAI Robotics、AI、先進製造和產業生態，投入累計不少於50億美元。其中，FF計劃每年推出3至5款全新及換代機器人產品。（新浪科技）"
+    },
+    {
+      "id": "5061409",
+      "time": "2026-08-27 11:28:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀河通用在北京成立具身智慧機器人公司】企查查APP顯示，近日，北京銀河通用具身智慧機器人有限公司成立，法定代表人為姚騰洲，經營範圍包含：工業機器人制造；工業機器人銷售；服務消費機器人制造；服務消費機器人銷售；電池銷售等。企查查股權穿透顯示，該公司由北京銀河通用機器人股份有限公司間接全資持股。"
+    },
+    {
+      "id": "mkt:01a04142-6bce-7aab-9141-16498a7cfee0",
+      "time": "2026-08-27 11:27:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iraq issues second tender for Basra crude loaded outside Strait of Hormuz】Iraq's state marketer SOMO issued a second tender this week for September-loading Basra crude to be delivered outside the Strait of Hormuz, trade sources and a tender document show. The tender specifies ship-to-ship loading near Oman's coast in the Arabian Sea and has an Aug. 28 deadline. In a tender published on Monday SOMO offered cargoes loaded from its Basra oil terminal, which require buyers to charter tankers capable of transiting the Strait; that first tender closed on Wednesday. Iran's IRNA reported on Saturday that Tehran has approved some Iraqi tankers to transit the Strait of Hormuz after repeated requests from the Iraqi government."
+    },
+    {
+      "id": "5061408",
+      "time": "2026-08-27 11:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川航空將執飛多趟次航班至拉薩 保障西藏吉隆泥石流災害救援】從四川航空瞭解到，今天（27日）川航首趟保障航班3U8691已於9:20從成都飛抵拉薩，該航班主要運送105名救災人員和偵測類裝置等救災物資。今天，川航還將執飛兩趟航班從成都前往拉薩，主要運送1578件、17194公斤，包括方便食品、罐頭、午餐肉、防寒衣物、棉被、探測儀、切割機等在內的救災物資。目前，3U8693已於9:40起飛，預計11:29抵達拉薩；3U8695計劃13:00起飛前往拉薩。（央視新聞）"
+    },
+    {
+      "id": "5061407",
+      "time": "2026-08-27 11:26:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【關稅之下，8月大促期間速賣通Brand+在歐盟逆勢增長97%】8月27日訊息，面對歐盟稅改，速賣通Brand+最新資料顯示，速賣通8月大促期間，Brand+品牌貨盤在歐盟市場逆勢增長97%。受Brand+的支撐，速賣通在歐盟受關稅影響較小。法國比價平臺Joke的資料顯示，“出海四小龍”裡，受到關稅影響最大的是TEMU，訂單下滑約一半；速賣通和SHEIN的影響相對較小。"
+    },
     {
       "id": "5061406",
       "time": "2026-08-27 11:26:24",
