@@ -1,7 +1,82 @@
 {
   "date": "2026-08-29",
-  "count": 321,
+  "count": 329,
   "items": [
+    {
+      "id": "mkt:01a049fe-ff52-7aab-917a-3eef2eca9076",
+      "time": "2026-08-29 04:10:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DBRS Morningstar confirmed the Netherlands' sovereign rating at AAA; outlook stable."
+    },
+    {
+      "id": "mkt:01a049fe-43c5-7aab-917a-329afa64957c",
+      "time": "2026-08-29 04:09:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "S&P expects disruptions in the Strait of Hormuz to push energy prices higher and to exert a modest drag on Portugal's 2026 economy."
+    },
+    {
+      "id": "5066017",
+      "time": "2026-08-29 04:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：預計霍爾木茲海峽局勢擾動推高能源價格，將對 2026 年葡萄牙經濟產生溫和影響。"
+    },
+    {
+      "id": "mkt:01a049fc-c1a1-7aab-917a-29364f8ec508",
+      "time": "2026-08-29 04:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms Portugal's A+/A-1 ratings; outlook remains positive due to strong economic growth."
+    },
+    {
+      "id": "5066016",
+      "time": "2026-08-29 04:08:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認葡萄牙 “A+/A‑1” 評級；受經濟增長韌性支撐，展望維持正面。"
+    },
+    {
+      "id": "mkt:01a049fc-8bf2-7aab-917a-24425dd218d3",
+      "time": "2026-08-29 04:08:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Iran president: supply-demand imbalance, political factors driving exchange-rate volatility】President PEZESHKIAN said a pledged increase in subsidies tied to exchange-rate rises was not delivered, blaming an imbalance in state finances and saying the government must curb demand. He warned that when exports stop there are no FX inflows, and without demand control a shortage of FX amid strong demand will push the exchange rate higher; authorities have partly suppressed demand but a large supply–demand gap remains. He said political events move the market — US announcements of tighter blockade lift the exchange rate immediately, while visits by Omani negotiators cause it to fall. Authorities are reluctant to raise fuel prices because of the burden on households, and continue to supply fuel at current levels despite the fiscal cost."
+    },
+    {
+      "id": "mkt:01a049fb-28e2-7aab-917a-1e3b887223d1",
+      "time": "2026-08-29 04:06:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms Jordan at 'BB-/B'; outlook stable."
+    },
+    {
+      "id": "5066015",
+      "time": "2026-08-29 04:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認約旦 “BB‑/B” 評級，展望穩定。"
+    },
     {
       "id": "mkt:01a049f8-2f28-7aab-917a-15690b472db6",
       "time": "2026-08-29 04:03:16",

@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-29 04:06:46",
-  "count": 13392,
+  "updated": "2026-08-29 04:14:27",
+  "count": 13389,
   "items": [
+    {
+      "id": "mkt:01a049fe-ff52-7aab-917a-3eef2eca9076",
+      "time": "2026-08-29 04:10:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DBRS Morningstar confirmed the Netherlands' sovereign rating at AAA; outlook stable."
+    },
+    {
+      "id": "mkt:01a049fe-43c5-7aab-917a-329afa64957c",
+      "time": "2026-08-29 04:09:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "S&P expects disruptions in the Strait of Hormuz to push energy prices higher and to exert a modest drag on Portugal's 2026 economy."
+    },
+    {
+      "id": "5066017",
+      "time": "2026-08-29 04:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：預計霍爾木茲海峽局勢擾動推高能源價格，將對 2026 年葡萄牙經濟產生溫和影響。"
+    },
+    {
+      "id": "mkt:01a049fc-c1a1-7aab-917a-29364f8ec508",
+      "time": "2026-08-29 04:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms Portugal's A+/A-1 ratings; outlook remains positive due to strong economic growth."
+    },
+    {
+      "id": "5066016",
+      "time": "2026-08-29 04:08:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認葡萄牙 “A+/A‑1” 評級；受經濟增長韌性支撐，展望維持正面。"
+    },
+    {
+      "id": "mkt:01a049fc-8bf2-7aab-917a-24425dd218d3",
+      "time": "2026-08-29 04:08:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Iran president: supply-demand imbalance, political factors driving exchange-rate volatility】President PEZESHKIAN said a pledged increase in subsidies tied to exchange-rate rises was not delivered, blaming an imbalance in state finances and saying the government must curb demand. He warned that when exports stop there are no FX inflows, and without demand control a shortage of FX amid strong demand will push the exchange rate higher; authorities have partly suppressed demand but a large supply–demand gap remains. He said political events move the market — US announcements of tighter blockade lift the exchange rate immediately, while visits by Omani negotiators cause it to fall. Authorities are reluctant to raise fuel prices because of the burden on households, and continue to supply fuel at current levels despite the fiscal cost."
+    },
+    {
+      "id": "mkt:01a049fb-28e2-7aab-917a-1e3b887223d1",
+      "time": "2026-08-29 04:06:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms Jordan at 'BB-/B'; outlook stable."
+    },
+    {
+      "id": "5066015",
+      "time": "2026-08-29 04:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認約旦 “BB‑/B” 評級，展望穩定。"
+    },
     {
       "id": "mkt:01a049f8-2f28-7aab-917a-15690b472db6",
       "time": "2026-08-29 04:03:16",
@@ -120497,99 +120572,6 @@
         "其他"
       ],
       "text": "NOODLES & CO 提交 1 億美元混合證券儲架發行申請。"
-    },
-    {
-      "id": "5052757",
-      "time": "2026-08-22 04:13:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿巴斯呼籲以色列停止並取消“E1區”定居點招標】據巴勒斯坦通訊社21日報道，巴勒斯坦總統阿巴斯當天發表宣告，呼籲以色列政府立即停止並取消“E1區”定居點建設專案招標計劃，指出此舉直接威脅巴勒斯坦建國程序。阿巴斯在宣告中強調，“E1區”定居點計劃將把約旦河西岸切割為南北兩部分，同時割裂東耶路撒冷與其周邊巴勒斯坦地區的地理聯絡，嚴重損害以1967年邊界為基礎、以東耶路撒冷為首都、擁有主權的獨立巴勒斯坦國的建國前景。阿巴斯指出，該計劃公然違反國際法和聯合國相關決議，尤其是安理會第2334號決議，是以色列持續推進定居點擴建、實施吞併政策、製造既成事實的危險步驟。（新華社）"
-    },
-    {
-      "id": "5052756",
-      "time": "2026-08-22 04:13:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "APPLIED OPTO股價盤後下跌3.5%。"
-    },
-    {
-      "id": "5052755",
-      "time": "2026-08-22 04:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "第二聯邦銀行將承接蒂奧加‑富蘭克林儲蓄銀行的全部存款。"
-    },
-    {
-      "id": "te:markets:577360",
-      "time": "2026-08-22 04:13:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise on Strong Business Activity — US stock indices closed higher on Friday, pausing the week’s losses on solid economic data. The S&P 500 gained 0.4%, the Nasdaq rose 0.3%, and the Dow added 518 points. Equities advanced after a report showed US business activity grew at its fastest pace in more than four years. Meanwhile, markets continued to assess a recent surge in bond yields driven by inflation and fiscal concerns. Long-dated Treasury yields remained near levels seen before the Treasury announced a larger bond buyback, while the dollar extended its decline. Hyperscalers gained, with Alphabet up 1.2%, Microsoft adding 0.4% and Meta rising 0.7%. Chipmakers traded mixed, with Nvidia down 1%, Micron losing 0.8% and Intel retreating 2.2%. Walmart fell over 10% on the week after a rare earnings miss weighed on its outlook and raised concerns over US consumers."
-    },
-    {
-      "id": "5052754",
-      "time": "2026-08-22 04:12:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦存款保險公司：賓夕法尼亞州監管機構關閉費城蒂奧加‑富蘭克林儲蓄銀行。"
-    },
-    {
-      "id": "5052753",
-      "time": "2026-08-22 04:11:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【生物科技指數ETF收漲約1.3%，領跑美股行業ETF】週五（8月21日），美股行業ETF普遍收漲，生物科技指數ETF、醫療業ETF漲1.29%，可選消費ETF漲1.15%，全球航空業ETF漲1.06%，網路股指數ETF、金融業ETF、全球科技股指數ETF、科技行業ETF至多漲0.94%，能源業ETF跌0.17%，半導體ETF跌0.4%，公用事業ETF跌2.31%。2026年迄今，半導體ETF累計上漲55.62%，能源業ETF漲44.30%，全球科技股指數ETF漲32.98%，科技行業ETF、生物科技指數ETF至少漲26.65%，可選消費ETF跌0.77%。"
-    },
-    {
-      "id": "5052752",
-      "time": "2026-08-22 04:11:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "應用光電簽訂 6 億美元 ATM 股權配售協議。"
-    },
-    {
-      "id": "5052751",
-      "time": "2026-08-22 04:10:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "夏威夷電力公司預計，夏威夷島幾乎所有使用者的供電服務都將在2026年8月21日前恢復。"
-    },
-    {
-      "id": "5052750",
-      "time": "2026-08-22 04:09:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表團將於8月24日至25日訪問智利，就關稅問題進行談判。"
-    },
-    {
-      "id": "5052749",
-      "time": "2026-08-22 04:08:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部長稱預演算法案將於下週提交國會。"
-    },
-    {
-      "id": "5052748",
-      "time": "2026-08-22 04:06:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普總統將前往南卡羅來納州，為格雷厄姆造勢，迎接週二共和黨初選第二輪選舉，參選雙方為格雷厄姆與拉爾夫・諾曼眾議員。此次第二輪選舉的獲勝者，將接替已故參議員林賽・格雷厄姆，成為 11 月選票上的共和黨參議員候選人。"
     }
   ]
 }
