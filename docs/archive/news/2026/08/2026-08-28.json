@@ -1,7 +1,234 @@
 {
   "date": "2026-08-28",
-  "count": 964,
+  "count": 988,
   "items": [
+    {
+      "id": "5064156",
+      "time": "2026-08-28 15:18:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉利釋出AI新能源越野技術】8月28日，吉利汽車集團正式釋出AI新能源越野技術，該技術彙集GTA原生新能源越野架構、全驅AI電混雷神EM-T、AI全地形數字底盤首創科技，並率先搭載於銀河戰艦700。"
+    },
+    {
+      "id": "te:economy:578977",
+      "time": "2026-08-28 15:17:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Economic Optimism Index",
+        "Importance 1"
+      ],
+      "text": "Turkey Economic Sentiment Turns Positive — Turkey's Economic Confidence Index rose to 100.6 in August 2026 from 99.8 in the previous month, topping the 100 threshold for the first time since February. The headline index held above the 100 mark, indicating that economic sentiment pointed to a slightly optimistic outlook. The improvement was mainly driven by stronger consumer confidence, which rose 1.0% from a month earlier to 90.8, while manufacturing confidence increased 1.2% to 102.4, moving further above the 100 mark. In contrast, confidence in the services sector slipped 0.1% to 111.9, while retail trade confidence fell 0.8% to 110.1, although both remained above the threshold. Meanwhile, construction confidence remained weak, declining 0.4% to 83.1 and staying well below the 100 mark."
+    },
+    {
+      "id": "5064155",
+      "time": "2026-08-28 15:17:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哈薩克恢復了正常的石油生產水平。"
+    },
+    {
+      "id": "te:economy:578976",
+      "time": "2026-08-28 15:17:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Spain Inflation Accelerates to 4.3% in August — Spain’s inflation rate accelerated to 4.3% year on year in August 2026, up from 3.6% in July and slightly above market expectations of 4.2%, according to a preliminary estimate. It was the highest inflation rate since February 2023, driven largely by rising energy prices following an escalation in US-Iran tensions that pushed crude oil prices higher. The EU-harmonized inflation rate also climbed to 4.5%, its highest level since early 2023 and more than double the European Central Bank’s 2% medium-term target. Meanwhile, core inflation, which excludes volatile components such as unprocessed food and energy, edged down to 2.9% in August."
+    },
+    {
+      "id": "mkt:01a0473b-03f9-7aab-9167-b88781c2f979",
+      "time": "2026-08-28 15:17:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Interfax reports Kazakhstan has restored oil production to normal levels."
+    },
+    {
+      "id": "5064154",
+      "time": "2026-08-28 15:16:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家資料發展研究院：2026年6月底我國智算規模達240萬PFLOPS 半年增長50.9%】國家資料發展研究院院長鬍堅波8月28日在2026中國國際大資料產業博覽會上代表編制組釋出了《中國資料產業發展報告（2026）》。其中顯示， 2026年6月底，我國智算規模達240萬PFLOPS，半年增長50.9%。"
+    },
+    {
+      "id": "5064153",
+      "time": "2026-08-28 15:16:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "法國財政部長：夏季熱浪過後釋出的首批經濟資料表現“糟糕”。第二季度資料下調將對第三季度產生影響。"
+    },
+    {
+      "id": "mkt:01a0473a-31b6-7aab-9167-b4fc1723728a",
+      "time": "2026-08-28 15:16:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank Group said it has not provided any rating information to MOODY'S for more than six years."
+    },
+    {
+      "id": "mkt:01a0473a-2782-7aab-9167-ae5e63ca72fc",
+      "time": "2026-08-28 15:16:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China envoy Xian Hui to attend Zambia president Hichilema's inauguration】China's foreign ministry said Xian Hui, vice chairman of the CPPCC and a special envoy of President Xi, will travel to Lusaka to attend Zambian President Hichilema's inauguration on Sept 1 at the invitation of the Zambian government."
+    },
+    {
+      "id": "mkt:01a04739-e7d0-7aab-9167-a5e0ec12dbff",
+      "time": "2026-08-28 15:16:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures midday close】2-yr bond futures (TS) most-active contract +0.01%, 5-yr bond futures (TF) most-active unchanged, 10-yr bond futures (T) most-active unchanged, 30-yr bond futures (TL) most-active -0.14%."
+    },
+    {
+      "id": "te:markets:578975",
+      "time": "2026-08-28 15:16:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.10% Lower — The Shangai Composite Index fell 4 points or 0.10 percent on Friday to close at 3953 points. Leading the losses are Industrial Bank (-3.05%), Sdic Power (-1.94%) and Datang Intl (-1.18%). Top gainers were Hengli Petrochemical (3.92%), Guangzhou Automobile (3.87%) and Sinopec (3.59%)."
+    },
+    {
+      "id": "5064152",
+      "time": "2026-08-28 15:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭小學將從9月起禁用手機】當地時間8月28日，波蘭教育部發言人戈爾奇卡向媒體透露，自9月1日起，波蘭公立和非公立小學的學生將不得在課堂、課間及校內活動中使用包括手機在內的通訊、錄音錄影裝置，校外教育活動同樣受限。幼兒園則禁止兒童帶入電子裝置。只有在緊急情況下或特殊疾病需經校長同意才可豁免。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04739-c326-7aab-9167-9febb84ee70e",
+      "time": "2026-08-28 15:16:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu posted that he will never surrender."
+    },
+    {
+      "id": "mkt:01a04739-4405-7aab-9167-91195d332e55",
+      "time": "2026-08-28 15:15:30",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "France's finance minister says a downward revision to Q2 data will have an impact on Q3."
+    },
+    {
+      "id": "5064151",
+      "time": "2026-08-28 15:15:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀尋求100億美元貸款，為投資OpenAI融資債務再融資】8月28日，據報道，軟銀集團正尋求一筆100億美元、期限兩年的貸款，用於為其投資美國人工智慧公司OpenAI產生的債務進行再融資。該貸款利率預計為較有擔保隔夜融資利率（SOFR）高275個基點，由瑞穗銀行擔任牽頭行及簿記行。貸款所得資金部分可能用於償還軟銀今年早些時候為投資OpenAI獲得的400億美元過橋貸款，該貸款承諾將於8月31日到期。軟銀預計到10月將向OpenAI投資近650億美元。軟銀近期還在考慮發行100億至200億美元債券，並計劃在日本發行規模達1萬億日元（約63億美元）的零售債券，以籌集OpenAI投資所需資金。"
+    },
+    {
+      "id": "5064150",
+      "time": "2026-08-28 15:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家開發銀行河北省分行原行長常思勇接受審查調查】中央紀委國家監委網站8月28日通報，據中央紀委國家監委駐國家開發銀行紀檢監察組、河北省紀委監委訊息：國家開發銀行河北省分行原黨委書記、行長常思勇涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家開發銀行紀檢監察組紀律審查和河北省監察委員會監察調查。"
+    },
+    {
+      "id": "5064149",
+      "time": "2026-08-28 15:15:22",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【習近平主席特使鹹輝將出席尚比亞總統就職典禮】外交部發言人宣佈：應尚比亞政府邀請，國家主席習近平特使、全國政協副主席鹹輝將赴尚比亞首都盧薩卡出席於9月1日舉行的希奇萊馬總統就職典禮。"
+    },
+    {
+      "id": "5064148",
+      "time": "2026-08-28 15:15:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國際貿易委員會對聚乙烯醇作出第四次反傾銷日落複審產業損害終裁】2026年8月27日，美國國際貿易委員會（ITC）投票對進口自中國和日本的聚乙烯醇（Polyvinyl Alcohol）作出第四次反傾銷日落複審產業損害肯定性終裁，裁定若取消現行反傾銷措施，在合理可預見期間內，涉案產品的進口對美國國內產業造成的實質性損害可能繼續或再度發生。根據終裁結果，本案現行反傾銷措施繼續有效。(中國貿易救濟資訊網)"
+    },
+    {
+      "id": "mkt:01a04738-f8e9-7aab-9167-8c20ce787c0f",
+      "time": "2026-08-28 15:15:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France's finance minister said the first batch of economic data released after the summer heatwave were \"poor\"."
+    },
+    {
+      "id": "5064147",
+      "time": "2026-08-28 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.14%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:01a04738-be5f-7aab-9167-869d6e635c63",
+      "time": "2026-08-28 15:14:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's agriculture minister said winter wheat planted area will decline in 2027."
+    },
+    {
+      "id": "mkt:01a04738-5b0c-7aab-9167-7c8d642bc76a",
+      "time": "2026-08-28 15:14:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Finance proposes 11–13% local surtax rate band】China's Ministry of Finance published a draft Local Surtax Law for public comment proposing a local surtax rate band of 11–13%. Provincial, autonomous region and municipal governments would set and adjust specific rates within that band, considering local economic conditions and unified national market objectives; proposals would be decided by the provincial people's congress standing committee and filed with the National People's Congress Standing Committee and the State Council. Timing of tax liability, tax location and withholding-agent rules would follow VAT and consumption tax provisions to enable coordinated collection of main taxes and local surtaxes."
+    },
+    {
+      "id": "5064145",
+      "time": "2026-08-28 15:14:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SCFI綜合指數報3509.54點，CCFI綜合指數報1833.99點】上海航運交易所資料顯示，截至8月28日，上海出口集裝箱運價指數（綜合指數）SCFI報3509.54點，與上期相比上漲99.91點。中國出口集裝箱運價綜合指數CCFI報1833.99點，與上期相比漲0.7%。"
+    },
+    {
+      "id": "mkt:01a04737-b8f9-7aab-9167-75c08b55583e",
+      "time": "2026-08-28 15:13:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank Group said it has not received any credit rating from MOODY'S."
+    },
     {
       "id": "mkt:01a04737-a3e6-7aab-9167-6f1a4af2d99b",
       "time": "2026-08-28 15:13:43",
