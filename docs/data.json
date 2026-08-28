@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-29 04:22:22",
-  "count": 13387,
+  "updated": "2026-08-29 04:26:22",
+  "count": 13388,
   "items": [
+    {
+      "id": "mkt:01a04a0c-ada6-7aab-917a-61bbd6b7d0d2",
+      "time": "2026-08-29 04:25:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran’s Islamic Revolutionary Guard Corps said it will use full force and absolute authority to block any vessel attempting to transit the Strait of Hormuz without coordination with Iran."
+    },
+    {
+      "id": "5066021",
+      "time": "2026-08-29 04:24:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Pinterest美股盤後跌3.2%，該公司CFO離職。"
+    },
+    {
+      "id": "mkt:01a04a0b-9c62-7aab-917a-59e717d11596",
+      "time": "2026-08-29 04:24:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said US officials' comments about \"keeping the Strait of Hormuz open\" are a blatant lie aimed at manipulating oil prices and concealing US failures."
+    },
+    {
+      "id": "mkt:01a04a0b-4098-7aab-917a-551b30383e2e",
+      "time": "2026-08-29 04:24:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said Iranian fighters' control of the strategic Strait of Hormuz is complete and indisputable."
+    },
+    {
+      "id": "mkt:01a04a09-9813-7aab-917a-48c6306c4bd6",
+      "time": "2026-08-29 04:22:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Pentagon in talks with Venezuelan tycoon on major oil deal covering up to 17 fields: sources】Sources say the U.S. government is seeking significant stakes in Venezuelan oil reserves and the Pentagon is negotiating with energy investor Alejandro Betancourt on a deal covering up to 17 fields across Venezuela’s main producing regions, including the Orinoco heavy oil belt (Junín) and areas around Lake Maracaibo. Proposals under discussion would have the Pentagon’s Office of Strategic Capital (OSC) oversee investment and could include U.S. access via leases of up to 100 years. Washington currently effectively controls Venezuelan oil sales and has eased sanctions to allow U.S. firms to re-enter; with the U.S.-Iran war disrupting Middle East supply and lifting global energy prices, U.S. officials want to speed restoration of Venezuelan output. OSC lacks clear authority to hold project equity, and the plan is expected to provoke legal and political challenges in both the U.S. and Venezuela."
+    },
     {
       "id": "5066020",
       "time": "2026-08-29 04:19:38",
@@ -120516,40 +120573,6 @@
         "公司"
       ],
       "text": "波音公司工程師及工會技術部門拒絕合同提議。"
-    },
-    {
-      "id": "5052765",
-      "time": "2026-08-22 04:25:41",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國CFTC：資產管理公司在貝森特意外回購宣佈前增持美債敞口】根據美國商品期貨交易委員會（CFTC）截至8月18日當週的資料，在美國政府週三意外宣佈回購計劃之前，資產管理公司增加了其美國國債的敞口。資料顯示，投機者則削減了敞口。"
-    },
-    {
-      "id": "5052764",
-      "time": "2026-08-22 04:24:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我們對美國最高法院的這項裁決表示感謝。正在白宮這片神聖土地上修建的軍事宴會廳綜合體，對國家安全至關重要，它將成為同類設施中的巔峰之作！150 年來多屆美國總統一直期盼建成該設施，軍方過去百年也一直在爭取。他們的願望很快就會實現！專案建設成本低於預算，進度也快於計劃。"
-    },
-    {
-      "id": "5052763",
-      "time": "2026-08-22 04:23:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我對美國聯邦最高法院的裁決表示感激。軍事/宴會廳綜合體正建於白宮的聖地之上。"
-    },
-    {
-      "id": "5052762",
-      "time": "2026-08-22 04:23:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟安全政策高階代表卡拉斯：歐盟的外交和國防部長們將在不到兩週後於都柏林會晤中討論如何擴大我們對烏克蘭的支援，包括防空和導彈防禦。"
     }
   ]
 }

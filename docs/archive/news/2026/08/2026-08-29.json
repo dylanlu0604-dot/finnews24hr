@@ -1,7 +1,64 @@
 {
   "date": "2026-08-29",
-  "count": 334,
+  "count": 339,
   "items": [
+    {
+      "id": "mkt:01a04a0c-ada6-7aab-917a-61bbd6b7d0d2",
+      "time": "2026-08-29 04:25:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran’s Islamic Revolutionary Guard Corps said it will use full force and absolute authority to block any vessel attempting to transit the Strait of Hormuz without coordination with Iran."
+    },
+    {
+      "id": "5066021",
+      "time": "2026-08-29 04:24:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Pinterest美股盤後跌3.2%，該公司CFO離職。"
+    },
+    {
+      "id": "mkt:01a04a0b-9c62-7aab-917a-59e717d11596",
+      "time": "2026-08-29 04:24:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said US officials' comments about \"keeping the Strait of Hormuz open\" are a blatant lie aimed at manipulating oil prices and concealing US failures."
+    },
+    {
+      "id": "mkt:01a04a0b-4098-7aab-917a-551b30383e2e",
+      "time": "2026-08-29 04:24:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said Iranian fighters' control of the strategic Strait of Hormuz is complete and indisputable."
+    },
+    {
+      "id": "mkt:01a04a09-9813-7aab-917a-48c6306c4bd6",
+      "time": "2026-08-29 04:22:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Pentagon in talks with Venezuelan tycoon on major oil deal covering up to 17 fields: sources】Sources say the U.S. government is seeking significant stakes in Venezuelan oil reserves and the Pentagon is negotiating with energy investor Alejandro Betancourt on a deal covering up to 17 fields across Venezuela’s main producing regions, including the Orinoco heavy oil belt (Junín) and areas around Lake Maracaibo. Proposals under discussion would have the Pentagon’s Office of Strategic Capital (OSC) oversee investment and could include U.S. access via leases of up to 100 years. Washington currently effectively controls Venezuelan oil sales and has eased sanctions to allow U.S. firms to re-enter; with the U.S.-Iran war disrupting Middle East supply and lifting global energy prices, U.S. officials want to speed restoration of Venezuelan output. OSC lacks clear authority to hold project equity, and the plan is expected to provoke legal and political challenges in both the U.S. and Venezuela."
+    },
     {
       "id": "5066020",
       "time": "2026-08-29 04:19:38",
