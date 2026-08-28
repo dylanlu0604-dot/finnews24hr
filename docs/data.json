@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-28 08:09:48",
-  "count": 14931,
+  "updated": "2026-08-28 08:13:40",
+  "count": 14925,
   "items": [
+    {
+      "id": "5063577",
+      "time": "2026-08-28 08:12:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上市公司關聯借款利率呈現兩極分化特徵 市場關注關聯交易公允性】近年來，隨著貸款利率逐步走低，企業融資成本不斷下行。A股上市公司關聯借款的利率卻呈現出明顯的兩極分化特徵。證券時報記者梳理發現，一方面，不少上市公司的實控人、控股股東向上市公司提供無息或遠低於同期銀行貸款利率水平的優惠借款；另一方面，部分經營承壓、外部融資渠道受限的上市公司，從關聯方獲取資金的利率顯著高於銀行信貸利率。同時，一些自身融資能力正常的企業持續向關聯方以高於自身融資成本的利率借款，也引發市場對關聯交易公允性的關注。"
+    },
+    {
+      "id": "mkt:01a045b4-cc3d-7aab-915c-a4cb0d6da586",
+      "time": "2026-08-28 08:11:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 opened up 19.80 points (+0.22%) at 9,058.00 on Aug 28 (Fri)."
+    },
+    {
+      "id": "mkt:01a045b4-c5b0-7aab-915c-9b315957c7ce",
+      "time": "2026-08-28 08:11:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Typhoon Sadeer, the 18th typhoon of the year, made landfall near Kanmen Subdistrict, Yuhuan City, Taizhou, Zhejiang province, China at about 08:05 local time on Aug. 28."
+    },
+    {
+      "id": "5063576",
+      "time": "2026-08-28 08:10:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙德爾在浙江台州登陸】據中央氣象臺最新訊息，颱風“沙德爾”（颱風級）的中心已於今天8時05分前後在浙江台州玉環市坎門街道沿海登陸，登陸時中心附近最大風力有12級（35米/秒），中心最低氣壓975百帕。"
+    },
+    {
+      "id": "5063575",
+      "time": "2026-08-28 08:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺8月28日08時釋出風暴潮橙色警報：受今年第18號颱風“沙德爾”(強颱風級)的影響，預計:8月28日上午至29日上午，上海到浙江寧波沿海將出現50到150釐米的風暴增水，浙江台州到溫州沿海將出現80到240釐米的風暴增水。浙江省台州市和溫州市的風暴潮預警級別為橙色，上海市和浙江省寧波市的風暴潮預警級別為藍色。預計：28日10時前後，台州溫嶺市和溫州樂清市沿海低窪地區有海水倒灌淹沒風險。預計：29日上午解除風暴潮警報。"
+    },
     {
       "id": "5063574",
       "time": "2026-08-28 08:09:10",
@@ -134255,115 +134295,6 @@
         "其他"
       ],
       "text": "【航行警告 黃海南部實彈射擊】據中國海事局網站訊息，鹽城海事局釋出航行警告，8月21日至24日每天7時30分至次日1時，黃海南部部分海域進行實彈射擊，禁止駛入。"
-    },
-    {
-      "id": "5050908",
-      "time": "2026-08-21 08:13:33",
-      "tags": [
-        "央行",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【俄羅斯今年減持160萬盎司黃金 儲備降至2020年以來最低水平】俄羅斯央行繼續出售黃金儲備。截至7月底，其黃金持有量已降至六年多來的最低水平。俄羅斯央行週四公佈的資料顯示，截至8月1日，該國黃金儲備較年初減少160萬盎司，降至7,320萬盎司，為2020年1月以來最低水平。資料顯示，過去七個月，該行黃金儲備價值減少337億美元。"
-    },
-    {
-      "id": "5050907",
-      "time": "2026-08-21 08:12:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "迅銷集團股價下跌3.8%。"
-    },
-    {
-      "id": "mkt:01a021a9-6f3b-7aab-90c3-88860e1a4498",
-      "time": "2026-08-21 08:12:27",
-      "tags": [
-        "MKT News",
-        "9983.T"
-      ],
-      "text": "Fast Retailing shares fell 3.8%."
-    },
-    {
-      "id": "mkt:01a021a9-192e-7aab-90c3-8512e62bb7e1",
-      "time": "2026-08-21 08:12:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Merchants Securities: Hang Seng TECH index expansion, industry trends favor cloud providers】China Merchants Securities said in a strategy note that two developments boost the Hong Kong market outlook: the Hang Seng TECH Index methodology was revised—constituent count expanded and revenue growth added to selection criteria—addressing concerns about the index’s tech content; and AI-sector profits are shifting from hardware and large models toward cloud providers, a dynamic that should favor Hong Kong-listed cloud names. The firm remains positive on Hong Kong equity opportunities."
-    },
-    {
-      "id": "te:markets:577008",
-      "time": "2026-08-21 08:11:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "CITIC Securities earnings above expectations at 0.68 CNY — CITIC Securities (600030) released earnings per share at 0.68 CNY, compared to market expectations of 0.61 CNY."
-    },
-    {
-      "id": "te:markets:577007",
-      "time": "2026-08-21 08:11:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "China Telecom earnings in line with market expectations at 0.08 CNY — China Telecom (601728) released earnings per share at 0.08 CNY, in line with market expectations."
-    },
-    {
-      "id": "mkt:01a021a8-40f7-7aab-90c3-7d9dbbb8514a",
-      "time": "2026-08-21 08:11:09",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China pushes pension funds toward long-term investing】Chinese policy documents urge pension funds to pursue “long money, long investments,” citing decades‑ahead payout obligations and the theoretical capacity to tolerate higher equity volatility to earn long‑term equity premia. The guidance prioritises reforming measurement: accelerate establishment of long‑cycle assessment frameworks and embed cross‑cycle returns and risk control into fund evaluations. It calls for supporting measures and a steady expansion of pension investment scale and channels; under strict equity‑allocation caps, funds should optimise asset mixes and raise equity exposure, with emphasis on national strategic emerging industries. Authorities will also encourage pension participation in listed‑company governance and directed placements and push for improved dividend mechanisms so pension funds share more of the real‑economy’s growth returns."
-    },
-    {
-      "id": "mkt:01a021a8-3282-7aab-90c3-70e533bc166c",
-      "time": "2026-08-21 08:11:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 11.8 points (-0.13%) at 9,072.00 on Friday, Aug. 21."
-    },
-    {
-      "id": "5050906",
-      "time": "2026-08-21 08:10:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【招商證券：恒生科技指數擴容 產業趨勢變化利好雲廠】招商證券策略報告指出，近期港股市場出現了一系列積極變化。第一，恒生科技指數編制規則改進，成分股擴容並且將收入增速納入篩選標準，回應了市場對於指數“含科量”不足的擔憂。第二，從最新產業趨勢變化來看，AI產業的利潤正在由AI硬體與大模型向雲廠商轉移，港股較為受益。往後看，依然看好港股市場投資機會。"
-    },
-    {
-      "id": "te:markets:577006",
-      "time": "2026-08-21 08:10:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Set for Third Straight Weekly Gain — Silver traded above $68 an ounce on Friday and was on course for a third consecutive weekly gain, as investors turned to safe-haven metals amid heightened volatility across currency and bond markets, while rising oil prices continued to underscore inflationary risks. The precious metal jumped more than 5% this week after the US Treasury Department announced plans to at least double its long-term debt buybacks in an effort to contain borrowing costs, driving Treasury yields and the dollar sharply lower. Silver also pushed higher even after Treasury yields reversed Wednesday’s decline amid concerns that the government’s efforts to rein in long-term borrowing costs may provide only a temporary solution. Meanwhile, oil prices extended their advance as the US prepares sweeping new economic sanctions against Iran, with the two sides locked in a standoff over the Strait of Hormuz."
-    },
-    {
-      "id": "5050905",
-      "time": "2026-08-21 08:10:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格林生物網上發行最終中籤率為0.0144%】據交易所公告，格林生物公佈網上申購情況及中籤率，本次網上發行有效申購戶數為14861576戶，有效申購股數為86910915500股。回撥機制啟動後，網下最終發行數量為1498.75萬股，佔扣除最終戰略配售後發行數量的54.53%，網上最終發行數量為1249.7萬股，佔扣除最終戰略配售數量後發行數量的45.47%。回撥機制啟動後，本次網上發行最終中籤率為0.0143790914%。"
     }
   ]
 }
