@@ -1,7 +1,25 @@
 {
   "date": "2026-08-29",
-  "count": 332,
+  "count": 334,
   "items": [
+    {
+      "id": "5066020",
+      "time": "2026-08-29 04:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國Pasqal Holding SA美國借殼上市首日漲95%，報19.11美元。"
+    },
+    {
+      "id": "mkt:01a04a06-6f13-7aab-917a-4554d0a05cfc",
+      "time": "2026-08-29 04:18:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed: US bank deposits fell to $19.532 trillion last week from $19.534 trillion a week earlier, a $2 billion decline."
+    },
     {
       "id": "5066019",
       "time": "2026-08-29 04:17:01",
