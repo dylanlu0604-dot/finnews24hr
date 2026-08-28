@@ -1,7 +1,191 @@
 {
-  "updated": "2026-08-28 15:06:17",
-  "count": 14599,
+  "updated": "2026-08-28 15:10:26",
+  "count": 14612,
   "items": [
+    {
+      "id": "mkt:01a04733-badd-7aab-9167-40728d25a268",
+      "time": "2026-08-28 15:09:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Cathay Financial Holding expects the Fed and other major central banks to adopt a more hawkish stance."
+    },
+    {
+      "id": "mkt:01a04733-8c0f-7aab-9167-3d199a4509d2",
+      "time": "2026-08-28 15:09:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Umetrip summer travel report: domestic travel drives growth; inbound and outbound markets continue to recover】Umetrip’s 2026 summer travel summary says a delayed start to the season concentrated family and summer-escape travel demand in early–mid August, pushing the peak later. The civil aviation market showed higher volumes, improved demand mix and stable operations; domestic travel led growth while inbound and outbound travel continued to recover and overall travel activity strengthened."
+    },
+    {
+      "id": "5064131",
+      "time": "2026-08-28 15:09:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【看圖：英偉達季度利潤相當於12家美國知名公司季度利潤之和】英偉達在2027財年第二季度的利潤規模，已超過12家美國知名行業巨頭(蘋果、沃爾瑪、可口可樂、寶潔、百事、迪士尼、麥當勞、好市多、通用汽車、耐克、星巴克、UPS)的利潤總和。英偉達作為AI晶片的絕對領導者，其利潤爆發式增長，反映了全球範圍內對AI算力的“軍備競賽”般的需求。這種利潤高度集中於一家公司的現象，在傳統行業極為罕見。"
+    },
+    {
+      "id": "mkt:01a04733-4a28-7aab-9167-37a5594bcb47",
+      "time": "2026-08-28 15:08:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister said total food exports may reach 1.7 mln tonnes in August and 2.0 mln tonnes in September."
+    },
+    {
+      "id": "5064130",
+      "time": "2026-08-28 15:08:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“沙德爾”對浙江、福建造成嚴重影響 國家防減救災委、應急管理部啟動國家四級救災應急響應】8月28日，國家防減救災委、應急管理部針對第18號颱風“沙德爾”對浙江、福建造成的嚴重影響，啟動國家四級救災應急響應，指導支援地方做好災情統計核查、群眾安置救助、基本生活保障等救災救助工作。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04732-a776-7aab-9167-29b6bccfdace",
+      "time": "2026-08-28 15:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's agriculture minister said food exports from Aug. 1-26 totaled 1.42 mln tonnes, including 822,000 tonnes of grain."
+    },
+    {
+      "id": "5064128",
+      "time": "2026-08-28 15:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉夫羅夫披露俄美安克雷奇峰會達成“折中方案”細節】8月28日，在俄羅斯商業諮詢電視臺播出的專訪中，俄羅斯外長拉夫羅夫“覆盤”了一年前的俄美安克雷奇峰會，詳細描述俄方接受美方提議並達成“折中方案”的經過。據拉夫羅夫介紹，安克雷奇峰會前一週，美國總統特使威特科夫將一份“以戰場現實為基礎、包含折中性質細微差別”的提議送至莫斯科。一週後的峰會上，俄羅斯總統普京逐條宣讀該提議，並向包括威特科夫在內的在場者確認複述是否準確。普京隨後表示：“唐納德（特朗普），這裡有些細微差別，但我完全接受你的提議。我們準備好了。”（央視新聞）"
+    },
+    {
+      "id": "5064127",
+      "time": "2026-08-28 15:07:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【怡亞通成立供應鏈發展新公司】企查查APP顯示，近日，深圳市怡亞通供應鏈發展有限公司成立，經營範圍包含：電力電子元器件銷售；光伏裝置及元器件銷售；儲能技術服務等。企查查股權穿透顯示，該公司由怡亞通全資持股。"
+    },
+    {
+      "id": "5064126",
+      "time": "2026-08-28 15:07:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總、應急管理部針對江西湖南啟動防汛四級應急響應】今年第18號颱風“沙德爾”已於8月28日上午登陸浙江沿海。據氣象部門預測，受颱風“沙德爾”影響，未來三天，江西、湖南兩省大部將出現大到暴雨，其中江西北部和西南部、湖南東北部和南部等地部分地區大暴雨。根據《國家防汛抗旱應急預案》有關規定，國家防總、應急管理部決定於8月28日14時針對江西、湖南啟動防汛四級應急響應。"
+    },
+    {
+      "id": "mkt:01a04731-f8e0-7aab-9167-21ff80ce7b0a",
+      "time": "2026-08-28 15:07:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SoftBank Group reiterated its demand that Moody's immediately cease issuing unsolicited credit ratings that do not reflect SoftBank Group's true condition."
+    },
+    {
+      "id": "5064125",
+      "time": "2026-08-28 15:07:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化在山東東營成立石油開發公司】企查查APP顯示，近日，勝利油田勝海（東營）石油開發有限公司成立，經營範圍包含：海洋石油開採；海洋天然氣開採；發電業務、輸電業務、供（配）電業務等。企查查股權穿透顯示，該公司由中國石化全資持股。"
+    },
+    {
+      "id": "mkt:01a04731-f29e-7aab-9167-1f98665a6df4",
+      "time": "2026-08-28 15:07:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China revises Agricultural Law, effective Jan 1, 2027】The Standing Committee of the 14th National People’s Congress approved a revised Agricultural Law on Aug. 28; the law takes effect Jan. 1, 2027. The statute sets policy goals to adapt the rural economic system to the socialist market economy, boost rural productive capacity, raise agricultural output quality and efficiency, and guarantee a stable, secure supply of grain and other key farm products. It also targets higher farmer incomes and living standards, multi‑channel rural employment, livable and productive rural communities, reduced urban‑rural and regional disparities, urban‑rural integration, and gradual modernization of agriculture and rural areas."
+    },
+    {
+      "id": "mkt:01a04731-dc3e-7aab-9167-167362313658",
+      "time": "2026-08-28 15:07:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Spain, France inflation rise strengthens case for ECB September hike】Spain's preliminary August CPI rose 4.5% YoY, more than double the ECB's 2% target and the highest since 2023, though slightly below the median market forecast. France's harmonised CPI accelerated to 2.7% YoY. Both moves were driven by energy prices linked to the ongoing Middle East conflict. Eurozone aggregate CPI is due next week; analysts expect a print above 3%. Markets have fully priced a 25bp ECB hike in September, after June's initial move, and expect another rate increase by spring 2027."
+    },
+    {
+      "id": "5064124",
+      "time": "2026-08-28 15:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團：我方再次要求穆迪立即停止釋出無法反映本集團真實狀況的針對軟銀集團的非主動邀請信用評級。"
+    },
+    {
+      "id": "mkt:01a04730-ae7a-7aab-9167-0d6ca440f742",
+      "time": "2026-08-28 15:06:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【A-share close: indexes retreat after midday; agricultural planting sector leads gains】China's Shanghai Composite Index closed down 0.11%, the Shenzhen Composite Index fell 0.68% and the ChiNext Index declined 1.41%. Combined turnover on the Shanghai and Shenzhen bourses was CNY2.1 trillion, down CNY24.2 billion versus the prior session. The agricultural planting sector extended gains: Wanxiang Denong recorded a nine-day run with six daily limit-ups and Xinsai Co. posted a second straight limit-up. Chemical pharmaceutical names rallied into the close—Yuheng Pharmaceutical hit the limit, with Dongya Pharmaceutical, Shenqi Pharmaceutical, Keyuan Pharmaceutical, Haixiang Pharmaceutical and Zhongzhe Fine Chemical also rising. Real estate stocks showed strength; Shenwuye A and I Love My Home hit daily limits, while Tefa Service, WorldUnion (Shilianhang), Tibet Urban Investment, Shahe Co. and Fuxing shares advanced. CRO-related stocks slid sharply: Wanbang Pharmaceutical plunged more than 15%, Jin'an Protein and CanSino Biologics dropped over 10%, and Baihua Pharma, Hongbo Pharma, Lanwei Medical, Boji Pharmaceutical and Chengda Pharmaceutical also fell."
+    },
+    {
+      "id": "te:economy:578967",
+      "time": "2026-08-28 15:05:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Sweden Consumer Morale at 21-Month High — Sweden’s household confidence indicator rose to 98 in August 2026 from an upwardly revised 97.2 in the previous month. It marked the highest reading since November 2024, as households’ assessment of the economy over the past 12 months improved (-15 vs -19 in July), as well as their expectations for the coming year (-3 vs -8). Views on personal finances remained stable, with assessments of the past 12 months unchanged (4) and expectations for the next 12 months holding steady (9). Moreover, labor market concerns eased, with expectations for unemployment over the next year falling (17 vs 22), while perceptions of the risk of becoming unemployed improved slightly (-1 vs -2). Meanwhile, saving intentions remained unchanged (49), and plans to purchases capital goods became less negative (-12 vs -13). Households estimated current inflation at 9.2% in August from 9.3% in the previous month, while the expected inflation over the next 12 months slightly eased to 6.8% from 6.9%."
+    },
+    {
+      "id": "mkt:01a04730-064f-7aab-9167-071588e6944c",
+      "time": "2026-08-28 15:05:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Somali pirate attacks hit 13-year high】IMO data show at least 15 pirate attacks in waters near Somalia so far this year, the most since 2013. The IMO report, covering incidents since 1994 in the Gulf of Aden, Arabian Sea and Indian Ocean within 2,000 km of the Somali coast, says annual attacks had not exceeded 10 since 2013 (5 in 2025) but rose sharply in 2026, with activity concentrated in the Gulf of Aden between Yemen and Somalia."
+    },
+    {
+      "id": "5064123",
+      "time": "2026-08-28 15:05:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "美國Lucid公司將在美國召回27185輛汽車。"
+    },
+    {
+      "id": "5064122",
+      "time": "2026-08-28 15:04:53",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【農業法完成修訂】十四屆全國人大常委會第二十四次會議8月28日表決透過新修訂的農業法，自2027年1月1日起施行。新修訂的農業法共十四章，包括總則，農業生產經營體制，農業生產，農產品流通與加工，糧食安全，農業投入與支援保護，農業科技、教育與人才，土地等農業資源保護，農業綠色發展，農民權益保護，農村經濟發展，監督檢查，法律責任，附則。法律規定，農業和農村經濟發展的基本目標是：完善適應發展社會主義市場經濟要求的農村經濟體制，不斷解放和發展農村生產力，提升農業綜合生產能力和質量效益，保障糧食等重要農產品穩定安全供給，滿足國民經濟發展和人民美好生活需要，提高農民的收入和生活水平，促進農村勞動力多渠道就業，推進宜居宜業和美鄉村建設，縮小城鄉差別和區域差別，促進城鄉融合發展，逐步實現農業農村現代化。 (新華社)"
+    },
     {
       "id": "mkt:01a0472f-8335-7aab-9166-fbece690f81f",
       "time": "2026-08-28 15:04:51",
@@ -131190,66 +131374,6 @@
         "Nikkei 225"
       ],
       "text": "SEAJ: Japan's July semiconductor manufacturing equipment billings rose 35.4% YoY."
-    },
-    {
-      "id": "te:economy:577141",
-      "time": "2026-08-21 15:09:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Turkey Business Morale Improves in August — Turkey’s manufacturing confidence index rose to 102.8 in August 2026 from a three-month low of 102.2 in the previous month, as sentiment among manufacturers improved slightly. Confidence was supported by a rebound in total orders over the past three months (104.4 vs 99.9 in July), higher fixed investment expenditure (105.5 vs 104.7), and a modest increase in current total orders (84.8 vs 84.5). Output volumes also strengthened to 121.1 from 119.3, while finished goods inventories rose to 98.1 from 97.0. Export orders increased to 118.3 from 116.6, pointing to firmer external demand. However, the improvement was partly limited by a weaker overall business outlook, which fell to 86.7 from 90.2, while expected employment over the next three months declined to 103.3 from 105.2."
-    },
-    {
-      "id": "5051465",
-      "time": "2026-08-21 15:09:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國暗中經第三國驅逐墨移民 墨方明確反對】據美國媒體披露，數月來，美國政府暗中將大批墨西哥移民驅逐至瓜地馬拉和宏都拉斯，再經兩國將移民送返墨西哥。墨西哥外交部反對美國這一做法，表示墨政府接受所有公民直接回國，反對在沒有相關協議的情況下將墨西哥公民驅逐至第三國。（新華社）"
-    },
-    {
-      "id": "5051464",
-      "time": "2026-08-21 15:09:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國任命新貿易部長 承接對美關稅談判重任】韓國總統李在明於21日任命產業資源部貿易副部長Park Jung‑sung出任貿易部長。8月14日，被稱作“首席貿易談判官”的前貿易部長呂翰九在美國特朗普政府帶來的投資壓力下遭突然解職，本次人事任命距離其被解職僅過去一週。新任貿易部長Park此前歷任產業資源部貿易投資局局長、貿易副部長、世界貿易組織（WTO）投資便利化談判共同主席，同時也是美國關稅談判工作組首席代表。他在貿易及貿易政策領域履職近30年，長期擔任核心崗位。青瓦臺高階發言人就此次任命作出說明：“該官員將憑藉成熟的談判策略處理錯綜複雜的貿易問題。他曾主導美國關稅與投資相關談判，面對緊迫的對美貿易課題，是保障談判工作延續性、最大限度維護國家利益的合適人選。”"
-    },
-    {
-      "id": "te:economy:577139",
-      "time": "2026-08-21 15:08:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Business Climate Indicator",
-        "Importance 1"
-      ],
-      "text": "France Business Climate Improves Again — France’s overall business climate improved for a third month in a row to 98 in August 2026 from 95 in the previous month, reaching its highest level since March and moving closer to its long-term average of 100. Retail trade saw the largest gain, with its climate indicator rising to 99 from 96, almost reaching its long-term average, supported by stronger ordering intentions and assessments of past sales. Manufacturing sentiment also strengthened (103 vs 101), mainly due to a sharp improvement in personal production prospects. The services climate edged up to 100 from 99, reaching its long-term average as assessments of past and future activity and expected demand improved. Meanwhile, the building construction climate remained unchanged at 96, below its long-term average, as improved expectations for future activity offset stable assessments of past activity. The employment climate was unchanged at 99."
-    },
-    {
-      "id": "mkt:01a02326-1ba1-7aab-90ca-c326d990f8be",
-      "time": "2026-08-21 15:08:14",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "The regional governor said industrial facilities in Russia's Perm region were damaged after a Ukrainian drone attack."
-    },
-    {
-      "id": "5051463",
-      "time": "2026-08-21 15:07:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中水漁業：厄爾尼諾現象的發生可能會對漁業資源有一定影響】中水漁業8月21日在互動平臺表示，厄爾尼諾現象的發生，可能會對漁業資源有一定的影響。但是，一方面產量即使受影響效益並非按比例下降，價格是受供需決定的。另一方面，公司重組後作業區域更寬廣，魚貨品種更豐富，公司會根據實際情況調整作業區域，科學排程漁船生產，有效降低自然條件產生的風險。"
     }
   ]
 }
