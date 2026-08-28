@@ -1,7 +1,36 @@
 {
   "date": "2026-08-29",
-  "count": 329,
+  "count": 332,
   "items": [
+    {
+      "id": "5066019",
+      "time": "2026-08-29 04:17:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：美國上週銀行存款19.532萬億美元，之前一週19.534萬億美元。"
+    },
+    {
+      "id": "5066018",
+      "time": "2026-08-29 04:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃爾瑪：在不承認負有責任的前提下，就美國司法部阿片類藥物民事訴訟達成和解，和解金額不重大，相關撥備已於 7 月 31 日計提。"
+    },
+    {
+      "id": "te:markets:579251",
+      "time": "2026-08-29 04:14:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall on Rising Fed Hike Bets — The US stock indices closed lower on Friday as chipmakers shares trimmed the previous session’s gains and a more hawkish tone from Fed Chair Warsh strengthened expectations for a rate hike next month. The S&P 500 shed 0.2%, the Nasdaq fell 0.7% and the Dow inched lower. Marvell fell 10.3% despite beating earnings estimates and raising its outlook. Chipmakers pulled back after rallying on Nvidia’s (-4.6%) strong results earlier in the week, with Broadcom down 0.7%, and AMD falling 2.3%. Hyperscalers held gains, with Alphabet up 1.5%, Microsoft adding 1.7%, Amazon jumping 4%, and Meta rising 1.2%. Meanwhile, Warsh said underlying inflation was not slowing and pledged to keep fighting price growth until it converges with the Fed’s 2% target during his speech at Jackson Hole Symposium, prompting traders to increase bets on a rate hike next month. Industrial and pharmaceutical stocks declined, with AbbVie losing 1% and Lam Research falling 5.2%."
+    },
     {
       "id": "mkt:01a049fe-ff52-7aab-917a-3eef2eca9076",
       "time": "2026-08-29 04:10:43",

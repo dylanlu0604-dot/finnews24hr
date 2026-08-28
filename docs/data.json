@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-29 04:14:27",
-  "count": 13389,
+  "updated": "2026-08-29 04:18:24",
+  "count": 13386,
   "items": [
+    {
+      "id": "5066019",
+      "time": "2026-08-29 04:17:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲：美國上週銀行存款19.532萬億美元，之前一週19.534萬億美元。"
+    },
+    {
+      "id": "5066018",
+      "time": "2026-08-29 04:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃爾瑪：在不承認負有責任的前提下，就美國司法部阿片類藥物民事訴訟達成和解，和解金額不重大，相關撥備已於 7 月 31 日計提。"
+    },
+    {
+      "id": "te:markets:579251",
+      "time": "2026-08-29 04:14:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall on Rising Fed Hike Bets — The US stock indices closed lower on Friday as chipmakers shares trimmed the previous session’s gains and a more hawkish tone from Fed Chair Warsh strengthened expectations for a rate hike next month. The S&P 500 shed 0.2%, the Nasdaq fell 0.7% and the Dow inched lower. Marvell fell 10.3% despite beating earnings estimates and raising its outlook. Chipmakers pulled back after rallying on Nvidia’s (-4.6%) strong results earlier in the week, with Broadcom down 0.7%, and AMD falling 2.3%. Hyperscalers held gains, with Alphabet up 1.5%, Microsoft adding 1.7%, Amazon jumping 4%, and Meta rising 1.2%. Meanwhile, Warsh said underlying inflation was not slowing and pledged to keep fighting price growth until it converges with the Fed’s 2% target during his speech at Jackson Hole Symposium, prompting traders to increase bets on a rate hike next month. Industrial and pharmaceutical stocks declined, with AbbVie losing 1% and Lam Research falling 5.2%."
+    },
     {
       "id": "mkt:01a049fe-ff52-7aab-917a-3eef2eca9076",
       "time": "2026-08-29 04:10:43",
@@ -120512,66 +120541,6 @@
         "國際"
       ],
       "text": "美國商品期貨交易委員會（CFTC）：8月18日當週，槓桿基金開始重建日元空頭倉位。"
-    },
-    {
-      "id": "te:markets:577363",
-      "time": "2026-08-22 04:18:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds at $97 — Brent crude oil was little changed around $97 a barrel on Friday, as investors assessed signs that Iran may be seeking an end to the conflict with the US. Iranian President Masoud Pezeshkian said Tehran would prefer to conclude the war while it remains in a position of strength, describing the existing memorandum with Washington as a victory for Iran. The comments provided some relief after Treasury Secretary Scott Bessent said the US would impose its toughest-ever sanctions on Tehran and intensify economic pressure on the Iranian regime. Amidst the conflicting signals, oil prices rose more than 5% for the second week. Meanwhile, the US military said it had helped tankers transport more than 660 million barrels of crude through the Strait of Hormuz since early May, suggesting that substantial volumes continue to move through the critical energy corridor despite the conflict and heightened geopolitical risks."
-    },
-    {
-      "id": "te:markets:577362",
-      "time": "2026-08-22 04:18:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Closes Higher on Miners and Banks Gains — The S&P/TSX Composite Index rose 0.7% to close at 36,620 on Friday, supported by gains in mining and banking stocks. Gold prices held onto their gains after the US signaled it would increase Treasury note and bond buybacks in the secondary market. Agnico Eagle gained 2.3%, Barrick rose 2.9%, and WPM jumped 4.9%. Financials also traded mostly higher following weaker-than-expected retail sales data, as softer consumer spending reinforced expectations that the Bank of Canada will keep interest rates unchanged next week. BMO gained 0.6%, while Scotiabank added 1%. Fairfax Financial (+0.2%), a frontrunner to acquire the Indian government’s stake in IDBI Bank, is set to be given up to two years to consolidate its Indian banking holdings, potentially easing the acquisition process. Retailers traded mostly lower, with ARD down 0.4%, Loblaw shedding 0.7%, and Dollarama losing 0.5%."
-    },
-    {
-      "id": "te:markets:577361",
-      "time": "2026-08-22 04:17:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Oil Holds Near Highs as Iran Conflict Uncertainty Persists — Crude oil was little changed around $94 a barrel on Friday, as investors assessed signs that Iran may be seeking an end to the conflict with the US. Iranian President Masoud Pezeshkian said Tehran would prefer to conclude the war while it remains in a position of strength, describing the existing memorandum with Washington as a victory for Iran. The comments provided some relief after Treasury Secretary Scott Bessent said the US would impose its toughest-ever sanctions on Tehran and intensify economic pressure on the Iranian regime. Amidst the conflicting signals, oil prices rose more than 5% for the second week. Meanwhile, the US military said it had helped tankers transport more than 660 million barrels of crude through the Strait of Hormuz since early May, suggesting that substantial volumes continue to move through the critical energy corridor despite the conflict and heightened geopolitical risks."
-    },
-    {
-      "id": "5052760",
-      "time": "2026-08-22 04:16:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：美國銀行存款從前一週的19.496萬億美元增至19.532萬億美元。"
-    },
-    {
-      "id": "5052759",
-      "time": "2026-08-22 04:15:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美股大類資產類ETF多數收漲，黃金ETF漲超1.9%領跑】週五（8月21日），黃金ETF收漲1.95%，道指ETF漲0.98%，羅素2000指數ETF漲0.77%，新興市場ETF漲0.75%，美國布倫特油價基金漲0.58%，標普500 ETF、納斯達克100 ETF、大豆基金、巴克萊美國可轉債ETF、日元做多至多漲0.41%；歐元做多收平，做多美元指數、美國房地產ETF、農產品基金、美國國債20+年ETF至多跌0.35%，恐慌指數做多跌1.5%。2026年迄今，布油基金累計上漲89.97%，新興市場ETF、羅素2000指數ETF、大豆基金等至多漲23.32%，納指ETF漲16.41%，標普500 ETF漲12.89%，農產品基金漲10.97%，黃金ETF漲6.83%，做多美元指數漲3.22%。"
-    },
-    {
-      "id": "5052758",
-      "time": "2026-08-22 04:14:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "NOODLES & CO 提交 1 億美元混合證券儲架發行申請。"
     }
   ]
 }
