@@ -1,7 +1,419 @@
 {
   "date": "2026-08-28",
-  "count": 812,
+  "count": 852,
   "items": [
+    {
+      "id": "5064086",
+      "time": "2026-08-28 14:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中新（加坡）專利審查高速路試點專案延長】國家智慧財產權局訊息，根據中國國家智慧財產權局和新加坡智慧財產權局的共同決定，將中新（加坡）專利審查高速路（PPH）試點專案自2026年9月1日起延長五年，至2031年8月31日止。只要申請與對應申請具有相同的最早日（可以是對應申請的優先權日或申請日），就可以請求參與試點。PPH是不同國家或地區間的專利快速審查通道，透過專利審查機構之間的工作共享加快專利審查程序。自2011年11月啟動首項PPH試點至今，中國國家智慧財產權局已經先後與38個國家或地區的專利審查機構建立了PPH合作機制，為我國申請人的海外專利申請快速獲權提供了有效支撐。"
+    },
+    {
+      "id": "5064085",
+      "time": "2026-08-28 14:48:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特阿美將於明年上半年暫停向亞洲供應丙烷】沙特阿美已通知部分亞洲長期客戶，受檢修影響，2027 年上半年將停止供應丙烷。不願具名的知情人士透露，該公司仍會繼續供應丁烷。沙特阿美的這一舉措，將使得進口商既要單獨採購沙特丁烷，又要從別處採購丙烷來維持原有配比，採購難度與成本或將雙雙抬升。"
+    },
+    {
+      "id": "mkt:01a04720-3068-7aab-9165-e4a1c0be68bc",
+      "time": "2026-08-28 14:48:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude falls 1.00% intraday to $82.11/bbl."
+    },
+    {
+      "id": "mkt:01a0471f-ede8-7aab-9165-ddb640bb1311",
+      "time": "2026-08-28 14:47:49",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【RMB cross-border payments cover 192 countries and regions】The PBOC says China’s RMB cross-border payment system now covers 192 countries and regions. PBOC Deputy Governor Lu Lei said that as of end-June 2026 the system had 210 direct participants and 1,619 indirect participants, with services available through more than 5,200 banking institutions. The central bank said it will accelerate construction and rollout of a fast payment system and continue to advance cross-border QR-code interoperability, strengthening global RMB settlement capacity."
+    },
+    {
+      "id": "mkt:01a0471f-bca0-7aab-9165-d59fe7748b0b",
+      "time": "2026-08-28 14:47:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share chemical pharmaceutical sector dipped in late trading then recovered; Yuheng Pharmaceutical hit its daily limit up, while Dongya Pharmaceutical, Shenqi Pharmaceutical, Keyuan Pharmaceutical, Haixiang Pharmaceutical and Zhongzhe Jinghua also advanced."
+    },
+    {
+      "id": "mkt:01a0471f-b9e2-7aab-9165-cc6875100cc2",
+      "time": "2026-08-28 14:47:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France July household consumption expenditure YoY 1.4% vs 0.1% prior."
+    },
+    {
+      "id": "mkt:01a0471f-99ff-7aab-9165-c2817dff9e11",
+      "time": "2026-08-28 14:47:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Household Consumption Spending (YoY) (Jul) | actual 1.4% | previous 0.10%"
+    },
+    {
+      "id": "mkt:01a0471f-90d7-7aab-9165-b8c7cdcd85bf",
+      "time": "2026-08-28 14:47:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France preliminary harmonised CPI (HICP) MoM for August 0.8% (expectation 0.70%, July 0.60%)."
+    },
+    {
+      "id": "mkt:01a0471f-7279-7aab-9165-b48f4b575348",
+      "time": "2026-08-28 14:47:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister: Restoring diplomacy not impossible but 'pressure won't work'】State media said the Qatari PM visited Tehran today. Iran foreign minister Araghchi called talks with the Qatari prime minister and foreign minister constructive and creative, saying restoring diplomacy \"is not impossible\" and urging the US to understand that \"pressure won't work,\" build trust, speak respectfully, acknowledge Iran's rights and fulfill its commitments."
+    },
+    {
+      "id": "mkt:01a0471e-efbc-7aab-9165-a94e8ae5f0ed",
+      "time": "2026-08-28 14:46:44",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "France August CPI preliminary YoY 2.4% vs expected 2.4%, prior 2.1%."
+    },
+    {
+      "id": "mkt:01a0471e-bb78-7aab-9165-a5f20f15640c",
+      "time": "2026-08-28 14:46:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France preliminary August CPI MoM 0.7% (expected 0.7%), July 0.6%."
+    },
+    {
+      "id": "mkt:01a0471e-a059-7aab-9165-9b1e02fe98a1",
+      "time": "2026-08-28 14:46:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Russia hold 13th agricultural cooperation subcommittee meeting in Beijing】Beijing, Aug 27 — Vice Minister of Agriculture Zhang Zhili and Russian Deputy Agriculture Minister Markovich co‑chaired the 13th meeting of the China‑Russia Prime Ministers' Regular Meeting Committee agricultural cooperation subcommittee. Discussions focused on agricultural product trade and reciprocal market access, agricultural technology and talent training, and livestock and veterinary cooperation."
+    },
+    {
+      "id": "5064083",
+      "time": "2026-08-28 14:45:26",
+      "tags": [
+        "資料"
+      ],
+      "text": "法國8月CPI環比初值 0.7%，預期 0.7%，前值 0.6%。\n法國8月CPI同比初值 2.4%，預期 2.4%，前值 2.1%。\n法國二季度私營部門就業人數季環比終值 -0.1%，初值 -0.1%。\n法國二季度GDP季環比終值 0%，預期 0.2%，初值 0.2%。\n法國7月家庭消費支出同比 1.4%，前值 0.1%。"
+    },
+    {
+      "id": "mkt:01a0471d-aa78-7aab-9165-90b5df789782",
+      "time": "2026-08-28 14:45:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "France Q2 final GDP YoY -0.73% (exp +0.70%; prior +0.70%)."
+    },
+    {
+      "id": "mkt:01a0471d-8db5-7aab-9165-8c5006d1ed88",
+      "time": "2026-08-28 14:45:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | GDP Rate Final (YoY) (Q2) | actual -0.73% | consensus 0.70% | previous 0.70%"
+    },
+    {
+      "id": "mkt:01a0471d-7c9f-7aab-9165-84f8c9c60b8e",
+      "time": "2026-08-28 14:45:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France harmonised CPI (HICP) preliminary Aug +2.7% YoY vs +2.6% est., +2.4% prior."
+    },
+    {
+      "id": "mkt:01a0471d-7987-7aab-9165-796e44c49ce5",
+      "time": "2026-08-28 14:45:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "France Q2 GDP final QoQ 0.0% (consensus 0.2%); prior quarter revised from +0.2% to -0.2%."
+    },
+    {
+      "id": "mkt:01a0471d-76c9-7aab-9165-71a413577a75",
+      "time": "2026-08-28 14:45:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France household consumption spending rose 0.5% MoM in July, versus 0.0% expected; June was revised up to 0.6% from 0.4%."
+    },
+    {
+      "id": "5064082",
+      "time": "2026-08-28 14:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic首款在物理世界執行的AI工具問世】Anthropic釋出公告稱即將推出專為物理世界設計的AI工具“模型硬體標準”（MHS），可讓AI自主操作各類可程式設計科研、製造裝置。該工具可將硬體整合時間從數週甚至數月縮短至數小時甚至幾分鐘，支援24小時自主實驗執行。"
+    },
+    {
+      "id": "mkt:01a0471d-5729-7aab-9165-693889bf9de2",
+      "time": "2026-08-28 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Household Consumption Spending (MoM) (Jul) | actual 0.5% | consensus 0.00% | previous 0.40%"
+    },
+    {
+      "id": "mkt:01a0471d-571f-7aab-9165-615aba114036",
+      "time": "2026-08-28 14:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | GDP Rate Final (QoQ) (Q2) | actual 0% | consensus 0.20% | previous 0.20%"
+    },
+    {
+      "id": "5064081",
+      "time": "2026-08-28 14:45:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1396.46美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0471c-dd2a-7aab-9165-5bab2157022d",
+      "time": "2026-08-28 14:44:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【CBA: Kevin Warsh faces four communication objectives at Jackson Hole】Commonwealth Bank of Australia FX strategist Samarra Hammoud says Fed chair Kevin Warsh's Jackson Hole remarks will aim to: restore market confidence in the Fed's commitment to curb inflation; allay fears of fiscal dominance; persuade markets that less reliance on forward guidance will not harm financial stability; and bolster confidence in Fed working groups. Hammoud calls the agenda ambitious and warns communication alone may be insufficient, advising market skepticism. Given Warsh's resistance to forward guidance, markets may view his inflation remarks as not sufficiently hawkish; that could put downside pressure on the USD."
+    },
+    {
+      "id": "te:economy:578951",
+      "time": "2026-08-28 14:44:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Sweden Business Confidence Hits 4-Year High — Sweden’s business confidence indicator climbed to 107.4 in July 2026 from a slightly upwardly revised 106.4 in the previous month, marking the highest level since June 2022. The increase points to a stronger-than-normal business mood, although changes across sectors remained small. Demand conditions were unchanged at -17, remaining broadly in line with the historical average, while companies reported a decline in employment over the past three months, with the net figure at -3. However, hiring plans strengthened (6 vs 4 in June), pointing to an increase in workforce levels over the next three months. Meanwhile, firms’ expectations for sales prices remained elevated, with the net figure edging up to 21 from 20, indicating that companies anticipate price increases to a greater extent than normal."
+    },
+    {
+      "id": "te:markets:578949",
+      "time": "2026-08-28 14:43:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Rises on Middle East Uncertainty — UK natural gas prices rose toward 170 pence per therm on Friday, extending gains from the previous session and moving back toward their highest level since January 2023, as supply risks remain amid uncertainty over a Middle East peace deal. Prices jumped on Thursday after reports that President Trump was not interested in returning to the terms of a June deal with Iran. This reversed losses from earlier this week, which were driven by progress in talks between Pakistan and Iran to end the conflict and an agreement between Tehran and Oman on control and revenues tied to the Strait of Hormuz. The near-closure of the Strait has continued to disrupt LNG supplies from Qatar, while extreme summer heat-driven cooling demand diverted supplies from storage. These factors have left Europe scrambling to secure supplies, heightening fears that the region could enter the winter heating season with insufficient reserves. For the week, UK gas prices climbed 4%, their third straight weekly gain."
+    },
+    {
+      "id": "5064080",
+      "time": "2026-08-28 14:43:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利：降嗶哩嗶哩ADR目標價至27美元，重申“增持“評級。"
+    },
+    {
+      "id": "5064079",
+      "time": "2026-08-28 14:43:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招銀國際：藥明生物目標價上調至60港元 維持“買入”評級】招銀國際釋出研報稱，藥明生物（02269）上半年業績強勁，全年收入增長指引亦上調至15%-18%，將藥明生物目標價由39港元上調至60港元，維持“買入”評級。該行上調藥明生物業績預測，預計2026年收入同比增長17.1%，經調整淨利潤同比增長16.5%，以反映上調的業績指引及積極的板塊需求展望。"
+    },
+    {
+      "id": "te:markets:578947",
+      "time": "2026-08-28 14:43:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Rises 0.4% This Week — The ASX 200 rose 54 points, or 0.6%, to close at 9,092 on Friday, halting a two-day losing streak as strength in commercial services, tech, healthcare, and energy minerals lifted sentiment. Traders looked ahead to next week’s key domestic releases in Australia, including Q2 GDP and July trade figures, while in main trading partner China, July PMI readings from both official and private surveys are due. Gains were capped, however, as U.S. stock futures traded mostly lower, with investors cautious ahead of Fed Chair Kevin Warsh’s Jackson Hole speech for signals on the rate path. Locally, concerns lingered that the cash rate may stay higher for longer after hotter-than-expected July inflation, fuelling bets on a hike at the next RBA meeting. Standouts included Xero (5.2%), PLS Group (3.8%), and Wisetech Global (3.1%). The big four banks rallied, while heavyweight BHP added 0.9%. For the week, markets rose 0.4%, marking the first gain in three weeks."
+    },
+    {
+      "id": "5064078",
+      "time": "2026-08-28 14:42:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.00%，成分股中，戈碧迦跌4.44%，則成電子跌3.12%，天力複合跌3.02%，萬源通跌2.37%。"
+    },
+    {
+      "id": "te:economy:578945",
+      "time": "2026-08-28 14:42:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Ireland 10Y Bond Yield Hits 12-1/2-year High — Ireland 10 Year Government Bond Yield increased to 3.44%, the highest since January 2014. Over the past 4 weeks, Ireland 10Y Bond Yield gained 9.12 basis points, and in the last 12 months, it increased 44.67 basis points."
+    },
+    {
+      "id": "mkt:01a0471a-fc98-7aab-9165-5706d737a017",
+      "time": "2026-08-28 14:42:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "MORGAN STANLEY cut its rating on the European paper and packaging sector to Underweight from Equal-Weight."
+    },
+    {
+      "id": "mkt:01a0471a-3817-7aab-9165-4e86c87ebb8a",
+      "time": "2026-08-28 14:41:35",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "South Korea's KOSPI ended a three-day winning streak and fell 1.8% for the week."
+    },
+    {
+      "id": "mkt:01a04719-fd3e-7aab-9165-41f5f7e084ab",
+      "time": "2026-08-28 14:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Norwegian King Harald V dies at 89】Norway's King Harald V died on Aug 28 after a more-than-week-long hospitalisation for a blood disorder, aged 89. He succeeded to the throne in January 1991 and had been hospitalised several times in recent years."
+    },
+    {
+      "id": "5064075",
+      "time": "2026-08-28 14:40:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率升至3.276%，創15年新高。"
+    },
+    {
+      "id": "5064074",
+      "time": "2026-08-28 14:40:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱以色列總理嚇唬特朗普】在黎巴嫩“燈塔電視臺”當地時間8月27日晚播出的採訪中，伊朗最高國家安全委員會秘書雷扎伊表示，所謂的“伊朗密謀刺殺美國總統特朗普幼子巴倫”，是“以色列總理內塔尼亞胡用來欺騙特朗普的彌天大謊”。雷扎伊還拿特朗普今年7月初在土耳其秘密換乘專機以躲避所謂“伊朗的刺殺”一事舉例稱，“這些都是內塔尼亞胡捏造的謊言，他不止一次嚇唬特朗普”。美國特勤局當地時間8月25日稱，已注意到伊朗國家電視臺播出的一段影片，內容涉及“針對巴倫·特朗普的潛在暗殺圖謀”。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:578944",
+      "time": "2026-08-28 14:40:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Set to End Week Steady — The Indonesian rupiah firmed to around IDR 17,700 per U.S. dollar on Friday, reversing losses from the prior two sessions after an orderly protest in Jakarta Thursday passed without major security disruptions. Sentiment was also lifted by Bank Indonesia Acting Governor Destry Damayanti, who told parliament that closer policy coordination would not compromise the central bank’s independence. She added that monetary policy would remain focused on maintaining stability while supporting growth. For the week, the rupiah was on track to stabilise after losses in recent weeks, as investors looked ahead to key domestic data, including August inflation and July trade figures. Focus will also remain on the appointment of Bank Indonesia’s next governor, with parliament expected to decide after Destry, the sole nominee for the post, undergoes a fit-and-proper test. Globally, the dollar index held broadly steady ahead of Fed Chair Kevin Warsh’s speech at the annual Jackson Hole meeting later today."
+    },
+    {
+      "id": "mkt:01a04719-1d07-7aab-9165-3934ff6450a0",
+      "time": "2026-08-28 14:40:23",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Morgan Stanley downgraded the European telecom sector rating to Neutral from Overweight."
+    },
+    {
+      "id": "5064073",
+      "time": "2026-08-28 14:40:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中俄總理定期會晤委員會農業合作分委會第十三次會議在北京召開】8月27日，農業農村部副部長張治禮在北京與俄羅斯聯邦農業部副部長馬爾科維奇共同主持召開中俄總理定期會晤委員會農業合作分委會第十三次會議。雙方就農產品貿易及相互准入、農業科技與人才培養、畜牧獸醫等議題深入交流。"
+    },
+    {
+      "id": "mkt:01a04718-e9dd-7aab-9165-32cc93b33da8",
+      "time": "2026-08-28 14:40:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Germany's 10-year government bond yield rose to 3.276%, a 15-year high."
+    },
+    {
+      "id": "5064072",
+      "time": "2026-08-28 14:40:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【挪威國王哈拉爾五世去世】當地時間8月28日，總檯記者獲悉，挪威國王哈拉爾五世因病去世，終年89歲。這位歐洲最年長的國家元首因血液疾病已住院一週多。哈拉爾五世於1991年1月繼承王位。近年來，他曾因健康問題多次住院。（央視新聞）"
+    },
     {
       "id": "mkt:01a04718-9e64-7aab-9165-297b801b96e1",
       "time": "2026-08-28 14:39:50",
