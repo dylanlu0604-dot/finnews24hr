@@ -1,7 +1,44 @@
 {
   "date": "2026-08-29",
-  "count": 319,
+  "count": 321,
   "items": [
+    {
+      "id": "mkt:01a049f8-2f28-7aab-917a-15690b472db6",
+      "time": "2026-08-29 04:03:16",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed lower on Friday, Aug 28: Dow Jones Industrial Average down 10.10 pts (-0.02%) to 53,559.34; S&P 500 down 19.52 pts (-0.25%) to 7,711.47; Nasdaq Composite down 138.93 pts (-0.52%) to 26,402.42."
+    },
+    {
+      "id": "mkt:01a049f7-e08f-7aab-917a-09745b4d81cd",
+      "time": "2026-08-29 04:02:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Amazon",
+        "Alphabet",
+        "Apple",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "NVDA.O",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: S&P, Dow, Nasdaq fall; NVIDIA down >4%】US equities closed lower Friday: Dow -0.02%, S&P 500 -0.25%, Nasdaq -0.52%. MARVELL tumbled 10.28%; NVIDIA fell 4.57%, Intel down 2.85%, Tesla down 1.71%. Mega-cap gains: Amazon +3.97%, Alphabet +1.74%, Apple +1.63%. Nasdaq China Golden Dragon Index +0.43%; Alibaba +2.21%, Baidu +0.19%."
+    },
     {
       "id": "5066014",
       "time": "2026-08-29 04:01:22",

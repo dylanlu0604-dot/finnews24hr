@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-29 04:02:28",
-  "count": 13395,
+  "updated": "2026-08-29 04:06:46",
+  "count": 13392,
   "items": [
+    {
+      "id": "mkt:01a049f8-2f28-7aab-917a-15690b472db6",
+      "time": "2026-08-29 04:03:16",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed lower on Friday, Aug 28: Dow Jones Industrial Average down 10.10 pts (-0.02%) to 53,559.34; S&P 500 down 19.52 pts (-0.25%) to 7,711.47; Nasdaq Composite down 138.93 pts (-0.52%) to 26,402.42."
+    },
+    {
+      "id": "mkt:01a049f7-e08f-7aab-917a-09745b4d81cd",
+      "time": "2026-08-29 04:02:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Amazon",
+        "Alphabet",
+        "Apple",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "NVDA.O",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: S&P, Dow, Nasdaq fall; NVIDIA down >4%】US equities closed lower Friday: Dow -0.02%, S&P 500 -0.25%, Nasdaq -0.52%. MARVELL tumbled 10.28%; NVIDIA fell 4.57%, Intel down 2.85%, Tesla down 1.71%. Mega-cap gains: Amazon +3.97%, Alphabet +1.74%, Apple +1.63%. Nasdaq China Golden Dragon Index +0.43%; Alibaba +2.21%, Baidu +0.19%."
+    },
     {
       "id": "5066014",
       "time": "2026-08-29 04:01:22",
@@ -120553,51 +120590,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普總統將前往南卡羅來納州，為格雷厄姆造勢，迎接週二共和黨初選第二輪選舉，參選雙方為格雷厄姆與拉爾夫・諾曼眾議員。此次第二輪選舉的獲勝者，將接替已故參議員林賽・格雷厄姆，成為 11 月選票上的共和黨參議員候選人。"
-    },
-    {
-      "id": "5052747",
-      "time": "2026-08-22 04:06:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "INSTEEL 將於 2026 年 10 月底關閉俄亥俄州上桑達斯基工廠。"
-    },
-    {
-      "id": "5052746",
-      "time": "2026-08-22 04:05:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "科斯塔以 8 億美元現金完成對 Zonda 的收購  。"
-    },
-    {
-      "id": "5052745",
-      "time": "2026-08-22 04:03:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "南方銅業公司漲8.7%，創收盤歷史新高。自由港漲7.7%，創2025年4月份以來最佳單日表現。"
-    },
-    {
-      "id": "5052744",
-      "time": "2026-08-22 04:02:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克 100 指數終結五連跌。"
-    },
-    {
-      "id": "te:economy:577359",
-      "time": "2026-08-22 04:02:39",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Argentina Retail Sales Rise in June — Argentina’s retail sales at current prices rose 13.4% year on year to ARS 685.4 billion in June 2026. Sales in clothing, footwear and leather goods totaled ARS 231.0 billion, followed by sporting goods and clothing (ARS 116.6 billion) and food courts, food stores and kiosks (ARS 116.4 billion). Electronics, home appliances and computers generated ARS 65.3 billion, while sales in furniture, home decoration and household textiles reached ARS 35.8 billion. By region, sales in the City of Buenos Aires increased 18.5% year on year to ARS 193.6 billion, while those in the 24 districts of Greater Buenos Aires rose 8.3% to ARS 224.1 billion. Sales in the Pampeana Region increased 13.2% to ARS 145.8 billion, while Cuyo rose 18.3% to ARS 49.1 billion. The Northern Region and Patagonia recorded gains of 11.0% and 17.2%, respectively."
     }
   ]
 }
