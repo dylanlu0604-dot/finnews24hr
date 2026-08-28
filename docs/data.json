@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-29 03:20:19",
-  "count": 13400,
+  "updated": "2026-08-29 03:24:36",
+  "count": 13398,
   "items": [
+    {
+      "id": "5065994",
+      "time": "2026-08-29 03:22:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Punchbowl ：美國眾議院將於週二就臨時撥款法案進行表決，表決將在暫停議事規則的程式下開展。"
+    },
     {
       "id": "mkt:01a049cf-45dd-7aab-9179-676394afc220",
       "time": "2026-08-29 03:18:35",
@@ -120540,34 +120548,6 @@
         "公司"
       ],
       "text": "【OpenAI美洲銷售副總裁辭職，高管離職潮引發內部動盪 】OpenAI美洲區銷售副總裁Kaylin Voss已辭職，距其前上司、首席營收官Denise Dresser離職僅一週。Voss在OpenAI僅任職五個月，兩人此前均從Salesforce被招募以組建企業銷售團隊。隨著GPT-5.6釋出推動企業銷售加速，兩位核心銷售高管的相繼離開正引發團隊內部動盪，促使多名銷售人員考慮離職。近期OpenAI已有多位關鍵高管相繼離任，凸顯其在衝刺IPO前夕面臨的管理層穩定性挑戰。"
-    },
-    {
-      "id": "5052697",
-      "time": "2026-08-22 03:24:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美最高法院允許白宮宴會廳繼續施工】美國最高法院當地時間8月21日裁定，允許特朗普政府暫時繼續推進白宮宴會廳專案的施工，暫緩執行一項要求大部分工程停工的司法命令。最高法院此次採取的“行政擱置”措施，為大法官們爭取了更多時間，以審議特朗普政府提出的正式請求——即在相關訴訟程式進行期間，允許耗資4億美元的宴會廳專案繼續施工。 美國文物保護組織“美國國家歷史保護信託基金會”去年年底對白宮宴會廳改造專案提起訴訟。哥倫比亞特區聯邦地區法院法官今年3月底下令暫停白宮宴會廳專案施工。特朗普政府隨即提起上訴。4月，該法官延長了暫停令，只允許建設掩體等地下安全設施。特朗普政府再次提起上訴。 哥倫比亞特區聯邦巡迴上訴法院8月7日裁定，維持暫停令。特朗普當天透過社交媒體發文，稱此裁決“不公正”，表示將向美國最高法院提起上訴。 在8月14日提交給最高法院的檔案中，美國司法部律師呼應了特朗普的說法，稱該專案出於安全必要，並援引針對特朗普的暗殺企圖及其他近期威脅作為依據。（CCTV國際時訊）"
-    },
-    {
-      "id": "5052696",
-      "time": "2026-08-22 03:21:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI核心銷售高管凱琳·沃斯辭職。"
-    },
-    {
-      "id": "te:economy:577358",
-      "time": "2026-08-22 03:20:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil Yields Fall on Tighter Election Race Prospects — Brazil’s 10-year government bond yield fell to 14.7% from the near one-month high reached on August 14, supported by expectations of a tighter presidential race and broad-based weakness in the US dollar. Financial markets view Senator Flávio Bolsonaro as more fiscally restrictive than President Lula, particularly as elevated domestic yields continue to weigh on economic activity. Recent developments, including an investigation into leaks involving Lula’s son and signs that Flávio is narrowing the gap with Lula in potential runoff scenarios, have fueled expectations of a possible change in government and economic policy. On Monday, a BTG/Nexus poll showed Lula and Flávio in a technical tie in a potential runoff. The weaker dollar also provided a more favorable global backdrop for Brazilian fixed income. However, US Treasury yields remained elevated despite the Treasury raising the limit on long-term bond buyback operations."
     }
   ]
 }
