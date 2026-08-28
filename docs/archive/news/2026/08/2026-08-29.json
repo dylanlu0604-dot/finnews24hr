@@ -1,7 +1,67 @@
 {
   "date": "2026-08-29",
-  "count": 313,
+  "count": 319,
   "items": [
+    {
+      "id": "5066014",
+      "time": "2026-08-29 04:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "太平洋瓦電收跌7.5%，創2025年1月份以來最差單日表現。"
+    },
+    {
+      "id": "5066013",
+      "time": "2026-08-29 04:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國防部正與委內瑞拉大亨就大型石油交易進行談判】美國政府正謀求獲得委內瑞拉石油儲備的大額權益，計劃由國防部與頗具爭議的能源投資人亞歷杭德羅・貝坦庫爾開展合作。貝坦庫爾現已成為美委兩國之間關鍵中間人。據知情人士透露，談判覆蓋委內瑞拉各大主要石油盆地內多達 17 處油田。部分知情人士還表示，各方討論擬由五角大樓戰略資本辦公室負責監管該筆投資。正在磋商的方案之一，是美國取得為期 100 年的油田租賃權。"
+    },
+    {
+      "id": "5066012",
+      "time": "2026-08-29 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.02%，標普500指數跌0.25%，納指跌0.52%。貝寶跌12.71%，邁威爾科技跌10.28%，太平洋瓦電跌7.44%，Strategy跌7.34%，Generac控股跌6.83%。“七姐妹”方面：亞馬遜漲3.97%，微軟漲1.68%，蘋果漲1.63%，谷歌漲1.53%，Meta Platforms漲1.21%，特斯拉跌1.71%，英偉達跌4.57%。"
+    },
+    {
+      "id": "5066011",
+      "time": "2026-08-29 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.40%】霸王茶姬漲4.25%，新氧漲4.31%，高途漲3.30%，貝殼漲3.27%，閃送漲2.63%。"
+    },
+    {
+      "id": "mkt:01a049f4-8a94-7aab-917a-0370272c1a16",
+      "time": "2026-08-29 03:59:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran's Pezeshkian says continued sanctions would push prices higher】Iran's President Pezeshkian said imports and exports have dropped 25-35%, with imports falling more sharply. He said the government's foreign-policy priorities for the remainder of its term are easing tensions, deepening ties with eastern countries and lifting sanctions. If sanctions continue, prices will keep rising; importers who previously shipped by sea at lower cost now must reroute, raising procurement and transport costs."
+    },
+    {
+      "id": "mkt:01a049f4-746f-7aab-9179-fa05ee33daeb",
+      "time": "2026-08-29 03:59:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Deutsche Bank expects the Fed to raise rates in September and December."
+    },
     {
       "id": "mkt:01a049f2-e1a5-7aab-9179-f61068b9af68",
       "time": "2026-08-29 03:57:29",

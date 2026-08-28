@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-29 03:58:21",
-  "count": 13398,
+  "updated": "2026-08-29 04:02:28",
+  "count": 13395,
   "items": [
+    {
+      "id": "5066014",
+      "time": "2026-08-29 04:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "太平洋瓦電收跌7.5%，創2025年1月份以來最差單日表現。"
+    },
+    {
+      "id": "5066013",
+      "time": "2026-08-29 04:01:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國防部正與委內瑞拉大亨就大型石油交易進行談判】美國政府正謀求獲得委內瑞拉石油儲備的大額權益，計劃由國防部與頗具爭議的能源投資人亞歷杭德羅・貝坦庫爾開展合作。貝坦庫爾現已成為美委兩國之間關鍵中間人。據知情人士透露，談判覆蓋委內瑞拉各大主要石油盆地內多達 17 處油田。部分知情人士還表示，各方討論擬由五角大樓戰略資本辦公室負責監管該筆投資。正在磋商的方案之一，是美國取得為期 100 年的油田租賃權。"
+    },
+    {
+      "id": "5066012",
+      "time": "2026-08-29 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.02%，標普500指數跌0.25%，納指跌0.52%。貝寶跌12.71%，邁威爾科技跌10.28%，太平洋瓦電跌7.44%，Strategy跌7.34%，Generac控股跌6.83%。“七姐妹”方面：亞馬遜漲3.97%，微軟漲1.68%，蘋果漲1.63%，谷歌漲1.53%，Meta Platforms漲1.21%，特斯拉跌1.71%，英偉達跌4.57%。"
+    },
+    {
+      "id": "5066011",
+      "time": "2026-08-29 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.40%】霸王茶姬漲4.25%，新氧漲4.31%，高途漲3.30%，貝殼漲3.27%，閃送漲2.63%。"
+    },
+    {
+      "id": "mkt:01a049f4-8a94-7aab-917a-0370272c1a16",
+      "time": "2026-08-29 03:59:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Iran's Pezeshkian says continued sanctions would push prices higher】Iran's President Pezeshkian said imports and exports have dropped 25-35%, with imports falling more sharply. He said the government's foreign-policy priorities for the remainder of its term are easing tensions, deepening ties with eastern countries and lifting sanctions. If sanctions continue, prices will keep rising; importers who previously shipped by sea at lower cost now must reroute, raising procurement and transport costs."
+    },
+    {
+      "id": "mkt:01a049f4-746f-7aab-9179-fa05ee33daeb",
+      "time": "2026-08-29 03:59:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Deutsche Bank expects the Fed to raise rates in September and December."
+    },
     {
       "id": "mkt:01a049f2-e1a5-7aab-9179-f61068b9af68",
       "time": "2026-08-29 03:57:29",
@@ -120538,82 +120598,6 @@
         "Importance 1"
       ],
       "text": "Argentina Retail Sales Rise in June — Argentina’s retail sales at current prices rose 13.4% year on year to ARS 685.4 billion in June 2026. Sales in clothing, footwear and leather goods totaled ARS 231.0 billion, followed by sporting goods and clothing (ARS 116.6 billion) and food courts, food stores and kiosks (ARS 116.4 billion). Electronics, home appliances and computers generated ARS 65.3 billion, while sales in furniture, home decoration and household textiles reached ARS 35.8 billion. By region, sales in the City of Buenos Aires increased 18.5% year on year to ARS 193.6 billion, while those in the 24 districts of Greater Buenos Aires rose 8.3% to ARS 224.1 billion. Sales in the Pampeana Region increased 13.2% to ARS 145.8 billion, while Cuyo rose 18.3% to ARS 49.1 billion. The Northern Region and Patagonia recorded gains of 11.0% and 17.2%, respectively."
-    },
-    {
-      "id": "5052743",
-      "time": "2026-08-22 04:01:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "STATE STREET 金屬與礦業 ETF 上漲 4.1%，創 6 月以來新高。"
-    },
-    {
-      "id": "5052742",
-      "time": "2026-08-22 04:01:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic聘請谷歌晶片老將，加速推進自研硬體業務】Anthropic近日宣佈，已聘請Alphabet旗下谷歌定製晶片專案的創始人之一阿米爾·薩萊克（Amir Salek）加入其計算團隊，向詹姆斯·布拉德伯裡（James Bradbury）彙報。薩萊克曾負責谷歌張量處理單元（TPU）業務直至2022年，併成功交付了前七代晶片。在加入Anthropic之前，他曾擔任由美國國防部副部長聯合創辦的私募股權公司Cerberus Capital Management的高階董事總經理，並曾在英偉達任職。此次人事任命標誌著Anthropic正在為進軍自主半導體制造領域奠定基礎。該公司目前從英偉達、谷歌和亞馬遜等多個渠道採購晶片，但近期已明確表示有意建立內部矽晶片業務，並已開始釋出相關職位資訊。與其他人工智慧巨頭一樣，Anthropic正努力獲取足夠的資料中心基礎設施以支援其發展，定製晶片有望幫助其應對供應短缺問題，並根據自身需求最佳化硬體設計。"
-    },
-    {
-      "id": "5052741",
-      "time": "2026-08-22 04:00:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證交所指數.GSPTSE非官方收盤上漲254.81點，漲幅0.70%，報36,620.23點。"
-    },
-    {
-      "id": "5052740",
-      "time": "2026-08-22 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.98%，標普500指數漲0.43%，納指漲0.43%。羅賓漢漲13.70%，Moderna漲8.86%，Coinbase Global漲8.20%，麥克莫蘭銅金漲7.67%，雅保化工漲6.76%，Strategy漲6.10%，雅詩蘭黛漲6.02%。“七姐妹”方面：特斯拉漲5.14%，谷歌漲1.05%，Meta Platforms漲0.75%，微軟漲0.43%，亞馬遜跌0.57%，蘋果跌0.63%，英偉達跌0.98%。"
-    },
-    {
-      "id": "5052739",
-      "time": "2026-08-22 04:00:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐約證券交易所美國板塊將啟動對Northann Corp的退市程式。"
-    },
-    {
-      "id": "5052738",
-      "time": "2026-08-22 04:00:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Devoted Health 正進行融資，估值達 250 億美元。"
-    },
-    {
-      "id": "5052737",
-      "time": "2026-08-22 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.38%】嘉楠科技漲27.18%，網易有道漲8.19%，網易漲6.96%，金生遊樂漲6.80%，Tims中國漲6.24%。"
-    },
-    {
-      "id": "5052736",
-      "time": "2026-08-22 03:59:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "前谷歌高管阿米爾・薩萊克將加入 Anthropic 算力團隊。"
-    },
-    {
-      "id": "5052735",
-      "time": "2026-08-22 03:59:34",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "Anthropic聘請谷歌晶片領域資深人士，推進硬體業務佈局。"
     }
   ]
 }
