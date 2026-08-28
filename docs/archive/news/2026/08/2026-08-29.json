@@ -1,7 +1,69 @@
 {
   "date": "2026-08-29",
-  "count": 307,
+  "count": 313,
   "items": [
+    {
+      "id": "mkt:01a049f2-e1a5-7aab-9179-f61068b9af68",
+      "time": "2026-08-29 03:57:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say the Pentagon is negotiating a major oil deal with a Venezuelan tycoon."
+    },
+    {
+      "id": "mkt:01a049f2-295c-7aab-9179-edc81560c6ee",
+      "time": "2026-08-29 03:56:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran president says nearly 90 mln barrels exported during Islamabad memorandum】President Pezeshkian said under the Islamabad memorandum the other side had pledged to lift the blockade and remove sanctions on banking, oil and petrochemicals and to return frozen funds. He said Iran exported about 90 mln barrels of oil during the memorandum period but cannot do that now. Pezeshkian said Iran would reciprocate if the other party fulfils its commitments and that dialogue continues. He added the other side had planned roughly $300 bln in investment and Iran held talks with Qatar and the UAE to facilitate it, but said ongoing war would prevent those investments."
+    },
+    {
+      "id": "5066010",
+      "time": "2026-08-29 03:56:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓正與委內瑞拉商業巨頭洽談大規模石油交易。"
+    },
+    {
+      "id": "te:markets:579249",
+      "time": "2026-08-29 03:56:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Falls More than 5% This Week — Brent crude oil fell to $89.3 a barrel on Friday, extending weekly losses to over 5%, as traders increasingly viewed the Iran situation as an economic/sanctions confrontation rather than an imminent threat to physical supply, while improving flows through Hormuz and the proposed Iran–Oman corridor further reduced the perceived supply risk. Goldman Sachs estimated that Persian Gulf oil exports have climbed to around 15–16 million barrels per day, still significantly below pre-conflict volumes of 22–24 million barrels but well above the March low of about 5–6 million barrels. Meanwhile, Iran and Oman agreed on a revenue-sharing framework for the strait, although Tehran emphasized that this does not imply an immediate reopening. Still, the Trump administration reportedly told mediators it does not intend to revive the terms of a preliminary June agreement with Iran that subsequently collapsed."
+    },
+    {
+      "id": "te:markets:579248",
+      "time": "2026-08-29 03:55:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Posts Weekly Loss — Crude oil fell to $83.4 a barrel on Friday, extending weekly losses to about 4%, as traders increasingly viewed the Iran situation as an economic/sanctions confrontation rather than an imminent threat to physical supply, while improving flows through Hormuz and the proposed Iran–Oman corridor further reduced the perceived supply risk. Goldman Sachs estimated that Persian Gulf oil exports have climbed to around 15–16 million barrels per day, still significantly below pre-conflict volumes of 22–24 million barrels but well above the March low of about 5–6 million barrels. Meanwhile, Iran and Oman agreed on a revenue-sharing framework for the strait, although Tehran emphasized that this does not imply an immediate reopening. Still, the Trump administration reportedly told mediators it does not intend to revive the terms of a preliminary June agreement with Iran that subsequently collapsed."
+    },
+    {
+      "id": "mkt:01a049ef-3bc1-7aab-9179-e6ccb456fcc8",
+      "time": "2026-08-29 03:53:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Daily Telegraph reports the US could reconsider its support for the UK's sovereignty claim over the Falkland Islands if the UK fails to increase defence spending."
+    },
     {
       "id": "mkt:01a049ec-3843-7aab-9179-dfb5b02da726",
       "time": "2026-08-29 03:50:12",

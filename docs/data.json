@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-29 03:54:11",
-  "count": 13395,
+  "updated": "2026-08-29 03:58:21",
+  "count": 13398,
   "items": [
+    {
+      "id": "mkt:01a049f2-e1a5-7aab-9179-f61068b9af68",
+      "time": "2026-08-29 03:57:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say the Pentagon is negotiating a major oil deal with a Venezuelan tycoon."
+    },
+    {
+      "id": "mkt:01a049f2-295c-7aab-9179-edc81560c6ee",
+      "time": "2026-08-29 03:56:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran president says nearly 90 mln barrels exported during Islamabad memorandum】President Pezeshkian said under the Islamabad memorandum the other side had pledged to lift the blockade and remove sanctions on banking, oil and petrochemicals and to return frozen funds. He said Iran exported about 90 mln barrels of oil during the memorandum period but cannot do that now. Pezeshkian said Iran would reciprocate if the other party fulfils its commitments and that dialogue continues. He added the other side had planned roughly $300 bln in investment and Iran held talks with Qatar and the UAE to facilitate it, but said ongoing war would prevent those investments."
+    },
+    {
+      "id": "5066010",
+      "time": "2026-08-29 03:56:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓正與委內瑞拉商業巨頭洽談大規模石油交易。"
+    },
+    {
+      "id": "te:markets:579249",
+      "time": "2026-08-29 03:56:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Falls More than 5% This Week — Brent crude oil fell to $89.3 a barrel on Friday, extending weekly losses to over 5%, as traders increasingly viewed the Iran situation as an economic/sanctions confrontation rather than an imminent threat to physical supply, while improving flows through Hormuz and the proposed Iran–Oman corridor further reduced the perceived supply risk. Goldman Sachs estimated that Persian Gulf oil exports have climbed to around 15–16 million barrels per day, still significantly below pre-conflict volumes of 22–24 million barrels but well above the March low of about 5–6 million barrels. Meanwhile, Iran and Oman agreed on a revenue-sharing framework for the strait, although Tehran emphasized that this does not imply an immediate reopening. Still, the Trump administration reportedly told mediators it does not intend to revive the terms of a preliminary June agreement with Iran that subsequently collapsed."
+    },
+    {
+      "id": "te:markets:579248",
+      "time": "2026-08-29 03:55:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Posts Weekly Loss — Crude oil fell to $83.4 a barrel on Friday, extending weekly losses to about 4%, as traders increasingly viewed the Iran situation as an economic/sanctions confrontation rather than an imminent threat to physical supply, while improving flows through Hormuz and the proposed Iran–Oman corridor further reduced the perceived supply risk. Goldman Sachs estimated that Persian Gulf oil exports have climbed to around 15–16 million barrels per day, still significantly below pre-conflict volumes of 22–24 million barrels but well above the March low of about 5–6 million barrels. Meanwhile, Iran and Oman agreed on a revenue-sharing framework for the strait, although Tehran emphasized that this does not imply an immediate reopening. Still, the Trump administration reportedly told mediators it does not intend to revive the terms of a preliminary June agreement with Iran that subsequently collapsed."
+    },
+    {
+      "id": "mkt:01a049ef-3bc1-7aab-9179-e6ccb456fcc8",
+      "time": "2026-08-29 03:53:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Daily Telegraph reports the US could reconsider its support for the UK's sovereignty claim over the Falkland Islands if the UK fails to increase defence spending."
+    },
     {
       "id": "mkt:01a049ec-3843-7aab-9179-dfb5b02da726",
       "time": "2026-08-29 03:50:12",
@@ -120552,30 +120614,6 @@
         "焦點"
       ],
       "text": "Anthropic聘請谷歌晶片領域資深人士，推進硬體業務佈局。"
-    },
-    {
-      "id": "5052734",
-      "time": "2026-08-22 03:55:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特斯拉（韓國）：特斯拉FSD在韓國行駛的累計里程達到5000萬公里。"
-    },
-    {
-      "id": "5052733",
-      "time": "2026-08-22 03:54:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭一購物中心遭無人機襲擊 至少15人死亡】烏克蘭第聶伯羅彼得羅夫斯克州軍事管理局局長甘扎21日晚說，俄軍當天下午對該州克里沃伊羅格市一座購物中心發動無人機襲擊，造成至少15人死亡、130人受傷，其中29人傷勢嚴重。(新華社)"
-    },
-    {
-      "id": "5052732",
-      "time": "2026-08-22 03:54:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX招聘天然氣交易員，組建內部團隊以保障能源供應】為應對日益增長的燃料與電力需求，埃隆·馬斯克旗下的SpaceX正在招聘一名天然氣交易員，負責組建並領導一支內部天然氣交易團隊。該職位專注於天然氣的實物與金融交易，凸顯了自主能源供應在支援公司半導體制造與太空探索等核心業務中的關鍵作用。SpaceX本月早些時候宣佈，計劃在得克薩斯州建設自有燃氣發電廠，以滿足當地巨型半導體制造工廠及特斯拉資料中心的電力需求。作為垂直整合戰略的踐行者，馬斯克正透過自建能源基礎設施來保障旗下業務的穩定運營。SpaceX的“星艦”火箭以超低溫甲烷（天然氣主要成分）與液氧為推進劑，對天然氣有著直接的燃料需求。值得注意的是，該崗位工作地點設在佛羅里達州卡納維拉爾角或得克薩斯州星際基地（Starbase），而非傳統的能源交易樞紐（如休斯頓或卡爾加里），且明確不接受遠端辦公。隨著AI與資料中心業務擴張推高能源需求，Meta、OpenAI等科技巨頭近期也紛紛佈局電力交易領域，以應對能源挑戰。SpaceX尚未就此事作出回應。"
     }
   ]
 }
