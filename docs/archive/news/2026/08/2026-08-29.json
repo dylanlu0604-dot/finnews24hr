@@ -1,7 +1,83 @@
 {
   "date": "2026-08-29",
-  "count": 296,
+  "count": 304,
   "items": [
+    {
+      "id": "5066007",
+      "time": "2026-08-29 03:39:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【二疊紀管道即將投運，美國天然氣期貨下跌】在Energy Transfer LP旗下位於美國得克薩斯州的Hugh Brinson管道計劃於9月1日投運之前，美國天然氣期貨收低。該管道預計每天可從二疊紀盆地向東德州輸送約22億立方英尺的天然氣。這有可能將更多供應引向附近的路易斯安那州Erath，美國基準天然氣期貨即在當地的Henry Hub進行交易。10月交割期貨在紐約商品交易所（Nymex）收跌2.6美分，跌幅0.9%，報2.888美元/百萬英熱單位。"
+    },
+    {
+      "id": "mkt:01a049e2-4d4b-7aab-9179-d0c912f00990",
+      "time": "2026-08-29 03:39:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian President Pezeshkian said the country sold about 90 mln barrels of oil during implementation of the transition agreement."
+    },
+    {
+      "id": "5066006",
+      "time": "2026-08-29 03:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：臨時協議執行期間，伊朗出售了約 9000 萬桶石油。"
+    },
+    {
+      "id": "mkt:01a049e1-d7e6-7aab-9179-ce8089258a2e",
+      "time": "2026-08-29 03:38:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil prices edged down on the 28th】At the close, NYMEX October-delivery WTI fell $0.13 to $83.40/bbl, down 0.16%. ICE Brent October-delivery fell $0.39 to $89.31/bbl, down 0.43%."
+    },
+    {
+      "id": "5066005",
+      "time": "2026-08-29 03:38:43",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通投資策略主管雅各布・馬努基安：半導體板塊回撥 20% 以上後，依舊看好該板塊，人工智慧盈利的峰值已被市場定價。看好久期較短的信貸資產，包括美國銀行優先股與歐洲高收益債券，認為其具備可觀的息差收益且在資本結構中優先順序更高。"
+    },
+    {
+      "id": "5066004",
+      "time": "2026-08-29 03:38:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通投資策略主管雅各布・馬努基安：債券市場預期生產力將提升，人工智慧相關投資可能正在推高實際利率。"
+    },
+    {
+      "id": "5066003",
+      "time": "2026-08-29 03:37:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價28日微跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌13美分，收於每桶83.40美元，跌幅為0.16%；10月交貨的倫敦布倫特原油期貨價格下跌39美分，收於每桶89.31美元，跌幅為0.43%。"
+    },
+    {
+      "id": "mkt:01a049e0-b221-7aab-9179-c119e346639a",
+      "time": "2026-08-29 03:37:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said negotiations should not be viewed in black-and-white terms."
+    },
     {
       "id": "5066002",
       "time": "2026-08-29 03:34:44",
