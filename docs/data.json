@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-29 03:08:11",
-  "count": 13394,
+  "updated": "2026-08-29 03:16:12",
+  "count": 13398,
   "items": [
+    {
+      "id": "mkt:01a049cc-0275-7aab-9179-50f7a21fb445",
+      "time": "2026-08-29 03:15:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hezbollah secretary-general Naim Qassem said the group had successfully prevented Israel from entering Beirut and had achieved major results."
+    },
+    {
+      "id": "5065991",
+      "time": "2026-08-29 03:14:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署就一項叫停郵寄選票限制措施的裁決提起上訴。"
+    },
+    {
+      "id": "5065990",
+      "time": "2026-08-29 03:12:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約可可期貨本週漲約10%】本週，ICE原糖期貨累跌0.28%，ICE白糖期貨跌3.93%。ICE阿拉比卡咖啡期貨累跌3.01%，咖啡“C”期貨跌3.11%。羅布斯塔咖啡期貨跌2.29%。紐約可可期貨累漲9.98%，報6636美元/噸，8月24-26日大致持穩於5800美元附近，27-28日持續上漲。倫敦可可期貨漲1.04%。芝加哥WCE雙低油菜籽期貨累漲2.99%。ICE棉花期貨累漲3.52%。"
+    },
+    {
+      "id": "mkt:01a049c9-489a-7aab-9179-4dfce405ba65",
+      "time": "2026-08-29 03:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency reports Iran's proposed third-tier gasoline price is about 10,000 toman; implementation timing is unclear."
+    },
+    {
+      "id": "mkt:01a049c7-127f-7aab-9179-474a945f8436",
+      "time": "2026-08-29 03:09:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Iranian President Pezeshkian said commitments include lifting fuel and petrochemical sanctions, unfreezing funds and resuming investment."
+    },
+    {
+      "id": "5065989",
+      "time": "2026-08-29 03:07:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：同時還包括資金解凍、恢復投資。"
+    },
+    {
+      "id": "5065988",
+      "time": "2026-08-29 03:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：相關承諾包括解除燃料及石化產品制裁。"
+    },
+    {
+      "id": "mkt:01a049c4-3522-7aab-9179-3a6597ac517d",
+      "time": "2026-08-29 03:06:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said the US must lift the blockade and sanctions, unfreeze Iranian funds, and force Israel to stop its aggression against Lebanon."
+    },
     {
       "id": "mkt:01a049c2-d192-7aab-9179-30c9155e40bd",
       "time": "2026-08-29 03:04:59",
@@ -120478,38 +120547,6 @@
         "國際"
       ],
       "text": "美軍中央司令部發布了一個影片，配文為：美國海軍水手在阿拉伯海航行的喬治・華盛頓號航空母艦（CVN‑73）上開展夜間飛行作業。"
-    },
-    {
-      "id": "5052692",
-      "time": "2026-08-22 03:16:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "美軍南方司令部：我們（美方與哥倫比亞軍警）共同努力，對哥倫比亞國內犯罪集團施加全面打擊。"
-    },
-    {
-      "id": "5052691",
-      "time": "2026-08-22 03:14:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "著名投資人吉姆·克萊默：“去買比特幣”。"
-    },
-    {
-      "id": "5052690",
-      "time": "2026-08-22 03:11:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威GASSCO計劃於8月22日04:00至8月23日03:59期間，對Troll氣田實施每日510萬立方米的天然氣減產。"
-    },
-    {
-      "id": "5052689",
-      "time": "2026-08-22 03:11:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局經過科學審查後批准ZYN Ultra尼古丁口含煙上市。"
     }
   ]
 }
