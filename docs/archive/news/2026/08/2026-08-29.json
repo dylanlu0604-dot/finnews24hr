@@ -1,7 +1,17 @@
 {
   "date": "2026-08-29",
-  "count": 306,
+  "count": 307,
   "items": [
+    {
+      "id": "mkt:01a049ec-3843-7aab-9179-dfb5b02da726",
+      "time": "2026-08-29 03:50:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. venture capital firm Andreessen Horowitz raised $1.1 bln for an AI hardware fund."
+    },
     {
       "id": "5066009",
       "time": "2026-08-29 03:48:00",
