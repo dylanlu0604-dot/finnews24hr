@@ -1,7 +1,1547 @@
 {
   "date": "2026-08-28",
-  "count": 1115,
+  "count": 1264,
   "items": [
+    {
+      "id": "te:markets:579208",
+      "time": "2026-08-28 23:59:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Friday, Posts Monthly Decline — The FTSE 100 rose 0.3% on Friday, joining a broader European rally after Federal Reserve Chair Kevin Warsh struck a cautious tone on inflation at the Jackson Hole symposium. Warsh said recent PCE and CPI readings were encouraging but had not provided enough evidence that underlying inflation was improving decisively, reinforcing expectations that the Fed may need to keep policy restrictive. As a result, market pricing for a September rate hike increased. Financial stocks were among the strongest performers, with HSBC and Standard Chartered both gaining around 1.7%, while Barclays and Lloyds Banking Group also advanced. Utilities also supported the index, led by SSE, which climbed 2.6%, while Severn Trent, Centrica and National Grid posted more modest gains. Shell rose slightly. On the downside, defence stocks BAE Systems and Babcock International declined sharply. Despite Friday’s advance, the FTSE 100 ended August about 0.5% lower, breaking a four-month winning streak."
+    },
+    {
+      "id": "5065792",
+      "time": "2026-08-28 23:59:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司二季度營收 57.1 億美元，同比增長 26%。"
+    },
+    {
+      "id": "5065791",
+      "time": "2026-08-28 23:58:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守68美元/盎司，日內跌1.89%。"
+    },
+    {
+      "id": "5065790",
+      "time": "2026-08-28 23:57:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報68.79美元/盎司。"
+    },
+    {
+      "id": "5065789",
+      "time": "2026-08-28 23:56:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.00%，現報11525.68點。英偉達跌2.89%，博通跌0.98%，美光跌1.47%，英特爾跌2.37%，AMD跌1.90%，高通跌1.43%，臺積電跌1.21%，阿斯麥跌1.41%。"
+    },
+    {
+      "id": "5065788",
+      "time": "2026-08-28 23:56:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：人工智慧將對英國同時造成需求衝擊與供給衝擊。"
+    },
+    {
+      "id": "5065787",
+      "time": "2026-08-28 23:56:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4530美元/盎司，日內跌1.57%。"
+    },
+    {
+      "id": "5065786",
+      "time": "2026-08-28 23:56:10",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特：日本不欠美國財政部任何款項 同樣的邏輯也適用於阿根廷】美國財長貝森特發函致沃倫參議員表示：美國財政部動用外匯穩定基金現有外幣資產置換日元。本次交易沒有動用國會新增撥款，也沒有向日本提供信貸。日本不欠財政部任何款項。因此根本不存在日本無力償還一筆本就不存在的債務的風險。\n\n你稱，尚不清楚化解日本市場混亂如何能使美國獲益。正如你信中提到，日本是美國國債的主要持有國，同時也是重要貿易伙伴與條約盟友。日元市場無序動盪會引發被迫平倉，這可能擾亂全球市場，最終抬高美國家庭與企業的借貸成本。\n\n同樣的邏輯也適用於阿根廷。財政部曾動用外匯穩定基金，在阿根廷遭遇嚴重短期流動性危機時幫助其穩定局面，避免危機演變為更大範圍的地區災難。處理危機最好的結果，就是危機根本不會發生。"
+    },
+    {
+      "id": "5065785",
+      "time": "2026-08-28 23:56:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4580美元/盎司，日內跌1.80%。"
+    },
+    {
+      "id": "5065784",
+      "time": "2026-08-28 23:55:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "本田、日產據悉將合作開發下一代車輛。最快將於8月31日宣佈達成協議。"
+    },
+    {
+      "id": "5065783",
+      "time": "2026-08-28 23:54:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司（CODELCO）表示，其上半年稅前利潤為19.7億美元。"
+    },
+    {
+      "id": "5065782",
+      "time": "2026-08-28 23:54:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝利：降低資產負債表上的利率風險十分重要。"
+    },
+    {
+      "id": "5065781",
+      "time": "2026-08-28 23:54:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特在8月27日致沃倫的信中評論了日本和阿根廷的問題。"
+    },
+    {
+      "id": "5065780",
+      "time": "2026-08-28 23:54:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司上半年銅產量56.4萬噸，同比下降11%。"
+    },
+    {
+      "id": "5065779",
+      "time": "2026-08-28 23:53:20",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示：我無法保證第二輪效應目前的疲軟態勢會持續下去。"
+    },
+    {
+      "id": "5065778",
+      "time": "2026-08-28 23:53:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：日本無法償還根本不存在的債務。"
+    },
+    {
+      "id": "5065777",
+      "time": "2026-08-28 23:53:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【貝森特回應沃倫干預日元質疑】美國財長貝森特發文稱：沃倫參議員在最近寫給我的這封淺薄賣弄的信中暴露出，她對外匯市場的瞭解，甚至還不如她對銀行業的認知。同樣令人震驚卻又並不意外的是：那群媒體人當中，沒有一個具備最基礎的金融市場素養，沒能看出她那低階錯誤。重申一遍：在本屆總統領導下，美國會對本國可靠的盟友履行承諾。想要搞懂完整邏輯，我建議沃倫參議員帶著她的幕僚去修一門國際金融入門課程；或者我本人可以給她上一堂《傻瓜外匯入門》輔導課。雖然我對此不抱什麼期待，但我希望她下一封信能夠證明，她已經分清貨幣購入、貨幣互換與貸款三者之間的區別。"
+    },
+    {
+      "id": "te:markets:579205",
+      "time": "2026-08-28 23:51:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Caterpillar Stock Price Hits 4-week Low — Caterpillar shares decreased to 800.21 USD, the lowest since July 2026. Over the past 4 weeks, Caterpillar gained 2.28%, and in the last 12 months, it increased 91.05%."
+    },
+    {
+      "id": "5065775",
+      "time": "2026-08-28 23:51:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "貝森特：不向日本提供信貸，日本不欠財政部債務。"
+    },
+    {
+      "id": "5065774",
+      "time": "2026-08-28 23:51:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特致信沃倫，談及日元交易。"
+    },
+    {
+      "id": "5065773",
+      "time": "2026-08-28 23:50:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟安撫內部員工：資料中心具備正向社會價值】微軟正試圖安撫內部員工，向其說明公司資料中心對社會具備積極作用。一份微軟開發部門主管諾埃爾・沃爾什本週發給全體員工的內部郵件顯示，不少員工持續就能耗、水資源消耗、碳排放，以及大型資料中心對當地社群造成的影響提出疑問。沃爾什承認，人工智慧業務讓公司更加難以兌現此前的碳排放相關承諾。但她同時提及，硬體能效、用水指標近期均取得改善，公司還規劃建設數十吉瓦規模的可再生能源專案。她在郵件中寫道，資料中心建設必須做到 “嚴守準則、保持透明，持續致力於降低負面影響、放大社會效益”。"
+    },
+    {
+      "id": "5065772",
+      "time": "2026-08-28 23:50:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯羅斯托夫州當局宣佈，亞速海-黑海盆地航運中斷導致穀物積壓，該州進入緊急狀態。"
+    },
+    {
+      "id": "5065771",
+      "time": "2026-08-28 23:49:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長貝利表示：我們目前可以觀望當前局勢。"
+    },
+    {
+      "id": "5065770",
+      "time": "2026-08-28 23:49:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟試圖讓員工放心，資料中心的影響不容忽視。"
+    },
+    {
+      "id": "5065769",
+      "time": "2026-08-28 23:49:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯梅德韋傑夫： 俄羅斯暫無動員計劃。"
+    },
+    {
+      "id": "5065768",
+      "time": "2026-08-28 23:48:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州農商銀行：上半年營收淨利雙增，淨息差同比提升】廣州農商銀行8月28日披露2026年中期業績顯示，上半年實現營業收入80.7億元、淨利潤15.1億元，雙雙實現同比正增長。其中，得益於負債成本的壓降，該行淨息差同比提升0.04個百分點至1.07%。截至6月末，該行資產總額超過1.38萬億元，較年初增長0.3%。"
+    },
+    {
+      "id": "5065767",
+      "time": "2026-08-28 23:48:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行貝利：美聯儲沃什發表了一篇 “極具實質內容的講話”。"
+    },
+    {
+      "id": "5065766",
+      "time": "2026-08-28 23:47:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元兌美元自7月31日以來首次跌破160】日元自7月31日以來首次跌破1美元兌160日元。美元/日元一度上漲0.39%至160.02。交易員正密切關注日元匯率水平，因為這可能成為判斷日本當局何時採取行動支撐日元的重要訊號。"
+    },
+    {
+      "id": "te:markets:579204",
+      "time": "2026-08-28 23:46:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises as Euro Area Confidence Improves — The CAC 40 rose 1% to close at 8,401 on Friday following the release of domestic and euro area economic data. Euro area consumer confidence edged up to -15.5, its highest level since February, while industrial confidence rose to -5.3, its highest since April 2023. Service sector confidence also improved to 5.8, a seven-month high. Meanwhile, France’s GDP grew 0.7% year-on-year in the second quarter of 2026, in line with forecasts. Luxury stocks posted strong gains, with LVMH rising 2.7%, Hermes adding 2.7%, and Kering up 1.4%. Industrial stocks were also mostly higher, with Schneider Electric gaining 1.8% and Air Liquide up 2.1%. EssilorLuxottica rose 3.1% after announcing a share buyback program. Financials advanced despite preliminary data showing French annual inflation accelerating to a three-month high of 2.4% in August, with BNP Paribas up 1.8%, AXA adding 1.8%, and Societe Generale rising 2.1%. Fitch is due to release its assessment of France’s sovereign rating later in the day."
+    },
+    {
+      "id": "5065765",
+      "time": "2026-08-28 23:42:55",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國2年期國債收益率當日上漲10個基點至4.33%。"
+    },
+    {
+      "id": "5065764",
+      "time": "2026-08-28 23:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，以色列空襲黎巴嫩南部城鎮卡夫魯馬內。"
+    },
+    {
+      "id": "5065763",
+      "time": "2026-08-28 23:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌超2%】費城半導體指數日內跌2.02%，現報11643.97點。英偉達跌1.96%，博通漲0.02%，美光跌0.10%，英特爾跌1.05%，AMD跌0.77%，高通跌0.55%，臺積電跌0.79%，阿斯麥跌0.53%。"
+    },
+    {
+      "id": "5065762",
+      "time": "2026-08-28 23:40:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國眾議院議長計劃於得州會見共和黨大金主馬斯克】據四名知情人士透露，眾議院議長邁克・約翰遜計劃週五在得克薩斯州會見共和黨大額捐贈人埃隆・馬斯克。正值中期選舉前夕，約翰遜正在得克薩斯州為共和黨候選人助選。此事進一步表明，共和黨領導層寄望馬斯克大手筆出資，助力共和黨保住國會控制權。這些瞭解會面籌備情況的人士因討論非公開資訊要求匿名，同時提醒，馬斯克行程存在變數，會面有可能臨時取消。據報道，這位科技億萬富豪正透過其超級政治行動委員會 “美國 PAC” 為本屆中期選舉的共和黨提供支援，但資金投放的完整範圍尚不明確。兩名知情人士表示，部分共和黨人認為馬斯克正考慮將部分資金投入眾議院共和黨關鍵搖擺選區的競選。"
+    },
+    {
+      "id": "5065760",
+      "time": "2026-08-28 23:39:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元跌至 160。"
+    },
+    {
+      "id": "5065759",
+      "time": "2026-08-28 23:39:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克和邁克·約翰遜計劃今天在德克薩斯州會面。"
+    },
+    {
+      "id": "5065758",
+      "time": "2026-08-28 23:39:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國起亞工會表決透過薪資協議，實現連續第六年無罷工】起亞公司週五表示，公司工會已表決透過本年度薪資協議，年度勞資談判塵埃落定，這是起亞連續第六年未發生罷工。這家隸屬於現代汽車集團的韓國車企稱，工會總計 24710 名成員中投票參與率達 91%，參與投票的工會成員裡有 64.1% 贊成該協議。起亞與工會於週二達成這份臨時協議，在原定罷工計劃啟動前一日成功避免罷工。"
+    },
+    {
+      "id": "5065757",
+      "time": "2026-08-28 23:38:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數漲0.4%，報405.62點。在十個板塊中，北歐電信服務板塊漲幅最大。北歐流媒體音樂公司Spotify Technology SA漲4.9%，在一眾北歐個股裡領跑。"
+    },
+    {
+      "id": "5065756",
+      "time": "2026-08-28 23:38:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普漲】德國DAX30指數漲0.80%，英國富時100指數漲0.29%，法國CAC40指數漲0.98%，歐洲斯托克50指數漲0.98%，西班牙IBEX35指數漲0.83%，義大利富時MIB指數漲0.69%。"
+    },
+    {
+      "id": "5065755",
+      "time": "2026-08-28 23:34:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大提升自主能力 本土企業進軍國防領域】8月27日，美國總統特朗普稱，加拿大在防務方面一直佔美國便宜。然而，在加拿大看來，情況並非如此。加拿大總理卡尼曾表示，加拿大國防支出每1加元就有75分流向美國。為了擺脫這種局面，今年2月，加拿大政府推出新的國防工業戰略，希望能夠實現在國內採購和維護大部分軍事裝備。在政策的刺激下，一大批加拿大企業紛紛進軍國防領域。就在加拿大重新規劃國防發展路線之際，一大批原本主打民用產品的企業，迎來了轉型升級、切入軍工賽道的廣闊機遇。一些本土企業開始研發適用於加拿大廣袤北極地區的遠端感測器、研製用於前線士兵補給的無人機、製造自主作業機器人。（央視新聞）"
+    },
+    {
+      "id": "5065754",
+      "time": "2026-08-28 23:32:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【調查：歐元區通脹率料將升至2023年以來最高】歐元區通脹本月可能飆升至2023年以來最快增速，持續給決策者施加加息壓力。根據對31位經濟學家調查的中位數預測，8月消費者價格同比上漲3.3%，高於7月的2.9%。德國和義大利的單獨指標預計也將顯示類似的加速，主要受中東緊張局勢持續推動的能源成本上漲所驅動。這些結果將緊隨週五公佈的另外兩個歐元區主要經濟體的資料。西班牙通脹跳升至歐洲央行2%目標的兩倍多，法國的資料也超出預期。"
+    },
+    {
+      "id": "te:markets:579196",
+      "time": "2026-08-28 23:32:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Losts Ground — The South African rand weakened to around 16.1 per US dollar, the lowest in over a week, as the dollar gained ground following hawkish remarks from Fed Chair Kevin Warsh.Speaking at the Jackson Hole symposium, Warsh noted that inflation has yet to slow meaningfully and that policymakers need clearer signs of easing price pressures. Meanwhile, ongoing uncertainty around the situation in the Middle East continued to influence global market sentiment. On August 25, the rand touched 15.9 per US dollar, its strongest level since the Iran war began in late February, helped by a weaker greenback and increased appetite for emerging-market assets. The currency has also been supported by the SARB’s relatively restrictive monetary stance, confidence in structural reforms and an improving fiscal outlook. The central bank kept its key rate at 7% in July despite inflation rising to 5% in June from 4.5% in May, as it sought greater clarity on inflationary pressures stemming from the Middle East."
+    },
+    {
+      "id": "te:markets:579195",
+      "time": "2026-08-28 23:32:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "UBS Stock Price Hits 18-1/2-year High — UBS shares increased to 44.53 CHF, the highest since January 2008. Over the past 4 weeks, UBS gained 3.75%, and in the last 12 months, it increased 37.2%."
+    },
+    {
+      "id": "5065753",
+      "time": "2026-08-28 23:32:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所原糖期貨下跌超3%，報每磅17.61美分。"
+    },
+    {
+      "id": "5065752",
+      "time": "2026-08-28 23:32:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官暫未下達禁令阻止特朗普政府執行最新限制出生公民權的行政令。"
+    },
+    {
+      "id": "5065751",
+      "time": "2026-08-28 23:31:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：伊朗人民永遠不會“忘記”也不會“原諒”美以發動的米納卜學校襲擊事件。"
+    },
+    {
+      "id": "te:markets:579194",
+      "time": "2026-08-28 23:31:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Market Tightens as US Inventories Hit Record Low — US heating oil prices remained around $4.25–$4.50 a gallon, more than 80% higher than a year ago, as supplies fell to their lowest seasonal level on record. US distillate inventories, which include diesel and heating oil, fell to 103.4 million barrels in the week ending August 21, the lowest level recorded for this time of year since comparable data began in the early 1980s. The situation is particularly concerning as demand typically rises in the autumn, driven by winter heating, Northern Hemisphere harvests and Southern Hemisphere planting. The Iran war has disrupted refined-fuel flows through the Strait of Hormuz, while Russia’s suspension of diesel exports and ongoing Ukrainian attacks on refineries are further tightening global availability. US refiners are benefiting from exceptionally strong demand, with diesel refining margins reaching record levels and exports rising sharply. However, increased US shipments remain insufficient to offset the global supply shortfall."
+    },
+    {
+      "id": "5065750",
+      "time": "2026-08-28 23:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國DAX 30指數初步收漲0.83%，報26586.01點，本週累計上漲大約1.7%，整體持續走高。法國股指初步收漲1.15%，義大利股指初步收漲0.79%、銀行指數漲1.05%，英國股指初步收漲0.23%。"
+    },
+    {
+      "id": "5065749",
+      "time": "2026-08-28 23:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮官員表示，“經濟棄兒行動” 正在推進，旨在切斷維繫該政權的全部剩餘經濟生命線。"
+    },
+    {
+      "id": "5065748",
+      "time": "2026-08-28 23:30:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：華盛頓反思池完成十餘年首次管道清淤修繕，即將重新開放】特朗普發文稱：本人今日清晨視察了國家反思池，下方附圖可見池水倒影以及美國國旗的湛藍底色。大家可以看到，《紐約時報》報道中使用的多張照片，均是在史上規模最大煙花表演結束後拍攝的。本次煙花燃放點緊鄰反思池，導致池內堆積了大量殘渣雜物。目前修繕工作仍在持續推進，我們特意選擇在 7 月 4 日獨立日慶典結束後開展施工，整體修繕效果極佳！園區將於數週後對外開放，屆時將煥然一新。請勿蓄意破壞公共設施！"
+    },
+    {
+      "id": "5065747",
+      "time": "2026-08-28 23:28:54",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什緩解央行對抗通脹擔憂 美股走高】美聯儲主席凱文·沃什發表講話，緩解了投資者對央行對抗通脹意願的擔憂，儘管交易員押注今年加息機率上升，但週五股市走高。標普500指數最高上漲0.5%，非必需消費品與通訊服務板塊領漲。科技股集中的納斯達克100指數扭轉早前跌幅，紐約時間上午11點20分上漲0.3%；道瓊斯工業平均指數上漲0.4%。芝加哥期權交易所波動率指數繼續回落，交投略高於14。因委內瑞拉考慮退出石油輸出國組織，油價出現下滑。沃什講話過後，各大指數脫離窄幅震盪區間。新任美聯儲主席重申，不傾向於釋出前瞻性指引，同時強調通脹已長期居高不下。"
+    },
+    {
+      "id": "5065746",
+      "time": "2026-08-28 23:27:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晉商銀行：上半年實現淨利潤10.43億元，同比下降0.7%】晉商銀行8月28日釋出2026年中期業績公告顯示，上半年實現營業收入28.91億元，同比增長5.7%；淨利潤10.43億元，同比下降0.7%。截至6月末，晉商銀行資產總額4017.24億元，較2025年末增長2.2%；不良貸款率2.05%，較上年末增加0.1個百分點。"
+    },
+    {
+      "id": "5065745",
+      "time": "2026-08-28 23:27:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智利、阿根廷、玻利維亞、秘魯簽署關鍵礦產合作協議】智利、阿根廷、玻利維亞與秘魯簽署聯合宣言，深化戰略礦產領域合作。這幾個資源富集國家希望將本地區打造為能源轉型與人工智慧領域可靠的礦產供應方。智利政府一份宣告顯示，四國礦業主管部門週五在聖地亞哥簽署該聯合宣言，旨在推動負責任投資，加強技術與制度層面協作。四國將在地質勘探、礦業政策、監管規則、從業人員培訓等領域探索合作，同時尋求多邊機構提供技術與資金支援。各方還計劃推動區域礦業全產業鏈的投資落地。"
+    },
+    {
+      "id": "5065744",
+      "time": "2026-08-28 23:26:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人壽副總裁劉暉：公司近20年平均投資收益率達5.15%】在8月28日的2026年中期業績釋出會上，中國人壽副總裁劉暉表示，公司近20年平均投資收益率達5.15%。上半年，公司總投資收益達3145.04億元，總投資收益率5.58%，較上年同期上升229個基點；三年平均總投資收益率為4.76%。（上證報）"
+    },
+    {
+      "id": "5065743",
+      "time": "2026-08-28 23:25:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南省政府與中國船舶集團簽署深化戰略合作協議】據海南日報，8月28日，海南省政府與中國船舶集團有限公司在海口簽署深化戰略合作協議。根據協議，雙方將深化海洋裝備製造、海洋現代服務業、人才交流培養等領域戰略合作。"
+    },
+    {
+      "id": "5065742",
+      "time": "2026-08-28 23:25:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人壽總裁利明光：首年期交保費半年首破千億 多項核心指標再創歷史新高】在8月28日的中期業績釋出會上，中國人壽總裁利明光用“多項指標再創歷史新高”來概括上半年經營成績。半年報顯示：上半年，公司首年期交保費1012.94億元，同比增長24.7%。“這是公司首年期交保費半年首破千億。”他說。價值指標同步走高。利明光稱，新業務價值快速增長，上半年新業務價值381.67億元，同比增長33.7%。同時，淨利潤同比大幅提升。體量指標亦創新高。利明光表示，公司內含價值穩居行業首位、總資產規模突破8萬億元。（上證報）"
+    },
+    {
+      "id": "5065741",
+      "time": "2026-08-28 23:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員向半島電視臺表示：美國海上封鎖已“全面實施”。"
+    },
+    {
+      "id": "te:markets:579190",
+      "time": "2026-08-28 23:21:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "New Zealand Dollar Slips as Hawkish Fed Tone Boosts US Dollar — The New Zealand dollar weakened toward $0.59, touching its lowest level since August 19, as investors favored the US dollar following Federal Reserve Chair Kevin Warsh’s first Jackson Hole speech, despite expectations that the Reserve Bank of New Zealand will continue tightening policy this year. In his first major speech since becoming Fed chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need to be confident that underlying price pressures are easing; otherwise, the central bank still has “work to do.” In New Zealand, economists widely expect the RBNZ to raise its cash rate by another 25 basis points at its September meeting, with around two-thirds anticipating at least one more hike. This could take the policy rate to 3% or higher by December. The outlook follows the RBNZ’s first rate increase in more than three years in July, when policymakers indicated that further tightening may be needed to bring inflation back to target."
+    },
+    {
+      "id": "5065740",
+      "time": "2026-08-28 23:21:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Wan 3.0登陸SkyProduction，限時免費三天再掀AI影片價格戰】崑崙萬維旗下AI平臺SkyProduction（天工工作臺）接入阿里巴巴最新影片生成模型Wan 3.0，並宣佈於8月28日至30日面向所有使用者限時免費開放。8月31日起恢復收費，價格低至0.05元/秒，一條30秒影片最低只需1.5元，創下全網影片模型最低價。（新浪科技）"
+    },
+    {
+      "id": "5065739",
+      "time": "2026-08-28 23:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卡達將對義大利愛迪生的液化天然氣供應的不可抗力暫停期延長至11月初】愛迪生公司在一份證實此前監管通知的宣告中表示，卡達能源公司已將對義大利愛迪生公司的液化天然氣供應不可抗力期限延長至11月初。此次延期額外波及五批原定運往義大利亞得里亞液化天然氣接收站的貨船。自4月至11月初，受影響的貨船累計達29批，對應天然氣量約38億立方米。截至8月28日，愛迪生公司已完成21批貨船的氣源替代，對應天然氣量約20億立方米。愛迪生公司稱將持續關注事態發展。注：愛迪生公司與卡達能源簽有一份25年期供氣合同，年供氣量64億立方米。"
+    },
+    {
+      "id": "te:economy:579189",
+      "time": "2026-08-28 23:18:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "Canada Budget Surplus Narrows in June — Canada’s federal surplus narrowed to C$1.0 billion in June 2026 from C$3.6 billion a year earlier, on higher program expenses and public debt charges and broadly stable revenues. Program expenses excluding net actuarial losses increased by C$2.1 billion, largely due to higher direct program spending, while public debt charges rose C$0.5 billion amid a larger stock of marketable bonds and higher CPI adjustments on Real Return Bonds. Net actuarial losses increased by C$0.1 billion. Revenues were up C$10 million to C$1.6 billion, as higher employment insurance premiums and other revenues offset a C$1.6 billion decline in tax revenues, mainly due to lower corporate income tax receipts."
+    },
+    {
+      "id": "5065737",
+      "time": "2026-08-28 23:18:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘肅銀行：上半年實現淨利潤4.16億元，同比增長4.3%】甘肅銀行8月28日釋出2026年中期業績公告，上半年實現營業收入26.55億元，同比下降2.3%；淨利潤4.16億元，同比增長4.3%。截至6月末，甘肅銀行資產總額4584.87億元，較2025年末增長5.2%；不良貸款率1.86%，較上年末減少0.07個百分點。"
+    },
+    {
+      "id": "5065736",
+      "time": "2026-08-28 23:18:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股超大規模雲服務商（Hyperscalers）指數漲超2.4%，重新整理日高至98.76點。"
+    },
+    {
+      "id": "5065735",
+      "time": "2026-08-28 23:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利、阿根廷、玻利維亞與秘魯簽署戰略性礦產聯合宣言。"
+    },
+    {
+      "id": "te:markets:579178",
+      "time": "2026-08-28 23:02:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Extends Rebound — The US dollar index rose to 99.5 on Friday, extending the rebound from the three-month low of 98.8 from August 21st, and tracking the surge in short-term Treasury yields after Fed Chairman Kevin Warsh signaled a firmer stance against inflation. The Fed Chairman stated that underlying inflation was not significantly lower in the last few months and added that the labor market appears to be at full employment. On top of that, Warsh stated that the Fed is tracking the PCE index as an inflation gauge, using stricter rhetoric than earlier suggestions that one of the newly created task forces could shift the Fed's target gauge. Rate futures reflected a swing to positions of a Fed rate hike next month. Also strengthening the dollar, annual revisions to nonfarm payrolls were well under recent amounts, indicating robust employment. In the meantime, signs of higher inflation in the Eurozone added to the consensus of an ECB rate hike, limiting the rebound for the DXY."
+    },
+    {
+      "id": "te:markets:579176",
+      "time": "2026-08-28 23:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Turkish Lira Drops by 0.98% — Top currency losers are Turkish Lira (-0.98%), Brazilian Real (-0.80%), Swedish Krona (-0.48%), Japanese Yen (-0.30%), Euro (-0.30%) and British Pound (-0.15%). Gains are led by South Korean Won (0.37%) and Dollar Index (0.26%)."
+    },
+    {
+      "id": "te:economy:579171",
+      "time": "2026-08-28 22:56:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "UK Gilt Yields Hold Above 5% as Investors Digest Warsh's Remarks — UK 10-year gilt yields remained slightly above 5% as investors weighed hawkish comments from Fed Chair Kevin Warsh against lower Brent crude prices, which eased UK inflation concerns and pushed expectations for the next BoE rate hike into 2027 from late 2026. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need clearer evidence that underlying price pressures are easing; otherwise, the Fed still has “work to do.” Meanwhile, LSEG data showed markets pricing around 24 basis points of BoE tightening by December and 36 basis points by February 2027. UK inflation rose to 2.9% in July, driven by higher household energy bills, and is expected to climb further toward year-end. However, the labor market has remained subdued, potentially making the BoE more cautious about tightening policy in the near term."
+    },
+    {
+      "id": "te:markets:579168",
+      "time": "2026-08-28 22:54:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Slips on Stronger US Dollar — The British pound fell toward $1.35, its weakest level since August 19, as hawkish Fed remarks supported the US dollar, while lower Brent crude prices eased UK inflation concerns and pushed expectations for the next BoE rate hike into 2027 from late 2026. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need clearer evidence that underlying price pressures are easing; otherwise, the Fed still has “work to do.” Meanwhile, LSEG data showed markets pricing around 24 basis points of BoE tightening by December and 36 basis points by February 2027. UK inflation rose to 2.9% in July, driven by higher household energy bills, and is expected to climb further toward year-end. However, the labor market has remained subdued, which could make the BoE more cautious about tightening policy in the near term."
+    },
+    {
+      "id": "te:markets:579167",
+      "time": "2026-08-28 22:54:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Apple Stock Price Hits 4-week High — Apple shares increased to 320.30 USD, the highest since July 2026. Over the past 4 weeks, Apple lost 5.4%, and in the last 12 months, it increased 37.82%."
+    },
+    {
+      "id": "te:markets:579165",
+      "time": "2026-08-28 22:52:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Allianz Stock Price Hits All-time High — Allianz shares increased to an all-time high of 453.00 EUR. Over the past 4 weeks, Allianz gained 5.72%, and in the last 12 months, it increased 25.33%."
+    },
+    {
+      "id": "te:markets:579164",
+      "time": "2026-08-28 22:50:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Microsoft Stock Price Hits 42-week High — Microsoft shares increased to 513.80 USD, the highest since November 2025. Over the past 4 weeks, Microsoft gained 31.42%, and in the last 12 months, it increased 1.29%."
+    },
+    {
+      "id": "te:economy:579163",
+      "time": "2026-08-28 22:49:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Bund Yields Rise to 15-Year High on Inflation Concerns — German 10-year Bund yields edged above 3.25%, touching their highest level since March 2011, as investors remained concerned about persistent inflationary pressures despite the recent decline in oil prices. Inflation data from France and Spain showed renewed price pressures in August, reinforcing expectations that the ECB could resume raising interest rates at its September meeting. Markets now price the ECB deposit rate at 2.80% by March next year, and around 2.90% by late 2027. Recent ECB minutes suggested officials saw another rate increase as likely necessary, while Reuters reported that policymakers are prepared to hike in September to contain the economic fallout from the Iran war, though they remain reluctant to signal further tightening beyond that. In the US, Fed Chair Kevin Warsh also struck a hawkish tone, warning that inflation has not meaningfully slowed and that policymakers need clearer evidence of easing price pressures, otherwise the Fed still has “work to do.”"
+    },
+    {
+      "id": "te:markets:579162",
+      "time": "2026-08-28 22:48:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Advances Further to Fresh Record — The DAX 40 extended early gains, rising 0.8% to close at a fresh record high of 26,570 on Friday, buoyed by autos stocks, while traders assessed Fed Chair Warsh's speech at the Jackson Hole Economic Symposium. Kevin Warsh struck a hawkish tone, noting that inflation remains elevated and has yet to make enough progress toward the 2% target. His remarks left the door open to tighter policy if inflation does not show clearer signs of easing. Meanwhile, lower oil prices and tech optimism continued to support market sentiment, with traders also monitoring developments in the Middle East. Auto stocks continued their strong upward trend ahead of the weekend. BMW shares led the index, gaining over 4% and benefiting from a more positive outlook from Citigroup. VW and Mercedes Benz Group climbed over 2% each. Utilities, chemical companies, banks, insurers and software firms also posted gains, while chipmaker Infineon Technologies lost ground (-0.6%). The index recorded a weekly rise of 1.7%."
+    },
+    {
+      "id": "te:markets:579159",
+      "time": "2026-08-28 22:45:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Slips as Hawkish Fed Tone Supports Dollar — The euro weakened to around $1.16, touching its lowest level since August 19, as investors turned to the US dollar following hawkish remarks from Federal Reserve Chair Kevin Warsh, despite European data pointing to renewed inflationary pressures. In his first major speech since becoming chair in May, Warsh warned that inflation has not meaningfully slowed and that policymakers need clearer evidence of easing price pressures, otherwise the Fed still has “work to do.” Meanwhile, inflation data from France and Spain strengthened expectations for further ECB tightening. EU-harmonized inflation rose to 2.7% in France and 4.5% in Spain, the latter its highest since 2023. Markets now see the ECB deposit rate rising to 2.80% by March next year from 2.25% currently, with roughly a 60% chance of a hike to 3%. Recent ECB minutes and Reuters reports also pointed to a possible September hike, although policymakers remain reluctant to signal further tightening."
+    },
+    {
+      "id": "te:markets:579156",
+      "time": "2026-08-28 22:39:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gives Back Gains on Warsh’s Hawkish Tone — Silver pared some of its gains to trade around $69 an ounce on Friday as investors digested hawkish-leaning remarks from Federal Reserve Chair Kevin Warsh. In his first major speech since taking the chair in May, Warsh warned that inflation has not meaningfully slowed and said policymakers need to see clearer evidence that underlying price pressures are easing, otherwise the central bank still has “work to do.” He reiterated the Fed’s commitment to returning inflation to its 2% target, which he described as a “firm and fixed” goal, and said financial conditions are not currently restrictive. His closely watched remarks offered greater clarity on his economic and policy views after criticism that his limited communication strategy had left markets with little guidance on the near-term outlook. Following the speech, markets raised the probability of a September rate hike to near 50%, according to CME FedWatch, weighing on silver."
+    },
+    {
+      "id": "te:markets:579154",
+      "time": "2026-08-28 22:38:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Slips as Warsh’s Hawkish Tone Boosts Rate-Hike Bets — Gold prices fell toward $4,560 an ounce on Friday, their lowest level in a week, as investors digested what was perceived as hawkish commentary from Federal Reserve Chair Kevin Warsh. In his first major speech since becoming chair in May, Warsh warned that inflation is not meaningfully slowing and said policymakers need to be confident that underlying price pressures are easing; otherwise, the central bank still has “work to do.” He reiterated that the Fed remains committed to returning inflation to its 2% goal, which he described as a “firm and fixed” target, and said financial conditions are not currently restrictive. His closely watched remarks provided greater clarity on his economic and policy views after criticism that his more limited communication strategy had left markets with little guidance on the near-term outlook. Markets responded by raising the probability of a September rate hike to near 50%, according to CME FedWatch."
+    },
+    {
+      "id": "te:markets:579152",
+      "time": "2026-08-28 22:35:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pare Gains After Warsh Speech — US stocks turned lower on Friday as tech shares trimmed yesterday's rally and Fed Chair Warsh's warning of high inflation strengthened bets for a rate hike. Marvell sank nearly 8%, giving back some of its rally on the month despite beating earnings estimates and raising its outlook. Chip producers and companies in AI infrastructure loosely maintained weekly gains after Nvidia noted that compute demand continues to surge through the next quarters. Meanwhile, Fed Chairman Warsh stated that underlying inflation is not slowing and vowed to fight price growth until it converges to the 2% target in his speech at the Jackson Hole Economic Symposium. The Chairman also signaled that the labor market is consistent with full employment, driving traders to consider a rate hike by the central bank next month. Industrial stocks and pharmaceuticals pulled back, with Merck and GE Vernova down over 1.5% each."
+    },
+    {
+      "id": "te:markets:579151",
+      "time": "2026-08-28 22:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Market Firm as LNG Supply Risks Persist — European natural gas prices fluctuated above €65/MWh, their highest level since January 2023, amid concerns over global LNG supply after the Middle East conflict disrupted around one-fifth of global LNG flows and hindered Europe’s summer stockpiling. EU gas storage levels are currently around 63% full, the lowest seasonal level since 2009, well below historical averages. While the European Commission remains confident that substantial spare LNG import capacity and a storage target of 80% will be sufficient to meet winter demand, Europe is expected to face intense competition from Asia for available cargoes. Meanwhile, signs of improving flows through the Strait of Hormuz and discussions surrounding an Iran–Oman shipping arrangement have eased some concerns over immediate supply disruptions. Market attention is increasingly shifting toward the economic and sanctions-related consequences of the Iran situation rather than an imminent physical supply shock."
+    },
+    {
+      "id": "te:markets:579150",
+      "time": "2026-08-28 22:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises on Tight Supply — US gasoline futures rose to around $3.50 per gallon, reaching over a three-month high as tight gasoline supplies keep prices elevated. EIA data showed US gasoline inventories fell by 2.536 million barrels in the week ending August 21st, leaving inventories consistently below the five-year average in recent weeks. US refineries are already operating near maximum capacity, leaving limited room to rebuild inventories. Demand is providing additional support, with heavy driving expected over the Labor Day weekend. Elsewhere, geopolitical tensions have disrupted nearly 10% of global refinery capacity, with the Russia-Ukraine conflict adding to supply pressures. Attacks on Russian refineries have pushed refinery runs toward multi-year lows, while Russian gasoline production has fallen nearly 20% from a year earlier. However, oil flows through the Strait of Hormuz improved, as the proposed Iran-Oman corridor reduced perceived risks of tighter crude supplies."
+    },
+    {
+      "id": "te:markets:579149",
+      "time": "2026-08-28 22:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Germany Hit All-time High — DE40 increased to an all-time high of 26581.00 Index Points. Over the past 4 weeks, Germany Stock Market Index (DE40) gained 4.38%, and in the last 12 months, it increased 11.19%."
+    },
+    {
+      "id": "em:qqyh_mlc:202608283858754721",
+      "time": "2026-08-28 22:25:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "交易員預計美聯儲9月份加息的可能性約為50%。"
+    },
+    {
+      "id": "te:economy:579140",
+      "time": "2026-08-28 22:25:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Rise as Warsh Warns on Inflation — The 10-year US Treasury yield climbed as high as 4.7% before paring gains after Fed Chair Kevin Warsh warned that inflation has not meaningfully slowed, signaling that policymakers may have “work to do” to bring price pressures back to the Fed’s 2% target. In his first major speech since taking the chair in May, Warsh reiterated that 2% inflation is a firm and fixed objective and said financial conditions are not currently restrictive. He also emphasized that interest rates remain the Fed’s “predominant tool” for achieving its mandate. He added that recent PCE and CPI data, while better than expected, do not indicate a meaningful improvement in underlying inflation trends. His closely watched remarks offered more clarity on his economic and policy views after criticism that his more limited communication strategy had left investors with little guidance on the near-term outlook. Money markets subsequently priced in a near 50% chance of a September rate hike, according to CME FedWatch."
+    },
+    {
+      "id": "te:economy:579139",
+      "time": "2026-08-28 22:23:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Foreign Exchange Reserves",
+        "Importance 0"
+      ],
+      "text": "India Forex Reserves Rise to Record — Foreign exchange reserves held at the Reserve Bank of India rose to a record high of $729.33 billion equivalent as of July 21st, 2026, following a large magnitude of dollar inflows to the Indian financial system. The RBI introduced special deposit programs for domestic banks by overseas Indian citizens in its latest effort to tame the rupee's decline. The measures garnered $74 billion of inflows since the introduction of the facilities. Foreign exchange reserves had plunged since March as the war in the Middle East lifted oil prices and pressured the rupee, driving the RBI to sell hard currency to defend local exchange rates."
+    },
+    {
+      "id": "em:qqyh_mlc:202608283858751527",
+      "time": "2026-08-28 22:20:17",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什稱通脹並未放緩 誓言實現2%的目標】美聯儲主席凱文·沃什警告稱通脹並未真正放緩，並表示除非決策層確信已經如此否則就有“工作要做”。沃什在他5月出任央行掌門以來的首次長篇演講中重申，決策層將推動通脹率恢復其2%的目標。他表示這是一個堅定不移的目標。“我的標準是：我們必須確信基礎通脹明確並以充分的速度朝著我們的目標邁進。否則，我們就有工作要做。這是我們的職責，”沃什週五在懷俄明州傑克遜霍爾舉行的美聯儲年會上發表演講時說。"
+    },
+    {
+      "id": "te:economy:579138",
+      "time": "2026-08-28 22:18:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Fed Chair Warsh Flags Inflation Risks — Federal Reserve Chairman Kevin Warsh flagged that underlying inflation is not slowing during his speech at the Jackson Hole Economic Symposium. The Chairman reiterated that the PCE price index remains the gauge to be targeted, clarifying doubts from market participants after he downplayed a strict inflation gauge and opted for a more flexible model touted by one of the task forces he created. The Federal Reserve left the federal funds rate unchanged at 3.50%–3.75% for a fifth consecutive meeting in July 2026, in line with expectations, despite markets assigning roughly a one-in-three probability to a rate hike. Three FOMC members dissented for a rate hike. After the decision, Chairman Warsh downplayed the funds rate as the preferred tool to fight inflationary risks in favor of a smaller Fed balance sheet, and continued to criticize forward guidance."
+    },
+    {
+      "id": "te:economy:579137",
+      "time": "2026-08-28 22:16:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Year-Ahead Inflation Expectations Revised Lower — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, were revised slightly down to 4% in August 2026 from the preliminary estimate of 4.3% and below July's 4.2%. The reading marked a third straight monthly decline and the lowest level since March. Longer-run inflation expectations, measured over a five-year horizon, held at 3.3% for a third consecutive month, in line with the earlier estimates."
+    },
+    {
+      "id": "te:markets:579136",
+      "time": "2026-08-28 22:13:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Hits 4-week Low — The Japanese Yen touched 159.84 against the USD, the lowest since July 2026. Over the past 4 weeks, US Dollar Japanese Yen lost 2.23%, and in the last 12 months, it increased 8.71%."
+    },
+    {
+      "id": "te:economy:579135",
+      "time": "2026-08-28 22:09:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "US Consumer Sentiment Weakens Despite Upward Revision — The University of Michigan’s consumer sentiment index was revised higher to 51.7 in August 2026, from a preliminary reading of 51.0. Despite the upward revision, sentiment fell about 6% from July and remained roughly 11% below its year-ago level, reflecting persistent concerns that inflation will remain elevated for the foreseeable future. Sentiment declined across all political groups, particularly among Republicans, while older, lower- and middle-income consumers and those without stock holdings saw sharper deterioration. Ongoing policy uncertainty, including the Iran conflict, has also fueled expectations of further gasoline price increases. Consumers are increasingly concerned about weakening economic conditions, with one-year business expectations falling 10% and the five-year outlook dropping 13%. Meanwhile, one-year inflation expectations eased to 4.0% from 4.2%, while long-run expectations held steady at 3.3% for a third consecutive month."
+    },
+    {
+      "id": "te:markets:579134",
+      "time": "2026-08-28 22:08:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BP Stock Price Hits 5-week Low — BP shares decreased to 512.85 GBp, the lowest since July 2026. Over the past 4 weeks, BP lost 5.48%, and in the last 12 months, it increased 18.88%."
+    },
+    {
+      "id": "te:economy:579132",
+      "time": "2026-08-28 22:07:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Non Farm Payrolls",
+        "Importance 2"
+      ],
+      "text": "US Nonfarm Payrolls Revised Down by 79K — The US economy added 79,000 fewer jobs in the 12 months through March 2026 than previously estimated, according to the Bureau of Labor Statistics’ preliminary benchmark revision, representing a downward adjustment of 0.1%. The revision was concentrated in several major sectors, with retail trade recording the largest reduction of 154,600 jobs. Private education and health services followed with a 96,000 downward revision, while wholesale trade was revised down by 86,200 and professional and business services by 76,000. Manufacturing payrolls were reduced by 67,000, while leisure and hospitality and mining and logging saw smaller downward adjustments of 33,000 and 6,000, respectively. However, several sectors recorded upward revisions. Transportation and warehousing led with an increase of 135,100 jobs, followed by government with 99,000, information with 87,000, financial activities with 85,000 and construction with 62,000."
+    },
+    {
+      "id": "em:qqyh_mlc:202608283858739373",
+      "time": "2026-08-28 22:06:07",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：經濟似乎已經走強】美聯儲主席沃什表示，美聯儲需要儘可能清晰、未經過濾的市場訊號；對經濟印象深刻，經濟似乎已經走強。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608283858738312",
+      "time": "2026-08-28 22:05:16",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：勞動力市場與充分就業相符】美聯儲主席沃什表示，認為勞動力市場與充分就業相符，通脹預期指標總體上看起來穩定。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608283858734483",
+      "time": "2026-08-28 22:04:24",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：通脹資料並未顯示通脹趨勢出現顯著改善】美聯儲主席沃什表示，通脹資料並未顯示通脹趨勢出現顯著改善；如果通脹率不能快速達到2%，就還有工作要做。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608283858733844",
+      "time": "2026-08-28 22:03:16",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美聯儲主席沃什：美聯儲2%的通脹目標是堅定且固定的】美聯儲主席沃什表示，美聯儲2%的通脹目標是堅定且固定的；實現價格穩定是美聯儲的職責 。"
+    },
+    {
+      "id": "te:economy:579129",
+      "time": "2026-08-28 22:01:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Unemployment Rate",
+        "Importance 0"
+      ],
+      "text": "Chile Unemployment Rate Edges Higher — Chile’s unemployment rate rose to 9.5% in the May-July 2026 rolling quarter, slighly up from 9.4% in the previous period. The number of unemployed people increased 10.4%, driven by both those who had previously worked and first-time jobseekers. The participation and employment rates declined to 61.7% and 55.9%, respectively. Unemployment reached 10.3% among women, up 0.6 percentage points, and 8.9% among men, up 1 percentage point. The employment decline was driven by information and communications (-14.6%), education (-3.3%), and manufacturing (-2.7%). Meanwhile, the informal employment rate rose 0.5 percentage points to 26.5%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608283858731332",
+      "time": "2026-08-28 22:00:59",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國2026年初步基準非農就業人數修訂下調7.9萬人。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608283858730942",
+      "time": "2026-08-28 22:00:25",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月一年期通脹率預期終值4%，預期4.40%，前值4.30%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608283858730285",
+      "time": "2026-08-28 22:00:15",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月密歇根大學消費者信心指數終值為51.7，預估為51。"
+    },
+    {
+      "id": "te:economy:579126",
+      "time": "2026-08-28 21:57:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Chicago PMI",
+        "Importance 1"
+      ],
+      "text": "Chicago Business Activity Sinks in August — The Chicago Business Barometer plunged to 47.1 in August 2026 from 57.6 in July and missing market forecasts of 58.3. The latest data pointed to a renewed contraction in business activity and the steepest since December 2025. New orders declined sharply, dropping 15.4 points, but still above April's low. The production gauge slipped 8.8 points, recording its first and sizeable contraction since last December. Meanwhile, supplier deliveries eased 2.6 points, but remained in expansion for the 19th consecutive month. On a more positive note, employment rose 4.3 points, moving into positive territory for the first time in five months, although the improvement was marginal. On the price front, price pressures intensified. Prices paid jumped 3.8 points to their highest level since February 2022, with some firms reporting higher metal costs."
+    },
+    {
+      "id": "te:markets:579125",
+      "time": "2026-08-28 21:56:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Nears Record High After GDP Release — The S&P/TSX Composite Index inched higher to trade near 37,000 on Friday following the release of GDP data. Canada's GDP expanded at an annualized rate of 3.3% in the second quarter, the strongest pace in nearly two years, providing some buffer against economic risks from ongoing trade disputes with the US. Canada’s ambassador to Washington, Mark Wiseman, said on Thursday that Ottawa could not accept a trade deal unless it ensured the survival of a robust Canadian auto assembly and parts industry. Earlier this week, US President Trump threatened to raise tariffs on all Canadian cars, trucks, and automotive parts to 50% from January 1st, 2027, following the imposition of tariffs on a range of Canadian goods. Major banks traded higher after a largely positive batch of earnings reports, with RBC, TD Bank, Scotiabank, and CIBC, all of which beat expectations, gaining about 1% each. Tech stocks also extended gains following Nvidia’s strong results, with Shopify up more than 0.5%."
+    },
+    {
+      "id": "te:markets:579124",
+      "time": "2026-08-28 21:50:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Inches Up on Easing Inflation — The Ibovespa inched above the 175,000 mark on Friday, as fresh evidence of disinflation strengthened the outlook of lower rates by the BCB. Producer prices rose 1.94% from the previous year in July, slowing from a 2.47% increase in June, and the IGP-M fell from the previous month. Signs of easing inflationary pressures supported credit-sensitive stocks as yields softened. Financials advanced, with Bradesco up 1%, Banco do Brasil gaining more than 1%, and Santander rising nearly 2%. B3 gained nearly 2% after JPMorgan said emerging-market equity funds recorded higher inflows, with Latin America returning to positive territory. Brazil also recovered after four weeks of heavy outflows. Petrobras rose more than 0.5% after Bradesco BBI upgraded the stock to Outperform from Neutral."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608283858701390",
+      "time": "2026-08-28 21:46:54",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國8月芝加哥PMI為47.1 預期57.9】美國8月芝加哥PMI為47.1，預期57.9，前值57.6。"
+    },
+    {
+      "id": "te:markets:579122",
+      "time": "2026-08-28 21:40:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.08% Higher — The Dow Jones Index is picking up 45 points or 0.08 percent on Friday. Gains are led by Nike (1.09%), McDonalds (1.03%) and Amazon (0.89%). Biggest losers are Merck (-1.34%), Cisco Systems (-1.13%) and Alphabet (-0.53%)."
+    },
+    {
+      "id": "te:markets:579116",
+      "time": "2026-08-28 21:32:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Mixed — US stocks were mixed on Friday as tech shares trimmed yesterday's rally, while broader sectors edged higher. The S&P 500 was flat, balancing the composition of a 150-point gain for the Dow and a 0.7% loss for the Nasdaq 100. Marvell sank nearly 8%, giving back some of its rally on the month despite beating earnings estimates and raising its outlook. Chip producers and companies in AI infrastructure loosely maintained weekly gains after Nvidia noted that compute demand continues to surge through the next quarters. Meanwhile, Fed Chairman Warsh was due to speak at the Jackson Hole Economic Symposium amid a backdrop of uncertainty on the economy and division in the FOMC. Treasury yields held their surge since the start of quarter, with higher federal deficits and large corporate issuance combining with Warsh's signals that tighter financial conditions from secondary bond markets are natural and potentially act as a desired policy tool for the Fed."
+    },
+    {
+      "id": "te:markets:579113",
+      "time": "2026-08-28 21:29:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Extends Rally Into 7th Day — The Baltic Exchange’s dry bulk freight index rose 2.5% to 3,186 on Friday, extending its winning streak to seven sessions and reaching its highest level since June 2. The index measures freight rates for vessels carrying dry bulk commodities across the Capesize, Panamax and Supramax segments. Gains were broad-based, led by the bigger size segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, advanced for a seventh day, climbing 3.9% to its highest since June 2 at 5,336 points. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, gained for the sixth session, rising by 1% to a peak since June 2 at 2,315 points; and the supramax index edged up by 0.1% to 1,647 points. The benchmark index rose 12.1% for the week."
+    },
+    {
+      "id": "te:markets:579111",
+      "time": "2026-08-28 21:22:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Austria",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Austria Hit All-time High — ATX increased to an all-time high of 6781.00 Index Points. Over the past 4 weeks, Vienna Stock Exchange Austrian Traded Index gained 7.6%, and in the last 12 months, it increased 46.92%."
+    },
+    {
+      "id": "te:markets:579108",
+      "time": "2026-08-28 21:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Little Changed After GDP Data — Futures tracking Canadian stocks were little changed on Friday following the release of GDP data. Canada’s GDP expanded at an annualized rate of 3.3% in the second quarter, the strongest pace in nearly two years, adding to some buffer amid economic risks from trade disputes with the US. Canada’s ambassador to Washington, Mark Wiseman, said on Thursday that Ottawa could not accept a trade deal unless it ensured the survival of a robust Canadian auto assembly and parts industry. This week, US President Trump threatened on Monday to raise tariffs on all Canadian cars, trucks, and automotive parts to 50% from January 1st, 2027. The US also imposed 50% tariffs on selected Canadian goods on Saturday, including furniture, plastics, plywood, and electrical equipment, on top of existing duties on steel, lumber, and autos. Canada responded with retaliatory tariffs on about $20 billion of annual US imports. Concerns are that the trade tensions could derail the economic recovery."
+    },
+    {
+      "id": "te:economy:579104",
+      "time": "2026-08-28 20:38:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Canada’s Economy Accelerates in Q2 2026 — Canada’s economy expanded 0.8% in the second quarter of 2026, following an upwardly revised 0.1% increase in the previous three-month period, driven by stronger exports, household spending and business capital investment. Exports rose 3.6%, the largest increase since Q1 2023, led by a 27.0% jump in passenger cars and light trucks as Canadian auto production rebounded. Higher exports of metals, energy products, and industrial machinery and equipment also supported growth. Household spending rose 0.8%, led by higher spending on investment services, passenger vehicles and rent. Business investment strengthened, with engineering structures up 2.3% and machinery and equipment spending reaching its highest level since Q2 2024. Investment in computers and peripherals surged 16.7%, mainly due to higher imports of processing units used in data centres. On an annualized basis, the economy grew 3.3%, the fastest pace since Q3 2024 and broadly in line with market expectations of 3.4%."
+    },
+    {
+      "id": "te:economy:579103",
+      "time": "2026-08-28 20:36:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Monthly GDP MoM",
+        "Importance 1"
+      ],
+      "text": "Canada GDP Holds Steady in July — The Canadian GDP is expected to have remained unchanged from the previous month in July of 2026, according to a flash estimate. Preliminary evidence pointed to an increase in real estate, rental and leading, and professional, scientific, and technical services, which offset a decline in retail trade and manufacturing. The figure follows a 0.3% expansion in June, revised higher from a 0.2% increase."
+    },
+    {
+      "id": "em:jjsj_jndsj:202608283858583186",
+      "time": "2026-08-28 20:30:35",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大6月GDP同比增長2%】加拿大6月GDP同比增長2%，預期2%，前值1.7%。"
+    },
+    {
+      "id": "te:economy:579102",
+      "time": "2026-08-28 20:22:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Producer Price Inflation MoM",
+        "Importance 1"
+      ],
+      "text": "Brazil Producer Prices Extend Monthly Decline — Brazil’s producer prices fell 0.83% month-on-month in July 2026, extending a downwardly revised 0.81% decline in June and marking the sharpest monthly drop in more than a year. Eleven of the 24 industrial activities surveyed recorded price decreases. Petroleum refining and biofuels led the decline, falling 5.65%, followed by other chemicals (-4.49%) and extractive industries (-4.38%). Manufacturing industry prices fell 0.67% overall. In contrast, computers, electronic and optical products recorded the largest increase, at 11.37%. By major economic category, capital goods prices rose 2.75%, while intermediate goods fell 1.83% and consumer goods declined 0.10%. Within consumer goods, durable goods decreased 0.37%, while semi-durable and non-durable goods fell 0.05%. Producer prices rose 3.09% year-to-date and 1.94% over the 12 months through July."
+    },
+    {
+      "id": "te:markets:579101",
+      "time": "2026-08-28 20:01:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Heads for Weekly Loss — Crude oil fell below $83 a barrel on Friday, extending weekly losses to near 5%, as traders increasingly viewed the Iran situation as an economic/sanctions confrontation rather than an imminent threat to physical supply, while improving flows through Hormuz and the proposed Iran–Oman corridor further reduced the perceived supply risk. Goldman Sachs estimated that Persian Gulf oil exports have climbed to around 15–16 million barrels per day, still significantly below pre-conflict volumes of 22–24 million barrels but well above the March low of about 5–6 million barrels. Meanwhile, Iran and Oman agreed on a revenue-sharing framework for the strait, although Tehran emphasized that this does not imply an immediate reopening. Still, the Trump administration reportedly told mediators it does not intend to revive the terms of a preliminary June agreement with Iran that subsequently collapsed."
+    },
+    {
+      "id": "te:markets:579098",
+      "time": "2026-08-28 19:56:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Climbs to Three-Month High — Palladium futures rose above $1,400 per ounce, reaching a three-month high amid stronger demand prospects. Tighter emissions regulations could support the metal as consumers increasingly transition toward hybrid vehicles, which still use autocatalysts, rather than moving directly from to BEVs. Volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. However, major producing countries, particularly Russia and South Africa, continue to face geopolitical tensions and operational vulnerabilities in mining infrastructure, constraining supply. In the near term, however, investment flows remain influential, as expectations of a Fed rate hike increased following the Fed's Chairman statement there was \"work to do\" in returning inflation to target, weighing on the non-yielding metal."
+    },
+    {
+      "id": "te:markets:579096",
+      "time": "2026-08-28 19:46:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Ease on Friday — US equity futures inched down on Friday as tech shares trimmed some of the prior session's rally, while lingering macroeconomic risks remained. Contracts for the S&P 500 and the Nasdaq 100 were 0.5% lower, while the Dow inched higher. Marvell sank nearly 8% premarket, giving back some of its rally on the month despite beating earnings estimates and raising its outlook. Chip producers and companies in AI infrastructure loosely maintained weekly gains after Nvidia noted that compute demand continues to surge through the next quarters. Meanwhile, Fed Chairman Warsh was due to speak at the Jackson Hole Economic Symposium amid a backdrop of uncertainty on the economy and division in the FOMC. Treasury yields held their surge since the start of quarter, with higher federal deficits and large corporate issuance combining with Warsh's signals that tighter financial conditions from secondary bond markets are natural and potentially act as a desired policy tool for the Fed."
+    },
+    {
+      "id": "te:economy:579094",
+      "time": "2026-08-28 19:43:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Brazil Loan Growth Slows — The value of outstanding loans from the Brazilian financial sector edged up by 0.3% from the previous month, remaining at R$7.4 trillion in July 2026, slowing from a 0.7% increase in June. Loans extended to corporations fell 0.7%, remaining at R$2.7 trillion, while household lending edged up 0.8%, also remaining broadly unchanged at R$4.6 trillion. On an annual basis, total credit expanded 9.5%, down from the 9.7% growth recorded in June. Household lending continued to outpace corporate credit, rising 10.8% year-on-year, while lending to legal entities slowed further to 7.4% from 7.9%. Meanwhile, credit with free resources totaled R$4.2 trillion, broadly unchanged from the prior month, although the level edged 0.1% downward from the previous month and increased 7% from a year earlier. Stronger household credit with free resources (up 1%) offset a monthly decline of 1.9% in corporate lending. Nevertheless, both remained higher than a year earlier."
+    },
+    {
+      "id": "te:economy:579092",
+      "time": "2026-08-28 19:32:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Spain Business Confidence Weakens to 4-Month Low — The seasonally adjusted industrial confidence indicator in Spain fell further to -3.9 in August 2026, the lowest since April, from -2.6 in the preceding month. The 1.3-point monthly decline reflected a 2.8-point increase in stock levels and a 1.4-point decrease in production expectations, partly offset by a 0.3-point rise in the order-book indicator. Inventories rose for the third consecutive month, while the gauge for order books reached its highest level since April 2023, standing 3.5 points above its average since 2024. Production expectations, the only forward-looking component of the three underlying measures, declined for a second consecutive month, falling below their long-term average. Even so, the ICI remains above its long-term average, as it has consistently done since December 2023, and is 2.2 points higher than in August 2025."
+    },
+    {
+      "id": "te:markets:579088",
+      "time": "2026-08-28 19:10:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Slips From Three-Month High — Platinum futures traded around $1,860 per ounce, after reaching a three-month high as investment flows remain influential in the near term despite higher demand. Expectations of a Fed rate hike increased following the Fed's Chairman statement there was \"work to do\" in returning inflation to target, weighing on the non-yielding metal. Still, volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility, supporting demand for hybrid vehicles, which use autocatalysts. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. The World Platinum Investment Council forecasts industrial demand to increase 9% in 2026, while emerging applications in hydrogen technologies, chips and AI data-centers could provide additional long-term demand. The metal also remains supported by a persistent supply deficit, limiting available metal."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608283858433457",
+      "time": "2026-08-28 19:01:35",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行、金融監管總局：改革完善房地產信貸管理 推動加快構建房地產發展新模式】為完善房地產信貸管理，維護購房人合法權益，滿足行業合理融資需求，促進房地產市場穩健執行，加快構建房地產發展新模式，推動房地產高質量發展，根據《中華人民共和國中國人民銀行法》《中華人民共和國銀行業監督管理法》《中華人民共和國商業銀行法》等法律法規，制定本意見。"
+    },
+    {
+      "id": "te:markets:579083",
+      "time": "2026-08-28 18:59:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes Higher, Still Posts Weekly Loss — India’s BSE Sensex closed about 0.4% firmer at 77,264.5 on Friday, recovering some ground after two consecutive sessions of losses, supported by easing crude oil prices and a positive global outlook for the technology sector. However, India’s new closing-auction mechanism remained a source of concern after sharp swings on monthly derivatives expiry days. Meanwhile, investors cautiously awaited Fed Chair Kevin Warsh's first Jackson Hole keynote for clues on the US central bank's September policy outlook. IT stocks led the advance, with TCS surging 4.1%, followed by Infosys at 3.3%, Tech Mahindra at 3.2% and HCL Technologies at 2.7%. Other notable gainers included Titan, Eternal, HDFC Bank, Axis Bank and Sun Pharma, rising more than 1% each. On the other hand, ICICI Bank (-1.3%), UltraTech Cement (-1.2%) and Asian Paints (-1.1) were the biggest laggards. For the week, the index recorded a 0.4% decline."
+    },
+    {
+      "id": "te:economy:579082",
+      "time": "2026-08-28 18:55:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "India Industrial Production Eases from 2-Year High — Industrial production in India expanded by 6.7% from the previous year in July of 2026, slowing from the upwardly revised, over two-year high of 8.8% in June, but ahead of market expectations of 6%. The result remained above averages from the previous two years, and extended the period of recovery from lower growth earlier this year as the outbreak of war in the Middle East lifted energy prices and dented economic conditions in India. Manufacturing, which accounts for 76% of industrial production, expanded by 7.3% from the upwardly revised 9.5% in June. Meanwhile, electricity and gas supply expanded by 8.7% from 11.3%). On the other hand, mining and quarrying output contracted by 0.9% from a growth rate of 1.6%."
+    },
+    {
+      "id": "te:economy:579081",
+      "time": "2026-08-28 18:53:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Portugal Retail Sales Growth Hits Three-Month High — Portugal’s retail sales growth accelerated to 3.0% year-on-year in July 2026, the strongest pace in three months and up from a revised 2.7% in June. The rise was broad-based, led by food, beverages, and tobacco (2.5% vs. 1.3% in June) and non-food items (3.3% vs. 3.7%), including computers, telecom equipment, books, and other products (1.4% vs. 3.1%), textiles, clothing, footwear, and leather goods (4.5% vs. 7.1%), and household goods (8.2% vs. 7.6%). On a monthly basis, retail sales were flat, after a downwardly revised 1.4% increase in June."
+    },
+    {
+      "id": "te:economy:579080",
+      "time": "2026-08-28 18:46:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Austria 10Y Bond Yield Hits 34-month High — Austria 10 Year Government Bond Yield increased to 3.50%, the highest since October 2023. Over the past 4 weeks, Austria 10Y Bond Yield gained 10.48 basis points, and in the last 12 months, it increased 43.89 basis points."
+    },
+    {
+      "id": "te:economy:579079",
+      "time": "2026-08-28 18:42:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macau",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Macau Unemployment Rate Holds at 1.9% — Macau’s unemployment rate held steady at 1.9% in July 2026, unchanged from the previous month. The number of unemployed people fell by around 400 month-on-month to 6,400, while total employment increased by 300 to 376,700. The labour force participation rate was also stable at 66.8%, with the overall labour force edging up by 200 to 383,800. Meanwhile, the general underemployment rate declined slightly to 1.7%, down 0.1 percentage point from June. By sector, gaming remained the largest source of employment, accounting for 62.6% of employed residents. Wholesale and retail trade followed with 36.1%, while real estate and business activities represented 24.7%. Accommodation and food services accounted for 19.5%, and transport and storage for 16.4%."
+    },
+    {
+      "id": "te:economy:579077",
+      "time": "2026-08-28 18:34:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Greece Credit Growth at Over 1-1/2-Year Low — The annual growth of total credit extended to the Greek economy slowed to 3.4% in July 2026, down from 5.0% in June and marking its weakest pace since September 2024. Bank lending also recorded a significant monthly reversal, with the net flow of total credit turning negative at €3.96 billion, compared with a positive €3.50 billion a month earlier. Credit to the general government accounted for part of the decline, with a net outflow of €1.37 billion following a €213 million inflow in June. As a result, the annual growth rate of government credit fell to -2.0% from 0.4%. Lending to the private sector also lost momentum, with annual growth easing to 6.8% from 7.7%. The monthly flow of private-sector credit was negative by €2.59 billion, reversing a €3.29 billion increase in June."
+    },
+    {
+      "id": "te:economy:579076",
+      "time": "2026-08-28 18:31:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Latvia Retail Sales Growth at 6-Month High — Retail sales in Latvia rose 7.0% year-on-year in July 2026, accelerating from a revised 5.2% increase in the previous month and reaching its highest level since January. Sales rebounded for information and communication equipment (10.4% vs -7.3% in June) and cosmetic and toilet articles (2.9% vs -0.1%). Sales also increased across several categories, including non-food products excluding automotive fuel (9.6% vs 6.6%), automotive fuels (8.2% vs 2.4%), goods in non-specialised stores (10.2% vs 2.4%), hardware, paints and glass (17.3% vs 12.3%), clothing, footwear and leather goods (10.1% vs 6.7%), and pharmaceutical and medical goods (8.6% vs 4.8%). Meanwhile, retail activity slowed for food, beverages and tobacco (2.6% vs 4.6%), electrical household appliances (6.2% vs 9.5%), and sales via mail order or the Internet (14.8% vs 19.0%). On a monthly basis, retail sales rose 2.5%, following a revised 0.9% increase in June."
+    },
+    {
+      "id": "te:markets:579075",
+      "time": "2026-08-28 18:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.43% Higher — The SENSEX Index went up by 331 points or 0.43 percent on Friday to close at 77265 points. The rise was led by Tata Consultancy (4.16%), Tech Mahindra (3.12%) and Infosys (2.90%). On the downside, the weakerst performers were Asian Paints (-1.37%), ITC (-1.30%) and Indusind Bank (-1.28%)."
+    },
+    {
+      "id": "te:economy:579074",
+      "time": "2026-08-28 18:15:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "Ireland Retail Activity Rise the Most in 6 Months — Retail sales in Ireland advanced by 1.3% month-on-month in July 2026, up from an upwardly revised 0.5% increase in the previous month, marking the strongest reading in six months. The largest volume increases were recorded in motor trade (+8.5%), fuel (+7.0%), and pharmaceuticals, medical, and cosmetic articles (+3.4%). Fuel sales also strengthened, rising 2.4% in value and 7.0% in volume, reflecting elevated fuel prices amid ongoing geopolitical tensions in the Middle East. Meanwhile, gains were partly offset by notable declines in department stores (-1.3%), books, newspapers, and stationery (-0.3%), and other retail sales (-0.1%). On an annual basis, retail activity jumped 2.2% in July, following an upwardly revised 0.9% growth in the preceding period."
+    },
+    {
+      "id": "te:markets:579070",
+      "time": "2026-08-28 17:52:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is up by 5.04% — Palladium increased 5.04% to 1406.5 USD/t.oz"
+    },
+    {
+      "id": "te:economy:579069",
+      "time": "2026-08-28 17:51:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Cyprus Industrial Output Growth Steady in June — Industrial production in Cyprus edged up 0.3% year-on-year in June 2026, unchanged from the previous month and remaining at its lowest level since February. Manufacturing output rose 0.6% (vs 0.5% in May), driven particularly by wood and cork products, except furniture (2.3% vs 1.2%), rubber and plastic products (4.7% vs -2.4%), basic metals and fabricated metal products (2.3% vs 1.1%), and non-metallic mineral products (7.5% vs 4.9%). Meanwhile, growth accelerated in water supply and materials recovery (1.5% vs -3.9%), as well as water collection, treatment and supply (14.2% vs 10.2%). Electricity supply fell 4% after stagnating in the previous month, while the decline in materials recovery eased (-15.1% vs -20.7%). In January-June, industrial output grew 1.2% compared with the corresponding period of the previous year."
+    },
+    {
+      "id": "te:economy:579068",
+      "time": "2026-08-28 17:48:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Belgium August Inflation at 3-Month High — Belgium’s annual inflation rate rose by 3.97% in August 2026 from 3.56% in the previous month, marking the strongest growth in three months. Energy prices jumped to 16.47% from 10.59%, while electricity inflation slowed to 7.8% from 7.9%. Moreover, costs increased for alcoholic beverages and tobacco (2.41% vs 1.22% in July), clothing and footwear (2.97% vs 1.21%), housing utilities (6.92% vs 4.88%), furniture and household equipment (0.46% vs 0.41%), transportation (5.29% vs 5.23%), information and communication (1.64% vs 0.92%), and insurance and financial services (3.69% vs 3.43%). Meanwhile, price growth moderated for food and non-alcoholic beverages (0.26% vs 0.29%), health (6.62% vs 6.66%), recreation and culture (8.16% vs 8.90%), and miscellaneous goods and services (1.68% vs 1.80%). On a monthly basis, consumer prices grew by 0.41% in August, easing from a 0.63% increase in July."
+    },
+    {
+      "id": "te:economy:579066",
+      "time": "2026-08-28 17:29:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Industrial Sentiment",
+        "Importance 1"
+      ],
+      "text": "Euro Area Industrial Sentiment Highest since 2023 — The Euro Area industrial confidence indicator edged up to -5.3 in August 2026 from -6.1 in July, the highest since April 2023, and compared with market expectations of -5.2. Managers reported stronger production expectations and lower levels of stocks of finished products, which were partly offset by a more negative view of current order books. Regarding the questions not part of the confidence indicator, managers’ assessment of past production relapsed partially after July’s surge, and their views of export order books deteriorated somewhat."
+    },
+    {
+      "id": "te:economy:579065",
+      "time": "2026-08-28 17:29:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Italy Consumer Confidence Highest in Six Months — The consumer confidence index in Italy rose to 94.5 in August 2026 from 94.2 in the previous month, falling short of market expectations of 95. The reading was the highest since February 2025, with most components recording gains. The economic climate sub-index increased to 92.3 from 90.9 in July, while the future climate advanced to 90.2 from 89.8, reflecting a more favorable outlook for the broader economy. The current climate edged higher to 97.8 from 97.4, while the personal climate remained unchanged at 95.4."
+    },
+    {
+      "id": "te:economy:579064",
+      "time": "2026-08-28 17:28:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Montenegro",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Montenegro Trade Deficit Widens in July — Montenegro’s trade deficit widened to €378.5 million in July 2026 from €370.9 million a year earlier. Imports rose 3.4% year-on-year to €430 million, while exports jumped 14.3% to €51.5 million. On a cumulative basis, the trade deficit expanded to €2,295.3 million from €2,195.7 million a year earlier. Imports increased by 3.4% to €2,608.2 million, driven largely by stronger purchases of mineral fuels, lubricants, and related materials (+15.6%), chemicals (+5.9%), and miscellaneous manufactured articles (+6.3%). Meanwhile, exports fell by 4.4% to €312.9 million, weighed down by decreased sales of crude materials, inedible, except fuels(-15.6%), chemicals (-17.5%), and machinery and transport equipment (-38.0%). Among trading partners, Europe accounted for the largest share of both exports and imports, representing 93.8% and 79.1%, respectively."
+    },
+    {
+      "id": "te:economy:579063",
+      "time": "2026-08-28 17:27:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Services Sentiment",
+        "Importance 1"
+      ],
+      "text": "Eurozone Services Sentiment Improves to 7-Month High — The index measuring service sector confidence in the Eurozone rose to 5.8 in August of 2026 from the upwardly revised 5.1 in the previous month, the highest in seven months, and contrasting with expectations that it would ease to 4.9. The result extended the recovery in business conditions in the currency bloc after the outbreak of war in the Middle East halted energy supply from the region and triggered inflationary pressure that resulted in tighter monetary policy. Improvements were noted in the assessment of business over the last three months (2.4 vs 1.6 in July) and expectations on incoming demand for the next three months (10 vs 9). Meanwhile, selling price expectations rose to 14.1 from 13.7."
+    },
+    {
+      "id": "te:economy:579061",
+      "time": "2026-08-28 17:24:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Economic Optimism Index",
+        "Importance 2"
+      ],
+      "text": "Eurozone Economic Sentiment Hits Seven-Month High — The Eurozone Economic Sentiment Indicator rose for a fourth consecutive month to 98.4 in August 2026, up from a revised 97.1 in July and above market expectations of 97.5. It was the highest reading since January, as businesses and consumers remained hopeful of a resolution to the six-month-long US-Iran war. Confidence improved across all sectors, with sentiment strengthening among manufacturers (-5.3 vs. -6.1), service providers (5.8 vs. 5.1), consumers (-15.5 vs. -15.9), retailers (-5.7 vs. -6.8) and constructors (-5.0 vs. -5.2). Inflation expectations were mixed: consumer expectations rose to 33.0 from 30.4, while manufacturers’ selling-price expectations eased to 16.4 from 17.8. Among the major economies, sentiment improved in France (+2.3), Germany (+1.3) and Italy (+0.8), was broadly stable in the Netherlands (-0.1), and declined in Spain (-2.2)."
+    },
+    {
+      "id": "te:economy:579059",
+      "time": "2026-08-28 17:20:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Italy Manufacturing Sentiment Improves Further — Italy’s manufacturing confidence indicator rose to 89.9 in August 2026, the highest level since June 2023, from 89.7 in July and broadly in line with expectations. Despite the improvement in overall sentiment, firms reported a more negative assessment of total orders (-20.4 vs -17.1), driven by weaker expectations for foreign orders (-23.9 vs -22.1). Views on current production also deteriorated (-19.6 vs -17.8), while inventory accumulation increased further (3.8 vs 2.8). Looking ahead, production expectations improved to 9.6 from 4.5, although edged higher to 15.5 from 15.3. Expectations for future employment weakened, with the indicator falling to 1.5 from 4.4. Meanwhile, Italy’s overall business confidence indicator increased to 96.9 from 95.7, supported by improving sentiment across sectors, particularly construction."
+    },
+    {
+      "id": "te:economy:579058",
+      "time": "2026-08-28 17:19:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Greece Producer Inflation Picks Up in July — Producer prices in Greece rose 11.8% year-on-year in July 2026, accelerating from 8.8% in the previous month. Prices increased at a faster pace across most major industrial groupings, namely energy (21.5% vs 15.5% in June), intermediate goods (7.0% vs 6.4%), capital goods (4.5% vs 3.6%), and non-durable consumer goods (1.7% vs 1.1%). In contrast, prices eased for durable consumer goods (1.3% vs 2.2%). By market, producer prices for the domestic market rose 7%, while those for the non-domestic market climbed 23.4%. On a monthly basis, producer prices rose 0.2%, rebounding from a 3% decline in the previous month."
+    },
+    {
+      "id": "te:economy:579057",
+      "time": "2026-08-28 17:15:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macau",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Macau Trade Deficit Widens in July — Macau’s trade deficit widened to MOP 10 billion in July 2026, from MOP 8.9 billion in the corresponding month last year. Imports rose 13.4% year-on-year to MOP 11.5 billion, driven by higher purchases of gold jewellery (55.8%) and garments and footwear (4.0%), while imports of food and beverages declined 6.2%, although the category remained the main import product. Among key trading partners, imports increased notably from China (48.6%), Hong Kong (60.6%), and Italy (44.7%). Meanwhile, exports rose 13.6% to MOP 1.5 billion, supported by increased shipments of knitted or crocheted garments (19%), diamond and diamond jewellery (15%), and machines, apparatus and parts (59.1%). Export destinations recorded notable grew to Hong Kong (24.8%), the United States (20.1%), and India (191.6%). During the January-July period, Macau’s trade deficit rose to MOP 77.3 billion from MOP 42.1 billion in the same period last year."
+    },
+    {
+      "id": "te:economy:579054",
+      "time": "2026-08-28 17:13:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Euro Area Consumer Confidence at 6-Month High — Consumer confidence in the euro area edged up to -15.5 in August 2026 from -15.9 in July, in line with the preliminary estimate. The increase marked the fourth consecutive monthly improvement, bringing confidence to its highest level since February. Sentiment across the broader European Union strengthened marginally, with the index rising to -15 from -15.1. Consumers were somewhat less pessimistic about their household’s future and past financial situation. However, the improvement was tempered by weaker spending intentions, with consumers less inclined to make major purchases over the next 12 months, while their expectations for the broader economic outlook also deteriorated."
+    },
+    {
+      "id": "te:economy:579052",
+      "time": "2026-08-28 17:09:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Slovenia Retail Sales Hit 4-Month High — Slovenia’s retail sales climbed 5.2% year-on-year in July 2026, picking up from a four-month low and upwardly revised 2.7% in the previous month. It marked the strongest annual growth since March, as sales of non-food items jumped to 5.7% from 3.4% in June, while automotive fuel sales in specialized stores soared to 14.7% from 2.7%. On the other hand, sales of food items eased notably to 0.1% from 7.2%. On a seasonally adjusted monthly basis, retail sales rose 1.6%, rebounding from an upwardly revised 0.6% decline in the previous month and marking the strongest monthly increase since March. In the first seven months of the year, retail turnover increased 2.3% from a year earlier, as higher sales of non-food products (2.0%) and automotive fuel in specialized stores (7.6%) offset the decline in food, beverages and tobacco (-0.8%)."
+    },
+    {
+      "id": "te:economy:579051",
+      "time": "2026-08-28 17:09:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Croatia Retail Growth Hits 7-Month High — Retail sales in Croatia rose by 3.6% year-on-year in July 2026, accelerating from a 0.4% increase in the previous month and extending growth for the 40th consecutive period. This marked the strongest growth since December 2025, as sales of non-food products excluding automotive fuels and lubricants increased by 4.5% (vs. 1.5% in June), while sales of food, beverages, and tobacco rose by 3.9% (vs. 2.9%). On the other hand, sales of automotive fuels and lubricants declined by 2.8%, easing from a 12.9% drop in June. Retail sales via the internet or mail order also fell by 3.6% (vs. -3.2%). On a monthly basis, retail trade increased by 1.4% in July, slowing slightly from a 1.5% gain in June. In the first seven months of 2026, retail sales increased by 2.2% compared with the same period a year earlier."
+    },
+    {
+      "id": "te:economy:579046",
+      "time": "2026-08-28 16:55:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "German Unemployment Holds at 2020 High — Germany’s seasonally adjusted unemployment rate held steady at 6.4% in August 2026, in line with expectations and remaining at its highest level since 2020. The number of unemployed rose by a slightly smaller-than-expected 4,000 to 2.996 million, just below the politically significant 3 million mark. On a non-seasonally adjusted basis, unemployment remained above 3 million for a second consecutive month, rising by 36,260 to 3.061 million. Labor Office head Andrea Nahles said the labor market showed “little momentum” beyond normal seasonal patterns, continuing the subdued trend seen in recent months. Unemployment typically rises from July due to the summer break, while Germany’s sluggish economy has added to labor-market weakness. However, recent signs of stronger economic growth could provide some support in the months ahead."
+    },
+    {
+      "id": "te:economy:579044",
+      "time": "2026-08-28 16:54:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Portugal Business Climate Hits 6-Month High — Portugal's business confidence indicator rose to 2.9 in August 2026 from 2.8 previously, reaching the highest since February. Sentiment remained elevated among service providers (8.4 vs 8.4 in July) and improved further for constructors (4.9% vs 4.6). On the other hand, confidence weakened among manufacturers (-4.4 vs -4.3) and traders (3 vs 3.7), of which retailers (6.1 vs 6.4) and wholesalers (-0.1 vs 0.9)."
+    },
+    {
+      "id": "te:economy:579042",
+      "time": "2026-08-28 16:40:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Portugal",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Portugal Consumer Sentiment Improves — The consumer confidence indicator in Portugal rose to -20.5 in August of 2026 from -22.6 in the previous month, a third consecutive improvement since pessimism peaked at an over two-year low in May. The data reflected a moderation in the impact of soaring fuel prices due to the halt of petrol supply from the Middle East since the outbreak of war in Iran. Improvements were noted in the country's economic situation in the last year (-51.7 vs -53.7 in July), household's financial situation through the last year (-13.6 vs -15), and the evolution of prices (59.8 vs 63.8). Looking ahead, surveyees pointed to improvements in household's financial situation (-7 vs -8.8) and the country's economic conditions (-34.8 vs -38.9)."
+    },
+    {
+      "id": "te:economy:579041",
+      "time": "2026-08-28 16:38:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Harmonised Inflation Rate YoY",
+        "Importance 0"
+      ],
+      "text": "French EU-Harmonized Inflation Hits Three-Month High — France’s EU-harmonized inflation rate rose to 2.7% year on year in August 2026, up from 2.4% in July, according to a preliminary estimate. It was the highest since May, driven by a renewed increase in energy prices amid continued fighting in the Middle East. The stronger-than-expected reading added to expectations that the ECB could raise interest rates in September, with markets fully pricing a 25-basis-point increase that would lift the deposit rate to 2.5%. Investors also see another hike by spring 2027."
+    },
+    {
+      "id": "te:economy:579039",
+      "time": "2026-08-28 16:35:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Harmonised Inflation Rate YoY",
+        "Importance 0"
+      ],
+      "text": "Spain EU-Harmonized Inflation Hits 2023 High — Spain’s EU-harmonized inflation rate jumped to 4.5% year on year in August 2026, up from 3.9% in July and slightly below market expectations of 4.6%, according to a preliminary estimate. It was the highest since February 2023 and more than double the ECB’s 2% target, driven by a surge in energy prices amid continued fighting in the Middle East. The data strengthened expectations for an ECB rate hike in September, with markets fully pricing a 25-basis-point increase that would lift the deposit rate to 2.5%. Investors also see another hike by spring 2027."
+    },
+    {
+      "id": "te:economy:579038",
+      "time": "2026-08-28 16:35:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Producer Inflation Slows to 4-Month Low — Producer prices in Bulgaria rose 13.7% year-on-year in July 2026, easing from 17.1% in the previous month and marking the lowest reading since March. Price growth slowed in mining and quarrying (60.0% vs 63.8% in June), as prices in mining of metal ores edged lower (104.9% vs 105.3%), while other mining and quarrying costs increased (5.5% vs 4.9%). Moreover, manufacturing inflation ticked down (8.8% vs 8.9%), with softer increases in tobacco products (5.7% vs 6.4%), textiles (3.7% vs 4.5%), chemicals and chemical products (10.3% vs 11.5%), rubber and plastic products (4.7% vs 6.6%), and motor vehicles, trailers and semi-trailers (1.8% vs 3.3%), while prices continued to fall for machinery and equipment (-1.6% vs -1.3%). Electricity, gas, steam and air conditioning supply costs also slowed sharply to 7.8% from 20.4%. On a monthly basis, producer prices rose 0.4%, rebounding from a 0.5% decline in June."
+    },
+    {
+      "id": "te:economy:579037",
+      "time": "2026-08-28 16:34:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Business Confidence Weakens in August — Bulgaria’s industrial business climate index fell to 16.3 in August 2026 from 17.2 in the previous month. This reflected weaker assessments of the present business situation (18.0 vs 20.4 in July), despite improved expectations for the next six months (14.7 vs 14.0). Production assessments for the next three months also eased to 5.5 from 8.4, while employment expectations deteriorated to -3.6 from -1.8. Insufficient foreign demand became a more pressing constraint (27.3% vs 25.3%), while labour shortages eased (29.0% vs 33.3%) and concerns over the uncertain economic environment were broadly unchanged (43.3% vs 43.6%). Selling price expectations increased to 11.9 from 10.4. Meanwhile, current production activity improved slightly (-4.3 vs -5.4), while total orders also increased (-18.9 vs -20.2), supported by stronger domestic (-24.0 vs -24.8) and foreign orders (-22.7 vs -26.5)."
+    },
+    {
+      "id": "te:economy:579034",
+      "time": "2026-08-28 16:29:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Slovakia Business Mood Drops to Lowest Since 2023 — The industrial confidence indicator in Slovakia fell by 17 points to -15 in August 2026, reversing from 2.0 in the previous month and reaching its lowest level since June 2023. Assessments deteriorated further for current order levels (-17 vs -14) and current export orders (-18 vs -16), while the assessment of the trend in industrial production turned negative (-7 vs 32). At the same time, expectations eased for the trend in industrial production (15 vs 16) and product prices (8 vs 10). In contrast, current stocks of finished products increased (21 vs 12). Meanwhile, the employment outlook also weakened, easing to 5 in August from 7 in the previous month, pointing to a further deterioration in overall industrial sentiment."
+    },
+    {
+      "id": "te:economy:579030",
+      "time": "2026-08-28 16:25:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Manufacturing Sales",
+        "Importance 1"
+      ],
+      "text": "Italy Industrial Sales Decline in June — Italy’s industrial turnover dropped 1.0% month-on-month in June 2026, reversing a downwardly revised 0.5% rise in the previous month. Sales declined in both domestic (-1% vs 0.1% in May) and foreign (-1% vs 1.3%) markets. On an annual basis, industrial turnover, adjusted for calendar effects, rose 3.1%, slowing from a downwardly revised 5.2% increase in May, as growth moderated in both domestic (2.3% vs 4.7%) and foreign (4.6% vs 6.2%) sales. By industrial group, turnover declined only for consumer goods (-1.2%), while energy (22.2%), intermediate goods (5.4%) and capital goods (0.8%) recorded increases. Meanwhile, turnover in the services sector showed no change compared to the previous month, following a 0.2% rise in May. In the second quarter, seasonally adjusted industrial turnover increased 1.2%."
+    },
     {
       "id": "mkt:01a0475d-2315-7aab-9168-e10ece66e50f",
       "time": "2026-08-28 15:54:41",
