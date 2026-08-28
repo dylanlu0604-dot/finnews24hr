@@ -1,7 +1,113 @@
 {
   "date": "2026-08-29",
-  "count": 286,
+  "count": 296,
   "items": [
+    {
+      "id": "5066002",
+      "time": "2026-08-29 03:34:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：8月25日當週，投機者所持布倫特與WTI原油淨多頭頭寸降低至333,914手合約，創三週新低。\n所持NYMEX汽油淨多頭頭寸達到79,858手合約，創五個月新高。\n所持NYMEX柴油淨多頭頭寸增至17,342手合約，創20周新高。\n所持NYMEX天然氣淨空頭頭寸降低至46,024手合約，創七週新低。"
+    },
+    {
+      "id": "mkt:01a049dd-ea6a-7aab-9179-bc4536a06c14",
+      "time": "2026-08-29 03:34:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index up 0.55% at 99.703 on 28th】The dollar index, which tracks the currency against six major peers, rose 0.55% to 99.703 at the New York close on the 28th. EUR/USD fell to 1.1580 from 1.1649; GBP/USD fell to 1.3531 from 1.3589. USD/JPY rose to 160.14 from 159.43; USD/CHF to 0.8096 from 0.8043; USD/CAD to 1.3907 from 1.3858; USD/SEK to 9.6137 from 9.5220."
+    },
+    {
+      "id": "mkt:01a049dd-1a56-7aab-9179-b3cdee6b7037",
+      "time": "2026-08-29 03:33:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended Aug 25, speculative net long positions in WTI crude rose 804 contracts to 103,078 contracts."
+    },
+    {
+      "id": "mkt:01a049dd-116c-7aab-9179-afa77418e26b",
+      "time": "2026-08-29 03:33:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CFTC: Week to Aug 25 — money managers cut net long positions in CME S&P 500 futures by 5,608 contracts to 946,814; stock‑fund speculators raised net short positions by 35,462 contracts to 302,971."
+    },
+    {
+      "id": "mkt:01a049dc-cd4e-7aab-9179-a3e37f9e8475",
+      "time": "2026-08-29 03:33:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: Speculative net short positions in the four main natural-gas contracts on NYMEX and ICE fell by 27,238 contracts to 39,598 in the week ended Aug. 25."
+    },
+    {
+      "id": "mkt:01a049dc-c943-7aab-9179-994a10561113",
+      "time": "2026-08-29 03:33:21",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "For the week ended Aug. 25, the CFTC said CBOT U.S. 5-year Treasury futures speculators cut net shorts by 15,044 contracts to 1,259,061. CBOT U.S. long-term Treasury futures speculators cut net shorts by 31,769 contracts to 187,243. CBOT U.S. ultra-long Treasury futures speculators increased net shorts by 59,321 contracts to 406,045."
+    },
+    {
+      "id": "mkt:01a049dc-5fb8-7aab-9179-94eae159c858",
+      "time": "2026-08-29 03:32:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended Aug. 25, speculators cut net short positions in CBOT U.S. 2-year Treasury futures by 66,041 contracts to 861,296, and in CBOT U.S. 10-year Treasury futures by 107,986 contracts to 838,975."
+    },
+    {
+      "id": "5066001",
+      "time": "2026-08-29 03:32:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：8月25日當週，比特幣淨多頭頭寸為 1949 手。"
+    },
+    {
+      "id": "mkt:01a049dc-1132-7aab-9179-8a99f62f2e0c",
+      "time": "2026-08-29 03:32:34",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "GBPUSD"
+      ],
+      "text": "CFTC: week to Aug 25 — net short positions: yen 63,298 contracts; euro 36,352 contracts; pound 44,524 contracts; Swiss franc 19,946 contracts."
+    },
+    {
+      "id": "5066000",
+      "time": "2026-08-29 03:32:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數28日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.55%，在匯市尾市收於99.703。截至紐約匯市尾市，1歐元兌換1.1580美元，低於前一交易日的1.1649美元；1英鎊兌換1.3531美元，低於前一交易日的1.3589美元。1美元兌換160.14日元，高於前一交易日的159.43日元；1美元兌換0.8096瑞士法郎，高於前一交易日的0.8043瑞士法郎；1美元兌換1.3907加元，高於前一交易日的1.3858加元；1美元兌換9.6137瑞典克朗，高於前一交易日的9.5220瑞典克朗。"
+    },
     {
       "id": "mkt:01a049db-a2a4-7aab-9179-8178b726c68a",
       "time": "2026-08-29 03:32:05",
