@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-29 03:24:36",
-  "count": 13398,
+  "updated": "2026-08-29 03:28:50",
+  "count": 13397,
   "items": [
+    {
+      "id": "mkt:01a049d7-41bc-7aab-9179-79f29286c31d",
+      "time": "2026-08-29 03:27:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "US10Y",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Bessent says disorderly yen moves will raise U.S. interest rates】U.S. Treasury Secretary Scott Bessent, in a letter to Senator Elizabeth Warren on Aug. 27, defended last month’s use of the Exchange Stabilization Fund (ESF) to intervene in the yen. He warned disorderly yen swings could force Japan — a major holder of U.S. Treasuries — into forced selling, destabilize global markets and ultimately push up borrowing costs for U.S. households and firms. Bessent declined to disclose the size of the intervention, confirmed the ESF used existing foreign-currency assets to buy yen and said officials had considered using euros. He said the action was lawful and that the U.S. provided no credit to Japan. Japan spent a record $96.4 billion last month defending the yen."
+    },
+    {
+      "id": "mkt:01a049d5-4698-7aab-9179-72a909f9cfdb",
+      "time": "2026-08-29 03:25:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Punchbowl reports the U.S. House will vote next Tuesday on a continuing resolution that has been paused."
+    },
+    {
+      "id": "mkt:01a049d4-2757-7aab-9179-6fe2840efbf6",
+      "time": "2026-08-29 03:23:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian President Pezeshkian said U.S. sanctions and a blockade have reduced Iran's exports and imports by up to 35%."
+    },
+    {
+      "id": "5065995",
+      "time": "2026-08-29 03:23:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：受美國製裁與封鎖影響，伊朗進出口規模降幅最高達 35%。"
+    },
     {
       "id": "5065994",
       "time": "2026-08-29 03:22:08",
@@ -120508,46 +120552,6 @@
         "國際"
       ],
       "text": "伊朗國防部發言人：在長達40天的神戰爭期間，伊朗一些戰略物資和戰爭所需用品的產量增長了三倍以上。"
-    },
-    {
-      "id": "5052702",
-      "time": "2026-08-22 03:28:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "加州州長紐森認為派拉蒙無意遷出加利福尼亞州。"
-    },
-    {
-      "id": "5052701",
-      "time": "2026-08-22 03:27:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐森：派拉蒙的法律和解若能達成 “有利協議”，便是最優選擇。"
-    },
-    {
-      "id": "5052700",
-      "time": "2026-08-22 03:26:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果裁減Siri和Vision Pro團隊崗位，資源重心轉向AI與新裝置】蘋果公司將裁減負責Siri數字助理和Vision Pro頭顯團隊的員工，此舉旨在聚焦新裝置和人工智慧。據知情人士透露，蘋果還在裁減智慧系統體驗團隊員工。該團隊隸屬於軟體工程部門，負責開發蘋果裝置上的部分AI功能。作為此次調整的一部分，蘋果基本關閉了Vision Pro遊戲團隊，並縮減了負責製作Vision Pro沉浸式影片內容團隊的規模。此次裁員共影響逾200人，其中Vision Pro部門裁減約100個崗位，Siri及軟體團隊裁減100個崗位。蘋果在宣告中承認，公司正在重新調整部分團隊，“以推動業務發展，為使用者提供最佳體驗”。（彭博）"
-    },
-    {
-      "id": "5052699",
-      "time": "2026-08-22 03:26:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英偉達將支付60億美元以獲得Poolside AI模型授權 並擬吸納其員工】知情人士稱，英偉達已同意支付60億美元，以獲得Poolside人工智慧(AI)模型的使用許可，並將向100多名員工發出聘用邀請。因相關討論非公開而要求匿名的知情人士稱，這家初創企業還獲得英偉達額外10億美元投資，投前估值為120億美元。知情人士稱，Poolside將繼續獨立運營。知情人士稱，現有投資者將從英偉達提供的資金中獲得一筆款項。英偉達和Poolside的代表均未立即回應置評請求。科技資訊簡報Newcomer最先報道了這一訊息。"
-    },
-    {
-      "id": "5052698",
-      "time": "2026-08-22 03:25:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI美洲銷售副總裁辭職，高管離職潮引發內部動盪 】OpenAI美洲區銷售副總裁Kaylin Voss已辭職，距其前上司、首席營收官Denise Dresser離職僅一週。Voss在OpenAI僅任職五個月，兩人此前均從Salesforce被招募以組建企業銷售團隊。隨著GPT-5.6釋出推動企業銷售加速，兩位核心銷售高管的相繼離開正引發團隊內部動盪，促使多名銷售人員考慮離職。近期OpenAI已有多位關鍵高管相繼離任，凸顯其在衝刺IPO前夕面臨的管理層穩定性挑戰。"
     }
   ]
 }

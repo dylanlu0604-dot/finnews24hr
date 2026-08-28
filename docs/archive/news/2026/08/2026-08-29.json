@@ -1,7 +1,51 @@
 {
   "date": "2026-08-29",
-  "count": 277,
+  "count": 281,
   "items": [
+    {
+      "id": "mkt:01a049d7-41bc-7aab-9179-79f29286c31d",
+      "time": "2026-08-29 03:27:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "US10Y",
+        "Impact bearish",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Bessent says disorderly yen moves will raise U.S. interest rates】U.S. Treasury Secretary Scott Bessent, in a letter to Senator Elizabeth Warren on Aug. 27, defended last month’s use of the Exchange Stabilization Fund (ESF) to intervene in the yen. He warned disorderly yen swings could force Japan — a major holder of U.S. Treasuries — into forced selling, destabilize global markets and ultimately push up borrowing costs for U.S. households and firms. Bessent declined to disclose the size of the intervention, confirmed the ESF used existing foreign-currency assets to buy yen and said officials had considered using euros. He said the action was lawful and that the U.S. provided no credit to Japan. Japan spent a record $96.4 billion last month defending the yen."
+    },
+    {
+      "id": "mkt:01a049d5-4698-7aab-9179-72a909f9cfdb",
+      "time": "2026-08-29 03:25:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Punchbowl reports the U.S. House will vote next Tuesday on a continuing resolution that has been paused."
+    },
+    {
+      "id": "mkt:01a049d4-2757-7aab-9179-6fe2840efbf6",
+      "time": "2026-08-29 03:23:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian President Pezeshkian said U.S. sanctions and a blockade have reduced Iran's exports and imports by up to 35%."
+    },
+    {
+      "id": "5065995",
+      "time": "2026-08-29 03:23:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：受美國製裁與封鎖影響，伊朗進出口規模降幅最高達 35%。"
+    },
     {
       "id": "5065994",
       "time": "2026-08-29 03:22:08",
