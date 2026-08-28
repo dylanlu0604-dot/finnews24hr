@@ -1,7 +1,51 @@
 {
   "date": "2026-08-28",
-  "count": 436,
+  "count": 441,
   "items": [
+    {
+      "id": "te:markets:578827",
+      "time": "2026-08-28 08:16:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sony Stock Price Hits 4-week High — Sony shares increased to 3923.00 JPY, the highest since July 2026. Over the past 4 weeks, Sony gained 6.09%, and in the last 12 months, it decreased 6.23%."
+    },
+    {
+      "id": "5063581",
+      "time": "2026-08-28 08:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！北部灣軍事訓練】據中國海事局網站訊息，湛江海事局釋出航行警告，8月28日10時至29日20時，北部灣部分水域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "5063580",
+      "time": "2026-08-28 08:14:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "電通綜研股價上漲6%。"
+    },
+    {
+      "id": "5063579",
+      "time": "2026-08-28 08:14:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我的兒子不會得到保護，他必須證明自己的清白。"
+    },
+    {
+      "id": "5063578",
+      "time": "2026-08-28 08:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：如果我兒子違法了，他就必須承擔責任。注：盧拉之子被指控是一起遊說案（涉及說客試圖促成向聯邦政府出售藥物）的間接受益人。"
+    },
     {
       "id": "5063577",
       "time": "2026-08-28 08:12:16",
