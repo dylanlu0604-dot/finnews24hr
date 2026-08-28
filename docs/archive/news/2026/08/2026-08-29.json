@@ -1,7 +1,52 @@
 {
   "date": "2026-08-29",
-  "count": 271,
+  "count": 276,
   "items": [
+    {
+      "id": "mkt:01a049cf-45dd-7aab-9179-676394afc220",
+      "time": "2026-08-29 03:18:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A UN official said nearly 200,000 people were forcibly returned to Haiti in the first eight months of this year, a roughly 10% increase from the same period last year."
+    },
+    {
+      "id": "te:markets:579246",
+      "time": "2026-08-29 03:18:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Mexican Peso Weakens as Fed Hike Bets Rise — The Mexican peso weakened to around 17.04 per US dollar from the more than two-year low of 16.91 touched on August 21, as a more restrictive policy signal from Fed Chair Warsh supported the US dollar. Warsh said the Fed is tracking the PCE index as its inflation gauge, using firmer rhetoric than earlier suggestions that a newly created task force could shift the central bank’s preferred measure. Rate futures subsequently shifted toward pricing a potential Fed rate hike next month, pushing US Treasury yields higher and weighing on emerging-market currencies such as the peso. A Fed hike could narrow the US-Mexico rate differential and reduce the appeal of Mexican assets. Meanwhile, the Bank of Mexico is expected to keep its benchmark rate at 6.5% in the near term, as inflationary risks from elevated energy prices are balanced by signs of improving economic activity."
+    },
+    {
+      "id": "mkt:01a049ce-d189-7aab-9179-5b12106cd168",
+      "time": "2026-08-29 03:18:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said the Supreme Leader's directives are the guiding principle for all state officials."
+    },
+    {
+      "id": "5065993",
+      "time": "2026-08-29 03:17:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國官員稱，今年前 8 個月已有近 20 萬人被強制遣返海地，較去年同期上升 10%。"
+    },
+    {
+      "id": "5065992",
+      "time": "2026-08-29 03:15:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【哈佛大學教授Rogoff警告稱美國財政困局恐需危機推動才會改革】哈佛大學經濟學教授Kenneth Rogoff警告稱，美國政府不斷惡化的財政困境可能要等到一場重大危機衝擊選民，並促使他們要求改革後，才會得到解決。Rogoff週五接受採訪時表示，美國債務多年來持續無節制地累積，因為學術派經濟學家“近乎宗教般”地堅信利率會無限期下降。但他表示，即便利率從低位反彈並持續上升，政治領導人仍未調整政策。“利率已逆轉，但華府還沒有，”這位國際貨幣基金組織(IMF)前首席經濟學家在傑克遜霍爾舉行的經濟政策研討會期間表示。"
+    },
     {
       "id": "mkt:01a049cc-0275-7aab-9179-50f7a21fb445",
       "time": "2026-08-29 03:15:01",
