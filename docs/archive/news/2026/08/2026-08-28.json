@@ -1,7 +1,553 @@
 {
   "date": "2026-08-28",
-  "count": 873,
+  "count": 927,
   "items": [
+    {
+      "id": "mkt:01a0472f-8335-7aab-9166-fbece690f81f",
+      "time": "2026-08-28 15:04:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TurkStat said Turkey's July trade deficit was $7.343 bln."
+    },
+    {
+      "id": "5064121",
+      "time": "2026-08-28 15:04:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指上漲1%，至117,974.40。"
+    },
+    {
+      "id": "mkt:01a0472e-a106-7aab-9166-f5d7661a2ede",
+      "time": "2026-08-28 15:03:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SAMR issues over 900 national service-sector standards through August】Through August, the State Administration for Market Regulation (SAMR) issued more than 900 national standards for the service sector—about 860 for producer services (≈95%) and roughly 50 for life/consumer services (≈5%). 235 of the newly issued standards are already in force, supporting service-sector quality upgrades and capacity expansion."
+    },
+    {
+      "id": "mkt:01a0472e-9ec7-7aab-9166-ea9422fbf5c5",
+      "time": "2026-08-28 15:03:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's Medical Security Law will take effect on Jan. 1, 2027."
+    },
+    {
+      "id": "mkt:01a0472e-5c52-7aab-9166-e3e23408e61f",
+      "time": "2026-08-28 15:03:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York silver futures' intraday gains widened to 3.0%, trading at $71.30/oz."
+    },
+    {
+      "id": "5064120",
+      "time": "2026-08-28 15:03:28",
+      "tags": [
+        "宏觀",
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "醫療保障法2027年1月1日起施行。（新華社）"
+    },
+    {
+      "id": "5064119",
+      "time": "2026-08-28 15:03:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河順利透過交工驗收】今天（8月28日），平陸運河順利透過交工驗收，為9月通航奠定堅實基礎。（央視新聞）"
+    },
+    {
+      "id": "te:economy:578966",
+      "time": "2026-08-28 15:03:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "France Q2 GDP Stalls, Misses Growth Estimate — France's economy stagnated quarter-on-quarter in Q2 2026, falling short of preliminary estimates of 0.2% growth, after contracting 0.2% in Q1. Domestic demand contributed 0.2 percentage points, as household consumption rebounded 0.3% (vs -0.3% in Q1), while government spending rose 0.4% (vs 0.3%). Fixed investment declined at a slower pace of 0.3% (vs -0.8%), marking its second consecutive quarterly contraction. Net exports also contributed positively, as exports rebounded 2.9% (vs -3.0%) and outpaced a 1.1% increase in imports (vs -0.6%). However, inventory changes dragged 0.7 percentage points, reversing a positive contribution in Q1. Year-on-year, GDP growth slowed to 0.5% from 0.6% in Q1."
+    },
+    {
+      "id": "mkt:01a0472d-e296-7aab-9166-dd944d17ced9",
+      "time": "2026-08-28 15:03:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China raises retail fuel price caps; 50L fill of 92 RON up 14.5 yuan】China’s National Development and Reform Commission said retail fuel price caps will rise from 24:00 on Aug 28. Gasoline and diesel retail ceilings increase by 375 yuan/ton and 360 yuan/ton respectively, equivalent to +0.29 yuan/l for 92 RON gasoline, +0.31 yuan/l for 95 RON gasoline and +0.31 yuan/l for 0 diesel. A 50‑litre refill of 92 RON gasoline will cost about 14.5 yuan more."
+    },
+    {
+      "id": "mkt:01a0472d-83f4-7aab-9166-d0af348bf0cb",
+      "time": "2026-08-28 15:02:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy's FTSE MIB index was up 1.00% intraday."
+    },
+    {
+      "id": "mkt:01a0472d-6554-7aab-9166-cd7c93a69a27",
+      "time": "2026-08-28 15:02:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "All major mainland indexes closed lower on Aug. 28. CHINA'S SHANGHAI COMPOSITE INDEX closed down 4.39 points (-0.11%) at 3,952.18; Shenzhen Composite Index down 95.81 points (-0.68%) at 13,953.07; CSI 300 Index down 21.1 points (-0.46%) at 4,609.18; China's ChiNext Index down 48.95 points (-1.41%) at 3,424.40; China STAR 50 Index down 31.33 points (-1.85%) at 1,662.15."
+    },
+    {
+      "id": "5064118",
+      "time": "2026-08-28 15:02:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase官網公告：部分使用者在進行借貸操作時可能會遇到報錯問題。"
+    },
+    {
+      "id": "5064116",
+      "time": "2026-08-28 15:02:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：化工ETF領漲2.48%，科創半導體ETF領跌3.01%】ETF收盤漲跌不一，化工ETF（159082）領漲2.48%，化工ETF（159133）漲2.33%，糧食ETF（159063）漲2.32%，科創半導體ETF（588170）領跌3.01%，科創半導體裝置ETF（588710）跌3.0%，半導體裝置ETF（159516）跌2.96%。"
+    },
+    {
+      "id": "5064115",
+      "time": "2026-08-28 15:02:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【收盤：創業板指衝高回落跌1.41%，農業、化工板塊逆勢大漲】市場全天衝高回落，雙創指數均跌超1%。農業股逆勢大漲，敦煌種業、新賽股份、萬向德農等多股漲停。化工板塊集體拉昇，金牛化工、赤天化、瀘天化等漲停。PTFE概念延續強勢，昊華科技、沃特股份2連板。下跌方面，創新藥、CRO概念下挫，萬邦醫藥、康希諾等跌超10%。個股漲多跌少，滬深京三市約3000股飄紅，今日成交2.12萬億。截止收盤滬指跌0.11%，深成指跌0.68%，創業板指跌1.41%。"
+    },
+    {
+      "id": "5064114",
+      "time": "2026-08-28 15:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報3933.78億元，較昨日此時縮量363.26億元】截至目前，ETF兩市成交額報3933.78億元，較昨日此時縮量363.26億元，分型別來看，股票型ETF成交額1226.35億元，債券型ETF成交額1833.22億元，貨幣型ETF成交額295.47億元，商品型ETF成交額95.17億元，QDII型ETF成交額483.57億元。"
+    },
+    {
+      "id": "5064113",
+      "time": "2026-08-28 15:01:46",
+      "tags": [
+        "宏觀",
+        "其他",
+        "焦點"
+      ],
+      "text": "【油價今晚要上調 加滿一箱油要多花14.5元】記者從國家發展改革委獲悉，今日（8月28日）24時國內成品油調價視窗將開啟。據國家發展改革委價格監測中心監測，本輪成品油調價週期內（8月14日24時——8月28日24時），國際油價震盪執行。8月28日24時起，國內汽、柴油零售限價每噸分別上調375元、360元。全國平均來看，92號汽油、95號汽油和0號柴油每升分別上調0.29元、0.31元、0.31元。央視財經記者給您算了一筆賬，本輪成品油零售限價上調確認後，私家車單次加滿一箱50L的92號汽油，將多花14.5元。（央視財經）"
+    },
+    {
+      "id": "mkt:01a0472c-a5f1-7aab-9166-c1bc479c662a",
+      "time": "2026-08-28 15:01:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European stocks opened higher on Friday, Aug 28: FTSE 100 up 54.56 points (+0.51%) at 10,847.10; CAC 40 up 72.63 points (+0.87%) at 8,392.50; Euro Stoxx 50 up 44.22 points (+0.69%) at 6,468.95; IBEX 35 up 139.12 points (+0.70%) at 20,020.72; FTSE MIB up 454.88 points (+0.87%) at 52,720.00; DAX 30 up 142.32 points (+0.54%) at 26,498.29."
+    },
+    {
+      "id": "mkt:01a0472c-939b-7aab-9166-ba6f6881789b",
+      "time": "2026-08-28 15:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Shanghai, Shenzhen turnover CNY2.102 tln on Aug 28; Zhongji Xuchuang tops turnover】Aug 28 — Combined Shanghai and Shenzhen turnover totaled CNY2.102 tln, down CNY24.212 bln from the prior session. Shanghai turnover was CNY970.37 bln (prev CNY1,010.23 bln) with volume 511 mln lots (100-share lots; prev 517 mln). Shenzhen turnover was CNY1,131.35 bln (prev CNY1,115.70 bln) with volume 630 mln lots (prev 614 mln). Zhongji Xuchuang led single-stock turnover at CNY28.05 bln, followed by Hengtong Optic‑Electric CNY18.32 bln, Xinyisheng CNY17.55 bln, Shengyi Technology CNY14.48 bln and Shenghong Technology CNY14.31 bln."
+    },
+    {
+      "id": "mkt:01a0472c-8add-7aab-9166-b24b74658c19",
+      "time": "2026-08-28 15:01:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain preliminary August CPI MoM +0.7% vs +0.6% expected; July +0.3%."
+    },
+    {
+      "id": "mkt:01a0472c-5c66-7aab-9166-ae396def08f8",
+      "time": "2026-08-28 15:01:24",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain Aug harmonized CPI (HICP) preliminary MoM +0.6% vs +0.8% expected; prior 0.0%."
+    },
+    {
+      "id": "mkt:01a0472c-4525-7aab-9166-a5ae87a0028c",
+      "time": "2026-08-28 15:01:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "CSI500",
+        "CSI1000"
+      ],
+      "text": "【China index futures midday close】CSI 300 index futures (IF) front-month contract down 0.16% at midday; SSE 50 futures (IH) front-month up 0.02%; CSI 500 futures (IC) front-month down 0.32%; CSI 1000 futures (IM) front-month down 0.03%."
+    },
+    {
+      "id": "mkt:01a0472c-3b66-7aab-9166-9d03f21b2adf",
+      "time": "2026-08-28 15:01:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At midday close, China’s main futures contracts were mostly higher. Apples, lithium carbonate and palladium rose more than 4%; SC crude (Shanghai crude futures) gained nearly 4%; Shanghai silver and soda ash advanced over 3%. PVC, coking coal, glass, platinum, p‑xylene and bitumen climbed over 2%. On the downside, rapeseed fell more than 4%; container shipping rates on the Europe route dropped about 2%; fuel oil fell just over 1% and soybean No.1 slipped nearly 1%."
+    },
+    {
+      "id": "5064112",
+      "time": "2026-08-28 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.11%，深證成指跌0.68%，創業板指跌1.41%。"
+    },
+    {
+      "id": "5064111",
+      "time": "2026-08-28 15:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士8月KOF經濟領先指標 106.7，預期103.3，前值由103.5修正為104.2。"
+    },
+    {
+      "id": "5064110",
+      "time": "2026-08-28 15:00:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【今年前8月市場監管總局已釋出服務業國家標準900餘項】記者今天瞭解到，今年前8月，市場監管總局已釋出服務業國家標準900餘項，其中生產性服務業國家標準860餘項，佔比近95%；生活性服務業國家標準50餘項，佔比約5%。目前已實施新發布服務業國家標準235項，有力支撐服務業提質擴能。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0472b-389a-7aab-9166-9434506531c2",
+      "time": "2026-08-28 15:00:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain preliminary August CPI YoY 4.3% (consensus 4.2%; July 3.6%)."
+    },
+    {
+      "id": "mkt:01a0472b-37cb-7aab-9166-8c8b66390a34",
+      "time": "2026-08-28 15:00:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Switzerland KOF leading indicator for August 106.7, versus 103.3 expected; prior reading revised to 104.2 from 103.5."
+    },
+    {
+      "id": "mkt:01a0472b-3062-7aab-9166-86bc4e4f6106",
+      "time": "2026-08-28 15:00:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spain preliminary August harmonized CPI YoY 4.5% vs 4.6% expected; July 3.9%."
+    },
+    {
+      "id": "5064109",
+      "time": "2026-08-28 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.03%， 滬深300指數期貨連續跌0.16%， 中證500指數期貨連續跌0.32%， 上證50指數期貨連續漲0.02%。"
+    },
+    {
+      "id": "5064108",
+      "time": "2026-08-28 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】碳酸鋰連續漲4.77%，菜籽連續跌4.65%，蘋果連續漲4.57%，鈀連續漲4.37%，上海原油連續漲3.97%，白銀連續漲3.15%，純鹼連續漲3.05%，線材連續漲2.89%，PVC連續漲2.58%，焦煤連續漲2.32%。"
+    },
+    {
+      "id": "5064107",
+      "time": "2026-08-28 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.31%，英國富時100指數跌0.79%，法國CAC40指數跌1.68%，歐洲斯托克50指數跌0.71%，義大利富時MIB指數跌1.17%。"
+    },
+    {
+      "id": "mkt:01a0472b-12dd-7aab-9166-7fc02598ce85",
+      "time": "2026-08-28 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | CPI Flash (YoY) (Aug) | actual 4.3% | consensus 4.20% | previous 3.60%"
+    },
+    {
+      "id": "mkt:01a0472b-12c6-7aab-9166-72520cde209c",
+      "time": "2026-08-28 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | KOF Economic Leading Indicator (Aug) | actual 106.7 | consensus 103.3 | previous 103.5"
+    },
+    {
+      "id": "mkt:01a0472b-12c0-7aab-9166-6d41b96f4ad7",
+      "time": "2026-08-28 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | HICP Flash (YoY) (Aug) | actual 4.5% | consensus 4.60% | previous 3.90%"
+    },
+    {
+      "id": "5064106",
+      "time": "2026-08-28 14:59:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲4%，現報1410.00美元/盎司。"
+    },
+    {
+      "id": "te:economy:578965",
+      "time": "2026-08-28 14:58:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Personal Spending",
+        "Importance 1"
+      ],
+      "text": "France Household Spending Unexpectedly Rises — Household consumption of goods in France unexpectedly increased by 0.5% month-on-month in July 2026, exceeding market estimates of a stall and following an upwardly revised 0.6% rise in the previous month. It was the third consecutive month of growth in household spending, mainly boosted by a rise in engineered goods (0.5% after remaining stable in June). Spending on durable goods accelerated (0.8% vs 0.2%), while spending on other engineered goods eased (0.3% vs 0.4%). Spending on textile and clothing products continued to fall (-0.2% vs -1.2%). Energy consumption rose, though at a slower pace (0.8% vs 1.5% in June), driven by spending on fuel and, to a lesser extent, on electricity. July 2026 was the warmest month ever recorded in France. Food consumption also eased (0.2% vs 0.7%), driven by a recovery in agri-food consumption, especially dairy products and drinks. On an annual basis, household consumption rose 1.4% in July."
+    },
+    {
+      "id": "mkt:01a04729-533c-7aab-9166-60ba180a57a8",
+      "time": "2026-08-28 14:58:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CHINA STATE PLANNER said effective 24:00 on Aug 28 domestic gasoline and diesel (standard grade) prices will rise by 375 yuan/ton and 360 yuan/ton, respectively."
+    },
+    {
+      "id": "5064105",
+      "time": "2026-08-28 14:58:05",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "國家發改委：自8月28日24時起，國內汽、柴油（標準品）價格每噸分別上調375元、360元。"
+    },
+    {
+      "id": "mkt:01a04728-3f8e-7aab-9166-5dec2c2e7d3f",
+      "time": "2026-08-28 14:56:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "BABA.N",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Fliggy: Domestic hotel room-nights up 66% YoY this summer; attraction tickets up nearly 30%】Fliggy's 2026 summer travel brief said summer travel orders hit a record high: domestic hotel room-nights rose 66% YoY and domestic attraction ticket volume rose nearly 30% YoY. Top domestic destinations were Shanghai, Beijing, Hangzhou, Chengdu and Guangzhou; top outbound destinations were South Korea, Thailand, Malaysia, Singapore and Vietnam."
+    },
+    {
+      "id": "mkt:01a04728-06c6-7aab-9166-535951ed8cf4",
+      "time": "2026-08-28 14:56:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong large-model AI concept stocks slid further; Zhipu (02513.HK) extended losses to over 8%, MINIMAX-W (00100.HK) fell more than 5%."
+    },
+    {
+      "id": "5064104",
+      "time": "2026-08-28 14:56:36",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "港股大模型概念股持續走低，智譜(02513.HK)跌幅擴大至逾8%，MINIMAX-W(00100.HK)跌超5%。"
+    },
+    {
+      "id": "5064103",
+      "time": "2026-08-28 14:56:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【新興市場股市持穩上漲，靜待沃什講話】新興市場股市與貨幣維持漲勢，投資者靜待美聯儲主席凱文・沃什在傑克遜霍爾的講話，從中尋找通脹前景與利率路徑的線索。MSCI新興市場貨幣指數上漲 0.2%，連續第八個交易日走高，再創新高。菲律賓比索表現墊底，逼近歷史低位，跌破市場重點關注的 1 美元兌 62 比索關口；市場擔憂這個石油進口國的對外財政狀況以及通脹上行壓力。"
+    },
+    {
+      "id": "mkt:01a04727-82b2-7aab-9166-48c720126dd4",
+      "time": "2026-08-28 14:56:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold, silver rise intraday】Spot gold rose about $18 intraday to just above $4,600/oz; spot silver gained over $1 to $70.10/oz."
+    },
+    {
+      "id": "5064102",
+      "time": "2026-08-28 14:55:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【飛豬：暑期國內酒店間夜量同比增長66% 門票增長近30%】8月28日，飛豬釋出《2026年暑期出遊快報》。報告顯示，暑期出遊訂單量創新高，其中國內酒店間夜量同比增長66%，國內門票張數同比增長近30%。上海、北京、杭州、成都、廣州等成為國內遊熱門城市，韓國、泰國、馬來西亞、新加坡、越南等則是出境遊熱門目的地。"
+    },
+    {
+      "id": "5064101",
+      "time": "2026-08-28 14:55:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認紐西蘭金融市場評級為“AA+/A-1+”，長期綜合評級為“AAA/A-1+”；展望穩定。"
+    },
+    {
+      "id": "5064100",
+      "time": "2026-08-28 14:54:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "惠譽確認加拿大央行國際評級為'A'，展望穩定。"
+    },
+    {
+      "id": "mkt:01a04725-ff31-7aab-9166-43404a276e53",
+      "time": "2026-08-28 14:54:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch affirms the BOC's international rating at 'A', outlook stable."
+    },
+    {
+      "id": "mkt:01a04725-d8f6-7aab-9166-3ca007e2abc1",
+      "time": "2026-08-28 14:54:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's foreign minister said using Russian assets to cover Ukraine's additional defence costs is \"fair and logical\"."
+    },
+    {
+      "id": "mkt:01a04725-bbe5-7aab-9166-326e937b8a90",
+      "time": "2026-08-28 14:54:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine foreign minister welcomed an initiative by four EU member states to reopen discussions on using frozen Russian assets to finance support for Ukraine."
+    },
+    {
+      "id": "mkt:01a04725-4dc5-7aab-9166-2a4cb072b4ab",
+      "time": "2026-08-28 14:53:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures rose more than 2.00% intraday to $70.62/oz. Spot palladium gained 2.00% intraday to $1,376.33/oz."
+    },
+    {
+      "id": "mkt:01a04725-35b7-7aab-9166-209cef76b87d",
+      "time": "2026-08-28 14:53:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【France Aug HICP inflation accelerates to 2.7%】Preliminary INSEE data on Friday showed France's EU-harmonized consumer price index (HICP) rose 2.7% YoY in August, up from 2.4% in July, driven by higher energy prices, notably petroleum products."
+    },
+    {
+      "id": "5064099",
+      "time": "2026-08-28 14:53:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長：歡迎四個歐盟成員國提出重新討論使用被凍結的俄羅斯資產支援烏克蘭的倡議。動用俄羅斯資產來支付烏克蘭國防的額外開支，“才符合公平與邏輯”。"
+    },
+    {
+      "id": "5064098",
+      "time": "2026-08-28 14:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國26條河流仍維持超警 水利部已釋出山洪紅色預警】今天上午，水利部繼續會商，研判當前全國雨情、水情、汛情。截至今天9時，廣西、浙江、黑龍江等地26條河流仍維持超警，水利部已釋出山洪紅色預警。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04724-f5c8-7aab-9166-187f9c1ec14e",
+      "time": "2026-08-28 14:53:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose $1.01 intraday to $70.27/oz, up 1.45%."
+    },
     {
       "id": "5064097",
       "time": "2026-08-28 14:53:06",
