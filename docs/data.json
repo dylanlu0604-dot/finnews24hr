@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-30 04:22:02",
-  "count": 13410,
+  "updated": "2026-08-30 04:26:05",
+  "count": 13411,
   "items": [
+    {
+      "id": "mkt:01a04f32-0e53-7118-83fb-ad8a0a6603fb",
+      "time": "2026-08-30 04:24:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says Strait of Hormuz \"completely closed\"; transit only with Iranian permission】Iran’s deputy foreign minister said the Strait of Hormuz is \"completely closed\" and no vessel may transit without coordination and permission from Tehran. He said Iran’s armed forces fully control movements in the strait and described US reports of ships transiting as false. Iran has reached an agreement with Oman on transit arrangements but said the strait will not reopen until the US fulfils its commitments. Tehran said it will continue defensive actions and is prepared for any scenario."
+    },
     {
       "id": "mkt:01a04f2d-8fa7-7118-83fb-a1a9b3e049ac",
       "time": "2026-08-30 04:19:40",
