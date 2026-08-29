@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-30 04:18:07",
-  "count": 13407,
+  "updated": "2026-08-30 04:22:02",
+  "count": 13410,
   "items": [
+    {
+      "id": "mkt:01a04f2d-8fa7-7118-83fb-a1a9b3e049ac",
+      "time": "2026-08-30 04:19:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran deputy foreign minister Gharibabadi said Iran's armed forces have full supervisory authority over all activity in the Strait of Hormuz, and U.S. claims about ships transiting the strait are entirely untrue."
+    },
+    {
+      "id": "mkt:01a04f2d-2030-7118-83fb-9999085b6713",
+      "time": "2026-08-30 04:19:12",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Musk said SpaceX and Tesla are racing to build an annual solar build capacity of 100 GW, but will still need natural gas over the next few years to supplement and start up solar generation. He said the bottleneck for gas-turbine production is casting blades and guide vanes; bringing casting in-house at SpaceX could bring turbines online up to 18 months faster, a potentially transformative improvement."
+    },
+    {
+      "id": "5066620",
+      "time": "2026-08-30 04:18:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：伊朗武裝部隊對霍爾木茲海峽內的一切活動擁有完全管轄權，美方有關船隻通行海峽的說法完全不實。"
+    },
+    {
+      "id": "5066619",
+      "time": "2026-08-30 04:17:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：SpaceX和特斯拉正各自儘可能快地建設每年100吉瓦的太陽能產能，但未來數年仍需要天然氣為太陽能發電提供補充與啟動支撐。燃氣輪機生產的制約因素在於葉片與靜葉的鑄造。透過在SpaceX開展內部鑄造，我們最多可以將燃氣輪機的上線時間提前18個月，這將是一個重大的變革。"
+    },
     {
       "id": "mkt:01a04f27-5ab9-7118-83fb-96fcd1b3b78e",
       "time": "2026-08-30 04:12:54",
@@ -121128,14 +121167,6 @@
         "國際"
       ],
       "text": "伊朗外長阿拉格齊與巴基斯坦陸軍參謀長阿西姆·穆尼爾於週六通電話，就地區局勢與安全議題展開磋商。"
-    },
-    {
-      "id": "5053437",
-      "time": "2026-08-23 04:19:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門官方稱，曼德海峽發現一枚胡塞武裝佈設的水雷。"
     }
   ]
 }
