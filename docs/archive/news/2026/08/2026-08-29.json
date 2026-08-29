@@ -1,7 +1,36 @@
 {
   "date": "2026-08-29",
-  "count": 728,
+  "count": 731,
   "items": [
+    {
+      "id": "mkt:01a04cf7-3df3-7aab-917d-cac8a05fb625",
+      "time": "2026-08-29 18:01:06",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "TASS reported Russia said it had seized Khrapivshchyna in Ukraine's Sumy region."
+    },
+    {
+      "id": "5066312",
+      "time": "2026-08-29 18:00:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱已佔領烏克蘭蘇梅州赫拉皮夫希納。"
+    },
+    {
+      "id": "5066311",
+      "time": "2026-08-29 18:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱已奪取烏克蘭頓涅茨克地區的魯比日內。"
+    },
     {
       "id": "mkt:01a04cf2-1e5b-7aab-917d-c214cf663b38",
       "time": "2026-08-29 17:55:30",
