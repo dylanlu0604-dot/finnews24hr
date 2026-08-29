@@ -1,7 +1,15 @@
 {
   "date": "2026-08-29",
-  "count": 577,
+  "count": 578,
   "items": [
+    {
+      "id": "mkt:01a04b8e-8db4-7aab-917c-6dba236ab6b3",
+      "time": "2026-08-29 11:27:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nepal police: Flood death toll rises to 626."
+    },
     {
       "id": "mkt:01a04b8b-158b-7aab-917c-63f4cb17eb80",
       "time": "2026-08-29 11:23:21",
