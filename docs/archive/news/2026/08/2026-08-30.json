@@ -1,7 +1,196 @@
 {
   "date": "2026-08-30",
-  "count": 91,
+  "count": 111,
   "items": [
+    {
+      "id": "5066639",
+      "time": "2026-08-30 06:44:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺8月30日06時繼續釋出暴雨黃色預警。"
+    },
+    {
+      "id": "5066638",
+      "time": "2026-08-30 06:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉政界各派均譴責與美國達成的石油協議。"
+    },
+    {
+      "id": "te:markets:579267",
+      "time": "2026-08-30 06:26:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Shaanxi Coal earnings above expectations at 0.55 CNY — Shaanxi Coal (601225) released earnings per share at 0.55 CNY, compared to market expectations of 0.47 CNY."
+    },
+    {
+      "id": "te:markets:579266",
+      "time": "2026-08-30 06:26:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Industrial Bank earnings below expectations at 0.75 CNY — Industrial Bank (601166) released earnings per share at 0.75 CNY, compared to market expectations of 0.89 CNY."
+    },
+    {
+      "id": "te:markets:579265",
+      "time": "2026-08-30 06:26:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Petrochina earnings above expectations at 0.37 CNY — Petrochina (601857) released earnings per share at 0.37 CNY, compared to market expectations of 0.32 CNY."
+    },
+    {
+      "id": "5066637",
+      "time": "2026-08-30 06:26:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼日軍方稱逮捕多名企圖發動兵變計程車兵】當地時間8月29日，尼日國防部表示，該國國防與安全部隊已成功挫敗當天發生在首都尼亞美的兵變企圖，多名參與叛亂計程車兵被現場逮捕。"
+    },
+    {
+      "id": "5066636",
+      "time": "2026-08-30 06:16:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列能源部長稱，即便美國達成協議，以色列仍會再次打擊伊朗。"
+    },
+    {
+      "id": "5066635",
+      "time": "2026-08-30 06:15:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭總統斯圖布談及俄羅斯：我不認為俄羅斯會因為當下實際出現的經濟狀況而結束這場衝突。絕不要低估俄羅斯人承受經濟困境的能力。回顧蘇聯時期就足以理解這一點。"
+    },
+    {
+      "id": "mkt:01a04f97-36a0-7118-83fc-0a1f02d77e27",
+      "time": "2026-08-30 06:15:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Finland's President Alexander Stubb said whether you like it or not, Trump is one of the most influential presidents in U.S. history; he will take action and is capable of delivering results."
+    },
+    {
+      "id": "mkt:01a04f93-21c9-7118-83fc-067c64d38d98",
+      "time": "2026-08-30 06:10:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【Finnish president says Russia unlikely to attack NATO】Finnish President Alexander Stubb said he does not expect Russia to attack NATO, calling it \"the world's most powerful military alliance,\" but urged NATO to prepare for worst-case scenarios. Stubb said Russian battlefield losses have outpaced recruitment and Moscow may mobilize additional forces this autumn, a move he warned would carry domestic political consequences. He added that, despite Russia’s increasingly complicated position, Moscow is unlikely to end the conflict solely because of economic hardship and that Russians can tolerate significant economic pain."
+    },
+    {
+      "id": "5066634",
+      "time": "2026-08-30 06:06:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭總統斯圖布談及特朗普：無論你喜不喜歡，特朗普都是美國歷史上最具影響力的總統之一。他會付諸行動，並且能夠推動事情落地。"
+    },
+    {
+      "id": "5066633",
+      "time": "2026-08-30 06:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克旗下xAI的Grok機器人現已可在X平臺使用。"
+    },
+    {
+      "id": "5066632",
+      "time": "2026-08-30 06:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州一輛滿載藍帶啤酒的卡車失蹤，當地警方正在調查，認為這可能是一起規模更大的貨物盜竊案的一部分，涉案酒水價值約7萬美元。藍帶啤酒方表示此事屬實，並懸賞徵集線索，同時給卡車竊賊留出有限時間歸還車輛，承諾“不予追究”。"
+    },
+    {
+      "id": "5066631",
+      "time": "2026-08-30 05:52:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗副外長：未經協調任何船隻無法透過霍爾木茲海峽】伊朗外交部副部長加里巴巴迪29日表示，霍爾木茲海峽目前完全關閉。任何船隻如透過該海峽，均需要經過伊朗的協調和許可。加里巴巴迪說，伊朗武裝力量完全掌握霍爾木茲海峽的一切動向，美國方面有關船隻透過該海峽的說法“完全不屬實”。"
+    },
+    {
+      "id": "5066630",
+      "time": "2026-08-30 05:48:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭總統斯圖布表示，俄羅斯不太可能冒險攻擊北約。"
+    },
+    {
+      "id": "mkt:01a04f7d-08ae-7118-83fb-fff58ab8c08e",
+      "time": "2026-08-30 05:46:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "Copper"
+      ],
+      "text": "Prime Minister Carney said Canada’s economy grew at its strongest pace in three years in Q2; exports rose and business investment increased. He said plans to bolster the domestic economy and diversify international trade partners are working."
+    },
+    {
+      "id": "5066629",
+      "time": "2026-08-30 05:45:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國10大券商二季度淨利近6萬億韓元 股價卻集體承壓】韓國主要證券公司今年第二季度實現創紀錄的近6萬億韓元利潤，但近期券商股卻表現疲軟。據韓國金融投資行業29日訊息，韓國10大券商（未來資產、韓國投資、三星、KB、NH、新韓、Meritz、Kiwoom、韓亞、大信）今年第二季度合併口徑淨利潤達到5.9362萬億韓元，較上一季度增長37%，同比增長141%。韓國主要券商業績表現穩健，但股價卻較為疲軟。韓國交易所證券業指數5月9日收於9804.97點，創下年內新高，隨後大幅回落。6月該指數跌至6400至7400點區間，7月進一步跌至4700至6400點區間，本月則在5000至5500點區間波動。"
+    },
+    {
+      "id": "mkt:01a04f7b-b9e9-7118-83fb-f169ca218031",
+      "time": "2026-08-30 05:45:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Top 10 South Korean brokers report nearly KRW 6tn Q2 net profit; shares under pressure】South Korea's 10 largest brokerage firms reported a record consolidated Q2 net profit of KRW 5.9362 trillion, up 37% QoQ and 141% YoY. Despite robust earnings, broker stocks have weakened: the KRX securities industry index peaked at 9,804.97 on May 9, then slid to 6,400–7,400 in June, 4,700–6,400 in July and has traded around 5,000–5,500 this month."
+    },
+    {
+      "id": "5066628",
+      "time": "2026-08-30 05:37:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱與委內瑞拉達成石油協議 被批“公然盜竊”】美國總統特朗普當地時間8月28日在社交媒體發文宣佈，美國已與委內瑞拉達成協議，獲得對委內瑞拉已探明石油儲量中逾650億桶的“多數控制權”。該協議遭到多方批評，美方的行為也被網友怒斥為是對委內瑞拉石油的“公然盜竊”。"
+    },
+    {
+      "id": "mkt:01a04f6f-0937-7118-83fb-eaa5a8cf8fca",
+      "time": "2026-08-30 05:31:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "CPNG.O",
+        "Impact bearish"
+      ],
+      "text": "【Trump executed two Coupang trades in June as Seoul regulatory action fuels U.S.-South Korea dispute】YONHAP reports Trump’s financial disclosure shows he executed two trades in US-listed e-commerce firm Coupang Inc. in June via a money manager. The trades come amid rising U.S.-South Korea tensions over Seoul’s regulatory handling of a large-scale data breach at Coupang. In July, staff of the U.S. House Judiciary Committee issued an interim report accusing the South Korean government of “discriminatory attacks” on Coupang and other U.S.-owned firms, saying Coupang has been a sustained target."
+    },
     {
       "id": "mkt:01a04f65-6854-7118-83fb-e4697a95da01",
       "time": "2026-08-30 05:20:40",
