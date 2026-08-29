@@ -1,7 +1,26 @@
 {
   "date": "2026-08-29",
-  "count": 838,
+  "count": 840,
   "items": [
+    {
+      "id": "5066445",
+      "time": "2026-08-29 22:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗支援的伊拉克武裝組織將武器管控與美國撤出伊拉克掛鉤。"
+    },
+    {
+      "id": "mkt:01a04dfd-ee4b-7aab-917f-4170bd2a65d4",
+      "time": "2026-08-29 22:48:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Iraqi militia ties weapons oversight to full US troop withdrawal】Al Jazeera reported that Kataib Sayyid al-Shuhada said it will only cooperate with domestic weapons regulation if 10 conditions are met, chief among them a complete US military withdrawal from Iraq. The Iran-linked group, with longstanding ties to the IRGC, demands an end to any US military presence, a ban on using Iraqi airspace to strike neighboring states, and says weapons may be placed under state control only if Iraqi armed forces and air defenses are simultaneously strengthened. Other conditions include withdrawal of PKK fighters from Iraqi territory, federal control of Kurdish borders, and removal of Iranian opposition groups stationed in northern Iraq."
+    },
     {
       "id": "5066442",
       "time": "2026-08-29 22:46:41",
