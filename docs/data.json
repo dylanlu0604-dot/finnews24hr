@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-30 04:42:02",
-  "count": 13415,
+  "updated": "2026-08-30 04:46:00",
+  "count": 13416,
   "items": [
+    {
+      "id": "mkt:01a04f42-dbe0-7118-83fb-c98bd44c5c38",
+      "time": "2026-08-30 04:42:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News, citing Israeli broadcaster Kan, reported Riyadh pressed the U.S. for military action against Yemen's Houthi rebels, but Washington rejected the request."
+    },
     {
       "id": "mkt:01a04f3c-73d8-7118-83fb-c462c0fe6388",
       "time": "2026-08-30 04:35:56",
