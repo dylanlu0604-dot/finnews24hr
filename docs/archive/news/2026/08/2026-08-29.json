@@ -1,7 +1,31 @@
 {
   "date": "2026-08-29",
-  "count": 707,
+  "count": 710,
   "items": [
+    {
+      "id": "mkt:01a04cd1-06cc-7aab-917d-99dcdd91151b",
+      "time": "2026-08-29 17:19:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Banque Misr said it will fully comply with applicable regulatory and legal requirements after being sanctioned by the United States. Its UAE branch will continue to provide banking services. The bank said it is treating the US proposed rulemaking notice with the utmost seriousness and is conducting a comprehensive review; it is reviewing the US Treasury notice and will contact the US Treasury for further information."
+    },
+    {
+      "id": "5066298",
+      "time": "2026-08-29 17:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及米斯爾銀行（BANQUE MISR）在遭到美國製裁後發表宣告稱，重申完全遵守相關監管與法律框架，其阿聯酋分行將繼續向客戶提供銀行服務。該行正以最嚴肅認真的態度對待美國擬議規則制定通知，並對其進行全面審查。"
+    },
+    {
+      "id": "5066297",
+      "time": "2026-08-29 17:16:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭麗文向西藏災區捐款200萬新臺幣】據香港中評社報道，中國國民黨主席鄭麗文28日晚在社交媒體發文表示，她以個人名義捐贈新臺幣200萬元給西藏災區，希望略盡綿薄之力，衷心祈願災區搶救工作順利，讓受災同胞早日走過傷痛、重建家園。報道引述鄭麗文在社交媒體發文表示，此次的嚴重天災，造成重大傷亡，她深感不捨，謹代表中國國民黨向罹難者表達最深切的哀悼，向受災民眾及家屬致上最誠摯的關懷與慰問。（中新網）"
+    },
     {
       "id": "mkt:01a04ccd-0686-7aab-917d-960924d4c046",
       "time": "2026-08-29 17:14:59",
