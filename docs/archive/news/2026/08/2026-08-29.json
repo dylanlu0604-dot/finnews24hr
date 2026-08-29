@@ -1,7 +1,27 @@
 {
   "date": "2026-08-29",
-  "count": 833,
+  "count": 835,
   "items": [
+    {
+      "id": "5066434",
+      "time": "2026-08-29 22:37:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列襲擊加沙城塔爾哈瓦居民區，至少一人死亡。"
+    },
+    {
+      "id": "mkt:01a04df2-c562-7aab-917f-3d119931ddf5",
+      "time": "2026-08-29 22:35:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran foreign minister urges Japanese public to demand explanation over reported US F-16 deployments】Iran foreign minister Araghchi said on Saturday that the Japanese public should demand that Tokyo explain \"US crimes\" after reports that the US dispatched F-16 fighters from Misawa air base in Japan to West Asia for operations targeting Iran."
+    },
     {
       "id": "5066433",
       "time": "2026-08-29 22:33:49",
