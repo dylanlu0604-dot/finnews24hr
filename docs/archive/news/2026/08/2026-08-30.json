@@ -1,7 +1,23 @@
 {
   "date": "2026-08-30",
-  "count": 84,
+  "count": 86,
   "items": [
+    {
+      "id": "5066624",
+      "time": "2026-08-30 04:47:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克總理安全顧問：伊拉克尋求充當伊朗與美國之間的“橋樑”。"
+    },
+    {
+      "id": "mkt:01a04f46-58c5-7118-83fb-d6408f9770c4",
+      "time": "2026-08-30 04:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi prime minister's security adviser Qasim al-Araji said Iraq seeks to act as a \"bridge\" between Iran and the United States."
+    },
     {
       "id": "mkt:01a04f42-dbe0-7118-83fb-c98bd44c5c38",
       "time": "2026-08-30 04:42:56",
