@@ -1,7 +1,187 @@
 {
   "date": "2026-08-30",
-  "count": 53,
+  "count": 71,
   "items": [
+    {
+      "id": "5066618",
+      "time": "2026-08-30 04:07:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤突破2.9美元，日內漲幅0.9%。"
+    },
+    {
+      "id": "5066617",
+      "time": "2026-08-30 04:03:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破83美元，日內跌超0.5%。"
+    },
+    {
+      "id": "5066616",
+      "time": "2026-08-30 03:58:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：今日凌晨將獵鷹重型火箭轉運至肯尼迪航天中心39A發射臺，火箭搭載NASA羅曼空間望遠鏡，發射任務進入最終準備階段。"
+    },
+    {
+      "id": "mkt:01a04f18-b5f5-7118-83fb-8b001f6ed4a1",
+      "time": "2026-08-30 03:56:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact bullish",
+        "CVX.O",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Warren accuses Trump of profiting-linked oil gains from US‑Iran war】Senator Elizabeth Warren accused President Trump of launching the US‑Iran war and said oil firms tied to him have profited. Democrats, citing Joint Economic Committee data and Trump’s financial disclosures through Q2 2026, said he continued trading oil and gas stocks during the conflict and that his disclosed energy holdings widened from a $13–46m range at the start of the year to $17–61m by mid‑August; the White House says Trump did not participate in the trades. Warren highlighted corporate results: ExxonMobil posted Q2 net income above $14.0bn, about double a year earlier, and Chevron’s Q2 profit rose roughly fourfold from the same period in 2025 to $12.1bn. She said ending the Iran war would lower gasoline prices."
+    },
+    {
+      "id": "5066615",
+      "time": "2026-08-30 03:48:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗副外長：伊阿達成霍爾木茲海峽共識，待美方履約後方可執行】伊朗副外長加里巴巴迪表示，伊朗與阿曼已就霍爾木茲海峽達成共識，但該共識要等到美國履行《伊斯蘭堡諒解備忘錄》項下承諾之後才會落地執行。加里巴巴迪週六稱：“霍爾木茲海峽目前仍處於關閉狀態，所有通行海峽的船隻都必須與伊朗方面協調。”他補充道：“我們會繼續採取防禦舉措，已做好應對任何局勢的準備。”談及卡達與巴基斯坦官員近期到訪伊朗，加里巴巴迪表示，訪問的目的是評估各方是否有可能恢復履行《伊斯蘭堡諒解備忘錄》中的各項承諾。"
+    },
+    {
+      "id": "5066614",
+      "time": "2026-08-30 03:45:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：落實諒解備忘錄可阻止美以在（本）地區製造動盪。"
+    },
+    {
+      "id": "mkt:01a04f09-54e6-7118-83fb-84fe244f21c9",
+      "time": "2026-08-30 03:40:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran deputy foreign minister says not in a hurry to reopen Strait of Hormuz】On Aug. 29, Iran’s deputy foreign minister said Iran and Oman have reached an understanding on transit arrangements for the Strait of Hormuz, but the accord will not be implemented automatically. He said the understanding will not take effect unless the US fulfills its obligations, and Iran is not in a hurry to reopen the strait."
+    },
+    {
+      "id": "5066613",
+      "time": "2026-08-30 03:39:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗副外長稱不急於重新開放霍爾木茲海峽】當地時間8月29日，伊朗副外長加里巴巴迪表示，伊朗已與阿曼就霍爾木茲海峽通行安排達成諒解，但該諒解不會自動進入執行階段。加里巴巴迪表示，除非美國履行其義務，否則伊朗與阿曼就霍爾木茲海峽達成的諒解不會進入執行階段，伊朗不急於重新開放霍爾木茲海峽。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04f07-4e8d-7118-83fb-7dcb36a29632",
+      "time": "2026-08-30 03:37:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said the Strait of Hormuz will not be reopened quickly if the US does not fulfill its commitments."
+    },
+    {
+      "id": "mkt:01a04f06-c44b-7118-83fb-7522c8a3fbe4",
+      "time": "2026-08-30 03:37:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said Tehran has made clear the steps the U.S. must take to return to the memorandum of understanding."
+    },
+    {
+      "id": "mkt:01a04f06-3f91-7118-83fb-6eeca160590b",
+      "time": "2026-08-30 03:36:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said Qatar and Pakistan are exploring the possibility of resuming implementation of a memorandum of understanding."
+    },
+    {
+      "id": "mkt:01a04efe-06a7-7118-83fb-62d7a8253650",
+      "time": "2026-08-30 03:27:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bearish",
+        "GBPUSD",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "【UK considers windfall tax on banks and oil firms】UK Chancellor Healy is weighing a windfall tax on banks and oil companies for her first budget. Treasury officials are discussing the measures as a way to plug a £4.7bn fiscal shortfall while avoiding direct increases in personal taxes. Healy is aiming for a low-key budget next month and for any unavoidable tax rises to be markedly smaller than those implemented under former chancellor Reeves."
+    },
+    {
+      "id": "5066612",
+      "time": "2026-08-30 03:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：波斯灣石油運輸量已恢復至戰前約70%水平。儘管伊朗石油出口依舊受限，但該情況幫助抑制了原油價格。"
+    },
+    {
+      "id": "mkt:01a04efb-3181-7118-83fb-5e62954f11e1",
+      "time": "2026-08-30 03:24:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU to act quickly on Spain's request for migration support】On Aug 29, EU commissioner for home affairs and migration Magnus Brunner said Spain has requested additional support — including the European Border and Coast Guard Agency (Frontex), Europol and the EU Agency for Asylum — to address a migration crisis. The Commission is processing the requests and will decide swiftly. Brunner said the immediate priority remains the rapid return of irregular migrants in the Spanish enclave of Ceuta, where thousands remain after a large late‑July mass crossing. Spain submitted the request on Aug 28."
+    },
+    {
+      "id": "5066611",
+      "time": "2026-08-30 03:22:07",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國財政大臣希利：考慮對銀行與石油企業徵收暴利稅。"
+    },
+    {
+      "id": "mkt:01a04ef6-1aec-7118-83fb-52fd3dd51971",
+      "time": "2026-08-30 03:19:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Fars News cites Iran's agriculture minister saying Iran has, for the first time and despite difficult wartime conditions, achieved self-sufficiency in chicken meat and is moving toward exports."
+    },
+    {
+      "id": "mkt:01a04ef4-2186-7118-83fb-48c1cf0aac76",
+      "time": "2026-08-30 03:16:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【U.S. Embassy in Beirut: Hezbollah still refuses to negotiate disarmament with U.S. and Israel】U.S. Embassy in Beirut said Hezbollah remains unwilling to negotiate disarmament with the Lebanese government, the U.S. or Israel and is acting at Iran's direction. The embassy said it is already in dialogue with Beirut and that, should Hezbollah indicate readiness to hand over weapons, Washington could seek to narrow the parties' positions."
+    },
+    {
+      "id": "5066610",
+      "time": "2026-08-30 03:16:37",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美擬切斷米斯爾銀行代理行服務，阿聯酋央行啟動專項回溯審查】阿聯酋央行於週六釋出宣告，宣佈對本國境內運營的米斯爾銀行各分行啟動一項特別緊急審查。就在一天前，美國財政部提出限制措施，指控該銀行與伊朗影子銀行網路存在關聯交易。本次審查將開展司法層面的深度回溯核查，覆蓋美方提及的相關時段，重點核查美方宣告點名企業的相關交易。宣告稱，米斯爾銀行阿聯酋分行必須遵守當地法律法規；持牌銀行不得讓阿聯酋金融體系蒙受“聲譽風險”。阿聯酋央行同時表示，如果美國走完相關法律程式後最終落地這項擬議專項措施，當局正研究該銀行在阿聯酋境內的處置備選方案。美國財政部週五提出，切斷米斯爾銀行阿聯酋分行獲取美國金融機構代理行服務的渠道，理由是該分行涉伊朗影子銀行網路相關交易。"
+    },
     {
       "id": "mkt:01a04eea-9925-7118-83fb-409311b6d62f",
       "time": "2026-08-30 03:06:32",
