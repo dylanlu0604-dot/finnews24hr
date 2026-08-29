@@ -1,7 +1,39 @@
 {
   "date": "2026-08-29",
-  "count": 573,
+  "count": 577,
   "items": [
+    {
+      "id": "mkt:01a04b8b-158b-7aab-917c-63f4cb17eb80",
+      "time": "2026-08-29 11:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China establishes first two-way high-speed Earth-Moon laser link】The Chinese Academy of Sciences' Space Applications Engineering and Technology Center said a recent Earth–Moon laser-communication test established a bidirectional high-speed laser link over more than 400,000 km — the first-ever two-way high-speed Earth–Moon laser communication — marking China’s space laser communications moving from low-Earth orbit into cislunar space."
+    },
+    {
+      "id": "5066197",
+      "time": "2026-08-29 11:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首次實現地月雙向高速鐳射通訊】記者從中國科學院空間應用工程與技術中心獲悉，日前，我國在地月鐳射通訊試驗任務中取得重要突破，成功在超過40萬公里的地月距離上建立起雙向鐳射鏈路，首次實現地月雙向高速鐳射通訊。這標誌著我國空間鐳射通訊正式從近地軌道邁入地月空間。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04b88-d54e-7aab-917c-5acf1ad9e81b",
+      "time": "2026-08-29 11:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Support for Takaichi cabinet continues to fall】A Mainichi Shimbun poll showed support for Sanae Takaichi's cabinet at 41%, a post-appointment low. Political economist Hamada said public concern about the economic outlook is rising while the cabinet has taken little action, and growing dissatisfaction may further push approval down."
+    },
+    {
+      "id": "mkt:01a04b86-4bbb-7aab-917c-57eb2b8d32d1",
+      "time": "2026-08-29 11:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports Qatar's prime minister and foreign minister held a phone call with Kuwait's foreign minister to discuss recent regional developments and measures to ease tensions."
+    },
     {
       "id": "5066196",
       "time": "2026-08-29 11:15:38",

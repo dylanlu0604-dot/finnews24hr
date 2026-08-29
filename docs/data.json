@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-29 11:17:55",
+  "updated": "2026-08-29 11:26:05",
   "count": 13407,
   "items": [
+    {
+      "id": "mkt:01a04b8b-158b-7aab-917c-63f4cb17eb80",
+      "time": "2026-08-29 11:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China establishes first two-way high-speed Earth-Moon laser link】The Chinese Academy of Sciences' Space Applications Engineering and Technology Center said a recent Earth–Moon laser-communication test established a bidirectional high-speed laser link over more than 400,000 km — the first-ever two-way high-speed Earth–Moon laser communication — marking China’s space laser communications moving from low-Earth orbit into cislunar space."
+    },
+    {
+      "id": "5066197",
+      "time": "2026-08-29 11:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首次實現地月雙向高速鐳射通訊】記者從中國科學院空間應用工程與技術中心獲悉，日前，我國在地月鐳射通訊試驗任務中取得重要突破，成功在超過40萬公里的地月距離上建立起雙向鐳射鏈路，首次實現地月雙向高速鐳射通訊。這標誌著我國空間鐳射通訊正式從近地軌道邁入地月空間。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a04b88-d54e-7aab-917c-5acf1ad9e81b",
+      "time": "2026-08-29 11:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Support for Takaichi cabinet continues to fall】A Mainichi Shimbun poll showed support for Sanae Takaichi's cabinet at 41%, a post-appointment low. Political economist Hamada said public concern about the economic outlook is rising while the cabinet has taken little action, and growing dissatisfaction may further push approval down."
+    },
+    {
+      "id": "mkt:01a04b86-4bbb-7aab-917c-57eb2b8d32d1",
+      "time": "2026-08-29 11:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports Qatar's prime minister and foreign minister held a phone call with Kuwait's foreign minister to discuss recent regional developments and measures to ease tensions."
+    },
     {
       "id": "5066196",
       "time": "2026-08-29 11:15:38",
@@ -120847,38 +120879,6 @@
         "國際"
       ],
       "text": "美國海關與邊境保護局指引：對加拿大特定商品加徵第338條款附加關稅。"
-    },
-    {
-      "id": "5052981",
-      "time": "2026-08-22 11:25:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普吐槽伊朗：世界上唯一一個沒人想當總統的國家】據報道，在支援參議員林賽·格雷厄姆的南卡羅來納州競選集會上，美國總統特朗普表示：“當一個國家不再擁有海軍、空軍、雷達、技術裝置和製造能力，其領導人已經被消滅，第二梯隊領導人也被消滅，第三梯隊領導人中也有一部分被消滅。事實上，這反而成了我的一大難題，因為我壓根不知道到底該和誰打交道，這是個問題。這是世界上唯一一個沒人想當總統的國家。所以，這確實有點麻煩。”"
-    },
-    {
-      "id": "5052980",
-      "time": "2026-08-22 11:24:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部針對廣東、廣西、海南啟動洪水防禦Ⅳ級應急響應】受19號颱風“紫檀”影響，預計8月22日至24日，廣西西部南部、廣東、海南將有大到暴雨，部分地區將有大暴雨。廣西鬱江干支流及桂南沿海欽江、防城河、南流江，廣東東江、韓江及沿海榕江、鑑江，海南南渡江、昌化江、萬泉河等河流將出現漲水過程，其中廣西鬱江支流左江、明江可能發生超警洪水，暴雨區內部分中小河流可能發生超警以上洪水。（新華社）"
-    },
-    {
-      "id": "5052979",
-      "time": "2026-08-22 11:22:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京現代艾尼氪V開啟預售】8月22日，北汽集團宣佈，北京現代艾尼氪V開啟預售，預售價11.99萬元起。"
-    },
-    {
-      "id": "5052978",
-      "time": "2026-08-22 11:20:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡稱埃爾多安為“反猶獨裁者”】據法新社8月21日報道，以色列總理內塔尼亞胡的辦公室21日將土耳其總統埃爾多安稱為“反猶獨裁者”，並表示以色列將採取行動應對“土耳其破壞地區穩定的企圖”。 據報道，此番表態之前，以色列18日對敘利亞西北部伊德利卜省的一座空軍基地發動空襲，該基地距土耳其邊境僅數十公里，內塔尼亞胡本人暗示對此襲擊負責。（參考訊息）"
     }
   ]
 }
