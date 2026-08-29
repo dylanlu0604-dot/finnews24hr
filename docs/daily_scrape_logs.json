@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-29 12:01:47",
+  "updated": "2026-08-29 12:44:56",
   "items": [
     {
       "id": "2026082912",
       "date": "2026-08-29",
       "run_hour": 12,
-      "started_at": "2026-08-29 12:01:32",
-      "finished_at": "2026-08-29 12:01:47",
+      "started_at": "2026-08-29 12:44:37",
+      "finished_at": "2026-08-29 12:44:56",
       "status": "PARTIAL",
       "total_sources": 12,
       "success_count": 3,
