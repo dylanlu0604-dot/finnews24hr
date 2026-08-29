@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-30 05:18:00",
-  "count": 13416,
+  "updated": "2026-08-30 05:21:56",
+  "count": 13417,
   "items": [
+    {
+      "id": "mkt:01a04f65-6854-7118-83fb-e4697a95da01",
+      "time": "2026-08-30 05:20:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraq official: Iraq seeks to be 'bridge' between Iran and US】Iraq's prime minister's security adviser Qasim al-Araji told Al Jazeera that Iraq maintains good relations with both Iran and the US and seeks to act as a bridge to broker an agreement safeguarding regional interests. He added Iran has stressed the need to clear extremist groups from Iraqi territory."
+    },
+    {
+      "id": "5066627",
+      "time": "2026-08-30 05:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：市場普遍預估，2027年約15吉瓦的AI算力硬體即便生產出來，也無法在2027年投入執行。問題不只是獲取電力，還需要配套建設全部變壓器、佈線、液冷裝置、大型冷水機組以及複雜網路系統。"
+    },
     {
       "id": "5066626",
       "time": "2026-08-30 05:15:43",
@@ -121225,14 +121241,6 @@
         "國際"
       ],
       "text": "美國貿易代表格里爾駁斥加拿大總理卡尼有關美國報價誠意不足的說法。"
-    },
-    {
-      "id": "5053480",
-      "time": "2026-08-23 05:18:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：美國曾提議取消針對軟木木材的10%關稅。"
     }
   ]
 }
