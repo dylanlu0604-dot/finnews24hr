@@ -1,7 +1,19 @@
 {
   "date": "2026-08-30",
-  "count": 39,
+  "count": 40,
   "items": [
+    {
+      "id": "mkt:01a04eb2-e80f-7118-83fb-152908f3e907",
+      "time": "2026-08-30 02:05:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Israel conducts strikes in southern Lebanon】Lebanon’s National News Agency (NNA) reported Israeli forces destroyed a nursing home in Hula, southern Lebanon. NNA said an Israeli drone fired a guided missile at an open area between Jarmaq and Kfar Reman. Earlier Israeli artillery shelled the outskirts of Zawtar al-Gharbiyah, and there were reports of a large explosion between Markaba and Rabs al-Sarasin."
+    },
     {
       "id": "mkt:01a04eaf-4bf3-7118-83fb-0a97fd701f9d",
       "time": "2026-08-30 02:01:46",
