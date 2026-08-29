@@ -1,7 +1,24 @@
 {
   "date": "2026-08-30",
-  "count": 48,
+  "count": 50,
   "items": [
+    {
+      "id": "mkt:01a04ed7-0434-7118-83fb-32a7703db6f6",
+      "time": "2026-08-30 02:45:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister's security adviser Qassim al-Araji told Al Jazeera he is in talks with factions to limit weapons to state possession."
+    },
+    {
+      "id": "5066608",
+      "time": "2026-08-30 02:45:00",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克計劃自研燃氣輪機葉片。燃氣輪機可為AI資料中心提供電力。"
+    },
     {
       "id": "mkt:01a04ed4-e940-7118-83fb-29af4d108f4e",
       "time": "2026-08-30 02:42:51",
