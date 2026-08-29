@@ -1,7 +1,33 @@
 {
   "date": "2026-08-30",
-  "count": 41,
+  "count": 44,
   "items": [
+    {
+      "id": "mkt:01a04ec1-515c-7118-83fb-1e63bd580620",
+      "time": "2026-08-30 02:21:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump to serve as honorary chair of Presidents Cup】US President Trump accepted an invitation from the PGA Tour and new commissioner Brian Rolapp to serve as honorary chair of the upcoming Presidents Cup at Medinah Country Club in Chicago and said he plans to attend."
+    },
+    {
+      "id": "5066598",
+      "time": "2026-08-30 02:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊：AI模型公司每賺100美元 約35至40美元流向三大雲巨頭】巴克萊在報告中稱，AI模型公司每獲得100美元收入，其中約有35至40美元會以推理算力費用的形式流向三大雲巨頭，即亞馬遜AWS、微軟Azure和谷歌雲平臺（GCP）。在這部分收入中，雲服務商能夠獲得約10至20美元的營業利潤，對應約35%至45%的營業利潤率。報告指出，AI實驗室付費推理業務的利潤率已經大幅攀升，從2025年的低雙位數水平升至2026年的50%至65%甚至更高，調整後毛利率同比提升30至50個百分點。巴克萊分析師認為，實際利潤率可能甚至高於報告中的估算，但隨著前沿模型競爭加劇以及算力供給持續增加，利潤率預計將逐步回落。"
+    },
+    {
+      "id": "5066596",
+      "time": "2026-08-30 02:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐貝魯特大使館：真主黨既不願同黎巴嫩政府談判，也不願與美國、以色列對話，原因很簡單，該組織聽命於伊朗。"
+    },
     {
       "id": "5066589",
       "time": "2026-08-30 02:14:34",
