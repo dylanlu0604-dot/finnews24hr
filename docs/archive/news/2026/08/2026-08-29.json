@@ -1,7 +1,32 @@
 {
   "date": "2026-08-29",
-  "count": 850,
+  "count": 853,
   "items": [
+    {
+      "id": "mkt:01a04e3e-f70d-7aab-917f-4d5fcdea5831",
+      "time": "2026-08-29 23:59:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-4.8 earthquake offshore eastern Chiba, Japan】Japan Meteorological Agency reported a magnitude-4.8 earthquake offshore eastern Chiba at about 00:17 local time on Aug. 30; focal depth approximately 30 km. Tremors were felt in Ibaraki prefecture and Tokyo."
+    },
+    {
+      "id": "5066500",
+      "time": "2026-08-29 23:57:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【嘉能可針對Radiant World相關風險敞口計提4.8億美元準備金】嘉能可集團針對其對鐵礦石貿易商Radiant World的風險敞口計提約4.8億美元準備金。Radiant World正深陷困境，外界質疑其向銀行提供偽造檔案。這筆準備金基本覆蓋嘉能可對Radiant World全部未結清淨風險敞口。"
+    },
+    {
+      "id": "5066499",
+      "time": "2026-08-29 23:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉能可針對對Radiant World的風險敞口計提4.8億美元準備金。"
+    },
     {
       "id": "5066498",
       "time": "2026-08-29 23:48:00",
