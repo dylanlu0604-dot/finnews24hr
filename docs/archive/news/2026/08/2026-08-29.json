@@ -1,7 +1,17 @@
 {
   "date": "2026-08-29",
-  "count": 706,
+  "count": 707,
   "items": [
+    {
+      "id": "mkt:01a04ccd-0686-7aab-917d-960924d4c046",
+      "time": "2026-08-29 17:14:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "A deputy head of branch and corporate banking at the Export Development Bank of Iran said the bank will provide support to clients affected by the war; loan disbursements targeting support for SMEs and knowledge‑based firms have reached 180% of target."
+    },
     {
       "id": "5066296",
       "time": "2026-08-29 17:11:36",
