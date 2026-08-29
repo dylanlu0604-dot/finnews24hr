@@ -1,7 +1,17 @@
 {
   "date": "2026-08-30",
-  "count": 47,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:01a04ed4-e940-7118-83fb-29af4d108f4e",
+      "time": "2026-08-30 02:42:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources: Iraqi Kurdistan is exporting about 150,000 bpd of crude to Turkey's Ceyhan port."
+    },
     {
       "id": "5066607",
       "time": "2026-08-30 02:32:03",
