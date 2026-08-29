@@ -1,7 +1,17 @@
 {
   "date": "2026-08-29",
-  "count": 717,
+  "count": 718,
   "items": [
+    {
+      "id": "mkt:01a04ce4-01c7-7aab-917d-a6a91d144ba6",
+      "time": "2026-08-29 17:40:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Dagang Oilfield gas storage cluster injection cycle tops 2 bln cubic meters, sets record】The Tianjin gas-storage branch of Dagang Oilfield said cumulative injections in the current cycle have exceeded 2 bln cubic meters, reaching 90% of the overall injection plan and up 8% YoY, a new cycle high that strengthens winter gas supply for the Beijing-Tianjin-Hebei region."
+    },
     {
       "id": "5066304",
       "time": "2026-08-29 17:34:55",
