@@ -1,7 +1,31 @@
 {
   "date": "2026-08-29",
-  "count": 578,
+  "count": 581,
   "items": [
+    {
+      "id": "mkt:01a04b98-3b09-7aab-917c-71158816a845",
+      "time": "2026-08-29 11:37:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI to end partnership with Cursor after SpaceX acquisition】OpenAI said on X it will terminate its partnership with AI coding assistant Cursor after SpaceX acquired the company, notifying Cursor that contracts will be wound down with a proposed shutdown date of Nov. 12. OpenAI said the move reflects prior instances of contract breaches by Musk-owned companies and that it cannot be confident SpaceX will use its technology within OpenAI’s service terms."
+    },
+    {
+      "id": "5066202",
+      "time": "2026-08-29 11:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西13條河流18個站出現超警洪水】8月28日8時至29日8時，據廣西水文中心監測，玉林、百色、梧州、貴港、崇左、來賓、河池、欽州、南寧、防城港及北海等市部分地區降大到暴雨，局地大暴雨，累計雨量最大的點為玉林市北流市扶新鎮150.0毫米。29日8時，廣西仍有鬱江及支流青龍江、伶俐江、武思江，左江及支流客蘭河、峪陽河等13條河流18個站超警0.01～5.17米。（央視新聞）"
+    },
+    {
+      "id": "5066201",
+      "time": "2026-08-29 11:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海軍：8 月 27 日收到霍爾木茲海峽突發事件報告，油輪遭不明投射物擊中，船員均安全。"
+    },
     {
       "id": "mkt:01a04b8e-8db4-7aab-917c-6dba236ab6b3",
       "time": "2026-08-29 11:27:08",
