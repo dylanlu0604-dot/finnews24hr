@@ -1,7 +1,15 @@
 {
   "date": "2026-08-29",
-  "count": 738,
+  "count": 739,
   "items": [
+    {
+      "id": "mkt:01a04d02-f581-7aab-917d-e6c22c4a0f3f",
+      "time": "2026-08-29 18:13:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LAVROV says Moscow did not issue ultimatum to US over Ukraine】On Aug. 28 LAVROV told an interview that although the current U.S. government often calls the Ukraine crisis \"Biden's war,\" the Trump administration continues to supply weapons and funds to Ukraine. On U.S. support for strikes on Russian territory, he said Moscow never issued any ultimatum to Washington. He added that Britain’s role in the Russia‑Ukraine conflict has been \"extremely negative\" and argued the UK has no permanent allies, including the United States."
+    },
     {
       "id": "mkt:01a04cfe-ba51-7aab-917d-d95c2d68dd62",
       "time": "2026-08-29 18:09:17",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-29 18:10:41",
+  "updated": "2026-08-29 18:14:43",
   "count": 13424,
   "items": [
+    {
+      "id": "mkt:01a04d02-f581-7aab-917d-e6c22c4a0f3f",
+      "time": "2026-08-29 18:13:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LAVROV says Moscow did not issue ultimatum to US over Ukraine】On Aug. 28 LAVROV told an interview that although the current U.S. government often calls the Ukraine crisis \"Biden's war,\" the Trump administration continues to supply weapons and funds to Ukraine. On U.S. support for strikes on Russian territory, he said Moscow never issued any ultimatum to Washington. He added that Britain’s role in the Russia‑Ukraine conflict has been \"extremely negative\" and argued the UK has no permanent allies, including the United States."
+    },
     {
       "id": "mkt:01a04cfe-ba51-7aab-917d-d95c2d68dd62",
       "time": "2026-08-29 18:09:17",
@@ -121077,15 +121085,6 @@
         "其他"
       ],
       "text": "【深圳市分割槽暴雨黃色預警訊號升級為橙色】據深圳釋出，過去1小時，龍崗區（平湖、龍城、橫崗、園山街道）和龍華區（觀湖、福城、觀瀾街道）已出現強降雨，預計未來1—2小時還將出現20—40毫米降水，深圳市氣象臺2026年08月22日17時52分在上述區域釋出暴雨橙色預警訊號，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域，上述區域山洪風險較大，注意防禦暴雨可能引發的區域性內澇、山洪、滑坡、泥石流等災害。"
-    },
-    {
-      "id": "5053134",
-      "time": "2026-08-22 18:13:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "伊朗帕爾斯石油天然氣公司稱，南帕爾斯14期煉油廠的修復工作已完成70%。"
     }
   ]
 }
