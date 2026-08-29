@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-30 01:57:59",
-  "count": 13396,
+  "updated": "2026-08-30 02:03:02",
+  "count": 13399,
   "items": [
+    {
+      "id": "mkt:01a04eaf-4bf3-7118-83fb-0a97fd701f9d",
+      "time": "2026-08-30 02:01:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Embassy in Lebanon: HEZBOLLAH is refusing to engage with any party because it takes orders from Iran. It can negotiate with the Lebanese government only if it hands over its weapons."
+    },
+    {
+      "id": "mkt:01a04eac-41c9-7118-83fb-0724a2bc9295",
+      "time": "2026-08-30 01:58:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Turkey summons Ukrainian ambassador after Black Sea attacks on Turkish merchant ships】Turkey’s foreign ministry summoned Ukraine’s ambassador, a ministry source said on Aug 29, protesting recent attacks on Turkish merchant vessels near Tuapse in the Black Sea and warning of the need to protect personnel, property, navigation and the marine environment. On Aug 26 a vessel operated by a Turkish company was attacked near Tuapse; the following day a Turkish ship sent to tow that vessel was also targeted. On Aug 22 two Turkish merchant ships were attacked in the Black Sea, killing one crew member and injuring eight."
+    },
+    {
+      "id": "5066578",
+      "time": "2026-08-30 01:58:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【土耳其外交部就商船遭襲事件召見烏克蘭大使】據土耳其外交部訊息人士29日透露，土耳其外交部已召見烏克蘭駐土耳其大使，就本週早些時候土方船隻在黑海圖阿普謝港附近遭襲一事提出交涉。這名訊息人士說，土方表達了對相關襲擊事件的反應，並就確保黑海人員、財產、航行以及環境安全的必要性提出警告。近期，黑海發生多起土耳其商船遇襲事件。8月26日，土耳其公司運營的一艘船在黑海圖阿普謝港附近遭襲，次日土方派出另一艘船前往拖曳上述船隻，該船也成為襲擊目標。8月22日，兩艘土耳其商船在黑海遭襲，造成一名船員死亡、8人受傷。（新華社）"
+    },
+    {
+      "id": "5066575",
+      "time": "2026-08-30 01:56:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：過去兩週加密市場爆倉金額超97.1億美元，空頭爆倉65.5億美元，多頭爆倉31.6億美元。"
+    },
     {
       "id": "5066574",
       "time": "2026-08-30 01:54:00",
@@ -120988,14 +121028,6 @@
         "國際"
       ],
       "text": "【與特朗普立場一致的郵寄選票新規等待最高法院裁決】美國郵政署敲定一項新規，為郵寄投票增設更多門檻，該版本與特朗普最初方案存在小幅出入。新規則要求各州向郵政署提交合格選民名單，使用帶特殊條形碼的信封；選票必須印有官方選舉郵件標識，並配備專屬智慧郵件條形碼。受法院禁令約束，該政策目前暫停執行。若最高法院不作出有利判決，新規將無法在11月中期選舉落地，政府已經沒有充足時間推行郵寄選票限制措施。"
-    },
-    {
-      "id": "5053360",
-      "time": "2026-08-23 01:58:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙與加州將於8月24日就華納兄弟交易舉行初步會談。"
     }
   ]
 }

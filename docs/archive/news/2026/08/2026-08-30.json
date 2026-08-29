@@ -1,7 +1,47 @@
 {
   "date": "2026-08-30",
-  "count": 35,
+  "count": 39,
   "items": [
+    {
+      "id": "mkt:01a04eaf-4bf3-7118-83fb-0a97fd701f9d",
+      "time": "2026-08-30 02:01:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Embassy in Lebanon: HEZBOLLAH is refusing to engage with any party because it takes orders from Iran. It can negotiate with the Lebanese government only if it hands over its weapons."
+    },
+    {
+      "id": "mkt:01a04eac-41c9-7118-83fb-0724a2bc9295",
+      "time": "2026-08-30 01:58:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Turkey summons Ukrainian ambassador after Black Sea attacks on Turkish merchant ships】Turkey’s foreign ministry summoned Ukraine’s ambassador, a ministry source said on Aug 29, protesting recent attacks on Turkish merchant vessels near Tuapse in the Black Sea and warning of the need to protect personnel, property, navigation and the marine environment. On Aug 26 a vessel operated by a Turkish company was attacked near Tuapse; the following day a Turkish ship sent to tow that vessel was also targeted. On Aug 22 two Turkish merchant ships were attacked in the Black Sea, killing one crew member and injuring eight."
+    },
+    {
+      "id": "5066578",
+      "time": "2026-08-30 01:58:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【土耳其外交部就商船遭襲事件召見烏克蘭大使】據土耳其外交部訊息人士29日透露，土耳其外交部已召見烏克蘭駐土耳其大使，就本週早些時候土方船隻在黑海圖阿普謝港附近遭襲一事提出交涉。這名訊息人士說，土方表達了對相關襲擊事件的反應，並就確保黑海人員、財產、航行以及環境安全的必要性提出警告。近期，黑海發生多起土耳其商船遇襲事件。8月26日，土耳其公司運營的一艘船在黑海圖阿普謝港附近遭襲，次日土方派出另一艘船前往拖曳上述船隻，該船也成為襲擊目標。8月22日，兩艘土耳其商船在黑海遭襲，造成一名船員死亡、8人受傷。（新華社）"
+    },
+    {
+      "id": "5066575",
+      "time": "2026-08-30 01:56:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：過去兩週加密市場爆倉金額超97.1億美元，空頭爆倉65.5億美元，多頭爆倉31.6億美元。"
+    },
     {
       "id": "5066574",
       "time": "2026-08-30 01:54:00",
