@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-29 18:06:38",
-  "count": 13422,
+  "updated": "2026-08-29 18:10:41",
+  "count": 13424,
   "items": [
+    {
+      "id": "mkt:01a04cfe-ba51-7aab-917d-d95c2d68dd62",
+      "time": "2026-08-29 18:09:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Transport responds to proposal to scrap ETC devices】China's Ministry of Transport, responding to calls to cancel ETC device use, said ETC lanes are intended to raise highway throughput, improve travel experience and help reduce logistics costs. The Highway Bureau said ETC remains voluntary; frequent users may apply for devices through authorized channels, including bank branches, the official ETC mini-program and Alipay service portals, as well as other legitimate online and offline outlets."
+    },
+    {
+      "id": "5066317",
+      "time": "2026-08-29 18:08:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快手直播業務負責人張一帆：每月投入十億級流量助力新優主播普惠成長】8月29日，快手光合創作者大會上，快手直播業務負責人張一帆表示，快手直播一直秉承賦能主播普惠成長的初心。過去一年，快手直播加大對優質主播、新主播的扶持力度，月均向優質主播額外傾斜12億流量，對新主播額外投入6億流量，帶動新主播公域人均曝光同比增長20.6%。此外，AI能力已進入主播開播場域中，AI主播管家上線6個月累計服務超50萬主播開播，日均呼叫超1.8億次，基於可靈AI的「AI永珍」個性化特效在第二季度送出超600萬個。"
+    },
+    {
+      "id": "5066316",
+      "time": "2026-08-29 18:06:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長稱未因烏克蘭向美髮最後通牒】8月28日，俄羅斯外長拉夫羅夫在接受採訪時表示，雖然現美國政府經常將烏克蘭危機稱為“拜登的戰爭”，但特朗普政府仍在武器和資金等方面支援烏克蘭。對於特朗普政府支援烏克蘭打擊俄羅斯領土一事，莫斯科從未向美國發出過任何最後通牒。拉夫羅夫還表示，英國在俄烏衝突中的角色“極其負面”。他表示，英國從來沒有任何永久的盟友，對美國也不例外，因為英國一直“看不起在大西洋彼岸建立國家的盎格魯-撒克遜人。” （CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a04cf9-1e3c-7aab-917d-d6ceb4d08487",
       "time": "2026-08-29 18:03:09",
@@ -121060,14 +121086,6 @@
         "國際"
       ],
       "text": "伊朗帕爾斯石油天然氣公司稱，南帕爾斯14期煉油廠的修復工作已完成70%。"
-    },
-    {
-      "id": "5053133",
-      "time": "2026-08-22 18:09:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山洪災害紅色預警：廣西西南部局地發生災害可能性很大】水利部和中國氣象局8月22日18時聯合釋出紅色山洪災害氣象預警：預計，8月22日20時至23日20時，廣西西南部部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警）。"
     }
   ]
 }
