@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-30 04:30:08",
-  "count": 13412,
+  "updated": "2026-08-30 04:34:05",
+  "count": 13414,
   "items": [
+    {
+      "id": "5066622",
+      "time": "2026-08-30 04:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，熱帶風暴卡琳娜強度增強，接近颶風級別，並繼續進入更有利的環境。"
+    },
+    {
+      "id": "mkt:01a04f36-dd6b-7118-83fb-bf77195e2f55",
+      "time": "2026-08-30 04:29:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's Press TV cited security sources saying reports of large volumes of oil being transported via the southern route of the Strait of Hormuz do not reflect reality. The report said allegations that the United States transports oil via the southern Hormuz route are a US tactic to lower energy prices."
+    },
     {
       "id": "5066621",
       "time": "2026-08-30 04:28:45",
