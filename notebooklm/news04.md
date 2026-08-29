@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-30 03:16:39_
-_本檔包含 2548 則快訊，約 554828 字_
+_更新時間：2026-08-30 05:25:55_
+_本檔包含 2562 則快訊，約 556169 字_
+
+---
+
+### 2026-08-25 19:51:02  #公司
+
+【北摩高科：擬1.2億元—1.8億元回購股份】北摩高科(002985)8月25日公告，公司擬1.2億元—1.8億元回購股份，用於員工持股計劃或股權激勵，回購價格不超過37元/股。
+
+---
+
+### 2026-08-25 19:50:46  #公司
+
+【多瑞醫藥：2026年上半年淨利潤1152.94萬元，同比扭虧為盈】多瑞醫藥公告，2026年上半年營業收入9565.54萬元，同比下降10.24%；歸屬於上市公司股東的淨利潤1152.94萬元，上年同期虧損4250.36萬元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3343.76萬元，上年同期虧損4551.73萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:50:26  #MKT News #Market Themes #Chip Wars #AI Revolution #MU.O #Impact bullish #000660.KS #005930.KS
+
+【TrendForce: Memory contract prices surge; DRAM and NAND to account for 68% of CSP capex in 2027】TrendForce's latest memory-sector research says major global cloud service providers (CSPs) will accelerate AI infrastructure buildout, with capex estimated to rise 98% in 2026 and a further 50% in 2027. The firm attributes the surge partly to sharply higher memory contract prices and robust procurement demand, and projects DRAM and NAND Flash will represent 47% of CSP capex in 2026 and 68% in 2027.
+
+---
+
+### 2026-08-25 19:50:25  #公司
+
+【安潔科技：2026年上半年淨利潤1.64億元，同比增長165.12%】安潔科技公告，2026年上半年營業收入24.31億元，同比增長11.07%；歸屬於上市公司股東的淨利潤1.64億元，同比增長165.12%，2025年同期為6186.59萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2228.81萬元，同比下降35.13%，2025年同期為3435.8萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:50:08  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US Economy
+
+Richmond Fed President Barkin, a 2027 FOMC voting member, will speak in ten minutes on "The Mysterious U.S. Economy".
+
+---
+
+### 2026-08-25 19:50:06  #公司
+
+【惠柏新材：2026年上半年淨利潤6160.75萬元，同比增長85.54%】惠柏新材公告，2026年上半年營業收入13.7億元，同比增長34.93%；歸屬於上市公司股東的淨利潤6160.75萬元，同比增長85.54%，2025年同期為3320.47萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5829.45萬元，同比增長88.18%。公司擬以9226.67萬股為基數，每10股派發現金紅利3元（含稅），送紅股0股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:50:01  #國際
+
+澤連斯基：亞美尼亞人民已為與歐洲建立更緊密聯絡設定了一條穩固的道路，烏克蘭讚賞這一選擇，並準備在力所能及的範圍內提供幫助。
+
+---
+
+### 2026-08-25 19:49:18  #MKT News #Market Themes #The Trump Trade
+
+【Trump says he won't interfere with French Canadians' use of French; language rules a US-Canada trade dispute】US President Trump tweeted he will not interfere with Canadians speaking French. Foreign media report French-language rules have become a contention point in the US-Canada trade row. Canadian law requires product labels in both English and French; the US has long viewed such language requirements as a trade barrier. Earlier, Prime Minister Carney said Canada "cannot accept" a US trade proposal aimed at weakening protections for the French language.
+
+---
+
+### 2026-08-25 19:49:02  #MKT News
+
+BMO CFO says government support could help mitigate tariff impact.
+
+---
+
+### 2026-08-25 19:48:57  #公司
+
+【金牌家居：2026年上半年淨利潤虧損1.27億元，同比由盈轉虧】金牌家居公告，2026年上半年營業收入11.84億元，同比下降19.41%；歸屬於上市公司股東的淨利潤虧損1.27億元，2025年同期為6365.18萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.43億元，2025年同期為3413.86萬元，同比由盈轉虧。
+
+---
+
+### 2026-08-25 19:48:34  #公司
+
+【卓勝微：2026年上半年營收18.10億元 淨虧損擴大】卓勝微公告稱，2026年上半年實現營業收入18.10億元，同比增長6.20%；歸屬於上市公司股東的淨虧損3.71億元，同比擴大151.53%；扣除非經常性損益後淨虧損3.71億元，同比擴大144.76%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:48:09  #公司 #市場
+
+【和邦生物：董事賀正剛擬減持不超4182.4萬股公司股份】和邦生物8月25日公告，公司董事賀正剛計劃在2026年9月16日至2026年12月15日期間，透過集中競價方式減持不超過4182.4萬股，佔公司總股本的0.47%，減持價格按市場價格確定，減持原因為償還貸款。以公告披露前最近一個交易日（8月24日）的收盤價2.42元/股測算，本次擬減持股份對應的市值上限約為1.01億元。
+
+---
+
+### 2026-08-25 19:48:05  #宏觀 #焦點
+
+【8月25日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】為人民出政績 以實幹出政績； 2.央視快評：努力創造經得起實踐人民歷史檢驗的實績； 3.十四屆全國人大常委會第二十四次會議在京舉行 趙樂際主持； 4.全國政協十四屆常委會第十八次會議開幕 王滬寧出席； 5.韓正會見印度國家安全顧問、中印邊界問題印方特別代表多瓦爾； 6.全國夏糧收購進入高峰 累計收購總量超9000萬噸； 7.前7個月我國交通運輸主要指標保持增長； 8.我國加快推進公共資料開放共享 賦能千行百業； 9.第二十六屆投洽會將於9月8日至11日在廈門舉行； 10.首批國家公園生態系統質量和旗艦物種數量實現雙提升； 11.國內聯播快訊： （1）上半年全國新開工建設口袋公園超2800個； （2）截至7月底我國電動汽車充電基礎設施總數超2360萬個； （3）“十五五”期間我國將為參保人建立個人醫保雲； （4）各地組織開展殘疾預防科普活動； （5）第十一屆APEC糧食安全部長級會議達成多項重要成果； （6）駐香港部隊組織第29次建制單位輪換； （7）第三批“青年律師西部鍛鍊計劃”啟動； （8）北京口岸今年出入境人員總量突破1500萬人次； （9）濟南黃崗路黃河隧道今天通車； （10）受颱風影響 未來三天南方部分地區有大到暴雨； 12.美宣佈對伊朗實施新一輪制裁措施 伊朗稱美國將再遭失敗； 13.美威脅進一步提高對加關稅 加稱不接受不平等雙邊關係； 14.英首相稱已批准與烏分享導彈製造技術 俄稱將摧毀相關目標； 15.國際聯播快訊： （1）古特雷斯敦促各方合作儘快解決航運阻斷； （2）葉門胡塞武裝稱襲擊沙特油輪及軍事目標； （3）歐盟氣候機構稱全球日均海表溫度創新高； （4）法國南部遭龍捲風襲擊。
+
+---
+
+### 2026-08-25 19:47:51  #MKT News
+
+BNP Paribas granted an investment license to establish a regional headquarters in Saudi Arabia.
+
+---
+
+### 2026-08-25 19:47:45  #其他
+
+蒙特利爾銀行維持受損貸款損失撥備指引不變。
+
+---
+
+### 2026-08-25 19:47:14  #其他
+
+【中國國際紡織面料及輔料博覽會在滬開幕】8月25日，中國國際紡織面料及輔料（秋冬）博覽會在國家會展中心（上海）開幕。本屆博覽會展覽面積24萬平方米，匯聚來自國內外的數千家紡織行業參展商。（新華社）
+
+---
+
+### 2026-08-25 19:46:26  #公司
+
+【我國最大直徑水下盾構隧道建成通車】8月25日，由濟南城市建設集團投資建設、中鐵十四局施工的濟南黃崗路黃河隧道建成通車，標誌著我國最大直徑水下盾構隧道正式投入使用。濟南黃崗路黃河隧道全長約5.75公里，其中盾構段長約3.3公里，採用開挖直徑達17.5米的“山河號”盾構機施工。隧道為單洞雙層結構，上下層共設定六車道，設計時速60公里，是國內首條穿黃單洞雙層盾構隧道。（新華社）
+
+---
+
+### 2026-08-25 19:46:11  #公司 #市場
+
+【BOSS直聘：2026年第二季度營收23.99億元，經營利潤8.63億元】8月25日，BOSS直聘釋出2026年第二季度財報。報告期內，公司營收23.99億元，同比增長14.1%，相較上一季度明顯加速；其中來自企業客戶的招聘收入為23.84億元，同比上漲14.7%，佔總收入的99.4%。第二季度公司取得經營利潤8.63億元、經調整後經營利潤10.50億元。截至2026年6月30日止的十二個月內，公司付費企業客戶數達到720萬，同比上漲10.8%。同時公司宣佈了2.3億美元的派息計劃，派息資金全部源於公司賬面盈餘現金。派息完成後，公司年內透過派息和回購進行的股東回報總金額已超過上年經調整後淨利潤的100%。
+
+---
+
+### 2026-08-25 19:46:06  #市場 #焦點
+
+WTI原油失守82美元/桶，日內跌3.55%。
+
+---
+
+### 2026-08-25 19:45:52  #公司
+
+【華英農業：2026年上半年淨利潤虧損2928.25萬元，2025年同期虧損2063.15萬元】華英農業公告，2026年上半年營業收入23.72億元，同比增長14.52%；歸屬於上市公司股東的淨利潤虧損2928.25萬元，2025年同期虧損2063.15萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3510.2萬元，2025年同期虧損2598.09萬元。公司控股股東解散清算暨控制權擬發生變更事項已取得反壟斷審查不實施進一步審查決定書，仍在履行國有資產監督管理機構稽核備案程式，並待辦理股份非交易過戶手續。
+
+---
+
+### 2026-08-25 19:45:10  #其他
+
+BMO首席風險官稱，在貿易緊張局勢下，預計第四季度不良貸款撥備率將與第三季度持平。
+
+---
+
+### 2026-08-25 19:44:58  #MKT News
+
+UK two-year government bond yield fell 5 bps to 4.33% as the broader bond market rallied.
 
 ---
 
@@ -15301,53 +15433,5 @@ Agricultural Commodities Updates: Coffee Surges by 5.94% — Top commodity gaine
 ### 2026-08-25 02:24:43  #MKT News #Market Regions #Europe & UK
 
 【Macron meets Saudi crown prince Mohammed in Paris】French President Macron met Saudi Crown Prince Mohammed, who also serves as prime minister, at the Élysée Palace in Paris on Aug 24.
-
----
-
-### 2026-08-25 02:22:43  #國際
-
-【法國總統馬克龍會見沙特王儲穆罕默德】8月24日，在位於巴黎的法國總統府愛麗捨宮，法國總統馬克龍（右）迎接來訪的沙烏地阿拉伯王儲兼首相穆罕默德。（新華社）
-
----
-
-### 2026-08-25 02:22:16  #MKT News
-
-【France may ban mobile phones in high schools from start of autumn term】The French government said after a cabinet meeting on the 24th that a ban on mobile phone use in high schools could be implemented from the start of this autumn’s school term.
-
----
-
-### 2026-08-25 02:21:49  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Slides as US Tightens Iran Sanctions — Brent crude oil extended losses to trade below $92 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the measures are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could face sanctions this week and indicated that China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly.
-
----
-
-### 2026-08-25 02:21:19  #其他
-
-【法國或從今秋開學起實施高中手機禁令】法國政府發言人莫德·佈雷容24日在部長會議後通報說，高中禁止使用手機的措施可能從今年秋季開學起實施。（新華社）
-
----
-
-### 2026-08-25 02:20:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Surges by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.20%) and Gold (0.44%). Biggest losers are Silver (-0.70%) and Silicon (-0.63%).
-
----
-
-### 2026-08-25 02:18:14  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Prices Slide as US Expands Sanctions on Iran — Crude oil extended losses to trade below $85 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the sanctions are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly.
-
----
-
-### 2026-08-25 02:16:39  #MKT News
-
-Sources said Pakistan's army chief also met Iran's president and held talks.
-
----
-
-### 2026-08-25 02:15:49  #宏觀 #市場 #國際
-
-【美公佈多項針對伊朗經濟制裁】當地時間8月24日下午，北京時間今天（8月25日）凌晨，美國財長貝森特公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。特朗普政府宣佈擴大次級制裁範圍，將針對全球範圍內仍與伊朗保持商業往來的實體及國家實施制裁。在新聞釋出會上，貝森特推出了他所謂的“經濟諾曼底”行動。貝森特稱，“我們正在對伊朗的全球金融網路發動一場經濟猛攻。我們的目標是切斷維繫這個政權的每一條經濟命脈，直至德黑蘭陷入孤立。” 美國財政部稱“已摸清伊朗用於走私石油和規避制裁的網路、中間人及金融渠道”，並表示將與合作伙伴聯手，打擊伊朗任何“非法收入”來源。 美國財政部稱，已針對伊朗政權用以支撐經濟的五大領域——數字資產、技術、黃金、航空和航運——釋出相關制裁決定。美國財政部還對近60個實體、個人及船隻實施了制裁。（CCTV國際時訊）
 
 ---

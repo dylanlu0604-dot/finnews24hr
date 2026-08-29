@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-30 03:16:39_
-_本檔包含 3031 則快訊，約 554546 字_
+_更新時間：2026-08-30 05:25:55_
+_本檔包含 3018 則快訊，約 556222 字_
+
+---
+
+### 2026-08-25 02:22:43  #國際
+
+【法國總統馬克龍會見沙特王儲穆罕默德】8月24日，在位於巴黎的法國總統府愛麗捨宮，法國總統馬克龍（右）迎接來訪的沙烏地阿拉伯王儲兼首相穆罕默德。（新華社）
+
+---
+
+### 2026-08-25 02:22:16  #MKT News
+
+【France may ban mobile phones in high schools from start of autumn term】The French government said after a cabinet meeting on the 24th that a ban on mobile phone use in high schools could be implemented from the start of this autumn’s school term.
+
+---
+
+### 2026-08-25 02:21:49  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Slides as US Tightens Iran Sanctions — Brent crude oil extended losses to trade below $92 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the measures are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could face sanctions this week and indicated that China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly.
+
+---
+
+### 2026-08-25 02:21:19  #其他
+
+【法國或從今秋開學起實施高中手機禁令】法國政府發言人莫德·佈雷容24日在部長會議後通報說，高中禁止使用手機的措施可能從今年秋季開學起實施。（新華社）
+
+---
+
+### 2026-08-25 02:20:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Surges by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.20%) and Gold (0.44%). Biggest losers are Silver (-0.70%) and Silicon (-0.63%).
+
+---
+
+### 2026-08-25 02:18:14  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices Slide as US Expands Sanctions on Iran — Crude oil extended losses to trade below $85 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the sanctions are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly.
+
+---
+
+### 2026-08-25 02:16:39  #MKT News
+
+Sources said Pakistan's army chief also met Iran's president and held talks.
+
+---
+
+### 2026-08-25 02:15:49  #宏觀 #市場 #國際
+
+【美公佈多項針對伊朗經濟制裁】當地時間8月24日下午，北京時間今天（8月25日）凌晨，美國財長貝森特公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。特朗普政府宣佈擴大次級制裁範圍，將針對全球範圍內仍與伊朗保持商業往來的實體及國家實施制裁。在新聞釋出會上，貝森特推出了他所謂的“經濟諾曼底”行動。貝森特稱，“我們正在對伊朗的全球金融網路發動一場經濟猛攻。我們的目標是切斷維繫這個政權的每一條經濟命脈，直至德黑蘭陷入孤立。” 美國財政部稱“已摸清伊朗用於走私石油和規避制裁的網路、中間人及金融渠道”，並表示將與合作伙伴聯手，打擊伊朗任何“非法收入”來源。 美國財政部稱，已針對伊朗政權用以支撐經濟的五大領域——數字資產、技術、黃金、航空和航運——釋出相關制裁決定。美國財政部還對近60個實體、個人及船隻實施了制裁。（CCTV國際時訊）
 
 ---
 
@@ -18148,131 +18196,5 @@ Cathay Financial earnings above expectations at 2.38 TWD — Cathay Financial (2
 ### 2026-08-23 05:41:53  #國際
 
 【日本本州島5.8級地震已致多人受傷】日本本州島5.8級地震後，當地已出現多名傷者。截至當地時間4時，埼玉縣有9人受傷，截至當地時間5時，神奈川縣有3人受傷；此外，東京有人被玻璃劃傷。據東京消防廳訊息，截至當地時間23日3時，已接到約30起與地震有關的報警。
-
----
-
-### 2026-08-23 05:25:12  #國際
-
-美國貿易代表格里爾：美國原本可以暫停針對加拿大乳製品、葡萄酒的50%關稅。
-
----
-
-### 2026-08-23 05:23:15  #國際
-
-美國提議把（加拿大）鋁產品關稅由50%降至25%。
-
----
-
-### 2026-08-23 05:22:59  #國際
-
-美國提議將加拿大大部分鋼鐵產品關稅下調至25%。
-
----
-
-### 2026-08-23 05:22:32  #國際
-
-美國貿易代表格里爾駁斥加拿大總理卡尼有關美國報價誠意不足的說法。
-
----
-
-### 2026-08-23 05:18:46  #國際
-
-美國貿易代表格里爾：美國曾提議取消針對軟木木材的10%關稅。
-
----
-
-### 2026-08-23 05:17:18  #國際
-
-美國貿易代表格里爾：美加貿易談判中，汽車關稅原本最低可降至7%。
-
----
-
-### 2026-08-23 05:16:55  #國際
-
-美國貿易代表格里爾：美國曾提議下調金屬類關稅。
-
----
-
-### 2026-08-23 05:14:59  #公司 #國際
-
-市場資訊：俄羅斯國有原子能企業俄羅斯國家原子能公司（Rosatom）持續將工作人員派回伊朗布什爾核電站。
-
----
-
-### 2026-08-23 05:01:27  #其他
-
-市場資訊： 英國一家發電廠因駭客攻擊而停產4天。
-
----
-
-### 2026-08-23 04:54:06  #其他
-
-市場資訊：本次停電事故未對英國整體電力供應造成影響。
-
----
-
-### 2026-08-23 04:36:20  #國際
-
-【伊朗官員：任何參與對伊經濟限制的國家都被視為敵人】當地時間22日，伊朗最高國家安全委員會秘書雷扎伊表示，伊朗告訴世界各國，不要與美國一起對伊朗發動經濟戰。任何參與對伊朗實施經濟限制的國家，都被伊朗視為敵人。
-
----
-
-### 2026-08-23 04:26:15  #國際
-
-伊朗外長阿拉格齊與巴基斯坦陸軍參謀長阿西姆·穆尼爾於週六通電話，就地區局勢與安全議題展開磋商。
-
----
-
-### 2026-08-23 04:19:49  #其他
-
-葉門官方稱，曼德海峽發現一枚胡塞武裝佈設的水雷。
-
----
-
-### 2026-08-23 04:02:00  #央行 #國際
-
-【沃什將以美聯儲主席身份首次發表傑克遜霍爾講話】美聯儲主席凱文·沃什將於下週五在懷俄明州傑克遜霍爾年度經濟會議發表講話，投資者期待他闡明美國央行該如何應對頑固通脹，但目前尚不確定他是否會給出明確表態。這位主席的溝通策略開局坎坷。7月政策會議結束後，沃什幾乎沒有透露對經濟的看法，也未給出利率前瞻指引。投資者解讀其表態，認為他在推動通脹回落至目標水平方面決心不足，隨後長期債券收益率攀升至二十年來高位。
-
----
-
-### 2026-08-23 03:56:09  #其他
-
-【拉脫維亞遭遇嚴重風暴災害 超18萬使用者停電】拉脫維亞22日晚間遭遇強風暴，大量樹木或樹枝被折斷，配電網路遭到嚴重破壞，全國超過18萬使用者停電。
-
----
-
-### 2026-08-23 03:50:22  #國際
-
-特朗普之子埃裡克·特朗普：有關將推出新款特朗普迷因幣的傳言是虛假的，完全不實。
-
----
-
-### 2026-08-23 03:44:30  #公司 #國際
-
-【日本茨城縣5.9級地震 附近多處核設施暫未見異常】日本茨城縣南部23日凌晨發生5.9級地震，位於震中附近的多處核設施暫未發現異常。 日本廣播協會引述電力公司方面訊息稱，地震發生後，位於震中附近的福島第一和第二核電站、東海核電站和東海第二核電站目前暫未發現異常，核電站周邊輻射監測點的數值也未發生明顯變化。（新華社）
-
----
-
-### 2026-08-23 03:37:41  #公司 #國際
-
-【部分美國人工智慧公司下調大模型使用價格】近日，人工智慧大模型價格競爭日益激烈，多家美國人工智慧公司下調大模型使用價格。美國開放人工智慧研究中心OpenAI21日表示，當天起將把面向開發者端的前沿人工智慧大模型——GPT-5.6 Sol模型基準價格下調逾20%，調整後的優惠價格三個月有效。上月底，OpenAI還下調了旗下其他模型的價格。其中，中端模型的價格下調20%，低成本模型的價格下調80%。此外，字母表公司旗下的谷歌日前釋出了Gemini 3.7 Flash，並同步下調定價，價格約為上一版本的一半。有美媒分析認為，人工智慧大模型價格競爭日益激烈，來自中國的部分人工智慧公司的大模型的開源和定價策略給美國的公司帶來了壓力。（央視新聞）
-
----
-
-### 2026-08-23 03:32:24  #其他
-
-宣告顯示：加拿大總理卡尼闡述了保護加拿大利益的下一步措施，包括將在勞工節後的週二生效的對等反制關稅。
-
----
-
-### 2026-08-23 03:30:53  #其他
-
-宣告顯示：加拿大總理卡尼與各省及地區首長舉行視訊會議，討論暫停對美貿易談判事宜。
-
----
-
-### 2026-08-23 03:20:57  #國際
-
-伊朗最高安全官員雷扎伊：伊朗將打擊那些協助美國對伊朗發動經濟戰國家的利益。
 
 ---

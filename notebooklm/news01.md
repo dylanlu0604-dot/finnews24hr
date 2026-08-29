@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-30 03:16:39_
-_本檔包含 2391 則快訊，約 554718 字_
+_更新時間：2026-08-30 05:25:55_
+_本檔包含 2388 則快訊，約 556916 字_
+
+---
+
+### 2026-08-30 05:20:40  #MKT News
+
+【Iraq official: Iraq seeks to be 'bridge' between Iran and US】Iraq's prime minister's security adviser Qasim al-Araji told Al Jazeera that Iraq maintains good relations with both Iran and the US and seeks to act as a bridge to broker an agreement safeguarding regional interests. He added Iran has stressed the need to clear extremist groups from Iraqi territory.
+
+---
+
+### 2026-08-30 05:19:35  #其他
+
+馬斯克：市場普遍預估，2027年約15吉瓦的AI算力硬體即便生產出來，也無法在2027年投入執行。問題不只是獲取電力，還需要配套建設全部變壓器、佈線、液冷裝置、大型冷水機組以及複雜網路系統。
+
+---
+
+### 2026-08-30 05:15:43  #國際
+
+受美國關稅壓力影響，通用汽車工會協議擬向加拿大汽車工廠投資11億加元。
+
+---
+
+### 2026-08-30 05:08:57  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish #MU.O
+
+【SK Hynix open to US investment; sees global memory shortage through end-2030】SK Hynix said it is open to additional investment in the US semiconductor industry but has not made any decision. The company’s CEO forecast a global memory-chip shortage lasting through end-2030. SK Hynix is scouting global sites for R&D and testing; power supply, water resources and government incentives are key selection criteria. The company said it will consider any location that can provide sufficient infrastructure and signaled it hopes to deliver further positive developments for the US AI sector.
+
+---
+
+### 2026-08-30 04:53:38  #國際
+
+伊拉克總理安全顧問：伊朗方面強調有必要將極端組織逐出伊拉克。
+
+---
+
+### 2026-08-30 04:47:02  #國際
+
+伊拉克總理安全顧問：伊拉克尋求充當伊朗與美國之間的“橋樑”。
+
+---
+
+### 2026-08-30 04:46:45  #MKT News
+
+Iraqi prime minister's security adviser Qasim al-Araji said Iraq seeks to act as a "bridge" between Iran and the United States.
+
+---
+
+### 2026-08-30 04:42:56  #MKT News
+
+TASNIM News, citing Israeli broadcaster Kan, reported Riyadh pressed the U.S. for military action against Yemen's Houthi rebels, but Washington rejected the request.
+
+---
+
+### 2026-08-30 04:35:56  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+【Explosions heard in Kyiv】Explosions were heard in Kyiv; air-raid sirens had sounded earlier.
+
+---
+
+### 2026-08-30 04:35:33  #國際
+
+【烏克蘭首都基輔傳出爆炸聲】當地時間29日，烏克蘭首都基輔市內傳出爆炸聲。此前基輔拉響了防空警報。
+
+---
+
+### 2026-08-30 04:32:15  #國際
+
+美國國家颶風中心表示，熱帶風暴卡琳娜強度增強，接近颶風級別，並繼續進入更有利的環境。
+
+---
+
+### 2026-08-30 04:29:50  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iran's Press TV cited security sources saying reports of large volumes of oil being transported via the southern route of the Strait of Hormuz do not reflect reality. The report said allegations that the United States transports oil via the southern Hormuz route are a US tactic to lower energy prices.
+
+---
+
+### 2026-08-30 04:28:45  #國際
+
+伊朗訊息人士：有關大量石油經由霍爾木茲海峽南線外運的說法與現場實際情況不符，這是美國為壓低能源價格而採取的手段。對方試圖取道南線通行，而我方維持海峽封鎖的相關行動仍在切實開展；違規船隻遭到打擊、油輪收到警告後轉向，都可以證明這一點。倘若南線大量運油的說法屬實，那為何美國仍在施壓促成協議、維持封鎖，同時美國國內汽油價格還在持續走高？
+
+---
+
+### 2026-08-30 04:27:03  #MKT News
+
+【UAE central bank to inspect Banque Misr UAE branch after US sanctions】After the U.S. sanctioned Banque Misr’s UAE branch in an Iran-related action, the Central Bank of the UAE said it expects banks licensed in the UAE to “not expose the UAE financial system to reputational risk” or “abuse the UAE’s advanced financial infrastructure.” The central bank said it will carry out an emergency inspection of the local branch, reiterated that the branch is subject to UAE laws and regulations, and is “studying possible special measures” against the bank. The U.S. Treasury said the sanctions are part of intensified U.S. economic action targeting Iran and its international financial partners and will cut off the branch’s access to dollar transactions.
+
+---
+
+### 2026-08-30 04:24:35  #MKT News #WTI #Impact bullish #Brent
+
+【Iran says Strait of Hormuz "completely closed"; transit only with Iranian permission】Iran’s deputy foreign minister said the Strait of Hormuz is "completely closed" and no vessel may transit without coordination and permission from Tehran. He said Iran’s armed forces fully control movements in the strait and described US reports of ships transiting as false. Iran has reached an agreement with Oman on transit arrangements but said the strait will not reopen until the US fulfils its commitments. Tehran said it will continue defensive actions and is prepared for any scenario.
+
+---
+
+### 2026-08-30 04:19:40  #MKT News #WTI #Impact bullish #Brent
+
+Iran deputy foreign minister Gharibabadi said Iran's armed forces have full supervisory authority over all activity in the Strait of Hormuz, and U.S. claims about ships transiting the strait are entirely untrue.
+
+---
+
+### 2026-08-30 04:19:12  #MKT News #TSLA.O #Impact bullish #Copper
+
+Musk said SpaceX and Tesla are racing to build an annual solar build capacity of 100 GW, but will still need natural gas over the next few years to supplement and start up solar generation. He said the bottleneck for gas-turbine production is casting blades and guide vanes; bringing casting in-house at SpaceX could bring turbines online up to 18 months faster, a potentially transformative improvement.
+
+---
+
+### 2026-08-30 04:18:40  #焦點 #國際
+
+伊朗副外長加里巴巴迪：伊朗武裝部隊對霍爾木茲海峽內的一切活動擁有完全管轄權，美方有關船隻通行海峽的說法完全不實。
+
+---
+
+### 2026-08-30 04:17:27  #其他
+
+馬斯克：SpaceX和特斯拉正各自儘可能快地建設每年100吉瓦的太陽能產能，但未來數年仍需要天然氣為太陽能發電提供補充與啟動支撐。燃氣輪機生產的制約因素在於葉片與靜葉的鑄造。透過在SpaceX開展內部鑄造，我們最多可以將燃氣輪機的上線時間提前18個月，這將是一個重大的變革。
+
+---
+
+### 2026-08-30 04:12:54  #MKT News
+
+【Channel 12: Shin Bet says it urgently evacuated Netanyahu's eldest son from the U.S.】Channel 12 TV reported on 29, citing the Israel Security Agency (Shin Bet), that Shin Bet agents urgently evacuated Prime Minister Benjamin Netanyahu's eldest son Yair from Miami to Israel after assessing he faced a significant security threat. Shin Bet did not detail the threat. The report said agents were reassigned from President Isaac Herzog's New York detail to Miami to carry out the operation. Yair Netanyahu has long lived in Miami and is a prominent supporter of his father; his brother Avner lives in Israel.
+
+---
+
+### 2026-08-30 04:07:56  #市場 #焦點
+
+美國天然氣暗盤突破2.9美元，日內漲幅0.9%。
+
+---
+
+### 2026-08-30 04:03:56  #市場 #焦點
+
+紐約原油暗盤跌破83美元，日內跌超0.5%。
+
+---
+
+### 2026-08-30 03:58:57  #其他
+
+SpaceX：今日凌晨將獵鷹重型火箭轉運至肯尼迪航天中心39A發射臺，火箭搭載NASA羅曼空間望遠鏡，發射任務進入最終準備階段。
+
+---
+
+### 2026-08-30 03:56:54  #MKT News #Commodities #Energy #XOM.O #Impact bullish #CVX.O #WTI #Impact mixed
+
+【Warren accuses Trump of profiting-linked oil gains from US‑Iran war】Senator Elizabeth Warren accused President Trump of launching the US‑Iran war and said oil firms tied to him have profited. Democrats, citing Joint Economic Committee data and Trump’s financial disclosures through Q2 2026, said he continued trading oil and gas stocks during the conflict and that his disclosed energy holdings widened from a $13–46m range at the start of the year to $17–61m by mid‑August; the White House says Trump did not participate in the trades. Warren highlighted corporate results: ExxonMobil posted Q2 net income above $14.0bn, about double a year earlier, and Chevron’s Q2 profit rose roughly fourfold from the same period in 2025 to $12.1bn. She said ending the Iran war would lower gasoline prices.
+
+---
+
+### 2026-08-30 03:48:55  #焦點 #國際
+
+【伊朗副外長：伊阿達成霍爾木茲海峽共識，待美方履約後方可執行】伊朗副外長加里巴巴迪表示，伊朗與阿曼已就霍爾木茲海峽達成共識，但該共識要等到美國履行《伊斯蘭堡諒解備忘錄》項下承諾之後才會落地執行。加里巴巴迪週六稱：“霍爾木茲海峽目前仍處於關閉狀態，所有通行海峽的船隻都必須與伊朗方面協調。”他補充道：“我們會繼續採取防禦舉措，已做好應對任何局勢的準備。”談及卡達與巴基斯坦官員近期到訪伊朗，加里巴巴迪表示，訪問的目的是評估各方是否有可能恢復履行《伊斯蘭堡諒解備忘錄》中的各項承諾。
+
+---
+
+### 2026-08-30 03:45:22  #國際
+
+伊朗總統佩澤希齊揚：落實諒解備忘錄可阻止美以在（本）地區製造動盪。
+
+---
+
+### 2026-08-30 03:40:06  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Iran deputy foreign minister says not in a hurry to reopen Strait of Hormuz】On Aug. 29, Iran’s deputy foreign minister said Iran and Oman have reached an understanding on transit arrangements for the Strait of Hormuz, but the accord will not be implemented automatically. He said the understanding will not take effect unless the US fulfills its obligations, and Iran is not in a hurry to reopen the strait.
+
+---
+
+### 2026-08-30 03:39:45  #焦點 #國際
+
+【伊朗副外長稱不急於重新開放霍爾木茲海峽】當地時間8月29日，伊朗副外長加里巴巴迪表示，伊朗已與阿曼就霍爾木茲海峽通行安排達成諒解，但該諒解不會自動進入執行階段。加里巴巴迪表示，除非美國履行其義務，否則伊朗與阿曼就霍爾木茲海峽達成的諒解不會進入執行階段，伊朗不急於重新開放霍爾木茲海峽。（央視新聞）
+
+---
+
+### 2026-08-30 03:37:53  #MKT News #WTI #Impact bullish #Brent
+
+Iran's deputy foreign minister said the Strait of Hormuz will not be reopened quickly if the US does not fulfill its commitments.
+
+---
+
+### 2026-08-30 03:37:18  #MKT News
+
+Iran's deputy foreign minister said Tehran has made clear the steps the U.S. must take to return to the memorandum of understanding.
+
+---
+
+### 2026-08-30 03:36:44  #MKT News
+
+Iran's deputy foreign minister said Qatar and Pakistan are exploring the possibility of resuming implementation of a memorandum of understanding.
+
+---
+
+### 2026-08-30 03:27:45  #MKT News #Market Regions #Europe & UK #FTSE100 #Impact bearish #GBPUSD #Brent #Impact mixed
+
+【UK considers windfall tax on banks and oil firms】UK Chancellor Healy is weighing a windfall tax on banks and oil companies for her first budget. Treasury officials are discussing the measures as a way to plug a £4.7bn fiscal shortfall while avoiding direct increases in personal taxes. Healy is aiming for a low-key budget next month and for any unavoidable tax rises to be markedly smaller than those implemented under former chancellor Reeves.
+
+---
+
+### 2026-08-30 03:24:52  #國際
+
+市場資訊：波斯灣石油運輸量已恢復至戰前約70%水平。儘管伊朗石油出口依舊受限，但該情況幫助抑制了原油價格。
+
+---
+
+### 2026-08-30 03:24:40  #MKT News #Market Regions #Europe & UK
+
+【EU to act quickly on Spain's request for migration support】On Aug 29, EU commissioner for home affairs and migration Magnus Brunner said Spain has requested additional support — including the European Border and Coast Guard Agency (Frontex), Europol and the EU Agency for Asylum — to address a migration crisis. The Commission is processing the requests and will decide swiftly. Brunner said the immediate priority remains the rapid return of irregular migrants in the Spanish enclave of Ceuta, where thousands remain after a large late‑July mass crossing. Spain submitted the request on Aug 28.
+
+---
+
+### 2026-08-30 03:22:07  #其他 #焦點
+
+英國財政大臣希利：考慮對銀行與石油企業徵收暴利稅。
+
+---
+
+### 2026-08-30 03:19:06  #MKT News #Market Regions #Emerging Markets
+
+Fars News cites Iran's agriculture minister saying Iran has, for the first time and despite difficult wartime conditions, achieved self-sufficiency in chicken meat and is moving toward exports.
+
+---
+
+### 2026-08-30 03:16:57  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+【U.S. Embassy in Beirut: Hezbollah still refuses to negotiate disarmament with U.S. and Israel】U.S. Embassy in Beirut said Hezbollah remains unwilling to negotiate disarmament with the Lebanese government, the U.S. or Israel and is acting at Iran's direction. The embassy said it is already in dialogue with Beirut and that, should Hezbollah indicate readiness to hand over weapons, Washington could seek to narrow the parties' positions.
+
+---
+
+### 2026-08-30 03:16:37  #央行 #宏觀 #國際
+
+【美擬切斷米斯爾銀行代理行服務，阿聯酋央行啟動專項回溯審查】阿聯酋央行於週六釋出宣告，宣佈對本國境內運營的米斯爾銀行各分行啟動一項特別緊急審查。就在一天前，美國財政部提出限制措施，指控該銀行與伊朗影子銀行網路存在關聯交易。本次審查將開展司法層面的深度回溯核查，覆蓋美方提及的相關時段，重點核查美方宣告點名企業的相關交易。宣告稱，米斯爾銀行阿聯酋分行必須遵守當地法律法規；持牌銀行不得讓阿聯酋金融體系蒙受“聲譽風險”。阿聯酋央行同時表示，如果美國走完相關法律程式後最終落地這項擬議專項措施，當局正研究該銀行在阿聯酋境內的處置備選方案。美國財政部週五提出，切斷米斯爾銀行阿聯酋分行獲取美國金融機構代理行服務的渠道，理由是該分行涉伊朗影子銀行網路相關交易。
 
 ---
 
@@ -14224,251 +14452,5 @@ Alphabet Stock Price Hits 4-week Low — Alphabet shares decreased to 336.45 USD
 ### 2026-08-27 21:28:01  #MKT News #Market Regions #Europe & UK
 
 【Pentagon questionnaire presses European allies; seeks to accelerate transfer of defense duties】A senior Pentagon official said Washington, amid a review of U.S. force posture in Europe, wants to "advance and accelerate" transfer of most conventional defense responsibilities to European partners. Deputy Undersecretary for Policy Colby arrived in Brussels to brief NATO allies on a six-month review due to conclude by year-end that could substantially alter U.S. deployments in Europe. As part of the process allies received a questionnaire due this Friday asking whether they "publicly support" Trump’s foreign policy, whether they restrict use of U.S. military bases, and whether they purchase from U.S. defense contractors. Colby said the U.S. seeks allies' views in writing.
-
----
-
-### 2026-08-27 21:24:30  #宏觀
-
-瑞典財政部長認為，未來四年內，除國防和對烏支援外，仍有空間推出規模達500億瑞典克朗的無資金配套改革。
-
----
-
-### 2026-08-27 21:24:03  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Yemen's National Resistance Forces said Houthi militias earlier fired ballistic missiles at Red Sea islands and that the Resistance shot down a Houthi-launched drone over the Red Sea.
-
----
-
-### 2026-08-27 21:24:00  #市場
-
-【Veeva Systems美股盤前漲超10%】Veeva Systems美股盤前漲超10%，現報269.99美元。
-
----
-
-### 2026-08-27 21:23:51  #其他
-
-【西班牙軍車在休達遇襲 12人被捕】一輛西班牙軍車27日在該國北非飛地休達遭攻擊，1名士兵受傷，12名摩洛哥人因該事件被捕。（新華社）
-
----
-
-### 2026-08-27 21:22:29  #其他
-
-瑞典政府預計 2027‑2030 年預算措施存在 500 億瑞典克朗的調整空間。
-
----
-
-### 2026-08-27 21:22:13  #Trading Economics #Economy #Botswana #Interest Rate #Importance 0
-
-Botswana Leaves Monetary Policy Unchanged — The Bank of Botswana kept its benchmark rate steady at 5.5% on August 27, 2026, extending its pause in monetary policy after leaving rates unchanged in June. The decision keeps borrowing costs at their highest level since September 2017. Policymakers said risks to the inflation outlook remained tilted to the upside, while the growth outlook remained exposed to downside risks. Botswana's annual inflation rate fell to 9.4% in July 2026 from 10.7% previously, but stayed persistently above the 3-6% medium-term objective range. The MPC expects inflation to remain above its target range through Q1 2027, mainly due to supply-side pressures from higher fuel prices, electricity tariffs and related cost-push effects. Inflation is projected to average 7.9% in 2026 before easing to 4.9% in 2027.
-
----
-
-### 2026-08-27 21:22:09  #公司
-
-【濱化股份：2026年上半年淨利潤3.44億元，同比增長208.25%】濱化股份公告，2026年上半年營業收入82.6億元，同比增長12.32%；歸屬於上市公司股東的淨利潤3.44億元，同比增長208.25%，2025年上半年為1.11億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.86億元，2025年上半年虧損1327.52萬元，同比扭虧為盈。公司擬每10股派發現金紅利0.20元（含稅）。
-
----
-
-### 2026-08-27 21:21:47  #其他
-
-市場訊息：沙特安全和軍事代表團已抵達巴格達，將與伊拉克官員就加強邊境管控和情報合作進行會談。
-
----
-
-### 2026-08-27 21:21:26  #公司
-
-【宜明昂科-B：IMM2510聯合IMM27M II期完成首例給藥】宜明昂科-B公告，公司開展IMM2510（珀維拉芙普α）聯合IMM27M（泰澤蘇拜單抗）一線治療晚期肝細胞癌患者的II期臨床試驗，已順利完成首例患者給藥，旨在評估聯合療法的初步療效及安全性；該聯合療法Ib期臨床試驗已確定推薦II期劑量（RP2D）。
-
----
-
-### 2026-08-27 21:21:22  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-A Saudi security and military delegation has arrived in Baghdad to hold talks with Iraqi officials on strengthening border controls and intelligence cooperation.
-
----
-
-### 2026-08-27 21:21:15  #市場
-
-【西班牙3000年曆史黃金珍寶失竊 價值據悉可達170萬歐元】西班牙中世紀小鎮維列納的一家博物館發生盜竊案，一批擁有3000年曆史的珍貴文物在幾分鐘內被盜走，其中包括手鐲、碗、瓶子和其他主要由黃金製成的器物。這批文物於1963年被發現，可追溯至公元前1000年左右的青銅時代。“我們感到無比悲痛——我說話時還在發抖，”位於瓦倫西亞大區阿利坎特附近的維列納鎮鎮長富爾亨西奧·塞爾丹說道，“這是我們文化遺產的一部分。”塞爾丹表示，這些文物所含黃金的價值最高可達170萬歐元（約合200萬美元），但它們的歷史價值無法估量。西班牙國民警衛隊正在調查這起發生在週四凌晨的盜竊案，據信是由職業竊賊所為。去年法國盧浮宮也發生了一起轟動一時的盜竊案，當時一個名貴的古代皇冠被盜。
-
----
-
-### 2026-08-27 21:20:52  #MKT News #Market Regions #Emerging Markets
-
-Trader: Argentina's interbank peso weakened 0.33% to a record low of 1,520 per USD.
-
----
-
-### 2026-08-27 21:20:45  #其他
-
-加拿大皇家銀行麥凱稱，優先聚焦內生增長，其次才考慮併購。
-
----
-
-### 2026-08-27 21:20:42  #MKT News #Commodities #Precious Metals
-
-【3,000-year-old gold hoard stolen from Villena museum; value up to €1.7m】A set of 3,000-year-old gold artifacts was stolen in minutes from a museum in the medieval town of Villena, Alicante province, in the early hours of Thursday. The haul — bracelets, bowls, bottles and other mainly-gold items discovered in 1963 and dated to c.1000 BC (Bronze Age) — is estimated at up to €1.7m (about $2.0m) in gold value; historical value is incalculable. Spain's Guardia Civil is investigating; authorities say professional thieves are suspected.
-
----
-
-### 2026-08-27 21:20:28  #公司 #國際
-
-【日本福島核事故反應堆壓力容器底部存在約3米大洞】日本東京電力公司27日召開新聞釋出會說，發生堆芯熔燬的福島第一核電站3號反應堆壓力容器底部存在橢圓形大洞，最大直徑約3米。（新華社）
-
----
-
-### 2026-08-27 21:20:00  #市場
-
-交易員訊息：阿根廷銀行間比索貶值0.33%，跌至1比索兌1520兌1美元的歷史低位。
-
----
-
-### 2026-08-27 21:19:53  #MKT News
-
-A G20 ministerial meeting is scheduled next week in North Carolina, US.
-
----
-
-### 2026-08-27 21:19:30  #公司
-
-【*ST嶺南：2026年上半年營收同比降67.44% 淨虧2.84億元】*ST 嶺南公告稱，2026年上半年實現營業收入5823.83萬元，同比下降67.44%；歸屬於上市公司股東的淨虧損2.84億元，同比增虧121.35%；扣非淨虧損2.78億元，同比增虧116.82%。公司因2025年度業績不達標、內控審計被出具否定意見等被實施退市風險警示，疊加主要銀行賬戶凍結、持續經營能力存疑、財務造假事先告知等情形被實施其他風險警示，股票簡稱自2026年4月30日變更為*ST嶺南。截至公告披露日，原實控人尹洪衛非經營性資金佔用餘額1.49億元尚未歸還。
-
----
-
-### 2026-08-27 21:19:18  #MKT News #Market Regions #Greater China
-
-【China Chengtong Group chairman Xi Zhengping meets Changan Automobile chairman Zhu Huarong】Aug 27 — China Chengtong Group chairman Xi Zhengping met Changan Automobile chairman Zhu Huarong at Chengtong headquarters to discuss deepening cooperation. Chengtong said it will strengthen fund investment, asset management and technology-innovation cooperation aligned with Changan’s industrial, technology and supply chains to complement strengths and support national-strategy-driven high-quality development. Zhu said Changan expects to use the talks to expand collaboration on strategic emerging-industry project investment, listed-company capital operations and asset management.
-
----
-
-### 2026-08-27 21:18:47  #市場
-
-【機構：2026年第二季度東南亞智慧手機市場出貨量下降23%】Omdia最新研究顯示，2026年第二季度東南亞智慧手機市場出貨量同比下降23%，至1930萬部，創2014年以來最低季度出貨水平。儘管出貨量大幅下滑，但市場規模表現相對更具韌性，達到66億美元，平均售價（ASP）同比上漲31%，至342美元。
-
----
-
-### 2026-08-27 21:18:37  #公司
-
-【中國誠通董事長奚正平會見中國長安汽車董事長朱華榮】8月27日，中國誠通黨委書記、董事長奚正平在集團總部會見中國長安汽車黨委書記、董事長朱華榮一行，雙方就進一步深化合作進行深入交流。奚正平表示，中國誠通願圍繞中國長安汽車產業鏈、技術鏈、供應鏈所需，強化在基金投資、資產管理、科技創新等方面合作，實現優勢互補，在服務國家戰略中推動雙方高質量發展。朱華榮表示，期待雙方以本次會談為契機，圍繞戰略性新興產業專案投資、上市公司資本運作、資產管理等方面加強合作。
-
----
-
-### 2026-08-27 21:18:00  #公司
-
-【長川科技：2026年上半年營收34.61億元 擬10派1元】長川科技公告稱，2026年1-6月實現營業收入34.61億元，同比上升59.72%；歸屬於上市公司股東的淨利潤9.64億元，同比上升125.67%。公司擬以2026年6月30日總股本6.34億股為基數，每10股派發現金股利1元（含稅），不送紅股、不轉增股本。若股權登記日前總股本變動，將維持每股分配比例不變、調整分配總額。本次利潤分配預案尚需公司2026年第三次臨時股東會審議批准。
-
----
-
-### 2026-08-27 21:17:50  #公司
-
-【長川科技：半導體裝置研發專案增加兩家分公司為實施主體】長川科技公告稱，公司增加杭州長川科技股份有限公司北京分公司、成都分公司作為募投專案“半導體裝置研發專案”的共同實施主體，該專案擬投資總額、建設內容等均無其他變化。兩家分公司將設立募集資金專用賬戶，並與公司、保薦人、存放募集資金的商業銀行簽訂募集資金監管協議。本次事項已經公司董事會審議透過，無需提交股東會審議，保薦人華泰聯合證券對該事項無異議。
-
----
-
-### 2026-08-27 21:17:12  #MKT News
-
-Russian Foreign Ministry spokesman said Russia has provided no evidence to support the allegations.
-
----
-
-### 2026-08-27 21:16:44  #其他
-
-市場訊息：嘉信理財將擴大嘉信加密貨幣賬戶可交易數字資產範圍。
-
----
-
-### 2026-08-27 21:16:41  #MKT News
-
-Ukrainian Foreign Ministry spokesperson said Russia's allegation that Ukraine participated in the attack in Mali is a lie.
-
----
-
-### 2026-08-27 21:16:24  #MKT News
-
-Market sources said ELON MUSK will no longer have a speaking role at a G20 event.
-
----
-
-### 2026-08-27 21:16:14  #國際
-
-印度證券交易委員會主席：暫不考慮對 CAS 作出任何調整。
-
----
-
-### 2026-08-27 21:16:09  #Trading Economics #Markets #commodity #Importance 0
-
-Cocoa Hits 6-week High — Cocoa increased to 6229.00 USD/T, the highest since July 2026. Over the past 4 weeks, Cocoa gained 19.32%, and in the last 12 months, it decreased 19.8%.
-
----
-
-### 2026-08-27 21:16:08  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-Elon Musk and PCAST chair David Sacks will attend a G20 event alongside OpenAI founder Sam Altman and NVIDIA CEO Jensen Huang.
-
----
-
-### 2026-08-27 21:15:40  #國際
-
-烏克蘭外交部發言人表示，俄羅斯指控烏克蘭參與馬裡襲擊事件"純屬謊言"。
-
----
-
-### 2026-08-27 21:14:34  #其他
-
-市場訊息：馬斯克、戴維・薩克斯將與奧特曼、黃仁勳將共同出席 G20 活動。
-
----
-
-### 2026-08-27 21:11:55  #其他
-
-哥倫比亞今日將向國會提交 2027 年預演算法案。
-
----
-
-### 2026-08-27 21:11:46  #公司
-
-【國家電網全力開展西藏日喀則市吉隆縣泥石流災害應急搶險保電】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。 災害發生後，國家電網有限公司認真貫徹落實習近平總書記重要指示精神，第一時間排程部署，全力開展搶修覆電和供電保障工作，組織國網西藏電力迅速啟動泥石流災害一級應急響應，嚴格落實領導帶班、24小時應急值班制度，強化形勢研判、工作會商和現場督導，科學調配力量，做好受災地區供電服務保障和搶險救援電力供應工作。國網西藏電力迅速集結應急保電力量，截至27日4時，已有搶修人員85人、發電車7臺、發電機2臺、照明類裝備19臺到達吉隆鎮。同時，就近統籌調配應急保電人員30人，以及發電車5臺、發電機42臺、照明類裝備18臺，全方位夯實應急保電工作基礎，堅決打好吉隆泥石流災害應急保電攻堅戰。（國家電網）
-
----
-
-### 2026-08-27 21:11:20  #公司
-
-【恒大汽車：將於9月8日公佈財報 股票繼續停牌】恒大汽車(00708.HK)在港交所公告，本公司將於2026年9月8日（星期二）及2026年9月16日（星期三）舉行董事會會議，藉以（其中包括）審議及批准本集團的財務業績。於2026年9月8日舉行的會議上，董事會將審議及批准截至2024年及2025年12月31日止年度的年度業績，以及截至2025年6月30日止六個月的中期業績。於2026年9月16日舉行的會議上，董事會將審議及批准截至2026年6月30日止六個月的中期業績。公司繼續暫停買賣，直至進一步通知。
-
----
-
-### 2026-08-27 21:11:12  #公司
-
-【雷鐵喜將擔任贏創工業集團臨時CEO】8月27日，贏創工業集團監事會召開特別會議，任命雷鐵喜（Dr. Claus Rettig）為集團執行董事兼副董事長，自2026年9月1日起生效。現年66歲的雷鐵喜已在贏創工作30餘年，目前常駐新加坡，擔任贏創亞太區總裁併負責亞洲業務。在另行通知之前，他將代行贏創工業集團董事長兼執行長庫樂滿（Christian Kullmann）的相關職責。庫樂滿近期經歷了一次重大的突發手術，未來數週內將專注於康復修養。雷鐵喜將作為集團執行董事，繼續負責亞洲業務。
-
----
-
-### 2026-08-27 21:10:51  #MKT News
-
-Swedish government still expects GDP to grow 2.5% in 2027.
-
----
-
-### 2026-08-27 21:10:39  #MKT News
-
-Swedish government expects 2026 GDP to grow 2.5%, up from a 2.3% forecast in June.
-
----
-
-### 2026-08-27 21:10:21  #公司
-
-【五糧液銷售公司高層大變動 38歲營銷干將王源培升任董事長、總經理】宜賓五糧液酒類銷售有限責任公司（以下簡稱五糧液銷售公司）近期發生高管人事調整。五糧液銷售公司原副總經理王源培升任董事長、總經理。這位2024年年底才上任的五糧液股份公司副總經理，現年38歲，也是五糧液目前班子裡最年輕的高管。五糧液銷售公司其他人事變動包括：邱江濤、廖嵩新任副總經理，李小波同時出任董事、副總經理。該公司原董事長蔣佳、原總經理陳翀轉任董事，侯俊伊新增為董事，鍾道遠退出董事席位。
-
----
-
-### 2026-08-27 21:09:43  #其他
-
-市場訊息： 科威特與巴基斯坦簽署防務協議。
-
----
-
-### 2026-08-27 21:09:43  #MKT News
-
-Kuwait and Pakistan signed a defense agreement, Kuwait News Agency (KUNA) reported.
 
 ---

@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-30 03:16:39_
-_本檔包含 2786 則快訊，約 554799 字_
+_更新時間：2026-08-30 05:25:55_
+_本檔包含 2791 則快訊，約 555669 字_
+
+---
+
+### 2026-08-27 21:24:30  #宏觀
+
+瑞典財政部長認為，未來四年內，除國防和對烏支援外，仍有空間推出規模達500億瑞典克朗的無資金配套改革。
+
+---
+
+### 2026-08-27 21:24:03  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Yemen's National Resistance Forces said Houthi militias earlier fired ballistic missiles at Red Sea islands and that the Resistance shot down a Houthi-launched drone over the Red Sea.
+
+---
+
+### 2026-08-27 21:24:00  #市場
+
+【Veeva Systems美股盤前漲超10%】Veeva Systems美股盤前漲超10%，現報269.99美元。
+
+---
+
+### 2026-08-27 21:23:51  #其他
+
+【西班牙軍車在休達遇襲 12人被捕】一輛西班牙軍車27日在該國北非飛地休達遭攻擊，1名士兵受傷，12名摩洛哥人因該事件被捕。（新華社）
+
+---
+
+### 2026-08-27 21:22:29  #其他
+
+瑞典政府預計 2027‑2030 年預算措施存在 500 億瑞典克朗的調整空間。
+
+---
+
+### 2026-08-27 21:22:13  #Trading Economics #Economy #Botswana #Interest Rate #Importance 0
+
+Botswana Leaves Monetary Policy Unchanged — The Bank of Botswana kept its benchmark rate steady at 5.5% on August 27, 2026, extending its pause in monetary policy after leaving rates unchanged in June. The decision keeps borrowing costs at their highest level since September 2017. Policymakers said risks to the inflation outlook remained tilted to the upside, while the growth outlook remained exposed to downside risks. Botswana's annual inflation rate fell to 9.4% in July 2026 from 10.7% previously, but stayed persistently above the 3-6% medium-term objective range. The MPC expects inflation to remain above its target range through Q1 2027, mainly due to supply-side pressures from higher fuel prices, electricity tariffs and related cost-push effects. Inflation is projected to average 7.9% in 2026 before easing to 4.9% in 2027.
+
+---
+
+### 2026-08-27 21:22:09  #公司
+
+【濱化股份：2026年上半年淨利潤3.44億元，同比增長208.25%】濱化股份公告，2026年上半年營業收入82.6億元，同比增長12.32%；歸屬於上市公司股東的淨利潤3.44億元，同比增長208.25%，2025年上半年為1.11億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.86億元，2025年上半年虧損1327.52萬元，同比扭虧為盈。公司擬每10股派發現金紅利0.20元（含稅）。
+
+---
+
+### 2026-08-27 21:21:47  #其他
+
+市場訊息：沙特安全和軍事代表團已抵達巴格達，將與伊拉克官員就加強邊境管控和情報合作進行會談。
+
+---
+
+### 2026-08-27 21:21:26  #公司
+
+【宜明昂科-B：IMM2510聯合IMM27M II期完成首例給藥】宜明昂科-B公告，公司開展IMM2510（珀維拉芙普α）聯合IMM27M（泰澤蘇拜單抗）一線治療晚期肝細胞癌患者的II期臨床試驗，已順利完成首例患者給藥，旨在評估聯合療法的初步療效及安全性；該聯合療法Ib期臨床試驗已確定推薦II期劑量（RP2D）。
+
+---
+
+### 2026-08-27 21:21:22  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+A Saudi security and military delegation has arrived in Baghdad to hold talks with Iraqi officials on strengthening border controls and intelligence cooperation.
+
+---
+
+### 2026-08-27 21:21:15  #市場
+
+【西班牙3000年曆史黃金珍寶失竊 價值據悉可達170萬歐元】西班牙中世紀小鎮維列納的一家博物館發生盜竊案，一批擁有3000年曆史的珍貴文物在幾分鐘內被盜走，其中包括手鐲、碗、瓶子和其他主要由黃金製成的器物。這批文物於1963年被發現，可追溯至公元前1000年左右的青銅時代。“我們感到無比悲痛——我說話時還在發抖，”位於瓦倫西亞大區阿利坎特附近的維列納鎮鎮長富爾亨西奧·塞爾丹說道，“這是我們文化遺產的一部分。”塞爾丹表示，這些文物所含黃金的價值最高可達170萬歐元（約合200萬美元），但它們的歷史價值無法估量。西班牙國民警衛隊正在調查這起發生在週四凌晨的盜竊案，據信是由職業竊賊所為。去年法國盧浮宮也發生了一起轟動一時的盜竊案，當時一個名貴的古代皇冠被盜。
+
+---
+
+### 2026-08-27 21:20:52  #MKT News #Market Regions #Emerging Markets
+
+Trader: Argentina's interbank peso weakened 0.33% to a record low of 1,520 per USD.
+
+---
+
+### 2026-08-27 21:20:45  #其他
+
+加拿大皇家銀行麥凱稱，優先聚焦內生增長，其次才考慮併購。
+
+---
+
+### 2026-08-27 21:20:42  #MKT News #Commodities #Precious Metals
+
+【3,000-year-old gold hoard stolen from Villena museum; value up to €1.7m】A set of 3,000-year-old gold artifacts was stolen in minutes from a museum in the medieval town of Villena, Alicante province, in the early hours of Thursday. The haul — bracelets, bowls, bottles and other mainly-gold items discovered in 1963 and dated to c.1000 BC (Bronze Age) — is estimated at up to €1.7m (about $2.0m) in gold value; historical value is incalculable. Spain's Guardia Civil is investigating; authorities say professional thieves are suspected.
+
+---
+
+### 2026-08-27 21:20:28  #公司 #國際
+
+【日本福島核事故反應堆壓力容器底部存在約3米大洞】日本東京電力公司27日召開新聞釋出會說，發生堆芯熔燬的福島第一核電站3號反應堆壓力容器底部存在橢圓形大洞，最大直徑約3米。（新華社）
+
+---
+
+### 2026-08-27 21:20:00  #市場
+
+交易員訊息：阿根廷銀行間比索貶值0.33%，跌至1比索兌1520兌1美元的歷史低位。
+
+---
+
+### 2026-08-27 21:19:53  #MKT News
+
+A G20 ministerial meeting is scheduled next week in North Carolina, US.
+
+---
+
+### 2026-08-27 21:19:30  #公司
+
+【*ST嶺南：2026年上半年營收同比降67.44% 淨虧2.84億元】*ST 嶺南公告稱，2026年上半年實現營業收入5823.83萬元，同比下降67.44%；歸屬於上市公司股東的淨虧損2.84億元，同比增虧121.35%；扣非淨虧損2.78億元，同比增虧116.82%。公司因2025年度業績不達標、內控審計被出具否定意見等被實施退市風險警示，疊加主要銀行賬戶凍結、持續經營能力存疑、財務造假事先告知等情形被實施其他風險警示，股票簡稱自2026年4月30日變更為*ST嶺南。截至公告披露日，原實控人尹洪衛非經營性資金佔用餘額1.49億元尚未歸還。
+
+---
+
+### 2026-08-27 21:19:18  #MKT News #Market Regions #Greater China
+
+【China Chengtong Group chairman Xi Zhengping meets Changan Automobile chairman Zhu Huarong】Aug 27 — China Chengtong Group chairman Xi Zhengping met Changan Automobile chairman Zhu Huarong at Chengtong headquarters to discuss deepening cooperation. Chengtong said it will strengthen fund investment, asset management and technology-innovation cooperation aligned with Changan’s industrial, technology and supply chains to complement strengths and support national-strategy-driven high-quality development. Zhu said Changan expects to use the talks to expand collaboration on strategic emerging-industry project investment, listed-company capital operations and asset management.
+
+---
+
+### 2026-08-27 21:18:47  #市場
+
+【機構：2026年第二季度東南亞智慧手機市場出貨量下降23%】Omdia最新研究顯示，2026年第二季度東南亞智慧手機市場出貨量同比下降23%，至1930萬部，創2014年以來最低季度出貨水平。儘管出貨量大幅下滑，但市場規模表現相對更具韌性，達到66億美元，平均售價（ASP）同比上漲31%，至342美元。
+
+---
+
+### 2026-08-27 21:18:37  #公司
+
+【中國誠通董事長奚正平會見中國長安汽車董事長朱華榮】8月27日，中國誠通黨委書記、董事長奚正平在集團總部會見中國長安汽車黨委書記、董事長朱華榮一行，雙方就進一步深化合作進行深入交流。奚正平表示，中國誠通願圍繞中國長安汽車產業鏈、技術鏈、供應鏈所需，強化在基金投資、資產管理、科技創新等方面合作，實現優勢互補，在服務國家戰略中推動雙方高質量發展。朱華榮表示，期待雙方以本次會談為契機，圍繞戰略性新興產業專案投資、上市公司資本運作、資產管理等方面加強合作。
+
+---
+
+### 2026-08-27 21:18:00  #公司
+
+【長川科技：2026年上半年營收34.61億元 擬10派1元】長川科技公告稱，2026年1-6月實現營業收入34.61億元，同比上升59.72%；歸屬於上市公司股東的淨利潤9.64億元，同比上升125.67%。公司擬以2026年6月30日總股本6.34億股為基數，每10股派發現金股利1元（含稅），不送紅股、不轉增股本。若股權登記日前總股本變動，將維持每股分配比例不變、調整分配總額。本次利潤分配預案尚需公司2026年第三次臨時股東會審議批准。
+
+---
+
+### 2026-08-27 21:17:50  #公司
+
+【長川科技：半導體裝置研發專案增加兩家分公司為實施主體】長川科技公告稱，公司增加杭州長川科技股份有限公司北京分公司、成都分公司作為募投專案“半導體裝置研發專案”的共同實施主體，該專案擬投資總額、建設內容等均無其他變化。兩家分公司將設立募集資金專用賬戶，並與公司、保薦人、存放募集資金的商業銀行簽訂募集資金監管協議。本次事項已經公司董事會審議透過，無需提交股東會審議，保薦人華泰聯合證券對該事項無異議。
+
+---
+
+### 2026-08-27 21:17:12  #MKT News
+
+Russian Foreign Ministry spokesman said Russia has provided no evidence to support the allegations.
+
+---
+
+### 2026-08-27 21:16:44  #其他
+
+市場訊息：嘉信理財將擴大嘉信加密貨幣賬戶可交易數字資產範圍。
+
+---
+
+### 2026-08-27 21:16:41  #MKT News
+
+Ukrainian Foreign Ministry spokesperson said Russia's allegation that Ukraine participated in the attack in Mali is a lie.
+
+---
+
+### 2026-08-27 21:16:24  #MKT News
+
+Market sources said ELON MUSK will no longer have a speaking role at a G20 event.
+
+---
+
+### 2026-08-27 21:16:14  #國際
+
+印度證券交易委員會主席：暫不考慮對 CAS 作出任何調整。
+
+---
+
+### 2026-08-27 21:16:09  #Trading Economics #Markets #commodity #Importance 0
+
+Cocoa Hits 6-week High — Cocoa increased to 6229.00 USD/T, the highest since July 2026. Over the past 4 weeks, Cocoa gained 19.32%, and in the last 12 months, it decreased 19.8%.
+
+---
+
+### 2026-08-27 21:16:08  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7
+
+Elon Musk and PCAST chair David Sacks will attend a G20 event alongside OpenAI founder Sam Altman and NVIDIA CEO Jensen Huang.
+
+---
+
+### 2026-08-27 21:15:40  #國際
+
+烏克蘭外交部發言人表示，俄羅斯指控烏克蘭參與馬裡襲擊事件"純屬謊言"。
+
+---
+
+### 2026-08-27 21:14:34  #其他
+
+市場訊息：馬斯克、戴維・薩克斯將與奧特曼、黃仁勳將共同出席 G20 活動。
+
+---
+
+### 2026-08-27 21:11:55  #其他
+
+哥倫比亞今日將向國會提交 2027 年預演算法案。
+
+---
+
+### 2026-08-27 21:11:46  #公司
+
+【國家電網全力開展西藏日喀則市吉隆縣泥石流災害應急搶險保電】8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。 災害發生後，國家電網有限公司認真貫徹落實習近平總書記重要指示精神，第一時間排程部署，全力開展搶修覆電和供電保障工作，組織國網西藏電力迅速啟動泥石流災害一級應急響應，嚴格落實領導帶班、24小時應急值班制度，強化形勢研判、工作會商和現場督導，科學調配力量，做好受災地區供電服務保障和搶險救援電力供應工作。國網西藏電力迅速集結應急保電力量，截至27日4時，已有搶修人員85人、發電車7臺、發電機2臺、照明類裝備19臺到達吉隆鎮。同時，就近統籌調配應急保電人員30人，以及發電車5臺、發電機42臺、照明類裝備18臺，全方位夯實應急保電工作基礎，堅決打好吉隆泥石流災害應急保電攻堅戰。（國家電網）
+
+---
+
+### 2026-08-27 21:11:20  #公司
+
+【恒大汽車：將於9月8日公佈財報 股票繼續停牌】恒大汽車(00708.HK)在港交所公告，本公司將於2026年9月8日（星期二）及2026年9月16日（星期三）舉行董事會會議，藉以（其中包括）審議及批准本集團的財務業績。於2026年9月8日舉行的會議上，董事會將審議及批准截至2024年及2025年12月31日止年度的年度業績，以及截至2025年6月30日止六個月的中期業績。於2026年9月16日舉行的會議上，董事會將審議及批准截至2026年6月30日止六個月的中期業績。公司繼續暫停買賣，直至進一步通知。
+
+---
+
+### 2026-08-27 21:11:12  #公司
+
+【雷鐵喜將擔任贏創工業集團臨時CEO】8月27日，贏創工業集團監事會召開特別會議，任命雷鐵喜（Dr. Claus Rettig）為集團執行董事兼副董事長，自2026年9月1日起生效。現年66歲的雷鐵喜已在贏創工作30餘年，目前常駐新加坡，擔任贏創亞太區總裁併負責亞洲業務。在另行通知之前，他將代行贏創工業集團董事長兼執行長庫樂滿（Christian Kullmann）的相關職責。庫樂滿近期經歷了一次重大的突發手術，未來數週內將專注於康復修養。雷鐵喜將作為集團執行董事，繼續負責亞洲業務。
+
+---
+
+### 2026-08-27 21:10:51  #MKT News
+
+Swedish government still expects GDP to grow 2.5% in 2027.
+
+---
+
+### 2026-08-27 21:10:39  #MKT News
+
+Swedish government expects 2026 GDP to grow 2.5%, up from a 2.3% forecast in June.
+
+---
+
+### 2026-08-27 21:10:21  #公司
+
+【五糧液銷售公司高層大變動 38歲營銷干將王源培升任董事長、總經理】宜賓五糧液酒類銷售有限責任公司（以下簡稱五糧液銷售公司）近期發生高管人事調整。五糧液銷售公司原副總經理王源培升任董事長、總經理。這位2024年年底才上任的五糧液股份公司副總經理，現年38歲，也是五糧液目前班子裡最年輕的高管。五糧液銷售公司其他人事變動包括：邱江濤、廖嵩新任副總經理，李小波同時出任董事、副總經理。該公司原董事長蔣佳、原總經理陳翀轉任董事，侯俊伊新增為董事，鍾道遠退出董事席位。
+
+---
+
+### 2026-08-27 21:09:43  #其他
+
+市場訊息： 科威特與巴基斯坦簽署防務協議。
+
+---
+
+### 2026-08-27 21:09:43  #MKT News
+
+Kuwait and Pakistan signed a defense agreement, Kuwait News Agency (KUNA) reported.
 
 ---
 
@@ -16593,221 +16839,5 @@ HKEX filing: Tencent Holdings (00700.HK) repurchased 672,000 shares on Aug 26 fo
 ### 2026-08-26 17:37:57  #公司
 
 【春雪食品：2026年上半年淨利潤2045.99萬元，同比增長43.31%】春雪食品公告，2026年上半年營業收入13.51億元，同比增長9.79%；歸屬於上市公司股東的淨利潤2045.99萬元，同比增長43.31%，2025年同期為1427.65萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1862.84萬元，同比增長38.39%，2025年同期為1346.08萬元。
-
----
-
-### 2026-08-26 17:37:43  #公司
-
-【因內部控制薄弱導致案件發生，貴陽銀行普安支行被罰款45萬元】近日，貴陽銀行股份有限公司普安支行因內部控制薄弱導致案件發生，被罰款45萬元，相關責任人分別被禁止終身從事銀行業工作、警告並罰款。8月14日，國家金融監督管理總局貴州監管局公佈的黔西南監管分局行政處罰資訊公開表（黔西南金罰決字〔2026〕12-14號）顯示，因內部控制薄弱，導致案件發生，貴陽銀行股份有限公司普安支行被處以罰款45萬元的行政處罰；時任貴陽銀行股份有限公司普安支行綜合櫃員周胤鑫被禁止終身從事銀行業工作；時任貴陽銀行股份有限公司普安支行行長彭芳被警告並罰款5萬元。（澎湃）
-
----
-
-### 2026-08-26 17:36:25  #公司
-
-【讀者傳媒：2026年上半年淨利潤3235.18萬元，同比下降16.20%】讀者傳媒公告，2026年上半年營業收入3.37億元，同比下降18.75%；歸屬於上市公司股東的淨利潤3235.18萬元，同比下降16.20%，2025年同期為3860.47萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2310.44萬元，同比下降1.30%。公司擬每10股派發現金紅利0.15元（含稅），合計派發現金紅利人民幣864萬元（含稅）。
-
----
-
-### 2026-08-26 17:36:23  #公司
-
-【銅冠銅箔：2026年上半年淨利潤2.15億元，同比增長514.75%】銅冠銅箔公告，2026年上半年營業收入40.21億元，同比增長34.16%；歸屬於上市公司股東的淨利潤2.15億元，同比增長514.75%，2025年同期為3495.4萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.07億元，同比增長754.21%。公司擬以8.26億為基數，向全體股東每10股派發現金紅利0.6元（含稅），送紅股0股（含稅），不以公積金轉增股本。
-
----
-
-### 2026-08-26 17:36:20  #公司
-
-【銅冠銅箔：聘任朱燾為公司董事會秘書】銅冠銅箔公告稱，公司於2026年8月26日召開第三屆董事會第三次會議，審議透過聘任朱燾擔任公司董事會秘書，任期自本次會議審議透過之日起至第三屆董事會任期屆滿之日止。朱燾已取得深圳證券交易所頒發的董事會秘書資格證書，任職資格符合相關規定。截至公告日，朱燾未直接持有公司股份，與公司持股5%以上股東及其他董事、高階管理人員不存在關聯關係，不存在相關法規規定的不得任職情形。
-
----
-
-### 2026-08-26 17:36:15  #公司
-
-【跨境通：2026年上半年淨利潤1.85億元，同比扭虧為盈】跨境通公告，2026年上半年營業收入25.65億元，同比下降2.51%；歸屬於上市公司股東的淨利潤1.85億元，2025年同期虧損588.07萬元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤2221.4萬元，2025年同期虧損692.42萬元，同比扭虧為盈。報告期內，因深圳颯芙破產清算，公司已喪失對其控制權，深圳颯芙不再納入合併報表範圍。
-
----
-
-### 2026-08-26 17:36:01  #公司
-
-【中文傳媒：2026年上半年淨利潤2.89億元，同比下降0.70%】中文傳媒公告，2026年上半年營業收入30.9億元，同比下降12.39%；歸屬於上市公司股東的淨利潤2.89億元，同比下降0.70%，2025年同期為2.91億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.07億元，2025年同期為2119.75萬元，同比由盈轉虧。
-
----
-
-### 2026-08-26 17:35:31  #其他
-
-據港交所披露，8月26日，中國石化回購230萬股H股，斥資1100萬港元。
-
----
-
-### 2026-08-26 17:35:23  #MKT News
-
-Russia's president and Syria's president said they were willing to deepen dialogue and expand economic cooperation, TASS reported.
-
----
-
-### 2026-08-26 17:34:46  #公司
-
-【豫光金鉛：2026年上半年淨利潤5.45億元，同比增長12.46%】豫光金鉛公告，2026年上半年營業收入342.73億元，同比增長52.73%；歸屬於上市公司股東的淨利潤5.45億元，同比增長12.46%，2025年同期為4.85億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.67億元，同比增長3.29%。
-
----
-
-### 2026-08-26 17:34:40  #公司
-
-【大北農：2026年上半年淨利潤虧損6.77億元，同比由盈轉虧】大北農公告，2026年上半年營業收入138.11億元，同比增長1.86%；歸屬於上市公司股東的淨利潤虧損6.77億元，上年同期為2.35億元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損6.56億元，上年同期為1.71億元，同比由盈轉虧。
-
----
-
-### 2026-08-26 17:34:37  #公司
-
-【北方長龍：2026年上半年淨利潤虧損2681.06萬元，上年同期虧損109.36萬元】北方長龍公告，2026年上半年營業收入5117.56萬元，同比下降21.23%；歸屬於上市公司股東的淨利潤虧損2681.06萬元，2025年同期虧損109.36萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2941.21萬元，2025年同期虧損303.3萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-26 17:34:29  #MKT News
-
-Kremlin said it is too early to assess whether contacts between the CIA director and Russian intelligence agencies will ease the crisis in U.S.-Russia relations.
-
----
-
-### 2026-08-26 17:33:53  #公司
-
-【益民集團：2026年半年度淨利潤虧損1.33億元，同比由盈轉虧】益民集團公告，2026年半年度營業收入3.05億元，同比下降16.72%；歸屬於上市公司股東的淨利潤虧損1.33億元，2025年同期為2430.92萬元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤2638.34萬元，同比增長53.04%。
-
----
-
-### 2026-08-26 17:33:46  #MKT News
-
-Japanese Prime Minister Takaichi met Kuwait Foreign Minister Jarrah Jabir Ahmad Sabah, welcomed his visit and said Japan is willing to actively contribute to strengthening economic and energy resilience among GCC member states.
-
----
-
-### 2026-08-26 17:33:30  #公司
-
-【永新光學：2026年上半年淨利潤9552.41萬元，同比下降11.80%】永新光學公告，2026年上半年營業收入5.64億元，同比增長28.00%；歸屬於上市公司股東的淨利潤9552.41萬元，同比下降11.80%，2025年上半年為1.08億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7779.69萬元，同比下降11.29%，2025年上半年為8769.49萬元。公司2026年上半年不進行利潤分配或公積金轉增股本。
-
----
-
-### 2026-08-26 17:33:26  #公司
-
-【必得科技：2026年上半年淨利潤2122萬元，同比下降5.58%】必得科技公告，2026年上半年營業收入1.88億元，同比下降11.76%；歸屬於上市公司股東的淨利潤2122萬元，同比下降5.58%，2025年同期為2247.51萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2017.04萬元，同比下降9.39%，2025年同期為2226.11萬元。
-
----
-
-### 2026-08-26 17:33:05  #MKT News
-
-Kremlin says Putin had no contact with the US CIA director.
-
----
-
-### 2026-08-26 17:32:51  #其他
-
-【2026年全國原材料工業座談會在浙江寧波召開】2026年全國原材料工業座談會8月25日在浙江省寧波市召開。會議指出，“十五五”時期，工業和資訊化系統要錨定基本實現新型工業化目標，統籌國內國際兩個大局，統籌發展和安全，以推動高質量發展為主題，以改革創新為根本動力，充分發揮原材料工業在傳統產業最佳化提升、新興產業和未來產業培育壯大中的重要作用，著力推進相關傳統產業最佳化提升、先進材料產業創新發展、資源產業安全保障，因地制宜培育發展新質生產力，全面提高智慧化、綠色化、融合化發展水平，推動原材料工業從規模領先向全面領先跨越。
-
----
-
-### 2026-08-26 17:32:29  #公司
-
-【賽維時代：2026年上半年淨利潤1.66億元，同比下降2.06%】賽維時代公告，2026年上半年營業收入62.01億元，同比增長16.01%；歸屬於上市公司股東的淨利潤1.66億元，同比下降2.06%，2025年同期為1.69億元；扣除非經常性損益的淨利潤1.72億元，同比下降7.32%。公司擬以4.06億股為基數，每10股派發現金紅利2.5元（含稅）。
-
----
-
-### 2026-08-26 17:32:26  #公司
-
-【明星電力：2026年上半年淨利潤5309.3萬元，同比下降27.98%】明星電力公告，2026年上半年營業收入15.58億元，同比增長2.25%；歸屬於上市公司股東的淨利潤5309.3萬元，同比下降27.98%，2025年同期7372.39萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4388.2萬元，同比下降38.53%。
-
----
-
-### 2026-08-26 17:32:13  #MKT News
-
-Kremlin says Kyiv regime is self-destructing.
-
----
-
-### 2026-08-26 17:32:04  #MKT News
-
-The Kremlin, commenting on the dismissed Ukrainian defense minister, said Ukraine appears to be slowly losing the war.
-
----
-
-### 2026-08-26 17:31:55  #公司
-
-【中基協：7月底境內公募管理的公募基金資產淨值合計39.11萬億元】中基協釋出資料，截至2026年7月底，我國境內公募基金管理機構共165家，其中基金管理公司150家，取得公募資格的資產管理機構15家。以上機構管理的公募基金資產淨值合計39.11萬億元。
-
----
-
-### 2026-08-26 17:31:54  #MKT News #9988.HK #Impact bullish #0981.HK
-
-Southbound flows net bought CNY 453 mln today. On Shanghai Stock Connect, Yangtze Optical Fibre & Cable and SMIC were net bought HKD 403 mln and HKD 395 mln respectively; Huahong Hongli was the largest net seller at HKD 206 mln. On Shenzhen Stock Connect, Alibaba (HK-listed) and Yangtze Optical Fibre & Cable were net bought HKD 827 mln and HKD 631 mln; Innovent Biologics led net sales at HKD 521 mln.
-
----
-
-### 2026-08-26 17:31:53  #MKT News #Market Regions #Greater China
-
-【Asset Management Association of China: domestic publicly offered fund managers' NAV 39.11 trillion yuan at end-July 2026】Asset Management Association of China data show that as of end-July 2026 there were 165 domestic publicly offered fund management institutions — 150 fund management companies and 15 asset managers with public-fund qualifications — managing a combined net asset value of 39.11 trillion yuan.
-
----
-
-### 2026-08-26 17:31:48  #公司
-
-【陝西黑貓：2026年上半年淨利潤虧損3.66億元，上年同期虧損4.62億元】陝西黑貓公告，2026年上半年營業收入50.51億元，同比下降3.49%；歸屬於上市公司股東的淨利潤虧損3.66億元，上年同期虧損4.62億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3.75億元，上年同期虧損5.21億元。公司2026年半年度報告未經審計。
-
----
-
-### 2026-08-26 17:31:44  #公司
-
-【神工股份：2026年上半年淨利潤4108.54萬元，同比下降15.87%】神工股份公告，2026年上半年營業收入2.16億元，同比增長3.78%；歸屬於上市公司股東的淨利潤4108.54萬元，同比下降15.87%，2025年同期為4883.79萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3768.77萬元，同比下降21.47%，2025年同期為4798.99萬元。
-
----
-
-### 2026-08-26 17:31:28  #國際
-
-克里姆林宮回應美國中情局局長訪問莫斯科一事：普京已獲悉此事。
-
----
-
-### 2026-08-26 17:31:12  #其他
-
-克里姆林宮：現在斷言美俄關係中的嚴重危機能否化解，還為時過早。
-
----
-
-### 2026-08-26 17:30:55  #國際
-
-克里姆林宮回應美國中情局局長訪問莫斯科一事：雙方情報部門的接觸仍在繼續。
-
----
-
-### 2026-08-26 17:30:54  #MKT News
-
-The Kremlin said President Putin has been informed of reports that the CIA director visited Moscow and that contacts between intelligence agencies continue.
-
----
-
-### 2026-08-26 17:30:41  #其他
-
-【西藏吉隆口岸轄區國門方向實施臨時交通管制】記者從西藏日喀則市公安局吉隆口岸分局交通管理大隊獲悉，受26日突發泥石流災害影響，吉隆口岸轄區國門區域道路出現泥石流險情，道路不具備安全通行條件，自即日起對前往吉隆口岸國門方向道路實施雙向臨時交通管制，管制期限7天。8月26日10時30分許，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。據瞭解，管制路段為吉隆鎮至國門方向路段。管制方式實行雙向封閉管制，除應急搶險、救援保障車輛外，禁止一切社會車輛、人員通行。管制措施提前解除或者需要延長管制時間，將另行釋出通告。(新華社)
-
----
-
-### 2026-08-26 17:30:28  #國際
-
-克里姆林宮：基輔政權正在從內部自我毀滅。
-
----
-
-### 2026-08-26 17:30:26  #MKT News #DXY #Impact bullish #XAUUSD
-
-Kremlin says it is currently impossible to determine whether the deep crisis in U.S.-Russia relations can be overcome.
-
----
-
-### 2026-08-26 17:30:18  #國際
-
-針對被解職的烏克蘭國防部長關於“烏克蘭似乎正在慢慢輸掉戰爭”的言論，克里姆林宮回應稱：烏克蘭絕對正在輸掉這場戰爭。
-
----
-
-### 2026-08-26 17:29:17  #公司
-
-【東睦股份：2026年上半年淨利潤2億元，同比下降23.16%】東睦股份公告，2026年上半年營業收入30.79億元，同比增長5.11%；歸屬於上市公司股東的淨利潤2億元，同比下降23.16%，2025年同期為2.61億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.87億元，同比下降25.04%，2025年同期為2.5億元。公司擬每股派發現金紅利0.10元人民幣（含稅），不進行資本公積轉增股本。
 
 ---
