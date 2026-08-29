@@ -1,7 +1,55 @@
 {
   "date": "2026-08-29",
-  "count": 722,
+  "count": 728,
   "items": [
+    {
+      "id": "mkt:01a04cf2-1e5b-7aab-917d-c214cf663b38",
+      "time": "2026-08-29 17:55:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gunfire resumes in central Niamey, Niger】Local time Aug 29: after intense overnight gun battles in Niamey, calm briefly returned around 07:00 but gunfire resumed after 09:00. Security in the capital has deteriorated and residents are in panic. Armed confrontations continue across Niamey and the city is not effectively under control; multiple districts reported sustained gunshots and explosions from the early hours of Aug 29."
+    },
+    {
+      "id": "5066310",
+      "time": "2026-08-29 17:55:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都提出到2030年服務業規模力爭超2萬億元】29日從成都市服務業大會獲悉，會議提出到2030年成都服務業增加值年均增速5%以上、規模超過2萬億元，力爭把服務業打造成全市經濟增量的主導引擎、城市功能的重要載體、創新迭代的活力源泉。在行業體系上，強化圈鏈思維，創新構建“4+4+3+N”服務業新體系。成都重點發展科技服務、軟體資訊、商務服務、低碳環保四大生產性服務業，聚焦特色商業、文體旅遊、健康服務、居民服務四大生活性服務業，夯實現代金融、現代物流、平臺經濟三大支撐性服務業，前瞻佈局詞元服務、汽車後市場等46條新興賽道，力爭打造十個以上千億級服務業叢集，培育更多“成都服務”品牌。空間佈局上，構築“一核牽引、兩區拓展、三軸聯動、N點支撐”新格局。（新華財經）"
+    },
+    {
+      "id": "mkt:01a04cf1-cd1c-7aab-917d-b9cf2ef531ff",
+      "time": "2026-08-29 17:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chengdu targets >2 trillion yuan service sector by 2030】Chengdu aims to raise service-sector value added annual growth to above 5% and expand sector scale past 2 trillion yuan by 2030, positioning services as the city’s main growth engine. The plan prioritizes four production-oriented service clusters—technology services, software and information, business services and low‑carbon/environmental services—and four consumer service clusters—specialty retail, cultural/sports/tourism, healthcare and household services—backed by modern finance, modern logistics and platform economy. Authorities plan to cultivate more than ten service clusters each exceeding 100 billion yuan and develop 46 emerging tracks including token services and the automotive aftermarket. Spatial strategy follows a “one‑core, two‑zone, three‑axis, N‑point” layout to guide future infrastructure and industrial zoning."
+    },
+    {
+      "id": "5066309",
+      "time": "2026-08-29 17:54:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼日首都核心區再傳槍聲】當地時間8月29日，尼日首都尼亞美在經歷一夜劇烈槍戰後，於上午7時左右短暫恢復平靜，然而9時後槍聲再次響起。首都安全域性勢再度惡化，當地居民陷入恐慌。目前，尼亞美市內的武裝對峙仍在持續，首都局勢尚未得到有效控制。"
+    },
+    {
+      "id": "5066308",
+      "time": "2026-08-29 17:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中吉商務與投資論壇在吉爾吉斯斯坦首都比什凱克舉辦】28日，在中國貿促會組織中國企業家代表團訪問吉爾吉斯斯坦期間，中吉商務與投資論壇在吉爾吉斯斯坦首都比什凱克舉辦。中國貿促會會長任鴻斌表示，此次中國貿促會組織100餘名企業家訪吉並舉辦中吉商務與投資論壇，旨在落實兩國元首重要共識，推動中吉企業合作取得更多務實成果。中國貿促會願積極發揮橋樑紐帶作用，有針對性組織更多貿易促進活動，支援雙方企業打造服務貿易、數字貿易、跨境電商等新增長點，拓展貿易合作新空間；用好中國國際供應鏈促進博覽會平臺，邀請吉方更多企業和機構參展參會，不斷加強產供鏈精準對接，激發產供鏈合作新動能；與吉對口機構在中國—中亞實業家委員會等機制框架下深化合作，放大多雙邊工商合作機制功能，助力高質量共建“一帶一路”。"
+    },
+    {
+      "id": "5066307",
+      "time": "2026-08-29 17:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“沙德爾”深入贛湘 國家防總辦公室、應急管理部持續排程部署防範應對工作】8月29日，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房城鄉建設部、交通運輸部等部門以及湖南、江西等重點省份聯合會商，研判風情汛情災情，對防汛防颱風工作進行再部署。國家防總辦公室主任、應急管理部副部長兼水利部副部長陳敏主持會商。 會商指出，颱風“沙德爾”目前位於江西境內，將繼續向西移動進入湖南。受其影響，今明兩天江西西部、湖南南部、廣西東北部部分地區將有大暴雨，局地特大暴雨；江蘇、安徽等地持續降雨，累計雨量大。上述地區山洪和地質災害、中小河流洪水風險較高。 （應急管理部）"
+    },
     {
       "id": "mkt:01a04cec-46a2-7aab-917d-b7dd5d6bfb8a",
       "time": "2026-08-29 17:49:07",
