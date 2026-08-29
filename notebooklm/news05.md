@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-29 23:52:26_
-_本檔包含 3062 則快訊，約 553192 字_
+_更新時間：2026-08-30 03:16:39_
+_本檔包含 3031 則快訊，約 554546 字_
+
+---
+
+### 2026-08-25 02:15:02  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-5.07%), Propane (-2.89%), Brent Crude Oil (-2.58%) and Crude Oil WTI (-2.54%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.95%) and Germany Natural Gas THE (3.61%).
+
+---
+
+### 2026-08-25 02:14:02  #MKT News #Market Themes #The Trump Trade
+
+【Iran says Trump's economic pressure campaign is "psychological warfare"】Tasnim quoted a senior Iranian intelligence official saying Trump’s economic pressure campaign is largely a media-driven "psychological warfare" aimed at increasing domestic pressure. The official said the US has already used all available tools, including primary and secondary sanctions and maritime blockades, and characterized Trump’s remarks about striking infrastructure and "opening the Strait of Hormuz" as propaganda rather than imminent action. He added such moves are often timed before market open to influence energy prices and are subsequently followed by conciliatory statements or regional mediation; Iran sees the campaign’s concurrence with a Pakistani mediator visit as a recurring public-pressure pattern, not evidence of substantive new measures.
+
+---
+
+### 2026-08-25 02:11:10  #MKT News #WTI #Impact mixed #Brent
+
+CENTCOM said as of Aug. 24 it had forced 71 commercial vessels to divert, disabled three vessels, and boarded and inspected two to ensure compliance. More than 40 vessels carrying humanitarian aid were permitted to proceed.
+
+---
+
+### 2026-08-25 02:10:47  #MKT News #Market Themes #The Trump Trade
+
+【Trump says "will no longer allow Canada to take advantage of the U.S.", warns of tougher measures】U.S. President Trump, on Truth Social, criticized Ontario Premier Doug Ford and accused Canada of decades of relying on U.S. support, saying the U.S. "will always be bigger, richer, stronger" and that Canada could not survive without it. He accused Prime Minister Carney and Ford of prompting corporate outflows, said Canadian power, oil and gas rely on transport through the U.S., and warned Canada would face "more serious consequences" if it does not "play by the rules." Trump also claimed Canadian unemployment has risen to 10% and is still climbing, asserted businesses are moving to the U.S., and said "the days of hurting U.S. farmers and businesses are over."
+
+---
+
+### 2026-08-25 02:09:24  #國際
+
+市場訊息：巴基斯坦陸軍參謀長同伊朗總統舉行會見並會談。
+
+---
+
+### 2026-08-25 02:09:12  #市場
+
+現貨白銀日內跌1%，現報68.28美元/盎司。
+
+---
+
+### 2026-08-25 02:08:58  #國際
+
+美國中央司令部：截至 8 月 24 日，美國中央司令部部隊已迫使 71 艘商船改道，扣押 3 艘船隻，並登船檢查 2 艘，確保各方遵守封鎖規定。已有 40 餘艘運送人道主義援助物資的船隻獲准通行。
+
+---
+
+### 2026-08-25 02:06:45  #國際
+
+【特朗普：加拿大應該“服從”，否則將面臨更嚴重後果】美國總統特朗普：加拿大安大略省省長大放諸多 “虛張聲勢的狠話”。幾十年來，美國一直在為加拿大兜底，但這種局面到此為止！美國無論體量、財富還是實力，永遠遠勝於加拿大。離開了美國，加拿大將難以為繼 —— 加拿大的全部財源都仰仗美國。而如今加拿大領導層表現糟糕，主要是卡尼總理，再加上他的跟班福特，加拿大不能再繼續佔美國的便宜，而美國恰恰是加拿大賴以生存的關鍵。
+要記住，加拿大大量電力、石油與天然氣都要經由美國境內輸送。得有人讓這群荒唐政客乖乖就範，否則加拿大將要承受的後果會嚴重得多！加拿大當前失業率已達 10%，並且還在快速攀升。當地企業紛紛遷往美國，這一切都源於政策失效與執政能力低下。加拿大壓榨美國農民及其他企業的日子已經一去不復返！
+
+---
+
+### 2026-08-25 02:05:01  #MKT News
+
+Trump called Ontario Premier Ford’s remarks "grandstanding", accused Canada of long-term dependence on the United States and warned Canada would face more serious consequences if it did not change its policies.
+
+---
+
+### 2026-08-25 02:04:36  #MKT News
+
+【U.S. says strike on "drug-smuggling" vessel in eastern Pacific killed two】U.S. Southern Command said on the 24th that U.S. forces struck a vessel it described as a drug-smuggling boat in the eastern Pacific on the 23rd, killing two people aboard.
+
+---
+
+### 2026-08-25 02:03:00  #MKT News
+
+TASNIM News quoted a security official saying the US economic sanctions plan is intended to increase psychological pressure on the Iranian people.
+
+---
+
+### 2026-08-25 02:02:54  #其他
+
+【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。（新華社）
+
+---
+
+### 2026-08-25 02:02:32  #國際
+
+伊朗塔斯尼姆通訊社援引安全官員的話稱，美國的經濟制裁計劃是一場旨在加大對伊朗民眾心理施壓的行動。
+
+---
+
+### 2026-08-25 01:58:56  #其他
+
+市場訊息：貝萊德向同業資管機構推介 TCP 私募信貸資產。
+
+---
+
+### 2026-08-25 01:56:10  #公司 #國際
+
+【加拿大總理講話要點總結】
+加拿大總理卡尼表示，他與美方談判代表的會談讓他看清，特朗普意圖以不公平的條件摧毀加拿大的支柱產業——鋼鐵、鋁和汽車。
+然而，他表示兩國之間仍有可能達成一項公平的協議——並重申，雙方已有現成的協議可以在此基礎上加以完善，即特朗普於2020年簽署的所謂美國墨西哥加拿大貿易協議（USMCA）。
+當被追問是否會利用加拿大對美國的能源和關鍵礦產供應作為籌碼時——這一策略已有許多人呼籲採用——卡尼過去曾對此持謹慎態度，但今天他並未斷然排除這一可能性。
+卡尼描述了在啟動他此前已承諾的對美關稅報復措施之前所面臨的複雜考量。由於美國經濟”遠比加拿大龐大得多”，他可能不得不採取更有針對性的反制路徑。
+他嚴厲抨擊了美方在談判桌上所持的不可接受的態度——即”把加拿大當作美國的子公司”，意圖隨著時間推移使加拿大處於不利地位。
+
+---
+
+### 2026-08-25 01:54:41  #MKT News
+
+U.S. State Department said Secretary of State Rubio spoke on Monday local time with the German foreign minister about a shared commitment to freedom of navigation in the Strait of Hormuz.
+
+---
+
+### 2026-08-25 01:53:58  #國際
+
+美國國務卿魯比奧同德國外交部長通電話，討論了俄羅斯和烏克蘭問題，還討論了霍爾木茲海峽的航行自由問題。
+
+---
+
+### 2026-08-25 01:50:11  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canada 10-Year Yield Falls as Trade Risks Rise — The yield on Canada’s 10-year government bond fell to about 3.67% after touching a more than two-year high of 3.76% on August 21st, as a re-escalation in the trade war with the US put Canada’s economic recovery at risk. US President Donald Trump said tariffs on all Canadian cars, trucks, automotive parts and steel would rise to 50% on January 1, 2027. This came after Prime Minister Carney vowed to retaliate against the initial series of US tariffs imposed after trade talks fell through. Washington imposed 50% tariffs on furniture, plastics, plywood and electrical equipment, adding to existing 25% tariffs on steel, lumber and autos. Risks to growth from higher tariffs have reduced the case for a BoC rate hike this year. Growth is now expected to contract just as the economy has started to recover. In July, Canada added 75,000 jobs, while inflation edged up to 2.9%, largely due to gasoline prices rather than broad-based price pressures.
+
+---
+
+### 2026-08-25 01:49:11  #MKT News
+
+US Secretary of State Rubio spoke with South Korea's foreign minister on Monday about a range of US-South Korea alliance issues and said the two countries need to maintain close coordination.
+
+---
+
+### 2026-08-25 01:44:56  #其他
+
+大眾汽車工會主席：對我們來說，關閉工廠是絕對不可能的。
+
+---
+
+### 2026-08-25 01:44:40  #MKT News #VOW3.DE #Impact bullish
+
+Volkswagen union chair said closing plants is absolutely out of the question.
+
+---
+
+### 2026-08-25 01:41:50  #宏觀 #市場 #觀點 #國際
+
+【高盛和富國等華爾街機構稱 財政部回購難以壓低長期美債收益率】高盛、富國等華爾街機構的利率策略師表示，美國財政部的國債回購對於扭轉長期美債收益率的飆升作用有限。儘管10年期和30年期美債收益率在財政部週三宣佈擴大回購計劃後一度下降，但上週後期又重新走高。與此同時，美國財政部長斯科特·貝森特表示自己手中有一個“龐大的政策工具箱”，CNBC報道稱他可能動用財政部的部分現金儲備來回購這些國債。這樣的市場走勢印證了華爾街的看法。分析師和投資者表示，除非華盛頓解決不斷膨脹的預算赤字以及通脹壓力等推動收益率走高的問題，否則此類措施難以奏效。包括George Cole和William Marshall在內的高盛策略師在8月21日的一份研究報告中寫道，“美國財政部擴大長期國債回購的決定，並沒有解決我們認為導致近期長端利率波動的主要根源。”他們表示，“我們認為，即使擴大回購規模，回購操作本身也不太可能實質性改變利率水平。”
+
+---
+
+### 2026-08-25 01:39:20  #MKT News
+
+Sources said Italy will not participate in the "Voluntary Alliance" exercises.
+
+---
+
+### 2026-08-25 01:38:24  #宏觀 #國際
+
+【美國財長：任何為伊朗洗錢的實體將被移出美元體系】美國財政部長貝森特24日在新聞釋出會上表示，任何為伊朗洗錢的實體將被移出美元體系。（新華社）
+
+---
+
+### 2026-08-25 01:38:11  #MKT News #DXY #Impact bullish
+
+【U.S. Treasury Secretary Bessent: Any entity laundering money for Iran will be removed from the dollar system】U.S. Treasury Secretary Bessent said at a press conference on the 24th that any entity laundering money for Iran will be removed from the U.S. dollar system.
 
 ---
 
@@ -18118,341 +18274,5 @@ Cathay Financial earnings above expectations at 2.38 TWD — Cathay Financial (2
 ### 2026-08-23 03:20:57  #國際
 
 伊朗最高安全官員雷扎伊：伊朗將打擊那些協助美國對伊朗發動經濟戰國家的利益。
-
----
-
-### 2026-08-23 03:11:57  #焦點 #國際
-
-伊朗安全部門負責人：特朗普的魯莽行事正促使各國謀求核武器。
-
----
-
-### 2026-08-23 03:05:22  #國際
-
-【美國友人“賽考斯”受邀來華參觀交流】應中國教育國際交流協會邀請，支援中國治沙事業的美國友人“賽考斯”（本名羅納德·薩科爾斯基）23日凌晨抵達北京，將於8月23日至9月1日訪問北京、內蒙古、河南三地，再續一段跨越山海的中美民間友誼。（新華社）
-
----
-
-### 2026-08-23 02:58:38  #國際
-
-伊朗最高國家安全委員會秘書雷扎伊：美國民眾反對對伊朗開戰，並不支援美國軍方與政府。而在伊朗，民眾與政府團結一致，支援本國武裝力量。
-
----
-
-### 2026-08-23 02:57:41  #國際
-
-【美部署在保加利亞軍機結束任務飛離駐地】保加利亞國防部長迪米特爾·斯托揚諾夫22日表示，兩架美國軍機已離開保加利亞貝茲梅爾空軍基地，早於其獲准的停留期限。斯托揚諾夫說，美軍飛機在貝茲梅爾空軍基地停留期間，沒有進行過一次南下飛行；所有飛行均在西部和西北部的盟國領空進行訓練，保加利亞“沒有收到任何有關國家安全受到直接威脅的資訊”。保加利亞總統約託娃當天在出席活動時也向媒體證實，這些飛機已離開空軍基地，任務已經結束。（新華社）
-
----
-
-### 2026-08-23 02:53:43  #其他 #焦點
-
-【廣西水文中心釋出洪水紅色預警 預計明江水位將全線超警】8月23日0時，廣西全區共有明江及支流思州河、派連河、公安河，左江上游平而河等5條河流8個站超警0.29～4.78米，明江全線超警。（央視新聞）
-
----
-
-### 2026-08-23 02:52:58  #公司 #國際
-
-【一艘土耳其商船在黑海遇襲 致1死8傷】據土耳其伊赫拉斯通訊社22日報道，一艘由土耳其航運公司運營的商船當天凌晨在俄羅斯黑海港口新羅西斯克附近海域遭襲，造成1名船員死亡、8人受傷。（新華社）
-
----
-
-### 2026-08-23 02:45:02  #公司 #焦點
-
-【英偉達通知客戶AI相關產品漲價超15%】英偉達部分大客戶收到通知，多數情況下搭載其人工智慧晶片的伺服器價格漲幅將超過15%。知情人士稱，此次漲價將針對明年初交付的伺服器產品，涉及搭載Vera Rubin和Grace Blackwell旗艦晶片的機型，具體漲幅視晶片代次與記憶體配置而定。相關溝通尚未對外公開。知情人士表示，為微軟、谷歌、甲骨文等大型資料中心運營商代工伺服器的企業，近期已向客戶通報漲價事宜。
-
----
-
-### 2026-08-23 02:42:29  #其他 #焦點
-
-英偉達已通知客戶，AI相關產品漲價幅度超過15%。
-
----
-
-### 2026-08-23 02:41:07  #國際
-
-伊朗總統：我曾面見最高領袖，最高領袖在講話中也公開表示，我們必須擺脫這種“既非戰爭、也非和平”的局面。我們不會在敵人面前屈辱退讓、低頭屈服。我們可以帶著實力，同時秉持理性坐下來談判，解決我們面臨的問題。這是可以實現的，我們也正為此付出努力。
-
----
-
-### 2026-08-23 02:38:35  #其他
-
-法國總統府：沙特2030願景與法國投資計劃開展對接，麥加協議結合地區局勢重塑聯盟格局。
-
----
-
-### 2026-08-23 02:30:52  #國際
-
-以色列持續打擊黎巴嫩南部，空襲馬吉勒祖恩、科寧以及曼蘇里村莊。
-
----
-
-### 2026-08-23 02:22:34  #國際
-
-美國特使稱，以色列對敘利亞發動空襲或為蓄意挑起與土耳其的衝突
-
----
-
-### 2026-08-23 02:15:32  #國際
-
-伊朗總統府：總統佩澤希其揚同議會議長、司法部門負責人就國際局勢以及國家經濟治理舉措展開磋商。
-
----
-
-### 2026-08-23 02:15:18  #國際
-
-伊朗總統府：伊朗三大權力機構負責人確認需加強協調，以應對民生壓力。
-
----
-
-### 2026-08-23 02:07:41  #國際
-
-日本將向拉美開發性貸款機構提供貸款保險。
-
----
-
-### 2026-08-23 02:04:47  #國際
-
-【以色列稱無意與土耳其升級衝突 絕不接受土在敘駐軍】當地時間22日，以色列外交部長薩爾在接受採訪時表示，儘管因敘利亞問題導致以土兩國關係高度緊張，但以色列“無意與土耳其升級衝突”。薩爾稱，以色列“始終優先考慮”外交解決方案，並重申以色列並不打算激化與土耳其的對抗。他表示：“我們致力於維持現狀。”薩爾同時明確表示，以色列絕不接受土耳其在敘利亞建立基地。（央視新聞）
-
----
-
-### 2026-08-23 02:04:25  #國際
-
-【與特朗普立場一致的郵寄選票新規等待最高法院裁決】美國郵政署敲定一項新規，為郵寄投票增設更多門檻，該版本與特朗普最初方案存在小幅出入。新規則要求各州向郵政署提交合格選民名單，使用帶特殊條形碼的信封；選票必須印有官方選舉郵件標識，並配備專屬智慧郵件條形碼。受法院禁令約束，該政策目前暫停執行。若最高法院不作出有利判決，新規將無法在11月中期選舉落地，政府已經沒有充足時間推行郵寄選票限制措施。
-
----
-
-### 2026-08-23 01:58:52  #其他
-
-派拉蒙與加州將於8月24日就華納兄弟交易舉行初步會談。
-
----
-
-### 2026-08-23 01:56:56  #國際
-
-特朗普整個6月持續買賣Coinbase股票。
-
----
-
-### 2026-08-23 01:53:28  #國際
-
-伊朗、埃及兩國外長通電話，商討緩和地區緊張局勢。
-
----
-
-### 2026-08-23 01:52:53  #其他
-
-【英國一起交通事故造成7人死亡 包括2名執勤警員】據英國警方22日通報，當天凌晨在克利夫蘭郡發生一起交通事故，造成7人死亡。 通報說，一輛逆向行駛的汽車與一輛正常行駛的警車相撞，車上所有人員當場死亡，包括逆行汽車上的5人和警車上的兩名警員。（新華社）
-
----
-
-### 2026-08-23 01:51:23  #央行 #焦點 #國際
-
-【特朗普6月調整投資組合，拋售Meta等股票、買入伯克希爾】美國總統特朗普披露了6月共計1051筆金融交易，顯現出其投資組合的大規模重新配置。整個6月，特朗普頻繁調倉股票、債券以及ETF。根據8月22日美國政府道德辦公室公開檔案，這批交易總規模介於7810萬—2.631億美元之間，申報只標註交易金額區間，不披露精確數值。證券買入總額超4900萬美元，賣出金額至少2850萬美元。在1051筆交易當中，規模最大一筆為6月22日賣出VIG（先鋒紅利增值指數ETF），交易區間500萬‑2500萬美元。同日，他買入FIS（富達國民資訊服務）、HD（家得寶），兩筆均為100萬‑500萬美元。這是6月多筆對上述個股的最大買入操作，同期他也賣出過部分FIS。6月18日，特朗普賣出Meta、摩托羅拉解決方案（MSI），兩筆金額均在100萬‑500萬美元；同一天，他買入同等金額區間的伯克希爾‑哈撒韋B類股（BRK.B）、Cintas（信達斯）、Visa（維薩）、萬事達卡（MA）。上述交易發生在美聯儲主席凱文·沃什首次議息會議結束次日，6月17日市場因貨幣政策前景擔憂出現拋售，6月18日股市迎來反彈。
-
----
-
-### 2026-08-23 01:48:19  #國際
-
-特朗普於6月18日拋售Meta與摩托羅拉股票。
-
----
-
-### 2026-08-23 01:47:47  #國際
-
-申報檔案顯示：特朗普6月調整投資組合。
-
----
-
-### 2026-08-23 01:42:33  #國際
-
-伊朗代理國防部長：伊朗在近期衝突中部署了新式進攻及防禦系統。
-
----
-
-### 2026-08-23 01:35:23  #其他
-
-加拿大Unifor工會與通用汽車達成初步協議。
-
----
-
-### 2026-08-23 01:20:13  #國際
-
-中國地震臺網正式測定：08月23日01時00分在日本本州島（北緯35.90度，東經140.25度）發生5.8級地震，震源深度70千米。
-
----
-
-### 2026-08-23 01:19:59  #國際
-
-印度海岸警衛隊：已救起2名倖存者。
-
----
-
-### 2026-08-23 01:14:39  #國際
-
-【加拿大宣佈9月8日起對美國商品徵收報復性關稅】當地時間8月22日，加拿大總理卡尼表示，從9月8日起，加拿大將對來自美國的多個行業的進口商品徵收關稅，以報復美國新關稅。卡尼表示，這些報復性關稅將涉及鋼鐵、乳製品、家電、農業裝置、紙漿和造紙以及電子產品等行業，還將包括目前受到232條款和338條款關稅影響的產品。卡尼稱，“我們不能接受他們提出的條件，也不會滿足他們的要求”，為了保護加拿大工人、農民、家庭和企業，加拿大將對美國的新關稅採取對等措施。（央視新聞）
-
----
-
-### 2026-08-23 01:14:01  #國際
-
-美國將參加亞太經合組織（APEC）高官會，會議持續至8月28日。
-
----
-
-### 2026-08-23 01:13:45  #國際
-
-印度海岸警衛隊表示，已收到關於"海洋勝利號"（MV Ocean Winner）貨輪失聯的資訊。
-
----
-
-### 2026-08-23 01:10:06  #國際
-
-【日本茨城縣發生5.9級地震 東京震感明顯】當地時間23日2時許，據日本氣象廳訊息，日本茨城縣發生5.9級地震，最大震感為震度5弱，震源深度70公里。東京震感明顯。日本氣象廳設定的地震震度由弱到強分別為0至4級、5弱、5強、6弱、6強和7級，共10個等級。（央視新聞）
-
----
-
-### 2026-08-23 01:06:09  #國際
-
-伊朗經濟部長：政府正對多家銀行及金融機構推進改革；對於無法完成整改要求的機構，最終可能採取解散、清算或合併處置。
-
----
-
-### 2026-08-23 01:04:05  #國際
-
-【泰南三府發生爆炸縱火事件 那拉提瓦府實施宵禁】據泰媒報道，當地時間22日20時起，泰國南部三府那拉提瓦、也拉、北大年相繼發生爆炸、縱火等惡性事件，已造成至少兩人受傷。那拉提瓦軍方特遣隊宣佈全府從當天22時15分至23日6時實施宵禁。（新華社）
-
----
-
-### 2026-08-23 00:59:20  #國際
-
-烏克蘭無人機襲擊了俄羅斯線上零售商Ozon的一個倉庫，造成至少10人死亡。
-
----
-
-### 2026-08-23 00:30:54  #公司
-
-【北交所上市公司交出亮眼成績單 大量資金湧入北交所打新】近期，北交所上市公司2026年半年報陸續披露，截至8月21日，北交所338家上市公司中，已有122家公司披露2026年半年報。資料顯示，已披露半年報的公司中，99家公司實現盈利，佔比超過八成；69家公司淨利潤同比增長，21家淨利潤同比增速翻倍。從營收規模來看，101家公司營業收入超過1億元，11家公司營業收入超過10億元。 今年以來，不僅北交所上市公司交出了亮眼的“成績單”，北交所新股發行節奏也在加快，打新熱度持續攀升。資金參與熱度也在快速提升，單隻新股平均凍結資金由2024年的約2300億元、2025年的約6700億元，進一步升至今年以來的約9600億元，多隻新股凍結資金超過萬億元。業內人士表示，北交所打新熱度持續升溫，一方面與現金申購、按比例配售等制度安排有關；另一方面，近年來北交所新股上市後的賺錢效應，以及科技成長類企業供給增加，也在吸引增量資金入場。
-
----
-
-### 2026-08-23 00:23:05  #國際
-
-以色列就土耳其在敘利亞阿布‑祖胡爾機場部署防空系統一事，向美方表達關切。
-
----
-
-### 2026-08-23 00:20:37  #其他
-
-加拿大安大略省省長：關鍵礦產、鋼鐵、鎳是談判籌碼。
-
----
-
-### 2026-08-23 00:10:36  #焦點 #國際
-
-【加拿大宣佈對美國反制措施 下月將對200億美元商品徵報復性關稅】美加貿易爭端進一步升級，加拿大總理馬克·卡尼表示，將從9月8日起對美國進口商品實施等額反制關稅。卡尼週六表示：“我們很不情願採取這一步，因為我們認識到，這會推高加拿大人的成本、減少購買選項，也會傷及無辜的美國企業和州，妨礙兩國合作。”他說，報復性關稅將主要集中在鋼鐵、乳製品、家電、農業裝置、紙漿、造紙產品以及電子產品，更多細節將在未來幾天公佈。
-
----
-
-### 2026-08-23 00:09:00  #國際
-
-【加拿大要求卡車關稅豁免，致使貿易談判陷入危機】美加貿易談判於週五破裂，部分原因是談判最後關頭，雙方在取消美國針對加拿大中型、重型車輛徵收的關稅一事上僵持不下。雙方本已形成協議框架，計劃下調美國針對汽車、鋼鐵、鋁以及木材的行業關稅，並於週五緊鑼密鼓開展磋商，但在大型車輛待遇問題上依舊分歧嚴重。週五晚間一通電話會談中，加拿大堅持要求獲得上述額外關稅減免，遭到美方拒絕。按照雙方擬達成的協議，普通汽車關稅將從現行25%下調至15%。加拿大希望把該項關稅減免延伸至中型和重型車輛，涵蓋大型皮卡以及各類商用車輛。加拿大總理卡尼於週六表示，卡車被排除在關稅減免之外，“顯然是重大變故”。卡尼稱，如果卡車無法獲得關稅減免，福特位於安大略省、生產F‑350及更大尺寸皮卡的新工廠“將會被排除在外。這麼做毫無道理。”美方認為該訴求屬於原有協議框架之外的新增要求。談判驟然破裂，雙方互相指責對方應當為此負責。美國隨即對價值約200億美元的加拿大商品徵收50%新關稅。卡尼週六宣佈，加拿大將自9月8日起，對美國商品實施等額反制關稅。
-
----
-
-### 2026-08-23 00:04:52  #市場 #焦點
-
-布倫特原油暗盤跌破92美元，日內跌超0.5%。
-
----
-
-### 2026-08-23 00:02:21  #國際
-
-卡達外交部：以色列持續侵犯地區國家主權，此種做法十分危險，屬於不可接受的局勢升級行為。
-
----
-
-### 2026-08-23 00:02:05  #國際
-
-卡達外交部：強烈譴責以色列對大馬士革郊區一輛民用車輛發動的襲擊。
-
----
-
-### 2026-08-23 00:01:26  #國際
-
-埃及與伊朗磋商地區局勢降溫及諒解備忘錄相關事宜。
-
----
-
-### 2026-08-23 00:00:03  #國際
-
-伊朗第一副總統：絕不允許美國的經濟恐怖主義動搖本國經濟穩定與民眾生計。
-
----
-
-### 2026-08-22 23:59:38  #國際
-
-加拿大總理卡尼：加拿大將對美國多個行業徵收報復性關稅。
-
----
-
-### 2026-08-22 23:57:51  #國際
-
-加拿大總理卡尼：與亞洲的石油、液化天然氣貿易有助於降低（加）對美國的依賴。
-
----
-
-### 2026-08-22 23:56:55  #其他
-
-加拿大總理卡尼：我們將自行決定我們想要與哪些物件（國家）開展貿易。
-
----
-
-### 2026-08-22 23:56:37  #其他
-
-加拿大總理馬克·卡尼：美方在談判最後時刻丟擲條款，試圖限制我國與其他國家達成貿易協議的空間。加拿大是全球各國優先選擇的合作伙伴，而美方卻意圖對此加以限制。這完全無法接受！
-
----
-
-### 2026-08-22 23:56:22  #其他 #焦點
-
-加拿大總理卡尼談及貿易爭端：遭遇攻擊，就必須予以反擊。
-
----
-
-### 2026-08-22 23:54:46  #其他
-
-加拿大總理卡尼：我國關鍵礦產產業已取得長足發展。
-
----
-
-### 2026-08-22 23:54:38  #其他
-
-加拿大總理卡尼：關鍵礦產可作為對美談判籌碼。
-
----
-
-### 2026-08-22 23:53:32  #其他
-
-加拿大總理卡尼：（美加在）關鍵礦產領域錯失合作機遇，責任在於美方。
-
----
-
-### 2026-08-22 23:53:01  #國際
-
-加拿大總理卡尼：不再敦促各省將美國酒類重新擺回商店貨架。
-
----
-
-### 2026-08-22 23:52:53  #其他
-
-加拿大總理卡尼：將於下週公佈扶持企業的具體方案。
-
----
-
-### 2026-08-22 23:52:31  #其他 #焦點
-
-加拿大總理卡尼：我們如今對美方的訴求有了全新認知。
 
 ---

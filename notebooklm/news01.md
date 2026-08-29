@@ -1,7 +1,343 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-29 23:52:26_
-_本檔包含 2398 則快訊，約 553246 字_
+_更新時間：2026-08-30 03:16:39_
+_本檔包含 2391 則快訊，約 554718 字_
+
+---
+
+### 2026-08-30 03:06:32  #MKT News
+
+【U.S. National Park Service backs Trump 250-foot triumphal arch plan, flags skyline and view impacts】The U.S. National Park Service said on Friday it supports President Trump’s proposed 250-foot triumphal arch at the recommended site and scale, calling the design consistent with historical tradition and a visual focal point for the 250th anniversary. The agency found the project would cause adverse effects to views and the surrounding landscape — affecting dozens of historic properties including the Lincoln Memorial and Washington Monument — but identified those impacts as visual/skyline changes rather than physical damage.
+
+---
+
+### 2026-08-30 03:05:35  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+【Israel security agency confirms PM's eldest son faced security threat in US】On Aug. 29 Israel’s domestic security agency Shin Bet confirmed it had evacuated Prime Minister Benjamin Netanyahu’s eldest son, Yair, and his security detail from the United States after a “significant” security threat. Yair said on Aug. 24 that Iran had “tried to assassinate one of his sons” but did not identify which son or timing; subsequent reporting named Yair as the target while living in Florida.
+
+---
+
+### 2026-08-30 03:04:59  #國際
+
+【以國家安全總局證實以總理長子在美國曾遭安全威脅】當地時間8月29日，以色列國家安全總局（辛貝特）證實，以總理內塔尼亞胡長子亞伊爾此前在美國時遭遇“重大”安全威脅，因此辛貝特決定緊急將他及其安保團隊一同撤離回以色列。內塔尼亞胡有兩個兒子。他24日接受採訪時聲稱，伊朗曾“試圖暗殺他的一個兒子”。不過，他沒有透露是哪個兒子，也未說明事發時間。隨後有訊息稱，內塔尼亞胡長子亞伊爾在美國佛羅里達州生活期間成為伊朗的“暗殺目標”。（央視新聞）
+
+---
+
+### 2026-08-30 02:45:09  #MKT News
+
+Iraq's prime minister's security adviser Qassim al-Araji told Al Jazeera he is in talks with factions to limit weapons to state possession.
+
+---
+
+### 2026-08-30 02:45:00  #其他 #焦點
+
+馬斯克計劃自研燃氣輪機葉片。燃氣輪機可為AI資料中心提供電力。
+
+---
+
+### 2026-08-30 02:42:51  #MKT News #Commodities #Energy
+
+Market sources: Iraqi Kurdistan is exporting about 150,000 bpd of crude to Turkey's Ceyhan port.
+
+---
+
+### 2026-08-30 02:32:03  #其他 #焦點
+
+伊拉克石油部發言人表示，伊拉克庫爾德斯坦對土耳其傑伊漢港口的石油出口量約為每日15萬桶。
+
+---
+
+### 2026-08-30 02:29:01  #MKT News
+
+NBC news crew attacked and beaten with sticks by Israeli settlers in the West Bank.
+
+---
+
+### 2026-08-30 02:28:31  #央行 #焦點 #國際
+
+【美聯儲傑克遜霍爾年度會議核心要點】美聯儲主席沃什在主旨演講中著重強調，抑制通脹是央行的首要任務。歐元區政策制定者在會議間隙發表通脹風險警示，部分官員暗示9月有加息必要。英國央行行長貝利表示暫無加息緊迫性，稱第二輪通脹效應溫和、勞動力市場走弱，可以暫時觀望局勢。
+
+---
+
+### 2026-08-30 02:21:27  #MKT News #Market Themes #The Trump Trade
+
+【Trump to serve as honorary chair of Presidents Cup】US President Trump accepted an invitation from the PGA Tour and new commissioner Brian Rolapp to serve as honorary chair of the upcoming Presidents Cup at Medinah Country Club in Chicago and said he plans to attend.
+
+---
+
+### 2026-08-30 02:20:32  #公司
+
+【巴克萊：AI模型公司每賺100美元 約35至40美元流向三大雲巨頭】巴克萊在報告中稱，AI模型公司每獲得100美元收入，其中約有35至40美元會以推理算力費用的形式流向三大雲巨頭，即亞馬遜AWS、微軟Azure和谷歌雲平臺（GCP）。在這部分收入中，雲服務商能夠獲得約10至20美元的營業利潤，對應約35%至45%的營業利潤率。報告指出，AI實驗室付費推理業務的利潤率已經大幅攀升，從2025年的低雙位數水平升至2026年的50%至65%甚至更高，調整後毛利率同比提升30至50個百分點。巴克萊分析師認為，實際利潤率可能甚至高於報告中的估算，但隨著前沿模型競爭加劇以及算力供給持續增加，利潤率預計將逐步回落。
+
+---
+
+### 2026-08-30 02:19:18  #國際
+
+美國駐貝魯特大使館：真主黨既不願同黎巴嫩政府談判，也不願與美國、以色列對話，原因很簡單，該組織聽命於伊朗。
+
+---
+
+### 2026-08-30 02:14:34  #國際
+
+特朗普接受邀請，出任新一屆總統盃高爾夫賽事名譽主席。
+
+---
+
+### 2026-08-30 02:05:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Israel conducts strikes in southern Lebanon】Lebanon’s National News Agency (NNA) reported Israeli forces destroyed a nursing home in Hula, southern Lebanon. NNA said an Israeli drone fired a guided missile at an open area between Jarmaq and Kfar Reman. Earlier Israeli artillery shelled the outskirts of Zawtar al-Gharbiyah, and there were reports of a large explosion between Markaba and Rabs al-Sarasin.
+
+---
+
+### 2026-08-30 02:01:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+U.S. Embassy in Lebanon: HEZBOLLAH is refusing to engage with any party because it takes orders from Iran. It can negotiate with the Lebanese government only if it hands over its weapons.
+
+---
+
+### 2026-08-30 01:58:26  #MKT News #Brent #Impact bullish #XAUUSD
+
+【Turkey summons Ukrainian ambassador after Black Sea attacks on Turkish merchant ships】Turkey’s foreign ministry summoned Ukraine’s ambassador, a ministry source said on Aug 29, protesting recent attacks on Turkish merchant vessels near Tuapse in the Black Sea and warning of the need to protect personnel, property, navigation and the marine environment. On Aug 26 a vessel operated by a Turkish company was attacked near Tuapse; the following day a Turkish ship sent to tow that vessel was also targeted. On Aug 22 two Turkish merchant ships were attacked in the Black Sea, killing one crew member and injuring eight.
+
+---
+
+### 2026-08-30 01:58:24  #公司 #國際
+
+【土耳其外交部就商船遭襲事件召見烏克蘭大使】據土耳其外交部訊息人士29日透露，土耳其外交部已召見烏克蘭駐土耳其大使，就本週早些時候土方船隻在黑海圖阿普謝港附近遭襲一事提出交涉。這名訊息人士說，土方表達了對相關襲擊事件的反應，並就確保黑海人員、財產、航行以及環境安全的必要性提出警告。近期，黑海發生多起土耳其商船遇襲事件。8月26日，土耳其公司運營的一艘船在黑海圖阿普謝港附近遭襲，次日土方派出另一艘船前往拖曳上述船隻，該船也成為襲擊目標。8月22日，兩艘土耳其商船在黑海遭襲，造成一名船員死亡、8人受傷。（新華社）
+
+---
+
+### 2026-08-30 01:56:53  #其他
+
+市場資訊：過去兩週加密市場爆倉金額超97.1億美元，空頭爆倉65.5億美元，多頭爆倉31.6億美元。
+
+---
+
+### 2026-08-30 01:54:00  #國際
+
+【伊朗總統呼籲對外統一發聲，杜絕多重聲音】伊朗總統佩澤希齊揚週六表示，依靠國內團結落實伊斯蘭堡諒解備忘錄，有助於伊朗克服當前困境。佩澤希齊揚稱：“政府認為，只要在國內團結的基礎上，落實這份得到所有關心國家尊嚴與進步人士認可的諒解備忘錄，我們就能夠克服各類難題。”他表示，落實該備忘錄可以阻止美國與以色列破壞地區穩定，讓地區各國透過團結合作謀求穩定與發展。佩澤希齊揚同時呼籲德黑蘭對外發出統一政治聲音，稱伊朗三大政府部門首腦與最高國家安全委員會之間的協作已經改善，伊朗不應出現“多種聲音”的局面。
+
+---
+
+### 2026-08-30 01:50:57  #MKT News
+
+【Niamey Diori Hamani International Airport resumes normal operations】The Nigerien Civil Aviation Authority said on the afternoon of Aug. 29 local time that Niamey’s Diori Hamani International Airport had fully resumed normal flight operations. In the early hours of Aug. 29, multiple locations in Niamey reported intensive gunfire and explosions, including around the airport and the presidential palace. The Nigerien Defense Ministry said late on Aug. 29 that soldiers from Military Base No. 101 had attempted a mutiny earlier that day; the situation has since been brought under control.
+
+---
+
+### 2026-08-30 01:50:13  #其他
+
+【尼日首都國際機場恢復正常運營】當地時間8月29日下午，尼日國家民航局釋出通告稱，位於首都尼亞美的迪奧裡·哈馬尼國際機場的航空運營已全面恢復正常。當地時間29日凌晨，尼亞美多地傳出密集槍聲和爆炸聲，地點包括迪奧裡·哈馬尼國際機場周邊以及總統府附近。尼日國防部29日晚些時候釋出公報說，首都尼亞美101號軍事基地一些士兵當天企圖發動兵變，目前局勢已得到控制。（央視新聞）
+
+---
+
+### 2026-08-30 01:48:34  #MKT News
+
+Al Jazeera reported Israeli settlers attacked Palestinians and damaged property in the West Bank towns of Burqa and Arraba.
+
+---
+
+### 2026-08-30 01:48:02  #MKT News
+
+【Israeli settlers attack Palestinians in Qusra as they install protective mesh; IDF fires tear gas, detains residents】In Qusra, six Palestinians installing metal protective mesh on a fourth house under construction were attacked by Israeli settlers after earlier settler incidents, including stone-throwing and incendiary attacks. The Israeli military arrived, fired tear gas into the house — wounding the homeowner — did not remove the settlers and arrested the six Palestinians; they were later released. Prime Minister NETANYAHU described the assailants as "a small group of troublemakers," saying they had impeded IDF operations and damaged Israel's international standing.
+
+---
+
+### 2026-08-30 01:41:12  #央行 #其他
+
+阿聯酋央行：正研究涉事銀行的處置方案，將對銀行交易開展調查，調查重點聚焦美方宣告提及的相關企業。
+
+---
+
+### 2026-08-30 01:37:19  #央行 #其他
+
+阿聯酋央行表示，該行要求持牌運營的阿聯酋銀行“不得讓阿聯酋金融體系承受聲譽風險”。
+
+---
+
+### 2026-08-30 01:35:20  #央行 #國際
+
+阿聯酋央行表示，將對埃及國家銀行在阿聯酋的分行開展專項緊急審查，其中包括對美國當局宣告提及時段開展司法深度回溯核查。
+
+---
+
+### 2026-08-30 01:34:32  #MKT News
+
+Central Bank of the UAE said branches of Egyptian banks operating in the UAE must comply with UAE laws and regulations.
+
+---
+
+### 2026-08-30 01:33:23  #央行 #國際
+
+阿聯酋央行在一份宣告中表示，在阿聯酋運營的埃及米斯爾銀行分行需遵守阿聯酋現行法律法規。
+
+---
+
+### 2026-08-30 01:33:07  #其他
+
+伊拉克武裝組織真主黨旅稱，在美沙聯軍發動打擊之前已收到預警。
+
+---
+
+### 2026-08-30 01:32:07  #MKT News
+
+Al Jazeera reported the Iran-backed "Hezbollah Brigades" said it received a warning before a US-Saudi joint airstrike.
+
+---
+
+### 2026-08-30 01:31:15  #MKT News
+
+TASNIM NEWS: IRGC ground forces commander Kourmi said Iranians fear no power and accused the US of requesting a ceasefire and attending talks during a 12-day war only to later reverse course and overturn the negotiating table.
+
+---
+
+### 2026-08-30 01:28:40  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【IRGC official: US war not driven by Iran uranium enrichment】The IRGC's deputy political director told Fars News the US did not start the war over Iran's uranium enrichment. "Those who believe the war stems from uranium enrichment do not correctly understand history," he said. "Those who think if we stop enriching uranium there would be no war either lack accurate historical knowledge or proper analytical ability." He attributed the conflict to US aims to overthrow the Islamic Republic.
+
+---
+
+### 2026-08-30 01:22:48  #國際
+
+伊朗革命衛隊副政治主管：自1979年以來，美國一直謀求推翻伊朗，核問題只是美方施壓的多項藉口之一。
+
+---
+
+### 2026-08-30 01:20:52  #國際
+
+黎巴嫩：以色列軍隊炸燬黎巴嫩南部胡拉鎮的一家養老院。
+
+---
+
+### 2026-08-30 01:09:43  #MKT News
+
+【British right‑wing commentator Milo Yiannopoulos deported from US after visa expiry, DHS says】A Department of Homeland Security spokesperson said British right‑wing commentator Milo Yiannopoulos was deported to the UK on Friday after Immigration and Customs Enforcement detained him at a Louisiana airport on Thursday for an expired visa. Yiannopoulos, a former Breitbart contributor, publicly supported Donald Trump during the 2016 campaign.
+
+---
+
+### 2026-08-30 01:04:44  #國際
+
+以色列總理內塔尼亞胡：譴責少數暴亂煽動者在約旦河西岸庫斯拉與賈盧德村莊實施的暴力犯罪行為。
+
+---
+
+### 2026-08-30 00:56:50  #MKT News
+
+【Somalia, Turkey carry out joint operation to free hijacked cargo ship】Somalia’s defence ministry said on Aug 29 a joint Somali-Turkish naval operation freed the cargo vessel Latufu, seized on Aug 17 in northeast Somali waters. The 10-day operation destroyed four pirate boats, killed 14 pirates and forced the remainder to abandon the ship, and was carried out under a Somalia-Turkey defence cooperation agreement.
+
+---
+
+### 2026-08-30 00:56:45  #其他
+
+【索馬利亞與土耳其聯合行動 解救一艘遭劫持貨船】當地時間8月29日，索馬利亞國防部發表宣告稱，索軍方與土耳其海軍聯合開展行動，成功解救此前在索馬利亞海域遭海盜劫持的貨船“拉圖福”號。索國防部稱，解救行動持續了10天。聯合部隊摧毀了海盜使用的4艘船隻，打死14名海盜，並迫使其餘海盜最終棄船逃離。索國防部表示，此次聯合行動是在索馬利亞與土耳其簽署的防務合作協議框架下開展的。（央視新聞）
+
+---
+
+### 2026-08-30 00:54:01  #國際
+
+【菲律賓呂宋島發生山體滑坡至少2人死亡】據菲律賓媒體報道，菲律賓呂宋島三描禮士省蘇比克市29日發生山體滑坡，已造成至少2人死亡、2人受傷。當地政府已經啟動應急救援工作。
+
+---
+
+### 2026-08-30 00:53:26  #MKT News
+
+The Israel Defense Forces said it killed a Nukhba battalion commander and a Hamas sniper in the Gaza Strip.
+
+---
+
+### 2026-08-30 00:46:29  #MKT News #Commodities #Industrial Metals #GLEN.L #Impact bearish
+
+【Glencore sets aside $480m provision for Radiant World exposure】Glencore has set aside about $480m to cover its exposure to Radiant World, people familiar with the matter said. Radiant World, an iron ore trader, is under pressure after allegations it supplied false documents to banks; the provision covers Glencore’s entire net outstanding exposure to the firm.
+
+---
+
+### 2026-08-30 00:42:18  #其他
+
+“木頭姐”凱西・伍德：當我試圖解釋，AI推理token用量一年內增長25倍，並且還在呈指數級倍增，對經濟產生連鎖傳導效應，有可能推動實際年度GDP增速達到兩位數時，很多客戶和企業根本無法理解。
+
+---
+
+### 2026-08-30 00:42:10  #MKT News
+
+US sources told EKHBARIYA the memorandum of understanding with Erbil will expire on Sept. 30 and will not be extended. Iranian Kurdish sources said the MoU's non-extension does not mean cooperation between Erbil and Washington has ended.
+
+---
+
+### 2026-08-30 00:36:45  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【Qatar, Turkey foreign ministers speak by phone on easing Middle East tensions】Qatar foreign minister Al Thani held a phone call with Turkey foreign minister Hakan Fidan to discuss joint efforts to de-escalate tensions and strengthen regional security. Qatar’s foreign ministry said the ministers discussed enhancing bilateral cooperation; Al Thani reiterated Qatar’s support for diplomatic efforts to secure a solution that preserves freedom of navigation and delivers durable regional peace.
+
+---
+
+### 2026-08-30 00:35:04  #MKT News
+
+Independent U.S. Senator Bernie Sanders said an Uber driver told a colleague that after Trump's cuts to healthcare his monthly health-insurance premium rose by $400 and drug copays rose from $1 to as much as $90. Sanders said this is happening across the U.S. and called for Medicare for All.
+
+---
+
+### 2026-08-30 00:33:59  #公司 #焦點
+
+【Anthropic考慮允許股東在IPO中出售股份，摒棄SpaceX模式】Anthropic正擬定方案，計劃在其重磅IPO中允許現有股東出售部分股票，同時考慮上市後執行比常規更久的股份鎖定期。在IPO中安排老股二次出售，將讓Anthropic區別於今年另外兩家大型科技上市公司SpaceX與Cerebras，後兩者IPO階段不允許現有股東出售股份。而近年CoreWeave、Figma等大型科技企業IPO，則在發行新股的同時允許老股東出售股票。此次股票出售，將使Anthropic股東得以兌現過去數年間賬面積累的鉅額財富。該公司私募估值一路走高，今年5月已達到9650億美元。投行已討論過1.5萬億美元的IPO估值，略低於SpaceX的IPO定價估值。
+
+---
+
+### 2026-08-30 00:31:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+【Bessent says US guided 130 million barrels through Strait of Hormuz; Iran speaker calls claim false】Iranian parliament speaker Ghalibaf dismissed U.S. Treasury official Bessent’s claim that the U.S. guided 130 million barrels of oil through the Strait of Hormuz in the past 14 days, calling the assertion false. Ghalibaf cited a June Moody’s survey saying the Iran war has cost U.S. taxpayers at least $132 billion, alleged trading firm Jane Street lost more than $130 million on a single futures roll after shorting oil, and said yields are “on fire,” referring to the recent spike in U.S. long-term Treasury yields.
+
+---
+
+### 2026-08-30 00:29:54  #國際
+
+黎巴嫩：以色列軍隊在黎巴嫩南部馬爾卡巴與拉卜塔拉辛兩鎮之間實施大規模爆炸。
+
+---
+
+### 2026-08-30 00:28:02  #國際
+
+巴勒斯坦媒體：以色列猛烈炮擊加沙地帶南部汗尤尼斯城南部多地。
+
+---
+
+### 2026-08-30 00:25:53  #MKT News
+
+Al Arabiya TV said a circulated video shows Shahid Rajaee Port at Bandar Abbas, Iran, largely deserted as the US blockade continues.
+
+---
+
+### 2026-08-30 00:22:52  #MKT News #Market Themes #AI Revolution
+
+【Sony and Warner sue Anthropic, accuse it of brazen IP theft】Sony Music and Warner Music subsidiaries filed suit against Anthropic in the US District Court for the Northern District of California on Friday evening, accusing the AI firm of "one of the largest and most brazen intellectual property thefts in history," Axios reports. The complaint names Anthropic, CEO Dario Amodei and a co-founder as defendants.
+
+---
+
+### 2026-08-30 00:20:43  #公司 #焦點 #國際
+
+【索尼、華納起訴Anthropic，指控其公然竊取智慧財產權】幾家全球大型音樂出版商週五晚間提起重磅訴訟，稱該案是“史上規模最大、性質最為惡劣的持續性智慧財產權盜竊行為之一”。本次訴訟拉開序幕，一場圍繞音樂、人工智慧以及新技術時代智慧財產權保護的較量或將持續數年。原告訴狀（共48頁）寫道：“被告Anthropic及其創始人達里奧·阿莫代伊、本傑明·曼大規模非法透過種子下載、網頁爬取、下載受版權保護作品，以此開發、運營Anthropic的Claude系列人工智慧模型，並藉此攫取鉅額利潤。”原告還指控Anthropic盜版數千首受版權保護音樂作品，要求就每一項侵權作品索賠數十萬美元。這並非Anthropic首次被指控盜用內容訓練模型。2025年9月，該公司達成美國歷史上金額最高的版權和解，向作者與出版商支付15億美元。
+
+---
+
+### 2026-08-30 00:19:13  #其他 #焦點
+
+音樂出版商起訴Anthropic，指控其公然盜用受版權保護的音樂作品。
+
+---
+
+### 2026-08-29 23:59:04  #MKT News
+
+【Magnitude-4.8 earthquake offshore eastern Chiba, Japan】Japan Meteorological Agency reported a magnitude-4.8 earthquake offshore eastern Chiba at about 00:17 local time on Aug. 30; focal depth approximately 30 km. Tremors were felt in Ibaraki prefecture and Tokyo.
+
+---
+
+### 2026-08-29 23:57:09  #公司 #市場
+
+【嘉能可針對Radiant World相關風險敞口計提4.8億美元準備金】嘉能可集團針對其對鐵礦石貿易商Radiant World的風險敞口計提約4.8億美元準備金。Radiant World正深陷困境，外界質疑其向銀行提供偽造檔案。這筆準備金基本覆蓋嘉能可對Radiant World全部未結清淨風險敞口。
+
+---
+
+### 2026-08-29 23:54:19  #其他
+
+嘉能可針對對Radiant World的風險敞口計提4.8億美元準備金。
 
 ---
 
@@ -14134,383 +14470,5 @@ Swedish government expects 2026 GDP to grow 2.5%, up from a 2.3% forecast in Jun
 ### 2026-08-27 21:09:43  #MKT News
 
 Kuwait and Pakistan signed a defense agreement, Kuwait News Agency (KUNA) reported.
-
----
-
-### 2026-08-27 21:09:24  #其他
-
-瑞典政府預計 2026 年國內生產總值增長 2.5%，6 月預期為 2.3%。
-
----
-
-### 2026-08-27 21:08:45  #公司
-
-T1能源公司預計，容量為50兆瓦的資料中心將於2027年投入運營，且具備擴容潛力。
-
----
-
-### 2026-08-27 21:08:34  #Trading Economics #Economy #Canada #Wage Growth #Importance 1
-
-Canadian Weekly Earnings Rise 3.4% in June — Canada’s average weekly earnings for non-farm payroll employees rose 3.4% year-on-year to C$1,344 in June 2026, following a downwardly revised 3.3% increase in May. The strongest wage gains were recorded in utilities (12.6%), finance and insurance (12.5%), and management of companies and enterprises (11.9%). In contrast, earnings declined in real estate and rental and leasing (-5.3%). By province, Nova Scotia (6.8%) posted the largest increase, followed by Nunavut (6.1%), New Brunswick (4.4%), Ontario (3.9%) and British Columbia (3.7%). The Northwest Territories posted a 1.3% decline. Month-on-month, average weekly earnings rose 0.6% in June, while average weekly hours worked were little changed at 33.4 hours.
-
----
-
-### 2026-08-27 21:08:33  #公司 #國際
-
-【開能健康：2026年上半年營收9.21億元 淨利同比降39.61%】開能健康公告稱，2026年上半年實現營業收入9.21億元，同比增長1.47%；歸屬於上市公司股東的淨利潤4040.53萬元，同比下降39.61%；扣非淨利潤2521.40萬元，同比下降60.25%。公司擬以2500萬元-5000萬元回購股份，回購價不超6.5元/股，用於股權激勵或員工持股計劃。報告期內公司完成收購原能集團4家子公司100%股權、浙江開能潤鑫剩餘5%股權，收到美國關稅退稅對應歸母淨利潤影響1063.69萬元，完成董事會換屆。
-
----
-
-### 2026-08-27 21:08:21  #公司
-
-【索寶蛋白：2026年上半年主營營收9.65億元】索寶蛋白公告稱，2026年上半年公司主營業務收入9.65億元。按產品類別分，大豆分離蛋白2.96億元，佔比30.69%；非轉基因大豆油2.38億元，佔比24.69%；大豆濃縮蛋白1.40億元，佔比14.48%；組織化蛋白1.27億元，佔比13.13%；其他產品1.64億元，佔比17.01%。按銷售模式分，直銷5.84億元，佔比60.53%；經銷3.81億元，佔比39.47%。按銷售區域分，境內6.55億元，佔比67.89%；境外3.10億元，佔比32.11%。報告期內境內經銷客戶減少70家，境外經銷客戶減少20家。
-
----
-
-### 2026-08-27 21:08:10  #其他
-
-【友邦香港回應“香港APM打人事件”：相關人士現已暫被停任】針對今日社交媒體流傳的“香港APM打人事件”，有網友指認涉事人員為友邦香港財務策劃顧問。友邦香港對此回應稱，友邦香港對財務策劃顧問的操守有嚴格要求，亦不認同任何形式的暴力行為，並且已設有機制妥善處理相關事宜。相關人士現已被暫時停任，而友邦香港會就事件作出適當跟進。
-
----
-
-### 2026-08-27 21:07:58  #公司
-
-【呷哺呷哺：上半年淨虧損3619萬元，同比減少55.2%】8月27日，呷哺呷哺在港交所公告，上半年收入為人民幣14.9億元，同比減少23.1%；淨虧損為人民幣3619.4萬元，同比減少55.2%。截至2026年六月底，集團於全球共運營761間餐廳，包括中國大陸境內743間餐廳及其他市場18間餐廳。於2026年上半年，集團於中國大陸新開設28間呷哺呷哺餐廳和1間呷牛排餐廳。
-
----
-
-### 2026-08-27 21:07:33  #公司 #國際
-
-【開能健康：2026年上半年營收9.21億元 淨利同比降39.61%】開能健康公告稱，2026年上半年實現營業收入9.21億元，同比增長1.47%；歸屬於上市公司股東的淨利潤4040.53萬元，同比下降39.61%；扣非淨利潤2521.40萬元，同比下降60.25%。公司擬以2500萬元-5000萬元回購股份，回購價不超6.5元/股，用於股權激勵或員工持股計劃。報告期內公司完成收購原能集團4家子公司100%股權、浙江開能潤鑫剩餘5%股權，收到美國關稅退稅對應歸母淨利潤影響1063.69萬元，完成董事會換屆。
-
----
-
-### 2026-08-27 21:07:27  #公司 #市場
-
-【常友科技：2026年上半年淨利潤2311.07萬元，同比下降33.00%】常友科技公告，2026年上半年營業收入5.54億元，同比增長11.43%；歸屬於上市公司股東的淨利潤2311.07萬元，同比下降33.00%，2025年同期為3449.3萬元；扣除非經常性損益的淨利潤2330.54萬元，同比下降33.31%。受專案中標價格回落、外部市場波動及核心原材料採購成本上漲等影響，公司盈利空間受到壓縮。
-
----
-
-### 2026-08-27 21:07:22  #其他
-
-福特：任命戴夫·卡羅爾出任福特能源總裁，8月31日生效。
-
----
-
-### 2026-08-27 21:07:16  #國際
-
-印度孟買證券交易所（BSE）將於8月29日針對股票與股票衍生品板塊開展模擬交易。
-
----
-
-### 2026-08-27 21:06:53  #公司
-
-【潤貝航科：終止向不特定物件發行可轉債稽核】潤貝航科公告稱，公司此前審議透過終止向不特定物件發行可轉換公司債券事項並撤回申請檔案的議案，公司及保薦人國信證券已向深交所提交撤回申請檔案的申請。2026年8月27日，公司收到深交所出具的終止對公司申請向不特定物件發行可轉換公司債券稽核的決定，深交所根據相關規則決定終止本次發行稽核。
-
----
-
-### 2026-08-27 21:06:32  #MKT News
-
-【Nepal flash floods kill 359, 910 missing】Nepal's National Disaster Risk Reduction Authority said on the 27th that flash floods in northern Nepal have killed 359 people and left 910 missing.
-
----
-
-### 2026-08-27 21:05:35  #公司 #國際
-
-起亞美國公司：2027款極睿廠商建議零售價起售價為29890美元。
-
----
-
-### 2026-08-27 21:05:08  #公司 #國際
-
-起亞美國公司公佈改款2027款起亞極睿混合動力車型定價。
-
----
-
-### 2026-08-27 21:04:21  #國際
-
-雅培：Amulet 360產品首批歐洲病例已在德國和丹麥完成手術。
-
----
-
-### 2026-08-27 21:04:14  #國際
-
-雅培：未來數週內將在歐洲擴大Amulet 360的使用範圍。
-
----
-
-### 2026-08-27 21:04:00  #其他
-
-市場訊息：Concurrent Technologies Corporation獲得價值1490萬美元合同，為海軍陸戰隊設施司令部作戰技術網路安全提供支援。
-
----
-
-### 2026-08-27 21:03:43  #經濟數據 #美國
-
-芝加哥聯儲美國8月失業率初步預測為4.1%。
-
----
-
-### 2026-08-27 21:03:41  #其他
-
-飛利浦與Imricor推出心臟介入磁共振實驗室解決方案，拓展長期合作關係。
-
----
-
-### 2026-08-27 21:03:34  #其他
-
-市場訊息：雅培新一代Amulet 360™封堵器獲CE認證，用於治療存在卒中風險的房顫患者。
-
----
-
-### 2026-08-27 21:03:18  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-UBS raises its price target for NVIDIA (NVDA.O) to $300 from $280.
-
----
-
-### 2026-08-27 21:02:59  #其他
-
-卡達航空與優步達成合作，升級企業出行體驗。
-
----
-
-### 2026-08-27 21:02:54  #公司
-
-加拿大皇家銀行執行長：人工智慧拓展布局正對多個行業以及本銀行具備優勢的領域產生影響。
-
----
-
-### 2026-08-27 21:02:41  #MKT News #Commodities #Energy #Brent #Impact bearish #WTI
-
-Iran's deputy oil minister told Fars News that about 40% of damaged production capacity at the South Pars gas field has been restored to production.
-
----
-
-### 2026-08-27 21:02:22  #公司 #國際
-
-【中俄北極航道合作分委會第三次會議以影片形式舉行 健全工作機制擴大航運規模保障航行安全 推動中俄北極航道合作不斷取得新進展】8月27日下午，中俄總理定期會晤委員會北極航道合作分委會第三次會議以影片形式舉行。交通運輸部部長劉偉、俄羅斯國家原子能集團總經理利哈喬夫分別率團出席並共同主持會議。劉偉指出，在習近平主席和普京總統戰略引領下，兩國交通運輸部門積極推動北極航道合作，在航運開發、航行安全、極地船舶建造和技術等領域取得豐碩成果。今年是中俄戰略協作夥伴關係建立30週年和《中俄睦鄰友好合作條約》簽署25週年。中方願同俄方一道，進一步落實好兩國元首重要共識，充分發揮分委會機制作用，在互利共贏的基礎上推動北極航道合作不斷取得新進展。希望雙方深化北極航道全方位、多層次、立體化合作，聚焦提高工作效率，健全工作機制；聚焦擴能提質增效，擴大航運規模；聚焦守牢安全底線，保障航行安全，持續提升北極航道競爭力，為服務兩國經貿發展、維護區域物流供應鏈穩定貢獻力量。（交通運輸部）
-
----
-
-### 2026-08-27 21:02:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Iran oil minister says offshore crude deliveries to distant customers continue】Iran oil minister Mohsen Paknejad told ISNA that oil sales have not stopped and deliveries to distant/offshore customers continue despite reduced volumes. He said he would not disclose operational details for security reasons, that shipments have at times reached buyers’ delivery points, and that sales, after interruptions during two blockades, resumed at lower levels. He added authorities will continue to monitor the situation and take necessary measures.
-
----
-
-### 2026-08-27 21:02:19  #國際
-
-伊朗副石油部長表示，南帕爾斯天然氣田受損產能中約40%已恢復生產。
-
----
-
-### 2026-08-27 21:02:14  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Little Changed Amid Bank Earnings — Futures tracking Canada’s stock market were little changed on Thursday as major bank earnings rolled in. CIBC, TD Bank and RBC reported EPS and revenue above estimates, adding to a largely positive batch of bank earnings this week. On the geopolitical front, Qatar’s prime minister will visit Tehran on Thursday to pursue mediation efforts after the US and Iran traded recriminations over Washington’s pledge to increase economic pressure on Iran by targeting its trade partners with sanctions. Oil prices rebounded, pushing bond yields higher on renewed energy cost concerns and pressuring credit-sensitive stocks. Amid ongoing trade tensions with the US, Canada removed seafood and fish products from its list of counter-tariffs on US imports on Wednesday, a day after announcing levies on about $20 billion worth of US products. The US imposed new 50% tariffs on $20 billion of Canadian imports on Saturday, including autos and auto parts. BRP is set to release earnings today.
-
----
-
-### 2026-08-27 21:01:27  #央行 #國際
-
-芝加哥聯儲：美國 8 月失業率初步預測值為 4.1%。
-
----
-
-### 2026-08-27 21:00:53  #MKT News #Important #Commodities #Industrial Metals #Energy #WTI #Impact bullish
-
-Night session opened: China's main domestic futures were mostly higher. Low-sulfur fuel oil (LU) and SC crude rose over 2%; synthetic rubber, coke, propylene, fuel oil and coking coal gained more than 1%; soybean meal was up nearly 1%. Shanghai zinc and stainless steel (SS) eased slightly.
-
----
-
-### 2026-08-27 21:00:47  #其他
-
-市場訊息：戴夫・卡羅爾出任福特能源部門總裁；莉薩・德雷克將於年底從福特退休。
-
----
-
-### 2026-08-27 21:00:26  #國際
-
-以色列國防軍稱，打擊真主黨據點以回應無人機襲擊。
-
----
-
-### 2026-08-27 21:00:23  #國際
-
-俄羅斯 8 月 21 日當週國際儲備升至 7612 億美元。
-
----
-
-### 2026-08-27 21:00:13  #MKT News #XAUUSD
-
-Russia's central bank gold and foreign-exchange reserves were $761.2 bln in the week to Aug. 21, up from $755.6 bln the prior week.
-
----
-
-### 2026-08-27 21:00:03  #市場
-
-【國內期貨夜盤開盤】線材連續漲2.89%，上海原油連續漲2.25%，低硫燃料油連續漲1.99%，丁二烯橡膠連續漲1.76%，鉑連續跌1.71%。
-
----
-
-### 2026-08-27 21:00:01  #MKT News #Economic Calendar
-
-Russia | International Reserves (Aug.21) | actual 761200000000B | previous 755600000000B
-
----
-
-### 2026-08-27 20:59:40  #MKT News #Macro & Rates #US Economy
-
-An RBC top executive said industries directly hit by U.S. tariffs face challenges, but the impact is limited and has not spilled over into the broader economy.
-
----
-
-### 2026-08-27 20:59:37  #央行 #國際
-
-美聯儲資料顯示，8月26日美國聯邦基金有效利率為3.63%，交易額為1120億美元，而8月25日的有效利率為3.63%，交易額為1090億美元。
-
----
-
-### 2026-08-27 20:59:16  #國際
-
-加拿大皇家銀行高管表示，儘管迄今為止受美國關稅直接衝擊的行業面臨挑戰，但影響仍受控，尚未蔓延至整體經濟。
-
----
-
-### 2026-08-27 20:58:54  #其他
-
-【通往吉隆口岸的受災路段已搶通800米】吉隆縣“8•26”泥石流災害發生以來，西藏交通運輸部門貫徹落實自治區黨委、政府應急搶險救災工作部署，迅速組織力量對通往吉隆口岸的G216線受災路段全力開展搶險保通作業。截至8月27日18時，受災路段已搶通800米左右。西藏交通運輸部門細化完善道路搶險保通預案，科學部署、動態調整應急搶險力量，統籌最佳化人員、機械、物資調配，進一步明確各崗位職責，責任壓實到人。對通往吉隆口岸的G216線的3公里受災路段，投入挖掘機、裝載機等全力開展清淤保通作業，同時，全面開展災害區域公路、車輛及裝置災損摸排核查。已呼叫應急客車4輛、運送人員10人（次），貨車3輛、運送搶險物資60噸。同時，為確保拉薩至災區一線的生命大通道安全暢通，西藏交通運輸部門堅決貫徹落實“一人一段、一段一策”應急保通責任機制，加密對相關國省公路的巡查值守頻次，全力保障通往災區的生命通道安全暢通。（西藏日報）
-
----
-
-### 2026-08-27 20:57:38  #宏觀
-
-加拿大皇家銀行高管表示，在最新關稅措施出臺之際，將繼續依賴我們穩健的信貸承銷和撥備流程。
-
----
-
-### 2026-08-27 20:57:25  #MKT News
-
-RBC top executive says the latest tariffs on their own would not materially affect Canada’s overall economic forecast.
-
----
-
-### 2026-08-27 20:57:16  #公司
-
-【安達智慧：2026年上半年淨利潤虧損1801.71萬元】安達智慧公告，2026年上半年營業收入4.38億元，同比增長27.80%；歸屬於上市公司股東的淨利潤虧損1801.71萬元，2025年上半年虧損5844.38萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2129.92萬元，2025年上半年虧損4132.04萬元。
-
----
-
-### 2026-08-27 20:56:50  #公司
-
-【祥生醫療：2026年上半年淨利潤6895.76萬元，同比下降1.06%】祥生醫療公告，2026年上半年營業收入2.41億元，同比增長2.24%；歸屬於上市公司股東的淨利潤6895.76萬元，同比下降1.06%，2025年同期為6969.63萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤5320.2萬元，同比下降16.65%。公司擬每10股派發現金紅利3.5元（含稅），合計擬派發現金紅利3924.4萬元（含稅）。
-
----
-
-### 2026-08-27 20:56:35  #其他
-
-【世衛組織宣佈烏干達埃博拉疫情結束】世界衛生組織27日宣佈，烏干達埃博拉疫情結束。（央視新聞）
-
----
-
-### 2026-08-27 20:56:32  #MKT News
-
-【WHO declares Uganda Ebola outbreak over】The World Health Organization on the 27th declared the Ebola outbreak in Uganda over.
-
----
-
-### 2026-08-27 20:56:29  #MKT News
-
-Indian Prime Minister Modi and Russian President Putin will hold bilateral talks at the Shanghai Cooperation Organization summit.
-
----
-
-### 2026-08-27 20:56:00  #國際
-
-市場訊息：印度總理莫迪與俄羅斯總統普京將在上合組織會議期間舉行雙邊會晤。
-
----
-
-### 2026-08-27 20:55:29  #公司
-
-【世紀恆通：2026年上半年淨利潤3126.58萬元，同比下降15.44%】世紀恆通公告，2026年上半年營業收入4.89億元，同比下降9.47%；歸屬於上市公司股東的淨利潤3126.58萬元，同比下降15.44%，2025年同期為3697.43萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1353.11萬元，同比下降55.16%，2025年同期為3017.43萬元。公司計劃不派發現金紅利、不送紅股、不以公積金轉增股本。
-
----
-
-### 2026-08-27 20:54:19  #公司 #國際
-
-【美藥管局批准治療轉移性胰腺癌的新藥】美國食品和藥物管理局26日批准一款用於治療轉移性胰腺癌的新型口服藥物，為部分晚期胰腺癌患者提供新的治療選擇。 據美藥管局介紹，這款名為Rasonque的口服藥物由美“革命”醫藥公司研發，為每日一次口服片劑，靶向作用於RAS蛋白。RAS是多種腫瘤生長的重要驅動因子，在大多數胰腺腺癌患者的腫瘤生長過程中發揮關鍵作用。(新華社)
-
----
-
-### 2026-08-27 20:53:16  #其他
-
-【晶科能源簽約希臘176.14MW飛虎元件地面電站訂單】晶科能源訊息，近日，晶科能源與希臘可再生能源開發商正式簽署176.14MW高效元件供貨協議，全部採用飛虎系列N型高效雙面元件，專項用於希臘中部大型地面電站建設。
-
----
-
-### 2026-08-27 20:53:12  #MKT News #Market Regions #Greater China
-
-【Wuhu Jiahong New Materials IPO to be reviewed at Beijing Stock Exchange on Sept 3】The Beijing Stock Exchange listing review committee will meet on September 3 at 9:00am for its 2026 81st session to review the initial public offering of Wuhu Jiahong New Materials Co., Ltd.
-
----
-
-### 2026-08-27 20:52:58  #公司
-
-【佳宏新材北交所IPO將於9月3日上會】據北交所網站披露，北交所上市稽核委員會定於9月3日上午9時召開2026年第81次上市稽核委員會審議會議，屆時將審議蕪湖佳宏新材料股份有限公司的首發事項。
-
----
-
-### 2026-08-27 20:52:58  #MKT News #Commodities #Energy #JKS.O #Impact bullish
-
-【JinkoSolar signs 176.14MW Feihu module supply deal for Greek ground-mounted PV plant】JinkoSolar said it has signed a 176.14MW supply agreement with a Greek renewable-energy developer to deliver Feihu-series N-type high-efficiency bifacial modules for a large ground-mounted solar plant in central Greece.
-
----
-
-### 2026-08-27 20:51:04  #公司 #觀點
-
-【英偉達財報引爆目標價上調潮 已有機構喊出10萬億美元的目標估值】英偉達最新財報及業績指引超預期，提振華爾街看多情緒，大摩、花旗、瑞穗等十餘家大行密集上調目標價。今日以來，至少13家機構上調英偉達目標價，其中瑞傑金融集團將目標價由352美元上調至515美元，創目前最高目標價；Melius Research由400美元上調至420美元，伯恩斯坦由315美元上調至400美元，羅森布拉特證券由325美元上調至390美元。按英偉達241億股計算，515美元目標價對應市值約12.4萬億美元。英偉達最新財報全面超預期：2027財年第二季度營收962億美元，同比增長106%；調整後每股收益2.22美元，同比增長120%；資料中心收入890億美元。公司預計第三財季營收中值1080億美元，並預計2028財年營收增長約70%，顯著高於市場此前約45%的預期。
-
----
-
-### 2026-08-27 20:50:37  #國際
-
-伊朗石油部長：伊朗繼續向“遠海”客戶輸送石油。
-
----
-
-### 2026-08-27 20:50:02  #MKT News
-
-Saudi outlet Alhadath reported Israeli prime minister NETANYAHU and defense minister Katz said they have not instructed that the Erez (Beit Hanoun) crossing be opened to allow goods into or out of Gaza at this time.
-
----
-
-### 2026-08-27 20:49:52  #公司
-
-【天潤工業：2026年上半年淨利潤2.7億元，同比增長37.28%】天潤工業公告，2026年上半年營業收入25.85億元，同比增長32.93%；歸屬於上市公司股東的淨利潤2.7億元，同比增長37.28%，2025年同期為1.97億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.39億元，同比增長30.56%。公司擬以截至2026年6月30日總股本11.39億股扣除回購專戶上已回購股份後的股本為基數，每10股派發現金紅利0.50元（含稅），不送紅股、不以公積金轉增股本。
-
----
-
-### 2026-08-27 20:49:45  #公司
-
-【深中華A：阿米尼智數科技尚未開展實質業務】深中華A公告，針對媒體關於公司投資成立智數科技公司、涉及多項AI業務的報道，公司澄清稱，阿米尼智數科技已在2026年8月25日披露的半年度報告中列示，截至目前尚未開展實質業務，核心團隊及關鍵崗位人員仍處於組建與引進階段。後續其從事珠寶設計的支援，預計對公司整體生產經營和業績影響較小。
-
----
-
-### 2026-08-27 20:49:40  #國際
-
-【美國7月商品貿易逆差擴大至去年年初以來最大 進口增長強勁】美國7月商品貿易逆差擴大至去年年初以來最高水平，資本裝置進口回升帶動整體進口大幅增長。美國商務部週四公佈的資料顯示，7月商品貿易逆差較上月擴大17.2%，至1,188億美元，為2025年3月以來最大。彭博調查的經濟學家預估中值為逆差1,005億美元。上述資料未經通脹調整。7月美國商品進口增長3.7%，出口下降2.9%。
-
----
-
-### 2026-08-27 20:49:10  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【US initial jobless claims fall; Fed could keep focus on inflation】US initial jobless claims fell 4,000 to 203,000 in the week ended Aug. 22, seasonally adjusted, versus 208,000 expected, the US Department of Labor said Thursday. Claims remain in a low 189k–230k range this year, suggesting layoffs are limited despite softer hiring. Continuing claims fell 18,000 to 1.778 million, a reference point for hiring. The unemployment rate slipped to 4.1% last month; if the labor market stays stable, the Fed could continue to prioritize bringing inflation down — US inflation has exceeded the Fed’s 2% target for 65 months.
-
----
-
-### 2026-08-27 20:49:05  #央行 #國際
-
-【美國初請失業金人數下降 美聯儲或可繼續聚焦通脹】美國上週初請失業金人數量下降，表明儘管7月就業人數意外減少，美國勞動力市場仍保持穩定。美國勞工部週四表示，截至8月22日當週，初請人數經季節性調整後減少4000人，至20.3萬人，經濟學家預期為20.8萬人。初請人數目前處於今年18.9萬至23萬區間的較低水平，表明即使招聘活動疲軟，裁員規模仍然較低。美國上月失業率再次小幅下降至4.1%，處於歷史低位。如果勞動力市場持續保持穩定，美聯儲或可繼續將重點放在控制通脹上。美國通脹率已連續65個月高於美聯儲2%的目標。資料顯示，續請失業金人數減少1.8萬人，至177.8萬人，這一指標可作為招聘情況的參考。
 
 ---

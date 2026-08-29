@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-29 23:52:26_
-_本檔包含 2640 則快訊，約 553155 字_
+_更新時間：2026-08-30 03:16:39_
+_本檔包含 2640 則快訊，約 554602 字_
+
+---
+
+### 2026-08-26 17:29:01  #公司
+
+【東風股份：2026年上半年淨利潤1.24億元，同比增長27.83%】東風股份公告，2026年上半年營業收入55.16億元，同比增長9.64%；歸屬於上市公司股東的淨利潤1.24億元，同比增長27.83%，2025年上半年為9720.61萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損2272.78萬元，2025年上半年虧損8706.63萬元。
+
+---
+
+### 2026-08-26 17:28:38  #MKT News
+
+【2026 national raw materials industry symposium held in Ningbo】Aug 25, 2026 — China convened a national raw materials industry symposium in Ningbo, Zhejiang, directing the industrial and information authorities to target basic completion of new-type industrialization during the 15th Five-Year period, balance domestic and international conditions and development with security, and pursue high-quality growth driven by reform and innovation. Policy priorities are upgrading traditional industries, accelerating advanced materials innovation, strengthening resource-security measures, and locally tailored cultivation of new productive forces. Authorities called for faster digitalization, green transformation and cross-sector integration to steer the raw materials sector from scale leadership toward comprehensive competitiveness.
+
+---
+
+### 2026-08-26 17:28:29  #公司
+
+【海天味業：2026年上半年主營營收同比增5.43%】海天味業公告稱，2026年半年度主營業務收入153.52億元，同比增長5.43%。分產品看，醬油收入82.96億元，同比增4.65%；蠔油收入25.66億元，同比增2.56%；調味醬收入16.45億元，同比增1.19%；其他產品收入28.44億元，同比增13.52%。分渠道看，線下渠道收入143.80億元，同比增4.81%；線上渠道收入9.72億元，同比增15.45%。截至報告期末，公司經銷商總數為6697家，報告期內新增621家、減少626家。
+
+---
+
+### 2026-08-26 17:28:20  #公司
+
+【曲美家居：2026年上半年虧損7338.02萬元，上年同期虧損4686.02萬元】曲美家居公告，2026年上半年營業收入16.59億元，同比下降4.20%；歸屬於上市公司股東的淨利潤虧損7338.02萬元，上年同期虧損4686.02萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損9861.88萬元，上年同期虧損7737.98萬元。
+
+---
+
+### 2026-08-26 17:27:33  #MKT News
+
+Kremlin: Putin spoke by phone with the Syrian president and reaffirmed support for Syria's unity, territorial integrity and sovereignty.
+
+---
+
+### 2026-08-26 17:26:47  #MKT News #EURUSD #Impact bullish #DAX
+
+【German exporters' confidence jumps to 4½-year high, signalling nascent recovery】German exporters' confidence rose in August to a four-and-a-half-year high as demand from EU partners lifted the IFO export expectations index to 9.6 from -2.8 in July — the largest one-month improvement in over six years and the highest reading since Feb 2022. The survey cited stronger sentiment at data-processing equipment, electrical equipment and auto firms; IFO said exports, especially to the EU, are accelerating. Official data on Tuesday showed Q2 GDP expanded more than initially estimated, partly driven by robust exports, providing further evidence of stabilising growth despite deep strains in the auto sector.
+
+---
+
+### 2026-08-26 17:26:27  #MKT News #Important
+
+【Iran equities surge for second day; up to 90% of stocks rose intraday】Beijing time afternoon Aug 26 — Tindex (Iran Economic Index Reference) reported the Tehran Stock Exchange composite index jumped 155,000 points to breach 6,385,000, with as many as 90% of stocks advancing and over 80% up 2–3%. State news agency IRNA confirmed the move. The rally follows yesterday’s spike, when the index climbed more than 100,000 points in under an hour to break the 6.2 million mark.
+
+---
+
+### 2026-08-26 17:26:21  #公司
+
+【金鷹股份：2026年上半年淨利潤1964.3萬元，同比扭虧為盈】金鷹股份公告，2026年上半年營業收入7億元，同比增長19.54%；歸屬於上市公司股東的淨利潤1964.3萬元，2025年同期虧損876.92萬元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤1768.43萬元，2025年同期虧損929.31萬元，同比扭虧為盈。
+
+---
+
+### 2026-08-26 17:26:14  #公司
+
+【峰璟股份：2026年上半年淨利潤2693.32萬元，同比下降75.95%】峰璟股份公告，2026年上半年營業收入12.99億元，同比下降8.43%；歸屬於上市公司股東的淨利潤2693.32萬元，同比下降75.95%，上年同期1.12億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤582.55萬元，同比下降94.53%，上年同期1.07億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-26 17:26:12  #公司
+
+【雙箭股份：2026年上半年淨利潤1738.56萬元，同比下降60.41%】雙箭股份公告，2026年上半年營業收入12.41億元，同比下降6.93%；歸屬於上市公司股東的淨利潤1738.56萬元，同比下降60.41%，2025年同期4391.88萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤496.4萬元，同比下降87.11%，2025年同期3852.13萬元。
+
+---
+
+### 2026-08-26 17:25:52  #公司
+
+【中復神鷹：上半年淨利潤7016.23萬元，同比增長488.12%】中復神鷹公告，2026年上半年營業收入11.63億元，同比增長26.14%；歸屬於上市公司股東的淨利潤7016.23萬元，同比增長488.12%。
+
+---
+
+### 2026-08-26 17:25:36  #MKT News #Macro & Rates #US Economy #005380.KS #Impact bearish
+
+Hyundai Motor CEO said he is concerned about US tariffs and that the company must address them.
+
+---
+
+### 2026-08-26 17:25:12  #MKT News #LEG.O
+
+【Foreign firms file Section 337 complaint on powered rocker‑recliner and glider‑recliner mechanisms】On Aug. 24, 2026 Ultra‑Mek, Incorporated (US), Leggett & Platt, Incorporated (US) and L&P Property Management Company (UK) filed a complaint with the US International Trade Commission under Section 337 of the Tariff Act of 1930. They allege certain powered rocker‑recliner and glider‑recliner mechanisms and seating units exported to, imported into, and sold in the US infringe their patents and seek a 337 investigation plus a limited exclusion order and cease‑and‑desist orders; four Chinese companies are named in the filing.
+
+---
+
+### 2026-08-26 17:25:10  #公司
+
+【上海環境：2026年上半年淨利潤3.06億元，同比下降8.78%】上海環境公告，2026年上半年營業收入26.66億元，同比下降10.07%；歸屬於上市公司股東的淨利潤3.06億元，同比下降8.78%，2025年同期3.36億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.09億元，同比下降4.31%，2025年同期3.23億元。本報告未經審計。
+
+---
+
+### 2026-08-26 17:25:07  #國際
+
+【外國企業對特定電動搖椅、滑動搖椅結構及其下游座椅單元提起337調查申請】2026年8月24日，美國Ultra-Mek,Incorporated、美國Leggett&Platt,Incorporated、英國L&PProperty Management Company根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，指控對美出口、在美進口及銷售的特定電動搖椅、滑動搖椅結構及其下游座椅單元（Certain Powered Rocker-Recliner and Glider-Recliner Mechanisms and Seating Units Containing Same）侵犯其專利權，請求發起337調查併發布有限排除令和禁止令。四家中國企業涉案。（商務部）
+
+---
+
+### 2026-08-26 17:24:46  #公司
+
+【洪都航空：2026年上半年淨利潤1209.47萬元，同比增長171.93%】洪都航空公告，2026年上半年營業收入27.42億元，同比增長79.97%；歸屬於上市公司股東的淨利潤1209.47萬元，同比增長171.93%，2025年同期為444.77萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1286.25萬元，同比增長427.96%，2025年同期為243.62萬元。
+
+---
+
+### 2026-08-26 17:24:39  #公司
+
+【基蛋生物：2026年上半年淨利潤1.84億元，同比增長69.37%】基蛋生物公告，2026年上半年營業收入5.55億元，同比增長8.32%；歸屬於上市公司股東的淨利潤1.84億元，同比增長69.37%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.18億元，同比增長26.63%。公司擬每10股派發人民幣1.5元（含稅），擬派發現金股利7596.57萬元（含稅）。
+
+---
+
+### 2026-08-26 17:24:34  #國際
+
+【俄稱正在白俄羅斯境內與烏克蘭交換戰俘】當地時間26日，俄羅斯人權事務專員蘭特拉託娃稱，俄烏戰俘交換正在白俄羅斯境內進行。蘭特拉託娃稱，當天將有10名俄方軍人從烏克蘭返回。（央視新聞）
+
+---
+
+### 2026-08-26 17:24:30  #公司
+
+【洋河股份：2026年上半年淨利潤26.02億元，同比下降40.10%】洋河股份公告，2026年上半年營業收入105.4億元，同比下降28.76%；歸屬於上市公司股東的淨利潤26.02億元，同比下降40.10%，2025年上半年為43.44億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤24.49億元，同比下降42.12%，2025年上半年為42.32億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-26 17:24:27  #公司
+
+【京運通：2026年上半年淨利潤虧損3.89億元，2025年上半年虧損2.12億元】京運通公告，2026年上半年營業收入8.62億元，同比下降43.49%；歸屬於上市公司股東的淨利潤虧損3.89億元，2025年上半年虧損2.12億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損4.16億元，2025年上半年虧損2.21億元。
+
+---
+
+### 2026-08-26 17:24:25  #公司 #國際
+
+【俄羅斯阿穆爾天然氣化工廠發生火災事故導致中國公民傷亡】據“中國駐哈巴羅夫斯克總領事館”公眾號訊息，8月25日，俄羅斯阿穆爾州自由城阿穆爾天然氣化工廠發生火災，造成包括多名中國公民在內的人員傷亡。現場搜救和傷員救治工作正在緊張進行，事故原因正在調查中。我館工作組已赴現場開展工作，敦促俄方和專案公司全力救治中方傷員，並妥善做好死亡人員善後和家屬安撫工作。（介面新聞）
+
+---
+
+### 2026-08-26 17:23:51  #宏觀
+
+【財政部重慶監管局：多措並舉開展城鄉居民醫保補助資金稽核紮實築牢民生資金安全屏障】城鄉居民基本醫療保險補助資金是兜牢民生底線、保障基本就醫權益的核心財力支撐。為深入貫徹黨中央、國務院健全社會保障體系工作部署，嚴格落實財政部、國家醫保局有關要求，重慶監管局立足屬地監管職責，堅持以人民為中心，緊扣“精準、從嚴、高效、閉環”工作標準，統籌組織、創新方法、多方聯動，高質量完成2026年度中央財政城鄉居民醫保補助資金稽核工作，推動醫保惠民政策在重慶落地見效。（財政部）
+
+---
+
+### 2026-08-26 17:23:34  #公司
+
+【瀚藍環境：2026年上半年淨利潤12.06億元，同比增長24.76%】瀚藍環境公告，2026年上半年營業收入77.37億元，同比增長34.25%；歸屬於上市公司股東的淨利潤12.06億元，同比增長24.76%；歸屬於上市公司股東的扣除非經常性損益的淨利潤11.8億元，同比增長29.32%。公司擬每10股派發現金紅利2.8元（含稅）。此前披露的收購交易已獲股東會審議透過，正推進上海證券交易所稽核等相關工作。
+
+---
+
+### 2026-08-26 17:23:18  #MKT News
+
+Russian Defence Ministry said its forces had "liberated" Pisarevka in Sumy region and Nezhenka in Zaporizhzhia region.
+
+---
+
+### 2026-08-26 17:22:47  #MKT News #QTEC.O
+
+Invesco Nasdaq Technology ETF said trading will be suspended from market open on Aug. 27, 2026 and will resume at 10:30 on Aug. 27, 2026; redemptions will be processed as normal during the suspension.
+
+---
+
+### 2026-08-26 17:22:30  #MKT News
+
+Saudi Arabia's foreign ministry welcomed the integration of the Syrian Democratic Forces (SDF) into Syria's national military institutions. It reiterated support for the Syrian government taking related measures to continue advancing national unity and development.
+
+---
+
+### 2026-08-26 17:22:15  #公司
+
+【動力新科：2026年上半年淨利潤7949.78萬元，同比扭虧為盈】動力新科公告，2026年上半年營業收入32.05億元，同比增長13.29%；歸屬於上市公司股東的淨利潤7949.78萬元，2025年同期虧損3.01億元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤5414.95萬元，2025年同期虧損4.31億元，同比扭虧為盈。報告期內，公司實現發動機銷售11.05萬臺，同比增長28.13%。
+
+---
+
+### 2026-08-26 17:22:15  #MKT News
+
+Guangfa Nasdaq ETF said it will suspend trading from market open on Aug 27, 2026 and will resume at 10:30 on Aug 27, 2026; redemptions will be processed as normal during the suspension.
+
+---
+
+### 2026-08-26 17:21:54  #公司
+
+【長源東谷：2026年半年度淨利潤1.67億元，同比增長1.66%】長源東谷公告，2026年上半年營業收入10.14億元，同比下降2.03%；歸屬於上市公司股東的淨利潤1.67億元，同比增長1.66%，2025年同期為1.64億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.53億元，同比下降1.99%，2025年同期為1.57億元。公司2026年半年度不進行利潤分配或公積金轉增股本。
+
+---
+
+### 2026-08-26 17:21:51  #公司
+
+【上海凱鑫：2026年上半年淨利潤1028.86萬元，同比下降67.50%】上海凱鑫公告，2026年上半年營業收入1.07億元，同比下降16.18%；歸屬於上市公司股東的淨利潤1028.86萬元，同比下降67.50%，2025年同期為3165.34萬元；扣除非經常性損益的淨利潤982.02萬元，同比下降65.90%，2025年同期為2879.75萬元。公司擬以總股本6378.35萬股為基數，每10股派發現金紅利1.5元（含稅）。
+
+---
+
+### 2026-08-26 17:21:49  #公司
+
+【超純應材：2026年上半年淨利潤1.14億元，同比增長85.46%】超純應材公告，2026年上半年營業收入3.06億元，同比增長48.41%；歸屬於上市公司股東的淨利潤1.14億元，同比增長85.46%，2025年同期為6152.95萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.13億元，同比增長35.22%，2025年同期為8323.05萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-26 17:21:47  #其他
+
+【四川省成都市委常委、成都高新區黨工委書記劉任遠接受紀律審查和監察調查】據四川省紀委監委訊息：四川省成都市委常委、成都高新區黨工委書記劉任遠涉嫌嚴重違紀違法，目前正接受四川省紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-26 17:21:37  #MKT News #Market Regions #Emerging Markets
+
+REUTERS SURVEY: India's NIFTY 50 index is forecast to rise 5.0% from Tuesday's close to 25,556 by end-2026 and to 26,300 by mid-2027. The May survey forecasts were 26,000 and 27,000 respectively.
+
+---
+
+### 2026-08-26 17:21:24  #公司
+
+【華建集團：2026年上半年淨利潤1183.37萬元，同比下降91.37%】華建集團公告，2026年上半年營業收入23.59億元，同比下降20.76%；歸屬於上市公司股東的淨利潤1183.37萬元，同比下降91.37%，2025年同期為1.37億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤135.84萬元，同比下降98.37%，2025年同期為8329.97萬元。
+
+---
+
+### 2026-08-26 17:21:17  #市場
+
+新加坡海峽時報指數收盤下跌0.2%，報5721.59點。
+
+---
+
+### 2026-08-26 17:21:12  #其他
+
+【掌閱科技：2026年上半年淨利潤虧損5014.18萬元，2025年同期虧損1.6億元】掌閱科技公告，2026年上半年營業收入17.84億元，同比增長16.89%；歸屬於上市公司股東的淨利潤虧損5014.18萬元，2025年同期虧損1.6億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損7380.02萬元，2025年同期虧損1.71億元。公司2026年半年度不進行利潤分配或公積金轉增股本。
+
+---
+
+### 2026-08-26 17:21:11  #市場 #焦點
+
+現貨黃金失守4620美元/盎司，日內跌0.84%。
+
+---
+
+### 2026-08-26 17:21:05  #MKT News
+
+【Ebola outbreak in DRC nears historically severe levels】Washington Post, citing doctors, aid groups and global health agencies, reports the Ebola outbreak in the Democratic Republic of Congo is approaching the country’s worst recorded levels; severe funding shortfalls and widespread misinformation are hindering response efforts. U.S. CDC data show at least 5,605 infections and 2,683 deaths since the first confirmed case on May 15, figures DRC government data largely corroborate. The current toll already exceeds the 2018–2022 outbreak that killed about 2,200, and the outbreak’s initial spread has been faster than the 2014 West Africa epidemic, which ultimately caused more than 11,000 deaths.
+
+---
+
+### 2026-08-26 17:20:43  #MKT News
+
+The Kremlin said Russian President Putin held a phone call with Syria's president.
 
 ---
 
@@ -15738,239 +15972,5 @@ BMO首席風險官稱，在貿易緊張局勢下，預計第四季度不良貸�
 ### 2026-08-25 19:44:58  #MKT News
 
 UK two-year government bond yield fell 5 bps to 4.33% as the broader bond market rallied.
-
----
-
-### 2026-08-25 19:44:42  #市場
-
-受債券市場整體上漲影響，英國兩年期國債收益率下跌5個基點至4.33%。
-
----
-
-### 2026-08-25 19:44:37  #市場
-
-迪克體育用品股價跌幅進一步擴大，盤前交易時段截至最新跌約16%。
-
----
-
-### 2026-08-25 19:44:21  #公司
-
-【興蓉環境：2026年上半年營收43.88億元 淨利同比增4.74%】興蓉環境公告稱，2026年上半年實現營業收入43.88億元，同比增長4.67%；歸屬於上市公司股東的淨利潤10.21億元，同比增長4.74%；扣非淨利潤10.02億元，同比增長4.84%。經營活動產生的現金流量淨額7.28億元，同比下降22.05%。基本每股收益0.3426元/股，同比增長4.77%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-25 19:44:07  #其他
-
-【騰訊雲與卡爾動力達成戰略合作】8月25日，騰訊雲與卡爾動力達成戰略合作。雙方將進一步深化AI基礎設施協同，圍繞自動駕駛貨運模型的訓練、推理、資料處理與持續迭代開展合作，為卡爾動力L4級自動駕駛幹線貨運的規模化運營提供支撐。透過此次戰略合作，騰訊雲將在雲上算力、資料儲存與AI平臺三方面，助力提升卡爾動力自研自動駕駛貨運模型的訓練、推理與持續迭代效率。（介面新聞）
-
----
-
-### 2026-08-25 19:43:55  #公司
-
-【皓宸醫療：2026年上半年虧損1402.59萬元，上年同期虧損2375.11萬元】皓宸醫療公告，2026年上半年營業收入3.14億元，同比增長0.14%；歸屬於上市公司股東的淨利潤虧損1402.59萬元，上年同期虧損2375.11萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1411.31萬元，上年同期虧損2355.85萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-25 19:43:46  #公司
-
-【漢朔科技：2026年上半年淨利潤3.36億元，同比增長51.22%】漢朔科技公告，2026年上半年營業收入29.07億元，同比增長47.23%；歸屬於上市公司股東的淨利潤3.36億元，同比增長51.22%，2025年上半年為2.22億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.93億元，同比增長1.99%，2025年上半年為2.87億元。
-
----
-
-### 2026-08-25 19:43:39  #MKT News
-
-【Oman foreign minister to meet Iran foreign minister】Oman foreign minister Badr Albusaidi will visit Tehran on Tuesday to meet Iran foreign minister Araghchi. An Iranian foreign ministry spokesman said the two countries, as Strait of Hormuz littoral states, will continue political consultations to advance regional peace and security.
-
----
-
-### 2026-08-25 19:43:35  #公司
-
-【中國醫藥：2026年上半年淨利潤2.49億元，同比下降15.26%】中國醫藥公告，2026年上半年營業收入169.52億元，同比下降0.73%；歸屬於上市公司股東的淨利潤2.49億元，同比下降15.26%，2025年上半年為2.94億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.31億元，同比下降9.81%。
-
----
-
-### 2026-08-25 19:42:16  #其他
-
-【河南成功發行政府債券665.56億元】據“河南釋出”，8月25日，河南省在北京成功發行政府債券665.56億元。新增一般債券54.25億元，用於基礎設施專案建設。新增專項債券402.03億元，其中：113.38億元用於補充地方政府性基金財力；168.59億元用於存量政府投資專案；120.06億元用於市政和產業園區基礎設施、保障性安居工程、生態環保等重點領域的162個建設專案。再融資一般債券159.68億元，用於償還到期債券的部分本金。再融資專項債券49.6億元，用於置換存量隱性債務。
-
----
-
-### 2026-08-25 19:42:01  #MKT News #Market Themes #AI Revolution
-
-BMO executive says Canadian growth has recovered thanks to AI-driven expansion and US growth remains steady.
-
----
-
-### 2026-08-25 19:41:47  #MKT News #Macro & Rates #US Economy
-
-BMO top executive said the North American economy remains resilient despite rising geopolitical risks and shifts in the trade environment.
-
----
-
-### 2026-08-25 19:41:46  #公司 #國際
-
-麥格理為支援歐洲光纖公司（Eurofiber）及北歐其他企業擴張的長期融資平臺提供22億歐元再融資中的部分融資安排。
-
----
-
-### 2026-08-25 19:41:40  #國際
-
-加拿大蒙特利爾銀行高管表示，加拿大經濟已恢復增長，受人工智慧驅動的擴張支撐，美國經濟增長仍保持穩健。
-
----
-
-### 2026-08-25 19:41:29  #MKT News
-
-Pakistan's interior minister met the US chargé d'affaires to Pakistan hours after returning from Iran.
-
----
-
-### 2026-08-25 19:40:37  #焦點 #國際
-
-伊朗媒體：伊朗和阿曼外長在德黑蘭舉行會談。
-
----
-
-### 2026-08-25 19:40:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Rebound — US equity futures were higher on Tuesday, trimming losses from the previous session amid a rebound for chip producers and softer Treasury yields. Contracts for the S&P 500, Dow, and Nasdaq 100 were 0.5% higher. Companies with exposure to AI infrastructure rebounded from their aggressive losses last session as markets grappled with uncertainty in the sector. The likelihood of massive IPOs for hyperscalers that invest on infrastructure, including Anthropic and OpenAI, weighed against skepticism that AI demand will be strong enough in the near-term to justify the magnitude of capital expenditure. Also, Nvidia inched higher ahead of its earnings tomorrow. Broader sectors also gained as long-term Treasuries rebounded from their recent selloffs. US Secretary Treasury Bessent threatened to sanction banks and companies that intermediate trade with Iran, but energy price still eased after Iran responded to threats. GE Vernova and Veritiv rose more than 2%.
-
----
-
-### 2026-08-25 19:40:10  #MKT News
-
-Saudi outlet Alhadath reports heavy fighting between government forces and Houthi fighters on the Karabah front northeast of Taiz.
-
----
-
-### 2026-08-25 19:39:58  #公司
-
-【興蓉環境：2026年上半年淨利潤10.21億元，同比增長4.74%】興蓉環境公告，2026年上半年營業收入43.88億元，同比增長4.67%；歸屬於上市公司股東的淨利潤10.21億元，同比增長4.74%，2025年上半年為9.75億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤10.02億元，同比增長4.84%。公司不派發現金紅利、不送紅股、不以公積金轉增股本。
-
----
-
-### 2026-08-25 19:39:52  #公司
-
-【雄韜股份：2026年上半年淨利潤4806.37萬元，同比下降46.64%】雄韜股份公告，2026年上半年營業收入18.25億元，同比增長13.58%；歸屬於上市公司股東的淨利潤4806.37萬元，同比下降46.64%，2025年同期為9007.67萬元；扣除非經常性損益的淨利潤4191.27萬元，同比下降39.88%。公司擬以3.78億為基數，每10股派發現金紅利0.5元（含稅），送紅股0股。
-
----
-
-### 2026-08-25 19:39:41  #公司 #焦點
-
-【招商證券：2026年上半年營收219.02億元 同比增108.19%】招商證券公告稱，2026年上半年實現營業收入219.02億元，同比增長108.19%；淨利潤106.24億元，同比增長104.87%，業績創歷史同期最好水平。公司已實施2025年度現金分紅39.05億元（含稅），擬實施2026年中期分紅；上市以來累計現金分紅415.73億元，股份回購投入6.64億元，累計分紅率約38%。公司“提質增效重回報”行動方案各項內容均已按計劃實施。
-
----
-
-### 2026-08-25 19:39:39  #MKT News
-
-TRUMP said he will never interfere with Canadians speaking French, denied ever considering such a stupid action, called the allegation a lie fabricated by a weak, incompetent prime minister to court Quebec voters, and said he loves French Canadians.
-
----
-
-### 2026-08-25 19:39:35  #公司
-
-【安博通：2026年上半年營收1.31億元 同比降69.46%】安博通公告稱，2026年上半年實現營業收入1.31億元，同比下降69.46%；歸屬於上市公司股東的淨虧損2278.39萬元，上年同期淨虧損1.09億元；歸屬於上市公司股東的扣除非經常性損益的淨虧損2295.49萬元。研發投入佔營業收入的比例為29.29%，同比增加14.60個百分點。本報告期無利潤分配預案。
-
----
-
-### 2026-08-25 19:39:20  #其他
-
-招商證券：上半年淨利潤106.2億元人民幣。
-
----
-
-### 2026-08-25 19:39:08  #其他
-
-招商證券：上半年營收219.0億元人民幣。
-
----
-
-### 2026-08-25 19:38:49  #MKT News
-
-Ukrainian state broadcaster Suspilne reported President Zelenskiy said Ukraine has recently received Patriot interceptor missiles and will receive Crotale short-range air-defense systems.
-
----
-
-### 2026-08-25 19:38:47  #公司
-
-【佳都科技：2026年上半年營收53.54億元 淨利同比降77.27%】佳都科技公告稱，2026年上半年實現營業收入53.54億元，同比增長8.83%；歸屬於上市公司股東的淨利潤3074.95萬元，同比下降77.27%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1615.29萬元，同比增長7.27%。基本每股收益0.0145元/股，同比下降77.06%。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-25 19:38:44  #公司
-
-【長進光子：2026年上半年營收同比降3.61%】長進光子公告稱，2026年上半年實現營業收入9675.70萬元，同比下降3.61%；歸屬於上市公司股東的淨利潤3145.64萬元，同比下降7.62%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2809.68萬元，同比下降2.38%。基本每股收益0.42元，同比下降14.29%。研發投入佔營業收入的比例為17.40%，同比減少0.39個百分點。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-25 19:38:39  #公司
-
-【萬隆光電：回覆深交所重組稽核問詢函】萬隆光電公告稱，公司擬發行股份及支付現金購買浙江中控資訊產業股份有限公司100%股份並募集配套資金，此前於2026年7月13日收到深交所出具的本次交易申請的稽核問詢函。目前公司及相關中介機構已按要求就問詢事項逐項說明、論證和回覆，相關回覆檔案已同步披露。本次交易尚需深交所稽核透過並經證監會同意註冊方可實施，能否獲批及獲批時間存在不確定性。
-
----
-
-### 2026-08-25 19:38:32  #公司
-
-【萬隆光電：就重組問詢函應收款項事項作專項說明】萬隆光電公告稱，公司就發行股份及支付現金購買資產並募集配套資金申請的稽核問詢函中標的資產應收款項相關問題作出財務專項說明。2025年末標的公司應收賬款餘額24.21億元，3年以上佔比16.51%；交易完成後上市公司營收將大幅提升、業績扭虧為盈，標的長賬齡應收款不會造成重大不利影響，風險可控。本次交易已設定應收賬款回收考核條款，承諾方為杭州匯格等三家合夥企業，要求業績承諾期營收含稅累計回款比例不低於80%，未達標將以現金及股份補償。
-
----
-
-### 2026-08-25 19:38:02  #國際
-
-【特朗普：絕不會干預加拿大人使用法語】特朗普在社交媒體發文：我絕不會干預加拿大人使用法語！事實上，我壓根就沒有動過做這種蠢事的念頭。這則謊言，是一位軟弱無能的總理編造出來的，他企圖藉此爭取魁北克民眾的政治支援，可這份支援早已蕩然無存。我熱愛法裔加拿大人！
-
----
-
-### 2026-08-25 19:37:24  #國際
-
-市場訊息：澤連斯基稱烏克蘭將收到“響尾蛇”防空系統。
-
----
-
-### 2026-08-25 19:37:08  #國際
-
-特朗普：我喜歡法裔加拿大人。
-
----
-
-### 2026-08-25 19:36:57  #國際
-
-特朗普：絕不會干涉加拿大人說法語。
-
----
-
-### 2026-08-25 19:36:50  #公司
-
-【申聯生物：關於獲批豬口蹄疫O型、南非1型二價合成肽疫苗的獸藥產品批准文號批件的自願性披露公告】申聯生物：豬口蹄疫二價合成肽疫苗獲批，文號2.8億申聯生物公告，公司蘭州分公司獲中華人民共和國農業農村部准予生產豬口蹄疫O型、南非1型二價合成肽疫苗，並取得獸藥產品臨時批准文號批件，文號為獸藥臨字280187563，有效期為2026年8月24日至2028年8月23日。該產品尚需履行獸藥產品批簽發等程式後方可上市銷售。
-
----
-
-### 2026-08-25 19:35:51  #公司 #國際
-
-【經合組織：七國集團二季度經濟增速放緩至0.3%】經濟合作與發展組織（經合組織）24日釋出的最新資料顯示，今年第二季度，經合組織成員國國內生產總值（GDP）環比增長0.5%，略高於第一季度的0.4%。同期，七國集團經濟環比增速由第一季度的0.4%放緩至0.3%。資料顯示，七國集團成員國中，日本二季度GDP環比增長0.3%，低於一季度的0.5%，主要受私人消費停滯、庫存減少和投資下降等因素影響；美國經濟增速也由0.5%放緩至0.4%，主要原因是出口增速放緩、庫存下降以及政府消費減少；加拿大經濟增速明顯加快，二季度GDP環比增長0.8%，而一季度為零增長。（新華社）
-
----
-
-### 2026-08-25 19:35:36  #公司
-
-【凡拓數創：2026年上半年虧損7725.28萬元，2025年同期虧損4686.02萬元】凡拓數創公告，2026年上半年營業收入2.31億元，同比下降27.80%；歸屬於上市公司股東的淨利潤虧損7725.28萬元，2025年同期虧損4686.02萬元；扣除非經常性損益的淨利潤虧損7973.78萬元，2025年同期虧損4768.7萬元。公司以自有資金人民幣3000萬元認繳廣東省具身智慧科技有限公司新增註冊資本，取得10.00%股權，相關事項已完成。
-
----
-
-### 2026-08-25 19:35:01  #MKT News
-
-【Russia mulls suspending grain export duties after Ukraine strikes disrupt Black Sea shipping】Russia is considering suspending variable export duties on wheat, barley and maize through end-2026, a source close to the government said. The proposal follows Ukrainian strikes that have disrupted commercial shipping in the Black Sea and Sea of Azov, worsening logistics for Russian grain exporters. Russia and Ukraine together account for more than a quarter of global wheat exports, and the disruption occurs during the current harvest season. The duty pause would be among measures aimed at supporting the agricultural sector.
-
----
-
-### 2026-08-25 19:34:19  #宏觀 #國際
-
-【劉國中出席第十一屆亞太經合組織糧食安全部長級會議開幕式並致辭】第十一屆亞太經合組織（APEC）糧食安全部長級會議8月25日在浙江杭州召開，中共中央政治局委員、國務院副總理劉國中出席開幕式並致辭。 劉國中表示，糧食安全是事關人類生存的根本性問題。習近平主席指出，保障糧食安全是一個永恆的課題，任何時候都不能放鬆。中國政府堅持把“三農”工作作為重中之重，深入實施“以我為主、立足國內、確保產能、適度進口、科技支撐”的糧食安全戰略，堅持藏糧於地、藏糧於技，著力提升農業綜合生產能力，解決了14億多人口的吃飯問題，走出了一條中國特色糧食安全發展道路。 劉國中強調，亞太經合組織在維護全球糧食安全中具有舉足輕重的地位。中方願同各經濟體一道，共同構建更加穩固的糧食安全體系。他提出4點建議：一是聚焦產能提升，立足各自資源稟賦，共同夯實糧食安全基礎。二是強化創新驅動，深化農業科技合作，共同培育保障糧食安全新動能。三是暢通貿易迴圈，堅持多邊主義和開放型經濟大方向，共同維護糧食供應鏈安全穩定。四是堅持普惠包容，強化政策協同，共同守牢糧食安全底線。 本次會議以“建設亞太共同體，促進共同繁榮”為主題，來自APEC經濟體、秘書處和有關國際組織代表近200人參會。（新華社）
-
----
-
-### 2026-08-25 19:34:06  #MKT News
-
-【Russian Pacific Fleet conducts anti-submarine drills in Sea of Japan and adjacent waters】The Russian Pacific Fleet said on the 25th that its Tu-142 anti-submarine patrol aircraft took off from a Primorsky Krai airfield and conducted about five hours of operations in the Sea of Japan, the Sea of Okhotsk, the straits around the Kuril Islands and nearby Pacific waters, searching for and simulating strikes on a mock enemy submarine.
 
 ---

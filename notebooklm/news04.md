@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-29 23:52:26_
-_本檔包含 2534 則快訊，約 553153 字_
+_更新時間：2026-08-30 03:16:39_
+_本檔包含 2548 則快訊，約 554828 字_
+
+---
+
+### 2026-08-25 19:44:42  #市場
+
+受債券市場整體上漲影響，英國兩年期國債收益率下跌5個基點至4.33%。
+
+---
+
+### 2026-08-25 19:44:37  #市場
+
+迪克體育用品股價跌幅進一步擴大，盤前交易時段截至最新跌約16%。
+
+---
+
+### 2026-08-25 19:44:21  #公司
+
+【興蓉環境：2026年上半年營收43.88億元 淨利同比增4.74%】興蓉環境公告稱，2026年上半年實現營業收入43.88億元，同比增長4.67%；歸屬於上市公司股東的淨利潤10.21億元，同比增長4.74%；扣非淨利潤10.02億元，同比增長4.84%。經營活動產生的現金流量淨額7.28億元，同比下降22.05%。基本每股收益0.3426元/股，同比增長4.77%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:44:07  #其他
+
+【騰訊雲與卡爾動力達成戰略合作】8月25日，騰訊雲與卡爾動力達成戰略合作。雙方將進一步深化AI基礎設施協同，圍繞自動駕駛貨運模型的訓練、推理、資料處理與持續迭代開展合作，為卡爾動力L4級自動駕駛幹線貨運的規模化運營提供支撐。透過此次戰略合作，騰訊雲將在雲上算力、資料儲存與AI平臺三方面，助力提升卡爾動力自研自動駕駛貨運模型的訓練、推理與持續迭代效率。（介面新聞）
+
+---
+
+### 2026-08-25 19:43:55  #公司
+
+【皓宸醫療：2026年上半年虧損1402.59萬元，上年同期虧損2375.11萬元】皓宸醫療公告，2026年上半年營業收入3.14億元，同比增長0.14%；歸屬於上市公司股東的淨利潤虧損1402.59萬元，上年同期虧損2375.11萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1411.31萬元，上年同期虧損2355.85萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:43:46  #公司
+
+【漢朔科技：2026年上半年淨利潤3.36億元，同比增長51.22%】漢朔科技公告，2026年上半年營業收入29.07億元，同比增長47.23%；歸屬於上市公司股東的淨利潤3.36億元，同比增長51.22%，2025年上半年為2.22億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.93億元，同比增長1.99%，2025年上半年為2.87億元。
+
+---
+
+### 2026-08-25 19:43:39  #MKT News
+
+【Oman foreign minister to meet Iran foreign minister】Oman foreign minister Badr Albusaidi will visit Tehran on Tuesday to meet Iran foreign minister Araghchi. An Iranian foreign ministry spokesman said the two countries, as Strait of Hormuz littoral states, will continue political consultations to advance regional peace and security.
+
+---
+
+### 2026-08-25 19:43:35  #公司
+
+【中國醫藥：2026年上半年淨利潤2.49億元，同比下降15.26%】中國醫藥公告，2026年上半年營業收入169.52億元，同比下降0.73%；歸屬於上市公司股東的淨利潤2.49億元，同比下降15.26%，2025年上半年為2.94億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.31億元，同比下降9.81%。
+
+---
+
+### 2026-08-25 19:42:16  #其他
+
+【河南成功發行政府債券665.56億元】據“河南釋出”，8月25日，河南省在北京成功發行政府債券665.56億元。新增一般債券54.25億元，用於基礎設施專案建設。新增專項債券402.03億元，其中：113.38億元用於補充地方政府性基金財力；168.59億元用於存量政府投資專案；120.06億元用於市政和產業園區基礎設施、保障性安居工程、生態環保等重點領域的162個建設專案。再融資一般債券159.68億元，用於償還到期債券的部分本金。再融資專項債券49.6億元，用於置換存量隱性債務。
+
+---
+
+### 2026-08-25 19:42:01  #MKT News #Market Themes #AI Revolution
+
+BMO executive says Canadian growth has recovered thanks to AI-driven expansion and US growth remains steady.
+
+---
+
+### 2026-08-25 19:41:47  #MKT News #Macro & Rates #US Economy
+
+BMO top executive said the North American economy remains resilient despite rising geopolitical risks and shifts in the trade environment.
+
+---
+
+### 2026-08-25 19:41:46  #公司 #國際
+
+麥格理為支援歐洲光纖公司（Eurofiber）及北歐其他企業擴張的長期融資平臺提供22億歐元再融資中的部分融資安排。
+
+---
+
+### 2026-08-25 19:41:40  #國際
+
+加拿大蒙特利爾銀行高管表示，加拿大經濟已恢復增長，受人工智慧驅動的擴張支撐，美國經濟增長仍保持穩健。
+
+---
+
+### 2026-08-25 19:41:29  #MKT News
+
+Pakistan's interior minister met the US chargé d'affaires to Pakistan hours after returning from Iran.
+
+---
+
+### 2026-08-25 19:40:37  #焦點 #國際
+
+伊朗媒體：伊朗和阿曼外長在德黑蘭舉行會談。
+
+---
+
+### 2026-08-25 19:40:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Rebound — US equity futures were higher on Tuesday, trimming losses from the previous session amid a rebound for chip producers and softer Treasury yields. Contracts for the S&P 500, Dow, and Nasdaq 100 were 0.5% higher. Companies with exposure to AI infrastructure rebounded from their aggressive losses last session as markets grappled with uncertainty in the sector. The likelihood of massive IPOs for hyperscalers that invest on infrastructure, including Anthropic and OpenAI, weighed against skepticism that AI demand will be strong enough in the near-term to justify the magnitude of capital expenditure. Also, Nvidia inched higher ahead of its earnings tomorrow. Broader sectors also gained as long-term Treasuries rebounded from their recent selloffs. US Secretary Treasury Bessent threatened to sanction banks and companies that intermediate trade with Iran, but energy price still eased after Iran responded to threats. GE Vernova and Veritiv rose more than 2%.
+
+---
+
+### 2026-08-25 19:40:10  #MKT News
+
+Saudi outlet Alhadath reports heavy fighting between government forces and Houthi fighters on the Karabah front northeast of Taiz.
+
+---
+
+### 2026-08-25 19:39:58  #公司
+
+【興蓉環境：2026年上半年淨利潤10.21億元，同比增長4.74%】興蓉環境公告，2026年上半年營業收入43.88億元，同比增長4.67%；歸屬於上市公司股東的淨利潤10.21億元，同比增長4.74%，2025年上半年為9.75億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤10.02億元，同比增長4.84%。公司不派發現金紅利、不送紅股、不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:39:52  #公司
+
+【雄韜股份：2026年上半年淨利潤4806.37萬元，同比下降46.64%】雄韜股份公告，2026年上半年營業收入18.25億元，同比增長13.58%；歸屬於上市公司股東的淨利潤4806.37萬元，同比下降46.64%，2025年同期為9007.67萬元；扣除非經常性損益的淨利潤4191.27萬元，同比下降39.88%。公司擬以3.78億為基數，每10股派發現金紅利0.5元（含稅），送紅股0股。
+
+---
+
+### 2026-08-25 19:39:41  #公司 #焦點
+
+【招商證券：2026年上半年營收219.02億元 同比增108.19%】招商證券公告稱，2026年上半年實現營業收入219.02億元，同比增長108.19%；淨利潤106.24億元，同比增長104.87%，業績創歷史同期最好水平。公司已實施2025年度現金分紅39.05億元（含稅），擬實施2026年中期分紅；上市以來累計現金分紅415.73億元，股份回購投入6.64億元，累計分紅率約38%。公司“提質增效重回報”行動方案各項內容均已按計劃實施。
+
+---
+
+### 2026-08-25 19:39:39  #MKT News
+
+TRUMP said he will never interfere with Canadians speaking French, denied ever considering such a stupid action, called the allegation a lie fabricated by a weak, incompetent prime minister to court Quebec voters, and said he loves French Canadians.
+
+---
+
+### 2026-08-25 19:39:35  #公司
+
+【安博通：2026年上半年營收1.31億元 同比降69.46%】安博通公告稱，2026年上半年實現營業收入1.31億元，同比下降69.46%；歸屬於上市公司股東的淨虧損2278.39萬元，上年同期淨虧損1.09億元；歸屬於上市公司股東的扣除非經常性損益的淨虧損2295.49萬元。研發投入佔營業收入的比例為29.29%，同比增加14.60個百分點。本報告期無利潤分配預案。
+
+---
+
+### 2026-08-25 19:39:20  #其他
+
+招商證券：上半年淨利潤106.2億元人民幣。
+
+---
+
+### 2026-08-25 19:39:08  #其他
+
+招商證券：上半年營收219.0億元人民幣。
+
+---
+
+### 2026-08-25 19:38:49  #MKT News
+
+Ukrainian state broadcaster Suspilne reported President Zelenskiy said Ukraine has recently received Patriot interceptor missiles and will receive Crotale short-range air-defense systems.
+
+---
+
+### 2026-08-25 19:38:47  #公司
+
+【佳都科技：2026年上半年營收53.54億元 淨利同比降77.27%】佳都科技公告稱，2026年上半年實現營業收入53.54億元，同比增長8.83%；歸屬於上市公司股東的淨利潤3074.95萬元，同比下降77.27%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1615.29萬元，同比增長7.27%。基本每股收益0.0145元/股，同比下降77.06%。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-25 19:38:44  #公司
+
+【長進光子：2026年上半年營收同比降3.61%】長進光子公告稱，2026年上半年實現營業收入9675.70萬元，同比下降3.61%；歸屬於上市公司股東的淨利潤3145.64萬元，同比下降7.62%；歸屬於上市公司股東的扣除非經常性損益的淨利潤2809.68萬元，同比下降2.38%。基本每股收益0.42元，同比下降14.29%。研發投入佔營業收入的比例為17.40%，同比減少0.39個百分點。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-25 19:38:39  #公司
+
+【萬隆光電：回覆深交所重組稽核問詢函】萬隆光電公告稱，公司擬發行股份及支付現金購買浙江中控資訊產業股份有限公司100%股份並募集配套資金，此前於2026年7月13日收到深交所出具的本次交易申請的稽核問詢函。目前公司及相關中介機構已按要求就問詢事項逐項說明、論證和回覆，相關回覆檔案已同步披露。本次交易尚需深交所稽核透過並經證監會同意註冊方可實施，能否獲批及獲批時間存在不確定性。
+
+---
+
+### 2026-08-25 19:38:32  #公司
+
+【萬隆光電：就重組問詢函應收款項事項作專項說明】萬隆光電公告稱，公司就發行股份及支付現金購買資產並募集配套資金申請的稽核問詢函中標的資產應收款項相關問題作出財務專項說明。2025年末標的公司應收賬款餘額24.21億元，3年以上佔比16.51%；交易完成後上市公司營收將大幅提升、業績扭虧為盈，標的長賬齡應收款不會造成重大不利影響，風險可控。本次交易已設定應收賬款回收考核條款，承諾方為杭州匯格等三家合夥企業，要求業績承諾期營收含稅累計回款比例不低於80%，未達標將以現金及股份補償。
+
+---
+
+### 2026-08-25 19:38:02  #國際
+
+【特朗普：絕不會干預加拿大人使用法語】特朗普在社交媒體發文：我絕不會干預加拿大人使用法語！事實上，我壓根就沒有動過做這種蠢事的念頭。這則謊言，是一位軟弱無能的總理編造出來的，他企圖藉此爭取魁北克民眾的政治支援，可這份支援早已蕩然無存。我熱愛法裔加拿大人！
+
+---
+
+### 2026-08-25 19:37:24  #國際
+
+市場訊息：澤連斯基稱烏克蘭將收到“響尾蛇”防空系統。
+
+---
+
+### 2026-08-25 19:37:08  #國際
+
+特朗普：我喜歡法裔加拿大人。
+
+---
+
+### 2026-08-25 19:36:57  #國際
+
+特朗普：絕不會干涉加拿大人說法語。
+
+---
+
+### 2026-08-25 19:36:50  #公司
+
+【申聯生物：關於獲批豬口蹄疫O型、南非1型二價合成肽疫苗的獸藥產品批准文號批件的自願性披露公告】申聯生物：豬口蹄疫二價合成肽疫苗獲批，文號2.8億申聯生物公告，公司蘭州分公司獲中華人民共和國農業農村部准予生產豬口蹄疫O型、南非1型二價合成肽疫苗，並取得獸藥產品臨時批准文號批件，文號為獸藥臨字280187563，有效期為2026年8月24日至2028年8月23日。該產品尚需履行獸藥產品批簽發等程式後方可上市銷售。
+
+---
+
+### 2026-08-25 19:35:51  #公司 #國際
+
+【經合組織：七國集團二季度經濟增速放緩至0.3%】經濟合作與發展組織（經合組織）24日釋出的最新資料顯示，今年第二季度，經合組織成員國國內生產總值（GDP）環比增長0.5%，略高於第一季度的0.4%。同期，七國集團經濟環比增速由第一季度的0.4%放緩至0.3%。資料顯示，七國集團成員國中，日本二季度GDP環比增長0.3%，低於一季度的0.5%，主要受私人消費停滯、庫存減少和投資下降等因素影響；美國經濟增速也由0.5%放緩至0.4%，主要原因是出口增速放緩、庫存下降以及政府消費減少；加拿大經濟增速明顯加快，二季度GDP環比增長0.8%，而一季度為零增長。（新華社）
+
+---
+
+### 2026-08-25 19:35:36  #公司
+
+【凡拓數創：2026年上半年虧損7725.28萬元，2025年同期虧損4686.02萬元】凡拓數創公告，2026年上半年營業收入2.31億元，同比下降27.80%；歸屬於上市公司股東的淨利潤虧損7725.28萬元，2025年同期虧損4686.02萬元；扣除非經常性損益的淨利潤虧損7973.78萬元，2025年同期虧損4768.7萬元。公司以自有資金人民幣3000萬元認繳廣東省具身智慧科技有限公司新增註冊資本，取得10.00%股權，相關事項已完成。
+
+---
+
+### 2026-08-25 19:35:01  #MKT News
+
+【Russia mulls suspending grain export duties after Ukraine strikes disrupt Black Sea shipping】Russia is considering suspending variable export duties on wheat, barley and maize through end-2026, a source close to the government said. The proposal follows Ukrainian strikes that have disrupted commercial shipping in the Black Sea and Sea of Azov, worsening logistics for Russian grain exporters. Russia and Ukraine together account for more than a quarter of global wheat exports, and the disruption occurs during the current harvest season. The duty pause would be among measures aimed at supporting the agricultural sector.
+
+---
+
+### 2026-08-25 19:34:19  #宏觀 #國際
+
+【劉國中出席第十一屆亞太經合組織糧食安全部長級會議開幕式並致辭】第十一屆亞太經合組織（APEC）糧食安全部長級會議8月25日在浙江杭州召開，中共中央政治局委員、國務院副總理劉國中出席開幕式並致辭。 劉國中表示，糧食安全是事關人類生存的根本性問題。習近平主席指出，保障糧食安全是一個永恆的課題，任何時候都不能放鬆。中國政府堅持把“三農”工作作為重中之重，深入實施“以我為主、立足國內、確保產能、適度進口、科技支撐”的糧食安全戰略，堅持藏糧於地、藏糧於技，著力提升農業綜合生產能力，解決了14億多人口的吃飯問題，走出了一條中國特色糧食安全發展道路。 劉國中強調，亞太經合組織在維護全球糧食安全中具有舉足輕重的地位。中方願同各經濟體一道，共同構建更加穩固的糧食安全體系。他提出4點建議：一是聚焦產能提升，立足各自資源稟賦，共同夯實糧食安全基礎。二是強化創新驅動，深化農業科技合作，共同培育保障糧食安全新動能。三是暢通貿易迴圈，堅持多邊主義和開放型經濟大方向，共同維護糧食供應鏈安全穩定。四是堅持普惠包容，強化政策協同，共同守牢糧食安全底線。 本次會議以“建設亞太共同體，促進共同繁榮”為主題，來自APEC經濟體、秘書處和有關國際組織代表近200人參會。（新華社）
+
+---
+
+### 2026-08-25 19:34:06  #MKT News
+
+【Russian Pacific Fleet conducts anti-submarine drills in Sea of Japan and adjacent waters】The Russian Pacific Fleet said on the 25th that its Tu-142 anti-submarine patrol aircraft took off from a Primorsky Krai airfield and conducted about five hours of operations in the Sea of Japan, the Sea of Okhotsk, the straits around the Kuril Islands and nearby Pacific waters, searching for and simulating strikes on a mock enemy submarine.
 
 ---
 
@@ -15115,161 +15349,5 @@ Sources said Pakistan's army chief also met Iran's president and held talks.
 ### 2026-08-25 02:15:49  #宏觀 #市場 #國際
 
 【美公佈多項針對伊朗經濟制裁】當地時間8月24日下午，北京時間今天（8月25日）凌晨，美國財長貝森特公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。特朗普政府宣佈擴大次級制裁範圍，將針對全球範圍內仍與伊朗保持商業往來的實體及國家實施制裁。在新聞釋出會上，貝森特推出了他所謂的“經濟諾曼底”行動。貝森特稱，“我們正在對伊朗的全球金融網路發動一場經濟猛攻。我們的目標是切斷維繫這個政權的每一條經濟命脈，直至德黑蘭陷入孤立。” 美國財政部稱“已摸清伊朗用於走私石油和規避制裁的網路、中間人及金融渠道”，並表示將與合作伙伴聯手，打擊伊朗任何“非法收入”來源。 美國財政部稱，已針對伊朗政權用以支撐經濟的五大領域——數字資產、技術、黃金、航空和航運——釋出相關制裁決定。美國財政部還對近60個實體、個人及船隻實施了制裁。（CCTV國際時訊）
-
----
-
-### 2026-08-25 02:15:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-5.07%), Propane (-2.89%), Brent Crude Oil (-2.58%) and Crude Oil WTI (-2.54%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.95%) and Germany Natural Gas THE (3.61%).
-
----
-
-### 2026-08-25 02:14:02  #MKT News #Market Themes #The Trump Trade
-
-【Iran says Trump's economic pressure campaign is "psychological warfare"】Tasnim quoted a senior Iranian intelligence official saying Trump’s economic pressure campaign is largely a media-driven "psychological warfare" aimed at increasing domestic pressure. The official said the US has already used all available tools, including primary and secondary sanctions and maritime blockades, and characterized Trump’s remarks about striking infrastructure and "opening the Strait of Hormuz" as propaganda rather than imminent action. He added such moves are often timed before market open to influence energy prices and are subsequently followed by conciliatory statements or regional mediation; Iran sees the campaign’s concurrence with a Pakistani mediator visit as a recurring public-pressure pattern, not evidence of substantive new measures.
-
----
-
-### 2026-08-25 02:11:10  #MKT News #WTI #Impact mixed #Brent
-
-CENTCOM said as of Aug. 24 it had forced 71 commercial vessels to divert, disabled three vessels, and boarded and inspected two to ensure compliance. More than 40 vessels carrying humanitarian aid were permitted to proceed.
-
----
-
-### 2026-08-25 02:10:47  #MKT News #Market Themes #The Trump Trade
-
-【Trump says "will no longer allow Canada to take advantage of the U.S.", warns of tougher measures】U.S. President Trump, on Truth Social, criticized Ontario Premier Doug Ford and accused Canada of decades of relying on U.S. support, saying the U.S. "will always be bigger, richer, stronger" and that Canada could not survive without it. He accused Prime Minister Carney and Ford of prompting corporate outflows, said Canadian power, oil and gas rely on transport through the U.S., and warned Canada would face "more serious consequences" if it does not "play by the rules." Trump also claimed Canadian unemployment has risen to 10% and is still climbing, asserted businesses are moving to the U.S., and said "the days of hurting U.S. farmers and businesses are over."
-
----
-
-### 2026-08-25 02:09:24  #國際
-
-市場訊息：巴基斯坦陸軍參謀長同伊朗總統舉行會見並會談。
-
----
-
-### 2026-08-25 02:09:12  #市場
-
-現貨白銀日內跌1%，現報68.28美元/盎司。
-
----
-
-### 2026-08-25 02:08:58  #國際
-
-美國中央司令部：截至 8 月 24 日，美國中央司令部部隊已迫使 71 艘商船改道，扣押 3 艘船隻，並登船檢查 2 艘，確保各方遵守封鎖規定。已有 40 餘艘運送人道主義援助物資的船隻獲准通行。
-
----
-
-### 2026-08-25 02:06:45  #國際
-
-【特朗普：加拿大應該“服從”，否則將面臨更嚴重後果】美國總統特朗普：加拿大安大略省省長大放諸多 “虛張聲勢的狠話”。幾十年來，美國一直在為加拿大兜底，但這種局面到此為止！美國無論體量、財富還是實力，永遠遠勝於加拿大。離開了美國，加拿大將難以為繼 —— 加拿大的全部財源都仰仗美國。而如今加拿大領導層表現糟糕，主要是卡尼總理，再加上他的跟班福特，加拿大不能再繼續佔美國的便宜，而美國恰恰是加拿大賴以生存的關鍵。
-要記住，加拿大大量電力、石油與天然氣都要經由美國境內輸送。得有人讓這群荒唐政客乖乖就範，否則加拿大將要承受的後果會嚴重得多！加拿大當前失業率已達 10%，並且還在快速攀升。當地企業紛紛遷往美國，這一切都源於政策失效與執政能力低下。加拿大壓榨美國農民及其他企業的日子已經一去不復返！
-
----
-
-### 2026-08-25 02:05:01  #MKT News
-
-Trump called Ontario Premier Ford’s remarks "grandstanding", accused Canada of long-term dependence on the United States and warned Canada would face more serious consequences if it did not change its policies.
-
----
-
-### 2026-08-25 02:04:36  #MKT News
-
-【U.S. says strike on "drug-smuggling" vessel in eastern Pacific killed two】U.S. Southern Command said on the 24th that U.S. forces struck a vessel it described as a drug-smuggling boat in the eastern Pacific on the 23rd, killing two people aboard.
-
----
-
-### 2026-08-25 02:03:00  #MKT News
-
-TASNIM News quoted a security official saying the US economic sanctions plan is intended to increase psychological pressure on the Iranian people.
-
----
-
-### 2026-08-25 02:02:54  #其他
-
-【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。（新華社）
-
----
-
-### 2026-08-25 02:02:32  #國際
-
-伊朗塔斯尼姆通訊社援引安全官員的話稱，美國的經濟制裁計劃是一場旨在加大對伊朗民眾心理施壓的行動。
-
----
-
-### 2026-08-25 01:58:56  #其他
-
-市場訊息：貝萊德向同業資管機構推介 TCP 私募信貸資產。
-
----
-
-### 2026-08-25 01:56:10  #公司 #國際
-
-【加拿大總理講話要點總結】
-加拿大總理卡尼表示，他與美方談判代表的會談讓他看清，特朗普意圖以不公平的條件摧毀加拿大的支柱產業——鋼鐵、鋁和汽車。
-然而，他表示兩國之間仍有可能達成一項公平的協議——並重申，雙方已有現成的協議可以在此基礎上加以完善，即特朗普於2020年簽署的所謂美國墨西哥加拿大貿易協議（USMCA）。
-當被追問是否會利用加拿大對美國的能源和關鍵礦產供應作為籌碼時——這一策略已有許多人呼籲採用——卡尼過去曾對此持謹慎態度，但今天他並未斷然排除這一可能性。
-卡尼描述了在啟動他此前已承諾的對美關稅報復措施之前所面臨的複雜考量。由於美國經濟”遠比加拿大龐大得多”，他可能不得不採取更有針對性的反制路徑。
-他嚴厲抨擊了美方在談判桌上所持的不可接受的態度——即”把加拿大當作美國的子公司”，意圖隨著時間推移使加拿大處於不利地位。
-
----
-
-### 2026-08-25 01:54:41  #MKT News
-
-U.S. State Department said Secretary of State Rubio spoke on Monday local time with the German foreign minister about a shared commitment to freedom of navigation in the Strait of Hormuz.
-
----
-
-### 2026-08-25 01:53:58  #國際
-
-美國國務卿魯比奧同德國外交部長通電話，討論了俄羅斯和烏克蘭問題，還討論了霍爾木茲海峽的航行自由問題。
-
----
-
-### 2026-08-25 01:50:11  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
-
-Canada 10-Year Yield Falls as Trade Risks Rise — The yield on Canada’s 10-year government bond fell to about 3.67% after touching a more than two-year high of 3.76% on August 21st, as a re-escalation in the trade war with the US put Canada’s economic recovery at risk. US President Donald Trump said tariffs on all Canadian cars, trucks, automotive parts and steel would rise to 50% on January 1, 2027. This came after Prime Minister Carney vowed to retaliate against the initial series of US tariffs imposed after trade talks fell through. Washington imposed 50% tariffs on furniture, plastics, plywood and electrical equipment, adding to existing 25% tariffs on steel, lumber and autos. Risks to growth from higher tariffs have reduced the case for a BoC rate hike this year. Growth is now expected to contract just as the economy has started to recover. In July, Canada added 75,000 jobs, while inflation edged up to 2.9%, largely due to gasoline prices rather than broad-based price pressures.
-
----
-
-### 2026-08-25 01:49:11  #MKT News
-
-US Secretary of State Rubio spoke with South Korea's foreign minister on Monday about a range of US-South Korea alliance issues and said the two countries need to maintain close coordination.
-
----
-
-### 2026-08-25 01:44:56  #其他
-
-大眾汽車工會主席：對我們來說，關閉工廠是絕對不可能的。
-
----
-
-### 2026-08-25 01:44:40  #MKT News #VOW3.DE #Impact bullish
-
-Volkswagen union chair said closing plants is absolutely out of the question.
-
----
-
-### 2026-08-25 01:41:50  #宏觀 #市場 #觀點 #國際
-
-【高盛和富國等華爾街機構稱 財政部回購難以壓低長期美債收益率】高盛、富國等華爾街機構的利率策略師表示，美國財政部的國債回購對於扭轉長期美債收益率的飆升作用有限。儘管10年期和30年期美債收益率在財政部週三宣佈擴大回購計劃後一度下降，但上週後期又重新走高。與此同時，美國財政部長斯科特·貝森特表示自己手中有一個“龐大的政策工具箱”，CNBC報道稱他可能動用財政部的部分現金儲備來回購這些國債。這樣的市場走勢印證了華爾街的看法。分析師和投資者表示，除非華盛頓解決不斷膨脹的預算赤字以及通脹壓力等推動收益率走高的問題，否則此類措施難以奏效。包括George Cole和William Marshall在內的高盛策略師在8月21日的一份研究報告中寫道，“美國財政部擴大長期國債回購的決定，並沒有解決我們認為導致近期長端利率波動的主要根源。”他們表示，“我們認為，即使擴大回購規模，回購操作本身也不太可能實質性改變利率水平。”
-
----
-
-### 2026-08-25 01:39:20  #MKT News
-
-Sources said Italy will not participate in the "Voluntary Alliance" exercises.
-
----
-
-### 2026-08-25 01:38:24  #宏觀 #國際
-
-【美國財長：任何為伊朗洗錢的實體將被移出美元體系】美國財政部長貝森特24日在新聞釋出會上表示，任何為伊朗洗錢的實體將被移出美元體系。（新華社）
-
----
-
-### 2026-08-25 01:38:11  #MKT News #DXY #Impact bullish
-
-【U.S. Treasury Secretary Bessent: Any entity laundering money for Iran will be removed from the dollar system】U.S. Treasury Secretary Bessent said at a press conference on the 24th that any entity laundering money for Iran will be removed from the U.S. dollar system.
 
 ---
