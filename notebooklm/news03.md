@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-31 00:36:16_
-_本檔包含 2671 則快訊，約 576128 字_
+_更新時間：2026-08-31 03:24:49_
+_本檔包含 2667 則快訊，約 578110 字_
+
+---
+
+### 2026-08-26 19:57:14  #MKT News #Important #WTI #Impact bullish #Brent
+
+【Iran says it reached revenue-sharing deal with Oman on Strait of Hormuz; US interference delaying implementation】Sepah News quoted IRGC spokesman Hossein Mohbi saying the Strait of Hormuz is under Iran’s control and there are no enemy warships in the Persian Gulf. He said, from a military and territorial-jurisdiction perspective, no vessel may transit the waterway without Iran’s permission and management. Mohbi said Iran and Oman negotiated about a month ago and reached mutually acceptable agreements on territorial shares of the strait and revenue splits; he added US interference has delayed implementation. He warned that if the US does not accept Iran’s conditions, the Strait will not be opened.
+
+---
+
+### 2026-08-26 19:57:00  #公司
+
+【紫光國微：11名董監高及相關人員合計增持1195.65萬元股份】紫光國微公告稱，公司董事長陳杰等11名董事、高階管理人員及其他人員，於2026年8月26日透過深交所集中競價交易方式增持公司股份，合計增持19.43萬股，佔公司總股本的0.0230%，增持總金額1195.65萬元，資金來源為自有或自籌資金。本次增持前6個月內增持主體無減持公司股份情形，暫無後續增持計劃。本次增持不會導致公司控股股東變化，不改變公司無實際控制人的狀態。
+
+---
+
+### 2026-08-26 19:56:45  #公司
+
+【方大特鋼：2026年上半年淨利潤2.08億元，同比下降48.56%】方大特鋼公告，2026年上半年營業收入80.33億元，同比下降7.61%；歸屬於上市公司股東的淨利潤2.08億元，同比下降48.56%，2025年同期為4.05億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.39億元，同比下降32.33%。
+
+---
+
+### 2026-08-26 19:56:21  #其他
+
+【方大特鋼：2026年上半年鋼鐵業營收79.67億元】方大特鋼公告稱，2026年1-6月，公司鋼鐵業營業收入79.67億元，同比下降7.45%，營業成本72.89億元，同比下降7.20%；採掘業營業收入2813.63萬元，同比下降48.99%，營業成本1327.55萬元，同比下降32.39%。產銷量方面，鋼鐵業產品生產量212.66萬噸、銷售量212.48萬噸，均同比增長3.67%；採掘業鐵精粉生產量5.16萬噸，同比增長22.80%，銷售量3.30萬噸，同比下降53.90%。
+
+---
+
+### 2026-08-26 19:54:43  #其他
+
+【上海市委網信辦組織召開年中網路安全工作協調機制（擴大）會議】8月25日，上海市委網信辦組織召開年中網路安全工作協調機制（擴大）會議，分析研判當前網路安全形勢，通報上半年全市網路安全風險隱患處置情況，總結重點專項行動推進成效，部署下一階段重點工作任務。各區委網信辦、相關委辦區域性門負責同志參加會議。會議指出，當前網路安全形勢複雜嚴峻，各類網路攻擊、漏洞隱患、資料安全風險多發頻發，網路安全防控壓力持續加大。依託全市網路安全工作協調機制，各成員單位協同聯動、同向發力，上半年精準排查處置多起網路安全隱患，有效防範化解各類網路安全風險，全市網路安全態勢總體平穩可控，堅決守住了不發生重大網路安全事件的底線。會議通報了“提升企業網路安全防護能力”專項行動推進情況。本次行動聚焦強化企業網路安全意識、壓實主體責任、補齊行業短板，面向中小微企業、重點產業、民生服務等重點領域，透過合規宣講、隱患排查、網安義診、技術幫扶等精準舉措，指導企業健全安全管理制度、升級技術防護措施、規範應急處置流程，推動企業網路安全防護由被動應對向主動防禦轉變。下一步，將健全常態化幫扶機制，最佳化安全服務供給，全面提升企業網路安全整體防護水平。會議總結了“網路安全培訓進街鎮”專項行動成效。該行動旨在推動網路安全防線向基層延伸，切實提升基層一線工作人員風險識別、隱患排查和應急處置能力。目前，已完成全市16個區的18場培訓，共計1685家單位、企業，2020人次參訓。下一步將深化“以練促學、以訓促建”，持續拓寬培訓覆蓋面，暢通網路安全培訓“最後一公里”，切實築牢基層網路安全防線。會議還對第48屆世界技能大賽、第九屆進博會網路安全服務保障，網路資料安全風險評估及個人資訊保護等工作作出部署。（澎湃）
+
+---
+
+### 2026-08-26 19:54:03  #其他
+
+【日喀則市啟動自然災害救助一級應急響應】據“雲端珠峰”，日喀則市應急指揮部辦公室釋出關於啟動日喀則市自然災害救助一級應急響應的通知：2026年8月26日，受尼泊爾一側發生泥石流災害影響，我市吉隆縣吉隆口岸區域發生重大災情，造成人員傷亡和失聯。鑑於當前吉隆縣自然災害形勢，根據《日喀則市自然災害救助應急預案》規定，已達到啟動日喀則市自然災害救助一級應急響應條件。市應急指揮部決定自2026年8月26日14時起啟動日喀則市自然災害救助一級應急響應。請吉隆縣、市各有關部門按照職責分工和預案規定，全力做好救災工作。
+
+---
+
+### 2026-08-26 19:53:41  #公司
+
+【環旭電子：2026年上半年營收273.36億元 淨利同比增28.85%】環旭電子公告稱，2026年上半年實現營業收入273.36億元，同比增長0.45%；歸屬於上市公司股東的淨利潤8.22億元，同比增長28.85%；歸屬於上市公司股東的扣除非經常性損益的淨利潤7.89億元，同比增長36.46%。基本每股收益0.35元，同比增長20.69%。本報告期無利潤分配預案或公積金轉增股本預案。
+
+---
+
+### 2026-08-26 19:53:35  #公司
+
+【環旭電子：擬4.40億元增資全資子公司環興光電】環旭電子公告稱，公司擬以自有資金對全資子公司上海環興光電有限公司增資4.40億元。本次增資完成後，環興光電註冊資本將由6000萬元增加至5億元，仍為公司全資子公司。本次增資事項已經公司第七屆董事會第二次會議審議透過，無需提交股東會審議，不構成關聯交易及重大資產重組。增資資金主要用於償還環興光電內部財務資助借款及未來持續投資，有利於最佳化其資產負債結構、提升資本實力。
+
+---
+
+### 2026-08-26 19:53:31  #公司
+
+【環旭電子：擬對越南全資子公司增資1.2億美元】環旭電子公告稱，公司擬以自有資金透過全資子公司環鴻電子股份有限公司，對越南全資子公司UNIVERSAL SCIENTIFIC INDUSTRIAL VIETNAM COMPANY LIMITED增資1.2億美元。本次增資完成後，越南子公司註冊資本將由1.15億美元增至2.35億美元，仍為公司全資子公司。增資資金主要用於越南子公司海防長睿工業園第二廠區擴建及產能擴張資本支出。本次增資事項已經公司第七屆董事會第二次會議審議透過，無需提交股東會審議，不構成關聯交易及重大資產重組。
+
+---
+
+### 2026-08-26 19:53:07  #公司
+
+【安徽合肥：具身智慧開啟商業服務場景】8月26日，由合肥國先控股有限公司和合肥零次方機器人有限公司共同推動落地的4家“具身智慧機器人小店”在安徽省合肥市多個文旅和商業街區正式開業。在約15平方米的小店裡，只有一臺輪式人形機器人“營業員”，顧客下單後，機器人能夠自動完成商品識別、抓取和遞送，把具身智慧機器人的感知、決策和執行能力呈現在日常消費環節中。據介紹，這4家小店不僅是零售空間，更是機器人走向規模化應用的重要實踐場景。開業後，這些小店將常態化服務市民遊客，在一次次服務和反饋中檢驗和提升裝置穩定性、操作便利性和服務效率。（新華社）
+
+---
+
+### 2026-08-26 19:52:36  #其他
+
+市場訊息：捷克眾議院推翻了總統否決，對放寬國家預算赤字規則的法案給予最終批准。
+
+---
+
+### 2026-08-26 19:52:08  #市場
+
+【Summit Therapeutics美股盤前漲超10%】Summit Therapeutics美股盤前漲超10%，現報14.7美元。
+
+---
+
+### 2026-08-26 19:51:37  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IRGC: Strait of Hormuz "will not open" unless US accepts conditions】An IRGC spokesman said Iran and Oman negotiated roughly a month ago over the Strait of Hormuz and reached a mutually acceptable outcome, including agreements on allocation of maritime areas in the strait and division of revenues between Iran and Oman. Progress was delayed by US interference. The spokesman said if the US stops interfering and returns to the memorandum of understanding, Iran can open the strait within the agreed framework, but the US must accept Iran’s conditions; if the US does not accept those conditions, the Strait of Hormuz will absolutely not open.
+
+---
+
+### 2026-08-26 19:51:28  #宏觀 #焦點 #國際 #兩會
+
+【8月26日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平對西藏日喀則市吉隆縣遭受泥石流災害作出重要指示強調 千方百計搜救失聯人員 加強各類風險隱患排查整治 確保人民群眾生命財產安全 李強作出批示； 2.習近平將出席2026年上海合作組織峰會並對吉爾吉斯斯坦、埃及進行國事訪問； 3.李強在黑龍江、吉林調研； 4.趙樂際同全國人大常委會會議列席代表座談； 5.十四屆全國人大常委會第二十四次會議舉行聯組會議； 6.趙樂際會見烏茲別克總統辦公廳主任； 7.全國政協十四屆常委會第十八次會議舉行全體會議 圍繞“加大保障和改善民生力度，紮實推進全體人民共同富裕”進行大會發言 王滬寧出席； 8.全國政協十四屆常委會第十八次會議閉幕 王滬寧主持並講話； 9.丁薛祥在安徽合肥出席財政科學管理試點座談會； 10.泥石流災害造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯 各方加緊搶險救援； 11.【“十五五”開好局起好步】融合升級 新型工業化提速； 12.北斗系統重點行業綜合應用滲透率約90%； 13.國務院新聞辦舉行“新徵程上的奮鬥者”中外記者見面會； 14.國內聯播快訊： （1）“十五五”國家電網跨省區輸電能力將達到5億千瓦； （2）我國進一步完善家庭醫生簽約服務； （3）澳琴跨境陸空聯運業務今天正式開通； 15.阿曼外交大臣訪問伊朗 伊方公佈霍爾木茲海峽臨時航線安排 美媒稱美暫不對伊朗發動新打擊 重點轉向經濟施壓； 16.加拿大宣佈對美加徵等額反制關稅 涉700多種商品 美總統稱考慮將安大略湖更名為美國湖 加官員稱捍衛加方一切利益； 17.國際聯播快訊： （1）俄總統新聞秘書證實俄美情報部門接觸； （2）以拆除聯合國近東救濟工程處設施遭譴責； （3）西班牙推進移民和庇護制度改革應對危機； （4）美國得州燃起林火蔓延迅速 居民疏散。
+
+---
+
+### 2026-08-26 19:51:15  #公司
+
+【海天股份：2026年上半年淨利潤3382.68萬元，同比下降44.90%】海天股份公告，2026年上半年營業收入28.87億元，同比增長189.14%；歸屬於上市公司股東的淨利潤3382.68萬元，同比下降44.90%，2025年上半年為6139.59萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3040.42萬元，同比下降38.78%。
+
+---
+
+### 2026-08-26 19:50:03  #其他
+
+【2026中國（廣西）—東盟跨境產業鏈供應鏈合作大會暨僑商僑領廣西行活動舉行 韋韜出席並致辭】8月26日，以“共建跨境產供鏈 共享合作新機遇”為主題的2026中國（廣西）—東盟跨境產業鏈供應鏈合作大會暨僑商僑領廣西行活動在南寧舉行。自治區主席韋韜出席並致辭。韋韜誠摯歡迎僑商僑領、企業家出席本次大會，感謝大家長期以來給予廣西發展的關心支援。他表示，當前，全球產業鏈供應鏈加速重構，為中國—東盟深化合作帶來重大契機。廣西是中國唯一與東盟陸海相連的省區，正深入貫徹落實習近平總書記關於廣西工作論述的重要要求，全力擁抱人工智慧時代，加快平陸運河建成通航，推進中國—東盟產業合作區、沿邊臨港產業園區、欽防產業協作園區等建設，打造製造業十大現代化支柱產業，迎來歷史最好發展時期。希望以此次活動為契機，與大家深化產業合作，攜手打造優勢互補、互利共贏的跨區域跨境產業鏈供應鏈；共享AI機遇，攜手打造面向東盟的人工智慧開放高地、整合高地、應用高地、創新高地；搶抓中國—東盟自貿區3.0版建設機遇，攜手拓展東盟乃至全球市場。廣西將持續打造最優營商環境，讓來桂客商投資安心、經營舒心、發展放心。（廣西釋出）
+
+---
+
+### 2026-08-26 19:50:00  #其他
+
+【科技部王仲成：“十五五”將是國際科技合作關鍵承壓期，也是夯實“朋友圈”戰略機遇期】8月26日，2026核聚變能大會暨核聚變活動週期間，科技部國際合作司參贊王仲成表示，加強國際科技創新合作仍是時代發展的主流，國際力量對比深刻調整也使中國具備自主運籌國際空間、塑造外部環境的更多有利因素。王仲成指出，未來十年特別是“十五五”時期，將是中國開展國際科技合作的關鍵承壓期，也是夯實國際科技合作“朋友圈”的戰略機遇期。
+
+---
+
+### 2026-08-26 19:49:52  #公司
+
+【聚變生態聯盟成立，19家產業鏈企業及投資機構入盟】8月26日，2026核聚變能大會暨核聚變活動週期間，中國聚變能源有限公司牽頭，聯合上海國投、星環聚能、上海超導、鼎峰武嶽峰、閩金投、上創超導、復旦大學、合肥科創、中科創星等18家產業鏈骨幹企業及投資機構，共同發起成立聚變生態聯盟。
+
+---
+
+### 2026-08-26 19:49:44  #公司
+
+【建設機械：2026年上半年虧損5億元，2025年同期虧損4.47億元】 建設機械公告，2026年上半年營業收入10.98億元，同比下降2.12%；歸屬於上市公司股東的淨利潤虧損5億元，2025年同期虧損4.47億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損5.1億元，2025年同期虧損4.52億元。公司2026年上半年度不進行利潤分配，也不進行資本公積金轉贈股本。
+
+---
+
+### 2026-08-26 19:49:13  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+An IRGC spokesman said foreign warships must remain at least 400 km from the Strait of Hormuz and that, from a military and territorial standpoint, no vessel can transit the waterway without Iran’s permission and control; he said sea lanes off Oman are entirely under IRGC control.
+
+---
+
+### 2026-08-26 19:48:11  #其他
+
+【矽片低價接近現金成本 多晶矽產量持續增加】市場18X矽片價格1.113-1.129元/片，210RN矽片價格1.113-1.149元/片，210N矽片價格1.18-1.248元/片。210R和210N矽片價格維持跌勢，若按當前可購買到的原料價格計算，目前各家報價的區間低價已經接近現金成本。8月多晶矽繼續增加，產量或突破11萬噸，後續有個別基地有復產計劃，9月產量有繼續增加預期。 (上海有色網)
+
+---
+
+### 2026-08-26 19:48:08  #MKT News #WTI #Impact bullish #Brent #DXY
+
+An Islamic Revolutionary Guard Corps spokesman said the Strait will remain closed unless the United States accepts its conditions.
+
+---
+
+### 2026-08-26 19:48:00  #MKT News #Brent #Impact bullish
+
+IRGC spokesman said the US is obstructing Oman–Iran talks, causing delays to the negotiations.
+
+---
+
+### 2026-08-26 19:47:52  #公司 #市場
+
+【聯合精密：股價異常波動 不涉及半導體裝置業務】聯合精密公告稱，公司股票於2026年8月24日、8月25日、8月26日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查，公司及控股股東、實際控制人均不存在應披露而未披露的重大事項，異動期間控股股東、實際控制人未買賣公司股票。公司預計2026年半年度淨虧損880.00萬元至1200.00萬元，業績預告無需修正。公司主營業務為精密機械零部件業務，未發生重大變化，不涉及半導體裝置業務。
+
+---
+
+### 2026-08-26 19:47:42  #焦點 #國際
+
+伊朗革命衛隊發言人表示，如果美國不接受我方條件，霍爾木茲海峽將不會對外開放。
+
+---
+
+### 2026-08-26 19:47:31  #公司
+
+【三力士：2026年上半年營收5.29億元 同比增20.04%】三力士公告稱，2026年上半年實現營業收入5.29億元，同比增長20.04%；歸屬於上市公司股東的淨虧損1156.67萬元，同比下降160.90%；扣除非經常性損益的淨虧損2213.51萬元，同比下降208.21%。截至報告期末，公司累計回購股份1190萬股，佔總股本的1.32%，成交總金額4770.62萬元。報告期內公司不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-26 19:47:16  #國際
+
+伊朗革命衛隊發言人表示，美國正在阻撓阿曼與伊朗之間的談判程序，導致談判推遲。
+
+---
+
+### 2026-08-26 19:47:09  #公司
+
+【華孚時尚：2026年上半年淨利潤1.77億元，同比增長607.08%】華孚時尚公告，2026年上半年營業收入37.51億元，同比下降8.50%；歸屬於上市公司股東的淨利潤1.77億元，同比增長607.08%；歸屬於上市公司股東的扣除非經常性損益的淨利潤641.93萬元，2025年同期虧損5444.25萬元，同比扭虧為盈。阿克蘇城市公共算力平臺專案已於2025年底完成土建施工，持續推進裝修及機電工程。
 
 ---
 
@@ -15975,197 +16143,5 @@ A diplomatic source told Saudi outlet Hadas that Israel considers Jordan a partn
 ### 2026-08-25 23:38:23  #Trading Economics #Markets #Commodity #Importance 0
 
 European Natural Gas Prices Fall from 3-1/2-Year High — European natural gas prices fell below €67 per megawatt-hour, easing from Monday’s 3½-year high of €68.46, as improving prospects for de-escalation between the US and Iran reduced some concerns over supply disruptions. Gas prices tracked a broader decline in energy markets after Washington’s latest measures against Tehran appeared less likely than expected to disrupt physical supplies. Diplomatic efforts also offered some relief, with Pakistan’s army chief visiting Iran and Qatar continuing to support mediation between Tehran and Washington. Reports that the US could begin returning evacuated diplomats to the Middle East also suggested that an immediate escalation in the conflict may be less likely. Nevertheless, supply risks remain, particularly as disruptions around the Strait of Hormuz have constrained LNG deliveries from Qatar. At the same time, persistent hot weather is boosting cooling demand, making it harder for European countries to rebuild gas inventories ahead of winter.
-
----
-
-### 2026-08-25 23:36:28  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-【Iran, Oman propose temporary maritime corridor in Strait of Hormuz】Iran and Oman said they plan to establish a temporary joint maritime corridor through the Strait of Hormuz and agreed to implement a joint sea‑mine clearance project, citing recent conflict that has altered conditions in the waterway. The countries outlined a phased implementation framework and will continue technical talks aimed at creating a permanent corridor, agreeing future management, traffic information exchange and related maritime and security services. They said joint dialogue with Persian Gulf littoral states is necessary and stressed compliance with applicable international law and coastal states’ sovereign rights.
-
----
-
-### 2026-08-25 23:35:58  #MKT News #Important #WTI #Impact bearish #Brent
-
-A joint statement said Oman and Iran foreign ministers discussed a phased framework intended to provide a practical basis for restoring safe navigation in the Strait of Hormuz.
-
----
-
-### 2026-08-25 23:35:20  #其他
-
-百時美施貴寶發言人確認，已終止與Cellares的合作關係。
-
----
-
-### 2026-08-25 23:35:06  #焦點 #國際
-
-【阿曼與伊朗提議設立霍爾木茲海峽臨時航運通道】阿曼外交部訊息，阿曼和伊朗商討了一套分階段框架，用以恢復霍爾木茲海峽的安全通航。該方案包含一條臨時聯合航運通道，以及海峽掃雷聯合行動。雙方將繼續開展技術磋商，爭取建立永久航運通道、交通管控機制以及安全合作，同時呼籲同海灣國家開展協調。
-
----
-
-### 2026-08-25 23:34:33  #國際
-
-伊朗外交部發言人：美國開啟“經濟諾曼底登陸日”。部分國家一味順從美方，對此表示默許，但情況絕非如此。美國逼迫全球銀行、企業、港口及各國政府服從其意志，否則就實施報復，此舉已不只是針對伊朗，而是踐踏國際法與聯合國憲章的核心原則，破壞各國主權平等與民族自決。任何重視主權的國家都不會容忍這種大規模違法與系統性霸凌，加拿大已經吸取該教訓。
-
----
-
-### 2026-08-25 23:33:31  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
-
-US 6-week Treasury bill auction to Aug. 25 — share allocated at stop-out yield 27.88%, prior 37.04%.
-
----
-
-### 2026-08-25 23:33:15  #MKT News #Macro & Rates #Treasury Yields
-
-US 6-week Treasury auction on Aug 25 — stop-out yield 3.65%, prior 3.65%.
-
----
-
-### 2026-08-25 23:33:00  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-US 6-week Treasury auction as of Aug 25: bid-cover ratio 2.71, prior 2.97.
-
----
-
-### 2026-08-25 23:32:20  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.650%，投標倍數2.71。
-
----
-
-### 2026-08-25 23:32:06  #國際
-
-思科：思科雲控制平臺今日起面向美國客戶全面開放商用。
-
----
-
-### 2026-08-25 23:31:37  #市場 #焦點 #國際
-
-【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.38%，歐元斯托克指數上漲0.31%，歐元區藍籌股上漲0.2%。英國富時100指數上漲0.28%，德國DAX指數上漲0.68%，法國CAC 40指數下跌0.08%，西班牙IBEX指數下跌0.07%。
-
----
-
-### 2026-08-25 23:31:28  #其他
-
-【內蒙古針對四地啟動自治區突發地質災害四級應急響應】據氣象部門預報，受颱風和西南季風影響，8月25日至27日，內蒙古西部地區有中到大雨，局地暴雨到大暴雨。結合內蒙古自治區地質災害氣象風險預測，呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市的部分地區發生地質災害的風險高。根據《內蒙古自治區突發地質災害應急預案（2024 年版）》及有關規定，內蒙古自治區應急管理廳於8月25日針對呼和浩特市、包頭市、鄂爾多斯市、烏蘭察布市啟動自治區突發地質災害四級應急響應。（央視新聞）
-
----
-
-### 2026-08-25 23:30:31  #MKT News #PRX.AS
-
-Prosus investors opposed the company's shareholding structure and top executive pay.
-
----
-
-### 2026-08-25 23:29:27  #其他
-
-德國總統施泰因邁爾談及移民問題：想要在德國紮根生活，任何人都無需否認自己的出身。任何人都不必否定自身來源，一個人完全可以擁有多個故土。
-
----
-
-### 2026-08-25 23:29:07  #國際
-
-敘利亞外交部：我們呼籲國際社會迫使佔領方（以色列）停止其侵權行為，並立即撤回到停火線。
-
----
-
-### 2026-08-25 23:27:51  #國際
-
-伊朗總統：伊斯蘭國家的團結是地區安全與穩定的關鍵。
-
----
-
-### 2026-08-25 23:27:13  #國際
-
-卡達外交部發言人：美國對伊朗實施的制裁屬於單邊制裁，呼籲透過斡旋化解危機。
-
----
-
-### 2026-08-25 23:26:48  #國際
-
-敘利亞外交部：譴責以色列國防部長非法入境並越過國際邊界，此舉侵犯了我國主權。
-
----
-
-### 2026-08-25 23:26:26  #其他
-
-德國總統施泰因邁爾談及移民問題：公民沒有一等、二等之分。我國憲法並未將德意志民族定義為血緣族群。憲法不承認所謂同血脈的“民族共同體”，也不給所謂“原生德意志人”賦予公民特權。在憲法的定義中，德意志民族同樣包含後來加入我們的人。
-
----
-
-### 2026-08-25 23:25:55  #國際
-
-以色列外交部長：荷蘭方面的代表將被立即逐出位於基里亞特加特的加沙國際支援中心。
-
----
-
-### 2026-08-25 23:25:54  #Trading Economics #Markets #Namibia #Stock Market #Importance 0
-
-Stocks in Namibia Hit 20-month High — NSX Overall increased to 2464.00 Index Points, the highest since December 2024. Over the past 4 weeks, Namibia Overall Index gained 5.75%, and in the last 12 months, it increased 34.37%.
-
----
-
-### 2026-08-25 23:25:16  #國際
-
-美國地質調查局：阿富汗賈拉拉巴德東北偏北4公里處發生4.9級地震。
-
----
-
-### 2026-08-25 23:23:08  #國際
-
-俄羅斯國防部通報，俄武裝部隊打擊了尤日內港兩艘向烏克蘭運送軍用物資的貨輪，以及四處存放烏克蘭武裝部隊軍用裝備的倉儲設施。
-
----
-
-### 2026-08-25 23:23:02  #MKT News #WTI #Impact bullish #Brent
-
-【Sources: Iran seeks to relay Hormuz negotiation terms to US via Pakistan】A source close to Iran's negotiating team said on the 25th (local time) that Iran wants Pakistan to convey its position and negotiating terms on the Strait of Hormuz to the United States. The source said Iran met Pakistan Army chief Munir on the 24th and set out those positions. Iran's conditions include US compliance with an Islamabad memorandum of understanding and implementation of its clause five, which concerns arrangements for Iranian management of the Strait of Hormuz. Pakistan is seeking to pass those conditions to the US, the source added.
-
----
-
-### 2026-08-25 23:22:45  #國際
-
-以色列對加沙北部傑巴利耶發動空襲。
-
----
-
-### 2026-08-25 23:22:21  #其他
-
-德國總統施泰因邁爾：即便我們長期不願承認，德國早已是一個受移民塑造的社會。最晚從上世紀50年代末、60年代德國與南歐國家以及土耳其簽訂勞工招募協議開始，事實便是如此。我國長期向好的強勁經濟吸引了來自世界各地的人們。而真相是，我們當中很多崗位離不開這些外來人口。
-
----
-
-### 2026-08-25 23:21:50  #焦點 #國際
-
-【訊息人士：伊朗希望透過巴基斯坦向美方轉達談判條件】據伊朗方面當地時間25日訊息，一名接近伊朗談判團隊的訊息人士表示，伊方希望透過巴基斯坦向美方明確轉達有關霍爾木茲海峽的立場和談判條件。這名訊息人士說，伊朗方面24日同到訪的巴陸軍參謀長穆尼爾會晤時，已向巴方明確闡述有關立場。伊方提出的條件包括美國遵守伊斯蘭堡諒解備忘錄並履行相關條款，其中第五條涉及有關伊朗對霍爾木茲海峽管理安排的內容。（央視新聞）
-
----
-
-### 2026-08-25 23:21:22  #Trading Economics #Economy #Mexico #Current Account #Importance 1
-
-Mexico Current Account Swings to Surplus in 2Q — Mexico’s current account posted a surplus of $8.93 billion in the second quarter of 2026, rebounding from a $4.46 billion deficit a year earlier. The surplus reflected a $6.35 billion surplus in the goods and services balance, a $13.25 billion deficit in the primary income balance and a $15.82 billion surplus in the secondary income balance. The goods and services surplus resulted from a $10.82 billion surplus in the goods balance, partially offset by a $4.46 billion deficit in the services balance. As a share of GDP, the current account surplus stood at 1.7% in the second quarter of 2026, compared with a 1.0% deficit in the same period of 2025.
-
----
-
-### 2026-08-25 23:20:38  #其他
-
-德國總統施泰因邁爾：作為一個國家，我們需要移民。想要維持社會正常運轉，就離不開移民。醫院、養老院以及各類護理機構都存在這一需求，如今私營經濟的絕大部分領域同樣如此。
-
----
-
-### 2026-08-25 23:17:57  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #WTI #DXY
-
-Interfax: Russia says it struck two vessels at Ukraine's Pivdennyi port.
-
----
-
-### 2026-08-25 23:17:46  #MKT News #HMC.O #Impact bullish
-
-【Honda to expand North American hybrid capacity, may build US plant】Honda is considering building a new plant in the United States as it expands gasoline-electric hybrid production. After cancelling three battery-electric models planned for the US earlier this year, the automaker plans to roll out 15 new hybrid models by March 2030, primarily for North America. An executive vice president said Honda needs additional capacity to meet demand and that the next factory should be in North America.
-
----
-
-### 2026-08-25 23:17:44  #MKT News #CNH #Impact bearish #CSI300 #Hang Seng Index
-
-【Typhoon Sader nears; China's Ningbo and Zhoushan raise typhoon response to Level II】At 17:00 on Aug 25, Typhoon Sader's center was about 852 km off Ningbo at sea, with maximum winds at force 14. Based on its track and intensity forecast, from 20:00 on Aug 25 Ningbo and Zhoushan coastal areas have entered a Level II typhoon emergency response, focusing on offshore gale and swell risks that could cause ships to drag anchor or mooring lines to break.
 
 ---

@@ -1,7 +1,422 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-31 00:36:16_
-_本檔包含 2464 則快訊，約 576744 字_
+_更新時間：2026-08-31 03:24:49_
+_本檔包含 2512 則快訊，約 578029 字_
+
+---
+
+### 2026-08-31 03:23:01  #MKT News #WTI #Impact bearish #Brent
+
+U.S. officials told Al Jazeera that mine-clearance of the Strait of Hormuz international shipping lane is complete.
+
+---
+
+### 2026-08-31 03:22:12  #國際
+
+美國官員：我軍已完成霍爾木茲海峽國際航運航道的排雷工作。
+
+---
+
+### 2026-08-31 03:21:59  #MKT News #WTI #Impact bearish #Brent
+
+U.S. officials told Al Jazeera that U.S. forces are closely monitoring the area and are prepared to protect free trade through the Strait of Hormuz.
+
+---
+
+### 2026-08-31 03:20:10  #國際
+
+美國官員：我方部隊正密切監控該地區，並隨時準備保護霍爾木茲海峽的自由貿易暢通。
+
+---
+
+### 2026-08-31 03:19:34  #其他
+
+問：如何解釋德國五分之一的年輕人考慮離開本國這一現象？ 
+德國總理默茨：這也意味著還有五分之四的年輕人並不打算離開。
+
+---
+
+### 2026-08-31 03:16:11  #央行 #國際
+
+韓國央行警告：如果半導體熱潮帶來的企業和家庭收入增長轉化為消費，通脹壓力可能會再次上升。
+
+---
+
+### 2026-08-31 03:16:00  #MKT News #Market Themes #Chip Wars #Nikkei 225 #Impact bearish #Hang Seng Index
+
+【Bank of Korea warns chip boom could reignite inflation】The Bank of Korea warned the semiconductor boom could rekindle inflation if corporate and household income gains translate into consumption. It said rising semiconductor export prices have boosted purchasing power and that, if consumption accelerates, demand may exceed current supply capacity — a demand-side price pressure the central bank cited as one reason for its recent string of atypical consecutive rate hikes.
+
+---
+
+### 2026-08-31 03:14:03  #其他 #焦點
+
+德國總理默茨：德國人並不懶惰。但德國人均年工作時長比瑞士少200小時。我並不太想拿我們和其他國家作對比。但我認為我們必須達成共識，全體德國人是否願意真正投入更多工作？現在不少企業表示，如果將每週工時從35小時恢復至40小時，德國的大部分競爭力就能夠得以恢復。
+
+---
+
+### 2026-08-31 03:10:51  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet #Amazon #Microsoft #NVDA.O #Impact mixed #MSFT.O #GOOGL.O
+
+【Tech profits buoyed by >$160bn in AI-related valuation gains, may overstate AI strength】Financial Times reported large tech firms booked more than $160 billion of unexpected valuation gains last quarter from equity investments in other AI companies, lifting pre-tax profits. Alphabet, Amazon, NVIDIA and Microsoft said the accounting line "other income" was materially boosted by these one-off valuation gains. The gains largely reflect market enthusiasm for AI and could distort assessments of the AI ecosystem’s strength and cyclicality. Goldman Sachs' chief US equity strategist said investors are increasingly asking whether reported growth is demand-driven or, to some extent, misleading.
+
+---
+
+### 2026-08-31 03:05:50  #國際
+
+以色列總理內塔尼亞胡：致力於解除哈馬斯的武裝，並將同樣致力於解除真主黨的武裝。
+
+---
+
+### 2026-08-31 03:04:30  #MKT News
+
+【5.1-magnitude earthquake hits northern Chile】The University of Chile National Seismological Center reported a magnitude-5.1 earthquake struck Chile's northern Arica and Parinacota region at 12:04 local time on Aug. 30, with a focal depth of 108.25 km. No casualties or damage reported.
+
+---
+
+### 2026-08-31 03:03:58  #其他
+
+【智利北部地區發生5.1級地震】根據智利大學全國地震中心報告，當地時間8月30日12時04分，該國北部阿里卡和帕里納科塔大區發生5.1級地震，震源深度108.25公里。目前暫無人員傷亡及財產損失報告。
+
+---
+
+### 2026-08-31 03:03:04  #公司
+
+市場資訊：大型科技巨頭上季度憑藉對其他人工智慧企業的投資，斬獲逾1600億美元的意外收益，美化了自身財報盈利表現。
+
+---
+
+### 2026-08-31 03:00:59  #央行 #焦點 #國際
+
+【沃什表態助長加息預期後，債券投資者持謹慎態度】荷蘭銀行投資解決方案部、布蘭迪萬環球投資管理等機構的債券投資者，對美聯儲主席凱文·沃什即將加息的市場猜測表示懷疑。沃什發表相關言論後，部分投資者心存疑慮，做好了美聯儲維持利率不變的風險預案，這也加劇了市場對美聯儲公信力的擔憂。互換交易員定價顯示，美聯儲加息機率約為60%，但投資者仍在等待就業等經濟資料，以此判斷美聯儲的下一步行動。
+
+---
+
+### 2026-08-31 02:57:35  #宏觀 #央行 #國際
+
+【貝森特與沃什一同出行出席G20峰會】訊息人士稱，美國財政部長貝森特與美聯儲主席凱文·沃什一同前往北卡羅來納州阿什維爾，出席G20財長峰會。
+
+---
+
+### 2026-08-31 02:50:44  #央行 #國際
+
+美國財長貝森特和美聯儲主席沃什一同前往北卡阿什維爾出席G20財長會議。
+
+---
+
+### 2026-08-31 02:48:01  #國際
+
+【伊朗藉助小艇監控霍爾木茲海峽過往船隻】伊朗革命衛隊正使用小型快艇識別透過霍爾木茲海峽的船隻。近期一艘船隻取道阿曼航線穿越霍爾木茲海峽期間，一艘伊朗小艇開啟探照燈，在航行過程中讀取船體船名以識別該船。隨後伊朗軍方直呼該船船名，稱該船“已錄入其系統”並受到監控，勒令其停止通行，否則將採取行動。
+
+---
+
+### 2026-08-31 02:42:51  #市場 #國際
+
+【美元與財政風險擔憂升溫 韓國散戶資金湧入黃金ETF】隨著市場對美國財政狀況的擔憂加劇，黃金已不再只是利率下行的受益資產，也被視為對沖美元價值下跌和財政風險的工具。據ETF CHECK 30日公佈的資料，過去一個月，韓國散戶投資者淨買入10只與現貨黃金和黃金期貨掛鉤的國內ETF，金額合計1140.2億韓元（約7900萬美元）。其中，5只現貨黃金ETF獲得的淨買入金額達到1086.52億韓元。個人投資者分別買入價值701.66億韓元的ACE KRX Gold Spot和335.26億韓元的TIGER KRX Gold Spot。5只黃金期貨ETF則合計吸引散戶投資者53.68億韓元資金。
+
+---
+
+### 2026-08-31 02:41:22  #國際
+
+【佩斯科夫：俄美烏三方會晤需待協議最終敲定方可舉行】當地時間8月30日，俄羅斯總統新聞秘書佩斯科夫表示，俄總統普京、美國總統特朗普與烏克蘭總統澤連斯基之間的會晤，只有到需要最終敲定已有協議時才有可能舉行。他強調，關於烏克蘭問題的協議並非“原始交易”，而是一個涉及諸多細節的複雜過程。佩斯科夫還稱，俄羅斯對談判持開放態度，但目前尚不具備先決條件。（央視新聞）
+
+---
+
+### 2026-08-31 02:39:42  #其他
+
+中國地震臺網正式測定：08月31日02時29分在新疆阿克蘇地區沙雅縣（北緯40.01度，東經83.68度）發生3.1級地震，震源深度30千米。
+
+---
+
+### 2026-08-31 02:34:33  #其他
+
+【塞普勒斯一客輪傾覆8死17失蹤】8月30日，一艘載有267人的客輪在塞普勒斯北部海域傾覆。截至目前已造成至少8人死亡、17人失蹤。據稱這艘私營客輪於當天中午從塞普勒斯北部凱里尼亞港出發後不久，船體便開始進水。它當時剛剛離港約4海里（7.41公里），正駛往土耳其塔舒朱港。據當地媒體報道，由於前一日天氣惡劣，港務部門並未批准客輪出港。該船自行駛離港口後，船長髮現船頭進水，曾試圖返航，但未能成功。 倖存者稱，該船行駛過程中劇烈搖晃，被風浪不斷地拋離水面後又重重摔回水中。當地媒體報道說，船體老化可能是導致進水的主要原因。（CCTV國際時訊）
+
+---
+
+### 2026-08-31 02:27:49  #國際
+
+特朗普：所有與美國開展業務的加拿大企業，請立即遷至美國。其中很多企業多年前因美國當局的愚蠢決策遷出美國。若遷回美國，即可免徵關稅。
+
+---
+
+### 2026-08-31 02:25:38  #國際
+
+【特朗普抨擊加拿大長期佔美國便宜 拒絕加拿大汽車及零部件】美國總統特朗普稱“加拿大是最過分的佔便宜方之一”，還表示“我不想要加拿大產汽車，不想要加拿大零部件，加拿大的任何東西我都不要”，並指責加拿大“數十年來一直在敲詐美國”，稱這種局面將會終結。特朗普表示，在他宣佈參選2024年總統大選時，福特原本準備關閉其底特律大型工廠，但由於他民調領先，該工廠得以保留，如今該工廠全天候運轉，成為“全球盈利能力最強的汽車工廠之一”。特朗普稱，憑藉自己實施的關稅政策，他重振並挽救了美國汽車行業。
+
+---
+
+### 2026-08-31 02:17:40  #國際
+
+特朗普：加拿大幾十年來一直在坑害我們，這種情況會停止的。
+
+---
+
+### 2026-08-31 02:17:16  #國際
+
+特朗普：美國不要加拿大產的汽車、零部件或任何東西。
+
+---
+
+### 2026-08-31 02:08:51  #其他
+
+【英海事安全資訊機構：一油輪在霍爾木茲海峽遇襲】英國海上貿易行動辦公室30日釋出通報說，阿曼海塞卜以北12海里（約合22公里）處，一艘油輪日前在穿越霍爾木茲海峽時遭到不明投射物襲擊。通報說，目前暫無人員傷亡和對環境造成影響的報告。通報建議相關海域船隻謹慎通行。
+
+---
+
+### 2026-08-31 02:07:52  #國際
+
+【美國新澤西州槍擊2死9傷】當地時間8月30日凌晨，美國新澤西州特倫頓市發生大規模槍擊，造成2人死亡、9人中槍入院。據美國媒體報道，當時現場正在舉行一場社群聚會，可能包括戶外燒烤活動，現場人數約150至200人。目擊者稱，現場先傳出一輪槍聲。當人們以為槍擊已經結束時，新一輪槍聲再次響起。 警方尚未公佈嫌疑人資訊。調查正在進行中。（CCTV國際時訊）
+
+---
+
+### 2026-08-31 02:06:51  #國際
+
+【敘利亞高官14年來首訪利比亞 敘使館恢復運作】利比亞外交部宣佈，利比亞代理外長塔希爾·巴奧爾30日在的黎波里會見敘利亞過渡政府外長希巴尼，雙方就加強雙邊協調與磋商交換意見。同日敘利亞駐的黎波里大使館恢復運作。（新華社）
+
+---
+
+### 2026-08-31 02:05:28  #國際
+
+烏克蘭前國防部長正尋求西方資本，用於組建並運營多家武器開發企業，他稱這些企業將幫助基輔抵禦莫斯科。
+
+---
+
+### 2026-08-31 02:05:07  #其他
+
+德國總理默茨談及自身支援率低迷：我不得不做出德國數年前，乃至數十年前就本該落實的決策。看看我們的社會保障體系就知道。以養老金體系為例，受人口結構變化影響，現有模式已經難以為繼。要求國家接受變革的人，在初期自然不會受歡迎。我當然會關注民調資料，但民調並不是我評判政策的標尺。我評判政策的標準是，聯邦政府是否正帶領國家走向穩定、和平且自由的未來。
+
+---
+
+### 2026-08-31 02:04:38  #國際
+
+烏克蘭前國防部長米哈伊洛·費奧多羅夫正在為一隻國防科技基金尋求美國投資。
+
+---
+
+### 2026-08-31 02:04:13  #國際
+
+伊朗革命衛隊情報機構：敵方正試圖透過心理戰破壞國家穩定與抗風險能力。伊朗的回應十分明確，摧毀敵方指揮能力，打擊恐怖分子協作網路，對抗一切企圖破壞穩定與團結的勢力。
+
+---
+
+### 2026-08-31 02:00:20  #宏觀
+
+【武契奇：中企承建快速路通車助推塞爾維亞經濟發展】當地時間30日上午，塞爾維亞“多瑙走廊”快速路專案舉行通車儀式。塞爾維亞總統武契奇、第一副總理兼財政部長馬利，建設、交通和基礎設施部部長索夫羅尼耶維奇，以及中國駐塞爾維亞使館臨時代辦張喆等出席活動。當日，武契奇乘車體驗了“多瑙走廊”快速路，並在隨後致辭中高度評價專案對塞爾維亞發展的重要意義。他說，“多瑙走廊”快速路專案對於實現塞爾維亞國家利益、推動國內旅遊業發展以及促進東部地區經濟增長髮揮著重要作用。（新華社）
+
+---
+
+### 2026-08-31 01:56:10  #MKT News
+
+German Chancellor Merz (on military spending) said Germany must correct deficiencies accumulated over the past 15 years and that the Bundeswehr's capabilities remain well below where they should be.
+
+---
+
+### 2026-08-31 01:55:35  #國際
+
+德國總理默茨談及軍費開支：我們必須彌補過去15年留下的短板。德國聯邦國防軍並未達到應有的水準。 德國必須具備自衛能力，這一必要性不言而喻。 倘若我們失去自由、歐洲和平遭受威脅，再好的育兒補貼又有何意義？
+
+---
+
+### 2026-08-31 01:53:17  #其他
+
+德國總理默茨：關閉德國核電站並非我的責任。換作是我，我不會做出該決定。德國在替代能源尚未建成的情況下就關停了核電站，如今我們不得不付出巨大代價來彌補這一局面。上網電價補貼也並非我作出的法律承諾。我無法推翻既定決議，這些決策已經落地。因此我們如今正艱難地逐步擴大能源供應。唯有實現規模更大、質量更優的能源供給，才能推動能源價格下行。
+
+---
+
+### 2026-08-31 01:52:39  #MKT News #WTI #Impact bullish #Brent
+
+NHC says a storm near the North American bay has a 50% chance of developing into a tropical cyclone within 48 hours.
+
+---
+
+### 2026-08-31 01:52:26  #國際
+
+德國總理默茨談及伊朗：在德國，補貼無法抵消100美元的油價。政界必須坦誠地向民眾說明這一點，我們做不到透過補貼解決該問題。但舉例而言，我們可以全力以赴，聯合歐洲夥伴推動伊朗戰爭結束，確保霍爾木茲海峽重新開放。這正是我們努力的方向。霍爾木茲海峽一旦重新開放，能源市場價格就會立刻回落，德國同樣會受益。
+
+---
+
+### 2026-08-31 01:52:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #EURUSD #Impact bullish
+
+MERZ said reopening the Strait of Hormuz would immediately lower energy market prices, including prices in Germany.
+
+---
+
+### 2026-08-31 01:52:13  #MKT News #Market Regions #Europe & UK #WTI #Impact bearish #Brent
+
+MERZ says Germany cannot offset a $100/barrel oil price through subsidies. He adds Germany, together with European partners, will do everything possible to help end the conflict involving Iran and ensure the Strait of Hormuz reopens.
+
+---
+
+### 2026-08-31 01:50:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #Brent #Impact bullish #EURUSD
+
+Chancellor MERZ said Germany shut down nuclear plants before alternatives were built and must now painfully make up that shortfall.
+
+---
+
+### 2026-08-31 01:49:51  #MKT News #Market Regions #Europe & UK
+
+German Chancellor MERZ said shutting Germany's nuclear power plants is not his responsibility and he will not do so.
+
+---
+
+### 2026-08-31 01:49:12  #國際
+
+以色列訊息人士：以色列海軍已提升戰備等級，以應對局勢的任何變化。
+
+---
+
+### 2026-08-31 01:48:13  #公司
+
+【851家A股公司擬中期分紅超6600億元 國有企業貢獻近半】資料顯示，截至8月30日，已有851家上市公司釋出了2026年半年度利潤分配方案（已剔除僅披露分紅意向、無具體分紅派現金額的公司），涉及分紅金額6652.91億元。其中，有79家公司分紅方案已實施完畢，合計277.54億元，充分展現了上市公司回報股東的意識持續增強。
+
+---
+
+### 2026-08-31 01:44:35  #其他
+
+惠譽確認法國評級為A+，展望穩定。
+
+---
+
+### 2026-08-31 01:42:43  #國際
+
+巴基斯坦外交部：《麥加協議》戰略政治防務委員會首次會議定於8月31日在伊斯坦布林召開。
+
+---
+
+### 2026-08-31 01:42:23  #MKT News
+
+Pakistan's Foreign Ministry said the Istanbul meeting was the first session of the Strategic Political and Defence Committee established under the Mecca Joint Defence Agreement.
+
+---
+
+### 2026-08-31 01:42:17  #MKT News
+
+Pakistan's foreign ministry said the foreign minister, Defence Minister Asif and Army Chief Asim Munir will represent Pakistan at the Makkah Agreement Committee meeting.
+
+---
+
+### 2026-08-31 01:41:58  #MKT News
+
+Pakistan's foreign ministry said Turkish and Saudi foreign ministers, defense ministers and military chiefs will attend a meeting of the Mecca Accord Committee.
+
+---
+
+### 2026-08-31 01:41:45  #MKT News
+
+Pakistan's Foreign Ministry said the first meeting of the Mecca Agreement Strategic Political and Defense Committee will be held on Aug. 31 in Istanbul.
+
+---
+
+### 2026-08-31 01:41:23  #MKT News
+
+【Trump urges FCC to probe media polls, punish NBC anchor】President Trump on Sunday urged the Federal Communications Commission to investigate news outlets' use of opinion polls and to punish NBC anchor Kristen Welker, accusing media of using "fake polls" and calling on the FCC to act. Trump said he would report Welker to the FCC for what he described as deliberate distortion after she said his primary endorsements this year had mixed results. The FCC oversees broadcast licensing but does not regulate pollsters and lacks authority over cable or print media. Trump made the comments on social media.
+
+---
+
+### 2026-08-31 01:40:48  #國際
+
+巴基斯坦外交部：《麥加共同防務協議》下屬戰略政治防務委員會伊斯坦布林會議舉行首次會議。
+
+---
+
+### 2026-08-31 01:40:44  #國際
+
+巴基斯坦外交部：土耳其、沙烏地阿拉伯兩國外長、國防部長以及軍方首長將出席麥加協議委員會會議。
+
+---
+
+### 2026-08-31 01:40:40  #國際
+
+巴基斯坦外交部：巴基斯坦外交部長、國防部長阿西夫以及陸軍參謀長阿西姆·穆尼爾將出席麥加協議委員會會議。
+
+---
+
+### 2026-08-31 01:32:17  #其他
+
+葉門武裝部隊：在胡塞自殺式快艇對紅海船隻發起襲擊之前將其摧毀。
+
+---
+
+### 2026-08-31 01:21:07  #MKT News #Commodities #Energy
+
+Fars News reported Iran seized 2 million liters of smuggled diesel in the Persian Gulf, about 12,600 barrels.
+
+---
+
+### 2026-08-31 01:18:51  #公司 #國際
+
+【特朗普敦促聯邦通訊委員會調查媒體民調、處罰全國廣播公司主持人】美國總統特朗普對媒體發起抨擊，要求美國聯邦通訊委員會調查新聞機構使用的民調，並處罰一名電視新聞主持人。特朗普對新聞媒體使用的“虛假民調”表達不滿，並將矛頭指向全國廣播公司《會見媒體》節目主持人克里斯滕·韋爾克，緣由是後者報道了特朗普背書共和黨候選人的相關情況。儘管美國憲法第一修正案保護新聞與言論自由，且聯邦通訊委員會對民調及新聞機構的管轄許可權有限，特朗普仍敦促聯邦通訊委員會主席認真對待他的投訴。
+
+---
+
+### 2026-08-31 01:13:46  #MKT News
+
+【Two US shootings in Chicago and Trenton leave 3 dead, 18 injured】On Aug. 30 local time, shootings in Chicago and Trenton, New Jersey, killed three people and wounded 18. Chicago police said a park shooting at about 23:37 on Aug. 29 killed a 35-year-old man and injured nine; they said there may have been multiple shooters and no arrests have been made. Hours later a shooting in a residential area of Trenton killed two and injured nine. Authorities have released no suspect information and motives remain under investigation.
+
+---
+
+### 2026-08-31 01:12:52  #國際
+
+【美國兩地接連發生槍擊事件 共致3死18傷】當地時間8月30日，美國芝加哥和新澤西州特倫頓接連發生兩起大規模槍擊事件，共造成3人死亡、18人受傷。
+
+---
+
+### 2026-08-31 01:10:31  #市場 #央行 #國際
+
+歐洲央行執委會成員呼籲藉助智慧合約，將央行貨幣遷移至區塊鏈。
+
+---
+
+### 2026-08-31 01:07:58  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Conflict enters fourth act; Iran’s Strait of Hormuz leverage at risk】CNN analyst Brett McGurk says the six‑month conflict has moved into a fourth phase and Iran’s leverage over the Strait of Hormuz is at risk of failing. Since mid‑July the US has re‑imposed sanctions on Iranian oil, re‑established a maritime blockade of Iranian ports and stepped up naval escorts to clear and protect commercial traffic; Bloomberg reports flows through the Strait have recovered to about two‑thirds of pre‑conflict levels. Attempts by Iran to interdict shipping with drones and sea mines have begun to lose effectiveness, leaving Iranian oil exports effectively constrained and pressure accumulating on Tehran rather than Washington. McGurk notes Iran could try to push prices higher to force concessions—particularly ahead of US midterms—but Gulf states do not back Iran’s claims to control the Strait. With the war entering a new phase, US objectives—sustain the blockade, secure commercial navigation and press Iran to abandon claims over the Strait and nuclear enrichment—are clearer and the situation is starting to favor Washington.
+
+---
+
+### 2026-08-31 01:02:00  #國際
+
+俄羅斯警告，已準備對烏克蘭能源部門實施大規模打擊。
+
+---
+
+### 2026-08-31 00:59:23  #國際
+
+烏克蘭農業政策部長：俄羅斯的打擊已摧毀烏克蘭約90%的現代化倉儲設施。目前暫無饑荒風險，但持續襲擊可能會造成商店商品供應及品類短缺。
+
+---
+
+### 2026-08-31 00:52:20  #其他
+
+【受理再融資專案68單 滬市再融資改革成效顯著】8月30日晚，上交所釋出訊息稱，上半年最佳化再融資一攬子措施落地實施以來，滬市受理再融資專案68單，擬融資額1272億元，同比分別增長48%、39%；註冊生效61單，同比增長33%。
+
+---
+
+### 2026-08-31 00:52:09  #國際
+
+【以軍空襲加沙地帶中部 造成兩人死亡】當地時間8月30日，加沙地帶衛生部門官員表示，當天以色列軍隊在加沙地帶中部的代爾拜拉赫發動空襲，造成兩人死亡，其中包括一名三歲的兒童。以色列國防軍稱當天對一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）武裝人員發動了襲擊，但未提供具體細節。（央視新聞）
+
+---
+
+### 2026-08-31 00:51:57  #MKT News
+
+【Israel airstrike on central Gaza kills two, including child】On Aug. 30 Gaza health officials said an Israeli airstrike hit Deir al-Balah in the central Gaza Strip, killing two people, including a three-year-old. The Israel Defense Forces said it targeted a Hamas militant but gave no further details.
+
+---
+
+### 2026-08-31 00:48:15  #MKT News
+
+【Kremlin: Putin-Trump-Zelenskiy summit only to confirm pre-agreed outcomes】Kremlin spokesman Peskov said a summit between Russian President Putin, US President Trump and Ukrainian President Zelenskiy would be limited to confirming pre-agreed negotiation outcomes and is only possible for that purpose.
+
+---
+
+### 2026-08-31 00:41:42  #國際
+
+以色列能源部長談及伊朗：倘若伊朗犯下錯誤，試圖重啟核計劃或彈道導彈計劃，即便伊朗與美國達成協議，我們也會發動打擊。
+
+---
+
+### 2026-08-31 00:37:42  #其他
+
+中國地震臺網正式測定：08月31日00時25分在新疆阿克蘇地區沙雅縣（北緯39.99度，東經83.49度）發生3.2級地震，震源深度10千米。
 
 ---
 
@@ -14797,131 +15212,5 @@ US Natgas Prices Hold at 5-Week High — US natural gas prices held around $2.91
 ### 2026-08-28 10:53:50  #Trading Economics #Markets #Commodity #Importance 1
 
 Soybean Futures Extend Rally — Soybean futures climbed further above $12.6 per bushel, extending their rally to the highest level since December 2023 as concerns over crop conditions and strong Chinese demand continued to support prices. US exporters have reported a series of soybean sales to China for the 2026/27 marketing year, including a fresh 333,000 metric ton purchase announced on August 26. The latest deal adds to several large sales earlier this month, with USDA reporting purchases of 488,000 tons on August 3, 238,000 tons on August 7, and another 244,000 tons on August 12. Meanwhile, extreme heat and heavy rainfall across major Chinese growing regions are threatening soybean quality and yields, potentially increasing the country’s reliance on imports. US crop concerns also supported prices after the USDA’s good-to-excellent soybean rating fell to 60% from 61% a week earlier. Markets now await a potential late-September meeting between Presidents Trump and Xi that could shape agricultural trade.
-
----
-
-### 2026-08-28 10:53:30  #Trading Economics #Markets #Philippines #Currency #Importance 2
-
-Philippine Peso Hits All-time Low — The Philippine peso depreciated past 62 per dollar on Friday, hitting a new all-time low as concerns over the domestic inflation outlook kept pressure on the currency. The move came despite the Bangko Sentral ng Pilipinas raising its policy rate by 25 bps to 5% in a third straight hike, described as a preemptive move. The BSP raised its 2027 inflation forecast to 5.4% from 4.5%, citing risks from severe El Niño conditions and higher minimum wages, while lowering its 2026 forecast to 6.1% amid easing oil prices. Still, elevated oil prices continue to pose a risk to the peso, as the Philippines imports almost all of its oil needs, potentially widening the current-account deficit and adding to domestic inflation pressures. Governor Eli Remolona said the central bank would focus on smoothing sharp currency movements rather than defending a specific exchange-rate level. The peso has now lost more than 5% against the dollar this year, leaving it among Asia’s weakest performers.
-
----
-
-### 2026-08-28 10:53:19  #公司
-
-【華為雲聯合多家上市公司發起“華為雲碼道中國行”】在日前舉行的第五屆828 B2B企業節上，華為雲聯合金山辦公、中軟國際、軟通動力、北明軟體、鈦動科技等十餘家合作伙伴發起“華為雲碼道中國行”等舉措，推出技術創新、算力資源、平臺工具、補貼優惠等扶持，將AI能力輸送到各行各業。
-
----
-
-### 2026-08-28 10:53:05  #市場 #焦點
-
-科創50日內跌幅達1.03%，成分股中，格科微跌4.79%，源傑科技跌4.72%，阿特斯跌4.10%，晶合整合跌4.09%。
-
----
-
-### 2026-08-28 10:53:00  #市場
-
-【新一輪國內油價調整將至 預計本輪油價將上調】國內成品油新一輪調價視窗將於8月28日24時開啟。綜合機構觀點，本輪油價預計上調。卓創資訊成品油分析師孟鵬表示，本輪成品油零售調價週期內（8月14日24時至8月28日24時），國際原油價格先漲後跌，但原油變化率持續在正值內執行，預計8月28日24時國內成品油零售調價或將開啟上調視窗。金聯創成品油分析師姜娜也認為，本輪國內汽柴油零售價上調板上釘釘。卓創資訊資料監測模型顯示，截至8月26日外盤收盤，國內第9個工作日參考原油的變化率為8.18%，預計汽柴油上調360元/噸，摺合升價92汽油、95汽油、0柴油分別上調0.28元、0.30元、0.31元。
-
----
-
-### 2026-08-28 10:52:55  #公司 #市場
-
-【休閒食品概念震盪反彈，黑芝麻漲停】休閒食品概念震盪反彈，黑芝麻漲停，立高食品、紅棉股份、一致魔芋、良品鋪子、勁仔食品、好想你等跟漲。
-
----
-
-### 2026-08-28 10:52:22  #公司
-
-【海正藥業與星際開發達成戰略合作 佈局太空生物製藥】據海正藥業訊息，近日，海正藥業與成都星際太空探索科技有限公司（簡稱“星際開發”）舉行戰略合作簽約儀式。此次跨界戰略合作，標誌著海正藥業正式進軍太空生物製藥新賽道。星際開發董事長付仕明表示，星際開發將依託“星實”號在軌試驗與樣品返回能力，為海正藥業提供低成本、可重複的太空科研入口。
-
----
-
-### 2026-08-28 10:50:52  #國際
-
-美國財長貝森特：過去14天，美國已將1.3億桶石油引匯出霍爾木茲海峽。
-
----
-
-### 2026-08-28 10:50:02  #其他
-
-【北京：推動人工智慧、機器人等成為外貿發展的新動能】北京市副市長唐文弘8月28日在國新辦新聞釋出會上表示，面向“十五五”，我們將持續深化高水平對外開放，也就是以開放促改革促發展。一是積極擴大自主開放，推動服務業擴大開放綜合示範區建設迭代升級。深入推進自貿試驗區及其聯動發展區建設，以制度創新更好賦能新質生產力發展。二是推動貿易創新發展。充分發揮北京科技創新和數字經濟發展優勢，推動人工智慧、機器人等成為北京外貿發展的新動能；高標準建設國家服務貿易創新發展示範區、國家數字貿易示範區。三是提升雙向投資合作水平。把開放機遇充分轉化成發展紅利，用“好政策+好服務”，支援外資企業深度融入北京現代化產業體系建設；做深做強北京海外綜合服務平臺，提升對外投資的質量與水平，促進開放合作、互惠共享。
-
----
-
-### 2026-08-28 10:49:51  #市場
-
-【水產品概念拉昇 中水漁業漲停】水產品概念拉昇，中水漁業漲停，國聯水產、佳沃食品、獐子島、開創國際等漲幅居前。
-
----
-
-### 2026-08-28 10:49:17  #國際
-
-韓國國家安保室長：韓國正尋求與美國就當前多項議題加強合作，包括投資、電商平臺Coupang及國家安全事務。
-
----
-
-### 2026-08-28 10:48:13  #其他
-
-據知情人士透露，對沖基金MARSHALL WACE計劃明年在東京開設辦公室。
-
----
-
-### 2026-08-28 10:47:49  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesia Stocks Eye Second Straight Weekly Gain — Indonesia’s IDX Composite rose 38 points, or 0.6%, to 6,558 in early Friday trade, extending momentum from the prior session after Wall Street’s overnight strength buoyed sentiment. Investors awaited signals on the Fed’s rate path from Chair Kevin Warsh’s debut Jackson Hole speech later today. Locally, confidence was steadied by Thursday’s orderly protest in Jakarta, with no major security disruptions. At the same time, attention turned to the House of Representatives’ expected announcement on the Bank Indonesia governor candidate. Upside was tempered, however, by caution ahead of next week's August inflation data, with El Niño risks fueling concern over food prices, while July trade figures are also due. Energy, financials, and non-cyclicals led gains, with Petrindo Jaya Kreasi (4.3%), Elang Mahkota Teknologi (2.0%), Bank Central Asia (1.2%), and Sumber Alfaria Trijaya (1.1%) among standouts. For the week, the market is poised for a second straight rise, up about 0.4% so far.
-
----
-
-### 2026-08-28 10:47:25  #其他
-
-【華為雲生態合作伙伴已超過5萬家】記者最新獲悉，截至目前，華為雲生態合作伙伴已超過5萬家，共創700餘個聯合解決方案，形成了“懂行業”的產業聯盟，合作解決Agent落地千行萬業面臨的實際問題。（人民財訊）
-
----
-
-### 2026-08-28 10:47:11  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-08-28 10:37:55  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Rises on Middle East Uncertainty — European natural gas prices rose to €69/MWh on Friday, extending gains from the previous session and moving back toward their highest level since January 2023, as supply risks remain amid uncertainty over a Middle East peace deal. Prices jumped on Thursday after reports that President Trump was not interested in returning to the terms of a June deal with Iran. This reversed losses from earlier this week, which were driven by progress in talks between Pakistan and Iran to end the conflict and an agreement between Tehran and Oman on control and revenues tied to the Strait of Hormuz. The near-closure of the Strait has continued to disrupt LNG supplies from Qatar, while extreme summer heat-driven cooling demand diverted supplies from storage. These have left Europe scrambling to secure supplies, heightening fears that the region could enter the winter heating season with insufficient reserves. For the week, European gas prices climbed more than 3%, the third straight weekly gain.
-
----
-
-### 2026-08-28 10:35:45  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Edge Higher on Tech Gains — The Hang Seng Index edged up about 0.1% to 25,592 on Friday as strong global technology sentiment following Nvidia’s upbeat earnings and outlook provided support, while investors awaited Federal Reserve Chair Kevin Warsh’s speech at the Jackson Hole symposium later in the day. Nvidia’s results reinforced expectations for robust AI infrastructure demand, supporting Hong Kong’s tech-heavy market despite concerns over the sustainability of AI spending. Meanwhile, caution ahead of Warsh’s speech kept investors focused on clues about the Fed’s rate outlook. Among stocks, Meituan was also in focus ahead of its second-quarter results due later in the day, with investors watching margins amid intense competition and subsidies following its third consecutive quarterly loss in Q1. Tencent (1.7%), Kingboard Laminates (3.8%), MiniMax (3.1%), AIA Group (1.5%), and Xiaomi (1.5%) gained, while Akeso (-7.5%), Meituan (-0.9%), and Dongyue Group (-1.2%) declined.
-
----
-
-### 2026-08-28 10:23:27  #Trading Economics #Markets #Taiwan #Stock Market #Importance 1
-
-TAIEX Nears 2-Month High on Tech Sector Boost — The TAIEX, Taiwan’s benchmark stock index, rose 373 points, or 0.8%, to 46,349 in Friday morning deals, gaining for the fourth consecutive session and tracking a rally on Wall Street overnight, buoyed by tech sectors following solid Nvidia earnings. The broader index reached its highest level since July 6, mainly supported by electronic technology, finance, technology services, and health technology. Electronic technology continued to rise, advancing 0.7%, following a rise in the tech sector on Wall Street on Thursday. TSMC, the world’s largest contract chipmaker and accounting for more than 40% of the market’s total value, gained 0.6%. Meanwhile, MediaTek climbed 1.9%, and Delta Electronics increased 2.2%. Nanya Technology, a major Taiwanese memory chip supplier, rose 0.2%. However, traders awaited a speech by Fed Chair Kevin Warsh at the Jackson Hole Symposium later today for guidance on the Fed’s monetary policy decision at its upcoming meeting.
-
----
-
-### 2026-08-28 10:17:56  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
-
-Australia 10Y Yield Holds at 5-Week Top — Australia’s 10-year government bond yield held around 5.1%, sitting at a five-week high as markets ramped up the odds of an imminent rate hike. The stronger outlook for tighter policy came after a hotter-than-expected July inflation report and household spending data, which showed a 1.1% jump in July, pointing to continued strength in domestic demand despite elevated borrowing costs. The RBA has already hiked rates three times this year and policymakers have warned they could tighten further. The stronger economic figures prompted several major banks to revise their RBA forecasts, with NAB expecting the cash rate to rise to 4.6% next month, while CBA and ANZ forecast a November move but acknowledge the possibility of earlier tightening. Markets are pricing roughly a 50% chance of a rate increase at the RBA’s September meeting, up sharply from 17% previously, while a November hike is fully priced in. Focus now turns to Q2 GDP and employment data for further clues on the policy outlook.
-
----
-
-### 2026-08-28 10:15:16  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Appreciates by 0.32% — Top currency gainers are South Korean Won (0.32%) and Indonesian Rupiah (0.31%). Meanwhile, Japanese Yen and Chinese Yuan were little changed.
-
----
-
-### 2026-08-28 10:14:58  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Holds Advance — The yield on the 10-year US Treasury note traded around 4.67% on Friday after rising for two consecutive sessions, as investors awaited Federal Reserve Chair Kevin Warsh’s speech at the annual Jackson Hole symposium later in the global day for clues about the outlook for US interest rates. Treasury yields also found support from a hotter-than-expected US inflation reading this week that strengthened expectations for a Fed rate increase before year-end, with the probability of a hike by December remaining above 70%. For the upcoming September meeting, markets are currently pricing in around a 65% chance that the Fed will keep rates unchanged. Meanwhile, Kansas City Fed President Jeff Schmid said monetary policy is not restraining the economy. Elsewhere, investors continued to assess the implications of the US Treasury’s expanded debt buyback program, which heightened concerns about the risks of a US debt crisis and potential dollar weakness.
-
----
-
-### 2026-08-28 10:10:27  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Holds Gains — US heating oil futures traded around $4.26 per gallon, holding most of their gains from the previous session as supply concerns intensified amid rising geopolitical risks. US-Iran diplomatic efforts remained stalled after Washington ruled out reviving the terms of a June agreement and said it was not currently negotiating with Tehran. The US has instead intensified pressure through new sanctions earlier this week, which Iran condemned as hostile and ineffective. Meanwhile, Black Sea shipments faced heightened risks as Russia considers intensifying military pressure on Ukraine after determining that peace negotiations have reached a dead end. At the same time, strikes on Russian refineries have disrupted refining capacity, adding to regional fuel supply concerns. In the US, EIA data showed distillate stockpiles fell by a larger-than-expected 2.2 million barrels last week, compared to expectations for a 1.6 million-barrel decline, pointing to tight inventories.
 
 ---
