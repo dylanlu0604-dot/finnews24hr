@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-31 06:43:20",
-  "count": 13911,
+  "updated": "2026-08-31 06:47:27",
+  "count": 13912,
   "items": [
+    {
+      "id": "mkt:01a054da-2bf4-7118-8403-7e87caecde1e",
+      "time": "2026-08-31 06:46:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS cited unconfirmed reports that the UAE has issued missile-attack alerts."
+    },
+    {
+      "id": "mkt:01a054d9-b7bf-7118-8403-74df62635171",
+      "time": "2026-08-31 06:45:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Data showed merchant vessel transits through the Strait of Hormuz fell to five per day over the weekend."
+    },
+    {
+      "id": "5067431",
+      "time": "2026-08-31 06:45:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，週末期間途經霍爾木茲海峽的大宗商品運輸船降至每日5艘。"
+    },
     {
       "id": "mkt:01a054d4-835b-7118-8403-6f8a6d26f198",
       "time": "2026-08-31 06:40:08",
@@ -125774,24 +125805,6 @@
         "國際"
       ],
       "text": "日本ANN民調：日本高市內閣支援率上升6.2個百分點，至55.4%。"
-    },
-    {
-      "id": "5053961",
-      "time": "2026-08-24 06:45:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗的經濟末日即將到來。"
-    },
-    {
-      "id": "5053960",
-      "time": "2026-08-24 06:44:47",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "【週一重要財經資訊提醒（以下均為北京時間）】 \n① 待定 美國財長貝森特介紹加大對伊制裁具體行動；\n② 19:30 拼多多財報電話會；\n③ 20:30 美國7月芝加哥聯儲全國活動指數。"
     }
   ]
 }

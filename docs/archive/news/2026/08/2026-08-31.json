@@ -1,7 +1,38 @@
 {
   "date": "2026-08-31",
-  "count": 205,
+  "count": 208,
   "items": [
+    {
+      "id": "mkt:01a054da-2bf4-7118-8403-7e87caecde1e",
+      "time": "2026-08-31 06:46:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS cited unconfirmed reports that the UAE has issued missile-attack alerts."
+    },
+    {
+      "id": "mkt:01a054d9-b7bf-7118-8403-74df62635171",
+      "time": "2026-08-31 06:45:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Data showed merchant vessel transits through the Strait of Hormuz fell to five per day over the weekend."
+    },
+    {
+      "id": "5067431",
+      "time": "2026-08-31 06:45:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，週末期間途經霍爾木茲海峽的大宗商品運輸船降至每日5艘。"
+    },
     {
       "id": "mkt:01a054d4-835b-7118-8403-6f8a6d26f198",
       "time": "2026-08-31 06:40:08",
