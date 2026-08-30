@@ -1,7 +1,38 @@
 {
   "date": "2026-08-31",
-  "count": 78,
+  "count": 81,
   "items": [
+    {
+      "id": "5067335",
+      "time": "2026-08-31 03:16:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行警告：如果半導體熱潮帶來的企業和家庭收入增長轉化為消費，通脹壓力可能會再次上升。"
+    },
+    {
+      "id": "mkt:01a05419-9e83-7118-8402-0f66caad5864",
+      "time": "2026-08-31 03:16:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【Bank of Korea warns chip boom could reignite inflation】The Bank of Korea warned the semiconductor boom could rekindle inflation if corporate and household income gains translate into consumption. It said rising semiconductor export prices have boosted purchasing power and that, if consumption accelerates, demand may exceed current supply capacity — a demand-side price pressure the central bank cited as one reason for its recent string of atypical consecutive rate hikes."
+    },
+    {
+      "id": "5067334",
+      "time": "2026-08-31 03:14:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "德國總理默茨：德國人並不懶惰。但德國人均年工作時長比瑞士少200小時。我並不太想拿我們和其他國家作對比。但我認為我們必須達成共識，全體德國人是否願意真正投入更多工作？現在不少企業表示，如果將每週工時從35小時恢復至40小時，德國的大部分競爭力就能夠得以恢復。"
+    },
     {
       "id": "mkt:01a05414-e767-7118-8402-061ca6d36727",
       "time": "2026-08-31 03:10:51",
