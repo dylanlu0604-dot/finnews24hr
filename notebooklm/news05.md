@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-30 08:03:11_
-_本檔包含 3013 則快訊，約 556674 字_
+_更新時間：2026-08-30 10:10:00_
+_本檔包含 3039 則快訊，約 558332 字_
+
+---
+
+### 2026-08-25 03:35:05  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+U.S. Defense Secretary Hegseth said Iran's kinetic strikes have not paused and that the U.S. will take decisive action if necessary.
+
+---
+
+### 2026-08-25 03:35:04  #國際
+
+美國防長赫格塞思：亞伯拉罕·林肯號航母正從中東返航。
+
+---
+
+### 2026-08-25 03:34:59  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+US defense secretary Hegseth said Iran still retains some capability but its only option is to return to the negotiating table.
+
+---
+
+### 2026-08-25 03:34:57  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. Defense Secretary Hegseth said oil shipments through the Strait of Hormuz are unimpeded.
+
+---
+
+### 2026-08-25 03:34:55  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Business Insider reported Amazon (AMZN.O) plans to build a new automated warehouse to automate delivery stations, with investment estimated at over $530 mln.
+
+---
+
+### 2026-08-25 03:34:53  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Defense Secretary Hegseth said he does not rule out using military force in the Strait of Hormuz or elsewhere.
+
+---
+
+### 2026-08-25 03:33:21  #市場
+
+美元樹股價隨成交量暴拉昇上漲，最新上漲3.1%。
+
+---
+
+### 2026-08-25 03:33:11  #焦點 #國際
+
+美國防長赫格塞思：不排除在霍爾木茲海峽或其他任何地方使用軍事力量。
+
+---
+
+### 2026-08-25 03:32:29  #公司 #國際
+
+美國儲蓄銀行：擬發行股份的數量及發行價格區間尚未確定。
+
+---
+
+### 2026-08-25 03:31:37  #國際
+
+美國儲蓄銀行提交擬議首次公開募股的註冊申請。
+
+---
+
+### 2026-08-25 03:31:24  #公司
+
+訊息人士：亞馬遜發言人表示相關規劃尚處於早期構想階段。
+
+---
+
+### 2026-08-25 03:30:14  #國際
+
+美國防長赫格塞思：（軍隊）不再關注性別相關議題，專注軍事訓練。
+
+---
+
+### 2026-08-25 03:29:34  #公司
+
+訊息人士：亞馬遜自動化倉庫專案預估投資超5.3億美元。
+
+---
+
+### 2026-08-25 03:28:43  #公司
+
+訊息人士：亞馬遜計劃新建自動化倉庫，旨在實現配送站自動化。
+
+---
+
+### 2026-08-25 03:27:33  #其他
+
+委內瑞拉代總統羅德里格斯稱，委內瑞拉與巴貝多簽署包括能源協議在內的多項合作協議。
+
+---
+
+### 2026-08-25 03:26:40  #MKT News
+
+Pakistan Army chief of staff Munir said diplomatic progress must undergo careful discussion and review to advance shared interests and ultimately reach a comprehensive agreement.
+
+---
+
+### 2026-08-25 03:25:39  #MKT News
+
+Pakistan's army chief General Munir said Pakistan will steadfastly continue to act as a facilitator; ending the current crisis could open a new chapter of reconstruction, regional development and cooperative security.
+
+---
+
+### 2026-08-25 03:25:36  #其他
+
+【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。這是美軍南方司令部時隔兩月後再次宣佈對所謂“販毒船”發動打擊。宣告說，根據美軍南方司令部司令弗朗西斯·多諾萬的命令，美軍“西半球聯合特遣部隊”對一艘“在東太平洋既定販毒路線上航行”的船隻實施打擊，“情報顯示該船正積極參與販毒活動”。船上兩名“毒品恐怖分子”被打死。（新華社）
+
+---
+
+### 2026-08-25 03:25:22  #國際
+
+伊朗總統：華盛頓方面必須改變對待德黑蘭的口吻與處事方式，依靠脅迫與霸凌只會讓推進相關程序變得更加複雜。
+
+---
+
+### 2026-08-25 03:24:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Oil prices fall on 24th】By close on the 24th, NYMEX October light sweet crude futures fell $2.05 to $85.01/bbl, down 2.35%. ICE Brent October futures fell $2.22 to $92.17/bbl, down 2.35%.
+
+---
+
+### 2026-08-25 03:24:45  #市場
+
+【國際油價24日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌2.05美元，收於每桶85.01美元，跌幅為2.35%；10月交貨的倫敦布倫特原油期貨價格下跌2.22美元，收於每桶92.17美元，跌幅為2.35%。
+
+---
+
+### 2026-08-25 03:23:48  #MKT News
+
+According to Iran's Press TV, Iran's president said unity among Islamic states is the strongest deterrent to Israeli plots and enemies of Islam and will prevent them from achieving their objectives.
+
+---
+
+### 2026-08-25 03:23:02  #MKT News
+
+Iranian president says lasting regional peace and closer cooperation among Islamic states are essential; Iran is willing to work with Islamic countries and neighboring states on economic, political and security cooperation, Press TV reports.
+
+---
+
+### 2026-08-25 03:21:11  #MKT News
+
+Fars News: Iran's president said the US should change its tone and approach in dealings with Iran, warning reliance on hard pressure and bullying will only complicate implementation.
+
+---
+
+### 2026-08-25 03:18:52  #公司 #市場
+
+拖拉機供應公司成交量大幅放大，股價上漲，最新漲3%。
+
+---
+
+### 2026-08-25 03:17:48  #MKT News
+
+【Dollar index up 0.2% to 99.003 on the 24th】The dollar index, which measures the greenback against six major currencies, rose 0.2% to 99.003 at the New York FX close on the 24th. EUR/USD 1.1663, down from 1.1683; GBP/USD 1.3631, down from 1.3652. USD/JPY 159.19, up from 159.02; USD/CHF 0.8026, up from 0.8008; USD/CAD 1.3850, up from 1.3761; USD/SEK 9.4973, up from 9.4626.
+
+---
+
+### 2026-08-25 03:17:42  #市場
+
+【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.2%，在匯市尾市收於99.003。截至紐約匯市尾市，1歐元兌換1.1663美元，低於前一交易日的1.1683美元；1英鎊兌換1.3631美元，低於前一交易日的1.3652美元。1美元兌換159.19日元，高於前一交易日的159.02日元；1美元兌換0.8026瑞士法郎，高於前一交易日的0.8008瑞士法郎；1美元兌換1.3850加元，高於前一交易日的1.3761加元；1美元兌換9.4973瑞典克朗，高於前一交易日的9.4626瑞典克朗。
+
+---
+
+### 2026-08-25 03:16:59  #MKT News #SPCX.O
+
+SpaceX (SPCX.O): NASA's Roman Space Telescope was loaded into a Falcon Heavy fairing last week and is scheduled to launch Sunday, Aug. 30, from pad 39A in Florida.
+
+---
+
+### 2026-08-25 03:16:27  #市場
+
+Gap股價放量上漲，最新漲3.2%。
+
+---
+
+### 2026-08-25 03:16:08  #國際
+
+美國防長赫格塞思：特朗普在第一任期重建了我們的軍隊。他正於第二任期再度推進軍隊重建工作。
+
+---
+
+### 2026-08-25 03:14:07  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon Web Services launched AWS Glue 6.0, offering faster, more cost-effective data integration; AWS said the upgrade cuts AWS Glue pricing by 30%.
+
+---
+
+### 2026-08-25 03:12:58  #公司
+
+亞馬遜雲科技（AWS）：AWS Glue 6.0版本升級後，其定價降低了30%。
+
+---
+
+### 2026-08-25 03:12:36  #公司
+
+亞馬遜雲科技：推出AWS Glue 6.0，實現更快、更具成本效益的資料整合。
+
+---
+
+### 2026-08-25 03:10:05  #宏觀 #國際
+
+以色列總理內塔尼亞胡稱讚特朗普與貝森特出臺針對伊朗政權的最新制裁。
+
+---
+
+### 2026-08-25 03:07:34  #宏觀 #國際
+
+美國財政部宣佈成立量子就緒特別工作組，助力向量子安全技術過渡。
+
+---
+
+### 2026-08-25 03:07:25  #MKT News
+
+U.S. Treasury announces formation of a quantum technology preparedness working group.
+
+---
+
+### 2026-08-25 03:05:59  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Refinitiv/Ipsos poll shows that as US public support for a war with Iran falls, Trump's approval remains at historic lows.
+
+---
+
+### 2026-08-25 03:05:44  #其他
+
+OpenAI：GPT-5.6模型系列現已在Refinitiv Knowledge.IQ（KIRO）平臺上線。
+
+---
+
+### 2026-08-25 03:05:19  #MKT News #Market Themes #AI Revolution
+
+OpenAI's GPT-5.6 model series is now live on software development platform KIRO.
+
+---
+
+### 2026-08-25 03:04:59  #宏觀 #國際
+
+美國財政部宣佈成立量子就緒特別工作組。
+
+---
+
+### 2026-08-25 03:04:14  #MKT News
+
+Refinitiv/Ipsos poll shows U.S. public support for war with Iran has fallen to 31%, the lowest level since the conflict began.
+
+---
+
+### 2026-08-25 03:04:09  #國際
+
+路透社/益普索調查發現，特朗普支援率維持在33%，持平其總統任期最低水平。
+
+---
+
+### 2026-08-25 03:04:05  #國際
+
+路透社與益普索聯合開展的民調顯示，美國民眾對伊朗戰爭的支援率已降至31%，為衝突爆發初期以來的最低水平。
+
+---
+
+### 2026-08-25 03:02:31  #國際
+
+伊朗經濟部長阿里·馬達尼扎德：我們已為美國製裁做好充分準備，他們（美國）無法切斷我們的金融命脈。
+
+---
+
+### 2026-08-25 03:01:46  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.57% at 25,599, trading 82 points premium to the cash index.
+
+---
+
+### 2026-08-25 03:00:04  #Trading Economics #Economy #Chile #Government Bond 10Y #Importance 0
+
+Chile 10Y Bond Yield Hits 14-month High — Chile 10 Year Government Bond Yield increased to 5.75%, the highest since June 2025. Over the past 4 weeks, Chile 10Y Bond Yield gained 6.50 basis points, and in the last 12 months, it increased 14.50 basis points.
+
+---
+
+### 2026-08-25 03:00:02  #市場
+
+恒指期貨夜盤收漲0.63%，報25547.92點，高水30.59點。
+
+---
+
+### 2026-08-25 02:57:08  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Eases as Oil Prices Fall, but Remains Elevated — The yield on the 10-year US Treasury note eased to 4.7% on Monday, tracking lower crude prices, but remained close to the 20-month high of 4.75% reached in the previous session. Persistent concerns over wider fiscal deficits and heavy corporate debt issuance continued to put upward pressure on long-term yields. The US Treasury said it would double liquidity-support buyback operations for longer-dated bonds. CNBC reported that Treasury Secretary Scott Bessent could use nearly $1 trillion from the Treasury’s General Account to help fund the buybacks rather than issue short-term bills, raising concerns over further dollar weakness. On the geopolitical front, the US expanded secondary sanctions targeting entities and countries maintaining business ties with Iran. Bessent warned that a major financial institution could face sanctions this week and suggested China would not be exempt.
+
+---
+
+### 2026-08-25 02:55:46  #國際
+
+Mistral 與 Humain 宣佈開展戰略合作，助力沙烏地阿拉伯及中東地區發展主權人工智慧。
+
+---
+
+### 2026-08-25 02:54:01  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Holds Near Three-Month Low as Risks Persist — The dollar index edged up to 99.0 on Monday but remained near three-month lows after its third weekly decline in four. The greenback stayed under pressure following the US Treasury’s decision to double buyback operations for longer-dated bonds, with reports suggesting Secretary Scott Bessent could use nearly $1 trillion from the Treasury’s General Account to help fund them. Meanwhile, trade tensions with Canada intensified after Washington imposed 50% tariffs on Canadian goods, with Ottawa pledging dollar-for-dollar retaliation. President Donald Trump also said tariffs on cars, trucks, auto parts and steel would rise to 50% from January 1, 2027. On the geopolitical front, the US expanded secondary sanctions targeting entities and countries maintaining business ties with Iran. Bessent warned that a major financial institution could be sanctioned this week and suggested China would not be exempt.
 
 ---
 
@@ -18009,149 +18309,5 @@ Ping An Insurance earnings below expectations at 3.47 CNY — Ping An Insurance 
 ### 2026-08-23 10:17:09  #國際
 
 【海軍航空大學將舉辦“未來·海軍國際學員領導力淬鋒營”活動】8月23日至29日，海軍航空大學將在山東煙臺舉辦“未來·海軍國際學員領導力淬鋒營”活動。此次活動以“揚帆·逐浪·超越”為主題，邀請巴基斯坦、印度尼西亞、新加坡、越南等國海軍院校學員同中國海軍院校學員開展領導力課目訓練和研討交流等活動。各國海軍青年軍官學員將透過為期一週的互動式、融入式學習訓練，不斷促進中外海軍友好往來，推動各國海軍院校教育經驗學習互鑑。（國防部發布）
-
----
-
-### 2026-08-23 10:01:44  #其他
-
-【第48屆世界技能大賽中國代表團成立】經人力資源社會保障部批准，第48屆世界技能大賽中國代表團近日正式成立。記者瞭解到，中國代表團共220人，其中包括71名參賽選手，將參加全部64個專案的比賽。參賽選手來自全國21個省份，其中學生49名、職工22名。選手平均年齡21歲，年齡最小的18歲，最大的25歲。我國自2010年加入世界技能組織以來，已參加7屆世界技能大賽，累計獲得93枚金牌、41枚銀牌、28枚銅牌和71個優勝獎，連續4屆位居金牌榜、團體總分世界第一。第48屆世界技能大賽將於今年9月22日至27日在上海舉辦。本屆世界技能大賽是我國第8次組團參賽，也是我國第3次參加全部比賽專案。（新華社）
-
----
-
-### 2026-08-23 10:01:24  #國際
-
-【日本民間團體舉行集會 抗議日本政府危險行徑】日本多個民間團體定於23日在東京、茨城、山形、山口等多地舉行集會，抗議日本政府近期危險行徑，呼籲捍衛和平憲法，反對戰爭。（央視新聞）
-
----
-
-### 2026-08-23 10:00:38  #其他
-
-【哈薩克一院制議會“庫魯爾泰”舉行首屆議員選舉】當地時間23日7時（北京時間10時），哈薩克一院制議會“庫魯爾泰”首屆議員選舉開始舉行。據哈中央選舉委員會公佈的訊息，此次選舉共設有10423個境內和境外投票站，註冊選民約1260萬人。投票將於當地時間23日20時結束。（央視新聞）
-
----
-
-### 2026-08-23 09:55:01  #其他
-
-【浙江省釋出地質災害橙色預警】浙江省自然資源廳、浙江省氣象局2026年08月23日08時21分聯合更新發布地質災害氣象風險橙色預警：08月23日08時至08月24日08時，溫州市（平陽縣、蒼南縣、龍港市）、台州市（玉環市）等2市4縣部分地區地質災害氣象風險高（橙色預警）；溫州市（鹿城區、龍灣區、甌海區、永嘉縣、文成縣、泰順縣、瑞安市、樂清市）、台州市（三門縣、溫嶺市）、麗水市（景寧畲族自治縣）等3市11縣部分地區地質災害氣象風險較高（黃色預警）。
-
----
-
-### 2026-08-23 09:50:27  #公司
-
-市場訊息：Spotify 執行長埃克表示，Neko Health 正與腦機介面公司 Neuralink 開展合作。 Neko 將協助篩選 Neuralink 下一輪試驗的候選受試者。
-
----
-
-### 2026-08-23 09:41:07  #公司
-
-【蔚來李斌：中國汽車行業正在進入四個新階段】8月22日，2026中國首席經濟學家復旦管院科創論壇上，蔚來創始人、董事長、CEO李斌表示，今年對於新能源汽車是非常重要的一年，整體競爭非常激烈，中國汽車行業正在進入四個新階段：最殘酷決賽階段，純電滲透率加速爬升階段，從品牌混沌期進入品牌澄清期，從單點競爭進入體系競爭階段。李斌判斷，一家車企到底能不能跟上？會不會被甩下？最近兩年會是非常重要的一個時期。
-
----
-
-### 2026-08-23 09:40:31  #其他
-
-白宮稱特普賬戶投資於 “基於計算機的模型投資組合”，用以複製各類股票指數。
-
----
-
-### 2026-08-23 09:38:35  #公司
-
-東方證券給予安克創新科技股份有限公司A股買進的初始評級。
-
----
-
-### 2026-08-23 09:35:34  #公司 #國際
-
-【亞太各界在大連共議電動汽車充電標準協同】近日，在遼寧大連，來自多個APEC經濟體的政府、企業和技術機構代表展開討論：如何透過標準協同，讓電動汽車在不同市場“充得上、充得快、充得安心”。據國際能源署統計，2025年全球電動汽車銷量超過2000萬輛，同比增長20%，約佔新車銷量的四分之一。市場擴張最快的中國為標準完善提供了大規模應用場景。中國國家能源局資料顯示，截至2026年6月底，中國電動汽車充電基礎設施達到2305.7萬個。 電動汽車充電已不再是車輛與電源之間的簡單連線，而是由車輛、充換電裝置、通訊協議、支付服務和電網共同構成的生態系統。任何一個環節不暢通，都可能增加使用者等待和企業成本。 “中國已形成覆蓋充電介面、通訊協議、安全執行和能效管理等環節的技術標準體系。”中國汽車技術研究中心有限公司首席專家郝維健說。與會代表認為，不同市場的介面、測試認證和資料規則各不相同，企業可能面臨重複測試、重複提交檔案等問題；一些地區還受電網容量、土地供給和城鄉佈局差異制約。“標準化應堅持開放、包容和實踐導向，重點增進安全性、可靠性與互操作性。”日本本田技研工業株式會社質量創新運營中心總工程師穀道典說。標準也在重新定義汽車與電網的關係。香港生產力促進局代表莫天德介紹，車網互動技術可使電動汽車從單純的用電裝置轉變為分散式儲能資源，在可再生能源充裕時吸收電力、在用電高峰時反向送電。 通用汽車泛亞汽車技術中心總裁埃爾比·克雷預設為，可預期、清晰和透明的政策與標準，有助於企業作出長期投資、增強消費者信任。 與會人士建議，各經濟體可從統一或銜接測試方法、樣品要求和報告格式做起，加強資訊共享和合格評定結果互認；同時更多利用現有國際標準，推進充電漫遊、支付、網路安全和資料治理合作。此次有關電動汽車充電標準協同的研討會是2026年APEC第三次高官會及相關會議之一。8月17日至28日，APEC的21個成員經濟體在大連圍繞貿易、創新、能源、交通等議題舉行近130場會議活動。（新華社）
-
----
-
-### 2026-08-23 09:32:05  #其他
-
-【北京市釋出雷電黃色預警】8月23日9時30分，北京市釋出雷電黃色預警：預計，8月23日下午至夜間，我市自西向東將有雷陣雨天氣，局地短時雨強較大，並伴有6級左右陣風，請注意防範。
-
----
-
-### 2026-08-23 09:28:36  #其他
-
-【左江發生2026年第1號洪水】據中國水利，受今年第19號颱風“紫檀”帶來的降雨影響，廣西鬱江支流左江崇左水文站（廣西崇左）8月23日6時50分水位漲至警戒水位（101.20米），相應流量6720立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“左江2026年第1號洪水”。
-
----
-
-### 2026-08-23 09:20:00  #其他
-
-【坦尚尼亞最大水電專案正式啟用】22日，坦尚尼亞朱利葉斯·尼雷爾水電站舉行正式啟用儀式。坦尚尼亞總統哈桑出席儀式併為專案剪綵。朱利葉斯·尼雷爾水電站位於坦尚尼亞魯菲吉河，專案總投資約33.5億美元，總裝機容量2115兆瓦，是坦尚尼亞國內最大的水電專案。由中國企業提供的裝置及施工技術在水電站建設中發揮了重要作用。該水電站正式啟用後，將為坦尚尼亞全國提供近一半的電力供應，使平均電價降低約30%；坦尚尼亞還將具備向國外出口電力的能力。（央視新聞）
-
----
-
-### 2026-08-23 09:18:49  #其他
-
-【安徽：支援文旅企業利用ABS、REITs、機構間REITs等方式盤活存量資產】據安徽日報，近日，安徽省在金融支援文旅產業方面再出實招。省地方金融管理局、省文化和旅遊廳聯合印發《金融支援文化旅遊業發展若干措施》，推出15條舉措，加快構建與文化旅遊業發展相適應的金融服務體系，助力將文化旅遊業打造成為支柱產業。若干措施明確支援文旅企業上市掛牌、再融資和併購重組；鼓勵透過融資租賃更新裝置，對符合條件的文旅裝備融資租賃業務給予貼息；支援文旅企業利用ABS、REITs、機構間REITs等方式盤活存量資產。此外，金融生態最佳化同步推進。提升文旅消費金融服務水平，完善文旅場景支付設施建設。
-
----
-
-### 2026-08-23 09:16:53  #其他
-
-【安徽：針對文旅龍頭企業、“鏈主”企業、中小微企業，分層構建金融服務體系】據安徽日報，近日，安徽省在金融支援文旅產業方面再出實招。省地方金融管理局、省文化和旅遊廳聯合印發《金融支援文化旅遊業發展若干措施》，推出15條舉措，加快構建與文化旅遊業發展相適應的金融服務體系，助力將文化旅遊業打造成為支柱產業。在支援體系設計上，若干措施堅持以企業為主體、以產業為核心。針對文旅龍頭企業、“鏈主”企業、中小微企業，分層構建金融服務體系。運用結構性貨幣政策工具，設立“共同成長計劃”文旅專項，引導金融機構加大支援力度。支援有條件的市開展文旅產業鏈金融試點，鼓勵打造文旅特色支行。緊扣全省文旅產業佈局，強化對“文旅+百業”“百業+文旅”、文旅品牌打造、科文旅融合、中醫藥康養等重點領域的金融支援。
-
----
-
-### 2026-08-23 09:16:50  #其他
-
-【安徽15條金融措施支援文旅業發展】據安徽日報，近日，安徽省在金融支援文旅產業方面再出實招。省地方金融管理局、省文化和旅遊廳聯合印發《金融支援文化旅遊業發展若干措施》，推出15條舉措，加快構建與文化旅遊業發展相適應的金融服務體系，助力將文化旅遊業打造成為支柱產業。其中，“皖旅貸”針對景區、文創、康養等各類文旅企業設立專項信貸產品，支援企業經營週轉和專案建設，符合條件的企業可享受財政貼息支援；“皖旅債”支援文旅企業發行各類債券融資產品，引導專業中介機構開展發債培訓、投資者對接等服務；“皖旅保”鼓勵有條件的市推行政府購買旅遊救助保險、給予文旅企業保費補貼；“皖旅擔”推動政府性融資擔保機構開發文旅擔保產品，符合條件的擔保貸款納入現代服務業專項擔保計劃；“皖旅投”爭取國家級文化產業投資基金在皖參股設立子基金，招引優質PE、VC機構賦能產業發展。
-
----
-
-### 2026-08-23 09:07:07  #其他
-
-【富加鎵業6英寸氧化鎵晶錠等徑厚度逾70mm】據富加鎵業訊息，近日，富加鎵業採用自主垂直布里奇曼法（VB法）成功生長出厚度超70mm的6英寸氧化鎵單晶晶錠，經平湖實驗室HRXRD檢測，結晶質量優異；同時經中國計量科學研究院檢測，電學效能可滿足碳化矽行業對襯底的要求。晶錠厚度是衡量單晶生長技術成熟度與產業化程度的關鍵指標，更厚的晶錠意味著單根晶體可切割出更多襯底片，直接降低單片成本。
-
----
-
-### 2026-08-23 09:06:22  #國際
-
-【推動“通緝”以總理 土耳其為何與以色列交惡】土耳其司法部長阿金·居爾萊克21日說，作為對以色列武裝干預向巴勒斯坦加沙地帶運送人道主義援助物資船隊的司法程式的一部分，土耳其政府正推動國際刑警組織針對以色列總理內塔尼亞胡等人釋出紅色通緝令。有分析認為，土耳其這一舉動是近年來兩國關係裂痕不斷擴大的一個縮影。其直接導火索是本月18日以色列空襲敘利亞阿布祖胡爾空軍基地一事，但土以關係的惡化預計將更多停留在外交和輿論層面。（央視新聞）
-
----
-
-### 2026-08-23 09:00:22  #市場
-
-【洋河夢之藍M6+、古井貢古20創30天最高價 習酒君品、青花郎持續大跌】新浪財經“酒價內參”過去24小時收集的資料顯示，8月23日中國白酒業11大單品四漲七跌，盤面分化特徵尤為突出。上漲方面，五糧液普五八代上漲7元，終端零售均價來到810元，前期回撥後價格中樞步入波浪抬升；洋河夢之藍M6+小漲1元至619元，三連陽創下近30天新高；古井貢古20上漲5元至553元，三連漲亦創下近一個月最高紀錄；水晶劍南春上漲1元至407元，小步抬升也來到月高點。下跌方面，飛天茅臺下跌3元至1780元，延續技術性回落；精品茅臺下跌5元至2465元，多日下行自高點持續回探；五糧液1618下跌4元至822元，M型回撥跌至近期區間低點；青花汾20下跌3元至394元，進入高位休整區間；國窖1573下跌2元至879元，短暫衝高後再度回落，震盪幅度縮減；習酒君品大跌7元至628元，四連陰回撥，價格創下近30天新低；青花郎大跌7元至685元，連續四天急速下行，創下本月最低價。今日11大單品的終端零售總價明顯走弱，僅少數頭部次高階酒品維持漲勢，多數酒品出現不同程度回撥，整體盤面承壓。如果11大單品各取一瓶整體打包售賣，今日總售價為10042元，較昨日下跌17元，創出10天以來總價新低。
-
----
-
-### 2026-08-23 08:56:39  #國際
-
-市場訊息：墨西哥錫那羅亞州州長因被美國指控，在重返崗位引發批評後再次請求離職。
-
----
-
-### 2026-08-23 08:54:13  #國際
-
-市場訊息：智利外交部發表宣告稱，智利將於 8 月 31 日關閉駐伊朗大使館，但不會斷絕兩國外交關係。該部門表示，此項決定也是出於中東地區安全域性勢的 “預防性” 考量。
-
----
-
-### 2026-08-23 08:53:26  #公司
-
-【光谷“梧桐樹計劃”17個專案集中籤約 總投資60多億元】據湖北日報，8月22日，光谷“梧桐樹計劃”17個專案集中籤約，總投資60多億元。翻開名單，中國積體電路產業鏈的頭部企業幾乎全部在列：中微公司、中科飛測、微導奈米、臻寶科技……從光刻到刻蝕，從沉積到拋光，從裝置到零部件，從量檢測到設計，全鏈條集齊。這不是一次普通的招商簽約，這是中國積體電路產業一場生態級的集結。
-
----
-
-### 2026-08-23 08:30:44  #國際
-
-伊朗最高國家安全委員會秘書：德黑蘭不會屈服於美國的經濟壓力，在華盛頓履行自身承諾之前，霍爾木茲海峽將保持關閉。
-
----
-
-### 2026-08-23 08:15:21  #其他
-
-【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，8月24日至28日，每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-08-23 08:11:10  #其他
-
-【受颱風“紫檀”影響 國鐵廣州區域性分列車停運】受今年第19號颱風“紫檀”和西南季風共同影響，廣東局地有大暴雨到特大暴雨。為確保旅客列車執行安全，國鐵廣州局動態調整旅客列車開行方案。預計今天（23日）20時至明天8時，甬廣高鐵部分列車停運；明天8時至25日2時，海南高鐵西環段部分列車停運。由於天氣原因，部分列車可能出現晚點情況。鐵路部門將持續根據颱風影響範圍和降雨情況，動態調整列車執行方案。（央視新聞）
 
 ---

@@ -1,7 +1,278 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-30 08:03:11_
-_本檔包含 2654 則快訊，約 556801 字_
+_更新時間：2026-08-30 10:10:00_
+_本檔包含 2620 則快訊，約 557735 字_
+
+---
+
+### 2026-08-26 17:51:01  #其他
+
+【颱風“沙德爾”將在浙江象山到福建連江沿海登陸 江南華南及雲貴有強降雨】據中央氣象臺訊息，今年第18號颱風“沙德爾”的中心今天（8月26日）16時位於浙閩交界東偏北方向約600公里的東海海面上，中心附近最大風力14級（42米/秒，強颱風級）。預計，“沙德爾”將以每小時15公里左右的速度移動，強度變化不大，逐漸向浙閩沿海靠近，將於27日夜間至28日上午在浙江象山到福建連江一帶沿海登陸（35～42米/秒，12～14級，颱風級或強颱風級）。登陸後將繼續向西偏南方向深入內陸，強度逐漸減弱。27日至30日將先後影響浙江、福建、江西、湖南、廣東、廣西、貴州、雲南等地，中央氣象臺26日繼續釋出颱風橙色預警。（央視新聞）
+
+---
+
+### 2026-08-26 17:50:54  #MKT News #00100.HK #Impact mixed
+
+MINIMAX-W (00100.HK) reported 1H net loss attributable to owners of the parent of $358m, versus a $402m loss a year earlier.
+
+---
+
+### 2026-08-26 17:50:33  #國際
+
+【普京與敘過渡政府總統通話 討論雙邊關係等問題】當地時間26日，俄羅斯克里姆林宮釋出訊息稱，俄總統普京與敘利亞過渡政府總統艾哈邁德·沙拉通話，雙方討論了俄敘關係現狀和發展前景。普京重申了支援敘利亞統一、領土完整和主權的原則性立場。雙方指出，此前簽署的關於重組赫梅米姆空軍基地和塔爾圖斯海軍基地的諒解備忘錄具有重要意義。赫梅米姆空軍基地和塔爾圖斯海軍基地均位於敘利亞西部沿海，兩處基地曾經共同構成俄羅斯在中東和地中海地區的海空協同體系。8月9日，敘利亞過渡政府外交部發布訊息稱，兩國已就這兩處軍事基地的未來管理達成諒解備忘錄。（央視新聞）
+
+---
+
+### 2026-08-26 17:50:24  #MKT News
+
+Volkswagen CEO Blume said the company's cost-cutting journey is not over.
+
+---
+
+### 2026-08-26 17:50:05  #其他
+
+大眾汽車：若埃姆登工廠不再安排新生產，將為其尋找合作伙伴與投資方。
+
+---
+
+### 2026-08-26 17:50:04  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+UK August CBI retail sales balance due in 10 minutes.
+
+---
+
+### 2026-08-26 17:50:00  #公司
+
+【一超之上 再啟新局，伊利從規模引領邁向價值深耕】8月26日，伊利股份（600887.SH）釋出2026年中報。上半年，公司實現營業總收入644.9億元，同比增長4.13%；核心經營利潤83.8億元，同比增長10%；營收、核心經營利潤高位雙增，穩居亞洲乳業第一。同期，公司液體乳、奶粉及奶製品、冷飲全線業務全面增長，均穩居行業第一。
+乳業“一超”的領先，早已超越規模本身，更是以價值為核心，以經營質量、均衡業務結構、創新能力和前瞻佈局為支撐的體系性領先。正是這種更高維度的領先，讓伊利能夠始終圍繞消費者健康需求，以戰略前瞻開啟長期空間，以戰略定力推動目標兌現，以龍頭韌性與擔當引領行業穿越週期。
+一超之上，再啟新局。錨定乳品深加工、精準營養等戰略業務，伊利正以行業領導者的先見先行，推動產業鏈向更高價值躍遷，實現從規模引領到價值深耕的戰略躍遷。
+公司以功能營養為核心發展方向，持續推動成人奶粉及功能保健食品的功效研發、應用及產品儲備。公司全面佈局控糖、骨骼、心臟、免疫等功能賽道及羊奶粉、駝奶粉等細分功能產品，覆蓋消費者多元營養健康需求。
+上半年，“欣活”骨能系列奶粉表現亮眼，帶動品牌實現雙位數增長；“倍暢”品牌推出益生菌富硒高鈣羊奶粉，帶動品牌實現20%以上增長。尼爾森與星圖資料綜合顯示，伊利成人奶粉業務市場份額提升至26.8%，持續位居行業第一。
+報告期，在不斷滿足消費者需求的努力中，公司的功能保健品業務也已經蔚然成型。上半年，“伊利健康科學”面向代謝健康營養需求人群上市纖控益生菌凍乾粉，採用K56專利菌株作為核心原料，含有1000億活性益生菌，並復配多種植物成分，帶動功能保健食品業務翻倍增長。
+乳深加工是精準功能性營養髮展的重要依託，亦是撬動中國乳業轉型升級的關鍵支點。伊利也早已對乳深加工領域作出戰略性佈局。公司現代智慧健康谷5G乳酪全球智造標杆基地，日處理鮮牛奶600噸，涵蓋稀奶油、多種乳酪及乳鐵蛋白粉等生產線。
+上半年，隨著乳深加工工藝的突破和系列專案產線的落地投產，伊利在高價值乳品原料領域的佈局進一步深化，極大提升公司營養品供應鏈的自主權，科學營養和專業餐飲業務的發展也將得到有效支援。伊利營養價值創造“功力倍增”，一片新藍海，正徐徐展開。
+
+---
+
+### 2026-08-26 17:49:56  #公司
+
+【廈門空港：2026年上半年淨利潤2.5億元，同比下降10.79%】廈門空港公告，2026年上半年營業收入12.49億元，同比下降3.75%；歸屬於上市公司股東的淨利潤2.5億元，同比下降10.79%，2025年同期2.8億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.1億元，同比下降6.58%。本報告未經審計。
+
+---
+
+### 2026-08-26 17:49:34  #公司
+
+【中成股份：2026年上半年淨利潤1876.22萬元，同比扭虧為盈】中成股份公告，2026年上半年營業收入8.3億元，同比增長52.09%；歸屬於上市公司股東的淨利潤1876.22萬元，2025年同期虧損5059.45萬元，同比扭虧為盈；扣除非經常性損益的淨利潤418.51萬元，2025年同期虧損5416.7萬元，同比扭虧為盈。公司發行股份購買資產涉及的新增股份1353.56萬股已於2026年3月24日上市，總股本增加至3.51億股。
+
+---
+
+### 2026-08-26 17:49:29  #公司
+
+大眾汽車執行長布魯姆：歸根結底，競爭力將是決定性因素。
+
+---
+
+### 2026-08-26 17:49:11  #公司
+
+大眾汽車執行長布魯姆：計劃裁減四分之一的管理崗位。
+
+---
+
+### 2026-08-26 17:48:59  #其他
+
+MiniMax：持續強化開放平臺。
+
+---
+
+### 2026-08-26 17:48:49  #MKT News #Commodities #Energy
+
+Iran's energy minister said four power plants attacked in the early stages of the war have been rebuilt.
+
+---
+
+### 2026-08-26 17:48:44  #其他
+
+MiniMax：目標打造能力持續迭代增強的智慧體系。
+
+---
+
+### 2026-08-26 17:48:30  #公司
+
+【海螺水泥：2026年上半年淨利潤25.27億元，同比下降42.76%】海螺水泥公告，2026年上半年營業收入369.27億元，同比下降10.88%；歸屬於上市公司股東的淨利潤25.27億元，同比下降42.76%，2025年同期為44.14億元；扣除非經常性損益後的淨利潤19.02億元，同比下降54.69%。公司擬每股派發現金紅利0.13元人民幣（含稅）。
+
+---
+
+### 2026-08-26 17:48:22  #其他
+
+MiniMax：將推進語言及多模態模型產品佈局。
+
+---
+
+### 2026-08-26 17:48:15  #Trading Economics #Economy #Iceland #Producer Prices Change #Importance 1
+
+Iceland Producer Inflation Eases from 4-Year High — Iceland’s producer prices rose by 18.6% year-on-year in July 2026, slowing from a four-year high of 19.4% in the previous month. Price growth eased for metal products (38.9% vs 45.3% in June), food production (3.6% vs 3.9%), products sold domestically (2.0% vs 2.3%), exported products (26.9% vs 27.9%), and exported products excluding marine products (29.8% vs 32.0%). Meanwhile, costs increased at a faster pace for marine products, climbing to 22.5% from 21.9% in June, as well as for other manufacturing industries, jumping to 6.1% from 4.1%. On a monthly basis, producer prices fell 0.5% in July 2026, reversing a 1.6% gain in the previous month and marking the first decline since June 2025, as well as the lowest monthly reading since then.
+
+---
+
+### 2026-08-26 17:48:08  #MKT News #VOW3.DE #Impact mixed
+
+Volkswagen CEO Oliver Blume said the company aims to determine sustainable prospects for all production sites within 6–12 months, that competitiveness will be decisive, and it plans to cut 25% of management positions.
+
+---
+
+### 2026-08-26 17:48:02  #MKT News #00100.HK #Impact bullish
+
+MINIMAX-W (00100.HK) reported 1H R&D spending rose 138.8% YoY, markedly below 1H revenue growth of 283.1%.
+
+---
+
+### 2026-08-26 17:47:18  #公司
+
+【天能重工：2026年8月26日王浩宇辭去副總經理職務】天能重工公告，公司董事會近日收到副總經理王浩宇因工作調整遞交的書面辭職報告，辭職後不再在公司及子公司擔任任何職務。其辭職申請自送達董事會之日起生效，已完成工作交接，不會影響公司日常經營活動的有序進行。
+
+---
+
+### 2026-08-26 17:46:51  #公司
+
+【*ST長投：2026年上半年營收1.52億元 淨虧損857.77萬元】*ST長投公告稱，2026年上半年實現營業收入1.52億元，同比增長34.65%；歸屬於上市公司股東的淨虧損857.77萬元，上年同期淨虧損642.63萬元；歸屬於上市公司股東的扣除非經常性損益的淨虧損1274.37萬元。報告期內，公司完成以2218.50萬元收購和合公司51%股權暨關聯交易事項，拓展園區服務業務佈局。
+
+---
+
+### 2026-08-26 17:46:39  #公司
+
+【桂林旅遊：2026年上半年營收2.01億元 淨利同比降23.36%】桂林旅遊公告稱，2026年上半年實現營業收入2.01億元，同比增長2.17%；歸屬於上市公司股東的淨利潤613.69萬元，同比下降23.36%；歸屬於上市公司股東的扣除非經常性損益的淨虧損1094.35萬元，同比收窄32.02%。基本每股收益0.013元，同比下降23.53%。報告期內不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-26 17:46:38  #MKT News #VOW3.DE
+
+Volkswagen CEO Oliver Blume said this does not mean a decision has been made to close the plant.
+
+---
+
+### 2026-08-26 17:46:32  #公司
+
+【萬邦達：2026年上半年營收13.46億元 淨利同比增66.43%】萬邦達公告稱，2026年上半年實現營業收入13.46億元，同比增長13.45%；歸屬於上市公司股東的淨利潤3745.51萬元，同比增長66.43%；扣非淨利潤3208.84萬元，同比增長105.44%。公司不派發現金紅利，不送紅股，不以公積金轉增股本。2026年5月公司完成工商變更，中文名稱變更為北京萬邦達新材料集團股份有限公司，證券簡稱保持不變。
+
+---
+
+### 2026-08-26 17:46:27  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says it carried out multiple 'preemptive actions' and has replenished military capabilities】Iranian military spokesperson Mohammad Akraminia said Tehran has upgraded its military capabilities and accelerated reconstruction of infrastructure damaged in the war. To deter possible further US strikes, Iran plans to shift its posture from defense to offense. He said Iran carried out several 'preemptive actions' in the war's final phase and that an attack on a US military base in Jordan helped deter further US attacks. Akraminia said the government will offer cash rewards to anyone who captures US soldiers entering Iranian territory. He added Iran has made significant progress rebuilding wartime-damaged infrastructure and has acquired new military equipment. On the Strait of Hormuz, he said vessels will be monitored before arrival and will be allowed to pass only with Iranian permission.
+
+---
+
+### 2026-08-26 17:46:26  #公司
+
+【歡樂家：控股子公司設立全資子公司完成工商註冊】歡樂家公告稱，公司控股子公司廣東歡樂家新能源有限公司出資3000萬元設立全資子公司雲南歡樂家新能源有限公司，用於保障椰殼預碳化料、椰殼基硬碳負極材料專案有效實施。該事項在總經理審批許可權範圍內，無需提交董事會和股東會審議，不構成關聯交易及重大資產重組。近日雲南歡樂家已完成工商註冊登記，註冊資本3000萬元，由廣東歡樂家100%持股，法定代表人為程松。
+
+---
+
+### 2026-08-26 17:46:14  #公司
+
+【富淼科技：2026年上半年淨利潤965.11萬元，同比下降52.96%】富淼科技公告，2026年上半年營業收入7.13億元，同比下降1.16%；歸屬於上市公司股東的淨利潤965.11萬元，同比下降52.96%，2025年同期為2051.53萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤570.65萬元，同比下降61.48%。
+
+---
+
+### 2026-08-26 17:46:05  #公司
+
+大眾汽車執行長布魯姆：我們的目標是在未來6至12個月內為所有生產基地確立可行的發展前景。
+
+---
+
+### 2026-08-26 17:46:04  #MKT News #VOW3.DE #Impact bearish
+
+Volkswagen CEO Oliver Blume said labor costs are currently more than twice those at comparable European plants.
+
+---
+
+### 2026-08-26 17:45:18  #公司 #焦點
+
+【MINIMAX：上半年收入為1.17億美元，同比增長283.1%】MINIMAX-W(00100.HK)在港交所公告，2026年上半年收入為1.17億美元，同比增長283.1%；期內虧損3.58億美元，同比下降11%；毛利2081.3萬美元，同比增長464.8%。
+
+---
+
+### 2026-08-26 17:44:53  #公司
+
+【無錫銀行：2026年上半年淨利潤14.18億元，同比增長2.84%】無錫銀行公告，2026年上半年營業收入27.25億元，同比增長3.01%；歸屬於上市公司股東的淨利潤14.18億元，同比增長2.84%，2025年同期為13.79億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤14.2億元，同比增長3.08%。妥妥的核心資料，未審計。
+
+---
+
+### 2026-08-26 17:44:28  #市場
+
+【江蘇：鼓勵生物醫藥企業圍繞新產品研發、新技術應用、新業務佈局等積極增資擴產】江蘇省印發《江蘇省促進生物醫藥產業高質量發展三年行動計劃》。其中指出，支援優質企業增資擴產。鼓勵生物醫藥企業圍繞新產品研發、新技術應用、新業務佈局等積極增資擴產。用足用好省增資擴產戰新產業基金、製造業貸款財政貼息等政策，支援生物醫藥企業在省內開展增資擴產，積極推薦符合條件的增資擴產專案申報超長期特別國債、技術改造再貸款支援。對列入省重大專案清單的生物醫藥產業專案加強排程服務，推動早開工、早建設，加快達產達效。
+
+---
+
+### 2026-08-26 17:44:18  #公司 #國際
+
+大眾汽車執行長布魯姆：目前，勞動力成本是歐洲同類工廠的兩倍多。
+
+---
+
+### 2026-08-26 17:44:10  #公司
+
+【夢天家居：2026年上半年淨利潤3147.65萬元，同比下降10.67%】夢天家居公告，2026年上半年營業收入4.46億元，同比下降7.93%；歸屬於上市公司股東的淨利潤3147.65萬元，同比下降10.67%，2025年同期為3523.49萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤418.71萬元，同比下降79.75%。
+
+---
+
+### 2026-08-26 17:44:07  #公司
+
+【五芳齋：2026年上半年淨利潤2億元，同比增長2.85%】五芳齋公告，2026年上半年營業收入14.74億元，同比下降7.37%；歸屬於上市公司股東的淨利潤2億元，同比增長2.85%；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.95億元，同比增長3.30%。
+
+---
+
+### 2026-08-26 17:44:03  #其他
+
+【江蘇：發揮省戰新母基金引導作用，支援生物醫藥產業專項母基金直投創新藥械專案】江蘇省印發《江蘇省促進生物醫藥產業高質量發展三年行動計劃》。其中指出，加大金融支援力度。發揮省戰新母基金引導作用，支援生物醫藥產業專項母基金直投創新藥械專案，探索建立省、市、縣（市、區）三級產業基金聯動跟投機制。持續擴大蘇科貸、專精特新貸等科技金融產品規模，支援合作銀行發放低息信用貸款。指導銀行機構優先將優質企業納入跨境貿易高水平開放試點，最佳化跨境金融服務。發揮政府性融資擔保作用，對於符合國家支援科技創新專項擔保計劃條件的中小微科創企業給予政策支援。支援符合條件的生物醫藥產業園運營企業發行不動產投資信託基金、不動產信託資產支援票據。
+
+---
+
+### 2026-08-26 17:43:45  #宏觀 #公司
+
+【西安：鼓勵居民“賣舊買新”改善住房條件】8月26日，西安市住建局網站釋出《西安市住房和城鄉建設局等4部門關於印發西安市支援房地產市場高質量發展工作措施的通知》。其中提到，鼓勵居民“賣舊買新”改善住房條件。持續落實《關於延續實施支援居民換購住房有關個人所得稅政策的公告》（財政部、稅務總局、住房城鄉建設部公告2026年第3號）“自2026年1月1日至2027年12月31日，對出售自有住房並在現住房出售後1年內在市場重新購買住房的納稅人，對其出售現住房已繳納的個人所得稅予以退稅優惠”的退稅政策，開通退稅申請綠色通道，便捷群眾退稅，切實提升退稅政策知曉率和兌現率。在此基礎上，安排5000萬元專項補貼資金，持續支援居民“賣舊買新”。在政策釋出之日至2026年12月31日期間，在本市購買新建商品住房並完成網籤備案，且在網籤備案時間前1年內出售本市二手住房的，可申請所購新建商品住房總價的1%專項補貼資金，單套最高不超過2萬元，補貼資金先申請先補貼，用完即止。
+
+---
+
+### 2026-08-26 17:43:42  #其他
+
+【力箭系列運載火箭迎兩個“首次”】力箭系列運載火箭近日迎來兩個“首次”：力箭一號完成海上發射箭地聯合演練，首次海上發射進入倒計時；力箭二號遙二運載火箭順利出廠，將首次執行低軌星座規模化組網發射任務。（央視新聞）
+
+---
+
+### 2026-08-26 17:43:41  #其他
+
+【江蘇：推動相關縣（市、區）聚焦創新藥和高階醫療器械等產業，建立“N個1”培育機制，因地制宜發展特色優勢產業】江蘇省印發《江蘇省促進生物醫藥產業高質量發展三年行動計劃》。其中指出，發展縣域特色優勢產業。推動相關縣（市、區）聚焦創新藥和高階醫療器械等產業，建立“N個1”培育機制，因地制宜發展特色優勢產業。指導南京、無錫、常州、蘇州、南通、連雲港、泰州等生物醫藥產業重點承載區打造一批特色鮮明的產業集聚區和中小企業特色產業叢集。推動蘇州生物醫藥和高階醫療器械叢集、泰連錫生物醫藥叢集等2個國家先進製造業叢集對標國際先進，集聚創新資源，深化產業協作，完善叢集生態，進一步提升核心競爭力。
+
+---
+
+### 2026-08-26 17:43:39  #公司
+
+【健之佳：2026年上半年淨利潤5365.4萬元，同比下降25.87%】健之佳公告，2026年上半年營業收入41.83億元，同比下降6.14%；歸屬於上市公司股東的淨利潤5365.4萬元，同比下降25.87%，2025年同期為7237.82萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤4337.72萬元，同比下降33.42%。
+
+---
+
+### 2026-08-26 17:43:28  #其他
+
+稀宇科技上半年營收1.166億美元，上半年淨虧損2.930億美元。
+
+---
+
+### 2026-08-26 17:43:15  #公司
+
+【江蘇：加快培育一批研發創新能力強、國際化水平高的世界一流製藥集團與醫療器械領軍企業】江蘇省印發《江蘇省促進生物醫藥產業高質量發展三年行動計劃》。其中指出，培育行業領軍企業。實施“築峰強鏈”重點企業培育計劃，加快培育一批研發創新能力強、國際化水平高的世界一流製藥集團與醫療器械領軍企業。支援企業對標國際先進，實施全流程綠色化改造，高標準建設一批綠色工廠、零碳工廠。培育專精特新企業。支援平臺型、生態型、鏈主型企業開展協同研發和供應鏈合作，促進大中小企業融通發展。支援生物醫藥企業專注細分領域深化研發創新，培育一批專精特新中小企業，爭創一批專精特新“小巨人”企業、製造業單項冠軍和“獨角獸”“瞪羚”企業。
+
+---
+
+### 2026-08-26 17:43:04  #其他
+
+【西安：加大住房公積金支援力度 單繳存職工最高貸款額度提高至90萬元】8月26日，西安市住建局網站釋出《西安市住房和城鄉建設局等4部門關於印發西安市支援房地產市場高質量發展工作措施的通知》。其中提到，加大住房公積金支援力度，單繳存職工最高貸款額度提高至90萬元，雙繳存職工提高至120萬元，二孩及以上家庭在上述額度基礎上提高20%；購買商品房的，自商品房網籤備案起，購房人（產權人）及其配偶、子女、父母提取公積金的時限由5年延長至10年，且可共同用於支付購房款；無房職工租住住房提取公積金的額度由1500元/月提高至2000元/月；在西安市城鎮區域內既有自住住房上加裝或更新電梯的，房屋產權人及其配偶、子女、父母均可以提取公積金；購買新建商品住房及二手住房的借款申請人及其配偶均可提取住房公積金直接支付首付款。
+
+---
+
+### 2026-08-26 17:42:52  #MKT News #XAUUSD #Impact bullish #DXY #Impact mixed
+
+Iran's equity rally is best read as an asset re-pricing in a high-inflation environment, not a traditional fundamentals-driven bull market. Key market signals to watch: whether TEDPIX can hold above 6,000,000; whether the rial continues to weaken; whether inflation remains near 90%; whether gold/USD keeps rising; and whether real profits at export-oriented petrochemical, steel and mining firms improve. If stocks rise while the rial stabilizes, inflation falls and corporate earnings recover, that would signal a substantive economic rebound. If instead stocks rise alongside a weaker rial, higher gold and inflation stuck near 90%, the rally is likely driven by cash flight and hedging of currency depreciation and inflation rather than underlying economic repair.
 
 ---
 
@@ -15588,473 +15859,5 @@ WOLTERS KLUWER股價大幅下跌，跌幅高達5.9%。
 ### 2026-08-25 20:16:39  #其他
 
 【東北地區里程最長跨海大橋建設取得關鍵進展】8月25日，大連長海大橋專案建設取得關鍵進展，主線鋼棧橋實現貫通。據介紹，鋼棧橋貫通有效解決了淺灘海域船舶作業難的行業痛點，實現陸域棧橋與主橋鋼平臺無縫銜接，建成全天候、高效率的海上施工通道。鋼棧橋貫通標誌著長海大橋正式轉入主體施工階段，為專案提速提質、按期竣工奠定堅實基礎。作為東北地區里程最長跨海大橋，大連長海大橋總長25.5公里。（新華社）
-
----
-
-### 2026-08-25 20:16:37  #MKT News
-
-【Draft Water Law to require accelerated build‑out of national water network】China’s draft Water Law, submitted for second review to the 14th National People’s Congress Standing Committee on Aug. 25, adds provisions to accelerate construction of a national water network. The draft directs the state to prioritise improving systems for optimized water‑resource allocation, river‑basin flood prevention and mitigation, and water‑ecological protection and governance; it calls for coordinating existing and incremental resources, strengthening interconnection, and speeding the build‑out of the national water network.
-
----
-
-### 2026-08-25 20:16:18  #公司 #市場 #央行 #國際
-
-【美國股指期貨小幅走高 英偉達有望結束2022年以來最長連跌】美國股指期貨上漲，晶片製造商股價反彈，加之布倫特原油跌破每桶90美元后債券收益率回落，為市場進一步提供支撐。紐約時間7:44，標普500指數和道指期貨上漲0.4%，納斯達克100指數期貨上漲0.9%。英偉達股價有望結束自2022年以來最長連跌。科技股仍是市場焦點。在英偉達週三公佈財報前，晶片股走強。多年來，英偉達一直被視為人工智慧交易的重要風向標。最近，該公司也越來越多地參與為整個AI生態系統的專案籌措資金。Energy Group Capital的Amanda Lyons表示：“英偉達需要給投資者一個上調未來業績預期的理由。有關基本面的討論焦點已經從AI需求是否存在，轉向這種規模空前的基礎設施建設能否繼續產生足夠的經濟回報。”Nuveen全球投資策略師Laura Cooper表示，投資者正在等待一系列關鍵事件，這些事件“可能決定市場進入9月後的走勢方向”。“從美聯儲反應機制能否更加清晰、9月是否可能需要加息，到AI相關企業盈利能否重新點燃市場對科技股的熱情，投資者有很多資訊需要消化。”
-
----
-
-### 2026-08-25 20:16:17  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-ADP weekly employment report: firms' hiring rose for a second consecutive week.
-
----
-
-### 2026-08-25 20:16:00  #經濟數據 #美國
-
-ADP資料顯示，截至8月8日的四周內，美國私營部門就業崗位周均增加11,750個。
-
----
-
-### 2026-08-25 20:15:44  #其他
-
-【8.86秒！人形機器人百米競速再次重新整理紀錄】8月25日，第二屆世界人形機器人運動會大型組100米複賽，第一組成績再次重新整理紀錄。繼開幕式上跑出的9.39秒，來自北京人形機器人創新中心的天工機器人，跑出了8.86秒的最好成績，再次重新整理紀錄！(央視新聞)
-
----
-
-### 2026-08-25 20:15:39  #MKT News #Important #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-ADP weekly employment report: private-sector employers added an average of 11,750 jobs per week in the four weeks to Aug. 8, 2026.
-
----
-
-### 2026-08-25 20:15:32  #國際
-
-美國至8月8日當週ADP就業人數週度變動 1.175萬人，前值0.95萬人。
-
----
-
-### 2026-08-25 20:15:24  #其他
-
-【第二屆GIS全球創新峰會在香港開幕】2026第二屆GIS全球創新展暨全球創新峰會25日在香港亞洲國際博覽館開幕。本屆峰會以“鏈動全球·創引未來”為主題，探討科技創新、產業合作與企業全球化的新趨勢和新機遇。（新華社）
-
----
-
-### 2026-08-25 20:15:11  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y
-
-US ADP weekly employment change for week through Aug. 8: +11,750 jobs (prior +9,500).
-
----
-
-### 2026-08-25 20:14:43  #MKT News
-
-Chancellor Merz said economic growth is his top priority and he wants Germany to return to recovery and restore employment. He said the issue will be discussed at a cabinet meeting in Neuhardenberg today and tomorrow.
-
----
-
-### 2026-08-25 20:14:31  #公司
-
-【軟通動力：2026年上半年淨利潤虧損2.65億元，上年同期虧損1.43億元】軟通動力公告，2026年上半年營業收入186.07億元，同比增長17.91%；歸屬於上市公司股東的淨利潤虧損2.65億元，上年同期虧損1.43億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損3.87億元，上年同期虧損2.67億元。
-
----
-
-### 2026-08-25 20:14:18  #宏觀
-
-【商務部：我國對外投資存量連續9年保持全球前三】在25日國務院新聞辦公室舉行的新聞釋出會上，商務部有關負責人介紹，2025年，我國對外投資流量為2135.8億美元，同比增長11.1%，對外投資存量達3.4萬億美元，連續9年保持在全球前三，佔全球投資的比重上升到7.4%。
-
----
-
-### 2026-08-25 20:14:13  #兩會
-
-【水法修訂草案擬規定加快構建國家水網】水法修訂草案8月25日提請十四屆全國人大常委會第二十四次會議二次審議。草案二審稿擬充實關於國家水網建設的內容，增加加快構建國家水網相關規定。今年4月底，十四屆全國人大常委會第二十二次會議對水法修訂草案進行初次審議，會後草案向社會公開徵求意見。有的常委會組成人員和全國人大代表、部門、地方建議，充實關於國家水網建設的內容。草案二審稿增加規定：國家以完善水資源最佳化配置體系、流域防洪減災體系、水生態保護治理體系為重點，統籌存量和增量，加強互聯互通，加快構建國家水網。（新華社）
-
----
-
-### 2026-08-25 20:13:12  #市場 #國際
-
-印度儲備銀行公報：8月印度一攬子原油價格上漲至每桶89.7美元。
-
----
-
-### 2026-08-25 20:13:08  #國際
-
-三名訊息人士透露，俄羅斯或將柴油出口禁令延長至9月。
-
----
-
-### 2026-08-25 20:12:41  #其他
-
-市場訊息： Emerald AI 融資 1.5 億美元，估值達 10.5 億美元。
-
----
-
-### 2026-08-25 20:11:39  #MKT News #EURUSD
-
-Italy's Prime Minister Meloni backs imposing an energy windfall tax to ease domestic fuel costs.
-
----
-
-### 2026-08-25 20:11:31  #公司
-
-阿布扎比國家石油公司物流與航運公司：預計新船將投入長期租船業務運營。
-
----
-
-### 2026-08-25 20:11:19  #公司
-
-【博納影業：2026年上半年淨利潤虧損1.69億元，2025年同期虧損10.56億元】博納影業公告，2026年上半年營業收入4.58億元，同比下降31.90%；歸屬於上市公司股東的淨利潤虧損1.69億元，2025年同期虧損10.56億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.88億元，2025年同期虧損10.92億元。
-
----
-
-### 2026-08-25 20:10:58  #公司
-
-阿布扎比國家石油公司物流與服務板塊（ADNOC L&S）：阿布扎比國家石油公司物流與服務板塊斥資4.44億美元追加訂購兩艘液化天然氣（LNG）運輸船，使其LNG船隊規模增至24艘。
-
----
-
-### 2026-08-25 20:10:49  #公司
-
-阿布扎比國家石油公司物流與服務部（ADNOC L&S）：每艘船的容積為17.5萬立方米，預計將於2029年交付。
-
----
-
-### 2026-08-25 20:10:41  #其他
-
-義大利總理梅洛尼陣營盟友支援徵收能源暴利稅，以此緩解義大利燃料成本壓力  。
-
----
-
-### 2026-08-25 20:10:32  #MKT News #00966.HK #Impact bullish
-
-China Taiping (00966.HK) 1H life-insurance business profit HK$16.682 billion, up 101.5% YoY, mainly driven by stronger insurance service results and higher net investment income versus a year earlier.
-
----
-
-### 2026-08-25 20:10:18  #公司 #國際
-
-三菱汽車北美公司：三菱汽車將把其美國市場產品線從目前的4款車型擴充至2027年的6款車型。
-
----
-
-### 2026-08-25 20:10:11  #MKT News #00966.HK #Impact bullish
-
-China Taiping (00966.HK) said 1H insurance service revenue was HK$12.876 billion, up 4.5% YoY, driven mainly by stronger life-insurance performance versus the year-ago period.
-
----
-
-### 2026-08-25 20:10:06  #MKT News #00966.HK #Impact bullish
-
-China Taiping (00966.HK) said 1H profit attributable to shareholders was HKD12.873 billion, up 90.3% YoY, driven by stronger insurance service results and higher investment returns versus a year earlier.
-
----
-
-### 2026-08-25 20:09:56  #其他
-
-中國太平：上半年股東應占溢利128.73億港元，同比增長90.3%，主要原因為保險服務業績及投資回報均較去年同期上升。
-
----
-
-### 2026-08-25 20:09:38  #其他
-
-西班牙政府提議修改移民與庇護相關法律。
-
----
-
-### 2026-08-25 20:08:42  #其他
-
-中國太平：上半年保險收入589.3億港元。
-
----
-
-### 2026-08-25 20:08:42  #MKT News
-
-Reserve Bank of India: domestic demand remains strong; system liquidity improved in July and August.
-
----
-
-### 2026-08-25 20:08:33  #MKT News
-
-Reserve Bank of India said outstanding net forward sell positions stood at $103.33 billion at end-June.
-
----
-
-### 2026-08-25 20:08:29  #其他
-
-中國太平：上半年淨利潤128.7億港元。
-
----
-
-### 2026-08-25 20:08:00  #公司
-
-三菱汽車北美公司：全新日蝕Cross電動SUV將於今秋推出，2027年第一季度將推出衍生車型。
-
----
-
-### 2026-08-25 20:07:44  #MKT News
-
-Reserve Bank of India says liquidity conditions have eased, supporting credit growth and sustained investment activity.
-
----
-
-### 2026-08-25 20:07:44  #公司
-
-【中國化學工程深化雲貴戰略佈局，積極探索合作新模式】據中國化學工程訊息，8月24日-25日，中國化學工程黨委副書記、總經理鄧兆敬在貴州、雲南開展系列商務活動，分別與貴州磷化集團、雲天化集團、雲南化工設計院有關負責人舉行會談，就深化戰略合作、共謀綠色發展進行深入交流。在與貴州磷化集團黨委副書記、副董事長、總經理李紅林會談中，雙方圍繞磷化工產業發展、磷石膏資源化利用等議題進行研討。雙方表示，將強化技術協同，佈局高附加值新材料領域。在與雲天化集團黨委書記、董事長劉和興會談中，雙方就境內外工程、技術研發、中試轉化等議題進行深入交流並達成合作共識。雙方表示，將進一步拓展合作空間，共同探索“工程建設+產業投資”聯合出海模式。在與雲南化工設計院黨委書記、董事長李若松會談中，雙方表示，將圍繞溼法磷酸技術、新能源磷酸鐵鋰及磷石膏制酸等領域，積極探索合作新模式，實現資源優勢互補，共謀綠色發展。
-
----
-
-### 2026-08-25 20:07:35  #公司
-
-【海鷗住工：福清曜鴻擬受讓公司5.01%股份】海鷗住工公告稱，公司股東中餘投資有限公司與福清曜鴻企業管理合夥企業（有限合夥）簽署《股份轉讓協議》，擬透過協議轉讓方式向福清曜鴻轉讓其持有的公司無限售流通股3236.74萬股，佔公司總股本的5.01%，轉讓總價款為2.00億元，摺合每股約6.19元。本次權益變動前福清曜鴻未持有公司股份，變動後其持股比例為5.01%。本次轉讓尚需深圳證券交易所合規性確認，之後辦理股份過戶手續。福清曜鴻未來12個月內無繼續增減持公司股份的明確計劃。
-
----
-
-### 2026-08-25 20:07:05  #其他
-
-穆迪擔任 Gemini 金融服務板塊的首發合作方。
-
----
-
-### 2026-08-25 20:06:52  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google has selected Rezolve AI's proprietary distributed database technology after an extensive technical evaluation.
-
----
-
-### 2026-08-25 20:06:40  #國際
-
-印度儲備銀行：外資流入反彈，強化外部安全緩衝。
-
----
-
-### 2026-08-25 20:06:27  #其他
-
-穆迪將其決策級情報引入面向金融服務業的Gemini企業平臺。
-
----
-
-### 2026-08-25 20:06:26  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-Reserve Bank of India says the global economy faces a fragile geopolitical backdrop and persistent trade-related uncertainty; India’s domestic economy has shown notable resilience amid ongoing global headwinds.
-
----
-
-### 2026-08-25 20:05:53  #MKT News
-
-GEMINI Enterprise legal services has partnered with four law firms and entered a preview phase.
-
----
-
-### 2026-08-25 20:05:13  #其他
-
-思科將提供超微的液冷與風冷系統。
-
----
-
-### 2026-08-25 20:05:04  #MKT News #Important
-
-US ADP weekly employment change for the week to Aug. 8 due in 10 minutes.
-
----
-
-### 2026-08-25 20:05:04  #其他
-
-ANNOVIS BIO ：阿爾茨海默病3期臨床試驗已完成全部受試者入組；關鍵資料和申報預計將於2027年完成。
-
----
-
-### 2026-08-25 20:04:50  #公司
-
-PILOGIC：為期六個月的合同將資助公司機載診斷系統MANIFEST在三個航天器子系統中的開發。
-
----
-
-### 2026-08-25 20:04:38  #公司
-
-【谷歌擴充套件Gemini AI平臺，推出面向律師和律所的新工具】Alphabet旗下的谷歌週二擴充套件了其Gemini Enterprise人工智慧平臺，為律師和律所推出新工具。此舉將加劇科技公司爭奪法律行業AI市場的競爭。谷歌表示，其Gemini Enterprise for Legal將幫助律所利用AI處理日常及複雜工作，使律師能夠專注於更高價值的服務，同時確保資料的安全性和保密性。
-
----
-
-### 2026-08-25 20:04:24  #MKT News
-
-CoreWeave launches digital engineering platform Rescale.
-
----
-
-### 2026-08-25 20:04:06  #公司
-
-【川儀股份：2026年上半年淨利潤2.84億元，同比下降12.60%】川儀股份公告，2026年上半年營業收入34.18億元，同比增長4.18%；歸屬於上市公司股東的淨利潤2.84億元，同比下降12.60%，2025年上半年為3.25億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.9億元，同比增長8.10%。
-
----
-
-### 2026-08-25 20:04:03  #其他
-
-【中國人民解放軍駐香港部隊組織第29次建制單位輪換】根據《中華人民共和國香港特別行政區駐軍法》和中央軍委命令，中國人民解放軍駐香港部隊於8月24日至25日組織陸軍、海軍、空軍部隊部分兵力進行了第29次建制單位輪換，輪換行動全程安全順利。（央視）
-
----
-
-### 2026-08-25 20:03:49  #國際
-
-市場訊息：柏林郊外森林中被查獲的武器藏匿點涉案快遞員涉嫌為俄羅斯間諜網路成員。
-
----
-
-### 2026-08-25 20:03:32  #國際
-
-蒙特利爾銀行：只有滿足嚴苛條件，才會開展美國市場併購。
-
----
-
-### 2026-08-25 20:03:29  #MKT News #Market Themes #AI Revolution
-
-SuperX AI Technology said it had received prepayments for about 20% of orders as of Aug 20, 2026.
-
----
-
-### 2026-08-25 20:03:12  #MKT News #Market Themes #AI Revolution
-
-SuperX AI Technology expects project delivery in mid-November 2026.
-
----
-
-### 2026-08-25 20:03:02  #公司 #國際
-
-美國國家航空航天局選用Pilogic公司，藉助Exact AI技術提升航天器故障檢測能力。
-
----
-
-### 2026-08-25 20:02:57  #其他
-
-CoreWeave 推出數字工程平臺 Rescale  。
-
----
-
-### 2026-08-25 20:02:30  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-SuperX has secured a $38.8 million order for NVIDIA B300 servers, accelerating its expansion in Japan's AI infrastructure market.
-
----
-
-### 2026-08-25 20:02:04  #公司
-
-REZOLVE AI：谷歌選擇REZOLVE AI的分散式資料庫技術。
-
----
-
-### 2026-08-25 20:01:59  #MKT News #Market Themes #AI Revolution #GOOGL.O #Impact bullish
-
-Google Cloud launches GEMINI Enterprise legal services.
-
----
-
-### 2026-08-25 20:01:52  #公司
-
-谷歌雲推出面向法律行業的Gemini企業版。
-
----
-
-### 2026-08-25 20:01:49  #Trading Economics #Markets #Canada #Earnings #Importance 0
-
-Bank of Nova Scotia earnings above expectations at 2.28 CAD — Bank of Nova Scotia (BNS) released earnings per share at 2.28 CAD, compared to market expectations of 2.08 CAD.
-
----
-
-### 2026-08-25 20:01:48  #Trading Economics #Markets #Canada #Earnings #Importance 0
-
-Bank Of Montreal earnings above expectations at 3.96 CAD — Bank Of Montreal (BMO) released earnings per share at 3.96 CAD, compared to market expectations of 3.72 CAD.
-
----
-
-### 2026-08-25 20:01:41  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #CSCO.O #Impact bullish #NVDA.O
-
-Cisco (CSCO.O) will partner with NVIDIA in October to offer ultra-compute solutions.
-
----
-
-### 2026-08-25 20:01:35  #其他
-
-波羅的海乾散貨運價指數漲1.53%，至2926點。
-
----
-
-### 2026-08-25 20:01:28  #公司
-
-SUPERX獲得伍德曼公司價值3880萬美元的英偉達B300伺服器訂單。
-
----
-
-### 2026-08-25 20:01:05  #其他
-
-思科與英偉達合作擴充套件安全人工智慧工廠，以迎接機架規模時代。
-
----
-
-### 2026-08-25 20:01:01  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #CSCO.O
-
-Cisco and NVIDIA partner to expand a secure AI factory to support rack-scale deployments.
-
----
-
-### 2026-08-25 20:00:44  #其他
-
-山特維克在剛果（金）斬獲 2.75 億瑞典克朗採礦裝置訂單。
-
----
-
-### 2026-08-25 20:00:43  #MKT News
-
-Hungary's central bank cut its policy rate by 25 bps to 5.50%, in line with market expectations.
-
----
-
-### 2026-08-25 20:00:36  #MKT News #Commodities #Precious Metals #XAUUSD
-
-At the start of the Aug 25 evening session, Shanghai Gold Exchange gold T+D rose 0.13% to 1,001.14 yuan/gram; silver T+D fell 0.66% to 16,521.0 yuan/kg.
-
----
-
-### 2026-08-25 20:00:24  #其他 #焦點
-
-匈牙利再次降息，通脹率處於十年低位。
-
----
-
-### 2026-08-25 20:00:13  #其他
-
-匈牙利將基準利率下調 25 個基點至 5.50%；市場預期 5.50%。
-
----
-
-### 2026-08-25 19:59:43  #公司
-
-哈利伯頓公司：英國石油授予哈利伯頓巴西布梅朗古油田評價開發一體化合同。
-
----
-
-### 2026-08-25 19:59:21  #宏觀
-
-匈牙利財政部長卡爾曼：2026年赤字提高不會改變我國到2030年滿足歐元加入條件的承諾。
-
----
-
-### 2026-08-25 19:59:06  #其他
-
-【浙江提升防颱風應急響應至Ⅲ級】據“浙江應急管理”公眾號訊息，根據《浙江省防汛防颱抗旱應急預案》和第18號颱風“沙德爾”防禦工作方案，經會商研判，浙江省防指決定於8月25日20時將防颱風應急響應提升至Ⅲ級。請各地各部門密切關注颱風發展變化，高效執行“1833”聯合指揮體系，進一步做好監測預報預警、風險研判和管控、人員避險轉移、社會面宣傳引導等各項工作，切實保障人民群眾生命財產安全。
-
----
-
-### 2026-08-25 19:58:55  #其他
-
-【武田中國與螞蟻健康達成合作】8月25日，武田中國宣佈與螞蟻健康達成合作協議。雙方將圍繞患者全生命週期管理、醫生數字化賦能、數字醫療健康生態建設及創新支付模式等方向，探索數字技術在醫療健康領域多元場景中的創新應用。此外，雙方還將探索依託數字化平臺加速藥物以及新適應症開發的可能性，並開展專病領域公眾健康教育等專案。
-
----
-
-### 2026-08-25 19:58:49  #宏觀
-
-蒙特利爾銀行：加拿大金融監管局新規出臺後，資本目標維持不變 。
-
----
-
-### 2026-08-25 19:58:17  #MKT News #Star Stocks #Tencent #0700.HK
-
-【Tencent says report of IEG AI games reorganization inaccurate】Tencent said a recent report that its Interactive Entertainment Group (IEG) is reorganizing its AI games unit is inaccurate and that claims of a new department were a misreading. The report had said IEG would merge ARC Lab under IEG CROS (Tencent Games tech platform) with the game AI engine team and expand the unit to 400–500 staff. Tencent said the game-technology line already houses a game AI engine team and has been recruiting AI specialists externally; the team focuses on AI-driven efficiency across game development and operations and on gameplay innovation, providing reusable technical capabilities and solutions.
 
 ---
