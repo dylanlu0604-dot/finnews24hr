@@ -1,7 +1,19 @@
 {
   "date": "2026-08-31",
-  "count": 94,
+  "count": 95,
   "items": [
+    {
+      "id": "mkt:01a05432-2ecf-7118-8402-390071434a71",
+      "time": "2026-08-31 03:42:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS cited preliminary information saying hostile drones struck Larak Island in Hormozgan province about one hour ago. Initial unofficial reports indicate two killed and two wounded."
+    },
     {
       "id": "mkt:01a0542b-639a-7118-8402-3297106a8bd7",
       "time": "2026-08-31 03:35:24",
