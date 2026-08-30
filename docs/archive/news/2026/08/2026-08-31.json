@@ -1,7 +1,41 @@
 {
   "date": "2026-08-31",
-  "count": 72,
+  "count": 76,
   "items": [
+    {
+      "id": "mkt:01a0540f-17b4-7118-8401-f8fae0ca6ebc",
+      "time": "2026-08-31 03:04:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.1-magnitude earthquake hits northern Chile】The University of Chile National Seismological Center reported a magnitude-5.1 earthquake struck Chile's northern Arica and Parinacota region at 12:04 local time on Aug. 30, with a focal depth of 108.25 km. No casualties or damage reported."
+    },
+    {
+      "id": "5067328",
+      "time": "2026-08-31 03:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智利北部地區發生5.1級地震】根據智利大學全國地震中心報告，當地時間8月30日12時04分，該國北部阿里卡和帕里納科塔大區發生5.1級地震，震源深度108.25公里。目前暫無人員傷亡及財產損失報告。"
+    },
+    {
+      "id": "5067327",
+      "time": "2026-08-31 03:03:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場資訊：大型科技巨頭上季度憑藉對其他人工智慧企業的投資，斬獲逾1600億美元的意外收益，美化了自身財報盈利表現。"
+    },
+    {
+      "id": "5067324",
+      "time": "2026-08-31 03:00:59",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【沃什表態助長加息預期後，債券投資者持謹慎態度】荷蘭銀行投資解決方案部、布蘭迪萬環球投資管理等機構的債券投資者，對美聯儲主席凱文·沃什即將加息的市場猜測表示懷疑。沃什發表相關言論後，部分投資者心存疑慮，做好了美聯儲維持利率不變的風險預案，這也加劇了市場對美聯儲公信力的擔憂。互換交易員定價顯示，美聯儲加息機率約為60%，但投資者仍在等待就業等經濟資料，以此判斷美聯儲的下一步行動。"
+    },
     {
       "id": "5067320",
       "time": "2026-08-31 02:57:35",
