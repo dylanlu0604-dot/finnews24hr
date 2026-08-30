@@ -1,7 +1,15 @@
 {
   "date": "2026-08-30",
-  "count": 152,
+  "count": 153,
   "items": [
+    {
+      "id": "mkt:01a05028-39f0-7118-83fc-4e303b146726",
+      "time": "2026-08-30 08:53:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's foreign ministry spokesman said the fourth flight carrying 11 tonnes of relief supplies has arrived in Nepal and the aid has been handed over."
+    },
     {
       "id": "5066673",
       "time": "2026-08-30 08:51:05",
