@@ -1,7 +1,225 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-30 05:25:55_
-_本檔包含 2388 則快訊，約 556916 字_
+_更新時間：2026-08-30 08:03:11_
+_本檔包含 2379 則快訊，約 556693 字_
+
+---
+
+### 2026-08-30 08:02:20  #公司 #市場 #國際
+
+【日內交易員正大批拋售韓國晶片槓桿 ETF】一項繁瑣的模擬交易課程，正成為韓國抑制投資者追捧高風險產品的有效手段。這類高風險產品已令該國規模達 4.3 萬億美元的股市劇烈波動。瞄準三星電子、SK 海力士晶片企業兩倍日收益的槓桿交易所交易基金，交易額已暴跌至 6 月峰值的 4%，即將迎來首次月度資金流出。據媒體情報整理的首爾上市產品資料顯示，掛鉤三星電子與 SK 海力士的單隻股票 ETF，8 月至今合計資金流出規模約 10 億美元，即將迎來成立以來首次月度大規模資金出逃。截至 8 月 27 日，上述 ETF 合計管理資產規模從 6 月末峰值 114 億美元縮水至 50 億美元。此次規模暴跌源於多輪全球科技股拋售潮，市場擔憂人工智慧行業高額投入以及商業化變現前景。媒體情報分析師辛麗貝卡表示：“監管機構持續收緊相關規則，短期內資金流出態勢或將延續。韓國監管當局的態度已經從支援這類產品，轉向主動加以約束。”交易熱度快速降溫，雖然讓希望逢高套現的存量投資者感到失望，但客觀上起到穩定市場的效果。韓國綜合股價指數波動率指標已從 6 月末 97 的峰值回落至約 50，創下四個月新低。韓國股市基準指數今年迄今累計上漲 61%，但仍較兩個月前創下的歷史高點低 25%。
+
+---
+
+### 2026-08-30 07:51:28  #其他
+
+【金正恩表彰為強化國防力量作出突出貢獻的人員】據朝中社30日報道，朝鮮勞動黨總書記、國務委員長金正恩29日在勞動黨中央委員會本部會見主要國防科研機構科學家、研究員和幹部，表彰他們為強化國防力量作出突出貢獻。報道說，朝鮮國防科研部門遵循勞動黨九大提出的武裝力量現代化方針，創新開發出多項堪稱推動戰爭執行能力和強化遏制力的專利技術。金正恩親自向為加強國防力量作出突出貢獻的科學家、研究員和幹部授予朝鮮英雄稱號和金質獎章，以及一級國旗勳章、金日成勳章。金正恩高度評價朝鮮國防科研部門開發應用的創新性專利軍事科技成果，表示這些成果是推動朝軍武器戰鬥系統現代化程序的一次革命，他向國防科研團隊的努力和貢獻表示真誠的敬意。（新華社）
+
+---
+
+### 2026-08-30 07:30:35  #國際
+
+【冰島就是否重啟入盟談判舉行公投】當日，冰島舉行全民公投，就是否重啟加入歐盟的談判進行表決。（新華社）
+
+---
+
+### 2026-08-30 07:29:28  #國際
+
+日本對福井縣釋出最高階別暴雨預警。
+
+---
+
+### 2026-08-30 07:28:50  #國際
+
+【據訊息人士透露，美國中央情報局局長在訪問莫斯科期間，試探性提議舉行特朗普‑普京‑澤連斯基三方峰會】據兩名瞭解內情的訊息人士透露，美國中央情報局局長約翰・拉特克利夫本週早些時候秘密出訪莫斯科，為推動結束俄烏戰爭，提議舉行特朗普總統、俄羅斯總統普京與烏克蘭總統澤連斯基三方會晤。訊息人士稱，拉特克利夫此次訪問的部分目的，是研判俄羅斯情報部門高層能否說服普京重啟由美國斡旋的俄烏談判。週五，美國官員向澤連斯基通報了拉特克利夫在莫斯科的會談情況以及舉辦三方峰會的提議。特朗普政府此前已經提出過該構想。澤連斯基表示支援，但遭到普京拒絕。媒體援引訊息人士的說法，拉特克利夫得出結論，俄羅斯聯邦安全域性局長博爾特尼科夫是可以推動重啟外交程序的建設性人物。
+
+---
+
+### 2026-08-30 07:26:58  #國際
+
+訊息人士稱：美國中央情報局局長拉特克利夫在訪問莫斯科期間，提議舉辦特朗普‑普京‑澤連斯基三方峰會。
+
+---
+
+### 2026-08-30 07:22:46  #其他
+
+【尼泊爾山洪已致675人遇難 2498人失聯】據尼泊爾國家減少災害風險管理局公佈的資料，截至當地時間29日18時30分，尼泊爾泥石流造成的死亡人數為675人，失聯人數升至2498人。（央視新聞）
+
+---
+
+### 2026-08-30 07:19:56  #國際
+
+【改名風波再起 加拿大官員在安大略湖畔樹立標牌】當地時間8月29日，加拿大安大略省省長道格·福特在安大略湖畔一座公園內揭幕了一塊帶有“安大略湖”名稱的標牌，標牌上還寫著“現在和永遠”。福特表示，特朗普想要給安大略湖改名，是因為他不喜歡加拿大和安大略省捍衛自身的權益。福特稱，他想向特朗普傳達一個資訊，那就是加拿大人堅韌不拔、意志堅定。福特說，在特朗普出現之前，或很久之後，這片湖泊將一直叫作“安大略湖”。（央視新聞）
+
+---
+
+### 2026-08-30 07:13:06  #公司
+
+【無保單理賠、大災互認 銀行業保險業保障災區應急金融需求】記者從金融監管總局瞭解到，自啟動保險業二級救災應急響應以來，各保險公司針對西藏吉隆縣泥石流災害，推出無保單理賠、無差別救援、大災互認等多項應急舉措。截至目前，保險業接報案初步估損金額近億元，銀行機構加大現鈔調配投放力度，提供應急保障現金2億元，發放普惠貸款1200多萬元，保障災區群眾應急金融需求。（央視新聞）
+
+---
+
+### 2026-08-30 07:12:24  #國際
+
+【美國南卡羅來納州發生槍擊事件 致1死1傷】當地時間8月29日，美國南卡羅來納州哥倫比亞市警察局稱，當天上午，該市發生一起槍擊事件，導致兩名警察受傷，隨後其中一名警察死亡。相關部門正聯合調查這起事件。當地警察局表示，目前已無安全威脅，相關調查工作仍在進行中。（央視新聞）
+
+---
+
+### 2026-08-30 07:08:45  #其他
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、算力運營服務年收入超八百億元，市場化率超九成 從儲存到智算，貴州靠什麼？
+2、中埃務實合作成果豐碩
+3、鵬城展翅 亞太揚帆——從深圳之變看亞太共同體發展之路
+4、中吉政商界人士共話兩國商務投資合作新前景
+5、新能源汽車產業透視系列報道之五 新能源汽車產業崛起，定義汽車新標準
+
+---
+
+### 2026-08-30 07:06:39  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、模速空間 創新點亮年輕事業
+2、未來之城 青年書寫智慧新篇
+3、鵬城展翅 亞太揚帆——從深圳之變看亞太共同體發展之路
+4、中央黨校（國家行政學院）舉行秋季學期開學典禮 蔡奇出席並講話
+5、前7月機械工業生產實現較快增長
+6、新能源汽車產業透視系列報道之五 新能源汽車產業崛起，定義汽車新標準
+7、各方力量持續奮戰西藏吉隆救災一線 搶險救援工作緊張有序開展
+8、圖片報道
+9、分秒必爭 科學救援
+
+---
+
+### 2026-08-30 07:03:58  #公司 #國際
+
+【特朗普的委內瑞拉石油交易依賴一位實力雄厚但頗具爭議的合作方】特朗普政府這項用於開發委內瑞拉龐大石油資源的協議十分特殊，美國政府將與一位影響力巨大、同時極具爭議的委內瑞拉商人展開合作。據四名瞭解該協議的知情人士透露，根據特朗普總統上週五晚間公佈的協議，美國將與亞歷杭德羅・貝坦庫爾特・洛佩斯開展合作，其家族掌控著委內瑞拉第二大私營石油企業北美藍色能源合夥公司。其中三名知情人士表示，聯邦政府預計將透過美國國防部戰略資本辦公室，為委內瑞拉相當一部分已探明石油儲量的開發提供支援，而貝坦庫爾特的公司將主導實際運營。該協議覆蓋委內瑞拉境內共計 17 處油田。委內瑞拉總統德爾西・羅德里格斯對該協議表示支援，並於上週五晚間發表宣告稱，該協議將 “對本國的復興產生重大影響”，可為政府帶來超 2000 億美元的稅收收入。
+
+---
+
+### 2026-08-30 06:54:02  #國際
+
+市場資訊：特朗普的委內瑞拉石油協議高度依賴華盛頓說客亞歷杭德羅·洛佩斯。洛佩斯家族掌控委內瑞拉一家頭部石油生產企業。
+
+---
+
+### 2026-08-30 06:44:28  #其他
+
+中央氣象臺8月30日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-08-30 06:41:33  #國際
+
+委內瑞拉政界各派均譴責與美國達成的石油協議。
+
+---
+
+### 2026-08-30 06:26:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Shaanxi Coal earnings above expectations at 0.55 CNY — Shaanxi Coal (601225) released earnings per share at 0.55 CNY, compared to market expectations of 0.47 CNY.
+
+---
+
+### 2026-08-30 06:26:45  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Industrial Bank earnings below expectations at 0.75 CNY — Industrial Bank (601166) released earnings per share at 0.75 CNY, compared to market expectations of 0.89 CNY.
+
+---
+
+### 2026-08-30 06:26:43  #Trading Economics #Markets #China #Earnings #Importance 0
+
+Petrochina earnings above expectations at 0.37 CNY — Petrochina (601857) released earnings per share at 0.37 CNY, compared to market expectations of 0.32 CNY.
+
+---
+
+### 2026-08-30 06:26:35  #其他
+
+【尼日軍方稱逮捕多名企圖發動兵變計程車兵】當地時間8月29日，尼日國防部表示，該國國防與安全部隊已成功挫敗當天發生在首都尼亞美的兵變企圖，多名參與叛亂計程車兵被現場逮捕。
+
+---
+
+### 2026-08-30 06:16:58  #焦點 #國際
+
+以色列能源部長稱，即便美國達成協議，以色列仍會再次打擊伊朗。
+
+---
+
+### 2026-08-30 06:15:39  #國際
+
+芬蘭總統斯圖布談及俄羅斯：我不認為俄羅斯會因為當下實際出現的經濟狀況而結束這場衝突。絕不要低估俄羅斯人承受經濟困境的能力。回顧蘇聯時期就足以理解這一點。
+
+---
+
+### 2026-08-30 06:15:04  #MKT News #Market Themes #The Trump Trade
+
+Finland's President Alexander Stubb said whether you like it or not, Trump is one of the most influential presidents in U.S. history; he will take action and is capable of delivering results.
+
+---
+
+### 2026-08-30 06:10:37  #MKT News #DXY #Impact mixed #XAUUSD #WTI
+
+【Finnish president says Russia unlikely to attack NATO】Finnish President Alexander Stubb said he does not expect Russia to attack NATO, calling it "the world's most powerful military alliance," but urged NATO to prepare for worst-case scenarios. Stubb said Russian battlefield losses have outpaced recruitment and Moscow may mobilize additional forces this autumn, a move he warned would carry domestic political consequences. He added that, despite Russia’s increasingly complicated position, Moscow is unlikely to end the conflict solely because of economic hardship and that Russians can tolerate significant economic pain.
+
+---
+
+### 2026-08-30 06:06:31  #國際
+
+芬蘭總統斯圖布談及特朗普：無論你喜不喜歡，特朗普都是美國歷史上最具影響力的總統之一。他會付諸行動，並且能夠推動事情落地。
+
+---
+
+### 2026-08-30 06:02:47  #其他
+
+馬斯克旗下xAI的Grok機器人現已可在X平臺使用。
+
+---
+
+### 2026-08-30 06:01:00  #國際
+
+美國加州一輛滿載藍帶啤酒的卡車失蹤，當地警方正在調查，認為這可能是一起規模更大的貨物盜竊案的一部分，涉案酒水價值約7萬美元。藍帶啤酒方表示此事屬實，並懸賞徵集線索，同時給卡車竊賊留出有限時間歸還車輛，承諾“不予追究”。
+
+---
+
+### 2026-08-30 05:52:45  #焦點 #國際
+
+【伊朗副外長：未經協調任何船隻無法透過霍爾木茲海峽】伊朗外交部副部長加里巴巴迪29日表示，霍爾木茲海峽目前完全關閉。任何船隻如透過該海峽，均需要經過伊朗的協調和許可。加里巴巴迪說，伊朗武裝力量完全掌握霍爾木茲海峽的一切動向，美國方面有關船隻透過該海峽的說法“完全不屬實”。
+
+---
+
+### 2026-08-30 05:48:52  #國際
+
+芬蘭總統斯圖布表示，俄羅斯不太可能冒險攻擊北約。
+
+---
+
+### 2026-08-30 05:46:29  #MKT News #WTI #Impact bullish #Brent #Copper
+
+Prime Minister Carney said Canada’s economy grew at its strongest pace in three years in Q2; exports rose and business investment increased. He said plans to bolster the domestic economy and diversify international trade partners are working.
+
+---
+
+### 2026-08-30 05:45:22  #公司 #國際
+
+【韓國10大券商二季度淨利近6萬億韓元 股價卻集體承壓】韓國主要證券公司今年第二季度實現創紀錄的近6萬億韓元利潤，但近期券商股卻表現疲軟。據韓國金融投資行業29日訊息，韓國10大券商（未來資產、韓國投資、三星、KB、NH、新韓、Meritz、Kiwoom、韓亞、大信）今年第二季度合併口徑淨利潤達到5.9362萬億韓元，較上一季度增長37%，同比增長141%。韓國主要券商業績表現穩健，但股價卻較為疲軟。韓國交易所證券業指數5月9日收於9804.97點，創下年內新高，隨後大幅回落。6月該指數跌至6400至7400點區間，7月進一步跌至4700至6400點區間，本月則在5000至5500點區間波動。
+
+---
+
+### 2026-08-30 05:45:03  #MKT News
+
+【Top 10 South Korean brokers report nearly KRW 6tn Q2 net profit; shares under pressure】South Korea's 10 largest brokerage firms reported a record consolidated Q2 net profit of KRW 5.9362 trillion, up 37% QoQ and 141% YoY. Despite robust earnings, broker stocks have weakened: the KRX securities industry index peaked at 9,804.97 on May 9, then slid to 6,400–7,400 in June, 4,700–6,400 in July and has traded around 5,000–5,500 this month.
+
+---
+
+### 2026-08-30 05:37:51  #國際
+
+【美稱與委內瑞拉達成石油協議 被批“公然盜竊”】美國總統特朗普當地時間8月28日在社交媒體發文宣佈，美國已與委內瑞拉達成協議，獲得對委內瑞拉已探明石油儲量中逾650億桶的“多數控制權”。該協議遭到多方批評，美方的行為也被網友怒斥為是對委內瑞拉石油的“公然盜竊”。
+
+---
+
+### 2026-08-30 05:31:11  #MKT News #Market Themes #The Trump Trade #CPNG.O #Impact bearish
+
+【Trump executed two Coupang trades in June as Seoul regulatory action fuels U.S.-South Korea dispute】YONHAP reports Trump’s financial disclosure shows he executed two trades in US-listed e-commerce firm Coupang Inc. in June via a money manager. The trades come amid rising U.S.-South Korea tensions over Seoul’s regulatory handling of a large-scale data breach at Coupang. In July, staff of the U.S. House Judiciary Committee issued an interim report accusing the South Korean government of “discriminatory attacks” on Coupang and other U.S.-owned firms, saying Coupang has been a sustained target.
 
 ---
 
@@ -14194,263 +14412,5 @@ TENABLE股價上漲7%，此前該公司將獲納入標普小盤股600指數。
 ### 2026-08-27 21:36:15  #公司 #市場
 
 【味千（中國）：上半年股東應占溢利1696.7萬元，同比下降30%】8月27日，味千（中國）在港交所公告，上半年營業額8.9億元，同比增長1.7%；股東應占溢利1696.7萬元，同比下降30%；基本每股盈利0.02元。報告期內，營業額增長主要受惠於香港餐廳業務收入大幅上升（增加約26%），抵銷中國內地餐廳銷售的輕微下跌。
-
----
-
-### 2026-08-27 21:36:09  #市場
-
-芝加哥期權交易所波動率指數觸及一週低點，最新下跌0.17點，報15.04。
-
----
-
-### 2026-08-27 21:36:06  #MKT News #Market Themes #Chip Wars #SOXX.O #Impact bullish #ROAM.O
-
-iShares Semiconductor ETF rose 2.0%; Roundhill Memory ETF gained 2.2%.
-
----
-
-### 2026-08-27 21:36:04  #宏觀 #國際
-
-印度市場監管機構：將制定非計劃性假日結算相關運營活動的標準操作程式。
-
----
-
-### 2026-08-27 21:35:51  #公司 #市場
-
-溫蒂漢堡股價下跌13%，此前有報道稱特里安基金暫無收購該公司的計劃。
-
----
-
-### 2026-08-27 21:35:38  #公司
-
-道明銀行執行長Raymond Chun表示，貿易緊張局勢並未削弱加拿大的投資機會，因各級政府正尋求推動新的經濟活動。
-
----
-
-### 2026-08-27 21:35:36  #MKT News #MRNA.O #Impact bearish
-
-Moderna (MRNA.O) shares fell 3.6% after the company announced plans to issue $2 billion of convertible bonds.
-
----
-
-### 2026-08-27 21:35:30  #公司
-
-多倫多道明銀行執行長Raymond Chun表示：預計2026財年總信貸損失撥備率將接近此前40至50個基點區間的低端。
-
----
-
-### 2026-08-27 21:35:21  #市場
-
-OKTA股價上漲25%，觸及2022年以來的最高盤中水平。
-
----
-
-### 2026-08-27 21:35:18  #MKT News
-
-【Baltic Dry Index posts sixth straight gain, hits nearly three-month high】The Baltic Dry Index rose for a sixth consecutive session on Thursday to a nearly three-month high as freight rates across vessel classes advanced. The BDI climbed 51 points, or 1.7%, to 3,107. The Baltic Capesize Index (BCI) gained 105 points, or 2.1%, to 5,138 — its highest since June 3; Capesize average daily earnings rose $950 to $43,098. The Baltic Panamax Index (BPI) added 46 points, or 2.1%, to 2,292, its highest since Aug. 12; Panamax average daily earnings increased $419 to $20,632. The Baltic Supramax Index (BSI) ticked up 1 point, or 0.06%, to 1,645.
-
----
-
-### 2026-08-27 21:35:15  #公司 #市場
-
-美股雲端計算公司股價上漲，Nebius漲5%，Coreweave上漲2.6%。
-
----
-
-### 2026-08-27 21:35:11  #MKT News #NBIS.O #Impact bullish #CRWV.O
-
-U.S. cloud computing stocks rose: Nebius (NBIS.O) up 5%, Coreweave (CRWV.O) up 2.6%.
-
----
-
-### 2026-08-27 21:34:47  #公司
-
-【盛屯礦業：向西藏吉隆災區捐贈1000萬元】盛屯礦業公告稱，尼泊爾一側爆發泥石流災害波及西藏日喀則市吉隆縣吉隆口岸，公司決定向西藏自治區慈善總會捐贈1000萬元，專項用於西藏吉隆災區搶險救援、受災群眾臨時安置、生活保障及後續災後重建等工作。本次捐贈無需提交董事會及股東會審議，不涉及關聯交易，不構成重大資產重組，資金來源於公司自有資金，對公司當期及未來經營業績不構成重大影響。
-
----
-
-### 2026-08-27 21:34:45  #公司
-
-【泛微網路：王晨志、楊國生擬減持不超過0.0442%股份】泛微網路公告，董事、副總經理王晨志因個人資金需求，擬於2026年9月18日至2026年12月17日透過集中競價減持不超過81000股，約佔總股本0.0263%；副總經理楊國生擬減持不超過55000股，約佔總股本0.0179%。二人合計擬減持不超過13.6萬股，佔總股本比例不超過0.0442%。
-
----
-
-### 2026-08-27 21:34:40  #其他 #焦點
-
-美股半導體股走高，Arm漲3.7%，SK海力士漲3.6%，英特爾漲3.5%，博通漲2.5%。
-
----
-
-### 2026-08-27 21:34:16  #市場
-
-布倫特原油日內漲1%，現報87.84美元/桶。
-
----
-
-### 2026-08-27 21:34:14  #市場
-
-賽富時在上調全年業績預期後，股價大漲13.8%。
-
----
-
-### 2026-08-27 21:34:02  #市場
-
-惠普股價下跌10%，因第三季度個人電腦業務出貨量與利潤率雙雙下滑。
-
----
-
-### 2026-08-27 21:33:55  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O) rose 7.1% in early trade, adding $359 bln to its market value.
-
----
-
-### 2026-08-27 21:33:39  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #INTC.O #AVGO.O
-
-U.S. semiconductor stocks rose, led by NVIDIA (NVDA.O) up over 6%; Arm (ARM.O) +3.7%, SK Hynix (SKHY.O) +3.6%, Intel (INTC.O) +3.5% and Broadcom (AVGO.O) +2.5%.
-
----
-
-### 2026-08-27 21:33:37  #市場
-
-北美科技軟體股指數ETF漲超3.8%，在美股盤初報106.41美元。CrowdStrike漲10%，創7月14日以來最大盤中漲幅。
-
----
-
-### 2026-08-27 21:33:33  #其他
-
-【奇瑞汽車：風雲T7上市24小時訂單達23188臺】8月27日晚，奇瑞汽車宣佈，風雲T7上市24小時訂單達23188臺。新車共推出3款版型，上市指導價9.79萬元至11.89萬元。
-
----
-
-### 2026-08-27 21:33:22  #公司
-
-【港股IPO：上海劇星傳媒股份有限公司遞表港交所】上海劇星傳媒股份有限公司向港交所提交上市申請書，獨家保薦人為浦銀國際。
-
----
-
-### 2026-08-27 21:33:17  #公司 #市場
-
-MODERNA股價在公司宣佈計劃發行20億美元可轉換債券後下跌3.6%。
-
----
-
-### 2026-08-27 21:33:06  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
-
-U.S. equities opened mixed on Thursday, Aug. 27: the Dow Jones Industrial Average fell 49.62 points, or 0.09%, to 53,414.26; the S&P 500 rose 18.93 points, or 0.25%, to 7,694.76; the Nasdaq Composite gained 190.55 points, or 0.73%, to 26,320.75.
-
----
-
-### 2026-08-27 21:32:58  #其他
-
-市場訊息：優步自 4 月以來人工智慧總支出保持穩定。
-
----
-
-### 2026-08-27 21:32:47  #Trading Economics #Markets #United States #stocks #Importance 1
-
-McDonalds Stock Price Hits 4-week Low — McDonalds shares decreased to 264.25 USD, the lowest since July 2026. Over the past 4 weeks, McDonalds lost 2.11%, and in the last 12 months, it decreased 14.92%.
-
----
-
-### 2026-08-27 21:32:41  #市場
-
-CrowdStrike漲10%，創自7月14日以來最大漲幅。
-
----
-
-### 2026-08-27 21:32:30  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Nvidia Supports US Stocks — US equities were mixed as strong results by Nvidia supported the tech sector, offsetting losses in the broader sectors of exchanges. The S&P 500 and Nasdaq 100 gained 0.4% and 0.7%, respectively, while the Dow inched lower. Nvidia surged 7% after soaring demand for AI compute drove the world's largest company to forecast a 70% surge in revenue next fiscal year, challenging the persistent skepticism that capital expenditure on AI infrastructure was bound to slow. The outlook supported other companies with exposure to AI infrastructure, with Micron, Marvell, Sandisk, Palo Alto, and GE Vernova adding between 6% and 3%. On the other hand, broader sectors were lower amid persistent concerns of an unfavorable macroeconomic backdrop. Long-term bond yields remained near their peaks amid widening federal deficits, soaring AI debt issuance, renewed tariffs with Canada and major trading partners, and risks of high energy inflation. Apple, Merck, and Visa fell over 1%.
-
----
-
-### 2026-08-27 21:32:06  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Southern Stock Price Hits 28-week Low — Southern shares decreased to 88.90 USD, the lowest since February 2026. Over the past 4 weeks, Southern Co. lost 7.55%, and in the last 12 months, it decreased 4.37%.
-
----
-
-### 2026-08-27 21:31:58  #市場 #焦點
-
-英偉達開盤大漲 7.1%，市值增加 3590 億美元。
-
----
-
-### 2026-08-27 21:31:39  #公司 #市場 #焦點
-
-英偉達股價上漲6.8%，此前該公司預計明年銷售額將增長70%。
-
----
-
-### 2026-08-27 21:31:13  #市場 #焦點 #國際
-
-美國股市漲幅擴大，納斯達克綜合指數上漲1.00%。
-
----
-
-### 2026-08-27 21:30:59  #市場
-
-WENDY'S股價大跌 15%，創 2020 年 3 月以來最大盤中跌幅。
-
----
-
-### 2026-08-27 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指跌0.13%，標普500指數漲0.38%，納指漲0.96%。賽富時漲13.99%，Veeva Systems Inc. Class A漲13.32%，CrowdStrike漲10.74%，百思買跌12.04%，惠普跌10.52%，美元樹跌7.15%。“七姐妹”方面：英偉達漲6.92%，特斯拉漲0.06%，Meta Platforms跌0.04%，微軟跌0.20%，亞馬遜跌0.24%，蘋果跌0.61%，谷歌跌0.71%。
-
----
-
-### 2026-08-27 21:30:37  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，名創優品跌4.92%，網易有道跌3.51%，百勝中國跌3.38%，BOSS直聘跌3.11%，阿特斯跌3.03%。
-
----
-
-### 2026-08-27 21:30:24  #市場
-
-【費城半導體指數日內漲2%】費城半導體指數日內漲2.23%，現報11870.16點。英偉達漲6.09%，博通漲1.65%，美光漲2.86%，英特爾漲2.03%，AMD跌0.19%，高通漲1.41%，臺積電漲1.75%，阿斯麥漲0.12%。
-
----
-
-### 2026-08-27 21:30:20  #市場
-
-多倫多證交所S&P/TSX綜合指數開盤下跌7.25點，跌幅0.02%，報36806.40點。
-
----
-
-### 2026-08-27 21:30:19  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Bank Of America Stock Price Hits 4-week Low — Bank Of America shares decreased to 61.51 USD, the lowest since July 2026. Over the past 4 weeks, Bank Of America gained 0.16%, and in the last 12 months, it increased 23.52%.
-
----
-
-### 2026-08-27 21:30:16  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Home Depot Stock Price Hits 4-week Low — Home Depot shares decreased to 328.54 USD, the lowest since July 2026. Over the past 4 weeks, Home Depot lost 0.37%, and in the last 12 months, it decreased 17.98%.
-
----
-
-### 2026-08-27 21:30:06  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Alphabet Stock Price Hits 4-week Low — Alphabet shares decreased to 336.45 USD, the lowest since July 2026. Over the past 4 weeks, Alphabet gained 4.73%, and in the last 12 months, it increased 64.84%.
-
----
-
-### 2026-08-27 21:28:58  #市場
-
-【機構：2026年上半年中國光電顯示產業投資金額約同比下降80.3%】CINNO Research統計資料顯示，2026年上半年中國光電顯示產業投資金額約為178億元，同比下降80.3%，投資規模較上年同期出現明顯回落。這一變化主要受多重因素疊加影響：消費電子終端需求復甦力度偏弱，面板價格經歷前期上漲後進入平穩期，行業整體擴產節奏放緩；同時，前兩年集中投資的LCD/OLED產線陸續進入產能釋放階段，新增建廠需求明顯減少，行業資本開支進入階段性收縮視窗。儘管總量大幅下滑，投資結構卻呈現鮮明的定向集中特徵。行業資本精準流向高技術壁壘、高國產替代迫切度的核心環節，反映出光電顯示產業已從“規模驅動”階段進入“技術驅動”階段。
-
----
-
-### 2026-08-27 21:28:06  #央行 #國際
-
-【美聯儲古爾斯比：三個月通脹看起來並不糟糕】芝加哥聯邦儲備銀行行長奧斯坦·古爾斯比表示，雖然政策制定者必須密切關注關稅和其他價格衝擊是否會持續存在，但最新資料顯示情況並不“糟糕”。古爾斯比在8月27日釋出的一段播客錄音中說：“如果看三個月的通脹資料，情況並不糟糕。” 形勢已經“稍微重新朝改善的方向發展”。古爾斯比說：“粗略來說，我認為在通脹率為2%的情況下，3%的利率——也就是1%的實際利率——對我來說，大致是形勢發展的一個寬泛目標。所有這一切都取決於通脹必須朝著2%回落”。他說：“我們有戰爭，有關稅，還有很多其他因素正在推高通脹，而我們正試圖弄清楚：這些是否是持續性的通脹衝擊”。古爾斯比說，關稅“本應只是一次性的影響。但只有在一次就結束的情況下才是如此，而不是不斷增加新的關稅”。
-
----
-
-### 2026-08-27 21:28:01  #MKT News #Market Regions #Europe & UK
-
-【Pentagon questionnaire presses European allies; seeks to accelerate transfer of defense duties】A senior Pentagon official said Washington, amid a review of U.S. force posture in Europe, wants to "advance and accelerate" transfer of most conventional defense responsibilities to European partners. Deputy Undersecretary for Policy Colby arrived in Brussels to brief NATO allies on a six-month review due to conclude by year-end that could substantially alter U.S. deployments in Europe. As part of the process allies received a questionnaire due this Friday asking whether they "publicly support" Trump’s foreign policy, whether they restrict use of U.S. military bases, and whether they purchase from U.S. defense contractors. Colby said the U.S. seeks allies' views in writing.
 
 ---

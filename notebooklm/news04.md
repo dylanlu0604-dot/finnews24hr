@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-30 05:25:55_
-_本檔包含 2562 則快訊，約 556169 字_
+_更新時間：2026-08-30 08:03:11_
+_本檔包含 2567 則快訊，約 556354 字_
+
+---
+
+### 2026-08-25 19:57:34  #其他
+
+【烏蘭察布山洪4人遇難】記者從內蒙古相關部門獲悉，今天15時，位於內蒙古烏蘭察布市興和縣大同夭鄉包家營村因突發山洪，有人員失聯，一輛車過漫水橋時被水沖走，車內5人已確定4人死亡，1人正在搜救。（央視新聞）
+
+---
+
+### 2026-08-25 19:57:06  #其他
+
+【重組AI遊戲部門？騰訊相關人士回應】針對騰訊互動娛樂事業群（IEG）重組AI遊戲部門一事，騰訊相關人士稱，該報道內容存在大量失實，所謂“成立新部門”系誤讀。近日有訊息稱，IEG正在重組AI遊戲部門，將IEG CROS（騰訊遊戲技術中臺）旗下的ARC Lab與遊戲AI引擎部整合，並規劃擴大至400-500人。上述相關人士還表示，遊戲技術公線本就設有遊戲AI引擎部，長期對外招募AI專業人才。該部門聚焦遊戲研運管線的AI提效與玩法創新，旨在為遊戲專案提供可複用的技術能力和解決方案。 (新京報）
+
+---
+
+### 2026-08-25 19:56:31  #公司
+
+蒙特利爾銀行執行長：各省與渥太華方面眼下應當削減繁文縟節。
+
+---
+
+### 2026-08-25 19:56:24  #公司
+
+【溫氏股份：擬以參股公司股權置換拉塞特股權】溫氏股份公告稱，公司擬將持有的參股子公司欣農互聯39.20%股權作價3136萬元出資，認繳關聯方拉塞特新增註冊資本14.2587萬元，佔交易後拉塞特註冊資本的1.0199%。本次交易構成關聯交易，在董事長審批許可權內，已經獨立董事專門會議同意，無需提交董事會審議，不構成重大資產重組。交易完成後拉塞特將持有欣農互聯100%股權，本次交易不會導致公司合併報表範圍變化。
+
+---
+
+### 2026-08-25 19:56:09  #公司 #焦點
+
+【溫氏股份：2026年上半年淨利潤虧損43.66億元，同比由盈轉虧】溫氏股份公告，2026年上半年營業收入467.47億元，同比下降6.23%；歸屬於上市公司股東的淨利潤虧損43.66億元，上年同期為34.75億元，同比由盈轉虧；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損44.79億元，上年同期為32.56億元，同比由盈轉虧。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:55:55  #公司
+
+【海晨股份：2026年上半年淨利潤1643.4萬元，同比下降87.38%】海晨股份公告，2026年上半年營業收入10.13億元，同比增長16.13%；歸屬於上市公司股東的淨利潤1643.4萬元，同比下降87.38%，2025年同期為1.3億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤8396.59萬元，同比下降24.65%，2025年同期為1.11億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:55:53  #公司
+
+【潤建股份：2026年上半年淨利潤2678.74萬元，同比下降31.72%】潤建股份公告，2026年上半年營業收入37.56億元，同比下降22.83%；歸屬於上市公司股東的淨利潤2678.74萬元，同比下降31.72%，2025年上半年為3923.24萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1999.18萬元，同比下降37.83%。公司擬以2.84億股為基數，每10股派發現金紅利0.18元（含稅）。
+
+---
+
+### 2026-08-25 19:55:50  #公司
+
+溫氏股份：上半年淨虧損43.7億元人民幣。
+
+---
+
+### 2026-08-25 19:55:35  #其他
+
+【烏茲別克地方官員：中國技術助力產業轉型升級】烏茲別克納曼幹州州長阿卜杜拉扎科夫近日在接受專訪時表示，納曼幹州正全面深化同中國的務實合作，目前該州與中國企業合作專案超70個，涵蓋基建、建材及綠色能源等領域。中國的投資與先進技術助力當地產業轉型升級，為當地經濟社會發展注入強勁動力。（新華社）
+
+---
+
+### 2026-08-25 19:55:26  #公司 #焦點
+
+蒙特利爾銀行執行長：政府扶持將緩解關稅帶來的衝擊。
+
+---
+
+### 2026-08-25 19:55:00  #經濟數據 #美國
+
+【美國7月營建許可修正為環比增長4.3% 前值5.0%】美國7月營建許可修正為環比增長4.3%，前值5.0%；年化率修正為143.3萬套，前值144.3萬套。
+
+---
+
+### 2026-08-25 19:54:00  #公司
+
+【中原證券：2026年上半年淨利潤4.19億元，同比增長61.07%】中原證券公告，2026年上半年營業收入12.62億元，同比增長36.96%；歸屬於上市公司股東的淨利潤4.19億元，同比增長61.07%；歸屬於上市公司股東的扣除非經常性損益的淨利潤3.97億元，同比增長56.93%。公司擬每10股派發現金紅利人民幣0.12元（含稅），合計擬派發現金紅利人民幣5571.46萬元（含稅）。
+
+---
+
+### 2026-08-25 19:53:29  #公司
+
+【牧原股份：8月25日回購11.38萬股H股】牧原股份公告稱，2026年8月25日公司透過香港聯交所回購H股113,800股，佔回購授權決議透過當日已發行H股（不含庫存股）的0.0367%，每股回購價區間為32.94港元至33.7港元，總耗資379.84萬港元，所購股份擬持作庫存股。本次回購所用授權於2026年5月13日獲批，授權可回購H股總數為31,022,310股。回購後新股發行、庫存股出售或轉讓的暫止期至2026年9月24日。
+
+---
+
+### 2026-08-25 19:53:09  #其他
+
+【浙江省委書記王浩主持召開省委專題會議 研究颱風“沙德爾”防禦應對工作】據浙江日報，25日下午，浙江省委書記王浩主持召開省委專題會議，研判18號颱風“沙德爾”最新走勢，部署防禦應對工作。他強調，要堅持人民至上、生命至上，高度重視、迅速行動、科學應對，確保守住“三條底線”，實現“不死人、少傷人、少損失”的目標，堅決守護好人民群眾生命財產安全。
+
+---
+
+### 2026-08-25 19:53:02  #宏觀
+
+【商務部：第二十六屆投洽會期間將舉辦16場“投資中國”活動】今天，國務院新聞辦公室舉行新聞釋出會，商務部有關負責人表示，在第二十六屆中國國際投資貿易洽談會期間，將舉辦“投資中國”系列活動，溝通政策動向，推動產業對接，擦亮“投資中國”名片。商務部外國投資管理司司長孟華婷介紹，投洽會是“投資中國”境內重要活動的核心載體。在第二十六屆投洽會期間，將圍繞重點國別、重點產業、重點平臺舉辦16場“投資中國”活動，多方位展示中國投資機遇。（央視新聞）
+
+---
+
+### 2026-08-25 19:52:42  #國際
+
+美國7月建築許可資料修正：環比增幅從初值5.0%下修至4.3%，年化許可戶數從初值144.3萬戶下修至143.3萬戶。
+
+---
+
+### 2026-08-25 19:51:56  #公司
+
+【振華科技：2026年上半年淨利潤2.47億元，同比下降20.99%】振華科技公告，2026年上半年營業收入22.42億元，同比下降6.97%；歸屬於上市公司股東的淨利潤2.47億元，同比下降20.99%，2025年同期為3.12億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2.13億元，同比下降24.33%，2025年同期為2.81億元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-25 19:51:54  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
+
+Swiss Bond Yield Eases From One-Week High — Switzerland’s 10-year government bond yield traded below 0.4%, after reaching a one-week high, as investors continued to assess inflation risks stemming from the conflict in the Middle East and their impact on monetary policy. Still, Swiss inflation slowed to 0.4% in July, with the SNB expected to hold its policy rate at 0% through 2027, while further cuts are viewed as a contingency rather than the base case. Most economists expect the first rate hike in early 2028, while markets are pricing in one as early as March 2027. However, US trade policy remains a key uncertainty. On the other hand, quarterly economic growth accelerated to 1.5% in Q2 2026, the strongest pace since 2021, while foreign exchange interventions supported exporters and helped lift the trade surplus to a record high by limiting safe-haven flows into the franc and preventing excessive appreciation. Meanwhile, the elimination of Chinese tariffs on nearly all Swiss exports could provide further support for exporters.
+
+---
+
+### 2026-08-25 19:51:50  #公司
+
+【雪祺電氣：2026年上半年淨利潤1102.83萬元，同比下降68.49%】雪祺電氣公告，2026年上半年營業收入12.63億元，同比增長40.86%；歸屬於上市公司股東的淨利潤1102.83萬元，同比下降68.49%，2025年同期為3499.46萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤871.24萬元，同比下降73.83%，2025年同期為3329.39萬元。淨利潤下降主要受匯兌損益、股份支付費用影響。
+
+---
+
+### 2026-08-25 19:51:35  #公司
+
+【英飛特：2026年上半年淨利潤2154.5萬元，同比扭虧為盈】英飛特公告，2026年上半年營業收入11.49億元，同比增長3.35%；歸屬於上市公司股東的淨利潤2154.5萬元，2025年同期虧損4235.52萬元，同比扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤152.78萬元，2025年同期虧損4294.63萬元，同比扭虧為盈。
+
+---
+
+### 2026-08-25 19:51:32  #公司
+
+【宇信科技：2026年上半年淨利潤3.09億元，同比增長40.34%】宇信科技公告，2026年上半年營業收入12.91億元，同比下降8.75%；歸屬於上市公司股東的淨利潤3.09億元，同比增長40.34%，2025年上半年為2.2億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1.95億元，同比下降9.51%，2025年上半年為2.16億元。
+
+---
+
+### 2026-08-25 19:51:23  #公司
+
+【多瑞醫藥：擬轉讓湖北多瑞100%股權暨關聯交易】多瑞醫藥公告稱，公司擬將持有的子公司湖北多瑞藥業有限公司100%股權轉讓給持股5%以上股東西藏嘉康時代科技發展有限公司，交易作價7726.45萬元。本次交易構成關聯交易，不構成重大資產重組，完成後公司不再持有湖北多瑞股權，其不再納入合併報表範圍。截至2026年5月31日，湖北多瑞淨資產5890.63萬元，2026年1-5月淨虧損713.81萬元。公司對湖北多瑞應收款項3780.97萬元，將在股權變更登記前由西藏嘉康協助償還。本次交易尚需提交公司股東會審議，所得款項用於補充公司流動資金。
+
+---
+
+### 2026-08-25 19:51:07  #市場
+
+【集邦諮詢：儲存器合約價持續飆升，預估2027年佔主要CSP資本支出比重將達68%】根據TrendForce集邦諮詢最新儲存器產業研究，全球主要雲端服務供應商（CSP）為加速建設AI基礎設施，資本支出預估於2026年將年增98%，2027年再成長50%，大幅成長的原因，部分可歸因於儲存器合約價劇增、採購需求的強勁成長。TrendForce集邦諮詢預估，DRAM、NAND Flash合計在CSP資本支出的佔比，將從2026年的47%，進一步擴張至2027年的68%。
 
 ---
 
@@ -15325,113 +15463,5 @@ Mistral 與 Humain 宣佈開展戰略合作，助力沙烏地阿拉伯及中東�
 ### 2026-08-25 02:54:01  #Trading Economics #Markets #United States #Currency #Importance 2
 
 Dollar Holds Near Three-Month Low as Risks Persist — The dollar index edged up to 99.0 on Monday but remained near three-month lows after its third weekly decline in four. The greenback stayed under pressure following the US Treasury’s decision to double buyback operations for longer-dated bonds, with reports suggesting Secretary Scott Bessent could use nearly $1 trillion from the Treasury’s General Account to help fund them. Meanwhile, trade tensions with Canada intensified after Washington imposed 50% tariffs on Canadian goods, with Ottawa pledging dollar-for-dollar retaliation. President Donald Trump also said tariffs on cars, trucks, auto parts and steel would rise to 50% from January 1, 2027. On the geopolitical front, the US expanded secondary sanctions targeting entities and countries maintaining business ties with Iran. Bessent warned that a major financial institution could be sanctioned this week and suggested China would not be exempt.
-
----
-
-### 2026-08-25 02:51:04  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude futures settled at $92.17/bbl, down $2.22 (-2.35%).
-
----
-
-### 2026-08-25 02:50:58  #MKT News #Macro & Rates #US Economy
-
-Iran's economy minister said Tehran is fully prepared for a new round of U.S. economic pressure and that cutting off Iran's financial and commercial lifelines would not be easy.
-
----
-
-### 2026-08-25 02:48:23  #國際
-
-伊朗：切斷（我方）金融與商業命脈並非易事。
-
----
-
-### 2026-08-25 02:48:08  #國際
-
-伊朗經濟部長：伊朗已 “做好充分準備” 應對美國新一輪經濟攻勢。
-
----
-
-### 2026-08-25 02:46:50  #宏觀 #公司 #市場 #國際
-
-【貝森特未釋放更多美債措施訊號 此前報道稱財政部或動用現金回購債券】美國財政部長斯科特·貝森特週一沒有進一步釋放有關調整美國債務管理方式的訊號。此前有報道稱，美國財政部可能動用部分現金儲備，為回購收益率較高的存量國債提供資金。貝森特週一在新聞釋出會上被問及是否很快會擴大回購時表示，“我們甚至還一隻債券都沒買。”在長期美債收益率升至多年最高水平後，貝森特上週宣佈了擴大後的國債回購計劃。週一被問及是否也在考慮縮減國債拍賣規模時，他表示，財政部將“繼續執行常規發行計劃”。他示意，在11月初下一次所謂的季度再融資公告發布之前，不會作出調整。
-
----
-
-### 2026-08-25 02:42:32  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Slips as Markets Await US Inflation and Fed Signals — Silver erased early gains to trade slightly lower at around $68.5 an ounce on Monday, remaining near its highest level since mid-June. Investors are awaiting US inflation data and comments from Federal Reserve Chair Kevin Warsh this week for further clues on the interest-rate outlook. Silver gained more than 6% last week after a US Treasury buyback support plan pushed the dollar to multi-month lows. Markets are focused on the July PCE price index due Wednesday and Warsh’s speech at the Jackson Hole Symposium on Friday. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries maintaining business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt.
-
----
-
-### 2026-08-25 02:39:38  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Holds Near Three-Month High as Dollar Remains Under Pressure — Gold pared earlier gains on Monday afternoon but remained around $4,640 an ounce, its highest level since May 14, as technical buying supported a rally fueled by a weaker dollar and the US Treasury’s recent buyback announcement. Bullion gained more than 5% last week after the buyback plan pushed the dollar to multi-month lows. Markets are now focused on the July PCE price index due Wednesday and Fed Chair Kevin Warsh’s speech at the Jackson Hole Symposium on Friday for clues on the interest-rate outlook. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries that maintain business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt.
-
----
-
-### 2026-08-25 02:36:37  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Yemen's Houthi movement said all units and branches are at highest combat readiness. It warned Saudi Arabia, Israel, the United States and their allies that their previous rules have failed, urged them not to take 'stupid actions', and said it would respond militarily and alter the regional balance of power if they do.
-
----
-
-### 2026-08-25 02:34:15  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
-
-【Night session main contracts close】At the 02:30 close, SHFE gold main contract rose 0.61% to 1,006 yuan/gram; SHFE silver main contract fell 0.65% to 16,775 yuan/kg; SC crude oil main contract fell 0.98% to 588 yuan/barrel.
-
----
-
-### 2026-08-25 02:34:10  #公司
-
-巴西石油公司：旗下煉廠柴油加氫處理裝置的S-10柴油加工能力將達到每天5500立方米。已批准啟動REPAR煉油廠柴油加氫處理裝置採購競爭流程。批准啟動競爭性招標流程，並不代表最終決定實施該裝置建設。
-
----
-
-### 2026-08-25 02:34:06  #MKT News
-
-Petrobras said S-10 diesel hydrotreating capacity at one of its refineries will reach 5,500 cubic meters per day. The company approved launching a competitive procurement process for a hydrotreating unit at the REPAR refinery. Petrobras said approval to start competitive bidding does not constitute a final decision to build the unit.
-
----
-
-### 2026-08-25 02:31:09  #MKT News
-
-U.S. crude futures settled at $85.01 per barrel, down $2.05, or 2.35%.
-
----
-
-### 2026-08-25 02:31:01  #市場
-
-WTI 10月原油期貨收報85.01美元/桶。NYMEX 9月天然氣期貨收報2.7820美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.2708美元/加侖，NYMEX 9月取暖油期貨收報4.2677美元/加侖。
-
----
-
-### 2026-08-25 02:30:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D closed up 0.09% at 1,000.78 yuan/gram in the Aug. 24 evening session; silver T+D closed down 0.74% at 16,655.0 yuan/kg.
-
----
-
-### 2026-08-25 02:30:02  #市場
-
-上期所原油期貨夜盤收跌0.98%，報587.80元人民幣/桶。滬金夜盤收漲0.61%，滬銀收跌0.65%。
-
----
-
-### 2026-08-25 02:30:02  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: XRP Depreciates by 2.53% — Top crypto loser is XRP (-2.53%). Gains are led by Bitcoin (1.64%) and Ether (0.59%).
-
----
-
-### 2026-08-25 02:25:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Surges by 5.94% — Top commodity gainers are Coffee (5.94%) and Corn (1.49%). Biggest losers are Canola (-3.34%), Rapeseed (-2.92%) and Cocoa (-1.74%).
-
----
-
-### 2026-08-25 02:24:43  #MKT News #Market Regions #Europe & UK
-
-【Macron meets Saudi crown prince Mohammed in Paris】French President Macron met Saudi Crown Prince Mohammed, who also serves as prime minister, at the Élysée Palace in Paris on Aug 24.
 
 ---

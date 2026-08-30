@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-30 05:25:55_
-_本檔包含 2791 則快訊，約 555669 字_
+_更新時間：2026-08-30 08:03:11_
+_本檔包含 2811 則快訊，約 556936 字_
+
+---
+
+### 2026-08-27 21:36:09  #市場
+
+芝加哥期權交易所波動率指數觸及一週低點，最新下跌0.17點，報15.04。
+
+---
+
+### 2026-08-27 21:36:06  #MKT News #Market Themes #Chip Wars #SOXX.O #Impact bullish #ROAM.O
+
+iShares Semiconductor ETF rose 2.0%; Roundhill Memory ETF gained 2.2%.
+
+---
+
+### 2026-08-27 21:36:04  #宏觀 #國際
+
+印度市場監管機構：將制定非計劃性假日結算相關運營活動的標準操作程式。
+
+---
+
+### 2026-08-27 21:35:51  #公司 #市場
+
+溫蒂漢堡股價下跌13%，此前有報道稱特里安基金暫無收購該公司的計劃。
+
+---
+
+### 2026-08-27 21:35:38  #公司
+
+道明銀行執行長Raymond Chun表示，貿易緊張局勢並未削弱加拿大的投資機會，因各級政府正尋求推動新的經濟活動。
+
+---
+
+### 2026-08-27 21:35:36  #MKT News #MRNA.O #Impact bearish
+
+Moderna (MRNA.O) shares fell 3.6% after the company announced plans to issue $2 billion of convertible bonds.
+
+---
+
+### 2026-08-27 21:35:30  #公司
+
+多倫多道明銀行執行長Raymond Chun表示：預計2026財年總信貸損失撥備率將接近此前40至50個基點區間的低端。
+
+---
+
+### 2026-08-27 21:35:21  #市場
+
+OKTA股價上漲25%，觸及2022年以來的最高盤中水平。
+
+---
+
+### 2026-08-27 21:35:18  #MKT News
+
+【Baltic Dry Index posts sixth straight gain, hits nearly three-month high】The Baltic Dry Index rose for a sixth consecutive session on Thursday to a nearly three-month high as freight rates across vessel classes advanced. The BDI climbed 51 points, or 1.7%, to 3,107. The Baltic Capesize Index (BCI) gained 105 points, or 2.1%, to 5,138 — its highest since June 3; Capesize average daily earnings rose $950 to $43,098. The Baltic Panamax Index (BPI) added 46 points, or 2.1%, to 2,292, its highest since Aug. 12; Panamax average daily earnings increased $419 to $20,632. The Baltic Supramax Index (BSI) ticked up 1 point, or 0.06%, to 1,645.
+
+---
+
+### 2026-08-27 21:35:15  #公司 #市場
+
+美股雲端計算公司股價上漲，Nebius漲5%，Coreweave上漲2.6%。
+
+---
+
+### 2026-08-27 21:35:11  #MKT News #NBIS.O #Impact bullish #CRWV.O
+
+U.S. cloud computing stocks rose: Nebius (NBIS.O) up 5%, Coreweave (CRWV.O) up 2.6%.
+
+---
+
+### 2026-08-27 21:34:47  #公司
+
+【盛屯礦業：向西藏吉隆災區捐贈1000萬元】盛屯礦業公告稱，尼泊爾一側爆發泥石流災害波及西藏日喀則市吉隆縣吉隆口岸，公司決定向西藏自治區慈善總會捐贈1000萬元，專項用於西藏吉隆災區搶險救援、受災群眾臨時安置、生活保障及後續災後重建等工作。本次捐贈無需提交董事會及股東會審議，不涉及關聯交易，不構成重大資產重組，資金來源於公司自有資金，對公司當期及未來經營業績不構成重大影響。
+
+---
+
+### 2026-08-27 21:34:45  #公司
+
+【泛微網路：王晨志、楊國生擬減持不超過0.0442%股份】泛微網路公告，董事、副總經理王晨志因個人資金需求，擬於2026年9月18日至2026年12月17日透過集中競價減持不超過81000股，約佔總股本0.0263%；副總經理楊國生擬減持不超過55000股，約佔總股本0.0179%。二人合計擬減持不超過13.6萬股，佔總股本比例不超過0.0442%。
+
+---
+
+### 2026-08-27 21:34:40  #其他 #焦點
+
+美股半導體股走高，Arm漲3.7%，SK海力士漲3.6%，英特爾漲3.5%，博通漲2.5%。
+
+---
+
+### 2026-08-27 21:34:16  #市場
+
+布倫特原油日內漲1%，現報87.84美元/桶。
+
+---
+
+### 2026-08-27 21:34:14  #市場
+
+賽富時在上調全年業績預期後，股價大漲13.8%。
+
+---
+
+### 2026-08-27 21:34:02  #市場
+
+惠普股價下跌10%，因第三季度個人電腦業務出貨量與利潤率雙雙下滑。
+
+---
+
+### 2026-08-27 21:33:55  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) rose 7.1% in early trade, adding $359 bln to its market value.
+
+---
+
+### 2026-08-27 21:33:39  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #INTC.O #AVGO.O
+
+U.S. semiconductor stocks rose, led by NVIDIA (NVDA.O) up over 6%; Arm (ARM.O) +3.7%, SK Hynix (SKHY.O) +3.6%, Intel (INTC.O) +3.5% and Broadcom (AVGO.O) +2.5%.
+
+---
+
+### 2026-08-27 21:33:37  #市場
+
+北美科技軟體股指數ETF漲超3.8%，在美股盤初報106.41美元。CrowdStrike漲10%，創7月14日以來最大盤中漲幅。
+
+---
+
+### 2026-08-27 21:33:33  #其他
+
+【奇瑞汽車：風雲T7上市24小時訂單達23188臺】8月27日晚，奇瑞汽車宣佈，風雲T7上市24小時訂單達23188臺。新車共推出3款版型，上市指導價9.79萬元至11.89萬元。
+
+---
+
+### 2026-08-27 21:33:22  #公司
+
+【港股IPO：上海劇星傳媒股份有限公司遞表港交所】上海劇星傳媒股份有限公司向港交所提交上市申請書，獨家保薦人為浦銀國際。
+
+---
+
+### 2026-08-27 21:33:17  #公司 #市場
+
+MODERNA股價在公司宣佈計劃發行20億美元可轉換債券後下跌3.6%。
+
+---
+
+### 2026-08-27 21:33:06  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
+
+U.S. equities opened mixed on Thursday, Aug. 27: the Dow Jones Industrial Average fell 49.62 points, or 0.09%, to 53,414.26; the S&P 500 rose 18.93 points, or 0.25%, to 7,694.76; the Nasdaq Composite gained 190.55 points, or 0.73%, to 26,320.75.
+
+---
+
+### 2026-08-27 21:32:58  #其他
+
+市場訊息：優步自 4 月以來人工智慧總支出保持穩定。
+
+---
+
+### 2026-08-27 21:32:47  #Trading Economics #Markets #United States #stocks #Importance 1
+
+McDonalds Stock Price Hits 4-week Low — McDonalds shares decreased to 264.25 USD, the lowest since July 2026. Over the past 4 weeks, McDonalds lost 2.11%, and in the last 12 months, it decreased 14.92%.
+
+---
+
+### 2026-08-27 21:32:41  #市場
+
+CrowdStrike漲10%，創自7月14日以來最大漲幅。
+
+---
+
+### 2026-08-27 21:32:30  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Nvidia Supports US Stocks — US equities were mixed as strong results by Nvidia supported the tech sector, offsetting losses in the broader sectors of exchanges. The S&P 500 and Nasdaq 100 gained 0.4% and 0.7%, respectively, while the Dow inched lower. Nvidia surged 7% after soaring demand for AI compute drove the world's largest company to forecast a 70% surge in revenue next fiscal year, challenging the persistent skepticism that capital expenditure on AI infrastructure was bound to slow. The outlook supported other companies with exposure to AI infrastructure, with Micron, Marvell, Sandisk, Palo Alto, and GE Vernova adding between 6% and 3%. On the other hand, broader sectors were lower amid persistent concerns of an unfavorable macroeconomic backdrop. Long-term bond yields remained near their peaks amid widening federal deficits, soaring AI debt issuance, renewed tariffs with Canada and major trading partners, and risks of high energy inflation. Apple, Merck, and Visa fell over 1%.
+
+---
+
+### 2026-08-27 21:32:06  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Southern Stock Price Hits 28-week Low — Southern shares decreased to 88.90 USD, the lowest since February 2026. Over the past 4 weeks, Southern Co. lost 7.55%, and in the last 12 months, it decreased 4.37%.
+
+---
+
+### 2026-08-27 21:31:58  #市場 #焦點
+
+英偉達開盤大漲 7.1%，市值增加 3590 億美元。
+
+---
+
+### 2026-08-27 21:31:39  #公司 #市場 #焦點
+
+英偉達股價上漲6.8%，此前該公司預計明年銷售額將增長70%。
+
+---
+
+### 2026-08-27 21:31:13  #市場 #焦點 #國際
+
+美國股市漲幅擴大，納斯達克綜合指數上漲1.00%。
+
+---
+
+### 2026-08-27 21:30:59  #市場
+
+WENDY'S股價大跌 15%，創 2020 年 3 月以來最大盤中跌幅。
+
+---
+
+### 2026-08-27 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指跌0.13%，標普500指數漲0.38%，納指漲0.96%。賽富時漲13.99%，Veeva Systems Inc. Class A漲13.32%，CrowdStrike漲10.74%，百思買跌12.04%，惠普跌10.52%，美元樹跌7.15%。“七姐妹”方面：英偉達漲6.92%，特斯拉漲0.06%，Meta Platforms跌0.04%，微軟跌0.20%，亞馬遜跌0.24%，蘋果跌0.61%，谷歌跌0.71%。
+
+---
+
+### 2026-08-27 21:30:37  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，名創優品跌4.92%，網易有道跌3.51%，百勝中國跌3.38%，BOSS直聘跌3.11%，阿特斯跌3.03%。
+
+---
+
+### 2026-08-27 21:30:24  #市場
+
+【費城半導體指數日內漲2%】費城半導體指數日內漲2.23%，現報11870.16點。英偉達漲6.09%，博通漲1.65%，美光漲2.86%，英特爾漲2.03%，AMD跌0.19%，高通漲1.41%，臺積電漲1.75%，阿斯麥漲0.12%。
+
+---
+
+### 2026-08-27 21:30:20  #市場
+
+多倫多證交所S&P/TSX綜合指數開盤下跌7.25點，跌幅0.02%，報36806.40點。
+
+---
+
+### 2026-08-27 21:30:19  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Bank Of America Stock Price Hits 4-week Low — Bank Of America shares decreased to 61.51 USD, the lowest since July 2026. Over the past 4 weeks, Bank Of America gained 0.16%, and in the last 12 months, it increased 23.52%.
+
+---
+
+### 2026-08-27 21:30:16  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Home Depot Stock Price Hits 4-week Low — Home Depot shares decreased to 328.54 USD, the lowest since July 2026. Over the past 4 weeks, Home Depot lost 0.37%, and in the last 12 months, it decreased 17.98%.
+
+---
+
+### 2026-08-27 21:30:06  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Alphabet Stock Price Hits 4-week Low — Alphabet shares decreased to 336.45 USD, the lowest since July 2026. Over the past 4 weeks, Alphabet gained 4.73%, and in the last 12 months, it increased 64.84%.
+
+---
+
+### 2026-08-27 21:28:58  #市場
+
+【機構：2026年上半年中國光電顯示產業投資金額約同比下降80.3%】CINNO Research統計資料顯示，2026年上半年中國光電顯示產業投資金額約為178億元，同比下降80.3%，投資規模較上年同期出現明顯回落。這一變化主要受多重因素疊加影響：消費電子終端需求復甦力度偏弱，面板價格經歷前期上漲後進入平穩期，行業整體擴產節奏放緩；同時，前兩年集中投資的LCD/OLED產線陸續進入產能釋放階段，新增建廠需求明顯減少，行業資本開支進入階段性收縮視窗。儘管總量大幅下滑，投資結構卻呈現鮮明的定向集中特徵。行業資本精準流向高技術壁壘、高國產替代迫切度的核心環節，反映出光電顯示產業已從“規模驅動”階段進入“技術驅動”階段。
+
+---
+
+### 2026-08-27 21:28:06  #央行 #國際
+
+【美聯儲古爾斯比：三個月通脹看起來並不糟糕】芝加哥聯邦儲備銀行行長奧斯坦·古爾斯比表示，雖然政策制定者必須密切關注關稅和其他價格衝擊是否會持續存在，但最新資料顯示情況並不“糟糕”。古爾斯比在8月27日釋出的一段播客錄音中說：“如果看三個月的通脹資料，情況並不糟糕。” 形勢已經“稍微重新朝改善的方向發展”。古爾斯比說：“粗略來說，我認為在通脹率為2%的情況下，3%的利率——也就是1%的實際利率——對我來說，大致是形勢發展的一個寬泛目標。所有這一切都取決於通脹必須朝著2%回落”。他說：“我們有戰爭，有關稅，還有很多其他因素正在推高通脹，而我們正試圖弄清楚：這些是否是持續性的通脹衝擊”。古爾斯比說，關稅“本應只是一次性的影響。但只有在一次就結束的情況下才是如此，而不是不斷增加新的關稅”。
+
+---
+
+### 2026-08-27 21:28:01  #MKT News #Market Regions #Europe & UK
+
+【Pentagon questionnaire presses European allies; seeks to accelerate transfer of defense duties】A senior Pentagon official said Washington, amid a review of U.S. force posture in Europe, wants to "advance and accelerate" transfer of most conventional defense responsibilities to European partners. Deputy Undersecretary for Policy Colby arrived in Brussels to brief NATO allies on a six-month review due to conclude by year-end that could substantially alter U.S. deployments in Europe. As part of the process allies received a questionnaire due this Friday asking whether they "publicly support" Trump’s foreign policy, whether they restrict use of U.S. military bases, and whether they purchase from U.S. defense contractors. Colby said the U.S. seeks allies' views in writing.
 
 ---
 
@@ -16701,143 +16959,5 @@ Volkswagen CEO Oliver Blume said labor costs are currently more than twice those
 ### 2026-08-26 17:42:52  #MKT News #XAUUSD #Impact bullish #DXY #Impact mixed
 
 Iran's equity rally is best read as an asset re-pricing in a high-inflation environment, not a traditional fundamentals-driven bull market. Key market signals to watch: whether TEDPIX can hold above 6,000,000; whether the rial continues to weaken; whether inflation remains near 90%; whether gold/USD keeps rising; and whether real profits at export-oriented petrochemical, steel and mining firms improve. If stocks rise while the rial stabilizes, inflation falls and corporate earnings recover, that would signal a substantive economic rebound. If instead stocks rise alongside a weaker rial, higher gold and inflation stuck near 90%, the rally is likely driven by cash flight and hedging of currency depreciation and inflation rather than underlying economic repair.
-
----
-
-### 2026-08-26 17:42:46  #公司
-
-【*ST天箭：2026年上半年營收同比降78.28%】*ST天箭公告稱，2026年上半年實現營業收入1469.22萬元，同比下降78.28%；歸屬於上市公司股東的淨虧損198.72萬元，同比減虧69.78%；扣除非經常性損益的淨虧損209.05萬元，同比減虧69.28%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。報告期末普通股股東總數為14102戶，控股股東及實際控制人未發生變更。
-
----
-
-### 2026-08-26 17:42:31  #公司
-
-【迪阿股份：2026年半年度淨利潤3529.1萬元，同比下降53.57%】迪阿股份公告，2026年上半年營業收入7.35億元，同比下降6.48%；歸屬於上市公司股東的淨利潤3529.1萬元，同比下降53.57%，2025年同期為7600.12萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損6774.29萬元，2025年同期為230.42萬元，同比由盈轉虧。
-
----
-
-### 2026-08-26 17:42:28  #宏觀
-
-【江蘇：推進“人工智慧+醫療健康”行動】江蘇省印發《江蘇省促進生物醫藥產業高質量發展三年行動計劃》。其中指出，推進“人工智慧+醫療健康”行動。升級完善省全民健康資訊平臺，建立統一資料採集通道，推動醫療、醫保、醫藥等資料開發利用。制定行業高質量資料集建設指南，釋出一批高質量資料集，支撐大模型訓練。依託全省一體化算力監測排程平臺，加強算力資源統籌，推動“Token券”政策出臺，降低算力使用成本。依託科研平臺、重點企業加強核心技術攻關，形成一批臨床專病專科垂直大模型。
-
----
-
-### 2026-08-26 17:42:25  #公司
-
-【友好集團：擬與京東五星電器簽訂租賃合同議案獲股東會透過】友好集團公告稱，公司2026年第二次臨時股東會審議透過《關於擬與京東五星電器集團有限公司簽訂租賃合同的議案》。本次會議由董事會召集，採取現場投票與網路投票相結合的方式表決，出席會議的股東所持有表決權股份數佔公司有表決權股份總數的37.9874%，該議案A股同意票佔比99.9489%。本次股東會的召集、召開及表決程式合法有效。
-
----
-
-### 2026-08-26 17:42:07  #公司
-
-【利揚晶片：黃主擬減持利揚晶片不超過0.5530%股份】利揚晶片公告，股東、董事、實際控制人及控股股東的一致行動人黃主持有公司股份515.99萬股，佔總股本2.2136%，擬透過集中競價交易、大宗交易等方式減持不超過128.9萬股，佔總股本不超過0.5530%，減持期間為2026年9月18日～2026年12月17日。
-
----
-
-### 2026-08-26 17:41:51  #公司
-
-【金盃汽車：2026年上半年淨利潤9291.28萬元，同比下降9.70%】金盃汽車公告，2026年上半年營業收入23.49億元，同比增長10.16%；歸屬於上市公司股東的淨利潤9291.28萬元，同比下降9.70%，2025年同期為1.03億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤8559.23萬元，同比增長9.15%。公司擬每10股派發現金紅利0.1元（含稅），合計擬派發現金紅利1304.56萬元（含稅）。
-
----
-
-### 2026-08-26 17:41:48  #公司
-
-【達卯科技全棧式算電協同服務在閩落子】近日，達卯科技與福建智算方舟科技有限公司達成深度合作，為長樂機場綜保區人工智慧智算中心（一期）提供全棧式算電協同服務，助力打造東南沿海標杆級綠色智算樞紐。據悉，長樂機場綜保區人工智慧智算中心（一期）規劃15000P算力規模，建成後將填補東南沿海高階智算供給缺口。
-
----
-
-### 2026-08-26 17:41:31  #公司
-
-【伊利股份：擬10億元-20億元回購股份並登出】伊利股份公告稱，公司擬以集中競價交易方式回購股份，回購資金總額不低於10億元（含）且不超過20億元（含），資金來源為自有資金，回購價格不超過39.53元/股。按回購價格上限測算，預計回購股份數量為2529.72萬股-5059.45萬股，佔公司總股本的0.40%-0.80%。本次回購股份將全部登出並減少註冊資本，實施期限為自股東會審議透過回購方案之日起不超過6個月。本次回購方案尚需提交公司股東會審議透過。
-
----
-
-### 2026-08-26 17:41:04  #公司 #焦點
-
-【伊利股份：2026年上半年營收643.31億元 淨利同比降20.02%】伊利股份公告稱，2026年上半年實現營業收入643.31億元，同比增長4.13%；歸屬於上市公司股東的淨利潤57.59億元，同比下降20.02%；歸屬於上市公司股東的扣除非經常性損益的淨利潤55.96億元，同比下降20.25%。基本每股收益0.91元，同比下降20.18%。公司2026年半年度不進行利潤分配或公積金轉增股本。
-
----
-
-### 2026-08-26 17:40:40  #其他
-
-【江蘇：到2028年全省生物醫藥產業規模、創新藥械數量保持全國領先】江蘇省印發《江蘇省促進生物醫藥產業高質量發展三年行動計劃》。其中提到，到2028年，全省生物醫藥產業規模、創新藥械數量保持全國領先，重點產業鏈自主創新能力顯著增強，突破一批關鍵核心技術，匯聚一批頂尖人才團隊，培育一批具有全球影響力的龍頭企業，打造一批具有核心競爭力的生物醫藥產業集聚區。（藍鯨新聞）
-
----
-
-### 2026-08-26 17:40:20  #公司
-
-【伊利股份：2026年上半年淨利潤57.59億元，同比下降20.02%】伊利股份公告，2026年上半年營業收入643.31億元，同比增長4.13%；歸屬於上市公司股東的淨利潤57.59億元，同比下降20.02%，2025年同期為72億元；扣除非經常性損益的淨利潤55.96億元，同比下降20.25%。報告期內公司不進行利潤分配或公積金轉增股本，本半年度報告未經審計。
-
----
-
-### 2026-08-26 17:40:11  #公司
-
-【凱盛新能：2026年上半年虧損8.38億元，2025年同期虧損4.49億元】凱盛新能公告，2026年上半年營業收入11.84億元，同比下降29.27%；歸屬於上市公司股東的淨利潤虧損8.38億元，2025年同期虧損4.49億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損8.41億元，2025年同期虧損4.59億元。
-
----
-
-### 2026-08-26 17:40:03  #市場 #焦點
-
-【南向資金今日淨買入4.53億港元】港股通（滬）方面，長飛光纖光纜、中芯國際分別獲淨買入4.03億港元、3.95億港元；華虹宏力淨賣出額居首，金額為2.06億港元；港股通（深）方面，阿里巴巴-W、長飛光纖光纜分別獲淨買入8.27億港元、6.31億港元；信達生物淨賣出額居首，金額為5.21億港元。
-
----
-
-### 2026-08-26 17:39:35  #公司
-
-【華培動力：2026年上半年營收5.93億元 同比增2.61%】華培動力公告稱，2026年上半年實現營業收入5.93億元，同比增長2.61%；歸屬於上市公司股東的淨虧損467.10萬元，同比下降123.15%；歸屬於上市公司股東的扣除非經常性損益的淨虧損1150.20萬元，同比下降168.42%。基本每股收益-0.01元/股，加權平均淨資產收益率-0.43%。本報告期無利潤分配預案或公積金轉增股本預案。
-
----
-
-### 2026-08-26 17:39:32  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Netanyahu says no prospect of diplomatic deal with Iran】Israeli Prime Minister Netanyahu said after talks with U.S. President Trump he sees no prospect of a diplomatic agreement with Iran; Trump is further increasing economic pressure on Tehran. Tensions around Lebanon persist: Iran accuses Israel of violating the ceasefire, while Israel says its military actions respond to ceasefire breaches by Iran-backed Hezbollah.
-
----
-
-### 2026-08-26 17:38:33  #公司
-
-【牧高笛：2026年上半年主營收入5889.96萬元 同比降2.59%】牧高笛公告稱，2026年上半年公司實現主營業務收入5889.96萬元，同比下降2.59%；主營業務成本4141.30萬元，同比下降0.22%；毛利率29.69%，同比減少1.67個百分點。分渠道看，線上銷售主營業務收入1458.43萬元，同比下降5.73%；線下銷售主營業務收入4431.53萬元，同比下降1.51%。截至報告期末，公司實體門店共201家，報告期內新開3家、關閉14家。
-
----
-
-### 2026-08-26 17:38:23  #公司
-
-【恆林股份：2026年上半年淨利潤1.21億元，同比下降33.07%】恆林股份公告，2026年上半年營業收入66.68億元，同比增長24.70%；歸屬於上市公司股東的淨利潤1.21億元，同比下降33.07%，2025年上半年為1.81億元；扣除非經常性損益的淨利潤1.16億元，同比下降33.64%。公司擬每10股派發現金紅利3.6元（含稅），合計5006.41萬元（含稅），尚需提交股東會審議。
-
----
-
-### 2026-08-26 17:38:16  #MKT News #Star Stocks #Tencent #00700.HK #Impact bullish
-
-HKEX filing: Tencent Holdings (00700.HK) repurchased 672,000 shares on Aug 26 for HK$300.4 mln.
-
----
-
-### 2026-08-26 17:38:10  #公司
-
-根據港交所檔案，騰訊於8月26日以3.004億港元回購67.2萬股股份。
-
----
-
-### 2026-08-26 17:38:03  #公司
-
-【聖暉整合：2026年上半年淨利潤7020.28萬元，同比增長12.39%】聖暉整合公告，2026年上半年營業收入10.88億元，同比下降16.00%；歸屬於上市公司股東的淨利潤7020.28萬元，同比增長12.39%，2025年同期為6246.43萬元；扣非淨利潤7086.66萬元，同比增長13.07%。公司擬每股派發現金紅利0.2元（含稅），共派發現金紅利2000萬元（含稅）。
-
----
-
-### 2026-08-26 17:38:00  #公司
-
-【恆林股份：2026年上半年淨利潤1.21億元，同比下降33.07%】恆林股份公告，2026年上半年營業收入66.68億元，同比增長24.70%；歸屬於上市公司股東的淨利潤1.21億元，同比下降33.07%，2025年上半年為1.81億元；扣除非經常性損益的淨利潤1.16億元，同比下降33.64%。公司擬每10股派發現金紅利3.6元（含稅），合計5006.41萬元（含稅），尚需提交股東會審議。
-
----
-
-### 2026-08-26 17:37:58  #MKT News #XAUUSD #Impact bullish
-
-【Why Iran's equity market has suddenly strengthened】Iran's rally reflects post-conflict asset revaluation, very high inflation expectations and liquidity returning to equities rather than a pickup in real fundamentals. The Tehran Stock Exchange reopened in late May after an ~80‑day suspension following US‑Israeli strikes; TEDPIX, which was around 3.7m points before the halt, has climbed past 6.38m. Inflation remains extreme — Tindex shows July inflation near 87.9% — prompting a shift out of cash into stocks, gold, property and FX, which can drive strong nominal equity gains without corresponding rises in real purchasing power or corporate profits. Many listed firms (petrochemicals, steel, copper, mining, energy and exporters) have revenues or assets linked to dollars or commodity prices, so rial depreciation and inflation can boost nominal revenues and prompt asset revaluation. Market breadth is wide: over 90% of stocks are up and more than 80% have risen 2–3%, pointing to a liquidity‑driven, market‑wide buying wave rather than a narrow, sector‑specific rally.
-
----
-
-### 2026-08-26 17:37:57  #公司
-
-【春雪食品：2026年上半年淨利潤2045.99萬元，同比增長43.31%】春雪食品公告，2026年上半年營業收入13.51億元，同比增長9.79%；歸屬於上市公司股東的淨利潤2045.99萬元，同比增長43.31%，2025年同期為1427.65萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤1862.84萬元，同比增長38.39%，2025年同期為1346.08萬元。
 
 ---

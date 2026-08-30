@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-30 05:25:55_
-_本檔包含 3018 則快訊，約 556222 字_
+_更新時間：2026-08-30 08:03:11_
+_本檔包含 3013 則快訊，約 556674 字_
+
+---
+
+### 2026-08-25 02:51:04  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude futures settled at $92.17/bbl, down $2.22 (-2.35%).
+
+---
+
+### 2026-08-25 02:50:58  #MKT News #Macro & Rates #US Economy
+
+Iran's economy minister said Tehran is fully prepared for a new round of U.S. economic pressure and that cutting off Iran's financial and commercial lifelines would not be easy.
+
+---
+
+### 2026-08-25 02:48:23  #國際
+
+伊朗：切斷（我方）金融與商業命脈並非易事。
+
+---
+
+### 2026-08-25 02:48:08  #國際
+
+伊朗經濟部長：伊朗已 “做好充分準備” 應對美國新一輪經濟攻勢。
+
+---
+
+### 2026-08-25 02:46:50  #宏觀 #公司 #市場 #國際
+
+【貝森特未釋放更多美債措施訊號 此前報道稱財政部或動用現金回購債券】美國財政部長斯科特·貝森特週一沒有進一步釋放有關調整美國債務管理方式的訊號。此前有報道稱，美國財政部可能動用部分現金儲備，為回購收益率較高的存量國債提供資金。貝森特週一在新聞釋出會上被問及是否很快會擴大回購時表示，“我們甚至還一隻債券都沒買。”在長期美債收益率升至多年最高水平後，貝森特上週宣佈了擴大後的國債回購計劃。週一被問及是否也在考慮縮減國債拍賣規模時，他表示，財政部將“繼續執行常規發行計劃”。他示意，在11月初下一次所謂的季度再融資公告發布之前，不會作出調整。
+
+---
+
+### 2026-08-25 02:42:32  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Slips as Markets Await US Inflation and Fed Signals — Silver erased early gains to trade slightly lower at around $68.5 an ounce on Monday, remaining near its highest level since mid-June. Investors are awaiting US inflation data and comments from Federal Reserve Chair Kevin Warsh this week for further clues on the interest-rate outlook. Silver gained more than 6% last week after a US Treasury buyback support plan pushed the dollar to multi-month lows. Markets are focused on the July PCE price index due Wednesday and Warsh’s speech at the Jackson Hole Symposium on Friday. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries maintaining business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt.
+
+---
+
+### 2026-08-25 02:39:38  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Holds Near Three-Month High as Dollar Remains Under Pressure — Gold pared earlier gains on Monday afternoon but remained around $4,640 an ounce, its highest level since May 14, as technical buying supported a rally fueled by a weaker dollar and the US Treasury’s recent buyback announcement. Bullion gained more than 5% last week after the buyback plan pushed the dollar to multi-month lows. Markets are now focused on the July PCE price index due Wednesday and Fed Chair Kevin Warsh’s speech at the Jackson Hole Symposium on Friday for clues on the interest-rate outlook. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries that maintain business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt.
+
+---
+
+### 2026-08-25 02:36:37  #MKT News #WTI #Impact bullish #Brent #DXY
+
+Yemen's Houthi movement said all units and branches are at highest combat readiness. It warned Saudi Arabia, Israel, the United States and their allies that their previous rules have failed, urged them not to take 'stupid actions', and said it would respond militarily and alter the regional balance of power if they do.
+
+---
+
+### 2026-08-25 02:34:15  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】At the 02:30 close, SHFE gold main contract rose 0.61% to 1,006 yuan/gram; SHFE silver main contract fell 0.65% to 16,775 yuan/kg; SC crude oil main contract fell 0.98% to 588 yuan/barrel.
+
+---
+
+### 2026-08-25 02:34:10  #公司
+
+巴西石油公司：旗下煉廠柴油加氫處理裝置的S-10柴油加工能力將達到每天5500立方米。已批准啟動REPAR煉油廠柴油加氫處理裝置採購競爭流程。批准啟動競爭性招標流程，並不代表最終決定實施該裝置建設。
+
+---
+
+### 2026-08-25 02:34:06  #MKT News
+
+Petrobras said S-10 diesel hydrotreating capacity at one of its refineries will reach 5,500 cubic meters per day. The company approved launching a competitive procurement process for a hydrotreating unit at the REPAR refinery. Petrobras said approval to start competitive bidding does not constitute a final decision to build the unit.
+
+---
+
+### 2026-08-25 02:31:09  #MKT News
+
+U.S. crude futures settled at $85.01 per barrel, down $2.05, or 2.35%.
+
+---
+
+### 2026-08-25 02:31:01  #市場
+
+WTI 10月原油期貨收報85.01美元/桶。NYMEX 9月天然氣期貨收報2.7820美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.2708美元/加侖，NYMEX 9月取暖油期貨收報4.2677美元/加侖。
+
+---
+
+### 2026-08-25 02:30:48  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 0.09% at 1,000.78 yuan/gram in the Aug. 24 evening session; silver T+D closed down 0.74% at 16,655.0 yuan/kg.
+
+---
+
+### 2026-08-25 02:30:02  #市場
+
+上期所原油期貨夜盤收跌0.98%，報587.80元人民幣/桶。滬金夜盤收漲0.61%，滬銀收跌0.65%。
+
+---
+
+### 2026-08-25 02:30:02  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Depreciates by 2.53% — Top crypto loser is XRP (-2.53%). Gains are led by Bitcoin (1.64%) and Ether (0.59%).
+
+---
+
+### 2026-08-25 02:25:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Coffee Surges by 5.94% — Top commodity gainers are Coffee (5.94%) and Corn (1.49%). Biggest losers are Canola (-3.34%), Rapeseed (-2.92%) and Cocoa (-1.74%).
+
+---
+
+### 2026-08-25 02:24:43  #MKT News #Market Regions #Europe & UK
+
+【Macron meets Saudi crown prince Mohammed in Paris】French President Macron met Saudi Crown Prince Mohammed, who also serves as prime minister, at the Élysée Palace in Paris on Aug 24.
 
 ---
 
@@ -18045,156 +18153,5 @@ Ping An Insurance earnings below expectations at 3.47 CNY — Ping An Insurance 
 ### 2026-08-23 08:11:10  #其他
 
 【受颱風“紫檀”影響 國鐵廣州區域性分列車停運】受今年第19號颱風“紫檀”和西南季風共同影響，廣東局地有大暴雨到特大暴雨。為確保旅客列車執行安全，國鐵廣州局動態調整旅客列車開行方案。預計今天（23日）20時至明天8時，甬廣高鐵部分列車停運；明天8時至25日2時，海南高鐵西環段部分列車停運。由於天氣原因，部分列車可能出現晚點情況。鐵路部門將持續根據颱風影響範圍和降雨情況，動態調整列車執行方案。（央視新聞）
-
----
-
-### 2026-08-23 08:02:31  #公司
-
-【百家機構扎堆調研股曝光，2股市盈率低至個位數】近一週（8月15日至21日）共有180多隻個股獲得機構調研，華測檢測獲調研機構數量居首。華測檢測獲得167家機構調研，包含20家基金公司、38家證券公司、59傢俬募、4家保險公司等。國際復材、潔美科技、傳音控股等個股均獲得100家以上機構調研。其中，雲天化和天山鋁業動態市盈率均低至個位數。
-
----
-
-### 2026-08-23 08:00:59  #其他
-
-【翔宇醫療鐳射毫米波治療儀獲國家醫療器械註冊證】據翔宇醫療訊息，翔宇醫療鐳射毫米波治療儀獲國家醫療器械註冊證。
-
----
-
-### 2026-08-23 07:49:36  #其他
-
-【王偉中包鋼會見科技部部長陰和俊】8月22日，內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見科技部黨組書記、部長陰和俊一行。王偉中說，希望科技部一如既往關心支援內蒙古科技創新發展，圍繞國家戰略所需在內蒙古謀劃佈局更多重大科技任務，在乳業、草業國家技術創新中心建設和國際科技創新合作平臺搭建等方面加大指導支援力度，支援內蒙古聚焦農牧業“種芯”工程、新能源、新材料、人工智慧、算電協同等領域加強科研攻關，促進科技創新和產業創新深度融合，以高水平科技自立自強支撐高質量發展。陰和俊說，下一步，科技部將聚焦服務國家重大戰略和內蒙古發展需求，加強部區協同聯動，在關鍵核心技術攻關、創新平臺建設、科技成果轉化應用、科技人才培養等方面提供更多支援，助力內蒙古打造現代化產業體系，為科技強國建設作出更大貢獻。（內蒙古日報）
-
----
-
-### 2026-08-23 07:45:31  #公司
-
-【北部灣港集團赴重慶拜訪重慶市政府口岸物流辦、重慶鋼鐵、博賽集團 共商深化合作】據北部灣港集團訊息，8月20日至22日，北部灣港集團黨委副書記、副董事長、總經理馬正國率隊赴重慶，先後拜訪重慶市政府口岸物流辦、重慶鋼鐵及博賽集團，分別與重慶市政府口岸物流辦黨組書記、主任楊琳，重慶鋼鐵黨委書記、董事長王虎祥，博賽集團董事長袁志倫、總經理袁凌楠等圍繞貨源組織、港口建設、產業協同、物流降本增效、黨建聯建等方面開展座談，共商深化合作，為助力平陸運河通航後高水平運營、向海經濟高質量發展共聚合力。
-
----
-
-### 2026-08-23 07:45:04  #國際
-
-市場訊息： 日本將收緊移動電池製造相關規定， 旨在保障移動電池的安全。
-
----
-
-### 2026-08-23 07:31:17  #其他
-
-【從視覺產品到靈巧手 中國機器人實現核心零部件自主可控】2026世界機器人大會今天（23日）就將閉幕，這兩天逛下來，記者發現，不少機器人已經瞄準真實場景“上崗”作業。成為一臺真正能用、好用的機器人，離不開靈巧手、高精度視覺與核心關節的協同配合。中國機器人產業鏈如何攻克關鍵技術、實現核心零部件的自主可控？會場上，一款機器人視覺新品吸引了不少觀眾和採購商駐足。這雙機器人的“眼睛”不僅能搭載在機器人的頭上、腰部等不同部位，用於避障和導航，還能透過採集真實資料，幫助機器人在物理世界裡不斷迭代升級，變得越來越“聰明”。看清了目標，還得有強有力的“關節”來驅動手臂。這款減速器是機器人“關節”的核心部分，可以讓機械臂爆發出強勁的旋轉力量，抓取更大重量的物體。（央視新聞）
-
----
-
-### 2026-08-23 07:28:52  #其他
-
-【強風暴橫掃波羅的海三國 致兩人死亡】一個強氣旋22日由南向北橫掃波羅的海三國，給立陶宛、拉脫維亞和愛沙尼亞帶來強風、暴雨和雷暴，造成大範圍樹木倒伏、建築和電力設施受損以及城市積水。當地媒體和救援部門的最新訊息顯示，惡劣天氣導致拉脫維亞和立陶宛各有一人死亡，另有數人受傷，數十萬使用者供電中斷。（新華社）
-
----
-
-### 2026-08-23 07:21:31  #國際
-
-市場訊息：以色列戰鬥機轟炸黎巴嫩南部的卡夫魯曼鎮。
-
----
-
-### 2026-08-23 07:16:32  #其他
-
-【匈牙利保克什核電站3號機組恢復發電】匈牙利總理毛焦爾·彼得22日宣佈，得益於緊急工程施工作業及多瑙河水位回升，該國唯一的核電站——保克什核電站3號機組已於當天恢復發電。 毛焦爾當天在核電站現場表示，3號機組的6號汽輪機已重新聯網恢復發電。本月早些時候，乾旱引發的多瑙河極低水位嚴重限制冷卻水吸入，導致部分機組被迫停運。 為保障冷卻水供應，匈牙利政府日前實施緊急應對措施，開始建造水下潛壩，並在河道中有控制地沉入兩艘80米長的駁船。毛焦爾表示，這些措施已使核電站附近多瑙河水位抬升約15釐米。 此前，持續酷暑和旱情導致多瑙河水位降至歷史低位，直接威脅保克什核電站的安全執行。8月初，水位下降迫使該核電廠大幅削減產能，危機最嚴重時僅有一臺汽輪機維持運轉。隨著多瑙河水位狀況改善，第二臺汽輪機已於8月10日恢復併網。 “若一切順利，核電站將於下週三（26日）恢復至2000兆瓦的全額產能，全部8臺汽輪機將再次投入執行。”毛焦爾說。 保克什核電站位於匈牙利首都布達佩斯以南約100公里處，擁有4座VVER-440型反應堆機組，共配備8臺汽輪機組，是該國重要的電力來源。（新華社）
-
----
-
-### 2026-08-23 07:09:23  #國際
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、中國是世界經濟增長的積極貢獻者和強大穩定錨
-2、網上商品和服務零售額前7月增4.8% 對社會商品和服務零售額增長貢獻率超五成
-3、加快現代化產業體系建設
-4、印度尼西亞總統普拉博沃會見王毅一行
-5、中方就深化APEC海關合作提出主張
-6、讓製造擁有美和溫度
-
----
-
-### 2026-08-23 07:06:52  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、中國共產黨第二十屆中央紀律檢查委員會第六次全體會議公報（2026年8月22日中國共產黨第二十屆中央紀律檢查委員會第六次全體會議透過）
-2、師徒三代創新“奪冠”記——走進中車長春軌道客車股份有限公司李萬君勞模創新工作室
-3、加快現代化產業體系建設
-4、北京自貿試驗區——一“出”一“進”，看高水平開放落地生根（深入實施自由貿易試驗區提升戰略）
-5、邊境新村綻放幸福格桑花
-6、圖片報道
-7、今年以來消費品以舊換新政策惠及1.78億人次
-
----
-
-### 2026-08-23 06:55:12  #國際
-
-美國能源部長表示，美國石油和天然氣產量處於“歷史最高水平”。
-
----
-
-### 2026-08-23 06:53:17  #國際
-
-【人民日報鍾才文：中國是世界經濟增長的積極貢獻者和強大穩定錨】今年以來，面對變亂交織、嚴峻複雜的外部環境，中國經濟頂壓前行，持續向新向優發展，展現出蓬勃活力和強大韌性，不僅為“十五五”良好開局奠定了堅實基礎，也為世界經濟注入強勁動力和難能可貴的確定性。
-
----
-
-### 2026-08-23 06:51:30  #其他
-
-【經濟日報金觀平：企業應成為科技創新“出題人”】推動科技創新和產業創新深度融合，是以高水平科技自立自強引領發展新質生產力的關鍵。其中，科技創新需突出應用導向，支援高校、科研院所對接企業開展科研攻關和人才培養；產業創新需強化企業創新主體地位，支援企業與高校、科研院所共建平臺、共克難題。發揮好企業創新主體作用是推動二者深度融合的重要抓手。科研決策缺少企業參與，容易導致創新與產業脫節。企業參與“出題”，能夠讓科技創新更加貼近產業實際，助力教育科技人才協調發展。企業真正“出題”，還需加快完善制度機制。當科研方向源於產業需求、創新資源圍繞企業配置、科技成果服務產業發展，才能實現科技創新與產業創新同頻共振。面向“十五五”，進一步強化企業科技創新主體地位，讓企業從技術應用者成長為創新組織者、科研“出題人”，助力提升國家創新體系整體效能，為發展新質生產力、建設科技強國注入更加強勁的動力。
-
----
-
-### 2026-08-23 06:35:03  #公司 #國際
-
-【霍爾果斯壓氣首站累計輸氣突破6000億立方米】8月22日，記者從國家管網集團獲悉，西氣東輸二線三線首站——霍爾果斯壓氣首站累計輸送天然氣突破6000億立方米，為國內天然氣市場穩定供應、能源結構低碳轉型提供了保障。霍爾果斯壓氣首站位於“一帶一路”重要樞紐節點，負責將中亞跨國天然氣和伊犁煤制氣輸送至我國中東部地區，年輸氣能力達600億立方米，單站裝機容量居亞洲首位。自2009年投產以來，累計安全平穩執行超6000天，單日最高輸氣量可達1.63億立方米。（央視新聞）
-
----
-
-### 2026-08-23 06:32:38  #公司 #焦點
-
-【DeepSeek再次調價】DeepSeek網站8月22日顯示，DeepSeek API開放平臺將於2026年8月23日（週日）00:00起，最佳化峰谷計費規則。調整後，週末（週六及週日）全天將不再區分峰谷時段，統一按低谷時段價格計費。 此前，DeepSeek釋出API調價公告，自北京時間8月17日0:00起，DeepSeek全面上調API價格並執行峰谷定價，閒時價格為高峰時段價格的一半。高峰時段為北京時間9:00—12:00、14:00—18:00（其餘為空閒時段）。
-
----
-
-### 2026-08-23 06:28:50  #其他
-
-市場資訊：德國默茨政府將敦促內閣推動更快的促增長改革。
-
----
-
-### 2026-08-23 06:26:53  #Trading Economics #Markets #China #Earnings #Importance 0
-
-Sinopec earnings below expectations at 0.08 CNY — Sinopec (600028) released earnings per share at 0.08 CNY, compared to market expectations of 0.09 CNY.
-
----
-
-### 2026-08-23 06:26:52  #Trading Economics #Markets #Taiwan #Earnings #Importance 0
-
-Cathay Financial earnings above expectations at 2.38 TWD — Cathay Financial (2882) released earnings per share at 2.38 TWD, compared to market expectations of 2.21 TWD.
-
----
-
-### 2026-08-23 06:13:12  #國際
-
-【上週有近200艘船隻通行霍爾木茲海峽】英國海上貿易行動辦公室的資料：上週有近200艘船隻通行霍爾木茲海峽，高於前一週的150艘，而兩週前通行量僅約40艘。海事情報機構Kpler的資料顯示，過去兩週，該海峽超過80%的液貨運輸船舶，要麼選擇美國支援、獲得聯合國國際海事組織許可的阿曼繞行航線，要麼關閉船舶自動識別系統隱匿航行。
-
----
-
-### 2026-08-23 05:59:10  #國際
-
-印度官員稱，一艘散貨船在印度東海岸沉沒，印度海岸警衛隊已救出14名船員，目前正在搜尋另外四名失蹤船員。
-
----
-
-### 2026-08-23 05:47:49  #國際
-
-特朗普：美國新領土。
-
----
-
-### 2026-08-23 05:41:53  #國際
-
-【日本本州島5.8級地震已致多人受傷】日本本州島5.8級地震後，當地已出現多名傷者。截至當地時間4時，埼玉縣有9人受傷，截至當地時間5時，神奈川縣有3人受傷；此外，東京有人被玻璃劃傷。據東京消防廳訊息，截至當地時間23日3時，已接到約30起與地震有關的報警。
 
 ---
