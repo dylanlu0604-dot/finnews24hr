@@ -1,7 +1,15 @@
 {
   "date": "2026-08-31",
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:01a05384-4748-7118-8401-73fcacb03915",
+      "time": "2026-08-31 00:32:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Red Crescent said more than 7,250 people have been rescued from rubble caused by US and Israeli strikes since the outbreak of war on Feb. 28."
+    },
     {
       "id": "5067243",
       "time": "2026-08-31 00:29:31",
