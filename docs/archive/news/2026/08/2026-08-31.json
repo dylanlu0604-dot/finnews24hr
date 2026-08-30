@@ -1,7 +1,15 @@
 {
   "date": "2026-08-31",
-  "count": 204,
+  "count": 205,
   "items": [
+    {
+      "id": "mkt:01a054d4-835b-7118-8403-6f8a6d26f198",
+      "time": "2026-08-31 06:40:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bloomberg reports the U.S. Treasury barred reporters from several outlets, including Bloomberg News and the Wall Street Journal, from covering this week’s G20 finance ministers meeting in Asheville, North Carolina."
+    },
     {
       "id": "5067430",
       "time": "2026-08-31 06:37:33",
