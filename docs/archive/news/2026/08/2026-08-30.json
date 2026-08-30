@@ -1,7 +1,113 @@
 {
   "date": "2026-08-30",
-  "count": 650,
+  "count": 662,
   "items": [
+    {
+      "id": "5067087",
+      "time": "2026-08-30 20:51:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同仁堂：上半年淨利潤7.26億元 同比下降23.19%】同仁堂(600085)8月30日披露半年報，2026年上半年，公司實現營業收入83.79億元，同比下降14.23%；歸屬於上市公司股東的淨利潤7.26億元，同比下降23.19%；基本每股收益0.529元。報告期內，受中醫藥行業週期調整、醫藥零售承壓和成本壓力傳導持續等部分因素影響，公司經營成果呈現一定程度的階段性調整。"
+    },
+    {
+      "id": "5067086",
+      "time": "2026-08-30 20:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "據土耳其媒體30日報道，當天在塞普勒斯附近海域發生的客輪傾覆事故已造成6人死亡。（新華國際）"
+    },
+    {
+      "id": "5067085",
+      "time": "2026-08-30 20:47:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：必須對媒體使用的民調採取措施。"
+    },
+    {
+      "id": "5067084",
+      "time": "2026-08-30 20:47:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：我們腐敗的媒體所採用的虛假民調已經完全失控，必須對此採取行動。聯邦通訊委員會（FCC）來救場了！"
+    },
+    {
+      "id": "mkt:01a052b5-983c-7118-83ff-c0c892f2973c",
+      "time": "2026-08-30 20:47:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump accused corrupt media of using fake polls that have spiraled out of control and said the Federal Communications Commission (FCC) will intervene."
+    },
+    {
+      "id": "mkt:01a052b4-e519-7118-83ff-bcd56fe97d64",
+      "time": "2026-08-30 20:46:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios, citing sources, reports CIA Director Ratcliffe has concluded that FSB Director Alexander Bortnikov is a constructive figure who could help restart diplomatic engagement."
+    },
+    {
+      "id": "5067083",
+      "time": "2026-08-30 20:44:04",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【首都經濟貿易大學京津冀房地產研究院院長趙秀池：現房銷售對中小房企是巨大挑戰，未來樓市城市分化仍然會加劇】8月28日，住建部、央行、金融監管總局、證監會等多部門連發多份檔案，圍繞商品房銷售制度、信貸管理等推出一攬子措施，引發行業高度關注。與此同時，8月以來，北京、上海等核心城市也相繼釋出樓市政策，涵蓋公積金、首付比例等多個領域。“8月28日一系列新政，是從銷售制度、信貸規則、資金監管、融資體系、供地規則等全鏈條進行頂層設計和制度重構，在供求關係發展重大變化的存量時代，構建了房地產新發展模式的制度基礎。系列配套制度則旨在告別過去‘高槓杆、高週轉、高負債’的開發模式，促進房地產企業轉型，適應房地產發展的新形勢，也是供求雙向發力、逆週期調節的重要舉措。”8月30日，首都經濟貿易大學京津冀房地產研究院院長、北京市房地產法學會副會長趙秀池在接受專訪時表示，近期北京、上海等城市需求端政策疊加全國一攬子新政，會提振市場信心，扭轉市場悲觀情緒，既是止跌回穩的加力，又是切換到房地產新發展模式的標誌。房貸首付款降低、貸款期限延長等，會降低購房入市的資金門檻，減輕購房人的負擔，促進剛需與改善性住房需求早日入市，進而平衡供求關係，促進樓市止跌回穩。（每經）"
+    },
+    {
+      "id": "mkt:01a052b2-3911-7118-83ff-b1abc1917c64",
+      "time": "2026-08-30 20:43:26",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "【Guangdong real estate association head Wang Shao: completed-home sales will sharply raise industry entry thresholds; developers’ financing and development model to be restructured】Aug 28 — Multiple ministries issued three major documents on housing sales reform, reconstruction of the real-estate credit system and capital-market support to build a new property development model. New measures include prioritizing sale of completed homes for newly released land and raising the unified presale threshold to main-structure topping-out. Markets view this as a structural overhaul of the commodity-housing presale system. Guangdong Real Estate Industry Association president Wang Shao said the changes are a phased, categorized reform rather than an immediate end to presales. The policy package aims to lower sector leverage, strip excessive financialization from housing and refocus real estate on residence. Wang said completed-home sales will substantially raise industry entry barriers and force a reconstruction of developers’ traditional high-turnover financing and development logic; he expects short-term adjustment pain but possible entry into a higher-quality development cycle over the medium to long term."
+    },
+    {
+      "id": "5067082",
+      "time": "2026-08-30 20:39:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "尼科西亞訊息：據塞普勒斯北部土耳其語媒體30日報道，當天發生的客輪傾覆事故中已找到並救起159人，有落水人員遇難，搜救工作仍在進行中。（新華國際）"
+    },
+    {
+      "id": "mkt:01a052ae-7a22-7118-83ff-a9ee04e516f0",
+      "time": "2026-08-30 20:39:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. military leaders warn Hegseth large-scale Iran operations are unsustainable】The Washington Post reports multiple U.S. military leaders told Defense Secretary Hegseth that extending large-scale operations against Iran is unsustainable and could weaken the U.S. military’s ability to counter other regional threats, including defending the homeland. The assessment prepared for Hegseth is recorded in the Aug. 14 edition of the Defense Secretary’s order book, which directs some U.S. forces in the Middle East to remain at least through September and others through 2027. Concern over potential further extensions prompted the warnings; commanders of U.S. European Command, U.S. Indo-Pacific Command, U.S. Southern Command and the senior Navy officer entered “do not agree” responses in the order book—signaling disagreement with extending deployments while still indicating they will carry out the orders, sources said."
+    },
+    {
+      "id": "5067081",
+      "time": "2026-08-30 20:38:24",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【廣東省房地產行業協會會長王韶：現房模式大幅抬高行業准入門檻，房企融資開發邏輯將迎來重構】8月28日，住建部、自然資源部、央行、國家金融監管總局、證監會等多部門密集出臺三份重磅檔案，分別聚焦住房銷售制度改革、房地產信貸體系重構與資本市場支援構建房地產發展新模式。其中，新出讓土地優先實行現房銷售、預售門檻統一提升至主體結構封頂等舉措，被市場視為商品房預售制度迎來根本性重構的標誌性訊號。“這不是簡單終止預售制度，而是一次分類最佳化、漸進落地的系統性改革。”廣東省房地產行業協會會長王韶表示，本輪新政以“先立後破、以進促穩”為原則，透過銷售端、金融端、資本端的協同發力，核心目標是降低行業槓桿、剝離過度金融屬性、推動房地產迴歸居住本源。在王韶看來，現房銷售模式將大幅抬高行業准入門檻，房企傳統的高週轉開發邏輯面臨重構，行業短期雖將經歷調整陣痛，但中長期有望真正邁入高質量發展新週期。（每經）"
+    },
+    {
+      "id": "5067080",
+      "time": "2026-08-30 20:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：荷蘭足協提議召開峰會，討論國際足聯改革事宜（此前國際足聯中多家足協要求罷免現任國際足聯主席因凡蒂諾，並改革國際足聯）。"
+    },
     {
       "id": "5067079",
       "time": "2026-08-30 20:33:47",
