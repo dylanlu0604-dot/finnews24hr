@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-31 06:51:39",
-  "count": 13912,
+  "updated": "2026-08-31 06:55:43",
+  "count": 13914,
   "items": [
+    {
+      "id": "5067435",
+      "time": "2026-08-31 06:54:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達內政部提升安全威脅等級，敦促居民留在家中。"
+    },
+    {
+      "id": "5067434",
+      "time": "2026-08-31 06:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫表示，北約欲將北極打造成對抗俄羅斯的前線。"
+    },
+    {
+      "id": "5067433",
+      "time": "2026-08-31 06:52:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：侵略與罪行絕不能使敵人削弱伊朗對霍爾木茲海峽的控制，每一次開火都將招致更為沉重的回擊。"
+    },
     {
       "id": "mkt:01a054dd-3021-7118-8403-879682830b7e",
       "time": "2026-08-31 06:49:36",
@@ -125805,18 +125829,6 @@
         "國際"
       ],
       "text": "俄羅斯南部克拉斯諾達爾遭無人機襲擊，州長稱兩名兒童死亡，倉庫受損。"
-    },
-    {
-      "id": "te:economy:577380",
-      "time": "2026-08-24 06:55:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Retail Sales MoM",
-        "Importance 1"
-      ],
-      "text": "New Zealand Retail Sales Fall for 1st Time in 7 Quarters — Retail sales in New Zealand unexpectedly dropped 0.5% quarter-on-quarter in Q2 2026, reversing an upwardly revised 1.0% growth in the previous quarter and defying market expectations of a 0.1% rise. It was the first quarterly decline in retail sales since Q3 2024, with the figures adjusted for inflation and seasonal effects. The decline was broad-based, with eight of the 15 retail industries recording lower sales volumes, with notable declines in fuel (-13%), motor vehicles and parts (-2.3%), accommodation (-8.0%), and food and beverage services (-2.8%)."
     }
   ]
 }
