@@ -1,7 +1,44 @@
 {
   "date": "2026-08-30",
-  "count": 775,
+  "count": 779,
   "items": [
+    {
+      "id": "mkt:01a05359-2d49-7118-8401-28e92816fcd2",
+      "time": "2026-08-30 23:45:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【NATO: Russia escalating hybrid operations but no imminent attack threat】A NATO official said on Sunday Russia is escalating hybrid operations in Europe and intensifying attacks on Ukraine, but NATO currently assesses there is no imminent threat of an attack. The official said NATO remains vigilant and will continue to support Ukraine. Polish Prime Minister Tusk said on Saturday Poland and NATO must prepare for all contingencies and cannot rule out Russian provocations against NATO members."
+    },
+    {
+      "id": "5067228",
+      "time": "2026-08-30 23:45:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帝科股份：儲存產品維持年度出貨量目標 預估明年會更好一些】關於儲存晶片業務下半年預期，帝科股份(300842)近日在機構調研時表示，公司上半年儲存晶片業務實現收入3.58億元，同比增長89.54%，保持了高速增長態勢。儲存板塊消費市場在二季度波動較大，預期下半年相對是需求的旺季，尤其是在公司有比較優勢的OTT領域需求在快速復甦和增長。公司儲存產品品類逐步由DRAM產品拓展至Flash產品，同時積極拓寬原材料供應渠道，為後續業務增長提供支撐。展望全年，公司將根據市場情況加速推進出貨，維持年度出貨量目標，同時明年預估會更好一些。"
+    },
+    {
+      "id": "5067227",
+      "time": "2026-08-30 23:44:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌正式進入巴基斯坦，設立辦事處。常駐新加坡的谷歌副總裁表示，該辦事處將助力巴基斯坦IT出口。"
+    },
+    {
+      "id": "5067226",
+      "time": "2026-08-30 23:42:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追覓起訴小紅書?知情人士：已經撤訴】8月30日晚間訊息，據報道，追覓科技（蘇州）有限公司訴行吟資訊科技（上海）有限公司名譽權糾紛一案，將於9月8日在上海市黃浦區人民法院開庭，案號為（2026）滬0101民初22884號。據接近追覓的知情人士對新浪科技透露，事實上該案件“已經撤訴”，但由於平臺資訊更新等原因，相關公示資訊並未完全撤回。（新浪科技）"
+    },
     {
       "id": "5067225",
       "time": "2026-08-30 23:39:33",
