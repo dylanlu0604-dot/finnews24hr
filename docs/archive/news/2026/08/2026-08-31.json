@@ -1,7 +1,26 @@
 {
   "date": "2026-08-31",
-  "count": 14,
+  "count": 16,
   "items": [
+    {
+      "id": "5067243",
+      "time": "2026-08-31 00:29:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩南部納巴蒂耶區亞赫馬爾沙基夫鎮郊外發生以色列引發的劇烈爆炸。"
+    },
+    {
+      "id": "mkt:01a05380-c687-7118-8401-6bd210467e74",
+      "time": "2026-08-31 00:29:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Israeli forces advance in southern Lebanon】Al Jazeera, citing Lebanon’s National News Agency (NNA), reported Israeli infantry advanced along the west bank of the Litani River while conducting demolitions along the Zawtar al‑Gharbiyeh riverbank. Israeli forces continued shelling residential areas south of the Litani and launched a new incursion into the residential area of Majdal Zoun. Shelling struck Mansouri village in the Tyre district and wooded areas near Ayta al‑Jabal and Beit Yahoun in the Bint Jbeil district. Fires from the bombardment spread into Haddatha’s residential area and burned nearby olive groves."
+    },
     {
       "id": "mkt:01a0537c-e518-7118-8401-66c3cbd6262c",
       "time": "2026-08-31 00:24:49",

@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-31 00:28:12",
-  "count": 13787,
+  "updated": "2026-08-31 00:32:16",
+  "count": 13788,
   "items": [
+    {
+      "id": "5067243",
+      "time": "2026-08-31 00:29:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩南部納巴蒂耶區亞赫馬爾沙基夫鎮郊外發生以色列引發的劇烈爆炸。"
+    },
+    {
+      "id": "mkt:01a05380-c687-7118-8401-6bd210467e74",
+      "time": "2026-08-31 00:29:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Israeli forces advance in southern Lebanon】Al Jazeera, citing Lebanon’s National News Agency (NNA), reported Israeli infantry advanced along the west bank of the Litani River while conducting demolitions along the Zawtar al‑Gharbiyeh riverbank. Israeli forces continued shelling residential areas south of the Litani and launched a new incursion into the residential area of Majdal Zoun. Shelling struck Mansouri village in the Tyre district and wooded areas near Ayta al‑Jabal and Beit Yahoun in the Bint Jbeil district. Fires from the bombardment spread into Haddatha’s residential area and burned nearby olive groves."
+    },
     {
       "id": "mkt:01a0537c-e518-7118-8401-66c3cbd6262c",
       "time": "2026-08-31 00:24:49",
@@ -124559,15 +124578,6 @@
         "國際"
       ],
       "text": "以色列總理辦公室：總理內塔尼亞胡與國防部長卡茨於週日晚間就加沙地帶向以色列放飛無人機、氣球及風箏的威脅召開安全形勢評估會議。以色列向哈馬斯發出警告，若針對以色列的此類發射活動不立即停止，以色列國防軍將加大對實施發射行為相關人員的定點打擊力度。"
-    },
-    {
-      "id": "5053828",
-      "time": "2026-08-24 00:31:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行：決定重啟一週期回購拍賣。"
     }
   ]
 }
