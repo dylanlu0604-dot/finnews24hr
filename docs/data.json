@@ -1,7 +1,952 @@
 {
-  "updated": "2026-08-30 20:53:12",
-  "count": 13710,
+  "updated": "2026-08-30 23:34:41",
+  "count": 13762,
   "items": [
+    {
+      "id": "mkt:01a05349-d1fa-7118-8401-0b67e6c339a8",
+      "time": "2026-08-30 23:29:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In Amman, Jordan's king reiterated support for Lebanon and endorsed the Lebanese army's efforts to protect the country's security and sovereignty."
+    },
+    {
+      "id": "5067221",
+      "time": "2026-08-30 23:27:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理：黎巴嫩南部將不再成為不由黎巴嫩人民及本國政府主導的戰爭的公開角鬥場，黎巴嫩南部民眾不會再為他人的衝突與抉擇付出代價，政府將把黎巴嫩國家主權拓展至本國全部領土。"
+    },
+    {
+      "id": "mkt:01a05344-6ece-7118-8401-023cc10ddd4f",
+      "time": "2026-08-30 23:23:08",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "AP reports the U.S. is guiding Polish forces in drone-focused exercises based on lessons from the Ukraine conflict."
+    },
+    {
+      "id": "5067220",
+      "time": "2026-08-30 23:19:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【全球億萬富翁人數創新高 AI熱潮催生億萬富翁財富增長】據美國《財富》雜誌網站近日報道，財富情報公司Altrata的最新報告顯示，2025年全球億萬富翁人數達3795人，創下歷史新高；億萬富翁總財富額同比增長12.8%，達到15.1萬億美元，同樣重新整理紀錄，這一數字接近美國標普500指數成分股總市值的四分之一。在這些億萬富翁中，資產超過500億美元的有29人，包括拉里·佩奇、埃隆·馬斯克和傑夫·貝索斯等。具體來看，AI投資熱潮是億萬富翁財富增長的主要驅動力，不少科技領域的富翁身家隨企業人工智慧業務擴張大幅增值。億萬富翁們最傾向於在體育和慈善兩個領域進行財富配置，共有201人擁有體育團體或投資體育特許經營權。報告指出，投資專業賽事的運動隊伍，不僅能彰顯財富規模，還可以透過此渠道拓展社交圈層。而投資慈善事業則成為億萬富翁利用其財富和社會影響力，在某些領域回饋社會並推動革新的方式之一。（央視財經）"
+    },
+    {
+      "id": "mkt:01a05340-3ca6-7118-8400-fe47163672ee",
+      "time": "2026-08-30 23:18:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Global billionaire count hits record; AI boom drives wealth gains】Fortune, citing Altrata, reports 3,795 billionaires in 2025, a record. Aggregate billionaire wealth rose 12.8% YoY to $15.1 trillion, about one-quarter of the S&P 500’s market capitalization. Twenty-nine individuals hold more than $50 billion, including Larry Page, Elon Musk and Jeff Bezos. Altrata identifies AI investment as the primary driver of wealth gains, with many tech fortunes swelling as companies expand AI businesses. 201 billionaires own sports teams or franchises; philanthropy remains a common channel for wealth deployment."
+    },
+    {
+      "id": "5067219",
+      "time": "2026-08-30 23:17:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追覓起訴小紅書？知情人士：源自追覓要求平臺配合披露一“自媒體”使用者真實身份資訊】8月30日晚間訊息，今日，有媒體查詢法院開庭資訊得知，追覓科技（蘇州）有限公司因名譽權糾紛起訴行吟資訊科技（上海）有限公司（小紅書國核心心運營主體公司），該案將於9月8日在上海市黃浦區人民法院開庭。對此情況，據接近小紅書的法律人士表示，該訴訟源自追覓要求平臺配合披露一“自媒體”使用者的真實身份資訊。追覓認為該使用者涉嫌侵權，起訴平臺屬於網路侵權糾紛裡常見的\"披露身份\"法定程式。據瞭解，該賬號於去年11月釋出了一篇關於追覓組織架構調整的內容。 （新浪科技）"
+    },
+    {
+      "id": "5067218",
+      "time": "2026-08-30 23:17:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果與康寧計劃在美國肯塔基州中部開設一家新的創新中心 。"
+    },
+    {
+      "id": "mkt:01a0533e-c91d-7118-8400-f26e1bd14e26",
+      "time": "2026-08-30 23:16:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AAPL.O",
+        "Impact bullish",
+        "GLW.N"
+      ],
+      "text": "【Apple, Corning to open innovation center in Kentucky】MacObserver reports Apple (AAPL.O) and Corning (GLW.N) are deepening collaboration and plan a joint innovation center in central Kentucky to design and develop new materials for future hardware."
+    },
+    {
+      "id": "5067217",
+      "time": "2026-08-30 23:16:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局（NASA）：正與SpaceX調整奔赴國際空間站的Crew‑13載人任務發射時間。新的目標日期確定後將對外公佈。"
+    },
+    {
+      "id": "5067216",
+      "time": "2026-08-30 23:16:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL科技：下半年計劃推出的玻璃基板樣品大概是12層】TCL科技(000100)近日在機構調研時表示，主流的玻璃基先進封裝用在高算力、高效能的晶片封裝需要20層，TCL科技目前依託外部資源進行技術路線打通和完整樣品的製備。受限於外部資源的技術限制，今年下半年計劃推出的樣品大概是12層，離20層有些差距。如果樣品表現和技術路線基本確定，達到預期，公司會在今年內啟動中試線建設。"
+    },
+    {
+      "id": "5067215",
+      "time": "2026-08-30 23:13:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中國駐美大使：期待更多美國民眾到訪中國、感受中國】中國駐美國大使謝鋒29日出席第24屆華盛頓中國文化節時表示，期待更多美國民眾到訪中國、感受中國，體驗中國的開放自信、海納百川。（新華社）"
+    },
+    {
+      "id": "5067214",
+      "time": "2026-08-30 23:11:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理：我們的責任是結束佔領、制止侵略行為、推動重建，讓南部民眾重返家園，並恢復國家主權。"
+    },
+    {
+      "id": "5067213",
+      "time": "2026-08-30 23:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理：國家將攜軍隊、各類機構、公共服務及發展專案進駐南部地區。"
+    },
+    {
+      "id": "5067212",
+      "time": "2026-08-30 23:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔發言人表示，科斯塔與冰島總理都表達了繼續深化歐盟與冰島雙邊關係的意願。"
+    },
+    {
+      "id": "mkt:01a05338-55e1-7118-8400-ef1fcc47b99c",
+      "time": "2026-08-30 23:09:55",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【STAR Market companies 1H net profit rises 437.6% YoY】Shanghai Stock Exchange said on Aug. 30 that China’s STAR Market reported combined 1H revenue of 1.01 tln yuan, up 38.6% YoY, and combined net profit of 144.887 bln yuan, up 437.6% YoY; net profit exceeded last year’s full-year level. Among 36 Growth‑tier firms, 1H revenue rose 29.1% YoY and net losses narrowed 62.3%."
+    },
+    {
+      "id": "5067211",
+      "time": "2026-08-30 23:09:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔發言人表示，冰島仍是歐盟最親密、最值得信賴的夥伴之一，歐盟完全尊重冰島人民的選擇。"
+    },
+    {
+      "id": "5067210",
+      "time": "2026-08-30 23:08:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科創板公司上半年實現淨利潤1448.87億元 同比增長437.6%】8月30日晚，上交所釋出訊息稱，科創板公司上半年合計實現營業收入1.01萬億元，同比增長38.6%；實現淨利潤1448.87億元，同比增長437.6%，淨利潤超過上年全年水平。其中，36家成長層企業上半年營收同比增長29.1%，淨利潤大幅縮虧62.3%。"
+    },
+    {
+      "id": "mkt:01a05335-0d32-7118-8400-e0b169278a76",
+      "time": "2026-08-30 23:06:20",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【1H: 427 Shanghai-listed firms declare interim dividends; cash payouts 633.0 bln yuan】The Shanghai Stock Exchange said on Aug 30 that in 1H 427 Shanghai-listed companies announced interim dividends totaling 633.0 bln yuan, up YoY. The six major banks’ combined interim payouts reached 220.9 bln yuan. Sixteen companies declared interim dividends exceeding 10.0 bln yuan. Firms with steady profit growth and strong operating cash flow are increasingly adopting multiple dividend distributions per year."
+    },
+    {
+      "id": "mkt:01a05334-05ae-7118-8400-d99688200214",
+      "time": "2026-08-30 23:05:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President Costa and Iceland's prime minister exchanged messages."
+    },
+    {
+      "id": "5067209",
+      "time": "2026-08-30 23:04:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海電信突發大範圍斷網，官方致歉：經緊急處置陸續恢復，對造成的不便致以誠摯歉意】8月30日晚間訊息，多位網友今日在微博上反映上海電信突發大範圍斷網，有使用者反饋寬頻、手機訊號全面中斷。#上海電信 斷網#登上熱搜。針對此事，中國電信上海客服剛剛發文回應稱，2026年8月30日20時30分，上海電信嘉定部分城區發生網路故障，造成寬頻業務使用者受影響。經緊急處置，服務於21時20分起陸續恢復。“對於本次故障造成的不便，我們致以誠摯歉意，感謝大家的理解與支援。 ”（新浪科技）"
+    },
+    {
+      "id": "5067208",
+      "time": "2026-08-30 23:04:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上半年427家滬市公司宣告中期分紅 現金分紅總額達6330億元】8月30日晚，上交所釋出訊息稱，上半年，427家滬市公司宣告中期分紅，現金分紅總額達6330億元，同比保持增長。其中，六大行合計中期分紅總額達2209億元，16家公司分紅金額超百億元，一批盈利穩增、經營現金流充沛的優質公司一年多次分紅成常態。"
+    },
+    {
+      "id": "5067207",
+      "time": "2026-08-30 23:00:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢朔科技：智慧購物車已進入批次交付階段】漢朔科技(301275)近日在機構調研時表示，AI應用場景的深度落地是核心方向之一，公司圍繞智慧貨架管理、門店實時智慧執行、AI導購與自助結算、智慧巡檢與清潔等場景，構建了從感知到執行的全鏈路AI能力，這些方案正逐步從試點走向規模化落地。智慧購物車已進入批次交付階段，巡檢機器人等相關方案則在國外商超以POC試點形式推進中。"
+    },
+    {
+      "id": "mkt:01a0532f-206f-7118-8400-d3aa8d09f599",
+      "time": "2026-08-30 22:59:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "NASA Administrator Jared Isaacman said President Trump phoned into NASA's press conference following the historic launch of the Roman telescope."
+    },
+    {
+      "id": "mkt:01a0532d-9810-7118-8400-cab2d40bc75a",
+      "time": "2026-08-30 22:58:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting in Trenton, New Jersey kills 2, injures 9】Around 12:25 a.m. local time on Aug. 30, a shooting at a community gathering in Trenton, New Jersey left 11 people wounded; two were killed and nine hospitalized. The event drew roughly 150–200 attendees. Witnesses reported an initial burst of gunfire followed by a second round. Police say the number of shooters is unclear and have not released suspect information. Investigators placed nearly 40 evidence markers; the investigation is ongoing."
+    },
+    {
+      "id": "5067206",
+      "time": "2026-08-30 22:56:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月30日22時50分在新疆阿克蘇地區溫宿縣（北緯42.20度，東經80.52度）發生3.8級地震，震源深度10千米。"
+    },
+    {
+      "id": "5067199",
+      "time": "2026-08-30 22:51:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【塞普勒斯渡輪傾覆事故已致7人死亡23人失蹤】當地時間8月30日，塞普勒斯北部土族領導人表示，當天早些時候在塞北部海域發生的渡輪傾覆事故已造成7人死亡、23人失蹤，其餘237人獲救。目前搜救失蹤者的行動仍在進行中。據悉，涉事渡輪上共載有259名乘客和8名船員。事發海域位於塞普勒斯北部基利尼亞港以北2公里處，海域和港口均位於塞普勒斯土族控制區，出事渡輪原本的目的港是土耳其塔蘇科港。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05326-fedf-7118-8400-c3881c4ca2a8",
+      "time": "2026-08-30 22:50:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ferry capsizes off northern Cyprus; 7 dead, 23 missing】Local time Aug 30, a ferry capsized 2 km north of Kyrenia port in the Turkish Cypriot-controlled area. Turkish Cypriot authorities say 7 people have died and 23 remain missing; 237 of 267 aboard (259 passengers, 8 crew) were rescued. The vessel was en route to Tasucu, Turkey. Search-and-rescue operations are ongoing."
+    },
+    {
+      "id": "5067197",
+      "time": "2026-08-30 22:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心預計，卡琳娜颶風在太平洋開闊海域移動過程中強度將會增加。"
+    },
+    {
+      "id": "5067196",
+      "time": "2026-08-30 22:49:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜媒體辦公室：阿聯酋鑽石貿易量創紀錄達到7690萬克拉，迪拜多種商品交易中心（DMCC）力圖打造培育鑽石產業板塊。"
+    },
+    {
+      "id": "5067195",
+      "time": "2026-08-30 22:48:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港大學上海張江基地二期專案啟用】香港大學上海張江基地二期專案8月30日在張江科學城啟用，進一步拓展學校的教學科研與學生生活空間。 據介紹，張江基地二期專案新增人工智慧實驗室、研究與合作實驗室、智慧計算研究院、教學合作實驗室等教學科研功能。此外，二期專案還將進一步拓展學生校園生活空間，提供運動、互動、共創及多元校園活動場景。（新華社）"
+    },
+    {
+      "id": "5067194",
+      "time": "2026-08-30 22:48:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果曾為摺疊屏iPhone測試觸控筆】8 月 30 日，據知情人士，蘋果曾為摺疊屏 iPhone 手機測試過 Apple Pencil 觸控筆，但最終的市售產品不太可能支援。 知情人士透露，蘋果至少探索過一款更短的 Apple Pencil 原型，它可以透過磁吸方式吸附在手機側面。但公司在測試過程中發現，磁吸筆和摺疊屏手機形態並不是很協調。雖然蘋果可能在未來推出支援 Apple Pencil 的摺疊屏手機。但從目前進度來看，第一代摺疊屏 iPhone 不會配備手寫筆。"
+    },
+    {
+      "id": "5067192",
+      "time": "2026-08-30 22:46:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯武裝力量對基輔州的交通物流中心實施了打擊，因該物流中心存放了無人機零件。"
+    },
+    {
+      "id": "5067190",
+      "time": "2026-08-30 22:43:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026數博會映照“十五五”數字經濟發展新圖景】2026中國國際大資料產業博覽會30日落幕，本屆數博會以“詞元——資料要素價值釋放新路徑”為年度主題，聚焦成果展示、行業交流、展產融合，舉辦各類活動89場，吸引1.6萬餘名嘉賓註冊參會，觀展人數超過9萬人次。372家中外企業參展，展出新技術、新產品1100餘項。機器人沖泡咖啡、大模型推演工廠產銷等展示數字技術的時代脈搏。貴州資料寶網路科技有限公司推出詞元一體機，併成立專門從事具身智慧資料採集的子公司。業內認為，我國數字經濟發展邏輯轉向聚焦資料要素價值深度釋放的精細化階段。算力是本屆數博會的重點展示內容，中科曙光展出十萬卡AI超叢集曙光8000系列產品。貴陽市入選全國首批新型電力系統建設能力提升試點，重點打造算電協同、資料中心綠電保障示範。數字技術賦能實體經濟轉型升級，貴陽本土老字號“徐家脆哨”經過數字化改造，破解手工接單出錯等問題。中國電建集團貴陽勘測設計研究院有限公司釋出城市排水管網診斷AI大模型“城脈·慧診”，以數智手段破解管網治理痛點。《中國資料產業發展報告（2026）》指出，截至2025年底，中國資料企業達48.2萬家，同比增長17.9%。（新華社）"
+    },
+    {
+      "id": "5067187",
+      "time": "2026-08-30 22:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯官員：別爾哥羅德州遭烏軍襲擊。據初步資訊，襲擊已造成人員傷亡，此外還有多地報告發生火災。"
+    },
+    {
+      "id": "mkt:01a05319-912c-7118-8400-b9a64e641500",
+      "time": "2026-08-30 22:36:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reports internal US government documents show the Trump administration, within 10 days, transferred more than 100 deportees from Afghanistan, Cuba, Nicaragua and other countries to eight African countries, expanding its third‑country deportation operations."
+    },
+    {
+      "id": "5067176",
+      "time": "2026-08-30 22:30:29",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【國泰海通：中國股市“金秋行情”仍有望延伸、擴散】國泰海通研報指出，自國泰海通策略在7月19日“擊球區”與8月“部署金秋”判斷以來，中國市場總體上呈現出企穩、修復與回升的態勢。往後看，我們認為中國股市的“金秋行情”仍有延伸的空間，核心動力來自不確定性預期的邊際收斂，推動市場風險偏好的修復：1）市場風險已經顯著下降。兩市成交收縮與波動收斂，表明市場拋售壓力明顯減小；資金流出的態勢基本緩和；股市反彈寬度明顯改善，價值發現功能逐步恢復。2）外部風險衝擊影響的觸峰，恐慌情緒退潮。儘管不是負面因素系統性消解，但當前諸如海外股市去槓桿、美債利率升高、美伊衝突等因素均在近期有所緩和或被主動“管理”波動；此外，美聯儲主席沃什鷹派的通脹治理表態也有利於打消市場顧慮。3）秋天國內經濟政策與資本市場政策支援性的立場，定價環境友好。發改委召開全國投資工作推進會，明確“加力加緊做好穩投資各項工作”；金融部門與住建部集體密集出“穩地產”舉措；證監會火線批覆16只創業板算力和金融科技ETF，以及對中國資產安全性的再次強調。以上舉措雖不能立即改變經濟軌跡，但對於穩定市場預期與活躍市場人氣具有關鍵作用，有利於進一步推動中國股市的“金秋行情”。"
+    },
+    {
+      "id": "mkt:01a05314-32ff-7118-8400-b3926b23c40f",
+      "time": "2026-08-30 22:30:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission spokesperson: Iceland remains a close partner of the EU."
+    },
+    {
+      "id": "5067173",
+      "time": "2026-08-30 22:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人表示，冰島仍是歐盟的緊密夥伴。"
+    },
+    {
+      "id": "mkt:01a05312-b543-7118-8400-af7b6d973d6a",
+      "time": "2026-08-30 22:28:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A European Commission spokesman said the commission respects the choice of the people of Iceland."
+    },
+    {
+      "id": "5067170",
+      "time": "2026-08-30 22:28:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬杜羅社媒平臺釋出監獄照：“一份愛與希望的小禮物”】8月30日，遭美國強行控制的委內瑞拉總統尼古拉斯·馬杜羅的社媒平臺X賬號釋出監獄照，配文稱這是“一份愛與希望的小禮物，將這些照片送給我所有的孫子孫女，送給所有男孩女孩，也送給所有愛我們的善良的人們”。（介面新聞）"
+    },
+    {
+      "id": "5067168",
+      "time": "2026-08-30 22:27:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【招商證券：反彈未止，先攻後守】招商證券研報指出， 展望9月，我們預計A股仍有望延續反彈，但節奏上或呈現先上行後震盪。當前市場仍處於盈利驅動的上行第三階段，二季報業績進一步驗證科技、資源等高景氣方向，市場邏輯正由估值驅動逐步轉向盈利兌現。隨著美債風險釋放，中美關係迎來重要節點，美伊地緣衝突緩和，外圍市企穩反彈，A股外部環境有望邊際改善，產業趨勢方面，AI產業持續加速，國內大模型百花齊放，海外英偉達財報再度驗證AI景氣。具體節奏來看，我們認為9月中上旬將會延續本輪反彈趨勢，而臨近十一假期，從歷史日曆效應來看市場風格相對偏防禦。"
+    },
+    {
+      "id": "5067167",
+      "time": "2026-08-30 22:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德國各界人士看好德中經貿合作前景】德國政商學界和體育界多名人士日前在德國紐倫堡舉行的一場論壇上表示，面對全球經濟格局調整和新一輪科技變革，德中經貿合作具有廣闊空間。 中國駐法蘭克福總領館與德國乒乓球甲級聯賽、德國世界市場領導者學院29日在紐倫堡聯合舉辦乒乓球德國杯暨中德經濟論壇。中國駐法蘭克福總領事黃昳揚表示，合作需要用信任和信心來培育。只要中德雙方不斷交流、一起做事情，這份信任就會越來越深，就會對中德合作投下一張“信心票”。 德國經濟研究所所長馬塞爾·弗拉茨舍爾說，德國要提升競爭力，應重點解決自身問題，而中國始終是德國的重要夥伴。 德國前國防部長魯道夫·沙爾平表示，中國正成為全球研發、設計和技術創新的重要中心。德國的未來在於合作，尤其是加強與中國的合作。 德國世界市場領導者學院創始人兼院長瓦爾特·多林說，德中兩國良性競爭有助於推動雙方發展。近年來，越來越多德國企業前往中國實地考察並達成具體合作協議。 中德企業在汽車領域的合作是本次論壇的一項重要議題。歐寶汽車執行長兼斯泰蘭蒂斯集團德國公司總經理弗洛裡安·許特爾表示，對德國車企而言，不應將中國企業單純視為競爭對手，而應透過發展夥伴關係實現優勢互補。 德國乒乓球甲級聯賽總經理尼科·施特勒表示，乒乓球是連線德中兩國的特殊紐帶，希望以此為平臺增進雙方交流，為德中合作創造更多機遇。(新華社)"
+    },
+    {
+      "id": "5067165",
+      "time": "2026-08-30 22:24:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：能夠為政府客戶提供所需的AI模型選擇。"
+    },
+    {
+      "id": "5067164",
+      "time": "2026-08-30 22:23:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜：AWS GOVCLOUD 美國現已提供多種 AI 模型系列。"
+    },
+    {
+      "id": "mkt:01a0530b-4a87-7118-8400-a3e9a8c710c4",
+      "time": "2026-08-30 22:20:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "IMAX.O",
+        "Impact bullish"
+      ],
+      "text": "【IMAX records strongest summer box office in China in 25 years】IMAX China summer box office surpassed 723 mln yuan through Aug 29, up 39% YoY, driven by strong supply of high-quality releases and concentrated consumer demand for premium viewing. Imported Odyssey posted 310 mln yuan in IMAX receipts and IMAX accounted for 54.6% of the film’s nationwide box office. Spider-Man’s first weekend IMAX takings exceeded 130 mln yuan, the best IMAX opening for a Hollywood release in the mainland since 2019. Domestic film Welcome to Long Restaurant, shot specially for IMAX, passed 700 mln yuan in box office five days after release."
+    },
+    {
+      "id": "5067159",
+      "time": "2026-08-30 22:19:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IMAX票房創25年來最強暑期檔紀錄】IMAX，簡單來說就是“巨幕電影”，以超大銀幕、高解析度影像和定製化沉浸式音響著稱。今年暑期檔，優質大片供給充足，消費者對高品質觀影體驗的需求集中釋放，帶動高階放映市場強勢增長。其中IMAX票房同比增長近四成，創下進入中國25年來的最強暑期檔紀錄。 資料顯示，截至8月29日，IMAX中國暑期檔票房突破7.23億元人民幣，同比增長39%。其中進口片《奧德賽》以3.1億元IMAX票房登頂暑期檔冠軍，IMAX票房佔影片全國總票房比例高達54.6%。電影《蜘蛛俠：嶄新之日》首週末IMAX票房突破1.3億元，創下2019年以來好萊塢影片在內地的最佳IMAX開畫日成績。國產影片方面，IMAX特製拍攝的《歡迎來龍餐館》上映5日後票房突破7億元。今年暑期檔的強勁表現，進一步堅定了IMAX深耕中國市場的信心。截至目前，IMAX在中國內地的影院網路已覆蓋784家影院，另有近200個簽約待開業的專案正在推進中。（央視財經）"
+    },
+    {
+      "id": "mkt:01a05309-10af-7118-8400-98ce658d99b3",
+      "time": "2026-08-30 22:18:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【All contacted Chinese nationals in Nepal landslide relocated to safety】The Chinese Embassy in Nepal said all Chinese nationals contacted after the Nepal landslide had been relocated to safe areas as of local noon."
+    },
+    {
+      "id": "mkt:01a05307-bc76-7118-8400-935b9141864b",
+      "time": "2026-08-30 22:16:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai-listed firms 1H results: adjusted net profit growth fastest since 2022】Shanghai Stock Exchange said on Aug 30 that 2,318 Shanghai-listed companies have completed 2026 1H disclosures. Aggregate 1H revenue totaled 26.22 tln yuan, up 6.3% YoY; net profit was 2.82 tln yuan, up 17.6% YoY; core net profit (excluding non-recurring items) was 2.69 tln yuan, up 17.2% YoY — the fastest pace since 2022. About 80% of firms were profitable in 1H; 924 companies reported YoY profit growth, 339 saw profit rises exceeding 50%, and 142 returned to profit. SSE 180 members reported 17.87 tln yuan in revenue and 2.36 tln yuan in net profit, up 6.9% and 14.8% YoY, respectively."
+    },
+    {
+      "id": "5067156",
+      "time": "2026-08-30 22:16:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬市公司半年報交卷：扣非後淨利潤增速創2022年以來新高】8月30日晚，上交所釋出訊息稱，截至目前，滬市上市公司完成2026年半年報披露。資料顯示，2026年上半年，2318家滬市公司合計實現營業收入26.22萬億元，同比增長6.3%，淨利潤2.82萬億元，同比增長17.6%，扣非後淨利潤2.69萬億元，同比增長17.2%，增速創2022年以來新高。資料還顯示，今年上半年，近八成滬市公司實現盈利。其中，924家淨利潤同比增長，339家淨利潤增幅超50%，142家扭虧為盈。藍籌公司繼續發揮“壓艙石”作用，今年上半年，上證180公司實現營業收入17.87萬億元、淨利潤2.36萬億元，同比分別增長6.9%、14.8%。（證券時報）"
+    },
+    {
+      "id": "mkt:01a05306-ce35-7118-8400-8a1d3319a779",
+      "time": "2026-08-30 22:15:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi state TV reported the Yemeni navy intercepted a vessel carrying Iranian drone components bound for Houthi rebels."
+    },
+    {
+      "id": "mkt:01a05305-e2f3-7118-8400-86b689d8d4c0",
+      "time": "2026-08-30 22:14:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says he will use Venezuelan oil to refill U.S. Strategic Petroleum Reserve】Trump posted that he will use Venezuelan oil to fill the U.S. Strategic Petroleum Reserve, saying U.S. stocks have been largely depleted under President Biden and that the refill process will begin soon."
+    },
+    {
+      "id": "5067153",
+      "time": "2026-08-30 22:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中使館：尼泊爾泥石流災害中已取得聯絡的中方人員全部轉移至安全地區】據中國駐尼泊爾大使館8月30日訊息，截至當地時間當天中午，在尼泊爾泥石流災害中已取得聯絡的中方人員已全部轉移至安全地區。（新華社）"
+    },
+    {
+      "id": "5067150",
+      "time": "2026-08-30 22:13:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱將用委內瑞拉石油填滿美國戰略儲備】特朗普：關於委內瑞拉的石油，我接下來要做的一件事，就是將其用來重新填滿國家戰略石油儲備。由於‘瞌睡喬’拜登的無能，這些儲備幾乎已經被掏空了。‘重新注滿’的過程很快就會啟動，這可以說是委內瑞拉送給美國人民的一份禮物。"
+    },
+    {
+      "id": "mkt:01a05303-c0dd-7118-8400-7f5ece85f039",
+      "time": "2026-08-30 22:12:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA holds private dinner meeting with Kyrgyz president】On Aug 30 local time, CHINA and his wife Peng Liyuan attended a dinner at the presidential residence with Kyrgyz President Sadyr Japarov and his wife; the exchange was described as cordial."
+    },
+    {
+      "id": "mkt:01a05303-2bbb-7118-8400-7464d6e812d6",
+      "time": "2026-08-30 22:11:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump said the US will use Venezuelan oil to fill the Strategic Petroleum Reserve; the process to replenish it to full capacity will begin shortly."
+    },
+    {
+      "id": "5067149",
+      "time": "2026-08-30 22:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平同吉爾吉斯斯坦總統小範圍晤談】當地時間8月30日晚，國家主席習近平和夫人彭麗媛應邀同吉爾吉斯斯坦總統扎帕羅夫和夫人扎帕羅娃在總統官邸共進晚餐，在親切友好的氣氛中進行了交流。（央視新聞）"
+    },
+    {
+      "id": "5067148",
+      "time": "2026-08-30 22:11:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家房改課題組原組長孟曉蘇：“階段性失去收入來源導致還款困難可靈活調整還款計劃”終於寫進國家政策檔案，將從源頭上減少法拍房增量】“檔案一出來我就看到了。說實話，讀到第二十六條的時候，我心裡很感慨。這條寫的是——對於存量個人住房貸款借款人階段性失去收入來源導致還款困難的，銀行業金融機構可以按市場化、法治化原則與借款人自主協商，靈活採取合理延後還款時間、貸款展期、延遲還本等方式調整還款計劃。”8月29日，中國房地產指數系統創始人、原國家房改課題組組長孟曉蘇在接受專訪時感嘆，“為了這段話，我呼籲了整整兩年。兩年裡，我到處奔走、反覆建議。今天，它終於寫進了國家檔案”。8月28日，中國人民銀行、金融監管總局聯合印發《關於改革完善房地產信貸管理 推動加快構建房地產發展新模式的意見》（以下簡稱《意見》），其中的第二十六條共89個字，從制度層面明確階段性收入中斷的借款人可同銀行協商延後還款、展期等。“我的呼籲，一句一句地寫進了國家政策。延後還款時間就是我在講的延期還貸，貸款展期就是我在講的停息延貸，延遲還本就是我說的‘緩一口氣’，一個都沒有少。國家聽到了，政策轉化了。”孟曉蘇說。（每經）"
+    },
+    {
+      "id": "mkt:01a052fe-c407-7118-8400-69609e866233",
+      "time": "2026-08-30 22:07:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports the USDA's coccidia research program has been shelved following funding cuts and the agency's relocation."
+    },
+    {
+      "id": "mkt:01a052fc-e63b-7118-8400-603a0908c41a",
+      "time": "2026-08-30 22:05:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Iraqi Kurdistan Region Interior Ministry said it has handed over a large number of wanted individuals to Baghdad and seized substantial funds and assets."
+    },
+    {
+      "id": "5067145",
+      "time": "2026-08-30 22:02:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順豐董事長王衛加入極兔董事會，任非執行董事】近日，極兔速遞釋出公告，王衛已獲委任為公司非執行董事，任期自2026年8月20日起至2028年12月31日止。據瞭解，王衛，55歲，為順豐控股創始人及實際控制人，並擔任順豐控股董事長、執行董事、總經理及執行長。極兔與順豐的合作早有預兆，今年1月，順豐與極兔達成相互持股協議，將互為對方增發新股，涉資近83億港元。目前，順豐控股為極兔速遞的主要股東，間接持有極兔已發行股份總數的約10.07%。（新浪科技）"
+    },
+    {
+      "id": "mkt:01a052f8-c32a-7118-8400-5e8be6779f1b",
+      "time": "2026-08-30 22:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Canadian firms are flocking into the United States; the U.S. wants cars and other goods produced domestically, and he said Canada has taken advantage of the U.S. for years — that will not continue."
+    },
+    {
+      "id": "mkt:01a052f8-3616-7118-8400-54db3f77784f",
+      "time": "2026-08-30 21:59:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. conservative political journalist and former Fox News host Tucker Carlson said if Trump is contemplating first use of nuclear weapons he should be removed from office, because even considering that possibility should disqualify a president as an uncrossable red line."
+    },
+    {
+      "id": "5067144",
+      "time": "2026-08-30 21:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 加拿大企業正大量湧入美國。我們要實現汽車等產品本土生產，這就是將要發生的局面。加拿大多年來一直在佔我們的便宜 —— 這種日子結束了！"
+    },
+    {
+      "id": "mkt:01a052f6-d896-7118-8400-4d6f7280a71e",
+      "time": "2026-08-30 21:58:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Core aides resign as Trump’s term enters critical phase】Multiple senior aides have resigned from President Trump’s team over the past month, forcing greater reliance on a smaller inner circle. Departures include the chief spokesperson, the top legal counsel, a key national security adviser and the senior official for congressional liaison; White House press secretary Leavitt left this month. Additional senior officials are reportedly considering departures in coming months. The resignations come as Republicans face the risk of losing their congressional majority in November’s midterms; if Democrats win control of Congress, the administration could face subpoenas and investigations. Finding replacements is said to be difficult."
+    },
+    {
+      "id": "5067143",
+      "time": "2026-08-30 21:57:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們想自己造汽車,事情就是這樣。"
+    },
+    {
+      "id": "5067142",
+      "time": "2026-08-30 21:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱加拿大 “多年來一直在佔我們的便宜”。"
+    },
+    {
+      "id": "mkt:01a052f4-e1d5-7118-8400-4643dc7b74d4",
+      "time": "2026-08-30 21:56:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dreame sues Xiaohongshu operator over reputational-rights dispute】Court records show Dreame Technology (Suzhou) Co. has sued Xingyin Information Technology (Shanghai) Co., the domestic core operating entity of Xiaohongshu, in a reputational-rights dispute; the hearing is set for Sept. 8 at Shanghai Huangpu District People’s Court."
+    },
+    {
+      "id": "5067141",
+      "time": "2026-08-30 21:54:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：以色列財政部長推進汽油消費稅下調工作。"
+    },
+    {
+      "id": "5067140",
+      "time": "2026-08-30 21:53:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【追覓起訴小紅書】追覓科技（蘇州）有限公司因名譽權糾紛起訴行吟資訊科技（上海）有限公司（小紅書國核心心運營主體公司），該案將於9月8日在上海市黃浦區人民法院開庭。（第一財經）"
+    },
+    {
+      "id": "5067139",
+      "time": "2026-08-30 21:52:33",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【高盛押中大牛股 本週豪取五連板】本週，受控制權擬變更事件催化，海鷗住工（002084.SZ）股價走出五連板行情，成為A股市場的熱門大牛股。根據公司披露的半年報，QFII（合格境外機構投資者）高盛國際在二季度末躋身公司前十大流通股東，合計持有494.41萬股股份；若該持股數量保持不變，僅本週的股價上漲就為高盛帶來近1100萬元的賬面浮盈。"
+    },
+    {
+      "id": "5067138",
+      "time": "2026-08-30 21:52:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【開源證券換帥，陝煤老將李盈斌出任總經理】近日，開源證券釋出公告，聘任李盈斌為公司總經理、執行委員會副主任委員，董事長李剛不再兼任總經理職務。回顧來看，2017年7月，開源證券原總經理陶娟辭職後，董事長李剛便開始兼任總經理一職。隨著李盈斌此次履新，李剛長達9年的董事長、總經理“一肩挑”管理模式正式畫上句號。值得一提的是，李盈斌此前曾擔任開源證券董事，任職時長8年。（每經）"
+    },
+    {
+      "id": "mkt:01a052ef-bfd3-7118-8400-38a5b86e696c",
+      "time": "2026-08-30 21:50:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA said Iranian President PEZESHKIAN will visit Kyrgyzstan on Monday."
+    },
+    {
+      "id": "5067137",
+      "time": "2026-08-30 21:48:57",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲傳聲筒：沃什目前已經陷入兩難的局面，是否加息幾乎完全押注在通脹資料上】素有“美聯儲傳聲筒 ”之稱的名記Nick Timiraos表示，過去，美聯儲的預設立場是“按兵不動”，除非資料明確支援加息。但在沃什於傑克遜霍爾（Jackson Hole）發表講話後，多位前央行官員認為他已經“改寫了劇本”：現在的邏輯變成了，必須有明確的資料理由，美聯儲下個月才能選擇“不採取行動”。如果接下來的資料和局勢沒有給出“不加息”的合理藉口，美聯儲將面臨一個極其棘手的兩難抉擇：要麼繼續按兵不動，但這會重新引爆7月份曾讓債券市場感到不安的恐慌情緒；要麼選擇加息，但這將直接違背任命沃什的總統的意願，且時間點恰好在中期選舉前的幾周，政治敏感度極高。"
+    },
+    {
+      "id": "mkt:01a052ed-5236-7118-8400-349a1d439715",
+      "time": "2026-08-30 21:47:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Google Maps alters Lake Ontario label; shows \"American Lake\" to U.S. users】Google said on Saturday it had begun changing its Maps service after President Trump last week signed an executive order renaming the lake between Ontario province and New York state \"American Lake\" amid a US-Canada trade dispute. U.S. users will see \"American Lake\"; Canadian users will continue to see Lake Ontario; users outside the US and Canada will see both names, with \"American Lake\" shown in parentheses."
+    },
+    {
+      "id": "5067130",
+      "time": "2026-08-30 21:42:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統府：伊朗總統佩澤希齊揚將前往吉爾吉斯斯坦首都比什凱克，出席上海合作組織峰會。"
+    },
+    {
+      "id": "mkt:01a052e6-88d9-7118-8400-2bb8f56f7170",
+      "time": "2026-08-30 21:40:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Channel 12 reports Israel's finance minister is expected to sign an order cutting the fuel consumption tax to offset projected sharp fuel-price increases from a blockade of Iran and lower consumer pump prices."
+    },
+    {
+      "id": "5067129",
+      "time": "2026-08-30 21:39:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藥易購董事長引咎辭職原因】提供給上市公司和審計機構的個人關聯方資訊，出現了遺漏的情形，藥易購（300937.SZ）原董事長陳順軍成為A股公司第二位引咎辭職的董事長。 藥易購8月27日披露，當天收到書面辭職報告，陳順軍因前述原因，引咎辭去該公司董事長、總經理等職。 公開資料顯示，陳順軍2022年正式進入藥易購董事會，此後深受重用，短短三年時間，就成為執掌這家公司的董事長、總經理。 而陳順軍提供的個人關聯方資訊，到底遺漏了哪些重要內容，藥易購沒有披露。（第一財經）"
+    },
+    {
+      "id": "mkt:01a052e5-ae57-7118-8400-2026b22971e6",
+      "time": "2026-08-30 21:39:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla launches lower-priced Model 3 in Hong Kong and Macau】Tesla has launched a simplified, lower-priced Model 3 in Hong Kong and Macau. The Hong Kong starting price is HKD 205,000 (≈USD 26,150), about 8.5% below the prior base model; Macau starting price is MOP 252,000 (≈USD 31,200). Tesla has removed or downgraded some interior and exterior features while the official single-charge maximum range is listed at 572 km."
+    },
+    {
+      "id": "mkt:01a052e5-1972-7118-8400-18732e1028ae",
+      "time": "2026-08-30 21:39:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Seventh China–New Zealand Climate Change Ministerial Dialogue held】China's ecology and environment minister Huang Runqiu and his New Zealand counterpart held the seventh China–New Zealand ministerial dialogue on climate change. Huang outlined China's recent climate actions and climate work deployments for the 15th Five-Year period, set out China's position on advancing global climate governance, and flagged expectations for COP31 in Antalya. He proposed deepening China–New Zealand climate policy dialogue and practical cooperation; both sides said they would continue constructive cooperation on environment and climate issues."
+    },
+    {
+      "id": "mkt:01a052df-2bc5-7118-8400-1405d5ddfbb5",
+      "time": "2026-08-30 21:32:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran navy commander rebuts Trump, says navy remains combat-capable】After US President Trump repeatedly claimed all Iranian naval vessels had been destroyed, Iran state broadcaster IRIB cited Navy commander Shahram Irani saying the navy \"still exists and is in good condition\" and \"continues to carry out missions with resolute force and will, sparing no effort to defend Iran and safeguard national security.\""
+    },
+    {
+      "id": "mkt:01a052dd-9173-7118-8400-0d058858635e",
+      "time": "2026-08-30 21:30:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Iceland's prime minister said the government will continue to strengthen ties with the European Economic Area and will not enter into talks on EU membership."
+    },
+    {
+      "id": "5067119",
+      "time": "2026-08-30 21:29:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特斯拉在中國香港、中國澳門推出更平價版Model 3】特斯拉已正式在中國香港、中國澳門市場推出配置簡化、售價更低的Model 3轎車版本。根據特斯拉官網資訊，這款新車型在中國香港的起售價為‌20.5萬港元（約合26150美元）‌，比此前在售的基礎版車型售價降低8.5%；在中國澳門的起售價為‌25.2萬澳門元（約合31200美元）‌。該版本對部分內外飾配置進行了刪減或降級，調整範圍涵蓋氛圍燈、內飾紡織面料、輪轂等部件，同時官方標稱的單次充電最大續航里程提升至572公里。"
+    },
+    {
+      "id": "5067118",
+      "time": "2026-08-30 21:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南磨憨緊急組織轉移8115人】記者8月30日從昆明市防汛抗旱指揮部辦公室和磨憨—磨丁經濟合作區應急指揮中心獲悉，受29日強降雨影響，磨憨鎮已緊急組織轉移8115人。相關部門緊急調撥各類救援物資運至集中安置點，各類生活物資保障到位，可滿足集中安置點群眾需求。（新華社）"
+    },
+    {
+      "id": "mkt:01a052d9-7611-7118-8400-055c082ed317",
+      "time": "2026-08-30 21:26:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK",
+        "Japan & APAC",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "WTI"
+      ],
+      "text": "【Next week preview: US August nonfarm payrolls, China August PMIs, G20 finance ministers & central bank governors meeting】Monday — China August official manufacturing PMI; Germany preliminary August CPI (MoM); Dallas Fed business activity index (Aug). G20 finance ministers and central bank governors meeting runs through Sept. 1. Tuesday — China August RatingDog manufacturing PMI; final Aug manufacturing PMIs for France, Germany, UK and euro area; euro area preliminary Aug CPI and July unemployment; UK Nationwide house prices (Aug MoM) and July mortgage approvals; Switzerland retail sales (Jul YoY). US final/flash PMIs, ISM manufacturing (Aug), JOLTs vacancies (Jul) and July construction spending. SCO heads-of-state council meeting. Corporate: NIO, Dell (post‑close). Wednesday — US weekly API and EIA crude inventories (week to Aug. 28); Australia Q2 GDP (YoY); US ADP payrolls (Aug) and July factory orders. RBNZ rate decision and policy statement. BOC rate decision; Governor Macklem and SDG Rogers hold policy press conference. Corporate: Broadcom (post‑close). Thursday — China August RatingDog services PMI; Swiss Aug CPI (MoM); final Aug services PMIs for France, Germany, UK and euro area; euro area July PPI (MoM). US Challenger layoffs (Aug), initial jobless claims (week to Aug. 29), July trade balance, final S&P Global services PMI (Aug) and ISM non‑manufacturing (Aug). EIA weekly natural gas storage (week to Aug. 28). Fed Beige Book release; Fed Governor WALLER interview. Friday — euro area July retail sales (MoM); Canada August employment. US August unemployment rate, seasonally adjusted nonfarm payrolls and average hourly earnings (YoY and MoM). August global supply‑chain pressure index. FOMC voter and Cleveland Fed president to open the “Fed Community” event. BOE Governor BAILEY speaks. Saturday — US Baker Hughes rig count (week to Sept. 4). ARAMCO publishes official crude selling prices around the 5th of the month."
+    },
+    {
+      "id": "5067115",
+      "time": "2026-08-30 21:24:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "冰島總理：我們將繼續與歐盟深化歐洲經濟區（EEA）關係。"
+    },
+    {
+      "id": "5067114",
+      "time": "2026-08-30 21:23:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟委員會正在制定一項法律，允許歐盟各國對透過Airbnb等平臺進行的短期住房租賃加以限制。"
+    },
+    {
+      "id": "mkt:01a052d3-f9b1-7118-83ff-fe2bbe3900cb",
+      "time": "2026-08-30 21:20:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan LDP 'contribution' scandal widens; another Fukuoka official may resign】A scandal that the Fukuoka branch of Japan’s ruling Liberal Democratic Party pressured members into making sizable payments is intensifying. Japanese media reported on the 30th that after the Fukuoka prefectural assembly speaker resigned, another implicated official — Matsumoto, head of the LDP Fukuoka federation — is considering resignation. In July a former Fukuoka assembly speaker, Yoshimatsu, alleged the LDP Fukuoka assembly group demanded money before he took office in June 2020, citing charges for party social golf outings, lodging, transport and high-end dining that together totaled about JPY20mln (roughly 850k yuan). Several former speakers and vice speakers have said they, too, paid several million yen prior to assuming office."
+    },
+    {
+      "id": "5067111",
+      "time": "2026-08-30 21:14:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "冰島總理：不會繼續推進入歐談判。"
+    },
+    {
+      "id": "mkt:01a052ce-9698-7118-83ff-f0c262679d5a",
+      "time": "2026-08-30 21:14:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. launches Nancy Grace Roman Space Telescope】NASA’s next‑generation Nancy Grace Roman Space Telescope lifted off on Oct. 30 at 07:26 ET (19:26 Beijing) aboard SpaceX’s Falcon Heavy from Kennedy Space Center. The telescope will head to the Sun–Earth L2 point about 1.5 million km from Earth to observe dark matter, dark energy and exoplanets. Design life is five years with a possible five‑year extension; first science images are expected in early 2027."
+    },
+    {
+      "id": "5067110",
+      "time": "2026-08-30 21:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶市忠縣人大常委會黨組原書記、主任雷亞平接受審查調查】中央紀委國家監委網站8月30日通報，據重慶市紀委監委訊息：重慶市忠縣人大常委會黨組原書記、主任雷亞平涉嫌嚴重違紀違法，目前正接受重慶市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5067109",
+      "time": "2026-08-30 21:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "冰島總理表示，冰島仍希望同歐盟開展合作。"
+    },
+    {
+      "id": "5067108",
+      "time": "2026-08-30 21:13:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "冰島總理稱已與歐洲理事會主席科斯塔取得聯絡。"
+    },
+    {
+      "id": "5067107",
+      "time": "2026-08-30 21:13:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏吉隆口岸首個緊鄰國門的應急基站開通投用】記者從西藏自治區通訊管理局瞭解到，吉隆口岸首個緊鄰國門的應急基站開通投用。通訊搶修人員透過距吉隆口岸熱索橋約1.6公里左右新建的基站與在口岸的救援隊員完成通話。截至目前，西藏電信企業已搶通修復1個基站，新增8個基站，其中吉隆縣至吉隆鎮方向新建2個基站、吉隆鎮至吉隆口岸方向新建6個基站。（央視新聞）"
+    },
+    {
+      "id": "5067106",
+      "time": "2026-08-30 21:12:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國發射羅曼空間望遠鏡】美國航空航天局新一代空間望遠鏡——南希·格蕾絲·羅曼空間望遠鏡30日搭乘美國太空探索技術公司的“獵鷹”重型運載火箭升空，旨在助力科學家探索暗物質、暗能量、系外行星等宇宙奧秘。 美國東部時間30日7時26分（北京時間30日19時26分），搭載羅曼空間望遠鏡的“獵鷹”重型運載火箭從佛羅里達州肯尼迪航天中心發射升空。隨後火箭一二級分離，火箭第二級繼續飛行，將羅曼空間望遠鏡送入預定軌道。火箭的兩枚側助推器也成功實現陸地回收。 據美航空航天局介紹，羅曼空間望遠鏡以該機構首任首席天文學家的名字命名，其主鏡直徑約2.4米，與美航空航天局的哈勃空間望遠鏡相當，但視場可達後者的100倍以上。羅曼空間望遠鏡將藉助其寬視場儀器和日冕儀開展大規模巡天觀測。 按計劃，羅曼空間望遠鏡將前往距離地球約150萬公里的日地拉格朗日L2點展開觀測，該點位於地球背向太陽一側的引力平衡位置，羅曼空間望遠鏡將獲得比哈勃等近地軌道望遠鏡更為開闊的視野。 美航空航天局表示，羅曼空間望遠鏡的設計執行時間為5年，可支援額外5年的延期任務，其拍攝的首批科學影象預計將於2027年初發布。(新華社)"
+    },
+    {
+      "id": "mkt:01a052ca-787c-7118-83ff-e884baf52676",
+      "time": "2026-08-30 21:09:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump to file complaint with FCC against NBC host】President Trump said on Sunday he will file a complaint with the Federal Communications Commission against NBC host Kristen Welker, seeking “censure or punishment”. Trump said Welker reported his endorsements of candidates were “mixed”."
+    },
+    {
+      "id": "5067102",
+      "time": "2026-08-30 21:06:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：質疑我政治背書的主持人應該被聯邦通訊委員會處罰！】美國總統特朗普近日發表宣告，公開抨擊NBC《會見新聞界》節目主持人克里斯滕·韋爾克（Kristen Welker）及主流媒體，指控其蓄意歪曲事實並抹黑其政治背書成效。特朗普在宣告中指出，韋爾克錯誤宣稱其候選人背書“成績喜憂參半”。他反駁稱，資料顯示其背書候選人的近期及長期勝率高達99%，其中參議院背書勝率為100%，眾議院勝率為98%。特朗普強調，這是美國政治史上最強有力的背書，並指責極左翼媒體刻意壓制其背書候選人（如林賽·格雷厄姆及俄克拉荷馬州州長）勝選的報道。針對這一爭議，特朗普表示將向聯邦通訊委員會（FCC）正式舉報相關媒體，要求對其利用公共廣播頻段釋出“蓄意不實資訊”的行為予以譴責或處罰。他同時呼籲FCC主席布倫丹·卡爾（Brendan Carr）嚴肅對待該問題，稱此類“假民調”與虛假評論已構成對國家的威脅。"
+    },
+    {
+      "id": "5067097",
+      "time": "2026-08-30 21:01:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：克里斯汀·韋爾克將被上報至聯邦通訊委員會，以接受斥責或處罰。"
+    },
+    {
+      "id": "5067096",
+      "time": "2026-08-30 21:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲首座人形機器人量產基地正式投產】當地時間8月29日，塞爾維亞首座機器人工廠在該國西部城市沙巴茨正式投產。這座由中塞兩國聯合建設的工廠，也是歐洲首座人形機器人量產基地。據介紹，這座機器人工廠一期投資額為2000萬歐元，約合1.56億元人民幣，佔地約3000平方米，主要開展人形機器人和機器狗的組裝、運動及視覺系統校準和效能測試。工廠生產的人形機器人未來將首先應用於工業生產，並逐步拓展至教育、公共服務等領域。按照規劃，專案後續還將在塞爾維亞建設機器人產業園，計劃總投資額約2億歐元，約合15.6億元人民幣。專案全部建成後，人形機器人和機器狗的年產能預計最高可達2萬臺，產品將面向歐洲及全球市場。（央視財經）"
+    },
+    {
+      "id": "5067094",
+      "time": "2026-08-30 20:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深港聯合開展皇崗口岸跨境通關壓力測試】8月29日下午，深圳相關單位與香港特區政府聯合在皇崗口岸進行跨境通關壓力測試。這是該口岸自7月31日港方口岸區正式成立以來規模最大的一次深港聯合行動。（新華社）"
+    },
+    {
+      "id": "5067093",
+      "time": "2026-08-30 20:56:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "北塞普勒斯土耳其族領導人：渡輪傾覆事故中，救援隊仍在努力搜尋失聯的23人，目前已造成7人死亡。"
+    },
+    {
+      "id": "mkt:01a052bd-7a48-7118-83ff-e0f382ffbca8",
+      "time": "2026-08-30 20:55:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India and Uzbekistan agreed to a $5 billion bilateral trade deal to be achieved over the next four years."
+    },
+    {
+      "id": "5067089",
+      "time": "2026-08-30 20:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：CIA局長訪俄提議舉行美俄烏三方峰會】據美國阿克西奧斯新聞網站29日報道，美國中央情報局局長拉特克利夫日前訪問俄羅斯時，提議舉行由美國總統特朗普、俄羅斯總統普京和烏克蘭總統澤連斯基參加的三方會晤，以推動結束俄烏戰事。報道援引兩名知情人士的話說，拉特克利夫此次訪俄的目的之一，是評估俄情報部門負責人能否說服普京同意恢復由美國斡旋的俄烏談判。報道說，拉特克利夫25日突訪俄羅斯，分別會見俄羅斯對外情報局局長謝爾蓋·納雷什金和聯邦安全域性局長亞歷山大·博爾特尼科夫，並向俄方提議重啟和平談判。澤連斯基28日透過美方官員得知拉特克利夫訪俄情況及有關舉行三方會晤的提議。特朗普政府此前提出舉行美俄烏領導人三方會晤。澤連斯基表示願意參加，但普京拒絕這一提議。（新華社）"
+    },
+    {
+      "id": "5067088",
+      "time": "2026-08-30 20:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度與烏茲別克同意，在未來四年達成50億美元雙邊貿易協議。"
+    },
+    {
+      "id": "mkt:01a052bc-2dcc-7118-83ff-dd739817d12b",
+      "time": "2026-08-30 20:54:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【G5 Sahel condemns failed coup attempt in Niger】G5 Sahel said on the 29th it condemned a failed coup attempt in Niamey and reaffirmed firm support for Niger’s response. It said a group of soldiers tried in the early hours of the 29th to attack military base No.101 and other sensitive locations in Niamey; the attempt was contained and foiled. G5 Sahel said it will continue to support Niger in defending sovereignty and maintaining peace."
+    },
+    {
+      "id": "mkt:01a052bb-3d07-7118-83ff-d38ccffeaaae",
+      "time": "2026-08-30 20:53:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanxi Fenjiu 1H 2026 net profit 6.439 bln yuan, down 24.29% YoY】Shanxi Fenjiu on Aug 30 reported 1H 2026 results: revenue 21.044 bln yuan, down 12.18% YoY; net profit attributable to shareholders 6.439 bln yuan, down 24.29% YoY; basic EPS 5.2783 yuan."
+    },
+    {
+      "id": "mkt:01a052ba-3b0a-7118-83ff-cec6a98e8af5",
+      "time": "2026-08-30 20:52:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Iran war lifts G7 government borrowing costs; US bears largest increase】FT analysis: since the US launched a war against Iran in February, rising global bond yields have pushed up borrowing costs for major developed economies. Yield moves have added roughly $16 bln to locked-in sovereign financing costs for G7 governments; if the trend continues through end‑Q1 next year the extra cost could reach about $34 bln. Almost all G7 government yields across maturities now exceed February levels. The US has borne the bulk of the increase—about $10.6 bln so far and an estimated $21.7 bln if yields remain elevated through end‑Q1 2027—while energy-importing G7 economies including the UK, Italy, Germany and Japan have also been hit; other G7 countries account for slightly more than one-third of the additional cost."
+    },
     {
       "id": "5067087",
       "time": "2026-08-30 20:51:23",
@@ -123404,455 +124349,6 @@
         "市場"
       ],
       "text": "【全國雞肉價格連漲兩週 我國雞肉產品出口大增】白羽肉雞是雞胸、雞腿等分割品的常見原料，也是快餐的主要食材，目前我國白羽肉雞消費佔整個雞肉市場的60%左右。近期，全國白羽肉雞雞苗量價齊漲，種禽企業效益整體向好。王木洪在山東濰坊諸城市經營著一家年出欄20多萬隻肉雞的養殖場，他告訴記者，7月30日出欄的一批4萬隻肉雞，每隻雞可以盈利1.5元。王木洪介紹，今年以來，肉雞出欄價格基本保持在每斤3.5元左右，高於成本0.2元-0.3元，養殖整體處於盈利期，他於8月上旬新購入4萬羽雞苗，出欄可以趕上中秋、國慶的消費旺季。近期雞肉價格偏強執行，也提升了養殖端的盈利水平，8月份第三週全國雞肉價格為每公斤22.45元，環比上漲0.1%，同比上漲0.2%，已經連續兩週上漲。 此外，受到部分國家禽流感和地緣衝突等因素的影響，今年國際禽肉市場供需格局出現階段性變化，我國雞肉產品出口企業抓住機會，憑藉產品多元化、價優以及適配性高等特點，出口呈爆發態勢。今年上半年，禽肉出口量84.41萬噸，同比增長59.5%，出口額18.65億美元，同比增長37%。不僅出口增長快，國內雞肉生產企業持續進行裝置升級、工藝標準化和數字化改造，提升質量標準，加快進入國際餐飲品牌。 (央視財經)"
-    },
-    {
-      "id": "5053820",
-      "time": "2026-08-23 23:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱烏克蘭未參與北溪管道爆炸事件】烏克蘭總統澤連斯基表示，烏克蘭並未參與北溪天然氣管道的破壞行動。應德國方面要求，克羅埃西亞逮捕一名名為弗拉基米爾·Z的烏克蘭籍嫌疑人，據稱其屬於使用炸藥炸燬管道的團伙成員。澤連斯基表示願意配合調查，稱烏克蘭總檢察院與外交部已介入此事。"
-    },
-    {
-      "id": "5053819",
-      "time": "2026-08-23 23:32:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“亞太廣播聯盟機械人(機器人)大賽”在香港舉行】“亞太廣播聯盟機械人(機器人)大賽”23日在香港舉行。本賽事由香港電臺和香港科技園公司聯合舉辦，吸引了16支來自15個國家及地區的大學隊伍同場競技。最終，來自香港大學的團隊奪得冠軍。（新華社）"
-    },
-    {
-      "id": "5053818",
-      "time": "2026-08-23 23:31:28",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會國家安全與外交政策委員會發言人週日表示，該委員會已批准一項條款，允許德黑蘭向獲准通行霍爾木茲海峽的各國船隻收取海事及其他相關服務費。"
-    },
-    {
-      "id": "5053817",
-      "time": "2026-08-23 23:27:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京表示，烏克蘭針對俄羅斯開展的為期40天的“影響力行動”未能對戰局產生影響，並稱俄軍仍在持續推進。"
-    },
-    {
-      "id": "5053816",
-      "time": "2026-08-23 23:25:04",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲卡什卡利：國債市場仍在“正常運轉”】明尼阿波利斯聯邦儲備銀行行長卡什卡利淡化市場對美國國債收益率上行的擔憂，表示市場執行狀況良好。卡什卡利稱，當前國債收益率相較於近期歷史水平處於高位，但上世紀90年代收益率曾顯著更高。卡什卡利對通脹無法在短期內回落至目標水平表達擔憂，但並未明確表態會在9月會議上主張加息。"
-    },
-    {
-      "id": "5053815",
-      "time": "2026-08-23 23:24:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度進口俄羅斯原油創新高】受霍爾木茲海峽航運持續受阻影響，印度近期大幅增加進口俄羅斯原油，6月和7月進口量創下新高。據英國《金融時報》23日援引船舶追蹤機構克普勒公司首席分析師蘇米特·裡託利亞的話報道，印度6月和7月日均進口俄羅斯原油逾260萬桶，較2月低點的約100萬桶大幅增加，佔該國日均原油進口總量的一半以上。（央視新聞）"
-    },
-    {
-      "id": "5053814",
-      "time": "2026-08-23 23:19:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“紫檀”造成廣西10條河流15個站超警 緊急轉移安置8087人】受今年第19號颱風“紫檀”影響，廣西多地出現暴雨到大暴雨、局地特大暴雨，多條河流超警戒水位，防城港市、崇左市等部分鄉鎮遭遇洪水險情。8月23日，廣西召開防汛防颱影片會商排程會，據統計，截至8月23日18時，防城港、崇左、南寧等6個市的17個縣（市、區）的64個鄉鎮（街道）出現大暴雨，局地特大暴雨，10個市的30個縣（市、區）的92個鄉鎮（街道）出現暴雨。明江及支流公安河、派連河，左江及上游平而河等10條河流15個站超警，颱風已造成受災人口6.1萬人，因災轉移5.4萬人，緊急轉移安置8087人，各項防汛救災工作正有序紮實開展。（央視新聞）"
-    },
-    {
-      "id": "5053813",
-      "time": "2026-08-23 23:19:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞士東部一建築火災致4人死亡】瑞士警方23日表示，搜救人員在瑞士東部格勞賓登州圖西斯火災現場發現4名火災失蹤者遺體。"
-    },
-    {
-      "id": "5053812",
-      "time": "2026-08-23 23:13:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞外交部長阿薩德·沙伊巴尼今日在約旦會見以色列摩薩德局長羅曼·戈夫曼，意在緩和以色列近期空襲敘利亞空軍基地之後的雙方緊張局勢。"
-    },
-    {
-      "id": "5053811",
-      "time": "2026-08-23 23:10:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【突尼西亞附近海域非法移民船傾覆已致11人死亡】突尼西亞國民警衛隊23日釋出宣告稱，突尼西亞東南部海域21日發生的非法移民船傾覆事件已導致11人死亡。"
-    },
-    {
-      "id": "5053810",
-      "time": "2026-08-23 23:08:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長邁克·約翰遜：如果伊朗衝突能在期中選舉前結束，那就太好了。"
-    },
-    {
-      "id": "5053809",
-      "time": "2026-08-23 23:07:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞、以色列官員週日舉行會晤，旨在緩和緊張局勢。"
-    },
-    {
-      "id": "5053808",
-      "time": "2026-08-23 23:06:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長邁克·約翰遜：最好不要押注共和黨會輸。"
-    },
-    {
-      "id": "5053807",
-      "time": "2026-08-23 22:48:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心：熱帶風暴伊塞爾在墨西哥遠海海域形成。"
-    },
-    {
-      "id": "5053806",
-      "time": "2026-08-23 22:46:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國縱貫鐵路公司稱因停電取消英全境大部分列車服務】據英國天空新聞頻道8月23日報道，英國縱貫鐵路公司稱，因其位於伯明翰的控制中心發生停電，導致23日上午開始該公司中斷運營，“幾乎所有”線路的列車均被取消或延誤，恢復時間另行通知。（新華社）"
-    },
-    {
-      "id": "5053805",
-      "time": "2026-08-23 22:40:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：對通脹迴歸目標水平沒有信心。"
-    },
-    {
-      "id": "5053804",
-      "time": "2026-08-23 22:39:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：收益率上行並未增加美聯儲的工作難度。"
-    },
-    {
-      "id": "5053803",
-      "time": "2026-08-23 22:38:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：如何削減債務是國會的職責。"
-    },
-    {
-      "id": "5053802",
-      "time": "2026-08-23 22:38:08",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：美國債務走勢正處於不可持續的軌道。"
-    },
-    {
-      "id": "5053801",
-      "time": "2026-08-23 22:37:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：很難判斷債券收益率的主要驅動因素。"
-    },
-    {
-      "id": "5053800",
-      "time": "2026-08-23 22:36:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【王毅會見約旦副首相兼外交大臣薩法迪】中共中央政治局委員、外交部長王毅23日在北京會見陪同阿卜杜拉二世國王訪華的約旦副首相兼外交大臣薩法迪。王毅表示，習近平主席珍視同阿卜杜拉二世國王建立的友誼與互信。這是阿卜杜拉二世國王時隔11年再次訪華，相信此訪將取得圓滿成功。中方讚賞約方堅定奉行對華友好政策，恪守一箇中國原則。（新華社）"
-    },
-    {
-      "id": "5053799",
-      "time": "2026-08-23 22:34:38",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：未見國債市場出現功能失調跡象。"
-    },
-    {
-      "id": "5053798",
-      "time": "2026-08-23 22:33:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心：拉拉颶風在開闊海域上空強度略有減弱。"
-    },
-    {
-      "id": "5053797",
-      "time": "2026-08-23 22:33:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【突尼西亞海岸警衛隊稱已找到8具沉船事故遇難者遺體】當地時間8月23日，突尼西亞海岸警衛隊宣佈已找到8具沉船事故的遇難者遺體，搜尋其他失蹤人員的工作仍在繼續。（央視新聞）"
-    },
-    {
-      "id": "5053796",
-      "time": "2026-08-23 22:31:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西南寧市鬱江防洪四級應急響應提升為三級應急響應】8月23日，記者從廣西南寧市應急管理委員會瞭解到，8月23日20時，邕江南寧水文站水位已達71.41米，預計8月24日上午鬱江南寧城區河段將出現超警戒水位（73.0米）的洪水。按照《南寧市鬱江防洪應急預案》規定，經南寧市應急管理委員會領導批准，決定於8月23日20時將南寧市鬱江防洪四級應急響應提升為三級應急響應。請各縣（市、區）、開發區和相關成員單位按照預案的有關規定和職責分工，做好江河洪水防禦工作，確保人民群眾生命財產安全。（央視新聞）"
-    },
-    {
-      "id": "5053795",
-      "time": "2026-08-23 22:12:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱針對美國各種敵對行動均已制定應對方案】伊朗塔斯尼姆通訊社23日報道，伊朗伊斯蘭革命衛隊發言人穆赫比當天表示，伊朗針對美國各種敵對行動均已制定應對方案，包括應對經濟施壓。穆赫比在伊朗北部城市卡拉季舉行的新聞釋出會上說，美國日前宣佈對伊朗發動“最嚴厲的經濟戰”，這一表態實際上表明美方在軍事領域未能實現目標。他說，美國對伊朗實施經濟制裁已有47年，當前有關“經濟戰”的表態意在對伊朗民眾施加心理影響。（新華社）"
-    },
-    {
-      "id": "5053794",
-      "time": "2026-08-23 22:05:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【駐沙特大使館提醒在沙中國公民遵守出入境大額現金申報規定並謹防各類詐騙】據“中國駐沙特大使館”公眾號訊息，近日，有數名中國公民因未按照沙特新修訂《反洗錢法執行條例》要求在出入境時申報攜帶的大額現金，被沙有關部門拘押。此外，針對中國公民的電信詐騙和私下換匯詐騙盜搶案件頻發。中國駐沙特大使館鄭重提醒在沙中國公民遵守當地法規並謹防各類詐騙。"
-    },
-    {
-      "id": "5053793",
-      "time": "2026-08-23 21:58:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：加沙方面正試圖使用武器化無人機。"
-    },
-    {
-      "id": "5053792",
-      "time": "2026-08-23 21:57:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國今年以來已有82人死於登革熱】孟加拉國衛生服務總局最新資料顯示，截至8月23日，今年該國登革熱死亡人數已升至82人。資料顯示，目前孟加拉國全國仍有1951名登革熱患者在不同醫院接受治療。今年1月1日以來，全國累計有28929名登革熱患者住院治療，其中26896人已經康復出院。（央視新聞）"
-    },
-    {
-      "id": "5053791",
-      "time": "2026-08-23 21:54:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本浦河附近海域發生6.0級地震】當地時間23日22時00分左右，日本浦河附近海域發生6.0級地震，最大震感為震度4，震源深度40公里。（央視新聞）"
-    },
-    {
-      "id": "5053790",
-      "time": "2026-08-23 21:53:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國知名價值投資者Michael Burry：不會將該部分任何頭寸調回阿里巴巴。"
-    },
-    {
-      "id": "5053789",
-      "time": "2026-08-23 21:52:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "日本北海道近海發生6.0級地震。（新華社）"
-    },
-    {
-      "id": "5053788",
-      "time": "2026-08-23 21:52:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國知名價值投資者Michael Burry： 數月前已將阿里巴巴持倉調轉為京東頭寸。"
-    },
-    {
-      "id": "5053787",
-      "time": "2026-08-23 21:43:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯方面訊息：美國特使威特科夫和庫什納訪問基輔和莫斯科被推遲。"
-    },
-    {
-      "id": "5053786",
-      "time": "2026-08-23 21:25:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【派林生物：上半年淨利潤同比下降64.25% 擬10派1.5元】派林生物(000403)8月23日披露半年報，2026年上半年，公司實現營業收入8.3億元，同比下降15.88%；歸屬於上市公司股東的淨利潤8430.10萬元，同比下降64.25%；基本每股收益0.09元。公司擬每10股派發現金紅利1.5元(含稅)。血液製品行業受集採擴圍、DRG/DIP改革、醫保控費、藥品重點監控合理用藥等因素影響，使得臨床處方量減少，市場需求端景氣度滑，致報告期公司血液製品業務毛利率同比下降。此外，受增值稅徵收模式變化的影響，血液製品從2026年1月1日起不再納入3%增值稅簡易徵收的範圍（除納入罕見病藥品清單的血液製品），執行13%的一般計稅模式，致報告期公司血液製品業務毛利率進一步同比下降。2026年下半年，根據公司生產及產品批簽發計劃，下半年產品供應較上半年充足，同時增值稅徵收模式變化短期影響降低，預計2026年全年業績將呈現前低後高趨勢。"
-    },
-    {
-      "id": "5053785",
-      "time": "2026-08-23 21:23:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“來晚了，但回來了”！安世中國張秋明：將以周為節奏持續釋出新品】8月23日晚間訊息，在安世中國新品全球釋出會上，安世中國執行長張秋明發表演講。張秋明表示，“過去這段時間，很多客戶因為斷供吃了太多虧，所以今天我可以承諾，安世中國有貨、有量、有品質、有價格優勢，您需要的我們都能給，您擔心的我們都已經解決。雖然來晚了，但是我們回來了。”（新浪科技）"
-    },
-    {
-      "id": "5053784",
-      "time": "2026-08-23 21:19:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列空襲敘利亞引發與美方“罕見衝突”】據以色列《國土報》23日披露，以軍上週空襲毗鄰土耳其邊境的敘利亞軍事設施後，美國與以色列之間發生“罕見衝突”。以方稱，土耳其在該地部署軍事力量，對以構成威脅，但美方認為，以方出於國內政治需要，試圖“故意激怒土耳其”。（新華社）"
-    },
-    {
-      "id": "5053783",
-      "time": "2026-08-23 21:17:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西啟動自然災害救助四級應急響應】據廣西壯族自治區防災減災救災委員會辦公室訊息，針對今年第19號颱風“紫檀”造成的災情，根據《廣西自然災害救助應急預案》有關規定，廣西壯族自治區防災減災救災委員會辦公室決定於8月23日19時啟動廣西壯族自治區自然災害救助四級應急響應，請各市、各有關單位按照預案要求做好救災救助工作。"
-    },
-    {
-      "id": "5053782",
-      "time": "2026-08-23 21:16:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "達菲：我預計卡尼（加拿大總理）會迅速前來參與談判。"
-    },
-    {
-      "id": "5053781",
-      "time": "2026-08-23 21:16:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部長達菲：貿易戰對加拿大打擊巨大。"
-    },
-    {
-      "id": "5053780",
-      "time": "2026-08-23 21:15:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡總理黃循財：新加坡正在研究海底隧道的可行性。"
-    },
-    {
-      "id": "5053779",
-      "time": "2026-08-23 21:13:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國交通部長達菲 ：加拿大若以為能在與特朗普的貿易戰中取勝是很不明智的。"
-    },
-    {
-      "id": "5053778",
-      "time": "2026-08-23 21:08:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部：赫格塞思將支援國防採辦的新方案。"
-    },
-    {
-      "id": "5053777",
-      "time": "2026-08-23 21:08:13",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：貝森特需要“做更多”來讓市場相信美政府在認真對待財政問題】債券市場最近幾天向財政部長貝森特發出的訊號是，別想把40萬億美元的美國國債往地毯底下一掃就假裝沒事。貝森特公佈了今秋加大長期國債回購規模的計劃，承諾動用財政部的龐大“工具箱”來支援市場，並談到即將推出新措施以遏制不斷膨脹的美國債務負擔。前安然公司能源交易員、億萬富翁、慈善機構阿諾德風險投資公司創始人約翰·阿諾德表示，今年夏天的債市動盪最終可能只是“又一個迅速平息的插曲”，但更大的擔憂在於，美國財政狀況缺乏改變的局面將持續下去，直到最終引爆危機。布蘭迪溫全球投資組合經理特蕾西·陳表示她感到非常緊張，因為貝森特未能遏制長期國債收益率。債市的表現表明，債券義警們仍然不信任他。貝森特需要做更多來說服投資者，讓他們相信特朗普政府正在認真對待美國財政問題，但在11月中期選舉前談論透過增稅或緊縮來增加收入將不得人心。"
-    },
-    {
-      "id": "5053776",
-      "time": "2026-08-23 21:08:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡總理黃循財：新加坡將整合多個島嶼，用於發展先進製造業。"
-    },
-    {
-      "id": "5053775",
-      "time": "2026-08-23 21:07:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部：赫格塞思將著重強調重建國防工業基礎的必要性。"
-    },
-    {
-      "id": "5053774",
-      "time": "2026-08-23 21:06:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南鳳慶泥石流和滑坡致2死4失聯】8月23日晚，記者從雲南省鳳慶縣人民政府新聞辦公室獲悉，8月23日凌晨1時至8時，鳳慶縣鳳山鎮遭遇持續性強降雨天氣，安石村誘發泥石流災害，造成2名群眾失聯；水箐村誘發滑坡災害，造成4名群眾失聯。截至8月23日17時，已搜尋到水箐村2名失聯人員，經醫護人員確認，均已無生命體徵。其餘失聯人員搜救工作仍在緊張進行中。（央視新聞）"
-    },
-    {
-      "id": "5053773",
-      "time": "2026-08-23 21:05:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊發言人的話稱，美國對伊朗構成經濟威脅。"
-    },
-    {
-      "id": "5053772",
-      "time": "2026-08-23 21:05:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗伊斯蘭革命衛隊表示，他們有應對美國經濟戰的方案。"
-    },
-    {
-      "id": "5053771",
-      "time": "2026-08-23 21:04:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部：赫格塞思將於週一訪問美國戰略司令部總部。"
-    },
-    {
-      "id": "5053770",
-      "time": "2026-08-23 21:03:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張秋明：安世中國已全面恢復產品研發 新品迭代縮短至6至12個月】8月23日晚間訊息，在安世中國新品全球釋出會上，安世中國執行長張秋明發表演講。張秋明表示，在產品研發端，安世中國已經全面恢復，新品迭代週期縮短至6至12個月，研發引擎全面重啟，而且跑得比以前更快，已完成及在研發的型號合計超過1萬個，量產爬坡速度也由過去海外的12至16周大幅縮短至4至6周，交付效率提升了一倍以上。在維護供應鏈穩定方面，張秋明分享道，我們已經建立了足夠的庫存，以回應市場的需求，從解決有無到追求更強。相較於6和8英寸，12英寸晶圓的使用面積增加，單片產出提升2.2至4倍，成本競爭力顯著上升。（新浪科技）"
-    },
-    {
-      "id": "5053769",
-      "time": "2026-08-23 21:02:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：沃爾瑪將推出名為 “Scenario” 的全新服裝品牌。"
-    },
-    {
-      "id": "5053768",
-      "time": "2026-08-23 20:58:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：烏克蘭不會尋求加入北約之外的替代方案】烏克蘭總統澤連斯基23日在會見媒體代表時說，為獲得真正的安全保障，烏克蘭不會尋求加入北約之外的替代方案。（新華社）"
-    },
-    {
-      "id": "5053767",
-      "time": "2026-08-23 20:53:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安世中國CEO張秋明：過去11個月已交付超400億顆晶片】8月23日晚間訊息，在安世中國新品全球釋出會上，安世中國執行長張秋明發表演講。張秋明透露，過去11個月以來，安世中國已經向全球上千家客戶交付超過400億顆晶片。張秋明表示，作為全球功率半導體龍頭之一，我們的核心業務和持續創新讓安世的產品組合在工藝和效能效率上被公認為行業標杆，但百年老店也意味著我們要直面歷史的包袱。當全球供應鏈的變局如海嘯般襲來，當技術封鎖的陰霾籠罩，安世中國沒有選擇退縮，更沒有選擇被動等待，我們選擇了一條最艱難的路，主動重建。（新浪科技）"
     }
   ]
 }
