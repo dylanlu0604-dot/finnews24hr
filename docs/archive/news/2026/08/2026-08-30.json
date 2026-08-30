@@ -1,7 +1,20 @@
 {
   "date": "2026-08-30",
-  "count": 182,
+  "count": 183,
   "items": [
+    {
+      "id": "mkt:01a0506c-cf63-7118-83fc-8819cdd7035d",
+      "time": "2026-08-30 10:08:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Venezuela interim president: 25-year deal with U.S. oil firms aims to lift output to 1.5 mln bpd】Interim president Delcy Rodriguez said a deal with U.S. oil firms would cover 17 prospective fields and grant a 25-year production concession targeting 1.5 mln barrels/day. The government proposes a $69/bbl sale price, implying $19 of government profit per barrel, plus a 16% field-use royalty and a 34% income tax on operating oil companies. Caracas expects proceeds to be added to the $209 billion in profits announced earlier this week."
+    },
     {
       "id": "5066696",
       "time": "2026-08-30 09:59:55",
