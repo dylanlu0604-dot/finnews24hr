@@ -1,7 +1,36 @@
 {
   "date": "2026-08-31",
-  "count": 86,
+  "count": 89,
   "items": [
+    {
+      "id": "5067351",
+      "time": "2026-08-31 03:27:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：伊朗革命衛隊計劃向霍爾木茲海峽發射火箭並佈設水雷。"
+    },
+    {
+      "id": "mkt:01a05421-918d-7118-8402-2676a9abaf1b",
+      "time": "2026-08-31 03:24:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reported U.S. officials said U.S. forces struck two Iranian missile launchers on Larak Island early Sunday."
+    },
+    {
+      "id": "5067346",
+      "time": "2026-08-31 03:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國今天襲擊了拉拉克島上的兩處伊朗導彈發射井。"
+    },
     {
       "id": "mkt:01a05420-0e08-7118-8402-1f434b47018b",
       "time": "2026-08-31 03:23:01",
