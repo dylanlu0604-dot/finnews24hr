@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-31 05:53:32",
-  "count": 13877,
+  "updated": "2026-08-31 05:57:36",
+  "count": 13876,
   "items": [
+    {
+      "id": "mkt:01a054ab-ec4a-7118-8402-d94b29334c0e",
+      "time": "2026-08-31 05:55:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran Revolutionary Guard says it fired missiles at US bases】Iran's Islamic Revolutionary Guard Corps (IRGC) said on social media in the early hours of the 31st that it fired missiles at US military bases."
+    },
     {
       "id": "mkt:01a054a7-e835-7118-8402-d16a5c645db1",
       "time": "2026-08-31 05:51:25",
@@ -125433,22 +125446,6 @@
         "其他"
       ],
       "text": "中央氣象臺8月24日06時繼續釋出暴雨黃色預警。"
-    },
-    {
-      "id": "5053939",
-      "time": "2026-08-24 05:55:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【為緩和緊張局勢 敘過渡政府外長會見以色列摩薩德局長】據以色列第12頻道23日報道，知情人士透露，敘利亞過渡政府外長希巴尼當天與以色列情報和特勤局（摩薩德）局長戈夫曼舉行會面。報道稱此次會面“效果良好”，旨在平息兩國之間的緊張局勢。此前，以軍18日曾對位於敘利亞西北部伊德利卜省的阿布祖胡爾空軍基地實施空襲，敘利亞過渡政府外交部對此強烈譴責，稱這是“毫無正當理由的侵略行徑”。（央視新聞）"
-    },
-    {
-      "id": "5053938",
-      "time": "2026-08-24 05:53:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本每日新聞民調：日本高市內閣支援率41%。"
     }
   ]
 }

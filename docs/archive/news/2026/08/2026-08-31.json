@@ -1,7 +1,20 @@
 {
   "date": "2026-08-31",
-  "count": 149,
+  "count": 150,
   "items": [
+    {
+      "id": "mkt:01a054ab-ec4a-7118-8402-d94b29334c0e",
+      "time": "2026-08-31 05:55:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran Revolutionary Guard says it fired missiles at US bases】Iran's Islamic Revolutionary Guard Corps (IRGC) said on social media in the early hours of the 31st that it fired missiles at US military bases."
+    },
     {
       "id": "mkt:01a054a7-e835-7118-8402-d16a5c645db1",
       "time": "2026-08-31 05:51:25",
