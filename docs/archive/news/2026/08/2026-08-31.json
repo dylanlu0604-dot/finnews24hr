@@ -1,7 +1,36 @@
 {
   "date": "2026-08-31",
-  "count": 91,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:01a0542b-639a-7118-8402-3297106a8bd7",
+      "time": "2026-08-31 03:35:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Fars News reported an explosion near Larak Island; cause unknown."
+    },
+    {
+      "id": "5067358",
+      "time": "2026-08-31 03:35:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "悉尼早盤交易中，美元兌G10主要貨幣匯率保持穩定。"
+    },
+    {
+      "id": "5067357",
+      "time": "2026-08-31 03:35:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：拉拉克島附近傳來爆炸聲，爆炸原因不明。"
+    },
     {
       "id": "mkt:01a05427-f49f-7118-8402-2a36820e285b",
       "time": "2026-08-31 03:31:39",
