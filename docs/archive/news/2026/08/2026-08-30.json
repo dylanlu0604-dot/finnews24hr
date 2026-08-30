@@ -1,7 +1,31 @@
 {
   "date": "2026-08-30",
-  "count": 164,
+  "count": 167,
   "items": [
+    {
+      "id": "5066683",
+      "time": "2026-08-30 09:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局（NASA）：NASA與SpaceX正在調整“Crew-13”乘組任務前往國際空間站的發射日期，以解決龍飛船推進系統的氧化劑洩漏問題。"
+    },
+    {
+      "id": "mkt:01a05052-c912-7118-83fc-6f48bc1f94b5",
+      "time": "2026-08-30 09:39:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA says it and SpaceX have rescheduled the Crew-13 launch date."
+    },
+    {
+      "id": "5066682",
+      "time": "2026-08-30 09:39:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局（NASA）：NASA與SpaceX調整“Crew-13”載人任務發射日期。"
+    },
     {
       "id": "5066681",
       "time": "2026-08-30 09:30:58",
