@@ -1,7 +1,71 @@
 {
   "date": "2026-08-31",
-  "count": 212,
+  "count": 219,
   "items": [
+    {
+      "id": "5067440",
+      "time": "2026-08-31 06:58:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "華潤置地：中期股息為每股人民幣0.20元。"
+    },
+    {
+      "id": "5067439",
+      "time": "2026-08-31 06:57:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：我們對約旦境內兩處美軍基地的襲擊是對美國—以色列在拉臘克島上的侵略的回應。"
+    },
+    {
+      "id": "te:markets:579273",
+      "time": "2026-08-31 06:57:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Heads for 7th Straight Monthly Gain — New Zealand stocks climbed 39 points, or 0.3%, to 13,807 in Monday morning trade, after retreating for the previous two sessions, mainly buoyed by communication services, consumer staples, and real estate. The broader index moved up from its lowest level since August 17, reached on Friday, ahead of the release of business confidence data for August later today, after hitting a five-month high in July. However, traders were cautious ahead of the RBNZ's monetary policy decision this week, with the market expecting the central bank to raise interest rates by 25 bps after raising them in May. Investors also continued to monitor developments in the Middle East after the US struck Iranian launchers on Larak Island. Among the early gainers were Hallenstein Glasson (2.2%), A2 Milk (1.5%), Briscoe Group (1.1%), Contact Energy (0.6%), and Meridian Energy (0.6%). For the month, the index rose 0.8%, marking the seventh straight monthly gain."
+    },
+    {
+      "id": "mkt:01a054e4-0898-7118-8403-8a2054a720f5",
+      "time": "2026-08-31 06:57:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Al Jazeera reported the Islamic Revolutionary Guard Corps said it destroyed infrastructure and enemy aircraft shelters at Jordan’s King Hussein Airbase and Azraq Airbase."
+    },
+    {
+      "id": "5067438",
+      "time": "2026-08-31 06:56:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "華潤置地：上半年淨利潤98.4億元人民幣。"
+    },
+    {
+      "id": "5067437",
+      "time": "2026-08-31 06:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打擊駐約旦美軍】據美國福克斯新聞援引一名美國訊息人士報道稱，當地時間8月31日凌晨，伊朗對駐約旦美軍發起打擊。據稱目前“尚未造成重大影響”，“來襲導彈幾乎全部被攔截”。另有伊朗媒體報道稱，伊朗向霍爾木茲海峽的美國船隻發射導彈。（CCTV國際時訊）"
+    },
+    {
+      "id": "5067436",
+      "time": "2026-08-31 06:55:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：摧毀了位於約旦的美國侯賽因空軍基地和阿茲拉克空軍基地內敵方戰機的基礎設施與部署點。"
+    },
     {
       "id": "5067435",
       "time": "2026-08-31 06:54:56",
