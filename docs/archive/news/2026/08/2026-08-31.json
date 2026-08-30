@@ -1,7 +1,118 @@
 {
   "date": "2026-08-31",
-  "count": 189,
+  "count": 201,
   "items": [
+    {
+      "id": "5067427",
+      "time": "2026-08-31 06:29:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國訊息人士：我軍已打擊伊朗軍事目標，以阻止其在霍爾木茲海峽佈設水雷。"
+    },
+    {
+      "id": "5067426",
+      "time": "2026-08-31 06:29:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：不會就是否應當考慮連續加息向日本央行給出建議。"
+    },
+    {
+      "id": "mkt:01a054ca-8424-7118-8403-63e96cfb26ea",
+      "time": "2026-08-31 06:29:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said that under Prime Minister Takaichi the government has reduced intervention in economic policy and should 'sit back and enjoy' Abenomics' success, letting it develop naturally."
+    },
+    {
+      "id": "mkt:01a054ca-47da-7118-8403-5a94345d0c84",
+      "time": "2026-08-31 06:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said Japan may have reached the end of Abenomics, its inflation stimulus program."
+    },
+    {
+      "id": "5067425",
+      "time": "2026-08-31 06:28:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：日本的安倍經濟學通貨再膨脹計劃大機率已經走到終點。"
+    },
+    {
+      "id": "mkt:01a054c9-d750-7118-8403-55fcac9f9729",
+      "time": "2026-08-31 06:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he will meet Bank of Japan Governor Ueda during the G20 finance ministers meeting and described Ueda as a great economist whose market acumen is underestimated."
+    },
+    {
+      "id": "5067424",
+      "time": "2026-08-31 06:28:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：（被問及日元是否出現無序波動時）日元波動“已得到相當良好的控制”。"
+    },
+    {
+      "id": "mkt:01a054c9-8a09-7118-8403-4fbd97e1be83",
+      "time": "2026-08-31 06:28:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent, asked whether the Bank of Japan should make consecutive rate hikes an option, said he would not tell them what to do."
+    },
+    {
+      "id": "5067423",
+      "time": "2026-08-31 06:27:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：將在G20財長峰會間隙會晤植田和男，植田是被低估、深諳市場的經濟學家。"
+    },
+    {
+      "id": "mkt:01a054c9-40d2-7118-8403-44110ba01a80",
+      "time": "2026-08-31 06:27:50",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is confident that, with backing from Japan's prime minister, Bank of Japan governor UEDA will make the right monetary policy decisions."
+    },
+    {
+      "id": "5067422",
+      "time": "2026-08-31 06:27:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：在高市執政下，日本政府對經濟政策干預有所減少，應當 “坐享” 安倍經濟學的成果，讓政策自行執行。"
+    },
+    {
+      "id": "mkt:01a054c8-becb-7118-8403-3f448b6d28a1",
+      "time": "2026-08-31 06:27:17",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent, when asked whether recent moves were disorderly, said yen volatility was \"within a controllable range\"."
+    },
     {
       "id": "5067421",
       "time": "2026-08-31 06:25:17",
