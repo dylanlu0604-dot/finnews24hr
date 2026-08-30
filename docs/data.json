@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-31 00:24:07",
-  "count": 13785,
+  "updated": "2026-08-31 00:28:12",
+  "count": 13787,
   "items": [
+    {
+      "id": "mkt:01a0537c-e518-7118-8401-66c3cbd6262c",
+      "time": "2026-08-31 00:24:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UKMTO reported a tanker was struck by shelling 12 nautical miles north of Al Hassahab, Oman. No casualties or environmental impact reported."
+    },
+    {
+      "id": "5067242",
+      "time": "2026-08-31 00:24:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動組織（UKMTO）：阿曼海塞卜以北12海里海域，一艘油輪在霍爾木茲海峽向內航行途中被擊中。目前暫未收到人員傷亡以及環境受影響的相關報告。"
+    },
     {
       "id": "5067241",
       "time": "2026-08-31 00:23:12",
