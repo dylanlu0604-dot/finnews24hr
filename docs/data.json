@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-31 06:18:32",
-  "count": 13896,
+  "updated": "2026-08-31 06:22:37",
+  "count": 13900,
   "items": [
+    {
+      "id": "mkt:01a054c2-3631-7118-8403-2056371f6387",
+      "time": "2026-08-31 06:20:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【US to sanction another bank this week; Bessent pushes global economic isolation of Iran】AP: US Treasury Secretary Scott Bessent said on Sunday the Trump administration plans to sanction another bank this week to curb Iran-related transactions. Bessent said he will meet finance officials from major and developing economies during the G20 to press for broad participation in economically isolating Iran. He said: \"If necessary, we will use financial violence. We are letting people know we know who you are, you know who you are, and this must stop.\""
+    },
+    {
+      "id": "mkt:01a054c1-9cec-7118-8403-1908cc48c52b",
+      "time": "2026-08-31 06:19:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold turned higher intraday, trading above $4,460/oz after an earlier low of $4,432.6/oz."
+    },
+    {
+      "id": "5067419",
+      "time": "2026-08-31 06:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "朝日新聞民調：日本高市早苗內閣支援率53%。"
+    },
+    {
+      "id": "5067418",
+      "time": "2026-08-31 06:18:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4460美元/盎司，日內漲0.14%。"
+    },
+    {
+      "id": "5067417",
+      "time": "2026-08-31 06:18:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4510美元/盎司，日內跌0.43%。"
+    },
+    {
+      "id": "5067416",
+      "time": "2026-08-31 06:18:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上市券商上半年業績創歷史最佳 “百億俱樂部”持續擴容】受益於市場交投活躍，上市券商交出一份歷史最佳的半年度成績單：43家上市券商上半年合計實現營業收入3647.1億元、歸母淨利潤1553.7億元，同比增幅均超過40%，“百億俱樂部”成員由去年同期的2家擴容至5家。"
+    },
     {
       "id": "5067415",
       "time": "2026-08-31 06:17:39",
@@ -125619,23 +125677,6 @@
         "其他"
       ],
       "text": "SHEIN：估計將從全球發售中獲得約131.23億港元的淨收益。"
-    },
-    {
-      "id": "5053950",
-      "time": "2026-08-24 06:22:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯南部斯塔夫羅波爾地區州長稱，俄方正在擊退對涅溫諾梅斯克工業區發動的無人機襲擊。"
-    },
-    {
-      "id": "5053949",
-      "time": "2026-08-24 06:21:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美欲打空前經濟戰 伊朗亮出“石油出口反制牌”】美國總統特朗普宣佈將對伊朗實施“史無前例”的經濟戰後，美財政部長貝森特證實，將於24日正式對外公佈對伊“前所未有的經濟孤立”措施的具體行動內容。伊朗方面則在23日亮出了“石油出口反制牌”：若美打經濟戰，霍爾木茲海峽乃至波斯灣地區將再無石油出口。當前，距離美方公佈制裁詳情的時間已不足24小時。輿論普遍認為，這是美國在目前美伊之間戰事拖延、談判亦無果現實下的無奈之舉。儘管具體舉措還未公佈，已有分析認為此番行動恐最終走向“多輸”局面。（央視新聞）"
     }
   ]
 }
