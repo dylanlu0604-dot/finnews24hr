@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-31 03:44:25",
+  "updated": "2026-08-31 03:48:21",
   "count": 13839,
   "items": [
+    {
+      "id": "mkt:01a05435-961e-7118-8402-40725fd91c76",
+      "time": "2026-08-31 03:46:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Iran's Islamic Revolutionary Guard Corps said the enemy is using \"psychological warfare\"."
+    },
     {
       "id": "mkt:01a05432-2ecf-7118-8402-390071434a71",
       "time": "2026-08-31 03:42:49",
@@ -125060,14 +125068,6 @@
         "國際"
       ],
       "text": "歐盟：約旦河西岸及 E1 區域以色列定居點違反國際法，損害兩國方案前景。"
-    },
-    {
-      "id": "5053885",
-      "time": "2026-08-24 03:45:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示，霍爾木茲海峽與曼德海峽航運通行量均出現下降。"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-08-31",
-  "count": 95,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:01a05435-961e-7118-8402-40725fd91c76",
+      "time": "2026-08-31 03:46:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Iran's Islamic Revolutionary Guard Corps said the enemy is using \"psychological warfare\"."
+    },
     {
       "id": "mkt:01a05432-2ecf-7118-8402-390071434a71",
       "time": "2026-08-31 03:42:49",
