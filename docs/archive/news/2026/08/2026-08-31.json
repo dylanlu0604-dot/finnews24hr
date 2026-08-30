@@ -1,7 +1,37 @@
 {
   "date": "2026-08-31",
-  "count": 83,
+  "count": 86,
   "items": [
+    {
+      "id": "mkt:01a05420-0e08-7118-8402-1f434b47018b",
+      "time": "2026-08-31 03:23:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials told Al Jazeera that mine-clearance of the Strait of Hormuz international shipping lane is complete."
+    },
+    {
+      "id": "5067342",
+      "time": "2026-08-31 03:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：我軍已完成霍爾木茲海峽國際航運航道的排雷工作。"
+    },
+    {
+      "id": "mkt:01a0541f-1b59-7118-8402-10b6081819f3",
+      "time": "2026-08-31 03:21:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials told Al Jazeera that U.S. forces are closely monitoring the area and are prepared to protect free trade through the Strait of Hormuz."
+    },
     {
       "id": "5067341",
       "time": "2026-08-31 03:20:10",
