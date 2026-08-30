@@ -1,7 +1,17 @@
 {
   "date": "2026-08-30",
-  "count": 160,
+  "count": 161,
   "items": [
+    {
+      "id": "mkt:01a05046-372e-7118-83fc-5b05ef6a68cb",
+      "time": "2026-08-30 09:26:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI to cut model access to SpaceX's Cursor; Musk dismisses move】OpenAI said on the 28th it has notified SpaceX that it plans to terminate model access to SpaceX’s Cursor code editor, with a proposed end date of Nov. 12, 2026. OpenAI said the decision was based on “past experience,” citing prior breaches by companies linked to Elon Musk and concern SpaceX might not use the technology within service terms. Musk replied on X that he “couldn’t care less,” and called Altman and Brockman “completely untrustworthy” and accused them of having “stolen an open-source non-profit.”"
+    },
     {
       "id": "5066679",
       "time": "2026-08-30 09:21:31",
