@@ -1,7 +1,48 @@
 {
   "date": "2026-08-31",
-  "count": 185,
+  "count": 189,
   "items": [
+    {
+      "id": "5067421",
+      "time": "2026-08-31 06:25:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國訊息人士稱，伊朗正在襲擊駐約旦美軍，來襲導彈幾乎全部完成攔截。"
+    },
+    {
+      "id": "mkt:01a054c6-7a42-7118-8403-343b4d53338d",
+      "time": "2026-08-31 06:24:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "According to Fox News, Iran is attacking U.S. forces in Jordan. A U.S. official familiar with the situation said the strikes have so far caused no major damage and that nearly all incoming missiles were intercepted."
+    },
+    {
+      "id": "5067420",
+      "time": "2026-08-31 06:23:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：認為有必要重新開放霍爾木茲海峽，並阻止伊朗發展核武器。"
+    },
+    {
+      "id": "mkt:01a054c4-abbd-7118-8403-2f52bfc3f935",
+      "time": "2026-08-31 06:22:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian media outlet Fars News, citing unofficial reports, said an explosion occurred at the Al Udeid base in Qatar."
+    },
     {
       "id": "mkt:01a054c2-3631-7118-8403-2056371f6387",
       "time": "2026-08-31 06:20:08",
