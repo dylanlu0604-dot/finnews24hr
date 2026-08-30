@@ -1,7 +1,33 @@
 {
   "date": "2026-08-31",
-  "count": 101,
+  "count": 103,
   "items": [
+    {
+      "id": "mkt:01a05443-bc41-7118-8402-6d0e1ab97b43",
+      "time": "2026-08-31 04:02:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said an attack caused multiple military and civilian casualties."
+    },
+    {
+      "id": "mkt:01a05442-7e8a-7118-8402-6650381f64b2",
+      "time": "2026-08-31 04:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said a U.S. strike on Larak Island would be met with \"response and punishment\"."
+    },
     {
       "id": "5067360",
       "time": "2026-08-31 03:54:54",
