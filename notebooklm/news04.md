@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-31 03:24:49_
-_本檔包含 2769 則快訊，約 577592 字_
+_更新時間：2026-08-31 06:02:04_
+_本檔包含 2775 則快訊，約 579501 字_
+
+---
+
+### 2026-08-25 23:46:23  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Extends Losses Below $82 — Crude oil fell more than 3% to below $82 a barrel on Monday, extending a 2.4% loss in the previous session, as investors assessed signs of easing tensions between the US and Iran. Pakistan’s army chief visited Tehran in an effort to support diplomacy, while Qatar said it was continuing mediation efforts. Reports that Washington could soon return evacuated diplomats to the region also suggested that a broader military escalation may be less imminent. Meanwhile, Washington’s latest measures to increase economic pressure on Iran were less severe than markets had anticipated. US Treasury Secretary Scott Bessent said countries trading with Tehran would be given a deadline to wind down their links or risk unilateral penalties. Despite the measures, substantial volumes of crude continue to move through the Strait of Hormuz, with some shipments operating discreetly.
+
+---
+
+### 2026-08-25 23:46:00  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
+
+【Russia says two Zaporizhzhia nuclear plant workers injured in Ukrainian drone attack】Russia said on the 25th a Ukrainian drone strike injured two staff at the Zaporizhzhia nuclear power plant. The plant’s press office said the attack occurred near hydrotechnical structures while employees in a maintenance and construction workshop were working; no specific time was given. The office said the strike targeted personnel responsible for keeping the plant operational; both injured were hospitalized, one seriously. The plant said it had notified IAEA experts; Ukraine had no immediate comment.
+
+---
+
+### 2026-08-25 23:45:51  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Inch Higher — European stocks closed slightly higher on Tuesday, trimming losses from recent sessions with rebounds from AI infrastructure companies and manufacturers. The Euro STOXX 50 added 0.2% to 6,462 and the STOXX Europe 600 added 0.4% to 657. Chip producers and data center input companies pared losses from the previous session as the market gauged the outlook for capital expenditure in coming years, especially ahead of IPOs by Anthropic and OpenAI. ASML and Infineon rose 1% each, while Siemens Energy soared over 3%. Meanwhile, Siemens, Schneider, Safran, and Airbus also gained, benefitting from lower energy prices and sovereign yields. Natural gas futures fell from peaks after the US signaled it would put sanctions on companies helping Iran trade, moving away from a rhetoric of military strikes.
+
+---
+
+### 2026-08-25 23:44:29  #MKT News #WTI #Impact bearish #Brent
+
+In a joint statement, Oman and Iran said technical talks will continue to seek an agreement to establish a permanent transit corridor through the Strait of Hormuz.
+
+---
+
+### 2026-08-25 23:44:07  #公司 #國際
+
+【美媒：中情局局長正在俄羅斯進行會談】美國哥倫比亞廣播公司25日援引訊息人士的話報道稱，美國中央情報局局長拉特克利夫目前正在俄羅斯首都莫斯科進行會談。 報道說，有人此前在莫斯科某機場發現了一架美國空軍運輸機以及一支美國外交車隊，隨後傳出了他此行的訊息。不過，美俄雙方政府均未就這名美方官員的身份或此次訪問的目的發表評論。（新華社）
+
+---
+
+### 2026-08-25 23:43:18  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #S&P500 #DXY #Impact bearish
+
+US Treasury yields continued to decline; 10-year Treasury yield fell 6bps to 4.64%.
+
+---
+
+### 2026-08-25 23:42:58  #市場 #國際
+
+美國國債收益率延續跌勢，10年期國債收益率下跌6個基點至4.64%。
+
+---
+
+### 2026-08-25 23:42:51  #其他
+
+智利與本土礦業化工企業基博拉克斯簽署首份私營鋰礦合同。
+
+---
+
+### 2026-08-25 23:42:31  #其他
+
+【我國研究團隊成功製備大面積銅鋅錫硫硒薄膜光伏元件】記者從中國科學院物理研究所獲悉，該所孟慶波研究員團隊成功製備出大面積銅鋅錫硫硒薄膜光伏元件，元件光電轉換效率達到13.0%，重新整理了該類元件效率的世界紀錄，為下一代低成本、環境友好型太陽能電池產業化奠定了堅實基礎。該成果近日在國際學術期刊《自然·材料》發表。（央視新聞）
+
+---
+
+### 2026-08-25 23:42:28  #MKT News #Important #WTI #Impact bearish #Brent
+
+【International oil prices dip】WTI crude fell 3.88% to $81.27/bbl; Brent crude slipped below $87, also down 3.88% intraday. Both benchmarks dropped roughly $0.80 in the short term.
+
+---
+
+### 2026-08-25 23:42:27  #市場
+
+WTI原油日內跌4%，現報81.59美元/桶。
+
+---
+
+### 2026-08-25 23:41:20  #MKT News
+
+【Iran slams US 'economic D-Day' as systemic assault on international order】An Iranian Foreign Ministry spokesperson said the US's so‑called 'economic D‑Day' forces every bank, company, port and government to choose between obeying Washington or facing US retaliation, amounting to a systemic assault on the international order. The spokesperson said the measure destroys core rules of international law and the UN Charter on sovereign equality and self‑determination, warned no sovereign state would accept normalization of such illegal, systemic bullying, and said Canada is among the countries already learning this lesson.
+
+---
+
+### 2026-08-25 23:41:19  #國際
+
+一架美國空軍波音C‑17“環球霸王III”運輸機已從伏努科沃機場起飛。
+
+---
+
+### 2026-08-25 23:39:53  #市場 #焦點
+
+布倫特原油日內跌4%，現報86.89美元/桶。
+
+---
+
+### 2026-08-25 23:39:29  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Stoxx Europe 50
+
+European equities on Aug 25 (Tue) closed: Germany DAX 30 +155.76 pts (+0.60%) at 26,274.75; UK FTSE 100 +33.60 pts (+0.31%) at 10,887.92; France CAC 40 -13.81 pts (-0.16%) at 8,439.20; Stoxx Europe 50 +10.77 pts (+0.17%) at 6,458.75; Spain IBEX 35 -33.01 pts (-0.16%) at 20,065.59; Italy FTSE MIB +209.82 pts (+0.40%) at 52,752.00.
+
+---
+
+### 2026-08-25 23:39:16  #市場 #焦點
+
+布倫特原油失守87美元/桶，日內跌3.91%。
+
+---
+
+### 2026-08-25 23:38:40  #MKT News
+
+Saudi outlet Alhadath, citing a diplomatic source, said Israel sees Jordan as a partner to advance solutions across sectors in Syria.
+
+---
+
+### 2026-08-25 23:38:27  #MKT News
+
+A diplomatic source told Saudi outlet Hadas that Israel considers Jordan a partner to reach solutions with Syria on all issues.
+
+---
+
+### 2026-08-25 23:38:23  #Trading Economics #Markets #Commodity #Importance 0
+
+European Natural Gas Prices Fall from 3-1/2-Year High — European natural gas prices fell below €67 per megawatt-hour, easing from Monday’s 3½-year high of €68.46, as improving prospects for de-escalation between the US and Iran reduced some concerns over supply disruptions. Gas prices tracked a broader decline in energy markets after Washington’s latest measures against Tehran appeared less likely than expected to disrupt physical supplies. Diplomatic efforts also offered some relief, with Pakistan’s army chief visiting Iran and Qatar continuing to support mediation between Tehran and Washington. Reports that the US could begin returning evacuated diplomats to the Middle East also suggested that an immediate escalation in the conflict may be less likely. Nevertheless, supply risks remain, particularly as disruptions around the Strait of Hormuz have constrained LNG deliveries from Qatar. At the same time, persistent hot weather is boosting cooling demand, making it harder for European countries to rebuild gas inventories ahead of winter.
 
 ---
 
@@ -16564,83 +16678,5 @@ Heating Oil Holds Losses — US heating oil futures traded around $4.28 per gall
 ### 2026-08-25 08:55:52  #其他
 
 【北京市釋出雷電黃色預警】8月25日，北京市釋出雷電黃色預警：預計，8月25日午後至夜間，我市自西向東有雷陣雨，局地短時雨強較大，並伴有7級左右陣風，請注意防範。
-
----
-
-### 2026-08-25 08:55:18  #其他
-
-【颱風“紫檀”持續影響華南沿海 北方多地清涼上線】今明天（8月25日至26日），颱風“紫檀”持續影響華南沿海，局地有大暴雨，“簡拉維”殘餘雲系也將給福建等地帶來強降雨；北方未來三天新一輪降雨發展，多地雨勢較強。氣溫方面，長江流域一帶未來幾天悶熱持續，北方多地悶熱將緩解，部分地區清涼上線。
-
----
-
-### 2026-08-25 08:54:18  #資料 #市場 #央行 #國際
-
-【韓國消費者信心指數四個月來首降 韓央行：股市下跌有影響】韓國消費者信心指數四個月來首次下降，該國央行認為，受股市調整和通脹影響。 據韓聯社Infomax報道，根據韓國央行25日釋出的消費者信心調查結果，8月份消費者信心指數為104.5，較上月下降2.3點，四個月來首次下降。 受股價下跌等因素影響，韓國當前生活狀況指數下降1點。儘管實體經濟呈現良好趨勢，但由於股市波動加劇，悲觀的經濟評估情緒上升，當前經濟評估指數也較上期下降5點。 就業機會展望指數下降3點，主要受人工智慧相關行業青年就業持續低迷的影響，而製造業和建築業的就業人數也持續下降。（中新經緯）
-
----
-
-### 2026-08-25 08:53:43  #公司
-
-【登陸港股後希音創始人許仰天身家或超600億港元】8月24日，希音（00625.HK）正式開啟全球發售，最高發售價每股49.5港元，預期9月1日在港交所上市。按最高發售價格計算，預計希音市值超過2000億港元。全球發售公告顯示，全球發售完成後，希音創始人、執行董事兼執行長許仰天將透過中間持股主體，持有並控制合共7.99億股A類股份及4.87億股B類股份，佔本公司已發行股份約30.3%，並有權在股東大會上行使本公司已發行股份的約49.9%的表決權。照此計算，許仰天到時持股市值將超過600億港元。（介面）
-
----
-
-### 2026-08-25 08:52:59  #市場 #觀點 #央行 #國際
-
-【小摩：美股年末有望輪動上漲 看好優質成長與半導體】摩根大通在研報中表示，對今年剩餘時間的股市依舊維持樂觀，但認為上漲將來自板塊輪動，而非普漲式的猛烈拉昇。 該行表示，近期半導體板塊反彈，代表市場風險偏好出現戰術性修復；而在美聯儲政策保持耐心、抑制市場波動的背景下，市場倉位水平與板塊分化程度將主導下一階段行情。 摩根大通補充稱，如果在美國通脹切實回落的“金髮姑娘”良性經濟環境下，美聯儲維持利率按兵不動，市場漲勢有望進一步擴散。
-
----
-
-### 2026-08-25 08:52:34  #MKT News #Market Themes #China Tech Giants #Chip Wars #AI Revolution #Star Stocks #Xiaomi
-
-Lei Jun posted on Weibo that the Xuanjie O100, built on Xuanjie’s high‑bandwidth matrix bus, delivers edge-AI performance far above traditional flagship SoCs and will be deployed in phones, cars and robots across the full ecosystem.
-
----
-
-### 2026-08-25 08:52:12  #市場
-
-【8月25日盤前停復牌彙總】8月25日，ST寧科、ST長園臨停；ST佳緣、建設機械復牌。
-
----
-
-### 2026-08-25 08:51:50  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Strengthens to 2-Month High — Silver climbed above $69.5 an ounce on Tuesday, hovering at its highest level in two months and tracking gains in gold as US government interventions in the bond market revived the so-called debasement trade. The US Treasury Department announced an expansion of its buyback program for long-dated government debt last week in an effort to contain rising borrowing costs, with Secretary Scott Bessent saying he is prepared to increase the buybacks further while also flagging an upcoming longer-term fiscal plan. However, markets speculated that the measures may provide only a temporary solution, while renewing concerns over the risks of a US debt crisis, persistent inflation and dollar weakness. Silver also remained supported by solid industrial demand from the green energy transition, photovoltaic solar panels, electric vehicles and artificial intelligence data center infrastructure.
-
----
-
-### 2026-08-25 08:51:32  #公司
-
-【雷軍：玄戒O100未來將應用於手機、汽車、機器人等全生態品類】小米創辦人、董事長兼CEO雷軍在微博發文稱，玄戒O100，基於玄戒創新的高頻寬矩陣匯流排，實現遠超傳統旗艦SoC的端側AI效能。未來將應用於手機、汽車、機器人等全生態品類。
-
----
-
-### 2026-08-25 08:51:18  #宏觀 #國際
-
-【中國—迦納經貿聯委會第五次會議在阿克拉召開】8月24日，商務部部長助理張力在阿克拉與迦納財政部部長卡西爾·阿託·福森共同主持召開中加經貿聯委會第五次會議，就雙邊經貿合作等議題深入交換意見。張力表示，在兩國元首的戰略引領下，中加戰略伙伴關係持續走深走實，各領域務實合作取得豐碩成果。“十五五”時期，中國將持續推進高質量發展，穩步擴大高水平對外開放，落實對非零關稅、升級“綠色通道”等優惠舉措，為包括迦納在內的非洲各國帶來更多發展機遇。中方願同加方一道，加強經貿政策規劃對接，深化產供鏈、綠色能源等領域投資合作，推動雙邊貿易投資合作提質升級。希望加方為中國企業赴加投資興業營造更加穩定、可預期的政策環境。福森表示，加方高度重視加中經貿關係，讚賞雙邊經貿合作取得的豐碩成果，充分肯定中方優惠舉措積極賦能雙邊務實合作，願為中國企業在加投資創造良好營商環境，共同推動雙邊貿易、投資和產業合作持續健康發展。會後，雙方共同簽署了《中華人民共和國政府與迦納共和國政府經濟、貿易和技術合作聯合委員會第五次會議紀要》。（商務部）
-
----
-
-### 2026-08-25 08:49:23  #央行 #中國央行
-
-【央行今日開展5000億元中期借貸便利操作】為保持銀行體系流動性充裕，8月25日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展5000億元中期借貸便利，也就是MLF操作，期限為1年期。
-
----
-
-### 2026-08-25 08:47:55  #國際
-
-【日本罕見行政擴張似重走二戰老路】日本共同社日前透露，日本政府部門和機構2027財年（2027年4月至2028年3月）預算申請總額預計將超過130萬億日元（約合8178億美元），其中日本防衛省計劃申請約8.9萬億日元，用於部署攔截型無人機等，申請規模創歷史新高，並且最終有可能還會進一步增加。 全面邁向“再軍事化”的標誌性事件 防衛省計劃於2027年實施大規模擴編已經在日本媒體的預料之中，而且要在不進行任何部門廢除的基礎上，新設“防衛基盤局”“國際政策局”“設施政策局”三個部門。據報道，這三個部門預計將分別負責“持續作戰能力”、“國際合作”與“基地管理”等職能。 一次同時新設三個部門，屬於“非常罕見”的行政擴張，打破了日本行政改革“新設須廢舊”的慣例，暴露了日本加速突破“專守防衛”政策限制、將軍事影響力常態化向海外延伸的戰略野心。（環球時報）
-
----
-
-### 2026-08-25 08:47:28  #央行 #其他
-
-【央行今日開展5000億元中期借貸便利操作】為保持銀行體系流動性充裕，8月25日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展5000億元中期借貸便利，也就是MLF操作，期限為1年期。中期借貸便利是中央銀行提供中期基礎貨幣的貨幣政策工具，可透過招標方式開展。
-
----
-
-### 2026-08-25 08:47:27  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【Combined margin financing balances down CNY 4.186 billion】As of Aug 24, margin financing on the Shanghai Stock Exchange was CNY 1,346.471 billion, down CNY 2.346 billion from the prior trading day; Shenzhen stood at CNY 1,274.344 billion, down CNY 1.84 billion. Combined balance was CNY 2,620.815 billion, down CNY 4.186 billion.
 
 ---

@@ -1,7 +1,463 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-31 03:24:49_
-_本檔包含 2512 則快訊，約 578029 字_
+_更新時間：2026-08-31 06:02:04_
+_本檔包含 2548 則快訊，約 580248 字_
+
+---
+
+### 2026-08-31 06:01:00  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+【International crude opens higher Monday as US-Iran tensions escalate】WTI crude jumped nearly 2% at the open to $84.29/bbl; Brent rose 1.7% to $89.43/bbl. US forces struck an island in southern Iran in the early hours of Beijing time; Iran struck a US military base.
+
+---
+
+### 2026-08-31 06:00:28  #市場 #焦點
+
+現貨白銀突破66美元/盎司，日內跌0.86%。
+
+---
+
+### 2026-08-31 06:00:21  #市場 #焦點
+
+紐約期金突破4490美元/盎司，日內跌0.86%。
+
+---
+
+### 2026-08-31 06:00:11  #市場 #焦點
+
+WTI原油日內漲2%，現報85.16美元/桶。
+
+---
+
+### 2026-08-31 06:00:09  #市場
+
+紐約期銀日內跌2%，現報66.34美元/盎司。
+
+---
+
+### 2026-08-31 06:00:07  #市場 #焦點
+
+WTI原油突破85美元/桶，日內漲1.92%。
+
+---
+
+### 2026-08-31 06:00:05  #市場
+
+布倫特原油日內漲2%，現報90.01美元/桶。
+
+---
+
+### 2026-08-31 06:00:05  #市場 #焦點
+
+布倫特原油突破90美元/桶，日內漲2.17%。
+
+---
+
+### 2026-08-31 06:00:04  #市場
+
+紐約期銀日內跌1%，現報66.45美元/盎司。
+
+---
+
+### 2026-08-31 06:00:04  #市場 #焦點
+
+紐約期金突破4480美元/盎司，日內跌1.11%。
+
+---
+
+### 2026-08-31 06:00:03  #市場
+
+WTI原油日內漲1%，現報84.90美元/桶。
+
+---
+
+### 2026-08-31 06:00:02  #市場
+
+紐約期金日內跌1%，現報4476.78美元/盎司。
+
+---
+
+### 2026-08-31 06:00:01  #市場
+
+布倫特原油日內漲1%，現報89.47美元/桶。
+
+---
+
+### 2026-08-31 05:55:48  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+【Iran Revolutionary Guard says it fired missiles at US bases】Iran's Islamic Revolutionary Guard Corps (IRGC) said on social media in the early hours of the 31st that it fired missiles at US military bases.
+
+---
+
+### 2026-08-31 05:51:25  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Iran's Press TV reports multiple explosions in Jordan, attributing them to an Iranian attack.
+
+---
+
+### 2026-08-31 05:51:06  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為43.1%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為43.1%，累計加息25個基點的機率為56.9%。美聯儲到10月維持利率不變的機率為29.3%，累計加息25個基點的機率為52.5%，累計加息50個基點的機率為18.3%。
+
+---
+
+### 2026-08-31 05:51:03  #其他
+
+約旦境內美軍穆瓦法克·薩爾蒂空軍基地發生爆炸。
+
+---
+
+### 2026-08-31 05:48:50  #MKT News
+
+【Gurman: Apple’s incoming CEO faces AI-era test in September】Bloomberg reporter Mark Gurman says Apple (AAPL.O)’s incoming CEO Ternus, due to take office on Sept. 1, has driven an ambitious product slate that includes a first foldable iPhone and a smart display that recognizes speakers and personalizes content. Gurman says the key market test will be a broad September rollout of a new Siri AI intended to compete with ChatGPT; given the high operating costs of such systems, Apple ultimately hopes to charge for the service or monetize via third‑party app integrations, but must overcome Siri’s long‑standing reputation for unreliability and limited usefulness. Early reviews of Siri AI are broadly positive.
+
+---
+
+### 2026-08-31 05:45:18  #國際
+
+美國財長貝森特稱，必要時將（對伊朗）採取金融打擊手段。
+
+---
+
+### 2026-08-31 05:45:14  #MKT News
+
+Iran's Mehr news agency, citing Arab sources, reported multiple explosions in the Aqaba region of southern Jordan.
+
+---
+
+### 2026-08-31 05:41:52  #焦點 #國際
+
+伊媒稱伊朗朝霍爾木茲海峽美國艦船發射導彈。
+
+---
+
+### 2026-08-31 05:40:08  #國際
+
+美國財長貝森特稱，本週將新增一家銀行制裁物件。
+
+---
+
+### 2026-08-31 05:38:46  #央行 #宏觀 #公司 #國際
+
+【美國財政部禁止多家媒體記者參與G20會議報道】美國財政部拒絕彭博新聞社、《華爾街日報》等多家媒體的記者報道二十國集團財長峰會。財政部拒絕了大量針對這場全球經濟政策決策者與央行行長峰會的採訪資質申請，卻未給出任何解釋。此前主辦G20的各國中，將多家主流媒體排除在會議之外的情況十分罕見，對美國政府而言更是前所未有。
+
+---
+
+### 2026-08-31 05:33:05  #焦點 #國際
+
+【第24屆華盛頓中國文化節舉行】當日，第24屆華盛頓中國文化節在美國華盛頓舉行，活動現場人潮湧動，豐富的中國文化展示與精彩文藝表演交相輝映。（新華社）
+
+---
+
+### 2026-08-31 05:26:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【US CENTCOM says 83 merchant vessels rerouted amid blockade of Iran】On Aug. 30 U.S. Central Command (CENTCOM) said a U.S. Navy destroyer, the Delbert D. Black, was operating in the Arabian Sea as the U.S. continues its blockade of Iran. CENTCOM said it had directed 83 merchant vessels to alter course, disabled three vessels and boarded and inspected two to ensure compliance with blockade measures.
+
+---
+
+### 2026-08-31 05:24:28  #國際
+
+【美軍中央司令部：已改變83艘商船航行路線】當地時間8月30日，美軍中央司令部表示，在美國繼續對伊朗實施封鎖之際，美國海軍“德爾伯特·D·布萊克”號驅逐艦在阿拉伯海執行任務。截至當天，美軍中央司令部已引導83艘商船改變航行路線、使3艘商船喪失航行能力，並登臨檢查了2艘商船，以確保其遵守相關封鎖要求。（央視新聞）
+
+---
+
+### 2026-08-31 05:23:34  #國際
+
+【五角大樓秘密聘用高粉絲保守派退伍軍人擔任文職】五角大樓悄然任命數名擁有大量社交媒體粉絲的保守派退伍軍人擔任政府文職崗位，但幾乎未公開披露他們的具體工作內容，也未說明其是否領取薪酬。這批人員包括退役軍官羅布·馬內斯、庫爾特·施利希特以及托馬斯·安德森。以上三人均曾公開為防長赫格塞斯辯護，同時批評記者、職業官員以及其他反對特朗普政府的人士。部分網路意見人士加入了五角大樓高階軍事學院特別工作組。該工作組成立目的是核查軍事院校內所謂“有害”“覺醒派”意識形態問題。在走訪陸軍戰爭學院期間，他們就軍隊高層以及課程內容向學生與教授提出質詢。
+
+---
+
+### 2026-08-31 05:22:57  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+IRNA cited sources saying Israeli forces continue to violate the ceasefire, using white-phosphorus munitions in airstrikes on other areas of southern Lebanon.
+
+---
+
+### 2026-08-31 05:22:50  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish #Nasdaq100
+
+NVIDIA CEO Jensen Huang said AI is creating jobs in energy, data centers and startups. AI startups have attracted $400 billion in investment in the past six months alone.
+
+---
+
+### 2026-08-31 05:22:42  #國際
+
+美國就冰島歐盟公投發表宣告：尊重冰島人民的主權決定。
+
+---
+
+### 2026-08-31 05:21:59  #市場 #焦點
+
+紐約原油暗盤突破85美元，日內漲超2.5%。
+
+---
+
+### 2026-08-31 05:19:53  #國際
+
+美國財長貝森特：正如美國總統正在重振美國經濟增長，並將其作為本屆政府施政議程的核心，我們也採取相同思路。在主辦今年G20財金渠道會議之際，我們把經濟增長列為優先事項。我們期待召集全球政策制定者與私營部門領袖，強調更強勁的經濟增長不僅具備可行性，更是現實所需。
+
+---
+
+### 2026-08-31 05:17:48  #國際
+
+美國中央司令部：截至8月30日，美國中央司令部部隊已迫使83艘商業船舶改道，癱瘓3艘船隻，並登檢2艘，確保各方遵守封鎖規定。
+
+---
+
+### 2026-08-31 05:17:20  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #NVDA.O #Impact bullish #Copper #Nasdaq100
+
+NVIDIA CEO Jensen Huang said AI is driving manufacturing reshoring to the U.S., reindustrializing the country after decades of offshoring. He said AI is creating new demand that is prompting market-driven investment in the aging power grid and sustainable energy, rather than relying on subsidies.
+
+---
+
+### 2026-08-31 05:17:07  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Explosions heard again on Larak Island, southern Iran】Iranian sources reported explosions were heard again on Larak Island in southern Iran in the early hours of Aug 31 local time. Iranian authorities have not yet issued a statement.
+
+---
+
+### 2026-08-31 05:16:56  #國際
+
+【伊朗南部拉臘克島再次傳出爆炸聲】總檯記者當地時間8月31日凌晨從伊朗方面獲悉，該國南部拉臘克島再次傳出爆炸聲。伊朗官方暫未釋出相關宣告。（央視新聞）
+
+---
+
+### 2026-08-31 05:14:12  #國際
+
+【美大峽谷國家公園突發山洪 超20人失聯】美國國家公園管理局30日說，位於亞利桑那州的大峽谷國家公園29日突發山洪，目前有超過20人被列為可能失聯或下落不明人員。（新華社）
+
+---
+
+### 2026-08-31 05:08:05  #國際
+
+伊朗革命衛隊發言人：此次行動（美軍轟炸伊朗南部島嶼）是特朗普政府在經濟戰爭背景下犯下的戰略性致命錯誤。該錯誤將使局勢轉而對策劃者不利，並會讓其付出沉重代價。敵人將在經濟與軍事兩個領域，為這一誤判承擔後果。
+
+---
+
+### 2026-08-31 05:01:05  #MKT News
+
+NASA says an oxidizer leak in the propulsion system of SpaceX's Dragon is forcing an adjustment to the agency's Crew-13 launch date.
+
+---
+
+### 2026-08-31 04:59:42  #國際
+
+美國航空航天局：“載人13號任務”新目標發射日期確定後將另行公佈。
+
+---
+
+### 2026-08-31 04:59:25  #國際
+
+美國航空航天局：NASA與SpaceX正在調整該局Crew-13龍飛船載人任務前往國際空間站的發射日期，以解決龍飛船推進系統的氧化劑洩漏問題。
+
+---
+
+### 2026-08-31 04:48:59  #國際
+
+伊朗革命衛隊發言人稱，美國犯下“具有戰略意義的致命錯誤”。
+
+---
+
+### 2026-08-31 04:46:05  #其他
+
+ONEOK獲阿波羅90億美元投資用於收購，50億美元將用於壓降存量債務。
+
+---
+
+### 2026-08-31 04:43:09  #國際
+
+以色列總理內塔尼亞胡抨擊英國：如今在英國，即便你只是在推特上發表一些言論——其中不乏右翼頗有學識的知名人士——就會被傳喚接受訊問。這種情況正在當地發生。
+
+---
+
+### 2026-08-31 04:40:20  #國際
+
+美國國家颶風中心預計，卡琳娜颶風在太平洋開闊海域移動過程中強度將會增加。
+
+---
+
+### 2026-08-31 04:35:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Islamic Revolutionary Guard Corps spokesman said the enemy will pay for its attack on Larak Island in both economic and military domains.
+
+---
+
+### 2026-08-31 04:34:32  #國際
+
+伊朗革命衛隊發言人表示，美國將在經濟和軍事兩方面為襲擊拉拉克島付出代價。
+
+---
+
+### 2026-08-31 04:32:22  #國際
+
+以色列總理內塔尼亞胡：加沙、黎巴嫩與敘利亞仍有尚未完成的作戰任務，同時還出現了新的威脅。要知道，埃爾多安對我們，或者說對我本人，並不怎麼友好。
+
+---
+
+### 2026-08-31 04:29:09  #國際
+
+以色列總理內塔尼亞胡：我與伊朗打交道已有近40年。我花了很長時間，才推動本國安全機構將矛頭對準伊朗本身。我同樣耗費許久才讓美國形成這一認知。我之所以能夠做到這點，是因為我在美國電視節目上出鏡時長接近一千小時。
+
+---
+
+### 2026-08-31 04:24:51  #公司 #國際
+
+【谷歌地圖將安大略湖標記為美國湖】當地時間8月30日，美國總統特朗普在社交媒體平臺釋出一張地圖，顯示地處美國與加拿大邊境的安大略湖如今已被標註為“美國湖”。美國谷歌公司在一份宣告中稱，谷歌地圖已為美國使用者將該湖的名稱更改為“美國湖”，以“反映特朗普日前簽署的將湖泊更名的行政命令”。 據瞭解，美國總統的行政命令影響的是美國地理名稱資訊系統，該系統為美國官方地圖設定標準。它對加拿大的命名慣例或世界其他地區對該湖泊的稱呼沒有任何影響。 去年，谷歌地圖對墨西哥灣也做出了類似的更改：在特朗普就職後簽署行政命令將該水域更名為“美國灣”後，谷歌地圖便將其標註為“美國灣”。（CCTV國際時訊）
+
+---
+
+### 2026-08-31 04:22:53  #市場 #國際
+
+【NASA與SpaceX因飛船洩漏推遲國際空間站任務發射】美國國家航空航天局表示，SpaceX與NASA推遲原定飛往國際空間站的任務發射，以修復龍飛船推進系統出現的氧化劑洩漏故障。NASA和SpaceX正在開展額外測試，尚未公佈Crew‑13任務的新目標發射時間。該任務乘員包含美國、加拿大以及俄羅斯宇航員。龍飛船是SpaceX向軌道運送宇航員與貨物的主力飛行器，也是美國唯一可向國際空間站運送航天員的運載工具。去年夏天，該飛船曾成為埃隆·馬斯克與唐納德·特朗普總統爭執中的博弈籌碼。SpaceX已於週日將一座價值43億美元、用於研究暗物質與暗能量的NASA望遠鏡送入太空；特朗普致電發射後的新聞釋出會，對本次發射表示讚揚。
+
+---
+
+### 2026-08-31 04:21:31  #其他
+
+【給機器人當“啟蒙老師” 資料標註產業正加快發展】為期三天的2026中國國際大資料產業博覽會在貴州貴陽閉幕。數博會上，資料標註相關場景和服務產品的展示，成為今年的一大亮點。在數博會現場，相關企業展示機器人進行資料採集和標註的工作場景吸引了不少觀眾。作為人工智慧發展的重要支撐，資料標註產業正加快發展步伐。在貴州惠水，輕量化影片拍攝裝置記錄下工廠等場景裡工作的動作，為機器人充當“啟蒙老師”；在貴安新區，工作人員運算元十臺機器人，透過多個感測器記錄物流運輸等場景中的影片資料，並進行標註。眼下，貴州將資料採集和資料標註作為數字經濟發展的新動能與重點產業，已集聚資料採集和標註企業135家，從業人員超1.6萬人。（央視財經）
+
+---
+
+### 2026-08-31 04:12:24  #其他
+
+馬斯克：我成功對一段特定影片片段完成了編輯與畫質增強。應當說明，就部分任務而言，我個人仍然覺得Grok應用比Bot更加好用。如果你已經有一段時間沒用過，不妨拿極高難度的任務試一試。
+
+---
+
+### 2026-08-31 04:11:50  #國際
+
+美國加州一家上訴法院重啟2022年的一起訴訟，該訴訟指控蘋果誘導消費者不要選擇第三方維修服務修復iPhone碎裂螢幕。
+
+---
+
+### 2026-08-31 04:09:29  #國際
+
+伊朗革命衛隊：敵方對拉爾克島的襲擊，源於其無法解決國內問題且在地區國家中的地位日益下滑。
+
+---
+
+### 2026-08-31 04:09:10  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【US strikes Iran's southern island; Iran vows retaliation】Iranian media reported explosions on Larak Island in Hormozgan province late Aug. 30 local time (early Aug. 31 Beijing time). The Islamic Revolutionary Guard Corps (IRGC) said the strike on Larak caused multiple casualties, including civilians, and vowed the attack would be avenged and the aggressors punished. Axios, citing a US official, reported US forces struck two IRGC launch sites on Larak Island.
+
+---
+
+### 2026-08-31 04:08:41  #國際
+
+【美軍襲擊伊朗南部島嶼】據伊朗媒體報道，當地時間8月30日晚，北京時間今天（8月31日）凌晨，伊朗南部霍爾木茲甘省拉臘克島地區傳出爆炸聲。伊朗伊斯蘭革命衛隊發表宣告稱，拉臘克島遭襲造成包括平民在內的多人死傷，“敵人對拉臘克島的侵略必將遭到報復，侵略者必將受到懲罰”。 據美國“阿克西奧斯新聞網（Axios）”援引一位美國官員的話報道稱，美軍對拉臘克島上伊朗伊斯蘭革命衛隊的兩處發射裝置進行了打擊。（CCTV國際時訊）
+
+---
+
+### 2026-08-31 04:06:47  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+On Aug 30 local time, explosions were heard in Kyiv after the city sounded air-raid sirens.
+
+---
+
+### 2026-08-31 04:05:09  #國際
+
+【烏克蘭首都基輔傳出爆炸聲】當地時間8月30日，烏克蘭首都基輔市內傳出爆炸聲。此前基輔拉響了防空警報。
+
+---
+
+### 2026-08-31 04:02:00  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
+
+Iran's Islamic Revolutionary Guard Corps said an attack caused multiple military and civilian casualties.
+
+---
+
+### 2026-08-31 04:00:38  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) said a U.S. strike on Larak Island would be met with "response and punishment".
+
+---
+
+### 2026-08-31 03:54:54  #國際
+
+【伊朗南部拉臘克島傳出爆炸聲】當地居民報告稱，在伊朗南部拉臘克島附近聽到爆炸聲。爆炸的確切地點和原因尚不清楚。據伊朗方面訊息，根據初步情報，一小時前，敵方無人機襲擊了伊朗南部拉臘克島。一些初步的非官方報告顯示，此次襲擊造成2人死亡、2人受傷。
+
+---
+
+### 2026-08-31 03:54:45  #MKT News
+
+【IRGC says adversary using 'psychological warfare'】Al Jazeera reported the IRGC's intelligence unit said an adversary, after failing to break the Iranian people's resistance, is resorting to "psychological warfare" to undermine stability. Fars News Agency said Iran is responding by targeting the adversary's command-and-control capabilities and striking groups attempting to foment internal divisions.
+
+---
+
+### 2026-08-31 03:53:12  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+【Explosions heard near Iran's southern Larak Island】Local time on the evening of Aug. 30, residents reported hearing explosions near Larak Island in southern Iran. Exact location and cause are unclear. Iranian sources said preliminary intelligence indicates enemy drones struck the island about an hour earlier. Some unofficial early reports put casualties at two dead and two injured; no official statement has been released.
+
+---
+
+### 2026-08-31 03:50:09  #MKT News #Market Regions #Japan & APAC #9983.T #Impact bullish
+
+Nikkei reported Fast Retailing plans to double the number of Uniqlo flagship stores in Japan to about 20 over the next ten years.
+
+---
+
+### 2026-08-31 03:49:29  #國際
+
+迅銷計劃在十年內將日本優衣庫旗艦店數量翻倍至約20家。
+
+---
+
+### 2026-08-31 03:46:32  #MKT News
+
+Al Jazeera reported Iran's Islamic Revolutionary Guard Corps said the enemy is using "psychological warfare".
+
+---
+
+### 2026-08-31 03:42:49  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+TASNIM NEWS cited preliminary information saying hostile drones struck Larak Island in Hormozgan province about one hour ago. Initial unofficial reports indicate two killed and two wounded.
+
+---
+
+### 2026-08-31 03:35:24  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's Fars News reported an explosion near Larak Island; cause unknown.
+
+---
+
+### 2026-08-31 03:35:11  #市場
+
+悉尼早盤交易中，美元兌G10主要貨幣匯率保持穩定。
+
+---
+
+### 2026-08-31 03:35:04  #國際
+
+伊朗媒體：拉拉克島附近傳來爆炸聲，爆炸原因不明。
+
+---
+
+### 2026-08-31 03:31:39  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #DXY #Impact bullish #US10Y #Impact bearish
+
+【Fed chair Kevin Warsh's hawkish tone lifts September hike odds; bond investors skeptical】Swap-implied odds of a mid-September Fed rate hike have moved above 50% after Fed chair Kevin Warsh reiterated his determination to curb inflation. The move pushed policy-sensitive US two-year Treasury yields to their largest gain in over two months. Institutional bond managers, including ABN AMRO Investment Solutions and Brandywine Global Investment Management, said they remain skeptical that rhetoric alone will prompt a rate increase. ABN AMRO CIO Christophe Boucher said he is avoiding long-duration bonds because they are vulnerable to concerns the Fed may be unable to control inflation, and warned the Fed's policy reaction function remains unclear; if Warsh does not back a September hike while inflation stays stubborn, market worries about Fed credibility could resurface. The ultimate decision will hinge largely on this week's nonfarm payrolls and subsequent inflation prints.
+
+---
+
+### 2026-08-31 03:29:24  #國際
+
+【美軍空襲伊朗革命衛隊火箭發射器，完成海峽航道掃雷】一名美國官員表示，美軍於週日襲擊了位於拉克島的伊朗革命衛隊火箭發射裝置。該官員稱，美軍還完成了霍爾木茲海峽國際航運航道的掃雷作業。美軍正密切監控該地區，隨時準備保障海峽貿易通航自由。
+
+---
+
+### 2026-08-31 03:27:06  #國際
+
+市場資訊：伊朗革命衛隊計劃向霍爾木茲海峽發射火箭並佈設水雷。
+
+---
+
+### 2026-08-31 03:24:41  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Axios reported U.S. officials said U.S. forces struck two Iranian missile launchers on Larak Island early Sunday.
+
+---
+
+### 2026-08-31 03:24:34  #國際
+
+市場資訊：美國今天襲擊了拉拉克島上的兩處伊朗導彈發射井。
 
 ---
 
@@ -135,6 +591,12 @@ U.S. officials told Al Jazeera that U.S. forces are closely monitoring the area 
 ### 2026-08-31 02:27:49  #國際
 
 特朗普：所有與美國開展業務的加拿大企業，請立即遷至美國。其中很多企業多年前因美國當局的愚蠢決策遷出美國。若遷回美國，即可免徵關稅。
+
+---
+
+### 2026-08-31 02:26:55  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500
+
+【Trump urges Canadian companies doing business in US to relocate to United States】President Trump urged all Canadian companies with U.S. operations to relocate to the United States immediately, saying many left Canada years ago because of what he called the 'foolish' policies of U.S. leaders and promising full tariff exemptions for firms that move back.
 
 ---
 
@@ -14962,255 +15424,5 @@ Corn Holds Near 3-Year High — Corn futures held above $5.1 per bushel, staying
 ### 2026-08-28 11:24:46  #Trading Economics #Markets #Commodity #Importance 1
 
 US Natgas Prices Hold at 5-Week High — US natural gas prices held around $2.91/MMBtu, the highest level in five weeks, supported by a smaller-than-usual storage injection and forecasts for continued warm weather. EIA data showed that energy firms added 15 Bcf of gas to storage for the week ended August 21, below the 20 Bcf forecast and the 33 Bcf five-year average for the period. Gas prices also gained amid forecasts of record-high temperatures across the Southwest through this weekend, while the Commodity Weather Group said on Thursday that above-average temperatures are expected across nearly the entire US from September 1-10, keeping cooling demand elevated. However, strong domestic production is capping further price gains, with output in the Lower 48 states averaging a record 111.4 bcfd so far in August, up from 110.7 bcfd in July. Meanwhile, average gas flows to the nine major LNG export facilities fell slightly to 17.1 bcfd from 17.2 bcfd in July, although LNG demand is showing signs of recovery.
-
----
-
-### 2026-08-28 11:24:44  #市場 #國際
-
-【特朗普政府鎢廢料出口禁令正式生效 美國鎢礦股本月暴漲】當地時間本週四，美國特朗普政府對鎢廢料及電池碎料的出口禁令正式生效，這成為了美方將關鍵戰略資源保留在本土的最新舉措。而在美股市場上，部分美股鎢礦股則在本月迎來了大漲。行情資料顯示，鎢礦商Almonty Industries的股價週四再度大漲了3.6%，本月有望創下自2025年6月以來的最佳單月表現，迄今漲幅已高達70%。另一家鎢礦企業American Tungsten的股價本月迄今亦大幅上漲。
-
----
-
-### 2026-08-28 11:24:33  #其他
-
-【奈及利亞綁匪過去一年收取贖金580萬美元】奈及利亞一研究機構日前釋出報告稱，該國的綁匪在過去一年時間裡透過綁架平民勒索到約580萬美元贖金。SBM Intelligence當地時間26日釋出報告稱，2025年7月至2026年6月期間，為解救被綁架者支付的贖金達77.8億奈拉(約合580萬美元)。該機構統計，同期有7825人被綁架，較上一年增加66%，至少1142人死亡。極端組織“博科聖地”下屬派系在幾起大規模綁架案中拿走了約九成贖金。
-
----
-
-### 2026-08-28 11:23:57  #公司
-
-【好想你：全年計劃升級直營門店53家 上半年已升級23家】好想你(002582)8月27日在券商策略會上表示，2026年公司全面推進門店升級煥新，從“紅棗產品銷售門店”向“禮贈場景體驗中心”轉型。全年計劃升級直營門店53家，上半年已升級23家，升級後門店客單數與銷售收入均實現同比增長。
-
----
-
-### 2026-08-28 11:22:50  #公司
-
-【好想你：上半年胖東來渠道收入同比增長66.16%】好想你(002582)8月27日在券商策略會表示，上半年，公司持續深化與山姆、胖東來等高勢能渠道的戰略合作，山姆渠道收入同比增長47.73%；胖東來渠道收入同比增長66.16%，已接近2025年全年水平。
-
----
-
-### 2026-08-28 11:20:47  #公司 #市場
-
-【卓越商企服務李曉平：進一步降低關聯方交易佔比】8月28日，卓越商企服務召開2026年度上半年業績釋出會。會上，針對當前房地產週期對公司經營的影響，董事會主席兼執行董事李曉平指出，當前房地產市場仍處於深度調整階段，公司主要從三方面應對：一是繼續推進“去地產化”，進一步壓降與關聯方的交易比重，聚焦於卓越集團旗下優質專案；二是堅守財務底線，在保障現金流穩健的前提下，加大第三方市場拓展力度；三是積極佈局多元賽道，透過業務結構最佳化提升經營效率，以此對沖地產週期的波動衝擊。據介面新聞了解，截至2026年6月30日，卓越商企服務合約面積約8910萬平方米，較上年同期增長約8.0%；在管面積約8309萬平方米，同比增長約11.9%，其中來自第三方的在管物業面積佔比達65.1%。
-
----
-
-### 2026-08-28 11:20:22  #其他
-
-【興業銀行林舒：將把握好長定期存款置換的有利條件】興業銀行計劃財務部總經理林舒在該行2026年半年度業績會上透露，今年該行有5400億元的三年以上定期存款到期，上半年已到期約3100億元，下半年仍有2300億元到期，該行將把握好長定期存款置換的有利條件。“這部分存款平均成本約3.15%，假設定換為目前三年期1.75%的定期，該部分的負債有約140個基點的成本節約空間，如果考慮部分將轉化為低成本的活期類存款，成本節約空間實際會更大。”
-
----
-
-### 2026-08-28 11:19:05  #宏觀 #公司 #國際
-
-【韓國對涉中國臺灣地區PET薄膜啟動反傾銷日落複審調查】據中國貿易救濟資訊網訊息，2026年8月26日，韓國企劃財政部發布第2026-237號公告（案件調查號23-2026-7），應韓國生產商申請，對原產於中國臺灣地區、泰國和阿聯酋的PET薄膜（PET）啟動反傾銷日落複審調查。本案傾銷調查期為2025年1月1日至2025年12月31日，損害調查期為2022年1月1日至2025年12月31日。
-
----
-
-### 2026-08-28 11:18:46  #其他
-
-【姜輝已任中宣部副部長】據山東省人民政府官網訊息，8月27日，第十六屆中國國際數字出版博覽會主論壇在濟南舉行。中央宣傳部副部長姜輝，省委副書記、省長周乃翔出席。上述訊息顯示，姜輝已任中宣部副部長。
-
----
-
-### 2026-08-28 11:18:39  #市場 #焦點
-
-純鹼連續主力合約日內漲1%，現報1027.00元。
-
----
-
-### 2026-08-28 11:17:16  #公司 #市場
-
-【農林牧漁產業鏈持續走高 天鵝股份直線漲停】農林牧漁產業鏈盤中持續走高，農機、方向展開補漲，天鵝股份直線漲停，花溪科技觸及30cm漲停，此前敦煌種業、新賽股份、中水漁業、福建金森、萬向德農漲停，秋樂種業、豐安股份、威馬農機等紛紛衝高。
-
----
-
-### 2026-08-28 11:17:10  #其他
-
-【GIIC聯盟發起鴻圖計劃 加速鴻蒙生態規模化落地千行百業】8月28日，鴻蒙生態大會宣佈發起鴻圖計劃，旨在聚力鴻蒙生態產業鏈晶片、模組、0SV、裝置夥伴，投入專項資源，透過開發激勵、測評激勵、商用激勵多維並舉，共同做強鴻蒙生態底座，實現鴻蒙生態規模化落地千行百業。該計劃由GIIC聯盟發起、華為全力支援。
-
----
-
-### 2026-08-28 11:17:02  #其他
-
-【景甜回應與孫宇晨爭議】28日，景甜回應和孫宇晨爭議，表示自己過去，現在，未來，都不會為錢出賣愛情、靈魂，“我依然相信愛情，我依然眼光不行，我依然智慧欠奉”，表示將相信法律，相信善良，相信終究會有的正義和公平，“時間會證明一切。
-
----
-
-### 2026-08-28 11:16:21  #其他
-
-【瑞銀：海底撈上半年業績大致符預期，目標價降至16.3港元】瑞銀髮表報告指，海底撈上半年業績大致符預期，收入及盈利同比分別增長8%及持平，至223億及18億元；除息稅前盈利(EBIT)同比增長9%，較該行預測高3%；EBIT利潤率亦較該行預期高0.4個百分點，毛利率同樣高0.4個百分點。派息比率約100%，高於去年上半年的95%，超出該行預期。海底撈7月至8月的營運表現較該行預期佳，上半年經營利潤率在宏觀經濟不確定性下仍展現韌性。瑞銀將海底撈2026至2028年每股盈利預測下調4%至6%，以反映其他收益減少及經營開支增加，目標價由17.16港元下調至16.3港元，維持“買入”評級。
-
----
-
-### 2026-08-28 11:15:51  #公司
-
-【寧德時代入股物理AI公司深度智控】企查查APP顯示，近日，南京深度智控科技有限公司發生工商變更，新增寧德時代(300750)全資子公司寧波梅山保稅港區問鼎投資有限公司等為股東，同時註冊資本增至1655.98萬元。企查查資訊顯示，該公司成立於2018年，經營範圍包含：物聯網系統研發與服務；智慧建築系統軟硬體的設計、開發與銷售；計算機系統整合及服務等。公開資訊顯示，深度智控是一家物理AI公司。
-
----
-
-### 2026-08-28 11:15:09  #行業 #公司
-
-【香港邀請有興趣平臺公司申請網約車服務牌照】香港特別行政區政府運輸署釋出宣告稱，已邀請有興趣的平臺公司申請網約車服務牌照，申請截止日期為10月30日。公司資本必須不少於5000萬港元(640萬美元)，並擁有至少3,000萬港元銀行存款及3,000萬港元的信貸額度。
-
----
-
-### 2026-08-28 11:13:26  #公司 #觀點
-
-【花旗：下調三花智控目標價至29港元，面臨暫時性的宏觀逆風】花旗發表報告指，即使面臨暫時性的宏觀逆風，三花智控管理層維持2026財年淨利潤同比增長15%的目標。公司目標實現淨利潤增速超過收入增速，並以新業務作為風險對沖。在微調預測後，該行將三花智控目標價從31港元下調至29港元，以反映行業整體的利潤率壓力和下游出貨量壓力，維持“中性”評級。
-
----
-
-### 2026-08-28 11:12:58  #公司
-
-【德方奈米：預計明年動力市場和儲能市場仍會保持相對高速增長】德方奈米(300769)8月27日在業績說明會上表示，從目前的客戶反饋與在手訂單情況看，下游動力電池與儲能兩大應用領域需求保持旺盛。預計明年動力市場和儲能市場仍然會保持相對高速增長，其中儲能市場的增速預計會高於動力市場。隨著公司高階產能的逐步釋放，預計公司明年會繼續保持高速增長。
-
----
-
-### 2026-08-28 11:12:50  #國際
-
-【歐航局再次發射成像衛星 用於天氣預報】當地時間27日下午，歐洲航天局第三代氣象衛星系統第二顆成像衛星（MTG-I2）搭乘阿麗亞娜6型火箭從法屬蓋亞那庫魯航天中心升空，約36分鐘後衛星與火箭上面級分離，地面隨後確認收到衛星訊號。歐航局官網介紹，本次發射的這顆成像衛星搭載兩臺儀器，分別是閃電成像儀和柔性組合成像儀。前者可持續監測閃電，為歐洲氣象衛星增加了新業務能力；後者能夠描繪快速演變的天氣系統，可用於及時釋出天氣預警。
-
----
-
-### 2026-08-28 11:11:15  #其他
-
-【華為徐直軍：期待實現鴻蒙生態全球化規模發展 為世界提供第二選擇】在鴻蒙生態大會2026上，華為輪值董事長徐直軍表示，鴻蒙生態距離最終成功還面臨兩個考驗，一是把握AI時代的機遇，讓鴻蒙智慧化體驗領先，二是鴻蒙成功走向海外，實現全球化發展。鴻蒙生態真正成功的標誌必然能走出國門，在全球市場佔據一席之地，期待與開源鴻蒙社群、GIIC聯盟、中國網際網路應用企業、智慧裝置廠商、海外夥伴一起，在有條件的國家和地區先行先試，在驗證模式、沉澱最佳實踐的基礎上，實現鴻蒙生態的全球化規模發展，為世界提供第二選擇。
-
----
-
-### 2026-08-28 11:11:04  #觀點
-
-【花旗：上調舜宇光學目標價至94港元，評級“買入”】花旗發表報告指，剔除換股交易後，舜宇光學管理層預期全年總收入及淨利潤均至少同比增長7%。全年手機業務收入預計同比持平，XR業務收入於2026年將超過20億元並實現同比增長，泛物聯網業務收入預計增長約50%。管理層稱舜宇光學已從領先客戶獲得大規模AR產品訂單，預計從2027年起將帶來有意義的增量貢獻。該行將其目標價由88港元上調至94港元，評級“買入”。
-
----
-
-### 2026-08-28 11:10:58  #公司
-
-【德方奈米：二季度磷酸鹽正極材料出貨量環比增26% 目前維持滿產滿銷狀態】德方奈米(300769)8月27日在業績說明會上表示，公司第二季度磷酸鹽正極材料出貨11.27萬噸，同比增長85%，環比增長26%。目前下游需求旺盛，維持滿產滿銷狀態。
-
----
-
-### 2026-08-28 11:08:55  #公司
-
-【德方奈米：預計補鋰增強劑產品全年將保持高速增長趨勢】德方奈米(300769)8月27日在業績說明會上表示，今年上半年，受益於全球儲能市場的高速增長，公司補鋰增強劑產品出貨量實現顯著增長，同比增長超300%，繼續鞏固該產品的市場領先地位。產品在海外儲能、AIDC、半固態電池等應用領域的應用程序持續拓寬，應用邊界不斷擴充套件，預計全年將保持高速增長趨勢。若海外政策不會大幅波動、定點專案如期落地，預計明年補鋰增強劑的出貨量將繼續保持高速增長態勢。
-
----
-
-### 2026-08-28 11:08:47  #其他
-
-創新藥板塊震盪下挫，鍵凱科技、萬邦醫藥跌超13%，隴神戎發、西點藥業、漢森製藥、沃森生物、上海誼眾、三元基因、維康藥業跌幅居前。
-
----
-
-### 2026-08-28 11:06:39  #央行 #中國央行
-
-【央行定於9月4日發行科創未來（人工智慧）金銀紀念幣一套 均為法定貨幣】中國人民銀行定於2026年9月4日發行科創未來（人工智慧）金銀紀念幣一套。該套金銀紀念幣共3枚，其中金質紀念幣1枚，銀質紀念幣2枚，均為中華人民共和國法定貨幣。
-
----
-
-### 2026-08-28 11:05:39  #公司 #國際
-
-【美國企業界據悉正為2026年中期選舉提前採取對沖策略】據報道，美國一些與特朗普建立密切關係的公司——尤其是大型科技公司——擔心在中期選舉中如果民主黨贏得眾議院，他們將面臨民主黨主導的調查。一些公司正在向民主黨團體捐款，聘請前民主黨官員，併為傳票做準備。例如，Meta 已向與兩黨結盟的團體捐款數百萬美元，而 OpenAI 則一直在加強與民主黨議員的關係。其他公司，包括 Paramount 和 Kalshi，正在聘請知名民主黨人。
-
----
-
-### 2026-08-28 11:05:13  #其他
-
-【尼泊爾山洪977人失聯】根據尼泊爾警方28日公佈的資料，尼泊爾北部地區山洪造成的死亡人數升至469人。另據尼泊爾國家減少災害風險管理局公佈的資料，失聯人數升至977人。（央視新聞）
-
----
-
-### 2026-08-28 11:04:26  #市場
-
-【種子生產板塊持續走高】種子生產板塊持續走高，敦煌種業、萬向德農漲停，神農種業、國投豐樂、秋樂種業、隆平高科、登海種業等跟漲。
-
----
-
-### 2026-08-28 11:04:21  #公司
-
-【聯合水務與騰訊雲簽署戰略合作協議 共建“水務大腦”】8月27日，聯合水務(603291)與騰訊雲端計算（北京）有限責任公司（簡稱“騰訊雲”）正式簽署戰略合作協議。雙方將以人工智慧大模型與智慧體應用為首要方向，依託騰訊WorkBuddy等人工智慧產品，把聯合水務多年積累的運營資料、工藝經驗與專家知識沉澱為可複用的“水務數字助手”，並在此基礎上共建“水務大腦”智慧化中樞，同步推進人才培養與科研、標準化產品與市場推廣。
-
----
-
-### 2026-08-28 11:02:10  #央行 #市場 #國際 #原創
-
-【泰國央行：黃金交易限制措施正在發揮作用，如有需要可能收緊】泰國央行行長 維泰·拉達那空表示，對黃金交易的限制削弱了黃金對泰銖的影響，未來可能會進一步收緊這些限制。泰國央行在 3 月份對每人每日線上黃金交易設定了 5000 萬泰銖的上限，並鼓勵大額投資者以美元而不是泰銖結算交易。維泰·拉達那空表示，如有必要，上限可降至3000萬泰銖或更低。作為打擊非法資金流動的更廣泛行動的一部分，當局正在加強對黃金交易的審查，並努力加強對黃金購買現金支付和現金存款或兌換的控制。
-
----
-
-### 2026-08-28 11:00:55  #公司
-
-【環旭電子：子公司釋出高功率ELSFP產品系列 助力NPO、CPO規模部署】據環旭電子訊息，環旭電子全資子公司光創聯正式釋出UHP ELSFP外接光源模組等產品系列。NPO（近封裝光學）、CPO（光電共封）技術是下一代AI智算叢集、超算中心及高密度資料中心等應用的必然趨勢。其中，ELSFP作為可插拔外接鐳射源，將高熱敏感鐳射器與核心電晶片物理隔離，一方面解決了傳統可插拔光模組在超高速率下的功耗牆與散熱難題；另一方面支援熱插拔功能，大幅降了低資料中心運維成本與業務中斷風險，是下一代超大規模資料中心51.2T/102.4T NPO/CPO交換機，高效能運算（HPC）互連網路，雲資料中心Spine/Core層的關鍵配套元件。光創聯ELSFP VPH以及UPH系列產品工程樣機已於2025年四季度至2026年二季度完成；試產計劃2026年三季度至四季度推進；預計2027年一季度實現量產。
-
----
-
-### 2026-08-28 11:00:01  #央行 #美聯儲
-
-【若排除前瞻性指引 沃什會在傑克遜霍爾說什麼？華爾街聚焦】全球央行圈的年度頂級盛會——傑克遜霍爾全球央行年會——即將拉開帷幕。北京時間週五晚22:00，美聯儲主席凱文·沃什將首次發表傑克遜霍爾主旨演講。華爾街已基本放棄他會就美聯儲政策走向提供指導的可能性。他此前已多次強調，在非危機時期，他認為這種“前瞻性指引”並無用處。他還堅稱，美聯儲將“恪守本職”，不會涉足多元、公平和包容（DEI）或氣候變化等議題。
-
----
-
-### 2026-08-28 10:58:44  #其他
-
-【因惡劣天氣 今日起太湖封航蘇州內河停航】28日，江蘇省蘇州市交通運輸綜合行政執法支隊（蘇州市地方海事局）釋出航行通告：根據蘇州市氣象臺天氣預報，今天陰到多雲有分散性陣雨或雷雨，東風5級、陣風6~7級，水面陣風8級。蘇州市交通運輸綜合行政執法支隊依據《中華人民共和國內河交通安全管理條例》《太湖水上聯合搜救工作機制》及惡劣天氣禁限航管理相關規定，決定從2026年8月28日6時起，對太湖進行封航，禁止船舶進入太湖湖區航行；從2026年8月28日6時起，對全市內河通航水域客船、渡船實施停航，有區域精準氣象監測預警機制的，按機制執行。解除時間另行通知。
-
----
-
-### 2026-08-28 10:57:56  #公司 #市場
-
-【氟化工板塊走高 中欣氟材、昊華科技漲停】氟化工板塊走高，中欣氟材、昊華科技漲停，聯創股份、多氟多、永太科技、永和股份等跟漲。
-
----
-
-### 2026-08-28 10:56:42  #宏觀
-
-【商務部：推動人工智慧等數智技術更好賦能服務貿易發展】今天上午，國務院新聞辦公室舉行新聞釋出會，商務部有關負責人表示，“十五五”時期，將深入實施服務業提質擴能行動，加快服務貿易創新發展，推動服務業開放合作，培育更多“中國服務”品牌。商務部副部長 鄢東：我們將堅持創新驅動，提升生產性服務國際競爭力，推動研發、設計、檢測、維修、供應鏈物流等依託製造業優勢的服務出口，促進服務貿易與高階製造業融合發展。激發生活性服務出口潛力，擴大入境消費，促進文化貿易提質增效，推動人工智慧、雲端計算等數智技術更好賦能服務貿易發展。我們將加快建設國家服務貿易創新發展示範區，穩妥有序推動以服務業為重點擴大市場準入和開放領域，完善跨境服務貿易負面清單管理制度，破除跨境服務貿易壁壘。
-
----
-
-### 2026-08-28 10:56:19  #公司
-
-蒂姆·庫克：我們向所有受尼泊爾和西藏悲慘山洪和泥石流影響的人致以慰問。蘋果公司將捐款支援當地的救援和重建工作。
-
----
-
-### 2026-08-28 10:56:06  #市場
-
-【旅遊板塊震盪反彈 陝西旅遊逼近漲停】旅遊板塊盤中震盪反彈，陝西旅遊觸及漲停，南京商旅、眾信旅遊、嶺南控股、西域旅遊、峨眉山A、天府文旅跟漲。
-
----
-
-### 2026-08-28 10:55:32  #國際
-
-【日本環球影城擬大規模擴建】據報道，日本環球影城（USJ）預計將投資2000億～3000億日元，啟動大規模擴建。其將利用大阪市等6萬平方米的鄰近地塊，建設新的遊樂專案。
-
----
-
-### 2026-08-28 10:54:36  #其他
-
-【家族染指稀土生意 江西省省長葉建春被查】61歲的江西省委副書記、省長葉建春，涉嫌嚴重違紀違法，接受中央紀委國家監委紀律審查和監察調查。2026年8月27日16時，中央紀委國家監委官方網站公佈了這一訊息。
-
-知情者告訴經濟觀察報記者，2026年8月25日，葉建春到達江西贛州瑞金市，原本他將出席8月26日在瑞金召開的一個會議。按照計劃，8月26日早上，他將有一個早餐聚會，並隨後將在這個會議上發表講話。但是在8月25日晚間，葉建春即被中央紀委國家監委工作人員帶走。而葉建春之妻在此前後亦被紀委監委工作人員帶走。
-
-來自江西政界的人士亦向記者介紹，葉建春到江西任職之後，其家族在江西即染指稀土生意，江西政商兩界對此也頗多微詞。江西是中國稀土儲量最多的省份之一，《中國礦業報》2025年1月2日的報道稱，在戰略價值較高的重稀土方面，江西的重稀土礦約佔全國的三分之二。（經濟觀察報）
-
----
-
-### 2026-08-28 10:54:31  #市場
-
-【三大指數全部翻綠】三大指數全部翻綠，科創50指數跌超1%；創業板指跌近0.5%，此前一度漲近1.4%。
-
----
-
-### 2026-08-28 10:54:23  #其他
-
-【自然資源部對江西湖南啟動地質災害防禦Ⅳ級響應】受颱風“沙德爾”影響，江西、湖南有大到暴雨，部分地區有大暴雨。經自然資源部地質災害技術指導中心研判，江西西部、湖南中部和南部部分地區發生地質災害的風險較高。自然資源部決定於8月28日10時對江西、湖南啟動地質災害防禦Ⅳ級響應。自然資源部要求，江西、湖南省自然資源廳增強風險意識和憂患意識，強化底線思維和極限思維，高度重視強降雨引發地質災害防範應對，及時組織開展巡查排查，切實做好監測預警、會商研判、災情險情處置和值班值守、資訊報送等工作；中國地質調查局、自然資源部地質災害技術指導中心加強會商研判和專家排程，全力協助地方做好地質災害防禦工作。
-
----
-
-### 2026-08-28 10:53:50  #Trading Economics #Markets #Commodity #Importance 1
-
-Soybean Futures Extend Rally — Soybean futures climbed further above $12.6 per bushel, extending their rally to the highest level since December 2023 as concerns over crop conditions and strong Chinese demand continued to support prices. US exporters have reported a series of soybean sales to China for the 2026/27 marketing year, including a fresh 333,000 metric ton purchase announced on August 26. The latest deal adds to several large sales earlier this month, with USDA reporting purchases of 488,000 tons on August 3, 238,000 tons on August 7, and another 244,000 tons on August 12. Meanwhile, extreme heat and heavy rainfall across major Chinese growing regions are threatening soybean quality and yields, potentially increasing the country’s reliance on imports. US crop concerns also supported prices after the USDA’s good-to-excellent soybean rating fell to 60% from 61% a week earlier. Markets now await a potential late-September meeting between Presidents Trump and Xi that could shape agricultural trade.
 
 ---
