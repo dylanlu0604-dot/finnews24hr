@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-30 19:42:53",
-  "count": 13687,
+  "updated": "2026-08-30 19:47:48",
+  "count": 13692,
   "items": [
+    {
+      "id": "mkt:01a0527d-edf0-7118-83ff-94a5948363dd",
+      "time": "2026-08-30 19:46:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "Impact mixed",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "【Report: Cloud giants capture nearly 40% of AI firms' revenue】Barclays says AI model companies pay roughly $35–40 of every $100 in revenue as inference compute fees to the three major cloud providers — Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP). Cloud vendors retain about $10–20 in operating profit from that, implying roughly 35–45% operating margins on compute fees. Barclays finds AI labs' paid inference margins jumped from low-double-digit levels in 2025 to about 50–65%+ in 2026, with adjusted gross margins up 30–50 percentage points YoY. Analysts say actual margins could be higher but expect them to gradually retreat as frontier-model competition intensifies and compute supply expands."
+    },
+    {
+      "id": "5067054",
+      "time": "2026-08-30 19:46:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報告稱AI公司每賺100美元近40美元流向雲巨頭】據多家外媒報道，英國巴克萊銀行日前在一份有關AI行業的研究報告中指出，AI模型公司每獲得100美元收入，其中約有35至40美元會以推理算力費用的形式流向三大雲巨頭，即亞馬遜雲科技公司（AWS）、微軟旗下Azure雲服務平臺和谷歌雲平臺（GCP）。雲服務商從中能夠獲得約10至20美元的營業利潤，對應高達35%至45%的營業利潤率。與此同時，AI實驗室付費推理業務的利潤率已經大幅攀升，從2025年的低雙位數水平升至2026年的50%至65%甚至更高，調整後毛利率同比提升30至50個百分點。巴克萊分析師認為，實際利潤率或高於報告中的估算，但隨著前沿模型競爭加劇以及算力供給持續增加，利潤率預計將逐步回落。（央視財經）"
+    },
+    {
+      "id": "5067053",
+      "time": "2026-08-30 19:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超級牛散，豪買主動基金】根據公募基金2026年中期報告，個人投資者大手筆買入主動權益基金，其中，中泰開陽價值優選混合基金的某個人投資者持有4.8億份，佔該基金總份額58.26%，持倉市值超11億元。 根據中泰開陽價值優選混合基金定期報告，截至今年6月底，某個人投資者持有該基金4.8億份，其持有份額佔基金總份額比例高達58.26%。（上證報）"
+    },
+    {
+      "id": "5067052",
+      "time": "2026-08-30 19:43:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 三家沙特企業撤銷上市計劃。"
+    },
+    {
+      "id": "5067051",
+      "time": "2026-08-30 19:42:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "北京星辰天合科技股份有限公司重新遞交香港交所IPO申請。"
+    },
     {
       "id": "5067050",
       "time": "2026-08-30 19:40:33",
