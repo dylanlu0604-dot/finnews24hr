@@ -1,7 +1,83 @@
 {
   "date": "2026-08-30",
-  "count": 173,
+  "count": 181,
   "items": [
+    {
+      "id": "mkt:01a05061-577e-7118-83fc-87ccf3509cef",
+      "time": "2026-08-30 09:55:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Wall Street Journal reports the US will take a 35% stake in Venezuelan tycoon Betancourt’s oil project."
+    },
+    {
+      "id": "5066694",
+      "time": "2026-08-30 09:55:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金螳螂文化與洲明科技達成戰略合作 深耕數字展陳領域】據洲明科技訊息，近日，蘇州金螳螂文化發展股份有限公司（簡稱“金螳螂文化”）與洲明科技舉行戰略合作簽約儀式。雙方將在展覽展示、博物館、規劃館等領域展開深層次合作，深耕數字展陳領域。"
+    },
+    {
+      "id": "mkt:01a05060-e318-7118-83fc-799704aeccd1",
+      "time": "2026-08-30 09:55:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Venezuela's interim president Rodriguez said a 25-year energy agreement with the US aims to raise output to 1.5 mln bpd. He said Venezuela will retain sovereignty over its resources."
+    },
+    {
+      "id": "mkt:01a05060-65d4-7118-83fc-750e7e5c86c5",
+      "time": "2026-08-30 09:54:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix CEO says memory chip shortage likely to persist through end-2030】SK Hynix CEO Guo Luzheng said the global memory chip shortage is likely to persist through the end of 2030 and that oversupply risk is low because AI-era demand has made memory chips less of a standardized commodity. He said he sees no signs of oversupply or a pending memory downcycle as demand from AI customers remains strong. If AI demand has peaked or a new downturn occurs, he warned challenges could emerge but expects any future downcycle to be gradual — a slow demand decline or stabilization rather than a sharp fall."
+    },
+    {
+      "id": "5066693",
+      "time": "2026-08-30 09:54:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉對本國資源保有主權。"
+    },
+    {
+      "id": "5066692",
+      "time": "2026-08-30 09:53:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：與美國達成的協議旨在將石油產量提升至每日150萬桶。"
+    },
+    {
+      "id": "5066691",
+      "time": "2026-08-30 09:53:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋中央銀行：針對埃及米斯爾銀行分行，啟動專項緊急調查並開展司法核查，調查範圍覆蓋美國當局提及的相關時段。"
+    },
+    {
+      "id": "5066690",
+      "time": "2026-08-30 09:53:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：與美國的能源協議期限將為25年。"
+    },
     {
       "id": "5066689",
       "time": "2026-08-30 09:50:54",
