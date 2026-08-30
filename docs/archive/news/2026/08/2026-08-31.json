@@ -1,7 +1,23 @@
 {
   "date": "2026-08-31",
-  "count": 19,
+  "count": 21,
   "items": [
+    {
+      "id": "mkt:01a05395-bd4e-7118-8401-83507f748535",
+      "time": "2026-08-31 00:51:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel airstrike on central Gaza kills two, including child】On Aug. 30 Gaza health officials said an Israeli airstrike hit Deir al-Balah in the central Gaza Strip, killing two people, including a three-year-old. The Israel Defense Forces said it targeted a Hamas militant but gave no further details."
+    },
+    {
+      "id": "mkt:01a05392-59f5-7118-8401-7b7ddcf67012",
+      "time": "2026-08-31 00:48:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kremlin: Putin-Trump-Zelenskiy summit only to confirm pre-agreed outcomes】Kremlin spokesman Peskov said a summit between Russian President Putin, US President Trump and Ukrainian President Zelenskiy would be limited to confirming pre-agreed negotiation outcomes and is only possible for that purpose."
+    },
     {
       "id": "5067245",
       "time": "2026-08-31 00:41:42",
