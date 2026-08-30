@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-31 03:28:46",
-  "count": 13836,
+  "updated": "2026-08-31 03:32:39",
+  "count": 13837,
   "items": [
+    {
+      "id": "mkt:01a05427-f49f-7118-8402-2a36820e285b",
+      "time": "2026-08-31 03:31:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Fed chair Kevin Warsh's hawkish tone lifts September hike odds; bond investors skeptical】Swap-implied odds of a mid-September Fed rate hike have moved above 50% after Fed chair Kevin Warsh reiterated his determination to curb inflation. The move pushed policy-sensitive US two-year Treasury yields to their largest gain in over two months. Institutional bond managers, including ABN AMRO Investment Solutions and Brandywine Global Investment Management, said they remain skeptical that rhetoric alone will prompt a rate increase. ABN AMRO CIO Christophe Boucher said he is avoiding long-duration bonds because they are vulnerable to concerns the Fed may be unable to control inflation, and warned the Fed's policy reaction function remains unclear; if Warsh does not back a September hike while inflation stays stubborn, market worries about Fed credibility could resurface. The ultimate decision will hinge largely on this week's nonfarm payrolls and subsequent inflation prints."
+    },
+    {
+      "id": "5067356",
+      "time": "2026-08-31 03:29:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍空襲伊朗革命衛隊火箭發射器，完成海峽航道掃雷】一名美國官員表示，美軍於週日襲擊了位於拉克島的伊朗革命衛隊火箭發射裝置。該官員稱，美軍還完成了霍爾木茲海峽國際航運航道的掃雷作業。美軍正密切監控該地區，隨時準備保障海峽貿易通航自由。"
+    },
     {
       "id": "5067351",
       "time": "2026-08-31 03:27:06",
@@ -125020,15 +125043,6 @@
         "國際"
       ],
       "text": "【加拿大駐美大使：加美貿易談判破裂原因涉及多項議題】加拿大駐美國大使馬克·懷斯曼表示，加美貿易談判22日晚間破裂，原因涉及多項議題，其中潛在協議的書面文字與加拿大方面認為雙方此前已達成的共識存在出入。懷斯曼23日在接受採訪時稱，並非某一個單獨問題導致談判失敗。談判破裂隨後觸發新一輪關稅措施，並可能導致加美貿易爭端進一步升級。（央視新聞）"
-    },
-    {
-      "id": "5053881",
-      "time": "2026-08-24 03:31:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會委員會透過霍爾木茲海峽服務費相關法案草案。"
     }
   ]
 }
