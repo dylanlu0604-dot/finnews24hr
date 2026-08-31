@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-01 06:42:59",
+  "updated": "2026-09-01 06:46:54",
   "count": 13108,
   "items": [
+    {
+      "id": "5069512",
+      "time": "2026-09-01 06:45:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：為有權使用 Claude Mythos 5 的合作方制定配套操作規範。"
+    },
+    {
+      "id": "te:markets:579675",
+      "time": "2026-09-01 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.05% — Top crypto gainers are Ether (2.05%), XRP (1.53%) and Bitcoin (1.26%)."
+    },
+    {
+      "id": "5069511",
+      "time": "2026-09-01 06:45:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：已要求所有對降低網路安全防護的預釋出模型開展測試的機構，承諾遵守一套最佳實踐準則。在落實最佳實踐後，已重啟外部網路安全評估。"
+    },
     {
       "id": "mkt:01a059fb-4eb6-7118-8421-f74abca33dd7",
       "time": "2026-09-01 06:40:36",
@@ -119580,39 +119607,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4720美元/盎司，日內漲0.45%。"
-    },
-    {
-      "id": "5056227",
-      "time": "2026-08-25 06:45:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta計劃於未來數週推出“Hatch”AI智慧體平臺】內部檔案顯示，Meta平臺公司計劃最快在未來幾周推出OpenClaw AI智慧體的消費版（內部專案名為Hatch，是Instagram端的智慧購物工具），並將最新AI模型“Watermelon”的釋出時間定在10月。Hatch是Meta執行長馬克·扎克伯格戰略規劃的一部分，目的是為公司鉅額的AI投資實現商業化變現，讓收入來源不再過度依賴廣告業務。Meta已考慮採用分級定價體系，其中該產品高階版月度訂閱費最高可達199.99美元，高階版會提供更高的使用額度。"
-    },
-    {
-      "id": "te:markets:577700",
-      "time": "2026-08-25 06:45:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 2.86% — Top crypto loser is XRP (-2.86%). Gains are led by Bitcoin (1.27%) and Ether (0.51%)."
-    },
-    {
-      "id": "mkt:01a035f1-a128-7aab-9100-451136aad70b",
-      "time": "2026-08-25 06:43:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "According to The Information, Meta Platforms (META.O) plans to launch its 'HATCH' AI agent platform in the coming weeks."
     }
   ]
 }

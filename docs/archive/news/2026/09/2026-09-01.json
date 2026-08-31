@@ -1,7 +1,34 @@
 {
   "date": "2026-09-01",
-  "count": 360,
+  "count": 363,
   "items": [
+    {
+      "id": "5069512",
+      "time": "2026-09-01 06:45:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：為有權使用 Claude Mythos 5 的合作方制定配套操作規範。"
+    },
+    {
+      "id": "te:markets:579675",
+      "time": "2026-09-01 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.05% — Top crypto gainers are Ether (2.05%), XRP (1.53%) and Bitcoin (1.26%)."
+    },
+    {
+      "id": "5069511",
+      "time": "2026-09-01 06:45:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：已要求所有對降低網路安全防護的預釋出模型開展測試的機構，承諾遵守一套最佳實踐準則。在落實最佳實踐後，已重啟外部網路安全評估。"
+    },
     {
       "id": "mkt:01a059fb-4eb6-7118-8421-f74abca33dd7",
       "time": "2026-09-01 06:40:36",
