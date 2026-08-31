@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-01 02:51:19",
-  "count": 13082,
+  "updated": "2026-09-01 02:55:24",
+  "count": 13090,
   "items": [
+    {
+      "id": "5069394",
+      "time": "2026-09-01 02:54:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "多明尼加共和國維持基準利率5.25%。"
+    },
+    {
+      "id": "mkt:01a0592b-a6f8-7118-841f-4df0aec17cae",
+      "time": "2026-09-01 02:53:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. EPA said it has extended the compliance reporting deadline for the 2025 compliance year under the Renewable Fuel Standard (RFS) from Sept. 1, 2026 to Oct. 1, 2026."
+    },
+    {
+      "id": "5069393",
+      "time": "2026-09-01 02:53:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：目前有10萬億歐元家庭儲蓄沉澱在銀行存款當中，並且歐洲有相當規模的儲蓄投向了歐洲大陸以外地區。歐洲現在必須調動這些儲蓄為本本土企業服務，這正是儲蓄與投資聯盟的目標。我們已經就證券化、銀行與保險投資、市場整合及其監管拿出相關提案。整套舉措合計有望釋放最高4700億歐元的新增投資。"
+    },
+    {
+      "id": "5069392",
+      "time": "2026-09-01 02:52:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "出於安全方面擔憂，歐盟暫停巴西牛肉進口。"
+    },
+    {
+      "id": "5069391",
+      "time": "2026-09-01 02:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署：將2025合規年度可再生燃料標準（RFS）合規報告提交截止日期從2026年9月1日延長至2026年10月1日。"
+    },
+    {
+      "id": "5069390",
+      "time": "2026-09-01 02:52:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊官員稱：伊朗首要重心是構建威懾，戰爭或是談判均為後續選項。"
+    },
+    {
+      "id": "5069389",
+      "time": "2026-09-01 02:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署宣佈延長2025合規年度可再生燃料標準合規報告截止期限。"
+    },
+    {
+      "id": "mkt:01a0592a-0155-7118-841f-43928b78fa6b",
+      "time": "2026-09-01 02:52:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Environmental Protection Agency said it will extend the compliance-reporting deadline for the 2025 compliance year under the Renewable Fuel Standard."
+    },
+    {
+      "id": "mkt:01a05929-0529-7118-841f-393b62154022",
+      "time": "2026-09-01 02:50:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission says the EU will suspend imports of meat from Brazil from Thursday."
+    },
     {
       "id": "5069388",
       "time": "2026-09-01 02:48:05",
@@ -119359,18 +119434,6 @@
         "國際"
       ],
       "text": "Mistral 與 Humain 宣佈開展戰略合作，助力沙烏地阿拉伯及中東地區發展主權人工智慧。"
-    },
-    {
-      "id": "te:markets:577687",
-      "time": "2026-08-25 02:54:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Near Three-Month Low as Risks Persist — The dollar index edged up to 99.0 on Monday but remained near three-month lows after its third weekly decline in four. The greenback stayed under pressure following the US Treasury’s decision to double buyback operations for longer-dated bonds, with reports suggesting Secretary Scott Bessent could use nearly $1 trillion from the Treasury’s General Account to help fund them. Meanwhile, trade tensions with Canada intensified after Washington imposed 50% tariffs on Canadian goods, with Ottawa pledging dollar-for-dollar retaliation. President Donald Trump also said tariffs on cars, trucks, auto parts and steel would rise to 50% from January 1, 2027. On the geopolitical front, the US expanded secondary sanctions targeting entities and countries maintaining business ties with Iran. Bessent warned that a major financial institution could be sanctioned this week and suggested China would not be exempt."
     }
   ]
 }
