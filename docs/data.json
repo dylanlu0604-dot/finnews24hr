@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-31 12:35:01",
-  "count": 14000,
+  "updated": "2026-08-31 12:38:52",
+  "count": 14004,
   "items": [
+    {
+      "id": "5067942",
+      "time": "2026-08-31 12:37:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港發出黃色暴雨警告訊號】香港天文臺今日（31日）12時25分發出黃色暴雨警告訊號。暴雨警告訊號現時為黃色，表示香港廣泛地區已錄得或預料會有每小時雨量超過30毫米的大雨，且雨勢可能持續。 一些低窪地帶及排水欠佳的地區會出現水淹。可能受大雨及水浸影響的市民應採取適當的預防措施，以防止可能引致的損失。 大雨可能引致山洪暴發，市民應遠離河道。可能受河道氾濫影響的市民應採取適當的預防措施，以避免損失。 請留意電臺或電視臺廣播有關交通情況及其他有關暴雨訊息的報告。"
+    },
+    {
+      "id": "5067941",
+      "time": "2026-08-31 12:37:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊海軍：各航運公司切勿被美軍的煽動所矇蔽。"
+    },
+    {
+      "id": "5067940",
+      "time": "2026-08-31 12:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊海軍：我們警告，任何違反霍爾木茲海峽安全規定的船隻，其命運將與觸碰到兩枚水雷的船隻相似。在霍爾木茲海峽通行與航行時，必須嚴格遵守我方釋出的相關指示。"
+    },
+    {
+      "id": "5067939",
+      "time": "2026-08-31 12:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西將擴大印度藥品的市場準入。"
+    },
+    {
+      "id": "5067938",
+      "time": "2026-08-31 12:35:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度和巴西的目標是到2030年實現300億美元的雙邊貿易額。"
+    },
+    {
+      "id": "5067937",
+      "time": "2026-08-31 12:34:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持中金公司“買入”評級 境內境外業務線全面增長】東吳證券釋出研報稱，中金公司(03908)26H1實現營業收入193.0億元，同比增長50.5%;歸母淨利潤82.0億元，同比增長89.3%;對應EPS 1.62元，ROE 7.6%，同比提升3.4個百分點。第二季度實現營業收入104.8億元，同比增長47.4%;歸母淨利潤46.2億元，同比增長102%。公司業務線全面增長，尤其在境內外股權投行方面大幅增長。該行維持“買入”評級，並上調此前盈利預測，預計2026/2027/2028年歸母淨利潤分別為135/141/150億元(前值為110/116/123億元)。"
+    },
     {
       "id": "5067936",
       "time": "2026-08-31 12:33:40",
@@ -127023,26 +127073,6 @@
         "國際"
       ],
       "text": "【品浩張冠邦： 人民幣國際化有利於全球投資者多元化配置 看好新興市場貨幣及債券】品浩（PIMCO）亞太區投資組合聯席主管張冠邦認為，美國長期國債收益率曲線趨於陡峭，投資者更應開展分散化投資。看好新興市場貨幣及債券，無論是名義利率還是實際利率，新興市場均有望提供更具吸引力的高息機會。他表示，短期看，其他市場的債券機會可能更為突出。但長遠來看，眾多投資者尋求美元以外的資產配置，人民幣國際化程序將為全球投資者提供更多元的選擇和更有利的運作環境。（中國基金報）"
-    },
-    {
-      "id": "te:markets:577484",
-      "time": "2026-08-24 12:36:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Starts Week With Modest Gains — India’s BSE Sensex edged up about 0.2% to 77,671 on Monday, following a muted performance in the last session, although investors remained cautious ahead of fresh US sanctions on Iran and continued to monitor elevated crude oil prices. Investors were also awaiting comments from US Treasury Secretary Scott Bessent, who was due to hold a press conference later on Monday after threatening to impose what he described as the “toughest sanctions in history” on Iran. Among stocks in focus, energy stocks could remain in focus after India’s downstream regulator approved about 1,800 km of LPG pipelines, involving a $731.49 million investment. Meesho could see activity as Y Combinator may sell up to a 1.05% stake in a $100.32 million block deal. Lenskart Solutions could also be in focus as SoftBank may sell up to a 2.6% stake in a $300 million block deal at a 4% discount to Friday’s close. Early gainers included Vishal (8.9%), Shanti Gears (15.1%), Welspun Corp (2.1%), and Muthoot (4.6%)."
-    },
-    {
-      "id": "5054521",
-      "time": "2026-08-24 12:36:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：哥倫比亞將從美國獲得三架MQ-9A“收割者”無人機作為貸款，並計劃用自己的資金購買第四架，這標誌著該地區首次具備武裝長航時無人機能力。"
     }
   ]
 }
