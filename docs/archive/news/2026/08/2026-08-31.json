@@ -1,7 +1,134 @@
 {
   "date": "2026-08-31",
-  "count": 1322,
+  "count": 1336,
   "items": [
+    {
+      "id": "mkt:01a0575f-947b-7118-8412-800ecfc65b06",
+      "time": "2026-08-31 18:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA meets Uzbekistan President Mirziyoyev in Bishkek】CHINA met Uzbekistan President Mirziyoyev in Bishkek on Aug 31."
+    },
+    {
+      "id": "5068662",
+      "time": "2026-08-31 18:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度二季度GVA同比 8.2%，預期 7.3%，前值 7.9%。"
+    },
+    {
+      "id": "5068661",
+      "time": "2026-08-31 18:30:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度4-6月GDP同比增長7.8%；預計+7.3%。"
+    },
+    {
+      "id": "5068660",
+      "time": "2026-08-31 18:30:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "*巴基斯坦KSE‑100指數暫定收盤下跌0.4%，報177055點。"
+    },
+    {
+      "id": "5068659",
+      "time": "2026-08-31 18:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克政府發言人稱，8月份伊拉克石油出口量達到236.9萬桶/日。"
+    },
+    {
+      "id": "te:markets:579527",
+      "time": "2026-08-31 18:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.40% Lower — The SENSEX Index fell 307 points or 0.40 percent on Monday to close at 76957 points. Leading the losses are Adani Ports (-3.36%), Tata Steel (-2.52%) and Infosys (-1.65%). Top gainers were ICICI Bank (1.44%), Mahindra & Mahindra (0.62%) and Reliance Industries (0.61%)."
+    },
+    {
+      "id": "5068658",
+      "time": "2026-08-31 18:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "KKR將以170億美元的價格把USI出售給AON。"
+    },
+    {
+      "id": "5068657",
+      "time": "2026-08-31 18:29:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平會見烏茲別克總統米爾濟約耶夫】當地時間8月31日下午，國家主席習近平在比什凱克出席2026年上海合作組織峰會期間會見烏茲別克總統米爾濟約耶夫。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0575d-baa1-7118-8412-7b360d9ebfd6",
+      "time": "2026-08-31 18:29:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhiyang Innovation, Hangzhou Lingming Photonics sign strategic framework agreement】Zhiyang Innovation and Hangzhou Lingming Photonics have signed a strategic cooperation framework agreement, following a Feb 2026 strategic investment intent. The partnership moves from intent to product validation and technical collaboration; the firms will jointly advance R&D of LiDAR modules and solutions targeted at industry applications to accelerate integration of high-end sensing and AI into sector-specific use cases."
+    },
+    {
+      "id": "5068656",
+      "time": "2026-08-31 18:29:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智洋創新與靈明光子正式簽署戰略框架協議】近日，智洋創新與杭州靈明光子科技有限公司正式簽署《合作框架協議》。這是雙方繼2026年2月達成戰略投資合作意向後的又一重要進展，標誌著雙方合作正式從前期戰略意向邁入以產品驗證和技術協同為重點、面向行業應用落地的全新階段。根據協議，在前期驗證成果的基礎上，雙方將共同推進面向目標行業的鐳射雷達模組及解決方案研發，加速高階感知與人工智慧技術在行業場景中的融合應用。（人民財訊）"
+    },
+    {
+      "id": "5068655",
+      "time": "2026-08-31 18:29:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST信通：股票繼續被實施其他風險警示】ST信通公告稱，公司仍存在觸及《上海證券交易所股票上市規則》9.8.1條規定的其他風險警示情形，股票繼續被實施其他風險警示。公司為控股股東億陽集團違規擔保所致訴訟被司法劃扣及和解支付款項餘額1.10億元，控股股東尚未清償，間接控股股東和升集團未履行全額清償承諾，二者已被黑龍江證監局責令改正，需六個月內償還佔用資金。兩起違規擔保相關案件涉案本金合計2.83億元，公司已就恢復執行事項申請執行異議。公司將每月披露相關進展，目前生產經營正常。"
+    },
+    {
+      "id": "5068654",
+      "time": "2026-08-31 18:28:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【萬向德農：股票交易異常波動 提示相關風險】萬向德農公告稱，公司股票於2026年8月27日、28日、31日連續3個交易日收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動。8月17日-8月31日公司股票累計漲幅78.48%，累計換手率111.26%，股價嚴重偏離基本面和合理估值區間，存在市場情緒過熱、非理性炒作及股價快速回落風險。2026年半年度公司實現營業收入9947.49萬元，同比下降15.14%；歸母淨利潤1380.16萬元，同比下降44.47%。經核查，公司及控股股東、實控人不存在應披露未披露的重大事項，生產經營正常。"
+    },
+    {
+      "id": "5068653",
+      "time": "2026-08-31 18:27:42",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【英偉達推出新一代高頻寬記憶體技術NVIDIA NVHBM 可為XPU提供更高的記憶體效能和效率】隨著AI智慧體和萬億引數工作負載日益成為主流，AI基礎設施的效能不僅取決於計算能力，還取決於計算、記憶體、儲存、網路和軟體如何作為統一系統進行協同設計。為幫助超大規模企業和 AI 創新者構建新一代半定製AI基礎架構，NVIDIA推出NVIDIA NVHBM技術，進一步擴充套件了NVIDIA NVLink Fusion技術方案。NVHBM是一種新一代高頻寬記憶體技術，可為XPU提供更高的記憶體效能和效率。該技術將由領先的記憶體合作伙伴完成驗證並提供，從而讓這種先進的記憶體能力惠及NVLink Fusion客戶。透過將記憶體控制器整合到3D HBM堆疊，而不是整合在XPU上，與標準HBM4E 相比，NVHBM可實現高達30% 的記憶體頻寬提升，將HBM功耗降低 15%，併為XPU計算 die 釋放多達25%的面積。"
+    },
+    {
+      "id": "te:economy:579526",
+      "time": "2026-08-31 18:27:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Retail Sales Rebound in July — North Macedonia’s retail sales advanced by 5.6% year-on-year in July 2026, rebounding from a 1.0% drop in the previous month. Activity strengthened in non-food products excluding fuel, jumping by 6.7% from 1.4%, and automotive fuel, rising by 13.2% from 2.5%, while trade in food, beverages, and tobacco was flat after falling by 4.2% in June. Moreover, retail trade excluding automotive fuel rebounded sharply, rising by 3.6% from a 1.1% drop."
+    },
     {
       "id": "5068652",
       "time": "2026-08-31 18:27:08",
