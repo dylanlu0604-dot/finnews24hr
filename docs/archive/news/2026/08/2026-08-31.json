@@ -1,7 +1,47 @@
 {
   "date": "2026-08-31",
-  "count": 379,
+  "count": 384,
   "items": [
+    {
+      "id": "te:markets:579302",
+      "time": "2026-08-31 08:28:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Decline on Fed Rate Hike Bets — Gold traded around $4,460 an ounce on Monday after tumbling more than 3% in the previous session, as hawkish remarks from Federal Reserve Chair Kevin Warsh revived expectations for an imminent interest rate hike. In his Jackson Hole address on Friday, Warsh warned that inflation is not easing significantly and reaffirmed the central bank’s commitment to bringing inflation back to its 2% target, while noting that financial conditions are not currently restrictive. Markets are now pricing in around a 57% chance of a 25-basis-point Fed rate hike in September, up sharply from roughly 40% a week earlier. Gold also remained pressured by rising oil prices after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz, marking the first such attack in more than a month."
+    },
+    {
+      "id": "5067556",
+      "time": "2026-08-31 08:27:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【8月31日新股提示：百邁科申購 電科思儀公佈中籤率】據交易所公告，百邁科今日申購，申購程式碼：920268，發行價格：17.1元/股。電科思儀公佈中籤率，為0.0181%。百邁科今日繳款。"
+    },
+    {
+      "id": "te:markets:579301",
+      "time": "2026-08-31 08:26:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Recruit Holdings Stock Price Hits All-time High — Recruit Holdings shares increased to an all-time high of 17830.00 JPY. Over the past 4 weeks, Recruit Holdings gained 35.38%, and in the last 12 months, it increased 106.73%."
+    },
+    {
+      "id": "5067555",
+      "time": "2026-08-31 08:25:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【索尼與華納起訴美國安特羅匹克公司大規模音樂侵權】據美國方面訊息，索尼音樂和華納音樂旗下子公司日前在美國加州北區聯邦地區法院起訴美國人工智慧公司安特羅匹克，指控其大規模侵犯音樂作品版權，並將相關作品用於訓練人工智慧模型。原告在訴狀中指控，安特羅匹克透過非法下載、網路抓取等方式，大規模獲取受版權保護的音樂作品，用於開發和運營人工智慧模型。原告稱，安特羅匹克的行為是“有史以來規模最大、最明目張膽的持續性智慧財產權盜竊行為之一”，並要求就每部被侵權的音樂作品支付最高15萬美元的賠償。對此，安特羅匹克表示不同意原告提出的指控。"
+    },
     {
       "id": "5067554",
       "time": "2026-08-31 08:24:30",
@@ -49,6 +89,15 @@
         "國際"
       ],
       "text": "【日本“進貢”醜聞發酵 福岡縣又一涉事官員考慮辭職】日本執政黨自由民主黨福岡縣分支機構逼迫成員“進貢”大額資金的醜聞持續發酵。據日本方面30日訊息，繼福岡縣議長藏內勇夫辭職後，另一名涉事官員、自民黨福岡縣支部聯合會會長松本國寬正考慮辭職。福岡縣前議長吉松源昭7月向媒體揭發自民黨這起醜聞。他自述，2020年6月出任縣議長前，其所屬的自民黨福岡縣議員團以各種名義向其索要金錢，包括黨派社交活動的打高爾夫球費用、住宿費、交通費和高階餐廳餐飲費等，共計約2000萬日元，約合84萬元人民幣。另有多名曾任該縣議長和副議長的人士透露，他們上任前也向該議員團“進貢”數百萬日元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608313859575823",
+      "time": "2026-08-31 08:19:19",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【中金公司：沃什表態轉鷹 市場認可以短期鷹派換取長期穩定】中金公司研報表示，北京時間8月28日晚，美聯儲主席沃什在JacksonHole全球央行年會上發表主旨演講。整體看，沃什表態轉鷹，再次強調以PCE衡量的2%通脹目標，並重申美聯儲維護價格穩定的職責。市場也對此報以鷹派反應，2年利率跳升超過10bp，美元大漲，黃金大跌3%，CME期貨對9月加息的預期從35%跳升至58%。"
     },
     {
       "id": "mkt:01a0552e-fedb-7118-8404-a43d24ed066c",
