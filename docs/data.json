@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-01 01:57:54",
-  "count": 13067,
+  "updated": "2026-09-01 02:02:06",
+  "count": 13070,
   "items": [
+    {
+      "id": "5069361",
+      "time": "2026-09-01 02:00:35",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會（FTC）擬提起訴訟，指控亞馬遜欺騙廣告投放商。"
+    },
+    {
+      "id": "mkt:01a058f9-a452-7118-841e-9118bc4b4b9a",
+      "time": "2026-09-01 01:59:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland said it intercepted a Russian reconnaissance aircraft in the Baltic Sea, Saudi broadcaster Al Arabiya reported."
+    },
+    {
+      "id": "mkt:01a058f8-a25b-7118-841e-8e49a2bc28f2",
+      "time": "2026-09-01 01:58:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Axios reports US President Trump asked Apple (AAPL.O) to rename Lake Ontario on its maps to \"Lake America\"."
+    },
+    {
+      "id": "5069360",
+      "time": "2026-09-01 01:57:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯財長重返二十國集團（G20）會議，引發歐洲方面抗議。"
+    },
     {
       "id": "5069359",
       "time": "2026-09-01 01:55:07",
@@ -119176,14 +119216,6 @@
         "國際"
       ],
       "text": "伊朗塔斯尼姆通訊社援引安全官員的話稱，美國的經濟制裁計劃是一場旨在加大對伊朗民眾心理施壓的行動。"
-    },
-    {
-      "id": "5056111",
-      "time": "2026-08-25 01:58:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：貝萊德向同業資管機構推介 TCP 私募信貸資產。"
     }
   ]
 }
