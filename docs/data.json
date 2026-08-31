@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-01 02:47:14",
-  "count": 13084,
+  "updated": "2026-09-01 02:51:19",
+  "count": 13082,
   "items": [
+    {
+      "id": "5069388",
+      "time": "2026-09-01 02:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府正在測試網路安全與人工智慧工具，用於保障得克薩斯州供水系統安全。"
+    },
+    {
+      "id": "mkt:01a05926-1fdb-7118-841f-311e50d0652c",
+      "time": "2026-09-01 02:47:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported Yemeni government drones struck Houthi positions, fortifications and vehicles in Bajim district, Saada province."
+    },
     {
       "id": "mkt:01a05924-345e-7118-841f-2e8650a52f8a",
       "time": "2026-09-01 02:45:39",
@@ -119355,44 +119371,6 @@
         "Importance 2"
       ],
       "text": "Dollar Holds Near Three-Month Low as Risks Persist — The dollar index edged up to 99.0 on Monday but remained near three-month lows after its third weekly decline in four. The greenback stayed under pressure following the US Treasury’s decision to double buyback operations for longer-dated bonds, with reports suggesting Secretary Scott Bessent could use nearly $1 trillion from the Treasury’s General Account to help fund them. Meanwhile, trade tensions with Canada intensified after Washington imposed 50% tariffs on Canadian goods, with Ottawa pledging dollar-for-dollar retaliation. President Donald Trump also said tariffs on cars, trucks, auto parts and steel would rise to 50% from January 1, 2027. On the geopolitical front, the US expanded secondary sanctions targeting entities and countries maintaining business ties with Iran. Bessent warned that a major financial institution could be sanctioned this week and suggested China would not be exempt."
-    },
-    {
-      "id": "mkt:01a0351c-a299-7aab-90fe-52a7715f456b",
-      "time": "2026-08-25 02:51:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $92.17/bbl, down $2.22 (-2.35%)."
-    },
-    {
-      "id": "mkt:01a0351c-8cd2-7aab-90fe-4b660de048c2",
-      "time": "2026-08-25 02:50:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Iran's economy minister said Tehran is fully prepared for a new round of U.S. economic pressure and that cutting off Iran's financial and commercial lifelines would not be easy."
-    },
-    {
-      "id": "5056128",
-      "time": "2026-08-25 02:48:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：切斷（我方）金融與商業命脈並非易事。"
-    },
-    {
-      "id": "5056127",
-      "time": "2026-08-25 02:48:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗經濟部長：伊朗已 “做好充分準備” 應對美國新一輪經濟攻勢。"
     }
   ]
 }

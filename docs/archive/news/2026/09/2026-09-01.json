@@ -1,7 +1,23 @@
 {
   "date": "2026-09-01",
-  "count": 164,
+  "count": 166,
   "items": [
+    {
+      "id": "5069388",
+      "time": "2026-09-01 02:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府正在測試網路安全與人工智慧工具，用於保障得克薩斯州供水系統安全。"
+    },
+    {
+      "id": "mkt:01a05926-1fdb-7118-841f-311e50d0652c",
+      "time": "2026-09-01 02:47:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported Yemeni government drones struck Houthi positions, fortifications and vehicles in Bajim district, Saada province."
+    },
     {
       "id": "mkt:01a05924-345e-7118-841f-2e8650a52f8a",
       "time": "2026-09-01 02:45:39",
