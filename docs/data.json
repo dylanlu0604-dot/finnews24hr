@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-01 02:14:25",
-  "count": 13074,
+  "updated": "2026-09-01 02:18:36",
+  "count": 13078,
   "items": [
+    {
+      "id": "mkt:01a0590a-8d43-7118-841e-dc1de3fddd0f",
+      "time": "2026-09-01 02:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Birame Diop sworn in as ECOWAS Commission chair】Former Senegal defence minister Birame Diop was sworn in as chair of the Economic Community of West African States (ECOWAS) Commission in Abuja on Aug. 31 (local time)."
+    },
+    {
+      "id": "5069375",
+      "time": "2026-09-01 02:17:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破79000美元，日內漲1.77%。"
+    },
+    {
+      "id": "5069374",
+      "time": "2026-09-01 02:17:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府宣佈撥款1.493億美元，用於在阿肯色州農村地區擴充套件遠端醫療，並增加專科護理和預防性篩查的可及性。"
+    },
+    {
+      "id": "mkt:01a05909-c290-7118-841e-d18759193efe",
+      "time": "2026-09-01 02:16:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News reported Iran's transport minister said several pilots were attacked while conducting medicine-transport missions during the war."
+    },
+    {
+      "id": "5069373",
+      "time": "2026-09-01 02:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比拉梅·迪奧普就任新一屆西共體委員會主席】當地時間8月31日，塞內加爾武裝力量部前部長比拉梅·迪奧普在奈及利亞首都阿布賈宣誓就任新一屆西非國家經濟共同體（西共體）委員會主席。"
+    },
+    {
+      "id": "5069372",
+      "time": "2026-09-01 02:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：特朗普政府即將宣佈大幅降低車輛燃油經濟性標準的訊息。"
+    },
+    {
+      "id": "te:markets:579656",
+      "time": "2026-09-01 02:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rallies by 7.49% — Top commodity gainers are Methanol (7.49%), Natural Gas EU (4.95%), Propane (4.53%), Crude Oil WTI (2.65%) and Brent Crude Oil (2.59%)."
+    },
+    {
+      "id": "mkt:01a05907-c1bf-7118-841e-cd5978e31ddc",
+      "time": "2026-09-01 02:14:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said the Trump administration will soon announce a substantial rollback of U.S. vehicle fuel-economy standards."
+    },
     {
       "id": "5069371",
       "time": "2026-09-01 02:09:38",
@@ -119239,46 +119316,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Lithium Carbonate Surges by 5.42% — Top commodity gainers are Lithium Carbonate (5.42%), Iron Ore CNY (1.20%) and Gold (0.44%). Biggest losers are Silver (-0.70%) and Silicon (-0.63%)."
-    },
-    {
-      "id": "te:markets:577680",
-      "time": "2026-08-25 02:18:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Slide as US Expands Sanctions on Iran — Crude oil extended losses to trade below $85 a barrel on Monday after US Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting entities and individuals doing business with the country. While the sanctions are broad, investors are focused on their potential impact on Iran’s oil exports and whether they could accelerate or delay a resolution to the US-Iran conflict. Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt. Iran has previously demonstrated its ability to circumvent sanctions and has warned countries against supporting Washington’s efforts. Meanwhile, oil continues to flow through the Strait of Hormuz, with shipments remaining relatively strong despite elevated geopolitical risks. Reports indicated that around 16 million barrels crossed the waterway in a single night last week, although flows can vary significantly."
-    },
-    {
-      "id": "mkt:01a034fd-21b2-7aab-90fe-093c5f53b36e",
-      "time": "2026-08-25 02:16:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Pakistan's army chief also met Iran's president and held talks."
-    },
-    {
-      "id": "5056119",
-      "time": "2026-08-25 02:15:49",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美公佈多項針對伊朗經濟制裁】當地時間8月24日下午，北京時間今天（8月25日）凌晨，美國財長貝森特公佈多項針對伊朗的經濟制裁措施，以進一步加大對伊朗的施壓。特朗普政府宣佈擴大次級制裁範圍，將針對全球範圍內仍與伊朗保持商業往來的實體及國家實施制裁。在新聞釋出會上，貝森特推出了他所謂的“經濟諾曼底”行動。貝森特稱，“我們正在對伊朗的全球金融網路發動一場經濟猛攻。我們的目標是切斷維繫這個政權的每一條經濟命脈，直至德黑蘭陷入孤立。” 美國財政部稱“已摸清伊朗用於走私石油和規避制裁的網路、中間人及金融渠道”，並表示將與合作伙伴聯手，打擊伊朗任何“非法收入”來源。 美國財政部稱，已針對伊朗政權用以支撐經濟的五大領域——數字資產、技術、黃金、航空和航運——釋出相關制裁決定。美國財政部還對近60個實體、個人及船隻實施了制裁。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:577679",
-      "time": "2026-08-25 02:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-5.07%), Propane (-2.89%), Brent Crude Oil (-2.58%) and Crude Oil WTI (-2.54%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.95%) and Germany Natural Gas THE (3.61%)."
     }
   ]
 }

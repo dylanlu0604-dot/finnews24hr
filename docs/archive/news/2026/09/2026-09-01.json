@@ -1,7 +1,84 @@
 {
   "date": "2026-09-01",
-  "count": 131,
+  "count": 139,
   "items": [
+    {
+      "id": "mkt:01a0590a-8d43-7118-841e-dc1de3fddd0f",
+      "time": "2026-09-01 02:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Birame Diop sworn in as ECOWAS Commission chair】Former Senegal defence minister Birame Diop was sworn in as chair of the Economic Community of West African States (ECOWAS) Commission in Abuja on Aug. 31 (local time)."
+    },
+    {
+      "id": "5069375",
+      "time": "2026-09-01 02:17:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破79000美元，日內漲1.77%。"
+    },
+    {
+      "id": "5069374",
+      "time": "2026-09-01 02:17:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府宣佈撥款1.493億美元，用於在阿肯色州農村地區擴充套件遠端醫療，並增加專科護理和預防性篩查的可及性。"
+    },
+    {
+      "id": "mkt:01a05909-c290-7118-841e-d18759193efe",
+      "time": "2026-09-01 02:16:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News reported Iran's transport minister said several pilots were attacked while conducting medicine-transport missions during the war."
+    },
+    {
+      "id": "5069373",
+      "time": "2026-09-01 02:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比拉梅·迪奧普就任新一屆西共體委員會主席】當地時間8月31日，塞內加爾武裝力量部前部長比拉梅·迪奧普在奈及利亞首都阿布賈宣誓就任新一屆西非國家經濟共同體（西共體）委員會主席。"
+    },
+    {
+      "id": "5069372",
+      "time": "2026-09-01 02:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲：特朗普政府即將宣佈大幅降低車輛燃油經濟性標準的訊息。"
+    },
+    {
+      "id": "te:markets:579656",
+      "time": "2026-09-01 02:15:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rallies by 7.49% — Top commodity gainers are Methanol (7.49%), Natural Gas EU (4.95%), Propane (4.53%), Crude Oil WTI (2.65%) and Brent Crude Oil (2.59%)."
+    },
+    {
+      "id": "mkt:01a05907-c1bf-7118-841e-cd5978e31ddc",
+      "time": "2026-09-01 02:14:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Transportation Secretary Duffy said the Trump administration will soon announce a substantial rollback of U.S. vehicle fuel-economy standards."
+    },
     {
       "id": "5069371",
       "time": "2026-09-01 02:09:38",
