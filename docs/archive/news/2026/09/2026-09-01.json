@@ -1,7 +1,26 @@
 {
   "date": "2026-09-01",
-  "count": 139,
+  "count": 141,
   "items": [
+    {
+      "id": "te:markets:579657",
+      "time": "2026-09-01 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 3.59% — Top commodity gainers are Lithium Carbonate (3.59%) and Silicon (0.86%). Biggest losers are Platinum (-3.36%), Titanium (-2.25%), Steel Rebar (-0.67%) and Gold (-0.47%)."
+    },
+    {
+      "id": "5069376",
+      "time": "2026-09-01 02:18:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）：將為阿肯色州農村醫院提供資金，用於升級救護車、拓展遠端醫療服務並安裝應急發電機"
+    },
     {
       "id": "mkt:01a0590a-8d43-7118-841e-dc1de3fddd0f",
       "time": "2026-09-01 02:17:38",
