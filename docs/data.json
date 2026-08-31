@@ -1,7 +1,84 @@
 {
-  "updated": "2026-09-01 07:20:10",
-  "count": 13111,
+  "updated": "2026-09-01 07:24:01",
+  "count": 13109,
   "items": [
+    {
+      "id": "mkt:01a05a22-75d0-7118-8422-4a7a63971ae5",
+      "time": "2026-09-01 07:23:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Latvian armed forces said NATO Baltic Air Policing fighter jets have been activated."
+    },
+    {
+      "id": "mkt:01a05a22-3ab4-7118-8422-419eb5973edc",
+      "time": "2026-09-01 07:23:07",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK government: As of Tuesday, Sept. 1, UK businesses have full access to the CPTPP trade area, valued at £13 trillion."
+    },
+    {
+      "id": "5069546",
+      "time": "2026-09-01 07:22:56",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【從主題投資到行業價值兌現 人形機器人產業鏈盈利改善訊號明顯】2026年被視為人形機器人商業化落地關鍵元年，上半年多家佈局人形機器人及產業鏈的A股上市公司業績實現亮眼增長，從整機、核心硬體到系統整合，產業鏈各細分領域盈利改善訊號明顯。Wind資料顯示，A股人形機器人概念板塊公司共119家，其中超八成公司上半年營收實現同比增長，超半數公司上半年淨利潤實現同比增長。2026年以來，人形機器人企業深入實景應用場景、加速商業化落地，帶動人形機器人產業鏈公司上半年業績預增。從整機企業來看，宇樹科技、優必選兩家企業上半年營收與利潤均有不錯表現。當前人形機器人產業正處於從技術突破邁向規模化商業化的破曉時刻，從2026年半年報業績來看，產業鏈訂單持續增長，行業盈利拐點正在漸行漸近。中金公司指出，全球人形機器人產業核心驅動力將從依託技術想象的主題投資，轉變為依託量產進度和實際場景訂單的行業價值兌現。"
+    },
+    {
+      "id": "5069545",
+      "time": "2026-09-01 07:22:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【雙輪驅動表現亮眼 創新藥企需警惕業績波動風險】2026年半年報收官，A股醫藥板塊508家上市公司合計實現營收1.3萬億元、歸母淨利潤1102億元，近八成企業盈利。板塊整體規模平穩，但內部分化加劇：260家淨利潤同比增長，創新藥企憑藉“內生造血+BD（商務拓展）交易”雙輪驅動表現亮眼；同期超240家業績下滑，行業冷暖不均分化加劇。頭部券商對行業轉型趨勢形成一致研判。中泰證券指出，半年報核心訊號並非短期利潤暴漲，而是國內創新藥構建起“國內管線升級+海外BD授權”雙兌現路徑，中國創新資產的全球價值持續落地。平安證券表示，產品放量疊加海外授權收益，推動創新藥行業迎來盈利拐點，多家企業實現半年度首次盈利，驗證了雙輪驅動模式的可行性，行業徹底擺脫純研發虧損週期。值得關注的是，創新藥企的BD首付款具有不可持續性，需警惕業績波動風險。典型如百利天恆，前期依靠BMS合作首付款實現業績衝高，2026年上半年業績大幅回落，營收僅1.87億元，歸母淨虧損16.37億元，同比由盈轉虧，凸顯單一BD收益的業績波動性。"
+    },
+    {
+      "id": "5069544",
+      "time": "2026-09-01 07:21:55",
+      "tags": [
+        "行業"
+      ],
+      "text": "【光模組半年報全景透視：“雙雄”領跑 全產業鏈“整體景氣、全面開花”】AI算力需求持續引爆光模組賽道。2026年A股半年報收官，光通訊產業鏈交出史上最強成績單：中際旭創、新易盛“雙雄”領跑，半年淨利合計超210億元；華工科技、光迅科技等光模組廠商集體爆發，上游光器件、光晶片環節同樣高增，全產業鏈呈現“整體景氣、全面開花”的強勁勢頭。"
+    },
+    {
+      "id": "5069543",
+      "time": "2026-09-01 07:21:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中期現金分紅公司數量再創歷史新高】隨著2026年半年報披露收官，A股上市公司中期利潤分配方案基本落定，其中現金分紅情況備受關注。Wind資料顯示，今年中期擬進行現金分紅的A股公司達867家，中期現金分紅公司數量再創歷史新高。A股公司近年的中期現金分紅走過了一條由少到多的演進路徑：2022年，僅有百餘家上市公司進行中期現金分紅；2023年增至超過180家；2024年進一步“井噴”，增至700家以上；2025年進一步增至800家以上，達到852家；2026年達到867家，創出歷史新高。從中期現金分紅金額合計規模上看，2026年中期擬現金分紅總額合計超過7000億元，與上一年中期大體持平，處於近年來的高位。從規模結構看，2026年中期分紅呈現“龍頭引領、行業集中”的顯著特徵。石油石化、銀行、通訊、非銀金融等行業成為分紅主力，合計分紅金額佔比超六成。大額分紅高度集中於現金流充沛的央國企與行業龍頭企業。"
+    },
+    {
+      "id": "5069542",
+      "time": "2026-09-01 07:21:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞金融反洗錢監管機構（ AUSTRAC，澳大利亞交易報告和分析中心） 週二表示，已針對西聯匯款公司及其澳大利亞子公司展開調查，因該機構對該公司對高風險支付渠道、客戶及關聯方的管理情況存有疑慮。"
+    },
+    {
+      "id": "5069541",
+      "time": "2026-09-01 07:19:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本將投入 6160 億日元延續燃油價格補貼】日本公共廣播機構NHK週一援引匿名訊息報道，日本政府計劃從預算儲備金中動用 6160 億日元，繼續實施燃油價格紓困舉措。國內航班航空燃油補貼將上調，同時取消針對國際航班的扶持。"
+    },
     {
       "id": "mkt:01a05a1e-a4a0-7118-8422-3998d76d9d36",
       "time": "2026-09-01 07:19:12",
@@ -119541,101 +119618,6 @@
         "市場"
       ],
       "text": "【中報關注度持續升溫 機構建議配置三條業績主線】近期A股結構性行情持續演繹，市場對中報的關注度持續升溫，太辰光、蘅東光、德新科技等多隻股票在中報釋出後大漲，走勢搶眼。 分析人士認為，市場調整屬於良性的技術性回撥，增量資金尚未形成合力，存量博弈特徵明顯，指數向上突破需要更強的催化。8月半年報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季或是下半年最好的配置視窗，配置上建議圍繞三條業績主線展開。（中證報）"
-    },
-    {
-      "id": "5056263",
-      "time": "2026-08-25 07:23:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首批基金2026年中期報告出爐 看好有色、腦機介面等方向】公募基金迎來2026年中期報告披露期。同泰基金旗下同泰慧盈混合、同泰大健康主題混合率先披露2026年中期報告，上半年投資路徑隨之浮出水面。展望後市，同泰基金基金經理相當樂觀，他們看好貴金屬、有色領域及腦機介面等前沿方向。（人民財訊）"
-    },
-    {
-      "id": "5056262",
-      "time": "2026-08-25 07:22:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：美國敦促韓國投資建設儲存晶片工廠】據報道援引一位不願具名的執政黨官員稱，美國要求韓國在美投資建設儲存晶片生產設施、保障晶片供應穩定。韓國產業部長近期赴華盛頓開展投資談判期間，雙方就此議題進行了磋商。美方對韓國計劃投入 800 萬億韓元打造湖南半導體產業叢集一事私下表達不滿。報道稱，美方認為韓國政府大力扶持本土晶片投資，但對赴美半導體投資態度卻較為保守。韓國政府認為，美方提出的半導體投資要求，與兩國去年達成的 3500 億美元對美投資承諾屬於相互獨立的事項。韓國計劃 9 月公佈其對美投資框架下的首個專案。"
-    },
-    {
-      "id": "5056261",
-      "time": "2026-08-25 07:22:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【涉中國公民勞務糾紛案件多發，駐加拿大使館釋出來加務工提醒】據“中國駐加拿大使館”公眾號訊息，近期，來加拿大務工中國公民增多，涉中國公民勞務糾紛案件多發。"
-    },
-    {
-      "id": "te:markets:577703",
-      "time": "2026-08-25 07:22:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Decline as US Tightens Iran Sanctions — Brent crude traded near $92 per barrel on Tuesday after falling more than 2% in the previous session, as the US intensified economic pressure on Iran and its trading partners in an effort to force the reopening of the Strait of Hormuz. Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting countries that continue doing business with the Islamic Republic, while President Donald Trump said those nations would be given a specific timeline to sever ties with Tehran or face unilateral US penalties. However, markets remain uncertain over whether the US measures will help accelerate or instead delay a potential resolution to the US-Iran conflict and the full reopening of Hormuz. Meanwhile, risks to energy flows in the Middle East remain elevated, with the UK Navy reporting that an oil tanker was struck and disabled near Oman, while Iran-backed Houthi militants said they had fired on a Saudi Arabian supertanker sailing through the Red Sea."
-    },
-    {
-      "id": "5056260",
-      "time": "2026-08-25 07:21:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【有色板塊關注度升溫 基金公司密集“上新”】在近期的震盪行情中，有色板塊的關注度持續升溫，公募也在加大布局力度。8月以來，已有3只有色主題基金成立，另有3只有色主題基金正在或即將發行。與此同時，更多新品還在密集上報。從資金流向看，8月以來，已有逾百億資金湧入有色主題ETF。（上海證券報）"
-    },
-    {
-      "id": "te:markets:577702",
-      "time": "2026-08-25 07:21:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Decline as US Tightens Iran Sanctions — Crude oil traded near $85 per barrel on Tuesday after falling more than 2% in the previous session, as the US intensified economic pressure on Iran and its trading partners in an effort to force the reopening of the Strait of Hormuz. Treasury Secretary Scott Bessent announced plans to isolate Iran through sanctions targeting countries that continue doing business with the Islamic Republic, while President Donald Trump said those nations would be given a specific timeline to sever ties with Tehran or face unilateral US penalties. However, markets remain uncertain over whether the US measures will help accelerate or instead delay a potential resolution to the US-Iran conflict and the full reopening of Hormuz. Meanwhile, risks to energy flows in the Middle East remain elevated, with the UK Navy reporting that an oil tanker was struck and disabled near Oman, while Iran-backed Houthi militants said they had fired on a Saudi Arabian supertanker sailing through the Red Sea."
-    },
-    {
-      "id": "5056259",
-      "time": "2026-08-25 07:21:27",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【成品油期貨價格年內大漲 煉化板塊九成公司報喜】今年以來，地緣衝突導致國際原油供應緊張，國內外成品油期貨價格集體飆升。業內人士認為，國內煉化產業有望開啟長景氣週期。 今年以來，海內外多個成品油期貨價格集體上漲。截至8月24日17時，ICE（洲際交易所）柴油年內累計上漲181.85%，NYMEX（紐約商品交易所）取暖油累計上漲163.14%，NYMEX RBOB（氧化混調型精製汽油）累計上漲97.7%。國內方面，INE（上海國際能源交易中心）低硫燃料油累計上漲95.47%，SHFE（上海期貨交易所）燃油累計上漲92.34%。 成品油價格持續上漲，根源在於中東地緣政治衝突引發的國際原油供應緊張，併疊加了全球供需格局持續偏緊因素。霍爾木茲海峽通行受阻直接切斷了主要產油區的輸出通道，導致全球石油供應在3月驟然縮減約1000萬桶/日，創下有記錄以來最嚴重的單月供應衝擊。受此影響，國際原油價格快速攀升，並傳導至下游成品油市場。（證券時報）"
-    },
-    {
-      "id": "mkt:01a03613-bd9b-7aab-9100-6de8c914c1e4",
-      "time": "2026-08-25 07:20:58",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "【People's Daily commentary by Zhong Caiwen: advance high-quality development steadily】People's Daily commentary says macro policy should act decisively to raise effectiveness. Continue a more proactive fiscal stance and a moderately accommodative monetary policy. Treasury daily average balances were relatively large in 1H, suggesting abundant fiscal available funds; accelerate fiscal spending and use of bond proceeds to generate real output. Strengthen fiscal-run monitoring and treasury fund scheduling and safeguard basic grassroots funding. Adjust and deploy monetary policy tools as needed to keep liquidity ample, ensure smooth policy transmission and sustain low social financing costs. Use structural monetary tools to support expanded domestic demand, tech innovation and SMEs. Coordinate fiscal and financial measures to amplify demand — fiscal guidance, financial leverage and market implementation — and assess macro-policy consistency; major policy changes affecting firms should allow reasonable transition periods."
-    },
-    {
-      "id": "5056258",
-      "time": "2026-08-25 07:20:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【近30家公司主動披露在手訂單 8月以來股價顯著上漲】訂單金額是衡量企業市場拓展實力與下游需求景氣度的重要參考指標，自7月以來，主動披露今年上半年新增或截至2026年6月末訂單（合同）金額的A股公司有近30家，金額超過50億元的有藥明康德、芯原股份、金盤科技、璞泰來、理奇智慧等公司，其中藥明康德在手訂單664.3億元。（證券時報）"
-    },
-    {
-      "id": "5056257",
-      "time": "2026-08-25 07:20:21",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國加碼回購債券難擋定價權轉移 久期風險加劇全球資產價格波動】美債市場的久期風險，已經成為當前全球資產定價的核心矛盾。所謂久期風險，是指利率上漲時，長期債券價格會大幅下跌的風險。 上週美國財政部擴大長債回購操作，並未有效壓制美債收益率，反而助推黃金、比特幣開啟 “貨幣貶值交易”。北京時間8月24日晚間，外媒報道稱，美國財政部或動用近萬億美元財政部一般賬戶(TGA)資金回購債券。 業內人士分析，即便這一回購傳聞屬實，依舊難以化解美債供給過剩的長期性矛盾。因為當前美國國債的主要買家以及市場定價權，已經轉向對估值高度敏感的私人資金。私人資金配置長債，需要獲得久期風險、通脹風險、供給超發風險的額外風險補償，這或將推動長債收益率進入更高執行區間。 此外，受益於高利率市場環境，今年以來美國、日本、歐洲市場的銀行板塊均迎來上漲行情。（證券時報）"
     }
   ]
 }
