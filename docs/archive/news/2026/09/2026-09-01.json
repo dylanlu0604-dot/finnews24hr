@@ -1,7 +1,48 @@
 {
   "date": "2026-09-01",
-  "count": 155,
+  "count": 159,
   "items": [
+    {
+      "id": "mkt:01a0591f-e462-7118-841f-132b92316e40",
+      "time": "2026-09-01 02:40:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "Amazon Web Services (AWS) and Microsoft Azure (MSFT.O) to expand multi-cloud networking cooperation."
+    },
+    {
+      "id": "5069385",
+      "time": "2026-09-01 02:40:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜雲科技：AWS互聯服務，對接微軟Azure的多雲預覽版現已在美國東部、美國西部、亞太（悉尼）以及歐洲（法蘭克福）區域上線。"
+    },
+    {
+      "id": "mkt:01a0591f-21f3-7118-841f-0e34e315ff9f",
+      "time": "2026-09-01 02:40:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US, Russian finance ministers hold rare G20 meeting to discuss financial cooperation, Ukraine peace plan】US Treasury Secretary Bessent met Russian Finance Minister Siluanov at the G20 in Asheville, North Carolina, to discuss bilateral financial cooperation and coordination within the G20. Siluanov’s attendance was his first in-person G20 appearance since the 2022 Russia-Ukraine conflict. The meeting was a rare senior-level U.S.-Russia economic contact amid persistently tense relations; several European officials opposed Siluanov’s presence and Germany’s finance minister Klingbeil declined the traditional group photo. Bessent, who oversees US sanctions policy, and Siluanov also discussed Trump’s Ukraine peace plan, NBC reported; no breakthrough was reported and positions remain far apart."
+    },
+    {
+      "id": "5069384",
+      "time": "2026-09-01 02:39:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技：亞馬遜雲科技與微軟Azure合作擴充套件多雲網路。"
+    },
     {
       "id": "5069383",
       "time": "2026-09-01 02:36:37",
