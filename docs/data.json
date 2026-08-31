@@ -1,7 +1,200 @@
 {
-  "updated": "2026-08-31 19:17:23",
-  "count": 13444,
+  "updated": "2026-08-31 19:21:35",
+  "count": 13455,
   "items": [
+    {
+      "id": "mkt:01a0578c-d01c-7118-8414-1994619cc849",
+      "time": "2026-08-31 19:20:41",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish",
+        "CSCO.O"
+      ],
+      "text": "AMD (AMD.O), Cisco (CSCO.O) and Humain will deploy up to 250 MW of AI infrastructure from 2027."
+    },
+    {
+      "id": "5068814",
+      "time": "2026-08-31 19:20:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST英飛：新增債務逾期本金2040萬元 累計逾期超5.49億元】*ST英飛公告稱，公司及全資子公司英飛拓仁用新增銀行借款逾期本金合計2040萬元，佔公司2025年經審計淨資產絕對值的18.10%，公司及子公司立新科技為英飛拓仁用借款提供的擔保相應逾期。截至公告披露日，公司及子公司累計債務逾期（含提前到期）本金合計5.49億元，佔2025年經審計淨資產絕對值的487.12%；逾期未付利息1281.20萬元，本息合計5.62億元。其中擔保逾期金額1.95億元。公司正與債權機構溝通解決方案，相關事項可能加劇資金緊張狀況，敬請投資者注意風險。"
+    },
+    {
+      "id": "te:economy:579552",
+      "time": "2026-08-31 19:20:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kenya",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Kenya Inflation Rate Accelerates Further in August — The annual inflation rate in Kenya rose to 6.6% in August 2026 from 6.5% in July, staying above the midpoint of the central bank's 2.5%-7.5% target range for a fifth consecutive month. Meanwhile, the core inflation rate, which excludes selected volatile items, quickened to 3.4% from 3.2% in July, highlighting second round effects from higherl fuel costs. On a monthly basis, the CPI rose by 0.4% in August, after a 0.2% increase in the prior month."
+    },
+    {
+      "id": "5068813",
+      "time": "2026-08-31 19:20:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST英飛：股票交易異常波動 提示多重風險】*ST英飛公告稱，公司股票連續三個交易日（2026年8月27日、8月28日、8月31日）收盤價格漲幅偏離值累計超20%，屬於股票交易異常波動情形。2026年1月30日至8月31日公司股價累計漲幅214.29%，業績未發生重大變化，股價已嚴重脫離當前業績，存在估值迴歸風險。經核查，公司及控股股東、實控人不存在應披露未披露的重大事項，控股股東及實控人在異常波動期間未買賣公司股票。公司2025年末淨資產為-1.13億元，已被實施退市風險警示；目前正推進庭外重組，擬申請預重整及重整，重整相關事項存在重大不確定性；存在約5.62億元銀行借款債務逾期，另有多項重大訴訟，部分資產被凍結查封；因2019年、2020年年報存虛假記載被疊加實施其他風險警示。"
+    },
+    {
+      "id": "5068812",
+      "time": "2026-08-31 19:20:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華納藥廠：獲得洛索洛芬鈉貼劑藥品註冊證書】華納藥廠公告稱，公司近日收到國家藥品監督管理局核准簽發的洛索洛芬鈉貼劑《藥品註冊證書》，該藥品為化學藥品4類，有兩種規格，分別為7cm×10cm含洛索洛芬鈉50mg、14cm×10cm含洛索洛芬鈉100mg，視同透過一致性評價，用於骨關節炎、肌肉痛、外傷導致的腫脹或疼痛的消炎鎮痛。該註冊證書的取得可豐富公司製劑產品品種，最佳化產品結構，不會對公司近期業績產生重大影響，其未來銷售情況存在不確定性。"
+    },
+    {
+      "id": "mkt:01a0578b-f5ac-7118-8414-17d08ee64b89",
+      "time": "2026-08-31 19:19:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CCTV reported Premier Li Qiang chaired a State Council executive meeting that reviewed and approved the revised draft of the PRC Audit Law Implementation Regulations."
+    },
+    {
+      "id": "5068811",
+      "time": "2026-08-31 19:19:44",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，會議審議透過《中華人民共和國審計法實施條例（修訂草案）》。（央視）"
+    },
+    {
+      "id": "5068810",
+      "time": "2026-08-31 19:19:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【金河生物：美國子公司對外投資約3192.46萬美元建設兩個專案】金河生物公告，公司第七屆董事會第八次會議審議透過美國子公司法瑪威藥業實施獸用新增劑工廠改擴建專案，預計總投資約590.9萬美元；法瑪威生物實施獸用疫苗工廠新擴建專案，預計總投資約2601.56萬美元。以上專案合計總投資約3192.46萬美元，資金來源為自有資金或自籌資金，不構成關聯交易及重大資產重組。"
+    },
+    {
+      "id": "5068809",
+      "time": "2026-08-31 19:19:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "拓荊科技：擬推650萬股限制性股票激勵計劃。"
+    },
+    {
+      "id": "mkt:01a0578b-965d-7118-8414-0bb95451f7b2",
+      "time": "2026-08-31 19:19:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【UAE condemns Iran over drone attack intercepted over its territorial waters】The UAE Ministry of Foreign Affairs condemned an Iranian attack involving a drone intercepted by UAE air-defence systems over its territorial waters. The ministry called the incident a dangerous escalation and a blatant violation of UAE sovereignty that directly threatened the safety of citizens and residents. It said the UAE will not tolerate threats to its security or sovereignty, will respond by lawful means, and holds Iran fully responsible for the attack and its consequences."
+    },
+    {
+      "id": "mkt:01a0578b-8d31-7118-8414-01ce4257f2e4",
+      "time": "2026-08-31 19:19:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A State Council executive meeting chaired by Premier Li Qiang in principle approved the draft amendment to the PRC Tax Collection and Administration Law, CCTV reported."
+    },
+    {
+      "id": "5068808",
+      "time": "2026-08-31 19:19:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，會議討論並原則透過《中華人民共和國稅收徵收管理法（修訂草案）》。（央視）"
+    },
+    {
+      "id": "5068807",
+      "time": "2026-08-31 19:18:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家中醫藥管理局通報兩起涉中醫藥網路違規營銷宣傳問題】國家中醫藥管理局通報，近期在中醫醫療違法違規行為專項治理工作中，依法查處了兩起涉中醫藥網路違規營銷宣傳問題。一是“‘香港大藥房’網店違規營銷案”，多家以“香港大藥房”名義開設的網店銷售“透骨膏”“無溼丸”等產品，在直播營銷中涉嫌虛假宣傳，相關店鋪涉嫌違反《中華人民共和國廣告法》第十七條有關規定。二是“百萬粉絲醫生違規推薦處方藥案”，部分醫務人員以健康科普名義，借網路平臺違規推薦處方藥“排毒清脂顆粒”，涉及多個省份的22個醫療機構、27名醫生。兩起事件均利用網際網路平臺、借中醫藥名義實施違規營銷宣傳，損害消費者合法權益，影響中醫藥行業聲譽。下一步，將加大對涉中醫藥網路違規營銷宣傳行為的查處力度，壓實醫療機構和網際網路平臺主體責任，規範醫務人員健康科普行為，加強中醫藥科普宣傳和消費者權益保護。（新華社）"
+    },
+    {
+      "id": "mkt:01a0578b-05c2-7118-8413-f9c720f14280",
+      "time": "2026-08-31 19:18:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "CCTV: Premier Li Qiang chaired a State Council executive meeting on measures to boost high-quality investment attraction in China."
+    },
+    {
+      "id": "5068806",
+      "time": "2026-08-31 19:18:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，會議研究促進招商引資高質量發展有關工作。（央視）"
+    },
+    {
+      "id": "te:markets:579547",
+      "time": "2026-08-31 19:18:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Near One-Week Low — The Swiss franc traded near $0.81, after reaching its lowest level since August 19th, as a more hawkish Fed outlook boosted demand for the greenback. Hawkish remarks by Fed Chair Warsh boosted markets expectations of September rate hike, supporting dollar-denominated assets. Meanwhile, a potential shift in short positions from the yen toward the Swiss franc could further weaken the currency, as traders move short positions in the yen into other relatively weaker safe-haven currencies amid recent US-Japanese efforts to strengthen the yen. A Swiss Bankers Association survey showed that all bankers expect the SNB to keep its policy rate at 0% by year-end, while 60% expect it to remain unchanged throughout 2027. Markets now anticipate the first rate hike in June 2027, later than the previous March expectation, while most economists expect the first hike in early 2028, potentially making the currency more attractive as a funding currency for carry trades."
+    },
+    {
+      "id": "5068805",
+      "time": "2026-08-31 19:18:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "李強主持召開國務院常務會議，會議聽取城市地下管網建設情況彙報。（央視）"
+    },
+    {
+      "id": "mkt:01a0578a-8142-7118-8413-f0b2bf852be6",
+      "time": "2026-08-31 19:18:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "CCTV reported Premier Li Qiang chaired a State Council executive meeting that received a briefing on construction of urban underground utility networks."
+    },
+    {
+      "id": "5068804",
+      "time": "2026-08-31 19:17:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【ChatGPT將面臨歐盟更嚴格的網路安全監管】歐盟委員會週一表示，OpenAI旗下ChatGPT將必須遵守更嚴格的歐盟規定，例如刪除非法內容，否則可能面臨罰款。與此同時，布魯塞爾正努力釐清現有數字監管框架如何適用於快速發展的人工智慧服務。歐盟委員會表示，聊天機器人ChatGPT、社交媒體論壇Reddit和遊戲平臺Roblox將根據歐盟《數字服務法》（DSA）被認定為所謂的“超大型線上平臺”。"
+    },
+    {
+      "id": "5068803",
+      "time": "2026-08-31 19:16:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力諾藥包：籌劃發行H股並在香港聯交所主機板上市】力諾藥包(301188.SZ)公告稱，公司召開董事會審議透過發行境外上市股份(H股)並在香港聯交所主機板上市的議案，旨在深化國際化戰略佈局，最佳化資本結構。本次發行上市尚需取得證監會、香港聯交所等監管機構備案批准，具體細節未最終確定，存在重大不確定性。"
+    },
     {
       "id": "5068802",
       "time": "2026-08-31 19:16:34",
@@ -122579,88 +122772,6 @@
         "DXY"
       ],
       "text": "Ukraine President ZELENSKIY said 10 fighters were returned via Belarus today as part of a special prisoner-exchange phase."
-    },
-    {
-      "id": "te:economy:577595",
-      "time": "2026-08-24 19:21:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Pakistan",
-        "Credit Rating",
-        "Importance 1"
-      ],
-      "text": "Moody's Raises Pakistan's Credit Rating to \"B3\" — Moody's Global Ratings upgraded Pakistan's credit rating on August 24,2026 to \"B3\" from \"Caa1\", while maintaining a stable outlook, citing stronger governance, improved external buffers and better fiscal metrics. The agency said foreign-exchange reserves have continued to build amid macroeconomic stabilization, while monetary easing and improved fiscal performance have lowered domestic financing costs and strengthened debt affordability. The agency also noted that Pakistan’s credit profile has become more resilient to external shocks, including the ongoing Middle East conflict. However, the country remains vulnerable to its structurally fragile external position, weak debt affordability, a narrow revenue base and limited capacity to attract investment and generate high-productivity growth. Standard & Poor's credit rating for Pakistan stands at B with stable outlook."
-    },
-    {
-      "id": "5055607",
-      "time": "2026-08-24 19:20:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛嬰室：2026年上半年淨利潤4227.04萬元，同比下降9.56%】愛嬰室公告，2026年上半年營業收入18.08億元，同比下降1.49%；歸屬於上市公司股東的淨利潤4227.04萬元，同比下降9.56%，2025年上半年為4673.82萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤2564.98萬元，同比下降30.61%。公司擬向全體股東每10股派發1.08元現金紅利（含稅）。"
-    },
-    {
-      "id": "mkt:01a0337f-be8c-7aab-90f5-d9a32bdbb556",
-      "time": "2026-08-24 19:20:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Pinduoduo will hold an earnings conference call in 10 minutes."
-    },
-    {
-      "id": "5055606",
-      "time": "2026-08-24 19:19:28",
-      "tags": [
-        "宏觀",
-        "國際",
-        "兩會"
-      ],
-      "text": "【王滬寧會見第三屆中美1.5軌對話美方代表】中共中央政治局常委、全國政協主席王滬寧24日在京會見出席第三屆中美1.5軌對話的美方代表。王滬寧表示，今年5月，習近平主席同來華訪問的特朗普總統就事關中美關係以及世界和平發展的重大問題進行深入溝通。中方願同美方共同努力，全面準確落實兩國元首重要共識，增進相互正確認知，尊重彼此核心利益，加強各領域務實合作，妥善管控分歧，積極構建中美建設性戰略穩定關係。（新華社）"
-    },
-    {
-      "id": "mkt:01a0337e-fbb6-7aab-90f5-d5b8ce915c7d",
-      "time": "2026-08-24 19:19:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Wang Huning meets US delegates to third China‑US 1.5‑track dialogue】Wang Huning, Politburo Standing Committee member and chairman of the Chinese People's Political Consultative Conference, met US delegates to the third China‑US 1.5‑track dialogue in Beijing on the 24th. He said President Xi and visiting US President Trump held in‑depth talks in May on major issues affecting China‑US ties and world peace. China said it is willing to work with the US to fully and accurately implement the leaders' consensus, deepen correct mutual understanding, respect each other's core interests, strengthen pragmatic cooperation across fields, properly manage differences and actively build a constructive, strategically stable China‑US relationship."
-    },
-    {
-      "id": "5055604",
-      "time": "2026-08-24 19:18:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽恩斯：2026年上半年淨利潤6809.86萬元，同比增長38.90%】賽恩斯公告，2026年上半年營業收入5.52億元，同比增長30.47%；歸屬於上市公司股東的淨利潤6809.86萬元，同比增長38.90%，2025年同期為4902.83萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤6651.67萬元，同比增長40.87%。"
-    },
-    {
-      "id": "5055603",
-      "time": "2026-08-24 19:18:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湯臣倍健：完成董事會換屆選舉及聘任高管】湯臣倍健公告稱，公司完成董事會換屆選舉及高階管理人員等聘任事項。第七屆董事會由7名董事組成，其中非獨立董事4名（含職工董事1名）、獨立董事3名，梁允超任董事長，董事任期三年。聘任林志成為總經理，陳宏為副總經理，唐金銀為董事會秘書，何白霖為財務總監，包茵為審計部負責人，張亞寧為證券事務代表，任期均為三年。原獨立董事鄧傳遠離任後不在公司擔任任何職務，未持有公司股份，無未履行承諾事項。"
-    },
-    {
-      "id": "5055602",
-      "time": "2026-08-24 19:18:18",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【湯臣倍健：2000萬元投資基金間接佈局半導體】湯臣倍健公告稱，公司簽署合夥協議，以自有資金2000萬元投資南京耀途致遠創業投資合夥企業（有限合夥），出資比例9.9985%。該基金總規模2.00億元，專項用於投資江蘇縱慧芯光半導體科技股份有限公司，公司將間接持有標的公司股權，以投資金額為限享有收益、承擔風險。本次投資為財務性投資，不構成關聯交易及重大資產重組，目前基金尚未完成對標的公司的投資協議簽署，最終投資結果存在不確定性。"
-    },
-    {
-      "id": "5055601",
-      "time": "2026-08-24 19:18:01",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【國元證券：2026年上半年淨利潤17.03億元，同比增長21.25%】國元證券公告，2026年上半年營業總收入39.45億元，同比增長16.16%；歸屬於上市公司股東的淨利潤17.03億元，同比增長21.25%，2025年上半年為14.05億元；扣非淨利潤16.96億元，同比增長20.35%。公司擬每10股派發現金紅利人民幣1元（含稅），合計派發現金人民幣4.36億元（含稅），尚需提交公司2026年第一次臨時股東會。"
     }
   ]
 }
