@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-01 06:39:05",
+  "updated": "2026-09-01 06:42:59",
   "count": 13108,
   "items": [
+    {
+      "id": "mkt:01a059fb-4eb6-7118-8421-f74abca33dd7",
+      "time": "2026-09-01 06:40:36",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Bessent meets UEDA and KATAYAMA, urges Japan to clarify rate‑hike path】NHK reports that at the G20 finance ministers and central bank governors meeting in Asheville, U.S., U.S. Treasury Secretary Bessent held separate talks with Bank of Japan governor UEDA and Japan's finance minister KATAYAMA. Erin Brown, Treasury deputy for international affairs, said Bessent urged both officials to clearly communicate Japan's next steps — specifically fiscal sustainability and a path to rate hikes — and described that as the appropriate policy direction."
+    },
+    {
+      "id": "te:markets:579674",
+      "time": "2026-09-01 06:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rises by 1.82% — Top commodity gainers are Cocoa (1.82%), Cotton (1.72%) and Rice (1.30%). Biggest losers are Canola (-1.41%) and Wheat (-1.37%)."
+    },
+    {
+      "id": "mkt:01a059fa-b76d-7118-8421-e8216274224f",
+      "time": "2026-09-01 06:39:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: the US State Department has approved a potential $800 mln sale of helicopters to Iraq."
+    },
+    {
+      "id": "5069510",
+      "time": "2026-09-01 06:38:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批准向伊拉克潛在出售價值 8 億美元的直升機。"
+    },
+    {
+      "id": "5069509",
+      "time": "2026-09-01 06:38:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【基金持有人全貌出爐，股票型基金獲個人投資者增持】基金2026年中期報告披露完畢，持有人全貌也隨之展現。天相投顧資料顯示：2026年上半年，機構投資者增持混合型基金，減持股票型基金；個人投資者增持股票型基金，減持混合型基金。從公司層面看：易方達基金、廣發基金和富國基金旗下基金最受機構投資者青睞；個人投資者持有基金份額前三的公司分別為易方達基金、華夏基金和天弘基金。（上證報）"
+    },
     {
       "id": "5069508",
       "time": "2026-09-01 06:37:00",
@@ -119566,60 +119613,6 @@
         "Impact bullish"
       ],
       "text": "According to The Information, Meta Platforms (META.O) plans to launch its 'HATCH' AI agent platform in the coming weeks."
-    },
-    {
-      "id": "5056226",
-      "time": "2026-08-25 06:41:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本計劃2027財年國債利息支出達到創紀錄的16.6萬億日元（合1043 億美元）。"
-    },
-    {
-      "id": "mkt:01a035ef-8403-7aab-9100-3b129957b70a",
-      "time": "2026-08-25 06:41:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Australia's South32 said its fourth grinding line at Sierra Gorda will lift copper production by about 30% from 2031."
-    },
-    {
-      "id": "mkt:01a035ef-801a-7aab-9100-3570b071af45",
-      "time": "2026-08-25 06:41:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish",
-        "S32.AX",
-        "Impact bullish"
-      ],
-      "text": "Australian miner South32 said it expects the Sierra Gorda deposit to be an important source of copper over the coming decades."
-    },
-    {
-      "id": "te:markets:577699",
-      "time": "2026-08-25 06:40:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Rallies by 5.93% — Top commodity gainers are Coffee (5.93%) and Corn (1.30%). Biggest losers are Canola (-3.40%), Rapeseed (-3.16%) and Cocoa (-1.74%)."
-    },
-    {
-      "id": "5056225",
-      "time": "2026-08-25 06:40:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大將於週二公佈針對美國的報復性關稅。"
     }
   ]
 }
