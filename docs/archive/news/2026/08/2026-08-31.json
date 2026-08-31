@@ -1,7 +1,15 @@
 {
   "date": "2026-08-31",
-  "count": 851,
+  "count": 852,
   "items": [
+    {
+      "id": "mkt:01a05604-53c3-7118-8409-9aba9e5dd6b5",
+      "time": "2026-08-31 12:11:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported a 3.8-magnitude earthquake east of Tehran."
+    },
     {
       "id": "mkt:01a05602-40d1-7118-8409-94f4c7e5e44b",
       "time": "2026-08-31 12:09:43",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-31 12:11:45",
-  "count": 13993,
+  "updated": "2026-08-31 12:15:36",
+  "count": 13988,
   "items": [
+    {
+      "id": "mkt:01a05604-53c3-7118-8409-9aba9e5dd6b5",
+      "time": "2026-08-31 12:11:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported a 3.8-magnitude earthquake east of Tehran."
+    },
     {
       "id": "mkt:01a05602-40d1-7118-8409-94f4c7e5e44b",
       "time": "2026-08-31 12:09:43",
@@ -126900,60 +126908,6 @@
         "國際"
       ],
       "text": "泰國財政部長：黃金稅旨在遏制非法資金流動。"
-    },
-    {
-      "id": "5054497",
-      "time": "2026-08-24 12:15:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【颱風“紫檀”帶來極端降雨 廣西崇左多地水位超警】受今年第19號颱風“紫檀”影響，廣西崇左、防城港等地遭遇極端降雨。8月24日，廣西崇左寧明縣、龍州縣、江州區先後釋出最新水情資訊。寧明水文中心站8月24日釋出，明江寧明縣東安鄉寧明水文站將於8月24日20時前後出現125米左右的洪峰水位（警戒水位117.90米），超警戒水位7.1米。寧明縣城水文站將於8月25日2時前後出現123.5米左右的洪峰水位（警戒水位116.00米），超警戒水位7.5米。目前，各江河水位較高，漲水仍在持續。預計未來12小時，明江中下游、派連河下游繼續上漲0.5米左右。目前，各江河水位較高，提請沿河各有關單位及社會公眾加強防範江河洪水、滑坡、城鎮積澇、山洪等災害。寧明縣城、寨安鄉、東安鄉、那堪鎮、海淵鎮及明江、派連河、思州河沿岸群眾，請密切關注水情變化，提前做好轉移避險準備。（央視新聞）"
-    },
-    {
-      "id": "5054496",
-      "time": "2026-08-24 12:14:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國擬議的黃金稅或將覆蓋黃金進口業務。"
-    },
-    {
-      "id": "5054495",
-      "time": "2026-08-24 12:13:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓南部海域發生5.0級地震】據菲律賓火山地震研究所訊息，8月24日11時59分左右，菲律賓南部海域發生5.0級地震，震源深度10公里，附近地區有震感。該地震預計不會造成破壞。菲律賓火山地震研究所稱，此次地震是菲律賓南部海域6月多次強震的餘震。"
-    },
-    {
-      "id": "5054494",
-      "time": "2026-08-24 12:12:39",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "泰國財政部長：將考慮對黃金貿易及黃金進口徵稅。"
-    },
-    {
-      "id": "te:markets:577466",
-      "time": "2026-08-24 12:11:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Holds Firm — European natural gas prices remained near multi-year highs, hovering around €65.8/MWh on Monday, as investors awaited details of a US plan to economically isolate Iran that could further disrupt energy supplies from the Middle East. Treasury Secretary Bessent is scheduled to hold a press conference later today and has threatened to impose “the toughest sanctions in history” on Iran. This follows President Trump’s threat last week to impose sanctions on countries that continue trading with Tehran. Iran, however, dismissed the threats as a sign of desperation, saying the new sanctions would fail to defeat Tehran. For Europe, concerns over gas inventories are becoming increasingly pressing, as ongoing tensions between the two sides have kept the Strait of Hormuz largely closed, delaying Qatari LNG deliveries to Europe. This, combined with heatwave-driven cooling demand, has slowed the pace of inventory replenishment, leaving European storage levels under greater pressure ahead of winter."
-    },
-    {
-      "id": "5054493",
-      "time": "2026-08-24 12:11:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "嘉裡建設上半年淨利潤7.35億港元。"
     }
   ]
 }
