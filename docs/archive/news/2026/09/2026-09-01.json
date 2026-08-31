@@ -1,7 +1,62 @@
 {
   "date": "2026-09-01",
-  "count": 370,
+  "count": 376,
   "items": [
+    {
+      "id": "te:markets:579676",
+      "time": "2026-09-01 06:57:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Tracks Wall Street Lower — New Zealand stocks dropped 66 points, or 0.5%, to 13,851 in Tuesday morning deals, halting gains in the previous session and tracking a decline on Wall Street overnight as rising oil prices raised inflation concerns amid escalating Middle East tensions. Traders were cautious ahead of the RBNZ's monetary policy decision this week, with the market expecting the central bank to raise interest rates by 25 bps after raising them in May. Traders continued to assess the government's decision to delay fuel excise rises from January 1, 2027, ahead of the general election, which is scheduled to be held in November 2026. However, Monday's data capped the fall as August's business confidence remained at a historically strong level, though easing from July's five-month high. Industrials, consumer staples, and healthcare mainly weighed on the index, with the biggest laggards being Auckland International Airport (-2.2%), Ryman Healthcare (-1.4%), Meridian Energy (-1.3%), and A2 Milk (-1.1%)."
+    },
+    {
+      "id": "mkt:01a05a0a-3390-7118-8422-1b34785a7846",
+      "time": "2026-09-01 06:56:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said a tanker departing the Strait of Hormuz reported being struck by three unidentified aerial objects; no casualties or environmental impact were reported."
+    },
+    {
+      "id": "5069519",
+      "time": "2026-09-01 06:56:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic重新任命150名工程師。"
+    },
+    {
+      "id": "5069518",
+      "time": "2026-09-01 06:55:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：暫無人員傷亡或環境影響的相關報告。"
+    },
+    {
+      "id": "5069517",
+      "time": "2026-09-01 06:54:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：一艘油輪報告其在霍爾木茲海峽完成出海峽航行途中遭到三枚未知拋射物擊中。"
+    },
+    {
+      "id": "5069516",
+      "time": "2026-09-01 06:54:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室： 收到一則發生在阿曼海哈薩布以東 17 海里處的事件報告。"
+    },
     {
       "id": "mkt:01a05a07-8dcb-7118-8422-17aff34ba42b",
       "time": "2026-09-01 06:53:59",
