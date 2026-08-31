@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-01 02:10:18",
-  "count": 13076,
+  "updated": "2026-09-01 02:14:25",
+  "count": 13074,
   "items": [
+    {
+      "id": "5069371",
+      "time": "2026-09-01 02:09:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本爭取SK海力士赴日建廠的計劃遭遇韓國政策層面阻礙。"
+    },
     {
       "id": "mkt:01a05902-cd42-7118-841e-c35c9a2e85f6",
       "time": "2026-09-01 02:09:10",
@@ -119271,37 +119279,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Coking Coal Plunges by 5.82% — Top commodity losers are Coking Coal (-5.82%), Heating Oil (-5.07%), Propane (-2.89%), Brent Crude Oil (-2.58%) and Crude Oil WTI (-2.54%). Gains are led by Natural Gas UK (4.03%), Natural Gas EU (3.95%) and Germany Natural Gas THE (3.61%)."
-    },
-    {
-      "id": "mkt:01a034fa-bdc5-7aab-90fe-05a8a46eb5ff",
-      "time": "2026-08-25 02:14:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Iran says Trump's economic pressure campaign is \"psychological warfare\"】Tasnim quoted a senior Iranian intelligence official saying Trump’s economic pressure campaign is largely a media-driven \"psychological warfare\" aimed at increasing domestic pressure. The official said the US has already used all available tools, including primary and secondary sanctions and maritime blockades, and characterized Trump’s remarks about striking infrastructure and \"opening the Strait of Hormuz\" as propaganda rather than imminent action. He added such moves are often timed before market open to influence energy prices and are subsequently followed by conciliatory statements or regional mediation; Iran sees the campaign’s concurrence with a Pakistani mediator visit as a recurring public-pressure pattern, not evidence of substantive new measures."
-    },
-    {
-      "id": "mkt:01a034f8-1e48-7aab-90fd-fe07cd16f3f0",
-      "time": "2026-08-25 02:11:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "CENTCOM said as of Aug. 24 it had forced 71 commercial vessels to divert, disabled three vessels, and boarded and inspected two to ensure compliance. More than 40 vessels carrying humanitarian aid were permitted to proceed."
-    },
-    {
-      "id": "mkt:01a034f7-c44e-7aab-90fd-f44a26e83a9a",
-      "time": "2026-08-25 02:10:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump says \"will no longer allow Canada to take advantage of the U.S.\", warns of tougher measures】U.S. President Trump, on Truth Social, criticized Ontario Premier Doug Ford and accused Canada of decades of relying on U.S. support, saying the U.S. \"will always be bigger, richer, stronger\" and that Canada could not survive without it. He accused Prime Minister Carney and Ford of prompting corporate outflows, said Canadian power, oil and gas rely on transport through the U.S., and warned Canada would face \"more serious consequences\" if it does not \"play by the rules.\" Trump also claimed Canadian unemployment has risen to 10% and is still climbing, asserted businesses are moving to the U.S., and said \"the days of hurting U.S. farmers and businesses are over.\""
     }
   ]
 }
