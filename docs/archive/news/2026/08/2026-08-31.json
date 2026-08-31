@@ -1,7 +1,74 @@
 {
   "date": "2026-08-31",
-  "count": 813,
+  "count": 820,
   "items": [
+    {
+      "id": "5067895",
+      "time": "2026-08-31 11:50:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月31日午間漲停分析】創業板指半日跌1.29%，房地產板塊高開回落，影視傳媒概念逆勢大漲。海鷗住工6連板，一圖看懂>>"
+    },
+    {
+      "id": "te:markets:579363",
+      "time": "2026-08-31 11:50:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupee Weakens on Fed Hike Bets, Oil — The Indian rupee weakened to around 95.5 per dollar, after trading largely flat in the previous week, as renewed expectations of a Federal Reserve rate hike strengthened the dollar and pushed US Treasury yields higher. Markets raised the probability of a September rate increase to nearly 60% following hawkish remarks from Fed Chair Kevin Warsh, increasing pressure on the rupee. Higher crude prices also weighed on sentiment, with Brent approaching $90 a barrel amid renewed tensions around the Strait of Hormuz. However, persistent foreign-currency inflows and RBI intervention are expected to limit the currency's downside, with the 95.70-95.80 zone seen as a well-defended level. India's forex reserves reached a record $729.33 billion in the week to August 21, rising for an eighth straight week as RBI measures attracted nearly $73 billion in inflows, including about $65 billion from non-resident Indian deposits."
+    },
+    {
+      "id": "5067894",
+      "time": "2026-08-31 11:49:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易員稱，印度儲備銀行在外匯市場拋售美元以支撐盧比。"
+    },
+    {
+      "id": "mkt:01a055ef-9ddb-7118-8409-4d7e96c14c1f",
+      "time": "2026-08-31 11:49:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "【TSMC: Silicon photonics mainstream for optical transceivers; market share could exceed 50% by 2027】TSMC VP of advanced packaging technology Xu Guojin said optical-transceiver architectures are undergoing a structural shift and silicon photonics has become the mainstream. He expects silicon photonics could exceed 50% market share by 2027, will ultimately take the form of co-packaged optics (CPO), and some vendors will begin volume production in H2 this year."
+    },
+    {
+      "id": "5067893",
+      "time": "2026-08-31 11:49:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元兌美元跌破160關口 日本干預風險縈繞交易員心頭】日元兌美元匯率跌破160，凸顯日元進一步走弱的脆弱性，也意味著日本當局再次進場干預、遏制日元跌勢的風險升高。儘管確切的干預門檻仍難以確定，但策略師週一警告，可能觸發當局再次出手遏制日元急跌的價位不少，最近的從161開始，其後是162-163區域。不過，他們仍認為，干預除了爭取時間之外恐怕難有更大成效；日元已回吐7月末起、創紀錄干預行動期間漲幅的一半以上。日元最新一波跌勢，受到上週五美元全面走強推動，當時市場因預期美國利率將上升而買進美元。這進一步印證一種看法，即日元的許多走勢並非日本所能控制。自7月美國與日本自1998年以來首次聯手買進日元以來，日元一直未能突破155關口，此後日元再度面臨下行壓力。日元兌美元匯率為159.77，比上週五紐約收盤的160.09左右上漲了約0.2%。"
+    },
+    {
+      "id": "5067892",
+      "time": "2026-08-31 11:47:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國貿促會：今年前7個月受理仲裁案件289件】記者在今天舉辦的貿促會釋出會上瞭解到，今年1至7月，貿促會所屬貿仲委、海仲委受理涉及共建“一帶一路”國家的仲裁案件289件，標的總額達208.15億元；貿仲委已與44個共建國家的69家國際爭議解決機構簽署合作協議；貿促調解系統受理相關調解案件近300件。（央視新聞）"
+    },
+    {
+      "id": "5067891",
+      "time": "2026-08-31 11:47:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電：矽光成光收發器主流 明年市佔率有望超過50%】臺積電先進封裝技術發展副總經理徐國晉今天表示，光收發器底層架構正經歷結構性轉變，矽光子已成為主流型態，預計2027年市佔率有望超過50%，而矽光子最終體現是共封裝光學（CPO），今年下半年將有廠商投入量產。"
+    },
     {
       "id": "5067890",
       "time": "2026-08-31 11:45:31",
