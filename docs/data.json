@@ -1,7 +1,104 @@
 {
-  "updated": "2026-08-31 12:31:09",
-  "count": 13992,
+  "updated": "2026-08-31 12:35:01",
+  "count": 14000,
   "items": [
+    {
+      "id": "5067936",
+      "time": "2026-08-31 12:33:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後下跌0.1%，至177,460.50點。"
+    },
+    {
+      "id": "mkt:01a05617-dd5b-7118-840a-2c00c5440333",
+      "time": "2026-08-31 12:33:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NHSA consults on case-based payment (DRG) 3.0 special-case negotiation mechanism】On Aug. 25, China’s National Healthcare Security Administration (NHSA) held two roundtable consultations to gather local insurer and hospital feedback ahead of the planned release of the case-based payment (DRG) 3.0 grouping scheme. The meetings sought proposals to refine the special-case negotiation mechanism, aiming to enable dynamic adjustment of DRG groupings and streamline implementation. Participants urged stronger oversight, process optimization and efficiency gains, and said the special-case mechanism has helped allay hospital reluctance to admit complex or critical patients and supported clinical uptake of new drugs and technologies."
+    },
+    {
+      "id": "5067935",
+      "time": "2026-08-31 12:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局開展按病種付費3.0版分組方案特例單議機制座談交流】為持續深化醫保支付方式改革，推進按病種付費分組方案動態調整，不斷最佳化特例單議等配套機制，8月25日下午，國家醫保局組織開展按病種付費特例單議機制兩場專題座談，結合即將釋出的按病種付費3.0版分組方案，聽取地方醫保部門、醫療機構對完善特例單議機制的意見建議。與會人員圍繞強化管理，最佳化流程，提高效率等建言獻策，並普遍表示特例單議機制，在打消醫療機構收治疑難危重患者顧慮，支援臨床新藥耗新技術應用發揮了積極的作用。"
+    },
+    {
+      "id": "mkt:01a05617-15a8-7118-840a-2560eaad4c89",
+      "time": "2026-08-31 12:32:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin Fixed-Open Hybrid Fund will suspend trading from the afternoon open on Aug. 31, 2026 through the market close that day."
+    },
+    {
+      "id": "5067934",
+      "time": "2026-08-31 12:31:52",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將龐巴迪目標價從295加元上調至350加元。"
+    },
+    {
+      "id": "mkt:01a05616-47a5-7118-840a-1f45d5ce41eb",
+      "time": "2026-08-31 12:31:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says tanker struck sea mines, caught fire during alleged illegal Strait of Hormuz transit】Aug 31 — Iranian state TV reported the Islamic Revolutionary Guard Corps said a VLCC struck two sea mines in the Strait of Hormuz, caught fire and stopped. The IRGC said the vessel was attempting an illegal transit of the southern Strait of Hormuz and warned ships must comply with its transit rules."
+    },
+    {
+      "id": "5067933",
+      "time": "2026-08-31 12:31:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海實彈射擊訓練】據中國海事局網站訊息，茂名海事局釋出航行警告，8月31日至9月5日，每日13時至18時，南海部分海域進行射擊訓練，禁止進入。"
+    },
+    {
+      "id": "te:markets:579372",
+      "time": "2026-08-31 12:31:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Hits 13-Month High — The South Korean won traded around KRW 1,374 per dollar, reaching its strongest level since July 2025, amid continued dollar selling by major exporters. Month-end flows and strong semiconductor-led export growth highlighted a favorable trade backdrop, with August shipments forecast to rise more than 60% year-on-year and the trade surplus expected to exceed $30 billion. The won also benefited from the Bank of Korea's back-to-back rate hikes, which lifted its policy rate to 3%, while the central bank raised its 2026 growth forecast to 3.3% on stronger semiconductor exports and domestic demand. The won has gained roughly 5% against the dollar in August. However, hawkish comments from Federal Reserve Chair Kevin Warsh reinforced expectations for a September rate hike, supporting the dollar and US Treasury yields. At the same time, renewed US-Iran tensions pushed oil prices higher, adding to inflation and risk concerns."
+    },
+    {
+      "id": "mkt:01a05615-f92b-7118-840a-1677a72427ec",
+      "time": "2026-08-31 12:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: South China Sea live-fire drills】Maoming Maritime Safety Administration posted a navigational warning on the China MSA website: live-fire shooting exercises will prohibit entry to parts of the South China Sea daily from Aug 31 to Sep 5, 13:00–18:00."
+    },
+    {
+      "id": "mkt:01a05615-cb88-7118-840a-0e3e8d1d0002",
+      "time": "2026-08-31 12:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.2-magnitude earthquake strikes southern Philippines】The Philippine Institute of Volcanology and Seismology said a 5.2-magnitude quake occurred around 12:04 p.m. local time on Aug. 31 off the coast of Surigao del Norte, northern Mindanao, at a focal depth of 10 km. The agency said the event is not expected to cause damage."
+    },
+    {
+      "id": "5067932",
+      "time": "2026-08-31 12:30:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱非法過海峽油輪觸雷起火】據伊朗國家電視臺今天（8月31日）報道，伊朗伊斯蘭革命衛隊表示，一艘超大型油輪在霍爾木茲海峽“被兩枚水雷擊中後起火併停止航行”。革命衛隊稱，這艘油輪當時正試圖“非法透過霍爾木茲海峽南部”。革命衛隊強調，船隻必須遵守其關於透過霍爾木茲海峽的規定。"
+    },
     {
       "id": "mkt:01a05613-ff50-7118-840a-017acaff704c",
       "time": "2026-08-31 12:29:06",
@@ -126946,30 +127043,6 @@
         "國際"
       ],
       "text": "市場訊息：哥倫比亞將從美國獲得三架MQ-9A“收割者”無人機作為貸款，並計劃用自己的資金購買第四架，這標誌著該地區首次具備武裝長航時無人機能力。"
-    },
-    {
-      "id": "5054520",
-      "time": "2026-08-24 12:33:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月24日12時至8月26日18時，南海部分水域進行軍事訓練，禁止駛入。"
-    },
-    {
-      "id": "5054519",
-      "time": "2026-08-24 12:33:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE‑100指數開盤後上漲0.5%，報177976.40點。"
-    },
-    {
-      "id": "5054518",
-      "time": "2026-08-24 12:32:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【訊息稱半導體矽晶圓迎三年多來首次大漲價：覆蓋全尺寸規格，升幅 10% 上下】報道稱，半導體矽晶圓市場正出現三年多以來的首次大幅漲價。此次價格變動不僅影響 12 英寸 (300mm) 規格，8 英寸 (200mm) 和 6 英寸 (150mm) 也受到波及。報道指出，部分半年談判一次週期 12 英寸拋光矽晶圓合同已開始適用上漲約雙位數百分比的新報價；8 英寸矽晶圓的 2027 年價格談判也正按照上漲 10% 或以上推進；同樣在進行的 6 英寸矽晶圓價格磋商預計漲幅在 10% 左右。"
     }
   ]
 }
