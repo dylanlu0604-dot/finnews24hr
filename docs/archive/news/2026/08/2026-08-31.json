@@ -1,7 +1,114 @@
 {
   "date": "2026-08-31",
-  "count": 343,
+  "count": 353,
   "items": [
+    {
+      "id": "mkt:01a05524-ad2d-7118-8404-89a3420607f4",
+      "time": "2026-08-31 08:07:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact mixed",
+        "Copper",
+        "WTI"
+      ],
+      "text": "【CSC Financial: Rebalance to Navigate Choppy Market】CSC Financial says A-share sentiment has firmed on overseas rebounds, but domestic liquidity remains in a rebalancing phase; recovery is likely to be measured as the market consolidates a bottom. The Fed remains cautiously hawkish and reiterated its 2% inflation target, a short-term headwind for global risk assets; the Fed noted that stabilising long-end yields and curve flattening would help mitigate tail risks from overly tight financial conditions. NVIDIA’s results and guidance materially beat expectations, confirming resilient AI capex and compute demand and underpinning tech fundamentals. Recommended positioning: rebalance to improve resilience in a volatile market—maintain exposure to sectors with confirmed momentum, hold defensive core positions, and add low-base catch-up names where cheap valuation, institutional underweight and marginal fundamental improvement coincide. Key sector focuses: AI compute, nonferrous metals, innovative pharmaceuticals, banks, non-bank financials, oil, coal, steel and agriculture."
+    },
+    {
+      "id": "mkt:01a05524-70d8-7118-8404-8045be66b221",
+      "time": "2026-08-31 08:07:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bearish",
+        "8035.T"
+      ],
+      "text": "SoftBank Group shares fell about 4.8%; Tokyo Electron dropped more than 4%."
+    },
+    {
+      "id": "5067532",
+      "time": "2026-08-31 08:07:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價下跌4.8%，東京電子下跌4.4%。"
+    },
+    {
+      "id": "5067531",
+      "time": "2026-08-31 08:06:57",
+      "tags": [
+        "央行",
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信建投：五部門“組合拳”出臺 房地產基礎性制度重構】中信建投研報表示，住建部、自然資源部、金融監管總局、央行、證監會五部門同步發力，出臺三份檔案及5份信貸配套檔案，涵蓋商品住房銷售、信貸、融資、資本市場支援等全鏈條，房地產基礎制度迎來重大調整。短期看，現房銷售及預售門檻提升將導致新房可售貨源階段性收縮，房企資金階段性承壓；但中長期看，“所見即所得”、資金閉環及專案制融資將從根本上規避爛尾風險，核心城市成交有望在政策催化與制度紅利雙重作用下率先企穩。"
+    },
+    {
+      "id": "mkt:01a05523-ebf9-7118-8404-7fcd32eb3bb8",
+      "time": "2026-08-31 08:06:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell below 65,000 points, down 2.37% on the day."
+    },
+    {
+      "id": "5067530",
+      "time": "2026-08-31 08:06:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1%至275.30點。"
+    },
+    {
+      "id": "5067529",
+      "time": "2026-08-31 08:06:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌超過2.3%，至64860.54。"
+    },
+    {
+      "id": "5067528",
+      "time": "2026-08-31 08:05:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美通用汽車公司將對加拿大汽車產業投資11億加元】加拿大和美國的貿易談判日前宣告破裂，美國對價值200億美元的加拿大商品徵收50%的關稅，加拿大則宣佈9月8日起對美徵收等額報復性關稅。就在美加貿易爭端陷入僵局之際，加拿大工會宣佈與美國通用汽車公司達成了一項關於投資加拿大汽車產業的臨時協議。據加拿大方面訊息，美國通用汽車公司與加拿大工會達成的這項臨時協議包含對加拿大汽車產業高達11億加元（約合53.6億元人民幣）的投資。根據臨時協議，通用汽車將在加拿大安大略省奧沙瓦的工廠生產該品牌的下一代重型皮卡車型，同時承諾不會立即出售或關閉位於安大略省英格索爾的工廠。臨時協議還包括對下一代V8發動機專案的支援，以及計劃於2029年底啟動在安大略省聖凱瑟琳斯工廠組裝新一代變速箱的專案。面對當前美加兩國之間的貿易爭端，加拿大工會成員認為，這份臨時協議可能是最好的情形。"
+    },
+    {
+      "id": "te:economy:579287",
+      "time": "2026-08-31 08:05:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Japan Retail Sales Growth Above Forecasts — Retail sales in Japan grew by 4% year-on-year in July 2026, exceeding market expectations for a 3% rise and accelerating from an upwardly revised 0.6% gain in the previous month. The latest reading also marked the fourth consecutive month of growth in retail activity, largely driven by a 16.2% surge in sales for motor vehicles. Sales also increased for machinery and equipment (6.3%), general merchandise (3.1%), medicine and toiletry stores (1.6%), and food and beverages (1.1%). In contrast, turnover declined for fabrics apparel and accessories (-6.6%). On a monthly basis, retail sales rose by 2.4% in July, rebounding from a downwardly revised 3.9% decline in June, which was the steepest drop since April 2021."
+    },
+    {
+      "id": "5067527",
+      "time": "2026-08-31 08:05:11",
+      "tags": [
+        "央行",
+        "觀點"
+      ],
+      "text": "【摩根大通：紐西蘭央行料將連續第二次加息】摩根大通表示，紐西蘭央行有望在9月份連續第二次加息，週三將官方隔夜拆款利率上調至2.75%。該行經濟學家Ben Jarman稱，鑑於政策利率仍處於寬鬆水平，且資料已基本掃清所有障礙、表明經濟增長正在回升，加息25個基點的可能性已基本被市場完全消化。"
+    },
     {
       "id": "5067526",
       "time": "2026-08-31 08:03:37",
