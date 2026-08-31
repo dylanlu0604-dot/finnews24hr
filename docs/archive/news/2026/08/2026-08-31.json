@@ -1,7 +1,40 @@
 {
   "date": "2026-08-31",
-  "count": 848,
+  "count": 851,
   "items": [
+    {
+      "id": "mkt:01a05602-40d1-7118-8409-94f4c7e5e44b",
+      "time": "2026-08-31 12:09:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Tasnim news agency reported the Iranian military said it launched tens of drones at Al Minhad air base in the UAE."
+    },
+    {
+      "id": "5067918",
+      "time": "2026-08-31 12:08:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昆明終止磨憨鎮防汛Ⅱ級應急響應】記者從昆明市防汛抗旱指揮部辦公室和磨憨—磨丁經濟合作區應急指揮中心獲悉，磨憨鎮此輪強降雨過程已結束，鹽塘水庫水位回落至安全區間，險情得到有效控制。各相關單位正組織力量對受損供水、供電、通訊等基礎設施加緊搶修，受災區域生產生活秩序正有序恢復。經昆明市防汛抗旱指揮部會商研判，決定於8月31日8時終止磨憨鎮防汛Ⅱ級應急響應。雲南省消防救援總隊介紹，目前，昆明市消防救援支隊留守救援力量正有序開展清淤等工作。記者31日上午在磨憨鎮磨龍村委會看到，群眾正搭乘大巴從城區安置點有序回到家中。（新華社）"
+    },
+    {
+      "id": "mkt:01a05600-9f18-7118-8409-894cb5843489",
+      "time": "2026-08-31 12:07:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian state TV quoted the Iranian military as saying that earlier on Monday it used drones to strike Al Minhad Air Base in the UAE."
+    },
     {
       "id": "5067917",
       "time": "2026-08-31 12:07:14",
