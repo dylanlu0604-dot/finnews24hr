@@ -1,7 +1,69 @@
 {
   "date": "2026-09-01",
-  "count": 184,
+  "count": 191,
   "items": [
+    {
+      "id": "mkt:01a05933-eee3-7118-841f-72d7c4a00182",
+      "time": "2026-09-01 03:02:50",
+      "tags": [
+        "MKT News",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms CEO Zuckerberg said Meta Platforms (META.O) has launched AI coding tool Muse Code."
+    },
+    {
+      "id": "5069404",
+      "time": "2026-09-01 03:02:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會：聯邦貿易委員會與 22 個州總檢察長指控亞馬遜在其數字廣告競價定價中隱瞞不公平收費。"
+    },
+    {
+      "id": "5069403",
+      "time": "2026-09-01 03:01:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會：聯邦機構與多州起訴亞馬遜，指控其實施秘密廣告加價操作。"
+    },
+    {
+      "id": "5069402",
+      "time": "2026-09-01 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.42%，報25345.19點，低水221.80點。"
+    },
+    {
+      "id": "mkt:01a05930-ef3c-7118-841f-6a51052edecc",
+      "time": "2026-09-01 02:59:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. approved the highest level of biofuel waivers for refiners since 2017."
+    },
+    {
+      "id": "mkt:01a05930-a7f2-7118-841f-6642fd71ef25",
+      "time": "2026-09-01 02:59:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【American AI Build launches multi-mln-dollar ad campaign as 61% of US adults oppose local data centers】American AI Build, backed by AI-industry billionaires, has launched a multi-mln-dollar advertising campaign to blunt rising US public opposition to new data centers. A survey found 61% of US adults oppose local data center construction; concerns cited include higher electricity prices, increased blackout risk and heavy water use. The group says curbs on data center investment would cost jobs and weaken US AI competitiveness. Supporters include venture capitalists Marc Andreessen, Ben Horowitz and OpenAI president Greg Brockman."
+    },
+    {
+      "id": "5069401",
+      "time": "2026-09-01 02:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署批准小型煉油廠豁免生物燃料法規，2025合規年度豁免額度總計17.6億個信用額度。"
+    },
     {
       "id": "5069400",
       "time": "2026-09-01 02:58:40",
