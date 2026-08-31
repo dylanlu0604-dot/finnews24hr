@@ -1,7 +1,63 @@
 {
   "date": "2026-09-01",
-  "count": 159,
+  "count": 164,
   "items": [
+    {
+      "id": "mkt:01a05924-345e-7118-841f-2e8650a52f8a",
+      "time": "2026-09-01 02:45:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "IRNA quoted Iran's energy minister as saying that, as power-generation expansion and electricity-demand management programs advance, Iran will soon achieve full self-sufficiency in electricity supply."
+    },
+    {
+      "id": "5069387",
+      "time": "2026-09-01 02:45:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶90.49美元，上漲2.39美元，漲幅2.71%。"
+    },
+    {
+      "id": "mkt:01a05923-8f5b-7118-841f-208a380b3709",
+      "time": "2026-09-01 02:44:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $90.49 per barrel, up $2.39 or 2.71%."
+    },
+    {
+      "id": "5069386",
+      "time": "2026-09-01 02:43:05",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【俄美財長在G20會議期間罕見會晤 討論雙邊金融合作】據俄羅斯政府宣告，俄羅斯財政部長西盧安諾夫與美國財政部長貝森特在北卡羅來納州阿什維爾舉行的二十國集團會議期間會晤。宣告稱，兩國官員討論了雙邊金融合作以及G20框架下的合作。這也是自俄羅斯總統普京2022年對烏克蘭發動軍事行動以來，西盧安諾夫首次親自出席G20會議。此次會談標誌著美俄經濟團隊之間罕見的高層接觸。由於烏克蘭戰爭以及西方對俄羅斯實施的全面制裁，美俄關係依然緊張。西盧安諾夫出席本週在阿什維爾舉行的G20財長和央行行長會議引發歐洲官員反對。德國財政部長克林拜爾表示，他和他的同行拒絕與西盧安諾夫一起拍攝傳統的集體照。"
+    },
+    {
+      "id": "mkt:01a05921-c0f2-7118-841f-1fb0caa25c4c",
+      "time": "2026-09-01 02:42:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "MSFT.O"
+      ],
+      "text": "Amazon Web Services (AWS) has launched a beta multi-cloud interconnect service linking AWS with Microsoft Azure, available from today in the US, Sydney (Australia) and Frankfurt (Germany)."
+    },
     {
       "id": "mkt:01a0591f-e462-7118-841f-132b92316e40",
       "time": "2026-09-01 02:40:57",
