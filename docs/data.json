@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-01 02:34:55",
+  "updated": "2026-09-01 02:39:02",
   "count": 13078,
   "items": [
+    {
+      "id": "5069383",
+      "time": "2026-09-01 02:36:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國前國會議員喬治·桑托斯將無法再在Kalshi預測市場平臺下注；該平臺因其涉嫌操縱有關本人是否出席本年度國情諮文演講的押注合約，已對他實施終身封禁。"
+    },
     {
       "id": "mkt:01a05919-70af-7118-841f-01fffb998323",
       "time": "2026-09-01 02:33:54",
@@ -119320,18 +119329,6 @@
         "Importance 1"
       ],
       "text": "Gold Holds Near Three-Month High as Dollar Remains Under Pressure — Gold pared earlier gains on Monday afternoon but remained around $4,640 an ounce, its highest level since May 14, as technical buying supported a rally fueled by a weaker dollar and the US Treasury’s recent buyback announcement. Bullion gained more than 5% last week after the buyback plan pushed the dollar to multi-month lows. Markets are now focused on the July PCE price index due Wednesday and Fed Chair Kevin Warsh’s speech at the Jackson Hole Symposium on Friday for clues on the interest-rate outlook. Traders are pricing in a more than 40% chance of a rate hike in September, according to CME FedWatch. On the geopolitical front, the Trump administration announced an expansion of secondary sanctions targeting entities and countries that maintain business ties with Iran. Treasury Secretary Scott Bessent warned that at least one major financial institution could be sanctioned this week and suggested China would not be exempt."
-    },
-    {
-      "id": "mkt:01a0350f-686b-7aab-90fe-4675aa8a82c6",
-      "time": "2026-08-25 02:36:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Yemen's Houthi movement said all units and branches are at highest combat readiness. It warned Saudi Arabia, Israel, the United States and their allies that their previous rules have failed, urged them not to take 'stupid actions', and said it would respond militarily and alter the regional balance of power if they do."
     }
   ]
 }
