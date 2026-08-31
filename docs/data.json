@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-01 02:02:06",
-  "count": 13070,
+  "updated": "2026-09-01 02:06:11",
+  "count": 13075,
   "items": [
+    {
+      "id": "5069368",
+      "time": "2026-09-01 02:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "The Trade Desk（TTD）股價漲幅迅速擴大至4%。"
+    },
+    {
+      "id": "5069367",
+      "time": "2026-09-01 02:04:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普正在考慮對伊朗進行有限打擊。"
+    },
+    {
+      "id": "mkt:01a058fd-cc03-7118-841e-ac07163580c6",
+      "time": "2026-09-01 02:03:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Navy said the nuclear-powered submarine USS North Dakota completed maintenance and upgrades and rejoined the fleet ahead of schedule on Aug. 29, returning to operational status."
+    },
+    {
+      "id": "5069366",
+      "time": "2026-09-01 02:03:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：美國必須迴歸諒解備忘錄，方能擺脫當前局勢。"
+    },
+    {
+      "id": "mkt:01a058fd-9cb0-7118-841e-a32c4118fe10",
+      "time": "2026-09-01 02:03:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) slid more than 3% to an intraday low."
+    },
+    {
+      "id": "mkt:01a058fd-8393-7118-841e-98f64487f2e4",
+      "time": "2026-09-01 02:03:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal reports U.S. Federal Trade Commission officials said they plan to file suit against Amazon (AMZN.O) on Monday."
+    },
+    {
+      "id": "5069365",
+      "time": "2026-09-01 02:02:41",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會及二十餘州將指控亞馬遜透過操縱其零售平臺上的廣告價格謀取數十億美元收益。"
+    },
+    {
+      "id": "5069364",
+      "time": "2026-09-01 02:02:08",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "亞馬遜迅速擴大跌幅，下跌3.5%，創盤中新低。"
+    },
+    {
+      "id": "5069363",
+      "time": "2026-09-01 02:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會將聯合20個州總檢察長共同提起該訴訟。"
+    },
+    {
+      "id": "5069362",
+      "time": "2026-09-01 02:01:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會將於週一起訴亞馬遜。"
+    },
     {
       "id": "5069361",
       "time": "2026-09-01 02:00:35",
@@ -119176,46 +119275,6 @@
         "國際"
       ],
       "text": "【特朗普：加拿大應該“服從”，否則將面臨更嚴重後果】美國總統特朗普：加拿大安大略省省長大放諸多 “虛張聲勢的狠話”。幾十年來，美國一直在為加拿大兜底，但這種局面到此為止！美國無論體量、財富還是實力，永遠遠勝於加拿大。離開了美國，加拿大將難以為繼 —— 加拿大的全部財源都仰仗美國。而如今加拿大領導層表現糟糕，主要是卡尼總理，再加上他的跟班福特，加拿大不能再繼續佔美國的便宜，而美國恰恰是加拿大賴以生存的關鍵。\n要記住，加拿大大量電力、石油與天然氣都要經由美國境內輸送。得有人讓這群荒唐政客乖乖就範，否則加拿大將要承受的後果會嚴重得多！加拿大當前失業率已達 10%，並且還在快速攀升。當地企業紛紛遷往美國，這一切都源於政策失效與執政能力低下。加拿大壓榨美國農民及其他企業的日子已經一去不復返！"
-    },
-    {
-      "id": "mkt:01a034f2-7d09-7aab-90fd-eb9bd6033bc3",
-      "time": "2026-08-25 02:05:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump called Ontario Premier Ford’s remarks \"grandstanding\", accused Canada of long-term dependence on the United States and warned Canada would face more serious consequences if it did not change its policies."
-    },
-    {
-      "id": "mkt:01a034f2-19b1-7aab-90fd-e180b198af38",
-      "time": "2026-08-25 02:04:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. says strike on \"drug-smuggling\" vessel in eastern Pacific killed two】U.S. Southern Command said on the 24th that U.S. forces struck a vessel it described as a drug-smuggling boat in the eastern Pacific on the 23rd, killing two people aboard."
-    },
-    {
-      "id": "mkt:01a034f0-a2e4-7aab-90fd-d97377085bf3",
-      "time": "2026-08-25 02:03:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM News quoted a security official saying the US economic sanctions plan is intended to increase psychological pressure on the Iranian people."
-    },
-    {
-      "id": "5056113",
-      "time": "2026-08-25 02:02:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美軍稱在東太平洋打擊“販毒船”致兩人死亡】美軍南方司令部24日發表宣告說，美軍23日在東太平洋打擊一艘“販毒船”，造成船上兩人死亡。（新華社）"
-    },
-    {
-      "id": "5056112",
-      "time": "2026-08-25 02:02:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社援引安全官員的話稱，美國的經濟制裁計劃是一場旨在加大對伊朗民眾心理施壓的行動。"
     }
   ]
 }

@@ -1,7 +1,106 @@
 {
   "date": "2026-09-01",
-  "count": 115,
+  "count": 125,
   "items": [
+    {
+      "id": "5069368",
+      "time": "2026-09-01 02:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "The Trade Desk（TTD）股價漲幅迅速擴大至4%。"
+    },
+    {
+      "id": "5069367",
+      "time": "2026-09-01 02:04:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普正在考慮對伊朗進行有限打擊。"
+    },
+    {
+      "id": "mkt:01a058fd-cc03-7118-841e-ac07163580c6",
+      "time": "2026-09-01 02:03:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Navy said the nuclear-powered submarine USS North Dakota completed maintenance and upgrades and rejoined the fleet ahead of schedule on Aug. 29, returning to operational status."
+    },
+    {
+      "id": "5069366",
+      "time": "2026-09-01 02:03:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：美國必須迴歸諒解備忘錄，方能擺脫當前局勢。"
+    },
+    {
+      "id": "mkt:01a058fd-9cb0-7118-841e-a32c4118fe10",
+      "time": "2026-09-01 02:03:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Amazon (AMZN.O) slid more than 3% to an intraday low."
+    },
+    {
+      "id": "mkt:01a058fd-8393-7118-841e-98f64487f2e4",
+      "time": "2026-09-01 02:03:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal reports U.S. Federal Trade Commission officials said they plan to file suit against Amazon (AMZN.O) on Monday."
+    },
+    {
+      "id": "5069365",
+      "time": "2026-09-01 02:02:41",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會及二十餘州將指控亞馬遜透過操縱其零售平臺上的廣告價格謀取數十億美元收益。"
+    },
+    {
+      "id": "5069364",
+      "time": "2026-09-01 02:02:08",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "亞馬遜迅速擴大跌幅，下跌3.5%，創盤中新低。"
+    },
+    {
+      "id": "5069363",
+      "time": "2026-09-01 02:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會將聯合20個州總檢察長共同提起該訴訟。"
+    },
+    {
+      "id": "5069362",
+      "time": "2026-09-01 02:01:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會將於週一起訴亞馬遜。"
+    },
     {
       "id": "5069361",
       "time": "2026-09-01 02:00:35",
