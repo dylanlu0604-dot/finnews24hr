@@ -1,7 +1,79 @@
 {
   "date": "2026-08-31",
-  "count": 384,
+  "count": 392,
   "items": [
+    {
+      "id": "mkt:01a0553a-e44a-7118-8404-aa1205e552bd",
+      "time": "2026-08-31 08:31:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【President Trump's Monday schedule】Beijing time Aug 31 20:00 — White House, administrative duties; Beijing time Sep 1 02:00 — Oval Office, policy meeting; Beijing time Sep 1 03:00 — Oval Office, statement on healthcare affordability; Beijing time Sep 1 04:30 — Oval Office, signing ceremony."
+    },
+    {
+      "id": "5067562",
+      "time": "2026-08-31 08:31:03",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【國金證券：中長期來看 生豬養殖行業依舊有較為優秀的中樞利潤】國金證券研報表示，短期來看，生豬價格仍有下降空間，近期行業產能在政策調控和供給壓力下已經有所減少，同時行業價格已經跌破完全成本線，預計整體虧損下行業產能去化，目前板塊景氣度底部企穩。中長期來看，生豬養殖行業依舊有較為優秀的中樞利潤，且非洲豬瘟之後行業的快速擴張中，仍有大量企業是低質量擴充產能，行業成本方差依舊巨大。"
+    },
+    {
+      "id": "5067561",
+      "time": "2026-08-31 08:31:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上半年滬市公司近八成實現盈利，淨利增速創2022年以來新高】上半年滬市上市公司近八成實現盈利。上交所資料顯示，截至目前，滬市上市公司已完成2026年半年報披露。2026年上半年，2318家滬市公司合計實現營業收入26.22萬億元，同比增長6.3%，淨利潤2.82萬億元，同比增長17.6%，扣非後淨利潤2.69萬億元，同比增長17.2%，增速創2022年以來新高。"
+    },
+    {
+      "id": "5067560",
+      "time": "2026-08-31 08:30:29",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【上週韓國投資者淨買入港股南方兩倍做多海力士（HK7709）719.1萬美元】韓國證券存管院（KSD）旗下SEIBro資料顯示，8月24日-8月28日，韓國投資者A股市場，淨買入榜單排名前3依次為：紫金礦業（601899）淨買入60.9萬美元，雲天化（600096）淨買入36.5萬美元，巨化股份（600160）淨買入28.3萬美元；港股市場，淨買入榜單排名前3依次為：南方兩倍做多海力士（HK7709）淨買入719.1萬美元，優必選（HK9880）淨買入132.7萬美元，老鋪黃金（HK6181）淨買入124.7萬美元。"
+    },
+    {
+      "id": "5067559",
+      "time": "2026-08-31 08:30:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海證交所上日融資餘額下跌0.5%至13,429.4億元。"
+    },
+    {
+      "id": "5067558",
+      "time": "2026-08-31 08:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【移民管理搶險救援突擊隊在吉隆口岸聯檢大樓附近開展地毯式搜救】國家移民管理局訊息，8月30日，移民管理搶險救援突擊隊隊員們攜帶生命探測儀、無人機等裝備，聯合消防救援隊伍搭乘軍用直升機抵達吉隆口岸受災核心區，在口岸聯檢大樓附近就地開展地毯式搜救。"
+    },
+    {
+      "id": "te:markets:579303",
+      "time": "2026-08-31 08:29:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Losses on Hawkish Fed Bets — Silver traded around $66.4 an ounce on Monday after losing more than 4% in the previous session, as hawkish remarks from Federal Reserve Chair Kevin Warsh revived expectations for an imminent interest rate hike. In his Jackson Hole address on Friday, Warsh warned that inflation is not easing significantly and reaffirmed the central bank’s commitment to bringing inflation back to its 2% target, while noting that financial conditions are not currently restrictive. Markets are now pricing in around a 57% chance of a 25-basis-point Fed rate hike in September, up sharply from roughly 40% a week earlier. Silver also remained pressured by rising oil prices after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz, marking the first such attack in more than a month. Still, the metal is on track to gain over 15% for the August."
+    },
+    {
+      "id": "5067557",
+      "time": "2026-08-31 08:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“沙德爾”殘餘渦旋或再次發展加強 “班朗”未來對我國無影響】今年第18號颱風“沙德爾”減弱後的殘餘渦旋的中心昨天夜間從廣西壯族自治區梧州市岑溪市移入廣東省茂名市，今天（31日）早晨5點鐘其中心位於廣東省雷州市東部近海海面上，就是北緯20.7度、東經110.4度。預計，“沙德爾”殘餘渦旋今天白天將以每小時15—20公里的速度向偏南轉偏東方向移動，將與南海熱帶擾動合併後轉為東偏北方向移動，可能發展為熱帶低壓或編號颱風。今年第23號颱風 “班朗”（熱帶風暴級）的中心今天（31日）早晨5點鐘位於日本東京東偏南方向約2310公里的西北太平洋洋麵上，就是北緯36.2度，東經165.4度，中心附近最大風力8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑50—200公里。預計“班朗”將以每小時25—30公里的速度繼續向偏北方向快速移動，將逐漸變性為溫帶氣旋，未來對我國無影響。"
+    },
     {
       "id": "te:markets:579302",
       "time": "2026-08-31 08:28:05",
