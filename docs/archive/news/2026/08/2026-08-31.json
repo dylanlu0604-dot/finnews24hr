@@ -1,7 +1,77 @@
 {
   "date": "2026-08-31",
-  "count": 367,
+  "count": 373,
   "items": [
+    {
+      "id": "mkt:01a0552e-fedb-7118-8404-a43d24ed066c",
+      "time": "2026-08-31 08:18:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【China International Capital Co: Kevin Warsh turns hawkish; market accepts short-term hawkishness for longer-term stability】China International Capital Co said in a note that on Aug. 28 Beijing time Fed Chair Kevin Warsh used his Jackson Hole keynote to shift hawkish, reiterating a 2% PCE inflation target and the Fed’s duty to maintain price stability. Market reaction: 2-year U.S. Treasury yields jumped over 10bp, the dollar rallied, gold fell about 3%, and CME futures lifted the odds of a September rate hike from 35% to 58%. The move was not panic-driven: U.S. equity volatility was limited, 10-year UST rose roughly 4bp while 30-year UST declined, indicating markets are pricing a near-term hawkish impulse in exchange for longer-run stability."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608313859574659",
+      "time": "2026-08-31 08:18:28",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本經濟資料全面超預期 日央行加息預期升溫】日本7月工業產出環比增長0.1%，好於預期的下降0.7%；零售銷售環比增長2.4%，同比增長4%，均大幅高於預期。製造商預計8月工業產出將增長6.4%，9月則回落4.2%。零售銷售無論環比還是同比均大幅反彈，表明消費者支出的表現好於6月的下滑所暗示的情況。這對於日本央行正在討論的國內需求能否持續成為推動通脹的動力而言具有重要意義。"
+    },
+    {
+      "id": "5067548",
+      "time": "2026-08-31 08:18:19",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金公司：沃什表態轉鷹 市場認可以短期鷹派換取長期穩定】中金公司研報表示，北京時間8月28日晚，美聯儲主席沃什在Jackson Hole全球央行年會上發表主旨演講。整體看，沃什表態轉鷹，再次強調以PCE衡量的2%通脹目標，並重申美聯儲維護價格穩定的職責。市場也對此報以鷹派反應，2年利率跳升超過10bp，美元大漲，黃金大跌3%，CME期貨對9月加息的預期從35%跳升至58%。不過鷹派的反應卻不是恐慌式的波動，美股波動有限，10年美債利率僅走高4bp，30年美債反而回落，表明市場認可以短期的鷹派換取長期的穩定。"
+    },
+    {
+      "id": "5067547",
+      "time": "2026-08-31 08:18:12",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數下跌 晶片股走弱 此前美聯儲主席沃什發表鷹派講話】韓國股市基準Kospi指數一度下跌3.6%，晶片股下跌，此前美聯儲主席凱文·沃什發表鷹派講話，誓言對抗通貨膨脹。三星和SK海力士對股指構成最大拖累，跌幅均超過3%。外國投資者在早盤交易中淨賣出Kospi股票，而散戶投資者則買入。Kosdaq小盤股指數下跌幅度一度達4%。"
+    },
+    {
+      "id": "5067546",
+      "time": "2026-08-31 08:17:20",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股大幅下跌，愛德萬測試股價下跌7.5%，軟銀集團下跌4.3%。"
+    },
+    {
+      "id": "te:markets:579294",
+      "time": "2026-08-31 08:16:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Costa Rica",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Costa Rica Hit 14-month Low — BCT Corp decreased to 11895.00 Index Points, the lowest since June 2025. Over the past 4 weeks, BCT Corp Costa Rica Stock Market Index lost 0.04%, and in the last 12 months, it decreased 0.01%."
+    },
     {
       "id": "5067545",
       "time": "2026-08-31 08:16:16",
