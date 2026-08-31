@@ -1,7 +1,904 @@
 {
   "date": "2026-08-31",
-  "count": 235,
+  "count": 332,
   "items": [
+    {
+      "id": "5067519",
+      "time": "2026-08-31 08:00:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.6%，至6613.58點。"
+    },
+    {
+      "id": "5067518",
+      "time": "2026-08-31 08:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼將於9月3日在NZFMA活動上發表講話。"
+    },
+    {
+      "id": "5067517",
+      "time": "2026-08-31 08:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報65668.51點，跌幅1.11%。"
+    },
+    {
+      "id": "te:markets:579284",
+      "time": "2026-08-31 08:00:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Australia Hit 4-week Low — ASX200 decreased to 9007.00 Index Points, the lowest since August 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) lost 0.34%, and in the last 12 months, it increased 0.39%."
+    },
+    {
+      "id": "5067516",
+      "time": "2026-08-31 08:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【主動ETF落地在即 投資者需釐清三個誤區】主動ETF批文落地在即，各大基金公司正在加緊各項籌備工作。據證券時報記者近日瞭解，投資者預期管理和技術裝置完善是兩大重點工作。基金公司最新的調研摸底結果顯示，不少投資者希望主動ETF能實現高額資本增值、提前退休等投資目標。業內人士在受訪中提示，投資者需釐清對主動ETF認知方面的三個誤區：主動ETF不是場內版主動基金、不可脫離具體投資策略去談賺錢效率、更不意味著穩賺不賠。首批主動ETF產品主要集中在大盤價值、質量成長、紅利和均衡配置等方向，對應的主要是基礎配置收益。在首批產品形成穩定且可解釋的業績表現後，未來會推出風格化更強的產品。"
+    },
+    {
+      "id": "5067515",
+      "time": "2026-08-31 07:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【開闢新的洩洪通道、轉移群眾8000人 雲南磨憨洪澇災害最新救援進展】28日下午到29日上午，雲南省西雙版納傣族自治州勐臘縣普降大到暴雨，昆明市託管的勐臘縣磨憨鎮24小時最大降雨量達187.5毫米，發生洪澇災害。據昆明市防汛抗旱指揮部辦公室29日晚8點10分發布的通報，磨憨鎮磨龍村鹽塘水庫出現漫壩險情，存在潰壩風險。險情發生後，當地立即啟動防汛Ⅱ級應急響應，組織應急力量開展搶險避險工作，對危險區域群眾進行緊急轉移安置。截至目前，一共轉移群眾大概8000多人。磨憨啟用了多個安置點，主要在一線國門大廳、學校、農場等地勢較高的安全區域。（央視）"
+    },
+    {
+      "id": "5067514",
+      "time": "2026-08-31 07:58:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦軍方：攔截8枚入侵領空的導彈】據外媒報道，約旦軍方8月31日發表宣告稱，當天凌晨攔截了8枚入侵該國領空的導彈。稍早前，伊朗伊斯蘭革命衛隊稱，作為對美國襲擊拉臘克島的報復，伊方用彈道導彈襲擊了位於約旦的兩個美軍基地。(新華社)"
+    },
+    {
+      "id": "te:economy:579283",
+      "time": "2026-08-31 07:56:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "Japan Industrial Output Unexpectedly Rises — Japan’s industrial production edged up 0.1% month-over-month in July 2026, defying market estimates of a 0.6% decline and marking the fourth straight month of increase, preliminary data showed. The latest result followed June's 1.9% growth, which had been the fastest pace in five months. On an annual basis, industrial output grew by 4.1%, slowing from a 4.9% gain in June but marking the second straight month of yearly rise."
+    },
+    {
+      "id": "5067513",
+      "time": "2026-08-31 07:55:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特斯拉在中國香港、中國澳門推出更平價版Model 3】8月31日訊息，特斯拉已正式在兩地推出配置簡化、售價更低的Model 3車型版本。特斯拉官網顯示，該款車型在中國香港的起售價為‌20.5萬港元（約合人民幣17.59萬元）‌，在中國澳門的起售價為‌25.2萬澳門元（約合人民幣20.98萬元）‌。"
+    },
+    {
+      "id": "5067512",
+      "time": "2026-08-31 07:54:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊藤忠擬啟動要約收購電通綜研】伊藤忠商事8月31日宣佈，擬透過要約收購方式推進電通綜研（Dentsu Soken）私有化，目前目標是在2026年11月上旬前後開始要約收購，但具體時間仍存在不確定性。"
+    },
+    {
+      "id": "mkt:01a05518-6c81-7118-8404-500929065a01",
+      "time": "2026-08-31 07:54:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan July inventories MoM +0.5%, prior +2.8%."
+    },
+    {
+      "id": "mkt:01a05518-5113-7118-8404-4bc640b4eb20",
+      "time": "2026-08-31 07:54:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventory (MoM) (Jul) | actual 0.5% | previous 2.8%"
+    },
+    {
+      "id": "5067511",
+      "time": "2026-08-31 07:52:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【公募FOF年內合計募集逾1300億元 規模超過去三年總和】今年以來，公募FOF發行明顯回暖。資料顯示，截至8月28日，年內共有131只FOF成立，合計募集約1375億元，已超過過去2023年至2025年的募集規模總和。從發行質量看，今年新發FOF的募集規模中位數、平均募集規模均較往年明顯提高，募集規模超過10億元的產品達到46只。此外，今年發行的大規模FOF產品數量顯著增加，顯示FOF發行回暖並非僅由少數爆款推動。產品結構方面，三個月及六個月持有期產品成為發行主力，帶有“穩健”“多元配置”等特徵的產品較為集中。在低利率環境與資產價格波動並存的背景下，投資者對跨資產配置和波動管理的需求有所提升。"
+    },
+    {
+      "id": "5067510",
+      "time": "2026-08-31 07:52:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升0.5個基點至2.93%。"
+    },
+    {
+      "id": "mkt:01a05517-0677-7118-8404-46843be10769",
+      "time": "2026-08-31 07:52:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan July retail sales 13.88 tln yen, versus prior 13.019 tln yen."
+    },
+    {
+      "id": "mkt:01a05516-ea6a-7118-8404-39d7766223a3",
+      "time": "2026-08-31 07:52:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales (Jul) | actual 13880000000000T | previous 13019000000000T"
+    },
+    {
+      "id": "5067509",
+      "time": "2026-08-31 07:52:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特表示，美國財政部計劃每週對伊朗實施更多二級制裁，從銀行開始，他說“我們正在告訴銀行，持有伊朗資金和協助伊朗政權是不可以的”，並表示下次“我們可能會直接制裁一家銀行”，此前美國對一家埃及銀行的阿拉伯聯合大公國分支機構實施了限制。"
+    },
+    {
+      "id": "mkt:01a05516-3812-7118-8404-32bf56fd8f9a",
+      "time": "2026-08-31 07:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan July industrial production YoY preliminary 4.1% vs. consensus 3.4%; prior 4.9%."
+    },
+    {
+      "id": "mkt:01a05516-1c10-7118-8404-2c6653c96e7f",
+      "time": "2026-08-31 07:51:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (YoY) (Jul) | actual 4.1% | consensus 3.40% | previous 4.90%"
+    },
+    {
+      "id": "mkt:01a05516-13c2-7118-8404-238cd46ff428",
+      "time": "2026-08-31 07:51:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said the US may directly sanction a bank next time, after previously imposing restrictions on the UAE branch of an Egyptian bank."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608313859569323",
+      "time": "2026-08-31 07:51:41",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月份工業產值同比增長4.1%，預估3.3%。"
+    },
+    {
+      "id": "mkt:01a05515-f28f-7118-8404-1a305b9e72a2",
+      "time": "2026-08-31 07:51:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said the Treasury has told banks that holding Iranian funds and supporting the Iranian regime is unacceptable."
+    },
+    {
+      "id": "mkt:01a05515-9c98-7118-8404-162943a2c9b5",
+      "time": "2026-08-31 07:51:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury plans to impose additional secondary sanctions on Iran on a weekly basis, starting with Iranian banks."
+    },
+    {
+      "id": "em:jjsj_rbsj:202608313859569479",
+      "time": "2026-08-31 07:51:11",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月份零售額同比增長4.0%，預估為3.3%。"
+    },
+    {
+      "id": "5067508",
+      "time": "2026-08-31 07:50:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月份零售額同比增長4.0%，預估為3.3%。日本7月份零售額環比增長2.4%，估為1.6%。"
+    },
+    {
+      "id": "mkt:01a05514-fa79-7118-8404-0d2fe51090f0",
+      "time": "2026-08-31 07:50:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan July seasonally adjusted retail sales rose 2.4% MoM; June revised to -3.90% from -4.10%."
+    },
+    {
+      "id": "5067507",
+      "time": "2026-08-31 07:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月份工業產值同比增長4.1% ，預估3.3%。日本7月份工業產值環比增長0.1%，預估為-0.7%。"
+    },
+    {
+      "id": "mkt:01a05514-d94b-7118-8404-03b511d07d65",
+      "time": "2026-08-31 07:50:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales SA (MoM) (Jul) | actual 2.4% | previous -4.10%"
+    },
+    {
+      "id": "mkt:01a05514-b10a-7118-8403-ffa0a4a8172a",
+      "time": "2026-08-31 07:50:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan retail sales YoY +4.0% in July vs 2.9% expected; June revised to +0.6% from +0.5%."
+    },
+    {
+      "id": "mkt:01a05514-adea-7118-8403-f0307dabf074",
+      "time": "2026-08-31 07:50:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan July industrial production preliminary MoM +0.1% vs -0.7% expected; prior +1.9%"
+    },
+    {
+      "id": "mkt:01a05514-8d81-7118-8403-ef1c65b5a9ab",
+      "time": "2026-08-31 07:50:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail sales (YoY) (Jul) | actual 4% | consensus 2.9% | previous 0.50%"
+    },
+    {
+      "id": "mkt:01a05514-8608-7118-8403-e40bb2777389",
+      "time": "2026-08-31 07:50:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (MoM) (Jul) | actual 0.1% | consensus -0.7% | previous 1.90%"
+    },
+    {
+      "id": "5067506",
+      "time": "2026-08-31 07:49:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國財政部計劃每週對伊朗實施更多二級制裁，先從銀行開始。"
+    },
+    {
+      "id": "te:markets:579282",
+      "time": "2026-08-31 07:49:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Slip to Start the Week — US stock futures slipped on Monday as oil prices jumped after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz, marking the first such attack in more than a month. Investors also digested hawkish signals from Federal Reserve Chair Kevin Warsh, who reiterated his commitment to bringing inflation down, strengthening bets for an interest rate hike in September. Meanwhile, the Dow is up 2.05% in August, on track for its fifth consecutive monthly gain. The S&P 500 and Nasdaq Composite have also advanced 2.96% and 4.05%, respectively, this month, supported by strong performance in technology stocks. Investors now turn their attention to Friday’s August jobs report for further clues about the health of the economy. On the corporate front, earnings are due this week from Broadcom, Dell, Palo Alto Networks and Snowflake, among others."
+    },
+    {
+      "id": "5067505",
+      "time": "2026-08-31 07:47:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美軍逾一個月來首度打擊伊朗 油價勁揚】在經歷了數週的相對平靜之後，美國軍方週日襲擊了伊朗準備向霍爾木茲海峽投放水雷的火箭發射裝置。受此訊息影響，油價勁揚。美國中央司令部發言人Tim Hawkins表示，伊斯蘭革命衛隊部隊正準備利用火箭向該海峽投放水雷。11月布倫特原油期貨漲向每桶90美元，WTI原油則接近85美元。美軍上週表示，已完成清除海峽航運路線上的水雷。霍爾木茲海峽曾是一條國際水道，全球五分之一的石油和液化天然氣經由此處運輸。"
+    },
+    {
+      "id": "5067504",
+      "time": "2026-08-31 07:46:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.3%，納斯達克指數期貨下滑0.5%。"
+    },
+    {
+      "id": "5067503",
+      "time": "2026-08-31 07:46:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "本週央行公開市場隔夜逆回購到期規模為3330億元，7天期逆回購到期規模為10885億元。"
+    },
+    {
+      "id": "5067502",
+      "time": "2026-08-31 07:45:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本公債期貨早盤下跌0.12點。"
+    },
+    {
+      "id": "5067501",
+      "time": "2026-08-31 07:45:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤下跌1.7%。"
+    },
+    {
+      "id": "5067500",
+      "time": "2026-08-31 07:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國產大模型與算力平臺“雙向奔赴” 帶來哪些新機遇？】不久前，一款匿名模型在全球多模型聚合平臺OpenRouter上進行大規模測試，迅速成為當週最受歡迎的模型。而近日謎底揭曉，它正是智譜最新的大模型。值得關注的是測試期間的請求流量全部由國產晶片提供算力支援。在此之前，月之暗面釋出Kimi K3大模型並宣佈開源，該模型總引數量達2.8萬億，對算力基礎設施提出了極高要求。而不到一天之內的時間，多家國產算力平臺就宣佈已完成適配。“十五五”規劃明確提出加強算力設施支撐，加快培育自主可控、協同執行的軟硬體生態。隨著智慧體快速興起、詞元經濟成形、各行各業加速智慧化轉型，國產算力迎來跨越發展週期的結構性機遇。(央視)"
+    },
+    {
+      "id": "5067499",
+      "time": "2026-08-31 07:44:18",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【市場臆測沃什9月升息 債券投資者仍心存疑慮】市場揣測美聯儲主席凱文·沃什準備提高利率之際，ABN AMRO Investment Solutions和Brandywine Global Investment Management等公司的債券投資者卻持懷疑態度。沃什上週五發表了一場備受矚目的演講，重申了他降低通脹的決心後，掉期交易員認為，在該央行9月中旬下一次決策會議中，升息的可能性超過不升息。儘管最終決定很大程度上取決於本週將公佈的就業資料以及之後的通脹資料，但對政策敏感的2年期美國國債收益率大幅攀升，創逾兩個月來最大漲幅。對ABN AMRO的Christophe Boucher而言，沃什的言論還不足以讓他相信決策官員最終會採取行動。他目前避開長天期債券，因為一旦市場擔心美聯儲未能控制住通脹壓力，這類債券尤其容易受到衝擊。身為該公司投資長的Boucher表示，如果沃什這次不支援9月升息，而通脹屆時仍具黏性，那麼有關公信力的疑慮確實可能再度浮現。"
+    },
+    {
+      "id": "5067498",
+      "time": "2026-08-31 07:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：CIA局長訪俄提議舉行美俄烏三方峰會 】據美國阿克西奧斯新聞網站29日報道，美國中央情報局局長拉特克利夫日前訪問俄羅斯時，提議舉行由美國總統特朗普、俄羅斯總統普京和烏克蘭總統澤連斯基參加的三方會晤，以推動結束俄烏戰事。 報道援引兩名知情人士的話說，拉特克利夫此次訪俄的目的之一，是評估俄情報部門負責人能否說服普京同意恢復由美國斡旋的俄烏談判。 報道說，拉特克利夫25日突訪俄羅斯，分別會見俄羅斯對外情報局局長謝爾蓋·納雷什金和聯邦安全域性局長亞歷山大·博爾特尼科夫，並向俄方提議重啟和平談判。澤連斯基28日透過美方官員得知拉特克利夫訪俄情況及有關舉行三方會晤的提議。 特朗普政府此前提出舉行美俄烏領導人三方會晤。澤連斯基表示願意參加，但普京拒絕這一提議。（新華社）"
+    },
+    {
+      "id": "5067497",
+      "time": "2026-08-31 07:40:44",
+      "tags": [
+        "央行",
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國財政部拒絕向部分主要媒體發放G20財長峰會採訪證】在全球市場波動和美伊衝突的背景下，美國財政部未批准彭博新聞社和《華爾街日報》等多家媒體記者報道本週在北卡羅來納州阿什維爾舉行的二十國集團(G20)財長峰會。對於為何拒絕大量有關此次經濟政策領導人和央行行長峰會的媒體准入申請，美國財政部沒有作出解釋。美國財政部長斯科特·貝森特週日接受美聯社採訪時表示，“這與觀點無關”。"
+    },
+    {
+      "id": "5067496",
+      "time": "2026-08-31 07:39:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【網易 CC 直播今日正式停運，產品伺服器、官網將同步關閉】根據網易此前公告，CC 直播將與於8月31日 15:00 正式終止運營。目前全平臺下載入口和充值渠道已關閉，玩家賬號內未使用的充值 C 券和金錠可按比例兌換為網易通用點數。"
+    },
+    {
+      "id": "5067495",
+      "time": "2026-08-31 07:39:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱，颶風卡琳娜迅速增強為大型颶風。"
+    },
+    {
+      "id": "5067494",
+      "time": "2026-08-31 07:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥格理：將比亞迪電子評級上調至跑贏大盤，目標價29.22港元。"
+    },
+    {
+      "id": "5067493",
+      "time": "2026-08-31 07:35:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "曹操出行(02643)釋出公告，於2026年8月28日，該公司斥資427.68萬港元回購30萬股。"
+    },
+    {
+      "id": "5067492",
+      "time": "2026-08-31 07:33:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【盈利投資者數量佔比資料出爐 知名基金經理幾乎實現全部持有人盈利】2026年基金半年報陸續披露，公募行業全新評價指標——過去一年盈利投資者數量佔比資料不斷出爐。該指標打破了過往僅以基金淨值收益率評判產品優劣的單一正規化，直面基民真實投資獲得感。據Wind資料，截至8月30日，已有2030只基金披露資料，其中1081只基金近一年（2025年7月1日至2026年6月30日)盈利投資者數量佔比達到90%以上，224只不足30%，不同產品之間差異明顯。從基金管理人維度來看，多隻頭部明星基金經理旗下產品延續穩健表現，持有人盈利水平較高。根據已披露的2026年基金半年報資料，睿遠基金傅鵬博、趙楓，廣發基金李巍，華夏基金屠環宇，鵬華基金陳璇淼，大成基金張天聞等業內知名基金經理的核心產品，盈利投資者數量佔比均突破99%，幾乎實現全部持有人盈利，長期投資價值與持有人陪伴能力得到市場驗證。其中，銀華基金方建管理的銀華惠享三年定開混合表現尤為亮眼，盈利投資者數量佔比高達100%，躋身全市場主動權益基金第一梯隊。同時，其管理的半導體、科技主題類產品，盈利投資者數量佔比也穩定在85%—92%的高位區間，在波動較大的科技賽道中，依舊為絕大多數持有人創造了正向收益。知名基金經理傅鵬博、朱璘管理的睿遠成長價值和趙楓管理的睿遠均衡價值三年持有盈利投資者佔比分別達99.68%、99.04%。"
+    },
+    {
+      "id": "5067491",
+      "time": "2026-08-31 07:33:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受“沙德爾”殘餘環流影響 本週這些地方仍有大到暴雨】中國氣象局氣象分析師唐曉靜介紹，本週我國的降雨重心將位於華東到華南地區，從週一到週五前後受到“沙德爾”的殘餘環流和季風氣流以及冷空氣等多個天氣系統的共同影響。我國華東華南地區將多強降雨天氣，降雨的持續時間長，部分地區的累計雨量比較大，其中從週一到週三在安徽、江蘇、浙江、福建以及海南等地將是強降雨的核心區域，多地將持續遭遇大到暴雨，甚至是大暴雨天氣，要警惕強降雨可能誘發的山洪、滑坡、泥石流等次生災害，謹慎前往山區河谷等地質災害易發區。（央視）"
+    },
+    {
+      "id": "mkt:01a05505-3a15-7118-8403-dc2976b06e95",
+      "time": "2026-08-31 07:33:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "U.S. tech reporter Gurman says Apple's Vision Pro layoffs extend beyond video and gaming to multiple company departments, including device security, audio engineering, Siri integration, testing and product OS staff."
+    },
+    {
+      "id": "mkt:01a05505-2284-7118-8403-d6189da49bf9",
+      "time": "2026-08-31 07:33:14",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "US tech reporter Gurman said AirPods and cameras in planned home-security devices will not record viewable video; they will instead transmit data to an AI system for analysis of the surrounding environment."
+    },
+    {
+      "id": "5067490",
+      "time": "2026-08-31 07:32:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌1075點，報65460點。"
+    },
+    {
+      "id": "5067489",
+      "time": "2026-08-31 07:31:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊藤忠商事：對電通綜合研究所股份的收購要約今日啟動。"
+    },
+    {
+      "id": "5067488",
+      "time": "2026-08-31 07:31:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "受油價上漲影響，標普500指數期貨下跌0.3%。"
+    },
+    {
+      "id": "5067487",
+      "time": "2026-08-31 07:31:16",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：2026H1黑電和麵板行業結構升級，中國品牌高階化加速】中信建投研報指出，2026H1全球電視需求溫和復甦，區域分化顯著，歐美弱復甦、新興市場高增，國記憶體量收縮依靠結構升級。面板端呈現量降面積增趨勢，平均尺寸提升，中國大陸廠商市佔率超70%，京東方、TCL華星雙寡頭主導。競爭格局向頭部集中，中韓品牌分化加劇，TCL、海信憑藉高階化與全球化實現份額盈利雙升。產品端大屏化、MiniLED放量，中國品牌佔據先發優勢。面板價格Q3回落緩解成本壓力，中長期中國面板廠商和黑電品牌份額與利潤率仍有提升空間。"
+    },
+    {
+      "id": "5067486",
+      "time": "2026-08-31 07:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦軍隊：攔截8枚侵入約旦領空的導彈。我們已妥善應對襲擊，併成功在導彈構成任何威脅之前將其摧毀。"
+    },
+    {
+      "id": "5067485",
+      "time": "2026-08-31 07:29:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：庫存繼續去化，鋰有望從遠期預期定價走向短期基本面定價】中信建投研報指出，鋰供應端緊現實與寬預期之間反覆，持續擾動市場情緒，江西鋰礦復產進度仍是關鍵變數，縱然津巴鋰礦陸續到港，但原料端依然緊張，產量恢復有限。需求端保持穩定，下游材料廠延續逢低剛需採購，部分已開始為9月備庫，15萬元/噸以下位置後點價平倉和剛需備庫積極性較高，“金九銀十”傳統旺季預期下，現貨採購量有望持續走強。市場庫存持續呈現去化態勢，據SMM，本週大樣本庫存7.88萬噸，繼續去化0.76萬噸，且已經呈現連續9周加速去庫態勢。9月下游排產繼續走高，低庫存態勢將維持，隨著消費旺季到來，鋰價或從遠期預期定價逐步走向近期基本面定價，看好旺季下鋰價表現。"
+    },
+    {
+      "id": "mkt:01a05501-a920-7118-8403-cafa7ef29de6",
+      "time": "2026-08-31 07:29:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Jordan's military said it intercepted eight missiles that entered Jordanian airspace."
+    },
+    {
+      "id": "5067484",
+      "time": "2026-08-31 07:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創新出海雙向提速 醫藥企業半年報釋放回暖訊號】據中國證券報，Wind資料顯示，截至8月30日22時50分，A股共有508家醫藥上市公司披露2026年半年報，191家公司實現歸母淨利潤同比增長，其中40家歸母淨利潤同比增長超100%。分析人士認為，醫藥景氣新週期背景下，國內創新藥產業鏈加速崛起。近年國家多舉措全鏈條支援創新藥發展，疊加人才儲備和研發效率等多維優勢，我國創新藥企逐步具備全球競爭力。與此同時，部分跨國藥企陸續面臨“專利懸崖”困境，對外採購和擴充創新管線需求與日俱增，國內創新藥企順勢而為，以海外授權等商務拓展（BD）形式實現創新出海，該領域有望開啟新一輪高景氣週期。"
+    },
+    {
+      "id": "mkt:01a05500-ab69-7118-8403-c7256fd4756d",
+      "time": "2026-08-31 07:28:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it destroyed US facilities at two Jordan airbases】Early on Aug 31 local time, the Islamic Revolutionary Guard Corps (IRGC) said its Aerospace Force launched missiles in response to reported US and Israeli aggression against Iran's Larak Island, destroying technical and maintenance infrastructure at two US airbases in Jordan and severely damaging fighter positions. The IRGC warned enemy attacks cannot weaken Iran's control of the Strait of Hormuz and that each strike will be met with stronger retaliation."
+    },
+    {
+      "id": "5067482",
+      "time": "2026-08-31 07:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國稱獲得委內瑞拉650億桶石油儲量“多數控制權”，遭質疑：美國就是資源掠奪者】當地時間28日，美國總統特朗普宣佈，美委兩國達成協議，美國獲得對委內瑞拉已探明石油儲量中逾650億桶的“多數控制權”。一天之後，委內瑞拉代總統羅德里格斯證實了這一訊息。今日俄羅斯電視臺稱，在今年1月美國強行控制委內瑞拉總統馬杜羅之後，該協議標誌著美國對委龐大石油財富控制的又一次升級。美國民主黨眾議員羅希特·康納批評稱，美國政府的外交政策讓歷史倒退了100年，回到了那個“強權即公理”的“炮艦外交”時代。（環球時報）"
+    },
+    {
+      "id": "5067481",
+      "time": "2026-08-31 07:26:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【近半數上市銀行淨息差企穩回升 低利率環境下從“賣產品”轉變為“做配置”】目前，A股42家上市銀行已全部披露2026年半年報。證券時報記者梳理財報發現，受宏觀經濟環境變化、息差持續收窄等因素影響，上市銀行業績整體呈現韌性與分化並存的特徵。值得關注的是，在全行業壓降負債成本、最佳化信貸定價策略的推動下，近半數上市銀行淨息差出現企穩回升跡象，經營層面的拐點逐步顯現。證券時報記者梳理的資料顯示，部分銀行中間業務逆勢大幅增長。例如，寧波銀行手續費及佣金淨收入同比大增53.90%；常熟銀行、青島銀行和蘇農銀行也分別實現了39.15%、32.66%和30.8%的高速增長。國泰海通證券研究團隊認為，中間業務與其他非息收入的分化，是當前上市銀行營收結構的重要特徵。與之形成鮮明對比的是，部分銀行中間業務收入大幅滑坡。西安銀行該項指標同比驟降42.35%，長沙銀行、南京銀行和鄭州銀行的降幅也分別達18.55%、18.50%和17.32%。這種顯著分化反映了各家銀行在財富管理轉型和綜合金融服務能力上的差距。面對居民資產配置結構的變化，能否抓住財富管理主線，直接決定了非息業務的表現。郵儲銀行副行長徐學明表示，在低利率環境下，居民多元理財和資產配置需求持續釋放，誰能真正從“賣產品”轉變為“做配置”，誰就能在財富市場競爭中脫穎而出。"
+    },
+    {
+      "id": "5067480",
+      "time": "2026-08-31 07:26:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【怡安集團接近達成170億美元交易，擬從KKR手中收購保險經紀商USI】據媒體報道，怡安集團 (Aon)  即將達成一筆含債務在內規模約170億美元的交易，擬從私募股權公司KKR手中收購保險經紀商USI。該報援引知情人士訊息稱，這筆交易最快可能於週一公佈。USI是一家總部位於紐約州瓦爾哈拉的保險經紀與諮詢企業，主營風險管理、員工福利以及退休諮詢業務。其官網資料顯示，公司年收入約30億美元。KKR於2017年從私募股權公司Onex手中收購USI，此後不斷增持股權，並在2023年成為該公司最大股東。"
+    },
+    {
+      "id": "5067479",
+      "time": "2026-08-31 07:26:03",
+      "tags": [
+        "行業"
+      ],
+      "text": "【五大上市險企上半年淨利增近八成 持續加碼權益資產】A股上市險企半年報已披露完畢，多家險企盈利創下歷史新高。2026年上半年，中國人壽、中國平安、中國人保、中國太保、新華保險五大A股上市險企合計實現歸母淨利潤3173.87億元，增長78.12%（同比，下同），增長了1391.95億元。這五家險企合計淨利潤增幅，在去年同期高基數的基礎上再創新高。值得注意的是，上市險企持續加碼權益資產，截至二季度末，五家險企股票類資產合計餘額達2.82萬億元。"
+    },
+    {
+      "id": "5067478",
+      "time": "2026-08-31 07:24:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上市券商上半年淨利增近50% 自營業務收入是第一大收入來源】2026年上半年一、二級市場回暖，上市券商業績如何實現進一步突破，受市場關注。與此同時，海外市場波動明顯加劇，能否在震盪行情下捕捉結構性機會，對券商的投資與資產配置能力形成考驗。據證券時報記者統計，43家上市券商合計實現營業收入3647.10億元，增長44.8%（同比，下同）；歸母淨利潤合計突破1500億元，達1556.40億元，增長近50%。行業強者恆強，頭部券商盈利能力再上新臺階，前十券商座次競爭尤為激烈。自營業務收入是上市券商第一大收入來源，合計收入超1600億元，增逾55%，顯著高於其餘業務。部分券商抓住科技板塊結構性行情，斬獲亮眼業績。"
+    },
+    {
+      "id": "5067477",
+      "time": "2026-08-31 07:23:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉隆口岸訊號搶通 新堰塞湖基本排空 受災核心區將進行深層次搜尋】記者從西藏自治區通訊管理局瞭解到，吉隆口岸首個緊鄰國門的應急基站開通投用。通訊搶修人員透過新建的基站與在口岸的救援隊員完成通話。截至30日20時37分，西藏電信企業已搶通修復1個基站，新增9個基站。接下來通訊網路訊號會進一步最佳化，爭取儘快完成口岸整個區域訊號全覆蓋。（央視）"
+    },
+    {
+      "id": "5067476",
+      "time": "2026-08-31 07:23:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果公司據悉正測試摺疊屏iPhone專用手寫筆】當地時間8月30日，科技記者馬克·古爾曼發文稱，蘋果已在內部開發、測試並考慮為即將推出的摺疊屏iPhone配備專用Apple Pencil，但目前來看，該配件不太可能與新機同步上市。蘋果測試的手寫筆原型比iPad所用版本更短，以適應手機獨特的機身尺寸，並可透過磁吸方式固定在手機側面，同時實現收納和充電。不過，摺疊屏設計給手寫筆的使用帶來挑戰。手寫筆吸附在手機側面後，使用者展開裝置時可能影響操作；此外，摺疊螢幕較為脆弱，筆尖與螢幕接觸可能留下明顯痕跡。蘋果因此仍在權衡是否推出這一配件。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608313859564961",
+      "time": "2026-08-31 07:23:15",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【貝森特：預計日本央行行長植田和男在貨幣政策上“會做正確的事”】美國財政部長貝森特表示，預計日本央行行長植田和男在貨幣政策上“會做正確的事”。近期日元的走勢“控制得相當好”。"
+    },
+    {
+      "id": "5067475",
+      "time": "2026-08-31 07:22:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滬市公司上半年扣非淨利潤增速創四年新高】8月30日晚，滬市上市公司2026年半年報披露完畢。資料顯示，滬市公司營收淨利實現雙增長，呈現出動能向新、結構向優的穩健發展態勢。2026年上半年，2318家滬市公司合計實現營業收入26.22萬億元，同比增長6.3%；實現淨利潤2.82萬億元，同比增長17.6%；實現扣非淨利潤2.69萬億元，同比增長17.2%，增速創2022年以來新高。近八成公司實現盈利，其中，924家淨利潤同比增長，339家淨利潤增幅超50%，142家扭虧為盈。藍籌公司繼續發揮“壓艙石”作用，上證180公司實現營業收入17.87萬億元、淨利潤2.36萬億元，同比分別增長6.9%、14.8%。"
+    },
+    {
+      "id": "5067474",
+      "time": "2026-08-31 07:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍空襲伊朗拉臘克島火箭裝置 】據多家美國媒體30日報道，美軍當天打擊了位於霍爾木茲海峽附近伊朗拉臘克島上的兩個火箭發射裝置。美媒援引美軍官員的話報道，當時伊朗伊斯蘭革命衛隊人員正準備利用這些發射裝置向霍爾木茲海峽佈雷。此次行動是美軍一個月來首次對伊朗目標實施軍事打擊。稍早時候，伊朗法爾斯通訊社報道稱，拉臘克島附近30日晚傳出爆炸聲。伊朗伊斯蘭革命衛隊隨後透過伊朗媒體發表宣告，稱襲擊造成數名武裝人員和平民死傷，並表示將對襲擊作出回應。（新華社）"
+    },
+    {
+      "id": "5067473",
+      "time": "2026-08-31 07:20:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超八百家公司計劃中期分紅】A股2026年半年度報告披露工作衝刺收官，上市公司中期利潤分配預案密集出爐。在監管常態化引導、上市公司盈利韌性凸顯、現金流持續改善的多重加持下，A股中期分紅熱度持續升溫。截至8月30日22時50分，A股已有856家上市公司披露了2026年中期分紅計劃，總體計劃分紅規模達到7166億元。 業內人士分析，A股上市公司常態化分紅、中期分紅、高比例分紅的生態持續成型，切實以穩健經營成果回饋廣大中小投資者與機構股東。（中證報）"
+    },
+    {
+      "id": "5067472",
+      "time": "2026-08-31 07:19:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軍工企業骨幹遭圍獵 為兩國境外間諜提供敏感資料 細節披露】國家安全部今天釋出安全提示文章。涉外酒會上的“知音”、簽證處的“解圍人”，這些看似偶遇的“貴人”，實則是“披著羊皮的狼”。張某，這位本應前途無量的軍工貿易公司業務骨幹，正是在這些“貴人”的溫柔攻勢下，一步步滑向為兩國間諜情報機關服務的深淵。法網恢恢，疏而不漏。國家安全機關偵查發現張某與兩個國家的境外間諜情報機關的勾連情況，依法對張某實施抓捕。到案後，張某對自己的犯罪事實供認不諱。目前，案件正在進一步辦理中，但等待張某的必將是法律的嚴懲。（央視）"
+    },
+    {
+      "id": "5067471",
+      "time": "2026-08-31 07:18:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外媒：美國驅逐英國極右翼評論員】英美多家媒體報道稱，美國官方人員於上週六披露，極右翼政治評論員、支援驅逐移民的米洛·揚諾普洛斯於當地時間28日被驅逐出境；此前一天，他因簽證逾期滯留被移民部門逮捕。英國廣播公司（BBC）29日稱，揚諾普洛斯自詡為話題煽動者，他曾稱自己是“網際網路上最耀眼的超級反派”，主張美國實施更嚴苛的移民管控；批評者則認為他大肆傳播仇恨言論。（環球網）"
+    },
+    {
+      "id": "5067470",
+      "time": "2026-08-31 07:17:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大額BD交易“扮靚”上半年成績單 AI製藥行業邁向商業價值兌現】2026年上半年，AI製藥行業景氣度顯著提升，商業化程序明顯加快。港股AI製藥“三小龍”上半年業績整體向好：英矽智慧扭虧為盈；劑泰科技營收大幅增長、經調整淨虧損顯著收窄；晶泰科技AI4S（科學智慧）業務大幅增長。另據Choice資料，截至8月30日，已公佈半年度業績的73家A股AI製藥（醫療）概念股中，超過五成公司淨利潤實現同比增長，AI製藥行業加速從技術探索邁向商業價值兌現。從半年報來看，AI製藥行業景氣度顯著提升，其中大額BD（商務拓展）頻現成為上市公司業績增長的重要驅動力。（上海證券報）"
+    },
+    {
+      "id": "5067469",
+      "time": "2026-08-31 07:17:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、為推動構建上海合作組織命運共同體注入新動力\n2、不斷釋放上合組織合作潛力\n3、中國—埃及媒體高質量共建“一帶一路”聯合採訪成果分享會在開羅舉行\n4、長三角持續深化協同創新\n5、中吉烏鐵路吉爾吉斯斯坦境內段建設全面推進——打造共建“一帶一路”合作新的示範專案\n6、國家衛生健康委等規範醫療機構特醫食品使用管理\n7、今年以來中老鐵路商品汽車發運量同比增長近6倍\n8、甘肅智慧農業AI服務系統上線\n9、資料要素築基，人工智慧加速落地應用——2026中國國際大資料產業博覽會觀察\n10、以有效投資支撐經濟社會高質量發展 多部門聯合部署做好穩投資工作\n11、全國一體化算力網加快構建 20餘家算力排程主體入駐\n12、2030年我國將基本建成現代農產品產地市場體系\n13、黑龍江向企業發放首批算力券\n14、重慶自貿試驗區——“物理聯通”邁向“規則銜接”\n15、市場監管總局釋出《壟斷協議個人責任適用指引（徵求意見稿）》\n有助於鎖定完整壟斷違法鏈條，實現穿透到底、追責到人\n16、武契奇出席中塞合作人形機器人工廠量產儀式\n17、甘肅出臺穩崗擴容提質行動實施方案\n18、銀行該不該午休?\n19、近66億條信用資訊帶來什麼——“信用浙江”建設觀察\n20、築牢“關鍵底座”，推動算力經濟高質量發展"
+    },
+    {
+      "id": "5067468",
+      "time": "2026-08-31 07:16:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國道216線受泥石流災害衝擊通行中斷 搶通工作持續進行中】8月26日上午，因尼泊爾一側發生泥石流災害，造成西藏日喀則市吉隆縣吉隆口岸重大人員傷亡、失聯。截至29日18時，災害已造成16人遇難、546人失聯。目前，搶險救援救災各項工作仍在緊張有序推進。受泥石流災害衝擊，國道216線道路通行中斷。為了讓更多救援力量和大型機械能夠深入受災核心區作業，昨天，搶險隊伍已打通損毀的216國道首個S彎道的兩個拐點，累計拓寬道路230多米。今天的道路搶通工作還將持續：一是加大翻渣掏料、填築大塊石料力度，加快進佔，全力推進道路搶通；二是持續做好失聯人員搜救相關工作；三是強化現場監測預警和安全管理，嚴格落實臨水作業防護措施，確保搶險作業安全；四是加強與聯合指揮部等部門聯動，科學研判上游水情，動態最佳化處置方案，並增加裝置及人員投入，力爭早日打通救援通道。（央視）"
+    },
+    {
+      "id": "te:markets:579278",
+      "time": "2026-08-31 07:15:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises as US Strikes Iranian Rocket Launchers — Brent crude climbed toward $90 per barrel on Monday, starting the week higher after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz, marking the first such attack in more than a month. US forces also said they are closely monitoring the waterway and remain prepared to safeguard the free flow of commerce. The US last launched missiles at Iranian targets in late July but has since shifted its focus toward squeezing the country’s economy through sanctions to push Tehran back to the negotiating table. An Iranian official said Friday that resuming diplomacy with the US “isn’t impossible” following constructive discussions with Qatar, a mediator in the conflict. Meanwhile, reports indicated that around 6 to 8 million barrels of crude are still flowing through Hormuz each day despite the absence of a peace agreement between Washington and Tehran."
+    },
+    {
+      "id": "te:markets:579277",
+      "time": "2026-08-31 07:15:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rises as US Strikes Iranian Rocket Launchers — Crude oil climbed toward $85 per barrel on Monday, starting the week higher after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz, marking the first such attack in more than a month. US forces also said they are closely monitoring the waterway and remain prepared to safeguard the free flow of commerce. The US last launched missiles at Iranian targets in late July but has since shifted its focus toward squeezing the country’s economy through sanctions to push Tehran back to the negotiating table. An Iranian official said Friday that resuming diplomacy with the US “isn’t impossible” following constructive discussions with Qatar, a mediator in the conflict. Meanwhile, reports indicated that around 6 to 8 million barrels of crude are still flowing through Hormuz each day despite the absence of a peace agreement between Washington and Tehran."
+    },
+    {
+      "id": "5067467",
+      "time": "2026-08-31 07:15:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浦江中國：擬佈局AI Token Economy新業務】浦江中國（01417.HK）釋出自願公告，公司董事會決定在持續發展現有物業管理服務、商業樓宇租賃、餐飲及城鎮環衛等主營業務的同時，拓展人工智慧基礎設施新業務，逐步構建以AIToken生產及AIToken分發為核心的AITokenEconomy業務體系。為此，集團已設立中間控股公司TokenVerseHoldingsLimited，並將透過境內實體上海詞元萬相資訊科技有限公司在中國境內開展相關業務。"
+    },
+    {
+      "id": "5067466",
+      "time": "2026-08-31 07:14:31",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【貝森特：期待日本央行在政策上 “做出正確抉擇”】媒體援引一則採訪報道稱，美國財政部長斯科特・貝森特表示，他期待日本央行行長植田和男在貨幣政策方面 “做出正確抉擇”。貝森特稱，日元近期的波動 “得到了相當有效的控制”。“我想說，我確實認為安倍經濟學這一通脹刺激計劃或許已經走到了盡頭。”"
+    },
+    {
+      "id": "te:economy:579276",
+      "time": "2026-08-31 07:13:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "South Korea Retail Sales Decline in July — Retail sales in South Korea declined by 2.4% month-over-month in July 2026, reversing a 2.7% increase in the previous month. The decrease was largely driven by lower sales of durable goods, particularly passenger cars and home appliances. On a year-on-year basis, retail activity dropped by 0.8% in July, slipping from a downwardly revised 3.9% rise in the preceding period. As a key gauge of private consumption, the latest figures suggest household spending lost momentum at the start of the third quarter, pointing to weaker domestic demand and could weigh on economic growth."
+    },
+    {
+      "id": "5067464",
+      "time": "2026-08-31 07:12:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱摧毀位於約旦的美軍基地相關基礎設施】當地時間8月31日，伊朗伊斯蘭革命衛隊發表宣告稱，幾分鐘前，為回應美國和以色列敵人對伊朗拉臘克島的侵略，伊朗伊斯蘭革命衛隊航空航天部隊發射導彈和無人機，摧毀了位於約旦境內的兩處美軍空軍基地中的技術和維護基礎設施，並對敵方的戰鬥機陣地造成嚴重破壞。伊朗伊斯蘭革命衛隊警告稱，敵人的侵略和犯罪行為無法削弱伊朗對霍爾木茲海峽的控制權，每一次攻擊都將遭到伊朗更加猛烈的回擊。（央視）"
+    },
+    {
+      "id": "5067463",
+      "time": "2026-08-31 07:11:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤永珍生活釋出中期業績 股東應占利潤為22.39億元 同比增長10.3%】華潤永珍生活(01209)釋出截至2026年6月30日止6個月的中期業績，集團錄得收入人民幣92.17億元，較過往期間增長8.1%。其中於集團的業務板塊中，商業航道業務收入為人民幣36.99億元，較過往期間增長13.2%;物業航道業務收入為人民幣53.30億元，較過往期間增長3.4%;及生態圈業務收入為人民幣1.88億元，較過往期間增長87.8%。集團毛利潤為人民幣35.07億元，較過往期間增長10.8%。毛利率從過往期間的37.1%提高至截至2026年6月30日止六個月的38.0%。股東應占利潤為人民幣22.39億元，同比增長10.3%。股東應占核心淨利潤(非香港財務報告會計準則計量)達到人民幣22.29億元，同比增長10.8%。"
+    },
+    {
+      "id": "5067462",
+      "time": "2026-08-31 07:11:16",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、離京出席2026年上海合作組織峰會並對吉爾吉斯斯坦、埃及進行國事訪問 習近平抵達比什凱克\n2、《平“語”近人——習近平喜歡的典故》（多語種版）在上合組織國家媒體播出\n3、汲取思想偉力 開啟奮進新程——廣大黨員、幹部深學細悟《習近平黨建文選》第一卷、第二卷\n4、長三角持續深化協同創新\n5、重慶自貿試驗區——“物理聯通”邁向“規則銜接”\n6、前7月規上工業企業利潤同比增長17.6%\n7、前7月全國社會物流總額同比增長5.0%\n8、導讀"
+    },
+    {
+      "id": "5067461",
+      "time": "2026-08-31 07:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【詞元消耗量爆發式增長 銀行AI應用全面落地】隨著AI在銀行經營全鏈條中的嵌入日益加深，Token（詞元）消耗量正成為彰顯AI應用規模與活躍度的關鍵量化指標，出現在上市銀行的半年報中。從工商銀行、招商銀行、平安銀行等披露的資料來看，銀行業AI應用已從技術探索走向全面落地。隨著應用場景的向實入深，Token消耗量呈爆發式增長，反映大模型已從“試點嚐鮮”進入“高頻生產使用”階段。（上海證券報）"
+    },
+    {
+      "id": "5067460",
+      "time": "2026-08-31 07:10:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海工企業集中亮相挪威ONS能源展】中國船舶工業行業協會訊息，2026年8月23日至27日，全球能源與海工領域盛會ONS能源展（Offshore Northern Seas）在挪威斯塔萬格隆重舉行。本屆展會共吸引全球上千家展商、七萬餘名觀眾參展。受挪威國家能源商會邀請，中國船舶工業行業協會副會長兼秘書長李彥慶一行出席開幕式、中國海工企業專場對接會、企業交流等系列活動。中國船舶工業行業協會多家會員單位，以及國內海工產業鏈上下游70餘家企業集中登場亮相。"
+    },
+    {
+      "id": "5067459",
+      "time": "2026-08-31 07:09:48",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【境外業務收入和回報大幅增長 券商業績“第三極” 悄然成型】隨著半年報陸續披露，一個訊號越來越清晰——繼經紀、自營之後，境外業務已成為頭部券商業績增長的“第三極”。從已披露的資料看，中信證券、中金公司、華泰證券等頭部機構的境外平臺收入、利潤及資產規模均實現快速增長，跨境投行、交易及機構服務等業務加速拓展。業內人士認為，隨著中國企業“走出去”和國際資本“引進來”需求持續增長，中資券商國際業務正由牌照和網點佈局的競爭，轉向資本實力、全球網路與綜合服務能力的競爭。（上海證券報）"
+    },
+    {
+      "id": "te:economy:579275",
+      "time": "2026-08-31 07:09:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "South Korea Industrial Output Growth Eases to 0.2% — South Korea’s industrial production increased 0.2% month-on-month in July 2026, easing sharply from an upwardly revised 6.7% rise in June. It was the second consecutive month of growth in industrial production, though the pace slowed sharply from the strongest growth since February 2009, recorded in June, with manufacturing growth slowing sharply (0.2% vs 7.0% in June), supported by the electronic component segment. Manufacturing production eased for both domestic (1.1% vs 3.9%) and overseas (3.1% vs 5.1%) demand. Meanwhile, services activity fell 1.3%, reversing a 0.9% increase in the previous month. On an annual basis, industrial production rose 3.6% in July, after an upwardly revised 6.0% surge in June, marking the second consecutive month of increase."
+    },
+    {
+      "id": "5067458",
+      "time": "2026-08-31 07:08:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1461.42美元/盎司。"
+    },
+    {
+      "id": "5067457",
+      "time": "2026-08-31 07:08:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【從賺“通道錢”到賺“產業成長錢” 科創投資成上市券商“利潤放大器”】上市券商半年報顯示，行業盈利結構正在發生深刻變化。長久以來，券商收入高度依賴交易佣金、承銷保薦等通道類業務，隨著註冊制跟投、私募直投業務持續放量，來自科創企業成長的投資收益，正成為拉動券商業績的引擎。記者梳理發現，頭部券商依託股權投資、私募投資等前置佈局斬獲豐厚收益，部分中小券商亦實現利潤突圍。從單項收益的業務支點，到頂層設計的戰略佈局，再到三投聯動重構業務邏輯，券商正加速從賺“通道錢”向賺“產業成長錢”的正規化遷移。（上海證券報）"
+    },
+    {
+      "id": "5067456",
+      "time": "2026-08-31 07:08:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍逾一個月來首度打擊伊朗 稱革命衛隊準備在霍爾木茲海峽佈雷】在經歷了數週的相對平靜之後，美國軍方週日襲擊了伊朗準備向霍爾木茲海峽投放水雷的火箭發射裝置。美國中央司令部發言人Tim Hawkins表示，伊斯蘭革命衛隊部隊正準備利用火箭向該海峽投放水雷。美軍上週表示，已完成清除海峽航運路線上的水雷。霍爾木茲海峽曾是一條國際水道，全球五分之一的石油和液化天然氣經由此處運輸。Hawkins說：“美軍正在密切監控該地區，並隨時準備保護這條重要水道的商業自由流通。”這是美國一個多月來首次對伊朗採取軍事行動。美國總統唐納德·特朗普先前轉向採取施壓行動，試圖擠壓伊朗的經濟。美國上一次向伊朗目標發射導彈是在7月底。此後，特朗普政府一直計劃展開一場經濟施壓行動，藉由擠壓伊朗經濟，迫使其回到談判桌前。"
+    },
+    {
+      "id": "te:markets:579274",
+      "time": "2026-08-31 07:06:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Turkey",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Turkish Lira Hits All-time Low — USDTRY increased to an all-time high of 48.34. Over the past 4 weeks, US Dollar Turkish Lira gained 1.75%, and in the last 12 months, it increased 17.67%."
+    },
+    {
+      "id": "5067455",
+      "time": "2026-08-31 07:06:15",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特：預計日本央行將做出“正確決定”。"
+    },
+    {
+      "id": "5067454",
+      "time": "2026-08-31 07:06:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特稱，近期日元走勢“相當可控”。"
+    },
+    {
+      "id": "5067453",
+      "time": "2026-08-31 07:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Radiant World風險發酵，嘉能可據悉計提4.8億美元撥備】8月31日訊息，據報道，嘉能可就其對鐵礦石貿易商Radiant World的敞口計提約4.8億美元撥備。Radiant World目前因涉嫌向銀行提供偽造檔案而陷入困境。"
+    },
+    {
+      "id": "5067452",
+      "time": "2026-08-31 07:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重研發強“內功”，頭部企業加碼培育創新動能】Wind資料顯示，截至8月30日22時，A股共有5550家上市公司披露2026年半年報。整體來看，A股上市公司研發投入規模與強度持續保持高位，研發投入超8100億元，研發強度達2.25%。科技敘事主線愈發清晰，新質生產力加快培育，頭部企業持續加碼技術創新，成為驅動產業升級的關鍵力量。不少龍頭公司研發投入遠高於同期淨利潤，以高強度研發投入加速技術成果轉化，構築長期競爭力。從“拼規模”到“拼技術”，從“拼儲備”到“拼創新”，A股頭部企業的研發投入圖譜日漸清晰。（中證報）"
+    },
+    {
+      "id": "5067451",
+      "time": "2026-08-31 07:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優地機器人：擬全球發售4500萬股H股】8月31日早間，優地機器人在港交所公告，公司擬全球發售45,000,000股H股，香港發售股份2,250,000股H股，國際發售股份42,750,000股H股；發售價不超每股19.55港元；預期股份將於2026年9月9日開始在香港聯交所買賣。"
+    },
     {
       "id": "5067450",
       "time": "2026-08-31 07:03:02",
