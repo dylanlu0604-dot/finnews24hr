@@ -1,7 +1,23 @@
 {
   "date": "2026-09-01",
-  "count": 107,
+  "count": 109,
   "items": [
+    {
+      "id": "5069357",
+      "time": "2026-09-01 01:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，熱帶低壓已在墨西哥灣北部生成，德克薩斯州上部及路易斯安那州西南部部分海岸已生效熱帶風暴預警。"
+    },
+    {
+      "id": "mkt:01a058f2-1826-7118-841e-811d9c734dbe",
+      "time": "2026-09-01 01:50:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Office of Iran's Supreme Leader said Iran will pardon, reduce sentences for, or re-sentence 2,577 convicts."
+    },
     {
       "id": "5069356",
       "time": "2026-09-01 01:48:54",

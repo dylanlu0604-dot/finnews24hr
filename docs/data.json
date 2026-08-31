@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-01 01:49:44",
-  "count": 13067,
+  "updated": "2026-09-01 01:53:51",
+  "count": 13068,
   "items": [
+    {
+      "id": "5069357",
+      "time": "2026-09-01 01:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，熱帶低壓已在墨西哥灣北部生成，德克薩斯州上部及路易斯安那州西南部部分海岸已生效熱帶風暴預警。"
+    },
+    {
+      "id": "mkt:01a058f2-1826-7118-841e-811d9c734dbe",
+      "time": "2026-09-01 01:50:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Office of Iran's Supreme Leader said Iran will pardon, reduce sentences for, or re-sentence 2,577 convicts."
+    },
     {
       "id": "5069356",
       "time": "2026-09-01 01:48:54",
@@ -119176,18 +119192,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧同德國外交部長通電話，討論了俄羅斯和烏克蘭問題，還討論了霍爾木茲海峽的航行自由問題。"
-    },
-    {
-      "id": "te:economy:577678",
-      "time": "2026-08-25 01:50:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Falls as Trade Risks Rise — The yield on Canada’s 10-year government bond fell to about 3.67% after touching a more than two-year high of 3.76% on August 21st, as a re-escalation in the trade war with the US put Canada’s economic recovery at risk. US President Donald Trump said tariffs on all Canadian cars, trucks, automotive parts and steel would rise to 50% on January 1, 2027. This came after Prime Minister Carney vowed to retaliate against the initial series of US tariffs imposed after trade talks fell through. Washington imposed 50% tariffs on furniture, plastics, plywood and electrical equipment, adding to existing 25% tariffs on steel, lumber and autos. Risks to growth from higher tariffs have reduced the case for a BoC rate hike this year. Growth is now expected to contract just as the economy has started to recover. In July, Canada added 75,000 jobs, while inflation edged up to 2.9%, largely due to gasoline prices rather than broad-based price pressures."
     }
   ]
 }
