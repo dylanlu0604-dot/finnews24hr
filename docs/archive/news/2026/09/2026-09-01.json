@@ -1,7 +1,64 @@
 {
   "date": "2026-09-01",
-  "count": 330,
+  "count": 336,
   "items": [
+    {
+      "id": "mkt:01a059e6-e22a-7118-8421-e4252a5fbd1c",
+      "time": "2026-09-01 06:18:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump urges bipartisan federal tax incentives to revive US film and TV production】President Trump urged Congress to pass bipartisan federal tax incentives to revive US film and television production, saying domestic production has shifted to Canada and other countries and US jobs have dwindled. He said industry proponents are pushing a federal production tax incentive that they estimate could generate more than 10x returns to the Treasury via increased tax receipts. Trump said he is arranging meetings with congressional leaders and called for immediate bipartisan legislation to restore entertainment-industry jobs, citing economic losses in California and other blue states."
+    },
+    {
+      "id": "5069491",
+      "time": "2026-09-01 06:18:08",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "英國財政部：英國國家犯罪局釋出全國警報，針對俄羅斯 A7 制裁規避網路。"
+    },
+    {
+      "id": "mkt:01a059e6-5cb5-7118-8421-dba1feebb7f6",
+      "time": "2026-09-01 06:17:44",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK Treasury: The National Crime Agency issued a national alert on an A7 network evading Russia sanctions; Chancellor Healy will raise the maximum fine for sanctions breaches to 100%."
+    },
+    {
+      "id": "5069490",
+      "time": "2026-09-01 06:17:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國財政部：英國財政大臣希利將違反制裁規定的最高罰款額度提升至原來的兩倍，即涉案金額的 100%。"
+    },
+    {
+      "id": "5069489",
+      "time": "2026-09-01 06:16:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【9月1日隔夜要聞一覽】\n1、路透與益普索聯合民調顯示，特朗普支援率為33%，創下其政治生涯最低紀錄。\n2、俄美財長在G20會議期間罕見會晤，討論雙邊金融合作。\n3、FTC起訴亞馬遜，指控其誤導廣告商。亞馬遜回應稱，定價方式並不存在損害消費者權益的情況，相關說法與事實相悖。\n4、特朗普：已排除對伊朗使用核武器的可能性。\n5、歡聚集團：更名為YYFORCE，納斯達克股票程式碼變更為YFOR，將於2026年9月2日正式生效。\n6、蘋果稱在針對OpenAI的商業秘密案件中，後者利用蘋果專有資訊訓練人工智慧智慧體。\n7、美國國防部週一宣佈，已將Grok和OpenAI的ChatGPT引入非機密軍事用途。\n8、一艘沙特油輪在霍爾木茲海峽南部航道遭到攔截。\n9、上週美國戰略石油儲備原油庫存減少約310萬桶，降至2.866億桶。"
+    },
+    {
+      "id": "te:markets:579671",
+      "time": "2026-09-01 06:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Rises by 0.60% — Top currency gainers are South Korean Won (0.60%), Polish Zloty (0.51%), Indian Rupee (0.39%), Euro (0.27%), Japanese Yen (0.19%) and British Pound (0.11%). Biggest loser is Dollar Index (-0.29%)."
+    },
     {
       "id": "5069488",
       "time": "2026-09-01 06:12:23",
