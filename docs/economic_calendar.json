@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-31 12:58:14",
+  "updated": "2026-08-31 18:16:05",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 456,
+  "count": 457,
   "history_summary": {
     "cached": 456,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,11 +18,11 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 256,
+      "count": 257,
       "dates": [
         {
           "date": "2026-08-31",
-          "count": 43,
+          "count": 44,
           "events": [
             {
               "id": "capital:1183347",
@@ -1138,8 +1138,8 @@
               "title": "日本7月新屋開工年率",
               "importance": 1,
               "previous": "18.6 %",
-              "forecast": "9 %",
-              "actual": "-- %",
+              "forecast": "7.8 %",
+              "actual": "8.19 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183361",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -1183,6 +1183,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-08-23 07:59:34"
+            },
+            {
+              "id": "capital:1185905",
+              "fid": "1185905",
+              "interval": "this_week",
+              "date": "2026-08-31",
+              "time": "13:00",
+              "datetime": "2026-08-31 13:00:00",
+              "display_time": "08/31 13:00",
+              "country": "日本",
+              "title": "日本7月營建訂單年率",
+              "importance": 1,
+              "previous": "2.3 %",
+              "forecast": "-- %",
+              "actual": "-13.4 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185905",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/31",
+                  "actual": "2.3",
+                  "forecast": "-",
+                  "previous": "-6.7"
+                },
+                {
+                  "date": "06/30",
+                  "actual": "-6.7",
+                  "forecast": "-",
+                  "previous": "-32.3"
+                },
+                {
+                  "date": "05/29",
+                  "actual": "-32.3",
+                  "forecast": "-",
+                  "previous": "-14.4"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-14.4",
+                  "forecast": "-",
+                  "previous": "42.7"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "42.7",
+                  "forecast": "-",
+                  "previous": "5.7"
+                },
+                {
+                  "date": "02/27",
+                  "actual": "5.7",
+                  "forecast": "-",
+                  "previous": "20.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-31 18:16:03"
             },
             {
               "id": "capital:1183362",
@@ -1253,10 +1311,10 @@
               "country": "西班牙",
               "title": "西班牙6月經常帳(億歐元)",
               "importance": 1,
-              "previous": "18",
+              "previous": "18.4",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "24.1",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183363",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -1313,7 +1371,7 @@
               "importance": 1,
               "previous": "2.6 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "5.5 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183366",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -1369,9 +1427,9 @@
               "country": "中國香港",
               "title": "中國香港7月零售銷售量年率",
               "importance": 1,
-              "previous": "2.3 %",
+              "previous": "2.2 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "2.3 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183365",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -1429,7 +1487,7 @@
               "importance": 1,
               "previous": "4.6 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "4.5 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183364",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27592,8 +27650,8 @@
       "title": "日本7月新屋開工年率",
       "importance": 1,
       "previous": "18.6 %",
-      "forecast": "9 %",
-      "actual": "-- %",
+      "forecast": "7.8 %",
+      "actual": "8.19 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183361",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27637,6 +27695,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-23 07:59:34"
+    },
+    {
+      "id": "capital:1185905",
+      "fid": "1185905",
+      "interval": "this_week",
+      "date": "2026-08-31",
+      "time": "13:00",
+      "datetime": "2026-08-31 13:00:00",
+      "display_time": "08/31 13:00",
+      "country": "日本",
+      "title": "日本7月營建訂單年率",
+      "importance": 1,
+      "previous": "2.3 %",
+      "forecast": "-- %",
+      "actual": "-13.4 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185905",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/31",
+          "actual": "2.3",
+          "forecast": "-",
+          "previous": "-6.7"
+        },
+        {
+          "date": "06/30",
+          "actual": "-6.7",
+          "forecast": "-",
+          "previous": "-32.3"
+        },
+        {
+          "date": "05/29",
+          "actual": "-32.3",
+          "forecast": "-",
+          "previous": "-14.4"
+        },
+        {
+          "date": "04/30",
+          "actual": "-14.4",
+          "forecast": "-",
+          "previous": "42.7"
+        },
+        {
+          "date": "03/31",
+          "actual": "42.7",
+          "forecast": "-",
+          "previous": "5.7"
+        },
+        {
+          "date": "02/27",
+          "actual": "5.7",
+          "forecast": "-",
+          "previous": "20.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-31 18:16:03"
     },
     {
       "id": "capital:1183362",
@@ -27707,10 +27823,10 @@
       "country": "西班牙",
       "title": "西班牙6月經常帳(億歐元)",
       "importance": 1,
-      "previous": "18",
+      "previous": "18.4",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "24.1",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183363",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -27767,7 +27883,7 @@
       "importance": 1,
       "previous": "2.6 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "5.5 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183366",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27823,9 +27939,9 @@
       "country": "中國香港",
       "title": "中國香港7月零售銷售量年率",
       "importance": 1,
-      "previous": "2.3 %",
+      "previous": "2.2 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "2.3 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183365",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -27883,7 +27999,7 @@
       "importance": 1,
       "previous": "4.6 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "4.5 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1183364",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
