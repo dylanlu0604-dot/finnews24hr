@@ -1,7 +1,64 @@
 {
   "date": "2026-09-01",
-  "count": 143,
+  "count": 148,
   "items": [
+    {
+      "id": "te:markets:579659",
+      "time": "2026-09-01 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.21% — Top crypto gainers are Ether (2.21%), XRP (1.74%) and Bitcoin (1.55%)."
+    },
+    {
+      "id": "5069379",
+      "time": "2026-09-01 02:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊在吉爾吉斯斯坦舉行的上合峰會首日會後表示，全部會晤與會談“務實高效，擺脫了常規的繁文縟節”，各方探討了經濟及其他領域可開展合作的議題與方向。"
+    },
+    {
+      "id": "mkt:01a05913-9785-7118-841e-ed136a33e791",
+      "time": "2026-09-01 02:27:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Court records show more than 20 U.S. states have joined the Federal Trade Commission's lawsuit against Amazon (AMZN.O)."
+    },
+    {
+      "id": "5069378",
+      "time": "2026-09-01 02:26:40",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "法庭檔案顯示，美國已有超過20個州加入了美國聯邦貿易委員會針對亞馬遜公司的訴訟。"
+    },
+    {
+      "id": "mkt:01a05912-a7a4-7118-841e-e0357efdf416",
+      "time": "2026-09-01 02:26:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Court records show the U.S. Federal Trade Commission filed suit against Amazon (AMZN.O)."
+    },
     {
       "id": "5069377",
       "time": "2026-09-01 02:25:45",

@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-01 02:26:44",
-  "count": 13075,
+  "updated": "2026-09-01 02:30:48",
+  "count": 13078,
   "items": [
+    {
+      "id": "te:markets:579659",
+      "time": "2026-09-01 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.21% — Top crypto gainers are Ether (2.21%), XRP (1.74%) and Bitcoin (1.55%)."
+    },
+    {
+      "id": "5069379",
+      "time": "2026-09-01 02:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊在吉爾吉斯斯坦舉行的上合峰會首日會後表示，全部會晤與會談“務實高效，擺脫了常規的繁文縟節”，各方探討了經濟及其他領域可開展合作的議題與方向。"
+    },
+    {
+      "id": "mkt:01a05913-9785-7118-841e-ed136a33e791",
+      "time": "2026-09-01 02:27:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Court records show more than 20 U.S. states have joined the Federal Trade Commission's lawsuit against Amazon (AMZN.O)."
+    },
+    {
+      "id": "5069378",
+      "time": "2026-09-01 02:26:40",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "法庭檔案顯示，美國已有超過20個州加入了美國聯邦貿易委員會針對亞馬遜公司的訴訟。"
+    },
+    {
+      "id": "mkt:01a05912-a7a4-7118-841e-e0357efdf416",
+      "time": "2026-09-01 02:26:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Court records show the U.S. Federal Trade Commission filed suit against Amazon (AMZN.O)."
+    },
     {
       "id": "5069377",
       "time": "2026-09-01 02:25:45",
@@ -119270,25 +119327,6 @@
         "Impact bullish"
       ],
       "text": "Shanghai Gold Exchange gold T+D closed up 0.09% at 1,000.78 yuan/gram in the Aug. 24 evening session; silver T+D closed down 0.74% at 16,655.0 yuan/kg."
-    },
-    {
-      "id": "5056122",
-      "time": "2026-08-25 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.98%，報587.80元人民幣/桶。滬金夜盤收漲0.61%，滬銀收跌0.65%。"
-    },
-    {
-      "id": "te:markets:577684",
-      "time": "2026-08-25 02:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 2.53% — Top crypto loser is XRP (-2.53%). Gains are led by Bitcoin (1.64%) and Ether (0.59%)."
     }
   ]
 }
