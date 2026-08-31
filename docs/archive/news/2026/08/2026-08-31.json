@@ -1,7 +1,27 @@
 {
   "date": "2026-08-31",
-  "count": 908,
+  "count": 910,
   "items": [
+    {
+      "id": "te:markets:579382",
+      "time": "2026-08-31 12:57:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in India Hit 4-week Low — SENSEX decreased to 76823.00 Index Points, the lowest since July 2026. Over the past 4 weeks, SENSEX lost 2.29%, and in the last 12 months, it decreased 4.39%."
+    },
+    {
+      "id": "5067953",
+      "time": "2026-08-31 12:55:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏吉隆泥石流災害區域所有高風險村組完成全面排查】從國家防減救災辦吉隆前方救災工作組、應急管理部瞭解到，截至8月30日，已經完成西藏吉隆泥石流災害受災區域所有高風險村組的全面排查。"
+    },
     {
       "id": "5067952",
       "time": "2026-08-31 12:52:02",
