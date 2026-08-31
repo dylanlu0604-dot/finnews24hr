@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-01 02:30:48",
+  "updated": "2026-09-01 02:34:55",
   "count": 13078,
   "items": [
+    {
+      "id": "mkt:01a05919-70af-7118-841f-01fffb998323",
+      "time": "2026-09-01 02:33:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures (WTI) settled at $85.76/bbl, up $2.36 or 2.83%."
+    },
+    {
+      "id": "5069382",
+      "time": "2026-09-01 02:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運追蹤機構TankerTrackers資料：過去28天，阿拉伯國家原油每日有692萬桶經由美國海軍封鎖線外運。其中，253萬桶/日來自阿曼灣沿岸石油終端；另外439萬桶/日經霍爾木茲海峽運出，主要轉運給在阿曼灣等候的其他油輪。"
+    },
+    {
+      "id": "mkt:01a05918-25f0-7118-841e-fcfa91cb4ef6",
+      "time": "2026-09-01 02:32:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 close, SHFE gold most-active contract fell 1.88% to 960 yuan/gram; SHFE silver most-active contract fell 2.74% to 16,212 yuan/kg; SC crude oil most-active contract rose 3.06% to 637 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a05918-21d0-7118-841e-f47e20f67c1c",
+      "time": "2026-09-01 02:32:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed the Aug 31 (Mon) evening session down 1.16% at 957.7 yuan/gram; silver T+D closed down 1.78% at 16,150 yuan/kg."
+    },
+    {
+      "id": "5069381",
+      "time": "2026-09-01 02:30:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶85.76美元，上漲2.36美元，漲幅2.83%。"
+    },
     {
       "id": "te:markets:579659",
       "time": "2026-09-01 02:30:03",
@@ -12,6 +68,14 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Increases by 2.21% — Top crypto gainers are Ether (2.21%), XRP (1.74%) and Bitcoin (1.55%)."
+    },
+    {
+      "id": "5069380",
+      "time": "2026-09-01 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲3.06%，報637.20元人民幣/桶。滬金夜盤收跌1.88%，滬銀收跌2.74%。"
     },
     {
       "id": "5069379",
@@ -119268,65 +119332,6 @@
         "DXY"
       ],
       "text": "Yemen's Houthi movement said all units and branches are at highest combat readiness. It warned Saudi Arabia, Israel, the United States and their allies that their previous rules have failed, urged them not to take 'stupid actions', and said it would respond militarily and alter the regional balance of power if they do."
-    },
-    {
-      "id": "mkt:01a0350d-3ebe-7aab-90fe-3eddb81784c6",
-      "time": "2026-08-25 02:34:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract rose 0.61% to 1,006 yuan/gram; SHFE silver main contract fell 0.65% to 16,775 yuan/kg; SC crude oil main contract fell 0.98% to 588 yuan/barrel."
-    },
-    {
-      "id": "5056124",
-      "time": "2026-08-25 02:34:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司：旗下煉廠柴油加氫處理裝置的S-10柴油加工能力將達到每天5500立方米。已批准啟動REPAR煉油廠柴油加氫處理裝置採購競爭流程。批准啟動競爭性招標流程，並不代表最終決定實施該裝置建設。"
-    },
-    {
-      "id": "mkt:01a0350d-1cda-7aab-90fe-35d6d2ed3d09",
-      "time": "2026-08-25 02:34:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Petrobras said S-10 diesel hydrotreating capacity at one of its refineries will reach 5,500 cubic meters per day. The company approved launching a competitive procurement process for a hydrotreating unit at the REPAR refinery. Petrobras said approval to start competitive bidding does not constitute a final decision to build the unit."
-    },
-    {
-      "id": "mkt:01a0350a-66ac-7aab-90fe-2a75f8448746",
-      "time": "2026-08-25 02:31:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. crude futures settled at $85.01 per barrel, down $2.05, or 2.35%."
-    },
-    {
-      "id": "5056123",
-      "time": "2026-08-25 02:31:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 10月原油期貨收報85.01美元/桶。NYMEX 9月天然氣期貨收報2.7820美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.2708美元/加侖，NYMEX 9月取暖油期貨收報4.2677美元/加侖。"
-    },
-    {
-      "id": "mkt:01a0350a-1492-7aab-90fe-247d7b4f47f7",
-      "time": "2026-08-25 02:30:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 0.09% at 1,000.78 yuan/gram in the Aug. 24 evening session; silver T+D closed down 0.74% at 16,655.0 yuan/kg."
     }
   ]
 }
