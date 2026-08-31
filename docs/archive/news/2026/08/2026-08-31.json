@@ -1,7 +1,54 @@
 {
   "date": "2026-08-31",
-  "count": 894,
+  "count": 899,
   "items": [
+    {
+      "id": "5067945",
+      "time": "2026-08-31 12:41:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本9月將迎來年內最大一波食品漲價潮】日本帝國資料庫公司31日公佈的調查結果顯示，日本將迎來“年內最大一波漲價潮”，預計9月將要漲價的食品種類達到4923種，約為去年同期的3倍，達到今年單月漲價種類的最高值。本次調查是以195家主要食品企業為物件進行的。受中東局勢惡化帶來的原油價格走高影響，包裝材料價格上漲，企業不斷把成本轉嫁到商品售價上。自2025年4月以來，日本單月漲價種類再度突破4000種。受創紀錄日元貶值影響，進口成本持續走高，預計10月漲價的食品種類也將繼續超過3000種。"
+    },
+    {
+      "id": "te:markets:579375",
+      "time": "2026-08-31 12:40:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Steady as Destry Confirmed as New BI Governor — The Indonesian rupiah hovered around IDR 17,750 per U.S. dollar on Monday, stabilising after recent weakness as the dollar index held near a two-week high following hawkish remarks from Fed Chair Kevin Warsh. His comments lifted expectations for a September rate hike, with odds priced near 57%. Domestically, House Commission XI approved Destry Damayanti as Bank Indonesia’s new governor for 2026–2031, succeeding Perry Warjiyo, who abruptly resigned in July. Destry pledged that closer policy coordination with the government would not compromise the central bank’s independence, stressing stability and growth as priorities. Focus now shifts to key data: August inflation and July trade. Inflation eased to 2.88% year-on-year, a three-month low within Bank Indonesia’s 1-1/2%–3-1/2% target band. Meanwhile, June posted a second consecutive monthly trade deficit of US$450 million, driven by surging oil and gas imports, underscoring persistent external pressures."
+    },
+    {
+      "id": "5067944",
+      "time": "2026-08-31 12:39:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流903人遇難 】據尼泊爾國家減少災害風險管理局公佈的資料，截至當地時間今天（8月31日）9時（北京時間11時15分），尼泊爾泥石流造成的遇難人數升至903人，失聯人數為4247人。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "5067943",
+      "time": "2026-08-31 12:38:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及各界期待習近平主席對埃進行國事訪問 】應埃及總統塞西邀請，國家主席習近平將對埃及進行國事訪問。埃及各界人士表示，習近平主席在埃中建交70週年之際訪問埃及意義重大，相信這次訪問必將賡續兩國傳統友誼，成為埃中關係發展新的里程碑。他們期待，習近平主席同埃及領導人一道，為深化兩國全面戰略伙伴關係擘畫新藍圖，推動雙邊關係朝著構建面向新時代命運共同體的目標闊步前行。（新華社）"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608313859926574",
+      "time": "2026-08-31 12:38:01",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本9月將迎來年內最大一波食品漲價潮】日本帝國資料庫公司31日公佈的調查結果顯示，日本將迎來“年內最大一波漲價潮”，預計9月將要漲價的食品種類達到4923種，約為去年同期的3倍，達到今年單月漲價種類的最高值。"
+    },
     {
       "id": "5067942",
       "time": "2026-08-31 12:37:55",
