@@ -1,7 +1,66 @@
 {
   "date": "2026-09-01",
-  "count": 125,
+  "count": 130,
   "items": [
+    {
+      "id": "mkt:01a05902-cd42-7118-841e-c35c9a2e85f6",
+      "time": "2026-09-01 02:09:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "SKHY.O",
+        "Impact mixed"
+      ],
+      "text": "Nikkei reports Japan’s Miyagi prefecture is courting SK Hynix (SKHY.O) to build an advanced memory chip fab locally, but faces U.S. competition for the investment and South Korean concerns over technology leakage."
+    },
+    {
+      "id": "5069370",
+      "time": "2026-09-01 02:08:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美大峽谷國家公園山洪已致兩人死亡 超14人失聯】美國國家公園管理局8月31日證實，位於亞利桑那州的大峽谷國家公園8月29日突發山洪，已造成至少兩人死亡。目前仍有至少14人被該局列為可能失聯或下落不明人員。"
+    },
+    {
+      "id": "5069369",
+      "time": "2026-09-01 02:07:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國聯邦貿易委員會擬提起訴訟，指控亞馬遜欺騙廣告主】美國聯邦貿易委員會計劃於週一對亞馬遜提起訴訟，指控這家電商巨頭操縱商家在其零售平臺投放廣告的付費價格，七年間藉此獲取數百億美元收益。本次訴訟由20多個州跨黨派總檢察長聯合參與，將在西雅圖聯邦法院立案。聯邦貿易委員會官員稱，訴狀指控亞馬遜隱瞞廣告最低出價的調整行為，以此欺騙廣告投放商。這是該消費者保護監管機構針對亞馬遜發起的第三起重大案件。"
+    },
+    {
+      "id": "mkt:01a05900-4245-7118-841e-b8494b396ce6",
+      "time": "2026-09-01 02:06:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Axios reports Trump is considering limited strikes on Iran to deter attacks in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a058ff-aa15-7118-841e-b68722d4363d",
+      "time": "2026-09-01 02:05:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "【FTC plans suit accusing Amazon of manipulating ad prices, extracting tens of billions over seven years】The US Federal Trade Commission plans to file suit on Monday accusing Amazon of secretly manipulating ad-auction pricing since 2018 and deceiving advertisers, extracting tens of billions of dollars over seven years. The complaint, joined by more than 20 state attorneys general, will be filed in federal court in Seattle. FTC alleges Amazon changed its auction strategy by entering a hidden “soft floor” minimum above the second-highest bid, driving up advertiser payments; advertisers reportedly suffered billions in losses and states may seek recovery. Amazon operates the world’s third-largest digital ad platform; ad revenue was $68bn in 2025. This is the FTC’s third major case against Amazon — the company paid $2.5bn to settle a Prime-related suit last year and faces a separate antitrust trial next year."
+    },
     {
       "id": "5069368",
       "time": "2026-09-01 02:04:42",
