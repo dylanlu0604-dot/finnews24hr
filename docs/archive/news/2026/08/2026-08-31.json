@@ -1,7 +1,35 @@
 {
   "date": "2026-08-31",
-  "count": 407,
+  "count": 410,
   "items": [
+    {
+      "id": "mkt:01a05549-523b-7118-8404-cfdaa56f03d3",
+      "time": "2026-08-31 08:47:43",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Two-exchange margin financing down 6.162 bln yuan】As of Aug 28, margin financing on the Shanghai Stock Exchange was 1,342.944 bln yuan, down 6.131 bln from the prior trading day; Shenzhen was 1,278.973 bln yuan, down 0.031 bln. Combined margin financing totaled 2,621.917 bln yuan, a decline of 6.162 bln yuan."
+    },
+    {
+      "id": "5067576",
+      "time": "2026-08-31 08:46:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少61.63億元】截至8月28日，上交所融資餘額報13429.44億元，較前一交易日減少61.31億元；深交所融資餘額報12789.73億元，較前一交易日減少0.32億元；兩市合計26219.17億元，較前一交易日減少61.63億元。"
+    },
+    {
+      "id": "5067575",
+      "time": "2026-08-31 08:45:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博彙股份：Ⅲ類潤滑油基礎油市場拓展工作有序開展並已獲客戶認可】博彙股份(300839)8月31日在互動平臺表示，公司Ⅲ類潤滑油基礎油市場拓展工作有序開展並已獲得客戶認可，該類產品一般應用於高階機械裝置、化妝品和食品級等領域。"
+    },
     {
       "id": "5067574",
       "time": "2026-08-31 08:43:04",
