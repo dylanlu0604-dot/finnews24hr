@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-31 08:48:26",
-  "count": 13937,
+  "updated": "2026-08-31 08:52:21",
+  "count": 13932,
   "items": [
+    {
+      "id": "5067577",
+      "time": "2026-08-31 08:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法本資訊成立啟航科技公司 含雲端計算裝備技術業務】企查查APP顯示，近日，北京法本啟航科技有限公司成立，經營範圍包含軟體開發；雲端計算裝備技術服務；資訊科技諮詢服務；計算機系統服務等。企查查股權穿透顯示，該公司由法本資訊全資持股。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608313859586032",
+      "time": "2026-08-31 08:50:00",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國8月非農資料即將出爐】展望本週，市場將重新聚焦美國勞動力市場狀況，北京時間9月4日週五晚20:30公佈的美國8月非農就業報告，將成為檢驗美聯儲下一步政策取向的重要觀察指標。"
+    },
+    {
+      "id": "te:markets:579306",
+      "time": "2026-08-31 08:48:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Drop on Hawkish Fed Bets — The Nikkei 225 Index dropped 1.4% to below 65,500 while the broader Topix Index fell 0.9% to 4,110 on Monday, giving back last week’s gains as hawkish remarks from Federal Reserve Chair Kevin Warsh revived expectations for a US rate hike in September. In his Jackson Hole address on Friday, Warsh warned that inflation is not slowing significantly and reiterated the Fed’s commitment to returning inflation to its 2% goal, while noting that financial conditions are not currently restrictive. Sentiment was also pressured by a jump in oil prices after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz. Domestically, data showed Japan’s industrial output unexpectedly increased in July, while retail sales growth exceeded forecasts. Technology stocks led the decline, with Advantest (-6%), Terra Drone (-15%), SoftBank Group (-3.3%), Tokyo Electron (-3%) and Ibiden Co (-3.6%) posting sharp losses."
+    },
     {
       "id": "mkt:01a05549-523b-7118-8404-cfdaa56f03d3",
       "time": "2026-08-31 08:47:43",
@@ -126121,80 +126150,6 @@
         "Importance 2"
       ],
       "text": "Japanese Shares Start Week Lower — The Nikkei 225 Index fell 0.2% to below 65,900 on Monday, extending losses from the previous session as investors remained cautious amid elevated global bond yields and persistent tensions in the Middle East. Global yields remained near multi-year highs as the US Treasury’s surprise bond buyback announcement last week failed to ease concerns over inflation and rising government debt. Geopolitical risks also remained in focus, with the US expected to announce new sanctions on Iran later in the day, although Iranian leaders said the measures would fail to weaken Tehran. Investors are also turning their attention to Nvidia’s upcoming earnings and guidance for clues about whether the AI-driven rally in equities can be sustained. Technology and AI-linked stocks were among the main decliners, with Kioxia Holdings down 0.6%, Advantest falling 1.1%, Fujikura dropping 3.1%, SoftBank Group declining 1.4%, and Furukawa Electric losing 1.7%."
-    },
-    {
-      "id": "5054138",
-      "time": "2026-08-24 08:51:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民德電子：目前晶睿電子的SOI業務收入佔比較小】民德電子(300656)在互動平臺表示，公司參股的晶圓原材料企業晶睿電子（持股比例20.76%）是國內為數不多具備SOI量產能力的廠商，且具備獨立自主智慧財產權，產品在具身智慧感測器（慣性感測器、壓力感測器等）和光電路交換機OCS（MEMS微鏡陣列）領域陸續驗證透過並穩步放量。目前晶睿電子的SOI業務收入佔比較小，對整體經營業績尚不構成重大影響，請投資者謹慎決策，注意投資風險。"
-    },
-    {
-      "id": "5054137",
-      "time": "2026-08-24 08:51:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "大和證券高階經濟學家Kento Minami：日本央行可能不會明確表示下一次加息將在9月進行。相反，官員們可能會透過強調通脹上行風險來暗示有必要儘早加息。"
-    },
-    {
-      "id": "5054136",
-      "time": "2026-08-24 08:51:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率持平於4.065%。"
-    },
-    {
-      "id": "5054135",
-      "time": "2026-08-24 08:50:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率持平於3.76%。"
-    },
-    {
-      "id": "5054134",
-      "time": "2026-08-24 08:50:41",
-      "tags": [
-        "公司",
-        "資料",
-        "觀點"
-      ],
-      "text": "【光大證券：市場或將反彈】光大證券認為，向後看，市場或將反彈，8月中報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季或將是下半年最好的配置視窗。當前國內外科技盈利均保持高增長，同時整體盈利增速也在PPI的帶動下持續回升，全A非金融中報盈利增速有望達15%左右。疊加政策層面的系統性支援以及A股對海外衝擊敏感性持續下降，8月中報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季或將是下半年最好的配置視窗。配置上建議圍繞三條業績主線展開。首先是科技硬體（半導體/AI算力/儲存），這是本輪業績改善最強的方向；其次為漲價鏈（有色/化工/煤炭），直接受益於PPI回升，業績兌現確定性高；第三條主線為出口製造（儲能/電力裝置/汽車），受益於全球製造業補庫與供應鏈優勢。此外，非銀金融、醫藥/CRO（創新藥出海）、軍工（訂單拐點）等方向中報景氣度同樣值得關注，整體呈現多條業績主線並行的格局。"
-    },
-    {
-      "id": "te:markets:577397",
-      "time": "2026-08-24 08:50:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Holds Decline — The dollar index held its decline around 98.8 on Monday, remaining under pressure after posting significant losses last week, as a sharp rise in Treasury yields heightened concerns over the US government’s mounting debt burden and weighed on the dollar’s appeal. The greenback's decline came as Treasury Secretary Bessent outlined a debt-buyback strategy he described as a “Treasury twist,” under which the government would buy back longer-dated Treasury securities to help influence the yield curve and manage borrowing costs. Meanwhile, investors continued to monitor tensions in the Middle East, with the US expected to announce new sanctions against Tehran. Iran, which has already faced decades of US sanctions, said the new measures were “bound to fail.” Investors are now turning their attention to key US economic data and Federal Reserve policy signals, including the July PCE inflation report and remarks from Fed Chair Kevin Warsh at the Jackson Hole economic symposium later this week."
-    },
-    {
-      "id": "5054133",
-      "time": "2026-08-24 08:50:18",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【國信證券：市場或將進入新一輪結構性上行階段】國信證券認為，向後看，市場或將迎來反彈，8月中報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季有望是下半年相對不錯的配置視窗。市場當前的核心擔憂在於海外AI capex可持續性，但2020年以來至少兩輪類似辯論最終均由下一期業績資料終結，每次辯論都會伴隨板塊10%-20%的回撥，隨後行情在數月內完成修復。當前國內外科技盈利均保持高增長，同時整體盈利增速也在PPI的帶動下持續回升，全A非金融中報盈利增速有望達兩位數。疊加政策層面的系統性支援以及A股對海外衝擊的敏感性持續下降，市場或將進入新一輪結構性上行階段。"
-    },
-    {
-      "id": "5054132",
-      "time": "2026-08-24 08:48:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【招商證券：短期A股波動可能加大】招商證券認為，長端美債利率上行反映了AI融資擠出、財政赤字和期限溢價抬升等結構性問題，美財政部回購只能緩解區域性流動性壓力；外部利率和地緣風險將壓制短期風險偏好，使A股進入更重業績、重結構的階段。國內擴內需、“六張網”和地產政策正加速落地，但經濟仍處於總量偏弱、新舊動能分化的K型格局，因此市場機會更集中於科技創新、高階裝備出海及受益於政策落地的低估值方向。短期A股波動可能加大，配置上繼續沿科技創新、製造出海、低估值政策發力三條線索均衡佈局，重點關注電子、機械裝置、電力裝置、有色金屬、煤炭等方向。"
     }
   ]
 }

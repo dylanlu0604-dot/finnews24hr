@@ -1,7 +1,36 @@
 {
   "date": "2026-08-31",
-  "count": 410,
+  "count": 413,
   "items": [
+    {
+      "id": "5067577",
+      "time": "2026-08-31 08:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法本資訊成立啟航科技公司 含雲端計算裝備技術業務】企查查APP顯示，近日，北京法本啟航科技有限公司成立，經營範圍包含軟體開發；雲端計算裝備技術服務；資訊科技諮詢服務；計算機系統服務等。企查查股權穿透顯示，該公司由法本資訊全資持股。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608313859586032",
+      "time": "2026-08-31 08:50:00",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國8月非農資料即將出爐】展望本週，市場將重新聚焦美國勞動力市場狀況，北京時間9月4日週五晚20:30公佈的美國8月非農就業報告，將成為檢驗美聯儲下一步政策取向的重要觀察指標。"
+    },
+    {
+      "id": "te:markets:579306",
+      "time": "2026-08-31 08:48:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Drop on Hawkish Fed Bets — The Nikkei 225 Index dropped 1.4% to below 65,500 while the broader Topix Index fell 0.9% to 4,110 on Monday, giving back last week’s gains as hawkish remarks from Federal Reserve Chair Kevin Warsh revived expectations for a US rate hike in September. In his Jackson Hole address on Friday, Warsh warned that inflation is not slowing significantly and reiterated the Fed’s commitment to returning inflation to its 2% goal, while noting that financial conditions are not currently restrictive. Sentiment was also pressured by a jump in oil prices after the US military targeted Iranian rocket launchers preparing to deploy mines into the Strait of Hormuz. Domestically, data showed Japan’s industrial output unexpectedly increased in July, while retail sales growth exceeded forecasts. Technology stocks led the decline, with Advantest (-6%), Terra Drone (-15%), SoftBank Group (-3.3%), Tokyo Electron (-3%) and Ibiden Co (-3.6%) posting sharp losses."
+    },
     {
       "id": "mkt:01a05549-523b-7118-8404-cfdaa56f03d3",
       "time": "2026-08-31 08:47:43",
