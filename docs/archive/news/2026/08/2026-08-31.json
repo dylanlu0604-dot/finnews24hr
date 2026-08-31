@@ -1,7 +1,59 @@
 {
   "date": "2026-08-31",
-  "count": 860,
+  "count": 865,
   "items": [
+    {
+      "id": "5067924",
+      "time": "2026-08-31 12:22:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明略科技-W上半年收入同比增長18.02%至約7.6億元 智慧體業務六倍激增】明略科技-W(02718)公佈2026年中期業績，收入約7.6億元，同比增長18.02%;毛利約3.9億元，同比增長8.31%;期內虧損6422.7萬元，同比收窄68.5%。其中，智慧體化服務業務收入同比增長約605.7%至1.71億元，是收入增長的主要驅動力。公司依託自主研發的AI智慧體，聚焦客戶社交媒體營銷核心需求，將AI能力從規劃策略生成延伸至內容製作及執行環節，以客戶關鍵業績指標的達成為核心交付導向，推動服務模式由過程輸出轉向結果驅動。"
+    },
+    {
+      "id": "mkt:01a0560d-63a1-7118-8409-df5a42ef4814",
+      "time": "2026-08-31 12:21:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said the US attack on Larak Island was a clear violation of the UN Charter and urged the UN Security Council and Secretary-General to fulfil their duty to maintain international peace and security and to hold the aggressor accountable."
+    },
+    {
+      "id": "mkt:01a0560c-018b-7118-8409-d5531de05027",
+      "time": "2026-08-31 12:20:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran foreign ministry says will respond firmly to any military aggression】Iran’s foreign ministry said its armed forces struck US bases in Jordan in retaliation for a US attack on Larak Island. The ministry said its forces will not hesitate to exercise their inherent right of self‑defense and will respond firmly and appropriately to any enemy military aggression. It added the US regime and all parties involved in planning or carrying out what it called illegal US actions, including the ongoing maritime blockade and economic warfare against Iran, will bear full responsibility for any new US aggression and its consequences."
+    },
+    {
+      "id": "5067923",
+      "time": "2026-08-31 12:20:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：美軍襲擊了拉爾克島部分割槽域，侵犯了伊朗主權和領土完整。我軍對約旦境內的美軍基地實施了毀滅性防禦打擊。我軍已襲擊位於約旦的美軍基地，這些基地曾是美國對我國發動軍事侵略的出發點。"
+    },
+    {
+      "id": "mkt:01a0560a-f8ec-7118-8409-cf4994c8caee",
+      "time": "2026-08-31 12:19:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry said a US military strike on parts of Larak Island violated Iran's sovereignty and territorial integrity."
+    },
     {
       "id": "5067922",
       "time": "2026-08-31 12:18:39",
