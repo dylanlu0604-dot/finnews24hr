@@ -1,7 +1,107 @@
 {
   "date": "2026-08-31",
-  "count": 332,
+  "count": 343,
   "items": [
+    {
+      "id": "5067526",
+      "time": "2026-08-31 08:03:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "今年第22號颱風 “艾濤”今天早晨5點鐘減弱為熱帶低壓，目前其風力進一步減弱，已很難確定環流中心，中央氣象臺05時對其停止編號。"
+    },
+    {
+      "id": "5067525",
+      "time": "2026-08-31 08:03:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國生物製藥：Kylo-11「LPA siRNA」於2026年歐洲心臟病學會年會及《柳葉刀》公佈I期臨床資料。"
+    },
+    {
+      "id": "5067524",
+      "time": "2026-08-31 08:03:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：2026年以來國內龍頭模擬公司光模組相關業務快速放量 帶動業績快速增長】中信證券指出，在AI算力旺盛需求推動下，光模組終端持續放量、速率升級推動相關模擬晶片料號需求快速增長，海外頭部廠商指引積極，據測算2026年全球光模組模擬晶片需求超100億元，目前全球格局以海外龍頭為主導，國產替代加速推進。2026年以來國內龍頭模擬公司光模組相關業務迎來快速放量，進而帶動業績快速增長。"
+    },
+    {
+      "id": "mkt:01a0551f-dbcb-7118-8404-70186be67b25",
+      "time": "2026-08-31 08:02:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【CITIC Securities: Bank real-estate lending likely to expand; asset quality to improve with high certainty】On Aug. 28, 2026 the Ministry of Housing and Urban-Rural Development and four other ministries implemented a package of real-estate measures. CITIC Securities says the rollout should help align property-credit frameworks with a higher-quality development model, leaving scope for incremental bank real-estate lending and ushering in a high-certainty improvement in asset quality. Banks’ interim reports show optimistic net interest margins, stable asset quality, broadly positive but divergent revenue performance, and continued profit-recovery momentum. Some banks have raised dividend payout ratios, supporting shareholder returns and favoring long-term investors. Looking into Q3, CITIC expects core variables—margins and asset quality—to remain stable and full-year profit trends to stay positive, with macro narratives and longer-term drivers still intact, supporting continued absolute returns for the year."
+    },
+    {
+      "id": "5067523",
+      "time": "2026-08-31 08:01:54",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信證券：預計銀行房地產類貸款投放具備增量空間 資產質量迎來高確定性改善預期】中信證券研報表示，2026年8月28日，住建部等五部委密集落地房地產新政。中信證券認為，政策落地有助地產信貸制度適配地產高質量發展新模式轉型，預計銀行房地產類貸款投放具備增量空間，資產質量迎來高確定性改善預期。銀行中報顯示，息差表現樂觀，資產質量穩定，營收整體樂觀但存在分化，盈利增速延續修復格局；同時，部分銀行提升分紅率提振股東回報，利好長線投資者配置。展望三季度，預計息差和資產質量等核心變數保持穩定，全年盈利趨勢積極，疊加宏觀敘事等長邏輯仍在繼續演繹，全年絕對收益仍將延續。"
+    },
+    {
+      "id": "mkt:01a0551f-5965-7118-8404-6bb848ea3c59",
+      "time": "2026-08-31 08:01:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI fell 3.00% intraday to 6,582.61 points."
+    },
+    {
+      "id": "5067522",
+      "time": "2026-08-31 08:01:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌3%，至6582.61點。SK海力士跌超4%，三星電子跌逾3%。"
+    },
+    {
+      "id": "5067521",
+      "time": "2026-08-31 08:01:42",
+      "tags": [],
+      "text": "三星電子跌3％，SK海力士跌3.5％。"
+    },
+    {
+      "id": "mkt:01a0551e-f0aa-7118-8404-63bf79801444",
+      "time": "2026-08-31 08:01:26",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 731.46 points, or 1.10%, at 65,674.10 on Monday, Aug. 31."
+    },
+    {
+      "id": "mkt:01a0551e-ecfb-7118-8404-58b738659713",
+      "time": "2026-08-31 08:01:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI fell 2.58% in early trade. Samsung Electronics dropped 3%, SK Hynix fell 3.5%."
+    },
+    {
+      "id": "5067520",
+      "time": "2026-08-31 08:01:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至0.7%。"
+    },
     {
       "id": "5067519",
       "time": "2026-08-31 08:00:46",
