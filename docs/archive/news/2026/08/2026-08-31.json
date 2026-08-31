@@ -1,7 +1,74 @@
 {
   "date": "2026-08-31",
-  "count": 396,
+  "count": 404,
   "items": [
+    {
+      "id": "mkt:01a05541-bbd8-7118-8404-bd17f3d7c5f9",
+      "time": "2026-08-31 08:39:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Trump again criticizes Canada】President Trump said the United States loses more than $60 billion a year in trade with Canada and that firms long offshored are returning to the United States to avoid tariffs."
+    },
+    {
+      "id": "5067571",
+      "time": "2026-08-31 08:39:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.0個基點，至2.935%。"
+    },
+    {
+      "id": "5067570",
+      "time": "2026-08-31 08:39:03",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "【紐西蘭央行行長佈雷曼9月份將有三場演講活動】紐西蘭央行行長安娜·佈雷曼已安排在週三公佈官方現金利率（OCR）決定後的數週內參加三場演講活動。 9月3日，她將向紐西蘭金融市場協會（NZFMA）年度市場會議發表講話； 9月10日，她將與紐西蘭超級基金員工舉行一場爐邊對話； 9月22日，她將在由南區商業協會和福賽思·巴爾聯合主辦的商務午餐會上釋出經濟形勢更新。 紐西蘭央行表示，這些活動不會透露超出貨幣政策宣告（MPS）內容的新資訊，且活動均不進行現場直播。"
+    },
+    {
+      "id": "5067569",
+      "time": "2026-08-31 08:38:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4470美元/盎司，日內漲0.36%。"
+    },
+    {
+      "id": "5067568",
+      "time": "2026-08-31 08:38:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4520美元/盎司，日內跌0.22%。"
+    },
+    {
+      "id": "mkt:01a05540-40f1-7118-8404-b1cacc6eb88c",
+      "time": "2026-08-31 08:37:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Wall Street Journal reports the U.S. will take a 35% stake in Venezuelan tycoon Betancourt’s oil joint venture."
+    },
+    {
+      "id": "5067567",
+      "time": "2026-08-31 08:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "武漢友芝友生物製藥股份有限公司在香港暫停交易。"
+    },
     {
       "id": "5067566",
       "time": "2026-08-31 08:35:58",
@@ -9,6 +76,15 @@
         "其他"
       ],
       "text": "加拿大汽車工人聯合工會（UNIFOR）：工會會員批准與通用汽車的新合同。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608313859578146",
+      "time": "2026-08-31 08:35:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃什傑克遜霍爾首秀釋放加息訊號 9月機率飆升至五成以上】傑克遜霍爾講話後，9月FOMC會議的核心變數落在即將公佈的經濟資料上。8月關鍵失業率、新增就業及消費通脹資料將於9月初陸續公佈，其中9月11日釋出的8月CPI被視為決定性節點。彭博分析稱，CPI下行意外將給加息呼聲降溫，上行意外則幾乎鎖定加息。"
     },
     {
       "id": "5067565",
