@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-01 06:46:54",
+  "updated": "2026-09-01 06:50:49",
   "count": 13108,
   "items": [
+    {
+      "id": "5069513",
+      "time": "2026-09-01 06:49:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：知情人士稱美國財政部貝森特告知俄羅斯財政部長西盧安諾夫，在俄烏衝突結束前，美國不會給予俄羅斯經濟方面的寬鬆待遇。"
+    },
+    {
+      "id": "mkt:01a05a03-30e7-7118-8421-fcf1043869dd",
+      "time": "2026-09-01 06:49:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials said U.S. oil firm NABEP will assume operations of some Venezuelan oilfields formerly run by Russian and other companies."
+    },
     {
       "id": "5069512",
       "time": "2026-09-01 06:45:57",
@@ -119590,23 +119612,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Edges Higher in Morning Trade — New Zealand stocks climbed 27 points, or 0.2%, to 13,908 in Tuesday morning trade, halting losses in the previous session, mainly buoyed by gains in consumer discretionary, healthcare, and energy. The broader index tracked a slight rise in US stock futures ahead of Nvidia earnings and US PCE price data later this week. Optimism over earnings season lifted sentiment, with some companies announcing their results this week, including Port of Tauranga and Channel Infrastructure. However, caution limited the gains ahead of the US PCE price data for guidance on the Fed's monetary policy decision at its upcoming meeting, as well as FOMC speeches at the Jackson Hole Symposium later this week. Among early gainers were Hallenstein Glassons (2.5%), Ryman Healthcare (1.4%), ANZ Group (0.7%), and Fisher & Paykel (0.5%). Air New Zealand, Port of Tauranga, and Channel Infrastructure each rose 0.6% ahead of the release of their earnings reports this week."
-    },
-    {
-      "id": "5056229",
-      "time": "2026-08-25 06:50:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉地震遇難人數升至6509人。"
-    },
-    {
-      "id": "5056228",
-      "time": "2026-08-25 06:48:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4720美元/盎司，日內漲0.45%。"
     }
   ]
 }

@@ -1,7 +1,29 @@
 {
   "date": "2026-09-01",
-  "count": 363,
+  "count": 365,
   "items": [
+    {
+      "id": "5069513",
+      "time": "2026-09-01 06:49:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：知情人士稱美國財政部貝森特告知俄羅斯財政部長西盧安諾夫，在俄烏衝突結束前，美國不會給予俄羅斯經濟方面的寬鬆待遇。"
+    },
+    {
+      "id": "mkt:01a05a03-30e7-7118-8421-fcf1043869dd",
+      "time": "2026-09-01 06:49:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials said U.S. oil firm NABEP will assume operations of some Venezuelan oilfields formerly run by Russian and other companies."
+    },
     {
       "id": "5069512",
       "time": "2026-09-01 06:45:57",
