@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-01 06:50:49",
-  "count": 13108,
+  "updated": "2026-09-01 06:54:46",
+  "count": 13111,
   "items": [
+    {
+      "id": "mkt:01a05a07-8dcb-7118-8422-17aff34ba42b",
+      "time": "2026-09-01 06:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said it had received a report of an incident 17 nautical miles east of Khasab, Oman."
+    },
+    {
+      "id": "5069515",
+      "time": "2026-09-01 06:52:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國最高法院允許白宮宴會廳改造專案繼續推進】美國最高法院8月31日裁定，允許白宮宴會廳改造專案繼續推進。最高法院當天以5比4的投票結果，透過了美國政府提出的緊急上訴，否決此前下級法院作出的暫停該專案地上部分施工的裁決。首席大法官約翰·羅伯茨與3名自由派大法官投了反對票。最高法院並未就白宮宴會廳改造專案的合法性作出實體裁判，但認為提起訴訟的美國文物保護組織國家歷史保護信託基金會可能不是適格的原告。裁決書說：“今天不對白宮東翼專案是否合法作出裁判。僅基於現有案卷材料認定，政府有較大可能證明該基金會不具備憲法第三條下的起訴資格。”（新華社）"
+    },
+    {
+      "id": "5069514",
+      "time": "2026-09-01 06:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：知情人士稱美國財長貝森特在G20會議間隙告訴俄羅斯財長西盧安諾夫，在戰爭結束之前無法與俄羅斯達成任何協議。"
+    },
+    {
+      "id": "mkt:01a05a05-28f7-7118-8422-0c952ed7b20e",
+      "time": "2026-09-01 06:51:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sources said US Treasury Secretary Bessent told Russian Finance Minister Siluanov on the sidelines of the G20 that no agreement with Russia is possible until the war ends."
+    },
+    {
+      "id": "mkt:01a05a04-c4f9-7118-8422-02c725978988",
+      "time": "2026-09-01 06:50:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Insiders said U.S. Treasury Secretary Bessent told Russian Finance Minister Siluanov the United States will not provide economic assistance to Russia until the end of the war in Ukraine."
+    },
     {
       "id": "5069513",
       "time": "2026-09-01 06:49:50",
@@ -119585,33 +119632,6 @@
         "其他"
       ],
       "text": "【委內瑞拉強震遇難人數上升至6509人】當地時間24日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報稱，該國此前發生的強震造成的遇難人數上升至6509人，另有6462人獲救。6月24日晚，委內瑞拉發生百餘年來最強地震，一分鐘內出現兩次7級以上強震，造成大量人員傷亡。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a035fa-f47c-7aab-9100-4ce10cfa2b5f",
-      "time": "2026-08-25 06:53:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "【Meta plans to launch 'Hatch' consumer AI agent in coming weeks】According to The Information, Meta Platforms (META.O) plans to roll out its consumer OpenClaw AI assistant (internal codename Hatch) as soon as the coming weeks and intends to release a new AI model called Watermelon in October. The product is part of CEO Mark Zuckerberg’s push to monetize Meta’s AI investment and diversify revenue beyond advertising; Meta has previously considered tiered pricing including a premium monthly subscription of up to $199.99 with higher usage allowances. Hatch has been trained to access DoorDash, Etsy, Reddit, Yelp and Outlook."
-    },
-    {
-      "id": "te:markets:577701",
-      "time": "2026-08-25 06:52:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Edges Higher in Morning Trade — New Zealand stocks climbed 27 points, or 0.2%, to 13,908 in Tuesday morning trade, halting losses in the previous session, mainly buoyed by gains in consumer discretionary, healthcare, and energy. The broader index tracked a slight rise in US stock futures ahead of Nvidia earnings and US PCE price data later this week. Optimism over earnings season lifted sentiment, with some companies announcing their results this week, including Port of Tauranga and Channel Infrastructure. However, caution limited the gains ahead of the US PCE price data for guidance on the Fed's monetary policy decision at its upcoming meeting, as well as FOMC speeches at the Jackson Hole Symposium later this week. Among early gainers were Hallenstein Glassons (2.5%), Ryman Healthcare (1.4%), ANZ Group (0.7%), and Fisher & Paykel (0.5%). Air New Zealand, Port of Tauranga, and Channel Infrastructure each rose 0.6% ahead of the release of their earnings reports this week."
     }
   ]
 }

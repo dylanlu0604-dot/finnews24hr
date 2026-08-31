@@ -1,7 +1,54 @@
 {
   "date": "2026-09-01",
-  "count": 365,
+  "count": 370,
   "items": [
+    {
+      "id": "mkt:01a05a07-8dcb-7118-8422-17aff34ba42b",
+      "time": "2026-09-01 06:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said it had received a report of an incident 17 nautical miles east of Khasab, Oman."
+    },
+    {
+      "id": "5069515",
+      "time": "2026-09-01 06:52:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國最高法院允許白宮宴會廳改造專案繼續推進】美國最高法院8月31日裁定，允許白宮宴會廳改造專案繼續推進。最高法院當天以5比4的投票結果，透過了美國政府提出的緊急上訴，否決此前下級法院作出的暫停該專案地上部分施工的裁決。首席大法官約翰·羅伯茨與3名自由派大法官投了反對票。最高法院並未就白宮宴會廳改造專案的合法性作出實體裁判，但認為提起訴訟的美國文物保護組織國家歷史保護信託基金會可能不是適格的原告。裁決書說：“今天不對白宮東翼專案是否合法作出裁判。僅基於現有案卷材料認定，政府有較大可能證明該基金會不具備憲法第三條下的起訴資格。”（新華社）"
+    },
+    {
+      "id": "5069514",
+      "time": "2026-09-01 06:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：知情人士稱美國財長貝森特在G20會議間隙告訴俄羅斯財長西盧安諾夫，在戰爭結束之前無法與俄羅斯達成任何協議。"
+    },
+    {
+      "id": "mkt:01a05a05-28f7-7118-8422-0c952ed7b20e",
+      "time": "2026-09-01 06:51:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sources said US Treasury Secretary Bessent told Russian Finance Minister Siluanov on the sidelines of the G20 that no agreement with Russia is possible until the war ends."
+    },
+    {
+      "id": "mkt:01a05a04-c4f9-7118-8422-02c725978988",
+      "time": "2026-09-01 06:50:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Insiders said U.S. Treasury Secretary Bessent told Russian Finance Minister Siluanov the United States will not provide economic assistance to Russia until the end of the war in Ukraine."
+    },
     {
       "id": "5069513",
       "time": "2026-09-01 06:49:50",
