@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-31 18:36:39",
-  "count": 13418,
+  "updated": "2026-08-31 18:40:40",
+  "count": 13403,
   "items": [
+    {
+      "id": "te:markets:579533",
+      "time": "2026-08-31 18:39:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $91 — Brent crude oil rose more than 3% to above $91 a barrel on Monday as tensions in the Middle East escalated, with the US and Iran exchanging strikes for the first time in roughly a month and new concerns emerging over shipping through the Strait of Hormuz. US forces targeted Iranian rocket launchers that were reportedly preparing to deploy mines in the strategic waterway, while Iran claimed attacks on US bases in Jordan. Tehran also reported that a supertanker attempting to cross Hormuz’s southern route had struck two mines, although the incident has not been independently confirmed. Brent climbed around 3.5% so far in August, following a sharp 20.5% increase in July, as markets continue to react to shifting prospects for an end to the conflict. Washington’s economic pressure campaign and naval blockade have disrupted Iranian exports, although traders estimate that around 6–8 million barrels of crude per day, mainly from other Gulf producers, continue to transit Hormuz."
+    },
+    {
+      "id": "te:economy:579532",
+      "time": "2026-08-31 18:39:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "GDP Annual Growth Rate",
+        "Importance 3"
+      ],
+      "text": "Indian GDP Grows More than Expected — The Indian GDP expanded by 7.8% from the previous year in the quarter the June quarter of 2026, growing at an unchanged pace from the earlier period and well ahead of market expectations of 7.8%. The data consolidated India as the fastest-growing G20 country and reflected resilience to a period of economic turbulence, as the war in the Middle East triggered a surge in energy prices, pressured the rupee, and forced the RBI to intervene on markets to stabilize financial assets."
+    },
+    {
+      "id": "5068679",
+      "time": "2026-08-31 18:38:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順灝股份：2025年員工持股計劃出售完畢暨終止】順灝股份公告稱，公司2025年員工持股計劃所持2866.18萬股公司股票（佔總股本2.7040%）已透過集中競價方式全部出售完畢，後續將開展資產清算分配工作，並按規定終止該員工持股計劃。持股計劃實施期間，2026年8月28日出售部門員工因誤操作買入1萬股公司股票，該部分股票已賣出，誤操作產生的收益將上繳公司，相關責任人已被追責。"
+    },
+    {
+      "id": "5068678",
+      "time": "2026-08-31 18:38:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑銀股份：預中標約5.28億元環衛作業服務專案】僑銀股份公告稱，公司預中標廣東省茂名市中心城區（北組團）環衛作業服務專案，中標金額5.28億元/3年，服務期為2026年9月至2029年9月，服務範圍涵蓋道路清掃保潔、生活垃圾分類收集清運、環衛設施管養等，保潔面積約1697.15萬平方米，年清運生活垃圾約30萬噸。截至目前，公司尚未取得該專案中標通知書，能否取得存在不確定性，專案具體內容以正式合同為準。"
+    },
+    {
+      "id": "te:economy:579531",
+      "time": "2026-08-31 18:38:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malta",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Malta Producer Inflation Steady for 3 Months — Producer prices in Malta increased 1.5% year-on-year in July 2026, matching the reading of the previous two months and remaining at their highest level since October 2023. Energy prices remained unchanged from the previous month. Meanwhile, prices for intermediate goods rose at a slower pace (1.6% vs 2.7%), while growth accelerated for capital goods (5.5% vs 5.0%). Consumer goods inflation also rose to 0.7% after being unchanged in the previous month, with durable consumer goods steady at 0.1% and non-durable consumer goods increasing 0.7% after stagnating last month. By market, producer inflation for the domestic market edged up (1.1% vs 1.0%), while it edged down for the non-domestic market (1.9% vs 2.1%). On a monthly basis, producer prices inched higher to 0.3% in July from a 0.2% increase in June, marking the highest since February."
+    },
+    {
+      "id": "te:markets:579530",
+      "time": "2026-08-31 18:37:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Rallies on Fresh US-Iran Strikes — Crude oil rose more than 3% to above $86 a barrel on Monday as tensions in the Middle East escalated, with the US and Iran exchanging strikes for the first time in roughly a month and new concerns emerging over shipping through the Strait of Hormuz. US forces targeted Iranian rocket launchers that were reportedly preparing to deploy mines in the strategic waterway, while Iran claimed attacks on US bases in Jordan. Tehran also reported that a supertanker attempting to cross Hormuz’s southern route had struck two mines, although the incident has not been independently confirmed. Oil prices have gained around 2% in August, following a sharp 22% increase in July, as markets continue to react to shifting prospects for an end to the conflict. Washington’s economic pressure campaign and naval blockade have disrupted Iranian exports, although traders estimate that around 6–8 million barrels of crude per day, mainly from other Gulf producers, continue to transit Hormuz."
+    },
+    {
+      "id": "5068676",
+      "time": "2026-08-31 18:37:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞泰集團：新增逾期債務19.96億元】亞泰集團公告稱，公司新增逾期債務19.96億元，佔公司最近一期經審計歸屬於母公司淨資產的322.44%。截至公告披露日，公司及所屬子公司逾期債務本金及利息累計58.80億元，佔最近一期經審計歸母淨資產的949.88%。部分債務逾期可能使公司及子公司承擔違約金、罰息等額外支出，或面臨訴訟、資產凍結等風險。公司正與債權人協商，擬透過借款展期、調整付息方式等化解債務危機，同時籌措償債資金。"
+    },
+    {
+      "id": "5068675",
+      "time": "2026-08-31 18:36:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "ADOBE公司與MCIT及HUMAIN擴大合作，向沙烏地阿拉伯公民及居民提供價值逾40億美元的免費人工智慧工具。"
+    },
+    {
+      "id": "5068674",
+      "time": "2026-08-31 18:36:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長盈通：控股股東的一致行動人及董高未減持公司股份】長盈通公告，控股股東的一致行動人盈眾投資及董高鄺光華、廉正剛、曹文明、江斌在2026年6月1日至8月31日減持計劃期間均未減持所持公司股份，減持計劃已到期。減持前盈眾投資持有403萬股（佔3.13%），鄺光華持有43201股（佔0.034%），廉正剛持有77.94萬股（佔0.61%），曹文明持有32393股（佔0.025%），江斌持有11000股（佔0.0085%）。"
+    },
+    {
+      "id": "5068673",
+      "time": "2026-08-31 18:36:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【九毛九：太二品牌新模型店已累計落地351家】8月31日，記者從九毛九方面獲悉，截至8月底，太二品牌新模型店已累計落地351家。"
+    },
     {
       "id": "5068672",
       "time": "2026-08-31 18:35:37",
@@ -122194,221 +122288,6 @@
         "公司"
       ],
       "text": "【震有科技：2026年上半年虧損1.31億元，2025年同期虧損4759.41萬元】震有科技公告，2026年上半年營業收入2.54億元，同比下降27.56%；歸屬於上市公司股東的淨利潤虧損1.31億元，2025年同期虧損4759.41萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.33億元，2025年同期虧損5467.33萬元。"
-    },
-    {
-      "id": "te:economy:577580",
-      "time": "2026-08-24 18:40:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield Remains High — South Africa’s 10-year government bond yield hovered around 8.75%, its highest level since July 30, as traders weighed geopolitical risks ahead of an expected US announcement on fresh sanctions against Iran. Investors were also focused on Kevin Warsh’s Jackson Hole speech for clues on the Fed’s rate outlook, with any shift in US rate expectations potentially affecting Treasury yields, the dollar and capital flows into emerging markets. On the domestic economic front, South Africa’s annual inflation slowed to 4.3% in July from 5% in June, marking its first decline in five months and coming in below the 4.5% consensus. Still, it remains above the central bank's 3% target and the easing could prove short-lived amid renewed increases in global oil prices. The South African Reserve Bank left the repo rate unchanged at 7% in July, opting for caution as higher global oil prices and rising inflation expectations continue to pose risks to the inflation outlook despite weak economic growth."
-    },
-    {
-      "id": "5055492",
-      "time": "2026-08-24 18:40:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【友訊達：2026年上半年淨利潤虧損1636.86萬元，同比由盈轉虧】友訊達公告，2026年上半年營業收入3.52億元，同比下降7.23%；歸屬於上市公司股東的淨利潤虧損1636.86萬元，2025年同期為5361.65萬元，同比由盈轉虧；扣除非經常性損益的淨利潤虧損2057.2萬元，2025年同期為4757.16萬元，同比由盈轉虧。公司擬以2億股為基數，每10股派發現金紅利5元（含稅）。"
-    },
-    {
-      "id": "5055491",
-      "time": "2026-08-24 18:39:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金財互聯：2026年半年度淨利潤4346.99萬元，同比增長32.50%】金財互聯公告，2026年半年度營業收入6.08億元，同比增長29.94%；歸屬於上市公司股東的淨利潤4346.99萬元，同比增長32.50%，2025年同期為3280.78萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤3883.93萬元，同比增長24.94%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "5055490",
-      "time": "2026-08-24 18:39:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美利信：2026年上半年虧損1.66億元，2025年同期虧損1.05億元】美利信公告，2026年上半年營業收入21.95億元，同比增長18.04%；歸屬於上市公司股東的淨利潤虧損1.66億元，2025年同期虧損1.05億元，虧損較2025年同期擴大57.75%；扣除非經常性損益的淨利潤虧損1.84億元，虧損較2025年同期擴大56.54%。"
-    },
-    {
-      "id": "5055489",
-      "time": "2026-08-24 18:39:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星徽股份：被移出失信被執行人名單】星徽股份(300464.SZ)公告稱，公司與孫才金、朱佳佳等7名原告糾紛案獲廣東省高階人民法院裁定指令再審，中止原判決執行。近日經查詢，公司已因該案被移出失信被執行人名單，原法定代表人謝曉華的限制消費措施亦已解除。公司前期已計提相應預計負債，本次移出名單不會對日常經營產生重大不利影響，但再審結果仍存不確定性。"
-    },
-    {
-      "id": "mkt:01a0335a-bda0-7aab-90f5-3ec69d58f48d",
-      "time": "2026-08-24 18:39:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "MOODY'S expects Pakistan's debt affordability to gradually improve as fiscal consolidation eases the government's debt burden and interest payments."
-    },
-    {
-      "id": "mkt:01a0335a-a80d-7aab-90f5-366291cf46fa",
-      "time": "2026-08-24 18:39:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Moody's says Pakistan's external position remains fragile, particularly given its still-large external financing needs."
-    },
-    {
-      "id": "5055488",
-      "time": "2026-08-24 18:39:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "全球基金在交易日前淨買入價值197億盧比的印度股票。"
-    },
-    {
-      "id": "5055487",
-      "time": "2026-08-24 18:39:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廈門象嶼：2026年上半年淨利潤10.66億元，同比增長3.28%】廈門象嶼公告，2026年上半年營業收入2090.45億元，同比增長2.50%；歸屬於上市公司股東的淨利潤10.66億元，同比增長3.28%，2025年上半年為10.32億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤9.42億元，同比增長184.75%。"
-    },
-    {
-      "id": "5055486",
-      "time": "2026-08-24 18:39:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交易所收緊IPO？求證：要求券商從源頭提升申報質量】近日關於交易所收緊IPO申報的傳言再起，傳言稱“除了有細則的行業，虧損的（企業）都要收緊申報”。記者採訪權威人士瞭解到，交易所確有向券商溝通，核心是針對近期申報專案整體質量參差不齊的現狀，要求保薦機構切實履行“看門人”職責，避免盲目“一擁而上”的搶報行為，而非收緊IPO或提高虧損企業門檻。壓實中介責任，從申報源頭上提升質量，是交易所一以貫之的要求，收緊IPO申報的傳言系誤讀。"
-    },
-    {
-      "id": "5055485",
-      "time": "2026-08-24 18:38:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【物產中大：2026年上半年淨利潤19.85億元，同比下降2.69%】物產中大公告，2026年上半年營業收入2898.77億元，同比增長0.46%；歸屬於上市公司股東的淨利潤19.85億元，同比下降2.69%，2025年上半年為20.4億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤16.99億元，同比下降7.81%。"
-    },
-    {
-      "id": "mkt:01a03359-fda6-7aab-90f5-299402813dd8",
-      "time": "2026-08-24 18:38:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "09868.HK",
-        "Impact mixed"
-      ],
-      "text": "XPeng Inc (09868.HK) reported a Q2 2026 net loss of RMB 1.34 billion, versus a loss of RMB 480 million in Q2 2025 and a loss of RMB 1.78 billion in Q1 2026."
-    },
-    {
-      "id": "5055484",
-      "time": "2026-08-24 18:38:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南海利：2026年上半年淨利潤7889.21萬元，同比下降45.00%】湖南海利公告，2026年上半年營業收入9.2億元，同比增長3.96%；歸屬於上市公司股東的淨利潤7889.21萬元，同比下降45.00%，2025年同期1.43億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤7620.33萬元，同比下降21.50%，2025年同期9708萬元。"
-    },
-    {
-      "id": "5055483",
-      "time": "2026-08-24 18:38:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南海利：控股子公司擬投資6724.36萬元建設一期專案】湖南海利公告，公司擬以控股子公司海利貴溪新材料科技有限公司為主體，投資建設3000t/a吡唑醚菌酯生產裝置一期工程建設專案，一期專案產能為500噸/年，擬投資額為6724.36萬元。該議案已於2026年8月21日經董事會審議透過，無需提交股東會審議批准。"
-    },
-    {
-      "id": "5055482",
-      "time": "2026-08-24 18:38:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級將巴基斯坦主權評級上調至B3。"
-    },
-    {
-      "id": "5055481",
-      "time": "2026-08-24 18:38:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國衛通：2026年上半年淨利潤1.13億元，同比下降37.36%】中國衛通公告，2026年上半年營業收入12.29億元，同比增長0.66%；歸屬於上市公司股東的淨利潤1.13億元，同比下降37.36%，2025年同期為1.81億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤9411.16萬元，同比下降45.42%。"
-    },
-    {
-      "id": "5055480",
-      "time": "2026-08-24 18:38:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息： 印度財政部長西塔拉曼將於 8 月 25 日‑9 月 2 日訪問加拿大、美國。"
-    },
-    {
-      "id": "5055479",
-      "time": "2026-08-24 18:37:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【波導股份：2026年上半年淨利潤366.92萬元，同比下降7.03%】波導股份公告，2026年上半年營業收入2.65億元，同比增長17.24%；歸屬於上市公司股東的淨利潤366.92萬元，同比下降7.03%，2025年同期為394.66萬元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損116.56萬元，2025年同期虧損309.3萬元。公司2026年上半年不進行利潤分配，也不進行資本公積金轉增股本。"
-    },
-    {
-      "id": "5055478",
-      "time": "2026-08-24 18:37:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神馳機電：2026年上半年淨利潤6512.97萬元，同比下降44.65%】神馳機電公告，2026年上半年營業收入16.4億元，同比增長6.11%；歸屬於上市公司股東的淨利潤6512.97萬元，同比下降44.65%，2025年同期為1.18億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤6628.18萬元，同比下降44.88%。公司擬向全體股東每股派發現金紅利0.1元（含稅），回購專用證券賬戶持有的股份不參與利潤分配。"
-    },
-    {
-      "id": "5055477",
-      "time": "2026-08-24 18:37:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬集科技：2026年上半年虧損3213.37萬元，2025年同期虧損1億元】萬集科技公告，2026年上半年營業收入4.88億元，同比增長15.86%；歸屬於上市公司股東的淨利潤虧損3213.37萬元，虧損較2025年同期收窄67.97%；扣除非經常性損益的淨利潤虧損3869.96萬元，虧損較2025年同期收窄67.54%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "mkt:01a03358-c99f-7aab-90f5-229a1da64b97",
-      "time": "2026-08-24 18:37:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran deputy foreign minister says U.S. Treasury secretary's comments contradictory】Iran deputy foreign minister Gharibabadi on the 24th wrote on social media addressing U.S. Treasury Secretary Bessent, saying Bessent's remarks are contradictory. He noted that if the U.S. has already claimed to have dismantled Iran's military capability, destroyed nearly all military factories and “buried” Iran's nuclear program, why is a so‑called “largest‑ever financial offensive” against Iran necessary? He added: “Is this a victory, or an admission of U.S. failure?”"
-    },
-    {
-      "id": "5055476",
-      "time": "2026-08-24 18:37:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長：公司重點是儘可能擴大各類產品供應。"
-    },
-    {
-      "id": "5055475",
-      "time": "2026-08-24 18:37:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "拼多多(PDD.O)：將全力維護消費者權益，建立持久信任。將把合規視為基本優先事項。"
-    },
-    {
-      "id": "5055474",
-      "time": "2026-08-24 18:36:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【川發龍蟒：公司放棄豐巢開曼優先增資權，擬確認損失約5.6億元】川發龍蟒公告，公司持股5.77%的參股公司Hive Box Holdings Limited擬以每股人民幣2.85元發行5.27億股A類普通股；公司於2026年8月24日審議透過放棄本輪增資優先增資權。因本輪增資對應整體估值下滑，公司擬確認公允價值變動損失約5.6億元，預計減少2026年度利潤總額約5.6億元。"
-    },
-    {
-      "id": "mkt:01a03358-0c20-7aab-90f5-1ed2415968f2",
-      "time": "2026-08-24 18:36:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "09868.HK",
-        "Impact bullish"
-      ],
-      "text": "XPeng Group (09868.HK) expects third-quarter total revenue of RMB21.70 billion to RMB23.40 billion, up about 6.47%–14.81% year-on-year and about 9.91%–18.52% quarter-on-quarter."
     }
   ]
 }
