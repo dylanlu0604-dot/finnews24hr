@@ -1,7 +1,52 @@
 {
   "date": "2026-08-31",
-  "count": 417,
+  "count": 422,
   "items": [
+    {
+      "id": "5067585",
+      "time": "2026-08-31 08:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方表示，美軍對霍爾木茲海峽構成“迫在眉睫威脅”的伊朗伊斯蘭革命衛隊佈雷部隊採取了“有限、精準行動”。"
+    },
+    {
+      "id": "5067584",
+      "time": "2026-08-31 08:59:03",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：維持美聯儲9月會議按兵不動的基準判斷 等待資料指引】中信證券釋出研報稱，沃什本次Jackson Hole講話重點捍衛了美聯儲抗通脹的義務和決心，相比其在7月FOMC會議上的言論更為鷹派。市場對9月份加息的預期已顯著提高，但基於該行對美國通脹和經濟增長趨勢的預測，該行維持美聯儲9月會議按兵不動的基準判斷，未來通脹和就業資料至關重要。短期市場加息預期回暖推升美元，利空黃金，但中期長端實際利率下行仍支援金價上漲彈性。"
+    },
+    {
+      "id": "mkt:01a05553-69f6-7118-8404-d38a11243bf4",
+      "time": "2026-08-31 08:58:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【South Korea and U.S. discuss bolstering energy cooperation amid rising global uncertainty】YONHAP reports South Korea’s Ministry of Climate, Energy and Environment said on Monday that Second Vice Minister Lee Ho-hyeon met U.S. official Kokodrily in Seoul to discuss measures to secure energy supply chains and stabilize power supply. The sides exchanged views on energy security priorities, including grid resilience as electricity demand rises and energy storage capacity expands. Lee said securing supply chains and stable power is a pillar of industrial competitiveness and that the talks aim to help both countries address growing market uncertainty and deepen bilateral energy cooperation."
+    },
+    {
+      "id": "5067583",
+      "time": "2026-08-31 08:56:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏達電子：正結合伺服器算力等領域需求加強鉭電容市場開拓】宏達電子(300726)8月31日在互動平臺表示，AI伺服器算力提升帶來功耗大幅增加，對電源系統穩定性提出更高要求，從而帶來對具有高可靠性特點的鉭電容需求提升，公司已關注到這一趨勢，並正結合伺服器算力等領域需求加強市場開拓。"
+    },
+    {
+      "id": "5067582",
+      "time": "2026-08-31 08:56:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月28日355股獲融資買入超億元 中際旭創穫買入43.62億元居首】8月28日共有3521只個股獲融資資金買入，有355股買入金額超億元。其中，中際旭創、新易盛、勝宏科技融資買入金額排名前三，分別獲買入43.62億元、24.35億元、21.28億元。"
+    },
     {
       "id": "5067580",
       "time": "2026-08-31 08:54:14",
