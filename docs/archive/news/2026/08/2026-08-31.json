@@ -1,7 +1,15 @@
 {
   "date": "2026-08-31",
-  "count": 905,
+  "count": 906,
   "items": [
+    {
+      "id": "mkt:01a05625-d59a-7118-840a-34dac8189a4e",
+      "time": "2026-08-31 12:48:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【GigaDevice joins Zephyr project, becomes silver member of Zephyr and Linux Foundation】GigaDevice has joined the Zephyr real-time open-source OS project hosted by the Linux Foundation and become a silver member of both the Zephyr project and the Linux Foundation, marking a step-up in its global open-source embedded ecosystem build-out."
+    },
     {
       "id": "5067950",
       "time": "2026-08-31 12:45:41",
