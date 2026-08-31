@@ -1,7 +1,60 @@
 {
   "date": "2026-08-31",
-  "count": 872,
+  "count": 877,
   "items": [
+    {
+      "id": "mkt:01a05613-ff50-7118-840a-017acaff704c",
+      "time": "2026-08-31 12:29:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Asian refiners step up purchases of Argentine Medanito crude】Asian refiners have increased purchases of Argentine Medanito crude after the Iran conflict disrupted Middle East supplies, traders said. Japanese and South Korean refineries have bought Medanito cargoes, with at least one shipment loaded earlier this month. Medanito is a WTI-like grade. Since the conflict began, U.S. crude sales into Asia for September loading have risen about 64%. Volumes of Argentine crude heading to Asia remain small versus other producers, but the buying highlights refiners’ push to diversify supplies and shore up energy security. Argentine government data show average crude exports this year of 215,000 bpd, mostly bound for the United States and Chile."
+    },
+    {
+      "id": "5067931",
+      "time": "2026-08-31 12:28:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海鄉村全面振興發展指數連續四年領跑全國】8月31日，上海市農業農村委召開的新聞釋出會上介紹，近日，國家統計局根據2025年鄉村振興統計監測指標體系資料，採用主客觀結合的組合賦權法開展了各省級地區年度鄉村全面振興發展指數測算。根據反饋結果，2025年，上海鄉村全面振興發展總指數為84.4，連續第四年位居全國31個省區市首位，較2024年提升3.9。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a05612-930b-7118-8409-ffd1d5521c45",
+      "time": "2026-08-31 12:27:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "ALB.O",
+        "Impact bullish",
+        "002460.SZ"
+      ],
+      "text": "【Energy storage drives lithium demand; TTANQT LITHIUM, Ganfeng post 1H profit highs】Rapid growth in the energy storage sector is boosting battery-metal demand and lifting lithium prices, translating into sizable profits for producers. China majors TTANQT LITHIUM and Ganfeng Lithium recorded 1H net profits at three-year highs. US-based Albemarle said global lithium demand through May rose about 45% YoY, outpacing supply growth. Australia’s PLS Group posted AUD 526 mln (USD 377 mln) profit for the 12 months to June 30, versus a loss a year earlier, and expects a supply shortfall and firm lithium prices in the coming months."
+    },
+    {
+      "id": "mkt:01a05612-4f6c-7118-8409-f2f710a5fcb1",
+      "time": "2026-08-31 12:27:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said vessels transiting the Strait of Hormuz must strictly comply with rules issued by the IRGC Navy and urged shipping companies not to be deceived or provoked by US forces, warning against needlessly endangering vessels, assets or crew."
+    },
+    {
+      "id": "5067930",
+      "time": "2026-08-31 12:26:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，這艘油輪當時正試圖非法透過霍爾木茲海峽南部。船隻必須遵守其霍爾木茲海峽通航規則。"
+    },
     {
       "id": "5067929",
       "time": "2026-08-31 12:26:15",
