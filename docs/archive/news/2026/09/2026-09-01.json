@@ -1,7 +1,84 @@
 {
   "date": "2026-09-01",
-  "count": 175,
+  "count": 184,
   "items": [
+    {
+      "id": "5069400",
+      "time": "2026-09-01 02:58:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會聯合多州就廣告定價問題起訴亞馬遜，該案已提交西雅圖聯邦法院。"
+    },
+    {
+      "id": "5069399",
+      "time": "2026-09-01 02:58:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國向煉油廠授予2017年以來最高規模的生物燃料義務豁免。"
+    },
+    {
+      "id": "5069398",
+      "time": "2026-09-01 02:56:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "JBS股價跌至盤中低點。"
+    },
+    {
+      "id": "mkt:01a0592d-c4ab-7118-841f-5e5eda03c0b5",
+      "time": "2026-09-01 02:56:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. EPA approved full waivers for 18 applications, approved 50% waivers for 11 applications, denied 3 applications and found 2 ineligible."
+    },
+    {
+      "id": "5069397",
+      "time": "2026-09-01 02:56:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西已就關稅問題與美國舉行會談，並稱美方相關措施不公平。"
+    },
+    {
+      "id": "te:economy:579660",
+      "time": "2026-09-01 02:55:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Uruguay Trade Deficit Widens in July — Uruguay’s trade deficit widened to $182.84 million in July 2026 from $54.12 million a year earlier. Imports rose 15.1% year-on-year to $1.19 billion. Purchases of intermediate goods increased 26.9%, driven by a 139.1% jump in oil and distillate imports, while electricity imports rose 62.5% and food and beverage imports increased 36.3%. Consumer goods imports rose 5.5%, with purchases of autos and other transport equipment up 21.7% and durable goods increasing 20.2%. Meanwhile, capital goods imports declined 1.9%. Exports rose 2.8% to $1.01 billion, as sales of manufactured goods grew 10.9%, while exports of primary products declined 9.6% and utilities fell 31.5%."
+    },
+    {
+      "id": "mkt:01a0592d-8bbc-7118-841f-579f6df18ec2",
+      "time": "2026-09-01 02:55:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. EPA said it has issued decisions on 34 small-refinery waiver petitions filed by 34 refineries."
+    },
+    {
+      "id": "5069396",
+      "time": "2026-09-01 02:55:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環境保護署：已批准18份申請的全額豁免，批准11份申請的50%豁免，駁回3份申請，並判定2份申請不具備申請資格。"
+    },
+    {
+      "id": "5069395",
+      "time": "2026-09-01 02:54:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署：宣佈就34家煉油商提交的34份單獨小型煉油廠豁免申請作出裁定，上述申請旨在請求豁免這些煉油廠2025合規年度的可再生燃料標準配額義務。"
+    },
     {
       "id": "5069394",
       "time": "2026-09-01 02:54:13",
