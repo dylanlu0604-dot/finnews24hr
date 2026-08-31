@@ -1,0 +1,983 @@
+{
+  "date": "2026-09-01",
+  "count": 104,
+  "items": [
+    {
+      "id": "mkt:01a058ea-086f-7118-841e-7420d0419deb",
+      "time": "2026-09-01 01:42:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Photos released by the Israeli Prime Minister's Office show Prime Minister Netanyahu meeting Mossad director Roman Gofman at Mossad headquarters."
+    },
+    {
+      "id": "5069354",
+      "time": "2026-09-01 01:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊總參謀部與哈塔姆‑安比亞中央總部：儘管部分地區國家作出保證，但美國仍利用其領土與領空對伊朗實施打擊，無視此前發出的警告。"
+    },
+    {
+      "id": "mkt:01a058e8-3485-7118-841e-68514ddd2b9e",
+      "time": "2026-09-01 01:40:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Nikkei reports Japan is seeking to host the Secretariat of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)."
+    },
+    {
+      "id": "mkt:01a058e5-e967-7118-841e-64d892430940",
+      "time": "2026-09-01 01:37:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Nscale completed approximately $3 bln of financing for AI deployment projects in Ward and Madison counties, Texas."
+    },
+    {
+      "id": "5069353",
+      "time": "2026-09-01 01:37:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "隨著美國國家航空航天局南希·格蕾絲·羅曼空間望遠鏡發射升空，泰雷茲公司已實現太空在軌科學成像感測器數量突破1000臺。"
+    },
+    {
+      "id": "5069352",
+      "time": "2026-09-01 01:36:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nscale：北卡羅來納州麥迪遜縣專案獲得最高12億美元貸款授信額度。"
+    },
+    {
+      "id": "mkt:01a058e4-c24e-7118-841e-5c3dea2e54a2",
+      "time": "2026-09-01 01:36:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's armed forces warned they will deliver 'far beyond proportionate' retaliation against any attack launched using regional states' territory, airspace or waters. They said the US military has no choice but to withdraw from the region."
+    },
+    {
+      "id": "5069351",
+      "time": "2026-09-01 01:36:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nscale：得克薩斯州沃德縣園區獲得18.5億美元貸款授信額度。"
+    },
+    {
+      "id": "5069350",
+      "time": "2026-09-01 01:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nscale：設施建設資金將主要用於在兩個園區部署圖形處理器基礎設施及配套網路、儲存與液冷裝置。"
+    },
+    {
+      "id": "5069349",
+      "time": "2026-09-01 01:32:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nscale為得克薩斯州沃德縣和北卡羅來納州麥迪遜縣的人工智慧部署專案完成了近30億美元融資。"
+    },
+    {
+      "id": "mkt:01a058e0-146c-7118-841e-562ed91220ce",
+      "time": "2026-09-01 01:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin met Kazakh President Tokayev in Bishkek during the Shanghai Cooperation Organization summit."
+    },
+    {
+      "id": "mkt:01a058df-08f7-7118-841e-4e37ccd944f5",
+      "time": "2026-09-01 01:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said 180 Ukrainian drones were shot down across multiple regions within Russian territory on the day."
+    },
+    {
+      "id": "mkt:01a058de-69c3-7118-841e-41edb30d8abb",
+      "time": "2026-09-01 01:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UK Conservative Party said Chris Philp will remain Shadow Home Secretary."
+    },
+    {
+      "id": "5069348",
+      "time": "2026-09-01 01:28:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，當天共有180架烏克蘭無人機在俄羅斯聯邦各地被擊落。"
+    },
+    {
+      "id": "5069347",
+      "time": "2026-09-01 01:28:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京在上合峰會間隙，會見哈薩克總統託卡耶夫。"
+    },
+    {
+      "id": "mkt:01a058dd-19bc-7118-841e-39df1d5075fe",
+      "time": "2026-09-01 01:28:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian foreign minister Araghchi said US breaches of the Islamabad memorandum of understanding caused the current situation and that only if the US resumes fulfilling commitments signed by its president can the situation return to normal and the war end."
+    },
+    {
+      "id": "5069346",
+      "time": "2026-09-01 01:27:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國保守黨表態：克里斯·菲爾普繼續擔任影子內政大臣。"
+    },
+    {
+      "id": "5069345",
+      "time": "2026-09-01 01:26:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "德州電力可靠性委員會（ERCOT）：預計用電需求將處於高位，峰值將落在8.5萬兆瓦至8.9萬兆瓦區間。"
+    },
+    {
+      "id": "te:markets:579655",
+      "time": "2026-09-01 01:26:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.04% — Palladium decreased 5.04% to 1374 USD/t.oz"
+    },
+    {
+      "id": "5069344",
+      "time": "2026-09-01 01:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "德州電力可靠性委員會（ERCOT）：本週，德州電網覆蓋的大部分割槽域氣溫將持續接近正常水平或高於正常水平。"
+    },
+    {
+      "id": "mkt:01a058d9-bdf1-7118-841e-34ec38c725c0",
+      "time": "2026-09-01 01:24:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources say Dragoneer plans to use stakes in OpenAI, SpaceX and other holdings to raise $2 billion for a new continuation fund intended to keep existing assets long-term."
+    },
+    {
+      "id": "5069343",
+      "time": "2026-09-01 01:22:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：比亞迪已接洽，有意接管加拿大斯特蘭蒂斯工廠。"
+    },
+    {
+      "id": "mkt:01a058d7-2540-7118-841e-2ee3a4e561da",
+      "time": "2026-09-01 01:21:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Swiss parliamentary committee said a final decision on capital requirements may not be made until 2027."
+    },
+    {
+      "id": "5069342",
+      "time": "2026-09-01 01:21:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "Dragoneer投資集團以OpenAI、SpaceX優質股權為籌碼，為新基金募資20億美元，擬延長存量資產持有周期。"
+    },
+    {
+      "id": "5069341",
+      "time": "2026-09-01 01:19:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（8月31日），美聯儲隔夜逆回購協議（RRP）使用規模為67.26億美元（交易對手4家），上個交易日報1.75億美元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609013860517188",
+      "time": "2026-09-01 01:19:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲在固定利率逆回購操作中總計接納了4個對手方的67.26億美元。"
+    },
+    {
+      "id": "mkt:01a058d2-38da-7118-841e-203919088a4d",
+      "time": "2026-09-01 01:16:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $6.726 billion from four counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5069340",
+      "time": "2026-09-01 01:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會：加強AT1資本對瑞銀而言將比目前成本更高。"
+    },
+    {
+      "id": "mkt:01a058d1-6c75-7118-841e-192fc3bf3059",
+      "time": "2026-09-01 01:15:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF spokesperson says the IMF delegation to Senegal has made \"substantial progress\"."
+    },
+    {
+      "id": "mkt:01a058d0-d599-7118-841e-17fd9136f6e4",
+      "time": "2026-09-01 01:14:36",
+      "tags": [
+        "MKT News",
+        "UBSG.SW",
+        "Impact bearish"
+      ],
+      "text": "Chair of a Swiss parliamentary committee said the outcome is not a victory for UBS but a solution serving Switzerland."
+    },
+    {
+      "id": "5069339",
+      "time": "2026-09-01 01:14:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會主席：這不是瑞銀的勝利，而是一項服務於瑞士利益的解決方案。"
+    },
+    {
+      "id": "mkt:01a058d0-842c-7118-841e-0b50479ab9ac",
+      "time": "2026-09-01 01:14:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: IMF has completed its mission to Senegal and expects to achieve \"positive progress\"."
+    },
+    {
+      "id": "5069338",
+      "time": "2026-09-01 01:14:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織發言人表示，赴塞內加爾工作組\"已取得實質性進展\"。"
+    },
+    {
+      "id": "5069337",
+      "time": "2026-09-01 01:14:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士稱，國際貨幣基金組織代表團訪問塞內加爾後，預計將出現“積極進展”。"
+    },
+    {
+      "id": "mkt:01a058cd-d302-7118-841e-01338d56e496",
+      "time": "2026-09-01 01:11:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Lebanese news agency reported hostile drones struck Mansouri town and the Masha area in southern Lebanon in three consecutive attacks."
+    },
+    {
+      "id": "5069336",
+      "time": "2026-09-01 01:10:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會：強化後的額外一級資本（AT1）將在危機銀行進入穩定階段時立即生效。"
+    },
+    {
+      "id": "5069335",
+      "time": "2026-09-01 01:09:59",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什：“全球投資激增”塑造當前的二十國集團環境】“如果要我概括此刻的狀況，那就是全球投資激增，” 美聯儲主席凱文·沃什在北卡羅來納州阿什維爾舉行的二十國集團（G20）財長會議上致開幕辭時說。他還說，以往二十國集團會議的主題是“長期停滯”和“全球儲蓄過剩。”"
+    },
+    {
+      "id": "mkt:01a058cb-dedc-7118-841d-fd667e9a9962",
+      "time": "2026-09-01 01:09:10",
+      "tags": [
+        "MKT News",
+        "UBSG.SW",
+        "Impact mixed"
+      ],
+      "text": "Swiss parliamentary committee said the proposal should not raise UBS’s common equity Tier 1 (CET1) costs but would affect its additional Tier 1 (AT1) capital."
+    },
+    {
+      "id": "5069334",
+      "time": "2026-09-01 01:08:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空宣佈推出特朗普賬戶匹配計劃。"
+    },
+    {
+      "id": "mkt:01a058cb-2e73-7118-841d-f636efccc08a",
+      "time": "2026-09-01 01:08:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "According to CNBC, U.S. President Trump will meet U.S. refiners and fuel distributors on Tuesday to discuss expanding refining capacity and lowering gasoline prices."
+    },
+    {
+      "id": "5069333",
+      "time": "2026-09-01 01:08:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會：該提案不應讓瑞銀（UBS）增加更多核心一級資本（CET1）支出，而應增加額外一級資本（AT1）支出。"
+    },
+    {
+      "id": "5069332",
+      "time": "2026-09-01 01:08:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普將於週二會晤美國煉油商與燃料經銷商，討論擴大煉油產能及下調汽油價格。"
+    },
+    {
+      "id": "mkt:01a058ca-9cf4-7118-841d-ec5751acc6be",
+      "time": "2026-09-01 01:07:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Sources say a drone attack struck Kyiv; explosions were reported at the scene."
+    },
+    {
+      "id": "5069331",
+      "time": "2026-09-01 01:04:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會：若觸發門檻被突破，將不得派發股息、不得開展股票回購，同時必須削減紅利發放。"
+    },
+    {
+      "id": "mkt:01a058c7-bf80-7118-841d-e79d0c6dc631",
+      "time": "2026-09-01 01:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss parliamentary committee says if a capital trigger threshold is reached, dividends and capital returns must not be paid."
+    },
+    {
+      "id": "5069330",
+      "time": "2026-09-01 01:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會：將透過上調觸發比例至約11%強化對AT1資本的支援。"
+    },
+    {
+      "id": "5069329",
+      "time": "2026-09-01 01:03:38",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：減債計劃可能還需數月才能出臺，且推出後將面臨重重障礙。"
+    },
+    {
+      "id": "mkt:01a058c6-842c-7118-841d-d86cb28d874b",
+      "time": "2026-09-01 01:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss parliamentary committee will tighten AT1 capital requirements, raising the trigger trigger threshold to about 11%."
+    },
+    {
+      "id": "mkt:01a058c6-0218-7118-841d-d53b72e54cfc",
+      "time": "2026-09-01 01:02:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 13 cites an Israeli assessment that an escalation of tensions between Iran and the US is unlikely to develop into direct military confrontation."
+    },
+    {
+      "id": "5069328",
+      "time": "2026-09-01 01:02:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "安永：安永美國分所投資1億美元，獎勵推動公司未來發展的員工。"
+    },
+    {
+      "id": "5069327",
+      "time": "2026-09-01 01:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會提議：（就瑞銀資本金）外國分支機構需50%核心一級資本支援，50%額外一級資本。"
+    },
+    {
+      "id": "mkt:01a058c5-0390-7118-841d-c80193563eee",
+      "time": "2026-09-01 01:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss parliamentary committee proposes that capital requirements for UBS's overseas subsidiaries be split evenly, with 50% covered by common equity Tier 1 (CET1) and 50% by additional Tier 1 (AT1)."
+    },
+    {
+      "id": "mkt:01a058c4-3cb5-7118-841d-c05057d099ca",
+      "time": "2026-09-01 01:00:50",
+      "tags": [
+        "MKT News",
+        "UBS.N"
+      ],
+      "text": "Swiss parliamentary committee has made a decision on UBS's capital requirements (UBS.N)."
+    },
+    {
+      "id": "5069326",
+      "time": "2026-09-01 01:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理稱上節目千小時促美國打伊朗】在以色列第14頻道電視臺當地時間8月30日的一檔節目中，以色列總理內塔尼亞胡稱，自己反對伊朗已經快40年了，而讓美國也認識到應當反對伊朗花了很長時間，而之所以能做到這一點，是因為自己在美國電視節目上露面的時間多達近1000個小時，在美國產生了影響力。伊朗外長阿拉格齊8月31日在社交媒體平臺轉發這段節目影片，配文嘲諷內塔尼亞胡是“雙面人”：在希伯來語的語境中“公開吹噓自己如何愚弄美國為以色列而戰”，在英語的語境中則“對美國總統大加讚賞”，“真是一個狡猾的人”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5069325",
+      "time": "2026-09-01 01:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會委員會：已就瑞銀資本金要求做出決定。"
+    },
+    {
+      "id": "mkt:01a058c3-8802-7118-841d-bf6823a95a97",
+      "time": "2026-09-01 01:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S., during its G20 presidency, will prioritize stronger, more durable economic growth and is pushing a new growth agenda by attracting capital, cutting taxes and expanding its energy advantage."
+    },
+    {
+      "id": "5069324",
+      "time": "2026-09-01 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.68%，滬銅收漲0.62%，滬鋁收漲0.23%，滬鋅收漲2.26%，滬鉛收跌1.17%，滬鎳收跌0.72%，滬錫收漲0.75%。氧化鋁夜盤收跌0.22%，鋁合金收跌0.06%。不鏽鋼夜盤收跌1.15%。"
+    },
+    {
+      "id": "5069323",
+      "time": "2026-09-01 00:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜將於2026年10月1日起，在華盛頓州裁員121人。"
+    },
+    {
+      "id": "mkt:01a058c2-54c0-7118-841d-b4831cb69d07",
+      "time": "2026-09-01 00:58:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon.com Inc (AMZN.O) will cut 121 jobs in Washington effective Oct. 1, 2026, a company notice said."
+    },
+    {
+      "id": "mkt:01a058c0-2ff0-7118-841d-aa75cb9ac8c1",
+      "time": "2026-09-01 00:56:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KATZ approved Chief of Staff Ayal Zmira’s recommendation to appoint Brig. Gen. Dodo Bar-Klipa as commander of the Central Command. He is slated to assume the post in 2027, timing contingent on assessments of the operational situation."
+    },
+    {
+      "id": "mkt:01a058bf-4e99-7118-841d-a0b73cdf2b5a",
+      "time": "2026-09-01 00:55:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Israel Defense Forces said an airstrike in Gaza killed the head of Hamas's weapons-supply unit."
+    },
+    {
+      "id": "5069322",
+      "time": "2026-09-01 00:55:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【傑米·戴蒙和高盛CEO等商界領袖將出席G20峰會】摩根大通執行長傑米·戴蒙和高盛執行長蘇德巍預計將與來自加密貨幣、科技、製造業和醫療保健等行業的企業高管一同出席G20峰會。預計出席的其他高管還包括雅保執行長Kent Masters、3M執行長Bill Brown、禮來執行長David Ricks、Truist候任執行長Michael Lyons、花旗全球數字資產主管Ryan Rugg、金融科技初創公司Ramp執行長Eric Glyman，以及Circle總裁Heath Tarbert。"
+    },
+    {
+      "id": "mkt:01a058bf-178c-7118-841d-9c8851741cd5",
+      "time": "2026-09-01 00:55:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS reported Israeli warplanes struck southern Lebanon, hitting the town of East Zoutar and areas near Kfar Rumman."
+    },
+    {
+      "id": "5069321",
+      "time": "2026-09-01 00:52:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄軍當晚打擊了基輔“西門物流”公司的倉庫設施，該處被用於組裝無人機。"
+    },
+    {
+      "id": "mkt:01a058bc-1508-7118-841d-955b10e29e2b",
+      "time": "2026-09-01 00:51:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Finance Ministry said Finance Minister Siluanov met U.S. Treasury Secretary Bessent on the sidelines of G20 meetings in the United States."
+    },
+    {
+      "id": "5069320",
+      "time": "2026-09-01 00:50:55",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯財政部表示，財長西盧阿諾夫與美國財長貝森特討論了俄美兩國在金融領域的合作，以及二十國集團（G20）框架下的互動。"
+    },
+    {
+      "id": "5069319",
+      "time": "2026-09-01 00:48:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "芝加哥期權交易所全球市場股價跌幅快速擴大，下跌2.7%；芝加哥商業交易所集團股價續挫至日內低點；納斯達克集團與洲際交易所股價同步走弱。"
+    },
+    {
+      "id": "mkt:01a058b9-13b0-7118-841d-8f40655fb56e",
+      "time": "2026-09-01 00:48:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Microsoft (MSFT.O) is expanding strategic cooperation with Humain."
+    },
+    {
+      "id": "5069318",
+      "time": "2026-09-01 00:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "HUMAIN與微軟計劃聯合推出整合微軟365的HUMAIN ONE產品。"
+    },
+    {
+      "id": "5069317",
+      "time": "2026-09-01 00:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟與Human擴大戰略合作。"
+    },
+    {
+      "id": "5069316",
+      "time": "2026-09-01 00:42:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【衛星拍到美軍約旦空軍基地疑似損毀，美約稱攔截成功，伊朗宣稱重創目標】伊朗夜間彈道導彈齊射過後，衛星影像在約旦穆瓦法克‑薩爾蒂空軍基地觀測到一處新的暗色斑塊。哨兵‑2衛星的前後對比圖顯示，戰鬥機機庫附近疑似出現爆炸損毀痕跡。約旦與美國方面稱，幾乎全部導彈均遭攔截，未造成重大損失。伊朗則宣稱襲擊造成嚴重損毀。"
+    },
+    {
+      "id": "mkt:01a058b0-395b-7118-841d-828238b107da",
+      "time": "2026-09-01 00:38:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it shot down MQ-9 drone near Strait of Hormuz】Mehr news agency reported minutes ago that the IRGC Aerospace Force intercepted and shot down an MQ-9 drone east of the Strait of Hormuz using a new advanced air-defense system, which is under unified command of Iran's national integrated air-defense network."
+    },
+    {
+      "id": "5069315",
+      "time": "2026-09-01 00:34:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司菲爾·席勒卸任App Store及產品釋出會負責人職務。"
+    },
+    {
+      "id": "5069314",
+      "time": "2026-09-01 00:31:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，在美國特使與俄方溝通前，他已向美方特使通報了打擊情況及戰場局勢。"
+    },
+    {
+      "id": "mkt:01a058a9-50e6-7118-841d-7f9754512b0a",
+      "time": "2026-09-01 00:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said he discussed ways to encourage Russia to engage in peace talks."
+    },
+    {
+      "id": "5069313",
+      "time": "2026-09-01 00:31:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱已就勸說俄羅斯開啟和平談判的相關途徑進行了討論。"
+    },
+    {
+      "id": "mkt:01a058a8-eb6f-7118-841d-730f933d7a02",
+      "time": "2026-09-01 00:31:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he briefed the US special envoy on attacks and battlefield conditions before communicating with Russia."
+    },
+    {
+      "id": "5069312",
+      "time": "2026-09-01 00:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油表示，其位於印第安納州惠廷的日加工量44萬桶煉油廠正在開展計劃內作業，該作業將在未來數天內持續進行。"
+    },
+    {
+      "id": "mkt:01a058a7-b8cb-7118-841d-6ed5a87525d4",
+      "time": "2026-09-01 00:29:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it shot down an MQ-9 unmanned aerial vehicle east of the Strait of Hormuz."
+    },
+    {
+      "id": "5069311",
+      "time": "2026-09-01 00:28:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：再次告誡全體國民，切勿讓任何分歧矛盾在民眾之間滋生。"
+    },
+    {
+      "id": "5069310",
+      "time": "2026-09-01 00:28:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：在霍爾木茲海峽東部擊落一架MQ9無人機。"
+    },
+    {
+      "id": "mkt:01a058a2-7801-7118-841d-657aa139f08b",
+      "time": "2026-09-01 00:23:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Press TV quoted Iranian President Pezeshkian saying Iran believes peace and security must extend across West Asia."
+    },
+    {
+      "id": "mkt:01a058a1-8d65-7118-841d-585b3e505875",
+      "time": "2026-09-01 00:22:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Finance Minister Klingbeil said Russia's participation in the G20 would not signify that Germany-Russia relations have returned to \"normal\"."
+    },
+    {
+      "id": "5069309",
+      "time": "2026-09-01 00:22:44",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "德國財政部長表示，即便俄羅斯出席二十國集團（G20）會議，對俄關係也不存在所謂“正常”狀態。"
+    },
+    {
+      "id": "mkt:01a058a1-3fa8-7118-841d-513b6b21af48",
+      "time": "2026-09-01 00:22:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Punchbowl reports Zelenskiy will send his chief sanctions adviser to the US Congress this week to lobby House Democrats to support the Senate-passed Russia sanctions bill."
+    },
+    {
+      "id": "te:markets:579653",
+      "time": "2026-09-01 00:22:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Lower — European stocks closed firmly lower on Monday as higher oil prices consolidated expectations of more rate hikes by the European Central Bank. The Euro STOXX 50 fell 0.9% to 5,426 and the STOXX Europe 600 dropped 0.6% to 651. The US and Iran exchanged new strikes and drove oil prices to rise sharply. Higher energy prices had drove inflation in Germany, Spain, and France to pick up in August, with data from the Stocks in AI infrastructure booked sharp losses ahead of Broadcom, and Palo Alto earnings this week, maintaining volatility on the sector with ASML and Siemens Energy falling 2.9% and 5%, respectively. Industrials also pulled back with Airbus, Schneider, and Rheinmetall dropping between 4% and 2.75%. For August, the Euro STOXX 50 gained 1% and the STOXX Europe 600 added 0.3%, underperforming due to its higher exposure to UK miners and pharmaceutical companies."
+    },
+    {
+      "id": "5069308",
+      "time": "2026-09-01 00:21:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：伊朗認為西亞全境必須實現和平與安全。"
+    },
+    {
+      "id": "mkt:01a0589c-b780-7118-841d-4dc7df23e400",
+      "time": "2026-09-01 00:17:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Finance Minister Klingbeil said barring journalists from attending the G20 meeting is unacceptable."
+    },
+    {
+      "id": "5069307",
+      "time": "2026-09-01 00:17:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國財政部長克林貝爾表示，記者被禁止出席G20會議是不可接受的。"
+    },
+    {
+      "id": "te:markets:579652",
+      "time": "2026-09-01 00:15:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Slips From Three-Month High — Palladium futures hovered near $1,380 per ounce, after reaching a three-month high, as near-term investment flows continue to influence prices despite stronger industrial demand. Hawkish statements from Fed Chair Warsh and fresh strikes in the Middle East supported expectations of a Fed rate hike, weighing on the non-yielding metal. Still, tighter emissions regulations could support the metal as consumers increasingly transition toward hybrid vehicles, which still use autocatalysts, rather than moving directly from to BEVs. Volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. However, major producing countries, particularly Russia and South Africa, continue to face geopolitical tensions and operational vulnerabilities in mining infrastructure, constraining supply."
+    },
+    {
+      "id": "mkt:01a05897-c8a3-7118-841d-46299caea394",
+      "time": "2026-09-01 00:12:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve (SPR) crude inventories fell about 3.1 mln barrels last week to 286.6 mln barrels."
+    },
+    {
+      "id": "te:markets:579649",
+      "time": "2026-09-01 00:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index decreased 3 points or 0.01 percent on Monday to close at 52613 points. The decline was led by Avio (-2.90%), Leonardo SpA (-2.14%) and Buzzi Unicem (-1.89%). On the upside, the strongest performers were Tenaris (2.95%), Saipem (2.44%) and Eni (2.26%)."
+    },
+    {
+      "id": "5069306",
+      "time": "2026-09-01 00:12:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "上週美國戰略石油儲備原油庫存減少約310萬桶，降至2.866億桶。"
+    },
+    {
+      "id": "5069305",
+      "time": "2026-09-01 00:11:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "預測市場平臺Kalshi向美國商品期貨交易委員會（CFTC）提交外匯永續合約上線申請。"
+    },
+    {
+      "id": "te:markets:579646",
+      "time": "2026-09-01 00:11:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Falls to Over One-Week Low — Platinum futures traded below $1,850 per ounce, reaching a more than one-week low as near-term investment flows continue to influence prices despite stronger industrial demand. Hawkish statements from Fed Chair Warsh and fresh strikes in the Middle East supported expectations of a Fed rate hike, weighing on the non-yielding metal. Still, volatile fuel costs and tight supplies linked to the Middle East conflict are encouraging countries to reduce exposure to fossil-fuel price volatility, supporting demand for hybrid vehicles, which use autocatalysts. Additionally, Hyundai's plans to introduce 10 new hybrid models in North America further supports demand for the metal. The World Platinum Investment Council forecasts industrial demand to increase 9% in 2026, while emerging applications in hydrogen technologies, chips and AI data-centers could provide additional long-term demand. The metal also remains supported by a persistent supply deficit, limiting available metal."
+    },
+    {
+      "id": "te:markets:579645",
+      "time": "2026-09-01 00:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.17% Lower — The DAX Index fell 312 points or 1.17 percent on Monday to close at 26258 points. Leading the losses are Siemens Energy (-5.02%), Rheinmetall (-3.23%) and Vonovia (-2.92%)."
+    },
+    {
+      "id": "te:markets:579644",
+      "time": "2026-09-01 00:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.60% Lower — The CAC 40 Index dropped 50 points or 0.60 percent on Monday to close at 8351 points. Losses were led by Airbus (-2.86%), Safran (-2.30%) and STMicroelectronics (-2.06%). Offsetting the fall, top gainers were Stellantis NV (1.83%), Pernod Ricard (1.80%) and TotalEnergies SE (1.40%)."
+    },
+    {
+      "id": "mkt:01a05894-cd2f-7118-841d-393e0e9c75a5",
+      "time": "2026-09-01 00:09:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield rose above 4.75% for the first time since January 2025."
+    },
+    {
+      "id": "te:markets:579643",
+      "time": "2026-09-01 00:08:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Drops on Renewed Inflation Concerns — The CAC 40 fell 0.8% to close at 8,334 on Monday amid renewed inflationary pressures stemming from the US-Iran war. Oil prices rebounded as the US and Iran exchanged strikes for the first time in roughly a month, while fresh concerns over shipping through the Strait of Hormuz added to supply risks. Higher crude prices weighed on the index amid concerns over energy-driven inflation. Luxury stocks declined as risk aversion increased, with LVMH losing 1.1%, L’Oreal shedding 1%, and Hermes retreating 1.1%. Financials were mixed, with AXA down 1.2%. Industrials underperformed, led by Airbus (-2.9%) and Safran (-2.1%). Fitch Ratings affirmed France’s rating at ‘A+’ with a Stable Outlook. However, high and rising public debt, a challenging political and social environment, and weak potential growth are seen as constraints. Tech stocks tracked losses in the US, with Schneider Electric down 2.4% and STMicroelectronics losing 0.8%. In contrast, TotalEnergies gained 1.1% on higher oil prices."
+    },
+    {
+      "id": "5069304",
+      "time": "2026-09-01 00:05:39",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "週一美國10年期國債收益率突破4.75%，為2025年1月以來首次；油價上漲推升市場對美聯儲加息的預期。"
+    },
+    {
+      "id": "5069303",
+      "time": "2026-09-01 00:04:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟365執行狀態公告：正在調查有關Exchange Online出問題的報告。"
+    },
+    {
+      "id": "mkt:01a05890-5e7d-7118-841d-30bcd1f58ab1",
+      "time": "2026-09-01 00:04:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "Microsoft 365 says it is investigating reports of issues affecting Exchange Online."
+    },
+    {
+      "id": "5069302",
+      "time": "2026-09-01 00:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭聯合執政各政黨就2027年預算草案達成協議。"
+    },
+    {
+      "id": "mkt:01a0588d-938e-7118-841d-2ef768c55ea6",
+      "time": "2026-09-01 00:01:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Saudi Arabia, Pakistan, Turkey deepen Makkah Alliance defence cooperation, pledge de‑escalation】Saudi Arabia, Pakistan and Turkey agreed to deepen cooperation under the Makkah Alliance, pledging to strengthen deterrence, collective defence and defensive capabilities and to promote de‑escalation and restraint, the three countries said after the alliance's first political and defence strategy committee meeting. The pact covers defence-industrial cooperation, scaling up production capacity and technology development. The partners agreed to establish a secretariat in Saudi Arabia led by a secretary-general, with Pakistan to head the secretariat for an initial three‑year term. The three governments said they are committed to implementing the agreement to pursue regional peace and contribute to broader security."
+    }
+  ]
+}
