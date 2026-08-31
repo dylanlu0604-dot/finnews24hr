@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-01 02:22:43",
-  "count": 13076,
+  "updated": "2026-09-01 02:26:44",
+  "count": 13075,
   "items": [
+    {
+      "id": "5069377",
+      "time": "2026-09-01 02:25:45",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "法庭檔案顯示，美國聯邦貿易委員會起訴亞馬遜公司。"
+    },
+    {
+      "id": "te:markets:579658",
+      "time": "2026-09-01 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cotton Gains by 2.03% — Top commodity gainers are Cotton (2.03%), Cocoa (1.81%) and Sugar (1.31%). Biggest losers are Oat (-1.97%) and Canola (-1.34%)."
+    },
     {
       "id": "te:markets:579657",
       "time": "2026-09-01 02:20:02",
@@ -119268,35 +119289,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Depreciates by 2.53% — Top crypto loser is XRP (-2.53%). Gains are led by Bitcoin (1.64%) and Ether (0.59%)."
-    },
-    {
-      "id": "te:markets:577683",
-      "time": "2026-08-25 02:25:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Surges by 5.94% — Top commodity gainers are Coffee (5.94%) and Corn (1.49%). Biggest losers are Canola (-3.34%), Rapeseed (-2.92%) and Cocoa (-1.74%)."
-    },
-    {
-      "id": "mkt:01a03504-8613-7aab-90fe-1e3200065534",
-      "time": "2026-08-25 02:24:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Macron meets Saudi crown prince Mohammed in Paris】French President Macron met Saudi Crown Prince Mohammed, who also serves as prime minister, at the Élysée Palace in Paris on Aug 24."
-    },
-    {
-      "id": "5056121",
-      "time": "2026-08-25 02:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國總統馬克龍會見沙特王儲穆罕默德】8月24日，在位於巴黎的法國總統府愛麗捨宮，法國總統馬克龍（右）迎接來訪的沙烏地阿拉伯王儲兼首相穆罕默德。（新華社）"
     }
   ]
 }

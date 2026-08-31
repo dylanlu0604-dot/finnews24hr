@@ -1,7 +1,28 @@
 {
   "date": "2026-09-01",
-  "count": 141,
+  "count": 143,
   "items": [
+    {
+      "id": "5069377",
+      "time": "2026-09-01 02:25:45",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "法庭檔案顯示，美國聯邦貿易委員會起訴亞馬遜公司。"
+    },
+    {
+      "id": "te:markets:579658",
+      "time": "2026-09-01 02:25:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cotton Gains by 2.03% — Top commodity gainers are Cotton (2.03%), Cocoa (1.81%) and Sugar (1.31%). Biggest losers are Oat (-1.97%) and Canola (-1.34%)."
+    },
     {
       "id": "te:markets:579657",
       "time": "2026-09-01 02:20:02",
