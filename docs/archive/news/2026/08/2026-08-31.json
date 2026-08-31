@@ -1,7 +1,69 @@
 {
   "date": "2026-08-31",
-  "count": 865,
+  "count": 872,
   "items": [
+    {
+      "id": "5067929",
+      "time": "2026-08-31 12:26:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，一艘超大型油輪在霍爾木茲海峽觸發兩枚水雷爆炸後起火，隨後已停航。"
+    },
+    {
+      "id": "5067928",
+      "time": "2026-08-31 12:26:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【人力資源社會保障部副部長吳秀章出席第14屆東盟與中日韓勞工部長會並訪問烏茲別克】8月26日至27日，人力資源社會保障部副部長吳秀章在泰國出席第十四屆東盟與中日韓勞工部長會併發言，宣介我國“投資於人”的新時代技能發展理念和成就。8月28日至29日，吳秀章訪問烏茲別克，與烏國家社會保障署署長奧拉約羅夫會談，就加強兩國社會保障領域合作進行交流。"
+    },
+    {
+      "id": "5067927",
+      "time": "2026-08-31 12:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "5067926",
+      "time": "2026-08-31 12:25:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打擊阿聯酋基地美軍目標】據伊朗國家電視臺今天（8月31日）援引伊朗軍方宣告報道稱，伊朗軍隊發射無人機，襲擊了阿聯酋的一處空軍基地。伊朗軍方稱，此次襲擊的目標是美軍及美軍直升機在該基地的駐紮地點，以回應伊朗南部拉臘克島上伊朗伊斯蘭革命衛隊成員及平民遭襲遇害事件。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "mkt:01a05610-7423-7118-8409-e8f5685c0751",
+      "time": "2026-08-31 12:25:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said hours ago a supertanker attempting an unauthorized transit via the Strait of Hormuz southern route struck two sea mines, sparking a major fire and leaving the vessel dead in the water. The IRGC Navy warned any vessel violating Strait of Hormuz security regulations will face the same fate."
+    },
+    {
+      "id": "5067925",
+      "time": "2026-08-31 12:23:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【StartLux 27B本地模型信通院測試比肩萬億引數旗艦，年內將推商業化方案】中國信通院最新MCP專項測試顯示，上海原點星輝（StartLux）的本地模型StartLux-V1.0-27B-Preview綜合效能位列第二。該模型以27B引數量超越DeepSeek-V4-Flash，與1.6萬億引數的DeepSeek-V4-Pro差距僅約1%，並在金融分析、瀏覽器自動化等Agent任務中居首。"
+    },
+    {
+      "id": "mkt:01a0560e-5e4c-7118-8409-e6690d001f63",
+      "time": "2026-08-31 12:22:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry said it wishes to remind the UN secretary-general, the UN Security Council president and all states concerned that the sole cause of maritime insecurity in the Strait of Hormuz and the Persian Gulf is the illegal, aggressive actions of the US and Israeli regimes."
+    },
     {
       "id": "5067924",
       "time": "2026-08-31 12:22:14",
