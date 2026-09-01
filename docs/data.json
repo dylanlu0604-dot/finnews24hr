@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-02 00:57:58",
-  "count": 12424,
+  "updated": "2026-09-02 01:02:05",
+  "count": 12426,
   "items": [
+    {
+      "id": "5071481",
+      "time": "2026-09-02 01:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta）：Meta超級智慧實驗室即將推出 MUSE 語音轉錄功能。  MUSE 語音轉錄功能可透過 Meta 模型 API、Mac 端 Meta AI 以及 MUSE 程式碼工具使用；API 定價：每 1000 音訊分鐘收費 3 美元。"
+    },
+    {
+      "id": "mkt:01a05dea-f300-7118-8440-1f06a153a552",
+      "time": "2026-09-02 01:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IAEA: In the past three months it has received no information from Iran on the status of declared nuclear material or facilities and has been unable to access any such sites for on-site verification."
+    },
+    {
+      "id": "mkt:01a05dea-c1f0-7118-8440-1099792e934d",
+      "time": "2026-09-02 01:01:01",
+      "tags": [
+        "MKT News",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): Meta AI Superlab launches Muse Voice Transcribe."
+    },
+    {
+      "id": "mkt:01a05dea-12b6-7118-8440-0a60b7dbb301",
+      "time": "2026-09-02 01:00:16",
+      "tags": [
+        "MKT News",
+        "GE.N",
+        "Impact bullish"
+      ],
+      "text": "General Electric (GE.N) will supply 12 LM2500+G4 marine gas turbine engines for six ships in South Korea's next-generation destroyer program (KDDX)."
+    },
+    {
+      "id": "5071480",
+      "time": "2026-09-02 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.07%，滬銅收跌0.83%，滬鋁收漲0.02%，滬鋅收跌0.80%，滬鉛收漲0.31%，滬鎳收跌0.75%，滬錫收跌1.61%。氧化鋁夜盤收漲1.30%，鋁合金收跌0.19%。不鏽鋼夜盤收跌0.69%。"
+    },
+    {
+      "id": "mkt:01a05de9-7f6a-7118-8440-05665f5773d8",
+      "time": "2026-09-02 00:59:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A U.S. official said Venezuela has a viable oil industry that generates government revenue and benefits the population."
+    },
+    {
+      "id": "5071479",
+      "time": "2026-09-02 00:59:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：對委內瑞拉有利的是擁有真正的石油產業，為政府創造財政收入，進而惠及民眾。"
+    },
+    {
+      "id": "5071478",
+      "time": "2026-09-02 00:58:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據半島電視臺：一名美國官員稱，美軍針對伊朗境內革命衛隊目標的打擊仍在持續。"
+    },
+    {
+      "id": "mkt:01a05de7-e6d2-7118-843f-f843dddcc0de",
+      "time": "2026-09-02 00:57:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera reports US strikes on targets linked to the Islamic Revolutionary Guard Corps inside Iran are ongoing."
+    },
+    {
+      "id": "5071476",
+      "time": "2026-09-02 00:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美國政府的支援將幫助委內瑞拉境內運營企業吸引投資。"
+    },
     {
       "id": "mkt:01a05de7-2932-7118-843f-f13c8f5e1b5e",
       "time": "2026-09-02 00:57:05",
@@ -113778,88 +113874,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 2-Year Note Auction Bid/Cover Ratio (Aug.25) | actual 2.6 | previous 2.66"
-    },
-    {
-      "id": "mkt:01a039df-1ba3-7aab-9117-7abf5347f385",
-      "time": "2026-08-26 01:01:57",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "BMO expects the Canadian economy to resume moderate expansion."
-    },
-    {
-      "id": "mkt:01a039df-11b6-7aab-9117-7671a1f6c8d1",
-      "time": "2026-08-26 01:01:55",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "BMO says a USMCA renegotiation would pose material risks to trade policy and the Canadian economy and expects Canada will continue to benefit from compliance waivers, leaving most exports eligible for duty-free entry into the US."
-    },
-    {
-      "id": "5058397",
-      "time": "2026-08-26 01:01:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西聯邦稅務局資料顯示，7月聯邦稅收總額為2893.46億雷亞爾（合564億美元）。"
-    },
-    {
-      "id": "5058396",
-      "time": "2026-08-26 01:00:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "在690億美元拍賣前，2年期美國國債收益率約為4.208%。"
-    },
-    {
-      "id": "mkt:01a039de-1047-7aab-9117-6d9dac0d23e7",
-      "time": "2026-08-26 01:00:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "BMO says the latest US tariffs could reduce Canada's annual GDP growth."
-    },
-    {
-      "id": "mkt:01a039dd-c240-7aab-9117-62d878e4d18f",
-      "time": "2026-08-26 01:00:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "BMO says the North American economy remains resilient despite risks."
-    },
-    {
-      "id": "5058395",
-      "time": "2026-08-26 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.65%，滬銅收漲0.50%，滬鋁收漲0.74%，滬鋅收漲1.23%，滬鉛收漲0.06%，滬鎳收跌0.02%，滬錫收漲0.04%。氧化鋁夜盤收跌1.00%，鋁合金收漲0.52%。不鏽鋼夜盤收漲1.59%。"
-    },
-    {
-      "id": "5058394",
-      "time": "2026-08-26 00:58:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本大金在墨西哥擴大產能，新建資料中心冷卻裝置工廠。"
     }
   ]
 }

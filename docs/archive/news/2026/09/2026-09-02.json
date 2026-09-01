@@ -1,7 +1,103 @@
 {
   "date": "2026-09-02",
-  "count": 107,
+  "count": 117,
   "items": [
+    {
+      "id": "5071481",
+      "time": "2026-09-02 01:01:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta）：Meta超級智慧實驗室即將推出 MUSE 語音轉錄功能。  MUSE 語音轉錄功能可透過 Meta 模型 API、Mac 端 Meta AI 以及 MUSE 程式碼工具使用；API 定價：每 1000 音訊分鐘收費 3 美元。"
+    },
+    {
+      "id": "mkt:01a05dea-f300-7118-8440-1f06a153a552",
+      "time": "2026-09-02 01:01:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IAEA: In the past three months it has received no information from Iran on the status of declared nuclear material or facilities and has been unable to access any such sites for on-site verification."
+    },
+    {
+      "id": "mkt:01a05dea-c1f0-7118-8440-1099792e934d",
+      "time": "2026-09-02 01:01:01",
+      "tags": [
+        "MKT News",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): Meta AI Superlab launches Muse Voice Transcribe."
+    },
+    {
+      "id": "mkt:01a05dea-12b6-7118-8440-0a60b7dbb301",
+      "time": "2026-09-02 01:00:16",
+      "tags": [
+        "MKT News",
+        "GE.N",
+        "Impact bullish"
+      ],
+      "text": "General Electric (GE.N) will supply 12 LM2500+G4 marine gas turbine engines for six ships in South Korea's next-generation destroyer program (KDDX)."
+    },
+    {
+      "id": "5071480",
+      "time": "2026-09-02 01:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.07%，滬銅收跌0.83%，滬鋁收漲0.02%，滬鋅收跌0.80%，滬鉛收漲0.31%，滬鎳收跌0.75%，滬錫收跌1.61%。氧化鋁夜盤收漲1.30%，鋁合金收跌0.19%。不鏽鋼夜盤收跌0.69%。"
+    },
+    {
+      "id": "mkt:01a05de9-7f6a-7118-8440-05665f5773d8",
+      "time": "2026-09-02 00:59:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A U.S. official said Venezuela has a viable oil industry that generates government revenue and benefits the population."
+    },
+    {
+      "id": "5071479",
+      "time": "2026-09-02 00:59:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：對委內瑞拉有利的是擁有真正的石油產業，為政府創造財政收入，進而惠及民眾。"
+    },
+    {
+      "id": "5071478",
+      "time": "2026-09-02 00:58:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據半島電視臺：一名美國官員稱，美軍針對伊朗境內革命衛隊目標的打擊仍在持續。"
+    },
+    {
+      "id": "mkt:01a05de7-e6d2-7118-843f-f843dddcc0de",
+      "time": "2026-09-02 00:57:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera reports US strikes on targets linked to the Islamic Revolutionary Guard Corps inside Iran are ongoing."
+    },
+    {
+      "id": "5071476",
+      "time": "2026-09-02 00:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美國政府的支援將幫助委內瑞拉境內運營企業吸引投資。"
+    },
     {
       "id": "mkt:01a05de7-2932-7118-843f-f13c8f5e1b5e",
       "time": "2026-09-02 00:57:05",
