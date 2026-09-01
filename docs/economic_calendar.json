@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-01 10:40:37",
+  "updated": "2026-09-01 14:26:00",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 457,
+  "count": 459,
   "history_summary": {
     "cached": 457,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 257,
+      "count": 259,
       "dates": [
         {
           "date": "2026-08-31",
@@ -2580,7 +2580,7 @@
         },
         {
           "date": "2026-09-01",
-          "count": 64,
+          "count": 66,
           "events": [
             {
               "id": "capital:1144747",
@@ -3464,9 +3464,9 @@
               "title": "印度8月製造業PMI終值",
               "importance": 1,
               "previous": "52.9",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "53",
+              "actual": "52.8",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144756",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -3523,8 +3523,8 @@
               "importance": 1,
               "previous": "34.9",
               "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "35.5",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184228",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -3569,6 +3569,122 @@
               "history_checked_at": "2026-08-23 07:59:34"
             },
             {
+              "id": "capital:1186568",
+              "fid": "1186568",
+              "interval": "this_week",
+              "date": "2026-09-01",
+              "time": "14:00",
+              "datetime": "2026-09-01 14:00:00",
+              "display_time": "09/01 14:00",
+              "country": "德國",
+              "title": "德國7月實際零售銷售年率",
+              "importance": 1,
+              "previous": "-0.2 %",
+              "forecast": "-- %",
+              "actual": "-2.5 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186568",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/03",
+                  "actual": "-0.2",
+                  "forecast": "-",
+                  "previous": "1.8"
+                },
+                {
+                  "date": "06/30",
+                  "actual": "1.8",
+                  "forecast": "-0.5",
+                  "previous": "-0.3"
+                },
+                {
+                  "date": "06/01",
+                  "actual": "-0.3",
+                  "forecast": "-",
+                  "previous": "-2"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-2",
+                  "forecast": "0.5",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "0.7",
+                  "forecast": "1.6",
+                  "previous": "1.2"
+                },
+                {
+                  "date": "03/02",
+                  "actual": "1.2",
+                  "forecast": "-",
+                  "previous": "3.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-01 14:25:58"
+            },
+            {
+              "id": "capital:1186567",
+              "fid": "1186567",
+              "interval": "this_week",
+              "date": "2026-09-01",
+              "time": "14:00",
+              "datetime": "2026-09-01 14:00:00",
+              "display_time": "09/01 14:00",
+              "country": "德國",
+              "title": "德國7月實際零售銷售月率",
+              "importance": 1,
+              "previous": "-0.7 %",
+              "forecast": "0.4 %",
+              "actual": "-3.4 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186567",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/03",
+                  "actual": "-1.1",
+                  "forecast": "-0.1",
+                  "previous": "1.1"
+                },
+                {
+                  "date": "06/30",
+                  "actual": "1.1",
+                  "forecast": "0",
+                  "previous": "-0.3"
+                },
+                {
+                  "date": "06/01",
+                  "actual": "-0.3",
+                  "forecast": "-0.5",
+                  "previous": "-2"
+                },
+                {
+                  "date": "04/30",
+                  "actual": "-2",
+                  "forecast": "-0.1",
+                  "previous": "-0.6"
+                },
+                {
+                  "date": "03/31",
+                  "actual": "-0.6",
+                  "forecast": "0.2",
+                  "previous": "-0.9"
+                },
+                {
+                  "date": "03/02",
+                  "actual": "-0.9",
+                  "forecast": "-0.2",
+                  "previous": "0.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-01 14:25:58"
+            },
+            {
               "id": "capital:1185734",
               "fid": "1185734",
               "interval": "this_week",
@@ -3580,8 +3696,8 @@
               "title": "英國8月Nationwide房價指數年率",
               "importance": 1,
               "previous": "1.8 %",
-              "forecast": "2.1 %",
-              "actual": "-- %",
+              "forecast": "2 %",
+              "actual": "1.6 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185734",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -3639,7 +3755,7 @@
               "importance": 2,
               "previous": "0.1 %",
               "forecast": "0.1 %",
-              "actual": "-- %",
+              "actual": "0.2 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185733",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -29970,9 +30086,9 @@
       "title": "印度8月製造業PMI終值",
       "importance": 1,
       "previous": "52.9",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "53",
+      "actual": "52.8",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144756",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -30029,8 +30145,8 @@
       "importance": 1,
       "previous": "34.9",
       "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "35.5",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184228",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -30075,6 +30191,122 @@
       "history_checked_at": "2026-08-23 07:59:34"
     },
     {
+      "id": "capital:1186568",
+      "fid": "1186568",
+      "interval": "this_week",
+      "date": "2026-09-01",
+      "time": "14:00",
+      "datetime": "2026-09-01 14:00:00",
+      "display_time": "09/01 14:00",
+      "country": "德國",
+      "title": "德國7月實際零售銷售年率",
+      "importance": 1,
+      "previous": "-0.2 %",
+      "forecast": "-- %",
+      "actual": "-2.5 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186568",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/03",
+          "actual": "-0.2",
+          "forecast": "-",
+          "previous": "1.8"
+        },
+        {
+          "date": "06/30",
+          "actual": "1.8",
+          "forecast": "-0.5",
+          "previous": "-0.3"
+        },
+        {
+          "date": "06/01",
+          "actual": "-0.3",
+          "forecast": "-",
+          "previous": "-2"
+        },
+        {
+          "date": "04/30",
+          "actual": "-2",
+          "forecast": "0.5",
+          "previous": "0.7"
+        },
+        {
+          "date": "03/31",
+          "actual": "0.7",
+          "forecast": "1.6",
+          "previous": "1.2"
+        },
+        {
+          "date": "03/02",
+          "actual": "1.2",
+          "forecast": "-",
+          "previous": "3.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-01 14:25:58"
+    },
+    {
+      "id": "capital:1186567",
+      "fid": "1186567",
+      "interval": "this_week",
+      "date": "2026-09-01",
+      "time": "14:00",
+      "datetime": "2026-09-01 14:00:00",
+      "display_time": "09/01 14:00",
+      "country": "德國",
+      "title": "德國7月實際零售銷售月率",
+      "importance": 1,
+      "previous": "-0.7 %",
+      "forecast": "0.4 %",
+      "actual": "-3.4 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186567",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/03",
+          "actual": "-1.1",
+          "forecast": "-0.1",
+          "previous": "1.1"
+        },
+        {
+          "date": "06/30",
+          "actual": "1.1",
+          "forecast": "0",
+          "previous": "-0.3"
+        },
+        {
+          "date": "06/01",
+          "actual": "-0.3",
+          "forecast": "-0.5",
+          "previous": "-2"
+        },
+        {
+          "date": "04/30",
+          "actual": "-2",
+          "forecast": "-0.1",
+          "previous": "-0.6"
+        },
+        {
+          "date": "03/31",
+          "actual": "-0.6",
+          "forecast": "0.2",
+          "previous": "-0.9"
+        },
+        {
+          "date": "03/02",
+          "actual": "-0.9",
+          "forecast": "-0.2",
+          "previous": "0.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-01 14:25:58"
+    },
+    {
       "id": "capital:1185734",
       "fid": "1185734",
       "interval": "this_week",
@@ -30086,8 +30318,8 @@
       "title": "英國8月Nationwide房價指數年率",
       "importance": 1,
       "previous": "1.8 %",
-      "forecast": "2.1 %",
-      "actual": "-- %",
+      "forecast": "2 %",
+      "actual": "1.6 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185734",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -30145,7 +30377,7 @@
       "importance": 2,
       "previous": "0.1 %",
       "forecast": "0.1 %",
-      "actual": "-- %",
+      "actual": "0.2 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185733",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
