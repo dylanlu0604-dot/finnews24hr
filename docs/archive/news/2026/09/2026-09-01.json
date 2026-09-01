@@ -1,7 +1,154 @@
 {
   "date": "2026-09-01",
-  "count": 633,
+  "count": 649,
   "items": [
+    {
+      "id": "mkt:01a05a93-e7c5-7118-8424-6fac4c68a7a7",
+      "time": "2026-09-01 09:27:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite opened down 6.42 points (-0.16%) at 3,979.88 on Sept. 1; Shenzhen Composite opened up 2.42 points (+0.02%) at 14,017.42; CSI 300 opened down 6.35 points (-0.14%) at 4,618.73; ChiNext opened down 3.36 points (-0.10%) at 3,435.32; China STAR 50 opened down 4.50 points (-0.27%) at 1,679.89."
+    },
+    {
+      "id": "5069705",
+      "time": "2026-09-01 09:27:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通下調李寧評級至中性，目標價12港元。"
+    },
+    {
+      "id": "mkt:01a05a93-6170-7118-8424-65ce06e59489",
+      "time": "2026-09-01 09:26:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "New listings: N Beiteli rose over 218%; N Ma Kuang rose over 245%."
+    },
+    {
+      "id": "5069704",
+      "time": "2026-09-01 09:26:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選在天津成立機器人公司 含多項AI業務】企查查APP顯示，近日，天津優必選機器人有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；人工智慧理論與演算法軟體開發；人工智慧行業應用系統整合服務；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由優必選全資持股。"
+    },
+    {
+      "id": "5069703",
+      "time": "2026-09-01 09:26:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【短劇概念大幅高開 芒果超媒等多股競價漲停】早盤短劇概念繼續大幅高開，芒果超媒、歡瑞世紀、中廣天擇、大晟文化競價漲停，掌閱科技、德才股份、中文線上漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a05a92-c759-7118-8424-59a0e12828b3",
+      "time": "2026-09-01 09:26:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "At the open A-shares: Shanghai Composite -0.16%, Shenzhen Composite Index +0.02%, ChiNext -0.10%. Leading gainers: AI training data, cinema chains, oilfield services & engineering, glass and fiberglass."
+    },
+    {
+      "id": "5069702",
+      "time": "2026-09-01 09:25:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貝特利上市首日開盤大漲超218%】貝特利上市首日開盤漲218.18%，現報38.5元，該股發行價為12.1元。按開盤價計算，投資者中一簽（500股）浮盈約1.32萬元。"
+    },
+    {
+      "id": "5069701",
+      "time": "2026-09-01 09:25:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【馬礦股份上市首日開盤大漲超245％ 貝特利上市首日大漲超218％】馬礦股份上市首日開盤漲245.86％，現報23元，該股發行價為6.65元。按開盤價計算，投資者中一簽（500股）浮盈約8175元。貝特利上市首日開盤漲218.18％，現報38.5元，該股發行價為12.1元。按開盤價計算，投資者中一簽（500股）浮盈約1.32萬元。"
+    },
+    {
+      "id": "5069700",
+      "time": "2026-09-01 09:25:27",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.16％，深成指漲0.02％，創業板跌0.1％。"
+    },
+    {
+      "id": "mkt:01a05a91-6f75-7118-8424-52af390f9d5e",
+      "time": "2026-09-01 09:24:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong shares opened lower on Tuesday: Hang Seng Index (HSI) down 151.27 points (-0.59%) at 25,415.72; Hang Seng Tech Index down 28.75 points (-0.62%) at 4,591.12; Hang Seng China Enterprises Index (HSCEI) down 53.86 points (-0.63%) at 8,459.32; Hang Seng China Red-chip Index down 1.33 points (-0.03%) at 4,169.03."
+    },
+    {
+      "id": "5069699",
+      "time": "2026-09-01 09:24:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "智譜港股低開4.4%，上半年經調淨虧同比小幅擴大。"
+    },
+    {
+      "id": "5069698",
+      "time": "2026-09-01 09:24:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4440美元/盎司，日內跌0.22%。"
+    },
+    {
+      "id": "te:markets:579735",
+      "time": "2026-09-01 09:23:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Drop Again as September Opens — Australian stocks slipped 40 points, or 0.4%, to 9,040 on Tuesday morning, the first trading day of September, extending prior losses after Wall Street closed lower overnight as rising oil prices and U.S.–Iran clashes pushed Treasury yields toward 4.7%, weighing on equities. Locally, caution also lingered ahead of Q2 GDP data due Wednesday, with growth expected to remain sluggish after the weakest pace in a year last quarter. Several releases are slated today, including July flash building permits, Q2 current account, and August commodity prices, while China’s private manufacturing PMI will follow later. Losses were led by retail trade, commercial services, and transport, though gains in energy minerals and consumer durables helped cap the decline. Three of the four big banks eased modestly, while notable laggards included REA Group (-4.4%), Westfarmers Ltd. (-3.2%), Woolworths (-2.5%), and Fortescue (-2.2%). In contrast, Woodside Energy rose 1.1%, and Santos gained 1.5%."
+    },
+    {
+      "id": "5069697",
+      "time": "2026-09-01 09:23:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巢匠科技完成數億元天使輪系列融資】9月1日，據高鵠資本訊息，巢匠科技（Nestworks）完成數億元天使輪系列融資，紅杉中國、藍馳創投、鐘鼎資本、祥峰投資、元璟資本等機構共同投資，高鵠資本擔任後續融資的獨家財務顧問。本輪資金將主要用於新一代桌面級智慧CNC研發、AI軟體能力迭代、創作者生態建設與全球市場拓展。"
+    },
+    {
+      "id": "5069696",
+      "time": "2026-09-01 09:23:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金失守4440美元/盎司，日內跌0.19%。"
+    },
     {
       "id": "mkt:01a05a8f-f35b-7118-8424-4fe6f531a134",
       "time": "2026-09-01 09:22:58",
@@ -36,6 +183,15 @@
         "焦點"
       ],
       "text": "港股恒指低開跌0.59％，國企指數跌0.63％，恒生科技指數跌0.62%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609013860994641",
+      "time": "2026-09-01 09:22:02",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日進行50億元7天期逆回購操作，操作利率1.4%。同時，開展了3590億元隔夜逆回購操作。"
     },
     {
       "id": "mkt:01a05a8f-0717-7118-8424-46c862a961af",
