@@ -1,7 +1,269 @@
 {
   "date": "2026-09-01",
-  "count": 672,
+  "count": 700,
   "items": [
+    {
+      "id": "5069733",
+      "time": "2026-09-01 09:35:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【出版板塊持續走強，粵傳媒等多股漲停】出版板塊持續走強，粵傳媒、龍版傳媒、時代出版漲停，中文線上、南方傳媒、果麥文化、天舟文化、長江傳媒、新華傳媒等跟漲。"
+    },
+    {
+      "id": "5069732",
+      "time": "2026-09-01 09:35:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞10年期國債收益率升至2011年以來最高水平。"
+    },
+    {
+      "id": "5069731",
+      "time": "2026-09-01 09:35:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年全國科普月活動全面啟動】按照科普法關於“每年9月為全國科普月”的規定，中國科協聯合34家全民科學素質綱要實施工作辦公室成員單位，於9月1日起以“科技改變生活 創新贏得未來”為主題組織開展2026年全國科普月活動。全國科普月期間，各地各部門將踐行科普為民理念，立足科技賦能民生、科技服務基層，策劃推出一系列科普活動，重點打造共探高校星火館、百場科學大師劇綻放校園、“光影科學夢”影視資源全國科普場館巡映、“科普之光”全國科普月大型網路展播等特色活動，呈現全民共享的科普月盛宴。"
+    },
+    {
+      "id": "mkt:01a05a9b-4e4a-7118-8425-2544795fcb2e",
+      "time": "2026-09-01 09:35:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HarmonyOS Zhixing deliveries: August 42,101 units; YTD cumulative deliveries up 10.8% YoY."
+    },
+    {
+      "id": "5069730",
+      "time": "2026-09-01 09:35:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【化學制藥板塊盤初走弱，冀衡醫藥、神奇製藥雙雙跌停】化學制藥板塊盤初走弱，冀衡醫藥、神奇製藥雙雙跌停，譽衡藥業、中關村、鍵凱科技、ST南新、西點藥業、百利天恆等跟跌。"
+    },
+    {
+      "id": "mkt:01a05a9b-071f-7118-8425-1d0cd62a2219",
+      "time": "2026-09-01 09:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China's August RatingDog Manufacturing PMI due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a05a9a-343d-7118-8425-17483a50de55",
+      "time": "2026-09-01 09:34:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv city government said a Russian airstrike killed 3 and injured 5."
+    },
+    {
+      "id": "5069729",
+      "time": "2026-09-01 09:34:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3057.00元。"
+    },
+    {
+      "id": "5069728",
+      "time": "2026-09-01 09:34:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報1822.50點。"
+    },
+    {
+      "id": "mkt:01a05a9a-1784-7118-8425-0a25557d14b1",
+      "time": "2026-09-01 09:34:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share tax-refund stores sector jumped in early trade; Maoye Commercial rose over 5%, with Baida Group, Nanning Department Store, Guangbai and Cuiwei also higher. MOFCOM and six other ministries issued implementation opinions to expand and upgrade goods consumption, targeting about 60 trillion yuan in total retail sales of consumer goods by 2030 and calling for continued growth in trillion-yuan categories such as autos, home appliances, communications equipment and textiles/apparel."
+    },
+    {
+      "id": "5069727",
+      "time": "2026-09-01 09:33:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔市政當局稱，俄羅斯空襲造成基輔三人死亡、五人受傷。"
+    },
+    {
+      "id": "5069726",
+      "time": "2026-09-01 09:33:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲6%，現報5506.00元。"
+    },
+    {
+      "id": "5069725",
+      "time": "2026-09-01 09:33:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中信銀行股價創歷史新高】中信銀行盤中股價創歷史新高，現漲0.9%，報8.93元，總市值為4683.19億元。"
+    },
+    {
+      "id": "5069724",
+      "time": "2026-09-01 09:33:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農業種植概念盤初異動拉昇，京糧控股、新賽股份雙雙漲停】農業種植概念盤初異動拉昇，京糧控股、新賽股份雙雙漲停，萬向德農、華綠生物、國投豐樂、神農種業、金健米業、蘇墾農發等跟漲。"
+    },
+    {
+      "id": "mkt:01a05a99-95cf-7118-8425-048e9db6bbba",
+      "time": "2026-09-01 09:33:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "The yield on Japan's 5-year government bond rose 4.5 bps to 2.25%."
+    },
+    {
+      "id": "5069723",
+      "time": "2026-09-01 09:33:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天融信與河北出版傳媒集團等達成戰略合作 推動可信資料空間多場景落地】天融信訊息，8月27日至29日，由中國新聞出版研究院、中國出版協會聯合主辦的第十六屆中國國際數字出版博覽會在山東濟南舉辦。會上，河北出版傳媒集團“可信資料空間平臺”正式釋出並舉行戰略合作簽約儀式。天融信科技集團與河北紀元光電有限公司、河北新智資料研究院、河北科學技術出版社、河北教育出版社、河北移動多家單位完成戰略合作簽約，後續各方將依託各自資源優勢，在資料資源開發、場景應用等方面進一步深化合作。"
+    },
+    {
+      "id": "mkt:01a05a99-7cbb-7118-8424-fd621df4dd0f",
+      "time": "2026-09-01 09:33:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Finance will auction ¥2.5 trillion of 5-year government bonds on Sept. 8."
+    },
+    {
+      "id": "5069722",
+      "time": "2026-09-01 09:33:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業零售概念盤初走強，國芳集團漲停】商業零售概念盤初走強，國芳集團漲停，東百集團、新華百貨、中百集團、中央商場、茂業商業、三江購物等跟漲。"
+    },
+    {
+      "id": "5069721",
+      "time": "2026-09-01 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股農林牧漁板塊異動拉昇】福建金森、京糧控股觸及漲停，百洋股份、中糧科技、深糧控股、平潭發展、神農種業跟漲。"
+    },
+    {
+      "id": "5069720",
+      "time": "2026-09-01 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股農產品加工板塊異動拉昇】京糧控股觸及漲停，中糧科技、深糧控股、道道全、東方海洋、金龍魚、歐福蛋業跟漲。"
+    },
+    {
+      "id": "5069719",
+      "time": "2026-09-01 09:32:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "農業股反覆活躍，萬向德農6連板，新賽股份4連板，福建金森3連板，平潭發展、秋樂種業、永安林業跟漲。"
+    },
+    {
+      "id": "5069718",
+      "time": "2026-09-01 09:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年網安周將於9月14日至20日在全國舉行】今天（9月1日），2026年國家網路安全宣傳週新聞釋出會在北京舉行。記者從釋出會現場瞭解到，今年網安周的主題為“網路安全為人民 網路安全靠人民——智慧時代 網安護航”，將於9月14日至20日在全國範圍內統一舉行，由中央宣傳部、中央網信辦、教育部、工業和資訊化部、公安部、中國人民銀行、國家廣播電視總局、全國總工會、共青團中央、全國婦聯等十部門聯合舉辦。其中，開幕式、高峰論壇等重要活動在山東省濟南市舉辦。各地區、各部門也將組織本地區、本系統開展一系列網路安全宣傳週活動。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05a98-bb0b-7118-8424-f32c745140aa",
+      "time": "2026-09-01 09:32:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia seasonally adjusted private-sector building approvals rose 6.0% YoY in July, down from 15.8% previously."
+    },
+    {
+      "id": "mkt:01a05a98-a22e-7118-8424-e94b870ddda8",
+      "time": "2026-09-01 09:32:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share planting and forestry sector surged; Fujian Jinsen and Xinsai hit daily limit-up. Yong'an Forestry, Xuerong Bio, Xinnong Development, Honghui Fruit & Vegetable and Runnong Water-saving also advanced."
+    },
+    {
+      "id": "5069717",
+      "time": "2026-09-01 09:32:27",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【福建省政協經濟委員會原副主任嚴正接受審查調查】中央紀委國家監委網站9月1日通報，據福建省紀委監委訊息：福建省政協經濟委員會原副主任嚴正涉嫌嚴重違紀違法，目前正接受福建省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:01a05a98-9c4d-7118-8424-e124128e1390",
+      "time": "2026-09-01 09:32:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Building Approvals SA (YoY) (Jul) | actual 6% | previous 15.8%"
+    },
+    {
+      "id": "mkt:01a05a98-7afd-7118-8424-df50b141f3e6",
+      "time": "2026-09-01 09:32:17",
+      "tags": [
+        "MKT News",
+        "01024.HK",
+        "Impact bullish"
+      ],
+      "text": "Kuaishou (01024.HK) shares rose more than 3%. The National AI Fund and Zhengda Robotics injected RMB1.4 bln and about $19.29 mln, respectively, in cash capital into Beijing Keling."
+    },
+    {
+      "id": "5069716",
+      "time": "2026-09-01 09:32:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【獨家丨正規化智慧出資10億元採購華為昇騰950晶片】9月1日，新浪科技從知情人士處獨家獲悉，港股上市公司正規化智慧近期與華為達成了一項大規模算力訂單合作：正規化將出資超10億元採購華為昇騰950晶片，用於支撐AI大模型在金融、製造等核心領域的落地。據前述知情人士透露，在圍繞此次合作的高層戰略會晤中，正規化創始人兼CEO戴文淵與華為常務董事楊超斌等華為及正規化智慧核心管理層多人出席，就算力合作進行了交流。"
+    },
     {
       "id": "mkt:01a05a98-2da7-7118-8424-d2e28cd18ae5",
       "time": "2026-09-01 09:31:57",
