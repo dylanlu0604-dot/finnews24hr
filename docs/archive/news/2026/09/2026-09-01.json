@@ -1,7 +1,215 @@
 {
   "date": "2026-09-01",
-  "count": 1444,
+  "count": 1467,
   "items": [
+    {
+      "id": "5070285",
+      "time": "2026-09-01 15:13:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海川智慧投資成立光聯科技新公司】企查查APP顯示，近日，蘇州海川光聯科技有限公司成立，經營範圍包含新材料技術研發；電子專用材料研發；電子專用材料銷售；光電子器件銷售等。企查查股權穿透顯示，該公司由海川智慧全資持股。"
+    },
+    {
+      "id": "5070284",
+      "time": "2026-09-01 15:13:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "習近平出席上海合作組織成員國元首理事會第二十六次會議並發表重要講話。（新華社）"
+    },
+    {
+      "id": "mkt:01a05bd0-08c4-7118-842d-4d20a3489568",
+      "time": "2026-09-01 15:12:35",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【China Foreign Exchange Trade Center issues offshore RMB FX business guidelines】China Foreign Exchange Trade Center issued Guidelines on Offshore RMB Foreign Exchange Business, effective immediately and repealing the centre's 2024 free-trade-zone RMB FX trading guideline (document No. 378). The guidelines set offshore RMB FX trading hours at 07:00–03:00 next day, Beijing time; trading will be closed on Saturdays, Sundays and Chinese statutory holidays."
+    },
+    {
+      "id": "te:economy:579891",
+      "time": "2026-09-01 15:12:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "European Bond Rout Deepens on Rate Hike Bets — European government bonds extended their sell-off in early September, with Germany’s 10-year Bund yield climbing above 3.3% for the first time since May 2011. French yields rose to their highest level since November 2008, while Dutch yields reached 15-year highs and Italian and Spanish yields climbed to near two- and three-year highs, respectively. The renewed pressure on sovereign debt came as rising oil prices and increasingly hawkish signals from major central banks reinforced expectations for higher interest rates. Markets are now pricing the ECB’s deposit rate at around 2.7% by December, implying roughly an 80% probability of a second rate hike after an expected move as early as September. Meanwhile, Fed Chair Kevin Warsh warned that inflation has not slowed meaningfully and that the Fed still has “work to do,” prompting markets to price in a 66% probability of a September rate hike."
+    },
+    {
+      "id": "5070283",
+      "time": "2026-09-01 15:12:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長鑫儲存開啟2027全球校園招聘】9月1日，據長鑫儲存招聘訊息，長鑫儲存2027全球校園招聘正式開啟。"
+    },
+    {
+      "id": "5070282",
+      "time": "2026-09-01 15:12:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門：  按東道國（地區）相關規定真實完整披露相關資訊 】三部門釋出《汽車行業境外競爭行為與合規建設指引》。其中提到，企業在境外開展品牌展示和宣傳活動時，應按東道國（地區）相關規定真實完整披露相關資訊，不作虛假宣傳，不欺騙或誤導消費者，維護中國汽車品牌形象。"
+    },
+    {
+      "id": "5070281",
+      "time": "2026-09-01 15:11:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交易所制定L2行情使用規範 嚴禁“繞道搶跑”】交易所近日釋出增強行情非展示技術管理規範，對增強行情（L2）資料使用劃出明確紅線，從而規範資料使用和維護市場公平。《規範》對資料自用和資料轉發做出了明確規定。在資料自用方面，《規範》要求須在指定機房按書面認可用途使用，嚴禁轉發或透過任何介面外傳。在資料轉發方面，明確禁止以光分器、行情映象等方式繞過轉發系統向使用者提供資料，不得向券商、資訊商等會員單位有償或無償轉發，境外使用者須事先報備，並強制繫結MAC地址校驗。業內人士指出，此舉旨在用制度“籠子”嚴防行情資料濫用與不當傳播，杜絕利用資料優勢“繞道搶跑”，進一步維護市場公平性。"
+    },
+    {
+      "id": "5070280",
+      "time": "2026-09-01 15:11:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門：加強境外反壟斷合規建設】商務部、工業和資訊化部、市場監管總局三部門印發《汽車行業境外競爭行為與合規建設指引》，其中提到： 企業應加強境外反壟斷合規建設，有效識別、評估和管控各類反壟斷法律風險，誠信守法、公平競爭。"
+    },
+    {
+      "id": "mkt:01a05bcf-562a-7118-842d-46c540a4b87f",
+      "time": "2026-09-01 15:11:49",
+      "tags": [
+        "MKT News",
+        "159030.SS",
+        "Impact bullish",
+        "159031.SS"
+      ],
+      "text": "【Multiple grain ETFs hit record turnover】By today's close the top-10 ETF gainers were all grain ETFs. Hua Xia Grain ETF (159030) turnover 116 mln yuan, Bosera Grain ETF (159031) 38.3 mln yuan, Penghua Grain ETF (1596980) 362 mln yuan — each a historical high."
+    },
+    {
+      "id": "5070279",
+      "time": "2026-09-01 15:11:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多支糧食ETF今日成交額創歷史新高】截至今日收盤，ETF漲幅榜前10全部為糧食ETF，其中糧食ETF華夏（159030）成交額1.16億元，糧食ETF博時（159031）成交額3830萬元、糧食ETF鵬華（1596980)成交額3.62億元均為歷史最高成交記錄。"
+    },
+    {
+      "id": "5070278",
+      "time": "2026-09-01 15:11:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門：  尊重東道國（地區）經銷商、代理商自主定價權 】三部門釋出《汽車行業境外競爭行為與合規建設指引》。其中提到，企業應依法依規尊重東道國（地區）經銷商、代理商自主定價權，並做好對經銷商、代理商的合規監督。給予境外經銷商、代理商等銷售激勵時，應依規作出明確合理的約定，並全面履行約定義務。"
+    },
+    {
+      "id": "5070277",
+      "time": "2026-09-01 15:11:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部： 企業應加強境外反壟斷合規建設】商務部合作司負責人解讀《汽車行業境外競爭行為與合規建設指引》，其中提到： 企業應加強境外反壟斷合規建設，有效識別、評估和管控各類反壟斷法律風險，誠信守法、公平競爭。"
+    },
+    {
+      "id": "5070276",
+      "time": "2026-09-01 15:11:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達80億港元。"
+    },
+    {
+      "id": "mkt:01a05bce-d269-7118-842d-386ceb6e27c9",
+      "time": "2026-09-01 15:11:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara said he is closely monitoring market developments."
+    },
+    {
+      "id": "5070275",
+      "time": "2026-09-01 15:11:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱日聯金融集團：將與貝萊德商討私人信貸領域的合作事宜。"
+    },
+    {
+      "id": "mkt:01a05bce-7c54-7118-842d-349264d0ad52",
+      "time": "2026-09-01 15:10:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KIHARA: interest rates are determined by a range of market factors."
+    },
+    {
+      "id": "5070274",
+      "time": "2026-09-01 15:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官：利率由多種市場因素決定。"
+    },
+    {
+      "id": "5070273",
+      "time": "2026-09-01 15:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：持續推動完善海外綜合服務體系，更好引導汽車行業合理有序跨境佈局】商務部合作司負責人解讀《汽車行業境外競爭行為與合規建設指引》。《汽車指引》共四章二十條，為從事國際化生產經營活動的中國汽車行業企業在境外發生的市場競爭等生產經營行為提供參照，重點圍繞汽車行業企業海外營銷等競爭行為，以及境外安全生產、質量管理、勞動保障、資料安全等合規建設，提出一般性指引，供企業參考。下一步，商務部將會同有關部門，持續推動完善海外綜合服務體系，更好引導汽車行業合理有序跨境佈局。"
+    },
+    {
+      "id": "te:economy:579890",
+      "time": "2026-09-01 15:10:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Spain 10Y Bond Yield Hits 33-month High — Spain 10 Year Government Bond Yield increased to 3.80%, the highest since November 2023. Over the past 4 weeks, Spain 10Y Bond Yield gained 20.73 basis points, and in the last 12 months, it increased 39.30 basis points."
+    },
+    {
+      "id": "5070272",
+      "time": "2026-09-01 15:10:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三部門：  規範境外市場競爭行為 】三部門釋出《汽車行業境外競爭行為與合規建設指引》。其中提到，企業在制定整車境外市場建議零售價時，應按照東道國（地區）法律法規、市場原則和商業慣例，針對本企業不同車輛配置設定清晰的價格梯度，避免因多頻次、大幅度價格波動影響境外消費者利益和品牌形象。"
+    },
+    {
+      "id": "mkt:01a05bce-14d6-7118-842d-2ababd703ed1",
+      "time": "2026-09-01 15:10:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "LSEG data show UK 10-year gilt yield rose to an 18-year high of 5.217%."
+    },
+    {
+      "id": "te:economy:579889",
+      "time": "2026-09-01 15:10:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Turkey Manufacturing Activity Falls at Softer Pace — The Istanbul Chamber of Industry Türkiye Manufacturing PMI ticked up to 48.1 in August 2026 from 47.7 in July, reaching its highest level in three months. The reading signalled a modest easing in the deterioration of business conditions, although the Middle East conflict continued to weigh on the sector, keeping demand muted amid widespread uncertainty. Both total new orders and new export business declined, albeit at slower rates than in July. In turn, manufacturers scaled back production for the third consecutive month, although the pace of contraction remained modest. Firms also reduced employment and purchasing activity, with both falling at solid rates that were sharper than in July. Stocks of both purchases and finished goods also dropped further. Input cost inflation accelerated to a three-month high, driven by higher fuel and oil costs as well as rising raw material prices. This prompted firms to raise their selling prices. Moreover, suppliers' delivery times lengthened."
+    },
+    {
+      "id": "5070271",
+      "time": "2026-09-01 15:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：企業應建立完善汽車相關產品境外市場質量管理體系和售後服務體系】商務部合作司負責人解讀《汽車行業境外競爭行為與合規建設指引》，其中提到： 企業應建立完善汽車相關產品境外市場質量管理體系和售後服務體系，做好市場研究和適應性開發，提升服務水平，更好滿足境外市場需求。"
+    },
     {
       "id": "5070270",
       "time": "2026-09-01 15:09:31",
