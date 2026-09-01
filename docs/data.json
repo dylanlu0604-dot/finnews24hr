@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-02 05:48:19",
-  "count": 12583,
+  "updated": "2026-09-02 05:52:20",
+  "count": 12592,
   "items": [
+    {
+      "id": "5071725",
+      "time": "2026-09-02 05:50:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團主席國宣告：二十國集團經濟體認同，過度且持續的失衡會帶來風險，可能引發扭曲效應，併產生負面溢位效應。"
+    },
+    {
+      "id": "mkt:01a05ef3-ff67-7118-8446-92f70cc93812",
+      "time": "2026-09-02 05:50:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency said promoting growth is a key priority for G20 economies and pledged to address growth barriers, including regulatory and administrative burdens."
+    },
+    {
+      "id": "mkt:01a05ef3-dce7-7118-8446-89fd567ee01d",
+      "time": "2026-09-02 05:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency statement: G20 finance ministers urged countries to avoid unnecessary export restrictions to ensure the normal functioning of supply chains."
+    },
+    {
+      "id": "5071724",
+      "time": "2026-09-02 05:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團主席宣告：推動增長是二十國集團各經濟體的核心優先事項，各方正共同努力消除增長障礙，包括監管負擔與行政負擔。"
+    },
+    {
+      "id": "5071723",
+      "time": "2026-09-02 05:50:15",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "二十國集團主席國宣告：二十國集團財長敦促各國避免不必要的出口限制，以保障供應鏈正常運轉。"
+    },
+    {
+      "id": "mkt:01a05ef3-38b2-7118-8446-8368e549065f",
+      "time": "2026-09-02 05:49:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "G20 presidency statement: G20 expressed concern about continued disruptions to energy trade and pressure on freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "5071722",
+      "time": "2026-09-02 05:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團主席國宣告表示，二十國集團對能源貿易持續受阻及霍爾木茲海峽通航安全問題表示關切。"
+    },
+    {
+      "id": "mkt:01a05ef2-c88c-7118-8446-7ff6d1d5de5c",
+      "time": "2026-09-02 05:49:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency said the global economy remains resilient amid multiple shocks, including ongoing wars and conflicts."
+    },
+    {
+      "id": "5071721",
+      "time": "2026-09-02 05:48:15",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "二十國集團主席國宣告稱，全球經濟在多重衝擊（包括當前持續的戰爭與衝突）面前仍保持韌性。"
+    },
+    {
+      "id": "5071720",
+      "time": "2026-09-02 05:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍爾木茲省副省長：美軍對錫裡克地區庫赫斯塔克一處婚禮現場發動襲擊，受傷人數已上升至68人。"
+    },
     {
       "id": "5071719",
       "time": "2026-09-02 05:46:10",
@@ -115276,17 +115363,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普將沙烏地阿拉伯核協議提交國會審議。"
-    },
-    {
-      "id": "mkt:01a03ae7-0921-7aab-911b-30572588fa23",
-      "time": "2026-08-26 05:50:14",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Survey: BANK OF KOREA likely to weigh back-to-back hikes this week as economy, inf remain strong】Policy decision may be settled at the 11-TH HOUR. Of 22 economists surveyed, 14 expect a 25bp hike on Thursday to 3.0%; eight expect a hold. The BANK OF KOREA will release updated projections likely to support further tightening. Stronger-than-expected exports and domestic demand make a material upward revision to 2026 growth above May’s 2.6% likely; the inf forecast is also likely to be revised up from May’s 2.7%, driven by higher oil, earlier won depreciation and a semiconductor-led pickup in investment and consumption. Officials could point to the won’s recent rebound to justify delaying an immediate hike; if the bank holds, markets would likely push the next-rate-expectation to October."
     }
   ]
 }
