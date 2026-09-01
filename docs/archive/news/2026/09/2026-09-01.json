@@ -1,7 +1,125 @@
 {
   "date": "2026-09-01",
-  "count": 1325,
+  "count": 1338,
   "items": [
+    {
+      "id": "5070198",
+      "time": "2026-09-01 14:45:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渝萬高鐵鋼軌全線鋪通】記者從渝萬鐵路公司獲悉，9月1日，在重慶市萬州區萬州北站施工現場，最後一對500米長鋼軌鋪設到位，標誌著新建重慶至萬州高速鐵路（以下簡稱“渝萬高鐵”）鋼軌全線鋪通，為全線按期通車奠定了堅實基礎。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05bb7-1685-7118-842c-7d0649229600",
+      "time": "2026-09-01 14:45:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Foreign Ministry: China adheres to non‑interference and will not interfere in other countries' internal affairs】On Sept 1, Foreign Ministry spokesman Guo Jiakun said China adheres to the principle of non‑interference and will not in any way interfere in other countries' internal affairs, calling comments related to New Zealand baseless. He said China follows the 'four respects' principle in developing ties with Pacific island states and has neither interest in nor a history of interfering in other countries' internal affairs."
+    },
+    {
+      "id": "5070197",
+      "time": "2026-09-01 14:44:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全球家庭財富總額達570萬億美元，美國佔比超三成】根據麥肯錫的資料，2025年，全球家庭財富總額達到創紀錄的570萬億美元，較上一年增長了40萬億美元。其中，美國家庭淨資產達到175萬億美元，在全球佔比30.7%，股票是美國家庭財富增長的主要驅動力。"
+    },
+    {
+      "id": "5070196",
+      "time": "2026-09-01 14:44:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申科股份等成立科技新公司 含智慧機器人業務】企查查APP顯示，近日，浙江宙行者科技有限公司成立，經營範圍包含智慧機器人的研發；工業機器人制造；伺服控制機構製造；電氣裝置銷售；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由申科股份等共同持股。"
+    },
+    {
+      "id": "5070195",
+      "time": "2026-09-01 14:44:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海 市商務委等六部門和單位關於公佈上海市生物醫藥研發和檢測用物品進口試點企業（研發機構）目錄（第八批）的通知】根據《上海市生物醫藥研發和檢測用物品進口試點方案》（滬商規〔2024〕12號，以下簡稱《試點方案》），經生物醫藥企業（研發機構）申報，區域生物醫藥研發和檢測用物品進口試點聯合推進機制推薦，市級生物醫藥研發和檢測用物品進口試點聯合推進機制（以下簡稱“市級聯合推進機制”）認定，現公佈上海市生物醫藥研發和檢測用物品進口試點企業（研發機構）目錄（第八批）。"
+    },
+    {
+      "id": "mkt:01a05bb5-9c7a-7118-842c-745755fd3b44",
+      "time": "2026-09-01 14:43:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai Huangpu issues state-asset reform plan to inject eligible assets into district SOEs, listed companies】Shanghai’s Huangpu district government issued a 15th Five-Year state-asset and SOE reform plan to boost asset operation and financing. The plan backs lawful use of capital-market refinancing to strengthen supply chains, calls for activating existing assets, and seeks to build a receive–revive–inject model that injects eligible assets into district SOEs and listed companies to improve operating efficiency and open asset, funding and capital channels. It mandates strengthening the state-asset management platform and partnering with specialist firms to use bad-asset acquisition/disposal, substantive restructurings and market-based debt-to-equity swaps to unlock idle or low-efficiency assets. The plan also encourages district firms to securitize assets and study REITs backed by commercial complexes, industrial parks and affordable rental housing to raise state capital securitization levels."
+    },
+    {
+      "id": "5070194",
+      "time": "2026-09-01 14:43:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【租租車：國慶假期出境自駕訂單同比增長三成】9月1日，租租車釋出資料顯示，截至8月31日，國慶假期出境自駕訂單同比增長三成，北美、大洋洲領漲；國內自駕市場穩中有升，出行高峰較往年明顯前置。"
+    },
+    {
+      "id": "5070193",
+      "time": "2026-09-01 14:43:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車：8月銷量288,574輛，同比下降14.2%。"
+    },
+    {
+      "id": "te:economy:579863",
+      "time": "2026-09-01 14:43:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Sweden Manufacturing Growth Rises in August — Sweden’s Swedbank Manufacturing PMI rose to 56.1 in August 2026 from a revised 55.7 in July, remaining above its long-term average of 54.3 and signaling continued expansion. The improvement was supported by stronger production (58.9 vs 57.2 in July) and employment (57.6 vs 56.0), while order intake eased to 54.6 from 56.7. Suppliers’ delivery times shortened to 59.8 from 60.1, while inventories declined to 55.5 from 58.1. Export orders fell to 51.7 from 54.1, while domestic orders edged up to 54.7 from 54.2. On the price front, the index for suppliers’ raw material and input prices jumped to 75.4 from 67.1, pointing to renewed cost pressures. Meanwhile, the production plans index increased to 66.9 from 65.8, although it remained below the 70 threshold, indicating cautious optimism."
+    },
+    {
+      "id": "5070192",
+      "time": "2026-09-01 14:42:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海黃浦：對符合區域重點產業方向、具備註入條件的資產 透過注入區屬企業、上市公司等方式提升運營效益】上海市黃浦區人民政府辦公室印發《黃浦區國資國企改革發展“十五五”規劃》。其中指出，提升上市公司發展質量。支援上市公司最佳化功能佈局，增強核心競爭力。鼓勵老鳳祥股份鞏固行業領先優勢，提升品牌影響力、產業整合能力和價值創造水平，打造黃金珠寶行業標杆企業。鼓勵新世界股份、益民股份順應消費新趨勢，推進品牌重塑和業態最佳化，提升核心業務發展能級。支援企業根據發展需要，依法合規運用資本市場再融資工具強鏈補鏈。指導上市公司完善規範治理、資訊披露、投資者關係管理、ESG建設等工作機制，健全市值管理績效評價體系，持續提升經營質量、治理水平和資本市場形象。持續盤活存量資產。強化國資管理平臺功能，提升資產運營和專業化處置能力，逐步建立資產“接收—盤活—注入”模式，對符合區域重點產業方向、具備註入條件的資產，透過注入區屬企業、上市公司等方式提升運營效益，打通資產、資金、資本通道。加強與專業化機構合作，依法合規運用不良資產收購處置、實質性重組、市場化債轉股等方式，挖掘閒置低效資產價值。鼓勵符合條件的區屬企業透過資產證券化等多種方式有效盤活存量，研究以商業綜合體、產業園區、保障性租賃住房等基礎設施為底層資產的REITs實施路徑，持續提升國有資本證券化水平。"
+    },
+    {
+      "id": "5070191",
+      "time": "2026-09-01 14:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“滬八條”實施以來市場反饋積極，8月一、二手住房成交面積同比增15%】9月1日，記者從上海市房管局獲悉，“滬八條”實施以來，市場反饋積極，交易活躍度明顯提升，政策效應逐步顯現，助力市場加快走出淡季。統計資料顯示，8月，上海一、二手住房合計成交面積221萬平方米（2.43萬套），環比增加2%，同比增加15%。"
+    },
+    {
+      "id": "mkt:01a05bb4-5276-7118-842c-6d31713c69b0",
+      "time": "2026-09-01 14:42:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Shanghai 'eight measures' draw positive market response; Aug combined primary and secondary home sales area +15% YoY】Shanghai rolled out property measures known as the 'eight measures' on Aug 20 to smooth primary–secondary housing replacement. On Sep 1 the Shanghai Housing Authority said market feedback has been positive and trading picked up after implementation. In August combined primary and secondary housing transaction area was 2.21 mln sqm (24.3k units), +2% MoM and +15% YoY. The authority said the measures, building on earlier 'six' and new 'seven' Shanghai policies, are helping consolidate market stabilization and are expected to support firmer activity in Sept–Oct."
+    },
+    {
+      "id": "5070190",
+      "time": "2026-09-01 14:42:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞恩資本：1-8月香港新上市公司共106家 募資3423.63億港元】2026年前八個月，香港新上市公司共106家、募資3,423.63億元(港元，以下同)，新上市數量較上年同期增47家或79.7%，IPO募資同比增加2072.83億或153.5%。2026年前八個月的新上市數量和IPO募資，完全超過2024全年(上市71家、IPO募資879.75億)、2023全年(上市73家、IPO募資463.21億)；IPO募資是2025全年募資的1.19倍。"
+    },
     {
       "id": "5070188",
       "time": "2026-09-01 14:40:10",
