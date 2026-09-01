@@ -1,7 +1,194 @@
 {
-  "updated": "2026-09-01 14:58:02",
-  "count": 13097,
+  "updated": "2026-09-01 15:02:36",
+  "count": 13091,
   "items": [
+    {
+      "id": "5070241",
+      "time": "2026-09-01 15:01:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "資料編纂機構瑞典 mobility 公司表示，八月特斯拉在瑞典的新增註冊量同比下降41.4%。"
+    },
+    {
+      "id": "5070240",
+      "time": "2026-09-01 15:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "宜家投資12億歐元，用於下調歐洲各市場商品售價。"
+    },
+    {
+      "id": "5070239",
+      "time": "2026-09-01 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.16%，深證成指跌1.02%，創業板指跌1.32%。"
+    },
+    {
+      "id": "mkt:01a05bc5-41d7-7118-842c-baade5497cb1",
+      "time": "2026-09-01 15:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the midday close, China's most-active commodity futures were mostly higher. Ethylene glycol (EG) rose more than 6% and methanol gained over 5%; bottle-grade PET chips, asphalt, paraxylene (PX) and PVC advanced over 4%; polyester staple fiber and polysilicon climbed above 3%. On the downside, red dates and palladium fell over 3%; live hogs, SHFE silver and apples dropped more than 2%; SHFE gold declined about 2% and lithium carbonate eased just over 1%."
+    },
+    {
+      "id": "mkt:01a05bc5-3947-7118-842c-b40c5b4f057a",
+      "time": "2026-09-01 15:00:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said an Indian tanker became a strike target of U.S. Central Command. The vessel is owned by an Indian company and was loaded with cargo at a UAE port. CENTCOM used the ship's former name when issuing a warning; the crew did not realize the message was directed at them and did not respond. CENTCOM subsequently treated the lack of response as a provocation and designated the ship a strike target."
+    },
+    {
+      "id": "5070237",
+      "time": "2026-09-01 15:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國牽頭制定！全球首個腿式機器人國際標準釋出】記者今天從國家標準委瞭解到，由我國專家牽頭制定的全球首個腿式機器人國際標準《機器人——服務機器人效能規範及其試驗方法 第5部分：腿式機器人運動》近日正式釋出。“腿式機器人”就是靠“腿”行走、跑跳、爬坡、越障的一類機器人，比如人形機器人和機器狗，如今已經開始承擔表演、巡檢、搬運、搜救等實際工作。然而，如何評價它們\"走得好不好\"、\"幹得巧不巧\"，長期以來缺乏統一的國際標尺。這次釋出的國際標準首次在全球建立統一評價體系。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05bc5-2eb4-7118-842c-aef1383b3120",
+      "time": "2026-09-01 15:00:44",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish",
+        "000270.KS",
+        "Impact bullish"
+      ],
+      "text": "Hyundai Motor Co. sold 288,574 vehicles globally in August, down 14.2% YoY; Kia sold 266,675 vehicles globally in August, up 5.0% YoY."
+    },
+    {
+      "id": "5070236",
+      "time": "2026-09-01 15:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究：氣候變化使兒童面臨更多高溫風險】東芬蘭大學和比利時布魯塞爾自由大學等機構完成的一項最新研究顯示，全球40%以上的10歲以下兒童每年因人為造成的氣候變化而多經歷至少30天的危險高溫。（新華社）"
+    },
+    {
+      "id": "5070235",
+      "time": "2026-09-01 15:00:25",
+      "tags": [
+        "資料"
+      ],
+      "text": "標普全球土耳其8月製造業採購經理指數（PMI）為48.1，7月該數值為47.7。"
+    },
+    {
+      "id": "5070234",
+      "time": "2026-09-01 15:00:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指收盤上漲2.3%，報6093.89點。"
+    },
+    {
+      "id": "5070233",
+      "time": "2026-09-01 15:00:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上期所歐線集運主力合約翻紅】上期所歐線集運主力合約翻紅，報1905點，該品種此前一度跌超7%。"
+    },
+    {
+      "id": "te:markets:579877",
+      "time": "2026-09-01 15:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Air Liquide Stock Price Hits 5-week High — Air Liquide shares increased to 175.16 EUR, the highest since July 2026. Over the past 4 weeks, Air Liquide gained 2.75%, and in the last 12 months, it decreased 0.74%."
+    },
+    {
+      "id": "te:economy:579876",
+      "time": "2026-09-01 15:00:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10Y Bond Yield Hits 18-year High — UK 10 Year Government Bond Yield increased to 5.21%, the highest since June 2008. Over the past 4 weeks, United Kingdom 10Y Bond Yield gained 25.78 basis points, and in the last 12 months, it increased 40.07 basis points."
+    },
+    {
+      "id": "5070232",
+      "time": "2026-09-01 15:00:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一汽解放：持續加大投入 確保國際化戰略穩步推進】一汽解放(000800)8月31日在電話會議上表示，上半年公司出口同比增長超30%。從盈利情況來看，海外出口不同區域之間盈利差異較大，但總體盈利情況好於國內。未來海外出口將是行業的主要增量來源，在核心優勢市場，公司會透過加大資源投入，繼續擴大領先優勢；針對新興市場，公司透過逐步設立子公司等方式，強化本地化運營，快速開拓市場。國際化戰略是公司“十五五”規劃的重要戰略方向，公司會持續加大投入，同時也會不斷總結對標，防範風險，確保國際化戰略穩步推進。"
+    },
+    {
+      "id": "5070231",
+      "time": "2026-09-01 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌1.17%，英國富時100指數漲0.29%，法國CAC40指數跌0.79%，歐洲斯托克50指數跌1.01%，義大利富時MIB指數跌0.01%。"
+    },
+    {
+      "id": "5070230",
+      "time": "2026-09-01 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.88%， 滬深300指數期貨連續跌0.06%， 中證500指數期貨連續跌1.08%， 上證50指數期貨連續漲0.44%。"
+    },
+    {
+      "id": "5070229",
+      "time": "2026-09-01 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】乙二醇連續漲6.37%，甲醇連續漲5.50%，瓶片連續漲4.36%，瀝青連續漲4.18%，PVC連續漲4.09%，對二甲苯連續漲4.01%，短纖連續漲3.61%，多晶矽連續漲3.22%，PTA連續漲3.17%，上海原油連續漲3.15%。"
+    },
+    {
+      "id": "5070228",
+      "time": "2026-09-01 14:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：俄對烏多地發動襲擊 致12人死亡數十人受傷】烏克蘭總統澤連斯基9月1日表示，俄羅斯軍隊當天對烏克蘭多個地區發動襲擊，截至目前已造成12人死亡、數十人受傷。澤連斯基說，許多城市和社群目前仍在開展襲擊後的清理和處置工作。他說，此次襲擊中俄軍使用了大量噴氣式無人機和彈道導彈，住宅及民用基礎設施遭到破壞。在基輔州鮑里斯波爾地區，一棟五層住宅樓受損，50人被疏散，當地還有企業遭到襲擊。澤連斯基稱，鮑里斯波爾共有4人死亡、13人受傷。（央視）"
+    },
+    {
+      "id": "te:economy:579875",
+      "time": "2026-09-01 14:59:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Poland 10Y Bond Yield Hits 19-month High — Poland 10 Year Government Bond Yield increased to 6.10%, the highest since January 2025. Over the past 4 weeks, Poland 10Y Bond Yield gained 39.10 basis points, and in the last 12 months, it increased 63.40 basis points."
+    },
+    {
+      "id": "5070227",
+      "time": "2026-09-01 14:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣汽埃安i60 8月銷量11027臺。"
+    },
     {
       "id": "mkt:01a05bc1-e83d-7118-842c-a24a0e5342d7",
       "time": "2026-09-01 14:57:09",
@@ -119247,264 +119434,6 @@
         "市場"
       ],
       "text": "邁來芯與比亞迪簽署總採購協議後，股價上漲5%。"
-    },
-    {
-      "id": "5056914",
-      "time": "2026-08-25 15:02:18",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "西門子能源股價上漲約2%，此前有報道稱該公司聘請高盛負責出售蒸汽渦輪業務部分股權的潛在交易。"
-    },
-    {
-      "id": "5056913",
-      "time": "2026-08-25 15:02:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股收評：創業板指縮量下跌1% 全市場超4200只個股上漲】截至收盤，上證指數漲0.19%報3889.44點，深證成指跌0.35%報13745.87點，創業板指跌1.00%報3397.52點，北證50漲0.91%報1063.20點。三市成交額18442億元，較上日縮量1769億元。全市場超4200只個股上漲。板塊題材上，糧食概念、小家電、CRO概念板塊漲幅居前；貴金屬、能源金屬板塊跌幅居前。盤面上，糧食概念大幅走強，新華百貨3連板，登海種業2連板，萬向德農、金健米業漲停，神農種業、華資實業、秋樂種業、天禾股份、康農種業跟漲。小家電板塊震盪走高，石頭科技漲停，歐倫電氣、奧佳華、倍益康、榮泰健康、北鼎股份跟漲。CRO概念板塊表現強勢，凱萊英漲停，近岸蛋白、亨迪藥業漲超10%，益諾思、美迪西、誠達藥業、和元生物、金石亞藥跟漲。貴金屬板塊大幅走弱，西部黃金、招金黃金跌超7%，湖南白銀、興業銀錫、曉程科技跟跌。能源金屬震盪走弱，盛新鋰能、永興材料、融捷股份跌超6%，贛鋒鋰業、永杉鋰業跟跌。"
-    },
-    {
-      "id": "mkt:01a037b9-bee0-7aab-9109-d4a9dbc68e2d",
-      "time": "2026-08-25 15:01:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "At the open on Tuesday Aug 25, European equities rose: Germany's DAX +94.93 pts (0.36%) to 26,213.92; UK's FTSE 100 +22.29 pts (0.21%) to 10,876.61; France's CAC 40 +47.97 pts (0.57%) to 8,500.98; Spain's IBEX 35 +87.94 pts (0.44%) to 20,186.54; Italy's FTSE MIB +276.82 pts (0.53%) to 52,819.00; Euro STOXX 50 +35.47 pts (0.55%) to 6,483.45."
-    },
-    {
-      "id": "mkt:01a037b9-b9f2-7aab-9109-cba8ade700de",
-      "time": "2026-08-25 15:01:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Combined Shanghai–Shenzhen turnover CNY1,831.84 bln on Aug 25; Zhongji Xuchuang leads】Aug 25 — Combined Shanghai and Shenzhen turnover totalled CNY 1,831.84 bln, down CNY 175.61 bln from the previous session. Shanghai turnover was CNY 858.87 bln (prev. CNY 952.04 bln) with volume 464 mln lots (prev. 487 mln); Shenzhen turnover was CNY 972.97 bln (prev. CNY 1,055.42 bln) with volume 580 mln lots (prev. 564 mln). Top-by-turnover stocks: Zhongji Xuchuang CNY 25.02 bln, Hengtong Optic‑Electric CNY 16.27 bln, Zhaoyi Innovation CNY 15.34 bln, Xinyisheng CNY 14.13 bln, Changxin Technology CNY 13.32 bln."
-    },
-    {
-      "id": "te:economy:577840",
-      "time": "2026-08-25 15:01:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "French Consumer Morale Remains Subdued in August — The consumer confidence indicator in France remained unchanged at 86 in August 2026, below the expected 87 and its long-term average of 100. Consumers became slightly less pessimistic about their expected financial situation (-12 vs -13 in July), while sentiment toward their past financial situation worsened slightly (-27 vs -26). Pessimism over major purchase intentions increased (-39 vs -37), while saving intentions reached a new all-time high (47 vs 45) and both current (20 vs 19) and expected (18 vs 17) saving capacity improved. Meanwhile, households’ fears of unemployment rebounded (58 vs 55) and remained above their long-term average, while sentiment toward France’s future standard of living deteriorated slightly (-62 vs -60). The savings climate index rose to a new high of 125 from 124. Inflation expectations rebounded sharply (-14 vs -33), while perceptions of past price increases also rose (25 vs 17)."
-    },
-    {
-      "id": "mkt:01a037b9-2c45-7aab-9109-c7d0ca29a586",
-      "time": "2026-08-25 15:01:17",
-      "tags": [
-        "MKT News",
-        "IF",
-        "Impact bullish",
-        "IC",
-        "IM"
-      ],
-      "text": "【Index futures midday close】China equity index futures midday: CSI 300 (IF) main contract up 0.19%, SSE 50 (IH) up 0.25%, CSI 500 (IC) up 0.66%, CSI 1000 (IM) up 1.10%."
-    },
-    {
-      "id": "mkt:01a037b9-1eba-7aab-9109-bd1c7268eee7",
-      "time": "2026-08-25 15:01:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "At midday, China's most-active futures contracts were mostly lower. Lithium carbonate led declines, down over 6%; container freight to Europe fell more than 4%; PVC slipped about 3%; apples, low-sulfur fuel oil (LU) and live hogs dropped over 2%; eggs and polysilicon fell about 2%. Gains were led by benzene, polyester staple fiber, PET bottle chips, p-xylene, methanol, asphalt, styrene and industrial silicon, each up more than 1%."
-    },
-    {
-      "id": "te:markets:577839",
-      "time": "2026-08-25 15:01:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Close Higher — The benchmark KOSPI rose 0.68% to close at 6,743 on Tuesday, rebounding from the previous session as retail and institutional investors stepped in to buy Korean shares. Large-cap performance was mixed, with SK hynix rising 0.42%, along with Hyundai Motor (1.69%), KB Financial Group (2.02%), and Kia Corporation (2.59%), while Samsung Electronics was flat and SK Square (-1.49%) and LG Energy Solution (-3.45%) posted losses. Investors looked ahead to Nvidia’s earnings report for clues on the outlook for AI-related investments, while concerns over the profitability of AI spending continued to weigh on technology stocks. Foreign investors remained net sellers, offloading KRW 3.82 trillion, while individuals and institutions bought KRW 1.0 trillion and KRW 1.17 trillion, respectively. Meanwhile, sentiment was tempered by geopolitical tensions in the Middle East and uncertainty over the US monetary policy outlook ahead of Fed Governor Kevin Warsh’s speech at Jackson Hole on Friday."
-    },
-    {
-      "id": "5056910",
-      "time": "2026-08-25 15:01:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中歐班列“中通道”累計通行班列突破2.6萬列】記者從鐵路部門獲悉，截至2026年8月24日，內蒙古二連浩特鐵路口岸累計通行中歐班列突破2.6萬列。（央視新聞）"
-    },
-    {
-      "id": "5056909",
-      "time": "2026-08-25 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.19%，深證成指跌0.35%，創業板指跌1.00%。"
-    },
-    {
-      "id": "mkt:01a037b8-c584-7aab-9109-b3ee9e43c768",
-      "time": "2026-08-25 15:00:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain July PPI MoM +3.0%; prior 0.0%."
-    },
-    {
-      "id": "mkt:01a037b8-baa1-7aab-9109-aa3ae9b7fdbf",
-      "time": "2026-08-25 15:00:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Spain July PPI YoY 9.2%; prior 7.0%."
-    },
-    {
-      "id": "mkt:01a037b8-a838-7aab-9109-a32a37295db8",
-      "time": "2026-08-25 15:00:43",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Producer Price Index (MoM) (Jul) | actual 3% | previous 0.00%"
-    },
-    {
-      "id": "mkt:01a037b8-9714-7aab-9109-981fe8aabc6e",
-      "time": "2026-08-25 15:00:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Producer Price Index (YoY) (Jul) | actual 9.2% | previous 7.00%"
-    },
-    {
-      "id": "mkt:01a037b8-705b-7aab-9109-94dcc6644c9c",
-      "time": "2026-08-25 15:00:29",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Jan–Jul 2026 China overseas contracted engineering revenue RMB 701.28 bln, +7.4% YoY】MOFCOM: Jan–Jul 2026 revenue from China’s overseas contracted engineering business RMB 701.28 bln, up 7.4% YoY (USD 101.97 bln, +12.1%). New contract value RMB 1,008.76 bln, down 6.0% YoY (USD 146.68 bln, -1.9%)."
-    },
-    {
-      "id": "5056908",
-      "time": "2026-08-25 15:00:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "匈牙利外交部已就新冠疫情期間上一屆政府2020年採購數千臺呼吸機一事中涉嫌欺詐及其他犯罪行為，向檢察機關報案。"
-    },
-    {
-      "id": "5056907",
-      "time": "2026-08-25 15:00:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市收盤下跌1%，報6190.23點。"
-    },
-    {
-      "id": "5056906",
-      "time": "2026-08-25 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數跌0.11%，英國富時100指數漲0.35%，法國CAC40指數跌0.37%，歐洲斯托克50指數跌0.22%，義大利富時MIB指數跌0.24%。"
-    },
-    {
-      "id": "5056905",
-      "time": "2026-08-25 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】碳酸鋰連續跌6.09%，集運指數歐線期貨連續跌4.15%，線材連續漲2.89%，PVC連續跌2.87%，蘋果連續跌2.47%。"
-    },
-    {
-      "id": "5056904",
-      "time": "2026-08-25 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.10%， 滬深300指數期貨連續漲0.20%， 中證500指數期貨連續漲0.68%， 上證50指數期貨連續漲0.25%。"
-    },
-    {
-      "id": "5056903",
-      "time": "2026-08-25 14:59:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌6%，現報150380.00元。"
-    },
-    {
-      "id": "5056902",
-      "time": "2026-08-25 14:59:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1-7月我國全行業對外直接投資簡明統計】據商務部、外匯局統計，2026年1-7月，我國全行業對外直接投資6845.1億元人民幣，同比增長2.8%（以美元計為995.3億美元，增長7.3%）。其中，我國境內投資者共對全球148個國家和地區的7742家境外企業進行了非金融類直接投資，累計投資5284.3億元人民幣，下降12.9%（以美元計為768.4億美元，下降9.1%）。"
-    },
-    {
-      "id": "5056901",
-      "time": "2026-08-25 14:58:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1-7月我國對共建“一帶一路”國家投資合作情況】2026年1-7月，我國企業在共建“一帶一路”國家非金融類直接投資1519.9億元人民幣，同比下降5.5%（以美元計為221億美元，下降1.4%）。對外承包工程方面，我國企業在共建“一帶一路”國家承包工程完成營業額6032.8億元人民幣，增長10.8%（以美元計為877.2億美元，增長15.6%）；新籤合同額9153億元人民幣，同比下降3.4%（以美元計為1330.9億美元，增長0.8%）。"
-    },
-    {
-      "id": "5056900",
-      "time": "2026-08-25 14:58:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1-7月我國對外承包工程業務簡明統計】2026年1-7月，我國對外承包工程業務完成營業額7012.8億元人民幣，同比增長7.4%（以美元計為1019.7億美元,增長12.1%），新籤合同額10087.6億元人民幣，下降6%（以美元計為1466.8億美元,下降1.9%）。"
-    },
-    {
-      "id": "mkt:01a037b6-bd80-7aab-9109-8f0caac9302c",
-      "time": "2026-08-25 14:58:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Interfax reports that Kazakhstan's Kondensat refinery will process Russian crude and send 30% of its refined products to Russia."
-    },
-    {
-      "id": "5056899",
-      "time": "2026-08-25 14:58:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1-7月我國對外勞務合作業務簡明統計】2026年1-7月，我國企業共向境外派出各類勞務人員27.4萬人，較上年同期增加4.3萬人；其中承包工程項下派出8.3萬人，勞務合作項下派出19.1萬人。月末在外各類勞務人員67.3萬人。"
     }
   ]
 }

@@ -1,7 +1,194 @@
 {
   "date": "2026-09-01",
-  "count": 1376,
+  "count": 1396,
   "items": [
+    {
+      "id": "5070241",
+      "time": "2026-09-01 15:01:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "資料編纂機構瑞典 mobility 公司表示，八月特斯拉在瑞典的新增註冊量同比下降41.4%。"
+    },
+    {
+      "id": "5070240",
+      "time": "2026-09-01 15:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "宜家投資12億歐元，用於下調歐洲各市場商品售價。"
+    },
+    {
+      "id": "5070239",
+      "time": "2026-09-01 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.16%，深證成指跌1.02%，創業板指跌1.32%。"
+    },
+    {
+      "id": "mkt:01a05bc5-41d7-7118-842c-baade5497cb1",
+      "time": "2026-09-01 15:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the midday close, China's most-active commodity futures were mostly higher. Ethylene glycol (EG) rose more than 6% and methanol gained over 5%; bottle-grade PET chips, asphalt, paraxylene (PX) and PVC advanced over 4%; polyester staple fiber and polysilicon climbed above 3%. On the downside, red dates and palladium fell over 3%; live hogs, SHFE silver and apples dropped more than 2%; SHFE gold declined about 2% and lithium carbonate eased just over 1%."
+    },
+    {
+      "id": "mkt:01a05bc5-3947-7118-842c-b40c5b4f057a",
+      "time": "2026-09-01 15:00:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said an Indian tanker became a strike target of U.S. Central Command. The vessel is owned by an Indian company and was loaded with cargo at a UAE port. CENTCOM used the ship's former name when issuing a warning; the crew did not realize the message was directed at them and did not respond. CENTCOM subsequently treated the lack of response as a provocation and designated the ship a strike target."
+    },
+    {
+      "id": "5070237",
+      "time": "2026-09-01 15:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國牽頭制定！全球首個腿式機器人國際標準釋出】記者今天從國家標準委瞭解到，由我國專家牽頭制定的全球首個腿式機器人國際標準《機器人——服務機器人效能規範及其試驗方法 第5部分：腿式機器人運動》近日正式釋出。“腿式機器人”就是靠“腿”行走、跑跳、爬坡、越障的一類機器人，比如人形機器人和機器狗，如今已經開始承擔表演、巡檢、搬運、搜救等實際工作。然而，如何評價它們\"走得好不好\"、\"幹得巧不巧\"，長期以來缺乏統一的國際標尺。這次釋出的國際標準首次在全球建立統一評價體系。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05bc5-2eb4-7118-842c-aef1383b3120",
+      "time": "2026-09-01 15:00:44",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish",
+        "000270.KS",
+        "Impact bullish"
+      ],
+      "text": "Hyundai Motor Co. sold 288,574 vehicles globally in August, down 14.2% YoY; Kia sold 266,675 vehicles globally in August, up 5.0% YoY."
+    },
+    {
+      "id": "5070236",
+      "time": "2026-09-01 15:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究：氣候變化使兒童面臨更多高溫風險】東芬蘭大學和比利時布魯塞爾自由大學等機構完成的一項最新研究顯示，全球40%以上的10歲以下兒童每年因人為造成的氣候變化而多經歷至少30天的危險高溫。（新華社）"
+    },
+    {
+      "id": "5070235",
+      "time": "2026-09-01 15:00:25",
+      "tags": [
+        "資料"
+      ],
+      "text": "標普全球土耳其8月製造業採購經理指數（PMI）為48.1，7月該數值為47.7。"
+    },
+    {
+      "id": "5070234",
+      "time": "2026-09-01 15:00:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指收盤上漲2.3%，報6093.89點。"
+    },
+    {
+      "id": "te:markets:579877",
+      "time": "2026-09-01 15:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Air Liquide Stock Price Hits 5-week High — Air Liquide shares increased to 175.16 EUR, the highest since July 2026. Over the past 4 weeks, Air Liquide gained 2.75%, and in the last 12 months, it decreased 0.74%."
+    },
+    {
+      "id": "te:economy:579876",
+      "time": "2026-09-01 15:00:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10Y Bond Yield Hits 18-year High — UK 10 Year Government Bond Yield increased to 5.21%, the highest since June 2008. Over the past 4 weeks, United Kingdom 10Y Bond Yield gained 25.78 basis points, and in the last 12 months, it increased 40.07 basis points."
+    },
+    {
+      "id": "5070233",
+      "time": "2026-09-01 15:00:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上期所歐線集運主力合約翻紅】上期所歐線集運主力合約翻紅，報1905點，該品種此前一度跌超7%。"
+    },
+    {
+      "id": "5070232",
+      "time": "2026-09-01 15:00:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一汽解放：持續加大投入 確保國際化戰略穩步推進】一汽解放(000800)8月31日在電話會議上表示，上半年公司出口同比增長超30%。從盈利情況來看，海外出口不同區域之間盈利差異較大，但總體盈利情況好於國內。未來海外出口將是行業的主要增量來源，在核心優勢市場，公司會透過加大資源投入，繼續擴大領先優勢；針對新興市場，公司透過逐步設立子公司等方式，強化本地化運營，快速開拓市場。國際化戰略是公司“十五五”規劃的重要戰略方向，公司會持續加大投入，同時也會不斷總結對標，防範風險，確保國際化戰略穩步推進。"
+    },
+    {
+      "id": "5070231",
+      "time": "2026-09-01 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌1.17%，英國富時100指數漲0.29%，法國CAC40指數跌0.79%，歐洲斯托克50指數跌1.01%，義大利富時MIB指數跌0.01%。"
+    },
+    {
+      "id": "5070230",
+      "time": "2026-09-01 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.88%， 滬深300指數期貨連續跌0.06%， 中證500指數期貨連續跌1.08%， 上證50指數期貨連續漲0.44%。"
+    },
+    {
+      "id": "5070229",
+      "time": "2026-09-01 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】乙二醇連續漲6.37%，甲醇連續漲5.50%，瓶片連續漲4.36%，瀝青連續漲4.18%，PVC連續漲4.09%，對二甲苯連續漲4.01%，短纖連續漲3.61%，多晶矽連續漲3.22%，PTA連續漲3.17%，上海原油連續漲3.15%。"
+    },
+    {
+      "id": "5070228",
+      "time": "2026-09-01 14:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：俄對烏多地發動襲擊 致12人死亡數十人受傷】烏克蘭總統澤連斯基9月1日表示，俄羅斯軍隊當天對烏克蘭多個地區發動襲擊，截至目前已造成12人死亡、數十人受傷。澤連斯基說，許多城市和社群目前仍在開展襲擊後的清理和處置工作。他說，此次襲擊中俄軍使用了大量噴氣式無人機和彈道導彈，住宅及民用基礎設施遭到破壞。在基輔州鮑里斯波爾地區，一棟五層住宅樓受損，50人被疏散，當地還有企業遭到襲擊。澤連斯基稱，鮑里斯波爾共有4人死亡、13人受傷。（央視）"
+    },
+    {
+      "id": "te:economy:579875",
+      "time": "2026-09-01 14:59:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Poland 10Y Bond Yield Hits 19-month High — Poland 10 Year Government Bond Yield increased to 6.10%, the highest since January 2025. Over the past 4 weeks, Poland 10Y Bond Yield gained 39.10 basis points, and in the last 12 months, it increased 63.40 basis points."
+    },
+    {
+      "id": "5070227",
+      "time": "2026-09-01 14:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣汽埃安i60 8月銷量11027臺。"
+    },
     {
       "id": "mkt:01a05bc1-e83d-7118-842c-a24a0e5342d7",
       "time": "2026-09-01 14:57:09",
