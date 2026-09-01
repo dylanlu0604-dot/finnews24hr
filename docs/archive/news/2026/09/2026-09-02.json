@@ -1,7 +1,26 @@
 {
   "date": "2026-09-02",
-  "count": 649,
+  "count": 651,
   "items": [
+    {
+      "id": "5071790",
+      "time": "2026-09-02 06:43:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍對伊朗新一輪打擊6個半小時】美國中央司令部今天（9月2日）最新發宣告稱，已完成一輪針對伊朗軍事目標的打擊行動。在持續約6個半小時的行動中，美軍“打擊了伊朗伊斯蘭革命衛隊的目標，包括防空陣地、雷達系統、海上資產與設施、佈雷能力以及通訊站點”。宣告稱，“此次打擊是在伊朗伊斯蘭革命衛隊近期企圖襲擊霍爾木茲海峽的商業航運以及美國軍人之後進行的。目前有超過5萬名美軍人員在中東各地執行任務，他們保持高度警惕、具備致命打擊能力，並準備好繼續執行由總統特朗普下達的作戰指令。” （CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:580185",
+      "time": "2026-09-02 06:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Soars by 7.45% — Top commodity gainers are Palm Oil (7.45%) and Canola (3.43%). Biggest losers are Cocoa (-3.85%), Cotton (-1.73%) and Lumber (-1.05%)."
+    },
     {
       "id": "mkt:01a05f20-0ee6-7118-8447-a15cd9ec799e",
       "time": "2026-09-02 06:38:51",
