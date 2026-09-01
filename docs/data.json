@@ -1,7 +1,164 @@
 {
-  "updated": "2026-09-02 04:06:58",
-  "count": 12492,
+  "updated": "2026-09-02 04:11:01",
+  "count": 12506,
   "items": [
+    {
+      "id": "5071636",
+      "time": "2026-09-02 04:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及烏克蘭衝突：我確信敵方將持續潰敗。"
+    },
+    {
+      "id": "mkt:01a05e97-eb2e-7118-8444-5bdcaf3f95cf",
+      "time": "2026-09-02 04:10:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Kushner and US presidential envoy Witkoff are welcome guests regarding the Ukraine conflict."
+    },
+    {
+      "id": "mkt:01a05e97-e0e7-7118-8444-5728943f1fd3",
+      "time": "2026-09-02 04:10:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said on the Ukraine conflict he believes the enemy will continue to collapse."
+    },
+    {
+      "id": "mkt:01a05e97-de87-7118-8444-4a2732c1376f",
+      "time": "2026-09-02 04:10:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin, on the Ukraine conflict, said it is more comfortable to work with people they trust and that those people are close to US President Trump."
+    },
+    {
+      "id": "te:markets:580174",
+      "time": "2026-09-02 04:09:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Dell Technologies earnings above expectations at 7.04 USD — Dell Technologies (DELL) released earnings per share at 7.04 USD, compared to market expectations of 4.86 USD."
+    },
+    {
+      "id": "mkt:01a05e97-5bf2-7118-8444-460c1560784a",
+      "time": "2026-09-02 04:09:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said on the Ukraine conflict that if any party can generate positive momentum, Russia would not oppose it."
+    },
+    {
+      "id": "5071635",
+      "time": "2026-09-02 04:09:07",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "斯托克指數：康士伯海事、法蘭克福機場集團、JD運動時尚、維也納伯格、巴卡弗羅斯特將於9月21日從歐洲斯托克600指數剔除。"
+    },
+    {
+      "id": "mkt:01a05e96-f900-7118-8444-3e6c7d48748f",
+      "time": "2026-09-02 04:09:07",
+      "tags": [
+        "MKT News",
+        "DELL.N"
+      ],
+      "text": "Dell Technologies (DELL.N) expects adjusted EPS of $4.46 for fiscal 2027 Q3."
+    },
+    {
+      "id": "mkt:01a05e96-8e9f-7118-8444-33564bbd439d",
+      "time": "2026-09-02 04:08:40",
+      "tags": [
+        "MKT News",
+        "DELL.N"
+      ],
+      "text": "Dell (DELL.N) expects fiscal 2027 third-quarter revenue of $41.36 billion."
+    },
+    {
+      "id": "5071634",
+      "time": "2026-09-02 04:08:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與、超微電腦跟隨戴爾股價走高。"
+    },
+    {
+      "id": "5071633",
+      "time": "2026-09-02 04:08:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎哈羅娃：在日部署“堤豐”導彈系統“不可接受”】俄羅斯外交部發言人扎哈羅娃1日表示，在日本領土上部署美國“堤豐”導彈系統對於俄羅斯來說“絕對不可接受”。（新華社）"
+    },
+    {
+      "id": "5071632",
+      "time": "2026-09-02 04:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及烏克蘭衝突：庫什納與威特科夫是受歡迎的客人。"
+    },
+    {
+      "id": "mkt:01a05e95-9f50-7118-8444-2b629a788a20",
+      "time": "2026-09-02 04:07:38",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) Q2 fiscal 2027 net income $4.13 bln, vs $1.164 bln year-ago; consensus $2.95 bln."
+    },
+    {
+      "id": "5071631",
+      "time": "2026-09-02 04:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及烏克蘭衝突：如果有人能夠帶來積極勢頭，我們並不反對。"
+    },
+    {
+      "id": "mkt:01a05e95-3e7d-7118-8444-2389a4cad758",
+      "time": "2026-09-02 04:07:14",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) said fiscal 2027 second-quarter revenue was $46.97 billion, up from $29.78 billion a year earlier, versus analysts' consensus of $44.95 billion."
+    },
+    {
+      "id": "5071630",
+      "time": "2026-09-02 04:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談烏克蘭衝突：我們與自己信任的人打交道會自在得多，這些都是親近特朗普的人士。"
+    },
+    {
+      "id": "5071629",
+      "time": "2026-09-02 04:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及烏克蘭衝突：任何談判都應當務實。"
+    },
+    {
+      "id": "5071628",
+      "time": "2026-09-02 04:06:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "戴爾股價盤後上漲3%，此前該公司上調了財年營收預期。"
+    },
     {
       "id": "5071627",
       "time": "2026-09-02 04:06:14",
@@ -114437,45 +114594,6 @@
         "Brent"
       ],
       "text": "WTI crude fell 5.0% intraday to $80.33/bbl; Brent down 5.3% to $85.47/bbl."
-    },
-    {
-      "id": "mkt:01a03a8b-ae5f-7aab-911a-0b2cf4b4f2d9",
-      "time": "2026-08-26 04:10:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says Oman agreed to close southern shipping lane of Strait of Hormuz; talks to continue】Iran's deputy foreign minister said Iran and Oman have agreed to close the Strait of Hormuz's southern shipping lane and will notify the International Maritime Organization. He said the two will negotiate a future management mechanism for the strait over about 60 days to determine joint arrangements. Iran added that if its demands are not met, the closure will remain in place."
-    },
-    {
-      "id": "te:markets:578034",
-      "time": "2026-08-26 04:07:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise as Tech Rebounds — US stock indices closed higher on Tuesday, led by a rebound in technology stocks as lower oil prices pushed bond yields down. The S&P 500 rose 0.3%, the Nasdaq gained 0.6%, and the Dow added 160 points. Companies exposed to AI infrastructure recovered from losses in the previous session amid uncertainty surrounding the sector. Expectations of potentially massive IPOs by hyperscalers investing heavily in AI infrastructure, including Anthropic and OpenAI, supported chipmakers and cloud companies. Nvidia gained 2.2% ahead of its earnings report on Wednesday, while Microsoft rose 0.9%, Meta advanced 2%, Micron added 2.5%, and AMD jumped 4.9%. Broader sectors also advanced as long-term Treasury yields pulled back from recent highs. Lower oil prices, despite the latest US sanctions threat against Iran, offered some relief to credit-sensitive sectors that had been pressured by energy-driven inflation concerns. Morgan Stanley rose 1.3%, while Goldman Sachs gained 2.2%."
-    },
-    {
-      "id": "5058502",
-      "time": "2026-08-26 04:07:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌5%，現報80.75美元/桶。"
-    },
-    {
-      "id": "5058501",
-      "time": "2026-08-26 04:07:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "ZOOM第二財季營收12.8億美元，市場預估12.7億美元。"
     }
   ]
 }
