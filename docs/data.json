@@ -1,7 +1,146 @@
 {
-  "updated": "2026-09-02 06:12:42",
-  "count": 12614,
+  "updated": "2026-09-02 06:16:37",
+  "count": 12622,
   "items": [
+    {
+      "id": "mkt:01a05f0a-eac4-7118-8447-343f87011a52",
+      "time": "2026-09-02 06:15:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. is creating private-sector job opportunities."
+    },
+    {
+      "id": "5071758",
+      "time": "2026-09-02 06:15:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：正在創造私營部門就業崗位。"
+    },
+    {
+      "id": "5071757",
+      "time": "2026-09-02 06:15:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波音公司擬向日本防衛省提案AI無人機。"
+    },
+    {
+      "id": "mkt:01a05f0a-8724-7118-8447-2a16ad9a7fe6",
+      "time": "2026-09-02 06:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the lowest-income quartile is experiencing real wage growth."
+    },
+    {
+      "id": "5071756",
+      "time": "2026-09-02 06:15:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：隨著能源價格回落，實際工資將會出現大幅增長。"
+    },
+    {
+      "id": "te:markets:580182",
+      "time": "2026-09-02 06:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.64% — Top currency gainers are Brazilian Real (0.64%) and Dollar Index (0.22%). Biggest losers are South Korean Won (-0.58%), Swiss Franc (-0.38%), New Zealand Dollar (-0.37%), Japanese Yen (-0.27%), British Pound (-0.23%) and Euro (-0.19%)."
+    },
+    {
+      "id": "5071755",
+      "time": "2026-09-02 06:14:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：能源價格目前只是暫時性走高，後續將會回落。"
+    },
+    {
+      "id": "5071754",
+      "time": "2026-09-02 06:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：收入最低四分之一群體現已出現實際工資增長。"
+    },
+    {
+      "id": "mkt:01a05f09-78db-7118-8447-2607cff4c91c",
+      "time": "2026-09-02 06:14:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the top priority is achieving higher economic growth."
+    },
+    {
+      "id": "5071753",
+      "time": "2026-09-02 06:14:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及債券收益率：最重要的是實現更高水平的經濟增長。"
+    },
+    {
+      "id": "mkt:01a05f09-0624-7118-8447-1b37dff5f0d0",
+      "time": "2026-09-02 06:13:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said allies have confirmed support for an 'economic pariah' campaign against Iran and that the U.S. will pursue any entities supporting the Iranian regime."
+    },
+    {
+      "id": "mkt:01a05f08-470d-7118-8447-159dbe6edbd0",
+      "time": "2026-09-02 06:12:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Iranian crude stored at sea is currently minimal."
+    },
+    {
+      "id": "mkt:01a05f08-4445-7118-8447-097c844b9ebc",
+      "time": "2026-09-02 06:12:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. will close any channels used to transfer funds to Iran."
+    },
+    {
+      "id": "5071751",
+      "time": "2026-09-02 06:12:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破91美元/桶，日內漲0.87%。"
+    },
     {
       "id": "5071750",
       "time": "2026-09-02 06:11:46",
@@ -115491,63 +115630,6 @@
         "市場"
       ],
       "text": "【提高科技敘事“閾值”，基金經理勾勒“九月攻略”路線圖】儘管科技板塊仍在震盪，但種種跡象顯示，8月以來，基金經理對科技投資的信心正在增強。以8月24日為例，儘管當天A股科技板塊再度深調，科創50與創業板指數單日跌幅均超3%，但與市場情緒形成對比的是，多家公募機構卻在最新策略研判中明確表示：“科技調整已基本告一段落”“當前位置機會大於風險”。勝率與賠率的比較逐漸明朗，基金經理的“九月攻略”或已提前展開。而這一次，在篩選科技板塊標的時，基金經理對業績、訂單以及技術壁壘的閾值均明顯提高。短期波動不改長期信心。（上證報）"
-    },
-    {
-      "id": "mkt:01a03afd-c732-7aab-911b-8339e9972bdd",
-      "time": "2026-08-26 06:15:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "【Institutions: BoJ likely to speed tightening; recent U.S.-Japan FX intervention seen largely ineffective】A REUTERS survey shows most economists now expect the Bank of Japan to tighten faster than previously thought, with 57% forecasting a September rate hike (up from 5% in July). Ten of 58 respondents expect a further hike in October or December taking the policy rate to 1.5%. JP Morgan Japan chief economist Ayako Fujita warned delaying a September move could trigger market turmoil, making a pre-emptive adjustment likely. Looking beyond this year, 35 of 54 analysts expect the policy rate to reach at least 1.5% by end-March next year — three months earlier than in July’s survey — and roughly 60% expect rates to reach at least 1.75% by end-Q3 2027. On the recent rare U.S.-Japan joint FX intervention, 18 of 26 respondents judged the measures ineffective or completely ineffective, with many saying they merely delayed the problem rather than solved it."
-    },
-    {
-      "id": "te:markets:578042",
-      "time": "2026-08-26 06:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Increases by 0.56% — Top currency gainers are Indian Rupee (0.56%), Swedish Krona (0.45%), New Zealand Dollar (0.29%), British Pound (0.11%) and Euro (0.09%). Biggest losers are Japanese Yen (-0.09%) and Dollar Index (-0.09%)."
-    },
-    {
-      "id": "mkt:01a03afd-2dde-7aab-911b-7c9309a11be9",
-      "time": "2026-08-26 06:14:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. official said President Trump said a nuclear deal with Saudi Arabia can proceed only if Riyadh joins the Abraham Accords and recognizes Israel."
-    },
-    {
-      "id": "5058544",
-      "time": "2026-08-26 06:13:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4720美元/盎司，日內漲0.55%。"
-    },
-    {
-      "id": "5058543",
-      "time": "2026-08-26 06:13:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本計劃投入 1000 億日元扶持海底電纜船產業。"
-    },
-    {
-      "id": "5058542",
-      "time": "2026-08-26 06:13:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國政府官員：特朗普仍認為，只有沙特加入《亞伯拉罕協議》並承認以色列，與沙特的核協議才能夠推進。"
     }
   ]
 }
