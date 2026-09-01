@@ -1,7 +1,19 @@
 {
   "date": "2026-09-02",
-  "count": 333,
+  "count": 334,
   "items": [
+    {
+      "id": "mkt:01a05e7b-9d66-7118-8443-b4314a108d0c",
+      "time": "2026-09-02 03:39:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Fars News, citing sources, reported several explosions were heard at a US base in Jordan."
+    },
     {
       "id": "mkt:01a05e79-da6c-7118-8443-adb3682ba08a",
       "time": "2026-09-02 03:37:19",
