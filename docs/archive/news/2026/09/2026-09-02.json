@@ -1,7 +1,97 @@
 {
   "date": "2026-09-02",
-  "count": 579,
+  "count": 589,
   "items": [
+    {
+      "id": "5071750",
+      "time": "2026-09-02 06:11:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗目前海上原油數量極少。"
+    },
+    {
+      "id": "5071749",
+      "time": "2026-09-02 06:11:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗目前海上浮儲原油僅剩約3000萬桶。"
+    },
+    {
+      "id": "5071748",
+      "time": "2026-09-02 06:11:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍隊稱，在伊朗發動襲擊後，科威特防空部隊目前正在應對敵方無人機攻擊。"
+    },
+    {
+      "id": "mkt:01a05f06-783d-7118-8447-06b7a7b8c891",
+      "time": "2026-09-02 06:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent met with Russia's finance minister, who is not under sanctions."
+    },
+    {
+      "id": "5071747",
+      "time": "2026-09-02 06:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：許多盟友表示將在伊朗問題上採取一切必要措施。"
+    },
+    {
+      "id": "mkt:01a05f06-4887-7118-8446-f834a2e613b5",
+      "time": "2026-09-02 06:10:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said many allies have indicated they will take all necessary measures to address the Iran issue."
+    },
+    {
+      "id": "5071746",
+      "time": "2026-09-02 06:10:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：已就伊朗問題與俄羅斯進行了極低調的會談。"
+    },
+    {
+      "id": "mkt:01a05f05-dde7-7118-8446-f014ebb10a14",
+      "time": "2026-09-02 06:10:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military says the country's air defenses are currently responding to drone attacks from Iran."
+    },
+    {
+      "id": "5071745",
+      "time": "2026-09-02 06:08:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：已會晤未受制裁的俄羅斯財政部長。"
+    },
+    {
+      "id": "5071744",
+      "time": "2026-09-02 06:08:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：若雙方不對話，俄烏衝突無法解決。"
+    },
     {
       "id": "5071743",
       "time": "2026-09-02 06:07:43",
