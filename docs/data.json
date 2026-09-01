@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-02 07:46:51",
-  "count": 12689,
+  "updated": "2026-09-02 07:50:42",
+  "count": 12686,
   "items": [
+    {
+      "id": "5071850",
+      "time": "2026-09-02 07:50:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皐月：不對具體匯率水平置評。"
+    },
+    {
+      "id": "5071849",
+      "time": "2026-09-02 07:48:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華創證券：白酒Q2加速築底訊號明確 當前宜長線播種優質藍籌股】華創證券釋出研報稱，白酒行業底部訊號逐步明朗，宜長線播種、短期把握季度右側改善機會。Q2板塊籌碼加速出清，當前底部訊號漸明，機會選擇看：第一，建議從1-2年維度去“播種”一批基本面實際已走出冬天，但股價仍正經歷嚴寒的優質藍籌白馬股；第二，從季度改善的視角去選擇右側機會。具體來看，Q2酒企普遍給渠道紓壓、報表壓力有望進一步釋放，下半年低基數下更多酒企動銷及報表有望轉正。全年看酒企從被動應對進入主動調整，機會在於茅臺批價企穩之後，預期築底企穩。週期節奏上，26H1酒企主動調整、曙光微現，26H2有望拐點漸明、漸次改善。優先推薦穿越週期的龍頭茅臺，其次關注庫存見底節奏相對較快的古井貢酒、今世緣，戰略關注經營穩中向好的五糧液及山西汾酒、低基數下彈性品種瀘州老窖。"
+    },
+    {
+      "id": "5071848",
+      "time": "2026-09-02 07:47:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨9月合約早盤下跌0.14點。"
+    },
+    {
+      "id": "mkt:01a05f5e-99be-7118-8449-001e6a1288fd",
+      "time": "2026-09-02 07:47:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said he spoke with JP Morgan CEO Dimon, who praised recent developments in Japan."
+    },
+    {
+      "id": "5071847",
+      "time": "2026-09-02 07:46:44",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "日本財務大臣片山稱，與摩根大通CEO戴蒙進行了交談，他對日本的最新變革表示讚賞。"
+    },
     {
       "id": "5071846",
       "time": "2026-09-02 07:46:05",
@@ -19,6 +64,15 @@
         "Macro & Rates"
       ],
       "text": "Australia's 10-year government bond yield rose to 5.198%, the highest level since mid-2011."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609023861919468",
+      "time": "2026-09-02 07:45:07",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲經濟增長難掩結構性困境】今年8月，歐元區經濟活動顯著回暖，採購經理指數（PMI）資料全面走強，尤其是製造業產出創下4年多來最快增速。不過，儘管整體資料向好，但企業對未來產出的信心卻降至3個月低點。“資料亮眼、信心低迷”的現象背後，是歐洲經濟雖在短期復甦，但長期結構性困境尚未解決的現狀。"
     },
     {
       "id": "5071845",
@@ -116203,84 +116257,6 @@
         "USDJPY"
       ],
       "text": "Japan corporate services price index YoY 3.6% in July, up from 3.2% previously."
-    },
-    {
-      "id": "mkt:01a03b55-4a78-7aab-911b-f4200ac2d5ed",
-      "time": "2026-08-26 07:50:40",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Services Producer Price Index (All items) (MoM) (Jul) | actual 0.4% | previous -0.4%"
-    },
-    {
-      "id": "mkt:01a03b55-471b-7aab-911b-ee57d6469510",
-      "time": "2026-08-26 07:50:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【China International Capital Co: tantalum and niobium supply-demand reshaped; strategic value reassessed】China International Capital Co says tantalum and niobium supply is highly fragile and increasingly exposed to external disruption. New demand from AI, new energy and commercial space sectors is tightening balances and, combined with geopolitical frictions, could lift price midpoints. The report flags strategic upside for fully integrated, full‑chain players — firms with secured upstream resources, expanding midstream capacity and defensible downstream technologies are likely to benefit materially."
-    },
-    {
-      "id": "mkt:01a03b55-381b-7aab-911b-e439d438da41",
-      "time": "2026-08-26 07:50:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Services Producer Price Index (All items) (YoY) (Jul) | actual 3.6% | previous 3.20%"
-    },
-    {
-      "id": "5058617",
-      "time": "2026-08-26 07:50:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本7月企業服務價格指數同比 3.6%，預期 3.2%，前值 3.2%。"
-    },
-    {
-      "id": "5058616",
-      "time": "2026-08-26 07:49:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第一拖拉機股份釋出中期業績 歸母淨利潤7.82億元 同比增加1.72%】第一拖拉機股份(00038)釋出截至2026年6月30日止6個月中期業績，該集團期內取得營業總收入78.86億元人民幣，同比增加13.84%;歸屬於母公司所有者的淨利潤7.82億元，同比增加1.72%;每股基本收益0.6962元。"
-    },
-    {
-      "id": "5058615",
-      "time": "2026-08-26 07:49:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Digital Realty獲50兆瓦額度，擬建在新加坡第四座資料中心】房地產投資信託公司Digital Realty當地時間8月25日宣佈，獲分配50兆瓦資料中心額度，擬在裕廊島興建其位於新加坡的第四座資料中心。若專案按50兆瓦規模投入運作，裡瑞通位於新加坡的資料中心總容量將從目前約84兆瓦增至約134兆瓦，增幅約六成。"
-    },
-    {
-      "id": "5058614",
-      "time": "2026-08-26 07:48:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "錦欣生殖(01951)釋出公告，該公司於2026年8月15日斥資599.97萬港元回購265.75萬股股份，每股回購價格為2.245-2.26港元。"
-    },
-    {
-      "id": "5058613",
-      "time": "2026-08-26 07:47:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【併購潮進入“冷靜期” A股重組終止案例頻現】8月24日，智光電氣、頂固集創相繼按下併購“終止鍵”。據記者不完全統計，8月以來，已有至少11起A股併購重組專案宣告終止。梳理案例詳情，終止原因大體可以分為三類：市場環境或標的基本面發生變化，交易核心條款未能談攏，稽核或交易程式無法繼續推進。今年以來，A股併購交易持續活躍與終止案例增加的現象同步發生。交易雙方對於標的質量、交易作價、支付方式和產業協同的審視明顯趨嚴，一批交易條件難以匹配、盈利預期發生變化或產業邏輯尚待驗證的專案陸續退出。未來併購市場將進入更充分的價格博弈和質量篩選階段。（上海證券報）"
-    },
-    {
-      "id": "5058612",
-      "time": "2026-08-26 07:47:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀諾醫藥-B擬斥資5000萬港元進行場內H股購回】銀諾醫藥-B(02591)釋出公告，於2026年8月26日起至本公司下一屆股東周年大會日期止期間，其擬根據股東於2026年6月29日舉行的股東周年大會上透過的特別決議案行使其於購回授權下的權力，於聯交所主機板以場內交易方式購回H股，擬定總金額約為5000萬港元(擬定H股購回)。"
     }
   ]
 }
