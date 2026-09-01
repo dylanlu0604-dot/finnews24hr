@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-02 07:42:53",
-  "count": 12686,
+  "updated": "2026-09-02 07:46:51",
+  "count": 12689,
   "items": [
+    {
+      "id": "5071846",
+      "time": "2026-09-02 07:46:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤下跌2%。"
+    },
+    {
+      "id": "mkt:01a05f5c-e9d5-7118-8448-f8ea05157353",
+      "time": "2026-09-02 07:45:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Australia's 10-year government bond yield rose to 5.198%, the highest level since mid-2011."
+    },
+    {
+      "id": "5071845",
+      "time": "2026-09-02 07:44:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞政府10年期國債收益率觸及5.198%，為2011年中以來最高。"
+    },
+    {
+      "id": "mkt:01a05f5b-c924-7118-8448-f31bcd4f395e",
+      "time": "2026-09-02 07:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said U.S. Treasury Secretary Bessent referred to U.S. plans to control debt."
+    },
+    {
+      "id": "mkt:01a05f5a-5121-7118-8448-eb8482f222a1",
+      "time": "2026-09-02 07:42:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Al Arabiya, citing Arab News, reported two drones were shot down over a US base at Erbil airport in Iraq."
+    },
+    {
+      "id": "5071844",
+      "time": "2026-09-02 07:42:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌1305點，報64835點。"
+    },
+    {
+      "id": "5071843",
+      "time": "2026-09-02 07:41:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：全球軟體FDE加速 關注國內軟體廠商業績放量】華泰證券研報指出，AI時代軟體競爭從標準化產品逐步轉向“產品能力+行業Know-how+深度交付”並重，全球軟體廠商同步加速FDE轉型，國內軟體廠商的Know-how優勢及客戶黏性優勢正加速凸顯。從半年報來看，由於閉源模型敘事走弱，美股軟體進入估值修復期，帶動全球軟體估值預期改善。同時，國內AI應用代表企業2026年上半年普遍實現營收加速及盈利改善，實現估值+業績共振。華泰證券認為，FDE模式放大國內軟體廠商的優勢，正加速推動軟體廠商AI業務由試點驗證向正式合同轉化，關注國內軟體廠商全年業績放量。"
+    },
+    {
+      "id": "mkt:01a05f59-97e6-7118-8448-e4019ec5e6dc",
+      "time": "2026-09-02 07:41:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said debt expansion is a global trend and described Japan's fiscal policy as aimed at achieving growth while maintaining fiscal sustainability."
+    },
     {
       "id": "mkt:01a05f57-78f8-7118-8448-d8ddf00da85d",
       "time": "2026-09-02 07:39:23",
@@ -116209,50 +116281,6 @@
         "公司"
       ],
       "text": "【銀諾醫藥-B擬斥資5000萬港元進行場內H股購回】銀諾醫藥-B(02591)釋出公告，於2026年8月26日起至本公司下一屆股東周年大會日期止期間，其擬根據股東於2026年6月29日舉行的股東周年大會上透過的特別決議案行使其於購回授權下的權力，於聯交所主機板以場內交易方式購回H股，擬定總金額約為5000萬港元(擬定H股購回)。"
-    },
-    {
-      "id": "5058611",
-      "time": "2026-08-26 07:46:17",
-      "tags": [
-        "行業"
-      ],
-      "text": "【多家券商上半年經紀投行雙線發力 AI金融佈局從“投入期”邁向“產出期”】截至8月25日，已有21家上市券商披露2026年半年報。總體來看，上半年上市券商經營成色持續向好：A股市場交易活躍度攀升帶動經紀業務收入穩步向好，科創企業上市提速助推投行業務提質擴容；多家券商AI金融佈局從“投入期”邁向“產出期”，在客戶留存、運營提效、智慧風控等環節逐步釋放效能。（上海證券報）"
-    },
-    {
-      "id": "5058610",
-      "time": "2026-08-26 07:45:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【提高科技敘事“閾值” 基金經理勾勒“九月攻略”路線圖】儘管科技板塊仍在震盪，但種種跡象顯示，8月以來，基金經理對科技投資的信心正在增強。以8月24日為例，儘管當天A股科技板塊再度深調，科創50與創業板指數單日跌幅均超3%，但與市場情緒形成對比的是，多家公募機構卻在最新策略研判中明確表示：“科技調整已基本告一段落”“當前位置機會大於風險”。勝率與賠率的比較逐漸明朗，基金經理的“九月攻略”或已提前展開。而這一次，在篩選科技板塊標的時，基金經理對業績、訂單以及技術壁壘的閾值均明顯提高。"
-    },
-    {
-      "id": "5058609",
-      "time": "2026-08-26 07:45:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【從“拼流量”到“拼服務”，基金代銷機構半年業績揭曉】隨著上市公司半年報的披露，多家基金代銷機構的上半年“成績單”浮出水面。螞蟻基金、天天基金等多家知名代銷機構業績可觀。業內人士認為，這既有市場帶來的貝塔，也有代銷機構自身經營能力提升帶來的阿爾法，行業發展已經從“拼流量”轉向“拼服務”。（上證報）"
-    },
-    {
-      "id": "te:markets:578052",
-      "time": "2026-08-26 07:44:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady Ahead of PCE Data, Nvidia Earnings — US stock futures were little changed on Wednesday as investors awaited the latest US PCE price index report, the Federal Reserve’s preferred measure of inflation. Nvidia’s quarterly results, due after the closing bell, will also be closely watched for signs of continued strength in artificial intelligence-driven demand. Meanwhile, Fed Chair Kevin Warsh is scheduled to speak at the annual Jackson Hole symposium on Friday, although he is not expected to provide clear guidance on the central bank’s policy decision in September. In regular trading on Tuesday, the Dow gained 0.3%, the S&P 500 rose 0.32%, and the Nasdaq Composite advanced 0.66%. Technology stocks led the gains, with companies tied to AI infrastructure outperforming. The advance came as long-term Treasury yields retreated from recent highs, while softer oil prices helped ease concerns over inflation."
-    },
-    {
-      "id": "5058608",
-      "time": "2026-08-26 07:43:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Anthropic擬向投資者披露超30萬億美元潛在市場規模，IPO估值目標約2萬億美元】據報道，Anthropic或將告知投資者，其潛在市場規模（TAM）預計將超過30萬億美元，高於SpaceX此前在招股書中預估的28.5萬億美元。潛在市場規模指的是在市場份額佔100%情況下的理論最大化收益情況。據媒體此前報道，Anthropic預計2028年收入將達約1900億至2000億美元，IPO估值目標約為2萬億美元。"
     }
   ]
 }

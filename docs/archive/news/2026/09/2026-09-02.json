@@ -1,7 +1,79 @@
 {
   "date": "2026-09-02",
-  "count": 751,
+  "count": 759,
   "items": [
+    {
+      "id": "5071846",
+      "time": "2026-09-02 07:46:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤下跌2%。"
+    },
+    {
+      "id": "mkt:01a05f5c-e9d5-7118-8448-f8ea05157353",
+      "time": "2026-09-02 07:45:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Australia's 10-year government bond yield rose to 5.198%, the highest level since mid-2011."
+    },
+    {
+      "id": "5071845",
+      "time": "2026-09-02 07:44:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞政府10年期國債收益率觸及5.198%，為2011年中以來最高。"
+    },
+    {
+      "id": "mkt:01a05f5b-c924-7118-8448-f31bcd4f395e",
+      "time": "2026-09-02 07:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said U.S. Treasury Secretary Bessent referred to U.S. plans to control debt."
+    },
+    {
+      "id": "mkt:01a05f5a-5121-7118-8448-eb8482f222a1",
+      "time": "2026-09-02 07:42:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Al Arabiya, citing Arab News, reported two drones were shot down over a US base at Erbil airport in Iraq."
+    },
+    {
+      "id": "5071844",
+      "time": "2026-09-02 07:42:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌1305點，報64835點。"
+    },
+    {
+      "id": "5071843",
+      "time": "2026-09-02 07:41:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：全球軟體FDE加速 關注國內軟體廠商業績放量】華泰證券研報指出，AI時代軟體競爭從標準化產品逐步轉向“產品能力+行業Know-how+深度交付”並重，全球軟體廠商同步加速FDE轉型，國內軟體廠商的Know-how優勢及客戶黏性優勢正加速凸顯。從半年報來看，由於閉源模型敘事走弱，美股軟體進入估值修復期，帶動全球軟體估值預期改善。同時，國內AI應用代表企業2026年上半年普遍實現營收加速及盈利改善，實現估值+業績共振。華泰證券認為，FDE模式放大國內軟體廠商的優勢，正加速推動軟體廠商AI業務由試點驗證向正式合同轉化，關注國內軟體廠商全年業績放量。"
+    },
+    {
+      "id": "mkt:01a05f59-97e6-7118-8448-e4019ec5e6dc",
+      "time": "2026-09-02 07:41:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said debt expansion is a global trend and described Japan's fiscal policy as aimed at achieving growth while maintaining fiscal sustainability."
+    },
     {
       "id": "mkt:01a05f57-78f8-7118-8448-d8ddf00da85d",
       "time": "2026-09-02 07:39:23",
