@@ -1,7 +1,297 @@
 {
-  "updated": "2026-09-01 21:01:18",
-  "count": 12302,
+  "updated": "2026-09-01 21:05:32",
+  "count": 12320,
   "items": [
+    {
+      "id": "mkt:01a05d12-8584-7118-8438-510f20759a28",
+      "time": "2026-09-01 21:04:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel: Monetary Committee policy focuses on price stability, supporting economic activity and market stability."
+    },
+    {
+      "id": "5071143",
+      "time": "2026-09-01 21:04:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行表示，貨幣政策委員會的政策重點是物價穩定、支援經濟活動以及市場穩定。"
+    },
+    {
+      "id": "mkt:01a05d12-1007-7118-8438-4d19c54faecb",
+      "time": "2026-09-01 21:04:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel said geopolitical tensions keep uncertainty elevated, but Israel's risk premium remains at levels prior to Oct. 7, 2023, and the USD-SHEKEL exchange rate has moved little."
+    },
+    {
+      "id": "5071142",
+      "time": "2026-09-01 21:04:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行表示，鑑於地緣政治緊張局勢，不確定性依然很高，但以色列的風險溢價仍維持在2023年10月7日之前的水平，且美元兌新謝克爾匯率幾乎保持不變。"
+    },
+    {
+      "id": "5071141",
+      "time": "2026-09-01 21:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "9月1日，全球基金淨買入114億印度盧比的印度股票。"
+    },
+    {
+      "id": "5071140",
+      "time": "2026-09-01 21:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報88.34美元/桶。"
+    },
+    {
+      "id": "5071139",
+      "time": "2026-09-01 21:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRATOS贏得2000萬美元合同，為彈性防禦網路提供移動衛星通訊閘道器。"
+    },
+    {
+      "id": "5071138",
+      "time": "2026-09-01 21:03:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4340美元/盎司，日內跌2.49%。"
+    },
+    {
+      "id": "mkt:01a05d11-0c62-7118-8438-40c4086e5c28",
+      "time": "2026-09-01 21:03:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel said Q2 data partly reflect a recovery in economic activity following Q1 disruptions from military action against Iran."
+    },
+    {
+      "id": "5071137",
+      "time": "2026-09-01 21:03:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報15770.00元。"
+    },
+    {
+      "id": "5071136",
+      "time": "2026-09-01 21:03:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALUMIS股票恢復交易；試銷失敗後暴跌盤前57%。"
+    },
+    {
+      "id": "mkt:01a05d10-8542-7118-8438-3d98013dc53e",
+      "time": "2026-09-01 21:02:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose about 2% intraday to $87.12/bbl; Brent crude gained 1.84% to $91.98/bbl."
+    },
+    {
+      "id": "5071135",
+      "time": "2026-09-01 21:02:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報3106.00元。"
+    },
+    {
+      "id": "mkt:01a05d10-3ff9-7118-8438-325d9870ea9e",
+      "time": "2026-09-01 21:02:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai gold most-active contract falls over 2% to 941.2 yuan/gram."
+    },
+    {
+      "id": "5071134",
+      "time": "2026-09-01 21:02:12",
+      "tags": [
+        "央行",
+        "資料",
+        "國際"
+      ],
+      "text": "以色列央行：近期通脹有所緩和，年率低於1-3%目標區間的中點。"
+    },
+    {
+      "id": "5071133",
+      "time": "2026-09-01 21:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "總部位於阿布扎比的EPOINTZERO收購奈及利亞發電廠。"
+    },
+    {
+      "id": "mkt:01a05d0f-fcb1-7118-8438-2d6d6e463790",
+      "time": "2026-09-01 21:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel said recent inflation has eased and the year-on-year rate is below the midpoint of its 1–3% target range."
+    },
+    {
+      "id": "5071132",
+      "time": "2026-09-01 21:01:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4391.59美元/盎司。"
+    },
+    {
+      "id": "mkt:01a05d0f-a636-7118-8438-27a11092b745",
+      "time": "2026-09-01 21:01:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell more than US$100 intraday to US$4,348.33/oz, down 2.26%."
+    },
+    {
+      "id": "5071131",
+      "time": "2026-09-01 21:01:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4350美元/盎司，日內跌2.26%。"
+    },
+    {
+      "id": "5071130",
+      "time": "2026-09-01 21:01:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行稱外匯儲備增加5億歐元，達到3498億歐元。"
+    },
+    {
+      "id": "5071129",
+      "time": "2026-09-01 21:00:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4400美元/盎司，日內跌1.84%。"
+    },
+    {
+      "id": "5071128",
+      "time": "2026-09-01 21:00:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報5648.00元。"
+    },
+    {
+      "id": "mkt:01a05d0e-8fcf-7118-8438-1af02f721a36",
+      "time": "2026-09-01 21:00:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Israel cut its policy rate by 25 bps to 3.25% from 3.50%."
+    },
+    {
+      "id": "5071127",
+      "time": "2026-09-01 21:00:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行將基準利率下調至3.25%；預期為3.38%。"
+    },
+    {
+      "id": "mkt:01a05d0e-5efa-7118-8438-16377b53204c",
+      "time": "2026-09-01 21:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals",
+        "Precious Metals",
+        "Brent",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Night session opened: China’s main futures were mostly higher. Ethylene glycol (EG) and SC crude rose over 2%; asphalt and glass gained about 2%; pulp, methanol, LPG and fuel oil advanced over 1%. On the downside, Shanghai silver fell more than 2%; Shanghai gold and 20# rubber dropped over 1%; cotton, SHFE copper, general rubber and international copper were down roughly 1%."
+    },
+    {
+      "id": "5071126",
+      "time": "2026-09-01 21:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報973.00元。"
+    },
+    {
+      "id": "5071125",
+      "time": "2026-09-01 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】多晶矽連續漲3.22%，菜籽連續跌3.09%，鈀連續跌3.06%，紅棗連續跌3.02%，生豬連續跌2.67%。"
+    },
+    {
+      "id": "5071124",
+      "time": "2026-09-01 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲2%，現報5609.00元。"
+    },
+    {
+      "id": "5071123",
+      "time": "2026-09-01 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報971.00元。"
+    },
+    {
+      "id": "5071122",
+      "time": "2026-09-01 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌2%，現報15847.00元。"
+    },
     {
       "id": "5071121",
       "time": "2026-09-01 20:59:47",
@@ -112738,134 +113028,6 @@
         "其他"
       ],
       "text": "高通：全新Oryon CPU為首款達到5吉赫茲的移動端處理器。"
-    },
-    {
-      "id": "5058168",
-      "time": "2026-08-25 21:05:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【洪田股份：擬收購併增資國興智慧 合計獲51%股權】洪田股份公告稱，公司全資子公司洪田研究院擬透過現金增資及受讓股權、合夥企業出資份額的方式，合計出資2.65億元，直接及間接持有國興智慧51%股權，控制其62.87%表決權，國興智慧將成為公司控股子公司並納入合併報表範圍。該事項尚需提交公司股東會審議。同時，會議審議透過變更註冊地址、辦公地址暨修訂公司章程的議案，相關事項亦需股東會審議，公司擬於2026年9月10日召開2026年第三次臨時股東會。"
-    },
-    {
-      "id": "mkt:01a03905-892e-7aab-9113-149dbe2a595a",
-      "time": "2026-08-25 21:04:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities"
-      ],
-      "text": "Low-sulfur fuel oil (LU) front-month contract tumbled 6.00% intraday to 4,793 yuan/ton."
-    },
-    {
-      "id": "mkt:01a03905-7598-7aab-9113-0bcaf0d267bb",
-      "time": "2026-08-25 21:04:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Apple (AAPL.O): M5 Max and M5 Ultra are \"Apple's most powerful chips to date\"."
-    },
-    {
-      "id": "5058167",
-      "time": "2026-08-25 21:03:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "蘋果：搭載M6晶片的Mac mini起售價為899美元（美國），教育優惠價為799美元（美國）。"
-    },
-    {
-      "id": "5058166",
-      "time": "2026-08-25 21:02:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈新發展：湖南新華聯建設工程有限公司擬減持公司不超過0.85%股份】盈新發展公告，股東湖南新華聯建設工程有限公司擬於2026年9月16日至2026年12月15日，透過集中競價、大宗交易方式減持公司股份5000萬股，佔公司總股本的0.85%。本次減持系處置破產財產，不會導致公司控制權發生變更。"
-    },
-    {
-      "id": "5058165",
-      "time": "2026-08-25 21:02:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "AXOS FINL 報告在德克薩斯州紐約證券交易所雙重上市。"
-    },
-    {
-      "id": "5058164",
-      "time": "2026-08-25 21:02:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陝國投A：2026年上半年營收14.06億元 淨利微增】陝國投A公告稱，2026年上半年實現營業收入14.06億元，同比增長2.85%；歸屬於上市公司股東的淨利潤7.28億元，同比增長0.32%；扣非淨利潤7.29億元，同比增長0.72%。公司擬以51.14億股為基數，向全體股東每10股派發現金紅利0.1元（含稅），不送紅股、不以公積金轉增股本。此外，公司向特定物件發行A股股票事項已獲陝西監管局批覆，深交所已受理申請並出具稽核問詢函，公司已完成回覆，該事項尚需深交所稽核透過及證監會註冊後方可實施。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608253853266095",
-      "time": "2026-08-25 21:01:51",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月FHFA房價指數同比增長2.3%，前值由2.2%修正為2.4%。"
-    },
-    {
-      "id": "mkt:01a03903-3af2-7aab-9113-03d467b7b274",
-      "time": "2026-08-25 21:01:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): new Mac mini equipped with M6 and M5 Pro chips; AI performance markedly improved, further strengthening the desktop's sustained AI-compute capability."
-    },
-    {
-      "id": "5058163",
-      "time": "2026-08-25 21:01:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌6%，現報4793.00元。"
-    },
-    {
-      "id": "5058162",
-      "time": "2026-08-25 21:01:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：全新Mac mini搭載M6與M5 Pro晶片，實現人工智慧效能的巨大飛躍，為這款領先的桌上型電腦注入強勁動力，開啟全天候智慧體計算新時代。"
-    },
-    {
-      "id": "mkt:01a03903-1ed1-7aab-9112-fef99c92b642",
-      "time": "2026-08-25 21:01:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Apple (AAPL.O) announced its first 2nm \"M6\" chip and a four-chiplet \"M5 Ultra\" chip."
-    },
-    {
-      "id": "5058161",
-      "time": "2026-08-25 21:01:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報5666.00元。"
     }
   ]
 }
