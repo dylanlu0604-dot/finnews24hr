@@ -1,7 +1,102 @@
 {
   "date": "2026-09-02",
-  "count": 72,
+  "count": 83,
   "items": [
+    {
+      "id": "5071463",
+      "time": "2026-09-02 00:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：能源部長賴特將於今晚前往委內瑞拉，明日舉行簽約儀式。"
+    },
+    {
+      "id": "5071462",
+      "time": "2026-09-02 00:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：委內瑞拉石油協議與民主問題掛鉤。"
+    },
+    {
+      "id": "5071461",
+      "time": "2026-09-02 00:38:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：委內瑞拉政權過渡相關談判的下一階段將於月中重啟。"
+    },
+    {
+      "id": "mkt:01a05dd6-6fd8-7118-843f-91590bf95710",
+      "time": "2026-09-02 00:38:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin met with Armenia's prime minister."
+    },
+    {
+      "id": "5071460",
+      "time": "2026-09-02 00:38:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "CrowdStrike攜手英偉達推出網路安全前沿大模型。"
+    },
+    {
+      "id": "mkt:01a05dd5-cf8a-7118-843f-8867a2368bba",
+      "time": "2026-09-02 00:38:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. officials say Chevron (CVX.N) will announce an expansion of operations in Venezuela."
+    },
+    {
+      "id": "5071459",
+      "time": "2026-09-02 00:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：雪佛龍將宣佈擴大在委內瑞拉的業務規模。"
+    },
+    {
+      "id": "mkt:01a05dd5-aa66-7118-843f-84280a10a90f",
+      "time": "2026-09-02 00:37:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said the U.S. will continue to push for private-sector investment in Venezuela."
+    },
+    {
+      "id": "mkt:01a05dd5-7cfa-7118-843f-7aa32a5c2efc",
+      "time": "2026-09-02 00:37:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said the next phase of negotiations on Venezuela's transition arrangements will resume mid-month."
+    },
+    {
+      "id": "5071458",
+      "time": "2026-09-02 00:37:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員談及委內瑞拉：我們將繼續推動美國私營部門開展投資。"
+    },
+    {
+      "id": "5071457",
+      "time": "2026-09-02 00:37:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美襲擊伊朗多地】據伊朗國家電視臺報道，當地時間9月1日晚，伊朗霍爾木茲甘省首府阿巴斯港東部傳出爆炸聲，最大島嶼格什姆島也傳出爆炸聲。另據伊朗法爾斯通訊社報道，伊朗東南部科納拉克、恰巴哈爾等地均傳出爆炸聲。據美國媒體報道，美軍正在霍爾木茲海峽周邊對伊朗目標實施打擊。（CCTV國際時訊）"
+    },
     {
       "id": "5071456",
       "time": "2026-09-02 00:35:49",
