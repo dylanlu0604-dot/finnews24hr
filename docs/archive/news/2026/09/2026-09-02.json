@@ -1,7 +1,103 @@
 {
   "date": "2026-09-02",
-  "count": 285,
+  "count": 295,
   "items": [
+    {
+      "id": "5071577",
+      "time": "2026-09-02 03:05:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國財政部副部長雷諾茲稱，緩解全球失衡是一項敏感議題，英國將審慎應對。"
+    },
+    {
+      "id": "mkt:01a05e5b-7c62-7118-8443-385798c00cf1",
+      "time": "2026-09-02 03:04:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath reports a US assessment that Iran had planned to expand attacks on commercial vessels."
+    },
+    {
+      "id": "5071576",
+      "time": "2026-09-02 03:03:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【富國銀行加入摩根大通行列 對美股後市表現持謹慎看法】富國銀行成為本週第二家對美股轉趨謹慎的銀行。隨著市場進入歷史上表現最差的月份之一，加之中期選舉給人工智慧交易增添不確定性，富國對9月美股前景發出警告。由首席股票策略師Ohsung Kwon領銜的富國銀行分析師團隊表示，投資者越來越擔心AI投資熱潮能否持續，進入9月後市場將呈現“普遍謹慎”的情緒。團隊預計，圍繞AI基礎設施建設資本開支的擔憂將達到高點。不過，他們指出，經歷8月中旬拋售後，情緒指標仍是正面多於負面。"
+    },
+    {
+      "id": "mkt:01a05e5a-fd78-7118-8443-34a5815cde06",
+      "time": "2026-09-02 03:03:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Explosions reported across southern Iran; airport and Persian Gulf energy hub struck】Local time Sept. 1, multiple explosions were reported in southern Iran. Around 21:28 blasts were heard at Bandar Abbas port, Qeshm Island and Lavan Island. Iranian sources said U.S. forces struck Jiroft airport in Kerman province at about 21:40; Jiroft is roughly 200 km from the provincial capital Kerman. Later that evening explosions were also reported at Asaluyeh port, a major Persian Gulf energy hub."
+    },
+    {
+      "id": "5071575",
+      "time": "2026-09-02 03:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地再次傳出爆炸聲 機場和能源樞紐遭襲】據總檯記者訊息，當地時間9月1日21時28分左右，伊朗南部阿巴斯港、格什姆島再次傳出爆炸聲。伊朗拉萬島（Lavan）也傳出爆炸聲。伊朗方面還有訊息稱，1日21時40分左右，美軍襲擊伊朗吉羅夫特機場。吉羅夫特位於伊朗克爾曼省，距離該省省會城市克爾曼200公里左右。據悉，當日晚，伊朗位於波斯灣沿岸的重要能源樞紐阿薩魯耶港也傳出爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05e5a-b85a-7118-8443-2a8cd963d18d",
+      "time": "2026-09-02 03:03:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iranian media report explosions were heard again in Chabahar."
+    },
+    {
+      "id": "5071574",
+      "time": "2026-09-02 03:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：週二晚間一枚從伊朗中部霍梅因發射的導彈因發射故障發生墜落。"
+    },
+    {
+      "id": "mkt:01a05e59-ec90-7118-8443-204faca96b8c",
+      "time": "2026-09-02 03:02:26",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.02% at 25,176, trading 154 points below the cash index."
+    },
+    {
+      "id": "mkt:01a05e59-4565-7118-8443-1baeecc65882",
+      "time": "2026-09-02 03:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Jazeera reported US officials say strikes against targets inside Iran are ongoing and that the US will formally declare an end only after operations conclude."
+    },
+    {
+      "id": "5071573",
+      "time": "2026-09-02 03:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗對美國目標發起報復性打擊】當地時間9月1日晚，伊朗媒體稱，伊朗武裝部隊已開始對美國目標發起報復性打擊行動，伊朗導彈和無人機正在襲擊該地區的美軍基地和美國利益目標。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a05e57-f917-7118-8443-14f4c52df69d",
       "time": "2026-09-02 03:00:18",

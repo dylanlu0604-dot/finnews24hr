@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-02 03:01:48",
-  "count": 12457,
+  "updated": "2026-09-02 03:05:58",
+  "count": 12463,
   "items": [
+    {
+      "id": "5071577",
+      "time": "2026-09-02 03:05:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國財政部副部長雷諾茲稱，緩解全球失衡是一項敏感議題，英國將審慎應對。"
+    },
+    {
+      "id": "mkt:01a05e5b-7c62-7118-8443-385798c00cf1",
+      "time": "2026-09-02 03:04:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath reports a US assessment that Iran had planned to expand attacks on commercial vessels."
+    },
+    {
+      "id": "5071576",
+      "time": "2026-09-02 03:03:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【富國銀行加入摩根大通行列 對美股後市表現持謹慎看法】富國銀行成為本週第二家對美股轉趨謹慎的銀行。隨著市場進入歷史上表現最差的月份之一，加之中期選舉給人工智慧交易增添不確定性，富國對9月美股前景發出警告。由首席股票策略師Ohsung Kwon領銜的富國銀行分析師團隊表示，投資者越來越擔心AI投資熱潮能否持續，進入9月後市場將呈現“普遍謹慎”的情緒。團隊預計，圍繞AI基礎設施建設資本開支的擔憂將達到高點。不過，他們指出，經歷8月中旬拋售後，情緒指標仍是正面多於負面。"
+    },
+    {
+      "id": "mkt:01a05e5a-fd78-7118-8443-34a5815cde06",
+      "time": "2026-09-02 03:03:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Explosions reported across southern Iran; airport and Persian Gulf energy hub struck】Local time Sept. 1, multiple explosions were reported in southern Iran. Around 21:28 blasts were heard at Bandar Abbas port, Qeshm Island and Lavan Island. Iranian sources said U.S. forces struck Jiroft airport in Kerman province at about 21:40; Jiroft is roughly 200 km from the provincial capital Kerman. Later that evening explosions were also reported at Asaluyeh port, a major Persian Gulf energy hub."
+    },
+    {
+      "id": "5071575",
+      "time": "2026-09-02 03:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地再次傳出爆炸聲 機場和能源樞紐遭襲】據總檯記者訊息，當地時間9月1日21時28分左右，伊朗南部阿巴斯港、格什姆島再次傳出爆炸聲。伊朗拉萬島（Lavan）也傳出爆炸聲。伊朗方面還有訊息稱，1日21時40分左右，美軍襲擊伊朗吉羅夫特機場。吉羅夫特位於伊朗克爾曼省，距離該省省會城市克爾曼200公里左右。據悉，當日晚，伊朗位於波斯灣沿岸的重要能源樞紐阿薩魯耶港也傳出爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05e5a-b85a-7118-8443-2a8cd963d18d",
+      "time": "2026-09-02 03:03:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iranian media report explosions were heard again in Chabahar."
+    },
+    {
+      "id": "5071574",
+      "time": "2026-09-02 03:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：週二晚間一枚從伊朗中部霍梅因發射的導彈因發射故障發生墜落。"
+    },
+    {
+      "id": "mkt:01a05e59-ec90-7118-8443-204faca96b8c",
+      "time": "2026-09-02 03:02:26",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.02% at 25,176, trading 154 points below the cash index."
+    },
+    {
+      "id": "mkt:01a05e59-4565-7118-8443-1baeecc65882",
+      "time": "2026-09-02 03:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Jazeera reported US officials say strikes against targets inside Iran are ongoing and that the US will formally declare an end only after operations conclude."
+    },
+    {
+      "id": "5071573",
+      "time": "2026-09-02 03:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗對美國目標發起報復性打擊】當地時間9月1日晚，伊朗媒體稱，伊朗武裝部隊已開始對美國目標發起報復性打擊行動，伊朗導彈和無人機正在襲擊該地區的美軍基地和美國利益目標。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a05e57-f917-7118-8443-14f4c52df69d",
       "time": "2026-09-02 03:00:18",
@@ -114140,43 +114236,6 @@
         "Energy"
       ],
       "text": "IRNA: Iran's energy minister said the country now has more than 1,000 generating units; installed capacity has risen from about 70 GW to over 103 GW and is expected to reach 130 GW in the near term."
-    },
-    {
-      "id": "5058471",
-      "time": "2026-08-26 03:03:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴譴責美國延長對古實施經濟封鎖】古巴外交部長羅德里格斯25日譴責美國政府再次延長從1962年開始對古巴實施的《對敵貿易法》期限。羅德里格斯透過社交媒體表示：“古巴以最強烈的措辭譴責美國政府將經濟、商業和金融封鎖再延長一年，這一針對我國人民的種族滅絕政策已持續超過六十年。”他還表示，“古巴不是威脅，封鎖才是”。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a03a4d-ef41-7aab-9119-6ad85c6183fe",
-      "time": "2026-08-26 03:03:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.38% at 25,648, trading at a 137-point premium to the cash market."
-    },
-    {
-      "id": "mkt:01a03a4d-acd4-7aab-9119-61c9b12e6cfd",
-      "time": "2026-08-26 03:02:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Federal Communications Commission (FCC) said joint fundraising committees and party committees will now be allowed to purchase TV ad time at the same discounted rates available to candidates."
-    },
-    {
-      "id": "5058470",
-      "time": "2026-08-26 03:01:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【富蘭克林鄧普頓：英偉達股東不只看漂亮業績 資本部署細節更受關注】富蘭克林鄧普頓的投資組合經理Sara Araghi表示，英偉達不能只是在財報數字上超出市場預期，還需要向投資者提供更具體的資訊，讓他們瞭解該公司準備如何部署資本，以及如何維持支出計劃。Araghi指出，英偉達未來12個月預期市盈率與該公司的營收和盈利存在明顯反差。根據資料，英偉達動態市盈率約為21倍。她認為，這個市盈率倍數反映出市場預期英偉達增長速度將放緩，儘管絕對增速仍然相當可觀。Araghi認為：“增長幅度依然非常驚人，但減速期即將到來，不幸的是市場已經在看明年的情況。”Araghi表示，英偉達能否繼續實現盈利增長非常重要，因為這將讓華爾街相信，該公司能夠產生足夠的自由現金流來支撐所需投資。她還補充稱，公司“也必須用這些現金回購股票”。在毛利率方面，Araghi表示，對於一家硬體公司而言，毛利率以“7”開頭，也就是英偉達目前約75%的水平，實屬非常罕見，因此市場會密切關注，尤其是在投入成本上升的背景下。她指出，英偉達已經透過提價來抵消記憶體成本上升的影響。據報道，基於Vera Rubin和Grace Blackwell架構的2027年初伺服器系統面向主要客戶的售價將上漲超過15%。"
     }
   ]
 }
