@@ -1,7 +1,153 @@
 {
   "date": "2026-09-01",
-  "count": 2146,
+  "count": 2161,
   "items": [
+    {
+      "id": "mkt:01a05d0a-4301-7118-8437-fe1c58a37361",
+      "time": "2026-09-01 20:55:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Redbook weekly chain-store sales YoY 9.6% (week to Aug 29)】U.S. Redbook weekly chain-store sales rose 9.6% YoY in the week to Aug 29, up from 9.1% the prior week."
+    },
+    {
+      "id": "mkt:01a05d0a-2a2f-7118-8437-f486f74fd7fa",
+      "time": "2026-09-01 20:55:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (Aug.29) | actual 9.6% | previous 9.1%"
+    },
+    {
+      "id": "te:economy:580065",
+      "time": "2026-09-01 20:55:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Chile IMACEC Declines More Than Expected — Chile’s IMACEC economic activity index fell 1.5% year-on-year in July 2026 after rising a downwardly revised 2% in June, missing forecasts for a 0.4% increase and marking the sharpest decline since March 2026. Goods production fell 3.2%, driven by a 9.3% decline in mining, particularly copper, due to lower ore grades, maintenance work and adverse weather. Manufacturing output fell 3.1%, also affected by weather, with lower production of fuels and chemical products. Services declined 0.7%, reflecting weaker personal, business, transportation, restaurant and hotel services. Trade activity rose 0.7%, driven by retail sales, partly offset by lower wholesale activity. The non-mining IMACEC fell 0.3%. On a seasonally adjusted monthly basis, economic activity decreased 1.7%."
+    },
+    {
+      "id": "5071112",
+      "time": "2026-09-01 20:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：朗倫奇資本完成從百勝集團收購必勝客的交易。"
+    },
+    {
+      "id": "mkt:01a05d09-d64d-7118-8437-e825d32554ee",
+      "time": "2026-09-01 20:55:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Traders say Russia plans to cut seaborne crude exports from its western ports by about 5% in September versus August."
+    },
+    {
+      "id": "mkt:01a05d09-a53d-7118-8437-e59424dd064f",
+      "time": "2026-09-01 20:55:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "Fed Governor Barr will speak in 10 minutes on the economic outlook and financial inclusion."
+    },
+    {
+      "id": "5071111",
+      "time": "2026-09-01 20:55:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及政府：埃及再氣化船將於第四季度恢復運營。"
+    },
+    {
+      "id": "5071110",
+      "time": "2026-09-01 20:54:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿斯麥稱High NA EUV首次進入高產量邏輯晶片生產】阿斯麥9月1日透露，其High NA EUV（高數值孔徑極紫外光刻）平臺首次用於高產量邏輯晶片產品，標誌著0.55 NA光刻技術從認證階段邁向生產應用。"
+    },
+    {
+      "id": "5071109",
+      "time": "2026-09-01 20:54:43",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌：道指期貨跌0.59%，標普500指數期貨跌0.66%，納指期貨跌1.30%。\n②德國DAX指數跌0.91%，英國富時100指數跌0.51%，法國CAC40指數跌0.16%，歐洲斯托克50指數跌0.49%。\n③WTI原油漲2.57%，報87.97美元/桶。布倫特原油漲2.21%，報92.49美元/桶。\n④英國海上貿易行動辦公室8月31日釋出通報說，一艘油輪在駛離霍爾木茲海峽時，在阿曼海塞卜以東17海里（約合31公里）處遭3枚不明投射物襲擊。\n⑤受油價上漲推升通脹擔憂，同時市場大幅上調美聯儲加息預期，全球債券收益率攀升至近二十年來高位。\n⑥高盛集團執行長大衛·所羅門（David Solomon）最新表示，隨著人工智慧（AI）在企業和更廣泛的經濟領域中得到更廣泛的應用，未來五到十年美國經濟可能會以更高的速度增長。\n⑦蔚來盤前跌0.94%，此前蔚來公佈財報。\n⑧受原油價格上漲約2%帶動，能源企業的在美上市個股盤前上漲。文圖拉全球（Venture Global）股價上漲1.2%，斯倫貝謝（SLB）股價上漲1.4%，康菲石油（ConocoPhillips）股價上漲1%。西方石油股價上漲1.2%，埃克森美孚股價上漲1.2%，雪佛龍股價上漲1%。\n⑨GoPro美股盤前一度漲超106%，現漲71%，報1.5美元。此前Youtube一名超4000萬粉絲的網紅成為該公司最大股東，並向媒體大肆吹噓GoPro產品。"
+    },
+    {
+      "id": "5071108",
+      "time": "2026-09-01 20:54:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：上調Robinhood目標價至150美元，評級升至“增持”】摩根士丹利將Robinhood Markets的目標價從124美元上調至150美元，評級從“持股觀望”上調至“增持”。大摩指出，看到越來越多的證據表明，更廣泛的產品能力正在改善Robinhood現有客戶群的經濟效益。大摩將2026年至2028年的盈利預測上調12%至15%。"
+    },
+    {
+      "id": "5071107",
+      "time": "2026-09-01 20:53:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "美敦力高管在電話會議上表示：公司未將未來關稅退款納入業績展望，我們仍在繼續提交退款申請。"
+    },
+    {
+      "id": "5071106",
+      "time": "2026-09-01 20:53:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "貿易商稱，俄羅斯西部港口海運原油出口9月較8月預計下降5%。"
+    },
+    {
+      "id": "mkt:01a05d06-e897-7118-8437-ddbb702458b6",
+      "time": "2026-09-01 20:52:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【GigaDevice: DRAM supply tightness unlikely to ease materially in 2027】On Sept. 1 at its interim results meeting, GigaDevice vice chairman and general manager He Wei said the company expects DRAM prices to continue rising in H2, moving into a mild uptrend. Looking to 2027, GigaDevice expects limited incremental DRAM capacity and that supply tightness will not ease materially; the industry cycle should be extended and prices are likely to remain elevated and volatile. The company also said SLC NAND Flash is in a prolonged upcycle, expected to continue at least through 2027."
+    },
+    {
+      "id": "5071105",
+      "time": "2026-09-01 20:51:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【夏農副會長主持召開鋼結構建築生態大會籌備工作對接會】8月27日，中國鋼鐵工業協會副會長夏農主持召開鋼結構建築生態大會籌備工作對接會。會議聽取了主辦單位上海工博館管理有限公司關於籌備進展的專題彙報，內容涵蓋會議時間、場地選擇、組織架構確定、整體議程規劃、交流區設定，以及白皮書與案例徵集等重點工作。上海工博館管理有限公司黨總支書記、執行董事周巍，黨總支副書記裴穎，副總經理盧雯；上海寶鋼建築工程科技有限公司總工程師黃茵；協會鋼鐵材料應用推廣中心有關同志參加會議。（中國鋼鐵工業協會）"
+    },
+    {
+      "id": "mkt:01a05d06-9792-7118-8437-d7fa28676216",
+      "time": "2026-09-01 20:51:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "【Nio's Li Bin: deploying power trading and other services to unlock battery-swap commercial value】On Sept. 1 at Nio’s Q2 2026 earnings call, founder and CEO Li Bin said fifth‑generation battery‑swap stations are compatible across Nio, Ledao and Yinghuochong brands and cover the full size range from compact cars to large SUVs. He said Nio is building a standardized, scalable energy‑operations platform and is actively rolling out value‑added businesses, including power trading, to broaden and monetize the battery‑swap model."
+    },
     {
       "id": "5071104",
       "time": "2026-09-01 20:51:21",
