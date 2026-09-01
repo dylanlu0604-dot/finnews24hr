@@ -1,7 +1,166 @@
 {
-  "updated": "2026-09-02 03:58:46",
-  "count": 12478,
+  "updated": "2026-09-02 04:02:52",
+  "count": 12489,
   "items": [
+    {
+      "id": "5071622",
+      "time": "2026-09-02 04:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：在Hugging Face事件後，為大語言模型Astra實施了更強的安全防護措施。"
+    },
+    {
+      "id": "5071621",
+      "time": "2026-09-02 04:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：計劃很快推出Astra模型，但其最頂尖的網路安全能力將受到更嚴格的訪問限制。"
+    },
+    {
+      "id": "5071620",
+      "time": "2026-09-02 04:01:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：已於8月28日重啟此前暫停的大規模前沿強化學習訓練任務。"
+    },
+    {
+      "id": "mkt:01a05e90-201f-7118-8443-ed508146a186",
+      "time": "2026-09-02 04:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DELL.N",
+        "MU.O"
+      ],
+      "text": "【U.S. close: major indices fall; Dell down 7%】U.S. equities closed lower on Tuesday: the Dow Jones Industrial Average preliminarily fell 0.79%, the S&P 500 fell 0.70% and the Nasdaq fell 1.0%. Oracle (ORCL.N) dropped about 5%; Micron Technology (MU.O) and SK Hynix (SKHY.O) slid more than 2%; Apple (AAPL.O) rose 2% and Dell Technologies (DELL.N) fell 7%. The Nasdaq Golden Dragon China Index fell 0.34%; Gaotu (GOTU.N) rallied 13% while NIO (NIO.N) declined 4%."
+    },
+    {
+      "id": "5071619",
+      "time": "2026-09-02 04:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：與GPT-5.6版本相比， Astra大幅提升了網路安全能力。"
+    },
+    {
+      "id": "5071618",
+      "time": "2026-09-02 04:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將繼續暫時暫停部分規模較小的實驗性訓練專案執行。"
+    },
+    {
+      "id": "5071617",
+      "time": "2026-09-02 04:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：已新增額外分層防護機制，以防Astra模型採取可能與對齊目標不符的行動。"
+    },
+    {
+      "id": "5071616",
+      "time": "2026-09-02 04:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：針對GPT-5.6，我們改進了系統級堆疊的穩健性，具體措施包括新增啟用分類器，並擴大對通用越獄攻擊的覆蓋範圍。"
+    },
+    {
+      "id": "mkt:01a05e8f-7e5f-7118-8443-e4684c7ca167",
+      "time": "2026-09-02 04:00:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRNA reported an Iranian military spokesman said there is no doubt the enemy will soon pay for its hostile actions and that the counterattack will be swift, devastating and large-scale."
+    },
+    {
+      "id": "5071615",
+      "time": "2026-09-02 04:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲6%，現報90.92美元/桶。"
+    },
+    {
+      "id": "5071614",
+      "time": "2026-09-02 04:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Astra模型即將推出，附帶網路能力限制。"
+    },
+    {
+      "id": "5071613",
+      "time": "2026-09-02 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.79%，標普500指數跌0.71%，納指跌1.03%。Axon Enterprise跌8.52%，鏗騰電子跌7.60%，盈透證券跌7.01%，戴爾跌6.94%，CrowdStrike跌6.90%。“七姐妹”方面：蘋果漲2.61%，Meta Platforms漲1.08%，谷歌跌1.01%，微軟跌1.24%，英偉達跌1.51%，亞馬遜跌1.87%，特斯拉跌3.22%。"
+    },
+    {
+      "id": "5071612",
+      "time": "2026-09-02 04:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯運輸平均指數下跌2.5%，至5月以來最低水平。"
+    },
+    {
+      "id": "5071611",
+      "time": "2026-09-02 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.34%】樂信跌17.61%，海川證券跌11.11%，信也科技跌9.67%，NXTT跌9.64%，巨龍線上跌6.00%。"
+    },
+    {
+      "id": "5071610",
+      "time": "2026-09-02 03:59:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價1日上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲4.46美元，收於每桶90.22美元，漲幅為5.2%；11月交貨的倫敦布倫特原油期貨價格上漲4.16美元，收於每桶94.65美元，漲幅為4.6%。"
+    },
+    {
+      "id": "5071609",
+      "time": "2026-09-02 03:59:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉首都附近國際機場恢復商業客運航班】委內瑞拉交通部長弗朗西斯科·加爾塞斯1日稱，邁克蒂亞西蒙·玻利瓦爾國際機場新建的臨時航站樓正式開始運營，以服務國內和國際航班。"
+    },
+    {
+      "id": "mkt:01a05e8d-ec1b-7118-8443-dccddaf6840a",
+      "time": "2026-09-02 03:59:14",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya reported that, after reciprocal attacks between the US and Iran, residents of the Jordanian cities Mafraq and Azraq received warning messages."
+    },
+    {
+      "id": "5071608",
+      "time": "2026-09-02 03:58:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：期待出席在曼谷舉辦的國際貨幣基金組織會議。"
+    },
     {
       "id": "mkt:01a05e8c-1605-7118-8443-d3f8461bee75",
       "time": "2026-09-02 03:57:13",
@@ -114300,70 +114459,6 @@
         "國際"
       ],
       "text": "市場訊息：日本原子能機構及其他機構已研發出可從水和石油中提取稀土元素的技術。"
-    },
-    {
-      "id": "5058497",
-      "time": "2026-08-26 04:01:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守86美元/桶，日內跌5.06%。"
-    },
-    {
-      "id": "5058496",
-      "time": "2026-08-26 04:01:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守81美元/桶，日內跌4.75%。"
-    },
-    {
-      "id": "5058495",
-      "time": "2026-08-26 04:01:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌5%，現報86.01美元/桶。"
-    },
-    {
-      "id": "mkt:01a03a83-1cfd-7aab-9119-e15d0de64747",
-      "time": "2026-08-26 04:01:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says Strait of Hormuz will not reopen immediately; temporary bilateral corridor to be finalised in 30–60 days】Iran’s deputy foreign minister said a memorandum with Oman on the Strait of Hormuz does not mean the waterway will reopen tomorrow. Under the accord, inbound and outbound routes to the Persian Gulf will run through Iranian and Omani waters respectively in a temporary two-way corridor about 7 nautical miles wide. He said the strait has become a national security issue, that vessels have mainly used Omani waters over the past 58 years and Iran has suffered serious damage, and that Tehran and Muscat will negotiate a permanent route within 30–60 days."
-    },
-    {
-      "id": "5058494",
-      "time": "2026-08-26 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.30%，標普500指數漲0.32%，納指漲0.66%。Moderna漲14.36%，超微電腦漲9.35%，羅賓漢漲8.17%，CDW Corporation漲7.74%，Lumentum Holdings Inc.漲6.67%，Reddit漲6.33%。“七姐妹”方面：英偉達漲2.19%，Meta Platforms漲1.97%，微軟漲0.90%，特斯拉漲0.37%，蘋果跌0.14%，谷歌跌0.36%，亞馬遜跌0.39%。"
-    },
-    {
-      "id": "5058493",
-      "time": "2026-08-26 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.10%】世紀互聯漲6.26%，海川證券漲5.73%，BOSS直聘漲5.28%，巨龍線上漲4.76%，網易漲4.70%。"
-    },
-    {
-      "id": "5058492",
-      "time": "2026-08-26 03:59:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴基斯坦軍方訊息源與伊朗安全部門訊息人士向俄新社透露，華盛頓與德黑蘭已達成停火協議。"
     }
   ]
 }
