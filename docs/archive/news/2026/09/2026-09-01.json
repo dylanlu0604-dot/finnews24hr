@@ -1,7 +1,272 @@
 {
   "date": "2026-09-01",
-  "count": 1467,
+  "count": 1495,
   "items": [
+    {
+      "id": "mkt:01a05bd5-286d-7118-842d-9b32c1a380af",
+      "time": "2026-09-01 15:18:11",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "UK 10-year government bond yield extended gains to its highest level since June 2008, rising 7 bps on the day to 5.223%."
+    },
+    {
+      "id": "mkt:01a05bd5-25d0-7118-842d-9173f30afc6e",
+      "time": "2026-09-01 15:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign entries and exits at Guangzhou Baiyun top 5.0 mln YTD, fastest pace on record】Border inspection station said as of 24:00 on Aug 31, year-to-date foreign arrivals and departures via Guangzhou Baiyun Airport exceeded 5.0 mln, up over 30% YoY and the fastest pace on record for the period."
+    },
+    {
+      "id": "5070299",
+      "time": "2026-09-01 15:17:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率攀升至2008年6月以來最高水平，上行7個基點，報5.223%。"
+    },
+    {
+      "id": "mkt:01a05bd4-9934-7118-842d-88c974767f21",
+      "time": "2026-09-01 15:17:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【China government bond futures midday close】China 2-year bond futures (TS) most-active contract +0.02%; 5-year (TF) +0.06%; 10-year (T) +0.07%; 30-year (TL) +0.22%."
+    },
+    {
+      "id": "5070298",
+      "time": "2026-09-01 15:17:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官： 利息支出上升存在造成財政僵化的風險。"
+    },
+    {
+      "id": "mkt:01a05bd4-8303-7118-842d-807f2a77654f",
+      "time": "2026-09-01 15:17:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's minister of agriculture said the country's food supplies are ample and any price rises will be moderate."
+    },
+    {
+      "id": "mkt:01a05bd4-60ee-7118-842d-7bd2358e342f",
+      "time": "2026-09-01 15:17:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS: The commander of Iran’s air defense forces said Iran is designing and producing new indigenous air-defense systems and that projects are being converted into combat-capable systems. He said there are, to his knowledge, no known foreign equivalents; some domestic systems were deployed during a 40-day war and helped shoot down more than 200 enemy aircraft. He added a tactical advantage is opponents’ limited knowledge of the systems’ parameters, performance and employment."
+    },
+    {
+      "id": "5070297",
+      "time": "2026-09-01 15:17:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長表示，烏克蘭國內糧食供應充足，價格漲幅將較為溫和。"
+    },
+    {
+      "id": "mkt:01a05bd3-fe35-7118-842d-7729510b46c8",
+      "time": "2026-09-01 15:16:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Shanghai Hejian Industrial Software unveils next‑generation EDA product matrix】Sept 1 — Shanghai Hejian Industrial Software Group Co., Ltd. released a next‑generation EDA product matrix featuring its first domestic Agentic EDA intelligent‑agent strategic system, China’s first 3D chip physical‑design tool for 3DICs, and a domestically developed advanced‑process‑node convergence tool. The company said the suite fills gaps in China’s commercial‑grade 3DIC physical design and EDA intelligent‑agent capabilities and replaces the traditional layered, patch‑based EDA tool model."
+    },
+    {
+      "id": "te:economy:579901",
+      "time": "2026-09-01 15:16:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Spain Tourist Arrivals Hit Record For July — Spain registered 11.539 million international tourists in July 2026, 4.6% more than in July 2025 and marking a new record for the month. The United Kingdom maintained its position as the top source market, with almost 2.2 million tourists visiting in July, up 5.6% over a year ago. France and Germany followed with nearly 1.6 million and 1.2 million tourists, respectively, with both markets recording 2.3% growth compared with July 2025. In the first seven months of 2026, the number of tourists who visited Spain increased by 4.6% and exceeded 58.1 million."
+    },
+    {
+      "id": "5070296",
+      "time": "2026-09-01 15:16:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "木原稔：將審查財政規模，控制年度日本國債發行量。"
+    },
+    {
+      "id": "5070295",
+      "time": "2026-09-01 15:16:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州白雲機場今年入出境外國人超500萬人次 創年度最快紀錄】記者9月1日從白雲邊檢站瞭解到，截至8月31日24時，今年以來，經廣州白雲機場口岸入境、出境的外國人累計突破500萬人次，同比增長超三成，創口岸同期歷史最快紀錄。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05bd3-9f99-7118-842d-689f52e29fb9",
+      "time": "2026-09-01 15:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China at 26th SCO heads-of-state meeting in Bishkek sets development and security priorities】China's president attended the 26th Shanghai Cooperation Organization (SCO) Council of Heads of State meeting in Bishkek and outlined four priorities: development-first, security-focused, people-centered, and dialogue-based governance, committing China to help implement the SCO's 10-year development strategy and pursue higher-quality growth. Member states signed the Bishkek Declaration, approved amendments to the SCO Charter protocol, ratified regulations for the Comprehensive Center for Countering Security Threats and the Narcotics Center, and adopted 28 outcome documents strengthening security, economic, cultural cooperation and organizational capacity."
+    },
+    {
+      "id": "5070294",
+      "time": "2026-09-01 15:16:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列和希臘籤“兩國間最大軍購協議”】以色列和希臘8月31日在特拉維夫簽署一項價值30億歐元（約合35億美元）的軍購協議。以方說，這是兩國迄今為止金額最高的軍購協議。根據協議，希臘將從以色列購買“阿喀琉斯之盾”防空系統。該防空系統可攔截彈道導彈、戰機和無人機，其核心裝備是以色列軍工企業研製的雷達和導彈。雙方當天還簽署一項價值2600萬歐元（約合3000萬美元）的補充協議，由以軍工企業“拉斐爾”公司向希臘提供反無人機系統。希臘國防部說，這項軍購是本國武裝力量大規模改革計劃的一部分，希臘將成為首個部署多層防空系統的歐盟成員國。（新華社）"
+    },
+    {
+      "id": "te:markets:579899",
+      "time": "2026-09-01 15:16:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.17% Lower — The Shangai Composite Index fell 7 points or 0.17 percent on Tuesday to close at 3980 points. Leading the losses are China Coal (-4.94%), Shaanxi Coal (-3.16%) and Poly Real Estate (-1.41%). Top gainers were Yonghui Superstore (6.17%), Shanghai International Port (5.70%) and China Pacific Insu (3.59%)."
+    },
+    {
+      "id": "te:markets:579897",
+      "time": "2026-09-01 15:16:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Portugal",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Portugal Hit 18-year High — PSI increased to 9539.00 Index Points, the highest since June 2008. Over the past 4 weeks, Portuguese Stock Index gained 4%, and in the last 12 months, it increased 22.11%."
+    },
+    {
+      "id": "te:economy:579898",
+      "time": "2026-09-01 15:16:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Austria Inflation Rises to 3.2% in August — Austria’s annual inflation rate rose to 3.2% in August 2026, up from 2.8% in the previous month, preliminary estimates showed. Prices increased for energy, which jumped 10.0% year-on-year from 5.7% in July. Moreover, prices for food, tobacco, and alcohol rebounded to 0.2% from a 0.1% decline, although gains were still capped by the reduction in VAT on basic foodstuffs from 10.0% to 4.9%, which took effect in July 2026. In contrast, price growth for manufactured goods moderated to 0.5% from 0.8%, while services continued to exert the strongest upward pressure on inflation despite easing slightly to 4.3% from 4.4% a month earlier. On a monthly basis, consumer prices increased by 0.6% in August, following a flat reading in the preceding period."
+    },
+    {
+      "id": "5070293",
+      "time": "2026-09-01 15:16:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合見工軟釋出下一代EDA產品矩陣】9月1日，EDA（電子設計自動化）廠商上海合見工業軟體集團股份有限公司（簡稱“合見工軟”）釋出下一代EDA產品矩陣，包括首個國產Agentic EDA智慧體戰略體系、國內首款三維晶片物理設計工具、國產先進工藝節點收斂工具，填補國產EDA在商用級3DIC（三維積體電路）物理設計及EDA智慧體等方面的空白，打破了傳統EDA工具層層堆砌、補丁擴充套件的固有模式。"
+    },
+    {
+      "id": "5070292",
+      "time": "2026-09-01 15:15:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬魯蒂鈴木股價跌幅擴大，最新下跌4.2%。"
+    },
+    {
+      "id": "5070291",
+      "time": "2026-09-01 15:15:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官： 拒絕對利率日間波動置評。"
+    },
+    {
+      "id": "5070290",
+      "time": "2026-09-01 15:15:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "通用汽車韓國公司：8月銷量為23042輛，同比增長9.4%。"
+    },
+    {
+      "id": "mkt:01a05bd2-657d-7118-842d-61c64ab860f1",
+      "time": "2026-09-01 15:15:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Spain August manufacturing PMI 49.5, below forecast 50.3 and down from July's 50.2."
+    },
+    {
+      "id": "5070289",
+      "time": "2026-09-01 15:15:06",
+      "tags": [
+        "資料"
+      ],
+      "text": "西班牙8月製造業PMI 49.5，預期50.3，前值50.2。"
+    },
+    {
+      "id": "5070288",
+      "time": "2026-09-01 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.22%， 10年期主力合約漲0.07%， 5年期主力合約漲0.06%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "mkt:01a05bd2-3e04-7118-842d-5974075ae811",
+      "time": "2026-09-01 15:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Manufacturing PMI (Aug) | actual 49.5 | consensus 50.3 | previous 50.2"
+    },
+    {
+      "id": "5070287",
+      "time": "2026-09-01 15:14:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債開盤下跌，30年期國債收益率上漲8個基點至1998年以來最高水平。"
+    },
+    {
+      "id": "mkt:01a05bd2-124d-7118-842d-51d934857d69",
+      "time": "2026-09-01 15:14:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ather Energy shares up nearly 130% YTD, outpacing global EV sector】Ather Energy Ltd., an Indian electric two-wheeler maker, has risen about 130% in 2026 YTD, outpacing global electric-vehicle stocks. Analysts say expanding market share leaves scope for further gains. A BlackRock global fund bought under 1% of the company via open-market trades on Monday. By contrast, a Bloomberg index tracking 104 companies with EV-related revenue is down roughly 1% YTD."
+    },
+    {
+      "id": "5070286",
+      "time": "2026-09-01 15:13:55",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【習近平出席上海合作組織成員國元首理事會第二十六次會議並發表重要講話】當地時間9月1日上午，國家主席習近平在比什凱克出席上海合作組織成員國元首理事會第二十六次會議。\n\n上海合作組織輪值主席國吉爾吉斯斯坦總統扎帕羅夫主持會議，上海合作組織成員國白俄羅斯總統盧卡申科、印度總理莫迪、伊朗總統佩澤希齊揚、哈薩克總統託卡耶夫、巴基斯坦總理夏巴茲、俄羅斯總統普京、塔吉克總統拉赫蒙、烏茲別克總統米爾濟約耶夫以及上海合作組織秘書長葉爾梅克巴耶夫等參加。\n\n習近平同上海合作組織成員國領導人集體合影，隨後出席元首理事會會議並發表題為《推動上海合作組織實現更高質量發展》的重要講話。\n\n習近平指出，今年是上海合作組織成立25週年。25年前，面對冷戰的深刻教訓、“三股勢力”的現實威脅和各國人民對和平與發展的熱切期盼，維護主權、安全、發展利益成為地區國家普遍共識。上海合作組織因此應運而生，並日益顯示出強大生機活力。25年來，上海合作組織走過不平凡歷程。最重大的發展成就是一步步成為世界上幅員最廣、人口最多、發展潛力巨大的新型區域合作組織；最寶貴的精神財富是開創性提出和始終遵循互信、互利、平等、協商、尊重多樣文明、謀求共同發展的“上海精神”；最重要的合作經驗是找到不結盟、不對抗、不針對第三方的正確共處之道，推動地區國家攜手建設共同家園。25年後的今天，世界百年變局加速演進，對話和對抗、共贏和零和、多邊和單邊激烈博弈，戰爭陰霾並未遠去。站在關乎人類前途命運的十字路口，上海合作組織應該勇擔歷史責任，主動引領歷史航向。（新華社）"
+    },
     {
       "id": "5070285",
       "time": "2026-09-01 15:13:20",

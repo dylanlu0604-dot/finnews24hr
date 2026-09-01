@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 15:14:54",
+  "updated": "2026-09-01 15:19:04",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -3870,9 +3870,9 @@
               "title": "西班牙8月製造業PMI",
               "importance": 1,
               "previous": "50.2",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "50.3",
+              "actual": "49.5",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144757",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -30492,9 +30492,9 @@
       "title": "西班牙8月製造業PMI",
       "importance": 1,
       "previous": "50.2",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "50.3",
+      "actual": "49.5",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144757",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
