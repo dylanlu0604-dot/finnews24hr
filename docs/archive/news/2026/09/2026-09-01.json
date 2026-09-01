@@ -1,7 +1,107 @@
 {
   "date": "2026-09-01",
-  "count": 916,
+  "count": 926,
   "items": [
+    {
+      "id": "5069871",
+      "time": "2026-09-01 10:39:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亮源新創開源通用導航大腦LightNav-0】9月1日，亮源新創（Light Origins）正式釋出並開源通用導航大腦LightNav-0，該大腦在公開視覺語言導航（VLN）評測基準上實現全面領先（SOTA，state-of-the-art）。基於Real2Sim2Real技術，亮源新創團隊使用2000+真實室內外場景，大規模合成了4000+小時後訓練資料，可以讓同一大腦在不使用目標機器人、目標環境或特定任務的導航訓練資料，且無需進行額外微調的情況下，零樣本泛化至不同機器人和全新真實環境中完成自然語言導航任務。"
+    },
+    {
+      "id": "5069870",
+      "time": "2026-09-01 10:39:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "5069869",
+      "time": "2026-09-01 10:39:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲8%，現報5611.00元。"
+    },
+    {
+      "id": "mkt:01a05ad5-719d-7118-8427-864dc7f7d1ff",
+      "time": "2026-09-01 10:38:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "China MEG (monoethylene glycol) futures main contract jumped 400 yuan intraday to 5,594 yuan/ton, up nearly 8%."
+    },
+    {
+      "id": "te:markets:579769",
+      "time": "2026-09-01 10:38:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Fall on Rising Oil Prices — Asian equity markets declined on Tuesday as oil prices climbed higher amid renewed hostilities in the Middle East, stoking inflation concerns and strengthening expectations for near-term interest rate hikes. US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan, marking a return to combat between the US and Iran after roughly a month. Global bond yields rose to fresh highs on growing inflation concerns, with Japan’s benchmark 10-year yield reaching a fresh 30-year high, adding to downward pressure on equities. Stocks in Australia, Japan, South Korea, China and Hong Kong all fell, with technology and artificial intelligence-related companies leading the losses."
+    },
+    {
+      "id": "mkt:01a05ad4-eea9-7118-8427-784a062c19ca",
+      "time": "2026-09-01 10:38:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "A senior official at Japan's Ministry of Finance said Japan's fiscal policy and the recent coordinated foreign-exchange intervention were among the main topics at a meeting between Finance Minister Katayama and US Treasury Secretary Bessent."
+    },
+    {
+      "id": "mkt:01a05ad3-bc66-7118-8427-77781110c208",
+      "time": "2026-09-01 10:37:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "A senior official at Japan's finance ministry said Finance Minister Katayama and U.S. Treasury Secretary Bessent discussed FX intervention in a bilateral meeting."
+    },
+    {
+      "id": "5069868",
+      "time": "2026-09-01 10:36:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省高階官員：片山和貝森特在雙邊會談中討論了外匯干預等議題。"
+    },
+    {
+      "id": "5069867",
+      "time": "2026-09-01 10:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《網際網路資訊內容多渠道分發服務管理規定》正式施行 】《網際網路資訊內容多渠道分發服務管理規定》今天（1日）起正式施行，這是我國首部專門規範網際網路資訊內容多渠道分發服務的管理規定。其中，明確不得為未滿十六週歲的未成年人提供網路直播發布相關服務；為年滿十六週歲的未成年人提供網路直播發布相關服務的，應當核驗其身份資訊，並徵得其父母或者其他監護人的同意。"
+    },
+    {
+      "id": "5069866",
+      "time": "2026-09-01 10:36:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報16168.00元。"
+    },
     {
       "id": "mkt:01a05ad2-605b-7118-8427-6c6681b56240",
       "time": "2026-09-01 10:35:31",

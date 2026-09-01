@@ -1,7 +1,107 @@
 {
-  "updated": "2026-09-01 10:36:31",
-  "count": 13156,
+  "updated": "2026-09-01 10:40:29",
+  "count": 13154,
   "items": [
+    {
+      "id": "5069871",
+      "time": "2026-09-01 10:39:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亮源新創開源通用導航大腦LightNav-0】9月1日，亮源新創（Light Origins）正式釋出並開源通用導航大腦LightNav-0，該大腦在公開視覺語言導航（VLN）評測基準上實現全面領先（SOTA，state-of-the-art）。基於Real2Sim2Real技術，亮源新創團隊使用2000+真實室內外場景，大規模合成了4000+小時後訓練資料，可以讓同一大腦在不使用目標機器人、目標環境或特定任務的導航訓練資料，且無需進行額外微調的情況下，零樣本泛化至不同機器人和全新真實環境中完成自然語言導航任務。"
+    },
+    {
+      "id": "5069870",
+      "time": "2026-09-01 10:39:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "5069869",
+      "time": "2026-09-01 10:39:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲8%，現報5611.00元。"
+    },
+    {
+      "id": "mkt:01a05ad5-719d-7118-8427-864dc7f7d1ff",
+      "time": "2026-09-01 10:38:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "China MEG (monoethylene glycol) futures main contract jumped 400 yuan intraday to 5,594 yuan/ton, up nearly 8%."
+    },
+    {
+      "id": "te:markets:579769",
+      "time": "2026-09-01 10:38:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Fall on Rising Oil Prices — Asian equity markets declined on Tuesday as oil prices climbed higher amid renewed hostilities in the Middle East, stoking inflation concerns and strengthening expectations for near-term interest rate hikes. US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan, marking a return to combat between the US and Iran after roughly a month. Global bond yields rose to fresh highs on growing inflation concerns, with Japan’s benchmark 10-year yield reaching a fresh 30-year high, adding to downward pressure on equities. Stocks in Australia, Japan, South Korea, China and Hong Kong all fell, with technology and artificial intelligence-related companies leading the losses."
+    },
+    {
+      "id": "mkt:01a05ad4-eea9-7118-8427-784a062c19ca",
+      "time": "2026-09-01 10:38:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "A senior official at Japan's Ministry of Finance said Japan's fiscal policy and the recent coordinated foreign-exchange intervention were among the main topics at a meeting between Finance Minister Katayama and US Treasury Secretary Bessent."
+    },
+    {
+      "id": "mkt:01a05ad3-bc66-7118-8427-77781110c208",
+      "time": "2026-09-01 10:37:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "A senior official at Japan's finance ministry said Finance Minister Katayama and U.S. Treasury Secretary Bessent discussed FX intervention in a bilateral meeting."
+    },
+    {
+      "id": "5069868",
+      "time": "2026-09-01 10:36:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省高階官員：片山和貝森特在雙邊會談中討論了外匯干預等議題。"
+    },
+    {
+      "id": "5069867",
+      "time": "2026-09-01 10:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《網際網路資訊內容多渠道分發服務管理規定》正式施行 】《網際網路資訊內容多渠道分發服務管理規定》今天（1日）起正式施行，這是我國首部專門規範網際網路資訊內容多渠道分發服務的管理規定。其中，明確不得為未滿十六週歲的未成年人提供網路直播發布相關服務；為年滿十六週歲的未成年人提供網路直播發布相關服務的，應當核驗其身份資訊，並徵得其父母或者其他監護人的同意。"
+    },
+    {
+      "id": "5069866",
+      "time": "2026-09-01 10:36:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報16168.00元。"
+    },
     {
       "id": "mkt:01a05ad2-605b-7118-8427-6c6681b56240",
       "time": "2026-09-01 10:35:31",
@@ -120024,119 +120124,6 @@
         "資料"
       ],
       "text": "【藍思科技：下半年開始摺疊機專案上將顯著受益於大客戶新機型釋出】藍思科技(300433)8月23日在電話會議上表示，展望後續，公司在主營業務、AI端側和AI算力側幾個板塊都即將迎來業績共振。今年下半年開始，主營業務方面在大客戶今年的摺疊機專案上，公司供應UTG玻璃、CPI膜、UTG玻璃支撐板、3D玻璃蓋板等，上述產品加工難度大，價值量大幅提升，公司成為摺疊機型相比直板機型結構件增量的最大受益者。公司強大的全球交付能力和量產能力確保公司市場份額，公司將顯著受益新機型的釋出。展望明年，大客戶摺疊屏全面放量，公司長期深度研發的鈦框和3D列印、3D玻璃在高階機型全面採用，為公司未來幾年提供顯著業績貢獻。"
-    },
-    {
-      "id": "mkt:01a036ca-528d-7aab-9104-5d8744b1e20a",
-      "time": "2026-08-25 10:40:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "09868.HK",
-        "Impact bearish",
-        "01958.HK",
-        "Impact bullish",
-        "00175.HK"
-      ],
-      "text": "Hong Kong auto stocks diverged: Xpeng Group (09868.HK) fell over 8%, Nio-SW (09866.HK) fell over 5%, Leapmotor (09863.HK) fell 3.79%; Beijing Automotive (01958.HK) rose over 5%, Geely Automobile (00175.HK) rose over 2%."
-    },
-    {
-      "id": "5056589",
-      "time": "2026-08-25 10:40:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：中際旭創淨賣出超4億】截至目前，今日主力資金淨流出24.00億；淨流入小盤、IDC概念（資料中心）、機械裝置等板塊，其中小盤板塊淨流入50.80億；淨流出中盤股、有色金屬概念、轉融券標的等板塊，其中中盤股板塊淨流出44.55億。\n  \n個股方面，N高凱淨買入15.09億元位居首位，英維克、寒武紀、亨通光電主力資金淨流入居前；中際旭創淨賣出4.65億元位居首位，洛陽鉬業、北方華創、紫金礦業淨流出額居前。"
-    },
-    {
-      "id": "mkt:01a036c9-3c77-7aab-9104-555655a365ac",
-      "time": "2026-08-25 10:39:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai silver main contract down 2.0% intraday at 16,545 yuan/kg."
-    },
-    {
-      "id": "mkt:01a036c8-b746-7aab-9104-482f17bbf149",
-      "time": "2026-08-25 10:38:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's National Public Data Resource Registration Platform has registered over 300,000 items."
-    },
-    {
-      "id": "mkt:01a036c8-b6c2-7aab-9104-43de631456ea",
-      "time": "2026-08-25 10:38:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: \"Iselle\" remains just below hurricane strength; \"Lala\" is slowly weakening."
-    },
-    {
-      "id": "mkt:01a036c8-835c-7aab-9104-3c194043fe70",
-      "time": "2026-08-25 10:38:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's National Data Bureau unveils 50 public-data demonstration scenarios】China's National Data Bureau said today it has released 50 new public-data demonstration scenarios to unlock the value of public data through application. Deputy Director Chen Ronghui said 32% of the scenarios focus on transport, social management, healthcare and emergency management. Eastern and central pilots emphasize private-sector development, the low-altitude economy and the marine economy to trial public-data circulation; western pilots concentrate on specialty agriculture, border trade and mineral exploration to pursue differentiated data-development paths."
-    },
-    {
-      "id": "5056588",
-      "time": "2026-08-25 10:38:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KakaoBank工會計劃從8月31日起舉行五天罷工。"
-    },
-    {
-      "id": "5056587",
-      "time": "2026-08-25 10:37:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家公共資料資源登記平臺已登記量超30萬項】從國家資料局瞭解到，截至目前，國家公共資料資源登記平臺上已登記的資料資源、產品和服務超過30萬項，覆蓋全部國民經濟97個大類。供數方可以在平臺上釋出公共資料資源，用數方則可以在平臺上查詢資源、釋出需求，從而完成供需對接。"
-    },
-    {
-      "id": "5056586",
-      "time": "2026-08-25 10:37:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家資料局釋出新一批50個公共資料“跑起來”示範場景】從國家資料局瞭解到，新一批50個公共資料“跑起來”示範場景釋出，促進公共資料在場景應用中釋放價值。公共資料，一般是指各級黨政機關、企事業單位在依法履職或提供公共服務過程中產生的資料。本次是國家資料局釋出第五批公共資料“跑起來”示範場景，包括交通執行資料促進物流最佳化、衛星遙感資料輔助減災防災、醫療衛生資料加速新藥研發等。"
-    },
-    {
-      "id": "5056585",
-      "time": "2026-08-25 10:37:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "中際旭創A股成交額超100億元，現跌2.29%。"
-    },
-    {
-      "id": "5056584",
-      "time": "2026-08-25 10:36:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新洋豐與全國農技中心簽署新一期五年合作協議】據新洋豐訊息，8月22—23日，第二十七屆全國肥料資訊交流暨產品交易會在內蒙古呼和浩特舉辦。在大會集中籤約活動中，全國農業技術推廣服務中心與新洋豐舉行新一期五年合作協議簽約儀式。此次簽約標誌著雙方戰略合作進入第三個五年週期（2026—2030年）。新一期合作將重點聚焦“增肥效·提單產”示範工程，深化新型肥料試驗示範、科學施肥、技術培訓與綠色種植推廣等工作。"
-    },
-    {
-      "id": "mkt:01a036c6-f3d4-7aab-9104-3686c950e0da",
-      "time": "2026-08-25 10:36:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "【China Index Research Institute: Jan–Jul launches of fitted apartment projects in monitored cities down 30.1% YoY】China Index Research Institute data show Jan–Jul 2026 launches of fitted-apartment projects in monitored cities totaled 346, down 30.1% YoY; fitted units were 198,000, down 33.8% YoY. July launches numbered 46 (−14.8% YoY, −29.2% MoM); fitted units 26,900 (−8.5% YoY). The average fitted rate for residential projects Jan–Jul was 25.5%, down 1.94 percentage points YoY. By city tier: first-tier 90.6% (+0.25 pp), second-tier 33.4% (−3.05 pp), third‑/fourth‑tier 12.4% (−1.69 pp). South China recorded the highest regional fitted rate at 49.5%."
     }
   ]
 }
