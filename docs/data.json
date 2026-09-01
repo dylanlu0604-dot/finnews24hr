@@ -1,7 +1,151 @@
 {
-  "updated": "2026-09-02 04:15:00",
-  "count": 12512,
+  "updated": "2026-09-02 04:19:00",
+  "count": 12524,
   "items": [
+    {
+      "id": "mkt:01a05e9e-e5ca-7118-8444-9ae5ae75d322",
+      "time": "2026-09-02 04:17:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Putin said Russia is preparing large-scale strikes on Ukraine's energy targets."
+    },
+    {
+      "id": "5071649",
+      "time": "2026-09-02 04:17:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗向美軍基地發動“最廣泛的”導彈襲擊。"
+    },
+    {
+      "id": "5071648",
+      "time": "2026-09-02 04:17:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯普京就烏克蘭衝突表示：俄羅斯正準備對烏克蘭能源目標發動大規模打擊。"
+    },
+    {
+      "id": "mkt:01a05e9e-69c8-7118-8444-932ff793abb4",
+      "time": "2026-09-02 04:17:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "On the Ukraine conflict, Putin said Russia continues strikes on Ukrainian ports and energy infrastructure."
+    },
+    {
+      "id": "5071647",
+      "time": "2026-09-02 04:16:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯普京談烏克蘭衝突：俄羅斯將繼續打擊烏克蘭港口與能源設施。"
+    },
+    {
+      "id": "mkt:01a05e9e-0d07-7118-8444-8f6f0713f793",
+      "time": "2026-09-02 04:16:51",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) rose about 9% in after-hours trading."
+    },
+    {
+      "id": "5071646",
+      "time": "2026-09-02 04:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及烏克蘭衝突：俄羅斯已在烏克蘭東部牽制住大批敵方部隊。"
+    },
+    {
+      "id": "5071645",
+      "time": "2026-09-02 04:16:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守64美元/盎司，日內跌3.80%。"
+    },
+    {
+      "id": "mkt:01a05e9d-9351-7118-8444-83801e20e8b0",
+      "time": "2026-09-02 04:16:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said Russian forces are fighting in central Orikhiv, Ukraine."
+    },
+    {
+      "id": "5071644",
+      "time": "2026-09-02 04:16:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "一枚伊朗導彈擊中約旦亞喀巴地區。"
+    },
+    {
+      "id": "te:markets:580177",
+      "time": "2026-09-02 04:15:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "EU Gas Hits 3-1/2-year High — EU Gas increased to 74.40 EUR/MWh, the highest since January 2023. Over the past 4 weeks, Natural Gas EU gained 29.09%, and in the last 12 months, it increased 133.65%."
+    },
+    {
+      "id": "5071643",
+      "time": "2026-09-02 04:15:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "戴爾盤後股價漲幅擴大至9.6%。"
+    },
+    {
+      "id": "5071642",
+      "time": "2026-09-02 04:15:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京就烏克蘭衝突表示：俄軍正在奧裡希夫市中心作戰。"
+    },
+    {
+      "id": "mkt:01a05e9c-6ccb-7118-8444-7e7dd4a3fd56",
+      "time": "2026-09-02 04:15:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Putin said Russia has encircled a large enemy force in eastern Ukraine."
+    },
+    {
+      "id": "5071641",
+      "time": "2026-09-02 04:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：倘若有人妄圖吞併我們，那他們或將自食惡果。"
+    },
     {
       "id": "5071640",
       "time": "2026-09-02 04:14:12",
@@ -114621,31 +114765,6 @@
         "Brent"
       ],
       "text": "U.S. API weekly crude inventories for the week to Aug. 21 are due in 10 minutes."
-    },
-    {
-      "id": "mkt:01a03a93-09cd-7aab-911a-23cae8c832f6",
-      "time": "2026-08-26 04:18:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian deputy foreign minister Garibabadi told Iranian media Fars News that if the US has already cleared sea mines from the Strait of Hormuz, US vessels should be able to transit it, adding that, apart from Iran, no one knows the mines' exact locations."
-    },
-    {
-      "id": "5058505",
-      "time": "2026-08-26 04:17:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長加里巴巴迪：霍爾木茲海峽重新開放的條件是全面結束各戰線戰事、解除封鎖以及化解葉門局勢。我們已告知巴基斯坦陸軍參謀長，海峽能否重開取決於美國履行諒解備忘錄項下的各項承諾。"
-    },
-    {
-      "id": "5058504",
-      "time": "2026-08-26 04:15:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國上訴法院叫停聯邦通訊委員會擴大廣播電視政治廣告優惠費率的計劃。"
     }
   ]
 }
