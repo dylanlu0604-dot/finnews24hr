@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-01 14:38:06",
-  "count": 13081,
+  "updated": "2026-09-01 14:42:06",
+  "count": 13077,
   "items": [
+    {
+      "id": "5070188",
+      "time": "2026-09-01 14:40:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【申萬宏源：推動商品消費擴容升級 促進消費政策全面加碼】申萬宏源釋出研報稱，本輪政策覆蓋面廣、結構性特徵顯著，重在啟用內生需求、推動消費升級，消費板塊具備修復基礎，重點關注四條主線：第一，大宗耐用品升級鏈：汽車全產業鏈、二手車、汽車後市場、智慧家居、家電換新。第二，民生剛需賽道：銀髮經濟、嬰童消費品，政策持續擴大供給、拓寬渠道，成長確定性較強。第三，高景氣升級賽道：AI硬體、綠色產品、健康消費，對應十萬億級目標，產業與消費政策共振。第四，國潮與線下渠道鏈：老字號國貨、縣域零售、下沉市場渠道，受益渠道下沉與城鄉商業改造紅利。"
+    },
+    {
+      "id": "5070187",
+      "time": "2026-09-01 14:39:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【倫敦證券交易所將推出英國代幣化股票架構】一份宣告稱，倫敦證券交易所正評估一套英國代幣化股票架構，旨在擴大資本市場參與渠道，同時保障股東權益。該舉措是倫交所推進市場基礎設施現代化、助力資本市場數字化整體工作的一部分。倫交所同時與Payward達成合作，探索受監管市場基礎設施與原生數字分發模式如何賦能代幣化公開股票市場的下一階段發展。"
+    },
+    {
+      "id": "te:markets:579859",
+      "time": "2026-09-01 14:38:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Down Slightly at Finish — The ASX 200 edged lower to close at 9,067 on Tuesday, marking a second straight decline as weakness in retail trade, tech, and commercial services weighed. Sentiment stayed cautious ahead of Australia's Q2 GDP data due Wednesday, with growth expected to remain sluggish after the weakest pace in a year last quarter. Meanwhile, fresh figures showed a record current account deficit of AUD 27.2 billion in Q2, though the shortfall came in below forecasts. Still, losses were partly offset by a private survey indicating factory activity in main trading partner China accelerated in July, with output, new orders, and foreign sales all rising. Meanwhile, U.S. stock futures inched higher after Wall Street’s Monday retreat, still managing monthly gains. The four big banks eased slightly, while REA Group (-4.3%), Westfarmers (-3.2%), and Woolworths (-2.7%) also dragged. Energy names outperformed, with Woodside Energy up 1.1% and Santos jumping 1.8%."
+    },
+    {
+      "id": "mkt:01a05bb0-a02e-7118-842c-63c327fb0e57",
+      "time": "2026-09-01 14:38:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "301316.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Baode Computing wins two China Mobile centralized procurement contracts totalling RMB1.7 bln】Baode Computing said it won two China Mobile centralized procurement contracts totalling over RMB1.7 bln. It secured the largest share (two bid packages) of China Mobile’s 2026–2028 component-refresh server procurement, worth more than RMB1.4 bln, and won bid package 1 of the China Mobile Intelligent Computing Center (Hohhot) 2026 expansion and 2026–2027 AI super-node supplementary procurement, worth nearly RMB300 mln. Listed company Huibo Yuntong (301316) is advancing a major-asset restructuring to acquire control of Baode; planned cooperation will focus on hardware‑software integration to build a domestic compute+algorithm+scenario-application full-stack ecosystem."
+    },
+    {
+      "id": "5070186",
+      "time": "2026-09-01 14:37:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "開雲集團任命夏洛特·富爾內為寶曼蘭朵執行長，克里齊亞·庫庫拉基為Dodo執行長。"
+    },
+    {
+      "id": "5070185",
+      "time": "2026-09-01 14:37:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "開雲集團任命薩賓娜·貝利為開雲義大利區總裁。"
+    },
+    {
+      "id": "5070184",
+      "time": "2026-09-01 14:37:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【乳業奶粉概念持續走強，一鳴食品漲停】乳業奶粉概念持續走強，一鳴食品漲停，騎士乳業、品渥食品、貝因美、莊園牧場、三元股份、熊貓乳品等跟漲。"
+    },
     {
       "id": "mkt:01a05baf-ae05-7118-842c-5b835257837c",
       "time": "2026-09-01 14:37:14",
@@ -119275,108 +119341,6 @@
         "Importance 1"
       ],
       "text": "Euro Remains Close to Three-Month Highs — The euro held just above $1.165 in the final full week of August, sustaining its highest level since mid-May, as investors braced for a more hawkish European Central Bank amid geopolitical tensions complicating its inflation battle. The ECB is widely expected to raise interest rates in September, following its June tightening to curb inflation pressures triggered by the US-Iran conflict and its impact on energy prices. Oil remains above $90 per barrel, with risks of further supply constraints for refined fuels, low Eurozone gas inventories, and a prolonged conflict that could extend beyond the US midterm elections in November. A September rate hike would bring the deposit rate to 2.5%, but expectations for further tightening are growing. Markets now price a roughly 25% chance of the deposit rate reaching 3% by March 2027 and about a 60% chance by September."
-    },
-    {
-      "id": "5056881",
-      "time": "2026-08-25 14:41:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華鑫證券：維持酒鬼酒“買入”評級，業績持續出清，固本根基向前進】華鑫證券研報指出，酒鬼酒業績持續出清，固本根基向前進。公司2026H1歸母淨利潤0.12億元（同比+38%），其中2026Q2歸母淨利潤-0.21億元（同比+8%）。繼續強動銷去庫存，盈利能力繼續震盪。當前公司縱深推進SKU精簡，堅決出清低質低效產品，聚力主力產品打造，推動資源向優勢產品集中。價格管理上，依託產品迭代配套順價政策，從嚴管控老品量價、大力整治線上售價，以新品最佳化價值鏈，穩步修復市場價格體系，產品價格秩序持續向好。當前公司將堅持以產品提效為核心、區域聚焦為抓手、渠道建設為支撐、品牌引領為驅動，統籌推進各項經營工作。根據2026年半年報，預計公司2026-2028年EPS分別為0.12/0.17/0.21元，當前股價對應PE分別為310/231/184倍，維持“買入”投資評級。"
-    },
-    {
-      "id": "te:markets:577830",
-      "time": "2026-08-25 14:41:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Closes at More than 1-Week High — Australia's ASX 200 rose 62 points, or 0.7%, to finish at 9,165 on Tuesday, extending gains for a second session to an over one-week high. Stronger U.S. stock futures lifted risk appetite following a mixed Wall Street close Monday, as Treasury Secretary Scott Bessent vowed to “sever every economic lifeline” to Iran. Traders looked ahead to Fed Chair Warsh’s Jackson Hole speech, a key U.S. inflation print, and Nvidia’s earnings. Locally, focus turned to July inflation after June’s reading eased but stayed above target, with RBA minutes stressing demand remains excessive. Most sectors advanced, led by tech, manufacturing, consumers, and healthcare. Miners drove the benchmark higher on firm commodity prices, with BHP up 0.8% and Rio Tinto 1.0%. Gold stocks gained, including Northern Star Resources (0.6%) and Evolution Mining (1.0%). The four big banks added between 0.1% and 0.8%. In contrast, PLS Group slumped 6.0%, while Woodside Energy (-1.4%) and Santos (-1.3%) also lagged."
-    },
-    {
-      "id": "5056880",
-      "time": "2026-08-25 14:40:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國證航天航空指數午後大漲 航空航天ETF華夏（159227）成交額破億】8月25日，A股三大指數盤中走勢分化，截至13:38，國證航天航空行業指數(CN5082)上漲0.83%，成分股長盈通上漲11.19%，航宇科技上漲7.95%，海蘭信上漲3.67%，長城軍工上漲3.24%，廣聯航空上漲2.74%。航空航天ETF華夏（159227）成交額達1.09億元。資金流入方面，航空航天ETF華夏近5個交易日內，合計“吸金”1.36億元。"
-    },
-    {
-      "id": "mkt:01a037a6-03fc-7aab-9109-20e63262b2a9",
-      "time": "2026-08-25 14:40:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reports a fire at the Amur gas-chemical complex in Russia’s Amur Oblast; no casualties reported."
-    },
-    {
-      "id": "5056879",
-      "time": "2026-08-25 14:40:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【俄羅斯加大化肥供應，印度化肥股上漲】普京表示俄羅斯將增加對印度的化肥供應後，印度化肥板塊股票走高。個股行情：印度國家化肥化工公司最高漲 8%；帕拉德普磷肥公司上漲 7.5%；特拉凡哥爾化肥化工公司上漲 16%。"
-    },
-    {
-      "id": "5056878",
-      "time": "2026-08-25 14:40:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯阿穆爾天然氣化工聯合企業發生火災。"
-    },
-    {
-      "id": "5056877",
-      "time": "2026-08-25 14:39:18",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗策略師：全球股市多頭資金流入正在消退】由戴維・丘牽頭的策略團隊稱，美國投資者交易行為轉向多頭平倉與新開空頭頭寸。標普 500 以及納斯達克期貨的風險敞口正逐步迴歸中性水平。團隊在研報中寫道：“羅素 2000 指數仍是明顯例外；其多頭敞口仍接近三年高位，若空頭勢頭延續，獲利了結風險將處於高位。”歐洲市場儘管市場情緒小幅轉弱，但平均持倉水平在發達市場中居於最高。“德國 DAX 指數面臨主要戰術風險：盈利的多頭頭寸與深度虧損的空頭頭寸並存，形成非對稱資金流動格局。”"
-    },
-    {
-      "id": "mkt:01a037a4-bd01-7aab-9109-1f501ce9f68b",
-      "time": "2026-08-25 14:38:58",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-shares compute-power leasing sector rebounded amid volatility. Jialitu, Dongyi Risheng and Gan Consulting hit daily limit-up; Chuangye Heima rose over 10%. Nanling Technology, Damingcheng, Qunxing Toys and Meili Cloud also advanced."
-    },
-    {
-      "id": "5056876",
-      "time": "2026-08-25 14:38:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "據ITS測算，馬來西亞8月1日至25日的棕櫚油出口量為104.5204萬噸。"
-    },
-    {
-      "id": "5056875",
-      "time": "2026-08-25 14:38:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力租賃概念震盪反彈 佳力圖等多股漲停】午後算力租賃概念震盪反彈，佳力圖、東易日盛、甘諮詢漲停，創業黑馬漲超10%，南凌科技、大名城、群興玩具、美利雲等跟漲。訊息面上，根據OpenRouter官網釋出資料，上週（8月17日至8月23日）全球AI大模型總呼叫量為93.4萬億Token，環比增長24%，周呼叫量首次突破90萬億關口，連續第三週創歷史新高。"
-    },
-    {
-      "id": "5056874",
-      "time": "2026-08-25 14:38:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【泰國擬賦予證交會權力，可與警方聯合調查案件】泰國政府擬修訂法規，強化證券交易委員會的調查許可權，使這家市場監管機構能夠就資本市場及數字資產相關案件與警方協同辦案。財政部長埃克尼提・尼蒂坦普拉帕斯於週二向記者表示，內閣已批准修訂四部涉及金融、資本市場以及數字資產的法律。埃克尼提稱，修訂草案將允許證交會工作人員與警方聯合開展案件調查，以此強化執法許可權。修訂提案同時將擴大對電子交易的監管範圍。"
     }
   ]
 }
