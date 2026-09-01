@@ -1,7 +1,80 @@
 {
-  "updated": "2026-09-02 00:04:28",
-  "count": 12372,
+  "updated": "2026-09-02 00:08:34",
+  "count": 12371,
   "items": [
+    {
+      "id": "te:markets:580139",
+      "time": "2026-09-02 00:07:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.30% Lower — The FTSE 100 Index dropped 32 points or 0.30 percent on Tuesday to close at 10792 points. Losses were led by Endeavour (-5.80%), Fresnillo (-5.33%) and Antofagasta (-5.22%). Offsetting the fall, top gainers were BP (5.66%), Reckitt Benckiser (4.68%) and Rentokil Initial (3.17%)."
+    },
+    {
+      "id": "mkt:01a05db8-7bbe-7118-843e-d20b7e43f9a1",
+      "time": "2026-09-02 00:06:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O): Google Pics will roll out to all Google AI Pro and Ultra subscribers over the coming weeks."
+    },
+    {
+      "id": "5071429",
+      "time": "2026-09-02 00:05:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Google Pics 將在未來數週內向所有 Google AI Pro 以及 Ultra 訂閱使用者逐步推出。"
+    },
+    {
+      "id": "mkt:01a05db8-00a9-7118-843e-cfd295433544",
+      "time": "2026-09-02 00:05:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) rolls out Google Pics to AI Pro and Ultra subscribers and most Workspace Business customers."
+    },
+    {
+      "id": "5071428",
+      "time": "2026-09-02 00:05:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：面向 AI 專業版、Ultra 訂閱使用者以及大多數 Workspace 商業客戶推出 Google Pics。"
+    },
+    {
+      "id": "mkt:01a05db5-ef50-7118-843e-c42f5a20e49e",
+      "time": "2026-09-02 00:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Portugal's light battery-electric vehicle (BEV) new registrations rose 65.2% YoY in August, the Portuguese Automobile Association (ACAP) said."
+    },
+    {
+      "id": "te:economy:580138",
+      "time": "2026-09-02 00:02:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Colombia Manufacturing PMI Rises to 54.3 — Colombia’s Davivienda Manufacturing PMI rose to 54.3 in August 2026 from 52.7 in July, signaling the strongest improvement in factory activity since October 2025. New orders grew at their fastest pace in more than two-and-a-half years, while production growth accelerated to its strongest since February. Finished goods inventories declined for a sixth consecutive month as firms used stocks to meet demand. Manufacturers increased input purchases and inventories, with purchasing activity reaching its strongest level since data collection began in April 2011. Delivery delays eased despite some earthquake-related disruptions. Input cost inflation fell to its lowest level this year, while output price inflation picked up slightly. Employment rose for a fifth consecutive month, while backlogs declined for a seventh month. Business confidence surged to its highest level since July 2019, supported by optimism over the new government administration and expectations of stronger demand."
+    },
     {
       "id": "5071427",
       "time": "2026-09-02 00:02:46",
@@ -113272,83 +113345,6 @@
         "Energy"
       ],
       "text": "Brazilian government will extend its gasoline subsidy until Sept. 9 local time."
-    },
-    {
-      "id": "mkt:01a039ad-3912-7aab-9116-ec534d9fc3ac",
-      "time": "2026-08-26 00:07:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "IMF will review Ukraine loan program Aug 26-Sep 2 (local time)."
-    },
-    {
-      "id": "te:markets:578017",
-      "time": "2026-08-26 00:07:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.29% Higher — The FTSE 100 Index gained 31 points or 0.29 percent on Tuesday to close at 10885 points. Gains were led by Melrose (10.48%), AstraZeneca (2.96%) and International Airlines Group (2.45%). Biggest losers were Diageo (-2.37%), Standard Chartered (-2.32%) and British American Tobacco (-1.51%)."
-    },
-    {
-      "id": "mkt:01a039ac-9ebc-7aab-9116-e5b0b4c98325",
-      "time": "2026-08-26 00:06:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "MSCI will continue to review Turkish securities with investability issues on a case-by-case basis."
-    },
-    {
-      "id": "mkt:01a039ac-6de5-7aab-9116-dc491e9a04e5",
-      "time": "2026-08-26 00:06:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "MSCI said after investor feedback and investability analysis it will not add three securities to the MSCI Turkey Small Cap Index as proposed."
-    },
-    {
-      "id": "5058375",
-      "time": "2026-08-26 00:06:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織（IMF）將於8月26日‑9月2日審議烏克蘭貸款專案。"
-    },
-    {
-      "id": "5058374",
-      "time": "2026-08-26 00:05:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）表示，將繼續對存在可投資性問題的土耳其證券進行逐案審查。"
-    },
-    {
-      "id": "5058373",
-      "time": "2026-08-26 00:04:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）表示，在聽取投資者反饋、開展可投資性分析後，決定暫不將三隻證券按提議納入明晟土耳其小盤股指數。"
-    },
-    {
-      "id": "5058372",
-      "time": "2026-08-26 00:04:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic推出500萬美元人工智慧使用者福利資助專案。"
     }
   ]
 }

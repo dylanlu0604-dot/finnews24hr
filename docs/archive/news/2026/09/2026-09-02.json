@@ -1,7 +1,80 @@
 {
   "date": "2026-09-02",
-  "count": 11,
+  "count": 18,
   "items": [
+    {
+      "id": "te:markets:580139",
+      "time": "2026-09-02 00:07:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.30% Lower — The FTSE 100 Index dropped 32 points or 0.30 percent on Tuesday to close at 10792 points. Losses were led by Endeavour (-5.80%), Fresnillo (-5.33%) and Antofagasta (-5.22%). Offsetting the fall, top gainers were BP (5.66%), Reckitt Benckiser (4.68%) and Rentokil Initial (3.17%)."
+    },
+    {
+      "id": "mkt:01a05db8-7bbe-7118-843e-d20b7e43f9a1",
+      "time": "2026-09-02 00:06:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O): Google Pics will roll out to all Google AI Pro and Ultra subscribers over the coming weeks."
+    },
+    {
+      "id": "5071429",
+      "time": "2026-09-02 00:05:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Google Pics 將在未來數週內向所有 Google AI Pro 以及 Ultra 訂閱使用者逐步推出。"
+    },
+    {
+      "id": "mkt:01a05db8-00a9-7118-843e-cfd295433544",
+      "time": "2026-09-02 00:05:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) rolls out Google Pics to AI Pro and Ultra subscribers and most Workspace Business customers."
+    },
+    {
+      "id": "5071428",
+      "time": "2026-09-02 00:05:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：面向 AI 專業版、Ultra 訂閱使用者以及大多數 Workspace 商業客戶推出 Google Pics。"
+    },
+    {
+      "id": "mkt:01a05db5-ef50-7118-843e-c42f5a20e49e",
+      "time": "2026-09-02 00:03:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Portugal's light battery-electric vehicle (BEV) new registrations rose 65.2% YoY in August, the Portuguese Automobile Association (ACAP) said."
+    },
+    {
+      "id": "te:economy:580138",
+      "time": "2026-09-02 00:02:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Colombia Manufacturing PMI Rises to 54.3 — Colombia’s Davivienda Manufacturing PMI rose to 54.3 in August 2026 from 52.7 in July, signaling the strongest improvement in factory activity since October 2025. New orders grew at their fastest pace in more than two-and-a-half years, while production growth accelerated to its strongest since February. Finished goods inventories declined for a sixth consecutive month as firms used stocks to meet demand. Manufacturers increased input purchases and inventories, with purchasing activity reaching its strongest level since data collection began in April 2011. Delivery delays eased despite some earthquake-related disruptions. Input cost inflation fell to its lowest level this year, while output price inflation picked up slightly. Employment rose for a fifth consecutive month, while backlogs declined for a seventh month. Business confidence surged to its highest level since July 2019, supported by optimism over the new government administration and expectations of stronger demand."
+    },
     {
       "id": "5071427",
       "time": "2026-09-02 00:02:46",
