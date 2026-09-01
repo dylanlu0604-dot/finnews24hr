@@ -1,7 +1,186 @@
 {
-  "updated": "2026-09-01 21:09:49",
-  "count": 12320,
+  "updated": "2026-09-01 21:17:55",
+  "count": 12309,
   "items": [
+    {
+      "id": "5071170",
+      "time": "2026-09-01 21:16:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行西姆庫斯：“很明顯”我們應該在9月份加息。"
+    },
+    {
+      "id": "5071169",
+      "time": "2026-09-01 21:15:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【納斯達克100指數期貨下跌1.4%】納斯達克100指數期貨跌幅擴大至1.4%，道指期貨跌0.63%，標普500指數期貨跌0.72%。"
+    },
+    {
+      "id": "te:economy:580070",
+      "time": "2026-09-01 21:15:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bank of Israel Cuts Key Rate to 3.25% — The Bank of Israel lowered its policy rate by 25 bps to 3.25% at its September 2026 meeting, missing markets expectations of a hold, delivering a third straight rate cut and bringing the policy rate to its lowest level since 2022. Policymakers noted that inflation has moderated, and the rate under review is below the mid-point of the target range of 1%-3%. Meanwhile, economic activity grew at a rapid pace in the first half of the year, while, excluding production abroad, activity appears more moderate. However, policymakers also noted that uncertainty remained high against the backdrop of geopolitical tensions, although the risk premium remained near similar levels. Labor market conditions remain tight, although with a slightly increase in broad unemployment. Looking ahead, inflation is expected to remain near the mid-point of the target range."
+    },
+    {
+      "id": "5071168",
+      "time": "2026-09-01 21:15:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "PUBLIC STORAGE 完成對 PUBLIC STORAGE CANADA 的收購。"
+    },
+    {
+      "id": "mkt:01a05d1c-0b9b-7118-8438-ad1b5b789448",
+      "time": "2026-09-01 21:15:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Federal Aviation Administration (FAA) proposes flight restrictions around Palm Beach airport, citing its proximity to President Trump's winter residence."
+    },
+    {
+      "id": "5071167",
+      "time": "2026-09-01 21:15:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局提議對棕櫚灘機場周邊實施飛行限制，因其靠近特朗普冬季住所。"
+    },
+    {
+      "id": "5071166",
+      "time": "2026-09-01 21:14:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報64.94美元/盎司。"
+    },
+    {
+      "id": "5071165",
+      "time": "2026-09-01 21:14:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守65美元/盎司，日內跌3.06%。"
+    },
+    {
+      "id": "5071164",
+      "time": "2026-09-01 21:14:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受賄數額特別巨大 山東濱州市人大常委會原黨組成員、副主任欒興剛案一審宣判】2026年9月1日，菏澤市中級人民法院一審公開宣判濱州市人大常委會原黨組成員、副主任欒興剛受賄一案，對被告人欒興剛以受賄罪判處有期徒刑十二年六個月，並處罰金人民幣三百五十萬元；對查扣在案的欒興剛犯罪所得依法沒收，上繳國庫，不足部分繼續追繳。（央視新聞）"
+    },
+    {
+      "id": "5071163",
+      "time": "2026-09-01 21:13:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預估2030年全球半導體產值突破2兆美元】SEMI產業研究資深總監曾瑞瑜宣佈上修半導體成長預估。他表示，過去市場原本預期全球半導體產值到2030年才達到1兆美元，但AI徹底改寫產業成長曲線，今年市場規模將突破1.5兆美元，預估2030年絕對可以突破2兆美元，而且強勁需求正由晶片一路向前段裝置、測試、先進封裝與材料市場擴散。"
+    },
+    {
+      "id": "mkt:01a05d1a-29db-7118-8438-a6fca00bfc86",
+      "time": "2026-09-01 21:13:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BARR: Fed should hike decisively if inf fails to cool】Federal Reserve Governor BARR said on Tuesday in Washington the Fed should be prepared to raise rates if inf does not cool. He warned inf has run above target for more than five years, creating a risk of entrenched price pressures. If upcoming data show inf easing toward the 2% goal, policymakers can be patient; if not, he said they should act decisively to raise rates."
+    },
+    {
+      "id": "te:economy:580068",
+      "time": "2026-09-01 21:13:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Manufacturing PMI Weakens — The S&P Global Brazil Manufacturing PMI fell to 46.3 in August 2026 from 47.5 in July, signaling a second consecutive monthly deterioration in sector conditions and the steepest contraction in 40 months. Output declined for the fourth consecutive month and at the fastest pace in more than three years. New business fell for the seventeenth straight month, with the contraction accelerating from July. New export orders declined for the fourth consecutive month and at the fastest pace in more than three-and-a-half years. Weaker demand weighed on staffing and capacity, with employment falling for a second month and at the fastest pace since October 2025. Backlogs also declined further. Inventory and purchasing data pointed to cautious operating conditions, while price pressures eased for a fourth consecutive month. Despite the weak activity data, manufacturers remained optimistic about the year-ahead outlook."
+    },
+    {
+      "id": "5071162",
+      "time": "2026-09-01 21:11:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌2.68%。"
+    },
+    {
+      "id": "mkt:01a05d17-ecaa-7118-8438-9ad9fd0f9a1a",
+      "time": "2026-09-01 21:10:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor BARR said consumer spending has shown solid resilience so far."
+    },
+    {
+      "id": "5071161",
+      "time": "2026-09-01 21:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江瑞安通報“城區高速入口區域、瑞楓大道等路段出現積水”】瑞安市防汛防颱抗旱指揮部通報，9月1日14時許，受強降雨影響，安陽街道君子石社群瑞祥山上方山體因雨水沖刷漫過邊坡壩頂，城區高速入口區域、瑞楓大道等路段出現積水。截至18時，高速入口區域內澇已基本處置，無人員傷亡。已對相關路段實施臨時交通管制，並增派警力疏導交通。市防指於18時起將防汛應急響應提升為Ⅱ級，預計後續仍有暴雨，請廣大市民減少外出，注意安全。"
+    },
+    {
+      "id": "5071160",
+      "time": "2026-09-01 21:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河首批引航員證書籤發】8月31日，欽州海事局簽發首批平陸運河引航員證書，共4名海港引航員獲得平陸運河引航員適任資格。首批平陸運河引航員證書的簽發，結束了廣西無內河引航員的歷史，為外國籍船舶和大型海船透過平陸運河進入南寧內河港口提供了專業引航人才支撐。（新華社）"
+    },
+    {
+      "id": "5071159",
+      "time": "2026-09-01 21:09:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "9月1日，印度國內基金淨買入185億印度盧比的印度股票。"
+    },
+    {
+      "id": "5071158",
+      "time": "2026-09-01 21:09:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4380美元/盎司，日內跌2.31%。"
+    },
+    {
+      "id": "5071157",
+      "time": "2026-09-01 21:09:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來李斌：蔚來品牌二季度成交均價40.6萬元，7月提升至超43萬元】9月1日，蔚來創始人、董事長、CEO李斌在2026年二季度財報電話會上表示，從終端上資料來看，蔚來品牌二季度在中國市場平均成交價達到40.6萬元，在主流高階品牌中排名第一；7月份平均成交價進一步提升至43萬元以上。"
+    },
+    {
+      "id": "5071156",
+      "time": "2026-09-01 21:09:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞總理：羅馬尼亞已吸收歐盟復甦計劃逾90%資金。"
+    },
     {
       "id": "mkt:01a05d16-5b2d-7118-8438-908880c4c4c0",
       "time": "2026-09-01 21:09:01",
@@ -9,6 +188,15 @@
         "MKT News"
       ],
       "text": "【NIO CFO Qu Yu expects per-vehicle costs to rise 2,000-3,000 yuan in H2】NIO CFO Qu Yu said at the company’s interim results meeting that cost pressures are significant: since March memory chips, bulk materials and battery costs have risen, and unit cost in Q2 was about 14,000 yuan higher than at the end of last year. He expects materials could add a further 2,000-3,000 yuan per vehicle in H2. NIO’s target is to keep unit gross margin in Q3 and Q4 at Q2 levels."
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861713478",
+      "time": "2026-09-01 21:08:45",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲巴爾稱若通脹未降溫或需加息】9月1日，美聯儲理事邁克爾·巴爾表示，如果通脹未能充分降溫，美聯儲應果斷加息；若資料顯示通脹正朝2%目標回落，決策者則可以耐心觀察。"
     },
     {
       "id": "5071153",
@@ -112745,309 +112933,6 @@
         "公司"
       ],
       "text": "豐業銀行執行長：銀行希望把握加拿大國防投資帶來的機遇。"
-    },
-    {
-      "id": "mkt:01a03911-dad2-7aab-9113-90692d486560",
-      "time": "2026-08-25 21:17:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CCPIT vice‑chair Liu Jiannan meets Budweiser APAC CEO Cheng Yanjun on foreign investment, supply‑chain cooperation】On Aug. 25 in Beijing, China Council for the Promotion of International Trade (CCPIT) vice‑chair and China Chamber of International Commerce vice‑chair Liu Jiannan met with Budweiser APAC CEO and board co‑chair Cheng Yanjun. They exchanged views on facilitating foreign‑invested firms' expansion in China and deepening industrial‑chain and supply‑chain cooperation."
-    },
-    {
-      "id": "5058199",
-      "time": "2026-08-25 21:17:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國貿促會副會長劉健男會見百威亞太執行長兼董事會聯席主席程衍俊一行】中國國際商會訊息，8月25日，中國貿促會副會長、中國國際商會副會長劉健男在京會見百威亞太執行長兼董事會聯席主席程衍俊一行。雙方圍繞促進外資企業更好在華髮展、深化產業鏈供應鏈合作等議題進行交流。"
-    },
-    {
-      "id": "5058198",
-      "time": "2026-08-25 21:16:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯洛伐克警方：挫敗一起針對無人機制造工廠的縱火圖謀。"
-    },
-    {
-      "id": "5058197",
-      "time": "2026-08-25 21:16:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "ALGORHYTHM：Semicab人工智慧物流業務存在潛在出售可能。"
-    },
-    {
-      "id": "5058196",
-      "time": "2026-08-25 21:15:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "美債收益率隨油價延續下行。"
-    },
-    {
-      "id": "mkt:01a0390f-cba8-7aab-9113-8ad8b38d801d",
-      "time": "2026-08-25 21:15:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Ministry of Transport to push transport infrastructure upgrades and digital-intelligent transformation】Aug 25, 2026, Wuhan — The Chinese Ministry of Transport ordered accelerated implementation of key tasks to strengthen the national transport system, prioritizing construction of major integrated, multi-tier transport network projects and delivery of logistics-network targets. It directed upgrades of transport infrastructure and digital-intelligent transformation, fast-tracking a set of landmark projects to make renewals a new investment growth point, and enhancing metropolitan-area comprehensive transport systems via one-circle-one-policy top-level design while speeding modernization of key corridors and major hubs."
-    },
-    {
-      "id": "5058195",
-      "time": "2026-08-25 21:14:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST百利：與重整投資人簽訂1.30億元現金贈與協議】ST百利公告稱，公司與7名重整投資人簽訂《現金贈與協議》，獲合計贈與現金1.30億元，贈與為無條件、不可撤銷，公司無需支付任何對價，相關利得擬計入資本公積，最終會計處理以審計結果為準。本次贈與用於保障重整程式推進、改善公司現金流。截至目前公司尚未進入重整程式，後續是否進入存在不確定性，若重整失敗公司存在被宣告破產、股票終止上市的風險。"
-    },
-    {
-      "id": "5058194",
-      "time": "2026-08-25 21:14:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "迪克體育用品公司股價在盤前交易中跌幅擴大至20%。"
-    },
-    {
-      "id": "5058193",
-      "time": "2026-08-25 21:14:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報2857.00元。"
-    },
-    {
-      "id": "mkt:01a0390e-712f-7aab-9113-81a361a2b7da",
-      "time": "2026-08-25 21:14:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Dollar index (DXY) slipped about 10 points intraday to 98.9."
-    },
-    {
-      "id": "mkt:01a0390e-613f-7aab-9113-7d5f1bab3d76",
-      "time": "2026-08-25 21:13:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reports Pakistan will convey Iran's conditions and positions to the United States."
-    },
-    {
-      "id": "5058192",
-      "time": "2026-08-25 21:13:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【江蘇常州通報“星宇股份被曝批次勸退應屆生”】8月25日，江蘇常州市人力資源和社會保障局釋出情況通報：近期，媒體報道常州星宇車燈股份有限公司（以下簡稱“星宇股份”）解聘應屆大學畢業生，引發社會關注，我局成立專項工作組開展全面調查。星宇股份共招錄2026屆高校畢業生440名，與其中107人解除勞動合同，協商過程中方法簡單生硬，缺乏充分有效溝通，造成不良影響，對此企業深表歉意，已對人力資源總監作出停職處理。經查，該企業不存在違規享受就業和人才類政府補貼行為。"
-    },
-    {
-      "id": "te:markets:577975",
-      "time": "2026-08-25 21:13:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Futures Retreat — US sugar futures eased to around 17.2 cents per pound, down slightly from recent one-year highs, amid market correction and the pullback in oil prices. The prospect of lower Indian sugar imports than initially expected also weighed on prices. Greenleaf, an Indian sugar industry research firm, estimates that the country may import no more than 500,000 tonnes by October 31, half of the 1 million tonnes authorized duty-free by the Directorate General of Foreign Trade. However, the global sugar balance remains tight, with climate risks in major producing regions and a potential shift toward ethanol production adding to supply concerns, particularly in Brazil. Conab expects Brazilian sugarcane production to rise 4.7% to 705.2 million tonnes in 2026/27, but sugar output to fall 2.9% to 42.89 million tonnes, while ethanol production is forecast to increase 9.7% to 29.98 billion liters. A potentially strong El Niño could add further pressure on global output in the coming months."
-    },
-    {
-      "id": "5058191",
-      "time": "2026-08-25 21:13:28",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根資產管理的Ward：美聯儲9月不應加息】摩根資產管理的Karen Ward表示，美國勞動力市場釋放出的訊號表明，美聯儲9月“不應該加息”，她還稱，美國財政部干預債券市場的做法讓她感到“不安”。貨幣市場目前預計，美聯儲在9月中旬會議上加息25個基點的機率為42%7月美國同比通脹率為2.5%，但已是2021年以來最低增速；與此同時，就業資料顯示，美國僱主上月意外削減就業崗位摩根資產管理歐洲、中東和非洲首席市場策略師Ward週二接受採訪時表示：“整體通脹率仍然偏高，但這種狀況是否會持續，完全取決於勞動力市場。而美國勞動力市場絲毫沒有顯示出就業足夠穩定、以至於勞動者會要求更高工資的跡象”Ward表示，市場希望美聯儲主席凱文·沃什週五在年度傑克遜霍爾研討會上講話時，能夠就美聯儲如何看待經濟形勢，以及哪些因素對利率決策至關重要，提供“更多一些明確指引”"
-    },
-    {
-      "id": "te:economy:577974",
-      "time": "2026-08-25 21:13:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "House Price Index MoM",
-        "Importance 1"
-      ],
-      "text": "US House Prices Unchanged in June: FHFA — US single-family home prices backed by Fannie Mae and Freddie Mac were unchanged in June 2026 from the previous month, falling short of market expectations for a 0.2% increase. Despite the monthly stagnation, prices edged up 0.3% in the second quarter compared with the first quarter and were 2.1% higher than a year earlier. The housing market continued to show broad-based appreciation, with prices increasing in 46 states and the District of Columbia over the past year. Alaska recorded the strongest annual gain at 8.3%, followed by Vermont at 7.3% and Hawaii at 5.8%. Illinois and West Virginia both posted increases of 5.6%. However, not all markets moved higher, with house prices declining in four states. New Mexico recorded the weakest performance, with prices falling 1.2% year-on-year."
-    },
-    {
-      "id": "mkt:01a0390d-9bc0-7aab-9113-75f5ff0090d7",
-      "time": "2026-08-25 21:13:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS: sources close to negotiators say Iran's conditions include restoring a memorandum of understanding on the Strait of Hormuz."
-    },
-    {
-      "id": "5058190",
-      "time": "2026-08-25 21:13:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：推進交通基礎設施更新和數智化改造 推動更新改造成為投資新增長點】2026年加快建設交通強國大會8月25日在湖北省武漢市召開。交通運輸部黨組書記、部長劉偉出席會議並講話，湖北省委副書記、省長李殿勳出席會議並致辭。湖北省副省長黎東輝出席會議，交通運輸部副部長徐成光主持會議。會議強調，要全力推動交通強國建設重點任務落地落實。持續推進綜合立體交通網重大工程專案建設，加快推進物流網重大任務落地。推進交通基礎設施更新和數智化改造，抓緊實施一批標誌性工程，推動更新改造成為投資新增長點。完善現代化都市圈綜合交通運輸體系，“一圈一策”加強頂層設計，在關鍵通道、重點交通樞紐現代化方面加快突破。提升綜合交通樞紐城市功能，摸清底數、加強統籌、強化引導，分級分類提升樞紐城市集聚輻射能級。打通多式聯運堵點卡點，推動完善多式聯運設施體系、資訊聯通體系、標準體系、企業服務體系，加快培育綜合物流整合商。培育服務消費新增長點，打造精品自駕旅遊公路，推動小微型客車租賃高質量發展，積極發展郵輪、遊艇、夜遊船，辦好交通為民實事。大力發展智慧交通，深入實施“人工智慧+交通運輸”行動，打造數智交通走廊，守牢新業態安全發展底線。推動新能源重卡規模化應用，完善補能設施佈局，加快零碳公路運輸通道專案建設。深化綜合交通運輸體系改革，加快建設統一開放的交通運輸市場，深入推進法治建設。更好統籌發展和安全，健全多元化、韌性強的國際運輸通道體系，提升安全生產和防災減災水平，持續抓好新就業群體權益保障工作。"
-    },
-    {
-      "id": "5058189",
-      "time": "2026-08-25 21:12:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【陳文清會見越南最高人民法院院長阮文廣】中共中央政治局委員、中央政法委書記陳文清25日在京會見越共中央書記處書記、越南最高人民法院院長阮文廣。陳文清指出，希望雙方按照兩黨兩國最高領導人確定的戰略方向，加強司法領域交流合作，完善跨境民商事糾紛多元化解渠道，深化法治人才交流培訓，以高水平司法協作服務雙邊經貿健康發展。（新華社）"
-    },
-    {
-      "id": "mkt:01a0390c-9d42-7aab-9113-6fac0d954e37",
-      "time": "2026-08-25 21:12:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "China crude-complex front-month futures extended losses: SC crude main contract down 4.04% at 567.9 yuan/barrel; low-sulfur fuel oil (LU) down 6.00% at 4,793 yuan/ton; fuel oil down 6.02% at 3,698 yuan/ton; bitumen down 1.93% at 4,519 yuan/ton."
-    },
-    {
-      "id": "mkt:01a0390c-6fdc-7aab-9113-61ac287831a2",
-      "time": "2026-08-25 21:11:51",
-      "tags": [
-        "MKT News",
-        "BNS.TO",
-        "Impact bullish"
-      ],
-      "text": "Scotiabank CEO says the North American market offers substantial organic growth potential."
-    },
-    {
-      "id": "5058188",
-      "time": "2026-08-25 21:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗的條件包括恢復諒解備忘錄，包括關於霍爾木茲的條款。"
-    },
-    {
-      "id": "5058187",
-      "time": "2026-08-25 21:11:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報5608.00元。"
-    },
-    {
-      "id": "5058186",
-      "time": "2026-08-25 21:11:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報568.00元。"
-    },
-    {
-      "id": "5058185",
-      "time": "2026-08-25 21:11:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌6%，現報3698.00元。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608253853286012",
-      "time": "2026-08-25 21:11:18",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "摩根資產管理表示，美聯儲9月不應加息。"
-    },
-    {
-      "id": "5058184",
-      "time": "2026-08-25 21:11:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內跌3%，現報8120.00元。"
-    },
-    {
-      "id": "te:economy:577973",
-      "time": "2026-08-25 21:11:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Belgium",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Belgium Business Pessimism Worsens — Belgium’s business confidence indicator declined by 1.3 points to -13.2 in August 2026, from -11.9 in July, contrasting with market expectations for an improvement to -10.2. Sentiment deteriorated in the manufacturing industry, falling to -17.8 from -15.5, led by weaker confidence in textiles (-13.3 vs -13), wood processing (-33.6 vs -18.3), paper (-15.9 vs 10.4) and ferrous and non-ferrous basic metals (-34.9 vs -25.3). Confidence in structural building also declined, to -7.7 from -5. Meanwhile, sentiment improved in construction installation (-1.9 vs -3), building completion (-10.4 vs -13.4) and roofing activities (9.9 vs 4.8). Business-related services also improved (-1.4 vs -3.8), as did sentiment in the trade sector (-5.2 vs -10.8), driven by stronger confidence in motor vehicle sales (12.6 vs -10.8)."
-    },
-    {
-      "id": "5058183",
-      "time": "2026-08-25 21:11:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "豐業銀行執行長：美國業務增長的首要重點是資本市場。"
-    },
-    {
-      "id": "5058182",
-      "time": "2026-08-25 21:10:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌5%，現報5222.00元。"
-    },
-    {
-      "id": "5058181",
-      "time": "2026-08-25 21:10:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗方面訊息：巴基斯坦將向美國傳達伊朗的條件和立場。"
-    },
-    {
-      "id": "5058180",
-      "time": "2026-08-25 21:10:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "SANDBOXAQ：AQCAT現已在AWS市場全面上市，並可透過Amazon SageMaker進行部署。"
-    },
-    {
-      "id": "mkt:01a0390a-bf77-7aab-9113-5d073c802b54",
-      "time": "2026-08-25 21:10:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Tasnim News Agency reports Pakistan Army chief Munir is seeking to create space for dialogue between Iran and the United States."
     }
   ]
 }

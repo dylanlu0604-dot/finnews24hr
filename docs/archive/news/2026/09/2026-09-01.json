@@ -1,7 +1,186 @@
 {
   "date": "2026-09-01",
-  "count": 2224,
+  "count": 2245,
   "items": [
+    {
+      "id": "5071170",
+      "time": "2026-09-01 21:16:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行西姆庫斯：“很明顯”我們應該在9月份加息。"
+    },
+    {
+      "id": "5071169",
+      "time": "2026-09-01 21:15:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【納斯達克100指數期貨下跌1.4%】納斯達克100指數期貨跌幅擴大至1.4%，道指期貨跌0.63%，標普500指數期貨跌0.72%。"
+    },
+    {
+      "id": "te:economy:580070",
+      "time": "2026-09-01 21:15:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Bank of Israel Cuts Key Rate to 3.25% — The Bank of Israel lowered its policy rate by 25 bps to 3.25% at its September 2026 meeting, missing markets expectations of a hold, delivering a third straight rate cut and bringing the policy rate to its lowest level since 2022. Policymakers noted that inflation has moderated, and the rate under review is below the mid-point of the target range of 1%-3%. Meanwhile, economic activity grew at a rapid pace in the first half of the year, while, excluding production abroad, activity appears more moderate. However, policymakers also noted that uncertainty remained high against the backdrop of geopolitical tensions, although the risk premium remained near similar levels. Labor market conditions remain tight, although with a slightly increase in broad unemployment. Looking ahead, inflation is expected to remain near the mid-point of the target range."
+    },
+    {
+      "id": "5071168",
+      "time": "2026-09-01 21:15:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "PUBLIC STORAGE 完成對 PUBLIC STORAGE CANADA 的收購。"
+    },
+    {
+      "id": "mkt:01a05d1c-0b9b-7118-8438-ad1b5b789448",
+      "time": "2026-09-01 21:15:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Federal Aviation Administration (FAA) proposes flight restrictions around Palm Beach airport, citing its proximity to President Trump's winter residence."
+    },
+    {
+      "id": "5071167",
+      "time": "2026-09-01 21:15:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局提議對棕櫚灘機場周邊實施飛行限制，因其靠近特朗普冬季住所。"
+    },
+    {
+      "id": "5071166",
+      "time": "2026-09-01 21:14:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報64.94美元/盎司。"
+    },
+    {
+      "id": "5071165",
+      "time": "2026-09-01 21:14:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守65美元/盎司，日內跌3.06%。"
+    },
+    {
+      "id": "5071164",
+      "time": "2026-09-01 21:14:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受賄數額特別巨大 山東濱州市人大常委會原黨組成員、副主任欒興剛案一審宣判】2026年9月1日，菏澤市中級人民法院一審公開宣判濱州市人大常委會原黨組成員、副主任欒興剛受賄一案，對被告人欒興剛以受賄罪判處有期徒刑十二年六個月，並處罰金人民幣三百五十萬元；對查扣在案的欒興剛犯罪所得依法沒收，上繳國庫，不足部分繼續追繳。（央視新聞）"
+    },
+    {
+      "id": "5071163",
+      "time": "2026-09-01 21:13:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預估2030年全球半導體產值突破2兆美元】SEMI產業研究資深總監曾瑞瑜宣佈上修半導體成長預估。他表示，過去市場原本預期全球半導體產值到2030年才達到1兆美元，但AI徹底改寫產業成長曲線，今年市場規模將突破1.5兆美元，預估2030年絕對可以突破2兆美元，而且強勁需求正由晶片一路向前段裝置、測試、先進封裝與材料市場擴散。"
+    },
+    {
+      "id": "mkt:01a05d1a-29db-7118-8438-a6fca00bfc86",
+      "time": "2026-09-01 21:13:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BARR: Fed should hike decisively if inf fails to cool】Federal Reserve Governor BARR said on Tuesday in Washington the Fed should be prepared to raise rates if inf does not cool. He warned inf has run above target for more than five years, creating a risk of entrenched price pressures. If upcoming data show inf easing toward the 2% goal, policymakers can be patient; if not, he said they should act decisively to raise rates."
+    },
+    {
+      "id": "te:economy:580068",
+      "time": "2026-09-01 21:13:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Manufacturing PMI Weakens — The S&P Global Brazil Manufacturing PMI fell to 46.3 in August 2026 from 47.5 in July, signaling a second consecutive monthly deterioration in sector conditions and the steepest contraction in 40 months. Output declined for the fourth consecutive month and at the fastest pace in more than three years. New business fell for the seventeenth straight month, with the contraction accelerating from July. New export orders declined for the fourth consecutive month and at the fastest pace in more than three-and-a-half years. Weaker demand weighed on staffing and capacity, with employment falling for a second month and at the fastest pace since October 2025. Backlogs also declined further. Inventory and purchasing data pointed to cautious operating conditions, while price pressures eased for a fourth consecutive month. Despite the weak activity data, manufacturers remained optimistic about the year-ahead outlook."
+    },
+    {
+      "id": "5071162",
+      "time": "2026-09-01 21:11:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌2.68%。"
+    },
+    {
+      "id": "mkt:01a05d17-ecaa-7118-8438-9ad9fd0f9a1a",
+      "time": "2026-09-01 21:10:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor BARR said consumer spending has shown solid resilience so far."
+    },
+    {
+      "id": "5071161",
+      "time": "2026-09-01 21:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江瑞安通報“城區高速入口區域、瑞楓大道等路段出現積水”】瑞安市防汛防颱抗旱指揮部通報，9月1日14時許，受強降雨影響，安陽街道君子石社群瑞祥山上方山體因雨水沖刷漫過邊坡壩頂，城區高速入口區域、瑞楓大道等路段出現積水。截至18時，高速入口區域內澇已基本處置，無人員傷亡。已對相關路段實施臨時交通管制，並增派警力疏導交通。市防指於18時起將防汛應急響應提升為Ⅱ級，預計後續仍有暴雨，請廣大市民減少外出，注意安全。"
+    },
+    {
+      "id": "5071160",
+      "time": "2026-09-01 21:10:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河首批引航員證書籤發】8月31日，欽州海事局簽發首批平陸運河引航員證書，共4名海港引航員獲得平陸運河引航員適任資格。首批平陸運河引航員證書的簽發，結束了廣西無內河引航員的歷史，為外國籍船舶和大型海船透過平陸運河進入南寧內河港口提供了專業引航人才支撐。（新華社）"
+    },
+    {
+      "id": "5071159",
+      "time": "2026-09-01 21:09:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "9月1日，印度國內基金淨買入185億印度盧比的印度股票。"
+    },
+    {
+      "id": "5071158",
+      "time": "2026-09-01 21:09:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4380美元/盎司，日內跌2.31%。"
+    },
+    {
+      "id": "5071157",
+      "time": "2026-09-01 21:09:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來李斌：蔚來品牌二季度成交均價40.6萬元，7月提升至超43萬元】9月1日，蔚來創始人、董事長、CEO李斌在2026年二季度財報電話會上表示，從終端上資料來看，蔚來品牌二季度在中國市場平均成交價達到40.6萬元，在主流高階品牌中排名第一；7月份平均成交價進一步提升至43萬元以上。"
+    },
+    {
+      "id": "5071156",
+      "time": "2026-09-01 21:09:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞總理：羅馬尼亞已吸收歐盟復甦計劃逾90%資金。"
+    },
     {
       "id": "mkt:01a05d16-5b2d-7118-8438-908880c4c4c0",
       "time": "2026-09-01 21:09:01",
@@ -9,6 +188,15 @@
         "MKT News"
       ],
       "text": "【NIO CFO Qu Yu expects per-vehicle costs to rise 2,000-3,000 yuan in H2】NIO CFO Qu Yu said at the company’s interim results meeting that cost pressures are significant: since March memory chips, bulk materials and battery costs have risen, and unit cost in Q2 was about 14,000 yuan higher than at the end of last year. He expects materials could add a further 2,000-3,000 yuan per vehicle in H2. NIO’s target is to keep unit gross margin in Q3 and Q4 at Q2 levels."
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861713478",
+      "time": "2026-09-01 21:08:45",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲巴爾稱若通脹未降溫或需加息】9月1日，美聯儲理事邁克爾·巴爾表示，如果通脹未能充分降溫，美聯儲應果斷加息；若資料顯示通脹正朝2%目標回落，決策者則可以耐心觀察。"
     },
     {
       "id": "5071153",
