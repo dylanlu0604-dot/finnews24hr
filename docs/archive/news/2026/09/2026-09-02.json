@@ -1,7 +1,1420 @@
 {
   "date": "2026-09-02",
-  "count": 136,
+  "count": 285,
   "items": [
+    {
+      "id": "mkt:01a05e57-f917-7118-8443-14f4c52df69d",
+      "time": "2026-09-02 03:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European natural gas futures rallied to their highest level since 2023."
+    },
+    {
+      "id": "mkt:01a05e57-c1af-7118-8443-0a3425557e17",
+      "time": "2026-09-02 03:00:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Tasnim News Agency, citing sources, said a US MQ-9 drone was shot down over Khomein, Iran, by Iran's new air-defence system."
+    },
+    {
+      "id": "5071572",
+      "time": "2026-09-02 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.01%，報25169.51點，低水160.22點。"
+    },
+    {
+      "id": "5071571",
+      "time": "2026-09-02 02:59:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行官員：巴勒斯坦經濟與以色列聯絡過於緊密，無法放棄謝克爾改用其他貨幣。"
+    },
+    {
+      "id": "5071570",
+      "time": "2026-09-02 02:59:00",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲天然氣期貨價格升至2023年以來最高水平。"
+    },
+    {
+      "id": "5071569",
+      "time": "2026-09-02 02:58:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行官員：10 月選舉結束後，以色列政府需要為銀行業問題尋求永久性解決方案。"
+    },
+    {
+      "id": "5071568",
+      "time": "2026-09-02 02:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗邁赫爾通訊社：伊拉克訊息人士稱，伊拉克埃爾比勒傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a05e55-08b7-7118-8443-07eaef1ff4a2",
+      "time": "2026-09-02 02:57:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Mehr News Agency cited Iraqi sources saying explosions were heard in Erbil, Iraq."
+    },
+    {
+      "id": "mkt:01a05e54-bdf0-7118-8442-f84aeeb5c41f",
+      "time": "2026-09-02 02:56:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency reports sources say explosions were heard in Erbil, Iraq."
+    },
+    {
+      "id": "5071567",
+      "time": "2026-09-02 02:56:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面稱已向美基地發射導彈和無人機】據伊朗方面9月1日訊息，伊朗武裝部隊已開始對美國進行行動，伊朗導彈和無人機正在襲擊該地區的美國基地和利益。目前暫未知具體地點和目標。稍早前，伊朗南部格什姆島及霍爾木茲海峽一帶傳出多次爆炸聲。目前尚無人員傷亡或設施受損的報告。美軍中央司令部表示，美國東部時間9月1日12時，美軍開始打擊伊朗境內伊斯蘭革命衛隊的目標。伊朗武裝部隊總參謀部1日發表宣告稱，針對美軍對該國錫斯坦-俾路支斯坦省和霍爾木茲甘省目標的空襲，伊朗武裝部隊將對美國敵人予以毀滅性打擊。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a05e52-0af0-7118-8442-f7ea31337728",
+      "time": "2026-09-02 02:53:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC releases Fable 5.1 — coding/science gains; 75% cut to re‑call token price; customer cloud hosting option】ANTHROPIC released Fable 5.1, saying the model improves performance on programming and scientific tasks while lowering enterprise operating costs. The model is positioned for long, complex software tasks — including full-application development and code review — and expands scientific capabilities such as experimental design, result simulation and reading complex charts and tables. Enterprise token pricing remains unchanged from Fable 5, but Anthropic cut pricing for re-invoking already-processed context by 75% — a usage segment that can exceed half of tokens in long-text or complex workflows — which Anthropic says should materially lower overall inference costs. Fable 5.1 also upgrades its safety classifier to better detect risky instructions and reduce false positives, targeting safer use in cybersecurity and bio-related applications. Anthropic plans to allow enterprise customers to store strongest-model data on their own cloud infrastructure rather than Anthropic servers, while continuing to apply safety checks."
+    },
+    {
+      "id": "te:markets:580167",
+      "time": "2026-09-02 02:51:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Rises on Escalating Middle East Tensions — Brent futures rose to near $95 a barrel on Tuesday, the highest since late July, after the US military launched new strikes against Iranian targets around the Strait of Hormuz following attacks on two oil tankers in the critical shipping route. US President Donald Trump also threatened a significantly larger response if Tehran retaliates. A senior Iranian military source said Tehran’s response would be “many times greater,” warning that bases across the region could quickly come under Iranian fire. The escalation threatens to prolong the conflict and further disrupt crude exports from the region. Meanwhile, a major Ukrainian drone attack on Russia’s Ust-Luga oil export terminal in the Baltic Sea sparked a fire, as Ukraine continues to target Russian refineries and energy infrastructure."
+    },
+    {
+      "id": "mkt:01a05e4f-77c1-7118-8442-e9f6b0a8be95",
+      "time": "2026-09-02 02:51:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Video】Iran has begun strikes on US military bases; footage shows missiles being launched from the city of Kermanshah."
+    },
+    {
+      "id": "5071566",
+      "time": "2026-09-02 02:50:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯表示，德國基於萊比錫相關指控實施制裁屬於前所未有的升級舉動，俄方不會就此善罷甘休。"
+    },
+    {
+      "id": "te:markets:580166",
+      "time": "2026-09-02 02:50:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Rises on Escalating Middle East Tensions — Crude oil futures rose to near $90.5 a barrel on Tuesday, the highest since late July, after the US military launched new strikes against Iranian targets around the Strait of Hormuz following attacks on two oil tankers in the critical shipping route. US President Donald Trump also threatened a significantly larger response if Tehran retaliates. A senior Iranian military source said Tehran’s response would be “many times greater,” warning that bases across the region could quickly come under Iranian fire. The escalation threatens to prolong the conflict and further disrupt crude exports from the region. Meanwhile, a major Ukrainian drone attack on Russia’s Ust-Luga oil export terminal in the Baltic Sea sparked a fire, as Ukraine continues to target Russian refineries and energy infrastructure."
+    },
+    {
+      "id": "5071565",
+      "time": "2026-09-02 02:50:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗重要能源樞紐港遭美軍襲擊】據伊朗法爾斯通訊社報道，當地時間9月1日晚，伊朗位於波斯灣沿岸的重要能源樞紐阿薩魯耶港傳出爆炸聲。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a05e4e-e56f-7118-8442-e601c5f047cf",
+      "time": "2026-09-02 02:50:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The Russian embassy in Germany said sanctions imposed by Germany over the Leipzig incident are an \"unprecedented escalation\" and that Russia will not leave them unanswered."
+    },
+    {
+      "id": "5071564",
+      "time": "2026-09-02 02:50:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗綜合防空系統在中央省霍梅因上空攔截並摧毀美軍無人機。"
+    },
+    {
+      "id": "mkt:01a05e4e-3e33-7118-8442-da4590705636",
+      "time": "2026-09-02 02:49:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $94.65/bbl, up $4.16 (+4.6%)."
+    },
+    {
+      "id": "mkt:01a05e4e-29d8-7118-8442-d09102d2a7a3",
+      "time": "2026-09-02 02:49:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's embassy in Germany called Berlin's accusations over the Leipzig incident \"a provocation\" intended to serve the interests of militarist forces in Ukraine and Europe and of arms manufacturers."
+    },
+    {
+      "id": "5071563",
+      "time": "2026-09-02 02:49:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "法爾斯通訊社：伊朗稱美國襲擊了霍爾木茲甘省南部的庫赫斯塔克。"
+    },
+    {
+      "id": "5071562",
+      "time": "2026-09-02 02:48:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷外長：將以更具體的外交行動維護馬島主權】阿根廷外交部長巴勃羅·基爾諾8月31日晚表示，將以更具體的外交行動和更有效的手段維護阿根廷對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。據悉，阿政府內閣會議1日將討論涉及馬島的問題。（新華社）"
+    },
+    {
+      "id": "mkt:01a05e4d-3d52-7118-8442-c99beb3ef4cf",
+      "time": "2026-09-02 02:48:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's embassy in Germany called Germany's claim that Moscow was involved in an attempted drone attack on Leipzig airport baseless and absurd."
+    },
+    {
+      "id": "te:markets:580165",
+      "time": "2026-09-02 02:46:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Oil is up by 5% — Brent Crude Oil increased 5% to 95.019 USD/Bbl"
+    },
+    {
+      "id": "5071561",
+      "time": "2026-09-02 02:46:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯大使館：德國稱莫斯科策劃萊比錫機場無人機襲擊未遂事件的說法毫無依據且十分荒謬。"
+    },
+    {
+      "id": "mkt:01a05e4b-66fe-7118-8442-c3656c965b3e",
+      "time": "2026-09-02 02:46:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK deputy finance minister Reynolds said, as a general principle, free trade is preferable to erecting barriers."
+    },
+    {
+      "id": "mkt:01a05e4b-2050-7118-8442-becb04bcc63b",
+      "time": "2026-09-02 02:46:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Financial Secretary to the Treasury Reynolds said reducing global imbalances is a sensitive issue and that the UK will respond appropriately."
+    },
+    {
+      "id": "mkt:01a05e48-94b4-7118-8442-b416d8cb890a",
+      "time": "2026-09-02 02:43:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister's Office said Prime Minister Netanyahu met today with Democratic Republic of the Congo President Félix Tshisekedi; they agreed to strengthen economic and security ties."
+    },
+    {
+      "id": "te:markets:580164",
+      "time": "2026-09-02 02:43:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The US 100 Tech Index Hit 4-week Low — US100 decreased to 28870.00 Index Points, the lowest since August 2026. Over the past 4 weeks, US 100 Tech Index gained 0.43%, and in the last 12 months, it increased 24.41%."
+    },
+    {
+      "id": "mkt:01a05e47-6545-7118-8442-a8c489bb130d",
+      "time": "2026-09-02 02:42:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Venezuela's National Assembly has backed an oil deal reached with the United States."
+    },
+    {
+      "id": "5071560",
+      "time": "2026-09-02 02:41:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉議員投票支援與美國達成能源協議。"
+    },
+    {
+      "id": "mkt:01a05e46-1586-7118-8442-a3172181dc10",
+      "time": "2026-09-02 02:40:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "NewsNation, citing White House officials, said President Trump has concluded a meeting with oil and gas industry executives."
+    },
+    {
+      "id": "5071559",
+      "time": "2026-09-02 02:39:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲5%，現報95.02美元/桶。"
+    },
+    {
+      "id": "mkt:01a05e43-e2b4-7118-8442-980a44a577a4",
+      "time": "2026-09-02 02:38:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexico's main stock index fell 1.5%."
+    },
+    {
+      "id": "5071558",
+      "time": "2026-09-02 02:37:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指下跌 1.5%。"
+    },
+    {
+      "id": "5071557",
+      "time": "2026-09-02 02:37:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破95美元/桶，日內漲4.98%。"
+    },
+    {
+      "id": "mkt:01a05e40-bf9f-7118-8442-90c6709eadad",
+      "time": "2026-09-02 02:34:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported new explosions at the ports of Asaluyeh and Bandar Lengeh in Hormozgan province."
+    },
+    {
+      "id": "5071556",
+      "time": "2026-09-02 02:33:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "WTI 10月原油期貨收漲4.46美元，漲幅5.20%，報90.22美元/桶。中東Abu Dhabi Murban原油期貨漲7.30%，報105.64美元/桶。NYMEX 10月天然氣期貨收報2.9040美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.1351美元/加侖，NYMEX 10月取暖油期貨收報4.6773美元/加侖。"
+    },
+    {
+      "id": "mkt:01a05e3e-3b62-7118-8442-8eac8d9d7c38",
+      "time": "2026-09-02 02:32:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Iranian media Fars News reports an explosion was heard in Asaluyeh, a major natural gas hub on the Persian Gulf coast."
+    },
+    {
+      "id": "5071555",
+      "time": "2026-09-02 02:31:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：海灣沿岸關鍵天然氣樞紐阿薩盧耶傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:01a05e3d-83ab-7118-8442-86e7ce8bb5d6",
+      "time": "2026-09-02 02:31:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude oil futures settled at $90.22/bbl, up $4.46, or 5.20%."
+    },
+    {
+      "id": "mkt:01a05e3d-7d03-7118-8442-7fdf332cc424",
+      "time": "2026-09-02 02:31:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 night session close, the Shanghai gold most-active contract fell 2.07% to 941 yuan/gram; the Shanghai silver most-active contract fell 3.14% to 15,749 yuan/kg; the SC crude oil most-active contract rose 7.93% to 688 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a05e3c-cc16-7118-8442-725777fc1936",
+      "time": "2026-09-02 02:30:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D late session on Sept 1 (Tue) closed down 2.14% at 938.5 yuan/gram; silver T+D closed down 3.24% at 15,711 yuan/kg."
+    },
+    {
+      "id": "te:markets:580163",
+      "time": "2026-09-02 02:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 2.27% — Top crypto losers are XRP (-2.27%), Ether (-2.10%) and Bitcoin (-2.05%)."
+    },
+    {
+      "id": "5071554",
+      "time": "2026-09-02 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲7.93%，報687.70元人民幣/桶。滬金夜盤收跌2.07%，滬銀收跌3.14%。"
+    },
+    {
+      "id": "mkt:01a05e3b-815d-7118-8442-6c269bd1ae17",
+      "time": "2026-09-02 02:29:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reported the governor of Asaluyeh county said explosions were heard in the county."
+    },
+    {
+      "id": "mkt:01a05e3b-7949-7118-8442-67910ae25607",
+      "time": "2026-09-02 02:29:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose sharply; WTI breached $89/bbl, up 4.22% intraday, while Brent hit $94/bbl, up 4.07% on the day."
+    },
+    {
+      "id": "5071553",
+      "time": "2026-09-02 02:29:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗武裝部隊發起決定性行動，回擊美國這一恐怖主義敵人。美國在該地區的基地及利益將成為伊朗導彈與無人機的打擊目標。"
+    },
+    {
+      "id": "mkt:01a05e3a-fbfd-7118-8442-5ed3a255809e",
+      "time": "2026-09-02 02:28:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's armed forces said they have launched a decisive operation in response to the United States and that U.S. bases and interests in the region will be targeted by Iranian missiles and drones."
+    },
+    {
+      "id": "5071552",
+      "time": "2026-09-02 02:28:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破77000美元，日內跌2.27%。"
+    },
+    {
+      "id": "5071551",
+      "time": "2026-09-02 02:27:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾議院透過臨時撥款法案 以避免政府“停擺”】當地時間9月1日，美國國會眾議院透過一項聯邦政府臨時撥款法案，以避免10月1日發生政府“停擺”，並將法案送交美國總統特朗普簽署。聯邦政府當前撥款預算在9月30日到期。8月8日，美國國會參議院以90票贊成、6票反對的結果透過一項聯邦政府臨時撥款法案，以讓大部分聯邦政府機構在當前資金支援水平下運轉至12月11日。（央視新聞）"
+    },
+    {
+      "id": "5071550",
+      "time": "2026-09-02 02:27:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達呼籲美伊重返談判 外交解決危機】卡達外交部發言人馬吉德·安薩里當地時間9月1日在多哈舉行的例行記者會上表示，地區局勢再次升級不符合任何一方利益，呼籲有關各方保持理性、重返談判軌道。安薩里表示，如果霍爾木茲海峽問題持續得不到解決，並將海峽關閉狀態正常化，將導致局勢進一步升級。安薩里表示，卡達正與地區和國際夥伴繼續開展外交斡旋，與阿曼、巴基斯坦等斡旋夥伴的磋商仍在進行。卡方正推動透過外交方式解決霍爾木茲海峽危機，確保海峽恢復開放和航行自由。 (央視新聞)"
+    },
+    {
+      "id": "5071549",
+      "time": "2026-09-02 02:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普稱美國新一輪打擊目標為伊朗雷達系統。"
+    },
+    {
+      "id": "mkt:01a05e39-2264-7118-8442-5103a739434e",
+      "time": "2026-09-02 02:26:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms CEO Mark Zuckerberg said countries should not restrict open-weight AI models."
+    },
+    {
+      "id": "5071548",
+      "time": "2026-09-02 02:26:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "扎克伯格在二十國集團技術會議上表示，各國不應限制開放權重人工智慧模型。"
+    },
+    {
+      "id": "5071547",
+      "time": "2026-09-02 02:25:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗軍方表示，其對巴林和科威特將 “不再保持克制”，並稱 “報復禮物即將送達”。"
+    },
+    {
+      "id": "mkt:01a05e37-ed5f-7118-8442-48984e2895d3",
+      "time": "2026-09-02 02:25:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【US Congress passes stopgap funding bill to avert government shutdown】US Congress passed a stopgap appropriations bill to avert an Oct. 1 government shutdown, funding the government through Dec. 11. The House approved the measure 370-48 after the Senate had already cleared it; the bill has been sent to President Trump and has White House support. Lawmakers have passed none of the 12 annual appropriations for the new fiscal year, requiring this continuing resolution. The measure postpones disputes over Pentagon budget increases and Republican proposals to cut social programs until after the midterm elections. House Republicans also plan to delay consideration of a separate $95bn Iran emergency funding bill, and a proposal to add $350bn to the Pentagon’s base budget has been pushed to the autumn."
+    },
+    {
+      "id": "te:markets:580162",
+      "time": "2026-09-02 02:25:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Rallies by 7.45% — Top commodity gainers are Palm Oil (7.45%) and Canola (3.68%). Biggest losers are Cocoa (-3.87%), Cotton (-1.82%) and Lumber (-1.58%)."
+    },
+    {
+      "id": "mkt:01a05e36-874e-7118-8442-43b01160e007",
+      "time": "2026-09-02 02:23:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News Agency reported Iran launched missiles and drones at enemy positions."
+    },
+    {
+      "id": "5071546",
+      "time": "2026-09-02 02:23:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗發射導彈。"
+    },
+    {
+      "id": "5071545",
+      "time": "2026-09-02 02:23:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國東部一變電站發現多個爆炸裝置】德國東部勃蘭登堡州一座變電站1日發現多個爆炸裝置。當地能源企業負責人當天表示，相關破壞行為導致變電站附近延施瓦爾德燃煤電廠一臺機組突然停運。（新華社）"
+    },
+    {
+      "id": "mkt:01a05e35-f15f-7118-8442-3eb928b2bce7",
+      "time": "2026-09-02 02:23:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran warns Bahrain and Kuwait, 'gifts are on the way'】The Iranian military said it will no longer show restraint toward Bahrain and Kuwait and that \"gifts are on the way,\" issuing the warning after US strikes on Islamic Revolutionary Guard Corps (IRGC) targets. Iran has been accused of attacks on commercial shipping and US forces. US President Trump warned any Iranian retaliation would provoke a stronger US response."
+    },
+    {
+      "id": "5071544",
+      "time": "2026-09-02 02:21:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國指認俄涉萊比錫機場襲擊 關閉俄駐波恩總領館 】德國政府1日稱，俄羅斯應對8月上旬發生在德東部萊比錫機場的無人機襲擊未遂事件負責，並宣佈關閉俄羅斯駐波恩總領事館。德國內政部長多布林特當天在新聞釋出會上說，此次襲擊所涉爆炸物和引爆技術與此前俄羅斯在其他“混合行動”和對烏戰事中使用的相似。襲擊顯示出專業特徵，而具體實施者為“低層級特工”。德國外交部長瓦德富爾在同一場合說，德方已召見俄羅斯駐德國大使，並決定於9月18日關閉俄羅斯駐波恩總領事館，同時終止與位於柏林的文化機構“俄羅斯之家”的相關合同。此外，德國將加強對俄公民的入境檢查，並加大對俄“影子艦隊”的施壓力度。（新華社）"
+    },
+    {
+      "id": "te:markets:580161",
+      "time": "2026-09-02 02:20:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore Gains by 3.41% — Top commodity gainers are Iron Ore (3.41%) and Lithium Carbonate (0.95%). Biggest losers are Silver (-3.01%), Gold (-2.25%) and Platinum (-2.01%)."
+    },
+    {
+      "id": "mkt:01a05e32-eb37-7118-8442-324cd93b76ea",
+      "time": "2026-09-02 02:19:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said, when asked which Iranian targets were struck tonight, that a large number of radar facilities were hit."
+    },
+    {
+      "id": "5071543",
+      "time": "2026-09-02 02:18:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（8月31日）擔保隔夜融資利率（SOFR）報3.68%，之前一天報3.65%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "mkt:01a05e31-5a7c-7118-8442-2965442c7d0f",
+      "time": "2026-09-02 02:18:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Semafor reported Meta Platforms (META.O) disabled camera functions on some smart glasses that had been tampered with."
+    },
+    {
+      "id": "5071542",
+      "time": "2026-09-02 02:17:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗多地再次傳出爆炸聲】當地時間1日21時28分左右，伊朗南部阿巴斯港、格什姆島再次傳出爆炸聲。伊朗拉萬島（Lavan）也傳出爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05e30-8c0e-7118-8442-274e0cc9cc67",
+      "time": "2026-09-02 02:17:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Trump: Iran 'crazy and stupid'; will be wiped out if it strikes again】President Trump told Fox News the Iran deal was worthless and he had given Iran many chances. He called Iran \"crazy and stupid,\" said the US carried out a \"very large\" strike today, and warned that if Iran attacks again the country \"will be wiped out,\" adding the US would hit back harder if Iran retaliates. Trump said Iran was trying to rebuild radar because \"they can't see anything,\" and that US forces waited until the systems were nearly rebuilt before striking."
+    },
+    {
+      "id": "5071541",
+      "time": "2026-09-02 02:16:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：如果盟友提出要求，烏克蘭準備暫停對俄羅斯的無人機襲擊。烏克蘭將考慮在莫斯科舉行的未來會談。"
+    },
+    {
+      "id": "mkt:01a05e2f-b991-7118-8442-1d460742541b",
+      "time": "2026-09-02 02:16:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Macron said France must stand united in supporting Ukraine and will continue to play its role."
+    },
+    {
+      "id": "mkt:01a05e2f-6b85-7118-8442-1228f5b84182",
+      "time": "2026-09-02 02:16:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine would consider holding future talks in Moscow."
+    },
+    {
+      "id": "mkt:01a05e2f-4e19-7118-8442-0e151e6c5794",
+      "time": "2026-09-02 02:15:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine is prepared to pause drone strikes on Russia if requested by allies."
+    },
+    {
+      "id": "te:markets:580160",
+      "time": "2026-09-02 02:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Spikes by 8.67% — Top commodity gainers are Natural Gas UK (8.67%), Heating Oil (5.68%), Natural Gas EU (5.50%), Crude Oil WTI (4.89%) and Brent Crude Oil (4.29%). Biggest loser is Natural gas (-0.51%)."
+    },
+    {
+      "id": "mkt:01a05e2e-719d-7118-8442-02a364050a28",
+      "time": "2026-09-02 02:14:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "French President Macron said France fully supports Germany and backs new European sanctions measures."
+    },
+    {
+      "id": "mkt:01a05e2d-725a-7118-8441-fef6b7653f80",
+      "time": "2026-09-02 02:13:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to IRNA, US forces struck Jiroft airport in southeastern Iran."
+    },
+    {
+      "id": "5071539",
+      "time": "2026-09-02 02:13:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺稱，美軍襲擊了伊朗東南部的吉羅夫特機場。"
+    },
+    {
+      "id": "5071538",
+      "time": "2026-09-02 02:13:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：將就降低失衡的途徑交換意見。"
+    },
+    {
+      "id": "mkt:01a05e2c-a34c-7118-8441-f1088c646092",
+      "time": "2026-09-02 02:12:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "President Trump said the aircraft carrier USS Washington is fully loaded with munitions, ready and 'can flatten Iran at any time'."
+    },
+    {
+      "id": "5071537",
+      "time": "2026-09-02 02:12:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic：Claude Fable 5.1 現已登陸亞馬遜雲科技、谷歌雲以及微軟 Azure。"
+    },
+    {
+      "id": "5071536",
+      "time": "2026-09-02 02:12:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：我們尚未發現 Mythos 5.1 與 Fable 5.1 防護機制存在高危級別越獄漏洞的證據。"
+    },
+    {
+      "id": "mkt:01a05e2b-9811-7118-8441-ed6fd487c601",
+      "time": "2026-09-02 02:11:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC launched Enterprise Frontier Security (EFS), an enterprise product combining zero-data-retention privacy guarantees with enhanced defenses against malicious AI use."
+    },
+    {
+      "id": "mkt:01a05e2b-85b1-7118-8441-e68e28b48164",
+      "time": "2026-09-02 02:11:45",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran is attempting to rebuild radar systems because they cannot see anything, and that the US waited until the systems were nearly complete before striking."
+    },
+    {
+      "id": "5071535",
+      "time": "2026-09-02 02:11:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：如果伊朗反擊，我們將以更強的力量打擊它。今日對伊朗的打擊規模非常大，如果伊朗再犯錯誤，這個國家將被徹底抹除。伊朗（各種不當行為）簡直停不下來，他們又瘋又蠢。伊朗試圖重建雷達，因為他們什麼都看不見。我們一直等到他們快建好了才出手打擊。"
+    },
+    {
+      "id": "mkt:01a05e2b-662d-7118-8441-d93c4a3fe929",
+      "time": "2026-09-02 02:11:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC says Fable 5.1 outperforms Fable 5 and, by lowering inference intensity, can deliver comparable or superior performance at lower cost."
+    },
+    {
+      "id": "mkt:01a05e2b-13c1-7118-8441-d7615e1985b6",
+      "time": "2026-09-02 02:11:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said Iran's misconduct simply won't stop and called Iran crazy and stupid."
+    },
+    {
+      "id": "5071534",
+      "time": "2026-09-02 02:10:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：希望就全球失衡開展 “有實質意義的討論”。希望就何為過度失衡達成共識。"
+    },
+    {
+      "id": "mkt:01a05e2a-c2e6-7118-8441-cb4b4ed116e7",
+      "time": "2026-09-02 02:10:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic's Fable 5.1 excels on complex, long-duration tasks; its research capabilities offer an early view of how future AI models are likely to accelerate scientific progress."
+    },
+    {
+      "id": "5071533",
+      "time": "2026-09-02 02:10:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Fable 5.1 現已可用於發現軟體漏洞，預計很快開放科學家註冊通道。"
+    },
+    {
+      "id": "mkt:01a05e29-6e11-7118-8441-c1774825f167",
+      "time": "2026-09-02 02:09:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC says cache-read costs using Fable 5.1 are 75% lower than with Fable 5."
+    },
+    {
+      "id": "5071532",
+      "time": "2026-09-02 02:09:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：我們最佳化了防護機制，降低 Claude Fable 5.1 與 Claude Mythos 5.1 的誤報率。"
+    },
+    {
+      "id": "te:markets:580159",
+      "time": "2026-09-02 02:09:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper is down by 2% — Copper decreased 2% to 6.4614 USD/Lbs"
+    },
+    {
+      "id": "5071531",
+      "time": "2026-09-02 02:09:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic：EFS 將在 Claude 程式碼版、企業版、平臺版以及亞馬遜 Bedrock、谷歌、微軟平臺上獲得支援。企業級前沿安全防護方案不收取費用。"
+    },
+    {
+      "id": "5071530",
+      "time": "2026-09-02 02:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：將於 2026 年秋季推出企業級前沿安全防護方案。"
+    },
+    {
+      "id": "mkt:01a05e28-4237-7118-8441-bd8402e0a699",
+      "time": "2026-09-02 02:08:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC released Claude Fable 5.1 and Claude MYTHOS 5.1."
+    },
+    {
+      "id": "5071529",
+      "time": "2026-09-02 02:08:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 宣佈推出企業級前沿安全防護方案，具備零資料留存與濫用檢測功能。"
+    },
+    {
+      "id": "5071528",
+      "time": "2026-09-02 02:07:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Fable 5.1 已全面開放使用，而 Mythos 5.1 僅可透過我方可信訪問計劃獲取。"
+    },
+    {
+      "id": "mkt:01a05e27-d7ed-7118-8441-b3add9fafeca",
+      "time": "2026-09-02 02:07:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Trump said today's strike on Iran was very large and warned that if Iran makes another mistake the country would be completely wiped out."
+    },
+    {
+      "id": "5071527",
+      "time": "2026-09-02 02:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic ：Claude Fable 5.1 針對常規工作負載，定價較 Fable 5 下調 25%。"
+    },
+    {
+      "id": "mkt:01a05e27-b1b4-7118-8441-ac10382ce02f",
+      "time": "2026-09-02 02:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said airlines, insurers and other relevant parties should note Russian airspace will become dangerous due to Ukrainian drones. He said Ukraine is not threatening civil aviation, but there will be drones in the air and parties should take full note."
+    },
+    {
+      "id": "5071526",
+      "time": "2026-09-02 02:06:56",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Anthropic：推出 Claude Fable 5.1 與 Claude Mythos 5.1。"
+    },
+    {
+      "id": "5071525",
+      "time": "2026-09-02 02:06:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭並未威脅民用航空，但空中將會出現無人機，各方應予以充分留意。"
+    },
+    {
+      "id": "5071524",
+      "time": "2026-09-02 02:06:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭澤連斯基：航空公司、保險公司及其他相關方應當知悉，受烏克蘭無人機影響，俄羅斯領空將存在危險。"
+    },
+    {
+      "id": "mkt:01a05e26-7640-7118-8441-a1a2d26826af",
+      "time": "2026-09-02 02:06:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "The U.S. House passed a short-term federal funding bill (continuing resolution) to avert a government shutdown ahead of Oct. 1; the measure has been sent to President Trump for signature."
+    },
+    {
+      "id": "5071523",
+      "time": "2026-09-02 02:05:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國眾議院透過聯邦臨時撥款法案，避免 10 月 1 日政府停擺，法案將送交特朗普簽署。"
+    },
+    {
+      "id": "mkt:01a05e25-71a6-7118-8441-9caba926f503",
+      "time": "2026-09-02 02:05:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said if Iran retaliates, the US will strike it with greater force."
+    },
+    {
+      "id": "5071522",
+      "time": "2026-09-02 02:04:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報1323.06美元/盎司。"
+    },
+    {
+      "id": "5071521",
+      "time": "2026-09-02 02:04:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：海峽附近的阿巴斯港與格什姆島再次傳出爆炸聲，拉萬島也傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:01a05e24-cedb-7118-8441-97b45c6b5a56",
+      "time": "2026-09-02 02:04:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US President Trump said any agreement with Iran is worthless and that he has given Iran many chances."
+    },
+    {
+      "id": "5071520",
+      "time": "2026-09-02 02:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗達成的協議一文不值；已經給過伊朗諸多機會。"
+    },
+    {
+      "id": "mkt:01a05e23-ef87-7118-8441-8dcef2b4cd65",
+      "time": "2026-09-02 02:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Hill reported a White House official said a press briefing will be held Thursday afternoon local time — the first since July 23."
+    },
+    {
+      "id": "5071519",
+      "time": "2026-09-02 02:02:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta 對部分遭到篡改的智慧眼鏡禁用攝像頭。"
+    },
+    {
+      "id": "5071518",
+      "time": "2026-09-02 02:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：實現持久增長要求全球各經濟體開展公平競爭，而非依靠扭曲性政策將過剩產能推向全球市場。"
+    },
+    {
+      "id": "5071517",
+      "time": "2026-09-02 02:00:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：過度且持續的貿易失衡會抑制經濟增長、加劇經濟脆弱性、損害繁榮發展。"
+    },
+    {
+      "id": "5071516",
+      "time": "2026-09-02 02:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：G20 各部長認識到，解決過度且持續的失衡問題，符合順差經濟體與逆差經濟體的共同利益。"
+    },
+    {
+      "id": "5071515",
+      "time": "2026-09-02 01:55:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院獲得足夠票數，透過將政府資金維持至 12 月 11 日、避免政府停擺的法案，投票仍在進行。"
+    },
+    {
+      "id": "5071514",
+      "time": "2026-09-02 01:49:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉議員擴大負責遴選最高法院大法官的委員會職權，此舉是與反對派談判的一部分。"
+    },
+    {
+      "id": "5071513",
+      "time": "2026-09-02 01:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "殼牌美國油品業務：Equilon Enterprises 簽署協議，將其在 Tri Star Energy 的股權從 33% 提升至 100%。"
+    },
+    {
+      "id": "5071512",
+      "time": "2026-09-02 01:47:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊將讓美國付出沉重代價】當地時間9月1日晚，伊朗武裝部隊總參謀部發表宣告稱，針對美軍對伊朗錫斯坦-俾路支斯坦省和霍爾木茲甘省多地的襲擊，伊朗武裝部隊將對美國敵人予以毀滅性打擊。美軍在該地區越是肆意作惡，就越會遭受慘重的損失，伊朗將讓美國敵人付出沉重代價。（CCTV國際時訊）"
+    },
+    {
+      "id": "5071511",
+      "time": "2026-09-02 01:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利 8 月預算赤字達 123 億歐元。"
+    },
+    {
+      "id": "5071510",
+      "time": "2026-09-02 01:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油自 7 月下旬以來首次突破每桶 90 美元。"
+    },
+    {
+      "id": "5071509",
+      "time": "2026-09-02 01:40:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報90.07美元/桶。"
+    },
+    {
+      "id": "te:markets:580158",
+      "time": "2026-09-02 01:38:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ConocoPhillips Stock Price Hits Near 4-year High — ConocoPhillips shares increased to 135.89 USD, the highest since November 2022. Over the past 4 weeks, ConocoPhillips gained 14.03%, and in the last 12 months, it increased 37.27%."
+    },
+    {
+      "id": "5071508",
+      "time": "2026-09-02 01:38:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱伊朗若報復將遭更猛烈打擊】當地時間9月1日，美國總統特朗普在“真實社交”上發文稱，“此時此刻美軍正在打擊霍爾木茲海峽附近的伊朗目標。此次打擊規模龐大、威力驚人，是對伊朗人企圖在霍爾木茲海峽佈設水雷——目前海峽內已沒有任何水雷，它們已被全部清除或引爆，以及向我們在約旦的軍事基地發射了八枚導彈（已全部被成功攔截）的報復。”特朗普稱，“如果這個失敗的伊朗政權對這次‘非常正當’的攻擊進行報復，他們將遭到更猛烈、更高強度的打擊。但這還不是我們最猛烈的攻擊，終極打擊正在蓄勢待發。一旦其降臨，伊朗將所剩無幾。” （CCTV國際時訊）"
+    },
+    {
+      "id": "5071507",
+      "time": "2026-09-02 01:37:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破90美元/桶，日內漲4.95%。"
+    },
+    {
+      "id": "5071506",
+      "time": "2026-09-02 01:36:17",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "Google DeepMind執行長在G20技術會議上表示，各國應建立人工智慧測試框架。"
+    },
+    {
+      "id": "5071505",
+      "time": "2026-09-02 01:35:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：侵略者將遭到嚴厲懲罰，美國會為其新一輪襲擊感到後悔。"
+    },
+    {
+      "id": "5071504",
+      "time": "2026-09-02 01:33:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗將對美國的打擊作出 “更強有力” 的回應。美國在該地區的基地與利益將成為打擊目標。"
+    },
+    {
+      "id": "5071503",
+      "time": "2026-09-02 01:31:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理與剛果總統於週二在耶路撒冷會晤。"
+    },
+    {
+      "id": "5071502",
+      "time": "2026-09-02 01:31:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京會見吉爾吉斯斯坦總統。"
+    },
+    {
+      "id": "5071501",
+      "time": "2026-09-02 01:29:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【無視俄方警告 英首相稱將繼續力挺烏克蘭】英國首相伯納姆1日在議會下院首次以首相身份發表講話時說，他將延續前任首相斯塔默在烏克蘭問題上的立場，堅定支援烏克蘭。伯納姆稱，英國將堅定不移地為烏克蘭提供力所能及的幫助，“英國的國防始於烏克蘭”。（新華社）"
+    },
+    {
+      "id": "5071500",
+      "time": "2026-09-02 01:29:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果CEO Ternus上任，傳送任期內第一份備忘錄。Ternus透露未來產品，稱iPhone釋出會“非凡”。"
+    },
+    {
+      "id": "5071499",
+      "time": "2026-09-02 01:28:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普正考慮將資料平臺 Capital IQ 進行數十億美元規模的分拆。"
+    },
+    {
+      "id": "5071498",
+      "time": "2026-09-02 01:27:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：如果伊朗對此進行報復 他們將再次遭到打擊】美國總統特朗普在真相社交平臺發文稱，美國此刻正在打擊霍爾木茲海峽附近的伊朗目標。此次打擊規模大、威力強，是對伊朗兩起行動的報復：其一，伊朗試圖在霍爾木茲海峽佈設水雷，但行動失敗，目前該海峽已無水雷（水雷已被全部清除或引爆！）；其二，伊朗向美國位於約旦的軍事基地發射八枚導彈，全部被成功攔截。倘若衰敗的伊朗國家對這場完全正當的襲擊實施報復，伊朗將遭到更為猛烈、層級更高的二次打擊。不過這還不是最沉重的打擊，最強打擊蓄勢待發；一旦該打擊結束，伊朗將所剩無幾！"
+    },
+    {
+      "id": "em:qqyh_mlc:202609023861869794",
+      "time": "2026-09-02 01:19:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲隔夜逆回購協議（RRP）週二使用規模為7.25億美元（交易對手2家），上個交易日報67.26億美元。"
+    },
+    {
+      "id": "5071497",
+      "time": "2026-09-02 01:19:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "CrowdStrike：宣佈面向谷歌雲企業 AI 推出 Falcon 平臺全新功能。"
+    },
+    {
+      "id": "5071496",
+      "time": "2026-09-02 01:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：截至 8 月，收入較 2025 年同期增長 1490 億墨西哥比索。美國關稅給墨西哥造成了困境。儘管面臨美國關稅，墨西哥經濟仍保持穩定。"
+    },
+    {
+      "id": "5071495",
+      "time": "2026-09-02 01:16:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：德國正繼續走局勢升級的路線，萊比錫事件後德國對俄羅斯提出的指控，柏林方面拿不出任何證據予以佐證。"
+    },
+    {
+      "id": "5071494",
+      "time": "2026-09-02 01:16:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（9月1日），美聯儲隔夜逆回購協議（RRP）使用規模為7.25億美元（交易對手2家），上個交易日報67.26億美元。"
+    },
+    {
+      "id": "5071493",
+      "time": "2026-09-02 01:14:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理稱已控制哈馬斯安全機構負責人】9月1日，以色列總理內塔尼亞胡發表宣告稱，以色列國防軍和國家安全總局（辛貝特）當天發起行動，在加沙地帶找到並控制哈馬斯內部安全機構負責人。內塔尼亞胡稱，該負責人是哈馬斯最高層領導人之一，負責隱藏和轉移以色列被扣押人員、藏匿哈馬斯高階官員、集結兵力，並試圖恢復該組織的能力。近期其一直致力於恢復哈馬斯在加沙的管治。內塔尼亞胡並未在宣告中透露被控制者姓名。以色列方面有訊息稱，以軍當天控制的哈馬斯高層名為穆因·阿拉比德（Muein al-Arabid）。（央視）"
+    },
+    {
+      "id": "5071492",
+      "time": "2026-09-02 01:12:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：價值 400 億至 640 億美元的委內瑞拉石油被無償提供給古巴。"
+    },
+    {
+      "id": "5071491",
+      "time": "2026-09-02 01:11:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京與土耳其總統埃爾多安就黑海問題舉行磋商。"
+    },
+    {
+      "id": "5071490",
+      "time": "2026-09-02 01:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：自2024年以來，墨西哥政府已經削減開支2000億墨西哥比索。"
+    },
+    {
+      "id": "te:markets:580157",
+      "time": "2026-09-02 01:09:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises to Over 1-Month High — Brent futures rose to $94 per barrel on Tuesday, the highest in over one month, as more strikes in the Middle East prolonged the period of suspended exports from the region. The US launched a new wave of attacks against Iran after both countries exchanged strikes earlier in the week, heightening the conflict even though the US had signaled it would stick to only economic measures against Tehran. Tanker flows were set to drop sharply after reports that GCC nations enabled the export of barrels had allowed for some respite in crude oil and refined goods prices. A greater rebound to crude prices were prevented by major economies tapping on inventory to tame higher import turnover. The US SPR plunged to less than 290 million barrels, the lowest since 1982. On top of that, China significantly cut imports of crude oil and refinery runs in the country were cut by only 1.6 million barrels per day, indicating the cutback in crude consumption despite steady demand for refined product."
+    },
+    {
+      "id": "te:markets:580156",
+      "time": "2026-09-02 01:09:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Surges Toward $90 — Crude oil futures rose to $89.5 per barrel on Tuesday, the highest in over one month, as more strikes in the Middle East prolonged the period of suspended exports from the region. The US launched a new wave of attacks against Iran after both countries exchanged strikes earlier in the week, heightening the conflict even though the US had signaled it would stick to only economic measures against Tehran. Tanker flows were set to drop sharply after reports that GCC nations enabled the export of barrels had allowed for some respite in crude oil and refined goods prices. A greater rebound to crude prices were prevented by major economies tapping on inventory to tame higher import turnover. The US SPR plunged to less than 290 million barrels, the lowest since 1982. On top of that, China significantly cut imports of crude oil and refinery runs in the country were cut by only 1.6 million barrels per day, indicating the cutback in crude consumption despite steady demand for refined product."
+    },
+    {
+      "id": "te:markets:580154",
+      "time": "2026-09-02 01:09:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Extends Gains — US gasoline futures fluctuated strongly around $3.11 per gallon on Tuesday, astraders assessed refining capacity and its implications for fuel-pump prices. EIA data showed the average US regular gasoline price edged down to $4.07 per gallon in the week ending August 31st, despite continued tightness in refined supply, while gasoline inventories for the same week fell 2.536 million barrels. Goldman Sachs has warned of tightness in global refining, with the crack spread near multi-year highs, as Russian refining declined to near multi-year lows and fresh strikes from the U.S. on Iranian targets around the Strait of Hormuz kept transit in the waterway cautious. Strong demand is also supporting prices, with heavy driving expected over Labor Day weekend. Meanwhile, President Donald Trump and Energy Secretary Wright are set to meet US oil refiners on Tuesday to discuss near-term measures regarding refining capacity, which is already operating near full capacity."
+    },
+    {
+      "id": "5071489",
+      "time": "2026-09-02 01:08:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報682.00元。"
+    },
+    {
+      "id": "5071488",
+      "time": "2026-09-02 01:08:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：亞美尼亞總理帕希尼揚在與俄羅斯總統普京會晤時表示，亞美尼亞有意發展同俄羅斯的關係。"
+    },
+    {
+      "id": "5071487",
+      "time": "2026-09-02 01:05:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：美國石油交易涉及私營企業，無需經過競爭性招標流程。"
+    },
     {
       "id": "5071486",
       "time": "2026-09-02 01:04:58",
