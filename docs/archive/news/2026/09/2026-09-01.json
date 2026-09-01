@@ -1,7 +1,119 @@
 {
   "date": "2026-09-01",
-  "count": 2581,
+  "count": 2594,
   "items": [
+    {
+      "id": "5071419",
+      "time": "2026-09-01 23:49:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：下次大選前不會改變英國的投票制度。"
+    },
+    {
+      "id": "5071418",
+      "time": "2026-09-01 23:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：8 月 14 日俄羅斯在萊比錫發動混合攻擊後，北約完全聲援德國。北約將繼續強化能力，威懾並保護所有盟國抵禦一切威脅。"
+    },
+    {
+      "id": "5071416",
+      "time": "2026-09-01 23:48:42",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【蘋果新CEO特努斯入駐微博併發布首條博文】當地時間9月1日，剛剛正式就任蘋果公司CEO的約翰·特努斯入駐微博，併發布其首條博文：你好 hello 。"
+    },
+    {
+      "id": "mkt:01a05da7-f825-7118-843e-79aeeea8296a",
+      "time": "2026-09-01 23:48:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO will continue to bolster deterrence and defensive capabilities against any threat to protect all allies."
+    },
+    {
+      "id": "mkt:01a05da7-e4ee-7118-843e-7235b5e3f5f5",
+      "time": "2026-09-01 23:47:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO fully supports Germany over the Leipzig attack."
+    },
+    {
+      "id": "5071415",
+      "time": "2026-09-01 23:47:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長：德國將繼續支援烏克蘭。"
+    },
+    {
+      "id": "mkt:01a05da6-d593-7118-843e-6bb90a7edfad",
+      "time": "2026-09-01 23:46:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's foreign minister said Germany will continue to support Ukraine."
+    },
+    {
+      "id": "mkt:01a05da6-c6e9-7118-843e-6471d4f6230c",
+      "time": "2026-09-01 23:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's foreign minister said he will order the closure of Russia's consulate in Bonn and close the German House in Moscow in response to the Leipzig attack."
+    },
+    {
+      "id": "5071414",
+      "time": "2026-09-01 23:46:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長：已召見俄羅斯大使。"
+    },
+    {
+      "id": "mkt:01a05da6-7d0f-7118-843e-5b9bbfa05658",
+      "time": "2026-09-01 23:46:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Germany's foreign minister has summoned the Russian ambassador."
+    },
+    {
+      "id": "mkt:01a05da6-49a8-7118-843e-5222601c9c7d",
+      "time": "2026-09-01 23:46:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury said Treasury Secretary Bessent told Bank of Japan Governor Ueda to avoid excessive foreign exchange volatility."
+    },
+    {
+      "id": "5071413",
+      "time": "2026-09-01 23:46:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長：作為德國針對萊比錫襲擊事件的應對舉措，將下令關閉俄羅斯駐波恩領事館以及位於莫斯科的德國之家。"
+    },
     {
       "id": "5071412",
       "time": "2026-09-01 23:45:38",
@@ -108,6 +220,15 @@
         "Impact bearish"
       ],
       "text": "Germany's interior minister said Russia was responsible for the attack on Leipzig and that the incident confirms Germany faces a high-risk situation."
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861845231",
+      "time": "2026-09-01 23:42:05",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事巴爾：若通脹未緩解 應做好加息準備】美聯儲理事邁克爾·巴爾表示，如果通脹未能回落，美聯儲應做好加息準備。他警告稱，通脹連續逾五年高於目標水平，價格壓力存在固化風險。巴爾表示，如果未來公佈的資料能夠釋放出通脹降溫的訊號，美聯儲有保持耐心的條件。“如果資料趨勢讓我對通脹正朝著2%目標回落建立起一定信心，那麼我認為我們可以花更多時間評估當前的政策立場，”巴爾週二在華盛頓一場活動的講話稿中表示。“但如果通脹看起來未能充分放緩，我認為我們應果斷採取行動加息。”近期，受伊朗戰爭推高油價、新一輪關稅以及人工智慧資料中心建設帶來的需求激增影響，通脹壓力持續，美聯儲官員正討論如何應對。儘管許多官員仍預計無需加息通脹也會回落，但7月政策會議已顯現意見分歧。"
     },
     {
       "id": "mkt:01a05da2-3e8b-7118-843e-22a8092ad196",
