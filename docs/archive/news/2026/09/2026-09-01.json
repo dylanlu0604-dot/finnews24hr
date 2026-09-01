@@ -1,7 +1,170 @@
 {
   "date": "2026-09-01",
-  "count": 778,
+  "count": 795,
   "items": [
+    {
+      "id": "mkt:01a05ab1-d288-7118-8426-3058291aa0f4",
+      "time": "2026-09-01 09:59:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said orderly FX volatility is crucial for US and global markets and that Japan and the United States should strengthen cooperation."
+    },
+    {
+      "id": "5069788",
+      "time": "2026-09-01 09:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山：日元有序波動對全球市場至關重要。"
+    },
+    {
+      "id": "5069787",
+      "time": "2026-09-01 09:59:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報13874.735點；上證指數跌0.11%，現報3982.053點；創業板指跌1.61%，現報3383.238點。"
+    },
+    {
+      "id": "mkt:01a05ab0-a998-7118-8426-2c2c9fd44cf9",
+      "time": "2026-09-01 09:58:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year bond yield rose 5 bps to 2.990%."
+    },
+    {
+      "id": "5069786",
+      "time": "2026-09-01 09:58:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升5個基點至2.99%。"
+    },
+    {
+      "id": "mkt:01a05ab0-57ab-7118-8426-26fa9a63038b",
+      "time": "2026-09-01 09:58:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama attended the G7 meeting, where delegates discussed the global economy, artificial intelligence and Ukraine."
+    },
+    {
+      "id": "mkt:01a05ab0-2261-7118-8426-1cb3f0c6e205",
+      "time": "2026-09-01 09:58:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister KATAYAMA said at the G20 meeting that arbitrary export controls harm economic growth and must be abolished."
+    },
+    {
+      "id": "5069785",
+      "time": "2026-09-01 09:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：出席G7會議，會議討論了全球經濟、人工智慧和烏克蘭問題。"
+    },
+    {
+      "id": "mkt:01a05aaf-d631-7118-8426-11b44cc7fb8f",
+      "time": "2026-09-01 09:57:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【LGT sees medium-term upside for won】LGT Private Bank Asia says the South Korean won’s medium-term outlook is constructive, citing record current-account surpluses, resilient tech and storage-chip exports spreading into the broader economy, and a hawkish Bank of Korea. LGT cut its USD/KRW forecasts to 3M 1490→1400, 6M 1460→1420 and 12M 1450→1420. The bank remains bullish on multi-year AI-driven growth in Korea but warns a hit to market sentiment or a slowdown in AI-related capex could prompt large equity outflows and quickly reverse won gains."
+    },
+    {
+      "id": "5069784",
+      "time": "2026-09-01 09:57:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "片山：向G20表示日本將降低債務佔GDP的比率。"
+    },
+    {
+      "id": "mkt:01a05aaf-a7ad-7118-8426-0e455a712b85",
+      "time": "2026-09-01 09:57:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said at the G20 meeting Japan is investing in strategic sectors to boost economic growth."
+    },
+    {
+      "id": "5069783",
+      "time": "2026-09-01 09:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：已告知G20，日本正投資於戰略領域以促進經濟增長。"
+    },
+    {
+      "id": "te:markets:579758",
+      "time": "2026-09-01 09:57:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi Stock Price Hits 5-week High — Mitsubishi shares increased to 4927.00 JPY, the highest since July 2026. Over the past 4 weeks, Mitsubishi gained 2.74%, and in the last 12 months, it increased 42.43%."
+    },
+    {
+      "id": "5069781",
+      "time": "2026-09-01 09:57:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5069780",
+      "time": "2026-09-01 09:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "片山：向G20介紹了日本的大膽投資計劃。"
+    },
+    {
+      "id": "mkt:01a05aae-d74e-7118-8426-05680827255d",
+      "time": "2026-09-01 09:56:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama held a bilateral meeting with U.S. Treasury Secretary Bessent."
+    },
+    {
+      "id": "5069779",
+      "time": "2026-09-01 09:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門國貿投資成立智算科技公司 含多項AI業務】企查查APP顯示，近日，廈門國貿智算科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧通用應用系統；人工智慧公共資料平臺；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由廈門國貿等共同持股。"
+    },
     {
       "id": "5069778",
       "time": "2026-09-01 09:55:53",

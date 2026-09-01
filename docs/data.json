@@ -1,7 +1,170 @@
 {
-  "updated": "2026-09-01 09:56:41",
-  "count": 13133,
+  "updated": "2026-09-01 10:00:41",
+  "count": 13140,
   "items": [
+    {
+      "id": "mkt:01a05ab1-d288-7118-8426-3058291aa0f4",
+      "time": "2026-09-01 09:59:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said orderly FX volatility is crucial for US and global markets and that Japan and the United States should strengthen cooperation."
+    },
+    {
+      "id": "5069788",
+      "time": "2026-09-01 09:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山：日元有序波動對全球市場至關重要。"
+    },
+    {
+      "id": "5069787",
+      "time": "2026-09-01 09:59:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報13874.735點；上證指數跌0.11%，現報3982.053點；創業板指跌1.61%，現報3383.238點。"
+    },
+    {
+      "id": "mkt:01a05ab0-a998-7118-8426-2c2c9fd44cf9",
+      "time": "2026-09-01 09:58:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year bond yield rose 5 bps to 2.990%."
+    },
+    {
+      "id": "5069786",
+      "time": "2026-09-01 09:58:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升5個基點至2.99%。"
+    },
+    {
+      "id": "mkt:01a05ab0-57ab-7118-8426-26fa9a63038b",
+      "time": "2026-09-01 09:58:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama attended the G7 meeting, where delegates discussed the global economy, artificial intelligence and Ukraine."
+    },
+    {
+      "id": "mkt:01a05ab0-2261-7118-8426-1cb3f0c6e205",
+      "time": "2026-09-01 09:58:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister KATAYAMA said at the G20 meeting that arbitrary export controls harm economic growth and must be abolished."
+    },
+    {
+      "id": "5069785",
+      "time": "2026-09-01 09:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：出席G7會議，會議討論了全球經濟、人工智慧和烏克蘭問題。"
+    },
+    {
+      "id": "mkt:01a05aaf-d631-7118-8426-11b44cc7fb8f",
+      "time": "2026-09-01 09:57:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【LGT sees medium-term upside for won】LGT Private Bank Asia says the South Korean won’s medium-term outlook is constructive, citing record current-account surpluses, resilient tech and storage-chip exports spreading into the broader economy, and a hawkish Bank of Korea. LGT cut its USD/KRW forecasts to 3M 1490→1400, 6M 1460→1420 and 12M 1450→1420. The bank remains bullish on multi-year AI-driven growth in Korea but warns a hit to market sentiment or a slowdown in AI-related capex could prompt large equity outflows and quickly reverse won gains."
+    },
+    {
+      "id": "5069784",
+      "time": "2026-09-01 09:57:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "片山：向G20表示日本將降低債務佔GDP的比率。"
+    },
+    {
+      "id": "mkt:01a05aaf-a7ad-7118-8426-0e455a712b85",
+      "time": "2026-09-01 09:57:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said at the G20 meeting Japan is investing in strategic sectors to boost economic growth."
+    },
+    {
+      "id": "5069783",
+      "time": "2026-09-01 09:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：已告知G20，日本正投資於戰略領域以促進經濟增長。"
+    },
+    {
+      "id": "te:markets:579758",
+      "time": "2026-09-01 09:57:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi Stock Price Hits 5-week High — Mitsubishi shares increased to 4927.00 JPY, the highest since July 2026. Over the past 4 weeks, Mitsubishi gained 2.74%, and in the last 12 months, it increased 42.43%."
+    },
+    {
+      "id": "5069781",
+      "time": "2026-09-01 09:57:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5069780",
+      "time": "2026-09-01 09:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "片山：向G20介紹了日本的大膽投資計劃。"
+    },
+    {
+      "id": "mkt:01a05aae-d74e-7118-8426-05680827255d",
+      "time": "2026-09-01 09:56:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama held a bilateral meeting with U.S. Treasury Secretary Bessent."
+    },
+    {
+      "id": "5069779",
+      "time": "2026-09-01 09:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門國貿投資成立智算科技公司 含多項AI業務】企查查APP顯示，近日，廈門國貿智算科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧通用應用系統；人工智慧公共資料平臺；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由廈門國貿等共同持股。"
+    },
     {
       "id": "5069778",
       "time": "2026-09-01 09:55:53",
@@ -119827,88 +119990,6 @@
         "AI Revolution"
       ],
       "text": "【China Consumers Association advises against relying solely on AI-generated content for pricing, contracts, after-sales and legal information】China Consumers Association issued an advisory urging consumers to treat generative AI as informational assistance only and not to rely solely on AI-generated content when making decisions on pricing, fees, contract terms, after-sales service or legal liability. It recommends verifying such material through service providers’ official channels, contract texts, regulators or other authoritative sources. The statement notes LLM-based generative AI is rapidly being embedded in consumer scenarios and can improve convenience and efficiency, but its outputs carry uncertainty and may be inaccurate, imprecise or inconsistent with actual commitments."
-    },
-    {
-      "id": "5056521",
-      "time": "2026-08-25 10:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中消協釋出消費提示：使用人工智慧服務需謹防誤導】中國消費者協會今天（25日）釋出人工智慧服務消費提示，提醒廣大消費者理性認識通用生成式人工智慧的資訊輔助和參考屬性，對涉及價格費用、合同條款、售後服務、法律責任等重要消費資訊，不宜僅依據人工智慧生成內容作出決定，應透過經營者官方渠道、合同文字、監管部門及其他權威渠道進行核實確認。目前，以大語言模型為核心的生成式人工智慧技術正加速融入消費生活各類場景。人工智慧在提升消費便利和服務效率的同時，因資訊生成具有一定不確定性，可能出現資訊不準確、表述不嚴謹、承諾與實際情況不一致等問題。（央視新聞）"
-    },
-    {
-      "id": "5056520",
-      "time": "2026-08-25 10:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇宿遷產品質量監督檢驗所通報白菜抽檢情況：目前所有樣品檢測均合格】“宿遷質檢”訊息，江蘇宿遷市產品質量監督檢驗所8月25日通報抽檢情況： 近期，我所開展白菜、金針菇等重點食用農產品風險抽檢。截至8月24日16時，全市共抽檢農批、農貿市場69家，完成快檢284批次、法檢17批次，目前所有樣品檢測結果均合格。 我所將持續加強重點食用農產品風險抽檢，切實保障群眾健康安全。"
-    },
-    {
-      "id": "mkt:01a036a5-7c2c-7aab-9102-fb54d3cbc02f",
-      "time": "2026-08-25 10:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【11th APEC Food Security Ministerial meets in Hangzhou, focuses on agri‑tech and digital agriculture】The 11th APEC Food Security Ministerial convened in Hangzhou, China, this morning. Senior representatives from 21 APEC economies, the APEC Secretariat and the UN Food and Agriculture Organization held policy dialogue on high‑quality agricultural and rural development, agricultural science and technology innovation, and digital agriculture to strengthen food security."
-    },
-    {
-      "id": "5056519",
-      "time": "2026-08-25 09:59:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【跨境支付概念走強 楚天龍漲停】跨境支付概念走強，楚天龍漲停，新晨科技漲超15%，海聯金匯、拉卡拉、信雅達、南天資訊等漲幅居前。"
-    },
-    {
-      "id": "5056518",
-      "time": "2026-08-25 09:58:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第十一屆APEC糧食安全部長級會議舉行 聚焦農業科技創新等議題】第十一屆APEC糧食安全部長級會議今天上午在浙江杭州舉行。作為APEC“中國年”系列活動之一，來自APEC21個經濟體和APEC秘書處、聯合國糧農組織等國際機構的高階別代表，將圍繞亞太區域農業農村高質量發展、科技創新和數字農業賦能糧食安全等議題，開展政策對話。"
-    },
-    {
-      "id": "mkt:01a036a3-aaf9-7aab-9102-f5e9aeb4b146",
-      "time": "2026-08-25 09:58:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Apple (AAPL.O) is preparing its first Mac mini update in nearly two years; the new desktop is expected to appear within days and could arrive before a September product event, people familiar with the matter said."
-    },
-    {
-      "id": "5056517",
-      "time": "2026-08-25 09:57:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【風電裝置板塊短線拉昇】風電裝置板塊短線拉昇，雙一科技漲超10%，德力佳、明陽智慧、威力傳動、盤古智慧、宏德股份等跟漲。"
-    },
-    {
-      "id": "5056516",
-      "time": "2026-08-25 09:57:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歐科億成立新公司 含AI軟體開發業務】企查查APP顯示，近日，浙江歐刃數控刀具有限公司成立，經營範圍包含：人工智慧應用軟體開發；新材料技術推廣服務；新材料技術研發；金屬製品研發等。企查查股權穿透顯示，該公司由歐科億(688308)全資持股。"
-    },
-    {
-      "id": "5056515",
-      "time": "2026-08-25 09:57:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內漲5%，現報8000.00元。"
-    },
-    {
-      "id": "5056514",
-      "time": "2026-08-25 09:56:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正裕工業等成立科技新公司 含多項AI業務】企查查APP顯示，近日，深圳躍幾科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由正裕工業(603089)等共同持股。"
     }
   ]
 }
