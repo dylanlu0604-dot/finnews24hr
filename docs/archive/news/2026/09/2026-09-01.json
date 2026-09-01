@@ -1,7 +1,74 @@
 {
   "date": "2026-09-01",
-  "count": 2122,
+  "count": 2130,
   "items": [
+    {
+      "id": "5071093",
+      "time": "2026-09-01 20:45:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非 8 月新車銷量同比增長 11.4%。"
+    },
+    {
+      "id": "mkt:01a05d00-32b5-7118-8437-a5402ca59c6c",
+      "time": "2026-09-01 20:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South African Automobile Association: New vehicle sales in South Africa rose 11.4% YoY in August to 57,898 units."
+    },
+    {
+      "id": "5071092",
+      "time": "2026-09-01 20:44:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【俄總統與伊朗總統會晤 稱美伊停火脆弱】據克里姆林宮網站9月1日訊息，俄羅斯總統普京與伊朗總統佩澤希齊揚在吉爾吉斯斯坦首都比什凱克市舉行會晤。普京在會晤期間表示，俄伊關係在所有方向上穩定發展。儘管面臨軍事政治局勢，俄伊兩國仍保持了去年的經貿關係勢頭。俄方正在向伊朗提供必要物資支援。普京還說，俄方曾歡迎伊朗與美國簽署備忘錄，但遺憾的是，停火是脆弱的。普京還請佩澤希齊揚向伊朗最高領袖穆傑塔巴·哈梅內伊轉達問候。俄方訊息稱，中東局勢是會談主要議題之一（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05cff-867b-7118-8437-98c130150796",
+      "time": "2026-09-01 20:44:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Putin meets PEZESHKIAN, says US‑Iran ceasefire fragile】The Kremlin said on Sept. 1 Putin met Iranian President PEZESHKIAN in Bishkek. Putin said Russia‑Iran ties are developing steadily across all areas and bilateral trade momentum from last year has been maintained despite military and political tensions. He said Russia is supplying Iran with necessary material support and that Moscow had welcomed a memorandum between Iran and the United States, but the ceasefire remains fragile. The Kremlin said the Middle East situation was a main topic of discussion."
+    },
+    {
+      "id": "mkt:01a05cff-671e-7118-8437-969a1f4bb114",
+      "time": "2026-09-01 20:43:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "CNH"
+      ],
+      "text": "【Shenzhen new and resale home sales +8.5% YoY in August】Shenzhen sold 6,864 new and resale residential units in August, up 8.5% YoY. China's National Bureau of Statistics said its new- and second-hand residential price index rose MoM for a fifth consecutive month, with the report saying the property market continued to show steady improvement."
+    },
+    {
+      "id": "5071091",
+      "time": "2026-09-01 20:43:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《牛來》票房超6000萬】據燈塔專業版實時資料，截至9月1日20時42分，影片《牛來》票房突破6000萬。"
+    },
+    {
+      "id": "5071090",
+      "time": "2026-09-01 20:43:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月深圳一二手住宅成交量同比增長8.5%】8月，深圳全市新建商品住宅和二手住宅合計成交6864套，同比增長8.5%，國家統計局釋出的一、二手住宅銷售價格指數連續5個月環比上漲，樓市持續保持穩固向好態勢。（深圳釋出）"
+    },
     {
       "id": "mkt:01a05cfe-7911-7118-8437-8eb5edf9b3ca",
       "time": "2026-09-01 20:42:55",
@@ -104,6 +171,15 @@
         "Importance 1"
       ],
       "text": "TSX Futures Decline on Higher Global Yields — Futures tracking Canadian stocks moved lower on Tuesday amid rising global bond yields. Renewed hostilities in the Middle East lifted oil prices, prompting markets to reassess expectations for interest rate hikes by central banks. US Fed Chair Warsh’s speech at Jackson Hole on Friday reiterated the central bank’s focus on fighting inflation, raising expectations for a rate hike this month. The BoC is expected to leave rates unchanged on Wednesday. Still, Canada’s 10-year yield reached a near two-week high. The backdrop pressured financials and other credit-sensitive stocks and weighed on gold prices, pressuring mining shares. Rallies in gold miners have been the main driver of the TSX’s recent monthly gains."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609013861693072",
+      "time": "2026-09-01 20:40:11",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委納格爾：未觀察到通脹出現第二輪效應】歐洲央行管委納格爾表示，核心通脹與服務業通脹回落是利好訊息，未觀察到通脹出現第二輪效應。"
     },
     {
       "id": "mkt:01a05cfb-b331-7118-8437-7e0688d90b40",
