@@ -1,7 +1,57 @@
 {
   "date": "2026-09-01",
-  "count": 2594,
+  "count": 2599,
   "items": [
+    {
+      "id": "5071422",
+      "time": "2026-09-01 23:52:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長：德國將收緊對俄羅斯公民的入境管控。"
+    },
+    {
+      "id": "5071421",
+      "time": "2026-09-01 23:52:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國銀行一名副總裁在曼哈頓持刀襲擊中遇害】一名持刀嫌疑人週一在美國時報廣場刺死美國銀行業務遴選與利益衝突副總裁艾琳·皮亞琴蒂，此次襲擊還造成另一名受害者受傷，嫌疑人隨後死亡。據紐約市警察局訊息，艾琳·皮亞琴蒂因刺傷傷勢在醫院不治身亡。據其領英資料顯示，皮亞琴蒂生前擔任美國銀行業務遴選與利益衝突副總裁。"
+    },
+    {
+      "id": "5071420",
+      "time": "2026-09-01 23:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：以色列國防軍今日抓獲哈馬斯內部安全部門負責人。"
+    },
+    {
+      "id": "te:markets:580134",
+      "time": "2026-09-01 23:50:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Tuesday — The FTSE 100 fell 0.4% on Tuesday, although it outperformed the Euro Stoxx 50. Mining stocks were among the biggest decliners, with Endeavour and Fresnillo dropping more than 5% each as gold and silver prices retreated. Higher expectations for future interest rates weighed on non-yielding precious metals, while Antofagasta and Anglo American also fell 5.4% and 3.8%, respectively. Rolls-Royce declined more than 4%. In contrast, energy stocks rallied strongly as oil prices climbed, with Shell and BP advancing 2.6% and 5.7%. Brent crude rose above $92 a barrel, reinforcing concerns that elevated energy costs could prolong inflationary pressures. Domestic data added to those concerns, as British Retail Consortium figures showed UK shop price inflation accelerating to a two-year high of 1.5% in August, while food inflation reached 2.8%. Meanwhile, Nationwide reported that UK house prices increased 0.2% in August, slightly faster than in July and ahead of expectations."
+    },
+    {
+      "id": "mkt:01a05daa-400a-7118-843e-802799208118",
+      "time": "2026-09-01 23:50:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple's new CEO John Ternus joins Weibo and posts first message】John Ternus, who recently assumed the role of Apple CEO, joined Weibo on Sept 1 (local time) and posted hello in both Chinese and English."
+    },
     {
       "id": "5071419",
       "time": "2026-09-01 23:49:34",
