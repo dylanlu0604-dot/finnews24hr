@@ -1,7 +1,125 @@
 {
-  "updated": "2026-09-01 20:06:00",
-  "count": 12301,
+  "updated": "2026-09-01 20:10:20",
+  "count": 12298,
   "items": [
+    {
+      "id": "mkt:01a05cdf-ccb6-7118-8436-6aa3bb58b85f",
+      "time": "2026-09-01 20:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Li Lecheng meets US-China Business Council board delegation】Sept 1, Beijing — MIIT minister Li Lecheng met a US-China Business Council board delegation led by chairman McCain. Li said Presidents Xi and Trump have established a new “constructive strategic stability” positioning and urged MIIT to work with US counterparts to implement summit conclusions, prioritizing practical cooperation in new-energy vehicles (NEVs), information technology, artificial intelligence and healthcare to bolster bilateral ties. He invited more US firms to maintain and expand operations in China and deepen industry and supply‑chain cooperation. McCain thanked MIIT for its support to US companies and said the council will encourage members to expand China engagement."
+    },
+    {
+      "id": "5071013",
+      "time": "2026-09-01 20:09:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "靛藍集團：Indigo Ventures 投資 Sarvam 以強化人工智慧技術。"
+    },
+    {
+      "id": "5071012",
+      "time": "2026-09-01 20:08:56",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "日媒：G20 會議期間，日本央行行長與美國財政部長貝森特舉行會晤。"
+    },
+    {
+      "id": "5071011",
+      "time": "2026-09-01 20:07:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【李樂成會見美中貿易全國委員會董事會代表團】9月1日，工業和資訊化部部長李樂成在北京會見美中貿易全國委員會董事會主席麥凱恩率領的代表團。雙方就加強新能源汽車、資訊科技、人工智慧、醫藥健康等領域合作進行了交流。李樂成表示，習近平主席和特朗普總統共同確定“中美建設性戰略穩定關係”新定位，為下階段中美關係作出了重要戰略指引。工業和資訊化部願同美方落實兩國元首會晤共識，加強務實合作，為雙邊關係發展打造更多堅實支撐。希望美中貿易全國委員會繼續做好兩國溝通對話的橋樑，為中美產業合作和經貿往來健康發展創造良好條件，也歡迎更多美資企業堅定在華髮展信心，持續深耕中國市場，充分發揮自身優勢，深化產業鏈與供應鏈合作，實現互利共贏。麥凱恩感謝工業和資訊化部長期以來為美資企業在華開展業務提供的支援，並表示將積極引導會員企業繼續拓展對華合作，為促進中美經貿合作作出更大努力。工業和資訊化部有關司局負責人參加會見。（工信部）"
+    },
+    {
+      "id": "5071010",
+      "time": "2026-09-01 20:06:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【龍版傳媒：AI影片業務未產生營業收入】龍版傳媒公告，公司股票2026年8月31日、2026年9月1日連續兩個交易日收盤價格漲幅偏離值累計超過20%，構成交易異常波動。公司生產經營正常，未發現應披露而未披露的重大事項；公司主營出版、印刷、發行及數字出版等業務，AI影片業務未產生營業收入。"
+    },
+    {
+      "id": "5071009",
+      "time": "2026-09-01 20:06:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度煤炭公司：8月非調控領域煤炭供應量同比增長9.6%，至1212萬噸。"
+    },
+    {
+      "id": "5071008",
+      "time": "2026-09-01 20:06:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯糧食出口量或將激增 出口商已改道波羅的海周邊港口】俄羅斯正在緊急尋找黑海港口之外的出口路線，據分析師稱，糧食出口商開始將貨物改道運往波羅的海，這可能將緩解全球市場的供應壓力。行業資料顯示，2025年7月至2026年6月的出口季中，俄羅斯透過亞速海和黑海港口出口了4630萬噸糧食，佔俄羅斯海運糧食出口總量的90%。而俄羅斯波羅的海港口的糧食出口量僅約100萬噸。業內人士表示，截至8月18日，本季俄羅斯在波羅的海港口的鐵路糧食運輸需求量已達500萬噸，其主要用於8月和9月的出口交付，而黑海港口新羅西斯克和圖阿普謝的糧食運輸需求量僅為600萬噸。"
+    },
+    {
+      "id": "mkt:01a05cdd-0192-7118-8436-66bb350699a4",
+      "time": "2026-09-01 20:06:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian said the U.S. has no right to impose sanctions and that such measures violate international law."
+    },
+    {
+      "id": "5071007",
+      "time": "2026-09-01 20:06:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度煤炭公司：8月面向電力行業的煤炭供應量同比增長4.5%，至4846萬噸。"
+    },
+    {
+      "id": "5071006",
+      "time": "2026-09-01 20:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陳旭因輪值安排不再擔任看準科技總裁，張濤接任】看準科技有限公司9月1日公告，自2026年9月1日起，陳旭因輪值安排不再擔任公司總裁。陳旭將繼續擔任執行董事，並重新出任公司首席營銷官一職。自2026年9月1日起，張濤已獲委任為公司輪值總裁，。張濤的任期自2026年9月1日起至2027年8月31日止。張濤將繼續擔任執行董事及公司技術長並向公司創始人、董事長兼執行長趙鵬彙報工作。"
+    },
+    {
+      "id": "5071005",
+      "time": "2026-09-01 20:05:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統對俄羅斯總統普京表示：美國無權實施制裁，此舉違反國際法。"
+    },
+    {
+      "id": "5071004",
+      "time": "2026-09-01 20:05:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【工業網際網路ETF易方達：9月2日起在深交所上市交易】工業網際網路ETF易方達公告稱，易方達中證工業網際網路主題交易型開放式指數證券投資基金於2026年9月2日開始在深圳證券交易所上市交易，基金程式碼為158027，設定10%漲跌幅限制，上市首日以基金份額參考淨值0.999元為開盤參考價。截至2026年9月1日，該基金投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的99.08%，投資組合比例符合相關規定及基金合同約定。"
+    },
+    {
+      "id": "5071003",
+      "time": "2026-09-01 20:05:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統對俄羅斯總統普京表示：我們能夠抵抗美國單邊主義。"
+    },
+    {
+      "id": "mkt:01a05cdc-4599-7118-8436-5e061833c257",
+      "time": "2026-09-01 20:05:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said Russia can resist U.S. unilateralism."
+    },
     {
       "id": "mkt:01a05cdc-2e63-7118-8436-54ab8aeaf36e",
       "time": "2026-09-01 20:05:28",
@@ -9,6 +127,14 @@
         "MKT News"
       ],
       "text": "U.S. geothermal company Fervo Energy said it will give Google (GOOG.O) an option to expand a power purchase agreement by 600 MW to nearly 1 GW, exercisable before June 2030."
+    },
+    {
+      "id": "5071002",
+      "time": "2026-09-01 20:05:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：直覺機器公司簽下兩艘航天器平臺訂單。"
     },
     {
       "id": "5071001",
@@ -112699,164 +112825,6 @@
         "Impact bullish"
       ],
       "text": "China Taiping (00966.HK) 1H life-insurance business profit HK$16.682 billion, up 101.5% YoY, mainly driven by stronger insurance service results and higher net investment income versus a year earlier."
-    },
-    {
-      "id": "5058049",
-      "time": "2026-08-25 20:10:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三菱汽車北美公司：三菱汽車將把其美國市場產品線從目前的4款車型擴充至2027年的6款車型。"
-    },
-    {
-      "id": "mkt:01a038d3-fd35-7aab-9111-6ee80fe9037d",
-      "time": "2026-08-25 20:10:11",
-      "tags": [
-        "MKT News",
-        "00966.HK",
-        "Impact bullish"
-      ],
-      "text": "China Taiping (00966.HK) said 1H insurance service revenue was HK$12.876 billion, up 4.5% YoY, driven mainly by stronger life-insurance performance versus the year-ago period."
-    },
-    {
-      "id": "mkt:01a038d3-e857-7aab-9111-63d117189422",
-      "time": "2026-08-25 20:10:06",
-      "tags": [
-        "MKT News",
-        "00966.HK",
-        "Impact bullish"
-      ],
-      "text": "China Taiping (00966.HK) said 1H profit attributable to shareholders was HKD12.873 billion, up 90.3% YoY, driven by stronger insurance service results and higher investment returns versus a year earlier."
-    },
-    {
-      "id": "5058048",
-      "time": "2026-08-25 20:09:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國太平：上半年股東應占溢利128.73億港元，同比增長90.3%，主要原因為保險服務業績及投資回報均較去年同期上升。"
-    },
-    {
-      "id": "5058047",
-      "time": "2026-08-25 20:09:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙政府提議修改移民與庇護相關法律。"
-    },
-    {
-      "id": "5058046",
-      "time": "2026-08-25 20:08:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國太平：上半年保險收入589.3億港元。"
-    },
-    {
-      "id": "mkt:01a038d2-a0b3-7aab-9111-58e4c6a259a9",
-      "time": "2026-08-25 20:08:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India: domestic demand remains strong; system liquidity improved in July and August."
-    },
-    {
-      "id": "mkt:01a038d2-7dff-7aab-9111-51b9f77f7f2d",
-      "time": "2026-08-25 20:08:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India said outstanding net forward sell positions stood at $103.33 billion at end-June."
-    },
-    {
-      "id": "5058045",
-      "time": "2026-08-25 20:08:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國太平：上半年淨利潤128.7億港元。"
-    },
-    {
-      "id": "5058044",
-      "time": "2026-08-25 20:08:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "三菱汽車北美公司：全新日蝕Cross電動SUV將於今秋推出，2027年第一季度將推出衍生車型。"
-    },
-    {
-      "id": "mkt:01a038d1-bdee-7aab-9111-4f2b5d29e6eb",
-      "time": "2026-08-25 20:07:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India says liquidity conditions have eased, supporting credit growth and sustained investment activity."
-    },
-    {
-      "id": "5058043",
-      "time": "2026-08-25 20:07:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國化學工程深化雲貴戰略佈局，積極探索合作新模式】據中國化學工程訊息，8月24日-25日，中國化學工程黨委副書記、總經理鄧兆敬在貴州、雲南開展系列商務活動，分別與貴州磷化集團、雲天化集團、雲南化工設計院有關負責人舉行會談，就深化戰略合作、共謀綠色發展進行深入交流。在與貴州磷化集團黨委副書記、副董事長、總經理李紅林會談中，雙方圍繞磷化工產業發展、磷石膏資源化利用等議題進行研討。雙方表示，將強化技術協同，佈局高附加值新材料領域。在與雲天化集團黨委書記、董事長劉和興會談中，雙方就境內外工程、技術研發、中試轉化等議題進行深入交流並達成合作共識。雙方表示，將進一步拓展合作空間，共同探索“工程建設+產業投資”聯合出海模式。在與雲南化工設計院黨委書記、董事長李若松會談中，雙方表示，將圍繞溼法磷酸技術、新能源磷酸鐵鋰及磷石膏制酸等領域，積極探索合作新模式，實現資源優勢互補，共謀綠色發展。"
-    },
-    {
-      "id": "5058042",
-      "time": "2026-08-25 20:07:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海鷗住工：福清曜鴻擬受讓公司5.01%股份】海鷗住工公告稱，公司股東中餘投資有限公司與福清曜鴻企業管理合夥企業（有限合夥）簽署《股份轉讓協議》，擬透過協議轉讓方式向福清曜鴻轉讓其持有的公司無限售流通股3236.74萬股，佔公司總股本的5.01%，轉讓總價款為2.00億元，摺合每股約6.19元。本次權益變動前福清曜鴻未持有公司股份，變動後其持股比例為5.01%。本次轉讓尚需深圳證券交易所合規性確認，之後辦理股份過戶手續。福清曜鴻未來12個月內無繼續增減持公司股份的明確計劃。"
-    },
-    {
-      "id": "5058041",
-      "time": "2026-08-25 20:07:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪擔任 Gemini 金融服務板塊的首發合作方。"
-    },
-    {
-      "id": "mkt:01a038d0-f176-7aab-9111-41ad7ab407bf",
-      "time": "2026-08-25 20:06:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google has selected Rezolve AI's proprietary distributed database technology after an extensive technical evaluation."
-    },
-    {
-      "id": "5058040",
-      "time": "2026-08-25 20:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：外資流入反彈，強化外部安全緩衝。"
-    },
-    {
-      "id": "5058039",
-      "time": "2026-08-25 20:06:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪將其決策級情報引入面向金融服務業的Gemini企業平臺。"
-    },
-    {
-      "id": "mkt:01a038d0-8d5c-7aab-9111-392666a1d9fb",
-      "time": "2026-08-25 20:06:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of India says the global economy faces a fragile geopolitical backdrop and persistent trade-related uncertainty; India’s domestic economy has shown notable resilience amid ongoing global headwinds."
     }
   ]
 }
