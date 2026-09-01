@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-02 06:48:29",
-  "count": 12652,
+  "updated": "2026-09-02 06:52:28",
+  "count": 12654,
   "items": [
+    {
+      "id": "5071792",
+      "time": "2026-09-02 06:50:54",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 07:00 韓國8月CPI；\n② 時間待定 SEMICON Taiwan國際半導體展；\n③ 09:30 日本央行審議委員高田創講話；\n④ 09:30 澳大利亞二季度GDP；\n⑤ 10:00 紐西蘭聯儲釋出官方現金利率（OCR）和貨幣政策宣告；；\n⑥ 11:00 紐西蘭聯儲發主席Breman舉行新聞釋出會；\n⑦ 15:10 歐洲央行管委Wunsch講話；\n⑧ 20:15 美國8月ADP就業人數（小非農）；\n⑨ 21:45 加拿大央行公佈利率決定；\n⑩ 22:00 美國7月耐用品訂單終值，7月工廠訂單；\n⑪ 22:30 美國能源資訊署（EIA）釋出\n⑫ 次日02:00 美聯儲釋出褐皮書；\n⑬ 美股盤後 博通、Snowflake、C3.ai、惠與（HPE）釋出業績報告。"
+    },
+    {
+      "id": "te:economy:580187",
+      "time": "2026-09-02 06:50:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Building Permits Drop 4.3% in July — Building consents for new dwellings in New Zealand fell 4.3% month-on-month in July 2026, following an upwardly revised 3.7% drop in June, marking the fourth decline so far this year. A total of 3,579 new dwellings were consented, including 1,769 stand-alone houses, 1,567 townhouses, 196 apartments, and 47 retirement village units."
+    },
+    {
+      "id": "mkt:01a05f2a-93ee-7118-8447-e507366002f0",
+      "time": "2026-09-02 06:50:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said temporarily elevated energy prices will fall as energy recedes and larger real-wage gains will also decline; economic growth is the most important factor for bond yields."
+    },
+    {
+      "id": "mkt:01a05f2a-53e6-7118-8447-dd1aeb548de0",
+      "time": "2026-09-02 06:50:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. embassy in Qatar issues security alert citing risk of escalation】On the evening of Sept. 1 local time the U.S. embassy in Qatar issued a security alert saying Middle East tensions have left the security environment complex and unpredictable and that an escalation is possible. It warned U.S. citizens in the region to remain vigilant and flagged possible flight cancellations, airspace closures and travel disruptions, advising travelers to monitor airport and airline operations."
+    },
+    {
+      "id": "mkt:01a05f29-25f8-7118-8447-d09e8201c8b9",
+      "time": "2026-09-02 06:48:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry issued a potential-threat alert, urging citizens and residents to proceed to the nearest safe location."
+    },
     {
       "id": "5071791",
       "time": "2026-09-02 06:47:29",
@@ -115883,32 +115936,6 @@
         "國際"
       ],
       "text": "【里士滿聯儲行長：美國越堆越高的債務總有一天要被算總賬】里士滿聯邦儲備銀行行長Tom Barkin表示，如果美國債務持續加重最終會迎來算總賬的一天，但何時到來很難預測。他被問及已突破40萬億美元的美國公共債務時說，只要有人買政府就可以繼續發債。但Barkin又說，存在投資者開始抵制的風險。“總有一天會算總賬的，但沒人能告訴你什麼時候，” 他週二在北卡羅來納夏洛特的一次活動上說，“我們有全球貨幣，有法治，這些都是人們持續買債的原因。但是，要知道，到了某個時點，大家會不再買你的債了，這就是風險所在。”活動結束後，Barkin在接受採訪時表示，美聯儲7月的利率決策是“勢均力敵”的結果。他解釋說，推遲調整利率的原因之一是，在9月15至16日的下次議息會議之前決策層還能獲得兩個月的經濟資料。"
-    },
-    {
-      "id": "5058562",
-      "time": "2026-08-26 06:50:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4730美元/盎司，日內漲0.76%。"
-    },
-    {
-      "id": "5058561",
-      "time": "2026-08-26 06:50:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【監管持續加碼，私募基金行業扶優限劣提速】今年以來，監管部門對私募基金違法違規行為保持從嚴態勢，罰單數量明顯增加。同花順iFinD資料顯示，截至8月25日，年內私募機構收到中國證監會、各地證監局及中國證券投資基金業協會開具的罰單（含行政處罰、行政監管措施、自律措施）數量達1808張，較2025年同期大幅增長。其中，協會開出的自律措施1631張；證監會及各地證監局開出的行政監管措施144張、行政處罰33張。（證券日報）"
-    },
-    {
-      "id": "5058560",
-      "time": "2026-08-26 06:49:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：據政府官員等透露，韓國總統李在明將會見三星電子Jay Y. Lee和現代汽車Euisun Chung。"
     }
   ]
 }

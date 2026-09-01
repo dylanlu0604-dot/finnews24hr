@@ -1,7 +1,60 @@
 {
   "date": "2026-09-02",
-  "count": 658,
+  "count": 663,
   "items": [
+    {
+      "id": "5071792",
+      "time": "2026-09-02 06:50:54",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 07:00 韓國8月CPI；\n② 時間待定 SEMICON Taiwan國際半導體展；\n③ 09:30 日本央行審議委員高田創講話；\n④ 09:30 澳大利亞二季度GDP；\n⑤ 10:00 紐西蘭聯儲釋出官方現金利率（OCR）和貨幣政策宣告；；\n⑥ 11:00 紐西蘭聯儲發主席Breman舉行新聞釋出會；\n⑦ 15:10 歐洲央行管委Wunsch講話；\n⑧ 20:15 美國8月ADP就業人數（小非農）；\n⑨ 21:45 加拿大央行公佈利率決定；\n⑩ 22:00 美國7月耐用品訂單終值，7月工廠訂單；\n⑪ 22:30 美國能源資訊署（EIA）釋出\n⑫ 次日02:00 美聯儲釋出褐皮書；\n⑬ 美股盤後 博通、Snowflake、C3.ai、惠與（HPE）釋出業績報告。"
+    },
+    {
+      "id": "te:economy:580187",
+      "time": "2026-09-02 06:50:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "New Zealand Building Permits Drop 4.3% in July — Building consents for new dwellings in New Zealand fell 4.3% month-on-month in July 2026, following an upwardly revised 3.7% drop in June, marking the fourth decline so far this year. A total of 3,579 new dwellings were consented, including 1,769 stand-alone houses, 1,567 townhouses, 196 apartments, and 47 retirement village units."
+    },
+    {
+      "id": "mkt:01a05f2a-93ee-7118-8447-e507366002f0",
+      "time": "2026-09-02 06:50:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said temporarily elevated energy prices will fall as energy recedes and larger real-wage gains will also decline; economic growth is the most important factor for bond yields."
+    },
+    {
+      "id": "mkt:01a05f2a-53e6-7118-8447-dd1aeb548de0",
+      "time": "2026-09-02 06:50:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. embassy in Qatar issues security alert citing risk of escalation】On the evening of Sept. 1 local time the U.S. embassy in Qatar issued a security alert saying Middle East tensions have left the security environment complex and unpredictable and that an escalation is possible. It warned U.S. citizens in the region to remain vigilant and flagged possible flight cancellations, airspace closures and travel disruptions, advising travelers to monitor airport and airline operations."
+    },
+    {
+      "id": "mkt:01a05f29-25f8-7118-8447-d09e8201c8b9",
+      "time": "2026-09-02 06:48:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry issued a potential-threat alert, urging citizens and residents to proceed to the nearest safe location."
+    },
     {
       "id": "5071791",
       "time": "2026-09-02 06:47:29",
