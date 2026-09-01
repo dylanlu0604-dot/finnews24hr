@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-02 00:21:01",
-  "count": 12383,
+  "updated": "2026-09-02 00:25:10",
+  "count": 12381,
   "items": [
+    {
+      "id": "5071446",
+      "time": "2026-09-02 00:24:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報94.12美元/桶。"
+    },
+    {
+      "id": "5071445",
+      "time": "2026-09-02 00:23:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理下令，在庫爾德斯坦地區加大勘探力度，從而在今後至2030年這段時期擴大石油產量和出口能力。"
+    },
+    {
+      "id": "5071444",
+      "time": "2026-09-02 00:23:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破94美元/桶，日內漲3.88%。"
+    },
+    {
+      "id": "mkt:01a05dc8-2eed-7118-843f-2f4f1edee403",
+      "time": "2026-09-02 00:23:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Supply schedules show the five North Sea crude grades that underlie benchmark Brent crude pricing are expected to average 498,000 b/d in October, up from 467,000 b/d in September."
+    },
+    {
+      "id": "mkt:01a05dc7-bfec-7118-843f-2227ab102017",
+      "time": "2026-09-02 00:22:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV cited a U.S. official saying the U.S. carried out strikes near al-Abbas port."
+    },
+    {
+      "id": "5071443",
+      "time": "2026-09-02 00:22:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "排程計劃顯示，構成布倫特現貨基準的五種北海原油品級，10 月供應量將平均為 49.8 萬桶 / 日（9 月為 46.7 萬桶 / 日）。"
+    },
+    {
+      "id": "5071442",
+      "time": "2026-09-02 00:20:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報669.10元。"
+    },
     {
       "id": "mkt:01a05dc5-3705-7118-843f-1885213bdcaf",
       "time": "2026-09-02 00:20:00",
@@ -113400,90 +113464,6 @@
         "Brent"
       ],
       "text": "Oman’s foreign minister said he hopes a temporary corridor arrangement for the Strait of Hormuz and specific measures to restore safe navigation will be announced soon."
-    },
-    {
-      "id": "5058387",
-      "time": "2026-08-26 00:24:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿曼外交部長：依照《伊斯蘭堡備忘錄》第五條，霍爾木茲海峽的未來管理方案及永久解決辦法將在適當時機推進落實。"
-    },
-    {
-      "id": "5058386",
-      "time": "2026-08-26 00:24:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿曼外交部長：將與地區夥伴進行討論，以支援和平與合作、穩定及航行自由。"
-    },
-    {
-      "id": "5058385",
-      "time": "2026-08-26 00:24:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿曼外交部長：很快將宣佈霍爾木茲海峽臨時通行通道以及恢復航行安全的實操安排。"
-    },
-    {
-      "id": "5058384",
-      "time": "2026-08-26 00:24:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大報復清單：覆蓋逾700種美國商品 關稅從15%到50%】加拿大將自9月8日起對700多種美國商品徵收15%、25%和50%的反制關稅。\n將被徵收50%關稅的美國商品包括鋼材、鋁、傢俱、高爾夫球杆、服裝和服飾。\n反制措施適用於價值276億加元（摺合199億美元）的美國進口產品，重點針對乳製品、家電、農用裝置、紙漿和紙張以及電子產品。\n美元金額基於2024年的進口資料。\n主要商品類別包括：\n鋼鋁製品（50%）\n魚類和水產品（25%）\n牛奶、奶油和乳清（50%）\n乳酪和凝乳（25%）\n蜂蜜、糖蜜和麥芽提取物（50%）\n香水和美容產品（50%）\n膠合板（50%）\n衛生紙、面巾紙、其它紙張和紙板（25%或50%）\n地毯（25%）\n服裝（50%）\n家用電器，例如爐灶、冰箱、洗碗機和洗衣/烘乾機（25%）\n散熱器/暖氣片（25%）、空調（15%）和熱水器（25%）\n機械和工具（25%或50%）\n餐具（25%）\n農用裝置（15% 或 25%）\n智慧手機、顯示器和影片遊戲機（50%）\n鐵路機車（25%）\n摩托車（50%）和拖車（25%）\n傢俱和燈具（25% 或 50%）\n高爾夫球杆、健身器材和釣魚竿（50%）。"
-    },
-    {
-      "id": "mkt:01a039bc-4942-7aab-9117-2b5181b6db65",
-      "time": "2026-08-26 00:23:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the United States is set to make substantial financial gains in the Middle East and Gulf region."
-    },
-    {
-      "id": "mkt:01a039bb-b6a6-7aab-9117-255577295487",
-      "time": "2026-08-26 00:23:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Iran's leadership has acknowledged economic pressure is working, and the Trump administration will continue cutting off economic lifelines supporting the Iranian regime until Tehran is isolated."
-    },
-    {
-      "id": "5058383",
-      "time": "2026-08-26 00:22:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國即將在中東及海灣地區大賺一筆。"
-    },
-    {
-      "id": "te:markets:578021",
-      "time": "2026-08-26 00:21:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes at Over 1-Week High — The DAX 40 closed about 0.6% firmer at 26,285 on Tuesday, the highest in over a week, amid easing Middle East concerns and as technology stocks recovered ahead of the highly anticipated Nvidia earnings report. Positive domestic GDP and business confidence data also boosted sentiment. US Treasury Secretary Scott Bessent provided few details on potential measures to increase pressure on Iran, while speculation over a possible return of US officials to negotiations raised hopes for renewed diplomatic engagement. Industrials, tech and utilities led sectoral gains. Among individual stocks, Scout24 led the way, climbing 4.5%, followed by Siemens Energy (3.2%). The German energy technology company gained following reports that it is working with Goldman Sachs ahead of potential offers for a majority stake in its steam turbine business. Other top performers included Zalando, Infineon Technologies, Siemens, Bayer, RWE and Heidelberg Materials, rising between 1.6% and 2.1%."
-    },
-    {
-      "id": "5058382",
-      "time": "2026-08-26 00:21:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【柬埔寨湄公河流域遭遇洪災】柬埔寨國家災害管理委員會發言人8月25日表示，受颱風“沙德爾”影響，該國北部桔井省、特本克蒙省、上丁省和磅湛省的湄公河流域自上週末以來遭受嚴重洪災。（新華社）"
     }
   ]
 }

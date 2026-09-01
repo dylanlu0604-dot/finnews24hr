@@ -1,7 +1,71 @@
 {
   "date": "2026-09-02",
-  "count": 45,
+  "count": 52,
   "items": [
+    {
+      "id": "5071446",
+      "time": "2026-09-02 00:24:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報94.12美元/桶。"
+    },
+    {
+      "id": "5071445",
+      "time": "2026-09-02 00:23:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理下令，在庫爾德斯坦地區加大勘探力度，從而在今後至2030年這段時期擴大石油產量和出口能力。"
+    },
+    {
+      "id": "5071444",
+      "time": "2026-09-02 00:23:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破94美元/桶，日內漲3.88%。"
+    },
+    {
+      "id": "mkt:01a05dc8-2eed-7118-843f-2f4f1edee403",
+      "time": "2026-09-02 00:23:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Supply schedules show the five North Sea crude grades that underlie benchmark Brent crude pricing are expected to average 498,000 b/d in October, up from 467,000 b/d in September."
+    },
+    {
+      "id": "mkt:01a05dc7-bfec-7118-843f-2227ab102017",
+      "time": "2026-09-02 00:22:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV cited a U.S. official saying the U.S. carried out strikes near al-Abbas port."
+    },
+    {
+      "id": "5071443",
+      "time": "2026-09-02 00:22:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "排程計劃顯示，構成布倫特現貨基準的五種北海原油品級，10 月供應量將平均為 49.8 萬桶 / 日（9 月為 46.7 萬桶 / 日）。"
+    },
+    {
+      "id": "5071442",
+      "time": "2026-09-02 00:20:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報669.10元。"
+    },
     {
       "id": "mkt:01a05dc5-3705-7118-843f-1885213bdcaf",
       "time": "2026-09-02 00:20:00",
