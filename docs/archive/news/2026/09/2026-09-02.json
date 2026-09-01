@@ -1,7 +1,165 @@
 {
   "date": "2026-09-02",
-  "count": 765,
+  "count": 781,
   "items": [
+    {
+      "id": "mkt:01a05f64-d74d-7118-8449-55ef193cc231",
+      "time": "2026-09-02 07:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency statement urged the IMF, World Bank Group and OECD to support its efforts with further analysis and policy recommendations."
+    },
+    {
+      "id": "mkt:01a05f64-9088-7118-8449-4e9524390602",
+      "time": "2026-09-02 07:53:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "G20 presidency statement said AI is a general-purpose technology that could have far-reaching effects on the global economy."
+    },
+    {
+      "id": "mkt:01a05f64-6f00-7118-8449-40b551492e54",
+      "time": "2026-09-02 07:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency said central bank independence is vital for effective implementation of monetary policy."
+    },
+    {
+      "id": "mkt:01a05f64-40ca-7118-8449-38381002520a",
+      "time": "2026-09-02 07:53:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Putin: Ukraine talks stalled, Russia will not conduct new mobilization】On the evening of the 1st, Russian President Putin said negotiations on Ukraine have stalled and dismissed reports that Moscow would announce a new round of mobilization after the State Duma (lower house) election as baseless. He said Russia seeks a lasting, comprehensive peace in Ukraine and Europe and is ready to negotiate with any willing parties. Putin added that any military facilities in Ukraine, including those linked to the UK, are legitimate targets for Russian forces."
+    },
+    {
+      "id": "5071855",
+      "time": "2026-09-02 07:53:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：7月貨幣政策會議以來公佈的資料大致符合我們在7季度報告中所作的預期。"
+    },
+    {
+      "id": "5071854",
+      "time": "2026-09-02 07:53:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：資料與展望報告中的預測一致。"
+    },
+    {
+      "id": "mkt:01a05f63-454f-7118-8449-3325d08c4e75",
+      "time": "2026-09-02 07:52:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said the G20 meeting is a good opportunity to deepen participants' understanding of the importance of coordinated FX intervention."
+    },
+    {
+      "id": "mkt:01a05f62-be3b-7118-8449-2f0cb0c25ed0",
+      "time": "2026-09-02 07:51:41",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA declined to comment on day-to-day market moves, saying markets have already priced in a strong likelihood of a September rate hike."
+    },
+    {
+      "id": "em:jjsj_rbsj:202609023862059132",
+      "time": "2026-09-02 07:51:27",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月基礎貨幣同比下降15.7%，前值-13.80%。"
+    },
+    {
+      "id": "5071853",
+      "time": "2026-09-02 07:51:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：就市場定價反映9月加息機率極高一事，不對每日市場波動置評。"
+    },
+    {
+      "id": "5071852",
+      "time": "2026-09-02 07:50:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：對9月份會議決議不予置評。"
+    },
+    {
+      "id": "mkt:01a05f61-b536-7118-8449-2750d61493e4",
+      "time": "2026-09-02 07:50:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she will not comment on specific exchange-rate levels."
+    },
+    {
+      "id": "mkt:01a05f61-9725-7118-8449-1c03dd2201a6",
+      "time": "2026-09-02 07:50:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan monetary base YoY -15.7% in August, prior -13.8%."
+    },
+    {
+      "id": "mkt:01a05f61-7e8c-7118-8449-15d67bc16a1d",
+      "time": "2026-09-02 07:50:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Base money growth rate (YoY) (Aug) | actual -15.7% | previous -13.80%"
+    },
+    {
+      "id": "mkt:01a05f61-7078-7118-8449-0ba89fe549ad",
+      "time": "2026-09-02 07:50:16",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama told the G20 that US-Japan foreign-exchange intervention is consistent with G7 commitments."
+    },
+    {
+      "id": "5071851",
+      "time": "2026-09-02 07:50:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本8月基礎貨幣同比 -15.7%，前值 -13.8%。"
+    },
     {
       "id": "5071850",
       "time": "2026-09-02 07:50:02",

@@ -1,7 +1,165 @@
 {
-  "updated": "2026-09-02 07:50:42",
-  "count": 12686,
+  "updated": "2026-09-02 07:54:29",
+  "count": 12696,
   "items": [
+    {
+      "id": "mkt:01a05f64-d74d-7118-8449-55ef193cc231",
+      "time": "2026-09-02 07:53:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency statement urged the IMF, World Bank Group and OECD to support its efforts with further analysis and policy recommendations."
+    },
+    {
+      "id": "mkt:01a05f64-9088-7118-8449-4e9524390602",
+      "time": "2026-09-02 07:53:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "G20 presidency statement said AI is a general-purpose technology that could have far-reaching effects on the global economy."
+    },
+    {
+      "id": "mkt:01a05f64-6f00-7118-8449-40b551492e54",
+      "time": "2026-09-02 07:53:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency said central bank independence is vital for effective implementation of monetary policy."
+    },
+    {
+      "id": "5071855",
+      "time": "2026-09-02 07:53:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：7月貨幣政策會議以來公佈的資料大致符合我們在7季度報告中所作的預期。"
+    },
+    {
+      "id": "mkt:01a05f64-40ca-7118-8449-38381002520a",
+      "time": "2026-09-02 07:53:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Putin: Ukraine talks stalled, Russia will not conduct new mobilization】On the evening of the 1st, Russian President Putin said negotiations on Ukraine have stalled and dismissed reports that Moscow would announce a new round of mobilization after the State Duma (lower house) election as baseless. He said Russia seeks a lasting, comprehensive peace in Ukraine and Europe and is ready to negotiate with any willing parties. Putin added that any military facilities in Ukraine, including those linked to the UK, are legitimate targets for Russian forces."
+    },
+    {
+      "id": "5071854",
+      "time": "2026-09-02 07:53:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：資料與展望報告中的預測一致。"
+    },
+    {
+      "id": "mkt:01a05f63-454f-7118-8449-3325d08c4e75",
+      "time": "2026-09-02 07:52:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said the G20 meeting is a good opportunity to deepen participants' understanding of the importance of coordinated FX intervention."
+    },
+    {
+      "id": "mkt:01a05f62-be3b-7118-8449-2f0cb0c25ed0",
+      "time": "2026-09-02 07:51:41",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Bank of Japan Governor UEDA declined to comment on day-to-day market moves, saying markets have already priced in a strong likelihood of a September rate hike."
+    },
+    {
+      "id": "em:jjsj_rbsj:202609023862059132",
+      "time": "2026-09-02 07:51:27",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本8月基礎貨幣同比下降15.7%，前值-13.80%。"
+    },
+    {
+      "id": "5071853",
+      "time": "2026-09-02 07:51:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：就市場定價反映9月加息機率極高一事，不對每日市場波動置評。"
+    },
+    {
+      "id": "5071852",
+      "time": "2026-09-02 07:50:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：對9月份會議決議不予置評。"
+    },
+    {
+      "id": "mkt:01a05f61-b536-7118-8449-2750d61493e4",
+      "time": "2026-09-02 07:50:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she will not comment on specific exchange-rate levels."
+    },
+    {
+      "id": "mkt:01a05f61-9725-7118-8449-1c03dd2201a6",
+      "time": "2026-09-02 07:50:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan monetary base YoY -15.7% in August, prior -13.8%."
+    },
+    {
+      "id": "mkt:01a05f61-7e8c-7118-8449-15d67bc16a1d",
+      "time": "2026-09-02 07:50:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Base money growth rate (YoY) (Aug) | actual -15.7% | previous -13.80%"
+    },
+    {
+      "id": "mkt:01a05f61-7078-7118-8449-0ba89fe549ad",
+      "time": "2026-09-02 07:50:16",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama told the G20 that US-Japan foreign-exchange intervention is consistent with G7 commitments."
+    },
+    {
+      "id": "5071851",
+      "time": "2026-09-02 07:50:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本8月基礎貨幣同比 -15.7%，前值 -13.8%。"
+    },
     {
       "id": "5071850",
       "time": "2026-09-02 07:50:02",
@@ -116203,60 +116361,6 @@
         "公司"
       ],
       "text": "【Waymo將在德國慕尼黑啟動自動駕駛測試，計劃明年底前正式上線出行服務】Alphabet旗下自動駕駛公司Waymo當地時間8月25日表示，將於未來幾周內在德國慕尼黑開始測試自動駕駛車輛，計劃2027年底前正式上線該服務。該公司稱，已就在德國提供服務所需的監管審批事宜與地方、州和聯邦官員接洽。Waymo另外表示，計劃投資當地車隊運營，並在於慕尼黑推出服務前創造高技能就業崗位。"
-    },
-    {
-      "id": "5058620",
-      "time": "2026-08-26 07:53:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上市公司併購重組湧現新亮點 硬科技領域重組交易熱度不減】 政策暖風頻吹，近期A股上市公司併購重組市場湧現出諸多新亮點：部分擬IPO公司轉向併購賽道，硬科技領域重組交易熱度不減，併購基金加速落地，併購重組成為上市公司做強核心主業、搶佔新興賽道的重要路徑。南開大學金融學教授田利輝指出，政策紅利與產業需求形成共振效應，資本市場服務實體經濟的正規化正在發生變化，驅動併購邏輯從規模擴張轉向價值整合，併購重組拓寬上市公司產業升級路徑，推動產業鏈向高階化、國際化躍遷。"
-    },
-    {
-      "id": "5058619",
-      "time": "2026-08-26 07:53:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【經濟日報金觀平：系統佈局擴內需促消費】日前，經國務院批覆同意印發的《擴大消費“十五五”規劃》提出，要“堅持擴大內需這個戰略基點”“更好發揮消費對經濟發展的基礎性作用”，這表明消費作為國民經濟基礎、推動經濟增長重要引擎的作用更加突出，也反映出當前我國經濟增長動力機制從投資和出口驅動向內需消費主導的深刻轉型。對消費的重視有著深刻的宏觀背景與現實緊迫性。當前全球貿易保護主義抬頭，外需不確定性明顯增加，依靠外部市場拉動增長的空間受到擠壓，必須立足國內需求掌握髮展主動權。我國已進入工業化、城鎮化中後期，大規模基建投資邊際效用遞減，而居民消費率較發達經濟體仍有差距，消費潛力尚未充分釋放。\n\n超大規模市場是我國經濟發展的重要優勢。更好發揮消費對經濟發展的基礎性作用，關鍵在於跳出短期思維，打好需求側增收減負與供給側提質適配的組合拳。在需求側，要夯實居民消費能力根基，推動居民收入增長與經濟增長同步，健全工資合理增長機制，增加財產性收入渠道，同時透過最佳化教育、醫療、養老等公共服務供給降低預防性儲蓄動機，讓居民能消費、敢消費。在供給側，要以服務消費擴容和業態創新匹配升級需求，推動“人工智慧＋消費”、綠色消費等新場景供給，以高標準質量體系倒逼商品服務升級，解決供需錯配導致的消費外流與意願不足。在制度側，需加快清理抑制消費的不合理限制，完善財政金融協同支援機制，落實休假制度保障消費時間，推動消費與投資良性互動，使有效投資更多投向消費基礎設施與民生短板。(經濟日報)"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608263853698894",
-      "time": "2026-08-26 07:51:20",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月企業服務價格指數同比上漲3.6%，前值3.20%。"
-    },
-    {
-      "id": "5058618",
-      "time": "2026-08-26 07:51:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞維多利亞州開啟本國首輪海上風電拍賣】澳大利亞維多利亞州已啟動該國首場海上風電拍賣，但外界對該州能否實現這項可再生能源的宏大目標仍存質疑。州政府在一份宣告中表示，2 吉瓦海上風電專案的提案徵集流程已於週三啟動，該專案發電量足以滿足約 150 萬戶家庭用電需求。拍賣將於明年 8 月截止，相關合同將在 2027 年下半年敲定。"
-    },
-    {
-      "id": "mkt:01a03b55-61fb-7aab-911c-060653108fac",
-      "time": "2026-08-26 07:50:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan July corporate services price index MoM +0.4%; prior -0.4%."
-    },
-    {
-      "id": "mkt:01a03b55-518c-7aab-911b-fc01c6778d21",
-      "time": "2026-08-26 07:50:42",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Japan corporate services price index YoY 3.6% in July, up from 3.2% previously."
     }
   ]
 }
