@@ -1,7 +1,193 @@
 {
   "date": "2026-09-01",
-  "count": 727,
+  "count": 747,
   "items": [
+    {
+      "id": "5069761",
+      "time": "2026-09-01 09:48:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊異動拉昇 華林證券觸及漲停】證券板塊異動拉昇，華林證券觸及漲停，華林證券、國元證券、湘財股份、廣發證券、東方財富跟漲。"
+    },
+    {
+      "id": "mkt:01a05aa6-b6ce-7118-8425-a57b1f987aa4",
+      "time": "2026-09-01 09:47:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share brokerage stocks briefly spiked, with Hualin Securities jumping to the daily limit, Guosheng Securities up over 3%, and Xiangcai, Guoyuan Securities and GF Securities also rising."
+    },
+    {
+      "id": "te:markets:579749",
+      "time": "2026-09-01 09:47:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Traders Assess Fed Outlook — The dollar index steadied around 99.5 on Tuesday after declining in the previous session, as investors continued to assess prospects for Federal Reserve interest rate hikes following hawkish comments from Chair Kevin Warsh and rising oil prices. Investors are also bracing for a busy economic calendar, with the latest US manufacturing and services activity data due later today, ahead of the highly anticipated August jobs report on Friday. Warsh said on Friday that the Fed will “have work to do” if policymakers lack sufficient confidence that inflation is moving toward 2%, signaling the potential for an imminent rate increase to curb persistent price pressures. Markets are now pricing in a more than 65% chance of a September hike, up from around 36% before his remarks. Meanwhile, oil prices climbed for a second straight day after US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan."
+    },
+    {
+      "id": "5069760",
+      "time": "2026-09-01 09:47:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7815.20點。"
+    },
+    {
+      "id": "5069759",
+      "time": "2026-09-01 09:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部：正在加快推進中國—東盟自貿區3.0版升級議定書國核心準工作】國新辦舉行介紹中國—東盟經貿合作情況暨第23屆中國—東盟博覽會、中國—東盟商務與投資峰會有關情況的新聞釋出會。商務部副部長鄢東介紹瞭如何落實中國—東盟自貿區3.0版升級議定書、推動自貿區3.0版本建設的舉措。一是推動各方履行國核心準程式。目前，中國與東盟各國正在加快推進議定書的國核心準工作。我們將與東盟各成員國共同努力推動議定書儘早生效實施，打造包容、現代、全面和互利的自貿協定。二是助力企業捕獲商機紅利，我們積極支援各地立足自身實際，對照企業“需求清單”制定“服務列表”，多措並舉為企業做好服務。組織開展針對性政策宣講與專題培訓，幫助企業充分理解、精準抓住自貿區3.0版政策紅利。推動自貿區3.0版合作共識轉化為企業可感知、可落地的市場機遇。例如，我們透過3.0版升級議定書為促進雙方標準對接建立制度保障。同時，積極推動海關程式與貿易便利化進一步升級，以便雙方企業包括中小企業能夠享受更多貿易便利化措施，實現雙方共贏。三是促進自貿區3.0版與區域全面經濟夥伴關係協定協同發展。中方將與東盟方攜手共促兩大協定協同落地，推動雙方經貿合作向更深層次、更高水平邁進。第23屆東博會將舉辦兩大協定協同發展高階對話活動，深入挖掘二者的協同潛力，共同探索務實合作路徑。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a05aa5-5e41-7118-8425-9ce1d1e13037",
+      "time": "2026-09-01 09:46:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China money-market app 7-day annualized yields】Tencent Licaitong (current+) 7-day annualized yield 0.7030%–1.1540%; WeChat Lingqian Tong 0.8690%–1.0760%; Alipay Yu'e Bao 0.9000%–1.0570%."
+    },
+    {
+      "id": "5069758",
+      "time": "2026-09-01 09:46:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《深圳經濟特區促進腦機介面產業創新發展若干規定》公開徵求意見】其中提到，市人民政府應當將腦機介面產業發展納入本市國民經濟和社會發展規劃和科技創新專項規劃，建立健全促進腦機介面產業發展的議事協調機制，統籌協調腦機介面技術創新、產業發展、行業應用、安全治理等方面的重要事項。市人民政府應當保障腦機介面基礎研究領域的持續投入，支援各類創新主體開展腦機介面前沿交叉基礎研究。市科技創新部門應當聚焦腦機介面產業關鍵核心環節，以工業製造、醫療健康、生活消費等方面需求為導向，支援企業聯合高等院校、科研機構、醫療機構等組建創新聯合體，開展腦機介面核心技術攻關，加快腦機介面產品應用落地。"
+    },
+    {
+      "id": "mkt:01a05aa5-4a2d-7118-8425-90264f94f499",
+      "time": "2026-09-01 09:46:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shenzhen opens public consultation on draft rules to promote brain–computer interface industry innovation】Shenzhen has opened public consultation on draft regulations to promote innovation in the brain–computer interface (BCI) industry. The draft requires the municipal government to incorporate BCI development into the city’s economic and social development plans and its special science and technology innovation plans, and to establish and strengthen a coordination mechanism to oversee major matters in BCI technology innovation, industrial development, sectoral applications and safety governance."
+    },
+    {
+      "id": "5069757",
+      "time": "2026-09-01 09:46:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勁旅環境成立智行科技公司 含AI及機器人業務】企查查APP顯示，近日，勁旅智行（深圳）科技有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧理論與演算法軟體開發；智慧機器人的研發等。企查查股權穿透顯示，該公司由勁旅環境全資持股。"
+    },
+    {
+      "id": "mkt:01a05aa5-0b8c-7118-8425-88377cf0773d",
+      "time": "2026-09-01 09:46:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's budget minister said Seoul proposed a 3.4 trillion won allocation for nuclear submarines and strategic weapons."
+    },
+    {
+      "id": "5069756",
+      "time": "2026-09-01 09:45:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量242億元。"
+    },
+    {
+      "id": "mkt:01a05aa4-c90f-7118-8425-86e8866fbf8f",
+      "time": "2026-09-01 09:45:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share property sector opened lower then rallied; Wo Ai Wo Jia hit the daily limit, Xincheng Holdings rose over 4%, and Tiandiyuan, Xiangjiang Holdings, Joy City Property, Gemdale Group and Rongsheng Development also advanced."
+    },
+    {
+      "id": "5069755",
+      "time": "2026-09-01 09:45:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念震盪下挫 華特氣體跌近10%】早盤電子特氣概念震盪下挫，華特氣體跌超10%，昊華科技、中船特氣、廣鋼氣體、和遠氣體、金宏氣體等跟跌。"
+    },
+    {
+      "id": "5069754",
+      "time": "2026-09-01 09:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國擬撥款3.4萬億韓元用於核潛艇和戰略武器專案。"
+    },
+    {
+      "id": "5069753",
+      "time": "2026-09-01 09:45:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "RATINGDOG中國8月份製造業PMI報51.5 預估51.0。"
+    },
+    {
+      "id": "mkt:01a05aa4-32b2-7118-8425-7eab4ef7e322",
+      "time": "2026-09-01 09:45:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China August RatingDog manufacturing PMI 51.5, expected 51.0, prior 50.9."
+    },
+    {
+      "id": "mkt:01a05aa4-1e61-7118-8425-75058a7a0d74",
+      "time": "2026-09-01 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (Aug) | actual 51.5 | consensus 51 | previous 50.9"
+    },
+    {
+      "id": "5069752",
+      "time": "2026-09-01 09:44:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "百度港股下跌2.6%，至93.70港元。"
+    },
+    {
+      "id": "5069751",
+      "time": "2026-09-01 09:44:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將撥款162.3萬億韓元用於未來應對基金。"
+    },
+    {
+      "id": "mkt:01a05aa3-a6df-7118-8425-6eec45af3401",
+      "time": "2026-09-01 09:44:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's budget minister said the government has proposed a KRW 26 trillion earmarked special budget for the semiconductor industry in 2027."
+    },
     {
       "id": "5069750",
       "time": "2026-09-01 09:43:58",

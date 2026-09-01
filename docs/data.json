@@ -1,7 +1,193 @@
 {
-  "updated": "2026-09-01 09:44:48",
-  "count": 13120,
+  "updated": "2026-09-01 09:48:45",
+  "count": 13121,
   "items": [
+    {
+      "id": "5069761",
+      "time": "2026-09-01 09:48:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證券板塊異動拉昇 華林證券觸及漲停】證券板塊異動拉昇，華林證券觸及漲停，華林證券、國元證券、湘財股份、廣發證券、東方財富跟漲。"
+    },
+    {
+      "id": "mkt:01a05aa6-b6ce-7118-8425-a57b1f987aa4",
+      "time": "2026-09-01 09:47:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share brokerage stocks briefly spiked, with Hualin Securities jumping to the daily limit, Guosheng Securities up over 3%, and Xiangcai, Guoyuan Securities and GF Securities also rising."
+    },
+    {
+      "id": "te:markets:579749",
+      "time": "2026-09-01 09:47:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Traders Assess Fed Outlook — The dollar index steadied around 99.5 on Tuesday after declining in the previous session, as investors continued to assess prospects for Federal Reserve interest rate hikes following hawkish comments from Chair Kevin Warsh and rising oil prices. Investors are also bracing for a busy economic calendar, with the latest US manufacturing and services activity data due later today, ahead of the highly anticipated August jobs report on Friday. Warsh said on Friday that the Fed will “have work to do” if policymakers lack sufficient confidence that inflation is moving toward 2%, signaling the potential for an imminent rate increase to curb persistent price pressures. Markets are now pricing in a more than 65% chance of a September hike, up from around 36% before his remarks. Meanwhile, oil prices climbed for a second straight day after US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan."
+    },
+    {
+      "id": "5069760",
+      "time": "2026-09-01 09:47:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7815.20點。"
+    },
+    {
+      "id": "5069759",
+      "time": "2026-09-01 09:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部：正在加快推進中國—東盟自貿區3.0版升級議定書國核心準工作】國新辦舉行介紹中國—東盟經貿合作情況暨第23屆中國—東盟博覽會、中國—東盟商務與投資峰會有關情況的新聞釋出會。商務部副部長鄢東介紹瞭如何落實中國—東盟自貿區3.0版升級議定書、推動自貿區3.0版本建設的舉措。一是推動各方履行國核心準程式。目前，中國與東盟各國正在加快推進議定書的國核心準工作。我們將與東盟各成員國共同努力推動議定書儘早生效實施，打造包容、現代、全面和互利的自貿協定。二是助力企業捕獲商機紅利，我們積極支援各地立足自身實際，對照企業“需求清單”制定“服務列表”，多措並舉為企業做好服務。組織開展針對性政策宣講與專題培訓，幫助企業充分理解、精準抓住自貿區3.0版政策紅利。推動自貿區3.0版合作共識轉化為企業可感知、可落地的市場機遇。例如，我們透過3.0版升級議定書為促進雙方標準對接建立制度保障。同時，積極推動海關程式與貿易便利化進一步升級，以便雙方企業包括中小企業能夠享受更多貿易便利化措施，實現雙方共贏。三是促進自貿區3.0版與區域全面經濟夥伴關係協定協同發展。中方將與東盟方攜手共促兩大協定協同落地，推動雙方經貿合作向更深層次、更高水平邁進。第23屆東博會將舉辦兩大協定協同發展高階對話活動，深入挖掘二者的協同潛力，共同探索務實合作路徑。（澎湃新聞）"
+    },
+    {
+      "id": "5069758",
+      "time": "2026-09-01 09:46:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《深圳經濟特區促進腦機介面產業創新發展若干規定》公開徵求意見】其中提到，市人民政府應當將腦機介面產業發展納入本市國民經濟和社會發展規劃和科技創新專項規劃，建立健全促進腦機介面產業發展的議事協調機制，統籌協調腦機介面技術創新、產業發展、行業應用、安全治理等方面的重要事項。市人民政府應當保障腦機介面基礎研究領域的持續投入，支援各類創新主體開展腦機介面前沿交叉基礎研究。市科技創新部門應當聚焦腦機介面產業關鍵核心環節，以工業製造、醫療健康、生活消費等方面需求為導向，支援企業聯合高等院校、科研機構、醫療機構等組建創新聯合體，開展腦機介面核心技術攻關，加快腦機介面產品應用落地。"
+    },
+    {
+      "id": "mkt:01a05aa5-5e41-7118-8425-9ce1d1e13037",
+      "time": "2026-09-01 09:46:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China money-market app 7-day annualized yields】Tencent Licaitong (current+) 7-day annualized yield 0.7030%–1.1540%; WeChat Lingqian Tong 0.8690%–1.0760%; Alipay Yu'e Bao 0.9000%–1.0570%."
+    },
+    {
+      "id": "mkt:01a05aa5-4a2d-7118-8425-90264f94f499",
+      "time": "2026-09-01 09:46:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shenzhen opens public consultation on draft rules to promote brain–computer interface industry innovation】Shenzhen has opened public consultation on draft regulations to promote innovation in the brain–computer interface (BCI) industry. The draft requires the municipal government to incorporate BCI development into the city’s economic and social development plans and its special science and technology innovation plans, and to establish and strengthen a coordination mechanism to oversee major matters in BCI technology innovation, industrial development, sectoral applications and safety governance."
+    },
+    {
+      "id": "5069757",
+      "time": "2026-09-01 09:46:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勁旅環境成立智行科技公司 含AI及機器人業務】企查查APP顯示，近日，勁旅智行（深圳）科技有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧理論與演算法軟體開發；智慧機器人的研發等。企查查股權穿透顯示，該公司由勁旅環境全資持股。"
+    },
+    {
+      "id": "mkt:01a05aa5-0b8c-7118-8425-88377cf0773d",
+      "time": "2026-09-01 09:46:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's budget minister said Seoul proposed a 3.4 trillion won allocation for nuclear submarines and strategic weapons."
+    },
+    {
+      "id": "5069756",
+      "time": "2026-09-01 09:45:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量242億元。"
+    },
+    {
+      "id": "5069755",
+      "time": "2026-09-01 09:45:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念震盪下挫 華特氣體跌近10%】早盤電子特氣概念震盪下挫，華特氣體跌超10%，昊華科技、中船特氣、廣鋼氣體、和遠氣體、金宏氣體等跟跌。"
+    },
+    {
+      "id": "mkt:01a05aa4-c90f-7118-8425-86e8866fbf8f",
+      "time": "2026-09-01 09:45:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share property sector opened lower then rallied; Wo Ai Wo Jia hit the daily limit, Xincheng Holdings rose over 4%, and Tiandiyuan, Xiangjiang Holdings, Joy City Property, Gemdale Group and Rongsheng Development also advanced."
+    },
+    {
+      "id": "5069754",
+      "time": "2026-09-01 09:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國擬撥款3.4萬億韓元用於核潛艇和戰略武器專案。"
+    },
+    {
+      "id": "5069753",
+      "time": "2026-09-01 09:45:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "RATINGDOG中國8月份製造業PMI報51.5 預估51.0。"
+    },
+    {
+      "id": "mkt:01a05aa4-32b2-7118-8425-7eab4ef7e322",
+      "time": "2026-09-01 09:45:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China August RatingDog manufacturing PMI 51.5, expected 51.0, prior 50.9."
+    },
+    {
+      "id": "mkt:01a05aa4-1e61-7118-8425-75058a7a0d74",
+      "time": "2026-09-01 09:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (Aug) | actual 51.5 | consensus 51 | previous 50.9"
+    },
+    {
+      "id": "5069752",
+      "time": "2026-09-01 09:44:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "百度港股下跌2.6%，至93.70港元。"
+    },
+    {
+      "id": "5069751",
+      "time": "2026-09-01 09:44:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將撥款162.3萬億韓元用於未來應對基金。"
+    },
+    {
+      "id": "mkt:01a05aa3-a6df-7118-8425-6eec45af3401",
+      "time": "2026-09-01 09:44:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's budget minister said the government has proposed a KRW 26 trillion earmarked special budget for the semiconductor industry in 2027."
+    },
     {
       "id": "5069750",
       "time": "2026-09-01 09:43:58",
@@ -119602,178 +119788,6 @@
         "焦點"
       ],
       "text": "對二甲苯連續主力合約日內漲4%，現報8498.00元。"
-    },
-    {
-      "id": "5056498",
-      "time": "2026-08-25 09:48:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "mkt:01a0369a-c667-7aab-9102-d5b571168e3f",
-      "time": "2026-08-25 09:48:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Tech Index losses widened to 1%; HSI down 0.18%."
-    },
-    {
-      "id": "te:markets:577723",
-      "time": "2026-08-25 09:48:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Decline — The benchmark KOSPI fell nearly 2% to around 6,570 on Tuesday, extending losses for a second straight session, as a selloff in global technology shares weighed on Korean chipmakers. Samsung Electronics and SK hynix fell more than 3% and 6%, respectively, amid renewed concerns over the profitability of AI-related investments and ahead of Nvidia’s earnings report, due Wednesday. Additionally, Samsung’s disappointing shareholder-return plan pressured the market after its shares plunged 8.7% on Monday, with investors expecting a larger payout and clearer plans for share buybacks and cancellations. Other notable declines were recorded in SK Square (-6.7%), LG Energy Solution (-3.3%), Hyundai Mobis (-2.3%), LG Electronics (-3.9%), and LS Electric (-3.9%). Separately, attention turned to the Bank of Korea’s policy meeting on Thursday, with a slim majority of economists expecting a 25-basis-point rate hike to 3.00% following last month’s surprise increase to 2.75%."
-    },
-    {
-      "id": "5056497",
-      "time": "2026-08-25 09:48:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲4%，現報9134.00元。"
-    },
-    {
-      "id": "5056496",
-      "time": "2026-08-25 09:48:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京住房公積金月繳存基數上限上調】8月24日，北京住房公積金管理中心釋出《關於2026住房公積金年度繳存有關問題的通知》。在2026住房公積金年度中，住房公積金月繳存基數上限為36348元，對比2025年上調537元；下限為2540元，與2025年度保持一致。按照12%的繳存比例，最高每月可繳存8724元，比去年度的上限增加了130元。      2026住房公積金年度是指2026年7月1日至2027年6月30日，公積金各項基數的調整，也從7月1日開始。2026住房公積金年度繼續執行5%至12%的繳存比例政策。繳存單位可根據自身情況在規定範圍內自主確定具體繳存比例。"
-    },
-    {
-      "id": "5056495",
-      "time": "2026-08-25 09:48:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西14條河流20個站出現超警洪水】據廣西水文中心監測，8月24日8時至25日8時，桂林、梧州、貴港、崇左、賀州、來賓及南寧等市部分地區降大到暴雨，局地大暴雨，日雨量最大的點為桂林市全州縣大西江鎮151.5毫米。廣西共有左江及支流黑水河、憑祥河，明江及支流公安河、派連河、思州河，平而河，北侖河等14條河流20個站出現超警0.37～7.69米的洪水，其中鬱江發生2026年第2號洪水。"
-    },
-    {
-      "id": "5056494",
-      "time": "2026-08-25 09:48:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4547.570點；恒生指數現跌0.171%。"
-    },
-    {
-      "id": "5056493",
-      "time": "2026-08-25 09:47:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為將釋出新一代三摺疊】8月25日，據華為終端訊息，華為新一代三摺疊旗艦手機華為MateXT 2定檔9月7日釋出，系非凡大師系列三摺疊產品的迭代升級之作，將首發搭載HarmonyOS7。"
-    },
-    {
-      "id": "5056492",
-      "time": "2026-08-25 09:46:48",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【道交法修訂草案新增自動駕駛汽車專章規定】8月25日提請十四屆全國人大常委會會議初次審議的道路交通安全法修訂草案，設定了“自動駕駛汽車的特別規定”專章，明確了自動駕駛汽車和輔助駕駛功能的概念，並明確自動駕駛汽車在自動駕駛功能啟用狀態下發生道路交通安全違法行為的，由自動駕駛汽車生產企業、進口企業接受處理。未啟用自動駕駛功能的自動駕駛汽車和駕駛僅具備輔助駕駛功能的汽車上道路行駛，按照非自動駕駛汽車的規定管理。（新華社）"
-    },
-    {
-      "id": "mkt:01a03699-28a4-7aab-9102-ca91bc32ef32",
-      "time": "2026-08-25 09:46:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China draft adds autonomous-driving chapter to Road Traffic Safety Law】A draft amendment to China’s Road Traffic Safety Law, submitted to the 14th National People’s Congress Standing Committee for first review on Aug. 25, creates a special chapter on autonomous vehicles and defines autonomous and assisted driving functions. The draft says traffic-safety breaches that occur while an autonomous driving function is activated will be enforced against the vehicle’s manufacturer or importer; vehicles with the autonomous function not activated, and vehicles that only have assisted driving, will be regulated as conventional (non-autonomous) vehicles."
-    },
-    {
-      "id": "5056491",
-      "time": "2026-08-25 09:46:36",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【道交法修訂草案明確“盲駕”“暴走團”等治理措施】8月25日提請十四屆全國人大常委會會議初次審議的道路交通安全法修訂草案明確，對撥打或者接聽手持電話、觀看影片等妨礙安全駕駛行為並造成交通事故或者其他嚴重後果的，處200元以上500元以下罰款，可以並處暫扣三個月機動車駕駛證。對於佔用道路影響通行的“暴走團”等，草案規定，未經許可，任何單位或者個人不得佔用道路從事非交通活動。（新華社）"
-    },
-    {
-      "id": "5056490",
-      "time": "2026-08-25 09:46:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2％，成分股中，華潤微跌7.06％，拓荊科技跌6.74％，滬矽產業跌6.63％，晶合整合跌5.88％。"
-    },
-    {
-      "id": "5056489",
-      "time": "2026-08-25 09:46:13",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【反跨境腐敗法草案首次提請全國人大常委會會議審議】反跨境腐敗法草案25日提請十四屆全國人大常委會第二十四次會議首次審議。草案共六章四十七條，主要內容包括明確我國反跨境腐敗工作的原則、範圍和主張；明確反跨境腐敗工作機制和職責；強化案件辦理和國際合作；明確企業廉潔合規義務；明確法律責任。(新華社)"
-    },
-    {
-      "id": "5056488",
-      "time": "2026-08-25 09:46:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥板塊區域性異動 冀衡醫藥直線漲停】早盤醫藥板塊區域性異動，冀衡醫藥直線漲停，譽衡藥業觸及漲停，西點藥業、辰欣藥業、隴神戎發、新光藥業等跟漲。"
-    },
-    {
-      "id": "5056487",
-      "time": "2026-08-25 09:46:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.02%，現報3362.459點；上證指數跌0.73%，現報3853.855點；深證成指跌1.52%，現報13585.232點。"
-    },
-    {
-      "id": "5056486",
-      "time": "2026-08-25 09:45:54",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【道交法修訂草案擬調整電動腳踏車限速】8月25日提請十四屆全國人大常委會會議初次審議的道路交通安全法修訂草案，將電動腳踏車在非機動車道內行駛時的最高時速限制從15公里調整為20公里，並且明確規定駕駛電動腳踏車在道路上行駛不得有逆向行駛、超速行駛、違反交通訊號通行以及撥打或者接聽手持電話、觀看影片等行為。同時，草案規定電動腳踏車的駕駛人和乘車人應當按照規定戴安全頭盔。（新華社）"
-    },
-    {
-      "id": "mkt:01a03698-102f-7aab-9102-c31b73f93502",
-      "time": "2026-08-25 09:45:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China draft road-traffic law raises e-bike speed limit to 20 km/h】China's draft amendment to the Road Traffic Safety Law, submitted on Aug. 25 to the 14th National People's Congress Standing Committee for initial review, would raise the maximum speed for electric bicycles in non-motorized lanes from 15 km/h to 20 km/h. The draft also bans riding against traffic, speeding, running traffic signals, and using hand-held phones or watching videos while riding, and requires riders and passengers to wear safety helmets."
-    },
-    {
-      "id": "5056485",
-      "time": "2026-08-25 09:45:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豪恩汽電與Microchip Technology深化ASA-ML生態戰略合作】據豪恩汽電訊息，豪恩汽電與半導體供應商Microchip Technology近期圍繞Automotive SerDes Alliance Motion Link（ASA-ML）生態系統達成技術戰略合作。基於其在ASA-ML高速連線方面的技術路線圖，豪恩汽電已正式加入ASA-ML生態，並將與Microchip攜手，助力在中國及全球市場加速部署標準化、高安全性、高速的座艙內及ADAS感知連線解決方案。"
-    },
-    {
-      "id": "te:markets:577722",
-      "time": "2026-08-25 09:45:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "China Mobile Stock Price Hits 5-week Low — China Mobile shares decreased to 80.00 HKD, the lowest since July 2026. Over the past 4 weeks, China Mobile lost 0.18%, and in the last 12 months, it decreased 8.85%."
     }
   ]
 }
