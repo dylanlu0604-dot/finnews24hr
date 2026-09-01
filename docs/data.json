@@ -1,7 +1,220 @@
 {
-  "updated": "2026-09-01 21:05:32",
+  "updated": "2026-09-01 21:09:49",
   "count": 12320,
   "items": [
+    {
+      "id": "mkt:01a05d16-5b2d-7118-8438-908880c4c4c0",
+      "time": "2026-09-01 21:09:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NIO CFO Qu Yu expects per-vehicle costs to rise 2,000-3,000 yuan in H2】NIO CFO Qu Yu said at the company’s interim results meeting that cost pressures are significant: since March memory chips, bulk materials and battery costs have risen, and unit cost in Q2 was about 14,000 yuan higher than at the end of last year. He expects materials could add a further 2,000-3,000 yuan per vehicle in H2. NIO’s target is to keep unit gross margin in Q3 and Q4 at Q2 levels."
+    },
+    {
+      "id": "5071153",
+      "time": "2026-09-01 21:07:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蔚來汽車曲玉：預計下半年單車成本將繼續上漲2000-3000元】蔚來汽車首席財務官曲玉今日在公司半年報業績會上表示，今年成本端壓力較大，3月開始，記憶體、大宗材料和電池的成本均所上升，二季度單車成本較去年年底平均上漲1.4萬元左右。下半年材料成本有繼續上漲的風險，預計會在2000-3000元。“蔚來的目標是三、四季度的單車毛利能夠維持二季度水平。” (財聯社)"
+    },
+    {
+      "id": "5071152",
+      "time": "2026-09-01 21:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列銀行：勞動力市場依舊緊張。"
+    },
+    {
+      "id": "mkt:01a05d14-3577-7118-8438-88af0b287197",
+      "time": "2026-09-01 21:06:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CNH"
+      ],
+      "text": "【China crude-complex front-month futures strengthen】Front-month contracts on China’s energy futures complex led by SC crude, up 3.00% at 656.3 yuan/bbl; low-sulfur fuel oil (LU) +2.86% at 5,178 yuan/tonne; fuel oil +3.07% at 3,926 yuan/tonne; bitumen +2.08% at 5,006 yuan/tonne."
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861712219",
+      "time": "2026-09-01 21:06:38",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲巴爾：若通脹不能儘快放緩 則到了該加息的時候】美聯儲巴爾表示，若通脹不能儘快放緩，則到了該加息的時候。"
+    },
+    {
+      "id": "5071151",
+      "time": "2026-09-01 21:06:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Meta美股盤前跌超2%】Meta美股盤前跌超2%，現報560.66美元。"
+    },
+    {
+      "id": "mkt:01a05d13-ebc8-7118-8438-80218384f7a3",
+      "time": "2026-09-01 21:06:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor BARR said if data trends convince him that inf is moving toward the 2% target, reassessing the policy stance may take time."
+    },
+    {
+      "id": "mkt:01a05d13-da1a-7118-8438-7b29115d1ef6",
+      "time": "2026-09-01 21:06:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Barr said sustained inflation above target poses risks."
+    },
+    {
+      "id": "5071150",
+      "time": "2026-09-01 21:06:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行：未售房屋庫存保持穩定，仍處於高位。"
+    },
+    {
+      "id": "mkt:01a05d13-c93f-7118-8438-75fd4bf09e61",
+      "time": "2026-09-01 21:06:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Governor Barr said if inflation does not slow quickly, it will be time to raise interest rates."
+    },
+    {
+      "id": "5071149",
+      "time": "2026-09-01 21:06:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：若確信通脹正在緩和，則傾向於維持利率穩定。"
+    },
+    {
+      "id": "5071148",
+      "time": "2026-09-01 21:05:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：勞動力市場保持穩定，失業率處於低位。"
+    },
+    {
+      "id": "mkt:01a05d13-6f51-7118-8438-6c86fef30b5d",
+      "time": "2026-09-01 21:05:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Fed governor Barr said the labor market is stable and the unemployment rate remains low."
+    },
+    {
+      "id": "te:markets:580067",
+      "time": "2026-09-01 21:05:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Nickel Hits 7-week Low — Nickel decreased to 16570.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Nickel lost 3.57%, and in the last 12 months, it increased 8.9%."
+    },
+    {
+      "id": "5071147",
+      "time": "2026-09-01 21:05:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：受人工智慧投資提振，經濟正穩健增長。"
+    },
+    {
+      "id": "mkt:01a05d13-4898-7118-8438-60fb1de2fce9",
+      "time": "2026-09-01 21:05:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Governor Barr: economic growth 'solid', driven by AI investment."
+    },
+    {
+      "id": "mkt:01a05d13-36b7-7118-8438-5df64a992531",
+      "time": "2026-09-01 21:05:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Barr said inflation remains too high and he would be inclined to hold policy rates steady if confident that inflation is moderating."
+    },
+    {
+      "id": "5071146",
+      "time": "2026-09-01 21:05:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：若通脹不能很快緩和，就是加息的時候了。"
+    },
+    {
+      "id": "5071145",
+      "time": "2026-09-01 21:05:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：通脹持續高於目標水平將帶來風險。"
+    },
+    {
+      "id": "5071144",
+      "time": "2026-09-01 21:05:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3925.00元。"
+    },
     {
       "id": "mkt:01a05d12-8584-7118-8438-510f20759a28",
       "time": "2026-09-01 21:04:49",
@@ -112835,199 +113048,6 @@
         "MKT News"
       ],
       "text": "Iran's Tasnim News Agency reports Pakistan Army chief Munir is seeking to create space for dialogue between Iran and the United States."
-    },
-    {
-      "id": "te:economy:577972",
-      "time": "2026-08-25 21:09:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Case Shiller Home Price Index YoY",
-        "Importance 2"
-      ],
-      "text": "US Home Prices Rise at Fastest Pace in a Year — The S&P Cotality Case-Shiller 20-City Home Price Index rose 2.1% year-over-year in June 2026, accelerating from 1.6% in May and exceeding expectations of 1.7%. The annual increase was the strongest since June 2025. However, after adjusting for inflation, home prices fell for a 13th consecutive month, as 3.5% inflation outpaced nominal price growth. Chicago continued to lead the gains, with prices up 6.9% year-over-year, followed by New York at 4.8% and Cleveland at 4.1%. In contrast, Seattle recorded the largest decline at 2.0%, followed by Las Vegas (-1.9%) and Denver (-1.2%), highlighting the continued divergence between stronger Northeast and Midwest markets and softer Western and Sunbelt markets."
-    },
-    {
-      "id": "5058179",
-      "time": "2026-08-25 21:09:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息，穆尼爾試圖為伊朗與美國對話創造空間。"
-    },
-    {
-      "id": "mkt:01a0390a-68c8-7aab-9113-534f9bdde977",
-      "time": "2026-08-25 21:09:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US June S&P/Case-Shiller 20-City Home Price Index, not seasonally adjusted (NSA) 350.2; prior 348.62."
-    },
-    {
-      "id": "mkt:01a0390a-489f-7aab-9113-4d08269bfe78",
-      "time": "2026-08-25 21:09:30",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 20-City Composite Unadjusted Home Price Index (Jun) | actual 350.2 | previous 348.62"
-    },
-    {
-      "id": "5058178",
-      "time": "2026-08-25 21:09:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "CELERA SEMICONDUCTOR宣佈完成 3000 萬美元 B 輪融資。"
-    },
-    {
-      "id": "5058177",
-      "time": "2026-08-25 21:08:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官駁回吉斯萊恩·麥克斯韋爾再次提出的推翻定罪及20年刑期的請求，該判決因其協助傑弗裡·愛潑斯坦實施性虐待而作出。"
-    },
-    {
-      "id": "5058176",
-      "time": "2026-08-25 21:08:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：推出的M6晶片，系蘋果首款2奈米晶片。"
-    },
-    {
-      "id": "mkt:01a03909-415d-7aab-9113-47e8cd959d6a",
-      "time": "2026-08-25 21:08:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O): M5 Pro Mac mini starts at $1,699; M6 education Mac mini starts at $899."
-    },
-    {
-      "id": "mkt:01a03908-a3ed-7aab-9113-3abbd78dff15",
-      "time": "2026-08-25 21:07:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Market news: Meta expands two-factor authentication and passkey support on WhatsApp."
-    },
-    {
-      "id": "mkt:01a03908-97e0-7aab-9113-31562c11acab",
-      "time": "2026-08-25 21:07:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Apple (AAPL.O): M6, Apple’s first 2nm chip, features a larger, higher-performance 12-core CPU, a 12-core GPU and dual 16-core neural engines."
-    },
-    {
-      "id": "5058175",
-      "time": "2026-08-25 21:07:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南昌1宗宅地溢價超40%成交】南昌出讓1宗經開區管委會板塊49畝宅地，規劃建築面積59087.65㎡，容積率1.8，起始地價422.00萬元/畝。最終江西鑫曉置業有限公司以地價591.00萬元/畝競得該地塊，成交總價2.91億元，溢價率40.05%。（證券時報）"
-    },
-    {
-      "id": "mkt:01a03908-8ba7-7aab-9113-2ac4a772be1e",
-      "time": "2026-08-25 21:07:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Nanchang residential plot sells at 40% premium】Nanchang sold a 49-mu residential plot in the Economic Development Zone. Planned gross floor area 59,087.65 sqm; plot ratio 1.8. Starting land price 4.22 mln yuan/mu; Jiangxi Xinxiao Real Estate Co. won the site at 5.91 mln yuan/mu, paying CNY 291 mln in total, a 40.05% premium."
-    },
-    {
-      "id": "5058174",
-      "time": "2026-08-25 21:07:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "META：安卓版WHATSAPP為非聯絡人通話增加更多資訊顯示。"
-    },
-    {
-      "id": "5058173",
-      "time": "2026-08-25 21:07:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "META ：WHATSAPP將兩步驗證升級為包含特殊字元的完整密碼。"
-    },
-    {
-      "id": "5058172",
-      "time": "2026-08-25 21:07:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內跌4%，現報14165.00元。"
-    },
-    {
-      "id": "5058171",
-      "time": "2026-08-25 21:07:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "META ：為WhatsApp新增賬戶安全功能。"
-    },
-    {
-      "id": "mkt:01a03907-d365-7aab-9113-24f56912668f",
-      "time": "2026-08-25 21:06:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "China coke front-month futures fell more than 2.00% intraday to 2,124.50 yuan/ton."
-    },
-    {
-      "id": "5058170",
-      "time": "2026-08-25 21:06:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上海期貨交易所對部分客戶採取限制開倉監管措施】上海期貨交易所釋出公告，2026年8月25日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
-    },
-    {
-      "id": "mkt:01a03907-55a2-7aab-9113-1ab15633a07b",
-      "time": "2026-08-25 21:06:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O): New Oryon CPU becomes the first mobile CPU to reach 5GHz."
-    },
-    {
-      "id": "5058169",
-      "time": "2026-08-25 21:05:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通：全新Oryon CPU為首款達到5吉赫茲的移動端處理器。"
     }
   ]
 }

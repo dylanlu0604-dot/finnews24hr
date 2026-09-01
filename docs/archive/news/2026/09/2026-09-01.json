@@ -1,7 +1,220 @@
 {
   "date": "2026-09-01",
-  "count": 2204,
+  "count": 2224,
   "items": [
+    {
+      "id": "mkt:01a05d16-5b2d-7118-8438-908880c4c4c0",
+      "time": "2026-09-01 21:09:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NIO CFO Qu Yu expects per-vehicle costs to rise 2,000-3,000 yuan in H2】NIO CFO Qu Yu said at the company’s interim results meeting that cost pressures are significant: since March memory chips, bulk materials and battery costs have risen, and unit cost in Q2 was about 14,000 yuan higher than at the end of last year. He expects materials could add a further 2,000-3,000 yuan per vehicle in H2. NIO’s target is to keep unit gross margin in Q3 and Q4 at Q2 levels."
+    },
+    {
+      "id": "5071153",
+      "time": "2026-09-01 21:07:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蔚來汽車曲玉：預計下半年單車成本將繼續上漲2000-3000元】蔚來汽車首席財務官曲玉今日在公司半年報業績會上表示，今年成本端壓力較大，3月開始，記憶體、大宗材料和電池的成本均所上升，二季度單車成本較去年年底平均上漲1.4萬元左右。下半年材料成本有繼續上漲的風險，預計會在2000-3000元。“蔚來的目標是三、四季度的單車毛利能夠維持二季度水平。” (財聯社)"
+    },
+    {
+      "id": "5071152",
+      "time": "2026-09-01 21:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列銀行：勞動力市場依舊緊張。"
+    },
+    {
+      "id": "mkt:01a05d14-3577-7118-8438-88af0b287197",
+      "time": "2026-09-01 21:06:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CNH"
+      ],
+      "text": "【China crude-complex front-month futures strengthen】Front-month contracts on China’s energy futures complex led by SC crude, up 3.00% at 656.3 yuan/bbl; low-sulfur fuel oil (LU) +2.86% at 5,178 yuan/tonne; fuel oil +3.07% at 3,926 yuan/tonne; bitumen +2.08% at 5,006 yuan/tonne."
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861712219",
+      "time": "2026-09-01 21:06:38",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲巴爾：若通脹不能儘快放緩 則到了該加息的時候】美聯儲巴爾表示，若通脹不能儘快放緩，則到了該加息的時候。"
+    },
+    {
+      "id": "5071151",
+      "time": "2026-09-01 21:06:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Meta美股盤前跌超2%】Meta美股盤前跌超2%，現報560.66美元。"
+    },
+    {
+      "id": "mkt:01a05d13-ebc8-7118-8438-80218384f7a3",
+      "time": "2026-09-01 21:06:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor BARR said if data trends convince him that inf is moving toward the 2% target, reassessing the policy stance may take time."
+    },
+    {
+      "id": "mkt:01a05d13-da1a-7118-8438-7b29115d1ef6",
+      "time": "2026-09-01 21:06:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Barr said sustained inflation above target poses risks."
+    },
+    {
+      "id": "5071150",
+      "time": "2026-09-01 21:06:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "以色列央行：未售房屋庫存保持穩定，仍處於高位。"
+    },
+    {
+      "id": "mkt:01a05d13-c93f-7118-8438-75fd4bf09e61",
+      "time": "2026-09-01 21:06:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Governor Barr said if inflation does not slow quickly, it will be time to raise interest rates."
+    },
+    {
+      "id": "5071149",
+      "time": "2026-09-01 21:06:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：若確信通脹正在緩和，則傾向於維持利率穩定。"
+    },
+    {
+      "id": "5071148",
+      "time": "2026-09-01 21:05:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：勞動力市場保持穩定，失業率處於低位。"
+    },
+    {
+      "id": "mkt:01a05d13-6f51-7118-8438-6c86fef30b5d",
+      "time": "2026-09-01 21:05:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Fed governor Barr said the labor market is stable and the unemployment rate remains low."
+    },
+    {
+      "id": "te:markets:580067",
+      "time": "2026-09-01 21:05:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Nickel Hits 7-week Low — Nickel decreased to 16570.00 USD/T, the lowest since July 2026. Over the past 4 weeks, Nickel lost 3.57%, and in the last 12 months, it increased 8.9%."
+    },
+    {
+      "id": "5071147",
+      "time": "2026-09-01 21:05:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：受人工智慧投資提振，經濟正穩健增長。"
+    },
+    {
+      "id": "mkt:01a05d13-4898-7118-8438-60fb1de2fce9",
+      "time": "2026-09-01 21:05:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Governor Barr: economic growth 'solid', driven by AI investment."
+    },
+    {
+      "id": "mkt:01a05d13-36b7-7118-8438-5df64a992531",
+      "time": "2026-09-01 21:05:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Barr said inflation remains too high and he would be inclined to hold policy rates steady if confident that inflation is moderating."
+    },
+    {
+      "id": "5071146",
+      "time": "2026-09-01 21:05:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：若通脹不能很快緩和，就是加息的時候了。"
+    },
+    {
+      "id": "5071145",
+      "time": "2026-09-01 21:05:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：通脹持續高於目標水平將帶來風險。"
+    },
+    {
+      "id": "5071144",
+      "time": "2026-09-01 21:05:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3925.00元。"
+    },
     {
       "id": "mkt:01a05d12-8584-7118-8438-510f20759a28",
       "time": "2026-09-01 21:04:49",
