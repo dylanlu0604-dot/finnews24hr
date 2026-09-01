@@ -1,7 +1,160 @@
 {
   "date": "2026-09-01",
-  "count": 1283,
+  "count": 1299,
   "items": [
+    {
+      "id": "5070172",
+      "time": "2026-09-01 14:32:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊昂納多股份公司：與巴西陸軍簽訂VBC CAV-MS 8×8輪式裝甲車首批批次生產合同，該合同涵蓋交付首批98輛半人馬座II裝甲車中的7輛。"
+    },
+    {
+      "id": "mkt:01a05bab-612e-7118-842c-22ee203a7384",
+      "time": "2026-09-01 14:32:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "Japan's Nikkei 225 closed down 96.59 points, or 0.15%, at 66,215.34 on Tuesday, Sept. 1. South Korea's KOSPI closed up 15.78 points, or 0.23%, at 6,835.8; SK Hynix rose 1.13% and Samsung Electronics gained 0.38%."
+    },
+    {
+      "id": "5070171",
+      "time": "2026-09-01 14:32:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "四國化成擬最高回購40億日元股份。"
+    },
+    {
+      "id": "mkt:01a05baa-9a36-7118-842c-1be05bc8bac7",
+      "time": "2026-09-01 14:31:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TrendForce: Top five Enterprise SSD brands' Q2 revenue nearly $37.59bn】TrendForce memory-industry research says NAND Flash vendors are expanding supply of higher‑margin Enterprise SSDs to maximise profit and optimise product mix. With shipments and contract prices rising in tandem, combined revenue for the world’s top five Enterprise SSD brands in Q2 2026 reached nearly $37.59bn, up 103.6% QoQ."
+    },
+    {
+      "id": "5070170",
+      "time": "2026-09-01 14:31:24",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞士7月實際零售銷售年率 2.3%，前值1.50%。"
+    },
+    {
+      "id": "5070169",
+      "time": "2026-09-01 14:31:18",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市收盤漲跌互現】日經225指數收跌0.15%，報66215.34點。韓國綜指收漲0.23%，報6835.80點。"
+    },
+    {
+      "id": "5070168",
+      "time": "2026-09-01 14:31:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中貝通訊等成立新公司 含智慧機器人業務】企查查APP顯示，近日，武漢路路酷跑未來科技有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由中貝通訊等共同持股。"
+    },
+    {
+      "id": "te:economy:579855",
+      "time": "2026-09-01 14:31:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "United Kingdom 10Y Bond Yield traded above 5.2 percent — United Kingdom 10Y Bond Yield rose above 5.2, according to over-the-counter interbank yield quotes for this government bond maturity."
+    },
+    {
+      "id": "mkt:01a05baa-2a04-7118-842c-11a652668273",
+      "time": "2026-09-01 14:31:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Swiss real retail sales YoY 2.3% in July, up from 1.5% previously."
+    },
+    {
+      "id": "mkt:01a05baa-10e7-7118-842c-09a5952e7ced",
+      "time": "2026-09-01 14:31:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Real Retail Sales (YoY) (Jul) | actual 2.3% | previous 1.50%"
+    },
+    {
+      "id": "5070167",
+      "time": "2026-09-01 14:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利統計局：第二季度國內生產總值同比增長1.7%，與初值一致。"
+    },
+    {
+      "id": "te:markets:579854",
+      "time": "2026-09-01 14:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.29% Higher — The Nikkei 225 Index gained 193 points or 0.29 percent on Tuesday to close at 66505 points. Gains were led by Sumitomo Chemical (7.50%), Tokyo Electric Power (6.04%) and Mitsui Chemicals (5.67%). Biggest losers were Furukawa Electric (-4.08%), Fujikura (-3.69%) and Mitsui Engineering & Shipbuilding (-3.07%)."
+    },
+    {
+      "id": "5070166",
+      "time": "2026-09-01 14:30:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典8月製造業採購經理人指數為56.1。"
+    },
+    {
+      "id": "5070165",
+      "time": "2026-09-01 14:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利第二季度最終GDP環比增長0.5%，高於初值0.4%和預期值0.4%。"
+    },
+    {
+      "id": "5070164",
+      "time": "2026-09-01 14:29:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國債期貨午後漲幅擴大】30年期主力合約漲0.30%，10年期主力合約漲0.08%，5年期主力合約漲0.07%，2年期主力合約漲0.03%。"
+    },
+    {
+      "id": "te:markets:579853",
+      "time": "2026-09-01 14:29:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Softer Open — European equity markets were set to open slightly lower on Tuesday, extending losses from the previous session as rising global bond yields and elevated oil prices heightened concerns over persistent inflation and the prospect of imminent interest rate hikes. The Euro area 10-year government bond yield climbed to around 3.64%, its highest level since April 2011, with the European Central Bank expected to deliver a 25 basis point rate hike at its September 9-10 policy meeting. Meanwhile, investors will assess Eurozone and Italian inflation, German retail sales and UK housing prices data, along with manufacturing PMI reports from across the region. No major earnings releases are scheduled in Europe on Tuesday. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down about 0.1%."
+    },
     {
       "id": "mkt:01a05ba8-7657-7118-842c-0578843b5ba4",
       "time": "2026-09-01 14:29:21",
