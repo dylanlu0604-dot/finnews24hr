@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-01 10:32:35",
-  "count": 13160,
+  "updated": "2026-09-01 10:36:31",
+  "count": 13156,
   "items": [
+    {
+      "id": "mkt:01a05ad2-605b-7118-8427-6c6681b56240",
+      "time": "2026-09-01 10:35:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures slipped below $67/oz, down 0.31% on the day."
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861253291",
+      "time": "2026-09-01 10:34:52",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【傑克遜霍爾最驚悚預言：你還沒聽懂政策 AI已經把你的錢賺走了！】“在一個人類與AI智慧體互動的世界裡，可能會出現一種極端情景，即市場資訊量減少，波動性增加，”美國普林斯頓大學經濟學家Markus Brunnermeier在這篇充滿哲學思辨、幾乎沒有傳統傑克遜霍爾報告中常見覆雜數學公式的論文中寫道，“為了應對這種情景，監管必須轉向簡單性和穩健性。而央行則面臨這樣一場博弈：市場對央行的理解，可能遠勝於央行對市場的理解。”"
+    },
+    {
+      "id": "5069865",
+      "time": "2026-09-01 10:34:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報643.20元。"
+    },
+    {
+      "id": "mkt:01a05ad1-14be-7118-8427-60a310aec880",
+      "time": "2026-09-01 10:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior official at Japan's Finance Ministry expects the Bank of Japan to set monetary policy according to domestic economic conditions rather than be influenced by the United States."
+    },
+    {
+      "id": "mkt:01a05acf-b45b-7118-8427-5b1c49fb4ae3",
+      "time": "2026-09-01 10:32:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kia China cuts 2027 K3 prices by 15,600 yuan】Sept 1 — Kia China launched the 2027 K3 with five trims and manufacturer guide prices of 97,300–115,300 yuan. The entire line receives an immediate 15,600 yuan price cut; the 1.5L Comfort Enjoy trim is priced at a national fixed 69,900 yuan."
+    },
+    {
+      "id": "5069864",
+      "time": "2026-09-01 10:32:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務省高官：認為日本央行將制定最適合本國經濟的貨幣政策，而非基於美國的指令行事。"
+    },
+    {
+      "id": "5069863",
+      "time": "2026-09-01 10:32:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報3086.00元。"
+    },
     {
       "id": "5069862",
       "time": "2026-09-01 10:31:33",
@@ -120073,102 +120137,6 @@
         "CNH"
       ],
       "text": "【China Index Research Institute: Jan–Jul launches of fitted apartment projects in monitored cities down 30.1% YoY】China Index Research Institute data show Jan–Jul 2026 launches of fitted-apartment projects in monitored cities totaled 346, down 30.1% YoY; fitted units were 198,000, down 33.8% YoY. July launches numbered 46 (−14.8% YoY, −29.2% MoM); fitted units 26,900 (−8.5% YoY). The average fitted rate for residential projects Jan–Jul was 25.5%, down 1.94 percentage points YoY. By city tier: first-tier 90.6% (+0.25 pp), second-tier 33.4% (−3.05 pp), third‑/fourth‑tier 12.4% (−1.69 pp). South China recorded the highest regional fitted rate at 49.5%."
-    },
-    {
-      "id": "em:qqyh_ozlc:202608253852506994",
-      "time": "2026-08-25 10:35:16",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "【澳洲聯儲8月紀要揭示內部分歧 數名委員主張進一步加息】澳洲聯儲25日公佈的貨幣政策會議紀要，揭示了九名政策委員會成員在利率決策上的分歧。紀要顯示，董事會在會上討論了將現金利率上調25個基點至4.6%或維持4.35%不變兩個選項，最終一致決定按兵不動，但討論過程遠非一致。幾位委員判斷，通脹上行風險＂很可能會顯現＂，認為進一步加息可能是必要之舉。"
-    },
-    {
-      "id": "mkt:01a036c5-33a5-7aab-9104-2a7ed0e3625f",
-      "time": "2026-08-25 10:34:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said he seeks to achieve the dual goals of economic growth and sustainable public finances."
-    },
-    {
-      "id": "5056583",
-      "time": "2026-08-25 10:34:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "片山皋月：日本財務省正加緊設計新型債券產品。"
-    },
-    {
-      "id": "5056582",
-      "time": "2026-08-25 10:33:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數漲0.1%，東證指數漲0.3%。"
-    },
-    {
-      "id": "5056581",
-      "time": "2026-08-25 10:33:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "片山皋月：力求實現經濟增長與可持續財政的雙重目標。"
-    },
-    {
-      "id": "mkt:01a036c3-dab7-7aab-9104-24ff0bd259f4",
-      "time": "2026-08-25 10:33:20",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite"
-      ],
-      "text": "【Term deposit demand cools; banks push participating insurance】Three-year term deposits now offer almost no yield advantage over one-year as deposit rates slide, narrowing the long-versus-short rate gap at large state-owned banks. Relationship managers across Beijing branches are increasingly marketing participating whole-life and participating annuity products. Sushang Bank researcher Xue Hongyan says the shift from time deposits to bancassurance is reshaping bank liabilities and household savings. Diverting long-term deposits can lower high-cost funding and support net interest margins, but continued migration would erode core stable deposits, heighten liquidity management pressure and strain asset‑liability maturity matching. Household liquidity falls as funds move into long-duration insurance contracts, creating an implicit risk of certificates being converted into policies."
-    },
-    {
-      "id": "5056580",
-      "time": "2026-08-25 10:33:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中海殼牌石油化工公司增資至326.7億 增幅約14%】天眼查App顯示，近日，中海殼牌石油化工有限公司發生工商變更，註冊資本由約287.3億人民幣增至約326.7億人民幣，增幅約14%。中海殼牌石油化工有限公司成立於2000年12月，法定代表人為劉建忠，經營範圍包括建設和運營聯合工廠和合營公司基礎設施工程，生產乙烯和相關石化產品、食品新增劑、催化劑、石油產品及附屬產品等，由中海石油化工投資有限公司、殼牌南海私有有限公司共同持股。"
-    },
-    {
-      "id": "mkt:01a036c3-a60a-7aab-9104-183aa516feab",
-      "time": "2026-08-25 10:33:06",
-      "tags": [
-        "MKT News",
-        "BKR.O",
-        "Impact bullish"
-      ],
-      "text": "RBC raises PT on Baker Hughes (BKR.O) to $76 from $71."
-    },
-    {
-      "id": "5056579",
-      "time": "2026-08-25 10:32:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【位元組加入企業辦公Agent大戰：釋出“豆包工作”】豆包正式釋出了面向生產力場景推出的 Agent 產品與品牌——豆包工作。使用者可透過豆包工作電腦版獨立應用、豆包電腦版等入口使用，並隨登入或更新贈送30天免費訂閱權益。據瞭解，豆包工作支援文件、表格、PPT、圖片、影片、網頁和應用等多種內容生成及編輯，在同類產品中已頗具競爭力。同時也提供了“指哪改哪”的 AI 協作編輯能力，使用者可對任意內容定點修改、持續打磨，而不是反覆重新生成。既節省算力消耗，也提升了完成速度。在更復雜的任務中，豆包工作還具備基於視覺的瀏覽器與電腦操作能力，可在使用者授權後跨軟體完成任務，用專業軟體處理資料、瀏覽網頁收集資訊、填表單、比對資料，並支援手機遠端操控電腦、雲電腦持續執行等能力。與一般 Agent 工具不同的是，豆包工作與飛書深度打通，在理解企業工作上下文方面具備明顯優勢。使用者用飛書賬號登入後，豆包工作可在許可權範圍內繼承企業知識和工作上下文，呼叫聊天記錄、文件、會議紀要、日程等資訊，結合工具完成工作。相關內容和知識也可沉澱回飛書，成為可複用的企業知識。而飛書的會議紀要、文件等多項功能，本身就將上下文自動沉澱為資料資產，無需手動搬運給 AI。面向企業級安全管控，豆包工作也繼承了飛書既有許可權體系，使用者只可在本人許可權範圍內讀取資料和使用工具，並提供覆蓋裝置接入、許可權設定、額度管控、資料加密、操作審計的全鏈路安全防護。目前，豆包工作已成為國內首批透過辦公智慧體能力與雲端基準測試雙項認證的辦公智慧體。"
-    },
-    {
-      "id": "5056578",
-      "time": "2026-08-25 10:32:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中指研究院：1—7月重點監測城市精裝修樓盤開盤數量同比下降30.1%】中指研究院釋出2026年7月地產家居精裝市場快報。中指資料家居版監測顯示，2026年1—7月，重點監測城市精裝修樓盤開盤數量為346個，同比下降30.1%；精裝修房源套數為19.8萬套，同比大幅下降33.8%。其中7月開盤數量為46個，同比下降14.8%，環比下降29.2%；精裝修房源套數為2.69萬套，同比下降8.5%。"
-    },
-    {
-      "id": "5056577",
-      "time": "2026-08-25 10:32:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【平陸運河三大樞紐實現雙電源供電】從南方電網廣西電網公司獲悉，平陸運河青年樞紐、企石樞紐第二回外部電源線路已於日前正式投運。至此，平陸運河青年樞紐、馬道樞紐、企石樞紐三大樞紐全面實現雙電源供電，標誌著這項世紀工程裝上了“電力雙引擎”，進入通航倒計時衝刺階段。"
     }
   ]
 }

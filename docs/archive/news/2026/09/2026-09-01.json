@@ -1,7 +1,71 @@
 {
   "date": "2026-09-01",
-  "count": 909,
+  "count": 916,
   "items": [
+    {
+      "id": "mkt:01a05ad2-605b-7118-8427-6c6681b56240",
+      "time": "2026-09-01 10:35:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures slipped below $67/oz, down 0.31% on the day."
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861253291",
+      "time": "2026-09-01 10:34:52",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【傑克遜霍爾最驚悚預言：你還沒聽懂政策 AI已經把你的錢賺走了！】“在一個人類與AI智慧體互動的世界裡，可能會出現一種極端情景，即市場資訊量減少，波動性增加，”美國普林斯頓大學經濟學家Markus Brunnermeier在這篇充滿哲學思辨、幾乎沒有傳統傑克遜霍爾報告中常見覆雜數學公式的論文中寫道，“為了應對這種情景，監管必須轉向簡單性和穩健性。而央行則面臨這樣一場博弈：市場對央行的理解，可能遠勝於央行對市場的理解。”"
+    },
+    {
+      "id": "5069865",
+      "time": "2026-09-01 10:34:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報643.20元。"
+    },
+    {
+      "id": "mkt:01a05ad1-14be-7118-8427-60a310aec880",
+      "time": "2026-09-01 10:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior official at Japan's Finance Ministry expects the Bank of Japan to set monetary policy according to domestic economic conditions rather than be influenced by the United States."
+    },
+    {
+      "id": "mkt:01a05acf-b45b-7118-8427-5b1c49fb4ae3",
+      "time": "2026-09-01 10:32:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Kia China cuts 2027 K3 prices by 15,600 yuan】Sept 1 — Kia China launched the 2027 K3 with five trims and manufacturer guide prices of 97,300–115,300 yuan. The entire line receives an immediate 15,600 yuan price cut; the 1.5L Comfort Enjoy trim is priced at a national fixed 69,900 yuan."
+    },
+    {
+      "id": "5069864",
+      "time": "2026-09-01 10:32:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務省高官：認為日本央行將制定最適合本國經濟的貨幣政策，而非基於美國的指令行事。"
+    },
+    {
+      "id": "5069863",
+      "time": "2026-09-01 10:32:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報3086.00元。"
+    },
     {
       "id": "5069862",
       "time": "2026-09-01 10:31:33",
