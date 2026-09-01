@@ -1,7 +1,1120 @@
 {
   "date": "2026-09-02",
-  "count": 416,
+  "count": 532,
   "items": [
+    {
+      "id": "mkt:01a05ee6-32a3-7118-8446-63bc2d5d1daf",
+      "time": "2026-09-02 05:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says it launched drone strike on US base in Bahrain】Iran’s military public relations department said in the 29th phase of “Thunder” operations it used a large number of attack drones to strike Sheikh Isa Airbase in Bahrain, calling the facility one of the Persian Gulf’s most important and sensitive US bases. Tehran said the base conducts helicopter and drone component maintenance and hosts reconnaissance aircraft, and framed the strike as a response to “enemy attacks” on southern Iran. The military warned of “severe retaliation” against related parties; the US and Bahrain have not yet confirmed or responded."
+    },
+    {
+      "id": "mkt:01a05ee5-5ae5-7118-8446-5eaeb2db9bcb",
+      "time": "2026-09-02 05:34:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Apple’s new CEO Ternus set for $58m fiscal‑2027 pay package】Apple told the SEC that John Ternus’ fiscal‑2027 compensation package is valued at about $58m; Tim Cook’s package as executive chairman is about $47m. The filing, submitted on Ternus’ first day in the role, shows Ternus’ annual base salary at $3m and a target stock award of $55m for 2027. In 2026 he will receive pro‑rata RSUs worth roughly $2.5m. Seventy‑five percent of Ternus’ stock award is tied to Apple’s performance versus S&P 500 constituent companies; the remaining 25% are time‑based units that vest semiannually. Cook’s base salary will fall from $3m to $2m and his 2027 target equity award is $45m, with only half of his award performance‑tied to S&P 500 relative performance."
+    },
+    {
+      "id": "5071713",
+      "time": "2026-09-02 05:33:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國空襲伊朗南部電信和網際網路基礎設施】週二美軍發動的打擊嚴重損毀了伊朗南部霍爾木茲省部分地區的電話與網際網路基礎設施。襲擊破壞了霍爾木茲省錫裡克沿海區域附近的多處通訊塔與設施，造成固定電話、移動通訊以及網際網路服務中斷。"
+    },
+    {
+      "id": "5071712",
+      "time": "2026-09-02 05:32:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體稱軍方對美國駐巴林基地發動大規模無人機襲擊。"
+    },
+    {
+      "id": "mkt:01a05ee3-1703-7118-8446-526d07bd8900",
+      "time": "2026-09-02 05:32:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian media Fars News reported Iran's military launched a drone attack on a US military base in Bahrain."
+    },
+    {
+      "id": "5071711",
+      "time": "2026-09-02 05:32:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們有意向歐洲出售天然氣，現在就可以恢復供氣。他們只需要按下按鈕，也就是下定決心按下這個按鈕。但懾於美國的制裁，他們沒有這個膽量。"
+    },
+    {
+      "id": "5071710",
+      "time": "2026-09-02 05:30:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾營運長：注意到儲存產品在人工智慧應用中的使用率正顯著提升。"
+    },
+    {
+      "id": "5071709",
+      "time": "2026-09-02 05:27:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋迪拜舉辦2026中東能源展】當日，為期3天的2026中東能源展在阿聯酋迪拜世界貿易中心開幕，吸引來自150多個國家和地區的能源和電力行業企業及專業人士參加。（新華社）"
+    },
+    {
+      "id": "5071708",
+      "time": "2026-09-02 05:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院軍事委員會主席邁克·羅傑斯：已有一套方案，預計美伊衝突將進一步升級。"
+    },
+    {
+      "id": "5071707",
+      "time": "2026-09-02 05:24:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾營運長：目前CPU供應短缺情況時斷時續，同時硬碟驅動器也存在短缺。"
+    },
+    {
+      "id": "mkt:01a05eda-380b-7118-8446-4d21ff828661",
+      "time": "2026-09-02 05:22:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA has selected Blue Origin to supply its Mars communications network."
+    },
+    {
+      "id": "5071706",
+      "time": "2026-09-02 05:19:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦方面稱，三枚彈道導彈落在了遠離人口聚居區的偏遠地帶。"
+    },
+    {
+      "id": "mkt:01a05ed5-d947-7118-8446-43a9a106cecc",
+      "time": "2026-09-02 05:17:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two US officials said Iran's attack on Jordanian facilities has caused no US casualties to date."
+    },
+    {
+      "id": "5071705",
+      "time": "2026-09-02 05:17:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名美國官員表示，伊朗襲擊約旦境內設施目前未造成美方人員傷亡。"
+    },
+    {
+      "id": "5071704",
+      "time": "2026-09-02 05:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦軍方表示，約旦防空部隊攔截了進入該國領空的13枚彈道導彈中的10枚。"
+    },
+    {
+      "id": "5071702",
+      "time": "2026-09-02 05:14:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍色起源火星軌道器相關合同最高價值約7億美元。"
+    },
+    {
+      "id": "mkt:01a05ed2-dd61-7118-8446-3ee9ecb1e450",
+      "time": "2026-09-02 05:14:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Jordan's military said it intercepted and destroyed 10 missiles; three fell in remote areas."
+    },
+    {
+      "id": "5071701",
+      "time": "2026-09-02 05:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局（NASA）授予藍色起源火星通訊網路專案合同。"
+    },
+    {
+      "id": "5071700",
+      "time": "2026-09-02 05:12:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌正在籌備一款程式設計能力更強的全新AI模型，力求縮小與OpenAI以及Anthropic之間的技術差距。"
+    },
+    {
+      "id": "5071699",
+      "time": "2026-09-02 05:11:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國今日將釋出G20主席宣告，而非聯合公報。"
+    },
+    {
+      "id": "mkt:01a05ecc-9881-7118-8446-3322dae81a86",
+      "time": "2026-09-02 05:07:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Wall Street Journal sources say Google (GOOG.O) employees in internal coding-tool tests favored Gemini 3.8 Flash over Claude Opus."
+    },
+    {
+      "id": "mkt:01a05ecc-903f-7118-8446-2f44277c6293",
+      "time": "2026-09-02 05:07:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal, citing sources, reports Google (GOOG.O) has increased resource allocation to reinforcement learning."
+    },
+    {
+      "id": "5071698",
+      "time": "2026-09-02 05:07:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "Dropbox使用者賬戶遭駭客入侵，股價下跌4%。"
+    },
+    {
+      "id": "5071697",
+      "time": "2026-09-02 05:07:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌最早可能於週三釋出 Gemini 3.8 Flash AI模型。"
+    },
+    {
+      "id": "mkt:01a05ecb-f3d3-7118-8446-214667186f9b",
+      "time": "2026-09-02 05:06:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal, citing sources, says Google (GOOG.O) will release the GEMINI 3.8 Flash AI model this week."
+    },
+    {
+      "id": "5071696",
+      "time": "2026-09-02 05:03:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾營運長：預計到2030年人工智慧將佔資料中心總需求的75%。"
+    },
+    {
+      "id": "mkt:01a05ec8-806f-7118-8446-1dd7b194761a",
+      "time": "2026-09-02 05:03:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The IRGC Aerospace Force released footage showing Iran launch ballistic missiles toward Jordan, saying the strikes were part of tonight's retaliatory action against US bases. Reported primary targets were Jordan's Muwaffaq Salti Air Base and Titin camp."
+    },
+    {
+      "id": "5071695",
+      "time": "2026-09-02 05:01:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美所謂精確打擊導彈易傷平民】總部位於英國的衝突觀察組織“空戰”在接受美聯社採訪時表示，他們對美以伊戰爭首日、也就是今年2月28日美軍對伊朗南部拉梅爾德市一次襲擊進行調查後發現，美軍在實戰中或首次使用了洛克希德-馬丁公司的最新一代“精確打擊導彈”。“空戰”組織指出，這種導彈會在空中爆炸並大範圍釋放彈丸，極易造成大量平民傷亡。伊朗方面稱，美軍本次襲擊造成包含7名兒童在內的至少21名平民死亡。美聯社報道稱，美軍承認向伊朗境內發射了“精確打擊導彈”，但否認襲擊拉梅爾德地區。不過，有至少6名武器專家在受訪時表示，當地的彈孔痕跡符合遭“精確打擊導彈”襲擊的特徵。 （CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:580181",
+      "time": "2026-09-02 05:00:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Oil Inventories Resume Drawdown — US crude oil inventories fell by 2.6 million barrels in the week ending August 28th, according to the American Petroleum Institute (API), following a 4.2 million-barrel increase in the previous week. Commercial crude inventories excluding the SPR have declined by just over 48 million barrels over the past 20 weeks, while total US crude inventories are up 3.1 million barrels year-to-date. Another 3.1 million barrels left the SPR, bringing total reserves to 286.6 million barrels, within the generally accepted operational minimum of 250-300 million barrels. US crude production rose to 13.843 million bpd in the week ending August 21st from 13.830 million bpd, up 461,000 bpd year-on-year. Meanwhile, gasoline inventories increased by 300,000 barrels after falling 3.2 million barrels the previous week, while distillate stocks declined by 300,000 barrels following a 500,000-barrel draw. Cushing inventories rose by 200,000 barrels after increasing by 1 million barrels previously."
+    },
+    {
+      "id": "mkt:01a05ec4-77a1-7118-8446-109b4574bf85",
+      "time": "2026-09-02 04:58:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it struck US Marine camp on Jordan's Gulf of Aqaba with heavy ballistic missiles】Iran's Islamic Revolutionary Guard Corps said early today it fired heavy ballistic missiles at a US Marine Corps camp on Jordan's Gulf of Aqaba coast, claiming it destroyed several key facilities and attack helicopters and caused numerous US casualties. The IRGC said the retaliation was continuing."
+    },
+    {
+      "id": "5071693",
+      "time": "2026-09-02 04:57:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及日本：我們究竟對日本做過什麼？我們什麼都沒做。俄日關係惡化百分之百是日本政府的過錯。"
+    },
+    {
+      "id": "5071692",
+      "time": "2026-09-02 04:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾營運長：公司全年運營費用率約為營收的8%，為該公司42年歷史上最低水平。"
+    },
+    {
+      "id": "5071691",
+      "time": "2026-09-02 04:54:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾首席財務官：在客戶解決方案集團業務中，將繼續平衡客戶需求與供應可得性，以實現盈利性份額增長。"
+    },
+    {
+      "id": "mkt:01a05ec0-4675-7118-8446-0924e742cb51",
+      "time": "2026-09-02 04:54:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API Cushing crude stocks +150k bbl in week to Aug 28; prior +995k bbl."
+    },
+    {
+      "id": "mkt:01a05ec0-3c79-7118-8446-04187c7331c9",
+      "time": "2026-09-02 04:54:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "API: U.S. crude oil brought online +294,000 b/d in week to Aug. 28; prior -88,000 b/d."
+    },
+    {
+      "id": "mkt:01a05ec0-2a11-7118-8445-fb75e5b60713",
+      "time": "2026-09-02 04:54:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Aug.28) | actual 150000M | previous 995000M"
+    },
+    {
+      "id": "mkt:01a05ec0-1859-7118-8445-f5391721eab1",
+      "time": "2026-09-02 04:54:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. refined product imports -226,000 b/d in the week to Aug. 28, versus +254,000 b/d the prior week."
+    },
+    {
+      "id": "mkt:01a05ec0-14e5-7118-8445-ea9d6d03d962",
+      "time": "2026-09-02 04:54:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Aug.28) | actual 294000M | previous -88000M"
+    },
+    {
+      "id": "mkt:01a05ebf-fe5e-7118-8445-e1c794478ab1",
+      "time": "2026-09-02 04:53:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API crude imports for the week to Aug. 28: 242,000 barrels, prior -462,000 barrels."
+    },
+    {
+      "id": "mkt:01a05ebf-fa9b-7118-8445-dd4f60d2e748",
+      "time": "2026-09-02 04:53:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Aug.28) | actual -226000M | previous 254000M"
+    },
+    {
+      "id": "mkt:01a05ebf-d6ca-7118-8445-d03bf1c9cfa6",
+      "time": "2026-09-02 04:53:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Aug.28) | actual 242000M | previous -462000M"
+    },
+    {
+      "id": "mkt:01a05ebf-c24b-7118-8445-cbe3501226c9",
+      "time": "2026-09-02 04:53:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API heating oil stocks for week to Aug 28: -350,000 barrels; prior -43,000 barrels."
+    },
+    {
+      "id": "mkt:01a05ebf-a58c-7118-8445-c1e6d34d58bc",
+      "time": "2026-09-02 04:53:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Aug.28) | actual -350000M | previous -43000M"
+    },
+    {
+      "id": "mkt:01a05ebf-a0af-7118-8445-b849c851ad54",
+      "time": "2026-09-02 04:53:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. gasoline inventories fell 265,000 bbl in the week to Aug. 28 vs. -1.25m bbl expected; prior -459,000 bbl."
+    },
+    {
+      "id": "mkt:01a05ebf-774d-7118-8445-b2f6b6d9de9e",
+      "time": "2026-09-02 04:53:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API U.S. gasoline stocks for week to Aug. 28: +348k barrels vs. -2.40 mln expected; prior -3.201 mln."
+    },
+    {
+      "id": "mkt:01a05ebf-7442-7118-8445-aee5d1c31204",
+      "time": "2026-09-02 04:53:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Aug.28) | actual -265000M | consensus -1250000M | previous -459000M"
+    },
+    {
+      "id": "mkt:01a05ebf-528e-7118-8445-a4cb90545442",
+      "time": "2026-09-02 04:53:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Aug.28) | actual 348000M | consensus -2400000M | previous -3201000M"
+    },
+    {
+      "id": "5071690",
+      "time": "2026-09-02 04:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：已對約旦亞喀巴灣附近的美軍海軍陸戰隊基地蒂丁營地實施大規模彈道導彈打擊，此次襲擊造成美軍重大人員傷亡，摧毀多處關鍵設施以及攻擊直升機。"
+    },
+    {
+      "id": "mkt:01a05ebe-13d0-7118-8445-98a47f7a9703",
+      "time": "2026-09-02 04:51:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it \"killed a large number of US service members\" in the attack."
+    },
+    {
+      "id": "5071689",
+      "time": "2026-09-02 04:51:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，其報復行動將繼續。"
+    },
+    {
+      "id": "5071688",
+      "time": "2026-09-02 04:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：烏克蘭境內的任何軍事設施，無論是英國的還是其他國家的，對我們而言都是合法打擊目標。"
+    },
+    {
+      "id": "5071687",
+      "time": "2026-09-02 04:49:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：被視作全美最差州長的凱西·霍楚爾，最近一張照片裡還在賣力爭取阿拉伯裔選票，可阿拉伯裔根本就不待見她！曼哈頓的擁堵收費政策讓她失去所有人的支援，尤其那些她刻意示好的阿拉伯裔群體。整件事簡直荒唐透頂！"
+    },
+    {
+      "id": "mkt:01a05ebb-2860-7118-8445-969f4b67e204",
+      "time": "2026-09-02 04:48:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian state TV: US military strike kills 4, injures about 50 at wedding in southern Iran】Iranian state television said on the evening of Sept. 1 local time a US military strike hit a wedding in Sirik district, Hormozgan province, killing at least four people, including a 4-year-old child, and wounding about 50, 35 of them seriously. The US had no immediate comment."
+    },
+    {
+      "id": "5071686",
+      "time": "2026-09-02 04:48:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊宣告稱在襲擊中\"擊斃大量美軍\"，美方暫無立即回應。"
+    },
+    {
+      "id": "mkt:01a05eba-2fd1-7118-8445-8f3b59e378fc",
+      "time": "2026-09-02 04:47:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Putin, asked whether Russia would strike UK military targets in Ukraine, replied \"that is a military secret.\""
+    },
+    {
+      "id": "mkt:01a05eb9-c1f5-7118-8445-81adc17704c0",
+      "time": "2026-09-02 04:47:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【FT: Russia secretly helped Iran develop supersonic cruise missiles】The Financial Times reports Russia has secretly assisted Iran in developing advanced supersonic cruise missiles, describing it as one of the most significant known transfers of strategic military technology from Russia to Iran. The multi-year covert program, code-named C430L, assembled some of Russia’s most experienced missile experts to help Iran build a new class of weapon capable of threatening US aircraft carriers and other regional warships. Investigators say the project began in 2023 and continued after the US and Israel launched a war on Iran. Cited evidence includes leaked Russian communications, travel records and analysis of military patents. The program’s primary aim is to help Iran develop a ramjet/scramjet air‑breathing propulsion system capable of sustained flight at multiple times the speed of sound; weapons experts say the technology is almost certainly intended for anti-ship and land-attack cruise missiles."
+    },
+    {
+      "id": "mkt:01a05eb9-513a-7118-8445-7e7ffdeef345",
+      "time": "2026-09-02 04:46:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it fired ballistic missiles at a US base in Jordan."
+    },
+    {
+      "id": "5071685",
+      "time": "2026-09-02 04:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發表宣告稱，已使用彈道導彈打擊了位於約旦境內的美軍基地。"
+    },
+    {
+      "id": "5071684",
+      "time": "2026-09-02 04:45:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們已做好談判準備，不希望衝突陷入凍結狀態。"
+    },
+    {
+      "id": "5071683",
+      "time": "2026-09-02 04:44:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗一婚禮因美軍襲擊4死50傷】據伊朗國家電視臺報道，當地時間9月1日晚，伊朗南部霍爾木茲甘省錫裡克地區遭美軍襲擊，一場婚禮上至少4人死亡，其中包括一名4歲兒童，此外還有大約50人受傷，包括35人重傷。美方對此暫無回應。（CCTV國際時訊）"
+    },
+    {
+      "id": "5071682",
+      "time": "2026-09-02 04:43:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI伺服器銷量激增帶動戴爾業績預期上調，盤後股價走高】受人工智慧算力伺服器需求暴漲推動，戴爾科技大幅上調全年營收預期，上調幅度達250億美元，盤後股價大幅拉昇。截至2027年1月的財年總營收預計約1920億美元，其中AI伺服器業務營收740億美元。該公司5月給出的預期為1670億美元，分析師平均預期為1738億美元。AI伺服器營收預期較上一年度增長兩倍。該財年調整後每股收益預期25.50美元，分析師平均預期為19.10美元。戴爾收盤報425美元，盤後漲超10%。"
+    },
+    {
+      "id": "te:markets:580180",
+      "time": "2026-09-02 04:43:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Extends Winning Streak to Ten Sessions — The Ibovespa rose 1.3% to close at 179,722 on Tuesday, extending its winning streak to ten sessions amid renewed expectations for continued Selic easing. Brazil’s GDP grew more than expected in 2Q26, driven mainly by agriculture, while the detailed breakdown was weaker, signaling that economic momentum is fading despite a tight labor market and short-term demand stimulus measures. For the BCB, the data suggest that interest rates have already done much of the work, leaving room for further Selic cuts. Major banks advanced, with Banco do Brasil up 2.3%, Bradesco 1.2% and Itaú 0.9%. B3 gained 2.5% despite lower broker estimates, as its buy recommendation was maintained. Petrobras jumped 4.1%, tracking higher oil prices and benefiting from another monthly production record in July. Casas Bahia surged 36.4%, bringing its two-session gain to 125% after confirming the anticipation of effects from its judicial reorganization filing."
+    },
+    {
+      "id": "mkt:01a05eb6-40ef-7118-8445-70efd2dffce2",
+      "time": "2026-09-02 04:43:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Putin said he does not want the conflict to stalemate and is prepared to enter negotiations."
+    },
+    {
+      "id": "mkt:01a05eb5-c636-7118-8445-6c3294ee92e4",
+      "time": "2026-09-02 04:42:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin said reports of a new Russian mobilization are unfounded."
+    },
+    {
+      "id": "5071681",
+      "time": "2026-09-02 04:41:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾營運長：目前現有在用伺服器中，大部分仍為第14代或更早的舊型號，我們認為未來將迎來規模可觀、潛力持久的伺服器更新換代機遇。"
+    },
+    {
+      "id": "5071680",
+      "time": "2026-09-02 04:41:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京對俄羅斯新一輪動員傳言的回應：純屬無稽之談。"
+    },
+    {
+      "id": "5071679",
+      "time": "2026-09-02 04:41:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "百勝餐飲集團：亞倫·鮑威爾辭去必勝客執行長一職，自2026年9月1日起生效。"
+    },
+    {
+      "id": "mkt:01a05eb4-1dbf-7118-8445-67f084a80621",
+      "time": "2026-09-02 04:40:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. crude inventories fell 2.593 mln barrels in the week to Aug. 28, versus an expected draw of 0.82 mln barrels; prior week showed a 4.199 mln-barrel build."
+    },
+    {
+      "id": "5071678",
+      "time": "2026-09-02 04:40:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾營運長：目前的增長大部分來自現有客戶，這些客戶仍在持續更新升級其資料中心，以支撐傳統工作負載。"
+    },
+    {
+      "id": "mkt:01a05eb3-f332-7118-8445-5811dad138fa",
+      "time": "2026-09-02 04:40:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Aug.28) | actual -2593000M | consensus -820000M | previous 4199000M"
+    },
+    {
+      "id": "5071677",
+      "time": "2026-09-02 04:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾營運長：需求正擴充套件至新雲、主權雲及企業客戶；客戶數量已突破6500家。"
+    },
+    {
+      "id": "5071676",
+      "time": "2026-09-02 04:38:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國上週API原油庫存減少260萬桶】美國石油協會（API）資料顯示，上週，美國API原油庫存 -260萬桶，之前一週 +420萬桶。上週API庫欣原油庫存 +20萬桶，前值 +100萬桶。上週API成品油汽油庫存 +30萬桶（前值 -320萬桶）、餾分油庫存 -30萬桶（前值 -50萬桶）。"
+    },
+    {
+      "id": "5071675",
+      "time": "2026-09-02 04:38:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：烏克蘭襲擊造成的損失相當於俄羅斯GDP的1%。"
+    },
+    {
+      "id": "mkt:01a05eb1-492c-7118-8445-5209d2b6c810",
+      "time": "2026-09-02 04:37:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tavanir CEO said multiple sites on the power grid in Iran's Hormozgan province were attacked; the company is working to restore outages and reconnect users within the next hour."
+    },
+    {
+      "id": "5071674",
+      "time": "2026-09-02 04:37:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：（出口影響）目前情況並不危急，我們將作出回應。"
+    },
+    {
+      "id": "mkt:01a05eb0-7c7c-7118-8445-4a29a14967b4",
+      "time": "2026-09-02 04:36:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Putin said Russia will respond."
+    },
+    {
+      "id": "5071673",
+      "time": "2026-09-02 04:36:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：烏克蘭襲擊影響了俄羅斯出口。"
+    },
+    {
+      "id": "mkt:01a05eb0-6ae3-7118-8445-415c61e20a91",
+      "time": "2026-09-02 04:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin: This is not serious."
+    },
+    {
+      "id": "mkt:01a05eb0-6a59-7118-8445-3f2c3ab52a65",
+      "time": "2026-09-02 04:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said Ukraine's attack inflicted actual losses on the United States."
+    },
+    {
+      "id": "5071672",
+      "time": "2026-09-02 04:36:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：烏克蘭領導層是否享有（打擊）豁免權？\n俄羅斯總統普京：我們不實施這類打擊，是因為我們還需要保留談判物件，前提是他們願意謀求和平。"
+    },
+    {
+      "id": "mkt:01a05eaf-b2e9-7118-8445-31e04810139f",
+      "time": "2026-09-02 04:36:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Putin: Russia's conditions for the earlier Black Sea grain deal were not met."
+    },
+    {
+      "id": "mkt:01a05eaf-4be1-7118-8445-2cd2577f52b9",
+      "time": "2026-09-02 04:35:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said decrees aimed at protecting infrastructure do not imply nationalization of the assets concerned."
+    },
+    {
+      "id": "5071671",
+      "time": "2026-09-02 04:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及亞美尼亞：如果亞美尼亞認為境內不需要俄羅斯軍事基地，我們明天就可以撤走。但亞美尼亞做好相應準備了嗎？倘若已經準備妥當，我們不會強行留下。但如果亞美尼亞民眾希望本國保留俄羅斯軍事力量，那我們就會駐守於此。"
+    },
+    {
+      "id": "te:markets:580179",
+      "time": "2026-09-02 04:35:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.79% Lower — The Dow Jones Index dropped 418 points or 0.79 percent on Tuesday to close at 52768 points. Losses were led by Sherwin-Williams (-2.63%), Goldman Sachs (-2.52%) and Nike (-2.46%). Offsetting the fall, top gainers were Apple (2.58%), Chevron (2.33%) and J&J (2.14%)."
+    },
+    {
+      "id": "5071670",
+      "time": "2026-09-02 04:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：John Ternus獲授按比例計算的限制性股票單位獎勵，2026財年目標價值250萬美元。"
+    },
+    {
+      "id": "mkt:01a05eae-3683-7118-8445-21cb21cf3d54",
+      "time": "2026-09-02 04:34:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) said in an SEC filing that Executive Chair Cook's annual salary will be set at $2.0m effective Sept. 26, 2026, and he was approved for a FY2027 annual equity award with a target value of $45.0m."
+    },
+    {
+      "id": "5071669",
+      "time": "2026-09-02 04:33:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：John Ternus獲批准2027財年年度股權獎勵目標價值為5500萬美元。"
+    },
+    {
+      "id": "mkt:01a05ead-7644-7118-8445-1ef846799047",
+      "time": "2026-09-02 04:33:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "SEC filing shows Apple (AAPL.O) approved a fiscal 2027 annual equity award for new CEO Ternus with a target value of $55 million."
+    },
+    {
+      "id": "5071668",
+      "time": "2026-09-02 04:33:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：蒂姆·庫克年薪定為200萬美元，自2026年9月26日起生效。"
+    },
+    {
+      "id": "mkt:01a05ead-2885-7118-8445-12ae28ad010f",
+      "time": "2026-09-02 04:33:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Putin says Ukraine talks frozen; orders readiness to strike Ukrainian energy infrastructure】At a Sept. 2 press conference after a Kyrgyzstan visit, Russian President Putin said negotiations on Ukraine are frozen. He said Russian forces have been ordered to prepare to carry out large-scale strikes on Ukrainian energy infrastructure and warned there would be a response if Russian factories are hit. Putin added U.S. presidential envoy Witkoff and Jared Kushner remain welcome in Russia and that contacts between Russian and U.S. intelligence services continue."
+    },
+    {
+      "id": "5071667",
+      "time": "2026-09-02 04:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：蒂姆·庫克獲批2027財年股權激勵計劃目標價值為4500萬美元。"
+    },
+    {
+      "id": "5071666",
+      "time": "2026-09-02 04:32:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：John Ternus薪酬上調至300萬美元。"
+    },
+    {
+      "id": "mkt:01a05eac-81e9-7118-8445-0971f322214d",
+      "time": "2026-09-02 04:32:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "SEC filings show Apple (AAPL.O) new CEO Ternus' annual salary has been raised to $3.0 million, effective Sept. 1, 2026."
+    },
+    {
+      "id": "te:markets:580178",
+      "time": "2026-09-02 04:32:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Drops on Higher Global Yields — The S&P/TSX Composite Index fell 1.2% to close at 35,826 on Tuesday amid rising global bond yields. Renewed Middle East hostilities lifted oil prices and prompted markets to reassess expectations for central bank rate hikes. The BoC is expected to leave rates unchanged on Wednesday, while Canada’s 10-year yield reached a near two-week high. Financial stocks declined, with TD Bank and BMO down 0.9% and National Bank losing 1.5%. Higher yields also weighed on gold prices, pressuring miners. Agnico Eagle fell 4.4%, Barrick and WPM declined 3.6% and Franco-Nevada shed 2.7%. Tech stocks extended losses, tracking weakness on Wall Street amid soaring AI-related corporate debt issuance. Shopify fell 4.7%, Constellation Software lost 2.8% and Celestica dropped 2.1%. In contrast, energy stocks gained, with Canadian Natural rising 3.7%, Suncor and Cenovus up 3.5% and Imperial Oil adding 3%."
+    },
+    {
+      "id": "mkt:01a05eab-ea9a-7118-8445-0304fd8c21ab",
+      "time": "2026-09-02 04:31:59",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) Maps has started changing the label for Lake Ontario: U.S. users will see Lake of the Americas, Canadian users will continue to see Lake Ontario, and international users may see both names."
+    },
+    {
+      "id": "5071665",
+      "time": "2026-09-02 04:31:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：烏克蘭問題談判程序處於凍結狀態】當地時間9月2日凌晨，俄羅斯總統普京在結束對吉爾吉斯斯坦的訪問之前舉行記者會。針對當前烏克蘭問題的談判程序，普京指出，任何談判都應具備實質性內容，目前烏克蘭問題談判程序處於凍結狀態。普京還表示，美國總統特使威特科夫和女婿庫什納在俄羅斯始終是受歡迎的人，俄方樂於與他們合作。提及前線戰況時，普京指出，俄軍已接到指示，準備對烏克蘭能源設施實施大規模打擊。他稱：“他們打擊我們的工廠，將會得到回應。”在評論不久前美國中情局局長到訪莫斯科時，普京表示，俄美情報部門之間的接觸始終存在，即便在冷戰最艱難的時期也未曾中斷。"
+    },
+    {
+      "id": "5071664",
+      "time": "2026-09-02 04:31:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：在籌備釋出Astra模型之際，我們致力於讓能力持續增強的人工智慧做到安全可控，並實現廣泛可用。Astra在網路安全能力方面取得重大進展，達到了我們《準備度框架》中的關鍵閾值。我們對外公開該模型的評估方式、防護措施如何隨模型能力同步迭代，以及我們將持續鑽研改進的方向。"
+    },
+    {
+      "id": "5071663",
+      "time": "2026-09-02 04:29:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊下屬媒體：伊朗在近期衝突中針對美軍基地及陣地發動了規模最大的一輪導彈齊射。此次打擊此前伊朗已發出警告，美國一旦發動襲擊，伊朗將作出數倍力度的反擊。本次齊射的主要打擊目標後續將正式公佈。"
+    },
+    {
+      "id": "5071662",
+      "time": "2026-09-02 04:28:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我從多個機構獲取特別軍事行動的進展情報，由此形成了相當客觀的戰況圖景。"
+    },
+    {
+      "id": "mkt:01a05ea8-8ac8-7118-8444-fc77cc14c1c0",
+      "time": "2026-09-02 04:28:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said he is receiving information from multiple agencies on progress of the special military operation and that \"a fairly objective overall picture is now taking shape.\""
+    },
+    {
+      "id": "mkt:01a05ea6-1d2e-7118-8444-f203c4aca1ea",
+      "time": "2026-09-02 04:25:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Governor of Iran's Asaluyeh province said US military struck a military base; no damage reported."
+    },
+    {
+      "id": "5071661",
+      "time": "2026-09-02 04:25:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：斯維亞託戈爾斯克市已處於俄羅斯武裝力量控制之下。"
+    },
+    {
+      "id": "5071660",
+      "time": "2026-09-02 04:25:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：過去幾周，在對安全防護措施進行強化和測試期間，我們推遲了Astra專案部分開發工作與釋出程序。"
+    },
+    {
+      "id": "5071659",
+      "time": "2026-09-02 04:23:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Astra模型要求在開發過程中、正式釋出前落實更強有力的安全保障措施。"
+    },
+    {
+      "id": "5071658",
+      "time": "2026-09-02 04:23:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Astra模型已達到“網路安全準備框架”規定的關鍵網路安全能力閾值。"
+    },
+    {
+      "id": "mkt:01a05ea3-bf63-7118-8444-e88b3d54b499",
+      "time": "2026-09-02 04:23:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Putin said, regarding the Ukraine conflict, Russia still has 10% of its refining facilities in need of repairs."
+    },
+    {
+      "id": "5071657",
+      "time": "2026-09-02 04:22:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及德國：默茨總理正處境艱難。他得不到本國民眾的信任，因為他沒有維護國家利益。他正在出賣德國的國家利益。他們犯下了明顯的錯誤。民眾正在失去工作，生活條件不斷惡化。"
+    },
+    {
+      "id": "5071656",
+      "time": "2026-09-02 04:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯普京談烏克蘭衝突：俄羅斯仍有10%的煉油廠有待修復。"
+    },
+    {
+      "id": "mkt:01a05ea2-fb28-7118-8444-e7403f76abd2",
+      "time": "2026-09-02 04:22:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Putin said Russia will respond to Zelenskiy's statement that Ukraine is prepared to close Russian airspace."
+    },
+    {
+      "id": "mkt:01a05ea2-c86d-7118-8444-dbd319550f57",
+      "time": "2026-09-02 04:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin, responding to Zelensky's comment that Ukraine was prepared to close Russian airspace, said Russia will not negotiate with terrorists."
+    },
+    {
+      "id": "5071655",
+      "time": "2026-09-02 04:21:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京就澤連斯基關於烏克蘭準備關閉俄羅斯領空的言論作出回應：我們不會與恐怖分子進行談判。"
+    },
+    {
+      "id": "5071654",
+      "time": "2026-09-02 04:21:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯普京就澤連斯基關於烏克蘭準備關閉俄羅斯空域的言論作出回應：我們將採取反制措施。"
+    },
+    {
+      "id": "5071653",
+      "time": "2026-09-02 04:20:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾盤後股價大漲11%。"
+    },
+    {
+      "id": "5071652",
+      "time": "2026-09-02 04:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京就澤連斯基有關烏克蘭準備關閉俄羅斯領空的言論表態：我沒聽到這番言論，但這聽起來就像是國家恐怖主義。"
+    },
+    {
+      "id": "5071651",
+      "time": "2026-09-02 04:19:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及德國萊比錫無人機襲擊指控：他們是在偽造證據。"
+    },
+    {
+      "id": "5071650",
+      "time": "2026-09-02 04:19:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京回應德國萊比錫無人機襲擊指控：證據在哪裡？"
+    },
     {
       "id": "mkt:01a05e9e-e5ca-7118-8444-9ae5ae75d322",
       "time": "2026-09-02 04:17:46",
