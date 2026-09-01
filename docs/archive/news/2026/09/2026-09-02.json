@@ -1,7 +1,109 @@
 {
   "date": "2026-09-02",
-  "count": 83,
+  "count": 95,
   "items": [
+    {
+      "id": "mkt:01a05ddc-02f7-7118-843f-c6f3c941d4ff",
+      "time": "2026-09-02 00:44:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said the transaction was with a private entity, not with Venezuela's interim government."
+    },
+    {
+      "id": "5071469",
+      "time": "2026-09-02 00:44:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：該協議並非與委內瑞拉臨時政府簽署，而是和一傢俬營實體達成。"
+    },
+    {
+      "id": "mkt:01a05ddb-b3cc-7118-843f-bb7179a00b77",
+      "time": "2026-09-02 00:44:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Open-source intelligence outlet Faytuks Network said its intelligence team was told by a U.S. official that the action striking Iran was described as defensive."
+    },
+    {
+      "id": "5071468",
+      "time": "2026-09-02 00:44:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：委內瑞拉石油協議不會阻礙民主過渡程序。"
+    },
+    {
+      "id": "5071467",
+      "time": "2026-09-02 00:43:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：貝坦庫爾是經驗豐富的石油從業者，能夠推動各項交易轉化為實際產能。"
+    },
+    {
+      "id": "5071466",
+      "time": "2026-09-02 00:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱打擊伊朗革命衛隊目標】美國中央司令部發訊息稱，美國東部時間9月1日中午12點，也就是伊朗時間晚7點30分，北京時間今天（9月2日）零點，美軍開始對伊朗境內的伊斯蘭革命衛隊目標實施打擊，以回應革命衛隊近期試圖攻擊霍爾木茲海峽商業航運以及該地區美軍。（CCTV國際時訊）"
+    },
+    {
+      "id": "5071465",
+      "time": "2026-09-02 00:43:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：我們希望委內瑞拉擁有合法的石油產業。"
+    },
+    {
+      "id": "mkt:01a05dd9-e6d2-7118-843f-b6831c44724b",
+      "time": "2026-09-02 00:42:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "A U.S. official said Washington wants to see a legitimate Venezuelan oil industry."
+    },
+    {
+      "id": "mkt:01a05dd8-f892-7118-843f-ac830600af51",
+      "time": "2026-09-02 00:41:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. official said Venezuelan businessman Alejandro Betancourt currently faces no charges in the United States."
+    },
+    {
+      "id": "5071464",
+      "time": "2026-09-02 00:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：委內瑞拉商人亞歷杭德羅·貝坦庫爾目前未在美國面臨任何指控。"
+    },
+    {
+      "id": "mkt:01a05dd8-dbeb-7118-843f-a401f97f6554",
+      "time": "2026-09-02 00:41:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "U.S. official says Venezuela oil agreement is tied to democratic conditions."
+    },
+    {
+      "id": "mkt:01a05dd8-c058-7118-843f-9cc55775ed66",
+      "time": "2026-09-02 00:41:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Energy Secretary Wright will travel to Venezuela tonight and attend the signing of related agreements tomorrow, a US official said."
+    },
     {
       "id": "5071463",
       "time": "2026-09-02 00:40:32",
