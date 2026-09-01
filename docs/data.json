@@ -1,7 +1,141 @@
 {
-  "updated": "2026-09-01 09:40:50",
+  "updated": "2026-09-01 09:44:48",
   "count": 13120,
   "items": [
+    {
+      "id": "5069750",
+      "time": "2026-09-01 09:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【投資收益超3900億元 全國社保基金2025年年報釋出】9月1日，全國社會保障基金理事會發布的2025年度報告顯示，2025年，全國社會保障基金投資收益額為3906.72億元，投資收益率為13.22%。基金自成立以來的年均投資收益率為7.62%，累計投資收益額為22916.79億元。"
+    },
+    {
+      "id": "5069749",
+      "time": "2026-09-01 09:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預算部長官：提議在2027年撥款2.6萬億韓元用於晶片產業特別預算。"
+    },
+    {
+      "id": "5069748",
+      "time": "2026-09-01 09:43:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:01a05aa2-4996-7118-8425-65c62b3315f0",
+      "time": "2026-09-01 09:43:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Newly listed stock N Ma Mining surged more than 300%."
+    },
+    {
+      "id": "5069747",
+      "time": "2026-09-01 09:42:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "快手科技股價上漲4.05%，報34.94港元。"
+    },
+    {
+      "id": "5069746",
+      "time": "2026-09-01 09:42:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【數字貨幣概念震盪拉昇 恆寶股份漲停】數字貨幣概念震盪拉昇，恆寶股份漲停，四方精創、翠微股份、拉卡拉、楚天龍跟漲。"
+    },
+    {
+      "id": "5069745",
+      "time": "2026-09-01 09:42:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊震盪走強 茂業商業等漲停】零售板塊震盪走強，茂業商業、國芳集團等多股漲停，供銷大集、百大集團、中百集團等跟漲。"
+    },
+    {
+      "id": "5069744",
+      "time": "2026-09-01 09:42:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易居企業控股漲近11% 上半年淨利潤同比扭虧為盈】截至發稿，易居企業控股(02048.HK)漲10.71%。該公司釋出截至2026年6月30日止六個月業績，其中收入8.13億元，同比減少35.54%；公司擁有人應占利潤4524.5萬元，去年同期則取得虧損2.98億元。"
+    },
+    {
+      "id": "mkt:01a05aa1-682a-7118-8425-5bd457cb0314",
+      "time": "2026-09-01 09:42:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share AI intelligent-agent sector rallied; Zhongwen Online jumped over 9%, Bangyan Technology and Leo Co. climbed more than 8%, with Chuling Information, Dashi Intelligent, Wanxing Technology and Qingmu Technology also advancing. The MIIT General Office issued a notice launching a special action to cultivate AI application service providers, saying it will explore procurement models such as first-purchase–first-use and risk compensation and increase procurement of large models, intelligent agents and token-related services to raise industry model and AI quality and efficiency."
+    },
+    {
+      "id": "5069743",
+      "time": "2026-09-01 09:41:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞10年期國債收益率升至5.18%，為2011年以來最高水平。"
+    },
+    {
+      "id": "mkt:01a05aa0-2137-7118-8425-5763b4e0f4f6",
+      "time": "2026-09-01 09:40:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's budget minister says the 2027 budget will be 821 trillion won."
+    },
+    {
+      "id": "5069742",
+      "time": "2026-09-01 09:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預算部長官：2027年預算為821萬億韓元。"
+    },
+    {
+      "id": "mkt:01a05a9f-ffb6-7118-8425-4a9927392533",
+      "time": "2026-09-01 09:40:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00625.HK",
+        "Impact bearish"
+      ],
+      "text": "Xiyin-W (00625.HK) down more than 10%."
+    },
+    {
+      "id": "mkt:01a05a9f-c183-7118-8425-4214c2bd400e",
+      "time": "2026-09-01 09:40:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "601939.SS",
+        "Impact bullish",
+        "601988.SS",
+        "601998.SS"
+      ],
+      "text": "China Construction Bank, Bank of China and CITIC Bank A-H shares all hit record highs in early trade."
+    },
     {
       "id": "5069741",
       "time": "2026-09-01 09:39:34",
@@ -119640,132 +119774,6 @@
         "Importance 1"
       ],
       "text": "China Mobile Stock Price Hits 5-week Low — China Mobile shares decreased to 80.00 HKD, the lowest since July 2026. Over the past 4 weeks, China Mobile lost 0.18%, and in the last 12 months, it decreased 8.85%."
-    },
-    {
-      "id": "5056484",
-      "time": "2026-08-25 09:44:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方夜間襲擊了俄羅斯克拉斯諾達爾邊疆區的阿菲普斯基煉油廠。"
-    },
-    {
-      "id": "5056483",
-      "time": "2026-08-25 09:44:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【家用電器板塊活躍 石頭科技漲超17%】家用電器板塊活躍，石頭科技漲超17%，奧佳華、海信視像、萊克電氣、新寶股份、海信家電等漲幅居前。"
-    },
-    {
-      "id": "te:economy:577721",
-      "time": "2026-08-25 09:44:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10Y Yield Steadies as Traders Weigh Buybacks — The yield on the 10-year US Treasury note steadied around 4.7% on Tuesday as investors continued to assess the implications of the Treasury Department’s expanded debt buyback program. Reports suggested that the US government may tap its cash account to finance the increased buybacks, marking a shift as such purchases are typically intended to be cash neutral and have been funded through new issuance. Treasury Secretary Scott Bessent on Monday refrained from providing further signals on a potential revamp of US debt management, while reassuring markets that auction sizes for bonds would not be reduced. Meanwhile, markets speculated that the plan may offer only a temporary solution, renewing concerns over the risks of a US debt crisis and dollar weakness. Elsewhere, investors looked ahead to the latest US PCE price index data and Fed Chair Kevin Warsh’s speech at the annual Jackson Hole symposium this week for fresh clues on the monetary policy outlook."
-    },
-    {
-      "id": "5056482",
-      "time": "2026-08-25 09:43:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【半導體板塊持續下挫 臻寶科技跌近10%】半導體板塊持續下挫，臻寶科技跌近10%，江豐電子、和林微納、珂瑪科技、有研矽跟跌。"
-    },
-    {
-      "id": "mkt:01a03696-7092-7aab-9102-bba94132ae4d",
-      "time": "2026-08-25 09:43:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share coal-chemicals sector spiked intraday; Jinmei Technology hit its daily limit, with peers Jinniu Chemical, Luxi Chemical, Chengzhi, Jiangsu Sopo and Baofeng Energy also rallying."
-    },
-    {
-      "id": "5056481",
-      "time": "2026-08-25 09:43:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲3%，現報2975.00元。"
-    },
-    {
-      "id": "5056480",
-      "time": "2026-08-25 09:43:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股醫藥股走強 藥明合聯漲超7%】截至發稿，藥明合聯(02268.HK)漲7.52%，榮昌生物(09995.HK)漲3.71%，藥明生物(02269.HK)漲2.14%。"
-    },
-    {
-      "id": "5056479",
-      "time": "2026-08-25 09:42:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲3%，現報9047.00元。"
-    },
-    {
-      "id": "5056478",
-      "time": "2026-08-25 09:42:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股人工智慧概念股走弱 MINIMAX跌近5%】截至發稿，MINIMAX(00100.HK)跌4.68%，文遠知行-W(00800.HK)跌4.13%，迅策(03317.HK)跌3.18%，智譜(02513.HK)跌1.54%。"
-    },
-    {
-      "id": "5056477",
-      "time": "2026-08-25 09:42:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "煤化工板塊短線拉昇，金煤科技漲停，金牛化工、魯西化工、誠志股份、江蘇索普、寶豐能源等跟漲。"
-    },
-    {
-      "id": "mkt:01a03695-246e-7aab-9102-b67f2b02c358",
-      "time": "2026-08-25 09:42:18",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【Draft Road Traffic Safety Law submitted for first review by NPC Standing Committee】On Aug 25, 2026 the draft amendment to China’s Road Traffic Safety Law was submitted for initial review at the 24th session of the 14th NPC Standing Committee. The draft (9 chapters, 170 articles) clarifies road-entry conditions for autonomous vehicles, sets principles for violation handling and an insurance framework for AVs; targets enforcement on drunk driving, blind driving, abandoned/zombie vehicles and vehicles exceeding standards; tightens management of electric bicycles and organized mass pedestrian groups; and includes targeted measures to improve public travel convenience."
-    },
-    {
-      "id": "5056476",
-      "time": "2026-08-25 09:42:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外國企業對特定電動搖椅、滑動搖椅結構及其下游座椅單元提起337調查申請】8月24日，美國Ultra-Mek, Incorporated、美國Leggett & Platt, Incorporated、英國L&P Property Management Company根據《美國1930年關稅法》第337節規定向美國國際貿易委員會提出申請，主張對美出口、在美進口及銷售的特定電動搖椅、滑動搖椅結構及其下游座椅單元違反了美國337條款。"
-    },
-    {
-      "id": "5056475",
-      "time": "2026-08-25 09:41:22",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【道路交通安全法修訂草案提請審議】2026年8月25日，道路交通安全法修訂草案提請十四屆全國人大常委會第二十四次會議初次審議。現行道路交通安全法於2004年施行，2007年、2011年、2021年修正了個別條款。此次修訂草案共9章170條，明確了自動駕駛汽車的上道路行駛條件、違章處理原則和保險制度等；聚焦“醉駕”“盲駕”“殭屍車”“超標車”治理和電動腳踏車、“暴走團”管理等突出問題，有針對性完善制度措施；在維護道路交通安全的同時，推行便民舉措，便利群眾出行等。"
-    },
-    {
-      "id": "5056474",
-      "time": "2026-08-25 09:40:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "*ST聞泰早盤觸及漲停，日前旗下安世中國在上海舉辦新品釋出會，對外發布了多款基於國內12英寸車規級晶圓平臺開發的功率半導體產品。"
     }
   ]
 }

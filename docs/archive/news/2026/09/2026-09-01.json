@@ -1,7 +1,141 @@
 {
   "date": "2026-09-01",
-  "count": 713,
+  "count": 727,
   "items": [
+    {
+      "id": "5069750",
+      "time": "2026-09-01 09:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【投資收益超3900億元 全國社保基金2025年年報釋出】9月1日，全國社會保障基金理事會發布的2025年度報告顯示，2025年，全國社會保障基金投資收益額為3906.72億元，投資收益率為13.22%。基金自成立以來的年均投資收益率為7.62%，累計投資收益額為22916.79億元。"
+    },
+    {
+      "id": "5069749",
+      "time": "2026-09-01 09:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預算部長官：提議在2027年撥款2.6萬億韓元用於晶片產業特別預算。"
+    },
+    {
+      "id": "5069748",
+      "time": "2026-09-01 09:43:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:01a05aa2-4996-7118-8425-65c62b3315f0",
+      "time": "2026-09-01 09:43:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Newly listed stock N Ma Mining surged more than 300%."
+    },
+    {
+      "id": "5069747",
+      "time": "2026-09-01 09:42:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "快手科技股價上漲4.05%，報34.94港元。"
+    },
+    {
+      "id": "5069746",
+      "time": "2026-09-01 09:42:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【數字貨幣概念震盪拉昇 恆寶股份漲停】數字貨幣概念震盪拉昇，恆寶股份漲停，四方精創、翠微股份、拉卡拉、楚天龍跟漲。"
+    },
+    {
+      "id": "5069745",
+      "time": "2026-09-01 09:42:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊震盪走強 茂業商業等漲停】零售板塊震盪走強，茂業商業、國芳集團等多股漲停，供銷大集、百大集團、中百集團等跟漲。"
+    },
+    {
+      "id": "5069744",
+      "time": "2026-09-01 09:42:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易居企業控股漲近11% 上半年淨利潤同比扭虧為盈】截至發稿，易居企業控股(02048.HK)漲10.71%。該公司釋出截至2026年6月30日止六個月業績，其中收入8.13億元，同比減少35.54%；公司擁有人應占利潤4524.5萬元，去年同期則取得虧損2.98億元。"
+    },
+    {
+      "id": "mkt:01a05aa1-682a-7118-8425-5bd457cb0314",
+      "time": "2026-09-01 09:42:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share AI intelligent-agent sector rallied; Zhongwen Online jumped over 9%, Bangyan Technology and Leo Co. climbed more than 8%, with Chuling Information, Dashi Intelligent, Wanxing Technology and Qingmu Technology also advancing. The MIIT General Office issued a notice launching a special action to cultivate AI application service providers, saying it will explore procurement models such as first-purchase–first-use and risk compensation and increase procurement of large models, intelligent agents and token-related services to raise industry model and AI quality and efficiency."
+    },
+    {
+      "id": "5069743",
+      "time": "2026-09-01 09:41:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞10年期國債收益率升至5.18%，為2011年以來最高水平。"
+    },
+    {
+      "id": "mkt:01a05aa0-2137-7118-8425-5763b4e0f4f6",
+      "time": "2026-09-01 09:40:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's budget minister says the 2027 budget will be 821 trillion won."
+    },
+    {
+      "id": "5069742",
+      "time": "2026-09-01 09:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國預算部長官：2027年預算為821萬億韓元。"
+    },
+    {
+      "id": "mkt:01a05a9f-ffb6-7118-8425-4a9927392533",
+      "time": "2026-09-01 09:40:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00625.HK",
+        "Impact bearish"
+      ],
+      "text": "Xiyin-W (00625.HK) down more than 10%."
+    },
+    {
+      "id": "mkt:01a05a9f-c183-7118-8425-4214c2bd400e",
+      "time": "2026-09-01 09:40:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "601939.SS",
+        "Impact bullish",
+        "601988.SS",
+        "601998.SS"
+      ],
+      "text": "China Construction Bank, Bank of China and CITIC Bank A-H shares all hit record highs in early trade."
+    },
     {
       "id": "5069741",
       "time": "2026-09-01 09:39:34",
