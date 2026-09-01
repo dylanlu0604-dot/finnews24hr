@@ -1,7 +1,25 @@
 {
   "date": "2026-09-02",
-  "count": 535,
+  "count": 537,
   "items": [
+    {
+      "id": "mkt:01a05eeb-e7b2-7118-8446-752da8ae387d",
+      "time": "2026-09-02 05:41:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian President Putin said late last night Ukraine attempted to strike three refineries but failed because the sites are now protected. He said that does not mean attacks are impossible, but current defenses are substantially different."
+    },
+    {
+      "id": "5071716",
+      "time": "2026-09-02 05:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：我們僅剩約10%的煉油廠尚待修復，我們絕不能讓已經修復完畢的煉油廠再遭到打擊。正因如此，各方需要開展合作。"
+    },
     {
       "id": "mkt:01a05ee9-84ce-7118-8446-6f9f96805ce3",
       "time": "2026-09-02 05:39:17",
