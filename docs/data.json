@@ -1,7 +1,183 @@
 {
-  "updated": "2026-09-01 10:08:46",
-  "count": 13151,
+  "updated": "2026-09-01 10:12:45",
+  "count": 13157,
   "items": [
+    {
+      "id": "mkt:01a05abc-f7fd-7118-8426-ca1eb98b0335",
+      "time": "2026-09-01 10:12:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong internet stocks slid: Baidu (09888.HK), BOSS Zhipin (02076.HK), Meituan (03690.HK) and Alibaba (09988.HK) fell over 3%; Trip.com Group-S (09961.HK), JD.com (09618.HK) and Tencent Holdings (00700.HK) fell more than 2%."
+    },
+    {
+      "id": "5069817",
+      "time": "2026-09-01 10:11:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菜籽期貨主力合約跌停。"
+    },
+    {
+      "id": "mkt:01a05abb-ff97-7118-8426-c3a47ce79821",
+      "time": "2026-09-01 10:11:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic temporarily pauses parts of AI training and security testing to tighten model safety】Anthropic said it has temporarily paused certain AI training runs and external cybersecurity assessments after AI agents took unauthorized actions earlier this year. The company disclosed three related incidents in July, suspended external security evaluations of pre-release models, and briefly halted internal testing; it also paused higher-risk reinforcement learning (RL) environments for several weeks. Most RL work has resumed, but some high-risk environments remain paused pending human review or upgraded monitoring tools. Anthropic said these steps mirror measures taken earlier by OpenAI and reiterated the need for broader coordination on the pace of frontier AI development."
+    },
+    {
+      "id": "mkt:01a05abb-d2ac-7118-8426-b91662b1086d",
+      "time": "2026-09-01 10:10:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama confirmed with US Treasury Secretary Bessent that their ongoing cooperation will continue to support stability in global financial markets."
+    },
+    {
+      "id": "5069816",
+      "time": "2026-09-01 10:10:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多元金融板塊震盪走高，香溢融通、翠微股份漲停】多元金融板塊震盪走高，香溢融通、翠微股份漲停，拉卡拉、弘業期貨、海德股份、華金資本、新力金融等跟漲。"
+    },
+    {
+      "id": "5069815",
+      "time": "2026-09-01 10:10:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25268.969點；恒生科技指數現跌1.005%。"
+    },
+    {
+      "id": "mkt:01a05abb-2dd2-7118-8426-b3fdcbe913dd",
+      "time": "2026-09-01 10:10:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said when asked whether recent yen moves were orderly that it is difficult to say how specific factors will affect exchange-rate volatility."
+    },
+    {
+      "id": "5069814",
+      "time": "2026-09-01 10:09:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不對當前日本國債收益率水平置評。"
+    },
+    {
+      "id": "mkt:01a05aba-e3a8-7118-8426-aaeff02c2512",
+      "time": "2026-09-01 10:09:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said he has confirmed with U.S. Treasury Secretary Bessent that they will continue coordinated foreign-exchange action."
+    },
+    {
+      "id": "mkt:01a05aba-d7cc-7118-8426-a5014424c93c",
+      "time": "2026-09-01 10:09:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share diversified financials rose amid choppy trading; Xiangyi Ruitong and Cuiwei Co. hit daily limit; Lakala, Hongye Futures, Haide Co., Huajin Capital and Xinli Financial also gained."
+    },
+    {
+      "id": "mkt:01a05aba-b538-7118-8426-9c7a8926294b",
+      "time": "2026-09-01 10:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Volkswagen opens probe after complaint alleging supplier pressured large numbers of recent graduates to leave】Volkswagen China said on Sept. 1 the Volkswagen Group has launched a special investigation after receiving a complaint alleging supplier Xingyu Co. pressured large numbers of recent graduates to leave; the probe is ongoing."
+    },
+    {
+      "id": "mkt:01a05aba-adf0-7118-8426-9014dd50092d",
+      "time": "2026-09-01 10:09:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple grain ETFs climb over 6%】Guozheng Grain Index rose more than 6%. E Fund Grain ETF (159038), ChinaAMC Grain ETF (159030), GF Grain ETF (159587), Huitianfu Grain ETF (159073) and Penghua Grain ETF (159698) each gained over 6%."
+    },
+    {
+      "id": "5069813",
+      "time": "2026-09-01 10:09:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻糧食ETF漲幅擴大至6%】國證糧食指數漲超6%，糧食ETF易方達（159038）、糧食ETF華夏（159030）、糧食ETF廣發（159587）、糧食ETF匯添富（159073）、糧食ETF鵬華（159698）等多隻糧食ETF漲超6%。"
+    },
+    {
+      "id": "5069812",
+      "time": "2026-09-01 10:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財政大臣片山：一致認為，我們與美國的共同努力將繼續有利於全球金融市場穩定。"
+    },
+    {
+      "id": "5069811",
+      "time": "2026-09-01 10:08:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【我國光伏發電裝機歷史性超過煤電，成為裝機規模最大的電源品類】據國家能源局，截至今年7月底，我國光伏發電裝機容量達到12.86億千瓦，其中集中式光伏7.04億千瓦、分散式光伏5.82億千瓦。光伏發電的裝機容量首次超過煤電，成為我國裝機規模最大的電源品類。今年7月，光伏發電新增裝機容量1373萬千瓦，同比增長43%。今年1—7月，光伏發電累計新增裝機容量8565萬千瓦，同比下降62%（主要受2025年1—5月搶裝影響，同期基數較高）；光伏發電量達到8024億千瓦時，同比提升15.5%，超出全社會用電量增速10.8個百分點；光伏發電量在全社會用電量中的佔比已達到13%，較去年全年水平提升1.7個百分點。近年來，光伏發電裝機及發電量持續保持較快增長態勢，在保障電力供應、推動能源轉型中的作用日益凸顯。"
+    },
+    {
+      "id": "mkt:01a05ab9-9d6e-7118-8426-88df638783cd",
+      "time": "2026-09-01 10:08:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share gold-related stocks rebounded intraday; Mankalong rose over 10%, Jinyi Culture and Teli A hit their daily limits, and Laishen Tongling, Dia Co., Mingpai Jewelry and Chaohongji also advanced."
+    },
+    {
+      "id": "5069810",
+      "time": "2026-09-01 10:08:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月在被問及近期日圓走勢是否有序時表示，很難說具體因素會如何影響匯率波動。"
+    },
+    {
+      "id": "mkt:01a05ab9-7d67-7118-8426-85b3d20b5328",
+      "time": "2026-09-01 10:08:20",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said she could not comment when asked whether the yen's current exchange rate is appropriate."
+    },
+    {
+      "id": "5069809",
+      "time": "2026-09-01 10:08:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華為、小米、榮耀手機集體調價】9月1日，華為、小米、榮耀等多品牌主力機型正式上調售價，部分旗艦漲幅高達千元。"
+    },
     {
       "id": "5069808",
       "time": "2026-09-01 10:08:03",
@@ -119977,130 +120153,6 @@
         "Energy"
       ],
       "text": "【Vietnam's National Assembly approves agreement on first nuclear power project】Vietnam's National Assembly on Monday approved an agreement tied to the country's first nuclear power project, the most significant step in its nuclear revival since two reactors were cancelled in 2016 over cost concerns. The decision accompanies a revised eighth power development plan that raises national installed capacity to 183.3–236.4 GW by 2030 from 82.4 GW at end‑2024; nuclear is scheduled to contribute 4–6.4 GW between 2030 and 2035. Vietnam also targets at least 10% annual economic growth from 2026 and is pushing investment in manufacturing, AI, semiconductors and data centres, sectors that will materially raise electricity demand."
-    },
-    {
-      "id": "5056542",
-      "time": "2026-08-25 10:12:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北啟動防汛四級應急響應】河北省氣象臺8月25日9時11分發布暴雨橙色預警訊號，預計8月25日下午到26日上午，張家口南部、唐山南部、保定、雄安新區、廊坊、石家莊、滄州、衡水等地有暴雨到大暴雨，局地降雨量可能超過200毫米；降雨對流明顯，部分地區1小時雨量可達70毫米以上或6小時雨量可達100毫米以上。經會商研判，河北省防汛抗旱指揮部決定於8月25日10時對石家莊市、張家口市、唐山市、廊坊市、保定市、滄州市、衡水市、雄安新區、定州市、辛集市啟動防汛四級應急響應。"
-    },
-    {
-      "id": "mkt:01a036b0-06e9-7aab-9103-467cf7264df5",
-      "time": "2026-08-25 10:11:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Vietnam's National Assembly approved the country's first nuclear power project."
-    },
-    {
-      "id": "5056541",
-      "time": "2026-08-25 10:11:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【我駐泰使館確認一中國公民在泰遭綁架 目前已得到妥善安置】據此前泰國方面訊息，四名泰國男子因涉嫌從曼谷一家酒店綁架一名中國女子，並試圖將其帶往泰緬邊境地區而被捕。總檯記者25日自中國駐泰國大使館獲悉，經向當地警方核實，事件中的外籍公民確為中國公民，目前已得到妥善安置，使館正在配合警方調查工作，案件正在進一步審理中。（央視新聞）"
-    },
-    {
-      "id": "5056540",
-      "time": "2026-08-25 10:10:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內跌3%，現報3719.00元。"
-    },
-    {
-      "id": "mkt:01a036ae-bff4-7aab-9103-3f1adc514d2b",
-      "time": "2026-08-25 10:10:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "REUTERS SURVEY: India's Q2 GDP growth may slow to 7.1%."
-    },
-    {
-      "id": "mkt:01a036ae-ac0d-7aab-9103-3439cda0926f",
-      "time": "2026-08-25 10:10:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "China A-share smart-driving concept stocks recovered after intraday swings; Zhejiang Shibao hit the daily trading limit, while Xingyuan Zhuomei, Zhongyou Technology, Yachuang Electronics, Wanji Technology and Fulongma advanced."
-    },
-    {
-      "id": "5056539",
-      "time": "2026-08-25 10:09:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東省人大監察和司法委員會原副主任委員蘇立科被開除黨籍】中央紀委國家監委網站8月25日通報，據山東省紀委監委訊息：經山東省委批准，山東省紀委監委對山東省人大監察和司法委員會原副主任委員蘇立科嚴重違紀違法問題進行了立案審查調查。經查，蘇立科喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；違反組織原則，隱瞞不報個人有關事項，在幹部選拔任用、崗位調整等工作中違規為他人謀取利益；廉潔底線失守，違規收受禮金、消費卡，向管理和服務物件放貸獲取大額回報，在購買住房中侵犯集體利益；目無法紀，將權力異化為謀取個人私利的工具，大搞權錢交易，利用職務便利為他人在企業經營、貸款辦理等方面謀利，並非法收受鉅額財物。蘇立科嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經山東省紀委常委會會議研究並報山東省委批准，決定給予蘇立科開除黨籍處分；按規定取消其享受的待遇；終止其濰坊市第十三次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "5056538",
-      "time": "2026-08-25 10:09:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中化國際EMA專案投產】據中化國際訊息，8月24日，中化國際EMA（乙烯-馬來酸酐共聚物）專案裝置全線貫通，首批合格產品順利下線。這是國內首套擁有完全自主智慧財產權的EMA工業化裝置，打破該產品核心生產技術長期由海外企業主導的局面，成功填補國內空白。"
-    },
-    {
-      "id": "mkt:01a036ae-2f01-7aab-9103-2f9c89b708eb",
-      "time": "2026-08-25 10:09:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【CCDC cuts bond-market service fees】China Central Depository & Clearing Co. (CCDC) said it will cut fees for multiple bond-market services, effective Sept. 1, 2026 through Dec. 31, 2028. Key measures: full waiver of issuance registration fees for Panda (international) bonds. Interest-payment/settlement fees for outstanding interbank bonds reduced to 95% of prior rates, leaving a post-discount rate of 0.0000475 of face value (0.00475%, 0.475 bps); interest-payment fees for Sci-Tech innovation bonds and Panda bonds fully waived. For interbank bond types and issuers not covered by existing concessions, cash bond settlement fee will be 135 yuan per trade (10% discount). Interbank repo and bond-lending settlement fees cut to 95%: pledged repo single-security 114 yuan/trade, multi-security 190 yuan/trade; sell-out (buyout) repo 190 yuan/trade; bond lending (including cross-custodian and centralized lending) 190 yuan/trade. Counter (OTC) bond settlement fees cut to 95%, resulting in a rate of 0.000019 of face value (0.0019%, 0.19 bps) with a per-trade cap of 120 yuan. CCDC said it will notify separately of any further adjustments."
-    },
-    {
-      "id": "te:markets:577729",
-      "time": "2026-08-25 10:09:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX at Over 2-Week Low as Tech Weighs — The TAIEX, Taiwan’s benchmark stock index, fell 479 points, or 1.0%, to 44,325 in morning trade, extending losses from the previous session, weighed down by electronic technology and technology services. The broader index touched its lowest level since August 7, with electronic technology and technology services each dropping 1.1%, tracking a fall in tech stocks on Wall Street overnight. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, shed 1.5% following a 1.6% fall on Monday. Declines were also seen in MediaTek (-0.7%), Delta Electronics (-0.9%), and Hon Hai Precision Industry (-0.8%). Nanya Technology, a major Taiwanese memory chip supplier, plunged 5.1%. Caution was also evident ahead of the US PCE price data for guidance on the Fed's monetary policy decision at its upcoming meeting, as well as FOMC speeches at the Jackson Hole Symposium."
-    },
-    {
-      "id": "5056537",
-      "time": "2026-08-25 10:09:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【智慧駕駛概念震盪回升 浙江世寶漲停】智慧駕駛概念盤中震盪回升，浙江世寶漲停，星源卓鎂、中郵科技、雅創電子、萬集科技、福龍馬等跟漲。"
-    },
-    {
-      "id": "5056536",
-      "time": "2026-08-25 10:09:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4640美元/盎司，日內跌0.25%。"
-    },
-    {
-      "id": "mkt:01a036ad-8856-7aab-9103-2009512e69c0",
-      "time": "2026-08-25 10:08:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish"
-      ],
-      "text": "STAR 50 index turned positive after earlier falling more than 2%. Constituent Roborock Technology hit the 20% daily limit-up."
     }
   ]
 }

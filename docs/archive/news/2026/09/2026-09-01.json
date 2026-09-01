@@ -1,7 +1,183 @@
 {
   "date": "2026-09-01",
-  "count": 825,
+  "count": 844,
   "items": [
+    {
+      "id": "mkt:01a05abc-f7fd-7118-8426-ca1eb98b0335",
+      "time": "2026-09-01 10:12:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong internet stocks slid: Baidu (09888.HK), BOSS Zhipin (02076.HK), Meituan (03690.HK) and Alibaba (09988.HK) fell over 3%; Trip.com Group-S (09961.HK), JD.com (09618.HK) and Tencent Holdings (00700.HK) fell more than 2%."
+    },
+    {
+      "id": "5069817",
+      "time": "2026-09-01 10:11:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菜籽期貨主力合約跌停。"
+    },
+    {
+      "id": "mkt:01a05abb-ff97-7118-8426-c3a47ce79821",
+      "time": "2026-09-01 10:11:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic temporarily pauses parts of AI training and security testing to tighten model safety】Anthropic said it has temporarily paused certain AI training runs and external cybersecurity assessments after AI agents took unauthorized actions earlier this year. The company disclosed three related incidents in July, suspended external security evaluations of pre-release models, and briefly halted internal testing; it also paused higher-risk reinforcement learning (RL) environments for several weeks. Most RL work has resumed, but some high-risk environments remain paused pending human review or upgraded monitoring tools. Anthropic said these steps mirror measures taken earlier by OpenAI and reiterated the need for broader coordination on the pace of frontier AI development."
+    },
+    {
+      "id": "mkt:01a05abb-d2ac-7118-8426-b91662b1086d",
+      "time": "2026-09-01 10:10:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama confirmed with US Treasury Secretary Bessent that their ongoing cooperation will continue to support stability in global financial markets."
+    },
+    {
+      "id": "5069816",
+      "time": "2026-09-01 10:10:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多元金融板塊震盪走高，香溢融通、翠微股份漲停】多元金融板塊震盪走高，香溢融通、翠微股份漲停，拉卡拉、弘業期貨、海德股份、華金資本、新力金融等跟漲。"
+    },
+    {
+      "id": "5069815",
+      "time": "2026-09-01 10:10:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25268.969點；恒生科技指數現跌1.005%。"
+    },
+    {
+      "id": "mkt:01a05abb-2dd2-7118-8426-b3fdcbe913dd",
+      "time": "2026-09-01 10:10:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said when asked whether recent yen moves were orderly that it is difficult to say how specific factors will affect exchange-rate volatility."
+    },
+    {
+      "id": "5069814",
+      "time": "2026-09-01 10:09:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不對當前日本國債收益率水平置評。"
+    },
+    {
+      "id": "mkt:01a05aba-e3a8-7118-8426-aaeff02c2512",
+      "time": "2026-09-01 10:09:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said he has confirmed with U.S. Treasury Secretary Bessent that they will continue coordinated foreign-exchange action."
+    },
+    {
+      "id": "mkt:01a05aba-d7cc-7118-8426-a5014424c93c",
+      "time": "2026-09-01 10:09:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share diversified financials rose amid choppy trading; Xiangyi Ruitong and Cuiwei Co. hit daily limit; Lakala, Hongye Futures, Haide Co., Huajin Capital and Xinli Financial also gained."
+    },
+    {
+      "id": "mkt:01a05aba-b538-7118-8426-9c7a8926294b",
+      "time": "2026-09-01 10:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Volkswagen opens probe after complaint alleging supplier pressured large numbers of recent graduates to leave】Volkswagen China said on Sept. 1 the Volkswagen Group has launched a special investigation after receiving a complaint alleging supplier Xingyu Co. pressured large numbers of recent graduates to leave; the probe is ongoing."
+    },
+    {
+      "id": "mkt:01a05aba-adf0-7118-8426-9014dd50092d",
+      "time": "2026-09-01 10:09:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Multiple grain ETFs climb over 6%】Guozheng Grain Index rose more than 6%. E Fund Grain ETF (159038), ChinaAMC Grain ETF (159030), GF Grain ETF (159587), Huitianfu Grain ETF (159073) and Penghua Grain ETF (159698) each gained over 6%."
+    },
+    {
+      "id": "5069813",
+      "time": "2026-09-01 10:09:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻糧食ETF漲幅擴大至6%】國證糧食指數漲超6%，糧食ETF易方達（159038）、糧食ETF華夏（159030）、糧食ETF廣發（159587）、糧食ETF匯添富（159073）、糧食ETF鵬華（159698）等多隻糧食ETF漲超6%。"
+    },
+    {
+      "id": "5069812",
+      "time": "2026-09-01 10:08:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財政大臣片山：一致認為，我們與美國的共同努力將繼續有利於全球金融市場穩定。"
+    },
+    {
+      "id": "5069811",
+      "time": "2026-09-01 10:08:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【我國光伏發電裝機歷史性超過煤電，成為裝機規模最大的電源品類】據國家能源局，截至今年7月底，我國光伏發電裝機容量達到12.86億千瓦，其中集中式光伏7.04億千瓦、分散式光伏5.82億千瓦。光伏發電的裝機容量首次超過煤電，成為我國裝機規模最大的電源品類。今年7月，光伏發電新增裝機容量1373萬千瓦，同比增長43%。今年1—7月，光伏發電累計新增裝機容量8565萬千瓦，同比下降62%（主要受2025年1—5月搶裝影響，同期基數較高）；光伏發電量達到8024億千瓦時，同比提升15.5%，超出全社會用電量增速10.8個百分點；光伏發電量在全社會用電量中的佔比已達到13%，較去年全年水平提升1.7個百分點。近年來，光伏發電裝機及發電量持續保持較快增長態勢，在保障電力供應、推動能源轉型中的作用日益凸顯。"
+    },
+    {
+      "id": "mkt:01a05ab9-9d6e-7118-8426-88df638783cd",
+      "time": "2026-09-01 10:08:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share gold-related stocks rebounded intraday; Mankalong rose over 10%, Jinyi Culture and Teli A hit their daily limits, and Laishen Tongling, Dia Co., Mingpai Jewelry and Chaohongji also advanced."
+    },
+    {
+      "id": "5069810",
+      "time": "2026-09-01 10:08:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月在被問及近期日圓走勢是否有序時表示，很難說具體因素會如何影響匯率波動。"
+    },
+    {
+      "id": "mkt:01a05ab9-7d67-7118-8426-85b3d20b5328",
+      "time": "2026-09-01 10:08:20",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama said she could not comment when asked whether the yen's current exchange rate is appropriate."
+    },
+    {
+      "id": "5069809",
+      "time": "2026-09-01 10:08:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華為、小米、榮耀手機集體調價】9月1日，華為、小米、榮耀等多品牌主力機型正式上調售價，部分旗艦漲幅高達千元。"
+    },
     {
       "id": "5069808",
       "time": "2026-09-01 10:08:03",
