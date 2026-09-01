@@ -1,7 +1,116 @@
 {
-  "updated": "2026-09-02 00:16:56",
-  "count": 12376,
+  "updated": "2026-09-02 00:21:01",
+  "count": 12383,
   "items": [
+    {
+      "id": "mkt:01a05dc5-3705-7118-843f-1885213bdcaf",
+      "time": "2026-09-02 00:20:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude jumped to $88.00/bbl, up 3.04% intraday. Brent crude rose $1.00 to $92.80/bbl, up 2.77% intraday."
+    },
+    {
+      "id": "5071441",
+      "time": "2026-09-02 00:19:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：伊朗南部多地傳出爆炸訊息。"
+    },
+    {
+      "id": "te:economy:580148",
+      "time": "2026-09-02 00:19:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Peru Annual Inflation Accelerates Further — The annual inflation rate in Peru's capital, Lima, accelerated to 4.44% in August 2026, marking the fastest pace in nearly three years, up from 4.07% in July. Price pressures have strengthened since March amid a domestic gas crisis, higher global fuel prices, and adverse weather affecting crop yields and fishing. Inflation accelerated for food, rising to 3.9% from 3.5%, and restaurants and hotels (4.3% vs 4.2%), while transport costs surged further by 14.8% after a 14.3% rise. Price growth in housing and utilities also added upward pressure, rising sharply to 3.1% from 1.3%. From the previous month, consumer prices rose 0.07%, easing from a 0.29% rise in the prior month."
+    },
+    {
+      "id": "mkt:01a05dc4-930f-7118-843f-14e000f269ec",
+      "time": "2026-09-02 00:19:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media report explosions heard at Chabahar and Bandar Abbas ports."
+    },
+    {
+      "id": "mkt:01a05dc3-cf5c-7118-843f-0aa24ececbc4",
+      "time": "2026-09-02 00:18:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli media, citing sources, report the US carried out strikes inside Iran."
+    },
+    {
+      "id": "5071440",
+      "time": "2026-09-02 00:18:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報89.19美元/桶。"
+    },
+    {
+      "id": "5071439",
+      "time": "2026-09-02 00:17:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破89美元/桶，日內漲3.80%。"
+    },
+    {
+      "id": "5071438",
+      "time": "2026-09-02 00:17:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列方面報道：有關美國襲擊伊朗的初步訊息。"
+    },
+    {
+      "id": "te:markets:580147",
+      "time": "2026-09-02 00:17:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Drop for 2nd Session — European stocks closed sharply lower for a second session on Tuesday amid persistent concerns that tight financial conditions could hamper economic activity. The Euro STOXX 50 fell 0.9% to 6,365 and the STOXX Europe 600 dropped 0.6% to 647. The US and Iran exchanged more strikes and prolonged the outlook of suspended energy exports from the Persian Gulf, raising fuel prices and inflationary risks. The elevated energy price backdrop had already lifted headline inflation in the Eurozone, per the latest data, consolidating the likelihood of an ECB hike this month. SAP, Prosus, and Adyen dropped between 4% and 2.6%. Industrials also closed lower with Siemens, Schneider, and Rheinmetall dropping around 2.5%. On the other hand, Novartis surged 6.3% as its experimental multiple sclerosis pill succeeded in two late trials."
+    },
+    {
+      "id": "mkt:01a05dc2-480b-7118-843f-0480a4f622ab",
+      "time": "2026-09-02 00:16:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) shares rose 2.74% intraday."
+    },
     {
       "id": "te:markets:580146",
       "time": "2026-09-02 00:15:47",
@@ -113375,33 +113484,6 @@
         "其他"
       ],
       "text": "【柬埔寨湄公河流域遭遇洪災】柬埔寨國家災害管理委員會發言人8月25日表示，受颱風“沙德爾”影響，該國北部桔井省、特本克蒙省、上丁省和磅湛省的湄公河流域自上週末以來遭受嚴重洪災。（新華社）"
-    },
-    {
-      "id": "5058381",
-      "time": "2026-08-26 00:19:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本推動AI軍事應用 美相關企業加速進入日防務市場】近來，日本“新型軍國主義”妄動不斷。日本政府主動推動軍工體系擴張，從傳統軍工巨頭向民間科技企業滲透，包括美國的人工智慧企業也正在尋求進入日本市場。近日，在位於美國紐約郊區的一處嚴格保密設施內，日媒記者親身體驗了一場人工智慧還原的無人機攻擊訓練。該公司正推動將這套訓練系統引入日本，並已與一家和日本政府存在業務往來的軍事諮詢公司展開洽談。隨著人工智慧與無人機技術不斷發展，相關企業正加速進入日本防務市場。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a039b7-4ff9-7aab-9117-18ac62f588c9",
-      "time": "2026-08-26 00:18:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Canadian minister said the threat to Canada's auto industry is 'real'."
-    },
-    {
-      "id": "mkt:01a039b5-f6fe-7aab-9117-161fc99f4739",
-      "time": "2026-08-26 00:17:01",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX (SPCX.O) will build a new Starship launch site in southern Louisiana, US."
     }
   ]
 }
