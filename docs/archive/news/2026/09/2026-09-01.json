@@ -1,7 +1,140 @@
 {
   "date": "2026-09-01",
-  "count": 1266,
+  "count": 1283,
   "items": [
+    {
+      "id": "mkt:01a05ba8-7657-7118-842c-0578843b5ba4",
+      "time": "2026-09-01 14:29:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Indonesia government says Bank Indonesia will tighten oversight of banks' and corporates' dollar purchases."
+    },
+    {
+      "id": "mkt:01a05ba8-303c-7118-842b-fee57ec2d392",
+      "time": "2026-09-01 14:29:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local authorities said the fire at Russia's Ust-Luga port has been extinguished."
+    },
+    {
+      "id": "5070162",
+      "time": "2026-09-01 14:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯烏斯季-盧加港大火已被撲滅。"
+    },
+    {
+      "id": "5070161",
+      "time": "2026-09-01 14:28:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行將加強對銀行與企業美元購買行為的監管。"
+    },
+    {
+      "id": "5070160",
+      "time": "2026-09-01 14:28:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【印度央行美元空頭頭寸規模升至新高 受僑民存款等計劃推動】印度央行的美元淨空頭頭寸規模7月躍升至創紀錄的1368億美元，反映該行為吸引外資而採取的種種措施，包括針對海外印度人的特殊存款計劃，導致未來債務負擔日益加重。"
+    },
+    {
+      "id": "5070159",
+      "time": "2026-09-01 14:27:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【擴散語言模型端側落地提速：DiffuSpace聯手Acrab將Agent執行提速5倍】9月1日，擴散語言模型（dLLM）團隊擴散智慧（DiffuSpace）與智慧體計算平臺Acrab達成戰略合作，推動dLLM在AI PC、智慧汽車等端側場景落地。測試顯示，該方案可將端側Agent執行提速5倍。隨著谷歌、螞蟻等巨頭入局，業內預期dLLM或在兩年內替代GPT類自迴歸模型。"
+    },
+    {
+      "id": "te:economy:579851",
+      "time": "2026-09-01 14:26:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Jobless Rate at 5-Month Low — Romania’s seasonally adjusted unemployment rate eased to 6.4% in July 2026 from an upwardly revised 6.8% in the previous month, marking its lowest level since February. The number of unemployed people decreased by 28.7 thousand month-on-month and increased 42 thousand year-on-year. By gender, the unemployment rate for men fell to 6.2% from 6.6% in June, while the rate for women declined to 6.7% from 7.1%. Among individuals aged 25 to 74, who accounted for 76.4% of total unemployed people, the unemployment rate edged down to 5.2% from 5.3% in June. Compared with the same month a year earlier, however, the overall unemployment rate remained higher than the 5.9% recorded in July 2025."
+    },
+    {
+      "id": "mkt:01a05ba5-b247-7118-842b-f75dec97043a",
+      "time": "2026-09-01 14:26:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA to speak at SCO+ meeting in Bishkek on Sept 1】On Sept 1 afternoon local time, CHINA will attend the Shanghai Cooperation Organization+ (SCO+) meeting at the Happiness Palace in Bishkek and deliver a major speech."
+    },
+    {
+      "id": "mkt:01a05ba5-98f0-7118-842b-e9fa934fe214",
+      "time": "2026-09-01 14:26:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "30-year government bond futures main contract (TL) rose 0.30% intraday to 116.23 yuan."
+    },
+    {
+      "id": "5070158",
+      "time": "2026-09-01 14:26:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "1-7月印度尼西亞自菲律賓進口鎳礦石量增至1140萬噸。"
+    },
+    {
+      "id": "mkt:01a05ba5-607d-7118-842b-e69137ab515a",
+      "time": "2026-09-01 14:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【TrendForce: Top five enterprise SSD brands' Q2 revenue doubles to $37.59bn】TrendForce memory-industry research says NAND flash vendors have expanded supply of higher‑margin enterprise SSDs to maximize profits and optimize product mix. With shipments and contract prices rising, combined Q2 2026 revenue for the global top five enterprise SSD brands reached about $37.59bn, up 103.6% QoQ."
+    },
+    {
+      "id": "5070157",
+      "time": "2026-09-01 14:25:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工行等多隻銀行股盤中創歷史新高】9月1日，銀行板塊延續近期強勢表現，多隻銀行股盤中股價創歷史新高。截至發稿，郵儲銀行（601658.SH）領漲，漲幅超4%；工商銀行（601398.SH）A股漲超1%，盤中報8.17元/股，股價創歷史新高。此前早盤，中國銀行（601988.SH）、建設銀行（601939.SH）、中信銀行（601998.SH）等銀行股也重新整理歷史高點，其中建設銀行盤中一度報11.11元/股，中信銀行盤中一度報8.98元/股。此外，青島銀行（002948.SZ）、成都銀行（601838.SH）等多隻銀行股盤中股價亦創歷史新高。（澎湃）"
+    },
+    {
+      "id": "mkt:01a05ba5-39b9-7118-842b-d94a63d1b4a5",
+      "time": "2026-09-01 14:25:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Third InnoHK R&D platform SEAM launched】SEAM, the third InnoHK R&D platform, was launched at Hong Kong Science Park on Sept 1 by the HONG KONG GOVT's Innovation and Technology Commission and Hong Kong Science and Technology Parks Corporation. InnoHK is the HONG KONG GOVT's flagship innovation programme to position Hong Kong as a global research-collaboration hub; SEAM will focus on sustainability, energy, advanced manufacturing and materials, following earlier HEALTH (health tech) and AIR (artificial intelligence) platforms."
+    },
+    {
+      "id": "5070156",
+      "time": "2026-09-01 14:24:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第三個InnoHK研發平臺啟動 香港投入25億港元設立8個研發中心】今日（9月1日），由香港特區政府創新科技署與香港科技園公司合辦的第三個InnoHK創新香港研發平臺SEAM於香港科學園舉行啟動禮。 InnoHK是特區政府的重點創新科技專案，旨在發展香港成為環球科研合作中心，此前已推出聚焦科技醫療的HEALTH及聚焦人工智慧的AIR，此次推出的第三個研發平臺SEAM將聚焦可持續發展、能源、先進製造及材料等領域。 （大灣區之聲）"
+    },
+    {
+      "id": "5070155",
+      "time": "2026-09-01 14:24:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音客服回應“推薦難看”：已嘗試修復】今日，“抖音推薦難看”“抖音誤入中老年頻道”話題登上熱搜。有多位抖音使用者發文反映，抖音突然向其推薦養生、嬰兒、AI短劇等內容，彷彿“誤入中老年頻道”。對此，抖音客服回應，“這個情況我們已經嘗試修復，可以重啟幾次試試。”（新浪科技）"
+    },
     {
       "id": "5070154",
       "time": "2026-09-01 14:24:03",
@@ -61,6 +194,16 @@
         "國際"
       ],
       "text": "印度政府：印度8月商品及服務稅（GST）總收入為1.99萬億盧比，同比增長14.8%。"
+    },
+    {
+      "id": "5070149",
+      "time": "2026-09-01 14:22:30",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國務院批准向伊拉克出售8億美元直升機】美國國務院8月31日宣佈，已批准向伊拉克出售總額約8億美元的多用途直升機。美國國務院在一份宣告裡說，這項軍售的主要承包商為總部位於美國得克薩斯州沃思堡的貝爾直升機德事隆公司，計劃向伊拉克方面出售貝爾412EPX直升機、貝爾407M直升機等裝備，並提供相應的後勤及配套支援。宣告說，伊拉克政府要求購買直升機、機槍架、火箭發射器等其他多種裝置。此次軍售將提升伊軍方旋翼機運輸、偵察以及空對地目標打擊能力，助力伊拉克應對當前及未來各類安全威脅。（新華社）"
     },
     {
       "id": "5070148",
@@ -394,6 +537,15 @@
         "Importance 2"
       ],
       "text": "UK House Price Growth Falls Short of Forecast — The UK Nationwide House Price Index rose 1.6% year-on-year in August 2026, following a revised 1.4% increase in July and coming in below the expected 2.1% gain. Nationwide Chief Economist Robert Gardner said market activity and house prices have remained subdued in recent months amid an uncertain economic backdrop, with Middle East tensions pushing up energy prices and contributing to volatility in market interest rate expectations. However, moderating private-sector wage growth and signs that higher energy costs have not yet fed into underlying price pressures could give the Bank of England more room to assess policy. Gardner noted that affordability is improving as house price growth remains well below earnings growth, although higher mortgage rates have offset some of the gains. He added that activity could regain momentum if the energy shock fades and market interest rates decline. On a monthly basis, house prices grew 0.2%, following a 0.1% fall in July."
+    },
+    {
+      "id": "5070121",
+      "time": "2026-09-01 14:10:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜遭FTC起訴操縱廣告競價：收取隱藏附加費，獲利超200億美元】電商巨頭亞馬遜被指控操縱廣告競價。當地時間8月31日，美國聯邦貿易委員會（FTC）宣佈起訴亞馬遜，指控該電商巨頭透過操縱其廣告定價和拍賣系統，對平臺上的廣告主“秘密且系統性地超收費用”。這起由22個州的檢察長共同參與的訴訟指出，自2019年變更相關規則以來，亞馬遜可能透過收取“隱藏的附加費”，從多達120萬家受影響的廣告主身上榨取了超過200億美元。FTC已向美國華盛頓西區聯邦地區法院提交訴狀，本案重點針對亞馬遜在其購物平臺搜尋結果旁展示的贊助產品廣告、品牌廣告和展示廣告。（澎湃）"
     },
     {
       "id": "te:markets:579841",
