@@ -1,7 +1,87 @@
 {
   "date": "2026-09-02",
-  "count": 64,
+  "count": 72,
   "items": [
+    {
+      "id": "5071456",
+      "time": "2026-09-02 00:35:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京會見亞美尼亞總理。"
+    },
+    {
+      "id": "mkt:01a05dd3-71dd-7118-843f-706c91b58450",
+      "time": "2026-09-02 00:35:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said the U.S. military launched a new round of strikes against Iranian targets."
+    },
+    {
+      "id": "5071455",
+      "time": "2026-09-02 00:35:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：美國東部時間今日 12 時，美軍開始打擊伊朗伊斯蘭革命衛隊境內目標。此次打擊源於伊斯蘭革命衛隊近期企圖襲擊霍爾木茲海峽商業航運以及部署在該地區的美軍人員。"
+    },
+    {
+      "id": "5071454",
+      "time": "2026-09-02 00:34:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：正致力於打造一個民主的委內瑞拉。"
+    },
+    {
+      "id": "mkt:01a05dd2-6a0e-7118-843f-6dd861423107",
+      "time": "2026-09-02 00:34:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reports an explosion in Konarak, southeastern Iran."
+    },
+    {
+      "id": "te:markets:580149",
+      "time": "2026-09-02 00:33:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Union Pacific Stock Price Hits 4-week Low — Union Pacific shares decreased to 290.23 USD, the lowest since August 2026. Over the past 4 weeks, Union Pacific lost 0.3%, and in the last 12 months, it increased 30.79%."
+    },
+    {
+      "id": "mkt:01a05dd1-1674-7118-843f-6111bdafabdc",
+      "time": "2026-09-02 00:32:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US two-year Treasury yield rose above 4.38%, the highest since January 2025."
+    },
+    {
+      "id": "5071453",
+      "time": "2026-09-02 00:32:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金下跌 3%，報每盎司 1315.63 美元。"
+    },
     {
       "id": "5071452",
       "time": "2026-09-02 00:30:59",
