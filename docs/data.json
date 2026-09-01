@@ -1,7 +1,114 @@
 {
-  "updated": "2026-09-01 10:24:38",
-  "count": 13164,
+  "updated": "2026-09-01 10:28:36",
+  "count": 13159,
   "items": [
+    {
+      "id": "te:economy:579767",
+      "time": "2026-09-01 10:27:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Japan 10-Year Yield Hits Fresh 30-Year High — Japan’s 10-year government bond yield jumped to around 2.99% on Tuesday, reaching its highest level since 1996 as expectations mounted that the Bank of Japan will raise interest rates this month to address the impact of a weak yen and import-driven inflation. Reports indicated that US Treasury Secretary Scott Bessent urged Prime Minister Satsuki Katayama and BOJ Governor Kazuo Ueda to raise interest rates, following his earlier remarks that he expects the Japanese central bank to “do the right thing.” Japanese bond yields also tracked US Treasury yields higher as investors increased bets that the Federal Reserve will deliver a September rate hike. Elsewhere, oil prices climbed for a second straight day after US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan. Higher energy costs are fueling inflation concerns and strengthening expectations for tighter monetary policy."
+    },
+    {
+      "id": "mkt:01a05aca-76a4-7118-8427-432f993507b9",
+      "time": "2026-09-01 10:26:53",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China's STAR 50 Index fell more than 2%; constituent Shengyi Electronics plunged over 5%."
+    },
+    {
+      "id": "5069854",
+      "time": "2026-09-01 10:26:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "食品等消費股震盪拉昇，歡樂家、騎士乳業漲超10%，佳禾食品此前漲停，蓋世食品、一鳴食品、品渥食品等漲超5%。"
+    },
+    {
+      "id": "5069853",
+      "time": "2026-09-01 10:26:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量226億元。"
+    },
+    {
+      "id": "5069852",
+      "time": "2026-09-01 10:26:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.07%，成分股中，生益電子跌5.28%，翱捷科技跌4.96%，源傑科技跌4.58%，中科飛測跌3.92%。"
+    },
+    {
+      "id": "mkt:01a05ac9-c1f5-7118-8427-3aa1ff97de0f",
+      "time": "2026-09-01 10:26:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Hungary says it has met conditions to unfreeze €10bln in EU funds】Hungary’s transport and investment minister said on Aug. 31 the government has completed the legislative and institutional changes required to unfreeze about €10bln of EU funds. The minister said Hungary has met all targets agreed in May between the prime minister and European Commission President Ursula von der Leyen, including passage of more than 100 laws, creation of new agencies and the launch or completion of key projects; much of the legislation implements EU-requested anti-corruption measures. Budapest plans to direct the funds to rail modernization, affordable housing and student dormitories, water-management projects, and renewable energy and grid investment."
+    },
+    {
+      "id": "5069851",
+      "time": "2026-09-01 10:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數跌幅擴大至2%】科創50指數跌幅擴大至2%，現報1650.5點。"
+    },
+    {
+      "id": "5069850",
+      "time": "2026-09-01 10:25:25",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【新股N馬礦漲近350% 觸發臨停】今日上市新股N馬礦盤中漲近350%，觸發臨停，成交14億元。"
+    },
+    {
+      "id": "mkt:01a05ac8-a84c-7118-8427-36082ca4cb3f",
+      "time": "2026-09-01 10:24:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japanese officials said U.S. Treasury Secretary Bessent understands the Bank of Japan's independence."
+    },
+    {
+      "id": "5069849",
+      "time": "2026-09-01 10:24:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【匈牙利政府稱已滿足解凍100億歐元歐盟資金條件】匈牙利交通與投資部長維泰齊·達維德8月31日表示，匈牙利已完成解凍約100億歐元歐盟資金所需的立法和制度調整措施。維泰齊當天在布達佩斯舉行的新聞釋出會上表示，匈政府已全面完成總理毛焦爾·彼得與歐盟委員會主席馮德萊恩今年5月所商定的所有目標。在此期間，匈牙利透過了100多項立法，設立了新機構，啟動或完成了多個關鍵專案，其中大部分立法工作旨在落實歐盟要求的反腐敗舉措。他說，匈政府計劃將這筆解凍資金重點用於鐵路現代化改造、保障性住房與學生公寓建設、水資源管理專案，以及可再生能源和電網投資。"
+    },
+    {
+      "id": "5069848",
+      "time": "2026-09-01 10:24:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞基準股指跌幅達1.3%，報1703.09點，為去年7月末以來最低點位。"
+    },
     {
       "id": "5069847",
       "time": "2026-09-01 10:23:50",
@@ -120072,162 +120179,6 @@
         "CNH"
       ],
       "text": "【Agricultural Bank of China London branch issues UK's first Shanghai FTZ offshore RMB bond】Agricultural Bank of China’s London branch issued a RMB 300 mln, 3-month Shanghai Free Trade Zone offshore bond in the form of a European Certificate of Deposit (ECD) at a 1.55% rate. It is the first Shanghai FTZ offshore bond issued by a UK institution and the first in Europe to be registered, custodied and settled via China Central Depository & Clearing Co. (CCDC). The transaction used Agricultural Bank Group’s onshore-offshore coordination and provides a template for UK institutions seeking RMB funding channels."
-    },
-    {
-      "id": "5056573",
-      "time": "2026-08-25 10:28:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念震盪反彈 特發資訊漲停】CPO概念震盪反彈，特發資訊漲停，長盈通、迅捷興漲超10%，長飛光纖、亨通光電、怡合達、中石科技等漲幅居前。"
-    },
-    {
-      "id": "5056572",
-      "time": "2026-08-25 10:28:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞強震死亡人數升至331人】哥倫比亞國家災害風險管理局24日晚公佈的最新資料顯示，該國西部強震已造成331人死亡、4439人受傷、240人失蹤，另有364人獲救。最新資料顯示，哥倫比亞有16個省的494個市鎮受到此次地震影響，受災人數達36.1萬人。據哥倫比亞地質局釋出的訊息，哥倫比亞西部當地時間10日發生7.4級地震，震中距離喬科省聖何塞－德爾帕爾馬市約20公里，震源深度96公里。（新華社）"
-    },
-    {
-      "id": "mkt:01a036be-7e2b-7aab-9103-eee2af9fc0bc",
-      "time": "2026-08-25 10:27:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Trump says U.S. 'desperately needs' Canadian aluminum as trade dispute escalates】Trump said the United States \"desperately needs\" Canadian aluminum, adding the U.S. lacks sufficient domestic supply and that \"most of our aluminum comes from Canada.\" He proposed building an aluminum plant in Inola, Oklahoma on social media, warning \"if not approved, the plant will be moved elsewhere.\" The remarks come as a U.S.-Canada trade dispute intensifies over Trump's 50% metals tariffs. More than half of U.S. annual aluminum consumption is sourced from Canada; talks last week reportedly nearly reached a deal to halve the tariffs but faced opposition from U.S. steel and aluminum producers urging the administration not to make concessions to Canada."
-    },
-    {
-      "id": "5056571",
-      "time": "2026-08-25 10:27:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“紫檀”今日將從海南島西北部近海擦過或登陸】從海南省氣象臺瞭解到，預計，颱風“紫檀”先向偏東方向移動，強度維持，將從海南昌江到臨高一帶近海擦過或登陸，而後北上趨向桂粵沿海地區。受其影響，25日，臨高、儋州、昌江、東方和白沙等市縣雨量80～120毫米、局地150毫米以上；北部灣海面和海南島西部海面風力8～9級、陣風10～11級。建議相關部門繼續加強南海北部海域過往船隻、在港漁船、海峽通航、海上作業平臺、涉海旅遊安全管理，以及中小型水庫、道路安全、中小河流洪水山洪和地質災害的風險防禦工作。"
-    },
-    {
-      "id": "mkt:01a036be-5bf6-7aab-9103-e6f9721eafe6",
-      "time": "2026-08-25 10:27:20",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share duty-free sector rebounded after choppy trading; Caissa Tourism hit its daily price limit, while Hainan Development, Zhumian Group and Guangbai Co. also advanced."
-    },
-    {
-      "id": "mkt:01a036bd-cf9c-7aab-9103-d87d4a2b0397",
-      "time": "2026-08-25 10:26:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chengdu advances market-plus-affordable-housing linkage】Chengdu’s housing, planning, finance bureaus and the municipal housing provident fund issued a joint notice to link market transactions with subsidised rental housing supply. In areas with strong demand for subsidised rentals, authorities will pilot allowing market entities to buy second‑hand homes for conversion to subsidised rental units, with city and district fiscal subsidies to support “sell‑old–buy‑new” trades and ease replacement chains. Subject to original land‑use right holders’ consent, urban‑renewal implementers may deliver new housing via a “land‑follows‑house” mechanism (including negotiated acquisition of property rights and transfer for state‑asset disposal). The city will also explore acquiring existing commercial and office stock and converting public‑service spaces (markets, elderly‑care, community centers) into subsidised rentals, adjust surrounding public‑service land planning accordingly, and consider extending housing‑voucher resettlement to non‑residential properties (commercial, office) as expropriation compensation."
-    },
-    {
-      "id": "5056570",
-      "time": "2026-08-25 10:26:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本財務大臣片山：將就面向個人投資者的日本國債稅改措施，與包括自民黨在內的相關方進行審慎討論。"
-    },
-    {
-      "id": "mkt:01a036bd-8ba6-7aab-9103-d1deba8bf4ce",
-      "time": "2026-08-25 10:26:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Satsuki Katayama said she will hold careful discussions with relevant parties, including the ruling LDP, on tax-treatment reforms for Japanese government bonds aimed at retail investors."
-    },
-    {
-      "id": "5056569",
-      "time": "2026-08-25 10:26:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "片山皋月：希望廣泛的投資者持有日本國債。"
-    },
-    {
-      "id": "5056568",
-      "time": "2026-08-25 10:25:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【何小鵬：人形機器人單臺毛利或遠超汽車】在8月24日晚間舉行的小鵬集團財報電話會上，小鵬集團董事長及CEO何小鵬強調，高階通用人形機器人的技術挑戰和創新難度遠高於智慧汽車，甚至“至少相差20倍”。同時他指出，優質供給的稀缺性，也將推動該產品的單車均價與毛利大幅超越汽車。"
-    },
-    {
-      "id": "te:markets:577737",
-      "time": "2026-08-25 10:25:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Japanese Yen Edges Lower as Dollar Gains — The Japanese yen weakened past 159 per dollar on Tuesday, extending its recent decline as the dollar gained modestly on safe-haven demand, with a US plan to cut Iran off from the global financial system highlighting the greenback’s central role in international trade. However, renewed concerns over a potential US debt crisis limited the dollar’s gains amid skepticism about the effectiveness of the US Treasury Department’s expanded debt buyback plan. Domestically, former Bank of Japan board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, warning that holding rates could reignite a yen selloff and accelerate import-driven inflation. Markets are currently pricing in around an 80% probability that the BOJ will raise rates by 25 basis points to 1.25% next month, up sharply from about 23% before the central bank’s July meeting."
-    },
-    {
-      "id": "mkt:01a036bc-caa7-7aab-9103-cce137212005",
-      "time": "2026-08-25 10:25:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she may receive requests to reform the tax treatment of Japanese government bonds for retail investors."
-    },
-    {
-      "id": "5056567",
-      "time": "2026-08-25 10:25:23",
-      "tags": [
-        "行業"
-      ],
-      "text": "【國內現存機器人相關企業超116萬家】天眼查專業版資料顯示，截至目前我國現存在業、存續狀態的機器人相關企業超116.5萬家。其中，2026年截至目前新增註冊相關企業約14.4萬餘家，從企業註冊數量趨勢來看，近五年間，機器人相關企業的註冊數量呈現出逐年增長的態勢，並在2025年達到頂峰。從區域分佈來看，廣東省、江蘇省、山東省機器人相關企業數量位居前列，三個省市數量總和超過43.8萬家，佔企業總數的37.7%。排在其後的是浙江省和北京市。"
-    },
-    {
-      "id": "mkt:01a036bc-59b5-7aab-9103-c181276dd1ed",
-      "time": "2026-08-25 10:25:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chengdu sets 15% minimum down payment for housing provident fund loans on new-build homes】Chengdu regulators said buyers of newly built commercial homes using the city’s housing provident fund loans must meet a minimum down payment of 15%. The measure includes a one-year interest subsidy equal to 20% of interest, capped at 25,000 yuan. New homes meeting green building one‑star or higher qualify for a 20% increase in the maximum housing provident fund loan limit. Districts may add targeted local subsidies or consumer vouchers—for group purchases, parking-space purchases and trade‑ins—to accelerate demand release."
-    },
-    {
-      "id": "mkt:01a036bc-2810-7aab-9103-bdb27c467e31",
-      "time": "2026-08-25 10:24:55",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 continued to rebound and moved into positive territory intraday."
-    },
-    {
-      "id": "5056566",
-      "time": "2026-08-25 10:24:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財政大臣片山：或將收到針對散戶投資者的日本政府債券稅收改革請求。"
     }
   ]
 }

@@ -1,7 +1,114 @@
 {
   "date": "2026-09-01",
-  "count": 888,
+  "count": 899,
   "items": [
+    {
+      "id": "te:economy:579767",
+      "time": "2026-09-01 10:27:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Japan 10-Year Yield Hits Fresh 30-Year High — Japan’s 10-year government bond yield jumped to around 2.99% on Tuesday, reaching its highest level since 1996 as expectations mounted that the Bank of Japan will raise interest rates this month to address the impact of a weak yen and import-driven inflation. Reports indicated that US Treasury Secretary Scott Bessent urged Prime Minister Satsuki Katayama and BOJ Governor Kazuo Ueda to raise interest rates, following his earlier remarks that he expects the Japanese central bank to “do the right thing.” Japanese bond yields also tracked US Treasury yields higher as investors increased bets that the Federal Reserve will deliver a September rate hike. Elsewhere, oil prices climbed for a second straight day after US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan. Higher energy costs are fueling inflation concerns and strengthening expectations for tighter monetary policy."
+    },
+    {
+      "id": "mkt:01a05aca-76a4-7118-8427-432f993507b9",
+      "time": "2026-09-01 10:26:53",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China's STAR 50 Index fell more than 2%; constituent Shengyi Electronics plunged over 5%."
+    },
+    {
+      "id": "5069854",
+      "time": "2026-09-01 10:26:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "食品等消費股震盪拉昇，歡樂家、騎士乳業漲超10%，佳禾食品此前漲停，蓋世食品、一鳴食品、品渥食品等漲超5%。"
+    },
+    {
+      "id": "5069853",
+      "time": "2026-09-01 10:26:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量226億元。"
+    },
+    {
+      "id": "5069852",
+      "time": "2026-09-01 10:26:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.07%，成分股中，生益電子跌5.28%，翱捷科技跌4.96%，源傑科技跌4.58%，中科飛測跌3.92%。"
+    },
+    {
+      "id": "mkt:01a05ac9-c1f5-7118-8427-3aa1ff97de0f",
+      "time": "2026-09-01 10:26:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Hungary says it has met conditions to unfreeze €10bln in EU funds】Hungary’s transport and investment minister said on Aug. 31 the government has completed the legislative and institutional changes required to unfreeze about €10bln of EU funds. The minister said Hungary has met all targets agreed in May between the prime minister and European Commission President Ursula von der Leyen, including passage of more than 100 laws, creation of new agencies and the launch or completion of key projects; much of the legislation implements EU-requested anti-corruption measures. Budapest plans to direct the funds to rail modernization, affordable housing and student dormitories, water-management projects, and renewable energy and grid investment."
+    },
+    {
+      "id": "5069851",
+      "time": "2026-09-01 10:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數跌幅擴大至2%】科創50指數跌幅擴大至2%，現報1650.5點。"
+    },
+    {
+      "id": "5069850",
+      "time": "2026-09-01 10:25:25",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【新股N馬礦漲近350% 觸發臨停】今日上市新股N馬礦盤中漲近350%，觸發臨停，成交14億元。"
+    },
+    {
+      "id": "mkt:01a05ac8-a84c-7118-8427-36082ca4cb3f",
+      "time": "2026-09-01 10:24:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japanese officials said U.S. Treasury Secretary Bessent understands the Bank of Japan's independence."
+    },
+    {
+      "id": "5069849",
+      "time": "2026-09-01 10:24:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【匈牙利政府稱已滿足解凍100億歐元歐盟資金條件】匈牙利交通與投資部長維泰齊·達維德8月31日表示，匈牙利已完成解凍約100億歐元歐盟資金所需的立法和制度調整措施。維泰齊當天在布達佩斯舉行的新聞釋出會上表示，匈政府已全面完成總理毛焦爾·彼得與歐盟委員會主席馮德萊恩今年5月所商定的所有目標。在此期間，匈牙利透過了100多項立法，設立了新機構，啟動或完成了多個關鍵專案，其中大部分立法工作旨在落實歐盟要求的反腐敗舉措。他說，匈政府計劃將這筆解凍資金重點用於鐵路現代化改造、保障性住房與學生公寓建設、水資源管理專案，以及可再生能源和電網投資。"
+    },
+    {
+      "id": "5069848",
+      "time": "2026-09-01 10:24:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞基準股指跌幅達1.3%，報1703.09點，為去年7月末以來最低點位。"
+    },
     {
       "id": "5069847",
       "time": "2026-09-01 10:23:50",
