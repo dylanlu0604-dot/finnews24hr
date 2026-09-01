@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-02 00:45:43",
-  "count": 12416,
+  "updated": "2026-09-02 00:49:48",
+  "count": 12419,
   "items": [
+    {
+      "id": "mkt:01a05ddf-9810-7118-843f-dc957b103f45",
+      "time": "2026-09-02 00:48:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "EU Council President Costa condemned an alleged Russian drone attack on Germany's Leipzig airport and said the EU will continue to support Ukraine and step up pressure on Russia."
+    },
+    {
+      "id": "mkt:01a05dde-3b53-7118-843f-d60f9503d94a",
+      "time": "2026-09-02 00:47:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported six explosions in Konarak and eight explosions on the southern coast of Qeshm Island."
+    },
+    {
+      "id": "mkt:01a05dde-37d1-7118-843f-cc8250c10266",
+      "time": "2026-09-02 00:47:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy supports Germany in responding to Russia's \"hybrid attack\" on Leipzig, MELONI said, stressing ally security is collective security and that a coordinated response will be taken."
+    },
+    {
+      "id": "5071470",
+      "time": "2026-09-02 00:45:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：該石油協議並不會鞏固委內瑞拉臨時政府的地位。"
+    },
     {
       "id": "mkt:01a05ddc-02f7-7118-843f-c6f3c941d4ff",
       "time": "2026-09-02 00:44:54",
@@ -113778,15 +113819,6 @@
         "國際"
       ],
       "text": "市場資訊：兩名直接參與霍爾木茲海峽掃雷事務的美國官員證實了特朗普的宣告，並表示美國海軍已清理了位於海峽中部、阿曼與伊朗之間的船舶交通分離區。"
-    },
-    {
-      "id": "5058391",
-      "time": "2026-08-26 00:46:56",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長：我們將繼續切斷一切支撐伊朗的經濟命脈，直至德黑蘭陷入孤立。"
     }
   ]
 }
