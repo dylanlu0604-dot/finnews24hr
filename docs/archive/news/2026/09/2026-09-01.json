@@ -1,7 +1,139 @@
 {
   "date": "2026-09-01",
-  "count": 747,
+  "count": 760,
   "items": [
+    {
+      "id": "mkt:01a05aa9-c407-7118-8425-cbf0f1a83df6",
+      "time": "2026-09-01 09:51:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "Hang Seng Index"
+      ],
+      "text": "【Shenzhen proposes coordinated planning of major brain-analysis and brain-simulation facilities】Shenzhen published a draft regulation seeking comment on measures to promote the brain‑computer interface (BCI) industry. The draft directs the municipal government to coordinate planning of major scientific and health infrastructure—including brain analysis and brain simulation facilities and a human brain tissue repository—while reforming infrastructure operations and improving open‑sharing, evaluation and incentive mechanisms to provide public services for the BCI sector’s development."
+    },
+    {
+      "id": "5069767",
+      "time": "2026-09-01 09:51:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【深圳：擬支援腦機介面領軍企業組建創新聯合體，開展核心技術攻關、併購重組等】《深圳經濟特區促進腦機介面產業創新發展若干規定（徵求意見稿）》公開徵求意見。其中提到，市工業和資訊化部門應當會同產業主管部門建立腦機介面企業梯度培育體系和全生命週期服務機制。市產業主管部門應當會同工業和資訊化、地方金融管理、市場監管、商務、規劃和自然資源等部門及各相關區建立腦機介面科技領軍企業培育庫，支援腦機介面科技領軍企業牽頭組建創新聯合體，開展關鍵核心技術攻關、產業鏈整合、併購重組與國際市場開拓，建設共性技術平臺、標準體系和應用生態，在研發資助、場景開放、用地保障等方面按規定予以支援。"
+    },
+    {
+      "id": "5069766",
+      "time": "2026-09-01 09:50:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳：擬統籌規劃腦解析與腦模擬重大科技設施】《深圳經濟特區促進腦機介面產業創新發展若干規定（徵求意見稿）》公開徵求意見。其中提到，市人民政府應當統籌規劃腦解析與腦模擬重大科技設施、人腦組織資源庫等科技與衛生基礎設施，創新基礎設施運營管理制度，完善基礎設施開放共享、考核、激勵等機制，為本市腦機介面產業發展提供公共服務。"
+    },
+    {
+      "id": "5069765",
+      "time": "2026-09-01 09:50:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里雲宣佈Qwen3-VL-Rerank模型降價】9月1日，阿里雲公告，大模型服務平臺百鍊將於北京時間2026年8月31日10:13:53起，對北京地域Qwen3-VL-Rerank模型計費單價進行下調調整：將文字輸入從0.7元/百萬tokens下調至0.5元/百萬tokens，多模態輸入從1.8元/百萬tokens下調至0.5元/百萬tokens。"
+    },
+    {
+      "id": "mkt:01a05aa8-cbf7-7118-8425-c4379657ed77",
+      "time": "2026-09-01 09:50:06",
+      "tags": [
+        "MKT News",
+        "000596.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share baijiu sector climbed amid choppy trading; Gujinggongjiu rose more than 5%, with peers Jinzhongzi, Jinshiyuan, Yingjia Gongjiu, Huangtai and Shanxi Fenjiu also advancing."
+    },
+    {
+      "id": "te:economy:579752",
+      "time": "2026-09-01 09:49:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Manufacturing PMI",
+        "Importance 3"
+      ],
+      "text": "China Factory Activity Growth Beats Forecasts — The RatingDog China Manufacturing PMI increased to 51.5 in August 2026 from July’s four-month low of 50.9, surpassing forecasts of 51, as output and new orders rose at faster paces. Purchasing activity and backlogs rose, while employment was unchanged."
+    },
+    {
+      "id": "5069764",
+      "time": "2026-09-01 09:49:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池概念異動拉昇 金龍羽直線漲停】固態電池概念盤中異動拉昇，金龍羽直線漲停，駱駝股份、利民股份、天力鋰能、上海洗霸、滄州明珠等跟漲。"
+    },
+    {
+      "id": "mkt:01a05aa7-d50c-7118-8425-b9e174e3f0b5",
+      "time": "2026-09-01 09:49:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share brain–computer interface concept names rallied briefly; Chuangxin Medical jumped over 3%, with Yingjixin, Aipeng Medical and Sanbo Brain Science also higher. Shenzhen has opened a public consultation on draft regulations to promote brain–computer interface industry innovation."
+    },
+    {
+      "id": "mkt:01a05aa7-cb20-7118-8425-b5fad4c5c388",
+      "time": "2026-09-01 09:49:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The regional governor said a Ukrainian airstrike damaged civilian infrastructure in Russia's Samara region."
+    },
+    {
+      "id": "5069763",
+      "time": "2026-09-01 09:48:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭空襲損毀俄羅斯薩馬拉州民用設施。"
+    },
+    {
+      "id": "mkt:01a05aa7-73c6-7118-8425-ad0f71a567a5",
+      "time": "2026-09-01 09:48:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Aug RatingDog China manufacturing PMI rises to 51.5 as expansion accelerates】Aug RatingDog China manufacturing PMI 51.5, up 0.6 pts from July and marking the ninth consecutive month in expansion. Output and demand accelerated: production growth hit a three‑month high, overall new orders expanded faster than in July and new export orders rose at the fastest pace in six months. Price signals mixed: input costs ticked up modestly while factory‑gate prices fell — the first decline since 2026. Broadening demand, output and export strength point to continued near‑term PMI expansion; cost pressures remain modest and controllable."
+    },
+    {
+      "id": "te:economy:579750",
+      "time": "2026-09-01 09:48:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private House Approvals",
+        "Importance 1"
+      ],
+      "text": "Australia Private House Approval Falls in July — Private sector house approvals in Australia fell 4.2% month-on-month to 10,199 units in July 2026, according to preliminary estimates, reversing a 0.4% increase in June. The decline was broad-based across the states, led by South Australia (-10.7%), Queensland (-5.5%), Victoria (-4.1%), New South Wales (-4.0%), and Western Australia (-0.1%). Meanwhile, approvals for private-sector dwellings excluding houses slipped 0.4% to 7,119 units. On an annual basis, private house approvals rose 6.0%, slowing sharply from a 15.8% increase in June."
+    },
+    {
+      "id": "5069762",
+      "time": "2026-09-01 09:48:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國計劃將國家債務佔GDP比重降至48.3%，而此前為51.6%。"
+    },
     {
       "id": "5069761",
       "time": "2026-09-01 09:48:04",

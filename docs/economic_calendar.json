@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 09:48:52",
+  "updated": "2026-09-01 09:52:49",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -3406,9 +3406,9 @@
               "title": "中國8月RatingDog製造業PMI",
               "importance": 2,
               "previous": "50.9",
-              "forecast": "50.7",
-              "actual": "--",
-              "actual_released": false,
+              "forecast": "51",
+              "actual": "51.5",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144755",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -29912,9 +29912,9 @@
       "title": "中國8月RatingDog製造業PMI",
       "importance": 2,
       "previous": "50.9",
-      "forecast": "50.7",
-      "actual": "--",
-      "actual_released": false,
+      "forecast": "51",
+      "actual": "51.5",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1144755",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
