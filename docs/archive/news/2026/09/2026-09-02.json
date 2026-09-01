@@ -1,7 +1,174 @@
 {
   "date": "2026-09-02",
-  "count": 781,
+  "count": 801,
   "items": [
+    {
+      "id": "5071862",
+      "time": "2026-09-02 07:57:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：潛在通脹率已接近2%。"
+    },
+    {
+      "id": "mkt:01a05f67-e0ff-7118-8449-b679b9061b2a",
+      "time": "2026-09-02 07:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA says he will monitor whether the economy and inflation align with the Bank of Japan's scenario and assess related risks."
+    },
+    {
+      "id": "mkt:01a05f67-9677-7118-8449-af39151cb774",
+      "time": "2026-09-02 07:56:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency commits to modernizing regulatory frameworks to safeguard financial stability."
+    },
+    {
+      "id": "mkt:01a05f67-7a35-7118-8449-a4c08c05863a",
+      "time": "2026-09-02 07:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said he will discuss appropriate policy at the next policy meeting while reviewing economic, price and financial conditions."
+    },
+    {
+      "id": "mkt:01a05f67-6447-7118-8449-98aea6d69d39",
+      "time": "2026-09-02 07:56:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister KATAYAMA said coordinated currency intervention can help stabilize global markets and the economy."
+    },
+    {
+      "id": "5071861",
+      "time": "2026-09-02 07:56:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟非正式防長會討論加強對烏防空支援】當地時間9月1日，歐盟成員國防長以非正式形式舉行會議，重點討論對烏克蘭軍事支援、俄烏衝突以及中東局勢等議題。歐盟外交與安全政策高階代表卡拉斯會後表示，烏克蘭國防部長當天再次強調，防空仍是烏方最迫切的需求之一，但各成員國防長在此方面的討論沒有取得任何實質性進展。卡拉斯表示，歐盟正在尋找更多防空裝備和攔截彈來源，並呼籲歐盟成員國重新評估本國庫存，可以考慮將即將到期的“愛國者”防空系統攔截彈提供或出售給烏克蘭。"
+    },
+    {
+      "id": "5071860",
+      "time": "2026-09-02 07:56:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【績優超跌智慧駕駛概念股出爐】9月1日，A股智慧駕駛概念股明顯異動，其中浙江世寶、埃泰克、大明電子等漲停，伯特利、科隆新材等大幅上漲。智慧駕駛領域一直備受機構關注，8月以來，17只概念股獲得機構調研，其中水晶光電、藍思科技、德賽西威的機構調研家數均超100家，華陽集團、大華股份、豪威集團、中科創達、四維圖新的機構調研家數居前。從上半年業績來看，上半年淨利潤規模超1億元且同比增長超20%幅度的概念股有11只。結合股價表現來看，上半年業績高增長的智慧駕駛概念股中，金龍汽車、亞太股份、星網宇達、安潔科技的最新股價已較年內高點回撤超35%。"
+    },
+    {
+      "id": "5071859",
+      "time": "2026-09-02 07:56:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：貨幣政策思路沒有重大變化。"
+    },
+    {
+      "id": "mkt:01a05f66-c5ce-7118-8449-92bf1493fe0d",
+      "time": "2026-09-02 07:56:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Bank of Japan Governor UEDA said he will closely monitor the Middle East conflict, AI-driven demand, FX effects on the economy and the role of prices in guiding policy."
+    },
+    {
+      "id": "5071858",
+      "time": "2026-09-02 07:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務官片山：貝森特自去年10月以來一直表示，如果日本通縮局面已發生變化，就需要採取不同的策略。"
+    },
+    {
+      "id": "mkt:01a05f66-4f05-7118-8449-8cdad4cedbe8",
+      "time": "2026-09-02 07:55:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UEDA said the BANK OF JAPAN's basic stance on monetary policy remains essentially unchanged from July."
+    },
+    {
+      "id": "mkt:01a05f66-40ca-7118-8449-838b374932b2",
+      "time": "2026-09-02 07:55:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU informal defense ministers discuss strengthening air-defense support for Ukraine】On Sept. 1 EU defense ministers met informally to discuss military support for Ukraine, the Russia-Ukraine war and Middle East tensions. kallas said Ukraine’s defense minister reiterated that air defense remains one of Kyiv’s most urgent needs, but ministers made no substantive progress on the issue. kallas said the EU is seeking additional air-defense systems and sources of interceptor missiles and urged member states to reassess national stockpiles and consider providing or selling Patriot interceptor missiles nearing expiry to Ukraine."
+    },
+    {
+      "id": "5071857",
+      "time": "2026-09-02 07:55:23",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：伴隨國內算力需求高景氣 算力租賃業績彈性有望持續釋放】華泰證券研報稱，算力租賃板塊延續高景氣，選取20家算力租賃相關公司作為樣本，研究樣本2026年上半年營業收入中位數同比增速達到40.1%，反映前期投入的算力資源陸續完成交付上架，疊加下游AI算力需求持續增長，收入保持較快放量；同期歸母淨利潤中位數同比增速達到11%，主要受益於資產利用率提升、高階算力價格支撐及固定成本攤薄。資產端看，2026年上半年樣本公司在建工程、固定資產、使用權資產及存貨平均規模分別同比增長92.7%、65.9%、128.9%和64.8%，後續有較多資源具備轉化為可計費產能的空間。展望後續，伴隨國內算力需求的高景氣，算力租賃業績彈性有望持續釋放。"
+    },
+    {
+      "id": "5071856",
+      "time": "2026-09-02 07:55:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男：我們將在包括下次政策會議在內的場合，在仔細研判經濟、物價與金融狀況的同時，就適宜的政策展開討論。"
+    },
+    {
+      "id": "mkt:01a05f65-e95d-7118-8449-7dd981f76344",
+      "time": "2026-09-02 07:55:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor UEDA said data released since the July meeting have been broadly in line with the projections in the July quarterly report."
+    },
+    {
+      "id": "mkt:01a05f65-c60b-7118-8449-7688aaa95d7e",
+      "time": "2026-09-02 07:55:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency statement said it recognizes the need for faster, more predictable debt treatments to improve debt sustainability and growth outcomes."
+    },
+    {
+      "id": "mkt:01a05f65-a7bd-7118-8449-6b98847bedc9",
+      "time": "2026-09-02 07:54:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 chair said sustainable growth benefits from policy clarity, the promotion of innovation, investment and skills development, and a business environment that supports effective public-private cooperation."
+    },
+    {
+      "id": "mkt:01a05f65-9c88-7118-8449-65e7590c0bf1",
+      "time": "2026-09-02 07:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency statement acknowledged that financial literacy is foundational to financial health and well-being."
+    },
+    {
+      "id": "mkt:01a05f65-9aad-7118-8449-5b7bed3fba4b",
+      "time": "2026-09-02 07:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G20 presidency said it will continue to address ongoing challenges to debt sustainability."
+    },
     {
       "id": "mkt:01a05f64-d74d-7118-8449-55ef193cc231",
       "time": "2026-09-02 07:53:59",
@@ -61,6 +228,15 @@
         "國際"
       ],
       "text": "日本央行行長植田和男：資料與展望報告中的預測一致。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202609023862078356",
+      "time": "2026-09-02 07:52:35",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行行長植田和男稱，市場已反映出9月加息的強烈可能性，對市場日常波動不予置評。"
     },
     {
       "id": "mkt:01a05f63-454f-7118-8449-3325d08c4e75",
