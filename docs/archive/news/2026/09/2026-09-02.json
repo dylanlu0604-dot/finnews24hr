@@ -1,7 +1,827 @@
 {
   "date": "2026-09-02",
-  "count": 663,
+  "count": 751,
   "items": [
+    {
+      "id": "mkt:01a05f57-78f8-7118-8448-d8ddf00da85d",
+      "time": "2026-09-02 07:39:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Governor Ueda said he met with U.S. Treasury Secretary Bessent but declined to comment on the content of their discussions."
+    },
+    {
+      "id": "mkt:01a05f57-7583-7118-8448-d5e2c4ba33f6",
+      "time": "2026-09-02 07:39:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Japan Governor UEDA said he discussed with other central banks the need, given shifts in the global environment, to strengthen communication to implement appropriate monetary policy and secure price stability."
+    },
+    {
+      "id": "5071842",
+      "time": "2026-09-02 07:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "日經新聞報道，豐田將推遲推出美國製造的電動汽車。"
+    },
+    {
+      "id": "mkt:01a05f55-ed0f-7118-8448-ced784b64e4b",
+      "time": "2026-09-02 07:37:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM News, citing Arab sources, reported at least four explosions in Bahrain and attributed them to an Iranian attack."
+    },
+    {
+      "id": "5071841",
+      "time": "2026-09-02 07:37:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：埃及可能正準備從達索航空公司購買24架額外的陣風戰鬥機。開羅據稱已向法國傳送正式的提案請求，達索拒絕置評。 埃及將在2026年底前將現役陣風戰鬥機數量增至54架，這是繼2015年和2021年的先前訂單之後的結果。 一項新協議將使其機隊規模增至78架飛機。"
+    },
+    {
+      "id": "mkt:01a05f55-4501-7118-8448-c16b1092d515",
+      "time": "2026-09-02 07:36:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's foreign minister said he will press for strengthened air and anti‑ballistic missile defenses, tougher sanctions and pressure on Russia, additional defense and energy assistance before winter, and measures to advance Ukraine's EU accession."
+    },
+    {
+      "id": "mkt:01a05f54-c39e-7118-8448-becd2f46f4de",
+      "time": "2026-09-02 07:36:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukraine's foreign minister said he has arrived in Ireland to attend an informal meeting of EU foreign ministers and that tomorrow's discussions should focus on making full use of all available tools."
+    },
+    {
+      "id": "5071840",
+      "time": "2026-09-02 07:36:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic將推出人工智慧模型Fable新版本】Anthropic將釋出其人工智慧模型Fable的新版本。公司稱，Fable 5.1在程式設計和科研任務方面表現更好，同時費用也更低。Anthropic表示，Fable 5.1面向企業使用者的詞元單價將與Fable 5保持一致，但會下調模型重新呼叫此前已處理資訊時的收費。公司稱，這一環節的價格將下調75%，從而“大幅降低”模型整體執行成本。"
+    },
+    {
+      "id": "5071839",
+      "time": "2026-09-02 07:35:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "太古：將出售3.626億股國泰航空股份，每股13.20港元。"
+    },
+    {
+      "id": "mkt:01a05f54-4f99-7118-8448-b4a008f176e1",
+      "time": "2026-09-02 07:35:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's air-defence system intercepted and destroyed an Iranian drone, the Bahrain News Agency said."
+    },
+    {
+      "id": "mkt:01a05f53-ac43-7118-8448-a9d6e0a35bef",
+      "time": "2026-09-02 07:35:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Emerging Markets"
+      ],
+      "text": "Japan's finance minister Katayama said the G20 discussed global imbalances, emerging-market debt and financial literacy."
+    },
+    {
+      "id": "5071838",
+      "time": "2026-09-02 07:35:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本軟銀集團股份有限公司旗下SB能源宣佈，已就擬議首次公開發行提交註冊宣告進行公開備案。"
+    },
+    {
+      "id": "te:markets:580208",
+      "time": "2026-09-02 07:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Downbeat Session — US stock futures stabilized on Wednesday after the major averages posted another losing session, pressured by rising bond yields and oil prices that heightened concerns over inflation and interest rate hikes. In regular trading on Tuesday, the Dow fell 0.79%, the S&P 500 declined 0.71% and the Nasdaq Composite dropped 1.03%, with all three benchmarks extending their losing streak to a third session. Seven of the 11 S&P sectors finished lower, led by declines in consumer discretionary, industrials and materials. The moves came as the global bond selloff intensified, pushing the US 10-year Treasury yield to its highest level since early 2025. Oil prices also surged amid escalating hostilities between the US and Iran, raising the risk of further disruptions to energy flows from the Middle East. Investors now await ADP private payrolls data and the Fed’s Beige Book, along with earnings reports from Broadcom, Hewlett Packard and Snowflake, among others."
+    },
+    {
+      "id": "5071837",
+      "time": "2026-09-02 07:34:47",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華泰證券：基金對紅利、新能源的關注度明顯增強】華泰證券指出，前期市場資金面的負反饋風險進一步緩和，但上行的一致性合力仍待增強。交易型資金中，融資資金、龍虎榜資金的流出意願出現明顯緩解，但資金活躍度與槓桿尚未同步擴張，交易型資金的修復斜率仍不穩定；配置型資金中，上週觀察到一定的承接跡象，但考慮到美聯儲央行年會偏鷹、主動配置型外資仍未轉向流入，資金流入的持續性有待觀測。方向上，基金對紅利、新能源的關注度明顯增強，科技上硬體側新發明顯回落，軟體側小幅回暖，有色及醫藥維持相對穩定的發行態勢。"
+    },
+    {
+      "id": "5071836",
+      "time": "2026-09-02 07:34:45",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國長債收益率重返貝森特出手前水平 市場說光靠擴大回購不夠】美國最長天期的政府債券收益率攀升，重返上個月財政部長斯科特·貝森特震撼市場、宣佈擴大債券回購計劃以遏止收益率上揚之前的水準。這項策略一度奏效，但席捲全球市場的債券拋售潮隨後再度推高美國政府的借貸成本。到了週二，30年期國債收益率升至5.27%，回到貝森特8月19日宣佈該舉措前不久的水平相同。作為各類貸款成本重要基準的10年期國債收益率，比當時高出10個基點以上，來到約4.8%。這些走勢傳達出全球最大債券市場發出的明確訊號：要安撫那些憂心國債激增和通脹持續居高不下的投資者，光靠財政部臨時調整債券回購計劃還不夠。“美債收益率即使明顯回落，也始終守不住，”美國銀行利率策略主管Mark Cabana表示。“投資者若要把資金鎖定在如此長的期限，就會要求最高的風險補償。”"
+    },
+    {
+      "id": "5071835",
+      "time": "2026-09-02 07:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月稱，G20討論了全球失衡、新興國家債務和金融知識普及問題。"
+    },
+    {
+      "id": "5071834",
+      "time": "2026-09-02 07:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱完成對伊朗的新一輪打擊】美軍中央司令部1日在社交媒體釋出訊息說，美軍已完成對伊朗軍事目標的新一輪打擊，目標包括伊朗伊斯蘭革命衛隊的防空陣地、雷達系統、海事資產與設施、佈雷能力以及通訊站點。 美軍於美東時間1日12時開始對伊朗境內的伊朗伊斯蘭革命衛隊目標發動新一輪打擊。美國總統特朗普隨後在社交媒體發文稱，美軍此次打擊“規模大、威力強”，是對伊朗企圖在霍爾木茲海峽佈設水雷以及向美國在約旦的軍事基地發射8枚導彈的報復行動。如果伊朗對此次打擊進行報復，美國將再次進行“更猛烈、更高階別”的打擊。 伊朗伊斯蘭革命衛隊1日宣佈已開始回應美方當天的襲擊，並稱擊落一架美軍MQ-9無人機。約旦武裝部隊2日凌晨發表宣告說，約旦防空系統在過去數小時內攔截了10枚來自伊朗的彈道導彈，另有3枚彈道導彈落在偏遠地區。 美國駐約旦、卡達、巴林和沙烏地阿拉伯等中東國家的使館已在其官網釋出安全警報，稱中東地區局勢緊張且存在“局勢意外升級的風險”，要求目前身處中東地區的美國公民保持謹慎和警惕，並做好航班取消、領空臨時關閉以及出行可能受阻的準備。(新華社)"
+    },
+    {
+      "id": "mkt:01a05f51-cf0a-7118-8448-a32e44dcd5d6",
+      "time": "2026-09-02 07:33:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Katayama, Japan's finance minister, held talks with the Federal Reserve chair."
+    },
+    {
+      "id": "5071833",
+      "time": "2026-09-02 07:32:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：與美聯儲主席舉行了會談。"
+    },
+    {
+      "id": "5071832",
+      "time": "2026-09-02 07:30:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "太古股份公告，公司欣然宣佈，於二零二六年九月二日（交易時段前），公司已成功執行加速換股交易。加速換股交易包括債券回購及股份配售，涉及公司回購本金總額為港幣 4,689,000,000 元之債券（佔債券總本金額約 99.77%，回購價為債券本金額的 109.08%），以及公司出售 362,645,011 股國泰航空股份（作價每股國泰航空股份港幣 13.20 元）。由於根據加速換股交易被交換或被回購及登出的債券本金總額達到原已發行債券本金總額的 90% 或以上，Swire Pacific Finance（作為債券發行人）可依據條款行使權利，按本金金額贖回全部剩餘未償還債券。本公司將於適當時候另行刊發公告。集團預期就股份配售確認約 11.18 億港元收益，該金額參照集團所持國泰航空權益的最新可取得賬面值計算得出。加速換股交易整體淨收益預期約為 7.04 億港元（包含債券回購產生的公允價值虧損，但不含交易成本）。"
+    },
+    {
+      "id": "5071831",
+      "time": "2026-09-02 07:28:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【樓市新政密集落地 為“金九銀十”旺季蓄力】9月，樓市進入傳統的“金九銀十”旺季。隨著多個城市的樓市新政密集落地，市場熱度有望攀升。“多地透過調整限購政策、貸款首付比例，進一步釋放了購房的潛力。同時，多地提高住房公積金貸款額度，並藉助包括住房公積金貸款貼息、賣舊買新補貼等在內的多項補貼，降低了購房的成本。”廣東省住房政策研究中心首席研究員李宇嘉向證券時報記者表示，從政策出臺節奏來看，北京、上海出臺政策後，成都、西安等地跟進，形成一線、二線城市聯動，持續跟進的接力效應向市場傳遞積極訊號，提振市場信心與預期。有業內人士表示，根據以往經驗，政策釋出後通常在落地1至2個月後進入集中釋放期，市場成交量在短期回升的確定性較強。多重政策紅利已經為樓市點燃預熱引擎，為“金九銀十”這一樓市傳統旺季蓄力，市場有望迎來一輪成交量的集中釋放，特別是一線樓市有望迎來一波成交量回暖行情，但行情分化、穩健修復將成為主線。"
+    },
+    {
+      "id": "5071830",
+      "time": "2026-09-02 07:28:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國下令奧蘭多燃煤電廠機組維持可執行狀態】美國能源部長克里斯・賴特今日釋出一項緊急命令，要求奧蘭多公用事業委員會確保佛羅里達州奧蘭多市斯坦頓能源中心的1號機組保持可執行狀態。美國能源部在宣告中作出相關表態。宣告稱，這座燃煤電廠的1號機組原計劃於2026年6月提前進入長期冷停機狀態。該命令自9月2日起生效，有效期至11月30日。"
+    },
+    {
+      "id": "mkt:01a05f4b-674a-7118-8448-9c315c521cb1",
+      "time": "2026-09-02 07:26:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump nominates Gao Xiong as next US Navy secretary】On Sept. 1, President Trump nominated Gao Xiong, of Vietnamese descent, to be the next US Navy secretary and urged the Senate to move swiftly to confirm the nomination."
+    },
+    {
+      "id": "5071829",
+      "time": "2026-09-02 07:26:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普提名高雄出任下一任美國海軍部長】當地時間9月1日，美國總統特朗普宣佈，提名高雄（越南裔）出任下一任美國海軍部長。特朗普敦促參議院儘快確認提名。（央視）"
+    },
+    {
+      "id": "5071828",
+      "time": "2026-09-02 07:24:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK集團董事長：與鎧俠開展合作是可選方向】據日本《朝日新聞》援引週二的採訪報道，SK集團會長崔泰源表示，與鎧俠控股開展聯合生產，是兩家晶片企業可以考慮的合作選項之一。崔泰源稱，SK海力士正考慮在日本建設工廠。他表示鎧俠具備諸多優勢，兩家企業可在聯合生產、研發以及供應鏈等領域展開合作。他同時提到，如果雙方無法找到可行的合作模式，SK海力士或將減持其持有的鎧俠間接股份。"
+    },
+    {
+      "id": "mkt:01a05f49-9215-7118-8448-93ebfefe327e",
+      "time": "2026-09-02 07:24:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Korea core inflation at 3+ year high, increases pressure on Bank of Korea to tighten】Statistics Korea on Wednesday showed August CPI YoY +3.1% (July +2.8%), below economists' median +3.2%. Core inflation excluding food and energy accelerated to 3.4% from 2.6%, the highest since May 2023, signaling persistent underlying price pressure beyond energy and reinforcing the Bank of Korea's case for further tightening."
+    },
+    {
+      "id": "mkt:01a05f49-744f-7118-8448-8d931e51e00e",
+      "time": "2026-09-02 07:24:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC says it struck Jordan's Prince Hassan air base, destroyed RQ-4 and MQ-9 drones】In the early hours of the 2nd (local time), the IRGC Aerospace Force said it attacked Jordan's Prince Hassan Air Base in retaliation for US actions, destroying multiple RQ-4 and MQ-9 drones, killing several pilots and crew members and damaging multiple US technical facilities."
+    },
+    {
+      "id": "5071827",
+      "time": "2026-09-02 07:23:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK集團董事長表示，與鎧俠合作是可行的方案之一。"
+    },
+    {
+      "id": "5071826",
+      "time": "2026-09-02 07:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱襲擊約旦哈桑王子空軍基地 摧毀多架無人機】當地時間2日凌晨，伊朗伊斯蘭革命衛隊發表宣告稱，為報復美軍行為，伊朗伊斯蘭革命衛隊航空航天部隊對位於約旦的哈桑王子空軍基地發動攻擊，摧毀了多架RQ-4和MQ-9無人機，並打死了多名飛行員和機組人員，美軍的多個技術設施也遭到破壞。"
+    },
+    {
+      "id": "5071825",
+      "time": "2026-09-02 07:22:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【併購重組市場活躍度穩步提升 交易邏輯轉向產業價值整合】A股併購重組市場活躍度穩步提升。權威資料顯示，今年前7個月，A股市場披露資產重組方案1425單，其中重大資產重組78單。在業內人士看來，此輪併購重組市場回暖，在交易數量提升的同時，交易邏輯逐步轉向產業價值整合，交易質量導向顯著增強，推動資本市場與產業升級形成正向迴圈。從併購交易目的看，今年以來超過六成交易圍繞主業橫向整合、產業鏈縱向補鏈展開。以高階裝備、生物醫藥、新能源等為代表的先進製造產業併購保持活躍，企業透過併購重組實現產業鏈上下游整合，完善產業矩陣，打造新的業績增長曲線。（上證報）"
+    },
+    {
+      "id": "mkt:01a05f47-4a1f-7118-8448-8448b4b92933",
+      "time": "2026-09-02 07:21:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peru severs diplomatic ties with Iran】Peru’s foreign ministry said on Sept 1 it has severed diplomatic relations with Iran and notified Tehran by diplomatic note delivered through Iran’s embassy in Ecuador."
+    },
+    {
+      "id": "mkt:01a05f47-491c-7118-8448-78711c36ca43",
+      "time": "2026-09-02 07:21:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin says Ukraine's 40-day attacks caused damage equal to about 1% of Russian GDP】Putin said Ukraine's 40-day campaign ordered by Zelensky inflicted damage on Russia equal to about 1% of GDP, based on preliminary estimates. He said since June roughly 100 Russian vessels have been damaged, about 40 in the first two weeks, and that only about 10% of damaged refinery facilities remain to be repaired. He did not comment on strikes against Wildberries and Ozon warehouses; those attacks have already caused billions of dollars of damage to Russia's logistics network. Zelensky has threatened large-scale drone deployments to effectively close Russian commercial airspace; Putin said Russia would find a way to respond if that occurs."
+    },
+    {
+      "id": "5071824",
+      "time": "2026-09-02 07:21:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【秘魯宣佈與伊朗斷絕外交關係】當地時間9月1日，秘魯外交部宣佈與伊朗斷絕外交關係，並表示這一決定已透過伊朗駐厄瓜多大使館以外交照會方式通知伊朗。（央視新聞）"
+    },
+    {
+      "id": "5071823",
+      "time": "2026-09-02 07:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【房車露營等需求旺盛 汽車後市場潛力將獲充分挖掘】汽車後市場的消費潛力有望被進一步挖掘。《關於推動商品消費擴容升級的實施意見》（下稱“意見”）提出，深入推進汽車流通消費改革試點，加快破除汽車流通消費領域不合理限制性措施，創新汽車使用管理模式，全鏈條擴大汽車消費。培育壯大汽車後市場，支援發展汽車改裝、維修保養、賽事運動、房車露營，建立傳統經典車認定和管理制度。記者近日採訪獲悉，汽車後市場消費作為圍繞汽車使用而產生的全週期性消費，對拉動居民消費升級、激發經營主體活力、推動汽車產業轉型發揮著重要作用：一方面，大量車輛進入維修保養等高頻週期，剛性服務需求持續釋放；另一方面，個性化需求快速增長，汽車文化消費開始發力，汽車後市場的細分賽道開始起勢。（上海證券報）"
+    },
+    {
+      "id": "5071822",
+      "time": "2026-09-02 07:19:56",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國8月通脹加速 強化央行保持緊縮立場的前景】韓國8月通脹率加速程度低於預期，但核心價格漲幅創三年多來最快，這增強了韓國央行維持緊縮政策的理由。韓國資料統計部門週三公佈的資料顯示，8月消費價格指數同比上漲3.1%，高於7月的2.8%。調查中值預期為上升3.2%。剔除波動較大的食品和能源價格後的核心通脹率從7月的2.6%加速至3.4%，為2023年5月以來最快增速。這表明除了能源成本上漲的影響外，潛在的價格壓力依然持續存在。這些資料可能會令韓國央行對通脹問題保持警惕，儘管總體通脹率受到一些一次性因素的影響。財政部估計去年同期的手機話費折扣給通脹資料帶來影響。"
+    },
+    {
+      "id": "te:markets:580201",
+      "time": "2026-09-02 07:19:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Gains on Escalating US-Iran Attacks — Brent crude climbed above $95 per barrel on Wednesday, rising for a third consecutive session to its highest level in nearly six weeks as escalating hostilities between the US and Iran heightened concerns over further disruptions to energy flows from the Middle East. The US military launched fresh strikes against Iranian targets around the Strait of Hormuz, which President Donald Trump said were retaliation for Tehran’s attempts to lay mines in the waterway and for an earlier attack on a US military base. Trump also threatened a significantly larger response should Tehran retaliate. Iran said it had already responded by targeting US bases in the region and firing missiles toward Jordan. Meanwhile, US Treasury Secretary Scott Bessent said Iran’s bankruptcy is in the “acceleration phase,” while noting that 17 million barrels of crude passed through Hormuz on Monday, suggesting Tehran does not have control of the strategic waterway."
+    },
+    {
+      "id": "5071821",
+      "time": "2026-09-02 07:19:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【派發2500多億元“紅包” 上市銀行中期分紅陣營擴大】隨著2026年上市銀行半年報季收官，“中期分紅”成為最受市場關注的關鍵詞。截至8月底，各型別銀行相繼披露中期分紅計劃，合計擬派發現金紅利超過2500億元，參與中期分紅的A股銀行數量已從去年的24家擴大至31家。從結構特徵看，國有大行分紅總量最大；股份制銀行平均分紅比例相對較高，分紅力度較為突出；城商行整體分紅比例略低，呈現一定的梯度差異。（上海證券報）"
+    },
+    {
+      "id": "te:markets:580200",
+      "time": "2026-09-02 07:18:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Gains on Escalating US-Iran Attacks — Crude oil climbed toward $91 per barrel on Wednesday, rising for a third consecutive session to its highest level in nearly six weeks as escalating hostilities between the US and Iran heightened concerns over further disruptions to energy flows from the Middle East. The US military launched fresh strikes against Iranian targets around the Strait of Hormuz, which President Donald Trump said were retaliation for Tehran’s attempts to lay mines in the waterway and for an earlier attack on a US military base. Trump also threatened a significantly larger response should Tehran retaliate. Iran said it had already responded by targeting US bases in the region and firing missiles toward Jordan. Meanwhile, US Treasury Secretary Scott Bessent said Iran’s bankruptcy is in the “acceleration phase,” while noting that 17 million barrels of crude passed through Hormuz on Monday, suggesting Tehran does not have control of the strategic waterway."
+    },
+    {
+      "id": "5071820",
+      "time": "2026-09-02 07:18:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國猶他州法官允許檢察官在查理·柯克謀殺案中尋求死刑判決。"
+    },
+    {
+      "id": "te:economy:580199",
+      "time": "2026-09-02 07:18:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "South Korea Inflation Rate Accelerates in August — South Korea’s annual inflation rate rose to 3.1% in August 2026 from 2.8% in the previous month. The latest reading was below market expectations of 3.2%, though it climbed further above the central bank’s 2% target. Transport inflation remained elevated at 7.2%, although it eased from 7.7% in July, as gasoline and diesel prices accelerated, while communication costs surged 16.6% (vs 0.5%). Inflation also increased for recreation and culture (4.9% vs 5.5%), housing and utilities (1.9% vs 1.8%), and restaurants and hotels (2.8% vs 2.8%). By contrast, food and non-alcoholic beverages prices fell 0.5% (vs 0.9%), with fresh food prices dropping 6.7%. On a monthly basis, consumer prices rose by 0.2% in July, falling short of market estimates for a 0.3% gain but rebounding from a 0.2% decline in the preceding period."
+    },
+    {
+      "id": "5071819",
+      "time": "2026-09-02 07:18:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【試點四年蓄勢“轉正” 券商綜合賬戶管理新規徵求意見】近日，中國證券業協會組織起草《證券公司客戶綜合賬戶管理指引（徵求意見稿）》（下稱《指引》），向行業公開徵求意見，標誌著始於2021年的賬戶管理功能最佳化試點正向全行業常規化邁進。《指引》共計47條，對綜合賬戶管理、同名賬戶資金劃轉、分類子賬戶管理等作出系統性規範，引導證券公司合規、審慎、有序地開展綜合賬戶服務。受訪人士認為，綜合賬戶的最大突破在於將客戶分散於普通、信用、期權等不同賬戶中的資金與資產，整合為一個統一的賬戶檢視和排程體系。長期來看，綜合賬戶服務將成為券商數字化經營和財富管理轉型的基礎工程，決定未來5到10年零售與機構業務的核心競爭力。（上海證券報）"
+    },
+    {
+      "id": "5071818",
+      "time": "2026-09-02 07:17:41",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【9月2日隔夜要聞一覽】\n1、美軍中央司令部稱，中央司令部部隊於9月1日成功完成了一波針對伊朗軍事目標的打擊行動。美軍打擊了伊朗伊斯蘭革命衛隊目標，包括防空陣地、雷達系統、海上資產和設施、佈雷能力以及通訊站點。\n2、伊朗軍隊發表宣告稱， 為回應敵方對伊朗南部地區的侵略，數小時前，伊朗軍隊對位於巴林的謝赫伊薩美軍雷達設施和集結中心發動了大規模無人機襲擊。\n3、針對當前烏克蘭問題的談判程序，普京指出，任何談判都應具備實質性內容，目前烏克蘭問題談判程序處於凍結狀態。\n4、美國國會眾議院透過一項聯邦政府臨時撥款法案，以避免10月1日發生政府“停擺”，並將法案送交美國總統特朗普簽署。\n5、美國財政部週二釋出的會談紀要稱，貝森特“強烈支援日本採取果斷的市場和貨幣政策措施，以應對日元匯率被明顯低估的問題，他還指出日元疲軟正在加劇日本國內通脹壓力”。\n6、加拿大總理馬克·卡尼認為加拿大和美國有可能達成一項“互利”的貿易協議，但只要特朗普政府官員繼續公開羞辱加拿大，雙方就無法恢復談判。\n7、Anthropic推出Claude Fable 5.1與Claude Mythos 5.1，並宣佈推出企業級前沿安全防護方案，具備零資料留存與濫用檢測功能。\n8、戴爾Q2營收470億美元，同比增長58%，高於市場預期的448億美元；全年營收指引從此前約1670億美元大幅上調至1920億美元，顯著高於市場預期的1738億美元。\n9、蘋果新任CEO特努斯年薪從2026年9月1日起提高至300萬美元，並獲批2027財年年度股權獎勵，目標價值為5500萬美元。"
+    },
+    {
+      "id": "mkt:01a05f43-0d6d-7118-8448-71aea0c10081",
+      "time": "2026-09-02 07:17:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "MPC.O",
+        "Impact bullish",
+        "VLO.O",
+        "PSX.O"
+      ],
+      "text": "【U.S. refiners poised for a boom】The S&P 500 Oil & Gas Refining & Marketing Index has climbed 108% over the past 12 months to about 3,250, near record highs. The index tracks large U.S. refiners, marketers and transporters. This is the biggest 12-month gain since the post-2020 recovery; only 2013 and 2005 produced comparable 30-year performances. Refining and marketing stocks are up 175% since April 2025, and markets are positioning for a strong upswing in U.S. refining."
+    },
+    {
+      "id": "5071817",
+      "time": "2026-09-02 07:16:49",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【個人持有ETF比例半年躍升至43%】隨著2026年基金中期報告披露完畢，ETF持有人結構浮出水面。從總體來看，過去半年來，個人投資者持有ETF的比例大幅提升。Choice資料顯示，截至6月底，個人投資者持有ETF份額從2025年底的1.08萬億份增至1.25萬億份，個人投資者的持有比例從33.07%增至43.01%。（上海證券報）"
+    },
+    {
+      "id": "5071816",
+      "time": "2026-09-02 07:16:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【不愛“綠鞋”愛“入通” 港股IPO湧現新潮流】“不穿綠鞋，首日入通”在A+H上市公司中越來越受到歡迎，並逐漸成為一股潮流。記者初步統計發現，今年以來，濱化股份、普源精電、沃爾核材、國恩科技、兆威機電、美格智慧、廣合科技、國民技術等多家公司在發行H時，選擇不設綠鞋機制，並實現首日納入港股通。相比之下，去年僅有吉宏股份一家公司選擇了該機制。這一現象的背後，是A股公司赴港上市對南向資金越來越重視。隨著南向資金佔港股總交易量比重顯著上升，南向資金對港股的邊際定價權明顯增強。多位接受採訪的人士認為，引入綠鞋機制，還是選擇首日納入港股通，實際上是港股發行人和承銷團在流通盤、穩價需求、投資者結構與後續交易活躍度之間進行的一種權衡動作。（上海證券報）"
+    },
+    {
+      "id": "mkt:01a05f41-e7f4-7118-8448-6a64331d0bda",
+      "time": "2026-09-02 07:15:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC co-founder Tom Brown will speak at a G20 technology meeting on Wednesday."
+    },
+    {
+      "id": "5071815",
+      "time": "2026-09-02 07:15:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic公司表示，聯合創始人湯姆·布朗將於週三在二十國集團（G20）科技會議上發表講話。"
+    },
+    {
+      "id": "5071814",
+      "time": "2026-09-02 07:14:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方敦促早日實現烏克蘭危機的政治解決 】中國常駐聯合國副代表孫磊1日在聯大審議烏克蘭問題時發言，敦促早日實現危機的政治解決。 孫磊說，烏克蘭問題仍在延宕。自聯大上次討論烏克蘭問題以來，地面形勢非但沒有得到緩和反而愈演愈烈，襲擊和平民傷亡事件頻繁發生，戰事還對第三方國家造成嚴重負面影響，令人深感憂慮和痛心。中方呼籲當事方和國際社會共同努力，推動早日實現停火止戰、危機政治解決。中方敦促停止任何針對平民的襲擊，呼籲當事方保持冷靜剋制，嚴格遵守國際人道法，保護平民和民用基礎設施安全，避免傷及第三方平民和民用資產，為早日實現和平爭取希望。"
+    },
+    {
+      "id": "5071813",
+      "time": "2026-09-02 07:13:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組新一代AI手機豆包手機即將上市】中興通訊終端事業部總裁倪飛在社交平臺表示， 努比亞NaviX Ultra於9月1日正式入網。他表示，從大模型備案到終端入網，已率先走完了智慧體手機的合規流程，全球首款AI智慧體手機，本月將正式上市。記者獲悉，這款手機為中興通訊與位元組跳動聯合研發。 (科創板日報)"
+    },
+    {
+      "id": "5071812",
+      "time": "2026-09-02 07:13:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【外部因素擾動港股反彈程序 機構建議圍繞基本面佈局】在美聯儲主席釋放鷹派訊號、長端美債收益率高企等因素擾動下，港股市場在8月承壓，未能延續7月強勁反彈的態勢，9月1日延續調整態勢。不過從南向資金流向看，8月南向資金再度淨流入逾百億港元，市場並未出現明顯悲觀情緒。在業內人士看來，當前美聯儲加息機率以及美債利率上行風險上升壓制港股估值進一步修復的空間，港股後續走強需要業績驗證或穩增長政策加碼推動盈利預期由區域性上修擴散至整體。對於後市配置，建議圍繞盈利確定性更高或具備獨立催化因素的領域展開佈局，AI應用龍頭、醫藥生物板塊、高股息紅利資產等值得關注。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a05f3f-a517-7118-8448-66b60a55996b",
+      "time": "2026-09-02 07:13:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump presses refiners to boost output; biofuel blending mandates cited as obstacle】At a closed-door meeting Tuesday, Trump urged US refiners to raise domestic gasoline and diesel output, saying he wants lower pump prices and asking executives how to expand refining capacity. Discussion covered regulatory reform and additional investment. Refining executives said federal biofuel blending mandates, including alternative-fuel quotas, are pushing up retail gasoline prices and questioned the government's record-high blending targets."
+    },
+    {
+      "id": "5071811",
+      "time": "2026-09-02 07:12:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大型IPO專案落地 港股優質資產供給持續擴容】9月首個交易日，港股市場迎來大型IPO專案落地。跨境電商巨頭希音-W正式在港交所主機板掛牌上市，募資規模約132億港元。同日，百度集團正式完成由香港聯交所的第二上市地位向香港聯交所及納斯達克雙重主要上市的轉換。分析人士認為，大型IPO專案接連登陸與雙重主要上市機制持續深化，標誌著港股市場優質資產供給渠道進一步拓寬。隨著頭部科技企業、行業龍頭及中概股迴歸專案陸續推進，港股市場正迎來一波高質量的上市資源擴容。優質資產供給增加，將進一步提升港股對全球資金的吸引力，併為市場流動性改善和估值修復提供支撐。（中國證券報）"
+    },
+    {
+      "id": "5071810",
+      "time": "2026-09-02 07:11:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、李強會見美中貿易全國委員會董事會代表團\n2、關鍵航空材料殘餘應力研究取得突破\n3、中國—東盟博覽會將於九月十七至二十一日舉辦 展示經貿合作成果 提升開放合作能級（權威釋出）\n4、京九鐵路開通30年累計傳送旅客17.7億人次，京港高鐵即將全線貫通 從老京九到新京港，鐵路通達見證發展（大資料觀察）\n5、“絲路海運”貿易資料服務覆蓋230個國家和地區\n6、新疆出臺措施促進新能源有效投資\n7、推出“工業太陽”計劃 佈局全產業發展鏈條 埃及加快推動能源綠色轉型（國際視點）中埃光伏發電合作不斷深化\n8、科創中國 活力迸發——“中國經濟圓桌會”聚焦科技創新引領產業升級\n9、持續擴大新供給、創新多元化消費場景 鐵旅融合帶來新體驗（經濟聚焦）\n10、光伏發電裝機首超煤電 成為裝機規模最大的電源品類\n11、人工與智慧客服協同新標準9月1日起實施\n12、需求上升 企業下沉 政策鋪路 品牌連鎖開啟縣域消費新空間（財米油鹽）\n13、甘肅上線公共資料資源雙平臺 賦能數字經濟發展\n14、煉油石化基地 向高向綠向智（產經視野·做強做優做大實體經濟）\n15、從1.4億人“全球購”看中國機遇2.0（新視窗）。"
+    },
+    {
+      "id": "5071809",
+      "time": "2026-09-02 07:11:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【淨息差持續探底 中小銀行直面盈利考驗】0.98%，這是哈爾濱銀行今年上半年的淨息差資料。淨息差是評價商業銀行生息資產收益能力和風險定價能力的關鍵指標，當淨息差絕對水平較低時，銀行的盈利能力面臨嚴峻考驗。事實上，在二季度銀行業整體淨息差企穩回升的大背景下，包括哈爾濱銀行在內的部分中小銀行淨息差水平難言樂觀。這類銀行往往具有負債端成本較高、資產端再投資壓力較大的特點。何時才能看到這些中小銀行的淨息差企穩回升？業內人士尚無明確答案。對此，專家建議，上述中小銀行應從負債端和資產端尋找答案，爭取低成本負債，培育特色產品，取得合理定價能力；同時，在中間業務上多下功夫，增加非息收入規模。（中國證券報）"
+    },
+    {
+      "id": "5071808",
+      "time": "2026-09-02 07:11:05",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平出席上海合作組織成員國元首理事會第二十六次會議並發表重要講話\n2、習近平出席“上海合作組織+”會議並發表重要講話\n3、習近平抵達開羅對埃及進行國事訪問\n4、習近平圓滿結束出席2026年上海合作組織峰會和對吉爾吉斯斯坦的國事訪問。"
+    },
+    {
+      "id": "5071807",
+      "time": "2026-09-02 07:10:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本外務省：正在訪問奧地利的外務大臣 茂木敏充  與奧地利外長貝婭特·邁因爾-賴辛格會談，一致同意加強在機器人技術、人工智慧等尖端技術領域以及經濟安全保障領域等廣泛領域的合作，此外，還將在國際舞臺上與2027年起擔任聯合國安理會非常任理事國的奧地利展開協作。"
+    },
+    {
+      "id": "te:economy:580196",
+      "time": "2026-09-02 07:09:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index Manufacturing",
+        "Importance 1"
+      ],
+      "text": "Australia Manufacturing Contraction Eases — Australia’s Ai Group Industry Index for manufacturing remained in contraction in August, albeit at a softer pace, rising to -16.6 from July’s upwardly revised -19.3. The sector remained under pressure as lower domestic demand, rising input costs, heavier compliance burdens, supply chain challenges, and stronger competition from imports squeezed margins. Upstream industries showed improvement: chemicals increased activity due to new construction projects, despite rising input and material costs, market uncertainty, and staff shortages, while metals also recorded an improvement, concentrated in project-driven work. Downstream, machinery and equipment deteriorated amid lower orders, while food and beverage was the weakest sector, with demand weakened by adverse weather, rising input costs, and supply delays, alongside limited capacity to pass costs on to price-sensitive customers."
+    },
+    {
+      "id": "5071806",
+      "time": "2026-09-02 07:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科研團隊首次實現高光譜相機實時解析】高光譜成像能透過物質特有的光譜資訊識別材質和成分，是遙感監測、工業檢測等領域的重要技術。近日，北京理工大學科研團隊首創片上光譜計算新方法，將原本依賴大型伺服器完成的光譜解析整合到便攜裝置中，實現高光譜資訊的現場實時處理。相關成果近日發表於國際學術期刊《科學》。"
+    },
+    {
+      "id": "te:economy:580195",
+      "time": "2026-09-02 07:09:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index Construction",
+        "Importance 1"
+      ],
+      "text": "Australia Construction Bounces Back — The Ai Group Industry Index for Australia’s construction sector jumped to -6.9 in August 2026 from a revised -43.8 in the previous month, marking its highest reading since January and signalling a sharp improvement in conditions. However, businesses continued to report uncertainty stemming from taxation changes and the Federal Budget, as well as volatility in energy markets, with some respondents finding it difficult to forecast demand. Cost pressures also remained elevated, with businesses citing higher supplier prices, fuel levies, and raw material and energy costs. Labour shortages continued to constrain activity, particularly due to a lack of skilled trades, difficulties sourcing and retaining staff, and increased competition for workers amid a low-unemployment environment."
+    },
+    {
+      "id": "5071805",
+      "time": "2026-09-02 07:08:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：預計很快將對另一家銀行實施制裁。"
+    },
+    {
+      "id": "5071804",
+      "time": "2026-09-02 07:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：向友方與敵對各方表明，伊朗政權的時代已經“終結”。"
+    },
+    {
+      "id": "5071803",
+      "time": "2026-09-02 07:07:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【人民日報和音：共同推動中吉命運共同體建設走深走實】當前，國際形勢變亂交織，中吉加強合作將為維護地區和平穩定發展注入更多正能量。作為上海合作組織創始成員國，兩國共同推動落實好天津峰會成果，推動上海合作組織發展邁上新臺階，為推動構建上海合作組織命運共同體注入新動力。中方支援吉方在國際和地區事務中發揮更大作用，願同吉方在聯合國框架內進一步加強協作，共同踐行四大全球倡議，反對霸權主義和強權政治，堅持真正的多邊主義，維護國際公平正義，推動構建更加公正合理的全球治理體系。扎帕羅夫總統表示，習近平主席提出的四大全球倡議有助於各國攜手應對共同挑戰，構建更加公正穩定的國際秩序。吉方願同中方在聯合國、上海合作組織、中國—中亞機制、世界人工智慧合作組織等多邊平臺密切協調，共同維護世界和平穩定。"
+    },
+    {
+      "id": "mkt:01a05f39-6b7d-7118-8448-5d7fc67c082a",
+      "time": "2026-09-02 07:06:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru has severed diplomatic relations with Iran, the Peruvian Foreign Ministry said."
+    },
+    {
+      "id": "te:economy:580193",
+      "time": "2026-09-02 07:06:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Industry Index",
+        "Importance 1"
+      ],
+      "text": "Australia Industry Conditions Rebound — Australia’s Industry Index surged to -3.5 in August from a revised -26.2 in the prior month, its highest since February, signaling a sharp rebound in business conditions. Construction and business services led the recovery, buoyed by data centre projects. Activity and sales jumped 31.2 points to -2.2, new orders rose 15.9 points to -14.9, and employment gained 24.9 points to 3.0, all at their strongest since the energy crisis began. Firms reported mixed fortunes: some secured contracts and project wins, while others faced weaker sales and enquiries. Input volumes remained constrained by supply-chain disruptions, elevated costs, and geopolitical uncertainty. Pricing indicators diverged: input prices climbed 10.8 points to 68.0, while sales prices fell 13.1 points to 0.2, leaving a record 67.8-point margin gap. Average wages rose 16.9 points, reflecting annual increases at the start of the new financial year, underscoring persistent labor cost pressures despite headline improvement."
+    },
+    {
+      "id": "5071802",
+      "time": "2026-09-02 07:05:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "二十國集團宣告：應對債務可持續性挑戰。"
+    },
+    {
+      "id": "mkt:01a05f38-1abb-7118-8448-507b142f4444",
+      "time": "2026-09-02 07:05:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "VLO.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources said Valero's Port Arthur refinery has shut a small crude unit and its larger crude units are operating at minimum rates."
+    },
+    {
+      "id": "5071800",
+      "time": "2026-09-02 07:04:11",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部發布二十國集團 (G20)主席國宣告。"
+    },
+    {
+      "id": "5071799",
+      "time": "2026-09-02 07:02:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國8月消費者價格指數同比上漲3.1%，高於此前預期的3.2%。"
+    },
+    {
+      "id": "5071798",
+      "time": "2026-09-02 07:01:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蘋果公佈新CEO特努斯薪酬方案】蘋果發文稱，CEO特努斯的年薪上調至300萬美元。董事會人事與薪酬委員會同時於交接日向特努斯授予一筆按比例折算的限制性股票單位（RSU）獎勵，對應其2026財年擔任執行長的任職期間。該按比例折算限制性股票單位獎勵目標價值為250萬美元。人事與薪酬委員會還批准向特努斯授予一筆目標價值5500萬美元的年度股權獎勵，將於2027財年發放。該股權獎勵的75%為業績掛鉤型限制性股票單位，解鎖條件取決於蘋果相對標普500指數其他成分公司的股東總回報表現；剩餘25%為時間掛鉤型限制性股票單位，分四年、每半年等額解鎖，每次解鎖12.5%，該解鎖規則與蘋果2027財年向其他高管發放的時間掛鉤限制性股票單位獎勵保持一致。"
+    },
+    {
+      "id": "mkt:01a05f33-9a84-7118-8448-48a9042f31ca",
+      "time": "2026-09-02 07:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea Aug CPI MoM +0.2% (consensus +0.3%); Jul -0.2%."
+    },
+    {
+      "id": "mkt:01a05f33-8a2f-7118-8448-430fa2d6da3f",
+      "time": "2026-09-02 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia August AIG/PwC Manufacturing Performance Index -16.6; prior -19.6."
+    },
+    {
+      "id": "mkt:01a05f33-88c0-7118-8448-3adc0a15304b",
+      "time": "2026-09-02 07:00:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia AIG construction performance index for August -6.9, previous -40.6."
+    },
+    {
+      "id": "mkt:01a05f33-8889-7118-8448-35af70f05fea",
+      "time": "2026-09-02 07:00:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Korea Aug CPI YoY 3.1% vs 3.2% expected; prev 2.8%."
+    },
+    {
+      "id": "mkt:01a05f33-6aeb-7118-8448-2be5594ab003",
+      "time": "2026-09-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (YoY) (Aug) | actual 3.1% | consensus 3.2% | previous 2.80%"
+    },
+    {
+      "id": "mkt:01a05f33-6ae9-7118-8448-21d0d756a0d3",
+      "time": "2026-09-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PCI (construction) (Aug) | actual -6.9 | previous -40.6"
+    },
+    {
+      "id": "mkt:01a05f33-6ae7-7118-8448-1eb924dba570",
+      "time": "2026-09-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (MoM) (Aug) | actual 0.2% | consensus 0.3% | previous -0.20%"
+    },
+    {
+      "id": "mkt:01a05f33-6ae5-7118-8448-114530d6a619",
+      "time": "2026-09-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Ai Group Australian PMI (manufacturing) (Aug) | actual -16.6 | previous -19.6"
+    },
+    {
+      "id": "mkt:01a05f32-8e95-7118-8448-0d3fa14c1127",
+      "time": "2026-09-02 06:59:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Trump said the US is the world’s largest, most powerful economy and will remain so; other countries should emulate US policy by cutting taxes, reducing regulation and, where feasible, pursuing \"aggressive drilling\". Growth, growth, growth."
+    },
+    {
+      "id": "te:markets:580189",
+      "time": "2026-09-02 06:58:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Muted Ahead of RBNZ Rate Decision — New Zealand stocks were almost flat, trading around 13,789 in Wednesday morning trade, after retreating in the previous session and remaining at their lowest level since August 17, touched a day earlier, ahead of the RBNZ's monetary policy decision later today. The market expects the central bank to raise interest rates by 25 bps after raising rates in May. Caution also prevailed as rising oil prices raised inflation concerns and reinforced expectations of an interest rate hike amid escalating Middle East tensions. Gains in communication services, industrials, and financials offset declines in tech sectors, consumer staples, and consumer discretionary. On the data front, New Zealand's building permits fell 4.3% month-on-month in July, after declining 3.7% in June. Bankers Investment rose 1.5%, Ebos Group climbed 0.9%, while A2 Milk and Fletcher Building fell 0.7% and 0.5%, respectively."
+    },
+    {
+      "id": "mkt:01a05f31-78eb-7118-8448-01e966278132",
+      "time": "2026-09-02 06:57:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he had a productive and positive dialogue at today's G20 finance ministers meeting."
+    },
+    {
+      "id": "mkt:01a05f30-080c-7118-8447-ff20ee0decb9",
+      "time": "2026-09-02 06:56:18",
+      "tags": [
+        "MKT News",
+        "VLO.O"
+      ],
+      "text": "Sources said Valero's Port Arthur, Texas refinery suffered a partial power outage."
+    },
+    {
+      "id": "5071797",
+      "time": "2026-09-02 06:56:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（各方）在阿什維爾G20峰會期間進行了富有成效、氛圍積極的多輪會談。"
+    },
+    {
+      "id": "mkt:01a05f2f-b306-7118-8447-f173e1c959e0",
+      "time": "2026-09-02 06:55:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the Senate should promptly confirm his nominees so he can continue the outstanding work of the past four months."
+    },
+    {
+      "id": "5071796",
+      "time": "2026-09-02 06:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：對約旦哈桑王子空軍基地記憶體放美軍RQ‑4以及MQ‑9遠端無人機的機庫發動大規模彈道導彈打擊。多架無人機被毀，多名美軍飛行員與技術人員身亡，多處軍事設施起火。"
+    },
+    {
+      "id": "mkt:01a05f2f-7c2b-7118-8447-ecd8b7eb20d9",
+      "time": "2026-09-02 06:55:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump nominated Hung Cao as the next secretary of the Navy, calling him a true warrior."
+    },
+    {
+      "id": "5071795",
+      "time": "2026-09-02 06:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase聯合創始人弗雷德·埃爾薩姆正尋求獲得委內瑞拉至少三座油田的控制權。"
+    },
+    {
+      "id": "5071794",
+      "time": "2026-09-02 06:53:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很高興提名Hung Cao出任下一任海軍部長。"
+    },
+    {
+      "id": "5071793",
+      "time": "2026-09-02 06:52:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美防長再將7名軍官列為整肅目標，此前心生不滿的陸軍部長辭職】美國國防部長皮特·赫格塞思已經解僱或阻止80餘名將官晉升。這場人事清洗波及大約10%的美軍高階軍官，且未見收手跡象。多名知情及退役軍方官員透露，近日，赫格塞思又把矛頭對準7名陸軍軍官。陸軍高層評審委員會已經選定這7人晉升少將。官員表示，赫格塞思拒絕解釋背後考量，造成五角大樓內部分裂，也引發國會諸多議員不滿。最新公開表達反對意見的是陸軍部長丹尼爾·P·德里斯科爾，他已於近日辭職。軍方官員稱，赫格塞思的清洗行動並非源於軍官履職表現不佳，而是國防部長推動的更大布局：打造一支在高層層面契合其政治與意識形態理念的軍隊。"
+    },
     {
       "id": "5071792",
       "time": "2026-09-02 06:50:54",

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-02 06:52:32",
+  "updated": "2026-09-02 07:43:01",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 468,
+  "count": 470,
   "history_summary": {
     "cached": 468,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 268,
+      "count": 270,
       "dates": [
         {
           "date": "2026-08-31",
@@ -6472,7 +6472,7 @@
         },
         {
           "date": "2026-09-02",
-          "count": 48,
+          "count": 50,
           "events": [
             {
               "id": "capital:1186570",
@@ -6951,7 +6951,7 @@
               "importance": 1,
               "previous": "32.1 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "10.1 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185068",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -7009,7 +7009,7 @@
               "importance": 1,
               "previous": "-3.6 %",
               "forecast": "-- %",
-              "actual": "-- %",
+              "actual": "-4.3 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184264",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -7055,6 +7055,122 @@
               "history_checked_at": "2026-08-23 07:59:34"
             },
             {
+              "id": "capital:1186579",
+              "fid": "1186579",
+              "interval": "this_week",
+              "date": "2026-09-02",
+              "time": "07:00",
+              "datetime": "2026-09-02 07:00:00",
+              "display_time": "09/02 07:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞8月AIG/PWC製造業表現指數",
+              "importance": 1,
+              "previous": "-19.6",
+              "forecast": "--",
+              "actual": "-16.6",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186579",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/05",
+                  "actual": "-19.6",
+                  "forecast": "-",
+                  "previous": "-16.8"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-16.8",
+                  "forecast": "-",
+                  "previous": "-22.4"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-22.4",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-27.9"
+                },
+                {
+                  "date": "04/01",
+                  "actual": "-27.9",
+                  "forecast": "-",
+                  "previous": "-15.6"
+                },
+                {
+                  "date": "03/04",
+                  "actual": "-15.6",
+                  "forecast": "-",
+                  "previous": "-19.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-02 07:42:59"
+            },
+            {
+              "id": "capital:1186580",
+              "fid": "1186580",
+              "interval": "this_week",
+              "date": "2026-09-02",
+              "time": "07:00",
+              "datetime": "2026-09-02 07:00:00",
+              "display_time": "09/02 07:00",
+              "country": "澳大利亞",
+              "title": "澳大利亞8月AIG建築業表現指數",
+              "importance": 1,
+              "previous": "-40.6",
+              "forecast": "--",
+              "actual": "-6.9",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186580",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/05",
+                  "actual": "-40.6",
+                  "forecast": "-",
+                  "previous": "-38.1"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-38.1",
+                  "forecast": "-",
+                  "previous": "-9.9"
+                },
+                {
+                  "date": "06/03",
+                  "actual": "-9.9",
+                  "forecast": "-",
+                  "previous": "-19.3"
+                },
+                {
+                  "date": "05/06",
+                  "actual": "-19.3",
+                  "forecast": "-",
+                  "previous": "-31.4"
+                },
+                {
+                  "date": "04/01",
+                  "actual": "-31.4",
+                  "forecast": "-",
+                  "previous": "-8.2"
+                },
+                {
+                  "date": "03/04",
+                  "actual": "-8.2",
+                  "forecast": "-",
+                  "previous": "5.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-02 07:42:59"
+            },
+            {
               "id": "capital:1184266",
               "fid": "1184266",
               "interval": "this_week",
@@ -7066,8 +7182,8 @@
               "title": "韓國8月CPI年率",
               "importance": 1,
               "previous": "2.8 %",
-              "forecast": "3.1 %",
-              "actual": "-- %",
+              "forecast": "3.2 %",
+              "actual": "3.1 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184266",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -7124,8 +7240,8 @@
               "title": "韓國8月CPI月率",
               "importance": 1,
               "previous": "-0.2 %",
-              "forecast": "0.2 %",
-              "actual": "-- %",
+              "forecast": "0.3 %",
+              "actual": "0.2 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184265",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -34089,7 +34205,7 @@
       "importance": 1,
       "previous": "32.1 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "10.1 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185068",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -34147,7 +34263,7 @@
       "importance": 1,
       "previous": "-3.6 %",
       "forecast": "-- %",
-      "actual": "-- %",
+      "actual": "-4.3 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184264",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -34193,6 +34309,122 @@
       "history_checked_at": "2026-08-23 07:59:34"
     },
     {
+      "id": "capital:1186579",
+      "fid": "1186579",
+      "interval": "this_week",
+      "date": "2026-09-02",
+      "time": "07:00",
+      "datetime": "2026-09-02 07:00:00",
+      "display_time": "09/02 07:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞8月AIG/PWC製造業表現指數",
+      "importance": 1,
+      "previous": "-19.6",
+      "forecast": "--",
+      "actual": "-16.6",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186579",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/05",
+          "actual": "-19.6",
+          "forecast": "-",
+          "previous": "-16.8"
+        },
+        {
+          "date": "07/01",
+          "actual": "-16.8",
+          "forecast": "-",
+          "previous": "-22.4"
+        },
+        {
+          "date": "06/03",
+          "actual": "-22.4",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "05/06",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-27.9"
+        },
+        {
+          "date": "04/01",
+          "actual": "-27.9",
+          "forecast": "-",
+          "previous": "-15.6"
+        },
+        {
+          "date": "03/04",
+          "actual": "-15.6",
+          "forecast": "-",
+          "previous": "-19.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-02 07:42:59"
+    },
+    {
+      "id": "capital:1186580",
+      "fid": "1186580",
+      "interval": "this_week",
+      "date": "2026-09-02",
+      "time": "07:00",
+      "datetime": "2026-09-02 07:00:00",
+      "display_time": "09/02 07:00",
+      "country": "澳大利亞",
+      "title": "澳大利亞8月AIG建築業表現指數",
+      "importance": 1,
+      "previous": "-40.6",
+      "forecast": "--",
+      "actual": "-6.9",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186580",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/05",
+          "actual": "-40.6",
+          "forecast": "-",
+          "previous": "-38.1"
+        },
+        {
+          "date": "07/01",
+          "actual": "-38.1",
+          "forecast": "-",
+          "previous": "-9.9"
+        },
+        {
+          "date": "06/03",
+          "actual": "-9.9",
+          "forecast": "-",
+          "previous": "-19.3"
+        },
+        {
+          "date": "05/06",
+          "actual": "-19.3",
+          "forecast": "-",
+          "previous": "-31.4"
+        },
+        {
+          "date": "04/01",
+          "actual": "-31.4",
+          "forecast": "-",
+          "previous": "-8.2"
+        },
+        {
+          "date": "03/04",
+          "actual": "-8.2",
+          "forecast": "-",
+          "previous": "5.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-02 07:42:59"
+    },
+    {
       "id": "capital:1184266",
       "fid": "1184266",
       "interval": "this_week",
@@ -34204,8 +34436,8 @@
       "title": "韓國8月CPI年率",
       "importance": 1,
       "previous": "2.8 %",
-      "forecast": "3.1 %",
-      "actual": "-- %",
+      "forecast": "3.2 %",
+      "actual": "3.1 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184266",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -34262,8 +34494,8 @@
       "title": "韓國8月CPI月率",
       "importance": 1,
       "previous": "-0.2 %",
-      "forecast": "0.2 %",
-      "actual": "-- %",
+      "forecast": "0.3 %",
+      "actual": "0.2 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184265",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
