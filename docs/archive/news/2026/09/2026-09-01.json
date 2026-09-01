@@ -1,7 +1,174 @@
 {
   "date": "2026-09-01",
-  "count": 760,
+  "count": 778,
   "items": [
+    {
+      "id": "5069778",
+      "time": "2026-09-01 09:55:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：與貝森特舉行了雙邊會談。"
+    },
+    {
+      "id": "mkt:01a05aae-1106-7118-8425-f87d71d748b6",
+      "time": "2026-09-01 09:55:52",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Japan minister KIUCHI says record budget request should be viewed against larger fiscal base】Japan economic and fiscal minister KIUCHI said the FY2027 budget request should be compared with the combined scale of FY2026’s initial budget and FY2025’s supplementary budget, reflecting Prime Minister Kishida’s aim to reduce reliance on supplementary bills. Local media reported initial budget requests for the fiscal year starting next April could total about ¥143 tln (~$896bn); this compares with the current fiscal year’s initial requests of ~¥122 tln and last year’s supplementary of ¥18.3 tln, a combined ~¥140.6 tln. KIUCHI said next year’s budget should appropriately reflect inflation and wage rises, enhance growth potential and support expansion of nominal GDP. He added it is too early to say what the final total will be; the government will finalise the budget around year-end after the finance ministry reviews department submissions."
+    },
+    {
+      "id": "mkt:01a05aad-8849-7118-8425-f0497ea7b37d",
+      "time": "2026-09-01 09:55:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A-share coal sector strengthened: Zhengzhou Coal & Power hit the daily trading limit, Yunmei Energy rose over 5%, and Shanghai Energy, Antai Group, Shanxi Coking and Dayou Energy advanced."
+    },
+    {
+      "id": "5069777",
+      "time": "2026-09-01 09:55:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "5069776",
+      "time": "2026-09-01 09:55:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天融信大模型安全閘道器落地江蘇某市OPC人工智慧一體化服務平臺】天融信訊息，天融信大模型安全閘道器落地江蘇某市OPC人工智慧一體化服務平臺。在本專案中，天融信在平臺側代理與雲端公共大模型之間，以反向代理的方式串接大模型安全閘道器。所有使用者請求和模型響應都必須經過閘道器進行安全過濾和轉發，相當於在公共使用者與大模型之間設了一道必經的安全圍欄，既不改動使用者訪問入口，也不觸碰大模型服務本身。"
+    },
+    {
+      "id": "5069775",
+      "time": "2026-09-01 09:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電子元器件板塊走弱 菲沃泰跌超9%】電子元器件板塊走弱，菲沃泰跌超9%，方邦股份、南亞新材、景旺電子等跟跌。"
+    },
+    {
+      "id": "mkt:01a05aac-fb5d-7118-8425-ea1d00846ee7",
+      "time": "2026-09-01 09:54:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Ministry of Public Security Computer Information System Security Product Quality Supervision and Inspection Center said inspections found 42 mobile apps illegally collecting or using personal information."
+    },
+    {
+      "id": "5069774",
+      "time": "2026-09-01 09:54:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭概念震盪反彈，鄭州煤電漲停】煤炭概念震盪反彈，鄭州煤電漲停，雲煤能源、上海能源、安泰集團、山西焦化、美錦能源、陝西黑貓等跟漲。"
+    },
+    {
+      "id": "5069773",
+      "time": "2026-09-01 09:54:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛亞太區總裁施南德表示，人工智慧不會取代我們的工作，而是增強我們的工作。"
+    },
+    {
+      "id": "mkt:01a05aac-0783-7118-8425-e61a5158fc16",
+      "time": "2026-09-01 09:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea plans to cut its national debt-to-GDP ratio to 48.3% from 51.6%."
+    },
+    {
+      "id": "5069772",
+      "time": "2026-09-01 09:53:28",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【澳大利亞10年期國債收益率升至2011年以來最高】受全球債市壓力以及澳洲央行或將進一步加息的預期影響，澳大利亞10年期國債收益率升至15年來的最高水準。10年期國債收益率一度上漲9個基點至5.18%，為2011年7月以來最高。3年期國債收益率上漲7個基點至4.73%。野村證券高階利率策略師Andrew Ticehurst表示，此次拋售看起來像是全球和本地因素共同作用的結果。"
+    },
+    {
+      "id": "mkt:01a05aab-d34e-7118-8425-deef5fdea029",
+      "time": "2026-09-01 09:53:25",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share dairy sector rose; Jiahe Foods hit its daily trading limit, while Yiming Foods, Qishi Dairy, Tianrun Dairy, Pinwo Foods and Miaokelan Duo also advanced."
+    },
+    {
+      "id": "te:markets:579755",
+      "time": "2026-09-01 09:53:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Extends Gains — European natural gas prices extended rally, climbing above €70/MWh on Tuesday, the highest level since January 2023, as the flare-up in US-Iran tensions heightened concerns over Europe’s gas supply security heading into the heating season. The US and Iran exchanged strikes for the first time in a month over the weekend, threatening to prolong the effective closure of the Strait of Hormuz, through which roughly one-fifth of global LNG trade normally passes. The prospect of sustained disruption has intensified competition with Asian buyers, tightening supplies bound for Europe during the critical gas-storage refill season. EU gas storage facilities were around 64% full, below historical levels for this time of year. Low storage levels and uncertainty over LNG supplies from the Persian Gulf are putting upward pressure on prices, offsetting milder weather forecasts for early September that could limit near-term demand."
+    },
+    {
+      "id": "5069771",
+      "time": "2026-09-01 09:53:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "菜籽連續主力合約日內跌10%，現報4829.00元。"
+    },
+    {
+      "id": "mkt:01a05aab-67e6-7118-8425-d7ee50648294",
+      "time": "2026-09-01 09:52:57",
+      "tags": [
+        "MKT News",
+        "Shennong Seed",
+        "Impact bullish",
+        "Hualv Bio",
+        "Beidahuang"
+      ],
+      "text": "China A-share planting sector rose after volatility; Shennong Seed, Xinsai, Nongfa Seed and Wanxiang Denong hit the daily limit-up; Hualv Bio gained over 9%; Kangnong Seed, Denghai Seed, Beidahuang and Xinong Development also advanced."
+    },
+    {
+      "id": "5069770",
+      "time": "2026-09-01 09:52:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉倫泰研製的靶向整合素αvβ3治療核藥獲得國家藥監局臨床試驗批件】9月1日，介面新聞獲悉，北京吉倫泰醫藥有限公司自主研發的1類創新治療核藥¹⁷⁷Lu-JLT003注射液（¹⁷⁷Lu-AB-3PRGD2）正式獲得國家藥品監督管理局藥品審評中心（CDE）的臨床試驗批件。該藥擬用於整合素αvβ3陽性的惡性腫瘤治療。（介面新聞 李科文）"
+    },
+    {
+      "id": "5069769",
+      "time": "2026-09-01 09:52:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "乳品板塊走高，佳禾食品漲停，一鳴食品、騎士乳業、天潤乳業、品渥食品、妙可藍多等紛紛走高。"
+    },
+    {
+      "id": "5069768",
+      "time": "2026-09-01 09:52:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體板塊震盪下行 概倫電子跌超8%】半導體板塊震盪下行，概倫電子跌超8%，唯特偶、富信科技、微導奈米等跌幅居前。"
+    },
     {
       "id": "mkt:01a05aa9-c407-7118-8425-cbf0f1a83df6",
       "time": "2026-09-01 09:51:10",

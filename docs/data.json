@@ -1,7 +1,174 @@
 {
-  "updated": "2026-09-01 09:52:43",
-  "count": 13124,
+  "updated": "2026-09-01 09:56:41",
+  "count": 13133,
   "items": [
+    {
+      "id": "5069778",
+      "time": "2026-09-01 09:55:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：與貝森特舉行了雙邊會談。"
+    },
+    {
+      "id": "mkt:01a05aae-1106-7118-8425-f87d71d748b6",
+      "time": "2026-09-01 09:55:52",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Japan minister KIUCHI says record budget request should be viewed against larger fiscal base】Japan economic and fiscal minister KIUCHI said the FY2027 budget request should be compared with the combined scale of FY2026’s initial budget and FY2025’s supplementary budget, reflecting Prime Minister Kishida’s aim to reduce reliance on supplementary bills. Local media reported initial budget requests for the fiscal year starting next April could total about ¥143 tln (~$896bn); this compares with the current fiscal year’s initial requests of ~¥122 tln and last year’s supplementary of ¥18.3 tln, a combined ~¥140.6 tln. KIUCHI said next year’s budget should appropriately reflect inflation and wage rises, enhance growth potential and support expansion of nominal GDP. He added it is too early to say what the final total will be; the government will finalise the budget around year-end after the finance ministry reviews department submissions."
+    },
+    {
+      "id": "5069777",
+      "time": "2026-09-01 09:55:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:01a05aad-8849-7118-8425-f0497ea7b37d",
+      "time": "2026-09-01 09:55:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A-share coal sector strengthened: Zhengzhou Coal & Power hit the daily trading limit, Yunmei Energy rose over 5%, and Shanghai Energy, Antai Group, Shanxi Coking and Dayou Energy advanced."
+    },
+    {
+      "id": "5069776",
+      "time": "2026-09-01 09:55:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天融信大模型安全閘道器落地江蘇某市OPC人工智慧一體化服務平臺】天融信訊息，天融信大模型安全閘道器落地江蘇某市OPC人工智慧一體化服務平臺。在本專案中，天融信在平臺側代理與雲端公共大模型之間，以反向代理的方式串接大模型安全閘道器。所有使用者請求和模型響應都必須經過閘道器進行安全過濾和轉發，相當於在公共使用者與大模型之間設了一道必經的安全圍欄，既不改動使用者訪問入口，也不觸碰大模型服務本身。"
+    },
+    {
+      "id": "5069775",
+      "time": "2026-09-01 09:54:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電子元器件板塊走弱 菲沃泰跌超9%】電子元器件板塊走弱，菲沃泰跌超9%，方邦股份、南亞新材、景旺電子等跟跌。"
+    },
+    {
+      "id": "mkt:01a05aac-fb5d-7118-8425-ea1d00846ee7",
+      "time": "2026-09-01 09:54:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Ministry of Public Security Computer Information System Security Product Quality Supervision and Inspection Center said inspections found 42 mobile apps illegally collecting or using personal information."
+    },
+    {
+      "id": "5069774",
+      "time": "2026-09-01 09:54:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭概念震盪反彈，鄭州煤電漲停】煤炭概念震盪反彈，鄭州煤電漲停，雲煤能源、上海能源、安泰集團、山西焦化、美錦能源、陝西黑貓等跟漲。"
+    },
+    {
+      "id": "5069773",
+      "time": "2026-09-01 09:54:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛亞太區總裁施南德表示，人工智慧不會取代我們的工作，而是增強我們的工作。"
+    },
+    {
+      "id": "mkt:01a05aac-0783-7118-8425-e61a5158fc16",
+      "time": "2026-09-01 09:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea plans to cut its national debt-to-GDP ratio to 48.3% from 51.6%."
+    },
+    {
+      "id": "5069772",
+      "time": "2026-09-01 09:53:28",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【澳大利亞10年期國債收益率升至2011年以來最高】受全球債市壓力以及澳洲央行或將進一步加息的預期影響，澳大利亞10年期國債收益率升至15年來的最高水準。10年期國債收益率一度上漲9個基點至5.18%，為2011年7月以來最高。3年期國債收益率上漲7個基點至4.73%。野村證券高階利率策略師Andrew Ticehurst表示，此次拋售看起來像是全球和本地因素共同作用的結果。"
+    },
+    {
+      "id": "mkt:01a05aab-d34e-7118-8425-deef5fdea029",
+      "time": "2026-09-01 09:53:25",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share dairy sector rose; Jiahe Foods hit its daily trading limit, while Yiming Foods, Qishi Dairy, Tianrun Dairy, Pinwo Foods and Miaokelan Duo also advanced."
+    },
+    {
+      "id": "te:markets:579755",
+      "time": "2026-09-01 09:53:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Extends Gains — European natural gas prices extended rally, climbing above €70/MWh on Tuesday, the highest level since January 2023, as the flare-up in US-Iran tensions heightened concerns over Europe’s gas supply security heading into the heating season. The US and Iran exchanged strikes for the first time in a month over the weekend, threatening to prolong the effective closure of the Strait of Hormuz, through which roughly one-fifth of global LNG trade normally passes. The prospect of sustained disruption has intensified competition with Asian buyers, tightening supplies bound for Europe during the critical gas-storage refill season. EU gas storage facilities were around 64% full, below historical levels for this time of year. Low storage levels and uncertainty over LNG supplies from the Persian Gulf are putting upward pressure on prices, offsetting milder weather forecasts for early September that could limit near-term demand."
+    },
+    {
+      "id": "5069771",
+      "time": "2026-09-01 09:53:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "菜籽連續主力合約日內跌10%，現報4829.00元。"
+    },
+    {
+      "id": "mkt:01a05aab-67e6-7118-8425-d7ee50648294",
+      "time": "2026-09-01 09:52:57",
+      "tags": [
+        "MKT News",
+        "Shennong Seed",
+        "Impact bullish",
+        "Hualv Bio",
+        "Beidahuang"
+      ],
+      "text": "China A-share planting sector rose after volatility; Shennong Seed, Xinsai, Nongfa Seed and Wanxiang Denong hit the daily limit-up; Hualv Bio gained over 9%; Kangnong Seed, Denghai Seed, Beidahuang and Xinong Development also advanced."
+    },
+    {
+      "id": "5069770",
+      "time": "2026-09-01 09:52:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉倫泰研製的靶向整合素αvβ3治療核藥獲得國家藥監局臨床試驗批件】9月1日，介面新聞獲悉，北京吉倫泰醫藥有限公司自主研發的1類創新治療核藥¹⁷⁷Lu-JLT003注射液（¹⁷⁷Lu-AB-3PRGD2）正式獲得國家藥品監督管理局藥品審評中心（CDE）的臨床試驗批件。該藥擬用於整合素αvβ3陽性的惡性腫瘤治療。（介面新聞 李科文）"
+    },
+    {
+      "id": "5069769",
+      "time": "2026-09-01 09:52:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "乳品板塊走高，佳禾食品漲停，一鳴食品、騎士乳業、天潤乳業、品渥食品、妙可藍多等紛紛走高。"
+    },
+    {
+      "id": "5069768",
+      "time": "2026-09-01 09:52:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體板塊震盪下行 概倫電子跌超8%】半導體板塊震盪下行，概倫電子跌超8%，唯特偶、富信科技、微導奈米等跌幅居前。"
+    },
     {
       "id": "mkt:01a05aa9-c407-7118-8425-cbf0f1a83df6",
       "time": "2026-09-01 09:51:10",
@@ -119742,92 +119909,6 @@
         "公司"
       ],
       "text": "【正裕工業等成立科技新公司 含多項AI業務】企查查APP顯示，近日，深圳躍幾科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由正裕工業(603089)等共同持股。"
-    },
-    {
-      "id": "5056513",
-      "time": "2026-08-25 09:56:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【數字貨幣概念逆勢活躍 新晨科技、數字認證漲超10%】早盤數字貨幣概念逆勢活躍，新晨科技、數字認證漲超10%，此前楚天龍3連板，艾融軟體、海聯金匯、拉卡拉、中油資本漲幅靠前。"
-    },
-    {
-      "id": "mkt:01a036a2-3682-7aab-9102-e9c0487a425b",
-      "time": "2026-08-25 09:56:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share digital-currency names active: Xinchen Technology and Digital Certification rose over 10%; Chutianlong earlier posted a three-day limit-up streak. Airong Software, Hailian Jinhui, Lakala and Zhongyou Capital were also among the top gainers."
-    },
-    {
-      "id": "5056511",
-      "time": "2026-08-25 09:55:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲3%，現報5858.00元。"
-    },
-    {
-      "id": "te:markets:577726",
-      "time": "2026-08-25 09:55:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Hit Near 1-Month Low — The Shanghai Composite fell 0.5% to 3,863 on Tuesday, while the Shenzhen Component dropped 1.2% to 13,622, with both benchmarks sinking to their lowest levels in nearly a month as a broad selloff in technology stocks weighed on sentiment across Asian markets. Investors continued to trim exposure to the sector ahead of a pivotal earnings week, with Nvidia’s results on Wednesday expected to test confidence in the artificial intelligence trade. In China, Eoptolink Technology declined 1.7% even after reporting a 100.34% surge in annual revenue and a 90.98% jump in net profit. Other major decliners included SMIC (-1.7%), Hygon Information Technology (-1.7%), and Zhongji Innolight (-2.3%). Meanwhile, investors also turned their attention to the National People's Congress Standing Committee meeting, which runs from August 25 to August 28, for potential policy signals aimed at supporting growth amid slowing economic momentum."
-    },
-    {
-      "id": "5056510",
-      "time": "2026-08-25 09:55:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【煤炭板塊震盪走高 上海能源2連板】煤炭板塊震盪走高，上海能源2連板，鄭州煤電、遼寧能源、山西焦化、晉控煤業等漲幅居前。"
-    },
-    {
-      "id": "5056509",
-      "time": "2026-08-25 09:54:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【槓桿ETF降溫 韓國資管推出三星SK海力士股債混合ETF】針對以三星電子、SK海力士為底層標的的單隻個股槓桿ETF監管加強過去一個多月，資產管理公司接連推出半導體大盤股疊加債券的混合類ETF產品。 高風險槓桿產品交易規模大幅萎縮，市場推出這類產品，意在承接半導體板塊的投資需求，同時透過債券降低組合波動，豐富投資者的選擇。 韓國交易所25日訊息，韓國投資信託運營的ACE三星電子SK海力士+債券混合50、未來資產資產管理的TIGER三星電子SK海力士美債混合50、三星資產運營的KODEX韓國TDF2065主動合格型，共計3只ETF於今日在有價證券市場同步上市。上市後韓國境內ETF總數量增至1164只。"
-    },
-    {
-      "id": "te:economy:577724",
-      "time": "2026-08-25 09:53:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "RBA Flags Inflation Risks Despite Policy Hold: August Meeting Minutes — Australia’s inflation has eased from its March peak, with underlying price growth slightly lower than in late 2025, the Reserve Bank's August minutes showed. However, board members judged inflation “too high” and excess demand persistent. Meanwhile, financial conditions were seen as somewhat restrictive after earlier hikes. Staff projected inflation would only gradually return to target by late 2027, with risks skewed upward. Arguments for a 25-bp hike cited upside risks: Middle East conflict driving oil prices, firms passing costs more fully, stronger AI/data-center investment, resilient demand, and weak productivity. The case for holding steady rested on signs policy was already restrictive, inflation slightly below forecast, and unemployment rising. Downside risks included faster labor easing, weaker demand, and housing drag. Ultimately, policymakers left rates unchanged but reaffirmed readiness to act if upside risks materialise."
-    },
-    {
-      "id": "mkt:01a0369f-8d38-7aab-9102-e20705dc71ef",
-      "time": "2026-08-25 09:53:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Why 11 US aircraft carriers are still not enough】Retired U.S. Navy Vice Admiral John Miller says the U.S. fleet of 11 aircraft carriers falls short of demand because only a handful are combat-ready at any time. Maintenance is a key bottleneck: at least one carrier is typically in a multi-year refuel and overhaul while routine maintenance and training take others offline. Miller applies a rough divide-by-three readiness rule—of nine available carriers, three are deployable, three have just returned and three are preparing to deploy. That readiness squeeze prompted the redeployment of the only Asia-based carrier, USS George Washington, to replace USS Abraham Lincoln and operate with USS George H.W. Bush in the Middle East; two carrier strike groups there increase local firepower but reduce U.S. presence elsewhere."
-    },
-    {
-      "id": "5056508",
-      "time": "2026-08-25 09:52:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威勝資訊中標尚比亞ZESCO分散式能源管理系統專案】據威勝資訊訊息，公司收到尚比亞國家電力公司ZESCO授標通知，中標分散式能源資源管理系統（DERMS）專案，專案總金額495萬美元。"
     }
   ]
 }
