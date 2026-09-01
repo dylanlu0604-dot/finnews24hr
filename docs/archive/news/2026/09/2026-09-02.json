@@ -1,7 +1,75 @@
 {
   "date": "2026-09-02",
-  "count": 619,
+  "count": 626,
   "items": [
+    {
+      "id": "5071774",
+      "time": "2026-09-02 06:27:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：日本再通脹已經取得成功，現在需要政策轉向。"
+    },
+    {
+      "id": "mkt:01a05f15-4398-7118-8447-77ba48f9b799",
+      "time": "2026-09-02 06:27:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said now is the time for Japan's Prime Minister Takaichi's economic policies."
+    },
+    {
+      "id": "5071773",
+      "time": "2026-09-02 06:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：日本如今已是全球最具活力的經濟體之一。"
+    },
+    {
+      "id": "mkt:01a05f15-07b5-7118-8447-6a387f13346f",
+      "time": "2026-09-02 06:26:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said one of Iran’s best allies is the media, which he said immediately publishes all the lies Iran tells. He added there are no sea mines in the strait and the two tankers did not strike sea mines."
+    },
+    {
+      "id": "mkt:01a05f14-25e5-7118-8447-666f48a83fef",
+      "time": "2026-09-02 06:25:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says multiple US bases in Kuwait hit by blasts】Early on Sept. 2 local time, Kuwait’s military said it had been attacked by Iran and that air-defence systems were intercepting hostile aerial targets. Iran state television, citing Kuwaiti local sources, reported “multiple US bases exploded.”"
+    },
+    {
+      "id": "5071772",
+      "time": "2026-09-02 06:25:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及伊朗：伊朗革命衛隊內部要麼發生內訌，要麼民眾起來反對他們，要麼他們就會坐到談判桌前，尋求一份自己能夠信守的協議。"
+    },
+    {
+      "id": "5071770",
+      "time": "2026-09-02 06:24:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財長貝森特：二十國集團所有成員應保持密切溝通，推動人工智慧進入生產力落地階段。"
+    },
     {
       "id": "5071769",
       "time": "2026-09-02 06:23:30",
