@@ -1,7 +1,118 @@
 {
-  "updated": "2026-09-01 15:18:58",
-  "count": 13141,
+  "updated": "2026-09-01 15:23:03",
+  "count": 13143,
   "items": [
+    {
+      "id": "5070303",
+      "time": "2026-09-01 15:22:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【平安證券：潮宏基上半年業績韌性強，維持“推薦”評級】平安證券研報指出，潮宏基上半年業績韌性強。2026H1公司營收43.7億元，同比+6.65%；歸母淨利潤4.22億元，同比+27.42%；公司擬每10股派發現金2元（含稅）。公司的時尚珠寶產品拉動營收增長。2026H1公司整體營收43.7億元，其中，時尚珠寶產品佔營收比重為53.16%，傳統黃金產品佔營收比重39.46%。分產品看，時尚珠寶產品營收23.3億元，同比+16.84%；傳統黃金產品營收17.3億元，同比-5.71%。公司的珠寶行業整體毛利率同比提升。2026H1公司珠寶行業毛利率為26.66%，同比+4.09pp。其中，時尚珠寶產品毛利率為27.33%，同比-0.10pp；傳統黃金產品毛利率為18.63%，同比+5.85pp。看好公司時尚珠寶產品和傳統黃金產品的雙曲線發展邏輯，維持“推薦”評級。"
+    },
+    {
+      "id": "te:economy:579902",
+      "time": "2026-09-01 15:21:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Austria Jobless Rate Rises to 7.2% — Austria’s unemployment rate rose to 7.2% in August 2026, up 0.2 percentage points from a year earlier. The total number of unemployed persons increased by 10,027 year-on-year to 311,448. Among them, female unemployment rose 6.3% to 151,513, while male and other genders’ unemployment increased 0.7% to 159,935. Dependent employment was estimated at 4,003,000, up 10,000 from August 2025. Including training participants, the number of unemployed and enrolled in training programs reached 375,730, rising 2.3% year-on-year. Female unemployment and training participants increased 5.8%, while the number of unemployed and training participants among men and other genders fell 0.8%. Long-term unemployment also remained elevated, with those unemployed for more than 12 months increasing 22.6% to 55,995."
+    },
+    {
+      "id": "5070302",
+      "time": "2026-09-01 15:20:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾泥石流已致1010人死亡、4599人失聯】尼泊爾警方9月1日在社交媒體發文說，該國泥石流受災地區已發現1010具遇難者遺體，另有4599人失聯。（新華社）"
+    },
+    {
+      "id": "mkt:01a05bd7-28ae-7118-842d-cc6fa4ba57be",
+      "time": "2026-09-01 15:20:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan Cabinet Secretary Kihara said rising interest costs could reduce fiscal flexibility."
+    },
+    {
+      "id": "mkt:01a05bd6-f136-7118-842d-c1a4cf354ac3",
+      "time": "2026-09-01 15:20:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran president: US greedy, untrustworthy; Iran will reciprocate if US restores Islamabad memorandum】Iran President Pezeshkian told the Bishkek summit that after roughly three months of talks mediated by Pakistan and Qatar, Washington and Tehran signed an Islamabad memorandum on June 28. He said the US broke its commitments less than two weeks after the US president signed, calling the conduct greedy and untrustworthy, and that Iran responded accordingly. Pezeshkian said Iran would take immediate reciprocal action if the US resumed its commitments and reiterated Tehran’s record of complying with international obligations."
+    },
+    {
+      "id": "5070301",
+      "time": "2026-09-01 15:19:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄強調美在日部署中導系統不可接受】俄羅斯外交部發言人扎哈羅娃今天（9月1日）在記者會上表示，美國在日本部署“堤豐”中程導彈系統——即使僅用於軍事演習目的——對俄羅斯而言也是不可接受的，對俄羅斯安全構成威脅。 扎哈羅娃強調，俄羅斯敦促日本回歸和平主義政策。（CCTV國際時訊）"
+    },
+    {
+      "id": "5070300",
+      "time": "2026-09-01 15:19:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國近月天然氣價格上漲5.15%，報173.3便士/撒姆。"
+    },
+    {
+      "id": "mkt:01a05bd6-5033-7118-842d-bd36bad5ce49",
+      "time": "2026-09-01 15:19:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose more than 1.00% intraday to $91.24/bbl."
+    },
+    {
+      "id": "mkt:01a05bd6-14e7-7118-842d-b7016384e329",
+      "time": "2026-09-01 15:19:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's Chief Cabinet Secretary KIHARA said the government will re-examine the fiscal scale and control the annual issuance of Japanese government bonds (JGBs)."
+    },
+    {
+      "id": "mkt:01a05bd5-e90d-7118-842d-ac3430559543",
+      "time": "2026-09-01 15:19:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "3690.HK",
+        "Impact bearish"
+      ],
+      "text": "【Bernstein keeps Meituan at market-perform, flags Q3 profit risk】Bernstein says Meituan’s Q2 results beat expectations: the group returned to profitability after food-delivery competition and new-business losses were smaller than expected. Bernstein remains cautious — Meituan did not match ByteDance-style dine-in subsidies in Q2 and ceded some share, then began chasing share again in Q3. Macroeconomic and competitive pressure constrain revenue growth, and increasing overlap between food delivery, e-commerce and instant retail could bring recurring cycles of competition. Bernstein maintains a market-perform rating and HK$85 target, unchanged since a downgrade in June last year."
+    },
+    {
+      "id": "mkt:01a05bd5-b3e1-7118-842d-a37de03777fa",
+      "time": "2026-09-01 15:18:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Meizu says phone prices to rise after Oct. 1 holiday】China's Meizu Technology said price increases reflect an industry-wide trend and that, following company discussions, it will raise phone prices after the Oct. 1 National Day holiday."
+    },
     {
       "id": "mkt:01a05bd5-286d-7118-842d-9b32c1a380af",
       "time": "2026-09-01 15:18:11",
@@ -119785,98 +119896,6 @@
         "其他"
       ],
       "text": "【福建海事局啟動防颱風二級應急響應 多條航線停運停航】隨著颱風“沙德爾”臨近，為了確保海上交通安全，福建海事局於25日14時啟動防颱風二級應急響應，以寧德、福州、平潭、莆田為核心防禦重點。福建海事局對客渡運航線、海上施工作業專案等陸續實施“關停撤轉”措施，截至25日12時，福建沿海共有22條客渡運航線停運，44艘客渡船停航，41個水上施工作業專案停工，116艘施工作業船舶撤離，福建全省沿海船舶拖帶、試航、科考、風電運維等活動已停止。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a037cd-126b-7aab-910a-919972a388cb",
-      "time": "2026-08-25 15:23:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【US seeks to impose >$100,000 fee on H-1B employers; China declines to comment】The Trump administration is seeking to impose fees exceeding $100,000 on employers hiring foreign workers under the H-1B programme; reports say about 12% of H-1B holders will be from China by 2025. At a routine press briefing on the 24th, Foreign Ministry spokesperson Lin Jian said, I will not comment on US visa policy."
-    },
-    {
-      "id": "5056944",
-      "time": "2026-08-25 15:21:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威國家石油公司國際運營主管談奈米比亞PEL 90勘探許可證：若我們在那裡發現資源，規模可能相當可觀。"
-    },
-    {
-      "id": "mkt:01a037cb-991a-7aab-910a-8c47c6b00e41",
-      "time": "2026-08-25 15:21:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars"
-      ],
-      "text": "【AI trading cools; leveraged Korean chip ETFs see nearly $1bn outflow this month】Amid cooling investor appetite for AI-driven trading and regulator steps to curb demand, leveraged ETFs linked to Korean chipmakers recorded nearly $1bn of outflows this month. Data compiled by foreign media show leveraged products tracking Samsung Electronics saw $381m of outflows to date, while those tied to SK Hynix lost $601m. This is the first monthly outflow since the products launched in late May. The ETFs aim to deliver twice the daily move of the chipmakers and were blamed for amplifying volatility during July’s global AI sell-off, when the Kospi fell about 22% month-on-month. Korean regulators have raised minimum margin requirements for new investors in these products and mandated a five-day simulated trading period."
-    },
-    {
-      "id": "mkt:01a037ca-a3cc-7aab-910a-82eaffd18bf8",
-      "time": "2026-08-25 15:20:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "A refinery in Russia's Rostov region has halted operations after being struck by Ukrainian drone attacks, the local governor said."
-    },
-    {
-      "id": "5056943",
-      "time": "2026-08-25 15:20:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美政府擬對H-1B簽證收取逾10萬美元費用，外交部：不作評論】8月25日，外交部發言人林劍主持例行記者會。法新社記者提問，當地時間24日，美國特朗普政府著手對透過高技能H-1B簽證專案僱傭外國工人的僱主徵收超過10萬美元的費用。據稱，截至2025年，約12%的H-1B簽證持有者來自中國。發言人對此有何評論？“對於美國的簽證政策，我不作評論。”林劍說。"
-    },
-    {
-      "id": "mkt:01a037ca-43f8-7aab-910a-79cbc9310373",
-      "time": "2026-08-25 15:19:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's Foreign Ministry says cooperation with Iran has always been conducted within the framework of international law."
-    },
-    {
-      "id": "5056942",
-      "time": "2026-08-25 15:19:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中國同伊朗的合作始終在國際法框架內進行】針對有報道說美方計劃對不參與制裁伊朗的國家採取反制措施，外交部發言人林劍25日在例行記者會上表示，中方已多次表明，堅決反對沒有國際法依據、未經聯合國安理會授權的非法單邊制裁。經濟戰、極限施壓無助於解決問題，只會進一步激化矛盾衝突，造成風險外溢，擾亂全球經濟金融秩序，損害他國正當權益。當務之急是推動局勢降溫，儘快迴歸對話談判軌道。林劍說，中國同伊朗的合作始終在國際法框架內進行，不應受到干擾破壞。中方正密切關注相關動向，將採取一切必要措施，堅定維護自身權益。（新華社）"
-    },
-    {
-      "id": "5056941",
-      "time": "2026-08-25 15:19:26",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【貝森特稱對不參與制裁伊朗的國家可能採取反制措施 中方回應】外交部發言人林劍8月25日主持例行記者會。法新社記者提問，當地時間24日，美國財政部長貝森特公佈多項針對伊朗的經濟制裁措施，並稱對於那些不參與這一行動的國家可能採取反制措施。中方對此有何評論？林劍表示，中方已多次表明，堅決反對沒有國際法依據、未經聯合國安理會授權的非法單邊制裁，經濟戰、極限施壓無助於解決問題，只會進一步激化矛盾衝突，造成風險外溢，擾亂全球的經濟金融秩序，損害他國正當權益。“當務之急是推動局勢降溫，儘快迴歸對話談判軌道。中方將採取一切必要措施，堅定維護自身權益。”林劍指出。美國消費者新聞與商業頻道（CNBC）進一步追問，發言人能否詳細說明中國將採取哪些措施來保護自身利益？美國的行動將產生何種影響？“我剛才已經指出，中方將採取一切必要措施，堅定維護自身的正當權益。”林劍說。 (北京日報)"
-    },
-    {
-      "id": "mkt:01a037c9-bf32-7aab-910a-726d93888cf2",
-      "time": "2026-08-25 15:19:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【China Jan–Jul outbound direct investment RMB 684.51 bln】China's total outbound direct investment across all sectors was RMB 684.51 bln (USD 99.53 bln) in Jan–Jul 2026, up 2.8% YoY in yuan terms and up 7.3% YoY in dollar terms, MOFCOM and SAFE said. Domestic investors made non-financial direct investments in 7,742 overseas firms across 148 countries totaling RMB 528.43 bln (USD 76.84 bln), down 12.9% YoY in yuan terms and down 9.1% YoY in dollar terms."
     }
   ]
 }
