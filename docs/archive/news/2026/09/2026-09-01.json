@@ -1,7 +1,288 @@
 {
   "date": "2026-09-01",
-  "count": 1396,
+  "count": 1426,
   "items": [
+    {
+      "id": "5070259",
+      "time": "2026-09-01 15:05:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "三部門釋出《汽車行業境外競爭行為與合規建設指引》。（新華社）"
+    },
+    {
+      "id": "mkt:01a05bc9-90e9-7118-842c-f1f86444529b",
+      "time": "2026-09-01 15:05:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Three Chinese government departments issued Guidelines on Overseas Competitive Conduct and Compliance for the automotive industry."
+    },
+    {
+      "id": "te:economy:579886",
+      "time": "2026-09-01 15:05:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Poland Manufacturing Downturn Deepens in August — Poland's S&P Global Manufacturing PMI fell to 48.3 in August 2026 from 49.0 in July, missing forecasts for a rise to 49.6 and signaling a steeper deterioration in factory activity. Output and new orders declined at faster rates, with new work falling for the 17th straight month amid weaker demand and increased competition from mainland China. New export orders also fell for a ninth consecutive month, albeit modestly. Employment declined after rising in July, while purchasing activity fell for the sixth time this year. Supplier delivery times lengthened at their fastest pace since June 2022 amid production delays and transport issues. Meanwhile, input cost inflation accelerated for the first time in four months, while output price inflation eased to a six-month low. Despite weaker activity, business confidence improved, with the Future Output Index recording its biggest monthly rise of 2026 so far, supported by expectations of new contracts and improved market conditions."
+    },
+    {
+      "id": "5070258",
+      "time": "2026-09-01 15:05:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：福特汽車公司正在美國市場召回部分車輛，原因是車輛存在突發失去動力的問題，會提升碰撞事故風險。"
+    },
+    {
+      "id": "5070257",
+      "time": "2026-09-01 15:05:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "福特汽車公司正在召回10,001輛美國市場車輛。"
+    },
+    {
+      "id": "te:markets:579885",
+      "time": "2026-09-01 15:05:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares End Higher — The benchmark KOSPI rose 0.23% to close at 6,836 on Tuesday, extending gains for a second straight session as technology shares recovered from early losses. Samsung Electronics rose 0.38%, while SK hynix advanced 1.14%, alongside gains in SK Square (2.89%), Samsung C&T (3.72%), Shinhan Financial Group (2.02%), and HD Hyundai Heavy Industries (0.78%). The rebound was supported by strong August export data, with total shipments surging 68.7% year-on-year to $98.25 billion and semiconductor exports jumping 209% to a record $46.65 billion on robust AI infrastructure demand. The data reinforced expectations for strong earnings among major chipmakers and helped lift technology shares in afternoon trading. Meanwhile, renewed US-Iran clashes, higher oil prices and hawkish remarks from Fed Chair Kevin Warsh continued to weigh on sentiment, raising concerns over inflation and further interest-rate increases."
+    },
+    {
+      "id": "5070256",
+      "time": "2026-09-01 15:05:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）訊息：三菱汽車北美公司正在召回部分美國在售車輛，故障原因為倒車影像無法正常顯示，會導致駕駛員無法看清車輛後方路況，提升撞車事故風險。"
+    },
+    {
+      "id": "5070255",
+      "time": "2026-09-01 15:05:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）訊息：福特汽車公司正在召回部分美國市場車輛，故障原因為轉向助力可能失效，會提升撞車事故風險；此外，前大燈或擋風玻璃清洗系統功能故障會降低可見度，同樣會增加撞車風險。"
+    },
+    {
+      "id": "5070254",
+      "time": "2026-09-01 15:05:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：三菱汽車北美公司正在召回67,146輛在美在售車輛。"
+    },
+    {
+      "id": "5070253",
+      "time": "2026-09-01 15:04:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "默克集團股價上漲2.6%，此前滙豐銀行將其評級從持有上調至買入。"
+    },
+    {
+      "id": "5070252",
+      "time": "2026-09-01 15:04:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美贊臣旗下公司勝訴後，利潔時股價上漲5.7%。"
+    },
+    {
+      "id": "5070251",
+      "time": "2026-09-01 15:04:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體的米蘭上市股票早盤上漲1.6%。"
+    },
+    {
+      "id": "5070250",
+      "time": "2026-09-01 15:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《中國外匯交易中心離岸人民幣外匯業務指引》釋出施行】根據最新政策和市場發展需要，中國外匯交易中心修訂形成了《中國外匯交易中心離岸人民幣外匯業務指引》，現予以釋出。本指引自發布之日起施行，《中國外匯交易中心自貿區人民幣外匯交易業務指引》（中匯交發〔2024〕378號）即行廢止。"
+    },
+    {
+      "id": "5070249",
+      "time": "2026-09-01 15:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達方面分析：伊朗利用拉臘克島管控霍爾木茲海峽】美國再次對伊朗動武，目標瞄準伊朗拉臘克島。卡達方面31日分析稱，在美伊之間緊張局勢加劇之際，拉臘克島顯現出其重要性，是因為該島位置關鍵，且部署了各類軍事資產，伊朗可利用該島對霍爾木茲海峽實施管控。有訊息稱，伊朗在拉臘克島上部署了多種軍事資產，包括火箭和導彈發射裝置、衛星通訊干擾系統、防空系統以及快艇等裝備設施。伊朗動用所有這些軍事資產，以確立對進出霍爾木茲海峽商船的管控。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05bc8-8cfb-7118-842c-eb3c5c2ad099",
+      "time": "2026-09-01 15:04:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Caocao and Octopus evaluate participation in Hong Kong ride‑hailing licence application】Hong Kong’s Transport Department has invited platform companies to apply for ride‑hailing operator licences, with the first batch expected to be issued from as early as end‑November. Caocao is working with Octopus on participating in the licence application and related arrangements. Licences run up to five years and carry an annual fee of HK$1.2m. Applicants must be Hong Kong‑registered companies with resident management and a local office and meet required operational scale and capital standards."
+    },
+    {
+      "id": "5070248",
+      "time": "2026-09-01 15:04:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【矽光晶圓需求猛增，基板廠商Soitec敲定長期供貨協議】受AI資料中心拉動，矽光晶圓需求大幅上漲，法國矽基基板大廠Soitec正與客戶簽訂多年供貨協議，透過固定價格+預付定金鎖定長期訂單。該公司高管稱，光子SOI（Photonics-SOI）產品今年營收保底可達2億美元。Soitec執行長洛朗 勒蒙（Laurent Remont）表示，公司正在和矽光客戶簽署產能預留協議。其中約80%（合計超10份協議）預計在未來1至2周內完成簽署，剩餘協議有望在一個月內落地。（科創板日報）"
+    },
+    {
+      "id": "mkt:01a05bc8-61f9-7118-842c-e7b8c04be2a9",
+      "time": "2026-09-01 15:04:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Norwegian Road Traffic Information Council: Tesla (TSLA.O) new vehicle registrations in Norway fell 79% YoY in August."
+    },
+    {
+      "id": "te:markets:579883",
+      "time": "2026-09-01 15:03:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Rolls-Royce Stock Price Hits 4-week Low — Rolls-Royce shares decreased to 1484.00 GBp, the lowest since July 2026. Over the past 4 weeks, Rolls-Royce gained 7.83%, and in the last 12 months, it increased 39.07%."
+    },
+    {
+      "id": "5070247",
+      "time": "2026-09-01 15:03:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱萊英旗下公司入選上海市生物醫藥研發和檢測用物品進口試點企業目錄】據上海市商務委9月1日訊息，上海市生物醫藥研發和檢測用物品進口試點企業（研發機構）目錄（第八批）正式公佈，上海凱萊英生物技術有限公司入選。"
+    },
+    {
+      "id": "5070245",
+      "time": "2026-09-01 15:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "8月份特斯拉在挪威的新車註冊量同比下降79%。"
+    },
+    {
+      "id": "mkt:01a05bc7-60d9-7118-842c-dc13a3a46b87",
+      "time": "2026-09-01 15:03:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index closed down 6.41 points (-0.16%) at 3,979.89; Shenzhen Composite fell 142.62 points (-1.02%) to 13,872.38; CSI 300 index fell 13.65 points (-0.30%) to 4,611.44; ChiNext index fell 45.25 points (-1.32%) to 3,393.43; Sci‑Tech Innovation 50 Index (STAR 50) fell 36.86 points (-2.19%) to 1,647.53."
+    },
+    {
+      "id": "5070244",
+      "time": "2026-09-01 15:03:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：創業板指震盪走弱跌1.32% 糧食概念、AI短劇方向持續走強】截至收盤，上證指數跌0.16%報3979.89點，深證成指跌1.02%報13872.38點，創業板指跌1.32%報3393.43點，北證50漲1.34%報1079.59點。三市成交額20519億元，較上日縮量934億元。全市場超3300只個股上漲。板塊題材上，糧食概念、乳業、短劇遊戲板塊漲幅居前；電子化學品、元件板塊跌幅居前。盤面上，糧食概念全線爆發，萬向德農6連板，新賽股份4連板，新華百貨、京糧控股、敦煌種業、隆平高科、供銷大集、國投豐樂、深糧控股、金健米業、農發種業、神農種業、登海種業漲停，康農種業、綠亨科技漲超20%，秋樂種業漲超15%。乳業板塊持續走高，一鳴食品、金健米業漲停，大北農、歡樂家、新農開發、騎士乳業、天山生物跟漲。短劇遊戲板塊再度走高，芒果超媒、掌閱科技、中廣天擇、大晟文化、博納影業、歡瑞世紀2連板，遙望科技、粵傳媒漲停，數碼視訊、華智數媒、萬興科技、傳智教育、流金科技跟漲。電子化學品板塊震盪走弱，方邦股份跌超10%，中船特氣、菲沃泰、國瓷材料、華特氣體、萊特光電跟跌。元件板塊持續下挫，南亞新材跌超8%，景旺電子、風華高科、順絡電子、中英科技跟跌。"
+    },
+    {
+      "id": "5070243",
+      "time": "2026-09-01 15:02:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魅族回應手機漲價】魅族科技表示：漲價是全行業都在面臨的情況,我們已經堅持到最後一刻了。經公司討論，我們再堅持一個月，十一後漲價。"
+    },
+    {
+      "id": "mkt:01a05bc6-a365-7118-842c-d343f8f6e830",
+      "time": "2026-09-01 15:02:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Shanghai and Shenzhen markets combined turnover CNY2.03 trillion on Sept 1; Zhongji Xuchuang tops single-stock turnover】China's Shanghai and Shenzhen markets posted combined turnover of CNY2.03 trillion on Sept 1, down CNY97.63 billion from the prior session. Shanghai turnover was CNY944.31 billion (prev CNY1,014.29 billion) with volume of 574 million lots (prev 577 million); Shenzhen turnover was CNY1,089.10 billion (prev CNY1,116.74 billion) with volume of 685 million lots (prev 659 million). Zhongji Xuchuang led single-stock turnover at CNY24.67 billion, followed by Xinyisheng CNY15.06 billion, Changxin Technology CNY13.18 billion, China Jushi CNY12.83 billion and Dongshan Precision CNY11.91 billion."
+    },
+    {
+      "id": "te:markets:579881",
+      "time": "2026-09-01 15:02:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Unilever Stock Price Hits 4-week High — Unilever shares increased to 4818.00 GBp, the highest since July 2026. Over the past 4 weeks, Unilever lost 3.56%, and in the last 12 months, it increased 3.36%."
+    },
+    {
+      "id": "te:markets:579880",
+      "time": "2026-09-01 15:01:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Struggle as Bond Yields, Oil Prices Weigh — The Nikkei 225 Index fell 0.15% to close at 66,215, while the broader Topix Index rose 0.62% to 4,182 in mixed trade on Tuesday, with Japanese shares struggling for momentum as rising global bond yields and higher oil prices heightened concerns over inflation and interest rate hikes. Japan’s 10-year government bond yield climbed to around 3%, its highest level since 1996, amid growing expectations that the Bank of Japan will raise rates this month to curb yen weakness and import-driven inflation. Meanwhile, oil prices advanced for a second straight session as renewed conflict in the Middle East fueled uncertainty. Notable losses came from index heavyweights Fujikura (-3.7%), Advantest (-0.9%) and Tokyo Electron (-2.6%), while Kioxia Holdings (2%), Taiyo Yuden (1.1%) and SoftBank Group (1.2%) posted gains."
+    },
+    {
+      "id": "mkt:01a05bc6-5026-7118-842c-ce78a4c75de5",
+      "time": "2026-09-01 15:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "{\"title\":\"\",\"content\":\"European equities opened mixed on Sept 1: Germany's DAX fell 111.53 points (-0.42%) to 26,169.96; UK FTSE 100 down 41.71 points (-0.39%) to 10,782.55; France's CAC 40 up 15.52 points (+0.19%) to 8,350.02; Stoxx Europe 50 down 1.66 points (-0.03%) to 6,418.50; Spain's IBEX 35 up 7.07 points (+0.04%) to 19,995.47; Italy's FTSE MIB up 39.31 points (+0.07%) to 52,652.00.\""
+    },
+    {
+      "id": "mkt:01a05bc6-2f75-7118-842c-c7a865a98b7f",
+      "time": "2026-09-01 15:01:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BYD Semiconductor launches next‑gen automotive 4D mmWave radar chip】BYD Semiconductor launched a next‑generation automotive‑grade 4D millimeter‑wave radar chip using a satellite architecture centered on the Xuanji A3 compute module. The in‑house chip provides a MIPI CSI‑2 high‑speed interface and broad compatibility with mainstream SerDes links for seamless integration with major automated‑driving chip platforms. It has completed joint tuning with the Xuanji A3 driving chip and meets Tier‑1 module makers’ detection‑performance requirements. Fabricated on a mature 28nm automotive process, the chip targets demand for high‑resolution radar systems in the automotive market."
+    },
+    {
+      "id": "5070242",
+      "time": "2026-09-01 15:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "宜家在平價策略上押下重注，數百款產品降價。"
+    },
     {
       "id": "5070241",
       "time": "2026-09-01 15:01:15",
@@ -26,6 +307,14 @@
         "焦點"
       ],
       "text": "A股收盤，上證指數跌0.16%，深證成指跌1.02%，創業板指跌1.32%。"
+    },
+    {
+      "id": "5070238",
+      "time": "2026-09-01 15:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林省遼源市人大常委會原黨組副書記王軍被雙開】經查，王軍身為黨員領導幹部，喪失理想信念，背棄初心使命，對抗組織審查；違反中央八項規定精神，接受可能影響公正執行公務的宴請；在幹部選拔任用等工作中為他人謀取利益；廉潔底線失守，違規收受禮品、禮金、消費卡，違規從事營利活動，搞錢色交易；向企業攤派費用；不正確履行工作職責；目無法紀，將黨和人民賦予的公權力異化為謀取私利的工具，利用職務便利為他人在工程承攬、款項撥付等方面謀利，並非法收受鉅額財物。"
     },
     {
       "id": "mkt:01a05bc5-41d7-7118-842c-baade5497cb1",
