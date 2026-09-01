@@ -1,7 +1,35 @@
 {
   "date": "2026-09-02",
-  "count": 532,
+  "count": 535,
   "items": [
+    {
+      "id": "mkt:01a05ee9-84ce-7118-8446-6f9f96805ce3",
+      "time": "2026-09-02 05:39:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian military said on Press TV that radar systems at US and Bahraini air bases were targeted in a concentrated wave of drone strikes."
+    },
+    {
+      "id": "5071715",
+      "time": "2026-09-02 05:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車支付230萬美元，了結美國平等就業機會委員會提出的種族騷擾相關指控。"
+    },
+    {
+      "id": "5071714",
+      "time": "2026-09-02 05:37:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及烏克蘭局勢：我毫不懷疑敵人終將崩潰。問題只在於時間。這類問題向來十分棘手，最好不要給出，甚至不要試圖給出具體時間表，因為戰爭殘酷，事態難以預判。"
+    },
     {
       "id": "mkt:01a05ee6-32a3-7118-8446-63bc2d5d1daf",
       "time": "2026-09-02 05:35:39",

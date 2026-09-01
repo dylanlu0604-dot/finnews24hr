@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-02 05:36:19",
-  "count": 12578,
+  "updated": "2026-09-02 05:40:27",
+  "count": 12579,
   "items": [
+    {
+      "id": "mkt:01a05ee9-84ce-7118-8446-6f9f96805ce3",
+      "time": "2026-09-02 05:39:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian military said on Press TV that radar systems at US and Bahraini air bases were targeted in a concentrated wave of drone strikes."
+    },
+    {
+      "id": "5071715",
+      "time": "2026-09-02 05:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車支付230萬美元，了結美國平等就業機會委員會提出的種族騷擾相關指控。"
+    },
+    {
+      "id": "5071714",
+      "time": "2026-09-02 05:37:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京談及烏克蘭局勢：我毫不懷疑敵人終將崩潰。問題只在於時間。這類問題向來十分棘手，最好不要給出，甚至不要試圖給出具體時間表，因為戰爭殘酷，事態難以預判。"
+    },
     {
       "id": "mkt:01a05ee6-32a3-7118-8446-63bc2d5d1daf",
       "time": "2026-09-02 05:35:39",
@@ -115230,23 +115258,6 @@
         "Brent"
       ],
       "text": "【Axios: US unlikely to use military force against Iran for now】Axios reports Secretary of State Rubio has told allied officials the US does not currently expect to launch new military strikes against Iran. The Trump administration’s current approach is to temporarily avoid military action and instead tighten economic pressure via a US naval blockade and a new round of Treasury sanctions while pushing to keep as much oil as possible flowing through the Strait of Hormuz. US officials say clearing most sea mines in the Strait and rising tanker traffic via southern routes have materially reduced Iran’s leverage over global energy markets; a US official said, \"Iran has lost control of the Strait, and now the US controls it.\" Officials add the blockade is cutting off key Iranian revenue, with few tankers seen near Iran’s main export hub Kharg Island in the past two weeks. Rubio said there is no plan to resume large-scale military operations now but the US retains strike options if Iran strikes first; another US official said the policy is expected to remain at least until the midterm elections, after which military options could be revisited."
-    },
-    {
-      "id": "5058531",
-      "time": "2026-08-26 05:38:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【巴西股市大漲，選舉民調助推看漲期權交易】近期民調顯示總統路易斯·伊納西奧·盧拉·達席爾瓦（Luiz Inacio Lula da Silva）對弗拉維奧·博爾索納羅（Flavio Bolsonaro）的領先優勢收窄，巴西Ibovespa指數看漲期權需求旺盛，推動該國基準股指上漲1.55%。彙編的資料顯示，週二行權價為200,000點的11月Ibovespa看漲期權未平倉合約激增至450萬份。而前一交易日的未平倉合約為110萬份。"
-    },
-    {
-      "id": "5058530",
-      "time": "2026-08-26 05:36:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【報道：魯比奧稱美國對伊朗策略從打擊轉向制裁】據Axios援引一名美國官員以及另一位知情訊息人士透露，近幾日，美國國務卿魯比奧對多名外國外交同僚表示，“現階段” 美國不打算對伊朗發起新一輪打擊。他表示，美國的重心將轉向其他施壓手段，其中就包括本週公佈的制裁方案。 這名美國官員稱，魯比奧明確表示美國不計劃重啟大規模軍事行動，但並未排除伊朗率先發動襲擊時實施打擊的可能性。另一名美國官員表示，美國海軍清除霍爾木茲海峽水雷是這場戰爭的分水嶺事件，此舉在很大程度上瓦解了伊朗手中一項主要談判籌碼。 訊息人士稱，魯比奧在與多位同僚通電話時，概述了特朗普政府當前的伊朗政策：1、現階段避免對伊朗採取軍事行動；2、透過美國海上封鎖以及新一輪次級制裁舉措，加大對伊朗的經濟施壓；3、儘可能將更多石油經由海峽輸送至全球能源市場。第二位美國官員表示，這套政策預計至少會維持至中期選舉結束；選舉過後，不排除會重新考慮開啟新一輪軍事行動。"
     }
   ]
 }
