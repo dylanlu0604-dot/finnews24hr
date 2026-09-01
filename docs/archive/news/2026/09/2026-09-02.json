@@ -1,7 +1,98 @@
 {
   "date": "2026-09-02",
-  "count": 610,
+  "count": 619,
   "items": [
+    {
+      "id": "5071769",
+      "time": "2026-09-02 06:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷外長：將以更具體的外交行動維護馬島主權】阿根廷外交部長巴勃羅·基爾諾8月31日晚表示，將以更具體的外交行動和更有效的手段維護阿根廷對馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）的主權。據悉，阿政府內閣會議1日將討論涉及馬島的問題。 (央視新聞)"
+    },
+    {
+      "id": "5071768",
+      "time": "2026-09-02 06:23:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財長貝森特：已與二十國集團成員討論美國為提升人工智慧彈性所採取的措施。"
+    },
+    {
+      "id": "mkt:01a05f11-10db-7118-8447-5e37eca55523",
+      "time": "2026-09-02 06:22:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said interest rates will fall after we get through this phase."
+    },
+    {
+      "id": "mkt:01a05f10-dda4-7118-8447-560e078ffbec",
+      "time": "2026-09-02 06:22:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said capital spending will translate into higher productivity and significantly reduce inf pressure."
+    },
+    {
+      "id": "5071767",
+      "time": "2026-09-02 06:21:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：AI領域的投入長期會起到抑制通脹的效果。"
+    },
+    {
+      "id": "5071766",
+      "time": "2026-09-02 06:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：資本支出將轉化為生產率，會起到極強的抗通脹作用。"
+    },
+    {
+      "id": "mkt:01a05f0f-d258-7118-8447-48d602ffbeb4",
+      "time": "2026-09-02 06:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Iranian President Pezeshkian, Parliament Speaker Ghalibaf and the central bank governor have acknowledged Iran faces economic problems, and that Iran’s economic collapse is only a matter of time."
+    },
+    {
+      "id": "5071765",
+      "time": "2026-09-02 06:20:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：利率會在我們渡過當前這輪通脹週期後下調。"
+    },
+    {
+      "id": "mkt:01a05f0e-da55-7118-8447-418e92150b08",
+      "time": "2026-09-02 06:20:03",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Treasury Secretary Bessent said Iran cannot obtain dollars and is in a death struggle."
+    },
     {
       "id": "5071764",
       "time": "2026-09-02 06:19:18",
