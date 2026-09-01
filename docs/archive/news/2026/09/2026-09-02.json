@@ -1,7 +1,78 @@
 {
   "date": "2026-09-02",
-  "count": 651,
+  "count": 658,
   "items": [
+    {
+      "id": "5071791",
+      "time": "2026-09-02 06:47:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美駐卡達使館釋出安全警報 稱存在局勢升級可能】美國駐卡達使館當地時間9月1日晚釋出安全警報稱，由於中東地區局勢緊張，當前安全環境仍然複雜，存在不可預見的局勢升級可能。使館提醒目前身處中東地區的美國公民保持高度警惕，並注意可能出現的航班取消、空域關閉以及旅行中斷等情況。警報建議計劃往返中東地區的美國公民密切關注機場和航空公司的執行資訊。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a05f26-b35c-7118-8447-cbb56909335c",
+      "time": "2026-09-02 06:46:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand July building consents YoY 10.1% vs prior 32.1%."
+    },
+    {
+      "id": "mkt:01a05f26-99c3-7118-8447-c0c236675f72",
+      "time": "2026-09-02 06:46:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (YoY) (Jul) | actual 10.1% | previous 32.1%"
+    },
+    {
+      "id": "mkt:01a05f25-cb97-7118-8447-b81c6b0ff7d4",
+      "time": "2026-09-02 06:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand July building consents MoM -4.3%; prior revised from -3.6% to -3.7%."
+    },
+    {
+      "id": "te:markets:580186",
+      "time": "2026-09-02 06:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 2.71% — Top crypto losers are XRP (-2.71%), Ether (-2.45%) and Bitcoin (-1.85%)."
+    },
+    {
+      "id": "mkt:01a05f25-b0ff-7118-8447-b6fa522a665e",
+      "time": "2026-09-02 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (MoM) (Jul) | actual -4.3% | previous -3.60%"
+    },
+    {
+      "id": "mkt:01a05f25-3c16-7118-8447-ae1babba8c27",
+      "time": "2026-09-02 06:44:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "MPC.O",
+        "Impact bullish"
+      ],
+      "text": "【White House: refiners seek to expand capacity; Venezuelan low-cost crude to enter market in November】White House deputy press secretary Taylor Rogers said after a closed-door meeting with oil executives including Chevron and Marathon that refiners want to expand capacity and President Trump pressed for lower pump prices. Exxon did not attend; the meeting focused on refining rather than drilling. Rogers said Venezuelan crude is already being shipped to Texas and Louisiana and that low-cost barrels should start entering the market in November, with millions of barrels expected by early next year if schedules hold."
+    },
     {
       "id": "5071790",
       "time": "2026-09-02 06:43:14",

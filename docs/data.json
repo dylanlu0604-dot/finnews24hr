@@ -1,7 +1,78 @@
 {
-  "updated": "2026-09-02 06:44:30",
-  "count": 12649,
+  "updated": "2026-09-02 06:48:29",
+  "count": 12652,
   "items": [
+    {
+      "id": "5071791",
+      "time": "2026-09-02 06:47:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美駐卡達使館釋出安全警報 稱存在局勢升級可能】美國駐卡達使館當地時間9月1日晚釋出安全警報稱，由於中東地區局勢緊張，當前安全環境仍然複雜，存在不可預見的局勢升級可能。使館提醒目前身處中東地區的美國公民保持高度警惕，並注意可能出現的航班取消、空域關閉以及旅行中斷等情況。警報建議計劃往返中東地區的美國公民密切關注機場和航空公司的執行資訊。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a05f26-b35c-7118-8447-cbb56909335c",
+      "time": "2026-09-02 06:46:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand July building consents YoY 10.1% vs prior 32.1%."
+    },
+    {
+      "id": "mkt:01a05f26-99c3-7118-8447-c0c236675f72",
+      "time": "2026-09-02 06:46:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (YoY) (Jul) | actual 10.1% | previous 32.1%"
+    },
+    {
+      "id": "mkt:01a05f25-cb97-7118-8447-b81c6b0ff7d4",
+      "time": "2026-09-02 06:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand July building consents MoM -4.3%; prior revised from -3.6% to -3.7%."
+    },
+    {
+      "id": "te:markets:580186",
+      "time": "2026-09-02 06:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 2.71% — Top crypto losers are XRP (-2.71%), Ether (-2.45%) and Bitcoin (-1.85%)."
+    },
+    {
+      "id": "mkt:01a05f25-b0ff-7118-8447-b6fa522a665e",
+      "time": "2026-09-02 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Building Permits (MoM) (Jul) | actual -4.3% | previous -3.60%"
+    },
+    {
+      "id": "mkt:01a05f25-3c16-7118-8447-ae1babba8c27",
+      "time": "2026-09-02 06:44:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "MPC.O",
+        "Impact bullish"
+      ],
+      "text": "【White House: refiners seek to expand capacity; Venezuelan low-cost crude to enter market in November】White House deputy press secretary Taylor Rogers said after a closed-door meeting with oil executives including Chevron and Marathon that refiners want to expand capacity and President Trump pressed for lower pump prices. Exxon did not attend; the meeting focused on refining rather than drilling. Rogers said Venezuelan crude is already being shipped to Texas and Louisiana and that low-cost barrels should start entering the market in November, with millions of barrels expected by early next year if schedules hold."
+    },
     {
       "id": "5071790",
       "time": "2026-09-02 06:43:14",
@@ -115838,53 +115909,6 @@
         "國際"
       ],
       "text": "市場訊息：據政府官員等透露，韓國總統李在明將會見三星電子Jay Y. Lee和現代汽車Euisun Chung。"
-    },
-    {
-      "id": "mkt:01a03b1c-23ae-7aab-911b-b3410ae93dff",
-      "time": "2026-08-26 06:48:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Fed's Barkin: rising US debt will eventually face 'liquidation'】Fed's Barkin said rising U.S. public debt will ultimately face \"liquidation\", though the timing is unpredictable. Asked about debt exceeding $40 trillion, he said the government can keep borrowing while investors keep buying Treasuries, but warned investors could begin to balk. He cited the dollar's global role and U.S. rule of law as current supports for demand, but said the risk is that purchasers eventually stop. Barkin reiterated that, given evidence of falling inflation, rates should be held steady, while acknowledging policymakers may need to raise rates if price pressures become entrenched."
-    },
-    {
-      "id": "mkt:01a03b1b-7bdb-7aab-911b-ae7f7266bf12",
-      "time": "2026-08-26 06:47:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver climbed above $69/oz, up 0.49% intraday."
-    },
-    {
-      "id": "5058559",
-      "time": "2026-08-26 06:47:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【生豬價格“磨底”回升 8月以來漲超7.5%】8月份以來，生豬價格持續回暖，且連續多日保持在11元/公斤以上。中國養豬網資料顯示，8月25日，生豬（外三元）價格報11.13元/公斤，記者注意到，這一價格，較本月初已上漲超7.54%。“下游需求相對回暖，一定程度上帶動了豬肉價格上漲。”卓創資訊生豬市場分析師閆法成表示，與7月份相比，8月份高溫天氣有所緩解，家庭鮮肉消費明顯回升，白條走貨顯著好轉。同時，升學宴、開工宴、婚宴等集體活動增多，帶動團膳渠道對生豬的需求上升。卓創資訊資料顯示，截至8月17日，全國生豬日屠宰量為173196頭，環比上月的159967頭增加8.27%。（證券日報）"
-    },
-    {
-      "id": "te:markets:578046",
-      "time": "2026-08-26 06:45:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 2.34% — Top crypto losers are XRP (-2.34%), Ether (-1.27%) and Bitcoin (-0.18%)."
     }
   ]
 }
