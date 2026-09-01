@@ -1,7 +1,96 @@
 {
   "date": "2026-09-01",
-  "count": 2063,
+  "count": 2073,
   "items": [
+    {
+      "id": "5071054",
+      "time": "2026-09-01 20:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利 7 月經濟活動指數同比下降 1.5%；市場預期為‑0.7%。"
+    },
+    {
+      "id": "5071053",
+      "time": "2026-09-01 20:29:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【艾爾建美學新品含利多卡因注射用交聯透明質酸鈉凝膠獲批】9月1日 ，艾爾建美學宣佈，新品漾顏®（含利多卡因注射用交聯透明質酸鈉凝膠）正式獲得中國國家藥監局批准，用於改善成人中重度靜態口周皺紋。"
+    },
+    {
+      "id": "5071052",
+      "time": "2026-09-01 20:29:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息 ：德國警方在勃蘭登堡變電站發現爆炸物。"
+    },
+    {
+      "id": "mkt:01a05cf1-c42f-7118-8437-37106542ae96",
+      "time": "2026-09-01 20:29:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Foreign investment in UK energy falls to 12-year low】Foreign investment in the UK energy sector fell to a 12-year low, with foreign-backed projects halving to 27 last year, Ernst & Young data showed. Oil and gas projects fell to three from 16 a year earlier. The Labour government has paused new North Sea drilling and retained a windfall tax on oil and gas producers; the sector is braced for Chancellor John Healey’s first budget, where tax rates may rise further, and uncertainty remains over approval of new drilling licences. An Ernst & Young survey of foreign investors cited high UK energy costs as the biggest deterrent, along with concerns about political stability and high labour costs; respondents identified an uncertain economic outlook—covering growth, interest rates and public debt—as the principal risk to UK attractiveness over the next three years."
+    },
+    {
+      "id": "5071051",
+      "time": "2026-09-01 20:28:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯5年期/10年期伊斯蘭債券：認購規模超120億美元。"
+    },
+    {
+      "id": "mkt:01a05cf1-156c-7118-8437-2b58a3221619",
+      "time": "2026-09-01 20:28:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch says if shipping disruptions in the Strait of Hormuz persist for most of 2027, credit rating risk for Gulf Cooperation Council members could rise."
+    },
+    {
+      "id": "5071050",
+      "time": "2026-09-01 20:27:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融系統多措並舉保障西藏吉隆泥石流災害搶險救援】吉隆泥石流災害發生以來，西藏轄區內各家金融機構快速響應，全力做好日喀則市吉隆縣泥石流災害應急金融服務，保障災區金融服務不斷檔。國家金融監督管理總局西藏監管局的資料顯示，截至8月31日17時，西藏轄區內保險機構已為災害相關險種累計賠付327.24萬元，銀行機構已累計為受災區域相關企業、個人發放普惠信貸8筆，共計1557.7萬元。（新華社）"
+    },
+    {
+      "id": "mkt:01a05cf0-7ee8-7118-8437-27d0a7d047f2",
+      "time": "2026-09-01 20:27:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran foreign ministry: US military action will exacerbate Strait of Hormuz security crisis】Baghaei, spokesman for Iran’s foreign ministry, said US military action will further exacerbate the security crisis in the Strait of Hormuz and that Iran has responded decisively to previous such aggressions. He warned ongoing maritime blockades, economic warfare and attacks on Iranian infrastructure will heighten regional volatility, especially around the Strait of Hormuz. He accused some regional states of abetting attacks on Larak Island and said Iran has struck related targets."
+    },
+    {
+      "id": "5071049",
+      "time": "2026-09-01 20:27:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：若霍爾木茲海峽航運若在2027年大部分時間通行受阻，海灣阿拉伯國家合作委員會發債主體評級風險或將上升。"
+    },
+    {
+      "id": "5071048",
+      "time": "2026-09-01 20:27:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：希望歐洲國家認清一個事實，即他們面臨的燃料與資金困境源於美國的非法行徑。"
+    },
     {
       "id": "5071047",
       "time": "2026-09-01 20:25:57",
