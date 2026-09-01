@@ -1,7 +1,197 @@
 {
-  "updated": "2026-09-01 10:12:45",
-  "count": 13157,
+  "updated": "2026-09-01 10:16:47",
+  "count": 13162,
   "items": [
+    {
+      "id": "mkt:01a05ac0-976b-7118-8426-ff1f10813ac5",
+      "time": "2026-09-01 10:16:06",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said exchange-rate moves should reflect fundamentals but often do not."
+    },
+    {
+      "id": "5069829",
+      "time": "2026-09-01 10:16:01",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中泰證券：息差企穩支撐業績穩健 重點推薦優勢大行與優質區域城農商行】中泰證券釋出研報稱，1H26銀行業營收同比+7.2%，淨利潤同比+3%，均基本與Q1維持一致，邊際業績企穩主要是息差企穩驅動。資產質量整體穩健，對公最佳化，零售仍在暴露週期，確認從嚴，處置加速。分紅再度提升，紅利屬性凸顯。銀行中長期ROE較確定性，分紅穩定、股息可觀，賺ROE與股息的錢確定性高，短期與科技蹺蹺板效應，中長定價迴歸ROE與股息。個股方面，重點推薦資金成本優勢的大行與優質區域城農商行。"
+    },
+    {
+      "id": "mkt:01a05ac0-772c-7118-8426-f0a89691c182",
+      "time": "2026-09-01 10:15:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share seed and planting stocks surged: Kangnong Seed up >24%, Shennong Seed hit the 20% limit-up, Qiule Seed rose ~19%, and multiple names including Xinsai, Longping High-Tech, Nongfa Seed and Wanxiang Denong recorded limit-up moves. Bloomberg Agriculture Spot Index, tracking 10 major farm products, gained over 13% in August through last Friday and is poised for its biggest monthly rise since July 2012."
+    },
+    {
+      "id": "5069828",
+      "time": "2026-09-01 10:15:46",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【智神星一號遙一運載火箭發射成功】今天，智神星一號遙一運載火箭在東風商業航天創新試驗區發射升空。運載火箭全程飛行正常，達到試驗目的，任務取得圓滿成功。此次任務是智神星一號運載火箭的首次飛行。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05ac0-3ad4-7118-8426-eb010a560d20",
+      "time": "2026-09-01 10:15:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "The governor of Ust-Luga, Russia, said a drone attack damaged the port area."
+    },
+    {
+      "id": "5069827",
+      "time": "2026-09-01 10:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：維持能源金屬“震盪上行” 多點開花演繹獨立邏輯 】國泰海通釋出研報稱，本輪行情與歷史週期存在顯著差異，行業的定價核心正從傳統的地產基建需求拉動，全面轉向“新能源+AI”的結構性需求重塑與供給端剛性約束的共振。五大金屬板塊各自擁有獨立的產業邏輯，呈現“多點開花”的結構性特徵，在宏觀波動和產業景氣的雙重因素影響下，該行認為板塊整體仍將維持震盪上行趨勢。"
+    },
+    {
+      "id": "5069826",
+      "time": "2026-09-01 10:15:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長稱，烏斯季盧加港口地區發生火災。"
+    },
+    {
+      "id": "5069825",
+      "time": "2026-09-01 10:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：匯率波動應反映基本面，但很多時候並非如此。"
+    },
+    {
+      "id": "mkt:01a05abf-f988-7118-8426-e532b99c153c",
+      "time": "2026-09-01 10:15:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's Xinghe Power Aerospace completes maiden flight of Zhishenxing-1】At 10:00 on Sept. 1, 2026, China's Xinghe Power Aerospace launched its domestically developed medium-to-large reusable liquid-fueled rocket Zhishenxing-1 from the Jiuquan Dongfeng commercial space innovation test area; the vehicle reached its planned orbit. Zhishenxing-1 has a LEO single-launch payload capacity of 5–7t for constellation deployments and is designed for a minimum of 25 reuses."
+    },
+    {
+      "id": "mkt:01a05abf-f5ce-7118-8426-dfa5d85e30ac",
+      "time": "2026-09-01 10:15:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama declined to comment on current JGB yield levels."
+    },
+    {
+      "id": "5069824",
+      "time": "2026-09-01 10:15:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長稱無人機襲擊損壞了烏斯季盧加港區。"
+    },
+    {
+      "id": "mkt:01a05abf-b986-7118-8426-d7120e922d2d",
+      "time": "2026-09-01 10:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said Tokyo's readiness to take decisive action against disorderly FX moves has not changed."
+    },
+    {
+      "id": "5069823",
+      "time": "2026-09-01 10:15:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不反映基本面的投機性匯價波動確實有所增加。"
+    },
+    {
+      "id": "5069822",
+      "time": "2026-09-01 10:14:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：7年間農村網際網路普及率升至69.5%】近日，國家網際網路資訊辦公室、農業農村部發布《中國數字鄉村發展報告（2019—2025年）》。報告顯示，7年來，我國數字鄉村發展基礎更加堅實，鄉村數字經濟新業態加快發展。2019年以來，我國持續推進農村及偏遠地區通訊基礎設施建設，從2018年底到2025年底，農村地區網際網路普及率由38.4%提升至69.5%，城鄉網際網路普及率差距由36.2%縮小至15.6%。"
+    },
+    {
+      "id": "te:markets:579766",
+      "time": "2026-09-01 10:14:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Open September Lower — The Shanghai Composite edged down 0.1% to around 3,983, while the Shenzhen Component fell 0.9% to 13,889 on the first trading day of September, as escalating tensions in the Middle East overshadowed improving signals from China's manufacturing sector. The US and Iran exchanged strikes for the first time in nearly a month, with American forces targeting an island in the Strait of Hormuz and Iran retaliating with attacks on the UAE and Jordan. The latest hostilities clouded the outlook for restoring normal shipping operations through the strategic waterway. On the domestic front, a private survey showed China's manufacturing PMI rose to 51.5 in August from a four-month low of 50.9 in July, exceeding forecasts of 51.0. This followed official data showing that the manufacturing PMI rose to 49.8 from 49.2, also topping market expectations of 49.7. Among the notable decliners were Foxconn Industrial Internet (-2.1%), SMIC (-1.5%), CATL (-0.8%), and Eoptolink Technology (-1.9%)."
+    },
+    {
+      "id": "5069821",
+      "time": "2026-09-01 10:14:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問宣佈升級學習功能】9月1日，阿里千問宣佈，千問學習功能升級，新增與教材同步的單元作文輔導、初中語文數學教材精講，並進一步擴充套件高中、大學數理化拍題講解能力，相關功能均免費開放。"
+    },
+    {
+      "id": "5069820",
+      "time": "2026-09-01 10:13:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務官片山當被問及東京準備對無序匯率波動採取果斷行動的立場是否有變時，表示沒有變化。"
+    },
+    {
+      "id": "5069819",
+      "time": "2026-09-01 10:13:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普要求蘋果改安大略湖為美國湖】美國內政部長伯格姆31日接受採訪時表示，美國總統特朗普已經直接聯絡科技公司蘋果，要求蘋果地圖將“安大略湖”更名為“美國湖”，以配合特朗普此前簽署的相關行政命令。伯格姆表示，他相信蘋果地圖上的相關名稱可能很快就會發生變化。"
+    },
+    {
+      "id": "te:economy:579765",
+      "time": "2026-09-01 10:12:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Hits Highest Since January 2025 — The yield on the US 10-year Treasury note climbed to around 4.78% on Tuesday, reaching its highest level since January 2025 as rising oil prices and hawkish signals from the Federal Reserve strengthened expectations for a rate hike this month. Investors also braced for a busy economic calendar, with the latest US manufacturing and services activity data due later today, ahead of the highly anticipated August jobs report on Friday. Warsh said on Friday that the Fed will “have work to do” if policymakers lack the confidence they need that inflation is moving toward 2%. Markets are now pricing in a more than 65% chance of a September hike, up from around 36% before his remarks. Meanwhile, oil prices advanced for a second straight day after US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan. Higher energy costs are fueling inflation concerns and strengthening expectations for tighter Fed policy."
+    },
+    {
+      "id": "5069818",
+      "time": "2026-09-01 10:12:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
     {
       "id": "mkt:01a05abc-f7fd-7118-8426-ca1eb98b0335",
       "time": "2026-09-01 10:12:08",
@@ -120023,136 +120213,6 @@
         "Precious Metals"
       ],
       "text": "A-share precious metals sector extended losses; Western Gold fell over 8%, with Zhaojin Gold, Xingye Silver & Tin, Xiaocheng Technology and Hunan Silver also down."
-    },
-    {
-      "id": "5056552",
-      "time": "2026-08-25 10:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥板塊持續上揚 漢森製藥5連板】創新藥板塊持續上揚，漢森製藥5連板，透景生命、譽衡藥業、華森製藥、海南海藥、西點藥業漲停，美迪西、萬邦醫藥、鍵凱科技、益諾思、盟科藥業跟漲。"
-    },
-    {
-      "id": "mkt:01a036b3-86fe-7aab-9103-6d13174fe500",
-      "time": "2026-08-25 10:15:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sinochem International EMA plant starts production】On August 24, Sinochem International's EMA (ethylene-maleic anhydride copolymer) unit completed full-line commissioning and rolled out its first batch of qualified product. The facility is China's first industrial EMA plant with wholly independent intellectual property, breaking long-standing overseas control of core production technology and filling a domestic supply gap."
-    },
-    {
-      "id": "mkt:01a036b3-310c-7aab-9103-642844521abe",
-      "time": "2026-08-25 10:15:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Qianwen app integrates Alibaba Cloud Token Plan】Qianwen app said on Aug. 25 it launched Alibaba Cloud Token Plan access on mobile and PC, enabling users to bind an API key and use Token Plan quota to process complex tasks."
-    },
-    {
-      "id": "5056551",
-      "time": "2026-08-25 10:15:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千問APP接入阿里雲Token Plan】據千問APP訊息，8月25日，千問APP與PC端上線阿里雲Token Plan接入功能，支援繫結API Key後使用Token Plan額度處理複雜任務。"
-    },
-    {
-      "id": "5056550",
-      "time": "2026-08-25 10:14:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩名聯合國維和人員在南蘇丹遇襲身亡 古特雷斯強烈譴責】當地時間8月24日，聯合國秘書長古特雷斯透過發言人辦公室發表宣告，強烈譴責一起造成兩名聯合國南蘇丹特派團維和人員遇難的襲擊，並向遇難者家屬及其各自政府表示深切哀悼。宣告中說，身份不明的武裝人員在南蘇丹瓊萊州伏擊了聯合國南蘇丹特派團的一支巡邏隊，造成兩名衣索比亞籍維和人員死亡，另有7人受傷，其中包括3名衣索比亞籍維和人員、2名南蘇丹國家警察局人員以及2名聯合國南蘇丹特派團文職工作人員。古特雷斯重申，針對聯合國維和人員的襲擊可能構成戰爭罪。所有針對維和人員的襲擊都必須得到迅速調查，並對責任人進行有效起訴，追究其責任。（央視新聞）"
-    },
-    {
-      "id": "5056549",
-      "time": "2026-08-25 10:14:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【好想你：山姆渠道的增長可以從四方面推進】好想你(002582)在業績交流會上表示，山姆渠道的增長可以從四方面推進：第一，基礎增長層面，山姆目前仍處於拓店增長階段，公司作為合作伙伴可享受其發展帶來的紅利；第二，門店運營層面，公司正測試將產品從南北乾貨貨架區搬遷至更好的位置以提升銷量，同時也在積極和山姆溝通開展產品更多元化的試吃活動，提升產品轉化率；第三，線上營銷層面，後續將加大小紅書渠道的營銷投入，提升品牌知名度和美譽度；第四，合作拓展層面，近年來食藥同源大健康賽道關注度較高，與公司主打高品質、高價值產品的經營理念匹配，公司作為紅棗品類頭部企業，具備較強的研發能力、品牌勢能及供應鏈整合能力，後續將和山姆開展更多產品共創，合作空間廣闊。"
-    },
-    {
-      "id": "5056548",
-      "time": "2026-08-25 10:14:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瓶片連續主力合約日內漲4%，現報7642.00元。"
-    },
-    {
-      "id": "5056547",
-      "time": "2026-08-25 10:14:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴金屬板塊持續下挫 西部黃金跌超8%】貴金屬板塊持續下挫，西部黃金跌超8%，招金黃金、興業銀錫、曉程科技、湖南白銀跟跌。"
-    },
-    {
-      "id": "5056546",
-      "time": "2026-08-25 10:14:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報68.64美元/盎司。"
-    },
-    {
-      "id": "5056545",
-      "time": "2026-08-25 10:14:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【免稅概念震盪反彈，中百集團漲停】免稅概念震盪反彈，中百集團漲停，凱撒旅業此前漲停，東百集團、海南發展、珠免集團、廣百股份、嶺南控股、南寧百貨等跟漲。"
-    },
-    {
-      "id": "mkt:01a036b1-bbf1-7aab-9103-5b691e51d71d",
-      "time": "2026-08-25 10:13:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hebei launches level-4 flood emergency response】Hebei meteorological observatory issued an orange heavy-rain warning at 09:11 on Aug 25, forecasting heavy to very heavy rain from the afternoon of Aug 25 to the morning of Aug 26 across southern Zhangjiakou, southern Tangshan, Baoding, Xiong'an New Area, Langfang, Shijiazhuang, Cangzhou, Hengshui and nearby areas; local totals may exceed 200 mm, with convective storms producing up to 70 mm/hr or 100 mm/6 hr. After assessment, the Hebei Provincial Flood Control and Drought Relief Headquarters activated a level-4 flood emergency response at 10:00 on Aug 25 for Shijiazhuang, Zhangjiakou, Tangshan, Langfang, Baoding, Cangzhou, Hengshui, Xiong'an New Area, Dingzhou and Xinji."
-    },
-    {
-      "id": "5056544",
-      "time": "2026-08-25 10:13:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京啟動防汛三級應急響應】從北京市防汛辦瞭解到，8月25日9時北京釋出暴雨黃色預警，並啟動防汛三級應急響應。 8月25日上午，市氣象臺釋出暴雨黃色預警，預計25日午後至夜間本市有中雨，局地暴雨。市防汛辦提示公眾遵守防汛要求，提前採取避險措施，避開積水路段，遠離河道、低窪地帶和地質災害易發區，不進山遊玩。遇險情撥打119或110。 市防汛辦發出提示，請各單位依據預案落實響應措施，各級包保責任人員到崗到位，水利工程及道路積水“三個責任人”到位履職，在建工程暫停施工，地質災害類景區關閉，山洪溝道、地質災害等危險區域封閉，及時轉移受山洪地質災害威脅群眾。做好跨界河流溝道水情資訊共享。"
-    },
-    {
-      "id": "mkt:01a036b1-514c-7aab-9103-5717846c0566",
-      "time": "2026-08-25 10:13:05",
-      "tags": [
-        "MKT News",
-        "02181.HK",
-        "Impact bullish",
-        "02268.HK",
-        "02126.HK"
-      ],
-      "text": "Hong Kong biotech shares extended gains. 02181.HK rose 16.28%; 02268.HK gained over 11%; 02126.HK and 02269.HK climbed more than 4%."
-    },
-    {
-      "id": "5056543",
-      "time": "2026-08-25 10:12:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥板塊震盪走高 冀衡醫藥等多股漲停】醫藥板塊震盪走高，冀衡醫藥、衛光生物、華森製藥、漢森製藥、海南海藥漲停，亨迪藥業、譽衡藥業、新光藥業、凱萊英等漲幅居前。"
-    },
-    {
-      "id": "mkt:01a036b1-07bc-7aab-9103-4d853fd20291",
-      "time": "2026-08-25 10:12:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Vietnam's National Assembly approves agreement on first nuclear power project】Vietnam's National Assembly on Monday approved an agreement tied to the country's first nuclear power project, the most significant step in its nuclear revival since two reactors were cancelled in 2016 over cost concerns. The decision accompanies a revised eighth power development plan that raises national installed capacity to 183.3–236.4 GW by 2030 from 82.4 GW at end‑2024; nuclear is scheduled to contribute 4–6.4 GW between 2030 and 2035. Vietnam also targets at least 10% annual economic growth from 2026 and is pushing investment in manufacturing, AI, semiconductors and data centres, sectors that will materially raise electricity demand."
     }
   ]
 }

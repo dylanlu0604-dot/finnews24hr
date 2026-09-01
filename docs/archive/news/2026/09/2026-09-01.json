@@ -1,7 +1,197 @@
 {
   "date": "2026-09-01",
-  "count": 844,
+  "count": 864,
   "items": [
+    {
+      "id": "mkt:01a05ac0-976b-7118-8426-ff1f10813ac5",
+      "time": "2026-09-01 10:16:06",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's finance minister Katayama said exchange-rate moves should reflect fundamentals but often do not."
+    },
+    {
+      "id": "5069829",
+      "time": "2026-09-01 10:16:01",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中泰證券：息差企穩支撐業績穩健 重點推薦優勢大行與優質區域城農商行】中泰證券釋出研報稱，1H26銀行業營收同比+7.2%，淨利潤同比+3%，均基本與Q1維持一致，邊際業績企穩主要是息差企穩驅動。資產質量整體穩健，對公最佳化，零售仍在暴露週期，確認從嚴，處置加速。分紅再度提升，紅利屬性凸顯。銀行中長期ROE較確定性，分紅穩定、股息可觀，賺ROE與股息的錢確定性高，短期與科技蹺蹺板效應，中長定價迴歸ROE與股息。個股方面，重點推薦資金成本優勢的大行與優質區域城農商行。"
+    },
+    {
+      "id": "mkt:01a05ac0-772c-7118-8426-f0a89691c182",
+      "time": "2026-09-01 10:15:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share seed and planting stocks surged: Kangnong Seed up >24%, Shennong Seed hit the 20% limit-up, Qiule Seed rose ~19%, and multiple names including Xinsai, Longping High-Tech, Nongfa Seed and Wanxiang Denong recorded limit-up moves. Bloomberg Agriculture Spot Index, tracking 10 major farm products, gained over 13% in August through last Friday and is poised for its biggest monthly rise since July 2012."
+    },
+    {
+      "id": "5069828",
+      "time": "2026-09-01 10:15:46",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【智神星一號遙一運載火箭發射成功】今天，智神星一號遙一運載火箭在東風商業航天創新試驗區發射升空。運載火箭全程飛行正常，達到試驗目的，任務取得圓滿成功。此次任務是智神星一號運載火箭的首次飛行。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a05ac0-3ad4-7118-8426-eb010a560d20",
+      "time": "2026-09-01 10:15:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "The governor of Ust-Luga, Russia, said a drone attack damaged the port area."
+    },
+    {
+      "id": "5069827",
+      "time": "2026-09-01 10:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：維持能源金屬“震盪上行” 多點開花演繹獨立邏輯 】國泰海通釋出研報稱，本輪行情與歷史週期存在顯著差異，行業的定價核心正從傳統的地產基建需求拉動，全面轉向“新能源+AI”的結構性需求重塑與供給端剛性約束的共振。五大金屬板塊各自擁有獨立的產業邏輯，呈現“多點開花”的結構性特徵，在宏觀波動和產業景氣的雙重因素影響下，該行認為板塊整體仍將維持震盪上行趨勢。"
+    },
+    {
+      "id": "5069826",
+      "time": "2026-09-01 10:15:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長稱，烏斯季盧加港口地區發生火災。"
+    },
+    {
+      "id": "mkt:01a05abf-f988-7118-8426-e532b99c153c",
+      "time": "2026-09-01 10:15:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's Xinghe Power Aerospace completes maiden flight of Zhishenxing-1】At 10:00 on Sept. 1, 2026, China's Xinghe Power Aerospace launched its domestically developed medium-to-large reusable liquid-fueled rocket Zhishenxing-1 from the Jiuquan Dongfeng commercial space innovation test area; the vehicle reached its planned orbit. Zhishenxing-1 has a LEO single-launch payload capacity of 5–7t for constellation deployments and is designed for a minimum of 25 reuses."
+    },
+    {
+      "id": "5069825",
+      "time": "2026-09-01 10:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：匯率波動應反映基本面，但很多時候並非如此。"
+    },
+    {
+      "id": "mkt:01a05abf-f5ce-7118-8426-dfa5d85e30ac",
+      "time": "2026-09-01 10:15:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY"
+      ],
+      "text": "Japan's finance minister Katayama declined to comment on current JGB yield levels."
+    },
+    {
+      "id": "5069824",
+      "time": "2026-09-01 10:15:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長稱無人機襲擊損壞了烏斯季盧加港區。"
+    },
+    {
+      "id": "mkt:01a05abf-b986-7118-8426-d7120e922d2d",
+      "time": "2026-09-01 10:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said Tokyo's readiness to take decisive action against disorderly FX moves has not changed."
+    },
+    {
+      "id": "5069823",
+      "time": "2026-09-01 10:15:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不反映基本面的投機性匯價波動確實有所增加。"
+    },
+    {
+      "id": "5069822",
+      "time": "2026-09-01 10:14:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：7年間農村網際網路普及率升至69.5%】近日，國家網際網路資訊辦公室、農業農村部發布《中國數字鄉村發展報告（2019—2025年）》。報告顯示，7年來，我國數字鄉村發展基礎更加堅實，鄉村數字經濟新業態加快發展。2019年以來，我國持續推進農村及偏遠地區通訊基礎設施建設，從2018年底到2025年底，農村地區網際網路普及率由38.4%提升至69.5%，城鄉網際網路普及率差距由36.2%縮小至15.6%。"
+    },
+    {
+      "id": "te:markets:579766",
+      "time": "2026-09-01 10:14:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Open September Lower — The Shanghai Composite edged down 0.1% to around 3,983, while the Shenzhen Component fell 0.9% to 13,889 on the first trading day of September, as escalating tensions in the Middle East overshadowed improving signals from China's manufacturing sector. The US and Iran exchanged strikes for the first time in nearly a month, with American forces targeting an island in the Strait of Hormuz and Iran retaliating with attacks on the UAE and Jordan. The latest hostilities clouded the outlook for restoring normal shipping operations through the strategic waterway. On the domestic front, a private survey showed China's manufacturing PMI rose to 51.5 in August from a four-month low of 50.9 in July, exceeding forecasts of 51.0. This followed official data showing that the manufacturing PMI rose to 49.8 from 49.2, also topping market expectations of 49.7. Among the notable decliners were Foxconn Industrial Internet (-2.1%), SMIC (-1.5%), CATL (-0.8%), and Eoptolink Technology (-1.9%)."
+    },
+    {
+      "id": "5069821",
+      "time": "2026-09-01 10:14:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問宣佈升級學習功能】9月1日，阿里千問宣佈，千問學習功能升級，新增與教材同步的單元作文輔導、初中語文數學教材精講，並進一步擴充套件高中、大學數理化拍題講解能力，相關功能均免費開放。"
+    },
+    {
+      "id": "5069820",
+      "time": "2026-09-01 10:13:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務官片山當被問及東京準備對無序匯率波動採取果斷行動的立場是否有變時，表示沒有變化。"
+    },
+    {
+      "id": "5069819",
+      "time": "2026-09-01 10:13:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普要求蘋果改安大略湖為美國湖】美國內政部長伯格姆31日接受採訪時表示，美國總統特朗普已經直接聯絡科技公司蘋果，要求蘋果地圖將“安大略湖”更名為“美國湖”，以配合特朗普此前簽署的相關行政命令。伯格姆表示，他相信蘋果地圖上的相關名稱可能很快就會發生變化。"
+    },
+    {
+      "id": "te:economy:579765",
+      "time": "2026-09-01 10:12:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Hits Highest Since January 2025 — The yield on the US 10-year Treasury note climbed to around 4.78% on Tuesday, reaching its highest level since January 2025 as rising oil prices and hawkish signals from the Federal Reserve strengthened expectations for a rate hike this month. Investors also braced for a busy economic calendar, with the latest US manufacturing and services activity data due later today, ahead of the highly anticipated August jobs report on Friday. Warsh said on Friday that the Fed will “have work to do” if policymakers lack the confidence they need that inflation is moving toward 2%. Markets are now pricing in a more than 65% chance of a September hike, up from around 36% before his remarks. Meanwhile, oil prices advanced for a second straight day after US forces struck an island in the Strait of Hormuz, while Iran responded with attacks on the UAE and Jordan. Higher energy costs are fueling inflation concerns and strengthening expectations for tighter Fed policy."
+    },
+    {
+      "id": "5069818",
+      "time": "2026-09-01 10:12:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
     {
       "id": "mkt:01a05abc-f7fd-7118-8426-ca1eb98b0335",
       "time": "2026-09-01 10:12:08",
