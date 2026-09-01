@@ -1,7 +1,124 @@
 {
   "date": "2026-09-01",
-  "count": 1353,
+  "count": 1366,
   "items": [
+    {
+      "id": "mkt:01a05bbe-a60e-7118-842c-92727c140a9e",
+      "time": "2026-09-01 14:53:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia says Ukrainian drone attack damaged Ust-Luga Baltic port, caused fire】Leningrad governor Aleksandr Drozdenko said early on Sept 1 a Ukrainian drone attack damaged Ust-Luga port on the Baltic Sea and caused a fire; emergency services are on site. He later said the region's airspace danger warning was lifted and that 52 Ukrainian drones were shot down during the wave of attacks. Ust-Luga is reported to be the Baltic region's largest port and Russia's second-largest; it handled about 32.9 mln tonnes of refined oil exports in 2025, nearly one-third of Russia's refined oil exports."
+    },
+    {
+      "id": "5070219",
+      "time": "2026-09-01 14:53:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "起亞汽車：8月銷量266,675輛，同比增長5%。"
+    },
+    {
+      "id": "5070218",
+      "time": "2026-09-01 14:53:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加尼科爾斯基西南偏南77公里處發生5.1級地震。"
+    },
+    {
+      "id": "5070217",
+      "time": "2026-09-01 14:53:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%至6,589.75點。"
+    },
+    {
+      "id": "te:economy:579866",
+      "time": "2026-09-01 14:51:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Commodity Prices YoY",
+        "Importance 1"
+      ],
+      "text": "Australian Commodity Prices Rise at Softer Pace — The Reserve Bank of Australia's Index of Commodity Prices rose 15.5% year-on-year in August 2026, easing from an upwardly revised 17.2% gain in the previous month. The advance was driven by higher prices across most commodities, except iron ore and alumina. In Australian dollar terms, the index climbed 5.8% year-on-year in August. On a monthly basis, commodity prices increased 1.2% in August in SDR terms, reversing a 0.5% decline in the preceding month. The non-rural and base metals subindices posted gains, while the rural subindex decreased."
+    },
+    {
+      "id": "5070216",
+      "time": "2026-09-01 14:51:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【離職員工稱宇樹薪資偏低】日前，多位接近宇樹人士告訴財經雜誌，宇樹的工資在行業內並不算高。一位宇樹離職員工表示，和過去工業機器人公司相比，宇樹的薪資會高出一些，但和2023年之後興起的具身智慧創業公司相比，宇樹的薪資水平偏低。兩名員工提到，宇樹一般員工漲薪的幅度相比行業普遍水平是更低的，工作強度並不低。有員工稱，早期在996大小周的工作制度外還要額外每天加班。有老員工表示，去年和今年是宇樹核心骨幹流失率最高的兩年。（財經雜誌）"
+    },
+    {
+      "id": "te:economy:579865",
+      "time": "2026-09-01 14:51:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Q2 GDP Growth Confirmed at 1.7% — Hungary’s economy expanded by 1.7% year-on-year in the second quarter of 2026, in line with preliminary estimates and the same pace as in the previous quarter. The latest reading also remained the strongest economic growth since the second quarter of 2024, mainly driven by strong performances in the industry (3.7% vs 0.8% in Q1) and services sector (1.9% vs 2.3%), with professional, scientific, technical and administrative activities contributing the most. In contrast, output declined for construction (-0.3% vs -4.3%), as well as for agriculture (-12.4% vs 1.9%) due to severe drought. On the expenditure side, household consumption, the largest component of actual consumption, continued to increase (4.5% vs 5.5%), while gross fixed capital formation (-6.3% vs -0.1%) declined faster. On a seasonally adjusted quarterly basis, the economy grew by 0.5% in Q2, exceeding initial estimates for a 0.4% expansion but slowing from 0.8% growth in the preceding period."
+    },
+    {
+      "id": "mkt:01a05bbc-17c6-7118-842c-89020a06cd01",
+      "time": "2026-09-01 14:50:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "German 10-year government bond yield rose to 3.339%, the highest since 2011, according to LSEG data."
+    },
+    {
+      "id": "5070215",
+      "time": "2026-09-01 14:50:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中環新能源算電協同戰略進入兌現期 AI基礎設施佈局持續落地】中環新能源（01735）8月31日披露的中期業績顯示，公司向AI算力能源基礎設施的轉型已產生實質收入，戰略佈局進入兌現階段。公司業務重心已由傳統光伏製造延伸至AI算力能源基礎設施服務，產業佈局圍繞光伏發電、儲能系統與智慧算力中心的一體化建設展開，規劃依託自有清潔電力及儲能基礎設施，建設綠電直供的AI算力中心，並向AI Token生產環節延伸，AI軟硬體兩端同步發力。當前，AI算力的爆發式增長正帶來前所未有的能源需求，“算電協同”已成為培育新質生產力、夯實數字經濟底座的關鍵賽道。中環新能源的第二增長曲線AI算力業務收入10.47億元，佔比接近兩成。"
+    },
+    {
+      "id": "5070214",
+      "time": "2026-09-01 14:50:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭總理：芬蘭將在2027年預算中削減近10億歐元開支。"
+    },
+    {
+      "id": "5070213",
+      "time": "2026-09-01 14:50:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率升至3.339%，為2011年以來最高。"
+    },
+    {
+      "id": "5070212",
+      "time": "2026-09-01 14:49:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪新一代4D毫米波雷達晶片量產】比亞迪半導體今日宣佈，以璇璣A3為算力中心的新一代衛星架構4D毫米波雷達晶片已量產。該晶片基於28nm車規工藝，專為滿足汽車市場對高解析度雷達系統需求設計，可無縫對接多款主流智駕晶片平臺。同時，該晶片已完成與“璇璣A3”智駕晶片的聯調適配，滿足Tier1模組廠家對探測效能的要求。基於該晶片的解決方案，可全面覆蓋L2-L4級智慧駕駛應用，包括高速領航、城市道路駕駛、自動泊車、盲區監測等。"
+    },
+    {
+      "id": "5070211",
+      "time": "2026-09-01 14:49:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：歐盟計劃在2028年後繼續援烏意在拖延衝突】俄羅斯外交部歐洲問題司司長弗拉季斯拉夫•馬斯連尼科夫表示，歐盟委員會提議將約1000億歐元對烏援助納入2028-2034年歐盟預算草案，是企圖蓄意拖延衝突。馬斯連尼科夫表示：“早在2025年7月，歐盟委員會就提議將（援烏儲備金）納入歐盟2028-2034年多年期財政計劃（預算）草案。我們認為此舉是蓄意延長烏克蘭衝突的又一嘗試。”"
+    },
     {
       "id": "5070210",
       "time": "2026-09-01 14:49:22",
