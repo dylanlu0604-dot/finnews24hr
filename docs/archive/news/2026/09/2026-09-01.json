@@ -1,7 +1,234 @@
 {
   "date": "2026-09-01",
-  "count": 649,
+  "count": 672,
   "items": [
+    {
+      "id": "mkt:01a05a98-2da7-7118-8424-d2e28cd18ae5",
+      "time": "2026-09-01 09:31:57",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July seasonally adjusted building approvals YoY +9.0% (prev +8.9%)."
+    },
+    {
+      "id": "5069715",
+      "time": "2026-09-01 09:31:57",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【證券板塊盤初走弱，錦龍股份跌停】證券板塊盤初走弱，錦龍股份跌停，首創證券、東吳證券、第一創業、長江證券、財通證券、財達證券等跟跌。"
+    },
+    {
+      "id": "mkt:01a05a98-1249-7118-8424-ce4eb01d64c2",
+      "time": "2026-09-01 09:31:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Building Approvals SA (YoY) (Jul) | actual 9% | previous 8.9%"
+    },
+    {
+      "id": "5069714",
+      "time": "2026-09-01 09:31:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "五年期日本國債<JP5YTN=JBTC>收益率上漲4.5個基點，至2.25%。"
+    },
+    {
+      "id": "5069713",
+      "time": "2026-09-01 09:31:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巢匠科技完成數億元天使輪系列融資】據高鵠資本訊息，近日，巢匠科技（Nestworks）宣佈完成數億元天使輪系列融資，紅杉中國、藍馳創投、鐘鼎資本、祥峰投資、元璟資本等機構共同投資。本輪資金將主要用於新一代桌面級智慧CNC研發、AI軟體能力迭代、創作者生態建設與全球市場拓展。"
+    },
+    {
+      "id": "5069712",
+      "time": "2026-09-01 09:31:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.03%。華懋轉債、先鋒轉債、振26轉債、貴燃轉債、岱美轉債漲幅居前，分別漲3.52%、2.30%、2.14%、1.62%、1.51%。銀輪轉債、萬凱轉債、睿創轉債、聯瑞轉債、盛虹轉債跌幅居前，分別跌1.20%、1.19%、0.95%、0.83%、0.79%。"
+    },
+    {
+      "id": "5069711",
+      "time": "2026-09-01 09:31:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【種植業與林業板塊直線拉昇】種植業與林業板塊直線拉昇，福建金森、新賽股份漲停，永安林業、雪榕生物、新農開發、宏輝果蔬、潤農節水等紛紛走高。"
+    },
+    {
+      "id": "5069710",
+      "time": "2026-09-01 09:31:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "鴻蒙智行：8月交付42,101臺，年內累計交付同比增長10.8%。截至目前，鴻蒙智行全繫累計交付已突破152萬臺，持續重新整理中國新勢力品牌達成速度紀錄。車型交付再迎突破： · 智界V9累計交付突破20,000臺，重新整理50萬級新能源MPV最快交付紀錄； · 問界M6上市4個月累計交付突破45,000臺。 旗艦新品蓄勢登場： · 享界G9上市24小時大定突破5,000臺； · 尊界V800、V680上市24小時大定突破3,500臺。"
+    },
+    {
+      "id": "mkt:01a05a97-91d9-7118-8424-c7633a9b2527",
+      "time": "2026-09-01 09:31:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China index futures open morning session】CSI 300 index futures (IF) main contract down 0.05% at the morning open; SSE 50 index futures (IH) main contract down 0.08%; CSI 500 index futures (IC) main contract up 0.04%; CSI 1000 index futures (IM) main contract down 0.07%."
+    },
+    {
+      "id": "mkt:01a05a97-8552-7118-8424-bf17b0f224cd",
+      "time": "2026-09-01 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open in morning session】China 2-year government bond futures (TS) most-active contract unchanged; 5-year (TF) +0.02%; 10-year (T) +0.04%; 30-year (TL) +0.19%."
+    },
+    {
+      "id": "mkt:01a05a97-1fe9-7118-8424-b1745d88328d",
+      "time": "2026-09-01 09:30:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share glass and fiberglass sector active: China Jushi rose nearly 4%; Shandong Fiberglass and Changhai gained over 3%; International Composite Materials, Sinoma Technology, Honghe Technology and Kaisheng New Energy also advanced. Reports say China Jushi has formally raised September prices for electronic-grade fabric — thick fabric +15%, thin fabric +20%."
+    },
+    {
+      "id": "5069709",
+      "time": "2026-09-01 09:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【商務部：中國連續17年保持東盟第一大貿易伙伴地位】國新辦舉行介紹中國—東盟經貿合作情況暨第23屆中國—東盟博覽會、中國—東盟商務與投資峰會有關情況的新聞釋出會。商務部副部長鄢東介紹，近年來中國同東盟各領域合作取得豐碩成果。一是貿易規模再攀新高。2025年，中國與東盟雙邊貿易額首次突破萬億美元大關，達到1.05萬億美元，同比增長7.4%。中國連續17年保持東盟第一大貿易伙伴的地位，東盟連續6年成為中國第一大貿易伙伴。今年1-7月，中國與東盟貿易總額達到7444.1億美元，同比增長24.7%，佔同期中國外貿總額比重上升至21.8%。二是投資合作水平持續提升。截至今年7月，中國同東盟累計雙向投資額和中國企業在東盟累計完成工程承包營業額均超過5150億美元。一批重大合作專案紮實推進，馬來西亞東海岸鐵路專案進度超過94%，印尼雅萬高鐵累計傳送旅客數量超過1500萬人次，中老500千伏聯網工程正式落地。中國同東盟新興領域合作實效顯著，雙方互為投資最活躍合作伙伴的地位進一步鞏固。三是產供鏈合作日益深化。中國與東盟堅定支援多邊主義和自由貿易，共同應對全球經貿挑戰。中馬、中印尼“兩國雙園”專案和中老跨境經濟合作區建設穩步推進。中國同東盟不斷深化產業鏈、價值鏈融合，共同維護區域產供鏈穩定暢通，為本地區乃至全球經濟增長注入了強勁動能。四是區域經濟一體化程序提速。中國—東盟自貿區3.0版升級議定書已正式簽署，雙方自貿合作和區域經濟一體化程序將拓展至數字、綠色、標準、產供鏈等新興領域。《區域全面經濟夥伴關係協定》高質量實施，協定紅利持續釋放。共建“一帶一路”成果豐碩，瀾湄合作、中國—東盟東部增長區等次區域合作持續深化。中國和東盟國家貿易投資自由化、便利化水平進一步提升。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a05a96-d351-7118-8424-aaa37a8e0b58",
+      "time": "2026-09-01 09:30:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia Q2 current-account deficit A$27.2 bln, vs A$30.0 bln expected; prior A$27.1 bln."
+    },
+    {
+      "id": "mkt:01a05a96-b968-7118-8424-a44b1a4a9040",
+      "time": "2026-09-01 09:30:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Current Account (Q2) | actual -27200000000B | consensus -30000000000B | previous -27100000000B"
+    },
+    {
+      "id": "mkt:01a05a96-7f3a-7118-8424-9bd9fee36336",
+      "time": "2026-09-01 09:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Australia July seasonally adjusted building approvals MoM -3.6% (consensus -3.9%), prior +7.2%."
+    },
+    {
+      "id": "mkt:01a05a96-7f39-7118-8424-91191ae9782f",
+      "time": "2026-09-01 09:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Australia July seasonally adjusted private‑sector building approvals -4.2% MoM; prior +0.4%."
+    },
+    {
+      "id": "5069708",
+      "time": "2026-09-01 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續基本持平， 滬深300指數期貨連續漲0.02%， 中證500指數期貨連續漲0.06%， 上證50指數期貨連續漲0.02%。"
+    },
+    {
+      "id": "5069707",
+      "time": "2026-09-01 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.20%， 10年期主力合約漲0.04%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:01a05a96-6514-7118-8424-8f59ccbbee48",
+      "time": "2026-09-01 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Building Approvals SA (MoM) (Jul) | actual -3.6% | consensus -3.9% | previous 7.20%"
+    },
+    {
+      "id": "mkt:01a05a96-650b-7118-8424-80e73b47fdec",
+      "time": "2026-09-01 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Private Sector Building Approvals SA (MoM) (Jul) | actual -4.2% | previous 0.4%"
+    },
+    {
+      "id": "mkt:01a05a96-09e9-7118-8424-7863c79a4e1f",
+      "time": "2026-09-01 09:29:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Number of days 30-year US Treasury closed above 5% this year highest since 2006】The 30-year US Treasury has registered more closes above 5% this year than in any year since 2006, marking the longest stretch of elevated ultra-long yields since 2006. Against a backdrop of large fiscal deficits, a fresh wave of corporate issuance and an upcoming potentially decisive Fed meeting, investors are expected to remain cautious in the coming weeks. The yield peaked in mid-August at 5.34%, the highest since 2007 and roughly 10 bps below the 22-year high. As of Monday the 30-year had closed above 5% on 55 days year-to-date; on Tuesday it was 5.27%."
+    },
+    {
+      "id": "5069706",
+      "time": "2026-09-01 09:28:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI影片板塊持續活躍 競業達3連板】AI影片板塊持續活躍，歡瑞世紀、中廣天擇2連板，競業達3連板，掌閱科技、龍版傳媒等個股大幅高開。"
+    },
+    {
+      "id": "mkt:01a05a94-b151-7118-8424-756b1dbb70c5",
+      "time": "2026-09-01 09:28:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "300251.SZ",
+        "Impact bullish"
+      ],
+      "text": "A-share AI corpus concept stocks extended gains. Mango Excellent Media and Zhongguang Tianze hit the daily limit; iReader Technology rose over 9% and Shanghai Film climbed more than 5%. Other names including Zhongwen Online, TRS Information Technology and Tianyu Digital Technology also advanced."
+    },
     {
       "id": "mkt:01a05a93-e7c5-7118-8424-6fac4c68a7a7",
       "time": "2026-09-01 09:27:17",
