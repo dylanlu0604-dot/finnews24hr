@@ -1,7 +1,63 @@
 {
   "date": "2026-09-02",
-  "count": 303,
+  "count": 309,
   "items": [
+    {
+      "id": "5071587",
+      "time": "2026-09-02 03:17:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國世界衛生組織警告，加沙即將到來的雨季將對當地醫療體系構成威脅。"
+    },
+    {
+      "id": "mkt:01a05e66-b15b-7118-8443-5b2f5e876901",
+      "time": "2026-09-02 03:16:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Al Jazeera cited local Iranian officials saying a US strike on Jiroft airport caused no casualties and only minor damage."
+    },
+    {
+      "id": "5071586",
+      "time": "2026-09-02 03:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面稱擊落一架美國MQ-9無人機】據伊朗方面當地時間9月1日晚訊息，一架美國MQ-9無人機被伊朗新型防禦系統在霍梅恩上空擊落。霍梅恩位於伊朗中央省，距離伊朗重要城市阿拉克約70公里。（央視新聞）"
+    },
+    {
+      "id": "5071585",
+      "time": "2026-09-02 03:14:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "當地官員：美軍襲擊吉羅夫特機場，無人員傷亡，損毀程度輕微。"
+    },
+    {
+      "id": "mkt:01a05e64-e97e-7118-8443-523ae2b4d494",
+      "time": "2026-09-02 03:14:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps said a US strike would only strengthen security in the Strait of Hormuz, that Iran has begun retaliatory actions, and that in the first phase it used a new air-defence system to shoot down the US military's 50th advanced MQ-9 drone."
+    },
+    {
+      "id": "5071584",
+      "time": "2026-09-02 03:13:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一名官員表示，針對伊朗的襲擊仍在持續。"
+    },
     {
       "id": "5071583",
       "time": "2026-09-02 03:12:24",
