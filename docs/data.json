@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-02 03:30:24",
-  "count": 12467,
+  "updated": "2026-09-02 03:34:27",
+  "count": 12473,
   "items": [
+    {
+      "id": "mkt:01a05e76-9309-7118-8443-a369533ab071",
+      "time": "2026-09-02 03:33:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media, citing sources, say explosions were heard inside Jordan."
+    },
+    {
+      "id": "5071599",
+      "time": "2026-09-02 03:32:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜旗下Zoox與Alphabet旗下Waymo將自動駕駛計程車服務擴充套件至更多美國城市。"
+    },
+    {
+      "id": "mkt:01a05e73-c32d-7118-8443-9b62185ff539",
+      "time": "2026-09-02 03:30:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Treasury Deputy Secretary Aileen Brown said if G20 finance ministers cannot agree on a joint communique, the US will issue a chair's statement reflecting US priorities."
+    },
+    {
+      "id": "mkt:01a05e73-6b6e-7118-8443-97af0689529a",
+      "time": "2026-09-02 03:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Deputy Treasury Secretary Aileen Brown said trade-surplus and trade-deficit countries disagree on the challenges posed by global imbalances."
+    },
+    {
+      "id": "mkt:01a05e73-5ae1-7118-8443-89bed4cc440a",
+      "time": "2026-09-02 03:30:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Deputy Secretary Aileen Brown said parties still disagree on wording around sovereign debt restructuring and efforts to reduce global imbalances."
+    },
+    {
+      "id": "mkt:01a05e73-5370-7118-8443-82ad8113cccf",
+      "time": "2026-09-02 03:30:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "US Treasury Deputy Secretary Aileen Brown said G20 countries are working on a joint communique, but it must reflect US interests."
+    },
+    {
+      "id": "5071598",
+      "time": "2026-09-02 03:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風愛德華已在路易斯安那州約翰遜貝尤附近登陸。"
+    },
     {
       "id": "5071597",
       "time": "2026-09-02 03:29:44",
@@ -114267,19 +114327,6 @@
         "國際"
       ],
       "text": "【美國亞利桑那銅礦專案獲批引發訴訟，原告質疑聯邦審查程式】兩個環保組織和一個原住民部落在訴狀中稱，美國聯邦政府在批准該專案之前，未與當地部落進行協商，也未充分評估該亞利桑那銅礦專案對周邊野生動物的威脅。訴狀稱，美國土地管理局違反了聯邦法律，未就銅溪專案（Copper Creek Project）對受保護的墨西哥斑點鴞的威脅與美國魚類及野生動物管理局進行協商，也未充分評估該專案對黃嘴鵑的危害。"
-    },
-    {
-      "id": "mkt:01a03a69-2702-7aab-9119-c1f02c265fd8",
-      "time": "2026-08-26 03:32:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "RIA, citing Iranian and Pakistani sources, reported that Tehran and Washington have agreed to a ceasefire."
     }
   ]
 }
