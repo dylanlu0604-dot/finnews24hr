@@ -1,7 +1,93 @@
 {
-  "updated": "2026-09-01 15:27:07",
-  "count": 13151,
+  "updated": "2026-09-01 15:31:13",
+  "count": 13155,
   "items": [
+    {
+      "id": "mkt:01a05be0-845b-7118-842d-f11819c6fc3c",
+      "time": "2026-09-01 15:30:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland August SVME PMI 57.1; consensus 54.2; July 53.2."
+    },
+    {
+      "id": "te:markets:579913",
+      "time": "2026-09-01 15:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.41% Higher — The CAC 40 Index is up by 35 points or 0.41 percent on Tuesday. Top gainers are Air Liquide (3.94%), TP (1.75%) and TotalEnergies SE (1.71%). Biggest losses came from Renault (-1.43%), Accor (-1.27%) and Hermes International (-1.19%)."
+    },
+    {
+      "id": "5070317",
+      "time": "2026-09-01 15:30:13",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "泰國8月商業信心指數為49.8。"
+    },
+    {
+      "id": "5070316",
+      "time": "2026-09-01 15:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士8月SVME採購經理人指數 57.1，預期54.2，前值53.2。"
+    },
+    {
+      "id": "mkt:01a05bdf-f99d-7118-842d-ee48eadf538a",
+      "time": "2026-09-01 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | SVME Purchasing Managers' Index (Aug) | actual 57.1 | consensus 54.2 | previous 53.2"
+    },
+    {
+      "id": "te:markets:579912",
+      "time": "2026-09-01 15:29:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Surge — UK natural gas prices jumped more than 4% to above 172 pence a therm on Tuesday, the highest level since January 2023, as the flare-up in US-Iran tensions heightened concerns over Europe’s gas supply security heading into the heating season. The US and Iran exchanged strikes for the first time in a month over the weekend, threatening to prolong the effective closure of the Strait of Hormuz, through which roughly one-fifth of global LNG trade normally passes. The prospect of sustained disruption has intensified competition with Asian buyers, tightening supplies bound for Europe during the critical gas-storage refill season. EU gas storage facilities were around 64% full, below historical levels for this time of year. Low storage levels and uncertainty over LNG supplies from the Persian Gulf are putting upward pressure on prices, offsetting milder weather forecasts for early September that could limit near-term demand."
+    },
+    {
+      "id": "5070314",
+      "time": "2026-09-01 15:27:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬集團碳中和綠色ABS成功發行】近日，小鵬集團宣佈成功發行“小鵬融資租賃2026年第2期碳中和綠色資產支援專項計劃”，發行規模達8.85億元，募集資金用於補充流動資金及租賃業務投放。其中，優先A級發行規模8.00億元，發行利率低至1.80%，創小鵬系列ABS最低發行利率。"
+    },
+    {
+      "id": "5070313",
+      "time": "2026-09-01 15:26:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招銀國際：中國人壽上半年業績表現強勁，目標價升至39港元】招銀國際發表研報，中國人壽上半年業績表現強勁，淨利潤同比大幅增長2.29倍至1345億元，處於此前盈利預告的中間值。期內新業務價值(NBV)同比增長33.7%至382億元，增速領先同業；中期股息同比大幅增加50.4%至每股0.358元，遠超市場預期。考慮到業務質量改善及上半年盈利表現優異，該行上調2026至2028年每股盈利預測至7.67元、6.10元及6.55元，將目標價由34港元上調至39港元，對應2026年預測內含價值0.6倍及市賬率1.3倍，維持“買入”評級。"
+    },
+    {
+      "id": "te:economy:579911",
+      "time": "2026-09-01 15:26:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Spain Manufacturing Sector Contracts in August — The S&P Global Manufacturing PMI fell to 49.5 in August 2026 from 50.2 in July, the lowest since March and missing expectations of 50.1. Both production and new orders declined, reflecting subdued domestic demand and weaker international sales, with tariffs also weighing on exports. Firms responded by drawing down finished-goods and input inventories, while purchasing activity contracted for a ninth month. Employment also fell for the twelfth month in a row, although the decline in outstanding work was partly supported by lower capacity utilisation. Supply conditions remained challenging, as disruptions linked to the Middle East conflict affected shipping routes and the availability of materials. Higher energy and transportation costs pushed input-price inflation significantly higher, prompting firms to raise selling prices as well. Looking ahead, business confidence weakened further, with concerns over elevated energy costs and fragile demand clouding the outlook for production."
+    },
     {
       "id": "te:economy:579910",
       "time": "2026-09-01 15:26:03",
@@ -119916,63 +120002,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Opens 0.40% Higher — The DAX Index is picking up 103 points or 0.40 percent on Tuesday. Gains are led by Infineon (1.90%), Siemens Energy (1.28%) and Airbus (1.26%). Biggest losers are Rheinmetall (-1.00%), SAP (-0.74%) and Qiagen NV (-0.69%)."
-    },
-    {
-      "id": "5056951",
-      "time": "2026-08-25 15:30:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙政府召開國家安全委員會會議應對休達移民危機】當地時間25日，西班牙首相桑切斯主持召開國家安全委員會會議，討論休達移民危機。這是大批移民進入休達26天后，西班牙國家安全委員會首次召開以休達局勢為主題的會議。休達地方政府長官胡安·赫蘇斯·比瓦斯透過影片方式參加當天會議，西班牙政府3名副首相、多名部長以及國家安全部門負責人等出席會議。此次會議的一項重要內容是建立統一指揮機制，以協調處理休達移民危機。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a037d4-2814-7aab-910a-b235b301ca18",
-      "time": "2026-08-25 15:30:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D rose 0.13 pct to 1,001.14 yuan/gram on Tuesday, Aug 25; silver T+D fell 1.36 pct to 16,550.0 yuan/kg."
-    },
-    {
-      "id": "te:markets:577851",
-      "time": "2026-08-25 15:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.35% Higher — The CAC 40 Index is up by 30 points or 0.35 percent on Tuesday. Top gainers are Safran (1.53%), Legrand (1.24%) and Airbus (1.18%). Biggest losses came from Renault (-1.31%), Dassault Systemes (-1.24%) and Capgemini (-0.90%)."
-    },
-    {
-      "id": "5056950",
-      "time": "2026-08-25 15:29:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國旅遊發展局資料顯示，韓國7月入境遊客數量同比上漲20.8%，達到209萬人次。1‑7月累計入境遊客同比增長21.3%，共計1280萬人次。"
-    },
-    {
-      "id": "mkt:01a037d1-c540-7aab-910a-afbc81639f4c",
-      "time": "2026-08-25 15:28:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【NVIDIA earnings due after US close; market broadly optimistic】NVIDIA reports F2Q27 results after US close Wednesday. Street survey expects F2Q27 EPS $2.19 and revenue $93.58bn (YoY +100%); consensus guidance for F3Q27 is around $106.14bn (QoQ +13%, YoY +86%), with some investors projecting >$110bn. Key upside drivers cited are strong GB300 server‑cabinet shipments, Rubin Ultra chip ramp, pricing leverage, enterprise AI adoption and cloud/supply‑chain moats; gross margin is forecast near 75%. Downside concerns include “recycling” financing risk and wafer/chip capacity constraints that could limit guidance upside. Earnings-implied option volatility is ~4.6%. JP Morgan (Aug. 24) notes a backstop financing mechanism could deliver “hundreds of billions” in incremental revenue, but warns a simultaneous earnings miss and dovish/soft Fed messaging could trigger a 3–4% pullback in the S&P 500."
     }
   ]
 }
