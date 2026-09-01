@@ -1,7 +1,68 @@
 {
   "date": "2026-09-02",
-  "count": 309,
+  "count": 315,
   "items": [
+    {
+      "id": "5071590",
+      "time": "2026-09-02 03:20:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：德國曾考慮就萊比錫無人機襲擊事件援引北約第4條，但最終放棄該打算。德政府希望避免局勢進一步升級，為俄羅斯若發動更多襲擊時採取更強有力的應對手段留出餘地。"
+    },
+    {
+      "id": "mkt:01a05e6a-94d9-7118-8443-764599686ac2",
+      "time": "2026-09-02 03:20:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran state TV cited a deputy governor saying a U.S. strike killed at least two people and injured several at a wedding near Sirik, Iran."
+    },
+    {
+      "id": "5071589",
+      "time": "2026-09-02 03:19:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：美國對伊朗錫裡克附近的一場婚禮發動襲擊，造成至少兩人死亡，多人受傷。"
+    },
+    {
+      "id": "5071588",
+      "time": "2026-09-02 03:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發表宣告稱，美國的打擊將“進一步收緊霍爾木茲海峽的封鎖”。"
+    },
+    {
+      "id": "mkt:01a05e69-528c-7118-8443-69b17a32ee09",
+      "time": "2026-09-02 03:19:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said US attacks will only make a blockade of the Strait of Hormuz more entrenched."
+    },
+    {
+      "id": "mkt:01a05e69-335b-7118-8443-63f4cbd402a4",
+      "time": "2026-09-02 03:19:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it fired missiles and drones at US bases】Iran said on Sept. 1 its armed forces had begun operations against the United States, firing missiles and drones at US bases and interests in the region; locations and targets were not immediately known. Multiple explosions were reported earlier near Qeshm Island and the Strait of Hormuz; no casualties or damage have been reported. US Central Command said at 12:00 ET on Sept. 1 US forces began strikes on Islamic Revolutionary Guard Corps targets inside Iran. Iran’s Armed Forces General Staff said it would deliver a devastating strike against US forces in response to US airstrikes on targets in Sistan and Baluchestan and Hormozgan provinces."
+    },
     {
       "id": "5071587",
       "time": "2026-09-02 03:17:23",
