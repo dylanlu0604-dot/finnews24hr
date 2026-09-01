@@ -1,7 +1,3054 @@
 {
   "date": "2026-09-01",
-  "count": 2245,
+  "count": 2581,
   "items": [
+    {
+      "id": "5071412",
+      "time": "2026-09-01 23:45:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特對日本央行行長表示：應避免匯率過度波動。"
+    },
+    {
+      "id": "5071411",
+      "time": "2026-09-01 23:45:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特週日會見了日本央行行長植田和男。"
+    },
+    {
+      "id": "mkt:01a05da4-6659-7118-843e-4fd885223c7a",
+      "time": "2026-09-01 23:44:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said yen depreciation has contributed to domestic inflationary pressures in Japan."
+    },
+    {
+      "id": "5071410",
+      "time": "2026-09-01 23:44:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特指出，日元走弱加劇了日本國內的通脹壓力。"
+    },
+    {
+      "id": "mkt:01a05da4-14c9-7118-843e-4263bc8ed8a3",
+      "time": "2026-09-01 23:43:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Market sources: U.S. Treasury Secretary Bessent voiced strong support for Japan's decisive market and monetary measures to counter a sharply undervalued yen."
+    },
+    {
+      "id": "5071409",
+      "time": "2026-09-01 23:43:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特還對日本為應對日元大幅低估所採取的果斷市場及貨幣政策舉措表示堅決支援。"
+    },
+    {
+      "id": "mkt:01a05da3-eb5c-7118-843e-3e24e01c8048",
+      "time": "2026-09-01 23:43:38",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Market sources: US Treasury Secretary Bessent told Bank of Japan Governor Ueda that clear formulation and communication of monetary policy are essential to stabilise inflation expectations."
+    },
+    {
+      "id": "mkt:01a05da3-9cb5-7118-843e-37e4b8cb0ea5",
+      "time": "2026-09-01 23:43:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany's foreign minister Wadephul said the attack is part of a series of long-term destabilizing actions aimed at Europe."
+    },
+    {
+      "id": "5071408",
+      "time": "2026-09-01 23:43:09",
+      "tags": [
+        "宏觀",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特在與日本央行行長會晤時強調，妥善制定並傳達貨幣政策，對錨定通脹預期具有重要意義。"
+    },
+    {
+      "id": "mkt:01a05da2-8eb4-7118-843e-2972f86140b4",
+      "time": "2026-09-01 23:42:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's interior minister said Russia was responsible for the attack on Leipzig and that the incident confirms Germany faces a high-risk situation."
+    },
+    {
+      "id": "mkt:01a05da2-3e8b-7118-843e-22a8092ad196",
+      "time": "2026-09-01 23:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission president Von der Leyen said matters related to the Leipzig attack, including potential additional sanctions, will be prepared by EU foreign ministers at their upcoming meeting."
+    },
+    {
+      "id": "5071407",
+      "time": "2026-09-01 23:41:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事巴爾：若通脹未緩解 應做好加息準備】美聯儲理事邁克爾·巴爾表示，如果通脹未能回落，美聯儲應做好加息準備。他警告稱，通脹連續逾五年高於目標水平，價格壓力存在固化風險。巴爾表示，如果未來公佈的資料能夠釋放出通脹降溫的訊號，美聯儲有保持耐心的條件。“如果資料趨勢讓我對通脹正朝著2%目標回落建立起一定信心，那麼我認為我們可以花更多時間評估當前的政策立場，”巴爾週二在華盛頓一場活動的講話稿中表示。“但如果通脹看起來未能充分放緩，我認為我們應果斷採取行動加息。”"
+    },
+    {
+      "id": "mkt:01a05da1-f23b-7118-843e-1b6b7f2fce1b",
+      "time": "2026-09-01 23:41:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President VON DER LEYEN said the EU fully supports Germany against Russian attacks."
+    },
+    {
+      "id": "mkt:01a05da1-8b98-7118-843e-17bc6edff69c",
+      "time": "2026-09-01 23:41:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "EU Commission President von der Leyen said Germany faces an attack from Russia."
+    },
+    {
+      "id": "5071406",
+      "time": "2026-09-01 23:40:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：今早與德國總理默茨通了電話，商討萊比錫機場遭遇的混合攻擊事件。我向他保證，歐盟與德國完全站在一起。我們將一如既往支援烏克蘭，無論需要多久。我明天將與北約秘書長呂特就此議題展開磋商。相關事宜，包括追加制裁，將由歐盟外長們在愛爾蘭輪值主席國主持的即將召開的會議上進行籌備。"
+    },
+    {
+      "id": "mkt:01a05da1-42de-7118-843e-089993340416",
+      "time": "2026-09-01 23:40:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President VON DER LEYEN will discuss the Leipzig attack with NATO Secretary-General RUTTE tomorrow."
+    },
+    {
+      "id": "mkt:01a05da1-0d5a-7118-843e-07602ee7b493",
+      "time": "2026-09-01 23:40:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "German interior minister says the Leipzig attack is part of Russia's hybrid campaign in Europe."
+    },
+    {
+      "id": "te:markets:580133",
+      "time": "2026-09-01 23:39:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Extends Rebound — The dollar index rose to above 99.6, extending the rebound from the three-month low of 98.8 from August 21st, and tracking the surge in yields across the curve inflationary risks aligned with the outlook of a more hawkish Federal Reserve. The US and Iran reignited attacks against each other and further dimmed the small prospects that energy flows through the Strait of Hormuz could improve in the near term. The rise in energy prices added to inflationary pressures shortly after a series of FOMC members, including Chairman Warsh, warned that inflation could warrant a rise in interest rates. The Chairman also noted that the labor market has been under full employment recently, aligned with annual revisions to nonfarm payrolls that were well below recent downgrades. In the meantime, evidence of higher inflation in the Eurozone added to the consensus of an ECB rate hike, limiting the rebound for the DXY."
+    },
+    {
+      "id": "mkt:01a05d9f-a1d3-7118-843d-f94eeabf0da3",
+      "time": "2026-09-01 23:38:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) is accelerating a strategic shift of Google Meet hardware from ChromeOS to Android, partnering with Logitech, Neat and HP Poly, and will end support for ChromeOS devices in September 2030."
+    },
+    {
+      "id": "5071405",
+      "time": "2026-09-01 23:38:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列威脅稱，若英國實施制裁，以色列將採取報復行動。"
+    },
+    {
+      "id": "5071404",
+      "time": "2026-09-01 23:38:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌 Meet 將於 2030 年 9 月終止對 ChromeOS 裝置的支援。"
+    },
+    {
+      "id": "mkt:01a05d9e-e1e7-7118-843d-f2f7dd56f25f",
+      "time": "2026-09-01 23:38:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) will launch a large-format Google Meet device running Android in 2027."
+    },
+    {
+      "id": "5071403",
+      "time": "2026-09-01 23:38:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌 Meet 將於 2027 年推出安卓版大屏裝置。谷歌推進安卓轉型，與羅技、Neat、惠普寶利通開展 Google Meet 合作。"
+    },
+    {
+      "id": "mkt:01a05d9e-a2b3-7118-843d-eac322ac56c5",
+      "time": "2026-09-01 23:37:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed lower on Sept 1 (Tue): Germany's DAX fell 321.10 points (-1.22%) to 25,960.39; FTSE 100 fell 34.18 points (-0.32%) to 10,790.08; France's CAC 40 fell 32.65 points (-0.39%) to 8,301.85; STOXX Europe 50 fell 52.81 points (-0.82%) to 6,367.35; Spain's IBEX 35 fell 169.66 points (-0.85%) to 19,818.74; Italy's FTSE MIB fell 677.19 points (-1.29%) to 51,935.50."
+    },
+    {
+      "id": "mkt:01a05d9e-868c-7118-843d-e6508ccb6f76",
+      "time": "2026-09-01 23:37:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Russia's ambassador to Germany has entered the German foreign ministry building in Berlin."
+    },
+    {
+      "id": "mkt:01a05d9e-6815-7118-843d-dbb1e60a4447",
+      "time": "2026-09-01 23:37:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Senegal, IMF reach staff-level agreement on $2.2bn lending program】Senegal and the IMF have reached a staff-level agreement on a three-year, $2.2bn program to resume IMF lending after the fund froze financing two years ago following discovery of previously undisclosed loans worth billions of dollars. The agreement requires IMF executive board approval, the IMF said on Tuesday. Senegal said it will use the revised G20 common framework for debt restructuring and intends to seek debt treatment to restore debt sustainability. The IMF said: \"The IMF-supported program's main reforms aim to restore the sustainability of public finances while protecting vulnerable households.\""
+    },
+    {
+      "id": "mkt:01a05d9e-41c4-7118-843d-d788d07e831f",
+      "time": "2026-09-01 23:37:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's interior minister said Russia was involved in an attempted drone attack on a Ukrainian cargo aircraft at Leipzig/Halle airport."
+    },
+    {
+      "id": "5071402",
+      "time": "2026-09-01 23:37:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國內政部長：俄羅斯參與了針對萊比錫‑哈雷機場一架烏克蘭貨運飛機的無人機襲擊未遂事件。"
+    },
+    {
+      "id": "mkt:01a05d9e-0443-7118-843d-cfec4b252237",
+      "time": "2026-09-01 23:37:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) will move its Google Meet hardware product line to the Android platform."
+    },
+    {
+      "id": "5071401",
+      "time": "2026-09-01 23:36:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "塞內加爾政府推出針對國際債權人的債務處置計劃後，該國歐元債券進一步下跌；2031 年到期美元債券買價下跌 2 美分，報 49.62 美分。"
+    },
+    {
+      "id": "5071400",
+      "time": "2026-09-01 23:36:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌將把 Google Meet 硬體產品線轉向安卓系統。"
+    },
+    {
+      "id": "5071399",
+      "time": "2026-09-01 23:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "豐田汽車8月美國銷量為215,556輛。"
+    },
+    {
+      "id": "5071398",
+      "time": "2026-09-01 23:34:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都防空系統正在運作。 敵方無人機正在城市上空。 請待在防空掩體中。"
+    },
+    {
+      "id": "5071397",
+      "time": "2026-09-01 23:33:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚啟程前往德黑蘭。"
+    },
+    {
+      "id": "mkt:01a05d9a-6b66-7118-843d-c49cfc97ec3b",
+      "time": "2026-09-01 23:33:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 6-week Treasury auction as of Sep 1: 52.35% of awards at the stop-out yield, up from 27.88% previously."
+    },
+    {
+      "id": "mkt:01a05d9a-4648-7118-843d-bcc3de516afa",
+      "time": "2026-09-01 23:33:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US 6-week Treasury auction stop-out yield 3.74% on Sep 1; prior 3.65%."
+    },
+    {
+      "id": "te:markets:580128",
+      "time": "2026-09-01 23:33:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Gains for 2nd Session — Crude oil rose to around $88 a barrel on Tuesday, following a 2.8% gain on Monday, as renewed hostilities between the US and Iran heightened concerns over prolonged disruptions to energy shipments through the Strait of Hormuz. US forces struck an island in the strategic waterway, prompting Iran to retaliate with attacks on US-linked targets in the UAE and Jordan, marking the first direct exchange of fire in about a month. Two supertankers were reportedly hit by unidentified projectiles while transiting the chokepoint, highlighting the risks facing vessels in the region. Despite the escalating tensions, crude exports continue to move through Hormuz, with some tankers reportedly switching off their transponders. Producers including Saudi Arabia, the UAE, Kuwait and Iraq are still managing to ship barrels. However, the threat of further attacks remains a major concern, particularly after a tanker was reportedly struck by three unidentified projectiles near Oman while exiting the waterway."
+    },
+    {
+      "id": "5071396",
+      "time": "2026-09-01 23:32:51",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織與塞內加爾達成 22 億美元專案的工作人員層面協議。"
+    },
+    {
+      "id": "mkt:01a05d99-f6ae-7118-843d-b25f5620e4cb",
+      "time": "2026-09-01 23:32:46",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-week Treasury auction bid-to-cover ratio 2.85 on Sept. 1, up from 2.71 previously."
+    },
+    {
+      "id": "5071395",
+      "time": "2026-09-01 23:32:37",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.735%，投標倍數2.85。拍賣52週期國債，得標利率3.980%，投標倍數3.61。"
+    },
+    {
+      "id": "mkt:01a05d99-749f-7118-843d-aa4754cbfa71",
+      "time": "2026-09-01 23:32:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 1-year Treasury auction to Sept. 1 — stop-out yield 3.98%, prior 3.88% (up 10 bps)."
+    },
+    {
+      "id": "mkt:01a05d99-7352-7118-843d-a6532e93c62b",
+      "time": "2026-09-01 23:32:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 1-year Treasury auction to Sept. 1 — share of awards at the stop-out yield 34.18%, prior 12.98%."
+    },
+    {
+      "id": "mkt:01a05d99-707d-7118-843d-9e0e0e6d794f",
+      "time": "2026-09-01 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 1-year Treasury auction to Sept. 1 — bid-cover ratio 3.61, prior 3.62."
+    },
+    {
+      "id": "mkt:01a05d99-5811-7118-843d-920064989b82",
+      "time": "2026-09-01 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (Sep.1) | actual 3.61 | previous 3.62"
+    },
+    {
+      "id": "mkt:01a05d99-5807-7118-843d-8da4cbdef93e",
+      "time": "2026-09-01 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Accepted at High (Sep.1) | actual 34.18% | previous 12.98%"
+    },
+    {
+      "id": "mkt:01a05d99-57fb-7118-843d-8272b794682e",
+      "time": "2026-09-01 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction High Yield Rate (Sep.1) | actual 3.98% | previous 3.88%"
+    },
+    {
+      "id": "5071394",
+      "time": "2026-09-01 23:31:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大Unifor工會Stellantis今日會面，就加拿大各地工廠逾9,000名工人的新合同開啟談判。"
+    },
+    {
+      "id": "5071393",
+      "time": "2026-09-01 23:31:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織專案預計將動員世界銀行、非洲開發銀行及其他發展夥伴提供融資。 塞內加爾與國際貨幣基金組織達成的協議要求採取 “果斷糾正行動”，以支援其就債務錯報問題申請豁免。 國際貨幣基金組織表示，塞內加爾 “已宣佈有意尋求債務處置，以恢復債務可持續性”。"
+    },
+    {
+      "id": "mkt:01a05d98-91e6-7118-843d-7dcaf8d48021",
+      "time": "2026-09-01 23:31:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The IMF has reached a staff-level agreement with Senegal on an Extended Credit Facility; the arrangement still requires approval from IMF management and the executive board."
+    },
+    {
+      "id": "5071392",
+      "time": "2026-09-01 23:30:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：塞內加爾相關協議仍需獲得基金組織管理層及執董會批准。"
+    },
+    {
+      "id": "5071391",
+      "time": "2026-09-01 23:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌1.26%，報25927.87點。法國股指初步收跌0.57%，義大利股指初步收跌1.40%、銀行指數跌1.24%，英國股指初步收跌0.48%。"
+    },
+    {
+      "id": "5071390",
+      "time": "2026-09-01 23:30:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.74%，報646.31點。歐元區STOXX 50指數初步收跌0.96%，報6358.27點。富時泛歐績優300指數初步收跌0.66%，報2581.06點。"
+    },
+    {
+      "id": "5071389",
+      "time": "2026-09-01 23:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞內加爾將藉助 G20 共同框架開展債務處置。"
+    },
+    {
+      "id": "te:markets:580124",
+      "time": "2026-09-01 23:29:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures Hover Near 1-Year High — Cocoa futures traded around $6,600 per tonne, holding close to their highest since September 2025, amid mounting concerns over West African supply. This year’s cocoa crops in top producers Ivory Coast and Ghana have been hit by cloudy weather and limited sunshine, creating conditions favorable for black pod disease and hurting bean quality. The outlook for the upcoming crop is also uncertain due to excessive wetness, disease and limited access to chemicals, with risks potentially compounded by an unusually strong El Niño. Production forecasts for major growers have been lowered, with Ivory Coast’s output expected to fall by about 20% to 1.75 million tonnes and Ghana’s to decline 13% to 650,000 tonnes next season. Elsewhere, farmers in Cameroon are struggling with shortages of chemicals to control pests and diseases, while floods have disrupted cocoa farming in Nigeria."
+    },
+    {
+      "id": "5071388",
+      "time": "2026-09-01 23:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞內加爾同意在“增強型共同框架”下重組債務。"
+    },
+    {
+      "id": "mkt:01a05d96-1ecb-7118-843d-72f5690b7f51",
+      "time": "2026-09-01 23:28:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Senegal has agreed to restructure its debt under the Enhanced Common Framework."
+    },
+    {
+      "id": "mkt:01a05d95-dcbb-7118-843d-6840ec5348f0",
+      "time": "2026-09-01 23:28:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham signaled openness to reforming the UK voting system."
+    },
+    {
+      "id": "mkt:01a05d95-280a-7118-843d-64d45ecc5ffc",
+      "time": "2026-09-01 23:27:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Diesel hits four-month high as supply tightens】Diesel futures rose to their highest in over four months as refinery attacks linked to fighting in the Middle East and Ukraine tightened supply, raising inflation concerns and exerting broader pressure on commodity prices. ICE diesel futures gained as much as 4.2%, reaching their strongest level since April 9. Diesel-to-Brent crack spreads remain elevated after hitting a record last month. European diesel continued to rise, widening its premium to Asia. Diesel has climbed more than 50% since the June 18 low, outperforming crude over the same period."
+    },
+    {
+      "id": "5071387",
+      "time": "2026-09-01 23:27:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆釋放訊號，願意對英國投票制度開展改革。"
+    },
+    {
+      "id": "mkt:01a05d94-d0f9-7118-843d-5cf3f9219caf",
+      "time": "2026-09-01 23:27:08",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Mann, a Bank of England monetary policy committee member, said he hopes to prevent inflation from becoming embedded in next year’s wage growth."
+    },
+    {
+      "id": "5071386",
+      "time": "2026-09-01 23:26:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：希望避免明年通脹固化至薪資水平。"
+    },
+    {
+      "id": "5071385",
+      "time": "2026-09-01 23:25:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭至8月18日全球乳製品貿易價格指數 0.9%，前值2.3%。"
+    },
+    {
+      "id": "mkt:01a05d93-8905-7118-843d-51f15e14ecb0",
+      "time": "2026-09-01 23:25:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Global Dairy Trade price index to Aug 18 +0.9% (prior +2.3%)."
+    },
+    {
+      "id": "mkt:01a05d93-7811-7118-843d-48a77973e561",
+      "time": "2026-09-01 23:25:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member MANN said wage negotiations in Q1 are based on inflation in the previous quarter."
+    },
+    {
+      "id": "mkt:01a05d93-6b37-7118-843d-40f2d70b02ef",
+      "time": "2026-09-01 23:25:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Aug.18) | actual 0.9% | previous 2.3%"
+    },
+    {
+      "id": "5071384",
+      "time": "2026-09-01 23:25:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：第一季度薪資談判參照上一季度通脹水平。"
+    },
+    {
+      "id": "5071383",
+      "time": "2026-09-01 23:24:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉邁克蒂亞機場恢復運營，啟用臨時航站樓。"
+    },
+    {
+      "id": "mkt:01a05d91-eb0d-7118-843d-38bbe3eb1778",
+      "time": "2026-09-01 23:23:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "SC crude main contract rose over 4% to 663.9 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a05d91-84bb-7118-843d-36d1d8c1cd7c",
+      "time": "2026-09-01 23:23:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela's Maiquetía (Simón Bolívar) airport has resumed operations at a temporary terminal."
+    },
+    {
+      "id": "mkt:01a05d91-342f-7118-843d-29b72e2e1b48",
+      "time": "2026-09-01 23:23:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "ACAP said Tesla (TSLA.O) new vehicle registrations in Portugal fell 36.5% YoY in August; cumulative Jan-Aug registrations rose 41.4%."
+    },
+    {
+      "id": "5071382",
+      "time": "2026-09-01 23:22:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "葡萄牙汽車協會（ACAP）資料：8 月葡萄牙特斯拉新車註冊量同比下降 36.5%，1‑8 月累計同比增長 41.4%。"
+    },
+    {
+      "id": "mkt:01a05d90-d887-7118-843d-22fb95cd00b8",
+      "time": "2026-09-01 23:22:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Musk said bringing large AI data centers online will require building large-scale power plants and transformers, liquid-cooling loops and chillers, and extremely complex networking infrastructure, particularly for training clusters."
+    },
+    {
+      "id": "5071381",
+      "time": "2026-09-01 23:22:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平將抵達埃及開羅】當地時間9月1日下午，國家主席習近平乘專機將抵達埃及首都開羅，對埃及進行國事訪問。（央視新聞）"
+    },
+    {
+      "id": "5071380",
+      "time": "2026-09-01 23:22:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大總理卡尼：美國官員侮辱加拿大讓談判無法恢復】加拿大總理馬克·卡尼在渥太華對記者表示，他仍認為加拿大和美國有可能達成一項“互利”的貿易協議，但只要特朗普政府官員繼續公開羞辱加拿大，雙方就無法恢復談判。卡尼表示：“加拿大和美國一直有機會達成一項互利且尊重加拿大主權的貿易協議”。他補充稱：“等美國人不再做梗圖、不再陰陽怪氣、不再故作強硬，而是開始認真討論這些問題時，我們就可以展開談判”。加拿大與美國的貿易談判於8月21日破裂，美國隨後於8月22日對價值200億美元的加拿大進口商品加徵50%新關稅，加拿大則計劃實施對等反制關稅，並於9月8日生效。"
+    },
+    {
+      "id": "mkt:01a05d90-164a-7118-843d-1cc2678cdd24",
+      "time": "2026-09-01 23:21:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CHINA to arrive in Cairo for state visit】CHINA will arrive in Cairo, Egypt on the afternoon of Sept 1 local time by special aircraft to begin a state visit."
+    },
+    {
+      "id": "mkt:01a05d8f-4ff7-7118-843d-16690f250fb8",
+      "time": "2026-09-01 23:21:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reported Republican leaders are urging Elon Musk to commit substantial funding and mobilize organizational resources in key U.S. swing districts. House Speaker Mike Johnson did not disclose where any funds might be directed."
+    },
+    {
+      "id": "5071379",
+      "time": "2026-09-01 23:20:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：要讓大型人工智慧資料中心投入執行，需要建設大規模發電廠、變壓器、液冷迴路與冷卻機組，同時還要搭建極其複雜的網路系統（訓練叢集對網路的要求尤為突出）。"
+    },
+    {
+      "id": "mkt:01a05d8e-78bb-7118-843d-0ad800bfab5b",
+      "time": "2026-09-01 23:20:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports House Speaker Mike Johnson told Republican leaders he met with Elon Musk in Austin last week."
+    },
+    {
+      "id": "5071378",
+      "time": "2026-09-01 23:19:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：普京與埃爾多安的會晤已經結束，時長約 1.5 小時。"
+    },
+    {
+      "id": "5071377",
+      "time": "2026-09-01 23:18:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委Simkus：9月加息一次恐怕還不夠】歐洲央行管委Gediminas Simkus表示，即使歐洲央行下週加息，也不足以讓通脹回到目標水平。這位立陶宛央行官員在週二刊發的Econostream Media採訪中表示，“目前所有可獲得的資料都讓我認為，我們很可能會加息，而且9月這次加息恐怕還不夠。”Simkus指出，天然氣期貨價格上漲、農產品價格走高，以及歐洲經濟表現強於預期，都表明消費者價格前景正在進一步上行。Simkus表示，“這應該會促使通脹預測發生變化，從而需要利率路徑略微上移，以確保中期通脹維持在2%。”他表示，“總體而言，通脹環境已經增強，因此支援加息的理由相當明確。”"
+    },
+    {
+      "id": "mkt:01a05d8b-c9d8-7118-843d-056600c47a58",
+      "time": "2026-09-01 23:17:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Brandenburg's interior minister said damage to the power grid occurred adjacent to a power-plant substation in Germany, causing one generating unit at the plant to trip offline."
+    },
+    {
+      "id": "5071376",
+      "time": "2026-09-01 23:17:07",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特在二十國集團（G20）“債務重組”會議的公開講話結束。"
+    },
+    {
+      "id": "mkt:01a05d8b-3750-7118-843c-ff9bba17f810",
+      "time": "2026-09-01 23:16:39",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK Prime Minister Burnham said he is committed to cutting welfare spending."
+    },
+    {
+      "id": "te:economy:580123",
+      "time": "2026-09-01 23:16:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Mexico Factory Activity Weakens — The S&P Global Mexico Manufacturing PMI fell to 49.8 in August 2026 from 51.3 in the prior month, signaling a renewed deterioration in operating conditions. A reduction in factory output weighed most, marking the steepest contraction in eight months as firms reported subdued market conditions, material shortages and shipping delays linked to the conflict in the Middle East. Demand also weakened, as new order growth slowed from recent peaks, reflecting a fall in new export orders at the quickest pace in 2026 so far. As a response, manufacturers trimmed their purchasing activity, marking the first reduction in three months. Stocks of purchases also fell, while fineshed goods inventories rose slitghly. In turn, cost pressures continued to moderate, as the input cost inflation slipped to a five-month low, although still elevated amid US tariff and Middle East uncertainty. Looking ahead, sentiment turned pessimistic, with firms citing concerns over general market uncertainty."
+    },
+    {
+      "id": "mkt:01a05d8a-d81e-7118-843c-f5ac42c46687",
+      "time": "2026-09-01 23:16:15",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Mann said economic activity strengthened between the previous and current MPC meetings."
+    },
+    {
+      "id": "5071375",
+      "time": "2026-09-01 23:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：我致力於削減福利開支。"
+    },
+    {
+      "id": "5071374",
+      "time": "2026-09-01 23:15:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：任命希利是看重其防務履歷。"
+    },
+    {
+      "id": "5071373",
+      "time": "2026-09-01 23:15:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：G20 將設立債務重組技術研究小組。"
+    },
+    {
+      "id": "5071372",
+      "time": "2026-09-01 23:14:32",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行曼恩：自上次貨幣政策委員會會議至本次會議，我們觀察到經濟活動有所走強。"
+    },
+    {
+      "id": "mkt:01a05d89-02b5-7118-843c-eb13987279d0",
+      "time": "2026-09-01 23:14:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's energy minister said Israel will ensure normal water supply to all households."
+    },
+    {
+      "id": "mkt:01a05d88-efd4-7118-843c-e02c409eac54",
+      "time": "2026-09-01 23:14:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Israel's energy minister has approved construction of two additional seawater desalination plants."
+    },
+    {
+      "id": "mkt:01a05d88-e08a-7118-843c-da2c360e9985",
+      "time": "2026-09-01 23:14:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli energy minister said that, amid shutdowns of desalination plants, Israel is increasing pumping from wells and the Sea of Galilee."
+    },
+    {
+      "id": "5071371",
+      "time": "2026-09-01 23:14:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：以色列將保障所有家庭供水穩定，該國正加大加利利海地下水井的抽水量。"
+    },
+    {
+      "id": "5071370",
+      "time": "2026-09-01 23:13:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列：批准再新建兩座海水淡化廠。"
+    },
+    {
+      "id": "mkt:01a05d88-2c1c-7118-843c-d312a952098a",
+      "time": "2026-09-01 23:13:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said she wants to accelerate the sovereign debt restructuring process."
+    },
+    {
+      "id": "mkt:01a05d88-167c-7118-843c-cb7e0bf68fec",
+      "time": "2026-09-01 23:13:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "TD Securities says increased US Treasury buybacks of long-dated securities are expected to reduce the 10‑year US Treasury term premium by about 5 bps."
+    },
+    {
+      "id": "5071369",
+      "time": "2026-09-01 23:12:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：希望加快主權債務重組程序。"
+    },
+    {
+      "id": "mkt:01a05d87-a971-7118-843c-c3e4f04ce7ff",
+      "time": "2026-09-01 23:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said several low-income countries may need debt restructuring."
+    },
+    {
+      "id": "5071368",
+      "time": "2026-09-01 23:12:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：幾個低收入國家可能需要債務重組。"
+    },
+    {
+      "id": "5071367",
+      "time": "2026-09-01 23:12:06",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【道明證券：美財政部加碼長債回購料使10年期期限溢價下降約5個基點】道明證券表示，美國財政部計劃將10年至30年期國債回購規模“至少提高一倍”，如果每次操作的最高回購規模為40億美元，可能令10年期國債期限溢價下降約5個基點。道明證券利率策略師Molly Brooks在一份研究報告中表示：“如果財政部將每次回購操作的最高規模提高至40億美元，每季度可進一步減少180億美元的長端國債供給。我們估計，這將使期限溢價下降約5個基點”。Brooks稱，目前期限溢價已下降約13個基點，“這表明部分市場參與者可能預期回購規模會更大，或者長期國債拍賣規模可能下降”。Brooks表示，縮減長端國債拍賣規模將更符合財政部“定期且可預測”的發債策略，並稱，如果偏離這一可預測模式，反而可能推高期限溢價，並抵消減少長端供給帶來的好處。"
+    },
+    {
+      "id": "5071366",
+      "time": "2026-09-01 23:11:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗議會國家安全委員會批准了霍爾木茲海峽法案中涉及賠償的相關條款。"
+    },
+    {
+      "id": "5071365",
+      "time": "2026-09-01 23:10:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會發言人： 委員會批准了《霍爾木茲海峽可持續安全與進步戰略行動》法案第二條第 5 款，該條款要求為航道通行潛在風險提供銀行擔保與保險保障。法案第六條亦獲透過，該條明確了服務費與保險費率的確定機制及執行條例。"
+    },
+    {
+      "id": "5071364",
+      "time": "2026-09-01 23:09:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部：印度財長與美國財長承諾在關鍵礦產等多個領域深化印美關係。"
+    },
+    {
+      "id": "5071363",
+      "time": "2026-09-01 23:08:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部：印度財政部長邀請美國財長貝森特於今年晚些時候赴新德里出席經濟與金融夥伴關係相關活動。"
+    },
+    {
+      "id": "5071362",
+      "time": "2026-09-01 23:05:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：利率寧可略高於合理水平，後續必要時再進行調整會更為妥當。"
+    },
+    {
+      "id": "te:markets:580121",
+      "time": "2026-09-01 23:04:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Rises Toward 3-1/2-Year High — Wheat rose to around $7.65 per bushel, close to its highest level since February 2023, as renewed attacks in the Black Sea region heightened concerns over grain supplies. Turkey said it had prepared a plan to facilitate the safe movement of grain through the Black Sea and was in contact with both Russia and Ukraine. However, Moscow rejected a proposed moratorium on attacks in the area, arguing that it would not contribute to a peaceful resolution. Ukrainian officials said Russian strikes overnight damaged port facilities and a border crossing with Romania in the Odesa region, while further attacks were reported near Russia’s Baltic port of Ust-Luga. The renewed hostilities have increased uncertainty around exports from both countries, with previous attacks severely disrupting shipments through Black Sea and Sea of Azov ports. Both countries are major exporters, together accounting for more than a quarter of global wheat shipments."
+    },
+    {
+      "id": "5071361",
+      "time": "2026-09-01 23:04:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國7月職位空缺小幅增加 反映勞動力需求穩定】美國7月職位空缺小幅增加，裁員人數下降，顯示企業用工需求仍在較低水平上保持穩定。美國勞工統計局週二公佈的資料顯示，7月職位空缺從6月下修後的718萬個升至727萬個。接受調查的經濟學家的預期中值為731萬個。報告顯示，美國勞動力市場仍延續過去幾年較為典型的“低招聘、低裁員”格局。面對地緣政治不確定性和持續通脹，企業對擴大員工規模保持謹慎，但同時也不願大規模裁員。職位空缺增加主要由製造業、州和地方政府（不包括教育領域），以及醫療保健和社會援助行業推動。其中，製造業職位空缺升至2023年12月以來最高水平，而休閒和酒店業職位空缺降至2021年以來最低。與此同時，裁員人數降至今年1月以來最低水平。製造業解僱人數則降至五年多來的最低。衡量員工每月主動離職比例的所謂離職率小幅降至1.9%。報告還顯示，每名失業者大約對應1.1個職位空缺。該比率在2022年高點時曾達到2比1，美聯儲官員經常用這一指標衡量勞動力供需平衡狀況。"
+    },
+    {
+      "id": "5071360",
+      "time": "2026-09-01 23:03:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國斯巴魯：2026 年 8 月汽車銷量報 62028 輛。"
+    },
+    {
+      "id": "5071359",
+      "time": "2026-09-01 23:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：期待各方在伊朗問題上與我們保持步調一致。"
+    },
+    {
+      "id": "5071358",
+      "time": "2026-09-01 23:03:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行調查顯示，私營部門分析師預計 2027 年末匯率為 1 美元兌 18.05 比索，此前調查預期為 1 美元兌 18.45 比索。"
+    },
+    {
+      "id": "5071357",
+      "time": "2026-09-01 23:02:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：將推出一項“全面的”美國財政方案。看到非市場經濟體正在吸走其他經濟體的增長。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609013861808483",
+      "time": "2026-09-01 23:02:09",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月職位空缺小幅增加 反映勞動力需求穩定】美國7月職位空缺小幅增加，裁員人數下降，顯示企業用工需求仍在較低水平上保持穩定。美國勞工統計局週二公佈的資料顯示，7月職位空缺從6月下修後的718萬個升至727萬個。接受調查的經濟學家的預期中值為731萬個。報告顯示，美國勞動力市場仍延續過去幾年較為典型的“低招聘、低裁員”格局。"
+    },
+    {
+      "id": "5071356",
+      "time": "2026-09-01 23:01:03",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普政府披露美委石油新協議細節】特朗普政府於週一晚間公佈了其與委內瑞拉達成的新石油協議的更多細節。 美國政府在一份新聞稿中稱，五角大樓戰略資本辦公室將取得北美藍能夥伴公司35%的股權。這傢俬營企業是委內瑞拉第二大私營石油生產商。 政府補充表示，這家將由美國政府部分持股的企業獲得了委內瑞拉多處油田為期100年的開採特許權。這些油田預估石油儲量約650億桶，佔委內瑞拉預估石油總儲量的21%。 特朗普政府還表示，美國有權按生產成本價收購北美藍能夥伴公司開採石油的20%。該部分石油可用於補充美國戰略石油儲備。 對於該企業產出的其餘80%石油，美國國務院將享有優先購買權。"
+    },
+    {
+      "id": "5071355",
+      "time": "2026-09-01 23:00:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：大眾汽車集團預計2026年全年全球銷量將降至約850萬輛。"
+    },
+    {
+      "id": "te:markets:580120",
+      "time": "2026-09-01 23:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.82% — Top currency gainers are Brazilian Real (0.82%), Indian Rupee (0.29%), Norwegian Krone (0.28%) and Dollar Index (0.18%). Biggest losers are Swiss Franc (-0.46%), South Korean Won (-0.37%), Canadian Dollar (-0.35%), Japanese Yen (-0.21%), Euro (-0.18%) and British Pound (-0.08%)."
+    },
+    {
+      "id": "5071354",
+      "time": "2026-09-01 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續漲2.68%，低硫燃料油連續漲1.98%，20號膠連續跌1.95%，玻璃連續漲1.68%，甲醇連續漲1.64%。"
+    },
+    {
+      "id": "5071353",
+      "time": "2026-09-01 22:59:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "貝森特：美國將出臺一套“內容全面的”財政方案。"
+    },
+    {
+      "id": "5071352",
+      "time": "2026-09-01 22:59:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：一直在G20會議上探討經濟失衡問題。"
+    },
+    {
+      "id": "5071351",
+      "time": "2026-09-01 22:59:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：部分國家造成的失衡狀況正在抑制其他地區的增長。"
+    },
+    {
+      "id": "5071350",
+      "time": "2026-09-01 22:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國本田8月美國銷量133996輛，同比增長4.8%。"
+    },
+    {
+      "id": "5071349",
+      "time": "2026-09-01 22:58:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：尚不清楚G20財長是否會採取必要措施以實現更高增長。"
+    },
+    {
+      "id": "5071348",
+      "time": "2026-09-01 22:58:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電投集團與中國聯通簽署戰略合作協議】9月1日，國家電投集團與中國聯通簽署戰略合作協議。雙方將以本次簽署戰略合作協議為契機，充分發揮各自優勢，在算電協同、人工智慧、基礎通訊、算力服務等方面務實合作，共同推動我國算力產業高質量發展。"
+    },
+    {
+      "id": "5071347",
+      "time": "2026-09-01 22:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：G20部長們希望實現更強勁增長。"
+    },
+    {
+      "id": "5071346",
+      "time": "2026-09-01 22:58:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：預計各方都會在伊朗問題上與我們立場保持一致。"
+    },
+    {
+      "id": "5071345",
+      "time": "2026-09-01 22:57:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "多鄰國股價上漲5.8%，此前Evercore ISI將其評級從“與大盤持平”上調至“跑贏大盤”。"
+    },
+    {
+      "id": "5071344",
+      "time": "2026-09-01 22:57:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：我認為日本正在為經濟採取正確的舉措。"
+    },
+    {
+      "id": "5071343",
+      "time": "2026-09-01 22:57:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：鋰生產商雅寶公司在智利申請工資調解，從而推遲了罷工的可能性。"
+    },
+    {
+      "id": "5071342",
+      "time": "2026-09-01 22:57:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆稱將公佈公共服務公有化管控的十年計劃。"
+    },
+    {
+      "id": "te:markets:580119",
+      "time": "2026-09-01 22:56:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Canola Hits 3-year High — Canola increased to 839.40 CAD/T, the highest since July 2023. Over the past 4 weeks, Canola gained 10.27%, and in the last 12 months, it increased 32.95%."
+    },
+    {
+      "id": "te:markets:580118",
+      "time": "2026-09-01 22:56:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rapeseed Hits 5-week High — Rapeseed increased to 555.00 EUR/T, the highest since July 2026. Over the past 4 weeks, Rapeseed gained 5.98%, and in the last 12 months, it increased 18.29%."
+    },
+    {
+      "id": "5071341",
+      "time": "2026-09-01 22:56:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾議院議長約翰遜推動臨時撥款法案 避免政府停擺】美國眾議院議長邁克·約翰遜及共和黨領導人於週二發表講話，與此同時，議員們正準備審議一項已在參議院透過的臨時撥款法案，該法案旨在趕在9月30日截止日期前避免又一次政府停擺。 這項持續決議案若獲透過，將把政府資金支援延長至12月11日。參議院已於本月早些時候推動了這項措施。該持續決議案還包括一項條款，暫時叫停白宮的一項預算規定，該規定原本會賦予政治任命官員在聯邦撥款分配方面更大的權力。 共和黨人預計還將著手處理其他關鍵優先事項。"
+    },
+    {
+      "id": "5071340",
+      "time": "2026-09-01 22:56:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆表示，企業接入電網耗時過長。"
+    },
+    {
+      "id": "5071339",
+      "time": "2026-09-01 22:56:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州全面啟動國家資料領域國際合作試點，探索資料跨境流動新方案】9月1日，國家資料領域國際合作廣州試點啟動會暨南沙“國際數港”建設工作推進會在南沙召開。會議現場，省、市、區及港澳代表共同啟動試點，標誌著粵港澳資料協同邁出關鍵一步，資料跨境流動有了“廣州方案”。廣州市政務服務和資料管理局資料要素流通處處長葉毅超受訪表示，廣州特色就是發揮粵港澳大灣區核心引擎作用，以南沙為樞紐，推動穗港澳三地協同，共建粵港澳資料合作先行區。（21財經）"
+    },
+    {
+      "id": "5071338",
+      "time": "2026-09-01 22:54:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恒生生物科技ETF易方達：調整成份券申購贖回清算交收安排】恒生生物科技ETF易方達公告稱，因標的指數成份券微創醫療（00853.HK）、微創機器人-B（02252.HK）自2026年9月1日起停牌，復牌後價格或存在較大波動並影響基金資產淨值，經與基金託管人協商一致，自2026年9月2日起，投資者申購贖回本基金時，上述兩隻證券對應的申購現金替代退補款及贖回現金替代款的清算交收，將按其復牌後實際交易成本或基金管理人認為合理的價格辦理，期間若發生除息、送股等權益變動將相應調整，復牌後不再另行公告。"
+    },
+    {
+      "id": "5071337",
+      "time": "2026-09-01 22:54:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "伯納姆：唐寧街10號將與財政部開展合作。"
+    },
+    {
+      "id": "5071336",
+      "time": "2026-09-01 22:54:01",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【範波會見奧地利國民議會議長羅森克蘭茨一行】9月1日，江蘇省委常委、蘇州市委書記範波會見了率團來蘇州訪問的奧地利國民議會議長羅森克蘭茨一行。奧地利駐華大使海沃福，全國人大教育科學文化衛生委員會委員劉雲志，省人大常委會副主任周廣智，市人大常委會主任黃愛軍出席。（蘇州釋出）"
+    },
+    {
+      "id": "5071335",
+      "time": "2026-09-01 22:53:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國司法部稱將持續打擊哈馬斯融資網路。"
+    },
+    {
+      "id": "5071334",
+      "time": "2026-09-01 22:52:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆：英國政府將兌現承諾，賦予民眾所有權與控制權。"
+    },
+    {
+      "id": "5071333",
+      "time": "2026-09-01 22:51:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆稱，英國水務行業是一套“標誌性”的失敗治理模式。"
+    },
+    {
+      "id": "5071332",
+      "time": "2026-09-01 22:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜表示，沒有取消9月工作日的計劃。"
+    },
+    {
+      "id": "5071331",
+      "time": "2026-09-01 22:49:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "倍耐力股價快速下跌，最大跌幅達4.5%，觸及盤中低點。"
+    },
+    {
+      "id": "5071330",
+      "time": "2026-09-01 22:49:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠州市政府與中國信保廣東分公司簽署新一輪戰略合作框架協議】據惠州釋出，9月1日下午，惠州市人民政府與中國信保廣東分公司簽署新一輪戰略合作框架協議。根據協議，雙方將圍繞擴大出口信用保險覆蓋面、服務小微企業、支援智慧裝備與新能源“走出去”、降低投保成本等領域全面深化合作。"
+    },
+    {
+      "id": "5071329",
+      "time": "2026-09-01 22:48:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX重組資料中心領導團隊】近期，SpaceX對旗下資料中心建設團隊進行了高層人事調整，多名負責人被替換，接任者主要來自公司火箭與衛星網際網路業務。知情人士透露，此舉源於田納西州和密西西比州現有資料中心設施在土木工程與執行可靠性方面持續暴露問題。早期建設階段，SpaceX的AI部門（SpaceXAI）為追求速度，部分設施在數月內缺乏備用冷卻和電力系統，增加了宕機風險。人事變動方面，前獵鷹火箭和龍飛船生產副總裁Wesley Salandro、星艦基地（Starbase）發射場產品支援運營總監Logan McConnell已加入AI基礎設施團隊。此外，SpaceX還從Neuralink引入一名工程師協助土木工程，並持續招聘相關崗位。與此同時，資料中心團隊多名核心成員近期離職：負責物理基礎設施的Jake Palmer於7月底離開（其於2025年9月加入），另有Zach Wells、Pablo Mendoza等；此前，負責場地建設的Brent Mayo已跳槽至OpenAI，從特斯拉Dojo超級計算機專案加入的Liz Balke也轉投Anthropic。"
+    },
+    {
+      "id": "5071328",
+      "time": "2026-09-01 22:47:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想集團釋出首款“沙特製造”膝上型電腦】聯想集團 (Lenovo) 當地時間今日在沙烏地阿拉伯首都利雅得舉行的 LEAP 2026 科技與資訊科技展覽會上釋出了其首款“沙特製造”膝上型電腦。據悉，這檯膝上型電腦是聯想集團沙特智慧製造基地首批下線的產品之一。該基地是聯想集團全球首個能夠生產完整產品組合的基地，產品涵蓋伺服器、膝上型電腦、桌上型電腦、智慧手機，預計於 2026 年末啟動部分產品量產。"
+    },
+    {
+      "id": "5071327",
+      "time": "2026-09-01 22:47:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆：財政責任將是英國施政方針的基石。"
+    },
+    {
+      "id": "5071326",
+      "time": "2026-09-01 22:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大財長：將於週二下午會見貝森特。"
+    },
+    {
+      "id": "5071325",
+      "time": "2026-09-01 22:47:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "STONEX：巴西2026/27年度大豆作物產量預計為1.835億噸，前次預測為1.831億噸。"
+    },
+    {
+      "id": "5071324",
+      "time": "2026-09-01 22:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達 DLSS 5 將於 9 月 4 日釋出：支援 RTX 50 系顯示卡，首發支援《NBA 2K27》遊戲】英偉達官方今天宣佈，DLSS 5 將於太平洋時間 9 月 3 日 21:00 （北京時間 9 月 4 日 12:00）正式釋出，首發支援遊戲有《NBA 2K27》，支援所有 RTX 50 系顯示卡的筆記本和臺式電腦，以及 GeForce NOW 雲遊戲平臺。"
+    },
+    {
+      "id": "5071323",
+      "time": "2026-09-01 22:46:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX改組資料中心管理層。"
+    },
+    {
+      "id": "5071322",
+      "time": "2026-09-01 22:46:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，洛厄爾已增強為颶風，預計到週三晚間將加強為大型颶風。"
+    },
+    {
+      "id": "5071321",
+      "time": "2026-09-01 22:45:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，空軍颶風獵人偵察機發現愛德華正加強，預計在今日抵達墨西哥灣西北沿岸前將持續增強。"
+    },
+    {
+      "id": "5071320",
+      "time": "2026-09-01 22:44:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥7月份海外匯款55.71億美元；預計為55.48億美元。"
+    },
+    {
+      "id": "5071319",
+      "time": "2026-09-01 22:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆表示他計劃出席11月舉辦的氣候大會。"
+    },
+    {
+      "id": "te:markets:580117",
+      "time": "2026-09-01 22:43:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Stryker Stock Price Hits 4-week Low — Stryker shares decreased to 321.40 USD, the lowest since July 2026. Over the past 4 weeks, Stryker lost 5.6%, and in the last 12 months, it decreased 17.4%."
+    },
+    {
+      "id": "te:economy:580116",
+      "time": "2026-09-01 22:42:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Dallas Fed Services Index",
+        "Importance 1"
+      ],
+      "text": "Dallas Fed Business Activity Slows — The general business activity index for the Dallas Fed’s service sector fell to 4.2 in August 2026 from 6.6 in the prior month. Despite the modest decline in optimism, the index remained in positive territory, indicating continued improvement in broader business conditions, while uncertainty was broadly unchanged. The revenues index declined to 6.6 from 9.5, while the company outlook index fell sharply to 3.0 from 10.4. Input price pressures intensified, with the index rising to 35.6 from 33.5, while selling-price growth eased to 8.9 from 14.2. Capital spending also weakened to 6.0 from 11.5. Labor-market conditions softened, with the employment index falling to 0.8 from 2.6, although wages and benefits edged higher. Looking ahead, firms remained optimistic, with the future general business activity index rising to 18.6 from 16.8."
+    },
+    {
+      "id": "5071318",
+      "time": "2026-09-01 22:41:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "德克薩斯州馬拉松加爾維斯頓灣煉油廠報告稱，鼓風機正以手動模式執行，以便進行減震器維修。"
+    },
+    {
+      "id": "5071317",
+      "time": "2026-09-01 22:41:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛秋平會見福特汽車公司總裁兼執行長吉姆·法利一行】據“南昌釋出”，9月1日，江西省委常委、南昌市委書記盛秋平會見了福特汽車公司總裁兼執行長吉姆·法利一行。盛秋平指出，希望福特汽車堅定在昌發展信心，持續深化與江鈴集團合作，不斷健全合作對接機制，進一步創新合作模式、拓展合作領域，助推南昌汽車產業轉型升級。南昌將持續打造近悅遠來的營商環境，強化要素保障、提升服務效能，全力支援福特汽車及廣大合作伙伴在昌發展。吉姆·法利表示，南昌區位優勢明顯、產業基礎紮實、營商環境優越、發展前景廣闊，福特汽車高度重視在昌業務發展，將進一步深化與江鈴集團務實合作，充分發揮各自優勢，把握發展趨勢、共享發展機遇，攜手拓展國際市場，推動江鈴集團發展邁上新臺階，為南昌經濟社會高質量發展注入新的動能。"
+    },
+    {
+      "id": "5071316",
+      "time": "2026-09-01 22:40:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SONOS將向第三方人工智慧助手開放其音訊平臺。"
+    },
+    {
+      "id": "5071315",
+      "time": "2026-09-01 22:39:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【能源ETF創歷史新高】週二，多隻能源板塊交易所交易基金（ETF）盤中重新整理紀錄。道富能源板塊精選SPDR ETF（XLE）觸及自1998年成立以來的歷史盤中新高，該基金尾盤上漲近1%。先鋒能源ETF（VDE）同樣漲約1%，創下自2004年9月成立以來的盤中最高水平。此外，道富標普油氣勘探與生產ETF（XOP）也升至多年高點。同日，菲利普斯66（Phillips 66）、馬拉松石油（Marathon Petroleum）和瓦萊羅能源（Valero Energy）等能源股均創下52周新高，為板塊漲勢提供支撐。"
+    },
+    {
+      "id": "5071314",
+      "time": "2026-09-01 22:39:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國銀行副總裁埃琳·皮亞琴蒂在時報廣場遇刺身亡。"
+    },
+    {
+      "id": "5071313",
+      "time": "2026-09-01 22:38:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞銀在瑞士資本新規博弈中暫獲支援】瑞士議員委員會近日投票支援一項折中方案，允許瑞銀（UBS）以發行債券的方式滿足新資本要求的一半，另一半則需透過增發股權來完成。這意味著瑞銀可大幅降低籌資成本，被市場視為階段性勝利。不過，該方案仍需瑞士議會兩院最終表決，尚未塵埃落定。2023年瑞銀緊急收購瑞信後，瑞士政府著手修訂針對系統重要性銀行的資本規則，擬要求瑞銀持有遠高於當前的資本，以防範其美、英大型子公司一旦崩盤拖累整個集團。瑞銀則堅決反對加碼，認為瑞信倒閉源於商業模式失敗和治理薄弱，而非資本不足。瑞銀計劃採用的AT1債券（應急可轉債）本為銀行提供額外損失緩衝，但此類工具爭議不斷——瑞士當局在救助瑞信時直接將170億美元AT1債券減記至零，持有人蒙受鉅額損失，多起訴訟至今未了結。"
+    },
+    {
+      "id": "5071312",
+      "time": "2026-09-01 22:36:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力股份：公司已生產聯想多款AI PC結構件產品】英力股份在互動平臺表示，公司已生產聯想多款AI PC結構件產品，目前已承接惠普AI PC結構件訂單。當前AI PC產品在客戶新機型中的滲透率、定價情況，屬於客戶機型規劃及商業敏感資訊，公司不便對外披露。"
+    },
+    {
+      "id": "5071311",
+      "time": "2026-09-01 22:36:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農烏克蘭農業遊說組織UCAB：烏克蘭8月食品出口環比下降41.5%，至215萬噸。"
+    },
+    {
+      "id": "5071310",
+      "time": "2026-09-01 22:36:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【君逸數碼：未收到任何關於華為超節點業務借殼上市的相關資訊】9月1日，君逸數碼在互動平臺回覆投資者提問時表示，光宏精密作為公司控股子公司，其生產經營情況良好，產能正按計劃逐步釋放。公司正積極推進光宏精密一期擴產專案，目前正按預定計劃平穩推進，部分產線已進入試執行階段，以有效緩解現有訂單交付壓力。對於公司和華為超節點合作，君逸數碼錶示，公司與華為於2026年7月9日聯合釋出了君逸昇騰超節點智算中心（240P），目前該專案正處於籌建階段。此外，公司未收到任何關於華為超節點業務借殼上市的相關資訊。"
+    },
+    {
+      "id": "5071309",
+      "time": "2026-09-01 22:35:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數下跌0.3%；納斯達克100指數下跌1%。"
+    },
+    {
+      "id": "5071308",
+      "time": "2026-09-01 22:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至9月1日，美軍已引導84艘商船改變航線，使3艘船隻失效，並登船檢查2艘以確保其符合規定。"
+    },
+    {
+      "id": "5071307",
+      "time": "2026-09-01 22:32:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：只要美國官員還在侮辱加拿大，談判就無法恢復。"
+    },
+    {
+      "id": "5071306",
+      "time": "2026-09-01 22:32:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：與美國仍可達成一項互惠交易。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861784593",
+      "time": "2026-09-01 22:32:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國8月達拉斯聯邦儲備銀行服務業商業活動指數為4.2，前值為6.6%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609013861784593",
+      "time": "2026-09-01 22:32:04",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國8月達拉斯聯邦儲備銀行服務業商業活動指數為4.2，前值為6.6%。"
+    },
+    {
+      "id": "5071305",
+      "time": "2026-09-01 22:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱颶風卡琳娜仍為四級颶風，但預計將減弱。"
+    },
+    {
+      "id": "5071304",
+      "time": "2026-09-01 22:31:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "達拉斯聯儲8月德克薩斯州服務業總體商業活動展望指數為4.2，7月為6.6。達拉斯聯儲德克薩斯州服務業收入指數8月為6.6，7月為9.5。"
+    },
+    {
+      "id": "5071303",
+      "time": "2026-09-01 22:31:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯莫斯科交易所：8月交易量達194.9萬億盧布。"
+    },
+    {
+      "id": "5071302",
+      "time": "2026-09-01 22:30:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭副外長：基輔及其周邊地區遭俄羅斯彈道導彈和無人機襲擊，已致12人遇難。"
+    },
+    {
+      "id": "te:markets:580115",
+      "time": "2026-09-01 22:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Rising Global Yields — The S&P/TSX Composite Index fell more than 0.5% to trade below 36,500 on Tuesday amid rising global bond yields. Renewed hostilities in the Middle East lifted oil prices, prompting markets to reassess expectations for interest rate hikes by central banks. The BoC is expected to leave rates unchanged on Wednesday, while Canada’s 10-year yield reached a near two-week high. Financial stocks traded mostly lower, while higher yields also weighed on gold prices, pressuring miners. Agnico Eagle fell nearly 3%, while Barrick, WPM and Franco-Nevada lost about 2%. Tech stocks extended losses, with Shopify down more than 3.5%. In contrast, energy stocks gained, with Canadian Natural, Suncor and Cenovus adding around 2% each."
+    },
+    {
+      "id": "5071301",
+      "time": "2026-09-01 22:29:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼稱，在加拿大最終退出的那場談判中，他們從未認為與美國達成了全面的貿易協議。"
+    },
+    {
+      "id": "5071300",
+      "time": "2026-09-01 22:29:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "卡尼稱，美國在貿易談判中的條件意味著，加拿大產業要麼淪為美國企業的附屬子公司，要麼走向關停。"
+    },
+    {
+      "id": "te:markets:580114",
+      "time": "2026-09-01 22:28:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Enegy Gains and Selic Cut Expectations — The Ibovespa rose nearly 1% to trade close to 179,000 on Tuesday, supported by energy shares and renewed expectations of continued Selic easing. Petrobras gained more than 1.5% as renewed hostilities in the Middle East lifted oil prices, while PRIO added over 1%. Higher energy costs and expectations of a Fed hike pushed global bond yields higher, pressuring financials and broader markets. Still, signs of a gradual moderation in economic activity raised expectations for further Selic cuts, supporting the index. Brazil’s GDP grew 0.5% in the second quarter of 2026, but a decline in household spending reflected weakness for consumers. Although the BCB has begun an easing cycle, the Selic rate remains elevated at 14%. Utilities were mostly higher, while retailers gained about 1%."
+    },
+    {
+      "id": "5071299",
+      "time": "2026-09-01 22:28:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西基準股指BOVESPA <.BVSP>上漲約2%。"
+    },
+    {
+      "id": "5071298",
+      "time": "2026-09-01 22:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：不允許美國讓船隻從霍爾木茲海峽南線透過的企圖】伊朗議會議長卡利巴夫表示，美國想違反諒解備忘錄，讓船隻從霍爾木茲海峽南線透過，伊朗絕不允許。卡利巴夫稱，（美以伊）衝突前，每天至少有120艘船隻透過霍爾木茲海峽，現在的船隻通航量遠不及戰前，霍爾木茲海峽完全由伊朗軍方控制。美國企圖讓幾艘船隻透過該海峽，但遭到伊朗抵抗。卡利巴夫說，“如果該海峽的控制權掌握在美國手中，他們為何還要不斷攻擊伊朗島嶼？美國人謊稱船只可以通行，但這些船隻卻遭到襲擊。”卡利巴夫強調，伊朗掌控了戰場，並讓敵人意識到他們無法阻止伊朗的導彈。在接下來的階段，伊朗將在質和量上都佔據絕對優勢。 (央視新聞)"
+    },
+    {
+      "id": "5071297",
+      "time": "2026-09-01 22:27:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲長期債券轉漲；30年期德國國債收益率至3.81%。"
+    },
+    {
+      "id": "5071296",
+      "time": "2026-09-01 22:26:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國泰海通：樓市新政落地，關注順週期行業】國泰海通釋出研報指出，近期房地產市場新政落地，推行商品住房現房銷售並延長個人住房貸款最長期限。白酒作為與地產關聯的順週期品種，當前基本面築底，有望迎來預期改善。當前，消費行業底部特徵顯現，基本面悲觀預期充分反應，白酒基金重倉比例已跌至歷史低位，隨著風格再平衡及估值修復，疊加宏觀政策催化，預計將呈現結構性機會，率先出清推薦標的。"
+    },
+    {
+      "id": "5071295",
+      "time": "2026-09-01 22:26:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大表示，當“美國人停止玩梗、停止陰陽怪氣、停止裝強硬並開始認真對待時”，我們可以開始與美國進行貿易討論。"
+    },
+    {
+      "id": "5071294",
+      "time": "2026-09-01 22:25:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗訊息，伊朗議長卡利巴夫表示，若美國加大圍堵力度，伊朗必將採取軍事回應。"
+    },
+    {
+      "id": "5071293",
+      "time": "2026-09-01 22:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼在被問及美國官員侮辱加拿大一事時表示，\"這有失他們的身份\"。"
+    },
+    {
+      "id": "5071292",
+      "time": "2026-09-01 22:23:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞洲開發銀行將於9月28日提前贖回5億美元2028年到期、票面利率4.875%的債券。"
+    },
+    {
+      "id": "5071291",
+      "time": "2026-09-01 22:22:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【9月1日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平出席上海合作組織成員國元首理事會第二十六次會議並發表重要講話； 2.習近平出席“上海合作組織+”會議並發表重要講話； 3.習近平會見俄羅斯總統； 4.習近平會見烏茲別克總統； 5.習近平會見蒙古國總統；6.習近平圓滿結束出席2026年上海合作組織峰會和對吉爾吉斯斯坦的國事訪問；7.習近平在埃及媒體發表署名文章；8.央視快評：推動上海合作組織實現更高質量發展； 9..彭麗媛出席上海合作組織峰會配偶集體活動； 10.李強會見美中貿易全國委員會董事會代表團； 11.光伏發電裝機首次超越煤電 成為我國第一大電源； 12.全國中小學幼兒園迎來秋季新學期； 13.西藏吉隆縣泥石流災害搶險救援工作持續全力推進； 14.國內聯播快訊： （1）第23屆中國-東盟博覽會將於9月17日—21日在廣西南寧舉辦； （2）中共中央宣傳部等印發《關於組織開展2026年“全民國防教育月”活動的通知》； （3）2026年《開學第一課》今晚在總檯央視綜合頻道播出； 15.多國人士積極評價習近平主席在上合組織峰會上的重要講話 國際人士讚賞中國推動各國共同發展； 16.“讀懂中國之治”讀書分享會特別節目在中吉兩國主流媒體同步播出； 17.國際聯播快訊： （1）俄就軍演計劃向日本駐俄使館提出交涉； （2）伊稱絕不容忍美利用地區國家對伊侵略。"
+    },
+    {
+      "id": "5071290",
+      "time": "2026-09-01 22:22:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國醫生完成尼日首例微創關節鏡前交叉韌帶重建術】近日，第25批援尼日中國醫療隊完成尼日首例微創關節鏡前交叉韌帶重建手術。手術填補了尼日微創膝關節韌帶修復領域的技術空白，為當地膝關節韌帶損傷患者提供了新的治療選擇。（新華社）"
+    },
+    {
+      "id": "5071289",
+      "time": "2026-09-01 22:22:18",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "原創"
+      ],
+      "text": "【9月1日增減持彙總】9月1日盤後，據不完全統計，包括怡亞通、恆工精密、維宏股份、九州一軌、中曼石油、上海洗霸、拱東醫療、今創集團、東北製藥、金域醫學、永臻股份、富春染織在內的12家A股上市公司披露擬減持情況，華廈眼科披露擬增持情況。"
+    },
+    {
+      "id": "5071288",
+      "time": "2026-09-01 22:21:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【近7.79萬億地方債圖譜：新增專項債加速追趕 再融資債佔比過半】今年以來，積極財政政策靠前發力、精準施策的訊號，在地方政府債券市場上得到了充分印證。截至8月末，全國地方政府債券年內發行總量達到77859.14億元。多位市場分析人士表示，當前供給節奏既體現了財政政策“提質增效”的導向，也折射出“穩增長”與“化風險”雙重目標下的統籌平衡。再融資債券放量緩釋償債壓力，新增專項債後半程加速追趕進度，兩者共同構築了地方財政的良性迴圈。（新華財經）"
+    },
+    {
+      "id": "5071287",
+      "time": "2026-09-01 22:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美聯邦航空管理局擬限制特朗普佛州住所附近空域飛行】記者獲悉，美國聯邦航空管理局（FAA）當天表示，擬在佛羅里達州棕櫚灘特朗普國際機場附近實施特殊飛行規定，理由是出於對特朗普位於海湖莊園住所的安全擔憂。美國聯邦航空管理局擬限制該住所周邊半徑約1.85公里、距地面約610米以內空域的飛行活動。（央視新聞）"
+    },
+    {
+      "id": "te:economy:580113",
+      "time": "2026-09-01 22:20:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Economic Optimism Index",
+        "Importance 1"
+      ],
+      "text": "US Economic Optimism Recovers Less than Expected — The RealClearMarkets/TIPP Economic Optimism Index rose to 45.6 in Septemer of 2026 from 45.1 in the previous month, missing expectations of 46.2, but still enough to mark the highest level since March. The gain was caried by greater confidence among investors and higher-income households, offsetting a deterioration in sentiment for non-investors and lower-income households. The six-month outlook rose to 41.3 from 39.9, and the personal financial outlook index fell to 52.7 from 53. Meanwhile, the index measuring confidence in economic policy by the federal government rose to 42.9 from 42.3."
+    },
+    {
+      "id": "5071286",
+      "time": "2026-09-01 22:18:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國財長貝森特淡化霍爾木茲海峽重要性 稱將在兩年內被繞開】美國財政部長斯科特·貝森特週二淡化了霍爾木茲海峽的重要性。他表示，這條在近期衝突中由伊朗控制、對波斯灣能源運輸至關重要的水道，很快將被輸油管道繞開。“將在兩年內被繞開，”貝森特在北卡羅來納州阿什維爾舉行的全球財長會議期間與Larry Kudlow對談時表示。“兩年內，霍爾木茲海峽將像一片毫無價值的水域。”"
+    },
+    {
+      "id": "5071285",
+      "time": "2026-09-01 22:15:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率回吐盤中所有漲幅，現報5.236%，盤中最高上漲5個基點。"
+    },
+    {
+      "id": "5071284",
+      "time": "2026-09-01 22:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "MICRO SYSTEMATION: MSAB與歐洲防務組織簽訂價值2570萬瑞典克朗的重大合同。"
+    },
+    {
+      "id": "5071283",
+      "time": "2026-09-01 22:15:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【雪佛龍將達成協議，運營委內瑞拉奧裡諾科帶兩大油田】雪佛龍(CVX.N)正敲定一項協議，該協議將透過在奧裡諾科地帶增加兩個巨型油田來大幅擴大其在委內瑞拉的業務，這是美國總統特朗普推動該南美國家提高產量的一據知情人士透露，這家得克薩斯州石油公司已就卡拉沃沃地區油田的經營權進行了談判，這些油田擁有數十億桶重油儲量，且毗鄰雪佛龍目前已透過與委內瑞拉國有石油公司委內瑞拉國家石油公司成立的PetroIndependencia合資企業運營的一座大型油田。預計雪佛龍達成的協議將是未來幾天宣佈的數項協議中規模最大的一項。特朗普正推動更多美國資本投資委內瑞拉石油行業。"
+    },
+    {
+      "id": "te:markets:580108",
+      "time": "2026-09-01 22:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Canola Hits 5-week High — Canola increased to 833.60 CAD/T, the highest since July 2026. Over the past 4 weeks, Canola gained 9.56%, and in the last 12 months, it increased 32.1%."
+    },
+    {
+      "id": "5071282",
+      "time": "2026-09-01 22:13:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列農業部：持續缺水可能造成農作物受損。"
+    },
+    {
+      "id": "5071281",
+      "time": "2026-09-01 22:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列農業部：海水淡化廠關停造成農戶用水短缺。"
+    },
+    {
+      "id": "5071280",
+      "time": "2026-09-01 22:12:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果漲幅擴大至2%，報323.2美元。"
+    },
+    {
+      "id": "5071279",
+      "time": "2026-09-01 22:12:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【伊朗稱外匯儲備充足】伊朗中央銀行行長阿卜杜勒納賽爾·赫馬提9月1日表示，儘管受到美國製裁，伊朗外匯儲備依然充足。伊朗塔斯尼姆通訊社援引赫馬提的表態報道，伊朗央行已準備好向外匯市場注入20億美元，以穩定近期波動。伊朗將讓美國知道，伊朗不僅有外匯，且其儲備充足。赫馬提說，儘管伊朗遭遇困難，但經濟從未崩潰，將來也不會崩潰。（新華社）"
+    },
+    {
+      "id": "5071278",
+      "time": "2026-09-01 22:12:12",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【全球債市“壓艙石”鬆動 日本10年期收益率重返3%意味著什麼？】全球債券市場迎來又一個歷史性時刻。9月1日盤中，10年期日債收益率一度升至3%，為1996年10月以來首次突破這一關鍵心理關口。這一變動不僅意味著日本債券市場執行邏輯或迎來根本性轉變，更引發了一場席捲歐美等地的全球債市拋售潮。業內人士表示，這場劇烈拋售恰逢中東局勢再度升級，布倫特原油期貨價格重返每桶91美元上方，通脹擔憂捲土重來。與此同時，美國政府債務突破40萬億美元、日本政府計劃擴大財政支出、科技巨頭為AI基礎設施大規模融資，多重因素疊加，正在深刻重塑全球債券市場的定價邏輯。道富環球投資管理東京高階固定收益策略師提供了一個關鍵洞察，“10年期日債收益率觸及3%無疑是一個里程碑，但我更傾向於將其視為正常化程序，而非危機訊號。市場正在為更高通脹環境、更高中性利率以及日央行進一步加息的預期進行重新定價。”他進一步指出，真正值得關注的不是大規模資金突然迴流，而是日本逐漸“不再成為海外債券的邊際買家”。（新華財經）"
+    },
+    {
+      "id": "te:markets:580104",
+      "time": "2026-09-01 22:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Cisco Systems Stock Price Hits 6-week Low — Cisco Systems shares decreased to 109.22 USD, the lowest since July 2026. Over the past 4 weeks, Cisco Systems lost 5.68%, and in the last 12 months, it increased 61.18%."
+    },
+    {
+      "id": "te:economy:580103",
+      "time": "2026-09-01 22:11:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Construction Spending",
+        "Importance 1"
+      ],
+      "text": "US Construction Spending Falls 0.5% in July — Construction spending in the US fell 0.5% month-over-month to a seasonally adjusted annual rate of $2,158 billion in July 2026, following a upwardly revised flat reading in June and missing market expectations of a flat reading. Residential construction spending fell 1.3%, while nonresidential spending edged up 0.1%. Within the nonresidential sector, the largest declines were recorded in conservation and development (-1.4%), manufacturing (-1%) and public safety (-1%). These were partly offset by gains in office construction (2.9%). Meanwhile, both private (-0.5%), dragged by a 3.2% decline in new single family residential construction spending, and public (-0.2%) construction spending fell over the month. In the first seven months of 2026, total construction spending fell 3.5% from the same period a year earlier to $1.245 trillion."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609013861768231",
+      "time": "2026-09-01 22:10:31",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月建築支出下降0.5% 低於所有預期】美國普查局資料顯示，7月建築支出環比下降0.5%，而預期中值為持平。33位經濟學家預測的區間為下降0.4%至增長0.6%。前值從下降0.1%修正為持平。"
+    },
+    {
+      "id": "5071277",
+      "time": "2026-09-01 22:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍襲擊了PIVDENNYI港的一艘貨船。"
+    },
+    {
+      "id": "5071276",
+      "time": "2026-09-01 22:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼能源部將9月上半月4,100千卡熱值等級煤炭基準價格定為每噸65.06美元。將9月上半月5,300千卡熱值等級煤炭基準價格定為每噸95.05美元。"
+    },
+    {
+      "id": "te:economy:580101",
+      "time": "2026-09-01 22:08:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "US Manufacturing Activity Revised Higher: S&P Global — The S&P Global US Manufacturing PMI was at 53.9 for a third consecutive month in August of 2026, revised higher from the flash estimate of 53.2, and aligned with the initial market expectations. Both output and new order growth eased in the period. Surveyees noted higher cost levels, with input inflation remaining well above the historical levels due to tariff uncertainties and the war in the Middle East, forcing companies to raise their charges. These developments drove firms to cite muted client appetite, resulting in the slowdown for new business. Still, higher production environments had manufacturers raise their purchasing activity for the eighth month running. Looking ahead, companies remained optimistic about their business, underpinning another period of employment growth."
+    },
+    {
+      "id": "te:economy:580100",
+      "time": "2026-09-01 22:08:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Job Quits",
+        "Importance 1"
+      ],
+      "text": "US Job Quits Fall in July — The number of workers voluntarily leaving their jobs in the United States decreased by 157,000 to 3.06 million in July 2026, from a revised 3.21 million in the prior month. Quits fell primarily in accommodation and food services (-86,000); professional and business services (-77,000) and other services (-49,000). By region, quits declined in the West (-265,000) and the Northeast (-22,000) but increase in the Midwest (+114,000) and the South (+16,000). The quits rate edged down to 1.9% from 2%, remaining near its lowest level since 2020 and signaling continued reluctance among workers to quit."
+    },
+    {
+      "id": "5071275",
+      "time": "2026-09-01 22:06:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至8月30日，歐盟2026/27年度軟小麥出口量為416萬噸，上年同期為432萬噸。"
+    },
+    {
+      "id": "5071274",
+      "time": "2026-09-01 22:06:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：拉美智慧手機市場第二季度同比下降12%】根據Omdia的最新分析，拉丁美洲智慧手機市場在2026年第二季度（2Q2026）同比下降12%，至3030萬部。DRAM與NAND成本上漲傳導至零售價格，對入門級裝置的需求衝擊最為沉重。供應商與渠道商在第一季度曾透過前置發貨和庫存緩衝部分緩解了這一影響。這些保護措施在第二季度有所減弱，市場低端面臨的壓力進一步暴露，而中端、高階與旗艦細分市場則仍保持相對韌性。"
+    },
+    {
+      "id": "te:economy:580097",
+      "time": "2026-09-01 22:05:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Confidence",
+        "Importance 3"
+      ],
+      "text": "US Manufacturing Growth Slows in August — The ISM Manufacturing PMI fell to 54.6 in August 2026 from July’s near four-year high of 55.6, below market expectations of 55.2. The reading nevertheless marked the eighth consecutive month of expansion in manufacturing activity, although growth moderated as new orders slowed sharply to 53.7 from 56.7. Production growth was broadly stable at 58.3, compared with 58.5 in July, while employment growth eased to 51.2 from 52.8, pointing to a softer pace of job creation in the sector. Meanwhile, manufacturers continued to highlight rising costs, supply-chain disruptions and heightened uncertainty, with tariffs and the Middle East conflict adding further pressure. The Prices Index remained elevated at 71.1, while the Supplier Deliveries Index rose to 59.3, signaling continued supply-chain delays. The Backlog of Orders Index fell sharply to 51.8, while the Imports Index declined to 52.5, suggesting weaker order pipelines and import activity."
+    },
+    {
+      "id": "5071273",
+      "time": "2026-09-01 22:05:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：西南航空與波蘭航空開啟合作。"
+    },
+    {
+      "id": "5071272",
+      "time": "2026-09-01 22:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：在羧基麥芽糖鐵注射液（INJECTAFER）的標籤中增加黑框警告，以說明低磷血癥風險。"
+    },
+    {
+      "id": "te:economy:580095",
+      "time": "2026-09-01 22:03:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Job Offers",
+        "Importance 3"
+      ],
+      "text": "US Job Openings Below Forecasts — Job openings in the US increased by 89,000 to 7.271 million in July 2026 from a downwardly revised 7.182 million in June, below market expectations of 7.30 million. The number of job openings increased in durable goods manufacturing (+76,000), health care and social assistance (+54,000), wholesale trade (+50,000), and construction (+28,000). On the other hand, job openings fell in transportation, warehousing, and utilities (-67,000) and professional and business services (-65,000). Regionally, openings rose in the Midwest (84,000) and the West (135,000), but fell in the Northeast (-28,000), and the South (-102,000). Over the month, hires and total separations both changed little at 5.1 million. Within separations, quits (3.1 million) and layoffs and discharges (1.7 million) were little changed."
+    },
+    {
+      "id": "5071271",
+      "time": "2026-09-01 22:03:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策負責人：超過10個歐盟國家願意為黎巴嫩任務提供支援。"
+    },
+    {
+      "id": "5071270",
+      "time": "2026-09-01 22:02:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "Waymo：將付費無人駕駛計程車業務拓展至美國丹佛、San Diego、以及Tampa。"
+    },
+    {
+      "id": "5071269",
+      "time": "2026-09-01 22:01:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "GOPRO股票恢復交易後上漲78%。"
+    },
+    {
+      "id": "5071268",
+      "time": "2026-09-01 22:01:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在ISM製造業和JOLTS職位空缺資料公佈後維持漲勢；10年期國債收益率日內漲1.2個基點，報4.77%。"
+    },
+    {
+      "id": "5071267",
+      "time": "2026-09-01 22:01:10",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "市場訊息：雪佛龍公司即將就委內瑞拉奧裡諾科河帶兩處油田的收購達成協議。"
+    },
+    {
+      "id": "5071266",
+      "time": "2026-09-01 22:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘭達收購Untuckit品牌及其業務運營。"
+    },
+    {
+      "id": "5071265",
+      "time": "2026-09-01 22:00:21",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月營建支出月率 -0.5%，預期0%，前值由-0.10%修正為0%。美國7月JOLTs職位空缺 727.1萬人，預期730萬人，前值由735.9萬人修正為718.2萬人。"
+    },
+    {
+      "id": "5071264",
+      "time": "2026-09-01 22:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月ISM製造業物價支付指數 71.1，預期70.5，前值71.1。美國8月ISM就業指數 51.2，預期53，前值52.8。美國8月ISM新訂單指數 53.7，前值56.7。美國8月ISM產出指數 58.3，前值58.5。"
+    },
+    {
+      "id": "5071263",
+      "time": "2026-09-01 22:00:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALAT：大規模生產預計將於2026年底在聯想位於利雅得的製造工廠啟動。"
+    },
+    {
+      "id": "5071262",
+      "time": "2026-09-01 21:59:28",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【貝森特：霍爾木茲海峽將在兩年內實現“繞道通行” 美國將繼續加碼伊朗制裁】美國財長貝森特在G20會議上的爐邊談話中指出，美國能源領域的“3-3-3”計劃針對的是原油當量，自特朗普上任以來，美國日均石油產量已增加160萬至220萬桶。他說，表示必須降低風險，霍爾木茲海峽將在兩年內實現“繞道通行”，屆時該海峽將變成“毫無價值的水域”，石油將透過陸地管道運輸而非霍爾木茲海峽。談及伊朗問題時，他提到，85%-90%的伊朗工廠具備重建能力，且伊朗可能擁有世界第三大能源資源。另外，美國可能將在本週和下週宣佈銀行制裁，並已獲得歐盟、歐洲央行、英國、阿聯酋和巴林的強力支援，對伊朗零容忍，將在經濟上扼殺其發展；美國還將關注與伊朗有關的航空租賃公司。貝森特稱：“我們知道英屬維爾京群島與伊朗有關的賬戶，從伊朗人民那裡竊取的資金可以歸還給他們，也可以用伊朗資金幫助恐怖主義受害者。”"
+    },
+    {
+      "id": "5071261",
+      "time": "2026-09-01 21:58:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳證券資訊有限公司定於9月4日釋出創業板晶片指數】為更好反映創業板相關上市公司發展情況，進一步完善創業板特色指數體系，深圳證券資訊有限公司定於2026年9月4日釋出創業板晶片指數。創業板晶片指數（程式碼 970096）反映創業板晶片領域相關上市公司的股價變化情況，在公司業務涉及半導體材料和裝置、晶片設計、晶片製造、晶片封裝和測試等晶片相關領域的創業板股票中，選取最近半年日均總市值排名前50名作為指數樣本。"
+    },
+    {
+      "id": "5071260",
+      "time": "2026-09-01 21:58:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數觸及近一個月低點，最新下跌0.70%。"
+    },
+    {
+      "id": "te:economy:580094",
+      "time": "2026-09-01 21:55:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Canada Manufacturing PMI Holds Expansion — The S&P Global Canada Manufacturing PMI edged lower to 53.0 in August 2026 from 53.5 in July, remaining above the 50.0 no-change threshold for a fifth consecutive month. Production and new orders both increased for the fifth straight month, with output growth accelerating to its fastest pace since April. Employment also rose, with job creation reaching its strongest level since October 2024. Manufacturers increased purchasing activity and marginally raised input inventories, partly reflecting precautionary buying amid concerns over prices and product availability. Input cost inflation remained elevated despite easing, while output price inflation also slowed from July. Meanwhile, business confidence strengthened in August, reaching its highest level since late 2024."
+    },
+    {
+      "id": "5071259",
+      "time": "2026-09-01 21:55:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天孚通訊：瓶頸物料供應緊張狀況已有所緩解】天孚通訊9月1日接受機構調研時表示，2026年上半年瓶頸物料供給短缺對公司階段性業績增長帶來了影響，目前相關瓶頸物料供應緊張狀況已有所緩解，整體呈改善趨勢。後續，公司將持續加強關鍵物料供應鏈管理，提升供應保障能力，盡最大努力保障提產交付。"
+    },
+    {
+      "id": "5071258",
+      "time": "2026-09-01 21:55:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓維資訊：完成4萬股限制性股票回購登出】拓維資訊公告稱，公司已辦理完成限制性股票回購登出手續，本次回購登出涉及3名激勵物件，合計4.00萬股，佔回購前公司總股本的0.0032%，回購總金額為12.64萬元，資金來源為公司自有資金。回購登出完成後，公司總股本由1,259,968,174股變更為1,259,928,174股，控股股東及實際控制人未發生變化，公司股權分佈仍具備上市條件。"
+    },
+    {
+      "id": "5071257",
+      "time": "2026-09-01 21:55:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國國家颶風中心：愛德華加強。"
+    },
+    {
+      "id": "5071256",
+      "time": "2026-09-01 21:54:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "麥肯蒂：希望未來數日釋放66億歐元歐盟和平基金。"
+    },
+    {
+      "id": "5071255",
+      "time": "2026-09-01 21:54:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯別爾哥羅德州遭無人機襲擊，一人死亡。"
+    },
+    {
+      "id": "te:markets:580093",
+      "time": "2026-09-01 21:54:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 4-week Low — Wind Energy Index decreased to 23.42 USD, the lowest since July 2026. Over the past 4 weeks, Wind Energy Index lost 1.22%, and in the last 12 months, it increased 29.21%."
+    },
+    {
+      "id": "5071254",
+      "time": "2026-09-01 21:54:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭國防部長麥肯蒂：呼籲歐盟委員會提前撥付烏克蘭貸款資金。"
+    },
+    {
+      "id": "5071253",
+      "time": "2026-09-01 21:53:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果股價漲幅擴大至1.3%】蘋果股價走高，漲幅擴大至1.3%。訊息面上，約翰 · 特努斯正式出任蘋果執行長。"
+    },
+    {
+      "id": "5071252",
+      "time": "2026-09-01 21:53:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：伊朗的防護屏障必須被摧毀。"
+    },
+    {
+      "id": "5071251",
+      "time": "2026-09-01 21:52:22",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部表示，其今年2.3%的GDP增長預測正在重新評估中，且存在下調傾向。"
+    },
+    {
+      "id": "te:markets:580092",
+      "time": "2026-09-01 21:51:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Canada Hit 4-week Low — TSX decreased to 35978.00 Index Points, the lowest since August 2026. Over the past 4 weeks, Canada Stock Market Index (TSX) gained 0.59%, and in the last 12 months, it increased 25.85%."
+    },
+    {
+      "id": "5071250",
+      "time": "2026-09-01 21:51:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "受貝森特言論影響，AERCAP股價下跌2.1%。"
+    },
+    {
+      "id": "5071249",
+      "time": "2026-09-01 21:51:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：伊朗有機會重新融入全球體系。"
+    },
+    {
+      "id": "5071248",
+      "time": "2026-09-01 21:50:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：伊朗相關資金也可用於賠付受害者。"
+    },
+    {
+      "id": "5071247",
+      "time": "2026-09-01 21:50:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：從伊朗民眾手中竊取的資金可以歸還給他們。"
+    },
+    {
+      "id": "5071246",
+      "time": "2026-09-01 21:49:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：我們知曉英屬維爾京群島存在與伊朗相關聯的賬戶。"
+    },
+    {
+      "id": "5071245",
+      "time": "2026-09-01 21:49:01",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就伊朗及制裁問題表示：將審查航空租賃公司。"
+    },
+    {
+      "id": "5071244",
+      "time": "2026-09-01 21:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：對伊朗零容忍，將在經濟上扼制伊朗。"
+    },
+    {
+      "id": "5071243",
+      "time": "2026-09-01 21:48:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝森特：獲得歐盟、歐洲央行、英國、阿聯酋、巴林的大力支援。"
+    },
+    {
+      "id": "5071242",
+      "time": "2026-09-01 21:48:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：可能在本週和下週宣佈對銀行的制裁。"
+    },
+    {
+      "id": "5071241",
+      "time": "2026-09-01 21:48:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟卡拉斯：將組建防務高階別小組。"
+    },
+    {
+      "id": "te:markets:580091",
+      "time": "2026-09-01 21:47:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "GSCI Hits 12-week High — GSCI increased to 725.00 Index Points, the highest since June 2026. Over the past 4 weeks, GSCI Commodity Index gained 8.3%, and in the last 12 months, it increased 29.9%."
+    },
+    {
+      "id": "5071240",
+      "time": "2026-09-01 21:47:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：對伊朗實施制裁加封鎖將會奏效。"
+    },
+    {
+      "id": "5071239",
+      "time": "2026-09-01 21:47:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅詩蘭黛澄清組織架構調整傳聞】近日，關於雅詩蘭黛集團組織架構調整的傳聞引發市場關注。9月1日，記者從雅詩蘭黛可靠信源獲悉，雅詩蘭黛中國區總裁樊嘉煜跳過亞太區直接向總部彙報的架構調整並非近期發生，而是從2022年開始。 與此同時，財報單列中國區業績則是從2026財年啟動，此事已於去年對外披露。（21財經）"
+    },
+    {
+      "id": "5071238",
+      "time": "2026-09-01 21:47:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：伊朗能源資源或位居全球第三。"
+    },
+    {
+      "id": "5071237",
+      "time": "2026-09-01 21:46:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：伊朗85%-90%的工廠具備重建能力。"
+    },
+    {
+      "id": "5071236",
+      "time": "2026-09-01 21:46:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德就以色列定居點問題回應：將在未來數週內公佈一整套全面措施。"
+    },
+    {
+      "id": "5071235",
+      "time": "2026-09-01 21:46:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【招商證券： 海外與國內宏觀的邊際變化，共同把9月A股推向“更重業績、更重結構”的階段】招商證券研報指出，過去一個月A股走出一輪探底回升。7月科技熱度退潮後的資金再分配，湧向資源品和中小盤，月末又借英偉達財報重燃科技主線。展望9月，海外與國內宏觀的邊際變化，共同把9月A股推向“更重業績、更重結構”的階段：宏觀層面，國內經濟延續“總量不強、產業不弱、結構分化加劇”的特徵，增長由外需與產業投資驅動，美國陷入“增長目標—價格穩定—財政可持續”的三角約束，長端美債利率高位對高久期成長形成估值約束；中觀層面景氣主線高度集中，量價齊升領域仍是結構性行情的主導。結合中觀景氣、盈利能力、籌碼分佈、估值、交易、週期階段和賽道價值等多維度，本期推薦圍繞“算力鏈+出海鏈+低估值改善”方向佈局，重點關注電子（半導體、電子化學品）、電力裝置（電池、電網裝置）、機械裝置（通用裝置、專用裝置）、化學制藥、農林牧漁（種植業、養殖業）和煤炭等。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609013861751282",
+      "time": "2026-09-01 21:45:38",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國8月份製造業採購經理指數報53.9】美國8月份製造業採購經理指數報53.9，預估為53.2。"
+    },
+    {
+      "id": "5071234",
+      "time": "2026-09-01 21:45:05",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國8月標普全球製造業PMI終值 53.9，前值53.2。"
+    },
+    {
+      "id": "5071233",
+      "time": "2026-09-01 21:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：（談及攔截導彈表示）歐盟國家正在審視各自的庫存。"
+    },
+    {
+      "id": "5071232",
+      "time": "2026-09-01 21:44:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓薩蘭加尼東南35公里處發生5.2級地震。"
+    },
+    {
+      "id": "5071231",
+      "time": "2026-09-01 21:44:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：土耳其總統埃爾多安在比什凱克與俄羅斯總統普京會晤。"
+    },
+    {
+      "id": "5071230",
+      "time": "2026-09-01 21:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克稱人工智慧將把全球經濟提高20%-30%。"
+    },
+    {
+      "id": "5071229",
+      "time": "2026-09-01 21:43:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克預計人工智慧將顯著提高生產力。"
+    },
+    {
+      "id": "5071228",
+      "time": "2026-09-01 21:43:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電網向西藏吉隆縣泥石流災區捐贈3000萬元】9月1日，國家電網公司向西藏吉隆縣泥石流災區捐贈3000萬元，支援西藏吉隆抗災救災和災後重建工作。（國家電網）"
+    },
+    {
+      "id": "5071227",
+      "time": "2026-09-01 21:43:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：石油將透過陸上管道運輸，而非霍爾木茲海峽。"
+    },
+    {
+      "id": "5071226",
+      "time": "2026-09-01 21:42:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：霍爾木茲海峽將變成“一文不值的水域”。"
+    },
+    {
+      "id": "5071225",
+      "time": "2026-09-01 21:42:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "大眾汽車管理委員會已決定終止四家德國工廠的生產：埃姆登和茨維考工廠將於2031年停產，漢諾威工廠2032年停產，內卡蘇爾姆工廠2034年停產。"
+    },
+    {
+      "id": "5071224",
+      "time": "2026-09-01 21:42:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：人工智慧潛力巨大，但風險也很大。"
+    },
+    {
+      "id": "5071223",
+      "time": "2026-09-01 21:41:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.00%，現報11188.78點。英偉達跌2.30%，博通跌2.18%，美光跌2.76%，英特爾跌3.90%，AMD跌3.70%，高通跌4.07%，臺積電跌0.40%，阿斯麥跌1.96%。"
+    },
+    {
+      "id": "te:markets:580087",
+      "time": "2026-09-01 21:41:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Shopify Stock Price Hits 4-week Low — Shopify shares decreased to 198.12 CAD, the lowest since August 2026. Over the past 4 weeks, Shopify Inc gained 14.44%, and in the last 12 months, it increased 3.52%."
+    },
+    {
+      "id": "5071222",
+      "time": "2026-09-01 21:41:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：霍爾木茲海峽兩年內將實現“繞道通行”。"
+    },
+    {
+      "id": "5071221",
+      "time": "2026-09-01 21:41:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【柳鋼股份：披露重組報告書修訂稿修訂說明】柳鋼股份公告稱，公司擬發行股份及支付現金向廣西柳州鋼鐵集團有限公司收購廣西鋼鐵集團有限公司13%股權並募集配套資金。因收到上交所稽核問詢函及交易方案調整，公司對重組報告書進行修訂補充，於2026年8月6日披露重組報告書（修訂稿）。本次修訂涉及交易對方情況、標的資產基本情況、標的資產評估情況、管理層討論與分析、同業競爭與關聯交易等章節內容。"
+    },
+    {
+      "id": "te:markets:580086",
+      "time": "2026-09-01 21:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.44% Lower — The Dow Jones Index is losing 235 points. Losses were led by Alphabet (-2.21%), Nvidia (-2.03%) and Caterpillar (-1.74%). Offsetting the fall, top gainers were Merck (1.84%), J&J (1.63%) and Chevron (1.49%)."
+    },
+    {
+      "id": "5071220",
+      "time": "2026-09-01 21:39:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：可能會看到更多拉丁美洲國家迴歸。"
+    },
+    {
+      "id": "te:markets:580085",
+      "time": "2026-09-01 21:39:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Schneider Electric Stock Price Hits 4-week Low — Schneider Electric shares decreased to 289.80 EUR, the lowest since August 2026. Over the past 4 weeks, Schneider Electric gained 0.02%, and in the last 12 months, it increased 37.45%."
+    },
+    {
+      "id": "5071219",
+      "time": "2026-09-01 21:39:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：西半球正迎來由阿根廷引領的世代性機遇。"
+    },
+    {
+      "id": "5071218",
+      "time": "2026-09-01 21:39:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "Fervo Energy與谷歌簽署396兆瓦地熱供電協議後，股價飆升13.9%。"
+    },
+    {
+      "id": "5071217",
+      "time": "2026-09-01 21:38:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍事情報機構稱，烏克蘭襲擊了俄羅斯列寧格勒地區的諾瓦泰克石油綜合體。"
+    },
+    {
+      "id": "5071216",
+      "time": "2026-09-01 21:38:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：安倍經濟學是通貨再膨脹政策，日本可以坐享其成了。"
+    },
+    {
+      "id": "5071215",
+      "time": "2026-09-01 21:37:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，美國擬透過一項史無前例的協議獲取委內瑞拉1/5石油儲量的開發權益，但埃克森美孚等大型油企仍持謹慎態度。"
+    },
+    {
+      "id": "5071214",
+      "time": "2026-09-01 21:37:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "X-ENERGY股價在抹去開盤跌幅後，因波動劇烈而暫停交易。"
+    },
+    {
+      "id": "5071213",
+      "time": "2026-09-01 21:37:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《出版物市場管理規定》修訂稿公開徵求意見】記者9月1日獲悉，國家新聞出版署近日對2016年原國家新聞出版廣電總局、商務部公佈實施的《出版物市場管理規定》進行了修訂，現向社會公開徵求意見。(新華社)"
+    },
+    {
+      "id": "5071212",
+      "time": "2026-09-01 21:36:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛科通訊：向特定物件發行A股募資不超48.05億元】盛科通訊公告，公司披露2026年度向特定物件發行A股股票預案，擬向不超過35名特定物件發行不超過4100萬股，募集資金總額預計不超過48.05億元，擬用於下一代高效能交換晶片研發和產業化專案、下一代互聯軟體、硬體和協議研究專案及補充流動資金。方案已獲第二屆董事會第十五次會議審議透過，尚需股東會審議透過、上交所稽核透過並經中國證監會同意註冊。"
+    },
+    {
+      "id": "5071211",
+      "time": "2026-09-01 21:36:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "HUMAIN-REFLECTION的首個通用模型計劃在沙特HUMAIN的基礎設施上部署。"
+    },
+    {
+      "id": "5071210",
+      "time": "2026-09-01 21:36:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃隆·馬斯克在G20科技會議上表示，歐盟的科技監管“抑制了新技術的進步”。"
+    },
+    {
+      "id": "5071209",
+      "time": "2026-09-01 21:35:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【瑞士百達財富管理：從估值水平看，A股和港股在全球都有吸引力】管理資產規模約9550億美元的瑞士百達財富管理近日釋出年度旗艦報告《前瞻·十年》，聚焦“全球資源博弈新格局”，展望未來十年的全球經濟發展趨勢，並分析各類資產的長期回報以及策略資產配置。報告指出，在人工智慧（AI）、能源安全及供應鏈韌性日益受到重視的背景下，新興市場正迎來新的發展機遇，中國正邁向增速更趨穩健的長期增長模式，並聚焦戰略重點領域的發展。瑞士百達高管接受記者採訪時表示，從估值水平看，A股和港股在全球都有吸引力。（證券時報）"
+    },
+    {
+      "id": "te:markets:580084",
+      "time": "2026-09-01 21:35:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Drop Sharply — US stocks fell on Tuesday on growing concerns that tight financial conditions will hamper economic growth. The S&P 500 and the Dow fell up to 0.7%, while the Nasdaq 100 fell nearly 2%. Strikes between the US and Iran in the Persian Gulf prolonged the suspension of energy exports from the region and added to pro-inflationary risks on the global economy, consolidating the likelihood that major central banks are due to restart their hiking cycles this year. On top of that, soaring AI corporate debt issuance added to credit supply and lifted yields further. Tech stocks led the losses on tightened credit conditions, with Marvell, Intel, Oracle, and Tesla dropping around 3%. Meanwhile, Nvidia dropped 2% despite te $35 billion computing deal between Lambda, where the chip giant has a large stake, and Anthropic. Meanwhile, asset managers fell further with Blackstone and KKR dropping 4% each."
+    },
+    {
+      "id": "5071208",
+      "time": "2026-09-01 21:35:06",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "在美國上市的貴金屬礦業公司股價下跌，追隨黃金和白銀價格走低。安哥拉黃金下跌2.7%，巴里克礦業下跌2.3%，和諧黃金下跌1.5%。"
+    },
+    {
+      "id": "5071207",
+      "time": "2026-09-01 21:34:49",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利將Robinhood評級由“持有”上調至“增持”，該股上漲1%。"
+    },
+    {
+      "id": "5071206",
+      "time": "2026-09-01 21:34:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALUMIS股價暴跌53%，因其狼瘡藥物未能達到中期試驗目標。"
+    },
+    {
+      "id": "5071205",
+      "time": "2026-09-01 21:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張小泉：透過前置鎖價與供應鏈協同有效平抑原材料漲價壓力】張小泉在投資者關係活動中表示，針對原材料價格波動，對特種鋼材依賴度低，對塑膠類大宗材料採用提前備貨、鎖定長協價格等方式對沖風險，透過供應鏈體系建設與前置鎖價策略組合，有效平抑成本壓力，保障盈利水平穩定。"
+    },
+    {
+      "id": "5071204",
+      "time": "2026-09-01 21:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "MDC 8月銷量358萬噸，同比增長5.6%。"
+    },
+    {
+      "id": "5071203",
+      "time": "2026-09-01 21:34:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "盈透證券集團股價下跌3.4%；瑞銀將其評級從買入下調至中性。"
+    },
+    {
+      "id": "5071202",
+      "time": "2026-09-01 21:33:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：自特朗普上任以來，我們的原油日產量增加了160萬至220萬桶。"
+    },
+    {
+      "id": "5071201",
+      "time": "2026-09-01 21:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：OpenAI創始人奧特曼就兒童聊天機器人安全法案與美國加州州長紐森進行了溝通。"
+    },
+    {
+      "id": "te:markets:580082",
+      "time": "2026-09-01 21:32:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lam Research Stock Price Hits 4-week Low — Lam Research shares decreased to 293.56 USD, the lowest since August 2026. Over the past 4 weeks, Lam Research lost 0.21%, and in the last 12 months, it increased 203%."
+    },
+    {
+      "id": "5071200",
+      "time": "2026-09-01 21:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：我的能源3‑3‑3計劃針對的是原油當量。"
+    },
+    {
+      "id": "5071199",
+      "time": "2026-09-01 21:32:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "美敦力上調2027財年業績預測後股價上漲4.3%。"
+    },
+    {
+      "id": "5071198",
+      "time": "2026-09-01 21:31:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "普渡大學：美國農民信心在8月份上升。美國8月份農業景氣指數升至135。"
+    },
+    {
+      "id": "te:markets:580079",
+      "time": "2026-09-01 21:30:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Chevron Stock Price Hits 22-week High — Chevron shares increased to 209.33 USD, the highest since March 2026. Over the past 4 weeks, Chevron gained 6.71%, and in the last 12 months, it increased 27.38%."
+    },
+    {
+      "id": "5071197",
+      "time": "2026-09-01 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.63%，標普500指數跌0.70%，納指跌1.32%。Strategy跌4.20%，NBIS跌4.01%，黑石跌3.87%，CoreWeave跌3.55%，英特爾跌3.51%，Astera Labs Inc跌3.39%。“七姐妹”方面：蘋果跌0.18%，英偉達跌1.68%，谷歌跌1.73%，微軟跌1.85%，特斯拉跌2.08%，亞馬遜跌2.41%，Meta Platforms跌2.44%。"
+    },
+    {
+      "id": "te:markets:580078",
+      "time": "2026-09-01 21:30:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Pfizer Stock Price Hits 22-month High — Pfizer shares increased to 28.86 USD, the highest since October 2024. Over the past 4 weeks, Pfizer gained 15.14%, and in the last 12 months, it increased 15.37%."
+    },
+    {
+      "id": "5071196",
+      "time": "2026-09-01 21:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALUMIS股價暴跌56%，創歷史新低，跌至1月份以來的最低點。"
+    },
+    {
+      "id": "te:markets:580077",
+      "time": "2026-09-01 21:30:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Altria Stock Price Hits 4-week High — Altria shares increased to 69.42 USD, the highest since July 2026. Over the past 4 weeks, Altria gained 1.17%, and in the last 12 months, it increased 2.88%."
+    },
+    {
+      "id": "5071195",
+      "time": "2026-09-01 21:30:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.07%，現報11296.63點。英偉達跌1.90%，博通跌1.65%，美光跌2.35%，英特爾跌3.35%，AMD跌2.63%，高通跌2.67%，臺積電漲0.53%，阿斯麥跌0.88%。"
+    },
+    {
+      "id": "5071194",
+      "time": "2026-09-01 21:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，蔚來跌4.26%，樂信跌2.89%，信也科技跌4.09%，萬國資料跌1.93%，再鼎醫藥跌1.59%。"
+    },
+    {
+      "id": "te:markets:580075",
+      "time": "2026-09-01 21:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Goldman Sachs Stock Price Hits 4-week Low — Goldman Sachs shares decreased to 1001.00 USD, the lowest since July 2026. Over the past 4 weeks, Goldman Sachs lost 0.11%, and in the last 12 months, it increased 40.37%."
+    },
+    {
+      "id": "te:markets:580074",
+      "time": "2026-09-01 21:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Analog Devices Stock Price Hits 4-week Low — Analog Devices shares decreased to 355.22 USD, the lowest since August 2026. Over the past 4 weeks, Analog Devices lost 1.81%, and in the last 12 months, it increased 43.09%."
+    },
+    {
+      "id": "5071193",
+      "time": "2026-09-01 21:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大8月標普全球製造業採購經理人指數 53，前值53.5。"
+    },
+    {
+      "id": "te:markets:580073",
+      "time": "2026-09-01 21:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The United States Stock Market Index (US500) Hit 4-week Low — US500 decreased to 7635.00 Index Points, the lowest since August 2026. Over the past 4 weeks, United States Stock Market Index (US500) gained 1.13%, and in the last 12 months, it increased 19.8%."
+    },
+    {
+      "id": "5071192",
+      "time": "2026-09-01 21:30:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "MAREX FINANCIAL 為擬議的美國IPO提供潛在的英國零售報價。"
+    },
+    {
+      "id": "5071191",
+      "time": "2026-09-01 21:29:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家天然氣公司稱，俄羅斯週二襲擊了敖德薩地區的一座熱電廠。"
+    },
+    {
+      "id": "5071190",
+      "time": "2026-09-01 21:28:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "貝森特重申：美國債券市場近期表現最佳。"
+    },
+    {
+      "id": "5071189",
+      "time": "2026-09-01 21:27:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府宣佈撥款5800萬美元，為夏威夷全境配備新型救護車並升級緊急通訊系統。"
+    },
+    {
+      "id": "5071188",
+      "time": "2026-09-01 21:27:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家石油局：巴西7月份石油產量達到450萬桶/日，同比增長13.6%。巴西7月份天然氣產量達到2.1497億立方米，同比增長12.6%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609013861723217",
+      "time": "2026-09-01 21:27:23",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國財長貝森特談及債券收益率表示，這顯示通脹預期持平或下降。"
+    },
+    {
+      "id": "te:markets:580072",
+      "time": "2026-09-01 21:26:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Novartis Stock Price Hits All-time High — Novartis shares increased to an all-time high of 131.62 CHF. Over the past 4 weeks, Novartis gained 5.69%, and in the last 12 months, it increased 30.02%."
+    },
+    {
+      "id": "5071187",
+      "time": "2026-09-01 21:26:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就債券收益率發表看法：顯示通脹預期持平或下降。"
+    },
+    {
+      "id": "5071186",
+      "time": "2026-09-01 21:26:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "GOPRO股票將於紐約時間上午10點恢復交易。"
+    },
+    {
+      "id": "5071185",
+      "time": "2026-09-01 21:26:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福壽園：獲龔海林提出部分要約】福壽園(01448)公佈，於2026年9月1日，要約人龔海林女士有確實意向提出部分要約(遵照收購守則)，以要約價每股要約股份0.1港元收購最多1.15億股要約股份(佔受要約公司於本公告日期已發行股本約4.96%)。要約價較股份於最後交易日在聯交所所報的收市價每股2.64港元折讓約96.21%。"
+    },
+    {
+      "id": "5071184",
+      "time": "2026-09-01 21:25:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西石油監管機構ANP稱，7月巴西石油和天然氣產量達到590萬桶油當量/日。"
+    },
+    {
+      "id": "5071183",
+      "time": "2026-09-01 21:23:01",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "以色列謝克爾兌美元在以色列央行降息25個基點後貶值1.2%。"
+    },
+    {
+      "id": "te:markets:580071",
+      "time": "2026-09-01 21:22:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Arabica Coffee Futures at Over 2-Month Low — Arabica coffee futures eased toward $3 per pound, reaching their lowest since late June, pressured by expectations of higher output from top producer Brazil. The 2026/27 coffee harvest was 97% complete by August 26, according to Safras & Mercado, with Arabica at 96% and the country on track for a potentially record crop..Rabobank echoed the favorable supply outlook, saying it still expects a “very comfortable” global coffee balance in 2026/27, with a surplus of 8.9 million bags. However, it noted that delays in Brazil and earthquake-related problems in Colombia are keeping stocks tight, with significant replenishment unlikely before November.. Arabica coffee stocks monitored by ICE continued to fall, reaching 223,976 bags by August 31, the lowest level in 27 years. Meanwhile, next year’s harvest remained in focus, with the outlook clouded by erratic weather and the risk of a strong El Niño potentially delaying critical rainfall during the September-October flowering period."
+    },
+    {
+      "id": "5071182",
+      "time": "2026-09-01 21:22:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率升至4.37%，為2025年2月以來最高水平。"
+    },
+    {
+      "id": "5071181",
+      "time": "2026-09-01 21:22:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永杉鋰業：更新定增相關申請檔案 事項尚待稽核】永杉鋰業公告稱，公司此前收到上交所出具的向特定物件發行股票申請檔案稽核問詢函，已完成問詢回覆並披露。現根據上交所進一步稽核意見及公司2026年半年度財務資料等資訊，公司會同中介機構對稽核問詢函回覆及募集說明書等申請檔案進行了補充更新。本次向特定物件發行A股股票事項尚需上交所稽核透過，並獲得中國證監會同意註冊後方可實施，相關事項進展及時間存在不確定性。"
+    },
+    {
+      "id": "5071180",
+      "time": "2026-09-01 21:22:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚與聯合國秘書長古特雷斯舉行會談。"
+    },
+    {
+      "id": "5071179",
+      "time": "2026-09-01 21:21:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：GoPro將在交易完成時全額償還約9200萬美元債務。"
+    },
+    {
+      "id": "5071178",
+      "time": "2026-09-01 21:20:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "GoPro達成最終協議，將與Starman Optical合併。"
+    },
+    {
+      "id": "5071177",
+      "time": "2026-09-01 21:20:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康惠股份：持股5%以上股東減持計劃實施完成】康惠股份公告稱，公司持股5%以上股東上海創響盈企業管理合夥企業（有限合夥）減持計劃已實施完畢。2026年7月16日至8月31日期間，創響盈透過集中競價方式累計減持公司股份99.88萬股，佔公司總股本的0.94%，減持價格區間為38.09元/股至41元/股，減持總金額為3802.21萬元。本次減持後，創響盈持有公司股份499.40萬股，持股比例降至4.69%。"
+    },
+    {
+      "id": "5071176",
+      "time": "2026-09-01 21:20:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST新元：撤銷退市風險警示 繼續實施其他風險警示】*ST新元公告稱，公司股票將於2026年9月2日停牌一天，9月3日開市起復牌。自復牌之日起，深交所撤銷對公司股票交易的退市風險警示，股票簡稱由“*ST新元”變更為“ST新元”，股票程式碼仍為300472，同時繼續被實施其他風險警示。公司仍存在破產重整申請受理不確定、2026年若相關財務指標不達標將再被實施退市風險警示等風險。"
+    },
+    {
+      "id": "5071175",
+      "time": "2026-09-01 21:19:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【樂道L60完成第11萬臺交付，超半數由傳統豪華品牌置換】樂道L60近日在上海南翔蔚來交付中心完成第11萬臺交付。作為樂道品牌首款車型，樂道L60搭載行業首個量產全域900V高壓架構、首個車企自研的整車全域作業系統SkyOS·天樞，定位中型SUV科技旗艦。據悉，樂道L60超七成使用者來自燃油車增換購群體，超半數使用者由傳統豪華品牌、主流合資品牌置換而來。上半年，在傑蘭路釋出的純電中型SUV滿意度排行中，樂道L60獲產品淨滿意度第一。同時，中國汽車流通協會和精真估聯合釋出《2026上半年中國汽車保值率研究報告》中，樂道L60位列2026上半年純電中型SUV一年保值率第一。（新浪科技）"
+    },
+    {
+      "id": "5071174",
+      "time": "2026-09-01 21:19:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司宣佈，自9月1日起將航空煤油對分銷商的售價上調13.9%。"
+    },
+    {
+      "id": "5071173",
+      "time": "2026-09-01 21:18:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“沙德爾”再度加強為颱風 江南華南等地有強降雨】9月1日，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房城鄉建設部、交通運輸部等部門以及福建、浙江等7個重點省份聯合會商，研判颱風和強降雨發展趨勢，部署防汛防颱風工作。會商指出，今年第18號颱風“沙德爾”殘渦9月1日凌晨加強並再度發展為颱風，正向閩粵沿海靠近。預計未來三天江南、華南東部和南部等地部分地區有大到暴雨，局地大暴雨或特大暴雨，降雨持續時間長且與前期落區重疊，防汛防颱風形勢不容樂觀。（央視新聞）"
+    },
+    {
+      "id": "5071172",
+      "time": "2026-09-01 21:17:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【氣象部門開展吉隆口岸天地一體化協同觀測】多源觀測資料加快轉化為預報員可直接使用的實況分析產品。國家氣象資訊中心實時提供受災區域地面和三維大氣實況分析產品，對降水、氣溫、風、溼度以及高空環流、水汽輸送、對流不穩定能量等關鍵氣象條件進行監測分析。各類協同觀測資料經實時採集和質量控制後接入氣象大資料雲平臺“天擎”，在“天擎·實況”、“風雲地球”、一體化平臺西藏應急專版等業務系統實時共享，直接服務天氣會商、預報預警和決策服務。（介面新聞）"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609013861718695",
+      "time": "2026-09-01 21:17:50",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行官員SIMKUS表示，“很明顯”我們應該在9月份加息。"
+    },
+    {
+      "id": "5071171",
+      "time": "2026-09-01 21:16:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行西姆庫斯：新的預測可能會小幅上調利率路徑。"
+    },
     {
       "id": "5071170",
       "time": "2026-09-01 21:16:17",
