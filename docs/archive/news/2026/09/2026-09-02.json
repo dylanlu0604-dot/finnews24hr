@@ -1,7 +1,31 @@
 {
   "date": "2026-09-02",
-  "count": 330,
+  "count": 333,
   "items": [
+    {
+      "id": "mkt:01a05e79-da6c-7118-8443-adb3682ba08a",
+      "time": "2026-09-02 03:37:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media quoted Khuzestan province deputy security chief saying a site near Ahvaz was struck by a missile attack carried out by a US‑backed terrorist group."
+    },
+    {
+      "id": "5071601",
+      "time": "2026-09-02 03:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：支援梅斯·米德爾頓參選得克薩斯州總檢察長。"
+    },
+    {
+      "id": "5071600",
+      "time": "2026-09-02 03:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿瓦頓與沙特阿美數字公司宣佈達成戰略合作伙伴關係，將在沙烏地阿拉伯及全球範圍內推動工業人工智慧落地發展。"
+    },
     {
       "id": "mkt:01a05e76-9309-7118-8443-a369533ab071",
       "time": "2026-09-02 03:33:44",
