@@ -1,7 +1,47 @@
 {
   "date": "2026-09-02",
-  "count": 341,
+  "count": 345,
   "items": [
+    {
+      "id": "mkt:01a05e8c-1605-7118-8443-d3f8461bee75",
+      "time": "2026-09-02 03:57:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state TV said a U.S. strike killed at least 4 and seriously injured 35 at a wedding near Sirik; the U.S. had no immediate comment."
+    },
+    {
+      "id": "5071607",
+      "time": "2026-09-02 03:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：美國對伊朗錫裡克附近一處婚禮發動襲擊，造成至少四人死亡、三十五人重傷。"
+    },
+    {
+      "id": "mkt:01a05e89-533f-7118-8443-cae09ea0d0b6",
+      "time": "2026-09-02 03:54:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported air-defense activity over eastern Tehran minutes ago."
+    },
+    {
+      "id": "te:markets:580173",
+      "time": "2026-09-02 03:54:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Gilead Sciences Stock Price Hits 26-week High — Gilead Sciences shares increased to 149.62 USD, the highest since March 2026. Over the past 4 weeks, Gilead Sciences gained 13.95%, and in the last 12 months, it increased 32.6%."
+    },
     {
       "id": "mkt:01a05e87-5051-7118-8443-c4855c94ad15",
       "time": "2026-09-02 03:52:01",
