@@ -1,7 +1,216 @@
 {
   "date": "2026-09-01",
-  "count": 1965,
+  "count": 1989,
   "items": [
+    {
+      "id": "mkt:01a05cdc-2e63-7118-8436-54ab8aeaf36e",
+      "time": "2026-09-01 20:05:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. geothermal company Fervo Energy said it will give Google (GOOG.O) an option to expand a power purchase agreement by 600 MW to nearly 1 GW, exercisable before June 2030."
+    },
+    {
+      "id": "5071001",
+      "time": "2026-09-01 20:05:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿維塔 8 月交付 8,082 輛。"
+    },
+    {
+      "id": "5071000",
+      "time": "2026-09-01 20:05:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "FERVO ENERGY：谷歌擬為猶他州潛在資料中心採購無碳能源。"
+    },
+    {
+      "id": "5070999",
+      "time": "2026-09-01 20:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "VinFast 暫停印度部分電動汽車的生產計劃。"
+    },
+    {
+      "id": "5070998",
+      "time": "2026-09-01 20:04:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "FERVO ENERGY：谷歌擁有選擇權，可在2030年6月前將承購規模擴大至近1吉瓦。"
+    },
+    {
+      "id": "mkt:01a05cdb-8950-7118-8436-4c80edbb00d4",
+      "time": "2026-09-01 20:04:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "U.S. geothermal company Fervo Energy said Google (GOOG.O) will purchase carbon-free energy to provide baseload power for a potential data center in Utah."
+    },
+    {
+      "id": "mkt:01a05cdb-41d6-7118-8436-4608d8cfa467",
+      "time": "2026-09-01 20:04:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GOOG.O",
+        "Impact bullish",
+        "ORA.O"
+      ],
+      "text": "U.S. geothermal firm Fervo Energy signed a 396-MW power purchase agreement with Google (GOOG.O)."
+    },
+    {
+      "id": "5070997",
+      "time": "2026-09-01 20:04:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團：自收購瑞士信貸以來，將被要求增持約300億美元的額外一級資本。"
+    },
+    {
+      "id": "mkt:01a05cda-f7d8-7118-8436-3bce8424b7ac",
+      "time": "2026-09-01 20:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia welcomed a memorandum of understanding between Iran and the United States, but regretted the ceasefire had proven fragile."
+    },
+    {
+      "id": "5070996",
+      "time": "2026-09-01 20:03:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團：根據WAK-S提出的建議，瑞銀母公司（UBS AG）需對其海外子公司的投資提供全額資本支援，其中核心一級資本（CET1）佔比須達50%，額外一級資本（AT1）最高可佔50%，而現行法律規定的資本支援比例為45%核心一級資本和15%額外一級資本。"
+    },
+    {
+      "id": "5070995",
+      "time": "2026-09-01 20:03:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國前首相斯塔默發文將辭去議員職務】當地時間9月1日，英國前首相斯塔默在社交媒體發文稱將辭去英國議會議員職務。斯塔默目前代表倫敦霍爾本和聖潘克拉斯選區，如斯塔默辭去議員職務，將觸發補選。英國方面訊息稱，斯塔默在接受採訪時說，能夠代表這一選區是“巨大的榮譽和特權”，他表示，“今後將把重點放在國際事務上，包括國防、安全、貿易和科技等領域”。7月3日，斯塔默在宣佈離任英國首相但尚未正式卸任期間曾表示，他將繼續擔任議員直至下一次選舉。（央視新聞）"
+    },
+    {
+      "id": "5070994",
+      "time": "2026-09-01 20:03:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團支援對瑞士銀行業監管做出定向調整，要求調整符合國際接軌原則、比例適當原則，並著眼於解決瑞信危機的根源問題。"
+    },
+    {
+      "id": "5070993",
+      "time": "2026-09-01 20:03:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞銀：相關建議或將帶來 “大幅” 成本上漲。"
+    },
+    {
+      "id": "5070992",
+      "time": "2026-09-01 20:03:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【前8月百強房企賣房超兩萬億】業內機構資料顯示，今年前8月，百強房企全口徑銷售總額20175.9億元。央國企佔據頭部之餘，彼此間的競爭也在拉大，本月中國海外發展（00688.HK）來到銷售榜首。市場層面的變數在同步發酵。月末多部門出臺住房銷售、房地產信貸管理等新政後，有一線銷售人員稱購房者諮詢量、來訪量提升，房貸新規等或將進一步影響市場需求。（第一財經）"
+    },
+    {
+      "id": "5070991",
+      "time": "2026-09-01 20:02:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團：認可瑞士聯邦院經濟事務與稅務委員會（WAK-S）所做工作。"
+    },
+    {
+      "id": "5070990",
+      "time": "2026-09-01 20:02:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅進一步擴大至1.20%，報29158.86點。"
+    },
+    {
+      "id": "te:economy:580056",
+      "time": "2026-09-01 20:02:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Bond Yield Hits 19-month High — US 10 Year Government Bond Yield increased to 4.80%, the highest since January 2025. Over the past 4 weeks, US 10 Year Note Bond Yield gained 11.30 basis points, and in the last 12 months, it increased 52.90 basis points."
+    },
+    {
+      "id": "5070989",
+      "time": "2026-09-01 20:02:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度煤炭公司 27 財年 8 月煤炭供應量增長 5.5%。"
+    },
+    {
+      "id": "5070988",
+      "time": "2026-09-01 20:02:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【月租10萬美元並非稀罕事 紐約富豪大量湧入使曼哈頓住宅租金創新高】紐約曼哈頓租賃市場持續升溫，一批有能力購置數千萬美元豪宅的富裕人群正開始轉向租房，進一步推高當地住宅租金。據報道，今年7月曼哈頓租金中位數升至每月5000美元，創下歷史新高；平均租金同比上漲15%，達6306美元。與此同時，曼哈頓租賃市場整體供應依然偏緊。相關市場資料顯示，當月曼哈頓可出租住宅庫存同比下降39.3%。"
+    },
+    {
+      "id": "5070987",
+      "time": "2026-09-01 20:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "幣安：將透過Nest Trading Limited為1000餘隻精選美股和ETF推出期權交易服務。"
+    },
+    {
+      "id": "mkt:01a05cd8-cf5d-7118-8436-341d148ab8d6",
+      "time": "2026-09-01 20:01:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Met Office: preliminary data show summer 2026 was the hottest on record for the UK."
+    },
+    {
+      "id": "5070986",
+      "time": "2026-09-01 20:01:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Fervo 能源與谷歌簽署 396 兆瓦購電協議。"
+    },
+    {
+      "id": "5070985",
+      "time": "2026-09-01 20:01:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國商務部：Meta Platforms(META.O)執行長扎克伯格將透過視訊會議參加以技術為重點的G20會議。"
+    },
+    {
+      "id": "5070984",
+      "time": "2026-09-01 20:01:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列防長稱抓捕一哈馬斯高階成員】以色列國防部長卡茨9月1日稱，不久前，一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）高階成員被捕。但卡茨沒有說明該人員具體身份，也沒有透露由誰實施的抓捕。卡茨說，以軍在加沙城的行動一直在繼續，以方的政策是“不等待威脅出現”，主動追擊哈馬斯成員、挫敗其行動並摧毀其相關基礎設施。據《耶路撒冷郵報》援引一名以色列官員的話報道，被捕的這名武裝人員是哈馬斯安全機構負責人。據以色列公共廣播公司報道，一支與以軍協同作戰的民兵組織成員9月1日進入加沙城，試圖綁架一名哈馬斯高階指揮官，隨後遭到猛烈攻擊。報道稱，以色列空軍隨後對該地區的目標進行了空襲，以便民兵組織成員撤離。（新華社）"
+    },
     {
       "id": "5070983",
       "time": "2026-09-01 20:01:17",
