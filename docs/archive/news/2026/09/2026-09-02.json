@@ -1,7 +1,95 @@
 {
   "date": "2026-09-02",
-  "count": 18,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:01a05dbd-c85e-7118-843e-e8bf3100f72b",
+      "time": "2026-09-02 00:11:53",
+      "tags": [
+        "MKT News",
+        "CAT.N"
+      ],
+      "text": "SEC filing shows Caterpillar (CAT.N) signed a 364-day credit agreement on Aug 27, 2026."
+    },
+    {
+      "id": "5071433",
+      "time": "2026-09-02 00:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱已使84艘商船改變航線】當地時間9月1日，美國中央司令部表示，美軍已使84艘商業船隻改道，另有3艘被迫失去行動能力，並登臨檢查另外2艘船隻，以確保其遵守美國對伊朗實施的海上封鎖。（央視新聞）"
+    },
+    {
+      "id": "te:markets:580143",
+      "time": "2026-09-02 00:11:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.10% Lower — The DAX Index decreased 288 points or 1.10 percent on Tuesday to close at 25970 points. The decline was led by SAP (-3.40%), Rheinmetall (-3.32%) and Scout24 (-2.54%)."
+    },
+    {
+      "id": "mkt:01a05dbc-b457-7118-843e-e783b8020595",
+      "time": "2026-09-02 00:10:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N"
+      ],
+      "text": "Former Ukrainian defense minister Fedorov said Palantir (PLTR.N) CEO Alex Karp will be the first major investor in his newly founded defense-tech company."
+    },
+    {
+      "id": "5071432",
+      "time": "2026-09-02 00:10:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：馬斯克近期重組了SpaceX資料中心領導團隊】The Information援引知情人士報道稱，埃隆·馬斯克近幾周對SpaceX負責建設資料中心的團隊進行了重組，以SpaceX火箭和衛星網際網路業務的多名高管取代原有部分負責人。此前，SpaceXAI位於田納西州和密西西比州的現有資料中心設施出現一些土木工程方面的擔憂及持續可靠性問題。加入AI基礎設施團隊的SpaceX管理人員包括，SpaceX“獵鷹”和“龍飛船”火箭前生產副總裁Wesley Salandro，以及SpaceX Starbase發射基地產品支援運營主管Logan McConnell。報道還稱，SpaceXAI近期從馬斯克旗下腦機介面公司Neuralink招入一名工程師，協助處理土木工程相關工作。"
+    },
+    {
+      "id": "te:markets:580141",
+      "time": "2026-09-02 00:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.39% Lower — The CAC 40 Index fell 33 points or 0.39 percent on Tuesday to close at 8302 points. Leading the losses are Stellantis NV (-3.13%), STMicroelectronics (-2.82%) and Pernod Ricard (-2.71%). Top gainers were TotalEnergies SE (2.81%), Air Liquide (2.15%) and Carrefour (2.07%)."
+    },
+    {
+      "id": "5071431",
+      "time": "2026-09-02 00:09:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲： 伊朗此次最新回應絕非普通警告，而是一份正式宣告：伊朗的威懾理論已經發生演變。其中傳遞的資訊十分明確：其武裝力量的實力必將令敵人追悔莫及。我們知曉，你們已於昨日的‘絕密’緊急會議上承認了這一點。"
+    },
+    {
+      "id": "mkt:01a05dba-e091-7118-843e-dbbb4f7a28aa",
+      "time": "2026-09-02 00:08:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Interfax: Russia's foreign minister, responding to German accusations that Moscow attempted a drone attack on an airport, said Russia will respond to all anti-Russian actions."
+    },
+    {
+      "id": "5071430",
+      "time": "2026-09-02 00:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部就德國指控俄羅斯策劃機場無人機襲擊未遂一事表態：俄羅斯將對所有反俄行為作出回應。"
+    },
     {
       "id": "te:markets:580139",
       "time": "2026-09-02 00:07:04",

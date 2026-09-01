@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-02 00:08:34",
-  "count": 12371,
+  "updated": "2026-09-02 00:12:43",
+  "count": 12373,
   "items": [
+    {
+      "id": "mkt:01a05dbd-c85e-7118-843e-e8bf3100f72b",
+      "time": "2026-09-02 00:11:53",
+      "tags": [
+        "MKT News",
+        "CAT.N"
+      ],
+      "text": "SEC filing shows Caterpillar (CAT.N) signed a 364-day credit agreement on Aug 27, 2026."
+    },
+    {
+      "id": "5071433",
+      "time": "2026-09-02 00:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱已使84艘商船改變航線】當地時間9月1日，美國中央司令部表示，美軍已使84艘商業船隻改道，另有3艘被迫失去行動能力，並登臨檢查另外2艘船隻，以確保其遵守美國對伊朗實施的海上封鎖。（央視新聞）"
+    },
+    {
+      "id": "te:markets:580143",
+      "time": "2026-09-02 00:11:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.10% Lower — The DAX Index decreased 288 points or 1.10 percent on Tuesday to close at 25970 points. The decline was led by SAP (-3.40%), Rheinmetall (-3.32%) and Scout24 (-2.54%)."
+    },
+    {
+      "id": "mkt:01a05dbc-b457-7118-843e-e783b8020595",
+      "time": "2026-09-02 00:10:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N"
+      ],
+      "text": "Former Ukrainian defense minister Fedorov said Palantir (PLTR.N) CEO Alex Karp will be the first major investor in his newly founded defense-tech company."
+    },
+    {
+      "id": "5071432",
+      "time": "2026-09-02 00:10:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：馬斯克近期重組了SpaceX資料中心領導團隊】The Information援引知情人士報道稱，埃隆·馬斯克近幾周對SpaceX負責建設資料中心的團隊進行了重組，以SpaceX火箭和衛星網際網路業務的多名高管取代原有部分負責人。此前，SpaceXAI位於田納西州和密西西比州的現有資料中心設施出現一些土木工程方面的擔憂及持續可靠性問題。加入AI基礎設施團隊的SpaceX管理人員包括，SpaceX“獵鷹”和“龍飛船”火箭前生產副總裁Wesley Salandro，以及SpaceX Starbase發射基地產品支援運營主管Logan McConnell。報道還稱，SpaceXAI近期從馬斯克旗下腦機介面公司Neuralink招入一名工程師，協助處理土木工程相關工作。"
+    },
+    {
+      "id": "te:markets:580141",
+      "time": "2026-09-02 00:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.39% Lower — The CAC 40 Index fell 33 points or 0.39 percent on Tuesday to close at 8302 points. Leading the losses are Stellantis NV (-3.13%), STMicroelectronics (-2.82%) and Pernod Ricard (-2.71%). Top gainers were TotalEnergies SE (2.81%), Air Liquide (2.15%) and Carrefour (2.07%)."
+    },
+    {
+      "id": "5071431",
+      "time": "2026-09-02 00:09:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲： 伊朗此次最新回應絕非普通警告，而是一份正式宣告：伊朗的威懾理論已經發生演變。其中傳遞的資訊十分明確：其武裝力量的實力必將令敵人追悔莫及。我們知曉，你們已於昨日的‘絕密’緊急會議上承認了這一點。"
+    },
+    {
+      "id": "mkt:01a05dba-e091-7118-843e-dbbb4f7a28aa",
+      "time": "2026-09-02 00:08:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Interfax: Russia's foreign minister, responding to German accusations that Moscow attempted a drone attack on an airport, said Russia will respond to all anti-Russian actions."
+    },
+    {
+      "id": "5071430",
+      "time": "2026-09-02 00:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部就德國指控俄羅斯策劃機場無人機襲擊未遂一事表態：俄羅斯將對所有反俄行為作出回應。"
+    },
     {
       "id": "te:markets:580139",
       "time": "2026-09-02 00:07:04",
@@ -113275,76 +113363,6 @@
         "XAUUSD"
       ],
       "text": "Canadian minister pledged to take retaliatory measures against any new US tariffs targeting the auto sector."
-    },
-    {
-      "id": "te:markets:578020",
-      "time": "2026-08-26 00:12:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.34% Higher — The FTSE MIB Index gained 178 points or 0.34 percent on Tuesday to close at 52720 points. Gains were led by Tenaris (3.54%), Prysmian (2.68%) and Infrastrutture Wire (2.24%). Biggest losers were Moncler (-1.91%), Brunello Cucinelli (-1.89%) and Davide Campari-Milano (-1.21%)."
-    },
-    {
-      "id": "te:markets:578019",
-      "time": "2026-08-26 00:11:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.61% Higher — The DAX Index went up by 160 points or 0.61 percent on Tuesday to close at 26266 points. The rise was led by Scout24 (4.58%), Siemens Energy (2.70%) and Zalando (2.61%). On the downside, the weakerst performers were Adidas (-1.71%), Siemens Healthineers (-1.61%) and BASF (-1.43%)."
-    },
-    {
-      "id": "te:markets:578018",
-      "time": "2026-08-26 00:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.16% Lower — The CAC 40 Index fell 14 points or 0.16 percent on Tuesday to close at 8439 points. Leading the losses are Renault (-3.46%), Kering (-3.38%) and BNP Paribas (-2.21%). Top gainers were Legrand (2.55%), Schneider Electric (1.61%) and Safran (1.59%)."
-    },
-    {
-      "id": "5058378",
-      "time": "2026-08-26 00:09:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【短影片文案引爭議，德芙致歉】德芙發表致歉宣告：“針對近日德芙官方旗艦店某短影片文案引發的批評與討論，我們深感抱歉。經核查，該短影片由第三方店鋪運營團隊創作併發布，未嚴格執行品牌方的內容稽核流程。涉事文案在表達方式和價值導向上存在明顯不當，與德芙一直努力傳遞的真誠、溫暖和尊重的品牌理念不符。事件發生後，店鋪客服團隊對消費者質疑作出了不恰當的回應。目前，已採取以下整改措施：第一時間下架涉事短影片；進一步加強對相關責任人員的必要培訓，和對合作運營團隊的管理；嚴格落實內容釋出的稽核機制，提升消費者的品牌體驗。 ”"
-    },
-    {
-      "id": "5058377",
-      "time": "2026-08-26 00:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "Instagram負責人亞當·莫塞裡已抵達法院，出席美國各州指控Meta的庭審。"
-    },
-    {
-      "id": "5058376",
-      "time": "2026-08-26 00:08:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府將把汽油補貼延長至9月9日。"
-    },
-    {
-      "id": "mkt:01a039ae-3989-7aab-9116-f086de785eb7",
-      "time": "2026-08-26 00:08:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Brazilian government will extend its gasoline subsidy until Sept. 9 local time."
     }
   ]
 }
