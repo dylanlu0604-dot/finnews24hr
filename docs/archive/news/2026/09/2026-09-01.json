@@ -1,7 +1,102 @@
 {
   "date": "2026-09-01",
-  "count": 2034,
+  "count": 2045,
   "items": [
+    {
+      "id": "te:economy:580059",
+      "time": "2026-09-01 20:21:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "India’s Current Account Deficit Widens on Higher Trade Gap — India’s current account deficit widened to $4.2 billion, or 0.5% of GDP, in Q1 of fiscal 2026-27, from $3.4 billion, or 0.4% of GDP, a year earlier. The increase was driven by a wider goods trade deficit, which rose to $86.1 billion from $68.9 billion as imports jumped 20% to $218.0 billion amid higher energy prices, while exports grew 17.1% to $132.0 billion. The impact was partly offset by an improvement in the primary income balance, with the deficit narrowing to $10.5 billion from $13.3 billion. Meanwhile, the services surplus rose to $51.6 billion from $47.9 billion, while the secondary income surplus increased to $40.8 billion from $30.9 billion."
+    },
+    {
+      "id": "5071037",
+      "time": "2026-09-01 20:20:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "與唐納德·特朗普之子小唐納德·特朗普有關聯的風險投資公司1789 Capital正在牽頭為預測市場公司Polymarket籌集一輪新的10億美元融資。這輪融資將使這家預測市場初創公司的估值達到210億美元。"
+    },
+    {
+      "id": "5071036",
+      "time": "2026-09-01 20:20:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三維通訊：實控人李越倫減持計劃屆滿 累計減持799.82萬股】三維通訊公告稱，公司實際控制人李越倫減持計劃於2026年8月31日屆滿，期間透過集中競價方式累計減持公司股份7,998,200股，佔公司總股本的0.9935%，未超過此前計劃減持的800萬股上限。本次減持前李越倫合計持有公司股份7691.27萬股，佔總股本9.5539%；減持後合計持有6891.45萬股，佔總股本8.5604%。本次減持符合相關監管規定，實際減持情況與此前披露的減持計劃一致。"
+    },
+    {
+      "id": "5071035",
+      "time": "2026-09-01 20:20:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金風科技：累計回購A股股份耗資3.00億元】金風科技公告稱，截至2026年8月31日，公司透過集中競價交易方式累計回購A股股份1301.66萬股，約佔公司總股本的0.31%，最高成交價24.00元/股，最低成交價16.70元/股，累計成交總金額3.00億元（不含交易費用）。本次回購資金來源為自有資金，回購價格未超過調整後的39.64元/股的回購價格上限，回購股份將全部登出並減少註冊資本。"
+    },
+    {
+      "id": "mkt:01a05ce9-720b-7118-8436-df03feba4e76",
+      "time": "2026-09-01 20:19:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Poland's defense procurement nearly quadrupled since 2022, shifting supply chains back to Central Europe】Poland increased defense purchases from domestic firms and Central European joint ventures from about 8.0 bln zloty in 2022 to 30.4 bln zloty in 2025, nearly fourfold. Core defense spending is projected at 53.0 bln euros in 2026, roughly 4.7% of GDP, and active and related military personnel exceed 220,000. Arms orders are shifting from long-distance imports to onshore and Central European near‑shore production, while large-scale equipment deliveries are widening fiscal deficits; Poland expects a 2027 deficit of about 7.1% of GDP."
+    },
+    {
+      "id": "mkt:01a05ce8-dd60-7118-8436-d218e475e583",
+      "time": "2026-09-01 20:19:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "India ordered a cut in diesel export duty to 1 rupee per litre from 3 rupees per litre."
+    },
+    {
+      "id": "5071034",
+      "time": "2026-09-01 20:18:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度將柴油出口關稅從每升3盧比下調至每升1盧比。"
+    },
+    {
+      "id": "5071033",
+      "time": "2026-09-01 20:18:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：基石機器人公司宣佈與美敦力達成戰略合作，共同拓展機器人輔助手術的全球可及性。"
+    },
+    {
+      "id": "5071032",
+      "time": "2026-09-01 20:18:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美眾議院尋求對消費者金融保護局進行重大改革】美國眾議院金融服務委員會主席、阿肯色州共和黨眾議員弗倫奇·希爾（French Hill），以及領導該委員會金融機構小組委員會的肯塔基州共和黨眾議員安迪·巴爾（Andy Barr），週二提出了一項法案，尋求對消費者金融保護局（CFPB）進行重大改革。CFPB長期以來一直是共和黨的主要改革目標。該法案將透過國會為CFPB提供資金，使這一機構更加直接地受國會議員控制。目前，消費者金融保護局的資金來自美聯儲轉撥，而這種資金安排一直存在爭議。該法案還將針對CFPB的規則制定程式建立新的監管護欄。其中包括允許白宮管理和預算辦公室（OMB）主任羅素·沃特（Russ Vought）在重大規則正式生效後的最長八年內，對這些規則進行追溯性審查。"
+    },
+    {
+      "id": "te:markets:580058",
+      "time": "2026-09-01 20:17:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Allianz Stock Price Hits All-time High — Allianz shares increased to an all-time high of 453.60 EUR. Over the past 4 weeks, Allianz gained 4.74%, and in the last 12 months, it increased 28.01%."
+    },
     {
       "id": "mkt:01a05ce7-60e6-7118-8436-cd2b2c4139dc",
       "time": "2026-09-01 20:17:42",
@@ -208,6 +303,14 @@
         "其他"
       ],
       "text": "Cinven 任命多米尼克・史密斯擔任首席財務官兼營運長，9 月 1 日生效。"
+    },
+    {
+      "id": "5071017",
+      "time": "2026-09-01 20:12:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院共和黨人提議法案以改革消費者金融保護局。"
     },
     {
       "id": "mkt:01a05ce2-280e-7118-8436-80154f87dfb1",
