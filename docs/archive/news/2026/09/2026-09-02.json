@@ -1,7 +1,15 @@
 {
   "date": "2026-09-02",
-  "count": 340,
+  "count": 341,
   "items": [
+    {
+      "id": "mkt:01a05e87-5051-7118-8443-c4855c94ad15",
+      "time": "2026-09-02 03:52:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s health ministry said an attack on Kuhistak village in Hormozgan province killed multiple people, including a child, and wounded more than 50; local power and phone services have been cut."
+    },
     {
       "id": "mkt:01a05e85-8170-7118-8443-bd3cfbb1b8a3",
       "time": "2026-09-02 03:50:02",

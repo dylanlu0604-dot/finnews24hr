@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-02 03:50:38",
+  "updated": "2026-09-02 03:54:42",
   "count": 12479,
   "items": [
+    {
+      "id": "mkt:01a05e87-5051-7118-8443-c4855c94ad15",
+      "time": "2026-09-02 03:52:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s health ministry said an attack on Kuhistak village in Hormozgan province killed multiple people, including a child, and wounded more than 50; local power and phone services have been cut."
+    },
     {
       "id": "mkt:01a05e85-8170-7118-8443-bd3cfbb1b8a3",
       "time": "2026-09-02 03:50:02",
@@ -114363,14 +114371,6 @@
         "國際"
       ],
       "text": "OpenAI執行長Sam Altman：我們造出了一款晶片，它速度很快。"
-    },
-    {
-      "id": "5058488",
-      "time": "2026-08-26 03:54:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊朗與卡達外長通電話】伊朗外交部長阿拉格齊與卡達國首相兼外交大臣於本週二下午舉行電話會談。通話期間，雙方梳理了地區最新局勢，強調應運用外交手段、持續開展協調，避免地區緊張局勢進一步升級。"
     }
   ]
 }
