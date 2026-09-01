@@ -1,7 +1,91 @@
 {
   "date": "2026-09-02",
-  "count": 27,
+  "count": 35,
   "items": [
+    {
+      "id": "te:markets:580146",
+      "time": "2026-09-02 00:15:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Inflationary Pressures — The CAC 40 fell 0.4% to close at 8,302 on Thursday, reversing early gains and tracking broader weakness in global equities. Rising oil prices amid escalating Middle East tensions added to inflationary pressures, while investors increased bets on further ECB tightening. Higher energy costs and expectations of a Fed hike also pushed global bond yields higher. Eurozone inflation accelerated for a second consecutive month to 3.3% in August, in line with forecasts and the highest since September 2023. Luxury stocks fell, with LVMH down 1.8%, L’Oreal losing 1.4%, Hermes shedding 2.4% and Kering tumbling 2.7%. Industrials also declined, led by Safran (-2.6%) and Thales (-2.1%). Tech stocks tracked losses in Wall Street chipmakers. In contrast, TotalEnergies gained 2.7% on higher oil prices, while Air Liquide rose 2.1% after reports that Elliott Investment Management had built a stake."
+    },
+    {
+      "id": "mkt:01a05dc1-274d-7118-843e-fde48819db59",
+      "time": "2026-09-02 00:15:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil futures rose 3.00% intraday to $88.90 per barrel."
+    },
+    {
+      "id": "5071437",
+      "time": "2026-09-02 00:14:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：有報道稱伊朗南部傳來爆炸聲，涉及格什姆島、阿巴斯港、恰巴哈爾以及科納拉克港。"
+    },
+    {
+      "id": "5071436",
+      "time": "2026-09-02 00:14:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報93.22美元/桶。"
+    },
+    {
+      "id": "5071435",
+      "time": "2026-09-02 00:13:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破93美元/桶，日內漲2.80%。"
+    },
+    {
+      "id": "mkt:01a05dbf-27a3-7118-843e-f670fff55deb",
+      "time": "2026-09-02 00:13:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says 84 commercial vessels diverted】Sept 1 — CENTCOM said U.S. forces have diverted 84 commercial vessels, rendered three inoperable and boarded and inspected two others to enforce a U.S.-imposed maritime blockade of Iran."
+    },
+    {
+      "id": "5071434",
+      "time": "2026-09-02 00:13:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國農業部長羅林斯：美國將於本週釋出牛肉標籤相關公告。"
+    },
+    {
+      "id": "te:markets:580145",
+      "time": "2026-09-02 00:12:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 1.33% Lower — The FTSE MIB Index dropped 698 points or 1.33 percent on Tuesday to close at 51915 points. Losses were led by Poste Italiane (-3.98%), Telecom Italia (-3.38%) and Brunello Cucinelli (-3.33%)."
+    },
     {
       "id": "mkt:01a05dbd-c85e-7118-843e-e8bf3100f72b",
       "time": "2026-09-02 00:11:53",
