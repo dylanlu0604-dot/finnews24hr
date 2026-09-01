@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-02 00:25:10",
-  "count": 12381,
+  "updated": "2026-09-02 00:29:13",
+  "count": 12382,
   "items": [
+    {
+      "id": "mkt:01a05dcc-9577-7118-843f-4041b1c74cae",
+      "time": "2026-09-02 00:28:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Poland's Prime Minister Tusk said Russia is escalating tensions across the region; Poland will continue to support Ukraine and strengthen NATO coordination to counter the Russian threat."
+    },
+    {
+      "id": "mkt:01a05dcc-3bd6-7118-843f-3ae8804a5bdc",
+      "time": "2026-09-02 00:27:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Kyiv mayor: a fire has broken out on a vacant lot near a residential area in Sviatoshyn district; emergency responders are en route."
+    },
+    {
+      "id": "5071448",
+      "time": "2026-09-02 00:26:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面報道：霍爾木茲甘省副省長表示，截至目前，霍爾木茲甘暫無人員受傷及相關事件報告。"
+    },
+    {
+      "id": "mkt:01a05dcb-05f5-7118-843f-30a36b4e298d",
+      "time": "2026-09-02 00:26:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media report the deputy governor of Hormozgan province said there have been no casualties or accidents reported in the province so far."
+    },
+    {
+      "id": "5071447",
+      "time": "2026-09-02 00:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：斯維亞託申斯基區一處私人住宅附近的開闊地帶發生火災。 應急救援部門正趕赴現場。"
+    },
     {
       "id": "5071446",
       "time": "2026-09-02 00:24:16",
@@ -113425,45 +113471,6 @@
         "其他"
       ],
       "text": "聯合國秘書長古特雷斯：絕對主導的時代已經落幕。世界主要大國誤判了自身影響力，全球力量格局正在轉變，重塑著大國權力關係。"
-    },
-    {
-      "id": "5058388",
-      "time": "2026-08-26 00:27:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗總統承認該國正面臨經濟危機，並表示戰爭遲早會結束。"
-    },
-    {
-      "id": "mkt:01a039be-2238-7aab-9117-47efe49bf8ca",
-      "time": "2026-08-26 00:25:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman foreign minister says he will hold discussions with regional partners to support peace, cooperation, regional stability and freedom of navigation."
-    },
-    {
-      "id": "mkt:01a039bd-dc82-7aab-9117-3c347441f325",
-      "time": "2026-08-26 00:25:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Oman's foreign minister said, citing Article 5 of the Islamabad Memorandum, the country will in due course advance management arrangements and a permanent solution for the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:01a039bd-b27d-7aab-9117-30c1cd039c8e",
-      "time": "2026-08-26 00:25:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Oman’s foreign minister said he hopes a temporary corridor arrangement for the Strait of Hormuz and specific measures to restore safe navigation will be announced soon."
     }
   ]
 }
