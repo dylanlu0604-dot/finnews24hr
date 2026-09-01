@@ -1,7 +1,36 @@
 {
   "date": "2026-09-02",
-  "count": 300,
+  "count": 303,
   "items": [
+    {
+      "id": "5071583",
+      "time": "2026-09-02 03:12:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣期貨價格升至2023年以來最高水平】隨著美國對伊朗發動新一輪打擊，歐洲天然氣基準期貨價格飆升至2023 年1月以來最高水平。作為歐洲天然氣基準的荷蘭近月期貨價格上漲5.9%，至每兆瓦時73.95歐元。"
+    },
+    {
+      "id": "mkt:01a05e61-ce04-7118-8443-4917f4039e15",
+      "time": "2026-09-02 03:11:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Hormozgan provincial governor's office accused US hostile forces of a brutal incursion into Iranian territory, saying they struck a residential area in Kostak and again committed war crimes in Hormozgan Province."
+    },
+    {
+      "id": "5071582",
+      "time": "2026-09-02 03:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部恰巴哈爾地區再次發生爆炸。"
+    },
     {
       "id": "5071581",
       "time": "2026-09-02 03:08:57",

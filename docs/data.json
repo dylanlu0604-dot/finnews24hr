@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-02 03:09:59",
-  "count": 12461,
+  "updated": "2026-09-02 03:14:04",
+  "count": 12460,
   "items": [
+    {
+      "id": "5071583",
+      "time": "2026-09-02 03:12:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣期貨價格升至2023年以來最高水平】隨著美國對伊朗發動新一輪打擊，歐洲天然氣基準期貨價格飆升至2023 年1月以來最高水平。作為歐洲天然氣基準的荷蘭近月期貨價格上漲5.9%，至每兆瓦時73.95歐元。"
+    },
+    {
+      "id": "mkt:01a05e61-ce04-7118-8443-4917f4039e15",
+      "time": "2026-09-02 03:11:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Hormozgan provincial governor's office accused US hostile forces of a brutal incursion into Iranian territory, saying they struck a residential area in Kostak and again committed war crimes in Hormozgan Province."
+    },
+    {
+      "id": "5071582",
+      "time": "2026-09-02 03:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部恰巴哈爾地區再次發生爆炸。"
+    },
     {
       "id": "5071581",
       "time": "2026-09-02 03:08:57",
@@ -114183,41 +114212,6 @@
         "其他"
       ],
       "text": "市場訊息：OpenAI資料中心主管Chris Malone已經離職。"
-    },
-    {
-      "id": "mkt:01a03a55-8785-7aab-9119-88c5f25ddc71",
-      "time": "2026-08-26 03:11:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's foreign minister said the proposed new Strait of Hormuz corridor, joint sea-mine clearance and a future management framework constitute a typical example."
-    },
-    {
-      "id": "5058477",
-      "time": "2026-08-26 03:10:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥玉米期貨漲1.7%，大豆漲約1.2%】週二（8月25日）紐約尾盤，彭博穀物分類指數漲1.06%，報33.5249點，整體呈現出V形反轉。CBOT玉米期貨漲1.70%，報5.2425美元/蒲式耳。CBOT小麥期貨漲0.71%，報7.0450美元/蒲式耳。CBOT大豆期貨漲1.18%，報12.3825美元/蒲式耳，豆粕期貨漲0.30%，豆油期貨漲0.64%。CBOT瘦肉豬期貨跌0.86%，活牛期貨跌1.30%，飼牛期貨跌1.45%。"
-    },
-    {
-      "id": "mkt:01a03a54-a22e-7aab-9119-8304c9782ac3",
-      "time": "2026-08-26 03:10:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister Araghchi said he emphasized regional solutions in talks with Pakistan and Oman."
-    },
-    {
-      "id": "5058476",
-      "time": "2026-08-26 03:09:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：擬議的新通道框架、聯合排雷行動以及霍爾木茲海峽未來管理模式，就是典型例證。"
     }
   ]
 }
