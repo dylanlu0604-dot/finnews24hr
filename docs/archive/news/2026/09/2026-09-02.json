@@ -1,7 +1,40 @@
 {
   "date": "2026-09-02",
-  "count": 645,
+  "count": 649,
   "items": [
+    {
+      "id": "mkt:01a05f20-0ee6-7118-8447-a15cd9ec799e",
+      "time": "2026-09-02 06:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's finance minister met U.S. Treasury Secretary Scott Bessent at the G20. He said Canada's Plan A is to strengthen domestic economic capacity and expand overseas trade ties, and that Ottawa will continue to advance measures to implement the plan."
+    },
+    {
+      "id": "5071789",
+      "time": "2026-09-02 06:37:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國中央司令部：完成對伊朗境內革命衛隊目標的打擊】美國中央司令部部隊於9月1日完成一輪針對伊朗軍事目標的打擊行動。美軍打擊了伊朗革命衛隊的多處目標，包括防空陣地、雷達系統、海上相關設施與裝備、佈雷能力相關設施以及通訊站點。此次打擊，是針對伊朗革命衛隊近期企圖襲擊霍爾木茲海峽商船以及美方軍事人員所作出的回應。目前有超過5萬名美軍部署在中東各地，保持高度戒備，具備作戰能力，隨時準備繼續執行美國總統下達的作戰指令。"
+    },
+    {
+      "id": "5071788",
+      "time": "2026-09-02 06:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：超過5萬名美軍駐紮在中東。"
+    },
+    {
+      "id": "5071787",
+      "time": "2026-09-02 06:36:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：打擊了伊朗的佈雷能力和通訊設施。"
+    },
     {
       "id": "te:markets:580184",
       "time": "2026-09-02 06:35:04",

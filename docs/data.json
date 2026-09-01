@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-02 06:36:25",
+  "updated": "2026-09-02 06:40:25",
   "count": 12649,
   "items": [
+    {
+      "id": "mkt:01a05f20-0ee6-7118-8447-a15cd9ec799e",
+      "time": "2026-09-02 06:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's finance minister met U.S. Treasury Secretary Scott Bessent at the G20. He said Canada's Plan A is to strengthen domestic economic capacity and expand overseas trade ties, and that Ottawa will continue to advance measures to implement the plan."
+    },
+    {
+      "id": "5071789",
+      "time": "2026-09-02 06:37:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國中央司令部：完成對伊朗境內革命衛隊目標的打擊】美國中央司令部部隊於9月1日完成一輪針對伊朗軍事目標的打擊行動。美軍打擊了伊朗革命衛隊的多處目標，包括防空陣地、雷達系統、海上相關設施與裝備、佈雷能力相關設施以及通訊站點。此次打擊，是針對伊朗革命衛隊近期企圖襲擊霍爾木茲海峽商船以及美方軍事人員所作出的回應。目前有超過5萬名美軍部署在中東各地，保持高度戒備，具備作戰能力，隨時準備繼續執行美國總統下達的作戰指令。"
+    },
+    {
+      "id": "5071788",
+      "time": "2026-09-02 06:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：超過5萬名美軍駐紮在中東。"
+    },
+    {
+      "id": "5071787",
+      "time": "2026-09-02 06:36:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：打擊了伊朗的佈雷能力和通訊設施。"
+    },
     {
       "id": "te:markets:580184",
       "time": "2026-09-02 06:35:04",
@@ -115849,42 +115882,6 @@
         "宏觀"
       ],
       "text": "巴西財政部宣告稱，將於週三公佈年度融資計劃的調整方案。"
-    },
-    {
-      "id": "te:markets:578045",
-      "time": "2026-08-26 06:40:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Canola Rises by 2.54% — Top commodity gainers are Canola (2.54%), Rapeseed (2.10%) and Corn (1.83%). Biggest losers are Sugar (-2.27%) and Coffee (-1.99%)."
-    },
-    {
-      "id": "mkt:01a03b14-0c06-7aab-911b-98b4df8a2de6",
-      "time": "2026-08-26 06:39:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reported Iran's UN ambassador said US economic-pressure actions could have serious consequences and urged all states to reject and condemn US extraterritorial unilateral coercive measures aimed at forcing countries to follow US policy and disregarding their sovereignty and legitimate policies."
-    },
-    {
-      "id": "5058557",
-      "time": "2026-08-26 06:38:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【週期與科技雙線交鋒，百億級私募演繹拉鋸戰】上市公司半年報繪製的“藏寶圖”正持續展開，百億級私募在週期與科技之間展開激烈博弈。作為高毅資產旗下的明星基金經理，鄧曉峰加倉萬華化學、新進北新建材，試圖在化工建材賽道復刻昔日紫金礦業式的週期投資神話；睿郡、聚鳴等機構則扎堆湧入半導體、物聯網及智慧製造領域，持續挖掘科技領域的價值富礦，海康威視更上演了連續減持與連續增持的“多空對峙”，機構間的觀點大相徑庭。不過，喧囂的調倉底牌背後暗藏不確定性，在經歷7月科技股劇烈回撥後，這份投資圖譜或已面目全非，盲目跟風者需警惕成為過期訊號的買單人。（中證報）"
-    },
-    {
-      "id": "5058556",
-      "time": "2026-08-26 06:36:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4670美元/盎司，日內漲0.25%。"
     }
   ]
 }
