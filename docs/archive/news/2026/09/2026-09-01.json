@@ -1,7 +1,135 @@
 {
   "date": "2026-09-01",
-  "count": 1506,
+  "count": 1520,
   "items": [
+    {
+      "id": "te:economy:579910",
+      "time": "2026-09-01 15:26:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hungary Manufacturing Growth Edges Lower in August — Hungary’s Manufacturing PMI edged down to 51.3 in August 2026 from 51.4 in July, remaining above the 50-point threshold that separates expansion from contraction. The reading fell below its long-term monthly average of 52.7 but remained above the average August level of 49.7 recorded over the past three years, indicating continued growth in manufacturing activity despite a slower pace. The moderation reflected weaker new orders, although they remained in expansion territory, while production volumes fell from the previous month but continued to expand. Meanwhile, the purchase price index eased but continued to signal a strong rise in input costs. The employment index edged down but remained in expansion, while both export and import indicators also pointed to continued growth."
+    },
+    {
+      "id": "5070312",
+      "time": "2026-09-01 15:25:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "法國德希尼布能源公司股價上漲6.3%，此前有媒體報道該公司有望與SpaceX達成價值100億美元的火箭燃料生產協議。"
+    },
+    {
+      "id": "mkt:01a05bdc-4aae-7118-842d-e50136f81c6b",
+      "time": "2026-09-01 15:25:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Iran equity market capitalization rises to $103 billion】TASNIM NEWS reports Iran's benchmark equity index climbed in August and early September, lifting the market's USD-denominated capitalization to roughly $103 billion. The USD market cap remains well below its historical peak, indicating rial-denominated gains do not equate to a restoration of prior peak market value."
+    },
+    {
+      "id": "5070311",
+      "time": "2026-09-01 15:25:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣汽埃安：昊鉑埃安BU8月銷量36383輛，連續6個月逆勢正增長 。"
+    },
+    {
+      "id": "te:economy:579905",
+      "time": "2026-09-01 15:25:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Hit 18-Year High as Rate Bets Rise — UK 10-year gilt yields climbed above 5.2%, tracking a broader global bond sell-off and reaching their highest level since June 2008, as rising oil prices and increasingly hawkish signals from major central banks have fueled expectations for higher-for-longer interest rates. Brent crude rose as renewed Middle East hostilities heightened concerns over disruptions to regional energy flows. Markets now price around 32 basis points of BoE tightening by year-end, with a November hike seen as almost 70% likely and a second hike by February priced at around 80%. Rate expectations were also reinforced by the latest British Retail Consortium report, which showed UK shop-price inflation accelerating to its highest level in two years. Meanwhile, Fed Chair Kevin Warsh said inflation has not slowed meaningfully and that the Fed still has “work to do,” prompting markets to price a 66% probability of a September rate hike."
+    },
+    {
+      "id": "mkt:01a05bda-fe37-7118-842d-d8519e168295",
+      "time": "2026-09-01 15:24:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Russian Foreign Ministry spokesperson warned that if actions in the Baltic region appear aimed at Russia, Moscow's response would be devastating."
+    },
+    {
+      "id": "5070310",
+      "time": "2026-09-01 15:24:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【宜家1500多款商品將降價15%至25%】瑞典平價組裝傢俱巨頭宜家將對1500多款商品進行15%至25%的降價，其中主要集中在歐洲市場。這是宜家新一輪降價行動，旨在幫助仍受到高生活成本壓力的消費者。"
+    },
+    {
+      "id": "5070309",
+      "time": "2026-09-01 15:23:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "AMSPEC資料顯示，馬來西亞8月棕櫚油出口量環比下降6.51%。"
+    },
+    {
+      "id": "mkt:01a05bda-58bd-7118-842d-d6a729e42c0a",
+      "time": "2026-09-01 15:23:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ikea to cut prices 15–25% on more than 1,500 items】Ikea will cut prices on over 1,500 items by 15–25%, mainly across European markets. Ingka Group (Ikea’s largest franchisee) and Inter Ikea Group (brand owner) said they will deploy €1.2bn (~$1.4bn) to implement the reductions; exact cuts and timing will vary by country. Notable ranges affected include Billy, Hemnes and Poang. Ingka also plans a €70m package to offset inflation and FX pressure in Asia and North America. Executives said the move aims to ease persistent household financial strain amid high housing costs and lagging wage growth."
+    },
+    {
+      "id": "5070308",
+      "time": "2026-09-01 15:23:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部發言人表示：俄羅斯對波羅的海地區可能出現的反俄行動作出的回應將極具毀滅性。"
+    },
+    {
+      "id": "5070307",
+      "time": "2026-09-01 15:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "AMSPEC資料顯示，馬來西亞8月棕櫚油出口量降至133.5萬噸。"
+    },
+    {
+      "id": "5070306",
+      "time": "2026-09-01 15:23:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾華暫停該專案，此前已報告3起嚴重的免疫效應細胞相關噬血細胞綜合徵病例，併發症最終導致患者死亡。"
+    },
+    {
+      "id": "5070305",
+      "time": "2026-09-01 15:23:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國場外交易日前基準電價上漲7.3%，報每兆瓦時161歐元。"
+    },
+    {
+      "id": "5070304",
+      "time": "2026-09-01 15:22:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗革命衛隊下屬法爾斯通訊社報道，伊朗一名高階陸軍指揮官週二表示，伊朗防空人員已部署在全國3800多個點位，涵蓋沙漠、海岸線、島嶼以及山地地帶。"
+    },
     {
       "id": "5070303",
       "time": "2026-09-01 15:22:17",
