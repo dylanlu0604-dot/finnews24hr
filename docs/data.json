@@ -1,7 +1,99 @@
 {
-  "updated": "2026-09-01 14:54:06",
-  "count": 13096,
+  "updated": "2026-09-01 14:58:02",
+  "count": 13097,
   "items": [
+    {
+      "id": "mkt:01a05bc1-e83d-7118-842c-a24a0e5342d7",
+      "time": "2026-09-01 14:57:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Russian foreign ministry spokesman said deploying 'Typhoon' missiles in Japan would be unacceptable, even if justified as military exercises."
+    },
+    {
+      "id": "5070226",
+      "time": "2026-09-01 14:56:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲4%，現報38290.00元。"
+    },
+    {
+      "id": "5070225",
+      "time": "2026-09-01 14:56:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部發言人：即便以軍事演習為幌子，在日本部署“颱風”導彈也是不可接受的。"
+    },
+    {
+      "id": "5070224",
+      "time": "2026-09-01 14:56:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量874億元。"
+    },
+    {
+      "id": "5070223",
+      "time": "2026-09-01 14:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【柬埔寨國王西哈莫尼和太后莫尼列來華】 柬埔寨國王諾羅敦·西哈莫尼、太后諾羅敦·莫尼列·西哈努克於1日乘專機抵京。(新華社)"
+    },
+    {
+      "id": "mkt:01a05bc0-9f9e-7118-842c-9e8cbb21da70",
+      "time": "2026-09-01 14:55:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Russian Foreign Ministry spokesman urged Japan to return to a pacifist policy and said Russia's sovereignty over the Southern Kurils is indisputable."
+    },
+    {
+      "id": "5070222",
+      "time": "2026-09-01 14:55:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通不再看多美股】在過去兩年的大部分時間裡，摩根大通專注於機構客戶的市場情報交易臺，對市場拐點的把握曾展現出了驚人的準確度。這隻小摩團隊由Andrew Tyler領銜。在最新的立場轉變中，該團隊對美股轉向了“戰術性謹慎/中立”的觀點。Tyler在給客戶的報告中寫道，“換言之，股市基本面雖然依然強勁，但短期變數可能會導致市場橫盤震盪。”"
+    },
+    {
+      "id": "te:economy:579871",
+      "time": "2026-09-01 14:54:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Swiss Retail Sales Beat Expectations — Retail sales in Switzerland rose 2.3% year-on-year in July 2026, accelerating from an upwardly revised 1.9% increase in June and surpassing market expectations of 1.3%. Growth in non-food sales excluding petrol stations strengthened to 1.8% from 1.5%, driven by rebounds in other goods (2.2% vs -1.2%) and sales via stalls and markets, as well as mail-order and internet retail trade (3.8% vs -1.9%). However, growth slowed for information and communication technology products (2.8% vs 13.2%) and other household equipment, textiles, DIY and furnishing supplies (0.8% vs 1.7%), while declines deepened for publishing products, sports equipment and toys (-2.0% vs -0.6%). Overall retail activity was also supported by a return to growth in sales at petrol stations (0.2% vs -7.8%). In contrast, sales of food, beverages and tobacco products eased (1.2% vs 2.0%). On a seasonally adjusted monthly basis, retail activity edged down to 0.1% from 0.3% in June, marking its lowest reading since April."
+    },
+    {
+      "id": "5070221",
+      "time": "2026-09-01 14:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部發言人:俄羅斯呼籲日本返回和平主義政策，庫拉斯群島主權無爭議。"
+    },
+    {
+      "id": "5070220",
+      "time": "2026-09-01 14:53:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：今年秋天 中方將在雄安新區舉辦全球治理論壇】外交部發言人郭嘉昆主持例行記者會。北京日報客戶端記者提問，去年9月，習近平主席鄭重提出全球治理倡議，得到國際社會廣泛積極響應。今天是習近平主席提出全球治理倡議一週年。發言人能否介紹，一年來全球治理倡議取得的進展和成果？郭嘉昆表示，全球治理倡議提出一年來的豐碩成果充分表明，共商共建共享是眾望所歸，堅持多邊主義是普遍共識，構建更加公正合理的全球治理體系是共同期待。中方將繼續堅定維護以聯合國為核心的國際體系，積極支援各類多邊區域合作機制蓬勃發展，共同落實好全球治理倡議。“今年秋天，我們將在雄安新區舉辦全球治理論壇，期待屆時同全球各界人士一道，共商改革完善全球治理大計，攜手邁向人類命運共同體。”郭嘉昆說。 (北京日報)"
+    },
     {
       "id": "mkt:01a05bbe-a60e-7118-842c-92727c140a9e",
       "time": "2026-09-01 14:53:35",
@@ -119413,88 +119505,6 @@
         "其他"
       ],
       "text": "【2026年1-7月我國對外勞務合作業務簡明統計】2026年1-7月，我國企業共向境外派出各類勞務人員27.4萬人，較上年同期增加4.3萬人；其中承包工程項下派出8.3萬人，勞務合作項下派出19.1萬人。月末在外各類勞務人員67.3萬人。"
-    },
-    {
-      "id": "5056898",
-      "time": "2026-08-25 14:57:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈薩克“孔登薩特”煉油廠將加工俄羅斯原油，並將30%的成品油運往俄羅斯。"
-    },
-    {
-      "id": "te:markets:577834",
-      "time": "2026-08-25 14:57:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Turns Higher, Up 0.9% at Close — The TAIEX, Taiwan’s benchmark stock index, climbed 407 points, or 0.9%, to close at 45,169 on Tuesday, reversing weakness in morning trade and erasing losses from the previous session, as electronic technology and technology services rebounded. Electronic technology and technology services rose 0.8% and 1.4%, respectively, while finance advanced 2.1%. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, gained 0.4%, recovering from a 1.5% fall on Monday. Nanya Technology, a major Taiwanese memory chip supplier, rose 1.2% after plunging in morning trade. However, traders were cautious ahead of the release of Taiwan's retail sales and industrial output data after the closing bell. Caution was also evident ahead of the US PCE price data for guidance on the Fed's monetary policy decision at its upcoming meeting, as well as FOMC speeches at the Jackson Hole Symposium."
-    },
-    {
-      "id": "5056897",
-      "time": "2026-08-25 14:56:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚能電池在武漢成立新能源技術公司 註冊資本2.53億】天眼查App顯示，近日，蔚恆壹號（武漢）新能源技術有限公司成立，法定代表人為虞瓊，註冊資本2.53億元，經營範圍含儲能技術服務、蓄電池租賃、電動汽車充電基礎設施運營、電池銷售、資源再生利用技術研發等，由武漢蔚能電池資產有限公司全資持股。"
-    },
-    {
-      "id": "5056896",
-      "time": "2026-08-25 14:56:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部提醒中國公民暫勿前往史瓦濟蘭】當前，史瓦濟蘭安全形勢複雜，電詐網賭犯罪活動猖獗，社會治安等風險極高。外交部和中國駐南非使領館提醒中國公民近期暫勿前往史瓦濟蘭，已在當地中國公民和機構請儘快撤離或轉移至南非等相對安全區域，密切關注局勢發展，加強安全防範和應急準備。如遇緊急情況，請及時報警並與中國駐南非使領館聯絡尋求協助。執意前往或駐留人員將面臨極高安全風險，並影響獲得協助的時效。"
-    },
-    {
-      "id": "5056895",
-      "time": "2026-08-25 14:55:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北斗規模應用宣傳媒體圓桌會在京召開】工業和資訊化部辦公廳、電子資訊司8月24日在北京組織召開北斗規模應用宣傳媒體圓桌會，明確宣傳引導相關要求和工作重點，交流北斗規模應用工作成效，回應媒體關切，加快推動宣傳引導工作落地見效。會議強調，要堅持以新時代北斗精神為引領，立足產業發展實際，緊扣規模應用主線，統籌中央媒體、行業媒體、地方宣傳力量，既要講技術突破、產業成就，更要講落地場景、實際效益，客觀務實展現北斗發展成果，凝聚全社會支援北斗規模應用的共識。下一步，工業和資訊化部將與各專業媒體深化協同合作，紮實開展北斗宣傳推廣工作，共同講好北斗創新發展故事，促進北斗社會影響力持續提升。（工信部）"
-    },
-    {
-      "id": "mkt:01a037b3-c4a9-7aab-9109-853e18d0977e",
-      "time": "2026-08-25 14:55:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "YONHAP reports South Korea has not decided whether to participate in an international economic forum in Russia."
-    },
-    {
-      "id": "5056894",
-      "time": "2026-08-25 14:55:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國西南部遭遇龍捲風 41人受傷】法國西南部奧德省一處村莊24日遭龍捲風襲擊，已造成41人受傷、約300所房屋受損。（新華社）"
-    },
-    {
-      "id": "5056893",
-      "time": "2026-08-25 14:54:40",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭合作銀行：美債回購討論或釋放出“不惜一切代價”訊號】荷蘭合作銀行全球策略師Michael Every認為，美國財政部可能動用政府現金儲備回購債券，看起來像是“不惜一切代價”的訊號。Every在報告中寫道，曾指點過美國財長貝森特的Stan Druckenmiller“顯然並不贊成”這一操作。媒體此前援引兩名美國財政部高階官員的話報道稱，財政部可能動用財政部一般賬戶(TGA)，即財政部存放在美聯儲的現金賬戶來進行債券回購；貝森特週一未釋放更多訊號。"
-    },
-    {
-      "id": "te:economy:577833",
-      "time": "2026-08-25 14:54:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Business Inventories",
-        "Importance 1"
-      ],
-      "text": "Sweden Industrial Inventories Drop in Q2 — Industrial inventories in Sweden dropped by SEK 4.60 billion in the second quarter of 2026, after rising by SEK 11.67 billion in the previous quarter. The decline was solely driven by the manufacturing sector, where inventories fell by SEK 5.15 billion, following an increase of SEK 11.65 billion in the prior period. Within the sector, significant decreases were recorded in the manufacture of chemicals, chemical products and pharmaceutical products (down SEK 2.47 billion), rubber and plastic products and other non-metallic mineral products (down SEK 0.78 billion), and wood and products of wood, cork, cane, etc., except furniture (down SEK 0.64 billion). Meanwhile, stocks held by miners increased by SEK 0.55 billion, following a SEK 0.02 billion rise in the previous quarter."
     }
   ]
 }

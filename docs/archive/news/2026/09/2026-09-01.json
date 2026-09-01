@@ -1,7 +1,99 @@
 {
   "date": "2026-09-01",
-  "count": 1366,
+  "count": 1376,
   "items": [
+    {
+      "id": "mkt:01a05bc1-e83d-7118-842c-a24a0e5342d7",
+      "time": "2026-09-01 14:57:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Russian foreign ministry spokesman said deploying 'Typhoon' missiles in Japan would be unacceptable, even if justified as military exercises."
+    },
+    {
+      "id": "5070226",
+      "time": "2026-09-01 14:56:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲4%，現報38290.00元。"
+    },
+    {
+      "id": "5070225",
+      "time": "2026-09-01 14:56:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部發言人：即便以軍事演習為幌子，在日本部署“颱風”導彈也是不可接受的。"
+    },
+    {
+      "id": "5070224",
+      "time": "2026-09-01 14:56:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量874億元。"
+    },
+    {
+      "id": "5070223",
+      "time": "2026-09-01 14:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【柬埔寨國王西哈莫尼和太后莫尼列來華】 柬埔寨國王諾羅敦·西哈莫尼、太后諾羅敦·莫尼列·西哈努克於1日乘專機抵京。(新華社)"
+    },
+    {
+      "id": "mkt:01a05bc0-9f9e-7118-842c-9e8cbb21da70",
+      "time": "2026-09-01 14:55:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Russian Foreign Ministry spokesman urged Japan to return to a pacifist policy and said Russia's sovereignty over the Southern Kurils is indisputable."
+    },
+    {
+      "id": "5070222",
+      "time": "2026-09-01 14:55:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通不再看多美股】在過去兩年的大部分時間裡，摩根大通專注於機構客戶的市場情報交易臺，對市場拐點的把握曾展現出了驚人的準確度。這隻小摩團隊由Andrew Tyler領銜。在最新的立場轉變中，該團隊對美股轉向了“戰術性謹慎/中立”的觀點。Tyler在給客戶的報告中寫道，“換言之，股市基本面雖然依然強勁，但短期變數可能會導致市場橫盤震盪。”"
+    },
+    {
+      "id": "te:economy:579871",
+      "time": "2026-09-01 14:54:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Swiss Retail Sales Beat Expectations — Retail sales in Switzerland rose 2.3% year-on-year in July 2026, accelerating from an upwardly revised 1.9% increase in June and surpassing market expectations of 1.3%. Growth in non-food sales excluding petrol stations strengthened to 1.8% from 1.5%, driven by rebounds in other goods (2.2% vs -1.2%) and sales via stalls and markets, as well as mail-order and internet retail trade (3.8% vs -1.9%). However, growth slowed for information and communication technology products (2.8% vs 13.2%) and other household equipment, textiles, DIY and furnishing supplies (0.8% vs 1.7%), while declines deepened for publishing products, sports equipment and toys (-2.0% vs -0.6%). Overall retail activity was also supported by a return to growth in sales at petrol stations (0.2% vs -7.8%). In contrast, sales of food, beverages and tobacco products eased (1.2% vs 2.0%). On a seasonally adjusted monthly basis, retail activity edged down to 0.1% from 0.3% in June, marking its lowest reading since April."
+    },
+    {
+      "id": "5070221",
+      "time": "2026-09-01 14:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部發言人:俄羅斯呼籲日本返回和平主義政策，庫拉斯群島主權無爭議。"
+    },
+    {
+      "id": "5070220",
+      "time": "2026-09-01 14:53:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：今年秋天 中方將在雄安新區舉辦全球治理論壇】外交部發言人郭嘉昆主持例行記者會。北京日報客戶端記者提問，去年9月，習近平主席鄭重提出全球治理倡議，得到國際社會廣泛積極響應。今天是習近平主席提出全球治理倡議一週年。發言人能否介紹，一年來全球治理倡議取得的進展和成果？郭嘉昆表示，全球治理倡議提出一年來的豐碩成果充分表明，共商共建共享是眾望所歸，堅持多邊主義是普遍共識，構建更加公正合理的全球治理體系是共同期待。中方將繼續堅定維護以聯合國為核心的國際體系，積極支援各類多邊區域合作機制蓬勃發展，共同落實好全球治理倡議。“今年秋天，我們將在雄安新區舉辦全球治理論壇，期待屆時同全球各界人士一道，共商改革完善全球治理大計，攜手邁向人類命運共同體。”郭嘉昆說。 (北京日報)"
+    },
     {
       "id": "mkt:01a05bbe-a60e-7118-842c-92727c140a9e",
       "time": "2026-09-01 14:53:35",
