@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-02 00:53:53",
-  "count": 12421,
+  "updated": "2026-09-02 00:57:58",
+  "count": 12424,
   "items": [
+    {
+      "id": "mkt:01a05de7-2932-7118-843f-f13c8f5e1b5e",
+      "time": "2026-09-02 00:57:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin told Armenia’s prime minister that if Armenia enacts laws to initiate procedures to join other international organizations, such as the EU, that could be interpreted as a sign it is preparing to exit existing alliances, notably the Russia-led Collective Security Treaty Organization (CSTO), of which Armenia has been a core member."
+    },
+    {
+      "id": "mkt:01a05de5-fb0d-7118-843f-ed580d6f47e1",
+      "time": "2026-09-02 00:55:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials say fair, free elections in Venezuela next month are \"not realistic\"."
+    },
+    {
+      "id": "mkt:01a05de5-55ab-7118-843f-e379b6e290eb",
+      "time": "2026-09-02 00:55:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Iran has fired a large number of anti-ship cruise missiles from its southern coast into the Gulf of Oman targeting U.S. Navy vessels. U.S. warships are responding with Tomahawk cruise missile strikes on Iran."
+    },
+    {
+      "id": "5071475",
+      "time": "2026-09-02 00:54:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：委內瑞拉下月舉行公平自由的選舉並不 “現實”。"
+    },
+    {
+      "id": "5071474",
+      "time": "2026-09-02 00:54:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京對亞美尼亞總理帕希尼揚表示，若透過法律啟動亞美尼亞加入另一組織的程式，即相當於作出退出現行組織的意向宣告。"
+    },
     {
       "id": "5071473",
       "time": "2026-09-02 00:52:49",
@@ -113815,26 +113860,6 @@
         "國際"
       ],
       "text": "日本大金在墨西哥擴大產能，新建資料中心冷卻裝置工廠。"
-    },
-    {
-      "id": "5058393",
-      "time": "2026-08-26 00:54:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：伊朗領導層如今承認了全世界都看得到的事實，壓力正在奏效。"
-    },
-    {
-      "id": "mkt:01a039d8-46d7-7aab-9117-5804160527cb",
-      "time": "2026-08-26 00:54:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "According to Axios, two US officials confirmed Trump’s earlier claim that sea mines in the Strait of Hormuz were fully cleared. The US Navy has cleared the central navigation channel between Iran and Oman used by merchant vessels."
     }
   ]
 }
