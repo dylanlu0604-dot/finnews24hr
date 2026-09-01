@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-02 06:28:24",
-  "count": 12636,
+  "updated": "2026-09-02 06:32:24",
+  "count": 12646,
   "items": [
+    {
+      "id": "5071784",
+      "time": "2026-09-02 06:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，8月貿易商承運的委內瑞拉石油出口量幾乎沒有變化，維持在每日59.7萬桶。"
+    },
+    {
+      "id": "5071783",
+      "time": "2026-09-02 06:31:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，8月委內瑞拉對美石油出口降至每日55.3萬桶。"
+    },
+    {
+      "id": "5071782",
+      "time": "2026-09-02 06:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運資料顯示，8月份委內瑞拉對印度和歐洲的石油出口有所增加。"
+    },
+    {
+      "id": "5071781",
+      "time": "2026-09-02 06:31:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "航運資料及檔案顯示，委內瑞拉8月石油出口總量基本持平，維持在每日117萬桶。"
+    },
+    {
+      "id": "5071780",
+      "time": "2026-09-02 06:30:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特多個美軍基地發生爆炸】當地時間9月2日凌晨，科威特軍方稱遭伊朗襲擊，防空系統正在攔截敵對空中目標。科威特當地訊息人士稱，多個美軍基地發生爆炸。（央視新聞）"
+    },
+    {
+      "id": "te:markets:580183",
+      "time": "2026-09-02 06:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Surges by 8.67% — Top commodity gainers are Natural Gas UK (8.67%), Heating Oil (7.07%), Crude Oil WTI (6.06%) and Brent Crude Oil (5.47%). Biggest loser is Methanol (-1.35%)."
+    },
+    {
+      "id": "5071779",
+      "time": "2026-09-02 06:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：必須確保人工智慧帶來的生產效率提升能夠普惠惠及各方。"
+    },
+    {
+      "id": "mkt:01a05f17-630b-7118-8447-85dc04a16446",
+      "time": "2026-09-02 06:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Postal Service says it is reviewing concerns from senators and a whistleblower about proposed restrictions on mail-in voting."
+    },
+    {
+      "id": "5071778",
+      "time": "2026-09-02 06:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署表示，正在就參議員與舉報人針對擬議郵寄投票限制提出的擔憂展開審查。"
+    },
+    {
+      "id": "mkt:01a05f17-02f1-7118-8447-7aecdb023676",
+      "time": "2026-09-02 06:28:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said AI companies have done a very poor job explaining themselves to the American public."
+    },
+    {
+      "id": "5071777",
+      "time": "2026-09-02 06:28:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們已看到人工智慧正在創造更多就業崗位。"
+    },
+    {
+      "id": "5071776",
+      "time": "2026-09-02 06:28:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財長貝森特：（美國）人工智慧公司在向美國民眾解釋自身方面做得非常糟糕。"
+    },
+    {
+      "id": "5071775",
+      "time": "2026-09-02 06:27:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：人工智慧可能具有變革性。"
+    },
     {
       "id": "5071774",
       "time": "2026-09-02 06:27:15",
@@ -115739,36 +115851,6 @@
         "MKT News"
       ],
       "text": "CBS said a U.S. Army Black Hawk helicopter was involved in an aviation accident during routine training west of Denver on Tuesday; four people were aboard and no injuries were reported."
-    },
-    {
-      "id": "te:markets:578043",
-      "time": "2026-08-26 06:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Coking Coal Surges by 11.30% — Top commodity gainer is Coking Coal (11.30%). Biggest losers are Natural Gas EU (-6.58%), Brent Crude Oil (-5.62%) and Crude Oil WTI (-4.67%)."
-    },
-    {
-      "id": "5058554",
-      "time": "2026-08-26 06:29:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【納斯達克23小時交易的背後：一場圍繞訂單與流動性的全球競賽】美股交易規則即將迎來里程碑式變革。納斯達克證券交易所日前正式確認，其新的“全球交易時段”計劃將於2026年12月6日啟動，屆時納斯達克將進入每週5天、每天23小時交易的新時代，每日僅休市一小時。與此同時，紐約證券交易所、芝加哥商業交易所、倫敦證券交易所等全球主要交易所也紛紛推進延長交易或推出全天候合約。在業內人士看來，交易制度的改變將重塑全球投資者的交易習慣，更重要的是，一場圍繞全球交易時段和訂單流量的競爭正全面展開。"
-    },
-    {
-      "id": "mkt:01a03b0a-18b1-7aab-911b-8cf3643042e3",
-      "time": "2026-08-26 06:28:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Trump submits Saudi civil nuclear accord to Congress, keeps Israel-normalization demand】Trump has submitted a milestone Saudi civil nuclear agreement to Congress for review but retains an 11th-hour requirement that Saudi Arabia normalize relations with Israel, a US government official said. The submission is likely to trigger months-long congressional debate over advancing the US nuclear industry while preventing WMD proliferation in the Middle East. The 30-year accord, announced last month, would give US firms a central role in Saudi nuclear infrastructure and bar foreign competitors; it is controversial because it could open the door to uranium enrichment in Saudi territory."
     }
   ]
 }

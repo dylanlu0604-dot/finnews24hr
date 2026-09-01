@@ -1,7 +1,119 @@
 {
   "date": "2026-09-02",
-  "count": 626,
+  "count": 639,
   "items": [
+    {
+      "id": "5071784",
+      "time": "2026-09-02 06:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，8月貿易商承運的委內瑞拉石油出口量幾乎沒有變化，維持在每日59.7萬桶。"
+    },
+    {
+      "id": "5071783",
+      "time": "2026-09-02 06:31:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，8月委內瑞拉對美石油出口降至每日55.3萬桶。"
+    },
+    {
+      "id": "5071782",
+      "time": "2026-09-02 06:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運資料顯示，8月份委內瑞拉對印度和歐洲的石油出口有所增加。"
+    },
+    {
+      "id": "5071781",
+      "time": "2026-09-02 06:31:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "航運資料及檔案顯示，委內瑞拉8月石油出口總量基本持平，維持在每日117萬桶。"
+    },
+    {
+      "id": "5071780",
+      "time": "2026-09-02 06:30:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特多個美軍基地發生爆炸】當地時間9月2日凌晨，科威特軍方稱遭伊朗襲擊，防空系統正在攔截敵對空中目標。科威特當地訊息人士稱，多個美軍基地發生爆炸。（央視新聞）"
+    },
+    {
+      "id": "te:markets:580183",
+      "time": "2026-09-02 06:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Surges by 8.67% — Top commodity gainers are Natural Gas UK (8.67%), Heating Oil (7.07%), Crude Oil WTI (6.06%) and Brent Crude Oil (5.47%). Biggest loser is Methanol (-1.35%)."
+    },
+    {
+      "id": "5071779",
+      "time": "2026-09-02 06:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：必須確保人工智慧帶來的生產效率提升能夠普惠惠及各方。"
+    },
+    {
+      "id": "mkt:01a05f17-630b-7118-8447-85dc04a16446",
+      "time": "2026-09-02 06:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Postal Service says it is reviewing concerns from senators and a whistleblower about proposed restrictions on mail-in voting."
+    },
+    {
+      "id": "5071778",
+      "time": "2026-09-02 06:29:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署表示，正在就參議員與舉報人針對擬議郵寄投票限制提出的擔憂展開審查。"
+    },
+    {
+      "id": "mkt:01a05f17-02f1-7118-8447-7aecdb023676",
+      "time": "2026-09-02 06:28:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said AI companies have done a very poor job explaining themselves to the American public."
+    },
+    {
+      "id": "5071777",
+      "time": "2026-09-02 06:28:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們已看到人工智慧正在創造更多就業崗位。"
+    },
+    {
+      "id": "5071776",
+      "time": "2026-09-02 06:28:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財長貝森特：（美國）人工智慧公司在向美國民眾解釋自身方面做得非常糟糕。"
+    },
+    {
+      "id": "5071775",
+      "time": "2026-09-02 06:27:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財長貝森特：人工智慧可能具有變革性。"
+    },
     {
       "id": "5071774",
       "time": "2026-09-02 06:27:15",
