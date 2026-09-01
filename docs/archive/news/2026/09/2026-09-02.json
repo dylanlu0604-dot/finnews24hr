@@ -1,7 +1,188 @@
 {
   "date": "2026-09-02",
-  "count": 117,
+  "count": 136,
   "items": [
+    {
+      "id": "5071486",
+      "time": "2026-09-02 01:04:58",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委Nagel稱核心通脹放緩是好訊息】歐洲央行管委、德國央行行長Joachim Nagel表示，歐元區8月核心通脹放緩是一個積極進展。Nagel週二表示，“好訊息是核心通脹率已經下降”，服務業通脹也有所回落。目前我們尚未看到核心通脹出現二輪效應。”Nagel在美國北卡羅來納州阿什維爾舉行的二十國集團會議間隙表示，下週的利率決定“相對容易預判”，與金融市場的預期一致。目前市場已經完全消化歐洲央行加息25個基點的預期。"
+    },
+    {
+      "id": "mkt:01a05dee-528d-7118-8440-8aa1a19a94a3",
+      "time": "2026-09-02 01:04:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iranian security officials said four artillery shells struck the southeastern Chabahar and Konarak areas; authorities are assessing potential damage."
+    },
+    {
+      "id": "5071485",
+      "time": "2026-09-02 01:04:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國駐以色列大使館提醒身處中東的美國公民，局勢可能出現升級。"
+    },
+    {
+      "id": "mkt:01a05ded-8ac0-7118-8440-8588c4c8d8d8",
+      "time": "2026-09-02 01:04:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA assesses the fuel for the Deir ez-Zor nuclear reactor was manufactured at a site in Syria."
+    },
+    {
+      "id": "mkt:01a05ded-794e-7118-8440-7cb22eae81a9",
+      "time": "2026-09-02 01:03:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA said it has been able to clarify questions about previously reported unresolved safeguards issues related to Syria's nuclear activities under Assad."
+    },
+    {
+      "id": "mkt:01a05ded-3128-7118-8440-76ce72c70b53",
+      "time": "2026-09-02 01:03:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US Embassy in Israel warned US citizens in the Middle East that the situation could escalate further."
+    },
+    {
+      "id": "mkt:01a05ded-2a57-7118-8440-6df5d73d26e0",
+      "time": "2026-09-02 01:03:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "International Atomic Energy Agency says former Syrian authorities failed to declare nuclear material, facilities and activities, including a nuclear reactor under construction in Deir ez-Zor and a fuel fabrication plant."
+    },
+    {
+      "id": "5071484",
+      "time": "2026-09-02 01:03:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社援引地方安全官員的訊息稱，4 枚炮彈擊中東南部恰巴哈爾與科納拉克地區；目前正在評估可能造成的損毀情況。"
+    },
+    {
+      "id": "mkt:01a05dec-f10e-7118-8440-62b7a7f71b1e",
+      "time": "2026-09-02 01:03:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA says Syria has taken steps to improve the situation and provided relevant information, including the requested nuclear-material accountancy reports."
+    },
+    {
+      "id": "mkt:01a05dec-8fa9-7118-8440-5e32a727cfcb",
+      "time": "2026-09-02 01:02:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IAEA reiterated that verification activities in Iran are essential and must begin as soon as possible."
+    },
+    {
+      "id": "mkt:01a05dec-66b9-7118-8440-56f684178ee1",
+      "time": "2026-09-02 01:02:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The IAEA welcomed Syria's transparency and cooperation with the agency, saying it helps resolve outstanding safeguards issues related to Syria's past nuclear activities."
+    },
+    {
+      "id": "mkt:01a05dec-474a-7118-8440-4d79a3db793b",
+      "time": "2026-09-02 01:02:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The International Atomic Energy Agency confirmed discovery at a site in Syria of about 73 tonnes of natural uranium metal, of which roughly 55 tonnes are in 8,808 fuel rods and about 18 tonnes are uranium waste and scrap."
+    },
+    {
+      "id": "5071483",
+      "time": "2026-09-02 01:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出全新電子健康記錄整合功能，可將 Epic 系統中經授權的患者資訊上下文匯入醫療版 ChatGPT。"
+    },
+    {
+      "id": "mkt:01a05dec-0f7a-7118-8440-46131aba3bf0",
+      "time": "2026-09-02 01:02:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "IAEA said it is concerned Iran has not granted access to a fourth declared uranium-enrichment facility in Isfahan and that the agency remains unclear whether the site contains nuclear material."
+    },
+    {
+      "id": "mkt:01a05deb-ccaf-7118-8440-3b37041a5f56",
+      "time": "2026-09-02 01:02:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Atomic Energy Agency: As of 13 June 2025, the IAEA's estimate of Iran's enriched uranium stockpile is unchanged from its previous report."
+    },
+    {
+      "id": "mkt:01a05deb-afa7-7118-8440-35ea2bd818d6",
+      "time": "2026-09-02 01:02:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "The IAEA said its information and access to previously declared nuclear material at Iranian facilities were disrupted by a June 2025 military strike and urgently need resolution due to proliferation concerns."
+    },
+    {
+      "id": "5071482",
+      "time": "2026-09-02 01:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構：在過去三個月中，國際原子能機構未收到伊朗關於其申報核材料或設施狀態的資訊，也未能進入任何這些設施進行現場核查活動。因此，國際原子能機構無法核實這些設施及相關核材料的狀態，以滿足保障目的。國際原子能機構對伊朗設施中先前申報的核材料缺乏資訊和訪問許可權的問題，因2025年6月的軍事打擊而受到影響，亟需以最高緊迫性加以解決，這關係到擴散的擔憂。"
+    },
+    {
+      "id": "mkt:01a05deb-840a-7118-8440-2ff860235165",
+      "time": "2026-09-02 01:01:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) said Muse Voice Transcribe is available via the Meta Model API, Meta AI for Mac and Muse Code; API priced at $3 per 1,000 minutes of audio."
+    },
+    {
+      "id": "mkt:01a05deb-48b9-7118-8440-27840f28ebbe",
+      "time": "2026-09-02 01:01:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "IAEA said it is therefore unable to verify the status of these facilities and related nuclear material for safeguards purposes."
+    },
     {
       "id": "5071481",
       "time": "2026-09-02 01:01:15",
