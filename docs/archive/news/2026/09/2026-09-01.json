@@ -1,7 +1,27 @@
 {
   "date": "2026-09-01",
-  "count": 2600,
+  "count": 2602,
   "items": [
+    {
+      "id": "mkt:01a05db2-7b0e-7118-843e-9577c49fb0c3",
+      "time": "2026-09-01 23:59:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Bessent meets Bank of Japan governor UEDA, urges closer US‑Japan macro coordination】The US Treasury Department said US Treasury Secretary Bessent met Bank of Japan governor UEDA on Aug. 30 in Asheville during the G20 finance ministers and central bank governors meeting. Bessent welcomed UEDA’s participation and urged tighter US‑Japan coordination on shared macro policy priorities. She said sound design and communication of monetary policy are critical to anchoring inflation expectations and limiting excessive FX volatility. Bessent voiced strong support for Japan’s decisive market and monetary measures to address a severely undervalued yen, noting yen weakness has amplified domestic inflationary pressures."
+    },
+    {
+      "id": "mkt:01a05db2-69e0-7118-843e-8efc83f54c07",
+      "time": "2026-09-01 23:59:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BofA vice president killed in Manhattan stabbing】BofA (BAC.N) vice president Irene Piacentini, who led business selection and conflicts-of-interest matters, has been identified as the victim in a stabbing near Times Square in Manhattan. Police say a female attacker stabbed a 32-year-old woman and a 68-year-old man at West 42nd Street and Seventh Avenue around 4:30 p.m. local time; officers shot the suspect dead and Piacentini died in hospital of her injuries."
+    },
     {
       "id": "5071423",
       "time": "2026-09-01 23:57:26",
