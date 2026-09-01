@@ -1,7 +1,104 @@
 {
-  "updated": "2026-09-01 20:56:34",
-  "count": 12328,
+  "updated": "2026-09-01 21:01:18",
+  "count": 12302,
   "items": [
+    {
+      "id": "5071121",
+      "time": "2026-09-01 20:59:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據報三星已鎖定約70%儲存晶片產能至2031年】9月1日，據報道，三星電子已將約70%的儲存晶片產能用於長期供貨協議，相關協議期限最長至2031年，客戶包括英偉達和微軟。隨著人工智慧需求持續增長，儲存晶片廠商正將更多產能轉向利潤率更高的HBM，並透過長期協議鎖定供應及價格。業內認為，此舉可能進一步收緊短期儲存晶片供應，推高價格。"
+    },
+    {
+      "id": "mkt:01a05d0d-e241-7118-8438-0fdbbca9852c",
+      "time": "2026-09-01 20:59:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Nigeria set September official selling price for Qua Iboe crude at a $1.75/bbl premium to the benchmark."
+    },
+    {
+      "id": "5071120",
+      "time": "2026-09-01 20:59:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，8月31日美國實際聯邦基金利率為3.63%，當日成交規模為1050億美元；8月28日實際聯邦基金利率同樣為3.63%，當日成交規模為1230億美元。"
+    },
+    {
+      "id": "5071119",
+      "time": "2026-09-01 20:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙6月至8月逾5000人因關聯高溫原因死亡 】西班牙公共衛生機構9月1日釋出的資料顯示，西班牙6月至8月有超過5000人因關聯高溫的原因死亡，重新整理2015年以來的紀錄。西班牙卡洛斯三世健康研究所的資料顯示，西班牙過去3個月有5111人的死亡與高溫有關，重新整理了2022年同期4652人死亡的人數紀錄，相比去年同期3651人、2024年同期1977人死亡也都有所增加。（新華社）"
+    },
+    {
+      "id": "5071118",
+      "time": "2026-09-01 20:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞將 9 月誇伊博原油官方銷售價格定為即期原油溢價 1.75 美元 / 桶  。"
+    },
+    {
+      "id": "5071117",
+      "time": "2026-09-01 20:58:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所再推三條創業板主題指數 進一步豐富“創系列”矩陣】9月1日，深交所全資子公司深圳證券資訊有限公司釋出公告稱，將於9月4日釋出創業板晶片指數。加上此前釋出的創業板工業機械指數、創業板AI應用指數，“創系列”指數矩陣再度擴容。"
+    },
+    {
+      "id": "5071116",
+      "time": "2026-09-01 20:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "GETTY IMAGES 與彭斯克媒體擴大合作關係。"
+    },
+    {
+      "id": "5071115",
+      "time": "2026-09-01 20:56:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞銀最新研判：A股風險因素邊際改善，市場重回多板塊輪動】“這輪調整更多體現為市場在前期上漲後的風險釋放，而非中期趨勢的根本性逆轉。隨著融資餘額回落，市場去槓桿程序逐步接近尾聲。與此同時，維護資本市場平穩執行的積極因素正加速累積，市場修復基礎持續夯實，這些都有助於下半年‘慢牛’行情的延續。”瑞銀全球研究部亞太區總監連沛堃9月1日在瑞銀證券A股研討會上稱。瑞銀全球金融市場部中國主管房東明也稱，在風險逐步釋放、政策預期改善和盈利趨勢向好的共同作用下，A股市場正在進入修復和重估的新階段。相較上半年A股市場行情高度集中於科技板塊，瑞銀中國股票策略研究主管王宗豪認為，AI相關板塊仍值得持續關注，但下半年投資者也會關注非AI板塊，多板塊輪動機會增多。瑞銀證券中國股票策略分析師孟磊也稱，看好成長風格，但對大盤、小盤的相對風格配置，建議投資者進行更為均衡的配置。（第一財經）"
+    },
+    {
+      "id": "mkt:01a05d0a-a07f-7118-8438-05f704a93c26",
+      "time": "2026-09-01 20:56:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Dreame Technology halts car mass-production plan; auto unit folded into research institute, MOVA partly retained】On Sept. 1 Dreame Technology said it has abandoned plans for mass production of vehicles and will fold auto-related operations into the company’s industry research institute, shifting the unit to focus on generic technology exploration and tech commercialization. Dreame said it will retain only technical reserves for the car project. MOVA, launched in 2024 as a global high-end AI smart‑life brand covering robot vacuums, floor washers, lawn mowers, personal-care appliances and planned consumer electronics, will not be fully shut. Dreame said home-cleaning lines with high overlap between MOVA and the Dreame core brand—particularly robot vacuums—will be consolidated to eliminate duplicate R&D and supply‑chain investment. Outdoor/yard robot assets that align with the group’s strategic businesses will be retained and moved into a unified outdoor/yard operations track."
+    },
+    {
+      "id": "te:markets:580066",
+      "time": "2026-09-01 20:56:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Snaps 7-Day Winning Streak — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell about 0.9% to 3,157 points on Tuesday, halting a streak of seven straight sessions of advances. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also snapped a seven-day winning run, dropping by 2.1% to 5,221 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 1.9% to 2,360 points, marking the seventh session of gains; and the supramax index went up 0.2% to 1,650 points."
+    },
+    {
+      "id": "5071114",
+      "time": "2026-09-01 20:55:51",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至8月29日當週紅皮書商業零售銷售年率 9.6%，前值9.1%。"
+    },
     {
       "id": "mkt:01a05d0a-4301-7118-8437-fe1c58a37361",
       "time": "2026-09-01 20:55:48",
@@ -9,6 +106,16 @@
         "MKT News"
       ],
       "text": "【U.S. Redbook weekly chain-store sales YoY 9.6% (week to Aug 29)】U.S. Redbook weekly chain-store sales rose 9.6% YoY in the week to Aug 29, up from 9.1% the prior week."
+    },
+    {
+      "id": "5071113",
+      "time": "2026-09-01 20:55:48",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：儲存價格仍處上行通道 維持三星、SK海力士買入評級】高盛9月1日釋出最新儲存價格跟蹤報告稱，2026年三季度DRAM與NAND的平均售價走勢與此前預期基本吻合，儲存晶片整體仍處於景氣上升通道，因此繼續給予韓國儲存雙雄——三星電子和SK海力士——“買入”評級。本輪儲存漲價已經呈現明顯的結構性特徵：PC和伺服器DRAM繼續保持較強價格動能，手機儲存需求則受到庫存上升拖累。但供應商持續將有限產能優先配置給伺服器DRAM和高頻寬記憶體（HBM），正在限制傳統儲存供應增長，這也成為支撐2027年價格的重要因素。"
     },
     {
       "id": "mkt:01a05d0a-2a2f-7118-8437-f486f74fd7fa",
@@ -112759,381 +112866,6 @@
         "焦點"
       ],
       "text": "PTA連續主力合約日內跌2%，現報5666.00元。"
-    },
-    {
-      "id": "5058160",
-      "time": "2026-08-25 21:01:06",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月FHFA房價指數月率 0%，前值0.30%。美國6月FHFA房價指數 442.5，前值442.4。美國6月S&P/CS20座大城市未季調房價指數年率 2.1%，預期1.7%，前值1.63%。美國6月FHFA房價指數年率 2.3%，前值由2.2%修正為2.4%。"
-    },
-    {
-      "id": "mkt:01a03902-63f4-7aab-9112-f2b1f7ee21e3",
-      "time": "2026-08-25 21:00:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US June S&P/Case-Shiller 10-city home-price index YoY 2.94%, prior 2.38%."
-    },
-    {
-      "id": "te:economy:577971",
-      "time": "2026-08-25 21:00:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Wholesale Sales",
-        "Importance 1"
-      ],
-      "text": "Canada Wholesale Trade Falls in July — Canada’s wholesale trade is estimated to have decreased 0.6% month-over-month in July 2026, following a 2.8% increase in the previous month, marking the first decline since January. The advance results for July indicate lower sales in the agricultural supplies and mineral, ore and precious metals industry groups within the miscellaneous subsector."
-    },
-    {
-      "id": "mkt:01a03902-47d7-7aab-9112-eff7ef0ac0b9",
-      "time": "2026-08-25 21:00:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US June S&P/Case-Shiller 10-city home price index, NSA, rose 0.52% month-on-month, down from 0.94% previously."
-    },
-    {
-      "id": "em:jjsj_mgsj:202608253853265238",
-      "time": "2026-08-25 21:00:45",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月S&P/CS20座大城市未季調房價指數同比增長2.1%】美國6月S&P/CS20座大城市未季調房價指數同比增長2.1%，預期1.7%，前值1.63%。"
-    },
-    {
-      "id": "5058159",
-      "time": "2026-08-25 21:00:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果：搭載M5 Ultra晶片的Mac Studio起售價為5,499美元，教育優惠價5,099美元。"
-    },
-    {
-      "id": "mkt:01a03902-42bf-7aab-9112-e1cd3bcca69e",
-      "time": "2026-08-25 21:00:44",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 10-City Home Price Index (YoY) (Jun) | actual 2.94% | previous 2.38%"
-    },
-    {
-      "id": "mkt:01a03902-282c-7aab-9112-de4e7b908516",
-      "time": "2026-08-25 21:00:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 10-City Home Price Index NSA (MoM) (Jun) | actual 0.52% | previous 0.94%"
-    },
-    {
-      "id": "5058158",
-      "time": "2026-08-25 21:00:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果推出M6以及M5 Ultra晶片。"
-    },
-    {
-      "id": "mkt:01a03901-ee81-7aab-9112-d0a03b26d242",
-      "time": "2026-08-25 21:00:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Industrial Metals",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Night session opened with most domestic front-month futures trading lower: fuel oil and low-sulfur fuel oil (LU) down more than 5%, ethylene glycol (EG) down over 4%, Shanghai crude oil (SC) and synthetic rubber down more than 3%, asphalt, methanol and styrene (EB) down over 2%. Shanghai zinc and lead posted small gains."
-    },
-    {
-      "id": "mkt:01a03901-d0b6-7aab-9112-cbac2f24196c",
-      "time": "2026-08-25 21:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Copper"
-      ],
-      "text": "US June S&P/Case-Shiller 20-city house price index, unadjusted, YoY 2.1% (estimate 1.7%; prior 1.63%)."
-    },
-    {
-      "id": "mkt:01a03901-cd25-7aab-9112-c0d93b6ddabc",
-      "time": "2026-08-25 21:00:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US June S&P/Case-Shiller 20-city seasonally adjusted house price index MoM +0.2% (consensus +0.1%, prior +0.15%)."
-    },
-    {
-      "id": "mkt:01a03901-cc01-7aab-9112-bc9d84a4d263",
-      "time": "2026-08-25 21:00:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US June S&P/Case-Shiller 20-city home price index, not seasonally adjusted, MoM +0.4% (prior +0.9%)."
-    },
-    {
-      "id": "mkt:01a03901-cb39-7aab-9112-a982b119c39a",
-      "time": "2026-08-25 21:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US FHFA house price index, June m/m 0.0%; prior 0.30%."
-    },
-    {
-      "id": "mkt:01a03901-cb98-7aab-9112-b6de2daf203f",
-      "time": "2026-08-25 21:00:09",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US June FHFA house price index 442.5, prior 442.4."
-    },
-    {
-      "id": "mkt:01a03901-bbfa-7aab-9112-a1a632678622",
-      "time": "2026-08-25 21:00:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US FHFA house price index YoY June +2.3%; prior reading revised from +2.2% to +2.4%."
-    },
-    {
-      "id": "5058157",
-      "time": "2026-08-25 21:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌2%，現報2878.00元。"
-    },
-    {
-      "id": "5058156",
-      "time": "2026-08-25 21:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌5%，現報3725.00元。"
-    },
-    {
-      "id": "5058155",
-      "time": "2026-08-25 21:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌5%，現報4827.00元。"
-    },
-    {
-      "id": "5058154",
-      "time": "2026-08-25 21:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌4%，現報5264.00元。"
-    },
-    {
-      "id": "5058153",
-      "time": "2026-08-25 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌6.09%，燃料油連續跌5.44%，低硫燃料油連續跌5.41%，乙二醇連續跌4.46%，集運指數歐線期貨連續跌4.15%。"
-    },
-    {
-      "id": "mkt:01a03901-96da-7aab-9112-9de82009676d",
-      "time": "2026-08-25 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 20-City Home Price Index SA (MoM) (Jun) | actual 0.2% | consensus 0.1% | previous 0.15%"
-    },
-    {
-      "id": "mkt:01a03901-9686-7aab-9112-9676408f964e",
-      "time": "2026-08-25 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 20-City Home Price Index NSA (MoM) (Jun) | actual 0.4% | previous 0.9%"
-    },
-    {
-      "id": "mkt:01a03901-9661-7aab-9112-7a3d71d9d92a",
-      "time": "2026-08-25 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | S&P/Case Shiller 20-City Home Price Index (YoY) (Jun) | actual 2.1% | consensus 1.7% | previous 1.63%"
-    },
-    {
-      "id": "mkt:01a03901-9678-7aab-9112-8460917fb9f8",
-      "time": "2026-08-25 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FHFA House Price Index (YoY) (Jun) | actual 2.3% | previous 2.2%"
-    },
-    {
-      "id": "mkt:01a03901-9655-7aab-9112-74e13b090c3d",
-      "time": "2026-08-25 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FHFA House Price Index (Jun) | actual 442.5 | previous 442.4"
-    },
-    {
-      "id": "mkt:01a03901-9678-7aab-9112-8e4af2d96a07",
-      "time": "2026-08-25 21:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | FHFA House Price Index (MoM) (Jun) | actual 0% | previous 0.30%"
-    },
-    {
-      "id": "te:markets:577970",
-      "time": "2026-08-25 20:59:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BNP Paribas Stock Price Hits 4-week Low — BNP Paribas shares decreased to 105.11 EUR, the lowest since July 2026. Over the past 4 weeks, BNP Paribas lost 2.27%, and in the last 12 months, it increased 36.49%."
-    },
-    {
-      "id": "5058152",
-      "time": "2026-08-25 20:59:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，8月24日美國有效聯邦基金利率為3.63%，當日成交規模為990億美元；8月21日有效聯邦基金利率同為3.63%，當日成交規模為960億美元。"
-    },
-    {
-      "id": "5058151",
-      "time": "2026-08-25 20:59:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "塔吉特股價盤前下跌約2%；週一，該公司因一款萬聖節服裝引發輿論抨擊後公開道歉。"
-    },
-    {
-      "id": "5058150",
-      "time": "2026-08-25 20:59:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安恆資訊：2026年上半年營收7.39億元 淨虧損收窄】安恆資訊公告稱，2026年上半年實現營業收入7.39億元，同比增長0.86%；歸屬於上市公司股東的淨虧損1.76億元，上年同期淨虧損1.94億元；歸屬於上市公司股東的扣除非經常性損益的淨虧損1.90億元。研發投入佔營業收入的比例為28.33%，同比減少0.25個百分點。基本每股收益-1.73元/股，加權平均淨資產收益率-7.16%，同比增加0.73個百分點。本報告期無利潤分配預案。"
-    },
-    {
-      "id": "5058149",
-      "time": "2026-08-25 20:59:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金博股份：2026年上半年淨利潤虧損1.42億元，上年同期虧損1.68億元】金博股份公告，2026年上半年營業收入4.56億元，同比增長11.08%；歸屬於上市公司股東的淨利潤虧損1.42億元，上年同期虧損1.68億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損1.51億元，上年同期虧損1.99億元。"
-    },
-    {
-      "id": "5058148",
-      "time": "2026-08-25 20:58:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安恆資訊：擬變更21.20萬股回購股份用途為登出】安恆資訊公告稱，公司擬將回購專用證券賬戶中212,041股回購股份的用途，由“用於員工持股計劃或股權激勵”變更為“用於登出並變更公司註冊資本”，該部分股份佔公司當前總股本的0.21%。登出完成後，公司總股本將由102,175,143股變更為101,963,102股，註冊資本將由10,217.5143萬元變更為10,196.3102萬元，同時擬修訂《公司章程》對應條款。本次事項尚需提交公司股東會審議透過後實施。"
-    },
-    {
-      "id": "5058147",
-      "time": "2026-08-25 20:58:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金博股份：擬向關聯方出售不動產 對價6967.83萬元】金博股份公告稱，公司擬向關聯方湖南金力高新科技股份有限公司出售位於長沙市高新區的部分綜合生產用房不動產，對應工業用地土地使用權面積12359.00平方米、建築面積15907.86平方米，交易對價6967.83萬元（不含增值稅），較標的資產賬面價值增值183.97萬元，增值率2.71%。本次交易構成關聯交易，不構成重大資產重組，已經公司董事會審議透過，尚需提交公司2026年第一次臨時股東會審議，交易最終完成存在不確定性。"
-    },
-    {
-      "id": "5058146",
-      "time": "2026-08-25 20:58:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱，俄羅斯控制的扎波羅熱核電站有兩名員工在烏克蘭襲擊中受傷。"
-    },
-    {
-      "id": "te:markets:577969",
-      "time": "2026-08-25 20:58:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Edge Higher as Banks Report Earnings — Futures tracking Canada’s stock market inched higher on Tuesday amid a batch of earnings reports from major banks. BMO reported higher third-quarter profit, driven by strong performance in its capital markets business. Scotiabank also posted higher third-quarter profit, helped by increased interest income. National Bank is due to report earnings tomorrow, while RBC, TD Bank and CIBC report on Thursday. Focus also remains on US-Canada trade tensions after President Donald Trump on Monday threatened to raise US tariffs on all Canadian cars, trucks and automotive parts to 50% starting January 1st, 2027. Meanwhile, oil prices fell despite the latest US sanctions threat against Iran, offering some respite to financials and broader markets that have been under pressure from energy-driven inflation concerns. Gold prices also slipped as profit-taking and a firmer dollar curbed gains ahead of US PCE data, pressuring mining stocks."
-    },
-    {
-      "id": "5058145",
-      "time": "2026-08-25 20:57:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：英法同意向烏提供“風暴陰影”導彈生產許可】當地時間8月25日，烏克蘭總統澤連斯基在基輔與愛沙尼亞總統卡里斯會晤時證實，英國、法國已正式同意向烏克蘭提供“風暴陰影”導彈生產許可。澤連斯基表示，他此前已與法國總統馬克龍溝通，對方已解鎖該導彈相關生產許可事宜。烏克蘭在24日同步收到英法兩國的正式積極答覆，其中英國已明確確認相關許可合作事宜。他同時表態稱，希望此次導彈生產許可相關合作能夠順利落地推進。（央視新聞）"
-    },
-    {
-      "id": "5058144",
-      "time": "2026-08-25 20:56:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "豐業銀行CEO： 關稅帶來不確定性，但局面 “可控”。"
     }
   ]
 }

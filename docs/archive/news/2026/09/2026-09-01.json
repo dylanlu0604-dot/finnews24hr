@@ -1,7 +1,104 @@
 {
   "date": "2026-09-01",
-  "count": 2161,
+  "count": 2173,
   "items": [
+    {
+      "id": "5071121",
+      "time": "2026-09-01 20:59:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【據報三星已鎖定約70%儲存晶片產能至2031年】9月1日，據報道，三星電子已將約70%的儲存晶片產能用於長期供貨協議，相關協議期限最長至2031年，客戶包括英偉達和微軟。隨著人工智慧需求持續增長，儲存晶片廠商正將更多產能轉向利潤率更高的HBM，並透過長期協議鎖定供應及價格。業內認為，此舉可能進一步收緊短期儲存晶片供應，推高價格。"
+    },
+    {
+      "id": "mkt:01a05d0d-e241-7118-8438-0fdbbca9852c",
+      "time": "2026-09-01 20:59:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Nigeria set September official selling price for Qua Iboe crude at a $1.75/bbl premium to the benchmark."
+    },
+    {
+      "id": "5071120",
+      "time": "2026-09-01 20:59:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，8月31日美國實際聯邦基金利率為3.63%，當日成交規模為1050億美元；8月28日實際聯邦基金利率同樣為3.63%，當日成交規模為1230億美元。"
+    },
+    {
+      "id": "5071119",
+      "time": "2026-09-01 20:59:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙6月至8月逾5000人因關聯高溫原因死亡 】西班牙公共衛生機構9月1日釋出的資料顯示，西班牙6月至8月有超過5000人因關聯高溫的原因死亡，重新整理2015年以來的紀錄。西班牙卡洛斯三世健康研究所的資料顯示，西班牙過去3個月有5111人的死亡與高溫有關，重新整理了2022年同期4652人死亡的人數紀錄，相比去年同期3651人、2024年同期1977人死亡也都有所增加。（新華社）"
+    },
+    {
+      "id": "5071118",
+      "time": "2026-09-01 20:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞將 9 月誇伊博原油官方銷售價格定為即期原油溢價 1.75 美元 / 桶  。"
+    },
+    {
+      "id": "5071117",
+      "time": "2026-09-01 20:58:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所再推三條創業板主題指數 進一步豐富“創系列”矩陣】9月1日，深交所全資子公司深圳證券資訊有限公司釋出公告稱，將於9月4日釋出創業板晶片指數。加上此前釋出的創業板工業機械指數、創業板AI應用指數，“創系列”指數矩陣再度擴容。"
+    },
+    {
+      "id": "5071116",
+      "time": "2026-09-01 20:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "GETTY IMAGES 與彭斯克媒體擴大合作關係。"
+    },
+    {
+      "id": "5071115",
+      "time": "2026-09-01 20:56:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞銀最新研判：A股風險因素邊際改善，市場重回多板塊輪動】“這輪調整更多體現為市場在前期上漲後的風險釋放，而非中期趨勢的根本性逆轉。隨著融資餘額回落，市場去槓桿程序逐步接近尾聲。與此同時，維護資本市場平穩執行的積極因素正加速累積，市場修復基礎持續夯實，這些都有助於下半年‘慢牛’行情的延續。”瑞銀全球研究部亞太區總監連沛堃9月1日在瑞銀證券A股研討會上稱。瑞銀全球金融市場部中國主管房東明也稱，在風險逐步釋放、政策預期改善和盈利趨勢向好的共同作用下，A股市場正在進入修復和重估的新階段。相較上半年A股市場行情高度集中於科技板塊，瑞銀中國股票策略研究主管王宗豪認為，AI相關板塊仍值得持續關注，但下半年投資者也會關注非AI板塊，多板塊輪動機會增多。瑞銀證券中國股票策略分析師孟磊也稱，看好成長風格，但對大盤、小盤的相對風格配置，建議投資者進行更為均衡的配置。（第一財經）"
+    },
+    {
+      "id": "mkt:01a05d0a-a07f-7118-8438-05f704a93c26",
+      "time": "2026-09-01 20:56:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Dreame Technology halts car mass-production plan; auto unit folded into research institute, MOVA partly retained】On Sept. 1 Dreame Technology said it has abandoned plans for mass production of vehicles and will fold auto-related operations into the company’s industry research institute, shifting the unit to focus on generic technology exploration and tech commercialization. Dreame said it will retain only technical reserves for the car project. MOVA, launched in 2024 as a global high-end AI smart‑life brand covering robot vacuums, floor washers, lawn mowers, personal-care appliances and planned consumer electronics, will not be fully shut. Dreame said home-cleaning lines with high overlap between MOVA and the Dreame core brand—particularly robot vacuums—will be consolidated to eliminate duplicate R&D and supply‑chain investment. Outdoor/yard robot assets that align with the group’s strategic businesses will be retained and moved into a unified outdoor/yard operations track."
+    },
+    {
+      "id": "te:markets:580066",
+      "time": "2026-09-01 20:56:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Snaps 7-Day Winning Streak — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell about 0.9% to 3,157 points on Tuesday, halting a streak of seven straight sessions of advances. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also snapped a seven-day winning run, dropping by 2.1% to 5,221 points. On the other hand, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 1.9% to 2,360 points, marking the seventh session of gains; and the supramax index went up 0.2% to 1,650 points."
+    },
+    {
+      "id": "5071114",
+      "time": "2026-09-01 20:55:51",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國至8月29日當週紅皮書商業零售銷售年率 9.6%，前值9.1%。"
+    },
     {
       "id": "mkt:01a05d0a-4301-7118-8437-fe1c58a37361",
       "time": "2026-09-01 20:55:48",
@@ -9,6 +106,16 @@
         "MKT News"
       ],
       "text": "【U.S. Redbook weekly chain-store sales YoY 9.6% (week to Aug 29)】U.S. Redbook weekly chain-store sales rose 9.6% YoY in the week to Aug 29, up from 9.1% the prior week."
+    },
+    {
+      "id": "5071113",
+      "time": "2026-09-01 20:55:48",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：儲存價格仍處上行通道 維持三星、SK海力士買入評級】高盛9月1日釋出最新儲存價格跟蹤報告稱，2026年三季度DRAM與NAND的平均售價走勢與此前預期基本吻合，儲存晶片整體仍處於景氣上升通道，因此繼續給予韓國儲存雙雄——三星電子和SK海力士——“買入”評級。本輪儲存漲價已經呈現明顯的結構性特徵：PC和伺服器DRAM繼續保持較強價格動能，手機儲存需求則受到庫存上升拖累。但供應商持續將有限產能優先配置給伺服器DRAM和高頻寬記憶體（HBM），正在限制傳統儲存供應增長，這也成為支撐2027年價格的重要因素。"
     },
     {
       "id": "mkt:01a05d0a-2a2f-7118-8437-f486f74fd7fa",
