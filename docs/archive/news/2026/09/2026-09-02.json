@@ -1,7 +1,31 @@
 {
   "date": "2026-09-02",
-  "count": 315,
+  "count": 318,
   "items": [
+    {
+      "id": "mkt:01a05e6c-a53d-7118-8443-7e6eb3311e7e",
+      "time": "2026-09-02 03:22:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to an internal memo, BofA (BAC.N) security team is fully cooperating with police and addressing ongoing safety and security issues at its offices and for employees."
+    },
+    {
+      "id": "5071592",
+      "time": "2026-09-02 03:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美方評估：伊朗計劃擴大襲擊霍爾木茲海峽商船】美國評估認為伊朗正計劃擴大針對商船的襲擊。訊息人士稱，美軍打擊目標為伊朗經由霍爾木茲海峽轉運的武器與軍事裝備。"
+    },
+    {
+      "id": "5071591",
+      "time": "2026-09-02 03:22:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "一份內部備忘錄顯示：美國銀行安保團隊已全面投入配合警方調查，並持續保障銀行辦公場所及員工的安全與安保工作。"
+    },
     {
       "id": "5071590",
       "time": "2026-09-02 03:20:51",
