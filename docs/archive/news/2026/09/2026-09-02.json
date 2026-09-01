@@ -1,7 +1,115 @@
 {
   "date": "2026-09-02",
-  "count": 562,
+  "count": 573,
   "items": [
+    {
+      "id": "5071738",
+      "time": "2026-09-02 06:02:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜雲科技：美國聯邦選舉委員會向數字競選防護組織（DDC）授予特殊許可，允許其為符合條件的聯邦競選團隊提供網路安全支援。"
+    },
+    {
+      "id": "5071737",
+      "time": "2026-09-02 06:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺9月2日06時繼續釋出暴雨黃色預警。"
+    },
+    {
+      "id": "mkt:01a05efe-8a04-7118-8446-e654ec653b6b",
+      "time": "2026-09-02 06:02:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent: Growth is the foundation of sustained prosperity."
+    },
+    {
+      "id": "5071736",
+      "time": "2026-09-02 06:01:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報64.71美元/盎司。"
+    },
+    {
+      "id": "mkt:01a05efd-b286-7118-8446-da5c31bd2107",
+      "time": "2026-09-02 06:01:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said debt distress could hinder firms' investment in employees and longer-term initiatives."
+    },
+    {
+      "id": "5071735",
+      "time": "2026-09-02 06:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：債務困境會阻礙企業對員工和自身未來發展進行投資。"
+    },
+    {
+      "id": "mkt:01a05efd-5d08-7118-8446-d7ace44eab90",
+      "time": "2026-09-02 06:00:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon Web Services (AWS) is expanding its digital campaign-defense program for the 2026 US election, offering more than 20 free or low-cost cybersecurity services."
+    },
+    {
+      "id": "5071734",
+      "time": "2026-09-02 06:00:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "亞馬遜雲科技（AWS）：擴圍2026年美國大選“捍衛數字競選”服務，免費或低價提供超20項網路安全服務。"
+    },
+    {
+      "id": "mkt:01a05efd-2896-7118-8446-cf8dec229849",
+      "time": "2026-09-02 06:00:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "WTI crude opened slightly lower Wednesday; spot gold opened slightly higher."
+    },
+    {
+      "id": "mkt:01a05efc-607a-7118-8446-c64a5302546b",
+      "time": "2026-09-02 05:59:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said growth is the foundation of lasting prosperity. G20 discussions emphasized the abundance of resources."
+    },
+    {
+      "id": "5071733",
+      "time": "2026-09-02 05:59:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國財長貝森特：二十國集團會談已凸顯出資源十分充足。"
+    },
     {
       "id": "5071732",
       "time": "2026-09-02 05:59:17",
