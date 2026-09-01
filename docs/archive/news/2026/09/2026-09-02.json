@@ -1,7 +1,80 @@
 {
   "date": "2026-09-02",
-  "count": 57,
+  "count": 64,
   "items": [
+    {
+      "id": "5071452",
+      "time": "2026-09-02 00:30:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲6%，現報675.70元。"
+    },
+    {
+      "id": "5071451",
+      "time": "2026-09-02 00:30:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率突破 4.38%，創 2025 年 1 月以來新高。"
+    },
+    {
+      "id": "mkt:01a05dce-73a6-7118-843f-5f6ca7cef952",
+      "time": "2026-09-02 00:30:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported explosions heard on Qeshm Island."
+    },
+    {
+      "id": "5071450",
+      "time": "2026-09-02 00:29:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週二（9月1日）歐市尾盤，ICE英國天然氣期貨（長假歸來）漲9.21%，TTF基準荷蘭天然氣期貨漲4.99%，ICE歐盟碳排放交易許可（期貨價格）漲0.33%。"
+    },
+    {
+      "id": "mkt:01a05dcd-61e9-7118-843f-5483aef60cf4",
+      "time": "2026-09-02 00:28:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to Axios, US officials said the US Air Force struck Iranian targets near the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a05dcd-442c-7118-843f-4a9f277b3f24",
+      "time": "2026-09-02 00:28:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Report: U.S. strikes reported inside Iran】Israeli N12, Saudi Hadas and Iranian Mehr, citing sources, reported the U.S. carried out strikes inside Iran; explosions were heard in multiple southern locations including Chabahar and Bandar Abbas. Hormozgan deputy governor said there were no casualties or incident reports so far."
+    },
+    {
+      "id": "5071449",
+      "time": "2026-09-02 00:28:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據AXIOS：美國官員稱，美國空軍正在打擊霍爾木茲海峽周邊的伊朗目標。"
+    },
     {
       "id": "mkt:01a05dcc-9577-7118-843f-4041b1c74cae",
       "time": "2026-09-02 00:28:03",
