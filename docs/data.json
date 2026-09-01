@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-02 00:49:48",
-  "count": 12419,
+  "updated": "2026-09-02 00:53:53",
+  "count": 12421,
   "items": [
+    {
+      "id": "5071473",
+      "time": "2026-09-02 00:52:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "雀巢：同意以 10 億美元將主流維生素礦物質補充劑業務出售給 Yellow Wood Partners。該交易包含七個品牌以及美國自有品牌膳食補充劑業務。交易預計於 2027 年上半年完成。"
+    },
+    {
+      "id": "5071472",
+      "time": "2026-09-02 00:50:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "雀巢達成協議，擬剝離主流維生素及礦物質業務。"
+    },
+    {
+      "id": "5071471",
+      "time": "2026-09-02 00:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：希望委內瑞拉儘快舉行選舉。"
+    },
     {
       "id": "mkt:01a05ddf-9810-7118-843f-dc957b103f45",
       "time": "2026-09-02 00:48:49",
@@ -113811,14 +113835,6 @@
         "Brent"
       ],
       "text": "According to Axios, two US officials confirmed Trump’s earlier claim that sea mines in the Strait of Hormuz were fully cleared. The US Navy has cleared the central navigation channel between Iran and Oman used by merchant vessels."
-    },
-    {
-      "id": "5058392",
-      "time": "2026-08-26 00:50:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：兩名直接參與霍爾木茲海峽掃雷事務的美國官員證實了特朗普的宣告，並表示美國海軍已清理了位於海峽中部、阿曼與伊朗之間的船舶交通分離區。"
     }
   ]
 }
