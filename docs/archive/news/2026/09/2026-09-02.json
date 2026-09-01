@@ -1,7 +1,68 @@
 {
   "date": "2026-09-02",
-  "count": 639,
+  "count": 645,
   "items": [
+    {
+      "id": "te:markets:580184",
+      "time": "2026-09-02 06:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 3.72% — Top commodity losers are Silver (-3.72%), Gold (-2.56%) and Platinum (-2.55%). Gains are led by Iron Ore (3.41%) and Lithium Carbonate (0.95%)."
+    },
+    {
+      "id": "5071786",
+      "time": "2026-09-02 06:34:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美軍結束對伊朗的最新一輪打擊。"
+    },
+    {
+      "id": "mkt:01a05f1b-62c3-7118-8447-9b154412cc9b",
+      "time": "2026-09-02 06:33:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shipping data show Chevron's crude exports from Venezuela fell to 286,000 b/d in August; Venezuelan crude exports carried by trading firms were essentially unchanged at 597,000 b/d."
+    },
+    {
+      "id": "mkt:01a05f1a-87b0-7118-8447-956c06750a86",
+      "time": "2026-09-02 06:32:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Shipping data show Venezuela's oil exports to the US fell to 553,000 b/d in August; exports to India and Europe increased."
+    },
+    {
+      "id": "mkt:01a05f1a-232a-7118-8447-89076766a634",
+      "time": "2026-09-02 06:32:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Venezuela's oil exports in August were essentially unchanged at 1.17 mln b/d."
+    },
+    {
+      "id": "5071785",
+      "time": "2026-09-02 06:31:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，雪佛龍8月在委內瑞拉原油出口量降至28.6萬桶/日。"
+    },
     {
       "id": "5071784",
       "time": "2026-09-02 06:31:29",
