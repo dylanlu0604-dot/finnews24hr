@@ -1,7 +1,120 @@
 {
   "date": "2026-09-02",
-  "count": 363,
+  "count": 374,
   "items": [
+    {
+      "id": "5071627",
+      "time": "2026-09-02 04:06:14",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "諾基亞、恩吉集團將納入歐洲斯托克50指數。"
+    },
+    {
+      "id": "5071626",
+      "time": "2026-09-02 04:05:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：本財年營收預期1920億美元，此前指引區間1650‑1690億美元，市場預期1737.6億美元。第二財季AI最佳化伺服器營收164億美元，市場預期160.3億美元。"
+    },
+    {
+      "id": "mkt:01a05e93-fc51-7118-8444-1e5b462e666f",
+      "time": "2026-09-02 04:05:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said any negotiations on the Ukraine conflict should be concrete."
+    },
+    {
+      "id": "5071625",
+      "time": "2026-09-02 04:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：本財年AI最佳化伺服器營收預期740億美元，實際已實現約600億美元。"
+    },
+    {
+      "id": "mkt:01a05e93-82cb-7118-8444-15b02e7db1ed",
+      "time": "2026-09-02 04:05:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks fell on Sept 1 (Tuesday): the Dow Jones Industrial Average closed down 418.49 points, or 0.79%, at 52,767.41; the S&P 500 closed down 54.61 points, or 0.71%, at 7,631.53; the Nasdaq Composite closed down 271.11 points, or 1.03%, at 26,099.77."
+    },
+    {
+      "id": "mkt:01a05e92-7b71-7118-8444-0f5b5fd8b90f",
+      "time": "2026-09-02 04:04:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "According to Axios, Iran retaliated for a U.S. airstrike by launching ballistic missiles at a U.S. base in Jordan."
+    },
+    {
+      "id": "mkt:01a05e91-d0a7-7118-8444-07a064d86786",
+      "time": "2026-09-02 04:03:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index rises on 1st】The dollar index, measuring the dollar against six major currencies, rose 0.25% to 99.677 at the New York FX close. EUR/USD 1.1590, down from 1.1616; GBP/USD 1.3514, down from 1.3550. USD/JPY 160.20, up from 159.80; USD/CHF 0.8118, up from 0.8083; USD/CAD 1.3894, up from 1.3855; USD/SEK 9.6188, up from 9.5767."
+    },
+    {
+      "id": "5071624",
+      "time": "2026-09-02 04:03:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數1日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.25%，在匯市尾市收於99.677。 截至紐約匯市尾市，1歐元兌換1.1590美元，低於前一交易日的1.1616美元；1英鎊兌換1.3514美元，低於前一交易日的1.3550美元。 1美元兌換160.20日元，高於前一交易日的159.80日元；1美元兌換0.8118瑞士法郎，高於前一交易日的0.8083瑞士法郎；1美元兌換1.3894加元，高於前一交易日的1.3855加元；1美元兌換9.6188瑞典克朗，高於前一交易日的9.5767瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a05e91-58a9-7118-8443-f8349df5f869",
+      "time": "2026-09-02 04:02:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global crude futures settle sharply higher】At the close, NYMEX October light crude futures rose $4.46 to settle at $90.22/bbl, up 5.2%. ICE Brent November futures rose $4.16 to settle at $94.65/bbl, up 4.6%."
+    },
+    {
+      "id": "mkt:01a05e91-2012-7118-8443-f05a48aa3cdb",
+      "time": "2026-09-02 04:02:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said it strengthened the system-level tech stack for GPT-5.6, added an activation classifier, and expanded coverage against generic jailbreak attacks."
+    },
+    {
+      "id": "5071623",
+      "time": "2026-09-02 04:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Astra模型先進網路安全成果初期將僅面向測試者群體開放使用。"
+    },
     {
       "id": "5071622",
       "time": "2026-09-02 04:02:04",

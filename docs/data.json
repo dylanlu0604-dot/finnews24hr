@@ -1,7 +1,120 @@
 {
-  "updated": "2026-09-02 04:02:52",
-  "count": 12489,
+  "updated": "2026-09-02 04:06:58",
+  "count": 12492,
   "items": [
+    {
+      "id": "5071627",
+      "time": "2026-09-02 04:06:14",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "諾基亞、恩吉集團將納入歐洲斯托克50指數。"
+    },
+    {
+      "id": "5071626",
+      "time": "2026-09-02 04:05:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：本財年營收預期1920億美元，此前指引區間1650‑1690億美元，市場預期1737.6億美元。第二財季AI最佳化伺服器營收164億美元，市場預期160.3億美元。"
+    },
+    {
+      "id": "mkt:01a05e93-fc51-7118-8444-1e5b462e666f",
+      "time": "2026-09-02 04:05:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said any negotiations on the Ukraine conflict should be concrete."
+    },
+    {
+      "id": "5071625",
+      "time": "2026-09-02 04:05:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾：本財年AI最佳化伺服器營收預期740億美元，實際已實現約600億美元。"
+    },
+    {
+      "id": "mkt:01a05e93-82cb-7118-8444-15b02e7db1ed",
+      "time": "2026-09-02 04:05:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks fell on Sept 1 (Tuesday): the Dow Jones Industrial Average closed down 418.49 points, or 0.79%, at 52,767.41; the S&P 500 closed down 54.61 points, or 0.71%, at 7,631.53; the Nasdaq Composite closed down 271.11 points, or 1.03%, at 26,099.77."
+    },
+    {
+      "id": "mkt:01a05e92-7b71-7118-8444-0f5b5fd8b90f",
+      "time": "2026-09-02 04:04:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "According to Axios, Iran retaliated for a U.S. airstrike by launching ballistic missiles at a U.S. base in Jordan."
+    },
+    {
+      "id": "mkt:01a05e91-d0a7-7118-8444-07a064d86786",
+      "time": "2026-09-02 04:03:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index rises on 1st】The dollar index, measuring the dollar against six major currencies, rose 0.25% to 99.677 at the New York FX close. EUR/USD 1.1590, down from 1.1616; GBP/USD 1.3514, down from 1.3550. USD/JPY 160.20, up from 159.80; USD/CHF 0.8118, up from 0.8083; USD/CAD 1.3894, up from 1.3855; USD/SEK 9.6188, up from 9.5767."
+    },
+    {
+      "id": "5071624",
+      "time": "2026-09-02 04:03:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數1日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.25%，在匯市尾市收於99.677。 截至紐約匯市尾市，1歐元兌換1.1590美元，低於前一交易日的1.1616美元；1英鎊兌換1.3514美元，低於前一交易日的1.3550美元。 1美元兌換160.20日元，高於前一交易日的159.80日元；1美元兌換0.8118瑞士法郎，高於前一交易日的0.8083瑞士法郎；1美元兌換1.3894加元，高於前一交易日的1.3855加元；1美元兌換9.6188瑞典克朗，高於前一交易日的9.5767瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a05e91-58a9-7118-8443-f8349df5f869",
+      "time": "2026-09-02 04:02:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global crude futures settle sharply higher】At the close, NYMEX October light crude futures rose $4.46 to settle at $90.22/bbl, up 5.2%. ICE Brent November futures rose $4.16 to settle at $94.65/bbl, up 4.6%."
+    },
+    {
+      "id": "mkt:01a05e91-2012-7118-8443-f05a48aa3cdb",
+      "time": "2026-09-02 04:02:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said it strengthened the system-level tech stack for GPT-5.6, added an activation classifier, and expanded coverage against generic jailbreak attacks."
+    },
+    {
+      "id": "5071623",
+      "time": "2026-09-02 04:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Astra模型先進網路安全成果初期將僅面向測試者群體開放使用。"
+    },
     {
       "id": "5071622",
       "time": "2026-09-02 04:02:04",
@@ -114363,102 +114476,6 @@
         "其他"
       ],
       "text": "ZOOM第二財季營收12.8億美元，市場預估12.7億美元。"
-    },
-    {
-      "id": "mkt:01a03a88-63ac-7aab-911a-038361fd449e",
-      "time": "2026-08-26 04:06:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude down 5.00% intraday at $85.87/bbl."
-    },
-    {
-      "id": "mkt:01a03a88-0bd2-7aab-9119-fe758833746a",
-      "time": "2026-08-26 04:06:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Aug 25 (Tue) — Dow Jones Industrial Average closed up 160.07 points (+0.30%) at 53,577.23; S&P 500 closed up 24.36 points (+0.32%) at 7,677.22; Nasdaq Composite closed up 171.11 points (+0.66%) at 26,151.30."
-    },
-    {
-      "id": "mkt:01a03a87-29d4-7aab-9119-f3bc71ee5e89",
-      "time": "2026-08-26 04:05:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Sputnik cites sources: US, Iran reach consensus on ceasefire terms】Pakistani military and Iranian security sources told Sputnik the US and Iran have reached consensus on ceasefire terms that include freedom of navigation in the Strait of Hormuz. Sources said an announcement could come within days. An Islamabad memorandum foresees opening negotiations and holding a technical meeting."
-    },
-    {
-      "id": "5058500",
-      "time": "2026-08-26 04:05:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【據報道美伊即將達成停火】俄新社援引巴基斯坦與伊朗軍方訊息源報道，美國與伊朗據稱已達成停火協議，預計未來數日將正式對外宣佈。 這份網傳協議包含霍爾木茲海峽航行自由，以及依據伊斯蘭堡備忘錄重啟談判。 美國與伊朗雙方均尚未證實該協議；與此同時，阿曼與伊朗分別提出恢復海峽通航的臨時機制。"
-    },
-    {
-      "id": "te:markets:578033",
-      "time": "2026-08-26 04:03:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Intuit earnings above expectations at 4.03 USD — Intuit (INTU) released earnings per share at 4.03 USD, compared to market expectations of 3.54 USD."
-    },
-    {
-      "id": "5058499",
-      "time": "2026-08-26 04:03:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "財捷Intuit第四財季淨營收43.5億美元，分析師預期42.7億美元。預計2027財年營收232.8億-235.1億美元，分析師預期238.2億美元。"
-    },
-    {
-      "id": "mkt:01a03a85-5680-7aab-9119-eede6d82687d",
-      "time": "2026-08-26 04:03:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Alibaba",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bullish",
-        "NVDA.O",
-        "AMD.O"
-      ],
-      "text": "【U.S. close: major indexes rise; NVIDIA +2%】U.S. equities closed higher on Tuesday. The Dow rose 0.3%, the S&P 500 gained 0.32% and the Nasdaq added 0.66%. Memory names SK Hynix and Micron climbed more than 2%, NVIDIA rose 2.1% and AMD jumped nearly 5%. The Nasdaq Golden Dragon China Index gained 1.1%, with Alibaba up 0.8%."
-    },
-    {
-      "id": "5058498",
-      "time": "2026-08-26 04:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本原子能機構及其他機構已研發出可從水和石油中提取稀土元素的技術。"
     }
   ]
 }
