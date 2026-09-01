@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-01 10:20:42",
-  "count": 13168,
+  "updated": "2026-09-01 10:24:38",
+  "count": 13164,
   "items": [
+    {
+      "id": "5069847",
+      "time": "2026-09-01 10:23:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亮源新創開源通用導航大腦LightNav-0】9月1日，亮源新創（Light Origins）釋出並開源通用導航大腦LightNav-0。該導航大腦依託 Real2Sim2Real技術，團隊基於2000+真實室內外場景，大規模化合成了4000+小時的後訓練資料，實現跨本體、跨任務、跨場景的零樣本真機泛化導航。LightNav-0是亮源新創“規模化預訓練一規模化對齊一規模化部署”三段正規化中規模化對齊(Scalable Alignment)的一項成果，為機器人後訓練資料規模化生產提供可複用技術路徑。"
+    },
+    {
+      "id": "5069846",
+      "time": "2026-09-01 10:23:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務省官員：貝森特理解日本央行的獨立性。"
+    },
+    {
+      "id": "5069845",
+      "time": "2026-09-01 10:22:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【紡服行業板塊震盪反彈，九牧王直線漲停】紡服行業板塊震盪反彈，九牧王直線漲停，盛泰集團、朗姿股份、中胤時尚、地素時尚、臺華新材、七匹狼等跟漲。"
+    },
+    {
+      "id": "5069844",
+      "time": "2026-09-01 10:22:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為Mate XT 2首次搭載硬體級防窺】9月1日，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東宣佈，華為Mate XT 2 非凡大師搭載靈盾防窺屏，也是大屏產品首次搭載硬體級防窺，雙擊背屏可開啟防窺功能。"
+    },
+    {
+      "id": "mkt:01a05ac5-fab1-7118-8427-2a27b65a9975",
+      "time": "2026-09-01 10:21:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Newly listed N Ma Mining surged more than 349%, triggering a temporary trading halt."
+    },
+    {
+      "id": "5069843",
+      "time": "2026-09-01 10:21:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘油輪在霍爾木茲海峽遇襲】英國海上貿易行動辦公室8月31日釋出通報說，一艘油輪在駛離霍爾木茲海峽時，在阿曼海塞卜以東17海里（約合31公里）處遭3枚不明投射物襲擊。通報說，目前暫無人員傷亡和對環境造成影響的報告。通報建議船隻謹慎通行相關海域。（新華社）"
+    },
+    {
+      "id": "mkt:01a05ac5-7c9c-7118-8427-2675934128c9",
+      "time": "2026-09-01 10:21:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "600276.SS",
+        "Impact bullish"
+      ],
+      "text": "【Hengrui's Ruihengying, China's first domestically developed long‑acting insulin analog, debuts on Alibaba Health】Hengrui Medicine launched Ruihengying, a Class 1 innovative biologic long‑acting insulin injection for adult type 2 diabetes, on Alibaba Health. The product — China’s first domestically developed long‑acting insulin analog — moved from regulatory approval to online listing in one month; industry participants say this signals a shortening of the approval‑to‑market chain for innovative drugs in China."
+    },
+    {
+      "id": "mkt:01a05ac5-356b-7118-8427-1a914e078937",
+      "time": "2026-09-01 10:21:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000596.SZ",
+        "Impact bullish",
+        "600809.SH"
+      ],
+      "text": "China A-share baijiu sector rose in choppy trade; Gujinggong gained over 9%, Jinshiyuan over 7%, while Jinzhongzi, Huangtai, Yingjia Gongjiu and Shanxi Fenjiu also advanced."
+    },
+    {
+      "id": "5069842",
+      "time": "2026-09-01 10:21:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國首個自主研發長效胰島素類似物瑞恆盈®在阿里健康首發】9月1日，恆瑞醫藥自主研發的1類創新生物藥舒地胰島素注射液（商品名：瑞恆盈®）在阿里健康首發。這是國內首款自主研發的長效胰島素類似物，用於成人2型糖尿病治療。該藥從獲批到首發上線僅一個月，業內認為，這反映出創新藥從獲批到可及的鏈路正在進一步縮短。"
+    },
+    {
+      "id": "5069841",
+      "time": "2026-09-01 10:20:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念區域性回暖 明新旭騰漲停】人形機器人概念區域性回暖，明新旭騰漲停，駿創科技漲超10%，宇樹科技、兆豐股份、上海沿浦、美力科技、巨輪智慧等跟漲。"
+    },
     {
       "id": "5069840",
       "time": "2026-09-01 10:20:02",
@@ -120135,128 +120228,6 @@
         "國際"
       ],
       "text": "日本財政大臣片山：或將收到針對散戶投資者的日本政府債券稅收改革請求。"
-    },
-    {
-      "id": "5056565",
-      "time": "2026-08-25 10:24:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數扭轉跌勢，現持平。"
-    },
-    {
-      "id": "mkt:01a036bb-8f9f-7aab-9103-b2c8e61b5a18",
-      "time": "2026-08-25 10:24:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said he has received various views on a retail-focused JGB issuance scheme."
-    },
-    {
-      "id": "mkt:01a036bb-4464-7aab-9103-a931649531a9",
-      "time": "2026-08-25 10:23:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said she will balance fiscal sustainability with economic growth and will keep markets informed of that stance."
-    },
-    {
-      "id": "5056564",
-      "time": "2026-08-25 10:23:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財政大臣片山：已收到關於面向散戶投資者的日本政府債券計劃的各種意見。"
-    },
-    {
-      "id": "mkt:01a036ba-8b40-7aab-9103-a6ae1aa70837",
-      "time": "2026-08-25 10:23:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said the 2027 fiscal year budget will focus on key policies to boost economic growth."
-    },
-    {
-      "id": "5056563",
-      "time": "2026-08-25 10:23:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山（內良雄）表示：日方將平衡財政可持續性與經濟增長，並就這一政策立場與市場保持溝通。"
-    },
-    {
-      "id": "5056562",
-      "time": "2026-08-25 10:22:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【成都出臺房地產市場新政】8月25日，成都市住房和城鄉建設局、成都市規劃和自然資源局、成都市財政局、成都住房公積金管理中心聯合釋出《關於進一步最佳化促進房地產市場平穩健康發展相關政策措施的通知》，其中明確，申請住房公積金貸款的，最低首付款比例為15%，並給予一年期限、20%的利息補貼；將鼓勵區（市）縣發放補貼支援購房，支援群眾“拆舊建好”；同時將探索收購存量商辦等用作保障性租賃住房以及菜市場、養老服務、社群中心等公服配套設施，探索將房票安置的適用範圍從住宅拓展至商業、辦公用房等非住宅物業的徵收補償。"
-    },
-    {
-      "id": "mkt:01a036b9-a176-7aab-9103-9e659152c1fc",
-      "time": "2026-08-25 10:22:10",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【BofA: Bank of Japan may use rate hikes to stabilize yen】BofA Global Research economists say the Bank of Japan may lead by using rate hikes as the primary tool to stabilize the yen. To make FX intervention durable and secure long-term yen stability, Japan will likely need to shift its policy mix; the most probable path is fiscal expansion paired with monetary tightening. BofA expects the BOJ to hike on a quarterly cadence and to end the tightening cycle in July 2027 with a terminal rate of 2%. BofA leaves its end-2026 USD/JPY forecast unchanged at 149."
-    },
-    {
-      "id": "mkt:01a036b9-7f50-7aab-9103-929833018e7e",
-      "time": "2026-08-25 10:22:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister KATAYAMA said she could not comment on the FY2027 budget request."
-    },
-    {
-      "id": "5056561",
-      "time": "2026-08-25 10:21:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【成都出臺房地產市場新政】8月25日，成都市住房和城鄉建設局、成都市規劃和自然資源局、成都市財政局、成都住房公積金管理中心聯合釋出《關於進一步最佳化促進房地產市場平穩健康發展相關政策措施的通知》，其中明確，申請住房公積金貸款的，最低首付款比例為15%，並給予一年期限、20%的利息補貼；將鼓勵區（市）縣發放補貼支援購房，支援群眾“拆舊建好”；同時將探索收購存量商辦等用作保障性租賃住房以及菜市場、養老服務、社群中心等公服配套設施，探索將房票安置的適用範圍從住宅拓展至商業、辦公用房等非住宅物業的徵收補償。"
-    },
-    {
-      "id": "5056560",
-      "time": "2026-08-25 10:21:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：無法就2027財年預算申請置評。"
-    },
-    {
-      "id": "5056559",
-      "time": "2026-08-25 10:21:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世界最大直徑水下盾構隧道建成通車】8月25日，由濟南城市建設集團投資建設、中鐵十四局施工的濟南黃崗路黃河隧道建成通車，標誌著世界最大直徑水下盾構隧道正式投入使用。隧道通車後，來往車輛跨黃通勤時間，將從原先約三四十分鐘壓縮至約5分鐘。"
-    },
-    {
-      "id": "5056558",
-      "time": "2026-08-25 10:21:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大消費板塊持續活躍 中百集團等多股漲停】大消費板塊盤中持續活躍，零售、食品飲料、旅遊方向均表現不俗，中百集團封漲停，此前上海九百、凱撒旅業、三峽旅遊、華天酒店漲停，百合股份、歐福蛋業、品渥食品、黑芝麻、桂發祥等跟漲。"
-    },
-    {
-      "id": "5056557",
-      "time": "2026-08-25 10:20:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海博思創等在海南成立新公司 註冊資本5億】天眼查App顯示，近日，海博思創智算投資（海南）有限公司成立，法定代表人為石曉霄，註冊資本5億人民幣，經營範圍含以自有資金從事投資活動、融資諮詢服務、軟體開發、資訊系統整合服務、新興能源技術研發、大資料服務等，由海南啟芯智雲科技合夥企業（有限合夥）、北京海博思創科技股份有限公司、新博創（北京）國際控股有限公司共同持股。"
     }
   ]
 }
