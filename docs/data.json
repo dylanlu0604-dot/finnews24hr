@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-02 08:32:39",
-  "count": 12762,
+  "updated": "2026-09-02 08:36:25",
+  "count": 12764,
   "items": [
+    {
+      "id": "mkt:01a05f8a-666f-7118-844a-ef5dca2eb004",
+      "time": "2026-09-02 08:35:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Nvidia in talks to buy Hugging Face; deal could total $14 bln】Nvidia (NVDA.O) is in advanced talks to acquire AI startup Hugging Face in a deal that could total about $14 bln, sources said. One source said Nvidia could agree as early as this week to buy Hugging Face for about $12.9 bln. The transaction may include an approximately $1 bln employee retention package. Sources cautioned no final agreement has been reached and timing and terms remain subject to change. The deal would be Nvidia’s largest move to date to broaden AI applications and its customer base and would give the company control of a key developer platform for sharing and showcasing AI models."
+    },
+    {
+      "id": "mkt:01a05f89-bbd9-7118-844a-e1baf00dc01b",
+      "time": "2026-09-02 08:34:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【U.S. strikes two moored Iranian government tankers】AXIOS reports the U.S. military struck two moored Iranian government tankers on Tuesday as part of a wider set of strikes, U.S. officials said. Officials said this marks the first time Washington has struck Iranian tankers in direct retaliation for alleged Iranian attacks on vessels transiting the Strait of Hormuz; previous actions against Iranian tankers had focused on enforcing U.S. maritime restrictions. A U.S. official said the operation is part of a Trump-approved tanker-for-tanker policy intended to further deter attacks on tankers transiting the Strait of Hormuz. The struck tankers were moored in Iranian nearshore waters north of the U.S. maritime blockade line; U.S. drones fired missiles that hit engine rooms. U.S. officials said additional targets included Islamic Revolutionary Guard Corps air defenses, radar, mine-laying facilities, communications sites, anti-ship cruise missile launchers and attack-drone launch platforms."
+    },
+    {
+      "id": "5071919",
+      "time": "2026-09-02 08:32:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗一婚禮因美軍襲擊5死50傷】當地時間9月1日晚，美軍襲擊伊朗多地。據伊朗媒體報道，在伊朗南部霍爾木茲甘省錫裡克地區一處村莊，一處正在舉行婚禮的民房被美軍彈片擊中。目前死亡人數已升至5人，其中包括一名兒童，此外還有包括35名重傷員在內的大約50人受傷。死傷人數可能還將進一步上升。"
+    },
+    {
+      "id": "5071918",
+      "time": "2026-09-02 08:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳8月住宅成交創近5年同期新高 政策組合拳預熱“金九”】記者注意到，8月份深圳房地產市場整體呈現“淡季不淡”的盤整態勢。資料顯示，上月深圳一、二手住宅網籤量同比均保持正增長，整體成交創下2022年以來同期新高。同時，前線門店實際簽約量逆勢走高。市場分析認為，在剛需與學區房置業群體逐漸活躍的背景下，疊加近期多項重磅樓市政策落地釋放的積極訊號，深圳樓市“金九”行情或已提前啟動。網籤資料顯示，8月深圳新房成交3467套，環比下降23%；二手房成交5317套，環比下降9.3%。 值得一提的是，深圳8月住宅整體成交創2022年以來同期新高。深圳中原研究中心資料顯示，8月深圳一、二手住宅成交6864套，環比下滑17.5%，同比上升8.5%，為2022年以來同期新高。其中，一手住宅（預現售）網籤2589套，環比下滑26.6%，同比上升20.4%，為2023年以來最高；二手住宅過戶4275套，環比下降10.8，同比上升2.4%，為2021年以來最高。"
+    },
+    {
+      "id": "5071917",
+      "time": "2026-09-02 08:32:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：將蔚來汽車目標股價從62.9港元下調至54.4港元。"
+    },
     {
       "id": "5071916",
       "time": "2026-09-02 08:31:31",
@@ -116987,32 +117040,6 @@
         "觀點"
       ],
       "text": "【摩根士丹利：快手新遊有望成為重要利潤增長點】摩根士丹利表示，如果當前強勁勢頭得以延續，快手新遊戲《詭秘之主》自第三季度起或將成為公司盈利的重要貢獻項。分析師Yang Liu 等人在研報中指出，該遊戲有望實現約 20 億元的年度流水，且增量利潤率較高，有望抬升快手第三季度及全年業績指引。該遊戲自 8 月 21 日上線以來，iOS 暢銷榜排名穩定維持在 15‑20 名區間。這款遊戲或將對網易長線爆款《逆水寒》形成競爭壓力。"
-    },
-    {
-      "id": "5058669",
-      "time": "2026-08-26 08:36:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西門子能源將分拆工業轉型部門，擬保留少數股權】西門子能源8月25日宣佈，正著手將工業轉型部門拆分為一家獨立公司。未來架構旨在為工業轉型業務提供更大創業靈活性和更多增長選擇，包括引入外部投資者和潛在資本市場交易。西門子能源計劃在剝離該業務的同時保留少數股權，以支援其持續發展。"
-    },
-    {
-      "id": "5058668",
-      "time": "2026-08-26 08:36:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4700美元/盎司，日內漲0.12%。"
-    },
-    {
-      "id": "5058667",
-      "time": "2026-08-26 08:32:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【現場曝光！美陸軍一架“黑鷹”直升機突發“航空事故”迫降樹林中】據美國《星條旗報》、哥倫比亞廣播公司（CBS）報道，美國陸軍一架“黑鷹”直升機當地時間25日在科羅拉多州丹佛市以西的一片樹林中進行了一次疑似“計劃外的迫降”，美陸軍稱這是一起“航空事故”。美陸軍25日下午就此事發表宣告稱，在例行訓練中發生了這起“航空事故”，目前正在進行調查。當地警方表示，機上共有四人。初步報告顯示無人受傷。CBS稱，這架直升機屬於駐紮在肯塔基州坎貝爾堡的第160特種作戰航空團。（環球網）"
     }
   ]
 }
