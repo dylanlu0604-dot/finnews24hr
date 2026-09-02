@@ -1,7 +1,101 @@
 {
-  "updated": "2026-09-02 10:22:12",
-  "count": 12864,
+  "updated": "2026-09-02 10:26:13",
+  "count": 12861,
   "items": [
+    {
+      "id": "5072168",
+      "time": "2026-09-02 10:25:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達4.06%，成分股中，同惠電子漲10.73%，科力股份漲9.55%，艾融軟體漲8.89%，華密新材漲7.00%。"
+    },
+    {
+      "id": "mkt:01a05fef-21a6-7118-844f-7bec7e56bf3c",
+      "time": "2026-09-02 10:25:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N"
+      ],
+      "text": "【Alibaba Qwen upgrades to Qwen3.8-Max-0902】Alibaba's Qwen said the Qwen3.8-Max-0902 upgrade is complete. The model was further trained on Coding & Cowork and delivers improved performance on complex enterprise tasks, scientific research and long-horizon workflows. Pricing: $2 input / $6 output per MLN tokens."
+    },
+    {
+      "id": "5072167",
+      "time": "2026-09-02 10:24:54",
+      "tags": [
+        "行業"
+      ],
+      "text": "【利息減少，一些銀行定期存款卻逆勢大增】截至2026年8月末，A股42家上市銀行2026年半年報披露收官。一個看似矛盾的訊號浮出水面：曾持續數年的“存款定期化”趨勢並未逆轉——農業銀行6月末個人定期存款餘額達14.30萬億元，較上年末增加9422.14億元；工商銀行上半年個人定期平均餘額同比再增1萬億元。但另一條曲線已經轉向：高成本定期存款正隨著集中到期而陸續重定價，推動銀行負債成本明顯下行。(每日經濟新聞)"
+    },
+    {
+      "id": "5072166",
+      "time": "2026-09-02 10:24:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家醫保局：新版方案對創新技術的支援更加明確】國家醫保局召開新聞釋出會，釋出按病種付費3.0版分組方案和技術規範。據介紹，新版分組方案分組更加精細化。ADRG核心分組從2.0版的409組增加到492組，增加83組；DRG細分組從634組增加到825組，增加了191組。這好比把原來混裝在一個“大筐”裡的病例，按照更細緻的標準拆分到了不同的“小籃子”裡，更加貼合臨床實際。二是更加重視“一老一小”的特殊性。我國正處於人口老齡化的加速期，同時兒童、產婦醫療服務的特殊性也日益受到重視。3.0版針對小於6歲和大於等於70歲的病例進行了細分，佔全部DRG組的十分之一，無痛分娩也有了獨立的3個支付分組，此舉是對“一老一小”重點群體健康需求的積極回應，也是支援生育友好型社會建設的又一項重要舉措。三是對創新技術的支援更加明確。3.0版一個清晰的“支援訊號”，是針對機器人輔助手術進行細分，為技術創新和應用提供了清晰、正向的支付預期。"
+    },
+    {
+      "id": "te:markets:580278",
+      "time": "2026-09-02 10:24:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Strengthens on Fed Rate Hike Bets — The dollar index rose above 99.7 on Wednesday, reaching its highest level in nearly three weeks as surging oil prices intensified inflation concerns and reinforced expectations for an imminent Federal Reserve interest rate hike. Oil prices advanced for a third consecutive session amid escalating hostilities between the US and Iran, raising concerns over further disruptions to energy flows from the Middle East. Meanwhile, Fed Chair Kevin Warsh’s commitment to combating inflation strengthened bets for a rate increase, with markets now pricing in around a 70% chance of a move this month. Fed Governor Michael Barr also said on Tuesday that the central bank should be prepared to raise interest rates if inflation fails to ease. Attention now turns to the ADP employment report due Wednesday and nonfarm payrolls on Friday for further clues on the Fed’s policy path."
+    },
+    {
+      "id": "5072165",
+      "time": "2026-09-02 10:23:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "追覓CEO俞浩賬號解封。"
+    },
+    {
+      "id": "5072164",
+      "time": "2026-09-02 10:23:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱襲擊兩艘伊朗油輪】據美國阿克西奧斯新聞網站9月1日援引美官員訊息報道稱，美軍當天襲擊了兩艘伊朗油輪。 報道說，這兩艘伊朗油輪當時停泊在伊朗海岸附近，被美軍無人機擊中。美官員稱，這是美軍首次以襲擊伊朗油輪方式報復伊朗襲擊霍爾木茲海峽內船隻。 美軍中央司令部1日在社交媒體釋出訊息說，美軍已完成對伊朗軍事目標的新一輪打擊，目標包括伊朗伊斯蘭革命衛隊的防空陣地、雷達系統、佈雷能力以及通訊站點等。 伊朗媒體8月31日援引伊朗革命衛隊的訊息報道，一艘超級油輪在霍爾木茲海峽觸雷後起火，已停止航行，這艘油輪“當時正試圖非法穿越霍爾木茲海峽南部”。美軍中央司令部隨後發表宣告稱此說法不實。(新華社)"
+    },
+    {
+      "id": "5072163",
+      "time": "2026-09-02 10:23:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前位元組、騰訊AI核心研發孫鵬加盟星塵智慧】前位元組跳動強化學習專家、前騰訊Robotics X智慧體中⼼負責⼈孫鵬博⼠正式加入星塵智慧，將重點負責機器人強化學習方向的技術研發與應用探索。（介面新聞）"
+    },
+    {
+      "id": "te:markets:580275",
+      "time": "2026-09-02 10:22:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Aussie Dollar Steadies After Strong GDP Data — The Australian dollar steadied around $0.71, holding recent losses as investors assessed stronger-than-expected GDP data that strengthened the case for another interest rate hike. The economy expanded 0.4% quarter-on-quarter in Q2, beating forecasts for 0.3% growth, while annual growth accelerated to 2.1%, above expectations for 1.8%. The stronger reading suggested economic activity remains resilient despite the Reserve Bank's efforts to cool demand and curb persistent inflation. Markets raised the odds of a fourth rate hike at the September meeting to 57% from 48% previously after the GDP release, while a November hike is now more than fully priced in. The probability of another hike in Q1 2027 also rose to 82% from 62%. Meanwhile, concerns over potential oil supply disruptions amid the escalating US-Iran conflict have pushed energy prices higher, adding to inflation pressures. However, a stronger US dollar capped the Aussie as rising yields boosted demand for safe-haven currencies."
+    },
+    {
+      "id": "5072162",
+      "time": "2026-09-02 10:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國臺辦回應陸委會涉臺灣文旦柚輸入大陸言論】9月2日上午，國臺辦舉行例行新聞釋出會。記者：對於海關總署公佈新增一批臺灣文旦柚果園和包裝廠，陸委會稱，符合政治前提與條件者才能獲得註冊，這種做法是統戰宣傳；兩岸農產品檢疫涉及公權力事項，須由雙方主管部門溝通才能務實解決。請問對此有何評論？國臺辦發言人張晗：臺灣文旦柚輸入大陸有助於擴大島內農產品銷路、增進臺灣同胞福祉，是惠及島內基層業者的好事、實事。民進黨無心也無力幫助更多基層民眾增進利益福祉，反而一味造謠抹黑，充分暴露出他們罔顧民生，心中只有一己私利，必遭廣大臺灣同胞反對。"
+    },
     {
       "id": "mkt:01a05feb-9b2c-7118-844f-71eedca240e3",
       "time": "2026-09-02 10:21:11",
@@ -117893,127 +117987,6 @@
         "市場"
       ],
       "text": "澳大利亞S&P/ASX 200指數走勢逆轉，最新下跌0.01%，報9,163.70點。"
-    },
-    {
-      "id": "5058877",
-      "time": "2026-08-26 10:26:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部：“十四五”期間我國規模以上工業增加值年均增長5.9%】國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，“十四五”期間，我國製造業規模和質量不斷邁上新臺階。製造業規模持續增長，規模以上工業增加值年均增長5.9%，全部製造業增加值由2020年的26.5萬億元增長至34.7萬億元，佔GDP比重保持在25%左右。"
-    },
-    {
-      "id": "5058876",
-      "time": "2026-08-26 10:25:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【多隻工業有色ETF漲幅居前】工業金屬板塊持續走強。工業有色ETF萬家（560860）、工業有色ETF鵬華（159162）、有色ETF富國（159168）等多隻ETF漲超3%。"
-    },
-    {
-      "id": "5058875",
-      "time": "2026-08-26 10:25:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【黃金概念盤中再度走強 深中華A5連板】黃金概念盤中再度走強，深中華A5連板，迪阿股份、金誠信、白銀有色、金一文化、江西銅業漲停，湖南白銀、雲南銅業、西部礦業、盛達資源、高能環境跟漲。"
-    },
-    {
-      "id": "mkt:01a03be2-fb05-7aab-911f-588868489479",
-      "time": "2026-08-26 10:25:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share financials rallied intraday again. Xiangcai Co. hit the daily limit after Jinlong Co. earlier reached its limit; Zhaori Technology jumped over 15%. LianDi Information, Huijin Technology, Hengyin Technology, Chutianlong, Dazhihui and Compass quickly followed."
-    },
-    {
-      "id": "5058874",
-      "time": "2026-08-26 10:25:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破79000美元，日內漲0.67%。"
-    },
-    {
-      "id": "5058873",
-      "time": "2026-08-26 10:25:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【梘下窩鋰礦專案環評受理公示撤銷】宜春時代新能源礦業有限公司江西省宜豐縣圳口裡—奉新縣梘下窩鋰礦採礦專案環境影響報告書在擬受理公示期間，群眾對建設單位前期公示的網站存在質疑。現將該擬受理公示撤銷，待後續核准符合要求後，再另行公示。（宜春市生態環境局環評科）"
-    },
-    {
-      "id": "5058872",
-      "time": "2026-08-26 10:25:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”時期我國將加快培育“人工智慧+”“機器人+”等重大應用場景】國新辦舉行“開局起步‘十五五’”系列主題新聞釋出會，工業和資訊化部相關負責人介紹全力抓好“十五五”規劃實施、加快推進新型工業化有關情況。釋出會上介紹，“十五五”時期，我國將抓好場景培育，推動新技術新產品新場景大規模應用加速成勢。開展製造業新技術新產品新場景大規模應用示範，加快培育“5G+”“人工智慧+”“機器人+”“工業網際網路+”“北斗+”等重大應用場景，完善標誌性專案遴選、新技術新產品新場景清單釋出、供需對接等機制，一體推進創新成果在真實場景中測試驗證、迭代升級、產業化落地、大規模應用。"
-    },
-    {
-      "id": "5058871",
-      "time": "2026-08-26 10:24:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【大金融板塊再度拉昇 湘財股份直線漲停】大金融板塊盤中再度拉昇，券商、互聯金融方向領漲，湘財股份直線漲停，此前錦龍股份漲停，兆日科技漲超15%，聯迪資訊、匯金科技、恆銀科技、楚天龍、大智慧、指南針等快速跟漲。"
-    },
-    {
-      "id": "5058870",
-      "time": "2026-08-26 10:24:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：兩岸交流往來順暢熱絡是民心所向、大勢所趨】國務院臺辦舉行例行新聞釋出會。有記者問：近日，臺灣工業總會發布《2026工總白皮書》，其中兩岸政策以“自信穩健，建構兩岸發展新局”為主題，持續建議簡化大陸專業人士赴臺審查流程，持續表達產業界高度期盼改善大陸人士赴臺申請流程，並希望透過民間交流創造更穩定的兩岸關係。請問對此有何評論?發言人張晗表示，兩岸同胞是一家人，理應常來常往、走親走近。臺灣工商界、產業界希望兩岸交流往來順暢熱絡，這是民心所向、大勢所趨。長期以來，我們秉持“兩岸一家親”理念，積極推動兩岸各領域交流合作，不斷採取措施，為兩岸民眾往來提供便利。希望民進黨當局傾聽業界呼聲，儘快取消阻礙兩岸交流往來的不合理限制措施，便利兩岸交流融合。"
-    },
-    {
-      "id": "mkt:01a03be0-f49d-7aab-911f-56c342e81a52",
-      "time": "2026-08-26 10:23:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "China will promote 6G industry maturation and ecosystem development during the 15th Five-Year Plan period."
-    },
-    {
-      "id": "5058869",
-      "time": "2026-08-26 10:22:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”時期我國將促進6G產業成熟和生態構建】工業和資訊化部資訊通訊發展司司長劉鬱林8月26日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上說，“十五五”時期將加快6G核心技術攻關，持續開展6G技術試驗、標準研製，促進6G產業成熟和生態構建，為6G商用做好準備。(新華社)"
-    },
-    {
-      "id": "5058868",
-      "time": "2026-08-26 10:22:19",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【國臺辦：祖國必須統一也必然統一】國務院臺辦舉行例行新聞釋出會。有記者問：新黨於8月22日舉行33週年黨慶活動，表示新黨將堅守立場，堅定推動中華民族統一。此外，活動原計劃在中油公司舉行，據傳因民進黨當局打壓，中油臨時毀約，該活動不得不緊急更換地點。請問對此有何評論？對此，發言人張晗表示，解決臺灣問題，實現祖國完全統一是全體中華兒女的共同願望。祖國必須統一，也必然統一。包括新黨在內越來越多的臺灣同胞認識到，兩岸統一是任何人、任何勢力都無法阻擋的歷史大勢。張晗還表示，民進黨當局違逆歷史大勢，頑固堅持“臺獨”分裂立場，不擇手段打擊迫害包括島內統派在內的政治異己，大搞“綠色恐怖”，必然遭到歷史的唾棄和人民的唾棄。"
-    },
-    {
-      "id": "mkt:01a03be0-19e6-7aab-911f-4ee487f52ce3",
-      "time": "2026-08-26 10:22:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Deloitte projects Asia-Pacific will be the largest contributor to global financial services value added by 2035, at $4.8 trillion, surpassing the US at $4.3 trillion."
     }
   ]
 }
